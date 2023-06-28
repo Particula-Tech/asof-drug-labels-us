@@ -4,7 +4,8 @@
 | ABRAXANE is a prescription medicine used to treat: •advanced breast cancer in people who have already received certain other medicines for their cancer.•advanced non-small cell lung cancer (NSCLC), in combination with carboplatin in people who cannot be treated with surgery or radiation.•advanced pancreatic cancer, when used in combination with gemcitabine as the first medicine for advanced pancreatic cancer. |  |  |
 | It is not known if ABRAXANE is safe or effective in children. |  |  |
 | Do not receive ABRAXANE if: •your white blood cell count is below 1,500 cells/ mm3.•you have had a severe allergic reaction to ABRAXANE. |  |  |
-| Before you receive ABRAXANE, tell your healthcare provider about all of your medical conditions, including if you: •have liver or kidney problems.•had a prior allergic reaction to a taxane.•are pregnant or plan to become pregnant. ABRAXANE can harm your unborn baby.Females who are able to become pregnant: |  |  |
+| Before you receive ABRAXANE, tell your healthcare provider about all of your medical conditions, including if you: •have liver or kidney problems.•had a prior allergic reaction to a taxane.•are pregnant or plan to become pregnant. ABRAXANE can harm your unborn baby.Females who are able to become pregnant: oYour healthcare provider will check to see if you are pregnant before you start treatment with ABRAXANE. oYou should not become pregnant during your treatment and for at least six months after the last dose of ABRAXANE. oYou should use effective birth control (contraception) during your treatment and for at least six months after the last dose of ABRAXANE. Talk to your healthcare provider about birth control methods you can use during this time. |  |  |
+| Males with a female sexual partner who can become pregnant: oABRAXANE can harm the unborn baby of your partner.oYou should not father a child during your treatment and for at least three months after the last dose of ABRAXANE. oYou should use effective birth control (contraception) during your treatment and for at least three months after the last dose of ABRAXANE. •are breastfeeding or plan to breastfeed. Do not breastfeed during your treatment and for two weeks after the last dose of ABRAXANE. |  |  |
 | Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. |  |  |
 | Know the medicines you take. Keep a list to show your healthcare provider and pharmacist when you get a new medicine. |  |  |
 | How will I receive ABRAXANE? •Your healthcare provider will prescribe ABRAXANE in an amount that is right for you.•Your healthcare provider may give you certain medicines to help prevent allergic reactions if you have had an allergic reaction to ABRAXANE in the past.•ABRAXANE will be given to you by intravenous (IV) infusion into your vein.•Your healthcare provider should do blood tests regularly during treatment with ABRAXANE.•Your healthcare provider may stop your treatment, delay your treatment, or change your dose of ABRAXANE if you have certain side effects. |  |  |
@@ -24,7 +25,7 @@
 | What are the ingredients in ABRAXANE? |  |  |
 | Active ingredient: paclitaxel (bound to human albumin). |  |  |
 | Other ingredient: human albumin (containing sodium caprylate and sodium acetyltryptophanate). |  |  |
-| Manufactured by: Bristol-Myers Squibb Compnay, Princeton, NJ 08543 USA |  |  |
+| Marketed by: Bristol-Myers Squibb Company, Princeton, NJ 08543 USA |  |  |
 | ABRAXANE® is a trademark of Abraxis BioScience, LLC, a Bristol-Myers Squibb company. |  |  |
 | U.S. Patent Numbers: www.bms.com/patient-and-caregivers/our-medicines.html |  |  |
 | ABRPPI.013 |  |  |

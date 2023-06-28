@@ -81,19 +81,19 @@ Recommended dose modifications for neutropenia and thrombocytopenia for patients
 
 Table 4: Dose Recommendation and Modifications for Neutropenia and/or Thrombocytopenia at the Start of a Cycle or within a Cycle for Patients with Adenocarcinoma of the Pancreas
 
-| Cycle Day | ANC (cells/mm3) |  | Platelet count (cells/mm3) | ABRAXANE / Gemcitabine |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Day 1 | < 1500 | OR | < 100,000 | Delay doses until recovery |  |  |  |  |  |  |  |
-| Day 8 | 500 to < 1000 | OR | 50,000 to < 75,000 | Reduce 1 dose level |  |  |  |  |  |  |  |
-|  | < 500 | OR | < 50,000 | Withhold doses |  |  |  |  |  |  |  |
-| Day 15: If Day 8 doses were reduced or given without modification: |  |  |  |  |  |  |  |  |  |  |  |
-|  | 500 to < 1000 | OR | 50,000 to < 75,000 | Reduce 1 dose level from Day 8 |  |  |  |  |  |  |  |
-|  | < 500 | OR | < 50,000 | Withhold doses |  |  |  |  |  |  |  |
-| Day 15: If Day 8 doses were withheld: |  |  |  |  |  |  |  |  |  |  |  |
-|  | ≥ 1000 | OR | ≥ 75,000 | Reduce 1 dose level from Day 1 |  |  |  |  |  |  |  |
-|  | 500 to < 1000 | OR | 50,000 to < 75,000 | Reduce 2 dose levels from Day 1 |  |  |  |  |  |  |  |
-|  | < 500 | OR | < 50,000 | Withhold doses |  |  |  |  |  |  |  |
-| ANC = Absolute Neutrophil Count |  |  |  |  |  |  |  |  |  |  |  |
+| Cycle Day | ANC (cells/mm3) |  | Platelet count (cells/mm3) | ABRAXANE / Gemcitabine |
+| --- | --- | --- | --- | --- |
+| Day 1 | < 1500 | OR | < 100,000 | Delay doses until recovery |
+| Day 8 | 500 to < 1000 | OR | 50,000 to < 75,000 | Reduce 1 dose level |
+|  | < 500 | OR | < 50,000 | Withhold doses |
+| Day 15: If Day 8 doses were reduced or given without modification: |  |  |  |  |
+|  | 500 to < 1000 | OR | 50,000 to < 75,000 | Reduce 1 dose level from Day 8 |
+|  | < 500 | OR | < 50,000 | Withhold doses |
+| Day 15: If Day 8 doses were withheld: |  |  |  |  |
+|  | ≥ 1000 | OR | ≥ 75,000 | Reduce 1 dose level from Day 1 |
+|  | 500 to < 1000 | OR | 50,000 to < 75,000 | Reduce 2 dose levels from Day 1 |
+|  | < 500 | OR | < 50,000 | Withhold doses |
+| ANC = Absolute Neutrophil Count |  |  |  |  |
 
 Recommended dose modifications for other adverse reactions in patients with adenocarcinoma of the pancreas are provided in Table 5.
 

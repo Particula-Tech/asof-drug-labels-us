@@ -1,8 +1,6 @@
 ABRAXANE® for Injectable Suspension (paclitaxel protein-bound particles for injectable suspension) (albumin-bound)
 
-Manufactured by:
-
-Bristol-Myers Squibb Company Princeton, NJ 08543 USA
+Marketed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
 ABRAXANE® is a trademark of Abraxis BioScience, LLC, a Bristol-Myers Squibb company.
 

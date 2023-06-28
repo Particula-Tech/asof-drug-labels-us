@@ -168,15 +168,15 @@ Table 8 provides the frequency and severity of adverse reactions, which occurred
 
 Table 8: Selected Adverse Reactions with a Difference of ≥5% for All Grade Toxicity or ≥2% for Grade 3-4 Toxicity Between Treatment Groups
 
-| System Organ Class | Adverse Reaction | ABRAXANE (100 mg/m2 weekly) + carboplatin (N=514) |  | Paclitaxel Injection (200 mg/m2 every 3 weeks) + carboplatin (N=524) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Grade 1-4 Toxicity (%) | Grade 3-4 Toxicity (%) | Grades 1-4 Toxicity (%) | Grade 3-4 Toxicity (%) |  |  |  |  |  |  |  |
-| Nervous system disorders | Peripheral neuropathya | 48 | 3 | 64 | 12 |  |  |  |  |  |
-| General disorders and administration site conditions | Edema peripheral | 10 | 0 | 4 | <1 |  |  |  |  |  |
-| Respiratory thoracic and mediastinal disorders | Epistaxis | 7 | 0 | 2 | 0 |  |  |  |  |  |
-| Musculoskeletal and connective tissue disorders | Arthralgia | 13 | <1 | 25 | 2 |  |  |  |  |  |
-| Myalgia | 10 | <1 | 19 | 2 |  |  |  |  |  |  |
-| a Peripheral neuropathy is defined by the MedDRA Version 14.0 SMQ neuropathy (broad scope). |  |  |  |  |  |  |  |  |  |  |
+| System Organ Class | Adverse Reaction | ABRAXANE (100 mg/m2 weekly) + carboplatin (N=514) |  | Paclitaxel Injection (200 mg/m2 every 3 weeks) + carboplatin (N=524) |  |
+| --- | --- | --- | --- | --- | --- |
+| Grade 1-4 Toxicity (%) | Grade 3-4 Toxicity (%) | Grades 1-4 Toxicity (%) | Grade 3-4 Toxicity (%) |  |  |
+| Nervous system disorders | Peripheral neuropathya | 48 | 3 | 64 | 12 |
+| General disorders and administration site conditions | Edema peripheral | 10 | 0 | 4 | <1 |
+| Respiratory thoracic and mediastinal disorders | Epistaxis | 7 | 0 | 2 | 0 |
+| Musculoskeletal and connective tissue disorders | Arthralgia | 13 | <1 | 25 | 2 |
+| Myalgia | 10 | <1 | 19 | 2 |  |
+| a Peripheral neuropathy is defined by the MedDRA Version 14.0 SMQ neuropathy (broad scope). |  |  |  |  |  |
 
 For the ABRAXANE plus carboplatin treated group, 17/514 (3%) patients developed Grade 3 peripheral neuropathy and no patients developed Grade 4 peripheral neuropathy.
 Grade 3 neuropathy improved to Grade 1 or resolved in 10/17 patients (59%) following interruption or discontinuation of ABRAXANE.
@@ -203,33 +203,33 @@ Table 10 provides the frequency and severity of adverse reactions which occurred
 
 Table 10: Selected Adverse Reactions with a Higher Incidence (≥5% for All Grade Toxicity or ≥2% for Grade 3 or Higher Toxicity) in the ABRAXANE/Gemcitabine Arm
 
-| System Organ Class | Adverse Reaction | ABRAXANE (125 mg/m2) and gemcitabine (N=421) |  | Gemcitabine (N=402) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| All Grades | Grade 3 or Higher | All Grades | Grade 3 or Higher |  |  |  |  |  |  |  |
-| General disorders and administration site conditions | Fatigue | 248 (59%) | 77 (18%) | 183 (46%) | 37 (9%) |  |  |  |  |  |
-| Peripheral edema | 194 (46%) | 13 (3%) | 122 (30%) | 12 (3%) |  |  |  |  |  |  |
-|  | Pyrexia | 171 (41%) | 12 (3%) | 114 (28%) | 4 (1%) |  |  |  |  |  |
-|  | Asthenia | 79 (19%) | 29 (7%) | 54 (13%) | 17 (4%) |  |  |  |  |  |
-|  | Mucositis | 42 (10%) | 6 (1%) | 16 (4%) | 1 (<1%) |  |  |  |  |  |
-| Gastrointestinal disorders | Nausea | 228 (54%) | 27 (6%) | 192 (48%) | 14 (3%) |  |  |  |  |  |
-|  | Diarrhea | 184 (44%) | 26 (6%) | 95 (24%) | 6 (1%) |  |  |  |  |  |
-|  | Vomiting | 151 (36%) | 25 (6%) | 113 (28%) | 15 (4%) |  |  |  |  |  |
-| Skin and subcutaneous tissue disorders | Alopecia | 212 (50%) | 6 (1%) | 21 (5%) | 0 |  |  |  |  |  |
-| Rash | 128 (30%) | 8 (2%) | 45 (11%) | 2 (<1%) |  |  |  |  |  |  |
-| Nervous system disorders | Peripheral neuropathya | 227 (54%) | 70 (17%) | 51 (13%) | 3 (1%) |  |  |  |  |  |
-|  | Dysgeusia | 68 (16%) | 0 | 33 (8%) | 0 |  |  |  |  |  |
-|  | Headache | 60 (14%) | 1 (<1%) | 38 (9%) | 1 (<1%) |  |  |  |  |  |
-| Metabolism and nutrition disorders | Decreased appetite | 152 (36%) | 23 (5%) | 104 (26%) | 8 (2%) |  |  |  |  |  |
-| Dehydration | 87 (21%) | 31 (7%) | 45 (11%) | 10 (2%) |  |  |  |  |  |  |
-|  | Hypokalemia | 52 (12%) | 18 (4%) | 28 (7%) | 6 (1%) |  |  |  |  |  |
-| Respiratory, thoracic and mediastinal disorders | Cough | 72 (17%) | 0 | 30 (7%) | 0 |  |  |  |  |  |
-| Epistaxis | 64 (15%) | 1 (<1%) | 14 (3%) | 1 (<1%) |  |  |  |  |  |  |
-| Infections and infestations | Urinary tract infections b | 47 (11%) | 10 (2%) | 20 (5%) | 1 (<1%) |  |  |  |  |  |
-| Musculoskeletal and connective tissue disorders | Pain in extremity | 48 (11%) | 3 (1%) | 24 (6%) | 3 (1%) |  |  |  |  |  |
-| Arthralgia | 47 (11%) | 3 (1%) | 13 (3%) | 1 (<1%) |  |  |  |  |  |  |
-|  | Myalgia | 44 (10%) | 4 (1%) | 15 (4%) | 0 |  |  |  |  |  |
-| Psychiatric disorders | Depression | 51 (12%) | 1 (<1%) | 24 (6%) | 0 |  |  |  |  |  |
-| a Peripheral neuropathy is defined by the MedDRA Version 15.0 Standard MedDRA Query neuropathy (broad scope). b Urinary tract infections includes the preferred terms of: urinary tract infection, cystitis, urosepsis, urinary tract infection bacterial, and urinary tract infection enterococcal. |  |  |  |  |  |  |  |  |  |  |
+| System Organ Class | Adverse Reaction | ABRAXANE (125 mg/m2) and gemcitabine (N=421) |  | Gemcitabine (N=402) |  |
+| --- | --- | --- | --- | --- | --- |
+| All Grades | Grade 3 or Higher | All Grades | Grade 3 or Higher |  |  |
+| General disorders and administration site conditions | Fatigue | 248 (59%) | 77 (18%) | 183 (46%) | 37 (9%) |
+| Peripheral edema | 194 (46%) | 13 (3%) | 122 (30%) | 12 (3%) |  |
+|  | Pyrexia | 171 (41%) | 12 (3%) | 114 (28%) | 4 (1%) |
+|  | Asthenia | 79 (19%) | 29 (7%) | 54 (13%) | 17 (4%) |
+|  | Mucositis | 42 (10%) | 6 (1%) | 16 (4%) | 1 (<1%) |
+| Gastrointestinal disorders | Nausea | 228 (54%) | 27 (6%) | 192 (48%) | 14 (3%) |
+|  | Diarrhea | 184 (44%) | 26 (6%) | 95 (24%) | 6 (1%) |
+|  | Vomiting | 151 (36%) | 25 (6%) | 113 (28%) | 15 (4%) |
+| Skin and subcutaneous tissue disorders | Alopecia | 212 (50%) | 6 (1%) | 21 (5%) | 0 |
+| Rash | 128 (30%) | 8 (2%) | 45 (11%) | 2 (<1%) |  |
+| Nervous system disorders | Peripheral neuropathya | 227 (54%) | 70 (17%) | 51 (13%) | 3 (1%) |
+|  | Dysgeusia | 68 (16%) | 0 | 33 (8%) | 0 |
+|  | Headache | 60 (14%) | 1 (<1%) | 38 (9%) | 1 (<1%) |
+| Metabolism and nutrition disorders | Decreased appetite | 152 (36%) | 23 (5%) | 104 (26%) | 8 (2%) |
+| Dehydration | 87 (21%) | 31 (7%) | 45 (11%) | 10 (2%) |  |
+|  | Hypokalemia | 52 (12%) | 18 (4%) | 28 (7%) | 6 (1%) |
+| Respiratory, thoracic and mediastinal disorders | Cough | 72 (17%) | 0 | 30 (7%) | 0 |
+| Epistaxis | 64 (15%) | 1 (<1%) | 14 (3%) | 1 (<1%) |  |
+| Infections and infestations | Urinary tract infections b | 47 (11%) | 10 (2%) | 20 (5%) | 1 (<1%) |
+| Musculoskeletal and connective tissue disorders | Pain in extremity | 48 (11%) | 3 (1%) | 24 (6%) | 3 (1%) |
+| Arthralgia | 47 (11%) | 3 (1%) | 13 (3%) | 1 (<1%) |  |
+|  | Myalgia | 44 (10%) | 4 (1%) | 15 (4%) | 0 |
+| Psychiatric disorders | Depression | 51 (12%) | 1 (<1%) | 24 (6%) | 0 |
+| a Peripheral neuropathy is defined by the MedDRA Version 15.0 Standard MedDRA Query neuropathy (broad scope). b Urinary tract infections includes the preferred terms of: urinary tract infection, cystitis, urosepsis, urinary tract infection bacterial, and urinary tract infection enterococcal. |  |  |  |  |  |
 
 Additional clinically relevant adverse reactions that were reported in < 10% of the patients with adenocarcinoma of the pancreas who received ABRAXANE/gemcitabine included:
 
@@ -304,7 +304,7 @@ Tumor lysis syndrome
 
 Other Clinical Events
 
-Skin reactions including generalized or maculopapular rash, erythema, and pruritus
+Skin reactions including generalized or maculopapular rash, erythema, and pruritus.
 
 Photosensitivity reactions, radiation recall phenomenon, scleroderma, and in some patients previously exposed to capecitabine, reports of palmar-plantar erythrodysesthesia.
 Stevens-Johnson syndrome and toxic epidermal necrolysis have been reported.

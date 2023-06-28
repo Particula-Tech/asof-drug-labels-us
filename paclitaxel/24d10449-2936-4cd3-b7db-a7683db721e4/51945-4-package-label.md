@@ -1,4 +1,4 @@
-# 100mg Vial Label
+PRINCIPAL DISPLAY PANEL - 100 mg Vial
 
 NDC 68817-134-50 103450
 
@@ -10,12 +10,12 @@ Abraxane® for Injectable Suspension
 
 Discard any unused portion.
 
-For Intravenous Use OnlyRx only
+For Intravenous Use Only Rx only
 
 Functional properties differ from other paclitaxel products.
 DO NOT SUBSTITUTE.
 
-# 100mg Vial Carton
+PRINCIPAL DISPLAY PANEL - 100 mg Vial Carton
 
 NDC 68817-134-50 103450
 
@@ -27,7 +27,7 @@ Abraxane® for Injectable Suspension
 
 Discard any unused portion.
 
-For Intravenous Use OnlyRx only
+For Intravenous Use Only Rx only
 
 Functional properties differ from other paclitaxel products.
 DO NOT SUBSTITUTE.
