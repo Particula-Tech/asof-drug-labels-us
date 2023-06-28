@@ -1,3 +1,5 @@
+# LYUMJEV VIAL U-100 INSTRUCTIONS FOR USE
+
 Instructions for Use
 
 LYUMJEV™ (LOOM-jehv)
@@ -23,9 +25,6 @@ Supplies needed to give your injection
 - gauze (optional)
 - 1 sharps container for throwing away used syringes and needles.
   See “Disposing of used syringes and needles” at the end of these instructions.
-
-| Vial | Syringe |
-| --- | --- |
 
 Preparing your LYUMJEV dose
 
@@ -136,6 +135,8 @@ All rights reserved.
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Revised: August 2021 LUMVL-0002-IFU-20210813
+
+# LYUMJEV KWIKPEN U-100 INSTRUCTIONS FOR USE
 
 Instructions for Use
 
@@ -319,6 +320,8 @@ All rights reserved.
 Issued: June 2020
 
 LUMKP-0001-IFU-20200615
+
+# LYUMJEV JUNIOR KWIKPEN U-100 INSTRUCTIONS FOR USE
 
 Instructions for Use
 
@@ -504,6 +507,8 @@ Issued: June 2020
 
 LUMJRKP-0001-IFU-20200615
 
+# LYUMJEV TEMPO PEN U-100 INSTRUCTIONS FOR USE
+
 Instructions for Use
 
 LYUMJEV™ Tempo Pen™ (LOOM-jehv)
@@ -687,6 +692,8 @@ All rights reserved.
 Issued: June 2020
 
 LUMTP-0001-IFU-20200615
+
+# LYUMJEV KWIKPEN U-200 INSTRUCTIONS FOR USE
 
 Instructions for Use
 
