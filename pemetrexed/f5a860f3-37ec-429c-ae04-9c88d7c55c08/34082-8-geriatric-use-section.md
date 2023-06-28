@@ -1,6 +1,0 @@
-# 8.5 Geriatric Use
-
-Of the 3,946 patients enrolled in clinical studies of ALIMTA, 34% were 65 and over and 4% were 75 and over.
-No overall differences in effectiveness were observed between these patients and younger patients.
-The incidences of Grade 3-4 anemia, fatigue, thrombocytopenia, hypertension, and neutropenia were higher in patients 65 years of age and older as compared to younger patients: in at least one of five randomized clinical trials.
-[see Adverse Reactions (6.1) and Clinical Studies (14.1, 14.2)].

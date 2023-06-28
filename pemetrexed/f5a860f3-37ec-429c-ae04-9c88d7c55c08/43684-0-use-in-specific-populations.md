@@ -25,3 +25,52 @@ Risk Summary
 
 There is no information regarding the presence of pemetrexed or its metabolites in human milk, the effects on the breastfed infant, or the effects on milk production.
 Because of the potential for serious adverse reactions in breastfed infants from ALIMTA, advise women not to breastfeed during treatment with ALIMTA and for one week after the last dose.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Based on animal data ALIMTA can cause malformations and developmental delays when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+
+Pregnancy Testing
+
+Verify pregnancy status of females of reproductive potential prior to initiating Pemetrexed Injection [see Use in Specific Populations (8.1)].
+
+Contraception
+
+Females
+
+Because of the potential for genotoxicity, advise females of reproductive potential to use effective contraception during treatment with ALIMTA and for 6 months after the last dose.
+
+Males
+
+Because of the potential for genotoxicity, advise males with female partners of reproductive potential to use effective contraception during treatment with ALIMTA and for 3 months after the last dose [see Nonclinical Toxicology (13.1)].
+
+Infertility
+
+Males
+
+ALIMTA may impair fertility in males of reproductive potential.
+It is not known whether these effects on fertility are reversible [see Nonclinical Toxicology (13.1)].
+
+## 8.4 Pediatric Use
+
+The safety and effectiveness of ALIMTA in pediatric patients have not been established.
+The safety and pharmacokinetics of ALIMTA were evaluated in two clinical studies conducted in pediatric patients with recurrent solid tumors (NCT00070473 N=32 and NCT00520936 N=72).
+Patients in both studies received concomitant vitamin B12 and folic acid supplementation and dexamethasone.
+
+No tumor responses were observed.
+Adverse reactions observed in pediatric patients were similar to those observed in adults.
+
+Single-dose pharmacokinetics of ALIMTA were evaluated in 22 patients age 4 to 18 years enrolled in NCT00070473 were within range of values in adults.
+
+## 8.5 Geriatric Use
+
+Of the 3,946 patients enrolled in clinical studies of ALIMTA, 34% were 65 and over and 4% were 75 and over.
+No overall differences in effectiveness were observed between these patients and younger patients.
+The incidences of Grade 3-4 anemia, fatigue, thrombocytopenia, hypertension, and neutropenia were higher in patients 65 years of age and older as compared to younger patients: in at least one of five randomized clinical trials.
+[see Adverse Reactions (6.1) and Clinical Studies (14.1, 14.2)].
+
+## 8.6 Patients with Renal Impairment
+
+ALIMTA is primarily excreted by the kidneys.
+Decreased renal function results in reduced clearance and greater exposure (AUC) to ALIMTA compared with patients with normal renal function [Warnings and Precautions (5.2, 5.6) and Clinical Pharmacology (12.3)].
+No dose is recommended for patients with creatinine clearance less than 45 mL/min [see Dosage and Administration (2.3)].
