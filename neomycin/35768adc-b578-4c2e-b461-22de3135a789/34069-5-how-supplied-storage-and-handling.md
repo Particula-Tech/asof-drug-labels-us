@@ -13,4 +13,4 @@ Code No.: TS/DRUGS/13/2010
 
 Made in India
 
-PIA44801-01 Issued: 04/2019
+PIA44801-02 Revised: 02/2022
