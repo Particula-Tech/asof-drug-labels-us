@@ -1,100 +1,93 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed in greater detail in other sections of the label:
+The following important adverse reactions are described below and elsewhere in the labeling:
 
-- Rhabdomyolysis with myoglobinuria and acute renal failure and myopathy (including myositis) [see Warnings and Precautions (5.1)]
-- Liver enzyme abnormalities [see Warnings and Precautions (5.3)]
+Myopathy and Rhabdomyolysis [see Warnings and Precautions (5.1)]
 
-## 6.1 Clinical Studies Experience
+Immune-Mediated Necrotizing Myopathy [see Warnings and Precautions (5.2)]
 
-Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
+Hepatic Dysfunction [see Warnings and Precautions (5.3)]
 
-In the rosuvastatin controlled clinical trials database (placebo or active-controlled) of 5394 patients with a mean treatment duration of 15 weeks, 1.4% of patients discontinued due to adverse reactions.
-The most common adverse reactions that led to treatment discontinuation were:
+Proteinuria and Hematuria [see Warnings and Precautions (5.4)]
 
-- myalgia
-- abdominal pain
-- nausea
+Increases in HbA1c and Fasting Serum Glucose Levels [see Warnings and Precautions (5.5)]
 
-The most commonly reported adverse reactions (incidence ≥2%) in the rosuvastatin controlled clinical trial database of 5394 patients were:
+## 6.1 Clinical Trials Experience
 
-- headache
-- myalgia
-- abdominal pain
-- asthenia
-- nausea
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Adverse reactions reported in ≥2% of patients in placebo-controlled clinical studies and at a rate greater than placebo are shown in Table 1.
+Adverse reactions reported in ≥2% of patients in placebo-controlled clinical studies and at a rate greater than placebo are shown in Table 2.
 These studies had a treatment duration of up to 12 weeks.
 
-Table 1.
-Adverse Reactions1 Reported in ≥2% of Patients Treated with Rosuvastatin and > Placebo in Placebo-Controlled Trials (% of Patients)
+Table 2: Adverse Reactions Reported in ≥2% of Patients Treated with Rosuvastatin and > Placebo in Placebo-Controlled Trials
 
-| Adverse Reactions | Rosuvastatin 5 mg N=291 | Rosuvastatin 10 mg N=283 | Rosuvastatin 20 mg N=64 | Rosuvastatin 40 mg N=106 | Total Rosuvastatin 5 mg to 40 mg N=744 | Placebo N=382 |
+| Adverse Reactions | Placebo N=382 % | Rosuvastatin 5 mg N=291 % | Rosuvastatin 10 mg N=283 % | Rosuvastatin 20 mg N=64 % | Rosuvastatin 40 mg N=106 % | Total Rosuvastatin 5 mg to 40 mg N=744 % |
 | --- | --- | --- | --- | --- | --- | --- |
-| Headache | 5.5 | 4.9 | 3.1 | 8.5 | 5.5 | 5.0 |
-| Nausea | 3.8 | 3.5 | 6.3 | 0 | 3.4 | 3.1 |
-| Myalgia | 3.1 | 2.1 | 6.3 | 1.9 | 2.8 | 1.3 |
-| Asthenia | 2.4 | 3.2 | 4.7 | 0.9 | 2.7 | 2.6 |
-| Constipation | 2.1 | 2.1 | 4.7 | 2.8 | 2.4 | 2.4 |
-
-1 Adverse reactions by COSTART preferred term.
+| Headache | 5.0 | 5.5 | 4.9 | 3.1 | 8.5 | 5.5 |
+| Nausea | 3.1 | 3.8 | 3.5 | 6.3 | 0 | 3.4 |
+| Myalgia | 1.3 | 3.1 | 2.1 | 6.3 | 1.9 | 2.8 |
+| Asthenia | 2.6 | 2.4 | 3.2 | 4.7 | 0.9 | 2.7 |
+| Constipation | 2.4 | 2.1 | 2.1 | 4.7 | 2.8 | 2.4 |
 
 Other adverse reactions reported in clinical studies were abdominal pain, dizziness, hypersensitivity (including rash, pruritus, urticaria, and angioedema) and pancreatitis.
-The following laboratory abnormalities have also been reported: dipstick-positive proteinuria and microscopic hematuria [see Warnings and Precautions (5.5)]; elevated creatine phosphokinase, transaminases, glucose, glutamyl transpeptidase, alkaline phosphatase, and bilirubin; and thyroid function abnormalities.
+The following laboratory abnormalities have also been reported: dipstick-positive proteinuria and microscopic hematuria; elevated creatine phosphokinase, transaminases, glucose, glutamyl transpeptidase, alkaline phosphatase, and bilirubin; and thyroid function abnormalities.
 
-In a clinical trial, involving 981 participants treated with rosuvastatin 40 mg (n=700) or placebo (n=281) with a mean treatment duration of 1.7 years, 5.6% of subjects treated with rosuvastatin versus 2.8% of placebo-treated subjects discontinued due to adverse reactions.
-The most common adverse reactions that led to treatment discontinuation were: myalgia, hepatic enzyme increased, headache, and nausea [see Clinical Studies (14.8)].
-
-Adverse reactions reported in ≥2% of patients and at a rate greater than placebo are shown in Table 2.
-
-Table 2.
-Adverse Reactions1 Reported in ≥2% of Patients Treated with Rosuvastatin and > Placebo in a Trial (% of Patients)
-
-| Adverse Reactions | Rosuvastatin 40 mg N=700 | Placebo N=281 |
-| --- | --- | --- |
-| Myalgia | 12.7 | 12.1 |
-| Arthralgia | 10.1 | 7.1 |
-| Headache | 6.4 | 5.3 |
-| Dizziness | 4.0 | 2.8 |
-| Increased CPK | 2.6 | 0.7 |
-| Abdominal pain | 2.4 | 1.8 |
-| ALT >3x ULN2 | 2.2 | 0.7 |
-
-1 Adverse reactions by MedDRA preferred term.
-
-2 Frequency recorded as abnormal laboratory value.
-
-In a clinical trial, 17,802 participants were treated with rosuvastatin 20 mg (n=8901) or placebo (n=8901) for a mean duration of 2 years.
-A higher percentage of rosuvastatin-treated patients versus placebo-treated patients, 6.6% and 6.2%, respectively, discontinued study medication due to an adverse event, irrespective of treatment causality.
-Myalgia was the most common adverse reaction that led to treatment discontinuation.
-
-There was a significantly higher frequency of diabetes mellitus reported in patients taking rosuvastatin (2.8%) versus patients taking placebo (2.3%).
-Mean HbA1c was significantly increased by 0.1% in rosuvastatin-treated patients compared to placebo-treated patients.
-The number of patients with a HbA1c >6.5% at the end of the trial was significantly higher in rosuvastatin-treated versus placebo-treated patients [see Warnings and Precautions (5.6) and Clinical Studies (14.9)].
-
+In the METEOR study, patients were treated with rosuvastatin 40 mg (n=700) or placebo (n=281) with a mean treatment duration of 1.7 years.
 Adverse reactions reported in ≥2% of patients and at a rate greater than placebo are shown in Table 3.
 
-Table 3.
-Adverse Reactions1Reported in ≥2% of Patients Treated with Rosuvastatin and > Placebo in a Trial (% of Patients)
+Table 3: Adverse Reactions Reported in ≥2% of Patients Treated with Rosuvastatin and > Placebo in the METEOR Trial
 
-| Adverse Reactions | Rosuvastatin 20 mg N=8901 | Placebo N=8901 |
+| Adverse Reactions | Placebo N=281 % | Rosuvastatin 40 mg N=700 % |
 | --- | --- | --- |
-| Myalgia | 7.6 | 6.6 |
-| Arthralgia | 3.8 | 3.2 |
-| Constipation | 3.3 | 3.0 |
-| Diabetes mellitus | 2.8 | 2.3 |
-| Nausea | 2.4 | 2.3 |
+| Myalgia | 12.1 | 12.7 |
+| Arthralgia | 7.1 | 10.1 |
+| Headache | 5.3 | 6.4 |
+| Dizziness | 2.8 | 4.0 |
+| Increased CPK | 0.7 | 2.6 |
+| Abdominal pain | 1.8 | 2.4 |
+| ALT greater than 3x ULN2 | 0.7 | 2.2 |
+| 2 Frequency recorded as abnormal laboratory value. |  |  |
 
-1 Treatment-emergent adverse reactions by MedDRA preferred term.
-Pediatric Patients with Heterozygous Familial Hypercholesterolemia In a 12-week controlled study in boys and postmenarcheal girls 10 to 17 years of age with heterozygous familial hypercholesterolemia with rosuvastatin 5 to 20 mg daily [see Use in Specific Populations (8.4) and Clinical Studies (14.7)], elevations in serum creatine phosphokinase (CK) >10 x ULN were observed more frequently in rosuvastatin compared with placebo-treated children.
-Four of 130 (3%) children treated with rosuvastatin (2 treated with 10 mg and 2 treated with 20 mg) had increased CK >10 x ULN, compared to 0 of 46 children on placebo.
+In the JUPITER study, patients were treated with rosuvastatin 20 mg (n=8901) or placebo (n=8901) for a mean duration of 2 years.
+In JUPITER, there was a significantly higher frequency of diabetes mellitus reported in patients taking rosuvastatin (2.8%) versus patients taking placebo (2.3%).
+Mean HbA1c was significantly increased by 0.1% in rosuvastatin-treated patients compared to placebo-treated patients.
+The number of patients with a HbA1c >6.5% at the end of the trial was significantly higher in rosuvastatin-treated versus placebo-treated patients [see Warnings and Precautions (5.5) and Clinical Studies (14)].
+
+Adverse reactions reported in ≥2% of patients and at a rate greater than placebo are shown in Table 4.
+
+Table 4: Adverse Reactions Reported in ≥2% of Patients Treated with Rosuvastatin and > Placebo in the JUPITER Trial
+
+| Adverse Reactions | Placebo N=8901 % | Rosuvastatin 20 mg N=8901 % |
+| --- | --- | --- |
+| Myalgia | 6.6 | 7.6 |
+| Arthralgia | 3.2 | 3.8 |
+| Constipation | 3.0 | 3.3 |
+| Diabetes mellitus | 2.3 | 2.8 |
+| Nausea | 2.3 | 2.4 |
+
+Pediatric Patients with HeFH
+
+In a 12-week controlled study in pediatric patients 10 to 17 years of age with HeFH with rosuvastatin 5 to 20 mg daily [see Use in Specific Populations (8.4) and Clinical Studies (14)], elevations in serum CK greater than 10 x ULN were observed more frequently in rosuvastatin-treated patients compared with patients receiving placebo.
+Four of 130 (3%) patients treated with rosuvastatin (2 treated with 10 mg and 2 treated with 20 mg) had increased CK greater than 10 x ULN, compared to 0 of 46 patients on placebo.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of rosuvastatin: arthralgia, fatal and non-fatal hepatic failure, hepatitis, jaundice, thrombocytopenia, depression, sleep disorders (including insomnia and nightmares), peripheral neuropathy, interstitial lung disease and gynecomastia.
+The following adverse reactions have been identified during postapproval use of rosuvastatin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.2)].
-There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, and confusion) associated with statin use.
-These cognitive issues have been reported for all statins.
+
+Blood Disorders: thrombocytopenia
+
+Hepatobiliary Disorders: hepatitis, jaundice, fatal and non-fatal hepatic failure
+
+Musculoskeletal Disorders: arthralgia, rare reports of immune-mediated necrotizing myopathy associated with statin use
+
+Nervous System Disorders: peripheral neuropathy, rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, and confusion) associated with the use of all statins.
 The reports are generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
+
+Psychiatric Disorders: depression, sleep disorders (including insomnia and nightmares)
+
+Reproductive System and Breast Disorders: gynecomastia
+
+Respiratory Disorders: interstitial lung disease
+
+Skin and Subcutaneous Tissue Disorders: drug reaction with eosinophilia and systemic symptoms (DRESS), lichenoid drug eruption

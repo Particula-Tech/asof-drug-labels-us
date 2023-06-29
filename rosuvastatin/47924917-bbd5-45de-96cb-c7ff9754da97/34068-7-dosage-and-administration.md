@@ -1,49 +1,62 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Dosing Information
+## 2.1 General Dosage and Administration Information
 
-The dose range for rosuvastatin tablets in adults is 5 to 40 mg orally once daily.
-The usual starting dose is 10 to 20 mg once daily.
-The usual starting dose in adult patients with homozygous familial hypercholesterolemia is 20 mg once daily.
-The maximum rosuvastatin tablets dose of 40 mg should be used only for those patients who have not achieved their LDL-C goal utilizing the 20 mg dose [see Warnings and Precautions (5.1)].
-Rosuvastatin tablets can be administered as a single dose at any time of day, with or without food.
-The tablet should be swallowed whole.
-When initiating rosuvastatin tablets therapy or switching from another HMG-CoA reductase inhibitor therapy, the appropriate rosuvastatin tablets starting dose should first be utilized, and only then titrated according to the patient’s response and individualized goal of therapy.
-After initiation or upon titration of rosuvastatin tablets, lipid levels should be analyzed within 2 to 4 weeks and the dosage adjusted accordingly.
+- Administer rosuvastatin tablets orally as a single dose at any time of day, with or without food.
+  The tablet should be swallowed whole.
+- Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating rosuvastatin tablets, and adjust the dosage if necessary.
+- If a dose is missed, advise patients not take an extra dose.
+  Resume treatment with the next dose.
 
-## 2.2 Pediatric Dosing
+## 2.2 Recommended Dosage in Adult Patients
 
-In heterozygous familial hypercholesterolemia, the recommended dose range is 5 to 10 mg orally once daily in patients 8 to less than 10 years of age, and 5 to 20 mg orally once daily in patients 10 to 17 years of age.
+- The dosage range for rosuvastatin tablets is 5 to 40 mg orally once daily.
+- The recommended dose of rosuvastatin tablets depends on a patient’s indication for usage, LDL-C, and individual risk for cardiovascular events.
 
-Pediatric use information for patients 7 to 17 years of age is approved for AstraZeneca’s CRESTOR (rosuvastatin calcium) tablets.
-However, due to AstraZeneca’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+## 2.3 Recommended Dosage in Pediatric Patients
 
-## 2.3 Dosing in Asian Patients
+Dosage in Pediatric Patients 8 Years of Age and Older with HeFH
 
-In Asian patients, consider initiation of rosuvastatin tablets therapy with 5 mg once daily due to increased rosuvastatin plasma concentrations.
-The increased systemic exposure should be taken into consideration when treating Asian patients not adequately controlled at doses up to 20 mg/day [see Use in Specific Populations (8.8) and Clinical Pharmacology (12.3)].
+The recommended dosage range is 5 mg to 10 mg orally once daily in patients aged 8 years to less than 10 years and 5 mg to 20 mg orally once daily in patients aged 10 years and older.
 
-## 2.4 Use with Concomitant Therapy
+Dosage in Pediatric Patients 7 Years of Age and Older with HoFH
 
-Patients taking cyclosporine and darolutamide
+The recommended dosage is 20 mg orally once daily.
 
-The dose of rosuvastatin tablets should not exceed 5 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.1), Drug Interactions (7.4) and Clinical Pharmacology (12.3)].
+## 2.4 Dosing in Asian Patients
 
-Patients taking gemfibrozil
+Initiate rosuvastatin tablets at 5 mg once daily due to increased rosuvastatin plasma concentrations.
+Consider the risks and benefits of rosuvastatin tablets when treating Asian patients not adequately controlled at doses up to 20 mg once daily [see Warnings and Precautions (5.1), Use in Specific Populations (8.8), and Clinical Pharmacology (12.3)].
 
-Avoid concomitant use of rosuvastatin tablets with gemfibrozil.
-If concomitant use cannot be avoided, initiate rosuvastatin tablets at 5 mg once daily.
-The dose of rosuvastatin tablets should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+## 2.5 Recommended Dosage in Patients with Renal Impairment
 
-Patients taking regorafenib
+In patients with severe renal impairment (CLcr less than 30 mL/min/1.73 m2) not on hemodialysis, the recommended starting dosage is 5 mg once daily and should not exceed 10 mg once daily [see Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
 
-Concomitant use of rosuvastatin tablets and regorafenib, the dose of rosuvastatin tablets should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.5) and Clinical Pharmacology (12.3)].
+There are no dosage adjustment recommendations for patients with mild and moderate renal impairment.
 
-Patients taking atazanavir and ritonavir, lopinavir and ritonavir, simeprevir or combination of dasabuvir/ombitasvir/paritaprevir/ritonavir, elbasvir/grazoprevir, sofosbuvir/velpatasvir and glecaprevir/pibrentasvir
+## 2.6 Dosage and Administration Modifications Due to Drug Interactions
 
-Initiate rosuvastatin tablets therapy with 5 mg once daily.
-The dose of rosuvastatin tablets should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.3) and Clinical Pharmacology (12.3)].
+Rosuvastatin Tablets Dosage Modifications Due to Drug Interactions
 
-## 2.5 Dosing in Patients with Severe Renal Impairment
+Table 1 displays dosage modifications for rosuvastatin tablets due to drug interactions [see Warnings and Precautions (5.1) and Drug Interactions (7.1)].
 
-For patients with severe renal impairment (CLcr <30 mL/min/1.73 m2) not on hemodialysis, dosing of rosuvastatin tablets should be started at 5 mg once daily and not exceed 10 mg once daily [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Table 1: Rosuvastatin Tablets Dosage Modifications Due to Drug Interactions
+
+| Concomitantly Used Drug | Rosuvastatin Tablets Dosage Modifications |
+| --- | --- |
+| Cyclosporine | Do not exceed 5 mg once daily. |
+| Teriflunomide | Do not exceed 10 mg once daily. |
+| Capmatinib | Do not exceed 10 mg once daily. |
+| Fostamatinib | Do not exceed 20 mg once daily. |
+| Febuxostat | Do not exceed 20 mg once daily. |
+| Gemfibrozil | Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 10 mg once daily. |
+| Tafamidis | Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 10 mg once daily. |
+| Antiviral Medications |  |
+| Sofbuvir/velpatasvir/voxilaprevir Ledipasvir/sofosbuvir | Concomitant use not recommended. |
+| SimeprevirDasabuvir/ombitasvir/paritaprevir/ritonavir Elbasvir/GrazoprevirSofosbuvir/Velpatasvir Glecaprevir/PibrentasvirAtazanavir/Ritonavir Lopinavir/Ritonavir | Initiate at 5 mg once daily. Do not exceed 10 mg once daily. |
+| Darolutamide | Do not exceed 5 mg once daily. |
+| Regorafenib | Do not exceed 10 mg once daily. |
+
+Rosuvastatin Tablets Administration Modifications Due to Drug Interactions
+
+When taking rosuvastatin tablets with an aluminum and magnesium hydroxide combination antacid, administer rosuvastatin tablets at least 2 hours before the antacid [see Drug Interactions (7.2)].
