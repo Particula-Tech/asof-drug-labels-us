@@ -19,7 +19,7 @@ This causes a reduction of hepatic cholesterol stores and an increase in clearan
 Clinical studies have demonstrated that elevated levels of total-C, LDL-C and Apo B, the major protein constituent of LDL, promote human atherosclerosis.
 In addition, decreased levels of HDL-C are associated with the development of atherosclerosis.
 Epidemiologic studies have established that cardiovascular morbidity and mortality vary directly with the level of total-C and LDL-C and inversely with the level of HDL-C.
-Like LDL, cholesterol-enriched triglyceride-rich lipoproteins, including very-low­ density lipoproteins (VLDL), intermediate-density lipoproteins (IDL), and remnants, can also promote atherosclerosis.
+Like LDL, cholesterol-enriched triglyceride-rich lipoproteins, including very-low­-density lipoproteins (VLDL), intermediate-density lipoproteins (IDL), and remnants, can also promote atherosclerosis.
 The independent effect of raising HDL-C or lowering TG on the risk of coronary and cardiovascular morbidity and mortality has not been determined.
 Ezetimibe reduces total-C, LDL-C, Apo B, non-HDL-C, and TG, and increases HDL-C in patients with hyperlipidemia.
 Administration of ezetimibe with a statin is effective in improving serum total-C, LDL-C, Apo B, non-HDL-C, TG, and HDL-C beyond either treatment alone.
