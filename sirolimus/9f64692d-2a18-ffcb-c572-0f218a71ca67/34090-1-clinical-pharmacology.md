@@ -9,7 +9,7 @@ The sirolimus:FKBP-12 complex has no effect on calcineurin activity.
 This complex binds to and inhibits the activation of the mammalian target of rapamycin (mTOR), a key regulatory kinase.
 This inhibition suppresses cytokine-driven T-cell proliferation, inhibiting the progression from the G1 to the S phase of the cell cycle.
 
-Mammalian target of sirolimus (mTOR) inhibitors such as sirolimus have been shown in vitro to inhibit production of certain growth factors that may affect angiogenesis, fibroblast proliferation, and vascular permeability.
+Mammalian target of rapamycin (mTOR) inhibitors such as sirolimus have been shown in vitro to inhibit production of certain growth factors that may affect angiogenesis, fibroblast proliferation, and vascular permeability.
 
 Studies in experimental models show that sirolimus prolongs allograft (kidney, heart, skin, islet, small bowel, pancreatico-duodenal, and bone marrow) survival in mice, rats, pigs, and/or primates.
 Sirolimus reverses acute rejection of heart and kidney allografts in rats and prolongs the graft survival in presensitized rats.
