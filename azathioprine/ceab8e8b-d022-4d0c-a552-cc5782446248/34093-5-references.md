@@ -72,9 +72,20 @@ Am J Hosp Pharm.
 1990; 47:1033-1049.
 21.Yodaiken RE, Bennett D. OSHA Work-Practice guidelines for personnel dealing with cytotoxic (antineoplastic) drugs.
 Am J Hosp Pharm, 1996; 43:1193-1204.
-Mfg. by Alcami Corporation, Wilmington, NC 28405
 
-Mfg. for Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430 Questions?
-1(888) 721-7115 www.glenmarkpharma.com/usa
+Manufactured for
 
-Glenmark
+Glenmark Pharmaceuticals Inc., USA
+
+Mahwah, NJ 07430
+
+Manufactured by:
+
+Alcami Corporation
+
+Wilmington, NC 28405
+
+Questions?
+1(888) 721-7115
+
+www.glenmarkpharma-us.com
