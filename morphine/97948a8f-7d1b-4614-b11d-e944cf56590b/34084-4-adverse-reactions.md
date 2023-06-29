@@ -3,14 +3,14 @@
 The following serious adverse reactions are described, or described in greater detail, in other sections:
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
-- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
-- Risks from Concomitant Use with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.5)]
-- Adrenal Insufficiency [see Warnings and Precautions (5.8)]
-- Severe Hypotension [see Warnings and Precautions (5.9)]
-- Risks of Use in Patients with Gastrointestinal Conditions [see Warnings and Precautions (5.11)]
-- Increased Risk of Seizures in Patients with Seizure Disorders [see Warnings and Precautions (5.12)]
-- Withdrawal [see Warnings and Precautions (5.13)]
+- Risks from Concomitant Use with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.3)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.9)]
+- Severe Hypotension [see Warnings and Precautions (5.10)]
+- Risks of Use in Patients with Gastrointestinal Conditions [see Warnings and Precautions (5.12)]
+- Increased Risk of Seizures in Patients with Seizure Disorders [see Warnings and Precautions (5.13)]
+- Withdrawal [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -21,21 +21,21 @@ The most common adverse reactions leading to study discontinuation were nausea, 
 
 | Clinical trial patients with chronic cancer pain (n=227) (AE by Body System as seen in 2% or more of patients) | Percentage % |
 | --- | --- |
-| Central Nervous System | 28 |
+| CENTRAL NERVOUS SYSTEM | 28 |
 | Drowsiness | 9 |
 | Dizziness | 6 |
 | Anxiety | 5 |
 | Confusion | 4 |
 | Dry mouth | 3 |
 | Tremor | 2 |
-| Gastrointestinal | 26 |
+| GASTROINTESTINAL | 26 |
 | Constipation | 9 |
 | Nausea | 7 |
 | Diarrhea | 3 |
 | Anorexia | 3 |
 | Abdominal pain | 3 |
 | Vomiting | 2 |
-| Body as a Whole | 16 |
+| BODY AS A WHOLE | 16 |
 | Pain | 3 |
 | Disease progression | 3 |
 | Chest pain | 2 |
@@ -43,13 +43,13 @@ The most common adverse reactions leading to study discontinuation were nausea, 
 | Fever | 2 |
 | Asthenia | 2 |
 | Accidental injury | 2 |
-| Respiratory | 3 |
+| RESPIRATORY | 3 |
 | Dyspnea | 3 |
-| Skin & Appendages | 3 |
+| SKIN & APPENDAGES | 3 |
 | Rash | 3 |
-| Metabolic & Nutritional | 3 |
+| METABOLIC & NUTRITIONAL | 3 |
 | Peripheral edema | 3 |
-| Hemic & Lymphatic | 4 |
+| HEMIC & LYMPHATIC | 4 |
 | Anemia | 2 |
 | Leukopenia | 2 |
 
@@ -86,4 +86,6 @@ Adrenal insufficiency: Cases of adrenal insufficiency have been reported with op
 
 Anaphylaxis: Anaphylaxis has been reported with ingredients contained in morphine sulfate extended-release capsules.
 
-Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+Androgen deficiency: Cases of androgen deficiency have occurred with use of opioids for an extended period of time.
+
+Hyperalgesia and Allodynia: cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see Warnings and Precautions (5.6)].

@@ -42,7 +42,7 @@ Effects on the Endocrine System
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
 
 Effects on the Immune System
@@ -53,7 +53,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration-Efficacy Relationships
 
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with extended-release agonist opioids.
 The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
 
 Concentration-Adverse Reaction Relationships
@@ -75,7 +75,7 @@ When morphine sulfate extended-release capsules were given twice daily to 24 pat
 At steady-state, morphine sulfate extended-release capsules have a significantly lower Cmax and a higher Cmin than equivalent doses of oral morphine solution given every 4 hrs and an extended-release tablet given twice daily.
 When given once daily to 24 patients with malignancy, morphine sulfate extended-release capsules have a similar Cmax and higher Cmin at steady-state when compared to an extended-release morphine tablets, given twice daily at an equivalent total daily dosage (see Table 2).
 
-The single-dose pharmacokinetics of morphine sulfate extended-release capsules are linear over the dosage range of 30 to 100 mg.
+The single-dose pharmacokinetics of morphine sulfate extended-release capsules are linear over the dosage range of 30 mg to 100 mg.
 
 Table 2: Mean pharmacokinetic parameters (% coefficient variation) resulting from a fasting single dose study in normal volunteers and a multiple-dose study in patients with cancer pain.
 
@@ -91,12 +91,12 @@ Table 2: Mean pharmacokinetic parameters (% coefficient variation) resulting fro
 
 Food Effect:
 
-While concurrent administration of food slows the rate of absorption of morphine sulfate extended-release capsules, the extent of absorption is not affected and morphine sulfate extended-release capsules can be administered without regard to meals.
+While concurrent administration of food slows the rate of absorption of morphine sulfate extended-release capsules, the extent of absorption is not affected, and morphine sulfate extended-release capsules can be administered without regard to meals.
 
 Distribution
 
 Once absorbed, morphine is distributed to skeletal muscle, kidneys, liver, intestinal tract, lungs, spleen and brain.
-The volume of distribution of morphine is approximately 3 to 4 L/kg.
+The volume of distribution of morphine is approximately 3 L/kg to 4 L/kg.
 Morphine is 30% to 35% reversibly bound to plasma proteins.
 Although the primary site of action of morphine is in the CNS, only small quantities pass the blood-brain barrier.
 Morphine also crosses the placental membranes [see Use in Specific Populations (8.1)] and has been found in breast milk [see Use in Specific Populations (8.2)].
@@ -105,7 +105,7 @@ Elimination
 
 Metabolism
 
-Major pathways of morphine metabolism include glucuronidation in the liver to produce metabolites including morphine-3-glucuronide, M3G (about 50%) and morphine-6-glucuronide, M6G (about 5 to 15%) and sulfation in the liver to produce morphine-3-etheral sulfate.
+Major pathways of morphine metabolism include glucuronidation in the liver to produce metabolites including morphine-3-glucuronide, M3G (about 50%) and morphine-6-glucuronide, M6G (about 5% to 15%) and sulfation in the liver to produce morphine-3-etheral sulfate.
 A small fraction (less than 5%) of morphine is demethylated.
 M3G has no significant contribution to the analgesic activity.
 Although M6G does not readily cross the blood-brain barrier, it has been shown to have opioid agonist and analgesic activity in humans.
@@ -121,7 +121,7 @@ Seven to 10% of administered morphine is excreted in the feces.
 
 The mean adult plasma clearance of morphine is about 20 to 30 mL/minute/kg.
 The effective terminal half-life of morphine after IV administration is reported to be approximately 2 hours.
-The terminal elimination half-life of morphine following a single dose of morphine sulfate extended-release capsules administration is approximately 11 to 13 hours.
+The terminal elimination half-life of morphine following a single dose of morphine sulfate extended-release capsules administration is approximately 11 hours to 13 hours.
 
 Specific Populations
 
@@ -143,5 +143,5 @@ Adequate studies of the pharmacokinetics of morphine in patients with severe hep
 Renal Impairment
 
 Morphine pharmacokinetics are altered in patients with renal failure.
-The AUC is increased and clearance is decreased and the metabolites, M3G and M6G, may accumulate to much higher plasma levels in patients with renal failure as compared to patients with normal renal function.
+The AUC is increased, and clearance is decreased and the metabolites, M3G and M6G, may accumulate to much higher plasma levels in patients with renal failure as compared to patients with normal renal function.
 Adequate studies of the pharmacokinetics of morphine in patients with severe renal impairment have not been conducted.

@@ -15,7 +15,7 @@ Opioid antagonists, such as naloxone, are specific antidotes to respiratory depr
 For clinically significant respiratory or circulatory depression secondary to opioid overdose, administer an opioid antagonist.
 
 Because the duration of reversal would be expected to be less than the duration of action of morphine in morphine sulfate extended-release capsules, carefully monitor the patient until spontaneous respiration is reliably reestablished.
-Morphine sulfate extended-release capsules will continue to release morphine add to the morphine load for 24 to 48 hours or longer following ingestion, necessitating prolonged monitoring.
+Morphine sulfate extended-release capsules will continue to release morphine add to the morphine load for 24 hours to 48 hours or longer following ingestion, necessitating prolonged monitoring.
 If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product's prescribing information.
 
 In an individual physically dependent on opioids, administration of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome.
