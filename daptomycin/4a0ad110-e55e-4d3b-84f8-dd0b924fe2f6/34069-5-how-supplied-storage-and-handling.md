@@ -14,4 +14,4 @@ The container closure is not made with natural rubber latex.
 Storage Conditions
 
 Store refrigerated between 2°C and 8°C (36°F and 46° F); avoid excessive heat.
-Discard unused portion.
+Storage conditions for the reconstituted and diluted solutions are described in another section of the prescribing information [see Dosage and Administration (2.7)].
