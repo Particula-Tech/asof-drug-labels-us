@@ -16,4 +16,4 @@ Lithium is an element of the alkali-metal group with atomic number 3, atomic wei
 The empirical formula for Lithium Citrate is C6H5Li3O7; molecular weight 209.93.
 Lithium acts as an antimanic.
 
-Lithium Carbonate USP is a granular, white powder with molecular formula Li2CO3 and molecular weight 73.89.
+Lithium Carbonate, USP is a granular, white powder with molecular formula Li2CO3 and molecular weight 73.89.

@@ -44,12 +44,12 @@ Lactation:
 
 Advise women that breastfeeding is not recommended during treatment with lithium [see Use in Specific Populations (8.2)].
 
-Distr. by: West-Ward
+Distributed by:
 
-Pharmaceuticals Corp.
+Hikma Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724
+Berkeley Heights, NJ 07922
 
-Revised October 2022
+Revised November 2022
 
-10008909/10
+C50000338/01

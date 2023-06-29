@@ -2,7 +2,7 @@
 
 Lithium Oral Solution USP, 8 mEq per 5 mL.
 
-Lithium Oral Solution USP is supplied as a clear, colorless to slightly amber or red solution.
+Lithium Oral Solution, USP is supplied as a clear, colorless to slightly amber or red solution.
 
 NDC 0054-3527-63: Bottle of 500 mL
 
@@ -12,7 +12,7 @@ Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C
 [See USP Controlled Room Temperature.]
 Dispense in a tight, child-resistant container as defined in the USP/NF.
 
-Lithium Carbonate Tablets USP
+Lithium Carbonate Tablets, USP
 
 300 mg supplied as white to off-white, biconvex tablet, scored on one side with product identification “54 452” debossed on the other side.
 
@@ -22,7 +22,7 @@ NDC 0054-4527-25: Bottle of 100 Tablets
 
 NDC 0054-4527-31: Bottle of 1,000 Tablets
 
-Lithium Carbonate Capsules USP
+Lithium Carbonate Capsules, USP
 
 150 mg supplied as opaque white capsules imprinted with product identification “54 213” on both caps and bodies and containing a white powder.
 

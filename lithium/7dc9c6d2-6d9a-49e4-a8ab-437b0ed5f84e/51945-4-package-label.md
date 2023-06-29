@@ -14,7 +14,7 @@ NDC 0054-4527-25
 
 Lithium Carbonate Tablet USP, 300 mg
 
-10 x 10 Unit Dose
+10 x 10 Unit-Dose
 
 NDC 0054-8528-25
 
