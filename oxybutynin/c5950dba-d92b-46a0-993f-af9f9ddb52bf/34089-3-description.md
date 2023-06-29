@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Oxybutynin chloride extended-release tablets, USP are an antispasmodic, muscarinic antagonist.
+Oxybutynin chloride extended-release tablets are an antispasmodic, muscarinic antagonist.
 Each Oxybutynin chloride extended-release tablet contains 5 mg, 10 mg, or 15 mg of oxybutynin chloride USP, formulated as a once-a-day controlled-release tablet for oral administration.
 Oxybutynin chloride is administered as a racemate of R- and S-enantiomers.
 
@@ -28,4 +28,4 @@ The function of Oxybutynin chloride extended-release tablets depends on the exis
 Since the osmotic gradient remains constant, drug delivery remains essentially constant.
 The biologically inert components of the tablet remain intact during gastrointestinal transit and are eliminated in the feces as an insoluble shell.
 
-USP Drug Release Test 3.
+USP Dissolution Test 3.

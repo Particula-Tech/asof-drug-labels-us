@@ -4,7 +4,7 @@ Lannett Company, Inc.,
 
 Philadelphia, PA 19136
 
-CIA72763N
+CIA72763P
 
 Rev.
-04/2021
+05/2023

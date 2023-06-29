@@ -10,7 +10,7 @@ Adverse reactions reported by ≥ 1% of subjects are shown in Table 1.
 
 Table 1: Adverse Drug Reactions Reported by ≥ 1% of Oxybutynin chloride extended-release tablets-treated Adult Subjects in Five Double-blind, Controlled Clinical Trials of Oxybutynin chloride extended-release tablets
 
-| System/Organ Class Preferred Term | Oxybutynin chloride extended-release tablets 5 to 30 mg/day n = 774 % | Oxybutynin chloride IR* 5 to 20 mg/day n = 199 % |
+| System/Organ Class Preferred Term | Oxybutynin chloride extended-release tablets 5 to 30 mg/day n = 774 % | Oxybutynin chloride IRIR = immediate release 5 to 20 mg/day n = 199 % |
 | --- | --- | --- |
 | Psychiatric Disorders |  |  |
 | Insomnia | 3.0 | 5.5 |
@@ -47,9 +47,7 @@ Table 1: Adverse Drug Reactions Reported by ≥ 1% of Oxybutynin chloride extend
 | General Disorders and Administration Site Conditions |  |  |
 | Fatigue | 2.6 | 3.0 |
 | Investigations |  |  |
-| Residual urine volume† | 2.3 | 3.5 |
-
-* IR = immediate release † The bundled term residual urine volume consists of the preferred terms residual urine volume and residual urine volume increased.
+| Residual urine volumeThe bundled term residual urine volume consists of the preferred terms residual urine volume and residual urine volume increased. | 2.3 | 3.5 |
 
 The discontinuation rate due to adverse reactions was 4.4% with Oxybutynin chloride extended-release tablets compared to 0% with Oxybutynin chloride IR.
 The most frequent adverse reaction causing discontinuation of study medication was dry mouth (0.7%).

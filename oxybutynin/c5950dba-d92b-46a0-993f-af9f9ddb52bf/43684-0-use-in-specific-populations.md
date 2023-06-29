@@ -4,9 +4,7 @@
 
 Risk Summary
 
-There are no adequate data on Oxybutynin chloride extended-release tablets use in pregnant women to evaluate for a drug associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
-
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+There are no adequate data on Oxybutynin chloride extended-release tablets use in pregnant women to evaluate for a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
 ## 8.2 Lactation
