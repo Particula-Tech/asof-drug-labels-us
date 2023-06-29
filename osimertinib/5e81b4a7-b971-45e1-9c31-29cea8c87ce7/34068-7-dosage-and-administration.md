@@ -47,7 +47,7 @@ Recommended Dosage Modifications for TAGRISSO
 | Cardiac [see Warnings and Precautions (5.2, 5.3)] | QTcQTc = QT interval corrected for heart rate interval greater than 500 msec on at least 2 separate ECGsECGs = Electrocardiogram | Withhold TAGRISSO until QTc interval is less than 481 msec or recovery to baseline if baseline QTc is greater than or equal to 481 msec, then resume at 40 mg dose. |
 | QTc interval prolongation with signs/symptoms of life-threatening arrhythmia | Permanently discontinue TAGRISSO. |  |
 | Symptomatic congestive heart failure | Permanently discontinue TAGRISSO. |  |
-| Cutaneous [see Warnings and Precautions (5.5)] | Stevens-Johnson syndrome (SJS), Erythema Multiforme Major (EMM) | Withhold TAGRISSO if suspected and permanently discontinue if confirmed. |
+| Cutaneous [see Warnings and Precautions (5.5)] | Erythema Multiforme Major (EMM), Stevens-Johnson syndrome (SJS), and Toxic Epidermal Necrolysis (TEN) | Withhold TAGRISSO if suspected and permanently discontinue if confirmed. |
 | Blood and bone marrow [see Warnings and Precautions (5.7)] | Aplastic anemia | Withhold TAGRISSO if aplastic anemia is suspected and permanently discontinue if confirmed. |
 | Other [see Adverse Reactions (6.1)] | Adverse reaction of Grade 3 or greater severity | Withhold TAGRISSO for up to 3 weeks. |
 | If improvement to Grade 0-2 within 3 weeks | Resume at 80 mg or 40 mg daily. |  |

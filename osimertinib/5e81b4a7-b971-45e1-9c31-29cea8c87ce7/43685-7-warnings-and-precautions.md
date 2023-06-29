@@ -2,10 +2,10 @@
 
 ## 5.1 Interstitial Lung Disease/Pneumonitis
 
-Interstitial lung disease (ILD)/pneumonitis occurred in 3.7% of the 1479 TAGRISSO-treated patients; 0.3% of cases were fatal.
+Interstitial lung disease (ILD)/pneumonitis occurred in 3.8% of the 1479 TAGRISSO-treated patients; 0.3% of cases were fatal.
 
 Withhold TAGRISSO and promptly investigate for ILD in patients who present with worsening of respiratory symptoms which may be indicative of ILD (e.g., dyspnea, cough and fever).
-Permanently discontinue TAGRISSO if ILD is confirmed [see Dosage and Administration (2.4) and Adverse Reactions (6)].
+Permanently discontinue TAGRISSO if ILD/pneumonitis is confirmed [see Dosage and Administration (2.4) and Adverse Reactions (6.1)].
 
 ## 5.2 QTc Interval Prolongation
 
@@ -33,14 +33,14 @@ For symptomatic congestive heart failure, permanently discontinue TAGRISSO [see 
 Keratitis was reported in 0.7% of 1479 patients treated with TAGRISSO in clinical trials.
 Promptly refer patients with signs and symptoms suggestive of keratitis (such as eye inflammation, lacrimation, light sensitivity, blurred vision, eye pain and/or red eye) to an ophthalmologist.
 
-## 5.5 Erythema Multiforme and Stevens-Johnson Syndrome
+## 5.5 Erythema Multiforme Major, Stevens-Johnson Syndrome, and Toxic Epidermal Necrolysis
 
-Postmarketing cases consistent with Stevens-Johnson syndrome (SJS) and erythema multiforme major (EMM) have been reported in patients receiving TAGRISSO.
-Withhold TAGRISSO if SJS or EMM is suspected and permanently discontinue if confirmed.
+Postmarketing cases consistent with erythema multiforme major (EMM), Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported in patients receiving TAGRISSO [see Postmarketing (6.2)].
+Withhold TAGRISSO if EMM, SJS, or TEN is suspected and permanently discontinue if confirmed.
 
 ## 5.6 Cutaneous Vasculitis
 
-Postmarketing cases of cutaneous vasculitis including leukocytoclastic vasculitis, urticarial vasculitis, and IgA vasculitis have been reported in patients receiving TAGRISSO.
+Postmarketing cases of cutaneous vasculitis including leukocytoclastic vasculitis, urticarial vasculitis, and IgA vasculitis have been reported in patients receiving TAGRISSO [see Postmarketing (6.2)].
 Withhold TAGRISSO if cutaneous vasculitis is suspected, evaluate for systemic involvement, and consider dermatology consultation.
 If no other etiology can be identified, consider permanent discontinuation of TAGRISSO based on severity.
 

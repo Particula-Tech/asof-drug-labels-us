@@ -34,7 +34,7 @@ Efficacy Results in ADAURA according to Investigator Assessment
 | Recurrent disease (%) | 26 (11) | 129 (54) | 37 (11) | 157 (46) |
 | Deaths (%) | 0 | 1 (0.4) | 0 | 2 (0.6) |
 | Median DFS, months (95% CI) | NR (38.8, NE) | 19.6 (16.6, 24.5) | NR (NE, NE) | 27.5 (22.0, 35.0) |
-| Hazard ratio (95% CI)Stratified by race (Asian vs non-Asian), mutation status (Ex19del vs L858R), and pTNM staging Pike estimator | 0.17 (0.12, 0.23) |  | 0.20 (0.15, 0.27) |  |
+| Hazard ratio (95% CI)Stratified by race (Asian vs non-Asian), mutation status (Ex19del vs L858R), and pTNM stagingPike estimator | 0.17 (0.12, 0.23) |  | 0.20 (0.15, 0.27) |  |
 | p-valueStratified log-rank test | <0.0001 |  | <0.0001 |  |
 | DFS results based on investigator assessmentCI=Confidence Interval; NE=Not Estimable; NR=Not Reached |  |  |  |  |
 

@@ -6,7 +6,7 @@ The following adverse reactions are discussed in greater detail in other section
 - •QTc Interval Prolongation [see Warnings and Precautions (5.2)]
 - •Cardiomyopathy [see Warnings and Precautions (5.3)]
 - •Keratitis [see Warnings and Precautions (5.4)]
-- •Erythema multiforme and Stevens-Johnson syndrome [see Warnings and Precautions (5.5)]
+- •Erythema multiforme, Stevens-Johnson syndrome, and Toxic epidermal necrolysis [see Warnings and Precautions (5.5)]
 - •Cutaneous Vasculitis [see Warnings and Precautions (5.6)]
 - •Aplastic Anemia [see Warnings and Precautions (5.7)]
 
@@ -52,7 +52,7 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in ADAURANC
 | Dry skinIncludes dry skin, skin fissures, xerosis, eczema, xeroderma. | 29 | 0.3 | 7 | 0 |
 | PruritusIncludes pruritus, pruritus generalized, eyelid pruritus. | 19 | 0 | 9 | 0 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
-| CoughIncludes cough, productive cough, upper-airway cough syndrome | 19 | 0 | 19 | 0 |
+| CoughIncludes cough, productive cough, upper-airway cough syndrome. | 19 | 0 | 19 | 0 |
 | Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
 | Musculoskeletal PainIncludes arthralgia, arthritis, back pain, bone pain, musculoskeletal chest pain, musculoskeletal pain, myalgia, neck pain, non-cardiac chest pain, pain in extremity, and spinal pain. | 18 | 0.3 | 25 | 0.3 |
 | Infection and Infestation Disorders |  |  |  |  |
@@ -60,13 +60,13 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in ADAURANC
 | Upper respiratory tract infection | 13 | 0.6 | 10 | 0 |
 | Urinary Tract InfectionIncludes cystitis, urinary tract infection, and urinary tract infection bacterial. | 10 | 0.3 | 7 | 0 |
 | General Disorders and Administration Site Conditions |  |  |  |  |
-| FatigueIncludes asthenia, fatigue | 13 | 0.6 | 9 | 0.3 |
+| FatigueIncludes asthenia, fatigue. | 13 | 0.6 | 9 | 0.3 |
 | Nervous System Disorders |  |  |  |  |
 | DizzinessIncludes dizziness, vertigo, and vertigo positional. | 10 | 0 | 9 | 0 |
 | Metabolism and Nutrition Disorders |  |  |  |  |
 | Decreased appetite | 13 | 0.6 | 3.8 | 0 |
 
-Clinically relevant adverse reactions in ADAURA in <10% of patients receiving TAGRISSO were alopecia (6%), epistaxis (6%), interstitial lung disease (3%), palmar-plantar erythrodysesthesia syndrome (1.8%), urticaria (1.5%), keratitis (0.6%), QTc interval prolongation (0.6%), and erythema multiform (0.3%).
+Clinically relevant adverse reactions in ADAURA in <10% of patients receiving TAGRISSO were alopecia (6%), epistaxis (6%), interstitial lung disease (3%), palmar-plantar erythrodysesthesia syndrome (1.8%), urticaria (1.5%), keratitis (0.6%), QTc interval prolongation (0.6%), and erythema multiforme (0.3%).
 QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500msec.
 
 Table 3.
@@ -187,7 +187,7 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in AURA3NCI
 | Gastrointestinal Disorders |  |  |  |  |  |
 | Diarrhea | 41 | 1.1 |  | 11 | 1.5 |
 | Nausea | 16 | 0.7 |  | 49 | 3.7 |
-| StomatitisIncludes stomatitis and mouth ulceration | 19 | 0 |  | 15 | 1.5 |
+| StomatitisIncludes stomatitis and mouth ulceration. | 19 | 0 |  | 15 | 1.5 |
 | Constipation | 14 | 0 |  | 35 | 0 |
 | Vomiting | 11 | 0.4 |  | 20 | 2.2 |
 | Skin Disorders |  |  |  |  |  |
@@ -204,7 +204,7 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in AURA3NCI
 | Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |
 | Back pain | 10 |  | 0.4 | 9 | 0.7 |
 
-Clinically relevant adverse reactions in AURA3 in <10% of patients receiving TAGRISSO were epistaxis (5%), interstitial lung disease (3.9%), alopecia (3.6%), urticaria (2.9%), palmar-plantar erythrodysesthesia syndrome (1.8%), QTc interval prolongation (1.4%), keratitis (1.1%), and erythema multiform (0.7%).
+Clinically relevant adverse reactions in AURA3 in <10% of patients receiving TAGRISSO were epistaxis (5%), interstitial lung disease (3.9%), alopecia (3.6%), urticaria (2.9%), palmar-plantar erythrodysesthesia syndrome (1.8%), QTc interval prolongation (1.4%), keratitis (1.1%), and erythema multiforme (0.7%).
 QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500msec.
 
 Table 7.
@@ -227,11 +227,15 @@ Laboratory Abnormalities Worsening from Baseline in ≥20% of Patients in AURA3
 
 Clinically relevant laboratory abnormalities in AURA3 that occurred in <20% of patients receiving TAGRISSO included increased blood creatinine (7%).
 
+Other Clinical Trials Experience
+
+The following adverse reaction has been reported following administration of TAGRISSO: increased blood creatine phosphokinase.
+
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of TAGRISSO.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - 
-  - •Skin and subcutaneous tissue: Stevens-Johnson syndrome, erythema multiforme, cutaneous vasculitis
+  - •Skin and subcutaneous tissue: Erythema multiforme major (EMM), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), cutaneous vasculitis
   - •Blood and lymphatic system disorders: Aplastic anemia
