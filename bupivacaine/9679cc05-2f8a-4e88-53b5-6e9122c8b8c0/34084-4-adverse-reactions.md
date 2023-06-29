@@ -2,13 +2,13 @@
 
 The following clinically significant adverse reactions have been reported and described in other sections of the labeling:
 
-- Allergic-Type Reactions [see Contraindications (4)]
-- Dose-Related Toxicity [see Warnings and Precautions (5.3)]
-- Systemic Toxicities with Unintended Intravascular Injection [see Warnings and Precautions (5.4)]
-- Methemoglobinemia [see Warnings and Precautions (5.5)]
-- Cardiac Arrest in Obstetrical Anesthesia [see Warnings and Precautions (5.6)]
-- Chondrolysis with Intra-Articular Infusion [see Warnings and Precautions (5.7)]
-- Cardiac Arrest with Intravenous Regional Anesthesia Use [see Contraindications (4), Warnings and Precautions (5.8)]
+- •Allergic-Type Reactions [see Contraindications (4)]
+- •Dose-Related Toxicity [see Warnings and Precautions (5.3)]
+- •Systemic Toxicities with Unintended Intravascular Injection [see Warnings and Precautions (5.4)]
+- •Methemoglobinemia [see Warnings and Precautions (5.5)]
+- •Cardiac Arrest in Obstetrical Anesthesia [see Warnings and Precautions (5.6)]
+- •Chondrolysis with Intra-Articular Infusion [see Warnings and Precautions (5.7)]
+- •Cardiac Arrest with Intravenous Regional Anesthesia Use [see Contraindications (4), Warnings and Precautions (5.8)]
 
 The following adverse reactions from voluntary reports or clinical studies have been reported with bupivacaine.
 Because many of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
