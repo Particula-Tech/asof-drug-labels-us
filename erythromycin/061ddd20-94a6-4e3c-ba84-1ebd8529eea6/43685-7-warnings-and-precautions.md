@@ -8,6 +8,7 @@ Information for Patients: Avoid contaminating the applicator tip with material f
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility: Two year oral studies conducted in rats with erythromycin did not provide evidence of tumorigenicity.
 Mutagenicity studies have not been conducted.
+
 No evidence of impaired fertility that appeared related to erythromycin was reported in animal studies.
 
 Pregnancy: Reproduction studies have been performed in rats, mice, and rabbits using erythromycin and its various salts and esters, at doses that were several multiples of the usual human dose.
