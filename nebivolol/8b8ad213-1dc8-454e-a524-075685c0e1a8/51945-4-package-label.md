@@ -18,40 +18,6 @@ Allergan™
 
 Rx ONLY
 
-NDC 0456-1402-63
-
-Bystolic®
-
-(nebivolol) tablets
-
-2.5 mg/tablet
-
-100 TABLETS
-
-10 X 10 blister cards (100 tablets)
-
-Allergan™
-
-# PRINCIPAL DISPLAY PANEL
-
-Rx ONLY
-
-NDC 0456-1405-30
-
-Bystolic®
-
-(nebivolol) tablets
-
-5 mg/tablet
-
-30 TABLETS
-
-Allergan™
-
-# PRINCIPAL DISPLAY PANEL
-
-Rx ONLY
-
 NDC 0456-1405-90
 
 Bystolic®
@@ -68,40 +34,6 @@ Allergan™
 
 Rx ONLY
 
-NDC 0456-1405-63
-
-Bystolic®
-
-(nebivolol) tablets
-
-5 mg/tablet
-
-100 TABLETS
-
-10 X 10 blister cards (100 tablets)
-
-Allergan™
-
-# PRINCIPAL DISPLAY PANEL
-
-Rx ONLY
-
-NDC 0456-1410-30
-
-Bystolic®
-
-(nebivolol) tablets
-
-10 mg/tablet
-
-30 TABLETS
-
-Allergan™
-
-# PRINCIPAL DISPLAY PANEL
-
-Rx ONLY
-
 NDC 0456-1410-90
 
 Bystolic®
@@ -111,22 +43,6 @@ Bystolic®
 10 mg/tablet
 
 90 TABLETS
-
-Allergan™
-
-# PRINCIPAL DISPLAY PANEL
-
-Rx ONLY
-
-NDC 0456-1420-30
-
-Bystolic®
-
-(nebivolol) tablets
-
-20 mg/tablet
-
-30 TABLETS
 
 Allergan™
 

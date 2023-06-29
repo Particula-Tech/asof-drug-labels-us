@@ -39,7 +39,7 @@ In studies in which pregnant rats were given nebivolol during organogenesis, red
 
 No adverse effects on embryo-fetal viability, sex, weight or morphology were observed in studies in which nebivolol was given to pregnant rabbits at doses as high as 20 mg/kg/day (10 times the MRHD).
 
-## 8.2 Lactation
+## 8.2Lactation
 
 Risk Summary
 

@@ -1,4 +1,4 @@
-PATIENT INFORMATION
+# PATIENT INFORMATION
 
 BYSTOLIC® (bi-STOL-ik)
 
@@ -81,6 +81,8 @@ WHAT ARE POSSIBLE SIDE EFFECTS OF BYSTOLIC?
 - Headache
 - Leg swelling due to fluid retention (edema).
   Tell your doctor if you gain weight or have trouble breathing while taking BYSTOLIC.
+- If you are diabetic or take medicine for high blood sugar or if you have a tendency to have low blood sugar, Bystolic can mask/cover some of the signs and symptoms that would tell you that your blood sugar may be low, like heart palpitations or rapid heart beating.
+  Ask your doctor for other signs that may alert you when having low blood sugar.
 
 Tell your doctor if you have any side effects that bother you or don’t go away.
 
@@ -122,18 +124,17 @@ BYSTOLIC tablets can help your blood vessels relax so your blood pressure is low
 Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
 
 Rev.
-June 2019
+06 2023
 
 Distributed by: Allergan USA, Inc. Madison, NJ 07940 Licensed from Mylan Laboratories, Inc.
+
+Under license from Janssen Pharmaceutica N.V., Beerse, Belgium
 
 Actidose®-Aqua is a registered trademark of Paddock Laboratories, LLC
 
 BYSTOLIC® is a registered trademark of Allergan Sales, LLC.
 
-Patented.
-See www.allergan.com/patents
-
-© 2019 Allergan.
+© 2023 Allergan.
 All rights reserved.
 
-V2.1PPI1402
+V3.0PPI1402
