@@ -1,4 +1,6 @@
-# DRUG ABUSE AND DEPENDENCE
+# 9 DRUG ABUSE AND DEPENDENCE
+
+## 9.2 Abuse
 
 There are reports of the abuse of propofol for recreational and other improper purposes, which have resulted in fatalities and other injuries.
 Instances of self-administration of propofol injectable emulsion by health care professionals have also been reported, which have resulted in fatalities and other injuries.

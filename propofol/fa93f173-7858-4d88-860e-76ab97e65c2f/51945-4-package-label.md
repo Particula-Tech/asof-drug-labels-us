@@ -18,4 +18,4 @@ Sterile, Nonpyrogenic
 
 SHAKE WELL BEFORE USE
 
-20 mL Single-Patient Infusion Vial
+20 mL Single-Dose Infusion Vial

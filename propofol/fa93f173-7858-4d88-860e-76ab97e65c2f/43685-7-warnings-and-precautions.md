@@ -1,46 +1,33 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-Use of propofol injectable emulsion has been associated with both fatal and life-threatening anaphylactic and anaphylactoid reactions.
+## 5.1 Anaphylactic and Anaphylactoid Reactions
 
-For general anesthesia or monitored anesthesia care (MAC) sedation, propofol injectable emulsion should be administered only by persons trained in the administration of general anesthesia and not involved in the conduct of the surgical/diagnostic procedure.
-Sedated patients should be continuously monitored, and facilities for maintenance of a patent airway, providing artificial ventilation, administering supplemental oxygen, and instituting cardiovascular resuscitation must be immediately available.
-Patients should be continuously monitored for early signs of hypotension, apnea, airway obstruction, and/or oxygen desaturation.
-These cardiorespiratory effects are more likely to occur following rapid bolus administration, especially in the elderly, debilitated, or ASA-PS III or IV patients.
+Use of propofol injectable emulsion has been associated with both fatal and life threatening anaphylactic and anaphylactoid reactions.
 
-For sedation of intubated, mechanically ventilated patients in the Intensive Care Unit (ICU), propofol injectable emulsion should be administered only by persons skilled in the management of critically ill patients and trained in cardiovascular resuscitation and airway management.
+Clinical features of anaphylaxis, including angioedema, bronchospasm, erythema, and hypotension, occur rarely following propofol injectable emulsion administration.
 
 Contains sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
 Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
 
-Use of propofol injectable emulsion infusions for both adult and pediatric ICU sedation has been associated with a constellation of metabolic derangements and organ system failures, referred to as Propofol Infusion Syndrome, that have resulted in death.
-The syndrome is characterized by severe metabolic acidosis, hyperkalemia, lipemia, rhabdomyolysis, hepatomegaly, renal failure, ECG changes* and/or cardiac failure.
-The following appear to be major risk factors for the development of these events: decreased oxygen delivery to tissues; serious neurological injury and/or sepsis; high dosages of one or more of the following pharmacological agents: vasoconstrictors, steroids, inotropes and/or prolonged, high-dose infusions of propofol (greater than 5 mg/kg/h for greater than 48h).
-The syndrome has also been reported following large-dose, short-term infusions during surgical anesthesia.
-In the setting of prolonged need for sedation, increasing propofol dose requirements to maintain a constant level of sedation, or onset of metabolic acidosis during administration of a propofol infusion, consideration should be given to using alternative means of sedation.
+## 5.2 Risks of Microbial Contamination
 
-*Coved ST segment elevation (similar to ECG changes of the Brugada syndrome).
-
-Abrupt discontinuation of propofol injectable emulsion prior to weaning or for daily evaluation of sedation levels should be avoided.
-This may result in rapid awakening with associated anxiety, agitation, and resistance to mechanical ventilation.
-Infusions of propofol injectable emulsion should be adjusted to maintain a light level of sedation through the weaning process or evaluation of sedation level (see PRECAUTIONS).
-
-Propofol injectable emulsion should not be coadministered through the same IV catheter with blood or plasma because compatibility has not been established.
-In vitro tests have shown that aggregates of the globular component of the emulsion vehicle have occurred with blood/plasma/serum from humans and animals.
-The clinical significance of these findings is not known.
-
-There have been reports in which failure to use aseptic technique when handling propofol injectable emulsion was associated with microbial contamination of the product and with fever, infection, sepsis, other life-threatening illness, and death.
+Strict aseptic technique must always be maintained during handling.
+Propofol injectable emulsion is a single-dose parenteral product (single patient infusion vial) which contains sodium metabisulfite (0.25 mg per mL) to inhibit the rate of growth of microorganisms, for up to 12 hours, in the event of accidental extrinsic contamination.
+However, propofol injectable emulsion can still support the growth of microorganisms, as it is not an antimicrobially preserved product under USP standards.
 Do not use if contamination is suspected.
-Discard unused drug product as directed within the required time limits (see DOSAGE AND ADMINISTRATION, Handling Procedures).
+Discard unused drug product as directed within the required time limits.
+There have been reports in which failure to use aseptic technique when handling propofol injectable emulsion was associated with microbial contamination of the product and with fever, infection/sepsis, other life-threatening illness, and/or death.
 
-There have been reports, in the literature and other public sources, of the transmission of bloodborne pathogens (such as Hepatitis B, Hepatitis C, and HIV) from unsafe injection practices, and use of propofol vials intended for single use on multiple persons.
-Propofol injectable emulsion vial is never to be accessed more than once or used on more than one person.
+Propofol injectable emulsion vials are never to be accessed more than once or used on more than one person.
 
-## Pediatric Neurotoxicity
+There have been reports, in the literature and other public sources, of the transmission of bloodborne pathogens (such as Hepatitis B, Hepatitis C, and HIV) from unsafe injection practices, and of the use of propofol vials intended for single use on multiple persons.
+
+## 5.3 Risks of Pediatric Neurotoxicity
 
 Published animal studies demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity increase neuronal apoptosis in the developing brain and result in long-term cognitive deficits when used for longer than 3 hours.
 The clinical significance of these findings is not clear.
-However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans (see PRECAUTIONS, Pregnancy, Pediatric Use; ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
+However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans [see Animal Toxicology and/or Pharmacology (13.2)].
 
 Some published studies in children suggest that similar deficits may occur after repeated or prolonged exposures to anesthetic agents early in life and may result in adverse cognitive or behavioral effects.
 These studies have substantial limitations, and it is not clear if the observed effects are due to the anesthetic/sedation drug administration or other factors such as the surgery or underlying illness.
@@ -48,69 +35,38 @@ These studies have substantial limitations, and it is not clear if the observed 
 Anesthetic and sedation drugs are a necessary part of the care of children needing surgery, other procedures, or tests that cannot be delayed, and no specific medications have been shown to be safer than any other.
 Decisions regarding the timing of any elective procedures requiring anesthesia should take into consideration the benefits of the procedure weighed against the potential risks.
 
-# PRECAUTIONS
-
-Contains sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
-The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
-Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
-
-## General
-
-### Adult and Pediatric Patients
-
-A lower induction dose and a slower maintenance rate of administration should be used in elderly, debilitated, or ASA-PS III or IV patients (see DOSAGE AND ADMINISTRATION).
-Patients should be continuously monitored for early signs of hypotension and/or bradycardia.
-Apnea requiring ventilatory support often occurs during induction and may persist for more than 60 seconds.
-Propofol injectable emulsion use requires caution when administered to patients with disorders of lipid metabolism such as primary hyperlipoproteinemia, diabetic hyperlipemia, and pancreatitis.
-
-Very rarely the use of propofol injectable emulsion may be associated with the development of a period of postoperative unconsciousness which may be accompanied by an increase in muscle tone.
-This may or may not be preceded by a brief period of wakefulness.
-Recovery is spontaneous.
-
-When propofol injectable emulsion is administered to an epileptic patient, there is a risk of seizure during the recovery phase.
-
-Attention should be paid to minimize pain on administration of propofol injectable emulsion.
-Transient local pain can be minimized if the larger veins of the forearm or antecubital fossa are used.
-Pain during intravenous injection may also be reduced by prior injection of IV lidocaine (1 mL of a 1% solution).
-Pain on injection occurred frequently in pediatric patients (45%) when a small vein of the hand was utilized without lidocaine pretreatment.
-With lidocaine pretreatment or when antecubital veins were utilized, pain was minimal (incidence less than 10%) and well-tolerated.
-There have been reports in the literature indicating that the addition of lidocaine to propofol injectable emulsion in quantities greater than 20 mg lidocaine/200 mg propofol injectable emulsion results in instability of the emulsion which is associated with increases in globule sizes over time and (in rat studies) a reduction in anesthetic potency.
-Therefore, it is recommended that lidocaine be administered prior to propofol injectable emulsion administration or that it be added to propofol injectable emulsion immediately before administration and in quantities not exceeding 20 mg lidocaine/200 mg propofol.
-
-Venous sequelae, i.e., phlebitis or thrombosis, have been reported rarely (less than 1%).
-In two clinical studies using dedicated intravenous catheters, no instances of venous sequelae were observed up to 14 days following induction.
-
-Intra-arterial injection in animals did not induce local tissue effects.
-Accidental intra-arterial injection has been reported in patients, and, other than pain, there were no major sequelae.
-
-Intentional injection into subcutaneous or perivascular tissues of animals caused minimal tissue reaction.
-During the post-marketing period, there have been rare reports of local pain, swelling, blisters, and/or tissue necrosis following accidental extravasation of propofol injectable emulsion.
-
-Perioperative myoclonia, rarely including convulsions and opisthotonos, has occurred in association with propofol injectable emulsion administration.
-
-Clinical features of anaphylaxis, including angioedema, bronchospasm, erythema, and hypotension, occur rarely following propofol injectable emulsion administration.
-
-There have been rare reports of pulmonary edema in temporal relationship to the administration of propofol injectable emulsion, although a causal relationship is unknown.
-
-Rarely, cases of unexplained postoperative pancreatitis (requiring hospital admission) have been reported after anesthesia in which propofol injectable emulsion was one of the induction agents used.
-Due to a variety of confounding factors in these cases, including concomitant medications, a causal relationship to propofol injectable emulsion is unclear.
+## 5.4 Risks of Bradycardia, Asystole, and Cardiac Arrest
 
 Propofol injectable emulsion has no vagolytic activity.
 Reports of bradycardia, asystole, and rarely, cardiac arrest have been associated with propofol injectable emulsion.
 Pediatric patients are susceptible to this effect, particularly when fentanyl is given concomitantly.
+
 The intravenous administration of anticholinergic agents (e.g., atropine or glycopyrrolate) should be considered to modify potential increases in vagal tone due to concomitant agents (e.g., succinylcholine) or surgical stimuli.
 
-## Intensive Care Unit Sedation
+## 5.5 Risk of Seizures
 
-### Adult Patients
+When propofol injectable emulsion is administered to an epileptic patient, there is a risk of seizure during the recovery phase.
 
-(See WARNINGS and DOSAGE AND ADMINISTRATION, Handling Procedures.)
+## 5.6 Neurosurgical Anesthesia
 
-The administration of propofol injectable emulsion should be initiated as a continuous infusion and changes in the rate of administration made slowly (greater than 5 min) in order to minimize hypotension and avoid acute overdosage (see DOSAGE AND ADMINISTRATION).
+When propofol injectable emulsion is used in patients with increased intracranial pressure or impaired cerebral circulation, significant decreases in mean arterial pressure should be avoided because of the resultant decreases in cerebral perfusion pressure.
+To avoid significant hypotension and decreases in cerebral perfusion pressure, an infusion or slow bolus should be utilized instead of rapid, more frequent, and/or larger boluses of propofol injectable emulsion.
+Slower induction, titrated to clinical responses, will generally result in reduced induction dosage requirements (1 mg/kg to 2 mg/kg).
+When increased ICP is suspected, hyperventilation and hypocarbia should accompany the administration of propofol injectable emulsion [see Dosage and Administration (2.1)].
+
+## 5.7 Cardiac Anesthesia
+
+Slower rates of administration should be utilized in premedicated patients, geriatric patients, patients with recent fluid shifts, and patients who are hemodynamically unstable.
+Fluid deficits should be corrected prior to administration of propofol injectable emulsion.
+In those patients where additional fluid therapy may be contraindicated, other measures, e.g., elevation of lower extremities, or use of pressor agents, may be useful to offset the hypotension which is associated with the induction of anesthesia with propofol injectable emulsion.
+
+## 5.8 Use for Intensive Care Unit Sedation of Intubated, Mechanically Ventilated Adult Patients
+
+The administration of propofol injectable emulsion should be initiated as a continuous infusion and changes in the rate of administration made slowly (>5 min) in order to minimize hypotension and avoid acute overdosage [see Overdosage (10) and Dosage and Administration (2.5)].
 
 Patients should be monitored for early signs of significant hypotension and/or cardiovascular depression, which may be profound.
-These effects are responsive to discontinuation of propofol injectable emulsion, IV fluid administration, and/or vasopressor therapy.
-In the elderly, debilitated, or ASA-PS III or IV patients, rapid (single or repeated) bolus administration should not be used during sedation in order to minimize undesirable cardiorespiratory depression, including hypotension, apnea, airway obstruction, and oxygen desaturation.
+These effects are responsive to discontinuation of propofol injectable emulsion, intravenous fluid administration, and/or vasopressor therapy.
+In the elderly, debilitated, or ASA-PS III or IV patients, rapid (single or repeated) bolus administration should not be used during sedation in order to minimize undesirable cardiorespiratory depression.
 
 As with other sedative medications, there is wide interpatient variability in propofol injectable emulsion dosage requirements, and these requirements may change with time.
 
@@ -120,154 +76,76 @@ Thus, titration to clinical response and daily evaluation of sedation levels are
 Opioids and paralytic agents should be discontinued and respiratory function optimized prior to weaning patients from mechanical ventilation.
 Infusions of propofol injectable emulsion should be adjusted to maintain a light level of sedation prior to weaning patients from mechanical ventilatory support.
 Throughout the weaning process, this level of sedation may be maintained in the absence of respiratory depression.
-Because of the rapid clearance of propofol injectable emulsion, abrupt discontinuation of a patient's infusion may result in rapid awakening with associated anxiety, agitation, and resistance to mechanical ventilation, making weaning from mechanical ventilation difficult.
-It is therefore recommended that administration of propofol injectable emulsion be continued in order to maintain a light level of sedation throughout the weaning process until 10 minutes to 15 minutes prior to extubation, at which time the infusion can be discontinued.
+
+Abrupt discontinuation of propofol injectable emulsion prior to weaning or for daily evaluation of sedation levels should be avoided.
+This may result in rapid awakening with associated anxiety, agitation, and resistance to mechanical ventilation.
+It is therefore recommended that administration of propofol injectable emulsion be continued in order to maintain a light level of sedation throughout the weaning process until 10 to 15 minutes prior to extubation, at which time the infusion can be discontinued.
+
+## 5.9 Risks of Propofol Infusion Syndrome in Patients with ICU Sedation
+
+Use of propofol injectable emulsion infusions for both adult and pediatric ICU sedation has been associated with a constellation of metabolic derangements and organ system failures, referred to as Propofol Infusion Syndrome, that have resulted in death.
+The syndrome is characterized by severe metabolic acidosis, hyperkalemia, lipemia, rhabdomyolysis, hepatomegaly, renal failure, ECG changes (Coved ST segment elevation -similar to ECG changes of the Brugada syndrome) and/or cardiac failure.
+
+The following appear to be major risk factors for the development of these events: decreased oxygen delivery to tissues; serious neurological injury and/or sepsis; high dosages of one or more of the following pharmacological agents: vasoconstrictors, steroids, inotropes and/or prolonged, high-dose infusions of propofol (> 5 mg/kg/hour for > 48 hours).
+The syndrome has also been reported following large-dose, short-term infusions during surgical anesthesia.
+In the setting of prolonged need for sedation, increasing propofol dose requirements to maintain a constant level of sedation, or onset of metabolic acidosis during administration of a propofol infusion, consideration should be given to using alternative means of sedation.
+
+Prescribers should be alert to these events in patients with the above risk factors and immediately discontinue propofol when the above signs develop.
+
+## 5.10 Risk of Elevations in Serum Triglycerides
+
+Propofol injectable emulsion use requires caution when administered to patients with disorders of lipid metabolism such as primary hyperlipoproteinemia, diabetic hyperlipemia, and pancreatitis.
 
 Since propofol injectable emulsion is formulated in an oil-in-water emulsion, elevations in serum triglycerides may occur when propofol injectable emulsion is administered for extended periods of time.
 Patients at risk of hyperlipidemia should be monitored for increases in serum triglycerides or serum turbidity.
 Administration of propofol injectable emulsion should be adjusted if fat is being inadequately cleared from the body.
 A reduction in the quantity of concurrently administered lipids is indicated to compensate for the amount of lipid infused as part of the propofol injectable emulsion formulation; 1 mL of propofol injectable emulsion contains approximately 0.1 g of fat (1.1 kcal).
 
-The long-term administration of propofol injectable emulsion to patients with renal failure and/or hepatic insufficiency has not been evaluated.
+## 5.12 Use in the Elderly, Debilitated, or ASA-PS III or IV Patients
 
-### Neurosurgical Anesthesia
+A lower induction dose and a slower maintenance rate of administration should be used in elderly, debilitated, or ASA-PS III or IV patients [see Dosage and Administration (2)].
+Patients should be continuously monitored for early signs of hypotension and/or bradycardia.
+Apnea requiring ventilatory support often occurs during induction and may persist for more than 60 seconds.
 
-When propofol injectable emulsion is used in patients with increased intracranial pressure or impaired cerebral circulation, significant decreases in mean arterial pressure should be avoided because of the resultant decreases in cerebral perfusion pressure.
-To avoid significant hypotension and decreases in cerebral perfusion pressure, an infusion or slow bolus of approximately 20 mg every 10 seconds should be utilized instead of rapid, more frequent, and/or larger boluses of propofol injectable emulsion.
-Slower induction, titrated to clinical responses, will generally result in reduced induction dosage requirements (1 mg/kg to 2 mg/kg).
-When increased ICP is suspected, hyperventilation and hypocarbia should accompany the administration of propofol injectable emulsion (see DOSAGE AND ADMINISTRATION).
+## 5.13 Risk of Transient Local Pain
 
-### Cardiac Anesthesia
+Attention should be paid to minimize pain on administration of propofol injectable emulsion.
+Transient local pain can be minimized if the larger veins of the forearm or antecubital fossa are used.
+Pain during intravenous injection may also be reduced by prior injection of intravenous lidocaine (1 mL of a 1% solution).
+Pain on injection occurred frequently in pediatric patients (45%) when a small vein of the hand was utilized without lidocaine pretreatment.
+With lidocaine pretreatment or when antecubital veins were utilized, pain was minimal (incidence less than 10%) and well-tolerated.
 
-Slower rates of administration should be utilized in premedicated patients, geriatric patients, patients with recent fluid shifts, and patients who are hemodynamically unstable.
-Fluid deficits should be corrected prior to administration of propofol injectable emulsion.
-In those patients where additional fluid therapy may be contraindicated, other measures, e.g., elevation of lower extremities, or use of pressor agents, may be useful to offset the hypotension which is associated with the induction of anesthesia with propofol injectable emulsion.
+There have been reports in the literature indicating that the addition of lidocaine to propofol injectable emulsion in quantities greater than 20 mg lidocaine/200 mg propofol injectable emulsion results in instability of the emulsion which is associated with increases in globule sizes over time and (in rat studies) a reduction in anesthetic potency.
+Therefore, it is recommended that lidocaine be administered prior to propofol injectable emulsion administration or that it be added to propofol injectable emulsion immediately before administration and in quantities not exceeding 20 mg lidocaine/200 mg propofol.
 
-## Information for Patients
+## 5.14 Risk of Local Reactions
 
-### Risk of Drowsiness
+Phlebitis or venous thrombosis has been reported.
+In two clinical studies using dedicated intravenous catheters, no instances of venous sequelae were observed up to 14 days following induction.
 
-Patients should be advised that performance of activities requiring mental alertness, such as operating a motor vehicle, or hazardous machinery or signing legal documents may be impaired for some time after general anesthesia or sedation.
+Accidental intra-arterial injection has been reported in patients, and, other than pain, there were no major sequelae.
 
-### Effect of Anesthetic and Sedation Drugs on Early Brain Development
+## 5.15 Risk of Aggregation if Administered through the Same Intravenous Catheter with Blood or Plasma
 
-Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
-Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs (see WARNINGS, Pediatric Neurotoxicity).
+Propofol injectable emulsion should not be coadministered through the same intravenous catheter with blood or plasma because compatibility has not been established.
+In vitro tests have shown that aggregates of the globular component of the emulsion vehicle have occurred with blood/plasma/serum from humans and animals.
+The clinical significance of these findings is not known.
 
-## Drug Interactions
+## 5.16 Risk of Postoperative Unconsciousness
 
-The induction dose requirements of propofol injectable emulsion may be reduced in patients with intramuscular or intravenous premedication, particularly with narcotics (e.g., morphine, meperidine, and fentanyl, etc.) and combinations of opioids and sedatives (e.g., benzodiazepines, barbiturates, chloral hydrate, droperidol, etc.). These agents may increase the anesthetic or sedative effects of propofol injectable emulsion and may also result in more pronounced decreases in systolic, diastolic, and mean arterial pressures and cardiac output.
+Very rarely the use of propofol injectable emulsion may be associated with the development of a period of postoperative unconsciousness which may be accompanied by an increase in muscle tone.
+This may or may not be preceded by a brief period of wakefulness.
+Recovery is spontaneous.
 
-During maintenance of anesthesia or sedation, the rate of propofol injectable emulsion administration should be adjusted according to the desired level of anesthesia or sedation and may be reduced in the presence of supplemental analgesic agents (e.g., nitrous oxide or opioids).
-The concurrent administration of potent inhalational agents (e.g., isoflurane, enflurane, and halothane) during maintenance with propofol injectable emulsion has not been extensively evaluated.
-These inhalational agents can also be expected to increase the anesthetic or sedative and cardiorespiratory effects of propofol injectable emulsion.
+## 5.17 Risks of Perioperative Myoclonia
 
-The concomitant use of valproate and propofol may lead to increased blood levels of propofol.
-Reduce the dose of propofol when co-administering with valproate.
-Monitor patients closely for signs of increased sedation or cardiorespiratory depression.
+Perioperative myoclonia, rarely including convulsions and opisthotonos, has occurred in association with propofol injectable emulsion administration.
 
-Propofol injectable emulsion does not cause a clinically significant change in onset, intensity or duration of action of the commonly used neuromuscular blocking agents (e.g., succinylcholine and nondepolarizing muscle relaxants).
+## 5.18 Risks of Pulmonary Edema
 
-No significant adverse interactions with commonly used premedications or drugs used during anesthesia or sedation (including a range of muscle relaxants, inhalational agents, analgesic agents, and local anesthetic agents) have been observed in adults.
-In pediatric patients, administration of fentanyl concomitantly with propofol injectable emulsion may result in serious bradycardia.
+There have been rare reports of pulmonary edema in temporal relationship to the administration of propofol injectable emulsion, although a causal relationship is unknown.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 5.19 Risks of Unexplained Postoperative Pancreatitis
 
-### Carcinogenesis
-
-Long-term studies in animals have not been performed to evaluate the carcinogenic potential of propofol.
-
-### Mutagenesis
-
-Propofol was not mutagenic in the in vitro bacterial reverse mutation assay (Ames test) using Salmonella typhimurium strains TA98, TA100, TA1535, TA1537 and TA1538.
-Propofol was not mutagenic in either the gene mutation/gene conversion test using Saccharomyces cerevisiae, or in vitro cytogenetic studies in Chinese hamsters.
-In the in vivo mouse micronucleus assay with Chinese hamsters propofol administration did not produce chromosome aberrations.
-
-### Impairment of Fertility
-
-Female Wistar rats administered either 0, 10, or 15 mg/kg/day propofol intravenously from 2 weeks before pregnancy to day 7 of gestation did not show impaired fertility (0.65 and 1 times the human induction dose of 2.5 mg/kg based on body surface area).
-Male fertility in rats was not affected in a dominant lethal study at intravenous doses up to 15 mg/kg/day for 5 days.
-
-## Pregnancy
-
-### Risk Summary
-
-There are no adequate and well-controlled studies in pregnant women.
-In animal reproduction studies, decreased pup survival concurrent with increased maternal mortality was observed with intravenous administration of propofol to pregnant rats either prior to mating and during early gestation or during late gestation and early lactation at exposures less than the human induction dose of 2.5 mg/kg.
-In pregnant rats administered 15 mg/kg/day intravenous propofol (equivalent to the human induction dose) from two weeks prior to mating to early in gestation (Gestation Day 7), offspring that were allowed to mate had increased postimplantation losses.
-The pharmacological activity (anesthesia) of the drug on the mother is probably responsible for the adverse effects seen in the offspring.
-
-Published studies in pregnant primates demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity during the period of peak brain development increases neuronal apoptosis in the developing brain of the offspring when used for longer than 3 hours.
-There are no data on pregnancy exposures in primates corresponding to periods prior to the third trimester in humans [See Data].
-
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
-All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
-
-### Data
-
-#### Animal Data
-
-Pregnant rats were administered propofol intravenously at 0, 5, 10, and 15 mg/kg/day (0.3, 0.65, and 1 times the human induction dose of 2.5 mg/kg based on body surface area) during organogenesis (Gestational Days 6-15).
-Propofol did not cause adverse effects to the fetus at exposures up to 1 times the human induction dose despite evidence of maternal toxicity (decreased weight gain in all groups).
-
-Pregnant rabbits were administered propofol intravenously at 0, 5, 10, and 15 mg/kg/day (0.65, 1.3, 2 times the human induction dose of 2.5 mg/kg based on body surface area comparison) during organogenesis (Gestation Days 6-18).
-Propofol treatment decreased total numbers of corpora lutea in all treatment groups but did not cause fetal malformations at any dose despite maternal toxicity (one maternal death from anesthesia-related respiratory depression in the high dose group).
-
-Pregnant rats were administered propofol intravenously at 0, 10, and 15 mg/kg/day (0.65 and 1 times the human induction dose of 2.5 mg/kg based on body surface area) from late gestation through lactation (Gestation Day 16 to Lactation Day 22).
-Decreased pup survival was noted at all doses in the presence of maternal toxicity (deaths from anesthesia- induced respiratory depression).
-This study did not evaluate neurobehavioral function including learning and memory in the pups.
-
-Pregnant rats were administered propofol intravenously at 0, 10, or 15 mg/kg/day (0.3 and 1 times the human induction dose of 2.5 mg/kg based on body surface area) from 2 weeks prior to mating to Gestational Day 7.
-Pup (F1) survival was decreased on Day 15 and 22 of lactation at maternally toxic doses of 10 and 15 mg/kg/day.
-When F1 offspring were allowed to mate, postimplantation losses were increased in the 15 mg/kg/day treatment group.
-
-In a published study in primates, administration of an anesthetic dose of ketamine for 24 hours on Gestation Day 122 increased neuronal apoptosis in the developing brain of the fetus.
-In other published studies, administration of either isoflurane or propofol for 5 hours on Gestation Day 120 resulted in increased neuronal and oligodendrocyte apoptosis in the developing brain of the offspring.
-With respect to brain development, this time period corresponds to the third trimester of gestation in the human.
-The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits (see WARNINGS; Pediatric Neurotoxicity, PRECAUTIONS, Pediatric Use, and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
-
-## Labor and Delivery
-
-Propofol injectable emulsion is not recommended for obstetrics, including cesarean section deliveries.
-Propofol injectable emulsion crosses the placenta, and as with other general anesthetic agents, the administration of propofol injectable emulsion may be associated with neonatal depression.
-
-## Nursing Mothers
-
-Propofol injectable emulsion is not recommended for use in nursing mothers because propofol injectable emulsion has been reported to be excreted in human milk and the effects of oral absorption of small amounts of propofol are not known.
-
-## Pediatric Use
-
-The safety and effectiveness of propofol injectable emulsion have been established for induction of anesthesia in pediatric patients aged 3 years and older and for the maintenance of anesthesia aged 2 months and older.
-
-Propofol injectable emulsion is not recommended for the induction of anesthesia in patients younger than 3 years of age and for the maintenance of anesthesia in patients younger than 2 months of age as safety and effectiveness have not been established.
-
-In pediatric patients, administration of fentanyl concomitantly with propofol injectable emulsion may result in serious bradycardia (see PRECAUTIONS, General).
-
-Propofol injectable emulsion is not indicated for use in pediatric patients for ICU sedation or for MAC sedation for surgical, nonsurgical or diagnostic procedures as safety and effectiveness have not been established.
-
-There have been anecdotal reports of serious adverse events and death in pediatric patients with upper respiratory tract infections receiving propofol injectable emulsion for ICU sedation.
-
-In one multicenter clinical trial of ICU sedation in critically ill pediatric patients that excluded patients with upper respiratory tract infections, the incidence of mortality observed in patients who received propofol injectable emulsion (n = 222) was 9%, while that for patients who received standard sedative agents (n = 105) was 4%.
-While causality has not been established, propofol injectable emulsion is not indicated for sedation in pediatric patients until further studies have been performed to document its safety in that population (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Pediatric Patients and DOSAGE AND ADMINISTRATION).
-
-In pediatric patients, abrupt discontinuation of propofol injectable emulsion following prolonged infusion may result in flushing of the hands and feet, agitation, tremulousness and hyperirritability.
-Increased incidences of bradycardia (5%), agitation (4%), and jitteriness (9%) have also been observed.
-
-Published juvenile animal studies demonstrate that the administration of anesthetic and sedation drugs, such as propofol, that either block NMDA receptors or potentiate the activity of GABA during the period of rapid brain growth or synaptogenesis, results in widespread neuronal and oligodendrocyte cell loss in the developing brain and alterations in synaptic morphology and neurogenesis.
-Based on comparisons across species, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately 3 years of age in humans.
-
-In primates, exposure to 3 hours of ketamine that produced a light surgical plane of anesthesia did not increase neuronal cell loss, however, treatment regimens of 5 hours or longer of isoflurane increased neuronal cell loss.
-Data from isoflurane-treated rodents and ketamine-treated primates suggest that the neuronal and oligodendrocyte cell losses are associated with prolonged cognitive deficits in learning and memory.
-The clinical significance of these nonclinical findings is not known, and healthcare providers should balance the benefits of appropriate anesthesia in pregnant women, neonates, and young children who require procedures with the potential risks suggested by the nonclinical data (see WARNINGS, Pediatric Neurotoxicity, Pregnancy, ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
-
-## Geriatric Use
-
-The effect of age on induction dose requirements for propofol was assessed in an open-label study involving 211 unpremedicated patients with approximately 30 patients in each decade between the ages of 16 and 80.
-The average dose to induce anesthesia was calculated for patients up to 54 years of age and for patients 55 years of age or older.
-The average dose to induce anesthesia in patients up to 54 years of age was 1.99 mg/kg and in patients above 54 it was 1.66 mg/kg.
-Subsequent clinical studies have demonstrated lower dosing requirements for subjects greater than 60 years of age.
-
-A lower induction dose and a slower maintenance rate of administration of propofol injectable emulsion should be used in elderly patients.
-In this group of patients, rapid (single or repeated) bolus administration should not be used in order to minimize undesirable cardiorespiratory depression including hypotension, apnea, airway obstruction, and/or oxygen desaturation.
-All dosing should be titrated according to patient condition and response (see DOSAGE AND ADMINISTRATION, Elderly, Debilitated or ASA-PS III or IV Patients and CLINICAL PHARMACOLOGY, Geriatrics).
+Rarely, cases of unexplained postoperative pancreatitis (requiring hospital admission) have been reported after anesthesia in which propofol injectable emulsion was one of the induction agents used.
+Due to a variety of confounding factors in these cases, including concomitant medications, a causal relationship to propofol injectable emulsion is unclear.
