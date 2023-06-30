@@ -6,4 +6,4 @@ Rare reports of dizziness and nausea have been received.
 
 Refer to Warnings for additional adverse reactions.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Bausch & Lomb Incorporated at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch & Lomb Incorporated at 1-800-553-5340 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

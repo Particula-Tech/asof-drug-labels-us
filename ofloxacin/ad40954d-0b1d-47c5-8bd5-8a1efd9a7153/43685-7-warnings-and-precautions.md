@@ -2,7 +2,7 @@
 
 NOT FOR INJECTION.
 
-Ofloxacin Ophthalmic Solution should not be injected subconjunctivally, nor should it be introduced directly into the anterior chamber of the eye.
+Ofloxacin ophthalmic solution should not be injected subconjunctivally, nor should it be introduced directly into the anterior chamber of the eye.
 
 There are rare reports of anaphylactic reaction/shock and fatal hypersensitivity reactions in patients receiving systemic quinolones, some following the first dose, including ofloxacin.
 Some reactions were accompanied by cardiovascular collapse, loss of consciousness, angioedema (including laryngeal, pharyngeal or facial edema), airway obstruction, dyspnea, urticaria, and itching.

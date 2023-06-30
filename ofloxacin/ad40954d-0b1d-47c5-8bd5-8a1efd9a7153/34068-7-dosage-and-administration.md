@@ -13,6 +13,4 @@ Awaken at approximately four and six hours after retiring and instill one to two
 
 Days 3 through 7 to 9 Instill one to two drops hourly, while awake.
 
-Days 7 to 9 through Instill one to two drops, four times daily.
-
-treatment completion
+Days 7 to 9 through Instill one to two drops, four times daily. treatment completion
