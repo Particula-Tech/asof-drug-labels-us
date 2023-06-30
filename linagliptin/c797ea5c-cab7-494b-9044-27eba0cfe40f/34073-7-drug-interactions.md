@@ -7,5 +7,6 @@ Therefore, use of alternative treatments is strongly recommended when linaglipti
 
 ## 7.2 Insulin Secretagogues or Insulin
 
+Insulin and insulin secretagogues are known to cause hypoglycemia.
 The risk of hypoglycemia is increased when linagliptin is used in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin.
-Coadministration of TRADJENTA with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.2)].
+Coadministration of TRADJENTA with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower dosages of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.2)].

@@ -1,7 +1,5 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosing
+## 2.1 Recommended Dosage and Administration
 
-The recommended dose of TRADJENTA is 5 mg once daily.
-
-TRADJENTA tablets can be taken with or without food.
+The recommended dosage of TRADJENTA is 5 mg taken orally once daily, with or without food.

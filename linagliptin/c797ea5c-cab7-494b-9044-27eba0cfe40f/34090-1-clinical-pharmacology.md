@@ -23,7 +23,7 @@ At the 100 mg dose, peak linagliptin plasma concentrations were approximately 38
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of linagliptin has been characterized in healthy subjects and patients with type 2 diabetes.
+The pharmacokinetics of linagliptin has been characterized in healthy subjects and patients with type 2 diabetes mellitus.
 After oral administration of a single 5 mg dose to healthy subjects, peak plasma concentrations of linagliptin occurred at approximately 1.5 hours post dose (Tmax); the mean plasma area under the curve (AUC) was 139 nmol*h/L and maximum concentration (Cmax) was 8.9 nmol/L.
 
 Plasma concentrations of linagliptin decline in at least a biphasic manner with a long terminal half-life (>100 hours), related to the saturable binding of linagliptin to DPP-4.
@@ -32,7 +32,7 @@ The effective half-life for accumulation of linagliptin, as determined from oral
 After once-daily dosing, steady-state plasma concentrations of linagliptin 5 mg are reached by the third dose, and Cmax and AUC increased by a factor of 1.3 at steady-state compared with the first dose.
 The intra-subject and inter-subject coefficients of variation for linagliptin AUC were small (12.6% and 28.5%, respectively).
 Plasma AUC of linagliptin increased in a less than dose-proportional manner in the dose range of 1 to 10 mg.
-The pharmacokinetics of linagliptin is similar in healthy subjects and in patients with type 2 diabetes.
+The pharmacokinetics of linagliptin is similar in healthy subjects and in patients with type 2 diabetes mellitus.
 
 Absorption
 
@@ -42,7 +42,7 @@ TRADJENTA may be administered with or without food.
 
 Distribution
 
-The mean apparent volume of distribution at steady-state following a single intravenous dose of linagliptin 5 mg to healthy subjects is approximately 1110 L, indicating that linagliptin extensively distributes to the tissues.
+The mean apparent volume of distribution at steady-state following a single intravenous dose of linagliptin 5 mg to healthy subjects is approximately 1,110 L, indicating that linagliptin extensively distributes to the tissues.
 Plasma protein binding of linagliptin is concentration-dependent, decreasing from about 99% at 1 nmol/L to 75%-89% at ≥30 nmol/L, reflecting saturation of binding to DPP-4 with increasing concentration of linagliptin.
 At high concentrations, where DPP-4 is fully saturated, 70% to 80% of linagliptin remains bound to plasma proteins and 20% to 30% is unbound in plasma.
 Plasma binding is not altered in patients with renal or hepatic impairment.
@@ -63,7 +63,7 @@ Following administration of an oral [14C]-linagliptin dose to healthy subjects, 
 
 Specific Populations
 
-Renal Impairment
+Patients with Renal Impairment
 
 An open-label pharmacokinetic study evaluated the pharmacokinetics of linagliptin 5 mg in male and female patients with varying degrees of chronic renal impairment.
 The study included 6 healthy subjects with normal renal function (creatinine clearance [CrCl] ≥80 mL/min), 6 patients with mild renal impairment (CrCl 50 to <80 mL/min), 6 patients with moderate renal impairment (CrCl 30 to <50 mL/min), 10 patients with type 2 diabetes mellitus and severe renal impairment (CrCl <30 mL/min), and 11 patients with type 2 diabetes mellitus and normal renal function.
@@ -80,7 +80,7 @@ For both type 2 diabetes mellitus groups, renal excretion was below 7% of the ad
 
 These findings were further supported by the results of population pharmacokinetic analyses.
 
-Hepatic Impairment
+Patients with Hepatic Impairment
 
 In patients with mild hepatic impairment (Child-Pugh class A), steady-state exposure (AUCτ,ss) of linagliptin was approximately 25% lower and Cmax,ss was approximately 36% lower than in healthy subjects.
 In patients with moderate hepatic impairment (Child-Pugh class B), AUCss of linagliptin was about 14% lower and Cmax,ss was approximately 8% lower than in healthy subjects.
@@ -91,7 +91,7 @@ Effects of Age, Body Mass Index (BMI), Gender, and Race
 
 Based on the population pharmacokinetic analysis, age, BMI, gender, and race do not have a clinically meaningful effect on the pharmacokinetics of linagliptin [see Use in Specific Populations (8.5)].
 
-Drug Interactions
+Drug Interaction Studies
 
 In vitro Assessment of Drug Interactions
 
@@ -104,6 +104,8 @@ In vivo Assessment of Drug Interactions
 
 Strong inducers of CYP3A4 or P-gp (e.g., rifampin) decrease exposure to linagliptin to subtherapeutic and likely ineffective concentrations [see Drug Interactions (7)].
 In vivo studies indicated evidence of a low propensity for causing drug interactions with substrates of CYP3A4, CYP2C9, CYP2C8, P-gp and organic cationic transporter (OCT).
+
+Table 3 describes the effect of coadministered drugs on systemic exposure of linagliptin.
 
 Table 3 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 
@@ -120,6 +122,8 @@ Table 3 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 | #Single dose |  |  |  |  |
 | †AUC = AUC(0 to 24 hours) for single-dose treatments and AUC = AUC(TAU) for multiple-dose treatments |  |  |  |  |
 | QD = once daily BID = twice daily TID = three times daily |  |  |  |  |
+
+Table 4 describes the effect of linagliptin on systemic exposure of coadministered drugs.
 
 Table 4 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 

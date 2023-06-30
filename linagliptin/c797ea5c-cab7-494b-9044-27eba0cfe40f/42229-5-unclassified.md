@@ -8,6 +8,6 @@ Boehringer Ingelheim Pharmaceuticals, Inc. either owns or uses the CARMELINA® a
 
 The other brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc.
 
-Copyright © 2022 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2023 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-COL10194AD182022 SPL10196A
+COL10194BF212023 SPL10196B
