@@ -11,7 +11,6 @@ Anaphylactoid reactions have been reported with therapeutic ingestion of NSAIDs,
 
 Patients should be managed by symptomatic and supportive care following a NSAIDs overdose.
 There are no specific antidotes.
-Emesis and/or activated charcoal (60 g to 100 g in adults, 1 g/kg to 2 g/kg in children) and/or osmotic cathartic may be indicated in patients seen within 4 hours of ingestion with symptoms or following a large oral overdose (5 to 10 times the usual dose).
 Forced diuresis, alkalization of urine, hemodialysis or hemoperfusion may not be useful due to high protein binding.
 
 Single overdoses of ketorolac tromethamine have been variously associated with abdominal pain, nausea, vomiting, hyperventilation, peptic ulcers and/or erosive gastritis and renal dysfunction which have resolved after discontinuation of dosing.

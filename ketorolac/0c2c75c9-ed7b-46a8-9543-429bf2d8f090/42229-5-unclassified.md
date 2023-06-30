@@ -1,5 +1,5 @@
 Manufactured by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Revised October 2021
+Revised May 2023
 
-462-103-09
+462-103-10
