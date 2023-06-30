@@ -15,11 +15,11 @@ Incretin hormones are secreted at a low basal level throughout the day and level
 GLP-1 and GIP increase insulin biosynthesis and secretion from pancreatic beta cells in the presence of normal and elevated blood glucose levels.
 Furthermore, GLP-1 also reduces glucagon secretion from pancreatic alpha cells, resulting in a reduction in hepatic glucose output.
 
-Metformin
+Metformin HCl
 
 Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may actually decrease.
+With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may decrease.
 
 ## 12.2 Pharmacodynamics
 
@@ -53,14 +53,14 @@ However, the prolonged elimination does not contribute to the accumulation of th
 The effective half-life for accumulation of linagliptin, as determined from oral administration of multiple doses of linagliptin 5 mg, is approximately 12 hours.
 After once-daily dosing, steady-state plasma concentrations of linagliptin 5 mg are reached by the third dose, and Cmax and AUC increased by a factor of 1.3 at steady-state compared with the first dose.
 Plasma AUC of linagliptin increased in a less than dose-proportional manner in the dose range of 1 to 10 mg.
-The pharmacokinetics of linagliptin is similar in healthy subjects and in patients with type 2 diabetes.
+The pharmacokinetics of linagliptin is similar in healthy subjects and in patients with type 2 diabetes mellitus.
 
-Metformin
+Metformin HCl
 
-Following a single oral dose of 1000 mg (2 × 500 mg tablets) metformin extended-release after a meal, the time to reach maximum plasma metformin concentration (Tmax) is achieved at approximately 7 to 8 hours.
-In both single- and multiple-dose studies in healthy subjects, once daily 1000 mg (2 × 500 mg tablets) dosing provides equivalent systemic exposure, as measured by AUC, and up to 35% higher Cmax of metformin relative to the immediate-release given as 500 mg twice daily.
+Following a single oral dose of 1,000 mg (2 × 500 mg tablets) metformin extended-release after a meal, the time to reach maximum plasma metformin concentration (Tmax) is achieved at approximately 7 to 8 hours.
+In both single- and multiple-dose studies in healthy subjects, once daily 1,000 mg (2 × 500 mg tablets) dosing provides equivalent systemic exposure, as measured by AUC, and up to 35% higher Cmax of metformin relative to the immediate-release given as 500 mg twice daily.
 
-Single oral doses of metformin extended-release from 500 mg to 2500 mg resulted in less than proportional increase in both AUC and Cmax.
+Single oral doses of metformin extended-release from 500 mg to 2,500 mg resulted in less than proportional increase in both AUC and Cmax.
 Low-fat and high-fat meals increased the systemic exposure (as measured by AUC) from metformin extended-release tablets by about 38% and 73%, respectively, relative to fasting.
 Both meals prolonged metformin Tmax by approximately 3 hours but Cmax was not affected.
 
@@ -68,14 +68,14 @@ Distribution
 
 Linagliptin
 
-The mean apparent volume of distribution at steady-state following a single intravenous dose of linagliptin 5 mg to healthy subjects is approximately 1110 L, indicating that linagliptin extensively distributes to the tissues.
+The mean apparent volume of distribution at steady-state following a single intravenous dose of linagliptin 5 mg to healthy subjects is approximately 1,110 L, indicating that linagliptin extensively distributes to the tissues.
 Plasma protein binding of linagliptin is concentration-dependent decreasing from about 99% at 1 nmol/L to 75% to 89% at ≥30 nmol/L, reflecting saturation of binding to DPP-4 with increasing concentration of linagliptin.
 At high concentrations, where DPP-4 is fully saturated, 70% to 80% of linagliptin remains bound to plasma proteins and 20% to 30% is unbound in plasma.
 Plasma binding is not altered in patients with renal or hepatic impairment.
 
-Metformin
+Metformin HCl
 
-The apparent volume of distribution (V/F) of metformin following single oral doses of immediate-release metformin hydrochloride tablets 850 mg averaged 654±358 L. Metformin is negligibly bound to plasma proteins.
+The apparent volume of distribution (V/F) of metformin following single oral doses of immediate-release metformin HCl tablets 850 mg averaged 654±358 L. Metformin is negligibly bound to plasma proteins.
 Metformin partitions into erythrocytes, most likely as a function of time.
 
 Elimination
@@ -83,7 +83,7 @@ Elimination
 Linagliptin: Linagliptin has a terminal half-life of about 200 hours at steady-state, though the accumulation half-life is about 11 hours.
 Renal clearance at steady-state was approximately 70 mL/min.
 
-Metformin: Metformin has a plasma elimination half-life of approximately 6.2 hours.
+Metformin HCl: Metformin has a plasma elimination half-life of approximately 6.2 hours.
 In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
 
 Metabolism
@@ -91,27 +91,32 @@ Metabolism
 Linagliptin: Following oral administration, the majority (about 90%) of linagliptin is excreted unchanged, indicating that metabolism represents a minor elimination pathway.
 A small fraction of absorbed linagliptin is metabolized to a pharmacologically inactive metabolite, which shows a steady-state exposure of 13.3% relative to linagliptin.
 
-Metformin: Intravenous single-dose studies in normal subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans), nor biliary excretion.
+Metformin HCl: Intravenous single-dose studies in normal subjects demonstrate that metformin does not undergo hepatic metabolism (no metabolites have been identified in humans), nor biliary excretion.
 
 Excretion
 
 Linagliptin: Following administration of an oral [14C] linagliptin dose to healthy subjects, approximately 85% of the administered radioactivity was eliminated via the enterohepatic system (80%) or urine (5%) within 4 days of dosing.
 
-Metformin: Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin elimination.
-Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours, with a plasma elimination half-life of approximately 6.2 hours.
+Metformin HCl: Following oral administration, approximately 90% of the absorbed drug is excreted via the renal route within the first 24 hours.
+Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin elimination.
 
 Specific Populations
 
 Renal Impairment
 
-JENTADUETO XR: Studies characterizing the pharmacokinetics of linagliptin and metformin after administration of JENTADUETO XR in renally impaired patients have not been performed [see Contraindications (4) and Warnings and Precautions (5.1)].
+JENTADUETO XR: Studies characterizing the pharmacokinetics of linagliptin and metformin after administration of JENTADUETO XR in renally impaired patients have not been performed.
 
 Linagliptin: Under steady-state conditions, linagliptin exposure in patients with mild renal impairment was comparable to healthy subjects.
 In patients with moderate renal impairment under steady-state conditions, mean exposure of linagliptin increased (AUCτ,ss by 71% and Cmax by 46%) compared with healthy subjects.
 This increase was not associated with a prolonged accumulation half-life, terminal half-life, or an increased accumulation factor.
 Renal excretion of linagliptin was below 5% of the administered dose and was not affected by decreased renal function.
 
-Metformin: In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4) and Warnings and Precautions (5.1)].
+Patients with type 2 diabetes mellitus and severe renal impairment showed steady-state exposure approximately 40% higher than that of patients with type 2 diabetes mellitus and normal renal function (increase in AUC by 42% and Cmax by 35%).
+For both type 2 diabetes mellitus groups, renal excretion was below 7% of the administered dose.
+
+These findings were further supported by the results of population pharmacokinetic analyses.
+
+Metformin HCl: In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 Hepatic Impairment
 
@@ -122,24 +127,24 @@ In patients with moderate hepatic impairment (Child-Pugh class B), AUCss of lina
 Patients with severe hepatic impairment (Child-Pugh class C) had comparable exposure of linagliptin in terms of AUC0-24 and approximately 23% lower Cmax compared with healthy subjects.
 Reductions in the pharmacokinetic parameters seen in patients with hepatic impairment did not result in reductions in DPP-4 inhibition.
 
-Metformin hydrochloride: No pharmacokinetic studies of metformin have been conducted in patients with hepatic impairment.
+Metformin HCl: No pharmacokinetic studies of metformin have been conducted in patients with hepatic impairment.
 
 Effects of Age, Body Mass Index (BMI), Gender, and Race
 
 Linagliptin: Based on the population pharmacokinetic analysis, age, BMI, gender, and race do not have a clinically meaningful effect on pharmacokinetics of linagliptin [see Use in Specific Populations (8.5)].
 
-Metformin hydrochloride: Metformin pharmacokinetic parameters did not differ significantly between normal subjects and patients with type 2 diabetes mellitus when analyzed according to gender.
+Metformin HCl: Metformin pharmacokinetic parameters did not differ significantly between normal subjects and patients with type 2 diabetes mellitus when analyzed according to gender.
 Similarly, in controlled clinical studies in patients with type 2 diabetes mellitus, the antihyperglycemic effect of metformin was comparable in males and females.
 
 Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared with healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
 
 No studies of metformin pharmacokinetic parameters according to race have been performed.
-In controlled clinical studies of metformin in patients with type 2 diabetes mellitus, the antihyperglycemic effect was comparable in Caucasians (n=249), Blacks (n=51), and Hispanics (n=24).
+In controlled clinical studies of metformin HCl in patients with type 2 diabetes mellitus, the antihyperglycemic effect was comparable in Caucasians (n=249), Blacks (n=51), and Hispanics (n=24).
 
 Drug Interactions
 
-Pharmacokinetic drug interaction studies with JENTADUETO XR have not been performed; however, such studies have been conducted with the individual components of JENTADUETO XR (linagliptin and metformin hydrochloride).
+Pharmacokinetic drug interaction studies with JENTADUETO XR have not been performed; however, such studies have been conducted with the individual components of JENTADUETO XR (linagliptin and metformin HCl).
 
 Linagliptin
 
@@ -153,7 +158,9 @@ Based on these results and in vivo drug interaction studies, linagliptin is cons
 In vivo Assessment of Drug Interactions
 
 Strong inducers of CYP3A4 or P-gp (e.g., rifampin) decrease exposure to linagliptin to subtherapeutic and likely ineffective concentrations [see Drug Interactions (7)].
-In vivo studies indicated evidence of a low propensity for causing drug interactions with substrates of CYP3A4, CYP2C9, CYP2C8, P-gp, and OCT.
+In vivo studies indicated evidence of a low propensity for causing drug interactions with substrates of CYP3A4, CYP2C9, CYP2C8, P-gp, and organic cationic transporter (OCT).
+
+Table 3 describes the effect of coadministered drugs on systemic exposure of linagliptin.
 
 Table 3 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 
@@ -172,6 +179,8 @@ Table 3 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 | QD=once daily |  |  |  |  |
 | BID=twice daily |  |  |  |  |
 | TID=three times daily |  |  |  |  |
+
+Table 4 describes the effect of linagliptin on systemic exposure of coadministered drugs.
 
 Table 4 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 
@@ -201,9 +210,11 @@ Table 4 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 | QD=once daily |  |  |  |  |  |
 | TID=three times daily |  |  |  |  |  |
 
-Metformin hydrochloride
+Metformin HCl
 
-Table 5 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
+Table 5 describes the effect of coadministered drugs on plasma metformin systemic exposure.
+
+Table 5 Effect of Coadministered Drugs on Plasma Metformin Systemic Exposure
 
 |  |  |  |  | AUC† | Cmax |
 | --- | --- | --- | --- | --- | --- |
@@ -219,9 +230,11 @@ Table 5 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | Topiramate** | 100 mg | 500 mg | metformin | 1.25 | 1.17 |
 | *All metformin and coadministered drugs were given as single doses |  |  |  |  |  |
 | † AUC=AUC(INF) |  |  |  |  |  |
-| ≠metformin hydrochloride extended-release tablets 500 mg |  |  |  |  |  |
+| ≠metformin HCl extended-release tablets 500 mg |  |  |  |  |  |
 | ‡Ratio of arithmetic means |  |  |  |  |  |
 | **At steady-state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC(0-12 hours) |  |  |  |  |  |
+
+Table 6 describes the effect of metformin on coadministered drug systemic exposure.
 
 Table 6 Effect of Metformin on Coadministered Drug Systemic Exposure
 

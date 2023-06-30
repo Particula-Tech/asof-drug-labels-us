@@ -1,21 +1,22 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosing
+## 2.1 Recommended Dosage and Administration
 
-The dosage of JENTADUETO XR should be individualized on the basis of both effectiveness and tolerability, while not exceeding the maximum recommended total daily dose of linagliptin 5 mg and metformin hydrochloride (HCl) 2000 mg.
-JENTADUETO XR should be given once daily with a meal.
+The dosage of JENTADUETO XR should be individualized on the basis of both effectiveness and tolerability, while not exceeding the maximum recommended total daily dosage of linagliptin 5 mg and metformin hydrochloride (HCl) 2,000 mg.
+JENTADUETO XR should be given orally once daily with a meal.
+Dosage escalation should be gradual to reduce the gastrointestinal (GI) side effects associated with metformin use.
 
-Recommended starting dose:
+Recommended starting dosage:
 
-- In patients currently not treated with metformin, initiate JENTADUETO XR treatment with 5 mg linagliptin/1000 mg metformin HCl extended-release once daily with a meal.
-- In patients already treated with metformin, start JENTADUETO XR with 5 mg of linagliptin total daily dose and a similar total daily dose of metformin HCl once daily with a meal.
-- In patients already treated with linagliptin and metformin or JENTADUETO, switch to JENTADUETO XR containing 5 mg of linagliptin total daily dose and a similar total daily dose of metformin HCl once daily with a meal.
+- In patients currently not treated with metformin HCl, initiate JENTADUETO XR treatment with 5 mg linagliptin/1,000 mg metformin HCl extended-release once daily with a meal.
+- In patients already treated with metformin HCl, start JENTADUETO XR with 5 mg of linagliptin total daily dosage and a similar total daily dosage of metformin HCl once daily with a meal.
+- In patients already treated with linagliptin and metformin HCl or JENTADUETO, switch to JENTADUETO XR containing 5 mg of linagliptin total daily dosage and a similar total daily dosage of metformin HCl once daily with a meal.
 
 JENTADUETO XR should be swallowed whole.
 The tablets must not be split, crushed, dissolved, or chewed.
 
-JENTADUETO XR 5 mg linagliptin/1000 mg metformin HCl extended-release tablet should be taken as a single tablet once daily.
-Patients using 2.5 mg linagliptin/1000 mg metformin HCl extended-release tablets should take two tablets together once daily.
+JENTADUETO XR 5 mg linagliptin/1,000 mg metformin HCl extended-release tablet should be taken as a single tablet once daily.
+Patients using 2.5 mg linagliptin/1,000 mg metformin HCl extended-release tablets should take two tablets together once daily.
 
 ## 2.2 Recommended Dosing in Renal Impairment
 

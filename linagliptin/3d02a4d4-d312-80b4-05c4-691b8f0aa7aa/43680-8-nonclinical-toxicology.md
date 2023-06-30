@@ -17,12 +17,12 @@ Linagliptin was not mutagenic or clastogenic with or without metabolic activatio
 
 In fertility studies in rats, linagliptin had no adverse effects on early embryonic development, mating, fertility, or bearing live young up to the highest dose of 240 mg/kg (approximately 943 times the clinical dose based on AUC exposure).
 
-Metformin Hydrochloride
+Metformin HCl
 
-Long-term carcinogenicity studies have been performed in Sprague Dawley rats at doses of 150, 300, and 450 mg/kg/day in males and 150, 450, 900, and 1200 mg/kg/day in females.
-These doses are approximately 2, 4, and 8 times in males, and 3, 7, 12, and 16 times in females of the maximum recommended human daily dose of 2000 mg/kg/day based on body surface area comparisons.
+Long-term carcinogenicity studies have been performed in Sprague Dawley rats at doses of 150, 300, and 450 mg/kg/day in males and 150, 450, 900, and 1,200 mg/kg/day in females.
+These doses are approximately 2, 4, and 8 times in males, and 3, 7, 12, and 16 times in females of the maximum recommended human daily dose of 2,000 mg/kg/day based on body surface area comparisons.
 No evidence of carcinogenicity with metformin was found in either male or female rats.
-A carcinogenicity study was also performed in Tg.AC transgenic mice at doses of up to 2000 mg/kg/day applied dermally.
+A carcinogenicity study was also performed in Tg.AC transgenic mice at doses of up to 2,000 mg/kg/day applied dermally.
 No evidence of carcinogenicity was observed in male or female mice.
 
 Genotoxicity assessments in the Ames test, gene mutation test (mouse lymphoma cells), chromosomal aberrations test (human lymphocytes) and in vivo mouse micronucleus tests were negative.

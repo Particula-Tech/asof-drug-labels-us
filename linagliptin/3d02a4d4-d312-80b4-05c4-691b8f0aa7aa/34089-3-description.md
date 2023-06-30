@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-JENTADUETO XR tablets for oral use contain: linagliptin and metformin hydrochloride.
+JENTADUETO XR tablets for oral use contain: linagliptin and metformin HCl.
 
 Linagliptin
 
@@ -18,16 +18,20 @@ Linagliptin is soluble in methanol (ca.
 10 mg/mL), very slightly soluble in isopropanol (<1 mg/mL), and very slightly soluble in acetone (ca.
 1 mg/mL).
 
-Metformin Hydrochloride
+Metformin HCl
 
-Metformin hydrochloride (N,N-dimethylimidodicarbonimidic diamide hydrochloride) is a biguanide.
-Metformin hydrochloride is a white to off-white crystalline compound with a molecular formula of C4H11N5∙HCl and a molecular weight of 165.63 g/mol.
-Metformin hydrochloride is freely soluble in water and is practically insoluble in acetone, ether, and chloroform.
+Metformin HCl (N,N-dimethylimidodicarbonimidic diamide hydrochloride) is a biguanide.
+Metformin HCl is a white to off-white crystalline compound with a molecular formula of C4H11N5∙HCl and a molecular weight of 165.63 g/mol.
+Metformin HCl is freely soluble in water and is practically insoluble in acetone, ether, and chloroform.
 The pKa of metformin is 12.4.
 The pH of a 1% aqueous solution of metformin hydrochloride is 6.68.
 The structural formula is:
 
 JENTADUETO XR consists of an extended-release metformin core tablet that is coated with the immediate-release drug substance linagliptin.
-JENTADUETO XR is available for oral administration as tablets containing 5 mg linagliptin and 1000 mg metformin hydrochloride extended-release (JENTADUETO XR 5 mg/1000 mg) or 2.5 mg linagliptin and 1000 mg metformin hydrochloride extended-release (JENTADUETO XR 2.5 mg/1000 mg).
-Each coated tablet of JENTADUETO XR contains the following inactive ingredients: Tablet core: polyethylene oxide, hypromellose, and magnesium stearate.
-Coating: hydroxypropyl cellulose, hypromellose, talc, titanium dioxide, arginine, polyethylene glycol, ferric oxide yellow (2.5 mg/1000 mg), carnauba wax, ferrosoferric oxide, propylene glycol, and isopropyl alcohol.
+JENTADUETO XR is available for oral administration as tablets containing:
+
+- 5 mg linagliptin and 1,000 mg metformin HCl (equivalent to 779.86 mg of metformin)
+- 2.5 mg linagliptin and 1,000 mg metformin HCl (equivalent to 779.86 mg of metformin)
+
+Each coated tablet of JENTADUETO XR contains the following inactive ingredients: Tablet core: hypromellose, magnesium stearate, and polyethylene oxide.
+Coating: arginine, carnauba wax, ferric oxide yellow (2.5 mg/1,000 mg), ferrosoferric oxide, hydroxypropyl cellulose, hypromellose, isopropyl alcohol, polyethylene glycol, propylene glycol, talc, and titanium dioxide.
