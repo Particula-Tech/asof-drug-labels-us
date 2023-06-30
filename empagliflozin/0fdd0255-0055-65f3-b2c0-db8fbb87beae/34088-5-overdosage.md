@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-In the event of an overdose with SYNJARDY, consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations.
+In the event of an overdose with SYNJARDY or SYNJARDY XR, consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations.
 
 Overdose of metformin HCl has occurred, including ingestion of amounts greater than 50 grams.
 Lactic acidosis has been reported in approximately 32% of metformin overdose cases [see Warnings and Precautions (5.1)].

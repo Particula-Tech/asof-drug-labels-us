@@ -8,5 +8,5 @@ Risk factors for metformin-associated lactic acidosis include renal impairment, 
 
 Steps to reduce the risk of and manage metformin-associated lactic acidosis in these high risk groups are provided in the full prescribing information [see Dosage and Administration (2.1), Contraindications (4), Warnings and Precautions (5.1), Drug Interactions (7), and Use in Specific Populations (8.6, 8.7)].
 
-If metformin-associated lactic acidosis is suspected, immediately discontinue SYNJARDY and institute general supportive measures in a hospital setting.
+If metformin-associated lactic acidosis is suspected, immediately discontinue SYNJARDY or SYNJARDY XR and institute general supportive measures in a hospital setting.
 Prompt hemodialysis is recommended [see Warnings and Precautions (5.1)].

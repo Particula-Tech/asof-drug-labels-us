@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-SYNJARDY
+SYNJARDY or SYNJARDY XR
 
 No carcinogenicity, mutagenicity, or impairment of fertility studies have been conducted with the combination of empagliflozin and metformin HCl.
 General toxicity studies in rats up to 13 weeks were performed with the combined components.
@@ -21,7 +21,7 @@ Empagliflozin was not mutagenic or clastogenic with or without metabolic activat
 
 Empagliflozin had no effects on mating, fertility or early embryonic development in treated male or female rats up to the high dose of 700 mg/kg/day (approximately 155 times the 25 mg clinical dose in males and females, respectively).
 
-Metformin hydrochloride
+Metformin HCl
 
 Long-term carcinogenicity studies have been performed in rats (dosing duration of 104 weeks) and mice (dosing duration of 91 weeks) at doses up to and including 900 mg/kg/day and 1,500 mg/kg/day, respectively.
 These doses are both approximately 4 times the maximum recommended human daily dose of 2,000 mg/kg/day based on body surface area comparisons.
