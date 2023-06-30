@@ -52,7 +52,7 @@ If serious hepatic injury with clinical symptoms and/or hyperbilirubinemia or ja
 Increases in HbA1c and fasting serum glucose levels have been reported with statins, including atorvastatin.
 Optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices.
 
-## 5.5 Increased Risk of Hemorrhagic Stroke in Patients on Atorvastatin Calcium tablets 80 mg with Recent Hemorrhagic Stroke
+## 5.5 Increased Risk of Hemorrhagic Stroke in Patients on Atorvastatin Calcium Tablets 80 mg with Recent Hemorrhagic Stroke
 
 In a post-hoc analysis of the Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL) trial where 2365 adult patients, without CHD who had a stroke or TIA within the preceding 6 months, were treated with atorvastatin calcium 80 mg, a higher incidence of hemorrhagic stroke was seen in the atorvastatin calcium 80 mg group compared to placebo (55, 2.3% atorvastatin calcium vs. 33, 1.4% placebo; HR: 1.68, 95% CI: 1.09, 2.59; p=0.0168).
 The incidence of fatal hemorrhagic stroke was similar across treatment groups (17 vs. 18 for the atorvastatin and placebo groups, respectively).

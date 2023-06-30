@@ -11,13 +11,13 @@ The following important adverse reactions are described below and elsewhere in t
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In the atorvastatin calcium placebo-controlled clinical trial database of 16,066 patients (8755 atorvastatin calcium vs. 7311 placebo; age range 10 to 93 years, 39% women, 91% White, 3% Black, 2% Asian, 4% other) with a median treatment duration of 53 weeks, the most common adverse reactions in patients treated with atorvastatin calcium that led to treatment discontinuation and occurred at a rate greater than placebo were: myalgia (0.7%), diarrhea (0.5%), nausea (0.4%), alanine aminotransferase increase (0.4%), and hepatic enzyme increase (0.4%).
+In the atorvastatin calcium placebo-controlled clinical trial database of 16,066 patients (8,755 atorvastatin calcium vs. 7,311 placebo; age range 10 to 93 years, 39% women, 91% White, 3% Black, 2% Asian, 4% other) with a median treatment duration of 53 weeks, the most common adverse reactions in patients treated with atorvastatin calcium that led to treatment discontinuation and occurred at a rate greater than placebo were: myalgia (0.7%), diarrhea (0.5%), nausea (0.4%), alanine aminotransferase increase (0.4%), and hepatic enzyme increase (0.4%).
 
-Table 1 summarizes adverse reactions reported in ≥ 2% and at a rate greater than placebo in patients treated with atorvastatin calcium (n=8755), from seventeen placebo-controlled trials.
+Table 1 summarizes adverse reactions reported in ≥ 2% and at a rate greater than placebo in patients treated with atorvastatin calcium (n=8,755), from seventeen placebo-controlled trials.
 
 Table 1: Adverse Reactions Occurring in ≥ 2% in Patients Atorvastatin Calcium tablets-Treated with any Dose and Greater than Placebo
 
-| Adverse Reaction | % Placebo N=7311 | % 10 mg N=3908 | % 20 mg N=188 | % 40 mg N=604 | % 80 mg N=4055 | % Any dose N=8755 |
+| Adverse Reaction | % Placebo N=7,311 | % 10 mg N=3,908 | % 20 mg N=188 | % 40 mg N=604 | % 80 mg N=4055 | % Any dose N=8,755 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Nasopharyngitis | 8.2 | 12.9 | 5.3 | 7 | 4.2 | 8.3 |
 | Arthralgia | 6.5 | 8.9 | 11.7 | 10.6 | 4.3 | 6.9 |
@@ -81,7 +81,7 @@ The incidence of fatal hemorrhagic stroke was similar between groups (17 atorvas
 The incidence of non-fatal hemorrhagic strokes was significantly greater in the atorvastatin calcium group (38 non-fatal hemorrhagic strokes) as compared to the placebo group (16 non-fatal hemorrhagic strokes).
 Patients who entered the trial with a hemorrhagic stroke appeared to be at increased risk for hemorrhagic stroke [16% atorvastatin calcium vs. 4% placebo].
 
-Adverse Reactions from Clinical Studies of Atorvastatin Calcium in Patients with HeFH
+Adverse Reactions from Clinical Studies of Atorvastatin Calcium in Pediatric Patients with HeFH
 
 In a 26-week controlled study in pediatric patients with HeFH (ages 10 years to 17 years) (n=140, 31% female; 92% White, 1.6% Blacks, 1.6% Asians, 4.8% other), the safety and tolerability profile of atorvastatin calcium 10 to 20 mg daily, as an adjunct to diet to reduce total cholesterol, LDL-C, and apo B levels, was generally similar to that of placebo [see Use in Specific Populations (8.4) and Clinical Studies (14.6)].
 

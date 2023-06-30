@@ -76,7 +76,7 @@ The safety and effectiveness of atorvastatin calcium have not been established i
 Of the total number of atorvastatin calcium tablets-treated patients in clinical trials, 15,813 (40%) were ≥65 years old and 2,800 (7%) were ≥75 years old.
 No overall differences in safety or effectiveness were observed between these patients and younger patients.
 
-Advanced age (≥65 years) is a risk factor for atorvastatin calcium tablets -associated myopathy and rhabdomyolysis.
+Advanced age (≥65 years) is a risk factor for atorvastatin calcium tablets-associated myopathy and rhabdomyolysis.
 Dose selection for an elderly patient should be cautious, recognizing the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of myopathy.
 Monitor geriatric patients receiving atorvastatin calcium tablets for the increased risk of myopathy [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
@@ -90,4 +90,5 @@ Renal impairment does not affect the plasma concentrations of atorvastatin, ther
 
 In patients with chronic alcoholic liver disease, plasma concentrations of atorvastatin are markedly increased.
 Cmax and AUC are each 4-fold greater in patients with Childs-Pugh A disease.
-Cmax and AUC are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease. atorvastatin calcium tablets are contraindicated in patients with acute liver failure or decompensated cirrhosis [see Contraindications (4)].
+Cmax and AUC are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease.
+Atorvastatin calcium tablets are contraindicated in patients with acute liver failure or decompensated cirrhosis [see Contraindications (4)].

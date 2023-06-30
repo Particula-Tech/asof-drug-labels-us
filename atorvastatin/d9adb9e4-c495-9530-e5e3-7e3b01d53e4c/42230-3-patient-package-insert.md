@@ -51,7 +51,8 @@ Before you take atorvastatin calcium tablets, tell your doctor about all of your
 - have thyroid problems
 - have kidney problems
 - had a stroke
-- are pregnant or plan to become pregnant. atorvastatin may harm your unborn baby.
+- are pregnant or plan to become pregnant.
+  Atorvastatin may harm your unborn baby.
   If you become pregnant, stop taking atorvastatin calcium tablets and call your doctor right away.
 - are breastfeeding or plan to breastfeed.
   You and your doctor should decide if you will take atorvastatin calcium tablets or breastfeed.
@@ -170,7 +171,7 @@ Medicines are sometimes prescribed for purposes other than listed in patient inf
 Do not use atorvastatin calcium tablets for a condition for which it was not prescribed.
 Do not give atorvastatin calcium tablets to other people, even if they have the same symptoms that you have.
 It may harm them.
-If you would like more information, talk with your doctor.
+If you would like more information about atorvastatin calcium tablets, talk with your doctor.
 You can ask your pharmacist or doctor for information about atorvastatin calcium tablets that is written for health professionals.
 
 What are the ingredients in atorvastatin calcium tablets?
@@ -187,7 +188,9 @@ APOTEX INC. ATORVASTATIN CALCIUM TABLETS, USP 10 mg, 20 mg, 40 mg, and 80 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada, M9L 1T9 | 33326 |
 
-Revised: April 2023
+Revised: June 2023
 
 Rev.
-22
+23
+
+This Patient Package Information has been approved by the U.S. Food and Drug Administration 06/2023
