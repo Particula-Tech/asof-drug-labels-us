@@ -5,20 +5,16 @@ Loteprednol etabonate is a white to off-white powder.
 
 Loteprednol etabonate is represented by the following structural formula:
 
-C24H31ClO7 Mol.
-Wt.
-466.96
-
 Chemical Name:
 
 chloromethyl 17α-[(ethoxycarbonyl)oxy]-11β-hydroxy-3-oxoandrosta-1,4-diene-17β-carboxylate
 
-Each mL contains
+Each mL contains:
 
-ACTIVE: Loteprednol Etabonate 5 mg (0.5%);
+Active: Loteprednol Etabonate 5 mg (0.5%)
 
-INACTIVES: Edetate Disodium, Glycerin, Povidone, Purified Water and Tyloxapol.
+Inactives: Edetate Disodium, Glycerin, Povidone, Purified Water and Tyloxapol.
 Hydrochloric Acid and/or Sodium Hydroxide may be added to adjust the pH.
 The suspension is essentially isotonic with a tonicity of 250 to 310 mOsmol/kg.
 
-PRESERVATIVE ADDED: Benzalkonium Chloride 0.01%.
+Preservative: Benzalkonium Chloride 0.01%

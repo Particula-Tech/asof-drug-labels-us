@@ -11,4 +11,4 @@ These include headache, rhinitis and pharyngitis.
 
 In a summation of controlled, randomized studies of individuals treated for 28 days or longer with loteprednol etabonate, the incidence of significant elevation of intraocular pressure (≥10 mmHg) was 2% (15/901) among patients receiving loteprednol etabonate, 7% (11/164) among patients receiving 1% prednisolone acetate and 0.5% (3/583) among patients receiving placebo.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Bausch & Lomb Incorporated at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch & Lomb Incorporated at 1-800-553-5340 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
