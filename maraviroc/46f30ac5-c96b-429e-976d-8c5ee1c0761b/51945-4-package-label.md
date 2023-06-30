@@ -2,7 +2,7 @@ PRINICIPAL DISPLAY PANEL
 
 NDC 49702-233-08
 
-Selzentry®
+Selzentry
 
 (maraviroc) tablets
 
@@ -18,7 +18,7 @@ Manufactured for:
 
 ViiV Healthcare
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F - 86°F) [see USP Controlled Room Temperature].
 
@@ -35,15 +35,19 @@ Each tablet contains 25 mg of maraviroc.
 Made in Belgium
 
 Rev.
-10/16
+12/22
 
-PAA071383
+Trademarks owned or licensed by ViiV Healthcare.
+
+©2022 ViiV Healthcare or licensor.
+
+PAA199028
 
 PRINICIPAL DISPLAY PANEL
 
 NDC 49702-235-08
 
-Selzentry®
+Selzentry
 
 (maraviroc) tablets
 
@@ -59,7 +63,7 @@ Manufactured for:
 
 ViiV Healthcare
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F - 86°F) [see USP Controlled Room Temperature].
 
@@ -76,15 +80,19 @@ Each tablet contains 75 mg of maraviroc.
 Made in Belgium
 
 Rev.
-10/16
+12/22
 
-PAA071382
+Trademarks owned or licensed by ViiV Healthcare.
+
+©2022 ViiV Healthcare or licensor.
+
+PAA199062
 
 PRINICIPAL DISPLAY PANEL
 
 NDC 49702-223-18
 
-Selzentry®
+Selzentry
 
 (maraviroc) tablets
 
@@ -100,7 +108,7 @@ Manufactured for:
 
 ViiV Healthcare
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F - 86°F) [see USP Controlled Room Temperature].
 
@@ -117,15 +125,19 @@ Each tablet contains 150 mg of maraviroc.
 Made in Belgium
 
 Rev.
-12/16
+12/22
 
-PAA083035
+Trademarks owned or licensed by ViiV Healthcare.
+
+©2022 ViiV Healthcare or licensor.
+
+PAA199061
 
 PRINICIPAL DISPLAY PANEL
 
 NDC 49702-224-18
 
-Selzentry®
+Selzentry
 
 (maraviroc) tablets
 
@@ -141,7 +153,7 @@ Manufactured for:
 
 ViiV Healthcare
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F - 86°F) [see USP Controlled Room Temperature].
 
@@ -158,9 +170,13 @@ Each tablet contains 300 mg of maraviroc.
 Made in Belgium
 
 Rev.
-12/16
+12/22
 
-PAA083036
+Trademarks owned or licensed by ViiV Healthcare.
+
+©2022 ViiV Healthcare or licensor.
+
+PAA199029
 
 PRINICIPAL DISPLAY PANEL
 
@@ -220,9 +236,11 @@ Rx only
 
 230 mL
 
-©2020 the ViiV Healthcare group of companies or its licensor.
+Made in Belgium
+
+©2022 the ViiV Healthcare group of companies or its licensor.
 
 Rev.
-11/20
+12/22
 
-PAA160438
+PAA199834
