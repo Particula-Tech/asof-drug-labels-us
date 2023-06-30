@@ -2,7 +2,7 @@
 
 ## Drug Interactions
 
-Coadministration of a number of CYP3A4 substrates such as dofetilide, quinidine cisapride and pimozide is contraindicated with ketoconazole tablets.
+Coadministration of a number of CYP3A4 substrates such as dofetilide, quinidine, cisapride and pimozide is contraindicated with ketoconazole tablets.
 Coadministration with ketoconazole can cause elevated plasma concentrations of these drugs and may increase or prolong both therapeutic and adverse effects to such an extent that a potentially serious adverse reaction may occur.
 For example, increased plasma concentrations of some of these drugs can lead to QT prolongation and sometimes resulting in life-threatening ventricular tachyarrhythmias including occurrences of torsades de pointes, a potentially fatal arrhythmia.
 (See PRECAUTIONS: Drug Interactions.)

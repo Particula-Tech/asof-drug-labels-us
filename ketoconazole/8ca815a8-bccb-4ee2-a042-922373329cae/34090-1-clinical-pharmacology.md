@@ -13,7 +13,7 @@ Absorption of ketoconazole tablets is reduced in subjects with reduced gastric a
 H2-receptor antagonists, proton pump inhibitors) or subjects with achlorhydria caused by certain diseases.
 (See Section PRECAUTIONS: Drug Interactions.)
 Absorption of ketoconazole under fasted conditions in these subjects is increased when ketoconazole tablets are administered with an acidic beverage (such as non-diet cola).
-After pretreatment with omeprazole, a proton pump inhibitor, the bioavailability of a single 200 mg dose of ketoconazole under fasted conditions was decreased to 17% of the bioavailability of ketoconazole administered alone.
+After pretreatment with omeprazole, a proton pump inhibitor, the bioavailability of a single 200-mg dose of ketoconazole under fasted conditions was decreased to 17% of the bioavailability of ketoconazole administered alone.
 When ketoconazole was administered with non-diet cola after pretreatment with omeprazole, the bioavailability was 65% of that after administration of ketoconazole alone.
 
 ### Distribution

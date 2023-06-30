@@ -13,6 +13,6 @@ See WARNINGS section.
 
 ## QT Prolongation and Drug Interactions Leading to QT Prolongation
 
-Coadministration of the following drugs with ketoconazole is contraindicated: dofetilide, quinidine, pimozide, lurasidone, cisapride, methadone, disopyramide, dronedarone, ranolazine.
+Co-administration of the following drugs with ketoconazole is contraindicated: dofetilide, quinidine, pimozide, lurasidone, cisapride, methadone, disopyramide, dronedarone, ranolazine.
 Ketoconazole can cause elevated plasma concentrations of these drugs and may prolong QT intervals, sometimes resulting in life-threatening ventricular dysrhythmias such as torsades de pointes.
 See CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Drug Interactions sections.
