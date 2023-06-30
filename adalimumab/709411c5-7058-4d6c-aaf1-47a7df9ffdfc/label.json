@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "BLA761059"
+  ],
+  "inn": "adalimumab",
+  "labeler": "Merck Sharp & Dohme Corp.",
+  "package_ndcs": [
+    "0006-5031-01",
+    "0006-5031-02",
+    "0006-5032-01",
+    "0006-5032-02"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "adalimumab-bwwd",
+      "name": "Hadlima"
+    }
+  ],
+  "setid": "709411c5-7058-4d6c-aaf1-47a7df9ffdfc",
+  "source": "dailymed"
+}
