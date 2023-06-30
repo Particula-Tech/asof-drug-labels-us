@@ -19,9 +19,11 @@ Inform patients of the potential for urinary tract infections, which may be seri
 Provide them with information on the symptoms of urinary tract infections.
 Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.3)].
 
-Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
+Hypoglycemia
 
-Inform patients that the incidence of hypoglycemia is increased when JARDIANCE is used in combination with insulin secretagogues (e.g., sulfonylurea) or insulin and that a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia [see Warnings and Precautions (5.4)].
+Inform patients that hypoglycemia has been reported when JARDIANCE is used with insulin secretagogues or insulin.
+Hypoglycemia may occur in pediatric patients regardless of concomitant antidiabetic treatment.
+Educate patients or caregivers on the signs and symptoms of hypoglycemia [see Warnings and Precautions (5.4)].
 
 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 
@@ -46,7 +48,7 @@ Advise patients to report immediately any skin reaction or angioedema, and to di
 
 Laboratory Tests
 
-Inform patients that elevated glucose in urinalysis is expected when taking JARDIANCE.
+Inform patients that elevated glucose in urinalysis is expected when taking JARDIANCE [see Drug Interactions (7)].
 
 Pregnancy
 
@@ -61,4 +63,4 @@ Missed Dose
 
 Instruct patients to take JARDIANCE only as prescribed.
 If a dose is missed, it should be taken as soon as the patient remembers.
-Advise patients not to double their next dose.
+Advise patients not to double their next dose [see Dosage and Administration (2.3)].

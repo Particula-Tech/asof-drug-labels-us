@@ -35,15 +35,18 @@ Monitor for signs and symptoms of volume depletion, and renal function after ini
 
 ## 5.3 Urosepsis and Pyelonephritis
 
-There have been reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving SGLT2 inhibitors, including JARDIANCE.
-Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
+There have been reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving JARDIANCE.
+Treatment with JARDIANCE increases the risk for urinary tract infections.
 Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
 
-## 5.4 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
+## 5.4 Hypoglycemia
 
 Insulin and insulin secretagogues are known to cause hypoglycemia.
-The risk of hypoglycemia is increased when JARDIANCE is used in combination with insulin secretagogues (e.g., sulfonylurea) or insulin [see Adverse Reactions (6.1)].
-Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with JARDIANCE.
+In adult patients, the risk of hypoglycemia may be increased when JARDIANCE is used in combination with insulin secretagogues (e.g., sulfonylurea) or insulin.
+In pediatric patients aged 10 years and older, the risk of hypoglycemia was higher with JARDIANCE regardless of insulin use [see Adverse Reactions (6.1)].
+
+The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin.
+Inform patients using these concomitant medications and pediatric patients of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
 
 ## 5.5 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 

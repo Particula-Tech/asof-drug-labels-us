@@ -2,17 +2,17 @@
 
 ## 12.1 Mechanism of Action
 
-Empagliflozin is an inhibitor of the sodium-glucose co-transporter 2 (SGLT2), the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation.
+Empagliflozin is an inhibitor of SGLT2, the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation.
 By inhibiting SGLT2, empagliflozin reduces renal reabsorption of filtered glucose and lowers the renal threshold for glucose, and thereby increases urinary glucose excretion.
 
 Empagliflozin also reduces sodium reabsorption and increases the delivery of sodium to the distal tubule.
-This may influence several physiological functions such as lowering both pre-and afterload of the heart and downregulating sympathetic activity.
+This may influence several physiological functions such as lowering both pre- and afterload of the heart and downregulating sympathetic activity.
 
 ## 12.2 Pharmacodynamics
 
 Urinary Glucose Excretion
 
-In patients with type 2 diabetes, urinary glucose excretion increased immediately following a dose of empagliflozin and was maintained at the end of a 4-week treatment period averaging at approximately 64 grams per day with 10 mg empagliflozin and 78 grams per day with 25 mg empagliflozin once daily [see Clinical Studies (14)].
+In patients with type 2 diabetes mellitus, urinary glucose excretion increased immediately following a dose of empagliflozin and was maintained at the end of a 4-week treatment period averaging at approximately 64 grams per day with 10 mg empagliflozin and 78 grams per day with 25 mg empagliflozin once daily [see Clinical Studies (14)].
 Data from single oral doses of empagliflozin in healthy subjects indicate that, on average, the elevation in urinary glucose excretion approaches baseline by about 3 days for the 10 mg and 25 mg doses.
 
 Urinary Volume
@@ -26,14 +26,15 @@ No increase in QTc was observed with either 25 mg or 200 mg empagliflozin.
 
 ## 12.3 Pharmacokinetics
 
+The pharmacokinetics of empagliflozin has been characterized in healthy volunteers and patients with type 2 diabetes mellitus and no clinically relevant differences were noted between the two populations.
+The steady-state mean plasma AUC and Cmax were 1,870 nmol∙h/L and 259 nmol/L, respectively, with 10 mg empagliflozin once daily treatment, and 4,740 nmol∙h/L and 687 nmol/L, respectively, with 25 mg empagliflozin once daily treatment.
+Systemic exposure of empagliflozin increased in a dose-proportional manner in the therapeutic dose range.
+Empagliflozin does not appear to have time-dependent pharmacokinetic characteristics.
+Following once-daily dosing, up to 22% accumulation, with respect to plasma AUC, was observed at steady-state.
+
 Absorption
 
-The pharmacokinetics of empagliflozin has been characterized in healthy volunteers and patients with type 2 diabetes and no clinically relevant differences were noted between the two populations.
 After oral administration, peak plasma concentrations of empagliflozin were reached at 1.5 hours post-dose.
-Thereafter, plasma concentrations declined in a biphasic manner with a rapid distribution phase and a relatively slow terminal phase.
-The steady-state mean plasma AUC and Cmax were 1870 nmol∙h/L and 259 nmol/L, respectively, with 10 mg empagliflozin once daily treatment, and 4740 nmol∙h/L and 687 nmol/L, respectively, with 25 mg empagliflozin once daily treatment.
-Systemic exposure of empagliflozin increased in a dose-proportional manner in the therapeutic dose range.
-The single-dose and steady-state pharmacokinetic parameters of empagliflozin were similar, suggesting linear pharmacokinetics with respect to time.
 
 Administration of 25 mg empagliflozin after intake of a high-fat and high-calorie meal resulted in slightly lower exposure; AUC decreased by approximately 16% and Cmax decreased by approximately 37%, compared to fasted condition.
 The observed effect of food on empagliflozin pharmacokinetics was not considered clinically relevant and empagliflozin may be administered with or without food.
@@ -46,7 +47,6 @@ Following administration of an oral [14C]-empagliflozin solution to healthy subj
 Elimination
 
 The apparent terminal elimination half-life of empagliflozin was estimated to be 12.4 h and apparent oral clearance was 10.6 L/h based on the population pharmacokinetic analysis.
-Following once-daily dosing, up to 22% accumulation, with respect to plasma AUC, was observed at steady-state, which was consistent with empagliflozin half-life.
 
 Metabolism
 
@@ -61,23 +61,28 @@ The majority of drug-related radioactivity recovered in feces was unchanged pare
 
 Specific Populations
 
-Renal Impairment
+Pediatric Patients
 
-In patients with type 2 diabetes mellitus with mild (eGFR: 60 to less than 90 mL/min/1.73 m2), moderate (eGFR: 30 to less than 60 mL/min/1.73 m2), and severe (eGFR: less than 30 mL/min/1.73 m2) renal impairment and patients on dialysis due to kidney failure, AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively, compared to subjects with normal renal function.
-Peak plasma levels of empagliflozin were similar in patients with moderate renal impairment and patients on dialysis due to kidney failure compared to subjects with normal renal function.
-Peak plasma levels of empagliflozin were roughly 20% higher in patients with mild and severe renal impairment as compared to subjects with normal renal function.
-Population pharmacokinetic analysis showed that the apparent oral clearance of empagliflozin decreased, with a decrease in eGFR leading to an increase in drug exposure.
-However, the fraction of empagliflozin that was excreted unchanged in urine, and urinary glucose excretion, declined with decrease in eGFR.
-
-Hepatic Impairment
-
-In patients with mild, moderate, and severe hepatic impairment according to the Child-Pugh classification, AUC of empagliflozin increased by approximately 23%, 47%, and 75%, and Cmax increased by approximately 4%, 23%, and 48%, respectively, compared to subjects with normal hepatic function.
+The pharmacokinetics and pharmacodynamics of empagliflozin were investigated in pediatric patients aged 10 to 17 years with type 2 diabetes mellitus.
+Oral administration of empagliflozin at 10 mg and 25 mg resulted in exposure within the range observed in adult patients.
 
 Effects of Age, Body Mass Index, Gender, and Race
 
-Based on the population PK analysis, age, body mass index (BMI), gender and race (Asians versus primarily Whites) do not have a clinically meaningful effect on pharmacokinetics of empagliflozin [see Use in Specific Populations (8.5)].
+Age, body mass index (BMI), gender and race (Asians versus primarily Whites) do not have a clinically meaningful effect on pharmacokinetics of empagliflozin.
 
-Drug Interactions
+Patients with Hepatic Impairment
+
+In adult patients with mild, moderate, and severe hepatic impairment according to the Child-Pugh classification, AUC of empagliflozin increased by approximately 23%, 47%, and 75%, and Cmax increased by approximately 4%, 23%, and 48%, respectively, compared to subjects with normal hepatic function.
+
+Patients with Renal Impairment
+
+In adult patients with type 2 diabetes mellitus with mild (eGFR: 60 to less than 90 mL/min/1.73 m2), moderate (eGFR: 30 to less than 60 mL/min/1.73 m2), and severe (eGFR: less than 30 mL/min/1.73 m2) renal impairment and patients on dialysis due to kidney failure, AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively, compared to subjects with normal renal function.
+Peak plasma levels of empagliflozin were similar in patients with moderate renal impairment and patients on dialysis due to kidney failure compared to subjects with normal renal function.
+Peak plasma levels of empagliflozin were roughly 20% higher in patients with mild and severe renal impairment as compared to patients with normal renal function.
+Population pharmacokinetic analysis showed that the apparent oral clearance of empagliflozin decreased, with a decrease in eGFR leading to an increase in drug exposure.
+However, the fraction of empagliflozin that was excreted unchanged in urine, and urinary glucose excretion, declined with decrease in eGFR.
+
+Drug Interaction Studies
 
 In vitro Assessment of Drug Interactions
 
@@ -94,7 +99,7 @@ Empagliflozin does not inhibit any of these human uptake transporters at clinica
 
 In vivo Assessment of Drug Interactions
 
-Empagliflozin pharmacokinetics were similar with and without coadministration of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, and simvastatin in healthy volunteers and with or without coadministration of hydrochlorothiazide and torsemide in patients with type 2 diabetes (see Figure 1).
+Empagliflozin pharmacokinetics were similar with and without coadministration of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, and simvastatin in healthy volunteers and with or without coadministration of hydrochlorothiazide and torsemide in patients with type 2 diabetes mellitus (see Figure 1).
 In subjects with normal renal function, coadministration of empagliflozin with probenecid resulted in a 30% decrease in the fraction of empagliflozin excreted in urine without any effect on 24-hour urinary glucose excretion.
 The relevance of this observation to patients with renal impairment is unknown.
 

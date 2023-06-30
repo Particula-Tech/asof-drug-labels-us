@@ -7,8 +7,8 @@ Carcinogenesis
 Carcinogenesis was evaluated in 2-year studies conducted in CD-1 mice and Wistar rats.
 Empagliflozin did not increase the incidence of tumors in female rats dosed at 100, 300, or 700 mg/kg/day (up to 72 times the exposure from the maximum clinical dose of 25 mg).
 In male rats, hemangiomas of the mesenteric lymph node were increased significantly at 700 mg/kg/day or approximately 42 times the exposure from a 25 mg clinical dose.
-Empagliflozin did not increase the incidence of tumors in female mice dosed at 100, 300, or 1000 mg/kg/day (up to 62 times the exposure from a 25 mg clinical dose).
-Renal tubule adenomas and carcinomas were observed in male mice at 1000 mg/kg/day, which is approximately 45 times the exposure of the maximum clinical dose of 25 mg.
+Empagliflozin did not increase the incidence of tumors in female mice dosed at 100, 300, or 1,000 mg/kg/day (up to 62 times the exposure from a 25 mg clinical dose).
+Renal tubule adenomas and carcinomas were observed in male mice at 1,000 mg/kg/day, which is approximately 45 times the exposure of the maximum clinical dose of 25 mg.
 These tumors may be associated with a metabolic pathway predominantly present in the male mouse kidney.
 
 Mutagenesis

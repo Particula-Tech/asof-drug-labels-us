@@ -1,6 +1,8 @@
 # 7 DRUG INTERACTIONS
 
-Table 3 Clinically Relevant Interactions with JARDIANCE
+See Table 4 for clinically relevant interactions with JARDIANCE.
+
+Table 4 Clinically Relevant Interactions with JARDIANCE
 
 | Diuretics |  |
 | --- | --- |
@@ -8,7 +10,7 @@ Table 3 Clinically Relevant Interactions with JARDIANCE
 | Intervention | Before initiating JARDIANCE, assess volume status and renal function. In patients with volume depletion, correct this condition before initiating JARDIANCE. Monitor for signs and symptoms of volume depletion, and renal function after initiating therapy. |
 | Insulin or Insulin Secretagogues |  |
 | Clinical Impact | The risk of hypoglycemia is increased when JARDIANCE is used in combination with insulin secretagogues (e.g., sulfonylurea) or insulin. |
-| Intervention | Coadministration of JARDIANCE with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia. |
+| Intervention | Coadministration of JARDIANCE with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower dosages of the insulin secretagogue or insulin to reduce the risk of hypoglycemia. |
 | Lithium |  |
 | Clinical Impact | Concomitant use of an SGLT2 inhibitor with lithium may decrease serum lithium concentrations. |
 | Intervention | Monitor serum lithium concentration more frequently during JARDIANCE initiation and dosage changes. |

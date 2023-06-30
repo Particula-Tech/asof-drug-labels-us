@@ -57,36 +57,42 @@ Juvenile rats directly exposed to empagliflozin showed a risk to the developing 
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of JARDIANCE have not been established in pediatric patients.
+The safety and effectiveness of JARDIANCE as an adjunct to diet and exercise to improve glycemic control in type 2 diabetes mellitus have been established in pediatric patients aged 10 years and older.
+Use of JARDIANCE for this indication is supported by evidence from a 26-week double-blind, placebo-controlled clinical trial, with a double-blind active treatment safety extension period of up to 52 weeks in 157 pediatric patients aged 10 to 17 years with type 2 diabetes mellitus and a pediatric pharmacokinetic study [see Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
+The safety profile of pediatric patients treated with JARDIANCE was similar to that observed in adults with type 2 diabetes mellitus, with the exception of hypoglycemia risk which was higher in pediatric patients treated with JARDIANCE regardless of concomitant insulin use [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
+
+The safety and effectiveness of JARDIANCE have not been established in pediatric patients less than 10 years of age.
 
 ## 8.5 Geriatric Use
 
-In glycemic control studies in patients with type 2 diabetes mellitus, a total of 2721 (32%) patients treated with JARDIANCE were 65 years of age and older, and 491 (6%) were 75 years of age and older.
+In glycemic control trials in patients with type 2 diabetes mellitus, a total of 2,721 (32%) patients treated with JARDIANCE were 65 years of age and older, and 491 (6%) were 75 years of age and older.
 JARDIANCE is expected to have diminished glycemic efficacy in elderly patients with renal impairment [see Use in Specific Populations (8.6)].
 The risk of volume depletion-related adverse reactions increased in patients who were 75 years of age and older to 2.1%, 2.3%, and 4.4% for placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg.
 The risk of urinary tract infections increased in patients who were 75 years of age and older to 10.5%, 15.7%, and 15.1% in patients randomized to placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
-In heart failure studies, EMPEROR-Reduced included 1188 (64%) patients treated with JARDIANCE 65 years of age and older, and 503 (27%) patients 75 years of age and older.
-EMPEROR-Preserved included 2402 (80%) patients treated with JARDIANCE 65 years of age and older, and 1281 (43%) patients 75 years of age and older.
-Safety and efficacy were similar for patients 65 years and younger and those older than 65 years.
+In heart failure trials, EMPEROR-Reduced included 1,188 (64%) patients treated with JARDIANCE 65 years of age and older, and 503 (27%) patients 75 years of age and older.
+EMPEROR-Preserved included 2,402 (80%) patients treated with JARDIANCE 65 years of age and older, and 1,281 (43%) patients 75 years of age and older.
+No overall differences in safety and effectiveness have been observed between patients 65 years of age and older and younger adult patients.
 
 ## 8.6 Renal Impairment
 
-The efficacy and safety of JARDIANCE for glycemic control were evaluated in a study of patients with type 2 diabetes mellitus with mild and moderate renal impairment (eGFR 30 to less than 90 mL/min/1.73 m2) [see Clinical Studies (14)].
-In this study, 195 patients exposed to JARDIANCE had an eGFR between 60 and 90 mL/min/1.73 m2, 91 patients exposed to JARDIANCE had an eGFR between 45 and 60 mL/min/1.73 m2, and 97 patients exposed to JARDIANCE had an eGFR between 30 and 45 mL/min/1.73 m2.
-The glucose lowering benefit of JARDIANCE 25 mg decreased in patients with worsening renal function.
+The efficacy and safety of JARDIANCE for glycemic control were evaluated in a study of adult patients with type 2 diabetes mellitus with mild and moderate renal impairment (eGFR 30 to less than 90 mL/min/1.73 m2) [see Clinical Studies (14)].
+In this study, 195 adult patients exposed to JARDIANCE had an eGFR between 60 and 90 mL/min/1.73 m2, 91 adult patients exposed to JARDIANCE had an eGFR between 45 and 60 mL/min/1.73 m2, and 97 patients exposed to JARDIANCE had an eGFR between 30 and 45 mL/min/1.73 m2.
+The glucose lowering benefit of JARDIANCE 25 mg decreased in adult patients with worsening renal function.
 The risks of renal impairment, volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function [see Warnings and Precautions (5.2)].
 Use of JARDIANCE for glycemic control in patients without established cardiovascular disease or cardiovascular risk factors is not recommended when eGFR is less than 30 mL/min/1.73 m2.
 
-In a large cardiovascular outcomes study of patients with type 2 diabetes and established cardiovascular disease, there were 1819 patients with eGFR below 60 mL/min/1.73 m2.
+In a large cardiovascular outcomes study of adult patients with type 2 diabetes mellitus and established cardiovascular disease, there were 1,819 patients with eGFR below 60 mL/min/1.73 m2.
 The cardiovascular death findings in this subgroup were consistent with the overall findings [see Clinical Studies (14)].
 
-Studies of patients with heart failure [see Clinical Studies (14)] enrolled patients with eGFR equal to or above 20 mL/min/1.73 m2.
-No dose adjustment is recommended for these patients.
+Studies of adult patients with heart failure [see Clinical Studies (14)] enrolled patients with eGFR equal to or above 20 mL/min/1.73 m2.
+No dosage adjustment is recommended for these patients.
 There are insufficient data to support a dosing recommendation in patients with eGFR below 20 mL/min/1.73 m2.
 
-Efficacy and safety studies with JARDIANCE did not enroll patients with an eGFR less than 20 mL/min/1.73 m2.
+Efficacy and safety trials with JARDIANCE did not enroll adult patients with an eGFR less than 20 mL/min/1.73 m2.
 JARDIANCE is contraindicated in patients on dialysis [see Contraindications (4)].
+
+In the trial of pediatric patients aged 10 to 17 years with type 2 diabetes mellitus, patients with an eGFR less than 60 mL/min/1.73 m2 were not enrolled.
 
 ## 8.7 Hepatic Impairment
 
