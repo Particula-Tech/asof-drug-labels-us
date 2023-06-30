@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA209553"
+  ],
+  "inn": "valacyclovir",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-613-30",
+    "62135-613-90",
+    "62135-614-30",
+    "62135-614-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "valacyclovir",
+      "name": "Valacyclovir"
+    }
+  ],
+  "setid": "e59f15d0-c32a-4848-bdd5-fc2542e561c0",
+  "source": "dailymed"
+}
