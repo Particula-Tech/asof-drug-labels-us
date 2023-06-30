@@ -1,10 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-JENTADUETO (linagliptin and metformin HCl) tablets 2.5 mg/500 mg are light yellow, oval, biconvex tablets debossed with "D2/500" on one side and the Boehringer Ingelheim logo on the other side, and are supplied as follows: Bottles of 60 (NDC 0597-0146-60) Bottles of 180 (NDC 0597-0146-18)
+JENTADUETO (linagliptin and metformin HCl) tablets 2.5 mg/500 mg are light yellow, oval, biconvex tablets debossed with "D2/500" on one side and the Boehringer Ingelheim symbol on the other side, and are supplied as follows: Bottles of 60 (NDC 0597-0146-60) Bottles of 180 (NDC 0597-0146-18)
 
-JENTADUETO (linagliptin and metformin HCl) tablets 2.5 mg/850 mg are light orange, oval, biconvex tablets debossed with "D2/850" on one side and the Boehringer Ingelheim logo on the other side, and are supplied as follows: Bottles of 60 (NDC 0597-0147-60) Bottles of 180 (NDC 0597-0147-18)
+JENTADUETO (linagliptin and metformin HCl) tablets 2.5 mg/850 mg are light orange, oval, biconvex tablets debossed with "D2/850" on one side and the Boehringer Ingelheim symbol on the other side, and are supplied as follows: Bottles of 60 (NDC 0597-0147-60) Bottles of 180 (NDC 0597-0147-18)
 
-JENTADUETO (linagliptin and metformin HCl) tablets 2.5 mg/1000 mg are light pink, oval, biconvex tablets debossed with "D2/1000" on one side and the Boehringer Ingelheim logo on the other side, and are supplied as follows: Bottles of 60 (NDC 0597-0148-60) Bottles of 180 (NDC 0597-0148-18)
+JENTADUETO (linagliptin and metformin HCl) tablets 2.5 mg/1,000 mg are light pink, oval, biconvex tablets debossed with "D2/1000" on one side and the Boehringer Ingelheim symbol on the other side, and are supplied as follows: Bottles of 60 (NDC 0597-0148-60) Bottles of 180 (NDC 0597-0148-18)
 
 Storage
 

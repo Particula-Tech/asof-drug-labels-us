@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-JENTADUETO tablets for oral use contain: linagliptin and metformin hydrochloride.
+JENTADUETO tablets for oral use contain: linagliptin and metformin HCl.
 
 Linagliptin
 
@@ -18,11 +18,11 @@ Linagliptin is soluble in methanol (ca.
 10 mg/mL), very slightly soluble in isopropanol (<1 mg/mL), and very slightly soluble in acetone (ca.
 1 mg/mL).
 
-Metformin Hydrochloride
+Metformin HCl
 
-Metformin hydrochloride (N,N-dimethylimidodicarbonimidic diamide hydrochloride) is a biguanide.
-Metformin hydrochloride is a white to off-white crystalline compound with a molecular formula of C4H11N5∙HCl and a molecular weight of 165.63 g/mol.
-Metformin hydrochloride is freely soluble in water and is practically insoluble in acetone, ether, and chloroform.
+Metformin HCl (N,N-dimethylimidodicarbonimidic diamide hydrochloride) is a biguanide.
+Metformin HCl is a white to off-white crystalline compound with a molecular formula of C4H11N5∙HCl and a molecular weight of 165.63 g/mol.
+Metformin HCl is freely soluble in water and is practically insoluble in acetone, ether, and chloroform.
 The pKa of metformin is 12.4.
 The pH of a 1% aqueous solution of metformin hydrochloride is 6.68.
 The structural formula is:
@@ -31,8 +31,8 @@ JENTADUETO
 
 JENTADUETO is available for oral administration as tablets containing:
 
-- 2.5 mg linagliptin and 389.93 mg of metformin equivalent to 500 mg metformin hydrochloride (JENTADUETO 2.5 mg/500 mg)
-- 2.5 mg linagliptin and 662.88 mg of metformin equivalent to 850 mg metformin hydrochloride (JENTADUETO 2.5 mg/850 mg)
-- 2.5 mg linagliptin and 779.86 mg of metformin equivalent to 1000 mg metformin hydrochloride (JENTADUETO 2.5 mg/1000 mg)
+- 2.5 mg linagliptin and 500 mg metformin HCl (equivalent to 389.93 mg of metformin)
+- 2.5 mg linagliptin and 850 mg metformin HCl (equivalent 662.88 mg of metformin)
+- 2.5 mg linagliptin and 1,000 mg metformin HCl (equivalent to 779.86 mg of metformin)
 
-Each film-coated tablet of JENTADUETO contains the following inactive ingredients: arginine, corn starch, copovidone, colloidal silicon dioxide, magnesium stearate, titanium dioxide, propylene glycol, hypromellose, talc, yellow ferric oxide (2.5 mg/500 mg; 2.5 mg/850 mg) and/or red ferric oxide (2.5 mg/850 mg; 2.5 mg/1000 mg).
+Each film-coated tablet of JENTADUETO contains the following inactive ingredients: arginine, colloidal silicon dioxide, copovidone, corn starch, hypromellose, magnesium stearate, propylene glycol, talc, titanium dioxide, red ferric oxide (2.5 mg/850 mg; 2.5 mg/1,000 mg) and/or yellow ferric oxide (2.5 mg/500 mg; 2.5 mg/850 mg).

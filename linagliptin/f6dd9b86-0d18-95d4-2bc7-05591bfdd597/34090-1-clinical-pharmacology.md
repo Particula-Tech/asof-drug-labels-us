@@ -39,7 +39,7 @@ At the 100 mg dose, peak linagliptin plasma concentrations were approximately 38
 
 JENTADUETO
 
-Administration of linagliptin 2.5 mg/metformin hydrochloride 1000 mg fixed-dose combination with food resulted in no change in overall exposure of linagliptin.
+Administration of linagliptin 2.5 mg/metformin HCl 1,000 mg fixed-dose combination with food resulted in no change in overall exposure of linagliptin.
 There was no change in metformin AUC; however, mean peak serum concentration of metformin was decreased by 18% when administered with food.
 A delayed time-to-peak serum concentrations by 2 hours was observed for metformin under fed conditions.
 These changes are not likely to be clinically significant.
@@ -54,25 +54,25 @@ However, the prolonged elimination does not contribute to the accumulation of th
 The effective half-life for accumulation of linagliptin, as determined from oral administration of multiple doses of linagliptin 5 mg, is approximately 12 hours.
 After once-daily dosing, steady-state plasma concentrations of linagliptin 5 mg are reached by the third dose, and Cmax and AUC increased by a factor of 1.3 at steady-state compared with the first dose.
 Plasma AUC of linagliptin increased in a less than dose-proportional manner in the dose range of 1 to 10 mg.
-The pharmacokinetics of linagliptin is similar in healthy subjects and in patients with type 2 diabetes.
+The pharmacokinetics of linagliptin is similar in healthy subjects and in patients with type 2 diabetes mellitus.
 
 Metformin HCl
 
-The absolute bioavailability of a metformin hydrochloride 500 mg tablet given under fasting conditions is approximately 50% to 60%.
-Studies using single oral doses of metformin tablets 500 mg to 1500 mg, and 850 mg to 2550 mg, indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
+The absolute bioavailability of a metformin HCl 500 mg tablet given under fasting conditions is approximately 50% to 60%.
+Studies using single oral doses of metformin tablets 500 mg to 1,500 mg, and 850 mg to 2,550 mg, indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
 
 Distribution
 
 Linagliptin
 
-The mean apparent volume of distribution at steady-state following a single intravenous dose of linagliptin 5 mg to healthy subjects is approximately 1110 L, indicating that linagliptin extensively distributes to the tissues.
+The mean apparent volume of distribution at steady-state following a single intravenous dose of linagliptin 5 mg to healthy subjects is approximately 1,110 L, indicating that linagliptin extensively distributes to the tissues.
 Plasma protein binding of linagliptin is concentration-dependent decreasing from about 99% at 1 nmol/L to 75% to 89% at ≥30 nmol/L, reflecting saturation of binding to DPP-4 with increasing concentration of linagliptin.
 At high concentrations, where DPP-4 is fully saturated, 70% to 80% of linagliptin remains bound to plasma proteins and 20% to 30% is unbound in plasma.
 Plasma binding is not altered in patients with renal or hepatic impairment.
 
 Metformin HCl
 
-The apparent volume of distribution (V/F) of metformin following single oral doses of immediate-release metformin hydrochloride tablets 850 mg averaged 654±358 L. Metformin is negligibly bound to plasma proteins.
+The apparent volume of distribution (V/F) of metformin following single oral doses of immediate-release metformin HCl tablets 850 mg averaged 654±358 L. Metformin is negligibly bound to plasma proteins.
 Metformin partitions into erythrocytes, most likely as a function of time.
 
 Elimination
@@ -141,7 +141,7 @@ In controlled clinical studies of metformin HCl in patients with type 2 diabetes
 
 Drug Interactions
 
-Pharmacokinetic drug interaction studies with JENTADUETO have not been performed; however, such studies have been conducted with the individual components of JENTADUETO (linagliptin and metformin hydrochloride).
+Pharmacokinetic drug interaction studies with JENTADUETO have not been performed; however, such studies have been conducted with the individual components of JENTADUETO (linagliptin and metformin HCl).
 
 Linagliptin
 
@@ -156,6 +156,8 @@ In vivo Assessment of Drug Interactions
 
 Strong inducers of CYP3A4 or P-gp (e.g., rifampin) decrease exposure to linagliptin to subtherapeutic and likely ineffective concentrations [see Drug Interactions (7)].
 In vivo studies indicated evidence of a low propensity for causing drug interactions with substrates of CYP3A4, CYP2C9, CYP2C8, P-gp, and organic cationic transporter (OCT).
+
+Table 3 describes the effect of coadministered drugs on systemic exposure of linagliptin.
 
 Table 3 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 
@@ -174,6 +176,8 @@ Table 3 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 | QD=once daily |  |  |  |  |
 | BID=twice daily |  |  |  |  |
 | TID=three times daily |  |  |  |  |
+
+Table 4 describes the effect of linagliptin on systemic exposure of coadministered drugs.
 
 Table 4 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 
@@ -203,9 +207,11 @@ Table 4 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 | QD=once daily |  |  |  |  |  |
 | TID=three times daily |  |  |  |  |  |
 
-Metformin hydrochloride
+Metformin HCl
 
-Table 5 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
+Table 5 describes the effect of coadministered drugs on plasma metformin systemic exposure.
+
+Table 5 Effect of Coadministered Drugs on Plasma Metformin Systemic Exposure
 
 |  |  |  |  | AUC† | Cmax |
 | --- | --- | --- | --- | --- | --- |
@@ -223,6 +229,8 @@ Table 5 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | †AUC=AUC(INF) |  |  |  |  |  |
 | ‡Ratio of arithmetic means |  |  |  |  |  |
 | **At steady-state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC(0-12 hours) |  |  |  |  |  |
+
+Table 6 describes the effect of metformin on coadministered drug systemic exposure.
 
 Table 6 Effect of Metformin on Coadministered Drug Systemic Exposure
 

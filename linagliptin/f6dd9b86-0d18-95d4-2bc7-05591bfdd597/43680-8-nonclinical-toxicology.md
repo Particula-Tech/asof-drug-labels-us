@@ -19,8 +19,8 @@ In fertility studies in rats, linagliptin had no adverse effects on early embryo
 
 Metformin HCl
 
-Long-term carcinogenicity studies have been performed in rats (dosing duration of 104 weeks) and mice (dosing duration of 91 weeks) at doses up to and including 900 mg/kg/day and 1500 mg/kg/day, respectively.
-These doses are both approximately 4 times the maximum recommended human daily dose of 2000 mg/kg/day based on body surface area comparisons.
+Long-term carcinogenicity studies have been performed in rats (dosing duration of 104 weeks) and mice (dosing duration of 91 weeks) at doses up to and including 900 mg/kg/day and 1,500 mg/kg/day, respectively.
+These doses are both approximately 4 times the maximum recommended human daily dose of 2,000 mg/kg/day based on body surface area comparisons.
 No evidence of carcinogenicity with metformin was found in either male or female mice.
 Similarly, there was no tumorigenic potential observed with metformin in male rats.
 There was, however, an increased incidence of benign stromal uterine polyps in female rats treated with 900 mg/kg/day.

@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-In the event of an overdose with JENTADUETO, contact the Poison Control Center.
+In the event of an overdose with JENTADUETO, consider contacting the Poison Help line (1-800-222-1222) or medical toxicologist for additional overdosage management recommendations.
 
 Overdose of metformin HCl has occurred, including ingestion of amounts greater than 50 grams.
 Lactic acidosis has been reported in approximately 32% of metformin overdose cases [see Warnings and Precautions (5.1)].

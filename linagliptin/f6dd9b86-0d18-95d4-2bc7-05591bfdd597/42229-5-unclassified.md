@@ -8,6 +8,6 @@ Boehringer Ingelheim Pharmaceuticals, Inc. either owns or uses the Tradjenta®, 
 
 The other brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc.
 
-Copyright © 2022 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2023 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-COL9414CD182022 SPL9435C
+COL9414DF212023 SPL9435E

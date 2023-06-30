@@ -15,9 +15,9 @@ Inform patients that acute pancreatitis has been reported during use of linaglip
 Inform patients that persistent severe abdominal pain, sometimes radiating to the back, which may or may not be accompanied by vomiting, is the hallmark symptom of acute pancreatitis.
 Instruct patients to discontinue JENTADUETO promptly and contact their healthcare provider if persistent severe abdominal pain occurs [see Warnings and Precautions (5.2)].
 
-Hypoglycemia
+Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
-Inform patients that the risk of hypoglycemia is increased when JENTADUETO is used in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin, and that a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia [see Warnings and Precautions (5.3)].
+Inform patients that the risk of hypoglycemia is increased when JENTADUETO is used in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin [see Warnings and Precautions (5.3)].
 
 Hypersensitivity Reactions
 
@@ -26,7 +26,7 @@ If symptoms of allergic reactions (such as rash, skin flaking or peeling, urtica
 
 Vitamin B12 Deficiency
 
-Inform patients about importance of regular hematological parameters while receiving JENTADUETO [see Warnings and Precautions (5.5)].
+Inform patients about the importance of regular hematological parameters while receiving JENTADUETO [see Warnings and Precautions (5.5)].
 
 Severe and Disabling Arthralgia
 

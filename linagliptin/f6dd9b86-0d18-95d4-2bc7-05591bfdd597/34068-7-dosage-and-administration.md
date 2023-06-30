@@ -1,16 +1,16 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosing
+## 2.1 Recommended Dosage and Administration
 
-The dosage of JENTADUETO should be individualized on the basis of both effectiveness and tolerability, while not exceeding the maximum recommended dose of 2.5 mg linagliptin/1000 mg metformin hydrochloride (HCl) twice daily.
+The dosage of JENTADUETO should be individualized on the basis of both effectiveness and tolerability, while not exceeding the maximum recommended dosage of 2.5 mg linagliptin/1,000 mg metformin hydrochloride (HCl), taken orally twice daily.
 JENTADUETO should be given twice daily with meals.
-Dose escalation should be gradual to reduce the gastrointestinal (GI) side effects associated with metformin use.
+Dosage escalation should be gradual to reduce the gastrointestinal (GI) side effects associated with metformin use.
 
-Recommended starting dose:
+Recommended starting dosage:
 
 - In patients currently not treated with metformin HCl, initiate treatment with 2.5 mg linagliptin/500 mg metformin HCl twice daily.
-- In patients already treated with metformin HCl, start with 2.5 mg linagliptin and the current dose of metformin HCl taken at each of the two daily meals (e.g., a patient on metformin HCl 1000 mg twice daily would be started on 2.5 mg linagliptin/1000 mg metformin HCl twice daily with meals).
-- Patients already treated with linagliptin and metformin HCl individual components may be switched to JENTADUETO containing the same doses of each component.
+- In patients already treated with metformin HCl, start with 2.5 mg linagliptin and the current dosage of metformin HCl taken at each of the two daily meals (e.g., a patient on metformin HCl 1,000 mg twice daily would be started on 2.5 mg linagliptin/1,000 mg metformin HCl twice daily with meals).
+- Patients already treated with linagliptin and metformin HCl individual components may be switched to JENTADUETO containing the same dosages of each component.
 
 ## 2.2 Recommended Dosing in Renal Impairment
 
