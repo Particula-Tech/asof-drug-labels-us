@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA019962"
+  ],
+  "inn": "metoprolol",
+  "labeler": "Melinta Therapeutics, LLC",
+  "package_ndcs": [
+    "70842-110-02",
+    "70842-111-02",
+    "70842-112-02",
+    "70842-113-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "metoprolol succinate",
+      "name": "TOPROL XL"
+    }
+  ],
+  "setid": "496ddfaa-7c9c-4888-b747-a210249b367a",
+  "source": "dailymed"
+}
