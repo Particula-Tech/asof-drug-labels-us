@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## Supraventricular Tachycardia
+Supraventricular Tachycardia
 
 In two multicenter, randomized, double-blind, controlled comparisons of BREVIBLOC injection with placebo and propranolol, maintenance doses of 50 to 300 mcg/kg/min of BREVIBLOC injection were found to be more effective than placebo and about as effective as propranolol, 3‑6 mg given by bolus injections, in the treatment of supraventricular tachycardia, principally atrial fibrillation and atrial flutter.
 The majority of these patients developed their arrhythmias postoperatively.
