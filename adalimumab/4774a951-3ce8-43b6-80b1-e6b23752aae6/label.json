@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "BLA761059"
+  ],
+  "inn": "adalimumab",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-183-01",
+    "78206-183-99",
+    "78206-184-01",
+    "78206-184-99",
+    "78206-185-01",
+    "78206-185-99",
+    "78206-186-01",
+    "78206-186-99",
+    "78206-187-01",
+    "78206-187-58",
+    "78206-187-59",
+    "78206-187-99"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "adalimumab-bwwd",
+      "name": "Hadlima"
+    }
+  ],
+  "setid": "4774a951-3ce8-43b6-80b1-e6b23752aae6",
+  "source": "dailymed"
+}
