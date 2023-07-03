@@ -4,7 +4,7 @@
 
 Esmolol Hydrochloride Injection
 
-NDC 10019-120-01, 100 mg / 10 mL (10 mg/mL) Ready-to-use Vials, Package of 25
+- •NDC 10019-120-01, 100 mg / 10 mL (10 mg/mL) Ready-to-use Vials, Package of 25
 
 ## 16.2 Storage
 

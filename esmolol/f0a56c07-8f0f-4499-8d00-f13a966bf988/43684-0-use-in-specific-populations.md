@@ -6,12 +6,12 @@ Esmolol hydrochloride injection has been shown to produce increased fetal resorp
 There are no adequate and well-controlled studies in pregnant women.
 Esmolol hydrochloride injection should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Teratogenicity studies in rats at intravenous dosages of esmolol hydrochloride injection up to 3000 mcg/kg/min (10 times the maximum human maintenance dosage) for 30 minutes daily produced no evidence of maternal toxicity, embryotoxicity or teratogenicity, while a dosage of 10,000 mcg/kg/min produced maternal toxicity and lethality.
+Teratogenicity studies in rats at intravenous dosages of esmolol hydrochloride up to 3000 mcg/kg/min (10 times the maximum human maintenance dosage) for 30 minutes daily produced no evidence of maternal toxicity, embryotoxicity or teratogenicity, while a dosage of 10,000 mcg/kg/min produced maternal toxicity and lethality.
 In rabbits, intravenous dosages up to 1000 mcg/kg/min for 30 minutes daily produced no evidence of maternal toxicity, embryotoxicity or teratogenicity, while 2500 mcg/kg/min produced minimal maternal toxicity and increased fetal resorptions.
 
 ## 8.2 Labor and Delivery
 
-Although there are no adequate and well-controlled studies in pregnant women, use of Esmolol hydrochloride injection in the last trimester of pregnancy or during labor or delivery has been reported to cause fetal bradycardia, which continued after termination of drug infusion.
+Although there are no adequate and well-controlled studies in pregnant women, use of esmolol in the last trimester of pregnancy or during labor or delivery has been reported to cause fetal bradycardia, which continued after termination of drug infusion.
 Esmolol hydrochloride injection should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## 8.3 Nursing Mothers
@@ -35,5 +35,5 @@ No special precautions are necessary in patients with hepatic impairment because
 
 ## 8.7 Renal Impairment
 
-No dosage adjustment is required for Esmolol hydrochloride injection in patients with renal impairment receiving a maintenance infusion of esmolol hydrochloride injection 150 mcg/kg for 4 hours.
+No dosage adjustment is required for esmolol in patients with renal impairment receiving a maintenance infusion of esmolol hydrochloride injection 150 mcg/kg for 4 hours.
 There is no information on the tolerability of maintenance infusions of esmolol hydrochloride injection using rates in excess of 150 mcg/kg or maintained longer than 4 hours [see Clinical Pharmacology (12)].

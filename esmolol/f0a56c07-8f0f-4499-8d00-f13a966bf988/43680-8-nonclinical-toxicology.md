@@ -1,3 +1,3 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-Because of its short term usage no carcinogenicity, mutagenicity, or reproductive performance studies have been conducted with esmolol hydrochloride injection.
+Because of its short-term usage no carcinogenicity, mutagenicity, or reproductive performance studies have been conducted with esmolol.

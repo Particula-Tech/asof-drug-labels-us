@@ -56,7 +56,8 @@ When transitioning from esmolol hydrochloride injection to alternative drugs, th
 ## 2.4 Directions for Use
 
 This dosage form is prediluted to provide a ready-to-use, iso-osmotic solution of 10 mg/mL esmolol hydrochloride in sodium chloride recommended for esmolol hydrochloride intravenous administration.
-The ready-to-use vial may be used to administer a loading dosage by hand-held syringe while the maintenance infusion is being prepared.When using a 10 mg/mL concentration, a loading dose of 0.5 mg/kg infused over 1 minute, for a 70 kg patient is 3.5 mL.
+The ready-to-use vial may be used to administer a loading dosage by hand-held syringe while the maintenance infusion is being prepared.
+When using a 10 mg/mL concentration, a loading dose of 0.5 mg/kg infused over 1 minute, for a 70 kg patient is 3.5 mL.
 
 Esmolol hydrochloride injection is not compatible with Sodium Bicarbonate (5%) solution (limited stability) or furosemide (precipitation).
 

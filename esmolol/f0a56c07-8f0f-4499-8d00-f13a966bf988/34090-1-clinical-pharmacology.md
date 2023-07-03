@@ -52,4 +52,4 @@ The peak concentrations of the acid metabolite are doubled in ESRD.
 
 Methanol blood levels, monitored in subjects receiving esmolol hydrochloride injection for up to 6 hours at 300 mcg/kg/min and 24 hours at 150 mcg/kg/min, approximated endogenous levels and were less than 2% of levels usually associated with methanol toxicity.
 
-Esmolol hydrochloride has been shown to be 55% bound to human plasma protein, while the acid metabolite is only 10% bound.
+Esmolol hydrochloride injection has been shown to be 55% bound to human plasma protein, while the acid metabolite is only 10% bound.
