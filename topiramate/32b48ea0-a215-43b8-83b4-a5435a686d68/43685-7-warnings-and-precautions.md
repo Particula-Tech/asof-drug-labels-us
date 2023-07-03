@@ -142,7 +142,7 @@ Growth (height and weight) of children receiving prolonged topiramate therapy sh
 
 ## 5.11 Serious Skin Reactions
 
-Serious skin reactions (Stevens-Johnson syndrome [SJS] and Toxic Epidermal Necrolysis [TEN]) have been reported in patients receiving topiramate.
+Serious skin reactions (Stevens-Johnson Syndrome [SJS] and Toxic Epidermal Necrolysis [TEN]) have been reported in patients receiving topiramate.
 Topiramate should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
 Inform patients about the signs of serious skin reactions.
