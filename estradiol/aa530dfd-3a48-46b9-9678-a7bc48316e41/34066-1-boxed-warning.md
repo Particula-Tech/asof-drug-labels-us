@@ -50,13 +50,14 @@ Estrogens with or without progestins should be prescribed at the lowest doses an
 
 What is the most important information I should know about ESTRING (an estrogen hormone)?
 
-- Using estrogen-alone may increase your chance of getting cancer of the uterus (womb).Report any unusual vaginal bleeding right away while you are using ESTRING.
+- •Using estrogen-alone may increase your chance of getting cancer of the uterus (womb).
+- Report any unusual vaginal bleeding right away while you are using ESTRING.
   Vaginal bleeding after menopause may be a warning sign of cancer of the uterine (womb).
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-- Do not use estrogen-alone to prevent heart disease, heart attacks, strokes, or dementia (decline in brain function).
-- Using estrogen-alone may increase your chances of getting strokes or blood clots.
-- Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older.
-- Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia.
-- Using estrogens with progestins may increase your chance of getting heart attacks, strokes, breast cancer, or blood clots.
-- Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older.
-- You and your healthcare provider should talk regularly about whether you still need treatment with ESTRING.
+- •Do not use estrogen-alone to prevent heart disease, heart attacks, strokes, or dementia (decline in brain function).
+- •Using estrogen-alone may increase your chances of getting strokes or blood clots.
+- •Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older.
+- •Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia.
+- •Using estrogens with progestins may increase your chance of getting heart attacks, strokes, breast cancer, or blood clots.
+- •Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older.
+- •You and your healthcare provider should talk regularly about whether you still need treatment with ESTRING.

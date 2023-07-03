@@ -13,10 +13,12 @@ ESTRING INSERTION
 ESTRING can be inserted and removed by you or your doctor or healthcare provider.
 To insert ESTRING yourself, choose the position that is most comfortable for you: standing with one leg up, squatting, or lying down.
 
-1. After washing and drying your hands, remove ESTRING from its pouch using the tear-off notch on the side.
+1. 1.After washing and drying your hands, remove ESTRING from its pouch using the tear-off notch on the side.
    (Since the ring becomes slippery when wet, be sure your hands are dry before handling it.)
-2. Hold ESTRING between your thumb and index finger and press the opposite sides of the ring together as shown.
-3. Gently push the compressed ring into your vagina as far as you can.
+2. 2.Hold ESTRING between your thumb and index finger and press the opposite sides of the ring together as shown.
+3. 
+4. 3.Gently push the compressed ring into your vagina as far as you can.
+5. 
 
 ESTRING PLACEMENT
 
@@ -62,10 +64,10 @@ ESTRING should be removed at that time and replaced with a new ESTRING, if your 
 
 To remove ESTRING:
 
-1. Wash and dry your hands thoroughly.
-2. Assume a comfortable position, either standing with one leg up, squatting, or lying down.
-3. Loop your finger through the ring and gently pull it out.
-4. Discard the used ring in a waste receptacle.
+1. 1.Wash and dry your hands thoroughly.
+2. 2.Assume a comfortable position, either standing with one leg up, squatting, or lying down.
+3. 3.Loop your finger through the ring and gently pull it out.
+4. 4.Discard the used ring in a waste receptacle.
    (Do not flush ESTRING.)
 
 If you have any additional questions about removing ESTRING, contact your doctor or healthcare provider.

@@ -24,27 +24,35 @@ Who should not use ESTRING?
 
 Do not start using ESTRING if you:
 
-- have unusual vaginal bleedingVaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
+- •have unusual vaginal bleeding
+- Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-- currently have or have had certain cancersEstrogens may increase the chance of getting certain types of cancers, including cancer of the breast or uterus.
+- •currently have or have had certain cancers
+- Estrogens may increase the chance of getting certain types of cancers, including cancer of the breast or uterus.
   If you have or had cancer, talk with your healthcare provider about whether you should use ESTRING.
-- had a stroke or heart attack
-- currently have or have had blood clots
-- currently have or have had liver problems
-- have been diagnosed with a bleeding disorder
-- are allergic to ESTRING or any of its ingredients See the list of ingredients in ESTRING at the end of this leaflet.
-- think you may be pregnantESTRING is not for pregnant women.
+- •had a stroke or heart attack
+- •currently have or have had blood clots
+- •currently have or have had liver problems
+- •have been diagnosed with a bleeding disorder
+- •are allergic to ESTRING or any of its ingredients
+- See the list of ingredients in ESTRING at the end of this leaflet.
+- •think you may be pregnant
+- ESTRING is not for pregnant women.
   If you think you may be pregnant, you should have a pregnancy test and know the results.
   Do not use ESTRING if the test is positive and talk to your healthcare provider.
 
 What should I tell my healthcare provider before I use ESTRING?
 Before you use ESTRING, tell your healthcare provider if you:
 
-- have any unusual vaginal bleedingVaginal bleeding after menopause may be a warning sigh of cancer of the uterus (womb).
+- •have any unusual vaginal bleeding
+- Vaginal bleeding after menopause may be a warning sigh of cancer of the uterus (womb).
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-- have any other medical conditionsYour healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), or problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
-- are going to have surgery or will be on bed restYour healthcare provider will let you know if you need to stop using ESTRING.
-- are breast feedingThe hormone in ESTRING can pass into your breast milk.
+- •have any other medical conditions
+- Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), or problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
+- •are going to have surgery or will be on bed rest
+- Your healthcare provider will let you know if you need to stop using ESTRING.
+- •are breast feeding
+- The hormone in ESTRING can pass into your breast milk.
 
 Tell your healthcare provider about all the medicines you take including prescription and nonprescription medicines, vitamins, and herbal supplements.
 Some medicines may affect how ESTRING works.
@@ -55,15 +63,15 @@ What are the possible side effects of ESTRING?
 If you experience any of the following side-effects, immediately remove ESTRING if possible and contact your healthcare provider.
 If you experience difficulty or pain when trying to remove the ring please do not continue and contact your healthcare provider:
 
-- Cases of toxic shock syndrome (TSS) have been reported in women using vaginal rings.
+- •Cases of toxic shock syndrome (TSS) have been reported in women using vaginal rings.
   Toxic shock syndrome is a rare but serious illness caused by a bacterial infection.
   Symptoms of TSS include fever, nausea, vomiting, diarrhea, muscle pain, dizziness, faintness, or a sunburn-like rash on face and body.
-- Cases of the vaginal ring becoming attached to the vaginal wall, making ring removal difficult, have occurred.
+- •Cases of the vaginal ring becoming attached to the vaginal wall, making ring removal difficult, have occurred.
   Some women have needed surgery to remove vaginal rings
-- Cases of erosion (wearing away) and ulceration (holes) of the vaginal lining have also occurred.
+- •Cases of erosion (wearing away) and ulceration (holes) of the vaginal lining have also occurred.
   Symptoms of vaginal erosion and ulceration can include vaginal pain or soreness, vaginal bleeding, and redness, swelling, or scrapes in the vagina.
-- Cases of bowel obstruction have been reported.
-- Severe allergic reactions have been reported including skin rash, giant hives, swelling of the eyelids, face, lips, tongue or throat.
+- •Cases of bowel obstruction have been reported.
+- •Severe allergic reactions have been reported including skin rash, giant hives, swelling of the eyelids, face, lips, tongue or throat.
 
 The most frequently reported side effect with ESTRING use is increased vaginal secretions.
 Many of these vaginal secretions are like those that occur normally prior to menopause and indicate that ESTRING is working.
@@ -76,38 +84,38 @@ Side effects are grouped by how serious they are and how often they happen when 
 
 Serious, but less common side effects include:
 
-- heart attack
-- stroke
-- blood clots
-- dementia
-- breast cancer
-- cancer of the lining of the uterus (womb)
-- cancer of the ovary
-- high blood pressure
-- high blood sugar
-- gallbladder disease
-- liver problems
-- changes in your thyroid hormone levels
-- enlargement of benign tumors of the uterus ("fibroids")
+- •heart attack
+- •stroke
+- •blood clots
+- •dementia
+- •breast cancer
+- •cancer of the lining of the uterus (womb)
+- •cancer of the ovary
+- •high blood pressure
+- •high blood sugar
+- •gallbladder disease
+- •liver problems
+- •changes in your thyroid hormone levels
+- •enlargement of benign tumors of the uterus ("fibroids")
 
 Call your healthcare provider right away if you get any of the following warning signs or any other unusual symptoms that concern you:
 
-- new breast lumps
-- unusual vaginal bleeding
-- changes in vision or speech
-- sudden new severe headaches
-- severe pains in your chest or legs with or without shortness of breath, weakness and fatigue
-- memory loss or confusion
+- •new breast lumps
+- •unusual vaginal bleeding
+- •changes in vision or speech
+- •sudden new severe headaches
+- •severe pains in your chest or legs with or without shortness of breath, weakness and fatigue
+- •memory loss or confusion
 
 Less serious, but common side effects include:
 
-- headache
-- breast pain
-- irregular vaginal bleeding or spotting
-- stomach or abdominal cramps, bloating
-- nausea and vomiting
-- fluid retention
-- vaginal yeast infection
+- •headache
+- •breast pain
+- •irregular vaginal bleeding or spotting
+- •stomach or abdominal cramps, bloating
+- •nausea and vomiting
+- •fluid retention
+- •vaginal yeast infection
 
 These are not all the possible side effects of ESTRING.
 For more information, ask your healthcare provider or pharmacist for advice about side effects.
@@ -119,14 +127,14 @@ You may report side effects to Pfizer at 1-800-438-1985.
 
 What can I do to lower my chances of getting a serious side effect with ESTRING?
 
-- Follow carefully the instructions for use.
-- Talk with your healthcare provider regularly about whether you should continue using ESTRING.
-- See your healthcare provider right away if you get vaginal bleeding while using ESTRING.
-- If you have fever, nausea, vomiting, diarrhea, muscle pain, dizziness, faintness, or a sunburn-like rash on face and body, remove ESTRING and contact your healthcare provider.
-- Contact your healthcare provider if you have difficulty removing the vaginal ring.
-- Have a breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
+- •Follow carefully the instructions for use.
+- •Talk with your healthcare provider regularly about whether you should continue using ESTRING.
+- •See your healthcare provider right away if you get vaginal bleeding while using ESTRING.
+- •If you have fever, nausea, vomiting, diarrhea, muscle pain, dizziness, faintness, or a sunburn-like rash on face and body, remove ESTRING and contact your healthcare provider.
+- •Contact your healthcare provider if you have difficulty removing the vaginal ring.
+- •Have a breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
   If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast examinations more often.
-- If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
+- •If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
   Ask your healthcare provider for ways to lower your chances for getting heart disease.
 
 General information about safe and effective use of ESTRING
