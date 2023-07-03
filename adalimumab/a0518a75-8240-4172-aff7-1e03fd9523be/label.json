@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "BLA761154"
+  ],
+  "inn": "adalimumab",
+  "labeler": "Mylan Specialty L.P.",
+  "package_ndcs": [
+    "49502-380-02",
+    "49502-381-02",
+    "49502-382-02",
+    "49502-480-02",
+    "49502-481-02",
+    "49502-482-02",
+    "49502-483-02",
+    "49502-484-02",
+    "49502-485-02"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "adalimumab",
+      "name": "HULIO"
+    }
+  ],
+  "setid": "a0518a75-8240-4172-aff7-1e03fd9523be",
+  "source": "dailymed"
+}
