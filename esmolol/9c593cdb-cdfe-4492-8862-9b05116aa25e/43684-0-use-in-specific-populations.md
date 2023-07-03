@@ -31,7 +31,7 @@ In general, dose selection for an elderly patient should usually start at the lo
 
 ## 8.6 Hepatic Impairment
 
-No special precautions are necessary in patients with hepatic impairment because BREVIBLOC injection is metabolized by red-blood cell esterases [see (Clinical Pharmacology (12)].
+No special precautions are necessary in patients with hepatic impairment because BREVIBLOC injection is metabolized by red-blood cell esterases [see Clinical Pharmacology (12)].
 
 ## 8.7 Renal Impairment
 

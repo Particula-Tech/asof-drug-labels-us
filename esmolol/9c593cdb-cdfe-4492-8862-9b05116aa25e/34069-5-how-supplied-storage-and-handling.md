@@ -46,8 +46,7 @@ Do not use unless the solution is clear (colorless to light yellow) and the seal
 Preparation for intravenous administration:
 
 - •Use aseptic technique.
-- •Suspend premixed bag from eyelet support
+- •Suspend premixed bag from eyelet support.
 - •Remove plastic protector from delivery port at bottom of bag.
 - •Attach administration set.
-
-Refer to complete directions accompanying set.
+- •Refer to complete directions accompanying set.

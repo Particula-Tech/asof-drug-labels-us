@@ -16,7 +16,7 @@ Esmolol hydrochloride is:
 All BREVIBLOC injection presentations are clear, colorless to light yellow, sterile, nonpyrogenic, iso‑osmotic solutions of esmolol hydrochloride in sodium chloride.
 The formulations for BREVIBLOC PREMIXED Injection, BREVIBLOC PREMIXED Double Strength Injection, and BREVIBLOC Injection are described in the table below:
 
-Table 4 BREVIBLOC Injection Dosage Forms
+Table 4 BREVIBLOC Injection Formulations
 
 |  | BREVIBLOC PREMIXED Injection(Esmolol Hydrochloride) | BREVIBLOC PREMIXED Double Strength Injection (Esmolol Hydrochloride) | BREVIBLOC Injection (Esmolol Hydrochloride) |
 | --- | --- | --- | --- |
