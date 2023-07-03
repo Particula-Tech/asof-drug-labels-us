@@ -6,12 +6,12 @@ Administration Information
 
 Advise patients to take the tablet whole.
 Do not cut, chew, or crush the tablet.
-Advise patients to take Oxtellar XR ® on an empty stomach.
-This means they should take Oxtellar XR ® at least one hour before food or at least two hours after food [see Dosage and Administration (2.1) and Clinical Pharmacology (12.3)].
+Advise patients to take Oxtellar XR ®on an empty stomach.
+This means they should take Oxtellar XR ®at least one hour before food or at least two hours after food [see Dosage and Administration (2.1)and Clinical Pharmacology (12.3)].
 
 Hyponatremia
 
-Advise patients that Oxtellar XR ® may reduce serum sodium concentrations especially if they are taking other medications that can lower sodium.
+Advise patients that Oxtellar XR ®may reduce serum sodium concentrations especially if they are taking other medications that can lower sodium.
 Advise patients to report symptoms of low sodium like nausea, tiredness, lack of energy, confusion, and more frequent or more severe seizures [see Warnings and Precautions (5.1)].
 
 Anaphylactic Reactions and Angioedema
@@ -36,7 +36,7 @@ Advise them to immediately report behaviors of concern to healthcare providers [
 
 DRESS/Multi-Organ Hypersensitivity
 
-Instruct patients that a fever associated with signs of other organ system involvement (e.g., rash, lymphadenopathy, hepatic dysfunction, etc.) occurring during treatment with Oxtellar XR ® may be drug-related, and advise them to consult their physician immediately [see Warnings and Precautions (5.7)].
+Instruct patients that a fever associated with signs of other organ system involvement (e.g., rash, lymphadenopathy, hepatic dysfunction, etc.) occurring during treatment with Oxtellar XR ®may be drug-related, and advise them to consult their physician immediately [see Warnings and Precautions (5.7)].
 
 Hematologic Reactions
 
@@ -45,7 +45,7 @@ Instruct patients to immediately consult with their physician if they experience
 
 Drug Interactions
 
-Warn female patients of childbearing age that the concurrent use of Oxtellar XR ® with hormonal contraceptives may render this method of contraception less effective [see Drug Interactions (7.3) and Use in Specific Populations (8.1)].
+Warn female patients of childbearing age that the concurrent use of Oxtellar XR ®with hormonal contraceptives may render this method of contraception less effective [see Drug Interactions (7.3)and Use in Specific Populations (8.1)].
 Additional non-hormonal forms of contraception are recommended when using Oxtellar XR ®.
 
 Pregnancy Registry

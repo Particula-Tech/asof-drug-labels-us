@@ -2,10 +2,10 @@
 
 ## 2.1 Important Administration Instructions
 
-Administer Oxtellar XR ® as a single daily dose taken on an empty stomach (at least 1 hour before or at least 2 hours after meals) [see Clinical Pharmacology (12.3)].
-If Oxtellar XR ® is taken with food, adverse reactions are more likely to occur because of increased peak levels [see Clinical Pharmacology (12.3)].
+Administer Oxtellar XR ®as a single daily dose taken on an empty stomach (at least 1 hour before or at least 2 hours after meals) [see Clinical Pharmacology (12.3)].
+If Oxtellar XR ®is taken with food, adverse reactions are more likely to occur because of increased peak levels [see Clinical Pharmacology (12.3)].
 
-Swallow Oxtellar XR ® tablets whole.
+Swallow Oxtellar XR ®tablets whole.
 Do not cut, crush, or chew the tablets.
 For ease of swallowing in pediatric patients or patients with difficulty swallowing, achieve daily dosages with multiples of appropriate lower strength tablets (e.g., 150 mg tablets).
 
@@ -20,8 +20,8 @@ Subsequent dosage increases can be made at weekly intervals in 600 mg/day increm
 Subsequent dosage increases can be made at weekly intervals in 600 mg/day increments to achieve the recommended daily dosage.
 
 The recommended daily dosage of Oxtellar XR is 1200 mg to 2400 mg/day, given once daily.
-The dosage of 2400 mg/day showed slightly greater efficacy than 1200 mg/day, but was associated with an increase in adverse reactions The recommended daily dosage of Oxtellar XR ® is 1200 mg to 2400 mg/day, given once daily.
-The dosage of 2400 mg/day showed slightly greater efficacy than 1200 mg/day, but was associated with an increase in adverse reactions [see Adverse Reactions (6.1) and Clinical Studies (14.1)].
+The dosage of 2400 mg/day showed slightly greater efficacy than 1200 mg/day, but was associated with an increase in adverse reactions The recommended daily dosage of Oxtellar XR ®is 1200 mg to 2400 mg/day, given once daily.
+The dosage of 2400 mg/day showed slightly greater efficacy than 1200 mg/day, but was associated with an increase in adverse reactions [see Adverse Reactions (6.1)and Clinical Studies (14.1)].
 
 Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UGT inducers, which include certain antiepileptic drugs (AEDs) [see Drug Interactions (7.1, 7.2)].
 
@@ -45,7 +45,7 @@ Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme in
 
 ## 2.3 Dosage Modifications in Adult Patients with Renal Impairment
 
-In adult patients with severe renal impairment (creatinine clearance less than 30 mL/minute), initiate Oxtellar XR ® at one-half the usual starting dosage (300 mg/day).
+In adult patients with severe renal impairment (creatinine clearance less than 30 mL/minute), initiate Oxtellar XR ®at one-half the usual starting dosage (300 mg/day).
 Subsequent dosage increases can be made at weekly intervals in increments of 300 mg to 450 mg/day to achieve the desired clinical response [see Use in Specific Populations (8.6)].
 
 ## 2.4 Dosage Modifications in Geriatric Patients
@@ -55,15 +55,15 @@ Subsequent dosage increases can be made at weekly intervals in increments of 300
 
 ## 2.5 Dosage Modification with Concomitant Use of Strong CYP3A4 Enzyme Inducers or UGT Enzyme Inducers
 
-Strong CYP3A4 inducers, including enzyme-inducing antiepileptic drugs such as carbamazepine, phenobarbital, and phenytoin, and UGT inducers (e.g., rifampin) decrease exposure to 10-monohydroxy derivative (MHD), the active metabolite [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+Strong CYP3A4 inducers, including enzyme-inducing antiepileptic drugs such as carbamazepine, phenobarbital, and phenytoin, and UGT inducers (e.g., rifampin) decrease exposure to 10-monohydroxy derivative (MHD), the active metabolite [see Drug Interactions (7.2)and Clinical Pharmacology (12.3)].
 Dosage adjustment of Oxtellar XR may be required after initiation, dosage modification, or discontinuation of such inducers.
 Dosage increases of Oxtellar XR may be necessary with concomitant use.
 Consider initiating at 900 mg once daily for adults and 12 to 15 mg/kg orally once daily (not to exceed 900 mg per day in the first week) in pediatric patients.
 
 ## 2.6 Withdrawal of AEDs
 
-As with most antiepileptic drugs, Oxtellar XR ® should be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.6)].
+As with most antiepileptic drugs, Oxtellar XR ®should be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.6)].
 
 ## 2.7 Conversion from Immediate-Release Oxcarbazepine to Oxtellar XR ®
 
-In conversion of oxcarbazepine immediate-release to Oxtellar XR ®, higher dosages of Oxtellar XR ® may be necessary [see Clinical Pharmacology (12.3)].
+In conversion of oxcarbazepine immediate-release to Oxtellar XR ®, higher dosages of Oxtellar XR ®may be necessary [see Clinical Pharmacology (12.3)].

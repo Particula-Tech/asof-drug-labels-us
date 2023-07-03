@@ -1,9 +1,9 @@
 # 14 CLINICAL STUDIES
 
-Oxtellar XR ® has been evaluated as adjunctive therapy for partial-onset seizures in adults.
-The use of Oxtellar XR ® for the treatment of partial-onset seizures in pediatric patients 6 years of age and older is based on adequate and well-controlled studies of Oxtellar XR ® in adults, along with clinical trials of immediate-release oxcarbazepine in pediatric patients, and on pharmacokinetic evaluations of the use of Oxtellar XR ® in pediatric patients.
+Oxtellar XR ®has been evaluated as adjunctive therapy for partial-onset seizures in adults.
+The use of Oxtellar XR ®for the treatment of partial-onset seizures in pediatric patients 6 years of age and older is based on adequate and well-controlled studies of Oxtellar XR ®in adults, along with clinical trials of immediate-release oxcarbazepine in pediatric patients, and on pharmacokinetic evaluations of the use of Oxtellar XR ®in pediatric patients.
 
-## 14.1 Oxtellar XR ® Primary Trial
+## 14.1 Oxtellar XR ®Primary Trial
 
 A multicenter, randomized, double-blind, placebo-controlled, three-arm, parallel-group study (Study 1) in male and female adults with refractory partial-onset seizures (18 to 65 years of age, inclusive) was performed to examine the safety and efficacy of Oxtellar XR ®.
 
@@ -15,7 +15,7 @@ The study included an 8 week Baseline Period, followed by a Treatment Period, wh
 The primary endpoint of the study was median percentage change from baseline in seizure frequency per 28 days during the treatment period relative to the baseline period.
 The criterion for statistical significance was p<0.05.
 A total of 366 patients were enrolled at 88 sites in North America and Eastern Europe.
-Subjects were randomized to one of three treatment groups and took Oxtellar XR ® (1200 or 2400 mg/day) or placebo.
+Subjects were randomized to one of three treatment groups and took Oxtellar XR ®(1200 or 2400 mg/day) or placebo.
 
 Table 6 presents the primary efficacy results by treatment group.
 

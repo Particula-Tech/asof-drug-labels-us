@@ -1,4 +1,4 @@
-Oxtellar XR ® is manufactured by:
+Oxtellar XR ®is manufactured by:
 
 Patheon Inc.
 
@@ -10,6 +10,6 @@ Supernus Pharmaceuticals, Inc.
 
 Rockville, MD 20850 USA
 
-Oxtellar XR ® is a trademark of Supernus Pharmaceuticals, Inc.
+Oxtellar XR ®is a trademark of Supernus Pharmaceuticals, Inc.
 
 RA-OXT-V3

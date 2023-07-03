@@ -9,7 +9,7 @@ Encourage women who are taking Oxtellar XR during pregnancy to enroll in the Nor
 
 Risk Summary
 
-There are no adequate data on the developmental risks associated with the use of Oxtellar XR ® in pregnant women; however, Oxtellar XR ® is closely related structurally to carbamazepine, which is considered to be teratogenic in humans.
+There are no adequate data on the developmental risks associated with the use of Oxtellar XR ®in pregnant women; however, Oxtellar XR ®is closely related structurally to carbamazepine, which is considered to be teratogenic in humans.
 Data on a limited number of pregnancies from pregnancy registries suggest that oxcarbazepine monotherapy use is associated with congenital malformations (e.g., craniofacial defects such as oral clefts, and cardiac malformations such as ventricular septal defects).
 Increased incidences of fetal structural abnormalities and other manifestations of developmental toxicity (embryolethality, growth retardation) were observed in the offspring of animals treated with either oxcarbazepine or its active 10-hydroxy metabolite (MHD) during pregnancy at doses similar to the maximum recommended human dose (MRHD).
 
@@ -29,15 +29,15 @@ Data from published registries have reported craniofacial defects such as oral c
 
 Animal Data
 
-When pregnant rats were given oxcarbazepine (30, 300, or 1000 mg/kg/day) orally throughout the period of organogenesis, increased incidences of fetal malformations (craniofacial, cardiovascular, and skeletal) and variations were observed at the intermediate and high doses (approximately 1.2 and 4 times, respectively, the MRHD on a mg/m 2 basis).
+When pregnant rats were given oxcarbazepine (30, 300, or 1000 mg/kg/day) orally throughout the period of organogenesis, increased incidences of fetal malformations (craniofacial, cardiovascular, and skeletal) and variations were observed at the intermediate and high doses (approximately 1.2 and 4 times, respectively, the MRHD on a mg/m 2basis).
 Increased embryofetal death and decreased fetal body weights were seen at the high dose.
 Doses ≥ 300 mg/kg were also maternally toxic (decreased body weight gain, clinical signs), but there is no evidence to suggest that teratogenicity was secondary to the maternal effects.
 
-In a study in which pregnant rabbits were orally administered MHD (20, 100, or 200 mg/kg/day) during organogenesis, embryofetal mortality was increased at the highest dose (1.5 times the MRHD on a mg/m 2 basis).
+In a study in which pregnant rabbits were orally administered MHD (20, 100, or 200 mg/kg/day) during organogenesis, embryofetal mortality was increased at the highest dose (1.5 times the MRHD on a mg/m 2basis).
 This dose produced only minimal maternal toxicity.
 
-In a study in which female rats were dosed orally with oxcarbazepine (25, 50, or 150 mg/kg/day) during the latter part of gestation and throughout the lactation period, a persistent reduction in body weights and altered behavior (decreased activity) were observed in offspring exposed to the highest dose (0.6 times the MRHD on a mg/m 2 basis).
-Oral administration of MHD (25, 75, or 250 mg/kg/day) to rats during gestation and lactation resulted in a persistent reduction in offspring weights at the highest dose (equivalent to the MRHD on a mg/m 2 basis).
+In a study in which female rats were dosed orally with oxcarbazepine (25, 50, or 150 mg/kg/day) during the latter part of gestation and throughout the lactation period, a persistent reduction in body weights and altered behavior (decreased activity) were observed in offspring exposed to the highest dose (0.6 times the MRHD on a mg/m 2basis).
+Oral administration of MHD (25, 75, or 250 mg/kg/day) to rats during gestation and lactation resulted in a persistent reduction in offspring weights at the highest dose (equivalent to the MRHD on a mg/m 2basis).
 
 ## 8.2 Lactation
 
@@ -52,19 +52,19 @@ The developmental and health benefits of breastfeeding should be considered alon
 Contraception
 
 Use of Oxtellar XR with hormonal contraceptives containing ethinylestradiol or levonorgestrel is associated with decreased plasma concentrations of these hormones and may result in a failure of the therapeutic effect of the oral contraceptive drug.
-Advise women of reproductive potential taking Oxtellar XR who are using a contraceptive containing ethinylestradiol or levonorgestrel to use additional or alternative non-hormonal birth control [see Drug Interactions (7.3) and Clinical Pharmacology (12.3)].
+Advise women of reproductive potential taking Oxtellar XR who are using a contraceptive containing ethinylestradiol or levonorgestrel to use additional or alternative non-hormonal birth control [see Drug Interactions (7.3)and Clinical Pharmacology (12.3)].
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Oxtellar XR ® in pediatric patients 6 years of age and older for the treatment of partial-onset seizures is supported by:
+The safety and effectiveness of Oxtellar XR ®in pediatric patients 6 years of age and older for the treatment of partial-onset seizures is supported by:
 
-1) An adequate and well-controlled safety and efficacy study of Oxtellar XR ® in adults that included pharmacokinetic sampling [see Clinical Studies (14.1)],
+1) An adequate and well-controlled safety and efficacy study of Oxtellar XR ®in adults that included pharmacokinetic sampling [see Clinical Studies (14.1)],
 
-2) A pharmacokinetic study of Oxtellar XR ® in pediatric patients, which included patients 6 to less than 17 years of age [see Clinical Pharmacology (12.3)],
+2) A pharmacokinetic study of Oxtellar XR ®in pediatric patients, which included patients 6 to less than 17 years of age [see Clinical Pharmacology (12.3)],
 
-3) Safety and efficacy studies with the immediate-release formulation in adults and pediatric patients [see Clinical Studies (14.2) and Adverse Reactions (6.1)].
+3) Safety and efficacy studies with the immediate-release formulation in adults and pediatric patients [see Clinical Studies (14.2)and Adverse Reactions (6.1)].
 
-Oxtellar XR ® is not approved for pediatric patients less than 6 years of age because the size of the tablets are inappropriate for younger children.
+Oxtellar XR ®is not approved for pediatric patients less than 6 years of age because the size of the tablets are inappropriate for younger children.
 
 ## 8.5 Geriatric Use
 
@@ -75,11 +75,11 @@ Close monitoring of sodium levels is required in elderly patients at risk for hy
 
 ## 8.6 Renal Impairment
 
-There is a linear correlation between creatinine clearance and the renal clearance of MHD [see Clinical Pharmacology (12.3) and Dosage and Administration (2.3)].
+There is a linear correlation between creatinine clearance and the renal clearance of MHD [see Clinical Pharmacology (12.3)and Dosage and Administration (2.3)].
 
-The pharmacokinetics of Oxtellar XR ® has not been evaluated in patients with renal impairment.
+The pharmacokinetics of Oxtellar XR ®has not been evaluated in patients with renal impairment.
 In patients with severe renal impairment (creatinine clearance <30 mL/min) given immediate-release oxcarbazepine, the elimination half-life of MHD was prolonged with a corresponding two-fold increase in AUC [see Clinical Pharmacology (12.3)].
-In these patients initiate Oxtellar XR ® at a lower starting dosage and increase, if necessary, at a slower than usual rate until the desired clinical response is achieved [see Dosage and Administration (2.3)].
+In these patients initiate Oxtellar XR ®at a lower starting dosage and increase, if necessary, at a slower than usual rate until the desired clinical response is achieved [see Dosage and Administration (2.3)].
 
 In patients with end-stage renal disease on dialysis, it is recommended that immediate-release oxcarbazepine be used instead of Oxtellar XR ®.
 
