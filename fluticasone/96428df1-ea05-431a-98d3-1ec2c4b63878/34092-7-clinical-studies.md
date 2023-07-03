@@ -83,7 +83,7 @@ Moderate and Severe Chronic Obstructive Pulmonary Disease Exacerbations
 | Trial 4 |  |  |  |  |
 | BREO ELLIPTA 100/25 mcg | 403 | 0.70 | 0.66 | 0.54, 0.81 |
 | BREO ELLIPTA 200/25 mcg | 402 | 0.90 | 0.85 | 0.70, 1.04 |
-| Fluticasone furoate/vilanterol 50 /25 mcg | 408 | 0.92 | 0.87 | 0.72, 1.06 |
+| Fluticasone furoate/vilanterol 50/25 mcg | 408 | 0.92 | 0.87 | 0.72, 1.06 |
 | Vilanterol 25 mcg | 409 | 1.05 | –– | –– |
 
 Comparator Trials
@@ -192,7 +192,7 @@ Change from Baseline in Weighted Mean FEV1 (0-24 h) (mL) and Trough FEV1 (mL) at
 | BREO ELLIPTA 200/25 mcg | 89 | –– | –– | 136(1, 270) |  |  |  |  |  |  |
 | Study (Duration)Background Treatment | n | Trough FEV1 (mL) |  |  |  |  |  |  |  |  |
 | Treatment | Difference from |  |  |  |  |  |  |  |  |  |
-| Placebo(95% CI) | Fluticasone Furoate100 mcg(95% CI) | Fluticasone Furoate200 mcg(95% CI) |  |  |  |  |  |  |  |  |
+| Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |  |  |  |  |  |  |  |
 | Trial 8 (12 Weeks)Low- to mid-dose ICS or low-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
 | BREO ELLIPTA 100/25 mcg | 200 | 172(87, 258) | 36(-48, 120) | –– |  |  |  |  |  |  |
 | Trial 9 (12 Weeks)Mid- to high-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |

@@ -1,5 +1,3 @@
-# Click or tap here to enter text.
-
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0916-10
