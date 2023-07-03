@@ -2,19 +2,19 @@
 
 The following serious adverse reactions are described elsewhere in the labeling:
 
-- Angioedema [see Warnings and Precautions (5.1)]
-- Hypersensitivity [see Warnings and Precautions (5.2)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.3)]
-- Respiratory Depression [see Warnings and Precautions (5.4)]
-- Dizziness and Somnolence [see Warnings and Precautions (5.5)]
-- Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation [see Warnings and Precautions (5.6)]
-- Peripheral Edema [see Warnings and Precautions (5.7)]
-- Weight Gain [see Warnings and Precautions (5.8)]
-- Tumorigenic Potential [see Warnings and Precautions (5.9)]
-- Ophthalmological Effects [see Warnings and Precautions (5.10)]
-- Creatine Kinase Elevations [see Warnings and Precautions (5.11)]
-- Decreased Platelet Count [see Warnings and Precautions (5.12)]
-- PR Interval Prolongation [see Warnings and Precautions (5.13)]
+- •Angioedema [see Warnings and Precautions (5.1)]
+- •Hypersensitivity [see Warnings and Precautions (5.2)]
+- •Suicidal Behavior and Ideation [see Warnings and Precautions (5.3)]
+- •Respiratory Depression [see Warnings and Precautions (5.4)]
+- •Dizziness and Somnolence [see Warnings and Precautions (5.5)]
+- •Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation [see Warnings and Precautions (5.6)]
+- •Peripheral Edema [see Warnings and Precautions (5.7)]
+- •Weight Gain [see Warnings and Precautions (5.8)]
+- •Tumorigenic Potential [see Warnings and Precautions (5.9)]
+- •Ophthalmological Effects [see Warnings and Precautions (5.10)]
+- •Creatine Kinase Elevations [see Warnings and Precautions (5.11)]
+- •Decreased Platelet Count [see Warnings and Precautions (5.12)]
+- •PR Interval Prolongation [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience
 
