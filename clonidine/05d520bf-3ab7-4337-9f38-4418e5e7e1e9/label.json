@@ -1,0 +1,31 @@
+{
+  "application_numbers": [
+    "NDA018891"
+  ],
+  "inn": "clonidine",
+  "labeler": "TruPharma, LLC",
+  "package_ndcs": [
+    "52817-610-04",
+    "52817-611-04",
+    "52817-612-04"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "clonidine transdermal system",
+      "name": "Clonidine Transdermal System USP, 0.1 mg/day"
+    },
+    {
+      "form": "PATCH",
+      "generic": "clonidine transdermal system",
+      "name": "Clonidine Transdermal System USP, 0.2 mg/day"
+    },
+    {
+      "form": "PATCH",
+      "generic": "clonidine transdermal system",
+      "name": "Clonidine Transdermal System USP, 0.3 mg/day"
+    }
+  ],
+  "setid": "05d520bf-3ab7-4337-9f38-4418e5e7e1e9",
+  "source": "dailymed"
+}
