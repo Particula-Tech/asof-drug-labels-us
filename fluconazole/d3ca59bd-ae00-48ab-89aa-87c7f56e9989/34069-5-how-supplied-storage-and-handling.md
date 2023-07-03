@@ -14,9 +14,9 @@ Protect from freezing.
 
 Fluconazole Injections in Plastic Containers:
 
-NDC 0143-9669-06 Fluconazole in Sodium Chloride Diluent 200 mg/100 mL Carton of 6
+NDC 0143-9669-10 Fluconazole in Sodium Chloride Diluent 200 mg/100 mL Carton of 10
 
-NDC 0143-9668-06 Fluconazole in Sodium Chloride Diluent 400 mg/200 mL Carton of 6
+NDC 0143-9668-10 Fluconazole in Sodium Chloride Diluent 400 mg/200 mL Carton of 10
 
 NDC 0143-9667-06 Fluconazole in Dextrose Diluent 200 mg/100 mL Carton of 6
 
