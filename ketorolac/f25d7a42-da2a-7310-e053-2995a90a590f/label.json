@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA205388"
+  ],
+  "inn": "ketorolac",
+  "labeler": "Rayner Surgical Inc.",
+  "package_ndcs": [
+    "82604-600-00",
+    "82604-600-04",
+    "82604-600-99"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "phenylephrine and ketorolac",
+      "name": "Omidria"
+    }
+  ],
+  "setid": "f25d7a42-da2a-7310-e053-2995a90a590f",
+  "source": "dailymed"
+}
