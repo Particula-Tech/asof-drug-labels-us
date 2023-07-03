@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761071"
+  ],
+  "inn": "adalimumab",
+  "labeler": "Sandoz Inc.",
+  "package_ndcs": [
+    "61314-327-20",
+    "61314-327-64"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "adalimumab-adaz",
+      "name": "Adalimumab"
+    }
+  ],
+  "setid": "3468792f-63ef-4916-8ed1-8214f327d9dd",
+  "source": "dailymed"
+}
