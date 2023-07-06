@@ -61,12 +61,17 @@ NDC 0338-0716-12 100 mL Single Dose Container Discard unused portion
 Code 2G3595 Sterile Nonpyrogenic For Intravenous Infusion Only
 
 Each 100 mL contains: 700 mg Daptomycin, 900 mg Sodium Chloride, USP, 50 mg Monobasic Sodium Phosphate Monohydrate, USP, 55 mg Dibasic Sodium Phosphate Anhydrous, USP and Water for Injection, USP. pH may have been adjusted with Sodium Hydroxide and/or Hydrochloric Acid.
+
 Cautions: Do not add supplementary medication or additives.
+
 Recommended Dosage: See prescribing information.
-Rx only Store frozen at or below -20°C/-4°F.
+Rx only
+
+Store frozen at or below -20°C/-4°F.
 Do not force thaw.
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 Product should not be thawed by immersion in water baths or by microwave irradiation.
+
 Thawed solution is stable for 30 days under refrigeration or 48 hours at room temperature.
 Do not refreeze.
 
@@ -74,7 +79,7 @@ GALAXY PL 2040 Plastic
 
 Baxter Logo Baxter Healthcare Corporation, Deerfield, IL 60015 USA Baxter and Galaxy are registered trademarks of Baxter International Inc. Made in USA
 
-07-34-00-1226
+07-34-00-1901
 
 *BAR CODE FOR POSITION ONLY 303380716128
 
@@ -87,9 +92,13 @@ NDC 0338-0718-12 100 mL Single Dose Container Discard unused portion
 Code 2G3596 Sterile Nonpyrogenic For Intravenous Infusion Only
 
 Each 100 mL contains: 1000 mg Daptomycin, 900 mg Sodium Chloride, USP, 50 mg Monobasic Sodium Phosphate Monohydrate, USP, 55 mg Dibasic Sodium Phosphate Anhydrous, USP and Water for Injection, USP. pH may have been adjusted with Sodium Hydroxide and/or Hydrochloric Acid.
+
 Cautions: Do not add supplementary medication or additives.
+
 Recommended Dosage: See prescribing information.
-Rx only Store frozen at or below -20°C/-4°F.
+Rx only
+
+Store frozen at or below -20°C/-4°F.
 Do not force thaw.
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 Product should not be thawed by immersion in water baths or by microwave irradiation.
@@ -100,7 +109,7 @@ GALAXY PL 2040 Plastic
 
 Baxter Logo Baxter Healthcare Corporation, Deerfield, IL 60015 USA Baxter and Galaxy are registered trademarks of Baxter International Inc. Made in USA
 
-07-34-00-1227
+07-34-00-1902
 
 *BAR CODE FOR POSITION ONLY 303380718122
 

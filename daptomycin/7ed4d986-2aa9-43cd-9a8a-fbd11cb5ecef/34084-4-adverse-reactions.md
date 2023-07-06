@@ -29,7 +29,7 @@ Incidence of Adverse Reactions that Occurred in ≥2% of Adult Patients in the D
 
 | Adverse Reaction | Adult Patients (%) |  |
 | --- | --- | --- |
-|  | Daptomycin for Injection 4 mg/kg (N=534) | ComparatorComparator: vancomycin (1 g IV every12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses).(N=558) |
+|  | Daptomycin for Injection 4 mg/kg (N=534) | ComparatorComparator: vancomycin (1 g IV every 12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses).(N=558) |
 | Gastrointestinal disorders |  |  |
 | Diarrhea | 5.2 | 4.3 |
 | Nervous system disorders |  |  |
