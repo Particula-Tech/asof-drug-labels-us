@@ -4,7 +4,7 @@
 
 Simvastatin tablet is a substrate of CYP3A4 and of the transport protein OATP1B1.
 Simvastatin tablets exposure can be significantly increased with concomitant administration of inhibitors of CYP3A4 and OATP1B1.
-Table 2 includes a list of drugs that increase the risk of myopathy and rhabdomyolysis when used concomitantly with simvastatin tablets and instructions for preventing or managing them [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3).]
+Table 2 includes a list of drugs that increase the risk of myopathy and rhabdomyolysis when used concomitantly with simvastatin tablets and instructions for preventing or managing them [see Warnings and Precautions (5.1)and Clinical Pharmacology (12.3).]
 
 Table 2: Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with Simvastatin Tablets
 
@@ -18,10 +18,10 @@ Table 2: Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis
 | Intervention: | Concomitant use of cyclosporine, danazol, or gemfibrozil with simvastatin is contraindicated [see Contraindications (4)]. |
 | Amiodarone, Dronedarone, Ranolazine, or Calcium Channel Blockers |  |
 | Clinical Impact: | The risk of myopathy and rhabdomyolysis is increased by concomitant use of amiodarone, dronedarone, ranolazine, or calcium channel blockers with simvastatin. |
-| Intervention: | For patients taking verapamil, diltiazem, or dronedarone, do not exceed simvastatin 10 mg daily. For patients taking amiodarone, amlodipine, or ranolazine, do not exceed simvastatin 20 mg daily [see Dosage and Administration (2.5)]. |
+| Intervention: | For patients taking verapamil, diltiazem, or dronedarone, do not exceed simvastatin 10 mg daily.For patients taking amiodarone, amlodipine, or ranolazine, do not exceed simvastatin 20 mg daily [see Dosage and Administration (2.5)]. |
 | Lomitapide |  |
 | Clinical Impact: | Simvastatin exposure is approximately doubled with concomitant use of lomitapide and the risk of myopathy and rhabdomyolysis is increased. |
-| Intervention: | Reduce the dose of simvastatin by 50% if initiating lomitapide. Do not exceed simvastatin 20 mg daily (or simvastatin 40 mg daily for patients who have previously taken simvastatin 80 mg daily chronically) while taking lomitapide [see Dosage and Administration (2.1, 2.5)]. |
+| Intervention: | Reduce the dose of simvastatin by 50% if initiating lomitapide. Do not exceed simvastatin 20 mg daily (or simvastatin 40 mg daily for patients who have previously taken an 80 mg daily dosage of simvastatin chronically) while taking lomitapide [see Dosage and Administration (2.1, 2.5)]. |
 | Daptomycin |  |
 | Clinical Impact: | Cases of rhabdomyolysis have been reported with simvastatin administered with daptomycin. Both simvastatin and daptomycin can cause myopathy and rhabdomyolysis when given alone and the risk of myopathy and rhabdomyolysis may be increased by coadministration. |
 | Intervention: | If treatment with daptomycin is required, consider temporarily suspending simvastatin during the course of daptomycin treatment. |

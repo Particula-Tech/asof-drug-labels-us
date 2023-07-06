@@ -32,7 +32,7 @@ The Study HPS results showed that simvastatin tablets 40 mg/day significantly re
 
 Table 5: CHD Mortality and Cardiovascular Events in Adult Patients with High Risk of Developing a Major Coronary Event in Study HPS
 
-| Endpoint | Simvastatin Tablets (N=10,269) n (%)* | Placebo (N=10,267) n (%)* | Risk Reduction (%) (95% CI) | p-Value |
+| Endpoint | Simvastatin Tablets(N=10,269) n (%)* | Placebo(N=10,267) n (%)* | Risk Reduction (%) (95% CI) | p-Value |
 | --- | --- | --- | --- | --- |
 | Primary Mortality CHD mortality | 1,328 (12.9%) 587 (5.7%) | 1,507 (14.7%) 707 (6.9%) | 13% (6 to 19%) 18% (8 to 26%) | p=0.0003 p=0.0005 |
 | Secondary Non-fatal MI Stroke | 357 (3.5%) 444 (4.3%) | 574 (5.6%) 585 (5.7%) | 38% (30 to 46%) 25% (15 to 34%) | p<0.0001 p<0.0001 |
@@ -61,13 +61,13 @@ Table 6: Mean Changes in Lipid Levels in Adult Patients with Primary Hyperlipide
 
 | TREATMENT | N | TOTAL-C | LDL-C | HDL-C | TG* |
 | --- | --- | --- | --- | --- | --- |
-| Lower Dosage Comparative Study † (Mean % Change at Week 6) |  |  |  |  |  |
+| Lower Dosage Comparative Study †(Mean % Change at Week 6) |  |  |  |  |  |
 | Simvastatin tablets 5 mg once at night Simvastatin tablets 10 mg once at night | 109 110 | -19% -23% | -26% -30% | +10% +12% | -12% -15% |
-| Scandinavian Simvastatin Survival Study ‡ (Mean % Change at Week 6) |  |  |  |  |  |
+| Scandinavian Simvastatin Survival Study ‡(Mean % Change at Week 6) |  |  |  |  |  |
 | Placebo Simvastatin tablets 20 mg once at night | 2223 2221 | -1% -28% | -1% -38% | 0% +8% | -2% -19% |
-| Upper Dosage Comparative Study § (Mean % Change Averaged at Weeks 18 and 24) |  |  |  |  |  |
+| Upper Dosage Comparative Study §(Mean % Change Averaged at Weeks 18 and 24) |  |  |  |  |  |
 | Simvastatin tablets 40 mg once at night Simvastatin tablets 80 mg once at night ¶ | 433 664 | -31% -36% | -41% -47% | +9% +8% | -18% -24% |
-| Combined Hyperlipidemia Study # (Mean % Change at Week 6) |  |  |  |  |  |
+| Combined Hyperlipidemia Study #(Mean % Change at Week 6) |  |  |  |  |  |
 | Placebo Simvastatin tablets 40 mg once at night Simvastatin tablets 80 mg once at night | 125 123 124 | 1% -25% -31% | 2% -29% -36% | +3% +13% +16% | -4% -28% -33% |
 
 * median percent change
@@ -76,12 +76,12 @@ Table 6: Mean Changes in Lipid Levels in Adult Patients with Primary Hyperlipide
 
 ‡ mean baseline LDL-C = 188 mg/dL and median baseline TG = 128 mg/dL
 
-§ mean baseline LDL-C = 226 mg/dL and median baseline TG = 156 mg/dL
+§mean baseline LDL-C = 226 mg/dL and median baseline TG = 156 mg/dL
 
-¶ 21% and 36% median reduction in TG in patients with TG ≤200 mg/dL and TG >200 mg/dL, respectively.
+¶21% and 36% median reduction in TG in patients with TG ≤200 mg/dL and TG >200 mg/dL, respectively.
 Patients with TG >350 mg/dL were excluded
 
-# mean baseline LDL-C = 156 mg/dL and median baseline TG = 391 mg/dL.
+#mean baseline LDL-C = 156 mg/dL and median baseline TG = 391 mg/dL.
 
 Hypertriglyceridemia in Adults
 

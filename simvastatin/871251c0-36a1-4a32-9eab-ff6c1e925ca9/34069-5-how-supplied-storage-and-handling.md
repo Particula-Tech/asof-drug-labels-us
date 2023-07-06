@@ -50,7 +50,7 @@ Bottles of 1000 Tablets with child-resistant closure (NDC 16729-007-17)
 
 Storage
 
-Store at 20°C to 25°C (68°F to 77°F).
+Store at 68°F to 77°F (20°C to 25°C).
 [See USP Controlled Room Temperature].
 
 "Dispense in tight containers as defined in the USP"

@@ -13,7 +13,7 @@ The maximum LDL-C reduction of simvastatin tablet is usually achieved by 4 weeks
 
 ## 12.3 Pharmacokinetics
 
-Simvastatin is a lactone that is readily hydrolyzed in vivo to the corresponding β-hydroxyacid.
+Simvastatin is a lactone that is readily hydrolyzed in vivoto the corresponding β-hydroxyacid.
 Pharmacokinetics (PK) of simvastatin and its metabolites was originally characterized using inhibition of HMG-CoA reductase activity following base hydrolysis of plasma samples, as specific bioanalytical methods were not available.
 Inhibition of the enzyme activity (equivalent to the level of total inhibitors) represented the combination of activities in plasma following administration of simvastatin from both active (simvastatin acid and its metabolites) and latent forms (simvastatin and its metabolites) after conversion to the active forms in the presence of base.
 
@@ -55,9 +55,7 @@ Simvastatin acid is a substrate of the transport protein OATP1B1.
 Concomitant administration of inhibitors of the transport protein OATP1B1 and/or CYP3A4 may lead to increased exposure of simvastatin acid.
 Cyclosporine has been shown to increase the AUC of statins; although the mechanism is not fully understood, the increase in AUC for simvastatin acid is presumably due, in part, to inhibition of CYP3A4 and/or OATP1B1 [see Drug Interactions (7)].
 
-Table 4 displays the effect of coadministered drugs or grapefruit juice on simvastatin systemic exposure
-
-[see Drug Interactions (7)].
+Table 4 displays the effect of coadministered drugs or grapefruit juice on simvastatin systemic exposure [see Drug Interactions (7)].
 
 Table 4: Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin Systemic Exposure
 
@@ -69,8 +67,8 @@ Table 4: Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin Syste
 | Itraconazole † | 200 mg QD for 4 days | 80 mg | simvastatin acid ‡ simvastatin |  | 13.1 13.1 |
 | Posaconazole | 100 mg (oral suspension) QD for 13 days 200 mg (oral suspension) QD for 13 days | 40 mg 40 mg | simvastatin acid simvastatin simvastatin acid simvastatin | 7.3 10.3 8.5 10.6 | 9.2 9.4 9.5 11.4 |
 | Gemfibrozil | 600 mg BID for 3 days | 40 mg | simvastatin acid simvastatin | 2.85 1.35 | 2.18 0.91 |
-| Grapefruit Juice § (high dose) | 200 mL of double-strength TID ¶ | 60 mg single dose | simvastatin acid simvastatin | 7 16 |  |
-| Grapefruit Juice § (low dose) | 8 oz (about 237 mL) of single-strength # | 20 mg single dose | simvastatin acid simvastatin | 1.3 1.9 |  |
+| Grapefruit Juice §(high dose) | 200 mL of double-strength TID ¶ | 60 mg single dose | simvastatin acid simvastatin | 7 16 |  |
+| Grapefruit Juice §(low dose) | 8 oz (about 237 mL) of single-strength # | 20 mg single dose | simvastatin acid simvastatin | 1.3 1.9 |  |
 | Verapamil SR | 240 mg QD Days 1 to 7 then 240 mg BID on Days 8 to 10 | 80 mg on Day 10 | simvastatin acid simvastatin | 2.3 2.5 | 2.4 2.1 |
 | Diltiazem | 120 mg BID for 10 days | 80 mg on Day 10 | simvastatin acid simvastatin | 2.69 3.10 | 2.69 2.88 |
 | Diltiazem | 120 mg BID for 14 days | 20 mg on Day 14 | simvastatin | 4.6 | 3.6 |

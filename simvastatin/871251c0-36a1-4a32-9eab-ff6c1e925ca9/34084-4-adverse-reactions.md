@@ -62,31 +62,31 @@ The majority of elevated transaminases leading to treatment discontinuation occu
 
 Adverse Reactions in Pediatric Patients with Heterozygous Familial Hypercholesterolemia
 
-In a 48-week clinical study in pediatric patients 10 years of age and older (43% female, 97.7% Caucasians, 1.7% Hispanics, 0.6% Multiracial) with HeFH (n=175), treated with placebo or simvastatin tablets (10 to 40 mg daily), the most common adverse reactions were upper respiratory infection, headache, abdominal pain, and nausea [see Use in Specific Populations (8.4) and Clinical Studies (14)].
+In a 48-week clinical study in pediatric patients 10 years of age and older (43% female, 97.7% Caucasians, 1.7% Hispanics, 0.6% Multiracial) with HeFH (n=175), treated with placebo or simvastatin tablets (10 to 40 mg daily), the most common adverse reactions were upper respiratory infection, headache, abdominal pain, and nausea [see Use in Specific Populations (8.4)and Clinical Studies (14)].
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of simvastatin tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as whole: fever, chills, malaise, asthenia
+Body as whole:fever, chills, malaise, asthenia
 
-Blood and Lymphatic System Disorders: anemia, thrombocytopenia, leukopenia, hemolytic anemia, positive ANA, ESR increase, eosinophilia
+Blood and Lymphatic System Disorders:anemia, thrombocytopenia, leukopenia, hemolytic anemia, positive ANA, ESR increase, eosinophilia
 
-Gastrointestinal Disorders: pancreatitis, vomiting
+Gastrointestinal Disorders:pancreatitis, vomiting
 
-Hepatic and Pancreatic Disorders: hepatitis/jaundice, fatal and non-fatal hepatic failure
+Hepatic and Pancreatic Disorders:hepatitis/jaundice, fatal and non-fatal hepatic failure
 
-Immune System Disorders: hypersensitivity syndrome including: anaphylaxis, angioedema, lupus erythematous-like syndrome, dermatomyositis, vasculitis
+Immune System Disorders:hypersensitivity syndrome including: anaphylaxis, angioedema, lupus erythematous-like syndrome, dermatomyositis, vasculitis
 
-Musculoskeletal and Connective Tissue Disorders: muscle cramps, immune-mediated necrotizing myopathy, polymyalgia rheumatica, arthritis
+Musculoskeletal and Connective Tissue Disorders:muscle cramps, immune-mediated necrotizing myopathy, polymyalgia rheumatica, arthritis
 
-Nervous System Disorders: dizziness, depression, paresthesia, peripheral neuropathy.
+Nervous System Disorders:dizziness, depression, paresthesia, peripheral neuropathy.
 Rare reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
 Cognitive impairment was generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
 
-Skin and Subcutaneous Tissue Disorders: pruritus, alopecia, a variety of skin changes (e.g., nodules, discoloration, dryness of skin/mucous membranes, changes to hair/nails), purpura, lichen planus, urticaria, photosensitivity, flushing, toxic epidermal necrolysis, erythema multiforme, including Stevens- Johnson syndrome
+Skin and Subcutaneous Tissue Disorders:pruritus, alopecia, a variety of skin changes (e.g., nodules, discoloration, dryness of skin/mucous membranes, changes to hair/nails), purpura, lichen planus, urticaria, photosensitivity, flushing, toxic epidermal necrolysis, erythema multiforme, including Stevens- Johnson syndrome
 
-Respiratory and Thoracic: interstitial lung disease, dyspnea
+Respiratory and Thoracic:interstitial lung disease, dyspnea
 
-Reproductive System Disorders: erectile dysfunction
+Reproductive System Disorders:erectile dysfunction
