@@ -66,8 +66,8 @@ The safety and effectiveness of HADLIMA have been established for:
 - •reducing signs and symptoms of moderately to severely active polyarticular JIA in pediatric patients 2 years of age and older.
 - •the treatment of moderately to severely active Crohn’s disease in pediatric patients 6 years of age and older.
 
-A pediatric assessment for HADLIMA demonstrates that HADLIMA is safe and effective for pediatric patients in an indication for which Humira (adalimumab) is approved.
-However, HADLIMA is not approved for such indication due to marketing exclusivity for Humira (adalimumab).
+Pediatric assessments for HADLIMA demonstrate that HADLIMA is safe and effective for additional indications in pediatric patients for which Humira (adalimumab) is approved.
+However, HADLIMA is not approved for such indications due to marketing exclusivity for Humira (adalimumab).
 
 Due to their inhibition of TNFα, adalimumab products administered during pregnancy could affect immune response in the in utero-exposed newborn and infant.
 Data from eight infants exposed to adalimumab in utero suggest adalimumab crosses the placenta [see Use in Specific Populations (8.1)].

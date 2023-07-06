@@ -16,7 +16,7 @@ Adalimumab products also modulate biological responses that are induced or regul
 ## 12.2 Pharmacodynamics
 
 After treatment with adalimumab, a decrease in concentrations of acute phase reactants of inflammation (C- reactive protein [CRP] and erythrocyte sedimentation rate [ESR]) and serum cytokines (IL-6) was observed compared to baseline in patients with rheumatoid arthritis.
-A decrease in CRP concentrations was also observed in patients with Crohn’s disease and ulcerative colitis.
+A decrease in CRP concentrations was also observed in patients with Crohn’s disease ulcerative colitis, and hidradenitis suppurativa.
 Serum concentrations of matrix metalloproteinases (MMP-1 and MMP-3) that produce tissue remodeling responsible for cartilage destruction were also decreased after adalimumab administration.
 
 ## 12.3 Pharmacokinetics
@@ -53,6 +53,9 @@ Psoriatic Arthritis: In patients receiving 40 mg every other week, adalimumab me
 
 Plaque Psoriasis: Adalimumab mean steady-state trough concentration was approximately 5 to 6 mcg/mL during adalimumab 40 mg every other week treatment.
 
+Adult Hidradenitis Suppurativa: Adalimumab trough concentrations were approximately 7 to 8 mcg/mL at Week 2 and Week 4, respectively, after receiving 160 mg on Week 0 followed by 80 mg on Week 2.
+Mean steady-state trough concentrations at Week 12 through Week 36 were approximately 7 to 11 mcg/mL during adalimumab 40 mg every week treatment.
+
 Adult Crohn’s Disease: Adalimumab mean trough concentrations were approximately 12 mcg/mL at Week 2 and Week 4 after receiving 160 mg on Week 0 followed by 80 mg on Week 2.
 Mean steady-state trough concentrations were 7 mcg/mL at Week 24 and Week 56 during adalimumab 40 mg every other week treatment.
 
@@ -62,6 +65,9 @@ Mean steady-state trough concentrations were approximately 8 mcg/mL and 15 mcg/m
 Anti-Drug Antibody Effects on Pharmacokinetics
 
 Rheumatoid Arthritis: A trend toward higher apparent clearance of adalimumab in the presence of anti-adalimumab antibodies was identified.
+
+Hidradenitis Suppurativa: In subjects with moderate to severe HS, antibodies to adalimumab were associated with reduced serum adalimumab concentrations.
+In general, the extent of reduction in serum adalimumab concentrations is greater with increasing titers of antibodies to adalimumab.
 
 Specific Populations
 
