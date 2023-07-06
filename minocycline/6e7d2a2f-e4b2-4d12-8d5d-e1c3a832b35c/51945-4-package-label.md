@@ -12,6 +12,8 @@ Extended-Release Capsules
 
 Rx only 30 Capsules
 
+30's Bottle Label
+
 # Package/Label Display Panel
 
 NDC 10631-331-30
