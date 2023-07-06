@@ -66,6 +66,8 @@ Parenteral drug products should be inspected visually for particulate matter and
 - •Use aseptic technique when withdrawing the bolus dose.
 - •Do not add any additional medications to the bag.
 
+Figure 1: Two-Port INTRAVIA Bag
+
 ### Ready-to-Use Vial
 
 The Ready-to-use Vial may be used to administer a loading dosage by hand-held syringe while the maintenance infusion is being prepared [see How Supplied/Storage and Handling (16.2)].

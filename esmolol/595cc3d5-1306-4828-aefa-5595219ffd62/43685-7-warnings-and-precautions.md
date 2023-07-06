@@ -33,11 +33,10 @@ Patients with reactive airways disease should, in general, not receive beta bloc
 Because of its relative beta1 selectivity and titratability, titrate BREVIBLOC injection to the lowest possible effective dose.
 In the event of bronchospasm, stop the infusion immediately; a beta2 stimulating agent may be administered with appropriate monitoring of ventricular rates.
 
-## 5.6 Use in Patients with Diabetes Mellitus and Hypoglycemia
+## 5.6 Hypoglycemia
 
-In patients with hypoglycemia, or diabetic patients (especially those with labile diabetes) who are receiving insulin or other hypoglycemic agents, beta blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be masked.
-
-Concomitant use of beta blockers and antidiabetic agents can enhance the effect of antidiabetic agents (blood glucose–lowering).
+Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting).
+If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment.
 
 ## 5.7 Infusion Site Reactions
 
