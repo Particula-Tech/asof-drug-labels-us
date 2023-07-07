@@ -46,6 +46,7 @@ Peak Expiratory Flow Results for Subjects with Asthma Previously Treated with Ei
 | PM PEF (L/min) |  |  |  |  |  |  |  |  |
 | Baseline | 418 | 390 | 396 | 398 |  |  |  |  |
 | Change from baseline | 35 | 18 | -7 | -13 |  |  |  |  |
+| AM PEF = morning peak expiratory flow, PM PEF = evening peak expiratory flow. |  |  |  |  |  |  |  |  |
 | a Change from baseline = change from baseline at Endpoint (last available data). |  |  |  |  |  |  |  |  |
 
 The subjective impact of asthma on subjects’ perception of health was evaluated through use of an instrument called the Asthma Quality of Life Questionnaire (AQLQ) (based on a 7-point scale where 1 = maximum impairment and 7 = none).

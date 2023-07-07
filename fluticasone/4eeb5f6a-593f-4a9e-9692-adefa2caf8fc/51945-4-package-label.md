@@ -20,7 +20,6 @@ Rx only
 
 1. 62000000053664 Rev.
    9/20
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -44,7 +43,6 @@ Rx only
 
 1. 6200000053705 Rev.
    9/20
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -68,4 +66,3 @@ Rx only
 
 1. 62000000053711 Rev.
    9/20
-2. 
