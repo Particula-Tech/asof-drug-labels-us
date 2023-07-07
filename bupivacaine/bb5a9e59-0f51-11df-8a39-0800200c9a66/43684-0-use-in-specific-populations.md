@@ -40,7 +40,7 @@ Risk Summary
 
 Limited published literature reports that bupivacaine and its metabolite, pipecoloxylidide, are present in human milk at low levels.
 There is no available information on effects of the drug in the breastfed infant or effects of the drug on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for EXPAREL and any potential adverse effects on the breastfed infant from EXPAREL or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for EXPAREL and any potential adverse effects on the breastfed infant from EXPAREL or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

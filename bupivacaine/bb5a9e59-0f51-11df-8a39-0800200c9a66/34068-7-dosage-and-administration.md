@@ -6,7 +6,7 @@
 - Different formulations of bupivacaine are not bioequivalent even if the milligram strength is the same.
   Therefore, it is not possible to convert dosing from any other formulations of bupivacaine to EXPAREL [see Dosage and Administration (2.5)].
 - DO NOT dilute EXPAREL with water or other hypotonic agents, as it will result in disruption of the liposomal particles.
-- Use suspensions of EXPAREL diluted with preservative-free normal (0.9%) saline for injection or lactated Ringer’s solution within 4 hours of preparation in a syringe.
+- Use suspensions of EXPAREL diluted with preservative-free normal (0.9%) saline for injection or lactated Ringer's solution within 4 hours of preparation in a syringe.
 - Do not administer EXPAREL if it is suspected that the vial has been frozen or exposed to high temperature (greater than 40°C or 104°F) for an extended period.
 - Inspect EXPAREL visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
   Do not administer EXPAREL if the product is discolored.
@@ -39,7 +39,7 @@ The recommended dose of EXPAREL for interscalene brachial plexus nerve block in 
 EXPAREL should be injected slowly (generally 1 to 2 mL per injection) with frequent aspiration to check for blood and minimize the risk of inadvertent intravascular injection.
 Do not exceed a maximum dosage of 266 mg (20 mL, 1.3% of undiluted drug) for infiltration and 133 mg (10 mL) for interscalene brachial plexus nerve block.
 
-- Administer EXPAREL undiluted or diluted to increase volume up to a final concentration of 0.89 mg/mL (i.e., 1:14 dilution by volume) with normal (0.9%) saline or lactated Ringer’s solution.
+- Administer EXPAREL undiluted or diluted to increase volume up to a final concentration of 0.89 mg/mL (i.e., 1:14 dilution by volume) with normal (0.9%) saline or lactated Ringer's solution.
 - Invert vials of EXPAREL multiple times to re-suspend the particles immediately prior to withdrawal from the vial.
 - Administer EXPAREL with a 25 gauge or larger bore needle to maintain the structural integrity of the liposomal bupivacaine particles.
 
@@ -67,7 +67,7 @@ When administered in recommended doses and concentrations, bupivacaine HCl does 
 Different formulations of bupivacaine are not bioequivalent even if the milligram dosage is the same.
 Therefore, it is not possible to convert dosing from any other formulations of bupivacaine to EXPAREL and vice versa.
 
-Liposomal encapsulation or incorporation in a lipid complex can substantially affect a drug’s functional properties relative to those of the unencapsulated or nonlipid-associated drug.
+Liposomal encapsulation or incorporation in a lipid complex can substantially affect a drug's functional properties relative to those of the unencapsulated or nonlipid-associated drug.
 In addition, different liposomal or lipid-complexed products with a common active ingredient may vary from one another in the chemical composition and physical form of the lipid component.
 Such differences may affect functional properties of these drug products.
 Do not substitute.

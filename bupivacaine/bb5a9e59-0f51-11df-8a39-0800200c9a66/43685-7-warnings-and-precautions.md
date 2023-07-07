@@ -5,7 +5,7 @@
 The safety and effectiveness of bupivacaine and other amide-containing products depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies.
 As there is a potential risk of severe life-threatening adverse effects associated with the administration of bupivacaine, any bupivacaine-containing product should be administered in a setting where trained personnel and equipment are available to promptly treat patients who show evidence of neurological or cardiac toxicity [See Overdosage (10)].
 
-Careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient’s state of consciousness should be performed after injection of bupivacaine and other amide-containing products.
+Careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient's state of consciousness should be performed after injection of bupivacaine and other amide-containing products.
 Restlessness, anxiety, incoherent speech, lightheadedness, numbness and tingling of the mouth and lips, metallic taste, tinnitus, dizziness, blurred vision, tremors, twitching, depression, or drowsiness may be early warning signs of central nervous system toxicity.
 
 Bupivacaine and other amide-containing products should also be used with caution in patients with impaired cardiovascular function because they may be less able to compensate for functional changes associated with the prolongation of AV conduction produced by these drugs.

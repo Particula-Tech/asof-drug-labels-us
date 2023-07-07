@@ -128,10 +128,10 @@ Study 7
 Study 7 was a multicenter, randomized, open-label, two-part study (NCT03682302) to evaluate the PK and safety of EXPAREL in pediatric subjects aged 6 to less than 17 years who were undergoing spine or cardiac surgery.
 
 Sixty-one (61) subjects aged 12 to less than 17 years (Group 1), undergoing spine surgeries, were randomized 1:1 to receive either EXPAREL 4 mg/kg (maximum 266 mg) or bupivacaine HCl 2 mg/kg (maximum 175 mg).
-Postsurgically, patients were administered opioid rescue medication according to the study site’s standard of care.
+Postsurgically, patients were administered opioid rescue medication according to the study site's standard of care.
 
 Thirty-four (34) subjects aged 6 to less than 12 years (Group 2), undergoing either spine or cardiac surgeries, received EXPAREL 4 mg/kg (maximum up to 266 mg).
-Postsurgically, patients were administered opioid rescue medication according to the study site’s standard of care.
+Postsurgically, patients were administered opioid rescue medication according to the study site's standard of care.
 
 This study evaluated the safety of EXPAREL for local infiltration for pediatric subjects aged 6 and older [see Adverse Reactions (6.1), Pediatric Use (8.4), and Clinical Pharmacology (12.3)]
 
