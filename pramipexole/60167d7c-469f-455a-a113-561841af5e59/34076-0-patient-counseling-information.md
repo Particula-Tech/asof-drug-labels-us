@@ -53,3 +53,10 @@ Because the teratogenic potential of pramipexole has not been completely establi
 Lactation
 
 Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.2)].
+
+Manufactured by:
+
+TORRENT PHARMACEUTICALS LTD., INDIA.
+Manufactured for:
+
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.

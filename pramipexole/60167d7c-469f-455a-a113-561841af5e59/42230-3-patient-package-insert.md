@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Pramipexole Dihydrochloride (PRAM-i-PEX-ole dye-HYE-droe-KLOR-ide) Tablets
+Pramipexole Dihydrochloride (pram” i pex’ ole dye hye” droe klor’ ide) Tablets
 
 Read this Patient Information before you start taking pramipexole dihydrochloride tablets and each time you get a refill.
 There may be new information.
@@ -17,21 +17,14 @@ It is not known if pramipexole dihydrochloride tablets are safe and effective in
 
 What should I tell my doctor before taking pramipexole dihydrochloride tablets?
 
-- Before taking pramipexole dihydrochloride tablets, tell your doctor if you:
+• Before taking pramipexole dihydrochloride tablets, tell your doctor if you:
 
-- feel sleepy during the day from a sleep problem other than Restless Legs Syndrome
-  - have low blood pressure, or if you feel dizzy or faint, especially when getting up from sitting or lying down
-  - have trouble controlling your muscles (dyskinesia)
-  - have kidney problems
-    - drink alcohol.
-      Alcohol can increase the chance that pramipexole dihydrochloride tablets will make you feel sleepy or fall asleep when you should be awake.
-  - have any other medical conditions
-    - are pregnant or plan to become pregnant.
-      It is not known if pramipexole dihydrochloridetablets will harm your unborn baby.
-    - are breastfeeding or plan to breastfeed.
-      It is not known if pramipexole dihydrochloride passes into your breast milk.
-      You and your doctor should decide if you will take pramipexole dihydrochloride tablets or breastfeed.
-      You should not do both.
+• feel sleepy during the day from a sleep problem other than Restless Legs Syndrome • have low blood pressure, or if you feel dizzy or faint, especially when getting up from sitting or lying down • have trouble controlling your muscles (dyskinesia) • have kidney problems • drink alcohol.
+Alcohol can increase the chance that pramipexole dihydrochloride tablets will make you feel sleepy or fall asleep when you should be awake. • have any other medical conditions • are pregnant or plan to become pregnant.
+It is not known if pramipexole dihydrochloride tablets will harm your unborn baby. • are breastfeeding or plan to breastfeed.
+It is not known if pramipexole dihydrochloride passes into your breast milk.
+You and your doctor should decide if you will take pramipexole dihydrochloride tablets or breastfeed.
+You should not do both.
 
 Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 
@@ -53,18 +46,12 @@ Keep a list of them and show it to your doctor and pharmacist when you get a new
 
 How should I take pramipexole dihydrochloride tablets?
 
-- Take pramipexole dihydrochloride tablets exactly as your doctor tells you to take it.
-  - Your doctor will tell you how much pramipexole dihydrochloride tablets to take and when to take it.
-    Do not take more or less pramipexole dihydrochloride tablets than your doctor tells you to.
-  - Your doctor may change your dose if needed.
-    - Pramipexole dihydrochloride tablets can be taken with or without food.
-      Taking pramipexole dihydrochloride tablets with food may lower your chances of getting nausea.
-    - If you take more pramipexole dihydrochloride tablets than your doctor recommends, call your doctor or go to the nearest hospital emergency room right away.
-    - If you miss a dose, do not double your next dose.
-      Skip the dose you missed and take your next regular dose.
-    - Do not stop taking pramipexole dihydrochloride without talking to your doctor first.
-      If your doctor tells you to stop taking pramipexole dihydrochloride tablets, you should ask your doctor for specific instructions on how to safely discontinue taking pramipexole dihydrochloride.
-      If you stop pramipexole dihydrochloride tabletsyou may have withdrawal symptoms (see “withdrawal symptoms” under “What are the possible side effects of pramipexole dihydrochloride?”).
+• Take pramipexole dihydrochloride tablets exactly as your doctor tells you to take it. • Your doctor will tell you how much pramipexole dihydrochloride tablets to take and when to take it.
+Do not take more or less pramipexole dihydrochloride tablets than your doctor tells you to. • Your doctor may change your dose if needed. • Pramipexole dihydrochloride tablets can be taken with or without food.
+Taking pramipexole dihydrochloride tablets with food may lower your chances of getting nausea. • If you take more pramipexole dihydrochloride tablets than your doctor recommends, call your doctor or go to the nearest hospital emergency room right away. • If you miss a dose, do not double your next dose.
+Skip the dose you missed and take your next regular dose. • Do not stop taking pramipexole dihydrochloride without talking to your doctor first.
+If your doctor tells you to stop taking pramipexole dihydrochloride tablets, you should ask your doctor for specific instructions on how to safely discontinue taking pramipexole dihydrochloride.
+If you stop pramipexole dihydrochloride tablets you may have withdrawal symptoms (see “withdrawal symptoms” under “What are the possible side effects of pramipexole dihydrochloride?”).
 
 What should I avoid while taking pramipexole dihydrochloride tablets?
 
@@ -92,8 +79,7 @@ You may have:
 - dizziness
 - nausea
 - fainting
-
-• sweating
+- sweating
 
 Sit and stand up slowly after you have been sitting or lying down.
 
@@ -181,7 +167,7 @@ For additional information, you may also call at 1-800-912-9561.
 
 What are the ingredients in pramipexole dihydrochloride tablets?
 
-Active Ingredient: pramipexole dihydrochloride monohydrate, USP
+Active Ingredient: pramipexole dihydrochloride USP
 
 Inactive Ingredients: colloidal silicon dioxide, corn starch, ferric oxide red (0.25, 0.5 and 1 mg tablets), ferric oxide yellow (0.25 and 0.75 mg tablets), magnesium stearate, mannitol, povidone K-30 and pregelatinized maize starch.
 
@@ -197,4 +183,4 @@ Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8089829 Revised: October 2022
+8093572 Revised: July 2023

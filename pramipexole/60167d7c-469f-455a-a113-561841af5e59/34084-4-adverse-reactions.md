@@ -88,7 +88,7 @@ In these studies, pramipexole dihydrochloride tablets or placebo was administere
 
 Table 5 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride Tablets in Advanced Parkinson's Disease
 
-| Body System/Adverse Event | Pramipexole Dihydrochloride Tablets(N=260)% | Placebo(N=264)% |
+| Body System/Adverse Reaction | Pramipexole Dihydrochloride Tablets(N=260)% | Placebo(N=264)% |
 | --- | --- | --- |
 | Nervous System |  |  |
 | Dyskinesia | 47 | 31 |
