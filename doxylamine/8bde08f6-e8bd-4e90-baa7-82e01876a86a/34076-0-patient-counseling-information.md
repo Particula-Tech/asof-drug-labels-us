@@ -16,6 +16,6 @@ DICLEGIS® is a registered trademark of Duchesnay Inc.
 
 U.S. Patent Nos. 6,340,695 & 7,560,122.
 
-Distributed by: Duchesnay USA, Inc. Bryn Mawr, PA, 19010 Tel: 1-855-722-7734 Fax: 1-888-588-8508 www.duchesnayusa.com
+Distributed by: Duchesnay USA, Inc. Princeton, NJ 08540 Tel: 1-855-722-7734 Fax: 1-888-588-8508 www.duchesnayusa.com
 
 ©2018, Duchesnay Inc. All rights reserved.
