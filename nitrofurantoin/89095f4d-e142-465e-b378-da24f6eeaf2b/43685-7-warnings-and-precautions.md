@@ -9,7 +9,7 @@ REPORTS HAVE CITED PULMONARY REACTIONS AS A CONTRIBUTING CAUSE OF DEATH.
 CHRONIC PULMONARY REACTIONS (DIFFUSE INTERSTITIAL PNEUMONITIS OR PULMONARY FIBROSIS, OR BOTH) CAN DEVELOP INSIDIOUSLY.
 THESE REACTIONS OCCUR RARELY AND GENERALLY IN PATIENTS RECEIVING THERAPY FOR SIX MONTHS OR LONGER.
 CLOSE MONITORING OF THE PULMONARY CONDITION OF PATIENTS RECEIVING LONG-TERM THERAPY IS WARRANTED AND REQUIRES THAT THE BENEFITS OF THERAPY BE WEIGHED AGAINST POTENTIAL RISKS.
-(see RESPIRATORY REACTIONS.)
+(see RESPIRATORY REACTIONS).
 
 Hepatotoxicity
 
@@ -34,9 +34,9 @@ Hemolysis appears to be linked to a glucose-6-phosphate dehydrogenase deficiency
 This deficiency is found in 10 percent of Blacks and a small percentage of ethnic groups of Mediterranean and Near-Eastern origin.
 Hemolysis is an indication for discontinuing Nitrofurantoin; hemolysis ceases when the drug is withdrawn.
 
-Clostridium difficile-associated diarrhea
+Clostridioides difficile-associated diarrhea
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Nitrofurantoin Oral Suspension, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including nitrofurantoin oral suspension, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -51,13 +51,13 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 ## INFORMATION FOR PATIENTS
 
+Instruct patients or caregivers to use an oral dosing syringe to correctly measure the prescribed amount of Nitrofurantoin.
+Inform patients or caregivers that an appropriate size oral dosing syringe with graduations that align with the volume prescribed may be obtained from their pharmacy.
 Patients should be advised to take Nitrofurantoin with food to further enhance tolerance and improve drug absorption.
 Patients should be instructed to complete the full course of therapy; however, they should be advised to contact their physician if any unusual symptoms should occur during therapy.
-
 Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
 If this occurs, patients should contact their physician as soon as possible.
-
 Patients should be advised not to use antacid preparations containing magnesium trisilicate while taking Nitrofurantoin.
 
 ## DRUG INTERACTIONS
