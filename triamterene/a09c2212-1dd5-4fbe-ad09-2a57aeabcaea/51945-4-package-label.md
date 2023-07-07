@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - TRIAMTERENE 50 MG
 
-Prasco NDC 66993-832-02 100 Capsules Triamterene Capsules 50 mg Rx Only
+Prasco NDC 66993-831-02 100 Capsules Triamterene Capsules 50 mg Rx Only
 
 # PRINCIPAL DISPLAY PANEL - TRIAMTERENE 100 MG
 
