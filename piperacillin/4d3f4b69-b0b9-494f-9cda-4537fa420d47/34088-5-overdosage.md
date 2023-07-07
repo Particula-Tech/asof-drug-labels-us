@@ -1,9 +1,9 @@
 # 10 OVERDOSAGE
 
-There have been post-marketing reports of overdose with piperacillin/tazobactam.
+There have been post-marketing reports of overdose with piperacillin and tazobactam.
 The majority of those events experienced, including nausea, vomiting, and diarrhea, have also been reported with the usual recommended dosages.
 Patients may experience neuromuscular excitability or seizures if higher than recommended doses are given intravenously (particularly in the presence of renal failure) [see Warnings and Precautions (5.5)].
 
-Treatment should be supportive and symptomatic according the patient’s clinical presentation.
+Treatment should be supportive and symptomatic according to the patient’s clinical presentation.
 Excessive serum concentrations of either piperacillin or tazobactam may be reduced by hemodialysis.
-Following a single 3.375 g dose of piperacillin/tazobactam, the percentage of the piperacillin and tazobactam dose removed by hemodialysis was approximately 31% and 39%, respectively [see Clinical Pharmacology (12)].
+Following a single 3.375 g dose of piperacillin and tazobactam, the percentage of the piperacillin and tazobactam dose removed by hemodialysis was approximately 31% and 39%, respectively [see Clinical Pharmacology (12)].
