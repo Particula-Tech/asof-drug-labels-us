@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "BLA761071"
+  ],
+  "inn": "adalimumab",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "61314-454-20",
+    "61314-454-36",
+    "61314-454-68",
+    "61314-473-20",
+    "61314-473-64",
+    "61314-476-64",
+    "61314-509-64",
+    "61314-517-36",
+    "61314-531-64"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "adalimumab-adaz",
+      "name": "HYRIMOZ"
+    },
+    {
+      "form": "KIT",
+      "generic": "adalimumab-adaz",
+      "name": "HYRIMOZ"
+    }
+  ],
+  "setid": "1ac7d061-3380-468c-b077-c05f8dfbc829",
+  "source": "dailymed"
+}
