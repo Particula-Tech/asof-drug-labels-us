@@ -51,12 +51,12 @@ It is advised to use TOLSURA Capsules in these patients only if it is determined
 In general, it is recommended that the dose selection for an elderly patient should be taken into consideration, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 Reversible or permanent hearing loss has been reported in elderly patients receiving treatment with itraconazole.
-Several of these reports included concurrent administration of quinidine which is contraindicated [see Boxed Warning, Contraindications (4.1) and Drug Interactions (7.1)].
+Several of these reports included concurrent administration of quinidine which is contraindicated [see Boxed Warning, Contraindications (4.1)and Drug Interactions (7.1)].
 
 ## 8.6 Renal Impairment
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
-It is recommended that patients with renal impairment be carefully monitored when taking TOLSURA [see Clinical Pharmacology (12) and Warnings and Precautions (5.1)].
+It is recommended that patients with renal impairment be carefully monitored when taking TOLSURA [see Clinical Pharmacology (12)and Warnings and Precautions (5.1)].
 
 ## 8.7 Hepatic Impairment
 
@@ -65,4 +65,4 @@ It is recommended that patients with impaired hepatic function be carefully moni
 It is recommended that the prolonged elimination half-life of itraconazole observed in the single oral dose clinical trial with itraconazole capsules in cirrhotic patients be considered when deciding to initiate therapy with other medications metabolized by CYP3A4 [see Clinical Pharmacology (12.3)].
 
 In patients with elevated or abnormal liver enzymes or active liver disease, or who have experienced liver toxicity with other drugs, treatment with TOLSURA is strongly discouraged unless there is a serious or life-threatening situation where the expected benefit exceeds the risk.
-It is recommended that liver function monitoring be done in patients with pre-existing hepatic function abnormalities or those who have experienced liver toxicity with other medications [see Clinical Pharmacology (12) and Warnings and Precautions (5.2)].
+It is recommended that liver function monitoring be done in patients with pre-existing hepatic function abnormalities or those who have experienced liver toxicity with other medications [see Clinical Pharmacology (12)and Warnings and Precautions (5.2)].

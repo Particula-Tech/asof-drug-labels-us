@@ -22,7 +22,7 @@ Such signs and symptoms may include unusual fatigue, anorexia, nausea and/or vom
 Use with Proton Pump Inhibitors and Potential Drug Interactions
 
 Advise patients to discuss with their physician the use of TOLSURA with proton pump inhibitors, such as omeprazole.
-Instruct patients to contact their physician before taking any other concomitant medications with TOLSURA to ensure there are no potential drug interactions [see Contraindications (4.1, 4.2), Warnings and Precautions (5.4) and Drug interactions (7.2)].
+Instruct patients to contact their physician before taking any other concomitant medications with TOLSURA to ensure there are no potential drug interactions [see Contraindications (4.1, 4.2), Warnings and Precautions (5.4)and Drug interactions (7.2)].
 
 Hearing Loss
 

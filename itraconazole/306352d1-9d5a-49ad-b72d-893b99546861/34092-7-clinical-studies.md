@@ -4,7 +4,7 @@ Overview of the Clinical Studies
 
 Clinical studies in invasive mycoses listed in this section were conducted with itraconazole 100 mg capsules.
 Dosage for TOLSURA is different from that of other itraconazole formulations.
-TOLSURA is not interchangeable or substitutable with other itraconazole products [see Indications and Usage (1), Dosage and Administration (2) and Clinical Pharmacology (12.3)]
+TOLSURA is not interchangeable or substitutable with other itraconazole products [see Indications and Usage (1), Dosage and Administration (2)and Clinical Pharmacology (12.3)]
 
 ## 14.1 Blastomycosis
 

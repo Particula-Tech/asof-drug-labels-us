@@ -12,7 +12,7 @@ Although the occurrence of squamous cell carcinoma in the lung is extremely unco
 
 Mutagenesis
 
-Itraconazole produced no mutagenic effects when assayed in DNA repair test (unscheduled DNA synthesis) in primary rat hepatocytes, in Ames tests with Salmonella typhimurium (6 strains) and Escherichia coli, in the mouse lymphoma gene mutation tests, in a sex-linked recessive lethal mutation (Drosophila melanogaster) test, in chromosome aberration tests in human lymphocytes, in a cell transformation test with C3H/10T½ C18 mouse embryo fibroblasts cells, in a dominant lethal mutation test in male and female mice, and in micronucleus tests in mice and rats.
+Itraconazole produced no mutagenic effects when assayed in DNA repair test (unscheduled DNA synthesis) in primary rat hepatocytes, in Ames tests with Salmonella typhimurium(6 strains) and Escherichia coli, in the mouse lymphoma gene mutation tests, in a sex-linked recessive lethal mutation (Drosophila melanogaster) test, in chromosome aberration tests in human lymphocytes, in a cell transformation test with C3H/10T½ C18 mouse embryo fibroblasts cells, in a dominant lethal mutation test in male and female mice, and in micronucleus tests in mice and rats.
 
 Impairment of Fertility
 

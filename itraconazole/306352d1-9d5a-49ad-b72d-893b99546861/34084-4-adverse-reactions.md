@@ -36,7 +36,7 @@ Table 2: Clinical Trials of Systemic Fungal Infections: Adverse Reactions Occurr
 | Fever | 3 |
 | Malaise | 1 |
 | Skin and Appendages |  |
-| RashRash tends to occur more frequently in immunocompromised patients receiving immunosuppressive medications. | 9 |
+| Rash Rash tends to occur more frequently in immunocompromised patients receiving immunosuppressive medications. | 9 |
 | Pruritus | 3 |
 | Central/Peripheral Nervous System |  |
 | Headache | 4 |
@@ -61,27 +61,27 @@ Adverse Reactions Reported from Other Clinical Trials
 
 In addition, the following adverse reactions were reported in itraconazole-treated patients who participated in clinical trials:
 
-Hepatobiliary Disorders: hyperbilirubinemia;
+Hepatobiliary Disorders:hyperbilirubinemia;
 
-Cardiac Disorders: cardiac failure, left ventricular failure, tachycardia;
+Cardiac Disorders:cardiac failure, left ventricular failure, tachycardia;
 
-General Disorders and Administration Site Conditions: face edema, chest pain, chills;
+General Disorders and Administration Site Conditions:face edema, chest pain, chills;
 
-Hepatobiliary Disorders: hepatic failure, jaundice;
+Hepatobiliary Disorders:hepatic failure, jaundice;
 
-Investigations: alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood lactate dehydrogenase increased, blood urea increased, gammaglutamyltransferase increased, urine analysis abnormal;
+Investigations:alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood lactate dehydrogenase increased, blood urea increased, gammaglutamyltransferase increased, urine analysis abnormal;
 
-Metabolism and Nutrition Disorders: hyperglycemia, hyperkalemia, hypomagnesemia;
+Metabolism and Nutrition Disorders:hyperglycemia, hyperkalemia, hypomagnesemia;
 
-Psychiatric Disorders: confusional state;
+Psychiatric Disorders:confusional state;
 
-Renal and Urinary Disorders: renal impairment;
+Renal and Urinary Disorders:renal impairment;
 
-Respiratory, Thoracic and Mediastinal Disorders: dysphonia, cough;
+Respiratory, Thoracic and Mediastinal Disorders:dysphonia, cough;
 
-Skin and Subcutaneous Tissue Disorders: hyperhidrosis;
+Skin and Subcutaneous Tissue Disorders:hyperhidrosis;
 
-Vascular Disorders: hypotension
+Vascular Disorders:hypotension
 
 ## 6.2 Postmarketing Experience
 

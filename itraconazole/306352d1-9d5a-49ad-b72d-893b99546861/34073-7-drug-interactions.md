@@ -22,12 +22,12 @@ Table 4: Drug Interactions with TOLSURA that Affect Concomitant Drug Concentrati
 | Analgesics |  |  |
 | Methadone |  | Contraindicated during and 2 weeks after TOLSURA treatment. |
 | Fentanyl |  | Not recommended during and 2 weeks after TOLSURA treatment. |
-| Alfentanil Buprenorphine (IV and sublingual) OxycodoneBased on clinical drug interaction information with itraconazole. Sufentanil |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
+| Alfentanil Buprenorphine (IV and sublingual) Oxycodone Based on clinical drug interaction information with itraconazole. Sufentanil |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Antiarrhythmics |  |  |
 | Disopyramide Dofetilide Dronedarone Quinidine |  | Contraindicated during and 2 weeks after TOLSURA treatment. |
 | Digoxin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Antibacterials |  |  |
-| BedaquilineBased on 400 mg Bedaquiline once daily for 2 weeks. |  | Concomitant TOLSURA not recommended for more than 2 weeks at any time during bedaquiline treatment. |
+| Bedaquiline Based on 400 mg Bedaquiline once daily for 2 weeks. |  | Concomitant TOLSURA not recommended for more than 2 weeks at any time during bedaquiline treatment. |
 | Rifabutin |  | Not recommended 2 weeks before, during, and 2 weeks after TOLSURA treatment. See also Table 5. |
 | Clarithromycin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. See also Table 5. |
 | Trimetrexate |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
@@ -66,7 +66,7 @@ Table 4: Drug Interactions with TOLSURA that Affect Concomitant Drug Concentrati
 | Diltiazem Other dihydropyridines Verapamil |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For diltiazem, see also Table 5. |
 | Cardiovascular Drugs, Miscellaneous |  |  |
 | Ivabradine Ranolazine |  | Contraindicated during and 2 weeks after TOLSURA treatment. |
-| Aliskiren Riociguat Sildenafil (for pulmonary hypertension) Tadalafil (for pulmonary hypertension) |  | Not recommended during and 2 weeks after TOLSURA treatment. For sildenafil and tadalafil, see also Urologic Drugs below. |
+| Aliskiren Riociguat Sildenafil (for pulmonary hypertension) Tadalafil (for pulmonary hypertension) |  | Not recommended during and 2 weeks after TOLSURA treatment. For sildenafil and tadalafil, see also Urologic Drugsbelow. |
 | Bosentan Guanfacine |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Contraceptives |  |  |
 | Dienogest Ulipristal |  | Monitor for adverse reactions. |
@@ -91,10 +91,10 @@ Table 4: Drug Interactions with TOLSURA that Affect Concomitant Drug Concentrati
 | Fesoterodine |  | Patients with moderate to severe renal or hepatic impairment: Contraindicated during and 2 weeks after TOLSURA treatment. Other patients: Monitor for adverse reactions. Concomitant drug dose reduction may be necessary |
 | Solifenacin |  | Patients with severe renal or moderate to severe hepatic impairment: Contraindicated during and 2 weeks after TOLSURA treatment. Other patients: Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Darifenacin Vardenafil |  | Not recommended during and 2 weeks after TOLSURA treatment. |
-| Dutasteride Oxybutynin Sildenafil (for erectile dysfunction) Tadalafil (for erectile dysfunction and benign prostatic hyperplasia) Tolterodine |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For sildenafil and tadalafil, see also Cardiovascular Drugs above. |
+| Dutasteride Oxybutynin Sildenafil (for erectile dysfunction) Tadalafil (for erectile dysfunction and benign prostatic hyperplasia) Tolterodine |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For sildenafil and tadalafil, see also Cardiovascular Drugsabove. |
 | Miscellaneous Drugs and Other Substances |  |  |
-| Colchicine |  | Patients with renal or hepatic impairment: Contraindicated during and 2 weeks after TOLSURA treatment. Other patients: Not recommended during and 2 weeks after TOLSURA treatment. |
-| Eliglustat |  | CYP2D6 EMsEMs: extensive metabolizers; IMs: intermediate metabolizers, PMs: poor metabolizers. taking a strong or moderate CYP2D6 inhibitor, CYP2D6 IMs, or CYP2D6 PMs: Contraindicated during and 2 weeks after TOLSURA treatment. CYP2D6 EMs not taking a strong or moderate CYP2D6 inhibitor: Monitor for adverse reactions. Eliglustat dose reduction may be necessary. |
+| Colchicine |  | Patients with renal or hepatic impairment:Contraindicated during and 2 weeks after TOLSURA treatment. Other patients: Not recommended during and 2 weeks after TOLSURA treatment. |
+| Eliglustat |  | CYP2D6 EMs EMs: extensive metabolizers; IMs: intermediate metabolizers, PMs: poor metabolizers.taking a strong or moderate CYP2D6 inhibitor, CYP2D6 IMs, or CYP2D6 PMs: Contraindicated during and 2 weeks after TOLSURA treatment. CYP2D6 EMs not taking a strong or moderate CYP2D6 inhibitor: Monitor for adverse reactions. Eliglustat dose reduction may be necessary. |
 | Lumacaftor/Ivacaftor |  | Not recommended 2 weeks before, during, and 2 weeks after TOLSURA treatment. |
 | Alitretinoin (oral) Cabergoline Cannabinoids Cinacalcet Ivacaftor |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Vasopressin Receptor Antagonists |  |  |
@@ -126,7 +126,7 @@ Table 5: Drug Interactions with Other Drugs that Affect TOLSURA Concentrations
 | --- | --- |
 | Drug Interactions with Other Drugs that Increase TOLSURA Concentrations and May Increase Risk of Adverse Reactions Associated with TOLSURA |  |
 | Antibacterials |  |
-| CiprofloxacinBased on clinical drug interaction information with itraconazole. Erythromycin Clarithromycin | Monitor for adverse reactions. TOLSURA dose reduction may be necessary. |
+| Ciprofloxacin Based on clinical drug interaction information with itraconazole. Erythromycin Clarithromycin | Monitor for adverse reactions. TOLSURA dose reduction may be necessary. |
 | Antineoplastics |  |
 | Idelalisib | Monitor for adverse reactions. TOLSURA dose reduction may be necessary. See also Table 4. |
 | Antivirals |  |
@@ -134,7 +134,7 @@ Table 5: Drug Interactions with Other Drugs that Affect TOLSURA Concentrations
 | Calcium Channel Blockers |  |
 | Diltiazem | Monitor for adverse reactions. TOLSURA dose reduction may be necessary. See also Table 4. |
 | Gastrointestinal Drugs |  |
-| Drugs that reduce gastric acidity e.g. acid neutralizing medicines such as aluminum hydroxide, or acid secretion suppressors such as H2- receptor antagonists and proton pump inhibitors (e.g., omeprazole). | Co-administration of these drugs, including omeprazole, with TOLSURA increases the systemic exposure to itraconazole. Monitor for adverse reactions. TOLSURA dose reduction may be necessary [see Clinical Pharmacology (12.3)]. |
+| Drugs that reduce gastric acidity e.g. acid neutralizing medicines such as aluminum hydroxide, or acid secretion suppressors such as H 2- receptor antagonists and proton pump inhibitors (e.g., omeprazole). | Co-administration of these drugs, including omeprazole, with TOLSURA increases the systemic exposure to itraconazole. Monitor for adverse reactions. TOLSURA dose reduction may be necessary [see Clinical Pharmacology (12.3)]. |
 | Drug Interactions with Other Drugs that Decrease TOLSURA Concentrations and May Reduce Efficacy of TOLSURA |  |
 | Antibacterials |  |
 | Isoniazid Rifampicin | Not recommended 2 weeks before and during TOLSURA treatment. |

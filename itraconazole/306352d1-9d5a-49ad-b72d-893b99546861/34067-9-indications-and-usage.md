@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-TOLSURA is indicated for the treatment of the following fungal infections in immunocompromised and non-immunocompromised adult patients:
+TOLSURA is indicated for the treatment of the following fungal infections in immunocompromised and non-immunocompromisedadult patients:
 
 - Blastomycosis, pulmonary and extrapulmonary
 - Histoplasmosis, including chronic cavitary pulmonary disease and disseminated, non-meningeal histoplasmosis, and

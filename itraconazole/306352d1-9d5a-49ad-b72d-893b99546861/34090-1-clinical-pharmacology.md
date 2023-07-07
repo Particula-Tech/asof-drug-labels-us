@@ -10,18 +10,18 @@ General Pharmacokinetic Characteristics
 
 The steady-state pharmacokinetics of itraconazole following administration of a 130 mg twice daily dose regimen of TOLSURA (2 × 65 mg) was compared with a 200 mg twice daily dose regimen of itraconazole capsules (2 × 100 mg) immediately after a meal for 14.5 days in 16 healthy volunteers; the results from this study are presented in Table 6 below
 
-Table 6: Pharmacokinetics of Itraconazole Following Administration of TOLSURA and Itraconazole Capsules Given Twice Daily for 14.5 Days Under Fed ConditionsStandardized high-fat, high-calorie breakfast was given 30 minutes prior to dosing on the morning of Day 15; standardized meals given prior to all other doses. in 16 Healthy Subjects
+Table 6: Pharmacokinetics of Itraconazole Following Administration of TOLSURA and Itraconazole Capsules Given Twice Daily for 14.5 Days Under Fed Conditions Standardized high-fat, high-calorie breakfast was given 30 minutes prior to dosing on the morning of Day 15; standardized meals given prior to all other doses.in 16 Healthy Subjects
 
-| ParameterGeometric means ± standard deviation,Tmax presented as median (range) | TOLSURA 130 mg twice daily (2 × 65 mg Capsules) | Itraconazole 200 mg twice daily (2 × 100 mg Capsules) |
+| Parameter Geometric means ± standard deviation,T max presented as median (range) | TOLSURA 130 mg twice daily (2 × 65 mg Capsules) | Itraconazole 200 mg twice daily (2 × 100 mg Capsules) |
 | --- | --- | --- |
-| AUC0-tau (hr*mcg/ml) | 15.6 ± 3.7 | 14.9 ±3.8 |
-| Ctrough (mcg/ml) | 1.2 ±0.4 | 1.0±0.3 |
-| Cmax,ss (mcg/ml) | 1.6 ±0.4 | 1.5 ±0.4 |
-| Tmax,ss (h) | 7.0 (1-10) | 5.0 (1-8) |
+| AUC 0-tau (hr*mcg/ml) | 15.6 ± 3.7 | 14.9 ±3.8 |
+| C trough (mcg/ml) | 1.2 ±0.4 | 1.0±0.3 |
+| C max,ss (mcg/ml) | 1.6 ±0.4 | 1.5 ±0.4 |
+| T max,ss (h) | 7.0 (1-10) | 5.0 (1-8) |
 
 Peak plasma concentrations of itraconazole after administration of a single dose of TOLSURA are reached within 2 to 6 hours following oral administration in either the fasted or fed states.
 As a consequence of non-linear pharmacokinetics, itraconazole accumulates in plasma during multiple dosing of TOLSURA.
-Steady-state concentrations are generally reached within about 15 days, with mean Cmax values of 0.6 mcg/ml and 1.7 mcg/ml after oral administration of 130 mg once daily and 130 mg twice daily, respectively
+Steady-state concentrations are generally reached within about 15 days, with mean C maxvalues of 0.6 mcg/ml and 1.7 mcg/ml after oral administration of 130 mg once daily and 130 mg twice daily, respectively
 
 Absorption
 
@@ -35,14 +35,14 @@ Table 7: Pharmacokinetic Parameters of Itraconazole Following Administration of 
 
 | Parameter | Treatment | Geometric Mean | Fed/Fasted Ratio (%) | 90% Confidence Interval |
 | --- | --- | --- | --- | --- |
-| Cmax_ss (mcg/mL) | Fed | 1.4 ± 0.6 | 73.7 | 69.0, 77.3 |
+| C max_ss (mcg/mL) | Fed | 1.4 ± 0.6 | 73.7 | 69.0, 77.3 |
 | Fasted | 1.9 ± 0.9 |  |  |  |
-| Ctrough,ss (mcg/mL) | Fed | 1.0 ± 0.3 | 90.0 | 86.4, 97.0 |
+| C trough,ss (mcg/mL) | Fed | 1.0 ± 0.3 | 90.0 | 86.4, 97.0 |
 | Fasted | 1.1 ± 0.6 |  |  |  |
-| AUCtau (hr*mcg/mL) | Fed | 13.4 ± 5.0 | 78.4 | 74.5, 81.9 |
+| AUC tau (hr*mcg/mL) | Fed | 13.4 ± 5.0 | 78.4 | 74.5, 81.9 |
 | Fasted | 17.1 ± 8.0 |  |  |  |
 |  |  | Median | Range |  |
-| Tmax (hr) | Fed | 4.00 | 0.5 to 10 |  |
+| T max (hr) | Fed | 4.00 | 0.5 to 10 |  |
 | Fasted | 3.50 | 0.5 to 5 |  |  |
 
 Distribution
@@ -61,7 +61,7 @@ The terminal half-life of itraconazole following repeated dose administration of
 Metabolism
 
 Itraconazole is extensively metabolized by the liver into a large number of metabolites.
-In vitro studies have shown that CYP3A4 is the major enzyme involved in the metabolism of itraconazole.
+In vitrostudies have shown that CYP3A4 is the major enzyme involved in the metabolism of itraconazole.
 The main metabolite is hydroxy-itraconazole, which has in vitro antifungal activity comparable to itraconazole; trough plasma concentrations of this metabolite are about twice those of itraconazole.
 
 Excretion
@@ -79,8 +79,8 @@ Patients with Renal Impairment
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
 A pharmacokinetic study using a single 200-mg oral dose of itraconazole was conducted in three groups of patients with renal impairment (uremia: n=7; hemodialysis: n=7; and continuous ambulatory peritoneal dialysis: n=5).
-In uremic subjects with a mean creatinine clearance of 13 mL/min. × 1.73 m2, the exposure, based on AUC, was slightly reduced compared with normal population parameters.
-This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (tmax, Cmax, and AUC0-8h).
+In uremic subjects with a mean creatinine clearance of 13 mL/min. × 1.73 m 2, the exposure, based on AUC, was slightly reduced compared with normal population parameters.
+This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (t max, C max, and AUC 0-8h).
 Plasma concentration versus-time profiles showed wide intersubject variation in all three groups.
 After a single intravenous versus-time profiles showed wide intersubject variation in all three groups.
 
@@ -93,7 +93,7 @@ Patients with Hepatic Impairment
 
 Itraconazole is predominantly metabolized in the liver.
 A pharmacokinetic study was conducted in 6 healthy and 12 cirrhotic subjects who were administered a single 100-mg dose of itraconazole capsules.
-A statistically significant reduction in mean Cmax (47%) and a twofold increase in the elimination half-life (37 ± 17 hours vs. 16 ± 5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
+A statistically significant reduction in mean C max(47%) and a twofold increase in the elimination half-life (37 ± 17 hours vs. 16 ± 5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
 However, overall exposure to itraconazole, based on AUC, was similar in cirrhotic patients and in healthy subjects.
 Data are not available in cirrhotic patients during long-term use of itraconazole.
 
@@ -102,37 +102,37 @@ Drug Interaction Studies
 Omeprazole
 
 The effect of multiple daily oral 40 mg doses (steady-state conditions) of the proton pump inhibitor, omeprazole, on the exposure to itraconazole from a single 130 mg dose of TOLSURA (2 × 65 mg capsules) when dosed under fasted conditions was evaluated in 30 healthy adult subjects.
-As illustrated in Table 8 below, the mean itraconazole AUC∞ was 22% higher and mean Cmax 31% higher when TOLSURA was co-administered with omeprazole.
+As illustrated in Table 8 below, the mean itraconazole AUC ∞was 22% higher and mean C max31% higher when TOLSURA was co-administered with omeprazole.
 
 Table 8: Pharmacokinetics of Itraconazole Following Single Dose Administration of TOLSURA 130 mg (2 × 65mg capsules) Alone or with Omeprazole 40 mg QD Administered for 7 Days Under Fasted Conditions in Healthy Volunteers
 
-| Parameter | Treatment ATreatment A: TOLSURA Mean ±SD | Treatment A + BTreatment B: Omeprazole Mean ±SD | Treatment A+B vs Treatment A Ratio % | 90% Confidence Interval |
+| Parameter | Treatment A Treatment A: TOLSURA Mean ±SD | Treatment A + B Treatment B: Omeprazole Mean ±SD | Treatment A+B vs Treatment A Ratio % | 90% Confidence Interval |
 | --- | --- | --- | --- | --- |
-| AUC∞ (h∙ng/mL) | 2846.3 ±1644.4 | 3477.9 ± 1572.6 | 122.2 | 108.7, 137.3 |
-| Cmax (ng/mL) | 212.9 ± 119.1 | 278.8 ±106.8 | 130.9 | 111.4, 153.8 |
-| TmaxTmax is given as median (Range) (h) | 3.5 (2.0 -5.0) | 3.3 (1.5 – 5.0) | - | - |
+| AUC ∞ (h∙ng/mL) | 2846.3 ±1644.4 | 3477.9 ± 1572.6 | 122.2 | 108.7, 137.3 |
+| C max (ng/mL) | 212.9 ± 119.1 | 278.8 ±106.8 | 130.9 | 111.4, 153.8 |
+| T maxT max is given as median (Range) (h) | 3.5 (2.0 -5.0) | 3.3 (1.5 – 5.0) | - | - |
 
 ## 12.4 Microbiology
 
 Mechanism of Action
 
-In vitro studies have demonstrated that itraconazole inhibits the cytochrome P450-dependent, 14C-demethylation of ergosterol, which is a vital component of fungal cell membranes.
+In vitrostudies have demonstrated that itraconazole inhibits the cytochrome P450-dependent, 14C-demethylation of ergosterol, which is a vital component of fungal cell membranes.
 
 Resistance
 
-Isolates from several fungal species with decreased susceptibility to itraconazole have been isolated in vitro and from patients receiving prolonged therapy.
-Several in vitro studies have reported that some fungal clinical isolates with reduced susceptibility to one azole antifungal agent may also be less susceptible to other azole derivatives.
+Isolates from several fungal species with decreased susceptibility to itraconazole have been isolated in vitroand from patients receiving prolonged therapy.
+Several in vitrostudies have reported that some fungal clinical isolates with reduced susceptibility to one azole antifungal agent may also be less susceptible to other azole derivatives.
 The finding of cross-resistance is dependent on a number of factors, including the species evaluated, its clinical history, the particular azole compounds compared, and the type of susceptibility test performed.
 
-Itraconazole is not active against Zygomycetes (e.g., Rhizopus spp., Rhizomucor spp., Mucor spp. and Absidia spp.), Fusarium spp., Scedosporium spp. and Scopulariopsis spp.
+Itraconazole is not active against Zygomycetes(e.g., Rhizopusspp., Rhizomucorspp., Mucorspp. and Absidiaspp.), Fusariumspp., Scedosporiumspp. and Scopulariopsisspp.
 
 Interaction with Other Antimicrobials
 
-Studies (both in vitro and in vivo) suggest that the activity of amphotericin B may be suppressed by prior azole antifungal therapy.
-Ergosterol is the active site for amphotericin B. In one study, the antifungal activity of amphotericin B against Aspergillus fumigatus infections in mice was inhibited by ketoconazole therapy.
+Studies (both in vitroand in vivo) suggest that the activity of amphotericin B may be suppressed by prior azole antifungal therapy.
+Ergosterol is the active site for amphotericin B. In one study, the antifungal activity of amphotericin B against Aspergillus fumigatusinfections in mice was inhibited by ketoconazole therapy.
 The clinical significance of this finding is unknown.
 
 Antifungal Activity
 
-Itraconazole exhibits in vitro activity against Blastomyces dermatitidis, Histoplasma capsulatum, Histoplasma duboisii, Aspergillus flavus, Aspergillus fumigatus, and Trichophyton species [see Indications and Usage (1)].
-Correlation between minimum inhibitory concentration (MIC) results in vitro and clinical outcome has yet to be established for azole antifungal agents.
+Itraconazole exhibits in vitroactivity against Blastomyces dermatitidis, Histoplasma capsulatum, Histoplasma duboisii, Aspergillus flavus, Aspergillus fumigatus,and Trichophytonspecies [see Indications and Usage (1)].
+Correlation between minimum inhibitory concentration (MIC) results in vitroand clinical outcome has yet to be established for azole antifungal agents.
