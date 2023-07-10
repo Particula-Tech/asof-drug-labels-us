@@ -14,8 +14,7 @@ Ask the healthcare provider who prescribed dabigatran etexilate capsules for you
 Your healthcare provider will tell you when you may start taking dabigatran etexilate capsules again after your surgery or procedure.
 If you have to stop taking dabigatran etexilate capsules, your healthcare provider may prescribe another medicine to help prevent a blood clot from forming. • Dabigatran etexilate capsules can cause bleeding which can be serious, and sometimes lead to death.
 This is because dabigatran etexilate capsules are a blood thinner medicine that lowers the chance of blood clots forming in your body. • You may have a higher risk of bleeding if you take dabigatran etexilate capsules and: o are over 75 years old o have kidney problems o have stomach or intestine bleeding that is recent or keeps coming back, or you have a stomach ulcer o take other medicines that increase your risk of bleeding, including:  aspirin or aspirin-containing products  long-term (chronic) use of non-steroidal anti-inflammatory drugs (NSAIDs)  • a medicine that contains warfarin sodium  • a medicine that contains heparin  • a medicine that contains clopidogrel bisulfate  • a medicine that contains prasugrel o have certain kidney problems and also take a medicine that contains dronedarone or ketoconazole tablets.
-Tell your healthcare provider if you take any of these medicines.
-Ask your healthcare provider or pharmacist if you are not sure if your medicine is one listed above. • Dabigatran etexilate capsules can increase your risk of bleeding because it lessens the ability of your blood to clot.
+Tell your healthcare provider if you take any of these medicines.Ask your healthcare provider or pharmacist if you are not sure if your medicine is one listed above. • Dabigatran etexilate capsules can increase your risk of bleeding because it lessens the ability of your blood to clot.
 During treatment with dabigatran etexilate capsules: o you may bruise more easily o it may take longer for any bleeding to stop Call your healthcare provider or get medical help right away if you have any of these signs or symptoms of bleeding: o unexpected bleeding or bleeding that lasts a long time, such as:  • unusual bleeding from the gums  • nose bleeds that happen often  • menstrual bleeding or vaginal bleeding that is heavier than normal o bleeding that is severe or you cannot control o pink or brown urine o red or black stools (looks like tar) o bruises that happen without a known cause or get larger o cough up blood or blood clots o vomit blood or your vomit looks like “coffee grounds” o unexpected pain, swelling, or joint pain o headaches, feeling dizzy or weak Take dabigatran etexilate capsules exactly as prescribed.
 Do not stop taking dabigatran etexilate capsules without first talking to the healthcare provider who prescribes it for you.
 Stopping dabigatran etexilate capsules may increase your risk of a stroke. • Spinal or epidural blood clots (hematoma).
@@ -34,14 +33,14 @@ See the end of this Medication Guide for a complete list of ingredients in dabig
 Ask your healthcare provider if you are not sure. • have ever had or plan to have a valve in your heart replaced with a mechanical (artificial) prosthetic heart valve Before taking dabigatran etexilate capsules, tell your healthcare provider about all of your medical conditions, including if you: • have kidney problems • have ever had bleeding problems • have ever had stomach ulcers • have antiphospholipid syndrome (APS) • are pregnant or plan to become pregnant.
 It is not known if dabigatran etexilate capsules will harm your unborn baby.
 Tell your healthcare provider right away if you become pregnant during treatment with dabigatran etexilate capsules.
-Females who are able to become pregnant: Talk with your healthcare provider about pregnancy planning during treatment with dabigatran etexilate capsules.
+Females who are able to become pregnant:Talk with your healthcare provider about pregnancy planning during treatment with dabigatran etexilate capsules.
 Talk with your healthcare provider about your risk for severe uterine bleeding if you are treated with blood thinner medicines, including dabigatran etexilate capsules. • are breastfeeding or plan to breastfeed.
 It is not known if dabigatran etexilate passes into your breast milk.
 You should not breastfeed during treatment with dabigatran etexilate capsules.
 Talk to your healthcare provider about the best way to feed your baby during treatment with dabigatran etexilate capsules.
 Tell all of your healthcare providers and dentists that you are taking dabigatran etexilate capsules.
 They should talk to the healthcare provider who prescribed dabigatran etexilate capsules for you before you have any surgery or a medical or dental procedure.
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, includingprescription and over-the-counter medicines, vitamins, and herbal supplements.
 Some of your other medicines may affect the way dabigatran etexilate capsules work.
 Certain medicines may increase your risk of bleeding.
 See “What is the most important information I should know about dabigatran etexilate capsules?”
@@ -50,11 +49,11 @@ Know the medicines you take.
 Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine.
 How should I take dabigatran etexilate capsules? • Your healthcare provider will decide how long you should take dabigatran etexilate capsules.
 Do not stop taking dabigatran etexilate capsules without first talking with your healthcare provider.
-Stopping dabigatran etexilate capsules may increase your risk of having a stroke or forming blood clots. • Take dabigatran etexilate capsules exactly as prescribed by your healthcare provider. • In adults: Take dabigatran etexilate capsules 2 times a day.
+Stopping dabigatran etexilate capsules may increase your risk of having a stroke or forming blood clots. • Take dabigatran etexilate capsules exactly as prescribed by your healthcare provider. • In adults:Take dabigatran etexilate capsules 2 times a day.
 If you are taking dabigatran etexilate capsules after hip replacement surgery, take dabigatran etexilate capsules 1 time a day. • You can take dabigatran etexilate capsules with or without food.
 Taking dabigatran etexilate capsules with food may help if you have an upset stomach. • Swallow dabigatran etexilate capsules whole with a full glass of water.
 Tell your healthcare provider if you are not able to swallow the capsules whole.
-Do not break, chew, or empty the pellets from the capsule. • Do not run out of dabigatran etexilate capsules.
+Do not break, chew, or empty the pellets from the capsule. • Do notrun out of dabigatran etexilate capsules.
 Refill your prescription before you run out.
 If you plan to have surgery, or a medical or a dental procedure, tell your healthcare provider and dentist that you are taking dabigatran etexilate capsules.
 You may have to stop taking dabigatran etexilate capsules for a short time.
@@ -66,8 +65,7 @@ Finish your opened bottle of dabigatran etexilate capsules before opening a new 
 See “How should I store dabigatran etexilate capsules?” • When it is time for you to take a dose of dabigatran etexilate capsules, only remove your prescribed dose of dabigatran etexilate capsules from your open bottle. • Tightly close your bottle of dabigatran etexilate capsules right away after you take your dose.
 What are the possible side effects of dabigatran etexilate capsules?
 Dabigatran etexilate capsules can cause serious side effects.
-See “What is the most important information I should know about dabigatran etexilate capsules?” • Allergic Reactions.
-Some adults taking dabigatran etexilate capsules have developed symptoms of an allergic reaction. o Call your healthcare provider if you get symptoms of an allergic reaction, such as: ◾hives ◾rash ◾itching o Get medical help right away if you get any of the following symptoms of a serious allergic reaction with dabigatran etexilate capsules: ◾chest pain or chest tightness ◾trouble breathing or wheezing ◾swelling of your face or tongue ◾feeling dizzy or faint Common side effects of dabigatran etexilate capsules in adults include: • indigestion, upset stomach, or burning • stomach-area (abdominal) pain or discomfort Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+See “What is the most important information I should know about dabigatran etexilate capsules?” • Allergic Reactions.Some adults taking dabigatran etexilate capsules have developed symptoms of an allergic reaction. o Call your healthcare provider if you get symptoms of an allergic reaction, such as: ◾hives ◾rash ◾itching o Get medical help right away if you get any of the following symptoms of a serious allergic reaction with dabigatran etexilate capsules: ◾chest pain or chest tightness ◾trouble breathing or wheezing ◾swelling of your face or tongue ◾feeling dizzy or faint Common side effects of dabigatran etexilate capsules in adults include: • indigestion, upset stomach, or burning • stomach-area (abdominal) pain or discomfort Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 These are not all of the possible side effects of dabigatran etexilate capsules.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -84,7 +82,7 @@ If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about dabigatran etexilate capsules that is written for health professionals.
 For more information, call Hetero Labs Limited at 1-866-495-1995.
 What are the ingredients in dabigatran etexilate capsules?
-Active ingredient: dabigatran etexilate mesylate Inactive ingredients: hydroxypropyl cellulose, hypromellose, sugar spheres (sucrose and corn starch), talc and tartaric acid.
+Active ingredient:dabigatran etexilate mesylate Inactive ingredients: hydroxypropyl cellulose, hypromellose, sugar spheres (sucrose and corn starch), talc and tartaric acid.
 The capsule shell is composed of iron oxide red, iron oxide yellow, hypromellose and titanium dioxide.
 The capsules are printed with black ink containing black iron oxide, potassium hydroxide, propylene glycol, shellac and strong ammonia solution.
 Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.

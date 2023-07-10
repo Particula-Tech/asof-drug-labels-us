@@ -3,8 +3,7 @@
 ## 8.1 Pregnancy
 
 Risk Summary The limited available data on dabigatran etexilate capsules use in pregnant women are insufficient to determine drug-associated risks for adverse developmental outcomes.
-There are risks to the mother associated with untreated venous thromboembolism in pregnancy and a risk of hemorrhage in the mother and fetus associated with the use of anticoagulants (see Clinical Considerations).
-In pregnant rats treated from implantation until weaning, dabigatran increased the number of dead offspring and caused excess vaginal/uterine bleeding close to parturition at an exposure 2.6 times the human exposure.
+There are risks to the mother associated with untreated venous thromboembolism in pregnancy and a risk of hemorrhage in the mother and fetus associated with the use of anticoagulants (see Clinical Considerations).In pregnant rats treated from implantation until weaning, dabigatran increased the number of dead offspring and caused excess vaginal/uterine bleeding close to parturition at an exposure 2.6 times the human exposure.
 At a similar exposure, dabigatran decreased the number of implantations when rats were treated prior to mating and up to implantation (gestation Day 6).
 Dabigatran administered to pregnant rats and rabbits during organogenesis up to exposures 8 and 13 times the human exposure, respectively, did not induce major malformations.
 However, the incidence of delayed or irregular ossification of fetal skull bones and vertebrae was increased in the rat (see Data).

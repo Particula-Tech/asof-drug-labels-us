@@ -2,9 +2,9 @@
 
 ## 2.1 Important Dosage Information
 
-Dabigatran etexilate is available in different dosage forms and not all dosage forms are approved for the same indications and age groups.
-In addition, there are differences between the dosage forms with respect to dosing due to differences in bioavailability.
-Do not substitute different dosage forms on a milligram-to-milligram basis and do not combine more than one dosage form to achieve the total dose [see Clinical Pharmacology (12.3)].
+Dabigatranetexilate is available in different dosage forms and not all dosage forms are approved for the same indications and age groups.
+In addition,there are differences between the dosage forms with respect to dosing due to differences in bioavailability.
+Do not substitute different dosage forms ona milligram-to-milligram basis and do not combine more than one dosage form to achieve the total dose [see Clinical Pharmacology (12.3)].
 
 ## 2.2 Recommended Dabigatran etexilate capsules Dose for Adults
 
@@ -38,7 +38,7 @@ Reduce the dose of dabigatran etexilate capsules to 75 mg twice daily [see Warni
 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism Dosing recommendations for patients with CrCl ≤30 mL/min cannot be provided.
 Avoid use of concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
-Pediatric patients with renal impairment Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
+Pediatric patients with renal impairment Pediatric use information is approved for BoehringerIngelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.5 Administration
@@ -50,7 +50,7 @@ Breaking, chewing, or emptying the contents of the capsule can result in increas
 If a dose of dabigatran etexilate capsules is not taken at the scheduled time, the dose should be taken as soon as possible on the same day; the missed dose should be skipped if it cannot be taken at least 6 hours before the next scheduled dose.
 The dose of dabigatran etexilate capsules should not be doubled to make up for a missed dose.
 
-Consider administration with food if gastrointestinal distress occurs with dabigatran etexilate capsules.
+Consideradministration with food if gastrointestinal distress occurs with dabigatran etexilate capsules.
 
 ## 2.6 Converting from or to Warfarin
 
@@ -79,7 +79,7 @@ Consider longer times for patients undergoing major surgery, spinal puncture, or
 
 If surgery cannot be delayed, there is an increased risk of bleeding [see Warnings and Precautions (5.2)].
 This risk of bleeding should be weighed against the urgency of intervention [see Warnings and Precautions (5.1,5.3)].
-Use a specific reversal agent (idarucizumab) in case of emergency surgery or urgent procedures when reversal of the anticoagulant effect of dabigatran is needed in adults.
+Use a specific reversal agent (idarucizumab) in case of emergency surgery or urgent procedures when reversal of theanticoagulant effect of dabigatranis needed in adults.
 Efficacy and safety of idarucizumab have not been established in pediatric patients [see Warnings and Precautions (5.2)].
 Refer to the idarucizumab prescribing information for additional information.
 Restart dabigatran etexilate capsules as soon as medically appropriate.

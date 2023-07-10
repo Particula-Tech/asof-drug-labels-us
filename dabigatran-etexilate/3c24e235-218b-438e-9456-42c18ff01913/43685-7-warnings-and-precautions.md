@@ -16,7 +16,7 @@ Dabigatran etexilate capsules anticoagulant activity and half-life are increased
 
 Reversal of Anticoagulant Effect: In adults, a specific reversal agent (idarucizumab) for dabigatran etexilate is available when reversal of the anticoagulant effect of dabigatran is needed: • For emergency surgery/urgent procedures • In life-threatening or uncontrolled bleeding
 
-In pediatric patients, the efficacy and safety of idarucizumab have not been established.
+In pediatricpatients, the efficacy and safety of idarucizumab have not been established.
 
 Hemodialysis can remove dabigatran; however the clinical experience supporting the use of hemodialysis as a treatment for bleeding is limited [see Overdosage (10)].
 Prothrombin complex concentrates, or recombinant Factor VIIa may be considered but their use has not been evaluated in clinical trials.

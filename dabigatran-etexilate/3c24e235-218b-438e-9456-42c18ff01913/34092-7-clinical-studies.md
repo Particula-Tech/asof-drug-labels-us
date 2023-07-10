@@ -6,7 +6,7 @@ The clinical evidence for the efficacy of dabigatran etexilate capsules was deri
 The study was designed to ensure that dabigatran etexilate capsules preserved more than 50% of warfarin’s effect as established by previous randomized, placebo-controlled trials of warfarin in atrial fibrillation.
 Statistical superiority was also analyzed.
 A total of 18,113 patients were randomized and followed for a median of 2 years.
-The patients’ mean age was 71.5 years and the mean CHADS 2 score was 2.1.
+The patients’ mean age was 71.5 years and the mean CHADS 2score was 2.1.
 The patient population was 64% male, 70% Caucasian, 16% Asian, and 1% black.
 Twenty percent of patients had a history of a stroke or TIA and 50% were Vitamin K antagonist (VKA) naïve, defined as less than 2 months total lifetime exposure to a VKA.
 Thirty-two percent of the population had never been exposed to a VKA.
@@ -25,14 +25,14 @@ Table 11 First Occurrence of Stroke or Systemic Embolism in the RE-LY Study *
 | Hazard ratio vs. dabigatran etexilate capsules110 mg (95% CI) | 0.72 (0.58, 0.91) |  |  |
 | P-value for superiority | 0.005 |  |  |
 
-* Randomized ITT Figure 4 Kaplan-Meier Curve Estimate of Time to First Stroke or Systemic Embolism
+*Randomized ITT Figure 4 Kaplan-Meier Curve Estimate of Time to First Stroke or Systemic Embolism
 
 The contributions of the components of the composite endpoint, including stroke by subtype, are shown in Table 12.
 The treatment effect was primarily a reduction in stroke.
 Dabigatran etexilate capsules 150 mg twice daily was superior in reducing ischemic and hemorrhagic strokes relative to warfarin.
 Table 12 Strokes and Systemic Embolism in the RE-LY Study
 
-|  | Dabigatran etexilatecapsules150 mg twice daily | Warfarin | Hazard ratio vs. warfarin (95% CI) |
+|  | Dabigatran etexilatecapsules150 mg twice daily | Warfarin | Hazardratio vs. warfarin (95% CI) |
 | --- | --- | --- | --- |
 | Patients randomized | 6076 | 6022 |  |
 | Stroke | 123 | 187 | 0.64 (0.51, 0.81) |
@@ -46,7 +46,7 @@ Non-vascular death rates were similar in the treatment arms.
 The efficacy of dabigatran etexilate capsules 150 mg twice daily was generally consistent across major subgroups (see Figure 5).
 Figure 5 Stroke and Systemic Embolism Hazard Ratios by Baseline Characteristics *
 
-* Randomized ITT Note: The figure above presents effects in various subgroups all of which are baseline characteristics and all of which were pre-specified.
+*Randomized ITT Note: The figure above presents effects in various subgroups all of which are baseline characteristics and all of which were pre-specified.
 The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors.
 Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
 In RE-LY, a higher rate of clinical myocardial infarction was reported in patients who received dabigatran etexilate capsules (0.7 per 100 patient-years for 150 mg dose) than in those who received warfarin (0.6).
@@ -68,7 +68,7 @@ Concomitant medications included agents acting on renin-angiotensin system (24.2
 Patients randomized to warfarin had a mean percentage of time in the INR target range of 2.0 to 3.0 of 57% in RE-COVER II study.
 In studies RE-COVER and RE-COVER II, the protocol specified non-inferiority margin (2.75) for the hazard ratio was derived based on the upper limit of the 95% confidence interval of the historical warfarin effect.
 Dabigatran etexilate capsules were demonstrated to be non-inferior to warfarin (dosed to target INR of 2 to 3) (Table 13) based on the primary composite endpoint (fatal PE or symptomatic non-fatal PE and/or DVT) and retains at least 66.9% (RE-COVER) and 63.9% (RE-COVER II) of the historical warfarin effect, respectively.
-Table 13 Primary Efficacy Endpoint for RE-COVER and RE-COVER II – Modified ITT a Population
+Table 13 Primary Efficacy Endpoint for RE-COVER and RE-COVER II – Modified ITT aPopulation
 
 |  | Dabigatran etexilatecapsules 150 mg twice daily N (%) | Warfarin N (%) | Hazard ratio vs warfarin (95% CI) |
 | --- | --- | --- | --- |
@@ -95,7 +95,7 @@ Patients randomized to warfarin had a mean percentage of time in the INR target 
 In study RE-MEDY, the protocol specified non-inferiority margin (2.85) for the hazard ratio was derived based on the point estimate of the historical warfarin effect.
 Dabigatran etexilate capsules were demonstrated to be non-inferior to warfarin (dosed to target INR of 2 to 3) (Table 14) based on the primary composite endpoint (fatal PE or symptomatic non-fatal PE and/or DVT) and retains at least 63.0% of the historical warfarin effect.
 If the non-inferiority margin was derived based on the 50% retention of the upper limit of the 95% confidence interval, dabigatran etexilate capsules were demonstrated to retain at least 33.4% of the historical warfarin effect based on the composite primary endpoint.
-Table 14 Primary Efficacy Endpoint for RE-MEDY - Modified ITT a Population
+Table 14 Primary Efficacy Endpoint for RE-MEDY - Modified ITT aPopulation
 
 |  | Dabigatran etexilatecapsules 150 mg twice daily N=1430 N (%) | Warfarin N=1426 N (%) | Hazard ratio vs warfarin (95% CI) |
 | --- | --- | --- | --- |
@@ -113,7 +113,7 @@ The patient population was 55.5% male, 89.0% white, 9.3% Asian, and 1.7% black.
 The concomitant diseases of patients in this trial included hypertension (38.8%), diabetes mellitus (8.0%), coronary artery disease (6.0%), history of cancer (6.0%), gastric or duodenal ulcer (4.5%), and heart failure (4.6%).
 Concomitant medications included agents acting on renin-angiotensin system (28.7%), vasodilators (19.4%), beta-blockers (18.5%), serum lipid reducing agents (17.9%), NSAIDs (12.1%), calcium channel blockers (8.9%), aspirin (8.3%), and platelet inhibitors excluding ASA (0.7%).
 Based on the outcome of the primary composite endpoint (fatal PE, unexplained death, or symptomatic non-fatal PE and/or DVT), dabigatran etexilate capsules were superior to placebo (Table 15).
-Table 15 Primary Efficacy Endpoint for RE-SONATE - Modified ITT a Population
+Table 15 Primary Efficacy Endpoint for RE-SONATE - Modified ITT aPopulation
 
 |  | Dabigatran etexilatecapsules 150 mg twice daily N=681 N (%) | Placebo N=662 N (%) | Hazard ratio vs placebo (95% CI) |
 | --- | --- | --- | --- |

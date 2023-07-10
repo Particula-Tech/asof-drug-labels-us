@@ -14,14 +14,14 @@ Adults The aPTT test provides an approximation of dabigatran etexilate capsules 
 The average time course for effects on aPTT, following approved dosing regimens in patients with various degrees of renal impairment is shown in Figure 2.
 The curves represent mean levels without confidence intervals; variations should be expected when measuring aPTT.
 While advice cannot be provided on the level of recovery of aPTT needed in any particular clinical setting, the curves can be used to estimate the time to get to a particular level of recovery, even when the time since the last dose of dabigatran etexilate capsules is not precisely known.
-In the RE-LY trial, the median (10 th to 90 th percentile) trough aPTT in patients receiving the 150 mg dose was 52 (40 to 76) seconds.
+In the RE-LY trial, the median (10 thto 90 thpercentile) trough aPTT in patients receiving the 150 mg dose was 52 (40 to 76) seconds.
 Figure 2 Average Time Course for Effects of Dabigatran on aPTT, Following Approved Dabigatran Etexilate Capsules Dosing Regimens in Adult Patients with Various Degrees of Renal Impairment*
 
 *Simulations based on PK data from a study in subjects with renal impairment and PK/aPTT relationships derived from the RE-LY study; aPTT prolongation in RE-LY was measured centrally in citrate plasma using PTT Reagent Roche Diagnostics GmbH, Mannheim, Germany.
 There may be quantitative differences between various established methods for aPTT assessment.
 The degree of anticoagulant activity can also be assessed by the ecarin clotting time (ECT).
 This test is a more specific measure of the effect of dabigatran than activated partial thromboplastin time (aPTT).
-In the RE-LY trial, the median (10 th to 90 th percentile) trough ECT in patients receiving the 150 mg dose was 63 (44 to 103) seconds.
+In the RE-LY trial, the median (10 thto 90 thpercentile) trough ECT in patients receiving the 150 mg dose was 63 (44 to 103) seconds.
 Cardiac Electrophysiology No prolongation of the QTc interval was observed with dabigatran etexilate at doses up to 600 mg.
 Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
@@ -36,8 +36,8 @@ Dabigatran displays dose-proportional pharmacokinetics in healthy adult subjects
 Given twice daily, dabigatran’s accumulation factor in adults is approximately two.
 Absorption The absolute bioavailability of dabigatran following oral administration of dabigatran etexilate is approximately 3% to 7%.
 Dabigatran etexilate is a substrate of the efflux transporter P-gp.
-After oral administration of dabigatran etexilate in healthy volunteers, C max occurs at 1-hour post-administration in the fasted state.
-Coadministration of dabigatran etexilate capsules with a high-fat meal delays the time to C max by approximately 2 hours but has no effect on the bioavailability of dabigatran; dabigatran etexilate capsules may be administered with or without food.
+After oral administration of dabigatran etexilate in healthy volunteers, C maxoccurs at 1-hour post-administration in the fasted state.
+Coadministration of dabigatran etexilate capsules with a high-fat meal delays the time to C maxby approximately 2 hours but has no effect on the bioavailability of dabigatran; dabigatran etexilate capsules may be administered with or without food.
 The oral bioavailability of dabigatran etexilate increases by 75% when the pellets are taken without the capsule shell compared to the intact capsule formulation based on a single-dose relative bioavailability study.
 Dabigatran etexilate capsules should therefore not be broken, chewed, or opened before administration.
 Distribution Dabigatran is approximately 35% bound to human plasma proteins.
@@ -71,7 +71,7 @@ Figure 3.1 Effect of P-gp Inhibitor or Inducer (rifampicin) Drugs on Peak and To
 Shown are the Geometric Mean Ratios (Ratio) and 90% Confidence Interval (90% CI).
 The Perpetrator and Dabigatran Etexilate Dose and Dosing Frequency are given as well as the Time of Perpetrator Dosing in Relation to Dabigatran Etexilate Dose (Time Difference)
 
-Figure 3.2 Effect of Non-P-gp Inhibitor or Inducer, Other Drugs, on Peak and Total Exposure to Dabigatran (C max and AUC).
+Figure 3.2 Effect of Non-P-gp Inhibitor or Inducer, Other Drugs, on Peak and Total Exposure to Dabigatran (C maxand AUC).
 Shown are the Geometric Mean Ratios (Ratio) and 90% Confidence Interval (90% CI).
 The Perpetrator and Dabigatran Etexilate Dose and Dosing Frequency are given as well as the Time of Perpetrator Dosing in Relation to Dabigatran Etexilate Dose (Time Difference)
 
