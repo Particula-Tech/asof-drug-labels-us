@@ -37,7 +37,6 @@ Consideration should be given to changing the therapeutic regimen, including pos
 If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION—Discontinuation of Treatment with Citalopram Oral Solution, for a description of the risks of discontinuation of citalopram).
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
-
 Prescriptions for citalopram should be written for the smallest quantity consistent with good patient management, in order to reduce the risk of overdose.
 
 ## QT-Prolongation and Torsade de Pointes
@@ -67,17 +66,17 @@ It should be noted that citalopram is not approved for use in treating bipolar d
 
 ## Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including citalopram, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, trytophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Patients should be monitored for the emergence of serotonin syndrome.
-The concomitant use of citalopram with MAOIs intended to treat psychiatric disorders is contraindicated.
-Citalopram should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
-All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
-No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
-There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking citalopram.
-Citalopram should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
-If concomitant use of citalopram with other serotonergic drugs including, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, trytophan, amphetamines, and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome particularly during treatment initiation and dose increases.
-Treatment with citalopram and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Serotonin-norepinephrine reuptake inhibitors (SNRIs) and selective serotonin reuptake inhibitors (SSRIs), including citalopram, can precipitate serotonin syndrome, a potentially life-threatening condition.
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, meperidine, methadone, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications, Drug Interactions].
+Serotonin syndrome can also occur when these drugs are used alone.
+
+Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+
+The concomitant use of citalopram with MAOIs is contraindicated.
+In addition, do not initiate citalopram in a patient being treated with MAOIs such as linezolid or intravenous methylene blue.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection).
+If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking citalopram, discontinue citalopram before initiating treatment with the MAOI [see Contraindications, Drug Interactions].
+
 Angle-Closure Glaucoma The pupillary dilation that occurs following use of many antidepressant drugs including citalopram oral solution may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## Sexual Dysfunction
@@ -94,17 +93,25 @@ Discuss potential management strategies to support patients in making informed d
 
 ## General
 
-Discontinuation of Treatment with Citalopram During marketing of citalopram and other SSRIs and SNRIs (serotonin and norepinephrine reuptake inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
+Discontinuation of Treatment with Citalopram
+
+During marketing of citalopram and other SSRIs and SNRIs (serotonin and norepinephrine reuptake inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
 While these events are generally self-limiting, there have been reports of serious discontinuation symptoms.
+
 Patients should be monitored for these symptoms when discontinuing treatment with citalopram.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate (see DOSAGE AND ADMINISTRATION).
-Abnormal Bleeding SSRIs and SNRIs, including citalopram, may increase the risk of bleeding events.
+
+Abnormal Bleeding
+
+SSRIs and SNRIs, including citalopram, may increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to the risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage (see PRECAUTIONS: Pregnancy).
 Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
-Patients should be cautioned about the risk of bleeding associated with the concomitant use of citalopram and NSAIDs, aspirin, or other drugs that affect coagulation.
+
+Patients should be cautioned about the increased risk of bleeding associated with the concomitant use of citalopram and NSAIDs, aspirin, or other drugs that affect coagulation.
 
 ### Hyponatremia
 
@@ -140,7 +147,6 @@ Until adequate numbers of patients with severe renal impairment have been evalua
 ## Information for Patients
 
 Physicians are advised to discuss the following issues with patients for whom they prescribe citalopram.
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of citalopram and triptans, tramadol or other serotonergic agents.
 Although in controlled studies citalopram has not been shown to impair psychomotor performance, any psychoactive drug may impair judgment, thinking, or motor skills, so patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that citalopram therapy does not affect their ability to engage in such activities.
 Patients should be told that, although citalopram has not been shown in experiments with normal subjects to increase the mental and motor skill impairments caused by alcohol, the concomitant use of citalopram and alcohol in depressed patients is not advised.
 Patients should be advised to inform their physician if they are taking, or plan to take, any prescription or over-the-counter drugs, as there is a potential for interactions.
@@ -154,6 +160,11 @@ The prescriber or health professional should instruct patients, their families, 
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking citalopram.
+
+### Serotonin Syndrome
+
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of citalopram with other serotonergic drugs including triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
+Instruct patients to contact their health care provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [see Warnings, Drug Interactions].
 
 ## Clinical Worsening and Suicide Risk
 
@@ -170,9 +181,9 @@ Inform patients that they should discuss any changes in sexual function and pote
 
 There are no specific laboratory tests recommended.
 
-## Drug Interactions
+## Drug Interactions:
 
-Serotonergic Drugs Based on the mechanism of action of SNRIs and SSRIs, including citalopram hydrochloride, and the potential for serotonin syndrome, caution is advised when citalopram is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol, amphetamines, or St. John's Wort (see WARNINGS: Serotonin Syndrome).
+Serotonergic Drugs Based on the mechanism of action of SNRIs and SSRIs, including citalopram hydrobromide, and the potential for serotonin syndrome, caution is advised when citalopram is co-administered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, opioids, amphetamines, or St. John's Wort (see WARNINGS; Serotonin Syndrome).
 Triptans There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
 If concomitant treatment of citalopram with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS - Serotonin Syndrome).
 CNS Drugs - Given the primary CNS effects of citalopram, caution should be used when it is taken in combination with other centrally acting drugs.
@@ -242,19 +253,26 @@ There are no adequate and well-controlled studies in pregnant women; therefore, 
 
 ### Pregnancy-Nonteratogenic Effects
 
+Based on data from published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage (see PRECAUTIONS: Abnormal Bleeding).
 Neonates exposed to citalopram and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester, have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
 It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS: Serotonin Syndrome).
+
 Infants exposed to SSRIs in pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
 PPHN occurs in 1 to 2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
 Several recent epidemiologic studies suggest a positive statistical association between SSRI use (including citalopram) in pregnancy and PPHN.
 Other studies do not show a significant statistical association.
+
 Physicians should also note the results of a prospective longitudinal study of 201 pregnant women with a history of major depression, who were either on antidepressants or had received antidepressants less than 12 weeks prior to their last menstrual period, and were in remission.
 Women who discontinued antidepressant medication during pregnancy showed a significant increase in relapse of their major depression compared to those women who remained on antidepressant medication throughout pregnancy.
 When treating a pregnant woman with citalopram, the physician should carefully consider both the potential risks of taking an SSRI, along with the established benefits of treating depression with an antidepressant.
 This decision can only be made on a case by case basis (see DOSAGE AND ADMINISTRATION).
+
+### Maternal Adverse Reactions
+
+Use of citalopram in the month before delivery may be associated with an increased risk of postpartum hemorrhage (see PRECAUTIONS: Abnormal Bleeding).
 
 ## Labor and Delivery
 
