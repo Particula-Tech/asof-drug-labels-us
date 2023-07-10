@@ -15,7 +15,7 @@ Adult — The efficacy of fluoxetine was studied in 5- and 6-week placebo-contro
 Fluoxetine was shown to be significantly more effective than placebo as measured by the Hamilton Depression Rating Scale (HAM-D).
 Fluoxetine was also significantly more effective than placebo on the HAM-D subscores for depressed mood, sleep disturbance, and the anxiety subfactor.
 
-Two 6-week controlled studies (N=671, randomized) comparing fluoxetine 20 mg and placebo have shown fluoxetine 20 mg daily to be effective in the treatment of elderly patients (≥ 60 years of age) with Major Depressive Disorder.
+Two 6-week controlled studies (N=671, randomized) comparing fluoxetine 20 mg and placebo have shown fluoxetine 20 mg daily to be effective in the treatment of elderly patients (≥60 years of age) with Major Depressive Disorder.
 In these studies, fluoxetine produced a significantly higher rate of response and remission as defined, respectively, by a 50% decrease in the HAM-D score and a total endpoint HAM-D score of ≤8.
 Fluoxetine was well tolerated and the rate of treatment discontinuations due to adverse reactions did not differ between fluoxetine (12%) and placebo (9%).
 
@@ -27,7 +27,7 @@ Subgroup analyses on the CDRS-R total score did not suggest any differential res
 
 Maintenance Treatment
 
-A study was conducted involving depressed outpatients who had responded (modified HAMD-17 score of ≤ 7 during each of the last 3 weeks of open-label treatment and absence of Major Depressive Disorder by DSM-III-R criteria) by the end of an initial 12-week open-treatment phase on fluoxetine 20 mg/day.
+A study was conducted involving depressed outpatients who had responded (modified HAMD-17 score of ≤7 during each of the last 3 weeks of open-label treatment and absence of Major Depressive Disorder by DSM-III-R criteria) by the end of an initial 12-week open-treatment phase on fluoxetine 20 mg/day.
 These patients (N=298) were randomized to continuation on double-blind fluoxetine 20 mg/day or placebo.
 At 38 weeks (50 weeks total), a statistically significantly lower relapse rate (defined as symptoms sufficient to meet a diagnosis of Major Depressive Disorder for 2 weeks or a modified HAMD-17 score of ≥14 for 3 weeks) was observed for patients taking fluoxetine compared with those on placebo.
 

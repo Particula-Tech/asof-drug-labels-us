@@ -186,6 +186,7 @@ Before starting fluoxetine oral solution, tell your healthcare provider if you:
   - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics
   - Amphetamines
   - Tramadol and fentanyl
+  - Meperidine and methadone
   - Over-the-counter supplements such as tryptophan or St. John’s Wort
   - Electroconvulsive therapy (ECT)
 - have liver problems
@@ -318,4 +319,4 @@ Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc.
 
 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 04/2023
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 07/2023

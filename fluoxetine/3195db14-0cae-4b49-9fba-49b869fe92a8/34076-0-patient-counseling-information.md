@@ -23,7 +23,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of fluoxetine and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.3)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of fluoxetine and other serotonergic agents including triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, and St. John’s Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.3)].
 
 Patients should be advised of the signs and symptoms associated with serotonin syndrome that may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be cautioned to seek medical care immediately if they experience these symptoms.
@@ -48,7 +48,7 @@ More severe and/or acute cases have been associated with hallucination, syncope,
 QT Prolongation
 
 Patients should be advised that QT interval prolongation and ventricular arrhythmia including Torsades de Pointes have been reported in patients treated with fluoxetine.
-Signs and symptoms of ventricular arrhythmia include fast, slow, or irregular heart rate, dyspnea, syncope, or dizziness, which may indicate serious cardiac arrhythmia [see Warnings and Precautions (5.10)]
+Signs and symptoms of ventricular arrhythmia include fast, slow, or irregular heart rate, dyspnea, syncope, or dizziness, which may indicate serious cardiac arrhythmia [see Warnings and Precautions (5.10)].
 
 Potential for Cognitive and Motor Impairment
 
@@ -95,4 +95,4 @@ Height and weight should be monitored periodically in pediatric patients receivi
 
 Symbyax® and Sarafem® are registered trademarks of Eli Lilly.
 
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 04/2023
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 07/2023
