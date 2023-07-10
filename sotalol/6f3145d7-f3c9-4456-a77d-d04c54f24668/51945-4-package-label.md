@@ -1,0 +1,11 @@
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 80 mg (100 Tablets Bottle)
+
+NDC 59651-775-01 Rx only Sotalol HCI Tablets, USP (AF) 80 mg AUROBINDO 100 Tablets
+
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 120 mg (100 Tablets Bottle)
+
+NDC 59651-776-01 Rx only Sotalol HCI Tablets, USP (AF) 120 mg AUROBINDO 100 Tablets
+
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 160 mg (100 Tablets Bottle)
+
+NDC 59651-777-01 Rx only Sotalol HCI Tablets, USP (AF) 160 mg AUROBINDO 100 Tablets

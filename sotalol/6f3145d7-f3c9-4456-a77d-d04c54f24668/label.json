@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA077616"
+  ],
+  "inn": "sotalol",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "59651-775-01",
+    "59651-776-01",
+    "59651-777-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sotalol hydrochloride",
+      "name": "SOTALOL HYDROCHLORIDE"
+    }
+  ],
+  "setid": "6f3145d7-f3c9-4456-a77d-d04c54f24668",
+  "source": "dailymed"
+}
