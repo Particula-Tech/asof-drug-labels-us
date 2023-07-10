@@ -10,4 +10,4 @@ It is a white powder, which is insoluble in water, very soluble in methanol and 
 AZOPT is supplied as a sterile, aqueous suspension of brinzolamide which has been formulated to be readily suspended and slow settling, following shaking.
 It has a pH of approximately 7.5 and an osmolality of 300 mOsm/kg.
 
-Each mL of AZOPT contains: Active ingredient: brinzolamide 10 mg; Preservative: Benzalkonium chloride 0.1 mg; Inactives: carbomer 974P, edetate disodium, mannitol, hydrochloric acid and/or sodium hydroxide to adjust pH, purified water, sodium chloride, and tyloxapol.
+Each mL of AZOPT contains: Active ingredient: brinzolamide 10 mg; Preservative: benzalkonium chloride 0.1 mg; Inactives: carbomer 974P, edetate disodium, mannitol, hydrochloric acid and/or sodium hydroxide to adjust pH, purified water, sodium chloride, and tyloxapol.
