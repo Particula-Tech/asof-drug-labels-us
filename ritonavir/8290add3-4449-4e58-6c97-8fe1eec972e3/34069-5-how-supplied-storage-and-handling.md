@@ -5,9 +5,9 @@ KALETRA® (lopinavir and ritonavir) tablets and oral solution are available in t
 | Formulation and strength | Available Presentations | Bottle size and NDC codes |
 | --- | --- | --- |
 | Tablets: 200 mg lopinavir/ 50 mg ritonavir | Yellow film-coated ovaloid tablets debossed with the “a” logo and the code KA | Bottles of 120 tablets (NDC 0074-6799-22) |
-|  | Red film-coated ovaloid tablets debossed with the “a” logo and the code AL | Bottles of 120 tablets (NDC 0074-2605-21) |
+|  | Red film-coated ovaloid tablets debossed with the code AL | Bottles of 120 tablets (NDC0074-4014-12) |
 | Tablets: 100 mg lopinavir and 25 mg ritonavir | Pale yellow film-coated ovaloid tablets debossed with the “a” logo and the code KC | Bottles of 60 tablets (NDC 0074-0522-60) |
-|  | Pink film-coated ovaloid tablets debossed with the “a” logo and the code AC | Bottles of 60 tablets (NDC 0074-1575-21) |
+|  | Pink film-coated ovaloid tablets debossed with the code AC | Bottles of 60 tablets (NDC 0074-3008-60) |
 | Oral Solution: 80 mg lopinavir and 20 mg ritonavir per mL | Light yellow to orange colored liquid supplied in amber-colored multiple-dose bottles containing 400 mg lopinavir and 100 mg ritonavir per 5 mL packaged with a marked dosing cup | 160 mL bottle (NDC 0074-3956-46) |
 
 Recommended Storage:

@@ -74,6 +74,6 @@ KALETRA is a trademark of AbbVie Inc.
 
 The brands listed are trademarks of their respective owners and are not trademarks of AbbVie Inc. The makers of these brands are not affiliated with and do not endorse AbbVie Inc. or its products.
 
-© 2020 AbbVie Inc. All rights reserved.
+© 2023 AbbVie Inc. All rights reserved.
 
-20065455
+20077914
