@@ -12,7 +12,7 @@ Tablets
 
 Rx only
 
-Each tablet contains 100 mg of imatinib free base.
+Each tablet contains 119.5 mg of imatinib mesylate equivalent to 100 mg of imatinib free base.
 
 90 Tablets
 
@@ -24,7 +24,7 @@ gleevec® (imatinib mesylate) tablets
 
 400 mg per tablet
 
-Each tablet contains 400 mg of imatinib free base
+Each tablet contains 478 mg of imatinib mesylate equivalent to 400 mg of imatinib free base.
 
 30 Tablets
 
