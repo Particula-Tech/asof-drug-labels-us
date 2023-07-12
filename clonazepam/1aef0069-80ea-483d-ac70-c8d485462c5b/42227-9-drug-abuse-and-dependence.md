@@ -1,6 +1,6 @@
 # DRUG ABUSE AND DEPENDENCE
 
-## Controlled Substance Class:
+## Controlled Substance:
 
 Clonazepam is a Schedule IV controlled substance.
 
@@ -20,8 +20,6 @@ The following adverse reactions have occurred with benzodiazepine abuse and/or m
 
 The following severe adverse reactions have occurred with benzodiazepine abuse and/or misuse: delirium, paranoia, suicidal ideation and behavior, seizures, coma, breathing difficulty, and death.
 Death is more often associated with polysubstance use (especially benzodiazepines with other CNS depressants such as opioids and alcohol).
-
-## Dependence:
 
 Physical Dependence
 
@@ -49,6 +47,6 @@ Tolerance to clonazepam orally disintegrating tablets may develop from continued
 Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
 Tolerance to the therapeutic effect of clonazepam orally disintegrating tablets may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines.
 
-Following the short-term treatment of patients with panic disorder in Studies 1 and 2 (see CLINICAL PHARMACOLOGY:Clinical Trials), patients were gradually withdrawn during a 7-week downward-titration (discontinuance) period.
+Following the short-term treatment of patients with panic disorder in Studies 1 and 2 (see CLINICAL PHARMACOLOGY: Clinical Trials), patients were gradually withdrawn during a 7-week downward-titration (discontinuance) period.
 Overall, the discontinuance period was associated with good tolerability and a very modest clinical deterioration, without evidence of a significant rebound phenomenon.
 However, there are not sufficient data from adequate and well-controlled long-term clonazepam studies in patients with panic disorder to accurately estimate the risks of withdrawal symptoms and dependence that may be associated with such use.

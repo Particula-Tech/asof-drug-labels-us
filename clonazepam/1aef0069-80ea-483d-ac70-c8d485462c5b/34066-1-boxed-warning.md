@@ -1,4 +1,4 @@
-# WARNING: RISKS FROM CONCOMITANT USE WITH OPIOIDS;ABUSE, MISUSE, AND ADDICTION; and DEPENDENCE AND WITHDRAWAL REACTIONS
+# WARNING: RISKS FROM CONCOMITANT USE WITH OPIOIDS; ABUSE, MISUSE, AND ADDICTION; and DEPENDENCE AND WITHDRAWAL REACTIONS
 
 Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death.
 
@@ -6,7 +6,7 @@ Reserve concomitant prescribing of these drugs in patients for whom alternative 
 
 Limit dosages and durations to the minimum required.
 
-- Follow patients for signs and symptoms of respiratory depression and sedation (seeWARNINGS and PRECAUTIONS).
+- Follow patients for signs and symptoms of respiratory depression and sedation (see WARNINGS and PRECAUTIONS).
 - The use of benzodiazepines, including clonazepam orally disintegrating tablets, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose or death.
   Abuse and misuse of benzodiazepines commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes.
   Before prescribing clonazepam orally disintegrating tablets and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (see WARNINGS).

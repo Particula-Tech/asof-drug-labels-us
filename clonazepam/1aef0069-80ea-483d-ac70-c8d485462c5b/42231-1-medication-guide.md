@@ -1,12 +1,12 @@
 # MEDICATION GUIDE
 
-CLONAZEPAM ODT (kloe NAZ e pam)
+CLONAZEPAM (kloe NAZ e pam)
 
 Orally Disintegrating Tablet (ODT), C-IV
 
 What is the most important information I should know about clonazepam orally disintegrating tablets?
 
-- Clonazepam orally disintegrating tabletis a benzodiazepine medicine.
+- Clonazepam orally disintegrating tablet is a benzodiazepine medicine.
   Taking benzodiazepines with opioid medicines, alcohol, or other central nervous system (CNS) depressants (including street drugs) can cause severe drowsiness, breathing problems (respiratory depression), coma, and death.
   Get emergency help right away if any of the following happens:
 
@@ -17,12 +17,11 @@ What is the most important information I should know about clonazepam orally dis
 Do not drive or operate heavy machinery until you know how taking clonazepam orally disintegrating tablets with opioids affects you.
 
 - Risk of abuse, misuse, and addiction.
-  There is a risk of abuse, misuse, and addiction with benzodiazepines, including clonazepam orally disintegrating tablet which can lead to overdose and serious side effects including coma and death.
+  There is a risk of abuse, misuse, and addiction with benzodiazepines, including clonazepam orally disintegrating tablet, which can lead to overdose and serious side effects including coma and death.
 
 - Serious side effects including coma and death have happened in people who have abused or misused benzodiazepines, including clonazepam orally disintegrating tablets.
   These serious side effects may also include delirium, paranoia, suicidal thoughts or actions, seizures, and difficulty breathing.
   Call your healthcare provider or go to the nearest hospital emergency room right away if you get any of these serious side effects.
-- tablets exactly as prescribed by your healthcare provider.
 - You can develop an addiction even if you take clonazepam orally disintegrating tablets exactly as prescribed by your healthcare provider.
 - Take clonazepam orally disintegrating tablets exactly as your healthcare provider prescribed.
 - Do not share your clonazepam orally disintegrating tablets with other people.
@@ -49,7 +48,7 @@ Call your healthcare provider or go to the nearest hospital emergency room right
 
 - Do not drink alcohol or take other drugs that may make you sleepy or dizzy while taking clonazepam orally disintegrating tablets until you talk to your healthcare provider.
   When taken with alcohol or drugs that cause sleepiness or dizziness, clonazepam orally disintegrating tablets may make your sleepiness or dizziness worse.
-- Like other antiepileptic drugs, clonazepam orally disintegrating tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+- Like other antiepileptic medicines, clonazepam orally disintegrating tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -80,36 +79,21 @@ If you have suicidal thoughts or actions, your healthcare provider may check for
 - Stopping clonazepam orally disintegrating tablets suddenly can cause serious problems.
   Stopping clonazepam orally disintegrating tablets suddenly can cause seizures that will not stop (status epilepticus).
 
-- Clonazepam orally disintegrating tablets may harm your unborn or developing baby.
-
-- If you take clonazepam orally disintegrating tablets during pregnancy, your baby is at risk for serious birth defects.
-  These defects can happen as early as in the first month of pregnancy, even before you know you are pregnant.
-  Birth defects may occur even in children born to women who are not taking any medicines and do not have other risk factors.
-- Children born to mothers receiving benzodiazepine medications (including clonazepam orally disintegrating tablets) late in pregnancy may be at some risk of experiencing breathing problems, feeding problems, hypothermia, and withdrawal symptoms.
-- Tell your healthcare provider right away if you become pregnant while taking clonazepam orally disintegrating tablets.
-  You and your healthcare provider should decide if you will take clonazepam orally disintegrating tablets while you are pregnant.
-- If you become pregnant while taking clonazepam orally disintegrating tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
-  You can register by calling 1-888-233-2334.
-  The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
-- Clonazepam can pass into breast milk.
-  Talk to your healthcare provider about the best way to feed your baby if you take clonazepam orally disintegrating tablets.
-  You and your healthcare provider should decide if you will take clonazepam orally disintegrating tablets or breast feed.
-  You should not do both.
-
 What is clonazepam orally disintegrating tablets?
 
-clonazepam orally disintegrating tablets is a prescription medicine used alone or with other medicines to treat:
+clonazepam orally disintegrating tablet is a prescription medicine used alone or with other medicines to treat:
 
 - certain types of seizure disorders (epilepsy) in adults and children
 - panic disorder with or without fear of open spaces (agoraphobia) in adults
 
 Clonazepam orally disintegrating tablet is a federally controlled substance (C-IV) because it contains clonazepam that can be abused or lead to dependence.
-Keepclonazepam orally disintegrating tablets in a safe place to prevent misuse and abuse.
-Selling orgiving away clonazepam orally disintegrating tablets may harm others, and is against the law.Tell your healthcare provider if you have ever abused or been dependent on alcohol, prescription medicines, or street drugs.
+Keep clonazepam orally disintegrating tablets in a safe place to prevent misuse and abuse.
+Selling or giving away clonazepam orally disintegrating tablets may harm others, and is against the law.
+Tell your healthcare provider if you have ever abused or been dependent on alcohol, prescription medicines, or street drugs.
 
-It is not known if clonazepam orally disintegrating tablets is safe or effective in treating panic disorder in children younger than 18 years old.
+It is not known if clonazepam orally disintegrating tablet is safe or effective in treating panic disorder in children younger than 18 years old.
 
-Do not take clonazepam orally disintegrating tablets if you:
+Do not take clonazepam orally disintegrating tablet if you:
 
 - are allergic to benzodiazepines
 - have significant liver disease
@@ -122,6 +106,17 @@ Before you take clonazepam orally disintegrating tablets, tell your healthcare p
 - have liver or kidney problems
 - have lung problems (respiratory disease)
 - have or have had depression, mood problems, or suicidal thoughts or behavior
+- are pregnant or plan to become pregnant.
+  - Taking clonazepam orally disintegrating tablets late in pregnancy may cause your baby to have symptoms of sedation (breathing problems, sluggishness, low muscle tone), and/or withdrawal symptoms (jitteriness, irritability, restlessness, shaking, excessive crying, feeding problems).
+  - Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with clonazepam orally disintegrating tablets.
+  - If you become pregnant while taking clonazepam orally disintegrating tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
+    You can register by calling 1-888-233-2334.
+    The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
+
+- are breastfeeding or plan to breastfeed.
+  Clonazepam can pass into your breast
+  - Breastfeeding during treatment with clonazepam orally disintegrating tablets may cause your baby to have sleepiness, feeding problems, and decreased weight gain.
+  - Talk to your healthcare provider about the best way to feed your baby while you take clonazepam orally disintegrating tablets.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -134,7 +129,7 @@ How should I take clonazepam orally disintegrating tablets?
   Clonazepam is available as a tablet or as an orally disintegrating tablet.
 - Do not stop taking clonazepam orally disintegrating tablets without first talking to your healthcare provider.
   Stopping clonazepam orally disintegrating tablets suddenly can cause serious problems.
-- clonazepam orally disintegrating tablets can be taken with or without water.
+- Clonazepam orally disintegrating tablets can be taken with or without water.
   - Do not open the pouch until you are ready to take clonazepam orally disintegrating tablets.
   - After opening the pouch, peel back the foil on the blister pack.
   - Do not push the orally disintegrating tablet through the foil.
@@ -145,7 +140,7 @@ How should I take clonazepam orally disintegrating tablets?
 
 What should I avoid while taking clonazepam orally disintegrating tablets?
 
-- clonazepam orally disintegrating tablets can slow your thinking and motor skills.
+- Clonazepam orally disintegrating tablets can slow your thinking and motor skills.
   Do not drive, operate heavy machinery, or do other dangerous activities until you know how clonazepam orally disintegrating tablets affects you.
 - Do not drink alcohol or take other medicines that may make you sleepy or dizzy while taking clonazepam orally disintegrating tablets until you talk to your healthcare provider.
   When taken with alcohol or medicines that cause sleepiness or dizziness, clonazepam orally disintegrating tablets may make your sleepiness or dizziness much worse.
@@ -210,4 +205,4 @@ Chestnut Ridge, NY 10977
 
 For additional copies of this Medication Guide, visit www.parpharm.com or call 1-800-828-9393
 
-Revised: 01/2021
+Revised: 08/2022

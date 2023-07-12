@@ -51,12 +51,11 @@ Because most trials included in the analysis did not extend beyond 24 weeks, the
 
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
-The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
+The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 
 Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 1.
-Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+Table 1: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence In Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients |
 | --- | --- | --- | --- | --- |
@@ -74,46 +73,10 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## Pregnancy Risks:
+## Neonatal Sedation and Withdrawal Syndrome:
 
-Data from several sources raise concerns about the use of clonazepam orally disintegrating tablets during pregnancy.
-
-## Animal Findings:
-
-In three studies in which clonazepam orally disintegrating tablets was administered orally to pregnant rabbits at doses of 0.2, 1, 5 or 10 mg/kg/day (low dose approximately 0.2 times the maximum recommended human dose of 20 mg/day, for seizure disorders and equivalent to the maximum dose of 4 mg/day for panic disorder, on a mg/m2 basis) during the period of organogenesis, a similar pattern of malformations (cleft palate, open eyelid, fused sternebrae and limb defects) was observed in a low, non-dose-related incidence in exposed litters from all dosage groups.
-Reductions in maternal weight gain occurred at dosages of 5 mg/kg/day or greater and reduction in embryo-fetal growth occurred in one study at a dosage of 10 mg/kg/day.
-No adverse maternal or embryo-fetal effects were observed in mice and rats following administration during organogenesis of oral doses up to 15 mg/kg/day or 40 mg/kg/day, respectively (4 and 20 times the maximum recommended human dose of 20 mg/day for seizure disorders and 20 and 100 times the maximum dose of 4 mg/day for panic disorder, respectively, on a mg/m2 basis).
-
-## General Concerns and Considerations About Anticonvulsants:
-
-Recent reports suggest an association between the use of anticonvulsant drugs by women with epilepsy and an elevated incidence of birth defects in children born to these women.
-Data are more extensive with respect to diphenylhydantoin and phenobarbital, but these are also the most commonly prescribed anticonvulsants; less systematic or anecdotal reports suggest a possible similar association with the use of all known anticonvulsant drugs.
-
-In children of women treated with drugs for epilepsy, reports suggesting an elevated incidence of birth defects cannot be regarded as adequate to prove a definite cause and effect relationship.
-There are intrinsic methodologic problems in obtaining adequate data on drug teratogenicity in humans; the possibility also exists that other factors (e.g., genetic factors or the epileptic condition itself) may be more important than drug therapy in leading to birth defects.
-The great majority of mothers on anticonvulsant medication deliver normal infants.
-It is important to note that anticonvulsant drugs should not be discontinued in patients in whom the drug is administered to prevent seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
-In individual cases where the severity and frequency of the seizure disorder are such that the removal of medication does not pose a serious threat to the patient, discontinuation of the drug may be considered prior to and during pregnancy; however, it cannot be said with any confidence that even mild seizures do not pose some hazards to the developing embryo or fetus.
-
-## General Concerns About Benzodiazepines:
-
-An increased risk of congenital malformations associated with the use of benzodiazepine drugs has been suggested in several studies.
-
-There may also be non-teratogenic risks associated with the use of benzodiazepines during pregnancy.
-There have been reports of neonatal flaccidity, respiratory and feeding difficulties, and hypothermia in children born to mothers who have been receiving benzodiazepines late in pregnancy.
-In addition, children born to mothers receiving benzodiazepines late in pregnancy may be at some risk of experiencing withdrawal symptoms during the postnatal period.
-
-## Advice Regarding the Use of Clonazepam Orally Disintegrating Tablets in Women of Childbearing Potential:
-
-In general, the use of clonazepam in women of childbearing potential, and more specifically during known pregnancy, should be considered only when the clinical situation warrants the risk to the fetus.
-
-The specific considerations addressed above regarding the use of anticonvulsants for epilepsy in women of childbearing potential should be weighed in treating or counseling these women.
-
-Because of experience with other members of the benzodiazepine class, clonazepam orally disintegrating tablets is assumed to be capable of causing an increased risk of congenital abnormalities when administered to a pregnant woman during the first trimester.
-Because use of these drugs is rarely a matter of urgency in the treatment of panic disorder, their use during the first trimester should almost always be avoided.
-The possibility that a woman of childbearing potential may be pregnant at the time of institution of therapy should be considered.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
-Patients should also be advised that if they become pregnant during therapy or intend to become pregnant, they should communicate with their physician about the desirability of discontinuing the drug.
+Use of clonazepam orally disintegrating tablets late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (see PRECAUTIONS: Pregnancy).
+Monitor neonates exposed to clonazepam orally disintegrating tablets during pregnancy or labor for signs of sedation and monitor neonates exposed to clonazepam orally disintegrating tablets during pregnancy for signs of withdrawal; manage these neonates accordingly.
 
 # PRECAUTIONS
 
@@ -159,7 +122,7 @@ Inform patients and caregivers that potentially fatal additive effects may occur
 ### Abuse, Misuse, and Addiction:
 
 Inform patients that the use of clonazepam orally disintegrating tablets, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
-Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS: Abuse, Misuse, and AddictionandDRUG ABUSE AND DEPENDENCE).
+Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS: Abuse, Misuse, and Addiction and DRUG ABUSE AND DEPENDENCE).
 
 ### Withdrawal Reactions:
 
@@ -178,14 +141,16 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 ### Pregnancy:
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with clonazepam orally disintegrating tablets (see WARNINGS:Pregnancy Risks).
-Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
+Advise pregnant females that use of clonazepam orally disintegrating tablets late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and PRECAUTIONS: Pregnancy).
+Instruct patients to inform their healthcare provider if they are pregnant or intend to become pregnant.
+Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant while taking clonazepam orally disintegrating tablets.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS: Pregnancy).
+(see PRECAUTIONS: Pregnancy).
 
 ### Nursing:
 
-Patients should be advised not to breastfeed an infant if they are taking clonazepam orally disintegrating tablets.
+Instruct patients to inform their healthcare provider if they are breastfeeding or intend to breastfeed.
+Instruct breastfeeding patients who take clonazepam orally disintegrating tablets to monitor their infants for excessive sedation, poor feeding and poor weight gain, and to seek medical attention if they notice these signs (see PRECAUTIONS: Nursing Mothers).
 
 ### Concomitant Medication:
 
@@ -202,12 +167,12 @@ Each orally disintegrating tablet contains 0.56 mg phenylalanine.
 
 ## Drug Interactions:
 
-### Effect of Concomitant Use of Benzodiazepine and Opioids:
+### Effect of Concomitant Use of Benzodiazepines and Opioids:
 
 The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
 Benzodiazepines interact at GABAA sites, and opioids interact primarily at mu receptors.
 When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
-Limit dosage and duration of concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression and sedation
+Limit dosage and duration of concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression and sedation.
 
 ### Effect of Clonazepam on the Pharmacokinetics of Other Drugs:
 
@@ -238,21 +203,58 @@ In a two-generation fertility study in which clonazepam was given orally to rats
 
 ## Pregnancy:
 
-### Teratogenic Effects:
+### Pregnancy Exposure Registry:
 
-Pregnancy Category D [see WARNINGS: Pregnancy Risks].
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to AED's, such as clonazepam orally disintegrating tablets, during pregnancy.
+Healthcare providers are encouraged to recommend that pregnant patients taking clonazepam orally disintegrating tablets enroll in the NAAED Pregnancy Registry by calling 1-888-233-2334, or online at http://www.aedpregnancyregistry.org/.
 
-To provide information regarding the effects of in utero exposure to clonazepam orally disintegrating tablets, physicians are advised to recommend that pregnant patients taking clonazepam enroll in the NAAED Pregnancy Registry.
-This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
-Information on this registry can also be found at the website http://www.aedpregnancyregistry.org/.
+### Risk Summary
 
-## Labor and Delivery:
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome, PRECATIONS: Clinical Considerations).
+Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
 
-The effect of clonazepam orally disintegrating tablets on labor and delivery in humans has not been specifically studied; however, perinatal complications have been reported in children born to mothers who have been receiving benzodiazepines late in pregnancy, including findings suggestive of either excess benzodiazepine exposure or of withdrawal phenomena (see WARNINGS, Pregnancy Risks).
+Administration of clonazepam to pregnant rabbits during the period of organogenesis resulted in developmental toxicity, including increased incidences of fetal malformations, at doses similar to or below therapeutic doses in patients (see Animal Data).
+Data for other benzodiazepines suggest the possibility of long-term effects on neurobehavioral and immunological function in animals following prenatal exposure to benzodiazepines at clinically relevant doses.
+
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
+In the U.S. general population, the estimated risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+### Clinical Considerations
+
+#### Fetal/Neonatal Adverse Reactions
+
+Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia and sedation in neonates.
+Monitor neonates exposed to clonazepam orally disintegrating tablets during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
+Monitor neonates exposed to clonazepam orally disintegrating tablets during pregnancy for signs of withdrawal.
+Manage these neonates accordingly (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome).
+
+### Data
+
+#### Human Data
+
+Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects.
+Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted.
+In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings.
+
+#### Animal Data
+
+In three studies in which clonazepam orally disintegrating tablets was administered orally to pregnant rabbits at doses of 0.2, 1, 5 or 10 mg/kg/day (low dose approximately 0.2 times the maximum recommended human dose of 20 mg/day for seizure disorders and equivalent to the maximum dose of 4 mg/day for panic disorder, on a mg/m2 basis) during the period of organogenesis, a similar pattern of malformations (cleft palate, open eyelid, fused sternebrae and limb defects) was observed in a low, non-dose-related incidence in exposed litters from all dosage groups.
+Reductions in maternal weight gain occurred at dosages of 5 mg/kg/day or greater and reduction in embryo-fetal growth occurred in one study at a dosage of 10 mg/kg/day.
+No adverse maternal or embryo-fetal effects were observed in mice and rats following administration during organogenesis of oral doses up to 15 mg/kg/day or 40 mg/kg/day, respectively (4 and 20 times the maximum recommended human dose of 20 mg/day for seizure disorders and 20 and 100 times the maximum dose of 4 mg/day for panic disorder, respectively, on a mg/m2 basis).
 
 ## Nursing Mothers:
 
-Mothers receiving clonazepam orally disintegrating tablets should not breastfeed their infants.
+### Risk Summary
+
+Clonazepam is excreted in human milk.
+There are reports of sedation, poor feeding and poor weight gain in infants exposed to benzodiazepines through breast milk.
+There are no data on the effects of clonazepam on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for clonazepam orally disintegrating tablets and any potential adverse effects on the breastfed infant from clonazepam orally disintegrating tablets or from the underlying maternal condition.
+
+### Clinical Considerations
+
+Infants exposed to clonazepam through breast milk should be monitored for sedation, poor feeding and poor weight gain.
 
 ## Pediatric Use:
 
