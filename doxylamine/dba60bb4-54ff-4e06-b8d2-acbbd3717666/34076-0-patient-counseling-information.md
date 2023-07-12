@@ -19,6 +19,6 @@ U.S. Patent Nos. 9,089,489, 7,560,122, 9,375,404 & 9,526,703.
 Manufactured by: Duchesnay Inc. 950 boul.
 Michèle-Bohec Blainville, Québec Canada J7C 5E2
 
-Distributed by: Duchesnay USA, Inc. Bryn Mawr, PA, 19010 Tel: 1-855-722-7734 Fax: 1-888-588-8508 www.duchesnayusa.com
+Distributed by: Duchesnay USA, Inc. Princeton, NJ 08540 Tel: 1-855-722-7734 Fax: 1-888-588-8508 www.duchesnayusa.com
 
 ©2018, Duchesnay Inc. All rights reserved.
