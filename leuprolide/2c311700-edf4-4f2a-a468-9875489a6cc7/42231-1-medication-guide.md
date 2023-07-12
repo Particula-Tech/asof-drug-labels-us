@@ -20,6 +20,6 @@
 | • headache | • vomiting |  |
 | • cough | • upper respiratory tract infection |  |
 | These are not all the possible side effects of FENSOLVI. Call your healthcare provider for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |
-| General information about the safe and effective use of FENSOLVI. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. You can ask your pharmacist or healthcare provider for information about FENSOLVI that is written for health professionals. What are the ingredients in FENSOLVI? Active ingredient: leuprolide acetate. Inactive ingredients: poly (DL-lactide-co-glycolide) and N-methyl-2-pyrrolidone. Manufactured by: Tolmar, Fort Collins, CO 80526 ©2022 Tolmar For more information, go to www.fensolvi.com or call 1-888-FENSOLVI (1-888-336-7658).04006226 Rev. 0 11/22 |  |  |
+| General information about the safe and effective use of FENSOLVI. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. You can ask your pharmacist or healthcare provider for information about FENSOLVI that is written for health professionals. What are the ingredients in FENSOLVI? Active ingredient: leuprolide acetate. Inactive ingredients: poly (DL-lactide-co-glycolide) and N-methyl-2-pyrrolidone. Manufactured by: Tolmar, Fort Collins, CO 80526 ©2022 Tolmar For more information, go to www.fensolvi.com or call 1-888-FENSOLVI (1-888-336-7658).04006226 Rev. 1 04/23 |  |  |
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration Issued: 11/2022
+This Medication Guide has been approved by the U.S. Food and Drug Administration Issued:04/2023

@@ -42,7 +42,7 @@ Inform caregivers about the importance of adherence to the FENSOLVI dosing sched
 
 Rx only
 
-Revised 11/2022
+Revised 04/2023
 
 Manufactured by: Tolmar, Fort Collins, CO 80526
 
@@ -51,4 +51,4 @@ All rights reserved.
 Tolmar, FENSOLVI, and associated logos, are trademarks of the Tolmar group.
 
 04006226 Rev.
-0 11/22
+1 04/23

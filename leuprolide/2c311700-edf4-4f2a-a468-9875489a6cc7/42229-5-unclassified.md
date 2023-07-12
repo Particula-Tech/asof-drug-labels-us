@@ -22,4 +22,4 @@ If the needle hub is damaged or leakage is observed, use a new FENSOLVI carton.
 ©2022 Tolmar
 
 Manufactured by: Tolmar, Fort Collins, CO 80526 04006226 Rev.
-0 11/22
+1 04/23
