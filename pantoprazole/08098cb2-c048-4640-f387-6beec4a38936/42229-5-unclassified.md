@@ -5,4 +5,4 @@ For Medical Information about PROTONIX, please visit www.pfizermedinfo.com or ca
 
 under license from Takeda GmbH D78467 Konstanz, Germany
 
-LAB-0459-20.0
+LAB-0459-21.0

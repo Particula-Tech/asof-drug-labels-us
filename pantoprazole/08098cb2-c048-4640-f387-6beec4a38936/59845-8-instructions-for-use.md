@@ -1,30 +1,33 @@
 # Instructions for Use PROTONIX (pro-TAH-nix) (pantoprazole sodium) for delayed-release oral suspension
 
-1. PROTONIX for delayed-release oral suspension (PROTONIX for oral suspension):
+PROTONIX for delayed-release oral suspension (PROTONIX for oral suspension):
 
 Important information:
 
 - •Do not split, chew, or crush PROTONIX for oral suspension.
 - •Take PROTONIX for oral suspension about 30 minutes before a meal.
-- •PROTONIX for oral suspension:Taking PROTONIX for oral suspension with applesauce:Taking PROTONIX for oral suspension with apple juice:Giving PROTONIX for oral suspension through a nasogastric (NG) tube or gastrostomy tube:
+- •PROTONIX for oral suspension:
   - oshould only be taken with applesauce or apple juice.
   - oshould not be mixed in water or other liquids, or other foods.
   - opacket should not be divided to make a smaller dose.
-  - oOpen the packet of PROTONIX for oral suspension.
-  - oSprinkle all of the granules in the packet on 1 teaspoon of applesauce.
-  - oSwallow the granules and applesauce within 10 minutes of putting the granules on the teaspoon of applesauce.
-  - oTake sips of water to make sure the granules are washed down into the stomach.
+- •Taking PROTONIX for oral suspension with applesauce:
+  - 1.Open the packet of PROTONIX for oral suspension.
+  - 2.Sprinkle all of the granules in the packet on 1 teaspoon of applesauce.
+  - 3.Swallow the granules and applesauce within 10 minutes of putting the granules on the teaspoon of applesauce.
+  - 4.Take sips of water to make sure the granules are washed down into the stomach.
     Take more sips of water as needed.
-  - oOpen the packet of PROTONIX for oral suspension.
-  - oEmpty all of the granules in the packet into a small cup that contains 1 teaspoon of apple juice.
-  - oStir the granules-apple juice mixture for 5 seconds.
+- •Taking PROTONIX for oral suspension with apple juice:
+  - 1.Open the packet of PROTONIX for oral suspension.
+  - 2.Empty all of the granules in the packet into a small cup that contains 1 teaspoon of apple juice.
+  - 3.Stir the granules-apple juice mixture for 5 seconds.
     The granules will not break up.
-  - oSwallow the mixture right away.
-  - oTo make sure that the entire dose is taken, add more apple juice to the cup, stir and swallow the apple juice right away.
-  - oRepeat step 5 if there are granules left in the cup.
-  - oPROTONIX for oral suspension may be given through an NG tube or gastrostomy tube that is size 16 French or larger.
+  - 4.Swallow the mixture right away.
+  - 5.To make sure that the entire dose is taken, add more apple juice to the cup, stir and swallow the apple juice right away.
+  - 6.Repeat step 5 if there are granules left in the cup.
+- •Giving PROTONIX for oral suspension through a nasogastric (NG) tube or gastrostomy tube:
+  - •PROTONIX for oral suspension may be given through an NG tube or gastrostomy tube that is size 16 French or larger.
     Do not give PROTONIX for oral suspension through an NG tube or gastrostomy tube smaller than size 16 French.
-  - oMix PROTONIX for oral suspension only in apple juice when giving through an NG tube or gastrostomy tube.
+  - •Mix PROTONIX for oral suspension only in apple juice when giving through an NG tube or gastrostomy tube.
     - 1.Remove the plunger from a 60 mL (2 ounce) catheter-tip syringe.
       Throw away the plunger.
     - 2.Connect the tip of the catheter-tip syringe to the NG tube or gastrostomy tube.

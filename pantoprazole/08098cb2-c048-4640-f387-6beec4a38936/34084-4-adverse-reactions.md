@@ -111,6 +111,6 @@ Nervous: ageusia, dysgeusia
 
 Psychiatric Disorders: hallucination, confusion, insomnia, somnolence
 
-Renal and Urinary Disorders: acute tubulointerstitial nephritis
+Renal and Genitourinary Disorders: acute tubulointerstitial nephritis, erectile dysfunction
 
 Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, SJS/TEN, DRESS, AGEP, angioedema (Quincke's edema) and cutaneous lupus erythematosus
