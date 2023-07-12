@@ -35,9 +35,9 @@ Infertility
 
 Rx only
 
-Revised 10/2022
+Revised 04/23
 
 Manufactured by: Tolmar, Fort Collins, CO 80526 ©2022 Tolmar
 
 04006171 Rev.
-0 10/22
+2 04/23
