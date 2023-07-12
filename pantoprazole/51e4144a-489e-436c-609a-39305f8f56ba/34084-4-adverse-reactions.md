@@ -79,7 +79,7 @@ Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fata
 
 Musculoskeletal Disorders: rhabdomyolysis, bone fracture
 
-Renal and Urinary Disorders: acute tubulointerstitial nephritis
+Renal and Genitourinary Disorders: acute tubulointerstitial nephritis, erectile dysfunction
 
 Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic failure
 

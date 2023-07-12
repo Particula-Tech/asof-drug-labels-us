@@ -90,7 +90,7 @@ Use the shortest duration of PPI therapy appropriate to the condition being trea
 Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases in gastric acidity.
 The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
 Healthcare providers should temporarily stop PROTONIX I.V. treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
-If serial tests are performed (e.g. for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary [see Clinical Pharmacology (12.2)].
+If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary [see Clinical Pharmacology (12.2)].
 
 ## 5.13 Interference with Urine Screen for THC
 
