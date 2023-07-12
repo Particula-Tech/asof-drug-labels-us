@@ -4,7 +4,7 @@
 
 To avoid medication errors, prescribers and pharmacists must be aware that hydromorphone is available as both immediate-release 8 mg tablets and extended-release 8 mg tablets.
 
-Hydromorphone hydrochloride extended-release tablets should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
+Hydromorphone hydrochloride extended-release tablets should be prescribed only by healthcare professionals who are knowledgeable about the use of extended-release opioids and how to mitigate the associated risks.
 
 Due to the risk of respiratory depression, hydromorphone hydrochloride extended-release tablets are only indicated for use in patients who are already opioid-tolerant.
 Discontinue or taper all other extended-release opioids when beginning hydromorphone hydrochloride extended-release tablet therapy.
@@ -12,21 +12,23 @@ As hydromorphone hydrochloride extended-release tablets are only for use in opio
 
 Patients who are opioid-tolerant are those receiving, for one week or longer, at least 60 mg of oral morphine per day, at least 25 mcg transdermal fentanyl per hour, at least 30 mg of oral oxycodone per day, at least 8 mg of oral hydromorphone per day, at least 25 mg oral oxymorphone per day, at least 60 mg oral hydrocodone per day, or an equianalgesic dose of another opioid.
 
-- •Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
-- •Initiate the dosing regimen for each patient individually, taking into account the patient's prior analgesic treatment experience and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
-- •Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with hydromorphone hydrochloride extended-release tablets and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
+- •Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see Warnings and Precautions (5)].
+  Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of hydromorphone hydrochloride extended-release tablets for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
+- •Initiate the dosing regimen for each patient individually, taking into account the patient's underlying cause and prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
+- •Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with hydromorphone hydrochloride extended-release tablets.
+  Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5)].
 
 Instruct patients to swallow hydromorphone hydrochloride extended-release tablets whole [see Patient Counseling Information (17)].
 Crushing, chewing, or dissolving hydromorphone hydrochloride extended-release tablets will result in uncontrolled delivery of hydromorphone and can lead to overdose or death [see Warnings and Precautions (5.1)].
 
 ## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with hydromorphone hydrochloride extended-release tablets [see Warnings and Precautions (5.3), Patient Counseling Information (17)].
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with hydromorphone hydrochloride extended-release tablets [see Warnings and Precautions (5.2), Patient Counseling Information (17)].
 
 Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
 
 Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
-The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.3, 5.5)].
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.2, 5.3)].
 
 Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
 
@@ -38,7 +40,7 @@ Patients receiving oral immediate-release hydromorphone may be converted to hydr
 
 Conversion from Other Oral Opioids to Hydromorphone Hydrochloride Extended-Release Tablets
 
-Discontinue all other around-the-clock opioid drugs when hydromorphone hydrochloride extended-release tablet therapy is initiated.
+When hydromorphone hydrochloride extended-release tablet therapy is initiated, discontinue all other opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
 
 There is substantial inter-patient variability in the relative potency of different opioid drugs and opioid formulations.
 Therefore, a conservative approach is advised when determining the total daily dosage of hydromorphone hydrochloride extended-release tablets.
@@ -117,9 +119,9 @@ Methadone has a long half-life and can accumulate in the plasma.
 ## 2.4 Titration and Maintenance of Therapy
 
 Individually titrate hydromorphone hydrochloride extended-release tablets to a dose that provides adequate analgesia and minimizes adverse reactions.
-Continually reevaluate patients receiving hydromorphone hydrochloride extended-release tablets to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse.
+Continually reevaluate patients receiving hydromorphone hydrochloride extended-release tablets to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as to reassess for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
 Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
-During chronic therapy, periodically reassess the continued need for opioid analgesics.
+During use of opioid therapy for an extended period of time, periodically reassess the continued need for opioid analgesics.
 
 Plasma levels of hydromorphone hydrochloride extended-release tablets are sustained for 18 to 24 hours.
 Dosage adjustments of hydromorphone hydrochloride extended-release tablets may be made in increments of 4 to 8 mg every 3 to 4 days as needed to achieve adequate analgesia.
@@ -153,10 +155,10 @@ Reassess the patient frequently to manage pain and withdrawal symptoms, should t
 Common withdrawal symptoms include restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 If withdrawal symptoms arise, it may be necessary to pause the taper for a period of time or raise the dose of the opioid analgesic to the previous dose, and then proceed with a slower taper.
-In addition, monitor patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
+In addition, evaluate patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
 
-When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
-A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.12), Drug Abuse and Dependence (9.3)].
+When managing patients taking opioid analgesics, particularly those who have been treated for an extended period of time and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
+A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].
 
 ## 2.6 Dosage Modifications in Patients with Moderate Hepatic Impairment
 

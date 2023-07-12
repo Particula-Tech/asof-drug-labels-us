@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Storage and Disposal
 
-Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store hydromorphone hydrochloride extended-release tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.2), Drug Abuse and Dependence (9.2)].
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store hydromorphone hydrochloride extended-release tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.5), Drug Abuse and Dependence (9.2)].
 Inform patients that leaving hydromorphone hydrochloride extended-release tablets unsecured can pose a deadly risk to others in the home.
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
@@ -20,12 +20,12 @@ Instruct patients not to share hydromorphone hydrochloride extended-release tabl
 
 Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting hydromorphone hydrochloride extended-release tablets or when the dose is increased, and that it can occur even at recommended dosages.
 
-Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.3)].
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.2)].
 
 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
 Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with hydromorphone hydrochloride extended-release tablets.
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
 
 Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
 
@@ -40,11 +40,16 @@ If naloxone is prescribed, also advise patients and caregivers:
 
 Accidental Ingestion
 
-Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
+Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if hydromorphone hydrochloride extended-release tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.5), Drug Interactions (7)].
+Inform patients and caregivers that potentially fatal additive effects may occur if hydromorphone hydrochloride extended-release tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
+
+Hyperalgesia and Allodynia
+
+Inform patients and caregivers not to increase opioid dosage without first consulting a clinician.
+Advise patients to seek medical attention if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings and Precautions (5.6); Postmarketing Experience (6.2)].
 
 Serotonin Syndrome
 
@@ -56,12 +61,6 @@ MAOI Interaction
 
 Inform patients to avoid taking hydromorphone hydrochloride extended-release tablets while using any drugs that inhibit monoamine oxidase.
 Patients should not start MAOIs while taking hydromorphone hydrochloride extended-release tablets [see Drug Interactions (7)].
-
-Adrenal Insufficiency
-
-Inform patients that hydromorphone hydrochloride extended-release tablets could cause adrenal insufficiency, a potentially life-threatening condition.
-Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
-Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.7)].
 
 Important Administration Instructions
 
@@ -77,6 +76,21 @@ Important Discontinuation Instructions
 
 In order to avoid developing withdrawal symptoms, instruct patients not to discontinue hydromorphone hydrochloride extended-release tablets without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
 
+Driving or Operating Heavy Machinery
+
+Inform patients that hydromorphone hydrochloride extended-release tablets may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.15)].
+
+Constipation
+
+Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
+
+Adrenal Insufficiency
+
+Inform patients that hydromorphone hydrochloride extended-release tablets could cause adrenal insufficiency, a potentially life-threatening condition.
+Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.8)].
+
 Gastrointestinal Blockage
 
 Advise patients that people with certain stomach or intestinal problems such as narrowing of the intestines or previous surgery may be at higher risk of developing a blockage.
@@ -91,7 +105,7 @@ Instruct patients how to recognize symptoms of low blood pressure and how to red
 Anaphylaxis
 
 Inform patients that anaphylaxis has been reported with ingredients contained in hydromorphone hydrochloride extended-release tablets.
-Advise patients how to recognize such a reaction and when to seek medical attention [see Contraindications (4), Warnings and Precautions (5.13), and Adverse Reactions (6.2)].
+Advise patients how to recognize such a reaction and when to seek medical attention [see Contraindications (4), Warnings and Precautions (5.14), and Adverse Reactions (6.2)].
 
 Pregnancy
 
@@ -112,24 +126,15 @@ Infertility
 Inform patients that chronic use of opioids may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
-Driving or Operating Heavy Machinery
-
-Inform patients that hydromorphone hydrochloride extended-release tablets may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.14)].
-
-Constipation
-
-Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
-
 Manufactured By
 
 Padagis
 
 Minneapolis, MN 55427
 
-1B500 RC J15
+1B500 RC J16
 
-Rev 10-22
+Rev 04/2023
 
 PHARMACIST: Dispense a separate Medication Guide to each patient.
-Dispense with Medication Guide available at www.padagis.com/medguide/HDRMTabs
+Dispense with Medication Guide available at www.padagis.com/medguide/HDMRTabs

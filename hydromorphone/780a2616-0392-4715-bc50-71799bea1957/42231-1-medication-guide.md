@@ -1,6 +1,6 @@
 # Medication Guide
 
-Dispense with Medication Guide available at www.padagis.com/medguide/HDRMTabs
+Dispense with Medication Guide available at www.padagis.com/medguide/HDMRTabs
 
 Medication Guide
 
@@ -9,10 +9,10 @@ Hydromorphone Hydrochloride (hy-druh-mor-fon hy-druh-klawr-ahyd) Extended-Releas
 Hydromorphone hydrochloride extended-release tablets are:
 
 - 
-  - •A strong prescription pain medicine that contains an opioid (narcotic) that is used to manage pain severe enough to require daily around-the-clock, long-term treatment with an opioid, when other pain treatments such as non-opioid pain medicines or immediate-release opioid medicines do not treat your pain well enough or you cannot tolerate them.
+  - •A strong prescription pain medicine that contains an opioid (narcotic) that is used to manage severe and persistent pain that requires an extended treatment period with a daily opioid pain medicine, when other pain treatments such as non-opioid pain medicines or immediate-release opioid medicines do not treat your pain well enough or you cannot tolerate them.
   - •A long-acting (extended-release) opioid pain medicine that can put you at risk for overdose and death.
     Even if you take your dose correctly as prescribed you are at risk for opioid addiction, abuse, and misuse that can lead to death.
-  - •Not for use to treat pain that is not around-the-clock.
+  - •Not to be taken on an “as needed” basis.
 
 Important information about hydromorphone hydrochloride extended-release tablets:
 
@@ -40,17 +40,20 @@ Before taking hydromorphone hydrochloride extended-release tablets, tell your he
 - •pancreas or gallbladder problems
 - •abuse of street or prescription drugs, alcohol addiction, opioid overdose, or mental health problems.
 
-Tell your healthcare provider if you are:
+Tell your healthcare provider if you:
 
 - 
-  - •pregnant or planning to become pregnant.
-    Prolonged use of hydromorphone hydrochloride extended-release tablets during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.
-  - •breastfeeding.
+  - •are pregnant or planning to become pregnant.
+    Use of hydromorphone hydrochloride extended-release tablets for an extended period of time during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.
+  - •are breastfeeding.
     Not recommended during treatment with hydromorphone hydrochloride extended-release tablets.
     It may harm your baby.
-  - •living in a household where there are small children or someone who has abused street or prescription drugs
-  - •taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
+  - •are living in a household where there are small children or someone who has abused street or prescription drugs
+  - •are taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
     Taking hydromorphone hydrochloride extended-release tablets with certain other medicines can cause serious side effects.
+  - •notice your pain getting worse.
+    If your pain gets worse after you take hydromorphone hydrochloride extended-release tablets, do not take more of hydromorphone hydrochloride extended-release tablets without first talking to your doctor.
+    Talk to your doctor if the pain you have increases, if you feel more sensitive to pain, or if you have new pain after taking hydromorphone hydrochloride extended-release tablets.
 
 When taking hydromorphone hydrochloride extended-release tablets:
 
@@ -90,16 +93,12 @@ Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 For more information go to dailymed.nlm.nih.gov
 
-Manufactured By
+Manufactured By Padagis, Minneapolis, MN 55427
 
-Padagis
-
-Minneapolis, MN 55427
-
-1B500 RC IC6 Rev 10-22
+1B500 RC MG7
 
 www.padagis.com or call 1-866-634-9120
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised October 2022
+Revised April 2023
