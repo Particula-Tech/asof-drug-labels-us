@@ -19,7 +19,7 @@ DNA gyrase is an essential enzyme which controls DNA topology and assists in DNA
 Cross-resistance has been observed between ofloxacin and other fluoroquinolones.
 There is generally no cross-resistance between ofloxacin and other classes of antibacterial agents such as beta-lactams or aminoglycosides.
 
-Ofloxacin has been shown to be active against most isolates of the following microorganisms, bothin vitro and clinically in otic infections as described in the INDICATIONS AND USAGE section.
+Ofloxacin has been shown to be active against most isolates of the following microorganisms, both in vitro and clinically in otic infections as described in the INDICATIONS AND USAGE section.
 
 Aerobes, gram-positive:
 

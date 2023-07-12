@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Ofloxacin Otic Solution 0.3% is indicated for the treatment of infections caused by susceptible isolates of the designated microorganisms in the specific conditions listed below:
+Ofloxacin otic solution, 0.3% is indicated for the treatment of infections caused by susceptible isolates of the designated microorganisms in the specific conditions listed below:
 
 Otitis Externa in adults and pediatric patients, 6 months and older, due to Escherichia coli, Pseudomonas aeruginosa and Staphylococcus aureus.
 Chronic Suppurative Otitis Media in patients 12 years and older with perforated tympanic membranes due to Proteus mirabilis, Pseudomonas aeruginosa and Staphylococcus aureus.
