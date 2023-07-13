@@ -33,8 +33,8 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 Fetal testing may be appropriate, based on the week of gestation.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
 
-Closely observe infants with histories of in utero exposure to olmesartan for hypotension, oliguria, and hyperkalemia.
-In neonates with a history of in utero exposure to olmesartan, if oliguria or hypotension occur, utilize measures to maintain adequate blood pressure and renal perfusion.
+Closely observe infants with histories of in uteroexposure to olmesartan for hypotension, oliguria, and hyperkalemia.
+In neonates with a history of in uteroexposure to olmesartan, if oliguria or hypotension occur, utilize measures to maintain adequate blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and supporting renal function [see Use in Specific Populations (8.4)].
 
 Data
@@ -46,13 +46,13 @@ However, these studies have been conducted for olmesartan medoxomil and amlodipi
 
 Olmesartan medoxomil
 
-No teratogenic effects were observed when olmesartan medoxomil was administered to pregnant rats at oral doses up to 1000 mg/kg/day (240 times the maximum recommended human dose [MRHD] on a mg/m 2 basis) or pregnant rabbits at oral doses up to 1 mg/kg/day (half the MRHD on a mg/m 2 basis; higher doses could not be evaluated for effects on fetal development as they were lethal to the does).
+No teratogenic effects were observed when olmesartan medoxomil was administered to pregnant rats at oral doses up to 1000 mg/kg/day (240 times the maximum recommended human dose [MRHD] on a mg/m 2basis) or pregnant rabbits at oral doses up to 1 mg/kg/day (half the MRHD on a mg/m 2basis; higher doses could not be evaluated for effects on fetal development as they were lethal to the does).
 In rats, significant decreases in pup birth weight and weight gain were observed at doses ≥1.6 mg/kg/day, and delays in developmental milestones (delayed separation of ear auricular, eruption of lower incisors, appearance of abdominal hair, descent of testes, and separation of eyelids) and dose-dependent increases in the incidence of dilation of the renal pelvis were observed at doses ≥ 8 mg/kg/day.
 The no observed effect dose for developmental toxicity in rats is 0.3 mg/kg/day, about one-tenth the MRHD of 40 mg/day.
 
 Amlodipine
 
-No evidence of teratogenicity or other embryo/fetal toxicity was found when pregnant rats and rabbits were treated orally with amlodipine maleate at doses of up to 10 mg amlodipine/kg/day (respectively about 10 and 20 times the maximum recommended human dose of 10 mg amlodipine on a mg/m 2 basis) during their respective periods of major organogenesis (calculations based on a patient weight of 60 kg).
+No evidence of teratogenicity or other embryo/fetal toxicity was found when pregnant rats and rabbits were treated orally with amlodipine maleate at doses of up to 10 mg amlodipine/kg/day (respectively about 10 and 20 times the maximum recommended human dose of 10 mg amlodipine on a mg/m 2basis) during their respective periods of major organogenesis (calculations based on a patient weight of 60 kg).
 However, litter size was significantly decreased (by about 50%), and the number of intrauterine deaths was significantly increased (about 5-fold) in rats receiving amlodipine maleate at a dose equivalent to 10 mg amlodipine/kg/day for 14 days before mating and throughout mating and gestation.
 Amlodipine maleate has been shown to prolong both the gestational period and the duration of labor in rats at this dose.
 
@@ -82,13 +82,11 @@ Elderly patients have decreased clearance of amlodipine.
 Starting amlodipine or adding amlodipine at 2.5 mg in patients ≥75 years old is recommended.
 The lowest dose of Azor is 5/20 mg; therefore, initial therapy with Azor is not recommended in patients ≥75 years old.
 
-Amlodipine.
-Reported clinical experience has not identified differences in responses between the elderly and younger patients.
+Amlodipine.Reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 Elderly patients have decreased clearance of amlodipine with a resulting increase of AUC of approximately 40% to 60%, and a lower initial dose may be required.
 
-Olmesartan medoxomil.
-Of the total number of hypertensive patients receiving olmesartan medoxomil in clinical studies, more than 20% were 65 years of age and over, while more than 5% were 75 years of age and older.
+Olmesartan medoxomil.Of the total number of hypertensive patients receiving olmesartan medoxomil in clinical studies, more than 20% were 65 years of age and over, while more than 5% were 75 years of age and older.
 No overall differences in effectiveness or safety were observed between elderly patients and younger patients.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
@@ -98,8 +96,7 @@ There are no studies of Azor in patients with hepatic insufficiency, but both am
 
 The recommended initial dose of amlodipine in patients with severe hepatic impairment is 2.5 mg, a dose not available with Azor.
 
-Amlodipine.
-Amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t ½) is 56 hours in patients with severely impaired hepatic function [see Warnings and Precautions (5.5)].
+Amlodipine.Amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t ½) is 56 hours in patients with severely impaired hepatic function [see Warnings and Precautions (5.5)].
 
 Olmesartan medoxomil.
 Increases in AUC 0-∞ and peak plasma concentration (C max) for olmesartan were observed with moderate hepatic impairment compared to those in matched controls with an increase in AUC of about 60%.
@@ -108,12 +105,10 @@ Increases in AUC 0-∞ and peak plasma concentration (C max) for olmesartan were
 
 There are no studies of Azor in patients with renal impairment.
 
-Amlodipine.
-The pharmacokinetics of amlodipine are not significantly influenced by renal impairment.
+Amlodipine.The pharmacokinetics of amlodipine are not significantly influenced by renal impairment.
 Patients with renal failure may therefore receive the usual initial dose.
 
-Olmesartan medoxomil.
-Patients with renal insufficiency have elevated serum concentrations of olmesartan compared with patients with normal renal function.
+Olmesartan medoxomil.Patients with renal insufficiency have elevated serum concentrations of olmesartan compared with patients with normal renal function.
 After repeated dosing, AUC was approximately tripled in patients with severe renal impairment (creatinine clearance <20 mL/min).
 No initial dosage adjustment is recommended for patients with moderate to marked renal impairment (creatinine clearance <40 mL/min).
 

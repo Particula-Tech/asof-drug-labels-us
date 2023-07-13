@@ -5,13 +5,13 @@
 Simvastatin: Co-administration of simvastatin with amlodipine increases the systemic exposure of simvastatin.
 Limit the dose of simvastatin in patients on amlodipine to 20 mg daily [see Clinical Pharmacology (12.3)].
 
-Immunosuppressants: Amlodipine may increase the systemic exposure of cyclosporine or tacrolimus when co-administered.
+Immunosuppressants:Amlodipine may increase the systemic exposure of cyclosporine or tacrolimus when co-administered.
 Frequent monitoring of trough blood levels of cyclosporine and tacrolimus is recommended and adjust the dose when appropriate [see Clinical Pharmacology (12.3)].
 
-CYP3A Inhibitors: Co-administration of amlodipine with CYP3A inhibitors (moderate and strong) results in increased systemic exposure to amlodipine and may require dose reduction.
+CYP3A Inhibitors:Co-administration of amlodipine with CYP3A inhibitors (moderate and strong) results in increased systemic exposure to amlodipine and may require dose reduction.
 Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A inhibitors to determine the need for dose adjustment.
 
-CYP3A Inducers: No information is available on the quantitative effects of CYP3A inducers on amlodipine.
+CYP3A Inducers:No information is available on the quantitative effects of CYP3A inducers on amlodipine.
 Blood pressure should be closely monitored when amlodipine is co-administered with CYP3A inducers.
 
 ## 7.2 Drug Interactions with Olmesartan Medoxomil
@@ -31,7 +31,7 @@ Most patients receiving the combination of two RAS inhibitors do not obtain any 
 In general, avoid combined use of RAS inhibitors.
 Closely monitor blood pressure, renal function and electrolytes in patients on Azor and other agents that affect the RAS.
 
-Do not co-administer aliskiren with Azor in patients with diabetes [see Contraindications (4)].
+Do not co-administer aliskiren with Azor in patients with diabetes [seeContraindications(4)].
 Avoid use of aliskiren with Azor in patients with renal impairment (GFR <60 ml/min).
 
 Use with Colesevelam Hydrochloride:

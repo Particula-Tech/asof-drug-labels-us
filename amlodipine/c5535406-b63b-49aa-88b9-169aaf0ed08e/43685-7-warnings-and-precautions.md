@@ -6,7 +6,7 @@ Azor can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
-When pregnancy is detected, discontinue Azor as soon as possible [see Use in Specific Populations (8.1)].
+When pregnancy is detected, discontinue Azor as soon as possible [seeUse inSpecific Populations (8.1)].
 
 ## 5.2 Hypotension in Volume- or Salt-Depleted Patients
 
@@ -29,7 +29,7 @@ The mechanism of this effect has not been elucidated.
 
 Changes in renal function may be anticipated in susceptible individuals treated with olmesartan medoxomil as a consequence of inhibiting the renin-angiotensin-aldosterone system.
 In patients whose renal function may depend upon the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with angiotensin converting enzyme inhibitors and angiotensin receptor antagonists has been associated with oliguria or progressive azotemia and (rarely) with acute renal failure and/or death.
-Similar effects may occur in patients treated with Azor because of the olmesartan medoxomil component [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+Similar effects may occur in patients treated with Azor because of the olmesartan medoxomil component [seeDrug Interactions (7) andClinical Pharmacology (12.3)].
 
 In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen (BUN) have been reported.
 There has been no long-term use of olmesartan medoxomil in patients with unilateral or bilateral renal artery stenosis, but similar effects would be expected with olmesartan medoxomil and Azor.

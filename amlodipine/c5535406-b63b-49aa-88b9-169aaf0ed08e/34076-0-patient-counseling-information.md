@@ -2,7 +2,7 @@
 
 Pregnancy: Advise female patients of childbearing age about the consequences of exposure to Azor during pregnancy.
 Discuss treatment options with women planning to become pregnant.
-Tell patients to report pregnancies to their physicians as soon as possible [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+Tell patients to report pregnancies to their physicians as soon as possible [see Warnings and Precautions (5.1)and Use in Specific Populations (8.1)].
 
 Lactation: Advise nursing women not to breastfeed during treatment with Azor [see Use in Specific Populations (8.2)].
 

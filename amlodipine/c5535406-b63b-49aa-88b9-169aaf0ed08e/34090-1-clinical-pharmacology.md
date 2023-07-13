@@ -2,28 +2,25 @@
 
 ## 12.1 Mechanism of Action
 
-Azor.
-Azor is a combination of two antihypertensive drugs: a dihydropyridine calcium antagonist (calcium ion antagonist or slow-channel blocker), amlodipine besylate, and an angiotensin II receptor blocker, olmesartan medoxomil.
+Azor.Azor is a combination of two antihypertensive drugs: a dihydropyridine calcium antagonist (calcium ion antagonist or slow-channel blocker), amlodipine besylate, and an angiotensin II receptor blocker, olmesartan medoxomil.
 The amlodipine component of Azor inhibits the transmembrane influx of calcium ions into vascular smooth muscle and cardiac muscle, and the olmesartan medoxomil component of Azor blocks the vasoconstrictor effects of angiotensin II.
 
-Amlodipine.
-Experimental data suggests that amlodipine binds to both dihydropyridine and nonhydropyridine binding sites.
+Amlodipine.Experimental data suggests that amlodipine binds to both dihydropyridine and nonhydropyridine binding sites.
 The contractile processes of cardiac muscle and vascular smooth muscle are dependent upon the movement of extracellular calcium ions into these cells through specific ion channels.
 Amlodipine inhibits calcium ion influx across cell membranes selectively, with a greater effect on vascular smooth muscle cells than on cardiac muscle cells.
-Negative inotropic effects can be detected in vitro but such effects have not been seen in intact animals at therapeutic doses.
+Negative inotropic effects can be detected invitrobut such effects have not been seen in intact animals at therapeutic doses.
 Serum calcium concentration is not affected by amlodipine.
 Within the physiologic pH range, amlodipine is an ionized compound (pKa=8.6), and its kinetic interaction with the calcium channel receptor is characterized by a gradual rate of association and dissociation with the receptor binding site, resulting in a gradual onset of effect.
 
 Amlodipine is a peripheral arterial vasodilator that acts directly on vascular smooth muscle to cause a reduction in peripheral vascular resistance and reduction in blood pressure.
 
-Olmesartan medoxomil.
-Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin converting enzyme (ACE, kininase II).
+Olmesartan medoxomil.Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin converting enzyme (ACE, kininase II).
 Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation and renal reabsorption of sodium.
-Olmesartan blocks the vasoconstrictor effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in vascular smooth muscle.
+Olmesartan blocks the vasoconstrictor effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1receptor in vascular smooth muscle.
 Its action is, therefore, independent of the pathways for angiotensin II synthesis.
 
-An AT 2 receptor is found also in many tissues, but this receptor is not known to be associated with cardiovascular homeostasis.
-Olmesartan has more than a 12,500-fold greater affinity for the AT 1 receptor than for the AT 2 receptor.
+An AT 2receptor is found also in many tissues, but this receptor is not known to be associated with cardiovascular homeostasis.
+Olmesartan has more than a 12,500-fold greater affinity for the AT 1receptor than for the AT 2receptor.
 
 Blockade of the renin-angiotensin system with ACE inhibitors, which inhibit the biosynthesis of angiotensin II from angiotensin I, is a mechanism of many drugs used to treat hypertension.
 ACE inhibitors also inhibit the degradation of bradykinin, a reaction also catalyzed by ACE.
@@ -34,8 +31,7 @@ Blockade of the angiotensin II receptor inhibits the negative regulatory feedbac
 
 ## 12.2 Pharmacodynamics
 
-Amlodipine.
-Following administration of therapeutic doses to patients with hypertension, amlodipine produces vasodilation resulting in a reduction of supine and standing blood pressures.
+Amlodipine.Following administration of therapeutic doses to patients with hypertension, amlodipine produces vasodilation resulting in a reduction of supine and standing blood pressures.
 These decreases in blood pressure are not accompanied by a significant change in heart rate or plasma catecholamine levels with chronic dosing.
 
 With chronic once daily oral administration, antihypertensive effectiveness is maintained for at least 24 hours.
@@ -50,8 +46,7 @@ Similar findings, however, have been observed in normals or well-compensated pat
 Amlodipine does not change sinoatrial nodal function or atrioventricular conduction in intact animals or man.
 In clinical studies in which amlodipine was administered in combination with beta-blockers to patients with either hypertension or angina, no adverse effects on electrocardiographic parameters were observed.
 
-Olmesartan medoxomil.
-Olmesartan medoxomil doses of 2.5 mg to 40 mg inhibit the pressor effects of angiotensin I infusion.
+Olmesartan medoxomil.Olmesartan medoxomil doses of 2.5 mg to 40 mg inhibit the pressor effects of angiotensin I infusion.
 The duration of the inhibitory effect was related to dose, with doses of olmesartan medoxomil >40 mg giving >90% inhibition at 24 hours.
 
 Plasma concentrations of angiotensin I and angiotensin II and plasma renin activity (PRA) increase after single and repeated administration of olmesartan medoxomil to healthy subjects and hypertensive patients.
@@ -63,24 +58,20 @@ The pharmacokinetics of amlodipine and olmesartan medoxomil from Azor are equiva
 The bioavailability of both components is well below 100%, but neither component is affected by food.
 The effective half-lives of amlodipine (45±11 hours) and olmesartan (7±1 hours) result in a 2- to 3- fold accumulation for amlodipine and negligible accumulation for olmesartan with once-daily dosing.
 
-Amlodipine.
-After oral administration of therapeutic doses of amlodipine, absorption produces peak plasma concentrations between 6 and 12 hours.
+Amlodipine.After oral administration of therapeutic doses of amlodipine, absorption produces peak plasma concentrations between 6 and 12 hours.
 Absolute bioavailability is estimated as between 64% and 90%.
 
-Olmesartan medoxomil.
-Olmesartan medoxomil is rapidly and completely bioactivated by ester hydrolysis to olmesartan during absorption from the gastrointestinal tract.
+Olmesartan medoxomil.Olmesartan medoxomil is rapidly and completely bioactivated by ester hydrolysis to olmesartan during absorption from the gastrointestinal tract.
 The absolute bioavailability of olmesartan medoxomil is approximately 26%.
 After oral administration, the peak plasma concentration (C max) of olmesartan is reached after 1 to 2 hours.
 Food does not affect the bioavailability of olmesartan medoxomil.
 
 Distribution
 
-Amlodipine.
-Ex vivo studies have shown that approximately 93% of the circulating drug is bound to plasma proteins in hypertensive patients.
+Amlodipine.Ex vivostudies have shown that approximately 93% of the circulating drug is bound to plasma proteins in hypertensive patients.
 Steady-state plasma levels of amlodipine are reached after 7 to 8 days of consecutive daily dosing.
 
-Olmesartan medoxomil.
-The volume of distribution of olmesartan is approximately 17 L. Olmesartan is highly bound to plasma proteins (99%) and does not penetrate red blood cells.
+Olmesartan medoxomil.The volume of distribution of olmesartan is approximately 17 L. Olmesartan is highly bound to plasma proteins (99%) and does not penetrate red blood cells.
 The protein binding is constant at plasma olmesartan concentrations well above the range achieved with recommended doses.
 
 In rats, olmesartan crossed the blood-brain barrier poorly, if at all.
@@ -89,13 +80,11 @@ Olmesartan was distributed to milk at low levels in rats.
 
 Metabolism and Excretion
 
-Amlodipine.
-Amlodipine is extensively (about 90%) converted to inactive metabolites via hepatic metabolism.
+Amlodipine.Amlodipine is extensively (about 90%) converted to inactive metabolites via hepatic metabolism.
 Elimination from the plasma is biphasic with a terminal elimination half-life of about 30 to 50 hours.
 Ten percent of the parent compound and 60% of the metabolites are excreted in the urine.
 
-Olmesartan medoxomil.
-Following the rapid and complete conversion of olmesartan medoxomil to olmesartan during absorption, there is virtually no further metabolism of olmesartan.Total plasma clearance of olmesartan is 1.3 L/h, with a renal clearance of 0.6 L/h.
+Olmesartan medoxomil.Following the rapid and complete conversion of olmesartan medoxomil to olmesartan during absorption, there is virtually no further metabolism of olmesartan.Total plasma clearance of olmesartan is 1.3 L/h, with a renal clearance of 0.6 L/h.
 Approximately 35% to 50% of the absorbed dose is recovered in urine while the remainder is eliminated in feces via the bile.
 
 Olmesartan appears to be eliminated in a biphasic manner with a terminal elimination half-life of approximately 13 hours.
@@ -108,28 +97,23 @@ Geriatric Patients
 
 The pharmacokinetic properties of Azor in the elderly are similar to those of the individual components.
 
-Amlodipine.
-Elderly patients have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40% to 60%, and a lower initial dose may be required.
+Amlodipine.Elderly patients have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40% to 60%, and a lower initial dose may be required.
 
-Olmesartan medoxomil.
-The pharmacokinetics of olmesartan medoxomil were studied in the elderly (≥65 years).
+Olmesartan medoxomil.The pharmacokinetics of olmesartan medoxomil were studied in the elderly (≥65 years).
 Overall, maximum plasma concentrations of olmesartan were similar in young adults and the elderly.
-Modest accumulation of olmesartan was observed in the elderly with repeated dosing; AUC ѕѕ, τ was 33% higher in elderly patients, corresponding to an approximate 30% reduction in CL R.
+Modest accumulation of olmesartan was observed in the elderly with repeated dosing; AUC ѕѕ, τwas 33% higher in elderly patients, corresponding to an approximate 30% reduction in CL R.
 
 Pediatric Patients
 
-Amlodipine.
-Sixty-two hypertensive patients aged 6 to 17 years received doses of amlodipine between 1.25 mg and 20 mg.
+Amlodipine.Sixty-two hypertensive patients aged 6 to 17 years received doses of amlodipine between 1.25 mg and 20 mg.
 Weight-adjusted clearance and volume of distribution were similar to values in adults.
 
-Olmesartan medoxomil.
-The pharmacokinetics of olmesartan medoxomil have not been investigated in patients <18 years of age.
+Olmesartan medoxomil.The pharmacokinetics of olmesartan medoxomil have not been investigated in patients <18 years of age.
 
 Male and Female Patients
 
 Population pharmacokinetic analysis indicated that female patients had approximately 15% smaller clearances of olmesartan than male patients.
 Gender had no effect on the clearance of amlodipine.
 
-Olmesartan medoxomil.
-Minor differences were observed in the pharmacokinetics of olmesartan medoxomil in women compared to men.
-AUC and C max were 10% to 15% higher in women than in men.
+Olmesartan medoxomil.Minor differences were observed in the pharmacokinetics of olmesartan medoxomil in women compared to men.
+AUC and C maxwere 10% to 15% higher in women than in men.
