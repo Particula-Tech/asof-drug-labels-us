@@ -15,8 +15,8 @@ When discontinuing therapy, gradual dose reduction is recommended whenever possi
 
 ## 2.2 Dosage Recommendations for Patients with Renal Impairment
 
-The maximum recommended dose in patients with moderate renal impairment (24-hr creatinine clearance [CL cr] = 30 to 50 mL/min, Cockcroft-Gault [C-G]) is 50 mg per day.
-The maximum recommended dose in patients with severe renal impairment (CL cr 15 to 29 mL/min, C-G) or end-stage renal disease (ESRD, CL cr < 15 mL/min, C-G) is 25 mg every day or 50 mg every other day.
+The maximum recommended dose in patients with moderate renal impairment (24-hr creatinine clearance [CL Cr]=30 to 50 mL/min, Cockcroft-Gault [C-G]) is 50 mg per day.
+The maximum recommended dose in patients with severe renal impairment (CL Cr15 to 29 mL/min, C-G) or end-stage renal disease (ESRD, CL Cr<15 mL/min, C-G) is 25 mg every day or 50 mg every other day.
 Supplemental doses should not be given to patients after dialysis [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.3 Dosage Recommendations for Patients with Hepatic Impairment
@@ -33,7 +33,8 @@ Patients should be periodically reassessed to determine the need for continued t
 ## 2.5 Discontinuing Desvenlafaxine
 
 Adverse reactions may occur upon discontinuation of desvenlafaxine [see Warnings and Precautions (5.7)].
-Gradually reduce the dosage rather than stopping desvenlafaxine abruptly whenever possible.
+Gradually reduce the dosage rather than stopping desvenlafaxine abruptly when discontinuing therapy with desvenlafaxine.
+In some patients, discontinuation may need to occur over a period of several months.
 
 ## 2.6 Switching Patients From Other Antidepressants to Desvenlafaxine
 

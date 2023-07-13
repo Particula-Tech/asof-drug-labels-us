@@ -18,7 +18,7 @@ Table 8: Clinically Important Drug Interactions with Desvenlafaxine
 | Intervention | Closely monitor for bleeding for patients receiving an antiplatelet or anticoagulant drug when desvenlafaxine is initiated or discontinued [see Warnings and Precautions (5.4)]. |
 | Examples | NSAIDs, aspirin, and warfarin |
 | Drugs that are Primarily Metabolized by CYP2D6 |  |
-| Clinical Impact | Concomitant use of desvenlafaxine increases C max and AUC of a drug primarily metabolized by CYP2D6 which may increase the risk of toxicity of the CYP2D6 substrate drug [see Clinical Pharmacology (12.3)]. |
+| Clinical Impact | Concomitant use of desvenlafaxine increases C maxand AUC of a drug primarily metabolized by CYP2D6 which may increase the risk of toxicity of the CYP2D6 substrate drug [see Clinical Pharmacology (12.3)]. |
 | Intervention | Original dose should be taken when co-administered with desvenlafaxine 100 mg or lower. Reduce the dose of these drugs by up to one-half if co-administered with 400 mg of desvenlafaxine. |
 | Examples | desipramine, atomoxetine, dextromethorphan, metoprolol, nebivolol, perphenazine, tolterodine |
 

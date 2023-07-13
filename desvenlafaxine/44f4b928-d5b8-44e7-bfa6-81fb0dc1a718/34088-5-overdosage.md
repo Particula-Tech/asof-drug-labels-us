@@ -17,5 +17,5 @@ The extent to which the finding of an increased risk of fatal outcomes can be at
 ## 10.2 Management of Overdosage
 
 No specific antidotes for desvenlafaxine are known.
-In managing overdosage, consider the possibility of multiple drug involvement.
+In managing over dosage, consider the possibility of multiple drug involvement.
 In case of overdose, call Poison Control Center at 1-800-222-1222 for latest recommendations.

@@ -7,7 +7,7 @@ Pregnancy Exposure Registry
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
 Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185.
 
-Risk summary
+Risk Summary
 
 There are no published studies on desvenlafaxine in pregnant women; however published epidemiologic studies of pregnant women exposed to venlafaxine, the parent compound, have not reported a clear association with adverse developmental outcomes (see Data).
 There are risks associated with untreated depression in pregnancy and with exposure to SNRIs and SSRIs, including desvenlafaxine, during pregnancy (see Clinical Considerations).
@@ -21,26 +21,34 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk A prospective longitudinal study of 201 women with a history of major depression who were euthymic at the beginning of pregnancy, showed that women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
+Disease-Associated Maternal and/or Embryo/Fetal Risk
 
-Maternal adverse reactions Exposure to SNRIs in mid to late pregnancy may increase the risk for preeclampsia, and exposure to SNRIs near delivery may increase the risk for postpartum hemorrhage.
+A prospective longitudinal study of 201 women with a history of major depression who were euthymic at the beginning of pregnancy, showed that women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
 
-Fetal/Neonatal adverse reactions Exposure to SNRIs or SSRIs in late pregnancy may lead to an increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Maternal Adverse Reactions
+
+Exposure to SNRIs in mid to late pregnancy may increase the risk for preeclampsia, and exposure to SNRIs near delivery may increase the risk for postpartum hemorrhage.
+
+Fetal/Neonatal Adverse Reactions
+
+Exposure to SNRIs or SSRIs in late pregnancy may lead to an increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Monitor neonates who were exposed to desvenlafaxine in the third trimester of pregnancy for drug discontinuation syndrome (see Data).
 
 Data
 
-Human Data Published epidemiological studies of pregnant women exposed to the parent compound venlafaxine have not reported a clear association with major birth defects or miscarriage.
+Human Data
+
+Published epidemiological studies of pregnant women exposed to the parent compound venlafaxine have not reported a clear association with major birth defects or miscarriage.
 Methodological limitations of these observational studies include possible exposure and outcome misclassification, lack of adequate controls, adjustment for confounders, and confirmatory studies; therefore, these studies cannot establish or exclude any drug-associated risk during pregnancy.
 
 Retrospective cohort studies based on claims data have shown an association between venlafaxine use and preeclampsia, compared to depressed women who did not take an antidepressant during pregnancy.
-One study that assessed venlafaxine exposure in the second trimester or first half of the third trimester and preeclampsia showed an increased risk compared to unexposed depressed women (adjusted (adj) RR 1.57, 95% CI 1.29 to 1.91).
+One study that assessed venlafaxine exposure in the second trimester or first half of the third trimester and preeclampsia showed an increased risk compared to unexposed depressed women [adjusted (adj) RR 1.57, 95% CI 1.29 to 1.91].
 Preeclampsia was observed at venlafaxine doses equal to or greater than 75 mg/day and a duration of treatment >30 days.
 Another study that assessed venlafaxine exposure in gestational weeks 10 to 20 and preeclampsia showed an increased risk at doses equal to or greater than 150 mg/day.
 Available data are limited by possible outcome misclassification and possible confounding due to depression severity and other confounders.
 
 Retrospective cohort studies based on claims data have suggested an association between venlafaxine use near the time of delivery or through delivery and postpartum hemorrhage.
-One study showed an increased risk for postpartum hemorrhage when venlafaxine exposure occurred through delivery, compared to unexposed depressed women (adj RR 2.24 (95% CI 1.69 to 2.97).
+One study showed an increased risk for postpartum hemorrhage when venlafaxine exposure occurred through delivery, compared to unexposed depressed women [adj RR 2.24 (95% CI 1.69 to 2.97)].
 There was no increased risk in women who were exposed to venlafaxine earlier in pregnancy.
 Limitations of this study include possible confounding due to depression severity and other confounders.
 Another study showed an increased risk for postpartum hemorrhage when SNRI exposure occurred for at least 15 days in the last month of pregnancy or through delivery, compared to unexposed women (adj RR 1.64 to 1.76).
@@ -74,7 +82,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Data
 
-A lactation study was conducted in 10 breastfeeding women (at a mean of 4.3 months post­-partum) who were being treated with a 50 to 150 mg daily dose of desvenlafaxine for postpartum depression.
+A lactation study was conducted in 10 breastfeeding women (at a mean of 4.3 months post-partum) who were being treated with a 50 to 150 mg daily dose of desvenlafaxine for postpartum depression.
 Sampling was performed at steady state (up to 8 samples) over a 24 hour dosing period, and included foremilk and hindmilk.
 The mean relative infant dose was calculated to be 6.8% (range of 5.5 to 8.1%).
 No adverse reactions were seen in the infants.
@@ -83,10 +91,17 @@ No adverse reactions were seen in the infants.
 
 The safety and effectiveness of desvenlafaxine have not been established in pediatric patients for the treatment of MDD.
 
+Efficacy was not demonstrated in two adequate and well controlled, 8-week, randomized, double-blind, placebo-controlled, parallel group studies conducted in 587 patients (7 to 17 years of age) for the treatment of MDD.
+
 Antidepressants, such as desvenlafaxine, increase the risk of suicidal thoughts and behaviors in pediatric patients [see the Boxed Warning and Warnings and Precautions (5.1)].
 
-Additional information describing clinical studies in which efficacy was not demonstrated in pediatric patients is approved for Wyeth Pharmaceuticals Inc. a subsidiary of Pfizer Inc.’s PRISTIQ ® (desvenlafaxine) Extended-Release Tablets.
-However, due to Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.’s marketing exclusivity rights, this product is not labeled with that pediatric information.
+Desvenlafaxine was associated with a decrease in body weight in placebo-controlled trials in pediatric patients with MDD.
+The incidence of weight loss (≥3.5% of baseline weight) was 22%, 14%, and 7% for patients treated with low dose desvenlafaxine, high dose desvenlafaxine, and placebo, respectively.
+
+The risks associated with longer term desvenlafaxine use were assessed in 6-month, open-label extension studies in pediatric patients (7 to 17 years of age) with MDD.
+Pediatric patients (7 to 17 years of age) had mean changes in weight that approximated expected changes, based on data from age- and sex-matched peers.
+
+In clinical trials, when compared to adult patients receiving the same dose of desvenlafaxine, exposure to desvenlafaxine was similar in adolescent patients 12 to 17 years of age, and was about 30% higher in pediatric patients 7 to 11 years of age.
 
 Juvenile Animal Studies
 
@@ -111,7 +126,7 @@ SSRIs and SNRIs, including desvenlafaxine, have been associated with cases of cl
 
 ## 8.6 Renal Impairment
 
-Adjust the maximum recommended dosage in patients with moderate or severe renal impairment (CL cr 15 to 50 mL/min, C-G), or end-stage renal disease (CL cr <15 mL/min, C-G) [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+Adjust the maximum recommended dosage in patients with moderate or severe renal impairment (CL Cr15 to 50 mL/min, C-G), or end-stage renal disease (CL Cr<15 mL/min, C-G) [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

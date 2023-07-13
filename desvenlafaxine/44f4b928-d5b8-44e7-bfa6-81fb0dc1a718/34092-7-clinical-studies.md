@@ -24,22 +24,22 @@ Table 9: Primary Efficacy (HAM-D 17) Results for Short-term Studies
 | 4 | Baseline Score (SD a) | 24.3 (2.6) | 24.3 (2.4) | 24.4 (2.7) |  |  |
 |  | Difference from Placebo (95% CI c) |  | -2.5 b (-4.1, -0.9) | -3.0 b (-4.7, -1.4) |  |  |
 
-a Standard deviation; b Adjusted p-value <0.05; c Difference between least squares means at final evaluation, calculated as drug response minus placebo response; unadjusted 95% confidence intervals
+aStandard deviation; bAdjusted p-value <0.05; cDifference between least squares means at final evaluation, calculated as drug response minus placebo response; unadjusted 95% confidence intervals
 
 Analyses of the relationships between treatment outcome and age and treatment outcome and gender did not suggest any differential responsiveness on the basis of these patient characteristics.
 There was insufficient information to determine the effect of race on outcome in these studies.
 
 In a longer-term trial (Study 5), adult outpatients meeting DSM-IV criteria for major depressive disorder, who responded to 8 weeks of open-label acute treatment with 50 mg per day desvenlafaxine and subsequently remained stable for 12 weeks on desvenlafaxine, were assigned randomly in a double-blind manner to remain on active treatment or switch to placebo for up to 26 weeks of observation for relapse.
-Response during the open-label phase was defined as a HAM-D 17 total score of ≤11 and CGI-I ≤2 at the day 56 evaluation; stability was defined as HAM-D 17 total score of ≤11 and CGI-I ≤2 at week 20 and not having a HAM-D 17 total score of ≥16 or a CGI-I score ≥4 at any office visit.
-Relapse during the double-blind phase was defined as follows: (1) a HAM-D 17 total score of ≥16 at any office visit, (2) discontinuation for unsatisfactory efficacy response, (3) hospitalized for depression, (4) suicide attempt, or (5) suicide.
+Response during the open-label phase was defined as a HAM-D 17total score of ≤11 and CGI-I ≤2 at the day 56 evaluation; stability was defined as HAM-D 17total score of ≤11 and CGI-I ≤2 at week 20 and not having a HAM-D 17total score of ≥16 or a CGI-I score ≥4 at any office visit.
+Relapse during the double-blind phase was defined as follows: (1) a HAM-D 17total score of ≥16 at any office visit, (2) discontinuation for unsatisfactory efficacy response, (3) hospitalized for depression, (4) suicide attempt, or (5) suicide.
 Patients receiving continued desvenlafaxine treatment experienced statistically significantly longer time to relapse compared with placebo.
 At 26 weeks, the Kaplan-Meier estimated proportion of relapse was 14% with desvenlafaxine treatment versus 30% with placebo.
 
 Figure 4: Estimated Proportion of Relapses vs. Number of Days since Randomization (Study 5)
 
 In another longer-term trial (Study 6), adult outpatients meeting DSM-IV criteria for major depressive disorder and who responded to 12 weeks of acute treatment with desvenlafaxine were assigned randomly to the same dose (200 or 400 mg per day) they had received during acute treatment or to placebo for up to 26 weeks of observation for relapse.
-Response during the open-label phase was defined as a HAM-D 17 total score of ≤11 at the day 84 evaluation.
-Relapse during the double-blind phase was defined as follows: (1) a HAM-D 17 total score of ≥16 at any office visit, (2) a CGI-I score of ≥6 (versus day 84) at any office visit, or (3) discontinuation from the trial due to unsatisfactory response.
+Response during the open-label phase was defined as a HAM-D 17total score of ≤11 at the day 84 evaluation.
+Relapse during the double-blind phase was defined as follows: (1) a HAM-D 17total score of ≥16 at any office visit, (2) a CGI-I score of ≥6 (versus day 84) at any office visit, or (3) discontinuation from the trial due to unsatisfactory response.
 Patients receiving continued desvenlafaxine treatment experienced statistically significantly longer time to relapse over the subsequent 26 weeks compared with those receiving placebo.
 At 26 weeks, the Kaplan-Meier estimated proportion of relapse was 29% with desvenlafaxine treatment versus 49% with placebo.
 
