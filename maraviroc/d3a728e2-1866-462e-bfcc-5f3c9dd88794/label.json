@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA203347"
+  ],
+  "inn": "maraviroc",
+  "labeler": "XLCare Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "72865-231-60",
+    "72865-232-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "maraviroc",
+      "name": "Maraviroc"
+    }
+  ],
+  "setid": "d3a728e2-1866-462e-bfcc-5f3c9dd88794",
+  "source": "dailymed"
+}
