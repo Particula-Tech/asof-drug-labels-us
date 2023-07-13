@@ -1,5 +1,7 @@
 MEDICATION GUIDE
 
+Medication Guide available at: www.strides.com/medication-guides
+
 KETOCONAZOLE (KEE-toe-KON-a-zole) TABLETS USP
 
 What is the most important information I should know about ketoconazole tablets?
@@ -11,22 +13,14 @@ Ketoconazole tablets can cause serious side effects, including:
 
 - liver problems (hepatotoxicity).
   Some people who were treated with ketoconazole the active ingredient in ketoconazole tablets, had serious liver problems that led to death or the need for a liver transplant.
-
-Call your healthcare provider right away if you have any of the following symptoms:
-
-• loss of appetite or start losing weight (anorexia)
-
-• nausea or vomiting
-
-• feel tired
-
-• stomach pain or tenderness
-
-• dark urine or light colored stools
-
-• yellowing of your skin or the whites of your eye
-
-• fever or rash
+  Call your healthcare provider right away if you have any of the following symptoms:
+- loss of appetite or start losing weight (anorexia)
+- nausea or vomiting
+- feel tired
+- stomach pain or tenderness
+- dark urine or light colored stools
+- yellowing of your skin or the whites of your eye
+- fever or rash
 
 - changes in the electrical activity of your heart called QT prolongation.
   QT prolongation can cause irregular heart beats that can be life threatening.This can happen when ketoconazole tablets are taken with certain medicines, such as dofetilide, quinidine, pimozide, lurasidone, cisapride, methadone, disopyramide, dronedarone, and ranolazine.
@@ -132,12 +126,18 @@ Inactive ingredients: colloidal silicon dioxide, corn starch, lactose monohydrat
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+Manufactured by:
+
+Strides Pharma Science Limited
+
+Puducherry - 605014, India.
+
 Distributed by:
 
 Strides Pharma Inc,
 
 East Brunswick, NJ 08816
 
-Revised: 05/2023
+Revised: 07/2023
 
 Medication Guide available at: www.strides.com/medication-guides

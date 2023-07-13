@@ -9,12 +9,18 @@ Protect from moisture.
 
 Keep this and all medications out of reach of children.
 
+Manufactured by:
+
+Strides Pharma Science Limited
+
+Puducherry - 605014, India.
+
 Distributed by:
 
 Strides Pharma Inc,
 
 East Brunswick, NJ 08816
 
-Revised: 05/2023
+Revised: 07/2023
 
 Medication Guide available at: www.strides.com/medication-guides

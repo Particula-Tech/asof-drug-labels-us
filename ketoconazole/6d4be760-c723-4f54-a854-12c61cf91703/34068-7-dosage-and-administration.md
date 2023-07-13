@@ -2,7 +2,7 @@
 
 There should be laboratory as well as clinical documentation of infection prior to starting ketoconazole therapy.
 The usual duration of therapy for systemic infection is 6 months.
-Treatment should be continued until active fungal infection has subsided
+Treatment should be continued until active fungal infection has subsided.
 
 Adults
 

@@ -2,13 +2,13 @@
 
 Because of the serious adverse reactions that have been reported in association with ketoconazole, including fatal hepatotoxicity, ketoconazole tablets are not indicated for treatment of onychomycosis, cutaneous dermatophyte infections, or Candida infections.
 
-Ketoconazole tablets should be used only when other effective antifungal therapy is not available or tolerated and the potential benefits are considered to outweigh the potential risks
+Ketoconazole tablets should be used only when other effective antifungal therapy is not available or tolerated and the potential benefits are considered to outweigh the potential risks.
 
 Hepatotoxicity
 
 Serious hepatotoxicity, including cases with a fatal outcome or requiring liver transplantation, has occurred with the use of oral ketoconazole.
 Some patients had no obvious risk factors for liver disease.
-Serious hepatotoxicity was reported both by patients receiving high doses for short treatment durations and by patients receiving low doses for long durations
+Serious hepatotoxicity was reported both by patients receiving high doses for short treatment durations and by patients receiving low doses for long durations.
 
 The hepatic injury has usually, but not always, been reversible upon discontinuation of ketoconazole tablets treatment.
 Cases of hepatitis have been reported in children.
@@ -28,7 +28,7 @@ QT Prolongation and Drug Interactions Leading to QT Prolongation
 
 Ketoconazole can prolong the QT interval.
 Coadministration of the following drugs with ketoconazole is contraindicated: dofetilide, quinidine, pimozide, lurasidone, cisapride, methadone, disopyramide, dronedarone, ranolazine.
-Ketoconazole can cause elevated plasma concentrations of these drugs which may prolong the QT interval, sometimes resulting in life-threatening ventricular dysrhythmias such as torsades de pointes
+Ketoconazole can cause elevated plasma concentrations of these drugs which may prolong the QT interval, sometimes resulting in life-threatening ventricular dysrhythmias such as torsades de pointes.
 
 Adrenal Insufficiency
 
@@ -55,19 +55,19 @@ Several cases of hypersensitivity reactions including urticaria have also been r
 
 # PRECAUTIONS
 
-## GENERAL PRECAUTIONS
+## General
 
 Ketoconazole tablets have been demonstrated to lower serum testosterone.
 Once therapy with ketoconazole has been discontinued, serum testosterone levels return to baseline values.
 Testosterone levels are impaired with doses of 800 mg per day and abolished by 1600 mg per day.
 Clinical manifestations of decreased testosterone concentrations may include gynecomastia, impotence and oligospermia.
 
-## INFORMATION FOR PATIENTS
+## Information for Patients
 
 Patients should be instructed to report any signs and symptoms which may suggest liver dysfunction so that appropriate biochemical testing can be done.
 Such signs and symptoms may include unusual fatigue, anorexia, nausea and/or vomiting, abdominal pain, jaundice, dark urine or pale stools (see WARNINGS section).
 
-## DRUG INTERACTIONS
+## Drug Interactions
 
 Ketoconazole is mainly metabolized through CYP3A4.
 Other substances that either share this metabolic pathway or modify CYP3A4 activity may influence the pharmacokinetics of ketoconazole.
@@ -149,8 +149,6 @@ The high dose in these studies was approximately 1x (mouse) or 2x (rat) the clin
 ## Pregnancy
 
 Teratogenic effects
-
-Pregnancy Category C
 
 Ketoconazole has been shown to be teratogenic (syndactylia and oligodactylia) in the rat when given in the diet at 80 mg/kg/day (2 times the maximum recommended human dose, based on body surface area comparisons).
 However, these effects may be related to maternal toxicity, evidence of which also was seen at this and higher dose levels.
