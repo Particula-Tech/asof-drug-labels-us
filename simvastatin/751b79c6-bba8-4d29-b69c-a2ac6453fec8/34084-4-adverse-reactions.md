@@ -10,10 +10,9 @@ The most commonly reported adverse reactions (incidence ≥5%) in these simvasta
 Overall, 1.4% of patients discontinued simvastatin due to adverse reactions.
 The most common adverse reactions that led to discontinuation were: gastrointestinal disorders (0.5%), myalgia (0.1%), and arthralgia (0.1%).
 In a Cardiovascular Outcomes Study (the Scandinavian Simvastatin Survival Study [Study 4S]), adult patients (age range 35 to 71 years, 19% women, 100% Caucasians) were treated with 20 to 40 mg per day of simvastatin or placebo over a median of 5.4 years [see Clinical Studies (14)]; adverse reactions reported in ≥2% of patients and at a rate greater than placebo are shown in Table 1.
-
 Table 1: Adverse Reactions Reported ≥2% of Patients Treated with simvastatin and Greater than Placebo in Study 4S
 
-|  | % Placebo (N = 2,223) | % simvastatin (N = 2,221) |
+|  | % Placebo (N = 2,223) | %simvastatin (N = 2,221) |
 | --- | --- | --- |
 | Bronchitis | 6.3 | 6.6 |
 | Abdominal pain | 5.8 | 5.9 |
@@ -43,13 +42,13 @@ In Study 4S, with a median follow-up of 5.4 years, 1,986 adult patients were tre
 The percentage of patients with one or more occurrences of transaminase elevations to > 3xULN was 0.7% in patients taking simvastatin compared with 0.6% in patients taking placebo.
 Elevated transaminases leading to discontinuation of study treatment occurred in 0.4% of patients taking simvastatin and 0.2% of patients taking placebo.
 The majority of elevated transaminases leading to treatment discontinuation occurred within in the first year.
-Adverse Reactions in Pediatric Patients with Heterozygous Familial Hypercholesterolemia In a 48-week clinical study in pediatric patients 10 years of age and older (43% female, 97.7% Caucasians, 1.7% Hispanics, 0.6% Multiracial) with HeFH (n=175), treated with placebo or simvastatin (10 to 40 mg daily), the most common adverse reactions were upper respiratory infection, headache, abdominal pain, and nausea [see Use in Specific Populations (8.4) and Clinical Studies (14)].
+Adverse Reactions in Pediatric Patients with Heterozygous Familial Hypercholesterolemia In a 48-week clinical study in pediatric patients 10 years of age and older (43% female, 97.7% Caucasians, 1.7% Hispanics, 0.6% Multiracial) with HeFH (n= 175), treated with placebo or simvastatin (10 to 40 mg daily), the most common adverse reactions were upper respiratory infection, headache, abdominal pain, and nausea [see Use in Specific Populations (8.4) and Clinical Studies (14)].
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of simvastatin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Body as whole: fever, chills, malaise, asthenia Blood and Lymphatic System Disorders: anemia, thrombocytopenia, leukopenia, hemolytic anemia, positive ANA, ESR increase, eosinophilia Gastrointestinal Disorders: pancreatitis, vomiting Hepatic and Pancreatic Disorders: hepatitis/jaundice, fatal and non-fatal hepatic failure Immune System Disorders: hypersensitivity syndrome including: anaphylaxis, angioedema, lupus erythematous-like syndrome, dermatomyositis, vasculitis Musculoskeletal and Connective Tissue Disorders: muscle cramps, immune-mediated necrotizing myopathy, polymyalgia rheumatica, arthritis Nervous System Disorders: dizziness, depression, paresthesia, peripheral neuropathy.
+Body as whole:fever, chills, malaise, asthenia Blood and Lymphatic System Disorders:anemia, thrombocytopenia, leukopenia, hemolytic anemia, positive ANA, ESR increase, eosinophilia Gastrointestinal Disorders:pancreatitis, vomiting Hepatic and Pancreatic Disorders:hepatitis/jaundice, fatal and non-fatal hepatic failure Immune System Disorders:hypersensitivity syndrome including: anaphylaxis, angioedema, lupus erythematous-like syndrome, dermatomyositis, vasculitis Musculoskeletal and Connective Tissue Disorders:muscle cramps, immune-mediated necrotizing myopathy, polymyalgia rheumatica, arthritis Nervous System Disorders:dizziness, depression, paresthesia, peripheral neuropathy.
 Rare reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
 Cognitive impairment was generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
-Skin and Subcutaneous Tissue Disorders: pruritus, alopecia, a variety of skin changes (e.g., nodules, discoloration, dryness of skin/mucous membranes, changes to hair/nails), purpura, lichen planus,urticaria, photosensitivity, flushing, toxic epidermal necrolysis, erythema multiforme, including Stevens-Johnson syndrome Respiratory and Thoracic: interstitial lung disease, dyspnea Reproductive System Disorders: erectile dysfunction
+Skin and Subcutaneous Tissue Disorders:pruritus, alopecia, a variety of skin changes (e.g., nodules, discoloration, dryness of skin/mucous membranes, changes to hair/nails), purpura, lichen planus, urticaria, photosensitivity, flushing, toxic epidermal necrolysis, erythema multiforme, including Stevens-Johnson syndrome Respiratory and Thoracic:interstitial lung disease, dyspnea Reproductive System Disorders:erectile dysfunction

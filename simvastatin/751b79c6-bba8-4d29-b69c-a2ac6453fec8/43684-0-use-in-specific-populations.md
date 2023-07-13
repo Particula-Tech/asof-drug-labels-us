@@ -56,13 +56,13 @@ Monitor geriatric patients receiving simvastatin for the increased risk of myopa
 
 Renal impairment is a risk factor for myopathy and rhabdomyolysis.
 Monitor all patients with renal impairment for development of myopathy.
-In patients with severe renal impairment (CL cr 15 to 29 mL/min), the recommended starting dosage is simvastatin 5 mg once daily [see Dosage and Administration (2.4), Warnings and Precautions (5.1)].
+In patients with severe renal impairment (CL cr15 to 29 mL/min), the recommended starting dosage is simvastatin 5 mg once daily [see Dosage and Administration (2.4), Warnings and Precautions (5.1)].
 
 ## 8.7 Hepatic Impairment
 
 Simvastatin is contraindicated in patients with acute liver failure or decompensated cirrhosis [see Contraindications (4), Warnings and Precautions (5.3)].
 
-## 8.8 Chinese patients
+## 8.8 Chinese Patients
 
 In a clinical study in which patients at high risk of CVD were treated with simvastatin 40 mg/day (median follow-up 3.9 years), the incidence of myopathy was approximately 0.05% for non-Chinese patients (n=7367) compared with 0.24% for Chinese patients (n=5468).
 In this study, the incidence of myopathy for Chinese patients on simvastatin 40 mg/day or ezetimibe/ simvastatin 10/40 mg/day coadministered with extended-release niacin 2 g/day was 1.24%.
