@@ -32,15 +32,15 @@ In patients taking Benicar during pregnancy, perform serial ultrasound examinati
 Fetal testing may be appropriate, based on the week of gestation.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
 
-Closely observe infants with histories of in utero exposure to Benicar for hypotension, oliguria, and hyperkalemia.
-In neonates with a history of in utero exposure to Benicar, if oliguria or hypotension occurs, utilize measures to maintain adequate blood pressure and renal perfusion.
+Closely observe infants with histories of in uteroexposure to Benicar for hypotension, oliguria, and hyperkalemia.
+In neonates with a history of in uteroexposure to Benicar, if oliguria or hypotension occurs, utilize measures to maintain adequate blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and supporting renal function.
 
 Data
 
 Animal Data
 
-No teratogenic effects were observed when olmesartan medoxomil was administered to pregnant rats at oral doses up to 1000 mg/kg/day (240 times the maximum recommended human dose (MRHD) on a mg/m 2 basis) or pregnant rabbits at oral doses up to 1 mg/kg/day (half the MRHD on a mg/m 2 basis; higher doses could not be evaluated for effects on fetal development as they were lethal to the does).
+No teratogenic effects were observed when olmesartan medoxomil was administered to pregnant rats at oral doses up to 1000 mg/kg/day (240 times the maximum recommended human dose (MRHD) on a mg/m 2basis) or pregnant rabbits at oral doses up to 1 mg/kg/day (half the MRHD on a mg/m 2basis; higher doses could not be evaluated for effects on fetal development as they were lethal to the does).
 In rats, significant decreases in pup birth weight and weight gain were observed at doses ≥1.6 mg/kg/day, and delays in developmental milestones (delayed separation of ear auricula, eruption of lower incisors, appearance of abdominal hair, descent of testes, and separation of eyelids) and dose-dependent increases in the incidence of dilation of the renal pelvis were observed at doses ≥ 8 mg/kg/day.
 The no observed effect dose for developmental toxicity in rats is 0.3 mg/kg/day, about one-tenth the MRHD of 40 mg/day.
 
@@ -77,14 +77,14 @@ Other reported clinical experience has not identified differences in responses b
 
 ## 8.6 Hepatic Impairment
 
-Increases in AUC 0-∞ and C max were observed in patients with moderate hepatic impairment compared to those in matched controls, with an increase in AUC of about 60%.
+Increases in AUC 0-∞and C maxwere observed in patients with moderate hepatic impairment compared to those in matched controls, with an increase in AUC of about 60%.
 No initial dosage adjustment is recommended for patients with moderate to marked hepatic dysfunction [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
 Patients with renal insufficiency have elevated serum concentrations of olmesartan compared to subjects with normal renal function.
 After repeated dosing, the AUC was approximately tripled in patients with severe renal impairment (creatinine clearance <20 mL/min).
-No initial dosage adjustment is recommended for patients with moderate to marked renal impairment (creatinine clearance <40 mL/min) [see Dosage and Administration (2.1), Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
+No initial dosage adjustment is recommended for patients with moderate to marked renal impairment (creatinine clearance <40 mL/min) [see Dosage and Administration (2.1), Warnings and Precautions (5.4)and Clinical Pharmacology (12.3)].
 
 ## 8.8 Black Patients
 

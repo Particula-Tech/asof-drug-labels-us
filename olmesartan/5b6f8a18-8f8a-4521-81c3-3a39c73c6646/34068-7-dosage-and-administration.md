@@ -16,7 +16,7 @@ Dosage must be individualized.
 For children who can swallow tablets, the usual recommended starting dose of Benicar is 10 mg once daily for patients who weigh 20 to <35 kg (44 to 77 lb), or 20 mg once daily for patients who weigh ≥35 kg.
 For patients requiring further reduction in blood pressure after 2 weeks of therapy, the dose of Benicar may be increased to a maximum of 20 mg once daily for patients who weigh <35 kg or 40 mg once daily for patients who weigh ≥35 kg.
 
-Use of Benicar in children <1 year of age is not recommended [see Warnings and Precautions (5.2) and Use in Specific Populations (8.4)].
+Use of Benicar in children <1 year of age is not recommended [see Warnings and Precautions (5.2)and Use in Specific Populations (8.4)].
 
 For children who cannot swallow tablets, the same dose can be given using an extemporaneous suspension as described below [see Clinical Pharmacology (12.3)].
 
@@ -27,6 +27,6 @@ Preparation of Suspension (for 200 mL of a 2 mg/mL suspension)
 Add 50 mL of Purified Water to an amber polyethylene terephthalate (PET) bottle containing twenty Benicar 20 mg tablets and allow to stand for a minimum of 5 minutes.
 Shake the container for at least 1 minute and allow the suspension to stand for at least 1 minute.
 Repeat 1-minute shaking and 1-minute standing for four additional times.
-Add 100 mL of ORA-Sweet ® and 50 mL of ORA-Plus ®ORA-Sweet ® and ORA-Plus ® are registered trademarks of Paddock Laboratories, Inc. to the suspension and shake well for at least 1 minute.
+Add 100 mL of ORA-Sweet ®and 50 mL of ORA-Plus ®ORA-Sweet ® and ORA-Plus ® are registered trademarks of Paddock Laboratories, Inc. to the suspension and shake well for at least 1 minute.
 The suspension should be refrigerated at 2-8°C (36-46°F) and can be stored for up to 4 weeks.
 Shake the suspension well before each use and return promptly to the refrigerator.

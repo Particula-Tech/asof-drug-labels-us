@@ -24,7 +24,7 @@ A transient hypotensive response is not a contraindication to further treatment,
 
 As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals treated with Benicar.
 In patients whose renal function may depend upon the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with angiotensin converting enzyme (ACE) inhibitors and angiotensin receptor antagonists has been associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death.
-Similar results may be anticipated in patients treated with Benicar [see Dosage and Administration (2.1), Drug Interactions (7.3), Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+Similar results may be anticipated in patients treated with Benicar [see Dosage and Administration (2.1), Drug Interactions (7.3), Use in Specific Populations (8.7)and Clinical Pharmacology (12.3)].
 
 In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen (BUN) have been reported.
 There has been no long-term use of Benicar in patients with unilateral or bilateral renal artery stenosis, but similar results may be expected.
