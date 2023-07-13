@@ -19,13 +19,13 @@ An unexplained fall in hematocrit, fall in blood pressure or any other unexplain
 
 Use Heparin Sodium with caution in disease states in which there is increased risk of hemorrhage, including:
 
-- Cardiovascular — Subacute bacterial endocarditis, severe hypertension.
-- Surgical — During and immediately following (a) spinal tap or spinal anesthesia or (b) major surgery, especially involving the brain, spinal cord, or eye.
-- Hematologic — Conditions associated with increased bleeding tendencies, such as hemophilia, thrombocytopenia, and some vascular purpuras.
-- Patients with hereditary antithrombin III deficiency receiving concurrent antithrombin III therapy — The anticoagulant effect of heparin is enhanced by concurrent treatment with antithrombin III (human) in patients with hereditary antithrombin III deficiency.
+- •Cardiovascular — Subacute bacterial endocarditis, severe hypertension.
+- •Surgical — During and immediately following (a) spinal tap or spinal anesthesia or (b) major surgery, especially involving the brain, spinal cord, or eye.
+- •Hematologic — Conditions associated with increased bleeding tendencies, such as hemophilia, thrombocytopenia, and some vascular purpuras.
+- •Patients with hereditary antithrombin III deficiency receiving concurrent antithrombin III therapy — The anticoagulant effect of heparin is enhanced by concurrent treatment with antithrombin III (human) in patients with hereditary antithrombin III deficiency.
   To reduce the risk of bleeding, reduce the heparin dose during concomitant treatment with antithrombin III (human).
-- Gastrointestinal — Ulcerative lesions and continuous tube drainage of the stomach or small intestine.
-- Other — Menstruation, liver disease with impaired hemostasis.
+- •Gastrointestinal — Ulcerative lesions and continuous tube drainage of the stomach or small intestine.
+- •Other — Menstruation, liver disease with impaired hemostasis.
 
 ## 5.3 Heparin-induced Thrombocytopenia and Heparin-Induced Thrombocytopenia and Thrombosis
 
