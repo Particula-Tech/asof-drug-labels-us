@@ -30,9 +30,9 @@ There were no apparent differences in terms of SeDBP or SeSBP reductions in diab
 A total of 440 patients participated in the ambulatory blood pressure monitoring portion of the study.
 Over the 24-hour period, there was a greater reduction in diastolic and systolic ambulatory blood pressure for olmesartan medoxomil/amlodipine/hydrochlorothiazide 40/10/25 mg compared to each of the dual combination therapies (see Figure 1 and Figure 2).
 
-Figure 1:Mean Ambulatory Diastolic Blood Pressure at Endpoint by Treatment and Hour
+Figure1:Mean Ambulatory Diastolic Blood Pressure at Endpoint by Treatment and Hour
 
-Figure 2:Mean Ambulatory Systolic Blood Pressure at Endpoint by Treatment and Hour
+Figure2:Mean Ambulatory Systolic Blood Pressure at Endpoint by Treatment and Hour
 
 The blood pressure lowering effects of lower dose strengths of Tribenzor (olmesartan medoxomil/amlodipine/hydrochlorothiazide 20/5/12.5 mg, 40/5/12.5 mg, 40/10/12.5 mg, and 40/5/25 mg) have not been studied.
 

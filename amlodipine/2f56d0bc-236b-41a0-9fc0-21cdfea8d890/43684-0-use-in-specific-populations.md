@@ -33,8 +33,8 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 Fetal testing may be appropriate, based on the week of gestation.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
 
-Closely observe infants with histories of in utero exposure to olmesartan for hypotension, oliguria, and hyperkalemia.
-In neonates with a history of in utero exposure to olmesartan, if oliguria or hypotension occur, utilize measures to maintain adequate blood pressure and renal perfusion.
+Closely observe infants with histories of in uteroexposure to olmesartan for hypotension, oliguria, and hyperkalemia.
+In neonates with a history of in uteroexposure to olmesartan, if oliguria or hypotension occur, utilize measures to maintain adequate blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and supporting renal function [see Use in Specific Populations (8.4)].
 
 Hydrochlorothiazide
@@ -55,20 +55,20 @@ However, these studies have been conducted for olmesartan medoxomil, amlodipine 
 
 Olmesartan medoxomil.
 
-No teratogenic effects were observed when olmesartan medoxomil was administered to pregnant rats at oral doses up to 1000 mg/kg/day (240 times the maximum recommended human dose [MRHD] on a mg/m 2 basis) or pregnant rabbits at oral doses up to 1 mg/kg/day (half the MRHD on a mg/m 2 basis; higher doses could not be evaluated for effects on fetal development as they were lethal to the does).
+No teratogenic effects were observed when olmesartan medoxomil was administered to pregnant rats at oral doses up to 1000 mg/kg/day (240 times the maximum recommended human dose [MRHD] on a mg/m 2basis) or pregnant rabbits at oral doses up to 1 mg/kg/day (half the MRHD on a mg/m 2basis; higher doses could not be evaluated for effects on fetal development as they were lethal to the does).
 In rats, significant decreases in pup birth weight and weight gain were observed at doses ≥1.6 mg/kg/day, and delays in developmental milestones (delayed separation of ear auricular, eruption of lower incisors, appearance of abdominal hair, descent of testes, and separation of eyelids) and dose-dependent increases in the incidence of dilation of the renal pelvis were observed at doses ≥8 mg/kg/day.
 The no observed effect dose for developmental toxicity in rats is 0.3 mg/kg/day, about one-tenth the MRHD of 40 mg/day.
 
 Olmesartan medoxomil and Hydrochlorothiazide.
 
-No teratogenic effects were observed when 1.6:1 combinations of olmesartan medoxomil and hydrochlorothiazide were administered to pregnant mice at oral doses up to 1625 mg/kg/day (122 times the MRHD on a mg/m 2 basis) or pregnant rats up to 1625 mg/kg/day (243 times the MRHD on a mg/m 2 basis) or pregnant rabbits at oral doses up to 1 mg/kg/day (0.3 times the MRHD on a mg/m 2 basis).
+No teratogenic effects were observed when 1.6:1 combinations of olmesartan medoxomil and hydrochlorothiazide were administered to pregnant mice at oral doses up to 1625 mg/kg/day (122 times the MRHD on a mg/m 2basis) or pregnant rats up to 1625 mg/kg/day (243 times the MRHD on a mg/m 2basis) or pregnant rabbits at oral doses up to 1 mg/kg/day (0.3 times the MRHD on a mg/m 2basis).
 In rats, however, fetal body weights at 1625 mg/kg/day (a toxic, sometimes lethal dose in the dams) were significantly lower than control.
-The no observed effect dose for developmental toxicity in rats is 162.5 mg/kg/day, about 24 times, on a mg/m 2 basis, the MRHD of 40 mg olmesartan medoxomil/25 mg hydrochlorothiazide/day.
+The no observed effect dose for developmental toxicity in rats is 162.5 mg/kg/day, about 24 times, on a mg/m 2basis, the MRHD of 40 mg olmesartan medoxomil/25 mg hydrochlorothiazide/day.
 (Calculations based on a 60 kg patient.)
 
 Amlodipine.
 
-No evidence of teratogenicity or other embryo/fetal toxicity was found when pregnant rats and rabbits were treated orally with amlodipine maleate at doses of up to 10 mg amlodipine/kg/day (respectively about 10 and 20 times the maximum recommended human dose of 10 mg amlodipine on a mg/m 2 basis) during their respective periods of major organogenesis (calculations based on a patient weight of 60 kg).
+No evidence of teratogenicity or other embryo/fetal toxicity was found when pregnant rats and rabbits were treated orally with amlodipine maleate at doses of up to 10 mg amlodipine/kg/day (respectively about 10 and 20 times the maximum recommended human dose of 10 mg amlodipine on a mg/m 2basis) during their respective periods of major organogenesis (calculations based on a patient weight of 60 kg).
 However, litter size was significantly decreased (by about 50%), and the number of intrauterine deaths was significantly increased (about 5-fold) in rats receiving amlodipine maleate at a dose equivalent to 10 mg amlodipine/kg/day for 14 days before mating and throughout mating and gestation.
 Amlodipine maleate has been shown to prolong both the gestational period and the duration of labor in rats at this dose.
 
@@ -95,8 +95,7 @@ The safety and effectiveness of Tribenzor in pediatric patients have not been es
 
 ## 8.5 Geriatric Use
 
-Tribenzor.
-In a controlled clinical trial, 123 hypertensive patients treated with Tribenzor were ≥65 years of age and 18 patients were ≥75 years of age.
+Tribenzor.In a controlled clinical trial, 123 hypertensive patients treated with Tribenzor were ≥65 years of age and 18 patients were ≥75 years of age.
 No overall differences in the efficacy or safety of Tribenzor were observed in these patient populations; however, greater sensitivity of some older individuals cannot be ruled out.
 The recommended initial dose of amlodipine in patients ≥ 75 years of age is 2.5 mg, a dose not available with Tribenzor.
 
@@ -105,11 +104,9 @@ The recommended initial dose of amlodipine in patients ≥ 75 years of age is 2.
 There are no studies of Tribenzor in patients with hepatic insufficiency, but both amlodipine and olmesartan medoxomil show moderate increases in exposure in patients with severe hepatic impairment.
 The recommended initial dose of amlodipine in patients with severe hepatic impairment is 2.5 mg, a dose not available with Tribenzor [see Warnings and Precautions (5.5)].
 
-Amlodipine.
-Amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t ½) is 56 hours in patients with severely impaired hepatic function.
+Amlodipine.Amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t ½) is 56 hours in patients with severely impaired hepatic function.
 
-Olmesartan medoxomil.
-Increases in AUC 0-∞ and peak plasma concentration (C max) for olmesartan were observed with moderate hepatic impairment compared to those in matched controls with an increase in AUC of about 60%.
+Olmesartan medoxomil.Increases in AUC 0-∞and peak plasma concentration (C max) for olmesartan were observed with moderate hepatic impairment compared to those in matched controls with an increase in AUC of about 60%.
 
 Hydrochlorothiazide.
 In patients with impaired hepatic function or progressive liver disease, minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
@@ -119,17 +116,14 @@ In patients with impaired hepatic function or progressive liver disease, minor a
 There are no studies of Tribenzor in patients with renal impairment.
 Avoid use in patients with severe renal impairment (creatinine clearance <30 mL/min).
 
-Olmesartan medoxomil.
-Patients with renal insufficiency have elevated serum concentrations of olmesartan compared with patients with normal renal function.
+Olmesartan medoxomil.Patients with renal insufficiency have elevated serum concentrations of olmesartan compared with patients with normal renal function.
 After repeated dosing, AUC was approximately tripled in patients with severe renal impairment (creatinine clearance <20 mL/min).
 No initial dosage adjustment is recommended for patients with moderate to marked renal impairment (creatinine clearance <40 mL/min).
 The pharmacokinetics of olmesartan in patients undergoing hemodialysis has not been studied.
 
-Amlodipine.
-The pharmacokinetics of amlodipine are not significantly influenced by renal impairment.
+Amlodipine.The pharmacokinetics of amlodipine are not significantly influenced by renal impairment.
 
-Hydrochlorothiazide.
-Thiazide should be used with caution in patients with severe renal disease.
+Hydrochlorothiazide.Thiazide should be used with caution in patients with severe renal disease.
 In patients with renal disease, thiazides may precipitate azotemia.
 Cumulative effects of the drug may develop in patients with impaired renal function.
 

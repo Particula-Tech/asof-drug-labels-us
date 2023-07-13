@@ -2,13 +2,13 @@
 
 ## 7.1 Drug Interactions with Olmesartan Medoxomil
 
-Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including olmesartan medoxomil, may result in deterioration of renal function, including possible acute renal failure.
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors):In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including olmesartan medoxomil, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving olmesartan medoxomil and NSAID therapy.
 
 The antihypertensive effect of angiotensin II receptor antagonists, including olmesartan medoxomil may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
-Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Dual Blockade of the Renin-Angiotensin System (RAS):Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy.
 In general, avoid combined use of RAS inhibitors.
 Closely monitor blood pressure, renal function and electrolytes in patients on Tribenzor and other agents that affect the RAS.
@@ -16,26 +16,26 @@ Closely monitor blood pressure, renal function and electrolytes in patients on T
 Do not co-administer aliskiren with Tribenzor in patients with diabetes [See Contraindications (4)].
 Avoid use of aliskiren with Tribenzor in patients with renal impairment (GFR <60 ml/min).
 
-Use with Colesevelam Hydrochloride: Concurrent administration of bile acid sequestering agent colesevelam hydrochloride reduces the systemic exposure and peak plasma concentration of olmesartan.
+Use with Colesevelam Hydrochloride:Concurrent administration of bile acid sequestering agent colesevelam hydrochloride reduces the systemic exposure and peak plasma concentration of olmesartan.
 Administration of olmesartan at least 4 hours prior to colesevelam hydrochloride decreased the drug interaction effect.
 Consider administering olmesartan at least 4 hours before the colesevelam hydrochloride dose [see Clinical Pharmacology (12.3)].
 
-Lithium: Increases in serum lithium concentrations and lithium toxicity have been reported with concomitant use of olmesartan or thiazide diuretics.
+Lithium:Increases in serum lithium concentrations and lithium toxicity have been reported with concomitant use of olmesartan or thiazide diuretics.
 Monitor lithium levels in patients receiving Tribenzor and lithium.
 
 ## 7.2 Drug Interactions with Amlodipine
 
-Simvastatin: Co-administration of simvastatin with amlodipine increases the systemic exposure of simvastatin.
+Simvastatin:Co-administration of simvastatin with amlodipine increases the systemic exposure of simvastatin.
 Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
 [see Clinical Pharmacology (12.3)].
 
-Immunosuppressants: Amlodipine may increase the systemic exposure of cyclosporine or tacrolimus when co-administered.
+Immunosuppressants:Amlodipine may increase the systemic exposure of cyclosporine or tacrolimus when co-administered.
 Frequent monitoring of trough blood levels of cyclosporine and tacrolimus is recommended and adjust the dose when appropriate [see Clinical Pharmacology (12.3)].
 
-CYP3A Inhibitors: Co-administration of amlodipine with CYP3A inhibitors (moderate and strong) results in increased systemic exposure to amlodipine and may require dose reduction.
+CYP3A Inhibitors:Co-administration of amlodipine with CYP3A inhibitors (moderate and strong) results in increased systemic exposure to amlodipine and may require dose reduction.
 Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A inhibitors to determine the need for dose adjustment.
 
-CYP3A Inducers: No information is available on the quantitative effects of CYP3A inducers on amlodipine.
+CYP3A Inducers:No information is available on the quantitative effects of CYP3A inducers on amlodipine.
 Blood pressure should be closely monitored when amlodipine is co-administered with CYP3A inducers.
 
 ## 7.3 Drug Interactions with Hydrochlorothiazide

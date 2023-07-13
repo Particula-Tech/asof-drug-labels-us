@@ -2,15 +2,13 @@
 
 There is no information on overdosage with Tribenzor in humans.
 
-Olmesartan medoxomil.
-Limited data are available related to overdosage in humans.
+Olmesartan medoxomil.Limited data are available related to overdosage in humans.
 The most likely manifestations of overdosage would be hypotension and tachycardia; bradycardia could be encountered if parasympathetic (vagal) stimulation occurs.
 If symptomatic hypotension should occur, supportive treatment should be initiated.
 The dialyzability of olmesartan is unknown.
 
-Amlodipine.
-Single oral doses of amlodipine maleate equivalent to 40 mg amlodipine/kg and 100 mg amlodipine/kg in mice and rats, respectively, caused deaths.
-Single oral amlodipine maleate doses equivalent to 4 or more mg amlodipine/kg or higher in dogs (11 or more times the maximum recommended human dose on a mg/m 2 basis) caused a marked peripheral vasodilation and hypotension.
+Amlodipine.Single oral doses of amlodipine maleate equivalent to 40 mg amlodipine/kg and 100 mg amlodipine/kg in mice and rats, respectively, caused deaths.
+Single oral amlodipine maleate doses equivalent to 4 or more mg amlodipine/kg or higher in dogs (11 or more times the maximum recommended human dose on a mg/m 2basis) caused a marked peripheral vasodilation and hypotension.
 
 Overdosage might be expected to cause excessive peripheral vasodilation with marked hypotension and possibly a reflex tachycardia.
 In humans, experience with intentional overdosage of amlodipine is limited.
@@ -22,8 +20,7 @@ If hypotension remains unresponsive to these conservative measures, administrati
 Intravenous calcium gluconate may help to reverse the effects of calcium entry blockade.
 As amlodipine is highly protein bound, hemodialysis is not likely to be of benefit.
 
-Hydrochlorothiazide.
-The most common signs and symptoms of overdose observed in humans are those caused by electrolyte depletion (hypokalemia, hypochloremia, hyponatremia) and dehydration resulting from excessive diuresis.
+Hydrochlorothiazide.The most common signs and symptoms of overdose observed in humans are those caused by electrolyte depletion (hypokalemia, hypochloremia, hyponatremia) and dehydration resulting from excessive diuresis.
 If digitalis has also been administered, hypokalemia may accentuate cardiac arrhythmias.
 The degree to which hydrochlorothiazide is removed by hemodialysis has not been established.
-The oral LD 50 of hydrochlorothiazide is greater than 10 g/kg in both mice and rats, more than 1000-fold the highest recommended human dose.
+The oral LD 50of hydrochlorothiazide is greater than 10 g/kg in both mice and rats, more than 1000-fold the highest recommended human dose.

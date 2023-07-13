@@ -51,20 +51,19 @@ Amlodipine has been evaluated for safety in more than 11,000 patients in U.S. an
 The following adverse reactions have been identified during post-approval use of the individual components of Tribenzor.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Olmesartan medoxomil.
-The following adverse reactions have been reported in post-marketing experience:
+Olmesartan medoxomil.The following adverse reactions have been reported in post-marketing experience:
 
-Body as a Whole: asthenia, angioedema, anaphylactic reactions, peripheral edema
+Body as a Whole:asthenia, angioedema, anaphylactic reactions, peripheral edema
 
-Gastrointestinal: vomiting, diarrhea, sprue-like enteropathy [see Warnings and Precautions (5.10)]
+Gastrointestinal:vomiting, diarrhea, sprue-like enteropathy [see Warnings and Precautions (5.10)]
 
-Metabolic and Nutritional Disorders: hyperkalemia
+Metabolic and Nutritional Disorders:hyperkalemia
 
-Musculoskeletal: rhabdomyolysis
+Musculoskeletal:rhabdomyolysis
 
-Urogenital System: acute renal failure, increased blood creatinine
+Urogenital System:acute renal failure, increased blood creatinine
 
-Skin and Appendages: alopecia, pruritus, urticaria
+Skin and Appendages:alopecia, pruritus, urticaria
 
 Data from one controlled trial and an epidemiologic study have suggested that high-dose olmesartan may increase cardiovascular (CV) risk in diabetic patients, but the overall data are not conclusive.
 The randomized, placebo-controlled, double-blind ROADMAP trial (Randomized Olmesartan And Diabetes MicroAlbuminuria Prevention trial, n=4447) examined the use of olmesartan, 40 mg daily, vs. placebo in patients with type 2 diabetes mellitus, normoalbuminuria, and at least one additional risk factor for CV disease.
@@ -79,8 +78,7 @@ No differences were observed between the groups receiving lower doses of olmesar
 Overall, these data raise a concern of a possible increased CV risk associated with the use of high-dose olmesartan in diabetic patients.
 There are, however, concerns with the credibility of the finding of increased CV risk, notably the observation in the large epidemiologic study for a survival benefit in non-diabetics of a magnitude similar to the adverse finding in diabetics.
 
-Amlodipine.
-The following post-marketing event has been reported infrequently where a causal relationship is uncertain: gynecomastia.
+Amlodipine.The following post-marketing event has been reported infrequently where a causal relationship is uncertain: gynecomastia.
 In post-marketing experience, jaundice and hepatic enzyme elevations (mostly consistent with cholestasis or hepatitis), in some cases severe enough to require hospitalization, have been reported in association with use of amlodipine.
 Postmarketing reporting has also revealed a possible association between extrapyramidal disorder and amlodipine.
 
