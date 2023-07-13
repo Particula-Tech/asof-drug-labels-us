@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Agents Increasing Serum Potassium
+## 7.1 Agents Increasing SerumPotassium
 
 Coadministration of BENICAR HCT with other drugs that raise serum potassium levels may result in hyperkalemia.
 Monitor serum potassium in such patients.
@@ -12,7 +12,7 @@ Monitor serum lithium levels during concomitant use.
 
 ## 7.3 Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
-Olmesartan medoxomil
+Olmesartanmedoxomil
 
 In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists (including olmesartan medoxomil) may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
@@ -32,21 +32,20 @@ Most patients receiving the combination of two RAS inhibitors do not obtain any 
 In general, avoid combined use of RAS inhibitors.
 Closely monitor blood pressure, renal function and electrolytes in patients on BENICAR HCT and other agents that affect the RAS.
 
-Do not co-administer aliskiren with BENICAR HCT in patients with diabetes [see Contraindications (4)].
-Avoid use of aliskiren with BENICAR HCT in patients with renal impairment (GFR <60 ml/min).
+Do not co-administer aliskiren with BENICAR HCT in patients with diabetes [seeContraindications (4)].Avoid use of aliskiren with BENICAR HCT in patients with renal impairment (GFR <60 ml/min).
 
-## 7.5 Colesevelam Hydrochloride
+## 7.5 ColesevelamHydrochloride
 
 Concurrent administration of bile acid sequestering agent colesevelam hydrochloride reduces the systemic exposure and peak plasma concentration of olmesartan.
 Administration of olmesartan at least 4 hours prior to colesevelam hydrochloride decreased the drug interaction effect.
-Consider administering olmesartan at least 4 hours before the colesevelam hydrochloride dose [see Clinical Pharmacology (12.3)].
+Consider administering olmesartan at least 4 hours before the colesevelam hydrochloride dose [seeClinical Pharmacology (12.3)].
 
-## 7.6 The Use of Hydrochlorothiazide with Other Drugs
+## 7.6 The Use ofHydrochlorothiazidewith Other Drugs
 
 When administered concurrently the following drugs may interact with thiazide diuretics:
 
-Antidiabetic drugs (oral agents and insulin): Dosage adjustment of the antidiabetic drug may be required.
+Antidiabeticdrugs(oral agents and insulin):Dosage adjustment of the antidiabetic drug may be required.
 
-Ion exchange resins: Staggering the dosage of hydrochlorothiazide and ion exchange resins (e.g., cholestyramine, colestipol) such that hydrochlorothiazide is administered at least 4 hours before or 4 – 6 hours after the administration of resins would potentially minimize the interaction [see Clinical Pharmacology (12.3)].
+Ion exchange resins:Staggering the dosage of hydrochlorothiazide and ion exchange resins (e.g., cholestyramine, colestipol) such that hydrochlorothiazide is administered at least 4 hours before or 4 – 6 hours after the administration of resins would potentially minimize the interaction [seeClinical Pharmacology (12.3)].
 
-Corticosteroids, ACTH: Intensified electrolyte depletion, particularly hypokalemia.
+Corticosteroids, ACTH:Intensified electrolyte depletion, particularly hypokalemia.

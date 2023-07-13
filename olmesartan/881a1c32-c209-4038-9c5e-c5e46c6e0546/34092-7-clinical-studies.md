@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-Olmesartan medoxomil and hydrochlorothiazide
+Olmesartan medoxomilandhydrochlorothiazide
 
 In clinical trials 1230 patients were exposed to the combination of olmesartan medoxomil (2.5 mg to 40 mg) and hydrochlorothiazide (12.5 mg to 25 mg).
 These trials included one placebo-controlled factorial trial in mild-moderate hypertensive patients (n=502) with combinations of olmesartan medoxomil (10 mg, 20 mg, 40 mg, or placebo) and hydrochlorothiazide (12.5 mg, 25 mg, or placebo).

@@ -6,11 +6,11 @@ Olmesartan medoxomil
 
 Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin converting enzyme (ACE, kininase II).
 Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation and renal reabsorption of sodium.
-Olmesartan blocks the vasoconstrictor effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in vascular smooth muscle.
+Olmesartan blocks the vasoconstrictor effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1receptor in vascular smooth muscle.
 Its action is, therefore, independent of the pathways for angiotensin II synthesis.
 
-An AT 2 receptor is found also in many tissues, but this receptor is not known to be associated with cardiovascular homeostasis.
-Olmesartan has more than a 12,500-fold greater affinity for the AT 1 receptor than for the AT 2 receptor.
+An AT 2receptor is found also in many tissues, but this receptor is not known to be associated with cardiovascular homeostasis.
+Olmesartan has more than a 12,500-fold greater affinity for the AT 1receptor than for the AT 2receptor.
 
 Blockade of the angiotensin II receptor inhibits the negative regulatory feedback of angiotensin II on renin secretion, but the resulting increased plasma renin activity and circulating angiotensin II levels do not overcome the effect of olmesartan on blood pressure.
 
@@ -40,11 +40,11 @@ Drug Interactions
 
 Hydrochlorothiazide
 
-Alcohol, barbiturates, or narcotics: Potentiation of orthostatic hypotension may occur.
+Alcohol, barbiturates, or narcotics:Potentiation of orthostatic hypotension may occur.
 
-Skeletal muscle relaxants, non-depolarizing (e.g., tubocurarine): Increased responsiveness to the muscle relaxant may occur.
+Skeletalmusclerelaxants,non-depolarizing (e.g.,tubocurarine):Increased responsiveness to the muscle relaxant may occur.
 
-Digitalis glycosides: Thiazide-induced hypokalemia or hypomagnesemia may predispose to digoxin toxicity.
+Digitalis glycosides:Thiazide-induced hypokalemia or hypomagnesemia may predispose to digoxin toxicity.
 
 ## 12.3 Pharmacokinetics
 
@@ -80,7 +80,7 @@ Hydrochlorothiazide crosses the placental but not the blood-brain barrier and is
 
 Metabolism
 
-Olmesartan: Olmesartan does not undergo further metabolism.
+Olmesartan:Olmesartan does not undergo further metabolism.
 
 Hydrochlorothiazide: Hydrochlorothiazide is not metabolized.
 
@@ -94,28 +94,28 @@ Hydrochlorothiazide: About 70% of an orally administered dose of hydrochlorothia
 
 Specific populations
 
-Olmesartan medoxomil
+Olmesartanmedoxomil
 
-Pediatric: The pharmacokinetics of olmesartan were studied in pediatric hypertensive patients aged 1 to16 years.
+Pediatric:The pharmacokinetics of olmesartan were studied in pediatric hypertensive patients aged 1 to16 years.
 The clearance of olmesartan in pediatric patients was similar to that in adult patients when adjusted by the body weight.
 Olmesartan pharmacokinetics have not been investigated in pediatric patients less than 1 year of age.
 
-Geriatric: The pharmacokinetics of olmesartan were studied in the elderly (≥65 years).
+Geriatric:The pharmacokinetics of olmesartan were studied in the elderly (≥65 years).
 Overall, maximum plasma concentrations of olmesartan were similar in young adults and the elderly.
-Modest accumulation of olmesartan was observed in the elderly with repeated dosing; AUC ss, τwas 33% higher in elderly patients, corresponding to an approximate 30% reduction in CL R.
+Modest accumulation of olmesartan was observed in the elderly with repeated dosing; AUC ss,τwas 33% higher in elderly patients, corresponding to an approximate 30% reduction in CL R.
 
-Gender: Minor differences were observed in the pharmacokinetics of olmesartan in women compared to men.
-AUC and C max were 10-15% higher in women than in men.
+Gender:Minor differences were observed in the pharmacokinetics of olmesartan in women compared to men.
+AUC and C maxwere 10-15% higher in women than in men.
 
-Renal insufficiency: In patients with renal insufficiency, serum concentrations of olmesartan were elevated compared to subjects with normal renal function.
+Renalinsufficiency:In patients with renal insufficiency, serum concentrations of olmesartan were elevated compared to subjects with normal renal function.
 After repeated dosing, the AUC was approximately tripled in patients with severe renal impairment (creatinine clearance <20 mL/min).
 The pharmacokinetics of olmesartan in patients undergoing hemodialysis has not been studied.
 
-Hepatic insufficiency: Increases in AUC 0-∞ and C max for olmesartan were observed in patients with moderate hepatic impairment compared to those in matched controls, with an increase in AUC of about 60%.
+Hepaticinsufficiency:Increases in AUC 0-∞and C maxfor olmesartan were observed in patients with moderate hepatic impairment compared to those in matched controls, with an increase in AUC of about 60%.
 
 Hydrochlorothiazide
 
-Renal insufficiency: In a study in individuals with impaired renal function, the mean elimination half-life of hydrochlorothiazide doubled in individuals with mild/moderate renal impairment (30 < CrCl < 90 mL/min) and tripled in severe renal impairment (≤ 30 mL/min), when compared to individuals with normal renal function (CrCl > 90 mL/min).
+Renalinsufficiency:In a study in individuals with impaired renal function, the mean elimination half-life of hydrochlorothiazide doubled in individuals with mild/moderate renal impairment (30 < CrCl < 90 mL/min) and tripled in severe renal impairment (≤ 30 mL/min), when compared to individuals with normal renal function (CrCl > 90 mL/min).
 
 Drug Interactions
 
@@ -130,16 +130,16 @@ Olmesartan medoxomil is not metabolized by the cytochrome P450 system and has no
 Bile acid sequestering agent colesevelam
 
 Concomitant administration of 40 mg olmesartan medoxomil and 3750 mg colesevelam hydrochloride in healthy subjects resulted in 28% reduction in Cmax and 39% reduction in AUC of olmesartan.
-Lesser effects, 4% and 15% reduction in Cmax and AUC respectively, were observed when olmesartan medoxomil was administered 4 hours prior to colesevelam hydrochloride [see Drug Interactions (7.5)].
+Lesser effects, 4% and 15% reduction in Cmax and AUC respectively, were observed when olmesartan medoxomil was administered 4 hours prior to colesevelam hydrochloride [seeDrug Interactions (7.5)].
 
 Hydrochlorothiazide
 
-Drugs that alter gastrointestinal motility: The bioavailability of thiazide-type diuretics may be increased by anticholinergic agents (e.g. atropine, biperiden), apparently due to a decrease in gastrointestinal motility and the stomach emptying rate.
+Drugs that alter gastrointestinal motility:The bioavailability of thiazide-type diuretics may be increased by anticholinergic agents (e.g. atropine, biperiden), apparently due to a decrease in gastrointestinal motility and the stomach emptying rate.
 Conversely, pro-kinetic drugs may decrease the bioavailability of thiazide diuretics.
 
-Cholestyramine: In a dedicated drug interaction study, administration of cholestyramine 2 h before hydrochlorothiazide resulted in a 70% reduction in exposure to hydrochlorothiazide.
+Cholestyramine:In a dedicated drug interaction study, administration of cholestyramine 2 h before hydrochlorothiazide resulted in a 70% reduction in exposure to hydrochlorothiazide.
 Further, administration of hydrochlorothiazide 2 h before cholestyramine, resulted in 35% reduction in exposure to hydrochlorothiazide.
 
-Lithium: Diuretic agents reduce the renal clearance of lithium and increase the risk of lithium toxicity [see Drug Interactions (7.2)].
+Lithium:Diuretic agents reduce the renal clearance of lithium and increase the risk of lithium toxicity [seeDrug Interactions (7.2)].
 
-Antineoplastic agents (e.g. cyclophosphamide, methotrexate): Concomitant use of thiazide diuretics may reduce renal excretion of cytotoxic agents and enhance their myelosuppressive effects.
+Antineoplastic agents (e.g. cyclophosphamide, methotrexate):Concomitant use of thiazide diuretics may reduce renal excretion of cytotoxic agents and enhance their myelosuppressive effects.

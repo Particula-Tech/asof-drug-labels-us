@@ -1,7 +1,7 @@
 # 1 INDICATIONS AND USAGE
 
 BENICAR HCT (olmesartan medoxomil and hydrochlorothiazide) is indicated for the treatment of hypertension, to lower blood pressure.
-BENICAR HCT is not indicated for the initial therapy of hypertension [see Dosage and Administration (2)].
+BENICAR HCT is not indicated for the initial therapy of hypertension [seeDosage and Administration (2)].
 
 Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.
 These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including the class to which this drug principally belongs.

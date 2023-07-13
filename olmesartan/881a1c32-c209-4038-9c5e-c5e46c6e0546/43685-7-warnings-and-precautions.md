@@ -1,36 +1,36 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Fetal Toxicity
+## 5.1 FetalToxicity
 
 Pregnancy Category D
 
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
-When pregnancy is detected, discontinue BENICAR HCT as soon as possible [see Use in Specific Populations (8.1)].
+When pregnancy is detected, discontinue BENICAR HCT as soon as possible [seeUse in Specific Populations (8.1)].
 
 Thiazides cross the placental barrier and appear in cord blood.
-Adverse reactions include fetal or neonatal jaundice and thrombocytopenia [see Use in Specific Populations (8.1)].
+Adverse reactions include fetal or neonatal jaundice and thrombocytopenia [seeUse in Specific Populations (8.1)].
 
 ## 5.2 Hypotension in Volume or Salt-Depleted Patients
 
-In patients with an activated renin-angiotensin system, such as volume- or salt-depleted patients (e.g., those being treated with high doses of diuretics), symptomatic hypotension may occur after initiation of treatment with BENICAR HCT.
+In patients with an activated renin-angiotensin system, such as volume- or salt-depleted patients (e.g.,those being treated with high doses of diuretics), symptomatic hypotension may occur after initiation of treatment with BENICAR HCT.
 If hypotension does occur, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline.
 When electrolyte and fluid imbalances have been corrected, BENICAR HCT usually can be continued without difficulty.
 A transient hypotensive response is not a contraindication to further treatment.
 
-## 5.3 Impaired Renal Function
+## 5.3 ImpairedRenal Function
 
 Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics.
 Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, or volume depletion) may be at particular risk of developing acute renal failure on BENICAR HCT.
 Monitor renal function periodically in these patients.
-Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on BENICAR HCT [see Drug Interactions (7)].
+Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on BENICAR HCT [seeDrug Interactions (7)].
 
 ## 5.4 Hypersensitivity Reactions
 
 Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma, but are more likely in patients with such a history.
 
-## 5.5 Electrolyte and Metabolic Imbalances
+## 5.5 Electrolyte and MetabolicImbalances
 
 BENICAR HCT contains hydrochlorothiazide which can cause hypokalemia and hyponatremia.
 Hypomagnesemia can result in hypokalemia which may be difficult to treat despite potassium repletion.

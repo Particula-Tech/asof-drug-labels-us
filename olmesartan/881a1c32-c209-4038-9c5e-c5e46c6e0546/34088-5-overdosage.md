@@ -15,4 +15,4 @@ Hydrochlorothiazide
 The most common signs and symptoms of hydrochlorothiazide overdose observed in humans are those caused by electrolyte depletion (hypokalemia, hypochloremia, hyponatremia) and dehydration resulting from excessive diuresis.
 If digitalis has also been administered, hypokalemia may accentuate cardiac arrhythmias.
 The degree to which hydrochlorothiazide is removed by hemodialysis has not been established.
-The oral LD 50 of hydrochlorothiazide is greater than 10 g/kg in both mice and rats.
+The oral LD 50of hydrochlorothiazide is greater than 10 g/kg in both mice and rats.

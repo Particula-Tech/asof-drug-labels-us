@@ -17,7 +17,7 @@ Perform serial ultrasound examinations to assess the intraamniotic environment.
 If oligohydramnios is observed, discontinue BENICAR HCT, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to BENICAR HCT for hypotension, oliguria, and hyperkalemia [see Use in Specific Populations (8.4)].
+Closely observe infants with histories of in utero exposure to BENICAR HCT for hypotension, oliguria, and hyperkalemia [seeUse in Specific Populations (8.4)].
 
 ## 8.3 Nursing Mothers
 
@@ -49,7 +49,7 @@ No dose adjustment is required in patients with mild (CrCl 60-90 mL/min) or mode
 
 ## 8.7 Hepatic Impairment
 
-Olmesartan medoxomil
+Olmesartanmedoxomil
 
 No dose adjustment is necessary for patients with mild-to-severe liver disease.
 

@@ -2,19 +2,19 @@
 
 The following adverse reactions with BENICAR HCT are described elsewhere:
 
-- Hypotension in Volume- or Salt-Depleted Patients [see Warnings and Precautions (5.2)]
-- Impaired Renal Function [see Warnings and Precautions (5.3)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
-- Electrolyte and Metabolic Imbalances [see Warnings and Precautions (5.5)]
-- Acute Myopia and Secondary Angle-Closure Glaucoma [see Warnings and Precautions (5.6)]
-- Systemic Lupus Erythematosus [see Warnings and Precautions (5.7)]
-- Sprue-Like Enteropathy [see Warnings and Precautions (5.8)]
+- Hypotension in Volume- or Salt-Depleted Patients [seeWarnings and Precautions (5.2)]
+- Impaired Renal Function [seeWarnings and Precautions (5.3)]
+- Hypersensitivity Reactions [seeWarnings and Precautions (5.4)]
+- Electrolyte and Metabolic Imbalances [seeWarnings and Precautions (5.5)]
+- Acute Myopia and Secondary Angle-Closure Glaucoma [seeWarnings and Precautions (5.6)]
+- Systemic Lupus Erythematosus [seeWarnings and Precautions (5.7)]
+- Sprue-Like Enteropathy [seeWarnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-Olmesartan medoxomil and hydrochlorothiazide
+Olmesartan medoxomilandhydrochlorothiazide
 
 The concomitant use of olmesartan medoxomil and hydrochlorothiazide was evaluated for safety in 1243 hypertensive patients.
 Treatment with olmesartan medoxomil and hydrochlorothiazide was well tolerated, with an incidence of adverse events similar to that of placebo.
@@ -35,7 +35,7 @@ Table 1: Adverse Reactions in a Factorial Trial of Patients with Hypertension
 
 Other adverse reactions that have been reported with an incidence of greater than 1.0%, whether or not attributed to treatment, in the more than 1200 hypertensive patients treated with olmesartan medoxomil and hydrochlorothiazide in controlled or open-label trials are listed below.
 
-Body as a Whole: chest pain, back pain, peripheral edema Central and Peripheral Nervous System: vertigo Gastrointestinal: abdominal pain, dyspepsia, gastroenteritis, diarrhea Liver and Biliary System: SGOT increased, GGT increased, ALT increased Metabolic and Nutritional:creatine phosphokinase increased Musculoskeletal: arthritis, arthralgia, myalgia Respiratory System: coughing Skin and Appendages Disorders: rash Urinary System: hematuria
+Body as a Whole:chest pain, back pain, peripheral edema Central and Peripheral Nervous System:vertigo Gastrointestinal:abdominal pain, dyspepsia, gastroenteritis, diarrhea Liver and Biliary System:SGOT increased, GGT increased, ALT increased Metabolic and Nutritional:creatine phosphokinase increased Musculoskeletal:arthritis, arthralgia, myalgia Respiratory System:coughing Skin and Appendages Disorders:rash Urinary System:hematuria
 
 Facial edema was reported in 2/1243 patients receiving olmesartan medoxomil and hydrochlorothiazide.
 Angioedema has been reported with angiotensin II receptor antagonists, including BENICAR HCT.
@@ -44,18 +44,18 @@ Hydrochlorothiazide
 
 Other adverse reactions that have been reported with hydrochlorothiazide are listed below:
 
-Body as a Whole: weakness Digestive: pancreatitis, jaundice (intrahepatic cholestatic jaundice), sialadenitis, cramping, gastric irritation Hematologic: aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia Hypersensitivity: purpura, photosensitivity, urticaria, necrotizing angiitis (vasculitis and cutaneous vasculitis), fever, respiratory distress including pneumonitis and pulmonary edema, anaphylactic reactions Metabolic: glycosuria, hyperuricemia Musculoskeletal: muscle spasm Nervous System/Psychiatric: restlessness Renal: renal dysfunction, interstitial nephritis Skin: erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis Special Senses: transient blurred vision, xanthopsia
+Body as a Whole:weakness Digestive:pancreatitis, jaundice (intrahepatic cholestatic jaundice), sialadenitis, cramping, gastric irritation Hematologic:aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia Hypersensitivity:purpura, photosensitivity, urticaria, necrotizing angiitis (vasculitis and cutaneous vasculitis), fever, respiratory distress including pneumonitis and pulmonary edema, anaphylactic reactions Metabolic:glycosuria, hyperuricemia Musculoskeletal:muscle spasm Nervous System/Psychiatric:restlessness Renal:renal dysfunction, interstitial nephritis Skin:erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis Special Senses:transient blurred vision, xanthopsia
 
 Clinical Laboratory Test Findings
 
-Creatinine/blood urea nitrogen (BUN): Minor elevations in creatinine and BUN occurred in 1.7% and 2.5% respectively, of patients taking BENICAR HCT and 0% and 0% respectively, given placebo in controlled clinical trials.
+Creatinine/bloodureanitrogen (BUN):Minor elevations in creatinine and BUN occurred in 1.7% and 2.5% respectively, of patients taking BENICAR HCT and 0% and 0% respectively, given placebo in controlled clinical trials.
 
 ## 6.2 Post-marketing Experience
 
 The following adverse reactions have been identified during post-approval use of BENICAR HCT.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Body as a Whole: Asthenia Gastrointestinal: Vomiting Metabolic: Hyperkalemia Musculoskeletal: Rhabdomyolysis Skin and Appendages: Alopecia, pruritus
+Body as a Whole:Asthenia Gastrointestinal:Vomiting Metabolic:Hyperkalemia Musculoskeletal:Rhabdomyolysis Skin and Appendages:Alopecia, pruritus
 
 Data from one controlled trial and an epidemiologic study have suggested that high-dose olmesartan may increase cardiovascular (CV) risk in diabetic patients, but the overall data are not conclusive.
 The randomized, placebo-controlled, double-blind ROADMAP trial (Randomized Olmesartan And Diabetes MicroAlbuminuria Prevention trial, n=4447) examined the use of olmesartan, 40 mg daily, vs. placebo in patients with type 2 diabetes mellitus, normoalbuminuria, and at least one additional risk factor for CV disease.
