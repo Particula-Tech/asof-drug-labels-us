@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
-Esmolol hydrochloride is a beta adrenergic receptor blocker with a very short duration of action (elimination half-life is approximately 9 minutes).
-Esmolol Hydrochloride is:
+Esmolol hydrochloride injection is a beta adrenergic receptor blocker with a very short duration of action (elimination half-life is approximately 9 minutes).
+Esmolol hydrochloride is:
 
 - (±)-Methyl p-[2-hydroxy-3-(isopropylamino) propoxy] hydrocinnamate hydrochloride and has the following structure:
 
@@ -14,7 +14,7 @@ Esmolol Hydrochloride is:
 ## 11.1 Esmolol Hydrochloride Injection Dosage Forms
 
 Esmolol hydrochloride injection is a clear, colorless to light yellow, sterile, nonpyrogenic, iso-osmotic solution of esmolol hydrochloride in sodium chloride.
-The formulation is described in the table below: Table 3 Formulation for Esmolol Hydrochloride Injection
+The formulation is described in the table below: Table 4 Formulation for Esmolol Hydrochloride Injection
 
 | Esmolol Hydrochloride, USP | 10 mg/mL |
 | --- | --- |
@@ -22,6 +22,6 @@ The formulation is described in the table below: Table 3 Formulation for Esmolol
 | Water for Injection, USP | Q.S. to volume of 10 mL |
 | Sodium Acetate Trihydrate, USP | 2.8 mg/mL |
 | Glacial Acetic Acid, USP | 0.546 mg/mL |
-| Sodium Hydroxide | Q.S. to adjust pH to 4.5-5.5 |
-| Hydrochloric Acid | Q.S. to adjust pH to 4.5-5.5 |
+| Sodium Hydroxide | Q.S. to adjust pH to 4.5 to 5.5 |
+| Hydrochloric Acid | Q.S. to adjust pH to 4.5 to 5.5 |
 | Q.S. = Quantity sufficient |  |

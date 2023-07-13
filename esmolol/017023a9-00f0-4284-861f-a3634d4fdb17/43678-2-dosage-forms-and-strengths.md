@@ -1,7 +1,7 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
 Esmolol hydrochloride injection is an iso-osmotic solution of esmolol hydrochloride in sodium chloride.
-Table 1 Esmolol Hydrochloride Injection Presentation
+Table 2 Esmolol Hydrochloride Injection Presentation
 
 | Product Name | Esmolol Hydrochloride Injection |
 | --- | --- |
