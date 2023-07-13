@@ -2,9 +2,9 @@
 
 The following important adverse reactions are also discussed elsewhere in the labeling:
 
-- Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1, 5.4)]
-- Lower Limb Amputation [see Warnings and Precautions (5.2)]
-- Ketoacidosis [see Warnings and Precautions (5.3)]
+- Lactic Acidosis [see Boxed Warningand Warnings and Precautions (5.1, 5.4)]
+- Diabetic Ketoacidosis in Patients with Type 1 Diabetes and Other Ketoacidosis [see Warnings and Precautions (5.2)]
+- Lower Limb Amputation [see Warnings and Precautions (5.3)]
 - Volume Depletion [see Warnings and Precautions (5.4)]
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
 - Hypoglycemia with Concomitant Use of Sulfonylurea or Insulin [see Warnings and Precautions (5.6)]
@@ -12,7 +12,7 @@ The following important adverse reactions are also discussed elsewhere in the la
 - Genital Mycotic Infections [see Warnings and Precautions (5.8)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
 - Bone Fracture [see Warnings and Precautions (5.10)]
-- Vitamin B12 Deficiency [see Warnings and Precautions (5.11)]
+- Vitamin B 12Deficiency [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -22,39 +22,39 @@ Pool of Placebo-Controlled Trials for Glycemic Control
 
 Canagliflozin
 
-The data in Table 2 is derived from four 26-week placebo-controlled trials where canagliflozin was used as monotherapy in one trial and as add-on therapy in three trials.
+The data in Table 3 is derived from four 26-week placebo-controlled trials where canagliflozin was used as monotherapy in one trial and as add-on therapy in three trials.
 These data reflect exposure of 1,667 patients to canagliflozin and a mean duration of exposure to canagliflozin of 24 weeks with 1,275 patients exposed to a combination of canagliflozin and metformin HCl.
 Patients received canagliflozin 100 mg (N=833), canagliflozin 300 mg (N=834) or placebo (N=646) once daily.
 The mean daily dose of metformin HCl was 2,138 mg (SD 337.3) for the 1,275 patients in the three placebo-controlled metformin HCl add-on trials.
 The mean age of the population was 56 years and 2% were older than 75 years of age.
 Fifty percent (50%) of the population was male and 72% were Caucasian, 12% were Asian, and 5% were Black or African American.
-At baseline the population had diabetes for an average of 7.3 years, had a mean HbA1C of 8.0% and 20% had established microvascular complications of diabetes.
-Baseline renal function was normal or mildly impaired (mean eGFR 88 mL/min/1.73 m2).
+At baseline the population had diabetes for an average of 7.3 years, had a mean HbA 1Cof 8.0% and 20% had established microvascular complications of diabetes.
+Baseline renal function was normal or mildly impaired (mean eGFR 88 mL/min/1.73 m 2).
 
-Table 2 shows common adverse reactions associated with the use of canagliflozin.
+Table 3 shows common adverse reactions associated with the use of canagliflozin.
 These adverse reactions were not present at baseline, occurred more commonly on canagliflozin than on placebo, and occurred in at least 2% of patients treated with either canagliflozin 100 mg or canagliflozin 300 mg.
 
-Table 2: Adverse Reactions from Pool of Four 26−Week Placebo-Controlled Studies Reported in ≥ 2% of Canagliflozin-Treated PatientsThe four placebo-controlled trials included one monotherapy trial and three add-on combination trials with metformin HCl, metformin HCl and sulfonylurea, or metformin HCl and pioglitazone.
+Table 3: Adverse Reactions from Pool of Four 26−Week Placebo-Controlled Studies Reported in ≥ 2% of Canagliflozin-Treated Patients The four placebo-controlled trials included one monotherapy trial and three add-on combination trials with metformin HCl, metformin HCl and sulfonylurea, or metformin HCl and pioglitazone.
 
 | Adverse Reaction | Placebo N=646 | Canagliflozin 100 mg N=833 | Canagliflozin 300 mg N=834 |
 | --- | --- | --- | --- |
-| Urinary tract infectionsUrinary tract infections include the following adverse reactions: Urinary tract infection, Cystitis, Kidney infection, and Urosepsis. | 3.8% | 5.9% | 4.4% |
-| Increased urinationIncreased urination includes the following adverse reactions: Polyuria, Pollakiuria, Urine output increased, Micturition urgency, and Nocturia. | 0.7% | 5.1% | 4.6% |
-| ThirstThirst includes the following adverse reactions: Thirst, Dry mouth, and Polydipsia. | 0.1% | 2.8% | 2.4% |
+| Urinary tract infections Urinary tract infections include the following adverse reactions: Urinary tract infection, Cystitis, Kidney infection, and Urosepsis. | 3.8% | 5.9% | 4.4% |
+| Increased urination Increased urination includes the following adverse reactions: Polyuria, Pollakiuria, Urine output increased, Micturition urgency, and Nocturia. | 0.7% | 5.1% | 4.6% |
+| Thirst Thirst includes the following adverse reactions: Thirst, Dry mouth, and Polydipsia. | 0.1% | 2.8% | 2.4% |
 | Constipation | 0.9% | 1.8% | 2.4% |
 | Nausea | 1.6% | 2.1% | 2.3% |
 |  | N=312 | N=425 | N=430 |
-| Female genital mycotic infectionsFemale genital mycotic infections include the following adverse reactions: Vulvovaginal candidiasis, Vulvovaginal mycotic infection, Vulvovaginitis, Vaginal infection, Vulvitis, and Genital infection fungal. | 2.8% | 10.6% | 11.6% |
+| Female genital mycotic infections Female genital mycotic infections include the following adverse reactions: Vulvovaginal candidiasis, Vulvovaginal mycotic infection, Vulvovaginitis, Vaginal infection, Vulvitis, and Genital infection fungal. | 2.8% | 10.6% | 11.6% |
 | Vulvovaginal pruritus | 0.0% | 1.6% | 3.2% |
 |  | N=334 | N=408 | N=404 |
-| Male genital mycotic infectionsMale genital mycotic infections include the following adverse reactions: Balanitis or Balanoposthitis, Balanitis candida, and Genital infection fungal. | 0.7% | 4.2% | 3.8% |
+| Male genital mycotic infections Male genital mycotic infections include the following adverse reactions: Balanitis or Balanoposthitis, Balanitis candida, and Genital infection fungal. | 0.7% | 4.2% | 3.8% |
 | Note: Percentages were weighted by studies. Study weights were proportional to the harmonic mean of the three treatment sample sizes. |  |  |  |
 
 Abdominal pain was also more commonly reported in patients taking canagliflozin 100 mg (1.8%), 300 mg (1.7%) than in patients taking placebo (0.8%).
 
 Canagliflozin and Metformin HCl
 
-The incidence and type of adverse reactions in the three 26-week placebo-controlled metformin HCl tablets add-on trials, representing a majority of data from the four 26-week placebo-controlled trials, was similar to the adverse reactions described in Table 2.
+The incidence and type of adverse reactions in the three 26-week placebo-controlled metformin HCl tablets add-on trials, representing a majority of data from the four 26-week placebo-controlled trials, was similar to the adverse reactions described in Table 3.
 There were no additional adverse reactions identified in the pooling of these three placebo-controlled trials that included metformin HCl tablets relative to the four placebo-controlled trials.
 
 In a trial with canagliflozin as initial combination therapy with metformin HCl [see Clinical Studies (14.1)], an increased incidence of diarrhea was observed in the canagliflozin and metformin HCl combination groups (4.2%) compared to canagliflozin or metformin HCl monotherapy groups (1.7%).
@@ -64,15 +64,15 @@ Placebo-Controlled Trial in Diabetic Nephropathy
 The occurrence of adverse reactions for canagliflozin was evaluated in patients participating in CREDENCE, a study in patients with type 2 diabetes mellitus and diabetic nephropathy with albuminuria ˃ 300 mg/day [see Clinical Studies (14.3)].
 These data reflect exposure of 2,201 patients to canagliflozin and a mean duration of exposure to canagliflozin of 137 weeks.
 
-- The rate of lower limb amputations associated with the use of canagliflozin 100 mg relative to placebo was 12.3 vs 11.2 events per 1000 patient-years, respectively, with 2.6 years mean duration of follow-up.
-- Incidence rates of adjudicated events of diabetic ketoacidosis (DKA) were 0.21 (0.5%, 12/2,200) and 0.03 (0.1%, 2/2,197) per 100 patient-years of follow-up with canagliflozin 100 mg and placebo, respectively.
-- The incidence of hypotension was 2.8% and 1.5% on canagliflozin 100 mg and placebo, respectively.
+The rate of lower limb amputations associated with the use of canagliflozin 100 mg relative to placebo was 12.3 vs 11.2 events per 1000 patient-years, respectively, with 2.6 years mean duration of follow-up.
+
+The incidence of hypotension was 2.8% and 1.5% on canagliflozin 100 mg and placebo, respectively.
 
 Pool of Placebo- and Active-Controlled Trials for Glycemic Control and Cardiovascular Outcomes
 
 The occurrence of adverse reactions for canagliflozin was evaluated in patients participating in placebo- and active-controlled trials and in an integrated analysis of two cardiovascular trials, CANVAS and CANVAS-R.
 
-The types and frequency of common adverse reactions observed in the pool of eight clinical trials (which reflect an exposure of 6,177 patients to canagliflozin) were consistent with those listed in Table 2.
+The types and frequency of common adverse reactions observed in the pool of eight clinical trials (which reflect an exposure of 6,177 patients to canagliflozin) were consistent with those listed in Table 3.
 Percentages were weighted by studies.
 Study weights were proportional to the harmonic mean of the three treatment sample sizes.
 In this pool, canagliflozin was also associated with the adverse reactions of fatigue (1.8%, 2.2%, and 2.0% with comparator, canagliflozin 100 mg, and canagliflozin 300 mg, respectively) and loss of strength or energy (i.e., asthenia) (0.6%, 0.7%, and 1.1% with comparator, canagliflozin 100 mg, and canagliflozin 300 mg, respectively).
@@ -92,9 +92,9 @@ Lower Limb Amputation
 
 An increased risk of lower limb amputations associated with canagliflozin was observed in CANVAS (5.9 vs 2.8 events per 1000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1000 patient-years), two randomized, placebo-controlled trials evaluating patients with type 2 diabetes who had either established cardiovascular disease or were at risk for cardiovascular disease.
 Patients in CANVAS and CANVAS-R were followed for an average of 5.7 and 2.1 years, respectively [see Clinical Studies (14.2)].
-The amputation data for CANVAS and CANVAS-R are shown in Tables 3 and 4, respectively.
+The amputation data for CANVAS and CANVAS-R are shown in Tables 4 and 5, respectively.
 
-Table 3: CANVAS Amputations
+Table 4: CANVAS Amputations
 
 |  | Placebo N=1441 | Canagliflozin 100 mg N=1445 | Canagliflozin 300 mg N=1441 | Canagliflozin (Pooled) N=2886 |
 | --- | --- | --- | --- | --- |
@@ -104,7 +104,7 @@ Table 3: CANVAS Amputations
 | Hazard Ratio (95% CI) | -- | 2.24 (1.36, 3.69) | 2.01 (1.20, 3.34) | 2.12 (1.34, 3.38) |
 | Note: Incidence is based on the number of patients with at least one amputation, and not the total number of amputation events. A patient's follow-up is calculated from Day 1 to the first amputation event date. Some patients had more than one amputation. |  |  |  |  |
 
-Table 4: CANVAS-R Amputations
+Table 5: CANVAS-R Amputations
 
 |  | Placebo N=2903 | Canagliflozin 100 mg (with up-titration to 300 mg) N=2904 |
 | --- | --- | --- |
@@ -124,15 +124,15 @@ Volume Depletion-Related Adverse Reactions
 Canagliflozin results in an osmotic diuresis, which may lead to reductions in intravascular volume.
 In clinical trials for glycemic control, treatment with canagliflozin was associated with a dose-dependent increase in the incidence of volume depletion-related adverse reactions (e.g., hypotension, postural dizziness, orthostatic hypotension, syncope, and dehydration).
 An increased incidence was observed in patients on the 300 mg dose.
-The three factors associated with the largest increase in volume depletion-related adverse reactions in these trials were the use of loop diuretics, moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2), and age 75 years and older (Table 5) [see Use in Specific Populations (8.5 and 8.6)].
+The three factors associated with the largest increase in volume depletion-related adverse reactions in these trials were the use of loop diuretics, moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m 2), and age 75 years and older (Table 6) [see Use in Specific Populations (8.5and 8.6)].
 
-Table 5: Patients With at Least One Volume Depletion-Related Adverse Reaction (Pooled Results from 8 Clinical Trials for Glycemic Control)
+Table 6: Patients With at Least One Volume Depletion-Related Adverse Reaction (Pooled Results from 8 Clinical Trials for Glycemic Control)
 
-| Baseline Characteristic | Comparator GroupIncludes placebo and active-comparator groups % | Canagliflozin 100 mg % | Canagliflozin 300 mg % |
+| Baseline Characteristic | Comparator Group Includes placebo and active-comparator groups % | Canagliflozin 100 mg % | Canagliflozin 300 mg % |
 | --- | --- | --- | --- |
 | Overall population | 1.5% | 2.3% | 3.4% |
-| 75 years of age and olderPatients could have more than 1 of the listed risk factors | 2.6% | 4.9% | 8.7% |
-| eGFR less than 60 mL/min/1.73 m2 | 2.5% | 4.7% | 8.1% |
+| 75 years of age and older Patients could have more than 1 of the listed risk factors | 2.6% | 4.9% | 8.7% |
+| eGFR less than 60 mL/min/1.73 m 2 | 2.5% | 4.7% | 8.1% |
 | Use of loop diuretic | 4.7% | 3.2% | 8.8% |
 
 Falls
@@ -158,17 +158,17 @@ Hypoglycemia
 
 In canagliflozin glycemic control trials, hypoglycemia was defined as any event regardless of symptoms, where biochemical hypoglycemia was documented (any glucose value below or equal to 70 mg/dL).
 Severe hypoglycemia was defined as an event consistent with hypoglycemia where the patient required the assistance of another person to recover, lost consciousness, or experienced a seizure (regardless of whether biochemical documentation of a low glucose value was obtained).
-In individual clinical trials of glycemic control [see Clinical Studies (14.1)], episodes of hypoglycemia occurred at a higher rate when canagliflozin was co-administered with insulin or sulfonylureas (Table 6).
+In individual clinical trials of glycemic control [see Clinical Studies (14.1)], episodes of hypoglycemia occurred at a higher rate when canagliflozin was co-administered with insulin or sulfonylureas (Table 7).
 
-Table 6: Incidence of HypoglycemiaNumber of patients experiencing at least one event of hypoglycemia based on either biochemically documented episodes or severe hypoglycemic events in the intent-to-treat population in Randomized Clinical Studies of Glycemic Control
+Table 7: Incidence of Hypoglycemia Number of patients experiencing at least one event of hypoglycemia based on either biochemically documented episodes or severe hypoglycemic events in the intent-to-treat populationin Randomized Clinical Studies of Glycemic Control
 
 | Monotherapy (26 weeks) | Placebo (N=192) | Canagliflozin 100 mg (N=195) | Canagliflozin 300 mg (N=197) |
 | --- | --- | --- | --- |
 | Overall [N (%)] | 5 (2.6) | 7 (3.6) | 6 (3.0) |
 | In Combination with Metformin HCl (26 weeks) | Placebo + Metformin HCl (N=183) | Canagliflozin 100 mg + Metformin HCl (N=368) | Canagliflozin 300 mg + Metformin HCl (N=367) |
 | Overall [N (%)] | 3 (1.6) | 16 (4.3) | 17 (4.6) |
-| Severe [N (%)]Severe episodes of hypoglycemia were defined as those where the patient required the assistance of another person to recover, lost consciousness, or experienced a seizure (regardless of whether biochemical documentation of a low glucose value was obtained) | 0 (0) | 1 (0.3) | 1 (0.3) |
-| In Combination with Metformin HCl (18 weeks)Phase 2 clinical study with twice daily dosing (50 mg or 150 mg twice daily in combination with metformin HCl) | Placebo (N=93) | Canagliflozin 100 mg (N=93) | Canagliflozin 300 mg (N=93) |
+| Severe [N (%)] Severe episodes of hypoglycemia were defined as those where the patient required the assistance of another person to recover, lost consciousness, or experienced a seizure (regardless of whether biochemical documentation of a low glucose value was obtained) | 0 (0) | 1 (0.3) | 1 (0.3) |
+| In Combination with Metformin HCl (18 weeks) Phase 2 clinical study with twice daily dosing (50 mg or 150 mg twice daily in combination with metformin HCl) | Placebo (N=93) | Canagliflozin 100 mg (N=93) | Canagliflozin 300 mg (N=93) |
 | Overall [N (%)] | 3 (3.2) | 4 (4.3) | 3 (3.2) |
 | In Combination with Metformin HCl + Sulfonylurea (26 weeks) | Placebo + Metformin HCl + Sulfonylurea (N=156) | Canagliflozin 100 mg + Metformin HCl + Sulfonylurea (N=157) | Canagliflozin 300 mg + Metformin HCl + Sulfonylurea (N=156) |
 | Overall [N (%)] | 24 (15.4) | 43 (27.4) | 47 (30.1) |
@@ -192,7 +192,7 @@ Metformin HCl
 
 The most common adverse reactions (5% or greater incidence) due to initiation of metformin HCl are diarrhea, nausea, vomiting, flatulence, asthenia, indigestion, abdominal discomfort, and headache.
 
-Long-term treatment with metformin HCl has been associated with a decrease in vitamin B12, which may result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.11)].
+Long-term treatment with metformin HCl has been associated with a decrease in vitamin B 12, which may result in clinically significant vitamin B 12deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.11)].
 
 Laboratory and Imaging Tests
 
@@ -205,7 +205,7 @@ The acute effect on eGFR reverses after treatment discontinuation suggesting acu
 
 Increases in Serum Potassium
 
-In a pooled population of patients (N=723) in glycemic control trials with moderate renal impairment (eGFR 45 to less than 60 mL/min/1.73 m2), increases in serum potassium to greater than 5.4 mEq/L and 15% above occurred in 5.3%, 5.0%, and 8.8% of patients treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
+In a pooled population of patients (N=723) in glycemic control trials with moderate renal impairment (eGFR 45 to less than 60 mL/min/1.73 m 2), increases in serum potassium to greater than 5.4 mEq/L and 15% above occurred in 5.3%, 5.0%, and 8.8% of patients treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
 Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 0.4% of patients treated with placebo, no patients treated with canagliflozin 100 mg, and 1.3% of patients treated with canagliflozin 300 mg.
 
 In these patients, increases in potassium were more commonly seen in those with elevated potassium at baseline.

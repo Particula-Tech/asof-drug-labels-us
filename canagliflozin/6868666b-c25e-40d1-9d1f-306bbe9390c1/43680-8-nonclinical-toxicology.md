@@ -4,7 +4,7 @@
 
 INVOKAMET and INVOKAMET XR
 
-No animal studies have been conducted with the combined products in INVOKAMET/INVOKAMET XR to evaluate carcinogenesis, mutagenesis, or impairment of fertility.
+No animal studies have been conducted with the combined products in INVOKAMET or INVOKAMET XR to evaluate carcinogenesis, mutagenesis, or impairment of fertility.
 The following data are based on findings in studies with canagliflozin and metformin HCl individually.
 
 Canagliflozin
@@ -25,8 +25,8 @@ Clinical trials have not demonstrated carbohydrate malabsorption in humans at ca
 Mutagenesis
 
 Canagliflozin was not mutagenic with or without metabolic activation in the Ames assay.
-Canagliflozin was mutagenic in the in vitro mouse lymphoma assay with but not without metabolic activation.
-Canagliflozin was not mutagenic or clastogenic in an in vivo oral micronucleus assay in rats and an in vivo oral Comet assay in rats.
+Canagliflozin was mutagenic in the in vitromouse lymphoma assay with but not without metabolic activation.
+Canagliflozin was not mutagenic or clastogenic in an in vivooral micronucleus assay in rats and an in vivooral Comet assay in rats.
 
 Metformin HCl
 
@@ -40,8 +40,8 @@ There was, however, an increased incidence of benign stromal uterine polyps in f
 
 Mutagenesis
 
-There was no evidence of a mutagenic potential of metformin HCl in the following in vitro tests: Ames test (S. typhimurium), gene mutation test (mouse lymphoma cells), or chromosomal aberrations test (human lymphocytes).
-Results in the in vivo mouse micronucleus test were also negative.
+There was no evidence of a mutagenic potential of metformin HCl in the following in vitrotests: Ames test (S. typhimurium), gene mutation test (mouse lymphoma cells), or chromosomal aberrations test (human lymphocytes).
+Results in the in vivomouse micronucleus test were also negative.
 
 Impairment of Fertility
 

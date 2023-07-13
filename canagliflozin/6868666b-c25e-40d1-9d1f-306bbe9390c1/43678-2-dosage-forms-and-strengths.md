@@ -2,7 +2,7 @@
 
 INVOKAMET (canagliflozin and metformin HCl) tablets are available as follows:
 
-| Canagliflozin Strength | Metformin HCl Strength | Color/Shape | Tablet IdentifiersEmbossing appears on both sides of tablet. |
+| Canagliflozin Strength | Metformin HCl Strength | Color/Shape | Tablet Identifiers Embossing appears on both sides of tablet. |
 | --- | --- | --- | --- |
 | 50 mg | 500 mg | white/capsule-shaped | CM 155 |
 | 50 mg | 1,000 mg | beige/capsule-shaped | CM 551 |
@@ -11,7 +11,7 @@ INVOKAMET (canagliflozin and metformin HCl) tablets are available as follows:
 
 INVOKAMET XR (canagliflozin and metformin HCl) extended-release tablets are available as follows:
 
-| Canagliflozin Strength | Metformin HCl Strength | Color/Shape | Tablet IdentifiersEmbossing appears on one side only of tablet. |
+| Canagliflozin Strength | Metformin HCl Strength | Color/Shape | Tablet Identifiers Embossing appears on one side only of tablet. |
 | --- | --- | --- | --- |
 | 50 mg | 500 mg | almost white to light orange/oblong, biconvex | CM1 |
 | 50 mg | 1,000 mg | pink/oblong, biconvex | CM3 |

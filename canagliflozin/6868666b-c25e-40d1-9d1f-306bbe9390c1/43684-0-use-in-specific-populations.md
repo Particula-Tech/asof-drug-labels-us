@@ -4,16 +4,16 @@
 
 Risk Summary
 
-Based on animal data showing adverse renal effects from canagliflozin, INVOKAMET/INVOKAMET XR is not recommended during the second and third trimesters of pregnancy.
+Based on animal data showing adverse renal effects from canagliflozin, INVOKAMET or INVOKAMET XR is not recommended during the second and third trimesters of pregnancy.
 
 Limited data with INVOKAMET, INVOKAMET XR or canagliflozin in pregnant women are not sufficient to determine a drug-associated risk for major birth defects or miscarriage.
-Published studies with metformin HCl use during pregnancy have not reported a clear association with metformin HCl and major birth defect or miscarriage risk (see Data).
-There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
+Published studies with metformin HCl use during pregnancy have not reported a clear association with metformin HCl and major birth defect or miscarriage risk [see Data].
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
 
 In animal studies, adverse renal pelvic and tubule dilatations that were not reversible were observed in rats when canagliflozin was administered at an exposure 0.5-times the 300 mg clinical dose, based on AUC during a period of renal development corresponding to the late second and third trimesters of human pregnancy.
-No adverse developmental effects were observed when metformin HCl was administered to pregnant Sprague Dawley rats and rabbits during the period of organogenesis at doses up to 2- and 6-times, respectively, a 2000 mg clinical dose, based on body surface area (see Data).
+No adverse developmental effects were observed when metformin HCl was administered to pregnant Sprague Dawley rats and rabbits during the period of organogenesis at doses up to 2- and 6-times, respectively, a 2000 mg clinical dose, based on body surface area [see Data].
 
-The estimated background risk of major birth defects is 6–10% in women with pre-gestational diabetes with an HbA1C >7 and has been reported to be as high as 20–25% in women with a HbA1C >10.
+The estimated background risk of major birth defects is 6–10% in women with pre-gestational diabetes with an HbA 1C>7 and has been reported to be as high as 20–25% in women with a HbA 1C>10.
 The estimated background risk of miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
@@ -46,7 +46,7 @@ No developmental toxicities independent of maternal toxicity were observed when 
 Metformin HCl
 
 Metformin HCl did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits up to 600 mg/kg/day during the period of organogenesis.
-This represents an exposure of about 2- and 6-times a 2000 mg clinical dose based on body surface area (mg/m2) for rats and rabbits, respectively.
+This represents an exposure of about 2- and 6-times a 2000 mg clinical dose based on body surface area (mg/m 2) for rats and rabbits, respectively.
 
 Canagliflozin and Metformin HCl
 
@@ -57,12 +57,12 @@ No adverse developmental effects were observed when canagliflozin and metformin 
 Risk Summary
 
 There is no information regarding the presence of INVOKAMET, INVOKAMET XR or canagliflozin in human milk, the effects on the breastfed infant, or the effects on milk production.
-Limited published studies report that metformin is present in human milk (see Data).
+Limited published studies report that metformin is present in human milk [see Data].
 However, there is insufficient information on the effects of metformin HCl on the breastfed infant and no available information on the effects of metformin HCl on milk production.
-Canagliflozin is present in the milk of lactating rats (see Data).
-Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
+Canagliflozin is present in the milk of lactating rats [see Data].
+Since human kidney maturation occurs in uteroand during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
 
-Because of the potential for serious adverse reactions in a breastfed infant, advise women that use of INVOKAMET/INVOKAMET XR is not recommended while breastfeeding.
+Because of the potential for serious adverse reactions in a breastfed infant, advise women that use of INVOKAMET or INVOKAMET XR is not recommended while breastfeeding.
 
 Data
 
@@ -78,20 +78,20 @@ Discuss the potential for unintended pregnancy with premenopausal women as thera
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of INVOKAMET/INVOKAMET XR in pediatric patients under 18 years of age have not been established.
+Safety and effectiveness of INVOKAMET or INVOKAMET XR in pediatric patients under 18 years of age have not been established.
 
 ## 8.5 Geriatric Use
 
 INVOKAMET and INVOKAMET XR
 
-Because renal function abnormalities can occur after initiating canagliflozin, metformin is substantially excreted by the kidney, and aging can be associated with reduced renal function, monitor renal function more frequently after initiating INVOKAMET/INVOKAMET XR in the elderly and then adjust dose based on renal function [see Dosage and Administration (2.4) and Warnings and Precautions (5.1, 5.4)].
+Because renal function abnormalities can occur after initiating canagliflozin, metformin is substantially excreted by the kidney, and aging can be associated with reduced renal function, monitor renal function more frequently after initiating INVOKAMET or INVOKAMET XR in the elderly and then adjust dose based on renal function [see Dosage and Administration (2.4)and Warnings and Precautions (5.1, 5.4)].
 
 Canagliflozin
 
 In 13 clinical trials of canagliflozin, 2,294 patients 65 years and older, and 351 patients 75 years and older were exposed to canagliflozin.
 Of these patients, 1,534 patients 65 years and older and 196 patients 75 years and older were exposed to the combination of canagliflozin and metformin HCl [see Clinical Studies (14)].
-Patients 65 years and older had a higher incidence of adverse reactions related to reduced intravascular volume with canagliflozin (such as hypotension, postural dizziness, orthostatic hypotension, syncope, and dehydration), particularly with the 300 mg daily dose, compared to younger patients; a more prominent increase in the incidence was seen in patients who were 75 years and older [see Dosage and Administration (2.1) and Adverse Reactions (6.1)].
-Smaller reductions in HbA1C with canagliflozin relative to placebo were seen in older (65 years and older; -0.61% with canagliflozin 100 mg and -0.74% with canagliflozin 300 mg relative to placebo) compared to younger patients (-0.72% with canagliflozin 100 mg and -0.87% with canagliflozin 300 mg relative to placebo).
+Patients 65 years and older had a higher incidence of adverse reactions related to reduced intravascular volume with canagliflozin (such as hypotension, postural dizziness, orthostatic hypotension, syncope, and dehydration), particularly with the 300 mg daily dose, compared to younger patients; a more prominent increase in the incidence was seen in patients who were 75 years and older [see Dosage and Administration (2.1)and Adverse Reactions (6.1)].
+Smaller reductions in HbA 1Cwith canagliflozin relative to placebo were seen in older (65 years and older; -0.61% with canagliflozin 100 mg and -0.74% with canagliflozin 300 mg relative to placebo) compared to younger patients (-0.72% with canagliflozin 100 mg and -0.87% with canagliflozin 300 mg relative to placebo).
 
 Metformin HCl
 
@@ -103,19 +103,19 @@ Any dose adjustment should be based on a careful assessment of renal function [s
 
 Canagliflozin
 
-The efficacy and safety of canagliflozin for glycemic control were evaluated in a trial that included patients with moderate renal impairment (eGFR 30 to less than 50 mL/min/1.73 m2).
+The efficacy and safety of canagliflozin for glycemic control were evaluated in a trial that included patients with moderate renal impairment (eGFR 30 to less than 50 mL/min/1.73 m 2).
 These patients had less overall glycemic efficacy, and patients treated with canagliflozin 300 mg per day had increases in serum potassium, which were transient and similar by the end of study.
 Patients with renal impairment using canagliflozin for glycemic control may also be more likely to experience hypotension and may be at higher risk for acute kidney injury [see Warnings and Precautions (5.4)].
 
-Efficacy and safety studies with canagliflozin did not enroll patients with ESKD on dialysis or patients with an eGFR less than 30 mL/min/1.73 m2.
-Canagliflozin is contraindicated in patients with ESKD on dialysis [see Contraindications (4) and Clinical Pharmacology (12.1)].
+Efficacy and safety studies with canagliflozin did not enroll patients with ESKD on dialysis or patients with an eGFR less than 30 mL/min/1.73 m 2.
+[see Clinical Pharmacology (12.3)].
 
 Metformin HCl
 
 Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
-INVOKAMET/INVOKAMET XR is contraindicated in severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or in patients on dialysis [see Dosage and Administration (2.4), Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
+INVOKAMET or INVOKAMET XR is contraindicated in severe renal impairment (eGFR less than 30 mL/min/1.73 m 2) or in patients on dialysis [see Dosage and Administration (2.4), Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
 Use of metformin HCl in patients with hepatic impairment has been associated with some cases of lactic acidosis.
-INVOKAMET/INVOKAMET XR is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.1)].
+INVOKAMET or INVOKAMET XR is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.1)].

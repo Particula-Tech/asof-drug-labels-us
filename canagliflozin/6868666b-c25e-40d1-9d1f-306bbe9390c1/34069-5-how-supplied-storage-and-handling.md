@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-INVOKAMET® tablets are available in bottles of 60 in the strengths listed below:
+INVOKAMET ®tablets are available in bottles of 60 in the strengths listed below:
 
 | INVOKAMET | TABLET STRENGTH |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -11,7 +11,7 @@ INVOKAMET® tablets are available in bottles of 60 in the strengths listed below
 | Capsule-shaped, film-coated tablets |  |  |  |  |
 | NDC | 50458-540-60 | 50458-541-60 | 50458-542-60 | 50458-543-60 |
 
-INVOKAMET® XR tablets are available in bottles of 60 in the strengths listed below:
+INVOKAMET ®XR tablets are available in bottles of 60 in the strengths listed below:
 
 | INVOKAMET XR | TABLET STRENGTH |  |  |  |
 | --- | --- | --- | --- | --- |

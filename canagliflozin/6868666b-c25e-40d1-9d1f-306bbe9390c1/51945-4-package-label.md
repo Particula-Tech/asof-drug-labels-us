@@ -2,7 +2,7 @@
 
 NDC 50458-540-60 60 tablets
 
-Invokamet® (canagliflozin and metformin HCl) Tablets 50 mg/500 mg
+Invokamet ® (canagliflozin and metformin HCl) Tablets 50 mg/500 mg
 
 Dispense with Medication Guide
 
@@ -17,7 +17,7 @@ Rx only
 
 NDC 50458-541-60 60 tablets
 
-Invokamet® (canagliflozin and metformin HCl) Tablets 50 mg/1,000 mg
+Invokamet ® (canagliflozin and metformin HCl) Tablets 50 mg/1,000 mg
 
 Dispense with Medication Guide
 
@@ -33,7 +33,7 @@ Rx only
 
 NDC 50458-542-60 60 tablets
 
-Invokamet® (canagliflozin and metformin HCl) Tablets 150 mg/500 mg
+Invokamet ® (canagliflozin and metformin HCl) Tablets 150 mg/500 mg
 
 Dispense with Medication Guide
 
@@ -49,7 +49,7 @@ Rx only
 
 NDC 50458-543-60 60 tablets
 
-Invokamet® (canagliflozin and metformin HCl) Tablets 150 mg/1,000 mg
+Invokamet ® (canagliflozin and metformin HCl) Tablets 150 mg/1,000 mg
 
 Dispense with Medication Guide
 
@@ -65,7 +65,7 @@ Rx only
 
 NDC 50458-940-01 60 tablets
 
-Invokamet® XR (canagliflozin and metformin HCl extended-release) tablets
+Invokamet ®XR (canagliflozin and metformin HCl extended-release) tablets
 
 50 mg/500 mg
 
@@ -83,7 +83,7 @@ Rx only
 
 NDC 50458-941-01 60 tablets
 
-Invokamet® XR (canagliflozin and metformin HCl extended-release) tablets
+Invokamet ®XR (canagliflozin and metformin HCl extended-release) tablets
 
 50 mg/1000 mg
 
@@ -101,7 +101,7 @@ Rx only
 
 NDC 50458-942-01 60 tablets
 
-Invokamet® XR (canagliflozin and metformin HCl extended-release) tablets
+Invokamet ®XR (canagliflozin and metformin HCl extended-release) tablets
 
 150 mg/500 mg
 
@@ -119,7 +119,7 @@ Rx only
 
 NDC 50458-943-01 60 tablets
 
-Invokamet® XR (canagliflozin and metformin HCl extended-release) tablets
+Invokamet ®XR (canagliflozin and metformin HCl extended-release) tablets
 
 150 mg/1000 mg
 
