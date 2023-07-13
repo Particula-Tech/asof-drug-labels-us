@@ -39,7 +39,7 @@ Table 2: Clinical and MRI Results of Study 1
 | Number of Gd+ lesions at 2 years |  |  |  |
 | Mean (median) | 0.1 (0) | 1.8 (0) |  |
 | Percentage of subjects with |  |  |  |
-| 0 lesions 1 lesion 2 lesions 3 to 4 lesions 5 or more lesions | 93%5%<1%0<1% | 62%10%8%9%11% |  |
+| 0 lesions1 lesion2 lesions3 to 4 lesions5 or more lesions | 93%5%<1%0<1% | 62%10%8%9%11% |  |
 | Relative odds reduction (percentage) | 90% |  | <0.0001 |
 | Mean number of new T1 hypointense lesions over 2 years | 1.5 | 5.6 | <0.0001 |
 
@@ -78,6 +78,6 @@ Table 3: Clinical and MRI Results of Study 2
 | Number of Gd+ lesions at 2 years |  |  |  |
 | Mean (median) | 0.5 (0.0) | 2.0 (0.0) |  |
 | Percentage of subjects with |  |  |  |
-| 0 lesions 1 lesion 2 lesions 3 to 4 lesions 5 or more lesions | 80%11%3%3%3% | 61%17%6%2%14% |  |
+| 0 lesions1 lesion2 lesions3 to 4 lesions5 or more lesions | 80%11%3%3%3% | 61%17%6%2%14% |  |
 | Relative odds reduction (percentage) | 74% |  | <0.0001 |
 | Mean number of new T1 hypointense lesions over 2 years | 3.0 | 7.0 | <0.0001 |
