@@ -1,10 +1,7 @@
 # 10 OVERDOSAGE
 
-There is no known antidote for ELOXATIN overdose.
-In addition to thrombocytopenia, the anticipated complications of an ELOXATIN overdose include hypersensitivity reaction, myelosuppression, nausea, vomiting, diarrhea and neurotoxicity.
-
-Several cases of overdoses have been reported with ELOXATIN.
-Adverse reactions observed were Grade 4 thrombocytopenia (<25,000/mm3) without any bleeding, anemia, sensory neuropathy such as paresthesia, dysesthesia, laryngospasm and facial muscle spasms, gastrointestinal disorders such as nausea, vomiting, stomatitis, flatulence, abdomen enlarged and Grade 4 intestinal obstruction, Grade 4 dehydration, dyspnea, wheezing, chest pain, respiratory failure, severe bradycardia and death.
-
-Patients suspected of receiving an overdose should be monitored, and supportive treatment should be administered.
 The maximum dose of oxaliplatin that has been administered in a single infusion is 825 mg.
+Several cases of overdoses have been reported with ELOXATIN.
+Adverse reactions observed following an overdosage were grade 4 thrombocytopenia (less than 25,000/mm3) without bleeding, anemia, sensory neuropathy (including paresthesia, dysesthesia, laryngospasm and facial muscle spasms), gastrointestinal disorders (including nausea, vomiting, stomatitis, flatulence, abdomen enlarged and grade 4 intestinal obstruction), grade 4 dehydration, dyspnea, wheezing, chest pain, respiratory failure, severe bradycardia, and death.
+
+Closely monitor patients suspected of receiving an overdose, including for the adverse reactions described above and administer appropriate supportive treatment.

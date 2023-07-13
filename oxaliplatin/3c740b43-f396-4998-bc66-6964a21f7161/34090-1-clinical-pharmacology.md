@@ -10,23 +10,34 @@ These crosslinks inhibit DNA replication and transcription.
 Cytotoxicity is cell-cycle nonspecific.
 
 In vivo studies have shown antitumor activity of oxaliplatin against colon carcinoma.
-In combination with 5-fluorouracil, oxaliplatin exhibits in vitro and in vivo antiproliferative activity greater than either compound alone in several tumor models [HT29 (colon), GR (mammary), and L1210 (leukemia)].
+In combination with fluorouracil, oxaliplatin exhibits in vitro and in vivo antiproliferative activity greater than either compound alone in several tumor models (HT29 [colon], GR [mammary], and L1210 [leukemia]).
+
+## 12.2 Pharmacodynamics
+
+A pharmacodynamic relationship between platinum ultrafiltrate levels and clinical safety and effectiveness has not been established.
 
 ## 12.3 Pharmacokinetics
 
 The reactive oxaliplatin derivatives are present as a fraction of the unbound platinum in plasma ultrafiltrate.
-The decline of ultrafilterable platinum levels following oxaliplatin administration is triphasic, characterized by two relatively short distribution phases (t1/2α; 0.43 hours and t1/2β; 16.8 hours) and a long terminal elimination phase (t1/2γ; 391 hours).
-Pharmacokinetic parameters obtained after a single 2-hour intravenous infusion of ELOXATIN at a dose of 85 mg/m2 expressed as ultrafilterable platinum were Cmax of 0.814 mcg/mL and volume of distribution of 440 L. Interpatient and intrapatient variability in ultrafilterable platinum exposure (AUC0–48hr) assessed over 3 cycles was moderate to low (23% and 6%, respectively).
-A pharmacodynamic relationship between platinum ultrafiltrate levels and clinical safety and effectiveness has not been established.
+After a single 2-hour intravenous infusion of ELOXATIN at a dose of 85 mg/m2, pharmacokinetic parameters expressed as ultrafiltrable platinum were Cmax of 0.814 mcg/mL and volume of distribution of 440 L.
+
+Interpatient and intrapatient variability in ultrafiltrable platinum exposure (AUC0–48hr) assessed over 3 cycles was 23% and 6%, respectively.
 
 Distribution
 
 At the end of a 2-hour infusion of ELOXATIN, approximately 15% of the administered platinum is present in the systemic circulation.
 The remaining 85% is rapidly distributed into tissues or eliminated in the urine.
+The decline of ultrafiltrable platinum levels following ELOXATIN administration is triphasic, including two distribution phases (t1/2α; 0.43 hours and t1/2β; 16.8 hours).
+
 In patients, plasma protein binding of platinum is irreversible and is greater than 90%.
 The main binding proteins are albumin and gamma-globulins.
+
 Platinum also binds irreversibly and accumulates (approximately 2-fold) in erythrocytes, where it appears to have no relevant activity.
 No platinum accumulation was observed in plasma ultrafiltrate following 85 mg/m2 every two weeks.
+
+Elimination
+
+The decline of ultrafiltrable platinum concentrations from plasma is characterized by a long terminal elimination phase (t1/2γ; 391 hours).
 
 Metabolism
 
@@ -35,34 +46,29 @@ There is no evidence of cytochrome P450-mediated metabolism in vitro.
 
 Up to 17 platinum-containing derivatives have been observed in plasma ultrafiltrate samples from patients, including several cytotoxic species (monochloro DACH platinum, dichloro DACH platinum, and monoaquo and diaquo DACH platinum) and a number of noncytotoxic, conjugated species.
 
-Elimination
+Excretion
 
 The major route of platinum elimination is renal excretion.
 At five days after a single 2-hour infusion of ELOXATIN, urinary elimination accounted for about 54% of the platinum eliminated, with fecal excretion accounting for only about 2%.
-Platinum was cleared from plasma at a rate (10 – 17 L/h) that was similar to or exceeded the average human glomerular filtration rate (GFR; 7.5 L/h).
-There was no significant effect of gender on the clearance of ultrafilterable platinum.
-The renal clearance of ultrafilterable platinum is significantly correlated with GFR.
+Platinum was cleared from plasma at a rate (10–17 L/h) that was similar to or exceeded the average human glomerular filtration rate (GFR; 7.5 L/h).
+The renal clearance of ultrafiltrable platinum is significantly correlated with GFR.
 
-Pharmacokinetics in Special Populations
+Special Populations
 
-Pediatric
+Sex
 
-[See Use In Specific Patient Populations (8.4)].
+There was no significant effect of sex on the clearance of ultrafiltrable platinum.
 
-Renal Impairment
+Patients with renal impairment
 
-A study was conducted in 38 patients with advanced GI cancer and varying degrees of renal impairment.
-Patients in the normal (creatinine clearance (CrCL) > 80 mL/min, N=11), mild (CrCL=50-80 mL/min, N=13), and moderate (CrCL=30-49 mL/min, N=10) groups were treated with 85 mg/m2 ELOXATIN and those in the severe (CrCL < 30 mL/min, N=4) group were treated with 65 mg/m2 ELOXATIN.
-The mean AUC of unbound platinum was 40%, 95%, and 342% higher in the mild, moderate, and severe groups, respectively, than in the normal group.
-Mean Cmax of unbound platinum appeared to be similar among the normal, mild and moderate renal function groups, but was 38% higher in the severe group than in the normal group.
-Caution should be exercised in renally impaired patients [see Use in Specific Populations (8.6)].
-The starting dose of ELOXATIN should be reduced in patients with severe renal impairment [see Dosage and Administration (2.2)].
-The starting dose of ELOXATIN should be reduced in patients with severe renal impairment [see Dosage and Administration (2.2)].
+Patients with normal function (CLcr greater than 80 mL/min) and patients with mild (CLcr=50–80 mL/min) and moderate (CLcr equal to 30–49 mL/min) renal impairment received ELOXATIN 85 mg/m2 and those with severe (CLcr less than 30 mL/min) renal impairment received ELOXATIN 65 mg/m2.
+Mean dose adjusted AUC of unbound platinum was 40%, 95%, and 342% higher for patients with mild, moderate, and severe renal impairment, respectively, compared to patients with normal renal function.
+Mean dose adjusted Cmax of unbound platinum appeared to be similar among the normal, mild and moderate renal function groups, but was 38% higher in the severe group than in the normal group [see Dosage and Administration (2.3)].
 
-Drug - Drug Interactions
+Drug Interaction Studies
 
-No pharmacokinetic interaction between 85 mg/m2 of ELOXATIN and infusional 5-fluorouracil has been observed in patients treated every 2 weeks, but increases of 5-fluorouracil plasma concentrations by approximately 20% have been observed with doses of 130 mg/m2 of ELOXATIN administered every 3 weeks.
-In vitro, platinum was not displaced from plasma proteins by the following medications: erythromycin, salicylate, sodium valproate, granisetron, and paclitaxel.
-In vitro, oxaliplatin is not metabolized by, nor does it inhibit, human cytochrome P450 isoenzymes.
-No P450-mediated drug-drug interactions are therefore anticipated in patients.
-Since platinum-containing species are eliminated primarily through the kidney, clearance of these products may be decreased by co-administration of potentially nephrotoxic compounds, although this has not been specifically studied.
+No pharmacokinetic interaction between ELOXATIN 85 mg/m2 and infusional fluorouracil has been observed in patients treated every 2 weeks, but increases of fluorouracil plasma concentrations by approximately 20% have been observed with doses of 130 mg/m2 of ELOXATIN administered every 3 weeks.
+
+In vitro platinum was not displaced from plasma proteins by the following medications: erythromycin, salicylate, sodium valproate, granisetron, and paclitaxel.
+
+In vitro oxaliplatin does not inhibit human cytochrome P450 isoenzymes.

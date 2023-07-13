@@ -1,121 +1,144 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Allergic Reactions
+## 5.1 Hypersensitivity Reactions
 
-See boxed warning
+Serious and fatal hypersensitivity reactions, including anaphylaxis, can occur with ELOXATIN within minutes of administration and during any cycle.
+Grade 3–4 hypersensitivity reactions, including anaphylaxis, occurred in 2% to 3% of patients with colon cancer who received ELOXATIN.
+Hypersensitivity reactions, including rash, urticaria, erythema, pruritus, and rarely, bronchospasm and hypotension, were similar in nature and severity to those reported with other platinum-based drugs.
 
-Grade 3/4 hypersensitivity, including anaphylactic/anaphylactoid reactions, to ELOXATIN has been observed in 2–3% of colon cancer patients.
-These allergic reactions which can be fatal, can occur within minutes of administration and at any cycle, and were similar in nature and severity to those reported with other platinum-containing compounds, such as rash, urticaria, erythema, pruritus, and, rarely, bronchospasm and hypotension.
-The symptoms associated with hypersensitivity reactions reported in the previously untreated patients were urticaria, pruritus, flushing of the face, diarrhea associated with oxaliplatin infusion, shortness of breath, bronchospasm, diaphoresis, chest pains, hypotension, disorientation and syncope.
-These reactions are usually managed with standard epinephrine, corticosteroid, antihistamine therapy, and require discontinuation of therapy.
-Rechallenge is contraindicated in these patients [see Contraindications (4)].
-Drug-related deaths associated with platinum compounds from anaphylaxis have been reported.
+ELOXATIN is contraindicated in patients with hypersensitivity reactions to platinum-based drugs [see Contraindications (4)].
+Immediately and permanently discontinue ELOXATIN for hypersensitivity reactions and administer appropriate treatment for management of hypersensitivity reactions.
 
-## 5.2 Neurologic Toxicity
+## 5.2 Peripheral Sensory Neuropathy
 
-Neuropathy
+ELOXATIN can cause acute and delayed neuropathy.
+Reduce the dose or permanently discontinue ELOXATIN for persistent neurosensory reactions based on the severity of the adverse reaction [see Dosage and Administration (2.2)].
 
-ELOXATIN is associated with two types of neuropathy:
+Acute Neuropathy
 
-An acute, reversible, primarily peripheral, sensory neuropathy that is of early onset, occurring within hours or one to two days of dosing, that resolves within 14 days, and that frequently recurs with further dosing.The symptoms may be precipitated or exacerbated by exposure to cold temperature or cold objects and they usually present as transient paresthesia, dysesthesia and hypoesthesia in the hands, feet, perioral area, or throat.
+Acute neuropathy typically presents as a reversible, primarily peripheral sensory neuropathy that occurs within hours or 2 days following a dose, resolves within 14 days, and frequently recurs with further dosing.
+The symptoms can be precipitated or exacerbated by exposure to cold temperature or cold objects and they usually present as transient paresthesia, dysesthesia and hypoesthesia in the hands, feet, perioral area, or throat.
 Jaw spasm, abnormal tongue sensation, dysarthria, eye pain, and a feeling of chest pressure have also been observed.
-The acute, reversible pattern of sensory neuropathy was observed in about 56% of study patients who received ELOXATIN with 5-fluorouracil/leucovorin.
-In any individual cycle acute neurotoxicity was observed in approximately 30% of patients.
-In adjuvant patients the median cycle of onset for grade 3 peripheral sensory neuropathy was 9 in the previously treated patients the median number of cycles administered on the ELOXATIN with 5-fluorouracil/leucovorin combination arm was 6.
+The acute, reversible pattern of sensory neuropathy was observed in about 56% of patients who received ELOXATIN with fluorouracil/leucovorin.
+In any individual cycle, acute neuropathy occurred in approximately 30% of patients.
+For grade 3 peripheral sensory neuropathy, the median time to onset was 9 cycles for adjuvant treatment and 6 cycles for previously treated advanced colorectal cancer.
 
-An acute syndrome of pharyngolaryngeal dysesthesia seen in 1–2% (grade 3/4) of patients previously untreated for advanced colorectal cancer, and the previously treated patients, is characterized by subjective sensations of dysphagia or dyspnea, without any laryngospasm or bronchospasm (no stridor or wheezing).
-Ice (mucositis prophylaxis) should be avoided during the infusion of ELOXATIN because cold temperature can exacerbate acute neurological symptoms.
+An acute syndrome of pharyngolaryngeal dysesthesia occurred in 1% to 2% (grade 3–4) of patients previously untreated for advanced colorectal cancer.
+Subjective sensations of dysphagia or dyspnea, without any laryngospasm or bronchospasm (no stridor or wheezing) occurred in patients previously treated for advanced colorectal cancer.
 
-A persistent (>14 days), primarily peripheral, sensory neuropathy that is usually characterized by paresthesias, dysesthesias, hypoesthesias, but may also include deficits in proprioception that can interfere with daily activities (e.g., writing, buttoning, swallowing, and difficulty walking from impaired proprioception).
-These forms of neuropathy occurred in 48% of the study patients receiving ELOXATIN with 5-fluorouracil/leucovorin.
-Persistent neuropathy can occur without any prior acute neuropathy event.
-The majority of the patients (80%) who developed grade 3 persistent neuropathy progressed from prior Grade 1 or 2 events.
+Avoid topical application of ice for mucositis prophylaxis or other conditions, because cold temperature can exacerbate acute neurological symptoms.
+
+Delayed Neuropathy
+
+Delayed neuropathy typically presents as a persistent (greater than 14 days), primarily peripheral sensory neuropathy that is usually characterized by paresthesias, dysesthesias, and hypoesthesias, but may also include deficits in proprioception that can interfere with daily activities (e.g., writing, buttoning, swallowing, and difficulty walking from impaired proprioception).
+These forms of neuropathy occurred in 48% of patients receiving ELOXATIN.
+Delayed neuropathy can occur without any prior acute neuropathy.
+Most patients (80%) who developed grade 3 persistent neuropathy progressed from prior grade 1 or 2 reactions.
 These symptoms may improve in some patients upon discontinuation of ELOXATIN.
 
-In the adjuvant colon cancer trial, neuropathy was graded using a prelisted module derived from the Neuro-Sensory section of the National Cancer Institute Common Toxicity Criteria (NCI CTC) scale, Version 1, as follows:
+Adjuvant treatment
 
-Table 1 - NCI CTC Grading for Neuropathy in Adjuvant Patients
+In the adjuvant treatment trial, neuropathy was graded using NCI CTC, version 1 as summarized in Table 3.
 
-| Grade | Definition |
-| --- | --- |
-| Grade 0 | No change or none |
-| Grade 1 | Mild paresthesias, loss of deep tendon reflexes |
-| Grade 2 | Mild or moderate objective sensory loss, moderate paresthesias |
-| Grade 3 | Severe objective sensory loss or paresthesias that interfere with function |
-| Grade 4 | Not applicable |
-
-Peripheral sensory neuropathy was reported in adjuvant patients treated with the ELOXATIN combination with a frequency of 92% (all grades) and 13% (grade 3).
-At the 28-day follow-up after the last treatment cycle, 60% of all patients had any grade (Grade 1=40%, Grade 2=16%, Grade 3=5%) peripheral sensory neuropathy decreasing to 39% at 6 months follow-up (Grade 1=31%, Grade 2=7%, Grade 3=1%) and 21% at 18 months of follow-up (Grade 1=17%, Grade 2=3%, Grade 3=1%).
-
-In the advanced colorectal cancer studies, neuropathy was graded using a study-specific neurotoxicity scale, which was different from the NCI CTC scale, Version 2.0 (see below).
-
-Table 2 - Grading Scale for Paresthesias/Dysesthesias in Advanced Colorectal Cancer Patients
+Table 3: Grading for Neuropathy in Adjuvant Treatment Trial
 
 | Grade | Definition |
 | --- | --- |
-| Grade 1 | Resolved and did not interfere with functioning |
-| Grade 2 | Interfered with function but not daily activities |
-| Grade 3 | Pain or functional impairment that interfered with daily activities |
-| Grade 4 | Persistent impairment that is disabling or life-threatening |
+| 0 | No change or none |
+| 1 | Mild paresthesias, loss of deep tendon reflexes |
+| 2 | Mild or moderate objective sensory loss, moderate paresthesias |
+| 3 | Severe objective sensory loss or paresthesias that interfere with function |
+| 4 | Not applicable |
 
-Overall, neuropathy was reported in patients previously untreated for advanced colorectal cancer in 82% (all grades) and 19% (grade 3/4), and in the previously treated patients in 74% (all grades) and 7% (grade 3/4) events.
-Information regarding reversibility of neuropathy was not available from the trial for patients who had not been previously treated for colorectal cancer.
+Peripheral sensory neuropathy occurred in 92% of patients (all grades), including 13% of patients (grade 3) who received ELOXATIN with fluorouracil/leucovorin.
+At the 28-day follow-up after the last treatment cycle, 60% of patients had any grade (grade 1=40%, grade 2=16%, grade 3=5%) peripheral sensory neuropathy, decreasing to 39% at 6 months of follow-up (grade 1=31%, grade 2=7%, grade 3=1%) and 21% at 18 months of follow-up (grade 1=17%, grade 2=3%, grade 3=1%).
 
-Reversible Posterior Leukoencephalopathy Syndrome
+Advanced colorectal cancer
 
-Reversible Posterior Leukoencephalopathy Syndrome (RPLS, also known as PRES, Posterior Reversible Encephalopathy Syndrome) has been observed in clinical trials (< 0.1%) and postmarketing experience.
-Signs and symptoms of RPLS could be headache, altered mental functioning, seizures, abnormal vision from blurriness to blindness, associated or not with hypertension [see Adverse Reactions (6.2)].
-Diagnosis of RPLS is based upon confirmation by brain imaging.
+In the advanced colorectal cancer trials, neuropathy was graded using the neurotoxicity scale summarized in Table 4.
 
-## 5.3 Severe Neutropenia
+Table 4: Grading for Neuropathy in Advanced Colorectal Cancer Trials
 
-Grade 3 or 4 neutropenia occurred in 41–44% of patients with colorectal cancer treated with ELOXATIN in combination with 5-flurouracil (5-FU) and leucovorin compared to 5% with 5-FU plus leucovorin alone.
-Sepsis, neutropenic sepsis and septic shock have been reported in patients treated with ELOXATIN, including fatal outcomes [see Adverse Reactions (6.1)].
+| Grade | Definition |
+| --- | --- |
+| 1 | Resolved and did not interfere with functioning |
+| 2 | Interfered with function but not daily activities |
+| 3 | Pain or functional impairment that interfered with daily activities |
+| 4 | Persistent impairment that is disabling or life-threatening |
 
-Delay ELOXATIN until neutrophils are ≥ 1.5 × 109/L.
+Neuropathy occurred in 82% (all grades) of patients previously untreated for advanced colorectal cancer, including 19% grade 3–4; and in 74% (all grades) of patients previously treated for advanced colorectal cancer, including 7% grade 3–4.
+
+## 5.3 Severe Myelosuppression
+
+Grade 3 or 4 neutropenia occurred in 41% to 44% of patients with colorectal cancer who received ELOXATIN with fluorouracil/leucovorin.
+Sepsis, neutropenic sepsis and septic shock, including fatal outcomes, occurred in patients who received ELOXATIN [see Adverse Reactions (6.1, 6.2)].
+
+Grade 3 or 4 thrombocytopenia occurred in 2% to 5% of patients with colorectal cancer who received ELOXATIN with fluorouracil/leucovorin.
+
+Monitor complete blood cell count at baseline, before each subsequent cycle and as clinically indicated.
+Delay ELOXATIN until neutrophils are greater than or equal to 1.5 × 109/L and platelets are greater than or equal to 75 × 109/L.
 Withhold ELOXATIN for sepsis or septic shock.
-Dose reduce ELOXATIN after recovery from Grade 4 neutropenia or febrile neutropenia [see Dosage and Administration (2.2)].
+Dose reduce ELOXATIN after recovery from grade 4 neutropenia, febrile neutropenia or grade 3–4 thrombocytopenia as recommended [see Dosage and Administration (2.2)].
 
-## 5.4 Pulmonary Toxicity
+## 5.4 Posterior Reversible Encephalopathy Syndrome
 
-ELOXATIN has been associated with pulmonary fibrosis (<1% of study patients), which may be fatal.
-The combined incidence of cough and dyspnea was 7.4% (any grade) and <1% (grade 3) with no grade 4 events in the ELOXATIN plus infusional 5-fluorouracil/leucovorin arm compared to 4.5% (any grade) and no grade 3 and 0.1% grade 4 events in the infusional 5-fluorouracil/leucovorin alone arm in adjuvant colon cancer patients.
-In this study, one patient died from eosinophilic pneumonia in the ELOXATIN combination arm.
-The combined incidence of cough, dyspnea and hypoxia was 43% (any grade) and 7% (grade 3 and 4) in the ELOXATIN plus 5-fluorouracil/leucovorin arm compared to 32% (any grade) and 5% (grade 3 and 4) in the irinotecan plus 5-fluorouracil/leucovorin arm of unknown duration for patients with previously untreated colorectal cancer.
-In case of unexplained respiratory symptoms such as non-productive cough, dyspnea, crackles, or radiological pulmonary infiltrates, ELOXATIN should be discontinued until further pulmonary investigation excludes interstitial lung disease or pulmonary fibrosis.
+PRES occurred in less than 0.1% of patients across clinical trials [see Adverse Reactions (6.1)].
+Signs and symptoms of PRES can include headache, altered mental functioning, seizures, abnormal vision from blurriness to blindness, associated or not with hypertension.
+Confirm the diagnosis of PRES with magnetic resonance imaging.
+Permanently discontinue ELOXATIN in patients who develop PRES.
 
-## 5.5 Hepatotoxicity
+## 5.5 Pulmonary Toxicity
 
-Hepatotoxicity as evidenced in the adjuvant study, by increase in transaminases (57% vs. 34%) and alkaline phosphatase (42% vs. 20%) was observed more commonly in the ELOXATIN combination arm than in the control arm.
+ELOXATIN has been associated with pulmonary fibrosis (less than 1% of patients), which may be fatal [see Adverse Reactions (6.1)].
+
+In the adjuvant treatment trial, the combined incidence of cough and dyspnea was 7.4% (any grade), including less than 1% (grade 3) in the ELOXATIN arm.
+One patient died from eosinophilic pneumonia in the ELOXATIN arm.
+
+In the previously untreated advanced colorectal cancer trial, the combined incidence of cough, dyspnea, and hypoxia was 43% (any grade), including 7% (grade 3–4) in the ELOXATIN with fluorouracil/leucovorin arm.
+
+In case of unexplained respiratory symptoms, such as non-productive cough, dyspnea, crackles, or radiological pulmonary infiltrates, withhold ELOXATIN until further pulmonary investigation excludes interstitial lung disease or pulmonary fibrosis.
+Permanently discontinue ELOXATIN for confirmed interstitial lung disease or pulmonary fibrosis.
+
+## 5.6 Hepatotoxicity
+
+In the adjuvant treatment trial, increased transaminases (57% vs 34%) and alkaline phosphatase (42% vs 20%) occurred more commonly in the ELOXATIN arm than in the fluorouracil/leucovorin arm [see Adverse Reactions (6.1)].
 The incidence of increased bilirubin was similar on both arms.
 Changes noted on liver biopsies include: peliosis, nodular regenerative hyperplasia or sinusoidal alterations, perisinusoidal fibrosis, and veno-occlusive lesions.
-Hepatic vascular disorders should be considered, and if appropriate, should be investigated in case of abnormal liver function test results or portal hypertension, which cannot be explained by liver metastases [see Clinical Trials Experience (6.1)].
 
-## 5.6 Cardiovascular Toxicity
+Consider evaluating patients who develop abnormal liver tests or portal hypertension, which cannot be explained by liver metastases, for hepatic vascular disorders.
+Monitor liver function tests at baseline, before each subsequent cycle, and as clinically indicated.
 
-QT prolongation and ventricular arrhythmias including fatal Torsade de Pointes have been reported in postmarketing experiences following ELOXATIN administration.
-ECG monitoring is recommended if therapy is initiated in patients with congestive heart failure, bradyarrhythmias, drugs known to prolong the QT interval, including Class Ia and III antiarrhythmics, and electrolyte abnormalities.
-Correct hypokalemia or hypomagnesemia prior to initiating ELOXATIN and monitor these electrolytes periodically during therapy.
-Avoid ELOXATIN in patients with congenital long QT syndrome [see Adverse Reactions (6.2)].
+## 5.7 QT Interval Prolongation and Ventricular Arrhythmias
 
-## 5.7 Rhabdomyolysis
+QT prolongation and ventricular arrhythmias, including fatal torsade de pointes, have been reported with ELOXATIN [see Adverse Reactions (6.2)].
 
-Rhabdomyolysis, including fatal cases, has been reported in patients treated with ELOXATIN.
-Discontinue ELOXATIN if any signs or symptoms of rhabdomyolysis occur.
-[see Adverse Reactions (6.2)].
+Avoid ELOXATIN in patients with congenital long QT syndrome.
+Monitor electrocardiograms (ECG) in patients with congestive heart failure, bradyarrhythmias, and electrolyte abnormalities and in patients taking drugs known to prolong the QT interval, including Class Ia and III antiarrhythmics [see Drug Interactions (7.1)].
+Monitor and correct electrolyte abnormalities prior to initiating ELOXATIN and periodically during treatment.
 
-## 5.8 Use in Pregnancy
+## 5.8 Rhabdomyolysis
 
-Pregnancy Category D
+Rhabdomyolysis, including fatal cases, has been reported with ELOXATIN [see Adverse Reactions (6.2)].
+Permanently discontinue ELOXATIN for any signs or symptoms of rhabdomyolysis.
 
-ELOXATIN may cause fetal harm when administered to a pregnant woman.
-There are no adequate and well-controlled studies of ELOXATIN in pregnant women.
-Women of childbearing potential should be advised to avoid becoming pregnant while receiving treatment with ELOXATIN.
-[see Use in Specific Populations (8.1)].
+## 5.9 Hemorrhage
 
-## 5.9 Recommended Laboratory Tests
+The incidence of hemorrhage in clinical trials was higher on the ELOXATIN combination arm compared to the fluorouracil/leucovorin arm.
+These reactions included gastrointestinal bleeding, hematuria, and epistaxis.
+In the adjuvant treatment trial, 2 patients died from intracerebral hemorrhage [see Adverse Reactions (6.1)].
 
-Standard monitoring of the white blood cell count with differential, hemoglobin, platelet count, and blood chemistries (including ALT, AST, bilirubin and creatinine) is recommended before each ELOXATIN cycle [see Dosage and Administration (2)].
+Prolonged prothrombin time and INR occasionally associated with hemorrhage have been reported in patients who received ELOXATIN with fluorouracil/leucovorin while on anticoagulants [see Adverse Reactions (6.2)].
+Increase frequency of monitoring in patients who are receiving ELOXATIN with fluorouracil/leucovorin and oral anticoagulants [see Drug Interactions (7.3)].
 
-There have been reports while on study and from post-marketing surveillance of prolonged prothrombin time and INR occasionally associated with hemorrhage in patients who received ELOXATIN plus 5-fluorouracil/leucovorin while on anticoagulants.
-Patients receiving ELOXATIN plus 5-fluorouracil/leucovorin and requiring oral anticoagulants may require closer monitoring.
+Thrombocytopenia and immune-mediated thrombocytopenia have been observed with ELOXATIN.
+Rapid onset of thrombocytopenia and greater risk of bleeding have been observed in immune-mediated thrombocytopenia.
+In this case, consider discontinuing ELOXATIN.
+
+## 5.10 Embryo-Fetal Toxicity
+
+Based on findings from animal studies and its mechanism of action, ELOXATIN can cause fetal harm when administered to a pregnant woman.
+The available human data do not establish the presence or absence of major birth defects or miscarriage related to the use of ELOXATIN.
+Reproductive toxicity studies demonstrated adverse effects on embryo-fetal development in rats at maternal doses that were below the recommended human dose based on body surface area.
+Advise pregnant women of the potential risk to a fetus.
+Advise females of reproductive potential to use effective contraception during treatment with ELOXATIN and for 9 months after the final dose.
+Advise males with female partners of reproductive potential to use effective contraception during treatment with ELOXATIN and for 6 months after the final dose [see Use in Specific Populations (8.1, 8.3)].

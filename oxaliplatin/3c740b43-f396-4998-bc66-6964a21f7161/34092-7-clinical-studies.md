@@ -1,38 +1,35 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Combination Adjuvant Therapy with ELOXATIN and Infusional 5-fluorouracil/leucovorin in Patients with Colon Cancer
+## 14.1 Adjuvant Treatment with ELOXATIN in Combination with Fluorouracil and Leucovorin
 
-An international, multicenter, randomized study compared the efficacy and evaluated the safety of ELOXATIN in combination with an infusional schedule of 5-fluorouracil/leucovorin to infusional 5-fluorouracil/leucovorin alone, in patients with stage II (Dukes' B2) or III (Dukes' C) colon cancer who had undergone complete resection of the primary tumor.
-The primary objective of the study was to compare the 3-year disease-free survival (DFS) in patients receiving ELOXATIN and infusional 5-fluorouracil/leucovorin to those receiving 5-fluorouracil/leucovorin alone.
-Patients were to be treated for a total of 6 months (i.e., 12 cycles).
-A total of 2246 patients were randomized; 1123 patients per study arm.
-Patients in the study had to be between 18 and 75 years of age, have histologically proven stage II (T3–T4 N0 M0; Dukes' B2) or III (any T N1–2 M0; Dukes' C) colon carcinoma (with the inferior pole of the tumor above the peritoneal reflection, i.e., ≥15 cm from the anal margin) and undergone (within 7 weeks prior to randomization) complete resection of the primary tumor without gross or microscopic evidence of residual disease.
-Patients had to have had no prior chemotherapy, immunotherapy or radiotherapy, and have an ECOG performance status of 0,1, or 2 (KPS ≥ 60%), absolute neutrophil count (ANC) > 1.5x109/L, platelets ≥100×109/L, serum creatinine ≤ 1.25 × ULN total bilirubin < 2 × ULN, AST/ALT < 2 × ULN and carcino-embyrogenic antigen (CEA) < 10 ng/mL.
-Patients with preexisting peripheral neuropathy (NCI grade ≥ 1) were ineligible for this trial.
+The efficacy of ELOXATIN in combination with fluorouracil (FU)/leucovorin (LV) was evaluated in an international, multicenter, randomized (1:1) trial (The Multicenter International Study of Oxaliplatin/5-Fluorouracil/Leucovorin in the Adjuvant Treatment of Colon Cancer [MOSAIC], NCT00275210) in patients with stage II (Dukes' B2) or III (Dukes' C) colon cancer who had undergone complete resection of the primary tumor.
+Patients were randomized to receive ELOXATIN with fluorouracil/leucovorin or fluorouracil/leucovorin alone for a total of 6 months (i.e., 12 cycles).
+Table 14 shows the dosing regimens for the two arms.
 
-The following table shows the dosing regimens for the two arms of the study.
+Eligible patients were between 18 and 75 years of age, had histologically proven stage II (T3–T4 N0 M0; Dukes' B2) or III (any T N1–2 M0; Dukes' C) colon carcinoma (with the inferior pole of the tumor above the peritoneal reflection, i.e., greater than or equal to 15 cm from the anal margin) and had undergone (within 7 weeks prior to randomization) complete resection of the primary tumor without gross or microscopic evidence of residual disease and carcino-embyrogenic antigen (CEA) less than 10 ng/mL.
+Additional eligibility criteria were no prior chemotherapy, immunotherapy or radiotherapy; Eastern Cooperative Oncology Group performance status of 0, 1, or 2 (Karnofsky Performance Status greater than or equal to 60%); no pre-existing neuropathy; and absolute neutrophil count (ANC) greater than or equal to 1.5 × 109/L, platelets greater than or equal to 100 × 109/L, serum creatinine less than or equal to 1.25 × upper limit normal (ULN), total bilirubin less than 2 × ULN, and aspartate transaminase (AST)/alanine transaminase (ALT) less than 2 × ULN.
+The major efficacy outcome was 3-year disease-free survival (DFS).
 
-Table 15 - Dosing Regimens in Adjuvant Therapy Study
+Table 14: Dosing Regimens in Adjuvant Treatment Study
 
-| Arm | Dose | Regimen |
+| Treatment Arm | Dose | Regimen |
 | --- | --- | --- |
-| Treatment |  |  |
-| ELOXATIN + 5-FU/LV (FOLFOX4) (N =1123) | Day 1: ELOXATIN: 85 mg/m2 (2-hour infusion) + LV: 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV: 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks 12 cycles |
-| 5-FU/LV (N=1123) | Day 1: LV: 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV: 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks 12 cycles |
+| ELOXATIN + FU/LV (FOLFOX4) (N=1123) | Day 1: ELOXATIN: 85 mg/m2 (2-hour infusion) + LV: 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV: 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks 12 cycles |
+| FU/LV (N=1123) | Day 1: LV: 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV: 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks 12 cycles |
 
-The following tables show the baseline characteristics and dosing of the patient population entered into this study.
-The baseline characteristics were well balanced between arms.
+There were 2246 patients enrolled, of whom 1347 (60%) had Stage III disease.
+Tables 15 and 16 show the baseline characteristics and exposure to ELOXATIN.
 
-Table 16 - Patient Characteristics in Adjuvant Therapy Study
+Table 15: Baseline Characteristics in Adjuvant Treatment Study
 
-|  | ELOXATIN + infusional 5-FU/LV N=1123 | Infusional 5-FU/LV N=1123 |
+|  | ELOXATIN + Infusional FU/LV N=1123 | Infusional FU/LV N=1123 |
 | --- | --- | --- |
 | Sex: Male (%) | 56.1 | 52.4 |
 | Female (%) | 43.9 | 47.6 |
 | Median age (years) | 61.0 | 60.0 |
 | <65 years of age (%) | 64.4 | 66.2 |
 | ≥65 years of age (%) | 35.6 | 33.8 |
-| Karnofsky Performance Status (KPS) (%) |  |  |
+| KPS (%) |  |  |
 | 100 | 29.7 | 30.5 |
 | 90 | 52.2 | 53.9 |
 | 80 | 4.4 | 3.3 |
@@ -63,99 +60,100 @@ Table 16 - Patient Characteristics in Adjuvant Therapy Study
 | Staging – M (%) |  |  |
 | M1 | 0.4 | 0.8 |
 
-Table 17 - Dosing in Adjuvant Therapy Study
+Table 16: Exposure to ELOXATIN in Adjuvant Treatment Study
 
-|  | ELOXATIN + infusional 5-FU/LV N=1108 | Infusional 5-FU/LV N=1111 |
+|  | ELOXATIN + Infusional FU/LV N=1108 | Infusional FU/LV N=1111 |
 | --- | --- | --- |
 | Median Relative Dose Intensity (%) |  |  |
-| 5-FU | 84.4 | 97.7 |
+| FU | 84.4 | 97.7 |
 | ELOXATIN | 80.5 | N/A |
 | Median Number of Cycles | 12 | 12 |
-| Median Number of cycles with ELOXATIN | 11 | N/A |
+| Median Number of Cycles with ELOXATIN | 11 | N/A |
 
-The following table and figures summarize the disease-free survival (DFS) results in the overall randomized population and in patients with stage II and III disease based on an ITT analysis.
 The median duration of follow-up was approximately 77 months.
+In the overall and the stage III colon cancer populations, DFS was statistically significantly improved in the ELOXATIN-containing arm compared to fluorouracil/leucovorin alone; however, a statistically significant improvement in DFS was not observed in Stage II patients.
+No significant differences in overall survival (OS) were detected in the overall population or those with Stage III disease.
+Table 17 and Figures 1 and 2 summarize the 5-year DFS rates in the overall randomized population and in patients with stage II and III disease based on an intention-to-treat (ITT) analysis.
 
-Table 18 - Summary of DFS analysis – ITT analysis Data cut off for disease free survival 1 June 2006
+Table 17: Summary of DFS Analysis in Adjuvant Treatment Study – ITT Population
 
-| Parameter |  |  |
+| Parameter | ELOXATIN + Infusional FU/LV | Infusional FU/LV |
 | --- | --- | --- |
-|  | ELOXATIN + Infusional 5-FU/LV | Infusional 5-FU/LV |
 | Overall |  |  |
-| N | 1123 | 1123 |
+| Number of patients | 1123 | 1123 |
 | Number of events – relapse or death (%) | 304 (27.1) | 360 (32.1) |
-| Disease-free survival % [95% CI]Disease-free survival at 5 years | 73.3 [70.7, 76.0] | 67.4 [64.6, 70.2] |
-| Hazard ratio [95% CI]A hazard ratio of less than 1.00 favors Eloxatin + Infusional 5-fluorouracil/leucovorin | 0.80 [0.68, 0.93] |  |
-| Stratified Logrank test | p=0.003 |  |
+| 5-yr Disease-free survival % (95% CI) | 73.3 (70.7, 76.0) | 67.4 (64.6, 70.2) |
+| Hazard ratio (95% CI) | 0.80 (0.68, 0.93) |  |
+| Stratified Log rank test | p=0.003 |  |
 | Stage III (Dukes' C) |  |  |
-| N | 672 | 675 |
-| Number of events –relapse or death (%) | 226 (33.6) | 271 (40.1) |
-| Disease-free survival % [95% CI] | 66.4 [62.7, 70.0] | 58.9 [55.2, 62.7] |
-| Hazard ratio [95% CI] | 0.78 [0.65, 0.93] |  |
-| Logrank test | p=0.005 |  |
+| Number of patients | 672 | 675 |
+| Number of events – relapse or death (%) | 226 (33.6) | 271 (40.1) |
+| 5-yr Disease-free survival % (95% CI) | 66.4 (62.7, 70.0) | 58.9 (55.2, 62.7) |
+| Hazard ratio (95% CI) | 0.78 (0.65, 0.93) |  |
+| Log rank test | p=0.005 |  |
 | Stage II (Dukes' B2) |  |  |
-| N | 451 | 448 |
+| Number of patients | 451 | 448 |
 | Number of events – relapse or death (%) | 78 (17.3) | 89 (19.9) |
-| Disease-free survival % [95% CI] | 83.7 [80.2, 87.1] | 79.9 [76.2, 83.7] |
-| Hazard ratio [95% CI] | 0.84 [0.62, 1.14] |  |
-| Logrank test | p=0.258 |  |
+| 5-yr Disease-free survival % (95% CI) | 83.7 (80.2, 87.1) | 79.9 (76.2, 83.7) |
+| Hazard ratio (95% CI) | 0.84 (0.62, 1.14) |  |
+| Log rank test | p=0.258 |  |
+| A hazard ratio of less than 1 favors ELOXATIN + Infusional FU/LV Data cut off for disease-free survival June 1, 2006 |  |  |
 
-In the overall and stage III colon cancer populations DFS was statistically significantly improved in the ELOXATIN combination arm compared to infusional 5-fluorouracil/leucovorin alone.
-However, a statistically significant improvement in DFS was not noted in Stage II patients.
+Figure 1: Kaplan-Meier Curves of Disease-Free Survival (cutoff: 1 June 2006) in Adjuvant Treatment Trial – ITT Population
 
-Figure 2 shows the DFS Kaplan-Meier curves for the comparison of ELOXATIN and infusional 5-fluorouracil/leucovorin combination and infusional 5-fluorouracil/leucovorin alone for the overall population (ITT analysis).
+Figure 2: Kaplan-Meier Curves of Disease-Free Survival in Stage III Patients (cutoff: 1 June 2006) in Adjuvant Treatment Trial – ITT Population
 
-Figure 3 shows the DFS Kaplan-Meier curves for the comparison of ELOXATIN and infusional 5-fluorouracil/leucovorin combination and infusional 5-fluorouracil/leucovorin alone in Stage III patients.
+Table 18 summarizes the OS results in the overall randomized population and in patients with stage II and III disease, based on the ITT analysis.
 
-The following table summarizes the overall survival (OS) results in the overall randomized population and in patients with stage II and III disease, based on the ITT analysis.
+Table 18: Summary of OS Analysis in Adjuvant Treatment – ITT Population
 
-Table 19 - Summary of OS analysis - ITT analysisData cut off for overall survival 16 January 2007
-
-| Parameter | Eloxatin + Infusional 5-FU/LV | Infusional 5-FU/LV |
+| Parameter | ELOXATIN + Infusional FU/LV | Infusional FU/LV |
 | --- | --- | --- |
 | Overall |  |  |
-| N | 1123 | 1123 |
+| Number of patients | 1123 | 1123 |
 | Number of death events (%) | 245 (21.8) | 283 (25.2) |
-| Hazard ratioA hazard ratio of less than 1.00 favors Eloxatin + Infusional 5-fluorouracil/leucovorin[95% CI] | 0.84 [0.71, 1.00] |  |
+| Hazard ratio (95% CI) | 0.84 (0.71, 1.00) |  |
 | Stage III (Dukes' C) |  |  |
-| N | 672 | 675 |
+| Number of patients | 672 | 675 |
 | Number of death events (%) | 182 (27.1) | 220 (32.6) |
-| Hazard ratio [95% CI] | 0.80 [0.65, 0.97] |  |
+| Hazard ratio (95% CI) | 0.80 (0.65, 0.97) |  |
 | Stage II (Dukes' B2) |  |  |
-| N | 451 | 448 |
+| Number of patients | 451 | 448 |
 | Number of death events (%) | 63 (14.0) | 63 (14.1) |
-| Hazard ratio [95% CI] | 1.00 [0.70, 1.41] |  |
+| Hazard ratio (95% CI) | 1.00 (0.70, 1.41) |  |
+| A hazard ratio of less than 1 favors ELOXATIN + Infusional FU/LV Data cut off for overall survival January 16, 2007 |  |  |
 
-## 14.2 Combination Therapy with ELOXATIN and 5-fluorouracil/leucovorin in Patients Previously Untreated for Advanced Colorectal Cancer
+## 14.2 Previously Untreated Advanced Colorectal Cancer
 
-A North American, multicenter, open-label, randomized controlled study was sponsored by the National Cancer Institute (NCI) as an intergroup study led by the North Central Cancer Treatment Group (NCCTG).
-The study had 7 arms at different times during its conduct, four of which were closed due to either changes in the standard of care, toxicity, or simplification.
-During the study, the control arm was changed to irinotecan plus 5-fluorouracil/leucovorin.
-The results reported below compared the efficacy and safety of two experimental regimens, ELOXATIN in combination with infusional 5-fluorouracil/leucovorin and a combination of ELOXATIN plus irinotecan, to an approved control regimen of irinotecan plus 5-fluorouracil/leucovorin in 795 concurrently randomized patients previously untreated for locally advanced or metastatic colorectal cancer.
-After completion of enrollment, the dose of irinotecan plus 5-fluorouracil/leucovorin was decreased due to toxicity.
-Patients had to be at least 18 years of age, have known locally advanced, locally recurrent, or metastatic colorectal adenocarcinoma not curable by surgery or amenable to radiation therapy with curative intent, histologically proven colorectal adenocarcinoma, measurable or evaluable disease, with an ECOG performance status 0,1, or 2.
-Patients had to have granulocyte count ≥ 1.5 × 109/L, platelets ≥ 100 × 109/L, hemoglobin ≥9.0 gm/dL, creatinine ≤ 1.5 × ULN, total bilirubin ≤ 1.5 mg/dL, AST ≤ 5 × ULN, and alkaline phosphatase ≤ 5 × ULN.
-Patients may have received adjuvant therapy for resected Stage II or III disease without recurrence within 12 months.
-The patients were stratified for ECOG performance status (0, 1 vs. 2), prior adjuvant chemotherapy (yes vs. no), prior immunotherapy (yes vs. no), and age (<65 vs. ≥65 years).
-Although no post study treatment was specified in the protocol, 65 to 72% of patients received additional post study chemotherapy after study treatment discontinuation on all arms.
-Fifty-eight percent of patients on the ELOXATIN plus 5-fluorouracil/leucovorin arm received an irinotecan-containing regimen and 23% of patients on the irinotecan plus 5-fluorouracil/leucovorin arm received oxaliplatin-containing regimens.
-Oxaliplatin was not commercially available during the trial.
+The efficacy of ELOXATIN in combination with fluorouracil (FU)/leucovorin (LV) was evaluated in a North American, multicenter, open-label, randomized, active-controlled trial (A Randomized Phase III Trial of Three Different Regimens of CPT-11 Plus 5-Fluorouracil and Leucovorin Compared to 5-Fluorouracil and Leucovorin in Patients with Advanced Adenocarcinoma of the Colon and Rectum; NCT00003594).
+The trial included 7 arms at different times during its conduct, four of which were closed due to either changes in the standard of care, toxicity, or simplification.
+During the trial, the control arm was changed to irinotecan with fluorouracil/leucovorin.
 
-The following table presents the dosing regimens of the three arms of the study.
+The results reported below compared the efficacy of ELOXATIN with fluorouracil/leucovorin and ELOXATIN with irinotecan to an approved control regimen of irinotecan with fluorouracil/leucovorin in 795 concurrently randomized patients previously untreated for locally advanced or metastatic colorectal cancer.
+Table 19 presents the dosing regimens for the three arms.
+After completion of enrollment, the dose of irinotecan with fluorouracil/leucovorin was decreased due to toxicity.
 
-Table 20 – Dosing Regimens in Patients Previously Untreated for Advanced Colorectal Cancer Clinical Trial
+Eligible patients were at least 18 years of age; had known locally advanced, locally recurrent, or metastatic colorectal adenocarcinoma not curable by surgery or amenable to radiation therapy; with an Eastern Cooperative Oncology Group (ECOG) performance status ≤0, 1, or 2.
+Patients had to have absolute neutrophil count (ANC) greater than or equal to 1.5 × 109/L, platelets greater than or equal to 100 × 109/L, hemoglobin greater than or equal to 9.0 g/dL, creatinine less than or equal to 1.5 × upper limit of normal (ULN), total bilirubin less than or equal to 1.5 mg/dL, aspartate transaminase (AST) less than or equal to 5 × ULN, and alkaline phosphatase less than or equal to 5 × ULN.
+Patients may have received adjuvant treatment for resected Stage II or III disease without recurrence within 12 months.
+Randomization was stratified by ECOG performance status (0, 1 vs 2), prior adjuvant chemotherapy (yes vs no), prior immunotherapy (yes vs no), and age (less than 65 vs greater than or equal to 65 years).
+Although no post study treatment was specified in the protocol, 65% to 72% of patients received additional post study chemotherapy after study treatment discontinuation on all arms.
+Fifty-eight percent of patients on the ELOXATIN with fluorouracil/leucovorin arm received an irinotecan-containing regimen and 23% of patients on the irinotecan with fluorouracil/leucovorin arm received an oxaliplatin-containing regimen.
+The main efficacy outcome measure was 3-year disease-free survival (DFS) and additional efficacy outcome measures were overall survival (OS).
+
+Table 19: Dosing Regimens for Previously Untreated Advanced Colorectal Cancer Clinical Trial
 
 | Treatment Arm | Dose | Regimen |
 | --- | --- | --- |
-| ELOXATIN + 5-FU/LV (FOLFOX4) (N=267) | Day 1: ELOXATIN: 85 mg/m2 (2-hour infusion) + LV 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
-| Irinotecan + 5-FU/LV (IFL) (N=264) | Day 1: irinotecan 125 mg/m2 as a 90–min infusion + LV 20 mg/m2 as a 15-min infusion or intravenous push, followed by 5-FU 500 mg/m2 intravenous bolus weekly × 4 | every 6 weeks |
+| ELOXATIN + FU/LV (FOLFOX4) (N=267) | Day 1: ELOXATIN: 85 mg/m2 (2-hour infusion) + LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
+| Irinotecan + FU/LV (IFL) (N=264) | Day 1: irinotecan 125 mg/m2 as a 90-min infusion + LV 20 mg/m2 as a 15-min infusion or intravenous push, followed by FU 500 mg/m2 intravenous bolus weekly × 4 | every 6 weeks |
 | ELOXATIN + Irinotecan (IROX) (N=264) | Day 1: ELOXATIN: 85 mg/m2 intravenous (2-hour infusion) + irinotecan 200 mg/m2 intravenous over 30 minutes | every 3 weeks |
 
-The following table presents the demographics of the patient population entered into this study.
+Table 20 presents the baseline characteristics.
 
-Table 21 – Patient Demographics in Patients Previously Untreated for Advanced Colorectal Cancer Clinical Trial
+Table 20: Baseline Characteristics for Previously Untreated Advanced Colorectal Cancer Clinical Trial
 
-|  | ELOXATIN + 5-FU/LV N=267 | Irinotecan + 5-FU/LV N=264 | ELOXATIN + irinotecan N=264 |
+|  | ELOXATIN + FU/LV N=267 | Irinotecan + FU/LV N=264 | ELOXATIN + Irinotecan N=264 |
 | --- | --- | --- | --- |
 | Sex: Male (%) | 58.8 | 65.2 | 61.0 |
 | Female (%) | 41.2 | 34.8 | 39.0 |
@@ -176,118 +174,109 @@ Table 21 – Patient Demographics in Patients Previously Untreated for Advanced 
 | Prior surgery (%) | 74.5 | 79.2 | 81.8 |
 | Prior adjuvant (%) | 15.7 | 14.8 | 15.2 |
 
-The length of a treatment cycle was 2 weeks for the ELOXATIN and 5-fluorouracil/leucovorin regimen; 6 weeks for the irinotecan plus 5-fluorouracil/leucovorin regimen; and 3 weeks for the ELOXATIN plus irinotecan regimen.
-The median number of cycles administered per patient was 10 (23.9 weeks) for the ELOXATIN and 5-fluorouracil/leucovorin regimen, 4 (23.6 weeks) for the irinotecan plus 5-fluorouracil/leucovorin regimen, and 7 (21.0 weeks) for the ELOXATIN plus irinotecan regimen.
-Patients treated with the ELOXATIN and 5-fluorouracil/leucovorin combination had a significantly longer time to tumor progression based on investigator assessment, longer overall survival, and a significantly higher confirmed response rate based on investigator assessment compared to patients given irinotecan plus 5-fluorouracil/leucovorin.
-The following table summarizes the efficacy results.
+The median number of cycles administered per patient was 10 (23.9 weeks) for the ELOXATIN plus fluorouracil/leucovorin regimen, 4 (23.6 weeks) for the irinotecan plus fluorouracil/leucovorin regimen, and 7 (21.0 weeks) for the ELOXATIN plus irinotecan regimen.
 
-Table 22 – Summary of EfficacyThe numbers in the response rate and TTP analysis are based on unblinded investigator assessment.
+Patients who received ELOXATIN with fluorouracil/leucovorin had a significantly longer time to tumor progression based on investigator assessment, longer OS, and a significantly higher confirmed response rate based on investigator assessment compared to patients who received irinotecan with fluorouracil/leucovorin.
+Efficacy results are summarized in Table 21 and Figure 3.
 
-|  | ELOXATIN + 5-FU/LV N=267 | irinotecan + 5-FU/LV N=264 | ELOXATIN + irinotecan N=264 |
+Table 21: Efficacy Results for Previously Untreated Advanced Colorectal Cancer Trial
+
+|  | ELOXATIN + FU/LV N=267 | Irinotecan + FU/LV N=264 | ELOXATIN + Irinotecan N=264 |
 | --- | --- | --- | --- |
 | Survival (ITT) |  |  |  |
-| Number of deaths N (%) | 155 (58.1) | 192 (72.7) | 175 (66.3) |
+| Number of deaths (%) | 155 (58.1) | 192 (72.7) | 175 (66.3) |
 | Median survival (months) | 19.4 | 14.6 | 17.6 |
-| Hazard Ratio and (95% confidence interval) | 0.65 (0.53–0.80)Compared to irinotecan plus 5-fluorouracil/leucovorin (IFL) arm |  |  |
-| P-value | <0.0001 | - | - |
+| Hazard ratio (95% CI)A hazard ratio of less than 1 favors ELOXATIN + Infusional FU/LV | 0.65 (0.53, 0.80)Compared to irinotecan plus fluorouracil/leucovorin (IFL) arm |  | - |
+| P-value | <0.0001 |  | - |
 | TTP (ITT, investigator assessment) |  |  |  |
 | Percentage of progressors | 82.8 | 81.8 | 89.4 |
 | Median TTP (months) | 8.7 | 6.9 | 6.5 |
-| Hazard Ratio and (95% confidence interval)A hazard ratio of less than 1.00 favors Eloxatin + Infusional 5-fluorouracil/leucovorin | 0.74 (0.61–0.89) |  |  |
-| P-value | 0.0014 | - | - |
+| Hazard ratio (95% CI) | 0.74 (0.61, 0.89) |  | - |
+| P-value | 0.0014 |  | - |
 | Response Rate (investigator assessment)Based on all patients with measurable disease at baseline |  |  |  |
 | Patients with measurable disease | 210 | 212 | 215 |
-| Complete response N (%) | 13 (6.2) | 5 (2.4) | 7 (3.3) |
-| Partial response N (%) | 82 (39.0) | 64 (30.2) | 67 (31.2) |
-| Complete and partial response N (%) | 95 (45.2) | 69 (32.5) | 74 (34.4) |
-| 95% confidence interval | (38.5 – 52.0) | (26.2 – 38.9) | (28.1 – 40.8) |
-| P-value | 0.0080 | - | - |
+| Complete response, N (%) | 13 (6.2) | 5 (2.4) | 7 (3.3) |
+| Partial response, N (%) | 82 (39.0) | 64 (30.2) | 67 (31.2) |
+| Complete and partial response, N (%) | 95 (45.2) | 69 (32.5) | 74 (34.4) |
+| 95% CI | (38.5, 52.0) | (26.2, 38.9) | (28.1, 40.8) |
+| P-value | 0.0080 |  | - |
+| The numbers in the response rate and TTP analysis are based on unblinded investigator assessment. |  |  |  |
 
-Figure 4 illustrates the Kaplan-Meier survival curves for the comparison of ELOXATIN and 5-fluorouracil/leucovorin combination and ELOXATIN plus irinotecan to irinotecan plus 5-fluorouracil/leucovorin.
+Figure 3: Kaplan-Meier Curves for Overall Survival in Previously Untreated Advanced Colorectal Cancer Trial
 
-A descriptive subgroup analysis demonstrated that the improvement in survival for ELOXATIN plus 5-fluorouracil/leucovorin compared to irinotecan plus 5-fluorouracil/leucovorin appeared to be maintained across age groups, prior adjuvant therapy, and number of organs involved.
-An estimated survival advantage in ELOXATIN plus 5-fluorouracil/leucovorin versus irinotecan plus 5-fluorouracil/leucovorin was seen in both genders; however it was greater among women than men.
-Insufficient subgroup sizes prevented analysis by race.
+In descriptive subgroup analyses, the improvement in overall survival (OS) for ELOXATIN with fluorouracil/leucovorin compared to irinotecan with fluorouracil/leucovorin appeared to be maintained across age groups, prior adjuvant treatment, number of organs involved and both sexes; however, the effect appeared larger among women than men.
 
-## 14.3 Combination Therapy with ELOXATIN and 5-fluorouracil/leucovorin in Previously Treated Patients with Advanced Colorectal Cancer
+## 14.3 Previously Treated Advanced Colorectal Cancer
 
-A multicenter, open-label, randomized, three-arm controlled study was conducted in the US and Canada comparing the efficacy and safety of ELOXATIN in combination with an infusional schedule of 5-fluorouracil/leucovorin to the same dose and schedule of 5-fluorouracil/leucovorin alone and to single agent oxaliplatin in patients with advanced colorectal cancer who had relapsed/progressed during or within 6 months of first-line therapy with bolus 5-fluorouracil/leucovorin and irinotecan.
-The study was intended to be analyzed for response rate after 450 patients were enrolled.
-Survival will be subsequently assessed in all patients enrolled in the completed study.
-Accrual to this study is complete, with 821 patients enrolled.
-Patients in the study had to be at least 18 years of age, have unresectable, measurable, histologically proven colorectal adenocarcinoma, with a Karnofsky performance status >50%.
-Patients had to have SGOT(AST) and SGPT(ALT) ≤2× the institution's upper limit of normal (ULN), unless liver metastases were present and documented at baseline by CT or MRI scan, in which case ≤5× ULN was permitted.
-Patients had to have alkaline phosphatase ≤2× the institution's ULN, unless liver metastases were present and documented at baseline by CT or MRI scan, in which cases ≤5× ULN was permitted.
+The efficacy of ELOXATIN in combination with fluorouracil (FU)/leucovorin (LV) was evaluated in a multicenter, open-label, randomized, three-arm controlled trial was conducted in the US and Canada in patients with advanced colorectal cancer who had relapsed/progressed during or within 6 months of first-line treatment with bolus fluorouracil/leucovorin and irinotecan (A multicenter, open-label, randomized, three-arm study of 5-fluorouracil (5-FU) + leucovorin (LV) or oxaliplatin or a combination of 5-FU/LV + oxaliplatin as second-line treatment of metastatic colorectal carcinoma: NCT00008281).
+Patients were randomized to one of three regimens; the dosing regimens are presented in Table 22.
+Eligible patients were at least 18 years of age, had unresectable, measurable, histologically proven colorectal adenocarcinoma, with a Karnofsky performance status (KPS) greater than 50%.
+Patients had to have aspartate transaminase (AST), alanine transaminase (ALT) and alkaline phosphatase less than or equal to 2× upper limit of normal (ULN), unless liver metastases were present and documented at baseline by CT or MRI scan, in which case less than or equal to 5× ULN was permitted.
 Prior radiotherapy was permitted if it had been completed at least 3 weeks before randomization.
-The dosing regimens of the three arms of the study are presented in the table below.
+The main efficacy outcome measure was 3-year disease-free survival (DFS) and an additional outcome measure was overall survival (OS).
 
-Table 23 – Dosing Regimens in Refractory and Relapsed Colorectal Cancer Clinical Trial
+Table 22: Dosing Regimens in Refractory and Relapsed Colorectal Cancer Trial
 
-| Arm | Dose | Regimen |
+| Treatment Arm | Dose | Regimen |
 | --- | --- | --- |
-| Treatment |  |  |
-| ELOXATIN + 5-FU/LV (N =152) | Day 1: ELOXATIN: 85 mg/m2 (2-hour infusion) + LV 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
-| 5-FU/LV (N=151) | Day 1: LV 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
+| ELOXATIN + FU/LV (N=152) | Day 1: ELOXATIN: 85 mg/m2 (2-hour infusion) + LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
+| FU/LV (N=151) | Day 1: LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
 | ELOXATIN (N=156) | Day 1: ELOXATIN 85 mg/m2 (2-hour infusion) | every 2 weeks |
 
-Patients entered into the study for evaluation of response must have had at least one unidimensional lesion measuring ≥20mm using conventional CT or MRI scans, or ≥10mm using a spiral CT scan.
+Patients must have had at least one unidimensional lesion measuring greater than or equal to 20 mm using conventional CT or MRI scans or greater than or equal to 10 mm using a spiral CT scan.
 Tumor response and progression were assessed every 3 cycles (6 weeks) using the Response Evaluation Criteria in Solid Tumors (RECIST) until radiological documentation of progression or for 13 months following the first dose of study drug(s), whichever came first.
 Confirmed responses were based on two tumor assessments separated by at least 4 weeks.
-The demographics of the patient population entered into this study are shown in the table below.
+Baseline characteristics are shown in Table 23.
 
-Table 24 – Patient Demographics in Refractory and Relapsed Colorectal Cancer Clinical Trial
+Table 23: Baseline Characteristics in Refractory and Relapsed Colorectal Cancer Trial
 
-|  | 5-FU/LV (N = 151) | ELOXATIN (N = 156) | ELOXATIN + 5-FU/LV (N = 152) |
+|  | ELOXATIN + FU/LV N=152 | ELOXATIN N=156 | FU/LV N=151 |
 | --- | --- | --- | --- |
-| Sex: Male (%) | 54.3 | 60.9 | 57.2 |
-| Female (%) | 45.7 | 39.1 | 42.8 |
-| Median age (years) | 60.0 | 61.0 | 59.0 |
-| Range | 21–80 | 27–79 | 22–88 |
+| Sex: Male (%) | 57.2 | 60.9 | 54.3 |
+| Female (%) | 42.8 | 39.1 | 45.7 |
+| Median age (years) | 59.0 | 61.0 | 60.0 |
+| Range | 22–88 | 27–79 | 21–80 |
 | Race (%) |  |  |  |
-| Caucasian | 87.4 | 84.6 | 88.8 |
-| Black | 7.9 | 7.1 | 5.9 |
-| Asian | 1.3 | 2.6 | 2.6 |
-| Other | 3.3 | 5.8 | 2.6 |
+| Caucasian | 88.8 | 84.6 | 87.4 |
+| Black | 5.9 | 7.1 | 7.9 |
+| Asian | 2.6 | 2.6 | 1.3 |
+| Other | 2.6 | 5.8 | 3.3 |
 | KPS (%) |  |  |  |
-| 70 – 100 | 94.7 | 92.3 | 95.4 |
-| 50 – 60 | 2.6 | 4.5 | 2.0 |
+| 70–100 | 95.4 | 92.3 | 94.7 |
+| 50–60 | 2.0 | 4.5 | 2.6 |
 | Not reported | 2.6 | 3.2 | 2.6 |
-| Prior radiotherapy (%) | 25.2 | 19.2 | 25.0 |
-| Prior pelvic radiation (%) | 18.5 | 13.5 | 21.1 |
+| Prior radiotherapy (%) | 25.0 | 19.2 | 25.2 |
+| Prior pelvic radiation (%) | 21.1 | 13.5 | 18.5 |
 | Number of metastatic sites (%) |  |  |  |
-| 1 | 27.2 | 31.4 | 25.7 |
-| ≥2 | 72.2 | 67.9 | 74.3 |
+| 1 | 25.7 | 31.4 | 27.2 |
+| ≥2 | 74.3 | 67.9 | 72.2 |
 | Liver involvement (%) |  |  |  |
-| Liver only | 22.5 | 25.6 | 18.4 |
-| Liver + other | 60.3 | 59.0 | 53.3 |
+| Liver only | 18.4 | 25.6 | 22.5 |
+| Liver + other | 53.3 | 59.0 | 60.3 |
 
-The median number of cycles administered per patient was 6 for the ELOXATIN and 5-fluorouracil/leucovorin combination and 3 each for 5-fluorouracil/leucovorin alone and ELOXATIN alone.
+The median number of cycles administered per patient was 6 for the ELOXATIN and fluorouracil/leucovorin combination and 3 each for fluorouracil/leucovorin alone and ELOXATIN alone.
+Patients treated with the combination of ELOXATIN and fluorouracil/leucovorin had an increased response rate compared to patients given fluorouracil/leucovorin or oxaliplatin alone.
+Efficacy results are summarized in Tables 24 and 25.
 
-Patients treated with the combination of ELOXATIN and 5-fluorouracil/leucovorin had an increased response rate compared to patients given 5-fluorouracil/leucovorin or oxaliplatin alone.
-The efficacy results are summarized in the tables below.
+Table 24: Response Rates in Refractory and Relapsed Colorectal Cancer Clinical Trial - ITT Analysis
 
-Table 25 - Response Rates (ITT Analysis)
-
-| Best Response | 5-FU/LV (N=151) | ELOXATIN (N=156) | ELOXATIN + 5-FU/LV (N=152) |
+| Best Response | ELOXATIN + FU/LV N=152 | ELOXATIN N=156 | FU/LV N=151 |
 | --- | --- | --- | --- |
-| CR | 0 | 0 | 0 |
-| PR | 0 | 2 (1%) | 13 (9%) |
-| p-value | 0.0002 for 5-FU/LV vs. ELOXATIN + 5-FU/LV |  |  |
-| 95%CI | 0–2.4% | 0.2–4.6% | 4.6–14.2% |
+| Complete Response | 0 | 0 | 0 |
+| Partial Response | 13 (9%) | 2 (1%) | 0 |
+| P-value | 0.0002 FU/LV vs ELOXATIN + FU/LV |  |  |
+| 95% CI | 4.6%, 14.2% | 0.2%, 4.6% | 0, 2.4% |
 
-Table 26 - Summary of Radiographic Time to ProgressionThis is not an ITT analysis.
+Table 25: Radiographic Time to Progression (TTP)This is not an ITT analysis.
 Events were limited to radiographic disease progression documented by independent review of radiographs.
-Clinical progression was not included in this analysis, and 18% of patients were excluded from the analysis based on unavailability of the radiographs for independent review.
+Clinical progression was not included in this analysis, and 18% of patients were excluded from the analysis based on unavailability of the radiographs for independent review. in Refractory and Relapsed Colorectal Cancer Clinical Trial
 
-| Arm | 5-FU/LV (N=151) | ELOXATIN (N=156) | ELOXATIN + 5-FU/LV (N=152) |
+| Arm | ELOXATIN + FU/LV N=152 | ELOXATIN N=156 | FU/LV N=151 |
 | --- | --- | --- | --- |
-| No. of Progressors | 74 | 101 | 50 |
-| No. of patients with no radiological evaluation beyond baseline | 22 (15%) | 16 (10%) | 17 (11%) |
-| Median TTP (months) | 2.7 | 1.6 | 4.6 |
-| 95% CI | 1.8–3.0 | 1.4–2.7 | 4.2–6.1 |
+| Number of progressors | 50 | 101 | 74 |
+| Number of patients with no radiological evaluation beyond baseline | 17 (11%) | 16 (10%) | 22 (15%) |
+| Median TTP (months) | 4.6 | 1.6 | 2.7 |
+| 95% CI | 4.2, 6.1 | 1.4, 2.7 | 1.8, 3.0 |
 
 At the time of the interim analysis 49% of the radiographic progression events had occurred.
-In this interim analysis an estimated 2-month increase in median time to radiographic progression was observed compared to 5-fluorouracil/leucovorin alone.
-
-Of the 13 patients who had tumor response to the combination of ELOXATIN and 5-fluorouracil/leucovorin, 5 were female and 8 were male, and responders included patients <65 years old and ≥65 years old.
-The small number of non-Caucasian participants made efficacy analyses in these populations uninterpretable.
+In this interim analysis an estimated 2-month increase in median time to radiographic progression was observed compared to fluorouracil/leucovorin alone.

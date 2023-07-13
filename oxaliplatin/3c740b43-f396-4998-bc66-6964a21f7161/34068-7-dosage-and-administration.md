@@ -1,70 +1,82 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-ELOXATIN (oxaliplatin injection) should be administered under the supervision of a qualified physician experienced in the use of cancer chemotherapeutic agents.
-Appropriate management of therapy and complications is possible only when adequate diagnostic and treatment facilities are readily available.
+## 2.1 Recommended Dosage
 
-## 2.1 Dosage
+Administer ELOXATIN in combination with fluorouracil and leucovorin every 2 weeks.
 
-Administer ELOXATIN in combination with 5-fluorouracil/leucovorin every 2 weeks.
-For advanced disease, treatment is recommended until disease progression or unacceptable toxicity.
-For adjuvant use, treatment is recommended for a total of 6 months (12 cycles):
+- For adjuvant treatment, continue treatment for up to 12 cycles or unacceptable toxicity.
+- For advanced colorectal cancer, continue treatment until disease progression or unacceptable toxicity.
 
-Day 1: ELOXATIN 85 mg/m2 intravenous infusion in 250–500 mL 5% Dextrose injection, USP and leucovorin 200 mg/m2 intravenous infusion in 5% Dextrose Injection, USP both given over 120 minutes at the same time in separate bags using a Y-line, followed by 5-fluorouracil 400 mg/m2 intravenous bolus given over 2–4 minutes, followed by 5-fluorouracil 600 mg/m2 intravenous infusion in 500 mL 5% Dextrose Injection, USP (recommended) as a 22-hour continuous infusion.
+Day 1
 
-Day 2: Leucovorin 200 mg/m2 intravenous infusion over 120 minutes, followed by 5-fluorouracil 400 mg/m2 intravenous bolus given over 2–4 minutes, followed by 5-fluorouracil 600 mg/m2 intravenous infusion in 500 mL 5% Dextrose Injection, USP (recommended) as a 22-hour continuous infusion.
+Administer ELOXATIN 85 mg/m2 as an intravenous infusion over 120 minutes and leucovorin 200 mg/m2 as an intravenous infusion over 120 minutes at the same time in separate bags, followed by fluorouracil 400 mg/m2 as intravenous bolus over 2–4 minutes, followed by fluorouracil 600 mg/m2 as a 22-hour continuous infusion.
 
-Figure 1
+Day 2
 
-The administration of ELOXATIN does not require prehydration.
-Premedication with antiemetics, including 5-HT3 blockers with or without dexamethasone, is recommended.
+Administer leucovorin 200 mg/m2 as an intravenous infusion over 120 minutes, followed by fluorouracil 400 mg/m2 as intravenous bolus over 2–4 minutes, followed by fluorouracil 600 mg/m2 as a 22-hour continuous infusion.
 
-For information on 5-fluorouracil and leucovorin, see the respective package inserts.
+Refer to the prescribing information for fluorouracil and leucovorin for additional information.
 
-## 2.2 Dose Modification Recommendations
+## 2.2 Dose Modifications for Adverse Reactions
 
-Prior to subsequent therapy cycles, patients should be evaluated for clinical toxicities and recommended laboratory tests [see Warnings and Precautions (5.9)].
-Prolongation of infusion time for ELOXATIN from 2 hours to 6 hours may mitigate acute toxicities.
-The infusion times for 5-fluorouracil and leucovorin do not need to be changed.
+Prolongation of infusion time for ELOXATIN from 2 hours to 6 hours may mitigate acute toxicities, such as non–life-threatening infusion-related reactions.
 
-Adjuvant Therapy in Patients with Stage III Colon Cancer
+Permanently discontinue ELOXATIN for any of the following:
 
-Neuropathy and other toxicities were graded using the NCI CTC scale version 1 [see Warnings and Precautions (5.2)].
+- Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+- Posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.4)]
+- Confirmed interstitial lung disease or pulmonary fibrosis [see Warnings and Precautions (5.5)]
+- Rhabdomyolysis [see Warnings and Precautions (5.8)]
 
-For patients who experience persistent Grade 2 neurosensory events that do not resolve, a dose reduction of ELOXATIN to 75 mg/m2 should be considered.
-For patients with persistent Grade 3 neurosensory events, discontinuing therapy should be considered.
-The infusional 5-fluorouracil/leucovorin regimen need not be altered.
+Refer to the fluorouracil and leucovorin prescribing information for dosage modifications for adverse reactions.
 
-A dose reduction of ELOXATIN to 75 mg/m2 and infusional 5-fluorouracil to 300 mg/m2 bolus and 500 mg/m2 22 hour infusion is recommended for patients after recovery from grade 3/4 gastrointestinal (despite prophylactic treatment), or grade 4 neutropenia, or febrile neutropenia, or grade 3/4 thrombocytopenia.
-The next dose should be delayed until: neutrophils ≥1.5 × 109/L and platelets ≥75 × 109/L.
+Dosage Modifications for Adjuvant Treatment
 
-Dose Modifications in Therapy in Previously Untreated and Previously Treated Patients with Advanced Colorectal Cancer
+Dosage modifications for adverse reactions for adjuvant treatment are presented in Table 1.
 
-Neuropathy was graded using a study-specific neurotoxicity scale [see Warnings and Precautions (5.2)].
-Other toxicities were graded by the NCI CTC, Version 2.0.
+Table 1: Dosage Modifications for Adjuvant Treatment in Patients with Stage III Colon Cancer
 
-For patients who experience persistent Grade 2 neurosensory events that do not resolve, a dose reduction of ELOXATIN to 65 mg/m2 should be considered.
-For patients with persistent Grade 3 neurosensory events, discontinuing therapy should be considered.
-The 5-fluorouracil/leucovorin regimen need not be altered.
+| Adverse Reactions | Severity | ELOXATIN Dosage Modifications |
+| --- | --- | --- |
+| Peripheral Sensory Neuropathy [see Warnings and Precautions (5.2)] | Persistent Grade 2 | Consider reducing ELOXATIN dose to 75 mg/m2. |
+| Persistent Grade 3 | Consider discontinuing ELOXATIN. |  |
+| Grade 4 | Discontinue ELOXATIN. |  |
+| Myelosuppression [see Warnings and Precautions (5.3), Adverse Reactions (6.1)]. | Grade 4 neutropenia or febrile neutropenia | Delay the next dose until neutrophils greater than or equal to 1.5 × 109/L and platelets greater than or equal to 75 × 109/L. Reduce ELOXATIN dose to 75 mg/m2. |
+| Grade 3–4 thrombocytopenia |  |  |
+| Gastrointestinal Adverse Reactions [see Adverse Reactions (6.1)] | Grade 3–4 | After recovery, reduce ELOXATIN dose to 75 mg/m2 along with a dose reduction of fluorouracil to 300 mg/m2 as an intravenous bolus and 500 mg/m2 as a 22-hour continuous infusion. |
 
-A dose reduction of ELOXATIN to 65 mg/m2 and 5-fluorouracil by 20% (300 mg/m2 bolus and 500 mg/m2 22-hour infusion) is recommended for patients after recovery from grade 3/4 gastrointestinal (despite prophylactic treatment), or grade 4 neutropenia, or febrile neutropenia, or grade 3/4 thrombocytopenia.
-The next dose should be delayed until: neutrophils ≥1.5 × 109/L and platelets ≥75 × 109/L.
+Dosage Modifications for Advanced Colorectal Cancer
 
-Dose Modifications in Therapy for Patients with Renal Impairment
+Dosage modifications for adverse reactions for advanced colorectal cancer are presented in Table 2.
 
-In patients with normal renal function or mild to moderate renal impairment, the recommended dose of ELOXATIN is 85 mg/m2.
-In patients with severe renal impairment, the initial recommended ELOXATIN dose should be reduced to 65 mg/m2 [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Table 2: Dosage Modifications for Advanced Colorectal Cancer
 
-## 2.3 Preparation of Infusion Solution
+| Adverse Reactions | Severity | ELOXATIN Dosage Modifications |
+| --- | --- | --- |
+| Neuropathy [see Warnings and Precautions (5.2)] | Persistent Grade 2 | Consider reducing ELOXATIN dose to 65 mg/m2. |
+| Persistent Grade 3 | Consider discontinuing ELOXATIN. |  |
+| Grade 4 | Discontinue ELOXATIN. |  |
+| Myelosuppression [see Warnings and Precautions (5.3), Adverse Reactions (6.1)] | Grade 4 neutropenia or febrile neutropenia | Delay the next dose until neutrophils greater than or equal to 1.5 × 109/L and platelets greater than or equal to 75 × 109/L. Reduce ELOXATIN dose to 65 mg/m2. |
+| Grade 3–4 thrombocytopenia |  |  |
+| Gastrointestinal Adverse Reactions [see Adverse Reactions (6.1)] | Grade 3–4 | After recovery, reduce ELOXATIN dose to 65 mg/ m2 along with a dose reduction of fluorouracil to 300 mg/m2 as an intravenous bolus and 500 mg/m2 as a 22-hour continuous infusion. |
 
-Do not freeze and protect from light the concentrated solution.
-A final dilution must never be performed with a sodium chloride solution or other chloride-containing solutions.
-The solution must be further diluted in an infusion solution of 250-500 mL of 5% Dextrose Injection, USP.
-After dilution with 250-500 mL of 5% Dextrose Injection, USP, the shelf life is 6 hours at room temperature [20-25°C (68-77°F)] or up to 24 hours under refrigeration [2-8°C (36-46°F)].
-After final dilution, protection from light is not required.
+## 2.3 Dose Modifications for Patients with Renal Impairment
 
-ELOXATIN is incompatible in solution with alkaline medications or media (such as basic solutions of 5-fluorouracil) and must not be mixed with these or administered simultaneously through the same infusion line.
-The infusion line should be flushed with 5% Dextrose Injection, USP prior to administration of any concomitant medication.
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration and discarded if present.
+In patients with severe renal impairment (creatinine clearance [CLcr] less than 30 mL/min, calculated by the Cockcroft-Gault equation), reduce the ELOXATIN dose to 65 mg/m2 [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
-Needles or intravenous administration sets containing aluminum parts that may come in contact with ELOXATIN should not be used for the preparation or mixing of the drug.
-Aluminum has been reported to cause degradation of platinum compounds.
+## 2.4 Preparation and Administration
+
+- ELOXATIN is a cytotoxic drug.
+  Follow applicable special handling and disposal procedures.1
+- Do not freeze.
+- Protect the concentrated solution from light.
+- Dilute concentrated solution with 250 to 500 mL of 5% Dextrose Injection, USP.
+  Do not dilute with sodium chloride solution or other chloride-containing solutions.
+- Store diluted solution for no more than 6 hours at room temperature (20°C to 25°C [68°F to 77°F]) or 24 hours under refrigeration (2°C to 8°C [36°F to 46°F]).
+  Protection from light is not required.
+- Visually inspect for particulate matter and discoloration prior to administration and discard if present.
+- Do not mix ELOXATIN or administer ELOXATIN through the same infusion line concurrently with alkaline medications or media (such as basic solutions of fluorouracil).
+- Flush the infusion line with 5% Dextrose Injection, USP prior to administration of any concomitant medication.
+- Do not use needles or intravenous administration sets containing aluminum parts for the preparation or mixing of ELOXATIN.
+  Aluminum has been reported to cause degradation of platinum compounds.
+- Administer ELOXATIN as an intravenous infusion over 120 minutes concurrently with leucovorin over 120 minutes in separate bags.
