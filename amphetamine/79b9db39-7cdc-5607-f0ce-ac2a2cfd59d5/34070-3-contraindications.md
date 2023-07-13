@@ -1,9 +1,4 @@
 # CONTRAINDICATIONS
 
-Advanced arteriosclerosis, symptomatic cardiovascular disease, moderate to severe hypertension, hyperthyroidism, known hypersensitivity or idiosyncrasy to the sympathomimetic amines.
-
-Agitated states.
-
-Patients with a history of drug abuse.
-
-During or within 14 days following the administration of monoamine oxidase inhibitors (hypertensive crises may result).
+- Known hypersensitivity to amphetamine products
+- During or within 14 days following the administration of monoamine oxidase inhibitors (hypertensive crises may result) (see WARNINGS).
