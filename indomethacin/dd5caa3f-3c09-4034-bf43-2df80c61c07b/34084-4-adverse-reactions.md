@@ -38,5 +38,7 @@ Hematologic: disseminated intravascular coagulation, thrombocytopenia.
 
 Ophthalmic: retrolental fibroplasia.**
 
+Dermatologic: drug reaction with eosinophilia and systemic symptoms (DRESS)
+
 A variety of additional adverse experiences have been reported in adults treated with oral indomethacin for moderate to severe rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, acute painful shoulder and acute gouty arthritis (see package insert for oral indomethacin for additional information concerning adverse reactions and other cautionary statements).
 Their relevance to the pre-term infant receiving indomethacin for patent ductus arteriosus is unknown, however, the possibility exists that these experiences may be associated with the use of Indomethacin for Injection in pre-term infants.
