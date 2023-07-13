@@ -2,8 +2,8 @@
 
 The following important adverse reactions are described below and elsewhere in the labeling:
 
-- Lower Limb Amputation [see Warnings and Precautions (5.1)]
-- Ketoacidosis [see Warnings and Precautions (5.2)]
+- Diabetic Ketoacidosis in Patients with Type 1 Diabetes and Other Ketoacidosis [see Warnings and Precautions (5.1)]
+- Lower Limb Amputation [see Warnings and Precautions (5.2)]
 - Volume Depletion [see Warnings and Precautions (5.3)]
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
 - Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.5)]
@@ -23,26 +23,26 @@ These data reflect exposure of 1,667 patients to INVOKANA and a mean duration of
 Patients received INVOKANA 100 mg (N=833), INVOKANA 300 mg (N=834) or placebo (N=646) once daily.
 The mean age of the population was 56 years and 2% were older than 75 years of age.
 Fifty percent (50%) of the population was male and 72% were Caucasian, 12% were Asian, and 5% were Black or African American.
-At baseline the population had diabetes for an average of 7.3 years, had a mean HbA1C of 8.0% and 20% had established microvascular complications of diabetes.
-Baseline renal function was normal or mildly impaired (mean eGFR 88 mL/min/1.73 m2).
+At baseline the population had diabetes for an average of 7.3 years, had a mean HbA 1Cof 8.0% and 20% had established microvascular complications of diabetes.
+Baseline renal function was normal or mildly impaired (mean eGFR 88 mL/min/1.73 m 2).
 
 Table 2 shows common adverse reactions associated with the use of INVOKANA.
 These adverse reactions were not present at baseline, occurred more commonly on INVOKANA than on placebo, and occurred in at least 2% of patients treated with either INVOKANA 100 mg or INVOKANA 300 mg.
 
-Table 2: Adverse Reactions from Pool of Four 26–Week Placebo-Controlled Studies Reported in ≥ 2% of INVOKANA-Treated PatientsThe four placebo-controlled trials included one monotherapy trial and three add-on combination trials with metformin, metformin and sulfonylurea, or metformin and pioglitazone.
+Table 2: Adverse Reactions from Pool of Four 26–Week Placebo-Controlled Studies Reported in ≥ 2% of INVOKANA-Treated Patients The four placebo-controlled trials included one monotherapy trial and three add-on combination trials with metformin, metformin and sulfonylurea, or metformin and pioglitazone.
 
 | Adverse Reaction | Placebo N=646 | INVOKANA 100 mg N=833 | INVOKANA 300 mg N=834 |
 | --- | --- | --- | --- |
-| Urinary tract infectionsUrinary tract infections include the following adverse reactions: Urinary tract infection, Cystitis, Kidney infection, and Urosepsis. | 3.8% | 5.9% | 4.4% |
-| Increased urinationIncreased urination includes the following adverse reactions: Polyuria, Pollakiuria, Urine output increased, Micturition urgency, and Nocturia. | 0.7% | 5.1% | 4.6% |
-| ThirstThirst includes the following adverse reactions: Thirst, Dry mouth, and Polydipsia. | 0.1% | 2.8% | 2.4% |
+| Urinary tract infections Urinary tract infections include the following adverse reactions: Urinary tract infection, Cystitis, Kidney infection, and Urosepsis. | 3.8% | 5.9% | 4.4% |
+| Increased urination Increased urination includes the following adverse reactions: Polyuria, Pollakiuria, Urine output increased, Micturition urgency, and Nocturia. | 0.7% | 5.1% | 4.6% |
+| Thirst Thirst includes the following adverse reactions: Thirst, Dry mouth, and Polydipsia. | 0.1% | 2.8% | 2.4% |
 | Constipation | 0.9% | 1.8% | 2.4% |
 | Nausea | 1.6% | 2.1% | 2.3% |
 |  | N=312 | N=425 | N=430 |
-| Female genital mycotic infectionsFemale genital mycotic infections include the following adverse reactions: Vulvovaginal candidiasis, Vulvovaginal mycotic infection, Vulvovaginitis, Vaginal infection, Vulvitis, and Genital infection fungal. | 2.8% | 10.6% | 11.6% |
+| Female genital mycotic infections Female genital mycotic infections include the following adverse reactions: Vulvovaginal candidiasis, Vulvovaginal mycotic infection, Vulvovaginitis, Vaginal infection, Vulvitis, and Genital infection fungal. | 2.8% | 10.6% | 11.6% |
 | Vulvovaginal pruritus | 0.0% | 1.6% | 3.2% |
 |  | N=334 | N=408 | N=404 |
-| Male genital mycotic infectionsMale genital mycotic infections include the following adverse reactions: Balanitis or Balanoposthitis, Balanitis candida, and Genital infection fungal. | 0.7% | 4.2% | 3.8% |
+| Male genital mycotic infections Male genital mycotic infections include the following adverse reactions: Balanitis or Balanoposthitis, Balanitis candida, and Genital infection fungal. | 0.7% | 4.2% | 3.8% |
 | Note: Percentages were weighted by studies. Study weights were proportional to the harmonic mean of the three treatment sample sizes. |  |  |  |
 
 Abdominal pain was also more commonly reported in patients taking INVOKANA 100 mg (1.8%), 300 mg (1.7%) than in patients taking placebo (0.8%).
@@ -53,7 +53,6 @@ The occurrence of adverse reactions for INVOKANA was evaluated in patients parti
 These data reflect exposure of 2,201 patients to INVOKANA and a mean duration of exposure to INVOKANA of 137 weeks.
 
 - The rate of lower limb amputations associated with the use of INVOKANA 100 mg relative to placebo was 12.3 vs 11.2 events per 1000 patient-years, respectively, with 2.6 years mean duration of follow-up.
-- Incidence rates of adjudicated events of diabetic ketoacidosis (DKA) were 0.21 (0.5%, 12/2,200) and 0.03 (0.1%, 2/2,197) per 100 patient-years of follow-up with INVOKANA 100 mg and placebo, respectively.
 - The incidence of hypotension was 2.8% and 1.5% on INVOKANA 100 mg and placebo, respectively.
 
 Pool of Placebo- and Active-Controlled Trials for Glycemic Control and Cardiovascular Outcomes
@@ -112,15 +111,15 @@ Volume Depletion-Related Adverse Reactions
 INVOKANA results in an osmotic diuresis, which may lead to reductions in intravascular volume.
 In clinical trials for glycemic control, treatment with INVOKANA was associated with a dose-dependent increase in the incidence of volume depletion-related adverse reactions (e.g., hypotension, postural dizziness, orthostatic hypotension, syncope, and dehydration).
 An increased incidence was observed in patients on the 300 mg dose.
-The three factors associated with the largest increase in volume depletion-related adverse reactions in these trials were the use of loop diuretics, moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2), and age 75 years and older (Table 5) [see Use in Specific Populations (8.5 and 8.6)].
+The three factors associated with the largest increase in volume depletion-related adverse reactions in these trials were the use of loop diuretics, moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m 2), and age 75 years and older (Table 5) [see Use in Specific Populations (8.5and 8.6)].
 
 Table 5: Proportion of Patients With at Least One Volume Depletion-Related Adverse Reaction (Pooled Results from 8 Clinical Trials for Glycemic Control)
 
-| Baseline Characteristic | Comparator GroupIncludes placebo and active-comparator groups % | INVOKANA 100 mg % | INVOKANA 300 mg % |
+| Baseline Characteristic | Comparator Group Includes placebo and active-comparator groups % | INVOKANA 100 mg % | INVOKANA 300 mg % |
 | --- | --- | --- | --- |
 | Overall population | 1.5% | 2.3% | 3.4% |
-| 75 years of age and olderPatients could have more than 1 of the listed risk factors | 2.6% | 4.9% | 8.7% |
-| eGFR less than 60 mL/min/1.73 m2 | 2.5% | 4.7% | 8.1% |
+| 75 years of age and older Patients could have more than 1 of the listed risk factors | 2.6% | 4.9% | 8.7% |
+| eGFR less than 60 mL/min/1.73 m 2 | 2.5% | 4.7% | 8.1% |
 | Use of loop diuretic | 4.7% | 3.2% | 8.8% |
 
 Falls
@@ -148,14 +147,14 @@ In all glycemic control trials, hypoglycemia was defined as any event regardless
 Severe hypoglycemia was defined as an event consistent with hypoglycemia where the patient required the assistance of another person to recover, lost consciousness, or experienced a seizure (regardless of whether biochemical documentation of a low glucose value was obtained).
 In individual clinical trials of glycemic control [see Clinical Studies (14.1)], episodes of hypoglycemia occurred at a higher rate when INVOKANA was co-administered with insulin or sulfonylureas (Table 6).
 
-Table 6: Incidence of HypoglycemiaNumber of patients experiencing at least one event of hypoglycemia based on either biochemically documented episodes or severe hypoglycemic events in the intent-to-treat population in Randomized Clinical Studies of Glycemic Control
+Table 6: Incidence of Hypoglycemia Number of patients experiencing at least one event of hypoglycemia based on either biochemically documented episodes or severe hypoglycemic events in the intent-to-treat populationin Randomized Clinical Studies of Glycemic Control
 
 | Monotherapy (26 weeks) | Placebo (N=192) | INVOKANA 100 mg (N=195) | INVOKANA 300 mg (N=197) |
 | --- | --- | --- | --- |
 | Overall [N (%)] | 5 (2.6) | 7 (3.6) | 6 (3.0) |
 | In Combination with Metformin (26 weeks) | Placebo + Metformin (N=183) | INVOKANA 100 mg + Metformin (N=368) | INVOKANA 300 mg + Metformin (N=367) |
 | Overall [N (%)] | 3 (1.6) | 16 (4.3) | 17 (4.6) |
-| Severe [N (%)]Severe episodes of hypoglycemia were defined as those where the patient required the assistance of another person to recover, lost consciousness, or experienced a seizure (regardless of whether biochemical documentation of a low glucose value was obtained) | 0 (0) | 1 (0.3) | 1 (0.3) |
+| Severe [N (%)] Severe episodes of hypoglycemia were defined as those where the patient required the assistance of another person to recover, lost consciousness, or experienced a seizure (regardless of whether biochemical documentation of a low glucose value was obtained) | 0 (0) | 1 (0.3) | 1 (0.3) |
 | In Combination with Metformin (52 weeks) | Glimepiride + Metformin (N=482) | INVOKANA 100 mg + Metformin (N=483) | INVOKANA 300 mg + Metformin (N=485) |
 | Overall [N (%)] | 165 (34.2) | 27 (5.6) | 24 (4.9) |
 | Severe [N (%)] | 15 (3.1) | 2 (0.4) | 3 (0.6) |
@@ -190,7 +189,7 @@ The acute effect on eGFR reverses after treatment discontinuation suggesting acu
 
 Increases in Serum Potassium
 
-In a pooled population of patients (N=723) in glycemic control trials with moderate renal impairment (eGFR 45 to less than 60 mL/min/1.73 m2), increases in serum potassium to greater than 5.4 mEq/L and 15% above baseline occurred in 5.3%, 5.0%, and 8.8% of patients treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
+In a pooled population of patients (N=723) in glycemic control trials with moderate renal impairment (eGFR 45 to less than 60 mL/min/1.73 m 2), increases in serum potassium to greater than 5.4 mEq/L and 15% above baseline occurred in 5.3%, 5.0%, and 8.8% of patients treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
 Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 0.4% of patients treated with placebo, no patients treated with INVOKANA 100 mg, and 1.3% of patients treated with INVOKANA 300 mg.
 
 In these patients, increases in potassium were more commonly seen in those with elevated potassium at baseline.

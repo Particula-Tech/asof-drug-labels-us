@@ -11,7 +11,7 @@ There are risks to the mother and fetus associated with poorly controlled diabet
 
 In animal studies, adverse renal pelvic and tubule dilatations that were not reversible were observed in rats when canagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy, at an exposure 0.5-times the 300 mg clinical dose, based on AUC.
 
-The estimated background risk of major birth defects is 6–10% in women with pre-gestational diabetes with a HbA1C >7 and has been reported to be as high as 20–25% in women with a HbA1C >10.
+The estimated background risk of major birth defects is 6–10% in women with pre-gestational diabetes with a HbA 1C>7 and has been reported to be as high as 20–25% in women with a HbA 1C>10.
 The estimated background risk of miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
@@ -38,7 +38,7 @@ Risk Summary
 
 There is no information regarding the presence of INVOKANA in human milk, the effects on the breastfed infant, or the effects on milk production.
 Canagliflozin is present in the milk of lactating rats [see Data].
-Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
+Since human kidney maturation occurs in uteroand during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
 
 Because of the potential for serious adverse reactions in a breastfed infant, advise women that use of INVOKANA is not recommended while breastfeeding.
 
@@ -57,17 +57,16 @@ Safety and effectiveness of INVOKANA in pediatric patients under 18 years of age
 
 In 13 clinical trials of INVOKANA, 2,294 patients 65 years and older, and 351 patients 75 years and older were exposed to INVOKANA [see Clinical Studies (14.1)].
 
-Patients 65 years and older had a higher incidence of adverse reactions related to reduced intravascular volume with INVOKANA (such as hypotension, postural dizziness, orthostatic hypotension, syncope, and dehydration), particularly with the 300 mg daily dose, compared to younger patients; a more prominent increase in the incidence was seen in patients who were 75 years and older [see Dosage and Administration (2.1) and Adverse Reactions (6.1)].
-Smaller reductions in HbA1C with INVOKANA relative to placebo were seen in older (65 years and older; -0.61% with INVOKANA 100 mg and -0.74% with INVOKANA 300 mg relative to placebo) compared to younger patients (-0.72% with INVOKANA 100 mg and -0.87% with INVOKANA 300 mg relative to placebo).
+Patients 65 years and older had a higher incidence of adverse reactions related to reduced intravascular volume with INVOKANA (such as hypotension, postural dizziness, orthostatic hypotension, syncope, and dehydration), particularly with the 300 mg daily dose, compared to younger patients; a more prominent increase in the incidence was seen in patients who were 75 years and older [see Dosage and Administration (2.1)and Adverse Reactions (6.1)].
+Smaller reductions in HbA 1Cwith INVOKANA relative to placebo were seen in older (65 years and older; -0.61% with INVOKANA 100 mg and -0.74% with INVOKANA 300 mg relative to placebo) compared to younger patients (-0.72% with INVOKANA 100 mg and -0.87% with INVOKANA 300 mg relative to placebo).
 
 ## 8.6 Renal Impairment
 
-The efficacy and safety of INVOKANA for glycemic control were evaluated in a trial that included patients with moderate renal impairment (eGFR 30 to less than 50 mL/min/1.73 m2) [see Clinical Studies (14.1)].
+The efficacy and safety of INVOKANA for glycemic control were evaluated in a trial that included patients with moderate renal impairment (eGFR 30 to less than 50 mL/min/1.73 m 2) [see Clinical Studies (14.1)].
 These patients had less overall glycemic efficacy, and patients treated with 300 mg per day had increases in serum potassium, which were transient and similar by the end of study.
 Patients with renal impairment using INVOKANA for glycemic control may also be more likely to experience hypotension and may be at higher risk for acute kidney injury [see Warnings and Precautions (5.3)].
 
-Efficacy and safety studies with INVOKANA did not enroll patients with ESKD on dialysis or patients with an eGFR less than 30 mL/min/1.73 m2.
-INVOKANA is contraindicated in patients with ESKD on dialysis [see Contraindications (4) and Clinical Pharmacology (12.1)].
+Efficacy and safety studies with INVOKANA did not enroll patients with ESKD on dialysis or patients with an eGFR less than 30 mL/min/1.73 m 2[see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

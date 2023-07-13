@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-INVOKANA® (canagliflozin) tablets are available in the strengths and packages listed below:
+INVOKANA ®(canagliflozin) tablets are available in the strengths and packages listed below:
 
 100 mg tablets are yellow, capsule-shaped, film-coated tablets with "CFZ" on one side and "100" on the other side.
 

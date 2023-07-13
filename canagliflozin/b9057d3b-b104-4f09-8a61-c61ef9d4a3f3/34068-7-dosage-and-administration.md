@@ -2,31 +2,35 @@
 
 ## 2.1 Prior to Initiation of INVOKANA
 
-Assess renal function before initiating INVOKANA and as clinically indicated [see Warnings and Precautions (5.3)].
+Assess renal function before initiating INVOKANA and as clinically indicated [see Dosage and Administration (2.3)and Warnings and Precautions (5.3)].
 
-In patients with volume depletion, correct this condition before initiating INVOKANA [see Warnings and Precautions (5.3), Use in Specific Populations (8.5, 8.6)].
+In patients with volume depletion, correct this condition before initiating INVOKANA [see Warnings and Precautions (5.3)and Use in Specific Populations (8.5, 8.6)].
 
-## 2.2 Recommended Dosage
+## 2.2 Recommended Dosage and Administration
 
-See Table 1 for dosage recommendations based on estimated glomerular filtration rate (eGFR).
+- The recommended dosage of INVOKANA is 100 mg orally once daily, taken before the first meal of the day.
+- For additional glycemic control, the dosage of INVOKANA may be increased to the maximum recommended dosage of 300 mg once daily.
 
-Table 1: Recommended Dosage
+## 2.3 Recommended Dosage in Patients with Renal Impairment
 
-| estimated glomerular filtration rate eGFR (mL/min/1.73 m2) | Recommended Dosage |
+Table 1 provides dosage recommendations for patients with renal impairment, based on estimated glomerular filtration rate (eGFR).
+
+Table 1: Recommended Dosage in Patients with Renal Impairment
+
+| Estimated Glomerular Filtration Rate [eGFR (mL/min/1.73 m 2)] | Recommended Dosage |
 | --- | --- |
-| eGFR 60 or greater | 100 mg orally once daily, taken before the first meal of the day. Dose can be increased to 300 mg once daily for additional glycemic control. |
-| eGFR 30 to less than 60 | 100 mg once daily. |
-| eGFR less than 30 | Initiation is not recommended, however patients with albuminuria greater than 300 mg/day may continue 100 mg once daily to reduce the risk of ESKD, doubling of serum creatinine, CV death, and hospitalization for heart failure [see Indications and Usage (1), Use in Specific Populations (8.6)]. |
-| On dialysis | Contraindicated [see Contraindications (4)]. |
+| eGFR 30 to less than 60 | The maximum recommended dosage is100 mg orally once daily. |
+| eGFR less than 30 | Initiation is not recommendedPatients taking INVOKANA with albuminuria greater than 300 mg/day may continue INVOKANA 100 mg once daily to reduce the risk of ESKD, doubling of serum creatinine, CV death, and hospitalization for heart failure [see Indications and Usage (1)and Use in Specific Populations (8.6)]. |
 
-## 2.3 Concomitant Use with UDP-Glucuronosyl Transferase (UGT) Enzyme Inducers
+## 2.4 Concomitant Use with UDP-Glucuronosyl transferase (UGT) Enzyme Inducers
 
-Patients with eGFR 60 mL/min/1.73 m2 or greater
+When co-administering INVOKANA with an inducer of UGT (e.g., rifampin, phenytoin, phenobarbital, ritonavir), increase the dosage of INVOKANA based on renal function [see Drug Interactions (7)]:
 
-If an inducer of UGTs (e.g., rifampin, phenytoin, phenobarbital, ritonavir) is co-administered with INVOKANA, increase the dose to 200 mg (taken as two 100 mg tablets) once daily in patients currently tolerating INVOKANA 100 mg.
-The dose may be increased to 300 mg once daily in patients currently tolerating INVOKANA 200 mg and who require additional glycemic control [see Drug Interactions (7)].
+- In patients with eGFR 60 mL/min/1.73 m 2or greater, increase the dosage to 200 mg orally once daily in patients currently tolerating INVOKANA 100 mg once daily.
+  The maximum recommended dosage of INVOKANA is 300 mg once daily.
+- In patients with eGFR less than 60 mL/min/1.73 m 2, increase to a maximum recommended dosage of 200 mg orally once daily in patients currently tolerating INVOKANA 100 mg once daily.
 
-Patients with eGFR less than 60 mL/min/1.73 m2
+## 2.5 Temporary Interruption for Surgery
 
-If an inducer of UGTs (e.g., rifampin, phenytoin, phenobarbital, ritonavir) is co-administered with INVOKANA, increase the dose to 200 mg (taken as two 100 mg tablets) once daily in patients currently tolerating INVOKANA 100 mg.
-Consider adding another antihyperglycemic agent in patients who require additional glycemic control.
+Withhold INVOKANA at least 3 days, if possible, prior to major surgery or procedures associated with prolonged fasting.
+Resume INVOKANA when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.1)and Clinical Pharmacology (12.2)].

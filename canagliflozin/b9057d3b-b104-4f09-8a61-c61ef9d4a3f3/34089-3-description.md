@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
-INVOKANA® (canagliflozin) contains canagliflozin, an inhibitor of sodium-glucose co-transporter 2 (SGLT2), the transporter responsible for reabsorbing the majority of glucose filtered by the kidney.
-Canagliflozin, the active ingredient of INVOKANA, is chemically known as (1S)-1,5-anhydro-1-[3-[[5-(4-fluorophenyl)-2-thienyl]methyl]-4-methylphenyl]-D-glucitol hemihydrate and its molecular formula and weight are C24H25FO5S∙1/2 H2O and 453.53, respectively.
+INVOKANA ®(canagliflozin) contains canagliflozin, an inhibitor of SGLT2, the transporter responsible for reabsorbing the majority of glucose filtered by the kidney.
+Canagliflozin, the active ingredient of INVOKANA, is chemically known as (1 S)-1,5-anhydro-1-[3-[[5-(4-fluorophenyl)-2-thienyl]methyl]-4-methylphenyl]-D-glucitol hemihydrate and its molecular formula and weight are C 24H 25FO 5S∙1/2 H 2O and 453.53, respectively.
 The structural formula for canagliflozin is:
 
 Canagliflozin is practically insoluble in aqueous media from pH 1.1 to 12.9.

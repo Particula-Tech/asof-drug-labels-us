@@ -18,8 +18,8 @@ Clinical trials have not demonstrated carbohydrate malabsorption in humans at ca
 Mutagenesis
 
 Canagliflozin was not mutagenic with or without metabolic activation in the Ames assay.
-Canagliflozin was mutagenic in the in vitro mouse lymphoma assay with but not without metabolic activation.
-Canagliflozin was not mutagenic or clastogenic in an in vivo oral micronucleus assay in rats and an in vivo oral Comet assay in rats.
+Canagliflozin was mutagenic in the in vitromouse lymphoma assay with but not without metabolic activation.
+Canagliflozin was not mutagenic or clastogenic in an in vivooral micronucleus assay in rats and an in vivooral Comet assay in rats.
 
 Impairment of Fertility
 

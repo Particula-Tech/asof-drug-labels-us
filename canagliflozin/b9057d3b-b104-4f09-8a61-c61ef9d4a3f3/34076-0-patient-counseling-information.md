@@ -2,17 +2,21 @@
 
 See FDA-approved patient labeling (Medication Guide).
 
+Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis
+
+Inform patients that INVOKANA can cause potentially fatal ketoacidosis and that type 2 diabetes mellitus and pancreatic disorders (e.g., history of pancreatitis or pancreatic surgery) are risk factors.
+
+Educate all patients on precipitating factors (such as infection, reduced caloric intake, ketogenic diet, surgery, insulin dose reduction, dehydration, and alcohol abuse) and symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing).
+Inform patients that blood glucose may be normal even in the presence of ketoacidosis.
+
+Advise patients that they may be asked to monitor ketones.
+If symptoms of ketoacidosis occur, instruct patients to discontinue INVOKANA and seek medical attention immediately [see Warnings and Precautions (5.1)].
+
 Lower Limb Amputation
 
 Inform patients that INVOKANA is associated with an increased risk of amputations.
 Counsel patients about the importance of routine preventative foot care.
-Instruct patients to monitor for new pain or tenderness, sores or ulcers, or infections involving the leg or foot and to seek medical advice immediately if such signs or symptoms develop [see Warnings and Precautions (5.1)].
-
-Ketoacidosis
-
-Inform patients that ketoacidosis is a serious life-threatening condition and that cases of ketoacidosis have been reported during use of INVOKANA, sometimes associated with illness or surgery among other risk factors.
-Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
-If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue INVOKANA and seek medical attention immediately [see Warnings and Precautions (5.2)].
+Instruct patients to monitor for new pain or tenderness, sores or ulcers, or infections involving the leg or foot and to seek medical advice immediately if such signs or symptoms develop [see Warnings and Precautions (5.2)].
 
 Volume Depletion
 

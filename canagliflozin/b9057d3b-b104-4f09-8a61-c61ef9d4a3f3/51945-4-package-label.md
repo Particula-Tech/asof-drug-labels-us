@@ -2,7 +2,7 @@
 
 NDC 50458-140-90
 
-Invokana® (canagliflozin) tablets
+Invokana ® (canagliflozin) tablets
 
 100 mg
 
@@ -16,7 +16,7 @@ Rx only
 
 NDC 50458-141-90
 
-Invokana® (canagliflozin) tablets
+Invokana ® (canagliflozin) tablets
 
 300 mg
 

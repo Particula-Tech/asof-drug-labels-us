@@ -8,8 +8,7 @@ INVOKANA (canagliflozin) is indicated:
 
 Limitations of Use
 
-INVOKANA is not recommended in patients with type 1 diabetes mellitus.
-It may increase the risk of diabetic ketoacidosis in these patients [see Warnings and Precautions (5.2)].
+INVOKANA is not recommended for use to improve glycemic control in patients with type 1 diabetes mellitus [see Warnings and Precautions (5.1)].
 
-INVOKANA is not recommended for use to improve glycemic control in adults with type 2 diabetes mellitus with an eGFR less than 30 mL/min/1.73 m2.
+INVOKANA is not recommended for use to improve glycemic control in adults with type 2 diabetes mellitus with an eGFR less than 30 mL/min/1.73 m 2.
 INVOKANA is likely to be ineffective in this setting based upon its mechanism of action.

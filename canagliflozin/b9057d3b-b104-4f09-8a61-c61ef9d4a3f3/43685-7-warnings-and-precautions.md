@@ -1,8 +1,34 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Lower Limb Amputation
+## 5.1 Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis
 
-An increased risk of lower limb amputations associated with INVOKANA use versus placebo was observed in CANVAS (5.9 vs 2.8 events per 1000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1000 patient-years), two randomized, placebo-controlled trials evaluating patients with type 2 diabetes who had either established cardiovascular disease or were at risk for cardiovascular disease.
+In patients with type 1 diabetes mellitus, INVOKANA significantly increases the risk of diabetic ketoacidosis, a life-threatening event, beyond the background rate.
+In placebo-controlled trials of patients with type 1 diabetes mellitus, the risk of ketoacidosis was markedly increased in patients who received sodium glucose transporter 2 (SGLT2) inhibitors compared to patients who received placebo; this risk may be greater with higher doses of INVOKANA.
+INVOKANA is not indicated for glycemic control in patients with type 1 diabetes mellitus.
+
+Type 2 diabetes mellitus and pancreatic disorders (e.g., history of pancreatitis or pancreatic surgery) are also risk factors for ketoacidosis.
+There have been postmarketing reports of fatal events of ketoacidosis in patients with type 2 diabetes mellitus using SGLT2 inhibitors, including INVOKANA.
+
+Precipitating conditions for diabetic ketoacidosis or other ketoacidosis include acute febrile illness, reduced caloric intake, ketogenic diet, surgery, insulin dose reduction, volume depletion, and alcohol abuse.
+
+Signs and symptoms are consistent with dehydration and severe metabolic acidosis and include nausea, vomiting, abdominal pain, generalized malaise, and shortness of breath.
+Blood glucose levels at presentation may be below those typically expected for diabetic ketoacidosis (e.g., less than 250 mg/dL).
+Ketoacidosis and glucosuria may persist longer than typically expected.
+Urinary glucose excretion persists for 3 days after discontinuing INVOKANA [see Clinical Pharmacology (12.2)]; however, there have been postmarketing reports of ketoacidosis and glucosuria lasting greater than 6 days and some up to 2 weeks after discontinuation of SGLT2 inhibitors.
+
+Consider ketone monitoring in patients at risk for ketoacidosis if indicated by the clinical situation.
+Assess for ketoacidosis regardless of presenting blood glucose levels in patients who present with signs and symptoms consistent with severe metabolic acidosis.
+If ketoacidosis is suspected, discontinue INVOKANA, promptly evaluate, and treat ketoacidosis, if confirmed.
+Monitor patients for resolution of ketoacidosis before restarting INVOKANA.
+
+Withhold INVOKANA, if possible, in temporary clinical situations that could predispose patients to ketoacidosis.
+Resume INVOKANA when the patient is clinically stable and has resumed oral intake [see Dosage and Administration (2.5)].
+
+Educate all patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue INVOKANA and seek medical attention immediately if signs and symptoms occur.
+
+## 5.2 Lower Limb Amputation
+
+An increased risk of lower limb amputations associated with INVOKANA use versus placebo was observed in CANVAS (5.9 vs 2.8 events per 1000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1000 patient-years), two randomized, placebo-controlled trials evaluating patients with type 2 diabetes mellitus who had either established cardiovascular disease or were at risk for cardiovascular disease.
 The risk of lower limb amputations was observed at both the 100 mg and 300 mg once daily dosage regimens.
 The amputation data for CANVAS and CANVAS-R are shown in Tables 3 and 4, respectively [see Adverse Reactions (6.1)].
 
@@ -16,43 +42,18 @@ Before initiating INVOKANA, consider factors in the patient history that may pre
 Counsel patients about the importance of routine preventative foot care.
 Monitor patients receiving INVOKANA for signs and symptoms of infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and discontinue INVOKANA if these complications occur.
 
-## 5.2 Ketoacidosis
-
-Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in clinical trials and postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors, including INVOKANA.
-In placebo-controlled trials of patients with type 1 diabetes, the risk of ketoacidosis was increased in patients who received SGLT2 inhibitors compared to patients who received placebo.
-The risk of ketoacidosis may be greater with higher doses.
-Fatal cases of ketoacidosis have been reported in patients taking INVOKANA.
-INVOKANA is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1)].
-
-Patients treated with INVOKANA who present with signs and symptoms consistent with severe metabolic acidosis should be assessed for ketoacidosis regardless of presenting blood glucose levels, as ketoacidosis associated with INVOKANA may be present even if blood glucose levels are less than 250 mg/dL.
-If ketoacidosis is suspected, INVOKANA should be discontinued, patient should be evaluated, and prompt treatment should be instituted.
-Treatment of ketoacidosis may require insulin, fluid and carbohydrate replacement.
-
-In many of the postmarketing reports, and particularly in patients with type 1 diabetes, the presence of ketoacidosis was not immediately recognized and institution of treatment was delayed because presenting blood glucose levels were below those typically expected for diabetic ketoacidosis (often less than 250 mg/dL).
-Signs and symptoms at presentation were consistent with dehydration and severe metabolic acidosis and included nausea, vomiting, abdominal pain, generalized malaise, and shortness of breath.
-In some but not all cases, factors predisposing to ketoacidosis such as insulin dose reduction, acute febrile illness, reduced caloric intake, surgery, pancreatic disorders suggesting insulin deficiency (e.g., type 1 diabetes, history of pancreatitis or pancreatic surgery), and alcohol abuse were identified.
-
-Before initiating INVOKANA, consider factors in the patient history that may predispose to ketoacidosis including pancreatic insulin deficiency from any cause, caloric restriction, and alcohol abuse.
-
-For patients who undergo scheduled surgery, consider temporarily discontinuing INVOKANA for at least 3 days prior to surgery [see Clinical Pharmacology (12.2, 12.3)].
-
-Consider monitoring for ketoacidosis and temporarily discontinuing INVOKANA in other clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or post-surgery).
-Ensure risk factors for ketoacidosis are resolved prior to restarting INVOKANA.
-
-Educate patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue INVOKANA and seek medical attention immediately if signs and symptoms occur.
-
 ## 5.3 Volume Depletion
 
 INVOKANA can cause intravascular volume contraction which may sometimes manifest as symptomatic hypotension or acute transient changes in creatinine [see Adverse Reactions (6.1)].
 There have been post-marketing reports of acute kidney injury which are likely related to volume depletion, some requiring hospitalizations and dialysis, in patients with type 2 diabetes mellitus receiving SGLT2 inhibitors, including INVOKANA.
-Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2), elderly patients, or patients on loop diuretics may be at increased risk for volume depletion or hypotension.
+Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m 2), elderly patients, or patients on loop diuretics may be at increased risk for volume depletion or hypotension.
 Before initiating INVOKANA in patients with one or more of these characteristics, assess and correct volume status.
 Monitor for signs and symptoms of volume depletion after initiating therapy.
 
 ## 5.4 Urosepsis and Pyelonephritis
 
-There have been postmarketing reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving SGLT2 inhibitors, including INVOKANA.
-Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
+There have been postmarketing reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving INVOKANA.
+Treatment with INVOKANA increases the risk for urinary tract infections.
 Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
 
 ## 5.5 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
@@ -81,7 +82,7 @@ Monitor and treat appropriately.
 
 Hypersensitivity reactions, including angioedema and anaphylaxis, have been reported with INVOKANA.
 These reactions generally occurred within hours to days after initiating INVOKANA.
-If hypersensitivity reactions occur, discontinue use of INVOKANA; treat and monitor until signs and symptoms resolve [see Contraindications (4) and Adverse Reactions (6.1, 6.2)].
+If hypersensitivity reactions occur, discontinue use of INVOKANA; treat and monitor until signs and symptoms resolve [see Contraindications (4)and Adverse Reactions (6.1, 6.2)].
 
 ## 5.9 Bone Fracture
 
