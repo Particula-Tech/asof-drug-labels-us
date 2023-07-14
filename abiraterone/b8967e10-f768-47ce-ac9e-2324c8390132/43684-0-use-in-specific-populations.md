@@ -63,4 +63,4 @@ For patients who develop hepatotoxicity during treatment, interruption of treatm
 
 ## 8.7 Renal Impairment
 
-No dosage modification is receommended for patients with renal impairment [see Clinical Pharmacology (12.3)].
+No dosage modification is recommended for patients with renal impairment [see Clinical Pharmacology (12.3)].

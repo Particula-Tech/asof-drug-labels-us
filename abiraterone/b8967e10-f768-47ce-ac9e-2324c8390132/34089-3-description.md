@@ -3,7 +3,7 @@
 Abiraterone acetate, the active ingredient of YONSA tablet is the acetyl ester of abiraterone.
 Abiraterone is an inhibitor of CYP17 (17α-hydroxylase/C17,20-lyase).
 Each YONSA Tablet contains 125 mg of abiraterone acetate.
-Abiraterone acetate is designated chemically as (3β)17-(3-pyridinyl) androsta-5,16-dien-3-yl acetate and its structure is:
+Abiraterone acetate is designated chemically as (3β)-17-(3-pyridinyl) androsta-5,16-dien-3-yl acetate and its structure is:
 
 Abiraterone acetate is micronized (smaller particle size) white to off-white, non-hygroscopic, crystalline powder.
 Its molecular formula is C26H33NO2 and it has a molecular weight of 391.55.

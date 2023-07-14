@@ -22,7 +22,7 @@ The most common laboratory abnormalities (>20%) reported in the two randomized c
 Study 1: Metastatic CRPC Following Chemotherapy
 
 Study 1 enrolled 1195 patients with metastatic CRPC who had received prior docetaxel chemotherapy.
-Patients were not eligible if AST and/or ALT ≥ 2.5 X ULN in the absence of liver metastases.
+Patients were not eligible if AST and/or ALT ≥ 2.5X ULN in the absence of liver metastases.
 Patients with liver metastases were excluded if AST and/or ALT > 5X ULN.
 
 Table 1 shows adverse reactions on the abiraterone acetate arm in Study 1 that occurred with a ≥2% absolute increase in frequency compared to placebo or were events of special interest.

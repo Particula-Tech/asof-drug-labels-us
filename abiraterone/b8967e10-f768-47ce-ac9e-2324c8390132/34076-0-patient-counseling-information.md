@@ -51,7 +51,7 @@ Infertility
 
 Manufactured for:
 
-Sun Pharma Global FZE
+Sun Pharmaceutical Industries Limited
 
 Distributed by:
 
@@ -59,10 +59,14 @@ Sun Pharmaceutical Industries, Inc.
 
 Cranbury, NJ 08512
 
-YONSA is a registered trademark of Sun Pharma Global FZE
+U.S. Patent Nos. 8,808,751, 9,889,144 and 10,292,990
 
-© 2022 Sun Pharma Global, FZE
+YONSA is a registered trademark of Sun Pharmaceutical Industries Limited
+
+© 2022 Sun Pharmaceutical Industries Limited
 
 All rights reserved.
 
-uspi-YONSA-tab-00004
+Revised: 2022 July
+
+uspi-YONSA-tab-00005
