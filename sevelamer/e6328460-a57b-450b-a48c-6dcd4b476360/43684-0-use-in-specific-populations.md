@@ -21,7 +21,7 @@ In pregnant rats given dietary doses of 0.5, 1.5, or 4.5 g/kg/day of sevelamer h
 
 Risk Summary
 
-Renvela is not absorbed systemically by the mother following oral administration, and breastfeeding is not expected to result in exposure of the child to Renvela.
+Renvela is not absorbed systemically by the mother following oral administration, andbreastfeeding is not expected to result in exposure of the child to Renvela.
 
 Clinical Considerations
 
