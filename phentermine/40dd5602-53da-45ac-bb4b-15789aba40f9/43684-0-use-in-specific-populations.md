@@ -5,8 +5,8 @@
 Risk Summary
 
 QSYMIA is contraindicated in pregnant patients.
-The use of QSYMIA can cause fetal harm and weight loss offers no clear clinical benefit to a pregnant patient (see Clinical Considerations).
-Available data from a pregnancy registry and epidemiologic studies indicate an increased risk in oral clefts (cleft lip with or without cleft palate) with first trimester exposure to topiramate, a component of QSYMIA (see Data).
+The use of QSYMIA can cause fetal harm, and weight loss offers no clear clinical benefit to a pregnant patient (see Clinical Considerations).
+Available data from pregnancy registries and epidemiologic studies indicate an increased risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being SGA in infants exposed in uteroto topiramate (see Data).
 When phentermine and topiramate were co-administered to rats at doses of 3.75 and 25 mg/kg, respectively [approximately 2 times the maximum recommended human dose (MRHD) based on area under the curve (AUC)], or at the same dose to rabbits (approximately 0.1 times and 1 time, respectively, the clinical exposures at the MRHD based on AUC), there were no drug-related malformations.
 However, structural malformations, including craniofacial defects and reduced fetal weights occurred in offspring of multiple species of pregnant animals administered topiramate at clinically relevant doses (see Data).
 Advise pregnant women of the potential risk to a fetus.
@@ -15,9 +15,9 @@ Clinical Considerations
 
 Disease Associated Maternal and/or Embryo/Fetal Risk
 
-Maternal obesity increases the risk for congenital malformations, including neural tube defects, cardiac malformations, oral clefts, and limb reduction defects.
-In addition, weight loss during pregnancy may result in fetal harm.
+Weight loss during pregnancy may result in fetal harm.
 Appropriate weight gain based on pre-pregnancy weight is currently recommended for all pregnant patients, including those who are already overweight or obese, due to the obligatory weight gain that occurs in maternal tissues during pregnancy.
+Maternal obesity increases the risk for congenital malformations, including neural tube defects, cardiac malformations, oral clefts, and limb reduction defects.
 
 Fetal/Neonatal Adverse Reactions
 
@@ -28,10 +28,30 @@ Data
 
 Human Data
 
-Data evaluating the risk of major congenital malformations and oral clefts with topiramate (a component of QSYMIA) exposure during pregnancy is available from the North American Antiepileptic Drug (NAAED) Pregnancy Registry and from several larger retrospective epidemiologic studies.
-The NAAED Pregnancy Registry suggested an estimated increase in risk for oral clefts of 9.60 (95% CI 3.60 - 25.70).
+Data evaluating the risk of major congenital malformations, oral clefts, and being SGA with topiramate exposure during pregnancy is available from the North American Antiepileptic Drug (NAAED) Pregnancy Registry and from several larger retrospective epidemiologic studies.
+
+Major Congenital Malformations
+
+The NAAED Pregnancy Registry indicates an increased risk of major congenital malformations, including but not limited to oral clefts in infants exposed to topiramate during the first trimester of pregnancy.
+Other than oral clefts, no specific pattern of major congenital malformations or grouping of major congenital malformation types were observed.
+In the NAAED pregnancy registry, when topiramate-exposed infants with only oral clefts were excluded, the prevalence of major congenital malformations (4.1%) was higher than that in infants exposed to a reference antiepileptic drug (AED) (1.8%) or in infants with mothers without epilepsy and without exposure to AEDs (1.1%).
+
+Oral Clefts
+
+In the NAAED Pregnancy Registry, the prevalence of oral clefts among topiramate-exposed infants (1.4%) was higher than the prevalence in infants exposed to a reference AED (0.3%) or the prevalence in infants with mothers without epilepsy and without exposure to AEDs (0.11%).
+It was also higher than the background prevalence in United States (0.17%) as estimated by the Centers for Disease Control and Prevention (CDC).
+The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 12.5 (95% Confidence Interval [CI] 5.9-26.37) as compared to the risk in a background population of untreated women.
+The UK Epilepsy and Pregnancy Register reported a prevalence of oral clefts among infants exposed to topiramate monotherapy (3.2%) that was 16 times higher than the background rate in the UK (0.2%).
+
 Larger retrospective epidemiology studies showed that topiramate monotherapy exposure in pregnancy is associated with an approximately two to five-fold increased risk of oral clefts.
 The FORTRESS study found an excess risk of 1.5 (95% CI = -1.1 to 4.1) oral cleft cases per 1,000 infants exposed to topiramate during the first trimester.
+
+Small for Gestational Age
+
+Data from the NAAED Pregnancy Registry and population-based birth registry cohort indicate that exposure to topiramate in utero is associated with an increased risk of SGA newborns (birth weight <10 thpercentile).
+In the NAAED Pregnancy Registry, 19.7% of topiramate-exposed newborns were SGA compared to 7.9% of newborns exposed to a reference AED and 5.4% of newborns of mothers without epilepsy and without AED exposure.
+In the medical Birth Registry of Norway, a population-based pregnancy registry, 25% of newborns in the topiramate monotherapy exposure group were SGA compared to 9% in the comparison group unexposed to AEDs.
+The long-term consequences of the SGA findings are not known.
 
 Animal Data
 
@@ -58,14 +78,14 @@ Topiramate
 Topiramate causes developmental toxicity, including teratogenicity, at clinically relevant doses in multiple animal species.
 
 Developmental toxicity, including teratogenicity, occurred at clinically relevant doses in multiple animal species in which topiramate was administered during the period of organogenesis (GD 6 – 15 in rodents, GD 6 – 18 in rabbits.
-In these studies, fetal malformations (primarily craniofacial defects such as cleft palate), limb malformations (ectrodactyly, micromelia, and amelia), rib/vertebral column anomalies, and/or reduced fetal weights were observed at dosages ≥ 20 mg/kg in mice (approximately 2 times the MRHD of topiramate in QSYMIA 15 mg/92 mg on a mg/m 2 basis), 20 mg/kg in rats (2 times the MRHD of QSYMIA based on estimated AUC), and 35 mg/kg in rabbits (2 times the MRHD based on estimated AUC).
+In these studies, fetal malformations (primarily craniofacial defects such as cleft palate), limb malformations (ectrodactyly, micromelia, and amelia), rib/vertebral column anomalies, and/or reduced fetal weights were observed at dosages ≥ 20 mg/kg in mice (approximately 2 times the MRHD of topiramate in QSYMIA 15 mg/92 mg on a mg/m 2basis), 20 mg/kg in rats (2 times the MRHD of QSYMIA based on estimated AUC), and 35 mg/kg in rabbits (2 times the MRHD based on estimated AUC).
 When rats were administered topiramate from GD 15 through lactation day 20, reductions in pre- and/or post-weaning weights occurred at dosages ≥ 2 mg/kg (2 times the MRHD of QSYMIA based on estimated AUC).
 
 ## 8.2 Lactation
 
 Risk Summary
 
-Topiramate and phentermine, components of QSYMIA, are present in human milk.
+Topiramate and phentermine are present in human milk.
 There are no data on the effects of topiramate and phentermine on milk production.
 Diarrhea and somnolence have been reported in breastfed infants with maternal use of topiramate.
 There are no data on the effects of phentermine in breastfed infants.
@@ -90,7 +110,7 @@ Advise patients not to discontinue taking their COC and to contact their healthc
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of QSYMIA as an adjunct to a reduced-calorie diet and increased physical activity for chronic weight management in pediatric patients aged 12 years and older with a BMI in the 95th percentile or greater standardized for age and sex have been established.
-Use of QSYMIA for this indication is supported by a 56-week, double-blind, placebo-controlled study in 223 pediatric patients aged 12 years and above, a pharmacokinetic study in pediatric patients, and studies in adults with obesity [see Clinical Pharmacology (12.3) and Clinical Studies (14)].
+Use of QSYMIA for this indication is supported by a 56-week, double-blind, placebo-controlled study in 223 pediatric patients aged 12 years and above, a pharmacokinetic study in pediatric patients, and studies in adults with obesity [see Clinical Pharmacology (12.3)and Clinical Studies (14)].
 
 In a pediatric clinical trial, there was one episode of serious suicidal ideation in a QSYMIA-treated patient requiring hospitalization and pharmacologic treatment [see Warnings and Precautions (5.3)]; more patients treated with QSYMIA versus placebo reported adverse reactions related to mood (e.g., depression, anxiety) and sleep disorders (e.g., insomnia) [see Warnings and Precautions (5.5)].
 Increases in bone mineral density and linear growth were attenuated in QSYMIA- versus placebo-treated patients [see Warnings and Precautions (5.7)].
@@ -114,7 +134,7 @@ The recommended dosage of QSYMIA in patients with mild renal impairment (CrCl gr
 In patients with moderate (CrCl greater than or equal to 30 to less than 50 mL/min) and severe (CrCl less than 30 mL/min) renal impairment, the maximum recommended dosage is QSYMIA 7.5 mg/46 mg once daily.
 
 QSYMIA has not been studied in patients with end-stage renal disease on dialysis.
-Avoid QSYMIA in this patient population [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+Avoid QSYMIA in this patient population [see Dosage and Administration (2.5)and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
@@ -126,4 +146,4 @@ The recommended dosage of QSYMIA in patients with mild hepatic impairment (Child
 In patients with moderate hepatic impairment, the maximum recommended dosage is QSYMIA 7.5 mg/46 mg once daily.
 
 QSYMIA has not been studied in patients with severe hepatic impairment (Child-Pugh score 10 - 15).
-Avoid QSYMIA in this patient population [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
+Avoid QSYMIA in this patient population [see Dosage and Administration (2.6)and Clinical Pharmacology (12.3)].

@@ -14,7 +14,7 @@ A BMI conversion table based on height [inches (in) or centimeters (cm)] and wei
 Pediatric Patients Aged 12 Years and Older
 
 Select pediatric patients for QSYMIA treatment based on BMI percentile [see Indications and Usage (1)].
-See Table 2 for BMI percentiles by age and sex for pediatric patients aged 12 years and older.
+See Table 2for BMI percentiles by age and sex for pediatric patients aged 12 years and older.
 
 Table 2.
 BMI Percentiles by Age and Sex for Pediatric Patients Aged 12 Years and Older
@@ -40,7 +40,7 @@ BMI Percentiles by Age and Sex for Pediatric Patients Aged 12 Years and Older
 Prior to QSYMIA initiation and during treatment with QSYMIA, the following is recommended:
 
 - Obtain a negative pregnancy test before initiating QSYMIA in patients who can become pregnant and monthly during QSYMIA therapy.
-  QSYMIA is contraindicated during pregnancy [see Contraindications (4), Warnings and Precautions (5.1) and Use in Specific Populations (8.3)].
+  QSYMIA is contraindicated during pregnancy [see Contraindications (4), Warnings and Precautions (5.1)and Use in Specific Populations (8.3)].
 - Obtain a blood chemistry profile that includes bicarbonate, creatinine, and potassium in all patients, and glucose in patients with type 2 diabetes on antidiabetic medication prior to initiating QSYMIA treatment and periodically during treatment [Warnings and Precautions (5.8, 5.9, 5.10, 5.15)].
 
 ## 2.3 Recommended Dosage and Administration
@@ -59,7 +59,7 @@ The recommended dosage, titration, and administration of QSYMIA are as follows:
 
 ## 2.4 Discontinuation of QSYMIA 15 mg/92 mg
 
-Discontinue QSYMIA 15 mg/92 mg gradually by taking QSYMIA 15 mg/92 mg once daily every other day for at least 1 week prior to stopping treatment altogether, due to the possibility of precipitating a seizure [see Warnings and Precautions (5.12) and Drug Abuse and Dependence (9.3)].
+Discontinue QSYMIA 15 mg/92 mg gradually by taking QSYMIA 15 mg/92 mg once daily every other day for at least 1 week prior to stopping treatment altogether, due to the possibility of precipitating a seizure [see Warnings and Precautions (5.12)and Drug Abuse and Dependence (9.3)].
 
 ## 2.5 Recommended Dosage in Patients with Renal Impairment
 

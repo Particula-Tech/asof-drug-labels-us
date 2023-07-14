@@ -3,7 +3,8 @@
 ## 5.1 Embryo-Fetal Toxicity
 
 QSYMIA can cause fetal harm.
-Data from a pregnancy registry and epidemiologic studies indicate that a fetus exposed to topiramate in the first trimester of pregnancy has an increased risk of oral clefts (cleft lip with or without cleft palate).
+Data from pregnancy registries and epidemiologic studies indicate that a fetus exposed to topiramate in the first trimester of pregnancy has an increased risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being small for gestational age (SGA).
+When multiple species of pregnant animals received topiramate at clinically relevant doses, structural malformations, including craniofacial defects, and reduced fetal weights occurred in offspring.
 A negative pregnancy test is recommended before initiating QSYMIA treatment in patients who can become pregnant and monthly during QSYMIA therapy.
 Advise patients who can become pregnant of the potential risk to a fetus and to use effective contraception during QSYMIA therapy [see Use in Specific Populations (8.1, 8.3)].
 
@@ -54,8 +55,8 @@ Ophthalmologic findings can include myopia, mydriasis, anterior chamber shallowi
 This syndrome may be associated with supraciliary effusion resulting in anterior displacement of the lens and iris, with secondary angle closure glaucoma.
 Symptoms typically occur within 1 month of initiating treatment with topiramate but may occur at any time during therapy.
 In contrast to primary narrow angle glaucoma, which is rare under 40 years of age, secondary angle closure glaucoma associated with topiramate has been reported in pediatric patients as well as adults.
-The primary treatment to reverse symptoms is discontinuation of QSYMIA as rapidly as possible [see Warnings and Precautions (5.12)].
-Elevated intraocular pressure of any etiology, if left untreated, can lead to serious adverse reactions including permanent loss of vision.
+The primary treatment to reverse symptoms is discontinuation of QSYMIA as rapidly as possible in consultation with the treating physician.
+Elevated intraocular pressure of any etiology, if left untreated, can lead to serious sequelae including permanent loss of vision.
 
 Visual Field Defects
 
@@ -133,7 +134,7 @@ If a patient develops symptoms associated with low blood pressure after starting
 
 Abrupt withdrawal of topiramate has been associated with seizures in individuals without a history of seizures or epilepsy.
 In situations where immediate termination of QSYMIA is medically required, appropriate monitoring is recommended.
-Patients discontinuing QSYMIA 15 mg/92 mg should be gradually tapered to reduce the possibility of precipitating a seizure [see Dosage and Administration (2.4) and Drug Abuse and Dependence (9.3)].
+Patients discontinuing QSYMIA 15 mg/92 mg should be gradually tapered to reduce the possibility of precipitating a seizure [see Dosage and Administration (2.4)and Drug Abuse and Dependence (9.3)].
 
 ## 5.13 Kidney Stones
 

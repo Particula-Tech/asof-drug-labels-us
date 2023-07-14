@@ -9,7 +9,7 @@ The following data are based on findings in studies performed individually with 
 
 Phentermine
 
-Phentermine was not mutagenic or clastogenic with or without metabolic activation in the Ames bacterial mutagenicity assay, a chromosomal aberration test in Chinese hamster lung (CHL-K1) cells, or an in vivo micronucleus assay.
+Phentermine was not mutagenic or clastogenic with or without metabolic activation in the Ames bacterial mutagenicity assay, a chromosomal aberration test in Chinese hamster lung (CHL-K1) cells, or an in vivomicronucleus assay.
 
 Rats were administered oral doses of 3, 10, and 30 mg/kg/day phentermine for 2 years.
 There was no evidence of carcinogenicity at the highest dose of phentermine (30 mg/kg) which is approximately 11 to 15 times the maximum recommended clinical dose of QSYMIA 15 mg/92 mg based on AUC exposure.
@@ -18,8 +18,8 @@ No animal studies have been conducted with phentermine to determine the potentia
 
 Topiramate
 
-Topiramate did not demonstrate genotoxic potential when tested in a battery of in vitro and in vivo assays.
-Topiramate was not mutagenic in the Ames test or the in vitro mouse lymphoma assay; it did not increase unscheduled DNA synthesis in rat hepatocytes in vitro; and it did not increase chromosomal aberrations in human lymphocytes in vitro or in rat bone marrow in vivo.
+Topiramate did not demonstrate genotoxic potential when tested in a battery of in vitroand in vivoassays.
+Topiramate was not mutagenic in the Ames test or the in vitromouse lymphoma assay; it did not increase unscheduled DNA synthesis in rat hepatocytes in vitro; and it did not increase chromosomal aberrations in human lymphocytes in vitroor in rat bone marrow in vivo.
 
 An increase in urinary bladder tumors was observed in mice given topiramate (20, 75, and 300 mg/kg) in the diet for 21 months.
 The elevated bladder tumor incidence, which was statistically significant in males and females receiving 300 mg/kg, was primarily due to the increased occurrence of a smooth muscle tumor considered histomorphologically unique to mice.

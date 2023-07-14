@@ -14,7 +14,7 @@ Patients with type 2 diabetes were excluded from participating in Study 1.
 During the study, a well-balanced, reduced-calorie diet to result in an approximate 500 kcal/day decrease in caloric intake was recommended to all patients and patients were offered nutritional and lifestyle modification counseling.
 
 In Study 2, patients with overweight or obesity were randomized to receive 1 year of treatment with placebo (N=994), QSYMIA 7.5 mg/46 mg (N=498), or QSYMIA 15 mg/92 mg (N=995) in a 2:1:2 ratio.
-Eligible patients had to have a BMI greater than or equal to 27 kg/m 2 and less than or equal to 45 kg/m 2 (there was no lower limit on BMI for patients with type 2 diabetes) and two or more of the following obesity-related co-morbid conditions:
+Eligible patients had to have a BMI greater than or equal to 27 kg/m 2and less than or equal to 45 kg/m 2(there was no lower limit on BMI for patients with type 2 diabetes) and two or more of the following obesity-related co-morbid conditions:
 
 - Elevated blood pressure (greater than or equal to 140/90 mmHg, or greater than or equal to 130/85 mmHg for diabetics) or requirement for greater than or equal to 2 antihypertensive medications;
 - Triglycerides greater than 200-400 mg/dL or were receiving treatment with 2 or more lipid-lowering agents;
@@ -31,7 +31,7 @@ During the study, a well-balanced, reduced-calorie diet to result in an approxim
 The percentage of randomized patients who withdrew from each study prior to week 56 was 40% in Study 1, and 31% in Study 2.
 
 Table 11 provides the results for weight loss at 1 year in Studies 1 and 2.
-After 1 year of treatment with QSYMIA, all dose levels resulted in statistically significant weight loss compared to placebo (see Table 11, Figure 1 and Figure 2).
+After 1 year of treatment with QSYMIA, all dose levels resulted in statistically significant weight loss compared to placebo (see Table 11, Figure 1and Figure 2).
 A statistically significant greater proportion of the patients randomized to QSYMIA than placebo achieved 5% and 10% weight loss.
 
 Table 11.
@@ -59,7 +59,7 @@ The changes in cardiovascular, metabolic, and anthropometric risk factors associ
 One year of therapy with QSYMIA resulted in relative improvement over placebo in several risk factors associated with obesity with the exception of heart rate [see Warnings and Precautions (5.2)].
 
 Table 12.
-Least-Squares (LS) Mean Study 1 adjusted for baseline bodyweight Change from Baseline and Treatment Difference from Placebo in Cardiometabolic Parameters in Adults Following One Year of Treatment in Study 1 (Obesity)
+Least-Squares (LS) Mean Study 1 adjusted for baseline bodyweightChange from Baseline and Treatment Difference from Placebo in Cardiometabolic Parameters in Adults Following One Year of Treatment in Study 1 (Obesity)
 
 | QSYMIA 3.75 mg/23 mg | QSYMIA 15 mg/92 mg |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -94,7 +94,7 @@ Least-Squares (LS) Mean Study 1 adjusted for baseline bodyweight Change from Bas
 | SD=standard deviation; SE=standard error |  |  |  |  |  |
 
 Table 13.
-Least-Squares (LS) Mean Study 2 adjusted for baseline bodyweight and diabetic status Change from Baseline and Treatment Difference from Placebo in Cardiometabolic Parameters in Adults Following One Year of Treatment in Study 2 (Obese or Overweight with Comorbidities)
+Least-Squares (LS) Mean Study 2 adjusted for baseline bodyweight and diabetic statusChange from Baseline and Treatment Difference from Placebo in Cardiometabolic Parameters in Adults Following One Year of Treatment in Study 2 (Obese or Overweight with Comorbidities)
 
 | QSYMIA 7.5 mg/46 mg | QSYMIA 15 mg/92 mg |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -135,12 +135,12 @@ Among the 388 subjects with type 2 diabetes treated in Study 2, reductions in Hb
 
 Clinical Studies in Pediatric Patients Aged 12 Years and Older
 
-The effect of QSYMIA on BMI in conjunction with reduced caloric intake and increased physical activity was evaluated in Study 3 (NCT 03922945), a 56-week, randomized, double-blind, placebo-controlled study in pediatric patients (12 to 17 years of age) with BMI ≥ 95 th percentile standardized by age and sex.
+The effect of QSYMIA on BMI in conjunction with reduced caloric intake and increased physical activity was evaluated in Study 3 (NCT 03922945), a 56-week, randomized, double-blind, placebo-controlled study in pediatric patients (12 to 17 years of age) with BMI ≥ 95 thpercentile standardized by age and sex.
 Patients were randomized to receive treatment with placebo (N=56), QSYMIA 7.5 mg/46 mg (N=54), or QSYMIA 15 mg/92 mg (N=113) in a 1:1:2 ratio.
 During the study, a well-balanced, reduced-calorie diet to result in an approximate 500 kcal/day decrease in caloric intake was recommended to all patients and patients were offered a family-based lifestyle modification program for adolescents.
 
 Patients' mean age was 14 years old, approximately 55% were female, 67% were Caucasian, 26% were African American, and 33% were Hispanic/Latino.
-At the beginning of the study, the average weight and BMI of patients was 106 kg and 38 kg/m 2, respectively, with approximately 81% considered severely obese (120% of the 95 th percentile or greater for BMI standardized by age and sex).
+At the beginning of the study, the average weight and BMI of patients was 106 kg and 38 kg/m 2, respectively, with approximately 81% considered severely obese (120% of the 95 thpercentile or greater for BMI standardized by age and sex).
 Thirty-eight (38%) of randomized patients withdrew from the study prior to week 56.
 
 The primary efficacy parameter was mean percent change in BMI.
@@ -185,10 +185,10 @@ Change from Baseline and Treatment Difference from Placebo in Cardiometabolic Pa
 | Baseline mean (SD) | 71.7 (8.3) | 75.8 (6.7) | 72.9 (7.3) | -3.2 | -2.2 |
 | LS Mean Change (SE) | +3.4 (1.5) | +0.2 (1.3) | +1.2 (1.0) |  |  |
 | Total Cholesterol, mg/dL |  |  |  |  |  |
-| Baseline mean (SD) | 164.9 (30.9) | 160.6 (26.1) | 159.3 (32.7) | -1.4 | -1.2 |
+| Baseline mean (SD) | 164.9 (30.9) | 160.6 (26.1) | 159.4 (32.7) | -1.4 | -1.2 |
 | Mean % Change (SD) | -1.8 (10.7) | -3.2 (13.1) | -3.0 (14.5) |  |  |
 | LDL-Cholesterol, mg/dL |  |  |  |  |  |
-| Baseline mean (SD) | 94.1 (26.8) | 89.4 (23.7) | 90.2 (27.3) | -3.9 | -2.1 |
+| Baseline mean (SD) | 94.1 (26.8) | 89.4 (23.7) | 90.2 (27.3) | -3.9 | -2.5 |
 | Mean % Change (SD) | 0.2 (23.3) | -3.7 (15.5) | -2.3 (21.6) |  |  |
 | HDL-Cholesterol, mg/dL |  |  |  |  |  |
 | Baseline mean (SD) | 47.2 (9.7) | 47.2 (8.9) | 46.7 (10.1) | 6.4 | 5.0 |

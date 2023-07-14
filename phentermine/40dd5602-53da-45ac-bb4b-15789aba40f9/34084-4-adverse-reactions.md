@@ -2,7 +2,7 @@
 
 The following important adverse reactions are described elsewhere in the labeling:
 
-- Embryo-Fetal Toxicity [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1, 8.6)]
+- Embryo-Fetal Toxicity [see Warnings and Precautions (5.1)and Use in Specific Populations (8.1, 8.6)]
 - Increase in Heart Rate [see Warnings and Precautions (5.2)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.3)]
 - Risk of Ophthalmologic Adverse Reactions [see Warnings and Precautions (5.4)]
@@ -215,28 +215,28 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 QSYMIA
 
-Psychiatric: suicidal ideation, suicidal behavior
+Psychiatric:suicidal ideation, suicidal behavior
 
-Ophthalmic: acute angle closure glaucoma, increased intraocular pressure
+Ophthalmic:acute angle closure glaucoma, increased intraocular pressure
 
 Phentermine
 
-Allergic Reactions: urticaria
+Allergic Reactions:urticaria
 
-Cardiovascular: elevation of blood pressure, ischemic events
+Cardiovascular:elevation of blood pressure, ischemic events
 
-Central Nervous System: euphoria, psychosis, tremor
+Central Nervous System:euphoria, psychosis, tremor
 
-Reproductive: changes in libido, impotence
+Reproductive:changes in libido, impotence
 
 Topiramate
 
-Dermatologic: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis), pemphigus
+Dermatologic:bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis), pemphigus
 
-Gastrointestinal: pancreatitis
+Gastrointestinal:pancreatitis
 
-Hepatic: hepatic failure (including fatalities), hepatitis
+Hepatic:hepatic failure (including fatalities), hepatitis
 
-Metabolic: hyperammonemia with or without encephalopathy has been reported with concomitant valproic acid [see Drug Interactions (7)], hypothermia
+Metabolic:hyperammonemia with or without encephalopathy has been reported with concomitant valproic acid [see Drug Interactions (7)], hypothermia
 
-Ophthalmic: maculopathy
+Ophthalmic:maculopathy

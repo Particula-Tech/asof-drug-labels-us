@@ -33,17 +33,17 @@ Absorption
 
 Phentermine
 
-Upon oral administration of a single QSYMIA 15 mg/92 mg, the resulting mean plasma phentermine maximum concentration (C max), time to C max (T max), area under the concentration curve from time zero to the last time with measurable concentration (AUC 0-t), and area under the concentration curve from time zero to infinity (AUC 0-∞) are 49.1 ng/mL, 6 hr, 1990 ng∙hr/mL, and 2000 ng∙hr/mL, respectively.
+Upon oral administration of a single QSYMIA 15 mg/92 mg, the resulting mean plasma phentermine maximum concentration (C max), time to C max(T max), area under the concentration curve from time zero to the last time with measurable concentration (AUC 0-t), and area under the concentration curve from time zero to infinity (AUC 0-∞) are 49.1 ng/mL, 6 hr, 1990 ng∙hr/mL, and 2000 ng∙hr/mL, respectively.
 A high fat meal does not affect phentermine pharmacokinetics for QSYMIA 15 mg/92 mg.
 Phentermine pharmacokinetics are approximately dose-proportional from QSYMIA 3.75 mg/23 mg to phentermine 15 mg/topiramate 100 mg.
-Upon dosing phentermine 15 mg/topiramate 100 mg fixed dose combination capsule to steady state, the mean phentermine accumulation ratios for AUC and C max are both approximately 2.5.
+Upon dosing phentermine 15 mg/topiramate 100 mg fixed dose combination capsule to steady state, the mean phentermine accumulation ratios for AUC and C maxare both approximately 2.5.
 
 Topiramate
 
 Upon oral administration of a single QSYMIA 15 mg/92 mg, the resulting mean plasma topiramate C max, T max, AUC 0-t, and AUC 0-∞, are 1020 ng/mL, 9 hr, 61600 ng∙hr/mL, and 68000 ng∙hr/mL, respectively.
 A high fat meal does not affect topiramate pharmacokinetics for QSYMIA 15 mg/92 mg.
 Topiramate pharmacokinetics are approximately dose-proportional from QSYMIA 3.75 mg/23 mg to phentermine 15 mg/topiramate 100 mg.
-Upon dosing phentermine 15 mg/topiramate 100 mg fixed dose combination capsule to steady state, the mean topiramate accumulation ratios for AUC and C max are both approximately 4.0.
+Upon dosing phentermine 15 mg/topiramate 100 mg fixed dose combination capsule to steady state, the mean topiramate accumulation ratios for AUC and C maxare both approximately 4.0.
 
 Distribution
 
@@ -87,9 +87,9 @@ A single-dose, open-label study was conducted to evaluate the pharmacokinetics o
 The study included patients with renal impairment classified on the basis of creatinine clearance as mild (greater or equal to 50 and less than 80 mL/min), moderate (greater than or equal to 30 and less than 50 mL/min), and severe (less than 30 mL/min).
 Creatinine clearance was estimated from serum creatinine based on the Cockcroft-Gault equation.
 
-Compared to healthy volunteers, phentermine AUC 0-inf was 91%, 45%, and 22% higher in patients with severe, moderate, and mild renal impairment, respectively; phentermine C max was 2% to 15% higher.
-Compared to healthy volunteers, topiramate AUC 0-inf was 126%, 85%, and 25% higher for patients with severe, moderate, and mild renal impairment, respectively; topiramate C max was 6% to 17% higher.
-An inverse relationship between phentermine or topiramate C max or AUC and creatinine clearance was observed.
+Compared to healthy volunteers, phentermine AUC 0-infwas 91%, 45%, and 22% higher in patients with severe, moderate, and mild renal impairment, respectively; phentermine C maxwas 2% to 15% higher.
+Compared to healthy volunteers, topiramate AUC 0-infwas 126%, 85%, and 25% higher for patients with severe, moderate, and mild renal impairment, respectively; topiramate C maxwas 6% to 17% higher.
+An inverse relationship between phentermine or topiramate C maxor AUC and creatinine clearance was observed.
 
 QSYMIA has not been studied in patients with end-stage renal disease on dialysis [see Dosage and Administration (2.5), and Use in Specific Populations (8.6)].
 
@@ -185,28 +185,28 @@ The clinical relevance of this observation has not been established.
 Hydrochlorothiazide
 
 A drug-drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of hydrochlorothiazide (HCTZ) (25 mg q24h) and topiramate (96 mg q12h) when administered alone and concomitantly.
-The results of this study indicate that topiramate C max increased by 27% and AUC increased by 29% when HCTZ was added to topiramate.
+The results of this study indicate that topiramate C maxincreased by 27% and AUC increased by 29% when HCTZ was added to topiramate.
 The clinical significance of this change is unknown.
 The steady-state pharmacokinetics of HCTZ were not significantly influenced by the concomitant administration of topiramate.
-Clinical laboratory results indicated decreases in serum potassium after topiramate or HCTZ administration, which were greater when HCTZ and topiramate were administered in combination [see Drug Interactions (7) and Warnings and Precautions (5.15)].
+Clinical laboratory results indicated decreases in serum potassium after topiramate or HCTZ administration, which were greater when HCTZ and topiramate were administered in combination [see Drug Interactions (7)and Warnings and Precautions (5.15)].
 
 Pioglitazone
 
 A drug-drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of topiramate (96 mg twice daily) and pioglitazone (30 mg daily) when administered alone and concomitantly for 7 days.
 A 15% decrease in the area under the concentration-time curve during a dosage interval at steady state (AUC τ,ss) of pioglitazone with no alteration in maximum steady-state plasma drug concentration during a dosage interval (C max,ss) was observed.
 This finding was not statistically significant.
-In addition, a 13% and 16% decrease in C max,ss and AUC τ,ss respectively, of the active hydroxy-metabolite was noted as well as a 60% decrease in C max,ss and AUC τ,ss of the active keto-metabolite [see Drug Interactions (7)].
+In addition, a 13% and 16% decrease in C max,ssand AUC τ,ssrespectively, of the active hydroxy-metabolite was noted as well as a 60% decrease in C max,ssand AUC τ,ssof the active keto-metabolite [see Drug Interactions (7)].
 
 Glyburide
 
 A drug-drug interaction study conducted in patients with type 2 diabetes evaluated the steady-state pharmacokinetics of glyburide (5 mg/day) alone and concomitantly with topiramate (150 mg/day).
-There was a 22% decrease in C max and a 25% reduction in AUC 24 for glyburide during topiramate administration.
-Systemic exposure (AUC) of the active metabolites, 4- trans-hydroxyglyburide (M1), and 3- cis-hydroxyglyburide (M2), was reduced by 13% and 15%, and C max was reduced by 18% and 25%, respectively.
+There was a 22% decrease in C maxand a 25% reduction in AUC 24for glyburide during topiramate administration.
+Systemic exposure (AUC) of the active metabolites, 4- trans-hydroxyglyburide (M1), and 3- cis-hydroxyglyburide (M2), was reduced by 13% and 15%, and C maxwas reduced by 18% and 25%, respectively.
 The steady-state pharmacokinetics of topiramate were unaffected by concomitant administration of glyburide.
 
 Lithium
 
-In patients, the pharmacokinetics of lithium were unaffected during treatment with topiramate at doses of 200 mg/day; however, there was an observed increase in systemic exposure of lithium (27% for C max and 26% for AUC) following topiramate doses up to 600 mg/day.
+In patients, the pharmacokinetics of lithium were unaffected during treatment with topiramate at doses of 200 mg/day; however, there was an observed increase in systemic exposure of lithium (27% for C maxand 26% for AUC) following topiramate doses up to 600 mg/day.
 
 Haloperidol
 
@@ -214,7 +214,7 @@ The pharmacokinetics of a single dose of haloperidol (5 mg) were not affected fo
 
 Amitriptyline
 
-There was a 12% increase in AUC and C max for amitriptyline (25 mg per day) in 18 normal subjects (9 males, 9 females) receiving 200 mg/day of topiramate [see Drug Interactions (7)].
+There was a 12% increase in AUC and C maxfor amitriptyline (25 mg per day) in 18 normal subjects (9 males, 9 females) receiving 200 mg/day of topiramate [see Drug Interactions (7)].
 
 Sumatriptan
 
@@ -224,7 +224,7 @@ Risperidone
 
 When administered concomitantly with topiramate at escalating doses of 100, 250, and 400 mg/day, there was a reduction in risperidone systemic exposure (16% and 33% for steady-state AUC at the 250 and 400 mg/day doses of topiramate).
 No alterations of 9-hydroxyrisperidone levels were observed.
-Co-administration of topiramate 400 mg/day with risperidone resulted in a 14% increase in C max and a 12% increase in AUC 12 of topiramate.
+Co-administration of topiramate 400 mg/day with risperidone resulted in a 14% increase in C maxand a 12% increase in AUC 12of topiramate.
 There were no clinically significant changes in the systemic exposure of risperidone plus 9-hydroxyrisperidone or of topiramate; therefore, this interaction is not likely to be of clinical significance.
 
 Propranolol
@@ -239,8 +239,8 @@ Similarly, a 1 mg subcutaneous dose of dihydroergotamine did not affect the phar
 
 Diltiazem
 
-Co-administration of diltiazem (240 mg Cardizem CD ®) with topiramate (150 mg/day) resulted in a 10% decrease in C max and a 25% decrease in diltiazem AUC, a 27% decrease in C max and an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
-Co-administration of topiramate with diltiazem resulted in a 16% increase in C max and a 19% increase in AUC 12 of topiramate.
+Co-administration of diltiazem (240 mg Cardizem CD ®) with topiramate (150 mg/day) resulted in a 10% decrease in C maxand a 25% decrease in diltiazem AUC, a 27% decrease in C maxand an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
+Co-administration of topiramate with diltiazem resulted in a 16% increase in C maxand a 19% increase in AUC 12of topiramate.
 
 Venlafaxine
 

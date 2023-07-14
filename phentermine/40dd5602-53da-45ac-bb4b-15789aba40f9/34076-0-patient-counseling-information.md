@@ -27,12 +27,12 @@ Advise patients to report palpitations or feelings of a racing heartbeat while a
 Suicidal Behavior and Ideation and Mood and Sleep Disorders
 
 Inform patients that QSYMIA can increase the risk of mood changes, sleep disorders, depression, and suicidal ideation.
-Advise patients to tell their healthcare provider(s) immediately if mood changes, depression, or suicidal ideation occur [see Warnings and Precautions (5.3, 5.5)].
+Advise patients to tell their healthcare provider(s) immediately if mood changes, depression, or suicidal ideation occur [see Warnings and Precautions (5.3,5.5)].
 
 Ophthalmologic Adverse Reactions
 
 Inform patients that QSYMIA can increase the risk of acute myopia, secondary angle closure glaucoma, and visual field defects.
-Advise patients to report symptoms of severe and persistent eye pain or significant changes in their vision to their healthcare provider(s) [see Warnings and Precautions (5.4)].
+Advise patients to immediately report symptoms of severe and persistent eye pain or significant changes in their vision to their healthcare provider(s) [see Warnings and Precautions (5.4)].
 
 Cognitive Impairment
 
@@ -65,23 +65,23 @@ Advise patients to report symptoms of hypotension (e.g., dizziness, lightheadedn
 
 Risk of Seizures with Abrupt Withdrawal of QSYMIA
 
-Inform patients that abrupt withdrawal of topiramate, a component of QSYMIA, has been associated with seizures in individuals without a history of seizures or epilepsy.
+Inform patients that abrupt withdrawal of topiramate has been associated with seizures in individuals without a history of seizures or epilepsy.
 Advise patients not to abruptly stop QSYMIA without first talking to their healthcare provider(s) [see Dosage and Administration (2.4), Warnings and Precautions (5.12)].
 
 Kidney Stones
 
 Inform patients that use of QSYMIA has been associated with kidney stone formation.
 Advise patients to increase fluid intake to increase urinary output which can decrease the concentration of substances involved in kidney stone formation.
-Advise patients to report symptoms of severe side or back pain, and/or blood in their urine to their healthcare provider(s) [see Warnings and Precautions (5.13) and Adverse Reactions (6.1)].
+Advise patients to report symptoms of severe side or back pain, and/or blood in their urine to their healthcare provider(s) [see Warnings and Precautions (5.13)and Adverse Reactions (6.1)].
 
 Oligohidrosis and Hyperthermia
 
-Inform patients that oligohidrosis (decreased sweating) has been reported in association with the use of topiramate, a component of QSYMIA, particularly in pediatric patients.
+Inform patients that oligohidrosis (decreased sweating) has been reported in association with the use of topiramate particularly in pediatric patients.
 Advise patients to monitor for decreased sweating and increased body temperature during physical activity, especially in hot weather [see Warnings and Precautions (5.14)].
 
 Serious Skin Reactions
 
-Inform patients that serious skin reactions have been reported with use of topiramate, a component of QSYMIA.
+Inform patients that serious skin reactions have been reported with use of topiramate.
 Inform patients of the signs of serious skin reactions and advise patients to report signs of a skin reaction to their healthcare provider(s) [see Warning and Precautions (5.16)].
 
 Lactation

@@ -1,6 +1,6 @@
 Manufactured for VIVUS LLC by Catalent Pharma Solutions, LLC 1100 Enterprise Drive Winchester, KY 40391
 
-Copyright © 2012 - 2022 VIVUS LLC All rights reserved.
+Copyright © 2012 - 2023 VIVUS LLC All rights reserved.
 
 VIVUS LLC 900 E. Hamilton Ave., Suite 550 Campbell, CA 95008 USA
 
