@@ -10,7 +10,7 @@ Powder: Sevelamer carbonate for oral suspension is supplied as opaque, foil-line
 
 1 Box (NDC 0955-1052-90) of 90 ct 0.8 g packets (NDC 0955-1052-01)
 
-Storage: Store at 25°C (77°F): excursions permitted to 15°C–30°C (59°F–86°F).
+Storage:Store at 25°C (77°F): excursions permitted to 15°C–30°C (59°F–86°F).
 
 [See USP controlled room temperature]
 

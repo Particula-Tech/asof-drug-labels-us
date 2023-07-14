@@ -9,7 +9,7 @@ By binding phosphate in the gastrointestinal tract and decreasing absorption, se
 
 ## 12.2 Pharmacodynamics
 
-In addition to effects on serum phosphorus levels, sevelamer hydrochloride has been shown to bind bile acids in vitro and in vivo in experimental animal models.
+In addition to effects on serum phosphorus levels, sevelamer hydrochloride has been shown to bind bile acids in vitroand in vivoin experimental animal models.
 Because sevelamer binds bile acids, it may interfere with normal fat absorption and thus may reduce absorption of fat-soluble vitamins such as A, D and K. In clinical trials of sevelamer hydrochloride, both the mean total and LDL cholesterol declined by 15%–31%; the clinical significance of this finding, which was observed after 2 weeks, is unclear.
 Triglycerides, HDL cholesterol, and albumin did not change.
 
@@ -27,7 +27,7 @@ Sevelamer hydrochloride, which contains the same active moiety as sevelamer carb
 
 Coadministered single dose of 2.8 grams of sevelamer hydrochloride in fasted state decreased the bioavailability of ciprofloxacin by approximately 50% in healthy subjects.
 
-Concomitant administration of sevelamer and mycophenolate mofetil in adult and pediatric patients decreased the mean MPA Cmax and AUC0–12h by 36% and 26%, respectively.
+Concomitant administration of sevelamer and mycophenolate mofetil in adult and pediatric patients decreased the mean MPA C maxand AUC 0–12hby 36% and 26%, respectively.
 
 Sevelamer carbonate or sevelamer hydrochloride did not alter the pharmacokinetics of enalapril, digoxin, iron, metoprolol, and warfarin when coadministered.
 

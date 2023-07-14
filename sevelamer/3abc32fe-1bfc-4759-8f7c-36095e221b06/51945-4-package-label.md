@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 800 mg Bottle Label
 
-NDC 0955-1050-27 Rx only
+NDC0955-1050-27 Rx only
 
 Winthrop A SANOFI COMPANY
 
@@ -18,7 +18,7 @@ Winthrop A SANOFI COMPANY
 
 SANOFI
 
-NDC 0955-1052-90 Rx only
+NDC0955- 1052-90 Rx only
 
 Sevelamer Carbonate For Oral Suspension
 
@@ -34,7 +34,7 @@ Winthrop A SANOFI COMPANY
 
 SANOFI
 
-NDC 0955-1054-90 Rx only
+NDC0955- 1054-90 Rx only
 
 Sevelamer Carbonate For Oral Suspension
 

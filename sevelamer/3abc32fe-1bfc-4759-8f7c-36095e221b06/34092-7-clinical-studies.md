@@ -25,7 +25,7 @@ Average actual daily dose was 6.0 g/day divided among meals for sevelamer carbon
 
 A clinical study with sevelamer carbonate was conducted in 101 patients 6 to 18 years of age with chronic kidney disease.
 This study included a washout period for patients on a phosphate binder, a 2-week, double-blind, fixed-dose period (FDP) in which patients were randomized to sevelamer carbonate (n=50) or placebo (n=51), and a 26-week, open-label, sevelamer carbonate dose titration period (DTP).
-Most patients were 13 to 18 years of age (73%) and had a BSA ≥1.2 m2 (84%).
+Most patients were 13 to 18 years of age (73%) and had a BSA ≥1.2 m 2(84%).
 Approximately 78% of patients were CKD patients on dialysis.
 
 Sevelamer carbonate significantly reduced serum phosphorus through Week 2 (primary endpoint) by an LS Mean difference of -0.90 (SE 0.27) mg/dL compared to placebo (p=0.001).
@@ -54,7 +54,7 @@ Table 6: Mean Serum Phosphorus (mg/dL) at Baseline and Endpoint
 | --- | --- | --- |
 | Baseline at End of Washout | 8.4 | 8.0 |
 | Endpoint | 6.4 | 5.9 |
-| Change from Baseline at Endpoint (95% Confidence Interval) | -2.0p<0.0001, within treatment group comparison (-2.5, -1.5) | -2.1 (-2.6, -1.7) |
+| Change from Baseline at Endpoint (95% Confidence Interval) | -2.0 p<0.0001, within treatment group comparison (-2.5, -1.5) | -2.1 (-2.6, -1.7) |
 
 The distribution of responses is shown in Figure 3.
 The distributions are similar for sevelamer hydrochloride and active control.
