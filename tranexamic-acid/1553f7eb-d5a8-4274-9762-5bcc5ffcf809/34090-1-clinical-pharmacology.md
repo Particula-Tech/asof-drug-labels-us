@@ -9,14 +9,14 @@ The antifibrinolytic effects of tranexamic acid are mediated by reversible inter
 Native human plasminogen contains 4 to 5 lysine binding sites with low affinity for tranexamic acid (Kd = 750 μmol/L) and 1 with high affinity (Kd = 1.1 μmol/L).
 The high affinity lysine site of plasminogen is involved in its binding to fibrin.
 Saturation of the high affinity binding site with tranexamic acid displaces plasminogen from the surface of fibrin.
-Although plasm in may be formed by conformational changes in plasminogen, binding to and dissolution of the fibrin matrix is inhibited.
+Although plasmin may be formed by conformational changes in plasminogen, binding to and dissolution of the fibrin matrix is inhibited.
 
 ## 12.2 Pharmacodynamics
 
 Tranexamic acid, in concentrations of 1 mg/mL and 10 mg/mL prolongs the thrombin time.
-An an1ifibrinolytic concentration of tranexamic acid remains in different tissues for about 17 hours, and in the serum, up to 7 or 8 hours.
+An antifibrinolytic concentration of tranexamic acid remains in different tissues for about 17 hours, and in the serum, up to 7 or 8 hours.
 
-Tranexamic acid in concentrations up to 10 mg/mL blood has no influence on the platelet count, the coagulation lime or various coagulation factors in whole blood or citrated blood from healthy subjects.
+Tranexamic acid in concentrations up to 10 mg/mL blood has no influence on the platelet count, the coagulation time or various coagulation factors in whole blood or citrated blood from healthy subjects.
 
 ## 12.3 Pharmacokinetics
 
@@ -28,7 +28,7 @@ Tranexamic acid does not bind to serum albumin.
 
 ### Elimination
 
-After an intravenous dose of 1 g, the plasma concentration lime curve shows a triexponential decay with a half-life of about 2 hours for the terminal elimination phase.
+After an intravenous dose of 1 g, the plasma concentration time curve shows a triexponential decay with a half-life of about 2 hours for the terminal elimination phase.
 
 Excretion
 
@@ -40,7 +40,7 @@ Excretion of tranexamic acid is about 90% at 24 hours after intravenous administ
 
 Patients with Renal Impairment
 
-The blood levels of tranexamic acid are increased in patien1s with renal insufficiency.
+The blood levels of tranexamic acid are increased in patients with renal insufficiency.
 Urinary excretion following a single intravenous injection of tranexamic acid declines as renal function decreases.
 Following a single 10 mg/kg intravenous injection of tranexamic acid, the 24-hour urinary fractions of tranexamic acid with serum creatinine concentrations 1.4 - 2.8, 2.8 - 5.7, and greater than 5.7 mg/dL were 51, 39, and 19%, respectively.
 The 24-hour tranexamic acid plasma concentrations for these patients demonstrated a direct relationship to the degree of renal impairment.

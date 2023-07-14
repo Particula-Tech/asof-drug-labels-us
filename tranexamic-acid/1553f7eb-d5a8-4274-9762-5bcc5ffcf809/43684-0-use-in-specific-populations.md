@@ -49,7 +49,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 ### Contraception
 
 Concomitant use of Tranexamic Acid Injection, which is an antifibrinolytic, with hormonal contraceptives may increase the risk for thromboembolic adverse reactions.
-Advise patients to use an effective alternative (nonhormonal) contraceptive method [see Warnings and Precautions (5.5), Drug Interactions (7.1)].
+Advise patients to use an effective alternative (nonhormonal) contraceptive method [see Warnings and Precautions (5.1), Drug Interactions (7.1)].
 
 ## 8.4 Pediatric Use
 

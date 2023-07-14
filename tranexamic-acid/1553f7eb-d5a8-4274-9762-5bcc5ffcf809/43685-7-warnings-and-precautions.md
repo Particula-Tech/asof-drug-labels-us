@@ -6,7 +6,7 @@ Tranexamic Acid Injection is contraindicated in patients with active intravascul
 
 Tranexamic acid is an antifibrinolytic and may increase the risk of thromboembolic events.
 Venous and arterial thrombosis or thromboembolism has been reported in patients treated with Tranexamic Acid Injection.
-Avoid concomitant use of Tranexamic Acid Injection and medical products that are prothrombotic, as the risk of thrombosis may be increased.
+Avoid concomitant use of Tranexamic Acid Injection and medical products that are pro-thrombotic, as the risk of thrombosis may be increased.
 These medications include but are not limited to, Factor IX Complex concentrates, Anti-inhibitor Coagulant concentrates, and hormonal contraceptives [see Drug Interactions (7.1), Use in Specific Populations (8.3)].
 
 ## 5.2 Risk of Medication Errors Due to Incorrect Route of Administration

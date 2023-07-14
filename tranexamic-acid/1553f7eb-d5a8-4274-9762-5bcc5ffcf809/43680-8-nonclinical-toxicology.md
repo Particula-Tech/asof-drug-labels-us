@@ -14,6 +14,6 @@ Tranexamic acid had no effect on fertility or reproductive function of male or f
 Nonclinical studies have shown a retinal toxicity associated with tranexamic acid.
 Toxicity is characterized by retinal atrophy commencing with changes to the retinal pigmented epithelium and progressing to retinal detachment in cats.
 The toxicity appears to be dose related, and changes are partially reversible at lower doses.
-Effects were observed in dogs at oral doses of 800 mg/kg/day and higher (multiple of 11 times the maximum human dose based on body surface area), and in cats at 250 mg/kg/day for 14 days (multiple of 1.6 limes the maximum human dose based on body surface area).
+Effects were observed in dogs at oral doses of 800 mg/kg/day and higher (multiple of 11 times the maximum human dose based on body surface area), and in cats at 250 mg/kg/day for 14 days (multiple of 1.6 times the maximum human dose based on body surface area).
 Some fully reversible changes in pigmentation were observed in cats at doses of 125 mg/kg/day (multiple of 0.8 times the maximum human dose based on body surface area).
 Studies suggest that the underlying mechanism may be related to a transient retinal ischemia at high exposures, linked to the known sympathomimetic effect of high plasma exposures of tranexamic acid.
