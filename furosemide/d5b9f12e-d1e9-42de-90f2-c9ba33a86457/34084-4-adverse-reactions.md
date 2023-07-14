@@ -59,7 +59,7 @@ Dermatologic-Hypersensitivity Reactions
 Cardiovascular Reaction
 
 1. Orthostatic hypotension may occur and be aggravated by alcohol, barbiturates or narcotics.
-2. Increase in cholesterol and tryglyceride serum levels.
+2. Increase in cholesterol and triglyceride serum levels.
 
 Other Reactions
 

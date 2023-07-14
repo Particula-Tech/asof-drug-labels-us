@@ -2,7 +2,9 @@
 
 Furosemide Injection, USP (10 mg/mL)
 
-2 mL single-dose amber colored vials: NDC 70121-1163-1 25 vials in 1 carton: NDC 70121-1163-5
+2 mL single-dose amber colored vials: NDC 70121-1163-1
+
+25 vials in 1 carton: NDC 70121-1163-5
 
 4 mL single-dose amber colored vials: NDC 70121-1164-1
 
@@ -23,4 +25,4 @@ Ltd. Parenteral Unit Ahmedabad 382213, INDIA
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-05-2019-02
+06-2023-03

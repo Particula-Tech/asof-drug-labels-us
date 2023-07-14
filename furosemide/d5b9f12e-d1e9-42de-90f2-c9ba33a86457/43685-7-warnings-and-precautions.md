@@ -11,7 +11,9 @@ Cases of tinnitus and reversible or irreversible hearing impairment and deafness
 Reports usually indicate that furosemide ototoxicity is associated with rapid injection, severe renal impairment, the use of higher than recommended doses, hypoproteinemia or concomitant therapy with aminoglycoside antibiotics, ethacrynic acid, or other ototoxic drugs.
 If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4 mg furosemide per minute has been used) (see PRECAUTIONS, Drug Interactions).
 
-Pediatric Use: In premature neonates with respiratory distress syndrome, diuretic treatment with furosemide in the first few weeks of life may increase the risk of persistent patent ductus arteriosus (PDA), possibly through a prostaglandin-E-mediated process.
+## Pediatric Use:
+
+In premature neonates with respiratory distress syndrome, diuretic treatment with furosemide in the first few weeks of life may increase the risk of persistent patent ductus arteriosus (PDA), possibly through a prostaglandin-E-mediated process.
 
 Literature reports indicate that premature infants with post conceptual age (gestational plus postnatal) less than 31 weeks receiving doses exceeding 1 mg/kg/24 hours may develop plasma levels which could be associated with potential toxic effects including ototoxicity.
 
