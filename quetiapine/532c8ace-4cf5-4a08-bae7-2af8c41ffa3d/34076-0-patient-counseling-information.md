@@ -37,3 +37,5 @@ Effectiveness and safety of quetiapine have not been established in pediatric pa
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 The decision to prescribe atypical antipsychotic medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms [see Indications and Usage (1.3)].
 Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html
+
+Brands listed are the trademarks of their respective owners.

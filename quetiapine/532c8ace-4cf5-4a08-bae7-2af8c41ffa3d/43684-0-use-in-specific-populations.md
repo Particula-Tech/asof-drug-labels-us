@@ -83,7 +83,7 @@ The safety and effectiveness of quetiapine in the maintenance treatment of schiz
 Bipolar Mania The efficacy and safety of quetiapine in the treatment of mania in children and adolescents ages 10 to 17 years with bipolar I disorder was demonstrated in a 3-week, double-blind, placebo-controlled, multicenter trial [see Indications and Usage (1.2), Dosage and Administration (2.3), Adverse Reactions (6.1), and Clinical Studies (14.2)].
 Safety and effectiveness of quetiapine in pediatric patients less than 10 years of age with bipolar mania have not been established.
 Bipolar Depression Safety and effectiveness of quetiapine in pediatric patients less than 18 years of age with bipolar depression have not been established.
-A clinical trial with quetiapine extended-release tablets was conducted in children and adolescents (10 to 17 years of age) with bipolar depression, efficacy was not established.
+A clinical trial with SEROQUEL XR was conducted in children and adolescents (10 to 17 years of age) with bipolar depression, efficacy was not established.
 Some differences in the pharmacokinetics of quetiapine were noted between children/adolescents (10 to 17 years of age) and adults.
 When adjusted for weight, the AUC and Cmax of quetiapine were 41% and 39% lower, respectively, in children and adolescents compared to adults.
 The pharmacokinetics of the active metabolite, norquetiapine, were similar between children/adolescents and adults after adjusting for weight [see Clinical Pharmacology (12.3)].
