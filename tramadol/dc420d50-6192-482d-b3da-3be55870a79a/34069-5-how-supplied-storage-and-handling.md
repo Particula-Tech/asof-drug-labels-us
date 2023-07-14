@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Tramadol hydrochloride extended-release tablets are available as follows:
+Tramadol hydrochloride extended-release tablets, USP are available as follows:
 
 100 mg: White, round shape, biconvex, beveled edge, coated tablet with release portal on the center of the tablet on any one side, imprinted “531” with black ink on one side and plain on other side.
 
@@ -39,3 +39,5 @@ Dispense in a tight, light resistant container.
 Warning: keep out of reach of children.
 
 Store tramadol hydrochloride extended-release tablets securely and dispose of properly [see PRECAUTIONS/ Information for Patients].
+
+Dispense with Medication Guide available at: https://www.sunpharma.com/usa/products

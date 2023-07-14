@@ -188,4 +188,4 @@ No alteration of the tramadol hydrochloride extended-release tablets dosage regi
 
 Carbamazepine Carbamazepine, a CYP3A4 inducer, increases tramadol metabolism.
 Patients taking carbamazepine may have a significantly reduced analgesic effect of tramadol.
-Concomitant administration of tramadol hydrochloride extended-release tablets and carbamazepine is not recommended[see PRECAUTIONS].
+Concomitant administration of tramadol hydrochloride extended-release tablets and carbamazepine is not recommended [see PRECAUTIONS].

@@ -2,9 +2,9 @@
 
 Tramadol Hydrochloride (tram a dol hye droe klor ide)
 
-Extended-Release Tablets, C-IV
+Extended-Release Tablets, USP, C-IV
 
-Tramadol hydrochloride extended-release tablets are
+Tramadol hydrochloride extended-release tablets are:
 
 - A strong prescription pain medicine that contains an opioid (narcotic) that is used to manage severe and persistent pain that requires an extended treatment period with a daily opioid pain medicine, when other pain treatments such as non-opioid pain medicines or immediate-release opioid medicines do not treat your pain well enough or you cannot tolerate them.
 - A long-acting (extended-release) opioid pain medicine that can put you at risk for overdose and death.
@@ -37,7 +37,7 @@ Before taking tramadol hydrochloride extended-release tablets, tell your healthc
 
 - head injury, seizures ● liver, kidney, thyroid problems
 - problems urinating ● pancreas or gallbladder problems
-- abuse of street or prescription drugs, alcohol addiction, opioid overdose or mental health problems.
+- abuse of street or prescription drugs, alcohol addiction, opioid overdose, or mental health problems.
 
 Tell your healthcare provider if you:
 
@@ -88,6 +88,8 @@ These are not all the possible side effects of tramadol hydrochloride extended-r
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 For more information go to dailymed.nlm.nih.gov or call 1-800-818-4555
+
+Dispense with Medication Guide available at: https://www.sunpharma.com/usa/products
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

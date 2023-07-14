@@ -13,7 +13,7 @@ Assess each patient’s risk for opioid addiction, abuse, or misuse prior to pre
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as tramadol hydrochloride extended-release tablets, but use in such patients necessitates intensive counseling about the risks and proper use of tramadol hydrochloride extended-release tablets along with frequent reevaluation for signs of addiction, abuse, and misuse.
-Consider prescribing naloxone for the emergency treatment of opioid overdose [seeWARNINGS;Life-Threatening Respiratory Depression, DOSAGE and ADMINISTRATION; Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose].
+Consider prescribing naloxone for the emergency treatment of opioid overdose [see WARNINGS; Life-Threatening Respiratory Depression, DOSAGE and ADMINISTRATION; Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose].
 
 Abuse or misuse of tramadol hydrochloride extended-release tablets by cutting, breaking, chewing, crushing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of tramadol and can result in overdose and death [see OVERDOSAGE].
 
@@ -36,7 +36,7 @@ Overestimating the tramadol hydrochloride extended-release tablets dosage when c
 
 Accidental ingestion of even one dose of tramadol hydrochloride extended-release tablets, especially by children, can result in respiratory depression and death due to an overdose of tramadol.
 
-Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [seePRECAUTIONS; Information for Patients].
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see PRECAUTIONS; Information for Patients].
 
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
@@ -46,7 +46,7 @@ Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
 Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with tramadol hydrochloride extended-release tablets.
 Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
-Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [seePRECAUTIONS; Information for Patients].
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see PRECAUTIONS; Information for Patients].
 
 Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of other CNS depressants, a history of opioid use disorder, or prior opioid overdose.
 The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
@@ -132,7 +132,7 @@ This may be associated with a decrease in efficacy, and in some patients, may re
 
 Follow patients receiving tramadol hydrochloride extended-release tablets and any CYP3A4 inhibitor or inducer for the risk for serious adverse events including seizures and serotonin syndrome, signs and symptoms that may reflect opioid toxicity and opioid withdrawal when tramadol hydrochloride extended-release tablets are used in conjunction with inhibitors and inducers of CYP3A4 [see PRECAUTIONS; Drug Interactions].
 
-CYP2D6 Genetic Variability: Ultra-rapid metabolizer
+CYP2D6 Genetic Variability: Ultra-Rapid Metabolizer
 
 Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (e.g., gene duplications denoted as *1/*1xN or *1/*2xN).
 The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 1 to 10% for Whites (European, North American), 3 to 4% for Blacks (African Americans), 1 to 2% for East Asians (Chinese, Japanese, Korean), and may be greater than 10% in certain racial/ethnic groups (i.e., Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto Rican).
@@ -178,7 +178,7 @@ Spontaneous postmarketing reports indicate that seizure risk is increased with d
 Concomitant use of tramadol hydrochloride increases the seizure risk in patients taking [see PRECAUTIONS; Drug Interactions]:
 
 - Selective serotonin reuptake inhibitors (SSRI antidepressants or anorectics),
-- Tricyclic antidepressants (TCAs), and other tricyclic compounds (e.g., cyclobenzaprine, promethazine, etc.), or
+- Tricyclic antidepressants (TCAs), and other tricyclic compounds (e.g., cyclobenzaprine, promethazine, etc.),
 - Other opioids.
 - Tramadol hydrochloride extended-release tablets Monoamine Oxidase (MAO) inhibitors [see WARNINGS; Use with MAO Inhibitors and Serotonin Re-uptake Inhibitors and PRECAUTIONS; Drug Interactions],
 - Neuroleptics, or
@@ -196,7 +196,7 @@ Suicide Risk
 
 Tell your patients not to exceed the recommended dose and to limit their intake of alcohol [see DOSAGE and ADMINISTRATION and WARNINGS].
 
-Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or Elderly, Cachectic, or Debilitated Patients
+Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
 The use of tramadol hydrochloride extended-release tablets in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
@@ -426,7 +426,7 @@ Increased tramadol exposure can result in increased or prolonged therapeutic eff
 
 After stopping a CYP2D6 inhibitor, as the effects of the inhibitor decline, the tramadol plasma concentration will decrease and the M1 plasma concentration will increase which could increase or prolong therapeutic effects but also increase adverse reactions related to opioid toxicity, and may cause potentially fatal respiratory depression [see CLINICAL PHARMACOLOGY].
 
-If concomitant use of a CYP2D6 inhibitor is necessary, follow patients closely for adverse reactions including opioid withdrawal, seizures, and serotonin syndrome.
+If concomitant use of a CYP2D6 inhibitor is necessary, follow patients closely for adverse reactions including opioid withdrawal, seizures and serotonin syndrome.
 
 If a CYP2D6 inhibitor is discontinued, consider lowering tramadol hydrochloride extended-release tablets dosage until stable drug effects are achieved.
 Evaluate patients at frequent intervals for adverse events including respiratory depression and sedation.
@@ -608,19 +608,21 @@ Clinical Considerations
 Monitor infants exposed to tramadol hydrochloride extended-release tablets through breast milk for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
 
-DataFollowing a single IV 100 mg dose of tramadol, the cumulative excretion in breast milk within 16 hours post dose was 100 mcg of tramadol (0.1% of the maternal dose) and 27 mcg of M1.
+Data
+
+Following a single IV 100 mg dose of tramadol, the cumulative excretion in breast milk within 16 hours post dose was 100 mcg of tramadol (0.1% of the maternal dose) and 27 mcg of M1.
 
 ## Pediatric Use
 
 The safety and effectiveness of tramadol hydrochloride extended-release tablets in pediatric patients have not been established.
-Life-threatening respiratory depression and death have occurred in children who received tramadol [seeWARNINGS].
+Life-threatening respiratory depression and death have occurred in children who received tramadol [see WARNINGS].
 In some of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and one of the children had evidence of being an ultra-rapid metabolizer of tramadol (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6 or high morphine concentrations).
 Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of tramadol.
 
 Because of the risk of life-threatening respiratory depression and death:
 
 - Tramadol hydrochloride extended-release tablets are contraindicated for all children younger than 12 years of age [see CONTRAINDICATIONS].
-- Tramadol hydrochloride extended-release tablets are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [seeCONTRAINDICATIONS].
+- Tramadol hydrochloride extended-release tablets are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see CONTRAINDICATIONS].
 - Avoid the use of tramadol hydrochloride extended-release tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
   Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
 

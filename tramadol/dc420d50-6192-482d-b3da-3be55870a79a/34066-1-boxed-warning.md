@@ -7,7 +7,7 @@ Because the use of tramadol hydrochloride extended-release tablets exposes patie
 Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression may occur with use of tramadol hydrochloride extended-release tablets, especially during initiation or following a dose increase.
-To reduce the risk of respiratory depression, proper dosing andtitration of tramadol hydrochloride extended-release tablets are essential [see Warnings].
+To reduce the risk of respiratory depression, proper dosing and titration of tramadol hydrochloride extended-release tablets are essential [see Warnings].
 
 Accidental Ingestion
 
@@ -21,7 +21,7 @@ Reserve concomitant prescribing of tramadol hydrochloride extended-release table
 Neonatal Opioid Withdrawal Syndrome
 
 If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life-threatening if not recognized and treated.
-Ensure that management by neonatology experts will be available at delivery [see WARNINGS].
+Ensure that management by neonatology experts will be available at delivery [see Warnings].
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS):
 
@@ -34,7 +34,7 @@ Some of the reported cases followed tonsillectomy and/or adenoidectomy; in at le
 Tramadol hydrochloride extended-release tablets are contraindicated in children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy [see CONTRAINDICATIONS].
 Avoid the use of tramadol hydrochloride extended-release tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol [see WARNINGS].
 
-Risks of Interactions with Drugs Affecting Cytochrome P450
+Interactions with Drugs Affecting Cytochrome P450 Isoenzymes
 
 The effects of concomitant use or discontinuation of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with tramadol hydrochloride are complex.
 Use of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with Tramadol Extended-Release Tablets requires careful consideration of the effects on the parent drug, tramadol, and the active metabolite, M1 [see WARNINGS, PRECAUTIONS; Drug Interactions].
