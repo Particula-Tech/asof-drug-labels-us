@@ -5,4 +5,4 @@ Discard unused portion.
 The vial stoppers are not made with natural rubber latex.
 For Product Inquiry, contact AuroMedics Pharma LLC at 1-866-850-2876.
 Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
-E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad – 500032 India Revised: December 2021
+E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad – 500032 India Revised: October 2021
