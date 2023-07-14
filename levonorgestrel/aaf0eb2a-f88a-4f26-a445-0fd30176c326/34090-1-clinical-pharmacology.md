@@ -1,28 +1,28 @@
-# 12CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## 12.1Mechanism of Action
+## 12.1 Mechanism of Action
 
 The local mechanism by which continuously released LNG provides contraception has not been conclusively demonstrated.
 Studies of LNG-releasing IUSs suggest several mechanisms for pregnancy prevention: prevention of fertilization due to the thickening of the cervical mucus, which inhibits sperm passage through the cervix, and inhibition of sperm mobility and function (capacitation), and alteration of the endometrium.
 
-## 12.2Pharmacodynamics
+## 12.2 Pharmacodynamics
 
 LILETTA has mainly local progestogenic effects in the uterine cavity which change the endometrium and may lead to alterations in the menstrual bleeding pattern [see Warnings and Precautions (5.8)].
 High local concentrations of LNG lead to morphological changes including stromal pseudo-decidualization, glandular atrophy, a leukocytic infiltration, and a decrease in glandular and stromal mitoses.
 
-In clinical trials with other LNG-releasing IUSs with an LNG release rate similar to LILETTA, approximately 45-75% of menstrual cycles were ovulatory.
+In clinical studies with other LNG-releasing IUSs with an LNG release rate similar to LILETTA, approximately 45-75% of menstrual cycles were ovulatory.
 
-## 12.3Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 Absorption
 
 Low doses of LNG are administered into the uterine cavity with the LILETTA intrauterine delivery system.
 The initial in vivo release rate is 20.4 mcg/day and decreases to 17.7 mcg/day at 1 year, 15.3 mcg/day at 2 years, 13.3 mcg/day at 3 years, 11.5 mcg/day at 4 years, 10.0 mcg/day at 5 years, 8.7 mcg/day at 6 years, 7.5 mcg/day at 7 years, and 6.5 mcg/day at 8 years.
 
-In the phase 3 clinical trial, systemic plasma LNG concentrations were assessed in a subset of participants through Month 30 and in all participants in the trial at Month 36 and after.
-Plasma LNG concentrations following insertion of LILETTA are shown in Table 5.
+In the clinical study on contraception, systemic plasma LNG concentrations were assessed in a subset of participants through Month 30 and in all participants in the study at Month 36 and after.
+Plasma LNG concentrations following insertion of LILETTA are shown in Table 7.
 
-Table 5: Plasma LNG Concentrations (mean ± SD, pg/mL) Following LILETTA Insertion
+Table 7: Plasma LNG Concentrations (mean ± SD, pg/mL) Following LILETTA Insertion
 
 | 7 Days (n=40) | 6 Months (n=36) | 12 Months (n=33) | 24 Months (n=30) | 36 Months (n=914) | 48 Months (n=793) | 60 Months (n=608) | 72 Months (n=243) | 84 Months (n=211) | 96 Months (n=142) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

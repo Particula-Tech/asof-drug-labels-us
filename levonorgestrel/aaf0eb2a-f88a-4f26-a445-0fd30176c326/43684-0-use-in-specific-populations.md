@@ -1,17 +1,18 @@
-# 8USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1Pregnancy
+## 8.1 Pregnancy
 
 Risk Summary
 
 LILETTA is contraindicated for use in pregnant patients and LILETTA may cause adverse pregnancy outcomes.
 If a patient becomes pregnant with LILETTA in place, there is an increased risk of miscarriage, sepsis, premature labor, and premature delivery.
 Published studies report no harmful effects on fetal development associated with long-term use of contraceptive doses of oral progestins in a pregnant patient.
+There have been isolated cases of virilization of the external genitalia of the female fetus following local exposure to LNG during pregnancy with an LNG IUS in place.
 Animal reproduction studies have not been conducted with LILETTA.
 
 The background risk in the U.S. general population of major birth defects is 2-4% and of miscarriage is 15-20% of clinically recognized pregnancies.
 
-## 8.2Lactation
+## 8.2 Lactation
 
 Risk Summary
 
@@ -33,13 +34,13 @@ Assess pregnancy status prior to inserting LILETTA, as recommended [see Dosage a
 
 Safety and effectiveness of LILETTA have been established in females of reproductive potential.
 The safety and effectiveness are expected to be the same for postpubertal females under the age of 16 as for users 16 years and older.
-The LILETTA clinical trial included 11 participants who were 16 to 17 years of age; no differences in safety or effectiveness were identified in these participants through 8 years of use of LILETTA.
+The LILETTA clinical study on contraception included 11 participants who were 16 to 17 years of age; no differences in safety or effectiveness were identified in these participants through 8 years of use of LILETTA.
 Use of this product is not indicated before menarche.
 
 ## 8.5 Geriatric Use
 
 LILETTA is not indicated in patients after menopause and has not been studied in this population.
 
-## 8.6Hepatic Impairment
+## 8.6 Hepatic Impairment
 
 No studies were conducted to evaluate the effect of hepatic disease on the disposition of LNG released from LILETTA [see Contraindications (4)].

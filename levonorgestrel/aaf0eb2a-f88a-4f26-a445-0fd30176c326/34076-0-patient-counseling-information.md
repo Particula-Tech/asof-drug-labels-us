@@ -1,4 +1,4 @@
-# 17PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Advise patients to read the FDA-approved patient labeling (Patient Information).
 
@@ -68,15 +68,17 @@ Advise patients to contact their healthcare professional if they experience any 
 
 Inform patients that LILETTA is compatible with MRI and should not interfere with imaging [see Warnings and Precautions (5.11)].
 
-LILETTA® and its design are registered trademarks of Odyssea Pharma SPRL, an Allergan affiliate.
+LILETTA and its design are trademarks of Odyssea Pharma SPRL, an AbbVie company.
 
-Manufactured by: Odyssea Pharma, SPRL, Belgium An affiliated company of Allergan USA, Inc.
+Medicines360 and its design are trademarks of Medicines360.
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612
+Manufactured by: Odyssea Pharma, SPRL, Belgium An affiliated company of AbbVie
 
-Marketed by: Allergan USA, Inc. Medicines360 Irvine, CA 92612 San Francisco, CA 94105
+Distributed by: AbbVie Inc. North Chicago, Illinois 60064
 
-© 2023 Allergan and Medicines360.
+Marketed by: AbbVie Inc. Medicines360 North Chicago, IL 60064 San Francisco, CA 94105
+
+©2023 AbbVie and Medicines360.
 All rights reserved.
 
-V2.0USPI5858
+V4.0USPI5858
