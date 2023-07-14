@@ -16,8 +16,9 @@ LEQEMBI can cause amyloid related imaging abnormalities -edema (ARIA-E) and -hem
 
 Monitoring for ARIA
 
-Obtain a recent (within one year) brain magnetic resonance imaging (MRI) prior to initiating treatment with LEQEMBI.
+Obtain a recent baseline brain magnetic resonance imaging (MRI) prior to initiating treatment with LEQEMBI.
 Obtain an MRI prior to the 5th, 7th, and 14th infusions.
+If a patient experiences symptoms suggestive of ARIA, clinical evaluation should be performed, including an MRI if indicated.
 
 Recommendations for Dosing Interruptions in Patients with ARIA
 
@@ -27,20 +28,20 @@ The recommendations for dosing interruptions for patients with ARIA-E are provid
 
 Table 1: Dosing Recommendations for Patients with ARIA-E
 
-| Clinical Symptom Severity1 | ARIA-E Severity on MRI |  |  |
+| Clinical Symptom Severity1 | ARIA-E Severity on MRI2 |  |  |
 | --- | --- | --- | --- |
 |  | Mild | Moderate | Severe |
-| Asymptomatic | May continue dosing | Suspend dosing2 | Suspend dosing2 |
-| Mild | May continue dosing based on clinical judgment | Suspend dosing2 |  |
-| Moderate or Severe | Suspend dosing2 |  |  |
+| Asymptomatic | May continue dosing | Suspend dosing3 | Suspend dosing3 |
+| Mild | May continue dosing based on clinical judgment | Suspend dosing3 |  |
+| Moderate or Severe | Suspend dosing3 |  |  |
 
-1 Mild: discomfort noticed, but no disruption of normal daily activity.
-
+1 Clinical Symptom Severity Categories: Mild: discomfort noticed, but no disruption of normal daily activity.
 Moderate: discomfort sufficient to reduce or affect normal daily activity.
-
 Severe: incapacitating, with inability to work or to perform normal daily activity.
 
-2 Suspend until MRI demonstrates radiographic resolution and symptoms, if present, resolve; consider a follow-up MRI to assess for resolution 2 to 4 months after initial identification.
+2 See Table 3 for MRI severity [Warnings and Precautions (5.1)].
+
+3 Suspend until MRI demonstrates radiographic resolution and symptoms, if present, resolve; consider a follow-up MRI to assess for resolution 2 to 4 months after initial identification.
 Resumption of dosing should be guided by clinical judgment.
 
 ARIA-H
@@ -49,18 +50,20 @@ The recommendations for dosing interruptions for patients with ARIA-H are provid
 
 Table 2: Dosing Recommendations for Patients with ARIA-H
 
-| Clinical Symptom Severity | ARIA-H Severity on MRI |  |  |
+| Clinical Symptom Severity | ARIA-H Severity on MRI1 |  |  |
 | --- | --- | --- | --- |
 |  | Mild | Moderate | Severe |
-| Asymptomatic | May continue dosing | Suspend dosing1 | Suspend dosing2 |
-| Symptomatic | Suspend dosing1 | Suspend dosing1 |  |
+| Asymptomatic | May continue dosing | Suspend dosing2 | Suspend dosing3 |
+| Symptomatic | Suspend dosing2 | Suspend dosing2 |  |
 
-1 Suspend until MRI demonstrates radiographic stabilization and symptoms, if present, resolve; resumption of dosing should be guided by clinical judgment; consider a follow-up MRI to assess for stabilization 2 to 4 months after initial identification.
+1 See Table 3 for MRI severity [Warnings and Precautions (5.1)].
 
-2 Suspend until MRI demonstrates radiographic stabilization and symptoms, if present, resolve; use clinical judgment in considering whether to continue treatment or permanently discontinue LEQEMBI.
+2 Suspend until MRI demonstrates radiographic stabilization and symptoms, if present, resolve; resumption of dosing should be guided by clinical judgment; consider a follow-up MRI to assess for stabilization 2 to 4 months after initial identification.
+
+3 Suspend until MRI demonstrates radiographic stabilization and symptoms, if present, resolve; use clinical judgment in considering whether to continue treatment or permanently discontinue LEQEMBI.
 
 In patients who develop intracerebral hemorrhage greater than 1 cm in diameter during treatment with LEQEMBI, suspend dosing until MRI demonstrates radiographic stabilization and symptoms, if present, resolve.
-Use clinical judgement in considering whether to continue treatment after radiographic stabilization and resolution of symptoms or permanently discontinue LEQEMBI.
+Use clinical judgment in considering whether to continue treatment after radiographic stabilization and resolution of symptoms or permanently discontinue LEQEMBI.
 
 ## 2.4 Dilution Instructions
 
@@ -74,7 +77,7 @@ Use clinical judgement in considering whether to continue treatment after radiog
 - Remove the flip-off cap from the vial.
   Insert the sterile syringe needle into the vial through the center of the rubber stopper.
 - Withdraw the required volume of LEQEMBI from the vial(s) and add to an infusion bag containing 250 mL of 0.9% Sodium Chloride Injection, USP.
-- Each vial is for one time-use only.
+- Each vial is for one-time use only.
   Discard any unused portion.
 - Gently invert the infusion bag containing the LEQEMBI diluted solution to mix completely.
   Do not shake.
@@ -91,4 +94,4 @@ Use clinical judgement in considering whether to continue treatment after radiog
   Flush infusion line to ensure all LEQEMBI is administered.
 - Monitor for any signs or symptoms of an infusion-related reaction.
   The infusion rate may be reduced, or the infusion may be discontinued, and appropriate therapy administered as clinically indicated.
-  Consider pre-medication at subsequent dosing with antihistamines, non-steroidal anti-inflammatory drugs, or corticosteroids [see Warnings and Precautions (5.2)].
+  Consider pre-medication at subsequent dosing with antihistamines, non-steroidal anti-inflammatory drugs, or corticosteroids [see Warnings and Precautions (5.3)].

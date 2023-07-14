@@ -23,7 +23,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Safety and effectiveness of LEQEMBI in pediatric patients have not been established.
 
-## 8.5 Geriatric Use
+## 8.5Geriatric Use
 
-In Study 1, the age of patients exposed to LEQEMBI 10 mg/kg every two weeks ranged from 51 to 88 years, with a mean age of 73 years; 62% were 65 to 80 years, and 21% were 80 years and older.
-Age-related findings about clinical efficacy and safety are limited by the small numbers of patients less than 65 years of age and 80 years of age and older in clinical studies of LEQEMBI.
+In Studies 1 and 2, the age of patients exposed to LEQEMBI 10 mg/kg every two weeks (n=1059) ranged from 50 to 90 years, with a mean age of 72 years; 81% were 65 years and older, and 39% were 75 years and older.
+No overall differences in safety or effectiveness of LEQEMBI have been observed between patients 65 years of age and older and younger adult patients.
