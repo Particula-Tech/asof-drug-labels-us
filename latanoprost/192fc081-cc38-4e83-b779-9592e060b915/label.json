@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA216472"
+  ],
+  "inn": "latanoprost",
+  "labeler": "Thea Pharma Inc.",
+  "package_ndcs": [
+    "82584-003-30"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "latanoprost ophthalmic solution 0.005%",
+      "name": "IYUZEH"
+    }
+  ],
+  "setid": "192fc081-cc38-4e83-b779-9592e060b915",
+  "source": "dailymed"
+}
