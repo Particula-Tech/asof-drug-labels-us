@@ -13,8 +13,11 @@ Advise patients to consult a physician if any difficulty in breathing occurs, or
 
 Caution patients subject to spontaneous hypoglycemia, or diabetic patients receiving insulin or oral hypoglycemic agents, that β-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia.
 
+Inform patients or caregivers that there is a risk of hypoglycemia when nebivolol tablets are given to patients who are fasting or who are vomiting.
+Instruct patients or caregivers how to monitor for signs of hypoglycemia [see Warnings and Precautions (5.5)].
+
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of ANI Pharmaceuticals, Inc.
 
 Manufactured by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-10465 Rev 09/21A
+10465 Rev 07/23
