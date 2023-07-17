@@ -46,7 +46,7 @@ In pediatric patients 10 years of age and older, the risk of hypoglycemia was hi
 The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin.
 Inform patients using these concomitant medications and pediatric patients of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
 
-## 5.5 Renal Impairment
+## 5.5 Acute Kidney Injury
 
 VICTOZA has not been found to be directly nephrotoxic in animal studies or clinical trials.
 
@@ -59,15 +59,17 @@ Use caution when initiating or escalating doses of VICTOZA in patients with rena
 
 ## 5.6 Hypersensitivity Reactions
 
-There have been postmarketing reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with VICTOZA.
+There have been postmarketing reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with VICTOZA [see Adverse Reactions (6.2)].
 If a hypersensitivity reaction occurs, discontinue VICTOZA; treat promptly per standard of care, and monitor until signs and symptoms resolve.
-Do not use in patients with a previous hypersensitivity reaction to VICTOZA [see Contraindications (4)].
 
 Anaphylaxis and angioedema have been reported with other GLP-1 receptor agonists.
 Use caution in a patient with a history of anaphylaxis or angioedema with another GLP-receptor agonist because it is unknown whether such patients will be predisposed to these reactions with VICTOZA.
+VICTOZA is contraindicated in patients who have had a serious hypersensitivity reaction to liraglutide or any of the excipients in VICTOZA [see Contraindications (4)].
 
 ## 5.7 Acute Gallbladder Disease
 
 Acute events of gallbladder disease such as cholelithiasis or cholecystitis have been reported in GLP-1 receptor agonist trials and postmarketing.
-In the LEADER trial [see Clinical Studies (14.3)], 3.1% of VICTOZA-treated patients versus 1.9% of placebo-treated patients reported an acute event of gallbladder disease, such as cholelithiasis or cholecystitis [see Adverse Reactions (6.1)].
+In the LEADER trial [see Clinical Studies (14.3)], 3.1% of VICTOZA-treated patients versus 1.9% of placebo-treated patients reported an acute event of gallbladder disease, such as cholelithiasis or cholecystitis
+
+[seeAdverse Reactions (6.1)].
 If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated.

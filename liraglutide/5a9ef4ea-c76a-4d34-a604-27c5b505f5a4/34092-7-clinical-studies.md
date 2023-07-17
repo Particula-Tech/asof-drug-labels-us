@@ -2,7 +2,7 @@
 
 ## 14.1 Glycemic Control Trials in Adults with Type 2 Diabetes Mellitus
 
-In glycemic control trials, VICTOZA has been studied as monotherapy and in combination with one or two oral anti-diabetic medications or basal insulin.
+In glycemic control trials in adults, VICTOZA has been studied as monotherapy and in combination with one or two oral anti-diabetic medications or basal insulin.
 VICTOZA was also studied in a cardiovascular outcomes trial (LEADER trial).
 
 In each of the placebo controlled trials, treatment with VICTOZA produced clinically and statistically significant improvements in hemoglobin A1c and fasting plasma glucose (FPG) compared to placebo.
@@ -13,16 +13,16 @@ VICTOZA 0.6 mg is not effective for glycemic control and is intended only as a s
 
 Monotherapy
 
-In this 52-week trial, 746 patients were randomized to VICTOZA 1.2 mg, VICTOZA 1.8 mg, or glimepiride 8 mg.
+In this 52-week trial, 746 adult patients with type 2 diabetes mellitus were randomized to VICTOZA 1.2 mg, VICTOZA 1.8 mg, or glimepiride 8 mg.
 Patients who were randomized to glimepiride were initially treated with 2 mg daily for two weeks, increasing to 4 mg daily for another two weeks, and finally increasing to 8 mg daily.
 Treatment with VICTOZA 1.8 mg and 1.2 mg resulted in a statistically significant reduction in HbA1c compared to glimepiride (Table 3).
 The percentage of patients who discontinued due to ineffective therapy was 3.6% in the VICTOZA 1.8 mg treatment group, 6.0% in the VICTOZA 1.2 mg treatment group, and 10.1% in the glimepiride-treatment group.
 
 The mean age of participants was 53 years, and the mean duration of diabetes was 5 years.
-Participants were 49.7% male, 77.5% White, 12.6% Black or African American and 35.0% of Hispanic ethnicity.
+Participants were 49.7% male, 77.5% White, 12.6% Black or African American and 35.0% of Hispanic or Latino ethnicity.
 The mean BMI was 33.1 kg/m2.
 
-Table 3 Results of a 52-week monotherapy triala
+Table 3 Results of a 52-week Monotherapy Trial in Adults with Type 2 Diabetes Mellitusa
 
 |  | VICTOZA 1.8 mg | VICTOZA 1.2 mg | Glimepiride 8 mg |
 | --- | --- | --- | --- |
@@ -52,13 +52,13 @@ bLeast squares mean adjusted for baseline value
 
 **p-value <0.0001
 
-Figure 3 Mean HbA1c for patients who completed the 52-week trial and for the Last Observation Carried Forward (LOCF, intent-to-treat) data at Week 52 (Monotherapy)
+Figure 3 Mean HbA1c for Adult Patients with Type 2 Diabetes Mellitus who Completed the 52-week Trial and for the Last Observation Carried Forward (LOCF, intent-to-treat) data at Week 52 (Monotherapy)
 
 Combination Therapy
 
 Add-on to Metformin
 
-In this 26-week trial, 1091 patients were randomized to VICTOZA 0.6 mg, VICTOZA 1.2 mg, VICTOZA 1.8 mg, placebo, or glimepiride 4 mg (one-half of the maximal approved dose in the United States), all as add-on to metformin.
+In this 26-week trial, 1,091 adult patients with type 2 diabetes mellitus were randomized to VICTOZA 0.6 mg, VICTOZA 1.2 mg, VICTOZA 1.8 mg, placebo, or glimepiride 4 mg (one-half of the maximal approved dose in the United States), all as add-on to metformin.
 Randomization occurred after a 6-week run-in period consisting of a 3-week initial forced metformin titration period followed by a maintenance period of another 3 weeks.
 During the titration period, doses of metformin were increased up to 2000 mg/day.
 Treatment with VICTOZA 1.2 mg and 1.8 mg as add-on to metformin resulted in a significant mean HbA1c reduction relative to placebo add-on to metformin and resulted in a similar mean HbA1c reduction relative to glimepiride 4 mg add-on to metformin (Table 4).
@@ -68,7 +68,7 @@ The mean age of participants was 57 years, and the mean duration of diabetes was
 Participants were 58.2% male, 87.1% White and 2.4% Black or African American.
 The mean BMI was 31.0 kg/m2.
 
-Table 4 Results of a 26-week trial of VICTOZA as add-on to metformina
+Table 4 Results of a 26-week Trial of VICTOZA as Add-on to Metformin in Adults with Type 2 Diabetes Mellitusa
 
 |  | VICTOZA 1.8 mg +Metformin | VICTOZA 1.2 mg +Metformin | Placebo + Metformin | Glimepiride 4 mg† + Metformin |
 | --- | --- | --- | --- | --- |
@@ -98,11 +98,11 @@ Table 4 Results of a 26-week trial of VICTOZA as add-on to metformina
 
 VICTOZA Compared to Sitagliptin, Both as Add-on to Metformin
 
-In this 26–week, open-label trial, 665 patients on a background of metformin ≥1500 mg per day were randomized to VICTOZA 1.2 mg once-daily, VICTOZA 1.8 mg once-daily or sitagliptin 100 mg once-daily, all dosed according to approved labeling.
+In this 26–week, open-label trial, 665 adult patients with type 2 diabetes mellitus on a background of metformin ≥1,500 mg per day were randomized to VICTOZA 1.2 mg once daily, VICTOZA 1.8 mg once daily or sitagliptin 100 mg once daily, all dosed according to approved labeling.
 Patients were to continue their current treatment on metformin at a stable, pre-trial dose level and dosing frequency.
 
 The mean age of participants was 56 years, and the mean duration of diabetes was 6 years.
-Participants were 52.9% male, 86.6% White, 7.2% Black or African American and 16.2% of Hispanic ethnicity.
+Participants were 52.9% male, 86.6% White, 7.2% Black or African American and 16.2% of Hispanic or Latino ethnicity.
 The mean BMI was 32.8 kg/m2.
 
 The primary endpoint was the change in HbA1c from baseline to Week 26.
@@ -110,7 +110,7 @@ Treatment with VICTOZA 1.2 mg and VICTOZA 1.8 mg resulted in statistically signi
 The percentage of patients who discontinued due to ineffective therapy was 3.1% in the VICTOZA 1.2 mg group, 0.5% in the VICTOZA 1.8 mg treatment group, and 4.1% in the sitagliptin 100 mg treatment group.
 From a mean baseline body weight of 94 kg, there was a mean reduction of 2.7 kg for VICTOZA 1.2 mg, 3.3 kg for VICTOZA 1.8 mg, and 0.8 kg for sitagliptin 100 mg.
 
-Table 5 Results of a 26-week open-label trial of VICTOZA Compared to Sitagliptin (both in combination with metformin)a
+Table 5 Results of a 26-week Open-label Trial of VICTOZA Compared to Sitagliptin (both in combination with metformin) in Adults with Type 2 Diabetes Mellitusa
 
 |  | VICTOZA 1.8 mg +Metformin | VICTOZA 1.2 mg +Metformin | Sitagliptin 100 mg +Metformin |
 | --- | --- | --- | --- |
@@ -131,11 +131,11 @@ bLeast squares mean adjusted for baseline value
 
 **p-value <0.0001
 
-Figure 4 Mean HbA1c for patients who completed the 26-week trial and for the Last Observation Carried Forward (LOCF, intent-to-treat) data at Week 26
+Figure 4 Mean HbA1c for Adult Patients with Type 2 Diabetes Mellitus who Completed the 26-week Trial and for the Last Observation Carried Forward (LOCF, intent-to-treat) data at Week 26
 
 Combination Therapy with Metformin and Insulin
 
-This 26-week open-label trial enrolled 988 patients with inadequate glycemic control (HbA1c 7-10%) on metformin (≥1500 mg/day) alone or inadequate glycemic control (HbA1c 7-8.5%) on metformin (≥1500 mg/day) and a sulfonylurea.
+This 26-week open-label trial enrolled 988 adult patients with type 2 diabetes mellitus with inadequate glycemic control (HbA1c 7-10%) on metformin (≥1,500 mg/day) alone or inadequate glycemic control (HbA1c 7-8.5%) on metformin (≥1500 mg/day) and a sulfonylurea.
 Patients who were on metformin and a sulfonylurea discontinued the sulfonylurea then all patients entered a 12-week run-in period during which they received add-on therapy with VICTOZA titrated to 1.8 mg once-daily.
 At the end of the run-in period, 498 patients (50%) achieved HbA1c <7% with VICTOZA 1.8 mg and metformin and continued treatment in a non-randomized, observational arm.
 Another 167 patients (17%) withdrew from the trial during the run-in period with approximately one-half of these patients doing so because of gastrointestinal adverse reactions [see Adverse Reactions (6.1)].
@@ -144,13 +144,13 @@ The starting dose of insulin detemir was 10 units/day and the mean dose at the e
 During the 26 week randomized treatment period, the percentage of patients who discontinued due to ineffective therapy was 11.2% in the group randomized to continued treatment with VICTOZA 1.8 mg and metformin and 1.2% in the group randomized to add-on therapy with insulin detemir.
 
 The mean age of participants was 57 years, and the mean duration of diabetes was 8 years.
-Participants were 55.7% male, 91.3% White, 5.6% Black or African American and 12.5% of Hispanic ethnicity.
+Participants were 55.7% male, 91.3% White, 5.6% Black or African American and 12.5% of Hispanic or Latino ethnicity.
 The mean BMI was 34.0 kg/m2.
 
 Treatment with insulin detemir as add-on to VICTOZA 1.8 mg + metformin resulted in statistically significant reductions in HbA1c and FPG compared to continued, unchanged treatment with VICTOZA 1.8 mg + metformin alone (Table 6).
 From a mean baseline body weight of 96 kg after randomization, there was a mean reduction of 0.3 kg in the patients who received insulin detemir add-on therapy compared to a mean reduction of 1.1 kg in the patients who continued on unchanged treatment with VICTOZA 1.8 mg + metformin alone.
 
-Table 6 Results of a 26-week open label trial of Insulin detemir as add on to VICTOZA + metformin compared to continued treatment with VICTOZA + metformin alone in patients not achieving HbA1c < 7% after 12 weeks of Metformin and VICTOZAa
+Table 6 Results of a 26-week Open-label Trial of Insulin detemir as add on to VICTOZA + Metformin Compared to Continued Treatment with VICTOZA + Metformin alone in Adult Patients with Type 2 Diabetes Mellitus not Achieving HbA1c < 7% after 12 weeks of Metformin and VICTOZAa
 
 |  | Insulin detemir + VICTOZA + Metformin | VICTOZA + Metformin |
 | --- | --- | --- |
@@ -175,7 +175,7 @@ bLeast squares mean adjusted for baseline value
 
 Add-on to Sulfonylurea
 
-In this 26-week trial, 1041 patients were randomized to VICTOZA 0.6 mg, VICTOZA 1.2 mg, VICTOZA 1.8 mg, placebo, or rosiglitazone 4 mg (one-half of the maximal approved dose in the United States), all as add-on to glimepiride.
+In this 26-week trial, 1,041 adult patients with type 2 diabetes mellitus were randomized to VICTOZA 0.6 mg, VICTOZA 1.2 mg, VICTOZA 1.8 mg, placebo, or rosiglitazone 4 mg (one-half of the maximal approved dose in the United States), all as add-on to glimepiride.
 Randomization occurred after a 4-week run-in period consisting of an initial, 2-week, forced-glimepiride titration period followed by a maintenance period of another 2 weeks.
 During the titration period, doses of glimepiride were increased to 4 mg/day.
 The doses of glimepiride could be reduced (at the discretion of the investigator) from 4 mg/day to 3 mg/day or 2 mg/day (minimum) after randomization, in the event of unacceptable hypoglycemia or other adverse events.
@@ -187,7 +187,7 @@ The mean BMI was 29.9 kg/m2.
 Treatment with VICTOZA 1.2 mg and 1.8 mg as add-on to glimepiride resulted in a statistically significant reduction in mean HbA1c compared to placebo add-on to glimepiride (Table 7).
 The percentage of patients who discontinued due to ineffective therapy was 3.0% in the VICTOZA 1.8 mg + glimepiride treatment group, 3.5% in the VICTOZA 1.2 mg + glimepiride treatment group, 17.5% in the placebo + glimepiride treatment group, and 6.9% in the rosiglitazone + glimepiride treatment group.
 
-Table 7 Results of a 26-week trial of VICTOZA as add-on to sulfonylureaa
+Table 7 Results of a 26-week Trial of VICTOZA as add-on to Sulfonylurea in Adult Patients with Type 2 Diabetes Mellitusa
 
 |  | VICTOZA 1.8 mg +Glimepiride | VICTOZA 1.2 mg +Glimepiride | Placebo + Glimepiride | Rosiglitazone 4 mg† + Glimepiride |
 | --- | --- | --- | --- | --- |
@@ -219,9 +219,9 @@ bLeast squares mean adjusted for baseline value
 
 Add-on to Metformin and Sulfonylurea
 
-In this 26-week trial, 581 patients were randomized to VICTOZA 1.8 mg, placebo, or insulin glargine, all as add-on to metformin and glimepiride.
+In this 26-week trial, 581 adult patients with type 2 diabetes mellitus were randomized to VICTOZA 1.8 mg, placebo, or insulin glargine, all as add-on to metformin and glimepiride.
 Randomization took place after a 6-week run-in period consisting of a 3-week forced metformin and glimepiride titration period followed by a maintenance period of another 3 weeks.
-During the titration period, doses of metformin and glimepiride were to be increased up to 2000 mg/day and 4 mg/day, respectively.
+During the titration period, doses of metformin and glimepiride were to be increased up to 2,000 mg/day and 4 mg/day, respectively.
 After randomization, patients randomized to VICTOZA 1.8 mg underwent a 2 week period of titration with VICTOZA.
 During the trial, the VICTOZA and metformin doses were fixed, although glimepiride and insulin glargine doses could be adjusted.
 Patients titrated glargine twice-weekly during the first 8 weeks of treatment based on self-measured fasting plasma glucose on the day of titration.
@@ -236,7 +236,7 @@ The mean BMI was 30.5 kg/m2.
 Treatment with VICTOZA as add-on to glimepiride and metformin resulted in a statistically significant mean reduction in HbA1c compared to placebo add-on to glimepiride and metformin (Table 8).
 The percentage of patients who discontinued due to ineffective therapy was 0.9% in the VICTOZA 1.8 mg + metformin + glimepiride treatment group, 0.4% in the insulin glargine + metformin + glimepiride treatment group, and 11.3% in the placebo + metformin + glimepiride treatment group.
 
-Table 8 Results of a 26-week trial of VICTOZA as add-on to metformin and sulfonylureaa
+Table 8 Results of a 26-week Trial of VICTOZA as Add-on to Metformin and Sulfonylurea in Adult Patients with Type 2 Diabetes Mellitusa
 
 |  | VICTOZA 1.8 mg +Metformin +Glimepiride | Placebo +Metformin +Glimepiride | Insulin glargine† +Metformin +Glimepiride |
 | --- | --- | --- | --- |
@@ -270,19 +270,19 @@ bLeast squares mean adjusted for baseline value
 
 VICTOZA Compared to Exenatide, Both as Add-on to Metformin and/or Sulfonylurea Therapy
 
-In this 26–week, open-label trial, 464 patients on a background of metformin monotherapy, sulfonylurea monotherapy or a combination of metformin and sulfonylurea were randomized to once daily VICTOZA 1.8 mg or exenatide 10 mcg twice daily.
+In this 26–week, open-label trial, 464 adult patients with type 2 diabetes mellitus on a background of metformin monotherapy, sulfonylurea monotherapy or a combination of metformin and sulfonylurea were randomized to once daily VICTOZA 1.8 mg or exenatide 10 mcg twice daily.
 Maximally tolerated doses of background therapy were to remain unchanged for the duration of the trial.
 Patients randomized to exenatide started on a dose of 5 mcg twice-daily for 4 weeks and then were escalated to 10 mcg twice daily.
 
 The mean age of participants was 57 years, and the mean duration of diabetes was 8 years.
-Participants were 51.9% male, 91.8% White, 5.4% Black or African American and 12.3% of Hispanic ethnicity.
+Participants were 51.9% male, 91.8% White, 5.4% Black or African American and 12.3% of Hispanic or Latino ethnicity.
 The mean BMI was 32.9 kg/m2.
 
 Treatment with VICTOZA 1.8 mg resulted in statistically significant reductions in HbA1c and FPG relative to exenatide (Table 9).
 The percentage of patients who discontinued for ineffective therapy was 0.4% in the VICTOZA treatment group and 0% in the exenatide treatment group.
 Both treatment groups had a mean decrease from baseline in body weight of approximately 3 kg.
 
-Table 9 Results of a 26-week open-label trial of VICTOZA versus Exenatide (both in combination with metformin and/or sulfonylurea)a
+Table 9 Results of a 26-week Open-label trial of VICTOZA versus Exenatide (both in combination with metformin and/or sulfonylurea) in Adult Patients with Type 2 Diabetes Mellitusa
 
 |  | VICTOZA 1.8 mg once daily+ metformin and/or sulfonylurea | Exenatide10 mcg twice daily + metformin and/or sulfonylurea |
 | --- | --- | --- |
@@ -305,18 +305,18 @@ bLeast squares mean adjusted for baseline value
 
 Add-on to Metformin and Thiazolidinedione
 
-In this 26-week trial, 533 patients were randomized to VICTOZA 1.2 mg, VICTOZA 1.8 mg or placebo, all as add-on to rosiglitazone (8 mg) plus metformin (2000 mg).
-Patients underwent a 9 week run-in period (3-week forced dose escalation followed by a 6-week dose maintenance phase) with rosiglitazone (starting at 4 mg and increasing to 8 mg/day within 2 weeks) and metformin (starting at 500 mg with increasing weekly increments of 500 mg to a final dose of 2000 mg/day).
+In this 26-week trial, 533 adult patients with type 2 diabetes mellitus were randomized to VICTOZA 1.2 mg, VICTOZA 1.8 mg or placebo, all as add-on to rosiglitazone (8 mg) plus metformin (2,000 mg).
+Patients underwent a 9 week run-in period (3-week forced dose escalation followed by a 6-week dose maintenance phase) with rosiglitazone (starting at 4 mg and increasing to 8 mg/day within 2 weeks) and metformin (starting at 500 mg with increasing weekly increments of 500 mg to a final dose of 2,000 mg/day).
 Only patients who tolerated the final dose of rosiglitazone (8 mg/day) and metformin (2000 mg/day) and completed the 6-week dose maintenance phase were eligible for randomization into the trial.
 
 The mean age of participants was 55 years, and the mean duration of diabetes was 9 years.
-Participants were 61.6% male, 84.2% White, 10.2% Black or African American and 16.4% of Hispanic ethnicity.
+Participants were 61.6% male, 84.2% White, 10.2% Black or African American and 16.4% of Hispanic or Latino ethnicity.
 The mean BMI was 33.9 kg/m2.
 
 Treatment with VICTOZA as add-on to metformin and rosiglitazone produced a statistically significant reduction in mean HbA1c compared to placebo add-on to metformin and rosiglitazone (Table 10).
 The percentage of patients who discontinued due to ineffective therapy was 1.7% in the VICTOZA 1.8 mg + metformin + rosiglitazone treatment group, 1.7% in the VICTOZA 1.2 mg + metformin + rosiglitazone treatment group, and 16.4% in the placebo + metformin + rosiglitazone treatment group.
 
-Table 10 Results of a 26-week trial of VICTOZA as add-on to metformin and thiazolidinedionea
+Table 10 Results of a 26-week Trial of VICTOZA as Add-on to Metformin and Thiazolidinedione in Adult Patients with Type 2 Diabetes Mellitusa
 
 |  | VICTOZA 1.8 mg +Metformin +Rosiglitazone | VICTOZA 1.2 mg +Metformin +Rosiglitazone | Placebo + Metformin + Rosiglitazone |
 | --- | --- | --- | --- |
@@ -346,21 +346,21 @@ bLeast squares mean adjusted for baseline value
 
 VICTOZA Compared to Placebo Both With or Without metformin and/or Sulfonylurea and/or Pioglitazone and/or Basal or Premix insulin in Patients with Type 2 Diabetes Mellitus and Moderate Renal Impairment
 
-In this 26-week, double-blind, randomized, placebo-controlled, parallel-group trial, 279 patients with moderate renal impairment, as per MDRD formula (eGFR 30−59 mL/min/1.73 m2), were randomized to VICTOZA or placebo once daily.
+In this 26-week, double-blind, randomized, placebo-controlled, parallel-group trial in adult patients with type 2 diabetes mellitus, 279 patients with moderate renal impairment, as per MDRD formula (eGFR 30−59 mL/min/1.73 m2), were randomized to VICTOZA or placebo once daily.
 VICTOZA was added to the patient’s stable pre-trial antidiabetic regimen (insulin therapy and/or metformin, pioglitazone, or sulfonylurea).
 The dose of VICTOZA was escalated according to approved labeling to achieve a dose of 1.8 mg per day.
 The insulin dose was reduced by 20% at randomization for patients with baseline HbA1c ≤ 8% and fixed until liraglutide dose escalation was complete.
 Dose reduction of insulin and SU was allowed in case of hypoglycemia; up titration of insulin was allowed but not beyond the pre-trial dose.
 
 The mean age of participants was 67 years, and the mean duration of diabetes was 15 years.
-Participants were 50.5% male, 92.3% White, 6.6% Black or African American, and 7.2% of Hispanic ethnicity.
+Participants were 50.5% male, 92.3% White, 6.6% Black or African American, and 7.2% of Hispanic or Latino ethnicity.
 The mean BMI was 33.9 kg/m2.
 Approximately half of patients had an eGFR between 30 and <45mL/min/1.73 m2.
 
 Treatment with VICTOZA resulted in a statistically significant reduction in HbA1c from baseline at Week 26 compared to placebo (see Table 11).
 123 patients reached the 1.8 mg dose of VICTOZA.
 
-Table 11 Results of a 26-week trial of VICTOZA compared to placebo in Patients with Renal Impairmenta
+Table 11 Results of a 26-week Trial of VICTOZA Compared to Placebo in Adult Patients with Type 2 Diabetes Mellitus and Moderate Renal Impairmenta
 
 |  | VICTOZA 1.8 mg + insulin and/or OAD | Placebo + insulin and/or OAD |
 | --- | --- | --- |
@@ -391,9 +391,9 @@ e Estimated using a mixed model for repeated measurement with treatment, country
 
 **p-value <0.05
 
-## 14.2 Glycemic Control Trial in Pediatric Patients 10 Years of Age and Older with Type 2 Diabetes Mellitus
+## 14.2 Glycemic Control Trial in Pediatric Patients Aged 10 Years and Older with Type 2 Diabetes Mellitus
 
-VICTOZA was evaluated in a 26-week, double-blind, randomized, parallel group, placebo controlled multi-center trial (NCT01541215), in 134 pediatric patients with type 2 diabetes aged 10 years and older.
+VICTOZA was evaluated in a 26-week, double-blind, randomized, parallel group, placebo controlled multi-center trial (NCT01541215), in 134 pediatric patients with type 2 diabetes mellitus aged 10 years and older.
 Patients were randomized to VICTOZA once-daily or placebo once-daily in combination with metformin with or without basal insulin treatment.
 All patients were on a metformin dose of 1000 to 2000 mg prior to randomization.
 The basal insulin dose was decreased by 20% at randomization and VICTOZA was titrated weekly by 0.6 mg for 2 to 3 weeks based on tolerability and an average fasting plasma glucose goal of <110 mg/dL.
@@ -407,7 +407,7 @@ The mean duration of diabetes was 1.9 years and the mean HbA1c was 7.8%.
 At week 26, treatment with VICTOZA was superior in reducing HbA1c from baseline versus placebo.
 The estimated treatment difference in HbA1c reduction from baseline between VICTOZA and placebo was -1.06% with a 95% confidence interval of [-1.65%; -0.46%] (see Table 12).
 
-Table 12 Results at week 26 in a trial comparing VICTOZA in combination with metformin with or without basal insulin versus Placebo in combination with metformin with or without basal insulin in Pediatric Patients 10 Years of Age and Older with Type 2 Diabetes Mellitus
+Table 12 Results at week 26 in a trial comparing VICTOZA in combination with metformin with or without basal insulin versus Placebo in combination with metformin with or without basal insulin in Pediatric Patients Aged 10 Years and Older with Type 2 Diabetes Mellitus
 
 |  | VICTOZA+metformin±basal insulin | Placebo+metformin±basal insulin |
 | --- | --- | --- |
@@ -432,25 +432,25 @@ b Categories are derived from continuous measurements of HbA1c using a pattern m
 
 * p-value <0.001
 
-## 14.3 Cardiovascular Outcomes Trial in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
+## 14.3 Cardiovascular Outcomes Trial in Adult Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
 
 The LEADER trial (NCT01179048) was a multi-national, multi-center, placebo-controlled, double-blind trial.
-In this study, 9340 patients with inadequately controlled type 2 diabetes and atherosclerotic cardiovascular disease were randomized to VICTOZA 1.8 mg or placebo for a median duration of 3.5 years.
-The study compared the risk of major adverse cardiovascular events between VICTOZA and placebo when these were added to, and used concomitantly with, background standard of care treatments for type 2 diabetes.
-The primary endpoint, MACE, was the time to first occurrence of a three part composite outcome which included; cardiovascular death, non-fatal myocardial infarction and non-fatal stroke.
+In this study, 9,340 adult patients with inadequately controlled type 2 diabetes mellitus and atherosclerotic cardiovascular disease (CVD) were randomized to VICTOZA 1.8 mg or placebo for a median duration of 3.5 years.
+The study compared the risk of major adverse cardiovascular events between VICTOZA and placebo when these were added to, and used concomitantly with, background standard of care treatments for type 2 diabetes mellitus.
+The primary endpoint, major adverse cardiac events (MACE), was the time to first occurrence of a three part composite outcome which included; cardiovascular death, non-fatal myocardial infarction and non-fatal stroke.
 
-Patients eligible to enter the trial were; 50 years of age or older and had established, stable, cardiovascular, cerebrovascular, peripheral artery disease, chronic kidney disease or NYHA class II and III heart failure (80% of the enrolled population) or were 60 years of age or older and had other specified risk factors for cardiovascular disease (20% of the enrolled population).
+Patients eligible to enter the trial were; 50 years of age or older and had established, stable, cardiovascular, cerebrovascular, peripheral artery disease, chronic kidney disease or New York Heart Association (NYHA) class II and III heart failure (80% of the enrolled population) or were 60 years of age or older and had other specified risk factors for cardiovascular disease (20% of the enrolled population).
 
 At baseline, demographic and disease characteristics were balanced.
-The mean age was 64 years and the population was 64.3% male, 77.5% Caucasian, 10.0% Asian, and 8.3% Black.
-In the study, 12.1% of the population identified as Hispanic or Latino.
-The mean duration of type 2 diabetes was 12.8 years, the mean HbA1c was 8.7% and the mean BMI was 32.5 kg/m2.
-A history of previous myocardial infarction was reported in 31% of randomized individuals, a prior revascularization procedure in 39%, a prior ischemic stroke in 11%, documented symptomatic coronary disease in 9%, documented asymptomatic cardiac ischemia in 26%, and a diagnosis of New York Heart Association (NYHA) class II to III heart failure in 14%.
+The mean age was 64 years and the population was 64.3% male, 77.5% White, 10.0% Asian, and 8.3% Black or African American.
+In the study, 12.1% of the population identified as Hispanic or Latino ethnicity.
+The mean duration of type 2 diabetes mellitus was 12.8 years, the mean HbA1c was 8.7% and the mean BMI was 32.5 kg/m2.
+A history of previous myocardial infarction was reported in 31% of randomized individuals, a prior revascularization procedure in 39%, a prior ischemic stroke in 11%, documented symptomatic coronary disease in 9%, documented asymptomatic cardiac ischemia in 26%, and a diagnosis of NYHA class II to III heart failure in 14%.
 The mean eGFR at baseline was 79 mL/min/1.73 m2 and 41.8% of patients had mild renal impairment (eGFR 60 to 90 mL/min/1.73m2), 20.7% had moderate renal impairment (eGFR 30 to 60 mL/min/1.73m2) and 2.4% of patients had severe renal impairment (eGFR < 30 mL/min/1.73m2).
 
 At baseline, patients treated their diabetes with; diet and exercise only (3.9%), oral antidiabetic drugs only (51.5%), oral antidiabetic drugs and insulin (36.7%) or insulin only (7.9%).
 The most common background antidiabetic drugs used at baseline and in the trial were metformin, sulfonylurea and insulin.
-Use of DPP-4 inhibitors and other GLP-1 receptor agonists was excluded by protocol and SGLT-2 inhibitors were either not approved or not widely available.
+Use of DPP-4 inhibitors and other GLP-1 receptor agonists was excluded by protocol and sodium-glucose cotransporter-2 (SGLT-2) inhibitors were either not approved or not widely available.
 At baseline, cardiovascular disease and risk factors were managed with; non-diuretic antihypertensives (92.4%), diuretics (41.8%), statin therapy (72.1%) and platelet aggregation inhibitors (66.8%).
 During the trial, investigators could modify anti-diabetic and cardiovascular medications to achieve local standard of care treatment targets with respect to blood glucose, lipid, and blood pressure, and manage patients recovering from an acute coronary syndrome or stroke event per local treatment guidelines.
 
@@ -466,9 +466,9 @@ A total of 828 deaths were recorded during the LEADER trial.
 A majority of the deaths in the trial were categorized as cardiovascular deaths and non-cardiovascular deaths were balanced between the treatment groups (3.5% in patients treated with VICTOZA and 3.6% in patients treated with placebo).
 The estimated hazard ratio of time to all-cause death for VICTOZA compared to placebo was 0.85 (0.74, 0.97).
 
-Figure 5 Kaplan-Meier: Time to First Occurrence of a MACE in the LEADER Trial (Patients with T2DM and Atherosclerotic CVD)
+Figure 5 Kaplan-Meier: Time to First Occurrence of a MACE in the LEADER Trial (Patients with Type 2 Diabetes Mellitus and Atherosclerotic CVD)
 
-Table 13 Treatment Effect for the Primary Composite Endpoint, MACE, and its Components in the LEADER Trial (Patients with T2DM and Atherosclerotic CVD)a
+Table 13 Treatment Effect for the Primary Composite Endpoint, MACE, and its Components in the LEADER Trial (Patients with Type 2 Diabetes Mellitus and Atherosclerotic CVD)a
 
 |  | VICTOZAN=4668 | PlaceboN=4672 | Hazard Ratio (95% CI)b |
 | --- | --- | --- | --- |

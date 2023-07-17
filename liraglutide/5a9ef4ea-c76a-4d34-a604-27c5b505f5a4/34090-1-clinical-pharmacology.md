@@ -23,10 +23,10 @@ Compared to placebo, the postprandial plasma glucose AUC0-300min was 35% lower a
 
 Glucose-dependent insulin secretion
 
-The effect of a single dose of 7.5 mcg/kg (~ 0.7 mg) VICTOZA on insulin secretion rates (ISR) was investigated in 10 patients with type 2 diabetes during graded glucose infusion.
+The effect of a single dose of 7.5 mcg/kg (~ 0.7 mg) VICTOZA on insulin secretion rates (ISR) was investigated in 10 patients with type 2 diabetes mellitus during graded glucose infusion.
 In these patients, on average, the ISR response was increased in a glucose-dependent manner (Figure 2).
 
-Figure 2 Mean Insulin Secretion Rate (ISR) versus Glucose Concentration Following Single-Dose VICTOZA 7.5 mcg/kg (~ 0.7 mg) or Placebo in Patients with Type 2 Diabetes (N=10) During Graded Glucose Infusion
+Figure 2 Mean Insulin Secretion Rate (ISR) versus Glucose Concentration Following Single-Dose VICTOZA 7.5 mcg/kg (~ 0.7 mg) or Placebo in Patients with Type 2 Diabetes Mellitus (N=10) During Graded Glucose Infusion
 
 Glucagon secretion
 
@@ -44,7 +44,9 @@ VICTOZA at steady state concentrations with daily doses up to 1.8 mg did not pro
 
 ## 12.3 Pharmacokinetics
 
-Absorption - Following subcutaneous administration, maximum concentrations of liraglutide are achieved at 8-12 hours post dosing.
+Absorption
+
+Following subcutaneous administration, maximum concentrations of liraglutide are achieved at 8-12 hours post dosing.
 The mean peak (Cmax) and total (AUC) exposures of liraglutide were 35 ng/mL and 960 ng·h/mL, respectively, for a subcutaneous single dose of 0.6 mg.
 After subcutaneous single dose administrations, Cmax and AUC of liraglutide increased proportionally over the therapeutic dose range of 0.6 mg to 1.8 mg.
 At 1.8 mg VICTOZA, the average steady state concentration of liraglutide over 24 hours was approximately 128 ng/mL.
@@ -53,42 +55,65 @@ AUC0-∞ from thigh was 22% lower than that from abdomen.
 However, liraglutide exposures were considered comparable among these three subcutaneous injection sites.
 Absolute bioavailability of liraglutide following subcutaneous administration is approximately 55%.
 
-Distribution - The mean apparent volume of distribution after subcutaneous administration of VICTOZA 0.6 mg is approximately 13 L. The mean volume of distribution after intravenous administration of VICTOZA is 0.07 L/kg.
+Distribution
+
+The mean apparent volume of distribution after subcutaneous administration of VICTOZA 0.6 mg is approximately 13 L. The mean volume of distribution after intravenous administration of VICTOZA is 0.07 L/kg.
 Liraglutide is extensively bound to plasma protein (>98%).
 
-Metabolism - During the initial 24 hours following administration of a single [3H]-liraglutide dose to healthy subjects, the major component in plasma was intact liraglutide.
+Elimination
+
+The mean apparent clearance following subcutaneous administration of a single dose of liraglutide is approximately 1.2 L/h with an elimination half-life of approximately 13 hours.
+
+Metabolism
+
+During the initial 24 hours following administration of a single [3H]-liraglutide dose to healthy subjects, the major component in plasma was intact liraglutide.
 Liraglutide is endogenously metabolized in a similar manner to large proteins without a specific organ as a major route of elimination.
 
-Elimination - Following a [3H]-liraglutide dose, intact liraglutide was not detected in urine or feces.
+Excretion
+
+Following a [3H]-liraglutide dose, intact liraglutide was not detected in urine or feces.
 Only a minor part of the administered radioactivity was excreted as liraglutide-related metabolites in urine or feces (6% and 5%, respectively).
 The majority of urine and feces radioactivity was excreted during the first 6-8 days.
-The mean apparent clearance following subcutaneous administration of a single dose of liraglutide is approximately 1.2 L/h with an elimination half-life of approximately 13 hours, making VICTOZA suitable for once daily administration.
 
 Specific Populations
 
-Elderly - Age had no effect on the pharmacokinetics of VICTOZA based on a pharmacokinetic study in healthy elderly subjects (65 to 83 years) and population pharmacokinetic analyses of patients 18 to 80 years of age [see Use in Specific Populations (8.5)].
+Geriatric Patients
 
-Gender - Based on the results of population pharmacokinetic analyses, females have 25% lower weight-adjusted clearance of VICTOZA compared to males.
+Age had no effect on the pharmacokinetics of VICTOZA based on a pharmacokinetic study in healthy elderly subjects (65 to 83 years) and population pharmacokinetic analyses of patients 18 to 80 years of age [see Use in Specific Populations (8.5)].
 
-Race and Ethnicity - Race and ethnicity had no effect on the pharmacokinetics of VICTOZA based on the results of population pharmacokinetic analyses that included Caucasian, Black, Asian and Hispanic/Non-Hispanic subjects.
+Pediatric Patients
 
-Body Weight - Body weight significantly affects the pharmacokinetics of VICTOZA based on results of population pharmacokinetic analyses.
+A population pharmacokinetic analysis was conducted for VICTOZA using data from 72 pediatric patients (10 to 17 years of age) with type 2 diabetes mellitus.
+The pharmacokinetic profile of VICTOZA in the pediatric patients was consistent with that in adults.
+
+Male and Female Patients
+
+Based on the results of population pharmacokinetic analyses, females have 25% lower weight-adjusted clearance of VICTOZA compared to males.
+
+Race or Ethnic Groups
+
+Race and ethnicity had no effect on the pharmacokinetics of VICTOZA based on the results of population pharmacokinetic analyses that included White, Black or African American, Asian and Hispanic or Latino/Non-Hispanic or Latino subjects.
+
+Body Weight
+
+Body weight significantly affects the pharmacokinetics of VICTOZA based on results of population pharmacokinetic analyses.
 The exposure of liraglutide decreases with an increase in baseline body weight.
 However, the 1.2 mg and 1.8 mg daily doses of VICTOZA provided adequate systemic exposures over the body weight range of 40 – 160 kg evaluated in the clinical trials.
 Liraglutide was not studied in patients with body weight >160 kg.
 
-Pediatric - A population pharmacokinetic analysis was conducted for VICTOZA using data from 72 pediatric patients (10 to 17 years of age) with type 2 diabetes.
-The pharmacokinetic profile of VICTOZA in the pediatric patients was consistent with that in adults.
+Patients with Renal Impairment
 
-Renal Impairment - The single-dose pharmacokinetics of VICTOZA were evaluated in patients with varying degrees of renal impairment.
+The single-dose pharmacokinetics of VICTOZA were evaluated in patients with varying degrees of renal impairment.
 Patients with mild (estimated creatinine clearance 50-80 mL/min) to severe (estimated creatinine clearance <30 mL/min) renal impairment and subjects with end-stage renal disease requiring dialysis were included in the trial.
 Compared to healthy subjects, liraglutide AUC in mild, moderate, and severe renal impairment and in end-stage renal disease was on average 35%, 19%, 29% and 30% lower, respectively [see Use in Specific Populations (8.6)].
 
-Hepatic Impairment - The single-dose pharmacokinetics of VICTOZA were evaluated in patients with varying degrees of hepatic impairment.
+Patients with Hepatic Impairment
+
+The single-dose pharmacokinetics of VICTOZA were evaluated in patients with varying degrees of hepatic impairment.
 Patients with mild (Child Pugh score 5-6) to severe (Child Pugh score > 9) hepatic impairment were included in the trial.
 Compared to healthy subjects, liraglutide AUC in patients with mild, moderate and severe hepatic impairment was on average 11%, 14% and 42% lower, respectively [see Use in Specific Populations (8.7)].
 
-Drug Interactions
+Drug Interaction Studies
 
 In vitro assessment of drug-drug interactions
 
@@ -137,4 +162,25 @@ VICTOZA delayed Tmax for both ethinylestradiol and levonorgestrel by 1.5 h.
 
 Insulin Detemir
 
-No pharmacokinetic interaction was observed between VICTOZA and insulin detemir when separate subcutaneous injections of insulin detemir 0.5 Unit/kg (single-dose) and VICTOZA 1.8 mg (steady state) were administered in patients with type 2 diabetes.
+No pharmacokinetic interaction was observed between VICTOZA and insulin detemir when separate subcutaneous injections of insulin detemir 0.5 Unit/kg (single-dose) and VICTOZA 1.8 mg (steady state) were administered in patients with type 2 diabetes mellitus.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those with VICTOZA or other liraglutide products.
+
+A subset of VICTOZA-treated patients (1104 of 2501, 44%) in five adult double-blind clinical trials of 26 weeks duration or longer were tested for the presence of anti-liraglutide antibodies at the end of treatment [see Clinical Studies (14.1)] and 102/1104 (9%) of VICTOZA-treated patients developed anti-liraglutide antibodies.
+Of these 102 VICTOZA-treated patients, 56 (5%) patients developed antibodies that cross-reacted with native GLP-1.
+These cross-reacting antibodies were not tested for neutralizing effect against native GLP-1, and thus the potential for clinically significant neutralization of native GLP-1 was not assessed.
+Antibodies that had a neutralizing effect on liraglutide in an in vitro assay occurred in 12 (1%) of the VICTOZA-treated patients.
+There was no identified clinically significant effect of anti-liraglutide antibodies on effectiveness of VICTOZA.
+
+In five double-blind adult glycemic control trials of VICTOZA, events from a composite of adverse events potentially related to immunogenicity (e.g., urticaria, angioedema) occurred among 0.8% of VICTOZA-treated patients and among 0.4% of comparator-treated patients.
+Urticaria accounted for approximately one-half of the events in this composite for VICTOZA-treated patients.
+Patients who developed anti-liraglutide antibodies were not more likely to develop events from the immunogenicity events composite than were patients who did not develop anti-liraglutide antibodies.
+
+In the LEADER trial [see Clinical Studies (14.3)], anti-liraglutide antibodies were detected in 11 out of the 1247 (0.9%) adult VICTOZA-treated patients with antibody measurements.
+Of the 11 adult VICTOZA-treated patients who developed anti-liraglutide antibodies, none were observed to develop neutralizing antibodies to liraglutide, and 5 patients (0.4%) developed cross-reacting antibodies against native GLP-1.
+
+In a clinical trial with pediatric patients aged 10 years and older [see Clinical Studies (14.2)], anti-liraglutide antibodies were detected in 1 (2%) VICTOZA treated patient at week 26 and 5 (9%) VICTOZA treated patients at week 53.
+None of the 5 patients had antibodies cross reactive to native GLP-1 or had neutralizing antibodies.

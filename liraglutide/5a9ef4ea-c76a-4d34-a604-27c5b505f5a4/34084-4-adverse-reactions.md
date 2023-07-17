@@ -5,7 +5,7 @@ The following serious adverse reactions are described below or elsewhere in the 
 - •Risk of Thyroid C-cell Tumors [see Warnings and Precautions (5.1)]
 - •Pancreatitis [see Warnings and Precautions (5.2)]
 - •Hypoglycemia [see Warnings and Precautions (5.4)]
-- •Renal Impairment [see Warnings and Precautions (5.5)]
+- •Acute Kidney Injury [see Warnings and Precautions (5.5)]
 - •Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
 - •Acute Gallbladder Disease [see Warnings and Precautions (5.7)]
 
@@ -15,18 +15,18 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Common Adverse Reactions
 
-The safety of VICTOZA in subjects with type 2 diabetes was evaluated in 5 glycemic control, placebo-controlled trials in adults and one trial of 52 weeks duration in pediatric patients 10 years of age and older [see Clinical Studies (14.1)].
-The data in Table 1 reflect exposure of 1673 adult patients to VICTOZA and a mean duration of exposure to VICTOZA of 37.3 weeks.
+The safety of VICTOZA in patients with type 2 diabetes mellitus was evaluated in 5 glycemic control, placebo-controlled trials in adults and one trial of 52 weeks duration in pediatric patients 10 years of age and older [see Clinical Studies (14.1)].
+The data in Table 1 reflect exposure of 1,673 adult patients to VICTOZA and a mean duration of exposure to VICTOZA of 37.3 weeks.
 The mean age of adult patients was 58 years, 4% were 75 years or older and 54% were male.
 The population was 79% White, 6% Black or African American, 13% Asian; 4% were of Hispanic or Latino ethnicity.
-At baseline the population had diabetes for an average of 9.1 years and a mean HbA1c of 8.4%.
-Baseline estimated renal function was normal or mildly impaired in 88.1% and moderately impaired in 11.9% of the pooled population.
+At baseline the population had diabetes for an average of 9 years and a mean HbA1c of 8.4%.
+Baseline estimated renal function was normal or mildly impaired in 88% and moderately impaired in 12% of the pooled population.
 
-Table 1 shows common adverse reactions in adults, excluding hypoglycemia, associated with the use of VICTOZA.
+Table 1 shows common adverse reactions in adults, excluding hypoglycemia, associated with the use of VICTOZA for the treatment of type 2 diabetes mellitus.
 These adverse reactions occurred more commonly on VICTOZA than on placebo and occurred in at least 5% of patients treated with VICTOZA.
-Overall, the type, and severity of adverse reactions in adolescents and children aged 10 years and above were comparable to that observed in the adult population.
+Overall, the type, and severity of adverse reactions in pediatric patients 10 years of age and older and above were comparable to that observed in the adult population.
 
-Table 1 Adverse reactions reported in ≥ 5% of VICTOZA-treated patients
+Table 1 Adverse reactions reported in ≥ 5% of Adult Patients Treated with VICTOZA for Type 2 Diabetes Mellitus
 
 |  | PlaceboN=661 | Liraglutide 1.2 mgN= 645 | Liraglutide 1.8 mgN= 1024 |
 | --- | --- | --- | --- |
@@ -50,12 +50,12 @@ Other Adverse Reactions
 
 Gastrointestinal Adverse Reactions
 
-In the pool of 5 glycemic control, placebo-controlled clinical trials, withdrawals due to gastrointestinal adverse reactions, occurred in 4.3% of VICTOZA-treated patients and 0.5% of placebo-treated patients.
+In the pool of 5 glycemic control, placebo-controlled adult clinical trials, withdrawals due to gastrointestinal adverse reactions, occurred in 4.3% of VICTOZA-treated patients and 0.5% of placebo-treated patients.
 Withdrawal due to gastrointestinal adverse events mainly occurred during the first 2-3 months of the trials.
 
 Injection site reactions
 
-Injection site reactions (e.g., injection site rash, erythema) were reported in approximately 2% of VICTOZA-treated patients in the five double-blind, glycemic control trials of at least 26 weeks duration.
+Injection site reactions (e.g., injection site rash, erythema) were reported in approximately 2% of VICTOZA-treated adult patients in the five double-blind, glycemic control trials of at least 26 weeks duration.
 Less than 0.2% of VICTOZA-treated patients discontinued due to injection site reactions.
 
 Hypoglycemia
@@ -85,90 +85,64 @@ Table 2 Adult Incidence (%) and Rate (episodes/patient year) of Hypoglycemia in 
 
 “Patient not able to self-treat” is defined as an event requiring the assistance of another person for treatment.
 
-In a 26-week pediatric placebo-controlled clinical trial with a 26-week open-label extension, 21.2% of VICTOZA treated patients (mean age 14.6 years) with type 2 diabetes, had hypoglycemia with a blood glucose <54 mg/dL with or without symptoms (335 events per 1000 patient years).
+In a 26-week placebo-controlled clinical trial in pediatric patients 10 years of age and older with a 26-week open-label extension, 21.2% of VICTOZA-treated patients (mean age 14.6 years) with type 2 diabetes mellitus, had hypoglycemia with a blood glucose <54 mg/dL with or without symptoms (335 events per 1000 patient years).
 No severe hypoglycemic episodes occurred in the VICTOZA treatment group (severe hypoglycemia was defined as an episode requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions).
 
 Papillary thyroid carcinoma
 
-In glycemic control trials of VICTOZA, there were 7 reported cases of papillary thyroid carcinoma in patients treated with VICTOZA and 1 case in a comparator-treated patient (1.5 vs. 0.5 cases per 1000 patient-years).
+In adult glycemic control trials of VICTOZA, there were 7 reported cases of papillary thyroid carcinoma in patients treated with VICTOZA and 1 case in a comparator-treated patient (1.5 vs. 0.5 cases per 1000 patient-years).
 Most of these papillary thyroid carcinomas were <1 cm in greatest diameter and were diagnosed in surgical pathology specimens after thyroidectomy prompted by findings on protocol-specified screening with serum calcitonin or thyroid ultrasound.
 
 Cholelithiasis and cholecystitis
 
-In glycemic control trials of VICTOZA, the incidence of cholelithiasis was 0.3% in both VICTOZA-treated and placebo-treated patients.
+In adult glycemic control trials of VICTOZA, the incidence of cholelithiasis was 0.3% in both VICTOZA-treated and placebo-treated patients.
 The incidence of cholecystitis was 0.2% in both VICTOZA-treated and placebo-treated patients.
 
-In the LEADER trial [see Clinical Studies (14.3)], the incidence of cholelithiasis was 1.5% (3.9 cases per 1000 patient years of observation) in VICTOZA-treated and 1.1% (2.8 cases per 1000 patient years of observation) in placebo-treated patients, both on a background of standard of care.
-The incidence of acute cholecystitis was 1.1% (2.9 cases per 1000 patient years of observation) in VICTOZA-treated and 0.7% (1.9 cases per 1000 patient years of observation) in placebo-treated patients.
+In the LEADER trial [see Clinical Studies (14.3)], the incidence of cholelithiasis was 1.5% (3.9 cases per 1000 patient years of observation) in adult VICTOZA-treated and 1.1% (2.8 cases per 1000 patient years of observation) in placebo-treated patients, both on a background of standard of care.
+The incidence of acute cholecystitis was 1.1% (2.9 cases per 1000 patient years of observation) in adult VICTOZA-treated and 0.7% (1.9 cases per 1000 patient years of observation) in placebo-treated patients.
 The majority of events required hospitalization or cholecystectomy.
 
 Laboratory Tests
 
 Bilirubin
 
-In the five glycemic control trials of at least 26 weeks duration, mildly elevated serum bilirubin concentrations (elevations to no more than twice the upper limit of the reference range) occurred in 4.0% of VICTOZA-treated patients, 2.1% of placebo-treated patients and 3.5% of active-comparator-treated patients.
+In the five adult glycemic control trials of at least 26 weeks duration, mildly elevated serum bilirubin concentrations (elevations to no more than twice the upper limit of the reference range) occurred in 4.0% of VICTOZA-treated patients, 2.1% of placebo-treated patients and 3.5% of active-comparator-treated patients.
 This finding was not accompanied by abnormalities in other liver tests.
 The significance of this isolated finding is unknown.
 
 Calcitonin
 
 Calcitonin, a biological marker of MTC, was measured throughout the clinical development program.
-At the end of the glycemic control trials, adjusted mean serum calcitonin concentrations were higher in VICTOZA-treated patients compared to placebo-treated patients but not compared to patients receiving active comparator.
+At the end of the adult glycemic control trials, adjusted mean serum calcitonin concentrations were higher in VICTOZA-treated patients compared to placebo-treated patients but not compared to patients receiving active comparator.
 Between group differences in adjusted mean serum calcitonin values were approximately 0.1 ng/L or less.
-Among patients with pretreatment calcitonin <20 ng/L, calcitonin elevations to >20 ng/L occurred in 0.7% of VICTOZA-treated patients, 0.3% of placebo-treated patients, and 0.5% of active-comparator-treated patients.
+Among adult patients with pretreatment calcitonin <20 ng/L, calcitonin elevations to >20 ng/L occurred in 0.7% of VICTOZA-treated patients, 0.3% of placebo-treated patients, and 0.5% of active-comparator-treated patients.
 The clinical significance of these findings is unknown.
 
 Lipase and Amylase
 
-In one glycemic control trial in renal impairment patients, a mean increase of 33% for lipase and 15% for amylase from baseline was observed for VICTOZA-treated patients while placebo-treated patients had a mean decrease in lipase of 3% and a mean increase in amylase of 1%.
+In one adult glycemic control trial in renal impairment patients, a mean increase of 33% for lipase and 15% for amylase from baseline was observed for VICTOZA-treated patients while placebo-treated patients had a mean decrease in lipase of 3% and a mean increase in amylase of 1%.
 
 In the LEADER trial, serum lipase and amylase were routinely measured.
-Among VICTOZA-treated patients, 7.9% had a lipase value at any time during treatment of greater than or equal to 3 times the upper limit of normal compared with 4.5% of placebo-treated patients, and 1% of VICTOZA-treated patients had an amylase value at any time during treatment of greater than or equal to 3 times the upper limit of normal versus 0.7% of placebo-treated patients.
+Among adult VICTOZA-treated patients, 7.9% had a lipase value at any time during treatment of greater than or equal to 3 times the upper limit of normal compared with 4.5% of placebo-treated patients, and 1% of VICTOZA-treated patients had an amylase value at any time during treatment of greater than or equal to 3 times the upper limit of normal versus 0.7% of placebo-treated patients.
 
 The clinical significance of elevations in lipase or amylase with VICTOZA is unknown in the absence of other signs and symptoms of pancreatitis [see Warnings and Precautions (5.2)].
 
 Vital signs
 
 VICTOZA did not have adverse effects on blood pressure.
-Mean increases from baseline in heart rate of 2 to 3 beats per minute have been observed with VICTOZA compared to placebo.
+Mean increases from baseline in heart rate of 2 to 3 beats per minute have been observed in adult patients treated with VICTOZA compared to placebo.
 
-## 6.2 Immunogenicity
-
-Consistent with the potentially immunogenic properties of protein and peptide pharmaceuticals, patients treated with VICTOZA may develop anti-liraglutide antibodies.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, the incidence of antibodies to liraglutide cannot be directly compared with the incidence of antibodies of other products.
-
-Approximately 50-70% of VICTOZA-treated patients in five double-blind clinical trials of 26 weeks duration or longer were tested for the presence of anti-liraglutide antibodies at the end of treatment.
-Low titers (concentrations not requiring dilution of serum) of anti-liraglutide antibodies were detected in 8.6% of these VICTOZA-treated patients.
-Cross-reacting anti-liraglutide antibodies to native glucagon-like peptide-1 (GLP-1) occurred in 6.9% of the VICTOZA-treated patients in the double-blind 52-week monotherapy trial and in 4.8% of the VICTOZA-treated patients in the double-blind 26-week add-on combination therapy trials.
-These cross-reacting antibodies were not tested for neutralizing effect against native GLP-1, and thus the potential for clinically significant neutralization of native GLP-1 was not assessed.
-Antibodies that had a neutralizing effect on liraglutide in an in vitro assay occurred in 2.3% of the VICTOZA-treated patients in the double-blind 52-week monotherapy trial and in 1.0% of the VICTOZA-treated patients in the double-blind 26-week add-on combination therapy trials.
-
-Antibody formation was not associated with reduced efficacy of VICTOZA when comparing mean HbA1c of all antibody-positive and all antibody-negative patients.
-However, the 3 patients with the highest titers of anti-liraglutide antibodies had no reduction in HbA1c with VICTOZA treatment.
-
-In five double-blind glycemic control trials of VICTOZA, events from a composite of adverse events potentially related to immunogenicity (e.g., urticaria, angioedema) occurred among 0.8% of VICTOZA-treated patients and among 0.4% of comparator-treated patients.
-Urticaria accounted for approximately one-half of the events in this composite for VICTOZA-treated patients.
-Patients who developed anti-liraglutide antibodies were not more likely to develop events from the immunogenicity events composite than were patients who did not develop anti-liraglutide antibodies.
-
-In the LEADER trial [see Clinical Studies (14.3)], anti-liraglutide antibodies were detected in 11 out of the 1247 (0.9%) VICTOZA-treated patients with antibody measurements.
-
-Of the 11 VICTOZA-treated patients who developed anti-liraglutide antibodies, none were observed to develop neutralizing antibodies to liraglutide, and 5 patients (0.4%) developed cross-reacting antibodies against native GLP-1.
-
-In a clinical trial with pediatric patients 10 to 17 years [see Clinical Studies (14.2)], anti-liraglutide antibodies were detected in 1 (1.5%) VICTOZA treated patient at week 26 and 5 (8.5%) VICTOZA treated patients at week 53.
-None of the 5 had antibodies cross reactive to native GLP-1 or had neutralizing antibodies.
-
-## 6.3 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following additional adverse reactions have been reported during post-approval use of VICTOZA.
 Because these events are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- •Medullary thyroid carcinoma
-- •Dehydration resulting from nausea, vomiting and diarrhea.
-- •Increased serum creatinine, acute renal failure or worsening of chronic renal failure, sometimes requiring hemodialysis.
-- •Angioedema and anaphylactic reactions.
-- •Allergic reactions: rash and pruritus
-- •Skin and subcutaneous tissue disorder: cutaneous amyloidosis
-- •Acute pancreatitis, hemorrhagic and necrotizing pancreatitis sometimes resulting in death
-- •Hepatobiliary disorders: hyperbilirubinemia, elevations of liver enzymes, cholestasis, hepatitis, cholecystitis, cholelithiasis requiring cholecystectomy
+- •Gastrointestinal: Acute pancreatitis, hemorrhagic and necrotizing pancreatitis sometimes resulting in death, ileus
+- •General Disorders and Administration Site Conditions: Allergic reactions: rash and pruritus
+- •Hepatobiliary: Elevations of liver enzymes, hyperbilirubinemia, cholestasis, cholecystitis, cholelithiasis requiring cholecystectomy, hepatitis
+- •Immune system: Angioedema and anaphylactic reactions
+- •Metabolism and nutrition: Dehydration resulting from nausea, vomiting and diarrhea
+- •Neoplasms: Medullary thyroid carcinoma
+- •Nervous system: Dysgeusia, dizziness
+- •Renal and urinary: Increased serum creatinine, acute renal failure or worsening of chronic renal failure, sometimes requiring hemodialysis.
+- •Skin and subcutaneous tissue: Cutaneous amyloidosis

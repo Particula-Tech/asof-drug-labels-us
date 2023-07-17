@@ -59,18 +59,17 @@ In lactating rats, liraglutide was present unchanged in milk at concentrations a
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of VICTOZA as an adjunct to diet and exercise to improve glycemic control in type 2 diabetes mellitus have been established in pediatric patients 10 years of age and older.
-Use of VICTOZA for this indication is supported by a 26-week placebo-controlled clinical trial and a 26-week open-label extension in 134 pediatric patients 10 to 17 years of age with type 2 diabetes, a pediatric pharmacokinetic study, and studies in adults with type 2 diabetes mellitus [see Clinical Pharmacology (12.3) and Clinical Studies (14.1,14.2)].
-The risk of hypoglycemia was higher with VICTOZA in pediatric patients regardless of insulin and/or metformin use.
+Use of VICTOZA for this indication is supported by a 26-week placebo-controlled clinical trial and a 26-week open-label extension in 134 pediatric patients 10 to 17 years of age with type 2 diabetes mellitus, a pediatric pharmacokinetic study, and studies in adults with type 2 diabetes mellitus [see Clinical Pharmacology (12.3) and Clinical Studies (14.1,14.2)].
+The risk of hypoglycemia was higher with VICTOZA in pediatric patients regardless of insulin and/or metformin use [see Adverse Reactions (6.1)].
 
 The safety and effectiveness of VICTOZA have not been established in pediatric patients less than 10 years of age.
 
 ## 8.5 Geriatric Use
 
-In the VICTOZA treatment arms of the glycemic control trials, a total of 832 (19.3%) of the patients were 65 to 74 years of age and 145 (3.4%) were 75 years of age and over.
-No overall differences in safety or efficacy were observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
-
+In the VICTOZA treatment arms of the glycemic control trials, a total of 832 (19.3%) of the patients were 65 to 74 years of age and 145 (3.4%) were 75 years of age and over [see Clinical Studies (14.1)].
 In the VICTOZA treatment arm of the LEADER trial [see Clinical Studies (14.3)], a total of 1738 (37.2%) patients were 65 to 74 years of age, 401 (8.6%) were 75 to 84 years of age, and 17 (0.4%) were 85 years of age or older at baseline.
-No overall differences in safety or efficacy were observed between these patients and younger patients.
+
+No overall differences in safety or effectiveness for VICTOZA have been observed between patients 65 years of age and older and younger patients.
 
 ## 8.6 Renal Impairment
 
