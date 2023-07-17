@@ -14,7 +14,7 @@ Heparin-Induced Thrombocytopenia
 
 Inform patients of the risk of heparin-induced thrombocytopenia (HIT).
 HIT may progress to the development of venous and arterial thromboses, a condition known as heparin-induced thrombocytopenia and thrombosis (HITT).
-HIT (With or Without Thrombosis) can occur up to several weeks after the discontinuation of heparin therapy [see Warnings and Precautions (5.3 and 5.4)].
+HIT or HITT can occur up to several weeks after the discontinuation of heparin therapy [see Warnings and Precautions (5.3 and 5.4)].
 
 Hypersensitivity
 

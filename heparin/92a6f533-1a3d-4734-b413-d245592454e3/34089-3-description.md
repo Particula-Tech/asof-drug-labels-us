@@ -5,7 +5,7 @@ It is composed of polymers of alternating derivations of alpha-L-iduronic acid 2
 
 Structure of Heparin Sodium (representative subunits):
 
-Heparin Sodium in 5% Dextrose Injection is a sterile, nonpyrogenic solution prepared from heparin sodium (derived from porcine intestinal mucosa and standardized for use as an anticoagulant) and Hydrous Dextrose USP in Water for Injection USP.
+Heparin Sodium in 5% Dextrose Injection is a sterile, nonpyrogenic solution prepared from Heparin Sodium USP (derived from porcine intestinal mucosa and standardized for use as an anticoagulant) and Hydrous Dextrose USP.
 It is to be administered by intravenous injection.
 The potency is determined by a biological assay using a USP reference standard based on units of heparin activity per milligram.
 
