@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA211287"
+  ],
+  "inn": "tiotropium",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "68180-964-11",
+    "68180-964-12"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tiotropium bromide",
+      "name": "Tiotropium Bromide"
+    }
+  ],
+  "setid": "496b38ee-45b6-4bb2-a35e-9023c3b73719",
+  "source": "dailymed"
+}
