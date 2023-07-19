@@ -17,10 +17,12 @@ Usual adult dosage: 1 tablet three times daily and at bedtime.
 Dispense in tight container.
 Store at controlled room temperature 20°-25°C (68°-77°F).
 
-Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120
+Meda Pharmaceuticals Inc. 1000 Mylan Blvd Canonsburg, PA 15317
 
-LB-90G6-05 Rev.
-5/2018 400939-01
+LB-90G6-06 Rev.
+5/2023
+
+400939-02
 
 # PRINCIPAL DISPLAY PANEL – 350 mg
 
@@ -39,7 +41,9 @@ Please see enclosed full Prescribing Information.
 Dispense in tight container.
 Store at controlled room temperature 20°-25°C (68°-77°F).
 
-Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120
+Meda Pharmaceuticals Inc. 1000 Mylan Blvd Canonsburg, PA 15317
 
-LB-90H2-14 Rev.
-5/2018 400940-01
+LB-90H2-15 Rev.
+5/2023
+
+400940-02
