@@ -45,12 +45,12 @@ The mean duration of follow-up was 19 months.
 The primary endpoint was the time to first occurrence of one of the following events: hospitalization for angina pectoris, coronary revascularization, myocardial infarction, cardiovascular death, resuscitated cardiac arrest, hospitalization for heart failure, stroke/TIA, or peripheral vascular disease.
 A total of 110 (16.6%) and 151 (23.1%) first events occurred in the amlodipine and placebo groups, respectively, for a hazard ratio of 0.691 (95% CI: 0.540–0.884, p = 0.003).
 The primary endpoint is summarized in Figure 1 below.
-The outcome of this study was largely derived from the prevention of hospitalizations for angina and the prevention of revascularization procedures (see).
+The outcome of this study was largely derived from the prevention of hospitalizations for angina and the prevention of revascularization procedures (see Table 1).
 Effects in various subgroups are shown in Figure 2.
 
 In an angiographic substudy (n=274) conducted within CAMELOT, there was no significant difference between amlodipine and placebo on the change of atheroma volume in the coronary artery as assessed by intravascular ultrasound.
 
-below summarizes the significant composite endpoint and clinical outcomes from the composites of the primary endpoint.
+Table 4 below summarizes the significant composite endpoint and clinical outcomes from the composites of the primary endpoint.
 The other components of the primary endpoint including cardiovascular death, resuscitated cardiac arrest, myocardial infarction, hospitalization for heart failure, stroke/TIA, or peripheral vascular disease did not demonstrate a significant difference between amlodipine and placebo.
 
 Table 4: Incidence of Significant Clinical Outcomes
