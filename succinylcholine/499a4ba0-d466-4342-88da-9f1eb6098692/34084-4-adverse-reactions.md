@@ -13,9 +13,13 @@ The following clinically significant adverse reactions are discussed in greater 
 The following adverse reactions associated with the use of succinylcholine were identified in clinical studies or postmarketing reports.
 Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Cardiovascular disorders: Cardiac arrest, arrhythmias, bradycardia, tachycardia, hypertension, hypotension Electrolyte disorders: Hyperkalemia
+Cardiovascular disorders: Cardiac arrest, arrhythmias, bradycardia, tachycardia, hypertension, hypotension
 
-Eye disorders: Increased intraocular pressure Gastrointestinal disorders: Excessive salivation
+Electrolyte disorders: Hyperkalemia
+
+Eye disorders: Increased intraocular pressure
+
+Gastrointestinal disorders: Excessive salivation
 
 Immune system disorders: Hypersensitivity reactions including anaphylaxis (in some cases life-threatening and fatal)
 
