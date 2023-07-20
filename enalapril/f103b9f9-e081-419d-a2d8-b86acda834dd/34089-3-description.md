@@ -12,4 +12,4 @@ Enalapril is a pro-drug; following oral administration, it is bioactivated by hy
 Enalapril maleate is supplied as 2.5 mg, 5 mg, 10 mg, and 20 mg tablets for oral administration.
 In addition to the active ingredient enalapril maleate, each tablet contains the following inactive ingredients: lactose monohydrate, magnesium stearate, pregelatinized starch and sodium bicarbonate.
 
-The 2.5 mg, 5 mg and 20 mg tablets also contain iron oxide yellow, and the 10 mg and 20 mg tablets also contain iron oxide red.
+The 2.5 mg, 5 mg and 20 mg tablets also contain iron oxide yellow, and the 20 mg tablets also contain iron oxide red.

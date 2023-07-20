@@ -16,13 +16,13 @@ They are supplied as follows:
 - NDC 51672-4038-1 unit of use bottles of 100 (with desiccant)
 - NDC 51672-4038-3 unit of use bottles of 1,000 (with desiccant)
 
-Enalapril Maleate Tablets USP, 10 mg are pink colored, round, biconvex tablets.
+Enalapril Maleate Tablets USP, 10 mg are white colored, round, biconvex tablets.
 One side scored and engraved with "T" above the score and with "10" under the score.
 The other side plain.
 They are supplied as follows:
 
-- NDC 51672-4039-1 unit of use bottles of 100 (with desiccant)
-- NDC 51672-4039-3 unit of use bottles of 1,000 (with desiccant)
+- NDC 51672-4245-1 unit of use bottles of 100 (with desiccant)
+- NDC 51672-4245-3 unit of use bottles of 1,000 (with desiccant)
 
 Enalapril Maleate Tablets USP, 20 mg are peach colored, round, biconvex, slightly speckled tablets.
 One side scored and engraved with "T" above the score and with "20" under the score.

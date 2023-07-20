@@ -15,7 +15,7 @@ Where there is involvement of the tongue, glottis or larynx, likely to cause air
 
 Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema (see PRECAUTIONS).
 
-### Intestinal Angioedema
+## Intestinal Angioedema
 
 Intestinal angioedema has been reported in patients treated with ACE inhibitors.
 These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C1 esterase levels were normal.
