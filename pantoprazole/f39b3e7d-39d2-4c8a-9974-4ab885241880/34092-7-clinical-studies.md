@@ -2,7 +2,7 @@
 
 ## 14.1 Gastroesophageal Reflux Disease (GERD) Associated with a History of Erosive Esophagitis
 
-A multicenter, double-blind, two-period placebo-controlled study was conducted to assess the ability of PROTONIX I.V. to maintain gastric acid suppression in patients switched from PROTONIX Delayed-Release Tablets to PROTONIX I.V.
+A multicenter, double-blind, two-period placebo-controlled study was conducted to assess the ability of PROTONIX® I.V. to maintain gastric acid suppression in patients switched from PROTONIX Delayed-Release Tablets to PROTONIX I.V.
 GERD patients (n=65, 26 to 64 years; 35 female; 9 Black, 11 Hispanic, 44 White, 1 other) with a history of EE were randomized to receive either 20 or 40 mg of oral pantoprazole once per day for 10 days (period 1), and then were switched in period 2 to either daily PROTONIX I.V. or placebo for 7 days, matching their respective dose level from period 1.
 Patients were administered all test medication with a light meal.
 Maximum acid output (MAO) and basal acid output (BAO) were determined 24 hours following the last day of oral medication (day 10), the first day (day 1) of intravenous administration and the last day of intravenous administration (day 7).

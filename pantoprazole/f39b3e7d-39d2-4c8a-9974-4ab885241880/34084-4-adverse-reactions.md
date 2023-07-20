@@ -2,16 +2,16 @@
 
 The following serious adverse reactions are described below and elsewhere in labeling:
 
-- Injection Site Reactions [see Warnings and Precautions (5.2)]
-- Potential for Exacerbation of Zinc Deficiency [see Warnings and Precautions (5.3)]
-- Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.4)]
-- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.5)]
-- Bone Fracture [see Warnings and Precautions (5.6)]
-- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.7)]
-- Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.8)]
-- Hepatic Effects [see Warnings and Precautions (5.9)]
-- Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions (5.10)]
-- Fundic Gland Polyps [see Warnings and Precautions (5.11)]
+- •Injection Site Reactions [see Warnings and Precautions (5.2)]
+- •Potential for Exacerbation of Zinc Deficiency [see Warnings and Precautions (5.3)]
+- •Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.4)]
+- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.5)]
+- •Bone Fracture [see Warnings and Precautions (5.6)]
+- •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.7)]
+- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.8)]
+- •Hepatic Effects [see Warnings and Precautions (5.9)]
+- •Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions (5.10)]
+- •Fundic Gland Polyps [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -79,7 +79,7 @@ Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fata
 
 Musculoskeletal Disorders: rhabdomyolysis, bone fracture
 
-Renal and Urinary Disorders: acute tubulointerstitial nephritis
+Renal and Genitourinary Disorders: acute tubulointerstitial nephritis, erectile dysfunction
 
 Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic failure
 

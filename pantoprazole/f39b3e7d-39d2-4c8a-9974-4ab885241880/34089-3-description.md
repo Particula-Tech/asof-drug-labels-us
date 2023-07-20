@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-The active ingredient in PROTONIX I.V.
+The active ingredient in PROTONIX® I.V.
 (pantoprazole sodium), a PPI, is a substituted benzimidazole, sodium 5-(difluoromethoxy)-2-[[(3,4-dimethoxy-2-pyridinyl)methyl] sulfinyl]-1H-benzimidazole, a compound that inhibits gastric acid secretion.
 Its empirical formula is C16H14F2N3NaO4S, with a molecular weight of 405.4.
 The structural formula is:

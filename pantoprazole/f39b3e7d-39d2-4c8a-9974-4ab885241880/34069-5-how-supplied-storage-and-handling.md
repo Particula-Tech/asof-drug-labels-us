@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-PROTONIX I.V.
+PROTONIX® I.V.
 (pantoprazole sodium) is supplied in a single-dose vial as a white to off-white freeze-dried powder for reconstitution containing 40 mg of pantoprazole.
 
 PROTONIX I.V. is available as follows:
