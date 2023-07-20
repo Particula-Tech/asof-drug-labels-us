@@ -25,4 +25,4 @@ Blood: hemolytic anemia, thrombocytopenia, thrombocytopenic purpura, neutropenia
 When given over prolonged periods, tetracyclines have been reported to produce brown-black microscopic discoloration of thyroid glands.
 No abnormalities of thyroid function studies are known to occur.
 
-To request medical information or to report SUSPECTED ADVERSE REACTIONS, contact Chartwell RX, LLC. at 845-232-1683 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+Torequest medical information or toreportSUSPECTEDADVERSE REACTIONS, contactChartwell RX,LLC. at 845-232-1683or the FDA at 1-800-FDA-1088 orwww.fda.gov/medwatch.

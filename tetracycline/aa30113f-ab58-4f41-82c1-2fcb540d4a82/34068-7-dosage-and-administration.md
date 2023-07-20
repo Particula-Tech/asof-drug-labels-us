@@ -25,7 +25,7 @@ In cases of moderate to severe acne which, in the judgement of the clinician, re
 When improvement is noted, reduce dosage gradually to maintenance levels ranging from 125 mg to 500 mg daily.
 In some patients it may be possible to maintain adequate remission of lesions with alternate day or intermittent therapy.
 Tetracycline therapy of acne should augment the other standard measures known to be of value.
-Duration of long-term treatment which can safely be recommended has not been established (see WARNINGS and Carcinogenesis, Mutagenesis, Impairment of Fertility).
+Duration of long-term treatment which can safely be recommended has not been established (see WARNINGSand Carcinogenesis, Mutagenesis, Impairment of Fertility).
 
 ## Use in Specific Population
 

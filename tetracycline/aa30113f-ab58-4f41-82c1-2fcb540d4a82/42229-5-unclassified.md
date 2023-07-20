@@ -1,9 +1,3 @@
-Tetracycline Hydrochloride Capsules, USP
-
-For Oral Use
-
-Rx only
-
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of tetracycline hydrochloride and other antibacterial drugs, tetracycline hydrochloride should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
 # ANIMAL PHARMACOLOGY AND ANIMAL TOXICOLOGY
@@ -17,12 +11,18 @@ Administration of minocycline also produced a large goiter with high radioiodine
 Treatment of various animal species with this class of drugs has also resulted in the induction of thyroid hyperplasia in the following: in rats and dogs (minocycline), in chickens (chlortetracycline) and in rats and mice (oxytetracycline).
 Adrenal gland hyperplasia has been observed in goats and rats treated with oxytetracycline.
 
-Manufactured by: Chartwell Pharmaceuticals, LLC.
+Manufactured by:
+
+Chartwell Pharmaceuticals, LLC.
 
 Congers, NY 10920
 
-Manufactured for: Chartwell RX, LLC.
+Manufactured for:
+
+Chartwell RX, LLC.
 
 Congers, NY 10920
 
-L70222 Rev: 02/2021
+L70222
+
+Rev: 02/2021
