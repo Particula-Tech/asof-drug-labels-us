@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Dextroamphetamine sulfate oral solution 5 mg/5 mL is a colorless, bubble gum flavored oral solution.
+Dextroamphetamine Sulfate Oral Solution 5 mg/5 mL is a colorless, bubble gum flavored oral solution.
 It is available in 16 fluid ounces (473 mL) bottles, NDC 27808-085-01.
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted from 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
@@ -17,6 +17,6 @@ www.trispharma.com
 LB8255
 
 Rev.
-06
+08
 
-Revised February 2022
+Revised: 06/2023

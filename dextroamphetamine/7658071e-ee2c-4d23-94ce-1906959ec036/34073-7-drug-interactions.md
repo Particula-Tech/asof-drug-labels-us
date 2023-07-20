@@ -1,4 +1,18 @@
-# DRUG INTERACTIONS
+# Drug Interactions
+
+MAO Inhibitors - MAOI antidepressants, as well as a metabolite of furazolidone, slow amphetamine metabolism.
+This slowing potentiates amphetamines, increasing their effect on the release of norepinephrine and other monoamines from adrenergic nerve endings; this can cause headaches and other signs of hypertensive crisis.
+A variety of neurological toxic effects and malignant hyperpyrexia can occur, sometimes with fatal results.
+
+Serotonergic Drugs - The concomitant use of dextroamphetamine sulfate oral solution and serotonergic drugs increases the risk of serotonin syndrome.
+Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during dextroamphetamine sulfate oral solution initiation or dosage increase.
+If serotonin syndrome occurs, discontinue dextroamphetamine sulfate oral solution and the concomitant serotonergic drug(s) (see WARNINGS, PRECAUTIONS).
+Examples of serotonergic drugs include selective serotonin reuptake inhibitors (SSRI), serotonin norepinephrine reuptake inhibitors (SNRI), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John’s Wort.
+
+CYP2D6 Inhibitors - The concomitant use of dextroamphetamine sulfate oral solution and CYP2D6 inhibitors may increase the exposure of dextroamphetamine sulfate oral solution compared to the use of the drug alone and increase the risk of serotonin syndrome.
+Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome particularly during dextroamphetamine sulfate oral solution initiation and after a dosage increase.
+If serotonin syndrome occurs, discontinue dextroamphetamine sulfate oral solution and the CYP2D6 inhibitor (see WARNINGS, OVERDOSAGE).
+Examples of CYP2D6 Inhibitors include paroxetine and fluoxetine (also serotonergic drugs), quinidine, ritonavir.
 
 Acidifying Agents – Gastrointestinal acidifying agents (guanethidine, reserpine, glutamic acid HCl, ascorbic acid, fruit juices, etc.) lower absorption of amphetamines.
 Urinary acidifying agents (ammonium chloride, sodium acid phosphate, etc.) increase the concentration of the ionized species of the amphetamine molecule, thereby increasing urinary excretion.
@@ -11,20 +25,6 @@ Urinary alkalinizing agents (acetazolamide, some thiazides) increase the concent
 Both groups of agents increase blood levels and therefore potentiate the actions of amphetamines.
 
 Antidepressants, Tricyclic – Amphetamines may enhance the activity of tricyclic or sympathomimetic agents; d-amphetamine with desipramine or protriptyline and possibly other tricyclics cause striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated.
-
-CYP2D6 Inhibitors – The concomitant use of Dextroamphetamine Sulfate Oral Solution and CYP2D6 inhibitors may increase the exposure of Dextroamphetamine Sulfate Oral Solution compared to the use of the drug alone and increase the risk of serotonin syndrome.
-Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome particularly during Dextroamphetamine Sulfate Oral Solution initiation and after a dosage increase.
-If serotonin syndrome occurs, discontinue Dextroamphetamine Sulfate Oral Solution and the CYP2D6 inhibitor [see WARNINGS, OVERDOSAGE].
-Examples of CYP2D6 Inhibitors include paroxetine and fluoxetine (also serotonergic drugs), quinidine, ritonavir.
-
-Serotonergic Drugs – The concomitant use of Dextroamphetamine Sulfate Oral Solution and serotonergic drugs increases the risk of serotonin syndrome.
-Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during Dextroamphetamine Sulfate Oral Solution initiation or dosage increase.
-If serotonin syndrome occurs, discontinue Dextroamphetamine Sulfate Oral Solution and the concomitant serotonergic drug(s) [see WARNINGS and PRECAUTIONS].
-Examples of serotonergic drugs include selective serotonin reuptake inhibitors (SSRI), serotonin norepinephrine reuptake inhibitors (SNRI), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John’s Wort.
-
-MAO Inhibitors – MAOI antidepressants, as well as a metabolite of furazolidone, slow amphetamine metabolism.
-This slowing potentiates amphetamines, increasing their effect on the release of norepinephrine and other monoamines from adrenergic nerve endings; this can cause headaches and other signs of hypertensive crisis.
-A variety of neurological toxic effects and malignant hyperpyrexia can occur, sometimes with fatal results.
 
 Antihistamines – Amphetamines may counteract the sedative effect of antihistamines.
 
@@ -59,30 +59,32 @@ This increase is greatest in the evening.
 
 Amphetamines may interfere with urinary steroid determinations.
 
-## Carcinogenesis/Mutagenesis:
+## Carcinogenesis/Mutagenesis
 
 Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of dextroamphetamine sulfate have not been performed.
 
-## Pregnancy:
+## Pregnancy
 
-### Teratogenic Effects:
+### Teratogenic Effects
 
-Pregnancy Category C. Dextroamphetamine sulfate has been shown to have embryotoxic and teratogenic effects when administered to A/Jax mice and C57BL mice in doses approximately 41 times the maximum human dose.
+Pregnancy Category C
+
+Dextroamphetamine sulfate has been shown to have embryotoxic and teratogenic effects when administered to A/Jax mice and C57BL mice in doses approximately 41 times the maximum human dose.
 Embryotoxic effects were not seen in New Zealand white rabbits given the drug in doses 7 times the human dose nor in rats given 12.5 times the maximum human dose.
 While there are no adequate and well-controlled studies in pregnant women, there has been one report of severe congenital bony deformity, tracheoesophageal fistula, and anal atresia (VATER association) in a baby born to a woman who took dextroamphetamine sulfate with lovastatin during the first trimester of pregnancy.
 Dextroamphetamine sulfate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-### Nonteratogenic Effects:
+### Nonteratogenic Effects
 
 Infants born to mothers dependent on amphetamines have an increased risk of premature delivery and low birth weight.
 Also, these infants may experience symptoms of withdrawal as demonstrated by dysphoria, including agitation, and significant lassitude.
 
-## Nursing Mothers:
+## Nursing Mothers
 
 Amphetamines are excreted in human milk.
 Mothers taking amphetamines should be advised to refrain from nursing.
 
-## Pediatric Use:
+## Pediatric Use
 
 Long-term effects of amphetamines in pediatric patients have not been well established.
 

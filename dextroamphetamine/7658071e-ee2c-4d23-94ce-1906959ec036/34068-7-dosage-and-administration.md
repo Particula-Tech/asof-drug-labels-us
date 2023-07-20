@@ -21,3 +21,8 @@ Only in rare cases will it be necessary to exceed a total of 40 mg per day.
 Give first dose on awakening; additional doses (1 or 2) at intervals of 4 to 6 hours.
 
 Where possible, drug administration should be interrupted occasionally to determine if there is a recurrence of behavioral symptoms sufficient to require continued therapy.
+
+Prior to treating patients with dextroamphetamine sulfate assess:
+
+- for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) (see WARNINGS).
+- the family history and clinically evaluate patients for motor or verbal tics or Tourette’s syndrome (see WARNINGS).

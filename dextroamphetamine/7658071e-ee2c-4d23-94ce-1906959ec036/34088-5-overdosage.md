@@ -1,16 +1,18 @@
 # OVERDOSAGE
 
-Individual patient response to amphetamines varies widely.
-While toxic symptoms occasionally occur as an idiosyncrasy at doses as low as 2 mg, they are rare with doses of less than 15 mg; 30 mg can produce severe reactions, yet doses of 400 to 500 mg are not necessarily fatal.
+Clinical Effects of Overdose
 
-In rats, the oral LD50 of dextroamphetamine sulfate is 96.8 mg/kg.
+Overdose of CNS stimulants is characterized by the following sympathomimetic effects:
 
-Manifestations of acute overdosage with amphetamines include restlessness, tremor, hyperreflexia, rhabdomyolysis, rapid respiration, hyperpyrexia, confusion, assaultiveness, hallucinations, panic states.
+- Cardiovascular effects including tachyarrhythmias, and hypertension or hypotension.
+  Vasospasm, myocardial infarction, or aortic dissection may precipitate sudden cardiac death.
+  Takotsubo cardiomyopathy may develop.
+- CNS effects including psychomotor agitation, confusion, and hallucinations.
+  Serotonin syndrome, seizures, cerebral vascular accidents, and coma may occur.
+- Life-threatening hyperthermia (temperatures greater than 104°F) and rhabdomyolysis may develop.
 
-Fatigue and depression usually follow the central stimulation.
+Overdose Management
 
-Cardiovascular effects include arrhythmias, hypertension or hypotension and circulatory collapse.
-
-Gastrointestinal symptoms include nausea, vomiting, diarrhea and abdominal cramps.
-
-Fatal poisoning is usually proceeded by convulsions and coma.
+Consider the possibility of multiple drug ingestion.
+D-amphetamine is not dialyzable.
+Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.

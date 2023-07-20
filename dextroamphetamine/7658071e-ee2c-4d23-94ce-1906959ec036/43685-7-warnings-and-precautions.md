@@ -1,82 +1,114 @@
 # WARNINGS
 
-Serious Cardiovascular Events
+Abuse, Misuse, and Addiction
 
-Sudden Death in Patients with Pre-existing Structural Cardiac Abnormalities or Other Serious Heart Problems: Children and Adolescents: Sudden death has been reported in association with CNS stimulant treatment at usual doses in children and adolescents with structural cardiac abnormalities or other serious heart problems.
-Although some serious heart problems alone carry an increased risk of sudden death, stimulant products generally should not be used in children or adolescents with known serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, or other serious cardiac problems that may place them at increased vulnerability to the sympathomimetic effects of a stimulant drug.
+Dextroamphetamine sulfate has a high potential for abuse and misuse.
+The use of dextroamphetamine sulfate exposes individuals to the risks of abuse and misuse, which can lead to the development of a substance use disorder, including addiction.
+Dextroamphetamine sulfate can be diverted for non-medical use into illicit channels or distribution (see DRUG ABUSE and DEPENDENCE).
+Misuse and abuse of CNS stimulants, including dextroamphetamine sulfate, can result in overdose and death (see OVERDOSAGE), and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
 
-Adults: Sudden deaths, stroke, and myocardial infarction have been reported in adults taking stimulant drugs at usual doses for ADHD.
-Although the role of stimulants in these adult cases is also unknown, adults have a greater likelihood than children of having serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, coronary artery disease, or other serious cardiac problems.
-Adults with such abnormalities should also generally not be treated with stimulant drugs [see CONTRAINDICATIONS].
+Before prescribing dextroamphetamine sulfate, assess each patient’s risk for abuse, misuse, and addiction.
+Educate patients and their families about these risks and proper disposal of any unused drug.
+Advise patients to store amphetamine sulfate in a safe place, preferably locked, and instruct patients to not give dextroamphetamine sulfate to anyone else.
+Throughout dextroamphetamine sulfate treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction.
 
-Hypertension and Other Cardiovascular Conditions: Stimulant medications cause a modest increase in average blood pressure (about 2-4 mmHg) and average heart rate (about 3-6 bpm), and individuals may have larger increases.
-While the mean changes alone would not be expected to have short term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
-Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia [see CONTRAINDICATIONS].
+Risks to Patients with Serious Cardiac Disease
 
-Assessing Cardiovascular Status in Patients Being Treated With Stimulant Medications: Children, adolescents, or adults who are being considered for treatment with stimulant medications should have a careful history (including assessment for a family history of sudden death or ventricular arrhythmia) and physical exam to assess for the presence of cardiac disease, and should receive further cardiac evaluation if findings suggest such disease (e.g., electrocardiogram and echocardiogram).
-Patients who develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease during stimulant treatment should undergo a prompt cardiac evaluation.
+Sudden death has been reported in patients with structural cardiac abnormalities or other serious cardiac disease who are treated with CNS stimulants at the recommended ADHD dosages.
 
-Psychiatric Adverse Events
+Avoid Dextroamphetamine Sulfate Oral Solution use in patients with known structural cardiac abnormalities, cardiomyopathy, serious cardiac arrhythmia, coronary artery disease, or other serious cardiac disease.
 
-Pre-Existing Psychosis: Administration of stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with pre-existing psychotic disorder.
+Increased Blood Pressure and Heart Rate
 
-Bipolar Illness: Particular care should be taken in using stimulants to treat ADHD in patients with comorbid bipolar disorder because of concern for possible induction of a mixed/manic episode in such patients.
-Prior to initiating treatment with stimulant, patients with comorbid depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
+CNS stimulants cause an increase in blood pressure (mean increase about 2 to 4 mm Hg) and heart rate (mean increase about 3 to 6 bpm).
+Monitor all patients for potential tachycardia and hypertension.
 
-Emergence of New Psychotic or Manic Symptoms: Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by stimulants at usual doses.
-If such symptoms occur, consideration should be given to a possible causal role of the stimulant, and discontinuation of treatment may be appropriate.
-In a pooled analysis of multiple short-term, placebo-controlled studies, such symptoms occurred in about 0.1% (4 patients with events out of 3,482 exposed to methylphenidate or amphetamine for several weeks at usual doses) of stimulant-treated patients compared to 0 in placebo-treated patients.
+Psychiatric Adverse Reactions
 
-Aggression: Aggressive behavior or hostility is often observed in children and adolescents with ADHD, and has been reported in clinical trials and the postmarketing experience of some medications indicated for the treatment of ADHD.
-Although there is no systematic evidence that stimulants cause aggressive behavior or hostility, patients beginning treatment for ADHD should be monitored for the appearance of, or worsening of, aggressive behavior or hostility.
+Exacerbation of Pre-Existing Psychosis: CNS stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
 
-Long-Term Suppression of Growth: Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
-Published data are inadequate to determine whether chronic use of amphetamines may cause a similar suppression of growth, however, it is anticipated that they likely have this effect as well.
-Therefore, growth should be monitored during treatment with stimulants, and patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
+Induction of a Manic Episode in Patients with Bipolar Disorder: CNS stimulants may induce a manic or mixed episode in patients.
+Prior to initiating treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive symptoms or a family history of suicide, bipolar disorder, or depression).
+
+New Psychotic or Manic Symptoms: CNS stimulants, at recommended doses, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania.
+In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients, compared with 0% of placebo-treated patients.
+If such symptoms occur, consider discontinuing dextroamphetamine sulfate.
+
+Long-Term Suppression of Growth in Pediatric Patients: CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients, including dextroamphetamine sulfate.
+Closely monitor growth (weight and height) in Dextroamphetamine Sulfate Oral Solution-treated pediatric patients treated with CNS stimulants.
+
+Pediatric patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted (see PRECAUTIONS, PEDIATRIC USE).
 
 Seizures: There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, the drug should be discontinued.
 
-Peripheral Vasculopathy, Including Raynaud’s Phenomenon: Stimulants, including Dextroamphetamine sulfate oral solution, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
+Peripheral Vasculopathy, Including Raynaud’s Phenomenon: Stimulants, including dextroamphetamine sulfate oral solution, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulcerations and/or soft tissue breakdown.
-Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
-Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
-Careful observation for digital changes is necessary during treatment with ADHD stimulants.
-Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports and at the therapeutic dosages of CNS stimulants in all age groups throughout the course of treatment.
+Signs and symptoms generally improved after dosage reduction or discontinuation of the CNS stimulant.
+Careful observation for digital changes is necessary during dextroamphetamine sulfate oral solution-treatment.
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for dextroamphetamine sulfate oral solution-treated patients who develop signs or symptoms of peripheral vasculopathy.
 
-Serotonin Syndrome: Serotonin syndrome, a potentially life-threatening reaction, may occur when amphetamines are used in combination with other drugs that affect the serotonergic neurotransmitter systems such as monoamine oxidase inhibitors (MAOIs), selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort [see DRUG INTERACTIONS].
-Amphetamines and amphetamine derivatives are known to be metabolized, to some degree, by cytochrome P450 2D6 (CYP2D6) and display minor inhibition of CYP2D6 metabolism [see CLINICAL PHARMACOLOGY].
-The potential for a pharmacokinetic interaction exists with the coadministration of CYP2D6 inhibitors which may increase the risk with increased exposure to Dextroamphetamine Sulfate Oral Solution.
-In these situations, consider an alternative non-serotonergic drug or an alternative drug that does not inhibit CYP2D6 [see DRUG INTERACTIONS].
+Serotonin Syndrome: Serotonin syndrome, a potentially life-threatening reaction, may occur when amphetamines are used in combination with other drugs that affect the serotonergic neurotransmitter systems such as monoamine oxidase inhibitors (MAOIs), selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort (see DRUG INTERACTIONS).
+
+The coadministration with cytochrome P450 (CYP2D6) inhibitors may also increase the risk with increased exposure to dextroamphetamine sulfate oral solution.
+In these situations, consider an alternative non-serotonergic drug or an alternative drug that does not inhibit CYP2D6 (see DRUG INTERACTIONS).
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
-Concomitant use of Dextroamphetamine Sulfate Oral Solution with MAOI drugs is contraindicated [see CONTRAINDICATIONS].
+Concomitant use of dextroamphetamine sulfate oral solution with MAOI drugs is contraindicated (see CONTRAINDICATIONS).
 
-Discontinue treatment with Dextroamphetamine Sulfate Oral Solution and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
-If concomitant use of Dextroamphetamine Sulfate Oral Solution with other serotonergic drugs or CYP2D6 inhibitors is clinically warranted, initiate Dextroamphetamine Sulfate Oral Solution with lower doses, monitor patients for the emergence of serotonin syndrome during drug initiation or titration, and inform patients of the increased risk for serotonin syndrome.
+Discontinue treatment with dextroamphetamine sulfate oral solution and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
+If concomitant use of dextroamphetamine sulfate oral solution with other serotonergic drugs or CYP2D6 inhibitors is clinically warranted, initiate dextroamphetamine sulfate oral solution with lower doses, monitor patients for the emergence of serotonin syndrome during drug initiation or titration, and inform patients of the increased risk for serotonin syndrome.
 
-Visual Disturbance: Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
+Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
+
+CNS stimulants, including amphetamine sulfate, have been associated with the onset or exacerbation of motor and verbal tics.
+Worsening of Tourette’s syndrome has also been reported.
+Assess the family history and clinically evaluate patients for tics or Tourette’s syndrome before initiating dextroamphetamine sulfate.
+Regularly monitor patients for the emergence or worsening of tics or Tourette’s syndrome with dextroamphetamine sulfate, and discontinue treatment if clinically appropriate.
 
 # PRECAUTIONS
 
-## General:
+## Information for Patients
 
-The least amount feasible should be prescribed or dispensed at one time in order to minimize the possibility of overdosage.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-## Information for Patients:
+Abuse, Misuse, and Addiction
 
-Amphetamines may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or vehicles; the patient should therefore be cautioned accordingly.
+Educate patients and their families about the risks of abuse, misuse, and addiction of dextroamphetamine sulfate which can lead to overdose and death, and proper disposal of any unused drug (see WARNINGS, DRUG ABUSE AND DEPENDENCE, and OVERDOSAGE).
+Advise patients to store dextroamphetamine sulfate in a safe place, preferably locked, and instruct patients to not give dextroamphetamine sulfate to anyone else.
 
-Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with dextroamphetamine and should counsel them in its appropriate use.
-A patient Medication Guide is available for dextroamphetamine sulfate oral solution.
-The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
-Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is reprinted at the end of this document.
+Risks to Patients with Serious Cardiac Disease
+
+Advise patients that there are potential risks to patients with serious cardiac disease, including sudden death, with dextroamphetamine sulfate use.
+Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease (see WARNINGS).
+
+Increased Blood Pressure and Heart Rate
+
+Advise patients that dextroamphetamine sulfate can elevate blood pressure and heart rate (see WARNINGS).
+
+Psychiatric Adverse Reactions
+
+Advise patients that dextroamphetamine sulfate, at recommended doses, can cause psychotic or manic symptoms, even in patients without prior history of psychotic symptoms or mania (see WARNINGS).
+
+Long-Term Suppression of Growth in Pediatric Patients
+
+Advise patients that dextroamphetamine sulfate, may cause slowing of growth including weight loss (see WARNINGS).
 
 Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]
 
-- Instruct patients beginning treatment with dextroamphetamine sulfate oral solution about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
+- Instruct patients beginning treatment with dextroamphetamine sulfate oral solution about the risk of peripheral vasculopathy, including Raynaud’s phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
 - Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
 - Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking dextroamphetamine sulfate oral solution.
 - Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+
+Serotonin Syndrome Caution patients about the risk of serotonin syndrome with concomitant use of dextroamphetamine sulfate and other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort, and with drugs that impair metabolism of serotonin (in particular MAOIs, both those intended to treat psychiatric disorders and also others such as linezolid (see CONTRAINDICATIONS, WARNINGS, and DRUG INTERACTIONS).
+Advise patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome.
+
+Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
+
+Advise patients that motor and verbal tics and worsening of Tourette’s Syndrome may occur during treatment with dextroamphetamine sulfate.
+Instruct the patients to notify their healthcare provider if emergence or worsening of tics or Tourette’s syndrome occurs (see WARNINGS).
+
+Amphetamines may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or vehicles; the patient should therefore be cautioned accordingly.
