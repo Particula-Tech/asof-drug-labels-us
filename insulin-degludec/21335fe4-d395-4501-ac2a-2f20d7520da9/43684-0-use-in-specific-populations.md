@@ -86,8 +86,8 @@ Safety and effectiveness of XULTOPHY 100/3.6 have not been established in pediat
 
 ## 8.5 Geriatric Use
 
-Of the total number of 1881 subjects in clinical studies of XULTOPHY 100/3.6, 375 (19.9%) were 65 years and over, while 52 (2.8%) were 75 years and over.
-No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals to the effects of XULTOPHY 100/3.6 cannot be ruled out.
+Of the total number of 1881 subjects in clinical studies of XULTOPHY 100/3.6, 375 (19.9%) were 65 years and over, while 52 (2.8%) were 75 years and over [see Clinical Studies (14)].
+No overall differences in safety or effectiveness of XULTOPHY 100/3.6 were observed between patients 65 years of age and older and younger patients.
 
 Age had no clinically relevant effect on the pharmacokinetics of XULTOPHY 100/3.6 [see Clinical Pharmacology (12.3)].
 

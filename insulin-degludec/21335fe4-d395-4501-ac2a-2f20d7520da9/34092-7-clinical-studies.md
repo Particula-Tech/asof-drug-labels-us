@@ -2,7 +2,7 @@
 
 ## 14.1 Overview of Clinical Studies
 
-A total of 3908 patients with type 2 diabetes participated in 6 randomized, parallel and active or placebo-controlled phase 3 trials of 26 weeks duration.
+A total of 3908 patients with type 2 diabetes mellitus participated in 6 randomized, parallel and active or placebo-controlled phase 3 trials of 26 weeks duration.
 
 Three studies were conducted in patients inadequately controlled on one or more OADs (e.g. metformin, pioglitazone, sulfonylurea, or sodium-glucose cotransporter-2 inhibitors (SGLT2i) (Tables 5-7).
 Three studies were conducted in patients converting from liraglutide or basal insulin: one study was conducted in patients converting from liraglutide (with doses up to 1.8 mg), (Table 8), one study was conducted in patients converting from any basal insulin (Table 9), and one study was conducted in patients converting from insulin glargine U-100 (Table 10).
@@ -10,14 +10,13 @@ Three studies were conducted in patients converting from liraglutide or basal in
 In all trials, XULTOPHY 100/3.6 was titrated twice weekly by increments or decrements of 2 units (2 units insulin degludec/0.072 mg liraglutide), towards a pre-specified fasting blood glucose target.
 The same titration algorithm was applied for basal insulin comparators.
 
-## 14.2 Patients with Type 2 Diabetes Uncontrolled on OAD Treatment
+## 14.2 Patients with Type 2 Diabetes Mellitus Uncontrolled on OAD Treatment
 
 NCT01336023: The efficacy and safety of XULTOPHY 100/3.6 compared to insulin degludec and liraglutide, all administered once-daily, was studied in a 26-week randomized, open-label, three-arm parallel trial in 1660 patients with type 2 diabetes mellitus inadequately controlled on 1-2 OADs (metformin or metformin with or without pioglitazone).
 
 The mean age of the trial population was 55 years and mean duration of diabetes was 7 years.
 51% were male.
-62% were White, 7% were Black or African American and 15% were Hispanic.
-5% of patients had eGFR < 60mL/min/1.73m2; no patients had eGFR < 30mL/min/1.73m2.
+62% were White, 7% were Black or African American and 15% were Hispanic or Latino ethnicity, 5% of patients had eGFR < 60mL/min/1.73m2; no patients had eGFR < 30mL/min/1.73m2.
 The mean BMI was 31.2 kg/m2.
 
 The starting dose of XULTOPHY 100/3.6 was 10 units (10 units insulin degludec/0.36 mg liraglutide).
@@ -45,13 +44,13 @@ Table 5: Results of a 26-Week Trial with XULTOPHY 100/3.6 in Patients with Type 
 | End of Trial (LS Mean)# | 104 | 107 | 133 |
 | Change from baseline (LS Mean)# | -61.8 | -59.2 | -32.4 |
 
-A p<0.01.
+Ap<0.01.
 Primary endpoint was tested for non-inferiority of XULTOPHY 100/3.6 to insulin degludec based on pre-specified non-inferiority margin of 0.3% and for superiority of XULTOPHY 100/3.6 to liraglutide.
 
-# Estimated using an ANCOVA with treatment, baseline HbA1c stratum, sub-study, concomitant diabetes treatment and country as factors and baseline response as covariate.
+#Estimated using an ANCOVA with treatment, baseline HbA1c stratum, sub-study, concomitant diabetes treatment and country as factors and baseline response as covariate.
 Multiple imputation modelled “return to baseline” of the treatment effect for subjects having missing week 26 data.
 
-## Patients with missing HbA1c value at week 26 data were considered non-responders.
+##Patients with missing HbA1c value at week 26 data were considered non-responders.
 
 There were 11.8% of subjects in the XULTOPHY 100/3.6 arm, 12.3% in the insulin degludec arm and 15.5% in the liraglutide arm for whom HbA1c data was missing at week 26.
 
@@ -59,8 +58,7 @@ NCT01618162: The efficacy and safety of XULTOPHY 100/3.6 compared to placebo wer
 
 The mean age of the trial population was 60 years, and mean duration of diabetes was 9 years.
 52% were male.
-75% were White, 7% were Black or African American and 9% were Hispanic.
-11% of patients had eGFR < 60mL/min/1.73m2; no patients had eGFR < 30mL/min/1.73m2.
+75% were White, 7% were Black or African American and 9% were Hispanic or Latino ethnicity, 11% of patients had eGFR < 60mL/min/1.73m2; no patients had eGFR < 30mL/min/1.73m2.
 The mean BMI was 31.5 kg/m2.
 
 XULTOPHY 100/3.6 was started at 10 units (10 units insulin degludec/0.36 mg liraglutide) and titrated twice weekly towards a target fasting blood glucose goal of 72-108 mg/dL.
@@ -88,22 +86,21 @@ Table 6: Results of a 26-Week Trial with XULTOPHY 100/3.6 in Patients with Type 
 Ap<0.01.
 Primary endpoint was tested for superiority of XULTOPHY 100/3.6 to placebo.
 
-# Estimated using an ANCOVA with treatment, region and pre-trial medication as fixed factors and baseline response as covariate.
+#Estimated using an ANCOVA with treatment, region and pre-trial medication as fixed factors and baseline response as covariate.
 Multiple imputation modelled “jump-to-control” of the treatment effect for subjects having missing week 26 data.
 
-## Patients with missing HbA1c value at week 26 data were considered non-responders.
+##Patients with missing HbA1c value at week 26 data were considered non-responders.
 
 There were 12.8% of subjects in the XULTOPHY 100/3.6 arm and 24.7% in the placebo arm for whom HbA1c data was missing at week 26.
 
-### Dose of sulfonylurea was ≥ half of the maximum approved dose.
+###Dose of sulfonylurea was ≥ half of the maximum approved dose.
 
 NCT02773368: The efficacy and safety of XULTOPHY 100/3.6 compared to insulin glargine U-100, both administered once-daily, were studied in a 26-week randomized, open-label, two-arm parallel trial in 420 patients with type 2 diabetes mellitus inadequately controlled on a SGLT2i alone or in combination with other OADs (with or without metformin, pioglitazone, and/or dipeptidyl peptidase-4 [DPP4] inhibitor).
 At randomization, the DPP4 inhibitor was discontinued.
 
 The mean age of the trial population was 57 years and mean duration of diabetes was 10 years.
 59% were male.
-82% were White, 1% were Black or African American and 16% were Hispanic.
-3% of patients had eGFR < 60mL/min/1.73m2; none of the patients had eGFR < 30mL/min/1.73m2.
+82% were White, 1% were Black or African American and 16% were Hispanic or Latino ethnicity, 3% of patients had eGFR < 60mL/min/1.73m2; none of the patients had eGFR < 30mL/min/1.73m2.
 The mean BMI was 31.2 kg/m2.
 
 The starting dose of XULTOPHY 100/3.6 was 10 units (10 units insulin degludec/0.36 mg liraglutide).
@@ -129,18 +126,18 @@ Controlled on SGLT2i Alone or in Combination with Metformin, Pioglitazone and/or
 | End of Trial (LS Mean)# | 6.3 | 6.7 |
 | Change from baseline (LS Mean)# | -1.97 | -1.59 |
 | Estimated treatment difference [95% CI]# | -0.38% [-0.54; -0.23]A |  |
-| Percentage of patients achieving HbA1c <7%## | 79.5 % | 68.6% |
+| Percentage of patients achieving HbA1c <7%## | 79.5% | 68.6% |
 | FPG (mg/dL) |  |  |
 | Baseline | 171 | 172 |
 | End of Trial (LS Mean)### | 108 | 112 |
 | Change from baseline (LS Mean)### | -63.8 | -59.9 |
 
-A Primary endpoint was tested for non-inferiority of XULTOPHY 100/3.6 to insulin glargine U-100 on a non-inferiority margin of 0.3%.
+APrimary endpoint was tested for non-inferiority of XULTOPHY 100/3.6 to insulin glargine U-100 on a non-inferiority margin of 0.3%.
 
-# Estimated using an ANCOVA with treatment, pre-trial OAD group and region as factors and corresponding baseline value as covariate.
+#Estimated using an ANCOVA with treatment, pre-trial OAD group and region as factors and corresponding baseline value as covariate.
 For HbA1c (%), missing week 26 measurements from subjects who discontinued early were multiply-imputed using information from subjects who also discontinued early but still had a week 26 measurement (retrieved dropouts).
 
-## Patients with missing HbA1c value at week 26 data were considered non-responders.
+##Patients with missing HbA1c value at week 26 data were considered non-responders.
 
 There were 6.2% of subjects in the XULTOPHY 100/3.6 arm and 2.4% in the insulin glargine U-100 arm for whom HbA1c data was missing at week 26.
 
@@ -156,8 +153,7 @@ Oral anti-diabetic drugs (OADs) were continued at pre-trial doses throughout the
 The mean age of the population was 58 years, and mean duration of diabetes was 10 years.
 49% were male.
 91% were White, 8% Black or African American.
-11% were Hispanic.
-6% of patients had eGFR < 60mL/min/1.73m2; no patient had eGFR < 30mL/min/1.73m2.
+11% were Hispanic or Latino ethnicity, 6% of patients had eGFR < 60mL/min/1.73m2; no patient had eGFR < 30mL/min/1.73m2.
 The mean BMI was 33.1 kg/m2.
 
 The starting dose of XULTOPHY 100/3.6 was 16 units (16 units insulin degludec/0.58 mg liraglutide), and the average starting dose of liraglutide was 1.7 mg.
@@ -176,17 +172,17 @@ Table 8: Results of a 26-Week Trial with XULTOPHY 100/3.6 in Patients with Type 
 | Baseline | 7.8 | 7.8 |
 | End of Trial (LS Mean)# | 6.4 | 7.4 |
 | Change from baseline (LS Mean)# | -1.31 | -0.36 |
-| Estimated treatment difference [95% CI] | -0.95 [-1.15; -0.75] A |  |
+| Estimated treatment difference [95% CI] | -0.95 [-1.15; -0.75]A |  |
 | Percentage of patients achieving HbA1c <7%## | 74.6% | 30.2% |
 | FPG (mg/dL) |  |  |
 | Baseline | 161 | 169 |
 | End of Trial (LS Mean)# | 112 | 153 |
 | Change from baseline (LS Mean)# | -51.1 | -10.9 |
 
-1. A Test for superiority evaluated at 5.0% level for significance, (p<0.0001)
-2. # Estimated using an ANCOVA with treatment, pre-trial liraglutide and region as fixed factors and baseline response as covariate.
+1. ATest for superiority evaluated at 5.0% level for significance, (p<0.0001)
+2. #Estimated using an ANCOVA with treatment, pre-trial liraglutide and region as fixed factors and baseline response as covariate.
    Multiple imputation modelled “return to baseline” of the treatment effect for subjects having missing week 26 data.
-3. ## Patients with missing HbA1c data at week 26 were considered as non-responders.
+3. ##Patients with missing HbA1c data at week 26 were considered as non-responders.
 4. There were 5.2% of subjects in the XULTOPHY 100/3.6 arm and 19.0% in the liraglutide arm for whom HbA1c data was missing at week 26.
 
 Figure 3: Mean HbA1c (%) By Treatment Week in Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Liraglutide
@@ -201,8 +197,7 @@ Basal insulin and sulfonylurea/glinides were discontinued at randomization.
 The mean age of the trial population was 57 years, and mean duration of diabetes was 11 years.
 55% were male.
 77% were White, 5% Black or African American.
-10% were Hispanic.
-7% of patients had eGFR < 60mL/min/1.73m2; no patient had eGFR < 30mL/min/1.73m2.
+10% were Hispanic or Latino ethnicity, 7% of patients had eGFR < 60mL/min/1.73m2; no patient had eGFR < 30mL/min/1.73m2.
 The mean BMI was 33.7 kg/m2.
 The mean dose of metformin and basal insulin in patients entering the trial was approximately 2 g and 29 units, respectively.
 
@@ -240,11 +235,11 @@ At the end of the trial, the doses of insulin degludec were equivalent between t
 The mean final dose of XULTOPHY 100/3.6 and insulin degludec was 46 units (for XULTOPHY 100/3.6: 46 units insulin degludec/1.66 mg liraglutide).
 The difference in glucose lowering effect observed in the trial may not necessarily reflect the effect that will be observed in the care setting where alternative insulin degludec dosage can be used.
 
-* Maximum dose 50 units
+*Maximum dose 50 units
 
-1. # Estimated using an ANCOVA with treatment, country, and previous antidiabetic treatment as fixed factors and baseline response as covariate.
+1. #Estimated using an ANCOVA with treatment, country, and previous antidiabetic treatment as fixed factors and baseline response as covariate.
    Multiple imputation modelled “jump to control” of the treatment effect for subjects having missing week 26 data.
-2. ## Patients with missing HbA1c data at week 26 were considered non-responders.
+2. ##Patients with missing HbA1c data at week 26 were considered non-responders.
 3. There were 11.1% of subjects in the XULTOPHY 100/3.6 arm and 13.1% in the insulin degludec arm for whom HbA1c data was
 4. missing at week 26.
 
@@ -253,8 +248,7 @@ NCT01952145: The efficacy and safety of XULTOPHY 100/3.6 compared to insulin gla
 The mean age of the trial population was 59 years and mean duration of diabetes was 12 years.
 50% were male.
 95% were White, 2% Black or African American.
-43% were Hispanic.
-6% of patients had eGFR < 60mL/min/1.73m2; one patient had eGFR < 30mL/min/1.73m2.
+43% were Hispanic or Latino ethnicity, 6% of patients had eGFR < 60mL/min/1.73m2; one patient had eGFR < 30mL/min/1.73m2.
 The mean BMI was 32 kg/m2.
 The mean dose of insulin glargine U-100 in patients entering the trial was 32 units.
 
@@ -287,9 +281,9 @@ Table 10: Results of a 26-Week Trial in Patients with Type 2 Diabetes Mellitus I
 1. Ap<0.01.
    Primary endpoint was tested for noninferiority of XULTOPHY 100/3.6 to insulin glargine U-100.
    The difference in glucose lowering effect observed in the trial may not necessarily reflect the effect that will be observed in the care setting where alternative insulin glargine dosage can be used.
-2. # Estimated using an ANCOVA with treatment and region as fixed factors and baseline response as covariate.
+2. #Estimated using an ANCOVA with treatment and region as fixed factors and baseline response as covariate.
    Multiple imputation modelled “return to baseline” of the treatment effect for subjects having missing week 26 data.
-3. ## Patients with missing HbA1c value at week 26 data were considered non-responder.
+3. ##Patients with missing HbA1c value at week 26 data were considered non-responder.
 4. There were 10.1% of subjects in the XULTOPHY 100/3.6 arm and 4.7% in the insulin glargine U-100 arm for whom HbA1c data was missing at week 26.
 
 ## 14.4 Cardiovascular Outcomes Trials in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease Conducted with Liraglutide 1.8 mg and Insulin Degludec
@@ -297,22 +291,22 @@ Table 10: Results of a 26-Week Trial in Patients with Type 2 Diabetes Mellitus I
 The effect of XULTOPHY 100/3.6 on the risk of cardiovascular outcomes in patients with type 2 diabetes mellitus and atherosclerotic cardiovascular disease has not been established.
 The studies below were conducted with liraglutide 1.8 mg and insulin degludec, individually.
 
-VICTOZA (liraglutide 1.8 mg)
+Liraglutide 1.8 mg
 
-The LEADER trial (NCT01179048) randomized 9340 patients with inadequately controlled type 2 diabetes and cardiovascular disease to liraglutide 1.8 mg or placebo in addition to standard of care treatments for type 2 diabetes for a median follow up of 3.5 years.
+The LEADER trial (NCT01179048) randomized 9340 patients with inadequately controlled type 2 diabetes mellitus and cardiovascular disease to liraglutide 1.8 mg or placebo in addition to standard of care treatments for type 2 diabetes mellitus for a median follow up of 3.5 years.
 
 Patients either were 50 years of age or older with established, stable cardiovascular, cerebrovascular, peripheral artery disease, chronic kidney disease or chronic heart failure (80% of patients) or were 60 years of age or older and had other specified risk factors for cardiovascular disease (20% of patients).
-The population was 64% male, 78% Caucasian, 10% Asian, and 8% Black; 12% of the population was Hispanic or Latino.
-The mean duration of type 2 diabetes was 13 years, the mean HbA1c was 8.7% and the mean BMI was 33 kg/m2; the mean eGFR at baseline was 79 mL/min/1.73 m2.
+The population was 64% male, 78% White, 10% Asian, and 8% Black or African American; 12% of the population was Hispanic or Latino.
+The mean duration of type 2 diabetes mellitus was 13 years, the mean HbA1c was 8.7% and the mean BMI was 33 kg/m2; the mean eGFR at baseline was 79 mL/min/1.73 m2.
 
 In total, 96.8% of the patients completed the trial; vital status was available for 99.7%.
 The primary endpoint was the time from randomization to first occurrence of a major adverse cardiovascular event (MACE) defined as: cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke.
 No increased risk for MACE was observed with liraglutide 1.8 mg.
 The total number of primary component MACE endpoints was 1302 (608[13.0%] with liraglutide 1.8 mg and 694 [14.9%] with placebo).
 
-TRESIBA (insulin degludec)
+Insulin degludec
 
-The DEVOTE trial (NCT01959529) randomized 7,637 patients with inadequately controlled type 2 diabetes and cardiovascular disease to either insulin degludec or insulin glargine U-100.
+The DEVOTE trial (NCT01959529) randomized 7,637 patients with inadequately controlled type 2 diabetes mellitus and cardiovascular disease to either insulin degludec or insulin glargine U-100.
 Each was administered once-daily in addition to standard of care treatments for diabetes for a median duration of follow up of 2 years.
 
 Patients either were 50 years of age or older and had established, stable cardiovascular, cerebrovascular, peripheral artery disease, chronic kidney disease or chronic heart failure (85% of patients) or were 60 years of age or older and had other specified risk factors for cardiovascular disease (15% of patients).
@@ -321,6 +315,6 @@ The mean HbA1c was 8.4% and the mean BMI was 33.6 kg/m2.
 The baseline mean eGFR was 68 mL/min/1.73m2.
 
 In total, 98% of the patients completed the trial; vital status was known at the end of the trial for 99%.
-The primary endpoint was the time from randomization to the first occurrence of a major adverse cardiovascular event (MACE), defined as: cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke.
+The primary endpoint was the time from randomization to the first occurrence of MACE, defined as: cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke.
 No increased risk for MACE was observed with insulin degludec when compared to insulin glargine U-100.
 The total number of primary MACE endpoints was 681 (325 [8.5%] with insulin degludec and 356 [9.3%] with insulin glargine).

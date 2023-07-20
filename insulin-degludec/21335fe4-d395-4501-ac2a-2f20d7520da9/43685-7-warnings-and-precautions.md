@@ -50,7 +50,7 @@ When initiating XULTOPHY 100/3.6, follow dosing recommendations [see Dosage and 
 
 XULTOPHY 100/3.6 contains two drugs: insulin degludec and liraglutide.
 Administration of more than 50 units of XULTOPHY 100/3.6 daily can result in overdose of the liraglutide component.
-Do not exceed the 1.8 mg maximum recommended dose of liraglutide or use with other glucagon-like peptide-1 receptor agonists.
+Do not exceed the 1.8 mg maximum recommended dose of liraglutide or use with other GLP-1 receptor agonists.
 
 Accidental mix-ups between insulin products have been reported.
 To avoid medication errors between XULTOPHY 100/3.6 (an insulin containing product) and other insulin products, instruct patients to always check the label before each injection.
@@ -84,7 +84,7 @@ In patients at higher risk for hypoglycemia and patients who have reduced sympto
 
 ## 5.7 Acute Kidney Injury
 
-There have been postmarketing reports of acute kidney injury and worsening of chronic kidney failure, which may sometimes require hemodialysis in patients treated with liraglutide, one of the components of XULTOPHY 100/3.6 [see Adverse Reactions (6.3)].
+There have been postmarketing reports of acute kidney injury and worsening of chronic kidney failure, which may sometimes require hemodialysis in patients treated with liraglutide, one of the components of XULTOPHY 100/3.6 [see Adverse Reactions (6.2)].
 Some of these events were reported in patients without known underlying kidney disease.
 A majority of the reported events occurred in patients who had experienced nausea, vomiting, diarrhea, or dehydration.
 Some of the reported events occurred in patients receiving one or more medications known to affect renal function or hydration status.
@@ -95,7 +95,7 @@ Advise patients of the potential risk of dehydration due to gastrointestinal adv
 
 Severe, life-threatening, generalized allergy, including anaphylaxis, angioedema, bronchospasm, hypotension, and shock can occur with insulins, including XULTOPHY 100/3.6.
 Allergic reactions (manifested with signs and symptoms such as urticaria, rash, pruritus) have been reported with XULTOPHY 100/3.6.
-There have been postmarketing reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with liraglutide, one of the components of XULTOPHY 100/3.6 [see Adverse Reactions (6.3)].
+There have been postmarketing reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with liraglutide, one of the components of XULTOPHY 100/3.6 [see Adverse Reactions (6.2)].
 If a hypersensitivity reaction occurs, discontinue XULTOPHY 100/3.6; treat promptly per standard of care, and monitor until signs and symptoms resolve.
 
 Anaphylaxis and angioedema have been reported with other GLP-1 receptor agonists.
