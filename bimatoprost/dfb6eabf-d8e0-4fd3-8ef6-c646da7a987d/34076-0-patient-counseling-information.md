@@ -39,10 +39,8 @@ Patients on IOP-lowering medications should not use bimatoprost ophthalmic solut
 Contact Lens Use Advise patients that bimatoprost ophthalmic solution, 0.03% contains benzalkonium chloride, which may be absorbed by and cause discoloration of soft contact lenses.
 Contact lenses should be removed prior to application of bimatoprost ophthalmic solution, 0.03% and may be reinserted 15 minutes following its administration.
 
-Manufactured for: Alembic Pharmaceutical, Inc. Bedminster, NJ 07921, USA Made in India.
-Manufactured by: Gland Pharma Limited Hyderabad-500 043, Telangana, India (IND)
-
-LUMIGAN® is registered trademark of Allergan, Inc.
+Manufactured for: Alembic Pharmaceuticals, Inc. Bedminster, NJ 07921, USA Made in India.
+Manufactured by: Gland Pharma Limited Hyderabad– 500043, INDIA (or) Manufactured by: Alembic Pharmaceuticals Limited Karakhadi - 391 450, Gujarat, India.
 
 PATIENT INFORMATION Bimatoprost Ophthalmic solution, 0.03%.
 (bih MAT o prost)
@@ -148,8 +146,8 @@ Active ingredient: bimatoprost Inactive ingredients: benzalkonium chloride; sodi
 Sodium hydroxide and/or hydrochloric acid may be added to adjust pH.
 The pH during its shelf life ranges from 6.8 to 7.8.
 
-Manufactured for: Alembic Pharmaceutical, Inc. Bedminster, NJ 07921, USA Made in India.
-Manufactured by: Gland Pharma Limited Hyderabad-500 043, Telangana, India (IND)
+Manufactured for: Alembic Pharmaceuticals, Inc. Bedminster, NJ 07921, USA Made in India.
+Manufactured by: Gland Pharma Limited Hyderabad– 500043, INDIA (or) Manufactured by: Alembic Pharmaceuticals Limited Karakhadi - 391 450, Gujarat, India.
 
 LUMIGAN® is registered trademark of Allergan, Inc.
 
