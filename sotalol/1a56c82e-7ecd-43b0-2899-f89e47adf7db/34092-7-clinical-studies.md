@@ -6,12 +6,12 @@ In patients with life-threatening arrhythmias [sustained ventricular tachycardia
 
 In a double-blind, randomized comparison of sotalol hydrochloride and procainamide in 104 patients given intravenously (total of 2 mg/kg sotalol hydrochloride vs. 19 mg/kg of procainamide over 90 minutes), sotalol hydrochloride suppressed PES induction in 30% of patients vs. 20% for procainamide (P=0.2).
 
-In a randomized clinical trial (Electrophysiologic Study Versus Electrocardiographic Monitoring (ESVEM) Trial) in 486 patients comparing the choice of antiarrhythmic therapy by PES suppression vs. Holter monitor selection (in each case followed by treadmill exercise testing) in patients with a history of sustained VT/VF who were also inducible by PES, the effectiveness acutely and chronically of sotalol hydrochloride was compared with that of 6 other drugs (procainamide, quinidine, mexiletine, propafenone, imipramine, and pirmenol).
+In a randomized clinical trial (Electrophysiologic Study Versus Electrocardiographic Monitoring [ESVEM] Trial) in 486 patients comparing the choice of antiarrhythmic therapy by PES suppression vs. Holter monitor selection (in each case followed by treadmill exercise testing) in patients with a history of sustained VT/VF who were also inducible by PES, the effectiveness acutely and chronically of sotalol hydrochloride was compared with that of 6 other drugs (procainamide, quinidine, mexiletine, propafenone, imipramine, and pirmenol).
 The Overall response, limited to first randomized drug, was 39% for sotalol hydrochloride and 30% for the pooled other drugs.
 Acute response rate for first drug randomized using suppression of PES induction was 36% for sotalol hydrochloride vs. a mean of 13% for the pooled other drugs.
 Using the Holter monitoring endpoint (complete suppression of sustained VT, 90% suppression of NSVT, 80% suppression of PVC pairs, and at least 70% suppression of PVCs), sotalol hydrochloride yielded 41% response vs. 45% for the other drugs combined.
 Among responders placed on long-term therapy identified acutely as effective (by either PES or Holter), sotalol hydrochloride, when compared to the pool of other drugs, had the lowest two- year mortality (13% vs. 22%), the lowest two-year VT recurrence rate (30% vs. 60%), and the lowest withdrawal rate (38% vs. about 75 to 80%).
-The most commonly used doses of sotalol hydrochloride orally administered in this trial were 320 to 480 mg/day (66% of patients), with 16% receiving 240 mg/day or less and 18% receiving 640 mg or more.
+The most commonly used doses of orally administered sotalol hydrochloride in this trial were 320 to 480 mg/day (66% of patients), with 16% receiving 240 mg/day or less and 18% receiving 640 mg or more.
 
 It cannot be determined, however, in the absence of a controlled comparison of sotalol hydrochloride vs. no pharmacologic treatment (for example, in patients with implanted defibrillators) whether sotalol hydrochloride response causes improved survival or identifies a population with a good prognosis.
 Sotalol hydrochloride has not been shown to enhance survival in patients with ventricular arrhythmias.
@@ -37,23 +37,24 @@ Figure 1: Study 1 – Time to First ECG-Documented Recurrence of Symptomatic AFI
 
 Table 3: Study 1 – Patient Status at 12 Months
 
-|  | Placebo | 80 mg | 120 mg | 160 mg |
+|  | Placebo | Sotalol hydrochloride AF Dose |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Sotalol hydrochloride AF Dose |  |  |
+| 80 mg | 120 mg | 160 mg |  |  |
 | Randomized | 69 | 59 | 63 | 62 |
-| On treatment in NSR at 12 months without recurrenceSymptomatic AFIB/AFL | 23% | 22% | 29% | 23% |
-| RecurrenceEfficacy endpoint of Study 1; study treatment stopped. | 67% | 58% | 49% | 42% |
+| On treatment in NSR at 12 months without recurrencea | 23% | 22% | 29% | 23% |
+| Recurrenceab | 67% | 58% | 49% | 42% |
 | D/C for AEs | 6% | 12% | 18% | 29% |
+| aSymptomatic AFIB/AFL |  |  |  |  |
+| b Efficacy endpoint of Study 1; study treatment stopped. |  |  |  |  |
 
 Note that columns do not add up to 100% due to discontinuations (D/C) for “other” reasons.
 
 Table 4: Study 1 – Median Time to Recurrence of Symptomatic AFIB/AFL and Relative Risk (vs.
 Placebo) at 12 Months
 
-|  | n=69 | n=59 | n=63 | n=62 |
+|  | Placebo n=69 | Sotalol hydrochloride AF Dose |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Sotalol hydrochloride AF Dose |  |  |
-|  | Placebo | 80 mg | 120 mg | 160 mg |
+| 80 mg n=59 | 120 mg n=63 | 160 mg n=62 |  |  |
 | P-value vs. placebo |  | 0.325 | 0.018 | 0.029 |
 | Relative Risk (RR) to placebo |  | 0.81 | 0.59 | 0.59 |
 | Median time to recurrence (days) | 27 | 106 | 229 | 175 |
@@ -74,17 +75,14 @@ There was a longer time to ECG-documented recurrence of AFIB and a reduced risk 
 
 Table 5: Study 2 – Patient Status at 6 Months
 
-|  | n=114 | n=118 |
+| b Efficacy endpoint of Study 2; study treatment stopped. |  |  |
 | --- | --- | --- |
-|  | Placebo | Sotalol hydrochloride AF |
+|  | Placebo n=114 | Sotalol hydrochloride AF n=118 |
 | On treatment in NSR at 6 months without recurrencea | 29% | 45% |
 | Recurrenceab | 67% | 49% |
 | D/C for AEs | 3% | 6% |
 | Death | 1% |  |
-
-| a Symptomatic or asymptomatic AFIB/AFL |
-| --- |
-| b Efficacy endpoint of Study 2; study treatment stopped. |
+| a Symptomatic or asymptomatic AFIB/AFL |  |  |
 
 Table 6: Study 2 – Median Time to Recurrence of Symptomatic AFIB/AFL/Death and Relative Risk (vs.
 Placebo) at 6 Months

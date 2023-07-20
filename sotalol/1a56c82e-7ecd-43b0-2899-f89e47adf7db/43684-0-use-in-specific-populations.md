@@ -8,6 +8,7 @@ Both the untreated underlying condition in pregnancy and the use of sotalol in p
 In animal reproduction studies in rats, early resorptions were increased at 15 times the maximum recommended human dose (MRHD).
 In rabbits an increase in fetal death was observed at 2 times the MRHD administered as a single dose.
 Sotalol did not reveal any teratogenic potential in rats or rabbits at 15 and 2 times the MRHD respectively (see Data).
+
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the United States (U.S.) general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
@@ -45,7 +46,7 @@ However, one study from published data reported an increase in fetal deaths in r
 Risk Summary
 
 Limited available data from published literature report that sotalol is present in human milk.
-The estimated daily infant dose of sotalol received from breastmilk is 0.8-3.4 mg/kg, estimated at 22 to 25.5% of the maternal weight-adjusted dosage of sotalol hydrochloride (see Data).
+The estimated daily infant dose of sotalol received from breastmilk is 0.8 to 3.4 mg/kg, estimated at 22 to 25.5% of the maternal weight-adjusted dosage of sotalol hydrochloride (see Data).
 The amount of the drug in breast milk is similar to the neonatal therapeutic dosage.
 Therefore, there is potential for bradycardia and other symptoms of beta blockade such as dry mouth, skin or eyes, diarrhea or constipation in the breastfed infant.
 There is no information regarding the effects of sotalol on milk production.
@@ -55,9 +56,9 @@ Data
 
 Sotalol is present in human milk in high levels.
 A prospective study evaluated 20 paired samples of breast milk and maternal blood from 5 mothers who elected to breastfeed.
-Breast milk samples had a mean sotalol concentration of 10.5 µg/mL (± 1.1 µg/mL; range: 4.8 to 20.2 µg/mL) compared to a simultaneous mean maternal plasma concentration of 2.3 µg/mL (± 0.3 µg/mL; range: 0.8 to 5.0 µg/mL).
+Breast milk samples had a mean sotalol concentration of 10.5 mcg/mL (± 1.1 mcg/mL; range: 4.8 to 20.2 mcg/mL) compared to a simultaneous mean maternal plasma concentration of 2.3 mcg/mL (± 0.3 mcg/mL; range: 0.8 to 5 mcg/mL).
 The mean milk plasma ratio was 5.4:1 (range: 2.2 to 8.8).
-The estimated daily infant dose was 0.8-3.4 mg/kg, estimated at 22 to 25.5% of the maternal weight- adjusted dosage of sotalol.
+The estimated daily infant dose was 0.8 to 3.4 mg/kg, estimated at 22 to 25.5% of the maternal weight- adjusted dosage of sotalol.
 This is similar to recommended therapeutic dose in neonates.
 None of the mothers reported any adverse reactions in the breastfed infant.
 

@@ -3,7 +3,7 @@
 ## 5.1 QT Prolongation and Proarrhythmia
 
 Sotalol hydrochloride/Sotalol hydrochloride AF can cause serious and potentially fatal ventricular arrhythmias such as sustained VT/VF, primarily Torsade de Pointes (TdP) type ventricular tachycardia, a polymorphic ventricular tachycardia associated with QT interval prolongation.
-Factors such as reduced creatinine clearance, female sex, higher doses, reduced heart rate and history of sustained VT/VF or heart failure increase the risk of TdP.
+Factors such as reduced creatinine clearance, female sex, higher doses, reduced heart rate, and history of sustained VT/VF or heart failure increase the risk of TdP.
 The risk of TdP can be reduced by adjustment of the sotalol dose according to creatinine clearance and by monitoring the ECG for excessive increases in the QT interval [see Dosage and Administration (2.1)].
 
 Correct hypokalemia or hypomagnesemia prior to initiating sotalol hydrochloride/sotalol hydrochloride AF, as these conditions can exaggerate the degree of QT prolongation, and increase the potential for Torsade de Pointes.
@@ -20,7 +20,7 @@ Bradycardia itself increases the risk of Torsade de Pointes.
 Sinus pause, sinus arrest and sinus node dysfunction occur in less than 1% of patients.
 The incidence of 2nd- or 3rd-degree AV block is approximately 1%.
 
-Sotalol hydrochloride/Sotalol hydrochloride AF is contraindicated in patients with sick sinus syndrome because it may cause sinus bradycardia, sinus pauses or sinus arrest.
+Sotalol hydrochloride/Sotalol hydrochloride AF is contraindicated in patients with sick sinus syndrome because it may cause sinus bradycardia, sinus pauses, or sinus arrest.
 
 ## 5.3 Hypotension
 
@@ -45,9 +45,10 @@ Because coronary artery disease is common, but may be unrecognized, the abrupt d
 Patients with bronchospastic diseases (for example chronic bronchitis and emphysema) should not receive beta- blockers.
 If sotalol hydrochloride/sotalol hydrochloride AF is to be administered, use the smallest effective dose to minimize inhibition of bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta-2-receptors.
 
-## 5.7 Masked Signs of Hypoglycemia in Diabetics
+## 5.7 Effects on Blood Sugar
 
-Beta-blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
+Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting).
+If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment.
 Elevated blood glucose levels and increased insulin requirements can occur in diabetic patients.
 
 ## 5.8 Thyroid Abnormalities

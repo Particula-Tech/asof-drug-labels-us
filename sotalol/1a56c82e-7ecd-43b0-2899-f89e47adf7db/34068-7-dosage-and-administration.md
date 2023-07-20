@@ -29,7 +29,7 @@ The recommended initial dose is 80 mg twice daily.
 This dose may be increased in increments of 80 mg per day every 3 days provided the QTc <500 msec [see Warnings and Precautions (5.1)].
 Continually monitor patients until steady state blood levels are achieved.
 Most patients will have satisfactory response with 120 mg twice daily.
-Initiation of sotalol in patients with QTc >450 msec is contraindicated [see Contraindication (4)].
+Initiation of sotalol in patients with QTc >450 msec is contraindicated [see Contraindications (4)].
 
 ## 2.4 Pediatric Dose for Ventricular Arrhythmias or AFIB/AFL
 

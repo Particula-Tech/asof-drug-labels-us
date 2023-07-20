@@ -23,14 +23,14 @@ Atrial Fibrillation/Atrial Flutter
 
 Placebo-controlled Clinical Trials
 
-In a pooled clinical trial population consisting of 4 placebo-controlled studies with 275 patients with atrial fibrillation (AFIB)/atrial flutter (AFL) treated with 160 to 320 mg doses of sotalol hydrochloride AF, the following adverse reactions presented in Table 2 occurred in at least 2% of placebo-treated patients and at a lesser rate than sotalol-treated patients.
+In a pooled clinical trial population consisting of 4 placebo-controlled studies with 275 patients with atrial fibrillation (AFIB)/atrial flutter (AFL) treated with 160 to 320 mg of sotalol hydrochloride AF, the following adverse reactions presented in Table 2 occurred in at least 2% of placebo-treated patients and at a lesser rate than sotalol hydrochloride-treated patients.
 The data are presented by incidence of reactions in the sotalol hydrochloride AF and placebo groups by body system and daily dose.
 
 Table 2: Incidence (%) of Common Adverse Reactions (≥ 2% in the Placebo Group and Less Frequent Than in the Sotalol Hydrochloride AF Groups) in Four Placebo-controlled Studies of Patients with AFIB/AFL
 
 | Adverse Reaction | Placebo | Sotalol AF Total Daily Dose |  |
 | --- | --- | --- | --- |
-| N = 282 (%) | 160 to 240 mg N = 153 (%) | >240 to 320 mg N = 122 (%) |  |
+| N = 282 (%) | 160-240 mg N = 153 (%) | >240-320 mg N = 122 (%) |  |
 | Bradycardia | 3 | 13 | 12 |
 | Diarrhea | 2 | 5 | 6 |
 | Nausea/Vomiting | 5 | 8 | 6 |

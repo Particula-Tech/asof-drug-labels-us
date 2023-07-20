@@ -2,7 +2,7 @@
 
 ## 1.1 Life-Threatening Ventricular Arrhythmias
 
-Sotalol hydrochloride/Sotalol hydrochloride AF tablets are indicated for the treatment of documented, life-threatening, ventricular arrhythmias, such as sustained ventricular tachycardia (VT).
+Sotalol hydrochloride/Sotalol hydrochloride AF tablets are indicated for the treatment of documented, life-threatening ventricular arrhythmias, such as sustained ventricular tachycardia (VT).
 
 Limitation of Use:
 

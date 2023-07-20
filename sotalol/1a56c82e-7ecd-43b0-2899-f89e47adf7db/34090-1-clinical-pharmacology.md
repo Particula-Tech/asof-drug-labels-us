@@ -13,10 +13,10 @@ A reduction of the resting heart rate due to the beta-blocking effect of sotalol
 
 ## 12.2 Pharmacodynamics
 
-Cardiac Electrophysiological
+Cardiac Electrophysiological Effects
 
-Effects Sotalol hydrochloride prolongs the plateau phase of the cardiac action potential in the isolated myocyte, as well as in isolated tissue preparations of ventricular or atrial muscle (Class III activity).
-In intact animals it slows heart rate, decreases AV nodal conduction and increases the refractory periods of atrial and ventricular muscle and conduction tissue.
+Sotalol hydrochloride prolongs the plateau phase of the cardiac action potential in the isolated myocyte, as well as in isolated tissue preparations of ventricular or atrial muscle (Class III activity).
+In intact animals it slows heart rate, decreases AV nodal conduction, and increases the refractory periods of atrial and ventricular muscle and conduction tissue.
 
 In man, the Class II (beta-blockade) electrophysiological effects of sotalol are manifested by increased sinus cycle length (slowed heart rate), decreased AV nodal conduction and increased AV nodal refractoriness.
 The Class III electrophysiological effects in man include prolongation of the atrial and ventricular monophasic action potentials, and effective refractory period prolongation of atrial muscle, ventricular muscle, and atrio-ventricular accessory pathways (where present) in both the anterograde and retrograde directions.

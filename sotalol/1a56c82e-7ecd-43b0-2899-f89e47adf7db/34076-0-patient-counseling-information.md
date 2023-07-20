@@ -8,6 +8,9 @@
 - Advise patients to not interrupt or discontinue sotalol hydrochloride/sotalol hydrochloride AF tablets without their physician’s advice, that they should get their prescription for sotalol filled and refilled on time, so they do not interrupt treatment [see Dosage and Administration (2)].
 - Advise patients to not start taking other medications without first discussing new medications with their healthcare provider.
 - Advise patients to avoid taking sotalol hydrochloride/sotalol hydrochloride AF tablets within two hours of taking antacids that contain aluminum oxide or magnesium hydroxide [see Drug Interactions (7.7)].
+- Inform patients or caregivers that there is a risk of hypoglycemia when sotalol hydrochloride/sotalol hydrochloride AF is given to patients who are fasting or who are vomiting.
+  Inform patients to notify their healthcare provider if they experience symptoms of hypoglycemia.
+  [See Warnings and Precautions (5.7)].
   Lactation
 - Advise women not to breastfeed while on treatment with sotalol hydrochloride [see Use in Specific Populations (8.2)]
 
@@ -23,6 +26,6 @@ Sotalol Hydrochloride/Sotalol Hydrochloride AF Tablets, USP
 | Toronto, Ontario | Weston, Florida, |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: June, 2021
+Revised: July 2023
 
-Revision: 3
+Revision: 4
