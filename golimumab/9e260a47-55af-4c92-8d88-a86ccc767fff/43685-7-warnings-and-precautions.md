@@ -6,7 +6,7 @@ Patients treated with SIMPONI ARIA are at increased risk for developing serious 
 
 Opportunistic infections due to bacterial, mycobacterial, invasive fungal, viral, or parasitic organisms including aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, histoplasmosis, legionellosis, listeriosis, pneumocystosis, and tuberculosis have been reported with TNF-blockers.
 Patients have frequently presented with disseminated rather than localized disease.
-The concomitant use of a TNF-blocker and abatacept or anakinra was associated with a higher risk of serious infections; therefore, the concomitant use of SIMPONI ARIA and these biologic products is not recommended [see Warnings and Precautions (5.6, 5.7) and Drug Interactions (7.2)].
+The concomitant use of a TNF-blocker and abatacept or anakinra was associated with a higher risk of serious infections; therefore, the concomitant use of SIMPONI ARIA and these biologic products is not recommended [see Warnings and Precautions (5.6, 5.7)and Drug Interactions (7.2)].
 
 Treatment with SIMPONI ARIA should not be initiated in patients with an active infection, including clinically important localized infections.
 Patients greater than 65 years of age, patients with co-morbid conditions and/or patients taking concomitant immunosuppressants such as corticosteroids or methotrexate may be at greater risk of infection.
@@ -147,7 +147,7 @@ Avoid live vaccines in patients treated with SIMPONI ARIA.
 In patients receiving anti-TNF therapy, limited data are available on the response to live vaccination, or on the secondary transmission of infection by live vaccines.
 Use of live vaccines could result in clinical infections, including disseminated infections.
 
-Administration of live vaccines to infants exposed to SIMPONI ARIA in utero is not recommended for 6 months following the mother's last SIMPONI ARIA infusion during pregnancy [see Drug Interactions (7.3) and Use in Specific Populations (8.1)].
+Administration of live vaccines to infants exposed to SIMPONI ARIA in uterois not recommended for 6 months following the mother's last SIMPONI ARIA infusion during pregnancy [see Drug Interactions (7.3)and Use in Specific Populations (8.1)].
 
 Whenever possible update immunizations prior to initiation of treatment with SIMPONI ARIA following current immunization guidelines for patients receiving immunosuppressive agents.
 Advise patients to discuss with the physician before seeking any immunizations.

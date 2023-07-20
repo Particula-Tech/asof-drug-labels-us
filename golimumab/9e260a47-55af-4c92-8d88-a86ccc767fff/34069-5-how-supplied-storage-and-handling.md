@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-SIMPONI ARIA® (golimumab) Injection is a colorless to light yellow solution available in packs of 1 vial NDC 57894-350-01.
+SIMPONI ARIA ®(golimumab) Injection is a colorless to light yellow solution available in packs of 1 vial NDC 57894-350-01.
 
 Vial
 

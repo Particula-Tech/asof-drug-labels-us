@@ -2,7 +2,7 @@
 
 NDC 57894-350-01
 
-Simponi ARIA® golimumab
+Simponi ARIA ® golimumab
 
 50 mg/4 mL (12.5 mg/mL)
 

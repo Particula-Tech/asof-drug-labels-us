@@ -23,10 +23,10 @@ The percent of patients achieving ACR 20 responses by visit for Trial RA is show
 
 Table 2: Trial RA – Proportion of Patients with an ACR Response
 
-|  | Placebo + MTX | SIMPONI ARIA + MTX | 95% CIFor difference in proportions. |
+|  | Placebo + MTX | SIMPONI ARIA + MTX | 95% CI For difference in proportions. |
 | --- | --- | --- | --- |
 | Trial RA Active RA, despite MTX |  |  |  |
-| NN reflects randomized patients. | 197 | 395 |  |
+| N N reflects randomized patients. | 197 | 395 |  |
 | ACR 20 |  |  |  |
 | Week 14 | 25% | 59% | 25.9, 41.4 |
 | Week 24 | 32% | 63% | 23.3, 39.4 |
@@ -49,7 +49,7 @@ Table 3: Trial RA ─ Components of ACR Response at Week 14
 |  | Placebo + MTX | SIMPONI ARIA + MTX |
 | --- | --- | --- |
 | Trial RA Active RA, despite MTX |  |  |
-| NN reflects randomized patients; actual number of patients evaluable for each endpoint may vary. | 197 | 395 |
+| N N reflects randomized patients; actual number of patients evaluable for each endpoint may vary. | 197 | 395 |
 | Number of swollen joints (0–66) |  |  |
 | Baseline | 15 | 15 |
 | Week 14 | 11 | 6 |
@@ -84,8 +84,8 @@ Table 4: Trial RA – Radiographic Change From Baseline at Week 24
 
 |  | Mean | Mean |
 | --- | --- | --- |
-|  | Placebo + MTX (N=197)N reflects randomized patients. | SIMPONI ARIA + MTX (N=395),p-value is displayed only for the major secondary endpoint. |
-| Change Total vdH-S Score | 1.1 | 0.03p≤0.001. |
+|  | Placebo + MTX (N=197) N reflects randomized patients. | SIMPONI ARIA + MTX (N=395),p-value is displayed only for the major secondary endpoint. |
+| Change Total vdH-S Score | 1.1 | 0.03 p≤0.001. |
 | Change Erosion Score | 0.5 | -0.1 |
 | Change JSN Score | 0.6 | 0.1 |
 
@@ -133,11 +133,11 @@ ACR 20 responses observed in the SIMPONI ARIA-treated groups were similar in pat
 
 Table 5: Trial PsA –Percentage of Patients with ACR Responses at Weeks 14 and 24
 
-|  | (NN reflects randomized patients. Bold text indicates primary endpoint. =239) | (N=241) |  |
+|  | (N N reflects randomized patients. Bold text indicates primary endpoint. =239) | (N =241) |  |
 | --- | --- | --- | --- |
 |  | Placebo | SIMPONI ARIA | Difference from placebo (95% CI) |
 | ACR 20 response |  |  |  |
-| Week 14 | 22% | 75% | 53%p<0.001 (46, 61) |
+| Week 14 | 22% | 75% | 53% p<0.001 (46, 61) |
 | Week 24 | 24% | 77% | 53% (45, 60) |
 | ACR 50 response |  |  |  |
 | Week 14 | 6.3% | 44% | 37% (30, 44) |
@@ -159,14 +159,14 @@ Table 6: Trial PsA – Mean Changes in ACR Components at Week 14
 
 |  | Baseline | Week 14 change from baseline | Baseline | Week 14 change from baseline |
 | --- | --- | --- | --- | --- |
-|  | Placebo NN reflects randomized patients; actual number of patients evaluable for each endpoint may vary. =239 |  | SIMPONI ARIA N =241 |  |
+|  | Placebo N N reflects randomized patients; actual number of patients evaluable for each endpoint may vary.=239 |  | SIMPONI ARIA N =241 |  |
 | ACR Components |  |  |  |  |
 | No. of Swollen Joints (0–66) | 14 | -2.9 | 14 | -11 |
 | Number of Tender Joints (0–68) | 26 | -4.2 | 25 | -15 |
 | Patient's assessment of Pain (0–100 mm) | 64 | -11 | 63 | -31 |
 | Patient Global Assessment (0–100 mm) | 63 | -11 | 65 | -32 |
 | Physician Global Assessment (0–100 mm) | 64 | -13 | 62 | -39 |
-| Disability Index (HAQ) (0–3)Health Assessment Questionnaire-Disability Index. | 1.3 | -0.13 | 1.3 | -0.60 |
+| Disability Index (HAQ) (0–3) Health Assessment Questionnaire-Disability Index. | 1.3 | -0.13 | 1.3 | -0.60 |
 | hsCRP (mg/L) | 20 | -2.9 | 19 | -16 |
 | Note: All values are means. |  |  |  |  |
 
@@ -184,7 +184,7 @@ Table 7: Trial PsA – Radiographic Change From Baseline at Week 24
 
 |  | Mean | Mean |  |
 | --- | --- | --- | --- |
-|  | Placebo NN reflects randomized patients evaluable for radiographic assessment. =237 | SIMPONI ARIA N =237 | Difference from placebo (95% CI) |
+|  | Placebo N N reflects randomized patients evaluable for radiographic assessment.=237 | SIMPONI ARIA N =237 | Difference from placebo (95% CI) |
 | Change Total Modified vdH-S Score | 2.0 | -0.4 | -2.3 (-2.9, -1.7) |
 | Note: All values are means. |  |  |  |
 
@@ -228,10 +228,10 @@ In Trial AS, SIMPONI ARIA treatment, compared with placebo, resulted in a signif
 
 Table 8: Trial AS – Percentage of ASAS Responders at Weeks 16
 
-|  | Placebo NN reflects randomized patients. Bold text indicates primary endpoint.=103 | SIMPONI ARIA N=105 | Treatment Difference (95% CI) |
+|  | Placebo N N reflects randomized patients. Bold text indicates primary endpoint. =103 | SIMPONI ARIA N =105 | Treatment Difference (95% CI) |
 | --- | --- | --- | --- |
 | Responders |  |  |  |
-| ASAS 20 | 26% | 73% | 47%p<0.001 (35, 59) |
+| ASAS 20 | 26% | 73% | 47% p<0.001 (35, 59) |
 | ASAS 40 | 8.7% | 48% | 39% (28, 50) |
 | Note: The analysis is based on the intent-to-treat population. Last observation carried forward was performed for partial missing data and non-responder imputation for completely missing data. |  |  |  |
 
@@ -243,18 +243,18 @@ The percentage of patients achieving ASAS 20 responses by visit through Week 16 
 
 Table 9 shows the improvement in the components of the ASAS response criteria and other measures of disease activity for the SIMPONI ARIA and placebo groups in Trial AS.
 
-Table 9: Trial AS – Mean Changes in ASAS 20 Components and Other Measures of Disease Activity at Week 16N reflects randomized patients; actual number of patients evaluable for each endpoint may vary.
+Table 9: Trial AS – Mean Changes in ASAS 20 Components and Other Measures of Disease Activity at Week 16 N reflects randomized patients; actual number of patients evaluable for each endpoint may vary.
 
 |  | Baseline | Week 16 change from baseline | Baseline | Week 16 change from baseline |
 | --- | --- | --- | --- | --- |
 |  | Placebo N =103 |  | SIMPONI ARIA N =105 |  |
 | ASAS 20 Response criteria |  |  |  |  |
-| Patient Global Assessment of Disease Activity (0–100 mm)Measured on a Visual Analog Scale (VAS) with 0= very well, 100=very poor | 71 | -8.3 | 73 | -34 |
-| Total back pain (0–100 mm)Measured on a Visual Analog Scale (VAS) with 0= no pain, 100=most severe pain | 73 | -12 | 72 | -32 |
-| BASFI (0–10)BASFI is Bath Ankylosing Spondylitis Functional Index. | 6.1 | -0.5 | 6.3 | -2.4 |
-| Inflammation (0–10)Inflammation is the mean of 2 morning stiffness self-assessments in the BASDAI. | 7.4 | -1.1 | 7.3 | -3.6 |
+| Patient Global Assessment of Disease Activity (0–100 mm) Measured on a Visual Analog Scale (VAS) with 0= very well, 100=very poor | 71 | -8.3 | 73 | -34 |
+| Total back pain (0–100 mm) Measured on a Visual Analog Scale (VAS) with 0= no pain, 100=most severe pain | 73 | -12 | 72 | -32 |
+| BASFI (0–10) BASFI is Bath Ankylosing Spondylitis Functional Index. | 6.1 | -0.5 | 6.3 | -2.4 |
+| Inflammation (0–10) Inflammation is the mean of 2 morning stiffness self-assessments in the BASDAI. | 7.4 | -1.1 | 7.3 | -3.6 |
 | BASDAI Score | 7.1 | -1.1 | 7.1 | -3.1 |
-| BASMIBath Ankylosing Spondylitis Metrology Index. | 5.0 | -0.1 | 5.0 | -0.4 |
+| BASMI Bath Ankylosing Spondylitis Metrology Index. | 5.0 | -0.1 | 5.0 | -0.4 |
 | hsCRP (mg/L) | 19 | -2.3 | 20 | -17 |
 | Note: All values are means. |  |  |  |  |
 
@@ -272,7 +272,7 @@ SIMPONI ARIA-treated patients showed significant improvement compared with place
 The efficacy of SIMPONI ARIA in pediatric patients with pJIA is based on the pharmacokinetic exposure and extrapolation of the established efficacy of SIMPONI ARIA in RA patients.
 Efficacy of SIMPONI ARIA was also assessed in a multicenter, open-label, single-arm study in 127 children (2 to < 18 years of age) with JIA with active polyarthritis despite treatment with MTX for at least 2 months (Trial pJIA, NCT02277444).
 The polyarticular JIA patient subtypes at study entry included: rheumatoid factor negative (43%), rheumatoid factor positive (35%), enthesitis-related arthritis (9%), oligoarticular extended (6%), juvenile psoriatic arthritis (4%), and systemic JIA without systemic manifestations (3%).
-All patients received SIMPONI ARIA 80 mg/m2 as an intravenous infusion at Week 0, 4, and every 8 weeks through Week 52.
+All patients received SIMPONI ARIA 80 mg/m 2as an intravenous infusion at Week 0, 4, and every 8 weeks through Week 52.
 Patients continued stable doses of MTX weekly through Week 28; after Week 28, changes in MTX dose were permitted.
 Efficacy was assessed as supportive endpoints through Week 52.
 The efficacy was generally consistent with responses in patients with RA.

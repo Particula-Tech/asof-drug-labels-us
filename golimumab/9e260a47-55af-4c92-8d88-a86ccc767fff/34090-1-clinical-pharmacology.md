@@ -9,7 +9,7 @@ Golimumab did not lyse human monocytes expressing transmembrane TNF in the prese
 
 Elevated TNFα levels in the blood, synovium, and joints have been implicated in the pathophysiology of several chronic inflammatory diseases such as rheumatoid arthritis, psoriatic arthritis and ankylosing spondylitis.
 TNFα is an important mediator of the articular inflammation that is characteristic of these diseases.
-Golimumab modulated the in vitro biological effects mediated by TNF in several bioassays, including the expression of adhesion proteins responsible for leukocyte infiltration (E-selectin, ICAM-1 and VCAM-1) and the secretion of proinflammatory cytokines (IL-6, IL-8, G-CSF and GM-CSF).
+Golimumab modulated the in vitrobiological effects mediated by TNF in several bioassays, including the expression of adhesion proteins responsible for leukocyte infiltration (E-selectin, ICAM-1 and VCAM-1) and the secretion of proinflammatory cytokines (IL-6, IL-8, G-CSF and GM-CSF).
 The clinical relevance of these findings is unknown.
 
 ## 12.2 Pharmacodynamics
@@ -24,7 +24,7 @@ Golimumab exhibited approximately dose-proportional pharmacokinetics in patients
 
 Absorption
 
-Following a single intravenous administration of 2 mg/kg SIMPONI ARIA, a mean Cmax of 44.4 ± 11.3 mcg/mL was observed in patients with RA.
+Following a single intravenous administration of 2 mg/kg SIMPONI ARIA, a mean C maxof 44.4 ± 11.3 mcg/mL was observed in patients with RA.
 Data directly comparing 2 mg/kg intravenous administration and 50 mg subcutaneous administration are not available.
 
 Distribution
@@ -57,11 +57,11 @@ However, based on population PK analysis, there were no clinically relevant diff
 
 Pediatrics
 
-When 80 mg/m2 SIMPONI ARIA was administered intravenously to patients with JIA with active polyarthritis at weeks 0, 4 and every 8 weeks thereafter, serum concentrations reached steady-state by Week 12.
-With concomitant use of MTX, treatment with 80 mg/m2 SIMPONI ARIA resulted in a mean steady-state trough serum golimumab concentration of approximately 0.5 ± 0.4 mcg/mL and a mean steady-state AUC of 425 ± 125 mcg∙day/mL in patients with JIA with active polyarthritis.
+When 80 mg/m 2SIMPONI ARIA was administered intravenously to patients with JIA with active polyarthritis at weeks 0, 4 and every 8 weeks thereafter, serum concentrations reached steady-state by Week 12.
+With concomitant use of MTX, treatment with 80 mg/m 2SIMPONI ARIA resulted in a mean steady-state trough serum golimumab concentration of approximately 0.5 ± 0.4 mcg/mL and a mean steady-state AUC of 425 ± 125 mcg∙day/mL in patients with JIA with active polyarthritis.
 Overall, the observed steady-state golimumab trough concentrations in patients with JIA with active polyarthritis were within the range of those observed for adult RA and PsA after administration of SIMPONI ARIA.
 
-Consistent with the intravenous data in adult patients with RA, population pharmacokinetic analyses for intravenous SIMPONI ARIA in pJIA revealed that there were no clinically relevant differences in golimumab exposure following intravenous administration of 80 mg/m2 SIMPONI ARIA in pediatric patients across a range of age and different body weights.
+Consistent with the intravenous data in adult patients with RA, population pharmacokinetic analyses for intravenous SIMPONI ARIA in pJIA revealed that there were no clinically relevant differences in golimumab exposure following intravenous administration of 80 mg/m 2SIMPONI ARIA in pediatric patients across a range of age and different body weights.
 The immune response effect on golimumab clearance in patients with JIA with active polyarthritis was comparable to adults with RA.
 
 Drug Interaction Studies

@@ -8,7 +8,7 @@ In addition, concomitant administration of methotrexate decreases the SIMPONI AR
 
 ## 7.2 Biologic Products for RA, PsA, AS, and pJIA
 
-An increased risk of serious infections has been seen in clinical RA studies of other TNF-blockers used in combination with anakinra or abatacept, with no added benefit; therefore, use of SIMPONI ARIA with other biologic products, including abatacept or anakinra, is not recommended [see Warnings and Precautions (5.6 and 5.7)].
+An increased risk of serious infections has been seen in clinical RA studies of other TNF-blockers used in combination with anakinra or abatacept, with no added benefit; therefore, use of SIMPONI ARIA with other biologic products, including abatacept or anakinra, is not recommended [see Warnings and Precautions (5.6and 5.7)].
 A higher rate of serious infections has also been observed in RA patients treated with rituximab who received subsequent treatment with a TNF-blocker.
 The concomitant use of SIMPONI ARIA with biologics approved to treat RA, PsA, AS, and pJIA is not recommended because of the possibility of an increased risk of infection.
 
@@ -19,7 +19,7 @@ Live vaccines should not be given concurrently with SIMPONI ARIA [see Warnings a
 Therapeutic infectious agents should not be given concurrently with SIMPONI ARIA [see Warnings and Precautions (5.10)].
 
 Infants born to women treated with SIMPONI ARIA during their pregnancy may be at increased risk of infection for up to 6 months.
-Administration of live vaccines to infants exposed to SIMPONI ARIA in utero is not recommended for 6 months following the mother's last SIMPONI ARIA infusion during pregnancy [see Warnings and Precautions (5.10), Use in Specific Populations (8.1)].
+Administration of live vaccines to infants exposed to SIMPONI ARIA in uterois not recommended for 6 months following the mother's last SIMPONI ARIA infusion during pregnancy [see Warnings and Precautions (5.10), Use in Specific Populations (8.1)].
 
 ## 7.4 Cytochrome P450 Substrates
 

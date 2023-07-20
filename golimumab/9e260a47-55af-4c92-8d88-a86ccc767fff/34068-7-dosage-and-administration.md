@@ -11,7 +11,7 @@ The efficacy and safety of switching between intravenous and subcutaneous formul
 
 ## 2.2 Dosage in Pediatric Patients with Polyarticular Juvenile Idiopathic Arthritis and Psoriatic Arthritis
 
-The SIMPONI ARIA dosage regimen, based on body surface area (BSA), is 80 mg/m2 given as an intravenous infusion over 30 minutes at weeks 0 and 4, and every 8 weeks thereafter.
+The SIMPONI ARIA dosage regimen, based on body surface area (BSA), is 80 mg/m 2given as an intravenous infusion over 30 minutes at weeks 0 and 4, and every 8 weeks thereafter.
 Follow the dilution and administration instructions for SIMPONI ARIA [see Dosage and Administration (2.4)].
 
 ## 2.3 Evaluation for Tuberculosis and Hepatitis B Prior to Dosage
@@ -24,7 +24,7 @@ Prior to initiating SIMPONI ARIA, test patients for hepatitis B viral infection 
 SIMPONI ARIA solution for intravenous infusion should be diluted by a healthcare professional using aseptic technique as follows:
 
 1. Calculate the dosage and the number of SIMPONI ARIA vials needed based on the recommended adult dosage of 2 mg/kg and the patient's weight for RA, PsA and AS.
-   Calculate the dosage and number of SIMPONI ARIA vials needed based on the recommended pediatric dosage of 80 mg/m2 and the patient's body surface area (BSA), for pJIA and pediatric patients with PsA.
+   Calculate the dosage and number of SIMPONI ARIA vials needed based on the recommended pediatric dosage of 80 mg/m 2and the patient's body surface area (BSA), for pJIA and pediatric patients with PsA.
    Each 4 mL vial of SIMPONI ARIA contains 50 mg of golimumab.
 2. Check that the solution in each vial is colorless to light yellow.
    The solution may develop a few fine translucent particles, as golimumab is a protein.

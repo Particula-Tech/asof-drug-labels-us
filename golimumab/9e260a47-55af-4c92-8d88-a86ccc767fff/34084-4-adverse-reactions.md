@@ -82,13 +82,13 @@ Other and Less Common Clinical Trial Adverse Drug Reactions
 
 Adverse drug reactions that do not appear in Table 1 or that occurred < 1% in SIMPONI ARIA-treated patients during Trial RA through Week 24 that do not appear in the Warnings and Precautions section included the following events listed by system organ class:
 
-Infections and infestations: Superficial fungal infection, sinusitis, abscess, lower respiratory tract infection (pneumonia), pyelonephritis
+Infections and infestations:Superficial fungal infection, sinusitis, abscess, lower respiratory tract infection (pneumonia), pyelonephritis
 
-Investigations: Alanine aminotransferase (ALT) increased, aspartate aminotransferase (AST) increased, neutrophil count decreased
+Investigations:Alanine aminotransferase (ALT) increased, aspartate aminotransferase (AST) increased, neutrophil count decreased
 
-Nervous system disorders: Dizziness, paresthesia
+Nervous system disorders:Dizziness, paresthesia
 
-Gastrointestinal disorders: Constipation
+Gastrointestinal disorders:Constipation
 
 Psoriatic Arthritis
 
@@ -103,7 +103,7 @@ The adverse reactions were similar to those reported in patients with RA, with t
 
 Pediatric Patients with Polyarticular Juvenile Idiopathic Arthritis and Psoriatic Arthritis
 
-Trial pJIA evaluated 127 patients with JIA with active polyarthritis [see Use in Specific Populations (8.4) and Clinical Studies (14.4)].
+Trial pJIA evaluated 127 patients with JIA with active polyarthritis [see Use in Specific Populations (8.4)and Clinical Studies (14.4)].
 The adverse reactions observed were consistent with the established safety profile of SIMPONI ARIA in adult patients with RA and PsA.
 
 ## 6.2 Immunogenicity
@@ -127,7 +127,7 @@ Patients with RA, PsA, AS and pJIA who developed antibodies to golimumab general
 The following adverse reactions have been identified during post-approval use of golimumab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to golimumab exposure:
 
-General Disorders and Administration Site Conditions: Infusion-related reactions [see Warnings and Precautions (5.11)]
+General Disorders and Administration Site Conditions:Infusion-related reactions [see Warnings and Precautions (5.11)]
 
 Neoplasm benign and malignant: Melanoma, Merkel cell carcinoma [see Warnings and Precautions (5.2)]
 
