@@ -50,10 +50,18 @@ The relative infant dose was estimated to range from 0.02 to 0.098%.
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy have not been established for Procedural or ICU Sedation in pediatric patients.
+### Sedation for Non-Invasive Procedures
+
+The safety and effectiveness of dexmedetomidine injection have not been established in pediatric patients less than 1 month of age.
+
+Pediatric use information is approved for Hospira Inc.’s PRECEDEX™ (dexmedetomidine hydrochloride) injection and PRECEDEX™ (dexmedetomidine hydrochloride) in sodium chloride injection.
+However, due to Hospira Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+
+### ICU Sedation
+
+The safety and efficacy of dexmedetomidine injection have not been established in pediatric patients for ICU sedation.
 One assessor-blinded trial in pediatric patients and two open label studies in neonates were conducted to assess efficacy for ICU sedation.
-These studies did not meet their primary efficacy endpoints and the safety data submitted were insufficient to fully characterize the safety profile of dexmedetomidine injection for this patient population.
-The use of dexmedetomidine for procedural sedation in pediatric patients has not been evaluated.
+These studies did not meet their primary efficacy endpoints and the safety data submitted were insufficient to fully characterize the safety profile of dexmedetomidine injection for these patient populations.
 
 ## 8.5 Geriatric Use
 

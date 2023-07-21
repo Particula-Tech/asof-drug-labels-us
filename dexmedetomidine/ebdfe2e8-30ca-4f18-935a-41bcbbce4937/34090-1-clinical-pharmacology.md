@@ -8,18 +8,18 @@ Both alpha1 and alpha2 activity is observed following slow intravenous infusion 
 
 ## 12.2 Pharmacodynamics
 
-In a study in healthy volunteers (N = 10), respiratory rate and oxygen saturation remained within normal limits and there was no evidence of respiratory depression when dexmedetomidine injection was administered by intravenous infusion at doses within the recommended dose range (0.2–0.7 mcg/kg/hr).
+In a study in healthy adult volunteers (N = 10), respiratory rate and oxygen saturation remained within normal limits and there was no evidence of respiratory depression when dexmedetomidine injection was administered by intravenous infusion at doses within the recommended dose range (0.2–0.7 mcg/kg/hr).
 
 ## 12.3 Pharmacokinetics
 
-Following intravenous administration, dexmedetomidine exhibits the following pharmacokinetic parameters: a rapid distribution phase with a distribution half-life (t1/2) of approximately 6 minutes; a terminal elimination half-life (t1/2) of approximately 2 hours; and steady-state volume of distribution (Vss) of approximately 118 liters.
+Following intravenous administration to adults, dexmedetomidine exhibits the following pharmacokinetic parameters: a rapid distribution phase with a distribution half-life (t1/2) of approximately 6 minutes; a terminal elimination half-life (t1/2) of approximately 2 hours; and steady-state volume of distribution (Vss) of approximately 118 liters.
 Clearance is estimated to be approximately 39 L/h.
 The mean body weight associated with this clearance estimate was 72 kg.
 
-Dexmedetomidine exhibits linear pharmacokinetics in the dosage range of 0.2 to 0.7 mcg/kg/hr when administered by intravenous infusion for up to 24 hours.
-Table 8 shows the main pharmacokinetic parameters when dexmedetomidine injection was infused (after appropriate loading doses) at maintenance infusion rates of 0.17 mcg/kg/hr (target plasma concentration of 0.3 ng/mL) for 12 and 24 hours, 0.33 mcg/kg/hr (target plasma concentration of 0.6 ng/mL) for 24 hours, and 0.70 mcg/kg/hr (target plasma concentration of 1.25 ng/mL) for 24 hours.
+Dexmedetomidine exhibits linear pharmacokinetics in the dosage range of 0.2 to 0.7 mcg/kg/hr when administered to adults by intravenous infusion for up to 24 hours.
+Table 10 shows the main pharmacokinetic parameters when dexmedetomidine injection was infused (after appropriate loading doses) at maintenance infusion rates of 0.17 mcg/kg/hr (target plasma concentration of 0.3 ng/mL) for 12 and 24 hours, 0.33 mcg/kg/hr (target plasma concentration of 0.6 ng/mL) for 24 hours, and 0.70 mcg/kg/hr (target plasma concentration of 1.25 ng/mL) for 24 hours.
 
-Table 8: Mean ± SD Pharmacokinetic Parameters
+Table 10: Mean ± SD Pharmacokinetic Parameters in Adults
 
 |  | Loading Infusion (min)/Total Infusion Duration (hrs) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -34,7 +34,7 @@ Table 8: Mean ± SD Pharmacokinetic Parameters
 
 The loading doses for each of the above indicated groups were 0.5, 0.5, 1 and 2.2 mcg/kg, respectively.
 
-Dexmedetomidine pharmacokinetic parameters after dexmedetomidine injection maintenance doses of 0.2 to 1.4 mcg/kg/hr for > 24 hours were similar to the pharmacokinetic (PK) parameters after dexmedetomidine injection maintenance dosing for < 24 hours in other studies.
+Dexmedetomidine pharmacokinetic parameters in adults after dexmedetomidine injection maintenance doses of 0.2 to 1.4 mcg/kg/hr for > 24 hours were similar to the pharmacokinetic (PK) parameters after dexmedetomidine injection maintenance dosing for < 24 hours in other studies.
 The values for clearance (CL), volume of distribution (V), and t1/2 were 39.4 L/hr, 152 L, and 2.67 hours, respectively.
 
 ### Distribution
@@ -79,11 +79,16 @@ There was no observed difference in dexmedetomidine injection pharmacokinetics d
 The pharmacokinetic profile of dexmedetomidine injection was not altered by age.
 There were no differences in the pharmacokinetics of dexmedetomidine injection in young (18–40 years), middle age (41–65 years), and elderly (> 65 years) subjects.
 
+#### Pediatric Patients
+
+Pediatric use information is approved for Hospira Inc.’s PRECEDEX™ (dexmedetomidine hydrochloride) injection and PRECEDEX™ (dexmedetomidine hydrochloride) in sodium chloride injection.
+However, due to Hospira Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+
 #### Patients with Hepatic Impairment
 
-In subjects with varying degrees of hepatic impairment (Child-Pugh Class A, B, or C), clearance values for dexmedetomidine were lower than in healthy subjects.
-The mean clearance values for patients with mild, moderate, and severe hepatic impairment were 74%, 64% and 53% of those observed in the normal healthy subjects, respectively.
-Mean clearances for free drug were 59%, 51% and 32% of those observed in the normal healthy subjects, respectively.
+In adult subjects with varying degrees of hepatic impairment (Child-Pugh Class A, B, or C), clearance values for dexmedetomidine were lower than in healthy subjects.
+The mean clearance values for patients with mild, moderate, and severe hepatic impairment were 74%, 64% and 53% of those observed in the normal healthy adult subjects, respectively.
+Mean clearances for free drug were 59%, 51% and 32% of those observed in the normal healthy adult subjects, respectively.
 
 Although dexmedetomidine injection is dosed to effect, it may be necessary to consider dose reduction in subjects with hepatic impairment [see Dosage and Administration (2.2), Warnings and Precautions (5.8)].
 

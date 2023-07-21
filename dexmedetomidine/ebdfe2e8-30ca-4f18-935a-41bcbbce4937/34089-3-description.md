@@ -1,11 +1,12 @@
 # 11 DESCRIPTION
 
 Dexmedetomidine injection USP, (100 mcg/mL), is a sterile, nonpyrogenic solution suitable for intravenous infusion following dilution.
+
 Dexmedetomidine injection contains dexmedetomidine hydrochloride as the active pharmaceutical ingredient.
 Dexmedetomidine hydrochloride is a central alpha2-adrenergic agonist.
 Dexmedetomidine hydrochloride is the S-enantiomer of medetomidine.
-Dexmedetomidine hydrochloride chemical name is (+)-4-(S)-[1-(2,3-dimethylphenyl)ethyl]-1H-imidazole monohydrochloride.
-Dexmedetomidine hydrochloride has a molecular weight of 236.7 and the empirical formula is C13H16N2• HCl and the structural formula is:
+Dexmedetomidine hydrochloride chemical name is (+)-4-(S)-[1-(2,3-Dimethylphenyl)ethyl]-1H-imidazole Hydrochloride.
+Dexmedetomidine hydrochloride has a molecular weight of 236.75 and the empirical formula is C13H16N2• HCl and the structural formula is:
 
 Dexmedetomidine hydrochloride, USP is a white or off-white crystalline powder that is freely soluble in water and has a pKa of 7.1.
 Its partition coefficient in-octanol: water at pH 7.4 is 2.89.
