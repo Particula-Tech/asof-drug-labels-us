@@ -98,7 +98,7 @@ The mechanism underlying these dermatologic adverse reactions remains unknown.
 Severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported during treatment with voriconazole.
 Erythema multiforme has also been reported during treatment with voriconazole [see Warnings and Precautions (5.5) and Adverse Reactions (6.2)].
 
-Voriconazole has also been associated with additional photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus [see Warnings and Precautions (5.6)].
+Voriconazole has also been associated with additional photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus [see Warnings and Precautions (5.6) and Adverse Reactions (6.2)].
 
 ##### Less Common Adverse Reactions
 
@@ -124,7 +124,7 @@ Nervous System: abnormal dreams, acute brain syndrome, agitation, akathisia, amn
 
 Respiratory System: cough increased, dyspnea, epistaxis, hemoptysis, hypoxia, lung edema, pharyngitis, pleural effusion, pneumonia, respiratory disorder, respiratory distress syndrome, respiratory tract infection, rhinitis, sinusitis, voice alteration.
 
-Skin and Appendages: alopecia, angioedema, contact dermatitis, discoid lupus erythematosis, eczema, erythema multiforme, exfoliative dermatitis, fixed drug eruption, furunculosis, herpes simplex, maculopapular rash, melanoma, melanosis, photosensitivity skin reaction, pruritus, pseudoporphyria, psoriasis, skin discoloration, skin disorder, skin dry, Stevens-Johnson syndrome, squamous cell carcinoma, sweating, toxic epidermal necrolysis, urticaria.
+Skin and Appendages: alopecia, angioedema, contact dermatitis, discoid lupus erythematosis, eczema, erythema multiforme, exfoliative dermatitis, fixed drug eruption, furunculosis, herpes simplex, maculopapular rash, melanoma, melanosis, photosensitivity skin reaction, pruritus, pseudoporphyria, psoriasis, skin discoloration, skin disorder, skin dry, Stevens-Johnson syndrome, squamous cell carcinoma (including cutaneous SCC in situ, or Bowen’s disease), sweating, toxic epidermal necrolysis, urticaria.
 
 Special Senses: abnormality of accommodation, blepharitis, color blindness, conjunctivitis, corneal opacity, deafness, ear pain, eye pain, eye hemorrhage, dry eyes, hypoacusis, keratitis, keratoconjunctivitis, mydriasis, night blindness, optic atrophy, optic neuritis, otitis externa, papilledema, retinal hemorrhage, retinitis, scleritis, taste loss, taste perversion, tinnitus, uveitis, visual field defect.
 
@@ -215,16 +215,16 @@ Table 8: Adverse Reactions Occurring in ≥ 5% of Pediatric Patients Receiving V
 | Photophobia | 6 (6) |  |
 | Gastrointestinal Disorders | Vomiting | 21 (20) |
 | Nausea | 14 (13) |  |
-| Abdominal PainPooled reports include such terms as: abdominal pain and abdominal pain, upper. | 13 (12) |  |
+| Abdominal painPooled reports include such terms as: abdominal pain and abdominal pain, upper. | 13 (12) |  |
 | Diarrhea | 12 (11) |  |
-| Abdominal Distension | 5 (5) |  |
+| Abdominal distension | 5 (5) |  |
 | Constipation | 5 (5) |  |
 | General Disorders and Administration Site Conditions | Pyrexia | 25 (25) |
-| Peripheral Edema | 9 (9) |  |
-| Mucosal Inflammation | 6 (6) |  |
-| Infections and Infestations | Upper Respiratory Tract Infection | 5 (5) |
-| Investigations | ALT AbnormalPooled reports include such terms as: ALT abnormal and ALT increased. | 9 (9) |
-| LFT Abnormal | 6 (6) |  |
+| Peripheral edema | 9 (9) |  |
+| Mucosal inflammation | 6 (6) |  |
+| Infections and Infestations | Upper respiratory tract infection | 5 (5) |
+| Investigations | ALT abnormalPooled reports include such terms as: ALT abnormal and ALT increased. | 9 (9) |
+| LFT abnormal | 6 (6) |  |
 | Metabolism and Nutrition Disorders | Hypokalemia | 11 (11) |
 | Hyperglycemia | 7 (7) |  |
 | Hypocalcemia | 6 (6) |  |
@@ -234,7 +234,7 @@ Table 8: Adverse Reactions Occurring in ≥ 5% of Pediatric Patients Receiving V
 | Nervous System Disorders | Headache | 10 (10) |
 | Dizziness | 5 (5) |  |
 | Psychiatric Disorders | HallucinationsPooled reports include such terms as: hallucination; hallucination, auditory; hallucination, visual. Several patients had both visual and auditory hallucinations. | 5 (5) |
-| Renal and Urinary Disorders | Renal ImpairmentPooled reports include such terms as: renal failure and a single patient with renal impairment. | 5 (5) |
+| Renal and Urinary Disorders | Renal impairmentPooled reports include such terms as: renal failure and a single patient with renal impairment. | 5 (5) |
 | Respiratory Disorders | Epistaxis | 17 (16) |
 | Cough | 10 (10) |  |
 | Dyspnea | 6 (6) |  |
@@ -294,30 +294,34 @@ A higher frequency of clinically significant liver laboratory abnormalities, irr
 The incidence of bilirubin elevation was comparable between adult and pediatric patients.
 The incidence of hepatic abnormalities in pediatric patients is shown in Table 9.
 
-Table 9: Incidence of Hepatic Abnormalities Among Pediatric Subjects
+Table 9: Incidence of Hepatic Abnormalities among Pediatric Subjects
 
 |  | Criteria | n/N (%) |
 | --- | --- | --- |
-| Total Bilirubin | > 1.5 x ULN | 19/102 (19) |
+| Total bilirubin | > 1.5 x ULN | 19/102 (19) |
 | AST | > 3.0 x ULN | 16/103 (16) |
 | ALT | > 3.0 x ULN | 23/102 (23) |
 | Alkaline Phosphatase | > 3.0 x ULN | 8/97 (8) |
-| n = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy AST = aspartate aminotransferase; ALT = alanine aminotransferase ULN = upper limit of normal |  |  |
+| n = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy AST = Aspartate aminotransferase; ALT = alanine aminotransferase ULN = upper limit of normal |  |  |
 
 ## 6.2 Postmarketing Experience in Adult and Pediatric Patients
 
 The following adverse reactions have been identified during post-approval use of voriconazole.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
+### Dermatological Reactions
+
+Increased risk of skin toxicity with concomitant use of methotrexate, a drug associated with UV reactivation, was observed in postmarketing reports [see Warnings and Precautions (5.6) and Adverse Reactions (6.1)].
+
 ### Adults
 
 Skeletal: fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.12)].
 
-Eye Disorders: prolonged visual adverse reactions, including optic neuritis and papilledema [see Warnings and Precautions (5.4)].
+Eye disorders: prolonged visual adverse reactions, including optic neuritis and papilledema [see Warnings and Precautions (5.4)].
 
 Skin and Appendages: drug reaction with eosinophilia and systemic symptoms (DRESS) has been reported [see Warnings and Precautions (5.5) and Adverse Reactions (6.1)].
 
-Endocrine Disorders: adrenal insufficiency, Cushing’s syndrome (when voriconazole has been used concomitantly with corticosteroids) [see Warnings and Precautions (5.8)].
+Endocrine disorders: adrenal insufficiency, Cushing’s syndrome (when voriconazole has been used concomitantly with corticosteroids) [see Warnings and Precautions (5.8)].
 
 ### Pediatric Patients
 

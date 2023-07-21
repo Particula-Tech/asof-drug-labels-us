@@ -3,9 +3,9 @@
 - •Voriconazole tablets are contraindicated in patients with known hypersensitivity to voriconazole or their excipients.
   There is no information regarding cross-sensitivity between voriconazole and other azole antifungal agents.
   Caution should be used when prescribing voriconazole tablets to patients with hypersensitivity to other azoles.
-- •Coadministration of pimozide, quinidine or ivabradine with voriconazole tablets is contraindicated because increased plasma concentrations of these drugs can lead to QT prolongation and rare occurrences of torsade de pointes [see Drug Interactions (7)].
+- •Coadministration of pimozide, quinidine or ivabradine with voriconazole tablets is contraindicated because increased plasma concentrations of these drugs can lead to QT prolongation and rare occurrences of torsade de pointes[see Drug Interactions (7)].
 - •Coadministration of voriconazole tablets with sirolimus is contraindicated because voriconazole tablets significantly increase sirolimus concentrations [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
-- •Coadministration of voriconazole tablets with rifampin, carbamazepine, long-acting barbiturates, and St. John’s Wort is contraindicated because these drugs are likely to decrease plasma voriconazole concentrations significantly [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+- •Coadministration of voriconazole tablets with rifampin, carbamazepine, long-acting barbiturates, and St John’s Wort is contraindicated because these drugs are likely to decrease plasma voriconazole concentrations significantly [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 - •Coadministration of standard doses of voriconazole with efavirenz doses of 400 mg every 24 hours or higher is contraindicated, because efavirenz significantly decreases plasma voriconazole concentrations in healthy subjects at these doses.
   Voriconazole also significantly increases efavirenz plasma concentrations [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 - •Coadministration of voriconazole tablets with high-dose ritonavir (400 mg every 12 hours) is contraindicated because ritonavir (400 mg every 12 hours) significantly decreases plasma voriconazole concentrations.

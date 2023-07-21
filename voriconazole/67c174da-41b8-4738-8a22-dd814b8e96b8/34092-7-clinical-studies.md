@@ -93,7 +93,7 @@ Patients who did not have a 12-week assessment for any reason were considered a 
 
 The overall clinical and mycological success rates by Candida species in Study 150-608 are presented in Table 15.
 
-Table 15: Overall Success Rates Sustained From EOT to the Fixed 12-Week Follow-Up Time Point by Baseline PathogenA few patients had more than one pathogen at baseline.Patients who did not have a 12-week assessment for any reason were considered a treatment failure.
+Table 15: Overall Success Rates Sustained From EOT To The Fixed 12-Week Follow-Up Time Point By Baseline PathogenA few patients had more than one pathogen at baseline.Patients who did not have a 12-week assessment for any reason were considered a treatment failure.
 
 | Baseline Pathogen | Clinical and Mycological Success (%) |  |
 | --- | --- | --- |
@@ -180,7 +180,7 @@ Population
 
 | Parameter | Global Response at Week 6 |  |  |
 | --- | --- | --- | --- |
-|  | Ages 2 - < 12 YearsN = 5 | Ages 12 - < 18 YearsN = 9 | OverallN = 14 |
+| Ages 2 - < 12 YearsN = 5 | Ages 12 - < 18 YearsN = 9 | OverallN = 14 |  |
 | Number of successes, n (%) | 2 (40%) | 7 (78%) | 9 (64%) |
 
 The second study enrolled 22 patients with invasive candidiasis including candidemia (ICC) and EC requiring either primary or salvage therapy.
