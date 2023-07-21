@@ -12,7 +12,7 @@ adcirca®
 
 tadalafil tablets
 
-20 mg
+20 mg 4467
 
 United Therapeutics Corporation
 
