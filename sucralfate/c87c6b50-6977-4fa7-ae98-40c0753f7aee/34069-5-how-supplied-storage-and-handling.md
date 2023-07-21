@@ -6,13 +6,13 @@ Light pink, scored, oblong tablets are embossed with CARAFATE on one side and 17
 Rx Only
 
 Prescribing Information rev.
-June 2018
+June 2023
 
-Distributed by: Allergan USA, Inc. Madison, NJ 07940
+Distributed by: AbbVie, Inc. North Chicago, IL 60064
 
-© 2018 Allergan.
+© 2023 AbbVie.
 All rights reserved.
-CARAFATE® is a registered trademark of Aptalis Pharma Canada ULC, an Allergan affiliate.
-Allergan® and its design are trademarks of Allergan, Inc.
 
-v1.0USPI171
+CARAFATE and its design are trademarks of Aptalis Pharma Canada ULC, an AbbVie company.
+
+v1.1USPI0171
