@@ -11,5 +11,5 @@ Each tablet contains 550 mg naproxen sodium equivalent to 500 mg naproxen.
 NAPRELAN 750: white, capsule-shaped tablet with “N” on one side and “750” on the reverse; in bottles of 30; NDC 52427-274-30.
 Each tablet contains 825 mg naproxen sodium equivalent to 750 mg naproxen.
 
-Storage Store at room temperature, 20° to 25°C (68° to 77°F), excursions permitted 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Storage Store at room temperature, 20°C to 25°C (68°F to 77°F), excursions permitted 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 PHARMACIST: Dispense in a well-closed container.
