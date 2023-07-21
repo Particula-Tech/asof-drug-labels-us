@@ -39,3 +39,7 @@ HADLIMA should only be administered to patients who will be closely monitored an
 ## 1.8 Hidradenitis Suppurativa
 
 HADLIMA is indicated for the treatment of moderate to severe hidradenitis suppurativa in adult patients.
+
+## 1.9 Uveitis
+
+HADLIMA is indicated for the treatment of non-infectious intermediate, posterior, and panuveitis in adult patients.
