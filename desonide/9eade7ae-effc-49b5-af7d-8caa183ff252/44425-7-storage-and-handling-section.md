@@ -10,11 +10,13 @@ Bedminster, NJ 07921, USA
 
 Manufactured by:
 
-Aleor Dermaceuticals Ltd.,
+Alembic Pharmaceuticals Limited
+
+(Derma Division),
 
 Karakhadi, Vadodara 391450, India.
 
 Mfg.
 License No.: G/25/2216
 
-Revised: 12/2022
+Revised: 7/2023
