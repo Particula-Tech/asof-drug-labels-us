@@ -20,8 +20,8 @@ Advise patients and caregivers of the importance of having blood tested as follo
 Provide patients (and caregivers) with website information and the telephone number on how to obtain the product (www.clozapinerems.com or 1-844-267-8678) [see Warnings and Precautions (5.2)].
 
 - Orthostatic Hypotension, Bradycardia, and Syncope: Inform patients and caregivers about the risk of orthostatic hypotension and syncope, especially during the period of initial dose titration.
-  Instruct them to strictly follow the clinician’s instructions for dosage and administration.
-  Advise patients to consult their clinician immediately if they feel faint, lose consciousness or have signs or symptoms suggestive of bradycardia or arrhythmia [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+  Instruct them to strictly follow the clinician’s instructions for dosage and administration [see Dosage and Administraton (2.2, 2.5)].
+  Advise patients to consult their clinician immediately if they feel faint, lose consciousness or have signs or symptoms suggestive of bradycardia or arrhythmia [see Warnings and Precautions (5.3)].
 - Seizures: Inform patients and caregivers about the significant risk of seizure during clozapine treatment.
   Caution them about driving and any other potentially hazardous activity while taking clozapine [see Warnings and Precautions (5.5)].
 - Gastrointestinal Hypomotility with Severe Complications: Educate patients and caregivers on the risks, prevention and treatment of clozapine-induced constipation, including medications to avoid when possible (e.g., drugs with anticholinergic activity).
@@ -49,4 +49,4 @@ Provide patients (and caregivers) with website information and the telephone num
 
 Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India
 
-Revised: 03/2023
+Revised: 07/2023
