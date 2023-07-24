@@ -1,15 +1,3 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-## Hypertension and Angina
-
-Lopressor is contraindicated in sinus bradycardia, heart block greater than first degree, cardiogenic shock, and overt cardiac failure (see WARNINGS).
-
-Hypersensitivity to Lopressor and related derivatives, or to any of the excipients; hypersensitivity to other beta-blockers (cross sensitivity between beta-blockers can occur).
-
-Sick-sinus syndrome.
-
-Severe peripheral arterial circulatory disorders.
-
-## Myocardial Infarction
-
-Lopressor is contraindicated in patients with a heart rate < 45 beats/min; second- and third-degree heart block; significant first-degree heart block (P-R interval ≥ 0.24 sec); systolic blood pressure < 100 mm Hg; or moderate-to-severe cardiac failure (see WARNINGS).
+LOPRESSOR is contraindicated in severe bradycardia, second- or third-degree heart block, cardiogenic shock, systolic blood pressure <100, decompensated heart failure, sick sinus syndrome (unless a permanent pacemaker is in place), and in patients who are hypersensitive to any component of this product.

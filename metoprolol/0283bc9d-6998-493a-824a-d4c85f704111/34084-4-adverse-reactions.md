@@ -1,45 +1,46 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Hypertension and Angina
+The following adverse reactions are described elsewhere in labeling:
+
+- Worsening angina or myocardial infarction [see Warnings and Precautions (5)]
+- Worsening heart failure [see Warnings and Precautions (5)].
+- Worsening AV block [see Contraindications (4)].
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Hypertension and Angina
 
 Most adverse effects have been mild and transient.
 
-Central Nervous System: Tiredness and dizziness have occurred in about 10 of 100 patients.
+Central Nervous System: Tiredness and dizziness have occurred in about 10% of patients.
 Depression has been reported in about 5 of 100 patients.
 Mental confusion and short-term memory loss have been reported.
 Headache, nightmares, and insomnia have also been reported.
 
-Cardiovascular: Shortness of breath and bradycardia have occurred in approximately 3 of 100 patients.
-Cold extremities; arterial insufficiency, usually of the Raynaud type; palpitations; congestive heart failure; peripheral edema; and hypotension have been reported in about 1 of 100 patients.
-Gangrene in patients with pre-existing severe peripheral circulatory disorders has also been reported very rarely (see CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS).
+Cardiovascular: Shortness of breath and bradycardia have occurred in approximately 3% of patients.
+Cold extremities; arterial insufficiency, usually of the Raynaud type; palpitations; heart failure exacerbations; peripheral edema; and hypotension have been reported in about 1% of patients.
+Gangrene in patients with pre-existing severe peripheral circulatory disorders has also been reported.
+[see Contraindications (4) and Warnings and Precautions (5.2)].
 
-Respiratory: Wheezing (bronchospasm) and dyspnea have been reported in about 1 of 100 patients (see WARNINGS).
+Respiratory: Wheezing (bronchospasm) and dyspnea have been reported in about 1% of patients [see Warnings and Precautions (5.3)].
 Rhinitis has also been reported.
 
-Gastrointestinal: Diarrhea has occurred in about 5 of 100 patients.
-Nausea, dry mouth, gastric pain, constipation, flatulence, and heartburn have been reported in about 1 of 100 patients.
+Gastrointestinal: Diarrhea has occurred in about 5% of patients.
+Nausea, dry mouth, gastric pain, constipation, flatulence, and heartburn have been reported in about 1% of patients.
 Vomiting was a common occurrence.
-Postmarketing experience reveals very rare reports of hepatitis, jaundice and non-specific hepatic dysfunction.
-Isolated cases of transaminase, alkaline phosphatase, and lactic dehydrogenase elevations have also been reported.
 
-Hypersensitive Reactions: Pruritus or rash have occurred in about 5 of 100 patients.
-Very rarely, photosensitivity and worsening of psoriasis has been reported.
+Hypersensitive Reactions: Pruritus or rash have occurred in about 5% of patients.
+Photosensitivity and worsening of psoriasis has been reported.
 
-Miscellaneous: Peyronie’s disease has been reported in fewer than 1 of 100,000 patients.
-Musculoskeletal pain, blurred vision, and tinnitus have also been reported.
+Miscellaneous: Peyronie’s disease, musculoskeletal pain, blurred vision, and tinnitus has been reported.
 
-There have been rare reports of reversible alopecia, agranulocytosis, and dry eyes.
-Discontinuation of the drug should be considered if any such reaction is not otherwise explicable.
-There have been very rare reports of weight gain, arthritis, and retroperitoneal fibrosis (relationship to Lopressor has not been definitely established).
+Myocardial Infarction
 
-The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been reported with Lopressor.
+In general, the adverse reactions observed in trials with metoprolol in MI are consistent with the hypertension and angina experience.
 
-## Myocardial Infarction
-
-Central Nervous System: Tiredness has been reported in about 1 of 100 patients.
-Vertigo, sleep disturbances, hallucinations, headache, dizziness, visual disturbances, confusion, and reduced libido have also been reported, but a drug relationship is not clear.
-
-Cardiovascular: In the randomized comparison of Lopressor and placebo described in the CLINICAL PHARMACOLOGY section, the following adverse reactions were reported:
+In a randomized comparison of Lopressor and placebo in the setting of acute MI the following adverse reactions were reported:
 
 |  | Lopressor® | Placebo |
 | --- | --- | --- |
@@ -49,31 +50,19 @@ Cardiovascular: In the randomized comparison of Lopressor and placebo described 
 | First-degree heart block (P-R ≥ 0.26 sec) | 5.3% | 1.9% |
 | Heart failure | 27.5% | 29.6% |
 
-Respiratory: Dyspnea of pulmonary origin has been reported in fewer than 1 of 100 patients.
+## 6.2 Post-Marketing Experience
 
-Gastrointestinal: Nausea and abdominal pain have been reported in fewer than 1 of 100 patients.
-
-Dermatologic: Rash and worsened psoriasis have been reported, but a drug relationship is not clear.
-
-Miscellaneous: Unstable diabetes and claudication have been reported, but a drug relationship is not clear.
-
-## Potential Adverse Reactions
-
-A variety of adverse reactions not listed above have been reported with other beta-adrenergic blocking agents and should be considered potential adverse reactions to Lopressor.
+The following adverse reactions have been identified during post approval use of LOPRESSOR.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Central Nervous System: Reversible mental depression progressing to catatonia; an acute reversible syndrome characterized by disorientation for time and place, short-term memory loss, emotional lability, slightly clouded sensorium, and decreased performance on neuropsychometrics.
 
-Cardiovascular: Intensification of AV block (see CONTRAINDICATIONS).
+Cardiovascular: Intensification of AV block [see Contraindications (4)].
 
 Hematologic: Agranulocytosis, nonthrombocytopenic purpura and thrombocytopenic purpura.
 
 Hypersensitive Reactions: Fever combined with aching and sore throat, laryngospasm and respiratory distress.
 
-## Postmarketing Experience
+Laboratory Findings:
 
-The following adverse reactions have been reported during post-approval use of Lopressor: confusional state, an increase in blood triglycerides and a decrease in High Density Lipoprotein (HDL).
-Because these reports are from a population of uncertain size and are subject to confounding factors, it is not possible to reliably estimate their frequency.
-
-To report SUSPECTED ADVERSE REACTIONS, contact Validus Pharmaceuticals LLC at
-
-1-866-982-5438 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+Increase in blood triglycerides, elevated transaminase and decrease in High Density Lipoprotein (HDL)

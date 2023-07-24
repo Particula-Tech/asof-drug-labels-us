@@ -1,30 +1,20 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Acute Toxicity
+Signs and Symptoms - Overdosage of LOPRESSOR may lead to severe bradycardia, hypotension, and cardiogenic shock.
+Clinical presentation can also include: atrioventricular block, heart failure, bronchospasm, hypoxia, impairment of consciousness/coma, nausea and vomiting.
 
-Several cases of overdosage have been reported, some leading to death.
+Treatment – Consider treating the patient with intensive care.
+Patients with myocardial infarction or heart failure may be prone to significant hemodynamic instability.
+Beta-blocker overdose may result in significant resistance to resuscitation with adrenergic agents, including beta-agonists.
+On the basis of the pharmacologic actions of metoprolol, employ the following measures.
 
-Oral LD 50’s (mg/kg): mice, 1158-2460; rats, 3090-4670.
+Hemodialysis is unlikely to make a useful contribution to metoprolol elimination [see Clinical Pharmacology (12.3)].
 
-## Signs and Symptoms
+Bradycardia: Evaluate the need for atropine, adrenergic-stimulating drugs or pacemaker to treat bradycardia and conduction disorders.
 
-Potential signs and symptoms associated with overdosage with Lopressor are bradycardia, hypotension, bronchospasm, myocardial infarction, cardiac failure and death.
+Hypotension: Treat underlying bradycardia.
+Consider intravenous vasopressor infusion, such as dopamine or norepinephrine.
 
-## Management
+Heart failure and shock: May be treated when appropriate with suitable volume expansion, injection of glucagon (if necessary, followed by an intravenous infusion of glucagon), intravenous administration of adrenergic drugs such as dobutamine, with α1 receptor agonistic drugs added in presence of vasodilation.
 
-There is no specific antidote.
-
-In general, patients with acute or recent myocardial infarction may be more hemodynamically unstable than other patients and should be treated accordingly (see WARNINGS, Myocardial Infarction).
-
-On the basis of the pharmacologic actions of Lopressor, the following general measures should be employed:
-
-Elimination of the Drug: Gastric lavage should be performed.
-
-Other clinical manifestations of overdose should be managed symptomatically based on modern methods of intensive care.
-
-Hypotension: Administer a vasopressor, e.g., levarterenol or dopamine.
-
-Bronchospasm: Administer a beta2-stimulating agent and/or a theophylline derivative.
-
-Cardiac Failure: Administer digitalis glycoside and diuretic.
-In shock resulting from inadequate cardiac contractility, consider administration of dobutamine, isoproterenol or glucagon.
+Bronchospasm: Can usually be reversed by bronchodilators.
