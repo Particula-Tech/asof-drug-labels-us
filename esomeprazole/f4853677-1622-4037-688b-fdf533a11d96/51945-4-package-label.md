@@ -50,7 +50,7 @@ NEXIUM®
 
 For Delayed-Release Oral Suspension
 
-Each carton contains 30 Child-resistant packets.
+Each carton contains 30 child-resistant packets.
 
 *Each packet of delayed release oral suspension contains 2.5 mg of esomeprazole (equivalent to 2.8 mg of esomeprazole magnesium trihydrate).
 
@@ -76,7 +76,7 @@ For Delayed-Release
 
 Oral Suspension
 
-Each carton contains 30 Child-resistant packets.
+Each carton contains 30 child-resistant packets.
 
 *Each packet of delayed release oral suspension contains 5 mg of esomeprazole (equivalent to 5.6 mg of esomeprazole magnesium trihydrate).
 
@@ -102,7 +102,7 @@ For Delayed-Release
 
 Oral Suspension
 
-Each carton contains 30 Child-resistant packets.
+Each carton contains 30 child-resistant packets.
 
 *Each packet of delayed release oral suspension contains 10 mg of esomeprazole (equivalent to 11.1 mg of esomeprazole magnesium trihydrate).
 
@@ -128,7 +128,7 @@ For Delayed-Release
 
 Oral Suspension
 
-Each carton contains 30 Child-resistant packets.
+Each carton contains 30 child-resistant packets.
 
 *Each packet of delayed release oral suspension contains 20 mg of esomeprazole (equivalent to 22.3 mg of esomeprazole magnesium trihydrate).
 
@@ -152,7 +152,7 @@ NEXIUM®
 
 For Delayed-Release Oral Suspension
 
-Each carton contains 30 Child-resistant packets.
+Each carton contains 30 child-resistant packets.
 
 *Each packet of delayed release oral suspension contains 40 mg of esomeprazole (equivalent to 44.5 mg of esomeprazole magnesium trihydrate).
 

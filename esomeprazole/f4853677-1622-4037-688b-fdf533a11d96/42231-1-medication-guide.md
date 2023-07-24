@@ -135,7 +135,7 @@ NEXIUM can cause serious side effects, including:
 Stop taking NEXIUM and call your doctor right away.
 These symptoms may be the first sign of a severe skin reaction.
 
-The most common side effects of NEXIUM may include:
+The most common side effects of NEXIUM include:
 
 | •headache•diarrhea •nausea •gas | •stomach (abdominal) pain•constipation•dry mouth |
 | --- | --- |

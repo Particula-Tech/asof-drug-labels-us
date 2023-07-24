@@ -131,7 +131,7 @@ Table 7: Summary of Esomeprazole Pharmacokinetic Parameters Following Once Daily
 | Parameter | Esomeprazole Magnesium 1 mg/kg Orally Once Daily |
 | --- | --- |
 | AUC (micromol·h/L) (n=7)Geometric mean | 3.51 |
-| Css,,max (micromol/L) (n=15) | 0.87 |
+| Css, max (micromol/L) (n=15) | 0.87 |
 | t½ (h) (n=8) | 0.93 |
 | tmax (h) (n=15)Median | 3.0 |
 
@@ -173,7 +173,7 @@ Table 9: Comparison of Esomeprazole Pharmacokinetic Parameters Following Once Da
 | --- | --- | --- | --- | --- |
 | 12 Years to 17 Years (N=28) |  | Adults (N=36) |  |  |
 | 20 mg once dailyfor 8 days | 40 mg once dailyfor 8 days | 20 mg once dailyfor 5 days | 40 mg once dailyfor 5 days |  |
-| AUC (micromole h/L) | 3.65 | 13.86 | 4.2 | 12.6 |
+| AUC (micromol h/L) | 3.65 | 13.86 | 4.2 | 12.6 |
 | Cmax (micromol/L) | 1.45 | 5.13 | 2.1 | 4.7 |
 | tmax (h) | 2.00 | 1.75 | 1.6 | 1.6 |
 | t½λz (h) | 0.82 | 1.22 | 1.2 | 1.5 |

@@ -22,7 +22,7 @@ Over 2,900 patients were treated in long-term studies for up to 6 to 12 months.
 
 The safety in the treatment of healing of EE in adults was assessed in four randomized comparative clinical trials, which included 1,240 patients who received NEXIUM 20 mg once daily, 2,434 patients on NEXIUM 40 mg once daily, and 3,008 patients on omeprazole 20 mg once daily.
 The most frequently occurring adverse reactions (at least 1%) in all three groups were headache (5.5%, 5%, and 3.8%, respectively) and diarrhea (no difference among the three groups).
-Nausea, flatulence, abdominal pain, constipation, and dry mouth occurred at similar rates among patients taking NEXIUM omeprazole.
+Nausea, flatulence, abdominal pain, constipation, and dry mouth occurred at similar rates among patients taking NEXIUM or omeprazole.
 
 Less common adverse reactions with an incidence of less than 1% are listed below by body system:
 
@@ -123,7 +123,7 @@ Psychiatric: aggression, agitation, depression, hallucination;
 
 Renal and Urinary: interstitial nephritis;
 
-Reproductive System and Breast: gynecomastia;
+Reproductive System and Breast: gynecomastia, erectile dysfunction;
 
 Respiratory, Thoracic, and Mediastinal: bronchospasm;
 
