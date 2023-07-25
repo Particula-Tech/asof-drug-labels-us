@@ -35,7 +35,7 @@ Patients Using Continuous Subcutaneous Insulin Pumps
 - •Instruct patients to follow healthcare provider recommendations when setting basal and meal time infusion rate.
 - •Refer to the continuous subcutaneous infusion pump user manual to see if FIASP can be used with the pump.
   See recommended reservoir and infusion sets in the insulin pump user manual.
-- •Instruct patients to replace insulin in the reservoir at least every 6 days, or according to the pump user manual, whichever is shorter; infusion sets and infusion set insertion sites should be changed in accordance with the manufacturers’ user manual.
+- •Instruct patients to change FIASP in the pump reservoir at least every 6 days, or replace the PumpCart cartridge at least every 4 days or according to the pump user manual, whichever is shorter; infusion sets and infusion set insertion sites should be changed in accordance with the manufacturers’ user manual.
   By following this schedule, patients avoid insulin degradation, infusion set occlusion, and loss of the insulin preservative.
 - •Instruct patients to discard insulin exposed to temperatures higher than 37°C (98.6°F).
 - •Instruct patients to inform physician and select a new site for infusion if infusion site becomes erythematous, pruritic, or thickened.
@@ -43,16 +43,18 @@ Patients Using Continuous Subcutaneous Insulin Pumps
   Instruct patients on the risk of hypoglycemia from pump malfunction.
   If these problems cannot be promptly corrected, instruct patients to resume therapy with subcutaneous insulin injection and contact their physician [see Warnings and Precautions (5) and How Supplied/Storage and Handling (16.2)].
 
-Date of Issue: 09/2022
+Version: 8
 
-Version: 7
+Novo Nordisk®, FIASP®, NovoLog®, FlexTouch®, PenFill® and PumpCart® are registered trademarks of Novo Nordisk A/S.
 
-Novo Nordisk®, FIASP®, NovoLog®, FlexTouch®, and PenFill® are registered trademarks of Novo Nordisk A/S.
+PATENT Information: http://novonordisk-us.com/products/product-patents.html
 
-PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
+© 2023
 
-© 2022 Novo Nordisk A/S
+Manufactured by:
 
-Manufactured by: Novo Nordisk A/S DK-2880 Bagsvaerd, Denmark
+Novo Nordisk Inc. 800 Scudders Mill Road Plainsboro, New Jersey 08536 U.S. License 1261
 
-For information about FIASP contact: Novo Nordisk Inc. 800 Scudders Mill Road Plainsboro, New Jersey 08536 1-800-727-6500 www.novonordisk-us.com
+For information about FIASP contact: Novo Nordisk Inc. 800 Scudders Mill Road Plainsboro, New Jersey 08536 1-800-727-6500
+
+www.novonordisk-us.com

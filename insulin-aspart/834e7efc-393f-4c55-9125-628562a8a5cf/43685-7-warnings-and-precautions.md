@@ -9,11 +9,11 @@ Sharing poses a risk for transmission of blood-borne pathogens.
 ## 5.2 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
 
 Changes in an insulin regimen (e.g., insulin strength, manufacturer, type, injection site or method of administration) may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.3)] or hyperglycemia.
-Repeated insulin injections into areas of lipodystrophy or localized cutaneous amyloidosis have been reported to result in hyperglycemia; and a sudden change in the injection site (to an unaffected area) has been reported to result in hypoglycemia [see Adverse Reactions (6.1, 6.3)].
+Repeated insulin injections into areas of lipodystrophy or localized cutaneous amyloidosis have been reported to result in hyperglycemia; and a sudden change in the injection site (to an unaffected area) has been reported to result in hypoglycemia [see Adverse Reactions (6.1, 6.2)].
 
 Make any changes to a patient’s insulin regimen under close medical supervision with increased frequency of blood glucose monitoring.
 Advise patients who have repeatedly injected into areas of lipodystrophy or localized cutaneous amyloidosis to change the injection site to unaffected areas and closely monitor for hypoglycemia.
-For patients with type 2 diabetes, dosage adjustments in concomitant anti-diabetic treatment may be needed.
+For patients with type 2 diabetes mellitus, dosage adjustments in concomitant anti-diabetic treatment may be needed.
 
 ## 5.3 Hypoglycemia
 
@@ -31,8 +31,8 @@ The risk of hypoglycemia after an injection is related to the duration of action
 The timing of hypoglycemia usually reflects the time-action profile of the administered insulin formulation.
 As with all insulin preparations, the glucose lowering effect time course of FIASP may vary in different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature [see Use in Specific Populations (8.4), Clinical Pharmacology (12.2)].
 
-Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to co-administered medication [see Drug Interactions (7)].
-Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations (8.6, 8.7)].
+Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to co-administered medication [seeDrug Interactions (7)].
+Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [seeUse in Specific Populations (8.6, 8.7)].
 
 Risk Mitigation Strategies for Hypoglycemia
 
@@ -55,7 +55,7 @@ Monitor potassium levels in patients at risk for hypokalemia if indicated (e.g.,
 
 Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulin products, including FIASP [see Adverse Reactions (6.1)].
 If hypersensitivity reactions occur, discontinue FIASP; treat per standard of care and monitor until symptoms and signs resolve.
-FIASP is contraindicated in patients who have had hypersensitivity reactions to insulin aspart, or one of the excipients in FIASP [see Contraindications (4)].
+FIASP is contraindicated in patients who have had hypersensitivity reactions to insulin aspart, or any of the excipients in FIASP [see Contraindications (4)].
 
 ## 5.7 Fluid Retention and Heart Failure with Concomitant Use of PPAR-Gamma Agonists
 

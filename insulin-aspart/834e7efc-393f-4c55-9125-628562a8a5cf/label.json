@@ -13,9 +13,18 @@
     "0169-3205-11",
     "0169-3205-15",
     "0169-3205-91",
-    "0169-3205-95"
+    "0169-3205-95",
+    "0169-3206-11",
+    "0169-3206-15",
+    "0169-3206-91",
+    "0169-3206-95"
   ],
   "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin aspart",
+      "name": "Fiasp"
+    },
     {
       "form": "INJECTION, SOLUTION",
       "generic": "insulin aspart injection",
