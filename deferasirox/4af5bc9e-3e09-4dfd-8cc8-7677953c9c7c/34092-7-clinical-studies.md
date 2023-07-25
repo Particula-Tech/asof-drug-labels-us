@@ -89,6 +89,20 @@ Of the 113 patients with a baseline LIC of at least 5 mg Fe/g dw in Study 6, the
 The responders included 4 (10%) of 39 patients treated at 20 mg/kg/day for a baseline LIC exceeding 15 mg Fe/g dw, and 31 (51%) of 61 patients treated at 10 mg/kg/day for a baseline LIC between 5 and 15 mg Fe/g dw.
 The absolute change in LIC at Week 52 by starting dose is shown in Table 5 below.
 
+Study 7 (NCT01709838) was an open-label, single-arm, multi-center, 5-year study to evaluate the efficacy and safety of deferasirox tablets for oral suspension in iron overloaded patients with NTDT of 10 years of age or older.
+All patients started treatment on 10 mg/kg/day deferasirox tablets for oral suspension for four weeks.
+At Week 4, dose escalation was based on baseline LIC.
+At Week 24 and every 6 months thereafter, further dose adjustments were made according to the LIC at that visit.
+Treatment was interrupted when LIC < 3 mg Fe/g dw or serum ferritin < 300 ng/mL and was re-started at 10 mg/kg/day when LIC ≥ 5 mg Fe/g dw and serum ferritin ≥ 300 ng/mL.
+Throughout the study, the maximum dose of deferasirox tablets for oral suspension given was 30 mg/kg/day.
+
+A total of 134 patients were enrolled in the study.
+Eligible patients were required to have an LIC of at least 5 mg Fe/g dw measured by R2 MRI and a serum ferritin at least of 300 ng/mL at screening.
+The mean absolute change of LIC from Baseline to Week 52 was -6.7 mg Fe/g dw.
+The reduction in LIC was sustained until Week 260 (5 years) with the mean absolute change in LIC from Baseline to Week 260 of -10.6 mg Fe/g dw.
+In the subset of patients with Baseline LIC > 15 mg Fe/g dw (49 patients), 51.0% achieved a first LIC < 5 mg Fe/g dw (95% CI: 37.5, 64.4) with a median time of 28.6 months.
+In the subset of patients with target LIC of < 3 mg Fe/g dw (61 patients), 39.3% developed first LIC ≥ 5 mg Fe/g dw in the follow-up period, with a median time of 13.9 months.
+
 Table 5 Absolute Change in LIC at Week 52 in NTDT Patients
 
 |  | Deferasirox tablets for oral suspension Starting Dosea |  |  |  |  |
@@ -104,7 +118,9 @@ Table 5 Absolute Change in LIC at Week 52 in NTDT Patients
 | Mean LIC at Baseline (mg Fe/g dw) | - | 5.6 | 8.8 |  | 23.5 |
 | Mean Change (mg Fe/g dw) | - | -1.5 | -2.8 |  | -9.1 |
 | (95% Confidence Interval) | - | (-3.7, +0.7) | (-3.4, -2.2) |  | (-11.0, -7.3) |
-| Abbreviation: LIC, liver iron concentration; NTDT, non-transfusion-dependent thalassemia. aRandomized dose in Study 5 or assigned starting dose in Study 6. bLeast square mean change for Study 5. |  |  |  |  |  |
-
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's JADENU (desferasirox) tablets and granules.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+| Study 7 |  |  |  |  |  |
+| Number of Patients | - | - | n = 127 |  | - |
+| Mean LIC at Baseline (mg Fe/g dw) | - | - | 15.1 |  | - |
+| Mean Change (mg Fe/g dw) | - | - | -6.7 |  | - |
+| (95% Confidence Interval) | - | - | (-7.9, -5.5) |  | - |
+| Abbreviation: LIC, liver iron concentration; NTDT, non-transfusion-dependent thalassemia. a Randomized dose in Study 5 or assigned starting dose in Study 6 and study 7. b Least square mean change for Study 5. |  |  |  |  |  |

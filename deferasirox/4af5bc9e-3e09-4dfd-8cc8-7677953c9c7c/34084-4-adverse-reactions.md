@@ -89,39 +89,40 @@ Non-Transfusion-Dependent Thalassemia Syndromes
 
 In Study 5, 110 patients with NTDT received 1 year of treatment with deferasirox 5 or 10 mg/kg/day and 56 patients received placebo in a double-blind, randomized trial.
 In Study 6, 130 of the patients who completed Study 5 were treated with open-label deferasirox at 5, 10, or 20 mg/kg/day (depending on the baseline LIC) for 1 year [see Clinical Studies (14)].
+In Study 7, 134 patients with NTDT of 10 years of age or older with iron overload, received deferasirox tablets for oral suspension for up to 5 years, at a starting dose of 10 mg/kg/day followed by dose adjustment at Week 4, and then approximately every 6 months thereafter based on LIC levels.
 Table 3 and 4 display the frequency of adverse reactions in patients with NTDT.
 Adverse reactions with a suspected relationship to study drug were included in Table 3 if they occurred at ≥ 5% of patients in Study 5.
 
 Table 3 Adverse Reactions Occurring in Greater Than 5% Patients with NTDT
 
-| Any adverse reaction | Study 5 |  | Study 6 |
-| --- | --- | --- | --- |
-| Deferasirox | Placebo | Deferasirox |  |
-| N = 110 | N = 56 | N = 130 |  |
-| n (%) | n (%) | n (%) |  |
-| 31 (28) | 9 (16) | 27 (21) |  |
-| Nausea | 7 (6) | 4 (7) | 2 (2)a |
-| Rash | 7 (6) | 1 (2) | 2 (2)a |
-| Diarrhea | 5 (5) | 1 (2) | 7 (5) |
-| Abbreviation: NTDT, non-transfusion-dependent thalassemia. |  |  |  |
-| aThe occurrence of nausea, and rash are included for Study 6. There were no additional adverse reactions with a suspected relationship to study drug occurring in >5% of patients in Study 6. |  |  |  |
+| Any adverse reaction | Study 5 |  | Stu dy 6 | Study 7 |
+| --- | --- | --- | --- | --- |
+| Deferasirox | Placebo | Deferasirox | Deferasirox |  |
+| N = 110 | N = 56 | N = 130 | N = 134 |  |
+| n (%) | n (%) | n (%) | n (%) |  |
+| 31 (28) | 9 (16) | 27 (21) | 50 (37) |  |
+| Nausea | 7 (6) | 4 (7) | 2 (2)a | 7 (5) |
+| Rash | 7 (6) | 1 (2) | 2 (2)a | 3 (2)a |
+| Diarrhea | 5 (5) | 1 (2) | 7 (5) | 8 (6) |
+| Abbreviation: NTDT, non-transfusion-dependent thalassemia. |  |  |  |  |
+| aThe occurrence of nausea, and rash are included for Study 6 and rash for Study 7 for consistency. There were no additional adverse reactions with a suspected relationship to study drug occurring in >5% of patients in Study 6 and Study 7. |  |  |  |  |
 
 In Study 5, 1 patient in the placebo 10 mg/kg/day group experienced an ALT increase to greater than 5 times ULN and greater than 2 times baseline (Table 4).
 Three deferasirox-treated patients (all in the 10 mg/kg/day group) had 2 consecutive serum creatinine level increases greater than 33% from baseline and greater than ULN.
 Serum creatinine returned to normal in all 3 patients (in 1 spontaneously and in the other 2 after drug interruption).
 Two additional cases of ALT increase and 2 additional cases of serum creatinine increase were observed in the 1-year extension of Study 5.
-The number (%) of patients with NTDT with increase in serum creatinine or SGPT/ALT in Study 5 and Study 6 are presented in Table 4 below.
+The number (%) of patients with NTDT with increase in serum creatinine or SGPT/ALT in Study 5, Study 6, and Study 7 are presented in Table 4 below.
 
 Table 4 Number (%) of Patients with NTDT with Increases in Serum Creatinine or SGPT/ALT
 
-| Laboratory Parameter | Study 5 |  | Study 6 |
-| --- | --- | --- | --- |
-| Deferasirox | Placebo | Deferasirox |  |
-| N = 110 | N = 56 | N = 130 |  |
-| n (%) | n (%) | n (%) |  |
-| Serum creatinine (> 33% increase from baseline and > ULN at ≥ 2 consecutive post-baseline values) | 3 (3) | 0 | 2 (2) |
-| SGPT/ALT (> 5 x ULN and > 2 x baseline) | 1 (1) | 1 (2) | 2 (2) |
-| Abbreviations: ALT, alanine transaminase; NTDT, non-transfusion-dependent thalassemia; SGPT, serum glutamic-pyruvic transaminase; ULN, upper limit of normal. |  |  |  |
+| Laboratory Parameter | Study 5 |  | Study 6 | Study 7 |
+| --- | --- | --- | --- | --- |
+| Deferasirox | Placebo | Deferasirox | Deferasirox |  |
+| N = 110 | N = 56 | N = 130 | N = 134 |  |
+| n (%) | n (%) | n (%) | n (%) |  |
+| Serum creatinine (> 33% increase from baseline and > ULN at ≥ 2 consecutive post-baseline values) | 3 (3) | 0 | 2 (2) | 2 (2) |
+| SGPT/ALT (> 5 x ULN and > 2 x baseline) | 1 (1) | 1 (2) | 2 (2) | 1 (1) |
+| Abbreviations: ALT, alanine transaminase; NTDT, non-transfusion-dependent thalassemia; SGPT, serum glutamic-pyruvic transaminase; ULN, upper limit of normal. |  |  |  |  |
 
 Proteinuria
 
@@ -149,9 +150,6 @@ The primary findings were:
 In addition, a cohort-based analysis of ARs was conducted in the deferasirox tablets for oral suspension pediatric pooled clinical trial data.
 Pediatric patients who received Exjade dose > 25 mg/kg/day equivalent to 17.5 mg/kg/day deferasirox when their serum ferritin was < 1,000 mcg/L (n=158), had a 6-fold greater rate of renal adverse reactions (Incidence Rate Ratio (IRR) = 6.00, 95% CI: 1.75 to 21.36) and a 2-fold greater rate of dose interruptions (IRR= 2.06, 95% CI: 1.33 to 3.17) compared to the time-period prior to meeting these simultaneous criteria.
 Adverse reactions of special interest (cytopenia, renal, hearing, and GI disorders) occurred 1.9-fold more frequently when these simultaneous criteria were met, compared to preceding time-periods (IRR=1.91, 95% CI: 1.05 to 3.48) [see Warnings and Precautions (5.6)].
-
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's JADENU (desferasirox) tablets and granules.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Postmarketing Experience
 
