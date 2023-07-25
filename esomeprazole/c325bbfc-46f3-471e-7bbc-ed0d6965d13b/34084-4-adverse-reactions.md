@@ -56,8 +56,7 @@ The population was 18 to 98 years old; 68% Male, 87% Caucasian, 1% Black, 7% Asi
 Following endoscopic hemostasis, patients received either placebo or 80 mg NEXIUM I.V. as an intravenous infusion over 30 minutes followed by a continuous infusion of 8 mg/hour for a total treatment duration of 72 hours.
 After the initial 72-hour period, all patients received an oral PPI for 27 days.
 
-Table 4: Adverse ReactionsIncidence ≥1% in the NEXIUM I.V. group and greater than placebo group.
-Occurring within 72 Hours after Start of Treatment in Patients with Endoscopically Confirmed Bleeding Ulcers
+Table 4: Adverse ReactionsIncidence ≥1% in the NEXIUM I.V. group and greater than placebo group Occurring within 72 Hours after Start of Treatment in Patients with Endoscopically Confirmed Bleeding Ulcers
 
 |  | % of patients |  |
 | --- | --- | --- |
@@ -97,7 +96,7 @@ Psychiatric Disorders: aggression, agitation, depression, hallucination;
 
 Renal and Urinary Disorders: interstitial nephritis;
 
-Reproductive System and Breast Disorders: gynecomastia;
+Reproductive System and Breast Disorders: gynecomastia, erectile dysfunction;
 
 Respiratory, Thoracic and Mediastinal Disorders: bronchospasm;
 

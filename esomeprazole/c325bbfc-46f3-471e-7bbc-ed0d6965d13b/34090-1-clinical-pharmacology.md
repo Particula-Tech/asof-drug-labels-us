@@ -65,7 +65,7 @@ Following Dosing for 5 Days
 
 | Parameter | NEXIUM I.V.20 mg(n=24) | NEXIUM I.V.40 mg(n=38) |
 | --- | --- | --- |
-| AUC(micromol*h/L)Cmax (micromol/L) | 5.1(4.0:6:6)3.9 | 16.2(1.45:18.2)7.5 |
+| AUC(micromol*h/L)Cmax (micromol/L) | 5.1(4.0:6.6)3.9 | 16.2(14.5:18.2)7.5 |
 | t½ (h) | (3.2:4.7)1.1(0.9:1.2) | (6.9:8.1)1.4(1.3:1.5) |
 
 Following intravenous administration of NEXIUM I.V. in 24 healthy subjects as a loading dose of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/hour for 23.5 hours (for a total of 24 hours), esomeprazole pharmacokinetic parameters [geometric mean value (95% CI)] were as follows: AUCt 111.1 micromol*h/L (100.5, 122.7 micromol*h/L), Cmax 15.0 micromol/L (13.5, 16.6 micromol/L), and steady state plasma concentration (Css) 3.9 micromol/L (3.5, 4.5 micromol/L).

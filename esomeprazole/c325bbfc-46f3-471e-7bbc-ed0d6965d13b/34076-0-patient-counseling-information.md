@@ -35,4 +35,4 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-© AstraZeneca 2022
+© AstraZeneca 2023
