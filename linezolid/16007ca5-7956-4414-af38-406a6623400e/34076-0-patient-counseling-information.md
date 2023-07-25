@@ -37,7 +37,7 @@ If such reactions occur, patients should contact a physician or other health pro
 
 Hyponatremia and/or SIADH
 
-Advise patients at risk for hyponatremia to inform their physician if they experience signs and symptoms of hyponatremia and/or SIADH, including confusion, somnolence, generalized weakness, and respiratory distress [see Warnings andPrecautions (5.10)].
+Advise patients at risk for hyponatremia to inform their physician if they experience signs and symptoms of hyponatremia and/or SIADH, including confusion, somnolence, generalized weakness, and respiratory distress [see Warnings and Precautions (5.10)].
 
 Phenylketonuria
 
