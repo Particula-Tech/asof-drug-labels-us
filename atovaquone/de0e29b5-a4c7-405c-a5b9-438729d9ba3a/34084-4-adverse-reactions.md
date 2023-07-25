@@ -1,0 +1,146 @@
+# 6 ADVERSE REACTIONS
+
+The following adverse reaction is discussed in another section of the labeling:
+
+• Hepatotoxicity [see Warnings and Precautions(5.2)].
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Additionally, because many subjects who participated in clinical trials with atovaquone oral suspension had complications of advanced human immunodeficiency virus (HIV) disease, it was often difficult to distinguish adverse reactions caused by atovaquone oral suspension from those caused by underlying medical conditions.
+
+PCP Prevention Trials
+
+In 2 clinical trials, atovaquone oral suspension was compared with dapsone or aerosolized pentamidine in HIV-1–infected adolescent (13 to 18 years) and adult subjects at risk of PCP (CD4 count <200 cells/mm 3or a prior episode of PCP) and unable to tolerate TMP-SMX.
+
+Dapsone Comparative Trial:In the dapsone comparative trial (n = 1,057), the majority of subjects were white (64%), male (88%), and receiving prophylaxis for PCP at randomization (73%); the mean age was 38 years.
+Subjects received atovaquone oral suspension 1,500 mg once daily (n = 536) or dapsone 100 mg once daily (n = 521); median durations of exposure were 6.7 and 6.5 months, respectively.
+Adverse reaction data were collected only for adverse reactions requiring discontinuation of treatment, which occurred at similar frequencies in subjects treated with atovaquone oral suspension or dapsone (Table 1).
+Among subjects taking neither dapsone nor atovaquone at enrollment (n = 487), adverse reactions requiring discontinuation of treatment occurred in 43% of subjects treated with dapsone and 20% of subjects treated with atovaquone oral suspension.
+Gastrointestinal adverse reactions (nausea, diarrhea, and vomiting) were more frequently reported in subjects treated with atovaquone oral suspension (Table 1).
+
+Table 1.
+Percentage (>2%) of Subjects with Selected Adverse Reactions Requiring Discontinuation of Treatment in the Dapsone Comparative PCP Prevention Trial
+
+| Adverse Reaction | All Subjects |  |
+| --- | --- | --- |
+| Atovaquone Oral Suspension 1,500 mg/day (n = 536) % | Dapsone 100 mg/day (n = 521) % |  |
+| Rash | 6.3 | 8.8 |
+| Nausea | 4.1 | 0.6 |
+| Diarrhea | 3.2 | 0.2 |
+| Vomiting | 2.2 | 0.6 |
+
+Aerosolized Pentamidine Comparative Trial:In the aerosolized pentamidine comparative trial (n = 549), the majority of subjects were white (79%), male (92%), and were primary prophylaxis patients at enrollment (58%); the mean age was 38 years.
+Subjects received atovaquone oral suspension once daily at a dose of 750 mg (n = 188) or 1,500 mg (n = 175) or received aerosolized pentamidine 300 mg every 4 weeks (n = 186); the median durations of exposure were 6.2, 6.0, and 7.8 months, respectively.
+Table 2 summarizes the clinical adverse reactions reported by ≥20% of the subjects receiving either the 1,500-mg dose of atovaquone oral suspension or aerosolized pentamidine.
+
+Rash occurred more often in subjects treated with atovaquone oral suspension (46%) than in subjects treated with aerosolized pentamidine (28%).
+Treatment-limiting adverse reactions occurred in 25% of subjects treated with atovaquone oral suspension 1,500 mg once daily and in 7% of subjects treated with aerosolized pentamidine.
+The most frequent adverse reactions requiring discontinuation of dosing in the group receiving atovaquone oral suspension 1,500 mg once daily were rash (6%), diarrhea (4%), and nausea (3%).
+The most frequent adverse reaction requiring discontinuation of dosing in the group receiving aerosolized pentamidine was bronchospasm (2%).
+
+Table 2.
+Percentage (≥20%) of Subjects with Selected Adverse Reactions in the Aerosolized Pentamidine Comparative PCP Prevention Trial
+
+| Adverse Reaction | Atovaquone Oral Suspension 1,500 mg/day (n = 175) % | Aerosolized Pentamidine (n = 186) % |
+| --- | --- | --- |
+| Diarrhea | 42 | 35 |
+| Rash | 39 | 28 |
+| Headache | 28 | 22 |
+| Nausea | 26 | 23 |
+| Fever | 25 | 18 |
+| Rhinitis | 24 | 17 |
+
+Other reactions occurring in ≥10% of subjects receiving the recommended dose of atovaquone oral suspension (1,500 mg once daily) included vomiting, sweating, flu syndrome, sinusitis, pruritus, insomnia, depression, and myalgia.
+
+PCP Treatment Trials
+
+Safety information is presented from 2 clinical efficacy trials of the atovaquone tablet formulation: 1) a randomized, double-blind trial comparing atovaquone tablets with TMP-SMX in subjects with acquired immunodeficiency syndrome (AIDS) and mild-to-moderate PCP [(A-a)DO 2] ≤ 45 mm Hg and PaO 2≥ 60 mm Hg on room air; 2) a randomized, open-label trial comparing atovaquone tablets with intravenous (IV) pentamidine isethionate in subjects with mild-to-moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
+
+TMP-SMX Comparative Trial:In the TMP-SMX comparative trial (n = 408), the majority of subjects were white (66%) and male (95%); the mean age was 36 years.
+Subjects received atovaquone 750 mg (three 250-mg tablets) 3 times daily for 21 days or TMP 320 mg plus SMX 1,600 mg 3 times daily for 21 days; median durations of exposure were 21 and 15 days, respectively.
+
+Table 3 summarizes all clinical adverse reactions reported by ≥10% of the trial population regardless of attribution.
+Nine percent of subjects who received atovaquone and 24% of subjects who received TMP-SMX discontinued therapy due to an adverse reaction.
+Among the subjects who discontinued, 4% of subjects receiving atovaquone and 8% of subjects in the TMP-SMX group discontinued therapy due to rash.
+
+The incidence of adverse reactions with atovaquone oral suspension at the recommended dose (750 mg twice daily) was similar to that seen with the tablet formulation.
+
+Table 3.
+Percentage (≥10%) of Subjects with Selected Adverse Reactions in the TMP-SMX Comparative PCP Treatment Trial
+
+| Adverse Reaction | Atovaquone Tablets (n = 203) % | TMP-SMX (n = 205) % |
+| --- | --- | --- |
+| Rash (including maculopapular) | 23 | 34 |
+| Nausea | 21 | 44 |
+| Diarrhea | 19 | 7 |
+| Headache | 16 | 22 |
+| Vomiting | 14 | 35 |
+| Fever | 14 | 25 |
+| Insomnia | 10 | 9 |
+
+Two percent of subjects treated with atovaquone and 7% of subjects treated with TMP-SMX had therapy prematurely discontinued due to elevations in ALT/AST.
+
+Pentamidine Comparative Trial:In the pentamidine comparative trial (n = 174), the majority of subjects in the primary therapy trial population (n = 145) were white (72%) and male (97%); the mean age was 37 years.
+Subjects received atovaquone 750 mg (three 250-mg tablets) 3 times daily for 21 days or a 3- to 4-mg/kg single pentamidine isethionate IV infusion daily for 21 days; the median durations of exposure were 21 and 14 days, respectively.
+
+Table 4 summarizes the clinical adverse reactions reported by ≥10% of the primary therapy trial population regardless of attribution.
+Fewer subjects who received atovaquone reported adverse reactions than subjects who received pentamidine (63% vs. 72%).
+However, only 7% of subjects discontinued treatment with atovaquone due to adverse reactions, while 41% of subjects who received pentamidine discontinued treatment for this reason.
+Of the 5 subjects who discontinued therapy with atovaquone, 3 reported rash (4%).
+Rash was not severe in any subject.
+The most frequently cited reasons for discontinuation of pentamidine therapy were hypoglycemia (11%) and vomiting (9%).
+
+Table 4.
+Percentage (≥10%) of Subjects with Selected Adverse Reactions in the Pentamidine Comparative PCP Treatment Trial (Primary Therapy Group)
+
+| Adverse Reaction | Atovaquone Tablets (n = 73) % | Pentamidine (n = 71) % |
+| --- | --- | --- |
+| Fever | 40 | 25 |
+| Nausea | 22 | 37 |
+| Rash | 22 | 13 |
+| Diarrhea | 21 | 31 |
+| Insomnia | 19 | 14 |
+| Headache | 18 | 28 |
+| Vomiting | 14 | 17 |
+| Cough | 14 | 1 |
+| Sweat | 10 | 3 |
+| Monilia, oral | 10 | 3 |
+
+Laboratory abnormality was reported as the reason for discontinuation of treatment in 2 of 73 subjects (3%) who received atovaquone, and in 14 of 71 subjects (20%) who received pentamidine.
+One subject (1%) receiving atovaquone had elevated creatinine and BUN levels and 1 subject (1%) had elevated amylase levels.
+In this trial, elevated levels of amylase occurred in subjects (8% versus 4%) receiving atovaquone tablets or pentamidine, respectively.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of atovaquone oral suspension.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Blood and Lymphatic System Disorders
+
+Methemoglobinemia, thrombocytopenia.
+
+Immune System Disorders
+
+Hypersensitivity reactions including angioedema, bronchospasm, throat tightness, and urticaria.
+
+Eye Disorders
+
+Vortex keratopathy.
+
+Gastrointestinal Disorders
+
+Pancreatitis.
+
+Hepatobiliary Disorders
+
+Hepatitis, fatal liver failure.
+
+Skin and Subcutaneous Tissue Disorders
+
+Erythema multiforme, Stevens-Johnson syndrome, and skin desquamation.
+
+Renal and Urinary Disorders
+
+Acute renal impairment.

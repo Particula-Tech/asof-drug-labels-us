@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA207833"
+  ],
+  "inn": "atovaquone",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-528-09"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "atovaquone",
+      "name": "Atovaquone"
+    }
+  ],
+  "setid": "de0e29b5-a4c7-405c-a5b9-438729d9ba3a",
+  "source": "dailymed"
+}
