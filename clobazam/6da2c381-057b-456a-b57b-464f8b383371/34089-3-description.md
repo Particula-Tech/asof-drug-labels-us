@@ -12,7 +12,7 @@ Description
 | Structural Formula: |  |
 
 Clobazam is a white or almost white, crystalline powder with a slightly bitter taste; is slightly soluble in water, sparingly soluble in ethanol, and freely soluble in methylene chloride.
-The melting range of clobazam is from 182° to 185°C.
+The melting range of clobazam is from 182°C to 185°C.
 The molecular formula is C16H13O2N2Cl and the molecular weight is 300.7.
 
 Each clobazam tablet contains 10 mg or 20 mg of clobazam.

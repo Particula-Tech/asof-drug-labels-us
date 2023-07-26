@@ -27,6 +27,7 @@ The relative bioavailability of clobazam tablets compared to an oral solution is
 After single dose administration of the oral suspension under fasted conditions, the Tmax ranged from 0.5 to 2 hours.
 Based on exposure (Cmax and AUC) of clobazam, clobazam tablets and suspension were shown to have similar bioavailability under fasted conditions.
 The administration of clobazam tablets with food or when crushed in applesauce does not affect absorption.
+Although not studied, the oral bioavailability of the oral suspension is unlikely to be affected under fed conditions.
 
 Distribution
 

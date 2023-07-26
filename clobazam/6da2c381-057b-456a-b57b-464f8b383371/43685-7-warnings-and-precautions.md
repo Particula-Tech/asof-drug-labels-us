@@ -88,3 +88,8 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
+
+## 5.8 Neonatal Sedation and Withdrawal Syndrome
+
+Use of clobazam tablets late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate [see Use in Specific Populations (8.1)].
+Monitor neonates exposed to clobazam tablets during pregnancy or labor for signs of sedation and monitor neonates exposed to clobazam tablets during pregnancy for signs of withdrawal; manage these neonates accordingly.
