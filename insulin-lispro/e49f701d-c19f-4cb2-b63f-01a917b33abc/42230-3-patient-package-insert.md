@@ -1,3 +1,5 @@
+# Insulin Lispro Protamine and Insulin Lispro Injectable Suspension 75/25 Patient Information
+
 | Patient Information Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25™ for subcutaneous use |  |  |
 | --- | --- | --- |
 | Do not share your Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 KwikPen with other people, even if the needle has been changed. You may give other people a serious infection or get a serious infection from them. |  |  |
