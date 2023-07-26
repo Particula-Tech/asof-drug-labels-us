@@ -52,6 +52,6 @@ in a Carton of 25 NDC 55150-249-50
 
 in a Carton of 25 NDC 55150-250-50
 
-Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 The vial stopper is not made with natural rubber latex.

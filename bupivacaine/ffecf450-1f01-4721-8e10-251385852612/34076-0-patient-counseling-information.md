@@ -14,9 +14,9 @@ Inform patients that use of local anesthetics may cause methemoglobinemia, a ser
 Advise patients or caregivers to seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; light headedness; or fatigue [see Warnings and Precautions (5.3)].
 
 This product’s labeling may have been updated.
-For the most recent prescribing information, please visit www.auromedics.com.
+For the most recent prescribing information, please visit eugiaus.com.
 
-Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
+Distributed by: Eugia US LLC 279 Princeton-Hightstown Rd.
 E. Windsor, NJ 08520
 
 Manufactured by: Eugia Pharma Specialities Limited Hyderabad - 500032 India
