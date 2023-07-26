@@ -1,3 +1,5 @@
+# Humalog Mix75/25 Patient Information
+
 | Patient Information HUMALOG® (HU-ma-log) Mix75/25™ (insulin lispro protamine and insulin lispro injectable suspension) for subcutaneous use |  |
 | --- | --- |
 | Do not share your HUMALOG Mix75/25 KwikPen, needles or syringes with other people, even if the needle has been changed. You may give other people a serious infection or get a serious infection from them. |  |

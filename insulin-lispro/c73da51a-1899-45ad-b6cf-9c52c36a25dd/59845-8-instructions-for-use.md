@@ -1,3 +1,5 @@
+# Humalog Mix75/25 Vial Instructions for Use
+
 Instructions for Use
 
 HUMALOG® (HU-ma-log) Mix75/25™
@@ -116,6 +118,8 @@ Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 1999, 2019
 All rights reserved.
 
 LOG7525VL-0002-IFU-20191115
+
+# Humalog Mix75/25 KwikPen Instructions for Use
 
 Instructions for Use
 
