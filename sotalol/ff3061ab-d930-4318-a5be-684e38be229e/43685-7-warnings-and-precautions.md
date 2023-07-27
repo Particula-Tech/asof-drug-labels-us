@@ -57,3 +57,7 @@ Such patients may be unresponsive to the usual doses of epinephrine used to trea
 ## 5.10 Anesthesia
 
 The impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+
+## 5.11 Diabetes
+
+May mask symptoms of hypoglycemia and alter glucose levels; monitor (5.5)
