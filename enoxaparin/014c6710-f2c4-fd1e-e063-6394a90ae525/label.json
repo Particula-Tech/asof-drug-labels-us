@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "ANDA205660"
+  ],
+  "inn": "enoxaparin",
+  "labeler": "NorthStar RxLLC",
+  "package_ndcs": [
+    "72603-165-01",
+    "72603-165-10",
+    "72603-175-01",
+    "72603-175-10",
+    "72603-185-01",
+    "72603-185-10",
+    "72603-195-01",
+    "72603-195-10",
+    "72603-205-01",
+    "72603-205-10",
+    "72603-215-01",
+    "72603-215-10",
+    "72603-225-01",
+    "72603-225-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "enoxaparin sodium",
+      "name": "Enoxaparin Sodium"
+    }
+  ],
+  "setid": "014c6710-f2c4-fd1e-e063-6394a90ae525",
+  "source": "dailymed"
+}
