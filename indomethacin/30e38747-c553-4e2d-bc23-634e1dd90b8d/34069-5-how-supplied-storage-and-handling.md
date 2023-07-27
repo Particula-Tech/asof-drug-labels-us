@@ -6,7 +6,7 @@ Sterile Indomethacin for Injection is a lyophilized white to yellow powder or pl
 
 | Product No. | NDC No. |  |
 | --- | --- | --- |
-| NP605903 | 63323-659-09 | Packaged individually. |
+| NP605903 | 63323-659-09 | 1 mg per vial, Packaged individually. |
 
 The container closure is not made with natural rubber latex.
 
@@ -16,4 +16,4 @@ Store at 25°C (77°F) with excursions permitted to 15° to 30°C (59° to 86°F
 Protect from light.
 Store container in carton until contents have been used.
 
-NOVAPLUS is a registered trademark of Vizient, Inc.
+Novaplus is a registered trademark of Vizient, Inc.
