@@ -37,14 +37,8 @@ Lactation
 
 Advise breastfeeding women using lacosamide to monitor infants for excess sleepiness and to seek medical care if they notice this sign [see Use in Specific Populations (8.2)].
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals
+SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2023 Sagent Pharmaceuticals
 
-Schaumburg, IL 60195 (USA)
-
-Made in India
-
-©2022 Sagent Pharmaceuticals, Inc.
-
-Revised: October 2022
+Revised: June 2023
 
 SAGENT Pharmaceuticals ®

@@ -62,9 +62,9 @@ Treatment groups were as follows:
 - Single dose of intravenous lacosamide injection 300 mg followed by oral lacosamide 300 mg/day (150 mg every 12 hours)
 - Single dose of intravenous lacosamide Injection 400 mg followed by oral lacosamide 400 mg/day (200 mg every 12 hours).
 
-Table 4 gives the incidence of adverse reactions that occurred in ≥5% of adult patients in any lacosamide dosing group.
+Table 5 gives the incidence of adverse reactions that occurred in ≥5% of adult patients in any lacosamide dosing group.
 
-Table 4: Adverse Reactions in a 15-minute Infusion Study in Adult Patients with Partial-Onset Seizures
+Table 5: Adverse Reactions in a 15-minute Infusion Study in Adult Patients with Partial-Onset Seizures
 
 | Adverse Reaction | Lacosamide 200 mg N=25 % | Lacosamide 300 mg N=50 % | Lacosamide 400 mg N=25 % | Lacosamide Total N=100 % |
 | --- | --- | --- | --- | --- |
