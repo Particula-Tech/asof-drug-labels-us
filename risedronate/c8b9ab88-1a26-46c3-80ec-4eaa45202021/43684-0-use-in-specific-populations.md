@@ -13,7 +13,7 @@ Delayed skeletal ossification was observed in fetuses of dams treated at approxi
 Periparturient mortality due to maternal hypocalcemia occurred in dams and neonates upon daily oral administration of risedronate to pregnant rats during mating and/or gestation starting at doses equivalent to the 30 mg daily human dose.
 
 Bisphosphonates are incorporated into the bone matrix, from which they are gradually released over a period of weeks to years.
-The amount of bisphosphonate incorporated into adult bone, available for release into the systemic circulation is directly related to the dose and duration of bisphosphonate use.
+The amount of bisphosphonate incorporated into adult bone available for release into the systemic circulation is directly related to the dose and duration of bisphosphonate use.
 Consequently, based on mechanism of action of bisphosphonates, there is a potential risk of fetal harm, predominantly skeletal, if a woman becomes pregnant after completing a course of bisphosphonate therapy.
 The impact of variables such as time between cessation of bisphosphonate therapy to conception, the particular bisphosphonate used, and the route of administration (intravenous versus oral) on this risk has not been studied.
 

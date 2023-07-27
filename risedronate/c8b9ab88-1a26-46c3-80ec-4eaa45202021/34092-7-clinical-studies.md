@@ -83,9 +83,7 @@ Effect on Height
 In the two 3-year osteoporosis treatment studies, standing height was measured yearly by stadiometer.
 Both risedronate sodium immediate-release 5 mg daily and placebo-treated groups lost height during the studies.
 Patients who received risedronate sodium immediate-release 5 mg daily had a statistically significantly smaller loss of height than those who received placebo.
-In VERT MN, the median annual height change was -2.4 mm/yr in the placebo group compared to
-
--1.3 mm/yr in the risedronate sodium immediate-release 5 mg daily group.
+In VERT MN, the median annual height change was -2.4 mm/yr in the placebo group compared to -1.3 mm/yr in the risedronate sodium immediate-release 5 mg daily group.
 In VERT NA, the median annual height change was -1.1 mm/yr in the placebo group compared to -0.7 mm/yr in the risedronate sodium immediate-release 5 mg daily group.
 
 Effect on Bone Mineral Density

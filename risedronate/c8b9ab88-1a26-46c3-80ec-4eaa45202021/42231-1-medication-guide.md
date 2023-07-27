@@ -194,19 +194,15 @@ Inactive ingredients: Edetate disodium, ferric oxide yellow, magnesium stearate,
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Allergan USA, Inc. Madison, NJ 07940
+Distributed by: AbbVie Inc. North Chicago, IL 60064
 
-For all medical inquiries contact: Allergan Medical Communications 1-800-678-1605
+For all medical inquiries contact: AbbVie Medical Communications 1-800-678-1605
 
-© 2020 Allergan.
+© 2023 AbbVie.
 All rights reserved.
 
-ATELVIA® is a registered trademark of Allergan Pharmaceuticals International Limited.
-Allergan® and its design are trademarks of Allergan, Inc.
-
-Patented.
-See www.Allergan.com/patents
+Atelvia and its design are trademarks of Allergan Pharmaceuticals International Limited, an AbbVie company.
 
 Content Updated: August 2020
 
-v2.0MG0979
+v2.1MG0979
