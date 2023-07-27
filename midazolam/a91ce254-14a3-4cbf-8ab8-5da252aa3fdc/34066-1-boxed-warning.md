@@ -4,7 +4,8 @@ Personnel and Equipment for Monitoring and Resuscitation
 
 Adults and Pediatrics: Intravenous midazolam has been associated with respiratory depression and respiratory arrest, especially when used for sedation in noncritical care settings.
 In some cases, where this was not recognized promptly and treated effectively, death or hypoxic encephalopathy has resulted.
-Intravenous midazolam should be used only in hospital or ambulatory care settings, including physicians’ and dental offices, that provide for continuous monitoring of respiratory and cardiac function, e.g., pulse oximetry.
+Intravenous midazolam should be used only in hospital or ambulatory care settings, including physicians' and dental offices, that provide for continuous monitoring of respiratory and cardiac function, e.g., pulse oximetry.
+
 Immediate availability of resuscitative drugs and age- and size-appropriate equipment for bag/valve/mask ventilation and intubation, and personnel trained in their use and skilled in airway management should be assured (see WARNINGS).
 For deeply sedated pediatric patients, a dedicated individual, other than the practitioner performing the procedure, should monitor the patient throughout the procedure.
 
@@ -21,7 +22,9 @@ Lower doses are necessary for older (over 60 years) or debilitated patients and 
 The initial dose and all subsequent doses should always be titrated slowly; administer over at least 2 minutes and allow an additional 2 or more minutes to fully evaluate the sedative effect.
 The use of the 1 mg/mL formulation or dilution of the 1 mg/mL or 5 mg/mL formulation is recommended to facilitate slower injection.
 Doses of sedative medications in pediatric patients must be calculated on a mg/kg basis, and initial doses and all subsequent doses should always be titrated slowly.
-The initial pediatric dose of midazolam for sedation/anxiolysis/amnesia is age, procedure, and route dependent (see DOSAGE AND ADMINISTRATION for complete dosing information).
+The initial pediatric dose of midazolam for sedation/anxiolysis/amnesia is age, procedure, and route dependent
+
+(see DOSAGE AND ADMINISTRATION for complete dosing information).
 
 Neonates: Midazolam should not be administered by rapid injection in the neonatal population.
 Severe hypotension and seizures have been reported following rapid IV administration, particularly with concomitant use of fentanyl (see DOSAGE AND ADMINISTRATION for complete information).

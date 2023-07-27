@@ -1,25 +1,21 @@
 # OVERDOSAGE:
 
-## Symptoms
+Clinical Presentation
 
-The manifestations of midazolam overdosage reported are similar to those observed with other benzodiazepines, including sedation, somnolence, confusion, impaired coordination, diminished reflexes, coma and untoward effects on vital signs.
-No evidence of specific organ toxicity from midazolam overdosage has been reported.
+Overdosage of benzodiazepines is characterized by central nervous system depression ranging from drowsiness to coma.
+In mild to moderate cases, symptoms can include drowsiness, confusion, dysarthria, lethargy, hypnotic state, diminished reflexes, ataxia, and hypotonia.
+Rarely, paradoxical or disinhibitory reactions (including agitation, irritability, impulsivity, violent behavior, confusion, restlessness, excitement, and talkativeness) may occur.
+In severe overdosage cases, patients may develop respiratory depression and coma.
+Overdosage of benzodiazepines in combination with other CNS depressants (including alcohol and opioids) may be fatal (see WARNINGS: Abuse, Misuse, and Addiction).
+Markedly abnormal (lowered or elevated) blood pressure, heart rate, or respiratory rate raise the concern that additional drugs and/or alcohol are involved in the overdosage.
 
-## Treatment
+Management of Overdose
 
-Treatment of injectable midazolam overdosage is the same as that followed for overdosage with other benzodiazepines.
-Respiration, pulse rate and blood pressure should be monitored and general supportive measures should be employed.
-Attention should be given to the maintenance of a patent airway and support of ventilation, including administration of oxygen.
-An intravenous infusion should be started.
-Should hypotension develop, treatment may include intravenous fluid therapy, repositioning, judicious use of vasopressors appropriate to the clinical situation, if indicated, and other appropriate countermeasures.
-There is no information as to whether peritoneal dialysis, forced diuresis or hemodialysis are of any value in the treatment of midazolam overdosage.
+In managing benzodiazepine overdosage, employ general supportive measures, including intravenous fluids and airway maintenance.
+Flumazenil, a specific benzodiazepine receptor antagonist indicated for the complete or partial reversal of the sedative effects of benzodiazepines in the management of benzodiazepine overdosage, can lead to withdrawal and adverse reactions, including seizures, particularly in the context of mixed overdosage with drugs that increase seizure risk (e.g., tricyclic and tetracyclic antidepressants) and in patients with long-term benzodiazepine use and physical dependency.
+The risk of withdrawal seizures with flumazenil use may be increased in patients with epilepsy.
+Flumazenil is contraindicated in patients who have received a benzodiazepine for control of a potentially life-threatening condition (e.g., status epilepticus).
+If the decision is made to use flumazenil, it should be used as an adjunct to, not as a substitute for, supportive management of benzodiazepine overdosage.
+See the flumazenil injection Prescribing Information.
 
-Flumazenil, a specific benzodiazepine-receptor antagonist, is indicated for the complete or partial reversal of the sedative effects of benzodiazepines and may be used in situations when an overdose with a benzodiazepine is known or suspected.
-There are anecdotal reports of reversal of adverse hemodynamic responses associated with midazolam following administration of flumazenil to pediatric patients.
-Prior to the administration of flumazenil, necessary measures should be instituted to secure the airway, assure adequate ventilation, and establish adequate intravenous access.
-Flumazenil is intended as an adjunct to, not as a substitute for, proper management of benzodiazepine overdose.
-Patients treated with flumazenil should be monitored for resedation, respiratory depression and other residual benzodiazepine effects for an appropriate period after treatment.
-Flumazenil will only reverse benzodiazepine-induced effects but will not reverse the effects of other concomitant medications.
-The reversal of benzodiazepine effects may be associated with the onset of seizures in certain high-risk patients.
-The prescriber should be aware of a risk of seizure in association with flumazenil treatment, particularly in long-term benzodiazepine users and in cyclic antidepressant overdose.
-The complete flumazenil package insert, including CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS, should be consulted prior to use.
+Consider contacting a poison center (1-800-222-1222), poisoncontrol.org, or a medical toxicologist for additional overdosage management recommendations.

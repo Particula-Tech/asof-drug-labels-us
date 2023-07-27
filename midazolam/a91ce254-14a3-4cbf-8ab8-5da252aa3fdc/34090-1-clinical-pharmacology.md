@@ -32,6 +32,7 @@ No similar studies have been reported in pediatric patients.
 
 The usual recommended intramuscular premedicating doses of midazolam do not depress the ventilatory response to carbon dioxide stimulation to a clinically significant extent in adults.
 Intravenous induction doses of midazolam depress the ventilatory response to carbon dioxide stimulation for 15 minutes or more beyond the duration of ventilatory depression following administration of thiopental in adults.
+
 Impairment of ventilatory response to carbon dioxide is more marked in adult patients with chronic obstructive pulmonary disease (COPD).
 Sedation with IV midazolam does not adversely affect the mechanics of respiration (resistance, static recoil, most lung volume measurements); total lung capacity and peak expiratory flow decrease significantly but static compliance and maximum expiratory flow at 50% of awake total lung capacity (Vmax) increase.
 In one study of pediatric patients under general anesthesia, intramuscular midazolam (100 mcg/kg or 200 mcg/kg) was shown to depress the response to carbon dioxide in a dose-related manner.
@@ -42,7 +43,7 @@ In pediatric patients, a comparison of IV midazolam (500 mcg/kg) with propofol (
 
 ## Pharmacokinetics
 
-Midazolam’s activity is primarily due to the parent drug.
+Midazolam's activity is primarily due to the parent drug.
 Elimination of the parent drug takes place via hepatic metabolism of midazolam to hydroxylated metabolites that are conjugated and excreted in the urine.
 Six single-dose pharmacokinetic studies involving healthy adults yield pharmacokinetic parameters for midazolam in the following ranges: volume of distribution (Vd), 1.0 to 3.1 L/kg; elimination half-life, 1.8 to 6.4 hours (mean approximately 3 hours); total clearance (Cl), 0.25 to 0.54 L/hr/kg.
 In a parallel group study, there was no difference in the clearance, in subjects administered 0.15 mg/kg (n=4) and 0.30 mg/kg (n=4) IV doses indicating linear kinetics.
@@ -74,8 +75,8 @@ The principal urinary excretion products are glucuronide conjugates of the hydro
 
 Drugs that inhibit the activity of cytochrome P450-3A4 may inhibit midazolam clearance and elevate steady-state midazolam concentrations.
 
-Studies of the intravenous administration of 1-hydroxy-midazolam in humans suggest that 1-hydroxy-midazolam is at least as potent as the parent compound and may contribute to the net pharmacologic activity of midazolam.
-In vitro studies have demonstrated that the affinities of 1- and 4-hydroxy-midazolam for the benzodiazepine receptor are approximately 20% and 7%, respectively, relative to midazolam.
+Studies of the intravenous administration of 1-hydroxy-midazolam in humans suggest that 1-hydroxy- midazolam is at least as potent as the parent compound and may contribute to the net pharmacologic activity of midazolam.
+In vitro studies have demonstrated that the affinities of 1- and 4-hydroxy- midazolam for the benzodiazepine receptor are approximately 20% and 7%, respectively, relative to midazolam.
 
 ## Excretion
 
@@ -130,7 +131,7 @@ Renal Impairment: Patients with renal impairment may have longer elimination hal
 
 Midazolam and 1-hydroxy-midazolam pharmacokinetics in 6 ICU patients who developed acute renal failure (ARF) were compared with a normal renal function control group.
 Midazolam was administered as an infusion (5 to 15 mg/hr).
-Midazolam clearance was reduced (1.9 vs 2.8 mL/min/kg) and the half-life was prolonged (7.6 vs 13 hours) in the ARF patients.
+Midazolam clearance was reduced (1.9 vs 2.8 mL/min/kg) and the half- life was prolonged (7.6 vs 13 hours) in the ARF patients.
 The renal clearance of the 1-hydroxy-midazolam glucuronide was prolonged in the ARF group (4 vs 136 mL/ min) and the half-life was prolonged (12 vs > 25 hours).
 Plasma levels accumulated in all ARF patients to about ten times that of the parent drug.
 The relationship between accumulating metabolite levels and prolonged sedation is unclear.

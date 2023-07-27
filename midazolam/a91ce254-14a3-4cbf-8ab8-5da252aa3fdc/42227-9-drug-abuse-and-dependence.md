@@ -11,6 +11,8 @@ Withdrawal symptoms, similar in character to those noted with barbiturates and a
 Abdominal distention, nausea, vomiting, and tachycardia are prominent symptoms of withdrawal in infants.
 The more severe withdrawal symptoms have usually been limited to those patients who had received excessive doses over an extended period of time.
 Generally milder withdrawal symptoms (e.g., dysphoria and insomnia) have been reported following abrupt discontinuance of benzodiazepines taken continuously at therapeutic levels for several months.
-Consequently, after extended therapy, abrupt discontinuation should generally be avoided and a gradual dosage tapering schedule followed.
-There is no consensus in the medical literature regarding tapering schedules; therefore, practitioners are advised to individualize therapy to meet patient’s needs.
+Consequently, after extended therapy, abrupt discontinuation should
+
+generally be avoided and a gradual dosage tapering schedule followed.
+There is no consensus in the medical literature regarding tapering schedules; therefore, practitioners are advised to individualize therapy to meet patient's needs.
 In some case reports, patients who have had severe withdrawal reactions due to abrupt discontinuation of high-dose long-term midazolam, have been successfully weaned off of midazolam over a period of several days.
