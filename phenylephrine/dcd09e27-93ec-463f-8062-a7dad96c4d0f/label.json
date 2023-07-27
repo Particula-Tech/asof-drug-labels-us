@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA203510"
+  ],
+  "inn": "phenylephrine",
+  "labeler": "Bausch & Lomb Americas Inc.",
+  "package_ndcs": [
+    "82260-102-10",
+    "82260-102-15",
+    "82260-103-05"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "phenylephrine hydrochloride",
+      "name": "Phenylephrine Hydrochloride"
+    }
+  ],
+  "setid": "dcd09e27-93ec-463f-8062-a7dad96c4d0f",
+  "source": "dailymed"
+}
