@@ -1,3 +1,11 @@
+# WARNINGS
+
+## Enteroliths in Patients with Risk for Intestinal Stenosis or Stasis
+
+There have been rare postmarketing reports of ursodiol-treated patients who developed enteroliths (bezoars) resulting in obstructive symptoms that required surgical intervention.
+These patients had medical conditions that predisposed them to intestinal stenosis or stasis (e.g., surgical enteroanastomoses, Crohn's disease).
+If a patient presents with obstructive gastrointestinal symptoms, hold Actigall until a clinical evaluation has been conducted.
+
 # PRECAUTIONS
 
 ## Liver Tests

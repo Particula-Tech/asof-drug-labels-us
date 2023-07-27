@@ -9,7 +9,7 @@ The sites of the drug’s therapeutic actions are in the liver, bile, and gut lu
 Beyond conjugation, ursodiol is not altered or catabolized appreciably by the liver or intestinal mucosa.
 A small proportion of orally administered drug undergoes bacterial degradation with each cycle of enterohepatic circulation.
 Ursodiol can be both oxidized and reduced at the 7-carbon, yielding either 7-keto-lithocholic acid or lithocholic acid, respectively.
-Further, there is some bacterially catalyzed deconjugation of glyco- and tauro- ursodeoxycholic acid in the small bowel.
+Further, there is some bacterially catalyzed deconjugation of glyco- and tauro-ursodeoxycholic acid in the small bowel.
 Free ursodiol, 7-keto-lithocholic acid, and lithocholic acid are relatively insoluble in aqueous media and larger proportions of these compounds are lost from the distal gut into the feces.
 Reabsorbed free ursodiol is reconjugated by the liver.
 Eighty percent of lithocholic acid formed in the small bowel is excreted in the feces, but the 20% that is absorbed is sulfated at the 3-hydroxyl group in the liver to relatively insoluble lithocholyl conjugates which are excreted into bile and lost in feces.
