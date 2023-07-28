@@ -30,7 +30,7 @@ AMJEVITA is indicated for the treatment of moderately to severely active ulcerat
 
 Limitations of Use
 
-The effectiveness of adalimumab products has not been established in patients who have lost response to or were intolerant to TNF-blockers [see Clinical Studies (14.7, 14.8)].
+The effectiveness of adalimumab products has not been established in patients who have lost response to or were intolerant to TNF-blockers [see Clinical Studies (14.7)].
 
 ## 1.7 Plaque Psoriasis
 
@@ -40,3 +40,7 @@ AMJEVITA should only be administered to patients who will be closely monitored a
 ## 1.8 Hidradenitis Suppurativa
 
 AMJEVITA is indicated for the treatment of moderate to severe hidradenitis suppurativa in adult patients.
+
+## 1.9 Uveitis
+
+AMJEVITA is indicated for the treatment of non-infectious intermediate, posterior, and panuveitis in adult patients.

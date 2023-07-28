@@ -24,12 +24,12 @@ The most common adverse reactions leading to discontinuation of adalimumab in th
 
 Infections
 
-In the controlled portions of 39 global adalimumab clinical trials in adult patients with RA, PsA, AS, CD, UC, Ps, HS, and another indication, the rate of serious infections was 4.3 per 100 patient-years in 7973 adalimumab-treated patients versus a rate of 2.9 per 100 patient-years in 4848 control-treated patients.
+In the controlled portions of 39 global adalimumab clinical trials in adult patients with RA, PsA, AS, CD, UC, Ps, HS and UV, the rate of serious infections was 4.3 per 100 patient-years in 7973 adalimumab-treated patients versus a rate of 2.9 per 100 patient-years in 4848 control-treated patients.
 Serious infections observed included pneumonia, septic arthritis, prosthetic and post-surgical infections, erysipelas, cellulitis, diverticulitis, and pyelonephritis [see Warnings and Precautions (5.1)].
 
 Tuberculosis and Opportunistic Infections
 
-In 52 global controlled and uncontrolled clinical trials in RA, PsA, AS, CD, UC, Ps, HS, and another indication that included 24,605 adalimumab-treated patients, the rate of reported active tuberculosis was 0.20 per 100 patient-years and the rate of positive PPD conversion was 0.09 per 100 patient-years.
+In 52 global controlled and uncontrolled clinical trials in RA, PsA, AS, CD, UC, Ps, HS and UV that included 24,605 adalimumab-treated patients, the rate of reported active tuberculosis was 0.20 per 100 patient-years and the rate of positive PPD conversion was 0.09 per 100 patient-years.
 In a subgroup of 10,113 U.S. and Canadian adalimumab-treated patients, the rate of reported active TB was 0.05 per 100 patient-years and the rate of positive PPD conversion was 0.07 per 100 patient-years.
 These trials included reports of miliary, lymphatic, peritoneal, and pulmonary TB.
 Most of the TB cases occurred within the first eight months after initiation of therapy and may reflect recrudescence of latent disease.
@@ -58,6 +58,7 @@ In the Phase 3 trial of adalimumab in pediatric patients with Crohn's disease wh
 In controlled Phase 3 trials of adalimumab (initial doses of 160 mg and 80 mg on Days 1 and 15, respectively, followed by 40 mg every other week) in adult patients with UC with control period duration ranging from 1 to 52 weeks, ALT elevations ≥ 3 × ULN occurred in 1.5% of adalimumab-treated patients and 1.0% of control-treated patients.
 In controlled Phase 3 trials of adalimumab (initial dose of 80 mg then 40 mg every other week) in patients with Ps with control period duration ranging from 12 to 24 weeks, ALT elevations ≥ 3 × ULN occurred in 1.8% of adalimumab-treated patients and 1.8% of control-treated patients.
 In controlled trials of adalimumab (initial doses of 160 mg at Week 0 and 80 mg at Week 2, followed by 40 mg every week starting at Week 4), in subjects with HS with a control period duration ranging from 12 to 16 weeks, ALT elevations ≥ 3 × ULN occurred in 0.3% of adalimumab-treated subjects and 0.6% of control-treated subjects.
+In controlled trials of adalimumab (initial doses of 80 mg at Week 0, followed by 40 mg every other week starting at Week 1) in adult patients with uveitis with an exposure of 165.4 PYs and 119.8 PYs in adalimumab-treated and control-treated patients, respectively, ALT elevations ≥ 3 × ULN occurred in 2.4% of adalimumab-treated patients and 2.4% of control-treated patients.
 
 Other Adverse Reactions
 
@@ -72,12 +73,11 @@ Table 1 summarizes reactions reported at a rate of at least 5% in patients treat
 In Study RA-III, the types and frequencies of adverse reactions in the second year open-label extension were similar to those observed in the one-year double-blind portion.
 
 Table 1.
-Adverse Reactions Reported by ≥ 5% of Patients Treated with adalimumab During Placebo-Controlled Period of Pooled RA Studies (Studies RA-I, RA-II, RA-III, and RA-IV)
+Adverse Reactions Reported by ≥ 5% of Patients Treated with Adalimumab During Placebo-Controlled Period of Pooled RA Studies (Studies RA-I, RA-II, RA-III, and RA-IV)
 
 | Adverse Reaction (Preferred Term) |  |  |
 | --- | --- | --- |
-|  | Adalimumab 40 mg subcutaneous | Placebo |
-|  | Every Other Week |  |
+|  | Adalimumab 40 mg subcutaneous Every Other Week | Placebo |
 |  | (N = 705) | (N = 690) |
 | Respiratory |  |  |
 | Upper respiratory infection | 17% | 13% |
@@ -134,6 +134,7 @@ Urogenital System: Cystitis, kidney calculus, menstrual disorder
 Juvenile Idiopathic Arthritis Clinical Studies
 
 In general, the adverse reactions in the adalimumab-treated patients in the polyarticular juvenile idiopathic arthritis (JIA) trials (Studies JIA-I and JIA-II) [see Clinical Studies (14.2)] were similar in frequency and type to those seen in adult patients [see Warnings and Precautions (5), Adverse Reactions (6)].
+
 Important findings and differences from adults are discussed in the following paragraphs.
 
 In Study JIA-I, adalimumab was studied in 171 patients who were 4 to 17 years of age, with polyarticular JIA.
@@ -191,7 +192,7 @@ Adults: The safety profile of adalimumab in 1010 adult patients with ulcerative 
 
 Plaque Psoriasis Clinical Studies
 
-Adalimumab has been studied in 1696 subjects with plaque psoriasis (Ps) in placebo-controlled and open-label extension studies [see Clinical Studies (14.8)].
+Adalimumab has been studied in 1696 subjects with plaque psoriasis (Ps) in placebo controlled and open-label extension studies [see Clinical Studies (14.8)].
 The safety profile for subjects with Ps treated with adalimumab was similar to the safety profile seen in subjects with RA with the following exceptions.
 In the placebo-controlled portions of the clinical trials in Ps subjects, adalimumab-treated subjects had a higher incidence of arthralgia when compared to controls (3% vs. 1%).
 
@@ -201,6 +202,11 @@ Adalimumab has been studied in 727 subjects with hidradenitis suppurativa (HS) i
 The safety profile for subjects with HS treated with adalimumab weekly was consistent with the known safety profile of adalimumab.
 
 Flare of HS, defined as ≥25% increase from baseline in abscesses and inflammatory nodule counts and with a minimum of 2 additional lesions, was documented in 22 (22%) of the 100 subjects who were withdrawn from adalimumab treatment following the primary efficacy timepoint in two studies.
+
+Uveitis Clinical Studies
+
+Adalimumab has been studied in 464 adult patients with uveitis (UV) in placebo-controlled and open-label extension studies [see Clinical Studies (14.10)].
+The safety profile for patients with UV treated with adalimumab was similar to the safety profile seen in patients with RA.
 
 ## 6.2 Immunogenicity
 
@@ -229,7 +235,8 @@ Anti-Adalimumab Antibody Development Determined by ELISA and ECL Assay in Patien
 | Pediatric Crohn's Disease |  | 52 weeks | 3% (6/182) | 10% (6/58) | NA |
 | Adult Ulcerative Colitis |  | 52 weeks | 5% (19/360) | 21% (19/92) | NA |
 | Plaque PsoriasisIn plaque psoriasis patients who were on adalimumab monotherapy and subsequently withdrawn from the treatment, the rate of antibodies to adalimumab after retreatment was similar to the rate observed prior to withdrawal |  | Up to 52 weeksOne 12-week Phase 2 study and one 52-week Phase 3 study | 8% (77/920) | 21% (77/372) | NA |
-| Hidradenitis Suppurativa |  | 36 weeks | 7% (30/461) | 28% (58/207)Among subjects in the two Phase 3 studies who stopped adalimumab treatment for up to 24 weeks and in whom adalimumab serum levels subsequently declined to < 2 mcg/mL (approximately 22% of total subjects studied) | 61% (272/445)No apparent association between antibody development and safety was observed |
+| Hidradenitis Suppurativa |  | 36 weeks | 7% (30/461) | 28% (58/207)Among subjects in the two Phase 3 studies who stopped adalimumab treatment for up to 24 weeks and in whom adalimumab serum levels subsequently declined to < 2 mcg/mL (approximately 22% of total subjects studied) | 61% (272/445No apparent association between antibody development and safety was observed |
+| Non-infectious Uveitis |  | 52 weeks | 5% (12/249) | 21% (12/57) | 40% (99/249)No correlation of antibody development to safety or efficacy outcomes was observed |
 | n: number of patients with anti-adalimumab antibody; NR: not reported; NA: Not applicable (not performed) |  |  |  |  |  |
 
 Rheumatoid Arthritis and Psoriatic Arthritis: Patients in Studies RA-I, RA-II, and RA-III were tested at multiple time points for antibodies to adalimumab using the ELISA during the 6- to 12-month period.

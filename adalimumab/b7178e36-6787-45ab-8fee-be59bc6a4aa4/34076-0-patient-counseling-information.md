@@ -20,10 +20,10 @@ Other Medical Conditions
 Advise patients to report any signs of new or worsening medical conditions such as congestive heart failure, neurological disease, autoimmune disorders, or cytopenias.
 Advise patients to report any symptoms suggestive of a cytopenia such as bruising, bleeding, or persistent fever [see Warnings and Precautions (5.5, 5.6, 5.8, 5.9)].
 
-Instructions on Injection Technique
+Instructions on Injection Technique Inform patients that the first injection is to be performed under the supervision of a qualified health care professional.
+If a patient or caregiver is to administer AMJEVITA, instruct them in injection techniques and assess their ability to inject subcutaneously to ensure the proper administration of AMJEVITA
 
-Inform patients that the first injection is to be performed under the supervision of a qualified health care professional.
-If a patient or caregiver is to administer AMJEVITA, instruct them in injection techniques and assess their ability to inject subcutaneously to ensure the proper administration of AMJEVITA [see Instructions for Use].
+[see Instructions for Use].
 
 Instruct patients to dispose of their used needles and syringes or used prefilled autoinjector in a FDA-cleared sharps disposal container immediately after use.
 Instruct patients not to dispose of loose needles and syringes or prefilled autoinjector in their household trash.
