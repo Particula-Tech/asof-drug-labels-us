@@ -9,4 +9,4 @@
 | What are the ingredients in pemetrexed for injection? Active ingredient: pemetrexed Inactive ingredients: mannitol, hydrochloric acid and/or sodium hydroxide may have been added to adjust pH. Distributed by: Eugia US LLC 279 Princeton-Hightstown Rd. E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad - 500032 India |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: January 2023
+Revised: July 2023
