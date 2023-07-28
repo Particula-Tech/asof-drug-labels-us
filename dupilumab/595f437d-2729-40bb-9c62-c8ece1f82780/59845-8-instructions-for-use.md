@@ -145,18 +145,16 @@ Do not recycle your used sharps disposal container.
 
 Do not put the Needle Cap back on.
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-
-REGENERON sanofi
-
 Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760
 
 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology
 
-© 2022 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
+© 2023 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
 All rights reserved.
 
-Revised: November 2022
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+Revised: July 2023
 
 # INSTRUCTIONS FOR USE DUPIXENT® (DU-pix-ent) (dupilumab) injection, for subcutaneous use Single-Dose Pre-filled Syringe with Needle Shield
 
@@ -305,18 +303,16 @@ Do not recycle your used sharps disposal container.
 
 Do not put the Needle Cap back on.
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-
-REGENERON sanofi
-
 Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760
 
 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology
 
-© 2022 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
+© 2023 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
 All rights reserved.
 
-Revised: November 2022
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+Revised: July 2023
 
 Instructions for Use DUPIXENT® (DU-pix-ent) (dupilumab) injection, for subcutaneous use Single-Dose Pre-filled Pen (300 mg/2 mL)
 
@@ -384,9 +380,8 @@ The parts of the DUPIXENT Pre-filled Pen are shown below:
 | D. Dispose of used DUPIXENT Pre-filled Pen |  |
 | --- | --- |
 | How to Dispose of (throw away) DUPIXENT Pre-filled Pen: Put the used DUPIXENT Pre-filled Pens and Green Caps in a FDA-cleared sharps disposal container right away after use. Do not dispose of (throw away) DUPIXENT Pre-filled Pens and Green Caps in your household trash. If you do not have a FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic,can be closed with a tightfitting, puncture-resistant lid, without sharps being able to come out,upright and stable during use,leak-resistant, andproperly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used DUPIXENT Pre-filled Pens. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this. Do not recycle your used sharps disposal container. Keep your sharps disposal container out of the reach of children. |  |
-| REGENERON sanofi |  |
-| Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology © 2022 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC. All rights reserved. |  |
-| This Instructions for Use has been approved by the U.S. Food and Drug Administration. | Revised: November 2022 |
+| Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology © 2023 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC. All rights reserved. |  |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration. | Revised: July 2023 |
 
 # Instructions for Use
 
@@ -456,9 +451,8 @@ The parts of the DUPIXENT Pre-filled Pen are shown below:
 | D. Dispose of used DUPIXENT Pre-filled Pen |  |
 | --- | --- |
 | How to Dispose of (throw away) DUPIXENT Pre-filled Pen: Put the used DUPIXENT Pre-filled Pens and Yellow Caps in a FDA-cleared sharps disposal container right away after use. Do not dispose of (throw away) DUPIXENT Pre-filled Pens and Yellow Caps in your household trash. If you do not have a FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic,can be closed with a tightfitting, puncture-resistant lid, without sharps being able to come out,upright and stable during use,leak-resistant, andproperly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used DUPIXENT Pre-filled Pens. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this. Do not recycle your used sharps disposal container. Keep your sharps disposal container out of the reach of children. |  |
-| REGENERON sanofi |  |
-| Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology © 2022 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC. All rights reserved. |  |
-| This Instructions for Use has been approved by the U.S. Food and Drug Administration. | Revised: November 2022 |
+| Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology © 2023 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC. All rights reserved. |  |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration. | Revised: July 2023 |
 
 # INSTRUCTIONS FOR USE DUPIXENT® (DU-pix-ent) (dupilumab) injection, for subcutaneous use Single-Dose Pre-filled Syringe with Needle Shield
 
@@ -606,15 +600,13 @@ Do not recycle your used sharps disposal container.
 
 Do not put the Needle Cap back on.
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-
-REGENERON sanofi
-
 Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760
 
 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology
 
-© 2022 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
+© 2023 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
 All rights reserved.
 
-Issued: November 2022
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+Revised: July 2023
