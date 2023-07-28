@@ -1,39 +1,3 @@
-# PRINCIPAL DISPLAY PANEL - 20 mg/2 mL Vial Label
-
-2 mL Rx only NDC 0409-2956-01
-
-Docetaxel Injection, USP 20 mg/2 mL
-
-(10 mg/mL)
-
-Single-dose vial.
-Discard unused portion.
-
-For Intravenous Use only
-
-Ready to add to infusion solution.
-Check concentration prior to preparation.
-See package insert for complete instructions.
-
-Lot Exp
-
-# PRINCIPAL DISPLAY PANEL - 20 mg/2 mL Vial Carton
-
-20 mg/2 mL (10 mg/mL)
-
-1 x 2 mL Single-dose vial Discard unused portion.
-
-NDC 0409-2956-01
-
-Docetaxel Injection, USP 20 mg/2 mL
-
-(10 mg/mL)
-
-For Intravenous Use only Ready to add to infusion solution Caution: Cytotoxic Agent
-
-Check concentration prior to preparation.
-See package insert for complete instructions.
-
 # PRINCIPAL DISPLAY PANEL - 80 mg/8 mL Vial Label
 
 8 mL Multiple-dose Vial

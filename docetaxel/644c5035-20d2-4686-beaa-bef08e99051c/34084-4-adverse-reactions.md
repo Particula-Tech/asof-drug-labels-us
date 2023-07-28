@@ -503,7 +503,7 @@ Table 9: Clinically Important Treatment-Emergent Adverse Reactions (Regardless o
 | Infection | 32 | 6 | 20 | 4 |
 | Epistaxis | 6 | 0 | 2 | 0 |
 | Allergic Reactions | 8 | 1 | 1 | 0 |
-| Fluid RetentionRelated to treatment | 24 | 1 | 5 | 0 |
+| Fluid RetentionRelated to treatment. | 24 | 1 | 5 | 0 |
 | Weight Gain | 8 | 0 | 3 | 0 |
 | Peripheral Edema | 18 | 0 | 2 | 0 |
 | Neuropathy Sensory | 30 | 2 | 7 | 0 |
@@ -544,7 +544,7 @@ Table 10: Clinically Important Treatment-Emergent Adverse Reactions Regardless o
 | Febrile neutropenia | 16 | N/A | 5 | N/A |
 | Neutropenic infection | 16 | N/A | 10 | N/A |
 | Allergic reactions | 10 | 2 | 6 | 0 |
-| Fluid retentionRelated to treatment | 15 | 0 | 4 | 0 |
+| Fluid retentionRelated to treatment. | 15 | 0 | 4 | 0 |
 | Edema | 13 | 0 | 3 | 0 |
 | Lethargy | 63 | 21 | 58 | 18 |
 | Neurosensory | 38 | 8 | 25 | 3 |

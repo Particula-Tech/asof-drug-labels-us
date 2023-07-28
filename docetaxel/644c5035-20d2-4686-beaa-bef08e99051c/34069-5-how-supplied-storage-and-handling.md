@@ -2,15 +2,12 @@
 
 ## 16.1 How Supplied
 
-Docetaxel Injection, USP is supplied in single-dose or multiple-dose vials as a sterile, pyrogen-free, non-aqueous colorless to pale yellow solution.
-Discard unused portion of the single-dose vial.
+Docetaxel Injection, USP is supplied in multiple-dose vials as a sterile, pyrogen-free, non-aqueous colorless to pale yellow solution.
 
 The following strengths are available in a one-vial formulation:
 
 | Unit of Sale | Concentration |
 | --- | --- |
-| NDC 0409-2956-01 | 20 mg/2 mL |
-| Carton of 1 single-dose vial | (10 mg/mL) |
 | NDC 0409-7870-01 | 80 mg/8 mL |
 | Carton of 1 multiple-dose vial | (10 mg/mL) |
 | NDC 0409-1732-01 | 160 mg/16 mL |

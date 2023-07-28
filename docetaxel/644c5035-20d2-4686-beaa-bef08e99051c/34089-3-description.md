@@ -12,6 +12,6 @@ Docetaxel Injection, USP is a sterile, non-pyrogenic, clear, colorless to pale y
 
 Each mL contains 10 mg docetaxel (anhydrous), 260 mg polysorbate 80 NF, 4 mg anhydrous citric acid USP, 23% v/v dehydrated alcohol USP, and polyethylene glycol 300 NF.
 
-Docetaxel Injection is available in single-dose vials containing 20 mg (2 mL) docetaxel (anhydrous), and multiple-dose vials containing 80 mg (8 mL) or 160 mg (16 mL) docetaxel (anhydrous).
+Docetaxel Injection is available in multiple-dose vials containing 80 mg (8 mL) or 160 mg (16 mL) docetaxel (anhydrous).
 
 Docetaxel Injection requires NO prior dilution with a diluent and is ready to add to the infusion solution.
