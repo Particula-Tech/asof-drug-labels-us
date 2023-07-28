@@ -22,7 +22,19 @@ Rx only
 
 TARO
 
-# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label - 4039
+
+NDC 51672-4039-1 100 Tablets
+
+Enalapril Maleate Tablets, USP 10 mg
+
+Keep this and all medications out of the reach of children.
+
+Rx only
+
+TARO
+
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label - 4245
 
 NDC 51672-4245-1 100 Tablets
 
