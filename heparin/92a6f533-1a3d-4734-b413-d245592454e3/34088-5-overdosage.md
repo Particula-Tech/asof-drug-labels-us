@@ -22,6 +22,6 @@ Ideally, the dose required to neutralize the action of heparin should be guided 
 
 Because fatal reactions often resembling anaphylaxis have been reported, protamine sulfate should be given only when resuscitation techniques and treatment of anaphylactoid shock are readily available.
 
-Blood or plasma transfusions may be necessary; these dilute but do not neutralize heparin.
-
 For additional information, consult the prescribing information for Protamine Sulfate Injection, USP.
+
+Blood or plasma transfusions may be necessary; these dilute but do not neutralize heparin.
