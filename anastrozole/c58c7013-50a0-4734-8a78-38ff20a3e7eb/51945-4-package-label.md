@@ -6,8 +6,8 @@ Anastrozole Tablets, USP
 
 1 mg
 
-PHARMACIST: Please dispense with attached Patient Information leaflet
+PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
 
 Rx only
 
-30 TABLETS
+30 Tablets

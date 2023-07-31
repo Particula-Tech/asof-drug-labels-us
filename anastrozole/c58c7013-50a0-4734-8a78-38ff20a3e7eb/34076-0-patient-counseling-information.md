@@ -44,7 +44,9 @@ Lactation
 
 Advise women not to breastfeed during anastrozole tablets treatment and for at least 2 weeks after the last dose [see Use in Specific Populations (8.2)].
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
+Brands listed are the trademarks of their respective owners.
+
+Dispense with Patient Package Insert available at: www.tevausa.com/PatientPI
 
 Manufactured In Israel By:
 
@@ -55,9 +57,9 @@ Kfar Saba, 4410202, Israel
 
 Manufactured For:
 
-Teva Pharmaceuticals USA, Inc.
+Teva Pharmaceuticals
 
 Parsippany, NJ 07054
 
 Rev.
-K 12/2020
+L 5/2023

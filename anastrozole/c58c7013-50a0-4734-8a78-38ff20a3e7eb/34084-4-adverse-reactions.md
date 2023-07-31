@@ -3,7 +3,7 @@
 Serious adverse reactions with anastrozole occurring in less than 1 in 10,000 patients, are: 1) skin reactions such as lesions, ulcers, or blisters; 2) allergic reactions with swelling of the face, lips, tongue, and/or throat.
 This may cause difficulty in swallowing and/or breathing; and 3) changes in blood tests of the liver function, including inflammation of the liver with symptoms that may include a general feeling of not being well, with or without jaundice, liver pain or liver swelling [see Adverse Reactions (6.2)].
 
-Common adverse reactions (occurring with an incidence of ≥ 10%) in women taking anastrozole included: hot flashes, asthenia, arthritis, pain, arthralgia, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
+Common adverse reactions (occurring with an incidence of ≥10%) in women taking anastrozole included: hot flashes, asthenia, arthritis, pain, arthralgia, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
 
 In the ATAC trial, the most common reported adverse reaction (>0.1%) leading to discontinuation of therapy for both treatment groups was hot flashes, although there were fewer patients who discontinued therapy as a result of hot flashes in the anastrozole group.
 
@@ -87,9 +87,9 @@ Table 1 - Adverse reactions occurring with an incidence of at least 5% in either
 
 * The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.
 
-† COSTART Coding Symbols for Thesaurus of Adverse Reaction Terms.
+†COSTART Coding Symbols for Thesaurus of Adverse Reaction Terms.
 
-‡ A patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system.
+‡A patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system.
 
 § N = Number of patients receiving the treatment.
 
@@ -122,9 +122,9 @@ Table 2 — Number of Patients with Pre-specified Adverse Reactions in ATAC Tria
 
 * Patients with multiple events in the same category are counted only once in that category.
 
-† Refers to joint symptoms, including joint disorder, arthritis, arthrosis and arthralgia.
+†Refers to joint symptoms, including joint disorder, arthritis, arthrosis and arthralgia.
 
-‡ Percentages calculated based upon the numbers of patients with an intact uterus at baseline.
+‡Percentages calculated based upon the numbers of patients with an intact uterus at baseline.
 
 Ischemic Cardiovascular Events
 
@@ -272,7 +272,7 @@ Table 4 - Number of Patients with Pre-specified Adverse Reactions in Trials 0030
 
 Second-Line Therapy
 
-Anastrozole was tolerated in two controlled clinical trials (i.e., Trials 0004 and 0005), with less than 3.3% of the anastrozole-treated patients and 4% of the megestrol acetate-treated patients withdrawing due to an adverse reaction.
+Anastrozole was tolerated in two controlled clinical trials (i.e., Trials 0004 and 0005), with less than 3.3% of the anastrozole-treated patients and 4.0% of the megestrol acetate-treated patients withdrawing due to an adverse reaction.
 
 The principal adverse reaction more common with anastrozole than megestrol acetate was diarrhea.
 Adverse reactions reported in greater than 5% of the patients in any of the treatment groups in these two controlled clinical trials, regardless of causality, are presented below:
@@ -342,7 +342,7 @@ The incidences of the following adverse reaction groups potentially causally rel
 These six groups, and the adverse reactions captured in the groups, were prospectively defined.
 The results are shown in the table below.
 
-Table 6 — Number (n) and Percentage of Patients with Pre-specified Adverse Reactions in Trials 0004 and 0005
+Table 6 —Number (n) and Percentage of Patients with Pre-specified Adverse Reactions in Trials 0004 and 0005
 
 |  | Anastrozole |  | Anastrozole |  | Megestrol Acetate |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -364,5 +364,5 @@ The following have been reported in post-approval use of anastrozole:
 
 - Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis
 - Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome
-- Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see Contraindications (4.2)]
+- Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see Contraindications (4)]
 - Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)

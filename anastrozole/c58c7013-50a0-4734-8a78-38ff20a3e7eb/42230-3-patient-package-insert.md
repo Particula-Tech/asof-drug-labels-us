@@ -1,4 +1,6 @@
-# Patient Information
+Dispense with Patient Package Insert available at: www.tevausa.com/PatientPI
+
+PATIENT INFORMATION
 
 Anastrozole (an as' troe zole) Tablets
 
@@ -53,8 +55,8 @@ Especially tell your healthcare provider if you take:
   - hormone replacement therapy
   - birth control pills
   - estrogen creams
-  - ovaginal rings
-  - ovaginal suppositories
+  - vaginal rings
+  - vaginal suppositories
 
 Know the medicines you take.
 Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
@@ -106,7 +108,7 @@ Common side effects in women taking anastrozole tablets include:
 - sore throat
 - high blood pressure
 - depression
-- ·nausea and vomiting
+- nausea and vomiting
 - rash
 - back pain
 - sleep problems
@@ -161,9 +163,9 @@ Kfar Saba, 4410202, Israel
 
 Manufactured For:
 
-Teva Pharmaceuticals USA, Inc.
+Teva Pharmaceuticals
 
 Parsippany, NJ 07054
 
 Rev.
-F 12/2020
+G 5/2023
