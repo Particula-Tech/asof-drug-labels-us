@@ -1,6 +1,6 @@
 Package Label - Principal Display Panel - 800 mg Tablets, 270 per Bottle
 
-NDC 58468-0130-1
+NDC 58468-0133-1
 
 Rx only
 
