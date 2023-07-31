@@ -2,10 +2,10 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Itraconazole Capsules has been associated with rare cases of serious hepatotoxicity, including liver failure and death.
+Itraconazole capsules has been associated with rare cases of serious hepatotoxicity, including liver failure and death.
 Some of these cases had neither pre-existing liver disease nor a serious underlying medical condition.
 If clinical signs or symptoms develop that are consistent with liver disease, treatment should be discontinued and liver function testing performed.
-The risks and benefits of Itraconazole Capsules use should be reassessed.
+The risks and benefits of itraconazole capsules use should be reassessed.
 (See WARNINGS: Hepatic Effects and PRECAUTIONS: Hepatotoxicity and Information for Patients.)
 
 Adverse Events in the Treatment of Systemic Fungal Infections
@@ -40,7 +40,7 @@ Patients in these trials were on a continuous dosing regimen of 200 mg once dail
 
 The following adverse events led to temporary or permanent discontinuation of therapy.
 
-Table 4: Clinical Trials of Onychomycosis of the Toenail: Adverse Events Leading to Temporary or Permanent Discontinuation of Therapy
+Table 4:Clinical Trials of Onychomycosis of the Toenail: Adverse Events Leading to Temporary or Permanent Discontinuation of Therapy
 
 | Adverse Event | Incidence (%) Itraconazole (N=112) |
 | --- | --- |
@@ -71,11 +71,11 @@ Table 5: Clinical Trials of Onychomycosis of the Fingernail: Adverse Events Lead
 | Hypertriglyceridemia | 3 |
 
 The following adverse events occurred with an incidence of greater than or equal to 1% (N=37): headache: 8%; pruritus, nausea, rhinitis: 5%; rash, bursitis, anxiety, depression, constipation, abdominal pain, dyspepsia, ulcerative stomatitis, gingivitis, hypertriglyceridemia, sinusitis, fatigue, malaise, pain, injury: 3%.
-Adverse Events Reported from Other Clinical Trials:
+Adverse Events Reported from Other Clinical Trials
 
-In addition, the following adverse drug reaction was reported in patients who participated in Itraconazole Capsules clinical trials: Hepatobiliary Disorders: hyperbilirubinemia.
+In addition, the following adverse drug reaction was reported in patients who participated in itraconazole capsules clinical trials: Hepatobiliary Disorders: hyperbilirubinemia.
 
-The following is a list of additional adverse drug reactions associated with itraconazole that have been reported in clinical trials of Itraconazole Oral Solution and itraconazole IV excluding the adverse reaction term “Injection site inflammation” which is specific to the injection route of administration:
+The following is a list of additional adverse drug reactions associated with itraconazole that have been reported in clinical trials of itraconazole oral solution and itraconazole IV excluding the adverse reaction term “Injection site inflammation” which is specific to the injection route of administration:
 
 Cardiac Disorders: cardiac failure, left ventricular failure, tachycardia;
 
@@ -99,27 +99,29 @@ Vascular Disorders: hypotension
 
 ## Post-marketing Experience
 
-Adverse drug reactions that have been first identified during post-marketing experience with Itraconazole Capsules (all formulations) are listed in the table below.
+Adverse drug reactions that have been first identified during post-marketing experience with itraconazole capsules (all formulations) are listed in the table below.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
+
 Table 6: Postmarketing Reports of Adverse Drug Reactions
 
-| Blood and lymphatic system disorders: | Leukopenia,neutropenia,thrombocytopenia |
+| Blood and Lymphatic System Disorders: | Leukopenia, neutropenia, thrombocytopenia |
 | --- | --- |
-| Immune system disorders: | Anaphylaxis,anaphylactic,anaphylactoid and allergic reactions;serum sickness;angioneurotic edema |
-| Nervous system disorders: | Peripheral neuropathy,paresthesia,hypoesthesia,tremor |
-| Eye disorders: | Visual disturbances,including vision blurred and diplopia |
-| Ear and labyrinth disorders: | Transient or permanent hearing loss |
-| Cardiac disorders: | Congestive heart failure |
-| Respiratory,thoracic and mediastinal disorders: | Pulmonary edema,dyspnea |
-| Gastrointestinal disorders: | Pancreatitis,dysgeusia |
-| Hepatobiliary disorders: | Serious hepatotoxicity (including some cases of fatal acute liver failure) |
-| Skin and subcutaneous tissue disorders: | Toxic epidermal necrolysis,stevens-Johnson syndrome,acute generalized exanthematous pustulosis,exfoliative dermatitis,leukocytoclastic vasculitis,erythema multiforme,alopecia,photosensitivity,urticaria |
-| Musculoskeletal and connective tissue disorders: | arthralgia |
-| Renal and urinary disorders: | Urinary incontinence,pollakiuria |
-| Reproductive system and breast disorders: | erectile dysfunction |
-| General disorders and administration site conditions: | Peripheral edema |
+| Immune System Disorders: | Anaphylaxis; anaphylactic, anaphylactoid and allergic reactions; serum sickness; angioneurotic edema |
+| Nervous System Disorders: | Peripheral neuropathy, paresthesia, hypoesthesia, tremor |
+| Eye Disorders: | Visual disturbances, including vision blurred and diplopia |
+| Ear and Labyrinth Disorders: | Transient or permanent hearing loss |
+| Cardiac Disorders: | Congestive heart failure |
+| Respiratory, Thoracic and Mediastinal Disorders: | Pulmonary edema, dyspnea |
+| Gastrointestinal Disorders: | Pancreatitis, dysgeusia |
+| Hepatobiliary Disorders: | Serious hepatotoxicity (including some cases of fatal acute liver failure), hepatitis |
+| Skin and Subcutaneous Tissue Disorders: | Toxic epidermal necrolysis, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, exfoliative dermatitis, leukocytoclastic vasculitis, erythema multiforme, alopecia, photosensitivity, urticaria |
+| Musculoskeletal and Connective Tissue Disorders: | Arthralgia |
+| Renal and Urinary Disorders: | Urinary incontinence, pollakiuria |
+| Reproductive System and Breast Disorders: | Erectile dysfunction |
+| General Disorders and Administration Site Conditions: | Peripheral edema |
 | Investigations: | Blood creatine phosphokinase increased |
 
-There is limited information on the use of Itraconazole Capsules during pregnancy.
-Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during post-marketing experience.A causal relationship with Itraconazole Capsules has not been established.
-(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Drug Interactions for more information.).
+There is limited information on the use of itraconazole capsules during pregnancy.
+Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during post-marketing experience.
+A causal relationship with itraconazole capsules has not been established.
+(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Drug Interactions for more information.)

@@ -14,7 +14,7 @@ Itraconazole has a molecular formula of C35H38Cl2N8O4 and a molecular weight of 
 It is a white or almost white powder.
 Freely soluble in methylene chloride,sparingly soluble in tetrahydrofuran,very slightly soluble in alcohol and practically insoluble in water.It has a pKa of 3.70 (based on extrapolation of values obtained from methanolic solutions) and a log (n-octanol/water) partition coefficient of 5.66 at pH 8.1.
 
-Itraconazole Capsules contain 100 mg of itraconazole coated on sugar spheres (composed of sucrose, maize starch and purified water).
-Inactive ingredients are hard gelatin capsule, hypromellose, poloxamer 188,ethanol absolute,methylene chloride,polyethylene glycol 20000,talc,colloidal silicon dioxide,SLS,titanium dioxide,FD&C blue 1,FD&C red 40,FD&C red 3 and white ink (containing: shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution, titanium dioxide and potassium hydroxide).
+Itraconazole capsules contain 100 mg of itraconazole coated on sugar spheres (composed of sucrose, maize starch and purified water).
+Inactive ingredients are hard gelatin capsule, hypromellose, poloxamer 188,ethanol absolute, methylene chloride, polyethylene glycol 20000, talc, colloidal silicon dioxide, SLS, titanium dioxide, FD&C blue 1,FD&C red 40,FD&C red 3 and white ink (containing: shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution, titanium dioxide and potassium hydroxide).
 
 FDA approved dissolution test specifications differ from USP

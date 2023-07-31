@@ -1,4 +1,4 @@
-# Patient Information
+# PATIENT INFORMATION
 
 Itraconazole Capsules
 
@@ -13,26 +13,36 @@ Itraconazole capsules can cause serious side effects, including:
 
 1. Heart failure.
    Do not take itraconazole capsules if you have had heart failure, including congestive heart failure.
+   Stop taking itraconazole capsules and call your healthcare provider right away if you have any of these symptoms of congestive heart failure:
+   - shortness of breath • coughing up white or pink mucus (phlegm)
+   - swelling of your feet, ankles or legs • fast heartbeat
+   - sudden weight gain • waking up at night more than normal for you
+   - increased tiredness
+2. Heart problems and other serious medical problems.
+   Serious medical problems that affect the heart and other parts of your body can happen if you take itraconazole capsules with certain other medicines.
+   Do not take itraconazole capsules if you also take the following medicines:
 
-Stop taking itraconazole capsules and call your healthcare provider right away if you have any of these symptoms of congestive heart failure:
+• methadone • methylergometrine • ranolazine
 
-- shortness of breath • coughing up white or pink mucus (phlegm)
-- swelling of your feet, ankles or legs • fast heartbeat
-- sudden weight gain • waking up at night more than normal for you
-- increased tirednes
-- 2.Heart problems and other serious medical problems.
-  Serious medical problems that affect the heart and other parts of your body can happen if you take itraconazole capsules with certain other medicines.
-  Do not take itraconazole capsules if you also take the following medicines:
+• disopyramide (methylergonovine) • eplerenone
 
-| methadone | methylergometrine (methylergonovine) | ranolazine |
-| --- | --- | --- |
-| disopyramide | irinotecan | eplerenone |
-| dofetilide | lurasidone | cisapride |
-| dronedarone | oral midazolam | naloxegol |
-| quinidine | pimozide | lomitapide |
-| isavuconazole | triazolam | lovastatin |
-| ergot alkaloids (such as dihydroergotamine, ergometrine ergonovine) | felodipine nisoldipine | simvastatin avanafil |
-| ergotamine | ivabradine | ticagrelor |
+• dofetilide • irinotecan • cisapride
+
+• dronedarone • lurasidone • naloxegol
+
+• quinidine • oral midazolam • lomitapide
+
+• isavuconazole • pimozide • lovastatin
+
+• ergot alkaloids (such as • triazolam • simvastatin
+
+dihydroergotamine, • felodipine • avanafil
+
+ergometrine ergonovine) • nisoldipine • ticagrelor
+
+• ergotamine • ivabradine • venetoclax (see below)
+
+Do not take itraconazole capsules with venetoclax for chronic lymphocytic leukemia/small lymphocytic lymphoma when you first start treatment with venetoclax or with increasing doses of venetoclax.
 
 This is not a complete list of medicines that can interact with itraconazole capsules.
 Itraconazole capsules may affect the way other medicines work, and other medicines may affect how itraconazole capsules works.
@@ -46,10 +56,11 @@ Liver problems.
 Itraconazole capsules can cause serious liver problems which may be severe and lead to death.
 Stop taking itraconazole capsules and call your healthcare provider right away if you have any of these symptoms of liver problems:
 
-- tiredness • your skin or the white part of your eyes turn
-- loss of appetite for several days or longer yellow (jaundice)
-- nausea or vomiting • light-colored stools (bowel movement)
-- dark or “tea-colored” urine
+| tiredness | your skin or the white part of your |
+| --- | --- |
+| loss of appetite for several days or longer | eyes turn yellow (jaundice) |
+| nausea or vomiting | light-colored stools (bowel movement) |
+| dark or “tea-colored” urine |  |
 
 For more information about side effects, see “What are the possible side effects of itraconazole capsules?”
 
@@ -123,6 +134,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store itraconazole capsules?
 
 - Store itraconazole capsules at room temperature between 20° to 25°C (68° to 77°F)
+
 - Keep itraconazole capsules dry and away from light.
 
 Keep itraconazole capsules and all medicines out of the reach of children.
@@ -142,9 +154,7 @@ What are the ingredients in itraconazole capsules?
 
 Active ingredients: itraconazole
 
-Inactive ingredients: hard gelatin capsule, hypromellose, poloxamer 188, ethanol absolute, methylene chloride, polyethylene glycol 20000, talc, colloidal silicon dioxide, SLS,titanium dioxide, FD&C blue 1, FD&C red 40, FD & C red 3 and white ink (containing: shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution, titanium dioxide and potassium hydroxide).
-
-This Patient Information has been approved by the U.S. Food and Drug Administration
+Inactive ingredients: hard gelatin capsule, hypromellose, poloxamer 188, ethanol absolute, methylene chloride, polyethylene glycol 20000, talc, colloidal silicon dioxide, SLS, titanium dioxide, FD&C blue 1, FD&C red 40, FD & C red 3 and white ink (containing: shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution, titanium dioxide and potassium hydroxide).
 
 Manufactured by:
 
@@ -158,4 +168,8 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: November, 2021
+For more information call 1-877-272-7901.
+
+This Patient Information has been approved by the U.S. Food and Drug Administration
+
+Revised: January, 2023

@@ -1,6 +1,6 @@
 # INDICATIONS & USAGE
 
-Itraconazole Capsules are indicated for the treatment of the following fungal infections in immunocompromised and non-immunocompromised patients:
+Itraconazole capsules are indicated for the treatment of the following fungal infections in immunocompromised and non-immunocompromised patients:
 
 1.
 Blastomycosis, pulmonary and extrapulmonary
@@ -18,7 +18,7 @@ refractory to amphotericin B therapy.
 Specimens for fungal cultures and other relevant laboratory studies (wet mount, histopathology,serology) should be obtained before therapy to isolate and identify causative organisms.
 Therapy may be instituted before the results of the cultures and other laboratory studies are known; however, once these results become available, antiinfective therapy should be adjusted accordingly.
 
-Itraconazole Capsules are also indicated for the treatment of the following fungal infections in non-immunocompromised
+Itraconazole capsules are also indicated for the treatment of the following fungal infections in non-immunocompromised
 
 patients:
 
@@ -60,7 +60,7 @@ Results of these studies demonstrated substantial evidence of effectiveness of i
 
 Onychomycosis of the toenail:
 
-Analyses were conducted on data from three double-blind, placebo-controlled studies (N=214 total;110 given Itraconazole Capsules) in which patients with onychomycosis of the toenails received 200 mg of Itraconazole Capsules once daily for 12 consecutive weeks.
+Analyses were conducted on data from three double-blind, placebo-controlled studies (N=214 total;110 given itraconazole capsules) in which patients with onychomycosis of the toenails received 200 mg of itraconazole capsules once daily for 12 consecutive weeks.
 Results of these studies demonstrated mycologic cure, defined as simultaneous occurrence of negative KOH plus negative culture, in 54% of patients.
 Thirty-five percent (35%) of patients were considered an overall success(mycologic cure plus clear or minimal nail involvement with significantly decreased signs) and 14% of patients demonstrated mycologic cure plus clinical cure (clearance of all signs, with or without residual nail deformity).
 The mean time to overall success was approximately 10 months.
@@ -68,7 +68,7 @@ Twenty-one percent (21%) of the overall success group had a relapse (worsening o
 
 Onychomycosis of the fingernail:
 
-Analyses were conducted on data from a double-blind, placebo-controlled study (N=73 total; 37 given Itraconazole Capsules) in which patients with onychomycosis of the fingernails received a 1-week course of 200 mg of Itraconazole Capsules b.i.d., followed by a 3-week period without Itraconazole, which was followed by a second 1-week course of 200 mg of Itraconazole Capsules b.i.d.
+Analyses were conducted on data from a double-blind, placebo-controlled study (N=73 total; 37 given itraconazole capsules) in which patients with onychomycosis of the fingernails received a 1-week course of 200 mg of itraconazole capsules b.i.d., followed by a 3-week period without itraconazole, which was followed by a second 1-week course of 200 mg of itraconazole capsules b.i.d.
 Results demonstrated mycologic cure in 61% of patients.
 Fifty-six percent (56%) of patients were considered an overall success and 47% of patients demonstrated mycologic cure plus clinical cure.
 The mean time to overall success was approximately 5 months.
