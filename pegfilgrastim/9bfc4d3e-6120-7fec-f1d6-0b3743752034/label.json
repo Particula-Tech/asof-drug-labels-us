@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761075"
+  ],
+  "inn": "pegfilgrastim",
+  "labeler": "Biocon Biologics Inc.",
+  "package_ndcs": [
+    "83257-005-41"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "pegfilgrastim",
+      "name": "Fulphila"
+    }
+  ],
+  "setid": "9bfc4d3e-6120-7fec-f1d6-0b3743752034",
+  "source": "dailymed"
+}
