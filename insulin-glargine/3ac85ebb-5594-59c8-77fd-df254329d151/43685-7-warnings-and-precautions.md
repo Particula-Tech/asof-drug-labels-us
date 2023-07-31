@@ -1,0 +1,63 @@
+# 5 WARNINGS AND PRECAUTIONS
+
+## 5.1 Never Share an Insulin Glargine-yfgn Prefilled Pen, Insulin Syringe, or Needle Between Patients
+
+Insulin Glargine-yfgn prefilled pens must never be shared between patients, even if the needle is changed.
+Patients using Insulin Glargine-yfgn vials must never re-use or share needles or syringes with another person.
+Sharing poses a risk for transmission of blood-borne pathogens.
+
+## 5.2 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
+
+Changes in an insulin regimen (e.g., insulin strength, manufacturer, type, injection site or method of administration) may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.3)] or hyperglycemia.
+Repeated insulin injections into areas of lipodystrophy or localized cutaneous amyloidosis have been reported to result in hyperglycemia; and a sudden change in the injection site (to unaffected area) has been reported to result in hypoglycemia [see Adverse Reactions (6)].
+
+Make any changes to a patient’s insulin regimen under close medical supervision with increased frequency of blood glucose monitoring.
+Advise patients who have repeatedly injected into areas of lipodystrophy or localized cutaneous amyloidosis to change the injection site to unaffected areas and closely monitor for hypoglycemia.
+For patients with type 2 diabetes, dosage adjustments of concomitant oral and antidiabetic products may be needed.
+
+## 5.3 Hypoglycemia
+
+Hypoglycemia is the most common adverse reaction associated with insulins, including insulin glargine products.
+Severe hypoglycemia can cause seizures, may be life-threatening or cause death.
+Hypoglycemia can impair concentration ability and reaction time; this may place the patient and others at risk in situations where these abilities are important (e.g., driving or operating other machinery).
+
+Hypoglycemia can happen suddenly, and symptoms may differ in each patient and change over time in the same patient.
+Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes, in patients with diabetic neuropathy, using drugs that block the sympathetic nervous system (e.g., beta-blockers) [see Drug Interactions (7)], or who experience recurrent hypoglycemia.
+
+The long-acting effect of insulin glargine products may delay recovery from hypoglycemia.
+
+Risk Factors for Hypoglycemia
+
+The risk of hypoglycemia after an injection is related to the duration of action of the insulin and, in general, is highest when the glucose lowering effect of the insulin is maximal.
+As with all insulins, the glucose lowering effect time course of insulin glargine products may vary in different patients or at different times in the same patient and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology (12.2)].
+Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to concomitant drugs [see Drug Interactions (7)].
+Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations (8.6, 8.7)].
+
+Risk Mitigation Strategies for Hypoglycemia
+
+Patients and caregivers must be educated to recognize and manage hypoglycemia.
+Self-monitoring of blood glucose plays an essential role in the prevention and management of hypoglycemia.
+In patients at higher risk for hypoglycemia and patients who have reduced symptomatic awareness of hypoglycemia, increased frequency of blood glucose monitoring is recommended.
+
+## 5.4 Hypoglycemia Due to Medication Errors
+
+Accidental mix-ups among insulin products have been reported.
+To avoid medication errors between Insulin Glargine-yfgn and other insulins, instruct patients to always check the insulin label before each injection [see Adverse Reactions (6.3)].
+
+## 5.5 Hypersensitivity Reactions
+
+Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulins, including insulin glargine products [see Adverse Reactions (6.1)].
+If hypersensitivity reactions occur, discontinue insulin glargine-yfgn; treat per standard of care and monitor until symptoms and signs resolve. insulin glargine-yfgn is contraindicated in patients who have had hypersensitivity reactions to insulin glargine products or one of the excipients.
+
+## 5.6 Hypokalemia
+
+All insulins, including insulin glargine products, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
+Untreated hypokalemia may cause respiratory paralysis, ventricular arrhythmia, and death.
+Monitor potassium levels in patients at risk for hypokalemia, if indicated (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentrations).
+
+## 5.7 Fluid Retention and Heart Failure with Concomitant Use of PPAR-gamma Agonists
+
+Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, when used in combination with insulin.
+Fluid retention may lead to or exacerbate heart failure.
+Patients treated with insulin, including Insulin Glargine-yfgn, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
+If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.

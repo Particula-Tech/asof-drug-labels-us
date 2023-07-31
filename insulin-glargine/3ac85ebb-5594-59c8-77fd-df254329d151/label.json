@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "BLA761201"
+  ],
+  "inn": "insulin-glargine",
+  "labeler": "Biocon Biologics Inc.",
+  "package_ndcs": [
+    "83257-014-11",
+    "83257-015-31",
+    "83257-015-32"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin glargine-yfgn",
+      "name": "Insulin Glargine"
+    }
+  ],
+  "setid": "3ac85ebb-5594-59c8-77fd-df254329d151",
+  "source": "dailymed"
+}
