@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "BLA761074"
+  ],
+  "inn": "trastuzumab",
+  "labeler": "Biocon Biologics Inc.",
+  "package_ndcs": [
+    "83257-001-11",
+    "83257-002-11",
+    "83257-003-01",
+    "83257-003-11",
+    "83257-004-12"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "trastuzumab",
+      "name": "OGIVRI"
+    },
+    {
+      "form": "KIT",
+      "generic": "trastuzumab",
+      "name": "OGIVRI"
+    }
+  ],
+  "setid": "b6465b44-a6dd-f99c-d009-6851cf05169c",
+  "source": "dailymed"
+}
