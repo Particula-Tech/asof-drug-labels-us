@@ -13,9 +13,11 @@ Administration Instructions • Patients should be advised to take ramelteon tab
 Lactation
 
 Advise mothers using ramelteon tablets to monitor neonates for signs of somnolence and feeding problems.
-A lactating woman may consider pumping and discarding breast milk during treatment and for 25 hours after ramelteon tablets administration to minimize drug exposure to a breastfed infant [see Use in Specific Populations (8.2)]
+A lactating woman may consider pumping and discarding breast milk during treatment and for 25 hours after ramelteon tablets administration to minimize drug exposure to a breastfed infant [see Use in Specific Populations (8.2)].
+
+Print Medication Guide available at: https://granulespharma.com/product/ramelteon-tab/
 
 Manufactured by: Granules Pharmaceuticals Inc. Chantilly, VA 20151
 
 Rev.
-09/20
+05/2023

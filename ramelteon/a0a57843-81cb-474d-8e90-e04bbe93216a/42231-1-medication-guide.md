@@ -67,6 +67,8 @@ Active Ingredient: ramelteon Inactive Ingredients: copovidone, corn starch, hydr
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+Dispense with Medication Guide available at: https://granulespharma.com/product/ramelteon-tab/
+
 Manufactured by: Granules Pharmaceuticals Inc., Chantilly, VA 20151
 
 Rev.
