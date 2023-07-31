@@ -7,7 +7,7 @@ The more commonly observed untoward events associated with the use of buspirone 
 ## Associated with Discontinuation of Treatment
 
 One guide to the relative clinical importance of adverse events associated with buspirone hydrochloride tablets is provided by the frequency with which they caused drug discontinuation during clinical testing.
-Approximately 10% of the 2200 anxious patients who participated in the buspirone hydrochloride tablets premarketing clinical efficacy trials in anxiety disorders lasting 3 to 4 weeks discontinued treatment due to an adverse event.
+Approximately 10% of the 2,200 anxious patients who participated in the buspirone hydrochloride tablets premarketing clinical efficacy trials in anxiety disorders lasting 3 to 4 weeks discontinued treatment due to an adverse event.
 The more common events causing discontinuation included: central nervous system disturbances (3.4%), primarily dizziness, insomnia, nervousness, drowsiness, and lightheaded feeling; gastrointestinal disturbances (1.2%), primarily nausea; and miscellaneous disturbances (1.1%), primarily headache and fatigue.
 In addition, 3.4% of patients had multiple complaints, none of which could be characterized as primary.
 
@@ -69,8 +69,8 @@ TREATMENT-EMERGENT ADVERSE EXPERIENCE INCIDENCE IN PLACEBO-CONTROLLED CLINICAL T
 
 ## Other Events Observed During the Entire Premarketing Evaluation of Buspirone Hydrochloride Tablets
 
-During its premarketing assessment, buspirone hydrochloride tablets were evaluated in over 3500 subjects.
-This section reports event frequencies for adverse events occurring in approximately 3000 subjects from this group who took multiple doses of buspirone hydrochloride tablets in the dose range for which buspirone is being recommended (i.e., the modal daily dose of buspirone hydrochloride tablets fell between 10 mg and 30 mg for 70% of the patients studied) and for whom safety data were systematically collected.
+During its premarketing assessment, buspirone hydrochloride tablets were evaluated in over 3,500 subjects.
+This section reports event frequencies for adverse events occurring in approximately 3,000 subjects from this group who took multiple doses of buspirone hydrochloride tablets in the dose range for which buspirone is being recommended (i.e., the modal daily dose of buspirone hydrochloride tablets fell between 10 mg and 30 mg for 70% of the patients studied) and for whom safety data were systematically collected.
 The conditions and duration of exposure to buspirone hydrochloride tablets varied greatly, involving well-controlled studies as well as experience in open and uncontrolled clinical settings.
 As part of the total experience gained in clinical studies, various adverse events were reported.
 In the absence of appropriate controls in some of the studies, a causal relationship to buspirone hydrochloride treatment cannot be determined.
@@ -80,7 +80,7 @@ The following enumeration by organ system describes events in terms of their rel
 Events of major clinical importance are also described in the PRECAUTIONS section.
 
 The following definitions of frequency are used: Frequent adverse events are defined as those occurring in at least 1/100 patients.
-Infrequent adverse events are those occurring in 1/100 to 1/1000 patients, while rare events are those occurring in less than 1/1000 patients.
+Infrequent adverse events are those occurring in 1/100 to 1/1,000 patients, while rare events are those occurring in less than 1/1,000 patients.
 
 ### Cardiovascular
 

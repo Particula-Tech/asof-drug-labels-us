@@ -225,7 +225,7 @@ There are no long-term safety or efficacy data in this population.
 
 ## Geriatric Use
 
-In one study of 6632 patients who received buspirone for the treatment of anxiety, 605 patients were ≥ 65 years old and 41 were ≥ 75 years old; the safety and efficacy profiles for these 605 elderly patients (mean age = 70.8 years) were similar to those in the younger population (mean age = 43.3 years).
+In one study of 6,632 patients who received buspirone for the treatment of anxiety, 605 patients were ≥65 years old and 41 were ≥75 years old; the safety and efficacy profiles for these 605 elderly patients (mean age = 70.8 years) were similar to those in the younger population (mean age = 43.3 years).
 Review of spontaneously reported adverse clinical events has not identified differences between elderly and younger patients, but greater sensitivity of some older patients cannot be ruled out.
 
 There were no effects of age on the pharmacokinetics of buspirone (see CLINICAL PHARMACOLOGY: Special Populations).
