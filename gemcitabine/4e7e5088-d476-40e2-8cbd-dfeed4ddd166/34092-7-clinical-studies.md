@@ -161,7 +161,7 @@ No confirmed objective tumor responses were observed in either treatment arm.
 
 | Efficacy Parameter | Gemcitabine (N=63) | Fluorouracil (N=63) |
 | --- | --- | --- |
-| Clinical Benefit Response p-valuea | 22.2% | 4.8% |
+| Clinical Benefit Responsep-valuea | 22.2% | 4.8% |
 | p=0.004 |  |  |
 | Overall Survival |  |  |
 | Median (95% CI) in months | 5.7 (4.7, 6.9) | 4.2 (3.1, 5.1) |

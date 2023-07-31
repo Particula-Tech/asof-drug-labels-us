@@ -10,5 +10,5 @@ Gemcitabine hydrochloride is soluble in water, slightly soluble in methanol, and
 
 INFUGEM (gemcitabine in 0.9% sodium chloride injection) is a clear, colorless, sterile solution that is provided as a single-dose, premixed intravenous infusion bag (10 mg/mL) for intravenous use and does not require any further preparation.
 
-- Each 100 mL contains 1000 mg of gemcitabine (equivalent to 1138 mg of gemcitabine hydrochloride, USP), 900 mg of sodium chloride, and water for injection.
-  Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment.
+Each 100 mL contains 1000 mg of gemcitabine (equivalent to 1138 mg of gemcitabine hydrochloride, USP), 900 mg of sodium chloride, and water for injection.
+Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment.
