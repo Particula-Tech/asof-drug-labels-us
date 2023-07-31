@@ -6,7 +6,7 @@ Clindamycin phosphate is a water soluble ester of the semi-synthetic antibiotic 
 Clindamycin phosphate is C18H34ClN2O8PS.
 The structural formula for clindamycin phosphate is represented below:
 
-Clindamycin phosphate has a molecular weight of 504.97 and its chemical name is methyl 7-chloro-6,7,8-trideoxy-6-(1-methyl-trans-4-propyl-L-2-pyrrolidinecarboxamido)-1-thio-L-threo-α-D-galacto-octopyranoside 2-(dihydrogen phosphate).
+Clindamycin phosphate has a molecular weight of 504.97 and its chemical name is methyl 7-chloro-6,7,8-trideoxy-6-(1-methyl-trans-4-propyl-L-2-pyrrolidinecarboxamido)-1-thio- L-threo-α-D-galacto-octopyranoside 2-(dihydrogen phosphate).
 
 Benzoyl peroxide is C14H10O4.
 It has the following structural formula:

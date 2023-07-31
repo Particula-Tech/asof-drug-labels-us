@@ -108,22 +108,16 @@ What are the ingredients in Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%
 
 Active Ingredients: clindamycin phosphate 1.2% and benzoyl peroxide 5%
 
-Inactive ingredients: carbomer homopolymer (type B), hydrochloric acid, methylparaben, dimethicone, propylparaben, purified water and sodium hydroxide.
+Inactive Ingredients: carbomer homopolymer (type B), hydrochloric acid, methylparaben, dimethicone, propylparaben, purified water and sodium hydroxide.
+
+Manufactured by Padagis®
+
+Yeruham, Israel
+
+www.padagis.com
+
+Rev 02-23
+
+5M400 RC PH7
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-
-Made in Israel
-
-Manufactured By Perrigo
-
-Yeruham 80500, Israel
-
-Distributed By
-
-Perrigo®
-
-Allegan, MI 49010 • www.perrigo.com
-
-Rev 09-15
-
-5M400 RC J6

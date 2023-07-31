@@ -10,18 +10,12 @@ See FDA-approved patient labeling (Patient Information).
 - •Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% may bleach hair or colored fabric.
 - •Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% may cause skin and facial hair to temporarily change color (yellow/orange) when used with topical sulfone products.
 
-Made in Israel
+Manufactured by Padagis®
 
-Manufactured By Perrigo
+Yeruham, Israel
 
-Yeruham 80500, Israel
+www.padagis.com
 
-Distributed By
+Rev 02-23
 
-Perrigo®
-
-Allegan, MI 49010 • www.perrigo.com
-
-Rev 09-15
-
-5M400 RC J6
+5M400 RC PH7
