@@ -1,0 +1,18 @@
+{
+  "application_numbers": [],
+  "inn": "clindamycin",
+  "labeler": "Pharmacia & Upjohn Company LLC",
+  "package_ndcs": [
+    "0009-1313-01",
+    "0009-1333-01"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "clindamycin phosphate",
+      "name": "Cleocin T"
+    }
+  ],
+  "setid": "d31e7f35-93b2-4679-95ee-cc1040e325e3",
+  "source": "dailymed"
+}
