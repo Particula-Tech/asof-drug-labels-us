@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Amphetamine sulfate tablets, USP is indicated for:
+Amphetamine sulfate tablets, USP are indicated for:
 
 1. Narcolepsy
 2. Attention Deficit Disorder with Hyperactivity as an integral part of a total treatment program which typically includes other remedial measures (psychological, educational, social) for a stabilizing effect in children with behavioral syndrome characterized by the following group of developmentally inappropriate symptoms: moderate to severe distractibility, short attention span, hyperactivity, emotional lability, and impulsivity.
