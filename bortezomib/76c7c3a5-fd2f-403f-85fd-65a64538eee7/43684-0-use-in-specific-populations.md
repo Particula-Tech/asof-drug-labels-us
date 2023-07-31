@@ -18,7 +18,7 @@ Live fetuses from these litters also showed significant decreases in fetal weigh
 ## 8.2 Lactation
 
 Risk Summary There are no data on the presence of bortezomib or its metabolites in human milk, the effects of the drug on the breastfed child, or the effects of the drug on milk production.
-Because many drugs are excreted in human milk and because the potential for serious adverse reactions in breastfed child from bortezomib is unknown, advise nursing women not to breastfeed during treatment with bortezomib and for two months after treatment.
+Because many drugs are excreted in a human milk and because the potential for serious adverse reactions in breastfed child from bortezomib is unknown, advise nursing women not to breastfeed during treatment with bortezomib and for two months after treatment.
 
 ## 8.3 Females and Males of Reproductive Potential
 

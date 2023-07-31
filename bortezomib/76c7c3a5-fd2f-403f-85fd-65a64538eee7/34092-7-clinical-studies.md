@@ -215,7 +215,7 @@ This clinical study utilized independent pathology confirmation and independent 
 Patients in the VcR-CAP treatment arm received bortezomib (1.3 mg/m2) administered intravenously on Days 1, 4, 8, and 11 (rest period Days 12 to 21); rituximab (375 mg/m2) on Day 1; cyclophosphamide (750 mg/m2) on Day 1; doxorubicin (50 mg/m2) on Day 1; and prednisone (100 mg/m2) on Day 1 through Day 5 of the 21 day treatment cycle.
 For patients with a response first documented at Cycle 6, two additional treatment cycles were allowed.
 Median patient age was 66 years, 74% were male, 66% were Caucasian and 32% were Asian.
-Sixty-nine percent of patients had a positive bone marrow aspirate and/or a positive bone marrow biopsy for MCL, 54% of patients had an International Prognostic Index (IPI) score of three (highintermediate) or higher and 76% had Stage IV disease.
+Sixty-nine percent of patients had a positive bone marrow aspirate and/or a positive bone marrow biopsy for MCL, 54% of patients had an International Prognostic Index (IPI) score of three (high-intermediate) or higher and 76% had Stage IV disease.
 The majority of the patients in both groups received six or more cycles of treatment, 84% in the VcR-CAP group and 83% in the R-CHOP group.
 Median number of cycles received by patients in both treatment arms was six with 17% of patients in the R-CHOP group and 14% of subjects in the VcR-CAP group receiving up to two additional cycles.
 The efficacy results for PFS, CR and ORR with a median follow-up of 40 months are presented in Table 18.

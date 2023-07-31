@@ -4,7 +4,7 @@ Rx only NDC 55150-337-01 Bortezomib for Injection 3.5 mg per Vial For Intravenou
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL-3.5 mg per Vial - Container-Carton (1 Vial)
 
-Rx only NDC 55150-337-01 Bortezomib for Injection 3.5 mg per Vial For Intravenous or Subcutaneous Use Single-Dose Vial Discard Unused Portion See Reconstitution Information on Back AUROMEDICS
+Rx only NDC 55150-337-01 Bortezomib for Injection 3.5 mg per Vial For Intravenous or Subcutaneous Use Single-Dose Vial Discard Unused Portion See Reconstitution Information on Back eugia
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL-3.5 mg per Vial - Sticker Label
 

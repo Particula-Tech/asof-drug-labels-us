@@ -76,5 +76,5 @@ Other
 
 Instruct patients to contact their physicians if they develop an increase in blood pressure, bleeding, fever, constipation, or decreased appetite.
 
-Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
+Distributed by: Eugia US LLC 279 Princeton-Hightstown Rd.
 E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Medchal-Malkajgiri District – 500101 India
