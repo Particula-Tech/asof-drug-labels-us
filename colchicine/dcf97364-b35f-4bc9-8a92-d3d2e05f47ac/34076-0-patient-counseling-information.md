@@ -36,7 +36,7 @@ Infertility
 
 Advise males of reproductive potential that colchicine may rarely and transiently impair fertility [see Use in Specific Populations8.3)].
 
-Dispense with Medication Guide is also available at: http://www.granulesindia.com/U.S.ProductCatalog.php
+Print Medication Guide available at: https://granulespharma.com/product/colchicine-tab/
 
 Manufactured by:
 
@@ -44,4 +44,4 @@ Granules Pharmaceuticals Inc.
 
 Chantilly, VA 20151
 
-Rev: 08/2020
+Rev:05/2023

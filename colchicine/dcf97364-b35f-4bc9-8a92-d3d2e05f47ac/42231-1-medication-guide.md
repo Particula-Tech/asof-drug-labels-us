@@ -111,7 +111,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Trademarks are the property of their respective owners.
 
-Dispense with Medication Guide is also available at: http://www.granulesindia.com/U.S.ProductCatalog.php
+Dispense with Medication Guide available at: https://granulespharma.com/product/colchicine-tab/
 
 Manufactured by:
 
@@ -120,6 +120,6 @@ Granules Pharmaceuticals Inc.
 Chantilly, VA 20151
 
 Rev.
-08/2020
+05/2023
 
 ◢
