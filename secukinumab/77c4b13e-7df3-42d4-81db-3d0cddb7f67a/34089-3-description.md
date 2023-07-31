@@ -15,9 +15,3 @@ Each COSENTYX 300 mg/2 mL UnoReady pen or 300 mg/2 mL prefilled syringe contains
 Each COSENTYX 150 mg/mL Sensoready pen or 150 mg/mL prefilled syringe contains 150 mg of secukinumab formulated in: L-histidine/histidine hydrochloride monohydrate (3.103 mg), L-methionine (0.746 mg), polysorbate 80 (0.2 mg), trehalose dihydrate (75.67 mg), and Sterile Water for Injection, USP, at pH of 5.8.
 
 Each COSENTYX 75 mg/0.5 mL prefilled syringe contains 75 mg of secukinumab formulated in: L-histidine/histidine hydrochloride monohydrate (1.552 mg), L-methionine (0.373 mg), polysorbate 80 (0.1 mg), trehalose dihydrate (37.83 mg), and Sterile Water for Injection, USP, at pH of 5.8.
-
-COSENTYX for Injection
-
-COSENTYX for injection is supplied as a sterile, preservative free, white to slightly yellow, lyophilized powder in single-dose vials for subcutaneous use after reconstitution.
-Each COSENTYX vial contains 150 mg of secukinumab formulated in L-histidine/histidine hydrochloride monohydrate (4.656 mg), polysorbate 80 (0.6 mg), and sucrose (92.43 mg).
-Following reconstitution with 1 mL Sterile Water for Injection, USP, the resulting pH is approximately 5.8.

@@ -14,7 +14,12 @@ Exercise caution when considering the use of COSENTYX in patients with a chronic
 Instruct patients to seek medical advice if signs or symptoms suggestive of an infection occur.
 If a patient develops a serious infection, monitor the patient closely and discontinue COSENTYX until the infection resolves.
 
-## 5.2 Pre-Treatment Evaluation for Tuberculosis
+## 5.2 Hypersensitivity Reactions
+
+Anaphylaxis and cases of urticaria occurred in COSENTYX treated subjects in clinical trials.
+If an anaphylactic or other serious allergic reaction occurs, administration of COSENTYX should be discontinued immediately and appropriate therapy initiated [see Contraindications (4) and Adverse Reactions (6.1)].
+
+## 5.3 Pre-Treatment Evaluation for Tuberculosis
 
 Evaluate patients for tuberculosis (TB) infection prior to initiating treatment with COSENTYX.
 Avoid administration of COSENTYX to patients with active TB infection.
@@ -22,7 +27,7 @@ Initiate treatment of latent TB prior to administering COSENTYX.
 Consider anti-TB therapy prior to initiation of COSENTYX in patients with a past history of latent or active TB in whom an adequate course of treatment cannot be confirmed.
 Monitor patients closely for signs and symptoms of active TB during and after treatment.
 
-## 5.3 Inflammatory Bowel Disease
+## 5.4 Inflammatory Bowel Disease
 
 Caution should be used when prescribing COSENTYX to patients with inflammatory bowel disease.
 Exacerbations, in some cases serious, occurred in COSENTYX treated subjects during clinical trials in plaque psoriasis, PsA, AS and nr-axSpA.
@@ -30,17 +35,20 @@ In addition, new onset inflammatory bowel disease cases occurred in clinical tri
 In an exploratory trial in 59 subjects with active Crohn’s disease, there were trends toward greater disease activity and increased adverse events in the secukinumab group as compared to the placebo group.
 Patients who are treated with COSENTYX should be monitored for signs and symptoms of inflammatory bowel disease [see Adverse Reactions (6.1)].
 
-## 5.4 Hypersensitivity Reactions
+## 5.5 Eczematous Eruptions
 
-Anaphylaxis and cases of urticaria occurred in COSENTYX treated subjects in clinical trials.
-If an anaphylactic or other serious allergic reaction occurs, administration of COSENTYX should be discontinued immediately and appropriate therapy initiated [see Contraindications (4), Adverse Reactions (6.1)].
+In postmarketing reports, cases of severe eczematous eruptions, including atopic dermatitis-like eruptions, dyshidrotic eczema, and erythroderma, were reported in patients receiving COSENTYX; some cases resulted in hospitalization.
+The onset of eczematous eruptions was variable, ranging from days to months after the first dose of COSENTYX.
 
-## 5.5 Risk of Hypersensitivity in Latex-Sensitive Individuals
+Treatment may need to be discontinued to resolve the eczematous eruption.
+Some patients were successfully treated for eczematous eruptions while continuing COSENTYX.
+
+## 5.6 Risk of Hypersensitivity in Latex-Sensitive Individuals
 
 The removable caps of the COSENTYX 150 mg/mL Sensoready pen and the COSENTYX 1 mL and 0.5 mL prefilled syringes contain natural rubber latex, which may cause an allergic reaction in latex-sensitive individuals.
 The safe use of COSENTYX 150 mg/mL Sensoready pen or 1 mL and 0.5 mL prefilled syringes in latex-sensitive individuals has not been studied.
 
-## 5.6 Immunizations
+## 5.7 Immunizations
 
 Prior to initiating therapy with COSENTYX, consider completion of all age-appropriate immunizations according to current immunization guidelines.
 COSENTYX may alter a patient's immune response to live vaccines.

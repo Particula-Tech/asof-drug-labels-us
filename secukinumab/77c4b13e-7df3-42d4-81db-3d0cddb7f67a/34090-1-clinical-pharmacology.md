@@ -19,8 +19,8 @@ Increased numbers of IL-17A producing lymphocytes have also been found in patien
 
 Immune Response to Non-Live Vaccines During Treatment
 
-Healthy individuals who received a single 150 mg dose of COSENTYX 2 weeks prior to vaccination with a non-U.S. approved group C meningococcal polysaccharide conjugate vaccine and a non-U.S. approved inactivated seasonal influenza vaccine had similar antibody responses compared to individuals who did not receive COSENTYX prior to vaccination.
-The clinical effectiveness of meningococcal and influenza vaccines has not been assessed in patients undergoing treatment with COSENTYX [see Warnings and Precautions (5.6)].
+Healthy individuals who received a single 150 mg dose of COSENTYX 2 weeks prior to vaccination with a non-U.S.-approved group C meningococcal polysaccharide conjugate vaccine and a non-U.S.-approved inactivated seasonal influenza vaccine had similar antibody responses compared to individuals who did not receive COSENTYX prior to vaccination.
+The clinical effectiveness of meningococcal and influenza vaccines has not been assessed in patients undergoing treatment with COSENTYX [see Warnings and Precautions (5.7)].
 
 ## 12.3 Pharmacokinetics
 
@@ -31,7 +31,7 @@ Absorption
 Following a single subcutaneous dose of either 150 mg (one-half the recommended dose) or 300 mg (administered as two injections of 150 mg) in plaque psoriasis subjects, secukinumab reached peak mean (± SD) serum concentrations (Cmax) of 13.7 ± 4.8 mcg/mL and 27.3 ± 9.5 mcg/mL, respectively, by approximately 6 days post dose.
 
 Following multiple subcutaneous doses of secukinumab (administered as one or two injections of 150 mg), the mean (± SD) serum trough concentrations of secukinumab ranged from 22.8 ± 10.2 mcg/mL (150 mg) to 45.4 ± 21.2 mcg/mL (300 mg) at Week 12.
-At the 300 mg dose at Week 4 and Week 12, the mean trough concentrations resulted from the 150 mg/mL Sensoready pen were 23% to 30% higher than those from the lyophilized powder and 23% to 26% higher than those from the prefilled syringe based on cross-study comparisons.
+At the 300 mg dose at Week 4 and Week 12, the mean trough concentrations resulted from the 150 mg/mL Sensoready pen were 23% to 26% higher than those from the prefilled syringe based on cross-study comparisons.
 Following multiple subcutaneous doses of 300 mg administered via the 300 mg/2 mL UnoReady pen, the mean serum trough concentrations of secukinumab were generally consistent with those in the previous Sensoready pen study used to deliver 300 mg.
 
 Steady-state concentrations of secukinumab were achieved by Week 24 following the every 4-week dosing regimens.
@@ -80,10 +80,10 @@ Subjects who are 65 years or older had apparent clearance of secukinumab similar
 Pediatric Patients
 
 In a pool of the two pediatric trials, subjects with moderate to severe plaque psoriasis (6 years of age and older) were administered secukinumab at the recommended pediatric dosing regimen.
-At Week 24, secukinumab steady state mean ± SD serum trough concentrations were 32.6 ± 10.8 mcg/mL (n = 8), 19.8 ± 6.96 mcg/mL (n = 24), and 27.3 ± 10.1 mcg/mL (n = 36), in subjects weighing < 25 kg and receiving 75 mg of secukinumab, subjects weighing ≥ 25 and < 50 kg and receiving 75 mg of secukinumab, and subjects weighing ≥ 50 kg and receiving 150 mg of secukinumab, respectively.
+At Week 24, secukinumab steady state mean ± SD serum trough concentrations were 32.6 ± 10.8 mcg/mL (n = 8), 19.8 ± 6.96 mcg/mL (n = 24), and 27.3 ± 10.1 mcg/mL (n = 36), in subjects weighing less than 25 kg and receiving 75 mg of secukinumab, subjects weighing at least 25 and less than 50 kg and receiving 75 mg of secukinumab, and subjects weighing at least 50 kg and receiving 150 mg of secukinumab, respectively.
 
 In a pediatric study, JPsA and ERA patients (2 to less than 18 years of age) were administered secukinumab at the recommended pediatric dosing regimen.
-At Week 24, patients weighing ≥15 kg and < 50 kg, and patients weighing ≥ 50 kg had a mean ± SD steady-state trough concentration of 25.2 ± 5.45 mcg/mL (n = 10) and 27.9 ± 9.57 mcg/mL (n = 19), respectively.
+At Week 24, patients weighing at least 15 kg and less than 50 kg, and patients weighing at least 50 kg had a mean ± SD steady-state trough concentration of 25.2 ± 5.45 mcg/mL (n = 10) and 27.9 ± 9.57 mcg/mL (n = 19), respectively.
 
 Drug Interactions
 
