@@ -45,7 +45,7 @@ The pharmacokinetics of benazepril hydrochloride have been evaluated in pediatri
 
 Infants below the age of 1 year should not be given benazepril hydrochloride because of the risk of effects on kidney development.
 
-Safety and effectiveness of benazepril hydrochloride have not been established in pediatric patients less than 6 years of age or in children with glomerular filtration rate < 30 mL/min/1.73m2[see Dosage and Administration (2.1) and Clinical Pharmacology 12.3)].
+Safety and effectiveness of benazepril hydrochloride have not been established in pediatric patients less than 6 years of age or in children with glomerular filtration rate <30 mL/min/1.73m2 [see Dosage and Administration (2.1) and Clinical Pharmacology (12.3)].
 
 ## 8.4 Geriatric Use
 
@@ -61,5 +61,5 @@ ACE inhibitors, including benazepril hydrochloride, as monotherapy, have an effe
 
 ## 8.6 Renal Impairment
 
-Dose adjustment of benazepril hydrochloride is required in patients undergoing hemodialysis or whose creatinine clearance is ≤ 30 mL/min.
+Dose adjustment of benazepril hydrochloride is required in patients undergoing hemodialysis or whose creatinine clearance is ≤30 mL/min.
 No dose adjustment of benazepril hydrochloride is required in patients with creatinine clearance > 30 mL/min [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].

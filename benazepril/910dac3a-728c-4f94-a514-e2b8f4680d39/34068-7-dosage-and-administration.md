@@ -20,7 +20,7 @@ The recommended starting dose for pediatric patients is 0.2 mg/kg once per day.
 Titrate as needed to 0.6 mg/kg once per day.
 Doses above 0.6 mg/kg (or in excess of 40 mg daily) have not been studied in pediatric patients.
 
-Benazepril hydrochloride is not recommended in pediatric patients less than 6 years of age or in pediatric patients with GFR less than 30 mL/min/1.73m2[see Use in Specific Populations (8.3)].
+Benazepril hydrochloride is not recommended in pediatric patients less than 6 years of age or in pediatric patients with GFR less than 30 mL/min/1.73m2 [see Use in Specific Populations (8.3)].
 
 ## 2.2 Dose Adjustment for Renal Impairment
 
