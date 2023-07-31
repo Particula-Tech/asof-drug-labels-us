@@ -1,10 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-## 4.1 Severe Renal Impairment
-
-Capecitabine tablets are contraindicated in patients with severe renal impairment (creatinine clearance below 30mL/min [Cockroft and Gault]) [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
-
-## 4.2 Hypersensitivity
-
-Capecitabine tablets are contraindicated in patients with known hypersensitivity to capecitabine or to any of its components.
-Capecitabine tablets are contraindicated in patients who have a known hypersensitivity to 5-fluorouracil.
+Capecitabine tablets are contraindicated in patients with history of severe hypersensitivity reaction to fluorouracil or capecitabine [see Adverse Reactions (6.1)].
