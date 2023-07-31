@@ -1,12 +1,14 @@
-# PATIENT INFORMATION
+Dispense with Patient Package Insert available at: www.tevausa.com/PatientPI
 
-BUSPIRONE HYDROCHLORIDE TABLETS
+PATIENT INFORMATION
+
+BusPIRone Hydrochloride Tablets, USP
 
 Rx only
 
 HOW TO USE:
 
-BUSPIRONE HYDROCHLORIDE TABLETS, 15 mg
+BusPIRone Hydrochloride Tablets USP, 15 mg
 
 Response to buspirone varies among individuals.
 Your physician may find it necessary to adjust your dosage to obtain the proper response.
@@ -27,22 +29,24 @@ Zagreb, Croatia
 
 Manufactured For:
 
-Teva Pharmaceuticals USA, Inc.
+Teva Pharmaceuticals
 
-North Wales, PA 19454
+Parsippany, NJ 07054
 
 Rev.
-H 12/2016
+I 3/2023
+
+Dispense with Patient Package Insert available at: www.tevausa.com/PatientPI
 
 PATIENT INFORMATION
 
-BUSPIRONE HYDROCHLORIDE TABLETS
+BusPIRone Hydrochloride Tablets, USP
 
 Rx only
 
 HOW TO USE:
 
-BUSPIRONE HYDROCHLORIDE TABLETS, 30 mg
+BusPIRone Hydrochloride Tablets USP, 30 mg
 
 Response to buspirone varies among individuals.
 Your physician may find it necessary to adjust your dosage to obtain the proper response.
@@ -63,9 +67,9 @@ Zagreb, Croatia
 
 Manufactured For:
 
-Teva Pharmaceuticals USA, Inc.
+Teva Pharmaceuticals
 
-North Wales, PA 19454
+Parsippany, NJ 07054
 
 Rev.
-H 12/2016
+I 3/2023

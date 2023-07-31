@@ -198,9 +198,7 @@ Chromosomal aberrations or abnormalities did not occur in bone marrow cells of m
 
 ### Teratogenic Effects
 
-#### Pregnancy Category B
-
-No fertility impairment or fetal damage was observed in reproduction studies performed in rats and rabbits at buspirone doses of approximately 30 times the maximum recommended human dose.
+Pregnancy Category B No fertility impairment or fetal damage was observed in reproduction studies performed in rats and rabbits at buspirone doses of approximately 30 times the maximum recommended human dose.
 In humans, however, adequate and well-controlled studies during pregnancy have not been performed.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
