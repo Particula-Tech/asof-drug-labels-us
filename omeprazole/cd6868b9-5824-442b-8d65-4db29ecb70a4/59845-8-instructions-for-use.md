@@ -40,6 +40,6 @@ Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridg
 
 Any other product/brand names are trademarks of the respective owners.
 
-© 2022 Salix Pharmaceuticals, Inc. or its affiliates
+© 2023 Salix Pharmaceuticals, Inc. or its affiliates
 
-9658603 Revised: 03/2022
+9658604 Revised: 07/2023

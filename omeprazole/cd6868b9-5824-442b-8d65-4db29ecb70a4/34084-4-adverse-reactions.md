@@ -147,7 +147,7 @@ Special Senses: Tinnitus, taste perversion.
 
 Ocular: Blurred vision, ocular irritation, dry eye syndrome, optic atrophy, anterior ischemic optic neuropathy, optic neuritis, and double vision.
 
-Urogenital: Tubulointerstitial nephritis, urinary tract infection, microscopic pyuria, urinary frequency, elevated serum creatinine, proteinuria, hematuria, glycosuria, testicular pain, and gynecomastia.
+Urogenital: Tubulointerstitial nephritis, urinary tract infection, microscopic pyuria, urinary frequency, elevated serum creatinine, proteinuria, hematuria, glycosuria, testicular pain, gynecomastia, and erectile dysfunction.
 
 Hematologic: Rare instances of pancytopenia, agranulocytosis (some fatal), thrombocytopenia, neutropenia, leukopenia, anemia, leukocytosis, and hemolytic anemia have been reported.
 

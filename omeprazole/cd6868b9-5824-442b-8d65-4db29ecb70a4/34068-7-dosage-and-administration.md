@@ -5,13 +5,13 @@
 - •ZEGERID (omeprazole and sodium bicarbonate) is available as a capsule and as a powder for oral suspension in 20 mg and 40 mg strengths of omeprazole for adult use.
   All recommended doses throughout the labeling are based upon omeprazole.
 - •The sodium content of ZEGERID capsules and ZEGERID for oral suspension should be taken into consideration when prescribing this product [see Warnings and Precautions (5.3)]:
-  - oZEGERID capsule: each 20 mg and 40 mg capsule contains 1,100 mg (13 mEq) of sodium bicarbonate.
+  - •ZEGERID capsule: each 20 mg and 40 mg capsule contains 1,100 mg (13 mEq) of sodium bicarbonate.
     The total content of sodium in each capsule is 304 mg.
-  - oZEGERID for oral suspension: each 20 mg and 40 mg packet of contains 1,680 mg (20 mEq) of sodium bicarbonate.
+  - •ZEGERID for oral suspension: each 20 mg and 40 mg packet of contains 1,680 mg (20 mEq) of sodium bicarbonate.
     The total content of sodium in each packet is 460 mg.
 - •Due to the sodium bicarbonate content of ZEGERID:
-- •Two packets of 20 mg ZEGERID for oral suspension are not interchangeable with one packet of 40 mg ZEGERID for oral suspension.
-- •Two 20 mg ZEGERID capsules are not interchangeable with one 40 mg ZEGERID capsule.
+- •Do not substitute two packets of 20 mg ZEGERID for oral suspension with one packet of 40 mg ZEGERID for oral suspension.
+- •Do not substitute two 20 mg ZEGERID capsules with one 40 mg ZEGERID capsule.
 
 ## 2.2 Dosage Regimen
 
@@ -51,17 +51,17 @@ ZEGERID for Oral Suspension
 
 Oral Administration
 
-- oEmpty the contents of a packet into a small cup containing 5 to 10 mL of water.
+- •Empty the contents of a packet into a small cup containing 5 to 10 mL of water.
   Do not mix with liquids or foods other than water.
-- oStir well and drink immediately.
-- oRefill cup with water and drink immediately.
+- •Stir well and drink immediately.
+- •Refill cup with water and drink immediately.
 
 Nasogastric (NG) or Orogastric (OG) Tube Administration
 
-- oAdd 20 mL of water to a catheter tipped syringe and then add the contents of a packet.
+- •Add 20 mL of water to a catheter tipped syringe and then add the contents of a packet.
   Use an appropriately-sized catheter tipped syringe.
   Do not mix with liquids or foods other than water.
-- o Shake the syringe to dissolve the powder.
-- oAdminister through the NG or orogastric tube into the stomach right away.
-- oRefill the syringe with an equal amount of water.
-- oShake and flush any remaining contents from the NG tube or orogastric tube into the stomach.
+- • Shake the syringe to dissolve the powder.
+- •Administer through the NG or orogastric tube into the stomach right away.
+- •Refill the syringe with an equal amount of water.
+- •Shake and flush any remaining contents from the NG tube or orogastric tube into the stomach.

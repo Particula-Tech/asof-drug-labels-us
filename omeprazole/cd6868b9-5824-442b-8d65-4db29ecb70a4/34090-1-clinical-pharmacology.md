@@ -19,7 +19,7 @@ Table 8: Effect of ZEGERID for Oral Suspension on Intragastric pH, Day 7
 | Parameter | 40 mg omeprazole and1,680 mg sodium bicarbonate (n = 24) | 20 mg omeprazole and 1,680 mg sodium bicarbonate (n = 28) |
 | % Decrease from Baseline for Integrated Gastric Acidity (mmol•hr/L) | 84% | 82% |
 | Coefficient of Variation | 20% | 24% |
-| % Time Gastric pH > 4P <0.05 20 mg vs. 40 mg (Hours) | 77% (18.6 h) | 51% (12.2 h) |
+| % Time Gastric pH > 4P < 0.05 20 mg vs. 40 mg (Hours) | 77% (18.6 h) | 51% (12.2 h) |
 | Coefficient of Variation | 27% | 43% |
 | Median pH | 5.2 | 4.2 |
 | Coefficient of Variation | 17% | 37% |
@@ -43,7 +43,7 @@ In comparison with histamine H2-receptor antagonists, the median increases produ
 Gastrin values returned to pretreatment levels, usually within 1 to 2 weeks after discontinuation of therapy.
 
 Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
-The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.11)].
+The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.12)].
 
 Other Effects
 
@@ -78,7 +78,7 @@ Table 9: Arithmetic Mean (CV%) of the Systemic Exposures (Cmax, AUC) and Tmax of
 |  | Day 1 | Day 7 | % Change (Day 7/Day 1) | Day 1 | Day 7 | % Change (Day 7/Day 1) |
 | Cmax (ng/mL) | 498.1 (50.9) | 679.8 (44.0) | 36 | 1154 (53.0) | 1526 (48.7) | 32 |
 | Tmax (hr)[min – max] | 0.61 [0.25-1.5] | 0.82 [0.25-1.5] | n.a. | 0.56 [0.25-1.5] | 0.97 [0.25-3.5] | n.a. |
-| AUC0-inf AUC0-24h was used on Day 7 (ng•hr/mL) | 509.7 (60.5) | 1029 (67.9) | 102 | 1882 (120) | 3866 (83.3) | 105 |
+| AUC0-inf AUC0-24h was used on Day 7(ng•hr/mL) | 509.7 (60.5) | 1029 (67.9) | 102 | 1882 (120) | 3866 (83.3) | 105 |
 | n.a.: not applicable |  |  |  |  |  |  |
 
 Table 10: Arithmetic Mean (CV%) of the Systemic Exposures (Cmax, AUC) and Tmax of Omeprazole after a Single Oral Dose and Multiple Once-Daily Doses of ZEGERID Oral Suspension
@@ -88,7 +88,7 @@ Table 10: Arithmetic Mean (CV%) of the Systemic Exposures (Cmax, AUC) and Tmax o
 |  | Day 1 | Day 7 | % Change(Day 7/Day 1) | Day 1 | Day 7 | % Change (Day 7/Day 1) |
 | Cmax (ng/mL) | 671.9 (43.8) | 902.2 (39.6) | 34 | 1412 (43.7) | 1954 (33.5) | 38 |
 | Tmax (hr)[min – max] | 0.50[0.17-1.5] | 0.47[0.17-1.0] | n.a. | 0.44[0.17-1.0] | 0.58[0.25-1.0] | n.a. |
-| AUC0-inf AUC0-24h was used on Day 7 (ng•hr/mL) | 825.4 (71.9) | 1449 (61.7) | 76 | 2228 (107) | 4692 (60.5) | 111 |
+| AUC0-inf AUC0-24h was used on Day 7(ng•hr/mL) | 825.4 (71.9) | 1449 (61.7) | 76 | 2228 (107) | 4692 (60.5) | 111 |
 | n.a.: not applicable |  |  |  |  |  |  |
 
 Following single or repeated once-daily dosing, peak plasma concentrations (Cmax) of omeprazole from ZEGERID were approximately proportional from 20 to 40 mg doses.
@@ -183,7 +183,7 @@ The exposure to the active metabolite of clopidogrel was decreased by 46% (Day 1
 Results from another crossover study in healthy subjects showed a similar pharmacokinetic interaction between clopidogrel (300 mg loading dose/75 mg daily maintenance dose) and omeprazole 80 mg daily when coadministered for 30 days.
 Exposure to the active metabolite of clopidogrel was reduced by 41% to 46% over this time period.
 
-In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole, but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction [see Warnings and Precautions (5.7) and Drug Interactions (7)].
+In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole, but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction [see Warnings and Precautions (5.8) and Drug Interactions (7)].
 
 Mycophenolate Mofetil
 

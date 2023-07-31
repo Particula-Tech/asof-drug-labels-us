@@ -48,10 +48,10 @@ Advise patients to report to their healthcare provider if they start treatment w
 
 Administration
 
-- Instruct patients that:
+- Instruct patients not to substitute:
 
-- •Two packets of 20 mg ZEGERID for oral suspension are not interchangeable with one packet of 40 mg ZEGERID for oral suspension.
-- •Two 20 mg ZEGERID capsules are not interchangeable with one 40 mg ZEGERID capsule.
+- •Two packets of 20 mg ZEGERID for oral suspension with one packet of 40 mg ZEGERID for oral suspension.
+- •Two 20 mg ZEGERID capsules with one 40 mg ZEGERID capsule.
 
 Administration of ZEGERID Capsules
 
@@ -65,4 +65,4 @@ Administration of ZEGERID for Oral Suspension
 - •Instruct patients to suspend enteral feeding approximately 3 hours before and 1 hour after administration of ZEGERID for oral suspension [see Dosage and Administration (2.3)].
 
 Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA ZEGERID is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
-Any other product/brand names are trademarks of the respective owners. © 2022 Salix Pharmaceuticals, Inc. or its affiliates 9658603
+Any other product/brand names are trademarks of the respective owners. © 2023 Salix Pharmaceuticals, Inc. or its affiliates 9658604

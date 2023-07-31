@@ -130,17 +130,17 @@ ZEGERID can cause serious side effects, including:
 - •Severe skin reactions.
   ZEGERID can cause rare but severe skin reactions that may affect any part of your body.
   These serious skin reactions may need to be treated in a hospital and may be life threatening:
-- oSkin rash which may have blistering, peeling or bleeding on any part of your skin (including your lips, eyes, mouth, nose, genitals, hands or feet).
-- oYou may also have fever, chills, body aches, shortness of breath, or enlarged lymph nodes.
+- •Skin rash which may have blistering, peeling or bleeding on any part of your skin (including your lips, eyes, mouth, nose, genitals, hands or feet).
+- •You may also have fever, chills, body aches, shortness of breath, or enlarged lymph nodes.
 - Stop taking ZEGERID and call your doctor right away.
   These symptoms may be the first sign of a severe skin reaction.
 - •The most common side effects of ZEGERID include:
-- oheadache
-- oabdominal pain
-- onausea
-- odiarrhea
-- ovomiting
-- ogas
+- •headache
+- •abdominal pain
+- •nausea
+- •diarrhea
+- •vomiting
+- •gas
 
 These are not all the possible side effects of ZEGERID.
 
@@ -173,8 +173,6 @@ Inactive ingredients in ZEGERID for oral suspension: xylitol, sucrose, sucralose
 Inactive ingredients in ZEGERID capsules, for oral use: croscarmellose sodium and sodium stearyl fumarate.
 
 Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA ZEGERID is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
-Any other product/brand names are trademarks of the respective owners. © 2022 Salix Pharmaceuticals, Inc. or its affiliates For more information, go to www.Salix.com or 1-800-321-4576.
+Any other product/brand names are trademarks of the respective owners. © 2023 Salix Pharmaceuticals, Inc. or its affiliates For more information, go to www.Salix.com or 1-800-321-4576.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: 03/2022
-
-9658603
+Revised: 07/2023 9658604

@@ -8,9 +8,9 @@ ZEGERID for oral suspension and ZEGERID capsules are indicated in adults for the
 - •short-term treatment (4 to 8 weeks) of active benign gastric ulcer.
 - •treatment of heartburn and other symptoms associated with GERD for up to 4 weeks.
 - •short-term treatment (4 to 8 weeks) of EE due to acid-mediated GERD which has been diagnosed by endoscopy in adults.
-- oThe efficacy of ZEGERID used for longer than 8 weeks in patients with EE has not been established.
-  If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given.
-  If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8-week courses of ZEGERID may be considered.
+  - •The efficacy of ZEGERID used for longer than 8 weeks in patients with EE has not been established.
+    If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given.
+    If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8-week courses of ZEGERID may be considered.
 - •maintenance of healing of EE due to acid-mediated GERD.
   Controlled studies do not extend beyond 12 months.
 

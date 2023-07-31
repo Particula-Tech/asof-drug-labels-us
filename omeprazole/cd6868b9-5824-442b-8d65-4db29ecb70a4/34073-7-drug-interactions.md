@@ -14,12 +14,12 @@ Table 6: Clinically Relevant Interactions Affecting Drugs Co-Administered with O
 | Clinical Impact: | Increased INR and prothrombin time in patients receiving PPIs, including omeprazole, and warfarin concomitantly. Increases in INR and prothrombin time may lead to abnormal bleeding and even death. |
 | Intervention: | Monitor INR and prothrombin time and adjust the dose of warfarin, if needed, to maintain target INR range. |
 | Methotrexate |  |
-| Clinical Impact: | Concomitant use of omeprazole with methotrexate (primarily at high dose) may elevate and prolong serum concentrations of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities. No formal drug interaction studies of high-dose methotrexate with PPIs have been conducted [see Warnings and Precautions (5.12)]. |
+| Clinical Impact: | Concomitant use of omeprazole with methotrexate (primarily at high dose) may elevate and prolong serum concentrations of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities. No formal drug interaction studies of high-dose methotrexate with PPIs have been conducted [see Warnings and Precautions (5.13)]. |
 | Intervention: | A temporary withdrawal of ZEGERID may be considered in some patients receiving high-dose methotrexate. |
 | CYP2C19 Substrates (e.g., clopidogrel, citalopram, cilostazol, phenytoin, diazepam) |  |
 | Clopidogrel |  |
 | Clinical Impact: | Concomitant use of omeprazole 80 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition [see Clinical Pharmacology (12.3)].There are no adequate combination studies of a lower dose of omeprazole or a higher dose of clopidogrel in comparison with the approved dose of clopidogrel. |
-| Intervention: | Avoid concomitant use with ZEGERID. Consider use of alternative anti-platelet therapy [see Warnings and Precautions (5.7)]. |
+| Intervention: | Avoid concomitant use with ZEGERID. Consider use of alternative anti-platelet therapy [see Warnings and Precautions (5.8)]. |
 | Citalopram |  |
 | Clinical Impact: | Increased exposure of citalopram leading to an increased risk of QT prolongation [see Clinical Pharmacology (12.3)]. |
 | Intervention: | Limit the dose of citalopram to a maximum of 20 mg per day. See prescribing information for citalopram. |
@@ -33,7 +33,7 @@ Table 6: Clinically Relevant Interactions Affecting Drugs Co-Administered with O
 | Clinical Impact: | Increased exposure of diazepam [see Clinical Pharmacology (12.3)]. |
 | Intervention: | Monitor patients for increased sedation and reduce the dose of diazepam as needed. |
 | Digoxin |  |
-| Clinical Impact: | Potential for increased exposure of digoxin [see Clinical Pharmacology(12.3)]. |
+| Clinical Impact: | Potential for increased exposure of digoxin [see Clinical Pharmacology (12.3)]. |
 | Intervention: | Monitor digoxin concentrations. Dose adjustment may be needed to maintain therapeutic drug concentrations. See digoxin prescribing information. |
 | Drugs Dependent on Gastric pH for Absorption (e.g., iron salts, erlotinib, dasatinib, nilotinib, mycophenolate mofetil, ketoconazole/itraconazole) |  |
 | Clinical Impact: | Omeprazole can reduce the absorption of other drugs due to its effect on reducing intragastric acidity. |
@@ -42,7 +42,7 @@ Table 6: Clinically Relevant Interactions Affecting Drugs Co-Administered with O
 | Clinical Impact: | Potential for increased exposure of tacrolimus, especially in transplant patients who are intermediate or poor metabolizers of CYP2C19. |
 | Intervention: | Monitor tacrolimus whole blood concentrations. Dose adjustment may be needed to maintain therapeutic drug concentrations. See prescribing information for tacrolimus. |
 | Interactions with Investigations of Neuroendocrine Tumors |  |
-| Clinical Impact: | Serum chromogranin A (CgA) levels increase secondary to PPI-induced decreases in gastric acidity. The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.11) and Clinical Pharmacology (12.2)]. |
+| Clinical Impact: | Serum chromogranin A (CgA) levels increase secondary to PPI-induced decreases in gastric acidity. The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.12) and Clinical Pharmacology (12.2)]. |
 | Intervention: | Temporarily stop PRILOSEC treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high. If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary. |
 | Interaction with Secretin Stimulation Test |  |
 | Clinical Impact: | Hyper-response in gastrin secretion in response to secretin stimulation test, falsely suggesting gastrinoma. |
@@ -59,7 +59,7 @@ Table 7: Clinically Relevant Interactions Affecting Omeprazole When Co-Administe
 | CYP2C19 or CYP3A4 Inducers |  |
 | --- | --- |
 | Clinical Impact: | Decreased exposure of omeprazole when used concomitantly with strong inducers [see Clinical Pharmacology (12.3)]. |
-| Intervention: | St. John’s wort, rifampin: Avoid concomitant use with ZEGERID [see Warnings and Precautions (5.10)].Ritonavir-containing products: See prescribing information for specific drugs. |
+| Intervention: | St. John’s wort, rifampin: Avoid concomitant use with ZEGERID [see Warnings and Precautions (5.11)].Ritonavir-containing products: See prescribing information for specific drugs. |
 | CYP2C19 or CYP3A4 Inhibitors |  |
 | Clinical Impact: | Increased exposure of omeprazole [see Clinical Pharmacology (12.3)]. |
 | Intervention: | Voriconazole: Dosage adjustment of ZEGERID is not required. |
