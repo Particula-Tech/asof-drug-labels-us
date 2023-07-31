@@ -75,12 +75,12 @@ Excretion
 
 Following oral administration, 75% to 90% of the administered dose was recovered in urine (primarily as metabolite) in the first 24 hours.
 
-Specific Populations
+### Specific Populations
 
 No clinically significant differences in the pharmacokinetics of deferiprone were observed based on sex, race/ethnicity, body weight, mild to severe (eGFR 15 to 89 mL/min/1.73 m2) renal impairment, or mild (Child Pugh Class A) to moderate (Child Pugh Class B) hepatic impairment.
 The effect of age, including geriatric or pediatric populations, end stage renal disease or severe (Child Pugh Class C) hepatic impairment on the pharmacokinetics of deferiprone is unknown.
 
-Drug Interaction Studies
+### Drug Interaction Studies
 
 In Vitro Studies
 

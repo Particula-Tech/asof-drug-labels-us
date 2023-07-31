@@ -32,8 +32,9 @@ The table below lists the adverse drug reactions that occurred in at least 1% of
 
 Table 7: Adverse reactions occurring in ≥ 1% of FERRIPROX-treated patients with thalassemia syndromes
 
-| Body System Adverse Reaction | (N=642) % Patients |
+| Body System | (N=642) |
 | --- | --- |
+| Adverse Reaction | % Patients |
 | BLOOD AND LYMPHATIC SYSTEM DISORDERS |  |
 | Neutropenia | 6 |
 | Agranulocytosis | 2 |
@@ -105,7 +106,8 @@ Table 8: Adverse reactions occurring in ≥5% of FERRIPROX-treated patients with
 | RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS |  |  |
 | Oropharyngeal pain | 10 | 15 |
 | Cough | 8 | 15 |
-| *Grouped term |  |  |
+
+*Grouped term
 
 Clinically relevant adverse reactions in <5% of patients include neutropenia and agranulocytosis.
 

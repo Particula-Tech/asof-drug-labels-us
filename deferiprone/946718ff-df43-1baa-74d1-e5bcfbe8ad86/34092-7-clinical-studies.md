@@ -1,10 +1,10 @@
-# 14 CLINICAL STUDIES
+# 14CLINICAL STUDIES
 
 FERRIPROX Tablets (twice a day) were evaluated in trials in healthy subjects.
 FERRIPROX Tablets (twice a day) contain deferiprone, the same active ingredient as FERRIPROX Tablets and FERRIPROX Oral Solution.
 The following information is based on studies with FERRIPROX Tablets (deferiprone) (three times a day) and FERRIPROX Oral Solution (deferiprone).
 
-## 14.1 Transfusional Iron Overload in Patients with Thalassemia Syndromes
+## 14.1Transfusional Iron Overload in Patients with Thalassemia Syndromes
 
 In a prospective, planned, pooled analysis of patients with thalassemia syndromes from several studies, the efficacy of deferiprone was assessed in transfusion-dependent iron overload patients in whom previous iron chelation therapy had failed or was considered inadequate due to poor tolerance.
 The main criterion for chelation failure was serum ferritin > 2,500 mcg/L before treatment with deferiprone.
@@ -20,7 +20,7 @@ A small number of patients with thalassemia and iron overload were assessed by m
 There was an increase in cardiac MRI T2* from a mean at baseline of 11.8 ± 4.9 ms to a mean of 15.1 ± 7.0 ms after approximately one year of treatment.
 The clinical significance of this observation is not known.
 
-## 14.2 Transfusional Iron Overload in Patients with Sickle Cell Disease and other Anemias
+## 14.2Transfusional Iron Overload in Patients with Sickle Cell Disease and other Anemias
 
 Study LA38-0411, an actively-controlled non-inferiority study compared the efficacy of FERRIPROX to that of deferoxamine in patients with sickle cell disease and other transfusion-dependent anemias by evaluating liver iron concentration (LIC).
 The efficacy of FERRIPROX was established based upon the change in LIC from baseline after 12 months of FERRIPROX (75 or 99 mg/kg/day) compared to deferoxamine (20 or 40 mg/kg (pediatric patients); 40 or 50 mg/kg (adult patients)).

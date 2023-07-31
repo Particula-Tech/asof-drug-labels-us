@@ -5,7 +5,7 @@
 Avoid co-administration of FERRIPROX with other drugs known to be associated with neutropenia or agranulocytosis.
 If co-administration is unavoidable, closely monitor the absolute neutrophil count [see Warnings and Precautions (5.1)].
 
-## 7.2 Effect of Other Drugs on FERRIPROX
+## 7.2Effect of Other Drugs on FERRIPROX
 
 UDP-Glucuronosyltransferases (UGT)
 
