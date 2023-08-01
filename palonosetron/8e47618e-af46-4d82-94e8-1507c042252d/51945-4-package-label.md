@@ -20,3 +20,19 @@ Principal Display Panel NDC 69639-105 Akynzeo (fosnetupitant and palonosetron) i
 Must be diluted.
 For intravenous infusion only Must be diluted.
 For intravenous infusion only
+
+Principal Display Panel Label
+
+NDC 69639-106 Akynzeo (fosnetupitant and palonosetron) injection 235mg/0.25mg per 20mL
+
+For intravenous infusion only.
+
+Ready-to-Use Formulation and does NOT require further dilution
+
+Principal Display Panel Carton
+
+NDC 69639-106 Akynzeo (fosnetupitant and palonosetron) injection 235mg/0.25mg per 20mL
+
+For intravenous infusion only.
+
+Ready-to-Use Formulation and does NOT require further dilution
