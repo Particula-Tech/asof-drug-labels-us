@@ -52,7 +52,7 @@ Radiolabeled 14C-sumatriptan administered orally is largely renally excreted (ab
 Most of the radiolabeled compound excreted in the urine is the major metabolite, IAA, which is inactive, or the IAA glucuronide.
 Only 3% of the dose can be recovered as unchanged sumatriptan.
 
-### Special Populations
+### Specific Populations
 
 #### Age
 
