@@ -94,21 +94,7 @@ The dosage was increased incrementally to 12 mcg/kg/day divided 2 times per day 
 
 Adverse reactions with ≥ 5% higher incidence in filgrastim patients compared to patients receiving no filgrastim included arthralgia, bone pain, back pain, muscle spasms, musculoskeletal pain, pain in extremity, splenomegaly, anemia, upper respiratory tract infection, and urinary tract infection (upper respiratory tract infection and urinary tract infection were higher in the filgrastim arm, total infection related events were lower in filgrastim treated patients), epistaxis, chest pain, diarrhea, hypoesthesia, and alopecia.
 
-## 6.2 Immunogenicity
-
-As with all therapeutic proteins, there is a potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other filgrastim products may be misleading.
-
-The incidence of antibody development in patients receiving filgrastim products has not been adequately determined.
-While available data suggest that a small proportion of patients developed binding antibodies to filgrastim products, the nature and specificity of these antibodies has not been adequately studied.
-In clinical studies using filgrastim, the incidence of antibodies binding to filgrastim was 3% (11/333).
-In these 11 patients, no evidence of a neutralizing response was observed using a cell-based bioassay.
-
-Cytopenias resulting from an antibody response to exogenous growth factors have been reported on rare occasions in patients treated with other recombinant growth factors.
-
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of filgrastim products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -126,3 +112,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - decreased bone density and osteoporosis in pediatric patients receiving chronic treatment with filgrastim products
 - myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) in patients with breast and lung cancer receiving chemotherapy and/or radiotherapy [see Warnings and Precautions (5.8)]
 - aortitis [see Warnings and Precautions (5.15)]
+- extramedullary hematopoiesis

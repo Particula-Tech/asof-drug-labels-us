@@ -43,6 +43,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 RELEUKO prefilled syringe with BD UltraSafe Plus™ Passive Needle Guard may not accurately measure volumes less than 0.3 mL due to the needle spring mechanism design.
 Therefore, the direct administration of a volume less than 0.3 mL using RELEUKO prefilled syringe is not recommended due to the potential for dosing errors.
+For direct administration of doses less than 0.3 mL (180 mcg) use RELEUKO single-dose vial.
 
 In patients with cancer receiving myelosuppressive chemotherapy‚ 15 pediatric patients median age 2.6 (range 1.2 to 9.4) years with neuroblastoma were treated with myelosuppressive chemotherapy (cyclophosphamide‚ cisplatin‚ doxorubicin‚ and etoposide) followed by subcutaneous filgrastim at doses of 5, 10, or 15 mcg/kg/day for 10 days (n = 5/dose) (Study 8).
 The pharmacokinetics of filgrastim in pediatric patients after chemotherapy are similar to those in adults receiving the same weight-normalized doses, suggesting no age-related differences in the pharmacokinetics of filgrastim.

@@ -52,3 +52,15 @@ Hepatic Impairment
 
 Pharmacokinetics and pharmacodynamics of filgrastim are similar between subjects with hepatic impairment and healthy subjects (n = 12/group).
 The study included 10 subjects with mild hepatic impairment (Child-Pugh Class A) and 2 subjects with moderate hepatic impairment (Child-Pugh Class B). Therefore, RELEUKO dose adjustment for patients with hepatic impairment is not necessary.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of filgrastim-ayow or of other filgrastim products.
+
+While available data suggest that a small proportion of patients developed binding antibodies to filgrastim, the nature and specificity of these antibodies has not been adequately studied.
+In clinical studies using filgrastim, the incidence of antibodies binding to filgrastim was 3% (11/333).
+In these 11 patients, no evidence of a neutralizing response was observed using a cell based bioassay.
+Because of the low occurrence of anti-drug antibodies, the effect of these antibodies on the pharmacokinetics, pharmacodynamics, safety, and/or effectiveness of filgrastim products is unknown.
+
+Cytopenias resulting from an antibody response to exogenous growth factors have been reported on rare occasions in patients treated with other recombinant growth factors.

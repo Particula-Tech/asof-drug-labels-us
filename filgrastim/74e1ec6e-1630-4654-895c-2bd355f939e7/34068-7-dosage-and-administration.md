@@ -50,7 +50,7 @@ Thereafter, if the patient is clinically stable, less frequent routine monitorin
 
 ## 2.4 Important Administration Instructions
 
-RELEUKO is supplied in single-dose vials and single-dose prefilled syringes [see Dosage Forms and Strengths (3)].
+RELEUKO is supplied in single-dose vials (for subcutaneous use or intravenous infusion) and single-dose prefilled syringes (for subcutaneous use) [see Dosage Forms and Strengths (3)].
 Prior to use‚ remove the vial or prefilled syringe from the refrigerator and allow RELEUKO to reach room temperature for a minimum of 30 minutes and a maximum of 24 hours.
 Discard any vial or prefilled syringe left at room temperature for greater than 24 hours.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit (the solution is clear and colorless).
@@ -67,6 +67,7 @@ If patients or caregivers are to administer RELEUKO, instruct them in appropriat
 Patient self-administration and administration by a caregiver may benefit from training by a healthcare professional.
 Training by the healthcare provider should aim to demonstrate to those patients and caregivers how to measure the dose of RELEUKO, and the focus should be on ensuring that a patient or caregiver can successfully perform all the steps in the Instructions for Use for the vial or prefilled syringe.
 If a patient or caregiver is not able to demonstrate that they can measure the dose and administer the product successfully, you should consider whether the patient is an appropriate candidate for self-administration of RELEUKO or whether the patient would benefit from a different RELEUKO presentation.
+If a patient or caregiver experiences difficulty measuring the required dose, especially if it is other than the entire contents of the RELEUKO prefilled syringe, use of the RELEUKO vial may be considered.
 
 If the patient or caregiver misses a dose of RELEUKO, instruct them to contact their healthcare provider.
 
@@ -76,11 +77,11 @@ The RELUEKO prefilled syringe with BD UltraSafe Plus™ Passive Needle Guard is 
 The spring-mechanism of the needle guard apparatus affixed to the prefilled syringe interferes with the visibility of the graduation markings on the syringe barrel corresponding to 0.1 mL and 0.2 mL.
 The visibility of these markings is necessary to accurately measure doses of RELEUKO less than 0.3 mL (180 mcg) for direct administration.
 Thus, the direct administration to patients requiring doses of less than 0.3 mL (180 mcg) is not recommended due to the potential for dosing errors.
-For direct administration of doses less than 0.3 mL (180 mcg) use of RELUEKO single-dose vial is recommended.
+For direct administration of doses less than 0.3 mL (180 mcg) use RELUEKO single-dose vial.
 
-Administration Instructions for Dilution
+Administration Instructions for Dilution (Vial Only)
 
-If required for intravenous administration‚ RELEUKO may be diluted in 5% Dextrose Injection, USP from a concentration of 300 mcg/mL to 5 mcg/mL (do not dilute to a final concentration less than 5 mcg/mL).
+If required for intravenous administration‚ RELEUKO (vial only) may be diluted in 5% Dextrose Injection, USP from a concentration of 300 mcg/mL to 5 mcg/mL (do not dilute to a final concentration less than 5 mcg/mL).
 RELEUKO diluted to concentrations from 5 mcg/mL to 15 mcg/mL should be protected from adsorption to plastic materials by the addition of Albumin (Human) to a final concentration of 2 mg/mL.
 When diluted in 5% Dextrose Injection, USP or 5% Dextrose plus Albumin (Human)‚ RELEUKO is compatible with glass bottles‚ polyvinyl chloride (PVC) and polyolefin intravenous bags‚ and polypropylene syringes.
 Do not dilute with saline at any time because the product may precipitate.
