@@ -9,4 +9,4 @@ It is freely soluble in water; practically insoluble in ethanol (96%) and in eth
 
 Hydroxychloroquine sulfate tablets, USP, 200 mg for oral administration contain 200 mg hydroxychloroquine sulfate, USP (equivalent to 155 mg base) and the following inactive ingredients: croscarmellose sodium, dibasic calcium phosphate dihydrate, maize starch, magnesium stearate, polyvinyl alcohol, polyethylene glycol, sodium lauryl sulfate, talc and titanium dioxide.
 
-FDA approved dissolution test method differs from the USP dissolution test method.
+Meets USP Dissolution Test 2.
