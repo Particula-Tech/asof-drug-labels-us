@@ -1,20 +1,18 @@
 Made in Canada
 
-Manufactured by:
-
-G Production Inc.
+Manufactured by G Production Inc.
 
 Baie d'Urfé QC, H9X 3S4 Canada
 
 Distributed By
 
-PERRIGO®
+Padagis
 
-Allegan, MI 49010 • www.perrigo.com
+Allegan, MI 49010 • www.padagis.com
 
-P51447-0
+P57356-0
 
-9A100 RC J3
+9A100 RC J4
 
 Rev.
-06-13
+12/2022
