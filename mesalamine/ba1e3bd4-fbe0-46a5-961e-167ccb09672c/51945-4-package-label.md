@@ -2,10 +2,10 @@
 
 NDC 0591-2245-22
 
-1.2 gram
-
 (Once Daily)
 
-Mesalamine Delayed-Release Tablets, USP 120 Tablets
+Mesalamine Delayed-Release Tablets, USP 1.2 gram
 
-Rx Only
+Rx only
+
+120 Tablets

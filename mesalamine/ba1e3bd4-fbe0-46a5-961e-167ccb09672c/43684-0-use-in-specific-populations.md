@@ -18,7 +18,7 @@ Clinical Considerations
 Disease-associated maternal and embryo/fetal risk
 
 Published data suggest that increased disease activity is associated with the risk of developing adverse pregnancy outcomes in women with ulcerative colitis.
-Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestation), low birth weight (less than 2500 g) infants, and small for gestational age at birth.
+Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestation), low birth weight (less than 2,500 g) infants, and small for gestational age at birth.
 
 Data
 
@@ -54,10 +54,11 @@ Based on these concentrations, estimated infant daily dosages for an exclusively
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of mesalamine have not been established in patients weighing less than 24 kg.
+The safety and effectiveness of mesalamine have been established for the treatment of mildly to moderately active ulcerative colitis in pediatric patients weighing at least 24 kg.
+Use of mesalamine in this population is supported by evidence from adequate and well-controlled trials in adults, a multicenter, randomized, double-blind, parallel group trial in 105 pediatric patients 5 to 17 years of age, and additional pharmacokinetic analyses.
+The safety profile in pediatric patients was similar to that observed in adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 
-Pediatric use information is approved for Takeda Pharmaceuticals U.S.A., Inc.’s LIALDA (mesalamine) delayed-release tablets.
-However, due to Takeda Pharmaceuticals U.S.A., Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+The safety and effectiveness of mesalamine have not been established in patients weighing less than 24 kg.
 
 ## 8.5 Geriatric Use
 

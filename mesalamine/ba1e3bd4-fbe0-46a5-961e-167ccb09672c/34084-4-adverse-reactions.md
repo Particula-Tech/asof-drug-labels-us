@@ -81,8 +81,11 @@ Skin and Subcutaneous Tissue Disorders: acne, prurigo, rash, alopecia, pruritus,
 
 Vascular Disorders: hypertension, hypotension
 
-Pediatric use information is approved for Takeda Pharmaceuticals U.S.A., Inc.’s LIALDA (mesalamine) delayed-release tablets.
-However, due to Takeda Pharmaceuticals U.S.A., Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatrics
+
+Mesalamine was evaluated in 105 pediatric patients 5 through 17 years of age with mildly to moderately active ulcerative colitis [see Clinical Studies (14.2)].
+The adverse reaction profile was similar to that of adults.
+The most common adverse reactions reported in at least 5% of pediatric patients treated with mesalamine were: abdominal pain, upper respiratory tract infection, vomiting, anemia, headache, and viral infection.
 
 ## 6.2 Postmarketing Experience
 

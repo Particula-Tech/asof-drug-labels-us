@@ -35,5 +35,34 @@ For this trial the endoscopy score definition of 1 (mild disease) was modified s
 
 The proportion of patients who maintained remission at Month 6 in this study using mesalamine delayed-release 2.4 g once daily (84%) was similar to the comparator (82%).
 
-Pediatric use information is approved for Takeda Pharmaceuticals U.S.A., Inc.’s LIALDA (mesalamine) delayed-release tablets.
-However, due to Takeda Pharmaceuticals U.S.A., Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+## 14.2 Pediatric Patients with Mildly to Moderately Active Ulcerative Colitis Weighing at Least 24 kg
+
+A multicenter, randomized, double-blind, parallel-group study (NCT02093663) was conducted in pediatric patients aged 5 through 17 years with mildly to moderately active ulcerative colitis to determine the safety and effectiveness of mesalamine.
+The study consisted of two treatment phases, an initial 8-week phase and a 26-week phase.
+The overall population consisted of 105 patients, of whom 27 patients participated in both the 8-week and 26-week phases.
+
+Each phase included two dosage arms and patients were randomized at the beginning of each phase in a 1:1 ratio, stratified by body weight group.
+Patients received a low or a high weight-based dosage of mesalamine in four weight groups.
+Because of the small number of patients in the lowest body weight group (0 in the 8-week phase and 3 in the 26-week phase), the safety and effectiveness of mesalamine in patients weighing less than 24 kg have not been established.
+
+Patients were eligible for the initial 8-week phase if they had mildly to moderately active ulcerative colitis as defined by the UC-DAI score of at least 4 with an endoscopic subscore of 2 or 3.
+
+In the 53 patients enrolled in the initial phase, the mean age and weight of patients was 14 years and 53 kg, the mean (SD) baseline UC-DAI score was 5.8 (1.8), 93% were white, and 59% were male.
+The primary endpoint was defined by the partial UC-DAI less than or equal to 1 (with rectal bleeding equal to 0, stool frequency less than or equal to 1, and Physician’s Global Assessment [PGA] equal to 0).
+Of the 26 patients in the recommended mesalamine dosage arm, 65% achieved the primary endpoint after 8 weeks of treatment.
+During the initial 8-week phase, fewer patients who received the recommended mesalamine dosage were discontinued from the study due to ulcerative colitis (0/26, 0%) compared to patients who received a lower than recommended mesalamine dosage (8/27, 30%).
+
+Patients who met the primary endpoint at 8 weeks were eligible to continue treatment in the 26-week phase.
+Patients were also eligible to enter the 26-week phase without having participated in the 8-week phase if they had a UC-DAI score of less than or equal to 2 with an endoscopic subscore of 0 or 1 (modified to exclude friability).
+
+There were 87 patients enrolled in the 26-week phase.
+The mean age and weight of patients were 14 years and 54 kg; 97% were white and 55% were female.
+Of the 42 patients in the recommended mesalamine dosage arm, 55% achieved the primary endpoint, which was defined the same as in the 8-week phase.
+In the 26-week phase, the arm with a higher than recommended mesalamine dosage was not more effective and is not recommended [see Dosage and Administration (2)].
+
+Other Endpoints
+
+Clinical remission, defined by a Mayo stool frequency subscore equal to 0 or 1, Mayo rectal bleeding subscore equal to 0, and a Mayo endoscopic subscore equal to 0 or 1 (modified to exclude friability) or 0 on the UC-DAI, was determined for patients with available endoscopic assessment after completion of the 26-week phase.
+Patients without endoscopic data at week 26 were assumed not to have achieved clinical remission.
+Of the 42 patients in the recommended mesalamine dosage arm, 36% achieved clinical remission.
+Clinical remission could not be assessed in the initial 8-week phase because there were too few patients who underwent endoscopy.

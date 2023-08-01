@@ -43,17 +43,11 @@ Instruct patients:
 - Take mesalamine delayed-release tablets with food [see Clinical Pharmacology (12.3)].
 - Drink an adequate amount of fluids [see Warnings and Precautions (5.8)].
 
-Manufactured by:
+Manufactured For:
 
-Actavis Laboratories FL, Inc.
+Teva Pharmaceuticals
 
-Fort Lauderdale, FL 33314 USA
-
-Distributed by:
-
-Actavis Pharma, Inc.
-
-Parsippany, NJ 07054 USA
+Parsippany, NJ 07054
 
 Rev.
-F 3/2023
+H 7/2023

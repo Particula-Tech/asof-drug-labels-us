@@ -85,8 +85,14 @@ Table 5: Mean (SD) Pharmacokinetic Parameters for Mesalamine Following Single-Do
 | Renal clearance (L/h) | 2.05 (1.33) | 2.04 (1.16) | 2.13 (1.20) |
 | Arithmetic mean (SD) data are presented, N = Number of subjects; 5-ASA = 5-aminosalicylic acid*N=15, †N=16, ‡N=13, §Median (min-max) |  |  |  |
 
-Pediatric use information is approved for Takeda Pharmaceuticals U.S.A., Inc.’s LIALDA (mesalamine) delayed-release tablets.
-However, due to Takeda Pharmaceuticals U.S.A., Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric Patients
+
+In pediatric patients 5 years to 17 years of age diagnosed with ulcerative colitis, systemic exposure of mesalamine, as measured by mean AUCss and Cmax,ss, increased in a dose-proportional manner between 30 and 60 mg/kg/day of mesalamine and increased in a sub-proportional between 60 and 100 mg/kg/day doses.
+Pharmacokinetic parameters had moderate to high inter-subject variability with CV% ranging from 36% to 52% in pediatric patients.
+
+The overall systemic exposure of mesalamine following oral administration of 4.8 g once daily for 7 days in a limited number of pediatric patients 5 years to 17 years of age (AUC range of 30,556 to 50,388 ng·hr/mL, n=3) was in similar range to that was observed in the healthy adults (AUC of 41,434 ± 26,640 ng·hr/mL, n=48) after single dose administration.
+
+The mean renal clearance (CLR) of mesalamine in pediatric patients (range from approximately 5.0 to 6.5 L/h) seems to be similar to that observed with healthy adult subjects after multiple dose administration.
 
 Drug Interaction Studies
 
