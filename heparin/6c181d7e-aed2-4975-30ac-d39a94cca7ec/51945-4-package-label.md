@@ -153,7 +153,25 @@ Contains Preservative
 
 Hospira
 
-## PRINCIPAL DISPLAY PANEL - 50,000 USP Units/10 mL Vial Label
+# PRINCIPAL DISPLAY PANEL - 50,000 USP Units/10 mL Vial Tray
+
+25 x 10 mL Multi-dose Vials
+
+Rx only NDC 0409-2723-02 Contains 25 of NDC 0409-2723-31
+
+HEPARIN Sodium Injection, USP
+
+50,000 USP Units/10 mL (5,000 USP Units/mL)
+
+NOT for LOCK FLUSH
+
+For Intravenous or Subcutaneous Use
+
+From Porcine Intestines
+
+Hospira
+
+# PRINCIPAL DISPLAY PANEL - 50,000 USP Units/10 mL Vial Label
 
 10 mL Multi-dose Vial
 
@@ -164,7 +182,18 @@ HEPARIN Sodium Injection, USP
 For Intravenous or Subcutaneous Use.
 From Porcine Intestines.
 
-## PRINCIPAL DISPLAY PANEL - 50,000 USP Units/10 mL Vial Tray
+# PRINCIPAL DISPLAY PANEL - 50,000 USP Units/10 mL Vial Label
+
+10 mL Multi-dose Vial
+
+HEPARIN Sodium Injection, USP
+
+50,000 USP Units/10 mL (5,000 USP Units/mL)
+
+For Intravenous or Subcutaneous Use.
+From Porcine Intestines.
+
+# PRINCIPAL DISPLAY PANEL - 50,000 USP Units/10 mL Vial Tray
 
 25 x 10 mL Multi-dose Vials
 
