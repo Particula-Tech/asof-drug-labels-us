@@ -50,7 +50,7 @@ Pregnancy
 
 WEGOVY may cause fetal harm.
 Advise patients to inform their healthcare provider of a known or suspected pregnancy.
-Advise patients who are exposed to WEGOVY during pregnancy to contact Novo Nordisk at 1-800-727-6500 [see Use in Specific Populations (8.1)].
+Advise patients who are exposed to WEGOVY during pregnancy to contact Novo Nordisk at 1-877-390-2760 or www.wegovypregnancyregistry.com [see Use in Specific Populations (8.1)].
 
 Manufactured by: Novo Nordisk A/S
 
@@ -68,10 +68,10 @@ Plainsboro, NJ 08536
 
 1-833-934-6891
 
-Version: 2
+Version: 3
 
-WEGOVY® and Ozempic® are registered trademarks of Novo Nordisk A/S.
+WEGOVY® and OZEMPIC® are registered trademarks of Novo Nordisk A/S.
 
 PATENT INFORMATION: http://www.novonordisk-us.com/products/product-patents.html
 
-© 2022 Novo Nordisk
+© 2023 Novo Nordisk

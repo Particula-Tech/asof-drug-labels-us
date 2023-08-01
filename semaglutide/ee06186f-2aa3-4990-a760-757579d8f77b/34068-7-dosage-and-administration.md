@@ -4,7 +4,7 @@
 
 Adult Patients
 
-Select adult patients for WEGOVY treatment as an adjunct to a reduced calorie diet and increased physical activity for chronic weight management based on the BMI values provided in Table 1.
+Select adult patients for WEGOVY treatment as an adjunct to a reduced-calorie diet and increased physical activity for chronic weight management based on their BMI.
 Table 1 presents a chart for determining BMI based on height and weight.
 BMI is calculated by dividing weight (in kilograms) by height (in meters) squared.
 
@@ -44,44 +44,66 @@ Table 2 presents BMI cut-offs for obesity in pediatric patients aged 12 years an
 - •Inspect WEGOVY visually prior to each injection.
   Only use if solution is clear, colorless, and contains no particles.
 - •Administer WEGOVY once weekly, on the same day each week, at any time of day, with or without meals.
-- •Administer WEGOVY subcutaneously in the abdomen, thigh, or upper arm.
+- •Inject WEGOVY subcutaneously in the abdomen, thigh, or upper arm.
   The time of day and the injection site can be changed without dose adjustment.
 
-## 2.3 Recommended Dosage
+## 2.3 Recommended Dosage in Adults
 
 Dosage Initiation and Escalation
 
-- •In adults and pediatric patients aged 12 years and older, initiate WEGOVY with a dosage of 0.25 mg injected subcutaneously once weekly.
-  Then follow the dose escalation schedule in Table 3 to minimize gastrointestinal adverse reactions [see Adverse Reactions (6.1)].
+- •Initiate WEGOVY with a dosage of 0.25 mg injected subcutaneously once-weekly.
+  Then follow the dose escalation schedule presented in Table 3 to minimize gastrointestinal adverse reactions [see Adverse Reactions (6.1)].
 - •If patients do not tolerate a dose during dosage escalation, consider delaying dosage escalation for 4 weeks.
+- •The 0.25 mg, 0.5 mg, and 1 mg once-weekly dosages are initiation and escalation dosages and are not approved as maintenance dosages for chronic weight management.
 
-Table 3.
-Dosage Escalation Schedule
+Table 3: Recommended Dosage Regimen for Adults
 
-| Weeks | Weekly Dose |  |
+| Treatment | Weeks | Once weekly Subcutaneous Dosage |
 | --- | --- | --- |
-| 1 through 4 | 0.25 mg | Dose escalation |
-| 5 through 8 | 0.5 mg |  |
-| 9 through 12 | 1 mg |  |
+| Initiation | 1 through 4 | 0.25 mga |
+| Escalation | 5 through 8 | 0.5 mga |
+| 9 through 12 | 1 mga |  |
 | 13 through 16 | 1.7 mg |  |
-| 17 and onward | 2.4 mg | Maintenance dose |
+| Maintenance | 17 and onward | 1.7 mg or 2.4 mg |
+
+aDosage not approved as maintenance for chronic weight management.
 
 Maintenance Dosage
 
-Adult Patients
+- •The maintenance dosage of WEGOVY in adults is either 2.4 mg (recommended) or 1.7 mg once-weekly.
+  Consider treatment response and tolerability when selecting the maintenance dosage [see Clinical Studies (14.1)].
 
-- •The maintenance dosage of WEGOVY is 2.4 mg injected subcutaneously once weekly.
-- •If patients do not tolerate the maintenance 2.4 mg once-weekly dosage, the dosage can be temporarily decreased to 1.7 mg once weekly, for a maximum of 4 weeks.
-  After 4 weeks, increase WEGOVY to the maintenance 2.4 mg once-weekly dosage.
-  Discontinue WEGOVY if the patient cannot tolerate the 2.4 mg dosage.
+## 2.4 Recommended Dosage in Pediatric Patients Aged 12 Years and Older
 
-Pediatric Patients Aged 12 Years and Older
+Dosage Initiation and Escalation
 
-- •The recommended maintenance dosage of WEGOVY is 2.4 mg injected subcutaneously once weekly.
-- •If patients do not tolerate the maintenance 2.4 mg once-weekly dosage, the maintenance dosage may be reduced to 1.7 mg once weekly.
-  Discontinue WEGOVY if the patient cannot tolerate the 1.7 mg dose.
+- •Initiate WEGOVY according to the dosage escalation schedule in Table 4 to minimize gastrointestinal adverse reactions [see Adverse Reactions (6.1)].
+- •If patients do not tolerate a dose during dosage escalation, consider delaying dosage escalation for 4 weeks.
+- •The 0.25 mg.
+  0.5 mg, and 1 mg once-weekly dosages are initiation and escalation dosages and are not approved as maintenance dosages for chronic weight management.Table 4: Recommended Dosage Regimen for Pediatric Patients Aged 12 Years and Older
 
-## 2.4 Recommendations Regarding Missed Dose
+| Treatment | Weeks | Once weekly Subcutaneous Dosage |
+| --- | --- | --- |
+| Initiation | 1 through 4 | 0.25 mga |
+| Escalation | 5 through 8 | 0.5 mga |
+| 9 through 12 | 1 mga |  |
+| 13 through 16 | 1.7 mgb |  |
+| Maintenance | 17 and onward | 2.4 mg |
+
+aDosage not approved as maintenance for chronic weight management
+
+- bSee Dosage Modifications for Adverse Reactions
+
+Maintenance Dosage
+
+- •The maintenance dosage of WEGOVY in pediatric patients aged 12 years and older is 2.4 mg once-weekly.
+
+Dosage Modifications for Adverse Reactions
+
+- •If patients do not tolerate the 2.4 mg once-weekly maintenance dosage, the maintenance dosage may be reduced to 1.7 mg once-weekly.
+- •Discontinue WEGOVY if the patient cannot tolerate the 1.7 mg once-weekly dosage.
+
+## 2.5 Recommendations Regarding Missed Dose
 
 - •If one dose is missed and the next scheduled dose is more than 2 days away (48 hours), administer WEGOVY as soon as possible.
   If one dose is missed and the next scheduled dose is less than 2 days away (48 hours), do not administer the dose.

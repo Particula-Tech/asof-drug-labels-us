@@ -3,7 +3,7 @@
 ## 5.1 Risk of Thyroid C-Cell Tumors
 
 In mice and rats, semaglutide caused a dose-dependent and treatment-duration-dependent increase in the incidence of thyroid C-cell tumors (adenomas and carcinomas) after lifetime exposure at clinically relevant plasma exposures [see Nonclinical Toxicology (13.1)].
-It is unknown whether WEGOVY causes thyroid C-cell tumors, including medullary thyroid carcinoma (MTC), in humans, as human relevance of semaglutide-induced rodent thyroid C-cell tumors has not been determined.
+It is unknown whether WEGOVY causes thyroid C-cell tumors, including MTC, in humans, as human relevance of semaglutide-induced rodent thyroid C-cell tumors has not been determined.
 
 Cases of MTC in patients treated with liraglutide, another GLP-1 receptor agonist, have been reported in the postmarketing period; the data in these reports are insufficient to establish or exclude a causal relationship between MTC and GLP-1 receptor agonist use in humans.
 
@@ -74,7 +74,7 @@ Use caution in a patient with a history of anaphylaxis or angioedema with anothe
 
 ## 5.7 Diabetic Retinopathy Complications in Patients with Type 2 Diabetes
 
-In a trial of adult patients with type 2 diabetes and BMI greater than or equal to 27 kg/m2, diabetic retinopathy was reported by 4.0% of WEGOVY-treated patients and 2.7% placebo-treated patients [see Adverse Reactions (6.1)].
+In a trial of adult patients with type 2 diabetes and BMI greater than or equal to 27 kg/m2, diabetic retinopathy was reported by 4.0% of WEGOVY-treated patients and 2.7% placebo-treated patients.
 
 In a 2-year trial with semaglutide 0.5 mg and 1 mg once-weekly injection in adult patients with type 2 diabetes and high cardiovascular risk, diabetic retinopathy complications (which was a 4-component adjudicated endpoint) occurred in patients treated with semaglutide injection (3.0%) compared to placebo (1.8%).
 The absolute risk increase for diabetic retinopathy complications was larger among patients with a history of diabetic retinopathy at baseline (semaglutide injection 8.2%, placebo 5.2%) than among patients without a known history of diabetic retinopathy (semaglutide injection 0.7%, placebo 0.4%).

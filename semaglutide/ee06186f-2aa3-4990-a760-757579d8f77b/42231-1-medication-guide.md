@@ -51,7 +51,7 @@ Before using WEGOVY, tell your healthcare provider if you have any other medical
   You should stop using WEGOVY 2 months before you plan to become pregnant.
   - oPregnancy Exposure Registry: There is a pregnancy exposure registry for women who use WEGOVY during pregnancy.
     The purpose of this registry is to collect information about the health of you and your baby.
-    Talk to your healthcare provider about how you can take part in this registry or you may contact Novo Nordisk at 1-800-727-6500.
+    Talk to your healthcare provider about how you can take part in this registry or you may contact Novo Nordisk at 1-877-390-2760.
 - •are breastfeeding or plan to breastfeed.
   It is not known if WEGOVY passes into your breast milk.
   You should talk with your healthcare provider about the best way to feed your baby while using WEGOVY.
@@ -77,8 +77,9 @@ How should I use WEGOVY?
 - •Start WEGOVY with 0.25 mg per week in your first month.
   In your second month, increase your weekly dose to 0.5 mg.
   In the third month, increase your weekly dose to 1 mg.
-  In the fourth month, increase your weekly dose to 1.7 mg and in the fifth month onwards, increase your weekly dose to the full dose of 2.4 mg.
-  If you need to change the day of the week, you may do so as long as your last dose of WEGOVY was given 2 or more days before.
+  In the fourth month, increase your weekly dose to 1.7 mg.
+  In the fifth month onwards, your healthcare provider may either maintain your dose at 1.7 mg weekly or increase your weekly dose to 2.4 mg.
+- •If you need to change the day of the week, you may do so as long as your last dose of WEGOVY was given 2 or more days before.
 - •If you miss a dose of WEGOVY and the next scheduled dose is more than 2 days away (48 hours), take the missed dose as soon as possible.
   If you miss a dose of WEGOVY and the next schedule dose is less than 2 days away (48 hours), do not administer the dose.
   Take your next dose on the regularly scheduled day.
@@ -120,7 +121,7 @@ WEGOVY may cause serious side effects, including:
 - •kidney problems (kidney failure).
   In people who have kidney problems, diarrhea, nausea, and vomiting may cause a loss of fluids (dehydration) which may cause kidney problems to get worse.
   It is important for you to drink fluids to help reduce your chance of dehydration.
-- •Serious allergic reactions.
+- •serious allergic reactions.
   Stop using WEGOVY and get medical help right away, if you have any symptoms of a serious allergic reaction including:
 
 | oswelling of your face, lips, tongue or throat | osevere rash or itching | overy rapid heartbeat |
@@ -178,4 +179,4 @@ For more information, go to startWegovy.com or call 1-833-Wegovy-1.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued: 02/2023
+Issued: 07/2023

@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There will be a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to semaglutide during pregnancy.
-Pregnant women exposed to WEGOVY and healthcare providers are encouraged to contact Novo Nordisk at 1-800-727-6500.
+Pregnant women exposed to WEGOVY and healthcare providers are encouraged to contact Novo Nordisk at 1-877-390-2760 or www.wegovypregnancyregistry.com.
 
 Risk Summary
 

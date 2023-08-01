@@ -18,19 +18,21 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adverse Reactions in Clinical Trials in Adults with Obesity or Overweight
 
-WEGOVY was evaluated for safety in 3 randomized, double-blind, placebo-controlled trials that included 2116 adult patients with overweight or obesity treated with WEGOVY for up to 68 weeks and a 7 week off drug follow-up period [see Clinical Studies (14.1)].
-Baseline characteristics included a mean age of 48 years; 71% women; 72% White, 14% Asian, 9% Black or African American, and 5% reported as other or unknown; and 85% were not Hispanic/Latino, 13% were Hispanic Latino and 2% reported as unknown.
+WEGOVY 2.4 mg Subcutaneous Weekly Dosage
+
+WEGOVY was evaluated for safety in 3 randomized, double-blind, placebo-controlled trials that included 2,116 adult patients with overweight or obesity treated with 2.4 mg WEGOVY for up to 68 weeks and a 7 week off drug follow-up period [see Clinical Studies (14.1)].
+Baseline characteristics included a mean age of 48 years, 71% women, 72% White, 14% Asian, 9% Black or African American, and 5% reported as other or unknown; and 85% were not Hispanic or Latino ethnicity, 13% were Hispanic or Latino ethnicity and 2% reported as unknown.
 The baseline characteristics were 42% with hypertension, 19% with type 2 diabetes, 43% with dyslipidemia, 28% with a BMI greater than 40 kg/m2, and 4% with cardiovascular disease.
 
-In clinical trials in adults, 6.8% of patients treated with WEGOVY and 3.2% of patients treated with placebo permanently discontinued treatment as a result of adverse reactions.
+In clinical trials, 6.8% of patients treated with 2.4 mg WEGOVY and 3.2% of patients treated with placebo permanently discontinued treatment as a result of adverse reactions.
 The most common adverse reactions leading to discontinuation were nausea (1.8% versus 0.2%), vomiting (1.2% versus 0%), and diarrhea (0.7% versus 0.1%) for WEGOVY and placebo, respectively.
 
-Adverse reactions reported in clinical trials in adults and greater than or equal to 2% of WEGOVY-treated patients and more frequently than in placebo-treated patients are shown in Table 4.
+Adverse reactions reported in clinical trials in adults and greater than or equal to 2% of WEGOVY-treated patients and more frequently than in placebo-treated patients are shown in Table 5.
 
-1. Table 4.
-   Adverse Reactions (> 2% and Greater than Placebo) in WEGOVY-Treated Adults with Obesity or Overweight for Chronic Weight Management
+1. Table 5.
+   Adverse Reactions (> 2% and Greater Than Placebo) in WEGOVY-treated Adult with Obesity or Overweight for Chronic Weight Management
 
-|  | PlaceboN = 1261% | WEGOVYN = 2116% |
+|  | PlaceboN = 1,261% | WEGOVY 2.4 mgN = 2,116% |
 | --- | --- | --- |
 | Nausea | 16 | 44 |
 | Diarrhea | 16 | 30 |
@@ -61,18 +63,23 @@ T2DM = type 2 diabetes mellitus
 
 dIncludes chronic gastritis, gastritis, gastritis erosive, and reflux gastritis
 
+WEGOVY 1.7 mg Subcutaneous Weekly Dosage
+
+WEGOVY 1.7 mg subcutaneous weekly was evaluated for safety in a 68-week, randomized, double-blind, parallel-group, placebo-controlled trial in 401 patients with overweight or obesity.
+Adverse reactions observed with WEGOVY 1.7 mg were similar to those reported with WEGOVY 2.4 mg.
+
 Adverse Reactions in a Clinical Trial of Pediatric Patients Aged 12 Years and Older with Obesity
 
 WEGOVY was evaluated in a 68-week, double-blind, randomized, parallel group, placebo-controlled, multi-center trial in 201 pediatric patients aged 12 years and older with obesity [see Clinical Studies (14.2)].
 Baseline characteristics included a mean age of 15.4 years; 38% of patients were male; 79% were White, 8% were Black or African American, 2% were Asian, and 11% were of other or unknown race; and 11% were of Hispanic or Latino ethnicity.
 The mean baseline body weight was 107.5 kg, and mean BMI was 37 kg/m2.
 
-Table 5 shows adverse reactions reported in greater than or equal to 3% of WEGOVY-treated pediatric patients and more frequently than in the placebo group from a study in pediatric patients aged 12 years and older.
+Table 6 shows adverse reactions reported in greater than or equal to 3% of WEGOVY-treated pediatric patients and more frequently than in the placebo group from a study in pediatric patients aged 12 years and older.
 
-1. Table 5.
+1. Table 6.
    Adverse Reactions (≥ 3% and Greater than Placebo) in WEGOVY-Treated Pediatric Patients Aged 12 Years and Older with Obesity for Chronic Weight Management
 
-|  | Placebo N = 67 % | WEGOVY N = 133 % |
+|  | Placebo N = 67 % | WEGOVY 2.4 mg N = 133 % |
 | --- | --- | --- |
 | Nausea | 18 | 42 |
 | Vomiting | 10 | 36 |
@@ -127,8 +134,8 @@ Acute Kidney Injury
 
 Acute kidney injury occurred in clinical trials in 7 adult patients (0.4 cases per 100 patient years) receiving WEGOVY versus 4 patients (0.2 cases per 100 patient years of exposure) receiving placebo.
 Some of these adverse reactions occurred in association with gastrointestinal adverse reactions or dehydration.
-In addition, 2 patients treated with WEGOVY had acute kidney injury with dehydration in other clinical trials in adults.
-The risk of renal adverse reactions with WEGOVY was increased in adult patients with a history of renal impairment (trials included 65 patients with a history of moderate or severe renal impairment at baseline) and occurred more frequently during dose titration.
+In addition, 2 patients treated with WEGOVY had acute kidney injury with dehydration in other clinical trials.
+The risk of renal adverse reactions with WEGOVY was increased in adult patients with a history of renal impairment (trials included 65 patients with a history of moderate or severe renal impairment at baseline), and occurred more frequently during dose titration.
 
 Retinal Disorders in Patients with Type 2 Diabetes
 
@@ -143,9 +150,9 @@ In a clinical trial in pediatric patients aged 12 years and older with normal ba
 
 Hypotension and Syncope
 
-Adverse reactions related to hypotension (hypotension, orthostatic hypotension, and decreased blood pressure) were reported in 1.3% of WEGOVY-treated adult patients versus 0.4% of placebo-treated patients, and syncope was reported in 0.8% of WEGOVY-treated patients versus 0.2% of placebo-treated patients.
+Adverse reactions related to hypotension (hypotension, orthostatic hypotension, and decreased blood pressure) were reported in 1.3% of WEGOVY-treated adult patients versus 0.4% of placebo-treated patients and syncope was reported in 0.8% of WEGOVY-treated patients versus 0.2% of placebo-treated patients.
 Some reactions were related to gastrointestinal adverse reactions and volume loss associated with WEGOVY.
-Hypotension and orthostatic hypotension were more frequently seen in adult patients on concomitant antihypertensive therapy.
+Hypotension and orthostatic hypotension were more frequently seen in patients on concomitant antihypertensive therapy.
 In a clinical trial in pediatric patients aged 12 years and older, hypotension was reported in 2.3% of WEGOVY-treated patients versus 0% in placebo-treated patients.
 
 Appendicitis
@@ -154,8 +161,8 @@ Appendicitis (including perforated appendicitis) occurred in 10 (0.5%) WEGOVY-tr
 
 Gastrointestinal Adverse Reactions
 
-In clinical trials in adults, 73% of WEGOVY-treated patients and 47% of placebo-treated patients reported gastrointestinal disorders.
-The most frequently reported reactions were nausea (44% vs. 16%), vomiting (24% vs. 6%), and diarrhea (30% vs. 16%).
+In clinical trials in adults, 73% of WEGOVY-treated patients and 47% of patients receiving placebo reported gastrointestinal disorders.
+The most frequently reported reactions were nausea (44% vs. 16%), vomiting (25% vs. 6%), and diarrhea (30% vs. 16%).
 Other common reactions that occurred at a higher incidence among WEGOVY-treated adult patients included dyspepsia, abdominal pain, abdominal distension, eructation, flatulence, gastroesophageal reflux disease, gastritis, and hemorrhoids.
 These reactions increased during dose escalation.
 
@@ -172,11 +179,15 @@ In clinical trials in adults, 1.4% of WEGOVY-treated patients and 1.0% of patien
 
 Hypersensitivity Reactions
 
-Serious hypersensitivity reactions (e.g., anaphylaxis, angioedema) have been reported with WEGOVY
+Serious hypersensitivity reactions (e.g., anaphylaxis, angioedema) have been reported with WEGOVY.
 
 In a pediatric clinical trial, rash was reported in 3% of WEGOVY-treated patients and 0% of placebo-treated patients, and urticaria was reported in 3% of WEGOVY-treated patients and 0% of placebo-treated patients.
 
 In adult clinical trials, allergic reactions occurred in 8/50 (16%) of WEGOVY-treated patients with anti-semaglutide antibodies and in 114/1659 (7%) of WEGOVY-treated patients who did not develop anti-semaglutide antibodies [see Clinical Pharmacology (12.6)].
+
+Dysgeusia
+
+In clinical trials in adults, 1.7% of WEGOVY-treated patients and 0.5% of placebo-treated patients reported dysgeusia.
 
 Laboratory Abnormalities
 
