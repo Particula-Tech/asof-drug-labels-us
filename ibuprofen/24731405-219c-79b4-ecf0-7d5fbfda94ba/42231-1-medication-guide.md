@@ -2,7 +2,7 @@
 
 Medication Guide forNon-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
-What it the most important information I should know about medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
+What is the most important information I should know about medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
 NSAIDs can cause serious side effects, including:
 
@@ -77,8 +77,9 @@ Before taking NSAIDs, tell your healthcare provider about all your medical condi
 • have asthma
 
 • are pregnant or plan to become pregnant.
-Talk to your healthcare provider if you are considering taking NSAIDs during pregnancy.
-You should not take NSAIDs after 29 weeks or pregnancy.
+Taking NSAIDs at about 20 weeks of pregnancy or later may harm your unborn baby.
+If you need to take NSAIDs for more than 2 days when you are between 20 and 30 weeks of pregnancy, your healthcare provider may need to monitor the amount of fluid in your womb around your baby.
+You should not take NSAIDs after about 30 weeks of pregnancy.
 
 • are breastfeeding or plan to breast feed
 
@@ -118,7 +119,7 @@ Stop your NSAID medicine and call your healthcare provider right away if you hav
 
 • diarrhea • unusual weight gain
 
-• itching • skin rash or blisters with fever
+• itching • skin reaction or blisters with fever
 
 • your skin or eyes look yellow • swelling of the arms, legs, hands and feet
 
@@ -148,16 +149,16 @@ Do not give NSAIDs to other people, even if they have the same symptoms that you
 It may harm them.
 
 If you would like more information about NSAIDs, talk with your healthcare provider.
-You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for professionals.
-
-IBU™ Ibuprofen Tablets USP 400 mg, 600 mg, and 800 mg Rx - ANDA# 075682
-
-Manufacturing facility: Dr. Reddy's Laboratories Louisiana, LLC - Shreveport, LA 71106 USA
-
-Distributed by: Dr. Reddy's Laboratories, Inc.
-
-For more info, call/contact: 1-888-375-3784
+You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for professionals
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Revised: April 2019
+Distributor:
+
+Dr. Reddy’s Laboratories Inc.,
+
+Princeton, NJ 08540
+
+Made in India
+
+Revised:04/2022.

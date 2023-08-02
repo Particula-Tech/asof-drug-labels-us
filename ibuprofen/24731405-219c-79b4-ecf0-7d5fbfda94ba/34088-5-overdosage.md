@@ -5,10 +5,10 @@ This type of stimulus, however,was sufficient to induce respiration.
 Oxygen and parenteral fluidswere given; a greenish-yellow fluid was aspirated from the stomachwith no evidence to indicate the presence of ibuprofen.
 Two hoursafter ingestion the child’s condition seemed stable; she still respondedonly to painful stimuli and continued to have periods of apnea lastingfrom 5 to 10 seconds.
 She was admitted to intensive care andsodium bicarbonate was administered as well as infusions of dextroseand normal saline.
-By four hours post-ingestion she could bearoused easily, sit by herself and respond to spoken commands.Blood level of ibuprofen was 102.9 μg/mL approximately 81⁄2 hoursafter accidental ingestion.
+By four hours post-ingestion she could bearoused easily, sit by herself and respond to spoken commands.Blood level of ibuprofen was 102.9 mcg/mL approximately 81⁄2 hoursafter accidental ingestion.
 At 12 hours she appeared to be completelyrecovered.
 
-In two other reported cases where children (each weighingapproximately 10 kg) accidentally, acutely ingested approximately120 mg/kg, there were no signs of acute intoxication or late sequelae.Blood level in one child 90 minutes after ingestion was 700 μg/mL —about 10 times the peak levels seen in absorption-excretion studies.A 19-year old male who had taken 8,000 mg of ibuprofen over aperiod of a few hours complained of dizziness, and nystagmus wasnoted.
+In two other reported cases where children (each weighingapproximately 10 kg) accidentally, acutely ingested approximately120 mg/kg, there were no signs of acute intoxication or late sequelae.Blood level in one child 90 minutes after ingestion was 700 mcg/mL —about 10 times the peak levels seen in absorption-excretion studies.A 19-year old male who had taken 8,000 mg of ibuprofen over aperiod of a few hours complained of dizziness, and nystagmus wasnoted.
 After hospitalization, parenteral hydration and three days bedrest, he recovered with no reported sequelae.
 
 In cases of acute overdosage, the stomach should be emptied byvomiting or lavage, though little drug will likely be recovered if morethan an hour has elapsed since ingestion.

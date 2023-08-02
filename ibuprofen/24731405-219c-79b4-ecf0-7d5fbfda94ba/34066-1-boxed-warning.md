@@ -6,7 +6,7 @@ Cardiovascular Thrombotic Events
   This risk may occur early in treatment and may increase with duration of use.
   (See WARNINGS and PRECAUTIONS).
 
-- IBU tablets are contraindicated in the setting of coronary artery bypass graft (CABG) surgery (See CONTRAINDICATIONS and WARNINGS).
+- Ibuprofen tablets are contraindicated in the setting of coronary artery bypass graft (CABG) surgery (See CONTRAINDICATIONS and WARNINGS).
 
 Gastrointestinal Risk
 

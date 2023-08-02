@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-IBU tablets contain ibuprofen which possesses analgesic andantipyretic activities.
+Ibuprofen tablets contain ibuprofen which possesses analgesic andantipyretic activities.
 Its mode of action, like that of other NSAIDs, isnot completely understood, but may be related to prostaglandin synthetaseinhibition.
 
 In clinical studies in patients with rheumatoid arthritis andosteoarthritis, Ibuprofen tablets have been shown to be comparableto aspirin in controlling pain and inflammation and to be associatedwith a statistically significant reduction in the milder gastrointestinalside effects (see ADVERSE REACTIONS).
@@ -8,7 +8,7 @@ Ibuprofen may be well toleratedin some patients who have had gastrointestinal si
 Although it is not definitely known whetheribuprofen causes less peptic ulceration than aspirin, in one studyinvolving 885 patients with rheumatoid arthritis treated for up to oneyear, there were no reports of gastric ulceration with ibuprofenwhereas frank ulceration was reported in 13 patients in the aspiringroup (statistically significant p<.001).
 
 Gastroscopic studies at varying doses show an increased tendencytoward gastric irritation at higher doses.
-However, at comparabledoses, gastric irritation is approximately half that seen with aspirin.Studies using 51Cr-tagged red cells indicate that fecal blood lossassociated with Ibuprofen tablets in doses up to 2400 mg daily didnot exceed the normal range, and was significantly less than thatseen in aspirin-treated patients.
+However, at comparabledoses, gastric irritation is approximately half that seen with aspirin.Studies using 51Cr-tagged red cells indicate that fecal blood lossassociated with Ibuprofen tablets in doses up to 2,400 mg daily didnot exceed the normal range, and was significantly less than thatseen in aspirin-treated patients.
 
 In clinical studies in patients with rheumatoid arthritis, Ibuprofenhas been shown to be comparable to indomethacin in controlling thesigns and symptoms of disease activity and to be associated with astatistically significant reduction of the milder gastrointestinal (see ADVERSE REACTIONS) and CNS side effects.
 
@@ -21,19 +21,19 @@ The probable mechanism ofaction is to inhibit prostaglandin synthesis rather tha
 
 Pharmacodynamics
 
-In a healthy volunteer study, ibuprofen 400 mg given once daily, administered 2 hours prior to immediate-release aspirin (81 mg) for 6 days, showed an interaction with the antiplatelet activity of aspirin as measured by % serum thromboxane 82 (Tx82) inhibition at 24 hours following the day-6 aspirin dose [53%].
+In a healthy volunteer study, ibuprofen 400 mg given once daily, administered 2 hours prior to immediate-release aspirin (81 mg) for 6 days, showed an interaction with the antiplatelet activity of aspirin as measured by % serum thromboxane B2 (TxB2) inhibition at 24 hours following the day-6 aspirin dose [53%].
 An interaction was still observed, but minimized, when ibuprofen 400 mg given once-daily was administered as early as 8 hours prior to the immediate-release aspirin dose [90.7%].
 However, there was no interaction with the antiplatelet activity of aspirin when ibuprofen 400 mg, given once daily, was administered 2 hours after (but not concomitantly, 15 min, or 30 min after) the immediate-release aspirin dose [99.2%].
 
-In another study, where immediate-release aspirin 81 mg was administered once daily with ibuprofen 400 mg given three times daily (1, 7, and 13 hours post-aspirin dose) for 10 consecutive days, the mean % serum thromboxane 82 (Tx82) inhibition suggested no interaction with the antiplatelet activity of aspirin [98.3%].
-However, there were individual subjects with serum Tx82 inhibition below 95%, with the lowest being 90.2%.
+In another study, where immediate-release aspirin 81 mg was administered once daily with ibuprofen 400 mg given three times daily (1, 7, and 13 hours post-aspirin dose) for 10 consecutive days, the mean % serum thromboxane B2 (TxB2) inhibition suggested no interaction with the antiplatelet activity of aspirin [98.3%].
+However, there were individual subjects with serum TxB2 inhibition below 95%, with the lowest being 90.2%.
 
 When a similarly designed study was conducted with enteric-coated aspirin, where healthy subjects were administered enteric-coated aspirin 81 mg once daily for 6 days and ibuprofen 400 mg three times daily (2, 7 and 12 h post-aspirin dose) for 6 days, there was an interaction with the antiplatelet activity at 24 hours following the day-6 aspirin dose [67%].
 [See Precautions/Drug Interactions].
 
 Pharmacokinetics
 
-The ibuprofen in IBU tablets is rapidly absorbed.
+The ibuprofen in Ibuprofen tablets is rapidly absorbed.
 Peak serum ibuprofen levels are generally attained one to two hours after administration.With single doses up to 800 mg, a linear relationship exists between amount of drug administered and the integrated area underthe serum drug concentration vs time curve.
 Above 800 mg, however,the area under the curve increases less than proportional to increases in dose.
 There is no evidence of drug accumulation or enzyme induction.
@@ -45,6 +45,6 @@ A bioavailability study has shown that there was no interference with the absorp
 
 Ibuprofen is rapidly metabolized and eliminated in the urine.
 The excretion of ibuprofen is virtually complete 24 hours after the last dose.
-The serum half-life is 1.8 to 2.0 hours.
+The serum half-life is 1.8 to 2 hours.
 
 Studies have shown that following ingestion of the drug, 45% to79% of the dose was recovered in the urine within 24 hours as metabolite A (25%), (+)-2-[p-(2hydroxymethyl-propyl) phenyl] propionic acid and metabolite B (37%), (+)-2-[p-(2carboxypropyl)phenyl]propionic acid; the percentages of free and conjugated ibuprofen were approximately 1% and 14%, respectively.

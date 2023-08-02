@@ -17,10 +17,14 @@ Patients should be informed about the symptoms of serious CV events and the step
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
 The concurrent use of aspirin and an NSAID, such as ibuprofen, increases the risk of serious gastrointestinal (GI) events (see WARNINGS).
 
-Status Post Coronary Bypass Graft (CABG) Surgery Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
+Status Post Coronary Bypass Graft (CABG) Surgery
+
+Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
 NSAIDs are contraindicated in the setting of CABG (see CONTRAINDICATIONS).
 
-Post-MI Patients Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
+Post-MI Patients
+
+Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
 In this same cohort, the incidence of death in the first year post MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
 Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years to follow-up.
 
@@ -29,9 +33,9 @@ If Ibuprofen is used in patients with a recent MI, monitor patients for signs of
 
 ### Hypertension
 
-NSAIDs including IBU tablets, can lead to onset of new hypertensionor worsening of preexisting hypertension, either of which maycontribute to the increased incidence of CV events.
+NSAIDs including Ibuprofen tablets, can lead to onset of new hypertensionor worsening of preexisting hypertension, either of which maycontribute to the increased incidence of CV events.
 Patients takingthiazides or loop diuretics may have impaired response to these therapieswhen taking NSAIDs.
-NSAIDs, including IBU tablets, should beused with caution in patients with hypertension.
+NSAIDs, including Ibuprofen tablets, should beused with caution in patients with hypertension.
 Blood pressure (BP)should be monitored closely during the initiation of NSAID treatmentand throughout the course of therapy.
 
 ### Heart Failure and Edema
@@ -40,15 +44,15 @@ The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of rand
 In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
 Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
 Use of ibuprofen may blunt the CV effects of several therapeutic agents used to treat these medical conditions [e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers (ARBs)] [See DRUG INTERACTIONS].
-Avoid the use of IBU tablets in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
+Avoid the use of Ibuprofen tablets in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
 If IBU tablets is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
 
 ### Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation
 
-NSAIDs, including IBU tablets, can cause serious gastrointestinal(GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
+NSAIDs, including Ibuprofen tablets, can cause serious gastrointestinal(GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
 Only one in five patients, who develop a serious upper GI adverse event on NSAID therapy, is symptomatic.
-Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occur in approximately 1% of patientstreated for 3-6 months, and in about 2-4% of patients treated for oneyear.
+Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occur in approximately 1% of patientstreated for 3 to 6 months, and in about 2 to 4% of patients treated for oneyear.
 These trends continue with longer duration of use, increasing the likelihood of developing a serious GI event at some time during the course of therapy.
 However, even short-term therapy is not without risk.
 NSAIDs should be prescribed with extreme caution in thosewith a prior history of ulcer disease or gastrointestinal bleeding.Patients with a prior history of peptic ulcer disease and/or gastrointestinal bleeding who use NSAIDs have a greater than 10-fold increased risk for developing a GI bleed compared to patients treatedwith neither of these risk factors.
@@ -68,72 +72,102 @@ Discontinuation of NSAID therapy is usually followed by recovery to the pretreat
 
 ### Advanced Renal Disease
 
-No information is available from controlled clinical studies regarding the use of Ibuprofen tablets in patients with advanced renal disease.Therefore, treatment with IBU tablets is not recommended in these patients with advanced renal disease.
-If IBU tablet therapy must be initiated, close monitoring of the patients renal function is advisable.
+No information is available from controlled clinical studies regarding the use of Ibuprofen tablets in patients with advanced renal disease.Therefore, treatment with Ibuprofen tablets is not recommended in these patients with advanced renal disease.
+If Ibuprofen tablet therapy must be initiated, close monitoring of the patients renal function is advisable.
 
 ### Anaphylactoid Reactions
 
-As with other NSAIDs, anaphylactoid reactions may occur inpatients without known prior exposure to IBU tablets.
-IBU tablets should not be given to patients with the aspirin triad.
+As with other NSAIDs, anaphylactoid reactions may occur inpatients without known prior exposure to ibuprofen tablets.
+Ibuprofen tablets should not be given to patients with the aspirin triad.
 This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs (see CONTRAINDICATIONS and PRECAUTIONS, Preexisting Asthma).Emergency help should be sought in cases where an anaphylactoidreaction occurs.
 
 ### Skin Reactions
 
-NSAIDs, including IBU tablets, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome(SJS), and toxic epidermal necrolysis (TEN), which can be fatal.These serious events may occur without warning.
-Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
+NSAIDs, including Ibuprofen tablets, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome(SJS), and toxic epidermal necrolysis (TEN), which can be fatal.These serious events may occur without warning.
+Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin reaction or any other sign of hypersensitivity.
+
+### Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as Ibuprofen.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, reaction, lymphadenopathy, and/or facial swelling.
+Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
+Sometimes symptoms of DRESS may resemble an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though reaction is not evident.
+If such signs or symptoms are present, discontinue Ibuprofen and evaluate the patient immediately.
 
 ### Pregnancy
 
-In late pregnancy, as with other NSAIDs, IBU tablets should beavoided because it may cause premature closure of the ductus arteriosus.
+Fetal Toxicity
+
+Premature Closure of Fetal Ductus Arteriosus:
+
+Avoid use of NSAIDs, including Ibuprofen, in pregnant women at about 30 week’s gestation and later.
+NSAIDs including Ibuprofen, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
+
+Oligohydramnios/Neonatal Renal Impairment:
+
+Use of NSAIDs, including Ibuprofen, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+
+Oligohydramnios is often, but not always, reversible with treatment discontinuation.
+Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
+In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.
+
+If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit Ibuprofen use to the lowest effective dose and shortest duration possible.
+Consider ultrasound monitoring of amniotic fluid if Ibuprofen treatment extends beyond 48 hours.
+Discontinue Ibuprofen if oligohydramnios occurs and follow up according to clinical practice [see PRECAUTIONS; Pregnancy]
 
 # PRECAUTIONS
 
 ## General
 
-IBU tablets cannot be expected to substitute for corticosteroids orto treat corticosteroid insufficiency.
+Ibuprofen tablets cannot be expected to substitute for corticosteroids orto treat corticosteroid insufficiency.
 Abrupt discontinuation of corticosteroidsmay lead to disease exacerbation.
 Patients on prolongedcorticosteroid therapy should have their therapy tapered slowly if adecision is made to discontinue corticosteroids.
 
-The pharmacological activity of IBU tablets in reducing fever andinflammation may diminish the utility of these diagnostic signs indetecting complications of presumed noninfectious, painful conditions.
+The pharmacological activity of Ibuprofen tablets in reducing fever andinflammation may diminish the utility of these diagnostic signs indetecting complications of presumed noninfectious, painful conditions.
 
 ## Hepatic effects
 
-Borderline elevations of one or more liver tests may occur in upto 15% of patients taking NSAIDs, including IBU tablets.
+Borderline elevations of one or more liver tests may occur in upto 15% of patients taking NSAIDs, including Ibuprofen tablets.
 These laboratoryabnormalities may progress, may remain unchanged, or maybe transient with continuing therapy.
-Notable elevations of ALT orAST (approximately three or more times the upper limit of normal)have been reported in approximately 1% of patients in clinical trialswith NSAIDs.
+Notable elevations of ALT or AST (approximately three or more times the upper limit of normal)have been reported in approximately 1% of patients in clinical trialswith NSAIDs.
 In addition, rare cases of severe hepatic reactions,including jaundice, fulminant hepatitis, liver necrosis, and hepaticfailure, some of them with fatal outcomes have been reported.
 Apatient with symptoms and/or signs suggesting liver dysfunction, orwith abnormal liver test values, should be evaluated for evidence ofthe development of a more severe hepatic reaction while on therapywith IBU tablets.
-If clinical signs and symptoms consistent with liverdisease develop, or if systemic manifestations occur (e.g.,eosinophilia, rash, etc.), IBU tablets should be discontinued.
+If clinical signs and symptoms consistent with liverdisease develop, or if systemic manifestations occur (e.g.,eosinophilia, reaction, etc.), Ibuprofen tablets should be discontinued.
 
 ## Hematological effects
 
-Anemia is sometimes seen in patients receiving NSAIDs, includingIBU tablets.
-This may be due to fluid retention, occult or gross GIblood loss, or an incompletely described effect upon erythropoiesis.Patients on long-term treatment with NSAIDs, including IBU tablets,should have their hemoglobin or hematocrit checked if they exhibitany signs or symptoms of anemia.
+Anemia is sometimes seen in patients receiving NSAIDs, including Ibuprofen tablets.
+This may be due to fluid retention, occult or gross GIblood loss, or an incompletely described effect upon erythropoiesis.Patients on long-term treatment with NSAIDs, including Ibuprofen tablets,should have their hemoglobin or hematocrit checked if they exhibitany signs or symptoms of anemia.
 
 In two postmarketing clinical studies the incidence of a decreasedhemoglobin level was greater than previously reported.
-Decrease inhemoglobin of 1 gram or more was observed in 17.1% of 193patients on 1600 mg ibuprofen daily (osteoarthritis), and in 22.8% of189 patients taking 2400 mg of ibuprofen daily (rheumatoid arthritis).Positive stool occult blood tests and elevated serum creatinine levelswere also observed in these studies.
+Decrease inhemoglobin of 1 gram or more was observed in 17.1% of 193patients on 1,600 mg ibuprofen daily (osteoarthritis), and in 22.8% of189 patients taking 2,400 mg of ibuprofen daily (rheumatoid arthritis).Positive stool occult blood tests and elevated serum creatinine levelswere also observed in these studies.
 
 NSAIDs inhibit platelet aggregation and have been shown to prolongbleeding time in some patients.
 Unlike aspirin, their effect onplatelet function is quantitatively less, of shorter duration, and reversible.
 
-Patients receiving IBU tablets who may be adversely affected byalterations in platelet function, such as those with coagulation disordersor patients receiving anticoagulants should be carefully monitored.
+Patients receiving Ibuprofen tablets who may be adversely affected byalterations in platelet function, such as those with coagulation disordersor patients receiving anticoagulants should be carefully monitored.
 
 ## Preexisting asthma
 
 Patients with asthma may have aspirin-sensitive asthma.
 The useof aspirin in patients with aspirin-sensitive asthma has been associatedwith severe bronchospasm, which can be fatal.
-Since cross reactivity,including bronchospasm, between aspirin and NSAIDs hasbeen reported in such aspirin-sensitive patients, IBU tablets shouldnot be administered to patients with this form of aspirin sensitivityand should be used with caution in patients with preexisting asthma.
+Since cross reactivity,including bronchospasm, between aspirin and NSAIDs hasbeen reported in such aspirin-sensitive patients, Ibuprofen tablets shouldnot be administered to patients with this form of aspirin sensitivityand should be used with caution in patients with preexisting asthma.
 
 ## Ophthalmological effects.
 
 Blurred and/or diminished vision, scotomata, and/or changes incolor vision have been reported.
-If a patient develops such complaintswhile receiving IBU tablets, the drug should be discontinued, and thepatient should have an ophthalmologic examination which includescentral visual fields and color vision testing.
+If a patient develops such complaintswhile receiving Ibuprofen tablets, the drug should be discontinued, and thepatient should have an ophthalmologic examination which includescentral visual fields and color vision testing.
 
 ## Aseptic Meningitis
 
 Aseptic meningitis with fever and coma has been observed on rareoccasions in patients on ibuprofen therapy.
 Although it is probablymore likely to occur in patients with systemic lupus erythematosusand related connective tissue diseases, it has been reported inpatients who do not have an underlying chronic disease.
-If signs orsymptoms of meningitis develop in a patient on IBU tablets, the possibilityof its being related to IBU tablets should be considered.
+If signs orsymptoms of meningitis develop in a patient on Ibuprofen tablets, the possibilityof its being related to Ibuprofen tablets should be considered.
 
 ## Information for Patients
 
@@ -142,13 +176,15 @@ Patients should also be encouraged to read theNSAID Medication Guide that accomp
 
 • Cardiovascular Thrombotic Events: Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their health care provider immediately [see WARNINGS].
 
-• IBU tablets, like other NSAIDs, can cause GI discomfort and, rarely,serious GI side effects, such as ulcers and bleeding, which mayresult in hospitalization and even death.
+• Ibuprofen tablets, like other NSAIDs, can cause GI discomfort and, rarely,serious GI side effects, such as ulcers and bleeding, which mayresult in hospitalization and even death.
 Although serious GI tractulcerations and bleeding can occur without warning symptoms,patients should be alert for the signs and symptoms of ulcerationsand bleeding, and should ask for medical advice when observingany indicative signs or symptoms including epigastric pain, dyspepsia,melena, and hematemesis.
 Patients should be apprised of theimportance of this follow-up (see WARNINGS,Gastrointestinal Effects-Risk of Ulceration, Bleeding and Perforation).
 
-• IBU tablets, like other NSAIDs, can cause serious skin side effectssuch as exfoliative dermatitis, SJS and TEN, which may result inhospitalization and even death.
-Although serious skin reactions mayoccur without warning, patients should be alert for the signs andsymptoms of skin rash and blisters, fever, or other signs of hypersensitivitysuch as itching, and should ask for medical advice whenobserving any indicative sign or symptoms.
-Patients should beadvised to stop the drug immediately if they develop any type ofrash and contact their physicians as soon as possible.
+• Ibuprofen tablets, like other NSAIDs, can cause serious skin side effectssuch as exfoliative dermatitis, SJS and TEN, which may result inhospitalization and even death.
+Although serious skin reactions mayoccur without warning, patients should be alert for the signs andsymptoms of skin Reaction and blisters, fever, or other signs of hypersensitivitysuch as itching, and should ask for medical advice whenobserving any indicative sign or symptoms.
+Patients should beadvised to stop the drug immediately if they develop any type of eaction and contact their physicians as soon as possible.
+
+• Serious Skin Reactions, including DRESS: Advise patients to stop taking ibuprofen tablets immediately if they develop any type of reaction or fever and to contact their healthcare provider as soon as possible [see WARNINGS].
 
 • Heart Failure and Edema: Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur [see WARNINGS].
 
@@ -158,12 +194,17 @@ If theseoccur, patients should be instructed to stop therapy and seek immediatem
 • Patients should be informed of the signs of an anaphylactoid reaction(e.g. difficulty breathing, swelling of the face or throat).
 If theseoccur, patients should be instructed to seek immediate emergencyhelp (see WARNINGS).
 
-• In late pregnancy, as with other NSAIDs, IBU tablets should beavoided because it may cause premature closure of the ductus arteriosus.
+• In late pregnancy, as with other NSAIDs, Ibuprofen tablets should beavoided because it may cause premature closure of the ductus arteriosus.
+
+## Fetal Toxicity
+
+Inform pregnant women to avoid use of Ibuprofen and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
+If treatment with Ibuprofen is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours [see WARNINGS; Fetal Toxicity, PRECAUTIONS; Pregnancy].
 
 ## Laboratory Tests
 
 Because serious GI tract ulcerations and bleeding can occur withoutwarning symptoms, physicians should monitor for signs orsymptoms of GI bleeding.
-Patients on long-term treatment withNSAIDs should have their CBC and chemistry profile checked periodically.If clinical signs and symptoms consistent with liver or renaldisease develop, systemic manifestations occur (e.g., eosinophilia,rash etc.), or abnormal liver tests persist or worsen, IBU tabletsshould be discontinued.
+Patients on long-term treatment with NSAIDs should have their CBC and chemistry profile checked periodically.If clinical signs and symptoms consistent with liver or renaldisease develop, systemic manifestations occur (e.g., eosinophilia,reaction etc.), or abnormal liver tests persist or worsen, Ibuprofen tabletsshould be discontinued.
 
 ## Drug Interactions
 
@@ -178,7 +219,7 @@ The interaction is alleviated if immediate-release low-dose aspirin is dosed at 
 
 Because there may be an increased risk of cardiovascular events due to the interference of ibuprofen with the antiplatelet effect of aspirin, for patients taking low-dose aspirin for cardio protection who require analgesics, consider use of an NSAID that does not interfere with the antiplatelet effect of aspirin, or non-NSAID analgesics, where appropriate.
 
-When IBU tablets are administered with aspirin, its protein bindingis reduced, although the clearance of free IBU tablets is notaltered.
+When Ibuprofen tablets are administered with aspirin, its protein bindingis reduced, although the clearance of free Ibuprofen tablets is notaltered.
 The clinical significance of this interaction is not known; however,as with other NSAIDs, concomitant administration of ibuprofenand aspirin is not generally recommended because of the potential forincreased adverse effects.
 
 ## Diuretics
@@ -197,12 +238,12 @@ Thus, when ibuprofen and lithium are administeredconcurrently, subjects should b
 
 NSAIDs have been reported to competitively inhibit methotrexateaccumulation in rabbit kidney slices.
 This may indicate that they couldenhance the toxicity of methotrexate.
-Caution should be used whenNSAIDs are administered concomitantly with methotrexate.
+Caution should be used when NSAIDs are administered concomitantly with methotrexate.
 
 ## Warfarin-type anticoagulants
 
 Several short-term controlled studies failed to show that Ibuprofentablets significantly affected prothrombin times or a variety of otherclotting factors when administered to individuals on coumarin-typeanticoagulants.
-However, because bleeding has been reported whenIBU tablets and other NSAIDs have been administered to patients oncoumarin-type anticoagulants, the physician should be cautiouswhen administering IBU tablets to patients on anticoagulants.
+However, because bleeding has been reported when Ibuprofen tablets and other NSAIDs have been administered to patients oncoumarin-type anticoagulants, the physician should be cautiouswhen administering Ibuprofen tablets to patients on anticoagulants.
 Theeffects of warfarin and NSAIDs on GI bleeding are synergistic, suchthat the users of both drugs together have a risk of serious GI bleedinghigher than users of either drug alone.
 
 ## H-2 Antagonists
@@ -211,29 +252,80 @@ In studies with human volunteers, co-administration of cimetidineor ranitidine w
 
 ## Pregnancy
 
-Teratogenic effects: Pregnancy Category C
+Risk Summary
 
+Use of NSAIDs, including Ibuprofen, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+Because of these risks, limit dose and duration of Ibuprofen use between about 20 and 30 weeks of gestation, and avoid Ibuprofen use at about 30 weeks of gestation and later in pregnancy [see WARNINGS; Fetal Toxicity].
+
+Premature Closure of Fetal Ductus Arteriosus
+
+Use of NSAIDs, including Ibuprofen, at about 30 weeks gestation or later in pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
+
+Oligohydramnios/Neonatal Renal Impairment
+
+Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+
+Data fromobservational studies regarding other potential embryofetal risks of NSAIDuse in women in the first or second trimesters of pregnancy areinconclusive.
 Reproductive studies conducted in rats and rabbits have notdemonstrated evidence of developmental abnormalities.
-However,animal reproduction studies are not always predictive of humanresponse.
-There are no adequate and well-controlled studies in pregnantwomen.
-Ibuprofen should be used in pregnancy only if thepotential benefit justifies the potential risk to the fetus.
+However, animalreproduction studies are not always predictive of human response.
+Basedon animal data, prostaglandins have been shown to have an importantrole in endometrial vascular permeability, blastocyst implantation, anddecidualization.
+In animal studies, administration of prostaglandinsynthesis inhibitors such as ibuprofen, resulted in increased pre- and postimplantationloss.
+Prostaglandins also have been shown to have animportant role in fetal kidney development.
+In published animal studies,prostaglandin synthesis inhibitors have been reported to impair kidneydevelopment when administered at clinically relevant doses.
 
-### Nonteratogenic effects
+The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Because of the known effects of NSAIDs on the fetal cardiovascularsystem (closure of ductus arteriosus), use during late pregnancyshould be avoided.
+### Clinical Considerations
+
+Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions Premature Closure of Fetal Ductus Arteriosus:Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including Ibuprofen, can cause premature closure of the fetal ductus arteriosus (see WARNINGS; Fetal Toxicity).
+
+Oligohydramnios/Neonatal Renal Impairment
+
+If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible.
+If Ibuprofen treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
+If oligohydramnios occurs, discontinue Ibuprofen and follow up according to clinical practice (see WARNINGS; Fetal Toxicity).
+
+Data
+
+Human Data
+
+There are no adequate, well-controlled studies in pregnant women.
+Ibuprofen tablets should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Premature Closure of Fetal Ductus Arteriosus:
+
+There are no adequate, well-controlled studies in pregnant women.
+Ibuprofen tablets should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Oligohydramnios/Neonatal Renal Impairment:
+
+Published studies and postmarketing reports describe maternal NSAID use at about 20 weeks gestation or later in pregnancy associated with fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+In many cases, but not all, the decrease in amniotic fluid was transient and reversible with cessation of the drug.
+There have been a limited number of case reports of maternal NSAID use and neonatal renal dysfunction without oligohydramnios, some of which were irreversible.
+Some cases of neonatal renal dysfunction required treatment with invasive procedures, such as exchange transfusion or dialysis.
+
+Methodological limitations of these postmarketing studies and reports include lack of a control group; limited information regarding dose, duration, and timing of drug exposure; and concomitant use of other medications.
+These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use.
+
+Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain.
 
 ### Labor and Delivery
 
 In rat studies with NSAIDs, as with other drugs known to inhibitprostaglandin synthesis, an increased incidence of dystocia, delayedparturition, and decreased pup survival occurred.
-The effects of IBUtablets on labor and delivery in pregnant women are unknown.
+The effects of Ibuprofen tablets on labor and delivery in pregnant women are unknown.
 
 ### Nursing Mothers
 
-It is not known whether this drug is excreted in human milk.Because many drugs are excreted in human-milk and because of thepotential for serious adverse reactions in nursing infants from IBUtablets, a decision should be made whether to discontinue nursing ordiscontinue the drug, taking into account the importance of the drugto the mother.
+It is not known whether this drug is excreted in human milk.Because many drugs are excreted in human-milk and because of thepotential for serious adverse reactions in nursing infants from Ibuprofen tablets, a decision should be made whether to discontinue nursing ordiscontinue the drug, taking into account the importance of the drugto the mother.
 
 ### Pediatric Use
 
-Safety and effectiveness of IBU tablets in pediatric patients havenot been established.
+Safety and effectiveness of Ibuprofen tablets in pediatric patients havenot been established.
 
 ### Geriatric Use
 
