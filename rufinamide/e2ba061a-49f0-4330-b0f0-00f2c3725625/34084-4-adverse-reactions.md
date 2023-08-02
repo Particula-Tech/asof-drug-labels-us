@@ -12,7 +12,7 @@ The following serious adverse reactions are described below and elsewhere in the
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adverse Reactions in Adult and Pediatric Patients ages 3 to 17 years of age
+Adverse Reactions inAdult and Pediatric Patients ages3to 17 years of age
 
 In the pooled, double-blind, adjunctive therapy studies in adult and pediatric patients ages 3 to 17 years of age, the most common (≥10%) adverse reactions in rufinamide-treated patients, in all doses studied (200 mg to 3,200 mg per day) with a higher frequency than in patients on placebo were: headache, dizziness, fatigue, somnolence, and nausea.
 
@@ -83,7 +83,7 @@ The adverse reactions most commonly leading to discontinuation of rufinamide (>1
 
 Table 4: Most Common Adverse Reactions Leading to Discontinuation in Pediatric Patients (Ages 4 to less than 17 years) in Pooled Double-Blind Adjunctive Trials
 
-| Adverse Reaction | Rufinamide (N=187) % | Placebo (N=182) % |
+| AdverseReaction | Rufinamide (N=187) % | Placebo (N=182) % |
 | --- | --- | --- |
 | Convulsion | 2 | 1 |
 | Rash | 2 | 1 |
@@ -103,12 +103,12 @@ Table 5: Most Common Adverse Reactions Leading to Discontinuation in Adult Patie
 | Nausea | 1 | 0 |
 | Ataxia | 1 | 0 |
 
-Pediatric Patients ages 1 to less than 4 years
+PediatricPatientsages1 toless than 4 years
 
 In a multi-center, parallel group, open-label study comparing rufinamide (45 mg/kg per day) adjunctive treatment (n=25) to the adjunctive treatment with an AED of the investigator’s choice (n=11) in pediatric patients (1 year to less than 4 years of age) with inadequately controlled Lennox-Gastaut Syndrome, the adverse reaction profile was generally similar to that observed in adults and pediatric patients 4 years of age and older treated with rufinamide.
 Adverse reactions that occurred in at least 2 (8 %) rufinamide-treated patients and with a higher frequency than in the AED comparator group were: vomiting (24%), somnolence (16%), bronchitis (12%), constipation (12%), cough (12%), decreased appetite (12%), rash (12%), otitis media (8%), pneumonia (8%), decreased weight (8%), gastroenteritis (8%), nasal congestion (8%), and pneumonia aspiration (8%).
 
-Other Adverse Reactions Observed During Clinical Trials
+Other AdverseReactionsObserved During Clinical Trials
 
 Rufinamide has been administered to 1,978 individuals during all epilepsy clinical trials (placebo-controlled and open-label).
 Adverse reactions occurring during these studies were recorded by the investigators using terminology of their own choosing.
@@ -123,12 +123,12 @@ Events are classified by body system and listed in order of decreasing frequency
 Blood and Lymphatic System Disorders: Frequent: anemia.
 Infrequent: lymphadenopathy, leukopenia, neutropenia, iron deficiency anemia, thrombocytopenia.
 
-Cardiac Disorders: Infrequent: bundle branch block right, atrioventricular block first degree.
+Cardiac Disorders: Infrequent:bundle branch block right, atrioventricular block first degree.
 
-Metabolic and Nutritional Disorders: Frequent: decreased appetite, increased appetite.
+Metabolic and Nutritional Disorders: Frequent:decreased appetite, increased appetite.
 
-Renal and Urinary Disorders: Frequent: pollakiuria.
-Infrequent: urinary incontinence, dysuria, hematuria, nephrolithiasis, polyuria, enuresis, nocturia, incontinence.
+Renal and Urinary Disorders: Frequent:pollakiuria.
+Infrequent:urinary incontinence, dysuria, hematuria, nephrolithiasis, polyuria, enuresis, nocturia, incontinence.
 
 ## 6.2 Postmarketing Experience
 

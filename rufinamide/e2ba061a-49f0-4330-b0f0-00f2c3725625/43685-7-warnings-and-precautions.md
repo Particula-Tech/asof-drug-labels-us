@@ -62,7 +62,7 @@ Such events in this syndrome are believed to occur primarily when the corrected 
 Non-clinical data also indicate that QT shortening is associated with ventricular fibrillation.
 
 Patients with Familial Short QT syndrome should not be treated with rufinamide.
-Caution should be used when administering rufinamide with other drugs that shorten the QT interval [see Contraindications (4)].
+Caution should be used when administering rufinamide with other drugs that shorten the QT interval [seeContraindications(4)].
 
 ## 5.4 Multi-organ Hypersensitivity/Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
@@ -93,4 +93,4 @@ In all controlled trials that included patients with different epilepsies, 11 of
 ## 5.7 Leukopenia
 
 Rufinamide has been shown to reduce white cell count.
-Leukopenia (white cell count < 3X10 9 L) was more commonly observed in rufinamide-treated patients 43 of 1,171 (3.7%) than placebo-treated patients, 7 of 579 (1.2%) in all controlled trials.
+Leukopenia (white cell count < 3X10 9L) was more commonly observed in rufinamide-treated patients 43 of 1,171 (3.7%) than placebo-treated patients, 7 of 579 (1.2%) in all controlled trials.

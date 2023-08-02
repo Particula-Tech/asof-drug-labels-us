@@ -16,8 +16,7 @@ Stopping rufinamide oral suspension suddenly can cause serious problems.
 
 Rufinamide oral suspension can cause serious side effects, including:
 
-1.
-Like other antiepileptic drugs, rufinamide oral suspension may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+1.Like other antiepileptic drugs, rufinamide oral suspension may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
 - thoughts about suicide or dying
@@ -80,7 +79,7 @@ Before you take rufinamide oral suspension, tell your healthcare provider if you
   It is not known if rufinamide will pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby if you take rufinamide oral suspension.
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take,including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
 Taking rufinamide oral suspension with certain other medicines can cause side effects or affect how well they work.
 Do not start or stop other medicines without talking to your healthcare provider.
@@ -97,7 +96,7 @@ How should I take rufinamide oral suspension?
 - Take rufinamide oral suspension with food.
 - If you take rufinamide oral suspension, shake the bottle well before you take each dose.
   Measure your dose of rufinamide oral suspension using the bottle adapter and dosing syringes provided.
-  See the complete Instructions for Use below for information on how to use the dosing syringes and measure your dose of rufinamide oral suspension.
+  See the complete Instructions for Usebelow for information on how to use the dosing syringes and measure your dose of rufinamide oral suspension.
 - If you take too much rufinamide oral suspension, call your local Poison Control Center or get emergency medical help right away.
 
 What should I avoid while taking rufinamide oral suspension?
@@ -116,7 +115,7 @@ Rufinamide oral suspension may cause serious side effects including:
 - Rufinamide oral suspension can also cause allergic reactions or serious problems which may affect organs and other parts of your body like the liver or blood cells.
   You may or may not have a rash with these types of reactions.
 
-Call your healthcare provider right away if you have any of the following.
+Call your healthcare provider right away if you haveany of the following.
 Symptoms may include:
 
 - swelling of your face, eyes, lips, or tongue
@@ -179,16 +178,12 @@ Active ingredient: rufinamide, USP
 
 Inactive ingredients: anhydrous citric acid powder, hydrochloric acid, hydroxyethylcellulose, methylparaben, microcrystalline cellulose & carboxymethylcellulose sodium, natural and artificial orange flavor, poloxamer 188, potassium sorbate, propylene glycol, propylparaben, purified water, simethicone emulsion 30%, sodium hydroxide and sorbitol solution 70%.
 
-Distributed by:
+Manufactured by: National Pharmaceutical Industries Oman
 
-Bionpharma Inc.
+Distributed by: Bionpharma Inc. Princeton, NJ 08540
 
-600 Alexander Road,
-
-Princeton, NJ 08540
-
-Revised September 2020
+Revised: March 2023
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-FDA-05
+FDA-06

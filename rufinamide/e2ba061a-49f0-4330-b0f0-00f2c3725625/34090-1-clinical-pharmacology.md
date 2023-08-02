@@ -4,8 +4,8 @@
 
 The precise mechanism(s) by which rufinamide exerts its antiepileptic effect is unknown.
 
-The results of in vitro studies suggest that the principal mechanism of action of rufinamide is modulation of the activity of sodium channels and, in particular, prolongation of the inactive state of the channel.
-Rufinamide (≥ 1 μM) significantly slowed sodium channel recovery from inactivation after a prolonged prepulse in cultured cortical neurons, and limited sustained repetitive firing of sodium-dependent action potentials (EC 50 of 3.8 μM).
+The results of in vitrostudies suggest that the principal mechanism of action of rufinamide is modulation of the activity of sodium channels and, in particular, prolongation of the inactive state of the channel.
+Rufinamide (≥ 1 μM) significantly slowed sodium channel recovery from inactivation after a prolonged prepulse in cultured cortical neurons, and limited sustained repetitive firing of sodium-dependent action potentials (EC 50of 3.8 μM).
 
 ## 12.3 Pharmacokinetics
 
@@ -29,7 +29,7 @@ Based on urinary excretion, the extent of absorption was at least 85% following 
 Multiple dose pharmacokinetics can be predicted from single dose data for both rufinamide and its metabolite.
 Given the dosing frequency of every 12 hours and the half-life of 6 to 10 hours, the observed steady-state peak concentration of about two to three times the peak concentration after a single dose is expected.
 
-Food increased the extent of absorption of rufinamide in healthy volunteers by 34% and increased peak exposure by 56% after a single dose of 400 mg tablet, although the T max was not elevated [see Dosage and Administration (2.2)].
+Food increased the extent of absorption of rufinamide in healthy volunteers by 34% and increased peak exposure by 56% after a single dose of 400 mg tablet, although the T maxwas not elevated [seeDosageand Administration (2.2)].
 
 Only a small fraction of rufinamide (34%) is bound to human serum proteins, predominantly to albumin (27%), giving little risk of displacement drug-drug interactions.
 Rufinamide was evenly distributed between erythrocytes and plasma.
@@ -48,7 +48,7 @@ Rufinamide is a weak inhibitor of CYP 2E1.
 It did not show significant inhibition of other CYP enzymes.
 Rufinamide is a weak inducer of CYP 3A4 enzymes.
 
-Rufinamide did not show any significant inhibition of P-glycoprotein in an in vitro study.
+Rufinamide did not show any significant inhibition of P-glycoprotein in an in vitrostudy.
 
 Elimination/Excretion
 
@@ -77,20 +77,20 @@ Information on other races could not be obtained because of smaller numbers of t
 Renal Impairment
 
 Rufinamide pharmacokinetics in 9 patients with severe renal impairment (creatinine clearance < 30 mL per min) was similar to that of healthy subjects.
-Patients undergoing dialysis 3 hours post rufinamide dosing showed a reduction in AUC and C max by 29% and 16%, respectively.
+Patients undergoing dialysis 3 hours post rufinamide dosing showed a reduction in AUC and C maxby 29% and 16%, respectively.
 
 Drug Interactions
 
-Based on in vitro studies, rufinamide shows little or no inhibition of most cytochrome P450 enzymes at clinically relevant concentrations, with weak inhibition of CYP 2E1.
+Based on in vitrostudies, rufinamide shows little or no inhibition of most cytochrome P450 enzymes at clinically relevant concentrations, with weak inhibition of CYP 2E1.
 Drugs that are substrates of CYP 2E1 (e.g., chlorzoxazone) may have increased plasma levels in the presence of rufinamide, but this has not been studied.
 
 Based on a population pharmacokinetic analysis, rufinamide clearance was decreased by valproate.
 In pediatric patients, valproate administration may lead to elevated levels of rufinamide by up to 70% [see Drug Interactions (7.2)].
 
-Based on in vivo drug interaction studies with triazolam and oral contraceptives, rufinamide is a weak inducer of the CYP 3A4 enzyme and can decrease exposure of drugs that are substrates of CYP 3A4.
+Based on in vivodrug interaction studies with triazolam and oral contraceptives, rufinamide is a weak inducer of the CYP 3A4 enzyme and can decrease exposure of drugs that are substrates of CYP 3A4.
 
 - Co-administration and pre-treatment of rufinamide (400 mg twice daily) and triazolam resulted in a 37% decrease in AUC and a 23% decrease in C max of triazolam, a CYP 3A4 substrate.
-- Co-administration of rufinamide (800 mg twice daily for 14 days) and Ortho-Novum 1/35 ® resulted in a mean decrease in the ethinyl estradiol AUC 0-24 of 22% and C max by 31% and norethindrone AUC 0-24 by 14% and C max by 18%, respectively.
+- Co-administration of rufinamide (800 mg twice daily for 14 days) and Ortho-Novum 1/35 ® resulted in a mean decrease in the ethinyl estradiol AUC 0-24of 22% and C maxby 31% and norethindrone AUC 0-24by 14% and C maxby 18%, respectively.
   The clinical significance of this decrease is unknown [see Drug Interactions (7.3) and Use in Specific Populations (8.3)].
 
 Rufinamide is metabolized by carboxylesterases.

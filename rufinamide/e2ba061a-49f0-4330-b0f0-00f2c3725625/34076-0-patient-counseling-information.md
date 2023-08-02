@@ -30,10 +30,18 @@ Pregnancy
 
 Advise patients to notify their physician if they become pregnant or intend to become pregnant during therapy.
 Encourage patients to enroll in the North American Antiepileptic Drug Pregnancy Registry if they become pregnant.
-To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
+To enroll, patients can call the toll-free number 1-888-233-2334 [seeUse in Specific Populations (8.1)].
 
 Breast-feeding
 
 Advise patients to notify their physician if they are breast-feeding or intend to breast-feed [see Use in Specific Populations (8.2)].
 
-Distributed by: Bionpharma Inc. 600 Alexander Road, Princeton, NJ 08540 Revised September 2020 FDA-05
+Manufactured by: National Pharmaceutical Industries Oman
+
+Distributed by: Bionpharma Inc. Princeton, NJ 08540
+
+Revised: March 2023
+
+FDA-06
+
+NCAL003 R00

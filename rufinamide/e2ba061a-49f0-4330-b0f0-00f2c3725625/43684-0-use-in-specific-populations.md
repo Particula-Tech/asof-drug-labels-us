@@ -74,7 +74,7 @@ Pharmacokinetics of rufinamide in the elderly are similar to that in the young s
 ## 8.6 Renal Impairment
 
 Rufinamide pharmacokinetics in patients with severe renal impairment (creatinine clearance < 30 mL/min) was similar to that of healthy subjects.
-Dose adjustment in patients undergoing dialysis should be considered [see Clinical Pharmacology (12.3)].
+Dose adjustment in patients undergoing dialysis should be considered [see Clinical Pharmacology(12.3)].
 
 ## 8.7 Hepatic Impairment
 
