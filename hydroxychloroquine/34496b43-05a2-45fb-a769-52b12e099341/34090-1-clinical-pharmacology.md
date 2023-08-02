@@ -18,7 +18,7 @@ After administration of single 155 mg and 310 mg intravenous doses, peak blood c
 Pharmacokinetic parameters were not significantly different over the therapeutic dose range of 155 mg and 310 mg indicating linear kinetics.
 In patients with rheumatoid arthritis, there was large variability as to the fraction of the dose absorbed (i.e.
 30 to 100%), and mean hydroxychloroquine levels were significantly higher in patients with less disease activity.
-Distribution Plaquenil is extensively distributed to tissues.
+Distribution PLAQUENIL is extensively distributed to tissues.
 Elimination A half-life of 123.5 days in plasma were observed following a single 200 mg oral PLAQUENIL dose to healthy male volunteers.
 Urine hydroxychloroquine levels were still detectable after 3 months with approximately 10% of the dose excreted as the parent drug.
 Results following a single dose of a 200 mg tablet versus i.v. infusion (155 mg), demonstrated a half-life of about 40 days and a large volume of distribution.

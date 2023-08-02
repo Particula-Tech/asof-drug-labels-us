@@ -7,10 +7,10 @@ Advise patients of the importance of the ophthalmology visits for monitoring the
 Instruct patients to seek medical attention promptly if they experience decreased vision or decreased dark adaptation [see Warnings and Precautions (5.2)].
 Serious Skin Reactions Inform the patient that severe, life-threatening skin reactions have been reported with the use of PLAQUENIL.
 Advise the patient to seek medical attention immediately if experiencing any of the following signs and symptoms: blisters on the skin, eyes, lips or in the mouth, itching or burning, with or without fever [see Warnings and Precautions (5.3)].
-Skeletal Muscle Myopathy or Neuropathy Inform the patient that muscle weakness and atrophy has been reported with PLAQUENIL use Advise patients to report to the physician symptoms of muscle weakness [see Warnings and Precautions (5.7)].
-Neuropsychiatric Reactions Including Suicidality Alert patients to seek medical attention immediately if they experience new or worsening depression, suicidal thoughts, or other mood changes [see Warnings and Precautions (5.8)].
+Skeletal Muscle Myopathy or Neuropathy Inform the patient that muscle weakness and atrophy has been reported with PLAQUENIL use Advise patients to report to the physician symptoms of muscle weakness [see Warnings and Precautions (5.8)].
+Neuropsychiatric Reactions Including Suicidality Alert patients to seek medical attention immediately if they experience new or worsening depression, suicidal thoughts, or other mood changes [see Warnings and Precautions (5.9)].
 Hypoglycemia Inform the patient that PLAQUENIL has been associated with severe hypoglycemia.
-Advise the patient to monitor blood sugar levels if possible and to seek medical attention if experiencing any of the signs and symptoms of hypoglycemia such as sweating, shakiness, weakness, dizziness, tachycardia, nausea, blurred vision, confusion, fainting, or loss of consciousness [see Warnings and Precautions (5.9)].
+Advise the patient to monitor blood sugar levels if possible and to seek medical attention if experiencing any of the signs and symptoms of hypoglycemia such as sweating, shakiness, weakness, dizziness, tachycardia, nausea, blurred vision, confusion, fainting, or loss of consciousness [see Warnings and Precautions (5.10)].
 Pregnancy Inform the patient that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to PLAQUENIL during pregnancy.
 Encourage patients to register by contacting 1-877-311-8972 [see Use in Specific Populations (8.1)].
 Mfd. for: Concordia Pharmaceuticals Distributed by: Amdipharm Limited 17 Northwood House Dublin 9, Ireland ©2015 All rights reserved.

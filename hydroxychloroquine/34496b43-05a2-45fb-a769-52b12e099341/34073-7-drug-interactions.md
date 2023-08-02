@@ -9,7 +9,7 @@ Therefore, PLAQUENIL is not recommended in patients taking other drugs that have
 ## 7.2 Insulin or Other Antidiabetic Drugs
 
 PLAQUENIL may enhance the effects of insulin and antidiabetic drugs, and consequently increase the hypoglycemic risk.
-Therefore, a decrease in dosage of insulin and other antidiabetic drugs may be necessary [see Warnings and Precautions (5.8)].
+Therefore, a decrease in dosage of insulin and other antidiabetic drugs may be necessary [see Warnings and Precautions (5.10)].
 
 ## 7.3 Drugs that Lower the Seizure Threshold
 
@@ -43,7 +43,7 @@ Avoid concomitant use of cimetidine
 ## 7.9 Rifampicin
 
 Lack of efficacy of hydroxychloroquine was reported when rifampicin was concomitantly administered.
-Avoid concomitant use of rifampicin
+Avoid concomitant use of rifampicin.
 
 ## 7.10 Praziquantel
 
