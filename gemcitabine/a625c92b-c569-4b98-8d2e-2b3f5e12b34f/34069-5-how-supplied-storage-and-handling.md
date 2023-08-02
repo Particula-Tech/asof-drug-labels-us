@@ -2,7 +2,7 @@
 
 Gemcitabine for injection, USP is available is a sterile white to off-white lyophilized powder available in single-dose vials individually packaged in a carton containing 2 g gemcitabine:
 
-- 2 g vial - NDC 0409-0187-01
+- •2 g vial - NDC 0409-0187-01
 
 Gemcitabine is a cytotoxic drug.
 Follow applicable special handling and disposal procedures.1

@@ -172,10 +172,10 @@ In Study 6, all patients received gemcitabine 1,000 mg/m2 intravenously over 30 
 The major efficacy outcome measure in both trials was "clinical benefit response".
 A patient was considered to have had a clinical benefit response if either of the following occurred:
 
-- The patient achieved a ≥50% reduction in pain intensity (Memorial Pain Assessment Card) or analgesic consumption, or a 20-point or greater improvement in performance status (Karnofsky Performance Status) for a period of at least 4 consecutive weeks, without showing any sustained worsening in any of the other parameters.
+- •The patient achieved a ≥50% reduction in pain intensity (Memorial Pain Assessment Card) or analgesic consumption, or a 20-point or greater improvement in performance status (Karnofsky Performance Status) for a period of at least 4 consecutive weeks, without showing any sustained worsening in any of the other parameters.
   Sustained worsening was defined as 4 consecutive weeks with either any increase in pain intensity or analgesic consumption or a 20-point decrease in performance status occurring during the first 12 weeks of therapy.
   OR
-- The patient was stable on all of the aforementioned parameters and showed a marked, sustained weight gain (≥7% increase maintained for ≥4 weeks) not due to fluid accumulation.
+- •The patient was stable on all of the aforementioned parameters and showed a marked, sustained weight gain (≥7% increase maintained for ≥4 weeks) not due to fluid accumulation.
 
 Study 5 enrolled 126 patients.
 Demographics and baseline characteristics were similar between the arms (Table 22).
