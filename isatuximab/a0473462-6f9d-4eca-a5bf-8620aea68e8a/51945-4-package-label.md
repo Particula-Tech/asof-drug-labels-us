@@ -10,7 +10,7 @@ For Intravenous Infusion After Dilution
 
 One single-dose vial Discard unused portion
 
-SANOFI
+sanofi
 
 # PRINCIPAL DISPLAY PANEL - 500 mg/25 mL Vial Carton
 
@@ -24,4 +24,4 @@ For Intravenous Infusion After Dilution
 
 One single-dose vial Discard unused portion
 
-SANOFI
+sanofi
