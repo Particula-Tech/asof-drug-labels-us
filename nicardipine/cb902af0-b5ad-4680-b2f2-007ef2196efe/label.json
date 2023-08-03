@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA215377"
+  ],
+  "inn": "nicardipine",
+  "labeler": "Burel Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "35573-457-85",
+    "35573-458-85"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nicardipine hydrochloride",
+      "name": "NICARDIPINE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "cb902af0-b5ad-4680-b2f2-007ef2196efe",
+  "source": "dailymed"
+}
