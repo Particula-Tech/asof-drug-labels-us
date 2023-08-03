@@ -27,7 +27,6 @@ Net Wt.
 
 1. 62000000051129 Rev.
    08/20
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -58,7 +57,6 @@ Net Wt.
 
 1. 62000000051130 Rev.
    08/20
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -89,4 +87,3 @@ Net Wt.
 
 1. 62000000051131 Rev.
    08/20
-2. 
