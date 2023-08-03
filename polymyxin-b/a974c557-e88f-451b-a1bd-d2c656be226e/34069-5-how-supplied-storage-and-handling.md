@@ -5,5 +5,5 @@ Protect from light.
 Retain in carton until time of use.
 After reconstitution: Product must be stored under refrigeration, between 2° to 8°C (36° to 46°F) and any unused portion should be discarded after 72 hours.
 The vial stoppers are not made with natural rubber latex.
-Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
-E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad - 500032 India Revised: October 2021
+Distributed by: Eugia US LLC 279 Princeton-Hightstown Rd.
+E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad - 500032 India Revised: June 2023
