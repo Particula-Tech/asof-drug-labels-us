@@ -3,7 +3,7 @@
 ## 8.1 Pregnancy
 
 Risk Summary Sevelamer carbonate is not absorbed systemically following oral administration and maternal use is not expected to result in fetal exposure to the drug.
-Clinical Considerations Sevelamer carbonate may decrease serum levels of fat soluble vitamins and folic acid in pregnant women [see Clinical Pharmacology (12.2)].
+Clinical Considerations Sevelamer carbonate may decrease serum levels of fat-soluble vitamins and folic acid in pregnant women [see Clinical Pharmacology (12.2)].
 Consider supplementation.
 Data Animal data In pregnant rats given dietary doses of 0.5, 1.5, or 4.5 g/kg/day of sevelamer hydrochloride during organogenesis, reduced or irregular ossification of fetal bones, probably due to a reduced absorption of fat-soluble vitamin D, occurred in mid and high-dose groups (human equivalent doses approximately equal to 3 to 4 times the maximum clinical trial dose of 13 g). In pregnant rabbits given oral doses of 100, 500, or 1,000 mg/kg/day of sevelamer hydrochloride by gavage during organogenesis, an increase of early resorptions occurred in the high-dose group (human equivalent dose twice the maximum clinical trial dose).
 
@@ -15,7 +15,7 @@ Sevelamer carbonate is not absorbed systemically by the mother following oral ad
 
 Clinical Considerations
 
-Sevelamer carbonate may decrease serum levels of fat soluble vitamins and folic acid in pregnant women [see Clinical Pharmacology (12.2)].
+Sevelamer carbonate may decrease serum levels of fat-soluble vitamins and folic acid in pregnant women [see Clinical Pharmacology (12.2)].
 Consider supplementation.
 
 ## 8.4 Pediatric Use

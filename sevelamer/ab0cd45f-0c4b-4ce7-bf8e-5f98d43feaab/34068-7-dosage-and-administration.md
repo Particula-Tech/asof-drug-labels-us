@@ -19,7 +19,7 @@ Based on clinical studies, the average prescribed adult daily dose of sevelamer 
 The highest daily adult dose of sevelamer carbonate studied was 14 grams in CKD patients on dialysis.
 
 Starting Dose for Pediatric Patients Not Taking a Phosphate Binder.
-The recommended starting dose for pediatric patients 6 years of age and older is 0.8 g to 1.6 g taken three times per day with meals based on the patient’s body surface area (BSA) category; see Table 2.
+The recommended starting dose for pediatric patients 6 years of age and older is 0.8 to 1.6 g taken three times per day with meals based on the patient’s body surface area (BSA) category; see Table 2.
 
 Table 2: Recommended Starting Dosage and Titration Increment Based on Pediatric Patient’s Body Surface Area (m2)
 
