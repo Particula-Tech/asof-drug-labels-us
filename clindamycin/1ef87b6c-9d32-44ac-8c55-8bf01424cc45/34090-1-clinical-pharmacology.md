@@ -4,20 +4,20 @@
 
 ### Absorption
 
-Blood level studies comparing clindamycin palmitate HCl with clindamycin hydrochloride show that both drugs reach their peak active serum levels at the same time, indicating a rapid hydrolysis of the palmitate to the clindamycin.
+Pharmacokinetic studies comparing clindamycin palmitate HCl with clindamycin hydrochloride show that both drugs reach their peak active serum concentrations at the same time, indicating a rapid hydrolysis of the palmitate to the clindamycin.
 
-Serum level studies with clindamycin palmitate HCl in normal pediatric patients weighing 50-100 lbs given 2, 3 or 4 mg/kg every 6 hours (8, 12 or 16 mg/kg/day) demonstrated mean peak clindamycin serum levels of 1.24, 2.25 and 2.44 mcg/mL respectively, one hour after the first dose.
+Pharmacokinetic studies with clindamycin palmitate HCl in normal pediatric patients weighing 50-100 lbs given 2, 3 or 4 mg/kg every 6 hours (8, 12 or 16 mg/kg/day) demonstrated mean peak clindamycin serum concentrations of 1.24, 2.25 and 2.44 mcg/mL respectively, one hour after the first dose.
 By the fifth dose, the 6-hour serum concentration had reached equilibrium.
 Peak serum concentrations after this time would be about 2.46, 2.98 and 3.79 mcg/mL with doses of 8, 12 and 16 mg/kg/day, respectively.
-Serum levels have been uniform and predictable from person to person and dose to dose.
+Serum concentrations have been uniform and predictable from person to person and dose to dose.
 
 ### Distribution
 
 Multiple-dose studies in neonates and infants up to 6 months of age show that the drug does not accumulate in the serum and is excreted rapidly.
-Serum levels exceed the MICs for most indicated organisms for at least six hours following administration of the usually recommended doses of CLEOCIN PEDIATRIC in adults and pediatric patients.
+Serum concentrations exceed the MICs for most indicated organisms for at least six hours following administration of the usually recommended doses of CLEOCIN PEDIATRIC in adults and pediatric patients.
 Clindamycin is widely distributed in body fluids and tissues (including bones).
 
-No significant levels of clindamycin are attained in the cerebrospinal fluid, even in the presence of inflamed meninges.
+No significant concentrations of clindamycin are attained in the cerebrospinal fluid, even in the presence of inflamed meninges.
 
 ### Metabolism
 
@@ -29,7 +29,7 @@ Approximately 10% of the bioactivity is excreted in the urine and 3.6% in the fe
 
 The average serum half-life after doses of CLEOCIN PEDIATRIC is approximately two hours in pediatric patients.
 
-### Special Populations
+### Specific Populations
 
 #### Patients with Renal/Hepatic Impairment
 
@@ -40,7 +40,7 @@ Dosage schedules do not need to be modified in patients with renal or hepatic di
 #### Elderly Patients
 
 Pharmacokinetic studies in elderly volunteers (61-79 years) and younger adults (18-39 years) indicate that age alone does not alter clindamycin pharmacokinetics (clearance, elimination half-life, volume of distribution, and area under the serum concentration-time curve) after IV administration of clindamycin phosphate.
-After oral administration of clindamycin hydrochloride, elimination half-life is increased to approximately 4.0 hours (range 3.4 – 5.1 h) in the elderly compared to 3.2 hours (range 2.1 – 4.2 h) in younger adults; administration of clindamycin palmitate HCl resulted in a similar elimination half-life value of about 4.5 hours in elderly subjects.
+After oral administration of clindamycin hydrochloride, the average elimination half-life is increased to approximately 4.0 hours (range 3.4 – 5.1 h) in the elderly compared to 3.2 hours (range 2.1 – 4.2 h) in younger adults; administration of clindamycin palmitate HCl resulted in a similar elimination half-life value of about 4.5 hours in elderly subjects.
 However, the extent of absorption is not different between age groups and no dosage alteration is necessary for the elderly with normal hepatic function and normal (age-adjusted) renal function1.
 
 #### Obese Pediatric Patients Aged 2 to Less than 18 Years and Obese Adults Aged 18 to 20 Years
@@ -63,15 +63,15 @@ Macrolide-resistant isolates of staphylococci and beta-hemolytic streptococci sh
 
 ### Antimicrobial Activity
 
-Clindamycin has been shown to be active against most of the isolates of the following microorganisms, both in vitro and in clinical infections, as described in the INDICATIONS AND USAGE section.
+Clindamycin has been shown to be active against most of the isolates of the following microorganisms, both in vitro and in clinical infections (see INDICATIONS AND USAGE).
 
-Gram-positive Bacteria
+Gram-positive bacteria
 
 - Staphylococcus aureus (methicillin-susceptible strains)
 - Streptococcus pneumoniae (penicillin-susceptible strains)
 - Streptococcus pyogenes
 
-Anaerobic Bacteria
+Anaerobic bacteria
 
 - Clostridium perfringens
 - Fusobacterium necrophorum
@@ -79,10 +79,11 @@ Anaerobic Bacteria
 - Peptostreptococcus anaerobius
 - Prevotella melaninogenica
 
-At least 90% of the microorganisms listed below exhibit in vitro minimum inhibitory concentrations (MICs) less than or equal to the clindamycin susceptible MIC breakpoint for organisms of a similar type.
-However, the efficacy of clindamycin in treating clinical infections due to these microorganisms has not been established in adequate and well-controlled clinical trials.
+The following in vitro data are available, but their clinical significance is unknown.
+At least 90% of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for clindamycin against isolates of a similar genus or organism group.
+However, the efficacy of clindamycin in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
 
-Gram-positive Bacteria
+Gram-positive bacteria
 
 - Staphylococcus epidermidis (methicillin-susceptible strains)
 - Streptococcus agalactiae
@@ -90,7 +91,7 @@ Gram-positive Bacteria
 - Streptococcus mitis
 - Streptococcus oralis
 
-Anaerobic Bacteria
+Anaerobic bacteria
 
 - Actinomyces israelii
 - Clostridium clostridioforme

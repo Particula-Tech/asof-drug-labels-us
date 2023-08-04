@@ -31,9 +31,7 @@ Clindamycin is potentially nephrotoxic and cases with acute kidney injury have b
 Consider monitoring of renal function particularly in patients with pre-existing renal dysfunction or those taking concomitant nephrotoxic drugs.
 In case of acute kidney injury, discontinue CLEOCIN PEDIATRIC when no other etiology is identified.
 
-## Usage in Meningitis
-
-Since clindamycin does not diffuse adequately into the cerebrospinal fluid, the drug should not be used in the treatment of meningitis.
+Usage in Meningitis: Since clindamycin does not diffuse adequately into the cerebrospinal fluid, the drug should not be used in the treatment of meningitis.
 
 # PRECAUTIONS
 
