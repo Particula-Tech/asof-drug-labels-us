@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA217656"
+  ],
+  "inn": "icosapent-ethyl",
+  "labeler": "Zydus Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "70710-1592-7",
+    "70710-1738-4"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "icosapent ethyl",
+      "name": "icosapent ethyl"
+    }
+  ],
+  "setid": "5910742b-c5e6-4029-9a19-97669e3808bc",
+  "source": "dailymed"
+}

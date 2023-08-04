@@ -1,0 +1,7 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Increased Bleeding Risk with Anticoagulants and Antiplatelet Agents
+
+Some published studies with omega-3 fatty acids have demonstrated prolongation of bleeding time.
+The prolongation of bleeding time reported in those studies has not exceeded normal limits and did not produce clinically significant bleeding episodes.
+Monitor patients receiving icosapent ethyl and concomitant anticoagulants and/or antiplatelet agents for bleeding.
