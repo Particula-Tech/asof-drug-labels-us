@@ -7,5 +7,5 @@ For single-dose only.
 The product should be used within 6 hours after opening.
 Do not refrigerate or freeze.
 The vial stopper is not made with natural rubber latex.
-Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
+Distributed by: Eugia US LLC 279 Princeton-Hightstown Rd.
 E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad - 500032 India

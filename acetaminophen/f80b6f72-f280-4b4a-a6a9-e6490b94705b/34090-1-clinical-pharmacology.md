@@ -29,7 +29,7 @@ Acetaminophen Pharmacokinetic Parameters
 
 | Subpopulations | Mean (SD) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| AUC 0-6h (mcg× h/mL) | C max mcg/mL) | T½ (h) | CL (L/h/kg) | Vss (L/kg) |  |
+| AUC 0-6h (mcg × h/mL) | C max (mcg/mL) | T½ (h) | CL (L/h/kg) | Vss (L/kg) |  |
 | Children | 38 (8) | 29 (7) | 3.0 (1.5) | 0.34 (0.10) | 1.2 (0.3) |
 | Adolescents | 41 (7) | 31 (9) | 2.9 (0.7) | 0.29 (0.08) | 1.1 (0.3) |
 | Adults | 43 (11) | 28 (21) | 2.4 (0.6) | 0.27 (0.08) | 0.8 (0.2) |

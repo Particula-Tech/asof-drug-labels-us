@@ -1,4 +1,4 @@
-# WARNING: RISK OF MEDICATION ERRORS AND HEPATOTOXICITY
+# WARNING: Risk of Medication Errors and Hepatotoxicity
 
 Take care when prescribing, preparing, and administering Acetaminophen Injection to avoid dosing errors which could result in accidental overdose and death.
 In particular, be careful to ensure that:
