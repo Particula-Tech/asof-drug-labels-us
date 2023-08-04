@@ -12,8 +12,8 @@ Distributor:
 
 Dr. Reddy’s Laboratories Inc.,
 
-Princeton NJ 08540, USA
+Princeton NJ, 08540, USA
 
 Made in India
 
-Revised: 0520
+Revised: 0623
