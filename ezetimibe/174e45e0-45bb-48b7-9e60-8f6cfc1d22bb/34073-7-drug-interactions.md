@@ -1,32 +1,16 @@
 # 7 DRUG INTERACTIONS
 
-[See Clinical Pharmacology (12.3).]
+Table 3 includes a list of drugs with clinically important drug interactions when administered concomitantly with ZETIA and instructions for preventing or managing them.
 
-## 7.1 Cyclosporine
+Table 3: Clinically Important Drug Interactions with ZETIA
 
-Caution should be exercised when using ZETIA and cyclosporine concomitantly due to increased exposure to both ezetimibe and cyclosporine.
-Cyclosporine concentrations should be monitored in patients receiving ZETIA and cyclosporine.
-
-The degree of increase in ezetimibe exposure may be greater in patients with severe renal insufficiency.
-In patients treated with cyclosporine, the potential effects of the increased exposure to ezetimibe from concomitant use should be carefully weighed against the benefits of alterations in lipid levels provided by ezetimibe.
-
-## 7.2 Fibrates
-
-The efficacy and safety of coadministration of ezetimibe with fibrates other than fenofibrate have not been studied.
-
-Fibrates may increase cholesterol excretion into the bile, leading to cholelithiasis.
-In a preclinical study in dogs, ezetimibe increased cholesterol in the gallbladder bile [see Nonclinical Toxicology (13.2)].
-Coadministration of ZETIA with fibrates other than fenofibrate is not recommended until use in patients is adequately studied.
-
-## 7.3 Fenofibrate
-
-If cholelithiasis is suspected in a patient receiving ZETIA and fenofibrate, gallbladder studies are indicated and alternative lipid-lowering therapy should be considered [see Adverse Reactions (6.1) and the product labeling for fenofibrate].
-
-## 7.4 Cholestyramine
-
-Concomitant cholestyramine administration decreased the mean area under the curve (AUC) of total ezetimibe approximately 55%.
-The incremental LDL-C reduction due to adding ezetimibe to cholestyramine may be reduced by this interaction.
-
-## 7.5 Coumarin Anticoagulants
-
-If ezetimibe is added to warfarin, a coumarin anticoagulant, the International Normalized Ratio (INR) should be appropriately monitored.
+| Cyclosporine |  |
+| --- | --- |
+| Clinical Impact: | Concomitant use of ZETIA and cyclosporine increases ezetimibe and cyclosporine concentrations. The degree of increase in ezetimibe exposure may be greater in patients with severe renal insufficiency [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Monitor cyclosporine concentrations in patients receiving ZETIA and cyclosporine. In patients treated with cyclosporine, weigh the potential effects of the increased exposure to ezetimibe from concomitant use against the benefits of alterations in lipid levels provided by ZETIA. |
+| Fibrates |  |
+| Clinical Impact: | Both fenofibrate and ezetimibe may increase cholesterol excretion into the bile, leading to cholelithiasis. Co-administration of ZETIA with fibrates other than fenofibrate is not recommended [see Adverse Reactions (6.1)]. |
+| Intervention: | If cholelithiasis is suspected in a patient receiving ZETIA and fenofibrate, gallbladder studies are indicated, and alternative lipid-lowering therapy should be considered. |
+| Bile Acid Sequestrants |  |
+| Clinical Impact: | Concomitant cholestyramine administration decreased the mean exposure of total ezetimibe. This may result in a reduction of efficacy [see Clinical Pharmacology (12.3)]. |
+| Intervention: | In patients taking a bile acid sequestrant, administer ZETIA at least 2 hours before or 4 hours after the bile acid sequestrant [see Dosage and Administration (2)]. |

@@ -1,12 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ZETIA, 10 mg, are white to off-white, capsule-shaped tablets debossed with "414" on one side.
-They are supplied as follows:
+ZETIA 10 mg tablets are white to off-white, capsule-shaped, and debossed with "414" on one side and are supplied as follows:
 
-NDC 78206-178-01 bottles of 30
+| Package Size | NDC |
+| --- | --- |
+| Bottle of 30 tablets | 78206-178-01 |
 
-Storage
-
-Store at 25°C (77°F); excursions permitted to 15–30°C (59–86°F).
-[See USP Controlled Room Temperature.]
+Store ZETIA at room temperature between 68°F to 77°F (20°C to 25°C).
 Protect from moisture.

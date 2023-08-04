@@ -1,116 +1,35 @@
-| ZETIA® (ezetimibe) Tablets Patient Information about ZETIA (zĕt´-ē-ă) Generic name: ezetimibe (ĕ-zĕt´-ĕ-mīb) |
-| --- |
-
-Read this information carefully before you start taking ZETIA® and each time you get more ZETIA.
-There may be new information.
-This information does not take the place of talking with your doctor about your medical condition or your treatment.
-If you have any questions about ZETIA, ask your doctor.
-Only your doctor can determine if ZETIA is right for you.
-
-What is ZETIA?
-
-ZETIA is a medicine used to lower levels of total cholesterol and LDL (bad) cholesterol in the blood.
-ZETIA is for patients who cannot control their cholesterol levels by diet and exercise alone.
-It can be used by itself or with other medicines to treat high cholesterol.
-You should stay on a cholesterol-lowering diet while taking this medicine.
-
-ZETIA works to reduce the amount of cholesterol your body absorbs.
-ZETIA does not help you lose weight.
-ZETIA has not been shown to prevent heart disease or heart attacks.
-
-For more information about cholesterol, see the "What should I know about high cholesterol?" section that follows.
-
-Who should not take ZETIA?
-
-- Do not take ZETIA if you are allergic to ezetimibe, the active ingredient in ZETIA, or to the inactive ingredients.
-  For a list of inactive ingredients, see the "Inactive ingredients" section that follows.
-- If you have active liver disease, do not take ZETIA while taking cholesterol-lowering medicines called statins.
-- If you are pregnant or breastfeeding, do not take ZETIA while taking a statin.
-- If you are a woman of childbearing age, you should use an effective method of birth control to prevent pregnancy while using ZETIA added to statin therapy.
-
-ZETIA has not been studied in children under age 10.
-
-What should I tell my doctor before and while taking ZETIA?
-
-Tell your doctor about any prescription and nonprescription medicines you are taking or plan to take, including natural or herbal remedies.
-
-Tell your doctor about all your medical conditions including allergies.
-
-Tell your doctor if you:
-
-- ever had liver problems.
-  ZETIA may not be right for you.
-- are pregnant or plan to become pregnant.
-  Your doctor will discuss with you whether ZETIA is right for you.
-- are breastfeeding.
-  We do not know if ZETIA can pass to your baby through your milk.
-  Your doctor will discuss with you whether ZETIA is right for you.
-- experience unexplained muscle pain, tenderness, or weakness.
-
-How should I take ZETIA?
-
-- Take ZETIA once a day, with or without food.
-  It may be easier to remember to take your dose if you do it at the same time every day, such as with breakfast, dinner, or at bedtime.
-  If you also take another medicine to reduce your cholesterol, ask your doctor if you can take them at the same time.
-- If you forget to take ZETIA, take it as soon as you remember.
-  However, do not take more than one dose of ZETIA a day.
-- Continue to follow a cholesterol-lowering diet while taking ZETIA.
-  Ask your doctor if you need diet information.
-- Keep taking ZETIA unless your doctor tells you to stop.
-  It is important that you keep taking ZETIA even if you do not feel sick.
-
-See your doctor regularly to check your cholesterol level and to check for side effects.
-Your doctor may do blood tests to check your liver before you start taking ZETIA with a statin and during treatment.
-
-What are the possible side effects of ZETIA?
-
-In clinical studies patients reported few side effects while taking ZETIA.
-These included diarrhea, joint pains, and feeling tired.
-
-Patients have experienced severe muscle problems while taking ZETIA, usually when ZETIA was added to a statin drug.
-If you experience unexplained muscle pain, tenderness, or weakness while taking ZETIA, contact your doctor immediately.
-You need to do this promptly, because on rare occasions, these muscle problems can be serious, with muscle breakdown resulting in kidney damage.
-
-Additionally, the following side effects have been reported in general use: allergic reactions (which may require treatment right away) including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing, rash, and hives; raised red rash, sometimes with target-shaped lesions; joint pain; muscle aches; alterations in some laboratory blood tests; liver problems; stomach pain; inflammation of the pancreas; nausea; dizziness; tingling sensation; depression; headache; gallstones; inflammation of the gallbladder.
-
-Tell your doctor if you are having these or any other medical problems while on ZETIA.
-For a complete list of side effects, ask your doctor or pharmacist.
-
-What should I know about high cholesterol?
-
-Cholesterol is a type of fat found in your blood.
-Your total cholesterol is made up of LDL and HDL cholesterol.
-
-LDL cholesterol is called "bad" cholesterol because it can build up in the wall of your arteries and form plaque.
-Over time, plaque build-up can cause a narrowing of the arteries.
-This narrowing can slow or block blood flow to your heart, brain, and other organs.
-High LDL cholesterol is a major cause of heart disease and one of the causes for stroke.
-
-HDL cholesterol is called "good" cholesterol because it keeps the bad cholesterol from building up in the arteries.
-
-Triglycerides also are fats found in your blood.
-
-General information about ZETIA
-
-Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
-Do not use ZETIA for a condition for which it was not prescribed.
-Do not give ZETIA to other people, even if they have the same condition you have.
-It may harm them.
-
-This summarizes the most important information about ZETIA.
-If you would like more information, talk with your doctor.
-You can ask your pharmacist or doctor for information about ZETIA that is written for health professionals.
-
-Inactive ingredients:
-
-Croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, and sodium lauryl sulfate.
-
-Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA
-
-For patent information: www.organon.com/our-solutions/patent/
-
-Copyright © 2021 Organon Global Inc. All rights reserved.
-
-Revised: 6/2021
-
-usppi-og0653-t-2106r000
+| PATIENT INFORMATION ZETIA [zeh-TEE-uh] (ezetimibe) tablets, for oral use |  |  |  |
+| --- | --- | --- | --- |
+| Read this information carefully before you start taking ZETIA® and each time you get more ZETIA. There may be new information. This information does not take the place of talking with your doctor about your medical condition or your treatment. If you have any questions about ZETIA, ask your doctor. Only your doctor can determine if ZETIA is right for you. |  |  |  |
+| What is ZETIA? |  |  |  |
+| ZETIA is a medicine used with a cholesterol lowering diet: |  |  |  |
+| and with other cholesterol medicines called a statin, or alone (when additional cholesterol lowering treatments are not possible), to lower elevated low-density lipoprotein cholesterol (LDL-C) or bad cholesterol in adults with primary hyperlipidemia (too many fats in your blood), including heterozygous familial hypercholesterolemia (HeFH). HeFH is an inherited condition that causes high levels of bad cholesterol.and with a statin to lower LDL-C in adults and children 10 years of age and older with HeFH.and with a medicine called fenofibrate to lower elevated LDL-C in adults with mixed hyperlipidemia. to lower elevated sitosterol and campesterol levels in adults and in children 9 years of age and older with homozygous familial sitosterolemia (a rare inherited condition that prevents the body from getting rid of cholesterol from plants). |  |  |  |
+| ZETIA is also used: |  |  |  |
+| with a statin and other cholesterol lowering treatments to lower elevated LDL-C levels in adults and patients 10 years of age and older with homozygous familial hypercholesterolemia (HoFH). HoFH is an inherited condition that causes high levels of bad cholesterol. |  |  |  |
+| The safety and effectiveness of ZETIA has not been established in children: |  |  |  |
+| younger than 10 years of age with HeFH or HoFH.younger than 9 years of age with homozygous familial sitosterolemia.with other types of hyperlipemia. |  |  |  |
+| Do not take ZETIA: |  |  |  |
+| if you are allergic to ezetimibe or any of the ingredients in ZETIA. See the end of this Patient Information leaflet for a complete list of ingredients in ZETIA. Stop using ZETIA and get medical help right away if you have symptoms of a serious allergic reaction including: swelling of the face, tongue, or throatdifficulty breathing or swallowingfainting or feeling dizzyvery fast heartbeatsevere skin rash, hives, and itchingflu-like symptoms including fever, sore throat, cough, tiredness, and joint pain with certain statins, fenofibrate, or other LDL-C lowering medicines if your healthcare provider has told you not to take them. |  |  |  |
+| Before you take ZETIA, tell your healthcare provider about all your medical conditions, including if you: have liver problems. ZETIA may not be right for you. are pregnant or plan to become pregnant. It is not known if ZETIA will harm your unborn baby. You and your healthcare provider should decide if you will take ZETIA while you are pregnant. are breastfeeding. It is not known if ZETIA passes into your breast milk. You and your healthcare provider should decide the best way to feed your baby if you take ZETIA. |  |  |  |
+| Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. Talk to your healthcare provider before you start taking any new medicines. |  |  |  |
+| Taking ZETIA with certain other medicines may affect each other causing side effects. ZETIA may affect the way other medicines work, and other medicines may affect how ZETIA works. |  |  |  |
+| Especially tell your healthcare provider if you take: cyclosporine (a medicine for your immune system)fibrates (medicine for lowering cholesterol) bile acid sequestrants (medicine for lowering LDL-C) |  |  |  |
+| Ask your healthcare provider or pharmacist for a list of medicines if you are not sure. Know the medicines you take. Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine. |  |  |  |
+| How should I take ZETIA? Take ZETIA 1-time each day, with or without food. It may be easier to remember to take your dose if you do it at the same time every day, such as with breakfast, dinner, or at bedtime. If you also take another medicine to reduce your cholesterol, ask your healthcare provider if you can take them at the same time. If you miss a dose, take it as soon as you remember. If you do not remember until it is time for your next dose, skip the missed dose and go back to your regular schedule. Do not take 2 doses of ZETIA at the same time. While taking ZETIA, continue to follow your cholesterol-lowering diet and to exercise as your healthcare provider told you to.If you take a medicine called a bile acid sequestrant, take ZETIA at least 2 hours before or 4 hours after you take the bile acid sequestrant. Your healthcare provider may do blood tests to check your LDL-C levels as early as 4 weeks after starting treatment with ZETIA.In case of an overdose, get medical help or contact a live Poison Center expert right away at 1-800-222-1222. Advice is also available online at poisonhelp.org. |  |  |  |
+| What are the possible side effects of ZETIA? ZETIA may cause serious side effects including: increased liver enzymes. An increase in liver enzymes can happen in people taking ZETIA alone or with statins. Your healthcare provider may do blood tests to check your liver before and during treatment. Your healthcare provider may need to change or stop your treatment with ZETIA because of an increase in liver enzymes.muscle pain, tenderness, and weakness (myopathy). Muscle problems, including muscle breakdown (rhabdomyolysis) can happen. Tell your healthcare provider right away if: you have unexplained muscle pain, tenderness, weakness, feel more tired than usual, or fever.you have muscle problems that do not go away even after your healthcare provider has advised you to stop taking ZETIA. Your healthcare provider may do further tests to diagnose the cause of your muscle problems. |  |  |  |
+| Your chances of getting muscle problems are higher if you are also taking statins or fibrates. The most common side effects of ZETIA taken alone include: |  |  |  |
+| upper respiratory tract infectiondiarrhea | joint paininflammation of the sinuses | pain in arms or legsfeeling tired | flu-like symptoms |
+| The most common side effects of ZETIA taken with a statin include: |  |  |  |
+| runny nose, sore throat muscle aches and pains upper respiratory tract infection |  | joint paindiarrheaback pain | flu-like symptoms pain in arms or legs feeling tired |
+| Tell your healthcare provider if you have any side effect that bothers you or does not go away. |  |  |  |
+| These are not all the possible side effects of ZETIA. |  |  |  |
+| Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |
+| How should I store ZETIA? Store ZETIA at room temperature between 68ºF to 77ºF (20ºC to 25ºC).Protect from moisture. |  |  |  |
+| Keep ZETIA and all medicines out of the reach of children. |  |  |  |
+| General information about safe and effective use of ZETIA. |  |  |  |
+| Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use ZETIA for a condition for which it was not prescribed. Do not give ZETIA to other people, even if they have the same symptoms you have. It may harm them. You can ask your pharmacist or healthcare provider for information about ZETIA that is written for health professionals. |  |  |  |
+| What are the ingredients in ZETIA? |  |  |  |
+| Active ingredient: ezetimibe. |  |  |  |
+| Inactive ingredients: croscarmellose sodium NF, lactose monohydrate NF, magnesium stearate NF, microcrystalline cellulose NF, povidone USP, and sodium lauryl sulfate NF. |  |  |  |
+| Manuf. for: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA For patent information: www.organon.com/our-solutions/patent/ © 2023 Organon group of companies. All rights reserved. For more information, go to www.organon.com/our-focus/products-list/ or call 1-844-674-3200. usppi-og0653-t-2307r001 |  |  |  |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  | Revised: 7/2023 |

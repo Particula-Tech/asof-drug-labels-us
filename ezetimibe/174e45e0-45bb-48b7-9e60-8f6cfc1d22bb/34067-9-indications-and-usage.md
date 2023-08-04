@@ -1,32 +1,11 @@
 # 1 INDICATIONS AND USAGE
 
-Therapy with lipid-altering agents should be only one component of multiple risk factor intervention in individuals at significantly increased risk for atherosclerotic vascular disease due to hypercholesterolemia.
-Drug therapy is indicated as an adjunct to diet when the response to a diet restricted in saturated fat and cholesterol and other nonpharmacologic measures alone has been inadequate.
+ZETIA® is indicated:
 
-## 1.1 Primary Hyperlipidemia
+- In combination with a statin, or alone when additional low-density lipoprotein cholesterol (LDL-C) lowering therapy is not possible, as an adjunct to diet to reduce elevated LDL-C in adults with primary hyperlipidemia, including heterozygous familial hypercholesterolemia (HeFH).
+- In combination with a statin as an adjunct to diet to reduce elevated LDL-C in pediatric patients 10 years of age and older with HeFH.
+- In combination with fenofibrate as an adjunct to diet to reduce elevated LDL-C in adults with mixed hyperlipidemia.
+- In combination with a statin, and other LDL-C lowering therapies, to reduce elevated LDL-C levels in adults and in pediatric patients 10 years of age and older with homozygous familial hypercholesterolemia (HoFH).
+- As an adjunct to diet for the reduction of elevated sitosterol and campesterol levels in adults and in pediatric patients 9 years of age and older with homozygous familial sitosterolemia.
 
-Monotherapy
-
-ZETIA®, administered alone, is indicated as adjunctive therapy to diet for the reduction of elevated total cholesterol (total-C), low-density lipoprotein cholesterol (LDL-C), apolipoprotein B (Apo B), and non-high-density lipoprotein cholesterol (non-HDL-C) in patients with primary (heterozygous familial and non-familial) hyperlipidemia.
-
-Combination Therapy with HMG-CoA Reductase Inhibitors (Statins)
-
-ZETIA, administered in combination with a 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase inhibitor (statin), is indicated as adjunctive therapy to diet for the reduction of elevated total-C, LDL-C, Apo B, and non-HDL-C in patients with primary (heterozygous familial and non-familial) hyperlipidemia.
-
-Combination Therapy with Fenofibrate
-
-ZETIA, administered in combination with fenofibrate, is indicated as adjunctive therapy to diet for the reduction of elevated total-C, LDL-C, Apo B, and non-HDL-C in adult patients with mixed hyperlipidemia.
-
-## 1.2 Homozygous Familial Hypercholesterolemia (HoFH)
-
-The combination of ZETIA and atorvastatin or simvastatin is indicated for the reduction of elevated total-C and LDL-C levels in patients with HoFH, as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) or if such treatments are unavailable.
-
-## 1.3 Homozygous Sitosterolemia
-
-ZETIA is indicated as adjunctive therapy to diet for the reduction of elevated sitosterol and campesterol levels in patients with homozygous familial sitosterolemia.
-
-## 1.4 Limitations of Use
-
-The effect of ZETIA on cardiovascular morbidity and mortality has not been determined.
-
-ZETIA has not been studied in Fredrickson Type I, III, IV, and V dyslipidemias.
+When ZETIA is used in combination with a statin, fenofibrate, or other LDL-C lowering therapies, refer to the Prescribing Information of these products for information on the safe and effective use.
