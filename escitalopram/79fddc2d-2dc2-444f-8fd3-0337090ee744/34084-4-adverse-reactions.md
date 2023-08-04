@@ -198,6 +198,6 @@ Pregnancy, Puerperium and Perinatal Conditions: spontaneous abortion.
 Psychiatric Disorders: acute psychosis, aggression, agitation, anger, anxiety, apathy, completed suicide, confusion, depersonalization, depression aggravated, delirium, delusion, disorientation, feeling unreal, hallucinations (visual and auditory), mood swings, nervousness, nightmare, panic reaction, paranoia, restlessness, self-harm or thoughts of self-harm, suicide attempt, suicidal ideation, suicidal tendency.
 Renal and Urinary Disorders: acute renal failure, dysuria, urinary retention.
 Reproductive System and Breast Disorders: menorrhagia, priapism.
-Respiratory, Thoracic and Mediastinal Disorders: dyspnea, epistaxis, pulmonary embolism, pulmonary hypertension of the newborn.
-Skin and Subcutaneous Tissue Disorders: alopecia, angioedema, dermatitis, ecchymosis, erythema multiforme, photosensitivity reaction, Stevens Johnson Syndrome, toxic epidermal necrolysis, urticaria.
+Respiratory, Thoracic and Mediastinal Disorders: dyspnea, epistaxis, pulmonary embolism, pulmonary hypertension of the newborn, anosmia, hyposmia.
+Skin and Subcutaneous Tissue Disorders: alopecia, angioedema, dermatitis, ecchymosis, erythema multiforme, photosensitivity reaction, Stevens Johnson Syndrome, toxic epidermal necrolysis, urticaria, drug reaction with eosinophilia and systemic symptoms (DRESS).
 Vascular Disorders: deep vein thrombosis, flushing, hypertensive crisis, hypotension, orthostatic hypotension, phlebitis, thrombosis.

@@ -154,6 +154,7 @@ Before starting escitalopram oral solution, tell your healthcare provider if you
   - Triptans used to treat migraine headache
   - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
   - Tramadol
+  - Meperidine and methadone
   - Over-the-counter supplements such as tryptophan or St. John’s Wort
 - have liver problems
 - have kidney problems
@@ -257,4 +258,4 @@ What are the ingredients in escitalopram oral solution?
 Active ingredient: escitalopram oxalate Inactive ingredients: anhydrous citric acid, DL – malic acid, glycerin, methylparaben, natural peppermint flavor, noncrystalizing sorbitol solution, propylene glycol, propylparaben, purified water, and sodium citrate.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
 Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Orap® is a registered trademark of Teva Pharmaceuticals USA.
-Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 Revised: 11/2021 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 Revised: 07/2023 This Medication Guide has been approved by the U.S. Food and Drug Administration.

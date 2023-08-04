@@ -27,21 +27,8 @@ Consider changing the therapeutic regimen, including possibly discontinuing esci
 
 ## 5.2 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including escitalopram oral solution, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
-
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination) seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Patients should be monitored for the emergence of serotonin syndrome.
-
-The concomitant use of escitalopram oral solution with MAOIs intended to treat psychiatric disorders is contraindicated.
-Escitalopram oral solution should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
-All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
-No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
-There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking escitalopram oral solution.
-Escitalopram oral solution should be discontinued before initiating treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration (2.5 and 2.6)].
-
-If concomitant use of escitalopram oral solution with other serotonergic drugs including, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamine and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
-
-Treatment with escitalopram oral solution and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+SSRIs, including escitalopram oral solution, can precipitate serotonin syndrome, a potentially life-threatening condition.
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, meperidine, methadone, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4) and Drug Interactions (7)].
 
 ## 5.3 Discontinuation of Treatment with Escitalopram Oral Solution
 
@@ -80,11 +67,14 @@ Signs and symptoms associated with more severe and/or acute cases have included 
 
 ## 5.7 Abnormal Bleeding
 
-SSRIs and SNRIs, including escitalopram oral solution, may increase the risk of bleeding events.
-Concomitant use of aspirin, nonsteroidal antiinflammatory drugs, warfarin, and other anticoagulants may add to the risk.
+Drugs that interfere with serotonin reuptake inhibition, including escitalopram oral solution, increase the risk of bleeding events.
+Concomitant use of aspirin, nonsteroidal antiinflammatory drugs (NSAIDs), other antiplatelet drugs, warfarin, and other anticoagulants may add to the risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
-Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
-Patients should be cautioned about the risk of bleeding associated with the concomitant use of escitalopram oral solution and NSAIDs, aspirin, or other drugs that affect coagulation.
+Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum haemorrhage [see Use in Specific Populations (8.1)].
+Bleeding events related to drugs that interfere with serotonin reuptake have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
+
+Inform patients about the increased risk of bleeding associated with the concomitant use of escitalopram oral solution and antiplatelet agents or anticoagulants.
+For patients taking warfarin, carefully monitor the international normalized ratio [see Drug Interactions (7)].
 
 ## 5.8 Interference with Cognitive and Motor Performance
 
