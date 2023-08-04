@@ -52,7 +52,7 @@ If the timing of the acute acetaminophen ingestion is known and the results of t
 The nomogram may underestimate the hepatotoxicity risk in patients with chronic alcoholism, malnutrition, or CYP2E1 enzyme inducing drugs (e.g., isoniazid), and consideration should be given to treating these patients even if the acetaminophen concentrations are in the nontoxic range.
 Loading dose
 
-For patients whose acetaminophen concentrations are at or above the “possible” toxicity line (dotted line in nomogram).
+For patients whose acetaminophen concentrations are at or above the “possible” toxicity line (dotted line in nomogram):
 
 - Administer a loading dose of acetylcysteine injection [see Dosage and Administration (2.4)].
 
