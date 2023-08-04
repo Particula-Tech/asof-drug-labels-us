@@ -5,4 +5,4 @@ This may occur on instillation, within 48 hours, or at any time with extended us
 There are also multiple reports of hypersensitivity reactions consisting of lid edema, itching, increased redness, tearing, and/or circumocular rash.
 Photosensitivity has been reported in patients taking oral trimethoprim.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Bausch & Lomb Incorporated at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch & Lomb Incorporated at 1-800-553-5340 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

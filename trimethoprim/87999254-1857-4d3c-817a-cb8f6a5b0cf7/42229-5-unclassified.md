@@ -1,5 +1,3 @@
-(Sterile)
-
 Rx only
 
 FOR TOPICAL APPLICATION IN THE EYE
