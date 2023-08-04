@@ -1,12 +1,12 @@
 # Instructions for Use
 
-ZIEXTENZO™
+ZIEXTENZO®
 
 (pegfilgrastim-bmez)
 
 injection
 
-Single-dose prefilled syringe
+Single-dose prefilled syringe with needle guard
 
 Guide to Parts
 
@@ -37,14 +37,11 @@ Storing the ZIEXTENZO prefilled syringe
   Use a new ZIEXTENZO prefilled syringe.
 - •Throw away (dispose of) any ZIEXTENZO that has been left at room temperature 68°F to 95°F (20°C to 35°C) for more than 120 hours.
   See “14.
-  Disposing of used prefilled syringes”.Keep ZIEXTENZO and all medicines out of the reach of children.
+  Disposing of used syringes”.Keep ZIEXTENZO and all medicines out of the reach of children.
 
 Important information:
 
 - •It is important that you do not try to give the injection unless you or your caregiver have received training from your healthcare provider.
-- •The needle cap on the prefilled syringe contains natural rubber (made from latex).
-  Tell your healthcare provider if you are allergic to latex.
-  Do not handle the prefilled syringe if you are allergic to latex.
 - •Make sure that the name ZIEXTENZO appears on the carton and prefilled syringe label.
 - •Check the carton and prefilled syringe label to make sure the dose strength is 6 mg/0.6 mL.
 - •You should not inject a dose of ZIEXTENZO to children weighing less than 45 kg from a ZIEXTENZO prefilled syringe.
@@ -52,6 +49,9 @@ Important information:
 - •Do not use a ZIEXTENZO prefilled syringe after the expiration date on the label.
 - •Do not open the outer carton until you are ready to use the ZIEXTENZO prefilled syringe.
   Do not use the ZIEXTENZO prefilled syringe if the seal of the tray is broken, as it may not be safe for you to use.
+- •Do not use the ZIEXTENZO prefilled syringe if there is liquid in the plastic tray.
+  Do not use the ZIEXTENZO pre-filled syringe if the needle cap is missing or not securely attached.
+  In all these instances, return the entire product pack to the pharmacy.
 - •Do not use a prefilled syringe if it has been dropped on a hard surface.
   The prefilled syringe may be broken even if you cannot see the break.
   Use a new prefilled syringe.
@@ -61,9 +61,9 @@ Important information:
 - •Do not try to activate the needle safety guard before the injection.
 - •Do not remove the needle cap until just before you give the injection.
 - •Do not reuse a ZIEXTENZO prefilled syringe.
-  Throw away (dispose of) used prefilled syringes right away after use in a sharps disposal container.
+  Throw away (dispose of) used syringes right away after use in a sharps disposal container.
   See “14.
-  Disposing of used prefilled syringes”.
+  Disposing of used syringes”.
 
 Call your healthcare provider if you have any questions.
 
@@ -96,7 +96,7 @@ If the clear needle guard is covering the needle cap, as shown in Figure B above
 Do not try to use this prefilled syringe.
 Throw away (dispose of) this prefilled syringe.
 See “14.
-Disposing of used prefilled syringes”.
+Disposing of used syringes”.
 Start over with a new prefilled syringe.
 
 Inspect the prefilled syringe and medicine (See Figure E).
@@ -136,9 +136,9 @@ Prepare the ZIEXTENZO prefilled syringe for use
 | Figure L | 12. Slowly release the plunger and allow the syringe needle guard to automatically cover the exposed needle (See Figure L). 13. There may be a small amount of blood at the injection site. You can press a cotton ball or gauze pad onto the injection site. Do not rub the injection site. Apply an adhesive bandage if needed. |
 
 14.
-Disposing of used prefilled syringes
+Disposing of used syringes
 
-| Figure M | Put the used prefilled syringes in an FDA-cleared sharps disposal container right away after use (See Figure M). Do not throw away the syringe in the household trash. •If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:omade of a heavy-duty plasticocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come outoupright and stable during useoleak-resistantoproperly labeled to warn of hazardous waste inside the container.•When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles and syringes. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.•Do not reuse the prefilled syringe.•Do not recycle prefilled syringes or sharps disposal container or throw them into household trash. Important: Keep the sharps disposal container out of the reach of children. |
+| Figure M | Put the used syringes in an FDA-cleared sharps disposal container right away after use (See Figure M). Do not throw away the syringe in the household trash. •If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:omade of a heavy-duty plasticocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come outoupright and stable during useoleak-resistantoproperly labeled to warn of hazardous waste inside the container.•When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles and syringes. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.•Do not reuse the prefilled syringe.•Do not recycle prefilled syringes or sharps disposal container or throw them into household trash. Important: Keep the sharps disposal container out of the reach of children. |
 | --- | --- |
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
@@ -147,4 +147,4 @@ Manufactured by: Sandoz Inc. Princeton, NJ 08540
 
 US License No. 2003 Product of Slovenia.
 
-Revised: September 2020
+Revised: 09/2022
