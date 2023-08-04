@@ -1,6 +1,6 @@
 # SPL PATIENT PACKAGE INSERT
 
-Donepezil Hydrochloride Tablets (doe-NEP-e-zil HYE-droe-KLOR-ide) • Tablets: 5 mg and 10 mg • Tablets: 23 mg Donepezil Hydrochloride Orally Disintegrating Tablets (doe-NEP-e-zil HYE-droe-KLOR-ide) • Orally Disintegrating Tablets, USP: 5 mg and 10 mg Read this Patient Information that comes with donepezil hydrochloride before you start taking it and each time you get a refill.
+Donepezil Hydrochloride Tablets (doe-NEP-e-zil HYE-droe-KLOR-ide) • Tablets: 5 mg and 10 mg • Tablets: 23 mg Donepezil Hydrochloride Orally Disintegrating Tablets (doe-NEP-e-zil HYE-droe-KLOR-ide) • Orally Disintegrating Tablets: 5 mg and 10 mg Read this Patient Information that comes with donepezil hydrochloride before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about Alzheimer’s disease or treatment for it.
 If you have questions, ask the doctor or pharmacist.
@@ -74,7 +74,7 @@ Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should donepezil hydrochloride tablets be stored?
-Store donepezil hydrochloride tablets at room temperature between 59° to 86°F (15° to 30°C).
+Store donepezil hydrochloride tablets at room temperature between 59°F to 86°F (15°C to 30°C).
 
 Keep donepezil hydrochloride tablets and all medicines out of the reach of children.
 
@@ -95,7 +95,7 @@ Active ingredient: donepezil hydrochloride
 Inactive ingredients:
 
 - Donepezil hydrochloride tablets 5 mg and 10 mg film-coated tablets: lactose monohydrate, pregelatinised starch, microcrystalline cellulose, colloidal silicon dioxide and magnesium stearate.
-  The film coating contains talc, polyethylene glycol, hypromellose and titanium dioxide.
+  The film coating contains talc, propylene glycol, hypromellose and titanium dioxide.
   Additionally, the 10 mg tablet contains yellow iron oxide (synthetic) as a coloring agent.
 
 - Donepezil hydrochloride 23 mg film-coated tablets: hydroxypropyl cellulose, lactose monohydrate, magnesium stearate and hypromellose.
@@ -103,10 +103,12 @@ Inactive ingredients:
 
 - Donepezil hydrochloride orally disintegrating tablets 5 mg and 10 mg: mannitol, crospovidone, sucralose, sodium chloride, ferric oxide yellow and magnesium stearate.
 
+All trademarks are the property of their respective owners.
+
 Manufactured for: Macleods Pharma USA, Inc.
 
 Princeton, NJ 08540
 
 Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, India.
 
-Rev December 2022
+Rev August 2023

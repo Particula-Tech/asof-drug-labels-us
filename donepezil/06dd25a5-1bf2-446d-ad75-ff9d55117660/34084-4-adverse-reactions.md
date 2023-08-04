@@ -165,7 +165,7 @@ In this study, there were no important differences in the type of adverse reacti
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use donepezil hydrochloride.
+The following adverse reactions have been identified during post-approval use of donepezil hydrochloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Abdominal pain, agitation, aggression, cholecystitis, confusion, convulsions, hallucinations, heart block (all types), hemolytic anemia, hepatitis, hyponatremia, neuroleptic malignant syndrome, pancreatitis, rash, rhabdomyolysis, QTc prolongation, and torsade de pointes.

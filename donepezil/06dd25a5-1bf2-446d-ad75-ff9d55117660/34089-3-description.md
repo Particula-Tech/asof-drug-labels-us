@@ -7,7 +7,7 @@ Donepezil hydrochloride USP is a white crystalline powder and is freely soluble 
 
 Donepezil hydrochloride USP is available for oral administration in film-coated tablets containing 5, 10, or 23 mg of donepezil hydrochloride.
 Inactive ingredients in 5 mg and 10 mg tablets are lactose monohydrate, pregelatinised starch, microcrystalline cellulose, colloidal silicon dioxide and magnesium stearate.
-The film coating contains talc, polyethylene glycol, hypromellose and titanium dioxide.
+The film coating contains talc, propylene glycol, hypromellose and titanium dioxide.
 Additionally, the 10 mg tablet contains yellow iron oxide (synthetic) as a coloring agent.
 
 Inactive ingredients in 23 mg tablets include hydroxypropyl cellulose, lactose monohydrate, magnesium stearate and hypromellose.

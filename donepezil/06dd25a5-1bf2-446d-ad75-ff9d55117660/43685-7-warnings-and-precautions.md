@@ -2,7 +2,7 @@
 
 ## 5.1 Anesthesia
 
-Donepezil hydrochloride, as a cholinesterase inhibitor, is likely to exaggerate succinylcholine-type muscle relaxation during anesthesia.
+Donepezil hydrochloride as a cholinesterase inhibitor, is likely to exaggerate succinylcholine-type muscle relaxation during anesthesia.
 
 ## 5.2 Cardiovascular Conditions
 
