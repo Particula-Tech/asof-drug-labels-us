@@ -8,5 +8,5 @@ Specifically, inform patients to report:
 - any bleeding signs or symptoms.
 - the occurrence of any signs or symptoms of allergic reactions (e.g., airway reactions, skin reactions and vasodilation reactions) [see Adverse Reactions (6.1)].
 
-Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
+Distributed by: Eugia US LLC 279 Princeton-Hightstown Rd.
 E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad - 500032 India
