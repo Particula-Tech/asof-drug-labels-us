@@ -4,7 +4,7 @@ Ropivacaine hydrochloride injection, USP is a clear colorless, and preservative-
 
 Storage
 
-Solutions should be stored at 20º to 25°C (68º to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Solutions should be stored at 20º to 25°C (68º to 77°F) [see USP Controlled Room Temperature].
 
 Ropivacaine hydrochloride Single-Dose Vials
 
