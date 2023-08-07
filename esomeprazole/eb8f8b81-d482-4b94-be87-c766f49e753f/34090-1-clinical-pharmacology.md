@@ -65,7 +65,7 @@ The mean exposure (AUC) to esomeprazole increases from 4.32 micromol *hr/L on Da
 The AUC after administration of a single 40 mg dose of Esomeprazole Magnesium Delayed-release Capsules is decreased by 43% to 53% after food intake compared to fasting conditions [see Dosage and Administration (2.3)].
 The pharmacokinetics of esomeprazole in adult patients with symptomatic GERD following repeated once daily administration of 20 mg and 40 mg Esomeprazole Magnesium Delayed-release Capsules over a period of five days are shown in Table 6:
 
-Table 6: Geometric Mean (95% CI) Pharmacokinetic Parameters of Esomeprazole on Day 5 Following Once Daily Dosing of Magnesium Delayed-release Capsules in Adult Patients with Symptomatic GERD
+Table 6: Geometric Mean (95% CI) Pharmacokinetic Parameters of Esomeprazole on Day 5 Following Once Daily Dosing of Esomeprazole Magnesium Delayed-release Capsules in Adult Patients with Symptomatic GERD
 
 | Parameter1 (CV) | Esomeprazole Magnesium Delayed-release Capsules |  |
 | --- | --- | --- |
@@ -160,7 +160,7 @@ Table 8: Comparison of Esomeprazole Pharmacokinetic Parameters Following Once Da
 | Cmax (micromol/L) | 1.45 | 5.13 | 2.1 | 4.7 |
 | tmax (h) | 2.00 | 1.75 | 1.6 | 1.6 |
 | t1/2λz (h) | 0.82 | 1.22 | 1.2 | 1.5 |
-| Data presented are geometric means for AUC, Cmax and t½λz, and median value for tmax. |  |  |  |  |
+| Data presented are geometric means for AUC, Cmax and t&frac12;λz, and median value for tmax. |  |  |  |  |
 | 1. Data obtained from two independent studies |  |  |  |  |
 
 Male and Female Patients

@@ -1,4 +1,4 @@
-# Medication Guide
+# MEDICATION GUIDE
 
 Dispense with Medication Guide available at: www.lannett.com/med-guide/esomeprazole
 
@@ -13,7 +13,7 @@ Dispense with Medication Guide available at: www.lannett.com/med-guide/esomepraz
 | How should I store Esomeprazole Magnesium Delayed-release Capsules? Store Esomeprazole Magnesium Delayed-release Capsules at room temperature between 68°F to 77°F (20°C to 25°C).Keep the container of Esomeprazole Magnesium Delayed-release Capsules closed tightly. Keep Esomeprazole Magnesium Delayed-release Capsules and all medicines out of the reach of children. |
 | General information about the safe and effective use of Esomeprazole Magnesium Delayed-release Capsules.Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use Esomeprazole Magnesium Delayed-release Capsules for a condition for which it was not prescribed. Do not give Esomeprazole Magnesium Delayed-release Capsules to other people, even if they have the same symptoms you have. It may harm them. You can ask your pharmacist or doctor for information about Esomeprazole Magnesium Delayed-release Capsules that is written for health professionals. |
 | What are the ingredients in Esomeprazole Magnesium Delayed-release Capsules?Active ingredient: esomeprazole magnesium dihydrateInactive ingredients in Esomeprazole Magnesium Delayed-release Capsules (including the capsule shells): diglycerin, hypromellose, magnesium stearate, methacrylic acid and ethyl acrylate copolymer dispersion, monoglycerides, polysorbate 80, sugar spheres, talc, and triethyl citrate. The capsule shells have the following inactive ingredients: gelatin, FD&C Blue #1, sodium lauryl sulfate, and titanium dioxide. In addition, the 20 mg capsule shell contains FD & C Red #40 and the 40 mg capsule shell contains FD&C Red #3. The imprinting ink also contains ammonium hydroxide, butyl alcohol, black iron oxide, dehydrated alcohol, isopropyl alcohol, potassium hydroxide, propylene glycol and shellac. The 20 mg ink also contains titanium dioxide. The 40 mg ink may also contain n-butyl alcohol. |
-| Distributed by:Lannett Company, Inc.Philadelphia, PA 19136 All brand names are the trademarks of their respective owners.For more information, go to www.lannett.com or call 1-844-834-0530. This Medication Guide has been approved by the U.S. Food and Drug Administration.Rev. 03/2022 |
+| Distributed by:Lannett Company, Inc.Philadelphia, PA 19136 All brand names are the trademarks of their respective owners.For more information, go to www.lannett.com or call 1-844-834-0530. This Medication Guide has been approved by the U.S. Food and Drug Administration.Rev. 07/2023 |
 
 Instructions for Use
 
@@ -23,26 +23,20 @@ Esomeprazole Magnesium
 
 Delayed-release Capsules, USP
 
-Esomeprazole Magnesium Delayed-release Capsules may be given through a nasogastric tube (NG tube) or gastric tube, as prescribed by your doctor.
-Follow the instructions below:
+GivingEsomeprazole Magnesium Delayed-release Capsules with water through a nasogastric tube (NG tube) or gastric tube
 
 Esomeprazole Magnesium Delayed-release Capsules:
 
-• Open the capsule and empty the pellets into a 60 mL catheter tipped syringe.
-Mix with 50 mL of water.
-Use only a catheter tipped syringe to give Esomeprazole Magnesium through a NG tube.
+- Open the capsule and empty the pellets into a 60 mL catheter tipped syringe.
+  Mix with 50 mL of water.
+  Use only a catheter tipped syringe to give Esomeprazole Magnesium Delayed-release Capsules through a NG tube.
 
-• Replace the plunger and shake the syringe well for 15 seconds.
-Hold the syringe with the tip up and check for pellets in the tip.
-
-• Give the medicine right away.
-
-• Do not give the pellets if they have dissolved or have broken into pieces.
-
-• Attach the syringe to the NG tube.
-Give the medicine in the syringe through the NG tube into the stomach.
-
-• After giving the pellets, flush the NG tube with more water.
+- Replace the plunger and shake the syringe well for 15 seconds.
+  Hold the syringe with the tip up and check for pellets in the tip.
+- Do not give the pellets if they have dissolved or have broken into pieces.
+- Attach the syringe to the NG tube.
+  Give the medicine right away in the syringe through the NG tube into the stomach.
+- After giving the pellets, flush the NG tube with more water.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
@@ -52,7 +46,7 @@ Lannett Company, Inc.
 
 Philadelphia, PA 19136
 
-CIA77978G
+CIA77978H
 
 Rev.
-03/2022
+07/2023

@@ -11,7 +11,7 @@ Table 1: Recommended Dosage of Esomeprazole Magnesium Delayed-release Capsules i
 
 | Adult Indication | Recommended Dosage of Esomeprazole Magnesium Delayed-release Capsules | Treatment Duration |
 | --- | --- | --- |
-| Healing of EE | 20 mg or 40 mg1 once daily1 | 4 to 8 weeks2 |
+| Healing of EE | 20 mg or 40 mg1 once daily | 4 to 8 weeks2 |
 | Controlled studies do not extend beyond 6 months |  |  |
 | Maintenance of Healing of EE | 20 mg once daily |  |
 | Treatment of Symptomatic GERD | 20 mg once daily | 4 weeks; if symptoms do not resolve completely, consider an additional 4 weeks |
