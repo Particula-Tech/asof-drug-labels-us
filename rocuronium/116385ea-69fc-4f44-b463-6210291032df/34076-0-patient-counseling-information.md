@@ -4,5 +4,5 @@ Obtain information about your patient’s medical history, current medications, 
 If applicable, inform your patients that certain medical conditions and medications might influence how rocuronium bromide works.
 In addition, inform your patient that severe anaphylactic reactions to neuromuscular blocking agents, including rocuronium bromide, have been reported.
 Since allergic cross-reactivity has been reported in this class, request information from your patients about previous anaphylactic reactions to other neuromuscular blocking agents.
-Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
+Distributed by: Eugia US LLC 279 Princeton-Hightstown Rd.
 E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad - 500032 India
