@@ -33,9 +33,14 @@ Decreased Peripheral Blood Counts
 Advise patients that they may develop a lowering of their peripheral blood counts, including their white blood counts, red blood counts, and platelets, and that their blood counts will be checked during therapy with REBIF.
 Inform patients that they may be more likely to get infections, anemia, or be at risk for bleeding, and that they should contact their healthcare provider if they develop symptoms of these adverse reactions [see Warnings and Precautions (5.5)].
 
+Pulmonary Arterial Hypertension
+
+Inform patients that PAH has occurred in patients treated with interferon beta products, including REBIF.
+Instruct patients to promptly report any new symptoms such as new or increasing fatigue or shortness of breath to their healthcare provider [see Warnings and Precautions (5.7)].
+
 Seizures
 
-Instruct patients to report seizures immediately to their healthcare provider [see Warnings and Precautions (5.7)].
+Instruct patients to report seizures immediately to their healthcare provider [see Warnings and Precautions (5.8)].
 
 Flu-like Symptoms
 

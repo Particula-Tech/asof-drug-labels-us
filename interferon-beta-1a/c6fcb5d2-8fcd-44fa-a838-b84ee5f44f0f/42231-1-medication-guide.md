@@ -1,6 +1,4 @@
-# MEDICATION GUIDE
-
-REBIF (interferon beta-1a) Injection for subcutaneous use
+# MEDICATION GUIDE REBIF (interferon beta-1a) Injection for subcutaneous use
 
 Read this Medication Guide before you start using REBIF and each time you get a refill.
 There may be new information.
@@ -11,7 +9,7 @@ What is the most important information I should know about REBIF?
 REBIF can cause serious side effects.
 Tell your healthcare provider right away if you have any of the symptoms listed below while taking REBIF.
 
-1. 1.Behavioral health problems including depression andsuicidal thoughts.
+1. 1.Behavioral health problems including depression and suicidal thoughts.
    You may have mood problems including:
    - depression (feeling hopeless or feeling bad about yourself)
    - thoughts of hurting yourself or suicide
@@ -104,6 +102,10 @@ REBIF may cause serious side effects, including:
   In some people, these blood cell counts may fall to dangerously low levels.
   If your blood cell counts become very low, you can get infections and problems with bleeding and bruising.
   Your healthcare provider may ask you to have regular blood tests to check for blood problems.
+- Pulmonary arterial hypertension.
+  Pulmonary arterial hypertension can occur with interferon beta products, including REBIF.
+  Symptoms may include new fatigue or shortness of breath.
+  Contact your healthcare provider right away if you develop these symptoms.
 - Seizures.
   Some people have had seizures while taking REBIF.
 
@@ -159,4 +161,4 @@ Inactive ingredients: albumin (human), mannitol, sodium acetate, water for injec
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised 11/2021
+Revised 7/2023
