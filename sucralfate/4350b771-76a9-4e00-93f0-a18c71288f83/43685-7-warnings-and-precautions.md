@@ -46,8 +46,7 @@ Mutagenicity studies were not conducted.
 
 ## Pregnancy
 
-Teratogenic effects.
-Pregnancy Category B.
+Teratogenic effects
 
 Teratogenicity studies have been performed in mice, rats, and rabbits at doses up to 50 times the human dose and have revealed no evidence of harm to the fetus due to sucralfate.
 There are, however, no adequate and well-controlled studies in pregnant women.
