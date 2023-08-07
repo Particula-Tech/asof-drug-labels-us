@@ -8,4 +8,4 @@ Sterile Single Dose Vial
 
 Rx only NDC 55150-185-05 Esomeprazole Sodium for Injection 40 mg per vial* For Intravenous Use Only.
 Discard unused portion.
-Sterile 10 Single Dose Vials AUROMEDICS
+Sterile 10 Single Dose Vials eugia
