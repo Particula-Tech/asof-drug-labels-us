@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "BLA021211"
+  ],
+  "inn": "follitropin",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-129-01",
+    "78206-129-58",
+    "78206-129-59",
+    "78206-129-99",
+    "78206-130-01",
+    "78206-130-58",
+    "78206-130-59",
+    "78206-130-99",
+    "78206-131-01",
+    "78206-131-99"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "follitropin",
+      "name": "Follistim AQ"
+    }
+  ],
+  "setid": "48489027-e52b-4b10-ae74-4ba03839150c",
+  "source": "dailymed"
+}
