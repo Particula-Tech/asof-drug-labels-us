@@ -13,12 +13,12 @@ Less than one-third of ziprasidone metabolic clearance is mediated by cytochrome
 
 ## 7.2 In Vitro Studies
 
-An in vitro enzyme inhibition study utilizing human liver microsomes showed that ziprasidone had little inhibitory effect on CYP1A2, CYP2C9, CYP2C19, CYP2D6 and CYP3A4, and thus would not likely interfere with the metabolism of drugs primarily metabolized by these enzymes.
-There is little potential for drug interactions with ziprasidone due to displacement [see Clinical Pharmacology (12.3)].
+An in vitroenzyme inhibition study utilizing human liver microsomes showed that ziprasidone had little inhibitory effect on CYP1A2, CYP2C9, CYP2C19, CYP2D6 and CYP3A4, and thus would not likely interfere with the metabolism of drugs primarily metabolized by these enzymes.
+There is little potential for drug interactions with ziprasidone due to displacement [see Clinical Pharmacology(12.3)].
 
 ## 7.3 Pharmacodynamic Interactions
 
-Ziprasidone should not be used with any drug that prolongs the QT interval [see Contraindications (4.1)].
+Ziprasidone should not be used with any drug that prolongs the QT interval [see Contraindications(4.1)].
 
 Given the primary CNS effects of ziprasidone, caution should be used when it is taken in combination with other centrally acting drugs.
 
@@ -35,7 +35,7 @@ This effect may be greater when higher doses of carbamazepine are administered.
 
 Ketoconazole
 
-Ketoconazole, a potent inhibitor of CYP3A4, at a dose of 400 mg QD for 5 days, increased the AUC and C max of ziprasidone by about 35 to 40%.
+Ketoconazole, a potent inhibitor of CYP3A4, at a dose of 400 mg QD for 5 days, increased the AUC and C maxof ziprasidone by about 35 to 40%.
 Other inhibitors of CYP3A4 would be expected to have similar effects.
 
 Cimetidine
@@ -44,7 +44,7 @@ Cimetidine at a dose of 800 mg QD for 2 days did not affect ziprasidone pharmaco
 
 Antacid
 
-The co-administration of 30 mL of Maalox ® with ziprasidone did not affect the pharmacokinetics of ziprasidone.
+The co-administration of 30 mL of Maalox ®with ziprasidone did not affect the pharmacokinetics of ziprasidone.
 
 ## 7.5 Lithium
 
@@ -53,12 +53,12 @@ Ziprasidone dosed adjunctively to lithium in a maintenance trial of bipolar pati
 
 ## 7.6 Oral Contraceptives
 
-In vivo studies have revealed no effect of ziprasidone on the pharmacokinetics of estrogen or progesterone components.
+In vivostudies have revealed no effect of ziprasidone on the pharmacokinetics of estrogen or progesterone components.
 Ziprasidone at a dose of 20 mg twice daily did not affect the pharmacokinetics of concomitantly administered oral contraceptives, ethinyl estradiol (0.03 mg) and levonorgestrel (0.15 mg).
 
 ## 7.7 Dextromethorphan
 
-Consistent with in vitro results, a study in normal healthy volunteers showed that ziprasidone did not alter the metabolism of dextromethorphan, a CYP2D6 model substrate, to its major metabolite, dextrorphan.
+Consistent with in vitroresults, a study in normal healthy volunteers showed that ziprasidone did not alter the metabolism of dextromethorphan, a CYP2D6 model substrate, to its major metabolite, dextrorphan.
 There was no statistically significant change in the urinary dextromethorphan/dextrorphan ratio.
 
 ## 7.8 Valproate
@@ -73,4 +73,4 @@ Population pharmacokinetic analysis of schizophrenic patients enrolled in contro
 ## 7.10 Food Interaction
 
 The absolute bioavailability of a 20 mg dose under fed conditions is approximately 60%.
-The absorption of ziprasidone is increased up to two-fold in the presence of food [see Clinical Pharmacology (12.3)].
+The absorption of ziprasidone is increased up to two-fold in the presence of food [see Clinical Pharmacology(12.3)].

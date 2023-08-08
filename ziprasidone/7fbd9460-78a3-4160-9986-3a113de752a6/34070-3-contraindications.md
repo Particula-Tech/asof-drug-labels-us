@@ -13,7 +13,7 @@ An additive effect of ziprasidone and other drugs that prolong the QT interval c
 Therefore, ziprasidone should not be given with:
 
 - dofetilide, sotalol, quinidine, other Class Ia and III anti-arrhythmics, mesoridazine, thioridazine, chlorpromazine, droperidol, pimozide, sparfloxacin, gatifloxacin, moxifloxacin, halofantrine, mefloquine, pentamidine, arsenic trioxide, levomethadyl acetate, dolasetron mesylate, probucol or tacrolimus.
-- other drugs that have demonstrated QT prolongation as one of their pharmacodynamic effects and have this effect described in the full prescribing information as a contraindication or a boxed or bolded warning [see Warnings and Precautions (5.3)].
+- other drugs that have demonstrated QT prolongation as one of their pharmacodynamic effects and have this effect described in the full prescribing information as a contraindication or a boxed or bolded warning [see Warnings and Precautions(5.3)].
 
 ## 4.2 Hypersensitivity
 

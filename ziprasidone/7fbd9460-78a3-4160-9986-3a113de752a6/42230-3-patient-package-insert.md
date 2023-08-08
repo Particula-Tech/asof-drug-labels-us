@@ -48,8 +48,7 @@ Elderly patients with a diagnosis of psychosis related to dementia treated with 
 
 Ziprasidone capsules is an effective drug to treat the symptoms of schizophrenia and the manic or mixed episodes of bipolar disorder.
 However, one potential side effect is that it may change the way the electrical current in your heart works more than some other drugs.
-The change is small and it is not known whether this will be harmful, but some other drugs that cause this kind of change have in rare cases caused dangerous heart rhythm abnormalities.
-Because of this, ziprasidone capsules should be used only after your doctor has considered this risk for ziprasidone capsules against the risks and benefits of other medications available for treating schizophrenia or bipolar manic and mixed episodes.
+The change is small and it is not known whether this will be harmful, but some other drugs that cause this kind of change have in rare cases caused dangerous heart rhythm abnormalities.Because of this, ziprasidone capsules should be used only after your doctor has considered this risk for ziprasidone capsules against the risks and benefits of other medications available for treating schizophrenia or bipolar manic and mixed episodes.
 
 Your risk of dangerous changes in heart rhythm can be increased if you are taking certain other medicines and if you already have certain abnormal heart conditions.
 Therefore, it is important to tell your doctor about any other medicines that you take, including non-prescription medicines, supplements, and herbal medicines.
@@ -105,7 +104,7 @@ How To Take Ziprasidone Capsules
 
 Possible Side Effects
 
-Because these problems could mean you're having a heart rhythm abnormality, contact your doctor IMMEDIATELY if you:
+Because these problems could mean you're having a heart rhythm abnormality, contact your doctor IMMEDIATELYif you:
 
 - Faint or lose consciousness
 - Feel a change in the way that your heart beats (palpitations)
@@ -158,7 +157,7 @@ Before taking ziprasidone capsules, tell your doctor if you
 
 1. are pregnant or plan on becoming pregnant.
    - If you become pregnant while receiving ziprasidone capsules, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
-     You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research programs/pregnancyregistry/
+     You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-researchprograms/pregnancyregistry/
 2. are breastfeeding or plan to breastfeed.
    Ziprasidone can pass into your breast milk.
    Talk to your healthcare provider about the best way to feed your baby if you receive ziprasidone capsules.
@@ -169,7 +168,7 @@ Since medications of the same drug class as ziprasidone capsules may interfere w
 
 It is best to avoid consuming alcoholic beverages while taking ziprasidone capsules.
 
-Call your doctor immediately if you take more than the amount of ziprasidone capsules prescribed by your doctor.
+Call your doctor immediatelyif you take more than the amount of ziprasidone capsules prescribed by your doctor.
 
 Ziprasidone capsules has not been shown to be safe or effective in the treatment of children and teenagers under the age of 18 years old.
 

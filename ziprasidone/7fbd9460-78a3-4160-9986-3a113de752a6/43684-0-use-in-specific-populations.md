@@ -44,15 +44,15 @@ A retrospective cohort study from a Medicaid database of 9,258 women exposed to 
 
 Animal Data
 
-When ziprasidone was administered to pregnant rabbits during the period of organogenesis, an increased incidence of fetal structural abnormalities (ventricular septal defects and other cardiovascular malformations, and kidney alterations) was observed at a dose of 30 mg/kg/day (3 times the MRHD of 200 mg/day based on mg/m 2 body surface area).
+When ziprasidone was administered to pregnant rabbits during the period of organogenesis, an increased incidence of fetal structural abnormalities (ventricular septal defects and other cardiovascular malformations, and kidney alterations) was observed at a dose of 30 mg/kg/day (3 times the MRHD of 200 mg/day based on mg/m 2body surface area).
 There was no evidence to suggest that these developmental effects were secondary to maternal toxicity.
-The developmental no effect dose was 10 mg/kg/day (equivalent to the MRHD based on a mg/m 2 body surface area).
-In rats, embryofetal toxicity (decreased fetal weights, delayed skeletal ossification) was observed following administration of 10 to 160 mg/kg/day (0.5 to 8 times the MRHD based on mg/m 2 body surface area) during organogenesis or throughout gestation, but there was no evidence of teratogenicity.
-Doses of 40 mg/kg/day and 160 mg/kg/day (2 and 8 times the MRHD based on mg/m 2 body surface area) were associated with maternal toxicity.
-The developmental no-effect dose is 5 mg/kg/day (0.2 times the MRHD based on mg/m 2 body surface area).
+The developmental no effect dose was 10 mg/kg/day (equivalent to the MRHD based on a mg/m 2body surface area).
+In rats, embryofetal toxicity (decreased fetal weights, delayed skeletal ossification) was observed following administration of 10 to 160 mg/kg/day (0.5 to 8 times the MRHD based on mg/m 2body surface area) during organogenesis or throughout gestation, but there was no evidence of teratogenicity.
+Doses of 40 mg/kg/day and 160 mg/kg/day (2 and 8 times the MRHD based on mg/m 2body surface area) were associated with maternal toxicity.
+The developmental no-effect dose is 5 mg/kg/day (0.2 times the MRHD based on mg/m 2body surface area).
 
-There was an increase in the number of pups born dead and a decrease in postnatal survival through the first 4 days of lactation among the offspring of female rats treated during gestation and lactation with doses of 10 mg/kg/day (0.5 times the MRHD based on mg/m 2 body surface area) or greater.
-Offspring developmental delays (decreased pup weights) and neurobehavioral functional impairment (eye opening air righting) were observed at doses of 5 mg/kg/day (0.2 times the MRHD based on mg/m 2 body surface area) or greater.
+There was an increase in the number of pups born dead and a decrease in postnatal survival through the first 4 days of lactation among the offspring of female rats treated during gestation and lactation with doses of 10 mg/kg/day (0.5 times the MRHD based on mg/m 2body surface area) or greater.
+Offspring developmental delays (decreased pup weights) and neurobehavioral functional impairment (eye opening air righting) were observed at doses of 5 mg/kg/day (0.2 times the MRHD based on mg/m 2body surface area) or greater.
 A no-effect level was not established for these effects.
 
 ## 8.2 Lactation
@@ -74,14 +74,11 @@ Infertility
 
 Females
 
-Based on the pharmacologic action of ziprasidone (D2 antagonism), treatment with ziprasidone may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.15) and Nonclinical Toxicology (13.1)].
+Based on the pharmacologic action of ziprasidone (D2 antagonism), treatment with ziprasidone may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions(5.15) and Nonclinical Toxicology(13.1)].
 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of ziprasidone have not been established in pediatric patients.
-
-Pediatric information is approved for Viatris Specialty LLC's Geodon (ziprasidone HCl) capsules.
-However, due to Viatris Specialty LLC's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 
@@ -108,5 +105,5 @@ Dosage modifications for age or gender are, therefore, not recommended.
 
 ## 8.9 Smoking
 
-Based on in vitro studies utilizing human liver enzymes, ziprasidone is not a substrate for CYP1A2; smoking should therefore not have an effect on the pharmacokinetics of ziprasidone.
-Consistent with these in vitro results, population pharmacokinetic evaluation has not revealed any significant pharmacokinetic differences between smokers and nonsmokers.
+Based on in vitrostudies utilizing human liver enzymes, ziprasidone is not a substrate for CYP1A2; smoking should therefore not have an effect on the pharmacokinetics of ziprasidone.
+Consistent with these in vitroresults, population pharmacokinetic evaluation has not revealed any significant pharmacokinetic differences between smokers and nonsmokers.

@@ -8,19 +8,19 @@ Over the course of a typical 10-week controlled trial, the rate of death in drug
 
 Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
 Ziprasidone capsules are not approved for the treatment of patients with dementia-related psychosis.
-[see Boxed Warning, Warnings and Precautions (5.2)].
+[see Boxed Warning, Warnings and Precautions(5.2)].
 
 ## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients With Dementia-Related Psychosis
 
 In placebo-controlled trials in elderly subjects with dementia, patients randomized to risperidone, aripiprazole, and olanzapine had a higher incidence of stroke and transient ischemic attack, including fatal stroke.
-Ziprasidone capsules are not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)].
+Ziprasidone capsules are not approved for the treatment of patients with dementia-related psychosis [see Boxed Warningand Warnings and Precautions(5.1)].
 
 ## 5.3 QT Prolongation and Risk of Sudden Death
 
-Ziprasidone use should be avoided in combination with other drugs that are known to prolong the QTc interval [see Contraindications (4.1) and Drug Interactions (7.4)].
+Ziprasidone use should be avoided in combination with other drugs that are known to prolong the QTc interval [see Contraindications(4.1) and Drug Interactions(7.4)].
 Additionally, clinicians should be alert to the identification of other drugs that have been consistently observed to prolong the QTc interval.
 Such drugs should not be prescribed with ziprasidone.
-Ziprasidone should also be avoided in patients with congenital long QT syndrome and in patients with a history of cardiac arrhythmias [see Contraindications (4)].
+Ziprasidone should also be avoided in patients with congenital long QT syndrome and in patients with a history of cardiac arrhythmias [see Contraindications(4)].
 
 A study directly comparing the QT/QTc prolonging effect of oral ziprasidone with several other drugs effective in the treatment of schizophrenia was conducted in patient volunteers.
 In the first phase of the trial, ECGs were obtained at the time of maximum plasma concentration when the drug was administered alone.
@@ -38,13 +38,12 @@ One patient had a history of prolonged QTc and a screening measurement of 489 ms
 The other patient had a QTc of 391 msec at the end of treatment with ziprasidone and upon switching to thioridazine experienced QTc measurements of 518 and 593 msec.
 
 Some drugs that prolong the QT/QTc interval have been associated with the occurrence of torsade de pointes and with sudden unexplained death.
-The relationship of QT prolongation to torsade de pointes is clearest for larger increases (20 msec and greater) but it is possible that smaller QT/QTc prolongations may also increase risk, or increase it in susceptible individuals.
-Although torsade de pointes has not been observed in association with the use of ziprasidone in premarketing studies and experience is too limited to rule out an increased risk, there have been rare post-marketing reports (in the presence of multiple confounding factors) [see Adverse Reactions (6.2)].
+The relationship of QT prolongation to torsade de pointes is clearest for larger increases (20 msec and greater) but it is possible that smaller QT/QTc prolongations may also increase risk, or increase it in susceptible individuals.Although torsade de pointes has not been observed in association with the use of ziprasidone in premarketing studies and experience is too limited to rule out an increased risk, there have been rare post-marketing reports (in the presence of multiple confounding factors) [see Adverse Reactions(6.2)].
 
 As with other antipsychotic drugs and placebo, sudden unexplained deaths have been reported in patients taking ziprasidone at recommended doses.
 The premarketing experience for ziprasidone did not reveal an excess risk of mortality for ziprasidone compared to other antipsychotic drugs or placebo, but the extent of exposure was limited, especially for the drugs used as active controls and placebo.
 Nevertheless, ziprasidone's larger prolongation of QTc length compared to several other antipsychotic drugs raises the possibility that the risk of sudden death may be greater for ziprasidone than for other available drugs for treating schizophrenia.
-This possibility needs to be considered in deciding among alternative drug products [see Indications and Usage (1)].
+This possibility needs to be considered in deciding among alternative drug products [see Indications and Usage(1)].
 
 Certain circumstances may increase the risk of the occurrence of torsade de pointes and/or sudden death in association with the use of drugs that prolong the QTc interval, including (1) bradycardia; (2) hypokalemia or hypomagnesemia; (3) concomitant use of other drugs that prolong the QTc interval; and (4) presence of congenital prolongation of the QT interval.
 
@@ -189,7 +188,7 @@ Table 5: Lipid* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo
 | 5 mg BID | 20 mg BID | 40 mg BID | 60 mg BID | 80 mg BID | 100 mg BID |  |  |
 | Triglycerides | -12.9 (N=45) | -9.6 (N=181) | -17.3 (N=146) | -0.05 (N=120) | -16.0 (N=104) | +0.8 (N=85) | -18.6 (N=260) |
 | Total Cholesterol | -3.6 (N=45) | -4.4 (N=181) | -8.2 (N=147) | -3.6 (N=120) | -10.0 (N=104) | -3.6 (N=85) | -4.7 (N=261) |
-| *" Random" lipid measurements, fasting/non-fasting status unknown |  |  |  |  |  |  |  |
+| *"Random" lipid measurements, fasting/non-fasting status unknown |  |  |  |  |  |  |  |
 
 Table 6: Lipid* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients With Schizophrenia
 
@@ -207,7 +206,7 @@ Table 6: Lipid* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Contr
 | Placebo | 145 | 0 (0.0%) |  |  |
 | Borderline to High (≥200 mg/dL and <240 mg/dL to ≥240 mg/dL) | Ziprasidone | 207 | 56 (27.1%) |  |
 | Placebo | 82 | 22 (26.8%) |  |  |
-| *" Random" lipid measurements, fasting/non-fasting status unknown |  |  |  |  |
+| *"Random" lipid measurements, fasting/non-fasting status unknown |  |  |  |  |
 
 In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random triglycerides for ziprasidone 20 to 40 mg BID was +26.3 mg/dL (N=15); for ziprasidone 60 to 80 mg BID was -39.3 mg/dL (N=10); and for placebo was +12.9 mg/dL (N=9).
 In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random total cholesterol for ziprasidone 20 to 40 mg BID was+2.5 mg/dL (N=14); for ziprasidone 60 to 80 mg BID was -19.7 mg/dL (N=10); and for placebo was -28.0 mg/dL (N=9).
@@ -267,9 +266,9 @@ Table 9: Weight Mean Changes in Short-Term (up to 6 weeks), Placebo-Controlled, 
 | 0.0% (N=40) | 9.0% (N=167) | 10.4% (N=135) | 7.3% (N=109) | 15.5% (N=97) | 10.8% (N=74) | 4.0% (N=227) |
 
 In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline weight for ziprasidone 20 to 40 mg BID was -2.3 kg (N=124); for ziprasidone 60 to 80 mg BID was +2.5 kg (N=10); and for placebo was -2.9 kg (N=72).
-In the same long-term studies, the proportion of subjects with ≥ 7% increase in weight from baseline for ziprasidone 20 to 40 mg BID was 5.6% (N=124); for ziprasidone 60 to 80 mg BID was 20.0% (N=10), and for placebo was 5.6% (N=72).
+In the same long-term studies, the proportion of subjects with ≥7% increase in weight from baseline for ziprasidone 20 to 40 mg BID was 5.6% (N=124); for ziprasidone 60 to 80 mg BID was 20.0% (N=10), and for placebo was 5.6% (N=72).
 In a long-term (at least 1 year), placebo-controlled, fixed-dose study in schizophrenia, the mean change from baseline weight for ziprasidone 20 mg BID was -2.6 kg (N=72); for ziprasidone 40 mg BID was -3.3 kg (N=69); for ziprasidone 80 mg BID was -2.8 kg (N=70) and for placebo was -3.8 kg (N=70).
-In the same long-term fixed-dose schizophrenia study, the proportion of subjects with ≥ 7% increase in weight from baseline for ziprasidone 20 mg BID was 5.6% (N=72); for ziprasidone 40 mg BID was 2.9% (N=69); for ziprasidone 80 mg BID was 5.7% (N=70) and for placebo was 2.9% (N=70).
+In the same long-term fixed-dose schizophrenia study, the proportion of subjects with ≥7% increase in weight from baseline for ziprasidone 20 mg BID was 5.6% (N=72); for ziprasidone 40 mg BID was 2.9% (N=69); for ziprasidone 80 mg BID was 5.7% (N=70) and for placebo was 2.9% (N=70).
 
 Table 10: Summary of Weight Change in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients With Bipolar Disorder:
 
@@ -282,13 +281,13 @@ Table 10: Summary of Weight Change in Short-Term (up to 6 weeks), Placebo-Contro
 | 2.4% (N=295) | 4.4% (N=388) | 1.8% (N=451) |
 | *Note that in the High Dose group, there were 2 subjects with modal 200 mg total daily dose and 1 subject with modal 100 mg total daily dose. |  |  |
 
-Schizophrenia - The proportions of patients meeting a weight gain criterion of ≥ 7% of body weight were compared in a pool of four 4- and 6-week placebo-controlled schizophrenia clinical trials, revealing a statistically significantly greater incidence of weight gain for ziprasidone (10%) compared to placebo (4%).
+Schizophrenia- The proportions of patients meeting a weight gain criterion of ≥ 7% of body weight were compared in a pool of four 4- and 6-week placebo-controlled schizophrenia clinical trials, revealing a statistically significantly greater incidence of weight gain for ziprasidone (10%) compared to placebo (4%).
 A median weight gain of 0.5 kg was observed in ziprasidone patients compared to no median weight change in placebo patients.
 In this set of clinical trials, weight gain was reported as an adverse reaction in 0.4% and 0.4% of ziprasidone and placebo patients, respectively.
 During long-term therapy with ziprasidone, a categorization of patients at baseline on the basis of body mass index (BMI) revealed the greatest mean weight gain and highest incidence of clinically significant weight gain (> 7% of body weight) in patients with low BMI (<23) compared to normal (23 to 27) or overweight patients (>27).
 There was a mean weight gain of 1.4 kg for those patients with a "low" baseline BMI, no mean change for patients with a "normal" BMI, and a 1.3 kg mean weight loss for patients who entered the program with a "high" BMI.
 
-Bipolar Disorder - During a 6-month placebo-controlled bipolar maintenance study in adults with ziprasidone as an adjunct to lithium or valproate, the incidence of clinically significant weight gain (≥ 7% of body weight) during the double-blind period was 5.6% for both ziprasidone and placebo treatment groups who completed the 6 months of observation for relapse.
+Bipolar Disorder- During a 6-month placebo-controlled bipolar maintenance study in adults with ziprasidone as an adjunct to lithium or valproate, the incidence of clinically significant weight gain (≥ 7% of body weight) during the double-blind period was 5.6% for both ziprasidone and placebo treatment groups who completed the 6 months of observation for relapse.
 Interpretation of these findings should take into consideration that only patients who adequately tolerated ziprasidone entered the double-blind phase of the study, and there were substantial dropouts during the open label phase.
 
 ## 5.8 Rash
@@ -337,8 +336,8 @@ Ziprasidone and other antipsychotic drugs should be used cautiously in patients 
 
 ## 5.14 Hyperprolactinemia
 
-As with other drugs that antagonize dopamine D 2 receptors, ziprasidone elevates prolactin levels in humans.
-Increased prolactin levels were also observed in animal studies with this compound, and were associated with an increase in mammary gland neoplasia in mice; a similar effect was not observed in rats [see Nonclinical Toxicology (13.1)].
+As with other drugs that antagonize dopamine D 2receptors, ziprasidone elevates prolactin levels in humans.
+Increased prolactin levels were also observed in animal studies with this compound, and were associated with an increase in mammary gland neoplasia in mice; a similar effect was not observed in rats [seeNonclinical Toxicology(13.1)].
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin-dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans; the available evidence is considered too limited to be conclusive at this time.
 
@@ -371,16 +370,16 @@ Prescriptions for ziprasidone should be written for the smallest quantity of cap
 
 ## 5.19 Patients With Concomitant Illnesses
 
-Clinical experience with ziprasidone in patients with certain concomitant systemic illnesses is limited [see Use in Specific Populations (8.6), (8.7)].
+Clinical experience with ziprasidone in patients with certain concomitant systemic illnesses is limited [see Use in Specific Populations(8.6), (8.7)].
 
 Ziprasidone has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were excluded from premarketing clinical studies.
 Because of the risk of QTc prolongation and orthostatic hypotension with ziprasidone, caution should be observed in cardiac patients.
-[see Warnings and Precautions (5.3), (5.9)].
+[see Warnings and Precautions(5.3), (5.9)].
 
 ## 5.20 Laboratory Tests
 
 Patients being considered for ziprasidone treatment that are at risk of significant electrolyte disturbances should have baseline serum potassium and magnesium measurements.
 Low serum potassium and magnesium should be replaced before proceeding with treatment.
 Patients who are started on diuretics during Ziprasidone therapy need periodic monitoring of serum potassium and magnesium.
-Ziprasidone should be discontinued in patients who are found to have persistent QTc measurements >500 msec [see Warnings and Precautions (5.3)].
+Ziprasidone should be discontinued in patients who are found to have persistent QTc measurements >500 msec [see Warnings and Precautions(5.3)].

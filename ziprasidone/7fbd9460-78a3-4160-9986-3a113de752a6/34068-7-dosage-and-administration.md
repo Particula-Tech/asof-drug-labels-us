@@ -17,11 +17,11 @@ In order to ensure use of the lowest effective dose, patients should ordinarily 
 Efficacy in schizophrenia was demonstrated in a dose range of 20 mg to 100 mg twice daily in short-term, placebo-controlled clinical trials.
 There were trends toward dose response within the range of 20 mg to 80 mg twice daily, but results were not consistent.
 An increase to a dose greater than 80 mg twice daily is not generally recommended.
-The safety of doses above 100 mg twice daily has not been systematically evaluated in clinical trials [see Clinical Studies (14.1)].
+The safety of doses above 100 mg twice daily has not been systematically evaluated in clinical trials [see Clinical Studies(14.1)].
 
 Maintenance Treatment
 
-While there is no body of evidence available to answer the question of how long a patient treated with ziprasidone should remain on it, a maintenance study in patients who had been symptomatically stable and then randomized to continue ziprasidone or switch to placebo demonstrated a delay in time to relapse for patients receiving Ziprasidone [see Clinical Studies (14.1)].
+While there is no body of evidence available to answer the question of how long a patient treated with ziprasidone should remain on it, a maintenance study in patients who had been symptomatically stable and then randomized to continue ziprasidone or switch to placebo demonstrated a delay in time to relapse for patients receiving Ziprasidone [see Clinical Studies(14.1)].
 No additional benefit was demonstrated for doses above 20 mg twice daily.
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 
@@ -31,9 +31,9 @@ Acute Treatment of Manic or Mixed Episodes
 
 In adults oral ziprasidone should be administered at an initial daily dose of 40 mg twice daily with food.
 The dose may then be increased to 60 mg or 80 mg twice daily on the second day of treatment and subsequently adjusted on the basis of tolerance and efficacy within the range 40 mg to 80 mg twice daily.
-In the flexible-dose clinical trials, the mean daily dose administered was approximately 120 mg [see Clinical Studies (14.2)].
+In the flexible-dose clinical trials, the mean daily dose administered was approximately 120 mg [see Clinical Studies(14.2)].
 
 Maintenance Treatment (as an adjunct to lithium or valproate)
 
 Continue treatment at the same dose on which the patient was initially stabilized, within the range of 40 mg to 80 mg twice daily with food.
-Patients should be periodically reassessed to determine the need for maintenance treatment [see Clinical Studies (14.2)].
+Patients should be periodically reassessed to determine the need for maintenance treatment [see Clinical Studies(14.2)].

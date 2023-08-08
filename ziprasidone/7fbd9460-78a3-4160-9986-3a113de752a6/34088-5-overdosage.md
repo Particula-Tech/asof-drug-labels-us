@@ -7,7 +7,7 @@ All of these patients survived without sequelae.
 In the patient taking the largest confirmed amount, 3,240 mg, the only symptoms reported were minimal sedation, slurring of speech, and transitory hypertension (200/95).
 
 Adverse reactions reported with ziprasidone overdose included extrapyramidal symptoms, somnolence, tremor, and anxiety.
-[see Adverse Reactions (6.2)]
+[see Adverse Reactions(6.2)]
 
 ## 10.2 Management of Overdosage
 
@@ -19,7 +19,7 @@ Cardiovascular monitoring should commence immediately and should include continu
 If antiarrhythmic therapy is administered, disopyramide, procainamide, and quinidine carry a theoretical hazard of additive QT-prolonging effects that might be additive to those of ziprasidone.
 
 Hypotension and circulatory collapse should be treated with appropriate measures such as intravenous fluids.
-If sympathomimetic agents are used for vascular support, epinephrine and dopamine should not be used, since beta stimulation combined with α 1 antagonism associated with ziprasidone may worsen hypotension.
+If sympathomimetic agents are used for vascular support, epinephrine and dopamine should not be used, since beta stimulation combined with α 1antagonism associated with ziprasidone may worsen hypotension.
 Similarly, it is reasonable to expect that the alpha-adrenergic-blocking properties of bretylium might be additive to those of ziprasidone, resulting in problematic hypotension.
 
 In cases of severe extrapyramidal symptoms, anticholinergic medication should be administered.
