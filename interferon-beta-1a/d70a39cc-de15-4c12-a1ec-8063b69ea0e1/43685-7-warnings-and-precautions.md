@@ -18,7 +18,7 @@ Severe hepatic injury, including cases of hepatic failure, has been reported rar
 Asymptomatic elevation of hepatic transaminases has also been reported, and in some patients has recurred upon rechallenge with AVONEX.
 In some cases, these events have occurred in the presence of other drugs that have been associated with hepatic injury.
 The potential risk of AVONEX used in combination with known hepatotoxic drugs or other products (e.g., alcohol) should be considered prior to starting AVONEX, or before starting hepatotoxic drugs.
-Patients should be monitored for signs of hepatic injury [see Warnings and Precautions (5.9)].
+Patients should be monitored for signs of hepatic injury [see Warnings and Precautions (5.10)].
 
 ## 5.3 Anaphylaxis and Other Allergic-Reactions
 
@@ -60,21 +60,31 @@ Cases of thrombotic microangiopathy (TMA), including thrombotic thrombocytopenic
 Cases have been reported several weeks to years after starting interferon beta products.
 Discontinue AVONEX if clinical symptoms and laboratory findings consistent with TMA occur, and manage as clinically indicated.
 
-## 5.8 Seizures
+## 5.8 Pulmonary Arterial Hypertension
+
+Cases of pulmonary arterial hypertension (PAH) have been reported in patients treated with interferon beta products, including AVONEX.
+PAH has occurred in patients treated with interferon beta products in the absence of other contributory factors.
+Many of the reported cases required hospitalization, including one case with interferon beta in which the patient underwent a lung transplant.
+PAH has developed at various time points after initiating therapy with interferon beta products and may occur several years after starting treatment.
+
+Patients who develop unexplained symptoms (e.g., dyspnea, new or increasing fatigue) should be assessed for PAH.
+If alternative etiologies have been ruled out and a diagnosis of PAH is confirmed, discontinue treatment and manage as clinically indicated.
+
+## 5.9 Seizures
 
 Seizures have been temporally associated with the use of beta interferons in clinical trials and postmarketing safety surveillance.
 In the two placebo-controlled studies in multiple sclerosis (Studies 1 and 2), 4 patients receiving AVONEX experienced seizures, while no seizures occurred in the placebo group [see Clinical Studies (14)].
 Three of these 4 patients had no prior history of seizure [see Adverse Reactions (6.1)].
 It is not known whether these events were related to the effects of multiple sclerosis alone, to AVONEX, or to a combination of both.
 
-## 5.9 Autoimmune Disorders
+## 5.10 Autoimmune Disorders
 
 Postmarketing reports of autoimmune disorders of multiple target organs in AVONEX-treated patients included idiopathic thrombocytopenia, hyper- and hypothyroidism, and rare cases of autoimmune hepatitis.
 If AVONEX-treated patients develop a new autoimmune disorder, consider stopping the therapy.
 
-## 5.10 Laboratory Tests
+## 5.11 Laboratory Tests
 
-In addition to those laboratory tests normally required for monitoring patients with multiple sclerosis, complete blood and differential white blood cell counts, platelet counts, and blood chemistries, including liver function tests, are recommended during AVONEX therapy [see Warnings and Precautions (5.2, 5.6, 5.9)].
+In addition to those laboratory tests normally required for monitoring patients with multiple sclerosis, complete blood and differential white blood cell counts, platelet counts, and blood chemistries, including liver function tests, are recommended during AVONEX therapy [see Warnings and Precautions (5.2, 5.6, 5.10)].
 Patients with myelosuppression may require more intensive monitoring of complete blood cell counts, with differential and platelet counts.
 Thyroid function should be monitored periodically.
 If patients have or develop symptoms of thyroid dysfunction (hypo- or hyperthyroidism), thyroid function tests should be performed according to standard medical practice.

@@ -9,9 +9,10 @@ The following serious adverse reactions are discussed in more detail in other se
 - Congestive Heart Failure [see Warnings and Precautions (5.5)]
 - Decreased Peripheral Blood Counts [see Warnings and Precautions (5.6)]
 - Thrombotic Microangiopathy [see Warnings and Precautions (5.7)]
-- Seizures [see Warnings and Precautions (5.8)]
-- Autoimmune Disorders [see Warnings and Precautions (5.9)]
-- Laboratory Tests [see Warnings and Precautions (5.10)]
+- Pulmonary Arterial Hypertension [see Warnings and Precautions (5.8)]
+- Seizures [see Warnings and Precautions (5.9)]
+- Autoimmune Disorders [see Warnings and Precautions (5.10)]
+- Laboratory Tests [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -88,5 +89,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 - Hemolytic anemia
 - Menorrhagia and metrorrhagia
+- Pulmonary Arterial Hypertension
 - Rash (including vesicular rash)
 - Rare cases of injection site abscess or cellulitis requiring surgical intervention

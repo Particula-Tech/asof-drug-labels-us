@@ -26,7 +26,7 @@ Advise patients:
 
 Pregnancy
 
-Advise patients to notify their healthcare provider if they become pregnant during treatment or plan to become pregnant [see Pregnancy (8.1)].
+Advise patients to notify their healthcare provider if they become pregnant during treatment or plan to become pregnant [see Use in Specific Populations (8.1)].
 
 Depression
 
@@ -49,19 +49,24 @@ Instruct patients to report promptly any break in the skin that is associated wi
 Congestive Heart Failure
 
 Advise patients that worsening of pre-existing congestive heart failure has been reported in patients using AVONEX.
-Advise patients of symptoms of worsening cardiac condition, and instruct patients to report them immediately to their physician [see Warnings and Precautions (5.4)].
+Advise patients of symptoms of worsening cardiac condition, and instruct patients to report them immediately to their physician [see Warnings and Precautions (5.5)].
+
+Pulmonary Arterial Hypertension
+
+Inform patients that PAH has occurred in patients treated with interferon beta products, including AVONEX.
+Instruct patients to promptly report any new symptoms such as new or increasing fatigue or shortness of breath to their healthcare provider [see Warnings and Precautions (5.8)].
 
 Seizures
 
 Advise patients that seizures have been reported in patients using AVONEX.
-Instruct patients to report seizures immediately to their physician [see Warnings and Precautions (5.7)].
+Instruct patients to report seizures immediately to their physician [see Warnings and Precautions (5.9)].
 
 Flu-like Symptoms
 
 Inform patients that flu-like symptoms are common following initiation of therapy with AVONEX [see Dosage and Administration (2.3) and Adverse Reactions (6)].
 Advise patients that starting with a lower dose than 30 micrograms and increasing the dose over 3 weeks reduces the incidence and severity of flu-like symptoms.
 
-41613-6
+41613-07
 
 Manufactured by:
 
@@ -75,5 +80,5 @@ U.S. License #1697
 
 AVONEX is a registered trademark of Biogen.
 
-© Biogen 1996-2021.
+© Biogen 1996-2023.
 All rights reserved.
