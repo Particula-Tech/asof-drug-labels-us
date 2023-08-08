@@ -49,7 +49,7 @@ The patient should be carefully monitored, since recurrences of NMS have been re
 
 ## Falls:
 
-COMPRO® Prochlorperazine Suppositories USP, may cause somnolence, postural hypotension, motor sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+COMPRO® Prochlorperazine Suppositories USP, may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
 For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
 
 ## General:
