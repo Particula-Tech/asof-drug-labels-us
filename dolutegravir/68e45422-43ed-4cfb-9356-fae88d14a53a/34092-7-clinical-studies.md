@@ -90,24 +90,24 @@ At Week 144, the proportion of subjects with HIV-1 RNA ≥50 copies/mL (Snapshot
 
 Table 12 Virologic Outcomes of Randomized Treatment in TANGO Trial at Weeks 48 and 144 in Virologically Suppressed Subjects Who Switched to DOVATO
 
-|  | Week 48a |  | Week 144 |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Virologic Outcomes | DOVATO(n = 369) | TBR(n = 372) | DOVATO(n = 369) |  | TBR(n = 372) |
-| Virologic nonresponse (≥50 copies/mL) | <1% | 1% | <1% | 1% |  |
-| Treatment Difference (95% CI)b | -0.3% (-1.2%, 0.7%) |  | -1.1% (-2.4%, 0.2%) |  |  |
-| HIV-1 RNA <50 copies/mLc | 93% | 93% | 86% | 82% |  |
-| Reasons for virologic nonresponse |  |  |  |  |  |
-| Data in window ≥50 copies/mL | 0 | 0 | 0 | 0 |  |
-| Discontinued for lack of efficacy | 0 | 1% | 0 | 1% |  |
-| Discontinued for other reasons and ≥50 copies/mL | <1% | 0 | <1% | 0 |  |
-| Change in ART | 0 | 0 | 0 | <1% |  |
-| Reasons for no virologic data at Week 48 or Week 144 window | 7% | 6% | 14% | 17% |  |
-| Discontinued trial due to adverse event or death | 3% | <1% | 6% | 2% |  |
-| Discontinued trial for other reasons | 3% | 6% | 7% | 15% |  |
-| Missing data during window but on triald | 0 | <1% | 1% | 0 |  |
-| TBR = Tenofovir alafenamide-based regimen. |  |  |  |  |  |
-| a Based on a 4% non-inferiority margin, DOVATO is non-inferior to TBR at Week 48 in the primary analysis (proportion of subjects with plasma HIV-1 RNA ≥50 copies/mL) because the upper bound of the 95% CI for the adjusted treatment difference is less than 4%. b Based on Cochran–Mantel–Haenszel-stratified analysis adjusting for baseline third-agent class (PI, INSTI, or NNRTI). The other Snapshot outcomes (HIV-1 RNA <50 copies/mL and no virologic data in the visit window) were combined into a single category for the analysis, and subjects who had no virologic data at Week 144 were assumed to have virologic response (<50 copies/mL). c At Week 144 in the secondary analysis (proportion of subjects achieving plasma HIV-1 RNA <50 copies/mL), the adjusted treatment difference was 4.2% (95% CI: -1.1%, 9.5%). |  |  |  |  |  |
-| d Five (5) and 2 subjects in the DOVATO and TBR arms, respectively, had no Week 144 Snapshot data due to Coronavirus Disease 2019 (COVID-19). |  |  |  |  |  |
+|  | Week 48a |  | Week 144 |  |
+| --- | --- | --- | --- | --- |
+| Virologic Outcomes | DOVATO(n = 369) | TBR(n = 372) | DOVATO(n = 369) | TBR(n = 372) |
+| Virologic nonresponse (≥50 copies/mL) | <1% | 1% | <1% | 1% |
+| Treatment Difference (95% CI)b | -0.3% (-1.2%, 0.7%) |  | -1.1% (-2.4%, 0.2%) |  |
+| HIV-1 RNA <50 copies/mLc | 93% | 93% | 86% | 82% |
+| Reasons for virologic nonresponse |  |  |  |  |
+| Data in window ≥50 copies/mL | 0 | 0 | 0 | 0 |
+| Discontinued for lack of efficacy | 0 | 1% | 0 | 1% |
+| Discontinued for other reasons and ≥50 copies/mL | <1% | 0 | <1% | 0 |
+| Change in ART | 0 | 0 | 0 | <1% |
+| Reasons for no virologic data at Week 48 or Week 144 window | 7% | 6% | 14% | 17% |
+| Discontinued trial due to adverse event or death | 3% | <1% | 6% | 2% |
+| Discontinued trial for other reasons | 3% | 6% | 7% | 15% |
+| Missing data during window but on triald | 0 | <1% | 1% | 0 |
+| TBR = Tenofovir alafenamide-based regimen. |  |  |  |  |
+| a Based on a 4% non-inferiority margin, DOVATO is non-inferior to TBR at Week 48 in the primary analysis (proportion of subjects with plasma HIV-1 RNA ≥50 copies/mL) because the upper bound of the 95% CI for the adjusted treatment difference is less than 4%. b Based on Cochran–Mantel–Haenszel-stratified analysis adjusting for baseline third-agent class (PI, INSTI, or NNRTI). The other Snapshot outcomes (HIV-1 RNA <50 copies/mL and no virologic data in the visit window) were combined into a single category for the analysis, and subjects who had no virologic data at Week 144 were assumed to have virologic response (<50 copies/mL). c At Week 144 in the secondary analysis (proportion of subjects achieving plasma HIV-1 RNA <50 copies/mL), the adjusted treatment difference was 4.2% (95% CI: -1.1%, 9.5%). |  |  |  |  |
+| d Five (5) and 2 subjects in the DOVATO and TBR arms, respectively, had no Week 144 Snapshot data due to Coronavirus Disease 2019 (COVID-19). |  |  |  |  |
 
 In TANGO, treatment outcomes between treatment arms were similar across the stratification factor, baseline third-agent class (PI, INSTI, or NNRTI), and across subgroups by age, sex, race, baseline CD4+ cell count, CDC HIV disease stage, and countries.
 The median change from baseline in CD4+ T-cell count at Week 144 was 36.0 cells/mm3 in the DOVATO arm and 35.0 cells/mm3 in the TBR arm.
