@@ -8,9 +8,11 @@ Store at 20°-25° C (68° -77° F) [See USP Controlled Room Temperature].
 
 Dispense in a well-closed container as defined in the USP with a child-resistant closure.
 
+KEEP THIS AND ALL MEDICATION OUT OF THE REACH OF CHILDREN.
+
 Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
-CIB70329C
+CIB70329D
 
 Rev.
-07/20
+07/23

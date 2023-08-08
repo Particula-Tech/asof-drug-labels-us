@@ -6,10 +6,10 @@ The following tables provide comprehensive listings of the adverse experiences r
 
 GALLSTONE DISSOLUTION
 
-|  | N | (%) | N | % |
-| --- | --- | --- | --- | --- |
 |  | Ursodiol |  | Placebo |  |
-|  | 8-10 mg/kg/day (N=155) |  | (N=159) |  |
+| --- | --- | --- | --- | --- |
+|  | 8 - 10 mg/kg/day (N = 155) |  | (N = 159) |  |
+|  | N | (%) | N | (%) |
 | Body as a Whole |  |  |  |  |
 | Allergy | 8 | (5.2) | 7 | (4.4) |
 | Chest Pain | 5 | (3.2) | 10 | (6.3) |
@@ -45,10 +45,10 @@ GALLSTONE DISSOLUTION
 
 GALLSTONE PREVENTION
 
-|  | N | (%) | N | (%) |
-| --- | --- | --- | --- | --- |
 |  | Ursodiol |  | Placebo |  |
-|  | 600 mg (N=322) |  | (N=325) |  |
+| --- | --- | --- | --- | --- |
+|  | 600 mg (N = 322) |  | (N = 325) |  |
+|  | N | (%) | N | (%) |
 | Body as a Whole |  |  |  |  |
 | Fatigue | 25 | (7.8) | 33 | (10.2) |
 | Infection Viral | 29 | (9.0) | 29 | (8.9) |
@@ -74,3 +74,10 @@ GALLSTONE PREVENTION
 | Alopecia | 17 | (5.3) | 8 | (2.5) |
 | Urogenital System |  |  |  |  |
 | Dysmenorrhea | 18 | (5.6) | 19 | (5.8) |
+
+Postmarketing Experience
+
+The following adverse reactions, presented by system organ class in alphabetical order, have been identified during post-approval use of ursodiol.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Gastrointestinal disorders: enteroliths (bezoars)

@@ -1,15 +1,15 @@
 # CLINICAL PHARMACOLOGY
 
 About 90% of a therapeutic dose of Ursodiol is absorbed in the small bowel after oral administration.
-After absorption, ursodiol enters the portal vein and undergoes efficient extraction from portal blood by the liver (i.e., there is a large "first-pass" effect) where it is conjugated with either glycine or taurine and is then secreted into the hepatic bile ducts.
+After absorption, ursodiol enters the portal vein and undergoes efficient extraction from portal blood by the liver (i.e., there is a large “first-pass” effect) where it is conjugated with either glycine or taurine and is then secreted into the hepatic bile ducts.
 Ursodiol in bile is concentrated in the gallbladder and expelled into the duodenum in gallbladder bile via the cystic and common ducts by gallbladder contractions provoked by physiologic responses to eating.
 Only small quantities of ursodiol appear in the systemic circulation and very small amounts are excreted into urine.
-The sites of the drug's therapeutic actions are in the liver, bile, and gut lumen.
+The sites of the drug’s therapeutic actions are in the liver, bile, and gut lumen.
 
 Beyond conjugation, ursodiol is not altered or catabolized appreciably by the liver or intestinal mucosa.
 A small proportion of orally administered drug undergoes bacterial degradation with each cycle of enterohepatic circulation.
 Ursodiol can be both oxidized and reduced at the 7-carbon, yielding either 7-keto-lithocholic acid or lithocholic acid, respectively.
-Further, there is some bacterially catalyzed deconjugation of glycol-and tauro-ursodeoxycholic acid in the small bowel.
+Further, there is some bacterially catalyzed deconjugation of glyco- and tauro-ursodeoxycholic acid in the small bowel.
 Free ursodiol, 7-keto-lithocholic acid, and lithocholic acid are relatively insoluble in aqueous media and larger proportions of these compounds are lost from the distal gut into the feces.
 Reabsorbed free ursodiol is reconjugated by the liver.
 Eighty percent of lithocholic acid formed in the small bowel is excreted in the feces, but the 20% that is absorbed is sulfated at the 3-hydroxyl group in the liver to relatively insoluble lithocholyl conjugates which are excreted into bile and lost in feces.
@@ -26,7 +26,7 @@ Although liver injury has not been associated with ursodiol therapy, a reduced c
 Ursodiol suppresses hepatic synthesis and secretion of cholesterol, and also inhibits intestinal absorption of cholesterol.
 It appears to have little inhibitory effect on synthesis and secretion into bile of endogenous bile acids, and does not appear to affect secretion of phospholipids into bile.
 
-With repeated dosing, bile ursodeoxycholic acid concentrations reach a steady state in about 3 weeks.
+With repeated dosing, bile ursodeoxycholic acid concentrations reach a steady-state in about 3 weeks.
 Although insoluble in aqueous media, cholesterol can be solubilized in at least two different ways in the presence of dihydroxy bile acids.
 In addition to solubilizing cholesterol in micelles, ursodiol acts by an apparently unique mechanism to cause dispersion of cholesterol as liquid crystals in aqueous media.
 Thus, even though administration of high doses (e.g., 15-18 mg/kg/day) does not result in a concentration of ursodiol higher than 60% of the total bile acid pool, ursodiol-rich bile effectively solubilizes cholesterol.
@@ -34,13 +34,13 @@ The overall effect of ursodiol is to increase the concentration level at which s
 
 The various actions of ursodiol combine to change the bile of patients with gallstones from cholesterol-precipitating to cholesterol-solubilizing, thus resulting in bile conducive to cholesterol stone dissolution.
 
-After ursodiol dosing is stopped, the concentration of the bile acid in bile falls exponentially, declining to about 5%-10% of its steady-state level in about 1 week.
+After ursodiol dosing is stopped, the concentration of the bile acid in bile falls exponentially, declining to about 5% to 10% of its steady-state level in about 1 week.
 
 ## Clinical Results
 
 Gallstone Dissolution
 
-On the basis of clinical trial results in a total of 868 patients with radiolucent gallstones treated in 8 studies (three in the U.S. involving 282 patients, one in the U.K. involving 130 patients, and four in Italy involving 456 patients) for periods ranging from 6-78 months with Ursodiol doses ranging from about 5 to 20 mg/kg/day, an Ursodiol dose of about 8-10 mg/kg/day appeared to be the best dose.
+On the basis of clinical trial results in a total of 868 patients with radiolucent gallstones treated in 8 studies (three in the U.S. involving 282 patients, one in the U.K. involving 130 patients, and four in Italy involving 456 patients) for periods ranging from 6 to 78 months with Ursodiol doses ranging from about 5-20 mg/kg/day, an Ursodiol dose of about 8-10 mg/kg/day appeared to be the best dose.
 With an Ursodiol dose of about 10 mg/kg/day, complete stone dissolution can be anticipated in about 30% of unselected patients with uncalcified gallstones < 20 mm in maximal diameter treated for up to 2 years.
 Patients with calcified gallstones prior to treatment, or patients who develop stone calcification or gallbladder nonvisualization on treatment, and patients with stones > 20 mm in maximal diameter rarely dissolve their stones.
 The chance of gallstone dissolution is increased up to 50% in patients with floating or floatable stones (i.e., those with high cholesterol content), and is inversely related to stone size for those < 20 mm in maximal diameter.
@@ -60,8 +60,8 @@ A prophylactic dose of Ursodiol has not been established.
 
 Gallstone Prevention
 
-Two placebo-controlled, multicenter, double-blind, randomized, parallel group trials in a total of 1316 obese patients were undertaken to evaluate Ursodiol in the prevention of gallstone formation in obese patients undergoing rapid weight loss.
-The first trial consisted of 1004 obese patients with a body mass index (BMI) ≥ 38 who underwent weight loss induced by means of a very low calorie diet for a period of 16 weeks.
+Two placebo-controlled, multicenter, double-blind, randomized, parallel group trials in a total of 1,316 obese patients were undertaken to evaluate Ursodiol in the prevention of gallstone formation in obese patients undergoing rapid weight loss.
+The first trial consisted of 1,004 obese patients with a body mass index (BMI) ≥ 38 who underwent weight loss induced by means of a very low calorie diet for a period of 16 weeks.
 An intent-to-treat analysis of this trial showed that gallstone formation occurred in 23% of the placebo group, while those patients on 300, 600, or 1200 mg/day of Ursodiol experienced a 6%, 3%, and 2% incidence of gallstone formation, respectively.
 The mean weight loss for this 16-week trial was 47 lb for the placebo group, and 47, 48, and 50 lb for the 300, 600, and 1200 mg/day Ursodiol groups, respectively.
 

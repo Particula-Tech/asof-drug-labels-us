@@ -20,7 +20,7 @@ Estrogens, oral contraceptives, and clofibrate (and perhaps other lipid-lowering
 
 Ursodeoxycholic acid was tested in 2-year oral carcinogenicity studies in CD-1 mice and Sprague-Dawley rats at daily doses of 50, 250, and 1000 mg/kg/day.
 It was not tumorigenic in mice.
-In the rat study, it produced statistically significant dose-related increased incidences of pheochromocytomas of adrenal medulla in males (p=0.014, Peto trend test) and females (p=0.004, Peto trend test.)
+In the rat study, it produced statistically significant dose-related increased incidences of pheochromocytomas of adrenal medulla in males (p=0.014, Peto trend test) and females (p=0.004, Peto trend test).
 A 78-week rat study employing intrarectal instillation of lithocholic acid and tauro-deoxycholic acid, metabolites of ursodiol and chenodiol, has been conducted.
 These bile acids alone did not produce any tumors.
 A tumor-promoting effect of both metabolites was observed when they were co-administered with a carcinogenic agent.
@@ -28,7 +28,7 @@ Results of epidemiologic studies suggest that bile acids might be involved in th
 Ursodiol is not mutagenic in the Ames test.
 Dietary administration of lithocholic acid to chickens is reported to cause hepatic adenomatous hyperplasia.
 
-## Pregnancy Category B
+## Pregnancy
 
 Reproduction studies have been performed in rats and rabbits with ursodiol doses up to 200-fold the therapeutic dose and have revealed no evidence of impaired fertility or harm to the fetus at doses of 20- to 100-fold the human dose in rats and at 5-fold the human dose (highest dose tested) in rabbits.
 Studies employing 100- to 200-fold the human dose in rats have shown some reduction in fertility rate and litter size.

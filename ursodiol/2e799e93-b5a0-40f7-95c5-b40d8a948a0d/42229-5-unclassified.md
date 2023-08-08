@@ -1,4 +1,6 @@
-Rx Only Prescribing Information
+Rx Only
+
+Prescribing Information
 
 # SPECIAL NOTE
 
@@ -25,7 +27,7 @@ Mortality Rates for Cholecystectomy in the U.S. (National Halothane Study, JAMA 
 |  | Age (Yrs) | Cholecystectomy | Cholecystectomy + Common Duct Exploration |
 | --- | --- | --- | --- |
 | Low Risk PatientsIn good health or with moderate systemic disease. |  |  |  |
-| Women | 0-49 50-69 | .54 2.80 | 2.13 10.10 |
+| Women | 0-49 50-69 | 0.54 2.80 | 2.13 10.10 |
 | Men | 0-49 50-69 | 1.04 5.41 | 4.12 19.23 |
 | High Risk PatientsWith severe or extreme systemic disease. |  |  |  |
 | Women | 0-49 50-69 | 12.66 17.24 | 47.62 58.82 |
@@ -34,3 +36,11 @@ Mortality Rates for Cholecystectomy in the U.S. (National Halothane Study, JAMA 
 Women in good health or who have only moderate systemic disease and are under 49 years of age have the lowest surgical mortality rate (0.054); men in all categories have a surgical mortality rate twice that of women.
 Common duct exploration quadruples the rates in all categories.
 The rates rise with each decade of life and increase tenfold or more in all categories with severe or extreme systemic disease.
+
+# WARNINGS
+
+Enteroliths in Patients with Risk for Intestinal Stenosis or Stasis
+
+There have been rare postmarketing reports of ursodiol-treated patients who developed enteroliths (bezoars) resulting in obstructive symptoms that required surgical intervention.
+These patients had medical conditions that predisposed them to intestinal stenosis or stasis (e.g., surgical enteroanastomoses, Crohn's disease).
+If a patient presents with obstructive gastrointestinal symptoms, hold Ursodiol until a clinical evaluation has been conducted.
