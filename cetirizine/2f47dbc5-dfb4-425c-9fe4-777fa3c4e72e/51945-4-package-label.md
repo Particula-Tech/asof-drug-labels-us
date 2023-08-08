@@ -1,8 +1,8 @@
 # Principal Display Panel
 
-Rx Only
-
 NDC 45802-626-26
+
+Rx Only
 
 Cetirizine Hydrochloride Oral Solution, USP
 

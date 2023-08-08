@@ -1,7 +1,7 @@
 # HOW SUPPLIED
 
 Cetirizine Hydrochloride Oral Solution, USP 1 mg/mL is colorless to slightly yellow with a banana-grape flavor.
-Each teaspoonful (5 mL) contains 5 mg cetirizine hydrochloride.
+Each 5 mL contains 5 mg cetirizine hydrochloride.
 Cetirizine Hydrochloride Oral Solution, USP 1 mg/mL is available as follows:
 
 120 mL amber plastic bottle (NDC 45802-626-26)
