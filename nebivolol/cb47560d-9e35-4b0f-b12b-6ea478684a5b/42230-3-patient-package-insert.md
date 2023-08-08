@@ -77,6 +77,8 @@ WHAT ARE POSSIBLE SIDE EFFECTS OF NEBIVOLOL TABLETS?
 - •Headache
 - •Leg swelling due to fluid retention (edema).
   Tell your doctor if you gain weight or have trouble breathing while taking nebivolol tablets.
+- •If you are diabetic or take medicine for high blood sugar or if you have a tendency to have low blood sugar, nebivolol tablets can mask/cover some of the signs and symptoms that would tell you that your blood sugar may be low, like heart palpitations or rapid heart beating.
+  Ask your doctor for other signs that may alert you when having low blood sugar.
 
 Tell your doctor if you have any side effects that bother you or don’t go away.
 
@@ -135,4 +137,4 @@ www.glenmarkpharma-us.com
 
 Trademarks are the property of their respective owners.
 
-December 2020
+August 2023

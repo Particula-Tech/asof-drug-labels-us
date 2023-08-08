@@ -15,6 +15,9 @@ Advise patients to consult a physician if any difficulty in breathing occurs, or
 
 Caution patients subject to spontaneous hypoglycemia, or diabetic patients receiving insulin or oral hypoglycemic agents, that β-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia.
 
+Inform patients or caregivers that there is a risk of hypoglycemia when nebivolol tablets are given to patients who are fasting or who are vomiting.
+Instruct patients or caregivers how to monitor for signs of hypoglycemia [see Warnings and Precautions (5.5)].
+
 Manufactured by:
 
 Glenmark Pharmaceuticals Limited
@@ -34,4 +37,4 @@ www.glenmarkpharma-us.com
 
 Trademarks are the property of their respective owners.
 
-December 2020
+August 2023

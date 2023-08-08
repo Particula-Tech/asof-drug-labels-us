@@ -45,7 +45,7 @@ Risk Summary
 
 There is no information regarding the presence of nebivolol in human milk, the effects on the breastfed infant, or the effects on milk production.
 Nebivolol is present in rat milk [see Data].
-Because of the potential for βblockers to produce serious adverse reactions in nursing infants, especially bradycardia, nebivolol is not recommended during nursing.
+Because of the potential for β-blockers to produce serious adverse reactions in nursing infants, especially bradycardia, nebivolol is not recommended during nursing.
 
 Data
 
