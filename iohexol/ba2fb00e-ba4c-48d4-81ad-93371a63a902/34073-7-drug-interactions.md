@@ -19,7 +19,7 @@ Beta-adrenergic Blocking Agents
 The use of beta-adrenergic blocking agents lowers the threshold for and increases the severity of contrast reactions and reduces the responsiveness of treatment of hypersensitivity reactions with epinephrine.
 Because of the risk of hypersensitivity reactions, use caution when administering OMNIPAQUE to patients taking beta-blockers.
 
-## 7.2 Drug Laboratory Test Interactions
+## 7.2 Drug-Laboratory Test Interactions
 
 Effect on Thyroid Tests
 
