@@ -1,19 +1,19 @@
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Vial Label
 
-NDC 25021-207-05
+NDC 25021-207-25
 
 Rx only
 
-DOXOrubicin HCl Injection, USP
+DOXOrubicn Hydrochloride Injection, USP
 
-10 mg per 5 mL
+50 mg per 25 mL
 
 (2 mg per mL)
 
-For IV Use Only
+For Intravenous Use Only
 
-5 mL Single-Dose Vial
+25 mL Single-Dose Vial
 
-Sterile Isotonic Solution
+Discard unused portion
 
 Caution: Cytotoxic Agent

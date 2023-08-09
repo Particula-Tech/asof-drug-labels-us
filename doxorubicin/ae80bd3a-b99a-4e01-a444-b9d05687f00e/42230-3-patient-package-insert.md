@@ -1,86 +1,78 @@
 Patient Information
 
-DOXORUBICIN (dok-suh-roo-buh-sin) HYDROCHLORIDE
-
-Injection, for intravenous use
+DOXORUBICIN (dok-suh-roo-buh-sin) HYDROCHLORIDE injection, for intravenous use
 
 What is the most important information I should know about Doxorubicin?
 
 Doxorubicin may cause serious side effects including:
 
-- Heart failure.
-  Doxorubicin may cause heart muscle damage that may lead to heart failure, which is a condition in which the heart does not pump well.
+- Heart muscle problems.
+  Doxorubicin can cause heart muscle damage that may lead to heart failure.
+  Heart failure means your heart does not pump blood well.
   Heart failure is irreversible in some cases and can lead to death.
   Heart failure can happen during your treatment with Doxorubicin or months to years after stopping treatment.
-  Your risk of heart muscle damage increases with higher total amounts of doxorubicin hydrochloride that you receive in your lifetime.
-  Your risk of heart failure is higher if you:
-  - already have other heart problems
+  Your risk of heart muscle damage increases with higher total amounts of Doxorubicin that you receive in your lifetime.
+  Your risk of heart failure is higher if you:Tell your healthcare provider if you get any of these symptoms of heart failure during or after treatment with Doxorubicin: extreme tiredness or weakness shortness of breath fast heartbeat swelling of your feet and ankles Your healthcare provider will do tests to check the strength of your heart muscle before, during, and after your treatment with Doxorubicin.
+  - have other heart problems
   - have had or are currently receiving radiation therapy to your chest
   - have had treatment with certain other anti-cancer medicines
   - take other medicines that can have severe side effects on your heart
-
-Tell your doctor if you get any of these symptoms of heart failure during or after treatment with Doxorubicin:
-
-| extreme tiredness or weakness shortness of breath | fast heartbeat swelling of your feet and ankles |
-| --- | --- |
-
-Your doctor will do tests to check the strength of your heart muscle before, during, and after your treatment with Doxorubicin.
-
+- Heart rhythm problems.
+  Doxorubicin can cause serious heart rhythm problems that may lead to death.
+  This can happen during your infusion, within a few hours after your infusion or anytime during treatment with Doxorubicin.
+  Tell your healthcare provider if you get any symptoms of heart rhythm problems, such as feeling as if your heart is beating fast, irregular or slow, or you feel lightheaded, dizzy, short of breath, chest discomfort or you faint.
 - Risk of new cancers.
-  You may have an increased risk of developing certain blood cancers called acute myelogenous leukemia (AML) or myelodysplastic syndrome (MDS) after treatment with doxorubicin.
-  Talk with your doctor about your risk of developing new cancers if you take Doxorubicin.
-- Skin damage near the vein where Doxorubicin is given (Injection site reaction).
-  Doxorubicin can damage the skin if it leaks out of the vein.
-  Symptoms of infusion reaction include blisters and skin sores at injection site which may require skin grafts.
+  You may have an increased risk of developing certain blood cancers called acute myelogenous leukemia (AML) or myelodysplastic syndrome (MDS) after treatment with Doxorubicin.
+  Talk with your healthcare provider about your risk of developing new cancers if you receive Doxorubicin.
+- Skin damage at or near the vein where Doxorubicin is given.
+  Doxorubicin can damage the skin if it leaks out of the vein and might cause blisters, skin sores or severe tissue damage, which may require skin grafts.
+  Tell your healthcare provider if you get burning or stinging during your infusion.
 - Decreased blood cell counts.
-  Doxorubicin can cause a decrease in neutrophils (a type of white blood cells important in fighting bacterial infections) and platelets (important for clotting and to control bleeding).
-  This may lead to a serious infection, the need for blood transfusions, treatment in a hospital and death.
-  Your doctor will check your blood cell count during your treatment with Doxorubicin and after you have stopped your treatment.
-  Call your doctor right away if you get a fever (temperature of 100.4°F or greater) or chills with shivering.
+  Doxorubicin can cause a decrease in neutrophils (a type of white blood cell important in fighting bacterial infections) and platelets (important for clotting and to control bleeding).
+  This may lead to a serious infection, the need for blood transfusions, treatment in a hospital or death.
+  Your healthcare provider will check your blood cell counts before each infusion and during treatment with Doxorubicin.
+  Call your healthcare provider right away if you get a fever (temperature of 100.4°F or higher) or chills with shivering.
 
 What is Doxorubicin?
 
 Doxorubicin is a prescription medicine used to treat certain types of cancers.
 Doxorubicin may be used alone or along with other anti-cancer medicines.
 
-Who should not receive Doxorubicin?
-
 Do not receive Doxorubicin if:
 
-- you have had a recent heart attack or have severe heart problems
-- your blood cell counts (platelets, red blood cells, and white blood cells) are very low because of prior chemotherapy
-- you have a severe liver problem
-- you have had a serious allergic reaction to doxorubicin hydrochloride
+- you have had a recent heart attack (within the past 4 to 6 weeks) or have severe heart problems.
+- your blood cell counts (platelets, red blood cells, and white blood cells) are very low because of prior chemotherapy.
+- you have severe liver problems.
+- you have had a severe allergic reaction to Doxorubicin.
 
-What should I tell my doctor before receiving Doxorubicin?
+Before you receive Doxorubicin, tell your healthcare provider about all of your medical conditions, including if you:
 
-Before you receive Doxorubicin, tell your doctor if you:
-
-- have heart problems including heart failure
-- are currently receiving radiation therapy or plan to receive radiation to the chest
-- have severe liver problems
-- have had an allergic reaction to doxorubicin
-- have any other medical conditions
+- have heart problems including heart failure.
+- are currently receiving radiation therapy or plan to receive radiation to the chest.
+- have liver problems.
+- have had an allergic reaction to doxorubicin.
 - are pregnant or plan to become pregnant.
   Doxorubicin can harm your unborn baby.
-  Women who are able to become pregnant and men who take Doxorubicin should use effective birth control (contraception) during treatment and for 6 months after treatment.
-  Talk to your doctor about birth control methods.
-  If you or your partner becomes pregnant, tell your doctor right away.
-- are breastfeeding or plan to breast feed.
-  Doxorubicin can pass into your breast milk and harm your baby.
-  You and your doctor should decide if you will receive Doxorubicin or breastfeed.
-  You should not do both.
+  You should not become pregnant during treatment with Doxorubicin.
+  Tell your healthcare provider right away if you become pregnant or think you may be pregnant.Females who are able to become pregnant:Males:
+  - Your healthcare provider will check to see if you are pregnant before you start treatment with Doxorubicin
+  - You should use effective birth control (contraception) during treatment with Doxorubicin and for 6 months after treatment
+  - Doxorubicin can affect your sperm and could cause birth defects.
+  - If you have a female partner who can become pregnant, you should use effective birth control during treatment with Doxorubicin and for 3 months after treatment
+  - If you have a pregnant partner, you should use condoms during treatment with Doxorubicin and for at least 10 days after the final dose
+  - Talk to your healthcare provider about birth control methods that may be right for you
+- are breastfeeding or plan to breastfeed.
+  Doxorubicin can pass into your breast milk.
+  Do not breastfeed during treatment with Doxorubicin and for 10 days after the final dose.
+  Talk to your healthcare provider about the best way to feed your baby during this time.
 
-Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-Doxorubicin can interact with other medicines.
-Do not start any new medicine before you talk with the doctor that prescribed Doxorubicin.
-
-Know the medicines you take.
-Keep a list to show your doctor and pharmacist each time you get a new medicine.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 How will I receive Doxorubicin?
 
-- Doxorubicin will be given to you into your vein.
+- Doxorubicin will be given to you into your vein through an intravenous (IV) line.
+- Your healthcare provider will do blood tests to check for side effects during treatment with Doxorubicin.
+- Your healthcare provider may stop your treatment, change the timing of your treatment, or change the dose of your treatment if you have certain side effects while receiving Doxorubicin.
 
 What are the possible side effects of Doxorubicin?
 
@@ -88,20 +80,9 @@ Doxorubicin may cause serious side effects, including:
 
 - See “What is the most important information I should know about Doxorubicin?”
 
-Doxorubicin may cause lower sperm counts and sperm problems in men.
-
-This could affect your ability to father a child and cause birth defects.
-Talk to your healthcare provider if this is a concern for you.
-Talk to your healthcare provider about family planning options that might be right for you.
-
-Irreversible amenorrhea or early menopause.
-Your periods (menstrual cycle) may completely stop when you receive Doxorubicin.
-Your periods may or may not return following treatment.
-Talk to your healthcare provider about family planning options that might be right for you.
-
 The most common side effects of Doxorubicin include:
 
-- Total hair loss (alopecia).
+- total hair loss (alopecia).
   Your hair may re-grow after your treatment.
 - nausea
 - vomiting
@@ -111,16 +92,22 @@ Other side effects:
 - Red colored urine.
   You may have red colored urine for 1 to 2 days after your infusion of Doxorubicin.
   This is normal.
-  Tell your doctor if it does not stop in a few days, or if you see what looks like blood or blood clots in your urine.
-- Darkening of your nails or separation of your nails from your nail bed.
-- Easy bruising or bleeding.
-- Call your doctor if you have severe symptoms that prevent you from eating or drinking, such as:
+  Tell your healthcare provider if it does not stop in a few days, or if you see what looks like blood or blood clots in your urine.
+- Call your healthcare provider if you have severe symptoms that prevent you from eating or drinking, such as:
   - nausea
   - vomiting
   - diarrhea
-  - mouth sores
+  - mouth pain or sores
 
-Tell your doctor or nurse if you have any side effect that bothers you or that does not go away.
+Doxorubicin may cause fertility problems in males.
+This could affect your ability to father a child.
+Talk to your healthcare provider if this is a concern for you.
+
+Doxorubicin may cause fertility problems in females.
+Your periods (menstrual cycle) may completely stop when you receive Doxorubicin.
+Your periods may or may not return following treatment.
+Early menopause has also happened.
+Talk to your healthcare provider if this is a concern for you.
 
 These are not all of the possible side effects of Doxorubicin.
 
@@ -131,22 +118,20 @@ General information about the safe and effective use of Doxorubicin.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 
-You can ask your pharmacist or doctor for information about Doxorubicin that is written for health professionals.
+You can ask your pharmacist or healthcare provider for information about Doxorubicin that is written for health professionals.
+
+What are the ingredients in Doxorubicin?
+
+Active ingredient: doxorubicin hydrochloride
+
+Inactive ingredients for Doxorubicin Hydrochloride Injection: sodium chloride, and hydrochloric acid, USP.
 
 For more information, call 1-866-625-1618.
 
-What are the ingredients of Doxorubicin?
-
-Active ingredient: Doxorubicin Hydrochloride
-
-Inactive ingredients for Doxorubicin Hydrochloride Injection: Sodium Chloride 0.9%, Water for Injection, and Hydrochloric Acid.
-
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-SAGENT®
+SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2023 Sagent Pharmaceuticals
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2019 Sagent Pharmaceuticals, Inc.
+May 2023
 
-Revised: August 2019
-
-SAGENT Pharmaceuticals®
+SAGENT Pharmaceuticals ®

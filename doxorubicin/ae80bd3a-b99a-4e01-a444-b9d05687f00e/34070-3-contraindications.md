@@ -1,9 +1,9 @@
 # 4 CONTRAINDICATIONS
 
-Doxorubicin HCl is contraindicated in patients with:
+Doxorubicin Hydrochloride Injection is contraindicated in patients with:
 
 - Severe myocardial insufficiency [see Warnings and Precautions (5.1)]
 - Recent (occurring within the past 4 to 6 weeks) myocardial infarction [see Warnings and Precautions (5.1)]
 - Severe persistent drug-induced myelosuppression [see Warnings and Precautions (5.4)]
 - Severe hepatic impairment (defined as Child Pugh Class C or serum bilirubin level greater than 5 mg/dL) [see Warnings and Precautions (5.5)]
-- Severe hypersensitivity reaction to doxorubicin HCl including anaphylaxis [see Adverse Reactions (6.2)]
+- Severe hypersensitivity reaction to doxorubicin hydrochloride, including anaphylaxis [see Adverse Reactions (6.2)]

@@ -1,21 +1,10 @@
 # 11 DESCRIPTION
 
-Doxorubicin is a cytotoxic anthracycline antibiotic isolated from cultures of Streptomyces peucetius var. caesius.
-Doxorubicin consists of a naphthacenequinone nucleus linked through a glycosidic bond at ring atom 7 to an amino sugar, daunosamine.
-Chemically, doxorubicin hydrochloride is (8S,10S)-10-[(3-Amino-2,3,6-trideoxy-α-L-lyxo-hexopyranosyl)-oxy]-8-glycoloyl-7,8,9,10-tetrahydro-6,8,11-trihydroxy-1-methoxy-5,12-naphthacenedione hydrochloride.
-The structural formula is as follows:
+Doxorubicin hydrochloride is an anthracycline topoisomerase inhibitor isolated from cultures of Streptomyces peucetius var. caesius.
+The chemical name of doxorubicin hydrochloride is 5,12-Naphthacenedione, 10-[(3-amino-2,3,6-trideoxy-α-L-lyxo-hexopyranosyl)oxy]-7,8,9,10-tetrahydro- 6,8,11-trihydroxy-8-(hydroxylacetyl)-1-methoxy-, hydrochloride (8S-cis)-.
+The chemical structure of doxorubicin hydrochloride is:
 
-Doxorubicin binds to nucleic acids, presumably by specific intercalation of the planar anthracycline nucleus with the DNA double helix.
-The anthracycline ring is lipophilic, but the saturated end of the ring system contains abundant hydroxyl groups adjacent to the amino sugar, producing a hydrophilic center.
-The molecule is amphoteric, containing acidic functions in the ring phenolic groups and a basic function in the sugar amino group.
-It binds to cell membranes as well as plasma proteins.
-
-It is supplied as a red colored, sterile parenteral, isotonic solution with sodium chloride for intravenous use only.
-
-Doxorubicin Hydrochloride Injection, USP:
-
-Each 2 mg per mL, 5 mL (10 mg) single-dose vial contains 10 mg Doxorubicin Hydrochloride, USP; Sodium Chloride 0.9% (to adjust tonicity) and Water for Injection q.s.; pH adjusted to 3 using Hydrochloric Acid.
-
-Each 2 mg per mL, 25 mL (50 mg) single-dose vial contains 50 mg Doxorubicin Hydrochloride, USP; Sodium Chloride 0.9% (to adjust tonicity) and Water for Injection q.s.; pH adjusted to 3 using Hydrochloric Acid.
-
-Each 2 mg per mL, 100 mL (200 mg) multi-dose vial contains 200 mg Doxorubicin Hydrochloride, USP; Sodium Chloride 0.9% (to adjust tonicity) and Water for Injection q.s.; pH adjusted to 3 using Hydrochloric Acid.
+Doxorubicin Hydrochloride Injection, USP for intravenous use is a clear red, sterile, isotonic aqueous solution provided in vials containing 50 mg per 25 mL doxorubicin hydrochloride, USP (equivalent to 46.86 mg of doxorubicin free base), or 200 mg per 100 mL doxorubicin hydrochloride, USP (equivalent to 187.4 mg of doxorubicin free base).
+The drug product has demonstrated inherent antimicrobial activity suitable for a multiple dose presentation.
+Each milliliter of solution contains 2 mg of doxorubicin hydrochloride and 9 mg of sodium chloride.
+The pH of the solution is adjusted to 2.5 to 4.5 with hydrochloric acid, USP.

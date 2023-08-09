@@ -5,22 +5,22 @@
 Inhibitors of CYP3A4, CYP2D6, and P-gp
 
 Concomitant use of doxorubicin hydrochloride with inhibitors of CYP3A4, CYP2D6, or P-glycoprotein (P-gp), increased concentrations of doxorubicin, which may increase the incidence and severity of adverse reactions of doxorubicin hydrochloride.
-Avoid concomitant use of doxorubicin hydrochloride with inhibitors of CYP3A4, CYP2D6, or P-gp.
+Avoid concomitant use of Doxorubicin Hydrochloride Injection with inhibitors of CYP3A4, CYP2D6, or P-gp.
 
 Inducers of CYP3A4, CYP2D6, or P-gp
 
 Concomitant use of doxorubicin hydrochloride with inducers of CYP3A4, CYP2D6, or P-gp may decrease the concentration of doxorubicin.
-Avoid concomitant use of doxorubicin hydrochloride with inducers of CYP3A4, CYP2D6, or P-gp.
+Avoid concomitant use of Doxorubicin Hydrochloride Injection with inducers of CYP3A4, CYP2D6, or P-gp.
 
 Paclitaxel
 
 Paclitaxel, when given prior to doxorubicin hydrochloride, increases the plasma-concentrations of doxorubicin and its metabolites.
-Administer doxorubicin hydrochloride prior to paclitaxel if used concomitantly.
+Administer Doxorubicin Hydrochloride Injection prior to paclitaxel if used concomitantly.
 
 ## 7.2 Concomitant Use of Trastuzumab
 
 Concomitant use of trastuzumab and doxorubicin hydrochloride results in an increased risk of cardiac dysfunction.
-Avoid concomitant administration of doxorubicin and trastuzumab [see Warnings and Precautions (5.1)].
+Avoid concomitant administration of Doxorubicin Hydrochloride Injection and trastuzumab [see Warnings and Precautions (5.1)].
 
 Patients receiving doxorubicin after stopping treatment with trastuzumab may also be at an increased risk of developing cardiotoxicity.
 Trastuzumab may persist in the circulation for up to 7 months.

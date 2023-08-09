@@ -1,29 +1,49 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Inform patients of the following:
+Cardiomyopathy
 
-- Doxorubicin HCl can cause irreversible myocardial damage.
-  Advise patients to contact a healthcare provider for symptoms of heart failure during or after treatment with doxorubicin HCl [see Warnings and Precautions (5.1)].
-- There is an increased risk of treatment-related leukemia from doxorubicin HCl [see Warnings and Precautions (5.2)].
-- Doxorubicin HCl can reduce the absolute neutrophil count resulting in an increased risk of infection.
-  Advise patients to contact a healthcare provider for new onset fever or symptoms of infection [see Warnings and Precautions (5.4)].
-- Doxorubicin HCl can cause fetal harm when administered during pregnancy.
-  Advise females of reproductive potential to use effective contraception during treatment with doxorubicin HCl and for 6 months after treatment, and to contact their healthcare provider if they become pregnant, or if pregnancy is suspected, during treatment with doxorubicin HCl [see Warnings and Precautions (5.8) and Use in Specific Populations (8.6)].
-- Doxorubicin HCl may induce chromosomal damage in sperm, which may lead to loss of fertility and offspring with birth defects.
-  Advise patients to use effective contraception during and for 6 months after treatment [see Warnings and Precautions (5.8 and Use in Specific Populations (8.6)].
-- Doxorubicin HCl can cause premature menopause in females and loss of fertility in males [see Use in Specific Populations (8.6)].
-- Discontinue nursing while receiving doxorubicin HCl [see Use in Specific Populations (8.3)].
-- Doxorubicin HCl can cause nausea, vomiting, diarrhea, mouth/oral pain and sores.
-  Advise patients to contact a healthcare provider should they develop any severe symptoms that prevent them from eating and drinking [see Adverse Reactions (6)].
-- Doxorubicin HCl causes alopecia [see Adverse Reactions (6.1)].
-- Doxorubicin HCl can cause their urine to appear red for 1 to 2 days after administration.
+Advise patients that Doxorubicin Hydrochloride Injection can cause irreversible myocardial damage and to contact a healthcare provider for symptoms of heart failure during or after treatment [see Warnings and Precautions (5.1)].
 
-SAGENT®
+Secondary Malignancy
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2019 Sagent Pharmaceuticals, Inc.
+Advise patients of the increased risk of treatment-related leukemia [see Warnings and Precautions (5.2)].
 
-Revised: August 2019
+Myelosuppression
 
-SAGENT Pharmaceuticals®
+Advise patients that Doxorubicin Hydrochloride Injection can reduce the absolute neutrophil count resulting in an increased risk of infection and to contact a healthcare provider for new onset fever or symptoms of infection [see Warnings and Precautions (5.4)].
+
+Embryo-Fetal Toxicity
+
+Advise pregnant women and females of reproductive potential of the potential risk to a fetus, and to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.8), Use in Specific Populations (8.1)].
+
+Advise females of reproductive potential to use effective contraception during treatment with Doxorubicin Hydrochloride Injection and for 6 months after treatment [see Warnings and Precautions (5.8), Use in Specific Populations (8.3)].
+
+Advise patients that Doxorubicin Hydrochloride Injection may induce chromosomal damage in sperm, which may lead to loss of fertility and offspring with birth defects.
+Advise males with female partners of reproductive potential to use effective contraception during treatment with Doxorubicin Hydrochloride Injection and for 3 months after treatment [see Warnings and Precautions (5.8), Use in Specific Populations (8.3), Nonclinical Toxicology (13.1)].
+
+Advise males with pregnant partners to use condoms during treatment with Doxorubicin Hydrochloride Injection and for at least 10 days after the final dose [see Use in Specific Populations (8.3)].
+
+Lactation
+
+Advise females not to breastfeed during treatment with Doxorubicin Hydrochloride Injection and for 10 days after the final dose [see Use in Specific Populations (8.2)].
+
+Infertility
+
+Advise females and males of the potential loss of fertility from Doxorubicin Hydrochloride Injection [see Use in Specific Populations (8.3)].
+
+Gastrointestinal and Dermatologic Adverse Reactions
+
+Advise patients that Doxorubicin Hydrochloride Injection can cause nausea, vomiting, diarrhea, mouth/oral pain and sores and to contact a healthcare provider should they develop any severe symptoms that prevent them from eating and drinking [see Adverse Reactions (6)].
+Advise patients that Doxorubicin Hydrochloride Injection can cause alopecia [see Adverse Reactions (6.1)].
+
+Administration
+
+Advise patients that Doxorubicin Hydrochloride Injection can cause their urine to appear red for 1 to 2 days after administration.
+
+SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2023 Sagent Pharmaceuticals
+
+May 2023
+
+SAGENT Pharmaceuticals ®
