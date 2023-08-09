@@ -6,7 +6,7 @@ for intramuscular or subcutaneous use
 
 For allergic emergencies (anaphylaxis)
 
-Read this Instructions for Use carefully before you useepinephrine injection and each time you get a refill.
+Read this Instructions for Use carefully before you use epinephrine injection and each time you get a refill.
 There may be new information.
 Before you need to use your epinephrine injection, make sure your healthcare provider shows you the right way to use it.
 Parents, caregivers, and others who may be in a position to administer epinephrine injection should also understand how to use it well.
