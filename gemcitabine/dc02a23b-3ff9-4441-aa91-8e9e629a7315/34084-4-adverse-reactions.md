@@ -2,15 +2,15 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Hypersensitivity [see Contraindications (4)]
-- Schedule-Dependent Toxicity [see Warnings and Precautions (5.1)]
-- Myelosuppression [see Warnings and Precautions (5.2)]
-- Pulmonary Toxicity and Respiratory Failure [see Warnings and Precautions (5.3)]
-- Hemolytic Uremic Syndrome [see Warnings and Precautions (5.4)]
-- Hepatic Toxicity [see Warnings and Precautions (5.5)]
-- Exacerbation of Radiation Therapy Toxicity [see Warnings and Precautions (5.7)]
-- Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
-- Posterior Reversible Encephalopathy Syndrome [see Warnings and Precautions (5.9)]
+- •Hypersensitivity [see Contraindications (4)]
+- •Schedule-Dependent Toxicity [see Warnings and Precautions (5.1)]
+- •Myelosuppression [see Warnings and Precautions (5.2)]
+- •Pulmonary Toxicity and Respiratory Failure [see Warnings and Precautions (5.3)]
+- •Hemolytic Uremic Syndrome [see Warnings and Precautions (5.4)]
+- •Hepatic Toxicity [see Warnings and Precautions (5.5)]
+- •Exacerbation of Radiation Therapy Toxicity [see Warnings and Precautions (5.7)]
+- •Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
+- •Posterior Reversible Encephalopathy Syndrome [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -66,12 +66,12 @@ Table 6: Selected Laboratory Abnormalities Occurring in Patients Receiving Singl
 
 Additional adverse reactions include the following:
 
-- Transfusion requirements: Red blood cell transfusions (19%); platelet transfusions (<1%)
-- Edema: Edema (13%), peripheral edema (20%), generalized edema (<1%)
-- Flu-like symptoms: Fever, asthenia, anorexia, headache, cough, chills, myalgia, insomnia, rhinitis, sweating, and/or malaise (19%)
-- Infection: Sepsis (<1%)
-- Extravasation: Injection-site reactions (4%)
-- Allergic: Bronchospasm (<2%); anaphylactoid reactions
+- •Transfusion requirements: Red blood cell transfusions (19%); platelet transfusions (<1%)
+- •Edema: Edema (13%), peripheral edema (20%), generalized edema (<1%)
+- •Flu-like symptoms: Fever, asthenia, anorexia, headache, cough, chills, myalgia, insomnia, rhinitis, sweating, and/or malaise (19%)
+- •Infection: Sepsis (<1%)
+- •Extravasation: Injection-site reactions (4%)
+- •Allergic: Bronchospasm (<2%); anaphylactoid reactions
 
 Ovarian Cancer
 
