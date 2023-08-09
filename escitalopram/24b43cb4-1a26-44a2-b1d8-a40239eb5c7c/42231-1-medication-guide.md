@@ -57,7 +57,11 @@ Escitalopram tablets may affect the way other medicines work and other medicines
 
 Especially tell your healthcare provider if you take:
 
-• medicines used to treat migraine headache known as triptans • tricyclic antidepressants • fentanyl • lithium • tramadol • tryptophan • buspirone • amphetamines • St. John’s Wort • medicines used to treat mood, anxiety, psychotic or thought disorders, including selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) • diuretics • medicines that can affect blood clotting such as aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs) and warfarin
+• medicines used to treat migraine headache known as triptans • tricyclic antidepressants • fentanyl • lithium • tramadol
+
+• or other opioids
+
+• tryptophan • buspirone • amphetamines • St. John’s Wort • medicines used to treat mood, anxiety, psychotic or thought disorders, including selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) • diuretics • medicines that can affect blood clotting such as aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs) and warfarin
 
 Ask your healthcare provider if you are not sure if you or your child are taking any of these medicines.
 Your healthcare provider can tell you if it is safe to take escitalopram tablets with your other medicines.
@@ -215,6 +219,6 @@ Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA
 
 For more information about escitalopram tablets call at 1-888-943-3210 or 1-855-926-3384.
 
-Revised: June 2023
+Revised: August 2023
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

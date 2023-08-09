@@ -32,4 +32,4 @@ Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA.
 
 Medication Guide available at:www.macleodspharma.com/usa
 
-Revised: 06/2023
+Revised: 08/2023
