@@ -1,0 +1,99 @@
+# 8 USE IN SPECIFIC POPULATIONS
+
+## 8.1 Pregnancy
+
+Risk Summary
+
+Available data from published observational studies have not demonstrated an association of adverse developmental outcomes with maternal use of metoprolol during pregnancy (see Data).
+Untreated hypertension and heart failure during pregnancy can lead to adverse outcomes for the mother and the fetus (see Clinical Considerations).
+In animal reproduction studies, metoprolol has been shown to increase post-implantation loss and decrease neonatal survival in rats at oral dosages of 500 mg/kg/day, approximately 24 times the daily dose of 200 mg in a 60-kg patient on a mg/m2 basis.
+
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Clinical consideration
+
+Disease-associated maternal and/or embryo/fetal risk
+
+Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section, and post-partum hemorrhage).
+Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death.
+Pregnant women with hypertension should be carefully monitored and managed accordingly.
+
+Stroke volume and heart rate increase during pregnancy, increasing cardiac output, especially during the first trimester.
+There is a risk for preterm birth with pregnant women with chronic heart failure in 3rd trimester of pregnancy.
+
+Fetal/Neonatal adverse reactions
+
+Metoprolol crosses the placenta.
+Neonates born to mothers who are receiving metoprolol during pregnancy, may be at risk for hypotension, hypoglycemia, bradycardia, and respiratory depression.
+Observe neonates for symptoms of hypotension, bradycardia, hypoglycemia and respiratory depression and manage accordingly.
+
+Data
+
+Human Data
+
+Data from published observational studies did not demonstrate an association of major congenital malformations and use of metoprolol in pregnancy.
+The published literature has reported inconsistent findings of intrauterine growth retardation, preterm birth and perinatal mortality with maternal use of metoprolol during pregnancy; however, these studies have methodological limitations hindering interpretation.
+Methodological limitations include retrospective design, concomitant use of other medications, and other unadjusted confounders that may account for the study findings including the underlying disease in the mother.
+These observational studies cannot definitely establish or exclude any drug-associated risk during pregnancy.
+
+Animal Data
+
+Metoprolol has been shown to increase post-implantation loss and decrease neonatal survival in rats at oral dosages of 500 mg/kg/day, i.e. 24 times, on a mg/m2 basis, the daily dose of 200 mg in a 60-kg patient.
+
+No fetal abnormalities were observed when pregnant rats received metoprolol orally up to a dose of 200 mg/kg/day, i.e. 10 times, the daily dose of 200 mg in a 60-kg patient.
+
+## 8.2 Lactation
+
+Risk Summary
+
+Limited available data from published literature report that metoprolol is present in human milk.
+The estimated daily infant dose of metoprolol received from breastmilk range from 0.05 mg to less than 1 mg.
+The estimated relative infant dosage was 0.5% to 2% of the mother's weight-adjusted dosage (see Data).
+No adverse reactions of metoprolol on the breastfed infant have been identified.
+There is no information regarding the effects of metoprolol on milk production.
+
+Clinical consideration
+
+Monitoring for adverse reactions
+
+For a lactating woman who is a slow metabolizer of metoprolol, monitor the breastfed infant for bradycardia and other symptoms of beta blockade such as dry mouth, skin or eyes, diarrhea or constipation.
+In a report of 6 mothers taking metoprolol, none reported adverse effects in her breastfed infant.
+
+Data
+
+Limited published cases estimate the infant daily dose of metoprolol received from breast milk range from 0.05 mg to less than 1 mg.
+
+In 2 women who were taking unspecified amount of metoprolol, milk samples were taken after one dose of metoprolol.
+The estimated amount of metoprolol and alpha-hydroxymetoprolol in breast milk is reported to be less than 2% of the mother's weight-adjusted dosage.
+
+In a small study, breast milk was collected every 2 to 3 hours over one dosage interval, in three mothers (at least 3 months postpartum) who took metoprolol of unspecified amount.
+The average amount of metoprolol present in breast milk was 71.5 mcg/day (range 17.0 to 158.7).
+The average relative infant dosage was 0.5% of the mother's weight-adjusted dosage.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Risk Summary
+
+Based on the published literature, beta blockers (including metoprolol) may cause erectile dysfunction and inhibit sperm motility.
+In animal fertility studies, metoprolol has been associated with reversible adverse effects on spermatogenesis starting at oral dose level of 3.5 mg/kg in rats, which would correspond to a dose of 34 mg/day in humans in mg/m2 equivalent, although other studies have shown no effect of metoprolol on reproductive performance in male rats.
+
+No evidence of impaired fertility due to metoprolol was observed in rats [see Nonclinical Toxicology (13.1)].
+
+## 8.4 Pediatric Use
+
+Safety and effectiveness in pediatric patients have not been established.
+
+## 8.5 Geriatric Use
+
+In worldwide clinical trials of metoprolol in myocardial infarction, where approximately 478 patients were over 65 years of age (0 over 75 years of age), no age-related differences in safety and effectiveness were found.
+Other reported clinical experience in myocardial infarction has not identified differences in response between the elderly and younger patients.
+However, greater sensitivity of some elderly individuals taking metoprolol cannot be categorically ruled out.
+Therefore, in general, it is recommended that dosing proceed with caution in this population.
+
+## 8.6 Hepatic Impairment
+
+No studies have been performed with metoprolol in patients with hepatic impairment.
+Because metoprolol is metabolized by the liver, metoprolol blood levels are likely to increase substantially with poor hepatic function.
+Therefore, initiate therapy at doses lower than those recommended for a given indication.

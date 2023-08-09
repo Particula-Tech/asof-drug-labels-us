@@ -1,6 +1,8 @@
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Vial Label
+# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Vial Label
 
 NDC 25021-303-05
+
+Rx only
 
 Metoprolol Tartrate Injection, USP
 
@@ -8,8 +10,6 @@ Metoprolol Tartrate Injection, USP
 
 (1 mg per mL)
 
-Rx only
-
-For IV Use
+For Intravenous Use
 
 5 mL Single-Dose Vial

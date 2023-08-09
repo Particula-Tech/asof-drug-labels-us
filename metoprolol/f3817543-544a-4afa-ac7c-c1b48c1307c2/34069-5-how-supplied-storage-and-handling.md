@@ -1,31 +1,20 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Metoprolol Tartrate Injection, USP is supplied as follows:
 
-|  | Metoprolol Tartrate Injection, USP |  |
+| NDC | Metoprolol Tartrate Injection, USP (1 mg per mL) | Package Factor |
 | --- | --- | --- |
-| NDC | (1 mg per mL) | Package Factor |
 | 25021-303-05 | 5 mg per 5 mL Single-Dose Vial | 10 vials per carton |
 
-## Storage Conditions
+Storage Conditions
 
-Store at 20° to 25°C (68° to 77°F).
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature.]
 
 Protect from light and heat.
-Retain in carton until time of use.
-
 Do not freeze.
+Retain in carton until time of use.
+Discard unused portion.
 
 Sterile, Nonpyrogenic, Preservative-free.
 The container closure is not made with natural rubber latex.
-
-To report SUSPECTED ADVERSE REACTIONS, contact Sagent Pharmaceuticals, Inc. at 1-866-625-1618 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
-
-SAGENT®
-
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2016 Sagent Pharmaceuticals, Inc.
-
-Revised: January 2016
-
-SAGENT Pharmaceuticals®
