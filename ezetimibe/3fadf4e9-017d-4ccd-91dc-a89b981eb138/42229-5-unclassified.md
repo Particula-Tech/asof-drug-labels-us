@@ -7,9 +7,9 @@ Pregnancy Category C:
 There are no adequate and well-controlled studies of ezetimibe in pregnant women.
 Ezetimibe should be used during pregnancy only if the potential benefit justifies the risk to the fetus.
 
-In oral (gavage) embryo-fetal development studies of ezetimibe conducted in rats and rabbits during organogenesis, there was no evidence of embryolethal effects at the doses tested (250, 500, 1000 mg/kg/day).
-In rats, increased incidences of common fetal skeletal findings (extra pair of thoracic ribs, unossified cervical vertebral centra, shortened ribs) were observed at 1000 mg/kg/day (~10 X the human exposure at 10 mg daily based on AUC0-24hr for total ezetimibe).
-In rabbits treated with ezetimibe, an increased incidence of extra thoracic ribs was observed at 1000 mg/kg/day (150 X the human exposure at 10 mg daily based on AUC0-24hr for total ezetimibe).
+In oral (gavage) embryo-fetal development studies of ezetimibe conducted in rats and rabbits during organogenesis, there was no evidence of embryolethal effects at the doses tested (250, 500, 1,000 mg/kg/day).
+In rats, increased incidences of common fetal skeletal findings (extra pair of thoracic ribs, unossified cervical vertebral centra, shortened ribs) were observed at 1,000 mg/kg/day (~10 X the human exposure at 10 mg daily based on AUC0-24hr for total ezetimibe).
+In rabbits treated with ezetimibe, an increased incidence of extra thoracic ribs was observed at 1,000 mg/kg/day (150 X the human exposure at 10 mg daily based on AUC0-24hr for total ezetimibe).
 Ezetimibe crossed the placenta when pregnant rats and rabbits were given multiple oral doses.
 
 Multiple-dose studies of ezetimibe given in combination with statins in rats and rabbits during organogenesis result in higher ezetimibe and statin exposures.
@@ -42,12 +42,12 @@ TABLE 3: Mean Percent Difference at Week 6 Between the Pooled Ezetimibe Co-Admin
 | --- | --- | --- | --- | --- | --- | --- |
 | Mean percent difference between treatment groups | -12% | -15% | -12% | -14% | -2% | +0.1% |
 | 95% Confidence Interval | (-15%, -9%) | (-18%, -12%) | (-15%, -9%) | (-17%, -11%) | (-9%, +4%) | (-3%, +3%) |
-| * For triglycerides, median % change from baseline |  |  |  |  |  |  |
+| * For triglycerides, median % change from baseline. |  |  |  |  |  |  |
 
 From the start of the trial to the end of Week 33, discontinuations due to an adverse reaction occurred in 7 (6%) patients in the ezetimibe co-administered with simvastatin group and in 2 (2%) patients in the simvastatin monotherapy group.
 
-During the trial, hepatic transaminase elevations (two consecutive measurements for ALT and/or AST ≥3 X ULN) occurred in four (3%) individuals in the ezetimibe co-administered with simvastatin group and in two (2%) individuals in the simvastatin monotherapy group.
-Elevations of CPK (≥10 X ULN) occurred in two (2%) individuals in the ezetimibe co-administered with simvastatin group and in zero individuals in the simvastatin monotherapy group.
+During the trial, hepatic transaminase elevations (two consecutive measurements for ALT and/or AST ≥ 3 X ULN) occurred in four (3%) individuals in the ezetimibe co-administered with simvastatin group and in two (2%) individuals in the simvastatin monotherapy group.
+Elevations of CPK (≥ 10 X ULN) occurred in two (2%) individuals in the ezetimibe co-administered with simvastatin group and in zero individuals in the simvastatin monotherapy group.
 
 In this limited controlled study, there was no significant effect on growth or sexual maturation in the adolescent boys or girls, or on menstrual cycle length in girls.
 
@@ -55,7 +55,7 @@ Co-administration of ezetimibe with simvastatin at doses greater than 40 mg/day 
 Also, ezetimibe has not been studied in patients younger than 10 years of age or in pre-menarcheal girls.
 
 Based on total ezetimibe (ezetimibe + ezetimibe-glucuronide), there are no pharmacokinetic differences between adolescents and adults.
-Pharmacokinetic data in the pediatric population <10 years of age are not available.
+Pharmacokinetic data in the pediatric population < 10 years of age are not available.
 
 ## 8.5 Geriatric Use
 

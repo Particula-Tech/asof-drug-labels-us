@@ -48,7 +48,7 @@ Ezetimibe can be administered with or without food.
 
 Distribution
 
-Ezetimibe and ezetimibe-glucuronide are highly bound (>90%) to human plasma proteins.
+Ezetimibe and ezetimibe-glucuronide are highly bound (> 90%) to human plasma proteins.
 
 Metabolism and Excretion
 
@@ -68,11 +68,11 @@ Ezetimibe was the major component in feces and accounted for 69% of the administ
 
 Specific Populations
 
-Geriatric Patients: In a multiple-dose study with ezetimibe given 10 mg once daily for 10 days, plasma concentrations for total ezetimibe were about 2-fold higher in older (≥65 years) healthy subjects compared to younger subjects.
+Geriatric Patients: In a multiple-dose study with ezetimibe given 10 mg once daily for 10 days, plasma concentrations for total ezetimibe were about 2-fold higher in older (≥ 65 years) healthy subjects compared to younger subjects.
 
 Pediatric Patients: [see Use in Specific Populations (8.4)].
 
-Gender: In a multiple-dose study with ezetimibe given 10 mg once daily for 10 days, plasma concentrations for total ezetimibe were slightly higher (<20%) in women than in men.
+Gender: In a multiple-dose study with ezetimibe given 10 mg once daily for 10 days, plasma concentrations for total ezetimibe were slightly higher (< 20%) in women than in men.
 
 Race: Based on a meta-analysis of multiple-dose pharmacokinetic studies, there were no pharmacokinetic differences between Black and Caucasian subjects.
 Studies in Asian subjects indicated that the pharmacokinetics of ezetimibe were similar to those seen in Caucasian subjects.
@@ -107,7 +107,7 @@ TABLE 4: Effect of Co-Administered Drugs on Total Ezetimibe
 | Atorvastatin 10 mg QD, 14 days | ↓2% | ↑12% |
 | Rosuvastatin 10 mg QD, 14 days | ↑13% | ↑18% |
 | Fluvastatin 20 mg QD, 14 days | ↓19% | ↑7% |
-| * Based on 10 mg dose of ezetimibe† Post-renal transplant patients with mild impaired or normal renal function. In a different study, a renal transplant patient with severe renal insufficiency (creatinine clearance of 13.2 mL/min/1.73 m2) who was receiving multiple medications, including cyclosporine, demonstrated a 12-fold greater exposure to total ezetimibe compared to healthy subjects.‡ See Drug Interactions (7).§ Supralox, 20 mL |  |  |
+| * Based on 10 mg dose of ezetimibe.† Post-renal transplant patients with mild impaired or normal renal function. In a different study, a renal transplant patient with severe renal insufficiency (creatinine clearance of 13.2 mL/min/1.73 m2) who was receiving multiple medications, including cyclosporine, demonstrated a 12-fold greater exposure to total ezetimibe compared to healthy subjects.‡ See Drug Interactions (7).§ Supralox, 20 mL. |  |  |
 
 TABLE 5: Effect of Ezetimibe Co-Administration on Systemic Exposure to Other Drugs
 

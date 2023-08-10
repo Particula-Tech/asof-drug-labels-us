@@ -12,9 +12,9 @@ The most common adverse reactions in the group of patients treated with ezetimib
 
 - Arthralgia (0.3%)
 - Dizziness (0.2%)
-- Gamma-glutamyltransferase increased (0.2%)
+- Gamma-glutamyl transferase increased (0.2%)
 
-The most commonly reported adverse reactions (incidence ≥2% and greater than placebo) in the ezetimibe monotherapy controlled clinical trial database of 2396 patients were: upper respiratory tract infection (4.3%), diarrhea (4.1%), arthralgia (3%), sinusitis (2.8%), and pain in extremity (2.7%).
+The most commonly reported adverse reactions (incidence ≥ 2% and greater than placebo) in the ezetimibe monotherapy controlled clinical trial database of 2396 patients were: upper respiratory tract infection (4.3%), diarrhea (4.1%), arthralgia (3%), sinusitis (2.8%), and pain in extremity (2.7%).
 
 Statin Co-Administration Studies:
 
@@ -25,7 +25,7 @@ The most common adverse reactions in the group of patients treated with ezetimib
 - Myalgia (0.5%)
 - Fatigue, aspartate aminotransferase increased, headache, and pain in extremity (each at 0.2%)
 
-The most commonly reported adverse reactions (incidence ≥2% and greater than statin alone) in the ezetimibe + statin controlled clinical trial database of 11,308 patients were: nasopharyngitis (3.7%), myalgia (3.2%), upper respiratory tract infection (2.9%), arthralgia (2.6%) and diarrhea (2.5%).
+The most commonly reported adverse reactions (incidence ≥ 2% and greater than statin alone) in the ezetimibe + statin controlled clinical trial database of 11,308 patients were: nasopharyngitis (3.7%), myalgia (3.2%), upper respiratory tract infection (2.9%), arthralgia (2.6%) and diarrhea (2.5%).
 
 ## 6.1 Clinical Trials Experience
 
@@ -37,9 +37,9 @@ In 10 double-blind, placebo-controlled clinical trials, 2396 patients with prima
 
 LDL-C were treated with ezetimibe 10 mg/day for a median treatment duration of 12 weeks (range 0 to 39 weeks).
 
-Adverse reactions reported in ≥2% of patients treated with ezetimibe and at an incidence greater than placebo in placebo-controlled studies of ezetimibe, regardless of causality assessment, are shown in Table 1.
+Adverse reactions reported in ≥ 2% of patients treated with ezetimibe and at an incidence greater than placebo in placebo-controlled studies of ezetimibe, regardless of causality assessment, are shown in Table 1.
 
-TABLE 1: Clinical Adverse Reactions Occurring in ≥2% of Patients Treated with Ezetimibe and at an Incidence Greater than Placebo, Regardless of Causality
+TABLE 1: Clinical Adverse Reactions Occurring in ≥ 2% of Patients Treated with Ezetimibe and at an Incidence Greater than Placebo, Regardless of Causality
 
 | Body System/Organ Class Adverse Reaction | Ezetimibe 10 mg (%) n=2396 | Placebo (%) n=1159 |
 | --- | --- | --- |
@@ -61,11 +61,11 @@ Combination with a Statin
 
 In 28 double-blind, controlled (placebo or active-controlled) clinical trials, 11,308 patients with primary hyperlipidemia (age range 10 to 93 years, 48% women, 85% Caucasians, 7% Blacks, 4% Hispanics, 3% Asians) and elevated LDL-C were treated with ezetimibe 10 mg/day concurrently with or added to on-going statin therapy for a median treatment duration of 8 weeks (range 0 to 112 weeks).
 
-The incidence of consecutive increased transaminases (≥3 X ULN) was higher in patients receiving ezetimibe administered with statins (1.3%) than in patients treated with statins alone (0.4%) [see Warnings and Precautions (5.2)].
+The incidence of consecutive increased transaminases (≥ 3 X ULN) was higher in patients receiving ezetimibe administered with statins (1.3%) than in patients treated with statins alone (0.4%) [see Warnings and Precautions (5.2)].
 
-Clinical adverse reactions reported in ≥2% of patients treated with ezetimibe + statin and at an incidence greater than statin, regardless of causality assessment, are shown in Table 2.
+Clinical adverse reactions reported in ≥ 2% of patients treated with ezetimibe + statin and at an incidence greater than statin, regardless of causality assessment, are shown in Table 2.
 
-TABLE 2: Clinical Adverse Reactions Occurring in ≥2% of Patients Treated with Ezetimibe Co-Administered with a Statin and at an Incidence Greater than Statin, Regardless of Causality
+TABLE 2: Clinical Adverse Reactions Occurring in ≥ 2% of Patients Treated with Ezetimibe Co-Administered with a Statin and at an Incidence Greater than Statin, Regardless of Causality
 
 | Body System/Organ Class Adverse Reaction | All Statins* (%) n=9361 | Ezetimibe + All Statins* (%) n=11,308 |
 | --- | --- | --- |
@@ -82,16 +82,16 @@ TABLE 2: Clinical Adverse Reactions Occurring in ≥2% of Patients Treated with 
 | Back pain | 2.3 | 2.4 |
 | Myalgia | 2.7 | 3.2 |
 | Pain in extremity | 1.9 | 2.1 |
-| *All Statins = all doses of all statins |  |  |
+| *All Statins = all doses of all statins. |  |  |
 
 Combination with Fenofibrate
 
 This clinical study involving 625 patients with mixed dyslipidemia (age range 20 to 76 years, 44% women, 79% Caucasians, 0.1% Blacks, 11% Hispanics, 5% Asians) treated for up to 12 weeks and 576 patients treated for up to an additional 48 weeks evaluated co-administration of ezetimibe and fenofibrate.
 This study was not designed to compare treatment groups for infrequent events.
-Incidence rates (95% CI) for clinically important elevations (≥3 X ULN, consecutive) in hepatic transaminase levels were 4.5% (1.9, 8.8) and 2.7% (1.2, 5.4) for fenofibrate monotherapy (n=188) and ezetimibe co-administered with fenofibrate (n=183), respectively, adjusted for treatment exposure.
+Incidence rates (95% CI) for clinically important elevations (≥ 3 X ULN, consecutive) in hepatic transaminase levels were 4.5% (1.9, 8.8) and 2.7% (1.2, 5.4) for fenofibrate monotherapy (n=188) and ezetimibe co-administered with fenofibrate (n=183), respectively, adjusted for treatment exposure.
 Corresponding incidence rates for cholecystectomy were 0.6% (95% CI: 0%, 3.1%) and 1.7% (95% CI: 0.6%, 4%) for fenofibrate monotherapy and ezetimibe co-administered with fenofibrate, respectively [see Drug Interactions (7.3)].
 The numbers of patients exposed to co-administration therapy as well as fenofibrate and ezetimibe monotherapy were inadequate to assess gallbladder disease risk.
-There were no CPK elevations >10 X ULN in any of the treatment groups.
+There were no CPK elevations > 10 X ULN in any of the treatment groups.
 
 ## 6.2 Post-Marketing Experience
 
