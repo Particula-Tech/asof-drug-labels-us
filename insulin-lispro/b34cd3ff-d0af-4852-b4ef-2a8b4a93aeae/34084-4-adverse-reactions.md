@@ -3,7 +3,7 @@
 The following adverse reactions are discussed elsewhere in the labeling:
 
 - Hypoglycemia [see Warnings and Precautions (5.3)]
-- Medication Errors [see Warnings and Precautions (5.4)]
+- Hypoglycemia Due to Medication Errors [see Warnings and Precautions (5.4)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
 - Hypokalemia [see Warnings and Precautions (5.6)]
 
@@ -50,13 +50,13 @@ Medication errors in which other insulins have been accidentally substituted for
 
 Peripheral Edema
 
-Insulin, including HUMALOG Mix50/50, may cause sodium retention and edema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
+Insulins, including HUMALOG Mix50/50, may cause sodium retention and edema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
 
 Weight gain
 
-Weight gain can occur with insulin therapy, including HUMALOG Mix50/50, and has been attributed to the anabolic effects of insulin and the decrease in glycosuria.
+Weight gain can occur with insulins, including HUMALOG Mix50/50, and has been attributed to the anabolic effects of insulin and the decrease in glycosuria.
 
 Immunogenicity
 
-As with all therapeutic peptides, insulin administration may cause anti-insulin antibodies to form.
+As with all therapeutic proteins, insulin administration may cause anti-insulin antibodies to form.
 The incidence of antibody formation with HUMALOG Mix50/50 is unknown.

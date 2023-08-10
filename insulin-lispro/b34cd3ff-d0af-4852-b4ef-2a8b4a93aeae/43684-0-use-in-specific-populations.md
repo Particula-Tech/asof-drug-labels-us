@@ -4,7 +4,6 @@
 
 Risk Summary
 
-The limited available data with HUMALOG Mix50/50 in pregnant women are insufficient to inform a drug-associated risk of adverse developmental outcomes.
 Published studies with insulin lispro used during pregnancy have not reported an association between insulin lispro and the induction of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
 
@@ -45,14 +44,14 @@ There were no adverse effects on fetal viability, weight, and morphology at any 
 
 Risk Summary
 
-There are no data on the presence of HUMALOG Mix50/50 in human milk, the effects on the breastfed infant, or the effect on milk production.
-One small published study reported that exogenous insulin was present in human milk.
-However, there is insufficient information to determine the effects of HUMALOG Mix50/50 on the breastfed infant and no available information on the effects of HUMALOG Mix50/50 on milk production.
+Available data from published literature suggests that exogenous human insulin products, including insulin lispro, are transferred into human milk.
+There are no adverse reactions reported in breastfed infants in the literature.
+There are no data on the effects of exogenous human insulin products, including insulin lispro, on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for insulin, any potential adverse effects on the breastfed child from HUMALOG Mix50/50 or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of HUMALOG Mix50/50 in patients less than 18 years of age has not been established.
+Safety and effectiveness of HUMALOG Mix50/50 in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 

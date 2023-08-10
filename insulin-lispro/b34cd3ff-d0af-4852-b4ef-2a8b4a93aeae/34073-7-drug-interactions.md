@@ -1,5 +1,7 @@
 # 7 DRUG INTERACTIONS
 
+Table 1 describes the clinically significant drug interactions with HUMALOG Mix50/50.
+
 Table 1: Clinically Significant Drug Interactions with HUMALOG Mix50/50
 
 | Drugs that May Increase the Risk of Hypoglycemia |  |

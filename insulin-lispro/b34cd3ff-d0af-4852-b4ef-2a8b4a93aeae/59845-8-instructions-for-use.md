@@ -1,14 +1,14 @@
-# HUMALOG Mix50/50™ VIAL INSTRUCTIONS FOR USE
+# VIAL INSTRUCTIONS FOR USE
 
-Instructions for Use
+INSTRUCTIONS FOR USE
 
 HUMALOG® (HU-ma-log) Mix50/50™
 
-(insulin lispro protamine and insulin lispro injectable suspension)
+(insulin lispro protamine and insulin lispro)
 
-for subcutaneous use
+injectable suspension, for subcutaneous use
 
-10 mL multiple-dose vial (100 units/mL)
+10 mL multiple-dose vial (100 units per mL)
 
 Read this Instructions for Use before you start taking HUMALOG Mix50/50 and each time you get a new vial.
 There may be new information.
@@ -54,7 +54,7 @@ Preparing your HUMALOG Mix50/50 dose
 | Step 9: Slowly push the Plunger up until the Plunger Tip reaches the line for your prescribed dose. Check the syringe to make sure that you have the right dose. | (Example Dose: 20 units shown) |
 | Step 10: Pull the syringe out of the Rubber Stopper of the vial. |  |
 
-Giving your HUMALOG Mix50/50 Injection
+Giving your HUMALOG Mix50/50 injection
 
 - Inject your insulin exactly as your healthcare provider has shown you.
   Your healthcare provider should tell you if you should pinch the skin before injecting.
@@ -97,7 +97,7 @@ All unopened vials:
 
 After vials have been opened:
 
-- Store opened vials in the refrigerator or at room temperature below 86°F (30°C) for up to 28 days.
+- Store opened vials in the refrigerator or at room temperature up to 86°F (30°C) for up to 28 days.
 - Keep vials away from heat and out of direct light.
 - Throw away all opened vials after 28 days of use, even if there is insulin left in the vial.
 
@@ -106,30 +106,32 @@ Keep HUMALOG Mix50/50 vials, syringes, needles, and all medicines out of the rea
 If you have any questions or problems with your HUMALOG, contact Lilly at 1-800-Lilly-Rx (1-800-545-5979) or call your healthcare provider for help.
 For more information on HUMALOG and insulin, go to www.humalog.com.
 
-Scan this code to launch the humalog.com website
+Manufactured by: Eli Lilly and Company Indianapolis, IN 46285, USA US License Number 1891
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
+Revised: 07/2023
+
+Scan this code to launch the humalog.com website
+
 Humalog® and Humalog® Mix50/50™ are registered trademarks of Eli Lilly and Company.
 
-Revised: 11/2019
-
-Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 1999, 2019, Eli Lilly and Company.
+Copyright © 1999, 2023, Eli Lilly and Company.
 All rights reserved.
 
-LOG5050VL-0002-IFU-20191115
+LOG5050VL-0003-IFU-20230721
 
-# HUMALOG Mix50/50™ KWIKPEN INSTRUCTIONS FOR USE
+# KWIKPEN (U-100) INSTUCTIONS FOR USE
 
-Instructions for Use
+INSTRUCTIONS FOR USE
 
 HUMALOG® (HU-ma-log) Mix50/50™ KwikPen®
 
-(insulin lispro protamine and insulin lispro injectable suspension)
+(insulin lispro protamine and insulin lispro)
 
-for subcutaneous use
+injectable suspension, for subcutaneous use
 
-3 mL single-patient-use pen (100 units/mL)
+3 mL single-patient-use pen (100 units per mL)
 
 Read this Instructions for Use before you start taking HUMALOG Mix50/50 and each time you get another KwikPen.
 There may be new information.
@@ -218,9 +220,7 @@ Giving your injection
 | Step 12: Choose your injection site. HUMALOG Mix50/50 is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs or upper arms. Wipe your skin with an alcohol swab, and let your skin dry before you inject your dose. |  |
 | --- | --- |
 | Step 13: Insert the Needle into your skin. Push the Dose Knob all the way in. Continue to hold the Dose Knob in and slowly count to 5 before removing the Needle. Do not try to inject your insulin by turning the Dose Knob. You will not receive your insulin by turning the Dose Knob. |  |
-
 | Step 14: Pull the Needle out of your skin. A drop of insulin at the Needle tip is normal. It will not affect your dose. Check the number in the Dose Window. - If you see “0” in the Dose Window, you have received the full amount you dialed. - If you do not see “0” in the Dose Window, do not redial. Insert the Needle into your skin and finish your injection. - If you still do not think you received the full amount you dialed for your injection, do not start over or repeat the injection. Monitor your blood glucose as instructed by your healthcare provider. - If you normally need to give 2 injections for your full dose, be sure to give your second injection. The Plunger only moves a little with each injection, and you may not notice that it moves. If you see blood after you take the Needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab. Do not rub the area. |  |
-| --- | --- |
 
 After your injection
 
@@ -231,6 +231,7 @@ After your injection
 
 Disposing of Pens and Needles
 
+- The used Pen may be discarded in your household trash after you have removed the needle.
 - Put your used needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles in your household trash.
 - If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
@@ -244,7 +245,6 @@ Disposing of Pens and Needles
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal
 - Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
-- The used Pen may be discarded in your household trash after you have removed the needle.
 
 Storing your Pen
 
@@ -254,7 +254,7 @@ Unused Pens
 - Do not freeze your insulin.
   Do not use if HUMALOG Mix50/50 has been frozen.
 - Unused Pens may be used until the expiration date printed on the Label, if the Pen has been kept in the refrigerator.
-- Unused Pens stored at room temperature, below 86°F (30°C), should be thrown away after 10 days.
+- Unused Pens stored at room temperature, up to 86°F (30°C), should be thrown away after 10 days.
 
 In-use Pen
 
@@ -272,31 +272,29 @@ Troubleshooting
 
 - If you can not remove the Pen Cap, gently twist the cap back and forth, and then pull the cap straight off.
 - If the Dose Knob is hard to push:
-- - Pushing the Dose Knob more slowly will make it easier to inject.
-- - Your Needle may be blocked.
-  Put on a new Needle and prime the Pen.
-- - You may have dust, food, or liquid inside the Pen.
-  Throw the Pen away and get a new Pen.
+  - - Pushing the Dose Knob more slowly will make it easier to inject.
+  - - Your Needle may be blocked.
+    Put on a new Needle and prime the Pen.
+  - - You may have dust, food, or liquid inside the Pen.
+    Throw the Pen away and get a new Pen.
 
 If you have any questions or problems with your HUMALOG Mix50/50 KwikPen, contact Lilly at 1-800-LillyRx (1-800-545-5979) or call your healthcare provider for help.
 For more information on HUMALOG Mix50/50 KwikPen and insulin, go to www.humalog.com.
 
-Scan this code to launch
-
-www.humalog.com
+Manufactured by: Eli Lilly and Company Indianapolis, IN 46285, USA US License Number 1891
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
+Revised: 07/2023
+
+Scan this code to launch (www.humalog.com)
+
 HUMALOG® Mix50/50™ and HUMALOG® Mix50/50™ KwikPen® are trademarks of Eli Lilly and Company.
 
-Revised: April 2020
-
-Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
-
-Copyright © 2007, 2020, Eli Lilly and Company.
+Copyright © 2007, 2023, Eli Lilly and Company.
 All rights reserved.
 
 | HUMALOG Mix50/50 KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1. |
 | --- |
 
-LOG5050KP-0005-IFU-20200407
+LOG5050KP-0006-IFU-20230721
