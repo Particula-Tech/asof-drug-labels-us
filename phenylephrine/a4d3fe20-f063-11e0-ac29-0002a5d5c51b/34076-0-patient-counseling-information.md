@@ -3,6 +3,8 @@
 Advise patients not to touch the dropper tip to any surface as this may contaminate the solution.
 Inform patients they may experience sensitivity to light and should protect their eyes in bright illumination while their pupils are dilated.
 
-Distributed by: Paragon BioTeck, Inc 4640 S Macadam Ave, Ste 80 Portland, OR 97239
+Distributed by: Paragon BioTeck, Inc. Bridgewater, NJ 08807 USA
 
-Paragon BioTeck, Inc. Portland, OR 97239 ©Paragon BioTeck, Inc.
+© 2023 Bausch & Lomb Incorporated or its affiliates
+
+9792900
