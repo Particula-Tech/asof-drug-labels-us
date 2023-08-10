@@ -2,33 +2,39 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic effects.
-Pregnancy Category C.
+Risk Summary
 
-Retinoids may cause fetal harm, when administered to pregnant women.
-Adapalene has been shown to be teratogenic in rats and rabbits when administered orally (see Animal Data below).
-There are no adequate and well-controlled studies in pregnant women.
-Adapalene Gel, 0.3% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-The safety and efficacy of Adapalene Gel, 0.3% in pregnancy has not been established.
+Available data from clinical trials with Adapalene Gel, 0.3% use in pregnant women are insufficient to establish a drug-associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes.
+In animal reproduction studies, oral administration of adapalene to pregnant rats and rabbits during organogenesis at dose exposures 40 and 81 times, respectively, the human exposure at the maximum recommended human dose (MRHD) of 2 g resulted in fetal skeletal and visceral malformations (see Data).
 
-Human Data
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
+In the U.S. general population the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies are 2 to 4% and 15 to 20%, respectively.
 
-In clinical trials involving Adapalene Gel, 0.3% in the treatment of acne vulgaris, women of child-bearing potential initiated treatment only after having had a negative pregnancy test and used effective birth control measures during therapy.
-However, 6 women treated with Adapalene Gel, 0.3% became pregnant.
-One patient elected to terminate the pregnancy, two patients delivered healthy babies by normal delivery, two patients delivered prematurely and the babies remained in intensive care until reaching a healthy state and one patient was lost to follow-up.
+Data
 
 Animal Data
 
-- No teratogenic effects were seen in rats at oral doses of 0.15 to 5 mg/kg/day adapalene representing up to 6 times the maximum recommended human dose (MRHD) based on mg/m2 comparisons.
-  Adapalene has been shown to be teratogenic in rats and rabbits when administered orally at doses ≥ 25 mg/kg representing 32 and 65 times, respectively, the MRHD based on mg/m2 comparisons.
-  Findings included cleft palate, microphthalmia, encephalocele and skeletal abnormalities in the rat and umbilical hernia, exophthalmos and kidney and skeletal abnormalities in the rabbit.
-- Cutaneous teratology studies in rats and rabbits at doses of 0.6, 2, and 6 mg/kg/day exhibited no fetotoxicity and only minimal increases in supernumerary ribs in both species and delayed ossification in rabbits.
-  Systemic exposure (AUC0-24h) to adapalene 0.3% gel at topical doses of 6 mg/kg/day in rats and rabbits represented 5.7 and 28.7 times, respectively, the exposure in acne patients treated with adapalene 0.3% gel applied to the face, chest and back (2 grams applied to 1000 cm2 of acne involved skin).
+No malformations were observed in rats treated with oral adapalene doses of 0.15 to 5 mg/kg/day, up to 8 times the MRHD based on a mg/m2 comparison.
+However, malformations were observed in rats and rabbits when treated with oral doses of ≥ 25 mg/kg/day adapalene (40 and 81 times the MRHD, respectively, based on a mg/m2 comparison).
+Findings included cleft palate, microphthalmia, encephalocele, and skeletal abnormalities in rats and umbilical hernia, exophthalmos, and kidney and skeletal abnormalities in rabbits.
 
-## 8.3 Nursing Mothers
+Dermal adapalene embryofetal development studies in rats and rabbits at doses up to 6 mg/kg/day (9.7 and 19.5 times the MRHD, respectively, based on a mg/m2comparison) exhibited no fetotoxicity and only minimal increases in skeletal variations (supernumerary ribs in both species and delayed ossification in rabbits).
 
-It is not known whether adapalene is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when Adapalene Gel, 0.3% is administered to a nursing woman.
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of topical adapalene gel or its metabolite in human milk, the effects on the breastfed infant, or the effects on milk production.
+In animal studies, adapalene is present in rat milk with oral administration of the drug.
+When a drug is present in animal milk, it is likely that the drug will be present in human milk.
+It is possible that topical administration of large amounts of adapalene could result in sufficient systemic absorption to produce detectable quantities in human milk (see Clinical Considerations).
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Adapalene Gel, 0.3% and any potential adverse effects on the breastfed child from Adapalene Gel, or from the underlying maternal condition.
+
+Clinical Considerations
+
+To minimize potential exposure to the breastfed infant via breastmilk, use Adapalene Gel, 0.3% on the smallest area of skin and for the shortest duration possible while breastfeeding.
+Avoid application of Adapalene Gel, 0.3% to areas with increased risk for potential ingestion by or ocular exposure to the breastfeeding child.
 
 ## 8.4 Pediatric Use
 

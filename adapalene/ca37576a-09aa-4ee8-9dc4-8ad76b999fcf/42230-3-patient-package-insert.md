@@ -1,25 +1,29 @@
-# Patient Information Adapalene (a dap` a leen) Gel, 0.3%
+# Patient Information
 
-Important: For use on the skin only (topical).
-Do not use Adapalene Gel, 0.3% in or on your mouth, eyes, or vagina.
+Adapalene (a dap` a leen) Gel, 0.3%
+
+| Important: For use on the skin only (topical). Do not use Adapalene Gel, 0.3% in or on your mouth, eyes, or vagina. |
+| --- |
 
 Read this Patient Information that comes with Adapalene Gel, 0.3% before you start using it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your treatment or your medical condition.
-If you have any questions about Adapalene Gel, 0.3%, talk with your doctor or pharmacist.
+If you have any questions about Adapalene Gel, 0.3% talk with your doctor or pharmacist.
 
 What is Adapalene Gel, 0.3%?
 
 Adapalene Gel, 0.3% is a prescription medicine for skin use only (topical) used to treat acne vulgaris in people 12 years of age and older.
+
 Acne vulgaris is a condition in which the skin has blackheads, whiteheads and pimples.
-It is not known if Adapalene Gel, 0.3% is safe and effective in children younger than 12 years of age or in people 65 years of age and older
+
+It is not known if Adapalene Gel, 0.3% is safe and effective in children younger than 12 years of age or in people 65 years of age and older.
 
 Who should not use Adapalene Gel, 0.3%?
 
 Do not use Adapalene Gel, 0.3% if you:
 
 - are allergic to adapalene or any of the ingredients in Adapalene Gel, 0.3%.
-  See the end of this Patient Information for a complete list of ingredients in Adapalene Gel.
+  See the end of this Patient Information for a complete list of ingredients in Adapalene Gel, 0.3%.
 
 What should I tell my doctor before using Adapalene Gel, 0.3%?
 
@@ -28,13 +32,13 @@ Before you use Adapalene Gel, 0.3%, tell your doctor if you:
 - have other skin problems, including cuts or sunburn
 - have any other medical conditions
 - are pregnant or planning to become pregnant.
-  It is not known if Adapalene Gel, 0.3% can harm your unborn baby.
+  It is not known if Adapalene Gel, 0.3%, can harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
 - are breastfeeding or plan to breastfeed.
-  It is not known if Adapalene Gel, 0.3% passes into your breast milk and if it can harm your baby.
+  It is not known if adapalene passes into your breast milk and if it can harm your baby.
   Talk to your doctor about the best way to feed your baby if you use Adapalene Gel, 0.3%.
 
-Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
 
 Especially tell your doctor if you use any other medicine for acne.
 Using Adapalene Gel, 0.3% with topical medicines that contain sulfur, resorcinol or salicylic acid may cause skin irritation.
@@ -56,14 +60,14 @@ Applying Adapalene Gel, 0.3%:
 - Wash the area where Adapalene Gel, 0.3% will be applied with a soap that does not contain a medicine and pat dry.
 - Adapalene Gel, 0.3% comes in a tube and a pump.
   If you have been prescribed the:
-- Tube: Squeeze a small amount onto your fingertips and spread a thin layer over the entire face and any other affected areas.
-- Pump: Depress the pump to dispense a small amount of Adapalene Gel, 0.3% and spread a thin layer over the entire face and any other affected area.
+  - Tube: Squeeze a small amount onto your fingertips and spread a thin layer over the entire face and any other affected areas.
+  - Pump: Depress the pump to dispense a small amount of Adapalene Gel, 0.3% and spread a thin layer over the entire face and any other affected area.
 
 What should I avoid while using Adapalene Gel, 0.3%?
 
 - You should avoid spending time in sunlight or artificial sunlight, such as tanning beds or sunlamps.
   Adapalene Gel, 0.3% can make your skin sensitive to sun and the light from tanning beds and sunlamps.
-  You should wear sunscreen and wear a hat and clothes that cover the areas treated with Adapalene Gel, 0.3% if you have to be in sunlight.
+  You should wear sunscreen and wear hat and clothes that cover the areas treated with Adapalene Gel, 0.3% if you have to be in sunlight.
 - You should avoid weather extremes such as wind and cold as this may cause irritation to your skin.
 - You should avoid applying Adapalene Gel, 0.3% to cuts, abrasions and sunburned skin.
 - You should avoid skin products that may dry or irritate your skin such as harsh soaps, astringents, cosmetics that have strong skin drying effects and products containing high levels of alcohol.
@@ -73,20 +77,21 @@ What are the possible side effects of Adapalene Gel, 0.3%?
 
 Adapalene Gel, 0.3% may cause serious side effects including:
 
-- –Local skin reactions.
+- Local skin reactions.
   Local skin reactions are most likely to happen during the first 4 weeks of treatment and usually lessen with continued use of Adapalene Gel, 0.3%.
   Signs and symptoms of local skin reaction include:
   - Redness
   - Dryness
   - Scaling
   - Stinging or burning
-- –Allergic reactions.
+- Allergic reactions.
   Adapalene Gel, 0.3% may cause an allergic reaction that may require medical treatment.
   Stop using Adapalene Gel, 0.3% and tell your doctor right away if you have any of these symptoms of an allergic reaction:
   - skin rash, itching or hives
   - trouble breathing or chest pain
   - swelling of your face, eyes, lips, tongue or throat
-  - You may use a moisturizer for relief of dry skin or irritation, however you should avoid products that contain alpha hydroxy or glycolic acid.
+
+You may use a moisturizer for relief of dry skin or irritation, however you should avoid products that contain alpha hydroxy or glycolic acid.
 
 The most common side effects of Adapalene Gel, 0.3% are:
 
@@ -106,7 +111,7 @@ You may also report side effects to Taro Pharmaceuticals U.S.A., Inc. at 1-866-9
 
 How should I store Adapalene Gel, 0.3%?
 
-- Store Adapalene Gel, 0.3% at room temperature between 68° F to 77°F (20°C to 25°C).
+- Store Adapalene Gel, 0.3% at room temperature between 68° F to 77° F (20° C to 25° C).
 - Do not freeze Adapalene Gel, 0.3%.
 
 Keep Adapalene Gel, 0.3% and all medicines out of the reach of children.
@@ -129,4 +134,5 @@ Active ingredient: adapalene
 Inactive ingredients: carbomer homopolymer type C, edetate disodium, methylparaben, poloxamer 182, propylene glycol, purified water and sodium hydroxide.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Issued: October, 2015 LPK-7716-0 1015-0 35
+
+Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada, L6T 1C1 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Revised: 7/2023

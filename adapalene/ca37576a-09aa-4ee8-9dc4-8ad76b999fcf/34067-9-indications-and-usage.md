@@ -1,3 +1,3 @@
-# 1 INDICATIONS AND USAGE
+# 1. INDICATIONS AND USAGE
 
 Adapalene Gel, 0.3% is indicated for the topical treatment of acne vulgaris in patients 12 years of age and older.

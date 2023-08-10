@@ -2,16 +2,12 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenicity studies with adapalene have been conducted in mice at topical doses of 0.4, 1.3, and 4 mg/kg/day, and in rats at oral doses of 0.15, 0.5, and 1.5 mg/kg/day.
-These doses are up to 3 times (mice) and 2 times (rats) in terms of mg/m²/day the potential exposure at the maximum recommended human dose (MRHD), assumed to be 2.5 grams Adapalene Gel, 0.3%.
-In the oral study, increased incidence of benign and malignant pheochromocytomas in the adrenal medullas of male rats was observed.
+No carcinogenicity, genotoxicity, or impairment of fertility studies were conducted with Adapalene Gel, 0.3%.
 
-No photocarcinogenicity studies were conducted.
-Animal studies have shown an increased risk of skin neoplasms with the use of pharmacologically similar drugs (e.g., retinoids) when exposed to UV irradiation in the laboratory or to sunlight.
-Although the significance of these studies to human use is not clear, patients should be advised to avoid or minimize exposure to either sunlight or artificial UV irradiation sources.
+Carcinogenicity studies with adapalene were conducted in mice at topical doses of 0.4, 1.3, and 4 mg/kg/day (1.2, 3.9, and 12 mg/m2/day) and in rats at oral doses of 0.15, 0.5, and 1.5 mg/kg/day (0.9, 3, and 9.0 mg/m2/day).
+The highest dose levels are 3.2 (mice) and 2.4 (rats) times the MRHD based on a mg/m2 comparison.
+In the rat study, an increased incidence of benign and malignant pheochromocytomas reported in the adrenal medulla of male rats was observed.
 
-Adapalene did not exhibit mutagenic or genotoxic effects in vitro (Ames test, Chinese hamster ovary cell assay, mouse lymphoma TK assay) and in vivo (mouse micronucleus test).
+Adapalene was not mutagenic or genotoxic in vitro (Ames test, Chinese hamster ovary cell assay, or mouse lymphoma TK assay) or in vivo (mouse micronucleus test).
 
-Reproductive function and fertility studies were conducted in rats administered oral doses of adapalene in amounts up to 20 mg/kg/day (up to 26 times the MRHD based on mg/m2 comparisons).
-No effects of adapalene were found on the reproductive performance or fertility of the F0 males or females.
-There were also no detectable effects on the growth, development and subsequent reproductive function of the F1 offspring.
+In rat oral studies, 20 mg/kg/day adapalene (32 times the MRHD based on a mg/m2 comparison) did not affect the reproductive performance and fertility of F0 males and females or the growth, development, or reproductive function of F1 offspring.
