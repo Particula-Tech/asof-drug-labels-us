@@ -4,7 +4,6 @@
 
 Risk Summary
 
-The limited available data with Insulin Lispro Injection in pregnant women are insufficient to inform a drug-associated risk of adverse developmental outcomes.
 Published studies with insulin lispro used during pregnancy have not reported an association between insulin lispro and the induction of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
 
@@ -43,31 +42,27 @@ There were no adverse effects on fetal viability, weight, and morphology at any 
 
 Risk Summary
 
-There are no data on the presence of Insulin Lispro Injection in human milk, the effects on the breastfed infant, or the effect on milk production.
-One small published study reported that exogenous insulin was present in human milk.
-However, there is insufficient information to determine the effects of Insulin Lispro Injection on the breastfed infant and no available information on the effects of Insulin Lispro Injection on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for insulin, any potential adverse effects on the breastfed child from Insulin Lispro Injection or from the underlying maternal condition.
+Available data from published literature suggests that exogenous human insulin products, including insulin lispro, are transferred into human milk.
+There are no adverse reactions reported in breastfed infants in the literature.
+There are no data on the effects of exogenous human insulin products, including insulin lispro, on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for insulin, any potential adverse effects on the breastfed child from Insulin Lispro or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-Insulin Lispro Injection is approved for use in children for subcutaneous daily injections [see Clinical Studies (14)].
-Insulin Lispro Injection is approved for use in children by continuous subcutaneous infusion in insulin pumps.
-Insulin Lispro Injection has not been studied in pediatric patients younger than 3 years of age.
-Insulin Lispro Injection has not been studied in pediatric patients with type 2 diabetes.
-
-As in adults, the dosage of Insulin Lispro Injection must be individualized in pediatric patients based on metabolic needs and results of frequent monitoring of blood glucose.
+The safety and effectiveness of Insulin Lispro to improve glycemic control have been established in pediatric patients with diabetes mellitus.
+Use of Insulin Lispro for this indication is supported by evidence from adequate and well-controlled studies in 831 pediatric patients with type 1 diabetes mellitus aged 3 years and older and from studies in adults with diabetes mellitus [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects (n=2834) in eight clinical studies of Insulin Lispro Injection, twelve percent (n=338) were 65 years of age or over.
-The majority of these had type 2 diabetes.
+Of the total number of patients (n=2,834) in eight clinical studies of Insulin Lispro, twelve percent (n=338) were 65 years of age or over.
+The majority of these patients had type 2 diabetes.
 HbA1c values and hypoglycemia rates did not differ by age.
-Pharmacokinetic/pharmacodynamic studies to assess the effect of age on the onset of Insulin Lispro Injection action have not been performed.
+Pharmacokinetic/pharmacodynamic studies to assess the effect of age on the onset of Insulin Lispro action have not been performed.
 
 ## 8.6 Renal Impairment
 
-Patients with renal impairment may be at increased risk of hypoglycemia and may require more frequent Insulin Lispro Injection dose adjustment and more frequent blood glucose monitoring [see Clinical Pharmacology (12.3)].
+Patients with renal impairment may be at increased risk of hypoglycemia and may require more frequent Insulin Lispro dose adjustment and more frequent blood glucose monitoring [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
-Patients with hepatic impairment may be at increased risk of hypoglycemia and may require more frequent Insulin Lispro Injection dose adjustment and more frequent blood glucose monitoring [see Clinical Pharmacology (12.3)].
+Patients with hepatic impairment may be at increased risk of hypoglycemia and may require more frequent Insulin Lispro dose adjustment and more frequent blood glucose monitoring [see Clinical Pharmacology (12.3)].

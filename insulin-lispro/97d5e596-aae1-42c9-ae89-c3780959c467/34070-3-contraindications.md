@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Insulin Lispro Injection is contraindicated:
+Insulin Lispro is contraindicated:
 
-- during episodes of hypoglycemia
-- in patients who are hypersensitive to Insulin Lispro Injection or to any of its excipients.
+- during episodes of hypoglycemia [see Warnings and Precautions (5.3)].
+- in patients who are hypersensitive to Insulin Lispro or to any of the excipients in Insulin Lispro [see Warnings and Precautions (5.5)].

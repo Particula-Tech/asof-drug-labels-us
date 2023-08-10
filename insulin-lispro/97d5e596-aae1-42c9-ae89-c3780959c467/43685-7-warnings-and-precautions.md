@@ -1,9 +1,9 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Never Share an Insulin Lispro Injection Prefilled Pen or Syringe Between Patients
+## 5.1 Never Share an Insulin Lispro Prefilled Pen or Syringe Between Patients
 
-Insulin Lispro Injection prefilled pens must never be shared between patients, even if the needle is changed.
-Patients using Insulin Lispro Injection vials must never share needles or syringes with another person.
+Insulin Lispro prefilled pens must never be shared between patients, even if the needle is changed.
+Patients using Insulin Lispro vials must never share needles or syringes with another person.
 Sharing poses a risk for transmission of blood-borne pathogens.
 
 ## 5.2 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
@@ -17,17 +17,17 @@ For patients with type 2 diabetes, dosage adjustments of concomitant antidiabeti
 
 ## 5.3 Hypoglycemia
 
-Hypoglycemia is the most common adverse reaction associated with insulins, including Insulin Lispro Injection.
+Hypoglycemia is the most common adverse reaction associated with insulins, including Insulin Lispro.
 Severe hypoglycemia can cause seizures, may be life-threatening, or cause death.
 Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g., driving or operating other machinery).
 
-Hypoglycemia can happen suddenly and symptoms may differ in each individual and change over time in the same individual.
+Hypoglycemia can happen suddenly, and symptoms may differ in each individual and change over time in the same individual.
 Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes, in patients with diabetic nerve disease, in patients using medications that block the sympathetic nervous system (e.g., beta-blockers) [see Drug Interactions (7)], or in patients who experience recurrent hypoglycemia.
 
 Risk Factors for Hypoglycemia
 
 The risk of hypoglycemia after an injection is related to the duration of action of the insulin and, in general, is highest when the glucose lowering effect of the insulin is maximal.
-As with all insulin preparations, the glucose lowering effect time course of Insulin Lispro Injection may vary in different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology (12.2)].
+As with all insulins, the glucose lowering effect time course of Insulin Lispro may vary in different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology (12.2)].
 Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to co-administered medication [see Drug Interactions (7)].
 Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations (8.6, 8.7)].
 
@@ -39,18 +39,18 @@ In patients at higher risk for hypoglycemia and patients who have reduced sympto
 
 ## 5.4 Hypoglycemia Due to Medication Errors
 
-Accidental mix-ups between basal insulin products and other insulins, particularly rapid-acting insulins, have been reported.
-To avoid medication errors between Insulin Lispro Injection and other insulins, instruct patients to always check the insulin label before each injection.
+Accidental mix-ups between insulin products have been reported.
+To avoid medication errors between Insulin Lispro and other insulins, instruct patients to always check the insulin label before each injection.
 
 ## 5.5 Hypersensitivity Reactions
 
-Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulin products, including Insulin Lispro Injection.
-If hypersensitivity reactions occur, discontinue Insulin Lispro Injection; treat per standard of care and monitor until symptoms and signs resolve [see Adverse Reactions (6.1)].
-Insulin Lispro Injection is contraindicated in patients who have had hypersensitivity reactions to Insulin Lispro Injection or any of its excipients [see Contraindications (4)].
+Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulins, including Insulin Lispro.
+If hypersensitivity reactions occur, discontinue Insulin Lispro; treat per standard of care and monitor until symptoms and signs resolve [see Adverse Reactions (6.1)].
+Insulin Lispro is contraindicated in patients who have had hypersensitivity reactions to Insulin Lispro or any of the excipients in Insulin Lispro [see Contraindications (4)].
 
 ## 5.6 Hypokalemia
 
-All insulin products, including Insulin Lispro Injection, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
+All insulins, including Insulin Lispro, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
 Untreated hypokalemia may cause respiratory paralysis, ventricular arrhythmia, and death.
 Monitor potassium levels in patients at risk for hypokalemia if indicated (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentrations).
 
@@ -58,12 +58,12 @@ Monitor potassium levels in patients at risk for hypokalemia if indicated (e.g.,
 
 Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin.
 Fluid retention may lead to or exacerbate heart failure.
-Patients treated with insulin, including Insulin Lispro Injection, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
+Patients treated with insulin, including Insulin Lispro, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
 If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.
 
 ## 5.8 Hyperglycemia and Ketoacidosis Due to Insulin Pump Device Malfunction
 
 Malfunction of the insulin pump or insulin infusion set or insulin degradation can rapidly lead to hyperglycemia and ketoacidosis.
 Prompt identification and correction of the cause of hyperglycemia or ketosis is necessary.
-Interim subcutaneous injections with Insulin Lispro Injection may be required.
+Interim subcutaneous injections with Insulin Lispro may be required.
 Patients using continuous subcutaneous insulin infusion pump therapy must be trained to administer insulin by injection and have alternate insulin therapy available in case of pump failure [see How Supplied/Storage and Handling (16.2) and Patient Counseling Information (17)].
