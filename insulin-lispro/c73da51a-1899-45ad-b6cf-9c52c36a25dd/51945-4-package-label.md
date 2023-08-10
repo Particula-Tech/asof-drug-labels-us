@@ -2,19 +2,19 @@ PACKAGE CARTON – HUMALOG Mix75/25 10 mL vial 1ct
 
 NDC 0002-7511-01
 
-10 mL
-
-100 units per mL
-
 Humalog®
 
 Mix75/25TM
 
-insulin lispro protamine
+(insulin lispro protamine and insulin lispro) injectable suspension
 
-and insulin lispro injectable suspension
+100 units per mL (U-100)
 
-For subcutaneous use only.
+For subcutaneous use only
+
+10 mL multiple-dose vial
+
+Use only with a U-100 syringe
 
 Rx only
 
@@ -32,17 +32,15 @@ Humalog® Mix75/25™
 
 KwikPen®
 
-insulin lispro protamine and insulin lispro injectable suspension
+(insulin lispro protamine and insulin lispro) injectable suspension
 
 For Single Patient Use Only
 
+Needles not included
+
 Dispense in this sealed carton.
 
-U-100
-
-100 units per mL
-
-Needles not included
+100 units per mL (U-100)
 
 This device is recommended for use with Becton, Dickinson and Company's insulin pen needles
 

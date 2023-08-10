@@ -1,5 +1,7 @@
 # 7 DRUG INTERACTIONS
 
+Table 1 below presents clinically significant drug interactions with HUMALOG Mix75/25.
+
 Table 1: Clinically Significant Drug Interactions with HUMALOG Mix75/25
 
 | Drugs that May Increase the Risk of Hypoglycemia |  |

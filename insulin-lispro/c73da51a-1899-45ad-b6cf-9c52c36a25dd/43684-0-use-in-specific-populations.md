@@ -4,7 +4,6 @@
 
 Risk Summary
 
-The limited available data with HUMALOG Mix75/25 in pregnant women are insufficient to inform a drug-associated risk of adverse developmental outcomes.
 Published studies with insulin lispro used during pregnancy have not reported an association between insulin lispro and the induction of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
 
@@ -45,19 +44,19 @@ There were no adverse effects on fetal viability, weight, and morphology at any 
 
 Risk Summary
 
-There are no data on the presence of HUMALOG Mix75/25 in human milk, the effects on the breastfed infant, or the effect on milk production.
-One small published study reported that exogenous insulin was present in human milk.
-However, there is insufficient information to determine the effects of HUMALOG Mix75/25 on the breastfed infant and no available information on the effects of HUMALOG Mix75/25 on milk production.
+Available data from published literature suggests that exogenous human insulin products, including HUMALOG Mix75/25, are transferred into human milk.
+There are no adverse reactions reported in breastfed infants in the literature.
+There are no data on the effects of exogenous human insulin products, including HUMALOG Mix75/25, on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for insulin, any potential adverse effects on the breastfed child from HUMALOG Mix75/25 or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of HUMALOG Mix75/25 in patients less than 18 years of age has not been established.
+Safety and effectiveness of HUMALOG Mix75/25 in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
 Clinical studies of Humalog Mix75/25 did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently than younger patients.
-In elderly patients with diabetes, the initial dosing, dose increments, and maintenance dosage should be conservative to reduce the risk of hypoglycemia [see Warnings and Precautions (5.3)].
+In patients aged 65 and over with diabetes, the initial dosing, dose increments, and maintenance dosage should be conservative to reduce the risk of hypoglycemia [see Warnings and Precautions (5.3)].
 
 ## 8.6 Renal Impairment
 

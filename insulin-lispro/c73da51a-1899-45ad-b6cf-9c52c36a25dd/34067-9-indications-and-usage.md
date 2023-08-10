@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-HUMALOG Mix75/25 is indicated to improve glycemic control in patients with diabetes mellitus.
+HUMALOG Mix75/25 is indicated to improve glycemic control in adults with diabetes mellitus.
 
 Limitations of Use:
 
