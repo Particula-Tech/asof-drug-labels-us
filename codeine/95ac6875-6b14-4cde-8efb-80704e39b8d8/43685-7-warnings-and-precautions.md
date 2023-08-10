@@ -36,7 +36,7 @@ Healthcare providers are strongly encouraged to do all of the following:
 
 - Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers involved in the Management or Support of Patients with Pain.
 - Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
-  The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicsREMSPCG.
+  The Patient Counseling Guide (PCG) can be obtained at this link: www.opioidanalgesicrems.com.
 - Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
 - Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
 

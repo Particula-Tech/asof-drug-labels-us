@@ -213,6 +213,6 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
 
-R07/20
+R06/22
 
 MEDICATION GUIDE See attached.

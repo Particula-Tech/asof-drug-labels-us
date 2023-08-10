@@ -23,4 +23,4 @@ Each Acetaminophen and Codeine Phosphate Oral Solution, USP 120 mg/12 mg per 5 m
 
 ## INACTIVE INGREDIENTS
 
-FD&C Red No. 40, FD&C Yellow No. 6 (Sunset Yellow), flavoring, glycerin, propylene glycol, purified water, sodium saccharin, and sucrose.
+FD&C Red No. 40, FD&C Yellow No. 6 (Sunset Yellow), flavoring, glycerin, propylene glycol, purified water, saccharin sodium, and sucrose.
