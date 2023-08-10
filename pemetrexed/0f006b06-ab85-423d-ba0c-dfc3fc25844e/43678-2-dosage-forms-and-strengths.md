@@ -1,4 +1,4 @@
-# 3 DOSAGE FORMS AND STRENGTHS
+# 3. DOSAGE FORMS AND STRENGTHS
 
 Injection: PEMRYDI RTU is a sterile clear colorless to pale yellow to greenish yellow solution available as follows:
 

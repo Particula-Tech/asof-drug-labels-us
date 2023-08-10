@@ -1,4 +1,4 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8. USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -28,7 +28,7 @@ Because of the potential for serious adverse reactions in a breastfed child from
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Based on animal data PEMRYDI RTU can cause malformations and developmental delays when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+Based on animal data, PEMRYDI RTU can cause malformations and developmental delays when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 
 Pregnancy Testing
 
@@ -38,7 +38,7 @@ Contraception
 
 Females
 
-Because of the potential for genotoxicity, advise females of reproductive potential to use effective contraception during treatment with PEMRYDI RTU and for 6 months after the last dose.
+Because of the potential for genotoxicity, advise females of reproductive potential to use effective contraception during treatment with PEMRYDI RTU and for 6 months after the last dose of PEMRYDI RTU.
 
 Males
 

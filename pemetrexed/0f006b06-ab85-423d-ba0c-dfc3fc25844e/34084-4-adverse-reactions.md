@@ -1,4 +1,4 @@
-# 6 ADVERSE REACTIONS
+# 6. ADVERSE REACTIONS
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 

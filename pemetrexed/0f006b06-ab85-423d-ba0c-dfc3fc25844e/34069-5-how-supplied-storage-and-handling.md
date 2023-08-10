@@ -1,8 +1,8 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16. HOW SUPPLIED/STORAGE AND HANDLING
 
 How Supplied
 
-PEMRYDI RTU (pemetrexed injection) is supplied as a sterile clear, colorless to pale yellow to greenish yellow ready-to-use solution packed in a USP type-I glass vial with rubber stopper and aluminium flip-off cap.
+PEMRYDI RTU (pemetrexed injection) is supplied as a sterile clear, colorless to pale yellow to green-yellow ready-to-use solution packaged in a USP type-I glass vial with rubber stopper and aluminium flip-off cap.
 
 It is available as follows:
 

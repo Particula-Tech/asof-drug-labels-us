@@ -1,4 +1,4 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5. WARNINGS AND PRECAUTIONS
 
 ## 5.1 Myelosuppression and Increased Risk of Myelosuppression without Vitamin Supplementation
 
