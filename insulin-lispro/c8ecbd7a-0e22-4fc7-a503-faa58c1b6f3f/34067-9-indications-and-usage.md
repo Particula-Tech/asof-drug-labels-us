@@ -1,3 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-HUMALOG is a rapid acting human insulin analog indicated to improve glycemic control in adults and children with diabetes mellitus.
+HUMALOG is indicated to improve glycemic control in adult and pediatric patients with diabetes mellitus.

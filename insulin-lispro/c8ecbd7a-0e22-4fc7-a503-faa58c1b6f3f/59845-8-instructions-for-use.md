@@ -1,8 +1,10 @@
-# Vial Instructions for Use
+# U-100 Vial Instructions for Use
 
-Instructions for Use
+INSTRUCTIONS FOR USE
 
-HUMALOG® (HU-ma-log) (insulin lispro injection)
+HUMALOG® (HU-ma-log) (insulin lispro) injection, for subcutaneous use
+
+3 mL or 10 mL multiple-dose vial (100 units per mL, U-100)
 
 Read this Instructions for Use before you start taking HUMALOG and each time you get a new vial.
 There may be new information.
@@ -54,7 +56,7 @@ If you use HUMALOG with NPH insulin:
   Talk to your healthcare provider if you are not sure about the right way to mix HUMALOG and NPH insulin.
 - Give your injection right away.
 
-Giving your HUMALOG Injection with a syringe
+Giving your HUMALOG injection with a syringe
 
 - Inject your insulin exactly as your healthcare provider has shown you.
   Your healthcare provider should tell you if you should pinch the skin before injecting.
@@ -72,12 +74,12 @@ Giving your HUMALOG Injection with a syringe
 Giving your HUMALOG using an insulin pump
 
 - HUMALOG should be given into an area of your body recommended in the instructions that come with your insulin pump.
-- Change (rotate) your insertion site every 3 days.
+- Change your infusion set and rotate the infusion set insertion site according to the manufacturer's user manual.
 - Change (rotate) your insertion sites within the area you choose for each insertion to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the insertion sites.
   Do not insert into the exact same spot for each insertion.
   Do not insert where the skin has pits, is thickened, or has lumps.
   Do not insert where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
-- Change the insulin in the reservoir at least every 7 days, even if you have not used all of the insulin.
+- Change the insulin in the reservoir at least every 7 days or according to the pump user manual, whichever is shorter, even if you have not used all of the insulin.
 - Do not dilute or mix HUMALOG with any other type of insulin in your insulin pump.
 - See your insulin pump manual for instructions or talk to your healthcare provider.
 
@@ -110,39 +112,45 @@ All unopened vials:
 
 After vials have been opened:
 
-- Store opened vials in the refrigerator or at room temperature below 86°F (30°C) for up to 28 days.
+- Store opened vials in the refrigerator or at room temperature up to 86°F (30°C) for up to 28 days.
 - Keep vials away from heat and out of direct light.
 - Throw away all opened vials after 28 days of use, even if there is insulin left in the vial.
+
+HUMALOG in an insulin pump:
+
+- Throw away HUMALOG in the pump reservoir if it has been exposed to temperatures higher than 98.6°F (37°C).
 
 Keep HUMALOG vials, syringes, needles and all medicines out of the reach of children.
 
 If you have any questions or problems with your HUMALOG, contact Lilly at 1-800-Lilly-Rx (1-800-545-5979) or call your healthcare provider for help.
 For more information on HUMALOG and insulin, go to www.humalog.com.
 
-Scan this code to launch the humalog.com website
+Manufactured by: Eli Lilly and Company Indianapolis, IN 46285, USA US License Number 1891
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
+Revised: July 2023
+
+Scan this code to launch the humalog.com website
+
 Humalog® is a registered trademark of Eli Lilly and Company.
 
-Revised: November 2019
-
-Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
-
-Copyright © 1996, 2019, Eli Lilly and Company.
+Copyright © 1996, 2023, Eli Lilly and Company.
 All rights reserved.
 
-LOGVL-0008-IFU-20191125
+LOGVL-0009-IFU-20230721
 
-# Humalog U100 KwikPen Instructions for Use
+# KwikPen U-100 Instructions for Use
 
-Instructions for Use
+INSTRUCTIONS FOR USE
 
-HUMALOG KwikPen®
+HUMALOG (HU-ma-log) KwikPen®
 
-insulin lispro injection
+(insulin lispro)
 
-100 units/mL, 3 mL single-patient-use pen
+injection, for subcutaneous use
+
+3 mL single-patient-use pen (100 units per mL)
 
 Read the Instructions for Use before you start taking HUMALOG® and each time you get another KwikPen®.
 There may be new information.
@@ -184,9 +192,8 @@ Preparing your Pen
   Do not reuse or share your needles with other people.
   You may give other people a serious infection or get a serious infection from them.
 
-| Step 1: Pull the Pen Cap straight off. – Do not remove the Pen Label. Wipe the Rubber Seal with an alcohol swab. |  |
+| Step 1: Pull the Pen Cap straight off. - Do not remove the Pen Label. Wipe the Rubber Seal with an alcohol swab. Step 2: Check the liquid in the Pen. HUMALOG should look clear and colorless. Do not use if it is cloudy, colored, or has particles or clumps in it. |  |
 | --- | --- |
-| Step 2: Check the liquid in the Pen. HUMALOG should look clear and colorless. Do not use if it is cloudy, colored, or has particles or clumps in it. |  |
 | Step 3: Select a new Needle.Pull off the Paper Tab from the Outer Needle Shield. |  |
 | Step 4: Push the capped Needle straight onto the Pen and twist the Needle on until it is tight. |  |
 | Step 5: Pull off the Outer Needle Shield. Do not throw it away. Pull off the Inner Needle Shield and throw it away. |  |
@@ -210,10 +217,8 @@ Selecting your dose
   - - If you need help with dividing up your dose the right way, ask your healthcare provider.
   - - Use a new Needle for each injection and repeat the priming step.
 
-| Step 9: Turn the Dose Knob to select the number of units you need to inject. The Dose Indicator should line up with your dose. - The Pen dials 1 unit at a time. - The Dose Knob clicks as you turn it. - Do not dial your dose by counting the clicks. You may dial the wrong dose. This may lead to you getting too much insulin or not enough insulin. - The dose can be corrected by turning the Dose Knob in either direction until the correct dose lines up with the Dose Indicator. - The even numbers (for example, 12) are printed on the dial. - The odd numbers, (for example, 25) after the number 1, are shown as full lines. Always check the number in the Dose Window to make sure you have dialed the correct dose. |  |
+| Step 9: Turn the Dose Knob to select the number of units you need to inject. The Dose Indicator should line up with your dose. - The Pen dials 1 unit at a time. - The Dose Knob clicks as you turn it. - Do not dial your dose by counting the clicks. You may dial the wrong dose. This may lead to you getting too much insulin or not enough insulin. - The dose can be corrected by turning the Dose Knob in either direction until the correct dose lines up with the Dose Indicator. - The even numbers (for example, 12) are printed on the dial. - The odd numbers, (for example, 25) after the number 1, are shown as full lines. Always check the number in the Dose Window to make sure you have dialed the correct dose. | (Example: 12 units shown in the Dose Window) (Example: 25 units shown in the Dose Window) |
 | --- | --- |
-| (Example: 12 units shown in the Dose Window) |  |
-| (Example: 25 units shown in the Dose Window) |  |
 
 - The Pen will not let you dial more than the number of units left in the Pen.
 - If you need to inject more than the number of units left in the Pen, you may either:
@@ -243,6 +248,7 @@ After your injection
 
 Disposing of Pens and Needles
 
+- The used Pen may be discarded in your household trash after you have removed the needle.
 - Put your used needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles in your household trash.
 - If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
@@ -256,7 +262,6 @@ Disposing of Pens and Needles
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal
 - Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
-- The used Pen may be discarded in your household trash after you have removed the needle.
 
 Storing your Pen
 
@@ -292,35 +297,35 @@ Troubleshooting
 If you have any questions or problems with your HUMALOG KwikPen, contact Lilly at 1-800-LillyRx (1-800-545-5979) or call your healthcare provider for help.
 For more information on HUMALOG KwikPen and insulin, go to www.humalog.com.
 
-Scan this code to launch
-
-www.humalog.com
+Manufactured by: Eli Lilly and Company Indianapolis, IN 46285, USA US License Number 1891
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-HUMALOG® and HUMALOG KwikPen® are trademarks of Eli Lilly and Company.
+Revised: July 2023
 
-Revised: April 2020
+Scan this code to launch (www.humalog.com)
 
-Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
+HUMALOG® and HUMALOG KwikPen® are registered trademarks of Eli Lilly and Company.
 
-Copyright © 2007, 2020, Eli Lilly and Company.
+Copyright © 2007, 2023, Eli Lilly and Company.
 All rights reserved.
 
 | HUMALOG KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1. |
 | --- |
 
-LOGKP-0008-IFU-20200407
+LOGKP-0009-IFU-20230721
 
-# Humalog U100 Junior KwikPen Instructions for Use
+# Junior KwikPen U-100 Vial Instructions for Use
 
-Instructions for Use
+INSTRUCTIONS FOR USE
 
-HUMALOG® Junior KwikPen®
+HUMALOG® (HU-ma-log) Junior KwikPen®
 
-insulin lispro injection
+(insulin lispro)
 
-100 units/mL, 3 mL single-patient-use pen
+injection, for subcutaneous use
+
+3 mL single-patient-use pen (100 units per mL)
 
 Read the Instructions for Use before you start taking HUMALOG and each time you get another HUMALOG® Junior KwikPen®.
 There may be new information.
@@ -342,8 +347,9 @@ People who are blind or have vision problems should not use the Pen without help
 
 How to recognize your HUMALOG Junior KwikPen:
 
-| Pen color: Dose Knob: Label: | Blue Blue, with raised ridges on end and side White with an orange color bar and orange-to-yellow color band |
-| --- | --- |
+- Pen color: Blue
+- Dose Knob: Blue, with raised ridges on end and side
+- Label: White with an orange color bar and orange-to-yellow color band
 
 Supplies needed to give your injection:
 
@@ -362,9 +368,8 @@ Preparing your Pen
   Do not reuse or share your needles with other people.
   You may give other people a serious infection or get a serious infection from them.
 
-| Step 1: Pull the Pen Cap straight off. – Do not remove the Pen Label. Wipe the Rubber Seal with an alcohol swab. |  |
+| Step 1: Pull the Pen Cap straight off. – Do not remove the Pen Label. Wipe the Rubber Seal with an alcohol swab. Step 2: Check the liquid in the Pen. HUMALOG should look clear and colorless. Do not use if it is cloudy, colored, or has particles or clumps in it. |  |
 | --- | --- |
-| Step 2: Check the liquid in the Pen. HUMALOG should look clear and colorless. Do not use if it is cloudy, colored, or has particles or clumps in it. |  |
 | Step 3: Select a new Needle. Pull off the Paper Tab from the Outer Needle Shield. |  |
 | Step 4: Push the capped Needle straight onto the Pen and twist the Needle on until it is tight. |  |
 | Step 5: Pull off the Outer Needle Shield. Do not throw it away. Pull off the Inner Needle Shield and throw it away. |  |
@@ -379,7 +384,7 @@ Prime before each injection.
 | Step 6: To prime your Pen, turn the Dose Knob to select 2 units. |  |
 | --- | --- |
 | Step 7: Hold your Pen with the Needle pointing up. Tap the Cartridge Holder gently to collect air bubbles at the top. |  |
-| Step 8: Continue holding your Pen with the Needle pointing up. Push the Dose Knob in until it stops, and “0” is seen in the Dose Window. Hold the Dose Knob in and count to 5 slowly. You should see insulin at the tip of the Needle. – If you do not see insulin, repeat the priming steps 6 to 8, but not more than 4 times. – If you still do not see insulin, change the Needle and repeat the priming steps 6 to 8. Small air bubbles are normal and will not affect your dose. |  |
+| Step 8: Continue holding your Pen with Needle pointing up. Push the Dose Knob in until it stops, and “0” is seen in the Dose Window. Hold the Dose Knob in and count to 5 slowly. You should see insulin at the tip of the Needle. - If you do not see insulin, repeat priming steps 6 to 8, no more than 4 times. - If you still do not see insulin, change the Needle and repeat priming steps 6 to 8. Small air bubbles are normal and will not affect your dose. |  |
 
 Selecting your dose
 
@@ -409,10 +414,7 @@ Giving your injection
 | --- | --- | --- | --- |
 | Step 11: Insert the Needle into your skin. Push the Dose Knob all the way in. |  |  |  |
 | Continue to hold the Dose Knob in and slowly count to 5 before removing the Needle. Do not try to inject your insulin by turning the Dose Knob. You will not receive your insulin by turning the Dose Knob. |  |  |  |
-
-| Step 12: Pull the Needle out of your skin. – A drop of insulin at the Needle tip is normal. It will not affect your dose. Check the number in the Dose Window – If you see “0” in the Dose window, you have received the full amount you dialed. – If you do not see “0” in the Dose window, do not redial. Insert the Needle into your skin and finish your injection. – If you still do not think you received the full amount you dialed for your injection, do not start over or repeat that injection. Monitor your blood glucose as instructed by your healthcare provider. – If you normally need to give 2 injections for your full dose, be sure to give your second injection. |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| The Plunger only moves a little with each injection and you may not notice that it moves. If you see blood after you take the Needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab. Do not rub the area. |  |  |  |  |
+| Step 12: Pull the Needle out of your skin. – A drop of insulin at the Needle tip is normal. It will not affect your dose. Check the number in the Dose Window – If you see “0” in the Dose window, you have received the full amount you dialed. – If you do not see “0” in the Dose window, do not redial. Insert the Needle into your skin and finish your injection. – If you still do not think you received the full amount you dialed for your injection, do not start over or repeat that injection. Monitor your blood glucose as instructed by your healthcare provider. – If you normally need to give 2 injections for your full dose, be sure to give your second injection. The Plunger only moves a little with each injection and you may not notice that it moves. If you see blood after you take the Needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab. Do not rub the area. |  |  |  |
 
 After your injection
 
@@ -423,6 +425,7 @@ After your injection
 
 Disposing of Pens and Needles
 
+- The used Pen may be discarded in your household trash after you have removed the needle.
 - Put your used Needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles in your household trash.
 - If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
@@ -436,7 +439,6 @@ Disposing of Pens and Needles
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal
 - Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle the container.
-- The used Pen may be discarded in your household trash after you have removed the needle.
 
 Storing your Pen
 
@@ -472,37 +474,35 @@ Troubleshooting
 If you have any questions or problems with your HUMALOG Junior KwikPen, contact Lilly at 1-800-LillyRx (1-800-545-5979) or call your healthcare provider for help.
 For more information on HUMALOG Junior KwikPen and insulin, go to www.humalog.com.
 
-Scan this code to launch
-
-www.humalog.com
+Manufactured by: Eli Lilly and Company Indianapolis, IN 46285, USA US License Number 1891
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
+Revised: July 2023
+
+Scan this code to launch (www.humalog.com)
+
 HUMALOG® and HUMALOG® Junior KwikPen® are trademarks of Eli Lilly and Company.
 
-Revised: November 2019
-
-Marketed by: Lilly USA, LLC
-
-Indianapolis, IN 46285, USA
-
-Copyright © 2017, 2019, Eli Lilly and Company.
+Copyright © 2017, 2023, Eli Lilly and Company.
 All rights reserved.
 
 | HUMALOG Junior KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1. |
 | --- |
 
-LOGJRKP-0003-IFU-20191115
+LOGJRKP-0004-IFU-20230721
 
-# Humalog Tempo Pen U-100 Instructions for Use
+# Tempo Pen U-100 Instructions for Use
 
-Instructions for Use
+INSTRUCTIONS FOR USE
 
-HUMALOG® Tempo Pen™
+HUMALOG® (HU-ma-log) Tempo Pen™
 
-insulin lispro injection
+(insulin lispro)
 
-100 units/mL, 3 mL pen, single-patient-use
+injection, for subcutaneous use
+
+3 mL single-patient-use pen, (100 units per mL)
 
 Read the Instructions for Use before you start taking HUMALOG and each time you get another HUMALOG Tempo Pen.
 There may be new information.
@@ -546,9 +546,8 @@ Preparing your Pen
   Do not reuse or share your needles with other people.
   You may give other people a serious infection or get a serious infection from them.
 
-| Step 1: Pull the Pen Cap straight off. - Do not remove the Pen Label. Wipe the Rubber Seal with an alcohol swab. |  |
+| Step 1: Pull the Pen Cap straight off. - Do not remove the Pen Label. Wipe the Rubber Seal with an alcohol swab. Step 2: Check the liquid in the Pen. HUMALOG should look clear and colorless. Do not use if it is cloudy, colored, or has particles or clumps in it. |  |
 | --- | --- |
-| Step 2: Check the liquid in the Pen. HUMALOG should look clear and colorless. Do not use if it is cloudy, colored, or has particles or clumps in it. |  |
 | Step 3: Select a new Needle.Pull off the Paper Tab from the Outer Needle Shield. |  |
 | Step 4: Push the capped Needle straight onto the Pen and twist the Needle on until it is tight. |  |
 | Step 5: Pull off the Outer Needle Shield. Do not throw it away. Pull off the Inner Needle Shield and throw it away. |  |
@@ -605,6 +604,7 @@ After your injection
 
 Disposing of Pens and Needles
 
+- The used Pen may be discarded in your household trash after you have removed the needle.
 - Put your used needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles in your household trash.
 - If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
@@ -618,7 +618,6 @@ Disposing of Pens and Needles
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal
 - Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
-- The used Pen may be thrown away (discarded) in your household trash after you have removed the needle.
 
 Storing your Pen
 
@@ -654,35 +653,35 @@ Troubleshooting
 If you have any questions or problems with your HUMALOG Tempo Pen, contact Lilly at 1-800-LillyRx (1-800-545-5979) or call your healthcare provider for help.
 For more information on HUMALOG Tempo Pen and insulin, go to www.humalog.com.
 
-Scan this code to launch
-
-www.humalog.com
+Manufactured by: Eli Lilly and Company Indianapolis, IN 46285, USA US License Number 1891
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
+Revised: July 2023
+
+Scan this code to launch (www.humalog.com)
+
 HUMALOG® is a registered trademark and TEMPO PENTM is a trademark of Eli Lilly and Company.
 
-Issued: 11/2019
-
-Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
-
-Copyright © 2019, Eli Lilly and Company.
+Copyright © 2019, 2023, Eli Lilly and Company.
 All rights reserved.
 
 | HUMALOG Tempo Pen meets the current dose accuracy and functional requirements of ISO 11608-1. |
 | --- |
 
-LOGTP-0001-IFU-20191115
+LOGTP-0002-IFU-20230721
 
-# Humalog U200 KwikPen Instructions for Use
+# KwikPen U-200 Instructions for Use
 
-Instructions for Use
+INSTRUCTIONS FOR USE
 
-HUMALOG KwikPen®
+HUMALOG (HU-ma-log) KwikPen®
 
-insulin lispro injection
+(insulin lispro)
 
-200 units/mL, 3 mL single-patient-use pen
+injection, for subcutaneous use
+
+3 mL single-patient-use pen (200 units per mL)
 
 Read the Instructions for Use before you start taking HUMALOG® and each time you get another KwikPen®.
 There may be new information.
@@ -699,7 +698,6 @@ If your dose is more than 60 units, you will need to give yourself more than 1 i
 The Plunger only moves a little with each injection, and you may not notice that it moves.
 The Plunger will only reach the end of the cartridge when you have used all 600 units in the Pen.
 
-HUMALOG KwikPen is available in 2 strengths, 100 units/mL and 200 units/mL.
 Inject HUMALOG 200 units/mL only with your Pen.
 Do not transfer insulin from your Pen to a syringe.
 Syringes will not measure 200 units/mL insulin correctly.
@@ -747,9 +745,7 @@ Prime before each injection.
 | Step 6: To prime your Pen, turn the Dose Knob to select 2 units. |  |
 | --- | --- |
 | Step 7: Hold your Pen with the Needle pointing up. Tap the Cartridge Holder gently to collect air bubbles at the top. |  |
-
 | Step 8: Continue holding your Pen with Needle pointing up. Push the Dose Knob in until it stops, and “0” is seen in the Dose Window. Hold the Dose Knob in and count to 5 slowly. You should see insulin at the tip of the Needle. - If you do not see insulin, repeat priming steps 6 to 8, no more than 8 times. - If you still do not see insulin, change the Needle and repeat priming steps 6 to 8. Small air bubbles are normal and will not affect your dose. |  |
-| --- | --- |
 
 Selecting your dose
 
@@ -786,9 +782,7 @@ Giving your injection
 | Step 11: Insert the Needle into your skin. Push the Dose Knob all the way in. |  |  |
 | Continue to hold the Dose Knob in and slowly count to 5 before removing the Needle. |  |  |
 | Do not try to inject your insulin by turning the Dose Knob. You will not receive your insulin by turning the Dose Knob. |  |  |
-
-| Step 12: Pull the Needle out of your skin. - A drop of insulin at the Needle tip is normal. It will not affect your dose. Check the number in the Dose Window - If you see “0” in the Dose Window, you have received the full amount you dialed. - If you do not see “0” in the Dose Window, do not redial. Insert the Needle into your skin and finish your injection. - If you still do not think you received the full amount you dialed for your injection, do not start over or repeat the injection. Monitor your blood glucose as instructed by your healthcare provider. - If you normally need to give 2 injections for your full dose, be sure to give your second injection. The Plunger only moves a little with each injection, and you may not notice that it moves. If you see blood after you take the Needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab. Do not rub the area. |  |
-| --- | --- |
+| Step 12: Pull the Needle out of your skin. - A drop of insulin at the Needle tip is normal. It will not affect your dose. Check the number in the Dose Window - If you see “0” in the Dose Window, you have received the full amount you dialed. - If you do not see “0” in the Dose Window, do not redial. Insert the Needle into your skin and finish your injection. - If you still do not think you received the full amount you dialed for your injection, do not start over or repeat the injection. Monitor your blood glucose as instructed by your healthcare provider. - If you normally need to give 2 injections for your full dose, be sure to give your second injection. The Plunger only moves a little with each injection, and you may not notice that it moves. If you see blood after you take the Needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab. Do not rub the area. |  |  |
 
 After your injection
 
@@ -799,6 +793,7 @@ After your injection
 
 Disposing of Pens and Needles
 
+- The used Pen may be discarded in your household trash after you have removed the needle.
 - Put your used needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles in your household trash.
 - If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
@@ -812,7 +807,6 @@ Disposing of Pens and Needles
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal
 - Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
-- The used Pen may be discarded in your household trash after you have removed the needle.
 
 Storing your Pen
 
@@ -848,22 +842,20 @@ Troubleshooting
 If you have any questions or problems with your HUMALOG KwikPen, contact Lilly at 1-800-LillyRx (1-800-545-5979) or call your healthcare provider for help.
 For more information on HUMALOG KwikPen and insulin, go to www.humalog.com.
 
-Scan this code to launch
-
-www.humalog.com
+Manufactured by: Eli Lilly and Company Indianapolis, IN 46285, USA US License Number 1891
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
+Revised: July 2023
+
+Scan this code to launch (www.humalog.com)
+
 HUMALOG® and HUMALOG KwikPen® are trademarks of Eli Lilly and Company.
 
-Revised: November 2019
-
-Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
-
-Copyright © 2015, 2019, Eli Lilly and Company.
+Copyright © 2015, 2023, Eli Lilly and Company.
 All rights reserved.
 
 | HUMALOG KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1. |
 | --- |
 
-LOGKP200-0004-IFU-20191115
+LOGKP200-0005-IFU-20230721

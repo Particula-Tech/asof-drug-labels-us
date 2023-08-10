@@ -83,9 +83,7 @@ The effects of age, gender, race, obesity, pregnancy, or smoking on the pharmaco
 
 Renal Impairment — Type 2 diabetic patients with varying degree of renal impairment showed no difference in pharmacokinetics of regular insulin and HUMALOG.
 However, the sensitivity of the patients to insulin did change, with an increased response to insulin as the renal function declined.
-Some studies with human insulin have shown increased circulating levels of insulin in patients with renal impairment.
-Careful glucose monitoring and dose adjustments of insulin, including HUMALOG, may be necessary in patients with renal dysfunction.
+Some studies with human insulin have shown increased circulating levels of insulin in patients with renal impairment [see Use in Specific Populations (8.6)].
 
 Hepatic Impairment — Type 2 diabetic patients with impaired hepatic function showed no effect on the pharmacokinetics of HUMALOG as compared to patients with no hepatic dysfunction.
-However, some studies with human insulin have shown increased circulating levels of insulin in patients with liver failure.
-Careful glucose monitoring and dose adjustments of insulin, including HUMALOG, may be necessary in patients with hepatic dysfunction.
+However, some studies with human insulin have shown increased circulating levels of insulin in patients with liver failure [see Use in Specific Populations (8.7)].

@@ -2,17 +2,19 @@ PACKAGE CARTON – HUMALOG 10 mL vial
 
 NDC 0002-7510-01
 
-10 mL
-
-100 units per mL
-
 Humalog®
 
-insulin lispro injection
+(insulin lispro) injection
+
+100 units per mL (U-100)
+
+For subcutaneous or intravenous use
+
+10 mL multiple-dose vial
+
+Use only with a U-100 syringe
 
 Rx only
-
-U-100
 
 www.humalog.com
 
@@ -24,19 +26,19 @@ NDC 0002-8799-59
 
 Humalog KwikPen®
 
-insulin lispro injection
+(insulin lispro) injection
 
 For Single Patient Use Only
 
 Dispense in this sealed carton.
 
-U-100
-
-100 units per mL
-
 Needles not included
 
+100 units per mL (U-100)
+
 This device is recommended for use with Becton, Dickinson and Company's insulin pen needles
+
+For subcutaneous use only.
 
 prefilled insulin delivery device
 
@@ -50,21 +52,19 @@ PACKAGE CARTON – HUMALOG Cartridge 3mL
 
 NDC 0002-7516-59
 
-100 units per mL
-
-VL-7516
+Rx only
 
 5 x 3 mL Cartridges
 
 Humalog®
 
-insulin lispro injection
+(insulin lispro) injection
 
 For Single Patient Use Only
 
-Rx only
+100 units per mL (U-100)
 
-U-100
+For subcutaneous use only.
 
 For use in Eli Lilly and Company's HumaPen® LUXURA® HD insulin delivery device.
 
@@ -80,19 +80,19 @@ NDC 0002-7712-27
 
 Humalog KwikPen®
 
-insulin lispro injection
+(insulin lispro) injection
 
 For Single Patient Use Only
 
 200 units per mL (U-200)
 
-prefilled insulin delivery device
-
 2 x 3 mL Prefilled Pens
 
-Rx only
+For subcutaneous use only.
 
-For subcutaneous use.
+prefilled insulin delivery device
+
+Rx only
 
 Read Insulin Delivery Device Instructions for Use.
 
@@ -112,7 +112,7 @@ Humalog®
 
 Junior KwikPen®
 
-insulin lispro injection
+(insulin lispro) injection
 
 For Single Patient Use Only
 
@@ -121,6 +121,8 @@ For Single Patient Use Only
 The pen can deliver 0.5 (½) to 30 units in one injection.
 
 5 x 3 mL prefilled pens
+
+For subcutaneous use only.
 
 prefilled insulin delivery device
 
@@ -142,19 +144,15 @@ Humalog®
 
 Tempo PenTM
 
-insulin lispro injection
+(insulin lispro) injection
 
 For Single Patient Use Only
 
-HP-8213
-
 Dispense in this sealed carton.
 
-U-100
-
-100 units per mL
-
 Needles not included
+
+100 units per mL (U-100)
 
 This device is recommended for use with Becton, Dickinson and Company's insulin pen needles
 
