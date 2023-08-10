@@ -10,6 +10,7 @@ Amiodarone Hydrochloride Tablets USP, 200 mg are round, flat, beveled edge, ligh
 
 | Bottles of 60 Tablets | NDC 51672-4025-4 |
 | --- | --- |
+| Bottles of 500 Tablets | NDC 51672-4025-2 |
 | Bottles of 1000 Tablets | NDC 51672-4025-3 |
 
 Amiodarone Hydrochloride Tablets USP, 300 mg are round, flat, beveled edge, peach tablets; one side plain, the second side scored and engraved with "TARO" above the score and "58" below the score line and are available as follows:

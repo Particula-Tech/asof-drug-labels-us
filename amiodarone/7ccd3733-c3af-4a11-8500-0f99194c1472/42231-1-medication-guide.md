@@ -16,4 +16,4 @@
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-71008-0620-19 Revised: June 2020
+Revised: October 2022 5200381-1022-20
