@@ -51,6 +51,11 @@ Contraception
 Use of MOUNJARO may reduce the efficacy of oral hormonal contraceptives.
 Advise patients using oral hormonal contraceptives to switch to a non-oral contraceptive method, or add a barrier method of contraception for 4 weeks after initiation and for 4 weeks after each dose escalation with MOUNJARO [see Drug Interactions (7.2), Use in Specific Populations (8.3), and Clinical Pharmacology (12.3)].
 
+Administration
+
+Instruct patients how to prepare and administer the correct dose of MOUNJARO and assess their ability to inject subcutaneously to ensure the proper administration of MOUNJARO.
+Instruct patients using the single-dose vial to use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL dose) [see Dosage and Administration (2.2)].
+
 Missed Doses
 
 Inform patients if a dose is missed, it should be administered as soon as possible within 4 days after the missed dose.
@@ -60,4 +65,4 @@ In each case, inform patients to resume their regular once weekly dosing schedul
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 2022, 2023, Eli Lilly and Company.
 All rights reserved.
 
-MOU-0002-USPI-20230515
+MOU-0003-USPI-20230728

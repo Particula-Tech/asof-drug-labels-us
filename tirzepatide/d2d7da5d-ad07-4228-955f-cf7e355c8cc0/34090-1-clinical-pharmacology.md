@@ -98,7 +98,7 @@ A delay in tmax of 2.5 to 4.5 hours was observed.
 ## 12.6 Immunogenicity
 
 The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
-Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the trials described below with the incidence of anti-drug antibodies in other trials, including those of tirzepatide or of GLP-1 receptor agonist products.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the trials described below with the incidence of anti-drug antibodies in other trials.
 
 During the 40- to 104-week treatment periods with ADA sampling conducted up to 44 to 108 weeks in seven clinical trials in adults with type 2 diabetes mellitus [see Clinical Studies (14)], 51% (2,570/5,025) of MOUNJARO-treated patients developed anti-tirzepatide antibodies.
 In these trials, anti-tirzepatide antibody formation in 34% and 14% of MOUNJARO-treated patients showed cross-reactivity to native GIP or native GLP-1, respectively.

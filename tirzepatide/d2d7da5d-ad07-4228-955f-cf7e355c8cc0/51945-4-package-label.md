@@ -6,7 +6,7 @@ Mounjaro™
 
 (tirzepatide) injection
 
-2.5 mg / 0.5 mL
+2.5 mg/0.5 mL
 
 Use one pen every week.
 
@@ -30,7 +30,7 @@ Mounjaro™
 
 (tirzepatide) injection
 
-5 mg / 0.5 mL
+5 mg/0.5 mL
 
 Use one pen every week.
 
@@ -54,7 +54,7 @@ Mounjaro™
 
 (tirzepatide) injection
 
-7.5 mg / 0.5 mL
+7.5 mg/0.5 mL
 
 Use one pen every week.
 
@@ -78,7 +78,7 @@ Mounjaro™
 
 (tirzepatide) injection
 
-10 mg / 0.5 mL
+10 mg/0.5 mL
 
 Use one pen every week.
 
@@ -102,7 +102,7 @@ Mounjaro™
 
 (tirzepatide) injection
 
-12.5 mg / 0.5 mL
+12.5 mg/0.5 mL
 
 Use one pen every week.
 
@@ -126,7 +126,7 @@ Mounjaro™
 
 (tirzepatide) injection
 
-15 mg / 0.5 mL
+15 mg/0.5 mL
 
 Use one pen every week.
 
@@ -137,6 +137,138 @@ Use one pen every week.
 Rx Only
 
 For Subcutaneous Use
+
+Dispense enclosed Medication Guide to each patient.
+
+Lilly
+
+PACKAGE LABEL - Mounjaro™, 2.5 mg/0.5 mL, Carton, Single-dose Vial
+
+NDC 0002-1152-01
+
+Mounjaro®
+
+(tirzepatide) injection
+
+2.5 mg/0.5 mL
+
+Single-dose Vial - discard unused portion
+
+Rx Only
+
+For Subcutaneous Use
+
+Needles and Syringes are not included
+
+Dispense enclosed Medication Guide to each patient.
+
+Lilly
+
+PACKAGE LABEL - Mounjaro™, 5 mg/0.5 mL, Single-dose Vial
+
+NDC 0002-1243-01
+
+Mounjaro®
+
+(tirzepatide) injection
+
+5 mg/0.5 mL
+
+Single-dose Vial - discard unused portion
+
+Rx Only
+
+For Subcutaneous Use
+
+Needles and Syringes are not included
+
+Dispense enclosed Medication Guide to each patient.
+
+Lilly
+
+PACKAGE LABEL - Mounjaro™, 7.5 mg/0.5 mL, Single-dose Vial
+
+NDC 0002-2214-01
+
+Mounjaro®
+
+(tirzepatide) injection
+
+7.5 mg/0.5 mL
+
+Single-dose Vial - discard unused portion
+
+Rx Only
+
+For Subcutaneous Use
+
+Needles and Syringes are not included
+
+Dispense enclosed Medication Guide to each patient.
+
+Lilly
+
+PACKAGE LABEL - Mounjaro™, 10 mg/0.5 mL, Carton, Single-dose Vial
+
+NDC 0002-2340-01
+
+Mounjaro®
+
+(tirzepatide) injection
+
+10 mg/0.5 mL
+
+Single-dose Vial - discard unused portion
+
+Rx Only
+
+For Subcutaneous Use
+
+Needles and Syringes are not included
+
+Dispense enclosed Medication Guide to each patient.
+
+Lilly
+
+PACKAGE LABEL - Mounjaro™, 12.5 mg/0.5 mL, Single-dose Vial
+
+NDC 0002-2423-01
+
+Mounjaro®
+
+(tirzepatide) injection
+
+12.5 mg/0.5 mL
+
+Single-dose Vial - discard unused portion
+
+Rx Only
+
+For Subcutaneous Use
+
+Needles and Syringes are not included
+
+Dispense enclosed Medication Guide to each patient.
+
+Lilly
+
+PACKAGE LABEL - Mounjaro™, 15 mg/0.5 mL, Single-dose Vial
+
+NDC 0002-3002-01
+
+Mounjaro®
+
+(tirzepatide) injection
+
+15 mg/0.5 mL
+
+Single-dose Vial - discard unused portion
+
+Rx Only
+
+For Subcutaneous Use
+
+Needles and Syringes are not included
 
 Dispense enclosed Medication Guide to each patient.
 

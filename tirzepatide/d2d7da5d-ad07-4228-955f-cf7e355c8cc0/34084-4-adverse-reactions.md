@@ -123,4 +123,6 @@ The clinical significance of elevations in lipase or amylase with MOUNJARO is un
 The following adverse reactions have been reported during post-approval use of MOUNJARO.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity: anaphylaxis, angioedema.
+Hypersensitivity: anaphylaxis, angioedema
+
+Gastrointestinal: ileus
