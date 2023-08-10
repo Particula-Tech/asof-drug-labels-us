@@ -4,7 +4,6 @@
 
 Risk Summary
 
-The limited available data with Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 in pregnant women are insufficient to inform a drug-associated risk of adverse developmental outcomes.
 Published studies with insulin lispro used during pregnancy have not reported an association between insulin lispro and the induction of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
 
@@ -32,8 +31,8 @@ However, these studies cannot definitely establish or exclude the absence of any
 
 Animal Data
 
-Animal reproduction studies have not been performed with Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25.
-However, subcutaneous reproduction and teratology studies have been conducted with insulin lispro (a component of Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25).
+Animal reproduction studies have not been performed with Insulin Lispro Protamine and Insulin Lispro Mix75/25.
+However, subcutaneous reproduction and teratology studies have been conducted with insulin lispro (a component of Insulin Lispro Protamine and Insulin Lispro Mix75/25).
 In a combined fertility and embryo-fetal development study, female rats were given subcutaneous insulin lispro injections of 1, 5, and 20 units/kg/day (0.2, 0.8, and 3 times the human subcutaneous dose of 1 unit insulin lispro/kg/day, based on units/body surface area, respectively) from 2 weeks prior to cohabitation through Gestation Day 19.
 There were no adverse effects on female fertility, implantation, or fetal viability and morphology.
 However, fetal growth retardation was produced at the 20 units/kg/day-dose as indicated by decreased fetal weight and an increased incidence of fetal runts/litter.
@@ -45,26 +44,26 @@ There were no adverse effects on fetal viability, weight, and morphology at any 
 
 Risk Summary
 
-There are no data on the presence of Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 in human milk, the effects on the breastfed infant, or the effect on milk production.
-One small published study reported that exogenous insulin was present in human milk.
-However, there is insufficient information to determine the effects of Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 on the breastfed infant and no available information on the effects of Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for insulin, any potential adverse effects on the breastfed child from Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 or from the underlying maternal condition.
+Available data from published literature suggests that exogenous human insulin products, including Insulin Lispro Protamine and Insulin Lispro Mix75/25, are transferred into human milk.
+There are no adverse reactions reported in breastfed infants in the literature.
+There are no data on the effects of exogenous human insulin products, including Insulin Lispro Protamine and Insulin Lispro Mix75/25, on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for insulin, any potential adverse effects on the breastfed child from Insulin Lispro Protamine and Insulin Lispro Mix75/25 or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 in patients less than 18 years of age has not been established.
+Safety and effectiveness of Insulin Lispro Protamine and Insulin Lispro Mix75/25 in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
-Clinical studies of Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently than younger patients.
-In elderly patients with diabetes, the initial dosing, dose increments, and maintenance dosage should be conservative to reduce the risk of hypoglycemia [see Warnings and Precautions (5.3)].
+Clinical studies of Insulin Lispro Protamine and Insulin Lispro Mix75/25 did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently than younger patients.
+In patients aged 65 and over with diabetes, the initial dosing, dose increments, and maintenance dosage should be conservative to reduce the risk of hypoglycemia [see Warnings and Precautions (5.3)].
 
 ## 8.6 Renal Impairment
 
-The effect of renal impairment on the pharmacokinetics of Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 has not been studied.
-Patients with renal impairment may be at increased risk of hypoglycemia and may require more frequent Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 dose adjustment and more frequent glucose monitoring [see Warnings and Precautions (5.3)].
+The effect of renal impairment on the pharmacokinetics of Insulin Lispro Protamine and Insulin Lispro Mix75/25 has not been studied.
+Patients with renal impairment may be at increased risk of hypoglycemia and may require more frequent Insulin Lispro Protamine and Insulin Lispro Mix75/25 dose adjustment and more frequent glucose monitoring [see Warnings and Precautions (5.3)].
 
 ## 8.7 Hepatic Impairment
 
-The effect of hepatic impairment on the pharmacokinetics of Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 has not been studied.
-Patients with hepatic impairment may be at increased risk of hypoglycemia and may require more frequent Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 dose adjustment and more frequent glucose monitoring [see Warnings and Precautions (5.3)].
+The effect of hepatic impairment on the pharmacokinetics of Insulin Lispro Protamine and Insulin Lispro Mix75/25 has not been studied.
+Patients with hepatic impairment may be at increased risk of hypoglycemia and may require more frequent Insulin Lispro Protamine and Insulin Lispro Mix75/25 dose adjustment and more frequent glucose monitoring [see Warnings and Precautions (5.3)].

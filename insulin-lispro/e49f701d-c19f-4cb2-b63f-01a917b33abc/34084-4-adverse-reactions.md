@@ -3,13 +3,13 @@
 The following adverse reactions are discussed elsewhere in the labeling:
 
 - Hypoglycemia [see Warnings and Precautions (5.3)]
-- Medication Errors [see Warnings and Precautions (5.4)]
+- Hypoglycemia Due to Medication Errors [see Warnings and Precautions (5.4)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
 - Hypokalemia [see Warnings and Precautions (5.6)]
 
 Adverse Reactions from Clinical Studies or Postmarketing Reports
 
-The following adverse reactions have been identified during post-marketing use of Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25.
+The following adverse reactions have been identified during post-marketing use of Insulin Lispro Protamine and Insulin Lispro Mix75/25.
 Because some of these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Adverse reactions associated with insulin initiation and glucose control intensification
@@ -23,21 +23,21 @@ Severe, life-threatening, generalized allergy, including anaphylaxis.
 
 Hypoglycemia
 
-Hypoglycemia is the most commonly observed adverse reaction in Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25.
+Hypoglycemia is the most commonly observed adverse reaction in Insulin Lispro Protamine and Insulin Lispro Mix75/25.
 
 Hypokalemia
 
-Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 can cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
+Insulin Lispro Protamine and Insulin Lispro Mix75/25 can cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
 
 Injection site reactions
 
-Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 can cause local injection site reactions including redness, swelling, or itching at the site of injection.
+Insulin Lispro Protamine and Insulin Lispro Mix75/25 can cause local injection site reactions including redness, swelling, or itching at the site of injection.
 These reactions usually resolve in a few days to a few weeks, but in some occasions, may require discontinuation.
-Localized reactions and generalized myalgias have been reported with the use of meta-cresol, which is an excipient in Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25.
+Localized reactions and generalized myalgias have been reported with the use of meta-cresol, which is an excipient in Insulin Lispro Protamine and Insulin Lispro Mix75/25.
 
 Lipodystrophy
 
-Administration of insulin subcutaneously, including Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25, has resulted in lipoatrophy (depression in the skin) or lipohypertrophy (enlargement or thickening of tissue) [see Dosage and Administration (2.1)] in some patients.
+Administration of insulin subcutaneously, including Insulin Lispro Protamine and Insulin Lispro Mix75/25, has resulted in lipoatrophy (depression in the skin) or lipohypertrophy (enlargement or thickening of tissue) [see Dosage and Administration (2.1)] in some patients.
 
 Localized cutaneous amyloidosis
 
@@ -46,17 +46,17 @@ Hyperglycemia has been reported with repeated insulin injections into areas of l
 
 Medication Errors
 
-Medication errors in which other insulins have been accidentally substituted for Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 have been identified during postapproval use.
+Medication errors in which other insulins have been accidentally substituted for Insulin Lispro Protamine and Insulin Lispro Mix75/25 have been identified during postapproval use.
 
 Peripheral Edema
 
-Insulin, including Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25, may cause sodium retention and edema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
+Insulins, including Insulin Lispro Protamine and Insulin Lispro Mix75/25, may cause sodium retention and edema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
 
 Weight gain
 
-Weight gain can occur with insulin therapy, including Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25, and has been attributed to the anabolic effects of insulin and the decrease in glycosuria.
+Weight gain can occur with insulins, including Insulin Lispro Protamine and Insulin Lispro Mix75/25, and has been attributed to the anabolic effects of insulin and the decrease in glycosuria.
 
 Immunogenicity
 
-As with all therapeutic peptides, insulin administration may cause anti-insulin antibodies to form.
-The incidence of antibody formation with Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 is unknown.
+As with all therapeutic proteins, insulin administration may cause anti-insulin antibodies to form.
+The incidence of antibody formation with Insulin Lispro Protamine and Insulin Lispro Mix75/25 is unknown.

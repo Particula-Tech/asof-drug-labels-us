@@ -1,34 +1,33 @@
-# Insulin Lispro Protamine and Insulin Lispro Injectable Suspension 75/25 KwikPen Instructions for Use
+# KWIKPEN INSTRUCTIONS FOR USE
 
-Instructions for Use
+INSTRUCTIONS FOR USE
 
-Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25™ KwikPen®
+Insulin Lispro Protamine and Insulin Lispro [IHN-soo-lihn LIYS-proh] Mix75/25™ KwikPen®
 
-for subcutaneous use
+injectable suspension, for subcutaneous use
 
-3 mL single-patient-use pen (100 units/mL)
+3 mL single-patient-use pen (100 units per mL)
 
-Read this Instructions for Use before you start taking Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 and each time you get another KwikPen.
+This product is HUMALOG® Mix75/25™ (insulin lispro protamine and insulin lispro).
+
+Read this Instructions for Use before you start taking Insulin Lispro Protamine and Insulin Lispro Mix75/25 and each time you get another KwikPen.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-Do not share your Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 KwikPen with other people, even if the needle has been changed.
+Do not share your Insulin Lispro Protamine and Insulin Lispro Mix75/25 KwikPen with other people, even if the needle has been changed.
 You may give other people a serious infection or get a serious infection from them.
 
-Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 KwikPen (“Pen”) is a disposable single-patient-use prefilled pen containing 300 units of Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25.
+Insulin Lispro Protamine and Insulin Lispro Mix75/25 KwikPen (“Pen”) is a disposable single-patient-use prefilled pen containing 300 units of Insulin Lispro Protamine and Insulin Lispro Mix75/25.
 
-• You can give yourself more than 1 dose from the Pen.
-
-• By turning the Dose Knob, you can dial doses from 1 to 60 units in 1 unit increments.
-
-• If your dose is more than 60 units, you will need to give yourself more than 1 injection.
-
-• The Plunger only moves a little with each injection, and you may not notice that it moves.
-The Plunger will only reach the end of the cartridge when you have used all 300 units in the Pen.
+- You can give yourself more than 1 dose from the Pen.
+- By turning the Dose Knob, you can dial doses from 1 to 60 units in 1 unit increments.
+- If your dose is more than 60 units, you will need to give yourself more than 1 injection.
+- The Plunger only moves a little with each injection, and you may not notice that it moves.
+  The Plunger will only reach the end of the cartridge when you have used all 300 units in the Pen.
 
 People who are blind or have vision problems should not use this Pen without help from a person trained to use the Pen.
 
-How to recognize your Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 KwikPen
+How to recognize your Insulin Lispro Protamine and Insulin Lispro Mix75/25 KwikPen
 
 - Pen color: Dark blue
 - Dose Knob: Dark blue
@@ -36,7 +35,7 @@ How to recognize your Insulin Lispro Protamine and Insulin Lispro Injectable Sus
 
 Supplies you will need to give your injection
 
-- Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 KwikPen
+- Insulin Lispro Protamine and Insulin Lispro Mix75/25 KwikPen
 - KwikPen compatible Needle (Becton, Dickinson and Company Pen Needles recommended)
 - Alcohol swab
 - Gauze
@@ -53,8 +52,8 @@ Preparing your Pen
 | Step 1: Pull the Pen Cap straight off. - Do not remove the Pen Label. Wipe the Rubber Seal with an alcohol swab. - Do not attach the Needle before mixing. |  |
 | --- | --- |
 | Step 2: Gently roll the Pen between your hands at least 10 times. |  |
-| Step 3: Move the Pen up and down (invert) at least 10 times. Mixing by rolling and inverting the Pen is important to make sure you get the right dose. After mixing Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25, inject your dose right away. If you wait to inject your dose, the insulin will need to be mixed again. |  |
-| Step 4: Check the liquid in the Pen. Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 should look white and cloudy after mixing. Do not use if it looks clear or has any lumps or particles in it. |  |
+| Step 3: Move the Pen up and down (invert) at least 10 times. Mixing by rolling and inverting the Pen is important to make sure you get the right dose. After mixing Insulin Lispro Protamine and Insulin Lispro Mix75/25, inject your dose right away. If you wait to inject your dose, the insulin will need to be mixed again. |  |
+| Step 4: Check the liquid in the Pen. Insulin Lispro Protamine and Insulin Lispro Mix75/25 should look white and cloudy after mixing. Do not use if it looks clear or has any lumps or particles in it. |  |
 | Step 5: Select a new Needle.Pull off the Paper Tab from the Outer Needle Shield. |  |
 | Step 6: Push the capped Needle straight onto the Pen and twist the Needle on until it is tight. |  |
 | Step 7: Pull off the Outer Needle Shield. Do not throw it away. Pull off the Inner Needle Shield and throw it away. |  |
@@ -95,12 +94,10 @@ Giving your injection
 - Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 - Do not try to change your dose while injecting.
 
-| Step 12: Choose your injection site. Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs or upper arms. Wipe your skin with an alcohol swab, and let your skin dry before you inject your dose. |  |
+| Step 12: Choose your injection site. Insulin Lispro Protamine and Insulin Lispro Mix75/25 is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs or upper arms. Wipe your skin with an alcohol swab, and let your skin dry before you inject your dose. |  |
 | --- | --- |
 | Step 13: Insert the Needle into your skin. Push the Dose Knob all the way in. Continue to hold the Dose Knob in and slowly count to 5 before removing the Needle. Do not try to inject your insulin by turning the Dose Knob. You will not receive your insulin by turning the Dose Knob. |  |
-
 | Step 14: Pull the Needle out of your skin. A drop of insulin at the Needle tip is normal. It will not affect your dose. Check the number in the Dose Window. - If you see “0” in the Dose Window, you have received the full amount you dialed. - If you do not see “0” in the Dose Window, do not redial. Insert the Needle into your skin and finish your injection. - If you still do not think you received the full amount you dialed for your injection, do not start over or repeat the injection. Monitor your blood glucose as instructed by your healthcare provider. - If you normally need to give 2 injections for your full dose, be sure to give your second injection. The Plunger only moves a little with each injection, and you may not notice that it moves. If you see blood after you take the Needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab. Do not rub the area. |  |
-| --- | --- |
 
 After your injection
 
@@ -111,6 +108,7 @@ After your injection
 
 Disposing of Pens and Needles
 
+- The used Pen may be discarded in your household trash after you have removed the needle.
 - Put your used needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles in your household trash.
 - If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
@@ -124,7 +122,6 @@ Disposing of Pens and Needles
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal
 - Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
-- The used Pen may be discarded in your household trash after you have removed the needle.
 
 Storing your Pen
 
@@ -132,15 +129,15 @@ Unused Pens
 
 - Store unused Pens in the refrigerator at 36°F to 46°F (2°C to 8°C).
 - Do not freeze your insulin.
-  Do not use if Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 has been frozen.
+  Do not use if Insulin Lispro Protamine and Insulin Lispro Mix75/25 has been frozen.
 - Unused Pens may be used until the expiration date printed on the Label, if the Pen has been kept in the refrigerator.
-- Unused Pens stored at room temperature, below 86°F (30°C), should be thrown away after 10 days.
+- Unused Pens stored at room temperature, up to 86°F (30°C), should be thrown away after 10 days.
 
 In-use Pen
 
 - Store the Pen you are currently using at room temperature [up to 86°F (30°C)].
   Keep away from heat and light.
-- Throw away the Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 Pen you are using after 10 days, even if it still has insulin left in it.
+- Throw away the Insulin Lispro Protamine and Insulin Lispro Mix75/25 Pen you are using after 10 days, even if it still has insulin left in it.
 
 General information about the safe and effective use of your Pen
 
@@ -158,20 +155,24 @@ Troubleshooting
   - - You may have dust, food, or liquid inside the Pen.
     Throw the Pen away and get a new Pen.
 
-If you have any questions or problems with your Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 KwikPen, contact Lilly at 1-800-LillyRx (1-800-545-5979) or call your healthcare provider for help.
+If you have any questions or problems with your Insulin Lispro Protamine and Insulin Lispro Mix75/25 KwikPen, contact Lilly at 1-800-LillyRx (1-800-545-5979) or call your healthcare provider for help.
+
+Manufactured by:
+
+Eli Lilly and Company Indianapolis, IN 46285, USA
+
+US License Number 1891
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Mix75/25™ and KwikPen® are trademarks of Eli Lilly and Company.
+Revised: 07/2023
 
-Issued: June 2020
+Humalog® Mix75/25™ and KwikPen® are trademarks of Eli Lilly and Company.
 
-Manufactured by Eli Lilly and Company Indianapolis, IN 46285, USA
-
-Copyright © 2007, 2020, Eli Lilly and Company.
+Copyright © 2007, 2023, Eli Lilly and Company.
 All rights reserved.
 
-| Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1. |
+| Insulin Lispro Protamine and Insulin Lispro Mix75/25 KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1. |
 | --- |
 
-ILPILIS7525KP-0002-IFU-20200609
+ILPILIS7525KP-0003-IFU-20230721
