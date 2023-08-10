@@ -36,7 +36,7 @@ If a Dose is Missed
 
 Advise patients that if one dose is missed, treatment should continue with the next dose as normal.
 
-Manufactured for: Thea Pharma Inc. Lexington, MA.
+Manufactured for: Thea Pharma Inc. Waltham, MA.
 
 All rights reserved.
 
