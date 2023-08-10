@@ -152,6 +152,8 @@ Manufactured for:
 Xiromed, LLC.
 Florham Park, NJ 07932
 
-Made in India
+Made in USA (30 count and 100 count)
 
-PI-272-01 August 2022
+Made in India (500 count)
+
+PI-272-02 July 2023
