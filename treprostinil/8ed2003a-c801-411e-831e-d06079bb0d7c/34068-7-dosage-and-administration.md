@@ -9,6 +9,7 @@ The recommended starting dose of Orenitram is 0.125 mg three times daily (TID) w
 
 Titrate by 0.125 mg TID or 0.25 or 0.5 mg BID not more frequently than every 3 to 4 days.
 Increase the dose to the highest tolerated dose.
+The recommended maximum daily dose is 120 mg.
 
 If dose increments are not tolerated, consider titrating slower.
 If intolerable pharmacologic effects occur, decrease the dose in increments of 0.125 mg TID or 0.25 mg BID.
