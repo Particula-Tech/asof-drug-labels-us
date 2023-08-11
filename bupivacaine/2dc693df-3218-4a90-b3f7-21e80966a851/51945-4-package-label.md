@@ -14,7 +14,7 @@ Huons
 
 2 mL Ampule Label
 
-2 mL Ampule NDC 73293-0002-1 EL5936-03 Rx only
+2 mL Ampule NDC 73293-0002-1 EL5936-04 Rx only
 
 Bupivacaine HCl 0.75% in Dextrose 8.25% Injection, USP SPINAL
 
@@ -23,4 +23,4 @@ Contains 7.5 mg bupivacaine HCl (anhydrous) and 82.5 mg dextrose (anhydrous) per
 Huons Co., Ltd.
 
 LOT NO.: XXXXXX EXP.
-DATE: MM/YYYY
+DATE: YYYY/MM
