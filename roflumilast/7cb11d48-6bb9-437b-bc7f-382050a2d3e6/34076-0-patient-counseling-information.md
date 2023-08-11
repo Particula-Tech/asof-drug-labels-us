@@ -25,10 +25,10 @@ If unexplained weight loss occurs, patients should inform their healthcare provi
 The use of cytochrome P450 enzyme inducers resulted in a reduction in exposure which may result in decreased therapeutic effectiveness of roflumilast.
 The use of strong cytochrome P450 enzyme inducers (e.g., rifampicin, phenobarbital, carbamazepine, phenytoin) with roflumilast is not recommended [see Drugs that Induce Cytochrome P450 (CYP) Enzymes (7.1) and Clinical Pharmacology (12.3)].
 
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides.
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides.
 
 Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
 
-Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India
+Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India
 
-Issued: March 2019
+Revised: 05/2023
