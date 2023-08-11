@@ -9,7 +9,9 @@ Repeat for the opposite eyelid margin using a new sterile applicator.
 
 Do not reuse applicators and do not use any other brush/applicator to apply bimatoprost ophthalmic solution.
 
-Do not apply to the lower eyelash line [see Warnings and Precautions (5.3, 5.4)].
+Do not apply to the lower eyelash line [see Warnings and Precautions (5.3, 5.4) and
+
+Patient Counseling Information (17)].
 
 Additional applications of bimatoprost ophthalmic solution will not increase the growth of eyelashes.
 

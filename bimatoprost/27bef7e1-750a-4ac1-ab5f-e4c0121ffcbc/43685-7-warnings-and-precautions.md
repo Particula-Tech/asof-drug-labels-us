@@ -46,7 +46,7 @@ The bimatoprost ophthalmic solution bottle must be kept intact during use.
 It is important to use bimatoprost ophthalmic solution as instructed, by placing one drop on the single-use-per-eye applicator.
 The bottle tip should not be allowed to contact any other surface since it could become contaminated.
 The accompanying sterile applicators should only be used on one eye and then discarded since reuse of applicators increases the potential for contamination and infections.
-There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products.
+There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products [see Patient Counseling Information (17)].
 
 ## 5.8 Use With Contact Lenses
 

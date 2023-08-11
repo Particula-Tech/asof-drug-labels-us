@@ -113,3 +113,8 @@ The pH during its shelf life ranges from 6.8 to 7.8.
 Lumigan® is a registered trademark of Allergan, Inc.
 
 Manufactured by Alcon Laboratories, Inc. Fort Worth, Texas 76134 for Sandoz Inc. Princeton, NJ 08540
+
+300060164
+
+Rev.
+May 2023
