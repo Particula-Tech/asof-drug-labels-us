@@ -24,7 +24,6 @@ Made in UK
 
 1. 62000000047760 Rev.
    5/20
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -56,4 +55,3 @@ Trademarks are owned by or licensed to the ViiV Healthcare group of companies.
 
 1. 2000000056821 Rev.
    1/21
-2. 
