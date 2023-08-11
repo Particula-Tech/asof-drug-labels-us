@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Alogliptin and Metformin Hydrochloride
+Alogliptin and Metformin HCl
 
 No carcinogenicity, mutagenicity or impairment of fertility studies have been conducted with KAZANO.
 The following data are based on findings in studies performed with alogliptin or metformin individually.
@@ -19,7 +19,7 @@ Alogliptin was negative in the in vivo mouse micronucleus study.
 
 In a fertility study in rats, alogliptin had no adverse effects on early embryonic development, mating or fertility, at doses up to 500 mg/kg, or approximately 172 times the clinical dose based on plasma drug exposure (AUC).
 
-Metformin Hydrochloride
+Metformin HCl
 
 Long-term carcinogenicity studies have been performed in rats (dosing duration of 104 weeks) and mice (dosing duration of 91 weeks) at doses up to and including 900 mg/kg and 1500 mg/kg, respectively.
 These doses are both approximately four times the maximum recommended human daily dose of 2000 mg based on body surface area comparisons.

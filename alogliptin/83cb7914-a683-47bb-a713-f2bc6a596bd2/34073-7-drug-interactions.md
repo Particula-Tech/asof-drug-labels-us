@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Metformin Hydrochloride
+Metformin HCl
 
 | Carbonic Anhydrase Inhibitors |  |
 | --- | --- |
@@ -26,4 +26,4 @@ Alogliptin
 
 | Cytochrome (CYP) P450, CYP-Substrates or Inhibitors |  |
 | --- | --- |
-| Clinical Impact: | Alogliptin is primarily renally excreted. Cytochrome (CYP) P450-related metabolism is negligible. No significant drug-drug interactions were observed with the CYP-substrates or inhibitors tested or with renally excreted drugs [see Clinical Pharmacology (12.3)]. |
+| Clinical Impact: | Insulin Secretagogues and Insulin Insulin and insulin secretagogues are known to cause hypoglycemia. Coadministration of KAZANO with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower dosages of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.7)]. |

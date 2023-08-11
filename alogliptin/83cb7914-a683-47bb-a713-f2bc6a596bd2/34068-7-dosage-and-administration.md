@@ -1,20 +1,17 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommendations for All Patients
+## 2.1 Recommended Dosage
 
-- Healthcare providers should individualize the starting dose of KAZANO based on the patient's current regimen.
-- KAZANO should be taken twice daily with food with gradual dose escalation to reduce the gastrointestinal (GI) side effects due to metformin.
+- Individualize the starting dosage of KAZANO based on the patient's current regimen.
+- KAZANO should be taken orally twice daily with food with gradual dose escalation to reduce the gastrointestinal (GI) side effects due to metformin.
   Do not split tablets.
-- Dosing may be adjusted based on effectiveness and tolerability while not exceeding the maximum recommended daily dose of 25 mg alogliptin and 2000 mg metformin hydrochloride (HCl).
-- The following doses are available:
-  - 12.5 mg alogliptin and 500 mg metformin HCl
-  - 12.5 mg alogliptin and 1000 mg metformin HCl
+- Adjust the dosage based on effectiveness and tolerability while not exceeding the maximum recommended daily dose of 25 mg alogliptin and 2000 mg metformin hydrochloride (HCl).
 
 ## 2.2 Recommendations for Use in Renal Impairment
 
 Assess renal function prior to initiation of KAZANO and periodically thereafter.
 
-KAZANO is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m2 [see Contraindications (4) and Warnings and Precautions (5.1)].
+KAZANO is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m2 [see Contraindications (4), Warnings and Precautions (5.1)].
 
 KAZANO is not recommended in patients with an eGFR between 30 and 59 mL/min/1.73 m2 because these patients require a lower daily dosage of alogliptin than what is available in the fixed combination KAZANO product.
 

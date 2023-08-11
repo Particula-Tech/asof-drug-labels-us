@@ -4,4 +4,4 @@ KAZANO is indicated as an adjunct to diet and exercise to improve glycemic contr
 
 Limitations of Use
 
-KAZANO should not be used in patients with type 1 diabetes mellitus.
+KAZANO is not recommended for use in patients with type 1 diabetes mellitus.

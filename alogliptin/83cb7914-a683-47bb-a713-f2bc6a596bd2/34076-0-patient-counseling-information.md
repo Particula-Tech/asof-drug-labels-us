@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Lactic Acidosis
 
@@ -13,44 +13,38 @@ Pancreatitis
 
 Inform patients that acute pancreatitis has been reported during use of alogliptin.
 Educate patients that persistent, severe abdominal pain, sometimes radiating to the back, which may or may not be accompanied by vomiting, is the hallmark symptom of acute pancreatitis.
-Instruct patients to promptly discontinue KAZANO and contact their physician if persistent severe abdominal pain occurs.
-[see Warnings and Precautions (5.2)].
+Instruct patients to promptly discontinue KAZANO and contact their physician if persistent severe abdominal pain occurs [see Warnings and Precautions (5.2)].
 
 Heart Failure
 
 Inform patients of the signs and symptoms of heart failure.
 Before initiating KAZANO, patients should be asked about a history of heart failure or other risk factors for heart failure including moderate to severe renal impairment.
-Instruct patients to contact their healthcare providers as soon as possible if they experience symptoms of heart failure, including increasing shortness of breath, rapid increase in weight, or swelling of the feet.
-[see Warnings and Precautions (5.3)].
+Instruct patients to contact their healthcare providers as soon as possible if they experience symptoms of heart failure, including increasing shortness of breath, rapid increase in weight, or swelling of the feet [see Warnings and Precautions (5.3)].
 
 Hypersensitivity Reactions
 
 Inform patients that allergic reactions have been reported during use of alogliptin and metformin.
-Instruct patients if symptoms of allergic reactions (including skin rash, hives and swelling of the face, lips, tongue and throat that may cause difficulty in breathing or swallowing) occur, patients should discontinue KAZANO and seek medical advice promptly.
-[see Warnings and Precautions (5.4)].
+Instruct patients if symptoms of allergic reactions (including skin rash, hives and swelling of the face, lips, tongue and throat that may cause difficulty in breathing or swallowing) occur, patients should discontinue KAZANO and seek medical advice promptly [see Warnings and Precautions (5.4)].
 
 Hepatic Effects
 
 Inform patients that postmarketing reports of liver injury, sometimes fatal, have been reported during use of alogliptin.
-Instruct patients that if signs or symptoms of liver injury occur, patients should be instructed to discontinue KAZANO and seek medical advice promptly.
-[see Warnings and Precautions (5.5)].
+Instruct patients that if signs or symptoms of liver injury occur, patients should be instructed to discontinue KAZANO and seek medical advice promptly [see Warnings and Precautions (5.5)].
 
 Vitamin B12 Levels
 
-Inform patients about importance of regular hematological parameters while receiving metformin [see Warnings and Precautions (5.6)]
+Inform patients about importance of regular hematological parameters while receiving metformin [see Warnings and Precautions (5.6)].
 
 Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues
 
 Inform patients that hypoglycemia can occur, particularly when an insulin secretagogue or insulin is used in combination with KAZANO.
-Educate patients about the risks, symptoms and appropriate management of hypoglycemia.
-[see Warnings and Precautions (5.7)].
+Educate patients about the risks, symptoms and appropriate management of hypoglycemia [see Warnings and Precautions (5.7)].
 
 Severe and Disabling Arthralgia
 
 Inform patients that severe and disabling joint pain may occur with this class of drugs.
 The time to onset of symptoms can range from one day to years.
-Instruct patients to seek medical advice if severe joint pain occurs.
-[see Warnings and Precautions (5.8)].
+Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.8)].
 
 Bullous Pemphigoid
 

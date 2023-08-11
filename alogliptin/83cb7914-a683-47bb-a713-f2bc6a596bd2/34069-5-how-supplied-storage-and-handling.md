@@ -16,7 +16,5 @@ KAZANO tablets are available in the following strengths and packages:
 | NDC 64764-337-80 | Bottles of 180 tablets |
 | NDC 64764-337-77 | Bottles of 500 tablets |
 
-Storage
-
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Keep container tightly closed.
