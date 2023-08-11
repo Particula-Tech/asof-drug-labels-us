@@ -1,6 +1,9 @@
-Manufactured for: Azurity Pharmaceuticals, Inc. Wilmington, MA 01887 USA
+Manufactured for: Azurity Pharmaceuticals, Inc. Woburn, MA 01801 USA
 
-U.S. Patents: 9,463,183; 9,616,096; 9,814,751; 10,039,800; 10,265,370; 10,406,199; 10,940,177
+Patent: https://azurity.com/patents
 
-PI100073.04 Rev.
-7/2020
+This product’s label may have been updated.
+For current Full Prescribing Information, please visit Qbrelis.com
+
+PI100073.05 Rev.
+4/2023
