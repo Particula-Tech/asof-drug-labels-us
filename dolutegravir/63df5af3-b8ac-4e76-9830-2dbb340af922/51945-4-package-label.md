@@ -30,37 +30,41 @@ Contents:
 
 60 tablets
 
-©2020 ViiV Healthcare group of companies or its licensor.
+©2023 ViiV Healthcare group of companies or its licensor.
 
 Made in Japan
 
 Rev.
-7/2020
+2/2023
 
-62000000053856
+62000000085464
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 49702-226-13
 
-Tivicay®
+Tivicay
 
 (dolutegravir)
 
 Tablets
 
-Rx Only
-
 10 mg
+
+Rx Only
 
 Each film-coated tablet contains dolutegravir sodium equivalent to 10 mg of dolutegravir.
 
 30 Tablets
 
-Store in original package at controlled room temperature of 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) (See USP).
+Keep out of reach of children.
+
+Store in original package at controlled room temperature of 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP].
 
 Keep bottle tightly closed; protect from moisture.
 Do not remove desiccant.
+
+Do not accept if membrane seal under cap is missing or broken.
 
 See prescribing information for dosage information.
 
@@ -68,40 +72,44 @@ Manufactured for:
 
 ViiV Healthcare
 
-RTP, NC 27709
+Durham, NC 27701
 
 by:
 
 GlaxoSmithKline
 
-RTP, NC 27709
+Durham, NC 27701
 
 Made in Japan
 
 Rev.
-5/17
+2/23
 
-10000000146193
+62000000085469
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 49702-227-13
 
-Tivicay®
+Tivicay
 
 (dolutegravir)
 
 Tablets
 
-Rx Only
-
 25 mg
+
+Rx Only
 
 Each film-coated tablet contains dolutegravir sodium equivalent to 25 mg of dolutegravir.
 
 30 Tablets
 
-Store at controlled room temperature of 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) (See USP).
+Keep out of reach of children.
+
+Store at controlled room temperature of 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP].
+
+Do not accept if membrane seal under cap is missing or broken.
 
 See prescribing information for dosage information.
 
@@ -109,26 +117,26 @@ Manufactured for:
 
 ViiV Healthcare
 
-RTP, NC 27709
+Durham, NC 27701
 
 by:
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
 Made in Japan
 
 Rev.
-4/17
+2/23
 
-10000000146194
+62000000085470
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 49702-228-13
 
-Tivicay®
+Tivicay
 
 (dolutegravir)
 
@@ -142,7 +150,11 @@ Each film-coated tablet contains dolutegravir sodium equivalent to 50 mg of dolu
 
 30 Tablets
 
-Store at controlled room temperature of 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) (see USP).
+Keep out of reach of children.
+
+Store at controlled room temperature of 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP].
+
+Do not accept if membrane seal under cap is missing or broken.
 
 See prescribing information for dosage information.
 
@@ -150,17 +162,17 @@ Manufactured for:
 
 ViiV Healthcare
 
-RTP, NC 27709
+Durham, NC 27701
 
 by:
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
 Made in Japan
 
 Rev.
-6/16
+2/23
 
-10000000141767
+62000000085468
