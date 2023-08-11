@@ -22,6 +22,4 @@ NESINA tablets are available as film-coated tablets containing 25 mg, 12.5 mg or
 | --- | --- |
 | NDC 64764-625-90 | Bottles of 90 tablets |
 
-Storage
-
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].

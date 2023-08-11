@@ -6,34 +6,34 @@ Pancreatitis
 
 Inform patients that acute pancreatitis has been reported during use of NESINA.
 Educate patients that persistent, severe abdominal pain, sometimes radiating to the back, which may or may not be accompanied by vomiting, is the hallmark symptom of acute pancreatitis.
-Instruct patients to promptly discontinue NESINA and contact their physician if persistent severe abdominal pain occurs.
+Instruct patients to promptly discontinue NESINA and contact their physician if persistent severe abdominal pain occurs [see Warnings and Precautions (5.1)].
 
 Heart Failure
 
 Inform patients of the signs and symptoms of heart failure.
 Before initiating NESINA, patients should be asked about a history of heart failure or other risk factors for heart failure including moderate to severe renal impairment.
-Instruct patients to contact their healthcare providers as soon as possible if they experience symptoms of heart failure, including increasing shortness of breath, rapid increase in weight, or swelling of the feet.
+Instruct patients to contact their healthcare providers as soon as possible if they experience symptoms of heart failure, including increasing shortness of breath, rapid increase in weight, or swelling of the feet [see Warnings and Precautions (5.2)].
 
 Hypersensitivity Reactions
 
 Inform patients that allergic reactions have been reported during use of NESINA.
-Instruct patients if symptoms of allergic reactions (including skin rash, hives and swelling of the face, lips, tongue and throat that may cause difficulty in breathing or swallowing) occur, patients should discontinue NESINA and seek medical advice promptly.
+Instruct patients if symptoms of allergic reactions (including skin rash, hives and swelling of the face, lips, tongue and throat that may cause difficulty in breathing or swallowing) occur, patients should discontinue NESINA and seek medical advice promptly [see Warnings and Precautions (5.3)].
 
 Hepatic Effects
 
 Inform patients that postmarketing reports of liver injury, sometimes fatal, have been reported during use of NESINA.
-Instruct patients if signs or symptoms of liver injury occur, patients should discontinue NESINA and seek medical advice promptly.
+Instruct patients if signs or symptoms of liver injury occur, patients should discontinue NESINA and seek medical advice promptly [see Warnings and Precautions (5.4)].
 
 Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues
 
 Inform patients that hypoglycemia can occur, particularly when an insulin secretagogue or insulin is used in combination with NESINA.
-Educate patients about the risks, symptoms and appropriate management of hypoglycemia.
+Educate patients about the risks, symptoms and appropriate management of hypoglycemia [see Warnings and Precautions (5.5)].
 
 Severe and Disabling Arthralgia
 
 Inform patients that severe and disabling joint pain may occur with this class of drugs.
 The time to onset of symptoms can range from one day to years.
-Instruct patients to seek medical advice if severe joint pain occurs.
+Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.6)].
 
 Bullous Pemphigoid
 
