@@ -25,15 +25,15 @@ Note that the titration scheme for use in clinical practice is based on serum to
 
 Table 3 summarizes the pharmacokinetic (PK) parameters for plasma total testosterone in patients completing at least 105 days of JATENZO treatment administered twice daily.
 
-Table 3: NaF-EDTA Plasma Testosterone C avg and C max at Final PK Visit
+Table 3: NaF-EDTA Plasma Testosterone Cavg and Cmax at Final PK Visit
 
 | PK Parameter |  | All Doses (N=151) |
 | --- | --- | --- |
-| C avg (ng/dL) | Mean | 403 |
+| Cavg (ng/dL) | Mean | 403 |
 | SD | 128 |  |
-| C max (ng/dL) | Mean | 1008 |
+| Cmax (ng/dL) | Mean | 1008 |
 |  | SD | 581 |
-| PK = pharmacokinetic; C avg = 24-hour average concentration; C max = maximum concentration |  |  |
+| PK = pharmacokinetic; Cavg = 24-hour average concentration; Cmax = maximum concentration |  |  |
 
 Figure 2 summarizes the mean plasma total testosterone profile for the patients at the final PK visit.
 

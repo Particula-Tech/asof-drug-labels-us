@@ -68,7 +68,7 @@ Due to lack of controlled studies in women and potential virilizing effects, JAT
 With large doses of exogenous androgens, including JATENZO, spermatogenesis may be suppressed through feedback inhibition of pituitary FSH possibly leading to adverse effects on semen parameters including sperm count [see Use in Specific Populations (8.3)].
 Patients should be informed of this possible risk when deciding whether to use or to continue to use JATENZO.
 
-## 5.9 Hepatic Adverse Events
+## 5.9 Hepatic Adverse Effects
 
 Prolonged use of high doses of orally active 17-alpha-alkyl androgens (e.g., methyltestosterone) has been associated with serious hepatic adverse effects (peliosis hepatis, hepatic neoplasms, cholestatic hepatitis, and jaundice).
 Peliosis hepatis can be a life-threatening or fatal complication.

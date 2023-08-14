@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION Increased Blood Pressure and Risk for Major Adverse Cardiovascular Events (MACE)
+# 17 PATIENT COUNSELING INFORMATION Increased Blood Pressure and Risk for Major Adverse Cardiovascular Events (MACE) Other Adverse Reactions
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
@@ -22,6 +22,7 @@ Instruct patients to report any changes in their state of health, such as change
 
 Keep JATENZO out of the reach of children.
 
-Marketed by: Clarus Therapeutics, Inc. 555 Skokie Blvd., Suite 340 Northbrook, IL 60062, USA
+Distributed by: Tolmar, Inc. Fort Collins, CO 80526
 
-Issued 06/2019
+Issued: 01/2023 708707 Rev.
+1 01/23
