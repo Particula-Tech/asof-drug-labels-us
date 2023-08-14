@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA202644"
+  ],
+  "inn": "nifedipine",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-739-90",
+    "62135-740-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nifedipine",
+      "name": "Nifedipine"
+    }
+  ],
+  "setid": "5014847e-389d-48c1-8350-b9b24ca8d2a4",
+  "source": "dailymed"
+}
