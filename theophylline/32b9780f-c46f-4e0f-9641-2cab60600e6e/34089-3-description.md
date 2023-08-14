@@ -8,6 +8,6 @@ The molecular formula of anhydrous theophylline is C7H8N4O2 with a molecular wei
 
 Theophylline Oral Solution USP is available as a liquid intended for oral administration, containing 80 mg of theophylline anhydrous and 20% alcohol in each 15 mL (tablespoonful).
 
-Theophylline Oral Solution USP also contains the following inactive ingredients: citric acid, FD&C Red No. 40, FD&C Yellow No. 6, fruit flavor, purified water and saccharin sodium.
+Theophylline Oral Solution USP also contains the following inactive ingredients: citric acid, FD&C Red No. 40, FD&C Yellow No. 6, flavor, purified water and saccharin sodium.
 May contain sodium citrate for pH adjustment.
 Theophylline Oral Solution USP has a pH of 3.0 - 4.7.

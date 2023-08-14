@@ -9,9 +9,8 @@ NDC 0121-0820-04: 4 fl oz (118 mL) bottle
 
 NDC 0121-0820-16: 16 fl oz (473 mL) bottle
 
-NDC 0121-4820-15: 15 mL unit dose cup
-
-NDC 0121-4820-40: Case contains 40 unit dose cups of 15 mL (0121-4820-15) packaged in 4 trays of 10 unit dose cups each.
+NDC 0121-4820-15: 15 mL unit dose cup.
+Case contains 40 unit-dose cups of 15 mL (NDC 0121-4820-40), packaged in 4 trays of 10 unit-dose cups each.
 
 ## RECOMMENDED STORAGE
 
@@ -22,4 +21,4 @@ Dispense in tight, light-resistant container.
 
 Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
 
-R05/17
+R03/22

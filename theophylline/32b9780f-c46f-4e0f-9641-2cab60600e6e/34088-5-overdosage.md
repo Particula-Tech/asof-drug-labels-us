@@ -39,7 +39,7 @@ General Recommendations for Patients with Symptoms of Theophylline Overdose or S
    Elderly patients and patients with COPD may be more susceptible to the respiratory depressant effects of anticonvulsants.
    Barbiturate-induced coma or administration of general anesthesia may be required to terminate repetitive seizures or status epilepticus.
    General anesthesia should be used with caution in patients with theophylline overdose because fluorinated volatile anesthetics may sensitize the myocardium to endogenous catecholamines released by theophylline.
-   Enflurane appears less likely to be associated with this effect than halothane and may, therefore, be safer.
+   Enflurane appears to less likely to be associated with this effect than halothane and may, therefore, be safer.
    Neuromuscular blocking agents alone should not be used to terminate seizures since they abolish the musculoskeletal manifestations without terminating seizure activity in the brain.
 4. Anticipate Need for Anticonvulsants In patients with theophylline overdose who are at high risk for theophylline-induced seizures, e.g., patients with acute overdoses and serum theophylline concentrations >100 mcg/mL chronic overdosage in patients >60 years of age with serum theophylline concentrations >30 mcg/mL, the need for anticonvulsant therapy should be anticipated.
    A benzodiazepine such as diazepam should be drawn into a syringe and kept at the patient's bedside and medical personnel qualified to treat seizures should be immediately available.

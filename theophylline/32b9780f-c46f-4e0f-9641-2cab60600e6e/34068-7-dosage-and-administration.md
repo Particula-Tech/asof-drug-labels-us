@@ -39,7 +39,7 @@ ii. ≥24 days postnatal age; 1.5 mg/kg every 12 hr
 
 b. Full term infants and infants up to 52 weeks of age: Total daily dose (mg) = [(0.2 × age in weeks)+5.0] × (Kg body Wt).
 
-i. up to age 26 weeks; divide dose into 3 equal amounts administered at 8 hour intervals.
+i. Up to age 26 weeks; divide dose into 3 equal amounts administered at 8 hour intervals.
 
 ii. >26 weeks of age; divide dose into 4 equal amounts administered at 6 hour intervals.
 

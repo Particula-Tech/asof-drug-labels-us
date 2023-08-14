@@ -119,7 +119,7 @@ Clinically significant drug interactions with theophylline*.
 | --- | --- | --- |
 | Adenosine | Theophylline blocks adenosine receptors. | Higher doses of adenosine may be required to achieve desired effect. |
 | Alcohol | A single large dose of alcohol (3 ml/kg of whiskey) decreases theophylline clearance for up to 24 hours. | 30% increase |
-| Allopurinol | Decreases theophylline clearance doses ≥600 mg/day. | 25% increase at allopurinol |
+| Allopurinol | Decreases theophylline clearance doses at ≥600 mg/day. | 25% increase at allopurinol |
 | Amino glutethimide | Increases theophylline clearance by induction of microsomal enzyme activity. | 25% decrease |
 | Carbamazepine | Similar to aminoglutethimide. | 30% decrease |
 | Cimetidine | Decreases theophylline clearance by inhibiting cytochrome P450 1A2. | 70% increase |
@@ -159,35 +159,29 @@ Clinically significant drug interactions with theophylline*.
 
 * Refer to PRECAUTIONS, Drug Interactions for further information regarding table.
 
-** Average effect on steady state theophylline concentration or other clinical effect for
-
-pharmacologic interactions.
-Individual patients may experience larger changes in serum
-
-theophylline concentration than the value listed.
+** ** Average effect on steady state theophylline concentration or other clinical effect for pharmacologic interactions.
+Individual patients may experience larger changes in serum theophylline concentration than the value listed.
 
 Table III.
-Drugs that have been documented not to interact with theophylline or drugs that produce no clinically significant interaction with theophylline.*
+Drugs that have been documented not to interact with theophylline or drugs
 
-| albuterol, systemic and inhaled | lomefloxacin mebendazole |
-| --- | --- |
-| amoxicillin | medroxyprogesterone |
-| ampicillin, with or without sulbactam | methylprednisolone metronidazole |
-| atenolol | metoprolol |
-| azithromycin | nadolol |
-| caffeine, dietary ingestion | nifedipine nizatidine |
-| cefactor | norfloxacin |
-| co-trimoxazole (trimethoprim and sulfamethoxazole) | ofloxacin omeprazole prednisone, prednisolone |
-| diltiazem | ranitidine |
-| dirithromycin | rifabutin |
-| enflurane | roxithromycin |
-| famotidine | sorbitol |
-| felodipine finasteride hydrocortisone | (purgative doses do not inhibit theophylline absorption) |
-| isoflurane | sucralfate |
-| isoniazid | terbutaline, systemic |
-| isradipine | terfenadine |
-| influenza vaccine | tetracycline |
-| ketoconazole | tocainide |
+that produce no clinically significant interaction with theophylline.*
+
+| albuterol,systemic and inhaled | hydrocortisone | nizatidine |
+| --- | --- | --- |
+| amoxicillin | isoflurane | norfloxacin |
+| ampicillin, with or without sulbactam | isoniazid | ofloxacin |
+| atenolol | isradipine | omeprazole |
+| azithromycin | influenza vaccine | prednisone, prednisolone |
+| caffeine, dietary ingestion | ketoconazole | ranitidine |
+| cefaclor | lomefloxacin | rifabutin |
+| co-trimoxazole (trimethoprim and sulfamethoxazole) | mebendazole | roxithromycin |
+| diltiazem | medroxyprogesterone | sorbitol (purgative doses do not inhibit theophylline absorption) |
+| dirithromycin | methylprednisolone | sucralfate |
+| enflurane | metronidazole | terbutaline, systemic |
+| famotidine | metoprolol | terfenadine |
+| felodipine | nadolol | tetracycline |
+| finasteride | nifedipine | tocainide |
 
 * Refer to PRECAUTIONS, Drug Interactions for information regarding table.
 
@@ -211,8 +205,6 @@ In 13 week toxicity studies, theophylline was administered to F344 rats and B6C3
 At the high dose, systemic toxicity was observed in both species including decreases in testicular weight.
 
 ## Pregnancy
-
-### CATEGORY C
 
 There are no adequate and well controlled studies in pregnant women.
 Additionally, there are no teratogenicity studies in non-rodents (e.g., rabbits).
