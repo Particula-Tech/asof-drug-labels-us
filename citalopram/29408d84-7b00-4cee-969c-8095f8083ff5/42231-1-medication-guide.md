@@ -174,10 +174,8 @@ Before starting citalopram, tell your healthcare provider if you:
   - •Cimetidine
   - •Triptans used to treat migraine headache
   - •Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, or antipsychotics
-  - •Tramadol
-  - •Meperidine
-  - •Methadone
-  - •Over-the-counter supplements such as tryptophan or St. Johns Wort
+  - •Tramadol, Meperidine, Methadone, or other opioids
+  - •Over-the-counter supplements such as tryptophan or St. John’s Wort
 - •have liver problems
 - •have kidney problems
 - •have heart problems
@@ -291,4 +289,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Hikma Pharmaceuticals USA Inc.
 
-Berkeley Heights, NJ 07922 C50000426/02 Revised June 2023
+Berkeley Heights, NJ 07922 C50000426/02 Revised July 2023
