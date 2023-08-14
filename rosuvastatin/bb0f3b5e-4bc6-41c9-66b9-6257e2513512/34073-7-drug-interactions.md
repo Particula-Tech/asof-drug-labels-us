@@ -15,6 +15,9 @@ Table 5: Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis
 | Teriflunomide |  |  |
 | Clinical Impact: | Teriflunomide increased rosuvastatin exposure more than 2.5-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
 | Intervention: | In patients taking teriflunomide, do not exceed a dose of CRESTOR 10 mg once daily. |  |
+| Enasidenib |  |  |
+| Clinical Impact: | Enasidenib increased rosuvastatin exposure more than 2.4-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
+| Intervention: | In patients taking enasidenib, do not exceed a dose of CRESTOR 10 mg once daily. |  |
 | Capmatinib |  |  |
 | Clinical Impact: | Capmatinib increased rosuvastatin exposure more than 2.1-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
 | Intervention: | In patients taking capmatinib, do not exceed a dose of CRESTOR 10 mg once daily. |  |
@@ -29,7 +32,7 @@ Table 5: Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis
 | Intervention: | Avoid concomitant use of gemfibrozil with CRESTOR. If used concomitantly, initiate CRESTOR at 5 mg once daily and do not exceed a dose of CRESTOR 10 mg once daily. |  |
 | Tafamidis |  |  |
 | Clinical Impact: | Tafamidis significantly increased rosuvastatin exposure and tafamidis may cause myopathy when given alone. The risk of myopathy and rhabdomyolysis is increased with concomitant use of tafamidis with CRESTOR. |  |
-| Intervention: | Avoid concomitant use of tafamidis with CRESTOR. If used concomitantly, initiate CRESTOR at 5 mg once daily and do not exceed a dose of CRESTOR 10 mg once daily. Monitor for signs of myopathy and rhabdomyolysis if used concomitantly with CRESTOR. |  |
+| Intervention: | Avoid concomitant use of tafamidis with CRESTOR. If used concomitantly, initiate CRESTOR at 5 mg once daily and do not exceed a dose of CRESTOR 20 mg once daily. Monitor for signs of myopathy and rhabdomyolysis if used concomitantly with CRESTOR. |  |
 | Anti-Viral Medications |  |  |
 | Clinical Impact: | Rosuvastatin plasma levels were significantly increased with concomitant administration of many anti-viral drugs, which increases the risk of myopathy and rhabdomyolysis. |  |
 | Intervention: | •Sofosbuvir/velpatasvir/voxilaprevir•Ledipasvir/sofosbuvir | Avoid concomitant use with CRESTOR. |

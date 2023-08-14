@@ -46,11 +46,12 @@ Table 1: CRESTOR Dosage Modifications Due to Drug Interactions
 | --- | --- |
 | Cyclosporine | Do not exceed 5 mg once daily. |
 | Teriflunomide | Do not exceed 10 mg once daily. |
+| Enasidenib | Do not exceed 10 mg once daily. |
 | Capmatinib | Do not exceed 10 mg once daily. |
 | Fostamatinib | Do not exceed 20 mg once daily. |
 | Febuxostat | Do not exceed 20 mg once daily. |
 | Gemfibrozil | Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 10 mg once daily. |
-| Tafamidis | Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 10 mg once daily. |
+| Tafamidis | Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 20 mg once daily. |
 | Antiviral Medications |  |
 | ∘Sofbuvir/velpatasvir/voxilaprevir ∘Ledipasvir/sofosbuvir | Concomitant use not recommended. |
 | ∘Simeprevir∘Dasabuvir/ombitasvir/paritaprevir/ritonavir∘Elbasvir/Grazoprevir∘Sofosbuvir/Velpatasvir∘Glecaprevir/Pibrentasvir∘Atazanavir/Ritonavir ∘Lopinavir/Ritonavir | Initiate at 5 mg once daily. Do not exceed 10 mg once daily. |

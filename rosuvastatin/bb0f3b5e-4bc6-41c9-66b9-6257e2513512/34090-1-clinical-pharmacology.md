@@ -92,20 +92,21 @@ Table 8: Effect of Coadministered Drugs on Rosuvastatin Systemic Exposure
 | Sofosbuvir/velpatasvir/voxilaprevir (400 mg -100 mg-100 mg) + Voxilaprevir (100 mg) once daily for 15 days | 10 mg, single dose | 7.39Clinically significant [see Dosage and Administration (2) and Warnings and Precautions (5)](6.68-8.18)Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7 = 30% decrease, 11=11‑fold increase in exposure) | 18.88(16.23-21.96) |
 | Cyclosporine – stable dose required (75 mg - 200 mg BID) | 10 mg, QD for 10 days | 7.1 | 11 |
 | Darolutamide 600 mg BID, 5 days | 5 mg, single dose | 5.2 | ~5 |
-| Regorafenib 160 mg OD, 14 days | 5 mg, single dose | 3.8 | 4.6 |
+| Regorafenib 160 mg QD, 14 days | 5 mg, single dose | 3.8 | 4.6 |
 | Atazanavir/ritonavir combination 300 mg/100 mg QD for 8 days | 10 mg | 3.1 | 7 |
 | Simeprevir 150 mg QD, 7 days | 10 mg, single dose | 2.8(2.3-3.4) | 3.2(2.6-3.9) |
 | Velpatasvir 100 mg once daily | 10 mg, single dose | 2.69(2.46-2.94) | 2.61(2.32-2.92) |
 | Ombitasvir 25 mg/paritaprevir 150 mg/ ritonavir 100 mg + dasabuvir 400 mg BID | 5 mg, single dose | 2.59(2.09-3.21) | 7.13(5.11-9.96) |
 | Teriflunomide | Not available | 2.51 | 2.65 |
+| Enasidenib 100 mg QD, 28 days | 10 mg, single dose | 2.44 | 3.66 |
 | Elbasvir 50 mg/grazoprevir 200 mg once daily | 10 mg, single dose | 2.26(1.89-2.69) | 5.49(4.29-7.04) |
 | Glecaprevir 400 mg/pibrentasvir 120 mg once daily | 5 mg, once daily | 2.15(1.88-2.46) | 5.62(4.80-6.59) |
 | Lopinavir/ritonavir combination 400 mg/100 mg BID for 17 days | 20 mg, QD for 7 days | 2.1(1.7-2.6) | 5(3.4-6.4) |
 | Capmatinib 400 mg BID | 10 mg, single dose | 2.08(1.56-2.76) | 3.04(2.36-3.92) |
 | Fostamatinib 100 mg BID | 20 mg, single dose | 1.96(1.77-2.15) | 1.88(1.69-2.09) |
-| Febuxostat 120 mg OD for 4 days | 10 mg, single dose | 1.9(1.5-2.5) | 2.1(1.8-2.6) |
+| Febuxostat 120 mg QD for 4 days | 10 mg, single dose | 1.9(1.5-2.5) | 2.1(1.8-2.6) |
 | Gemfibrozil 600 mg BID for 7 days | 80 mg | 1.9(1.6-2.2) | 2.2(1.8-2.7) |
-| Tafamidis 61 mg QD, 7 days | 10 mg | 1.97(1.68-2.31) | 1.86(1.59-2.16) |
+| Tafamidis 61 mg BID on Days 1 & 2, followed by QD on Days 3 to 9 | 10 mg | 1.97(1.68-2.31) | 1.86(1.59-2.16) |
 | Eltrombopag 75 mg QD, 5 days | 10 mg | 1.6(1.4-1.7) | 2(1.8-2.3) |
 | Darunavir 600 mg/ritonavir 100 mg BID, 7 days | 10 mg, QD for 7 days | 1.5(1.0-2.1) | 2.4(1.6-3.6) |
 | Tipranavir/ritonavir combination 500 mg/200 mg BID for 11 days | 10 mg | 1.4(1.2-1.6) | 2.2(1.8-2.7) |

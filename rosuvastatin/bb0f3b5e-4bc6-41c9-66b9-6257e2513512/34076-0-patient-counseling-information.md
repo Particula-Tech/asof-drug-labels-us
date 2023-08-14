@@ -29,12 +29,12 @@ Advise patients that breastfeeding during treatment with CRESTOR is not recommen
 
 Concomitant Use of Antacids
 
-When taking CRESTOR with an aluminum and magnesium hydroxide combination antacid, the antacid should be taken at least 2 hours after CRESTOR administration.
+When taking CRESTOR with an aluminum and magnesium hydroxide combination antacid, the antacid should be taken at least 2 hours after CRESTOR administration [see Drug Interactions (7.2)].
 
 Missed Doses
 
 If a dose is missed, advise patients not take an extra dose.
-Just resume the usual schedule.
+Just resume the usual schedule [see General Dosage and Administration Information (2.1)].
 
 CRESTOR is a trademark of the AstraZeneca group of companies.
 
