@@ -10,5 +10,5 @@ The structural formula is:
 Sitagliptin phosphate monohydrate is a white to off-white, crystalline, non-hygroscopic powder.
 It is soluble in water and N,N-dimethyl formamide; slightly soluble in methanol; very slightly soluble in ethanol, acetone, and acetonitrile; and insoluble in isopropanol and isopropyl acetate.
 
-Each film-coated tablet of JANUVIA contains 32.13, 64.25, or 128.5 mg of sitagliptin phosphate monohydrate, which is equivalent to 25, 50, or 100 mg, respectively, of free base and the following inactive ingredients: microcrystalline cellulose, anhydrous dibasic calcium phosphate, croscarmellose sodium, magnesium stearate, and sodium stearyl fumarate.
+Each film-coated tablet of JANUVIA contains 32.13, 64.25, or 128.5 mg of sitagliptin phosphate monohydrate, which is equivalent to 25, 50, or 100 mg, respectively, of free base and the following inactive ingredients: microcrystalline cellulose, anhydrous dibasic calcium phosphate, croscarmellose sodium, magnesium stearate, sodium stearyl fumarate, and propyl gallate.
 In addition, the film coating contains the following inactive ingredients: polyvinyl alcohol, polyethylene glycol, talc, titanium dioxide, red iron oxide, and yellow iron oxide.
