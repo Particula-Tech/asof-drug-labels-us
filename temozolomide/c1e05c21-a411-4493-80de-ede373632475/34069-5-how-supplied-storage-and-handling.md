@@ -3,7 +3,7 @@
 Temozolomide is a cytotoxic drug.
 Follow applicable special handling and disposal procedures.1
 
-Temozolomide capsules are supplied in amber glass bottles with child-resistant caps or child-resistant blister packs containing the following capsule strengths:
+Temozolomide capsules, USP are supplied in amber glass bottles with child-resistant caps or child-resistant blister packs containing the following capsule strengths:
 
 5 mg hard gelatin capsules have white opaque caps and bodies, imprinted with band and the dosage strength “5 mg” on body and “890” on cap in green ink, containing white to light tan/light pink powder and are supplied as:
 
@@ -19,7 +19,7 @@ Unit-dose blister pack of 15 (3 x 5)...........................NDC 47335-890-72
 
 Unit-dose blister pack of 20 (4 × 5)...........................NDC 47335-890-75
 
-20 mg hard gelatin capsules have white opaque caps and bodies, imprinted with band and the dosage strength “20 mg” on body and “891” on cap in golden ink, containing white to light tan/light pink powder and are supplied as:
+20 mg hard gelatin capsules have white opaque caps and bodies, imprinted with band and the dosage strength “20 mg” on body and “891” on cap in yellow ink, containing white to light tan/light pink powder and are supplied as:
 
 Bottles of 5 with Child Resistant Cap…….………..NDC 47335-891-80
 
@@ -61,7 +61,7 @@ Unit-dose blister pack of 15 (3 x 5)..........................NDC 47335-929-72
 
 Unit-dose blister pack of 20 (4 × 5)..........................NDC 47335-929-75
 
-180 mg hard gelatin capsules have white opaque caps and bodies, imprinted with band and the dosage strength “180 mg” on body and “930” on cap in brown ink, containing white to light tan/light pink powder and are supplied as:
+180 mg hard gelatin capsules have white opaque caps and bodies, imprinted with band and the dosage strength “180 mg” on body and “930” on cap in reddish brown ink, containing white to light tan/light pink powder and are supplied as:
 
 Bottles of 5 with Child Resistant Cap…….………..NDC 47335-930-80
 

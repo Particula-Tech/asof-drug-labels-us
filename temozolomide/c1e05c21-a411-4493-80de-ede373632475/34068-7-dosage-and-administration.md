@@ -29,7 +29,7 @@ Beginning 4 weeks after Concomitant Phase completion, administer temozolomide ca
 The recommended dosage of temozolomide capsules are as follows:
 
 - Cycle 1: 150 mg/m2 per day
-- Cycles 2 to 6: May increase to 200 mg/m2 per day if the following conditions are met before starting cycle 2.
+- Cycles 2 to 6: May increase to 200 mg/m2per day if the following conditions are met before starting cycle 2.
   If the dose was not escalated at the onset of Cycle 2, do not increase the dose for Cycles 3 to 6.
   - Nonhematologic toxicity is grade 2 or less (except for alopecia, nausea, and vomiting)
   - ANC is greater than or equal to 1.5 x 109/L and
