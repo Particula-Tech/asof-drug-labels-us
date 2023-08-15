@@ -4,7 +4,7 @@ NDC 0006-0078-61
 
 Janumet® XR (sitagliptin and metformin HCl extended-release) tablets
 
-50 mg/500 mg
+50 mg /500 mg
 
 Dispense the accompanying Medication Guide to each patient.
 
