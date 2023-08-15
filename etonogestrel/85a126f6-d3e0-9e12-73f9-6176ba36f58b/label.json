@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA211157"
+  ],
+  "inn": "etonogestrel",
+  "labeler": "Xiromed, LLC",
+  "package_ndcs": [
+    "70700-156-11",
+    "70700-156-91"
+  ],
+  "products": [
+    {
+      "form": "RING",
+      "generic": "etonogestrel and ethinyl estradiol vaginal",
+      "name": "EnilloRing"
+    }
+  ],
+  "setid": "85a126f6-d3e0-9e12-73f9-6176ba36f58b",
+  "source": "dailymed"
+}
