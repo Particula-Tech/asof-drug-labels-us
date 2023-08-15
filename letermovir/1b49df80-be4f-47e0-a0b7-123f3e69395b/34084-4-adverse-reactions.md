@@ -6,13 +6,15 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adult CMV-seropositive Recipients [R+] of an Allogeneic HSCT
 
-The safety of PREVYMIS was evaluated in a Phase 3 randomized, double-blind, placebo-controlled trial (P001) in which 565 subjects were randomized and treated with PREVYMIS (N=373) or placebo (N=192) through Week 14 post-transplant.
+Prophylaxis Through Week 14 (~100 days) Post-HSCT
+
+The safety of PREVYMIS was evaluated in a Phase 3 randomized, double-blind, placebo-controlled trial (P001) in which 565 subjects were randomized and treated with PREVYMIS (N=373) or placebo (N=192) through Week 14 post-HSCT.
 Adverse events were those reported while subjects were on study medication or within two weeks of study medication completion/discontinuation.
 The mean time for reporting adverse events and laboratory abnormalities was approximately 22% longer in the PREVYMIS arm compared to the placebo arm.
 
-Cardiac Adverse Events:
+Cardiac Adverse Events
 
-The cardiac adverse event rate (regardless of investigator-assessed causality) was higher in subjects receiving PREVYMIS (13%) compared to subjects receiving placebo (6%).
+The cardiac adverse event rate was higher in subjects receiving PREVYMIS (13%) compared to subjects receiving placebo (6%).
 The most common cardiac adverse events were tachycardia (reported in 4% of PREVYMIS subjects and in 2% of placebo subjects) and atrial fibrillation (reported in 3% of PREVYMIS subjects and in 1% of placebo subjects).
 Among those subjects who experienced one or more cardiac adverse events, 85% of PREVYMIS and 92% of placebo subjects had events reported as mild or moderate in severity.
 
@@ -62,6 +64,18 @@ Table 2: Trial P001 Selected Laboratory Abnormalities
 | > 1.5 – 2.5 | 17% | 20% |
 
 The median time to engraftment (defined as absolute neutrophil count ≥ 500/mm3 on 3 consecutive days after transplantation) was 19 days in the PREVYMIS group and 18 days in the placebo group.
+
+Prophylaxis From Week 14 (~100 days) Through Week 28 (~200 days) Post-HSCT
+
+The safety of PREVYMIS was evaluated in a Phase 3 randomized, double-blind, placebo-controlled trial (P040) in which 218 subjects who completed PREVYMIS prophylaxis through ~100 days post-HSCT were randomized to treatment with PREVYMIS (N=144) or placebo (N=74) through Week 28 (~200 days) post-HSCT.
+Adverse events were those reported while subjects were on study drug or within two weeks of study drug completion/discontinuation.
+
+The most commonly reported adverse events in P040 were similar to those reported in P001.
+Study drug was discontinued due to an adverse event in 5% of PREVYMIS subjects and 1% of placebo subjects.
+The cardiac adverse event rate was 4% in the PREVYMIS and placebo groups.
+
+The rates of hematologic laboratory abnormalities were comparable in the PREVYMIS and placebo groups.
+Serum creatinine abnormalities > 1.5 mg/dL occurred in 15% of PREVYMIS and 8% of placebo subjects.
 
 Adult Kidney Transplant Recipients [D+/R-]
 

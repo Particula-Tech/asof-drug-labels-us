@@ -59,6 +59,7 @@ Safety and efficacy of PREVYMIS in patients below 18 years of age have not been 
 ## 8.5 Geriatric Use
 
 Of the 373 subjects treated with PREVYMIS in Trial P001, 56 (15%) subjects were 65 years of age or older.
+Of 144 subjects treated with PREVYMIS in Trial P040, 32 (22%) subjects were 65 years of age or older.
 Of the 292 subjects treated with PREVYMIS in Trial P002, 48 (16%) subjects were 65 years of age or older.
 Safety and efficacy were similar across older and younger subjects in each trial.
 No dosage adjustment of PREVYMIS is required based on age [see Clinical Pharmacology (12.3)].

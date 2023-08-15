@@ -191,6 +191,9 @@ One subject had a letermovir resistance substitution, pUL56 V236M (19-50-fold re
 In a Phase 3 trial (P001), DNA sequence analysis of the entire coding regions of UL56 and UL89 was performed on samples obtained from 50 letermovir-treated subjects who had received at least one dose of study drug and experienced prophylaxis failure and for whom samples were available for analysis.
 The pUL56 substitutions V236M (19-50-fold reduction), E237G (13-fold reduction), C325W (9300-fold reduction), and R369T (52-fold reduction) were detected in 3 subjects; however, no 2 subjects had substitutions at the same positions.
 
+In a Phase 3 trial (P040), DNA sequence analysis of the entire coding regions of UL51, UL56 and UL89 was performed on samples obtained from 32 subjects (regardless of treatment group) who experienced prophylaxis failure or who discontinued early with CMV viremia.
+No letermovir resistance-associated substitutions were detected above the validated assay limit.
+
 In a Phase 3 trial (P002), DNA sequence analysis of the entire coding regions of UL51, UL56 and UL89 was performed on samples obtained from 52 letermovir-treated subjects who experienced CMV disease or who discontinued early with CMV viremia.
 No previously characterized resistance-associated substitutions were identified.
 Novel substitutions were detected in letermovir-treated subjects at resistance-associated positions (pUL56 S229Y [n=1], pUL56 M329I [n=9], and pUL89 D344Y [n=5]) at low frequencies, ranging between 0.05 to 0.07.

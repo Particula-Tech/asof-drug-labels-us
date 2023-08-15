@@ -25,7 +25,8 @@ PREVYMIS tablet and injection may be used interchangeably at the discretion of t
 
 HSCT
 
-Initiate PREVYMIS between Day 0 and Day 28 post-transplant (before or after engraftment) and continue through Day 100 post-transplant.
+Initiate PREVYMIS between Day 0 and Day 28 post-HSCT (before or after engraftment) and continue through Day 100 post-HSCT.
+In patients at risk for late CMV infection and disease, PREVYMIS may be continued through Day 200 post-HSCT [see Clinical Studies (14.2)].
 
 Kidney Transplant
 
@@ -33,7 +34,7 @@ Initiate PREVYMIS between Day 0 and Day 7 post-transplant and continue through D
 
 ## 2.3 Patient Monitoring
 
-Following the completion of PREVYMIS prophylaxis, monitoring for CMV reactivation is recommended.
+Following the completion of PREVYMIS prophylaxis, monitoring for CMV reactivation in HSCT recipients is recommended [see Clinical Studies (14.2)].
 
 ## 2.4 Dosage Adjustment When Co-administered with Cyclosporine
 
