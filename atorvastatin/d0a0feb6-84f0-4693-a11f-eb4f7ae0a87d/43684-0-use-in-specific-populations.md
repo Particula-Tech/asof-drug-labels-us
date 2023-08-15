@@ -30,7 +30,6 @@ Study limitations include reliance on physician coding to define the presence of
 
 #### Animal Data
 
-Atorvastatin crosses the rat placenta and reaches a level in fetal liver equivalent to that of maternal plasma.
 Atorvastatin was administered to pregnant rats and rabbits during organogenesis at oral doses up to 300 mg/kg/day and 100 mg/kg/day, respectively.
 Atorvastatin was not teratogenic in rats at doses up to 300 mg/kg/day or in rabbits at doses up to 100 mg/kg/day.
 These doses resulted in multiples of about 30 times (rat) or 20 times (rabbit) the human exposure at the MRHD based on surface area (mg/m2).

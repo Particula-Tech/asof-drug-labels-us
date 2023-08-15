@@ -61,7 +61,7 @@ Upon dose reduction, drug interruption, or discontinuation, transaminase levels 
 Eighteen of 30 patients with persistent liver enzyme elevations continued treatment with a reduced dose of atorvastatin calcium tablets.
 
 Treating to New Targets Study (TNT): In TNT, [see Clinical Studies (14)] 10,001 patients (age range 29-78 years, 19% women; 94% White, 3% Black, 1% Asian, 2% other) with clinically evident CHD were treated with atorvastatin calcium tablets 10 mg daily (n = 5006) or atorvastatin calcium tablets 80 mg daily (n = 4995).
-In the high dose atorvastatin group, there were more patients with serious adverse reactions (1.8%) and discontinuations due to adverse reactions in the high-dose atorvastatin group and discontinuations due to adverse reactions (9.9%) as compared to the low-dose group (1.4%; 8.1%, respectively) during a median follow-up of 4.9 years.
+In the high dose atorvastatin group, there were more patients with serious adverse reactions (1.8%) and discontinuations due to adverse reactions (9.9%) as compared to the low-dose group (1.4%; 8.1%, respectively) during a median follow-up of 4.9 years.
 Persistent transaminase elevations (≥ 3 x ULN twice within 4-10 days) occurred in 1.3% of individuals with atorvastatin 80 mg and in 0.2% of individuals with atorvastatin 10 mg.
 Elevations of CK (≥ 10 x ULN) were higher in the high-dose atorvastatin group (0.3%) compared to the low-dose atorvastatin group (0.1%).
 
