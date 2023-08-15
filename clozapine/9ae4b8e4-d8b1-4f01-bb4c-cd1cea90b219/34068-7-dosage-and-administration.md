@@ -3,7 +3,8 @@
 ## 2.1 Required Laboratory Testing Prior to Initiation and During Therapy
 
 Prior to initiating treatment with clozapine orally disintegrating tablets, a baseline ANC must be obtained.
-The baseline ANC must be at least 1500/μL for the general population, and at least 1000/μL for patients with documented Benign Ethnic Neutropenia (BEN).To continue treatment, the ANC must be monitored regularly [see Warnings and Precautions (5.1)].
+The baseline ANC must be at least 1500/μL for the general population, and at least 1000/μL for patients with documented Benign Ethnic Neutropenia (BEN).
+To continue treatment, the ANC must be monitored regularly [see Warnings and Precautions (5.1)].
 
 ## 2.2 Important Administration Instructions
 

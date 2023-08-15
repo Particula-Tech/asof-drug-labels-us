@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Clozapine Orally Disintegrating Tablets are available containing 25 mg or 100 mg of clozapine, USP.
+Clozapine Orally Disintegrating Tablets are available containing 25 mg, 100 mg, 150 mg or 200 mg of clozapine, USP.
 
 The 25 mg tablets are peach, round, unscored tablets debossed with C over 25 on one side of the tablet and blank on the other side.
 They are available as follows:
@@ -13,6 +13,16 @@ The 100 mg tablets are peach, round, unscored tablets debossed with C over 100 o
 They are available as follows:
 
 NDC 0378-3815-01 bottles of 100 tablets
+
+The 150 mg tablets are peach, round, unscored tablets debossed with C150 on one side of the tablet and blank on the other side.
+They are available as follows:
+
+NDC 0378-3816-01 bottles of 100 tablets
+
+The 200 mg tablets are peach, round, unscored tablets debossed with C200 on one side of the tablet and blank on the other side.
+They are available as follows:
+
+NDC 0378-3817-01 bottles of 100 tablets
 
 ## 16.2 Storage and Handling
 

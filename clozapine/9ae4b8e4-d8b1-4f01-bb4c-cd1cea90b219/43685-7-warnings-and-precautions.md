@@ -387,6 +387,8 @@ The effect of symptom suppression on the long-term course of TD is unknown.
 Phenylketonuric patients should be informed that clozapine orally disintegrating tablets contain phenylalanine (a component of aspartame).
 Each 25 mg, orally disintegrating tablet contains 1.90 mg phenylalanine.
 Each 100 mg, orally disintegrating tablet contains 7.59 mg phenylalanine.
+Each 150 mg, orally disintegrating tablet contains 11.38 mg phenylalanine.
+Each 200 mg, orally disintegrating tablet contains 15.18 mg phenylalanine.
 
 ## 5.20 Cerebrovascular Adverse Reactions
 
