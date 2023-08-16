@@ -68,9 +68,9 @@ Do not refrigerate or freeze.
 
 Shake well before each usage.
 
-RECOMMENDED DOSAGE: See Prescribing Information
+RECOMMENDED DOSAGE:See Prescribing Information
 
-Dispensing: For information concerning proper usage of the oral dosing syringe, see accompanying patient instructions.
+Dispensing:For information concerning proper usage of the oral dosing syringe, see accompanying patient instructions.
 
 Keep out of reach of children.
 

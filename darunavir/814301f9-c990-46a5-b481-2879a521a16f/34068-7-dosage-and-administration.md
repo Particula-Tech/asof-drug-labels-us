@@ -3,7 +3,7 @@
 ## 2.1 Testing Prior to Initiation of PREZISTA/ritonavir
 
 In treatment-experienced patients, treatment history, genotypic and/or phenotypic testing is recommended to assess drug susceptibility of the HIV-1 virus [see Microbiology (12.4)].
-Refer to Dosage and Administration (2.3), (2.4) and (2.5) for dosing recommendations.
+Refer to Dosage and Administration (2.3), (2.4)and (2.5)for dosing recommendations.
 
 Appropriate laboratory testing such as serum liver biochemistries should be conducted prior to initiating therapy with PREZISTA/ritonavir [see Warnings and Precautions (5.2)].
 
@@ -35,7 +35,7 @@ Table 1: Recommended PREZISTA/ritonavir Dosage in Treatment-Experienced Adult Pa
 | Baseline Resistance | PREZISTA tablets with ritonavir tablets or capsule | PREZISTA oral suspension (100 mg/mL) with ritonavir oral solution (80 mg/mL) |
 | --- | --- | --- |
 |  | Formulation and Recommended Dosing |  |
-| With no darunavir resistance associated substitutions V11I, V32I, L33F, I47V, I50V, I54L, I54M, T74P, L76V, I84V and L89V | One 800 mg PREZISTA tablet with one 100 mg ritonavir tablet/capsule, taken once daily with food | 8 mL An 8 mL darunavir dose should be taken as two 4 mL administrations with the included oral dosing syringe. PREZISTA oral suspension with 1.25 mL ritonavir oral solution, taken once daily with food |
+| With no darunavir resistance associated substitutions V11I, V32I, L33F, I47V, I50V, I54L, I54M, T74P, L76V, I84V and L89V | One 800 mg PREZISTA tablet with one 100 mg ritonavir tablet/capsule, taken once daily with food | 8 mL An 8 mL darunavir dose should be taken as two 4 mL administrations with the included oral dosing syringe.PREZISTA oral suspension with 1.25 mL ritonavir oral solution, taken once daily with food |
 | With at least one darunavir resistance associated substitutions, or with no baseline resistance information | One 600 mg PREZISTA tablet with one 100 mg ritonavir tablet/capsule, taken twice daily with food | 6 mL PREZISTA oral suspension with 1.25 mL ritonavir oral solution, taken twice daily with food |
 
 ## 2.4 Recommended Dosage During Pregnancy
@@ -56,7 +56,7 @@ If a child is unable to reliably swallow a tablet, the use of PREZISTA oral susp
 The recommended dose of PREZISTA/ritonavir for pediatric patients (3 to less than 18 years of age and weighing at least 10 kg is based on body weight (see Tables 2, 3, 4, and 5) and should not exceed the recommended adult dose.
 PREZISTA should be taken with ritonavir and with food.
 
-The recommendations for the PREZISTA/ritonavir dosage regimens were based on pediatric clinical trial data and population pharmacokinetic modeling and simulation [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
+The recommendations for the PREZISTA/ritonavir dosage regimens were based on pediatric clinical trial data and population pharmacokinetic modeling and simulation [see Use in Specific Populations (8.4)and Clinical Pharmacology (12.3)].
 
 Dosing Recommendations for Treatment-Naïve Pediatric Patients or Antiretroviral Treatment-Experienced Pediatric Patients with No Darunavir Resistance Associated Substitutions
 
@@ -69,7 +69,7 @@ Table 2: Recommended Dose for Pediatric Patients Weighing 10 kg to Less Than 15 
 | Dose: once daily with food |  |
 | --- | --- |
 | Body weight (kg) | Formulation: PREZISTA oral suspension (100 mg/mL) and ritonavir oral solution (80 mg/mL) |
-| Greater than or equal to 10 kg to less than 11 kg | PREZISTA 3.6 mL The 350 mg, 385 mg, 455 mg and 490 mg darunavir dose for the specified weight groups were rounded up for suspension dosing convenience to 3.6 mL, 4 mL, 4.6 mL and 5 mL, respectively. (350 mg) with ritonavir 0.8 mL (64 mg) |
+| Greater than or equal to 10 kg to less than 11 kg | PREZISTA 3.6 mL The 350 mg, 385 mg, 455 mg and 490 mg darunavir dose for the specified weight groups were rounded up for suspension dosing convenience to 3.6 mL, 4 mL, 4.6 mL and 5 mL, respectively.(350 mg) with ritonavir 0.8 mL (64 mg) |
 | Greater than or equal to 11 kg to less than 12 kg | PREZISTA 4 mL (385 mg) with ritonavir 0.8 mL (64 mg) |
 | Greater than or equal to 12 kg to less than 13 kg | PREZISTA 4.2 mL (420 mg) with ritonavir 1 mL (80 mg) |
 | Greater than or equal to 13 kg to less than 14 kg | PREZISTA 4.6 mL (455 mg) with ritonavir 1 mL (80 mg) |
@@ -85,7 +85,7 @@ Table 3: Recommended Dose for Pediatric Patients Weighing At Least 15 kg Who are
 | --- | --- | --- |
 | Body weight (kg) | Formulation: PREZISTA tablet(s) and ritonavir capsules or tablets (100 mg) | Formulation: PREZISTA oral suspension (100 mg/mL) and ritonavir oral solution (80 mg/mL) |
 | Greater than or equal to 15 kg to less than 30 kg | PREZISTA 600 mg with ritonavir 100 mg | PREZISTA 6 mL (600 mg) with ritonavir 1.25 mL (100 mg) |
-| Greater than or equal to 30 kg to less than 40 kg | PREZISTA 675 mg with ritonavir 100 mg | PREZISTA 6.8 mL The 675 mg dose using darunavir tablets for this weight group is rounded up to 6.8 mL for suspension dosing convenience.The 6.8 mL and 8 mL darunavir dose should be taken as two (3.4 mL or 4 mL respectively) administrations with the included oral dosing syringe. (675 mg) with ritonavir 1.25 mL (100 mg) |
+| Greater than or equal to 30 kg to less than 40 kg | PREZISTA 675 mg with ritonavir 100 mg | PREZISTA 6.8 mL The 675 mg dose using darunavir tablets for this weight group is rounded up to 6.8 mL for suspension dosing convenience.The 6.8 mL and 8 mL darunavir dose should be taken as two (3.4 mL or 4 mL respectively) administrations with the included oral dosing syringe.(675 mg) with ritonavir 1.25 mL (100 mg) |
 | Greater than or equal to 40 kg | PREZISTA 800 mg with ritonavir 100 mg | PREZISTA 8 mL (800 mg) with ritonavir 1.25 mL (100 mg) |
 
 Dosing Recommendations for Treatment-Experienced Pediatric Patients with At Least One Darunavir Resistance Associated Substitutions
@@ -114,13 +114,13 @@ Table 5: Recommended Dose for Pediatric Patients Weighing At Least 15 kg Who are
 | Dose: twice daily with food | Dose: twice daily with food |  |
 | --- | --- | --- |
 | Body weight (kg) | Formulation: PREZISTA tablet(s) and ritonavir tablets, capsules (100 mg) or oral solution (80 mg/mL) | Formulation: PREZISTA oral suspension (100 mg/mL) and ritonavir oral solution (80 mg/mL) |
-| Greater than or equal to 15 kg to less than 30 kg | PREZISTA 375 mg with ritonavir 0.6 mL (48 mg) | PREZISTA 3.8 mL (375 mg) The 375 mg and 450 mg dose using darunavir tablets for this weight group is rounded up to 3.8 mL and 4.6 mL for suspension dosing convenience. with ritonavir 0.6 mL (48 mg) |
+| Greater than or equal to 15 kg to less than 30 kg | PREZISTA 375 mg with ritonavir 0.6 mL (48 mg) | PREZISTA 3.8 mL (375 mg) The 375 mg and 450 mg dose using darunavir tablets for this weight group is rounded up to 3.8 mL and 4.6 mL for suspension dosing convenience.with ritonavir 0.6 mL (48 mg) |
 | Greater than or equal to 30 kg to less than 40 kg | PREZISTA 450 mg with ritonavir 0.75 mL (60 mg) | PREZISTA 4.6 mL (450 mg) with ritonavir 0.75 mL (60 mg) |
 | Greater than or equal to 40 kg | PREZISTA 600 mg with ritonavir 100 mg | PREZISTA 6 mL (600 mg) with ritonavir 1.25 mL (100 mg) |
 
-The use of PREZISTA/ritonavir in pediatric patients below 3 years of age is not recommended [see Warnings and Precautions (5.10) and Use in Specific Populations (8.4)].
+The use of PREZISTA/ritonavir in pediatric patients below 3 years of age is not recommended [see Warnings and Precautions (5.10)and Use in Specific Populations (8.4)].
 
 ## 2.6 Not Recommended in Patients with Severe Hepatic Impairment
 
 No dosage adjustment is required in patients with mild or moderate hepatic impairment.
-No data are available regarding the use of PREZISTA/ritonavir when co-administered to subjects with severe hepatic impairment; therefore, PREZISTA/ritonavir is not recommended for use in patients with severe hepatic impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+No data are available regarding the use of PREZISTA/ritonavir when co-administered to subjects with severe hepatic impairment; therefore, PREZISTA/ritonavir is not recommended for use in patients with severe hepatic impairment [see Use in Specific Populations (8.6)and Clinical Pharmacology (12.3)].

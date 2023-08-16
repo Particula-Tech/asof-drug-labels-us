@@ -13,7 +13,7 @@ TMC114-C211 is a randomized, controlled, open-label Phase 3 trial comparing PREZ
 Both arms used a fixed background regimen consisting of tenofovir disoproxil fumarate 300 mg once daily (TDF) and emtricitabine 200 mg once daily (FTC).
 
 HIV-1-infected subjects who were eligible for this trial had plasma HIV-1 RNA greater than or equal to 5000 copies/mL.
-Randomization was stratified by screening plasma viral load (HIV-1 RNA less than 100,000 copies/mL or greater than or equal to 100,000 copies/mL) and screening CD4+ cell count (less than 200 cells/mm 3 or greater than or equal to 200 cells/mm 3).
+Randomization was stratified by screening plasma viral load (HIV-1 RNA less than 100,000 copies/mL or greater than or equal to 100,000 copies/mL) and screening CD4+ cell count (less than 200 cells/mm 3or greater than or equal to 200 cells/mm 3).
 Virologic response was defined as a confirmed plasma HIV-1 RNA viral load less than 50 copies/mL.
 Analyses included 689 subjects in trial TMC114-C211 who had completed 192 weeks of treatment or discontinued earlier.
 
@@ -35,7 +35,7 @@ Table 19: Demographic and Baseline Characteristics of Subjects in Trial TMC114-C
 | Hispanic | 23% | 22% |
 | Asian | 13% | 11% |
 | Baseline characteristics |  |  |
-| Mean baseline plasma HIV-1 RNA (log 10 copies/mL) | 4.86 | 4.84 |
+| Mean baseline plasma HIV-1 RNA (log 10copies/mL) | 4.86 | 4.84 |
 | Median baseline CD4+ cell count (cells/mm 3) (range, cells/mm 3) | 228 (4–750) | 218 (2–714) |
 | Percentage of patients with baseline viral load ≥100,000 copies/mL | 34% | 35% |
 | Percentage of patients with baseline CD4+ cell count <200 cells/mm 3 | 41% | 43% |
@@ -56,7 +56,7 @@ Table 20: Virologic Outcome of Randomized Treatment of Trial TMC114-C211 at 192 
 | Missing data during window but on trial | <1% | 0% |
 | N = total number of subjects with data; FTC=emtricitabine; TDF=tenofovir disoproxil fumarate |  |  |
 
-In trial TMC114-C211 at 192 weeks of treatment, the median increase from baseline in CD4+ cell counts was 258 cells/mm 3 in the PREZISTA/ritonavir 800/100 mg once daily arm and 263 cells/mm 3 in the lopinavir/ritonavir 800/200 mg per day arm.
+In trial TMC114-C211 at 192 weeks of treatment, the median increase from baseline in CD4+ cell counts was 258 cells/mm 3in the PREZISTA/ritonavir 800/100 mg once daily arm and 263 cells/mm 3in the lopinavir/ritonavir 800/200 mg per day arm.
 Of the PREZISTA/ritonavir subjects with a confirmed virologic response of <50 copies/mL at Week 48, 81% remained undetectable at Week 192 versus 68% with lopinavir/ritonavir.
 In the 192 week analysis, statistical superiority of the PREZISTA/ritonavir regimen over the lopinavir/ritonavir regimen was demonstrated for both ITT and OP populations.
 
@@ -90,7 +90,7 @@ Table 21: Demographic and Baseline Characteristics of Subjects in Trial TMC114-C
 | Hispanic | 16% | 20% |
 | Asian | 16% | 14% |
 | Baseline characteristics |  |  |
-| Mean baseline plasma HIV-1 RNA (log 10 copies/mL) | 4.19 | 4.13 |
+| Mean baseline plasma HIV-1 RNA (log 10copies/mL) | 4.19 | 4.13 |
 | Median baseline CD4+ cell count (cells/mm 3) (range, cells/mm 3) | 219 (24–1306) | 236 (44–864) |
 | Percentage of patients with baseline viral load ≥100,000 copies/mL | 13% | 11% |
 | Percentage of patients with baseline CD4+ cell count <200 cells/mm 3 | 43% | 39% |
@@ -126,7 +126,7 @@ Table 22: Virologic Outcome of Randomized Treatment of Trial TMC114-C229 at 48 W
 | Missing data during window but on trial | 0% | <1% |
 | N = total number of subjects with data; OBR=optimized background regimen |  |  |
 
-The mean increase from baseline in CD4+ cell counts was comparable for both treatment arms (108 cells/mm 3 and 112 cells/mm 3 in the PREZISTA/ritonavir 800/100 mg once daily arm and the PREZISTA/ritonavir 600/100 mg twice daily arm, respectively).
+The mean increase from baseline in CD4+ cell counts was comparable for both treatment arms (108 cells/mm 3and 112 cells/mm 3in the PREZISTA/ritonavir 800/100 mg once daily arm and the PREZISTA/ritonavir 600/100 mg twice daily arm, respectively).
 
 TMC114-C214
 
@@ -155,7 +155,7 @@ Table 23: Demographic and Baseline Characteristics of Subjects in Trial TMC114-C
 | Hispanic | 15% | 15% |
 | Asian | 9% | 9% |
 | Baseline characteristics |  |  |
-| Mean baseline plasma HIV-1 RNA (log 10 copies/mL) | 4.33 | 4.28 |
+| Mean baseline plasma HIV-1 RNA (log 10copies/mL) | 4.33 | 4.28 |
 | Median baseline CD4+ cell count (cells/mm 3) (range, cells/mm 3) | 235 (3–831) | 230 (2–1096) |
 | Percentage of patients with baseline viral load ≥100,000 copies/mL | 19% | 17% |
 | Percentage of patients with baseline CD4+ cell count <200 cells/mm 3 | 40% | 40% |
@@ -173,7 +173,7 @@ Table 23: Demographic and Baseline Characteristics of Subjects in Trial TMC114-C
 | NRTIs | 4 | 4 |
 | NNRTIs | 1 | 1 |
 | PIs (excluding low-dose ritonavir) | 1 | 1 |
-| Percentage of subjects resistant Based on phenotype (Antivirogram ®). to all available Commercially available PIs at the time of trial enrollment. PIs at baseline, excluding darunavir | 2% | 3% |
+| Percentage of subjects resistant Based on phenotype (Antivirogram ®). to all available Commercially available PIs at the time of trial enrollment.PIs at baseline, excluding darunavir | 2% | 3% |
 | OBR=optimized background regimen |  |  |
 
 Week 96 outcomes for subjects on PREZISTA/ritonavir 600/100 mg twice daily from trial TMC114-C214 are shown in Table 24.
@@ -191,7 +191,7 @@ Table 24: Virologic Outcome of Randomized Treatment of Trial TMC114-C214 at 96 W
 | Missing data during window but on trial | 1% | <1% |
 | N = total number of subjects with data; OBR=optimized background regimen |  |  |
 
-In trial TMC114-C214 at 96 weeks of treatment, the median increase from baseline in CD4+ cell counts was 81 cells/mm 3 in the PREZISTA/ritonavir 600/100 mg twice daily arm and 93 cells/mm 3 in the lopinavir/ritonavir 400/100 mg twice daily arm.
+In trial TMC114-C214 at 96 weeks of treatment, the median increase from baseline in CD4+ cell counts was 81 cells/mm 3in the PREZISTA/ritonavir 600/100 mg twice daily arm and 93 cells/mm 3in the lopinavir/ritonavir 400/100 mg twice daily arm.
 
 TMC114-C213 and TMC114-C202
 
@@ -205,7 +205,7 @@ Prior to randomization, PI(s) and OBR were selected by the investigator based on
 The OBR consisted of at least 2 NRTIs with or without enfuvirtide.
 Selected PI(s) in the control arm included: lopinavir in 36%, (fos)amprenavir in 34%, saquinavir in 35% and atazanavir in 17%; 98% of control subjects received a ritonavir boosted PI regimen out of which 23% of control subjects used dual-boosted PIs.
 Approximately 47% of all subjects used enfuvirtide, and 35% of the use was in subjects who were ENF-naïve.
-Virologic response was defined as a decrease in plasma HIV-1 RNA viral load of at least 1 log 10 versus baseline.
+Virologic response was defined as a decrease in plasma HIV-1 RNA viral load of at least 1 log 10versus baseline.
 
 In the pooled analysis for TMC114-C213 and TMC114-C202, demographics and baseline characteristics were balanced between the PREZISTA/ritonavir arm and the comparator PI arm (see Table 25).
 Table 25 compares the demographic and baseline characteristics between subjects in the PREZISTA/ritonavir 600/100 mg twice daily arm and subjects in the comparator PI arm in the pooled analysis of trials TMC114-C213 and TMC114-C202.
@@ -225,7 +225,7 @@ Table 25: Demographic and Baseline Characteristics of Subjects in the Trials TMC
 | Black | 10% | 15% |
 | Hispanic | 7% | 8% |
 | Baseline characteristics |  |  |
-| Mean baseline plasma HIV-1 RNA (log 10 copies/mL) | 4.61 | 4.49 |
+| Mean baseline plasma HIV-1 RNA (log 10copies/mL) | 4.61 | 4.49 |
 | Median baseline CD4+ cell count (cells/mm 3) (range, cells/mm 3) | 153 (3–776) | 163 (3–1274) |
 | Percentage of patients with baseline viral load >100,000 copies/mL | 24% | 29% |
 | Percentage of patients with baseline CD4+ cell count <200 cells/mm 3 | 67% | 58% |
@@ -242,7 +242,7 @@ Table 25: Demographic and Baseline Characteristics of Subjects in the Trials TMC
 | NRTIs | 6 | 6 |
 | NNRTIs | 1 | 1 |
 | PIs (excluding low-dose ritonavir) | 5 | 5 |
-| Percentage of subjects resistant to all available Commercially available PIs at the time of trial enrollment. PIs at baseline, excluding tipranavir and darunavir | 63% | 61% |
+| Percentage of subjects resistant to all available Commercially available PIs at the time of trial enrollment.PIs at baseline, excluding tipranavir and darunavir | 63% | 61% |
 | Percentage of subjects with prior use of enfuvirtide | 20% | 17% |
 | OBR=optimized background regimen |  |  |
 
@@ -254,7 +254,7 @@ Table 26: Outcomes of Randomized Treatment Through Week 96 of the Trials TMC114-
 | --- | --- | --- |
 |  | Randomized trials TMC114-C213 and TMC114-C202 |  |
 | PREZISTA/ritonavir 600/100 mg twice daily + OBR | Comparator PI(s) + OBR |  |
-| Virologic responders confirmed at least 1 log 10 HIV-1 RNA below baseline through Week 96 (<50 copies/mL at Week 96) | 57% (39%) | 10% (9%) |
+| Virologic responders confirmed at least 1 log 10HIV-1 RNA below baseline through Week 96 (<50 copies/mL at Week 96) | 57% (39%) | 10% (9%) |
 | Virologic failures | 29% | 80% |
 | Lack of initial response Subjects who did not achieve at least a confirmed 0.5 log 10 HIV-1 RNA drop from baseline at Week 12. | 8% | 53% |
 | Rebounder Subjects with an initial response (confirmed 1 log 10 drop in viral load), but without a confirmed 1 log 10 drop in viral load at Week 96. | 17% | 19% |
@@ -264,7 +264,7 @@ Table 26: Outcomes of Randomized Treatment Through Week 96 of the Trials TMC114-
 | OBR=optimized background regimen |  |  |
 
 In the pooled trials TMC114-C213 and TMC114-C202 through 48 weeks of treatment, the proportion of subjects with HIV-1 RNA less than 400 copies/mL in the arm receiving PREZISTA/ritonavir 600/100 mg twice daily compared to the comparator PI arm was 55.0% and 14.5%, respectively.
-In addition, the mean changes in plasma HIV-1 RNA from baseline were –1.69 log 10 copies/mL in the arm receiving PREZISTA/ritonavir 600/100 mg twice daily and –0.37 log 10 copies/mL for the comparator PI arm.
+In addition, the mean changes in plasma HIV-1 RNA from baseline were –1.69 log 10copies/mL in the arm receiving PREZISTA/ritonavir 600/100 mg twice daily and –0.37 log 10copies/mL for the comparator PI arm.
 The mean increase from baseline in CD4+ cell counts was higher in the arm receiving PREZISTA/ritonavir 600/100 mg twice daily (103 cells/mm 3) than in the comparator PI arm (17 cells/mm 3).
 
 ## 14.4 Pediatric Patients
@@ -279,7 +279,7 @@ Pediatric subjects who were at risk of discontinuing therapy due to intolerance 
 Of the 44 pediatric subjects taking ritonavir oral solution, 23 subjects switched to the 100 mg capsule formulation and exceeded the weight-based ritonavir dose without changes in observed safety.
 
 The 80 randomized pediatric subjects had a median age of 14 (range 6 to less than 18 years), and were 71% male, 54% Caucasian, 30% Black, 9% Hispanic and 8% other.
-The mean baseline plasma HIV-1 RNA was 4.64 log 10 copies/mL, and the median baseline CD4+ cell count was 330 cells/mm 3 (range: 6 to 1505 cells/mm 3).
+The mean baseline plasma HIV-1 RNA was 4.64 log 10copies/mL, and the median baseline CD4+ cell count was 330 cells/mm 3(range: 6 to 1505 cells/mm 3).
 Overall, 38% of pediatric subjects had baseline plasma HIV-1 RNA ≥100,000 copies/mL.
 Most pediatric subjects (79%) had previous use of at least one NNRTI and 96% of pediatric subjects had previously used at least one PI.
 
@@ -296,7 +296,7 @@ Treatment-experienced pediatric subjects between the ages of 3 and less than 6 y
 Twenty-one subjects received at least one dose of PREZISTA/ritonavir.
 
 The 21 subjects had a median age of 4.4 years (range 3 to less than 6 years), and were 48% male, 57% Black, 29%, Caucasian and 14% other.
-The mean baseline plasma HIV-1 was 4.34 log 10 copies/mL, the median baseline CD4+ cell count was 927 × 10 6 cells/L (range: 209 to 2,429 × 10 6 cells/L) and the median baseline CD4+ percentage was 27.7% (range: 15.6% to 51.1%).
+The mean baseline plasma HIV-1 was 4.34 log 10copies/mL, the median baseline CD4+ cell count was 927 × 10 6cells/L (range: 209 to 2,429 × 10 6cells/L) and the median baseline CD4+ percentage was 27.7% (range: 15.6% to 51.1%).
 Overall, 24% of subjects had a baseline plasma HIV-1 RNA greater than or equal to 100,000 copies/mL.
 All subjects had used greater than or equal to 2 NRTIs, 62% of subjects had used greater than or equal to 1 NNRTI and 76% had previously used at least one HIV PI.
 
@@ -305,17 +305,17 @@ One subject prematurely discontinued treatment due to vomiting assessed as relat
 
 The proportion of subjects with HIV-1 RNA less than 50 copies/mL at Week 48 was 71%.
 The mean increase in CD4+ percentage from baseline was 4%.
-The mean change in CD4+ cell count from baseline was 187 × 10 6 cells/L.
+The mean change in CD4+ cell count from baseline was 187 × 10 6cells/L.
 
 TMC114-C230
 
 Treatment-naïve pediatric subjects between the ages of 12 and less than 18 years and weighing at least 40 kg received the adult recommended dose of PREZISTA/ritonavir 800/100 mg once daily plus background therapy consisting of at least two non-protease inhibitor antiretroviral drugs.
 
 The 12 randomized pediatric subjects had a median age of 14.4 years (range 12.6 to 17.3 years), and were 33.3% male, 58.3% Caucasian and 41.7% Black.
-The mean baseline plasma HIV-1 RNA was 4.72 log 10 copies/mL, and the median baseline CD4+ cell count was 282 cells/mm 3 (range: 204 to 515 cells/mm 3).
+The mean baseline plasma HIV-1 RNA was 4.72 log 10copies/mL, and the median baseline CD4+ cell count was 282 cells/mm 3(range: 204 to 515 cells/mm 3).
 Overall, 41.7% of pediatric subjects had baseline plasma HIV-1 RNA ≥100,000 copies/mL.
 
 All subjects completed the 48 week treatment period.
 
 The proportion of subjects with HIV-1 RNA less than 50 copies/mL and less than 400 copies/mL was 83.3% and 91.7%, respectively.
-The mean increase in CD4+ cell count from baseline was 221 × 10 6 cells/L.
+The mean increase in CD4+ cell count from baseline was 221 × 10 6cells/L.

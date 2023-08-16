@@ -10,7 +10,7 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 Risk Summary
 
 Prospective pregnancy data from the APR are not sufficient to adequately assess the risk of birth defects or miscarriage.
-Available limited data from the APR show no statistically significant difference in the overall risk of major birth defects for darunavir compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) [see Data].
+Available limited data from the APR show no statistically significant difference in the overall risk of major birth defects for darunavir compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP)[see Data].
 
 The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15-20%.
@@ -23,7 +23,7 @@ Clinical Considerations
 
 The recommended dosage in pregnant patients is PREZISTA 600 mg taken with ritonavir 100 mg twice daily with food.
 
-PREZISTA 800 mg taken with ritonavir 100 mg once daily should only be considered in certain pregnant patients who are already on a stable PREZISTA 800 mg with ritonavir 100 mg once daily regimen prior to pregnancy, are virologically suppressed (HIV-1 RNA less than 50 copies per mL), and in whom a change to twice daily PREZISTA 600 mg with ritonavir 100 mg may compromise tolerability or compliance [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+PREZISTA 800 mg taken with ritonavir 100 mg once daily should only be considered in certain pregnant patients who are already on a stable PREZISTA 800 mg with ritonavir 100 mg once daily regimen prior to pregnancy, are virologically suppressed (HIV-1 RNA less than 50 copies per mL), and in whom a change to twice daily PREZISTA 600 mg with ritonavir 100 mg may compromise tolerability or compliance [see Dosage and Administration (2.4)and Clinical Pharmacology (12.3)].
 
 Data
 
@@ -83,18 +83,18 @@ For co-administration with drospirenone, clinical monitoring is recommended due 
 
 ## 8.4 Pediatric Use
 
-PREZISTA/ritonavir is not recommended in pediatric patients below 3 years of age because of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Warnings and Precautions (5.10), Use in Specific Populations (8.1) and Clinical Pharmacology (12.3)].
+PREZISTA/ritonavir is not recommended in pediatric patients below 3 years of age because of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Warnings and Precautions (5.10), Use in Specific Populations (8.1)and Clinical Pharmacology (12.3)].
 
 The safety, pharmacokinetic profile, and virologic and immunologic responses of PREZISTA/ritonavir administered twice daily were evaluated in treatment-experienced HIV-1-infected pediatric subjects 3 to less than 18 years of age and weighting at least 10 kg.
-These subjects were evaluated in clinical trials TMC114-C212 (80 subjects, 6 to less than 18 years of age) and TMC114-228 (21 subjects, 3 to less than 6 years of age) [see Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.4)].
+These subjects were evaluated in clinical trials TMC114-C212 (80 subjects, 6 to less than 18 years of age) and TMC114-228 (21 subjects, 3 to less than 6 years of age) [see Adverse Reactions (6.1), Clinical Pharmacology (12.3)and Clinical Studies (14.4)].
 Frequency, type, and severity of adverse drug reactions in pediatric subjects were comparable to those observed in adults [see Adverse Reactions (6.1)].
-Refer to Dosage and Administration (2.5) for twice-daily dosing recommendations for pediatric subjects 3 to less than 18 years of age and weighing at least 10 kg.
+Refer to Dosage and Administration (2.5)for twice-daily dosing recommendations for pediatric subjects 3 to less than 18 years of age and weighing at least 10 kg.
 
-In clinical trial TMC114-C230, the safety, pharmacokinetic profile and virologic and immunologic responses of PREZISTA/ritonavir administered once daily were evaluated in treatment-naïve HIV-1 infected pediatric subjects 12 to less than 18 years of age (12 subjects) [see Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.4)].
+In clinical trial TMC114-C230, the safety, pharmacokinetic profile and virologic and immunologic responses of PREZISTA/ritonavir administered once daily were evaluated in treatment-naïve HIV-1 infected pediatric subjects 12 to less than 18 years of age (12 subjects) [see Adverse Reactions (6.1), Clinical Pharmacology (12.3)and Clinical Studies (14.4)].
 Frequency, type, and severity of adverse drug reactions in pediatric subjects were comparable to those observed in adults [see Adverse Reactions (6.1)].
 Once daily dosing recommendations for pediatric patients 3 to less than 12 years of age were derived using population pharmacokinetic modeling and simulation.
 Although a PREZISTA/ritonavir once daily dosing pediatric trial was not conducted in children less than 12 years of age, there is sufficient clinical safety data to support the predicted PREZISTA exposures for the dosing recommendations in this age group [see Clinical Pharmacology (12.3)].
-Please see Dosage and Administration (2.5) for once-daily dosing recommendations for pediatric subjects 3 to less than 18 years of age and weighing at least 10 kg.
+Please see Dosage and Administration (2.5)for once-daily dosing recommendations for pediatric subjects 3 to less than 18 years of age and weighing at least 10 kg.
 
 Juvenile Animal Data
 
@@ -110,7 +110,7 @@ In general, caution should be exercised in the administration and monitoring of 
 
 No dosage adjustment of PREZISTA/ritonavir is necessary for patients with either mild or moderate hepatic impairment.
 No pharmacokinetic or safety data are available regarding the use of PREZISTA/ritonavir in subjects with severe hepatic impairment.
-Therefore, PREZISTA/ritonavir is not recommended for use in patients with severe hepatic impairment [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
+Therefore, PREZISTA/ritonavir is not recommended for use in patients with severe hepatic impairment [see Dosage and Administration (2.6)and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 

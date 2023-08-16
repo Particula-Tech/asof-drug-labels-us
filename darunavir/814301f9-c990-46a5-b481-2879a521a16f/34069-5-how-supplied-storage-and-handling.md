@@ -1,14 +1,14 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-PREZISTA ® (darunavir) 100 mg per mL oral suspension is a white to off-white opaque liquid supplied in amber-colored multiple-dose bottles containing 100 mg of darunavir per mL packaged with a 6 mL oral dosing syringe with 0.2 mL gradations.
+PREZISTA ®(darunavir) 100 mg per mL oral suspension is a white to off-white opaque liquid supplied in amber-colored multiple-dose bottles containing 100 mg of darunavir per mL packaged with a 6 mL oral dosing syringe with 0.2 mL gradations.
 
-PREZISTA ® (darunavir) 75 mg tablets are supplied as white, caplet-shaped, film-coated tablets debossed with "75" on one side and "TMC" on the other side.
+PREZISTA ®(darunavir) 75 mg tablets are supplied as white, caplet-shaped, film-coated tablets debossed with "75" on one side and "TMC" on the other side.
 
-PREZISTA ® (darunavir) 150 mg tablets are supplied as white, oval-shaped, film-coated tablets debossed with "150" on one side and "TMC" on the other side.
+PREZISTA ®(darunavir) 150 mg tablets are supplied as white, oval-shaped, film-coated tablets debossed with "150" on one side and "TMC" on the other side.
 
-PREZISTA ® (darunavir) 600 mg tablets are supplied as orange, oval-shaped, film-coated tablets debossed with "600MG" on one side and "TMC" on the other side.
+PREZISTA ®(darunavir) 600 mg tablets are supplied as orange, oval-shaped, film-coated tablets debossed with "600MG" on one side and "TMC" on the other side.
 
-PREZISTA ® (darunavir) 800 mg tablets are supplied as dark red, oval-shaped, film-coated tablets debossed with "800" on one side and "T" on the other side.
+PREZISTA ®(darunavir) 800 mg tablets are supplied as dark red, oval-shaped, film-coated tablets debossed with "800" on one side and "T" on the other side.
 
 PREZISTA is packaged in bottles in the following configuration:
 

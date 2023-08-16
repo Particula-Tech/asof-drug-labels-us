@@ -26,7 +26,7 @@ The most common clinical ADRs to PREZISTA/ritonavir 800/100 mg once daily (great
 
 ADRs to PREZISTA/ritonavir 800/100 mg once daily of at least moderate intensity (greater than or equal to Grade 2) in antiretroviral treatment-naïve HIV-1-infected adult subjects are presented in Table 6 and subsequent text below the table.
 
-Table 6: Selected Clinical Adverse Drug Reactions to PREZISTA/ritonavir 800/100 mg Once Daily Excluding laboratory abnormalities reported as ADRs. of at Least Moderate Intensity (≥Grade 2) Occurring in ≥2% of Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects (Trial TMC114-C211)
+Table 6: Selected Clinical Adverse Drug Reactions to PREZISTA/ritonavir 800/100 mg Once Daily Excluding laboratory abnormalities reported as ADRs.of at Least Moderate Intensity (≥Grade 2) Occurring in ≥2% of Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects (Trial TMC114-C211)
 
 | System organ class, preferred term, % | PREZISTA/ritonavir 800/100 mg once daily + TDF/FTC N=343 | lopinavir/ritonavir 800/200 mg per day + TDF/FTC N=346 |
 | --- | --- | --- |
@@ -69,8 +69,7 @@ Laboratory Abnormalities
 
 Selected Grade 2 to 4 laboratory abnormalities that represent a worsening from baseline observed in antiretroviral treatment-naïve adult subjects treated with PREZISTA/ritonavir 800/100 mg once daily are presented in Table 7.
 
-Table 7: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects Grade 4 data not applicable in Division of AIDS grading scale.
-(Trial TMC114-C211)
+Table 7: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects Grade 4 data not applicable in Division of AIDS grading scale.(Trial TMC114-C211)
 
 | Laboratory parameter % | Limit | PREZISTA/ritonavir 800/100 mg once daily + TDF/FTC | lopinavir/ritonavir 800/200 mg per day + TDF/FTC |
 | --- | --- | --- | --- |
@@ -126,7 +125,7 @@ The most common clinical ADRs to PREZISTA/ritonavir 600/100 mg twice daily (grea
 
 ADRs to PREZISTA/ritonavir 600/100 mg twice daily of at least moderate intensity (greater than or equal to Grade 2) in antiretroviral treatment-experienced HIV-1-infected adult subjects are presented in Table 8 and subsequent text below the table.
 
-Table 8: Selected Clinical Adverse Drug Reactions to PREZISTA/ritonavir 600/100 mg Twice Daily Excluding laboratory abnormalities reported as ADRs. of at Least Moderate Intensity (≥Grade 2) Occurring in ≥2% of Antiretroviral Treatment-Experienced HIV-1-Infected Adult Subjects (Trial TMC114-C214)
+Table 8: Selected Clinical Adverse Drug Reactions to PREZISTA/ritonavir 600/100 mg Twice Daily Excluding laboratory abnormalities reported as ADRs.of at Least Moderate Intensity (≥Grade 2) Occurring in ≥2% of Antiretroviral Treatment-Experienced HIV-1-Infected Adult Subjects (Trial TMC114-C214)
 
 | System organ class, preferred term, % | PREZISTA/ritonavir 600/100 mg twice daily + OBR N=298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N=297 |
 | --- | --- | --- |
@@ -165,8 +164,7 @@ Laboratory Abnormalities
 
 Selected Grade 2 to 4 laboratory abnormalities that represent a worsening from baseline observed in antiretroviral treatment-experienced adult subjects treated with PREZISTA/ritonavir 600/100 mg twice daily are presented in Table 9.
 
-Table 9: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Experienced HIV-1-Infected Adult Subjects Grade 4 data not applicable in Division of AIDS grading scale.
-(Trial TMC114-C214)
+Table 9: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Experienced HIV-1-Infected Adult Subjects Grade 4 data not applicable in Division of AIDS grading scale.(Trial TMC114-C214)
 
 | Laboratory parameter, % | Limit | PREZISTA/ritonavir 600/100 mg twice daily + OBR | lopinavir/ritonavir 400/100 mg twice daily + OBR |
 | --- | --- | --- | --- |
@@ -224,7 +222,7 @@ Clinical Trials Experience: Pediatric Patients
 
 PREZISTA/ritonavir has been studied in combination with other antiretroviral agents in 3 Phase 2 trials.
 TMC114-C212, in which 80 antiretroviral treatment-experienced HIV-1-infected pediatric subjects 6 to less than 18 years of age and weighing at least 20 kg were included, TMC114-C228, in which 21 antiretroviral treatment-experienced HIV-1-infected pediatric subjects 3 to less than 6 years of age and weighing at least 10 kg were included, and TMC114-C230 in which 12 antiretroviral treatment-naïve HIV-1 infected pediatric patients aged from 12 to less than 18 years and weighing at least 40 kg were included.
-The TMC114-C212 and C228 trials evaluated PREZISTA/ritonavir twice daily dosing and the TMC114-C230 trial evaluated PREZISTA/ritonavir once daily dosing [see Use in Specific Populations (8.4) and Clinical Studies (14.4)].
+The TMC114-C212 and C228 trials evaluated PREZISTA/ritonavir twice daily dosing and the TMC114-C230 trial evaluated PREZISTA/ritonavir once daily dosing [see Use in Specific Populations (8.4)and Clinical Studies (14.4)].
 
 Frequency, type, and severity of ADRs in pediatric subjects were comparable to those observed in adults.
 
@@ -251,10 +249,10 @@ There were no Grade 3 or 4 laboratory abnormalities considered as ADRs in this t
 The following adverse reactions have been identified during post-approval use of PREZISTA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Metabolism and Nutrition Disorders: Redistribution of body fat
+Metabolism and Nutrition Disorders:Redistribution of body fat
 
-Musculoskeletal and Connective Tissue Disorders: Rhabdomyolysis (associated with co-administration with HMG-CoA reductase inhibitors and PREZISTA/ritonavir)
+Musculoskeletal and Connective Tissue Disorders:Rhabdomyolysis (associated with co-administration with HMG-CoA reductase inhibitors and PREZISTA/ritonavir)
 
-Skin and Subcutaneous Tissue Disorders: Toxic epidermal necrolysis, acute generalized exanthematous pustulosis, drug rash with eosinophilia and systemic symptoms [see Warnings and Precautions (5.3)]
+Skin and Subcutaneous Tissue Disorders:Toxic epidermal necrolysis, acute generalized exanthematous pustulosis, drug rash with eosinophilia and systemic symptoms [see Warnings and Precautions (5.3)]
 
-Renal and Urinary Disorders: Crystal nephropathy, crystalluria
+Renal and Urinary Disorders:Crystal nephropathy, crystalluria

@@ -21,11 +21,11 @@ These can include but are not limited to severe rash or rash accompanied with fe
 
 Drug Interactions
 
-PREZISTA/ritonavir may interact with many drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John's wort [see Contraindications (4), Warnings and Precautions (5.4, 5.5) and Drug Interactions (7)].
+PREZISTA/ritonavir may interact with many drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John's wort [see Contraindications (4), Warnings and Precautions (5.4, 5.5)and Drug Interactions (7)].
 
 Contraception
 
-Instruct patients receiving combined hormonal contraception or the progestin only pill to use an effective alternative (non-hormonal) contraceptive method or add a barrier method during therapy with PREZISTA/ritonavir because hormonal levels may decrease [see Drug Interactions (7.3) and Use in Specific Populations (8.3)].
+Instruct patients receiving combined hormonal contraception or the progestin only pill to use an effective alternative (non-hormonal) contraceptive method or add a barrier method during therapy with PREZISTA/ritonavir because hormonal levels may decrease [see Drug Interactions (7.3)and Use in Specific Populations (8.3)].
 
 Fat Redistribution
 

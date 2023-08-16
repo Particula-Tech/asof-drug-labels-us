@@ -57,8 +57,8 @@ These interactions may lead to:
 - Loss of therapeutic effect of the concomitant medications from lower exposures of active metabolite(s).
 - Loss of therapeutic effect of PREZISTA/ritonavir and possible development of resistance from lower exposures of PREZISTA/ritonavir.
 
-See Table 10 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
-Consider the potential for drug interactions prior to and during PREZISTA/ritonavir therapy; review concomitant medications during PREZISTA/ritonavir therapy; and monitor for the adverse reactions associated with the concomitant drugs [see Contraindications (4) and Drug Interactions (7)].
+See Table 10for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
+Consider the potential for drug interactions prior to and during PREZISTA/ritonavir therapy; review concomitant medications during PREZISTA/ritonavir therapy; and monitor for the adverse reactions associated with the concomitant drugs [see Contraindications (4)and Drug Interactions (7)].
 
 ## 5.6 Diabetes Mellitus/Hyperglycemia
 
@@ -77,7 +77,7 @@ A causal relationship has not been established.
 ## 5.8 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including PREZISTA.
-During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
+During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium aviuminfection, cytomegalovirus, Pneumocystis jiroveciipneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 
 Autoimmune disorders (such as Graves' disease, polymyositis, Guillain-Barré syndrome, and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of antiretroviral treatment.
 
@@ -90,4 +90,4 @@ A causal relationship between PI therapy and these episodes has not been establi
 
 ## 5.10 Not Recommended in Pediatric Patients Below 3 Years of Age
 
-PREZISTA/ritonavir in pediatric patients below 3 years of age is not recommended in view of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Use in Specific Populations (8.1 and 8.4) and Clinical Pharmacology (12.3)].
+PREZISTA/ritonavir in pediatric patients below 3 years of age is not recommended in view of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Use in Specific Populations (8.1and 8.4)and Clinical Pharmacology (12.3)].

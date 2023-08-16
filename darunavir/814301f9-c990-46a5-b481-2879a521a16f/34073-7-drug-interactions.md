@@ -9,7 +9,7 @@ PREZISTA co-administered with ritonavir with drugs that have active metabolite(s
 ## 7.2 Potential for Other Drugs to Affect Darunavir
 
 Darunavir and ritonavir are metabolized by CYP3A.
-In vitro data indicate that darunavir may be a P-gp substrate.
+In vitrodata indicate that darunavir may be a P-gp substrate.
 Drugs that induce CYP3A activity would be expected to increase the clearance of darunavir and ritonavir, resulting in lowered plasma concentrations of darunavir and ritonavir.
 Co-administration of darunavir and ritonavir and other drugs that inhibit CYP3A, or P-gp may decrease the clearance of darunavir and ritonavir and may result in increased plasma concentrations of darunavir and ritonavir (see Table 10).
 
@@ -17,9 +17,9 @@ Co-administration of darunavir and ritonavir and other drugs that inhibit CYP3A,
 
 Table 10 provides dosing recommendations as a result of drug interactions with PREZISTA/ritonavir.
 These recommendations are based on either drug interaction studies or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of efficacy.
-The table includes examples of potentially significant interactions but is not all inclusive [see Contraindications (4) and Clinical Pharmacology (12.3)], and therefore the label of each drug that is co-administered with PREZISTA/ritonavir should be consulted for information related to the route of metabolism, interaction pathways, potential risks, and specific actions to be taken with regard to co-administration.
+The table includes examples of potentially significant interactions but is not all inclusive [see Contraindications (4)and Clinical Pharmacology (12.3)], and therefore the label of each drug that is co-administered with PREZISTA/ritonavir should be consulted for information related to the route of metabolism, interaction pathways, potential risks, and specific actions to be taken with regard to co-administration.
 
-Table 10: Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May be Recommended Based on Drug Interaction Studies or Predicted Interaction (see Contraindications (4) for a list of examples of contraindicated drugs) [see Clinical Pharmacology (12.3) for Magnitude of Interaction, Tables 15 and 16]
+Table 10: Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May be Recommended Based on Drug Interaction Studies or Predicted Interaction (see Contraindications (4)for a list of examples of contraindicated drugs) [see Clinical Pharmacology (12.3)for Magnitude of Interaction, Tables 15and 16]
 
 | Concomitant Drug Class Drug Name Examples | Effect on Concentration of Darunavir Or Concomitant Drug | Clinical Comment |
 | --- | --- | --- |
@@ -50,7 +50,7 @@ Table 10: Established and Other Potentially Significant Drug Interactions: Alter
 | paroxetine, sertraline | ↓ paroxetine ↓ sertraline | If either sertraline or paroxetine is initiated in patients receiving PREZISTA/ritonavir, dose titrating the SSRI based on a clinical assessment of antidepressant response is recommended. Monitor for antidepressant response in patients on a stable dose of sertraline or paroxetine who start treatment with PREZISTA/ritonavir. |
 | Tricyclic Antidepressants (TCAs): |  |  |
 | amitriptyline, desipramine, imipramine, nortriptyline | ↑ amitriptyline ↑ desipramine ↑ imipramine ↑ nortriptyline | Use a lower dose of the tricyclic antidepressants and trazodone due to potential increased adverse events such as nausea, dizziness, hypotension and syncope. |
-| Other: trazodone | ↑ trazodone |  |
+| Other:trazodone | ↑ trazodone |  |
 | Antifungals: itraconazole, isavuconazole, ketoconazole, posaconazole | ↑ darunavir ↑ itraconazole ↑ isavuconazole ↑ ketoconazole ↔ posaconazole | Monitor for increased PREZISTA/ritonavir and/or antifungal adverse events with concomitant use of these antifungals. When co-administration is required, the daily dose of ketoconazole or itraconazole should not exceed 200 mg with monitoring for increased antifungal adverse events. |
 | voriconazole | ↓ voriconazole | Voriconazole is not recommended for patients receiving PREZISTA/ritonavir unless an assessment comparing predicted benefit to risk ratio justifies the use of voriconazole. |
 | Anti-gout: colchicine | ↑ colchicine | Co-administration is contraindicated in patients with renal and/or hepatic impairment due to potential for serious and/or life-threatening reactions. For patients without renal or hepatic impairment: Treatment of gout-flares – co-administration of colchicine in patients on PREZISTA/ritonavir: 0.6 mg (1 tablet) × 1 dose, followed by 0.3 mg (half tablet) 1 hour later. Treatment course to be repeated no earlier than 3 days. Prophylaxis of gout-flares – co-administration of colchicine in patients on PREZISTA/ritonavir: If the original regimen was 0.6 mg twice a day, the regimen should be adjusted to 0.3 mg once a day. If the original regimen was 0.6 mg once a day, the regimen should be adjusted to 0.3 mg once every other day. Treatment of familial Mediterranean fever – co-administration of colchicine in patients on PREZISTA/ritonavir: maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day). |
