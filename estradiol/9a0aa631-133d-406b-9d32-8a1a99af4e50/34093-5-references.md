@@ -17,7 +17,7 @@
    2006;295:1647-1657.
 6. 6.Chlebowski RT, et al. Influence of Estrogen Plus Progestin on Breast Cancer and Mammography in Healthy Postmenopausal Women.
    JAMA.
-   2003:289;3234-3253.
+   2003:289;3234-3253
 7. 7.Anderson GL, et al. Effects of Estrogen Plus Progestin in Gynecologic Cancers and Associated Diagnostic Procedures.
    JAMA.
    2003:290;1739-1748.

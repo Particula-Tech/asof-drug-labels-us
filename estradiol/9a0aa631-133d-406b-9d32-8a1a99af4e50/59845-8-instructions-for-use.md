@@ -6,7 +6,7 @@ EVAMIST (EE-vuh-mist)
 
 Read this Instructions for Use before you start using EVAMIST and each time you get a refill.
 There may be new information.
-This information does not take the place of talking to your healthcare provider about your menopausal symptoms of your treatment.
+This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
 
 The parts of your EVAMIST applicator
 
@@ -56,19 +56,12 @@ Throwing away used EVAMIST applicators
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Manufactured by
+Distributed By
 
-DPT Laboratories.
-Ltd
+Padagis
 
-San Antonio, TX 78215
+Allegan, MI 49010
 
-Manufactured For
+6X200 RC J5
 
-Perrigo®
-
-Minneapolis, MN 55427
-
-6X200 RC J4
-
-Rev 11-17 D
+Rev 8/2023

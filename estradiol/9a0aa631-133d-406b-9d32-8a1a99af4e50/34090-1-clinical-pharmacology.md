@@ -13,12 +13,13 @@ Estrogens act through binding to nuclear receptors in estrogen-responsive tissue
 To date, two estrogen receptors have been identified.
 These vary in proportion from tissue to tissue.
 
-Circulating estrogens modulate the pituitary secretion of the gonadotropins, luteinizing hormone (LH) and FSH, through a negative feed back mechanism.
+Circulating estrogens modulate the pituitary secretion of the gonadotropins, luteinizing hormone (LH) and FSH, through a negative feedback mechanism.
 Estrogens act to reduce the elevated levels of these hormones seen in postmenopausal women.
 
 ## 12.2 Pharmacodynamics
 
-There are no pharmacodynamic data for Evamist.
+Generally, a serum estrogen concentration does not predict an individual woman’s therapeutic response to Evamist nor her risk for adverse outcomes.
+Likewise, exposure comparisons across different estrogen products to infer efficacy or safety for the individual woman may not be valid.
 
 ## 12.3 Pharmacokinetics
 
@@ -62,10 +63,6 @@ In postmenopausal women, a significant proportion of the circulating estrogens e
 Excretion
 
 Estradiol, estrone and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
-
-Use in Specific Populations
-
-No pharmacokinetic studies were conducted with Evamist in specific populations, including women with renal or hepatic impairment.
 
 Potential for Estradiol Transfer
 

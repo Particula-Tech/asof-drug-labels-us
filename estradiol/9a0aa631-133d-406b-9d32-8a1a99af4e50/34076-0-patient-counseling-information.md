@@ -1,12 +1,12 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information and Instructions for Use)
+Advise women to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-## 17.1 Vaginal Bleeding
+Vaginal Bleeding
 
-Inform postmenopausal women of the importance of reporting unusual vaginal bleeding to their healthcare provider as soon as possible [see Warnings and Precautions (5.2)].
+Inform postmenopausal women to report any vaginal bleeding to their healthcare provider as soon as possible [see Warnings and Precautions (5.2)].
 
-## 17.2 Unintentional Secondary Exposure to Evamist
+Unintentional Secondary Exposure to Evamist
 
 Provide the following information about secondary exposure to Evamist:
 
@@ -22,22 +22,20 @@ Provide the following information about secondary exposure to Evamist:
 - oIf conditions for safe use cannot be met, Evamist should be discontinued and alternative treatments for menopausal signs and symptoms should be considered.
 - •Pets may also be unintentionally exposed to Evamist if above precautions are not followed.
 
-## 17.3 Possible Serious Adverse Reactions with Estrogen-Alone Therapy
+Possible Serious Adverse Reactions with Estrogen-Alone Therapy
 
 Inform postmenopausal women of the possible serious adverse reactions of estrogen-alone therapy including Cardiovascular Disorders, Malignant Neoplasms, and Probable Dementia [see Warnings and Precautions (5.1, 5.2, 5.3)].
 
-## 17.4 Possible Less Serious but Common Adverse Reactions with Estrogen-Alone Therapy
+Possible Common Adverse Reactions with Estrogen-Alone Therapy
 
 Inform postmenopausal women of possible less serious but common adverse reactions of estrogen-alone therapy such as headache, breast pain and tenderness, nausea and vomiting.
 
-Manufactured by DPT Laboratories, Ltd San Antonio, TX 78215
+Distributed By
 
-Manufactured For
+Padagis
 
-Perrigo®
+Allegan, MI 49010
 
-Minneapolis, MN 55427
+6X200 RC J5
 
-6X200 RC J4
-
-Rev 11-17 D
+Rev 8/2023

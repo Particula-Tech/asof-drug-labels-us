@@ -37,7 +37,7 @@ Application site reactions were reported in 3 out of 226 (1.3%) women treated wi
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of Evamist.
+The following additional adverse reactions have been identified during post-approval use of Evamist.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Breasts: Breast swelling, breast mass, breast enlargement
@@ -50,7 +50,7 @@ Eyes: Eye irritation, ocular hyperemia
 
 Gastrointestinal: Abdominal pain, diarrhea, constipation, abdominal distension, dry mouth, decreased appetite
 
-Genitourinary system: Vaginal bleeding
+Genitourinary system:Vaginal bleeding
 
 Musculoskeletal: Muscle spasms, arthritis
 
