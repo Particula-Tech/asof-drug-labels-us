@@ -50,3 +50,7 @@ Administration
 - Esomeprazole magnesium delayed-release capsules can also be administered via a nasogastric tube, as described in the Instructions for Use.
 
 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
+
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 08/2023
+
+The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
