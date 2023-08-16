@@ -64,12 +64,10 @@ Drug Interactions
 
 Advise patients and caregivers to inform their healthcare provider of all concomitant medications, including prescription medicines, over-the-counter drugs, vitamins, and herbal products [see Drug Interactions (7)].
 
-Distr. by: West-Ward
+Distributed by: Hikma
 
-Pharmaceuticals Corp.
+Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724
+Berkeley Heights, NJ 07922
 
-10004494/11
-
-Revised August 2020
+C50000762/01 Revised June 2023
