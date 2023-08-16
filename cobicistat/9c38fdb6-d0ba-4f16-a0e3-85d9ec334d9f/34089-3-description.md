@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-PREZCOBIX ® is a fixed-dose combination tablet containing darunavir and cobicistat.
+PREZCOBIX ®is a fixed-dose combination tablet containing darunavir and cobicistat.
 Darunavir is an inhibitor of the human immunodeficiency virus (HIV-1) protease.
 Cobicistat is a mechanism-based inhibitor of cytochrome P450 (CYP) enzymes of the CYP3A family.
 
@@ -15,5 +15,5 @@ Darunavir ethanolate has the following structural formula:
 
 Cobicistat: Cobicistat is adsorbed onto silicon dioxide.
 The chemical name for cobicistat is 1,3-thiazol-5-ylmethyl[(2 R,5 R)-5-{[(2 S)2-[(methyl{[2-(propan-2-yl)-1,3-thiazol-4-yl]methyl}carbamoyl)amino]-4-(morpholin-4yl)butanoyl]amino}-1,6-diphenylhexan-2-yl]carbamate.
-It has a molecular formula of C 40H 53N 7O 5S 2 and a molecular weight of 776.0.
+It has a molecular formula of C 40H 53N 7O 5S 2and a molecular weight of 776.0.
 It has the following structural formula:

@@ -11,7 +11,7 @@ The observed hepatocellular findings in rodents are considered to be of limited 
 Repeated administration of darunavir to rats caused hepatic microsomal enzyme induction and increased thyroid hormone elimination, which predispose rats but not humans, to thyroid neoplasms.
 At the highest tested doses, the systemic exposures to darunavir (based on AUC) were between 0.4- and 0.7-fold (mice) and 0.7- and 1-fold (rats) of exposures observed in humans at the recommended therapeutic doses (darunavir 600 mg co-administered with ritonavir 100 mg twice daily or darunavir 800 mg co-administered with ritonavir 100 mg once daily).
 
-Darunavir was not mutagenic or genotoxic in a battery of in vitro and in vivo assays including bacterial reverse mutation (Ames), chromosomal aberration in human lymphocytes, and in vivo micronucleus test in mice.
+Darunavir was not mutagenic or genotoxic in a battery of in vitroand in vivoassays including bacterial reverse mutation (Ames), chromosomal aberration in human lymphocytes, and in vivomicronucleus test in mice.
 
 Cobicistat: In a long-term carcinogenicity study in mice, no drug-related increases in tumor incidence were observed at doses up to 50 and 100 mg/kg/day in males and females, respectively.
 Cobicistat exposures at these doses were approximately 7 (male) and 16 (females) times, respectively, the human systemic exposure at the therapeutic daily dose.

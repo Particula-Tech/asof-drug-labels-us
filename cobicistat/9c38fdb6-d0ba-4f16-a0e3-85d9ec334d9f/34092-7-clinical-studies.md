@@ -13,5 +13,5 @@ These subjects (N=7) were switched from ritonavir to cobicistat 150 mg once dail
 The median age of subjects was 14 years (range 12–16 years), median weight was 60 kg (range 45–78 kg), and 43% were male.
 At baseline, all subjects had plasma HIV-1 RNA <50 copies/mL.
 At Week 48, 86% (6/7) of subjects remained suppressed (HIV-1 RNA <50 copies/mL), and 1 subject had missing data.
-From a median baseline CD4+ cell count and CD4+% of 1,117 cells/mm 3 (range 658 to 2,416 cells/mm 3) and 45% (range 28% to 56%), respectively, the median change from baseline in CD4+ cell count and CD4+% at Week 48 was -342 cells/mm 3 (range -1,389 to 219 cells/mm 3) and -6% (range -12% to 5%), respectively.
-All 6 subjects with available data had CD4+ cell counts above 800 cells/mm 3 at Week 48.
+From a median baseline CD4+ cell count and CD4+% of 1,117 cells/mm 3(range 658 to 2,416 cells/mm 3) and 45% (range 28% to 56%), respectively, the median change from baseline in CD4+ cell count and CD4+% at Week 48 was -342 cells/mm 3(range -1,389 to 219 cells/mm 3) and -6% (range -12% to 5%), respectively.
+All 6 subjects with available data had CD4+ cell counts above 800 cells/mm 3at Week 48.

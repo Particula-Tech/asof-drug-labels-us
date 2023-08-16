@@ -20,15 +20,15 @@ When co-administering PREZCOBIX with tenofovir disoproxil fumarate (tenofovir DF
 
 ## 2.3 Not Recommended in Severe Renal Impairment
 
-PREZCOBIX co-administered with tenofovir DF is not recommended in patients who have an estimated creatinine clearance below 70 mL per minute [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
+PREZCOBIX co-administered with tenofovir DF is not recommended in patients who have an estimated creatinine clearance below 70 mL per minute [see Warnings and Precautions (5.4)and Adverse Reactions (6.1)].
 
 ## 2.4 Not Recommended in Severe Hepatic Impairment
 
-PREZCOBIX is not recommended for use in patients with severe hepatic impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+PREZCOBIX is not recommended for use in patients with severe hepatic impairment [see Use in Specific Populations (8.6)and Clinical Pharmacology (12.3)].
 
 ## 2.5 Not Recommended During Pregnancy
 
-PREZCOBIX is not recommended during pregnancy because of substantially lower exposures of darunavir and cobicistat during the second and third trimesters [see Use in Specific Populations (8.1) and Clinical Pharmacology (12.3)].
+PREZCOBIX is not recommended during pregnancy because of substantially lower exposures of darunavir and cobicistat during the second and third trimesters [see Use in Specific Populations (8.1)and Clinical Pharmacology (12.3)].
 
 PREZCOBIX should not be initiated in pregnant individuals.
 An alternative regimen is recommended for those who become pregnant during therapy with PREZCOBIX.

@@ -30,7 +30,7 @@ Cobicistat decreases estimated creatinine clearance due to inhibition of tubular
 This effect should be considered when interpreting changes in estimated creatinine clearance in patients initiating PREZCOBIX, particularly in patients with medical conditions or receiving drugs needing monitoring with estimated creatinine clearance.
 
 Prior to initiating therapy with PREZCOBIX, assess estimated creatinine clearance [see Dosage and Administration (2.2)].
-Dosage recommendations are not available for drugs that require dosage adjustments in PREZCOBIX-treated patients with renal impairment [see Drug Interactions (7.3) and Clinical Pharmacology (12.2)].
+Dosage recommendations are not available for drugs that require dosage adjustments in PREZCOBIX-treated patients with renal impairment [see Drug Interactions (7.3)and Clinical Pharmacology (12.2)].
 Consider alternative medications that do not require dosage adjustments in patients with renal impairment.
 
 Although cobicistat may cause modest increases in serum creatinine and modest declines in estimated creatinine clearance without affecting renal glomerular function, patients who experience a confirmed increase in serum creatinine of greater than 0.4 mg/dL from baseline should be closely monitored for renal safety.
@@ -58,11 +58,11 @@ These interactions may lead to:
 - loss of therapeutic effect of the concomitant medications from lower exposures of active metabolite(s).
 - loss of therapeutic effect of PREZCOBIX and possible development of resistance from lower exposures of PREZCOBIX.
 
-See Table 1 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
-Consider the potential for drug interactions prior to and during PREZCOBIX therapy; review concomitant medications during PREZCOBIX therapy; and monitor for the adverse reactions associated with concomitant medications [see Contraindications (4) and Drug Interactions (7)].
+See Table 1for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
+Consider the potential for drug interactions prior to and during PREZCOBIX therapy; review concomitant medications during PREZCOBIX therapy; and monitor for the adverse reactions associated with concomitant medications [see Contraindications (4)and Drug Interactions (7)].
 
 When used with concomitant medications, PREZCOBIX may result in different drug interactions than those observed or expected with darunavir co-administered with ritonavir.
-Complex or unknown mechanisms of drug interactions preclude extrapolation of drug interactions with darunavir co-administered with ritonavir to certain PREZCOBIX interactions [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+Complex or unknown mechanisms of drug interactions preclude extrapolation of drug interactions with darunavir co-administered with ritonavir to certain PREZCOBIX interactions [see Drug Interactions (7)and Clinical Pharmacology (12.3)].
 
 ## 5.6 Antiretrovirals Not Recommended
 
@@ -94,7 +94,7 @@ A causal relationship has not been established.
 ## 5.10 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including PREZCOBIX.
-During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
+During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium aviuminfection, cytomegalovirus, Pneumocystis jiroveciipneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 
 Autoimmune disorders (such as Graves' disease, polymyositis, Guillain-Barré syndrome and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of antiretroviral treatment.
 

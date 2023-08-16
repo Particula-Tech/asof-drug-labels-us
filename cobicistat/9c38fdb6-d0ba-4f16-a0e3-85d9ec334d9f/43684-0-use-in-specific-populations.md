@@ -110,7 +110,7 @@ Darunavir, a component of PREZCOBIX is not recommended in pediatric patients bel
 
 Juvenile Animal Toxicity Data
 
-Darunavir: In a juvenile toxicity study where rats were directly dosed with darunavir (up to 1000 mg/kg), deaths occurred from post-natal day 5 at plasma exposure levels ranging from 0.1 to 1.0 of the human exposure levels.
+Darunavir:In a juvenile toxicity study where rats were directly dosed with darunavir (up to 1000 mg/kg), deaths occurred from post-natal day 5 at plasma exposure levels ranging from 0.1 to 1.0 of the human exposure levels.
 In a 4-week rat toxicology study, when dosing was initiated on post-natal day 23 (the human equivalent of 2 to 3 years of age), no deaths were observed with a plasma exposure (in combination with ritonavir) 2 times the human plasma exposure levels.
 
 ## 8.5 Geriatric Use
@@ -129,4 +129,4 @@ Therefore, PREZCOBIX is not recommended for use in patients with severe hepatic 
 
 A renal impairment trial was not conducted for darunavir co-administered with cobicistat [see Clinical Pharmacology (12.3)].
 Cobicistat has been shown to decrease estimated creatinine clearance without affecting actual renal glomerular function.
-Dosing recommendations are not available for drugs that require dosage adjustment for renal impairment when used in combination with PREZCOBIX [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.2)].
+Dosing recommendations are not available for drugs that require dosage adjustment for renal impairment when used in combination with PREZCOBIX [see Warnings and Precautions (5.3)and Clinical Pharmacology (12.2)].

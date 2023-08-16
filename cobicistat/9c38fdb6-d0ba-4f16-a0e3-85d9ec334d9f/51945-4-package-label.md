@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 800 mg/150 mg Tablet Bottle Label
 
-NDC 59676-575-30
+NDC59676-575-30
 
 PREZCOBIX ® (darunavir and cobicistat) Tablets
 
