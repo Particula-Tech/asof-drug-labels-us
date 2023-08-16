@@ -16,4 +16,4 @@ Parts of the LEXETTE can:
 | Step 6: After applying LEXETTE, put the cap back on the can. Step 7: Wash your hands after applying LEXETTE unless you are using the medicine to treat your hands. |  |
 | This Instructions for Use has been approved by the U.S. Food and Drug Administration. |  |
 
-Distributed by: Mayne Pharma Greenville, NC 27834 U.S. Patent 10,857,159 and 11,020,407 Revised: 05/2021
+Distributed by: Mayne Pharma Raleigh, NC 27609 U.S. Patent 10,857,159 and 11,020,407 Revised: 03/2023
