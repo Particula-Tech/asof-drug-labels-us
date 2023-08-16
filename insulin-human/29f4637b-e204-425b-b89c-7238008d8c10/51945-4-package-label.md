@@ -165,3 +165,37 @@ Carton Contains:
 Dispense the enclosed Medication Guide to each patient
 
 mannkind®
+
+# Principal Display Panel 27 cartridges; 9 – 4 unit cartridges, 9 – 8 unit cartridges and 9 – 12 unit cartridges and 1 inhaler (Sample Kit)
+
+NDC 47918-903-27
+
+Rx ONLY
+
+afrezza®
+
+(insulin human) Inhalation Powder
+
+4 units per cartridge
+
+8 units per cartridge
+
+12 units per cartridge
+
+27 single-use cartridges
+
+FOR ORAL INHALATION ONLY
+
+Carton Contains:
+
+9 – 4 unit cartridges
+
+9 – 8 unit cartridges
+
+9 – 12 unit cartridges
+
+1 - inhaler
+
+Dispense the enclosed Medication Guide to each patient
+
+mannkind®
