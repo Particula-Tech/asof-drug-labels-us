@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Trials Experience in Chronic Obstructive Pulmonary Disease
+## The following clinically significant adverse reactions are described elsewhere in labeling: Serious Asthma-Related Events – Hospitalizations, Intubations, Death [see Warnings and Precautions (5.1)] Oropharyngeal Candidiasis [see Warnings and Precautions (5.4)] Pneumonia [see Warnings and Precautions (5.5)] Immunosuppression and Risk of Infections [see Warnings and Precautions (5.6)] Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.8)] Paradoxical Bronchospasm [see Warnings and Precautions (5.10)] Cardiovascular Effects [see Warnings and Precautions (5.12)] Reduction in Bone Mineral Density [see Warnings and Precautions (5.13)] Growth Effects [see Warnings and Precautions (5.14)] Glaucoma and Cataracts [see Warnings and Precautions (5.15)] Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice. 6.1 Clinical Trials Experience in Chronic Obstructive Pulmonary Disease
 
 The safety data described below are based on two 6-month and two 12-month trials and one long-term mortality trial.
 In these studies, 5,356 patients with COPD received at least 1 dose of BREO ELLIPTA 100/25 mcg.
