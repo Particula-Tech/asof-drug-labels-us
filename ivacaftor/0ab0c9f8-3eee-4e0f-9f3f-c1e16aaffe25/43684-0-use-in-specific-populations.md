@@ -4,7 +4,7 @@
 
 Risk Summary
 
-There are limited and incomplete human data from clinical trials and post-marketing reports on use of KALYDECO in pregnant women.
+There are limited and incomplete human data from clinical trials and postmarketing reports on use of KALYDECO in pregnant women.
 In animal reproduction studies, oral administration of ivacaftor to pregnant rats and rabbits during organogenesis demonstrated no teratogenicity or adverse effects on fetal development at doses that produced maternal exposures up to approximately 5 (rats) and 11 (rabbits) times the exposure at the maximum recommended human dose (MRHD).
 No adverse developmental effects were observed after oral administration of ivacaftor to pregnant rats from organogenesis through lactation at doses that produced maternal exposures approximately 3 times the exposures at the MRHD, respectively (see Data).
 

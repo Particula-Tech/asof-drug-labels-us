@@ -8,6 +8,12 @@ Inform patients that elevation in liver tests have occurred in patients treated 
 Liver function tests will be performed prior to initiating KALYDECO, every 3 months during the first year of treatment and annually thereafter.
 More frequent monitoring of liver function tests should be considered in patients with a history of transaminase elevations [see Warnings and Precautions (5.1)].
 
+Hypersensitivity Reactions, Including Anaphylaxis
+
+Hypersensitivity reactions including anaphylaxis are possible with use of KALYDECO.
+Inform patients of the early signs of hypersensitivity reactions including rash, hives, itching, facial swelling, tightness of the chest and wheezing.
+Advise patients to discontinue use of KALYDECO immediately and contact their physician or go to the emergency department if these symptoms occur.
+
 Drug Interactions with CYP3A Inducers and Inhibitors
 
 Ask patients to tell you all the medications they are taking including any herbal supplements or vitamins.
@@ -58,4 +64,4 @@ Patients should be informed about what to do in the event they miss a dose of KA
 Cataracts
 
 Inform patients that abnormality of the eye lens (cataract) has been noted in some children and adolescents receiving KALYDECO.
-Baseline and follow-up ophthalmological examinations should be performed in pediatric patients initiating KALYDECO treatment [see Warnings and Precautions (5.3)].
+Baseline and follow-up ophthalmological examinations should be performed in pediatric patients initiating KALYDECO treatment [see Warnings and Precautions (5.4)].

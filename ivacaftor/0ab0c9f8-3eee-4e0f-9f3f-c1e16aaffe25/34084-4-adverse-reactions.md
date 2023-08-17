@@ -3,7 +3,8 @@
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - Transaminase Elevations [see Warnings and Precautions (5.1)]
-- Cataracts [see Warnings and Precautions (5.3)]
+- Hypersensitivity Reactions, Including Anaphylaxis [see Warnings and Precautions (5.2)]
+- Cataracts [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -77,3 +78,10 @@ In the cohort of patients aged 6 months to less than 12 months (N=11) one patien
 In the cohort of patients aged 4 months to less than 6 months (N=6), no patients had elevated ALT or AST (>3× ULN).
 In the cohort of patients aged 1 month to less than 4 months (N=7), 1 patient (14.3%) had maximum ALT or AST >3 × ULN (ALT >8 × ULN and AST of >3 to ≤5 × ULN); the patient discontinued ivacaftor treatment.
 [see Warnings and Precautions (5.1)].
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of KALYDECO.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Immune System Disorders: anaphylaxis

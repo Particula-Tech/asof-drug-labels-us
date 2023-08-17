@@ -19,7 +19,7 @@ Therefore, avoid food or drink containing grapefruit during treatment with KALYD
 ## 7.2 Inducers of CYP3A
 
 Co-administration with rifampin, a strong CYP3A inducer, significantly decreased ivacaftor exposure (AUC) by approximately 9-fold.
-Therefore, co-administration with strong CYP3A inducers, such as rifampin, rifabutin, phenobarbital, carbamazepine, phenytoin, and St. John's wort is not recommended [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+Therefore, co-administration with strong CYP3A inducers, such as rifampin, rifabutin, phenobarbital, carbamazepine, phenytoin, and St. John's wort is not recommended [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
 
 ## 7.3 Ciprofloxacin
 
