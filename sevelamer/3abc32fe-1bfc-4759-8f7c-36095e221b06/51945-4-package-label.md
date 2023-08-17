@@ -43,3 +43,17 @@ Citrus Flavor
 2.4 g
 
 Contains 90 packets
+
+# PRINCIPAL DISPLAY PANEL - 800 mg 270 Film Coated Tablets Bottle Label
+
+NDC0955-1057-30 Rx only
+
+Winthrop A SANOFI COMPANY
+
+Sevelamer Carbonate Tablets
+
+800 mg
+
+270 Film-Coated Tablets
+
+SANOFI
