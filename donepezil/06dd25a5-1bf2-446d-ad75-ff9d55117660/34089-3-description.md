@@ -11,7 +11,7 @@ The film coating contains talc, propylene glycol, hypromellose and titanium diox
 Additionally, the 10 mg tablet contains yellow iron oxide (synthetic) as a coloring agent.
 
 Inactive ingredients in 23 mg tablets include hydroxypropyl cellulose, lactose monohydrate, magnesium stearate and hypromellose.
-The film coating includes ferric oxide red, hypromellose, polyethylene glycol 8000, talc and titanium dioxide.
+The film coating includes ferric oxide red, hypromellose, polyethylene glycol, talc and titanium dioxide.
 USP Dissolution Test pending.
 
 Donepezil hydrochloride orally disintegrating tablets USP are available for oral administration.

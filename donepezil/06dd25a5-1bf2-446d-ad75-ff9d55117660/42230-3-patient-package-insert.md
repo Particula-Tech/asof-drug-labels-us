@@ -99,7 +99,7 @@ Inactive ingredients:
   Additionally, the 10 mg tablet contains yellow iron oxide (synthetic) as a coloring agent.
 
 - Donepezil hydrochloride 23 mg film-coated tablets: hydroxypropyl cellulose, lactose monohydrate, magnesium stearate and hypromellose.
-  The reddish color film coating includes ferric oxide red, hypromellose, polyethylene glycol 8000, talc and titanium dioxide.
+  The reddish color film coating includes ferric oxide red, hypromellose, polyethylene glycol, talc and titanium dioxide.
 
 - Donepezil hydrochloride orally disintegrating tablets 5 mg and 10 mg: mannitol, crospovidone, sucralose, sodium chloride, ferric oxide yellow and magnesium stearate.
 
