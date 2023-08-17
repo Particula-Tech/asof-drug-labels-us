@@ -21,7 +21,7 @@ In pediatric patients, no other malignancies besides PTLD were observed in clini
 
 Patients receiving immunosuppressants, including mycophenolate mofetil capsules, are at increased risk of developing bacterial, fungal, protozoal and new or reactivated viral infections, including opportunistic infections.
 The risk increases with the total immunosuppressive load.
-These infections may lead to serious outcomes, including hospitalizations and death [see Adverse Reactions (6.1), (6.2)].
+These infections may lead to serious outcomes, including hospitalizations and death [see Adverse Reactions (6.1, (6.2)].
 
 Serious viral infections reported include:
 

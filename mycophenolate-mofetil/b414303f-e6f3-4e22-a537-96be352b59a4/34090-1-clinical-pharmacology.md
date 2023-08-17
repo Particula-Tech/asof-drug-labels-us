@@ -3,13 +3,16 @@
 ## 12.1 Mechanism of Action
 
 Mycophenolate mofetil (MMF) is absorbed following oral administration and hydrolyzed to mycophenolic acid (MPA), the active metabolite.
-MPA is a selective, uncompetitive, and reversible inhibitor of inosine monophosphate dehydrogenase (IMPDH), and therefore inhibits the de novo pathway of guanosine nucleotide synthesis without incorporation into DNA.
-Because T- and B-lymphocytes are critically dependent for their proliferation on de novo synthesis of purines, whereas other cell types can utilize salvage pathways, MPA has potent cytostatic effects on lymphocytes.
-MPA inhibits proliferative responses of T- and B- lymphocytes to both mitogenic and allospecific stimulation.
-Addition of guanosine or deoxyguanosine reverses the cytostatic effects of MPA on lymphocytes.
-MPA also suppresses antibody formation by B-lymphocytes.
-MPA prevents the glycosylation of lymphocyte and monocyte glycoproteins that are involved in intercellular adhesion to endothelial cells and may inhibit recruitment of leukocytes into sites of inflammation and graft rejection.
-MMF did not inhibit early events in the activation of human peripheral blood mononuclear cells, such as the production of interleukin-1 (IL-1) and interleukin-2 (IL-2), but did block the coupling of these events to DNA synthesis and proliferation.
+MPA is a selective, uncompetitive inhibitor of the two isoforms (type I and type II) of inosine monophosphate dehydrogenase (IMPDH) leading to inhibition of the de novo pathway of guanosine nucleotide synthesis and blocks DNA synthesis.
+The mechanism of action of MPA is multifaceted and includes effects on cellular checkpoints responsible for metabolic programming of lymphocytes.
+MPA shifts transcriptional activities in lymphocytes from a proliferative state to catabolic processes.
+In vitro studies suggest that MPA modulates transcriptional activities in human CD4+ T-lymphocytes by suppressing the Akt/mTOR and STAT5 pathways that are relevant to metabolism and survival, leading to an anergic state of T-cells whereby the cells become less responsive to antigenic stimulation.
+Additionally, MPA enhanced the expression of negative co-stimulators such as CD70, PD-1, CTLA-4, and transcription factor FoxP3 as well as decreased the expression of positive co-stimulators CD27 and CD28.
+
+MPA decreases proliferative responses of T- and B-lymphocytes to both mitogenic and allo-antigenic stimulation, antibody responses, as well as the production of cytokines from lymphocytes and monocytes such as GM-CSF, IFN-Ɣ, IL-17, and TNF-α.
+Additionally, MPA prevents the glycosylation of lymphocyte and monocyte glycoproteins that are involved in intercellular adhesion to endothelial cells and may inhibit recruitment of leukocytes into sites of inflammation and graft rejection.
+
+Overall, the effect of MPA is cytostatic and reversible.
 
 ## 12.2 Pharmacodynamics
 
@@ -24,10 +27,10 @@ In 12 healthy volunteers, the mean absolute bioavailability of oral MMF relative
 Two 500 mg mycophenolate mofetil tablets have been shown to be bioequivalent to four 250 mg mycophenolate mofetil capsules.
 Five mL of the 200 mg/mL constituted mycophenolate mofetil oral suspension have been shown to be bioequivalent to four 250 mg capsules.
 
-The mean (±SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients, are shown in Table 8.
-The area under the plasma-concentration time curve (AUC) for MPA appears to increase in a dose-proportional fashion in kidney transplant patients receiving multiple oral doses of MMF up to a daily dose of 3 g (1.5g twice daily) (see Table 8).
+The mean (±SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients, are shown in Table 10.
+The area under the plasma-concentration time curve (AUC) for MPA appears to increase in a dose-proportional fashion in kidney transplant patients receiving multiple oral doses of MMF up to a daily dose of 3 g (1.5g twice daily) (see Table 10).
 
-Table 8 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of MMF to Healthy Volunteers (Single Dose), and Kidney, Heart, and Liver Transplant Patients (Multiple Doses)
+Table 10: Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of MMF to Healthy Volunteers (Single Dose), and Kidney, Heart, and Liver Transplant Patients (Multiple Doses)
 
 | Healthy Volunteers | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Total AUC (mcg•h/mL) |
 | --- | --- | --- | --- | --- |
@@ -120,7 +123,7 @@ Specific Populations
 
 Patients with Renal Impairment
 
-The mean (±SD) pharmacokinetic parameters for MPA following the administration of oral MMF given as single doses to non-transplant subjects with renal impairment are presented in Table 9.
+The mean (±SD) pharmacokinetic parameters for MPA following the administration of oral MMF given as single doses to non-transplant subjects with renal impairment are presented in Table 11.
 
 In a single-dose study, MMF was administered as a capsule or as an intravenous infusion over 40 minutes.
 Plasma MPA AUC observed after oral dosing to volunteers with severe chronic renal impairment (GFR <25 mL/min/1.73 m2) was about 75% higher relative to that observed in healthy volunteers (GFR >80 mL/min/1.73 m2).
@@ -146,14 +149,14 @@ At high concentrations of MPAG (>100 mcg/mL), hemodialysis removes only small am
 
 Patients with Hepatic Impairment
 
-The mean (± SD) pharmacokinetic parameters for MPA following the administration of oral MMF given as single doses to non-transplant subjects with hepatic impairment is presented in Table 9.
+The mean (± SD) pharmacokinetic parameters for MPA following the administration of oral MMF given as single doses to non-transplant subjects with hepatic impairment is presented in Table 11.
 
 In a single-dose (1 g oral) study of 18 volunteers with alcoholic cirrhosis and 6 healthy volunteers, hepatic MPA glucuronidation processes appeared to be relatively unaffected by hepatic parenchymal disease when pharmacokinetic parameters of healthy volunteers and alcoholic cirrhosis patients within this study were compared.
 However, it should be noted that for unexplained reasons, the healthy volunteers in this study had about a 50% lower AUC as compared to healthy volunteers in other studies, thus making comparisons between volunteers with alcoholic cirrhosis and healthy volunteers difficult.
 In a single-dose (1 g intravenous) study of 6 volunteers with severe hepatic impairment (aminopyrine breath test less than 0.2% of dose) due to alcoholic cirrhosis, MMF was rapidly converted to MPA.
 MPA AUC was 44.1 mcg•h/mL (±15.5).
 
-Table 9 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF Capsules in Chronic Renal and Hepatic Impairment
+Table 11: Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF Capsules in Chronic Renal and Hepatic Impairment
 
 | Pharmacokinetic Parameters for Renal Impairment |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -172,9 +175,9 @@ Table 9 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses 
 Pediatric Patients
 
 The pharmacokinetic parameters of MPA and MPAG have been evaluated in 55 pediatric patients (ranging from 1 year to 18 years of age) receiving mycophenolate mofetil oral suspension at a dose of 600 mg/m2 twice daily (up to a maximum of 1 g twice daily) after allogeneic kidney transplantation.
-The pharmacokinetic data for MPA is provided in Table 10.
+The pharmacokinetic data for MPA is provided in Table 12.
 
-Table 10 Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time after Allogeneic Kidney Transplantation
+Table 12: Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time after Allogeneic Kidney Transplantation
 
 | Age Group | (n) | Time | Tmax (h) | Dose AdjustedaCmax (mcg/mL) | Dose AdjustedaAUC0-12(mcg•h/mL) |
 | --- | --- | --- | --- | --- | --- |
@@ -203,6 +206,12 @@ There was wide variability in the data.
 As observed in adults, early post-transplant MPA AUC values were approximately 45% to 53% lower than those observed in the later post-transplant period (>3 months).
 MPA AUC values were similar in the early and late post-transplant period across the 1 to 18-year age range.
 
+A comparison of dose-normalized (to 600 mg/m2) MPA AUC values in 12 pediatric kidney transplant patients less than 6 years of age at 9 months post-transplant with those values in 7 pediatric liver transplant patients [median age 17 months (range: 10 to 60 months)] and at 6 months and beyond post-transplant revealed that, at the same dose, there were on average 23% lower AUC values in the pediatric liver compared to pediatric kidney patients.
+This is consistent with the need for higher dosing in adult liver transplant patients compared to kidney transplant patients to achieve the same exposure.
+
+In adult transplant patients administered the same dosage of mycophenolate mofetil, there is similar MPA exposure among kidney transplant and heart transplant patients.
+Based on the established similarity in MPA exposure between pediatric kidney transplant and adult kidney transplant patients at their respective approved doses, it is expected that MPA exposure at the recommended dosage will be similar in pediatric heart transplant and adult heart transplant patients.
+
 Male and Female Patients
 
 Data obtained from several studies were pooled to look at any gender-related differences in the pharmacokinetics of MPA (data were adjusted to 1 g oral dose).
@@ -211,7 +220,7 @@ These differences are not of clinical significance.
 
 Geriatric Patients
 
-The pharmacokinetics of mycophenolate mofetil and its metabolites have not been found to be altered in elderly transplant patients when compared to younger transplant patients.
+The pharmacokinetics of mycophenolate mofetil and its metabolites have not been found to be altered in geriatric transplant patients when compared to younger transplant patients.
 
 Drug Interaction Studies
 
@@ -238,10 +247,10 @@ This decrease is consistent with interruption of enterohepatic recirculation whi
 Cyclosporine
 
 Cyclosporine (Sandimmune®) pharmacokinetics (at doses of 275 to 415 mg/day) were unaffected by single and multiple doses of 1.5 g twice daily of MMF in 10 stable kidney transplant patients.
-The mean (±SD) AUC(0-12h) and Cmax of cyclosporine after 14 days of multiple doses of MMF were 3290 (±822) ng•h/mL and 753 (±161) ng/mL, respectively, compared to 3245 (±1088) ng•h/mL and 700 (±246) ng/mL, respectively, 1 week before administration of MMF.
+The mean (±SD) AUC (0-12h) and Cmax of cyclosporine after 14 days of multiple doses of MMF were 3290 (±822) ng•h/mL and 753 (±161) ng/mL, respectively, compared to 3245 (±1088) ng•h/mL and 700 (±246) ng/mL, respectively, 1 week before administration of MMF.
 
 Cyclosporine A interferes with MPA enterohepatic recirculation.
-In kidney transplant patients, mean MPA exposure (AUC(0-12h)) was approximately 30% to 50% greater when MMF was administered without cyclosporine compared with when MMF was coadministered with cyclosporine.
+In kidney transplant patients, mean MPA exposure (AUC(0-12h)) was approximately 30 to 50% greater when MMF was administered without cyclosporine compared with when MMF was coadministered with cyclosporine.
 This interaction is due to cyclosporine inhibition of multidrug-resistance­-associated protein 2 (MRP-2) transporter in the biliary tract, thereby preventing the excretion of MPAG into the bile that would lead to enterohepatic recirculation of MPA.
 This information should be taken into consideration when MMF is used without cyclosporine.
 
@@ -267,7 +276,7 @@ There was large inter-patient variability (%CV in the range of 60% to 70%) in th
 
 Sevelamer
 
-Concomitant administration of sevelamer and MMF in adult and pediatric patients decreased the mean MPA Cmax and AUC(0-12h) by 36% and 26% respectively.
+Concomitant administration of sevelamer and MMF in adult and pediatric patients decreased the mean MPA Cmax and AUC (0-12h) by 36% and 26% respectively.
 
 Antimicrobials
 

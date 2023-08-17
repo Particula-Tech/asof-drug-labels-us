@@ -6,16 +6,16 @@ Adults
 
 The three de novo kidney transplantation studies compared two dose levels of oral mycophenolate mofetil (1 g twice daily and 1.5 g twice daily) with azathioprine (2 studies) or placebo (1 study) to prevent acute rejection episodes.
 One of the two studies with azathioprine (AZA) control arm also included anti-thymocyte globulin (ATGAM®) induction therapy.
-The geographic location of the investigational sites of these studies are included in Table 11.
+The geographic location of the investigational sites of these studies are included in Table 13.
 
 In all three de novo kidney transplantation studies, the primary efficacy endpoint was the proportion of patients in each treatment group who experienced treatment failure within the first 6 months after transplantation.
 Treatment failure was defined as biopsy-proven acute rejection on treatment or the occurrence of death, graft loss or early termination from the study for any reason without prior biopsy-proven rejection.
 
-Mycophenolate mofetil, in combination with corticosteroids and cyclosporine, reduced (statistically significant at 0.05 level) the incidence of treatment failure within the first 6 months following transplantation (Table 11).
-Patients who prematurely discontinued treatment were followed for the occurrence of death or graft loss, and the cumulative incidence of graft loss and patient death combined are summarized in Table 12.
+Mycophenolate mofetil, in combination with corticosteroids and cyclosporine, reduced (statistically significant at 0.05 level) the incidence of treatment failure within the first 6 months following transplantation (Table 13).
+Patients who prematurely discontinued treatment were followed for the occurrence of death or graft loss, and the cumulative incidence of graft loss and patient death combined are summarized in Table 14.
 Patients who prematurely discontinued treatment were not followed for the occurrence of acute rejection after termination.
 
-Table 11 Treatment Failure in De Novo Kidney Transplantation Studies
+Table 13: Treatment Failure in De Novo Kidney Transplantation Studies
 
 | USA Study(N=499 patients) | Mycophenolate Mofetil 2 g/day (n=167 patients) | Mycophenolate Mofetil 3 g/day (n=166 patients) | AZA1 to 2 mg/kg/day (n=166 patients) |
 | --- | --- | --- | --- |
@@ -35,11 +35,11 @@ Table 11 Treatment Failure in De Novo Kidney Transplantation Studies
 | Biopsy-proven rejectionepisode on treatment | 17.0% | 13.8% | 46.4% |
 | *Does not include death and graft loss as reason for early termination. |  |  |  |
 
-No advantage of mycophenolate mofetil at 12 months with respect to graft loss or patient death (combined) was established (Table 12).
+No advantage of mycophenolate mofetil at 12 months with respect to graft loss or patient death (combined) was established (Table 14).
 Numerically, patients receiving mycophenolate mofetil 2 g/day and 3 g/day experienced a better outcome than controls in all three studies; patients receiving mycophenolate mofetil 2 g/day experienced a better outcome than mycophenolate mofetil 3 g/day in two of the three studies.
 Patients in all treatment groups who terminated treatment early were found to have a poor outcome with respect to graft loss or patient death at 1 year.
 
-Table 12 De Novo Kidney Transplantation Studies Cumulative Incidence of Combined Graft Loss or Patient Death at 12 Months
+Table 14: De Novo Kidney Transplantation Studies Cumulative Incidence of Combined Graft Loss or Patient Death at 12 Months
 
 | Study | Mycophenolate Mofetil2 g/day | Mycophenolate Mofetil3 g/day | Control (AZA or Placebo) |
 | --- | --- | --- | --- |
@@ -66,9 +66,9 @@ Patients who prematurely discontinued treatment were followed for the occurrence
 The analyses of the endpoints showed:
 
 - Rejection: No difference was established between mycophenolate mofetil and AZA with respect to biopsy-proven rejection with hemodynamic compromise.
-- Survival: mycophenolate mofetil was shown to be at least as effective as AZA in preventing death or re-transplantation at 1 year (see Table 13).
+- Survival: mycophenolate mofetil was shown to be at least as effective as AZA in preventing death or re-transplantation at 1 year (see Table 15).
 
-Table 13 De Novo Heart Transplantation Study Rejection at 6 Months/Death or Re-transplantation at 1 Year
+Table 15: De Novo Heart Transplantation Study Rejection at 6 Months/Death or Re-transplantation at 1 Year
 
 |  | All Patients (ITT) |  | Treated Patients |  |
 | --- | --- | --- | --- | --- |
@@ -86,9 +86,9 @@ The actual median oral dose of AZA on study was 1.5 mg/kg/day (range of 0.3 to 3
 The two primary endpoints were: (1) the proportion of patients who experienced, in the first 6 months post-transplantation, one or more episodes of biopsy-proven and treated rejection or death or re-transplantation, and (2) the proportion of patients who experienced graft loss (death or re-transplantation) during the first 12 months post-transplantation.
 Patients who prematurely discontinued treatment were followed for the occurrence of allograft rejection and for the occurrence of graft loss (death or re-transplantation) for 1 year.
 
-In combination with corticosteroids and cyclosporine, mycophenolate mofetil demonstrated a lower rate of acute rejection at 6 months and a similar rate of death or re-transplantation at 1 year compared to AZA (Table 14).
+In combination with corticosteroids and cyclosporine, mycophenolate mofetil demonstrated a lower rate of acute rejection at 6 months and a similar rate of death or re-transplantation at 1 year compared to AZA (Table 16).
 
-Table 14 De Novo Liver Transplantation Study Rejection at 6 Months/Death or Re-transplantation at 1 Year
+Table 16: De Novo Liver Transplantation Study Rejection at 6 Months/Death or Retransplantation at 1 Year
 
 |  | AZA N = 287 | Mycophenolate Mofetil N = 278 |
 | --- | --- | --- |

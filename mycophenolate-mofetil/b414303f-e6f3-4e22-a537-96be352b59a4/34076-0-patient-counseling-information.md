@@ -75,7 +75,7 @@ Advise males of childbearing potential not to donate semen during therapy and fo
 ## 17.11 Potential to Impair Driving and Use of Machinery
 
 Advise patients that mycophenolate mofetil capsules can affect the ability to drive or operate machines.
-Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with mycophenolate mofetil capsules [See Warnings and Precautions (5.14)].
+Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with mycophenolate mofetil capsules [see Warnings and Precautions (5.14)].
 
 Brands listed are the trademarks of their respective owners.
 
@@ -87,4 +87,4 @@ Opava-Komarov, Czech Republic
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-R 3/2022
+S 7/2023
