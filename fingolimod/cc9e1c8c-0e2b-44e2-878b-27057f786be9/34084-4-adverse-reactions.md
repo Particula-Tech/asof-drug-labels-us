@@ -77,6 +77,7 @@ Table 1: Adverse Reactions Reported in Adult Studies 1 and 3 (Occurring in ≥ 1
 | Neoplasms benign, malignant, and unspecified (including cysts and polyps) |  |  |
 | Skin papilloma | 3 | 2 |
 | Basal cell carcinoma | 2 | 1 |
+| Abbreviations: ALT, alanine transaminase; AST, aspartate transferase; GGT, gamma-glutamyl transferase. |  |  |
 
 Adverse reactions of seizure, dizziness, pneumonia, eczema, and pruritus were also reported in Studies 1 and 3, but did not meet the reporting rate criteria for inclusion in Table 1 (difference was less than 1%).
 
@@ -84,7 +85,7 @@ Adverse reactions with GILENYA 0.5 mg in Study 2, the 1-year active-controlled (
 
 Vascular Events
 
-Vascular events, including ischemic and hemorrhagic strokes, and peripheral arterial occlusive disease were reported in premarketing clinical trials in patients who received GILENYA doses (1.25-5 mg) higher than recommended for use in MS. Similar events have been reported with GILENYA in the postmarketing setting although a causal relationship has not been established.
+Vascular events, including ischemic and hemorrhagic strokes, and peripheral arterial occlusive disease were reported in premarketing clinical trials in patients who received GILENYA doses (1.25 mg to 5 mg) higher than recommended for use in MS. Similar events have been reported with GILENYA in the postmarketing setting although a causal relationship has not been established.
 
 Seizure
 
@@ -107,12 +108,12 @@ Blood and Lymphatic System Disorders: Hemolytic anemia and thrombocytopenia
 
 Hepatobiliary Disorders: Liver injury [see Warnings and Precautions (5.5)]
 
-Infections: infections, including cryptococcal infections [see Warnings and Precautions (5.2)], human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer [see Warnings and Precautions (5.2)], progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.3)]
+Infections: Infections, including cryptococcal infections [see Warnings and Precautions (5.2)], human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer [see Warnings and Precautions (5.2)], progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.3)]
 
-Musculoskeletal and connective tissue disorders: arthralgia, myalgia
+Musculoskeletal and connective tissue disorders: Arthralgia, myalgia
 
-Nervous system disorders: posterior reversible encephalopathy syndrome [see Warnings and Precautions (5.6)], seizures, including status epilepticus [see Adverse Reactions (6.1)]
+Nervous System Disorders: Posterior reversible encephalopathy syndrome [see Warnings and Precautions (5.6)], seizures, including status epilepticus [see Adverse Reactions (6.1)]
 
-Neoplasms, benign, malignant, and unspecified (including cysts and polyps): melanoma, Merkel cell carcinoma, and cutaneous T-cell lymphoma (including mycosis fungoides) [see Warnings and Precautions (5.12)]
+Neoplasms, Benign, Malignant, and Unspecified (including cysts and polyps): melanoma, Merkel cell carcinoma, and cutaneous T-cell lymphoma (including mycosis fungoides) [see Warnings and Precautions (5.12)]
 
-Skin and subcutaneous tissue disorders: hypersensitivity [see Warnings and Precautions (5.14)]
+Skin and Subcutaneous Tissue Disorders: Hypersensitivity [see Warnings and Precautions (5.14)]

@@ -30,7 +30,7 @@ Table 2: Clinical and MRI Results of Study 1
 | MRI endpoint |  |  |  |
 | Mean (median) number of new or newly enlarging T2 lesions over 24 months | 2.5 (0) | 9.8 (5.0) | < 0.001 |
 | Mean (median) number of T1 Gd-enhancing lesions at Month 24 | 0.2 (0) | 1.1 (0) | < 0.001 |
-| All analyses of clinical endpoints were intent-to-treat. MRI analysis used evaluable dataset. ‡Hazard ratio is an estimate of the relative risk of having the event of disability progression on GILENYA as compared to placebo. |  |  |  |
+| Abbreviation: CI, confidence interval. All analyses of clinical endpoints were intent-to-treat. MRI analysis used evaluable dataset. ‡Hazard ratio is an estimate of the relative risk of having the event of disability progression on GILENYA as compared to placebo. |  |  |  |
 
 Study 2 was a 1-year randomized, double-blind, double-dummy, active-controlled study in patients with RRMS who had not received any natalizumab in the previous 6 months.
 Prior therapy with interferon-beta or glatiramer acetate up to the time of randomization was permitted.
@@ -61,7 +61,7 @@ Table 3: Clinical and MRI Results of Study 2
 | MRI endpoint |  |  |  |
 | Mean (median) number of new or newly enlarging T2 lesions over 12 months | 1.6 (0) | 2.6 (1.0) | 0.002 |
 | Mean (median) number of T1 Gd-enhancing lesions at Month 12 | 0.2 (0) | 0.5 (0) | < 0.001 |
-| All analyses of clinical endpoints were intent-to-treat. MRI analysis used evaluable dataset. ‡ Hazard ratio is an estimate of the relative risk of having the event of disability progression on GILENYA as compared to control. |  |  |  |
+| Abbreviation: CI, confidence interval. All analyses of clinical endpoints were intent-to-treat. MRI analysis used evaluable dataset. ‡Hazard ratio is an estimate of the relative risk of having the event of disability progression on GILENYA as compared to control. |  |  |  |
 
 Pooled results of study 1 and study 2 showed a consistent and statistically significant reduction of annualized relapse rate compared to comparator in subgroups defined by gender, age, prior MS therapy, and disease activity.
 
@@ -88,7 +88,7 @@ Table 4 summarizes the results of Study 4.
 
 Table 4: Clinical and MRI Results of Study 4
 
-|  | GILENYA 0.25 or 0.5 mg PO N = 107 | Interferon beta-1a 30 mcg IM N = 107 | p-value | Relative reduction |
+|  | GILENYA 0.25 mg or 0.5 mg PO N = 107 | Interferon beta-1a 30 mcg IM N = 107 | p-value | Relative reduction |
 | --- | --- | --- | --- | --- |
 | Clinical endpoints |  |  |  |  |
 | Annualized relapse rate (primary endpoint) | 0.122 | 0.675 | < 0.001* | 81.9% |
@@ -96,4 +96,4 @@ Table 4: Clinical and MRI Results of Study 4
 | MRI endpoints |  |  |  |  |
 | Annualized rate of the number of new or newly enlarging T2 lesions | 4.393 | 9.269 | < 0.001* | 52.6% |
 | Mean number of Gd-enhancing T1 lesions per scan up to Month 24 | 0.436 | 1.282 | < 0.001* | 66.0% |
-| All analyses of clinical endpoints were on full analysis set. MRI analyses used the evaluable dataset. *Indicates statistical significance vs. Interferon beta-1a IM at two-sided 0.05 level. |  |  |  |  |
+| Abbreviations: IM, intramuscular; MRI, magnetic resonance imaging; PO, by mouth. All analyses of clinical endpoints were on full analysis set. MRI analyses used the evaluable dataset. *Indicates statistical significance vs. Interferon beta-1a IM at two-sided 0.05 level. |  |  |  |  |

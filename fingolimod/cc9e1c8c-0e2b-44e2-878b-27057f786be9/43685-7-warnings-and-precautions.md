@@ -58,7 +58,7 @@ In MS placebo-controlled trials in adult patients, the overall rate of infection
 However, bronchitis, herpes zoster, influenza, sinusitis, and pneumonia were more common in GILENYA-treated patients.
 Serious infections occurred at a rate of 2.3% in the GILENYA group versus 1.6% in the placebo group.
 
-In the postmarketing setting, serious infections with opportunistic pathogens including viruses (e.g., John Cunningham virus [JCV], herpes simplex viruses 1 and 2, varicella zoster virus), fungi (e.g., cryptococci), and bacteria (e.g., atypical mycobacteria) have been reported with GILENYA.
+In the postmarketing setting, serious infections with opportunistic pathogens, including viruses (e.g., John Cunningham virus [JCV], herpes simplex viruses 1 and 2, varicella zoster virus), fungi (e.g., cryptococci), and bacteria (e.g., atypical mycobacteria) have been reported with GILENYA.
 Patients with symptoms and signs consistent with any of these infections should undergo prompt diagnostic evaluation and appropriate treatment.
 
 Herpes Viral Infections
@@ -94,7 +94,7 @@ Varicella Zoster Virus Antibody Testing/Vaccination
 Patients without a healthcare professional confirmed history of chickenpox or without documentation of a full course of vaccination against VZV should be tested for antibodies to VZV before initiating GILENYA.
 VZV vaccination of antibody-negative patients is recommended prior to commencing treatment with GILENYA, following which initiation of treatment with GILENYA should be postponed for 1 month to allow the full effect of vaccination to occur [see Drug Interactions (7.3), Use in Specific Populations (8.4)].
 
-Human Papilloma Virus (HPV) Infection
+Human Papilloma Virus Infection
 
 Human papilloma virus (HPV) infections, including papilloma, dysplasia, warts, and HPV-related cancer, have been reported in patients treated with GILENYA in the postmarketing setting.
 Vaccination against HPV should be considered prior to treatment initiation with GILENYA, taking into account vaccination recommendations.
@@ -111,12 +111,19 @@ The relationship between the risk of PML and the duration of treatment is unknow
 At the first sign or symptom suggestive of PML, withhold GILENYA and perform an appropriate diagnostic evaluation.
 Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
 
-MRI findings may be apparent before clinical signs or symptoms.
+Magnetic reasonace imaging (MRI) findings may be apparent before clinical signs or symptoms.
 Cases of PML, diagnosed based on MRI findings and the detection of JCV DNA in the cerebrospinal fluid in the absence of clinical signs or symptoms specific to PML, have been reported in patients treated with MS medications associated with PML, including GILENYA.
 Many of these patients subsequently became symptomatic with PML.
 Therefore, monitoring with MRI for signs that may be consistent with PML may be useful, and any suspicious findings should lead to further investigation to allow for an early diagnosis of PML, if present.
 Lower PML-related mortality and morbidity have been reported following discontinuation of another MS medication associated with PML in patients with PML who were initially asymptomatic compared to patients with PML who had characteristic clinical signs and symptoms at diagnosis.
 It is not known whether these differences are due to early detection and discontinuation of MS treatment or due to differences in disease in these patients.
+
+If PML is confirmed, treatment with GILENYA should be discontinued.
+
+Immune reconstitution inflammatory syndrome (IRIS) has been reported in patients treated with S1P receptor modulators, including GILENYA, who developed PML and subsequently discontinued treatment.
+IRIS presents as a clinical decline in the patient’s condition that may be rapid, can lead to serious neurological complications or death, and is often associated with characteristic changes on MRI.
+The time to onset of IRIS in patients with PML was generally within a few months after S1P receptor modulator discontinuation.
+Monitoring for development of IRIS and appropriate treatment of the associated inflammation should be undertaken.
 
 ## 5.4 Macular Edema
 
@@ -204,6 +211,8 @@ Patients in most of these reported cases did not return to the functional status
 The increase in disability generally occurred within 12 weeks after stopping GILENYA, but was reported up to 24 weeks after GILENYA discontinuation.
 
 Monitor patients for development of severe increase in disability following discontinuation of GILENYA and begin appropriate treatment as needed.
+
+After stopping GILENYA in the setting of PML, monitor for development of immune reconstitution inflammatory syndrome (PML-IRIS) [see Warnings and Precautions (5.3)].
 
 ## 5.10 Tumefactive Multiple Sclerosis
 

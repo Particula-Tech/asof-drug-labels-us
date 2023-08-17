@@ -12,9 +12,9 @@ Complete Blood Count (CBC)
 
 Review results of a recent CBC [see Warnings and Precautions (5.2), Drug Interactions (7.6)].
 
-Serum transaminases (ALT and AST) and Total Bilirubin Levels
+Serum Transaminases (ALT and AST) and Total Bilirubin Levels
 
-Prior to starting treatment with GILENYA (i.e., within 6 months), obtain serum transaminases (ALT and AST) and total bilirubin levels [see Warnings and Precautions (5.5)].
+Prior to starting treatment with GILENYA (i.e., within 6 months), obtain serum transaminases [alanine transaminase (ALT) and aspartate transferase (AST)] and total bilirubin levels [see Warnings and Precautions (5.5)].
 
 Prior Medications
 
