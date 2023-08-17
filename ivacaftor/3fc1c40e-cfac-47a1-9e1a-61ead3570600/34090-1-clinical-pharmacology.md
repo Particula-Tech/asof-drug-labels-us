@@ -157,9 +157,9 @@ Therefore, concomitant use of ORKAMBI with CYP2B6, CYP2C8, CYP2C9, and CYP2C19 s
 Potential for Other Drugs to Affect Lumacaftor/Ivacaftor
 
 Lumacaftor exposure is not affected by concomitant CYP3A inducers or inhibitors.
-Exposure of ivacaftor when given in combination with lumacaftor is reduced by concomitant CYP3A inducers and increased by concomitant CYP3A inhibitors [see Dosage and Administration (2.3), Warnings and Precautions (5.5), and Drug Interactions (7)].
+Exposure of ivacaftor when given in combination with lumacaftor is reduced by concomitant CYP3A inducers and increased by concomitant CYP3A inhibitors [see Dosage and Administration (2.3), Warnings and Precautions (5.6), and Drug Interactions (7)].
 
-The effects of co-administered drugs on the exposure of lumacaftor and ivacaftor are shown in Table 6 [see Dosage and Administration (2.3), Warnings and Precautions (5.5), and Drug Interactions (7)].
+The effects of co-administered drugs on the exposure of lumacaftor and ivacaftor are shown in Table 6 [see Dosage and Administration (2.3), Warnings and Precautions (5.6), and Drug Interactions (7)].
 
 Table 6: Impact of Other Drugs on Lumacaftor 200 mg q12h/Ivacaftor 250 mg q12h
 

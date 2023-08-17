@@ -55,7 +55,7 @@ Exposure (AUC0-24h) values for ivacaftor in milk were approximately 1.5 times hi
 ## 8.3 Females and Males of Reproductive Potential
 
 ORKAMBI may decrease hormonal contraceptive exposure, reducing the effectiveness.
-Hormonal contraceptives, including oral, injectable, transdermal, and implantable, should not be relied upon as an effective method of contraception when co-administered with ORKAMBI [see Warnings and Precautions (5.5) and Drug Interactions (7.11)].
+Hormonal contraceptives, including oral, injectable, transdermal, and implantable, should not be relied upon as an effective method of contraception when co-administered with ORKAMBI [see Warnings and Precautions (5.6) and Drug Interactions (7.11)].
 
 ## 8.4 Pediatric Use
 
@@ -79,7 +79,7 @@ Use of ORKAMBI in these age groups is supported by evidence from adequate and we
 The safety and effectiveness of ORKAMBI in patients with CF younger than 1 year of age have not been established.
 
 Cases of non-congenital lens opacities have been reported in pediatric patients treated with ORKAMBI and ivacaftor, a component of ORKAMBI.
-Although other risk factors were present in some cases (such as corticosteroid use and exposure to radiation), a possible risk attributable to ivacaftor cannot be excluded [see Warnings and Precautions (5.6)].
+Although other risk factors were present in some cases (such as corticosteroid use and exposure to radiation), a possible risk attributable to ivacaftor cannot be excluded [see Warnings and Precautions (5.7)].
 
 Juvenile Animal Toxicity Data
 
