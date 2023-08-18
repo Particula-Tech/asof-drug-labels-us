@@ -24,7 +24,7 @@ Table 4 Esmolol Hydrochloride Injection Formulation
 | Water for Injection USP | Q.S. to volume of 10 mL |
 | Sodium Acetate Trihydrate USP | 2.8 mg/mL |
 | Glacial Acetic Acid USP | 0.546 mg/mL |
-| Sodium Hydroxide | Q.S. to adjust pH to 4.5-5.5 |
-| Hydrochloric Acid | Q.S. to adjust pH to 4.5-5.5 |
+| Sodium Hydroxide | Q.S. to adjust pH to 4.5 to 5.5 |
+| Hydrochloric Acid | Q.S. to adjust pH to 4.5 to 5.5 |
 
 Q.S. = Quantity sufficient
