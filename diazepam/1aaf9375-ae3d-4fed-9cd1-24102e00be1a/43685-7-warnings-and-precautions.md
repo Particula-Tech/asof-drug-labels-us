@@ -48,7 +48,7 @@ Abrupt withdrawal of diazepam in such cases may also be associated with a tempor
 ## Neonatal Sedation and Withdrawal Syndrome
 
 Use of diazepam late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (see PRECAUTIONS: Pregnancy).
-Monitor neonates exposed to diazepam during pregnancy or labor for signs of sedation and monitor neonates exposed to diazepam during pregnancy for signs of withdrawal; manage these infants accordingly.
+Monitor neonates exposed to diazepam during pregnancy or labor for signs of sedation and monitor neonates exposed to diazepam during pregnancy for signs of withdrawal; manage these neonates accordingly.
 
 # PRECAUTIONS
 
@@ -153,7 +153,7 @@ Healthcare providers are encouraged to register patients by calling the National
 
 ### Risk Summary
 
-Infants born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and Clinical Considerations).
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and Clinical Considerations).
 Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
 
 Diazepam has been shown to be teratogenic in mice and hamsters when given orally at daily doses of 100 mg/kg or greater (approximately eight times the maximum recommended human dose [MRHD=1 mg/kg/day] or greater on a mg/m2 basis).
@@ -195,7 +195,7 @@ The window of vulnerability to these changes in rats (postnatal days 0-14) inclu
 
 Diazepam is present in breastmilk.
 There are reports of sedation, poor feeding, and poor weight gain in infants exposed to benzodiazepines through breast milk.
-Because of the potential for serious adverse reaction, including sedation and withdrawal symptoms in breastfed neonates and infants, advise patient that breastfeeding is not recommended during treatment with diazepam.
+Because of the potential for serious adverse reaction, including sedation and withdrawal symptoms in breastfed infants, advise patient that breastfeeding is not recommended during treatment with diazepam.
 
 ## Pediatric Use
 
