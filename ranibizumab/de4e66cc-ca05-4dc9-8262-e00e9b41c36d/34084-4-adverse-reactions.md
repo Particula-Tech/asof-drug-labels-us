@@ -13,7 +13,7 @@ Serious adverse reactions related to the injection procedure have occurred in < 
 
 ## 6.2 Clinical Studies Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in one clinical trial of a drug cannot be directly compared with rates in the clinical trials of the same or another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The data below reflect exposure to 0.5 mg LUCENTIS in 440 patients with neovascular AMD in Studies AMD-1, AMD-2, and AMD-3; in 259 patients with macular edema following RVO.
 The data also reflect exposure to 0.3 mg LUCENTIS in 250 patients with DME and DR at baseline [see Clinical Studies (14)].

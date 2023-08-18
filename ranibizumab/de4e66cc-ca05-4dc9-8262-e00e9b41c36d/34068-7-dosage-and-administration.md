@@ -4,8 +4,6 @@
 
 FOR OPHTHALMIC INTRAVITREAL INJECTION.
 
-Vials: A 5-micron sterile filter needle (19-gauge × 1-1/2 inch), a 1-mL Luer lock syringe and a 30-gauge × ½ inch sterile injection needle are needed but not included.
-
 ## 2.2 Neovascular (Wet) Age-Related Macular Degeneration (AMD)
 
 LUCENTIS 0.5 mg (0.05 mL of 10 mg/mL solution) is recommended to be administered by intravitreal injection once a month (approximately 28 days).
@@ -33,13 +31,13 @@ LUCENTIS 0.3 mg (0.05 mL of 6 mg/mL solution) is recommended to be administered 
 ## 2.5 Myopic Choroidal Neovascularization (mCNV)
 
 LUCENTIS 0.5 mg (0.05 mL of 10 mg/mL LUCENTIS solution) is recommended to be initially administered by intravitreal injection once a month (approximately 28 days) for up to 3 months.
-Patients may be retreated if needed [(see Clinical Studies 14.5)].
+Patients may be retreated if needed [(see Clinical Studies (14.5)].
 
 ## 2.6 Preparation for Administration
 
 Prefilled Syringe:
 
-The prefilled syringe is sterile and is for single use only.
+The prefilled syringe is sterile and is for single-dose only.
 Do not use the product if the packaging is damaged or has been tampered with.
 
 To prepare LUCENTIS for intravitreal administration, please adhere to these instructions for use.
@@ -71,31 +69,6 @@ Note: the dose must be set to 0.05 mL.
 | Step 7: Inject |  |
 | The injection procedure should be carried out under aseptic conditions.Insert the needle into the injection site.Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL.After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or in accordance with local requirements. |  |
 
-Vial:
-
-Using aseptic technique, all of the LUCENTIS vial contents are withdrawn through a 5-micron (19-gauge × 1-1/2 inch), sterile filter needle attached to a 1 mL syringe (not included).
-The filter needle should be discarded after withdrawal of the vial contents and should not be used for intravitreal injection.
-The filter needle should be replaced with a sterile 30-gauge × ½ inch needle for the intravitreal injection.
-
-Use aseptic technique to carry out the following preparation steps:
-
-1. Prepare for intravitreal injection with the following medical devices for single use (not included):
-   - a 5-micron sterile filter needle (19-gauge × 1-1/2 inch)
-   - a 1 mL sterile Luer lock syringe (with marking to measure 0.05 mL)
-   - a sterile injection needle (30-gauge × 1/2-inch)
-2. Before withdrawal, disinfect the outer part of the rubber stopper of the vial.
-3. Place a 5-micron filter needle (19-gauge × 1-1/2 inch) onto a 1 mL Luer lock syringe using aseptic technique.
-4. Push the filter needle into the center of the vial stopper until the needle touches the bottom edge of the vial.
-5. Withdraw all the liquid from the vial, keeping the vial in an upright position, slightly inclined to ease complete withdrawal.
-6. Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle.
-7. The filter needle should be discarded after withdrawal of the vial contents and must not be used for the intravitreal injection.
-8. Attach a 30-gauge × 1/2-inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock.
-   Carefully remove the needle cap by pulling it straight off.
-   Do not wipe the needle at any time.
-9. Hold the syringe with the needle pointing up.
-   If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top.
-10. Hold the syringe at eye level, and carefully push the plunger rod until the plunger tip is aligned with the line that marks 0.05 mL on the syringe.
-
 ## 2.7 Administration
 
 The intravitreal injection procedure should be carried out under controlled aseptic conditions, which include the use of sterile gloves, a sterile drape, and a sterile eyelid speculum (or equivalent).
@@ -105,7 +78,7 @@ Prior to and 30 minutes following the intravitreal injection, patients should be
 Monitoring may also consist of a check for perfusion of the optic nerve head immediately after the injection [see Warnings and Precautions (5.2)].
 Patients should also be monitored for and instructed to report any symptoms suggestive of endophthalmitis without delay following the injection [see Warnings and Precautions (5.1)].
 
-Each prefilled syringe or vial should only be used for the treatment of a single eye.
-If the contralateral eye requires treatment, a new prefilled syringe or vial should be used and the sterile field, syringe, gloves, drapes, eyelid speculum, filter needle (vial only), and injection needles should be changed before LUCENTIS is administered to the other eye.
+Each prefilled syringe should only be used for the treatment of a single eye.
+If the contralateral eye requires treatment, a new prefilled syringe should be used and the sterile field, syringe, gloves, drapes, eyelid speculum, and injection needle should be changed before LUCENTIS is administered to the other eye.
 
 No special dosage modification is required for any of the populations that have been studied (e.g., gender, elderly).
