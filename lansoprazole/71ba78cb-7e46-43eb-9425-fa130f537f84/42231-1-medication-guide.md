@@ -41,10 +41,9 @@
 | What are the ingredients in PREVACID and PREVACID SoluTab? |  |
 | Active ingredient: lansoprazole. |  |
 | Inactive ingredients in PREVACID capsules: sugar sphere, sucrose, methacrylic acid copolymer, low substituted hydroxypropyl cellulose, starch, magnesium carbonate, talc, polyethylene glycol, titanium dioxide, polysorbate 80, hydroxypropyl cellulose, colloidal silicon dioxide, D&C Red No. 28, FD&C Blue No. 1, and FD&C Red No. 40. |  |
-| PREVACID 15 mg capsule only: FD&C Green No. 3. |  |
 | Inactive ingredients in PREVACID SoluTab: mannitol, methacrylic acid, hydroxypropyl cellulose, lactose monohydrate-microcrystalline cellulose sphere, triethyl citrate, crospovidone, polyacrylate, magnesium carbonate, aspartame, glyceryl monostearate, hypromellose, magnesium stearate, citric acid, titanium dioxide, talc, artificial strawberry flavor, polyethylene glycol, polysorbate 80 and ferric oxide. |  |
 | PREVACID SoluTab contains 2.5 mg of phenylalanine in each 15 mg tablet and 5.1 mg of phenylalanine in each 30 mg tablet. |  |
 | Distributed by: Takeda Pharmaceuticals America, Inc., Lexington, MA 02421 |  |
-| PREVACID is a trademark registered in the U.S. Patent and Trademark Office and SoluTab is a trademark of Takeda Pharmaceuticals U.S.A., Inc. and used under license by Takeda Pharmaceuticals America, Inc. All other trademark names are the property of their respective owners. ©1995 – 2022 Takeda Pharmaceuticals America, Inc. |  |
-| PRV012 R55 For more information go to www.PREVACID.com or call 1-877- TAKEDA-7 (1-877- 825- 3327). |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. | Revised: 03/2022 |
+| PREVACID is a trademark registered in the U.S. Patent and Trademark Office and SoluTab is a trademark of Takeda Pharmaceuticals U.S.A., Inc. and used under license by Takeda Pharmaceuticals America, Inc. All other trademark names are the property of their respective owners. ©1995 – 2023 Takeda Pharmaceuticals America, Inc. |  |
+| For more information go to www.PREVACID.com or call 1-877- TAKEDA-7 (1-877- 825- 3327). |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. | Revised: 8/2023 |

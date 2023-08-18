@@ -84,6 +84,6 @@ PREVACID is a trademark registered in the U.S. Patent and Trademark Office and S
 
 All other trademark names are the property of their respective owners.
 
-©1995 – 2022 Takeda Pharmaceuticals America, Inc.
+©1995 – 2023 Takeda Pharmaceuticals America, Inc.
 
-PRV012 R55
+PRV012 R56

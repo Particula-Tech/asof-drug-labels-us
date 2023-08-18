@@ -2,7 +2,7 @@
 
 PREVACID delayed-release capsules:
 
-- 15 mg strength is an opaque, pink and green capsule imprinted with "TAP" and "PREVACID 15".
+- 15 mg strength is not currently marketed by Takeda Pharmaceuticals America, Inc.
 - 30 mg strength is an opaque, pink and black capsule imprinted with "TAP" and "PREVACID 30".
 
 PREVACID SoluTab delayed-release orally disintegrating tablets:

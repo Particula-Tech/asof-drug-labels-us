@@ -13,8 +13,9 @@ The degradation half-life of the drug substance in aqueous solution at 25°C is 
 
 PREVACID is supplied in delayed-release capsules and PREVACID SoluTab is supplied in delayed-release orally disintegrating tablets (SoluTab) for oral administration.
 
-PREVACID is available in two dosage strengths: 15 and 30 mg of lansoprazole per capsule.
-Each delayed-release capsule contains enteric-coated granules consisting of 15 or 30 mg of lansoprazole (active ingredient) and the following inactive ingredients: sugar sphere, sucrose, methacrylic acid copolymer, low substituted hydroxypropyl cellulose, starch, magnesium carbonate, talc, polyethylene glycol, titanium dioxide, polysorbate 80, hydroxypropyl cellulose, colloidal silicon dioxide, D&C Red No. 28, FD&C Blue No. 1, FD&C Green No. 3PREVACID 15 mg capsules only., and FD&C Red No. 40.
+PREVACID is available in one dosage strength: 30 mg of lansoprazole per capsule.
+Each delayed-release capsule contains enteric-coated granules consisting of 30 mg of lansoprazole (active ingredient) and the following inactive ingredients: sugar sphere, sucrose, methacrylic acid copolymer, low substituted hydroxypropyl cellulose, starch, magnesium carbonate, talc, polyethylene glycol, titanium dioxide, polysorbate 80, hydroxypropyl cellulose, colloidal silicon dioxide, D&C Red No. 28, FD&C Blue No. 1, and FD&C Red No. 40.
+The 15 mg strength of PREVACID is not currently marketed by Takeda Pharmaceuticals America, Inc.
 
 PREVACID SoluTab is available in two dosage strengths: 15 and 30 mg of lansoprazole per tablet.
 Each delayed-release orally disintegrating tablet contains enteric-coated microgranules consisting of 15 or 30 mg of lansoprazole (active ingredient) and the following inactive ingredients: mannitol, methacrylic acid, hydroxypropyl cellulose, lactose monohydrate-microcrystalline cellulose sphere, triethyl citrate, crospovidone, polyacrylate, magnesium carbonate, aspartamePhenylketonurics: PREVACID SoluTab Contains Phenylalanine 2.5 mg per 15 mg Tablet and 5.1 mg per 30 mg Tablet., glyceryl monostearate, hypromellose, magnesium stearate, citric acid, titanium dioxide, talc, artificial strawberry flavor, polyethylene glycol, polysorbate 80 and ferric oxide.
