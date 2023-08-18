@@ -6,7 +6,7 @@ Docetaxel Injection, USP is a non-aqueous, clear, colorless to pale yellow solut
 
 | NDC | Docetaxel Injection, USP (10 mg per mL) | Package Factor |
 | --- | --- | --- |
-| 71288- 144-08 71288- 144-16 | 80 mg per 8 mL (10 mg per mL) Multi-Dose Vial 160 mg per 16 mL (10 mg per mL) Multi-Dose Vial | 1 vial per carton 1 vial per carton |
+| 71288-144-08 71288-144-16 | 80 mg per 8 mL (10 mg per mL) Multi-Dose Vial 160 mg per 16 mL (10 mg per mL) Multi-Dose Vial | 1 vial per carton 1 vial per carton |
 
 ## 16.2 Storage
 
@@ -20,11 +20,8 @@ After first use and following multiple needle entries and product withdrawals, D
 
 ## 16.3 Handling and Disposal
 
-Docetaxel Injection, USP is a cytotoxic drug.
-Follow applicable special handling and disposal procedures.
-1
-
-Discard unused portion of the single-dose vial.
+Docetaxel Injection, USP is a hazardous drug.
+Follow applicable special handling and disposal procedures.1
 
 Sterile, Nonpyrogenic, Preservative-free.
 The container closure is not made with natural rubber latex.

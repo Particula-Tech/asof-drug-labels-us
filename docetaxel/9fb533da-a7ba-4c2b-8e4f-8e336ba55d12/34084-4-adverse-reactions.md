@@ -30,24 +30,24 @@ Breast Cancer
 
 Monotherapy with Docetaxel for Locally Advanced or Metastatic Breast Cancer after Failure of Prior Chemotherapy
 
-Docetaxel 100 mg/m 2: Adverse drug reactions occurring in at least 5% of patients are compared for three populations who received docetaxel administered at 100 mg/m 2 as a 1-hour infusion every 3 weeks: 2045 patients with various tumor types and normal baseline liver function tests; the subset of 965 patients with locally advanced or metastatic breast cancer, both previously treated and untreated with chemotherapy, who had normal baseline liver function tests; and an additional 61 patients with various tumor types who had abnormal liver function tests at baseline.
+Docetaxel 100 mg/m2: Adverse drug reactions occurring in at least 5% of patients are compared for three populations who received docetaxel administered at 100 mg/m2 as a 1-hour infusion every 3 weeks: 2045 patients with various tumor types and normal baseline liver function tests; the subset of 965 patients with locally advanced or metastatic breast cancer, both previously treated and untreated with chemotherapy, who had normal baseline liver function tests; and an additional 61 patients with various tumor types who had abnormal liver function tests at baseline.
 These reactions were described using COSTART terms and were considered possibly or probably related to docetaxel.
 At least 95% of these patients did not receive hematopoietic support.
 The safety profile is generally similar in patients receiving docetaxel for the treatment of breast cancer and in patients with other tumor types (see Table 3).
 
-Table 3: -Summary of Adverse Reactions in Patients Receiving Docetaxel at 100 mg/m 2
+Table 3: Summary of Adverse Reactions in Patients Receiving Docetaxel at 100 mg/m2
 
 | Adverse Reaction | All Tumor Types Normal LFTs* n=2045 % | All Tumor Types Elevated LFTs** n=61 % | Breast Cancer Normal LFTs* n=965 % |
 | --- | --- | --- | --- |
 | Hematologic |  |  |  |
 | Neutropenia |  |  |  |
-| <2000 cells/mm 3 | 96 | 96 | 99 |
-| <500 cells/mm 3 | 75 | 88 | 86 |
+| <2000 cells/mm3 | 96 | 96 | 99 |
+| <500 cells/mm3 | 75 | 88 | 86 |
 | Leukopenia |  |  |  |
-| <4000 cells/mm 3 | 96 | 98 | 99 |
-| <1000 cells/mm 3 | 32 | 47 | 44 |
+| <4000 cells/mm3 | 96 | 98 | 99 |
+| <1000 cells/mm3 | 32 | 47 | 44 |
 | Thrombocytopenia |  |  |  |
-| <100,000 cells/mm 3 | 8 | 25 | 9 |
+| <100,000 cells/mm3 | 8 | 25 | 9 |
 | Anemia |  |  |  |
 | <11 g/dL | 90 | 92 | 94 |
 | <8 g/dL | 9 | 31 | 8 |
@@ -90,14 +90,14 @@ Table 3: -Summary of Adverse Reactions in Patients Receiving Docetaxel at 100 mg
 Hematologic Reactions
 
 Reversible marrow suppression was the major dose-limiting toxicity of docetaxel [see Warnings and Precautions (5.3)].
-The median time to nadir was 7 days, while the median duration of severe neutropenia (<500 cells/mm 3) was 7 days.
+The median time to nadir was 7 days, while the median duration of severe neutropenia (<500 cells/mm3) was 7 days.
 Among 2045 patients with solid tumors and normal baseline LFTs, severe neutropenia occurred in 75.4% and lasted for more than 7 days in 2.9% of cycles.
 
-Febrile neutropenia (<500 cells/mm 3 with fever >38°C with intravenous antibiotics and/or hospitalization) occurred in 11% of patients with solid tumors, in 12.3% of patients with metastatic breast cancer, and in 9.8% of 92 breast cancer patients premedicated with 3-day corticosteroids.
+Febrile neutropenia (<500 cells/mm3 with fever >38°C with intravenous antibiotics and/or hospitalization) occurred in 11% of patients with solid tumors, in 12.3% of patients with metastatic breast cancer, and in 9.8% of 92 breast cancer patients premedicated with 3-day corticosteroids.
 
 Severe infectious episodes occurred in 6.1% of patients with solid tumors, in 6.4% of patients with metastatic breast cancer, and in 5.4% of 92 breast cancer patients premedicated with 3-day corticosteroids.
 
-Thrombocytopenia (<100,000 cells/mm 3) associated with fatal gastrointestinal hemorrhage has been reported.
+Thrombocytopenia (<100,000 cells/mm3) associated with fatal gastrointestinal hemorrhage has been reported.
 
 Hypersensitivity Reactions
 
@@ -131,8 +131,8 @@ Severe stomatitis occurred in 5.5% of patients with solid tumors, in 7.4% of pat
 Cardiovascular Reactions
 
 Hypotension occurred in 2.8% of patients with solid tumors; 1.2% required treatment.
-Clinically meaningful events such as heart failure, sinus tachycardia, atrial flutter, dysrhythmia, unstable angina, pulmonary edema, and hypertension occurred rarely.
-Seven of 86 (8.1%) of metastatic breast cancer patients receiving docetaxel 100 mg/m 2 in a randomized trial and who had serial left ventricular ejection fractions assessed developed deterioration of LVEF by ≥10% associated with a drop below the institutional lower limit of normal.
+Clinically meaningful events such as heart failure, sinus tachycardia, atrial flutter, dysrhythmia, unstable angina, pulmonary edema, and hypertension have occurred.
+Seven of 86 (8.1%) of metastatic breast cancer patients receiving docetaxel 100 mg/m2 in a randomized trial and who had serial left ventricular ejection fractions assessed developed deterioration of LVEF by ≥10% associated with a drop below the institutional lower limit of normal.
 
 Infusion Site Reactions
 
@@ -148,16 +148,16 @@ Whether these changes were related to the drug or underlying disease has not bee
 Hematologic and Other Toxicity: Relation to Dose and Baseline Liver Chemistry Abnormalities
 
 Hematologic and other toxicity is increased at higher doses and in patients with elevated baseline liver function tests (LFTs).
-In the following tables, adverse drug reactions are compared for three populations: 730 patients with normal LFTs given docetaxel at 100 mg/m 2 in the randomized and single arm studies of metastatic breast cancer after failure of previous chemotherapy; 18 patients in these studies who had abnormal baseline LFTs (defined as AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN); and 174 patients in Japanese studies given docetaxel at 60 mg/m 2 who had normal LFTs (see Tables 4 and 5).
+In the following tables, adverse drug reactions are compared for three populations: 730 patients with normal LFTs given docetaxel at 100 mg/m2 in the randomized and single arm studies of metastatic breast cancer after failure of previous chemotherapy; 18 patients in these studies who had abnormal baseline LFTs (defined as AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN); and 174 patients in Japanese studies given docetaxel at 60 mg/m2 who had normal LFTs (see Tables 4 and 5).
 
-Table 4: Hematologic Adverse Reactions in Breast Cancer Patients Previously Treated with Chemotherapy Treated at Docetaxel 100 mg/m 2 with Normal or Elevated Liver Function Tests or 60 mg/m 2 with Normal Liver Function Tests
+Table 4: Hematologic Adverse Reactions in Breast Cancer Patients Previously Treated with Chemotherapy Treated at Docetaxel 100 mg/m2 with Normal or Elevated Liver Function Tests or 60 mg/m2 with Normal Liver Function Tests
 
-|  | Docetaxel 100 mg/m 2 |  | Docetaxel 60 mg/m 2 |
+|  | Docetaxel 100 mg/m2 |  | Docetaxel 60 mg/m2 |
 | --- | --- | --- | --- |
 | Adverse Reaction | Normal LFTs* n=730 % | Elevated LFTs** n=18 % | Normal LFTs* n=174 % |
-| Neutropenia Any <2000 cells/mm 3 Grade 4 <500 cells/mm 3 | 98 84 | 100 94 | 95 75 |
-| Thrombocytopenia Any <100,000 cells/mm 3 Grade 4 <20,000 cells/mm 3 | 11 1 | 44 17 | 14 1 |
-| Anemia<11 g/dL | 95 | 94 | 65 |
+| Neutropenia Any <2000 cells/mm3 Grade 4 <500 cells/mm3 | 98 84 | 100 94 | 95 75 |
+| Thrombocytopenia Any <100,000 cells/mm3 Grade 4 <20,000 cells/mm3 | 11 1 | 44 17 | 14 1 |
+| Anemia <11 g/dL | 95 | 94 | 65 |
 | Infection*** Any Grade 3 and 4 | 23 7 | 39 33 | 1 0 |
 | Febrile Neutropenia**** By Patient By Course | 12 2 | 33 9 | 0 0 |
 | Septic Death | 2 | 6 | 1 |
@@ -165,9 +165,9 @@ Table 4: Hematologic Adverse Reactions in Breast Cancer Patients Previously Trea
 | * Normal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN |  |  |  |
 | ** Elevated Baseline LFTs: AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN |  |  |  |
 | *** Incidence of infection requiring hospitalization and/or intravenous antibiotics was 8.5% (n=62) among the 730 patients with normal LFTs at baseline; 7 patients had concurrent grade 3 neutropenia, and 46 patients had grade 4 neutropenia. |  |  |  |
-| **** Febrile Neutropenia: For 100 mg/m 2, ANC grade 4 and fever >38°C with intravenous antibiotics and/or hospitalization; for 60 mg/m 2, ANC grade 3/4 and fever >38.1°C |  |  |  |
+| **** Febrile Neutropenia: For 100 mg/m2, ANC grade 4 and fever >38°C with intravenous antibiotics and/or hospitalization; for 60 mg/m2, ANC grade 3/4 and fever >38.1°C |  |  |  |
 
-Table 5: Non-Hematologic Adverse Reactions in Breast Cancer Patients Previously Treated with Chemotherapy Treated at Docetaxel 100 mg/m 2 with Normal or Elevated Liver Function Tests or 60 mg/m 2 with Normal Liver Function Tests
+Table 5: Non-Hematologic Adverse Reactions in Breast Cancer Patients Previously Treated with Chemotherapy Treated at Docetaxel 100 mg/m2 with Normal or Elevated Liver Function Tests or 60 mg/m2 with Normal Liver Function Tests
 
 |  | Docetaxel 100 mg/m2 |  | Docetaxel 60 mg/m2 |
 | --- | --- | --- | --- |
@@ -182,18 +182,18 @@ Table 5: Non-Hematologic Adverse Reactions in Breast Cancer Patients Previously 
 | Stomatitis Any Severe | 53 8 | 67 39 | 19 1 |
 | * Normal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN |  |  |  |
 | ** Elevated Baseline Liver Function: AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN |  |  |  |
-| *** Fluid Retention includes (by COSTART): edema (peripheral, localized, generalized, lymphedema, pulmonary edema, and edema otherwise not specified) and effusion (pleural, pericardial, and ascites); no premedication given with the 60 mg/m 2 dose |  |  |  |
+| *** Fluid Retention includes (by COSTART): edema (peripheral, localized, generalized, lymphedema, pulmonary edema, and edema otherwise not specified) and effusion (pleural, pericardial, and ascites); no premedication given with the 60 mg/m2 dose |  |  |  |
 | NA = not available |  |  |  |
 
-In the three-arm monotherapy trial, TAX313, which compared docetaxel 60 mg/m 2, 75 mg/m 2 and 100 mg/m 2 in advanced breast cancer, grade 3/4 or severe adverse reactions occurred in 49.0% of patients treated with docetaxel 60 mg/m 2 compared to 55.3% and 65.9% treated with 75 mg/m 2 and 100 mg/m 2, respectively.
-Discontinuation due to adverse reactions was reported in 5.3% of patients treated with 60 mg/m 2 versus 6.9% and 16.5% for patients treated at 75 mg/m 2 and 100 mg/m 2, respectively.
-Deaths within 30 days of last treatment occurred in 4.0% of patients treated with 60 mg/m 2 compared to 5.3% and 1.6% for patients treated at 75 mg/m 2 and 100 mg/m 2, respectively.
+In the three-arm monotherapy trial, TAX313, which compared docetaxel 60 mg/m2, 75 mg/m2 and 100 mg/m2 in advanced breast cancer, grade 3/4 or severe adverse reactions occurred in 49.0% of patients treated with docetaxel 60 mg/m2 compared to 55.3% and 65.9% treated with 75 mg/m2 and 100 mg/m2, respectively.
+Discontinuation due to adverse reactions was reported in 5.3% of patients treated with 60 mg/m2 versus 6.9% and 16.5% for patients treated at 75 mg/m2 and 100 mg/m2, respectively.
+Deaths within 30 days of last treatment occurred in 4.0% of patients treated with 60 mg/m2 compared to 5.3% and 1.6% for patients treated at 75 mg/m2 and 100 mg/m2, respectively.
 
-The following adverse reactions were associated with increasing docetaxel doses: fluid retention (26%, 38%, and 46% at 60 mg/m 2, 75 mg/m 2, and 100 mg/m 2, respectively), thrombocytopenia (7%, 11% and 12%, respectively), neutropenia (92%, 94%, and 97%, respectively), febrile neutropenia (5%, 7%, and 14%, respectively), treatment-related grade 3/4 infection (2%, 3%, and 7%, respectively) and anemia (87%, 94%, and 97%, respectively).
+The following adverse reactions were associated with increasing docetaxel doses: fluid retention (26%, 38%, and 46% at 60 mg/m2, 75 mg/m2, and 100 mg/m2, respectively), thrombocytopenia (7%, 11% and 12%, respectively), neutropenia (92%, 94%, and 97%, respectively), febrile neutropenia (5%, 7%, and 14%, respectively), treatment-related grade 3/4 infection (2%, 3%, and 7%, respectively) and anemia (87%, 94%, and 97%, respectively).
 
 Combination Therapy with Docetaxel in the Adjuvant Treatment of Breast Cancer
 
-The following table presents treatment-emergent adverse reactions observed in 744 patients, who were treated with docetaxel 75 mg/m 2 every 3 weeks in combination with doxorubicin and cyclophosphamide (see Table 6).
+The following table presents treatment-emergent adverse reactions observed in 744 patients, who were treated with docetaxel 75 mg/m2 every 3 weeks in combination with doxorubicin and cyclophosphamide (see Table 6).
 
 Table 6: Clinically Important Treatment-Emergent Adverse Reactions Regardless of Causal Relationship in Patients Receiving Docetaxel in Combination with Doxorubicin and Cyclophosphamide (TAX316)
 
@@ -298,11 +298,11 @@ Lung Cancer
 
 Monotherapy with Docetaxel for Unresectable, Locally Advanced or Metastatic NSCLC Previously Treated with Platinum-Based Chemotherapy
 
-Docetaxel 75 mg/m 2: Treatment-emergent adverse drug reactions are shown in Table 7.
+Docetaxel 75 mg/m2: Treatment-emergent adverse drug reactions are shown in Table 7.
 Included in this table are safety data for a total of 176 patients with non-small cell lung carcinoma and a history of prior treatment with platinum-based chemotherapy who were treated in two randomized, controlled trials.
 These reactions were described using NCI Common Toxicity Criteria regardless of relationship to study treatment, except for the hematologic toxicities or where otherwise noted.
 
-Table 7: Treatment-Emergent Adverse Reactions Regardless of Relationship to Treatment in Patients Receiving Docetaxel as Monotherapy for Non-small Cell Lung Cancer Previously Treated with Platinum-Based Chemotherapy *
+Table 7: Treatment-Emergent Adverse Reactions Regardless of Relationship to Treatment in Patients Receiving Docetaxel as Monotherapy for Non-small Cell Lung Cancer Previously Treated with Platinum-Based Chemotherapy*
 
 | Adverse Reaction | Docetaxel 75 mg/m2 n=176 % | Best Supportive Care n=49 % | Vinorelbine/Ifosfamide n=119 % |
 | --- | --- | --- | --- |
@@ -310,11 +310,11 @@ Table 7: Treatment-Emergent Adverse Reactions Regardless of Relationship to Trea
 | Leukopenia Any Grade 3/4 | 84 49 | 6 0 | 89 43 |
 | Thrombocytopenia Any Grade 3/4 | 8 3 | 0 0 | 8 2 |
 | Anemia Any Grade 3/4 | 91 9 | 55 12 | 91 14 |
-| Febrile Neutropenia** | 6 | NA † | 1 |
+| Febrile Neutropenia** | 6 | NA† | 1 |
 | Infection Any Grade 3/4 | 34 10 | 29 6 | 30 9 |
-| Treatment Related Mortality | 3 | NA † | 3 |
+| Treatment Related Mortality | 3 | NA† | 3 |
 | Hypersensitivity Reactions Any Grade 3/4 | 6 3 | 0 0 | 1 0 |
-| Fluid Retention Any Severe | 34 3 | ND †† | 23 3 |
+| Fluid Retention Any Severe | 34 3 | ND†† | 23 3 |
 | Neurosensory Any Grade 3/4 | 23 2 | 14 6 | 29 5 |
 | Neuromotor Any Grade 3/4 | 16 5 | 8 6 | 10 3 |
 | Skin Any Grade 3/4 | 20 1 | 6 2 | 17 1 |
@@ -327,7 +327,7 @@ Table 7: Treatment-Emergent Adverse Reactions Regardless of Relationship to Trea
 | Myalgia Any Severe*** | 6 0 | 0 0 | 3 0 |
 | Arthralgia Any Severe*** | 3 0 | 2 0 | 2 1 |
 | Taste Perversion Any Severe*** | 6 1 | 0 0 | 0 0 |
-| * Normal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN |  |  |  |
+| ﻿* Normal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN |  |  |  |
 | ** Febrile Neutropenia: ANC grade 4 with fever >38°C with intravenous antibiotics and/or hospitalization |  |  |  |
 | *** COSTART term and grading system |  |  |  |
 | † Not Applicable |  |  |  |
@@ -385,7 +385,7 @@ Prostate Cancer
 
 Combination Therapy with Docetaxel in Patients with Prostate Cancer
 
-The following data are based on the experience of 332 patients, who were treated with docetaxel 75 mg/m 2 every 3 weeks in combination with prednisone 5 mg orally twice daily (see Table 9).
+The following data are based on the experience of 332 patients, who were treated with docetaxel 75 mg/m2 every 3 weeks in combination with prednisone 5 mg orally twice daily (see Table 9).
 
 Table 9: Clinically Important Treatment-Emergent Adverse Reactions (Regardless of Relationship) in Patients with Prostate Cancer who Received Docetaxel in Combination with Prednisone (TAX327)
 
@@ -424,7 +424,7 @@ Gastric Cancer
 
 Combination Therapy with Docetaxel Injection in Gastric Adenocarcinoma
 
-Data in the following table are based on the experience of 221 patients with advanced gastric adenocarcinoma and no history of prior chemotherapy for advanced disease who were treated with docetaxel injection 75 mg/m 2 in combination with cisplatin and fluorouracil (see Table 10).
+Data in the following table are based on the experience of 221 patients with advanced gastric adenocarcinoma and no history of prior chemotherapy for advanced disease who were treated with docetaxel injection 75 mg/m2 in combination with cisplatin and fluorouracil (see Table 10).
 
 Table 10: Clinically Important Treatment-Emergent Adverse Reactions Regardless of Relationship to Treatment in the Gastric Cancer Study
 
@@ -468,7 +468,7 @@ Head and Neck Cancer
 
 Combination Therapy with Docetaxel Injection in Head and Neck Cancer
 
-Table 11 summarizes the safety data obtained from patients that received induction chemotherapy with docetaxel injection 75 mg/m 2 in combination with cisplatin and fluorouracil followed by radiotherapy (TAX323; 174 patients) or chemoradiotherapy (TAX324; 251 patients).
+Table 11 summarizes the safety data obtained from patients that received induction chemotherapy with docetaxel injection 75 mg/m2 in combination with cisplatin and fluorouracil followed by radiotherapy (TAX323; 174 patients) or chemoradiotherapy (TAX324; 251 patients).
 The treatment regimens are described in Section 14.6.
 
 Table 11: Clinically Important Treatment-Emergent Adverse Reactions (Regardless of Relationship) in Patients with SCCHN Receiving Induction Chemotherapy with Docetaxel Injection in Combination with Cisplatin and Fluorouracil Followed by Radiotherapy (TAX323) or Chemoradiotherapy (TAX324)
@@ -522,45 +522,41 @@ Table 11: Clinically Important Treatment-Emergent Adverse Reactions (Regardless 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified from clinical trials and/or postmarketing surveillance.
-Because they are reported from a population of unknown size, precise estimates of frequency cannot be made.
+Because these reactions are reported from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body as a whole: diffuse pain, chest pain, radiation recall phenomenon, injection site recall reaction (recurrence of skin reaction at a site of previous extravasation following administration of docetaxel at a different site) at the site of previous extravasation.
 
 Cardiovascular: atrial fibrillation, deep vein thrombosis, ECG abnormalities, thrombophlebitis, pulmonary embolism, syncope, tachycardia, myocardial infarction.
-Ventricular arrhythmia including ventricular tachycardia has been reported in patients treated with docetaxel in combination regimens including doxorubicin, 5-fluorouracil and/or cyclophosphamide, and may be associated with fatal outcome.
+Ventricular arrhythmia, including ventricular tachycardia, in patients treated with docetaxel in combination regimens including doxorubicin, 5-fluorouracil and/or cyclophosphamide may be associated with fatal outcome.
 
-Cutaneous: very rare cases of cutaneous lupus erythematosus and rare cases of bullous eruptions such as erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and Scleroderma-like changes usually preceded by peripheral lymphedema.
-In some cases multiple factors may have contributed to the development of these effects.
-Severe hand and foot syndrome has been reported.
-Cases of permanent alopecia have been reported.
+Cutaneous: cutaneous lupus erythematosus, bullous eruptions such as erythema multiforme and severe cutaneous adverse reactions (SCARs) such as Stevens-Johnson syndrome, toxic epidermal necrolysis and acute generalized exanthematous pustulosis, scleroderma-like changes (usually preceded by peripheral lymphedema), severe palmar-plantar erythrodysesthesia, and permanent alopecia.
 
-Gastrointestinal: enterocolitis, including colitis, ischemic colitis, and neutropenic enterocolitis, has been reported with a potential fatal outcome.
-Abdominal pain, anorexia, constipation, duodenal ulcer, esophagitis, gastrointestinal hemorrhage, gastrointestinal perforation, intestinal obstruction, ileus, and dehydration as a consequence to gastrointestinal events have been reported.
+Gastrointestinal: enterocolitis, including colitis, ischemic colitis, and neutropenic enterocolitis, which may be fatal.
+Abdominal pain, anorexia, constipation, duodenal ulcer, esophagitis, gastrointestinal hemorrhage, gastrointestinal perforation, intestinal obstruction, ileus, and dehydration as a consequence of gastrointestinal events.
 
-Hearing: rare cases of ototoxicity, hearing disorders and/or hearing loss have been reported, including cases associated with other ototoxic drugs.
+Hearing: ototoxicity, hearing disorders and/or hearing loss, including during use with other ototoxic drugs.
 
-Hematologic: bleeding episodes.
-Disseminated intravascular coagulation (DIC), often in association with sepsis or multiorgan failure, has been reported.
+Hematologic: bleeding episodes, disseminated intravascular coagulation (DIC), often in association with sepsis or multiorgan failure.
 
-Hepatic: rare cases of hepatitis, sometimes fatal primarily in patients with pre-existing liver disorders, have been reported.
+Hepatic: hepatitis, sometimes fatal, primarily in patients with pre-existing liver disorders.
 
-Hypersensitivity: rare cases of anaphylactic shock have been reported.
-Very rarely these cases resulted in a fatal outcome in patients who received premedication.
-Hypersensitivity reactions with potential fatal outcome have been reported with docetaxel in patients who previously experienced hypersensitivity reactions to paclitaxel.
+Hypersensitivity: anaphylactic shock with fatal outcome in patients who received premedication.
+Severe hypersensitivity reactions with fatal outcome with docetaxel in patients who previously experienced hypersensitivity reactions to paclitaxel.
 
-Metabolism and Nutrition Disorders: electrolyte imbalance, including cases of hyponatremia, hypokalemia, hypomagnesemia, and hypocalcemia, has been reported.
+Metabolism and Nutrition Disorders: electrolyte imbalance, including hyponatremia, hypokalemia, hypomagnesemia, and hypocalcemia.
+Tumor lysis syndrome, sometimes fatal.
 
-Neurologic: confusion, rare cases of seizures or transient loss of consciousness have been observed, sometimes appearing during the infusion of the drug.
+Neurologic: confusion, seizures or transient loss of consciousness, sometimes appearing during the infusion of the drug.
 
-Ophthalmologic: conjunctivitis, lacrimation or lacrimation with or without conjunctivitis.
-Excessive tearing which may be attributable to lacrimal duct obstruction has been reported.
-Rare cases of transient visual disturbances (flashes, flashing lights, scotomata) typically occurring during drug infusion and in association with hypersensitivity reactions have been reported.
-These were reversible upon discontinuation of the infusion.
-Cases of cystoid macular edema (CME) have been reported in patients treated with docetaxel injection.
+Ophthalmologic: conjunctivitis, lacrimation or lacrimation with or without conjunctivitis, cystoid macular edema (CME).
+Excessive tearing which may be attributable to lacrimal duct obstruction.
+Transient visual disturbances (flashes, flashing lights, scotomata), typically occurring during drug infusion and reversible upon discontinuation of the infusion, in association with hypersensitivity reactions.
 
-Respiratory: dyspnea, acute pulmonary edema, acute respiratory distress syndrome/pneumonitis, interstitial lung disease, interstitial pneumonia, respiratory failure, and pulmonary fibrosis have rarely been reported and may be associated with fatal outcome.
-Rare cases of radiation pneumonitis have been reported in patients receiving concomitant radiotherapy.
+Respiratory: dyspnea, acute pulmonary edema, acute respiratory distress syndrome/pneumonitis, interstitial lung disease, interstitial pneumonia, respiratory failure, and pulmonary fibrosis, which may be fatal.
+Radiation pneumonitis in patients receiving concomitant radiotherapy.
 
-Renal: renal insufficiency and renal failure have been reported, the majority of these cases were associated with concomitant nephrotoxic drugs.
+Renal: renal insufficiency and renal failure, the majority of cases were associated with concomitant nephrotoxic drugs.
 
-Second Primary Malignancies: second primary malignancies, including AML, MDS, NHL, and renal cancer, have been reported in patients treated with docetaxel injection-containing regimens [see Warnings and Precautions (5.7)].
+Second Primary Malignancies: second primary malignancies, including AML, MDS, NHL, and renal cancer [see Warnings and Precautions (5.7)].
+
+Musculoskeletal Disorder: myositis.
