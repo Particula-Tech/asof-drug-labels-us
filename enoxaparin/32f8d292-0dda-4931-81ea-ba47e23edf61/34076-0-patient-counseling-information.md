@@ -20,4 +20,4 @@ Manufactured by: Nanjing King-Friend Biochemical Pharmaceutical Co., Ltd. Nanjin
 
 Revised: September 2022
 
-810047-02
+8A1NBN1-03
