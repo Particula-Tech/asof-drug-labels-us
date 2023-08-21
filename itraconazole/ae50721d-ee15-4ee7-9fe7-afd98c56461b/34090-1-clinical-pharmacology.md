@@ -8,8 +8,8 @@
 
 Peak plasma concentrations are reached within 2.5 hours following administration of the oral solution.
 As a consequence of non-linear pharmacokinetics, itraconazole accumulates in plasma during multiple dosing.
-Steady-state concentrations are generally reached within about 15 days, with C max and AUC values 4 to 7-fold higher than those seen after a single dose.
-Steady-state C max values of about 2 µg/mL are reached after oral administration of 200 mg once daily.
+Steady-state concentrations are generally reached within about 15 days, with C maxand AUC values 4 to 7-fold higher than those seen after a single dose.
+Steady-state C maxvalues of about 2 µg/mL are reached after oral administration of 200 mg once daily.
 The terminal half-life of itraconazole generally ranges from 16 to 28 hours after single dose and increases to 34 to 42 hours with repeated dosing.
 Once treatment is stopped, itraconazole plasma concentrations decrease to an almost undetectable concentration within 7 to 14 days, depending on the dose and duration of treatment.
 Itraconazole mean total plasma clearance following intravenous administration is 278 mL/min.
@@ -35,8 +35,8 @@ Concentrations in the cerebrospinal fluid are much lower than in plasma.
 #### Metabolism
 
 Itraconazole is extensively metabolized by the liver into a large number of metabolites.
-In vitro studies have shown that CYP3A4 is the major enzyme involved in the metabolism of itraconazole.
-The main metabolite is hydroxy-itraconazole, which has in vitro antifungal activity comparable to itraconazole; trough plasma concentrations of this metabolite are about twice those of itraconazole.
+In vitrostudies have shown that CYP3A4 is the major enzyme involved in the metabolism of itraconazole.
+The main metabolite is hydroxy-itraconazole, which has in vitroantifungal activity comparable to itraconazole; trough plasma concentrations of this metabolite are about twice those of itraconazole.
 
 #### Excretion
 
@@ -59,23 +59,23 @@ Overall exposure to itraconazole, based on AUC, was decreased in patients with m
 
 Data are not available in renally impaired patients during long-term use of itraconazole.
 Dialysis has no effect on the half-life or clearance of itraconazole or hydroxy-itraconazole.
-(See PRECAUTIONS and DOSAGE AND ADMINISTRATION.)
+(See PRECAUTIONSand DOSAGE AND ADMINISTRATION.)
 
 ### Hepatic Impairment
 
 Itraconazole is predominantly metabolized in the liver.
 A pharmacokinetic study was conducted in 6 healthy and 12 cirrhotic subjects who were administered a single 100-mg dose of itraconazole as capsule.
-A statistically significant reduction in mean C max (47%) and a twofold increase in the elimination half-life (37 ± 17 hours vs. 16 ± 5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
+A statistically significant reduction in mean C max(47%) and a twofold increase in the elimination half-life (37 ± 17 hours vs. 16 ± 5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
 However, overall exposure to itraconazole, based on AUC, was similar in cirrhotic patients and in healthy subjects.
 Data are not available in cirrhotic patients during long-term use of itraconazole.
-(See CONTRAINDICATIONS, PRECAUTIONS: Drug Interactions and DOSAGE AND ADMINISTRATION.)
+(See CONTRAINDICATIONS, PRECAUTIONS: Drug Interactionsand DOSAGE AND ADMINISTRATION.)
 
 ### Decreased Cardiac Contractility
 
 When itraconazole was administered intravenously to anesthetized dogs, a dose-related negative inotropic effect was documented.
 In a healthy volunteer study of itraconazole intravenous infusion, transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
-If signs or symptoms of congestive heart failure appear during administration of SPORANOX ® Oral Solution, monitor carefully and consider other treatment alternatives which may include discontinuation of SPORANOX ® Oral Solution administration.
-(See BOXED WARNING, CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions and ADVERSE REACTIONS: Post-marketing Experience for more information.)
+If signs or symptoms of congestive heart failure appear during administration of SPORANOX ®Oral Solution, monitor carefully and consider other treatment alternatives which may include discontinuation of SPORANOX ®Oral Solution administration.
+(See BOXED WARNING, CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactionsand ADVERSE REACTIONS: Post-marketing Experiencefor more information.)
 
 ### Cystic Fibrosis
 
@@ -83,7 +83,7 @@ Seventeen cystic fibrosis patients, ages 7 to 28 years old, were administered it
 Sixteen patients completed the study.
 Steady state trough concentrations >250 ng/mL were achieved in 6 out of 11 patients ≥16 years of age but in none of the 5 patients <16 years of age.
 Large variability was observed in the pharmacokinetic data (%CV for trough concentrations = 98% and 70% for ≥16 and <16 years, respectively; %CV for AUC = 75% and 58% for ≥16 and <16 years, respectively).
-If a patient with cystic fibrosis does not respond to SPORANOX ® Oral Solution, consideration should be given to switching to alternative therapy.
+If a patient with cystic fibrosis does not respond to SPORANOX ®Oral Solution, consideration should be given to switching to alternative therapy.
 
 ### Hydroxypropyl-β-Cyclodextrin
 
@@ -94,11 +94,11 @@ This low oral bioavailability of hydroxypropyl-β-cyclodextrin is not modified b
 
 ### Mechanism of Action
 
-In vitro studies have demonstrated that itraconazole inhibits the cytochrome P450-dependent synthesis of ergosterol, which is a vital component of fungal cell membranes.
+In vitrostudies have demonstrated that itraconazole inhibits the cytochrome P450-dependent synthesis of ergosterol, which is a vital component of fungal cell membranes.
 
 ### Antimicrobial Activity
 
-Itraconazole has been shown to be active against most strains of the following microorganism, both in vitro and in clinical infections.
+Itraconazole has been shown to be active against most strains of the following microorganism, both in vitroand in clinical infections.
 
 Candida albicans
 
@@ -108,20 +108,20 @@ For specific information regarding susceptibility test interpretive criteria and
 
 ### Drug Resistance
 
-Isolates from several fungal species with decreased susceptibility to itraconazole have been isolated in vitro and from patients receiving prolonged therapy.
+Isolates from several fungal species with decreased susceptibility to itraconazole have been isolated in vitroand from patients receiving prolonged therapy.
 
-Candida krusei, Candida glabrata and Candida tropicalis are generally the least susceptible Candida species, with some isolates showing unequivocal resistance to itraconazole in vitro.
+Candida krusei, Candida glabrataand Candida tropicalisare generally the least susceptible Candidaspecies, with some isolates showing unequivocal resistance to itraconazole in vitro.
 
-Itraconazole is not active against Zygomycetes (e.g., Rhizopus spp., Rhizomucor spp., Mucor spp. and Absidia spp.), Fusarium spp., Scedosporium spp. and Scopulariopsis spp.
+Itraconazole is not active against Zygomycetes(e.g., Rhizopusspp., Rhizomucorspp., Mucorspp. and Absidiaspp.), Fusariumspp., Scedosporiumspp. and Scopulariopsisspp.
 
 ### Cross-resistance
 
-In systemic candidosis, if fluconazole-resistant strains of Candida species are suspected, it cannot be assumed that these are sensitive to itraconazole, hence their sensitivity should be tested before the start of itraconazole therapy.
+In systemic candidosis, if fluconazole-resistant strains of Candidaspecies are suspected, it cannot be assumed that these are sensitive to itraconazole, hence their sensitivity should be tested before the start of itraconazole therapy.
 
-Several in vitro studies have reported that some fungal clinical isolates, including Candida species, with reduced susceptibility to one azole antifungal agent may also be less susceptible to other azole derivatives.
+Several in vitrostudies have reported that some fungal clinical isolates, including Candidaspecies, with reduced susceptibility to one azole antifungal agent may also be less susceptible to other azole derivatives.
 The finding of cross-resistance is dependent on a number of factors, including the species evaluated, its clinical history, the particular azole compounds compared, and the type of susceptibility test that is performed.
 
-Studies (both in vitro and in vivo) suggest that the activity of amphotericin B may be suppressed by prior azole antifungal therapy.
+Studies (both in vitroand in vivo) suggest that the activity of amphotericin B may be suppressed by prior azole antifungal therapy.
 As with other azoles, itraconazole inhibits the 14C-demethylation step in the synthesis of ergosterol, a cell wall component of fungi.
-Ergosterol is the active site for amphotericin B. In one study the antifungal activity of amphotericin B against Aspergillus fumigatus infections in mice was inhibited by ketoconazole therapy.
+Ergosterol is the active site for amphotericin B. In one study the antifungal activity of amphotericin B against Aspergillus fumigatusinfections in mice was inhibited by ketoconazole therapy.
 The clinical significance of test results obtained in this study is unknown.

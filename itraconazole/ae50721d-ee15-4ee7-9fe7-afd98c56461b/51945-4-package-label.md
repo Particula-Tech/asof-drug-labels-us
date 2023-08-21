@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 50458-295-15 150 mL
+NDC50458-295-15 150 mL
 
 SPORANOX ® (ITRACONAZOLE) ORAL SOLUTION
 
@@ -8,9 +8,9 @@ SPORANOX ® (ITRACONAZOLE) ORAL SOLUTION
 
 Each 1 mL contains: 10 mg of itraconazole in an aqueous solution.
 
-Dosage: For information concerning dosage and administration of SPORANOX ® (itraconazole) oral solution, please read accompanying Package Insert.
+Dosage:For information concerning dosage and administration of SPORANOX ®(itraconazole) oral solution, please read accompanying Package Insert.
 
-Storage: Store bottle at or below 25°C (77°F).
+Storage:Store bottle at or below 25°C (77°F).
 Do not freeze.
 
 Keep out of reach of children.
