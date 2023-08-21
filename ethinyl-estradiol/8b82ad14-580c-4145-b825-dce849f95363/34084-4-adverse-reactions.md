@@ -14,9 +14,9 @@ An increased risk of the following serious adverse reactions has been associated
 
 Post Marketing Experience
 
-Five studies that compared breast cancer risk between ever-users (current or past use) of COCs and never-users of COCs reported no association between ever use of COCs and breast cancer risk, with effect estimates ranging from 0.90 - 1.12 (Figure 1).
+Five studies that compared breast cancer risk between ever-users (current or past use) of COCs and never-users of COCs reported no association between ever use of COCs and breast cancer risk, with effect estimates ranging from 0.90 - 1.12 (Figure 1) (70-74).
 
-Three studies compared breast cancer risk between current or recent COC users (<6 months since last use) and never users of COCs (Figure 1).
+Three studies compared breast cancer risk between current or recent COC users (<6 months since last use) and never users of COCs (Figure 1) (70, 73, 75).
 One of these studies reported no association between breast cancer risk and COC use.
 The other two studies found an increased relative risk of 1.19 - 1.33 with current or recent use.
 Both of these studies found an increased risk of breast cancer with current use of longer duration, with relative risks ranging from 1.03 with less than one year of COC use to approximately 1.4 with more than 8-10 years of COC use.
@@ -50,7 +50,7 @@ The following adverse reactions have been reported in patients receiving oral co
 - Cholestatic jaundice
 - Migraine
 - Rash (allergic)
-- Mental depression
+- Depression
 - Reduced tolerance to carbohydrates
 - Vaginal candidiasis
 - Change in corneal curvature (steepening)

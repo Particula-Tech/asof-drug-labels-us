@@ -1,3 +1,5 @@
-Cigarette smoking increases the risk of serious cardiovascular side effects from oral contraceptive use.
-This risk increases with age and with heavy smoking (15 or more cigarettes per day) and is quite marked in women over 35 years of age.
-Women who use oral contraceptives should be strongly advised not to smoke.
+# WARNING: CIGARETTE SMOKING AND SERIOUS CARDIOVASCULAR EVENTS
+
+Cigarette smoking increases the risk of serious cardiovascular events from combination oral contraceptive (COC) use.
+This risk increases with age, particularly in women over 35 years of age, and with the number of cigarettes smoked.
+For this reason, COCs, including Junel, are contraindicated in women who are over 35 years of age and smoke (see CONTRAINDICATIONS and WARNINGS).

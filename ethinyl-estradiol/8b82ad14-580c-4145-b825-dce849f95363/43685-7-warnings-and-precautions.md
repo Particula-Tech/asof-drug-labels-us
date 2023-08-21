@@ -28,6 +28,12 @@ The risk is very low under the age of 30.
 Smoking in combination with oral contraceptive use has been shown to contribute substantially to the incidence of myocardial infarctions in women in their mid-thirties or older with smoking accounting for the majority of excess cases (17).
 Mortality rates associated with circulatory disease have been shown to increase substantially in smokers over the age of 35 and non-smokers over the age of 40 (Table II) among women who use oral contraceptives.
 
+TABLE II
+
+CIRCULATORY DISEASE MORTALITY RATES PER 100,000 WOMAN
+
+YEARS BY AGE, SMOKING STATUS AND ORAL CONTRACEPTIVE USE
+
 Adapted from P.M.
 Layde and V. Beral, Reference 18.
 
@@ -118,16 +124,19 @@ Epidemiology studies have not found a consistent association between use of comb
 Studies do not show an association between ever (current or past) use of COCs and risk of breast cancer.
 However, some studies report a small increase in the risk of breast cancer among current or recent users (<6 months since last use) and current users with longer duration of COC use (see ADVERSE REACTIONS, Postmarketing Experience).
 
-Cervical Cancer Some studies suggest that oral contraceptive use has been associated with an increase in the risk of cervical intraepithelial neoplasia in some populations of women (51-54).(However, there continues to be controversy about the extent to which such findings may be due to differences in sexual behavior and other factors.
+Cervical Cancer Some studies suggest that oral contraceptive use has been associated with an increase in the risk of cervical intraepithelial neoplasia in some populations of women (42-45).
+However, there continues to be controversy about the extent to which such findings may be due to differences in sexual behavior and other factors.
 
 ## 4. Hepatic Neoplasia
 
 Benign hepatic adenomas are associated with oral contraceptive use, although the incidence of benign tumors is rare in the United States.
-Indirect calculations have estimated the attributable risk to be in the range of 3.3 cases/100,000 for users, a risk that increases after four or more years of use (55).
-Rupture of rare, benign, hepatic adenomas may cause death through intra-abdominal hemorrhage (56,57).
+Indirect calculations have estimated the attributable risk to be in the range of 3.3 cases/100,000 for users, a risk that increases after four or more years of use (46).
+Rupture of rare, benign, hepatic adenomas may cause death through intra-abdominal hemorrhage (47, 48).
 
-Studies from Britain have shown an increased risk of developing hepatocellular carcinoma (58-60) in long-term (greater than 8 years) oral contraceptive users.
+Studies from Britain have shown an increased risk of developing hepatocellular carcinoma (49-51) in long-term (greater than 8 years) oral contraceptive users.
 However, these cancers are extremely rare in the U.S., and the attributable risk (the excess incidence) of liver cancers in oral contraceptive users approaches less than one per million users.
+
+.
 
 ## 5. Risk of Liver Enzyme Elevations with Concomitant Hepatitis C Treatment
 
@@ -143,8 +152,8 @@ Appropriate diagnostic and therapeutic measures should be undertaken immediately
 
 ## 7. Oral Contraceptive Use Before and During Early Pregnancy
 
-Extensive epidemiological studies have revealed no increased risk of birth defects in women who have used oral contraceptives prior to pregnancy (61-63).
-Studies also do not suggest a teratogenic effect, particularly insofar as cardiac anomalies and limb reduction defects are concerned (61,62,64,65), when taken inadvertently during early pregnancy.
+Extensive epidemiological studies have revealed no increased risk of birth defects in women who have used oral contraceptives prior to pregnancy (52-54).
+Studies also do not suggest a teratogenic effect, particularly insofar as cardiac anomalies and limb reduction defects are concerned (52, 53, 55, 56), when taken inadvertently during early pregnancy.
 
 The administration of oral contraceptives to induce withdrawal bleeding should not be used as a test for pregnancy.
 Oral contraceptives should not be used during pregnancy to treat threatened or habitual abortion.
@@ -155,29 +164,29 @@ Oral contraceptive use should be discontinued if pregnancy is confirmed.
 
 ## 8. Gallbladder Disease
 
-Earlier studies have reported an increased lifetime relative risk of gallbladder surgery in users of oral contraceptives and estrogens (66,67).
-More recent studies, however, have shown that the relative risk of developing gallbladder disease among oral contraceptive users may be minimal (68-70).
+Earlier studies have reported an increased lifetime relative risk of gallbladder surgery in users of oral contraceptives and estrogens (57, 58).
+More recent studies, however, have shown that the relative risk of developing gallbladder disease among oral contraceptive users may be minimal (59-61).
 The recent findings of minimal risk may be related to the use of oral contraceptive formulations containing lower hormonal doses of estrogens and progestogens.
 
 ## 9. Carbohydrate And Lipid Metabolic Effects
 
 Oral contraceptives have been shown to cause glucose intolerance in a significant percentage of users (23).
-Oral contraceptives containing greater than 75 mcg of estrogens cause hyperinsulinism, while lower doses of estrogen cause less glucose intolerance (71).
-Progestogens increase insulin secretion and create insulin resistance, this effect varying with different progestational agents (23,72).
-However, in the non-diabetic woman, oral contraceptives appear to have no effect on fasting blood glucose (73).
+Oral contraceptives containing greater than 75 mcg of estrogens cause hyperinsulinism, while lower doses of estrogen cause less glucose intolerance (62).
+Progestogens increase insulin secretion and create insulin resistance, this effect varying with different progestational agents (23, 63).
+However, in the non-diabetic woman, oral contraceptives appear to have no effect on fasting blood glucose (64).
 Because of these demonstrated effects, prediabetic and diabetic women should be carefully observed while taking oral contraceptives.
 
 A small proportion of women will have persistent hypertriglyceridemia while on the pill.
-As discussed earlier (see WARNINGS 1a.and 1d.), changes in serum triglycerides and lipoprotein levels have been reported in oral contraceptive users.
+As discussed earlier (see WARNINGS 1a. and 1d.), changes in serum triglycerides and lipoprotein levels have been reported in oral contraceptive users.
 
 ## 10. Elevated Blood Pressure
 
-An increase in blood pressure has been reported in women taking oral contraceptives (74) and this increase is more likely in older oral contraceptive users (75) and with continued use (74).
+An increase in blood pressure has been reported in women taking oral contraceptives (65) and this increase is more likely in older oral contraceptive users (66) and with continued use (65).
 Data from the Royal College of General Practitioners (18) and subsequent randomized trials have shown that the incidence of hypertension increases with increasing concentrations of progestogens.
 
-Women with a history of hypertension or hypertension-related diseases or renal disease (76) should be encouraged to use another method of contraception.
+Women with a history of hypertension or hypertension-related diseases or renal disease (67) should be encouraged to use another method of contraception.
 If women elect to use oral contraceptives, they should be monitored closely, and if significant elevation of blood pressure occurs, oral contraceptives should be discontinued.
-For most women, elevated blood pressure will return to normal after stopping oral contraceptives (75), and there is no difference in the occurrence of hypertension among ever and never users (74,76,77).
+For most women, elevated blood pressure will return to normal after stopping oral contraceptives (66), and there is no difference in the occurrence of hypertension among ever and never users (65, 67, 68).
 
 ## 11. Headache
 
@@ -192,9 +201,17 @@ In the event of amenorrhea, pregnancy should be ruled out.
 
 Some women may encounter post-pill amenorrhea or oligomenorrhea, especially when such a condition was preexistent.
 
+## 13. Hereditary Angioedema
+
+In women with hereditary angioedema, exogenous estrogens may induce or exacerbate symptoms of angioedema.
+
+## 14. Depression
+
+Carefully observe women with a history of depression and discontinue Junel if depression recurs to a serious degree.
+
 # PRECAUTIONS
 
-## 1. Patients should be counseled that this product does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
+## 1. Patients should be counseled that this product does not protect against HIV infection (AIDS) and other sexually transmitted infections.
 
 ## 2. Physical Examination and Follow-Up
 
@@ -219,17 +236,13 @@ Steroid hormones may be poorly metabolized in patients with impaired liver funct
 Oral contraceptives may cause some degree of fluid retention.
 They should be prescribed with caution, and only with careful monitoring, in patients with conditions which might be aggravated by fluid retention.
 
-## 6. Emotional Disorders
-
-Women with a history of depression should be carefully observed and the drug discontinued if depression recurs to a serious degree.
-
-## 7. Contact Lenses
+## 6. Contact Lenses
 
 Contact lens wearers who develop visual changes or changes in lens tolerance should be assessed by an ophthalmologist.
 
-## 8. Drug Interactions
+## 7. Drug Interactions
 
-Effects of Other Drugs on Oral Contraceptives (78)
+Effects of Other Drugs on Oral Contraceptives (69)
 
 Rifampin: Metabolism of both norethindrone and ethinyl estradiol is increased by rifampin.
 A reduction in contraceptive effectiveness and increased incidence of breakthrough bleeding and menstrual irregularities have been associated with concomitant use of rifampin.
@@ -243,7 +256,8 @@ However, clinical pharmacokinetic studies have not demonstrated any consistent e
 
 Atorvastatin: Coadministratrion of atorvastatin and an oral contraceptive increased AUC values for norethindrone and ethinyl estradiol by approximately 30% and 20%, respectively.
 
-Concomitant Use with HCV Combination Therapy– Liver Enzyme Elevation Do not co-administer Junel with HCV drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to potential for ALT elevations (see Warnings, RISK OF LIVER ENZYME ELEVATIONS WITH CONCOMITANT HEPATITIS C TREATMENT).
+Concomitant Use with HCV Combination Therapy– Liver Enzyme Elevation Coadministration of Junel with HCV drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir is contraindicated due to potential for ALT elevations (see Warnings,RISK OF LIVER ENZYME ELEVATIONS WITH CONCOMITANT HEPATITIS C TREATMENT).
+Coadministration of Junel and glecaprevir/pibrentasvir is not recommended due to potential for ALT elevations.
 
 Other: Ascorbic acid and acetaminophen may increase plasma ethinyl estradiol concentrations, possibly by inhibition of conjugation.
 A reduction in contraceptive effectiveness and increased incidence of breakthrough bleeding has been suggested with phenylbutazone.
@@ -255,7 +269,7 @@ Increased plasma concentrations of cyclosporine, prednisolone, and theophylline 
 In addition, oral contraceptives may induce the conjugation of other compounds.
 Decreased plasma concentrations of acetaminophen and increased clearance of temazepam, salicylic acid, morphine, and clofibric acid have been noted when these drugs were administered with oral contraceptives.
 
-## 9. Interactions With Laboratory Tests
+## 8. Interactions With Laboratory Tests
 
 Certain endocrine and liver function tests and blood components may be affected by oral contraceptives:
 
@@ -269,21 +283,22 @@ Certain endocrine and liver function tests and blood components may be affected 
 7. Serum folate levels may be depressed by oral contraceptive therapy.
    This may be of clinical significance if a woman becomes pregnant shortly after discontinuing oral contraceptives.
 
-## 10. Carcinogenesis
+## 9. Carcinogenesis
 
 See WARNINGS section.
 
-## 11. Pregnancy
+## 10. Pregnancy
 
-See CONTRAINDICATIONS and WARNINGS sections.
+Discontinue Junel if pregnancy occurs because there is no reason to use COCs in pregnancy.
+See WARNINGS section.
 
-## 12. Nursing Mothers
+## 11. Lactation
 
-Small amounts of oral contraceptive steroids have been identified in the milk of nursing mothers, and a few adverse effects on the child have been reported, including jaundice and breast enlargement.
-In addition, oral contraceptives, given in the postpartum period may interfere with lactation by decreasing the quantity and quality of breast milk.
+Small amounts of oral contraceptive steroids have been identified in human milk, and a few adverse effects on the child have been reported, including jaundice and breast enlargement.
+In addition, oral contraceptives given in the postpartum period may interfere with lactation by decreasing the quantity and quality of breast milk.
 If possible, the nursing mother should be advised not to use oral contraceptives but to use other forms of contraception until she has completely weaned her child.
 
-## 13. Pediatric Use
+## 12. Pediatric Use
 
 Safety and efficacy of Junel have been established in women of reproductive age.
 Safety and efficacy are expected to be the same for postpubertal adolescents under the age of 16 and for users 16 years and older.

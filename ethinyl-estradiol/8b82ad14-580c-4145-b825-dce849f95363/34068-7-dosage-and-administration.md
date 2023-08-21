@@ -4,8 +4,8 @@ The tablet dispenser has been designed to make oral contraceptive dosing as easy
 The tablets are arranged in either three or four rows of seven tablets each, with the days of the week appearing on the tablet dispenser above the first row of tablets.
 
 Note: Each tablet dispenser has been preprinted with the days of the week, starting with Sunday, to facilitate a Sunday-Start regimen.
-Six different days of the week stickers have been provided with the Detailed Patient & Brief Summary Patient Package Insert in order to accommodate a Day-1 Start regimen.
-If the patient is using the Day-1 Start regimen, she should place the self-adhesive days of the week sticker that corresponds to her starting day over the preprinted days.
+Six different day label strips have been provided with the Detailed Patient & Brief Summary Patient Package Insert in order to accommodate a Day-1 Start regimen.
+If the patient is using the Day-1 Start regimen, she should place the self-adhesive day label strip that corresponds to her starting day over the preprinted days.
 
 Important: The patient should be instructed to use an additional method of protection until after the first week of administration in the initial cycle when utilizing the Sunday-Start regimen.
 
@@ -19,18 +19,18 @@ Two dosage regimens are described, one of which may be more convenient or suitab
 For the initial cycle of therapy, the patient begins her tablets according to the Day-1 Start or Sunday-Start regimen.
 With either regimen, the patient takes one tablet daily for 21 consecutive days followed by one week of no tablets.
 
-1. Sunday-Start Regimen:The patient begins taking tablets from the top row on the first Sunday after menstrual flow begins.
+1. Sunday-Start Regimen: The patient begins taking tablets from the top row on the first Sunday after menstrual flow begins.
    When menstrual flow begins on Sunday, the first tablet is taken on the same day.
    The last tablet in the dispenser will then be taken on a Saturday, followed by no tablets for a week (7 days).
    For all subsequent cycles, the patient then begins a new 21-tablet regimen on the eighth day, Sunday, after taking her last tablet.
    Following this regimen, of 21 days on--7 days off, the patient will start all subsequent cycles on a Sunday.
-2. Day-1 Regimen:The first day of menstrual flow is Day 1.
-   The patient places the self-adhesive days of the week sticker that corresponds to her starting day over the preprinted days on the blister card.
+2. Day-1 Regimen: The first day of menstrual flow is Day 1.
+   The patient places the self-adhesive day label strip that corresponds to her starting day over the preprinted days on the tablet dispenser.
    She starts taking one tablet daily, beginning with the first tablet in the top row.
    The patient completes her 21-tablet regimen when she has taken the last tablet in the tablet dispenser.
    She will then take no tablets for a week (7 days).
-   For all subsequent cycles, the patient begins a new 21-tablet regimen on the eighth day after taking her last tablet, again starting with the first tablet in the top row after placing the appropriate days of the week sticker over the preprinted days on the blister card.
-   Following this regimen of 21 days on--7 days off, the patient will start all subsequent cycles on the same day of the week as the first course.
+   For all subsequent cycles, the patient begins a new 21-tablet regimen on the eighth day after taking her last tablet, again starting with the first tablet in the top row after placing the appropriate day label strip over the preprinted days on the tablet dispenser.
+   Following this regimen of 21 days on - 7 days off, the patient will start all subsequent cycles on the same day of the week as the first course.
    Likewise, the interval of no tablets will always start on the same day of the week.
 
 Tablets should be taken regularly with a meal or at bedtime.
@@ -106,15 +106,14 @@ There is no need for the patient to count days between cycles because there are 
    Upon completion of all 21 light yellow or pink tablets, and without interruption, the patient takes one brown tablet daily for 7 days.
    Upon completion of this first course of tablets, the patient begins a second course of 28-day tablets, without interruption, the next day (Sunday), starting with the Sunday light yellow or pink tablet in the top row.
    Adhering to this regimen of one light yellow or pink tablet daily for 21 days, followed without interruption by one brown tablet daily for seven days, the patient will start all subsequent cycles on a Sunday.
-2. Day-1 Regimen: The first day of menstrual flow is Day 1.
-   The patient places the self-adhesive days of the week sticker that corresponds to her starting day over the preprinted days on the blister card.
+2. Day-1 Start Regimen: The first day of menstrual flow is Day 1.
+   The patient places the self-adhesive day label strip that corresponds to her starting day over the preprinted days on the tablet dispenser.
    She starts taking one light yellow or pink tablet daily, beginning with the first light yellow or pink tablet in the top row.
    After the last light yellow or pink tablet (at the end of the third row) has been taken, the patient will then take the brown tablets for a week (7 days).
-   For all subsequent cycles, the patient begins a new 28 tablet regimen on the eighth day after taking her last light yellow or pink tablet, again starting with the first tablet in the top row after placing the appropriate days of the week sticker over the preprinted days on the blister card.
+   For all subsequent cycles, the patient begins a new 28 tablet regimen on the eighth day after taking her last light yellow or pink tablet, again starting with the first tablet in the top row after placing the appropriate day label strip over the preprinted days on the tablet dispenser.
    Following this regimen of 21 light yellow or pink tablets and 7 brown tablets, the patient will start all subsequent cycles on the same day of the week as the first course.
-
-Tablets should be taken regularly with a meal or at bedtime.
-It should be stressed that efficacy of medication depends on strict adherence to the dosage schedule.
+   Tablets should be taken regularly with a meal or at bedtime.
+   It should be stressed that efficacy of medication depends on strict adherence to the dosage schedule.
 
 ## Special Notes on Administration
 

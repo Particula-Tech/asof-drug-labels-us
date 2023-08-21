@@ -4,7 +4,7 @@
 | --- |
 
 This product (like all oral contraceptives) is intended to prevent pregnancy.
-It does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
+It does not protect against HIV infection (AIDS) and other sexually transmitted infections.
 
 What You Should Know About Oral Contraceptives
 
@@ -66,13 +66,12 @@ You should also not use the pill if you have any of the following conditions:
 - Blood clots in the legs (thrombophlebitis), lungs (pulmonary embolism), or eyes
 - A history of blood clots in the deep veins of your legs
 - Chest pain (angina pectoris)
-- Known or suspected breast cancer or cancer of the lining of the uterus, cervix or vagina
+- Known or suspected breast cancer
 - Unexplained vaginal bleeding (until a diagnosis is reached by your doctor)
 - Yellowing of the whites of the eyes or of the skin (jaundice) during pregnancy or during previous use of the pill
 - Liver tumor (benign or cancerous)
 - Take any Hepatitis C drug combination containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir.
   This may increase levels of the liver enzyme “alanine aminotransferase” (ALT) in the blood.
-- Known or suspected pregnancy
 
 Tell your healthcare provider if you have ever had any of these conditions.
 Your healthcare provider can recommend a safer method of birth control.
@@ -86,7 +85,7 @@ Tell your healthcare provider if you have:
 - Elevated cholesterol or triglycerides
 - High blood pressure
 - Migraine or other headaches or epilepsy
-- Mental depression
+- Depression
 - Gallbladder, heart, or kidney disease
 - History of scanty or irregular menstrual periods
 
@@ -115,7 +114,8 @@ RISKS OF TAKING ORAL CONTRACEPTIVES
    However, liver cancers are extremely rare.
    The chance of developing liver cancer from using the pill is thus even rarer.
 5. Risk of Cancer It is not known if hormonal birth control pills cause breast cancer.
-   Some studies, but not all, suggest that there could be a slight increase in the risk of breast cancer among current users with longer duration of use.If you have breast cancer now, or have had it in the past, do not use hormonal birth control because some breast cancers are sensitive to hormones.Some studies have found an increase in the incidence of cancer of the cervix in women who use oral contraceptives.
+   Some studies, but not all, suggest that there could be a slight increase in the risk of breast cancer among current users with longer duration of use.
+   If you have breast cancer now, or have had it in the past, do not use hormonal birth control because some breast cancers are sensitive to hormones.Some studies have found an increase in the incidence of cancer of the cervix in women who use oral contraceptives.
    However, this finding may be related to factors other than the use of oral contraceptives.
 
 ESTIMATED RISK OF DEATH FROM A BIRTH CONTROL METHOD OR PREGNANCY
@@ -206,7 +206,7 @@ GENERAL PRECAUTIONS
    These drugs include acetaminophen, clofibric acid, cyclosporine, morphine, prednisolone, salicylic acid, temazepam, and theophylline.
    You should tell your doctor if you are taking any of these medications.
 5. This product (like all oral contraceptives) is intended to prevent pregnancy.
-   It does not protect against transmission of HIV (AIDS) and other sexually transmitted diseases such as Chlamydia, genital herpes, genital warts, gonorrhea, hepatitis B, and syphilis.
+   It does not protect against transmission of HIV (AIDS) and other sexually transmitted infections such as Chlamydia, genital herpes, genital warts, gonorrhea, hepatitis B, and syphilis.
 
 INSTRUCTIONS TO PATIENT
 
@@ -289,7 +289,7 @@ DAY-1 START:
 
 1. Pick the day label strip that starts with the first day of your period.
    (This is the day you start bleeding or spotting, even if it is almost midnight when the bleeding begins.)
-2. Place the day label strip on the tablet dispenser over the area that has the days of the week (starting with Sunday) printed on the plastic.
+2. Place this day label strip on the tablet dispenser over the area that has the days of the week (starting with Sunday) printed on the plastic.
 3. Take the first “active” light yellow or pink pill of the first pack during the first 24 hours of your period.
 4. You will not need to use a back-up method of birth control, since you are starting the pill at the beginning of your period.
 
@@ -329,8 +329,8 @@ If you MISS 2 light yellow or pink “active” pills in a row in WEEK 1 OR WEEK
 
 If you MISS 2 light yellow or pink “active” pills in a row in THE 3rd WEEK:
 
-1. If you are a Day 1 Starter THROW OUT the rest of the pill pack and start a new pack that same day.
-   If you are a Sunday Starter Keep taking 1 pill every day until Sunday.
+1. If you are a Day 1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
+   If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
    On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
 2. You may not have your period this month, but this is expected.
    However, if you miss your period 2 months in a row, call your doctor or clinic because you might be pregnant.
@@ -436,6 +436,6 @@ Brands listed are the trademarks of their respective owners.
 Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-C 7/2022
+D 8/2023
 
 To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1800-FDA-1088 or www.fda.gov/medwatch.

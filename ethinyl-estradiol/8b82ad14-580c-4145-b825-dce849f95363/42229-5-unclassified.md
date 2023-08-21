@@ -28,15 +28,27 @@ Each brown tablet contains 75 mg ferrous fumarate, USP.)
 
 Rx only
 
-Patients should be counseled that this product does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
+# PATIENT COUNSELING INFORMATION
 
-# INFORMATION FOR THE PATIENT
+Advise the patient to read the FDA-approved patient labeling (PATIENT PACKAGE INSERT BRIEF SUMMARY and DETAILED PATIENT PACKAGE INSERT).
 
-- See patient labeling printed below.
+- Counsel patients that cigarette smoking increases the risk of serious cardiovascular events from COC use, and that women who are over 35 years old and smoke should not use COCs (see BOXED WARNING and CONTRAINDICATIONS).
+- Counsel patients that the increased risk of venous thromboembolism compared to non-users of CHCs is greatest after initially starting a CHC or restarting (following a 4-week or greater interruption in intake) the same or a different CHC (see WARNINGS).
+- Counsel patients that this product does not protect against HIV-infection (AIDS) and other sexually transmitted infections.
+- Counsel patients to take one tablet daily by mouth at the same time every day.
+  Instruct patients what to do in the event pills are missed (see DOSAGE AND ADMINISTRATION).
+- Counsel patients to use a back-up or alternative method of contraception when enzyme inducers are used with COCs (see PRECAUTIONS).
+- Counsel patients who are breastfeeding or who desire to breastfeed that COCs may reduce breast milk production.
+  This is less likely to occur if breastfeeding is well established (see PRECAUTIONS).
+- Counsel any patient who starts Junel postpartum, and who has not yet had a period, to use an additional method of contraception until she has taken a light-orange tablet for 7 consecutive days (see DOSAGE AND ADMINISTRATION).
+- Counsel patients that amenorrhea may occur.
+  Pregnancy should be considered in the event of amenorrhea, and should be ruled out if amenorrhea is associated with symptoms of pregnancy, such as morning sickness or unusual breast tenderness (see WARNINGS).
+- Counsel patients with a history of depression that depression may reoccur.
+  Women should contact their healthcare provider if depression occurs (see WARNINGS).
 
 # NON-CONTRACEPTIVE HEALTH BENEFITS
 
-The following non-contraceptive health benefits related to the use of oral contraceptives are supported by epidemiological studies which largely utilized oral contraceptive formulations containing estrogen doses exceeding 0.035 mg of ethinyl estradiol or 0.05 mg of mestranol (79-84).
+The following non-contraceptive health benefits related to the use of oral contraceptives are supported by epidemiological studies which largely utilized oral contraceptive formulations containing estrogen doses exceeding 0.035 mg of ethinyl estradiol or 0.05 mg of mestranol (76-81).
 
 Effects on menses:
 
@@ -59,7 +71,7 @@ Effects from long-term use:
 # BRIEF SUMMARY PATIENT PACKAGE INSERT
 
 This product (like all oral contraceptives) is intended to prevent pregnancy.
-It does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
+It does not protect against HIV infection (AIDS) and other sexually transmitted infections.
 
 Oral contraceptives, also known as “birth control pills” or “the pill,” are taken to prevent pregnancy and, when taken correctly, have a failure rate of about 1% per year when used without missing any pills.
 The typical failure rate of large numbers of pill users is less than 3% per year when women who miss pills are included.
@@ -72,7 +84,7 @@ The risks associated with taking oral contraceptives increase significantly if y
 
 - Smoke
 - Have high blood pressure, diabetes, high cholesterol
-- Have or have had clotting disorders, heart attack, stroke, angina pectoris, cancer of the breast or sex organs, jaundice, or malignant or benign liver tumors.
+- Have or have had clotting disorders, heart attack, stroke, angina pectoris, cancer of the breast, jaundice, or malignant or benign liver tumors.
 
 You should not take the pill if you suspect you are pregnant or have unexplained vaginal bleeding.
 
@@ -111,7 +123,7 @@ You should be reexamined at least once a year while taking oral contraceptives.
 The detailed patient information leaflet gives you further information which you should read and discuss with your healthcare provider.
 
 This product (like all oral contraceptives) is intended to prevent pregnancy.
-It does not protect against transmission of HIV (AIDS) and other sexually transmitted diseases such as Chlamydia, genital herpes, genital warts, gonorrhea, hepatitis B and syphilis.
+It does not protect against transmission of HIV (AIDS) and other sexually transmitted infections such as Chlamydia, genital herpes, genital warts, gonorrhea, hepatitis B and syphilis.
 
 INSTRUCTIONS TO PATIENT
 
@@ -167,8 +179,7 @@ BEFORE YOU START TAKING YOUR PILLS
    It is important to take it at about the same time every day.
 2. LOOK AT YOUR PILL PACK TO SEE IF IT HAS 21 OR 28 PILLS: The 21-Day pill pack has 21 “active” light yellow or pink pills (with hormones) to take for 3 weeks, followed by 1 week without pills.
    The 28-Day pill pack has 21 “active” light yellow or pink pills (with hormones) to take for 3 weeks, followed by 1 week of reminder brown pills (without hormones).
-3. ALSO FIND: 1) where on the pack to start taking pills, 2) in what order to take the pills.
-   3) the week numbers as shown in the following pictures:
+3. ALSO FIND: 1) where on the pack to start taking pills, 2) in what order to take the pills (follow the arrows), and 3) the week numbers as shown in the following pictures:
 
 Junel 21 1/20 will contain:ALL LIGHT YELLOW PILLS
 
@@ -194,11 +205,11 @@ DAY-1 START:
 
 1. Pick the day label strip that starts with the first day of your period.
    (This is the day you start bleeding or spotting, even if it is almost midnight when the bleeding begins.)
-2. Place the day label strip on the tablet dispenser over the area that has the days of the week (starting with Sunday) printed on the plastic.
+2. Place this day label strip on the tablet dispenser over the area that has the days of the week (starting with Sunday) printed on the plastic.
 3. Take the first “active” light yellow or pink pill of the first pack during the first 24 hours of your period.
 4. You will not need to use a back-up method of birth control, since you are starting the pill at the beginning of your period.
 
-SUNDAY-START:
+SUNDAY START:
 
 1. Take the first “active” light yellow or pink pill of the first pack on the Sunday after your period starts, even if you are still bleeding.
    If your period begins on Sunday, start the pack that same day.
@@ -234,8 +245,8 @@ If you MISS 2 light yellow or pink “active” pills in a row in WEEK 1 OR WEEK
 
 If you MISS 2 light yellow or pink “active” pills in a row in THE 3rd WEEK:
 
-1. If you are a Day 1 Starter THROW OUT the rest of the pill pack and start a new pack that same day.
-   If you are a Sunday Starter Keep taking 1 pill every day until Sunday.
+1. If you are a Day-1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
+   If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
    On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
 2. You may not have your period this month, but this is expected.
    However, if you miss your period 2 months in a row, call your doctor or clinic because you might be pregnant.
