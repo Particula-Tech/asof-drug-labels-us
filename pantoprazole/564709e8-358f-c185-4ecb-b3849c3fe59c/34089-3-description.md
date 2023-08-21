@@ -16,4 +16,4 @@ Pantoprazole sodium USP is supplied as a delayed-release tablet, available in tw
 
 Pantoprazole sodium delayed-release tablets USP contains the following inactive ingredients: ammonium hydroxide, calcium stearate, crospovidone, hydroxypropyl cellulose, hypromellose, iron oxide black, isopropyl alcohol, mannitol, methacrylic acid copolymer, methylated spirit, N-butyl alcohol, polyethylene glycol, propylene glycol, shellac, sodium carbonate anhydrous, synthetic yellow iron oxide, talc, titanium dioxide, triethyl citrate, zein.
 
-Pantoprazole sodium delayed-release tablets meets USP dissolution test 2.
+Pantoprazole sodium delayed-release tablets meets USP dissolution test 5.

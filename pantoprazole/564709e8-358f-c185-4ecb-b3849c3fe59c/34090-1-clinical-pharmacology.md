@@ -71,7 +71,7 @@ Pantoprazole does not accumulate, and its pharmacokinetics are unaltered with mu
 Following oral or intravenous administration, the serum concentration of pantoprazole declines biexponentially, with a terminal elimination half-life of approximately one hour.
 
 In extensive metabolizers with normal liver function receiving an oral dose of the enteric-coated 40 mg pantoprazole tablet, the peak concentration (Cmax) is 2.5 mcg/mL; the time to reach the peak concentration (tmax) is 2.5 h, and the mean total area under the plasma concentration versus time curve (AUC) is 4.8 mcg•h/mL (range 1.4 to 13.3 mcg•h/mL).
-Following intravenous administration of pantoprazole to extensive metabolizers, its total clearance is 7.6 to 14 L/h, and its apparent volume of distribution is 11 to 23.6 L.
+Following intravenous administration of pantoprazole to extensive metabolizers, its total clearance is 7.6 to 14.0 L/h, and its apparent volume of distribution is 11.0 to 23.6 L.
 
 Absorption
 
@@ -128,7 +128,7 @@ Table 7: PK Parameters in Children and Adolescents 6 through 16 years with GERD 
 |  | 6 to 11 years (n=12) | 12 to 16 years (n=11) |
 | --- | --- | --- |
 | Cmax (mcg/mL)a | 1.8 | 1.8 |
-| tmax (h)b | 2 | 2 |
+| tmax (h)b | 2.0 | 2.0 |
 | AUC (mcg•h/mL)a | 6.9 | 5.5 |
 | CL/F (L/h)b | 6.6 | 6.8 |
 

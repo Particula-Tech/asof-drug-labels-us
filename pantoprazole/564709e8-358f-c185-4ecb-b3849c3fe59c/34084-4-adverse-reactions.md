@@ -8,13 +8,15 @@ The following serious adverse reactions are described below and elsewhere in lab
 
 • Bone Fracture [see Warnings and Precautions(5.4)]
 
-• Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions(5.5)]
+• Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
 
-• Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions(5.6)]
+• Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions(5.6)]
 
-• Hypomagnesemia [see Warnings and Precautions(5.7)]
+• Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions(5.7)]
 
-• Fundic Gland Polyps [see Warnings and Precautions (5.9)]
+• Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions(5.8)]
+
+• Fundic Gland Polyps [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -33,11 +35,11 @@ Table 3: Adverse Reactions Reported in Clinical Trials of Adult Patients with GE
 | --- | --- | --- | --- |
 | Headache | 12.2 | 12.8 | 8.5 |
 | Diarrhea | 8.8 | 9.6 | 4.9 |
-| Nausea | 7 | 5.2 | 9.8 |
+| Nausea | 7.0 | 5.2 | 9.8 |
 | Abdominal pain | 6.2 | 4.1 | 6.1 |
 | Vomiting | 4.3 | 3.5 | 2.4 |
 | Flatulence | 3.9 | 2.9 | 3.7 |
-| Dizziness | 3 | 2.9 | 1.2 |
+| Dizziness | 3.0 | 2.9 | 1.2 |
 | Arthralgia | 2.8 | 1.4 | 1.2 |
 
 Additional adverse reactions that were reported for pantoprazole sodium in clinical trials with a frequency of ≤ 2% are listed below by body system:
@@ -106,7 +108,7 @@ Infections and Infestations: Clostridium difficile associated diarrhea
 
 Investigations: weight changes
 
-Metabolism and Nutritional Disorders: hyponatremia, hypomagnesemia
+Metabolism and Nutritional Disorders: hypomagnesemia, hypocalcemia, hypokalemia, hyponatremia
 
 Musculoskeletal Disorders: rhabdomyolysis, bone fracture
 
@@ -114,6 +116,6 @@ Nervous: ageusia, dysgeusia
 
 Psychiatric Disorders: hallucination, confusion, insomnia, somnolence
 
-Renal and Urinary Disorders: acute tubulointerstitial nephritis
+Renal and Genitourinary Disorders: acute tubulointerstitial nephritis,erectile dysfunction
 
-Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal), angioedema (Quincke's edema) and cutaneous lupus erythematosus
+Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, SJS/TEN, DRESS, AGEP, angioedema (Quincke's edema) and cutaneous lupus erythematosus

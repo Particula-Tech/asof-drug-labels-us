@@ -18,21 +18,25 @@ Bone Fracture
 
 Advise patients to report any fractures, especially of the hip, wrist or spine, to their healthcare provider [see Warnings and Precautions (5.4)].
 
+Severe Cutaneous Adverse Reactions
+
+Advise patients to discontinue pantoprazole sodium delayed-release tablets and immediately call their healthcare provider for further evaluation [see Warnings and Precautions (5.5)].
+
 Cutaneous and Systemic Lupus Erythematosus
 
-Advise patients to immediately call their healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.5)].
+Advise patients to immediately call their healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.6)].
 
 Cyanocobalamin (Vitamin B-12)
 
-Deficiency Advise patients to report any clinical symptoms that may be associated with cyancobalamin deficiency to their healthcare provider if they have been receiving pantoprazole sodium for longer than 3 years [see Warnings and Precautions (5.6)].
+Deficiency Advise patients to report any clinical symptoms that may be associated with cyancobalamin deficiency to their healthcare provider if they have been receiving pantoprazole sodium for longer than 3 years [see Warnings and Precautions (5.7)].
 
-Hypomagnesemia
+Hypomagnesemia and Mineral Metabolism
 
-Advise patients to report any clinical symptoms that may be associated with hypomagnesemia to their healthcare provider, if they have been receiving pantoprazole sodium for at least 3 months [see Warnings and Precautions (5.7)].
+Advise patients to report any clinical symptoms that may be associated with hypomagnesemia,hypocalcemia and/or hypokalemia to their healthcare provider, if they have been receiving pantoprazole sodium for at least 3 months [see Warnings and Precautions (5.8)].
 
 Drug Interactions
 
-Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [see Contraindications (4)] digoxin [see Warnings and Precautions (5.7)] and high dose methotrexate [see Warnings and Precautions (5.12)].
+Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [see Contraindications (4)], digoxin [see Warnings and Precautions (5.8)] and high dose methotrexate [see Warnings and Precautions (5.13)].
 
 Pregnancy
 
