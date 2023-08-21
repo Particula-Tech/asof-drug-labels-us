@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA018261"
+  ],
+  "inn": "oxytocin",
+  "labeler": "Par Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "42023-116-73",
+    "42023-116-83"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "oxytocin",
+      "name": "Pitocin"
+    }
+  ],
+  "setid": "dddcdcc3-cd4d-4573-98ac-9468bea23a8b",
+  "source": "dailymed"
+}
