@@ -17,7 +17,7 @@ Clinical Trials in Adults
 
 Adverse Reactions in Adults with No Prior Antiretroviral Treatment History
 
-The safety profile of SYMTUZA in HIV-1 infected adults with no prior antiretroviral treatment history is based on Week 48 data from the AMBER trial, a randomized, double-blind, active-controlled trial where a total of 362 subjects received SYMTUZA once daily and 363 subjects received a combination of PREZCOBIX ® (fixed-dose combination of darunavir and cobicistat) and fixed-dose combination of emtricitabine and tenofovir disoproxil fumarate (FTC/TDF).
+The safety profile of SYMTUZA in HIV-1 infected adults with no prior antiretroviral treatment history is based on Week 48 data from the AMBER trial, a randomized, double-blind, active-controlled trial where a total of 362 subjects received SYMTUZA once daily and 363 subjects received a combination of PREZCOBIX ®(fixed-dose combination of darunavir and cobicistat) and fixed-dose combination of emtricitabine and tenofovir disoproxil fumarate (FTC/TDF).
 
 The proportion of subjects who discontinued treatment with SYMTUZA or PREZCOBIX+FTC/TDF due to adverse events, regardless of severity, were 2% and 4% respectively.
 

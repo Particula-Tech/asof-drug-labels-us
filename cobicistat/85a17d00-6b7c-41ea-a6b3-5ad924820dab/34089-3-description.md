@@ -1,11 +1,11 @@
 # 11. DESCRIPTION
 
-SYMTUZA ® (darunavir, cobicistat, emtricitabine, and tenofovir alafenamide) is a fixed-dose combination tablet.
+SYMTUZA ®(darunavir, cobicistat, emtricitabine, and tenofovir alafenamide) is a fixed-dose combination tablet.
 
 - Darunavir is an inhibitor of the HIV-1 protease.
 - Cobicistat is a mechanism-based inhibitor of cytochrome P450 (CYP) enzymes of the CYP3A family.
 - Emtricitabine, a synthetic nucleoside analog of cytidine, is an HIV nucleoside analog reverse transcriptase inhibitor (HIV NRTI).
-- Tenofovir alafenamide, an HIV NRTI, is converted in vivo to tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5′-monophosphate.
+- Tenofovir alafenamide, an HIV NRTI, is converted in vivoto tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5′-monophosphate.
 
 SYMTUZA tablets are for oral administration.
 Each tablet contains darunavir ethanolate equivalent to 800 mg of darunavir, 150 mg of cobicistat, 200 mg of emtricitabine, and 11.2 mg of tenofovir alafenamide fumarate equivalent to 10 mg of tenofovir alafenamide.
@@ -18,7 +18,7 @@ Darunavir ethanolate has the following structural formula:
 
 Cobicistat: Cobicistat is adsorbed onto silicon dioxide.
 The chemical name for cobicistat is 1,3-thiazol-5-ylmethyl[(2 R,5 R)-5-{[(2 S)-2-[(methyl{[2-(propan-2-yl)-1,3-thiazol-4-yl]methyl}carbamoyl)amino]-4-(morpholin-4yl)butanoyl]amino}-1,6-diphenylhexan-2-yl]carbamate.
-It has a molecular formula of C 40H 53N 7O 5S 2 and a molecular weight of 776.02.
+It has a molecular formula of C 40H 53N 7O 5S 2and a molecular weight of 776.02.
 It has the following structural formula:
 
 Emtricitabine: The chemical name of emtricitabine is 4-amino-5-fluoro-1-(2 R-hydroxymethyl-[1,3]-oxathiolan-5 S-yl)-(1H)-pyrimidin-2-one.
