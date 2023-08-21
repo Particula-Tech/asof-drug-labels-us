@@ -23,7 +23,7 @@ DOSAGE AND USE See accompanying prescribing information.
 
 60 Tablets Rx only
 
-20688084
+20688677
 
 # PRINCIPAL DISPLAY PANEL - 75 mg Tablet Label
 
@@ -50,4 +50,4 @@ DOSAGE AND USE See accompanying prescribing information.
 
 60 Tablets Rx only
 
-20688086
+20688676
