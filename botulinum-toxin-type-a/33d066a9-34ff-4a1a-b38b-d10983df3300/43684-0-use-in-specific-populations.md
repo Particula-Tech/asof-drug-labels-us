@@ -33,10 +33,6 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4Pediatric Use
 
-Overactive Bladder
-
-Safety and effectiveness in patients below the age of 18 years have not been established.
-
 Detrusor Overactivity associated with a Neurologic Condition
 
 The safety and effectiveness of BOTOX for detrusor overactivity associated with a neurologic condition have been established in pediatric patients 5 years of age and older who have an inadequate response to or are intolerant of anticholinergic medication.
@@ -44,6 +40,15 @@ Use of BOTOX in this patient population is based on the results of a randomized,
 The most common adverse reactions in this population were urinary tract infection, bacteriuria, hematuria, and leukocyturia [see Adverse Reactions (6.1)].
 
 The safety and effectiveness of BOTOX have not been established in patients with NDO younger than 5 years of age.
+
+Overactive Bladder
+
+The safety and effectiveness of BOTOX for the treatment of overactive bladder have not been established in pediatric patients.
+
+Efficacy was not demonstrated in a multicenter, randomized, double-blind, parallel-group, multiple-dose clinical study which was conducted to evaluate the efficacy and safety of BOTOX in pediatric patients aged 12 to 17 years with overactive bladder.
+Fifty-five patients who had an inadequate response to or were intolerant of at least one anticholinergic medication were treated with BOTOX.
+There was not a statistically significant difference in the mean change from baseline in the daily average frequency of daytime urinary incontinence episodes (primary efficacy endpoint) at week 12 post-treatment when a medium and high dose were each compared to a low dose of BOTOX.
+The adverse reactions in pediatric patients treated with BOTOX were comparable with the known safety profile in adults with overactive bladder.
 
 Prophylaxis of Headaches in Chronic Migraine
 
@@ -59,13 +64,6 @@ The safety and effectiveness of BOTOX have been established by evidence from ade
 
 Safety and effectiveness in pediatric patients below the age of 2 years have not been established [see Boxed Warning and Warnings and Precautions (5.1)].
 
-Juvenile Animal Data
-
-In a study in which juvenile rats received intramuscular injection of BOTOX (0, 8, 16, or 24 Units/kg) every other week from postnatal day 21 for 12 weeks, changes in bone size/geometry associated with decreased bone density and bone mass were observed at all doses, in association with limb disuse, decreased muscle contraction, and decreased body weight gain.
-Impairment of fertility and male reproductive organ histopathology (degeneration of seminiferous tubules of the testis) were observed at the mid and high doses.
-Bone and male reproductive organ effects showed evidence of reversibility after dosing cessation.
-The no-effect dose for adverse developmental effects in juvenile animals (8 Units/kg) is similar to the human dose (400 Units) on a body weight (kg) basis.
-
 Axillary Hyperhidrosis
 
 Safety and effectiveness in patients below the age of 18 years have not been established.
@@ -77,6 +75,13 @@ Safety and effectiveness in pediatric patients below the age of 16 years have no
 Blepharospasm and Strabismus
 
 Safety and effectiveness in pediatric patients below the age of 12 years have not been established.
+
+Juvenile Animal Data
+
+In a study in which juvenile rats received intramuscular injection of BOTOX (0, 8, 16, or 24 Units/kg) every other week from postnatal day 21 for 12 weeks, changes in bone size/geometry associated with decreased bone density and bone mass were observed at all doses, in association with limb disuse, decreased muscle contraction, and decreased body weight gain.
+Impairment of fertility and male reproductive organ histopathology (degeneration of seminiferous tubules of the testis) were observed at the mid and high doses.
+Bone and male reproductive organ effects showed evidence of reversibility after dosing cessation.
+The no-effect dose for adverse developmental effects in juvenile animals (8 Units/kg) is similar to the human dose (400 Units) on a body weight (kg) basis.
 
 ## 8.5Geriatric Use
 

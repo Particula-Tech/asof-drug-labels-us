@@ -10,7 +10,7 @@ Detrusor Overactivity associated with a Neurologic Condition
 
 BOTOX is indicated for the treatment of urinary incontinence due to detrusor overactivity associated with a neurologic condition (e.g., SCI, MS) in adults who have an inadequate response to or are intolerant of an anticholinergic medication.
 
-## 1.2Pediatric Detrusor Overactivity associated with a Neurologic Condition
+## 1.2Pediatric Detrusor Overactivity Associated with a Neurologic Condition
 
 BOTOX is indicated for the treatment of neurogenic detrusor overactivity (NDO) in pediatric patients 5 years of age and older who have an inadequate response to or are intolerant of anticholinergic medication.
 

@@ -88,9 +88,22 @@ Table 27: Baseline and Change from Baseline in Weekly Urinary Incontinence Episo
 
 |  | BOTOX 200 Units | Placebo | Treatment Difference* | p-value* |
 | --- | --- | --- | --- | --- |
-| Weekly Frequency of Urinary Incontinence Episodesa N Mean Baseline Mean Change* at Week 2 Mean Change* at Week 6** Mean Change* at Week 12 | 134 32.3 -15.3 -19.9 -19.8 | 146 28.3 -10.0 -10.6 -8.8 | -5.3 -9.2 (-13.1, -5.3) -11.0 | ─ p<0.001 ─ |
-| Maximum Cystometric Capacityb (mL) N Mean Baseline Mean Change* at Week 6** | 123 253.8 135.9 | 129 259.1 12.1 | 123.9 (89.1, 158.7) | p<0.001 |
-| Maximum Detrusor Pressure during First Involuntary Detrusor Contractionb (cmH2O) N Mean Baseline Mean Change* at Week 6** | 41 63.1 -28.1 | 103 57.4 -3.7 | -24.4 | ─ |
+| Weekly Frequency of Urinary Incontinence Episodesa |  |  |  |  |
+| N | 134 | 146 |  |  |
+| Mean Baseline | 32.3 | 28.3 |  |  |
+| Mean Change* at Week 2 | -15.3 | -10.0 | -5.3 | ─ |
+| Mean Change* at Week 6** | -19.9 | -10.6 | -9.2 | p<0.001 |
+|  |  |  | (-13.1, -5.3) |  |
+| Mean Change* at Week 12 | -19.8 | -8.8 | -11.0 | ─ |
+| Maximum Cystometric Capacityb (mL) |  |  |  |  |
+| N | 123 | 129 |  |  |
+| Mean Baseline | 253.8 | 259.1 |  |  |
+| Mean Change* at Week 6** | 135.9 | 12.1 | 123.9 | p<0.001 |
+|  |  |  | (89.1, 158.7) |  |
+| Maximum Detrusor Pressure during First Involuntary Detrusor Contractionb (cmH2O) |  |  |  |  |
+| N | 41 | 103 |  |  |
+| Mean Baseline | 63.1 | 57.4 |  |  |
+| Mean Change* at Week 6** | -28.1 | -3.7 | -24.4 | ─ |
 
 * LS mean change, treatment difference and p-value are based on an analysis using an ANCOVA model with baseline weekly endpoint as covariate and treatment group, etiology at study entry (spinal cord injury or multiple sclerosis), concurrent anticholinergic therapy at screening, and investigator as factors.
 LOCF values were used to analyze the primary efficacy variable.
@@ -105,9 +118,22 @@ Table 28: Baseline and Change from Baseline in Weekly Urinary Incontinence Episo
 
 |  | BOTOX 200 Units | Placebo | Treatment Difference* | p-value* |
 | --- | --- | --- | --- | --- |
-| Weekly Frequency of Urinary Incontinence Episodesa N Mean Baseline Mean Change* at Week 2 Mean Change* at Week 6** Mean Change* at Week 12 | 91 32.7 -18.0 -19.6 -19.6 | 91 36.8 -7.9 -10.8 -10.7 | -10.1 -8.8 (-14.5, -3.0) -8.9 | ─ p=0.003 ─ |
-| Maximum Cystometric Capacityb (mL) N Mean Baseline Mean Change* at Week 6** | 88 239.6 150.8 | 85 253.8 2.8 | 148.0 (101.8, 194.2) | p<0.001 |
-| Maximum Detrusor Pressure during First Involuntary Detrusor Contractionb (cmH2O) N Mean Baseline Mean Change* at Week 6** | 29 65.6 -28.7 | 68 43.7 2.1 | -30.7 | ─ |
+| Weekly Frequency of Urinary Incontinence Episodesa |  |  |  |  |
+| N | 91 | 91 |  |  |
+| Mean Baseline | 32.7 | 36.8 |  |  |
+| Mean Change* at Week 2 | -18.0 | -7.9 | -10.1 | ─ |
+| Mean Change* at Week 6** | -19.6 | -10.8 | -8.8 | p=0.003 |
+|  |  |  | (-14.5, -3.0) |  |
+| Mean Change* at Week 12 | -19.6 | -10.7 | -8.9 | ─ |
+| Maximum Cystometric Capacityb (mL) |  |  |  |  |
+| N | 88 | 85 |  |  |
+| Mean Baseline | 239.6 | 253.8 |  |  |
+| Mean Change* at Week 6** | 150.8 | 2.8 | 148.0 | p<0.001 |
+|  |  |  | (101.8, 194.2) |  |
+| Maximum Detrusor Pressure during First Involuntary Detrusor Contractionb (cmH2O) |  |  |  |  |
+| N | 29 | 68 |  |  |
+| Mean Baseline | 65.6 | 43.7 |  |  |
+| Mean Change* at Week 6** | -28.7 | 2.1 | -30.7 | ─ |
 
 * LS mean change, treatment difference and p-value are based on an analysis using an ANCOVA model with baseline weekly endpoint as covariate and treatment group, etiology at study entry (spinal cord injury or multiple sclerosis), concurrent anticholinergic therapy at screening, and investigator as factors.
 LOCF values were used to analyze the primary efficacy variable.
@@ -136,9 +162,23 @@ Table 29: Baseline and Change from Baseline in Daily Urinary Incontinence Episod
 
 |  | BOTOX 100 Units | Placebo | Treatment Difference* | p-value* |
 | --- | --- | --- | --- | --- |
-| Daily Frequency of Urinary Incontinence Episodesa N Mean Baseline Mean Change* at Week 2 Mean Change* at Week 6** Mean Change* at Week 12 | 66 4.2 -2.9 -3.4 -2.7 | 78 4.3 -1.2 -1.1 -1.0 | -1.7 -2.3 (-3.0, -1.7) -1.8 | ─ p<0.001 ─ |
-| Maximum Cystometric Capacityb (mL) N Mean Baseline Mean Change* at Week 6** | 62 248.9 134.4 | 72 245.5 3.5 | 130.9 (94.8, 167.0) | p<0.001 |
-| Maximum Detrusor Pressure during First Involuntary Detrusor Contractionb (cmH2O) N Mean Baseline Mean Change* at Week 6** | 25 42.4 -19.2 | 51 39.0 2.7 | -21.9 (-37.5, -6.3) |  |
+| Daily Frequency of Urinary Incontinence Episodesa |  |  |  |  |
+| N | 66 | 78 |  |  |
+| Mean Baseline | 4.2 | 4.3 |  |  |
+| Mean Change* at Week 2 | -2.9 | -1.2 | -1.7 | ─ |
+| Mean Change* at Week 6** | -3.4 | -1.1 | -2.3 | p<0.001 |
+|  |  |  | (-3.0, -1.7) |  |
+| Mean Change* at Week 12 | -2.7 | -1.0 | -1.8 | ─ |
+| Maximum Cystometric Capacityb (mL) |  |  |  |  |
+| N | 62 | 72 |  |  |
+| Mean Baseline | 248.9 | 245.5 |  |  |
+| Mean Change* at Week 6** | 134.4 | 3.5 | 130.9 | p<0.001 |
+|  |  |  | (94.8, 167.0) |  |
+| Maximum Detrusor Pressure during First Involuntary Detrusor Contractionb (cmH2O) |  |  |  |  |
+| N | 25 | 51 |  |  |
+| Mean Baseline | 42.4 | 39.0 |  |  |
+| Mean Change* at Week 6** | -19.2 | 2.7 | -21.9 |  |
+|  |  |  | (-37.5, -6.3) |  |
 
 * LS mean change, treatment difference and p-value are based on an analysis using an ANCOVA model with baseline daily endpoint as covariate and treatment group and propensity score stratification as factors.
 LOCF values were used to analyze the primary efficacy variable.

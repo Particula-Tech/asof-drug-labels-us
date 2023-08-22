@@ -14,7 +14,7 @@ The safe and effective use of BOTOX depends upon proper storage of the product, 
 An understanding of standard electromyographic techniques is also required for treatment of strabismus, upper or lower limb spasticity, and may be useful for the treatment of cervical dystonia.
 Physicians administering BOTOX must understand the relevant neuromuscular and structural anatomy of the area involved and any alterations to the anatomy due to prior surgical procedures and disease, especially when injecting near the lungs.
 
-Do not use BOTOX and contact Allergan (1-800-890-4345) if:
+Do not use BOTOX and contact Allergan (1-800-678-1605) if:
 
 - the carton labeling does not contain an intact seal with a translucent silver Allergan logo (on both ends of the carton) or the seal has a black circle with a diagonal line through it (i.e., prohibition sign),
 - the vial label does not contain a holographic film containing the name “Allergan” within rainbow colored horizontal lines, or
@@ -126,7 +126,7 @@ The patient should be observed for at least 30 minutes post-injection.
 
 Patients should be considered for re-injection when the clinical effect of the previous injection diminishes (median time to qualification for re-treatment in the double-blind, placebo-controlled clinical studies was 295-337 days [42-48 weeks] for BOTOX 200 Units), but no sooner than 12 weeks from the prior bladder injection.
 
-## 2.4Pediatric Detrusor Overactivity associated with a Neurologic Condition
+## 2.4Pediatric Detrusor Overactivity Associated with a Neurologic Condition
 
 Patients must not have a urinary tract infection (UTI) at the time of treatment.
 Oral prophylactic antibiotics, except aminoglycosides, [see Drug Interactions (7.1)] should be administered 1-3 days pre-treatment, on the treatment day, and 1-3 days post-treatment to reduce the likelihood of procedure-related UTI.

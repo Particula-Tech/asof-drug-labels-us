@@ -12,7 +12,7 @@ The top and bottom flaps of the BOTOX cartons have a tamper-evident seal that co
 (Note: the holographic film on the label is absent in the date/lot area.)
 Each BOTOX vial label and carton also contains the U.S. License number: 1145 [see Dosage and Administration (2.1)].
 
-Do not use the product and contact Allergan for additional information at 1-800-890-4345 from 7:00 AM to 3:00 PM Pacific Time if the labeling is not described as above.
+Do not use the product and contact Allergan for additional information at 1-800-678-1605 if the labeling is not described as above.
 
 ## 16.2Storage and Handling
 

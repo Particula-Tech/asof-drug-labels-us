@@ -63,11 +63,11 @@ These reactions can occur within hours to weeks after injection with botulinum t
 Patients with compromised respiratory status treated with BOTOX for spasticity should be monitored closely.
 In a double-blind, placebo-controlled, parallel group study in adult patients treated for upper limb spasticity with stable reduced pulmonary function (defined as FEV1 40-80% of predicted value and FEV1/FVC ≤ 0.75), the event rate in change of Forced Vital Capacity (FVC) ≥15% or ≥20% was generally greater in patients treated with BOTOX than in patients treated with placebo (see Table 8).
 
-Table 8: Event Rate Per Patient Treatment Cycle Among Adult Upper Limb Spasticity Patients with Reduced Lung Function Who Experienced at Least a 15% or 20% Decrease in FVC From Baseline at Week 1, 6, 12 Post-injection with Up to Two Treatment Cycles with BOTOX or Placebo
+Table 8:Event Rate Per Patient Treatment Cycle Among Adult Upper Limb Spasticity Patients with Reduced Lung Function Who Experienced at Least a 15% or 20% Decrease in FVC From Baseline at Week 1, 6, 12 Post-injection with Up to Two Treatment Cycles with BOTOX or Placebo
 
 |  | BOTOX 360 Units |  | BOTOX 240 Units |  | Placebo |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | >15% | >20% | >15% | >20% | >15% | >20% |
+|  | ≥15% | ≥20% | ≥15% | ≥20% | ≥15% | ≥20% |
 | Week 1 | 4% | 0% | 3% | 0% | 7% | 3% |
 | Week 6 | 7% | 4% | 4% | 2% | 2% | 2% |
 | Week 12 | 10% | 5% | 2% | 1% | 4% | 1% |
@@ -78,7 +78,7 @@ In adult spasticity patients with reduced lung function, upper respiratory tract
 
 In a double-blind, placebo-controlled, parallel group study in adult patients with detrusor overactivity associated with a neurologic condition and restrictive lung disease of neuromuscular etiology [defined as FVC 50-80% of predicted value in patients with spinal cord injury between C5 and C8, or MS] the event rate in change of Forced Vital Capacity ≥15% or ≥20% was generally greater in patients treated with BOTOX than in patients treated with placebo (see Table 9).
 
-Table 9: Number and Percent of Patients Experiencing at Least a 15% or 20% Decrease in FVC From Baseline at Week 2, 6, 12 Post-Injection with BOTOX or Placebo
+Table 9:Number and Percent of Patients Experiencing at Least a 15% or 20% Decrease in FVC From Baseline at Week 2, 6, 12 Post-Injection with BOTOX or Placebo
 
 |  | BOTOX 200 Units |  | Placebo |  |
 | --- | --- | --- | --- | --- |

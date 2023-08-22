@@ -18,10 +18,10 @@ Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc
 
 Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
-© 2022 Allergan.
+© 2023 Allergan.
 All rights reserved.
 All trademarks are the property of their respective owners.
 Patented.
 See: www.allergan.com/patents
 
-v8.1USPI1145
+v10.0USPI1145

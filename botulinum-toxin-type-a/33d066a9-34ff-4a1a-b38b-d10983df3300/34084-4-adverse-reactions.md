@@ -41,7 +41,7 @@ Table 14: Adverse Reactions Reported by ≥2% of BOTOX Treated Patients and More
 | Urinary tract infection Dysuria Urinary retention Bacteriuria Residual urine volume* | 18 9 6 4 3 | 6 7 0 2 0 |
 
 *Elevated PVR not requiring catheterization.
-Catheterization was required for PVR >350 mL regardless of symptoms, and for PVR ≥200 mL to <350 mL with symptoms (e.g., voiding difficulty).
+Catheterization was required for PVR ≥350 mL regardless of symptoms, and for PVR ≥200 mL to <350 mL with symptoms (e.g., voiding difficulty).
 
 A higher incidence of urinary tract infection was observed in patients with diabetes mellitus treated with BOTOX 100 Units and placebo than in patients without diabetes, as shown in Table 15.
 
@@ -164,7 +164,7 @@ Table 21: Adverse Reactions Reported by ≥2% of BOTOX Treated Patients and More
 Pediatric Upper Limb Spasticity
 
 The most frequently reported adverse reactions following injection of BOTOX in pediatric patients 2 to 17 years of age with upper limb spasticity appear in Table 22.
-In a double-blind, placebo-controlled trial (Study 1), 78 patients were treated with 3 Units/kg of BOTOX, and 77 patients received 6 Units/kg to a maximum dose of 200 Units of BOTOX, and were compared to 79 patients who received placebo [see Clinical Studies (14.5)].
+In a double-blind, placebo-controlled trial (Study 1), 78 patients were treated with 3 Units/kg of BOTOX, and 77 patients received 6 Units/kg to a maximum dose of 200 Units of BOTOX, and were compared to 79 patients who received placebo [see Clinical Studies (14.6)].
 Patients were followed for an average of 91 days after injection.
 
 Table 22: Adverse Reactions Reported by ≥2% of BOTOX 6 Units/kg Treated Patients and More Frequent than in Placebo-Treated Patients in Pediatric Upper Limb Spasticity Double-Blind, Placebo-Controlled Clinical Trial (Study 1)
@@ -269,7 +269,7 @@ The potential for antibody formation may be minimized by injecting with the lowe
 
 The following adverse reactions have been identified during post-approval use of BOTOX.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These reactions include: abdominal pain; alopecia, including madarosis; anorexia; brachial plexopathy; denervation/muscle atrophy; diarrhea; dry eye; eyelid edema (following periocular injection); hyperhidrosis; hypoacusis; hypoaesthesia; localized muscle twitching; malaise; paresthesia; peripheral neuropathy; radiculopathy; erythema multiforme, dermatitis psoriasiform, and psoriasiform eruption; strabismus; tinnitus; and visual disturbances.
+These reactions include: abdominal pain; alopecia, including madarosis; anorexia; brachial plexopathy; denervation/muscle atrophy; diarrhea; dry eye; eyelid edema (following periocular injection); hyperhidrosis; hypoacusis; hypoaesthesia; localized muscle twitching; malaise; Mephisto sign; paresthesia; peripheral neuropathy; radiculopathy; erythema multiforme, dermatitis psoriasiform, and psoriasiform eruption; strabismus; tinnitus; and visual disturbances.
 
 There have been spontaneous reports of death, sometimes associated with dysphagia, pneumonia, and/or other significant debility or anaphylaxis, after treatment with botulinum toxin [see Warnings and Precautions (5.4, 5.6)].
 
