@@ -20,6 +20,6 @@ Storage and Handling
 
 Advise the patient or caregiver to discard any remaining PHEBURANE 45 days after first opening of the bottle.
 
-Distributed by: Medunik USA, Inc. 919 Conestoga Road Bryn Mawr, PA 19010
+Distributed by: Medunik USA, Inc. 2 Research Way, Suite 1B Princeton, NJ 08540
 
 PHEBURANE® is a registered trademark of Lucane Pharma

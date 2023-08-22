@@ -82,9 +82,9 @@ If cleaning is necessary, rinse the calibrated dosing spoon with water and dry i
 
 To replace the calibrated dosing spoon, contact Medunik USA at 1-844-884-5520.
 
-Distributed by: Medunik USA, Inc, 919 Conestoga Road, Bryn Mawr, PA 19010
+Distributed by: Medunik USA, Inc. 2 Research Way, Suite 1B, Princeton, NJ 08540
 
 PHEBURANE® is a registered trademark of Lucane Pharma.
 
-| This Instructions for Use has been approved by the U.S. Food and Drug Administration. | Issued: June 2022 |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration. | Issued: August 2023 |
 | --- | --- |
