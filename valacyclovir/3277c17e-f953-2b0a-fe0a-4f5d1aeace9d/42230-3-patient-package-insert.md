@@ -128,8 +128,9 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Rx Only
 
-Manufactured by: Jubilant Generics Limited Roorkee - 247661, India
+Manufactured by: Graviti Pharmaceuticals Pvt.
+Ltd. Telangana-502307, India
 
 Marketed by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA
 
-Revised: 02/2020
+Revised: 08/2023
