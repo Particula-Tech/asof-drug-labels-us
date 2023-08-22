@@ -6,7 +6,7 @@ DAXXIFY™ FOR INJECTION
 
 100 units/vial
 
-REVANCE ®
+REVANCE®
 
 ATTENTION: Each patient is required to receive the enclosed Medication Guide.
 

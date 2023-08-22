@@ -1,10 +1,13 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in greater detail in other sections of the labeling:
+The following clinically significant adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Spread of Effects from Toxin [see Warnings and Precautions (5)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
-- Dysphagia and Breathing Difficulties [see Warnings and Precautions (5.6)]
+- Spread of Toxin Effect [see Warnings and Precautions (5.1)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
+- Cardiovascular System Adverse Reactions [see Warnings and Precautions (5.5)]
+- Increased Neuromuscular Compromise in Patients with Pre-Existing Neuromuscular Disorders [see Warnings and Precautions (5.6)]
+- Dysphagia and Breathing Difficulties [see Warnings and Precautions (5.7)]
+- Ophthalmic Adverse Reactions in Patients Treated for Glabellar Lines [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -17,34 +20,47 @@ In the two randomized, placebo-controlled, Phase 3 clinical trials that assess t
 
 The most frequent adverse reactions are presented in Table 3.
 
-TABLE 3: Most Common Adverse Reactions ≥1% and More Frequent than Placebo in Pooled Double-Blind, Placebo-Controlled Trials for Glabellar Lines
+TABLE 3: Most Common Adverse Reactions ≥1% and More Frequent than Placebo in Pooled Double- Blind, Placebo-Controlled Trials for Glabellar Lines
 
 | Adverse Reaction | DAXXIFY N=406 n (%) | Placebo N=203 n (%) |
 | --- | --- | --- |
 | Headache | 26 (6%) | 4 (2%) |
 | Eyelid ptosis | 9 (2%) | 0 (0%) |
-| Facial paresis Facial paresis, including facial asymmetry. | 5 (1%) | 0 (0%) |
+| Facial paresisFacial paresis, including facial asymmetry. | 5 (1%) | 0 (0%) |
 
 Injection site reactions were reported in 6% of subjects treated with DAXXIFY and in 6% of subjects treated with placebo (these reactions included injection site pain, injection site erythema, injection site oedema, injection site bruising, injection site hematoma, injection site papule, injection site pruritus).
 
-In an 84-week open label repeat-dose safety study in glabellar lines, 2691 subjects were treated with 40 U of DAXXIFY.
+In an 84-week, open-label, repeat-dose safety study in glabellar lines, 2691 subjects were treated with 40 U of DAXXIFY.
 Of these, 2380 subjects received one treatment with DAXXIFY, 882 received two treatments with DAXXIFY and 568 subjects received three treatments with DAXXIFY.
 Adverse reactions were reported in 535 of the 2691 subjects (20%).
 The adverse reaction profile was similar to that reported in single dose trials.
 
 Injection site reactions were the most common adverse reactions, reported in 9% of subjects [including injection site pain (4%), injection site erythema (3%), injection site oedema (3%), injection site bruising (1%), injection site papule (<1%), injection site pruritus (<1%)], followed by headache (5%), edema (2%), erythema (2%) and eyelid ptosis in 1% of subjects.
-The incidence of these adverse reactions did not increase with multiple re-treatments.
+The incidence of these adverse reactions did not increase with multiple re- treatments.
 
-## 6.2 Immunogenicity
+Cervical Dystonia
 
-As with all therapeutic proteins, there is a potential for immunogenicity.
+In the randomized, placebo-controlled, Phase 3 clinical trial to assess the use of DAXXIFY for the treatment of cervical dystonia, 255 patients received a dose of DAXXIFY (n=125 for 125 Units and n=130 for 250 Units) and 46 patients received placebo.
+Table 4 lists adverse reactions that occurred in ≥2% of patients treated with DAXXIFY and more frequent than placebo.
 
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other products can be misleading.
+TABLE 4: Most Common Adverse Reactions ≥2% and More Frequent than Placebo in the Phase 3 Double Blind, Placebo Controlled Clinical Trial for Cervical Dystonia
 
-Treatment with botulinum toxins may result in the formation of antibodies that may reduce the effectiveness of subsequent treatments by inactivating biological activity of the toxin.
+| Adverse Reaction | DAXXIFY 125 Units N=125 n (%) | DAXXIFY 250 Units N = 130 n (%) | Placebo N=46 n (%) |
+| --- | --- | --- | --- |
+| Headache | 11 (9%) | 9 (7%) | 1 (2%) |
+| Injection Site Pain | 10 (8%) | 7 (5%) | 2 (4%) |
+| Injection site erythema | 6 (5%) | 3 (2%) | 1 (2%) |
+| Muscular weakness | 6 (5%) | 3 (2%) | 0 |
+| Musculoskeletal pain | 5 (4%) | 5 (4%) | 0 |
+| Nasopharyngitis | 4 (3%) | 3 (2%) | 0 |
+| Arthralgia | 3 (2%) | 1 (1%) | 0 |
+| Upper respiratory tract infection | 2 (2%) | 7 (5%) | 2 (4%) |
+| Spinal pain | 3 (2%) | 4 (3%) | 1 (2%) |
+| Atrioventricular block first degree | 2 (2%) | 0 | 0 |
+| Urinary tract infection | 3 (2%) | 0 | 0 |
+| Dysphagia | 2 (2%) | 5 (4%) | 0 |
 
-Among 2786 subjects receiving up to 3 treatments with DAXXIFY in the phase 3 studies, 12 Subjects (0.4%) had preexisting binding antibodies to daxibotulinumtoxinA-lanm and 75 (3%) had preexisting binding antibodies to the 35 amino acid peptide excipient RTP004.
-A total of 20 (0.8%) subjects developed treatment-emergent binding antibodies to daxibotulinumtoxinA-lanm and 33 (1.2%) subjects developed treatment-emergent binding antibodies to RTP004.
-No subjects developed neutralizing antibodies to DAXXIFY.
+In a 52-week, open-label, repeat-dose safety study in cervical dystonia, 357 subjects (271 from the randomized trial, 86 newly enrolled) received up to 4 treatments with DAXXIFY.
+Of these, 28 subjects received one treatment with DAXXIFY, 95 subjects received two treatments, 169 received three treatments, and 65 received four treatments with DAXXIFY.
+
+Adverse reactions were reported in 138 patients (20%).
