@@ -131,21 +131,4 @@ U.S. License no. 0140
 
 Product of USA 07-01-00-0251
 
-MYXREDLIN Insulin Human in 0.9% Sodium Chloride Injection 100 units per 100 mL (1 unit/mL)
-
-EXP: JUN 21 LOT #: NC125840 Bar Code (01)50803380126120(17)210630(21)100000002582(10)NC125840
-
-Contains: 12 x 100 mL Single-Dose GALAXY Containers NDC 0338-0126-12 Code 2G3322 Store refrigerated at 36°F to 46°F (2°C to 8°C) Do Not Shake.
-Do Not Freeze.
-
-If needed, may store at room temperature up to 77°F (25°C) up to 30 days.
-
-Once stored at room temperature, do not place back in the refrigerator.
-
-Discard after 30 days if stored at room temperature.
-
-Bar Code GTIN 50303380126120 SERIAL 100000002582 EXP 210630 LOT NC125840
-
-Rx Only Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA 07-06-00-0789
-
 G
