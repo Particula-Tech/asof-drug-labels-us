@@ -17,23 +17,3 @@ In testicles of dogs treated with rosuvastatin at 30 mg/kg/day for one month, sp
 Spermatidic giant cells were observed in monkeys after 6-month treatment at 30 mg/kg/day in addition to vacuolation of seminiferous tubular epithelium.
 Exposures in the dog were 20 times and in the monkey 10 times the human exposure at 40 mg/day based on body surface area.
 Similar findings have been seen with other drugs in this class.
-
-## 13.2 Animal Toxicology and/or Pharmacology
-
-Central Nervous System Toxicity
-
-CNS vascular lesions, characterized by perivascular hemorrhages, edema, and mononuclear cell infiltration of perivascular spaces, have been observed in dogs treated with several other members of this drug class.
-A chemically similar drug in this class produced dose-dependent optic nerve degeneration (Wallerian degeneration of retinogeniculate fibers) in dogs, at a dose that produced plasma drug levels about 30 times higher than the mean drug level in humans taking the highest recommended dose.
-Edema, hemorrhage, and partial necrosis in the interstitium of the choroid plexus was observed in a female dog sacrificed moribund at day 24 at 90 mg/kg/day by oral gavage (systemic exposures 100 times the human exposure at 40 mg/day based on AUC).
-Corneal opacity was seen in dogs treated for 52 weeks at 6 mg/kg/day by oral gavage (systemic exposures 20 times the human exposure at 40 mg/day based on AUC).
-Cataracts were seen in dogs treated for 12 weeks by oral gavage at 30 mg/kg/day (systemic exposures 60 times the human exposure at 40 mg/day based on AUC).
-Retinal dysplasia and retinal loss were seen in dogs treated for 4 weeks by oral gavage at 90 mg/kg/day (systemic exposures 100 times the human exposure at 40 mg/day based on AUC).
-Doses ≤30 mg/kg/day (systemic exposures ≤ 60 times the human exposure at 40 mg/day based on AUC) did not reveal retinal findings during treatment for up to one year.
-
-Juvenile Toxicology Study
-
-In a juvenile study, rats were dosed by oral gavage with 10 or 50 mg/kg/day from weaning for 9 weeks prior to pairing, throughout pairing and up to the day before necropsy for males or up to gestation day 7 for females.
-No effects on sexual development, testicular and epididymal appearance or fertility were observed at either dose level.
-
-Pediatric information is approved for AstraZeneca's CRESTOR (rosuvastatin calcium) tablets.
-However, due to AstraZeneca's marketing exclusivity rights, this drug product is not labeled with that pediatric information.

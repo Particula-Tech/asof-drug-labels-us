@@ -1,20 +1,16 @@
 # 1 INDICATIONS AND USAGE
 
-Pediatric use information for patients 7 to 17 years of age is approved for AstraZeneca’s CRESTOR (rosuvastatin calcium) tablets.
-However, due to AstraZeneca’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+EZALLOR SPRINKLE is indicated:
 
-## 1.1 Hypertriglyceridemia
+- To reduce the risk of stroke, myocardial infarction, and arterial revascularization procedures in adults without established coronary heart disease who are at increased risk of cardiovascular (CV) disease based on age, hsCRP ≥2 mg/L, and at least one additional CV risk factor.
 
-EZALLOR Sprinkle is indicated as adjunctive therapy to diet for the treatment of adult patients with hypertriglyceridemia.
+- As an adjunct to diet to:
+  - Reduce LDL-C in adults with primary hyperlipidemia.
+  - Reduce low-density lipoprotein cholesterol (LDL-C) and slow the progression of atherosclerosis in adults.
+  - Reduce LDL-C in adults and pediatric patients aged 8 years and older with heterozygous familial hypercholesterolemia (HeFH).
 
-## 1.2 Primary Dysbetalipoproteinemia (Type III Hyperlipoproteinemia)
+- As an adjunct to other LDL-C-lowering therapies, or alone if such treatments are unavailable, to reduce LDL-C in adults and pediatric patients aged 7 years and older with homozygous familial hypercholesterolemia (HoFH).
 
-EZALLOR Sprinkle is indicated as an adjunct to diet for the treatment of adult patients with primary dysbetalipoproteinemia (Type III Hyperlipoproteinemia).
-
-## 1.3 Adult Patients with Homozygous Familial Hypercholesterolemia
-
-EZALLOR Sprinkle is indicated as adjunctive therapy to other lipid-lowering treatments (e.g., LDL apheresis) or alone if such treatments are unavailable to reduce LDL-C, Total-C, and ApoB in adult patients with homozygous familial hypercholesterolemia.
-
-## 1.4 Limitations of Use
-
-EZALLOR Sprinkle has not been studied in Fredrickson Type I and V dyslipidemias.
+- As an adjunct to diet for the treatment of adults with:
+  - Primary dysbetalipoproteinemia.
+  - Hypertriglyceridemia.

@@ -1,76 +1,89 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Dosing Information
+## 2.1 General Dosage and Administration Information
 
-The dose range for EZALLOR Sprinkle in adults is 5 mg to 40 mg orally once daily.
-The usual starting dose is 10 mg to 20 mg once daily.
-The usual starting dose in adult patients with homozygous familial hypercholesterolemia is 20 mg once daily.
-The maximum EZALLOR Sprinkle dose of 40 mg should be used only for those patients who have not achieved their LDL-C goal utilizing the 20 mg dose [see Warnings and Precautions (5.1)].
+- Administer EZALLOR SPRINKLE orally as a single dose at any time of day, with or without food.
+  Swallow capsules whole.
+  Do not crush or chew.
+  Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating EZALLOR SPRINKLE, and adjust the dosage if necessary.
+- If a dose is missed, advise patients not take an extra dose.
+  Resume treatment with the next dose.
 
-EZALLOR Sprinkle can be administered as a single dose at any time of day, with or without food.
-Swallow capsules whole.
-Do not crush or chew.
-For patients who cannot swallow capsules, the capsules can be opened for administration [see Dosage and Administration (2.5)].
+## 2.2 Recommended Dosage in Adult Patients
 
-When initiating EZALLOR Sprinkle therapy or switching from another HMG-CoA reductase inhibitor therapy, the appropriate EZALLOR Sprinkle starting dose should first be utilized, and only then titrated according to the patient’s response and individualized goal of therapy.
+- The dosage range for EZALLOR SPRINKLE is 5 mg to 40 mg orally once daily.
+- The recommended dose of EZALLOR SPRINKLE depends on a patient’s indication for usage, LDL-C, and individual risk for cardiovascular events.
 
-After initiation or upon titration of EZALLOR Sprinkle, lipid levels should be analyzed within 2 to 4 weeks and the dosage adjusted accordingly.
+## 2.3 Recommended Dosage in Pediatric Patients
 
-Pediatric use information for patients 7 to 17 years of age is approved for AstraZeneca’s CRESTOR (rosuvastatin calcium) tablets.
-However, due to AstraZeneca’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Dosage in Pediatric Patients 8 Years of Age and Older with HeFH
 
-## 2.2 Dosing in Asian Patients
+The recommended dosage range is 5 mg to 10 mg orally once daily in patients aged 8 years to less than 10 years and 5 mg to 20 mg orally once daily in patients aged 10 years and older.
 
-In Asian patients, consider initiation of EZALLOR Sprinkle therapy with 5 mg once daily due to increased rosuvastatin plasma concentrations.
-The increased systemic exposure should be taken into consideration when treating Asian patients not adequately controlled at doses up to 20 mg once daily [see Use in Specific Populations (8.8) and Clinical Pharmacology (12.3)].
+Dosage in Pediatric Patients 7 Years of Age and Older with HoFH
 
-## 2.3 Use with Concomitant Therapy
+The recommended dosage is 20 mg orally once daily.
 
-Patients taking cyclosporine and darolutamide
+## 2.4 Dosing in Asian Patients
 
-The dose of EZALLOR Sprinkle should not exceed 5 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.1), Drug Interactions (7.4) and Clinical Pharmacology (12.3)].
+Initiate EZALLOR SPRINKLE at 5 mg once daily due to increased rosuvastatin plasma concentrations.
+Consider the risks and benefits of EZALLOR SPRINKLE when treating Asian patients not adequately controlled at doses up to 20 mg once daily [see Warnings and Precautions (5.1), Use in Specific Populations (8.8), and Clinical Pharmacology (12.3)].
 
-Patients taking gemfibrozil
+## 2.5 Recommended Dosage in Patients with Renal Impairment
 
-Avoid concomitant use of EZALLOR Sprinkle with gemfibrozil.
-If concomitant use cannot be avoided, initiate EZALLOR Sprinkle at 5 mg once daily.
-The dose of EZALLOR Sprinkle should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.5) and Clinical Pharmacology (12.3)].
+In patients with severe renal impairment (CLcr less than 30 mL/min/1.73 m2) not on hemodialysis, the recommended starting dosage is 5 mg once daily and should not exceed 10 mg once daily [see Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
 
-Patients taking regorafenib
+There are no dosage adjustment recommendations for patients with mild and moderate renal impairment.
 
-Concomitant use of EZALLOR Sprinkle and regorafenib, the dose of EZALLOR Sprinkle should not exceed 10 mg once daily.
-[see Warnings and Precautions (5.1), Drug Interactions (7.5) and Clinical Pharmacology (12.3)].
+## 2.6 Dosage and Administration Modifications Due to Drug Interactions
 
-Patients taking atazanavir and ritonavir, lopinavir and ritonavir, simeprevir or combination of dasabuvir/ombitasvir/paritaprevir/ritonavir, elbasvir/grazoprevir, sofosbuvir/velpatasvir and glecaprevir/pibrentasvir
+EZALLOR SPRINKLE Dosage Modifications Due to Drug Interactions
 
-Initiate EZALLOR Sprinkle therapy with 5 mg once daily.
-The dose of EZALLOR Sprinkle should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.3) and Clinical Pharmacology (12.3)].
+Table 1 displays dosage modifications for EZALLOR SPRINKLE due to drug interactions [see Warnings and Precautions (5.1) and Drug Interactions (7.1)].
 
-## 2.4 Dosing in Patients with Severe Renal Impairment
+Table 1: EZALLOR SPRINKLE Dosage Modifications Due to Drug Interactions
 
-For patients with severe renal impairment (CLcr < 30 mL/min/1.73 m2) not on hemodialysis, dosing of EZALLOR Sprinkle should be started at 5 mg once daily and not exceed 10 mg once daily [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+| Concomitantly Used Drug | EZALLOR SPRINKLE Dosage Modifications |
+| --- | --- |
+| Cyclosporine | Do not exceed 5 mg once daily. |
+| Teriflunomide | Do not exceed 10 mg once daily. |
+| Enasidenib | Do not exceed 10 mg once daily. |
+| Capmatinib | Do not exceed 10 mg once daily. |
+| Fostamatinib | Do not exceed 20 mg once daily. |
+| Febuxostat | Do not exceed 20 mg once daily. |
+| Gemfibrozil | Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 10 mg once daily. |
+| Tafamidis | Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 20 mg once daily. |
+| Antiviral Medications |  |
+| Sofbuvir/velpatasvir/voxilaprevirLedipasvir/sofosbuvir | Concomitant use not recommended. |
+| SimeprevirDasabuvir/ombitasvir/paritaprevir/ritonavirElbasvir/GrazoprevirSofosbuvir/VelpatasvirGlecaprevir/PibrentasvirAtazanavir/RitonavirLopinavir/Ritonavir | Initiate at 5 mg once daily. Do not exceed 10 mg once daily. |
+| Darolutamide | Do not exceed 5 mg once daily. |
+| Regorafenib | Do not exceed 10 mg once daily. |
 
-## 2.5 Administration Options
+EZALLOR SPRINKLE Administration Modifications Due to Drug Interactions
 
-EZALLOR Sprinkle capsule should be swallowed whole.
-For patients unable to swallow an intact capsule, alternative administration options are available.
+When taking EZALLOR SPRINKLE with an aluminum and magnesium hydroxide combination antacid, administer EZALLOR SPRINKLE at least 2 hours before the antacid [see Drug Interactions (7.2)].
+
+## 2.7 Preparation and Administration Instructions
+
+EZALLOR SPRINKLE capsule should be swallowed whole.
+For patients unable to swallow an intact capsule, consider the following instructions based on the route of administration and refer to the accompanying Instructions for Use for complete administration instructions:
 
 Oral Administration
 
-Directions for use with soft food (applesauce or pudding)
-
-For patients with swallowing difficulty, EZALLOR Sprinkle capsule can be opened and contents can be sprinkled over soft food.
-The contents of the capsules should be swallowed along with a small amount (teaspoonful) of soft food (such as applesauce or chocolate/vanilla flavored pudding).
-The drug/food mixture should be swallowed within 60 minutes and not be stored for future use.
-If it is not used in its entirety, the remaining contents should be discarded immediately.
+- Carefully open the capsule and sprinkle the entire contents of the capsule onto at least one teaspoonful (5 mL) of room temperature applesauce or chocolate/vanilla flavored pudding.
+- Stir the mixture for 10 to 15 seconds.
+- Swallow the entire mixture within 60 minutes of mixing.
+  Do not chew the mixture.
+- Do not save the mixture for later use.
+- Discard the unused portion immediately.
 
 Nasogastric Tube (≥16 French) Administration
 
-For patients who have a nasogastric tube in place, the EZALLOR Sprinkle capsule can be opened and the intact granules emptied into a 60 mL catheter tipped syringe and add 40 mL of water.
-Replace the plunger and shake the syringe vigorously for 15 seconds.
-The granules in EZALLOR Sprinkle capsule may start dissolving which is acceptable.
-Attach the syringe to a nasogastric tube (≥16-French) and deliver the contents of the syringe through the nasogastric tube into the stomach.
-After administering the granules, the nasogastric tube should be flushed with 20 mL of additional water.
-The mixture must be used immediately after preparation and not be stored for future use.
-If it is not used in its entirety, the remaining mixture should be discarded immediately.
-Use with any other liquids is not recommended.
+- Carefully open the capsule and empty the intact granules emptied into a 60 mL catheter tipped syringe barrel and add 40 mL of water.
+  Do not use with liquids other than water.
+- Replace the plunger and shake the syringe vigorously for 15 seconds.
+  The granules in EZALLOR SPRINKLE capsule may start dissolving which is acceptable.
+- Attach the syringe to a nasogastric tube (≥16-French) and deliver the contents of the syringe through the nasogastric tube into the stomach.
+- Flush the nasogastric tube should with 20 mL of additional water after administering the mixture.
+- Do not save the mixture for later use.
+- Discard the unused portion immediately.

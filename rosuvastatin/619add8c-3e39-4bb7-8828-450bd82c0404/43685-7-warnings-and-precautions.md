@@ -1,61 +1,59 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Skeletal Muscle Effects
+## 5.1 Myopathy and Rhabdomyolysis
 
-Cases of myopathy and rhabdomyolysis with acute renal failure secondary to myoglobinuria have been reported with HMG-CoA reductase inhibitors, including rosuvastatin.
-These risks can occur at any dose level, but are increased at the highest dose (40 mg).
+EZALLOR SPRINKLE may cause myopathy [muscle pain, tenderness, or weakness associated with elevated creatine kinase (CK)] and rhabdomyolysis.
+Acute kidney injury secondary to myoglobinuria and rare fatalities have occurred as a result of rhabdomyolysis with statins, including EZALLOR SPRINKLE.
 
-EZALLOR Sprinkle should be prescribed with caution in patients with predisposing factors for myopathy (e.g., age ≥ 65 years, inadequately treated hypothyroidism, renal impairment).
+Risk Factors for Myopathy
 
-The risk of myopathy during treatment with EZALLOR Sprinkle may be increased with concurrent administration of gemfibrozil, some other lipid-lowering therapies (other fibrates or niacin), cyclosporine, darolutamide, regorafenib, atazanavir/ritonavir, lopinavir/ritonavir, simeprevir or combination of sofosbuvir/velpatasvir/voxilaprevir, dasabuvir/ombitasvir/paritaprevir/ritonavir, elbasvir/grazoprevir, sofosbuvir/velpatasvir, glecaprevir/pibrentasvir, all combinations with ledipasvir (including ledipasvir/sofosbuvir) [see Dosage and Administration (2) and Drug Interactions (7)].
-Cases of myopathy, including rhabdomyolysis, have been reported with HMG-CoA reductase inhibitors, including rosuvastatin, coadministered with colchicine, and caution should be exercised when prescribing EZALLOR Sprinkle with colchicine [see Drug Interactions (7.9)].
+Risk factors for myopathy include age 65 years or greater, uncontrolled hypothyroidism, renal impairment, concomitant use with certain other drugs (including other lipid-lowering therapies), and higher EZALLOR SPRINKLE dosage.
+Asian patients on EZALLOR SPRINKLE may be at higher risk for myopathy [see Drug Interactions (7.1) and Use in Specific Populations (8.8)].
+The myopathy risk is greater in patients taking EZALLOR SPRINKLE 40 mg daily compared with lower EZALLOR SPRINKLE dosages.
 
-EZALLOR Sprinkle therapy should be discontinued if markedly elevated creatine kinase levels occur or myopathy is diagnosed or suspected.
-EZALLOR Sprinkle therapy should also be temporarily withheld in any patient with an acute, serious condition suggestive of myopathy or predisposing to the development of renal failure secondary to rhabdomyolysis (e.g., sepsis, hypotension, dehydration, major surgery, trauma, severe metabolic, endocrine, and electrolyte disorders, or uncontrolled seizures).
+Steps to Prevent or Reduce the Risk of Myopathy and Rhabdomyolysis
 
-All patients should be advised to promptly report to their physician unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing EZALLOR Sprinkle.
+The concomitant use of EZALLOR SPRINKLE with cyclosporine or gemfibrozil is not recommended.
+EZALLOR SPRINKLE dosage modifications are recommended for patients taking certain antiviral medications, darolutamide, and regorafenib [see Dosage and Administration (2.6)].
+Niacin, fibrates, and colchicine may also increase the risk of myopathy and rhabdomyolysis [see Drug Interactions (7.1)].
+
+Discontinue EZALLOR SPRINKLE if markedly elevated CK levels occur or if myopathy is either diagnosed or suspected.
+Muscle symptoms and CK elevations may resolve if EZALLOR SPRINKLE is discontinued.
+Temporarily discontinue EZALLOR SPRINKLE in patients experiencing an acute or serious condition at high risk of developing renal failure secondary to rhabdomyolysis (e.g., sepsis; shock; severe hypovolemia; major surgery; trauma; severe metabolic, endocrine, or electrolyte disorders; or uncontrolled epilepsy).
+
+Inform patients of the risk of myopathy and rhabdomyolysis when starting or increasing the EZALLOR SPRINKLE dosage.
+Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness, particularly if accompanied by malaise or fever.
 
 ## 5.2 Immune-Mediated Necrotizing Myopathy
 
-There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
-IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; positive anti-HMG CoA reductase antibody; muscle biopsy showing necrotizing myopathy; and improvement with immunosuppressive agents.
+There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use, including reports of recurrence when the same or a different statin was administered.
+IMNM is characterized by proximal muscle weakness and elevated serum creatine kinase that persist despite discontinuation of statin treatment; positive anti-HMG CoA reductase antibody; muscle biopsy showing necrotizing myopathy; and improvement with immunosuppressive agents.
 Additional neuromuscular and serologic testing may be necessary.
 Treatment with immunosuppressive agents may be required.
-Consider risk of IMNM carefully prior to initiation of a different statin.
-If therapy is initiated with a different statin, monitor for signs and symptoms of IMNM.
+Discontinue EZALLOR SPRINKLE if IMNM is suspected.
 
-## 5.3 Liver Enzyme Abnormalities
+## 5.3 Hepatic Dysfunction
 
-It is recommended that liver enzyme tests be performed before the initiation of EZALLOR Sprinkle, and if signs or symptoms of liver injury occur.
+Increases in serum transaminases have been reported with use of EZALLOR SPRINKLE [see Adverse Reactions (6.1)].
+In most cases, these changes appeared soon after initiation, were transient, were not accompanied by symptoms, and resolved or improved on continued therapy or after a brief interruption in therapy.
+In a pooled analysis of placebo-controlled trials, increases in serum transaminases to more than three times the ULN occurred in 1.1% of patients taking EZALLOR SPRINKLE versus 0.5% of patients treated with placebo.
+Marked persistent increases of hepatic transaminases have also occurred with EZALLOR Sprinkle.
+There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including EZALLOR SPRINKLE.
 
-Increases in serum transaminases [AST (SGOT) or ALT (SGPT)] have been reported with HMG-CoA reductase inhibitors, including rosuvastatin.
-In most cases, the elevations were transient and resolved or improved on continued therapy or after a brief interruption in therapy.
-There were two cases of jaundice, for which a relationship to rosuvastatin therapy could not be determined, which resolved after discontinuation of therapy.
-There were no cases of liver failure or irreversible liver disease in these trials.
+Patients who consume substantial quantities of alcohol and/or have a history of liver disease may be at increased risk for hepatic injury [see Use in Specific Populations (8.7)].
 
-In a pooled analysis of placebo-controlled trials, increases in serum transaminases to > 3 times the upper limit of normal occurred in 1.1% of patients taking rosuvastatin versus 0.5% of patients treated with placebo.
+Consider liver enzyme testing before EZALLOR SPRINKLE initiation and when clinically indicated thereafter.
+EZALLOR SPRINKLE is contraindicated in patients with acute liver failure or decompensated cirrhosis [see Contraindications (4)].
+If serious hepatic injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs, promptly discontinue EZALLOR SPRINKLE.
 
-There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including rosuvastatin.
-If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with EZALLOR Sprinkle, promptly interrupt therapy.
-If an alternate etiology is not found, do not restart EZALLOR Sprinkle.
-
-EZALLOR Sprinkle should be used with caution in patients who consume substantial quantities of alcohol and/or have a history of chronic liver disease [see Clinical Pharmacology (12.3)].
-Active liver disease, which may include unexplained persistent transaminase elevations, is a contraindication to the use of EZALLOR Sprinkle [see Contraindications (4)].
-
-## 5.4 Concomitant Coumarin Anticoagulants
-
-Caution should be exercised when anticoagulants are given in conjunction with EZALLOR Sprinkle because of its potentiation of the effect of coumarin-type anticoagulants in prolonging the prothrombin time/INR.
-In patients taking coumarin anticoagulants and EZALLOR Sprinkle concomitantly, INR should be determined before starting EZALLOR Sprinkle and frequently enough during early therapy to ensure that no significant alteration of INR occurs [see Drug Interactions (7.6)].
-
-## 5.5 Proteinuria and Hematuria
+## 5.4 Proteinuria and Hematuria
 
 In the rosuvastatin clinical trial program, dipstick-positive proteinuria and microscopic hematuria were observed among rosuvastatin treated patients.
-These findings were more frequent in patients taking rosuvastatin 40 mg, when compared to lower doses of rosuvastatin or comparator HMG-CoA reductase inhibitors, though it was generally transient and was not associated with worsening renal function.
-Although the clinical significance of this finding is unknown, a dose reduction should be considered for patients on EZALLOR Sprinkle therapy with unexplained persistent proteinuria and/or hematuria during routine urinalysis testing.
+These findings were more frequent in patients taking rosuvastatin 40 mg, when compared to lower doses of rosuvastatin or comparator statins, though it was generally transient and was not associated with worsening renal function.
+Although the clinical significance of this finding is unknown, consider a dose reduction for patients on EZALLOR SPRINKLE therapy with unexplained persistent proteinuria and/or hematuria during routine urinalysis testing.
 
-## 5.6 Endocrine Effects
+## 5.5 Increases in HbA1c and Fasting Serum Glucose Levels
 
-Increases in HbA1c and fasting serum glucose levels have been reported with HMG-CoA reductase inhibitors, including rosuvastatin.
-Based on clinical trial data with rosuvastatin, in some instances these increases may exceed the threshold for the diagnosis of diabetes mellitus [see Adverse Reactions (6.1)].
-
-Although clinical studies have shown that rosuvastatin alone does not reduce basal plasma cortisol concentration or impair adrenal reserve, caution should be exercised if EZALLOR Sprinkle is administered concomitantly with drugs that may decrease the levels or activity of endogenous steroid hormones such as ketoconazole, spironolactone, and cimetidine.
+Increases in HbA1c and fasting serum glucose levels have been reported with statins, including EZALLOR SPRINKLE.
+Based on clinical trial data with EZALLOR SPRINKLE, in some instances these increases may exceed the threshold for the diagnosis of diabetes mellitus [see Adverse Reactions (6.1)].
+Optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices.
