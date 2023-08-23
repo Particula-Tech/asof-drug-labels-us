@@ -30,12 +30,11 @@ Propranolol should be administered with caution in this setting since it may pro
 
 Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
-## Diabetes and Hypoglycemia
+## Hypoglycemia
 
-Beta-adrenergic blockade may prevent the appearance of certain premonitory signs and symptoms (pulse rate and pressure changes) of acute hypoglycemia, especially in labile insulin-dependent diabetics.
-In these patients, it may be more difficult to adjust the dosage of insulin.
+Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting).
+If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment.
 
-Propranolol therapy, particularly when given to infants and children, diabetic or not, has been associated with hypoglycemia especially during fasting as in preparation for surgery.
 Hypoglycemia has been reported in patients taking propranolol after prolonged physical exertion and in patients with renal insufficiency.
 
 ## Thyrotoxicosis
@@ -62,6 +61,11 @@ Withdrawal may lead to a return of increased intraocular pressure.
 
 While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
+
+## Information for Patients
+
+Inform patients or caregivers that there is a risk of hypoglycemia when Inderal LA is given to patients who are fasting or who are vomiting.
+Monitor for symptoms of hypoglycemia.
 
 ## Clinical Laboratory Tests
 
