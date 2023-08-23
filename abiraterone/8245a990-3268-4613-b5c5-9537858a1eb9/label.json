@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA216793"
+  ],
+  "inn": "abiraterone",
+  "labeler": "Janssen Biotech, Inc.",
+  "package_ndcs": [
+    "57894-050-60",
+    "57894-100-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "niraparib tosylate monohydrate and abiraterone acetate",
+      "name": "AKEEGA"
+    }
+  ],
+  "setid": "8245a990-3268-4613-b5c5-9537858a1eb9",
+  "source": "dailymed"
+}
