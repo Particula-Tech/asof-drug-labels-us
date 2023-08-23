@@ -84,6 +84,7 @@ Musculoskeletal and Connective Tissue Disorders: muscle cramps, immune-mediated 
 Nervous System Disorders: dizziness, depression, paresthesia, peripheral neuropathy.
 Rare reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
 Cognitive impairment was generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
+There have been rare reports of new-onset or exacerbation of myasthenia gravis, including ocular myasthenia, and reports of recurrence when the same or a different statin was administered.
 
 Skin and Subcutaneous Tissue Disorders: pruritus, alopecia, a variety of skin changes (e.g., nodules, discoloration, dryness of skin/mucous membranes, changes to hair/nails), purpura, lichen planus, urticaria, photosensitivity, flushing, toxic epidermal necrolysis, erythema multiforme, including Stevens-Johnson syndrome
 
