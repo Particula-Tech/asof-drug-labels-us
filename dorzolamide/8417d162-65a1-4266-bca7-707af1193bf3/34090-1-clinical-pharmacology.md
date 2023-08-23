@@ -8,8 +8,8 @@ In humans, carbonic anhydrase exists as a number of isoenzymes, the most active 
 Inhibition of carbonic anhydrase in the ciliary processes of the eye decreases aqueous humor secretion, presumably by slowing the formation of bicarbonate ions with subsequent reduction in sodium and fluid transport.
 The result is a reduction in intraocular pressure (IOP).
 
-Dorzolamide HCl Ophthalmic Solution contains dorzolamide hydrochloride, an inhibitor of human carbonic anhydrase II.
-Following topical ocular administration, Dorzolamide HCl Ophthalmic Solution reduces elevated intraocular pressure.
+Dorzolamide hydrochloride ophthalmic solution contains dorzolamide hydrochloride, an inhibitor of human carbonic anhydrase II.
+Following topical ocular administration, dorzolamide hydrochloride ophthalmic solution reduces elevated intraocular pressure.
 Elevated intraocular pressure is a major risk factor in the pathogenesis of optic nerve damage and glaucomatous visual field loss.
 
 ## 12.3 Pharmacokinetics
@@ -20,7 +20,7 @@ To assess the potential for systemic carbonic anhydrase inhibition following top
 Dorzolamide accumulates in RBCs during chronic dosing as a result of binding to CA-II.
 The parent drug forms a single N-desethyl metabolite, which inhibits CA-II less potently than the parent drug but also inhibits CA-I.
 The metabolite also accumulates in RBCs where it binds primarily to CA-I.
-Plasma concentrations of dorzolamide and metabolite are generally below the assay limit of quantitation (15nM).
+Plasma concentrations of dorzolamide and metabolite are generally below the assay limit of quantitation (15 nM).
 Dorzolamide binds moderately to plasma proteins (approximately 33%).
 
 Dorzolamide is primarily excreted unchanged in the urine; the metabolite also is excreted in urine.
