@@ -1,4 +1,4 @@
-# PATIENT INFORMATION
+# Patient Information
 
 ELESTRIN® (el-LES-strin) (estradiol gel)
 
@@ -8,7 +8,7 @@ This information does not take the place of talking to your healthcare provider 
 
 | What is the most important information I should know about ELESTRIN (an estrogen hormone)? |
 | --- |
-| •Using estrogen-alone increases your chance of getting cancer of the uterus (womb)Report any unusual vaginal bleeding right away while you are using ELESTRIN. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.•Do not use estrogen-alone to prevent heart disease, heart attacks, strokes, or dementia (decline in brain function)•Using estrogen-alone may increase your chances of getting strokes or blood clots•Using estrogen-alone may increase your chance of getting dementia, based on a study of women age 65 years or older•Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes or dementia•Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots•Using estrogens with progestins may increase your chance of getting dementia, based on a study of women age 65 years or older•Only one estrogen-alone product and dose have been shown to increase your chances of getting strokes, blood clots, and dementia. Only one estrogen with progestin product and dose have been shown to increase your chances of getting heart attacks, strokes, breast cancer, blood clots, and dementia. Because other products and doses have not been studied in the same way, it is not known how the use of ELESTRIN will affect your chances of these conditions. You and your healthcare provider should talk regularly about whether you still need treatment with ELESTRIN. |
+| •Using estrogen-alone increases your chance of getting cancer of the uterus (womb)Report any unusual vaginal bleeding right away while you are using ELESTRIN. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.•Do not use estrogen-alone to prevent heart disease, heart attacks, strokes, or dementia (decline in brain function)•Using estrogen-alone may increase your chances of getting strokes or blood clots•Using estrogen-alone may increase your chance of getting dementia, based on a study of women age 65 years or older•Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes or dementia•Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots•Using estrogens with progestins may increase your chance of getting dementia, based on a study of women age 65 years or older•Only one estrogen-alone product and dose have been shown to increase your chances of getting strokes, blood clots, and dementia. Only one estrogen with progestin product and dose have been shown to increase your chances of getting heart attacks, strokes, breast cancer, blood clots, and dementia.•Because other products and doses have not been studied in the same way, it is not known how the use of ELESTRIN will affect your chances of these conditions. You and your healthcare provider should talk regularly about whether you still need treatment with ELESTRIN. |
 
 What is ELESTRIN?
 
@@ -47,17 +47,20 @@ Do not start ELESTRIN if you:
 - •are allergic to ELESTRIN or any of its ingredients
 - See the list of ingredients in ELESTRIN at the end of this leaflet
 - 
-- Before you use ELESTRIN, tell your healthcare provider about all of your medical conditions, including if you:
+
+Before you use ELESTRIN, tell your healthcare provider about all of your medical conditions, including if you:
+
 - •have any unusual vaginal bleeding Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
 - •have any other medical conditions that may become worse while you are using ELESTRIN Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
 - •are going to have surgery or will be on bed rest You may need to stop using ELESTRIN.
 - •are pregnant or think you may be pregnant ELESTRIN is not for pregnant women.
 - •are breastfeeding The hormone in ELESTRIN can pass into your breast milk.
-- Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-  Some medicines may affect how ELESTRIN works.
-  ELESTRIN may also affect how your other medicines work.
-  Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get new medicine.
+
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Some medicines may affect how ELESTRIN works.
+ELESTRIN may also affect how your other medicines work.
+Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get new medicine.
 
 How should I use ELESTRIN?
 

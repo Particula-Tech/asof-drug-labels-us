@@ -1,4 +1,4 @@
-# 15. REFERENCES
+# 15 REFERENCES
 
 1. 1.Rossouw JE, et al. Postmenopausal Hormone Therapy and Risk of Cardiovascular Disease by Age and Years Since Menopause.
    JAMA.

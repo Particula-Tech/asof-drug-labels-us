@@ -37,17 +37,15 @@ Avoid fire, flame, or smoking during application.
 
 Store at 20º to 25ºC (68º to 77ºF); excursions permitted to 15º to 30ºC (59º to 86ºF)
 
-Distributed by: Meda Pharmaceuticals™ Somerset, New Jersey 08873-4120
+Distributed by: Meda Pharmaceuticals® 1000 Mylan Blvd Canonsburg, PA 15317
 
-© 2017 Meda Pharmaceuticals Inc.
+© 2023 Viatris Inc.
 
 www.meda.us www.elestrin.com
 
-MEDA PHARMACEUTICALS and the MEDA PHARMACEUTICALS logo are trademarks and ELESTRIN is a registered trademark of Meda AB or a related entity.
+MEDA PHARMACEUTICALS and the Meda Pharmaceuticals Logo are trademarks of Meda AB, a Viatris Company.
 
-U.S. Pat.
-No. 7,198,801 and U.S. Pat.
-No. 7,470,433
+UC-048002-04
 
-UC-048002-03 Rev.
-10/2017
+Rev.
+7/2023

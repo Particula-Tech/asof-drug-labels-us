@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Effects on Vasomotor Symptoms in Postmenopausal Women
 
@@ -18,7 +18,7 @@ TABLE 3 - Mean Change from BaselineDifferences from baseline based on LS means d
 | Evaluation |  | Placebo (N=137) | ELESTRIN 0.87 g/day (N=136) | ELESTRIN 1.7 g/day (N=142) |
 | --- | --- | --- | --- | --- |
 | Number of Daily Hot Flushes |  |  |  |  |
-| Baseline (Mean ± SD)Unadjusted means and standard deviations, based on the first 14 days of the Screening Period. |  | 13.5 ± 4.5 | 13.3 ± 4.6 | 13.1 ± 6.5 |
+| Baseline (Mean ± SD)Unadjusted means and standard deviations based on the first 14 days of the Screening Period. |  | 13.5 ± 4.5 | 13.3 ± 4.6 | 13.1 ± 6.5 |
 | Mean Change: | Week 4 | -5.1 | -6.5P=ns | -8.0P<0.0001 for treatment comparison with placebo (Dunnett’s test). |
 | Week 5 |  | -5.1 | -7.5P<0.01 P<0.001 | -8.8 |
 | Week 12 |  | -5.4 | -8.5 | -10.0 |

@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Advise women to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
