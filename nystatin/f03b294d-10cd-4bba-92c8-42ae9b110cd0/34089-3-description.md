@@ -6,4 +6,4 @@ Its structural formula:
 C47H75NO17 M.W.
 926.13
 
-Nystatin Tablets USP contain the inactive ingredients: Corn Starch, Povidone, Compressible Sugar, Microcrystalline Cellulose, Sodium Starch Glycolate, Talc, Magnesium Stearate, Purified Water, and Coloring.
+Nystatin tablets, USP contain the inactive ingredients: corn starch, povidone, compressible sugar, microcrystalline cellulose, sodium starch glycolate, talc, magnesium stearate, purified water, and coloring.
