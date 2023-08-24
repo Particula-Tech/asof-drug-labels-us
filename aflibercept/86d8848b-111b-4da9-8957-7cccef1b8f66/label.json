@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "BLA761355"
+  ],
+  "inn": "aflibercept",
+  "labeler": "Regeneron Pharmaceuticals, Inc",
+  "package_ndcs": [
+    "61755-050-00",
+    "61755-050-01",
+    "61755-050-50",
+    "61755-050-51",
+    "61755-051-00",
+    "61755-051-01",
+    "61755-051-50",
+    "61755-051-51"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "aflibercept",
+      "name": "EYLEA HD"
+    }
+  ],
+  "setid": "86d8848b-111b-4da9-8957-7cccef1b8f66",
+  "source": "dailymed"
+}
