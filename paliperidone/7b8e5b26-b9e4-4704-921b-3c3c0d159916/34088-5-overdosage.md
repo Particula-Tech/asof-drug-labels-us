@@ -2,7 +2,7 @@
 
 ## 10.1 Human Experience
 
-While experience with paliperidone overdose is limited, among the few cases of overdose reported in pre-marketing trials, the highest estimated ingestion of INVEGA® was 405 mg.
+While experience with paliperidone overdose is limited, among the few cases of overdose reported in pre-marketing trials, the highest estimated ingestion of INVEGA ®was 405 mg.
 Observed signs and symptoms included extrapyramidal symptoms and gait unsteadiness.
 Other potential signs and symptoms include those resulting from an exaggeration of paliperidone's known pharmacological effects, i.e., drowsiness and somnolence, tachycardia and hypotension, and QT prolongation.
 Torsade de pointes and ventricular fibrillation have been reported in a patient in the setting of overdose.

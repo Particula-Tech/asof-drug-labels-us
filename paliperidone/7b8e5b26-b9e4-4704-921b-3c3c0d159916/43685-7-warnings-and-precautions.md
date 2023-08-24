@@ -8,13 +8,13 @@ Over the course of a typical 10-week controlled trial, the rate of death in drug
 Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
 Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality.
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
-INVEGA® (paliperidone) is not approved for the treatment of dementia-related psychosis [see Boxed Warning].
+INVEGA ®(paliperidone) is not approved for the treatment of dementia-related psychosis [see Boxed Warning].
 
 ## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
 In placebo-controlled trials with risperidone, aripiprazole, and olanzapine in elderly subjects with dementia, there was a higher incidence of cerebrovascular adverse reactions (cerebrovascular accidents and transient ischemic attacks) including fatalities compared to placebo-treated subjects.
-INVEGA® was not marketed at the time these studies were performed.
-INVEGA® is not approved for the treatment of patients with dementia-related psychosis [see also Boxed Warning and Warnings and Precautions (5.1)].
+INVEGA ®was not marketed at the time these studies were performed.
+INVEGA ®is not approved for the treatment of patients with dementia-related psychosis [see also Boxed Warningand Warnings and Precautions (5.1)].
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
@@ -22,7 +22,7 @@ Neuroleptic Malignant Syndrome (NMS), a potentially fatal symptom complex, has b
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status including delirium, and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
 Additional signs may include elevated creatine phosphokinase, myoglobinuria, rhabdomyolysis, and acute renal failure.
 
-If NMS is suspected, immediately discontinue INVEGA® and provide symptomatic treatment and monitoring.
+If NMS is suspected, immediately discontinue INVEGA ®and provide symptomatic treatment and monitoring.
 
 ## 5.4 QT Prolongation
 
@@ -35,12 +35,12 @@ Certain circumstances may increase the risk of the occurrence of torsade de poin
 The effects of paliperidone on the QT interval were evaluated in a double-blind, active-controlled (moxifloxacin 400 mg single dose), multicenter QT study in adults with schizophrenia and schizoaffective disorder, and in three placebo- and active-controlled 6-week, fixed-dose efficacy trials in adults with schizophrenia.
 
 In the QT study (n=141), the 8 mg dose of immediate-release oral paliperidone (n=50) showed a mean placebo-subtracted increase from baseline in QTcLD of 12.3 msec (90% CI: 8.9; 15.6) on day 8 at 1.5 hours post-dose.
-The mean steady-state peak plasma concentration for this 8 mg dose of paliperidone immediate-release was more than twice the exposure observed with the maximum recommended 12 mg dose of INVEGA® (Cmax ss = 113 ng/mL and 45 ng/mL, respectively, when administered with a standard breakfast).
-In this same study, a 4 mg dose of the immediate-release oral formulation of paliperidone, for which Cmax ss = 35 ng/mL, showed an increased placebo-subtracted QTcLD of 6.8 msec (90% CI: 3.6; 10.1) on day 2 at 1.5 hours post-dose.
+The mean steady-state peak plasma concentration for this 8 mg dose of paliperidone immediate-release was more than twice the exposure observed with the maximum recommended 12 mg dose of INVEGA ®(C max ss= 113 ng/mL and 45 ng/mL, respectively, when administered with a standard breakfast).
+In this same study, a 4 mg dose of the immediate-release oral formulation of paliperidone, for which C max ss= 35 ng/mL, showed an increased placebo-subtracted QTcLD of 6.8 msec (90% CI: 3.6; 10.1) on day 2 at 1.5 hours post-dose.
 None of the subjects had a change exceeding 60 msec or a QTcLD exceeding 500 msec at any time during this study.
 
-For the three fixed-dose efficacy studies in subjects with schizophrenia, electrocardiogram (ECG) measurements taken at various time points showed only one subject in the INVEGA® 12 mg group had a change exceeding 60 msec at one time-point on Day 6 (increase of 62 msec).
-No subject receiving INVEGA® had a QTcLD exceeding 500 msec at any time in any of these three studies.
+For the three fixed-dose efficacy studies in subjects with schizophrenia, electrocardiogram (ECG) measurements taken at various time points showed only one subject in the INVEGA ®12 mg group had a change exceeding 60 msec at one time-point on Day 6 (increase of 62 msec).
+No subject receiving INVEGA ®had a QTcLD exceeding 500 msec at any time in any of these three studies.
 
 ## 5.5 Tardive Dyskinesia
 
@@ -56,13 +56,13 @@ Tardive dyskinesia may remit, partially or completely, if antipsychotic treatmen
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
-Given these considerations, INVEGA® should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
+Given these considerations, INVEGA ®should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
 Chronic antipsychotic treatment should generally be reserved for patients: (1) who suffer from a chronic illness that is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
 In patients who do require chronic treatment, use the lowest dose and the shortest duration of treatment producing a satisfactory clinical response.
 Periodically reassess the need for continued treatment.
 
-If signs and symptoms of tardive dyskinesia appear in a patient on INVEGA®, drug discontinuation should be considered.
-However, some patients may require treatment with INVEGA® despite the presence of the syndrome.
+If signs and symptoms of tardive dyskinesia appear in a patient on INVEGA ®, drug discontinuation should be considered.
+However, some patients may require treatment with INVEGA ®despite the presence of the syndrome.
 
 ## 5.6 Metabolic Changes
 
@@ -73,11 +73,11 @@ While all of the drugs in the class have been shown to produce some metabolic ch
 Hyperglycemia and Diabetes Mellitus
 
 Hyperglycemia and diabetes mellitus, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, have been reported in patients treated with all atypical antipsychotics.
-These cases were, for the most part, seen in post-marketing clinical use and epidemiologic studies, not in clinical trials, and there have been few reports of hyperglycemia or diabetes in trial subjects treated with INVEGA®.
+These cases were, for the most part, seen in post-marketing clinical use and epidemiologic studies, not in clinical trials, and there have been few reports of hyperglycemia or diabetes in trial subjects treated with INVEGA ®.
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
 Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse events is not completely understood.
 However, epidemiological studies suggest an increased risk of treatment-emergent hyperglycemia-related adverse events in patients treated with the atypical antipsychotics.
-Because INVEGA® was not marketed at the time these studies were performed, it is not known if INVEGA® is associated with this increased risk.
+Because INVEGA ®was not marketed at the time these studies were performed, it is not known if INVEGA ®is associated with this increased risk.
 
 Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics should be monitored regularly for worsening of glucose control.
 Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
@@ -92,7 +92,7 @@ Change in Fasting Glucose from Three Placebo-Controlled, 6-Week, Fixed-Dose Stud
 
 |  | Placebo | 3 mg/day | 6 mg/day | 9 mg/day | 12 mg/day |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  | INVEGA® |  |  |
+|  |  |  | INVEGA ® |  |  |
 |  | Mean change from baseline (mg/dL) |  |  |  |  |
 |  | n=322 | n=122 | n=212 | n=234 | n=218 |
 | Serum Glucose Change from baseline | 0.8 | -0.7 | 0.4 | 2.3 | 4.3 |
@@ -100,7 +100,7 @@ Change in Fasting Glucose from Three Placebo-Controlled, 6-Week, Fixed-Dose Stud
 | Serum Glucose Normal to High | 5.1% | 3.2% | 4.5% | 4.8% | 3.8% |
 | (<100 mg/dL to ≥126 mg/dL) | (12/236) | (3/93) | (7/156) | (9/187) | (6/157) |
 
-In the uncontrolled, longer-term open-label extension studies, INVEGA® was associated with a mean change in glucose of +3.3 mg/dL at Week 24 (n=570) and +4.6 mg/dL at Week 52 (n=314).
+In the uncontrolled, longer-term open-label extension studies, INVEGA ®was associated with a mean change in glucose of +3.3 mg/dL at Week 24 (n=570) and +4.6 mg/dL at Week 52 (n=314).
 
 Data from the placebo-controlled 6-week study in adolescent subjects (12–17 years of age) with schizophrenia are presented in Table 1b.
 
@@ -109,7 +109,7 @@ Change in Fasting Glucose from a Placebo-Controlled 6-Week Study in Adolescent S
 
 |  | Placebo | 1.5 mg/day | 3 mg/day | 6 mg/day | 12 mg/day |
 | --- | --- | --- | --- | --- | --- |
-|  |  | INVEGA® |  |  |  |
+|  |  | INVEGA ® |  |  |  |
 |  | Mean change from baseline (mg/dL) |  |  |  |  |
 |  | n=41 | n=44 | n=11 | n=28 | n=32 |
 | Serum Glucose Change from baseline | 0.8 | -1.4 | -1.8 | -0.1 | 5.2 |
@@ -128,7 +128,7 @@ Change in Fasting Lipids from Three Placebo-Controlled, 6-Week, Fixed-Dose Studi
 
 |  | Placebo | 3 mg/day | 6 mg/day | 9 mg/day | 12 mg/day |
 | --- | --- | --- | --- | --- | --- |
-|  |  | INVEGA® |  |  |  |
+|  |  | INVEGA ® |  |  |  |
 |  | Mean change from baseline (mg/dL) |  |  |  |  |
 | Cholesterol | n=331 | n=120 | n=216 | n=236 | n=231 |
 | Change from baseline | -6.3 | -4.4 | -2.4 | -5.3 | -4.0 |
@@ -152,7 +152,7 @@ Change in Fasting Lipids from Three Placebo-Controlled, 6-Week, Fixed-Dose Studi
 | Normal to High | 5.3% | 11.0% | 8.8% | 8.7% | 4.3% |
 | (<150 mg/dL to ≥200 mg/dL) | (11/208) | (9/82) | (12/136) | (13/150) | (6/139) |
 
-In the uncontrolled, longer-term open-label extension studies, INVEGA® was associated with a mean change in (a) total cholesterol of -1.5 mg/dL at Week 24 (n=573) and -1.5 mg/dL at Week 52 (n=317), (b) triglycerides of -6.4 mg/dL at Week 24 (n=573) and -10.5 mg/dL at Week 52 (n=317); (c) LDL of -1.9 mg/dL at Week 24 (n=557) and -2.7 mg/dL at Week 52 (n=297); and (d) HDL of +2.2 mg/dL at Week 24 (n=568) and +3.6 mg/dL at Week 52 (n=302).
+In the uncontrolled, longer-term open-label extension studies, INVEGA ®was associated with a mean change in (a) total cholesterol of -1.5 mg/dL at Week 24 (n=573) and -1.5 mg/dL at Week 52 (n=317), (b) triglycerides of -6.4 mg/dL at Week 24 (n=573) and -10.5 mg/dL at Week 52 (n=317); (c) LDL of -1.9 mg/dL at Week 24 (n=557) and -2.7 mg/dL at Week 52 (n=297); and (d) HDL of +2.2 mg/dL at Week 24 (n=568) and +3.6 mg/dL at Week 52 (n=302).
 
 Data from the placebo-controlled 6-week study in adolescent subjects (12–17 years of age) with schizophrenia are presented in Table 2b.
 
@@ -161,7 +161,7 @@ Change in Fasting Lipids from a Placebo-Controlled 6-Week Study in Adolescent Su
 
 |  | Placebo | 1.5 mg/day | 3 mg/day | 6 mg/day | 12 mg/day |
 | --- | --- | --- | --- | --- | --- |
-|  |  | INVEGA® |  |  |  |
+|  |  | INVEGA ® |  |  |  |
 |  | Mean change from baseline (mg/dL) |  |  |  |  |
 | Cholesterol | n=39 | n=45 | n=11 | n=28 | n=32 |
 | Change from baseline | -7.8 | -3.3 | 12.7 | 3.0 | -1.5 |
@@ -199,14 +199,14 @@ Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain 
 
 |  | n=323 | n=112 | n=215 | n=235 | n=218 |
 | --- | --- | --- | --- | --- | --- |
-|  |  | INVEGA® |  |  |  |
+|  |  | INVEGA ® |  |  |  |
 |  | Placebo | 3 mg/day | 6 mg/day | 9 mg/day | 12 mg/day |
 | Weight (kg) Change from baseline | -0.4 | 0.6 | 0.6 | 1.0 | 1.1 |
 | Weight Gain ≥ 7% increase from baseline | 5% | 7% | 6% | 9% | 9% |
 
-In the uncontrolled, longer-term open-label extension studies, INVEGA® was associated with a mean change in weight of +1.4 kg at Week 24 (n=63) and +2.6 kg at Week 52 (n=302).
+In the uncontrolled, longer-term open-label extension studies, INVEGA ®was associated with a mean change in weight of +1.4 kg at Week 24 (n=63) and +2.6 kg at Week 52 (n=302).
 
-Weight gain in adolescent subjects with schizophrenia was assessed in a 6-week, double-blind, placebo-controlled study and an open-label extension with a median duration of exposure to INVEGA® of 182 days.
+Weight gain in adolescent subjects with schizophrenia was assessed in a 6-week, double-blind, placebo-controlled study and an open-label extension with a median duration of exposure to INVEGA ®of 182 days.
 Data on mean changes in body weight and the proportion of subjects meeting a weight gain criterion of ≥ 7% of body weight [see Clinical Studies (14.1)] from the placebo-controlled 6-week study in adolescent subjects (12–17 years of age) are presented in Table 3b.
 
 Table 3b.
@@ -214,25 +214,25 @@ Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain 
 
 |  | n=51 | n=54 | n=16 | n=45 | n=34 |
 | --- | --- | --- | --- | --- | --- |
-|  |  | INVEGA® |  |  |  |
+|  |  | INVEGA ® |  |  |  |
 |  | Placebo | 1.5 mg/day | 3 mg/day | 6 mg/day | 12 mg/day |
 | Weight (kg) Change from baseline | 0.0 | 0.3 | 0.8 | 1.2 | 1.5 |
 | Weight Gain ≥ 7% increase from baseline | 2% | 6% | 19% | 7% | 18% |
 
-In the open-label long-term study the proportion of total subjects treated with INVEGA® with an increase in body weight of ≥ 7% from baseline was 33%.
-When treating adolescent patients with INVEGA®, weight gain should be assessed against that expected with normal growth.
-When taking into consideration the median duration of exposure to INVEGA® in the open-label study (182 days) along with expected normal growth in this population based on age and gender, an assessment of standardized scores relative to normative data provides a more clinically relevant measure of changes in weight.
+In the open-label long-term study the proportion of total subjects treated with INVEGA ®with an increase in body weight of ≥ 7% from baseline was 33%.
+When treating adolescent patients with INVEGA ®, weight gain should be assessed against that expected with normal growth.
+When taking into consideration the median duration of exposure to INVEGA ®in the open-label study (182 days) along with expected normal growth in this population based on age and gender, an assessment of standardized scores relative to normative data provides a more clinically relevant measure of changes in weight.
 The mean change from open-label baseline to endpoint in standardized score for weight was 0.1 (4% above the median for normative data).
 Based on comparison to the normative data, these changes are not considered to be clinically significant.
 
 Schizoaffective Disorder Trials
 
-In the pooled data from the two placebo-controlled, 6-week studies in adult subjects with schizoaffective disorder, a higher percentage of INVEGA®-treated subjects (5%) had an increase in body weight of ≥ 7% compared with placebo-treated subjects (1%).
+In the pooled data from the two placebo-controlled, 6-week studies in adult subjects with schizoaffective disorder, a higher percentage of INVEGA ®-treated subjects (5%) had an increase in body weight of ≥ 7% compared with placebo-treated subjects (1%).
 In the study that examined high- and low-dose groups, the increase in body weight of ≥ 7% was 3% in the low-dose group, 7% in the high-dose group, and 1% in the placebo group.
 
 ## 5.7 Hyperprolactinemia
 
-Like other drugs that antagonize dopamine D2 receptors, paliperidone elevates prolactin levels and the elevation persists during chronic administration.
+Like other drugs that antagonize dopamine D 2receptors, paliperidone elevates prolactin levels and the elevation persists during chronic administration.
 Paliperidone has a prolactin-elevating effect similar to that seen with risperidone, a drug that is associated with higher levels of prolactin than other antipsychotic drugs.
 
 Hyperprolactinemia, regardless of etiology, may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotrophin secretion.
@@ -246,9 +246,9 @@ Neither clinical studies nor epidemiologic studies conducted to date have shown 
 
 ## 5.8 Potential for Gastrointestinal Obstruction
 
-Because the INVEGA® tablet is non-deformable and does not appreciably change in shape in the gastrointestinal tract, INVEGA® should ordinarily not be administered to patients with pre-existing severe gastrointestinal narrowing (pathologic or iatrogenic, for example: esophageal motility disorders, small bowel inflammatory disease, "short gut" syndrome due to adhesions or decreased transit time, past history of peritonitis, cystic fibrosis, chronic intestinal pseudo-obstruction, or Meckel's diverticulum).
+Because the INVEGA ®tablet is non-deformable and does not appreciably change in shape in the gastrointestinal tract, INVEGA ®should ordinarily not be administered to patients with pre-existing severe gastrointestinal narrowing (pathologic or iatrogenic, for example: esophageal motility disorders, small bowel inflammatory disease, "short gut" syndrome due to adhesions or decreased transit time, past history of peritonitis, cystic fibrosis, chronic intestinal pseudo-obstruction, or Meckel's diverticulum).
 There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of drugs in non-deformable controlled-release formulations.
-Because of the controlled-release design of the tablet, INVEGA® should only be used in patients who are able to swallow the tablet whole [see Dosage and Administration (2.3) and Patient Counseling Information (17)].
+Because of the controlled-release design of the tablet, INVEGA ®should only be used in patients who are able to swallow the tablet whole [see Dosage and Administration (2.3)and Patient Counseling Information (17)].
 
 A decrease in transit time, e.g., as seen with diarrhea, would be expected to decrease bioavailability and an increase in transit time, e.g., as seen with gastrointestinal neuropathy, diabetic gastroparesis, or other causes, would be expected to increase bioavailability.
 These changes in bioavailability are more likely when the changes in transit time occur in the upper GI tract.
@@ -256,53 +256,53 @@ These changes in bioavailability are more likely when the changes in transit tim
 ## 5.9 Orthostatic Hypotension and Syncope
 
 Paliperidone can induce orthostatic hypotension and syncope in some patients because of its alpha-blocking activity.
-In pooled results of the three placebo-controlled, 6-week, fixed-dose trials in subjects with schizophrenia, syncope was reported in 0.8% (7/850) of subjects treated with INVEGA® (3 mg, 6 mg, 9 mg, 12 mg) compared to 0.3% (1/355) of subjects treated with placebo.
+In pooled results of the three placebo-controlled, 6-week, fixed-dose trials in subjects with schizophrenia, syncope was reported in 0.8% (7/850) of subjects treated with INVEGA ®(3 mg, 6 mg, 9 mg, 12 mg) compared to 0.3% (1/355) of subjects treated with placebo.
 
-INVEGA® should be used with caution in patients with known cardiovascular disease (e.g., heart failure, history of myocardial infarction or ischemia, conduction abnormalities), cerebrovascular disease, or conditions that predispose the patient to hypotension (e.g., dehydration, hypovolemia, and treatment with antihypertensive medications).
+INVEGA ®should be used with caution in patients with known cardiovascular disease (e.g., heart failure, history of myocardial infarction or ischemia, conduction abnormalities), cerebrovascular disease, or conditions that predispose the patient to hypotension (e.g., dehydration, hypovolemia, and treatment with antihypertensive medications).
 Monitoring of orthostatic vital signs should be considered in patients who are vulnerable to hypotension.
 
 ## 5.10 Falls
 
-Somnolence, postural hypotension, motor and sensory instability have been reported with the use of antipsychotics, including INVEGA®, which may lead to falls and, consequently, fractures or other fall-related injuries.
+Somnolence, postural hypotension, motor and sensory instability have been reported with the use of antipsychotics, including INVEGA ®, which may lead to falls and, consequently, fractures or other fall-related injuries.
 For patients, particularly the elderly, with diseases, conditions, or medications that could exacerbate these effects, assess the risk of falls when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
 
 ## 5.11 Leukopenia, Neutropenia, and Agranulocytosis
 
-In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including INVEGA®.
+In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including INVEGA ®.
 Agranulocytosis has also been reported.
 
 Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC)/absolute neutrophil count (ANC) and history of drug-induced leukopenia/neutropenia.
 In patients with a history of a clinically significant low WBC/ANC or a drug-induced leukopenia/neutropenia, perform a complete blood count (CBC) frequently during the first few months of therapy.
-In such patients, consider discontinuation of INVEGA® at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
+In such patients, consider discontinuation of INVEGA ®at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur.
-Discontinue INVEGA® in patients with severe neutropenia (absolute neutrophil count < 1000/mm3) and follow their WBC until recovery.
+Discontinue INVEGA ®in patients with severe neutropenia (absolute neutrophil count < 1000/mm 3) and follow their WBC until recovery.
 
 ## 5.12 Potential for Cognitive and Motor Impairment
 
-Somnolence, sedation, and dizziness were reported as adverse reactions in subjects treated with INVEGA® [see Adverse Reactions (6.2)].
-Antipsychotics, including INVEGA®, have the potential to impair judgment, thinking, or motor skills.
+Somnolence, sedation, and dizziness were reported as adverse reactions in subjects treated with INVEGA ®[see Adverse Reactions (6.2)].
+Antipsychotics, including INVEGA ®, have the potential to impair judgment, thinking, or motor skills.
 Patients should be cautioned about performing activities requiring mental alertness, such as operating hazardous machinery or operating a motor vehicle, until they are reasonably certain that paliperidone therapy does not adversely affect them.
 
 ## 5.13 Seizures
 
-During premarketing clinical trials in subjects with schizophrenia (the three placebo-controlled, 6-week, fixed-dose studies and a study conducted in elderly schizophrenic subjects), seizures occurred in 0.22% of subjects treated with INVEGA® (3 mg, 6 mg, 9 mg, 12 mg) and 0.25% of subjects treated with placebo.
-Like other antipsychotic drugs, INVEGA® should be used cautiously in patients with a history of seizures or other conditions that potentially lower the seizure threshold.
+During premarketing clinical trials in subjects with schizophrenia (the three placebo-controlled, 6-week, fixed-dose studies and a study conducted in elderly schizophrenic subjects), seizures occurred in 0.22% of subjects treated with INVEGA ®(3 mg, 6 mg, 9 mg, 12 mg) and 0.25% of subjects treated with placebo.
+Like other antipsychotic drugs, INVEGA ®should be used cautiously in patients with a history of seizures or other conditions that potentially lower the seizure threshold.
 Conditions that lower the seizure threshold may be more prevalent in patients 65 years or older.
 
 ## 5.14 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer's dementia.
-INVEGA® and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
+INVEGA ®and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
 
 ## 5.15 Priapism
 
 Drugs with alpha-adrenergic blocking effects have been reported to induce priapism.
-Priapism has been reported with INVEGA® during postmarketing surveillance.
+Priapism has been reported with INVEGA ®during postmarketing surveillance.
 Severe priapism may require surgical intervention.
 
 ## 5.16 Body Temperature Regulation
 
 Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
-Appropriate care is advised when prescribing INVEGA® to patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
+Appropriate care is advised when prescribing INVEGA ®to patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.

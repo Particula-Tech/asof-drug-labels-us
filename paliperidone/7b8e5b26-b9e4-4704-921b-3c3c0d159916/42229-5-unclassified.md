@@ -1,4 +1,4 @@
-INVEGA® (paliperidone) Extended-Release Tablets
+INVEGA ®(paliperidone) Extended-Release Tablets
 
 Product of Ireland
 

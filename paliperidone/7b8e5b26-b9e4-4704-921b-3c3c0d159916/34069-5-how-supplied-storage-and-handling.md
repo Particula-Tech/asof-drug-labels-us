@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-INVEGA® (paliperidone) Extended-Release Tablets are available in the following strengths and packages.
+INVEGA ®(paliperidone) Extended-Release Tablets are available in the following strengths and packages.
 All tablets are capsule-shaped.
 
 1.5 mg tablets are orange-brown and imprinted with "PAL 1.5", and are available in bottles of 30 (NDC 50458-554-01).

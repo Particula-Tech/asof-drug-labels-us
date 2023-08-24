@@ -2,7 +2,7 @@
 
 NDC 50458-550-01
 
-INVEGA® PALIPERIDONE Extended-Release Tablets
+INVEGA ® PALIPERIDONE Extended-Release Tablets
 
 3 mg
 
@@ -20,7 +20,7 @@ janssen
 
 NDC 50458-551-01
 
-INVEGA® PALIPERIDONE Extended-Release Tablets
+INVEGA ® PALIPERIDONE Extended-Release Tablets
 
 6 mg
 
@@ -38,7 +38,7 @@ janssen
 
 NDC 50458-552-01
 
-INVEGA® PALIPERIDONE Extended-Release Tablets
+INVEGA ® PALIPERIDONE Extended-Release Tablets
 
 9 mg
 
@@ -56,7 +56,7 @@ janssen
 
 NDC 50458-554-01
 
-INVEGA® PALIPERIDONE Extended-Release Tablets
+INVEGA ® PALIPERIDONE Extended-Release Tablets
 
 1.5 mg
 
