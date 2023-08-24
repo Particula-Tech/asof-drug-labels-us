@@ -56,10 +56,10 @@ The safety and effectiveness of rosuvastatin as an adjunct to diet to reduce LDL
 Use of rosuvastatin for this indication is based on one 12-week controlled trial with a 40-week open-label extension period in 176 pediatric patients 10 years of age and older with HeFH and one 2-year open-label, uncontrolled trial in 175 pediatric patients 8 years of age and older with HeFH [see Clinical Studies (14)].
 In the 1-year trial with a 12-week controlled phase, there was no detectable effect of rosuvastatin on growth, weight, BMI (body mass index), or sexual maturation in patients aged 10 to 17 years.
 
-The safety and effectiveness of rosuvastatin have not been established in pediatric patients younger than 8 years of age with HeFH or in pediatric patients with other types of hyperlipidemia (other than HeFH or HoFH).
+The safety and effectiveness of rosuvastatin as an adjunct to other LDL-C-lowering therapies to reduce LDL-C have been established pediatric patients 7 years of age and older with HoFH.
+Use of rosuvastatin for this indication is based on a randomized, placebo-controlled, cross-over study in 14 pediatric patients 7 years of age and older with HoFH [see Clinical Studies (14)].
 
-Pediatric use information for patients 7 to 17 years of age is approved for AstraZeneca’sCRESTOR (rosuvastatin calcium) tablets.
-However, due to AstraZeneca’s marketingexclusivity rights, this drug product is not labeled with that pediatric information.
+The safety and effectiveness of rosuvastatin have not been established in pediatric patients younger than 8 years of age with HeFH, younger than 7 years of age with HoFH, or in pediatric patients with other types of hyperlipidemia (other than HeFH or HoFH).
 
 ## 8.5 Geriatric Use
 

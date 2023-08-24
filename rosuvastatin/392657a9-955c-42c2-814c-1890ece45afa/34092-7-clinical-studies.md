@@ -51,8 +51,6 @@ After randomization, patients were treated for 6 weeks with a single daily dose 
 Figure 3.
 Percent LDL-C Change by Dose of Rosuvastatin, Atorvastatin, Simvastatin, and Pravastatin at Week 6 in Adult Patients with Hyperlipidemia or Mixed Dyslipidemia
 
-At one year, rosuvastatin increased HDL-C and reduced LDL-C, hsCRP, total cholesterol and serum triglyceride levels (p<0.001 for all versus placebo).
-
 Box plots are a representation of the 25th, 50th, and 75th percentile values, with whiskers representing the 10th and 90th percentile values.
 Mean baseline LDL-C: 189 mg/dL
 
@@ -67,6 +65,12 @@ Table 11: Percent Change in LDL-C by Dose of Rosuvastatin, Atorvastatin, Simvast
 | Pravastatin | -20 | -24 | -30 | --‑ |
 
 1. 1Corresponding standard errors are approximately 1
+2. 2Rosuvastatin 10 mg reduced LDL-C significantly more than atorvastatin 10 mg; pravastatin 10 mg, 20 mg, and 40 mg; simvastatin 10 mg, 20 mg, and 40 mg.
+   (p<0.002)
+3. 3Rosuvastatin 20 mg reduced LDL-C significantly more than atorvastatin 20 mg and 40 mg; pravastatin 20 mg and 40 mg; simvastatin 20 mg, 40 mg, and 80 mg.
+   (p<0.002)
+4. 4Rosuvastatin 40 mg reduced LDL-C significantly more than atorvastatin 40 mg; pravastatin 40 mg; simvastatin 40 mg, and 80 mg.
+   (p<0.002)
 
 Slowing of the Progression of Atherosclerosis
 
@@ -139,6 +143,31 @@ In the 27 patients with at least a 15% reduction in LDL-C, the mean LDL-C reduct
 Among 13 patients with an LDL-C reduction of <15%, 3 had no change or an increase in LDL-C.
 Reductions in LDL-C of 15% or greater were observed in 3 of 5 patients with known receptor negative status.
 
+HoFH in Pediatric Patients
+
+Rosuvastatin was studied in a randomized, double-blind, placebo-controlled, multicenter, cross- over study in 14 pediatric patients with HoFH.
+The study included a 4-week dietary lead-in phase during which patients received rosuvastatin 10 mg daily, a cross-over phase that included two 6-week treatment periods with either rosuvastatin 20 mg or placebo in random order, followed by a 12-week open-label phase during which all patients received rosuvastatin 20 mg.
+Patients ranged in age from 7 to 15 years of age (median 11 years), 50% were male, 71% were White, 21% were Asian, 7% were Black, and no patients were of Hispanic ethnicity.
+Fifty percent were on apheresis therapy and 57% were taking ezetimibe.
+Patients who entered the study on apheresis therapy or ezetimibe continued the treatment throughout the entire study.
+Mean LDL-C at baseline was 416 mg/dL (range 152 to 716 mg/dL).
+A total of 13 patients completed both treatment periods of the randomized cross-over phase; one patient withdrew consent due to inability to have blood drawn during the cross-over phase.
+
+Rosuvastatin 20 mg significantly reduced LDL-C, total cholesterol, ApoB, and non- HDL-C compared to placebo (Table 14).
+
+Table 14: Lipid-modifying Effects of Rosuvastatin in Pediatric Patients 7 to 15 years of Age with Homozygous Familial Hypercholesterolemia After 6 Weeks
+
+|  | Placebo(N=13) | Rosuvastatin 20 mg(N=13) | Percent difference(95% CI) |
+| --- | --- | --- | --- |
+| LDL-C (mg/dL) | 481 | 396 | -22.3% (-33.5, -9.1)1 |
+| Total-C (mg/dL) | 539 | 448 | -20.1% (-29.7, -9.1)2 |
+| Non-HDL-C (mg/dL) | 505 | 412 | -22.9% (-33.7, -10.3)2 |
+| ApoB (mg/dL) | 268 | 235 | -17.1% (-29.2, -2.9)3 |
+
+% Difference estimates are based on transformations of the estimated mean difference in log LDL measurements between rosuvastatin and placebo using a mixed model adjusted for study period
+
+1 p=0.005, 2 p=0.003, 3 p=0.024
+
 Primary Dysbetalipoproteinemia in Adults
 
 In a randomized, multicenter, double-blind crossover study, 32 adult patients (27 with є2/є2 and 4 with apo E mutation [Arg145Cys] with primary dysbetalipoproteinemia entered a 6-week dietary lead-in period on the NCEP Therapeutic Lifestyle Change (TLC) diet.
@@ -171,6 +200,3 @@ Table 16: Lipid-Modifying Effect of Rosuvastatin in Adult Patients with Primary 
 | Total-C | 1 (-13, 17) | -24 (-40, -4) | -40 (-51, -14) | -34 (-61, -11) | -40 (-51, -4) |
 | LDL-C | 5 (-30, 52) | -28 (-71, 2) | -45 (-59, 7) | -31 (-66, 34) | -43 (-61, -3) |
 | HDL-C | -3 (-25, 18) | 3 (-38, 33) | 8 (-8, 24) | 22 (-5, 50) | 17 (-14, 63) |
-
-Pediatric use information for patients 7 to 17 years of age is approved for AstraZeneca’s CRESTOR (rosuvastatin calcium) tablets.
-However, due to AstraZeneca’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

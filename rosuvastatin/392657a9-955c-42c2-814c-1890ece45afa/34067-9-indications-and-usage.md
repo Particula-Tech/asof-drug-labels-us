@@ -7,9 +7,7 @@ Rosuvastatin tablets are indicated:
 - oReduce LDL-C in adults with primary hyperlipidemia.
 - oReduce low-density lipoprotein cholesterol (LDL-C) and slow the progression of atherosclerosis in adults.
 - oReduce LDL-C in adults and pediatric patients aged 8 years and older with heterozygous familial hypercholesterolemia (HeFH).
+- •As an adjunct to other LDL-C-lowering therapies, or alone if such treatments are unavailable, to reduce LDL-C in adults and pediatric patients aged 7 years and older with homozygous familial hypercholesterolemia (HoFH).
 - •As an adjunct to diet for the treatment of adults with:
 - oPrimary dysbetalipoproteinemia.
 - oHypertriglyceridemia.
-
-Pediatric use information for patients 7 to 17 years of age is approved for AstraZeneca’s CRESTOR (rosuvastatin calcium) tablets.
-However, due to AstraZeneca’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

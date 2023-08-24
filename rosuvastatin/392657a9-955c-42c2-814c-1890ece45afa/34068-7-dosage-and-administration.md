@@ -19,8 +19,9 @@ Dosage in Pediatric Patients 8 Years of Age and Older with HeFH
 
 The recommended dosage range is 5 mg to 10 mg orally once daily in patients aged 8 years to less than 10 years and 5 mg to 20 mg orally once daily in patients aged 10 years and older.
 
-Pediatric use information for patients 7 to 17 years of age is approved for AstraZeneca’s CRESTOR (rosuvastatin calcium) tablets.
-However, due to AstraZeneca’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Dosage in Pediatric Patients 7 Years of Age and Older with HoFH
+
+The recommended dosage is 20 mg orally once daily.
 
 ## 2.4 Dosing in Asian Patients
 
@@ -45,11 +46,12 @@ Table 1: Rosuvastatin Tablets Dosage Modifications Due to Drug Interactions
 | --- | --- |
 | Cyclosporine | Do not exceed 5 mg once daily. |
 | Teriflunomide | Do not exceed 10 mg once daily. |
+| Enasidenib | Do not exceed 10 mg once daily. |
 | Capmatinib | Do not exceed 10 mg once daily. |
 | Fostamatinib | Do not exceed 20 mg once daily. |
 | Febuxostat | Do not exceed 20 mg once daily. |
 | Gemfibrozil | Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 10 mg once daily. |
-| Tafamidis | Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 10 mg once daily. |
+| Tafamidis | Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 20 mg once daily. |
 | Antiviral Medications |  |
 | oSofbuvir/velpatasvir/voxilapreviroLedipasvir/sofosbuvir | Concomitant use not recommended. |
 | oSimepreviroDasabuvir/ombitasvir/paritaprevir/ritonavir oElbasvir/Grazoprevir oSofosbuvir/VelpatasviroGlecaprevir/PibrentasviroAtazanavir/RitonaviroLopinavir/Ritonavir | Initiate at 5 mg once daily. Do not exceed 10 mg once daily. |
