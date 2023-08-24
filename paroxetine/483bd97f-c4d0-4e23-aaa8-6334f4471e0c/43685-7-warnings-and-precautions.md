@@ -12,11 +12,11 @@ Table 2: Risk Differences of the Number of Patients of Suicidal Thoughts and Beh
 | Age Range | Drug-Placebo Difference in Number of Patients of Suicidal Thoughts and Behaviors per 1,000 Patients Treated |
 | --- | --- |
 | Increases Compared to Placebo |  |
-| <18 years old | 14 additional cases |
-| 18-24 years old | 5 additional cases |
+| <18 years old | 14 additional patients |
+| 18-24 years old | 5 additional patients |
 | Decreases Compared to Placebo |  |
-| 25-64 years old | 1 fewer case |
-| ≥65 years old | 6 fewer cases |
+| 25-64 years old | 1 fewer patient |
+| ≥65 years old | 6 fewer patients |
 
 It is unknown whether the risk of suicidal thoughts and behaviors in children, adolescents, and young adults extends to longer-term use, i.e., beyond four months.
 However, there is substantial evidence from placebo-controlled maintenance trials in adults with MDD that antidepressants delay the recurrence of depression and that depression itself is a risk factor for suicidal thoughts and behaviors.
@@ -28,7 +28,7 @@ Consider changing the therapeutic regimen, including possibly discontinuing PAXI
 ## 5.2 Serotonin Syndrome
 
 Serotonin-norepinephrine reuptake inhibitors (SNRIs) and SSRIs, including PAXIL CR, can precipitate serotonin syndrome, a potentially life-threatening condition.
-The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)].
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, meperidine, methadone, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)].
 Serotonin syndrome can also occur when these drugs are used alone.
 
 Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -47,19 +47,17 @@ If concomitant use of PAXIL CR with other serotonergic drugs is clinically warra
 The CYP2D6 inhibitory properties of paroxetine can elevate plasma levels of thioridazine and pimozide.
 Since thioridazine and pimozide given alone produce prolongation of the QTc interval and increase the risk of serious ventricular arrhythmias, the use of PAXIL CR is contraindicated in combination with thioridazine and pimozide [see Contraindications (4), Drug Interactions (7), Clinical Pharmacology (12.3)].
 
-## 5.4 Embryofetal and Neonatal Toxicity
+## 5.4 Embryofetal Toxicity
 
-PAXIL CR can cause fetal harm when administered to a pregnant woman.
-Epidemiological studies have shown that infants exposed to paroxetine in the first trimester of pregnancy have an increased risk of cardiovascular malformations.
-Exposure to paroxetine in late pregnancy may lead to an increased risk for persistent pulmonary hypertension of the newborn (PPNH) and/or neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding.
-
-If PAXIL CR is used during pregnancy, or if the patient becomes pregnant while taking PAXIL CR, the patient should be apprised of the potential hazard to the fetus [see Use in Specific Populations (8.1)].
+Based on meta-analyses of epidemiological studies, exposure to paroxetine in the first trimester of pregnancy is associated with a less than 2-fold increase in the rate of cardiovascular malformations among infants.
+For women who intend to become pregnant or who are in their first trimester of pregnancy, PAXIL CR, should be initiated only after consideration of the other available treatment options [see Use in Specific Populations (8.1)].
 
 ## 5.5 Increased Risk of Bleeding
 
 Drugs that interfere with serotonin reuptake inhibition, including PAXIL CR, increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDS), other antiplatelet drugs, warfarin, and other anticoagulants may add to this risk.
 Case reports and epidemiological studies (case‑control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Use in Specific Populations (8.1)].
 Bleeding events related to drugs that interfere with serotonin reuptake have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
 Inform patients about the increased risk of bleeding associated with the concomitant use of PAXIL CR and antiplatelet agents or anticoagulants.
@@ -105,7 +103,7 @@ Elderly patients, patients taking diuretics, and those who are volume-depleted m
 
 ## 5.11 Reduction of Efficacy of Tamoxifen
 
-Some studies have shown that the efficacy of tamoxifen, as measured by the risk of breast cancer relapse/mortality, may be reduced with concomitant use of paroxetine as a result of paroxetine’s irreversible inhibition of CYP2D6 and lower blood levels of tamoxifen [see Drug Interactions (7.3)].
+Some studies have shown that the efficacy of tamoxifen, as measured by the risk of breast cancer relapse/mortality, may be reduced with concomitant use of paroxetine as a result of paroxetine’s irreversible inhibition of CYP2D6 and lower blood levels of tamoxifen [see Drug Interactions (7.1)].
 One study suggests that the risk may increase with longer duration of coadministration.
 However, other studies have failed to demonstrate such a risk.
 When tamoxifen is used for the treatment or prevention of breast cancer, prescribers should consider using an alternative antidepressant with little or no CYP2D6 inhibition.
@@ -113,7 +111,7 @@ When tamoxifen is used for the treatment or prevention of breast cancer, prescri
 ## 5.12 Bone Fracture
 
 Epidemiological studies on bone fracture risk during exposure to some antidepressants, including SSRIs, have reported an association between antidepressant treatment and fractures.
-There are multiple possible causes for this observation and it is unknown to what extent fracture risk is directly attributable to SSRI treatment.
+There are multiple possible causes for this observation, and it is unknown to what extent fracture risk is directly attributable to SSRI treatment.
 
 ## 5.13 Sexual Dysfunction
 

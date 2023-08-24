@@ -20,7 +20,7 @@ The following adverse reactions are included in more detail in other sections of
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Safety data for PAXIL CR is from 11 short-term, placebo‑controlled clinical trials including 3 studies in patients with major depressive disorder (MDD) (Studies 1, 2, and 3), 3 studies in patients with panic disorder (PD) (Studies 4, 5, and 6), 1 study in patients with social anxiety disorder (SAD) (Study 7), and 4 studies in female patients with premenstrual dysphoric disorder (PMDD) (Studies 8, 9, 10, and 11) [see Clinical Studies (14)].
-These 11 trials included 1627 We acknowledge the Agency’s comment.patients treated with Paxil CR.
+These 11 trials included 1627 patients treated with Paxil CR.
 
 - Studies 1 and 2 were 12-week studies that enrolled patients 18 to 65 years old who received PAXIL CR at doses ranging from 25 mg to 62.5 mg once daily.
   Study 3 was a 12-week study in patients 60 to 88 years old who received PAXIL CR at doses ranging from 12.5 mg to 50 mg once daily.
@@ -56,7 +56,7 @@ Adverse Reactions (³5% of Patients Treated with PAXIL CR and Greater than Place
 | Dry Mouth | 15 | 8 | 18 | 7 | 13 | 9 | 3 | 2 |
 | Constipation | 10 | 4 | 13 | 5 | 9 | 6 | 5 | 2 |
 | Flatulence | 6 | 4 | - | - | NA | NA | NA | NA |
-| Decreased Appetite | 4 | 2 | 12 | 5 | 8 | 6 | 1 | <1 |
+| Decreased Appetite |  | 2 | 12 | 5 | 8 | 6 | 1 | <1 |
 | Dyspepsia | NA | NA | 13 | 10 | NA | NA | 2 | <1 |
 | Musculoskeletal System |  |  |  |  |  |  |  |  |
 | Myalgia | NA | NA | - | - | 5 | 3 | NA | NA |
@@ -64,13 +64,13 @@ Adverse Reactions (³5% of Patients Treated with PAXIL CR and Greater than Place
 | Somnolence | 22 | 8 | 21 | 12 | 20 | 9 | 9 | 4 |
 | Insomnia | 17 | 9 | 10 | 8 | 20 | 11 | 9 | 4 |
 | Dizziness | 14 | 4 | 9 | 5 | NA | NA | 7 | 4 |
-| Libido Decreased | 7 | 3 | 8 | <1 | 9 | 4 | 8 | 1 |
+| Libido Decreased | 7 | 3 | 8 | <1 | 9 | 4 |  | 1 |
 | Nervousness | NA | NA | - | - | 8 | 7 | NA | NA |
 | Tremor | 7 | 1 | 7 | 0 | 8 | 2 | 4 | 2 |
 | Anxiety | NA | NA | - | - | 5 | 4 | 2 | 1 |
 | Respiratory System |  |  |  |  |  |  |  |  |
 | Sinusitis | NA | NA | - | - | 8 | 5 | NA | NA |
-| Yawn | 5 | 0 | - | - | 3 | 0 | 2 | 0 |
+| Yawn |  | 0 | - | - | 3 | 0 | 2 | 0 |
 | Skin and Appendages |  |  |  |  |  |  |  |  |
 | Sweating | 6 | 2 | 10 | <1 | 7 | 2 | 14 | 3 |
 | Special Senses |  |  |  |  |  |  |  |  |
@@ -131,11 +131,10 @@ NA= the adverse reaction information is not available in this population.
 a <1% means greater than zero and less than 1%.
 
 b The luteal phase and continuous dosing PMDD trials were not designed for making direct comparisons between the 2 dosing regimens.
-Therefore, a comparison between the 2 dosing regimens of the PMDD trials of incidence rates shown in Table 3 should be avoided.
 
 c Mostly anorgasmia or difficulty achieving orgasm.
 
-Dose Dependency of Adverse Reactions
+Dose Dependent Adverse Reactions
 
 Comparison of the incidence of adverse reactions (placebo vs. 12.5 mg PAXIL CR vs. 25 mg PAXIL CR) from studies 8, 9, 10 showed the following adverse reactions to be dose-related: Nausea, somnolence, sweating, dry mouth, dizziness, decreased appetite, tremor, impaired concentration, yawn, paresthesia, hyperkinesia, and vaginitis.
 
@@ -150,7 +149,7 @@ The percentage of patients reporting symptoms of sexual dysfunction in the Studi
 Table 5.
 Adverse Reactions Related To Sexual Dysfunction In Patients Treated With PAXIL CR in Pooled 10-12 Week Studies of MDD, PD, SAD, and PMDD
 
-|  | Studies 1 and 2 % |  | Studies 4, 5 and 6 % |  | Study 7 % |  | Studies 8, 9 and 11 (continuous Dosing) % |  | Study 10 (Luteal Phase Dosing) % |  |
+|  | Studies 1 and 2 % |  | Studies 4, 5 and 6 % |  | Study 7 % |  | Studies 8, 9 and 11 (Continuous Dosing) % |  | Study 10 (Luteal Phase Dosing) % |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | PAXIL CR | Placebo | PAXIL CR | Placebo | PAXIL CR | Placebo | PAXIL CR | Placebo | PAXIL CR | Placebo |
 | n (males) | 78 | 78 | 162 | 194 | 88 | 97 | NA | NA | NA | NA |
@@ -191,4 +190,4 @@ Urogenital System: Infrequent was urinary retention; rare was urinary incontinen
 The following reactions have been identified during post approval use of paroxetine.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Acute pancreatitis, elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction), Guillain‑Barré syndrome, Stevens-Johnson syndrome, toxic epidermal necrolysis, priapism, syndrome of inappropriate ADH secretion (SIADH), prolactinemia and galactorrhea; extrapyramidal symptoms which have included akathisia, bradykinesia, cogwheel rigidity, dystonia, hypertonia, trismus; status epilepticus, acute renal failure, pulmonary hypertension, allergic alveolitis, anaphylaxis, eclampsia, laryngismus, optic neuritis, porphyria, restless legs syndrome (RLS), ventricular fibrillation, ventricular tachycardia (including torsade de pointes), hemolytic anemia, events related to impaired hematopoiesis (including aplastic anemia, pancytopenia, bone marrow aplasia, and agranulocytosis), and vasculitic syndromes (such as Henoch‑Schönlein purpura).
+Acute pancreatitis, elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction), Guillain‑Barré syndrome, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), priapism, syndrome of inappropriate ADH secretion (SIADH), prolactinemia and galactorrhea; extrapyramidal symptoms which have included akathisia, bradykinesia, cogwheel rigidity, dystonia, hypertonia, trismus; status epilepticus, acute renal failure, pulmonary hypertension, allergic alveolitis, anosmia, hyposmia, anaphylaxis, eclampsia, laryngismus, optic neuritis, porphyria, restless legs syndrome (RLS), ventricular fibrillation, ventricular tachycardia (including torsade de pointes), hemolytic anemia, events related to impaired hematopoiesis (including aplastic anemia, pancytopenia, bone marrow aplasia, and agranulocytosis), and vasculitic syndromes (such as Henoch‑Schönlein purpura).

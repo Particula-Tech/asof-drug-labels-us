@@ -2,11 +2,6 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Sexual Dysfunction
-
-Advise patients that use of PAXIL CR may cause symptoms of sexual dysfunction in both male and female patients.
-Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.13)].
-
 Suicidal Thoughts and Behaviors
 
 Advise patients and caregivers to look for the emergence of suicidality, especially early during treatment and when the dosage is adjusted up or down, and instruct them to report such symptoms to the healthcare provider [see Boxed Warning and Warnings and Precautions (5.1)].
@@ -17,7 +12,7 @@ Instruct patients to swallow PAXIL CR whole and to not chew or crush the tablets
 
 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of PAXIL CR with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of PAXIL CR with other serotonergic drugs including triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
 Instruct patients to contact their health care provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [see Warnings and Precautions (5.2), Drug Interactions (7.1)].
 
 Concomitant Medications
@@ -38,18 +33,28 @@ Discontinuation Syndrome
 Advise patients not to abruptly discontinue PAXIL CR and to discuss any tapering regimen with their healthcare provider.
 Inform patients that adverse reactions can occur when PAXIL CR is discontinued [See Warnings and Precautions (5.7)].
 
-Allergic Reactions
+Sexual Dysfunction
 
-Advise patients to notify their healthcare provider if they develop an allergic reaction such as rash, hives, swelling, or difficulty breathing [see Adverse Reactions (6.1, 6.2)].
+Advise patients that use of PAXIL CR may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.13)].
 
 Embryo-Fetal Toxicity
 
-Advise women of the potential risk to the fetus [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
-Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy because of the risk to the fetus.
+Advise women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with PAXIL CR.
+Advise women of risks associated with first trimester use of PAXIL CR and that use later in pregnancy may lead to an increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, tube feeding, and/or persistent pulmonary hypertension of the newborn (PPHN) [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+Advise women that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to PAXIL CR during pregnancy [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
 
-Nursing
+Lactation
 
-Advise women to notify their healthcare provider if they are breastfeeding an infant [see Use in Specific Populations (8.3)].
+Advise breastfeeding women using PAXIL CR to monitor infants for agitation, irritability, poor feeding and poor weight gain and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
+
+Females and Males of Reproductive Potential
+
+Advise men that PAXIL CR may affect sperm quality, which may impair fertility; it is unknown if this effect is reversible [see Use in Specific Populations (8.3)].
+
+Allergic Reactions
+
+Advise patients to notify their healthcare provider if they develop an allergic reaction such as rash, hives, swelling, or difficulty breathing [see Adverse Reactions (6.1, 6.2)].
 
 Manufactured by:
 
@@ -64,7 +69,5 @@ Manufactured for:
 Apotex Corp.
 
 Weston FL 33326
-
-September 2021
 
 All registered trademarks in this document are the property of their respective owners.

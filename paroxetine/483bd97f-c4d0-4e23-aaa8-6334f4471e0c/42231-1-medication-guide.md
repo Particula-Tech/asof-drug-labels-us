@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-PAXIL CR® (PAX-il) (paroxetine hydrochloride) estended-release tablets
+PAXIL CR® (PAX-il) (paroxetine hydrochloride) extended-release tablets
 
 What is the most important information I should know about PAXIL CR?
 
@@ -67,8 +67,13 @@ Before taking PAXIL CR, tell your healthcare provider about all your medical con
 - have kidney or liver problems
 - are pregnant or plan to become pregnant.
   PAXIL CR may harm your unborn baby.
-  Talk to your healthcare provider about the risks to your unborn baby if you take PAXIL CR during pregnancy.
-  Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with PAXIL CR.
+  - Taking PAXIL CR during your first trimester of pregnancy may cause your baby to be at an increased risk of having a heart problem (cardiac malformations) at birth.
+  - Taking PAXIL CR during your third trimester of pregnancy may cause your baby to have breathing,temperature, and feeding problems, low muscle tone (floppy baby syndrome), and irritability after birth and may cause your baby to be at an increased risk of a serious lung problem at birth.
+    Talk to your healthcare provider about the risk to your unborn baby if you take PAXIL CR during pregnancy.
+  - Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with PAXIL CR.
+  - There is a pregnancy registry for females who are exposed to PAXIL CR during pregnancy.
+    The purpose ofthe registry is to collect information about the health of females exposed to PAXIL CR and their baby.
+    Ifyou become pregnant during treatment with PAXIL CR talk to your healthcare provider about registeringwith the National Pregnancy Registry for Antidepressants at 1-866-961-2388 or visit online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
 - are breastfeeding or plan to breastfeed.
   PAXIL CR passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby during treatment with PAXIL CR.
@@ -82,9 +87,8 @@ Especially tell your healthcare provider if you take:
 
 - medicines used to treat migraine headaches called triptans
 - tricyclic antidepressants
-- fentanyl
 - lithium
-- tramadol
+- tramadol, fentanyl, meperidine, methadone, or other opioids
 - tryptophan
 - buspirone
 - amphetamines
@@ -108,7 +112,7 @@ How should I take PAXIL CR?
 - Take PAXIL CR exactly as your healthcare provider tell you to.
   Your healthcare provider may need to change the dose of PAXIL CR until it is the right dose for you.
 - Take PAXIL CR 1 time each day in the morning.
-- PAXIL CR may be taken with or without food.
+- Take PAXIL CR with or without food.
 - Swallow PAXIL CR tablets whole.
   Do not chew or crush PAXIL CR tablets.
 - If you take too much PAXIL CR, call your poison control center at 1-800-222-1222 or got to the nearest hospital emergency room right away.
@@ -233,7 +237,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store PAXIL CR?
 
-- Store PAXIL CR at room temperature between 68°F to 77°F (20°C to 25°C).
+- Store PAXIL CR at or below 25°C (77°F); [see USP].
 
 Keep PAXIL CR and all medicines out of the reach of children.
 
@@ -273,6 +277,6 @@ For more information about PAXIL CR call 1-800-706-5575.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-09/2021
+08/2023
 
 - 
