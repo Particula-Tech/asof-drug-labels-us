@@ -16,7 +16,7 @@ The maximum recommended dosage of CELEXA for patients who are greater than 60 ye
 
 ## 2.4 Dosage Modifications with Concomitant Use of CYP2C19 Inhibitors
 
-The maxium recommended dosage of CELEXA when used concomitantly with a CYP2C19 inhibitor is 20 mg once daily [see Warnings and Precautions (5.2), Drug Interactions (7)].
+The maximum recommended dosage of CELEXA when used concomitantly with a CYP2C19 inhibitor is 20 mg once daily [see Warnings and Precautions (5.2), Drug Interactions (7)].
 
 ## 2.5 Switching Patients to or from a Monoamine Oxidase Inhibitor Antidepressant
 

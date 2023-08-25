@@ -52,7 +52,7 @@ Discontinue CELEXA in patients who are found to have persistent QTc measurements
 ## 5.3Serotonin Syndrome
 
 SSRIs, including CELEXA, can precipitate serotonin syndrome, a potentially life-threatening condition.
-The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7)].
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, meperidine, methadone, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7)].
 Serotonin syndrome can also occur when these drugs are used alone.
 Symptoms of serotonin syndrome were noted in 0.1% of MDD patients treated with CELEXA in premarketing clinical trials.
 
@@ -72,6 +72,7 @@ If concomitant use of CELEXA with other serotonergic drugs is clinically warrant
 Drugs that interfere with serotonin reuptake inhibition, including CELEXA, increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDS), other antiplatelet drugs, warfarin, and other anticoagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Use in Specific Populations (8.1)].
 Bleeding events related to drugs that interfere with serotonin reuptake have ranged from ecchymosis, hematoma, epistaxis, and petechiae to life-threatening hemorrhages.
 
 Inform patients about the increased risk of bleeding associated with the concomitant use of CELEXA and antiplatelet agents or anticoagulants.

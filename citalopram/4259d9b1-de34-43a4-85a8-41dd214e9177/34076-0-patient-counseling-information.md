@@ -15,7 +15,7 @@ Instruct patients to inform their health care provider that they are taking CELE
 
 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of CELEXA with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of CELEXA with other serotonergic drugs including triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
 Instruct patients to contact their health care provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
 Increased Risk of Bleeding
@@ -51,9 +51,9 @@ Distributed by:
 
 Allergan USA, Inc. Madison, NJ 07940
 
-© 2022 Allergan.
+© 2023 Allergan.
 All rights reserved.
 
 Licensed from H. Lundbeck A/S
 
-v1.0USPI4010
+v2.0USPI4010
