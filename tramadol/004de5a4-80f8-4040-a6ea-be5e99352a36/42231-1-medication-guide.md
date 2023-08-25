@@ -2,7 +2,7 @@
 
 Tramadol Hydrochloride (tram a dol hye droe klor ide)
 
-Extended-Release Tablets, CIV
+Extended-Release Tablets, USP CIV
 
 Tramadol hydrochloride extended-release tablet is:
 
@@ -90,6 +90,8 @@ For more information go to dailymed.nlm.nih.gov or call 1-800-818-4555.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+Dispense with Medication Guide available at: https://www.sunpharma.com/usa/products
+
 Distributed by:
 
 Sun Pharmaceutical Industries, Inc.
@@ -104,6 +106,6 @@ Halol-Baroda Highway,
 
 Halol-389 350, Gujarat, India.
 
-ISS: 06/2023
+ISS: 08/2023
 
 5238818

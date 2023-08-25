@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Tramadol hydrochloride extended-release tablets are supplied in the following package and dose strength forms: 100 mg: White, round shape, biconvex, beveled edge, coated tablet with release portal on the center of the tablet on any one side, imprinted “531” with black ink on one side and plain on other side.
+Tramadol hydrochloride extended-release tablets, USP are supplied in the following package and dose strength forms: 100 mg: White, round shape, biconvex, beveled edge, coated tablet with release portal on the center of the tablet on any one side, imprinted “531” with black ink on one side and plain on other side.
 Bottles of 30's with Child Resistant Cap ……………...
 NDC 47335-859-83
 

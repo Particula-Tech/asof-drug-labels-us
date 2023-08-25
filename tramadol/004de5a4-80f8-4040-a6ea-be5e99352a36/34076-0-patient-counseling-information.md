@@ -103,3 +103,5 @@ Infertility
 
 Inform patients that chronic use of opioids may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Use in Specific Populations (8.3)].
+
+Dispense with Medication Guide available at: https://www.sunpharma.com/usa/products

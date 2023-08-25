@@ -48,7 +48,7 @@ Initiate dosing using tramadol hydrochloride extended-release tablet 100 mg once
 Individually titrate tramadol hydrochloride extended-release tablets by 100 mg every five days to a dose that provides adequate analgesia and minimizes adverse reactions.
 The maximum daily dose of tramadol hydrochloride extended-release tablets is 300 mg per day.
 
-Continually reevaluate patients receiving tramadol hydrochloride extended-release tablets to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as to reassess for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
+Continually reevaluate patients receiving tramadol hydrochloride extended-release tablets to assess the maintenance of pain control and the relative incidence of adverse reaction as well as to reassess for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
 Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 During use of opioid therapy for an extended period of time, periodically reassess the continued need for the use of opioid analgesics.
 
