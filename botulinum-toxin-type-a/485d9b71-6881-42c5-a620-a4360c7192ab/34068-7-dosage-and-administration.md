@@ -62,13 +62,10 @@ An effective dose for facial lines is determined by gross observation of the pat
 
 In order to reduce the complication of ptosis the following steps should be taken:
 
-• Avoid injection near the levator palpebrae superioris, particularly in patients with larger brow depressor complexes.
-
-• Lateral corrugator injections should be placed at least 1 cm above the bony supraorbital ridge.
-
-• Ensure the injected volume/dose is accurate and where feasible kept to a minimum.
-
-• Do not inject toxin closer than 1 cm above the central eyebrow.
+- Avoid injection near the levator palpebrae superioris, particularly in patients with larger brow depressor complexes.
+- Lateral corrugator injections should be placed at least 1 cm above the bony supraorbital ridge.
+- Ensure the injected volume/dose is accurate and where feasible kept to a minimum.
+- Do not inject toxin closer than 1 cm above the central eyebrow.
 
 Inject 4 Units (0.1 mL) of reconstituted BOTOX Cosmetic intramuscularly into each of 5 sites, 2 in each corrugator muscle and 1 in the procerus muscle for a total dose of 20 Units (see Figure 1).
 Typically the initial doses of reconstituted BOTOX Cosmetic induce chemical denervation of the injected muscles one to two days after injection, increasing in intensity during the first week.

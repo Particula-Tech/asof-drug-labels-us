@@ -22,9 +22,9 @@ However, weakness of nearby muscles may also occur due to spread of toxin [see W
 
 Glabellar Lines
 
-Table 2 lists selected adverse reactions reported by >1% of BOTOX Cosmetic treated subjects (N=405) aged 18 to 75 who were evaluated in the randomized, placebo-controlled clinical studies to assess the use of BOTOX Cosmetic in the improvement of the appearance of glabellar lines.
+Table 2 lists selected adverse reactions reported by ≥1% of BOTOX Cosmetic treated subjects (N=405) aged 18 to 75 who were evaluated in the randomized, placebo-controlled clinical studies to assess the use of BOTOX Cosmetic in the improvement of the appearance of glabellar lines.
 
-Table 2: Adverse Reactions Reported by >1% of BOTOX Cosmetic treated Subjects and More Frequent than in Placebo-treated Subjects in Double-blind, Placebo-controlled Clinical Studies of Treatment of Glabellar Lines
+Table 2: Adverse Reactions Reported by ≥1% of BOTOX Cosmetic treated Subjects and More Frequent than in Placebo-treated Subjects in Double-blind, Placebo-controlled Clinical Studies of Treatment of Glabellar Lines
 
 | Adverse Reactions by System Organ Class | BOTOX Cosmetic (N=405) | Placebo (N=130) |
 | --- | --- | --- |
