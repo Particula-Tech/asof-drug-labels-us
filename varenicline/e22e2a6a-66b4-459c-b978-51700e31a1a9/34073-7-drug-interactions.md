@@ -1,0 +1,21 @@
+# 7 DRUG INTERACTIONS
+
+Based on varenicline characteristics and clinical experience to date, varenicline tablets has no clinically meaningful pharmacokinetic drug interactions [see Clinical Pharmacology (12.3)].
+
+## 7.1 Use with Other Drugs for Smoking Cessation
+
+Safety and efficacy of varenicline tablets in combination with other smoking cessation therapies have not been studied.
+
+Bupropion
+
+Varenicline (1 mg twice daily) did not alter the steady-state pharmacokinetics of bupropion (150 mg twice daily) in 46 smokers.
+The safety of the combination of bupropion and varenicline has not been established.
+
+Nicotine replacement therapy (NRT)
+
+Although co-administration of varenicline (1 mg twice daily) and transdermal nicotine (21 mg/day) for up to 12 days did not affect nicotine pharmacokinetics, the incidence of nausea, headache, vomiting, dizziness, dyspepsia, and fatigue was greater for the combination than for NRT alone.
+In this study, eight of twenty-two (36%) patients treated with the combination of varenicline and NRT prematurely discontinued treatment due to adverse events, compared to 1 of 17 (6%) of patients treated with NRT and placebo.
+
+## 7.2 Effect of Smoking Cessation on Other Drugs
+
+Physiological changes resulting from smoking cessation, with or without treatment with varenicline tablets, may alter the pharmacokinetics or pharmacodynamics of certain drugs (e.g., theophylline, warfarin, insulin) for which dosage adjustment may be necessary.

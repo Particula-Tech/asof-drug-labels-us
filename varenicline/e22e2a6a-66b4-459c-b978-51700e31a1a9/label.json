@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA214557"
+  ],
+  "inn": "varenicline",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-743-95",
+    "67877-744-54",
+    "67877-744-95",
+    "67877-745-54"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "varenicline tartrate",
+      "name": "Varenicline"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "varenicline tartrate",
+      "name": "varenicline"
+    }
+  ],
+  "setid": "e22e2a6a-66b4-459c-b978-51700e31a1a9",
+  "source": "dailymed"
+}
