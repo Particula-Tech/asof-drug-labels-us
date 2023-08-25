@@ -164,9 +164,7 @@ Before starting citalopram oral solution, tell your healthcare provider if you
   - Cimetidine
   - Triptans used to treat migraine headache
   - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, or antipsychotics
-  - Tramadol and fentanyl
-  - Meperidine and methadone
-  - or other opioids
+  - Tramadol, meperidine, methadone, or other opioids
   - Over-the-counter supplements such as tryptophan or St. John’s Wort
 - have liver problems
 - have kidney problems
