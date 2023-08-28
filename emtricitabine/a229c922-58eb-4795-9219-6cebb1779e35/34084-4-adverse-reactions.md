@@ -30,7 +30,7 @@ Selected Treatment-Emergent Adverse Reactions (All Grades, Regardless of Causali
 
 |  | 303 |  | 301A |  |
 | --- | --- | --- | --- | --- |
-| Emtricitabine+ AZT/d4T + NNRTI/PI (N=294) | 3TC + AZT/d4T + NNRTI/PI (N=146) | Emtricitabine + didanosine + EFV (N=286) | d4T + didanosine + EFV (N=285) |  |
+|  | Emtricitabine+ AZT/d4T + NNRTI/PI (N=294) | 3TC + AZT/d4T + NNRTI/PI (N=146) | Emtricitabine + didanosine + EFV (N=286) | d4T + didanosine + EFV (N=285) |
 | Body as a Whole |  |  |  |  |
 | Asthenia | 16% | 10% | 12% | 17% |
 | Headache | 13% | 6% | 22% | 25% |
@@ -67,7 +67,7 @@ Treatment-Emergent Grades 3-4 Laboratory Abnormalities Reported in ≥1% of Emtr
 
 |  | 303 |  | 301A |  |
 | --- | --- | --- | --- | --- |
-| Emtricitabine + AZT/d4T + NNRTI/PI (N=294) | 3TC + AZT/d4T + NNRTI/PI (N=146) | Emtricitabine + Didanosine + EFV (N=286) | d4T + Didanosine + EFV (N=285) |  |
+|  | Emtricitabine + AZT/d4T + NNRTI/PI (N=294) | 3TC + AZT/d4T + NNRTI/PI (N=146) | Emtricitabine + Didanosine + EFV (N=286) | d4T + Didanosine + EFV (N=285) |
 | Any ≥ Grade 3 Laboratory Abnormality | 31% | 28% | 34% | 38% |
 | ALT (>5.0 × ULNa) | 2% | 1% | 5% | 6% |
 | AST (>5.0 × ULN) | 3% | <1% | 6% | 9% |
@@ -90,7 +90,7 @@ Selected Adverse Reactionsa (Grades 2–4) Reported in ≥ 5% in Any Treatment G
 
 |  | Emtricitabine + TDF + EFVb | AZT/3TC + EFV |
 | --- | --- | --- |
-| N=257 | N=254 |  |
+|  | N=257 | N=254 |
 | Fatigue | 9% | 8% |
 | Depression | 9% | 7% |
 | Nausea | 9% | 7% |
@@ -114,7 +114,7 @@ Significant Laboratory Abnormalities Reported in ≥1% of Subjects in Any Treatm
 
 |  | Emtricitabine + TDF+ EFVa | AZT/3TC + EFV |
 | --- | --- | --- |
-| N=257 | N=254 |  |
+|  | N=257 | N=254 |
 | Any ≥ Grade 3 Laboratory Abnormality | 30% | 26% |
 | Fasting Cholesterol (>240 mg/dL) | 22% | 24% |
 | Creatine Kinase (M: >990 U/L) (F: >845 U/L) | 9% | 7% |

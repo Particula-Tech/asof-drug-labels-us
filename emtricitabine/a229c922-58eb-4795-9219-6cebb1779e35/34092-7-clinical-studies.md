@@ -4,6 +4,25 @@
 
 The efficacy and safety of emtricitabine were evaluated in the trials summarized in Table 10.
 
+Table 10 Trials Conducted with Emtricitabine in Adult and Pediatric Subjects
+
+| Trial | Population | Trial Arms (N)a | Timepoint(Weeks) |
+| --- | --- | --- | --- |
+| Trial 934b(NCT00112047) | HIV-1 treatment-naïve adults | Emtricitabine+TDF+EFV (227) AZT/3TC+EFV (229) | 144 |
+| Trial 301Ac(NCT00006208) | Emtricitabine +didanosine+EFV (286) d4T+didanosine+EFV (285) | 48 |  |
+| Trial 303b(NCT00002416) | HIV-1 treatment-experienced adults | Emtricitabine +AZT/d4T+NNRTI/PI (294) 3TC+AZT/d4T+NNRTI/PI (146) | 48 |
+| Trial 202d(NCT00016718) | HIV-1 treatment-naïve and experienced pediatrics | Emtricitabine +didanosine+EFV (43) | 48 |
+| Trial 203d(NCT00743340) | Emtricitabine +d4T+lopinavir/ritonavir (116) | 48 |  |
+| Trial 211d(NCT00642291) | Emtricitabine +didanosine+EFV (16) | 48 |  |
+
+a. Randomized and dosed.
+
+b. Randomized, open-label, active-controlled trial.
+
+c. Randomized, double-blind, active-controlled trial.
+
+d. Nonrandomized, open-label trial.
+
 ## 14.2 Clinical Trial Results in Treatment-Naive Adults
 
 Trial 934

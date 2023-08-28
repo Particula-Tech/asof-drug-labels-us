@@ -10,6 +10,7 @@ Emtricitabine can cause serious side effects, including:
   Your healthcare provider will test you for HBV before starting treatment with emtricitabine.
   If you have HBV infection and take emtricitabine, your HBV may get worse (flare-up) if you stop taking emtricitabine.
   A "flare-up" is when your HBV infection suddenly returns in a worse way than before.
+
 - Do not stop taking emtricitabine without first talking to your healthcare provider.
 - Do not run out of emtricitabine.
   Refill your prescription or talk to your healthcare provider before your emtricitabine is all gone.
@@ -79,6 +80,7 @@ Emtricitabine may cause serious side effects, including:
 - Too much lactic acid in your blood (lactic acidosis).
   Too much lactic acid is a serious but rare medical emergency that can lead to death.
   Tell your healthcare provider right away if you develop any of these symptoms:
+
 - weakness or being more tired than usual
 - being short of breath or fast breathing
 - cold or blue hands and feet
@@ -86,10 +88,12 @@ Emtricitabine may cause serious side effects, including:
 - unusual muscle pain
 - stomach pain with nausea and vomiting
 - feel dizzy or lightheaded
+
 - Severe liver problems.
   In rare cases, severe liver problems can happen that can lead to death.
   Your healthcare provider may tell you to stop taking emtricitabine if you develop new or worse liver problems during treatment with emtricitabine.
   Tell your healthcare provider right away if you develop any of these symptoms:
+
 - fatigue
 - weakness
 - yellowing of your skin or the white part of your eyes (jaundice)
@@ -160,4 +164,4 @@ Cipla USA, Inc.
 
 Warren, NJ 07059
 
-Revised: 01/2020
+Revised: 3/2023
