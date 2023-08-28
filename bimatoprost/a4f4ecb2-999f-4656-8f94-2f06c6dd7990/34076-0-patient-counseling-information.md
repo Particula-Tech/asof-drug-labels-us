@@ -16,4 +16,10 @@ Rx Only
 
 Manufactured for: Alembic Pharmaceutical, Inc. Bedminster, NJ 07921, USA Made in India.
 
-Manufactured by: Gland Pharma Limited Hyderabad- 500043, INDIA Revised: 03/2022
+Manufactured by: Gland Pharma Limited Hyderabad- 500043, INDIA
+
+(or)
+
+Manufactured by: Alembic Pharmaceuticals Limited Karakhadi - 391 450, Gujarat, India.
+
+Revised: 01/2023
