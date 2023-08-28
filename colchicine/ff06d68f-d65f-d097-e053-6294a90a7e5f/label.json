@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA215727"
+  ],
+  "inn": "colchicine",
+  "labeler": "AGEPHA Pharma USA, LLC",
+  "package_ndcs": [
+    "82867-001-01",
+    "82867-001-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "colchicine tablets 0.5 mg",
+      "name": "LODOCO"
+    }
+  ],
+  "setid": "ff06d68f-d65f-d097-e053-6294a90a7e5f",
+  "source": "dailymed"
+}
