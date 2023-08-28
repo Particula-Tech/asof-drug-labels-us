@@ -28,12 +28,12 @@ Estrogen Plus Progestin Therapy
 
 Cardiovascular Disorders and Probable Dementia
 
-The WHI estrogen plus progestin substudy reported increased risks of DVT, pulmonary embolism (PE), stroke and myocardial infarction (MI) in postmenopausal women (50 to 79 years of age) during 5.6 years of treatment with daily oral CE (0.625 mg) combined with medroxyprogesterone acetate (MPA) [2.5 mg], relative to placebo [see Warnings and Precautions (5.1), and Clinical Studies (14.3)].
+The WHI estrogen plus progestin substudy reported increased risks of pulmonary embolism (PE), DVT, stroke and myocardial infarction (MI) in postmenopausal women (50 to 79 years of age) during 5.6 years of treatment with daily oral CE (0.625 mg) combined with medroxyprogesterone acetate (MPA) [2.5 mg], relative to placebo [see Warnings and Precautions (5.1), and Clinical Studies (14.3)].
 
 The WHIMS estrogen plus progestin ancillary study of WHI reported an increased risk of developing probable dementia in postmenopausal women 65 years of age or older during 4 years of treatment with daily CE (0.625 mg) combined with MPA (2.5 mg), relative to placebo.
 It is unknown whether this finding applies to younger postmenopausal women [see Warnings and Precautions (5.3), Use in Specific Populations (8.5), and Clinical Studies (14.4)].
 
-Do not use estrogen plus progestin therapy for the prevention of cardiovascular disease or dementia [see Warnings and Precautions (5.1, 5.3), and Clinical Studies (14.3, 14.4)].
+Do not use estrogen plus progestogen therapy for the prevention of cardiovascular disease or dementia [see Warnings and Precautions (5.1, 5.3), and Clinical Studies (14.3, 14.4)].
 
 Breast Cancer
 
@@ -42,6 +42,6 @@ The WHI estrogen plus progestin substudy also demonstrated an increased risk of 
 Only daily oral 0.625 mg CE and 2.5 mg MPA were studied in the estrogen plus progestin substudy of the WHI.
 Therefore, the relevance of the WHI findings regarding adverse cardiovascular events, dementia and breast cancer to lower CE plus other MPA doses, other routes of administration, or other estrogen plus progestogen products is not known.
 Without such data, it is not possible to definitively exclude these risks or determine the extent of these risks for other products.
-Discuss with your patient the benefits and risks of estrogen plus progestin therapy, taking into account her individual risk profile.
+Discuss with your patient the benefits and risks of estrogen plus progestogen therapy, taking into account her individual risk profile.
 
 Prescribe estrogens with or without progestogens at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.
