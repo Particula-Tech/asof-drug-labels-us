@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA214255"
+  ],
+  "inn": "varenicline",
+  "labeler": "Glenmark Pharmaceuticals Inc., USA",
+  "package_ndcs": [
+    "68462-893-56",
+    "68462-894-04",
+    "68462-894-56",
+    "68462-895-04"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "varenicline tartrate",
+      "name": "varenicline tartrate"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "varenicline tartrate",
+      "name": "varenicline tartrate"
+    }
+  ],
+  "setid": "e8a06e8e-1938-412c-a98a-28f0a29fe3ac",
+  "source": "dailymed"
+}
