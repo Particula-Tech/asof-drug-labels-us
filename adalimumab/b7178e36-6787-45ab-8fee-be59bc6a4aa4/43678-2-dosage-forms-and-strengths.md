@@ -3,8 +3,13 @@
 AMJEVITA is a clear, colorless to slightly yellow solution available as:
 
 - Prefilled SureClick Autoinjector
+  - Injection: 80mg/0.8 mL in a single-dose prefilled SureClick autoinjector.
   - Injection: 40 mg/0.8 mL in a single-dose prefilled SureClick autoinjector.
+  - Injection: 40mg/0.4 mL in a single-dose prefilled SureClick autoinjector.
 - Prefilled Syringe
+  - Injection: 80 mg/0.8 mL in a single-dose prefilled glass syringe.
   - Injection: 40 mg/0.8 mL in a single-dose prefilled glass syringe.
+  - Injection: 40 mg/0.4 mL in a single-dose prefilled glass syringe.
   - Injection: 20 mg/0.4 mL in a single-dose prefilled glass syringe.
+  - Injection: 20 mg/0.2 mL in a single-dose prefilled glass syringe.
   - Injection: 10 mg/0.2 mL in a single-dose prefilled glass syringe.

@@ -72,11 +72,11 @@ Components of ACR Response in Studies RA-II and RA-III
 
 The time course of ACR 20 response for Study RA-III is shown in Figure 1.
 
-In Study RA-III, 85% of patients with ACR 20 response at week 24 maintained the response at 52 weeks.
+In Study RA-III, 85% of patients with ACR 20 responses at week 24 maintained the response at 52 weeks.
 The time course of ACR 20 response for Study RA-I and Study RA-II were similar.
 
-Figure 1.
-Study RA-III ACR 20 Responses over 52 Weeks
+| Figure 1. Study RA-III ACR 20 Responses over 52 Weeks |
+| --- |
 
 In Study RA-IV, 53% of patients treated with adalimumab 40 mg every other week plus standard of care had an ACR 20 response at week 24 compared to 35% on placebo plus standard of care (p < 0.001).
 No unique adverse reactions related to the combination of adalimumab and other DMARDs were observed.
@@ -129,7 +129,7 @@ Greater inhibition of radiographic progression, as assessed by changes in TSS, e
 Table 7.
 Radiographic Mean Changemean (95% confidence interval) in Study RA-V
 
-|  |  | MTXp < 0.001, adalimumab/MTX vs. MTX at 52 and 104 weeks and for adalimumab / MTX vs. adalimumab at 104 weeks N = 257 | Adalimumab,p < 0.01, for adalimumab/MTX vs. adalimumab at 52 weeks N = 274 | Adalimumab/MTX N = 268 |
+|  |  | MTXp < 0.001, adalimumab/MTX vs. MTX at 52 and 104 weeks and for adalimumab /MTX vs. adalimumab at 104 weeks N = 257 | Adalimumab,p < 0.01, for adalimumab/MTX vs. adalimumab at 52 weeks N = 274 | Adalimumab/MTX N = 268 |
 | --- | --- | --- | --- | --- |
 | 52 Weeks | Total Sharp score | 5.7 (4.2, 7.3) | 3.0 (1.7, 4.3) | 1.3 (0.5, 2.1) |
 |  | Erosion score | 3.7 (2.7, 4.8) | 1.7 (1.0, 2.4) | 0.8 (0.4, 1.2) |

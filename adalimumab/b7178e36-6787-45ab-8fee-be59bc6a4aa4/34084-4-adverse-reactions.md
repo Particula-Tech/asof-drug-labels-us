@@ -134,7 +134,6 @@ Urogenital System: Cystitis, kidney calculus, menstrual disorder
 Juvenile Idiopathic Arthritis Clinical Studies
 
 In general, the adverse reactions in the adalimumab-treated patients in the polyarticular juvenile idiopathic arthritis (JIA) trials (Studies JIA-I and JIA-II) [see Clinical Studies (14.2)] were similar in frequency and type to those seen in adult patients [see Warnings and Precautions (5), Adverse Reactions (6)].
-
 Important findings and differences from adults are discussed in the following paragraphs.
 
 In Study JIA-I, adalimumab was studied in 171 patients who were 4 to 17 years of age, with polyarticular JIA.

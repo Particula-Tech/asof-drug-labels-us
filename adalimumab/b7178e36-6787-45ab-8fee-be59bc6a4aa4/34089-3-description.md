@@ -10,11 +10,20 @@ The drug product is supplied as either a single-dose, prefilled SureClick autoin
 Enclosed within the autoinjector is a single-dose, 1 mL prefilled glass syringe.
 The solution of AMJEVITA is clear, colorless to slightly yellow, with a pH of about 5.2.
 
+Each 80 mg/0.8 mL prefilled syringe or prefilled autoinjector delivers 0.8 mL (80 mg) of drug product.
+Each 0.8 mL of AMJEVITA is formulated with L-lactic acid (1.7 mg), polysorbate 80 (0.8 mg), sodium hydroxide for pH adjustment, sucrose (67 mg), and Water for Injection, USP, pH 5.2.
+
 Each 40 mg/0.8 mL prefilled syringe or prefilled autoinjector delivers 0.8 mL (40 mg) of drug product.
 Each 0.8 mL of AMJEVITA is formulated with glacial acetic acid (0.48 mg), polysorbate 80 (0.8 mg), sodium hydroxide for pH adjustment, sucrose (72 mg), and Water for Injection, USP, pH 5.2.
 
+Each 40 mg/0.4 mL prefilled syringe or prefilled autoinjector delivers 0.4 mL (40 mg) of drug product.
+Each 0.4 mL of AMJEVITA is formulated with L-lactic acid (0.9 mg), polysorbate 80 (0.4 mg), sodium hydroxide for pH adjustment, sucrose (34 mg), and Water for Injection, USP, pH 5.2.
+
 Each 20 mg/0.4 mL prefilled syringe delivers 0.4 mL (20 mg) of drug product.
 Each 0.4 mL of AMJEVITA is formulated with glacial acetic acid (0.24 mg), polysorbate 80 (0.4 mg), sodium hydroxide for pH adjustment, sucrose (36 mg), and Water for Injection, USP, pH 5.2.
+
+Each 20 mg/0.2 mL prefilled syringe delivers 0.2 mL (20 mg) of drug product.
+Each 0.2 mL of AMJEVITA is formulated with L-lactic acid (0.4 mg), polysorbate 80 (0.2 mg), sodium hydroxide for pH adjustment, sucrose (17 mg), and Water for Injection, USP, pH 5.2.
 
 Each 10 mg/0.2 mL prefilled syringe delivers 0.2 mL (10 mg) of drug product.
 Each 0.2 mL of AMJEVITA is formulated with glacial acetic acid (0.12 mg), polysorbate 80 (0.2 mg), sodium hydroxide for pH adjustment, sucrose (18 mg), and Water for Injection, USP, pH 5.2.
