@@ -5,15 +5,14 @@
 Gabapentin was evaluated for the management of postherpetic neuralgia (PHN) in two randomized, double-blind, placebo-controlled, multicenter studies.
 The intent-to-treat (ITT) population consisted of a total of 563 patients with pain for more than 3 months after healing of the herpes zoster skin rash (Table 6).
 
-TABLE 6.
-Controlled PHN Studies: Duration, Dosages, and Number of Patients
+TABLE 6: Controlled PHN Studies: Duration, Dosages, and Number of Patients
 
 | Study | StudyDuration | Gabapentin (mg/day)aTarget Dose | Patients Receiving Gabapentin | Patients Receiving Placebo |
 | --- | --- | --- | --- | --- |
 | 1 | 8 weeks | 3,600 | 113 | 116 |
 | 2 | 7 weeks | 1,800, 2,400 | 223 | 111 |
 | Total |  |  | 336 | 227 |
-| a Given in 3 divided doses (TID) |  |  |  |  |
+| a Given in 3 divided doses (TID). |  |  |  |  |
 
 Each study included a 7- or 8-week double-blind phase (3 or 4 weeks of titration and 4 weeks of fixed dose).
 Patients initiated treatment with titration to a maximum of 900 mg/day gabapentin over 3 days.
@@ -29,16 +28,13 @@ Comparable treatment effects were observed in all active treatment arms.
 Pharmacokinetic/pharmacodynamic modeling provided confirmatory evidence of efficacy across all doses.
 Figures 1 and 2 show pain intensity scores over time for Studies 1 and 2.
 
-Figure 1.
-Weekly Mean Pain Scores (Observed Cases in ITT Population): Study 1
+Figure 1: Weekly Mean Pain Scores (Observed Cases in ITT Population): Study 1
 
-Figure 2.
-Weekly Mean Pain Scores (Observed Cases in ITT Population): Study 2
+Figure 2: Weekly Mean Pain Scores (Observed Cases in ITT Population): Study 2
 
 The proportion of responders (those patients reporting at least 50% improvement in endpoint pain score compared to baseline) was calculated for each study (Figure 3).
 
-Figure 3.
-Proportion of Responders (patients with ≥ 50% reduction in pain score) at Endpoint: Controlled PHN Studies
+Figure 3: Proportion of Responders (patients with ≥ 50% reduction in pain score) at Endpoint: Controlled PHN Studies
 
 ## 14.2 Epilepsy for Partial Onset Seizures (Adjunctive Therapy)
 
@@ -61,7 +57,7 @@ A second study compared primarily gabapentin 1,200 mg/day, in three divided dose
 Additional smaller gabapentin dosage groups (600 mg/day, N=53; 1,800 mg/day, N=54) were also studied for information regarding dose response.
 Responder rate was higher in the gabapentin 1,200 mg/day group (16%) than in the placebo group (8%), but the difference was not statistically significant.
 The responder rate at 600 mg (17%) was also not significantly higher than in the placebo, but the responder rate in the 1,800 mg group (26%) was statistically significantly superior to the placebo rate.
-Response ratio was better in the gabapentin 1,200 mg/day group (-0.103) than in the placebo group (-0.022); but this difference was also not statistically significant (p = 0.224).
+Response ratio was better in the gabapentin 1,200 mg/day group (-0.103) than in the placebo group (-0.022); but this difference was also not statistically significant (p=0.224).
 A better response was seen in the gabapentin 600 mg/day group (-0.105) and 1,800 mg/day group (-0.222) than in the 1,200 mg/day group, with the 1,800 mg/day group achieving statistical significance compared to the placebo group.
 
 A third study compared gabapentin 900 mg/day, in three divided doses (N=111), and placebo (N=109).
@@ -79,8 +75,7 @@ In two of the three controlled studies, more than one dose of gabapentin was use
 Within each study, the results did not show a consistently increased response to dose.
 However, looking across studies, a trend toward increasing efficacy with increasing dose is evident (see Figure 4).
 
-Figure 4.
-Responder Rate in Patients Receiving Gabapentin Expressed as a Difference from Placebo by Dose and Study: Adjunctive Therapy Studies in Patients ≥ 12 Years of Age with Partial Seizures
+Figure 4: Responder Rate in Patients Receiving Gabapentin Expressed as a Difference from Placebo by Dose and Study: Adjunctive Therapy Studies in Patients ≥ 12 Years of Age with Partial Seizures
 
 In the figure, treatment effect magnitude, measured on the Y axis in terms of the difference in the proportion of gabapentin and placebo-assigned patients attaining a 50% or greater reduction in seizure frequency from baseline, is plotted against the daily dose of gabapentin administered (X axis).
 

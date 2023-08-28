@@ -30,10 +30,10 @@ Moreover, because gabapentin causes somnolence and dizziness [see Warnings and P
 
 ## 5.4 Somnolence/Sedation and Dizziness
 
-During the controlled epilepsy trials in patients older than 12 years of age receiving doses of gabapentin up to 1,800 mg daily, somnolence, dizziness, and ataxia were reported at a greater rate in patients receiving gabapentin compared to placebo: i.e., 19% in drug versus 9% in placebo for somnolence, 17% in drug versus 7% in placebo for dizziness, and 13% in drug versus 6% in placebo for ataxia.
+During the controlled epilepsy trials in patients older than 12 years of age receiving doses of gabapentin up to 1,800 mg daily, somnolence, dizziness, and ataxia were reported at a greater rate in patients receiving gabapentin compared to placebo: i.e. 19% in drug versus 9% in placebo for somnolence, 17% in drug versus 7% in placebo for dizziness, and 13% in drug versus 6% in placebo for ataxia.
 In these trials somnolence, ataxia and fatigue were common adverse reactions leading to discontinuation of gabapentin in patients older than 12 years of age, with 1.2%, 0.8% and 0.6% discontinuing for these events, respectively.
 
-During the controlled trials in patients with post-herpetic neuralgia, somnolence, and dizziness were reported at a greater rate compared to placebo in patients receiving gabapentin, in dosages up to 3,600 mg per day: i.e., 21% in gabapentin-treated patients versus 5% in placebo-treated patients for somnolence and 28% in gabapentin-treated patients versus 8% in placebo-treated patients for dizziness.
+During the controlled trials in patients with post-herpetic neuralgia, somnolence, and dizziness were reported at a greater rate compared to placebo in patients receiving gabapentin, in dosages up to 3,600 mg per day: i.e. 21% in gabapentin-treated patients versus 5% in placebo-treated patients for somnolence and 28% in gabapentin-treated patients versus 8% in placebo-treated patients for dizziness.
 Dizziness and somnolence were among the most common adverse reactions leading to discontinuation of gabapentin.
 
 Patients should be carefully observed for signs of central nervous system (CNS) depression, such as somnolence and sedation, when gabapentin is used with other drugs with sedative properties because of potential synergy.
@@ -65,8 +65,7 @@ The finding of increased risk with AEDs of varying mechanisms of action and acro
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
-TABLE 2.
-Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+TABLE 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patientswith Events Per1,000 Patients | Drug Patientswith Events Per1,000 Patients | Relative Risk:Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference:Additional DrugPatients withEvents Per 1,000Patients |
 | --- | --- | --- | --- | --- |

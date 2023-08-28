@@ -13,7 +13,7 @@ All pharmacological actions following gabapentin administration are due to the a
 
 Oral Bioavailability
 
-Gabapentin bioavailability is not dose proportional; i.e., as dose is increased, bioavailability decreases.
+Gabapentin bioavailability is not dose proportional; i.e. as dose is increased, bioavailability decreases.
 Bioavailability of gabapentin is approximately 60%, 47%, 34%, 33%, and 27% following 900 mg, 1,200 mg, 2,400 mg, 3,600 mg, and 4,800 mg/day given in 3 divided doses, respectively.
 Food has only a slight effect on the rate and extent of absorption of gabapentin (14% increase in AUC and Cmax).
 
@@ -53,7 +53,7 @@ Because gabapentin is primarily renally excreted and there are no important raci
 Pediatric
 
 Gabapentin pharmacokinetics were determined in 48 pediatric subjects between the ages of 1 month and 12 years following a dose of approximately 10 mg/kg.
-Peak plasma concentrations were similar across the entire age group and occurred 2 to 3 hours postdose.
+Peak plasma concentrations were similar across the entire age group and occurred 2 to 3 hours post-dose.
 In general, pediatric subjects between 1 month and < 5 years of age achieved approximately 30% lower exposure (AUC) than that observed in those 5 years of age and older.
 Accordingly, oral clearance normalized per body weight was higher in the younger children.
 Apparent oral clearance of gabapentin was directly proportional to creatinine clearance.
@@ -123,7 +123,7 @@ The magnitude of interaction within the recommended dose ranges of either drug i
 
 Hydrocodone
 
-Co-administration of gabapentin (125 to 500 mg; N=48) decreases hydrocodone (10 mg; N=50) Cmax and AUC values in a dose-dependent manner relative to administration of hydrocodone alone; Cmax and AUC values are 3% to 4% lower, respectively, after administration of 125 mg gabapentin and 21% to 22% lower, respectively, after administration of 500 mg gabapentin.
+Co-administration of gabapentin (125 mg to 500 mg; N=48) decreases hydrocodone (10 mg; N=50) Cmax and AUC values in a dose-dependent manner relative to administration of hydrocodone alone; Cmax and AUC values are 3% to 4% lower, respectively, after administration of 125 mg gabapentin and 21% to 22% lower, respectively, after administration of 500 mg gabapentin.
 The mechanism for this interaction is unknown.
 Hydrocodone increases gabapentin AUC values by 14%.
 The magnitude of interaction at other doses is not known.
