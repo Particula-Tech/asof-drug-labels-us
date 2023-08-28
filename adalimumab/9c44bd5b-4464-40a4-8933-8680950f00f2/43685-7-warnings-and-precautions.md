@@ -22,7 +22,6 @@ Tuberculosis
 
 Cases of reactivation of tuberculosis and new onset tuberculosis infections have been reported in patients receiving adalimumab products, including patients who have previously received treatment for latent or active tuberculosis.
 Reports included cases of pulmonary and extrapulmonary (i.e., disseminated) tuberculosis.
-
 Evaluate patients for tuberculosis risk factors and test for latent infection prior to initiating AMJEVITA and periodically during therapy.
 
 Treatment of latent tuberculosis infection prior to therapy with TNF blocking agents has been shown to reduce the risk of tuberculosis reactivation during therapy.

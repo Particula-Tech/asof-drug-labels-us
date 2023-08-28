@@ -138,3 +138,186 @@ For Use in Pediatric Patients 15 kg to < 30 kg
 Refrigerate until ready to use
 
 CAUTION, Consult Accompanying Documents
+
+# PRINCIPAL DISPLAY PANEL - 20 mg/0.2 mL Syringe Carton
+
+AMJEVITA™ (adalimumab-atto) Injection
+
+NDC 55513-399-01
+
+20 mg/ 0.2 mL
+
+20 mg/0.2 mL
+
+For Subcutaneous Use Only
+
+Sterile Solution – No Preservative
+
+Store refrigerated at 2°C to 8°C (36°F to 46°F).
+Do not Freeze.
+Do not re-use.
+Do not Shake.
+Protect from light.
+(see side panel for additional storage information) Keep out of the sight and reach of children.
+
+ATTENTION: Enclosed Medication Guide is required for each patient.
+
+Rx Only
+
+Do not use if carton seal is broken
+
+Not made with natural rubber latex
+
+1 Single-dose Prefilled Syringe
+
+For Use in Pediatric Patients 15 kg to < 30 kg
+
+Refrigerate until ready to use
+
+CAUTION, Consult Accompanying Documents
+
+AMGEN®
+
+# PRINCIPAL DISPLAY PANEL - 40 mg/0.4 mL Syringe Carton
+
+AMJEVITA™ (adalimumab-atto) Injection
+
+NDC 55513-479-01
+
+40 mg/ 0.4 mL
+
+40 mg/0.4 mL
+
+For Subcutaneous Use Only
+
+Sterile Solution – No Preservative
+
+Store refrigerated at 2°C to 8°C (36°F to 46°F).
+Do not Freeze.
+Do not re-use.
+Do not Shake.
+Protect from light.
+(see side panel for additional storage information) Keep out of the sight and reach of children.
+
+ATTENTION: Enclosed Medication Guide is required for each patient.
+
+Rx Only
+
+Do not use if carton seal is broken
+
+Not made with natural rubber latex
+
+1 Single-dose Prefilled Syringe
+
+Refrigerate until ready to use
+
+CAUTION, Consult Accompanying Documents
+
+AMGEN®
+
+# PRINCIPAL DISPLAY PANEL - 80 mg Syringe Carton
+
+AMJEVITA™ (adalimumab-atto) Injection
+
+NDC 55513-480-01
+
+80 mg/ 0.8 mL
+
+80 mg/0.8 mL
+
+For Subcutaneous Use Only.
+
+Sterile Solution – No Preservative
+
+Store refrigerated at 2°C to 8°C (36°F to 46°F).
+Do not Freeze.
+Do not re-use.
+Do not Shake.
+Protect from light.
+(see side panel for additional storage information) Keep out of the sight and reach of children.
+
+ATTENTION: Enclosed Medication Guide is required for each patient.
+
+Rx Only
+
+Do not use if carton seal is broken
+
+Not made with natural rubber latex
+
+1 Single-dose Prefilled Syringe
+
+Refrigerate until ready to use
+
+CAUTION, Consult Accompanying Documents
+
+AMGEN®
+
+# PRINCIPAL DISPLAY PANEL - 40 mg/0.4 mL Autoinjector Carton
+
+AMJEVITA™ (adalimumab-atto) Injection
+
+NDC 55513-482-01
+
+40 mg/ 0.4 mL
+
+40 mg/0.4 mL
+
+For Subcutaneous Use Only
+
+Sterile Solution – No Preservative
+
+Store refrigerated at 2°C to 8°C (36°F to 46°F).
+Do not Freeze.
+Do not re-use.
+Do not Shake.
+Protect from light.
+(see side panel for additional storage information) Keep out of the sight and reach of children.
+
+ATTENTION: Enclosed Medication Guide is required for each patient.
+
+Rx Only
+
+Not made with natural rubber latex
+
+1 Single-dose Prefilled SureClick® Autoinjector
+
+Refrigerate until ready to use
+
+CAUTION, Consult Accompanying Documents
+
+AMGEN®
+
+# PRINCIPAL DISPLAY PANEL - 80 mg Autoinjector Carton
+
+AMJEVITA™ (adalimumab-atto) Injection
+
+NDC 55513-481-01
+
+80 mg/ 0.8 mL
+
+80 mg/0.8 mL
+
+For Subcutaneous Use Only
+
+Sterile Solution – No Preservative
+
+Store refrigerated at 2°C to 8°C (36°F to 46°F).
+Do not Freeze.
+Do not re-use.
+Do not Shake.
+Protect from light.
+(see side panel for additional storage information) Keep out of the sight and reach of children.
+
+ATTENTION: Enclosed Medication Guide is required for each patient.
+
+Rx Only
+
+Not made with natural rubber latex
+
+1 Single-dose Prefilled SureClick® Autoinjector
+
+Refrigerate until ready to use
+
+CAUTION, Consult Accompanying Documents
+
+AMGEN®

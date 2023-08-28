@@ -72,7 +72,7 @@ Components of ACR Response in Studies RA-II and RA-III
 
 The time course of ACR 20 response for Study RA-III is shown in Figure 1.
 
-In Study RA-III, 85% of patients with ACR 20 response at week 24 maintained the response at 52 weeks.
+In Study RA-III, 85% of patients with ACR 20 responses at week 24 maintained the response at 52 weeks.
 The time course of ACR 20 response for Study RA-I and Study RA-II were similar.
 
 In Study RA-IV, 53% of patients treated with adalimumab 40 mg every other week plus standard of care had an ACR 20 response at week 24 compared to 35% on placebo plus standard of care (p < 0.001).
@@ -108,7 +108,7 @@ Adalimumab/MTX treated patients demonstrated less radiographic progression than 
 Table 6.
 Radiographic Mean Changes Over 12 Months in Study RA-III
 
-|  | Placebo/ MTX | Adalimumab/ MTX 40 mg every other week | Placebo/MTX-Adalimumab/MTX (95% Confidence Interval95% confidence intervals for the differences in change scores between MTX and adalimumab.) | P-valueBased on rank analysis |
+|  | Placebo/MTX | Adalimumab/MTX 40 mg every other week | Placebo/MTX-Adalimumab/MTX (95% Confidence Interval95% confidence intervals for the differences in change scores between MTX and adalimumab.) | P-valueBased on rank analysis |
 | --- | --- | --- | --- | --- |
 | Total Sharp score | 2.7 | 0.1 | 2.6 (1.4, 3.8) | < 0.001 |
 | Erosion score | 1.6 | 0.0 | 1.6 (0.9, 2.2) | < 0.001 |
@@ -126,7 +126,7 @@ Greater inhibition of radiographic progression, as assessed by changes in TSS, e
 Table 7.
 Radiographic Mean Changemean (95% confidence interval) in Study RA-V
 
-|  |  | MTXp < 0.001, adalimumab/MTX vs. MTX at 52 and 104 weeks and for adalimumab / MTX vs. adalimumab at 104 weeks N = 257 | Adalimumab,p < 0.01, for adalimumab/MTX vs. adalimumab at 52 weeks N = 274 | Adalimumab/MTX N = 268 |
+|  |  | MTXp < 0.001, adalimumab/MTX vs. MTX at 52 and 104 weeks and for adalimumab /MTX vs. adalimumab at 104 weeks N = 257 | Adalimumab,p < 0.01, for adalimumab/MTX vs. adalimumab at 52 weeks N = 274 | Adalimumab/MTX N = 268 |
 | --- | --- | --- | --- | --- |
 | 52 Weeks | Total Sharp score | 5.7 (4.2, 7.3) | 3.0 (1.7, 4.3) | 1.3 (0.5, 2.1) |
 |  | Erosion score | 3.7 (2.7, 4.8) | 1.7 (1.0, 2.4) | 0.8 (0.4, 1.2) |
@@ -319,10 +319,10 @@ A greater percentage of the patients treated with 160/80 mg adalimumab achieved 
 Table 12.
 Induction of Clinical Remission in Studies CD-I and CD-II (Percent of Patients)
 
-|  | Placebo N = 74 | Adalimumab 160/80 mg N = 76 | Placebo N = 166 | Adalimumab 160/80 mg N = 159 |
+| Week 4 |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | CD-I |  | CD-II |  |
-| Week 4 |  |  |  |  |
+|  | Placebo N = 74 | Adalimumab 160/80 mg N = 76 | Placebo N = 166 | Adalimumab 160/80 mg N = 159 |
 | Clinical remission | 12% | 36%p < 0.001 for adalimumab vs. placebo pairwise comparison of proportions | 7% | 21% |
 | Clinical response | 34% | 58%p < 0.01 for adalimumab vs. placebo pairwise comparison of proportions | 34% | 52% |
 | Clinical remission is CDAI score < 150; clinical response is decrease in CDAI of at least 70 points. |  |  |  |  |

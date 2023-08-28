@@ -134,7 +134,6 @@ Urogenital System: Cystitis, kidney calculus, menstrual disorder
 Juvenile Idiopathic Arthritis Clinical Studies
 
 In general, the adverse reactions in the adalimumab-treated patients in the polyarticular juvenile idiopathic arthritis (JIA) trials (Studies JIA-I and JIA-II) [see Clinical Studies (14.2)] were similar in frequency and type to those seen in adult patients [see Warnings and Precautions (5), Adverse Reactions (6)].
-
 Important findings and differences from adults are discussed in the following paragraphs.
 
 In Study JIA-I, adalimumab was studied in 171 patients who were 4 to 17 years of age, with polyarticular JIA.
@@ -214,7 +213,6 @@ As with all therapeutic proteins, there is potential for immunogenicity.
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other adalimumab products may be misleading.
-
 There are two assays that have been used to measure anti-adalimumab antibodies.
 With the ELISA, antibodies to adalimumab could be detected only when serum adalimumab concentrations were < 2 mcg/mL.
 The ECL assay can detect anti-adalimumab antibody titers independent of adalimumab concentrations in the serum samples.

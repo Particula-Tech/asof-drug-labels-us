@@ -29,6 +29,5 @@ Lymphoma and other malignancies, some fatal, have been reported in children and 
 Post-marketing cases of hepatosplenic T-cell lymphoma (HSTCL), a rare type of T-cell lymphoma, have been reported in patients treated with TNF-blockers including adalimumab products.
 These cases have had a very aggressive disease course and have been fatal.
 The majority of reported TNF-blocker cases have occurred in patients with Crohn's disease or ulcerative colitis and the majority were in adolescent and young adult males.
-
 Almost all these patients had received treatment with azathioprine or 6-mercaptopurine (6–MP) concomitantly with a TNF-blocker at or prior to diagnosis.
 It is uncertain whether the occurrence of HSTCL is related to use of a TNF-blocker or a TNF-blocker in combination with these other immunosuppressants [see Warnings and Precautions (5.2)].
