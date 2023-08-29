@@ -10,7 +10,7 @@ Oral Suspension
 
 Each mL contains: 40 mg posaconazole.
 
-Attention: Noxafil Oral Suspension and Delayed-Release Tablets are NOT interchangeable due to differences in the dosing of each formulation.
+Attention: Noxafil Oral Suspension is NOT substitutable with Noxafil Delayed-Release Tablets or Noxafil PowderMix for Delayed-Release Oral Suspension due to differences in the dosing of each formulation.
 
 SHAKE WELL BEFORE EACH USE.
 
@@ -30,7 +30,7 @@ Noxafil® (posaconazole) delayed-release tablets
 
 Each tablet contains 100 mg posaconazole.
 
-Attention: Noxafil Oral Suspension and Delayed- Release Tablets are NOT interchangeable due to differences in the dosing of each formulation.
+Attention: Noxafil Oral Suspension and Delayed- Release Tablets are NOT substitutable due to differences in the dosing of each formulation.
 
 Rx only
 
