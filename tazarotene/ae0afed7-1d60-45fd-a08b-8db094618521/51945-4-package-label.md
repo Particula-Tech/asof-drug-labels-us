@@ -1,10 +1,10 @@
-# PRINCIPAL DISPLAY PANEL - 50 gram Can Carton
+# PRINCIPAL DISPLAY PANEL - 100 gram Can Carton
 
-NDC 51862-295-50
+NDC 51862-295-10
 
 Fabior® (tazarotene) Foam, 0.1%
 
-50 grams
+100 grams
 
 Rx only For topical use only
 

@@ -4,9 +4,8 @@ How Supplied:
 
 FABIOR Foam, 0.1% (1 mg/g) is a white to off-white foam, supplied as follows:
 
-| 50-g aluminum can | NDC 51862-295-50 |
-| --- | --- |
 | 100-g aluminum can | NDC 51862-295-10 |
+| --- | --- |
 
 Storage and Handling:
 
