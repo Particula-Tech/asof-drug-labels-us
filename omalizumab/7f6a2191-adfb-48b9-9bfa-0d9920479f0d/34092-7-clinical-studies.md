@@ -225,7 +225,7 @@ Change from Baseline to Week 12 in Weekly Itch Severity Score and Weekly Hive Co
 
 |  | XOLAIR 75mg | XOLAIR 150mg | XOLAIR 300mg | Placebo |
 | --- | --- | --- | --- | --- |
-| n | 77 | 80 | 81 | 80 |
+| N | 77 | 80 | 81 | 80 |
 | Weekly Itch Severity Score |  |  |  |  |
 | Mean Baseline Score (SD) | 14.5 (3.6) | 14.1 (3.8) | 14.2 (3.3) | 14.4 (3.5) |
 | Mean Change Week 12 (SD) | −6.46 (6.14) | −6.66 (6.28) | −9.40 (5.73) | −3.63 (5.22) |

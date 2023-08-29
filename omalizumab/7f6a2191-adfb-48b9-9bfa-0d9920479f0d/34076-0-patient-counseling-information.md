@@ -23,5 +23,5 @@ Inform patients the needle cover on the prefilled syringe contains dry natural r
 
 Instruction on Injection Technique
 
-If a patient or caregiver is to administer subcutaneous XOLAIR prefilled syringe, instruct on injection technique and assess ability to inject subcutaneously to ensure proper administration of XOLAIR.
+If a patient or caregiver is to administer subcutaneous XOLAIR prefilled syringe or autoinjector, instruct on injection technique and assess ability to inject subcutaneously to ensure proper administration of XOLAIR.
 For patients who require more than 1 injection to complete their prescribed dose, instruct patients to administer all injections consecutively and in one sitting [See Dosage and Administration (2.6, Warnings and Precautions (5.1), and Instructions for Use].

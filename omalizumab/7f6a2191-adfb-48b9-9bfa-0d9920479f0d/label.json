@@ -8,15 +8,26 @@
     "50242-040-62",
     "50242-040-86",
     "50242-214-01",
+    "50242-214-03",
+    "50242-214-55",
     "50242-214-86",
     "50242-215-01",
-    "50242-215-86"
+    "50242-215-03",
+    "50242-215-55",
+    "50242-215-86",
+    "50242-227-01",
+    "50242-227-55"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
       "generic": "omalizumab",
       "name": "XOLAIR"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "omalizumab",
+      "name": "Xolair"
     },
     {
       "form": "INJECTION, SOLUTION",

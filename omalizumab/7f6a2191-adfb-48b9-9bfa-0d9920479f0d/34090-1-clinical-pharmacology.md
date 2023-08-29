@@ -84,3 +84,13 @@ Chronic Spontaneous Urticaria (CSU)
 The population pharmacokinetics of omalizumab was analyzed to evaluate the effects of demographic characteristics and other factors on omalizumab exposure in patients with CSU.
 Covariate effects were evaluated by analyzing the relationship between omalizumab concentrations and clinical responses.
 These analyses demonstrate that no dose adjustments are necessary for age (12 to 75 years), race/ethnicity, gender, body weight, body mass index, or baseline IgE level.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of XOLAIR or of other omalizumab products.
+
+Antibodies to XOLAIR were detected in approximately 1/1723 (<0.1%) of patients treated with XOLAIR in the clinical studies evaluated for asthma in patients 12 years of age and older.
+In three pediatric studies, antibodies to XOLAIR were detected in one patient out of 581 patients 6 to <12 years of age treated with XOLAIR and evaluated for antibodies.
+There were no detectable antibodies in the patients treated in the CSU clinical trials, but due to levels of XOLAIR at the time of anti-therapeutic antibody sampling and missing samples for some patients, antibodies to XOLAIR could only have been determined in 88% of the 733 patients treated in these clinical studies.
+The data reflect the percentage of patients whose test results were considered positive for antibodies to XOLAIR in ELISA assays and are highly dependent on the sensitivity and specificity of the assays.

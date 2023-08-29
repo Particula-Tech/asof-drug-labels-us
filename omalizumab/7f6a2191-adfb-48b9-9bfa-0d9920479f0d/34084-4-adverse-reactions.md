@@ -53,7 +53,7 @@ The study found that a self-reported history of anaphylaxis to foods, medication
 Because this is a case-control study, the study cannot provide the incidence of anaphylaxis among XOLAIR users.
 From other sources, anaphylaxis to XOLAIR was observed in 0.1% of patients in clinical trials and at least 0.2% of patients based upon postmarketing reports.
 Approximately 60% to 70% of cases were reported to occur within the first three doses of XOLAIR, with additional cases occurring sporadically beyond the third dose.
-The time to onset for anaphylaxis was reported to occur within 2 hours for the majority of cases (approximately 75%) - [see Warnings and Precautions (5.1), Adverse Reactions (6.3)].
+The time to onset for anaphylaxis was reported to occur within 2 hours for the majority of cases (approximately 75%) - [see Warnings and Precautions (5.1), Adverse Reactions (6.2)].
 
 Injection Site Reactions
 
@@ -134,7 +134,7 @@ Adverse Reactions Occurring in ≥2% in XOLAIR-Treated Patients and More Frequen
 
 Additional reactions reported during the 24-week treatment period in Trials 1 and 3 [≥2% of patients receiving XOLAIR (150 mg or 300 mg) and more frequently than those receiving placebo] included: toothache, fungal infection, urinary tract infection, myalgia, pain in extremity, musculoskeletal pain, peripheral edema, pyrexia, migraine, sinus headache, anxiety, oropharyngeal pain, asthma, urticaria, and alopecia.
 
-Injection Site Reactions
+Injection Site Reactions in Patients with CSU
 
 Injection site reactions of any severity occurred during the studies in more XOLAIR-treated patients [11 patients (2.7%) at 300 mg, 1 patient (0.6%) at 150 mg] compared with 2 placebo-treated patients (0.8%).
 The types of injection site reactions included: swelling, erythema, pain, bruising, itching, bleeding, and urticaria.
@@ -160,19 +160,13 @@ The patients had a mean age of 38 years, and were followed for a mean duration o
 No notable imbalances were observed in the rates of cardiovascular and cerebrovascular SAEs listed above.
 However, the results of the pooled analysis were based on a low number of events, slightly younger patients, and shorter duration of follow-up than the observational cohort study; therefore, the results are insufficient to confirm or reject the findings noted in the observational cohort study.
 
-## 6.2 Immunogenicity
+Adverse Reactions from Clinical Study in Healthy Adults
 
-As with all therapeutic proteins, there is potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to omalizumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
+Injection Site Reactions in Healthy Adults
 
-Antibodies to XOLAIR were detected in approximately 1/1723 (<0.1%) of patients treated with XOLAIR in the clinical studies evaluated for asthma in patients 12 years of age and older.
-In three pediatric studies, antibodies to XOLAIR were detected in one patient out of 581 patients 6 to <12 years of age treated with XOLAIR and evaluated for antibodies.
-There were no detectable antibodies in the patients treated in the CSU clinical trials, but due to levels of XOLAIR at the time of anti-therapeutic antibody sampling and missing samples for some patients, antibodies to XOLAIR could only have been determined in 88% of the 733 patients treated in these clinical studies.
-The data reflect the percentage of patients whose test results were considered positive for antibodies to XOLAIR in ELISA assays and are highly dependent on the sensitivity and specificity of the assays.
+In an open label trial in healthy adults, in which the 300 mg/2 mL autoinjector was compared to the 300 mg/2 mL prefilled syringe, injection site reactions (e.g., induration, pain, erythema, hemorrhage, swelling, discomfort, bruising, hypoesthesia, edema, pruritus) were observed in 24% (16/66) of subjects treated with the autoinjector compared with 14% (9/64) of subjects treated with the prefilled syringe.
 
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of XOLAIR in adult and adolescent patients 12 years of age and older.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
