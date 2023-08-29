@@ -39,7 +39,7 @@ Safety Database of ABILIFY ASIMTUFII (once every 2 month dosing)
 In a 32-week open-label study of ABILIFY ASIMTUFII in adult patients with schizophrenia or bipolar I disorder, 266 patients were randomized to receive either ABILIFY ASIMTUFII 960 mg (132 patients) or Abilify Maintena 400 mg (134 patients).
 A total of the 132 patients received at least one injection of ABILIFY ASIMTUFII, a total of 114 patients received at least two consecutive injections (4 months treatment) of ABILIFY ASIMTUFII, and a total of 104 patients received at least four consecutive injections (8 months treatment) of ABILIFY ASIMTUFII.
 Of the total 266 patients receiving ABILIFY ASIMTUFII 960 mg or Abilify Maintena 400 mg, 185 had schizophrenia and 81 had bipolar I disorder.
-Injection site reactionsfor ABILIFY ASIMTUFII (once every 2 month dosing) presented in this section is based on this open-label study (see section titled "Injection Site Reactions with Abilify ASIMTUFII").
+Injection site reactions for ABILIFY ASIMTUFII (once every 2 month dosing) presented in this section is based on this open-label study (see section titled "Injection Site Reactions with Abilify ASIMTUFII").
 
 Adverse Reactions in Studies with Abilify Maintena (once monthly dosing)
 

@@ -23,7 +23,7 @@ Plasma exposures at steady state were compared between ABILIFY ASIMTUFII (960 mg
 The average plasma concentrations (Cavg) of aripiprazole were 263 ng/mL and 280 ng/mL for ABILIFY ASIMTUFII and Abilify Maintena, respectively.
 The Cmax of aripiprazole were 342 ng/mL and 344 ng/mL for ABILIFY ASIMTUFII and Abilify Maintena, respectively.
 
-Figure 9: Mean Plasma Concentration of Aripiprazole Following the Fourth Administration of ABILIFY ASIMTUFII 960 mg versus the Eighth Administration of Abilify Maintena 400 mg
+Figure 9: Mean Plasma Concentration of Aripiprazole Following the Fourth Administration of ABILIFY ASIMTUFII 960 mg versus the Seventh and Eighth Administration of Abilify Maintena 400 mg
 
 Absorption
 
