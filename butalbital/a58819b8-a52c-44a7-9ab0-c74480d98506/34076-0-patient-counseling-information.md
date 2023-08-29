@@ -25,7 +25,7 @@ Instruct patients not to share Butalbital, Acetaminophen, Caffeine, and Codeine 
 
 Life-Threatening Respiratory Depression
 
-Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules or when the dosage is increased, and that it can occur even at recommended dosages
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules or when the dosage is increased, and that it can occur even at recommended dosages.
 
 Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.3)].
 
