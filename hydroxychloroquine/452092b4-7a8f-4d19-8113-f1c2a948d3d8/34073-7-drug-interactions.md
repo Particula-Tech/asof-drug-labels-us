@@ -9,7 +9,7 @@ Therefore, hydroxychloroquine sulfate tablets are not recommended in patients ta
 ## 7.2 Insulin or Other Antidiabetic Drugs
 
 Hydroxychloroquine sulfate tablets may enhance the effects of insulin and antidiabetic drugs, and consequently increase the hypoglycemic risk.
-Therefore, a decrease in dosage of insulin and other antidiabetic drugs may be necessary [see Warnings and Precautions (5.8)].
+Therefore, a decrease in dosage of insulin and other antidiabetic drugs may be necessary [see Warnings and Precautions (5.10)].
 
 ## 7.3 Drugs that Lower the Seizure Threshold
 
