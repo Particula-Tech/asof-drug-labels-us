@@ -2,13 +2,13 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Risks from Concomitant Use with Opioids [see Warnings and Precautions (5.1)]
-- Abuse, Misuse, and Addiction [see Warnings and Precautions (5.2)]
-- Dependence and Withdrawal Reactions [see Warnings and Precautions (5.3)]
-- Effects on Driving and Operating Machinery [see Warnings and Precautions (5.4)]
-- Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.5)]
-- Patients with Depression [see Warnings and Precautions (5.7)]
-- Risks in Patients with Impaired Respiratory Function [see Warnings and Precautions (5.9)]
+- •Risks from Concomitant Use with Opioids [see Warnings and Precautions (5.1)]
+- •Abuse, Misuse, and Addiction [see Warnings and Precautions (5.2)]
+- •Dependence and Withdrawal Reactions [see Warnings and Precautions (5.3)]
+- •Effects on Driving and Operating Machinery [see Warnings and Precautions (5.4)]
+- •Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.5)]
+- •Patients with Depression [see Warnings and Precautions (5.7)]
+- •Risks in Patients with Impaired Respiratory Function [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
