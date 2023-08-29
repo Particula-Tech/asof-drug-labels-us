@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA202827"
+  ],
+  "inn": "lisdexamfetamine",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0054-0370-25",
+    "0054-0371-25",
+    "0054-0372-25",
+    "0054-0373-25",
+    "0054-0374-25",
+    "0054-0375-25"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "lisdexamfetamine dimesylate",
+      "name": "Lisdexamfetamine Dimesylate"
+    }
+  ],
+  "setid": "6740a621-9bec-4178-a4fc-a3fc89f34e0a",
+  "source": "dailymed"
+}
