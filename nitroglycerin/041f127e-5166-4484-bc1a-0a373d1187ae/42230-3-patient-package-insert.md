@@ -24,9 +24,9 @@ Do not use Nitroglycerin if you are allergic to organic nitrates (like the activ
 
 You should not take Nitroglycerin if you have the following conditions:
 
-- very recent heart attack
-- severe anemia
-- increased pressure in the head
+- •very recent heart attack
+- •severe anemia
+- •increased pressure in the head
 
 Do not take Nitroglycerin with drugs for erectile dysfunction, like VIAGRA® (sildenafil citrate), CIALIS® (tadalafil), or LEVITRA® (vardenafil hydrochloride), as this may lead to extreme lowering of your blood pressure.
 
@@ -36,50 +36,50 @@ What should I tell my doctor before taking Nitroglycerin?
 
 Before using Nitroglycerin, tell your doctor if:
 
-- You are taking any medicines that are used to treat angina, heart failure, or an irregular heartbeat.
-- You are taking any medicines that reduce blood pressure.
-- You are taking any diuretics (water pills).
-- You are taking medicines that can cause dry mouth such as tricyclic antidepressants (e.g. amitriptyline, desipramine, doxepin), anticholinergic drugs, or any antimuscarinic drugs (e.g. atropine).
-- You are taking ergotamine or similar drugs for migraine headaches.
-- You are taking aspirin.
-- You are taking any medicines for erectile dysfunction.
-- You are pregnant or plan to become pregnant.
-- You are breastfeeding.
+- •You are taking any medicines that are used to treat angina, heart failure, or an irregular heartbeat.
+- •You are taking any medicines that reduce blood pressure.
+- •You are taking any diuretics (water pills).
+- •You are taking medicines that can cause dry mouth such as tricyclic antidepressants (e.g. amitriptyline, desipramine, doxepin), anticholinergic drugs, or any antimuscarinic drugs (e.g. atropine).
+- •You are taking ergotamine or similar drugs for migraine headaches.
+- •You are taking aspirin.
+- •You are taking any medicines for erectile dysfunction.
+- •You are pregnant or plan to become pregnant.
+- •You are breastfeeding.
 
 How should I take Nitroglycerin?
 
-- Do not chew, crush, or swallow Nitroglycerin tablets.
-- You should sit down when taking Nitroglycerin tablets and use caution when you stand up.
+- •Do not chew, crush, or swallow Nitroglycerin tablets.
+- •You should sit down when taking Nitroglycerin tablets and use caution when you stand up.
   This eliminates the possibility of falling due to lightheadedness or dizziness.
-- One tablet should be dissolved under the tongue or in the oral cavity at the first sign of chest pain.
-- The dose may be repeated approximately every 5 minutes, until the chest pain is relieved.
-- If the pain persists after a total of 3 tablets in a 15-minute period, or is different than you typically experience, call your doctor or seek emergency help.
-- Nitroglycerin may be used 5 to 10 minutes prior to activities that might cause chest pain.
-- You may feel a burning or tingling sensation in your mouth when you take Nitroglycerin.
+- •One tablet should be dissolved under the tongue or in the oral cavity at the first sign of chest pain.
+- •The dose may be repeated approximately every 5 minutes, until the chest pain is relieved.
+- •If the pain persists after a total of 3 tablets in a 15-minute period, or is different than you typically experience, call your doctor or seek emergency help.
+- •Nitroglycerin may be used 5 to 10 minutes prior to activities that might cause chest pain.
+- •You may feel a burning or tingling sensation in your mouth when you take Nitroglycerin.
 
 What should I avoid while taking Nitroglycerin?
 
-- Do not breastfeed.
+- •Do not breastfeed.
   It is not known if Nitroglycerin will pass through your milk.
-- Do not consume alcohol while taking Nitroglycerin, as this can lower your blood pressure.
-- Do not start any new prescription or non-prescription medicines or supplements, unless you check with your doctor first.
+- •Do not consume alcohol while taking Nitroglycerin, as this can lower your blood pressure.
+- •Do not start any new prescription or non-prescription medicines or supplements, unless you check with your doctor first.
 
 What are the possible side effects of Nitroglycerin?
 
 Nitroglycerin may cause the following side effects:
 
-- headache
-- vertigo (a major symptom of balance disorder)
-- dizziness
-- weakness
-- heart palpitations (unusual awareness of the heartbeat)
-- low blood pressure upon rising from a seated position
-- nausea and vomiting
-- sweating
-- paleness
-- fainting
-- flushing (warm or red condition of your skin)
-- other skin reactions that may be severe
+- •headache
+- •vertigo (a major symptom of balance disorder)
+- •dizziness
+- •weakness
+- •heart palpitations (unusual awareness of the heartbeat)
+- •low blood pressure upon rising from a seated position
+- •nausea and vomiting
+- •sweating
+- •paleness
+- •fainting
+- •flushing (warm or red condition of your skin)
+- •other skin reactions that may be severe
 
 Tell your doctor if you are concerned about any side effects you experience.
 These are not all the possible side effects of Nitroglycerin.
