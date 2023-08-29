@@ -24,7 +24,7 @@ Adjuvant Treatment
 
 The safety of oxaliplatin in combination with fluorouracil (FU)/leucovorin (LV) was evaluated in patients with stage II or III colon cancer, who had undergone complete resection of the primary tumor in the adjuvant treatment trial [see Clinical Studies (14.1)].
 
-Fatal adverse reactions in patients who received oxaliplatin in the combination arm included sepsis/neutropenic sepsis (n=3), intracerebral hemorrhage (n=2) and eosinophilic pneumonia (n=1).
+Fatal adverse reactions in patients who received oxaliplatin in the combination arm included sepsis/neutropenic sepsis (n=3), intracerebral hemorrhage (n=2), and eosinophilic pneumonia (n=1).
 
 Thromboembolic events occurred in 6% (grade 3-4, 1.2%) of patients in the oxaliplatin arm.
 
@@ -61,7 +61,7 @@ Tables 5, 6, and 7 summarize the adverse reactions reported in patients with col
 | Allergy/Immunology |  |  |  |  |
 | Allergic Reaction | 10 | 3 | 2 | <1 |
 
-Table 6: Adverse Reactions Reported in Patients with Colon Cancer Receiving Adjuvant Treatment (greater than or equal to 5% of all patients but with less than 1% Grade 3-4)
+Table 6: Adverse Reactions Reported in Patients with Colon Cancer Receiving Adjuvant Treatment (greater than or equal to 5% of all patients but with less than 1% grade 3-4)
 
 | Adverse ReactionEvent coded in WHO-ART dictionary. | Oxaliplatin + FU/LV N=1108 | FU/LV N=1111 |
 | --- | --- | --- |
@@ -164,7 +164,7 @@ Tables 8, 9, and 10 summarize the adverse reactions reported in the previously u
 
 Table 9: Adverse Reactions Reported in Patients in the Previously Untreated Advanced Colorectal Cancer Clinical Trial (greater than or equal to 5% of all patients but with less than 1% grade 3-4)
 
-| Adverse ReactionEvent coded in WHO-ART dictionary. | Oxaliplatin + 5-FU/LV N=259 | Irinotecan + 5-FU/LV N=256 | Oxaliplatin + Irinotecan N=258 |
+| Adverse ReactionEvent coded in WHO-ART dictionary. | Oxaliplatin + FU/LV N=259 | Irinotecan + FU/LV N=256 | Oxaliplatin + Irinotecan N=258 |
 | --- | --- | --- | --- |
 | All Grades (%) | All Grades (%) | All Grades (%) |  |
 | Dermatology/Skin |  |  |  |
@@ -272,7 +272,7 @@ Tables 11, 12, and 13 summarize the adverse reactions reported in the previously
 
 1. Table 12: Adverse Reactions Reported in Patients in the Previously Treated Advanced Colorectal Cancer Clinical Trial (greater than or equal to 5% of all patients but with less than 1% grade 3-4)
 
-| Adverse ReactionEvent coded in WHO-ART dictionary. | Oxaliplatin + FU/LV N=150 | Oxaliplatin N=153 | 5-FU/LV N=142 |
+| Adverse ReactionEvent coded in WHO-ART dictionary. | Oxaliplatin + FU/LV N=150 | Oxaliplatin N=153 | FU/LV N=142 |
 | --- | --- | --- | --- |
 | All Grades (%) | All Grades (%) | All Grades (%) |  |
 | Gastrointestinal |  |  |  |
@@ -352,7 +352,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - •Hearing and vestibular system: deafness
 - •Infections: septic shock, including fatal outcomes
 - •Infusion-related reactions and hypersensitivity reactions: laryngospasm
-- •Hepatic and gastrointestinal: severe diarrhea/vomiting resulting in hypokalemia, colitis (including Clostridium difficile diarrhea), metabolic acidosis, ileus, intestinal obstruction, pancreatitis, sinusoidal obstruction syndrome, perisinusoidal fibrosis which rarely may progress, esophagitis
+- •Hepatic and gastrointestinal: severe diarrhea/vomiting resulting in hypokalemia, colitis (including Clostridium difficile diarrhea), metabolic acidosis, ileus, intestinal obstruction, pancreatitis, sinusoidal obstruction syndrome, perisinusoidal fibrosis which rarely may progress, focal nodular hyperplasia, esophagitis
 - •Musculoskeletal and connective tissue: rhabdomyolysis, including fatal outcomes
 - •Platelet, bleeding, and clotting disorders: immuno-allergic thrombocytopenia, prolonged prothrombin time and INR in patients receiving anticoagulants
 - •Blood disorders: secondary leukemia

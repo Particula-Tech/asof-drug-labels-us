@@ -64,10 +64,6 @@ Drug Interactions
 
 Inform patients about the risk of drug interactions and the importance of providing a list of prescription and nonprescription drugs to their healthcare provider [see Drug Interactions (7)].
 
-Manufactured by FAREVA Unterach GmbH
-
-Mondseestraße 11, 4866 Unterach, Austria for
+Manufactured by FAREVA Unterach GmbH for
 
 Sandoz Inc., Princeton, NJ 08540
-
-46290162-01

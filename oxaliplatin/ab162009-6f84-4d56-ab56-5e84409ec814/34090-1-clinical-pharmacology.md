@@ -37,7 +37,7 @@ No platinum accumulation was observed in plasma ultrafiltrate following 85 mg/m2
 
 Elimination
 
-The decline of ultrafiltrable platinum concentrations from plasma is characterized by a long terminal elimination phase (t1/2γ; 392 hours).
+The decline of ultrafiltrable platinum concentrations from plasma is characterized by a long terminal elimination phase (t1/2γ; 391 hour).
 
 Metabolism
 

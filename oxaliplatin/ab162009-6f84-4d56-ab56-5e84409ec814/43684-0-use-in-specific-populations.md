@@ -15,7 +15,7 @@ Data
 
 Animal Data
 
-Pregnant rats were administered oxaliplatin at less than one-tenth the recommended human dose based on body surface area during gestation days (GD) 1 to 5 (pre-implantation), GD 6 to 10, or GD 11 to 16 (during organogenesis).
+Pregnant rats were administered oxaliplatin at less than one-tenth the recommended human dose based on body surface area during gestation days (GD) 1 to 5 (preimplantation), GD 6 to 10, or GD 11 to 16 (during organogenesis).
 Oxaliplatin caused developmental mortality (increased early resorptions) when administered on days GD 6 to 10 and GD 11 to 16 and adversely affected fetal growth (decreased fetal weight, delayed ossification) when administered on days GD 6 to 10.
 
 ## 8.2 Lactation
@@ -64,7 +64,7 @@ No responses were observed.
 In an open-label, single-agent study (ARD5021), oxaliplatin was administered to 43 pediatric patients with recurrent or refractory embryonal CNS tumors.
 The most common adverse reactions reported were: leukopenia (67%, grade 3-4: 12%), anemia (65%, grade 3-4: 5%), thrombocytopenia (65%, grade 3-4: 26%), vomiting (65%, grade 3-4: 7%), neutropenia (58%, grade 3-4: 16%), and sensory neuropathy (40%, grade 3-4: 5%).
 
-In an open-label single-agent study (ARD5530), oxaliplatin was administered to 123 pediatric patients with recurrent solid tumors, including neuroblastoma, osteosarcoma, Ewing sarcoma or peripheral PNET, ependymoma, rhabdomyosarcoma, hepatoblastoma, high grade astrocytoma, Brain stem glioma, low grade astrocytoma, malignant germ cell tumor and other tumors.
+In an open-label single-agent study (ARD5530), oxaliplatin was administered to 123 pediatric patients with recurrent solid tumors, including neuroblastoma, osteosarcoma, Ewing sarcoma or peripheral PNET, ependymoma, rhabdomyosarcoma, hepatoblastoma, high grade astrocytoma, brain stem glioma, low grade astrocytoma, malignant germ cell tumor and other tumors.
 The most common adverse reactions reported were: sensory neuropathy (52%, grade 3-4: 12%), thrombocytopenia (37%, grade 3-4: 17%), anemia (37%, grade 3-4: 9%), vomiting (26%, grade 3-4: 4%), increased ALT (24%, grade 3-4: 6%), increased AST (24%, grade 3-4: 2%), and nausea (23%, grade 3-4: 3%).
 
 The pharmacokinetic parameters of ultrafiltrable platinum were evaluated in 105 pediatric patients during the first cycle.

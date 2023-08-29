@@ -12,5 +12,5 @@ Avoid coadministration of oxaliplatin with medicinal products known to cause nep
 
 ## 7.3 Use with Anticoagulants
 
-Prolonged prothrombin time and INR occasionally associated with hemorrhage have been reported in patients who received oxaliplatin with fluorouracil/leucovorin while on anticoagulants [see Warnings and Precautions (5.10), Adverse Reactions (6.2)].
+Prolonged prothrombin time and INR occasionally associated with hemorrhage have been reported in patients who received oxaliplatin with fluorouracil/leucovorin while on anticoagulants [see Warnings and Precautions (5.9), Adverse Reactions (6.2)].
 Increase frequency of monitoring in patients who are receiving oxaliplatin with fluorouracil/leucovorin and oral anticoagulants.

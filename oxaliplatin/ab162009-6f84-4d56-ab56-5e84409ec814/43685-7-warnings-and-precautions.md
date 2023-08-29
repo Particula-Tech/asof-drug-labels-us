@@ -4,7 +4,7 @@
 
 Serious and fatal hypersensitivity reactions, including anaphylaxis, can occur with oxaliplatin within minutes of administration and during any cycle.
 Grade 3-4 hypersensitivity reactions, including anaphylaxis, occurred in 2% to 3% of patients with colon cancer who received oxaliplatin.
-Hypersensitivity reactions, including rash, urticaria, erythema, pruritus, and, rarely, bronchospasm and hypotension, were similar in nature and severity to those reported with other platinum-based drugs.
+Hypersensitivity reactions, including rash, urticaria, erythema, pruritus, and rarely, bronchospasm and hypotension, were similar in nature and severity to those reported with other platinum-based drugs.
 
 Oxaliplatin is contraindicated in patients with hypersensitivity reactions to platinum-based drugs [see Contraindications (4)].
 Immediately and permanently discontinue oxaliplatin for hypersensitivity reactions and administer appropriate treatment for management of hypersensitivity reactions.
@@ -12,7 +12,7 @@ Immediately and permanently discontinue oxaliplatin for hypersensitivity reactio
 ## 5.2 Peripheral Sensory Neuropathy
 
 Oxaliplatin can cause acute and delayed neuropathy.
-Reduce the dose or permanently discontinue oxaliplatin for persistent neurosensory reactions based on the severity of the adverse reaction [see Dosage and Administration (2.3)].
+Reduce the dose or permanently discontinue oxaliplatin for persistent neurosensory reactions based on the severity of the adverse reaction [see Dosage and Administration (2.2)].
 
 Acute Neuropathy
 
@@ -94,7 +94,7 @@ Oxaliplatin has been associated with pulmonary fibrosis (less than 1% of patient
 In the adjuvant treatment trial, the combined incidence of cough and dyspnea was 7.4% (any grade), including less than 1% (grade 3) in the oxaliplatin arm.
 One patient died from eosinophilic pneumonia in the oxaliplatin arm.
 
-In the previously untreated advanced colorectal cancer trial, the combined incidence of cough, dyspnea and hypoxia was 43% (any grade), including 7% (grade 3-4) in the oxaliplatin with fluorouracil/leucovorin arm.
+In the previously untreated advanced colorectal cancer trial, the combined incidence of cough, dyspnea, and hypoxia was 43% (any grade), including 7% (grade 3-4) in the oxaliplatin with fluorouracil/leucovorin arm.
 
 In case of unexplained respiratory symptoms, such as non-productive cough, dyspnea, crackles, or radiological pulmonary infiltrates, withhold oxaliplatin until further pulmonary investigation excludes interstitial lung disease or pulmonary fibrosis.
 Permanently discontinue oxaliplatin for confirmed interstitial lung disease or pulmonary fibrosis.
@@ -105,8 +105,8 @@ In the adjuvant treatment trial, increased transaminases (57% vs 34%) and alkali
 The incidence of increased bilirubin was similar on both arms.
 Changes noted on liver biopsies include: peliosis, nodular regenerative hyperplasia or sinusoidal alterations, perisinusoidal fibrosis, and veno-occlusive lesions.
 
-Consider evaluating patients who develop abnormal liver tests or portal hypertension which cannot be explained by liver metastases, for hepatic vascular disorders.
-Monitor liver function tests at baseline, before each subsequent cycle and as clinically indicated.
+Consider evaluating patients who develop abnormal liver tests or portal hypertension, which cannot be explained by liver metastases, for hepatic vascular disorders.
+Monitor liver function tests at baseline, before each subsequent cycle, and as clinically indicated.
 
 ## 5.7 QT Interval Prolongation and Ventricular Arrhythmias
 
@@ -140,5 +140,5 @@ Based on findings from animal studies and its mechanism of action, oxaliplatin c
 The available human data do not establish the presence or absence of major birth defects or miscarriage related to the use of oxaliplatin.
 Reproductive toxicity studies demonstrated adverse effects on embryo-fetal development in rats at maternal doses that were below the recommended human dose based on body surface area.
 Advise pregnant women of the potential risk to a fetus.
-Advise females of reproductive potential to use effective contraception during treatment with oxaliplatin and for at least 9 months after the final dose.
+Advise females of reproductive potential to use effective contraception during treatment with oxaliplatin and for 9 months after the final dose.
 Advise males with female partners of reproductive potential to use effective contraception during treatment with oxaliplatin and for 6 months after the final dose [see Use in Specific Populations (8.1, 8.3)].

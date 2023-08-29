@@ -19,12 +19,13 @@ Refer to the prescribing information for fluorouracil and leucovorin for additio
 
 ## 2.2 Dose Modifications for Adverse Reactions
 
-Prolongation of infusion time for oxaliplatin injection from 2 hours to 6 hours may mitigate acute toxicities, such as non-life threatening infusion-related reactions.
+Prolongation of infusion time for oxaliplatin injection from 2 hours to 6 hours may mitigate acute toxicities, such as non-life-threatening infusion-related reactions.
 Permanently discontinue oxaliplatin injection for any of the following:
 
 - •Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 - •Posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.4)]
-- •Confirmed interstitial lung disease or pulmonary fibrosis [see Warnings and Precautions (5.5)] Rhabdomyolysis [see Warnings and Precautions (5.8)]
+- •Confirmed interstitial lung disease or pulmonary fibrosis [see Warnings and Precautions (5.5)]
+- •Rhabdomyolysis [see Warnings and Precautions (5.8)]
 
 Refer to the fluorouracil and leucovorin prescribing information for dosage modifications for adverse reactions.
 

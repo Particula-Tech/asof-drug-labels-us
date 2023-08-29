@@ -188,12 +188,12 @@ Table 21: Efficacy Results for Previously Untreated Advanced Colorectal Cancer T
 | Survival (ITT) |  |  |  |
 | Number of deaths (%) | 155 (58.1) | 192 (72.7) | 175 (66.3) |
 | Median survival (months) | 19.4 | 14.6 | 17.6 |
-| Hazard ratio (95% CI) | 0.65 (0.53, 0.80)Compared to irinotecan plus fluorouracil/leucovorin (IFL) arm |  | - |
+| Hazard ratio (95% CI)A hazard ratio of less than 1 favors oxaliplatin+ Infusional FU/LV | 0.65 (0.53, 0.80)Compared to irinotecan plus fluorouracil/leucovorin (IFL) arm |  | - |
 | P-value | <0.0001 |  | - |
 | TTP (ITT, investigator assessment) |  |  |  |
 | Percentage of progressors | 82.8 | 81.8 | 89.4 |
 | Median TTP (months) | 8.7 | 6.9 | 6.5 |
-| Hazard ratio (95% CI)A hazard ratio of less than 1 favors oxaliplatin+ Infusional FU/LV | 0.74 (0.61, 0.89) |  | - |
+| Hazard ratio (95% CI) | 0.74 (0.61, 0.89) |  | - |
 | P-value | 0.0014 |  | - |
 | Response Rate (investigator assessment)Based on all patients with measurable disease at baseline |  |  |  |
 | Patients with measurable disease | 210 | 212 | 215 |
@@ -203,11 +203,11 @@ Table 21: Efficacy Results for Previously Untreated Advanced Colorectal Cancer T
 | 95% CI | (38.5, 52) | (26.2, 38.9) | (28.1, 40.8) |
 | P-value | 0.0080 |  | - |
 
-The numbers in the response rate and TTP analysis are based on un-blinded investigator assessment.
+The numbers in the response rate and TTP analysis are based on unblinded investigator assessment.
 
 1. Figure 3: Kaplan-Meier Curves for Overall Survival in Previously Untreated Advanced Colorectal Cancer Trial
 
-In descriptive subgroup analyses, the improvement in overall survival (OS) for oxaliplatin with fluorouracil/leucovorin compared to irinotecan with fluorouracil/leucovorin appeared to be maintained across age groups, prior adjuvant treatment, number of organs involved and both sexes; however the effect appeared larger among women than men.
+In descriptive subgroup analyses, the improvement in overall survival (OS) for oxaliplatin with fluorouracil/leucovorin compared to irinotecan with fluorouracil/leucovorin appeared to be maintained across age groups, prior adjuvant treatment, number of organs involved and both sexes; however, the effect appeared larger among women than men.
 
 ## 14.3 Previously Treated Advanced Colorectal Cancer
 
