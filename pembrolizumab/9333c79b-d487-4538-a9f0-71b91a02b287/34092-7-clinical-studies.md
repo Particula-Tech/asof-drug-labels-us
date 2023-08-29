@@ -93,23 +93,29 @@ Randomization was stratified by AJCC 8th edition T Stage (>2.0-4.0 mm with ulcer
 Patients must not have been previously treated for melanoma beyond complete surgical resection for their melanoma prior to study entry.
 The major efficacy outcome measure was investigator-assessed recurrence-free survival (RFS) (defined as the time between the date of randomization and the date of first recurrence [local, in-transit or regional lymph nodes or distant recurrence] or death, whichever occurred first).
 New primary melanomas were excluded from the definition of RFS.
+Distant metastasis-free survival (DMFS), defined as a spread of tumor to distant organs or distant lymph nodes, was an additional efficacy outcome measure.
 Patients underwent imaging every six months for one year from randomization, every 6 months from years 2 to 4, and then once in year 5 from randomization or until recurrence, whichever came first.
 
 The study population characteristics were: median age of 61 years (range: 16 to 87), 39% age 65 or older; 60% male; 98% White; and 93% ECOG PS of 0 and 7% ECOG PS of 1.
 Sixty-four percent had Stage IIB and 35% had Stage IIC.
 
-The trial demonstrated a statistically significant improvement in RFS for patients randomized to the KEYTRUDA arm compared with placebo.
+The trial demonstrated a statistically significant improvement in RFS and DMFS for patients randomized to the KEYTRUDA arm compared with placebo.
 Efficacy results are summarized in Table 51 and Figure 3.
 
 Table 51: Efficacy Results in KEYNOTE-716
 
-| Endpoint | KEYTRUDA n=487 | Placebo n=489 |
+| Endpoint | KEYTRUDA 200 mg every 3 weeks n=487 | Placebo n=489 |
 | --- | --- | --- |
 | RFS |  |  |
 | Number (%) of patients with event | 54 (11%) | 82 (17%) |
 | Median in months (95% CI) | NR (22.6, NR) | NR (NR, NR) |
 | Hazard ratioBased on the stratified Cox proportional hazard model,Based on a log-rank test stratified by American Joint Committee on Cancer 8th edition (AJCC) stage (95% CI) | 0.65 (0.46, 0.92) |  |
 | p-Value | 0.0132p-Value is compared with 0.0202 of the allocated alpha for this interim analysis. |  |
+| DMFS |  |  |
+| Number (%) of patients with event | 63 (13%) | 95 (19%) |
+| Median in months (95% CI) | NR (NR, NR) | NR (NR, NR) |
+| Hazard ratio, (95% CI) | 0.64 (0.47, 0.88) |  |
+| p-Value | 0.00292p-Value is compared with 0.0128 of the allocated alpha for this interim analysis. |  |
 | NR = not reached |  |  |
 
 Adjuvant Treatment of Stage III Resected Melanoma
@@ -120,27 +126,35 @@ Randomization was stratified by American Joint Committee on Cancer 7th edition (
 Patients must have undergone lymph node dissection and, if indicated, radiotherapy within 13 weeks prior to starting treatment.
 The major efficacy outcome measure was investigator-assessed recurrence-free survival (RFS) in the whole population and in the population with PD-L1 positive tumors where RFS was defined as the time between the date of randomization and the date of first recurrence (local, regional, or distant metastasis) or death, whichever occurs first.
 New primary melanomas were excluded from the definition of RFS.
+DMFS in the whole population and in the population with PD-L1 positive tumors were additional efficacy outcome measures.
+DMFS was defined as a spread of tumor to distant organs or distant lymph nodes.
 Patients underwent imaging every 12 weeks after the first dose of KEYTRUDA for the first two years, then every 6 months from year 3 to 5, and then annually.
 
 The study population characteristics were: median age of 54 years (range: 19 to 88), 25% age 65 or older; 62% male; and 94% ECOG PS of 0 and 6% ECOG PS of 1.
 Sixteen percent had Stage IIIA, 46% had Stage IIIB, 18% had Stage IIIC (1-3 positive lymph nodes), and 20% had Stage IIIC (≥4 positive lymph nodes); 50% were BRAF V600 mutation positive and 44% were BRAF wild-type; and 84% had PD-L1 positive melanoma with TPS ≥1% according to an IUO assay.
 
-The trial demonstrated a statistically significant improvement in RFS for patients randomized to the KEYTRUDA arm compared with placebo.
+The trial demonstrated a statistically significant improvement in RFS and DMFS for patients randomized to the KEYTRUDA arm compared with placebo.
 Efficacy results are summarized in Table 52 and Figure 4.
 
 Table 52: Efficacy Results in KEYNOTE-054
 
-| Endpoint | KEYTRUDA n=514 | Placebo n=505 |
+| Endpoint | KEYTRUDA 200 mg every 3 weeks n=514 | Placebo n=505 |
 | --- | --- | --- |
 | RFS |  |  |
 | Number (%) of patients with event | 135 (26%) | 216 (43%) |
 | Median in months (95% CI) | NR | 20.4 (16.2, NR) |
-| Hazard ratioBased on the stratified Cox proportional hazard modelStratified by American Joint Committee on Cancer 7th edition (AJCC) stage (95% CI) | 0.57 (0.46, 0.70) |  |
+| Hazard ratioBased on the stratified Cox proportional hazard model,Stratified by American Joint Committee on Cancer 7th edition (AJCC) stage (95% CI) | 0.57 (0.46, 0.70) |  |
 | p-Value (log-rank) | <0.001p-Value is compared with 0.016 of the allocated alpha for this interim analysis. |  |
+| DMFS |  |  |
+| Number (%) of patients with event | 173 (34%) | 245 (49%) |
+| Median in months (95% CI) | NR (NR, NR) | 40.0 (27.7, NR) |
+| Hazard ratio, (95% CI) | 0.60 (0.49, 0.73) |  |
+| p-Value (log-rank) | <0.0001p-Value is compared with 0.014 of the allocated alpha for this interim analysis. |  |
 | NR = not reached |  |  |
 
-For patients with PD-L1 positive tumors, the HR was 0.54 (95% CI: 0.42, 0.69); p<0.001.
-The RFS benefit for KEYTRUDA compared to placebo was observed regardless of tumor PD-L1 expression.
+For patients with PD-L1 positive tumors, the RFS HR was 0.54 (95% CI: 0.42, 0.69); p<0.0001.
+For patients with PD-L1 positive tumors, the DMFS HR was 0.61 (95% CI: 0.49, 0.76); p<0.0001.
+The RFS and DMFS benefit for KEYTRUDA compared to placebo was observed regardless of tumor PD-L1 expression.
 
 ## 14.2 Non-Small Cell Lung Cancer
 

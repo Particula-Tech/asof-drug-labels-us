@@ -45,7 +45,7 @@ Advise females of reproductive potential to use effective contraception during t
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of KEYTRUDA as a single agent have been established in pediatric patients with melanoma, cHL, PMBCL, MCC, MSI-H or dMMR cancer, and TMB-H cancer.
-Use of KEYTRUDA in pediatric patients for these indications is supported by evidence from adequate and well-controlled studies in adults with additional pharmacokinetic and safety data in pediatric patients [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.4, 14.5, 14.7, 14.13, 14.16)].
+Use of KEYTRUDA in pediatric patients for these indications is supported by evidence from adequate and well-controlled studies in adults with additional pharmacokinetic and safety data in pediatric patients [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.1, 14.4, 14.5, 14.7, 14.13, 14.16)].
 
 In KEYNOTE-051, 173 pediatric patients (65 pediatric patients aged 6 months to younger than 12 years and 108 pediatric patients aged 12 to 17 years) with advanced melanoma, lymphoma, or PD-L1 positive solid tumors received KEYTRUDA 2 mg/kg every 3 weeks.
 The median duration of exposure was 2.1 months (range: 1 day to 25 months).
