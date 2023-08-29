@@ -30,9 +30,9 @@ Adjunctive Therapy Controlled Trials (Studies 2, 3, and 4)
 In adjunctive therapy controlled clinical trials for partial-onset seizures, the rate of discontinuation as a result of an adverse reaction was 8% and 17% in patients randomized to receive lacosamide at the recommended doses of 200 and 400 mg/day, respectively, 29% at 600 mg/day (1.5 times greater than the maximum recommended dose), and 5% in patients randomized to receive placebo.
 The adverse reactions most commonly (>1% on lacosamide and greater than placebo) leading to discontinuation were dizziness, ataxia, vomiting, diplopia, nausea, vertigo, and blurred vision.
 
-Table 3 gives the incidence of adverse reactions that occurred in ≥2% of adult patients with partial-onset seizures in the lacosamide total group and for which the incidence was greater than placebo.
+Table 4 gives the incidence of adverse reactions that occurred in ≥2% of adult patients with partial-onset seizures in the lacosamide total group and for which the incidence was greater than placebo.
 
-Table 3: Adverse Reactions Incidence in Adjunctive Therapy Pooled, Placebo-Controlled Trials in Adult Patients with Partial-Onset Seizures (Studies 2, 3, and 4)
+Table 4: Adverse Reactions Incidence in Adjunctive Therapy Pooled, Placebo-Controlled Trials in Adult Patients with Partial-Onset Seizures (Studies 2, 3, and 4)
 
 | Adverse Reaction | Placebo N=364 % | Lacosamide 200 mg/day N=270 % | Lacosamide 400 mg/day N=471 % | Lacosamide 600 mg/day* N=203 % | Lacosamide Total N=944 % |
 | --- | --- | --- | --- | --- | --- |
@@ -109,6 +109,8 @@ Musculoskeletal and connective tissue disorders: muscle spasms
 Nervous system disorders: paresthesia, cognitive disorder, hypoaesthesia, dysarthria, disturbance in attention, cerebellar syndrome
 
 Psychiatric disorders: confusional state, mood altered, depressed mood
+
+In a retrospective cohort study of electronic healthcare records of 686 pediatric patients who started lacosamide with intravenous dosing, the incidence of rash within 30 days of discontinuation of intravenous lacosamide was two-fold higher in the cohort of patients who were initiated with the alternate initial dosing regimen to achieve the maintenance dosage in a shorter timeframe [see Dosage and Administration (2.2)] compared to the cohort of patients who were initiated with a lower initial dosage regimen [see Dosage and Administration (2.1)].
 
 Additional pediatric use information is approved for UCB, Inc.’s VIMPAT® (lacosamide) tablets.
 However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

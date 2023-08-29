@@ -32,12 +32,12 @@ In these 3 trials, patients had a mean duration of epilepsy of 24 years and a me
 Study 2 compared doses of lacosamide 200, 400, and 600 mg/day with placebo.
 Study 3 compared doses of lacosamide 400 and 600 mg/day with placebo.
 Study 4 compared doses of lacosamide 200 and 400 mg/day with placebo.
-In all three trials, following an 8-week baseline phase to establish baseline seizure frequency prior to randomization, patients were randomized and titrated to the randomized dose (a 1-step back-titration of lacosamide 100 mg/day or placebo was allowed in the case of intolerable adverse events at the end of the titration phase).
-During the titration phase, in all 3 adjunctive therapy trials, treatment was initiated at 100 mg/day (50 mg twice daily), and increased in weekly increments of 100 mg/day to the target dose.
+In all three trials, following an 8-week baseline phase to establish baseline seizure frequency prior to randomization, patients were randomized and titrated to the randomized dose (a 1-step back-titration of lacosamide 100 mg/day or placebo was allowed in the case of intolerable adverse reactions at the end of the titration phase).
+During the titration phase, in all 3 adjunctive therapy trials, treatment was initiated at 100 mg/day (50 mg twice daily) and increased in weekly increments of 100 mg/day to the target dose.
 The titration phase lasted 6 weeks in Study 2 and Study 3, and 4 weeks in Study 4.
 In all three trials, the titration phase was followed by a maintenance phase that lasted 12 weeks, during which patients were to remain on a stable dose of lacosamide.
 
-A reduction in 28 day seizure frequency (baseline to maintenance phase), as compared to the placebo group, was the primary variable in all three adjunctive therapy trials.
+A reduction in 28-day seizure frequency (baseline to maintenance phase), as compared to the placebo group, was the primary variable in all three adjunctive therapy trials.
 A statistically significant effect was observed with lacosamide treatment (Figure 1) at doses of 200 mg/day (Study 4), 400 mg/day (Studies 2, 3, and 4), and 600 mg/day (Studies 2 and 3).
 
 Subset evaluations of lacosamide demonstrate no important differences in seizure control as a function of gender or race, although data on race was limited (about 10% of patients were non-Caucasian).
