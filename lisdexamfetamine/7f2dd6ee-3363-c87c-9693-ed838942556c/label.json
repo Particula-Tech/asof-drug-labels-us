@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA214547"
+  ],
+  "inn": "lisdexamfetamine",
+  "labeler": "Alvogen Inc.",
+  "package_ndcs": [
+    "47781-562-01",
+    "47781-563-01",
+    "47781-564-01",
+    "47781-565-01",
+    "47781-566-01",
+    "47781-567-01",
+    "47781-568-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "lisdexamfetamine dimesylate",
+      "name": "lisdexamfetamine dimesylate"
+    }
+  ],
+  "setid": "7f2dd6ee-3363-c87c-9693-ed838942556c",
+  "source": "dailymed"
+}
