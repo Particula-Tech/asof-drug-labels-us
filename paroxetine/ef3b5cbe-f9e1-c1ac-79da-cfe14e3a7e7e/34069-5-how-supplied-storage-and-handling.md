@@ -13,8 +13,9 @@ Store tablets between 15° and 30°C (59° and 86°F).
 
 PAXIL (paroxetine) oral suspension is supplied as:
 
-| Strength | Color/Flavor | Package Configuration | NDC Number |
+| Strength | Colr/Flavor | Package Configuration | NDC Number |
 | --- | --- | --- | --- |
 | 10 mg/5 mL | Orange/orange | Bottles containing 250 mL | NDC 60505-0402-5 |
 
-Store suspension at or below 25°C (77°F)
+Store suspension at or below 25°C (77°F).
+The oral suspension is not currently marketed.

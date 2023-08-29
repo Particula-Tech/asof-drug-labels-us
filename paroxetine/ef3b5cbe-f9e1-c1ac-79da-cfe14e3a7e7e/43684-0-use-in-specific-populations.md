@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.4)]
+Risk Summary
+
+Based on data from published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions (5.5) and Clinical Considerations].
 
 Epidemiological studies have shown that infants exposed to paroxetine in the first trimester of pregnancy have an increased risk of congenital malformations, particularly cardiovascular malformations.
 If paroxetine is used during pregnancy, or if the patient becomes pregnant while taking paroxetine, advise the patient of the potential hazard to the fetus.
@@ -46,6 +48,10 @@ There have also been postmarketing reports of premature births in pregnant women
 When treating a pregnant woman with paroxetine during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment.
 A prospective longitudinal study of 201 women with a history of major depression who were euthymic at the beginning of pregnancy.
 The women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
+
+Maternal Adverse Reactions
+
+Use of PAXIL in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.5)].
 
 Animal Findings
 

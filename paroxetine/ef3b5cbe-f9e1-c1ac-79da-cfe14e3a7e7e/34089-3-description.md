@@ -19,4 +19,6 @@ PAXIL Oral Suspension
 PAXIL oral suspension is for oral administration.
 Each 5 mL contains 10 mg of paroxetine equivalent to 11.1 mg of paroxetine hydrochloride.
 
+The oral suspension is not currently marketed.
+
 Inactive ingredients consist of citric acid (anhydrous), FD&C yellow No. 6, flavorings, glycerin, methylparaben, microcrystalline cellulose and carboxymethylcellulose sodium, polacrilin potassium, propylene glycol, propylparaben, purified water, saccharin sodium, simethicone emulsion and sodium citrate (dihydrate).

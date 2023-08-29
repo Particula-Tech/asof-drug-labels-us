@@ -9,4 +9,4 @@ PAXIL tablets are available as:
 
 PAXIL oral suspension is available as:
 
-- 10 mg/5 mL orange colored, orange flavored suspension in bottles containing 250 mL.
+- 10 mg/5 mL orange colored, orange flavored suspension in bottles containing 250 mL (not currently marketed).

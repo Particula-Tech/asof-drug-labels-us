@@ -6,14 +6,14 @@ PAXIL® (PAX-il)
 
 Tablets
 
-oral suspension
+Oral Suspension
 
 What is the most important information I should know about PAXIL?
 
 PAXIL can cause serious side effects, including:
 
 - Increased risk of suicidal thoughts or actions.
-  PAXIL and other antidepressant medicines may increase suicidalthoughts and actions in some people 24 years of age and younger, especially within the first few months of treatment or when the dose is changed.
+  PAXIL and other antidepressant medicines may increase suicidal thoughts and actions in some people 24 years of age and younger, especially within the first few months of treatment or when the dose is changed.
   PAXIL is not for use in children.
 
 - 
@@ -23,13 +23,13 @@ PAXIL can cause serious side effects, including:
 How can I watch for and try to prevent suicidal thoughts and actions?
 
 - 
-  - Pay close attention to any changes, especially sudden changes in mood, behavior, thoughts or feelings or if youdevelop suicidal thoughts or actions.
-    This is very important when an antidepressant medicine is started or when thedoes is changed.
-  - Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts or feelings or ifyou develop suicidal thoughts or actions.
+  - Pay close attention to any changes, especially sudden changes in mood, behavior, thoughts or feelings or if you develop suicidal thoughts or actions.
+    This is very important when an antidepressant medicine is started or when the does is changed.
+  - Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts or feelings or if you develop suicidal thoughts or actions.
   - Keep all follow-up visits with your healthcare provider as scheduled.
-    Call your healthcare provider between visits asneeded, especially if you have concerns about symptoms.
+    Call your healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
-Call your healthcare provider or get emergency medical help right away if you have any of the followingsymptoms, especially if they are new, worse, or worry you:
+Call your healthcare provider or get emergency medical help right away if you have any of the following symptoms, especially if they are new, worse, or worry you:
 
 - 
   - attempts to commit suicide
@@ -88,13 +88,15 @@ Before taking PAXIL, tell your healthcare provider about all your medical condit
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
+PAXIL and some other medicines may affect each other causing possible serious side effects.
+PAXIL may affect the way other medicines work and other medicines may affect the way PAXIL works.
+
 Especially tell your healthcare provider if you take:
 
 - medicines used to treat migraine headaches called triptans
 - tricyclic antidepressants
-- fentanyl
 - lithium
-- tramadol
+- tramadol, fentanyl, meperidine, methadone, or other opioids
 - tryptophan
 - buspirone
 - amphetamines
@@ -120,7 +122,7 @@ How should I take PAXIL?
   Your healthcare provider may need to change the dose of PAXIL until it is the right dose for you.
 - Take PAXIL 1 time each day in the morning.
 - PAXIL may be taken with or without food.
-- If you are taking PAXIL oral suspension, shake suspension well before taking.
+- If you are taking PAXIL oral suspension, shake the suspension well before taking.
 - If you take too much PAXIL, call your poison control center at 1-800-222-1222 or go to the nearest hospital emergency room right away.
 
 What are possible side effects of PAXIL?
@@ -135,6 +137,7 @@ PAXIL can cause serious side effects, including:
   - agitation
   - seeing or hearing things that are not real (hallucinations)
   - confusion
+  - coma
   - fast heart beat
   - changes in blood pressure
   - dizziness
@@ -282,4 +285,4 @@ For more information about PAXIL call 1-800-706-5575.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 9/2021
+Revised: 8/2023

@@ -31,7 +31,7 @@ The safety data for PAXIL are from:
 Adverse Reactions Leading to Discontinuation
 
 Twenty percent (1,199/6,145) of patients treated with PAXIL in clinical trials in MDD and 16.1% (84/522), 11.8% (64/542), 9.4% (44/469), 10.7% (79/735), and 11.7% (79/676) of patients treated with PAXIL in clinical trials in SAD, OCD, PD, GAD, and PTSD, respectively, discontinued treatment due to an adverse reaction.
-The most common adverse reactions (³1%) associated with discontinuation (i.e., those adverse reactions associated with dropout at a rate approximately twice or greater for PAXIL compared to placebo) are presented in Table 3:
+The most common adverse reactions (≥1%) associated with discontinuation (i.e., those adverse reactions associated with dropout at a rate approximately twice or greater for PAXIL compared to placebo) are presented in Table 3:
 
 Table 3: Adverse Reactions Reported as Leading to Discontinuation (≥1% of PAXIL-Treated Patients and Greater than Placebo) in MDD, OCD, PD, SAD, GAD, and PTSD Trials
 
@@ -42,12 +42,12 @@ Table 3: Adverse Reactions Reported as Leading to Discontinuation (≥1% of PAXI
 | Somnolence | 2.3 | 0.7 | --- |  | 1.9 | 0.3 | 3.4 | 0.3 | 2.0 | 0.2 | 2.8 | 0.6 |
 | Insomnia | --- | --- | 1.7 | 0 | 1.3 | 0.3 | 3.1 | 0 |  |  | --- | --- |
 | Agitation | 1.1 | 0.5 | --- |  |  |  |  |  |  |  | --- | --- |
-| Tremor | 1.1 | 0.9 | --- |  |  |  | 1.7 | 0 |  |  | 1.0 | 0.2 |
+| Tremor | 1.1 | 0.3 | --- |  |  |  | 1.7 | 0 |  |  | 1.0 | 0.2 |
 | Anxiety | --- | --- | --- |  |  |  | 1.1 | 0 |  |  | --- | --- |
 | Dizziness | --- | --- | 1.5 | 0 |  |  | 1.9 | 0 | 1.0 | 0.2 | --- | --- |
 | Gastrointestinal |  |  |  |  |  |  |  |  |  |  |  |  |
 | Constipation | --- |  | 1.1 | 0 |  |  |  |  |  |  | --- | --- |
-| Nausea | 3.2 | 1.1 | 1.9 | 0 | 3.2 | 1.2 | 4.0 | 0.3 |  |  | 2.2 | 0.6 |
+| Nausea | 3.2 | 1.1 | 1.9 | 0 | 3.2 | 1.2 | 4.0 | 0.3 | 2.0 | 0.2 | 2.2 | 0.6 |
 | Diarrhea | 1.0 | 0.3 | --- |  |  |  |  |  |  |  |  |  |
 | Dry mouth | 1.0 | 0.3 | --- |  |  |  |  |  |  |  | --- | --- |
 | Vomiting | 1.0 | 0.3 | --- |  |  |  | 1.0 | 0 |  |  | --- | --- |
@@ -398,5 +398,5 @@ Infrequent: Amenorrhea, breast pain, cystitis, dysuria, hematuria, menorrhagia, 
 The following reactions have been identified during post approval use of PAXIL.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Acute pancreatitis, elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction), Guillain‑Barré syndrome, Stevens-Johnson syndrome, toxic epidermal necrolysis, syndrome of inappropriate ADH secretion, prolactinemia and galactorrhea; extrapyramidal symptoms which have included akathisia, bradykinesia, cogwheel rigidity, oculogyric crisis which has been associated with concomitant use of pimozide; status epilepticus, acute renal failure, pulmonary hypertension, allergic alveolitis, anaphylaxis, eclampsia, laryngismus, optic neuritis, porphyria, restless legs syndrome (RLS), ventricular fibrillation, ventricular tachycardia (including torsade de pointes), hemolytic anemia, events related to impaired hematopoiesis (including aplastic anemia, pancytopenia, bone marrow aplasia, and agranulocytosis), vasculitic syndromes (such as Henoch-Schönlein purpura), and premature births in pregnant women.
+Acute pancreatitis, elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction), Guillain‑Barré syndrome, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), syndrome of inappropriate ADH secretion, prolactinemia and galactorrhea; extrapyramidal symptoms which have included akathisia, bradykinesia, cogwheel rigidity, oculogyric crisis which has been associated with concomitant use of pimozide; status epilepticus, acute renal failure, pulmonary hypertension, allergic alveolitis, anosmia, hyposmia, anaphylaxis, eclampsia, laryngismus, optic neuritis, porphyria, restless legs syndrome (RLS), ventricular fibrillation, ventricular tachycardia (including torsade de pointes), hemolytic anemia, events related to impaired hematopoiesis (including aplastic anemia, pancytopenia, bone marrow aplasia, and agranulocytosis), vasculitic syndromes (such as Henoch-Schönlein purpura), and premature births in pregnant women.
 There has been a case report of severe hypotension when PAXIL was added to chronic metoprolol treatment.
