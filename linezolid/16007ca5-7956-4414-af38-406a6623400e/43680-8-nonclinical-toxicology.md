@@ -5,7 +5,7 @@
 Lifetime studies in animals have not been conducted to evaluate the carcinogenic potential of linezolid.
 Neither mutagenic nor clastogenic potential was found in a battery of tests including: assays for mutagenicity (Ames bacterial reversion and CHO cell mutation), an in vitro unscheduled DNA synthesis (UDS) assay, an in vitro chromosome aberration assay in human lymphocytes, and an in vivo mouse micronucleus assay.
 
-Linezolid did not affect the fertility or reproductive performance of adult female rats.
+Linezolid did not affect the fertility or reproductive performance of adult female rats given oral doses of up to 100 mg/kg/day for 14 days prior to mating through Gestation Day 7.
 It reversibly decreased fertility and reproductive performance in adult male rats when given at doses ≥ 50 mg/kg/day, with exposures approximately equal to or greater than the expected human exposure level (exposure comparisons are based on AUCs).
 The reversible fertility effects were mediated through altered spermatogenesis.
 Affected spermatids contained abnormally formed and oriented mitochondria and were non-viable.

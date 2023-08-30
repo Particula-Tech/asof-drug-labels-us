@@ -63,12 +63,10 @@ Infertility
 
 Advise male patients that linezolid may reversibly impair fertility [see Use in Specific Populations (8.3)].
 
-Distributed by: Hikma
-
-Pharmaceuticals USA Inc.
+Distributed by: Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50000712/02
+C50000712/03
 
-Revised October 2021
+Revised July 2023

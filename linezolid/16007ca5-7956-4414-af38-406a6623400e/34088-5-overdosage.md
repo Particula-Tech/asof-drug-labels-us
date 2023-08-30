@@ -4,4 +4,4 @@ In the event of overdosage, supportive care is advised, with maintenance of glom
 Hemodialysis may facilitate more rapid elimination of linezolid.
 In a Phase 1 clinical trial, approximately 30% of a dose of linezolid was removed during a 3-hour hemodialysis session beginning 3 hours after the dose of linezolid was administered.
 Data are not available for removal of linezolid with peritoneal dialysis or hemoperfusion.
-Clinical signs of acute toxicity in animals were decreased activity and ataxia in rats and vomiting and tremors in dogs treated with 3000 mg/kg/day and 2000 mg/kg/day, respectively.
+Clinical signs of acute toxicity in animals were decreased activity and ataxia in rats and vomiting and tremors in dogs treated with 3,000 mg/kg/day and 2,000 mg/kg/day, respectively.

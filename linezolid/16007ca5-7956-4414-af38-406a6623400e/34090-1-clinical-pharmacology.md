@@ -6,8 +6,8 @@ Linezolid is an antibacterial drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
-In a randomized, positive- and placebo-controlled crossover thorough QT study, 40 healthy subjects were administered a single linezolid 600 mg dose via a 1 hour IV infusion, a single linezolid 1200 mg dose via a 1 hour IV infusion, placebo, and a single oral dose of positive control.
-At both the 600 mg and 1200 mg linezolid doses, no significant effect on QTc interval was detected at peak plasma concentration or at any other time.
+In a randomized, positive- and placebo-controlled crossover thorough QT study, 40 healthy subjects were administered a single linezolid 600 mg dose via a 1 hour IV infusion, a single linezolid 1,200 mg dose via a 1 hour IV infusion, placebo, and a single oral dose of positive control.
+At both the 600 mg and 1,200 mg linezolid doses, no significant effect on QTc interval was detected at peak plasma concentration or at any other time.
 
 ## 12.3 Pharmacokinetics
 
@@ -17,7 +17,7 @@ Plasma concentrations of linezolid at steady-state after oral doses of 600 mg gi
 Table 8.
 Mean (Standard Deviation) Pharmacokinetic Parameters of Linezolid in Adults
 
-| Dose of Linezolid | Cmaxmcg/mL | Cminmcg/mL | Tmaxhrs | AUCAUC for single dose = AUC0-∞; for multiple-dose = AUC0-τmcg • h/mL | t1/2hrs | CL mL/min |
+| Dose of Linezolid | Cmaxmcg/mL | Cminmcg/mL | Tmaxhrs | AUCAUC for single dose = AUC0-∞; for multiple-dose = AUC0-τmcg•h/mL | t1/2hrs | CL mL/min |
 | --- | --- | --- | --- | --- | --- | --- |
 | 400 mg tablet |  |  |  |  |  |  |
 | single doseData dose-normalized from 375 mg | 8.1 | --- | 1.52 | 55.1 | 5.2 | 146 |
@@ -87,7 +87,7 @@ Pediatric patients 12 years and older should receive 600 mg every 12 hours [see 
 Table 9.
 Pharmacokinetic Parameters of Linezolid in Pediatrics and Adults Following a Single Intravenous Infusion of 10 mg/kg or 600 mg Linezolid (Mean: (%CV); [Min, Max Values])
 
-| Age Group | Cmaxmcg/mL | Vss L/kg | AUCAUC = Single dose AUC0-∞ ** In this data set, “pre-term” is defined as <34 weeks gestational age (Note: Only 1 patient enrolled was pre-term with a postnatal age between 1 week and 28 days) ***In this data set, “full-term” is defined as ≥34 weeks gestational age mcg ● h/mL | t1/2hrs | CL mL/min/kg |
+| Age Group | Cmaxmcg/mL | Vss L/kg | AUCAUC = Single dose AUC0-∞ ** In this data set, “pre-term” is defined as <34 weeks gestational age (Note: Only 1 patient enrolled was pre-term with a postnatal age between 1 week and 28 days) ***In this data set, “full-term” is defined as ≥34 weeks gestational age mcg•h/mL | t1/2hrs | CL mL/min/kg |
 | --- | --- | --- | --- | --- | --- |
 | Neonatal PatientsPre-term ˂ 1 week (N=9)Dose of 10 mg/kg | 12.7 (30%) [9.6, 22.2] | 0.81 (24%) [0.43, 1.05] | 108 (47%) [41, 191] | 5.6 (46%) [2.4, 9.8] | 2.0 (52%) [0.9, 4.0] |
 | Full-term*** < 1 week (N=10) | 11.5 (24%) [8, 18.3] | 0.78 (20%) [0.45, 0.96] | 55 (47%) [19, 103] | 3 (55%) [1.3, 6.1] | 3.8 (55%) [1.5, 8.8] |
@@ -95,7 +95,7 @@ Pharmacokinetic Parameters of Linezolid in Pediatrics and Adults Following a Sin
 | Infant Patients > 28 days to < 3 Months (N=12) | 11 (27%) [7.2, 18] | 0.79 (26%) [0.42, 1.08] | 33 (26%) [17, 48] | 1.8 (28%) [1.2, 2.8] | 5.4 (32%) [3.5, 9.9] |
 | Pediatric Patients 3 months through 11 years (N=59) | 15.1 (30%) [6.8, 36.7] | 0.69 (28%) [0.31, 1.5] | 58 (54%) [19, 153] | 2.9 (53%) [0.9, 8] | 3.8 (53%) [1, 8.5] |
 | Adolescent Subjects and Patients 12 through 17 yearsDose of 600 mg or 10 mg/kg up to a maximum of 600 mg(N=36) | 16.7 (24%) [9.9, 28.9] | 0.61 (15%) [0.44, 0.79] | 95 (44%) [32, 178] | 4.1 (46%) [1.3, 8.1] | 2.1 (53%) [0.9, 5.2] |
-| Adult SubjectsDose normalized to 600 Cmax =Maximum plasma concentration; Vss= Volume of distribution; AUC = Area under concentration-time curve; t1/2 =Apparent elimination half-life; CL = Systemic clearance normalized for body weight (N= 29) | 12.5 (21%) [8.2, 19.3] | 0.65 (16%) [0.45, 0.84] | 91 (33%) [53, 155] | 4.9 (35%) [1.8, 8.3] | 1.7 (34%) [0.9, 3.3] |
+| Adult SubjectsDose normalized to 600 Cmax =Maximum plasma concentration; Vss = Volume of distribution; AUC = Area under concentration-time curve; t1/2 =Apparent elimination half-life; CL = Systemic clearance normalized for body weight (N= 29) | 12.5 (21%) [8.2, 19.3] | 0.65 (16%) [0.45, 0.84] | 91 (33%) [53, 155] | 4.9 (35%) [1.8, 8.3] | 1.7 (34%) [0.9, 3.3] |
 
 Gender: Females have a slightly lower volume of distribution of linezolid than males.
 Plasma concentrations are higher in females than in males, which is partly due to body weight differences.
@@ -158,7 +158,7 @@ Gentamicin: The pharmacokinetics of linezolid or gentamicin are not altered when
 
 Antioxidants: The potential for drug-drug interactions with linezolid and the antioxidants Vitamin C and Vitamin E was studied in healthy volunteers.
 Subjects were administered a 600 mg oral dose of linezolid on Day 1, and another 600 mg dose of linezolid on Day 8.
-On Days 2-9, subjects were given either Vitamin C (1000 mg/day) or Vitamin E (800 IU/ day).
+On Days 2-9, subjects were given either Vitamin C (1,000 mg/day) or Vitamin E (800 IU/ day).
 The AUC0-∞ of linezolid increased 2.3% when co-administered with Vitamin C and 10.9% when co‑administered with Vitamin E. No linezolid dose adjustment is recommended during co-administration with Vitamin C or Vitamin E.
 
 Strong CYP 3A4 Inducers: Rifampin: The effect of rifampin on the pharmacokinetics of linezolid was evaluated in a study of 16 healthy adult males.
@@ -227,7 +227,7 @@ Gram-positive bacteria
 5. Streptococcus pyogenes
 
 The following in vitro data are available, but their clinical significance is unknown.
-Greater than 90% of the following bacteria exhibit an in vitro MIC less than or equal to the linezolid-susceptible breakpoint for organisms of similar genus shown in Table 12.
+Greater than 90% of the following bacteria exhibit an in vitro MIC less than or equal to the linezolid-susceptible breakpoint for organisms of similar genus.
 The safety and effectiveness of linezolid in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
 Gram-positive bacteria
