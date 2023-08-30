@@ -26,8 +26,8 @@ The recommended starting sertraline hydrochloride dosage in adult women with PMD
 Sertraline hydrochloride may be administered either continuously (every day throughout the menstrual cycle) or intermittently (only during the luteal phase of the menstrual cycle, i.e., starting the daily dosage 14 days prior to the anticipated onset of menstruation and continuing through the onset of menses).
 Intermittent dosing would be repeated with each new cycle.
 
-- When dosing continuously, patients not responding to a 50 mg dosage may benefit from dosage increases at 50 mg increments per menstrual cycle up to 150 mg per day.
-- When dosing intermittently, patients not responding to a 50 mg dosage may benefit from increasing the dosage up to a maximum of 100 mg per day during the next menstrual cycle (and subsequent cycles) as follows: 50 mg per day during the first 3 days of dosing followed by 100 mg per day during the remaining days in the dosing cycle.
+- •When dosing continuously, patients not responding to a 50 mg dosage may benefit from dosage increases at 50 mg increments per menstrual cycle up to 150 mg per day.
+- •When dosing intermittently, patients not responding to a 50 mg dosage may benefit from increasing the dosage up to a maximum of 100 mg per day during the next menstrual cycle (and subsequent cycles) as follows: 50 mg per day during the first 3 days of dosing followed by 100 mg per day during the remaining days in the dosing cycle.
 
 ## 2.3 Screen for Bipolar Disorder Prior to Starting Sertraline Hydrochloride
 
@@ -52,9 +52,9 @@ Gradually reduce the dosage rather than stopping sertraline hydrochloride abrupt
 
 Sertraline hydrochloride oral solution must be diluted before use.
 
-- Use the supplied calibrated dropper to measure the amount of sertraline hydrochloride oral solution needed
-- Note: The supplied calibrated dropper has 25 mg and 50 mg graduation marks only
-- Mix with 4 ounces (1/2 cup) of water, ginger ale, lemon/lime soda, lemonade or orange juice ONLY.
+- •Use the supplied calibrated dropper to measure the amount of sertraline hydrochloride oral solution needed
+- •Note: The supplied calibrated dropper has 25 mg and 50 mg graduation marks only
+- •Mix with 4 ounces (1/2 cup) of water, ginger ale, lemon/lime soda, lemonade or orange juice ONLY.
   After mixing, a slight haze may appear, which is normal.
 
 Instruct patients or caregivers to immediately take the dose after mixing.

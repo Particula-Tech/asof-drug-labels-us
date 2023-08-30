@@ -10,13 +10,13 @@ Important Administration Instructions for Oral Solution
 
 For patients prescribed sertraline hydrochloride oral solution, inform them that:
 
-- Sertraline hydrochloride oral solution must be diluted before use.
+- •Sertraline hydrochloride oral solution must be diluted before use.
   Do not mix in advance.
-- Use the dropper provided to remove the required amount of sertraline hydrochloride oral solution and mix with 4 ounces (1/2 cup) of water, ginger ale, lemon/lime soda, lemonade or orange juice ONLY.
+- •Use the dropper provided to remove the required amount of sertraline hydrochloride oral solution and mix with 4 ounces (1/2 cup) of water, ginger ale, lemon/lime soda, lemonade or orange juice ONLY.
   Do not mix sertraline hydrochloride oral solution with anything other than the liquids listed.
-- Take the dose immediately after mixing.
+- •Take the dose immediately after mixing.
   At times, a slight haze may appear after mixing; this is normal.
-- The dropper dispenser contains dry natural rubber, a consideration for patients with latex sensitivity.
+- •The dropper dispenser contains dry natural rubber, a consideration for patients with latex sensitivity.
 
 Disulfiram Contraindication for sertraline hydrochloride Oral Solution
 

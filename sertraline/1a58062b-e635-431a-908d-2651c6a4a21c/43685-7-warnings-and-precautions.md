@@ -61,8 +61,8 @@ Prior to initiating treatment with sertraline hydrochloride, screen patients for
 
 ## 5.5 Discontinuation Syndrome
 
-Adverse reactions after discontinuation of serotonergic antidepressants, particularly after abrupt discontinuation, include: nausea, sweating, dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), tremor, anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
-A gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [See Dosage and Administration (2.6)].
+1. Adverse reactions after discontinuation of serotonergic antidepressants, particularly after abrupt discontinuation, include: nausea, sweating, dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), tremor, anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
+   A gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [See Dosage and Administration (2.6)].
 
 ## 5.6 Seizures
 
@@ -95,10 +95,10 @@ Confirmatory tests, such as gas chromatography/mass spectrometry, will help dist
 
 ## 5.10 QTc Prolongation
 
-During post-marketing use of sertraline, cases of QTc prolongation and Torsade de Pointes (TdP) have been reported.
-Most reports were confounded by other risk factors.
-In a randomized, double-blind, placebo- and positive-controlled three-period crossover thorough QTc study in 54 healthy adult subjects, there was a positive relationship between the length of the rate-adjusted QTc interval and serum sertraline concentration.
-Therefore, sertraline hydrochloride should be used with caution in patients with risk factors for QTc prolongation [See Drug Interactions (7.1), Clinical Pharmacology (12.2)].
+1. During post-marketing use of sertraline, cases of QTc prolongation and Torsade de Pointes (TdP) have been reported.
+   Most reports were confounded by other risk factors.
+   In a randomized, double-blind, placebo- and positive-controlled three-period crossover thorough QTc study in 54 healthy adult subjects, there was a positive relationship between the length of the rate-adjusted QTc interval and serum sertraline concentration.
+   Therefore, sertraline hydrochloride should be used with caution in patients with risk factors for QTc prolongation [See Drug Interactions (7.1), Clinical Pharmacology (12.2)].
 
 ## 5.11 Sexual Dysfunction
 

@@ -2,20 +2,20 @@
 
 Efficacy of sertraline hydrochloride was established in the following trials:
 
-- MDD: two short-term trials and one maintenance trials in adults [See Clinical Studies (14.1)].
-- OCD: three short-term trials in adults and one short-term trial in pediatric patients [See Clinical Studies (14.2)].
-- PD: three short-term trials and one maintenance trial in adults [See Clinical Studies (14.3)].
-- PTSD: two short-term trials and one maintenance trial in adults [See Clinical Studies (14.4)].
-- SAD: two short-term trials and one maintenance trial in adults [See Clinical Studies (14.5)].
-- PMDD: two short-term trials in adult female patients [See Clinical Studies (14.6)].
+- •MDD: two short-term trials and one maintenance trials in adults [See Clinical Studies (14.1)].
+- •OCD: three short-term trials in adults and one short-term trial in pediatric patients [See Clinical Studies (14.2)].
+- •PD: three short-term trials and one maintenance trial in adults [See Clinical Studies (14.3)].
+- •PTSD: two short-term trials and one maintenance trial in adults [See Clinical Studies (14.4)].
+- •SAD: two short-term trials and one maintenance trial in adults [See Clinical Studies (14.5)].
+- •PMDD: two short-term trials in adult female patients [See Clinical Studies (14.6)].
 
 ## 14.1 Major Depressive Disorder
 
 The efficacy of sertraline hydrochloride as a treatment for MDD was established in two randomized, double-blind, placebo-controlled studies and one double-blind, randomized-withdrawal study following an open label study in adult (ages 18 to 65) outpatients who met the Diagnostic and Statistical Manual of Mental Disorders (DSM-III) criteria for MDD (studies MDD-1 and MDD-2).
 
-- Study MDD-1 was an 8-week, 3-arm study with flexible dosing of sertraline hydrochloride, amitriptyline, and placebo.
+- •Study MDD-1 was an 8-week, 3-arm study with flexible dosing of sertraline hydrochloride, amitriptyline, and placebo.
   Adult patients received sertraline hydrochloride (N=126, in a daily dose titrated weekly to 50 mg, 100 mg, or 200 mg), amitriptyline (N=123, in a daily dose titrated weekly to 50 mg, 100 mg, or 150 mg), or placebo (N= 130).
-- Study MDD-2 was a 6-week, multicenter parallel study of three fixed doses of sertraline hydrochloride administered once daily at 50 mg (N=82), 100 mg (N=75), and 200 mg (N=56) doses and placebo (N=76) in the treatment of adult outpatients with MDD.
+- •Study MDD-2 was a 6-week, multicenter parallel study of three fixed doses of sertraline hydrochloride administered once daily at 50 mg (N=82), 100 mg (N=75), and 200 mg (N=56) doses and placebo (N=76) in the treatment of adult outpatients with MDD.
 
 Overall, these studies demonstrated sertraline hydrochloride to be superior to placebo on the Hamilton Rating Scale for Depression (HAMD-17) and the Clinical Global Impression Severity (CGI-S) of Illness and Global Improvement (CGI-I) scores.
 Study MDD-2 was not readily interpretable regarding a dose response relationship for effectiveness.
@@ -34,14 +34,14 @@ Adults with OCD
 The effectiveness of sertraline hydrochloride in the treatment of OCD was demonstrated in three multicenter placebo-controlled studies of adult (age 18–65) non-depressed outpatients (Studies OCD-1, OCD-2, and OCD-3).
 Patients in all three studies had moderate to severe OCD (DSM-III or DSM-III-R) with mean baseline ratings on the Yale-Brown Obsessive-Compulsive Scale (Y-BOCS) total score ranging from 23 to 25.
 
-- Study OCD-1 was an 8-week randomized, placebo-controlled study with flexible dosing of sertraline hydrochloride in a range of 50 to 200 mg/day, titrated in 50 mg increments every 4 days to a maximally tolerated dose; the mean dose for completers was 186 mg/day.
+- •Study OCD-1 was an 8-week randomized, placebo-controlled study with flexible dosing of sertraline hydrochloride in a range of 50 to 200 mg/day, titrated in 50 mg increments every 4 days to a maximally tolerated dose; the mean dose for completers was 186 mg/day.
   Patients receiving sertraline hydrochloride (N=43) experienced a mean reduction of approximately 4 points on the Y-BOCS total score which was statistically significantly greater than the mean reduction of 2 points in placebo-treated patients (N=44).
   The mean change in Y-BOCS from baseline to last visit (the primary efficacy endpoint) was -3.79 (sertraline hydrochloride) and -1.48 (placebo).
-- Study OCD-2 was a 12-week randomized, placebo-controlled fixed-dose study, including sertraline hydrochloride doses of 50, 100, and 200 mg/day.
+- •Study OCD-2 was a 12-week randomized, placebo-controlled fixed-dose study, including sertraline hydrochloride doses of 50, 100, and 200 mg/day.
   Sertraline hydrochloride (N=240) was titrated to the assigned dose over two weeks in 50 mg increments every 4 days.
   Patients receiving sertraline hydrochloride doses of 50 and 200 mg/day experienced mean reductions of approximately 6 points on the Y-BOCS total score, which were statistically significantly greater than the approximately 3 point reduction in placebo-treated patients (N=84).
   The mean change in Y-BOCS from baseline to last visit (the primary efficacy endpoint) was -5.7 (pooled results from sertraline hydrochloride 50 mg, 100 mg, and 150 mg) and -2.85 (placebo).
-- Study OCD-3 was a 12-week randomized, placebo controlled study with flexible dosing of sertraline hydrochloride in a range of 50 to 200 mg/day; the mean dose for completers was 185 mg/day.
+- •Study OCD-3 was a 12-week randomized, placebo controlled study with flexible dosing of sertraline hydrochloride in a range of 50 to 200 mg/day; the mean dose for completers was 185 mg/day.
   Sertraline hydrochloride (N=241) was titrated to the assigned dose over two weeks in 50 mg increments every 4 days.
   Patients receiving sertraline hydrochloride experienced a mean reduction of approximately 7 points on the Y-BOCS total score which was statistically significantly greater than the mean reduction of approximately 4 points in placebo-treated patients (N=84).
   The mean change in Y-BOCS from baseline to last visit (the primary efficacy endpoint) was - 6.5 (sertraline hydrochloride) and -3.6 (placebo).
@@ -54,9 +54,9 @@ Response during the single-blind phase was defined as a decrease in the Y-BOCS s
 Insufficient clinical response during the double-blind phase indicated a worsening of the patient's condition that resulted in study discontinuation, as assessed by the investigator.
 Relapse during the double-blind phase was defined as the following conditions being met (on three consecutive visits for 1 and 2, and condition 3 being met at visit 3):
 
-- Condition 1: Y-BOCS score increased by ≥ 5 points, to a minimum of 20, relative to baseline;
-- Condition 2: CGI-I increased by ≥ one point; and
-- Condition 3: Worsening of the patient's condition in the investigator's judgment, to justify alternative treatment.
+- •Condition 1: Y-BOCS score increased by ≥ 5 points, to a minimum of 20, relative to baseline;
+- •Condition 2: CGI-I increased by ≥ one point; and
+- •Condition 3: Worsening of the patient's condition in the investigator's judgment, to justify alternative treatment.
 
 Patients receiving continued sertraline hydrochloride treatment experienced a statistically significantly lower rate of discontinuation due to relapse or insufficient clinical response over the subsequent 28 weeks compared to those receiving placebo.
 This pattern was demonstrated in male and female subjects.
@@ -75,12 +75,12 @@ Analyses for age and gender effects on outcome did not suggest any differential 
 
 The effectiveness of sertraline hydrochloride in the treatment of PD was demonstrated in three double-blind, placebo-controlled studies (Studies PD-1, PD-2, and PD-3) of adult outpatients who had a primary diagnosis of PD (DSM-III-R), with or without agoraphobia.
 
-- Studies PD-1 and PD-2 were 10-week flexible dose studies of sertraline hydrochloride (N=80 study PD-1 and N=88 study PD-2) compared to placebo (N=176 study PD-1 and PD-2).
+- •Studies PD-1 and PD-2 were 10-week flexible dose studies of sertraline hydrochloride (N=80 study PD-1 and N=88 study PD-2) compared to placebo (N=176 study PD-1 and PD-2).
   In both studies, sertraline hydrochloride was initiated at 25 mg/day for the first week, then titrated in weekly increments of 50 mg per day to a maximum dose of 200 mg/day on the basis of clinical response and toleration.
   The mean sertraline hydrochloride doses for completers to 10 weeks were 131 mg/day and 144 mg/day, respectively, for Studies PD-1 and PD-2.
   In these studies, sertraline hydrochloride was shown to be statistically significantly more effective than placebo on change from baseline in panic attack frequency and on the Clinical Global Impression Severity (CGI-S) of Illness and Global Improvement (CGI-I) scores.
   The difference between sertraline hydrochloride and placebo in reduction from baseline in the number of full panic attacks was approximately 2 panic attacks per week in both studies.
-- Study PD-3 was a 12-week randomized, double-blind fixed-dose study, including sertraline hydrochloride doses of 50, 100, and 200 mg/day.
+- •Study PD-3 was a 12-week randomized, double-blind fixed-dose study, including sertraline hydrochloride doses of 50, 100, and 200 mg/day.
   Patients receiving sertraline hydrochloride (50 mg N=43, 100 mg N=44, 200 mg N=45) experienced a statistically significantly greater reduction in panic attack frequency than patients receiving placebo (N=45).
   Study PD-3 was not readily interpretable regarding a dose response relationship for effectiveness.
 
@@ -91,9 +91,9 @@ Response during the open phase was defined as a CGI-I score of 1(very much impro
 Insufficient clinical response in the double-blind phase indicated a worsening of the patient's condition that resulted in study discontinuation, as assessed by the investigator.
 Relapse during the double-blind phase was defined as the following conditions being met on three consecutive visits:
 
-- (1)CGI-I ≥ 3;
-- (2)meets DSM-III-R criteria for PD;
-- (3)number of panic attacks greater than at baseline.
+- •CGI-I ≥ 3;
+- •meets DSM-III-R criteria for PD;
+- •number of panic attacks greater than at baseline.
 
 Patients receiving continued sertraline hydrochloride treatment experienced a statistically significantly lower rate of discontinuation due to relapse or insufficient clinical response over the subsequent 28 weeks compared to those receiving placebo.
 This pattern was demonstrated in male and female subjects.
@@ -121,9 +121,9 @@ In Study PSTD-5, patients meeting DSM-III-R criteria for PTSD who had responded 
 Response during the open phase was defined as a CGI-I of 1 (very much improved) or 2 (much improved), and a decrease in the CAPS-2 score of > 30% compared to baseline.
 Relapse during the double-blind phase was defined as the following conditions being met on two consecutive visits:
 
-- (1)CGI-I ≥ 3;
-- (2)CAPS-2 score increased by ≥ 30% and by ≥ 15 points relative to baseline; and
-- (3)worsening of the patient's condition in the investigator's judgment.
+- •CGI-I ≥ 3;
+- •CAPS-2 score increased by ≥ 30% and by ≥ 15 points relative to baseline; and
+- •worsening of the patient's condition in the investigator's judgment.
 
 Patients receiving continued sertraline hydrochloride treatment experienced statistically significantly lower relapse rates over the subsequent 28 weeks compared to those receiving placebo.
 This pattern was demonstrated in male and female subjects.
@@ -135,8 +135,8 @@ The effectiveness of sertraline hydrochloride in the treatment of SAD (also know
 Study SAD-1 was a 12-week, flexible dose study comparing sertraline hydrochloride (50–200 mg/day), n=211, to placebo, n=204, in which sertraline hydrochloride was initiated at 25 mg/day for the first week, then titrated to the maximum tolerated dose in 50 mg increments biweekly.
 Study outcomes were assessed by the:
 
-- (1)Liebowitz Social Anxiety Scale (LSAS), a 24-item clinician administered instrument that measures fear, anxiety, and avoidance of social and performance situations, and
-- (2)Proportion of responders as defined by the Clinical Global Impression of Improvement (CGI-I) criterion of CGI-I ≤ 2 (very much or much improved).
+- •Liebowitz Social Anxiety Scale (LSAS), a 24-item clinician administered instrument that measures fear, anxiety, and avoidance of social and performance situations, and
+- •Proportion of responders as defined by the Clinical Global Impression of Improvement (CGI-I) criterion of CGI-I ≤ 2 (very much or much improved).
 
 Sertraline hydrochloride was statistically significantly more effective than placebo as measured by the LSAS and the percentage of responders.
 
@@ -144,9 +144,9 @@ Study SAD-2 was a 20-week, flexible dose study that compared sertraline hydrochl
 Sertraline hydrochloride was titrated to the maximum tolerated dose in 50 mg increments every 3 weeks.
 Study outcome was assessed by the:
 
-- (1)Duke Brief Social Phobia Scale (BSPS), a multi-item clinician-rated instrument that measures fear, avoidance and physiologic response to social or performance situations,
-- (2)Marks Fear Questionnaire Social Phobia Subscale (FQ-SPS), a 5-item patient-rated instrument that measures change in the severity of phobic avoidance and distress, and
-- (3)CGI-I responder criterion of ≤ 2.
+- •Duke Brief Social Phobia Scale (BSPS), a multi-item clinician-rated instrument that measures fear, avoidance and physiologic response to social or performance situations,
+- •Marks Fear Questionnaire Social Phobia Subscale (FQ-SPS), a 5-item patient-rated instrument that measures change in the severity of phobic avoidance and distress, and
+- •CGI-I responder criterion of ≤ 2.
 
 Sertraline hydrochloride was shown to be statistically significantly more effective than placebo as measured by the BSPS total score and fear, avoidance and physiologic factor scores, as well as the FQ-SPS total score, and to have statistically significantly more responders than placebo as defined by the CGI-I.
 Subgroup analyses did not suggest differences in treatment outcome on the basis of gender.
@@ -170,11 +170,11 @@ Patients taking oral contraceptives were excluded from these trials; therefore, 
 Efficacy was assessed with the Daily Record of Severity of Problems (DRSP), a patient-rated instrument that mirrors the diagnostic criteria for PMDD as identified in the DSM-IV, and includes assessments for mood, physical symptoms, and other symptoms.
 Other efficacy assessments included the Hamilton Rating Scale for Depression (HAMD-17), and the Clinical Global Impression Severity of Illness (CGI-S) and Improvement (CGI-I) scores.
 
-- In Study PMDD-1, involving 251 randomized patients, (n=125 on sertraline hydrochloride and n=126 on placebo), sertraline hydrochloride treatment was initiated at 50 mg/day and administered daily throughout the menstrual cycle.
+- •In Study PMDD-1, involving 251 randomized patients, (n=125 on sertraline hydrochloride and n=126 on placebo), sertraline hydrochloride treatment was initiated at 50 mg/day and administered daily throughout the menstrual cycle.
   In subsequent cycles, sertraline hydrochloride was titrated in 50 mg increments at the beginning of each menstrual cycle up to a maximum of 150 mg/day on the basis of clinical response and tolerability.
   The mean dose for completers was 102 mg/day.
   Sertraline hydrochloride administered daily throughout the menstrual cycle was statistically significantly more effective than placebo on change from baseline to endpoint on the DRSP total score, the HAMD-17 total score, and the CGI-S score, as well as the CGI-I score at endpoint.
-- In Study PMDD-2, involving 281 randomized patients, (n=142 on sertraline hydrochloride and n=139 on placebo), sertraline hydrochloride treatment was initiated at 50 mg/day in the late luteal phase (last 2 weeks) of each menstrual cycle and then discontinued at the onset of menses (intermittent dosing).
+- •In Study PMDD-2, involving 281 randomized patients, (n=142 on sertraline hydrochloride and n=139 on placebo), sertraline hydrochloride treatment was initiated at 50 mg/day in the late luteal phase (last 2 weeks) of each menstrual cycle and then discontinued at the onset of menses (intermittent dosing).
   In subsequent cycles, patients were dosed in the range of 50–100 mg/day in the luteal phase of each cycle, on the basis of clinical response and tolerability.
   Patients who received 100 mg/day started with 50 mg/day for the first 3 days of the cycle, then 100 mg/day for the remainder of the cycle.
   The mean sertraline hydrochloride dose for completers was 74 mg/day.

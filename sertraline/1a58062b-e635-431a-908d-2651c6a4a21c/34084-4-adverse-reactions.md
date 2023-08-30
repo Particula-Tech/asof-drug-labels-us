@@ -2,18 +2,18 @@
 
 The following adverse reactions are described in more detail in other sections of the prescribing information:
 
-- Hypersensitivity reactions to sertraline [See Contraindications (4)]
-- Disulfiram-alcohol reaction when sertraline hydrochloride oral solution is taken with disulfiram [See Contraindications (4)]
-- QTc prolongation and ventricular arrhythmias when taken with pimozide [See Contraindications (4), Clinical Pharmacology (12.2)]
-- Suicidal thoughts and behaviors [See Warnings and Precautions (5.1)]
-- Serotonin syndrome [See Contraindications (4), Warnings and Precautions (5.2), Drug Interactions (7.1)]
-- Increased risk of bleeding [See Warnings and Precautions (5.3)]
-- Activation of mania/hypomania [See Warnings and Precautions (5.4)]
-- Discontinuation syndrome [See Warnings and Precautions (5.5)]
-- Seizures [See Warnings and Precautions (5.6)]
-- Angle-closure glaucoma [See Warnings and Precautions (5.7)]
-- Hyponatremia [See Warnings and Precautions (5.8)]
-- Sexual Dysfunction [See Warnings and Precautions (5.11)]
+- •Hypersensitivity reactions to sertraline [See Contraindications (4)]
+- •Disulfiram-alcohol reaction when sertraline hydrochloride oral solution is taken with disulfiram [See Contraindications (4)]
+- •QTc prolongation and ventricular arrhythmias when taken with pimozide [See Contraindications (4), Clinical Pharmacology (12.2)]
+- •Suicidal thoughts and behaviors [See Warnings and Precautions (5.1)]
+- •Serotonin syndrome [See Contraindications (4), Warnings and Precautions (5.2), Drug Interactions (7.1)]
+- •Increased risk of bleeding [See Warnings and Precautions (5.3)]
+- •Activation of mania/hypomania [See Warnings and Precautions (5.4)]
+- •Discontinuation syndrome [See Warnings and Precautions (5.5)]
+- •Seizures [See Warnings and Precautions (5.6)]
+- •Angle-closure glaucoma [See Warnings and Precautions (5.7)]
+- •Hyponatremia [See Warnings and Precautions (5.8)]
+- •Sexual Dysfunction [See Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -26,12 +26,12 @@ The mean age was 40 years; 57% were females and 43% were males.
 The most common adverse reactions (≥5% and twice placebo) in all pooled placebo-controlled clinical trials of all sertraline hydrochloride-treated patients with MDD, OCD, PD, PTSD, SAD and PMDD were nausea, diarrhea/loose stool, tremor, dyspepsia, decreased appetite, hyperhidrosis, ejaculation failure, and decreased libido (see Table 3).
 The following are the most common adverse reactions in trials of sertraline hydrochloride (≥5% and twice placebo) by indication that were not mentioned previously.
 
-- MDD: somnolence;
-- OCD: insomnia, agitation;
-- PD: constipation, agitation;
-- PTSD: fatigue;
-- PMDD: somnolence, dry mouth, dizziness, fatigue, and abdominal pain;
-- SAD: insomnia, dizziness, fatigue, dry mouth, malaise.
+- •MDD: somnolence;
+- •OCD: insomnia, agitation;
+- •PD: constipation, agitation;
+- •PTSD: fatigue;
+- •PMDD: somnolence, dry mouth, dizziness, fatigue, and abdominal pain;
+- •SAD: insomnia, dizziness, fatigue, dry mouth, malaise.
 
 Table 3: Common Adverse Reactions in Pooled Placebo-Controlled Trials in Adults with MDD, OCD, PD, PTSD, SAD, and PMDDAdverse reactions that occurred greater than 2% in sertraline hydrochloride-treated patients and at least 2% greater in sertraline hydrochloride-treated patients than placebo-treated patients.
 
@@ -73,10 +73,10 @@ Adverse Reactions Leading to Discontinuation in Placebo-Controlled Clinical Tria
 In all placebo-controlled studies in patients with MDD, OCD, PD, PTSD, SAD and PMDD, 368 (12%) of the 3066 patients who received sertraline hydrochloride discontinued treatment due to an adverse reaction, compared with 93 (4%) of the 2293 placebo-treated patients.
 In placebo-controlled studies, the following were the common adverse reactions leading to discontinuation in sertraline hydrochloride-treated patients:
 
-- MDD, OCD, PD, PTSD, SAD and PMDD: nausea (3%), diarrhea (2%), agitation (2%), and insomnia (2%).
-- MDD (>2% and twice placebo): decreased appetite, dizziness, fatigue, headache, somnolence, tremor, and vomiting.
-- OCD: somnolence.
-- PD: nervousness and somnolence.
+- •MDD, OCD, PD, PTSD, SAD and PMDD: nausea (3%), diarrhea (2%), agitation (2%), and insomnia (2%).
+- •MDD (>2% and twice placebo): decreased appetite, dizziness, fatigue, headache, somnolence, tremor, and vomiting.
+- •OCD: somnolence.
+- •PD: nervousness and somnolence.
 
 Male and Female Sexual Dysfunction
 
