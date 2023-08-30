@@ -67,8 +67,8 @@ Primary Endpoint
 
 The trial had two prespecified analysis populations:
 
-- Intent-to-treat population (ITT): Comprised of all randomized subjects followed for a maximum of 30 months
-- Modified Intent-to-treat population (mITT): Comprised of all randomized subjects who received at least one dose of study medication and had at least one post-baseline visit followed until the earlier of treatment discontinuation plus 30 days, or 43 months
+- •Intent-to-treat population (ITT): Comprised of all randomized subjects followed for a maximum of 30 months
+- •Modified Intent-to-treat population (mITT): Comprised of all randomized subjects who received at least one dose of study medication and had at least one post-baseline visit followed until the earlier of treatment discontinuation plus 30 days, or 43 months
 
 Celecoxib, at the 100 mg twice daily dose, as compared with either naproxen or ibuprofen at the doses taken, met all four prespecified non-inferiority criteria (p<0.001 for non-inferiority in both comparisons) for the APTC endpoint, a composite of cardiovascular death (including hemorrhagic death), non-fatal myocardial infarction, and non-fatal stroke [see Table 5].
 Non-inferiority was prespecified as a hazard ratio (HR) of ≤1.12 in both ITT and mITT analyses, and upper 95% CI of ≤1.33 for ITT analysis and ≤1.40 for mITT analysis.
@@ -123,10 +123,10 @@ Cardiovascular safety was evaluated in two randomized, double-blind, placebo-con
 In the APC trial, there was a dose-related increase in the composite endpoint (adjudicated) of cardiovascular death, myocardial infarction, or stroke with celecoxib compared to placebo over 3 years of treatment.
 The PreSAP trial did not demonstrate a statistically significant increased risk for the same composite endpoint (adjudicated):
 
-- In the APC trial, the hazard ratios compared to placebo for a composite endpoint (adjudicated) of cardiovascular death, myocardial infarction, or stroke were 3.4 (95% CI 1.4 – 8.5) with celecoxib 400 mg twice daily and 2.8 (95% CI 1.1 – 7.2) with celecoxib 200 mg twice daily.
+- •In the APC trial, the hazard ratios compared to placebo for a composite endpoint (adjudicated) of cardiovascular death, myocardial infarction, or stroke were 3.4 (95% CI 1.4 – 8.5) with celecoxib 400 mg twice daily and 2.8 (95% CI 1.1 – 7.2) with celecoxib 200 mg twice daily.
   Cumulative rates for this composite endpoint over 3 years were 3.0% (20/671 subjects) and 2.5% (17/685 subjects), respectively, compared to 0.9% (6/679 subjects) with placebo treatment.
   The increases in both celecoxib dose groups versus placebo-treated patients were mainly due to an increased incidence of myocardial infarction.
-- In the PreSAP trial, the hazard ratio for this same composite endpoint (adjudicated) was 1.2 (95% CI 0.6 – 2.4) with celecoxib 400 mg once daily compared to placebo.
+- •In the PreSAP trial, the hazard ratio for this same composite endpoint (adjudicated) was 1.2 (95% CI 0.6 – 2.4) with celecoxib 400 mg once daily compared to placebo.
   Cumulative rates for this composite endpoint over 3 years were 2.3% (21/933 subjects) and 1.9% (12/628 subjects), respectively.
 
 Clinical trials of other COX-2 selective and non-selective NSAIDs of up to three-years duration have shown an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.

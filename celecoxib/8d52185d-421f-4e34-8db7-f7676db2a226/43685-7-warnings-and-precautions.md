@@ -56,13 +56,13 @@ Patients 65 years of age and older had an incidence of 1.40% at nine months, 3.0
 
 Strategies to Minimize the GI Risks in NSAID-treated patients:
 
-- Use the lowest effective dosage for the shortest possible duration.
-- Avoid administration of more than one NSAID at a time.
-- Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of bleeding.
-  For such patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
-- Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
-- If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue CELEBREX until a serious GI adverse event is ruled out.
-- In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
+1. 1.Use the lowest effective dosage for the shortest possible duration.
+2. 2.Avoid administration of more than one NSAID at a time.
+3. 3.Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of bleeding.
+   For such patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
+4. 4.Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
+5. 5.If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue CELEBREX until a serious GI adverse event is ruled out.
+6. 6.In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
 
 ## 5.3 Hepatotoxicity
 

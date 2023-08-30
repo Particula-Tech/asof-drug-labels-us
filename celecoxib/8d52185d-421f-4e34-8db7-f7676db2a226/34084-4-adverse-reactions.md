@@ -2,15 +2,15 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1)]
-- GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.2)]
-- Hepatotoxicity [see Warnings and Precautions (5.3)]
-- Hypertension [see Warnings and Precautions (5.4)]
-- Heart Failure and Edema [see Warnings and Precautions (5.5)]
-- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
-- Anaphylactic Reactions [see Warnings and Precautions (5.7)]
-- Serious Skin Reactions [see Warnings and Precautions (5.9)]
-- Hematologic Toxicity [see Warnings and Precautions (5.12)]
+- •Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1)]
+- •GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.2)]
+- •Hepatotoxicity [see Warnings and Precautions (5.3)]
+- •Hypertension [see Warnings and Precautions (5.4)]
+- •Heart Failure and Edema [see Warnings and Precautions (5.5)]
+- •Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
+- •Anaphylactic Reactions [see Warnings and Precautions (5.7)]
+- •Serious Skin Reactions [see Warnings and Precautions (5.9)]
+- •Hematologic Toxicity [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -60,7 +60,7 @@ In placebo- or active-controlled clinical trials, the discontinuation rate due t
 Among the most common reasons for discontinuation due to adverse events in the CELEBREX treatment groups were dyspepsia and abdominal pain (cited as reasons for discontinuation in 0.8% and 0.7% of CELEBREX patients, respectively).
 Among patients receiving placebo, 0.6% discontinued due to dyspepsia and 0.6% withdrew due to abdominal pain.
 
-The following adverse reactions occurred in 0.1% to 1.9% of patients treated with CELEBREX (100 mg to 200 mg twice daily or 200 mg once daily):
+1. The following adverse reactions occurred in 0.1% to 1.9% of patients treated with CELEBREX (100 mg to 200 mg twice daily or 200 mg once daily):
 
 Gastrointestinal: Constipation, diverticulitis, dysphagia, eructation, esophagitis, gastritis, gastroenteritis, gastroesophageal reflux, hemorrhoids, hiatal hernia, melena, dry mouth, stomatitis, tenesmus, vomiting
 
@@ -94,7 +94,7 @@ Application site disorders: Cellulitis, dermatitis contact
 
 Urinary: Albuminuria, cystitis, dysuria, hematuria, micturition frequency, renal calculus
 
-The following serious adverse events (causality not evaluated) occurred in <0.1% of patients:
+1. The following serious adverse events (causality not evaluated) occurred in <0.1% of patients:
 
 Cardiovascular: Syncope, congestive heart failure, ventricular fibrillation, pulmonary embolism, cerebrovascular accident, peripheral gangrene, thrombophlebitis
 
@@ -190,9 +190,8 @@ The following additional adverse reactions occurred in ≥0.1% and <1% of patien
 
 Nervous system disorders: Cerebral infarction
 
-Eye disorders: Vitreous floaters, conjunctival hemorrhage
-
-Ear and labyrinth: Labyrinthitis
+1. Eye disorders: Vitreous floaters, conjunctival hemorrhage
+2. Ear and labyrinth: Labyrinthitis
 
 Cardiac disorders: Angina unstable, aortic valve incompetence, coronary artery atherosclerosis, sinus bradycardia, ventricular hypertrophy
 
