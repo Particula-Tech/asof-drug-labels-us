@@ -33,6 +33,6 @@
 | KEPPRA XR tablet active ingredient: levetiracetam |  |  |
 | Inactive ingredients: colloidal anhydrous silica, hypromellose, magnesium stearate, polyethylene glycol 6000, polyvinyl alcohol-partially hydrolyzed, titanium dioxide (E171), Macrogol/PEG3350, and talc. The imprinting ink contains shellac, FD&C Red #40, n-butyl alcohol, propylene glycol, titanium dioxide, ethanol, and methanol. KEPPRA XR does not contain lactose or gluten. |  |  |
 | Distributed by UCB, Inc. Smyrna, GA 30080 |  |  |
-| KEPPRA XR is a registered trademark of the UCB Group of companies © 2022, UCB, Inc., Smyrna, GA 30080 All rights reserved. |  |  |
+| KEPPRA XR is a registered trademark of the UCB Group of companies © 2023, UCB, Inc., Smyrna, GA 30080 All rights reserved. |  |  |
 | For more information, go to www.keppraxr.com or call 1- (844) 599-CARE (2273). |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised: 11/2022 |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised: 8/2023 |
