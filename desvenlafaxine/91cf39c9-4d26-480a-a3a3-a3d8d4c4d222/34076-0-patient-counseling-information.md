@@ -13,7 +13,7 @@ Healthcare professionals should instruct patients not to take desvenlafaxine wit
 
 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of desvenlafaxine with other serotonergic agents (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort supplements)[see Warnings and Precautions (5.2)].
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of desvenlafaxine with other serotonergic agents (including triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, and St. John’s Wort supplements)[see Warnings and Precautions (5.2)].
 
 Elevated Blood Pressure
 

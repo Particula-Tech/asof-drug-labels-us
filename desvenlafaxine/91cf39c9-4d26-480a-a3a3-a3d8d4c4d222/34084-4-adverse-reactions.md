@@ -6,7 +6,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Suicidal Thoughts and Behaviors in Pediatric and Young Adult Patients [see Warnings and Precautions (5.1)]
 - Serotonin Syndrome [see Warnings and Precautions (5.2)]
 - Elevated Blood Pressure [see Warnings and Precautions (5.3)]
-- Abnormal Increased Risk of Bleeding [see Warnings and Precautions (5.4)]
+- Increased Risk of Bleeding [see Warnings and Precautions (5.4)]
 - Angle Closure Glaucoma [see Warnings and Precautions (5.5)]
 - Activation of Mania/Hypomania [see Warnings and Precautions (5.6)]
 - Discontinuation Syndrome [see Warnings and Precautions (5.7)]
@@ -196,5 +196,7 @@ In the pre-marketingshort-term, placebo-controlled clinical studies with doses o
 
 The following adverse reaction has been identified during post-approval use of desvenlafaxine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
+
+Respiratory, thoracic and mediastinal disorders – Anosmia, hyposmia
 
 Skin and subcutaneous tissue disorders –Stevens-Johnson syndrome Gastrointestinal system – Acute pancreatitis Cardiovascular system – Takotsubo cardiomyopathy
