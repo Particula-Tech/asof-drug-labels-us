@@ -17,7 +17,7 @@ Parenteral drug products should be inspected visually for particulate matter and
 ZIEXTENZO is supplied as a clear and colorless to slightly yellowish solution.
 Do not administer ZIEXTENZO if discoloration or particulates are observed.
 
-The ZIEXTENZO syringe plunger stopper and needle cap are not made with natural rubber latex.
+The needle cap on the prefilled syringes contains dry natural rubber (derived from latex) which may cause allergic reactions; persons with latex allergies should not administer these products.
 
 Pediatric Patients weighing less than 45 kg
 
