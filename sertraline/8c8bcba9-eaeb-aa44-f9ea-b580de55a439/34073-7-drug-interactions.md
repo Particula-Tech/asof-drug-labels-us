@@ -15,7 +15,7 @@ Clinically-Significant Drug Interactions with Sertraline HCl Capsules
 | Clinical Impact: | Increased plasma concentrations of pimozide, a drug with a narrow therapeutic index, may increase the risk of QTc prolongation and ventricular arrhythmias. |
 | Intervention: | Concomitant use of pimozide and Sertraline HCl Capsules is contraindicated [see Contraindications (4)]. |
 | Other Serotonergic Drugs |  |
-| Clinical Impact: | The concomitant use of serotonergic drugs with Sertraline HCl Capsules increases the risk of serotonin syndrome. |
+| Clinical Impact: | Concomitant use of Sertraline HCl Capsules with other serotonergic drugs (including other SSRIs, SNRIs, triptans, tricyclic antidepressants, opioids, lithium, buspirone, amphetamines, tryptophan, and St. John's Wort) increases the risk of serotonin syndrome. |
 | Intervention: | Monitor patients for signs and symptoms of serotonin syndrome, particularly during treatment initiation and dosage increases. If serotonin syndrome occurs, consider discontinuation of Sertraline HCl Capsules and/or concomitant serotonergic drugs [see Warnings and Precautions (5.2)]. |
 | Drugs that Interfere with Hemostasis (antiplatelet agents and anticoagulants) |  |
 | Clinical Impact: | The concurrent use of an antiplatelet agent or anticoagulant with Sertraline HCl Capsules may potentiate the risk of bleeding. |

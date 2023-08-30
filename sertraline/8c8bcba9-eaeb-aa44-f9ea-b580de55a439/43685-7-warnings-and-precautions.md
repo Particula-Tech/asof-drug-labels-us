@@ -28,7 +28,7 @@ Consider changing the therapeutic regimen, including possibly discontinuing Sert
 ## 5.2 Serotonin Syndrome
 
 SSRIs, including Sertraline HCl Capsules, can precipitate serotonin syndrome, a potentially life-threatening condition.
-The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)].
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, meperidine, methadone, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)].
 Serotonin syndrome can also occur when these drugs are used alone.
 
 Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -47,9 +47,10 @@ If concomitant use of Sertraline HCl Capsules with other serotonergic drugs is c
 Drugs that interfere with serotonin reuptake inhibition, including Sertraline HCl Capsules, increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), other antiplatelet drugs, warfarin, and other anticoagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Use in Specific Populations (8.1)].
 Bleeding events related to drugs that interfere with serotonin reuptake have ranged from ecchymosis, hematoma, epistaxis, and petechiae to life-threatening hemorrhages.
 
-Inform patients of the increased risk of bleeding associated with the concomitant use of Sertraline HCl Capsules and antiplatelet agents or anticoagulants.
+Inform patients about the increased risk of bleeding associated with the concomitant use of Sertraline HCl Capsules and antiplatelet agents or anticoagulants.
 For patients taking warfarin, carefully monitor the international normalized ratio.
 
 ## 5.4 Activation of Mania or Hypomania

@@ -172,7 +172,7 @@ Psychiatric disorders - psychosis, enuresis, paroniria
 
 Renal and urinary disorders - acute renal failure
 
-Respiratory, thoracic and mediastinal disorders - pulmonary hypertension
+Respiratory, thoracic and mediastinal disorders - pulmonary hypertension, anosmia, hyposmia
 
 Skin and subcutaneous tissue disorders - photosensitivity skin reaction and other severe cutaneous reactions, which potentially can be fatal, such as Stevens-Johnson Syndrome (SJS) and toxic epidermal necrolysis (TEN)
 
