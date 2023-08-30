@@ -36,43 +36,43 @@ Tell your doctor about any prescription and non-prescription medicines you are t
 
 Tell your doctor if you:
 
-- ever had heart disease
-- ever had liver problems
-- are pregnant, or plan to become pregnant.
+- •ever had heart disease
+- •ever had liver problems
+- •are pregnant, or plan to become pregnant.
   Your doctor will decide if amlodipine besylate is the best treatment for you.
-- are breast-feeding.
+- •are breast-feeding.
   Amlodipine besylate passes into your milk.
 
 How should I take amlodipine besylate tablets?
 
-- Take amlodipine besylate tablets once a day, with or without food.
-- It may be easier to take your dose if you do it at the same time every day, such as with breakfast or dinner, or at bedtime.
+- •Take amlodipine besylate tablets once a day, with or without food.
+- •It may be easier to take your dose if you do it at the same time every day, such as with breakfast or dinner, or at bedtime.
   Do not take more than one dose of amlodipine besylate tablets at a time.
-- If you miss a dose, take it as soon as you remember.
+- •If you miss a dose, take it as soon as you remember.
   Do not take amlodipine besylate tablets if it has been more than 12 hours since you missed your last dose.
   Wait and take the next dose at your regular time.
-- Other medicines: You can use nitroglycerin and amlodipine besylate together.
+- •Other medicines: You can use nitroglycerin and amlodipine besylate together.
   If you take nitroglycerin for angina, don't stop taking it while you are taking amlodipine besylate.
-- While you are taking amlodipine besylate tablets, do not stop taking your other prescription medicines, including any other blood pressure medicines, without talking to your doctor.
-- If you took too much amlodipine besylate, call your doctor or Poison Control Center, or go to the nearest hospital emergency room right away.
+- •While you are taking amlodipine besylate tablets, do not stop taking your other prescription medicines, including any other blood pressure medicines, without talking to your doctor.
+- •If you took too much amlodipine besylate, call your doctor or Poison Control Center, or go to the nearest hospital emergency room right away.
 
 What should I avoid while taking amlodipine besylate tablets?
 
-- Do not start any new prescription or non-prescription medicines or supplements, unless you check with your doctor first.
+- •Do not start any new prescription or non-prescription medicines or supplements, unless you check with your doctor first.
 
 What are the possible side effects of amlodipine besylate tablets?
 
 Amlodipine besylate may cause the following side effects.
 Most side effects are mild or moderate:
 
-- swelling of your legs or ankles
-- tiredness, extreme sleepiness
-- stomach pain, nausea
-- dizziness
-- flushing (hot or warm feeling in your face)
-- arrhythmia (irregular heartbeat)
-- heart palpitations (very fast heartbeat)
-- muscle rigidity, tremor and/or abnormal muscle movement
+- •swelling of your legs or ankles
+- •tiredness, extreme sleepiness
+- •stomach pain, nausea
+- •dizziness
+- •flushing (hot or warm feeling in your face)
+- •arrhythmia (irregular heartbeat)
+- •heart palpitations (very fast heartbeat)
+- •muscle rigidity, tremor and/or abnormal muscle movement
 
 It is rare, but when you first start taking amlodipine besylate or increase your dose, you may have a heart attack or your angina may get worse.
 If that happens, call your doctor right away or go directly to a hospital emergency room.
@@ -83,11 +83,11 @@ For a complete list, ask your doctor or pharmacist.
 
 How do I store amlodipine besylate tablets?
 
-Keep amlodipine besylate tablets away from children.
-Store amlodipine besylate tablets at room temperature (between 59° and 86°F).
-Keep amlodipine besylate tablets out of the light.
-Do not store in the bathroom.
-Keep amlodipine besylate tablets in a dry place.
+1. Keep amlodipine besylate tablets away from children.
+   Store amlodipine besylate tablets at room temperature (between 59° and 86°F).
+   Keep amlodipine besylate tablets out of the light.
+   Do not store in the bathroom.
+   Keep amlodipine besylate tablets in a dry place.
 
 General advice about amlodipine besylate tablets
 

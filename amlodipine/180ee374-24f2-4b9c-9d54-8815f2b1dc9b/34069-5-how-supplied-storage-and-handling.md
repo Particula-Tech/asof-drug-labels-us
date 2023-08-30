@@ -1,7 +1,5 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-2.5 mg Tablets
-
 Amlodipine Besylate – 2.5 mg Tablets (amlodipine besylate equivalent to 2.5 mg of amlodipine per tablet) are supplied as white, diamond, flat-faced, beveled edged engraved with "NORVASC" on one side and "2.5" on the other side and supplied as follows:
 
 | NDC 59762-2242-9 | Bottle of 90 |
