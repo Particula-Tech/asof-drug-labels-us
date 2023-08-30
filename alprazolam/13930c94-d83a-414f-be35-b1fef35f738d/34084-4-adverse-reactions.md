@@ -2,13 +2,13 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Risks from Concomitant Use with Opioids [see Warnings and Precautions (5.1)]
-- Abuse, Misuse, and Addiction [see Warnings and Precautions (5.2)]
-- Dependence and Withdrawal Reactions [see Warnings and Precautions (5.3)]
-- Effects on Driving and Operating Machinery [see Warnings and Precautions (5.4)]
-- Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.5)]
-- Patients with Depression [see Warnings and Precautions (5.7)]
-- Risks in Patients with Impaired Respiratory Function [see Warnings and Precautions (5.9)]
+- •Risks from Concomitant Use with Opioids [see Warnings and Precautions (5.1)]
+- •Abuse, Misuse, and Addiction [see Warnings and Precautions (5.2)]
+- •Dependence and Withdrawal Reactions [see Warnings and Precautions (5.3)]
+- •Effects on Driving and Operating Machinery [see Warnings and Precautions (5.4)]
+- •Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.5)]
+- •Patients with Depression [see Warnings and Precautions (5.7)]
+- •Risks in Patients with Impaired Respiratory Function [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -16,8 +16,8 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The data in the two tables below are estimates of adverse reaction incidence among adult patients who participated in:
 
-- 4-week placebo-controlled clinical studies with alprazolam dosages up to 4 mg per day for the acute treatment of generalized anxiety disorder (Table 1)
-- Short-term (up to 10 weeks) placebo-controlled clinical studies with alprazolam dosages up to 10 mg per day for panic disorder, with or without agoraphobia (Table 2).
+- •4-week placebo-controlled clinical studies with alprazolam dosages up to 4 mg per day for the acute treatment of generalized anxiety disorder (Table 1)
+- •Short-term (up to 10 weeks) placebo-controlled clinical studies with alprazolam dosages up to 10 mg per day for panic disorder, with or without agoraphobia (Table 2).
 
 Table 1: Adverse Reactions Occurring in ≥1% in ALPRAZOLAM-treated Patients and Greater than Placebo-treated Patients in Placebo-Controlled Trials for Generalized Anxiety
 
