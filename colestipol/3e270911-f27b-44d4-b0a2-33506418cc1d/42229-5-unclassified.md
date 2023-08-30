@@ -1,3 +1,3 @@
 Rx only
 
-LAB-0053-5.0 May 2017
+LAB-0053-6.0 Revised August 2023
