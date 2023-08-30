@@ -11,7 +11,7 @@ A sudden drop in blood pressure can cause you to feel dizzy, faint, or have a he
 
 Do not take VIAGRA if you take medicines called guanylate cyclase stimulators which include:
 
-- Riociguat (Adempas®) a medicine that treats pulmonary arterial hypertension and chronic-thromboembolic pulmonary hypertension.
+- •Riociguat (Adempas®) a medicine that treats pulmonary arterial hypertension and chronic-thromboembolic pulmonary hypertension.
 
 Tell all your healthcare providers that you take VIAGRA.
 If you need emergency medical care for a heart problem, it will be important for your healthcare provider to know when you last took VIAGRA.
@@ -37,48 +37,48 @@ Who should not take VIAGRA?
 
 Do not take VIAGRA if you:
 
-- take medicines called nitrates (such as nitroglycerin)
-- use street drugs called "poppers" such as amyl nitrate or amyl nitrite, and butyl nitrate
-- take any medicines called guanylate cyclase stimulators such as riociguat (Adempas)
-- are allergic to sildenafil, as contained in VIAGRA and REVATIO, or any of the ingredients in VIAGRA.
+- •take medicines called nitrates (such as nitroglycerin)
+- •use street drugs called "poppers" such as amyl nitrate or amyl nitrite, and butyl nitrate
+- •take any medicines called guanylate cyclase stimulators such as riociguat (Adempas)
+- •are allergic to sildenafil, as contained in VIAGRA and REVATIO, or any of the ingredients in VIAGRA.
   See the end of this leaflet for a complete list of ingredients in VIAGRA.
 
 What should I tell my healthcare provider before taking VIAGRA?
 
 Before you take VIAGRA, tell your healthcare provider if you:
 
-- have or have had heart problems such as a heart attack, irregular heartbeat, angina, chest pain, narrowing of the aortic valve or heart failure
-- have had heart surgery within the last 6 months
-- have pulmonary hypertension
-- have had a stroke
-- have low blood pressure, or high blood pressure that is not controlled
-- have a deformed penis shape
-- have had an erection that lasted for more than 4 hours
-- have problems with your blood cells such as sickle cell anemia, multiple myeloma, or leukemia
-- have retinitis pigmentosa, a rare genetic (runs in families) eye disease
-- have ever had severe vision loss, including an eye problem called non-arteritic anterior ischemic optic neuropathy (NAION)
-- have bleeding problems
-- have or have had stomach ulcers
-- have liver problems
-- have kidney problems or are having kidney dialysis
-- have any other medical conditions
+- •have or have had heart problems such as a heart attack, irregular heartbeat, angina, chest pain, narrowing of the aortic valve or heart failure
+- •have had heart surgery within the last 6 months
+- •have pulmonary hypertension
+- •have had a stroke
+- •have low blood pressure, or high blood pressure that is not controlled
+- •have a deformed penis shape
+- •have had an erection that lasted for more than 4 hours
+- •have problems with your blood cells such as sickle cell anemia, multiple myeloma, or leukemia
+- •have retinitis pigmentosa, a rare genetic (runs in families) eye disease
+- •have ever had severe vision loss, including an eye problem called non-arteritic anterior ischemic optic neuropathy (NAION)
+- •have bleeding problems
+- •have or have had stomach ulcers
+- •have liver problems
+- •have kidney problems or are having kidney dialysis
+- •have any other medical conditions
 
 Tell your healthcare provider about all the medicines you takeThe other brands listed are trademarks of their respective owners and are not trademarks of Pfizer Inc. The makers of these brands are not affiliated with and do not endorse Pfizer Inc or its products., including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 VIAGRA may affect the way other medicines work, and other medicines may affect the way VIAGRA works causing side effects.
 Especially tell your healthcare provider if you take any of the following:
 
-- medicines called nitrates (see "What is the most important information I should know about VIAGRA?")
-- medicines called guanylate cyclase stimulators, such as riociguat (Adempas)
-- medicines called alpha blockers such as Hytrin (terazosin HCl), Flomax (tamsulosin HCl), Cardura (doxazosin mesylate), Minipress (prazosin HCl), Uroxatral (alfuzosin HCl), Jalyn (dutasteride and tamsulosin HCl), or Rapaflo (silodosin).
+- •medicines called nitrates (see "What is the most important information I should know about VIAGRA?")
+- •medicines called guanylate cyclase stimulators, such as riociguat (Adempas)
+- •medicines called alpha blockers such as Hytrin (terazosin HCl), Flomax (tamsulosin HCl), Cardura (doxazosin mesylate), Minipress (prazosin HCl), Uroxatral (alfuzosin HCl), Jalyn (dutasteride and tamsulosin HCl), or Rapaflo (silodosin).
   Alpha-blockers are sometimes prescribed for prostate problems or high blood pressure.
   In some patients, the use of VIAGRA with alpha-blockers can lead to a drop in blood pressure or to fainting.
-- medicines called HIV protease inhibitors, such as ritonavir (Norvir), indinavir sulfate (Crixivan), saquinavir (Fortovase or Invirase) or atazanavir sulfate (Reyataz)
-- some types of oral antifungal medicines, such as ketoconazole (Nizoral), and itraconazole (Sporanox)
-- some types of antibiotics, such as clarithromycin (Biaxin), telithromycin (Ketek), or erythromycin
-- other medicines that treat high blood pressure
-- other medicines or treatments for ED
-- VIAGRA contains sildenafil, which is the same medicine found in another drug called REVATIO.
+- •medicines called HIV protease inhibitors, such as ritonavir (Norvir), indinavir sulfate (Crixivan), saquinavir (Fortovase or Invirase) or atazanavir sulfate (Reyataz)
+- •some types of oral antifungal medicines, such as ketoconazole (Nizoral), and itraconazole (Sporanox)
+- •some types of antibiotics, such as clarithromycin (Biaxin), telithromycin (Ketek), or erythromycin
+- •other medicines that treat high blood pressure
+- •other medicines or treatments for ED
+- •VIAGRA contains sildenafil, which is the same medicine found in another drug called REVATIO.
   REVATIO is used to treat a rare disease called pulmonary arterial hypertension (PAH).
   VIAGRA should not be used with REVATIO or with other PAH treatments containing sildenafil or any other PDE5 inhibitors (such as Adcirca [tadalafil]).
 
@@ -89,44 +89,44 @@ Keep a list of them to show to your healthcare provider and pharmacist when you 
 
 How should I take VIAGRA?
 
-- Take VIAGRA exactly as your healthcare provider tells you to take it.
-- Your healthcare provider will tell you how much VIAGRA to take and when to take it.
-- Your healthcare provider may change your dose if needed.
-- Take VIAGRA about 1 hour before sexual activity.
+- •Take VIAGRA exactly as your healthcare provider tells you to take it.
+- •Your healthcare provider will tell you how much VIAGRA to take and when to take it.
+- •Your healthcare provider may change your dose if needed.
+- •Take VIAGRA about 1 hour before sexual activity.
   You may take VIAGRA between 30 minutes to 4 hours before sexual activity if needed.
-- VIAGRA can be taken with or without food.
+- •VIAGRA can be taken with or without food.
   If you take VIAGRA after a high fat meal (such as a cheeseburger and french fries), VIAGRA may take a little longer to start working
-- Do not take VIAGRA more than 1 time a day.
-- If you accidentally take too much VIAGRA, call your doctor or go to the nearest hospital emergency room right away.
+- •Do not take VIAGRA more than 1 time a day.
+- •If you accidentally take too much VIAGRA, call your doctor or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of VIAGRA?
 
 VIAGRA can cause serious side effects.
 Rarely reported side effects include:
 
-- an erection that will not go away (priapism).
+- •an erection that will not go away (priapism).
   If you have an erection that lasts more than 4 hours, get medical help right away.
   If it is not treated right away, priapism can permanently damage your penis.
-- sudden vision loss in one or both eyes.
+- •sudden vision loss in one or both eyes.
   Sudden vision loss in one or both eyes can be a sign of a serious eye problem called non-arteritic anterior ischemic optic neuropathy (NAION).
   It is uncertain whether PDE5 inhibitors directly cause the vision loss.
   Stop taking VIAGRA and call your healthcare provider right away if you have sudden vision loss in one or both eyes.
-- sudden hearing decrease or hearing loss.
+- •sudden hearing decrease or hearing loss.
   Some people may also have ringing in their ears (tinnitus) or dizziness.
   If you have these symptoms, stop taking VIAGRA and contact a doctor right away.
 
 The most common side effects of VIAGRA are:
 
-- headache
-- flushing
-- upset stomach
-- abnormal vision, such as changes in color vision (such as having a blue color tinge) and blurred vision
-- stuffy or runny nose
-- back pain
-- muscle pain
-- nausea
-- dizziness
-- rash
+- •headache
+- •flushing
+- •upset stomach
+- •abnormal vision, such as changes in color vision (such as having a blue color tinge) and blurred vision
+- •stuffy or runny nose
+- •back pain
+- •muscle pain
+- •nausea
+- •dizziness
+- •rash
 
 In addition, heart attack, stroke, irregular heartbeats and death have happened rarely in men taking VIAGRA.
 Most, but not all, of these men had heart problems before taking VIAGRA.
@@ -142,7 +142,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store VIAGRA?
 
-- Store VIAGRA at room temperature between 68°F to 77°F (20°C to 25°C).
+- •Store VIAGRA at room temperature between 68°F to 77°F (20°C to 25°C).
 
 Keep VIAGRA and all medicines out of the reach of children.
 

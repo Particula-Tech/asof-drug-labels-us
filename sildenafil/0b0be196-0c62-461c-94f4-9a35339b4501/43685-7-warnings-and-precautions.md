@@ -13,9 +13,9 @@ Use with caution in patients with the following underlying conditions which can 
 
 There are no controlled clinical data on the safety or efficacy of VIAGRA in the following groups; if prescribed, this should be done with caution.
 
-- Patients who have suffered a myocardial infarction, stroke, or life-threatening arrhythmia within the last 6 months;
-- Patients with resting hypotension (BP <90/50 mmHg) or hypertension (BP >170/110 mmHg);
-- Patients with cardiac failure or coronary artery disease causing unstable angina.
+- •Patients who have suffered a myocardial infarction, stroke, or life-threatening arrhythmia within the last 6 months;
+- •Patients with resting hypotension (BP <90/50 mmHg) or hypertension (BP >170/110 mmHg);
+- •Patients with cardiac failure or coronary artery disease causing unstable angina.
 
 ## 5.2 Prolonged Erection and Priapism
 
@@ -62,12 +62,12 @@ In some patients, concomitant use of these two drug classes can lower blood pres
 
 Consideration should be given to the following:
 
-- Patients who demonstrate hemodynamic instability on alpha-blocker therapy alone are at increased risk of symptomatic hypotension with concomitant use of PDE5 inhibitors.
+- •Patients who demonstrate hemodynamic instability on alpha-blocker therapy alone are at increased risk of symptomatic hypotension with concomitant use of PDE5 inhibitors.
   Patients should be stable on alpha-blocker therapy prior to initiating a PDE5 inhibitor.
-- In those patients who are stable on alpha-blocker therapy, PDE5 inhibitors should be initiated at the lowest dose [see Dosage and Administration (2.3)].
-- In those patients already taking an optimized dose of a PDE5 inhibitor, alpha-blocker therapy should be initiated at the lowest dose.
+- •In those patients who are stable on alpha-blocker therapy, PDE5 inhibitors should be initiated at the lowest dose [see Dosage and Administration (2.3)].
+- •In those patients already taking an optimized dose of a PDE5 inhibitor, alpha-blocker therapy should be initiated at the lowest dose.
   Stepwise increase in alpha-blocker dose may be associated with further lowering of blood pressure when taking a PDE5 inhibitor.
-- Safety of combined use of PDE5 inhibitors and alpha-blockers may be affected by other variables, including intravascular volume depletion and other anti-hypertensive drugs.
+- •Safety of combined use of PDE5 inhibitors and alpha-blockers may be affected by other variables, including intravascular volume depletion and other anti-hypertensive drugs.
 
 Anti-hypertensives
 

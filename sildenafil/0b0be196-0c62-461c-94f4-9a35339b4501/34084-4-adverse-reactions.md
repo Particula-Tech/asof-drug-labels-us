@@ -2,15 +2,15 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Cardiovascular [see Warnings and Precautions (5.1)]
-- Prolonged Erection and Priapism [see Warnings and Precautions (5.2)]
-- Effects on the Eye [see Warnings and Precautions (5.3)]
-- Hearing Loss [see Warnings and Precautions (5.4)]
-- Hypotension when Co-administered with Alpha-blockers or Anti-hypertensives [see Warnings and Precautions (5.5)]
-- Adverse Reactions with the Concomitant Use of Ritonavir [see Warnings and Precautions (5.6)]
-- Combination with other PDE5 Inhibitors or Other Erectile Dysfunction Therapies [see Warnings and Precautions (5.7)]
-- Effects on Bleeding [see Warnings and Precautions (5.8)]
-- Counseling Patients About Sexually Transmitted Diseases [see Warnings and Precautions (5.9)]
+- •Cardiovascular [see Warnings and Precautions (5.1)]
+- •Prolonged Erection and Priapism [see Warnings and Precautions (5.2)]
+- •Effects on the Eye [see Warnings and Precautions (5.3)]
+- •Hearing Loss [see Warnings and Precautions (5.4)]
+- •Hypotension when Co-administered with Alpha-blockers or Anti-hypertensives [see Warnings and Precautions (5.5)]
+- •Adverse Reactions with the Concomitant Use of Ritonavir [see Warnings and Precautions (5.6)]
+- •Combination with other PDE5 Inhibitors or Other Erectile Dysfunction Therapies [see Warnings and Precautions (5.7)]
+- •Effects on Bleeding [see Warnings and Precautions (5.8)]
+- •Counseling Patients About Sexually Transmitted Diseases [see Warnings and Precautions (5.9)]
 
 The most common adverse reactions reported in clinical trials (≥ 2%) are headache, flushing, dyspepsia, abnormal vision, nasal congestion, back pain, myalgia, nausea, dizziness, and rash.
 
