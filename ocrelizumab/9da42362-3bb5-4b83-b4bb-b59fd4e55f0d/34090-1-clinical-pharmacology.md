@@ -37,12 +37,12 @@ The metabolism of OCREVUS has not been directly studied because antibodies are c
 
 Specific Populations
 
-Renal impairment
+Renal Impairment
 
 Patients with mild renal impairment were included in clinical trials.
 No significant change in the pharmacokinetics of OCREVUS was observed in those patients.
 
-Hepatic impairment
+Hepatic Impairment
 
 Patients with mild hepatic impairment were included in clinical trials.
 No significant change in the pharmacokinetics of OCREVUS was observed in those patients.
