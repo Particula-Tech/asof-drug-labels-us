@@ -89,7 +89,7 @@ Although the data from the clinical trials support use of pantoprazole for the s
 
 In a population pharmacokinetic analysis, clearance values in the children 1 to 5 years old with endoscopically proven GERD had a median value of 2.4 L/h.
 Following a 1.2 mg/kg equivalent dose (15 mg for ≤12.5 kg and 20 mg for >12.5 to <25 kg), the plasma concentrations of pantoprazole were highly variable and the median time to peak plasma concentration was 3 to 6 hours.
-The estimated AUC for patients 1 to 5 years old was 37% higher than for adults receiving a single 40 mg tablet, with a geometric mean AUC value of 6.8 mcg•hr/mL.
+The estimated AUC for patients 1 to 5 years old was 37% higher than for adults receiving a single 40 mg tablet, with a geometric mean AUC value of 6.8 µg•hr/mL.
 
 Neonates to less than one year of age
 

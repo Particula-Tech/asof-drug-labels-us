@@ -17,7 +17,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adults
 
-Safety in nine randomized comparative US clinical trials in patients with GERD included 1,473 patients on oral pantoprazole sodium delayed release tablets (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another PPI, and 82 patients on placebo.
+Safety in nine randomized comparative US clinical trials in patients with GERD included 1,473 patients on oral pantoprazole sodium delayed- release tablets (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another PPI, and 82 patients on placebo.
 The most frequently occurring adverse reactions are listed in Table 3.
 
 Table 3: Adverse Reactions Reported in Clinical Trials of Adult Patients with GERD at a Frequency of >2%
@@ -99,7 +99,7 @@ Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic f
 
 Immune System Disorders: anaphylaxis (including anaphylactic shock), systemic lupus erythematosus
 
-Infections and Infestations:Clostridium difficile associated diarrhea
+Infections and Infestations: Clostridium difficile associated diarrhea
 
 Investigations: weight changes
 
@@ -111,6 +111,6 @@ Nervous: ageusia, dysgeusia
 
 Psychiatric Disorders: hallucination, confusion, insomnia, somnolence
 
-Renal and Urinary Disorders: acute tubulointerstitial nephritis
+Renal and Genitourinary Disorders: acute tubulointerstitial nephritis, erectile dysfunction
 
-Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal), and angioedema (Quincke's edema) and cutaneous lupus erythematosus
+Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, SJS/TEN, DRESS, AGEP, angioedema (Quincke's edema) and cutaneous lupus erythematosus

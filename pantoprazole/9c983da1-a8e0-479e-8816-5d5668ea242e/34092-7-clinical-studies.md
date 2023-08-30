@@ -15,7 +15,7 @@ Table 8: Erosive Esophagitis Healing Rates (Per Protocol)
 | ––––––––––––––– Pantoprazole ––––––––––––––– |  |  |  | Placebo |
 | --- | --- | --- | --- | --- |
 | Week | 10 mg daily (n = 153) | 20 mg daily (n = 158) | 40 mg daily (n = 162) | (n = 68) |
-| 4 8 | 45.6%+ 66.0%+ | 58.4%+# 83.5 %+# | 75.0%+* 92.6%+* | 14.3% 39.7% |
+| 4 8 | 45.6%+ 66.0%+ | 58.4%+# 83.5%+# | 75.0%+* 92.6%+* | 14.3% 39.7% |
 
 + (p < 0.001) pantoprazole versus placebo * (p < 0.05) versus 10 mg or 20 mg pantoprazole # (p < 0.05) versus 10 mg pantoprazole
 

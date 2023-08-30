@@ -13,6 +13,6 @@ Safety of treatment beyond 8 weeks in pediatric patients has not been establishe
 Pantoprazole sodium delayed-release tablets are indicated for maintenance of healing of EE and reduction in relapse rates of daytime and nighttime heartburn symptoms in adult patients with GERD.
 Controlled studies did not extend beyond 12 months.
 
-## 1.3 Pathological Hypersecretory Conditions Including Zollinger-Ellison (ZE) Syndrome
+## 1.3 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
 
 Pantoprazole sodium delayed-release tablets are indicated for the long-term treatment of pathological hypersecretory conditions, including Zollinger-Ellison (ZE) Syndrome.

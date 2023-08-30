@@ -20,7 +20,7 @@ Advise patients to report any fractures, especially of the hip, wrist or spine, 
 
 Severe Cutaneous Adverse Reactions
 
-Advise patients to discontinue Pantoprazole sodium and immediately call their healthcare provider for further evaluation [see Warnings and Precautions (5.5)]
+Advise patients to discontinue Pantoprazole sodium and immediately call their healthcare provider for further evaluation [see Warnings and Precautions (5.5)].
 
 Cutaneous and Systemic Lupus Erythematosus
 
@@ -36,7 +36,7 @@ Advise patients to report any clinical symptoms that may be associated with hypo
 
 Drug Interactions
 
-Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [see Contraindications (4)] digoxin [see Warnings and Precautions (5.8)] and high dose methotrexate [see Warnings and Precautions (5.13)].
+Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [see Contraindications (4)], digoxin [see Warnings and Precautions (5.8)] and high dose methotrexate [see Warnings and Precautions (5.13)].
 
 Pregnancy
 
@@ -53,7 +53,7 @@ Administration
   Do not take 2 doses at the same time.
 
 This product's label may have been updated.
-For current full prescribing information, please visit www.torrentpharma.com
+For the most recent prescribing information, please visit www.torrentpharma.com
 
 Manufactured by:
 
@@ -63,4 +63,4 @@ Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8092247 Revised: March 2023
+8093834 Revised: August 2023
