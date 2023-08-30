@@ -11,8 +11,8 @@ TABLE 6 Clinically Important Drug Interactions with Lexapro
 | Pimozide |  |
 | Clinical Impact: | Concomitant use of racemic citalopram with pimozide increases plasma concentrations of pimozide, a drug with a narrow therapeutic index, and may increase the risk of QT prolongation and/or ventricular arrhythmias compared to use of racemic citalopram alone [see Clinical Pharmacology (12.3)]. |
 | Intervention: | Lexapro is contraindicated in patients taking pimozide [see Contraindications (4)]. |
-| Serotonergic Drugs |  |
-| Clinical Impact: | Concomitant use of Lexapro and other serotonergic drugs increases the risk of serotonin syndrome. |
+| Other Serotonergic Drugs |  |
+| Clinical Impact: | Concomitant use of Lexapro and other serotonergic drugs (including other SSRIs, SNRIs, triptans, tricyclic antidepressants, opioids, lithium, buspirone, amphetamines, tryptophan, and St. John's Wort) increases the risk of serotonin syndrome. |
 | Intervention: | Monitor patients for signs and symptoms of serotonin syndrome, particularly during Lexapro initiation and dosage increases. If serotonin syndrome occurs, consider discontinuation of Lexapro and/or concomitant serotonergic drugs [see Warning and Precautions (5.2)]. |
 | Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.) |  |
 | Clinical Impact: | Concomitant use of Lexapro and an antiplatelet or anticoagulant may potentiate the risk of bleeding. |

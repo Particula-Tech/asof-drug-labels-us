@@ -307,8 +307,8 @@ Renal and Urinary Disorders: acute renal failure, dysuria, urinary retention.
 
 Reproductive System and Breast Disorders: menorrhagia, priapism.
 
-Respiratory, Thoracic and Mediastinal Disorders: dyspnea, epistaxis, pulmonary embolism, pulmonary hypertension of the newborn.
+Respiratory, Thoracic and Mediastinal Disorders: anosmia, dyspnea, epistaxis, pulmonary embolism, hyposmia, pulmonary hypertension of the newborn.
 
-Skin and Subcutaneous Tissue Disorders: alopecia, angioedema, dermatitis, ecchymosis, erythema multiforme, photosensitivity reaction, Stevens Johnson Syndrome, toxic epidermal necrolysis, urticaria.
+Skin and Subcutaneous Tissue Disorders: alopecia, angioedema, dermatitis, drug reaction with eosinophilia and systemic symptoms (DRESS), ecchymosis, erythema multiforme, photosensitivity reaction, Stevens Johnson Syndrome, toxic epidermal necrolysis, urticaria.
 
 Vascular Disorders: deep vein thrombosis, flushing, hypertensive crisis, hypotension, orthostatic hypotension, phlebitis, thrombosis.

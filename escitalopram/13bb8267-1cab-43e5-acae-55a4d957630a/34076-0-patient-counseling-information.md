@@ -6,8 +6,8 @@ Suicidal Thoughts and Behaviors
 
 Advise patients, their families and caregivers to look for the emergence of suicidal ideation and behavior, especially during treatment and when the dose is adjusted up or down, and instruct them to report such symptoms to their healthcare provider [see Boxed Warning and Warnings and Precautions (5.1)].
 
-Serotonin Syndrome Caution patients about the risk of serotonin syndrome, particularly with the with the concomitant use of Lexapro with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines and St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
-Instruct patients to contact their health care provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [see Warnings and Precautions (5.2), Drug Interactions (7.1)].
+Serotonin Syndrome Caution patients about the risk of serotonin syndrome, particularly with the with the concomitant use of Lexapro with other serotonergic drugs including triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, and St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
+Instruct patients to contact their health care provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [see Warnings and Precautions (5.2), Drug Interactions (7)].
 
 Discontinuation Syndrome
 
@@ -52,4 +52,4 @@ Licensed from H. Lundbeck A/S
 ©2023 Allergan.
 All rights reserved.
 
-v4.0USPI2005
+V5.0USPI2005

@@ -9,6 +9,8 @@ Healthcare providers are encouraged to register patients by calling the National
 
 Risk Summary
 
+Based on data from published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions (5.7) and Clinical Considerations].
+
 Available data from published epidemiologic studies and postmarketing reports have not established an increased risk of major birth defects or miscarriage.
 There are risks of persistent pulmonary hypertension of the newborn (PPHN) (see Data) and poor neonatal adaptation (see Clinical Considerations) with exposure to selective serotonin reuptake inhibitors (SSRIs), including LEXAPRO, during pregnancy.
 There are risks associated with untreated depression in pregnancy (see Clinical Considerations).
@@ -26,6 +28,10 @@ Disease-associated maternal risk and/or embryo/fetal risk
 Women who discontinue antidepressants are more likely to experience a relapse of major depression than women who continue antidepressants.
 This finding is from a prospective longitudinal study of 201 pregnant women with a history of major depression, who were euthymic and taking antidepressants at the beginning of pregnancy.
 Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
+
+Maternal Adverse Reactions
+
+Use of Lexapro in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.7)].
 
 Fetal/Neonatal adverse reactions
 
