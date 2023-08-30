@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA202835"
+  ],
+  "inn": "lisdexamfetamine",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-6854-77",
+    "0378-6855-77",
+    "0378-6856-77",
+    "0378-6857-77",
+    "0378-6858-77",
+    "0378-6859-77",
+    "0378-6860-77"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "lisdexamfetamine",
+      "name": "Lisdexamfetamine Dimesylate"
+    }
+  ],
+  "setid": "efbde0f6-b848-4664-b741-c6c630e66108",
+  "source": "dailymed"
+}
