@@ -34,13 +34,13 @@ Cimetidine increased AUC by about 30% but caused no change in Cmax [see Clinical
 
 ## 7.6 Amiodarone
 
-Amiodarone, and its metabolite desethyl amiodarone, inhibitors of CYP2C9 and P-glycoprotein, increased concentrations of the S(-) enantiomer of carvedilol by at least 2 fold [see Clinical Pharmacology (12.5)].
-The concomitant administration of amiodarone or other CYP2C9 inhibitors such as fluconazole with carvedilol may enhance the β-blocking activity, resulting in further slowing of the heart rate or cardiac conduction.
+Amiodarone and its metabolite desethyl amiodarone, inhibitors of CYP2C9, and P-glycoprotein increased concentrations of the S(-) enantiomer of carvedilol by at least 2 fold [see Clinical Pharmacology (12.5)].
+The concomitant administration of amiodarone or other CYP2C9 inhibitors such as fluconazole with carvedilol may enhance the β-blocking activity resulting in further slowing of the heart rate or cardiac conduction.
 Patients should be observed for signs of bradycardia or heart block, particularly when one agent is added to pre-existing treatment with the other.
 
 ## 7.7 Calcium Channel Blockers
 
-Conduction disturbance (rarely with hemodynamic compromise) has been observed when carvedilol is co-administered with diltiazem.
+Conduction disturbance (rarely with hemodynamic compromise) has been observed when carvedilol is coadministered with diltiazem.
 As with other β-blockers, if carvedilol is administered with calcium channel blockers of the verapamil or diltiazem type, it is recommended that ECG and blood pressure be monitored.
 
 ## 7.8 Insulin or Oral Hypoglycemics

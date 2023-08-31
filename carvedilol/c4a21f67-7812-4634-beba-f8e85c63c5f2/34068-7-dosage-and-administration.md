@@ -9,7 +9,7 @@ Prior to initiation of carvedilol tablets, it is recommended that fluid retentio
 The recommended starting dose of carvedilol tablets is 3.125 mg twice daily for 2 weeks.
 If tolerated, patients may have their dose increased to 6.25, 12.5, and 25 mg twice daily over successive intervals of at least 2 weeks.
 Patients should be maintained on lower doses if higher doses are not tolerated.
-A maximum dose of 50 mg twice daily has been administered to patients with mild-to-moderate heart failure weighing over 85 kg (187 lbs).
+A maximum dose of 50 mg twice daily has been administered to patients with mild-to-moderate heart failure weighing over 85 kg (187 lbs.).
 
 Patients should be advised that initiation of treatment and (to a lesser extent) dosage increases may be associated with transient symptoms of dizziness or lightheadedness (and rarely syncope) within the first hour after dosing.
 During these periods, patients should avoid situations such as driving or hazardous tasks, where symptoms could result in injury.

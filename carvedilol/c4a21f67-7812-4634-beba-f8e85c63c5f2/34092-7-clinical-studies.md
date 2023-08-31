@@ -4,7 +4,7 @@
 
 A total of 6,975 subjects with mild to severe heart failure were evaluated in placebo-controlled trials of carvedilol.
 
-Mild-to-Moderate Heart Failure:
+Mild-to-Moderate Heart Failure
 
 Carvedilol was studied in 5 multicenter, placebo-controlled trials, and in 1 active-controlled trial (COMET trial) involving subjects with mild-to-moderate heart failure.
 
@@ -36,10 +36,10 @@ Exercise tolerance was the primary end point in 3 trials; in none was a statisti
 Subjective Measures: Health-related quality of life, as measured with a standard questionnaire (a primary end point in 1 trial), was unaffected by carvedilol.
 However, patients’ and investigators’ global assessments showed significant improvement in most trials.
 
-Mortality: Death was not a pre-specified end point in any trial, but was analyzed in all trials.
+Mortality: Death was not a pre-specified end point in any trial but was analyzed in all trials.
 Overall, in these 4 U.S. trials, mortality was reduced, nominally significantly so in 2 trials.
 
-The COMET Trial:
+The COMET Trial
 
 In this double-blind trial, 3,029 subjects with NYHA class II-IV heart failure (left ventricular ejection fraction less than or equal to 35%) were randomized to receive either carvedilol (target dose: 25 mg twice daily) or immediate-release metoprolol tartrate (target dose: 50 mg twice daily).
 The mean age of the subjects was approximately 62 years, 80% were males, and the mean left ventricular ejection fraction at baseline was 26%.
@@ -67,7 +67,7 @@ Results of COMET
 | Sudden death Death due to circulatory failure Death due to stroke | 14%11%0.9% | 17%13%2.5% | 0.810.830.33 | 0.68-0.970.67-1.020.18-0.62 |
 
 It is not known whether this formulation of metoprolol at any dose or this low dose of metoprolol in any formulation has any effect on survival or hospitalization in patients with heart failure.
-Thus, this trial extends the time over which carvedilol manifests benefits on survival in heart failure, but it is not evidence that carvedilol improves outcome over the formulation of metoprolol (TOPROL-XL®) with benefits in heart failure.
+Thus, this trial extends the time over which carvedilol manifests benefits on survival in heart failure, but it is not evidence that carvedilol improves outcome over the formulation of metoprolol (TOPROL-XL) with benefits in heart failure.
 
 Severe Heart Failure (COPERNICUS):
 
@@ -79,7 +79,7 @@ Similar numbers of subjects per group (about 100) withdrew during the titration 
 
 The primary end point of the trial was all-cause mortality, but cause-specific mortality and the risk of death or hospitalization (total, cardiovascular [CV], or heart failure [HF]) were also examined.
 The developing trial data were followed by a data monitoring committee, and mortality analyses were adjusted for these multiple looks.
-The trial was stopped after a median follow-up of 10 months because of an observed 35% reduction in mortality (from 19.7% per patient year on placebo to 12.8% on carvedilol, hazard ratio 0.65, 95% CI 0.52 to 0.81, P = 0.0014, adjusted) (see Figure 1).
+The trial was stopped after a median follow-up of 10 months because of an observed 35% reduction in mortality (from 19.7% per patient year on placebo to 12.8% on carvedilol; hazard ratio 0.65, 95% CI 0.52 to 0.81, P = 0.0014, adjusted) (see Figure 1).
 The results of COPERNICUS are shown in Table 4.
 
 Table 4.
@@ -99,7 +99,7 @@ Survival Analysis for COPERNICUS (Intent-to-Treat)
 
 The effect on mortality was principally the result of a reduction in the rate of sudden death among subjects without worsening heart failure.
 
-Patients’ global assessments, in which carvedilol-treated subjects were compared with placebo, were based on pre-specified, periodic patient self-assessments regarding whether clinical status post-treatment showed improvement, worsening or no change compared with baseline.
+Patients’ global assessments, in which carvedilol-treated subjects were compared with placebo, were based on pre-specified, periodic patient self-assessments regarding whether clinical status post-treatment showed improvement, worsening, or no change compared with baseline.
 Subjects treated with carvedilol showed significant improvements in global assessments compared with those treated with placebo in COPERNICUS.
 
 The protocol also specified that hospitalizations would be assessed.
@@ -136,7 +136,7 @@ Effects on Mortality for Subgroups in CAPRICORN
 
 ## 14.3 Hypertension
 
-Carvedilol was studied in 2 placebo-controlled trials that utilized twice-daily dosing, at total daily doses of 12.5 to 50 mg.
+Carvedilol was studied in 2 placebo-controlled trials that utilized twice-daily dosing at total daily doses of 12.5 to 50 mg.
 In these and other trials, the starting dose did not exceed 12.5 mg.
 At 50 mg per day, carvedilol reduced sitting trough (12-hour) blood pressure by about 9/5.5 mm Hg; at 25 mg per day the effect was about 7.5/3.5 mm Hg.
 Comparisons of trough to peak blood pressure showed a trough to peak ratio for blood pressure response of about 65%.

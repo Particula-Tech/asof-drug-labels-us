@@ -1,4 +1,4 @@
-# Patient Information
+# PATIENT INFORMATION
 
 Carvedilol (kar´ve dil ol) Tablets, USP
 
@@ -143,11 +143,13 @@ Manufactured by:
 
 Glenmark Pharmaceuticals Ltd. India
 
-Manufactured for: Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
+Manufactured for:
+
+Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-September 2019
+August 2023

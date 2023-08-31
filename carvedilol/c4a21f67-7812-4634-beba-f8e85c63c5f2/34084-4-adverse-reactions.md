@@ -40,7 +40,7 @@ Adverse Events (%) Occurring More Frequently with Carvedilol than with Placebo i
 
 Cardiac failure and dyspnea were also reported in these trials, but the rates were equal or greater in subjects who received placebo.
 
-The following adverse events were reported with a frequency of greater than 1% but less than or equal to 3% and more frequently with carvedilol in either the U.S. placebo-controlled trials in subjects with mild-to-moderate heart failure, or in subjects with severe heart failure in the COPERNICUS trial.
+The following adverse events were reported with a frequency of greater than 1% but less than or equal to 3% and more frequently with carvedilol in either the U.S. placebo-controlled trials in subjects with mild-to-moderate heart failure or in subjects with severe heart failure in the COPERNICUS trial.
 
 Incidence greater than 1% to less than or equal to 3%
 
@@ -58,7 +58,7 @@ Metabolic and Nutritional: Hyperuricemia, hypoglycemia, hyponatremia, increased 
 
 Musculoskeletal: Muscle cramps.
 
-Platelet, Bleeding and Clotting: Prothrombin decreased, purpura, thrombocytopenia.
+Platelet, Bleeding, and Clotting: Prothrombin decreased, purpura, thrombocytopenia.
 
 Psychiatric: Somnolence.
 
@@ -152,12 +152,12 @@ No clinically relevant changes were noted in fasting serum glucose in hypertensi
 The following adverse reactions have been identified during post-approval use of carvedilol.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic System Disorders: Aplastic anemia.
+Blood and Lymphatic System Disorders Aplastic anemia.
 
-Immune System Disorders: Hypersensitivity (e.g., anaphylactic reactions, angioedema, urticaria).
+Immune System Disorders Hypersensitivity (e.g., anaphylactic reactions, angioedema, urticaria).
 
-Renal and Urinary Disorders: Urinary incontinence.
+Renal and Urinary Disorders Urinary incontinence.
 
-Respiratory, Thoracic and Mediastinal Disorders: Interstitial pneumonitis.
+Respiratory, Thoracic, and Mediastinal Disorders Interstitial pneumonitis.
 
-Skin and Subcutaneous Tissue Disorders: Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme.
+Skin and Subcutaneous Tissue Disorders Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme.

@@ -30,10 +30,10 @@ Hypertension
 
 The mechanism by which β-blockade produces an antihypertensive effect has not been established.
 
-β-adrenoreceptor blocking activity has been demonstrated in animal and human studies showing that carvedilol (1) reduces cardiac output in normal subjects; (2) reduces exercise and/or isoproterenol-induced tachycardia; and (3) reduces reflex orthostatic tachycardia.
+β-adrenoreceptor blocking activity has been demonstrated in animal and human studies showing that carvedilol (1) reduces cardiac output in normal subjects, (2) reduces exercise and/or isoproterenol-induced tachycardia, and (3) reduces reflex orthostatic tachycardia.
 Significant β-adrenoreceptor blocking effect is usually seen within 1 hour of drug administration.
 
-α1-adrenoreceptor blocking activity has been demonstrated in human and animal studies, showing that carvedilol (1) attenuates the pressor effects of phenylephrine; (2) causes vasodilation; and (3) reduces peripheral vascular resistance.
+α1-adrenoreceptor blocking activity has been demonstrated in human and animal studies, showing that carvedilol (1) attenuates the pressor effects of phenylephrine, (2) causes vasodilation, and (3) reduces peripheral vascular resistance.
 These effects contribute to the reduction of blood pressure and usually are seen within 30 minutes of drug administration.
 
 Due to the α1-receptor blocking activity of carvedilol, blood pressure is lowered more in the standing than in the supine position, and symptoms of postural hypotension (1.8%), including rare instances of syncope, can occur.
@@ -54,7 +54,7 @@ When administered with food, the rate of absorption is slowed, as evidenced by a
 Taking carvedilol with food should minimize the risk of orthostatic hypotension.
 
 Carvedilol is extensively metabolized.
-Following oral administration of radiolabelled carvedilol to healthy volunteers, carvedilol accounted for only about 7% of the total radioactivity in plasma as measured by area under the curve (AUC).
+Following oral administration of radiolabeled carvedilol to healthy volunteers, carvedilol accounted for only about 7% of the total radioactivity in plasma as measured by area under the curve (AUC).
 Less than 2% of the dose was excreted unchanged in the urine.
 Carvedilol is metabolized primarily by aromatic ring oxidation and glucuronidation.
 The oxidative metabolites are further metabolized by conjugation via glucuronidation and sulfation.
