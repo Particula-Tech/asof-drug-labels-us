@@ -2,13 +2,15 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0642-55
 
-LAMICTAL®
+LAMICTAL
 
 (LAMOTRIGINE)
 
 TABLETS
 
 100 mg
+
+GSK
 
 CAUTION: Verify Product Dispensed
 
@@ -22,7 +24,7 @@ See Prescribing Information for dosage information.
 
 Store at 25oC (77oF); excursions 15 to 30oC (59 to 86oF) [see USP Controlled Room Temperature] in a dry place and protect from light.
 
-Do not accept if printed seal under cap is missing or broken.
+Do not accept if safety seal under cap is missing or broken.
 
 Dispense in a tight, light-resistant container as defined in the USP.
 
@@ -30,27 +32,33 @@ Distributed by
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
 Made in India
 
+Trademark owned or licensed by GSK.
+
+©2023 GSK group of companies or its licensor.
+
 Rx only
 
-1. 10000000146191 Rev.
-   5/17
+1. A087386 (62000000087386) Rev.
+   4/23
 2. 
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0643-60
 
-LAMICTAL®
+LAMICTAL
 
 (LAMOTRIGINE)
 
 TABLETS
 
 150 mg
+
+GSK
 
 CAUTION: Verify Product Dispensed
 
@@ -64,7 +72,7 @@ See Prescribing Information for dosage information.
 
 Store at 25oC (77oF); excursions 15-30oC (59-86oF) [see USP Controlled Room Temperature] in a dry place and protect from light.
 
-Do not accept if printed seal under cap is missing or broken.
+Do not accept if safety seal under cap is missing or broken.
 
 Dispense in a tight, light-resistant container as defined in the USP.
 
@@ -72,27 +80,33 @@ Distributed by
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
 Made in India
 
+Trademark owned or licensed by GSK.
+
+©2023 GSK group of companies or its licensor.
+
 Rx only
 
-1. 10000000143541 Rev.
-   9/16
+1. A086833 (62000000086833) Rev.
+   4/23
 2. 
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0644-60
 
-LAMICTAL®
+LAMICTAL
 
 (LAMOTRIGINE)
 
 TABLETS
 
 200 mg
+
+GSK
 
 CAUTION: Verify Product Dispensed
 
@@ -106,7 +120,7 @@ See Prescribing Information for dosage information.
 
 Store at 25oC (77oF); excursions 15 to 30oC (59 to 86oF) [see USP Controlled Room Temperature] in a dry place and protect from light.
 
-Do not accept if printed seal under cap is missing or broken.
+Do not accept if safety seal under cap is missing or broken.
 
 Dispense in a tight, light-resistant container as defined in the USP.
 
@@ -114,25 +128,31 @@ Distributed by
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
 Made in India
 
+Trademark owned or licensed by GSK.
+
+©2023 GSK group of companies or its licensor.
+
 Rx only
 
-1. 10000000146195 Rev.
-   4/17
+1. A0868332 (62000000086832) Rev.
+   4/23
 2. 
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0633-10
 
-LAMICTAL®
+LAMICTAL
 
 (LAMOTRIGINE)
 
 TABLETS
+
+GSK
 
 RX ONLY
 
@@ -162,20 +182,22 @@ Do not use if blisters are torn, broken, or missing.
 
 Made in India
 
-©2017 the GSK group of companies
+©2023 GSK group of companies or its licensor
 
-1. 546716-01 Rev.11/17
+1. 546716-02 Rev.6/23
 2. 
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0817-28
 
-LAMICTAL®
+LAMICTAL
 
 (LAMOTRIGINE)
 
 TABLETS
+
+GSK
 
 RX ONLY
 
@@ -209,21 +231,23 @@ Do not use if blisters are torn, broken, or missing.
 
 Made in India
 
-©2017 the GSK group of companies
+©2023 GSK group of companies or its licensor
 
-1. 546714-01 Rev.
-   11/17
+1. 546714-02 Rev.
+   6/23
 2. 
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0594-02
 
-LAMICTAL®
+LAMICTAL
 
 (LAMOTRIGINE)
 
 TABLETS
+
+GSK
 
 RX ONLY
 
@@ -257,10 +281,10 @@ Do not use if blisters are torn, broken, or missing.
 
 Made in India
 
-©2017 the GSK group of companies
+©2023 the GSK group of companies
 
-1. 546718-01 Rev.
-   11/17
+1. 546718-02 Rev.
+   6/23
 2. 
 
 PRINCIPAL DISPLAY PANEL
@@ -275,6 +299,8 @@ TABLETS FOR ORAL SUSPENSION
 
 2 mg
 
+GSK
+
 CAUTION: Verify Product Dispensed
 
 30 Tablets
@@ -288,20 +314,28 @@ See Prescribing Information for dosage information.
 
 Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature] in a dry place.
 
-Do not accept if printed seal under cap is missing or broken.
+Do not accept if membrane seal under cap is missing or broken.
 
 Dispense in a tight, light-resistant container as defined in the USP.
 
 Distributed by
 
-GlaxoSmithKline, RTP, NC 27709
+GlaxoSmithKline
+
+Durham, NC 27701
 
 Made in India
 
+Trademark owned or licensed by GSK.
+
+©2023 GSK group of companies or its licensor.
+
 Rx only
 
-1. 62000000058470 Rev.
-   11/20
+- Rev.
+  2/23
+
+1. A086205 (62000000086205)
 2. 
 
 PRINCIPAL DISPLAY PANEL
@@ -316,6 +350,8 @@ TABLETS FOR ORAL SUSPENSION
 
 5 mg
 
+GSK
+
 CAUTION: Verify Product Dispensed
 
 100 Tablets
@@ -329,20 +365,28 @@ See Prescribing Information for dosage information.
 
 Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature] in a dry place.
 
-Do not accept if printed seal under cap is missing or broken.
+Do not accept if membrane seal under cap is missing or broken.
 
 Dispense in a tight, light-resistant container as defined in the USP.
 
 Distributed by
 
-GlaxoSmithKline, RTP, NC 27709
+GlaxoSmithKline
+
+Durham, NC 27701
 
 Made in India
 
+Trademark owned or licensed by GSK.
+
+©2023 GSK group of companies or its licensor.
+
 Rx only
 
-1. 62000000058469 Rev.
-   11/20
+- Rev.
+  2/23
+
+1. A086204 (62000000086204)
 2. 
 
 PRINCIPAL DISPLAY PANEL
@@ -357,6 +401,8 @@ TABLETS FOR ORAL SUSPENSION
 
 25 mg
 
+GSK
+
 CAUTION: Verify Product Dispensed
 
 100 Tablets
@@ -370,34 +416,45 @@ See Prescribing Information for dosage information.
 
 Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature] in a dry place.
 
-Do not accept if printed seal under cap is missing or broken.
+Do not accept if membrane seal under cap is missing or broken.
 
 Dispense in a tight, light-resistant container as defined in the USP.
 
 Distributed by
 
-GlaxoSmithKline, RTP, NC 27709
+GlaxoSmithKline
+
+Durham, NC 27701
 
 Made in India
 
+Trademark owned or licensed by GSK.
+
+©2023 GSK group of companies or its licensor.
+
 Rx only
 
-1. 62000000058472 Rev.
-   11/20
+- Rev.
+  2/23
+- A086207 (62000000086207)
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0772-02
 
-LAMICTAL ODT®
+LAMICTAL ODT
 
 (LAMOTRIGINE)
 
 ORALLY DISINTEGRATING TABLETS
 
+25 mg
+
 Rx only
 
 Maintenance Pack
+
+GSK
 
 25 mg
 
@@ -413,31 +470,35 @@ CAUTION: Verify Product Dispensed
 
 Made in India
 
-©2017 the GSK group of companies
+©2023 GSK group of companies or its licensor
 
-1. 10000000146533 Rev.
-   7/17
+1. 547954-02 Rev.
+   6/23
 2. 
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0774-02
 
-LAMICTAL ODT®
+LAMICTAL ODT
 
 (LAMOTRIGINE)
 
 ORALLY DISINTEGRATING TABLETS
 
+50 mg
+
 Rx only
 
 Maintenance Pack
+
+GSK
 
 50 mg
 
 30 Tablets
 
-This Maintenance Pack is intended for patients already taking LAMICTAL.
+This Maintenance Pack is intended for patients already taking LAMICTAL
 
 NOT for initial titration.
 
@@ -447,25 +508,29 @@ CAUTION: Verify Product Dispensed
 
 Made in India
 
-©2017 the GSK group of companies
+©2023 GSK group of companies or its licensor
 
-1. 10000000146531 Rev.
-   7/17
+1. 547955-02 Rev.
+   6/23
 2. 
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0776-02
 
-LAMICTAL ODT®
+LAMICTAL ODT
 
 (LAMOTRIGINE)
 
 ORALLY DISINTEGRATING TABLETS
 
+100 mg
+
 Rx only
 
 Maintenance Pack
+
+GSK
 
 100 mg
 
@@ -481,25 +546,29 @@ CAUTION: Verify Product Dispensed
 
 Made in India
 
-©2017 the GSK group of companies
+©2023 GSK group of companies or its licensor
 
-1. 10000000146532 Rev.
-   7/17
+1. 547956-02 Rev.
+   6/23
 2. 
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0777-02
 
-LAMICTAL ODT®
+LAMICTAL ODT
 
 (LAMOTRIGINE)
 
 ORALLY DISINTEGRATING TABLETS
 
+200 mg
+
 Rx only
 
 Maintenance Pack
+
+GSK
 
 200 mg
 
@@ -515,17 +584,17 @@ CAUTION: Verify Product Dispensed
 
 Made in India
 
-©2017 the GSK group of companies
+©2023 GSK group of companies or its licensor
 
-1. 10000000146534 Rev.
-   7/17
+1. 547957-02 Rev.
+   6/23
 2. 
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0779-00
 
-LAMICTAL ODT®
+LAMICTAL ODT
 
 (LAMOTRIGINE)
 
@@ -557,18 +626,18 @@ CAUTION: Verify Product Dispensed
 
 Do not use if blisters are torn, broken, or missing.
 
-©2017 the GSK group of companies
+©2023 GSK group of companies or its licensor
 
 Rev.
-7/17
+6/23
 
-10000000146500
+548811-02
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0780-00
 
-LAMICTAL ODT®
+LAMICTAL ODT
 
 (LAMOTRIGINE)
 
@@ -577,6 +646,8 @@ ORALLY DISINTEGRATING TABLETS
 RX only
 
 Patient Titration Kit
+
+GSK
 
 For patients TAKING carbamazepine, phenytoin, phenobarbital, or primidone, and NOT TAKING valproate*
 
@@ -600,18 +671,18 @@ CAUTION: Verify Product Dispensed
 
 Do not use if blisters are torn, broken, or missing.
 
-©2017 the GSK group of companies
+©2023 GSK group of companies or its licensor
 
 Rev.
-7/17
+6/23
 
-10000000146535
+548810-02
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0778-00
 
-LAMICTAL ODT®
+LAMICTAL ODT
 
 (LAMOTRIGINE)
 
@@ -620,6 +691,8 @@ ORALLY DISINTEGRATING TABLETS
 RX ONLY
 
 Patient Titration Kit
+
+GSK
 
 For patients NOT TAKING carbamazepine, phenytoin, phenobarbital, primidone, or valproate*
 
@@ -644,9 +717,9 @@ CAUTION: Verify Product Dispensed
 
 Do not use if blisters are torn, broken, or missing.
 
-©2017 the GSK group of companies
+©2023 GSK group of companies or its licensor
 
 Rev.
-7/17
+6/23
 
-10000000146499
+548809-02
