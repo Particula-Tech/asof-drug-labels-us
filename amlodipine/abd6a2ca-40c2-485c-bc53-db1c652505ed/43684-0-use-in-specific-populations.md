@@ -42,7 +42,7 @@ There is no available information on the effects of amlodipine on milk productio
 
 NORVASC (2.5 to 5 mg daily) is effective in lowering blood pressure in patients 6 to 17 years [see Clinical Studies (14.1)].
 
-Effect of NORVASC on blood pressure in patients less than 6 years of age is not known.
+1. Effect of NORVASC on blood pressure in patients less than 6 years of age is not known.
 
 ## 8.5 Geriatric Use
 
