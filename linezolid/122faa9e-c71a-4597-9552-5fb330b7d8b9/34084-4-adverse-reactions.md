@@ -118,7 +118,7 @@ Serum Chemistry Laboratory Value in Comparator-Controlled Clinical Trials with Z
 | Creatinine (mg/dL) | 0.2 | 0.0 | 0.2 | 0.6 |
 
 Table 6.
-Percent of Pediatric Patients who Experienced at Least One Substantially Abnormal<75% (<50% for neutrophils) of Lower Limit of Normal (LLN) for values normal at baseline; <75% (<50% for neutrophils) of LLN and <75% (<50% for neutrophils, <90% for hemoglobin if baseline <LLN) of baseline for values abnormal at baseline.
+Percent of Pediatric Patients who Experienced at Least One Substantially Abnormal<75% (<50% for neutrophils) of Lower Limit of Normal (LLN) for values normal at baseline; < 75% (<50% for neutrophils) of LLN and <75% (<50% for neutrophils, <90% for hemoglobin if baseline <LLN) of baseline for values abnormal at baseline.
 Hematology Laboratory Value in Comparator-Controlled Clinical Trials with ZYVOX
 
 |  | ZYVOX | Cefadroxil | ZYVOX | Vancomycin |
@@ -147,14 +147,15 @@ Serum Chemistry Laboratory Value in Comparator-Controlled Clinical Trials with Z
 The following adverse reactions have been identified during postapproval use of ZYVOX.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure;
 
-- Myelosuppression (including anemia, leukopenia, pancytopenia, and thrombocytopenia) [see Warnings and Precautions (5.1)]; sideroblastic anemia.
-- Peripheral neuropathy, and optic neuropathy sometimes progressing to loss of vision [see Warnings and Precautions (5.2)].
-- Lactic acidosis [see Warnings and Precautions (5.7)].
+- •Myelosuppression (including anemia, leukopenia, pancytopenia, and thrombocytopenia).
+  Thrombocytopenia has been reported more often in patients with severe renal impairment and in patients with moderate to severe hepatic impairment [see Warnings and Precautions (5.1)]; sideroblastic anemia.
+- •Peripheral neuropathy, and optic neuropathy sometimes progressing to loss of vision [see Warnings and Precautions (5.2)].
+- •Lactic acidosis [see Warnings and Precautions (5.7)].
   Although these reports have primarily been in patients treated for longer than the maximum recommended duration of 28 days, these events have also been reported in patients receiving shorter courses of therapy.
-- Serotonin syndrome has been reported in patients receiving concomitant serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs) and opioids, and ZYVOX [see Warnings and Precautions (5.3)].
-- Convulsions [see Warnings and Precautions (5.8)].
-- Anaphylaxis, angioedema, bullous skin disorders including severe cutaneous adverse reactions (SCAR) such as toxic epidermal necrolysis and Stevens-Johnson syndrome, and hypersensitivity vasculitis.
-- Superficial tooth discoloration and tongue discoloration have been reported with the use of linezolid.
+- •Serotonin syndrome has been reported in patients receiving concomitant serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs) and opioids, and ZYVOX [see Warnings and Precautions (5.3)].
+- •Convulsions [see Warnings and Precautions (5.8)].
+- •Anaphylaxis, angioedema, bullous skin disorders including severe cutaneous adverse reactions (SCAR) such as toxic epidermal necrolysis and Stevens-Johnson syndrome, and hypersensitivity vasculitis.
+- •Superficial tooth discoloration and tongue discoloration have been reported with the use of linezolid.
   The tooth discoloration was removable with professional dental cleaning (manual descaling) in cases with known outcome.
-- Hypoglycemia, including symptomatic episodes [see Warnings and Precautions (5.9)].
-- Hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH) [see Warnings and Precautions (5.10)].
+- •Hypoglycemia, including symptomatic episodes [see Warnings and Precautions (5.9)].
+- •Hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH) [see Warnings and Precautions (5.10)].
