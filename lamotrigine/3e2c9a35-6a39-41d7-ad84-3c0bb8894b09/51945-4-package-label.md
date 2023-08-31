@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0754-00
 
-LAMICTAL® XRTM
+LAMICTAL XR
 
 (LAMOTRIGINE)
 
@@ -10,7 +10,7 @@ EXTENDED-RELEASE TABLETS
 
 25 mg
 
-Once A Day
+Once A Day • LAMICTAL XR • Once a Day • LAMICTAL XR
 
 RX only
 
@@ -22,26 +22,30 @@ Dispense the accompanying Medication Guide to each patient.
 
 See prescribing information for dosage information.
 
-Do not use if printed safety seal under cap is broken or missing.
+Do not accept if safety seal under cap is missing or broken.
 
 Store at 25oC (77oF); excursions permitted to 15oC to 30oC (59oF to 86oF) [see USP Controlled Room Temperature].
 
 GlaxoSmithKline
 
-RTP, NC 27709
+Durham, NC 27701
 
 Made in India
 
-Rev.
-5/17
+Trademark owned or licensed by GSK.
 
-10000000146294
+©2023 GSK group of companies or its licensor.
+
+Rev.
+5/23
+
+A087133 (62000000087133)
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0755-00
 
-LAMICTAL® XRTM
+LAMICTAL XR
 
 (LAMOTRIGINE)
 
@@ -49,7 +53,7 @@ EXTENDED-RELEASE TABLETS
 
 50 mg
 
-Once A Day
+Once A Day • LAMICTAL XR • Once a Day • LAMICTAL XR
 
 Rx only
 
@@ -61,26 +65,30 @@ Dispense the accompanying Medication Guide to each patient.
 
 See prescribing information for dosage information.
 
-Do not use if printed safety seal under cap is broken or missing.
+Do not accept if safety seal under cap is missing or broken.
 
 Store at 25oC (77oF); excursions permitted to 15oC to 30oC (59oF to 86oF) [see USP Controlled Room Temperature].
 
 GlaxoSmithKline
 
-RTP, NC 27709
+Durham, NC 27701
 
 Made in India
 
-Rev.
-5/17
+Trademark owned or licensed by GSK.
 
-10000000146295
+©2023 GSK group of companies or its licensor.
+
+Rev.
+5/23
+
+A087136 (62000000087136)
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0756-00
 
-LAMICTAL® XRTM
+LAMICTAL XR
 
 (LAMOTRIGINE)
 
@@ -88,7 +96,7 @@ EXTENDED-RELEASE TABLETS
 
 100 mg
 
-Once A Day
+Once A Day • LAMICTAL XR • Once a Day • LAMICTAL XR
 
 Rx only
 
@@ -100,26 +108,30 @@ Dispense the accompanying Medication Guide to each patient.
 
 See prescribing information for dosage information.
 
-Do not use if printed safety seal under cap is broken or missing.
+Do not accept if safety seal under cap is missing or broken.
 
 Store at 25oC (77oF); excursions permitted to 15oC to 30oC (59oF to 86oF) [see USP Controlled Room Temperature].
 
 GlaxoSmithKline
 
-RTP, NC 27709
+Durham, NC 27701
 
 Made in India
 
-Rev.
-4/17
+Trademark owned or licensed by GSK.
 
-10000000146292
+©2023 GSK group of companies or its licensor.
+
+Rev.
+5/23
+
+A087132 (62000000087132)
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0757-00
 
-LAMICTAL® XRTM
+LAMICTAL XR
 
 (LAMOTRIGINE)
 
@@ -127,7 +139,7 @@ EXTENDED-RELEASE TABLETS
 
 200 mg
 
-Once A Day
+Once A Day • LAMICTAL XR • Once a Day • LAMICTAL XR
 
 Rx only
 
@@ -139,26 +151,30 @@ Dispense the accompanying Medication Guide to each patient.
 
 See prescribing information for dosage information.
 
-Do not use if printed safety seal under cap is broken or missing.
+Do not accept if safety seal under cap is missing or broken.
 
 Store at 25oC (77oF); excursions permitted to 15oC to 30oC (59oF to 86oF) [see USP Controlled Room Temperature].
 
 GlaxoSmithKline
 
-RTP, NC 27709
+Durham, NC 27701
 
 Made in India
 
-Rev.
-4/17
+Trademark owned or licensed by GSK.
 
-10000000146293
+©2023 GSK group of companies or its licensor.
+
+Rev.
+5/23
+
+A087135 (62000000087135)
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0781-00
 
-LAMICTAL® XRTM
+LAMICTAL XR
 
 (LAMOTRIGINE)
 
@@ -166,7 +182,7 @@ EXTENDED- RELEASE TABLETS
 
 250 mg
 
-Once A Day
+Once A Day • LAMICTAL XR • Once a Day • LAMICTAL XR
 
 Rx only
 
@@ -178,26 +194,30 @@ Dispense the accompanying Medication Guide to each patient.
 
 See prescribing information for dosage information.
 
-Do not use if printed safety seal under cap is broken or missing.
+Do not accept if safety seal under cap is missing or broken.
 
 Store at 25oC (77oF); excursions permitted to 15oC to 30oC (59oF to 86oF) [see USP Controlled Room Temperature].
 
 GlaxoSmithKline
 
-RTP, NC 27709
+Durham, NC 27701
 
 Made in India
 
-Rev.
-4/17
+Trademark owned or licensed by GSK.
 
-10000000146235
+©2023 GSK group of companies or its licensor.
+
+Rev.
+5/23
+
+A087134 (62000000087134)
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0761-00
 
-LAMICTAL® XRTM
+LAMICTAL XR
 
 (LAMOTRIGINE)
 
@@ -205,7 +225,7 @@ EXTENDED- RELEASE TABLETS
 
 300 mg
 
-Once A Day
+Once A Day • LAMICTAL XR • Once a Day • LAMICTAL XR
 
 Rx only
 
@@ -217,30 +237,36 @@ Dispense the accompanying Medication Guide to each patient.
 
 See prescribing information for dosage information.
 
-Do not use if printed safety seal under cap is broken or missing.
+Do not accept if safety seal under cap is missing or broken.
 
 Store at 25oC (77oF); excursions permitted to 15oC to 30oC (59oF to 86oF) [see USP Controlled Room Temperature].
 
 GlaxoSmithKline
 
-RTP, NC 27709
+Durham, NC 27701
 
 Made in India
 
-Rev.
-5/17
+Trademark owned or licensed by GSK.
 
-10000000146291
+©2023 GSK group of companies or its licensor.
+
+Rev.
+5/23
+
+A087131 (62000000087131)
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0758-00
 
-LAMICTAL® XRTM
+LAMICTALXR
 
 (LAMOTRIGINE)
 
 EXTENDED-RELEASE TABLETS
+
+LAMICTALXR • LAMICTAL XR • LAMICTAL XR • LAMICTAL XR
 
 Rx only
 
@@ -270,26 +296,25 @@ Dispense the accompanying Medication Guide to each patient.
 
 CAUTION: Verify Product Dispensed
 
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
 Made in India
 
-©2017 the GSK group of companies
+©2023 GSK group of companies or its licensor
 
-1. 546721-01 Rev.
-   11/17
+1. 546721-02 Rev.
+   6/23
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0759-00
 
-LAMICTAL® XRTM
+LAMICTAL XR
 
 (LAMOTRIGINE)
 
 EXTENDED-RELEASE TABLETS
+
+LAMICTALXR • LAMICTAL XR • LAMICTAL XR • LAMICTAL XR
 
 Rx only
 
@@ -325,20 +350,23 @@ CAUTION: Verify Product Dispensed
 
 Made in India
 
-©2017 the GSK group of companies
+©2023 GSK group of companies or its licensor
 
-1. 546720-01 Rev.
-   11/17
+1. 546720-02 Rev.
+   5/23
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0760-00
 
-LAMICTAL® XRTM
+LAMICTAL XR
 
 (LAMOTRIGINE)
 
 EXTENDED-RELEASE TABLETS
+
+LAMICTALXR • LAMICTAL XR • LAMICTAL XR • LAMICTAL XR
 
 Rx only
 
@@ -374,7 +402,8 @@ CAUTION: Verify Product Dispensed
 
 Made in India
 
-©2017 the GSK group of companies
+©2023 GSK group of companies or its licensor
 
-1. 546722-01 Rev.
-   11/17
+1. 546722-02 Rev.
+   5/23
+2. 
