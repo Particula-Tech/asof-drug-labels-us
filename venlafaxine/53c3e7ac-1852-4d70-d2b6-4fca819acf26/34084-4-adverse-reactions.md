@@ -2,20 +2,20 @@
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- Hypersensitivity [see Contraindications (4)]
-- Suicidal Thoughts and Behaviors in Adolescents and Young Adults [see Warnings and Precautions (5.1)]
-- Serotonin Syndrome [see Warnings and Precautions (5.2)]
-- Elevated Blood Pressure [see Warnings and Precautions (5.3)]
-- Increased Risk of Bleeding [see Warnings and Precautions (5.4)]
-- Angle-Closure Glaucoma [see Warnings and Precautions (5.5)]
-- Activation of Mania/Hypomania [see Warnings and Precautions (5.6)]
-- Discontinuation Syndrome [see Warnings and Precautions (5.7)]
-- Seizure [see Warnings and Precautions (5.8)]
-- Hyponatremia [see Warnings and Precautions (5.9)]
-- Weight and Height changes in Pediatric Patients [see Warnings and Precautions (5.10)]
-- Appetite Changes in Pediatric Patients [see Warnings and Precautions (5.11)]
-- Interstitial Lung Disease and Eosinophilic Pneumonia [see Warnings and Precautions (5.12)]
-- Sexual Dysfunction [see Warnings and Precautions (5.13)]
+- •Hypersensitivity [see Contraindications (4)]
+- •Suicidal Thoughts and Behaviors in Adolescents and Young Adults [see Warnings and Precautions (5.1)]
+- •Serotonin Syndrome [see Warnings and Precautions (5.2)]
+- •Elevated Blood Pressure [see Warnings and Precautions (5.3)]
+- •Increased Risk of Bleeding [see Warnings and Precautions (5.4)]
+- •Angle-Closure Glaucoma [see Warnings and Precautions (5.5)]
+- •Activation of Mania/Hypomania [see Warnings and Precautions (5.6)]
+- •Discontinuation Syndrome [see Warnings and Precautions (5.7)]
+- •Seizure [see Warnings and Precautions (5.8)]
+- •Hyponatremia [see Warnings and Precautions (5.9)]
+- •Weight and Height changes in Pediatric Patients [see Warnings and Precautions (5.10)]
+- •Appetite Changes in Pediatric Patients [see Warnings and Precautions (5.11)]
+- •Interstitial Lung Disease and Eosinophilic Pneumonia [see Warnings and Precautions (5.12)]
+- •Sexual Dysfunction [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Studies Experience
 

@@ -47,7 +47,7 @@ Effexor XR® (venlafaxine HCl) Extended-Release Capsules
 
 # PRINCIPAL DISPLAY PANEL - 75 mg Capsule Blister Pack
 
-Effexor XR® (venlafaxine HCl) Extended-Release Capsules 75 mg
+1. Effexor XR® (venlafaxine HCl) Extended-Release Capsules 75 mg
 
 Wyeth® Phila.
 PA 19101

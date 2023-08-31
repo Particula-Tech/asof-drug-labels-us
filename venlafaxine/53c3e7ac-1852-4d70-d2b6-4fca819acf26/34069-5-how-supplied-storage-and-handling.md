@@ -2,17 +2,17 @@
 
 Effexor XR® is available as:
 
-- 37.5 mg, grey cap/peach body with "W" and "Effexor XR" on the cap and "37.5" on the body.
+- •37.5 mg, grey cap/peach body with "W" and "Effexor XR" on the cap and "37.5" on the body.
   NDC 0008-0837-20, bottle of 15 capsules in unit-of-use package.
   NDC 0008-0837-21, bottle of 30 capsules in unit-of-use package.
   NDC 0008-0837-22, bottle of 90 capsules in unit-of-use package.
   NDC 0008-0837-03, carton of 10 Redipak® blister strips of 10 capsules each.
-- 75 mg, peach cap and body with "W" and "Effexor XR" on the cap and "75" on the body.
+- •75 mg, peach cap and body with "W" and "Effexor XR" on the cap and "75" on the body.
   NDC 0008-0833-20, bottle of 15 capsules in unit-of-use package.
   NDC 0008-0833-21, bottle of 30 capsules in unit-of-use package.
   NDC 0008-0833-22, bottle of 90 capsules in unit-of-use package.
   NDC 0008-0833-03, carton of 10 Redipak® blister strips of 10 capsules each.
-- 150 mg, dark orange cap and body with "W" and "Effexor XR" on the cap and "150" on the body.
+- •150 mg, dark orange cap and body with "W" and "Effexor XR" on the cap and "150" on the body.
   NDC 0008-0836-20, bottle of 15 capsules in unit-of-use package.
   NDC 0008-0836-21, bottle of 30 capsules in unit-of-use package.
   NDC 0008-0836-22, bottle of 90 capsules in unit-of-use package.
