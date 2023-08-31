@@ -2,18 +2,18 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the label.
 
-- Hypersensitivity [see Contraindications (4)]
-- Suicidal Thoughts and Behaviors in Pediatric and Young Adult Patients [see Warnings and Precautions (5.1)]
-- Serotonin Syndrome [see Warnings and Precautions (5.2)]
-- Elevated Blood Pressure [see Warnings and Precautions (5.3)]
-- Increased Risk of Bleeding [see Warnings and Precautions (5.4)]
-- Angle Closure Glaucoma [see Warnings and Precautions (5.5)]
-- Activation of Mania/Hypomania [see Warnings and Precautions (5.6)]
-- Discontinuation Syndrome [see Warnings and Precautions (5.7)]
-- Seizure [see Warnings and Precautions (5.8)]
-- Hyponatremia [see Warnings and Precautions (5.9)]
-- Interstitial Lung Disease and Eosinophilic Pneumonia [see Warnings and Precautions (5.10)]
-- Sexual Dysfunction [see Warnings and Precautions (5.11)]
+- •Hypersensitivity [see Contraindications (4)]
+- •Suicidal Thoughts and Behaviors in Pediatric and Young Adult Patients [see Warnings and Precautions (5.1)]
+- •Serotonin Syndrome [see Warnings and Precautions (5.2)]
+- •Elevated Blood Pressure [see Warnings and Precautions (5.3)]
+- •Increased Risk of Bleeding [see Warnings and Precautions (5.4)]
+- •Angle Closure Glaucoma [see Warnings and Precautions (5.5)]
+- •Activation of Mania/Hypomania [see Warnings and Precautions (5.6)]
+- •Discontinuation Syndrome [see Warnings and Precautions (5.7)]
+- •Seizure [see Warnings and Precautions (5.8)]
+- •Hyponatremia [see Warnings and Precautions (5.9)]
+- •Interstitial Lung Disease and Eosinophilic Pneumonia [see Warnings and Precautions (5.10)]
+- •Sexual Dysfunction [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -206,3 +206,5 @@ Skin and subcutaneous tissue disorders – Stevens-Johnson syndrome
 Gastrointestinal disorders – Pancreatitis acute
 
 Cardiovascular system – Takotsubo cardiomyopathy
+
+Respiratory, thoracic and mediastinal disorders - Anosmia, hyposmia

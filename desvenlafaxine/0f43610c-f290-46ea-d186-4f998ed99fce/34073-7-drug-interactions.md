@@ -7,12 +7,12 @@ Table 8: Clinically Important Drug Interactions with PRISTIQ
 | Monoamine Oxidase Inhibitors (MAOI) |  |
 | --- | --- |
 | Clinical Impact | The concomitant use of SSRIs and SNRIs including PRISTIQ with MAOIs increases the risk of serotonin syndrome. |
-| Intervention | Concomitant use of PRISTIQ is contraindicated: With an MAOI intended to treat psychiatric disorders or within 7 days of stopping treatment with PRISTIQ.Within 14 days of stopping an MAOI intended to treat psychiatric disorders.In a patient who is being treated with linezolid or intravenous methylene blue. [see Dosage and Administration (2.7), Contraindications (4) and Warnings and Precautions (5.2)]. |
+| Intervention | Concomitant use of PRISTIQ is contraindicated: •With an MAOI intended to treat psychiatric disorders or within 7 days of stopping treatment with PRISTIQ.•Within 14 days of stopping an MAOI intended to treat psychiatric disorders.•In a patient who is being treated with linezolid or intravenous methylene blue. [see Dosage and Administration (2.7), Contraindications (4) and Warnings and Precautions (5.2)]. |
 | Examples | selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, methylene blue |
 | Other Serotonergic Drugs |  |
 | Clinical Impact | Concomitant use of PRISTIQ with other serotonergic drugs increases the risk of serotonin syndrome. |
 | Intervention | Monitor for symptoms of serotonin syndrome when PRISTIQ is used concomitantly with other drugs that may affect the serotonergic neurotransmitter systems. If serotonin syndrome occurs, consider discontinuation of PRISTIQ and/or concomitant serotonergic drugs [see Warnings and Precautions (5.2)]. |
-| Examples | other SNRIs, SSRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, amphetamines, tryptophan, and St. John's Wort |
+| Examples | other SNRIs, SSRIs, triptans, tricyclic antidepressants, opioids, lithium, buspirone, amphetamines, tryptophan, and St. John's Wort |
 | Drugs that Interfere with Hemostasis |  |
 | Clinical Impact | Concomitant use of PRISTIQ with an antiplatelet or anticoagulant drug may potentiate the risk of bleeding. This may be due to the effect of PRISTIQ on the release of serotonin by platelets. |
 | Intervention | Closely monitor for bleeding for patients receiving an antiplatelet or anticoagulant drug when PRISTIQ is initiated or discontinued [see Warnings and Precautions (5.4)]. |

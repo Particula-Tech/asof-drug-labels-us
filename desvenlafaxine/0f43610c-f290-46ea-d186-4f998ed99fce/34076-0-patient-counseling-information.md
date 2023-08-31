@@ -13,7 +13,7 @@ Healthcare professionals should instruct patients not to take PRISTIQ with an MA
 
 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of PRISTIQ with other serotonergic agents (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, amphetamines, tryptophan, buspirone, and St. John's Wort supplements) [see Warnings and Precautions (5.2)].
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of PRISTIQ with other serotonergic agents (including triptans, tricyclic antidepressants, opioids, lithium, amphetamines, tryptophan, buspirone, and St. John's Wort supplements) [see Warnings and Precautions (5.2)].
 
 Elevated Blood Pressure
 
@@ -49,7 +49,7 @@ Caution patients about operating hazardous machinery, including automobiles, unt
 
 Alcohol
 
-Advise patients to avoid alcohol while taking PRISTIQ [see Drug Interactions (7.3].
+Advise patients to avoid alcohol while taking PRISTIQ [see Drug Interactions (7.3)].
 
 Allergic Reactions
 

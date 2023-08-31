@@ -9,6 +9,8 @@ Healthcare providers are encouraged to register patients by calling the National
 
 Risk Summary
 
+Based on data from published observational studies, exposure to SNRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions (5.4) and Clinical Considerations].
+
 There are no published studies on PRISTIQ in pregnant women; however published epidemiologic studies of pregnant women exposed to venlafaxine, the parent compound, have not reported a clear association with adverse developmental outcomes (see Data).
 There are risks associated with untreated depression in pregnancy and with exposure to SNRIs and SSRIs, including PRISTIQ, during pregnancy (see Clinical Considerations).
 
@@ -27,7 +29,7 @@ A prospective longitudinal study of 201 women with a history of major depression
 
 Maternal Adverse Reactions
 
-Exposure to SNRIs in mid to late pregnancy may increase the risk for preeclampsia, and exposure to SNRIs near delivery may increase the risk for postpartum hemorrhage.
+Exposure to PRISTIQ in mid to late pregnancy may increase the risk for preeclampsia, and exposure to PRISTIQ in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.4)].
 
 Fetal/Neonatal Adverse Reactions
 
