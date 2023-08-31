@@ -26,10 +26,14 @@ Studies in man indicate that the peak concentration in the aqueous humor is reac
 
 Elimination
 
-Metabolism Latanoprost, an isopropyl ester prodrug, is hydrolyzed by esterases in the cornea to the biologically active acid.
+Metabolism
+
+Latanoprost, an isopropyl ester prodrug, is hydrolyzed by esterases in the cornea to the biologically active acid.
 The active acid of latanoprost reaching the systemic circulation is primarily metabolized by the liver to the 1,2-dinor and 1,2,3,4-tetranor metabolites via fatty acid β-oxidation.
 
-Excretion The elimination of the acid of latanoprost from human plasma is rapid (t½ = 17 min) after both IV and topical administration.
+Excretion
+
+The elimination of the acid of latanoprost from human plasma is rapid (t½ = 17 min) after both IV and topical administration.
 Systemic clearance is approximately 7 mL/min/kg.
 Following hepatic β-oxidation, the metabolites are mainly eliminated via the kidneys.
 Approximately 88% and 98% of the administered dose are recovered in the urine after topical and IV dosing, respectively.

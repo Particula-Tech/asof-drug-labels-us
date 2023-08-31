@@ -2,14 +2,14 @@
 
 NDC 24208-463-25
 
-Latanoprost Ophthalmic Solution 0.005% 125 mcg/2.5 mL (Sterile)
+Latanoprost Ophthalmic Solution 0.005%
+
+125 mcg/2.5 mL (Sterile)
 
 FOR TOPICAL APPLICATION IN THE EYE
 
-Rx only
+Rx only 2.5 mL
 
-2.5 mL
+9564803
 
 BAUSCH + LOMB
-
-9564803 AB46304

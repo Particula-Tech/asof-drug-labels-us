@@ -7,7 +7,7 @@ Its molecular formula is C26H40O5 and its chemical structure is:
 Latanoprost is a colorless to slightly yellow oil that is very soluble in acetonitrile and freely soluble in acetone, ethanol, ethyl acetate, isopropanol, methanol, and octanol.
 It is practically insoluble in water.
 
-Latanoprost ophthalmic solution 0.005% is supplied as a sterile, isotonic, buffered aqueous solution of latanoprost with a pH of approximately 6.7 and an osmolality of approximately 267 mOsmol/kg.
+Latanoprost ophthalmic solution, 0.005% is supplied as a sterile, isotonic, buffered aqueous solution of latanoprost with a pH of approximately 6.7 and an osmolality of approximately 267 mOsmol/kg.
 Each mL of latanoprost ophthalmic solution contains 50 mcg of latanoprost.
 Benzalkonium chloride, 0.02% is added as a preservative.
 The inactive ingredients are: sodium chloride, sodium dihydrogen phosphate monohydrate, disodium hydrogen phosphate anhydrous, and water for injection.
