@@ -1,16 +1,24 @@
 # 16HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1How Supplied
+How Supplied
 
-Pulmotech MAA (kit for the preparation of technetium Tc 99m albumin aggregated injection) is supplied either as a 5 vial clam shell (NDC 69945-139-20) or as a carton of 30 vials (NDC 69945-139-40).
+PULMOTECH MAA (kit for the preparation of technetium Tc 99m albumin aggregated) injection contains 2 mg of albumin aggregated as a white lyophilized powder in a multiple-dose reaction vial, sealed under an atmosphere of nitrogen, for radiolabeling with Sodium Pertechnetate Tc 99m Injection to prepare Technetium Tc 99m Albumin Aggregated Injection.
 
-Each 5 vial kit contains 5 multiple dose Pulmotech MAA vials, 1 prescribing information and 5 radioassay information labels.
-Each 30 vial carton contains 30 multiple dose Pulmotech MAA vials, 1 prescribing information and 30 radioassay information labels.
+PULMOTECH MAA is supplied as:
 
-## 16.2Storage and Disposal
+- a carton (clam shell) of 5 vials (NDC 69945-139-20)
+- a carton of 30 vials (NDC 69945-139-40)
 
-Store Pulmotech MAA (kit for the preparation of Tc 99m albumin aggregated injection) at 2° to 25°C (36° to 77ºF) before preparation (radiolabeling).
+Each 5-vial carton contains 5 multiple-dose reaction vials and 5 radioassay information labels.
+Each 30-vial carton contains 30 multiple-dose reaction vials and 30 radioassay information labels.
 
-After preparation with sodium pertechnetate Tc 99m injection, store radiolabeled technetium Tc 99m albumin aggregated Injection in a refrigerator at 2° to 8°C (36° to 46ºF).
+Storage and Handling
 
-Do not use and discard radiolabeled Pulmotech MAA at 18 hours after preparation.
+Before radiolabeling, store supplied reaction vials at 2°C to 25°C (36°F to 77ºF).
+
+After radiolabeling with Sodium Pertechnetate Tc 99m Injection, store Technetium Tc 99m Albumin Aggregated Injection in a lead vial shield with cap in place, refrigerated at 2°C to 8°C (36°F to 46ºF) when not in use.
+Use within 18 hours after radiolabeling [see Dosage and Administration (2.5)].
+
+Dispose unused Technetium Tc 99m Albumin Aggregated Injection in compliance with the appropriate regulations of the government agency authorized to license the use of this radionuclide.
+
+This preparation is approved for use by persons under license by the Nuclear Regulatory Commission or the relevant regulatory authority of an Agreement State.

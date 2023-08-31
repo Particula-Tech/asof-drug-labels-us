@@ -1,6 +1,6 @@
 # 1INDICATIONS AND USAGE
 
-Technetium Tc 99m Albumin Aggregated Injection is a radioactive diagnostic agent indicated for:
+PULMOTECH MAA, after radiolabeling with technetium-99m, is indicated for:
 
 - Lung scintigraphy as an adjunct in the evaluation of pulmonary perfusion in adults and pediatric patients.
-- Scintigraphy of peritoneovenous shunt as an aid in the evaluation of its patency in adults.
+- Peritoneovenous shunt scintigraphy as an aid in the evaluation of its patency in adults.

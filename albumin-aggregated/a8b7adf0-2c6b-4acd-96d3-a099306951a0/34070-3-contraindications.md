@@ -1,6 +1,7 @@
 # 4CONTRAINDICATIONS
 
-Technetium Tc 99m Albumin Aggregated Injection is contraindicated in patients with:
+PULMOTECH MAA is contraindicated in patients with:
 
-- Severe pulmonary hypertension [see Adverse Reactions (6)].
-- Prior hypersensitivity to products containing human serum albumin [see Adverse Reactions (6)].
+- Severe pulmonary hypertension [see Warnings and Precautions (5.1)].
+- A history of hypersensitivity to albumin human.
+  Reactions have included anaphylaxis [see Warnings and Precautions (5.2)].

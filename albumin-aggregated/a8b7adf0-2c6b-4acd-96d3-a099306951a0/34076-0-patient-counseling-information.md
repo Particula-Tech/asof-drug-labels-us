@@ -1,8 +1,8 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 Adequate Hydration
 
-Advise patients to drink a sufficient amount of water to ensure adequate hydration before their study and urge them to drink and urinate as often as possible during the first hours following the administration of Technetium Tc 99m Albumin Aggregated Injection in order to reduce radiation exposure.
+Advise patients to drink a sufficient amount of water to ensure adequate hydration before their study and urge them to drink and urinate as often as possible during the first hours following the administration of Technetium Tc 99m Albumin Aggregated Injection in order to reduce radiation exposure [see Dosage and Administration (2.2)].
 
 Pregnancy
 
@@ -10,19 +10,15 @@ Advise pregnant women of the risk of fetal exposure to radiation doses if they u
 
 Lactation
 
-Advise a lactating woman to interrupt breastfeeding and pump and discard breast milk for 13 hours after Technetium Tc 99m Albumin Aggregated Injection administration in order to minimize radiation exposure to a breastfed infant [see Use in Specific Populations (8.2)].
+Advise a lactating woman to temporally discontinue breastfeeding and to pump and discard breast milk for 24 hours after Technetium Tc 99m Albumin Aggregated Injection administration to minimize radiation exposure to a breastfed infant [see Use in Specific Populations (8.2)].
 
-Pulmotech is a trademark of a Curium company.
+Manufactured by: CIS bio International Route Departementale 306 Gif-sur-Yvette, Ile-de-France 91190, France
 
-©2020 Curium US LLC.
-All Rights Reserved.
+U.S License No. 2204
 
-A139I0
+Distributed by: Curium US LLC 2703 Wagner Place Maryland Heights, MO 63043
 
-Manufactured by:
+©2023 Curium US LLC.
+Pulmotech™, Curium™, and the Curium logo are trademarks of a Curium company.
 
-CIS bio International for Curium US LLC 2703 Wagner Place Maryland Heights, MO 63043
-
-Issued: R03/2020
-
-CURIUM™
+A139I0 Curium™

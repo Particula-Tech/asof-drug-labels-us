@@ -1,52 +1,77 @@
-# PRINCIPAL DISPLAY PANEL - CARTON
+# PRINCIPAL DISPLAY PANEL
+
+Kit for the Preparation of Technetium Tc 99m Albumin Aggregated
+
+NDC 69945-139-10 Pulmotech™ MAA Sterile, Multiple-Dose Vial
+
+Rx only Injection
+
+For Intravenous or Intraperitoneal use after radiolabeling with Sodium Pertechnetate Tc 99m Injection.
+
+Each reaction vial contains 2 mg of albumin aggregated.
+
+STORAGE: Before radiolabeling, store at 2°C to 25°C (36°F to 77°F).
+After radiolabeling, store vial in a suitable lead shield in a refrigerator at 2°C to 8°C (36°F to 46°F).
+Use within 18 hours after radiolabeling.
+
+Recommended Dosage: See prescribing information.
+
+Manufactured by: CIS bio International, Gif-sur-Yvette Ile-de-France 91190, France
+
+U.S. License No. 2204 Distributed by: Curium US LLC, Maryland Heights, MO 63043
+
+A139V0
+
+R08/2023
+
+# PRINCIPAL DISPLAY PANEL
 
 NDC 69945-139-40
 
-Pulmotech™ MAA
+Kit for the Preparation of Technetium Tc 99m Albumin Aggregated Pulmotech™ MAA
 
-(kit for the preparation of technetium Tc 99m albumin aggregated injection)
+Injection
 
-For intravenous and intraperitoneal use after radiolabeling with sodium pertechnetate Tc 99m.
+For Intravenous or Intraperitoneal use after radiolabeling with Sodium Pertechnetate Tc 99m Injection.
 
 Rx only
 
-Before radiolabeling, store at 2° to 25°C (36° to 77°F).
-After radiolabeling, store shielded in refrigerator at 2° to 8°C (36° to 46°F).
-Use within 18 hours of radiolabeling.
+STORAGE:
+
+Before radiolabeling, store at 2°C to 25°C (36°F to 77°F).
+After radiolabeling, store vial in a suitable lead shield in a refrigerator at 2°C to 8°C (36°F to 46°F).
+Use within 18 hours after radiolabeling.
 
 CURIUM™
 
-30 Vial Multiple-dose Carton
+30 Multiple-Dose Vials
 
 PINCH AT CORNERS / PULL OUT
 
-Dosage: See prescribing information.
+Recommended Dosage: See prescribing information.
 
 CARTON CONTAINS:
 
-30 sterile, multiple-dose Pulmotech MAA vials
+30 sterile, multiple-dose reaction vials
 
 30 radioassay information labels
 
 1 Prescribing Information
 
-Each Pulmotech MAA vial contains:
+Each reaction vial contains 2 mg of albumin aggregated, albumin human (7.1 mg), stannous chloride (0.1 mg minimum; 0.22 mg maximum stannous and stannic), and sodium chloride (9 mg).
+Hydrochloric acid has been used for pH adjustment; Sealed under nitrogen; Contains no preservative.
 
-2 mg Albumin Aggregated
+Manufactured by:
 
-7.1 mg Albumin Human
+CIS bio International
 
-0.22 mg (maximum) stannous chloride
+Route Departementale 306
 
-0.1 mg (minimum) stannous chloride
+Gif-sur-Yvette Ile-de-France 91190, France
 
-9 mg sodium chloride
+U.S. License No. 2204
 
-Hydrochloric acid for pH adjustment
-
-Sealed under nitrogen
-
-Manufactured for:
+Distributed by:
 
 Curium US LLC
 
@@ -58,34 +83,8 @@ Convenient Reorder Point
 
 Maximum Six Vials Remaining
 
-Open Flap For Package Insert and Radioassay Information Labels
+Open Flap For Prescribing Information and Radioassay Information Labels
 
 A139DK
 
-R03/2020
-
-# PRINCIPAL DISPLAY PANEL – VIAL LABEL
-
-NDC 69945-139-10 Pulmotech™ MAA Sterile, Multiple-Dose Vial
-
-(kit for the preparation of technetium Tc 99m albumin aggregated injection)
-
-For intravenous and intraperitoneal use after radiolabeling with sodium pertechnetate Tc 99m.
-
-Vial contains: 2 mg Albumin Aggregated, 7.1 mg Albumin Human, 0.1 mg (minimum) Stannous Chloride and 9 mg Sodium Chloride.
-HCl used for pH adjustment.
-Sealed under nitrogen.
-
-Before radiolabeling, store at 2° to 25°C (36° to 77°F).
-After radiolabeling, store shielded in refrigerator at 2° to 8°C (36° to 46°F).
-Use within 18 hours.
-
-Dosage: See prescribing information.
-
-Rx only
-
-Manufactured for: Curium US LLC, Maryland Heights, MO 63043
-
-A139VO
-
-R03/2020
+R08/2023
