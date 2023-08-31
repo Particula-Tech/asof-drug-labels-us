@@ -47,8 +47,8 @@ Discontinue Citalopram Capsules in patients who are found to have persistent QTc
 
 ## 5.3 Serotonin Syndrome
 
-SSRIs, including citalopram, can precipitate serotonin syndrome, a potentially life-threatening condition.
-The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7)].
+SSRIs, including Citalopram Capsules, can precipitate serotonin syndrome, a potentially life-threatening condition.
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, meperidine, methadone, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7)].
 Serotonin syndrome can also occur when these drugs are used alone.
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -65,8 +65,9 @@ If concomitant use of Citalopram Capsules with other serotonergic drugs is clini
 ## 5.4 Increased Risk of Bleeding
 
 Drugs that interfere with serotonin reuptake inhibition, including Citalopram Capsules, increase the risk of bleeding events.
-Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDS), other antiplatelet drugs, warfarin, and other anticoagulants may add to this risk.
+Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDS), antiplatelet drugs, warfarin, and other anticoagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Use in Specific Populations (8.1)].
 Bleeding events related to drugs that interfere with serotonin reuptake have ranged from ecchymosis, hematoma, epistaxis, and petechiae to life-threatening hemorrhages.
 
 Inform patients about the increased risk of bleeding associated with the concomitant use of Citalopram Capsules and antiplatelet agents or anticoagulants.

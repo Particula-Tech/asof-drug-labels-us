@@ -218,6 +218,8 @@ Renal and Urinary Disorders: acute renal failure
 
 Reproductive System and Breast Disorders: priapism
 
+Respiratory, thoracic and mediastinal disorders: anosmia, hyposmia
+
 Skin and Subcutaneous Tissue Disorders: Stevens Johnson Syndrome, epidermal necrolysis, angioedema, erythema multiforme, ecchymosis
 
 Vascular Disorders: thrombosis

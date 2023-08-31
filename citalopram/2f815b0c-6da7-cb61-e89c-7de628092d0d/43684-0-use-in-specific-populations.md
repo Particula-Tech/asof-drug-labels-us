@@ -9,6 +9,8 @@ Healthcare providers are encouraged to register patients by calling the National
 
 Risk Summary
 
+Based on data from published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions (5.4) and Clinical Considerations].
+
 Available data from published epidemiologic studies and postmarketing reports with citalopram use in pregnancy have not established an increased risk of major birth defects or miscarriage.
 Published studies demonstrated that citalopram levels in both cord blood and amniotic fluid are similar to those observed in maternal serum.
 There are risks of persistent pulmonary hypertension of the newborn (PPHN) (see Data) and/or poor neonatal adaptation with exposure to selective serotonin reuptake inhibitors (SSRIs), including Citalopram Capsules, during pregnancy.
@@ -27,6 +29,10 @@ Disease-Associated Maternal and/or Embryo/Fetal Risk
 Women who discontinue antidepressants during pregnancy are more likely to experience a relapse of major depression than women who continue antidepressants.
 This finding is from a prospective longitudinal study of 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants at the beginning of pregnancy.
 Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
+
+Maternal Adverse Reactions
+
+Use of Citalopram Capsules in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.4)].
 
 Fetal/Neonatal Adverse Reactions
 

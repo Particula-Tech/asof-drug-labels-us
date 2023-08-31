@@ -13,7 +13,7 @@ Instruct patients to inform their healthcare provider that they are taking Cital
 
 Serotonin Syndrome
 
-Caution about the risk of serotonin syndrome, particularly with the concomitant use of Citalopram Capsules with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of Citalopram Capsules with other serotonergic drugs including triptans, tricyclic antidepressants, opioids, lithium, amphetamines, tryptophan, buspirone, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
 Instruct patients to contact their health care provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
 Increased Risk of Bleeding
