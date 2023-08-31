@@ -37,7 +37,7 @@ If the decision has been made to discontinue treatment, medication should be tap
 Families and caregivers of patients being treated with antidepressants for Major Depressive Disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for fluoxetine should be written for the smallest quantity of oral solution consistent with good patient management, in order to reduce the risk of overdose.
-It should be noted that fluoxetine is approved in the pediatric population only for Major Depressive Disorder and Obsessive Compulsive Disorder.
+It should be noted that fluoxetine is approved in the pediatric population for Major Depressive Disorder and Obsessive Compulsive Disorder.
 
 ## 5.2 Serotonin Syndrome
 
@@ -82,9 +82,10 @@ A major depressive episode may be the initial presentation of Bipolar Disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for Bipolar Disorder.
 Whether any of the symptoms described for clinical worsening and suicide risk represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for Bipolar Disorder; such screening should include a detailed psychiatric history, including a family history of suicide, Bipolar Disorder, and depression.
-It should be noted that fluoxetine is not indicated for use in treating bipolar depression.
+It should be noted that fluoxetine monotherapy is not indicated for the treatment of depressive episodes associated with Bipolar I Disorder.
 In U.S. placebo-controlled clinical trials for Major Depressive Disorder, mania/hypomania was reported in 0.1% of patients treated with fluoxetine and 0.1% of patients treated with placebo.
 Activation of mania/hypomania has also been reported in a small proportion of patients with Major Affective Disorder treated with other marketed drugs effective in the treatment of Major Depressive Disorder [see Use in Specific Populations (8.4)].
+
 In U.S. placebo-controlled clinical trials for OCD, mania/hypomania was reported in 0.8% of patients treated with fluoxetine and no patients treated with placebo.
 No patients reported mania/hypomania in U.S. placebo-controlled clinical trials for bulimia.
 In U.S. fluoxetine clinical trials, 0.7% of 10,782 patients reported mania/hypomania [see Use in Specific Populations (8.4)].
@@ -119,7 +120,11 @@ Bleeding reactions related to SNRIs and SSRIs use have ranged from ecchymoses, h
 
 Patients should be cautioned about the increased risk of bleeding associated with the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
 
-## 5.8 Hyponatremia
+## 5.8 Angle-Closure Glaucoma
+
+Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including fluoxetine oral solution may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
+## 5.9 Hyponatremia
 
 Hyponatremia has been reported during treatment with SNRIs and SSRIs, including fluoxetine.
 In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
@@ -130,7 +135,7 @@ Discontinuation of fluoxetine should be considered in patients with symptomatic 
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 More severe and/or acute cases have been associated with hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
-## 5.9 Anxiety and Insomnia
+## 5.10 Anxiety and Insomnia
 
 In U.S. placebo-controlled clinical trials for Major Depressive Disorder, 12% to 16% of patients treated with fluoxetine and 7% to 9% of patients treated with placebo reported anxiety, nervousness, or insomnia.
 In U.S. placebo-controlled clinical trials for OCD, insomnia was reported in 28% of patients treated with fluoxetine and in 22% of patients treated with placebo.
@@ -139,7 +144,7 @@ In U.S. placebo-controlled clinical trials for Bulimia Nervosa, insomnia was rep
 Anxiety and nervousness were reported, respectively, in 15% and 11% of patients treated with fluoxetine 60 mg and in 9% and 5% of patients treated with placebo.
 Among the most common adverse reactions associated with discontinuation (incidence at least twice that for placebo and at least 1% for fluoxetine in clinical trials collecting only a primary reaction associated with discontinuation) in U.S. placebo-controlled fluoxetine clinical trials were anxiety (2% in OCD), insomnia (1% in combined indications and 2% in bulimia), and nervousness (1% in Major Depressive Disorder) [see Table 5].
 
-## 5.10 QT Prolongation
+## 5.11 QT Prolongation
 
 Post-marketing cases of QT interval prolongation and ventricular arrhythmia including Torsades de Pointes have been reported in patients treated with fluoxetine.
 Fluoxetine should be used with caution in patients with congenital long QT syndrome; a previous history of QT prolongation; a family history of long QT syndrome or sudden cardiac death; and other conditions that predispose to QT prolongation and ventricular arrhythmia.
@@ -153,7 +158,7 @@ These include specific antipsychotics (e.g., ziprasidone, iloperidone, chlorprom
 Consider ECG assessment and periodic ECG monitoring if initiating treatment with fluoxetine in patients with risk factors for QT prolongation and ventricular arrhythmia.
 Consider discontinuing fluoxetine and obtaining a cardiac evaluation if patients develop signs or symptoms consistent with ventricular arrhythmia.
 
-## 5.11 Use in Patients with Concomitant Illness
+## 5.12 Use in Patients with Concomitant Illness
 
 Clinical experience with fluoxetine in patients with concomitant systemic illness is limited.
 Caution is advisable in using fluoxetine in patients with diseases or conditions that could affect metabolism or hemodynamic responses.
@@ -165,14 +170,10 @@ Glycemic Control — In patients with diabetes, fluoxetine may alter glycemic co
 Hypoglycemia has occurred during therapy with fluoxetine, and hyperglycemia has developed following discontinuation of the drug.
 As is true with many other types of medication when taken concurrently by patients with diabetes, insulin and/or oral hypoglycemic, dosage may need to be adjusted when therapy with fluoxetine is instituted or discontinued.
 
-## 5.12 Potential for Cognitive and Motor Impairment
+## 5.13 Potential for Cognitive and Motor Impairment
 
 As with any CNS-active drug, fluoxetine has the potential to impair judgment, thinking, or motor skills.
 Patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that the drug treatment does not affect them adversely.
-
-## 5.13 Angle-Closure Glaucoma
-
-Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including fluoxetine oral solution may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.14 Long Elimination Half-Life
 

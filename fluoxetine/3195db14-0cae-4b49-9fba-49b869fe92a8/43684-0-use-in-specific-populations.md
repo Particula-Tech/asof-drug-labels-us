@@ -21,11 +21,10 @@ In the US general population, the estimated background risk of major birth defec
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk Maternal Adverse Reactions Use of fluoxetine in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.7)].
-Women who discontinue antidepressants during pregnancy are more likely to experience a relapse of major depression than women who continue antidepressants.
+Disease-associated maternal and/or embryo/fetal risk Women who discontinue antidepressants during pregnancy are more likely to experience a relapse of major depression than women who continue antidepressants.
 This finding is from a prospective, longitudinal study that followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants at the beginning of pregnancy.
 Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
-
+Maternal Adverse Reactions Use of fluoxetine in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.7)].
 Fetal/Neonatal adverse reactions
 
 Neonates exposed to fluoxetine and other SSRI or SNRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
@@ -110,7 +109,7 @@ U.S. fluoxetine clinical trials included 687 patients ≥65 years of age and 93 
 The efficacy in geriatric patients has been established [see Clinical Studies (14.1)].
 For pharmacokinetic information in geriatric patients [see Clinical Pharmacology (12.4)].
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
-SNRIs and SSRIs, including fluoxetine, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse reaction [see Warnings and Precautions (5.8)].
+SNRIs and SSRIs, including fluoxetine, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse reaction [see Warnings and Precautions (5.9)].
 
 ## 8.6 Hepatic Impairment
 

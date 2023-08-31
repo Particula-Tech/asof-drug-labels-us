@@ -38,34 +38,26 @@ Abnormal Bleeding
 
 Patients should be cautioned about the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents have been associated with an increased risk of bleeding [see Warnings and Precautions (5.7) and Drug Interactions (7.4)].
 Patients should be advised to call their healthcare provider if they experience any increased or unusual bruising or bleeding while taking fluoxetine.
-
-Hyponatremia
+Angle-Closure Glaucoma Patients should be advised that taking fluoxetine oral solution can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle-closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
+[see Warnings and Precautions (5.8)] Hyponatremia
 
 Patients should be advised that hyponatremia has been reported as a result of treatment with SNRIs and SSRIs, including fluoxetine.
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
-More severe and/or acute cases have been associated with hallucination, syncope, seizure, coma, respiratory arrest, and death [see Warnings and Precautions (5.8)].
+More severe and/or acute cases have been associated with hallucination, syncope, seizure, coma, respiratory arrest, and death [see Warnings and Precautions (5.9)].
 
 QT Prolongation
 
 Patients should be advised that QT interval prolongation and ventricular arrhythmia including Torsades de Pointes have been reported in patients treated with fluoxetine.
-Signs and symptoms of ventricular arrhythmia include fast, slow, or irregular heart rate, dyspnea, syncope, or dizziness, which may indicate serious cardiac arrhythmia [see Warnings and Precautions (5.10)].
+Signs and symptoms of ventricular arrhythmia include fast, slow, or irregular heart rate, dyspnea, syncope, or dizziness, which may indicate serious cardiac arrhythmia [see Warnings and Precautions (5.11)].
 
 Potential for Cognitive and Motor Impairment
 
 Fluoxetine may impair judgment, thinking, or motor skills.
-Patients should be advised to avoid driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected [see Warnings and Precautions (5.12)].
-
-Angle-Closure Glaucoma
-
-Patients should be advised that taking fluoxetine oral solution can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
-Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
-Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
-Patients may wish to be examined to determine whether they are susceptible to angle-closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
-[see Warnings and Precautions (5.13)]
-
-Use of Concomitant Medications
-
-Patients should be advised to inform their healthcare provider if they are taking, or plan to take, any prescription medication, including Symbyax, Sarafem, or over-the-counter drugs, including herbal supplements or alcohol.
+Patients should be advised to avoid driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected [see Warnings and Precautions (5.13)].
+Use of Concomitant Medications Patients should be advised to inform their healthcare provider if they are taking, or plan to take, any prescription medication, including Symbyax, Sarafem, or over-the-counter drugs, including herbal supplements or alcohol.
 Patients should also be advised to inform their healthcare providers if they plan to discontinue any medications they are taking while on fluoxetine.
 
 Discontinuation of Treatment
@@ -79,9 +71,7 @@ Sexual Dysfunction
 Advise patients that use of fluoxetine may cause symptoms of sexual dysfunction in both male and female patients.
 Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.17)].
 
-Use in Specific Populations
-
-Pregnancy — Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with fluoxetine.
+Use in Specific Populations Pregnancy — Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with fluoxetine.
 
 Advise patients that fluoxetine use later in pregnancy may lead to increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, tube feeding, and/or persistent pulmonary hypertension of the newborn (PPHN) [see Use in Specific Populations (8.1)].
 
@@ -92,7 +82,5 @@ Lactation —Advise breastfeeding women using fluoxetine to monitor infants for 
 Pediatric Use of Fluoxetine — Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
 Limited evidence is available concerning the longer-term effects of fluoxetine on the development and maturation of children and adolescent patients.
 Height and weight should be monitored periodically in pediatric patients receiving fluoxetine [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
-
 Symbyax® and Sarafem® are registered trademarks of Eli Lilly.
-
 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 08/2023

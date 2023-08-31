@@ -61,7 +61,7 @@ Periodically reassess to determine the need for continued treatment.
 
 Geriatric — Consider a lower or less frequent dosage for the elderly [see Use in Specific Populations (8.5)].
 Hepatic Impairment — As with many other medications, use a lower or less frequent dosage in patients with hepatic impairment [see Clinical Pharmacology (12.4) and Use in Specific Populations (8.6)].
-Concomitant Illness — Patients with concurrent disease or on multiple concomitant medications may require dosage adjustments [see Clinical Pharmacology (12.4) and Warnings and Precautions (5.11)].
+Concomitant Illness — Patients with concurrent disease or on multiple concomitant medications may require dosage adjustments [see Clinical Pharmacology (12.4) and Warnings and Precautions (5.12)].
 
 ## 2.8 Discontinuation of Treatment
 

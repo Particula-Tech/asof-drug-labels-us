@@ -30,6 +30,9 @@ Maintenance Treatment
 A study was conducted involving depressed outpatients who had responded (modified HAMD-17 score of ≤7 during each of the last 3 weeks of open-label treatment and absence of Major Depressive Disorder by DSM-III-R criteria) by the end of an initial 12-week open-treatment phase on fluoxetine 20 mg/day.
 These patients (N=298) were randomized to continuation on double-blind fluoxetine 20 mg/day or placebo.
 At 38 weeks (50 weeks total), a statistically significantly lower relapse rate (defined as symptoms sufficient to meet a diagnosis of Major Depressive Disorder for 2 weeks or a modified HAMD-17 score of ≥14 for 3 weeks) was observed for patients taking fluoxetine compared with those on placebo.
+An additional maintenance study was conducted involving adult outpatients meeting DSM-IV criteria for Major Depressive Disorder who had responded (defined as having a modified HAMD-17 score of ≤9, a CGI-Severity rating of ≤2, and no longer meeting criteria for Major Depressive Disorder) for 3 consecutive weeks at the end of 13 weeks of open-label treatment with fluoxetine 20 mg once daily.
+These patients were randomized to double blind, once-weekly continuation treatment with fluoxetine delayed-release capsules 90 mg once weekly, fluoxetine 20 mg once daily, or placebo.
+Fluoxetine 20 mg once daily demonstrated superior efficacy (having a significantly longer time to relapse of depressive symptoms) compared with placebo for a period of 25 weeks.
 
 ## 14.2 Obsessive Compulsive Disorder
 
