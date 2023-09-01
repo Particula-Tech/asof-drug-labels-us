@@ -14,25 +14,25 @@ Fluoxetine binds to these and other membrane receptors from brain tissue much le
 
 ## 12.3 Pharmacokinetics
 
-Systemic Bioavailability— In man, following a single oral 40 mg dose, peak plasma concentrations of fluoxetine from 15 to 55 ng/mL are observed after 6 to 8 hours.
+Systemic Bioavailability — In man, following a single oral 40 mg dose, peak plasma concentrations of fluoxetine from 15 to 55 ng/mL are observed after 6 to 8 hours.
 
 Food does not appear to affect the systemic bioavailability of fluoxetine, although it may delay its absorption by 1 to 2 hours, which is probably not clinically significant.
 Thus, fluoxetine may be administered with or without food.
 
-Protein Binding— Over the concentration range from 200 to 1000 ng/mL, approximately 94.5% of fluoxetine is bound in vitro to human serum proteins, including albumin and α1-glycoprotein.
+Protein Binding — Over the concentration range from 200 to 1000 ng/mL, approximately 94.5% of fluoxetine is bound in vitro to human serum proteins, including albumin and α1-glycoprotein.
 The interaction between fluoxetine and other highly protein-bound drugs has not been fully evaluated, but may be important.
 
-Enantiomers— Fluoxetine is a racemic mixture (50/50) of R-fluoxetine and S-fluoxetine enantiomers.
+Enantiomers — Fluoxetine is a racemic mixture (50/50) of R-fluoxetine and S-fluoxetine enantiomers.
 In animal models, both enantiomers are specific and potent serotonin uptake inhibitors with essentially equivalent pharmacologic activity.
 The S-fluoxetine enantiomer is eliminated more slowly and is the predominant enantiomer present in plasma at steady state.
 
-Metabolism— Fluoxetine is extensively metabolized in the liver to norfluoxetine and a number of other unidentified metabolites.
+Metabolism — Fluoxetine is extensively metabolized in the liver to norfluoxetine and a number of other unidentified metabolites.
 The only identified active metabolite, norfluoxetine, is formed by demethylation of fluoxetine.
 In animal models, S-norfluoxetine is a potent and selective inhibitor of serotonin uptake and has activity essentially equivalent to R- or S-fluoxetine.
 R-norfluoxetine is significantly less potent than the parent drug in the inhibition of serotonin uptake.
 The primary route of elimination appears to be hepatic metabolism to inactive metabolites excreted by the kidney.
 
-Variability in Metabolism— A subset (about 7%) of the population has reduced activity of the drug metabolizing enzyme cytochrome P450 2D6 (CYP2D6).
+Variability in Metabolism — A subset (about 7%) of the population has reduced activity of the drug metabolizing enzyme cytochrome P450 2D6 (CYP2D6).
 Such individuals are referred to as “poor metabolizers” of drugs such as debrisoquin, dextromethorphan, and the TCAs.
 In a study involving labeled and unlabeled enantiomers administered as a racemate, these individuals metabolized S-fluoxetine at a slower rate and thus achieved higher concentrations of S-fluoxetine.
 Consequently, concentrations of S-norfluoxetine at steady state were lower.
@@ -44,7 +44,7 @@ This explains how fluoxetine achieves a steady-state concentration rather than i
 
 Because fluoxetine's metabolism, like that of a number of other compounds including TCAs and other selective serotonin reuptake inhibitors (SSRIs), involves the CYP2D6 system, concomitant therapy with drugs also metabolized by this enzyme system (such as the TCAs) may lead to drug interactions [see Drug Interactions (7.7)].
 
-Accumulation and Slow Elimination— The relatively slow elimination of fluoxetine (elimination half-life of 1 to 3 days after acute administration and 4 to 6 days after chronic administration) and its active metabolite, norfluoxetine (elimination half-life of 4 to 16 days after acute and chronic administration), leads to significant accumulation of these active species in chronic use and delayed attainment of steady state, even when a fixed dose is used [see Warnings and Precautions (5.14)].
+Accumulation and Slow Elimination — The relatively slow elimination of fluoxetine (elimination half-life of 1 to 3 days after acute administration and 4 to 6 days after chronic administration) and its active metabolite, norfluoxetine (elimination half-life of 4 to 16 days after acute and chronic administration), leads to significant accumulation of these active species in chronic use and delayed attainment of steady state, even when a fixed dose is used [see Warnings and Precautions (5.14)].
 After 30 days of dosing at 40 mg/day, plasma concentrations of fluoxetine in the range of 91 to 302 ng/mL and norfluoxetine in the range of 72 to 258 ng/mL have been observed.
 Plasma concentrations of fluoxetine were higher than those predicted by single-dose studies, because fluoxetine's metabolism is not proportional to dose.
 Norfluoxetine, however, appears to have linear pharmacokinetics.
@@ -56,21 +56,21 @@ This is of potential consequence when drug discontinuation is required or when d
 
 ## 12.4 Specific Populations
 
-Liver Disease— As might be predicted from its primary site of metabolism, liver impairment can affect the elimination of fluoxetine.
+Liver Disease — As might be predicted from its primary site of metabolism, liver impairment can affect the elimination of fluoxetine.
 The elimination half-life of fluoxetine was prolonged in a study of cirrhotic patients, with a mean of 7.6 days compared with the range of 2 to 3 days seen in subjects without liver disease; norfluoxetine elimination was also delayed, with a mean duration of 12 days for cirrhotic patients compared with the range of 7 to 9 days in normal subjects.
 This suggests that the use of fluoxetine in patients with liver disease must be approached with caution.
 If fluoxetine is administered to patients with liver disease, a lower or less frequent dose should be used [see Dosage and Administration (2.7) and Use in Specific Populations (8.6)].
 
-Renal Disease— In depressed patients on dialysis (N=12), fluoxetine administered as 20 mg once daily for 2 months produced steady-state fluoxetine and norfluoxetine plasma concentrations comparable with those seen in patients with normal renal function.
+Renal Disease — In depressed patients on dialysis (N=12), fluoxetine administered as 20 mg once daily for 2 months produced steady-state fluoxetine and norfluoxetine plasma concentrations comparable with those seen in patients with normal renal function.
 While the possibility exists that renally excreted metabolites of fluoxetine may accumulate to higher levels in patients with severe renal dysfunction, use of a lower or less frequent dose is not routinely necessary in renally impaired patients.
 
-Geriatric Pharmacokinetics— The disposition of single doses of fluoxetine in healthy elderly subjects (>65 years of age) did not differ significantly from that in younger normal subjects.
+Geriatric Pharmacokinetics — The disposition of single doses of fluoxetine in healthy elderly subjects (>65 years of age) did not differ significantly from that in younger normal subjects.
 However, given the long half-life and nonlinear disposition of the drug, a single-dose study is not adequate to rule out the possibility of altered pharmacokinetics in the elderly, particularly if they have systemic illness or are receiving multiple drugs for concomitant diseases.
 The effects of age upon the metabolism of fluoxetine have been investigated in 260 elderly but otherwise healthy depressed patients (≥60 years of age) who received 20 mg fluoxetine for 6 weeks.
 Combined fluoxetine plus norfluoxetine plasma concentrations were 209.3 ± 85.7 ng/mL at the end of 6 weeks.
 No unusual age-associated pattern of adverse reactions was observed in those elderly patients.
 
-Pediatric Pharmacokinetics (children and adolescents)— Fluoxetine pharmacokinetics were evaluated in 21 pediatric patients (10 children ages 6 to <13, 11 adolescents ages 13 to <18) diagnosed with Major Depressive Disorder or Obsessive Compulsive Disorder (OCD).
+Pediatric Pharmacokinetics (children and adolescents) — Fluoxetine pharmacokinetics were evaluated in 21 pediatric patients (10 children ages 6 to <13, 11 adolescents ages 13 to <18) diagnosed with Major Depressive Disorder or Obsessive Compulsive Disorder (OCD).
 Fluoxetine 20 mg/day was administered for up to 62 days.
 The average steady-state concentrations of fluoxetine in these children were 2-fold higher than in adolescents (171 and 86 ng/mL, respectively).
 The average norfluoxetine steady-state concentrations in these children were 1.5-fold higher than in adolescents (195 and 113 ng/mL, respectively).

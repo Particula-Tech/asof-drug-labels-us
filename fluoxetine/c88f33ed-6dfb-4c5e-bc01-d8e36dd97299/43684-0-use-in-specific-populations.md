@@ -11,6 +11,8 @@ Healthcare providers are encouraged to register patients by calling the National
 
 Risk Summary
 
+Based on data from published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions (5.7) and Clinical Considerations].
+
 Available data from published epidemiologic studies and postmarketing reports over several decades have not established an increased risk of major birth defects or miscarriage.
 Some studies have reported an increased incidence of cardiovascular malformations; however, these studies results do not establish a causal relationship (see Data).
 There are risks associated with untreated depression in pregnancy and risks of persistent pulmonary hypertension of the newborn (PPHN) (see Data) and poor neonatal adaptation with exposure to selective serotonin reuptake inhibitors (SSRIs), including PROZAC, during pregnancy (see Clinical Considerations).
@@ -29,6 +31,10 @@ Disease-associated maternal and/or embryo/fetal risk
 Women who discontinue antidepressants during pregnancy are more likely to experience a relapse of major depression than women who continue antidepressants.
 This finding is from a prospective, longitudinal study that followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants at the beginning of pregnancy.
 Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
+
+Maternal Adverse Reactions
+
+Use of PROZAC in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.7)].
 
 Fetal/Neonatal adverse reactions
 
@@ -74,7 +80,7 @@ A study of 19 nursing mothers on fluoxetine with daily doses of 10-60 mg showed 
 
 ## 8.4 Pediatric Use
 
-Use of PROZAC in children— The efficacy of PROZAC for the treatment of Major Depressive Disorder was demonstrated in two 8- to 9-week placebo-controlled clinical trials with 315 pediatric outpatients ages 8 to ≤18 [see Clinical Studies (14.1)].
+Use of PROZAC in children — The efficacy of PROZAC for the treatment of Major Depressive Disorder was demonstrated in two 8- to 9-week placebo-controlled clinical trials with 315 pediatric outpatients ages 8 to ≤18 [see Clinical Studies (14.1)].
 
 The efficacy of PROZAC for the treatment of OCD was demonstrated in one 13-week placebo-controlled clinical trial with 103 pediatric outpatients ages 7 to <18 [see Clinical Studies (14.2)].
 
@@ -99,7 +105,7 @@ Therefore, height and weight should be monitored periodically in pediatric patie
 PROZAC is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
 Anyone considering the use of PROZAC in a child or adolescent must balance the potential risks with the clinical need.
 
-Animal Data— Significant toxicity on muscle tissue, neurobehavior, reproductive organs, and bone development has been observed following exposure of juvenile rats to fluoxetine from weaning through maturity.
+Animal Data — Significant toxicity on muscle tissue, neurobehavior, reproductive organs, and bone development has been observed following exposure of juvenile rats to fluoxetine from weaning through maturity.
 Oral administration of fluoxetine to rats from weaning postnatal day 21 through adulthood day 90 at 3, 10, or 30 mg/kg/day was associated with testicular degeneration and necrosis, epididymal vacuolation and hypospermia (at 30 mg/kg/day corresponding to plasma exposures [AUC] approximately 5-10 times the average AUC in pediatric patients at the MRHD of 20 mg/day), increased serum levels of creatine kinase (at AUC as low as 1-2 times the average AUC in pediatric patients at the MRHD of 20 mg/day), skeletal muscle degeneration and necrosis, decreased femur length/growth and body weight gain (at AUC 5-10 times the average AUC in pediatric patients at the MRHD of 20 mg/day).
 The high dose of 30 mg/kg/day exceeded a maximum tolerated dose.
 When animals were evaluated after a drug-free period (up to 11 weeks after cessation of dosing), fluoxetine was associated with neurobehavioral abnormalities (decreased reactivity at AUC as low as approximately 0.1-0.2 times the average AUC in pediatric patients at the MRHD and learning deficit at the high dose), and reproductive functional impairment (decreased mating at all doses and impaired fertility at the high dose).

@@ -26,7 +26,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of PROZAC and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.3)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of PROZAC and other serotonergic agents including triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, and St. John's Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.3)].
 
 Patients should be advised of the signs and symptoms associated with serotonin syndrome that may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be cautioned to seek medical care immediately if they experience these symptoms.
@@ -37,7 +37,7 @@ Patients should be advised to notify their healthcare provider if they develop a
 Patients should also be advised of the signs and symptoms associated with a severe allergic reaction, including swelling of the face, eyes, or mouth, or have trouble breathing.
 Patients should be cautioned to seek medical care immediately if they experience these symptoms.
 
-Abnormal Bleeding
+Increased Risk of Bleeding
 
 Patients should be cautioned about the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents have been associated with an increased risk of bleeding [see Warnings and Precautions (5.7) and Drug Interactions (7.4)].
 Patients should be advised to call their healthcare provider if they experience any increased or unusual bruising or bleeding while taking PROZAC.
@@ -83,15 +83,15 @@ Inform patients that they should discuss any changes in sexual function and pote
 
 Use in Specific Populations
 
-Pregnancy— Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with PROZAC.
+Pregnancy — Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with PROZAC.
 
 Advise patients that PROZAC use later in pregnancy may lead to increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, tube feeding, and/or persistent pulmonary hypertension of the newborn (PPHN) [see Use in Specific Populations (8.1)].
 
 Advise women that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to PROZAC during pregnancy [see Use in Specific Populations (8.1)].
 
-Lactation—Advise breastfeeding women using PROZAC to monitor infants for agitation, irritability, poor feeding and poor weight gain and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
+Lactation —Advise breastfeeding women using PROZAC to monitor infants for agitation, irritability, poor feeding and poor weight gain and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
 
-Pediatric Use of PROZAC— PROZAC is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
+Pediatric Use of PROZAC — PROZAC is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
 Limited evidence is available concerning the longer-term effects of fluoxetine on the development and maturation of children and adolescent patients.
 Height and weight should be monitored periodically in pediatric patients receiving fluoxetine [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
 
@@ -99,6 +99,6 @@ Pediatric Use of PROZAC and olanzapine in combination - Safety and efficacy of P
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
-Copyright © 1987, 2021, Eli Lilly and Company.
+Copyright © 1987, 2023, Eli Lilly and Company.
 All rights reserved.
-PRZ-0008-USPI-20211223
+PRZ-0009-USPI-20230818

@@ -150,7 +150,7 @@ Before starting PROZAC, tell your healthcare provider if you:
   - Triptans used to treat migraine headache
   - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics
   - Amphetamines
-  - Tramadol and fentanyl
+  - Tramadol, fentanyl, meperidine, methadone, or other opioids
   - Over-the-counter supplements such as tryptophan or St. John's Wort
   - Electroconvulsive therapy (ECT)
 - have liver problems
@@ -274,13 +274,13 @@ Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised October, 2021
+Medication Guide revised August, 2023
 
 Marketed by: Lilly USA, LLC
 
 Indianapolis, IN 46285, USA
 
-Copyright © 2009, 2021, Eli Lilly and Company.
+Copyright © 2009, 2023, Eli Lilly and Company.
 All rights reserved.
 
-PRZ-0005-MG-20211006
+PRZ-0006-MG-20230818

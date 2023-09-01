@@ -8,7 +8,7 @@ The following adverse reactions are discussed in more detail in other sections o
 - Screening Patients for Bipolar Disorder and Monitoring for Mania/Hypomania [see Warnings and Precautions (5.4)]
 - Seizures [see Warnings and Precautions (5.5)]
 - Altered Appetite and Weight [see Warnings and Precautions (5.6)]
-- Abnormal Bleeding [see Warnings and Precautions (5.7)]
+- Increased Risk of Bleeding [see Warnings and Precautions (5.7)]
 - Angle-Closure Glaucoma [see Warnings and Precautions (5.8)]
 - Hyponatremia [see Warnings and Precautions (5.9)]
 - Anxiety and Insomnia [see Warnings and Precautions (5.10)]
@@ -28,7 +28,7 @@ In addition, there have been 425 patients administered PROZAC in panic clinical 
 The stated frequencies represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse reaction of the type listed.
 A reaction was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 
-Incidence in Major Depressive Disorder, OCD, bulimia, and Panic Disorder placebo-controlled clinical trials (excluding data from extensions of trials)—Table 3 enumerates the most common treatment-emergent adverse reactions associated with the use of PROZAC (incidence of at least 5% for PROZAC and at least twice that for placebo within at least 1 of the indications) for the treatment of Major Depressive Disorder, OCD, and bulimia in US controlled clinical trials and Panic Disorder in US plus non-US controlled trials.
+Incidence in Major Depressive Disorder, OCD, bulimia, and Panic Disorder placebo-controlled clinical trials (excluding data from extensions of trials) — Table 3 enumerates the most common treatment-emergent adverse reactions associated with the use of PROZAC (incidence of at least 5% for PROZAC and at least twice that for placebo within at least 1 of the indications) for the treatment of Major Depressive Disorder, OCD, and bulimia in US controlled clinical trials and Panic Disorder in US plus non-US controlled trials.
 Table 5 enumerates treatment-emergent adverse reactions that occurred in 2% or more patients treated with PROZAC and with incidence greater than placebo who participated in US Major Depressive Disorder, OCD, and bulimia controlled clinical trials and US plus non-US Panic Disorder controlled clinical trials.
 Table 4 provides combined data for the pool of studies that are provided separately by indication in Table 3.
 
@@ -115,7 +115,7 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Dis
 | 1 Incidence less than 1%. |  |  |
 | 2 Includes US data for Major Depressive Disorder, OCD, Bulimia, and Panic Disorder clinical trials, plus non-US data for Panic Disorder clinical trials. |  |  |
 
-Associated with discontinuation in Major Depressive Disorder, OCD, bulimia, and Panic Disorder placebo-controlled clinical trials (excluding data from extensions of trials)—Table 5 lists the adverse reactions associated with discontinuation of PROZAC treatment (incidence at least twice that for placebo and at least 1% for PROZAC in clinical trials collecting only a primary reaction associated with discontinuation) in Major Depressive Disorder, OCD, bulimia, and Panic Disorder clinical trials, plus non-US Panic Disorder clinical trials.
+Associated with discontinuation in Major Depressive Disorder, OCD, bulimia, and Panic Disorder placebo-controlled clinical trials (excluding data from extensions of trials) — Table 5 lists the adverse reactions associated with discontinuation of PROZAC treatment (incidence at least twice that for placebo and at least 1% for PROZAC in clinical trials collecting only a primary reaction associated with discontinuation) in Major Depressive Disorder, OCD, bulimia, and Panic Disorder clinical trials, plus non-US Panic Disorder clinical trials.
 
 Table 5: Most Common Adverse Reactions Associated with Discontinuation in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical Trials1
 
@@ -127,14 +127,14 @@ Table 5: Most Common Adverse Reactions Associated with Discontinuation in Major 
 | -- | -- | Rash (1%) | -- | -- |
 | 1 Includes US Major Depressive Disorder, OCD, Bulimia, and Panic Disorder clinical trials, plus non-US Panic Disorder clinical trials. |  |  |  |  |
 
-Other adverse reactions in pediatric patients (children and adolescents)— Treatment-emergent adverse reactions were collected in 322 pediatric patients (180 fluoxetine-treated, 142 placebo-treated).
+Other adverse reactions in pediatric patients (children and adolescents) — Treatment-emergent adverse reactions were collected in 322 pediatric patients (180 fluoxetine-treated, 142 placebo-treated).
 The overall profile of adverse reactions was generally similar to that seen in adult studies, as shown in Tables 4 and 5.
 However, the following adverse reactions (excluding those which appear in the body or footnotes of Tables 4 and 5 and those for which the COSTART terms were uninformative or misleading) were reported at an incidence of at least 2% for fluoxetine and greater than placebo: thirst, hyperkinesia, agitation, personality disorder, epistaxis, urinary frequency, and menorrhagia.
 
 The most common adverse reaction (incidence at least 1% for fluoxetine and greater than placebo) associated with discontinuation in 3 pediatric placebo-controlled trials (N=418 randomized; 228 fluoxetine-treated; 190 placebo-treated) was mania/hypomania (1.8% for fluoxetine-treated, 0% for placebo-treated).
 In these clinical trials, only a primary reaction associated with discontinuation was collected.
 
-Male and female sexual dysfunction with SSRIs— Although changes in sexual desire, sexual performance, and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
+Male and female sexual dysfunction with SSRIs — Although changes in sexual desire, sexual performance, and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
 In particular, some evidence suggests that SSRIs can cause such untoward sexual experiences.
 Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance, and satisfaction are difficult to obtain, however, in part because patients and healthcare providers may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance, cited in product labeling, are likely to underestimate their actual incidence.
@@ -156,25 +156,25 @@ This listing is not intended to include reactions (1) already listed in previous
 
 Reactions are classified by body system using the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients.
 
-Body as a Whole—Frequent: chills; Infrequent: suicide attempt; Rare: acute abdominal syndrome, photosensitivity reaction.
+Body as a Whole — Frequent: chills; Infrequent: suicide attempt; Rare: acute abdominal syndrome, photosensitivity reaction.
 
-Cardiovascular System—Frequent: palpitation; Infrequent: arrhythmia, hypotension1.
+Cardiovascular System — Frequent: palpitation; Infrequent: arrhythmia, hypotension1.
 
-Digestive System—Infrequent: dysphagia, gastritis, gastroenteritis, melena, stomach ulcer; Rare: bloody diarrhea, duodenal ulcer, esophageal ulcer, gastrointestinal hemorrhage, hematemesis, hepatitis, peptic ulcer, stomach ulcer hemorrhage.
+Digestive System — Infrequent: dysphagia, gastritis, gastroenteritis, melena, stomach ulcer; Rare: bloody diarrhea, duodenal ulcer, esophageal ulcer, gastrointestinal hemorrhage, hematemesis, hepatitis, peptic ulcer, stomach ulcer hemorrhage.
 
-Hemic and Lymphatic System—Infrequent: ecchymosis; Rare: petechia, purpura.
+Hemic and Lymphatic System — Infrequent: ecchymosis; Rare: petechia, purpura.
 
-Investigations—Frequent: QT interval prolongation (QTcF ≥450 msec)3.
+Investigations — Frequent: QT interval prolongation (QTcF ≥450 msec)3.
 
-Nervous System—Frequent: emotional lability; Infrequent: akathisia, ataxia, balance disorder1, bruxism1, buccoglossal syndrome, depersonalization, euphoria, hypertonia, libido increased, myoclonus, paranoid reaction; Rare: delusions.
+Nervous System — Frequent: emotional lability; Infrequent: akathisia, ataxia, balance disorder1, bruxism1, buccoglossal syndrome, depersonalization, euphoria, hypertonia, libido increased, myoclonus, paranoid reaction; Rare: delusions.
 
-Respiratory System—Rare: larynx edema.
+Respiratory System — Rare: larynx edema.
 
-Skin and Appendages—Infrequent: alopecia; Rare: purpuric rash.
+Skin and Appendages — Infrequent: alopecia; Rare: purpuric rash.
 
-Special Senses—Frequent: taste perversion; Infrequent: mydriasis.
+Special Senses — Frequent: taste perversion; Infrequent: mydriasis.
 
-Urogenital System—Frequent: micturition disorder; Infrequent: dysuria, gynecological bleeding2.
+Urogenital System — Frequent: micturition disorder; Infrequent: dysuria, gynecological bleeding2.
 
 1 MedDRA dictionary term from integrated database of placebo controlled trials of 15870 patients, of which 9673 patients received fluoxetine.
 2 Group term that includes individual MedDRA terms: cervix hemorrhage uterine, dysfunctional uterine bleeding, genital hemorrhage, menometrorrhagia, menorrhagia, metrorrhagia, polymenorrhea, postmenopausal hemorrhage, uterine hemorrhage, vaginal hemorrhage.
@@ -186,7 +186,7 @@ Adjusted for gender.
 The following adverse reactions have been identified during post approval use of PROZAC.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or evaluate a causal relationship to drug exposure.
 
-Voluntary reports of adverse reactions temporally associated with PROZAC that have been received since market introduction and that may have no causal relationship with the drug include the following: aplastic anemia, atrial fibrillation1, cataract, cerebrovascular accident1, cholestatic jaundice, dyskinesia (including, for example, a case of buccal-lingual-masticatory syndrome with involuntary tongue protrusion reported to develop in a 77-year-old female after 5 weeks of fluoxetine therapy and which completely resolved over the next few months following drug discontinuation), eosinophilic pneumonia1, epidermal necrolysis, erythema multiforme, erythema nodosum, exfoliative dermatitis, galactorrhea, gynecomastia, heart arrest1, hepatic failure/necrosis, hyperprolactinemia, hypoglycemia, immune-related hemolytic anemia, kidney failure, memory impairment, movement disorders developing in patients with risk factors including drugs associated with such reactions and worsening of pre-existing movement disorders, optic neuritis, pancreatitis1, pancytopenia, pulmonary embolism, pulmonary hypertension, QT prolongation, Stevens-Johnson syndrome, thrombocytopenia1, thrombocytopenic purpura, ventricular tachycardia (including Torsades de Pointes–type arrhythmias), vaginal bleeding, and violent behaviors1.
+Voluntary reports of adverse reactions temporally associated with PROZAC that have been received since market introduction and that may have no causal relationship with the drug include the following: anosmia, aplastic anemia, atrial fibrillation1, cataract, cerebrovascular accident1, cholestatic jaundice, drug reaction with eosinophilia and systemic symptoms (DRESS), dyskinesia (including, for example, a case of buccal-lingual-masticatory syndrome with involuntary tongue protrusion reported to develop in a 77-year-old female after 5 weeks of fluoxetine therapy and which completely resolved over the next few months following drug discontinuation), eosinophilic pneumonia1, epidermal necrolysis, erythema multiforme, erythema nodosum, exfoliative dermatitis, galactorrhea, gynecomastia, heart arrest1, hepatic failure/necrosis, hyperprolactinemia, hypoglycemia, hyposmia, immune-related hemolytic anemia, kidney failure, memory impairment, movement disorders developing in patients with risk factors including drugs associated with such reactions and worsening of pre-existing movement disorders, optic neuritis, pancreatitis1, pancytopenia, pulmonary embolism, pulmonary hypertension, QT prolongation, Stevens-Johnson syndrome, thrombocytopenia1, thrombocytopenic purpura, ventricular tachycardia (including Torsades de Pointes–type arrhythmias), vaginal bleeding, and violent behaviors1.
 
 1 These terms represent serious adverse events, but do not meet the definition for adverse drug reactions.
 They are included here because of their seriousness.

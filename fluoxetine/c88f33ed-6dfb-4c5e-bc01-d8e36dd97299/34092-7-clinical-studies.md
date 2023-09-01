@@ -44,7 +44,7 @@ PROZAC 20 mg once daily demonstrated superior efficacy (having a significantly l
 
 ## 14.2 Obsessive Compulsive Disorder
 
-Adult— The effectiveness of PROZAC for the treatment of Obsessive Compulsive Disorder (OCD) was demonstrated in two 13-week, multicenter, parallel group studies (Studies 1 and 2) of adult outpatients who received fixed PROZAC doses of 20, 40, or 60 mg/day (on a once-a-day schedule, in the morning) or placebo.
+Adult — The effectiveness of PROZAC for the treatment of Obsessive Compulsive Disorder (OCD) was demonstrated in two 13-week, multicenter, parallel group studies (Studies 1 and 2) of adult outpatients who received fixed PROZAC doses of 20, 40, or 60 mg/day (on a once-a-day schedule, in the morning) or placebo.
 Patients in both studies had moderate to severe OCD (DSM-III-R), with mean baseline ratings on the Yale-Brown Obsessive Compulsive Scale (YBOCS, total score) ranging from 22 to 26.
 In Study 1, patients receiving PROZAC experienced mean reductions of approximately 4 to 6 units on the YBOCS total score, compared with a 1-unit reduction for placebo patients.
 In Study 2, patients receiving PROZAC experienced mean reductions of approximately 4 to 9 units on the YBOCS total score, compared with a 1-unit reduction for placebo patients.
@@ -65,7 +65,7 @@ Table 6
 
 Exploratory analyses for age and gender effects on outcome did not suggest any differential responsiveness on the basis of age or sex.
 
-Pediatric (children and adolescents)— In one 13-week clinical trial in pediatric patients (N=103 randomized; 75 children ages 7 to <13, 28 adolescents ages 13 to <18) with OCD (DSM-IV), patients received PROZAC 10 mg/day for 2 weeks, followed by 20 mg/day for 2 weeks.
+Pediatric (children and adolescents) — In one 13-week clinical trial in pediatric patients (N=103 randomized; 75 children ages 7 to <13, 28 adolescents ages 13 to <18) with OCD (DSM-IV), patients received PROZAC 10 mg/day for 2 weeks, followed by 20 mg/day for 2 weeks.
 The dose was then adjusted in the range of 20 to 60 mg/day on the basis of clinical response and tolerability.
 PROZAC produced a statistically significantly greater mean change from baseline to endpoint than did placebo as measured by the Children's Yale-Brown Obsessive Compulsive Scale (CY-BOCS).
 

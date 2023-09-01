@@ -51,21 +51,20 @@ It should be noted that PROZAC is approved in the pediatric population for Major
 
 ## 5.2 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including PROZAC, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Selective serotonin reuptake inhibitors (SSRIs), including PROZAC, can precipitate serotonin syndrome, a potentially life-threatening condition.
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, meperidine, methadone, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)].
+Serotonin syndrome can also occur when these drugs are used alone.
 
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Patients should be monitored for the emergence of serotonin syndrome.
+Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
-The concomitant use of PROZAC with MAOIs intended to treat psychiatric disorders is contraindicated.
-PROZAC should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
-All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
-No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
-There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking PROZAC.
-PROZAC should be discontinued before initiating treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration (2.9, 2.10)].
+The concomitant use of PROZAC with MAOIs is contraindicated.
+In addition, do not initiate PROZAC in a patient being treated with MAOIs such as linezolid or intravenous methylene blue.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection).
+If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking PROZAC, discontinue PROZAC before initiating treatment with the MAOI [see Contraindications (4) and Drug Interactions (7.1)].
 
-If concomitant use of PROZAC with other serotonergic drugs, i.e., triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
-
-Treatment with PROZAC and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Monitor all patients taking PROZAC for the emergence of serotonin syndrome.
+Discontinue treatment with PROZAC and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
+If concomitant use of PROZAC with other serotonergic drugs is clinically warranted, inform patients of the increased risk for serotonin syndrome and monitor for symptoms.
 
 ## 5.3 Allergic Reactions and Rash
 
@@ -130,14 +129,15 @@ In US placebo-controlled clinical trials for Bulimia Nervosa, 8% of patients tre
 Patients treated with PROZAC 60 mg on average lost 0.45 kg compared with a gain of 0.16 kg by patients treated with placebo in the 16-week double-blind trial.
 Weight change should be monitored during therapy.
 
-## 5.7 Abnormal Bleeding
+## 5.7 Increased Risk of Bleeding
 
 SNRIs and SSRIs, including fluoxetine, may increase the risk of bleeding reactions.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Use in Specific Populations (8.1)].
 Bleeding reactions related to SNRIs and SSRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
-Patients should be cautioned about the risk of bleeding associated with the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
+Patients should be cautioned about the increased risk of bleeding associated with the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
 
 ## 5.8 Angle-Closure Glaucoma
 
@@ -186,12 +186,12 @@ Consider discontinuing PROZAC and obtaining a cardiac evaluation if patients dev
 Clinical experience with PROZAC in patients with concomitant systemic illness is limited.
 Caution is advisable in using PROZAC in patients with diseases or conditions that could affect metabolism or hemodynamic responses.
 
-Cardiovascular— Fluoxetine has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
+Cardiovascular — Fluoxetine has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were systematically excluded from clinical studies during the product's premarket testing.
 However, the electrocardiograms of 312 patients who received PROZAC in double-blind trials were retrospectively evaluated; no conduction abnormalities that resulted in heart block were observed.
 The mean heart rate was reduced by approximately 3 beats/min.
 
-Glycemic Control— In patients with diabetes, PROZAC may alter glycemic control.
+Glycemic Control — In patients with diabetes, PROZAC may alter glycemic control.
 Hypoglycemia has occurred during therapy with PROZAC, and hyperglycemia has developed following discontinuation of the drug.
 As is true with many other types of medication when taken concurrently by patients with diabetes, insulin and/or oral hypoglycemic, dosage may need to be adjusted when therapy with PROZAC is instituted or discontinued.
 
