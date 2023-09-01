@@ -8,7 +8,7 @@ NDC 68382-003-05 in bottles of 500 tablets
 
 ## STORAGE
 
-Store at 20° to 25° C (68° to 77° F) [See USP Controlled Room Temperature] in a dry place and protect from light.
+Store at 20°C to 25° C (68°F to 77° F) [See USP Controlled Room Temperature] in a dry place and protect from light.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
