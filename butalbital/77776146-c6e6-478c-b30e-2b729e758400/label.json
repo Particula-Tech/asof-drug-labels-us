@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA089175"
+  ],
+  "inn": "butalbital",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-751-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "butalbital, acetaminophen and caffeine",
+      "name": "BUTALBITAL, ACETAMINOPHEN AND CAFFEINE"
+    }
+  ],
+  "setid": "77776146-c6e6-478c-b30e-2b729e758400",
+  "source": "dailymed"
+}

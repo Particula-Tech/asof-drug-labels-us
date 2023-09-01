@@ -1,0 +1,6 @@
+# DOSAGE AND ADMINISTRATION
+
+One or two tablets every four hours as needed.
+Total daily dosage should not exceed 6 tablets.
+
+Extended and repeated use of this product is not recommended because of the potential for physical dependence.
