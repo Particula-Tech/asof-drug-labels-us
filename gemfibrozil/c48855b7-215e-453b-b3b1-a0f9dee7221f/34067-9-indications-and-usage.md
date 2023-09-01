@@ -2,14 +2,14 @@
 
 LOPID (gemfibrozil tablets, USP) is indicated as adjunctive therapy to diet for:
 
-1. Treatment of adult patients with very high elevations of serum triglyceride levels (Types IV and V hyperlipidemia) who present a risk of pancreatitis and who do not respond adequately to a determined dietary effort to control them.
+1. 1.Treatment of adult patients with very high elevations of serum triglyceride levels (Types IV and V hyperlipidemia) who present a risk of pancreatitis and who do not respond adequately to a determined dietary effort to control them.
    Patients who present such risk typically have serum triglycerides over 2000 mg/dL and have elevations of VLDL-cholesterol as well as fasting chylomicrons (Type V hyperlipidemia).
    Subjects who consistently have total serum or plasma triglycerides below 1000 mg/dL are unlikely to present a risk of pancreatitis.
    LOPID therapy may be considered for those subjects with triglyceride elevations between 1000 and 2000 mg/dL who have a history of pancreatitis or of recurrent abdominal pain typical of pancreatitis.
    It is recognized that some Type IV patients with triglycerides under 1000 mg/dL may, through dietary or alcoholic indiscretion, convert to a Type V pattern with massive triglyceride elevations accompanying fasting chylomicronemia, but the influence of LOPID therapy on the risk of pancreatitis in such situations has not been adequately studied.
    Drug therapy is not indicated for patients with Type I hyperlipoproteinemia, who have elevations of chylomicrons and plasma triglycerides, but who have normal levels of very low density lipoprotein (VLDL).
    Inspection of plasma refrigerated for 14 hours is helpful in distinguishing Types I, IV, and V hyperlipoproteinemia.
-2. Reducing the risk of developing coronary heart disease only in Type IIb patients without history of or symptoms of existing coronary heart disease who have had an inadequate response to weight loss, dietary therapy, exercise, and other pharmacologic agents (such as bile acid sequestrants and nicotinic acid, known to reduce LDL- and raise HDL-cholesterol) and who have the following triad of lipid abnormalities: low HDL-cholesterol levels in addition to elevated LDL-cholesterol and elevated triglycerides (see WARNINGS, PRECAUTIONS, and CLINICAL PHARMACOLOGY).
+2. 2.Reducing the risk of developing coronary heart disease only in Type IIb patients without history of or symptoms of existing coronary heart disease who have had an inadequate response to weight loss, dietary therapy, exercise, and other pharmacologic agents (such as bile acid sequestrants and nicotinic acid, known to reduce LDL- and raise HDL-cholesterol) and who have the following triad of lipid abnormalities: low HDL-cholesterol levels in addition to elevated LDL-cholesterol and elevated triglycerides (see WARNINGS, PRECAUTIONS, and CLINICAL PHARMACOLOGY).
    The National Cholesterol Education Program has defined a serum HDL-cholesterol value that is consistently below 35 mg/dL as constituting an independent risk factor for coronary heart disease.
    Patients with significantly elevated triglycerides should be closely observed when treated with gemfibrozil.
    In some patients with high triglyceride levels, treatment with gemfibrozil is associated with a significant increase in LDL-cholesterol.
