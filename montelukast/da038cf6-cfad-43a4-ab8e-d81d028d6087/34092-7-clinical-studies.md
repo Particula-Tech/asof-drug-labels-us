@@ -162,14 +162,15 @@ The median age in this trial was 35.0 years (range 15 to 81); 65.4% were females
 The ethnic/racial distribution in this study was 83.1% Caucasian, 6.4% other origins, 5.8% Black, and 4.8% Hispanic.
 The mean changes from baseline in daytime nasal symptoms score in the treatment groups that received montelukast sodium tablets, loratadine, and placebo are shown in TABLE 9.
 The remaining three trials that demonstrated efficacy showed similar results.
+Efficacy was demonstrated for seasonal allergic rhinitis when montelukast was administered in the morning or the evening.
 
 Table 9: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score* in a Placebo- and Active-controlled Trial in Patients with Seasonal Allergic Rhinitis(ANCOVA Model)
 
 | Treatment Group (N) | Baseline Mean Score | Mean Change from Baseline | Difference Between Treatment and Placebo (95% CI) Least-Squares Mean |
 | --- | --- | --- | --- |
-| Montelukast 10 mg (344) | 2.09 | -0.39 | -0.13 ‡ (-0.21, -0.06) |
+| Montelukast 10 mg (344) | 2.09 | -0.39 | -0.13† (-0.21, -0.06) |
 | Placebo (351) | 2.10 | -0.26 | N.A. |
-| Active control † (Loratadine 10 mg) (599) | 2.06 | -0.46 | -0.24 ‡ (-0.31, -0.17) |
+| Active control‡ (Loratadine 10 mg) (599) | 2.06 | -0.46 | -0.24† (-0.31, -0.17) |
 | * Average of individual scores of nasal congestion, rhinorrhea, nasal itching, sneezing as assessed by patients on a 0 to 3 categorical scale. |  |  |  |
 | † The study was not designed for statistical comparison between Montelukast Sodium and the active control (loratadine). |  |  |  |
 | ‡ Statistically different from placebo (p≤0.001). |  |  |  |
@@ -188,9 +189,10 @@ Table 10: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score* in a Pl
 
 | Treatment Group (N) | Baseline Mean Score | Mean Change from Baseline | Difference Between Treatment and Placebo (95% CI) Least-Squares Mean |
 | --- | --- | --- | --- |
-| Montelukast 10 mg (1,000) | 2.09 | -0.42 | -0.08 † (-0.12, -0.04) |
+| Montelukast 10 mg (1,000) | 2.09 | -0.42 | -0.08† (-0.12, -0.04) |
 | Placebo (980) | 2.10 | -0.35 | N.A. |
 | * Average of individual scores of nasal congestion, rhinorrhea, sneezing as assessed by patients on a 0 to 3 categorical scale. |  |  |  |
+| † Statistically different from placebo (p≤0.001). |  |  |  |
 
 The other 6-week study evaluated montelukast 10 mg (n=626), placebo (n=609), and an active-control (cetirizine 10 mg; n=120).
 The primary analysis compared the mean change from baseline in daytime nasal symptoms score for montelukast sodium vs. placebo over the first 4 weeks of treatment; the study was not designed for statistical comparison between montelukast sodium and the active-control.

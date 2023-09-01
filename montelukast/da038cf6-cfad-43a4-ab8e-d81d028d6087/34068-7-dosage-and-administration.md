@@ -75,7 +75,7 @@ Patients who miss a dose should take the next dose at their regular time and sho
 
 ## 2.4 Asthma and Allergic Rhinitis
 
-Patients with both asthma and allergic rhinitis should take only one montelukast sodium dose daily in the evening.
+For patients with both asthma and allergic rhinitis, administer only one montelukast sodium dose orally once daily in the evening.
 
 Patients who miss a dose should take the next dose at their regular time and should not take 2 doses at the same time.
 

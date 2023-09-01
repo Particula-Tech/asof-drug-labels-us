@@ -4,7 +4,7 @@ Montelukast Sodium
 
 MON-te-LOO-kast SO-dee-um
 
-oral granules
+oral granules, USP
 
 This Instructions for Use contains information on how to use montelukast oral granules.
 
@@ -36,11 +36,11 @@ How should I store montelukast sodium?
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured for:
 
-TORRENT PHARMA., Basking Ridge, NJ 07920
+TORRENT PHARMA., Basking Ridge, NJ 07920.
 
 This Instruction for Use has been approved by the U.S. Food and Drug Administration
 

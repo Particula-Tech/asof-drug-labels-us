@@ -1,7 +1,7 @@
 Medication Guide Montelukast Sodium (MON-te-LOO-kast SO-dee-um) Tablets USP and Montelukast Sodium (MON-te-LOO-kast SO-dee-um) Chewable Tablets USP Montelukast Sodium (MON-te-LOO-kast SO-dee-um) Oral Granules USP
 
-What is the most important information I should know about Montelukast Sodium?
-Serious mental health problems have happened in people taking Montelukast sodium or even after treatment has stopped.
+What is the most important information I should know about montelukast sodium?
+Serious mental health problems have happened in people taking montelukast sodium or even after treatment has stopped.
 This can happen in people with or without a history of mental health problems.
 Stop taking montelukast sodium and tell your healthcare provider right away if you or your child have any unusual changes in behavior or thinking, including any of these symptoms:
 
@@ -23,7 +23,7 @@ Stop taking montelukast sodium and tell your healthcare provider right away if y
 - trouble sleeping
 - uncontrolled muscle movements
 
-What is montelukast sodium?
+What is Montelukast Sodium?
 
 Montelukast sodium is a prescription medicine that blocks substances in the body called leukotrienes.
 This may help to improve symptoms of asthma and inflammation of the lining of the nose (allergic rhinitis).
@@ -44,17 +44,18 @@ Montelukast sodium is used to treat the following in people who have already tak
 Do not take montelukast sodium if you are allergic to any of its ingredients.
 See the end of this Medication Guide for a complete list of ingredients in Montelukast sodium.
 
-Before taking montelukast sodium, tell your healthcare provider about all your medical conditions, including if you: • are allergic to aspirin. • have phenylketonuria.
+Before taking Montelukast Sodium, tell your healthcare provider about all your medical conditions, including if you: • are allergic to aspirin. • have phenylketonuria.
 Montelukast sodium chewable tablets contain aspartame, a source of phenylalanine. • have or have had mental health problems. • are pregnant or plan to become pregnant.
-Talk to your healthcare provider if you are pregnant or plan to become pregnant, montelukast sodium may not be right for you. • are breast-feeding or plan to breast-feed.
+Talk to your healthcare provider if you are pregnant or plan to become pregnant, montelukast sodium may not be right for you. • are breast feeding or plan to breast feed.
 It is not known if montelukast sodium passes into your breast milk.
 Talk to your healthcare provider about the best way to feed your baby while taking montelukast sodium.
-Tell your healthcare provider about all the medicines you take, including prescription and over the counter medicines, vitamins, and herbal supplements.
-Some medicines may affect how montelukast sodium works, or montelukast sodium may affect how your other medicines work.
 
-How should I take montelukast sodium?
+- Tell your healthcare provider about all the medicines you take, including prescription and over the counter medicines, vitamins, and herbal supplements.
+  Some medicines may affect how montelukast sodium works, or montelukast sodium may affect how your other medicines work.
 
-For anyone who takes montelukast sodium: • Read the detailed Instructions for Use that comes with montelukast sodium oral granules. • Take montelukast sodium exactly as prescribed by your healthcare provider.
+How should I take Montelukast Sodium?
+
+For anyone who takes Montelukast Sodium: • Read the detailed Instructions for Use that comes with montelukast sodium oral granules. • Take montelukast sodium exactly as prescribed by your healthcare provider.
 Your healthcare provider will tell you how much montelukast sodium to take, and when to take it. • Stop taking montelukast sodium and tell your healthcare provider right away if you or your child have any unusual changes in behavior or thinking. • You can take montelukast sodium with food or without food.
 See the section "How can I give montelukast sodium oral granules to my child?"
 In the Instructions for Use for information about what foods and liquids can be taken with montelukast sodium oral granules. • If you or your child misses a dose of montelukast sodium, just take the next dose at your regular time.
@@ -90,6 +91,8 @@ Do not give montelukast sodium to other people even if they have the same sympto
 It may harm them.
 You can ask your pharmacist or healthcare provider for information about montelukast sodium that is written for health professionals.
 
+For more information, call Torrent Pharma Inc. at 1-800-912-9561.
+
 What are the ingredients in montelukast sodium?
 
 Active ingredient: Montelukast Sodium USP
@@ -108,4 +111,4 @@ TORRENT PHARMACEUTICALS LTD., INDIA
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920 8089425 Revised: October 2022
+TORRENT PHARMA INC., Basking Ridge, NJ 07920 8089426 Revised: October 2022
