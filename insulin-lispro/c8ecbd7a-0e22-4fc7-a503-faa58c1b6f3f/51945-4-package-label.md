@@ -20,6 +20,28 @@ www.humalog.com
 
 Lilly
 
+PACKAGE CARTON – HUMALOG 3 mL vial
+
+NDC 0002-7533-01
+
+Humalog®
+
+(insulin lispro) injection
+
+100 units per mL (U-100)
+
+For subcutaneous or intravenous use
+
+3 mL multiple-dose vial
+
+Use only with a U-100 syringe
+
+Rx only
+
+www.humalog.com
+
+Lilly
+
 PACKAGE CARTON – HUMALOG KwikPen
 
 NDC 0002-8799-59

@@ -64,4 +64,4 @@ Humalog®, Humalog KwikPen®, Humalog Tempo Penä, Humalog® Junior KwikPen®, H
 www.humalog.com Copyright © 1996, 2023, Eli Lilly and Company.
 All rights reserved.
 
-LOG-0010-USPI-20230721
+LOG-0011-USPI-20230802

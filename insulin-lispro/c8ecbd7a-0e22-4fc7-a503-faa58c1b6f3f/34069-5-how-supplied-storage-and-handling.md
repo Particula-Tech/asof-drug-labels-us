@@ -8,6 +8,7 @@ HUMALOG (insulin lispro) injection is a clear and colorless solution available a
 | --- | --- | --- | --- | --- |
 | U-100 multiple-dose vial | 10 mL | 100 units/mL | 0002-7510-01 | 1 vial |
 | U-100 multiple-dose vial | 3 mL | 100 units/mL | 0002-7510-17 | 1 vial |
+| U-100 multiple-dose vial | 3 mL | 100 units/mL | 0002-7533-01 | 1 vial |
 | U-100 single-patient-use cartridge1 | 3 mL | 100 units/mL | 0002-7516-59 | 5 cartridges |
 | U-100 single-patient-use KwikPen | 3 mL | 100 units/mL | 0002-8799-59 | 5 pens |
 | U-100 single-patient-use Tempo Pena | 3 mL | 100 units/mL | 0002-8213-05 | 5 pens |
