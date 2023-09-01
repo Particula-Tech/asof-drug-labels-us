@@ -101,9 +101,9 @@ Before starting Cymbalta, tell your healthcare provider if you:
   Cymbalta may harm your unborn baby.
   Talk to your healthcare provider about the risk to your unborn baby if you take Cymbalta during pregnancy.
   - Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with Cymbalta.
-  - If you become pregnant while taking Cymbalta, talk to your healthcare provider about registering with the Cymbalta Pregnancy Registry.
-    You can register by calling 1-866-814-6975 or by visiting www.cymbaltapregnancyregistry.com.
-    The purpose of this registry is to monitor the pregnancy outcomes in women who have been treated with Cymbalta at any time during pregnancy.
+  - There is a pregnancy registry for females who are exposed to Cymbalta during pregnancy.
+    The purpose of the registry is to collect information about the health of females exposed to Cymbalta and their baby.
+    If you become pregnant during treatment with Cymbalta, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants at 1-866-961-2388 or visit online at https://womensmentalhealth.org/research/pregnancyregistry/.
 - are breastfeeding or plan to breastfeed.
   Cymbalta passes into your breast milk and may harm your baby.
   Talk to your healthcare provider about the best way to feed your baby while taking Cymbalta.
@@ -115,7 +115,7 @@ Especially tell your healthcare provider if you take:
 
 - triptans used to treat migraine headache
 - medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs or MAOIs
-- tramadol and fentanyl
+- tramadol, fentanyl, meperidine, methadone, or other opioids
 - amphetamines
 - cimetidine
 - the antibiotics ciprofloxacin, enoxacin
@@ -321,13 +321,13 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Coumadin, Jantoven, and Mellaril are trademarks of their respective owners and not trademarks of Eli Lilly and Company.
 
-Medication Guide revised: 09/2021
+Medication Guide revised: 08/2023
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
 Cymbalta is a registered trademark of Eli Lilly and Company.
 
-Copyright © 2009, 2021, Eli Lilly and Company.
+Copyright © 2009, 2023, Eli Lilly and Company.
 All rights reserved.
 
-CYM-0006-MG-20210920
+CYM-0007-MG-20230818

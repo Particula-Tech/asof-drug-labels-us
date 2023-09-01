@@ -16,7 +16,6 @@ CYMBALTA (duloxetine delayed-release capsules) is available in the following str
 | Bottles of 30 | NA | 0002-3240-30 | 0002-3270-30 |
 | Bottles of 60 | 0002-3235-60 | NA | NA |
 | Bottles of 90 | NA | 0002-3240-90 | NA |
-| Bottles of 1000 | NA | NA | 0002-3270-04 |
 | a equivalent to duloxetine base |  |  |  |
 
 ## 16.2 Storage and Handling

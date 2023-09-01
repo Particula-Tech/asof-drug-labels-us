@@ -4,8 +4,8 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors the pregnancy outcomes in women exposed to CYMBALTA during pregnancy.
-To enroll, contact the CYMBALTA Pregnancy Registry at 1-866-814-6975 or www.cymbaltapregnancyregistry.com.
+There is a pregnancy exposure registry that monitors the pregnancy outcomes in women exposed to antidepressants, including CYMBALTA, during pregnancy.
+Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Antidepressants at 1-866-961-2388 or online at https://womensmentalhealth.org/research/pregnancyregistry/.
 
 Risk Summary
 
@@ -35,7 +35,7 @@ It is not known if these adverse maternal and fetal outcomes are a direct result
 
 Maternal Adverse Reactions
 
-Use of duloxetine in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.5)].
+Use of CYMBALTA in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.5)].
 
 Fetal/Neonatal Adverse Reaction
 
