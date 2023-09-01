@@ -21,13 +21,13 @@ Atorvastatin calcium is very slightly soluble in distilled water, pH 7.4 phospha
 
 CADUET is available as film-coated tablets containing:
 
-1. 5 mg amlodipine equivalent to 6.9 mg amlodipine besylate and 10 mg atorvastatin equivalent to 10.4 mg atorvastatin calcium.
-2. 5 mg amlodipine equivalent to 6.9 mg amlodipine besylate and 20 mg atorvastatin equivalent to 20.7 mg atorvastatin calcium.
-3. 5 mg amlodipine equivalent to 6.9 mg amlodipine besylate and 40 mg atorvastatin equivalent to 41.4 mg atorvastatin calcium.
-4. 5 mg amlodipine equivalent to 6.9 mg amlodipine besylate and 80 mg atorvastatin equivalent to 82.9 mg atorvastatin calcium.
-5. 10 mg amlodipine equivalent to 13.9 mg amlodipine besylate and 10 mg atorvastatin equivalent to 10.4 mg atorvastatin calcium.
-6. 10 mg amlodipine equivalent to 13.9 mg amlodipine besylate and 20 mg atorvastatin equivalent to 20.7 mg atorvastatin calcium.
-7. 10 mg amlodipine equivalent to 13.9 mg amlodipine besylate and 40 mg atorvastatin equivalent to 41.4 mg atorvastatin calcium.
-8. 10 mg amlodipine equivalent to 13.9 mg amlodipine besylate and 80 mg atorvastatin equivalent to 82.9 mg atorvastatin calcium.
+- •5 mg amlodipine equivalent to 6.9 mg amlodipine besylate and 10 mg atorvastatin equivalent to 10.4 mg atorvastatin calcium.
+- •5 mg amlodipine equivalent to 6.9 mg amlodipine besylate and 20 mg atorvastatin equivalent to 20.7 mg atorvastatin calcium.
+- • 5 mg amlodipine equivalent to 6.9 mg amlodipine besylate and 40 mg atorvastatin equivalent to 41.4 mg atorvastatin calcium.
+- •5 mg amlodipine equivalent to 6.9 mg amlodipine besylate and 80 mg atorvastatin equivalent to 82.9 mg atorvastatin calcium.
+- •10 mg amlodipine equivalent to 13.9 mg amlodipine besylate and 10 mg atorvastatin equivalent to 10.4 mg atorvastatin calcium.
+- •10 mg amlodipine equivalent to 13.9 mg amlodipine besylate and 20 mg atorvastatin equivalent to 20.7 mg atorvastatin calcium.
+- •10 mg amlodipine equivalent to 13.9 mg amlodipine besylate and 40 mg atorvastatin equivalent to 41.4 mg atorvastatin calcium.
+- •10 mg amlodipine equivalent to 13.9 mg amlodipine besylate and 80 mg atorvastatin equivalent to 82.9 mg atorvastatin calcium.
 
 Each film-coated tablet also contains calcium carbonate, croscarmellose sodium, microcrystalline cellulose, pregelatinized starch, polysorbate 80, hydroxypropyl cellulose, purified water, colloidal silicon dioxide (anhydrous), magnesium stearate, Opadry® II White 85F28751 (polyvinyl alcohol, titanium dioxide, PEG 3000, and talc) or Opadry® II Blue 85F10919 (polyvinyl alcohol, titanium dioxide, PEG 3000, talc, and FD&C blue #2).

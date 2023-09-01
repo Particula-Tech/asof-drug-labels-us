@@ -2,8 +2,8 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
-- Myopathy and Rhabdomyolysis [see Warnings and Precautions (5.1)]
-- Liver enzyme abnormalities [see Warnings and Precautions (5.3)]
+- •Myopathy and Rhabdomyolysis [see Warnings and Precautions (5.1)]
+- •Liver enzyme abnormalities [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 

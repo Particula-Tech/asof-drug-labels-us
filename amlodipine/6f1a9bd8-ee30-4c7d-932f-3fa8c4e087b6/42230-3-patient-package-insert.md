@@ -15,20 +15,20 @@ CADUET is used in adults who need both Norvasc and Lipitor.
 
 Norvasc is used to treat:
 
-- High blood pressure (hypertension) and
-- Chest pain (angina) and
-- Blocked arteries of the heart (coronary artery disease)
+- •High blood pressure (hypertension) and
+- •Chest pain (angina) and
+- •Blocked arteries of the heart (coronary artery disease)
 
 Lipitor is used to lower the levels of "bad" cholesterol and triglycerides in your blood.
 It can also raise the levels of "good" cholesterol.
 
 Lipitor is also used to lower the risk for heart attack, stroke, certain types of heart surgery, and chest pain in patients who have heart disease or risk factors for heart disease such as:
 
-- age, smoking, high blood pressure, low levels of "good" cholesterol, heart disease in the family.
+- •age, smoking, high blood pressure, low levels of "good" cholesterol, heart disease in the family.
 
 Lipitor can lower the risk for heart attack or stroke in patients with diabetes and risk factors such as:
 
-- diabetic eye or kidney problems, smoking, or high blood pressure.
+- •diabetic eye or kidney problems, smoking, or high blood pressure.
 
 CADUET has not been studied in children.
 
@@ -36,14 +36,14 @@ Who should not use CADUET?
 
 Do not use CADUET if you:
 
-- Are pregnant or think you may be pregnant, or are planning to become pregnant.
+- •Are pregnant or think you may be pregnant, or are planning to become pregnant.
   CADUET may harm your unborn baby.
   If you get pregnant, stop taking CADUET and call your doctor right away.
-- Are breastfeeding.
+- •Are breastfeeding.
   CADUET can pass into your breast milk and may harm your baby.
   Do not breastfeed if you take CADUET.
-- Have liver problems.
-- Are allergic to anything in CADUET.
+- •Have liver problems.
+- •Are allergic to anything in CADUET.
   The active ingredients are atorvastatin calcium and amlodipine besylate.
   See the end of this leaflet for a complete list of ingredients.
 
@@ -51,18 +51,18 @@ What should I tell my doctor before taking CADUET?
 
 Tell your doctor about all of your health conditions, including, if you have:
 
-- heart disease
-- muscle aches or weakness
-- diabetes
-- thyroid problems
-- kidney problems
-- or drink more than 2 glasses of alcohol daily
+- •heart disease
+- •muscle aches or weakness
+- •diabetes
+- •thyroid problems
+- •kidney problems
+- •or drink more than 2 glasses of alcohol daily
 
 Tell your doctor about all the medicines you take including prescription and nonprescription medicines, vitamins, and herbal supplements.
 CADUET and some other medicines can interact, causing serious side effects.
 Especially tell your doctor if you take medicines for:
 
-| your immune systeminfectionscholesterolhepatitis C virus | birth controlheart failureHIV (AIDS)anti-virals |
+| •your immune system•infections•cholesterol•hepatitis C virus | •birth control•heart failure•HIV (AIDS)•anti-virals |
 | --- | --- |
 
 You can use nitroglycerin and CADUET together.
@@ -73,25 +73,25 @@ Keep a list of them with you to show your doctor and pharmacist.
 
 How should I take CADUET?
 
-- Take CADUET once a day, exactly as your doctor tells you.
+- •Take CADUET once a day, exactly as your doctor tells you.
   Do not change your dose or stop CADUET without talking to your doctor.
-- Take CADUET each day at any time of day, at about the same time each day.
+- •Take CADUET each day at any time of day, at about the same time each day.
   CADUET can be taken with or without food.
-- Do not break the tablets before taking them.
+- •Do not break the tablets before taking them.
   Talk to your doctor if you have a problem swallowing pills.
-- Your doctor should start you on a low-fat diet before giving you CADUET.
+- •Your doctor should start you on a low-fat diet before giving you CADUET.
   Stay on this low-fat diet when you take CADUET.
-- If you miss a dose, take it as soon as you remember.
+- •If you miss a dose, take it as soon as you remember.
   Do not take CADUET if it has been more than 12 hours since your missed dose.
   Just take the next dose at your regular time.
   Do not take 2 doses of CADUET at the same time.
-- If too much CADUET is taken by accident, call your doctor or poison control center, or go to the nearest emergency room.
+- •If too much CADUET is taken by accident, call your doctor or poison control center, or go to the nearest emergency room.
 
 What should I avoid while taking CADUET?
 
-- Avoid getting pregnant.
+- •Avoid getting pregnant.
   If you get pregnant, stop taking CADUET right away and call your doctor.
-- Do not breastfeed.
+- •Do not breastfeed.
   CADUET can pass into your breast milk and may harm your baby.
 
 What are possible side effects of CADUET?
@@ -102,44 +102,44 @@ Your doctor can monitor you for them.
 These side effects usually go away if your dose is lowered or CADUET is stopped.
 These serious side effects include:
 
-- Muscle problems.
+- •Muscle problems.
   CADUET can cause serious muscle problems that can lead to kidney problems, including kidney failure.
   You have a higher chance for muscle problems if you are taking certain other medicines with CADUET.
-- Liver problems.
+- •Liver problems.
   Your doctor should do blood tests to check your liver before you start taking CADUET and if you have symptoms of liver problems while you take CADUET.
   Call your doctor right away if you have the following symptoms of liver problems:
-  - feel tired or weak
-  - loss of appetite
-  - upper belly pain
-  - dark amber colored urine
-  - yellowing of your skin or the whites of your eyes
-- Low blood pressure or dizziness
-- Muscle rigidity, tremor and/or abnormal muscle movement
+  - •feel tired or weak
+  - •loss of appetite
+  - •upper belly pain
+  - •dark amber colored urine
+  - •yellowing of your skin or the whites of your eyes
+- •Low blood pressure or dizziness
+- •Muscle rigidity, tremor and/or abnormal muscle movement
 
 Call your doctor right away if:
 
-- you have muscle problems like weakness, tenderness, or pain that happen without a good reason, especially if you also have a fever or feel more tired than usual.
+- •you have muscle problems like weakness, tenderness, or pain that happen without a good reason, especially if you also have a fever or feel more tired than usual.
   This may be an early sign of a rare muscle problem.
-- muscle problems that do not go away even after your doctor has advised you to stop taking CADUET.
+- •muscle problems that do not go away even after your doctor has advised you to stop taking CADUET.
   Your doctor may do further tests to diagnose the cause of your muscle problems.
-- allergic reactions including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing which may require treatment right away
-- you have nausea and vomiting, stomach pain
-- you are passing brown or dark-colored urine
-- you feel more tired than usual
-- your skin and white of your eyes get yellow
-- you have allergic skin reactions
-- Chest pain that does not go away or gets worse.
+- •allergic reactions including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing which may require treatment right away
+- •you have nausea and vomiting, stomach pain
+- •you are passing brown or dark-colored urine
+- •you feel more tired than usual
+- •your skin and white of your eyes get yellow
+- •you have allergic skin reactions
+- •Chest pain that does not go away or gets worse.
   Sometimes when you start CADUET or increase your dose, chest pain can get worse or a heart attack can happen.
   If this happens, call your doctor or go to the emergency room right away.
 
 Common side effects of CADUET include:
 
-- Diarrhea
-- Swelling of your legs or ankles
-- Nausea
-- Upset stomach
-- Muscle and joint pain
-- Alterations in some laboratory blood tests
+- •Diarrhea
+- •Swelling of your legs or ankles
+- •Nausea
+- •Upset stomach
+- •Muscle and joint pain
+- •Alterations in some laboratory blood tests
 
 Additional side effects have been reported: tiredness, tendon problems, memory loss, and confusion.
 
@@ -150,9 +150,9 @@ Ask your doctor or pharmacist for a complete list.
 
 How do I store CADUET?
 
-- Store CADUET at room temperature, 68 to 77°F (20 to 25°C).
-- Do not keep medicine that is out-of-date or that you no longer need.
-- Keep CADUET and all medicines out of the reach of children.
+- •Store CADUET at room temperature, 68 to 77°F (20 to 25°C).
+- •Do not keep medicine that is out-of-date or that you no longer need.
+- •Keep CADUET and all medicines out of the reach of children.
   Keep medicines in places where children cannot get it.
 
 General information about CADUET
@@ -206,4 +206,4 @@ Inactive ingredients: calcium carbonate, croscarmellose sodium, microcrystalline
 
 Film coating: Opadry® II White 85F28751 (polyvinyl alcohol, titanium dioxide, PEG 3000, and talc) or Opadry® II Blue 85F10919 (polyvinyl alcohol, titanium dioxide, PEG 3000, talc, and FD&C blue #2)
 
-LAB-0347-12.0 Revised December 2020
+LAB-0347-13.0 Revised August 2023

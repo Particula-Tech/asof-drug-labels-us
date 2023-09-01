@@ -51,36 +51,36 @@ In patients with coronary heart disease (CHD) or multiple risk factors for CHD, 
 
 In adult patients without clinically evident coronary heart disease, but with multiple risk factors for coronary heart disease such as age, smoking, hypertension, low high-density lipoprotein cholesterol (HDL-C), or a family history of early coronary heart disease, atorvastatin is indicated to:
 
-- Reduce the risk of myocardial infarction (MI)
-- Reduce the risk of stroke
-- Reduce the risk for revascularization procedures and angina
+- •Reduce the risk of myocardial infarction (MI)
+- •Reduce the risk of stroke
+- •Reduce the risk for revascularization procedures and angina
 
 In adult patients with type 2 diabetes, and without clinically evident coronary heart disease, but with multiple risk factors for coronary heart disease such as retinopathy, albuminuria, smoking, or hypertension, atorvastatin is indicated to:
 
-- Reduce the risk of myocardial infarction
-- Reduce the risk of stroke
+- •Reduce the risk of myocardial infarction
+- •Reduce the risk of stroke
 
 In adult patients with clinically evident coronary heart disease, atorvastatin is indicated to:
 
-- Reduce the risk of non-fatal myocardial infarction
-- Reduce the risk of fatal and non-fatal stroke
-- Reduce the risk for revascularization procedures
-- Reduce the risk of hospitalization for congestive heart failure (CHF)
-- Reduce the risk of angina
+- •Reduce the risk of non-fatal myocardial infarction
+- •Reduce the risk of fatal and non-fatal stroke
+- •Reduce the risk for revascularization procedures
+- •Reduce the risk of hospitalization for congestive heart failure (CHF)
+- •Reduce the risk of angina
 
 ## 1.4 Hyperlipidemia
 
 Atorvastatin is indicated:
 
-- As an adjunct to diet to reduce elevated total cholesterol (total-C), low-density lipoprotein cholesterol (LDL-C), apolipoprotein B (apo B), and triglycerides (TG) levels and to increase HDL-C in adult patients with primary hypercholesterolemia (heterozygous familial and nonfamilial) and mixed dyslipidemia (Fredrickson Types IIa and IIb)
-- As an adjunct to diet for the treatment of adult patients with elevated serum TG levels (Fredrickson Type IV);
-- For the treatment of adult patients with primary dysbetalipoproteinemia (Fredrickson Type III) who do not respond adequately to diet
-- To reduce total-C and LDL-C in patients with homozygous familial hypercholesterolemia (HoFH) as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) or if such treatments are unavailable
-- As an adjunct to diet to reduce total-C, LDL-C, and apo B levels in pediatric patients, 10 years to 17 years of age, with heterozygous familial hypercholesterolemia (HeFH) if after an adequate trial of diet therapy the following findings are present:
-  1. LDL-C remains ≥ 190 mg/dL or
-  2. LDL-C remains ≥ 160 mg/dL and:
-     - there is a positive family history of premature CVD or
-     - two or more other CVD risk factors are present in the pediatric patient
+- • As an adjunct to diet to reduce elevated total cholesterol (total-C), low-density lipoprotein cholesterol (LDL-C), apolipoprotein B (apo B), and triglycerides (TG) levels and to increase HDL-C in adult patients with primary hypercholesterolemia (heterozygous familial and nonfamilial) and mixed dyslipidemia (Fredrickson Types IIa and IIb)
+- • As an adjunct to diet for the treatment of adult patients with elevated serum TG levels (Fredrickson Type IV);
+- • For the treatment of adult patients with primary dysbetalipoproteinemia (Fredrickson Type III) who do not respond adequately to diet
+- • To reduce total-C and LDL-C in patients with homozygous familial hypercholesterolemia (HoFH) as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) or if such treatments are unavailable
+- • As an adjunct to diet to reduce total-C, LDL-C, and apo B levels in pediatric patients, 10 years to 17 years of age, with heterozygous familial hypercholesterolemia (HeFH) if after an adequate trial of diet therapy the following findings are present:
+  - 1.LDL-C remains ≥ 190 mg/dL or
+  - 2.LDL-C remains ≥ 160 mg/dL and:
+    1. ▪there is a positive family history of premature CVD or
+    2. ▪two or more other CVD risk factors are present in the pediatric patient
 
 ## 1.5 Limitations of Use
 

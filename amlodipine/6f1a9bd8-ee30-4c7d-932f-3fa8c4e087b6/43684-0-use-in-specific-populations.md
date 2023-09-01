@@ -109,17 +109,17 @@ Heterozygous Familial Hypercholesterolemia (HeFH)
 
 Safety and effectiveness of atorvastatin have been established in patients 10 years to 17 years of age with HeFH as an adjunct to diet to reduce total cholesterol, LDL-C, and apo B levels when, after an adequate trial of diet therapy, the following are present:
 
-- LDL-C ≥190 mg/dL, or
-- LDL-C ≥160 mg/dL and
-  - a positive family history of FH, or premature CVD in a first, or second-degree relative, or
-  - two or more other CVD risk factors are present.
+- •LDL-C ≥190 mg/dL, or
+- •LDL-C ≥160 mg/dL and
+  - oa positive family history of FH, or premature CVD in a first, or second-degree relative, or
+  - otwo or more other CVD risk factors are present.
 
 Use of atorvastatin for this indication is supported by evidence from [see Dosage and Administration (2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.11)]:
 
-- A placebo-controlled clinical trial of 6 months duration in 187 boys and postmenarchal girls, 10 years to 17 years of age.
+- •A placebo-controlled clinical trial of 6 months duration in 187 boys and postmenarchal girls, 10 years to 17 years of age.
   Patients treated with 10 mg or 20 mg daily atorvastatin had an adverse reaction profile generally similar to that of patients treated with placebo.
   In this limited controlled study, there was no significant effect on growth or sexual maturation in boys or on menstrual cycle length in girls
-- A three year open-label uncontrolled trial that included 163 pediatric patients 10 to 15 years of age with HeFH who were titrated to achieve a target LDL-C <130 mg/dL.
+- •A three year open-label uncontrolled trial that included 163 pediatric patients 10 to 15 years of age with HeFH who were titrated to achieve a target LDL-C <130 mg/dL.
   The safety and efficacy of atorvastatin in lowering LDL-C appeared generally consistent with that observed for adult patients, despite limitations of the uncontrolled study design
 
 Advise postmenarchal girls of contraception recommendations, if appropriate for the patient [see Use in Specific Populations (8.1)].
