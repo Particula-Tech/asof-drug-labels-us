@@ -27,4 +27,4 @@ Management of Overdosage
 
 No specific antidotes for Venlafaxine Extended-Release Tablets are known.
 In managing overdosage, consider the possibility of multiple drug involvement.
-Consider contacting a Poison Center (1 800-222-1222) or a medical toxicologist for overdosage management recommendations for Venlafaxine Extended-Release Tablets.
+Consider contacting a Poison Center (1-800-222-1222) or a medical toxicologist for overdosage management recommendations for Venlafaxine Extended-Release Tablets.

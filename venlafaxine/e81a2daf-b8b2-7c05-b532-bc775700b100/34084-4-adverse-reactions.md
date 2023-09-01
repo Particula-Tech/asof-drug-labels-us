@@ -21,7 +21,7 @@ The following adverse reactions are discussed in more detail in other sections o
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-The safety of Venlafaxine Extended-Release Tabletsfor the treatment of MDD and GAD is based on adequate and well controlled studies of venlafaxine extended-release capsules.
+The safety of Venlafaxine Extended-Release Tablets for the treatment of MDD and GAD is based on adequate and well controlled studies of venlafaxine extended-release capsules.
 Below is a display of adverse reactions of venlafaxine extended-release capsules from those adequate and well-controlled studies in MDD, GAD, and other indications.
 
 Most Common Adverse Reactions
@@ -192,7 +192,7 @@ Musculoskeletal – Rhabdomyolysis
 
 Nervous system – Neuroleptic Malignant Syndrome (NMS) [see Warnings and Precautions (5.2)], serotonergic syndrome [see Warnings and Precautions (5.2)], delirium, extrapyramidal reactions (including dystonia and dyskinesia), impaired coordination and balance, tardive dyskinesia
 
-Respiratory system – Dyspnea, interstitial lung disease, pulmonary eosinophilia [see Warnings and Precautions (5.12)]
+Respiratory, thoracic and mediastinal disorders – Anosmia, dyspnea, hyposmia, interstitial lung disease, pulmonary eosinophilia [see Warnings and Precautions (5.12)]
 
 Skin and appendages – Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme
 

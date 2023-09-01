@@ -12,7 +12,7 @@ Instruct patients not to take Venlafaxine Extended-Release Tablets with an MAOI 
 
 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of Venlafaxine Extended-Release Tablets with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, amphetamines, tryptophan, buspirone, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of Venlafaxine Extended-Release Tablets with other serotonergic drugs including triptans, tricyclic antidepressants, opioids, lithium, amphetamines, tryptophan, buspirone, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
 Instruct patients to contact their health care provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
 
 Elevated Blood Pressure
@@ -61,5 +61,5 @@ Advise patients to notify their healthcare provider if they develop allergic phe
 Pregnancy
 
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with Venlafaxine Extended-Release Tablets.
-Advise patients that Venlafaxine Extended-Release Tablets use during mid to late pregnancy may lead to an increased risk for preeclampsia; use in late pregnancy may lead to an increased risk for postpartum hemorrhage and may increase the risk for neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Advise patients that Venlafaxine Extended-Release Tablets use during mid to late pregnancy may lead to an increased risk for preeclampsia; may increase the risk for neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to Venlafaxine Extended-Release Tablets during pregnancy [see Use in Specific Populations (8.1)].

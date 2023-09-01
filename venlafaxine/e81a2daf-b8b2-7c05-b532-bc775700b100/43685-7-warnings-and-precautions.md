@@ -29,7 +29,7 @@ Consider changing the therapeutic regimen, including possibly discontinuing Venl
 ## 5.2 Serotonin Syndrome
 
 Serotonin-norepinephrine reuptake inhibitors (SNRIs), including Venlafaxine Extended-Release Tablets, can precipitate serotonin syndrome, a potentially life-threatening condition.
-The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)].
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, meperidine, methadone, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)].
 Serotonin syndrome can also occur when these drugs are used alone.
 
 Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -64,7 +64,9 @@ An insufficient number of patients received mean doses of venlafaxine extended-r
 Drugs that interfere with serotonin reuptake inhibition, including Venlafaxine Extended-Release Tablets, may increase the risk of bleeding events, ranging from ecchymoses, hematomas, epistaxis, petechiae, and gastrointestinal hemorrhage to life-threatening hemorrhage.
 Concomitant use of aspirin, Nonsteroidal Anti-Inflammatory Drugs (NSAIDs), warfarin, and other anti-coagulants or other drugs known to affect platelet function may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
-Inform patients about the risk of bleeding associated with the concomitant use of Venlafaxine Extended-Release Tablets and antiplatelet agents or anticoagulants.
+Based on data from the published observational studies, exposure to SNRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Use in Specific Populations (8.1)].
+
+Inform patients about the increased risk of bleeding associated with the concomitant use of Venlafaxine Extended-Release Tablets and antiplatelet agents or anticoagulants.
 For patients taking warfarin, carefully monitor coagulation indices when initiating, titrating, or discontinuing Venlafaxine Extended-Release Tablets.
 
 ## 5.5 Angle-Closure Glaucoma

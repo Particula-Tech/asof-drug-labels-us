@@ -9,6 +9,8 @@ Healthcare providers are encouraged to register patients by calling the National
 
 Risk Summary
 
+Based on data from published observational studies, exposure to SNRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions (5.4) and Clinical Considerations].
+
 Available data from published epidemiologic studies on venlafaxine use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or adverse fetal outcomes (see Data).
 Available data from observational studies with venlafaxine have identified a potential increased risk for preeclampsia when used during mid to late pregnancy; exposure to SNRIs near delivery may increase the risk for postpartum hemorrhage (see Clinical Considerations).
 There are risks associated with untreated depression in pregnancy and poor neonatal adaptation in newborns exposure to SNRIs, including Venlafaxine Extended-Release Tablets, during pregnancy (see Clinical Considerations).
@@ -30,7 +32,7 @@ Consider the risk of untreated depression when discontinuing or changing treatme
 
 Maternal Adverse Reactions
 
-Exposure to venlafaxine in mid to late pregnancy may increase the risk for preeclampsia, and exposure to SNRIs near delivery may increase the risk for postpartum hemorrhage.
+Exposure to Venlafaxine Extended-Release Tablets in mid to late pregnancy may increase the risk for preeclampsia, and exposure to Venlafaxine Extended-Release Tablets in the month before near delivery may be associated with an increased the risk for of postpartum hemorrhage [see Warnings and Precautions (5.4)].
 
 Fetal/Neonatal Adverse Reactions
 

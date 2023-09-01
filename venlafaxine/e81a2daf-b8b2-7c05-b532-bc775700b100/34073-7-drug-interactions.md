@@ -9,7 +9,7 @@ Table 13: Clinically Significant Drug Interactions with Venlafaxine Extended-Rel
 | Clinical Impact | Concomitant use of SNRIs, including Venlafaxine Extended-Release Tablets, with MAOIs increases the risk of serotonin syndrome. |
 | Intervention | Concomitant use of Venlafaxine Extended-Release Tablets is contraindicated in patients taking MAOIs, including MAOIs such as linezolid or intravenous methylene blue [see Dosage and Administration (2.9), Contraindications (4), and Warnings and Precautions (5.2)]. |
 | Other Serotonergic Drugs |  |
-| Clinical Impact | Concomitant use of Venlafaxine Extended-Release Tablets with other serotonergic drugs increases the risk of serotonin syndrome. |
+| Clinical Impact | Concomitant use of Venlafaxine Extended-Release Tablets with other serotonergic drugs (including other SNRIs, SSRIs, triptans, tricyclic antidepressants, opioids, lithium, buspirone, amphetamines, tryptophan, and St. John's Wort) increases the risk of serotonin syndrome. |
 | Intervention | Monitor for symptoms of serotonin syndrome when Venlafaxine Extended-Release Tablets is used concomitantly with other drugs that may affect the serotonergic neurotransmitter systems. If serotonin syndrome occurs, consider discontinuation of Venlafaxine Extended-Release Tablets and/or concomitant serotonergic drugs [see Dosage and Administration (2.8), Warnings and Precautions (5.2)]. |
 | Alcohol |  |
 | Clinical Impact | Based on an in vitro study, alcohol increases the release rate of Venlafaxine Extended-Release Tablets [see Clinical Pharmacology (12.3)]. |
@@ -24,7 +24,7 @@ Table 13: Clinically Significant Drug Interactions with Venlafaxine Extended-Rel
 | Clinical Impact | Concomitant use of Venlafaxine Extended-Release Tablets with a CYP2D6 substrate increases Cmax and AUC of the CYP2D6 substrate, which may increase the risk of toxicity of the CYP2D6 substrate [see Clinical Pharmacology (12.3)]. |
 | Intervention | Consider reduction in dose of concomitant CYP2D6 substrates. |
 
-## 7.2 Monoamine Oxidase Inhibitors
+## 7.2 Other Drug Interactions with Venlafaxine Extended-Release Tablets
 
 Weight Loss Agents
 
