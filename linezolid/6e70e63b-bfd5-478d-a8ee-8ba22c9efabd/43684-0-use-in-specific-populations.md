@@ -39,7 +39,8 @@ Risk Summary
 
 Linezolid is present in breast milk.
 Based on data from available published case reports, the daily dose of linezolid that the infant would receive from breastmilk would be approximately 6% to 9% of the recommended therapeutic infant dose (10 mg/kg every 8 hours).
-There is no information on the effects of linezolid on the breastfed infant; however, diarrhea and vomiting were the most common adverse reactions reported in clinical trials in infants receiving linezolid therapeutically [see Adverse Reactions (6.1)] and (see Clinical Considerations).
+There is no information on the effects of linezolid on the breastfed infant; however, diarrhea and vomiting were the most common adverse reactions reported in clinical trials in infants receiving linezolid therapeutically [see Adverse Reactions (6.1)] and (see Error!
+Hyperlink reference not valid.).
 There is no information on the effects of linezolid on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for linezolid and any potential adverse effects on the breastfed child from linezolid or from the underlying maternal condition.
 
