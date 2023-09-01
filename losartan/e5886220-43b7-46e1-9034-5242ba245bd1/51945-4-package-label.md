@@ -4,7 +4,7 @@ Rx Only
 
 25 mg
 
-NDC 68180-201-06
+NDC 68180-210-06
 
 30 TABLETS
 
