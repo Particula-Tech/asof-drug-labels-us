@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA074270"
+  ],
+  "inn": "gemfibrozil",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-160-31",
+    "62135-160-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "gemfibrozil",
+      "name": "Gemfibrozil"
+    }
+  ],
+  "setid": "b8bb442e-66dc-435e-830c-4ba3daa47c04",
+  "source": "dailymed"
+}
