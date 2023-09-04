@@ -33,7 +33,7 @@ Because of the risk of embryo-fetal toxicity, lenalidomide capsules are only ava
 In particular, females of reproductive potential must comply with the pregnancy testing, contraception requirements and participate in monthly telephone surveys.
 Males must comply with the contraception requirements [see Use in Specific Populations (8.3)].
 
-• Lenalidomide capsules are available only from pharmacies that are certified in Lenalidomide REMS program.
+• Lenalidomide capsules are available only from pharmacies that are certified in the Lenalidomide REMS program.
 Provide patients with the telephone number and website for information on how to obtain the product.
 
 Pregnancy Exposure Registry
@@ -107,4 +107,4 @@ Princeton, NJ 08540
 
 Made in India
 
-Issued: 05/2022
+Revised: 04/2023
