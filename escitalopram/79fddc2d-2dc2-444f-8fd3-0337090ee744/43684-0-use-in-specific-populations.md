@@ -21,11 +21,10 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal risk and/or embryo/fetal risk Maternal Adverse Reactions Use of escitalopram oral solution in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.7)].
-Women who discontinue antidepressants are more likely to experience a relapse of major depression than women who continue antidepressants.
+Disease-associated maternal risk and/or embryo/fetal risk Women who discontinue antidepressants are more likely to experience a relapse of major depression than women who continue antidepressants.
 This finding is from a prospective longitudinal study of 201 pregnant women with a history of major depression, who were euthymic and taking antidepressants at the beginning of pregnancy.
 Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
-
+Maternal Adverse Reactions Use of escitalopram oral solution in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.7)].
 Fetal/Neonatal adverse reactions
 
 Neonates exposed to SSRIs or SNRIs, including escitalopram oral solution, late in third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
@@ -33,32 +32,21 @@ Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
 It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome [see Warnings and Precautions (5.2)].
-
-Data
-
-Human Data
-
-Exposure to SSRIs, particularly later in pregnancy, may increase the risk for PPHN.
+Data Human Data Exposure to SSRIs, particularly later in pregnancy, may increase the risk for PPHN.
 PPHN occurs in 1 to 2 per 1000 live births in the general populations and is associated with substantial neonatal morbidity and mortality.
-
-Animal Data
-
-In a rat embryo/fetal development study, oral administration of escitalopram (56, 112, or 150 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased fetal body weight and associated delays in ossification at the two higher doses [approximately ≥ 55 times the maximum recommended human dose (MRHD) of 20 mg/day on a mg/m2 basis].
+Animal Data In a rat embryo/fetal development study, oral administration of escitalopram (56, 112, or 150 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased fetal body weight and associated delays in ossification at the two higher doses [approximately ≥ 55 times the maximum recommended human dose (MRHD) of 20 mg/day on a mg/m2 basis].
 Maternal toxicity (clinical signs and decreased body weight gain and food consumption), mild at 56 mg/kg/day, was present at all dose levels.
 The developmental no-effect dose of 56 mg/kg/day is approximately 27 times the MRHD of 20 mg on a mg/m2 basis.
 No malformations were observed at any of the doses tested (as high as 73 times the MRHD on a mg/m2 basis).
-
 When female rats were treated with escitalopram (6, 12, 24, or 48 mg/kg/day) during pregnancy and through weaning, slightly increased offspring mortality and growth retardation were noted at 48 mg/kg/day which is approximately 23 times the MRHD of 20 mg on a mg/m2 basis.
 Slight maternal toxicity (clinical signs and decreased body weight gain and food consumption) was seen at this dose.
 Slightly increased offspring mortality was also seen at 24 mg/kg/day.
 The no-effect dose was 12 mg/kg/day which is approximately 6 times the MRHD of 20 mg on a mg/m2 basis.
-
 In two rat embryo/fetal development studies, oral administration of racemic citalopram (32, 56, or 112 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased embryo/fetal growth and survival and an increased incidence of fetal abnormalities (including cardiovascular and skeletal defects) at the high dose, which is approximately 18 times the MRHD of 60 mg/day on a mg/m2 basis.
 This dose was also associated with maternal toxicity (clinical signs, decreased body weight gain).
 The developmental no-effect dose was 56 mg/kg/day is approximately 9 times the MRHD on a mg/m2 basis.
 In a rabbit study, no adverse effects on embryo/fetal development were observed at doses of racemic citalopram of up to 16 mg/kg/day, or approximately 5 times the MRHD on a mg/m2 basis.
 Thus, developmental effects of racemic citalopram were observed at a maternally toxic dose in the rat and were not observed in the rabbit.
-
 When female rats were treated with racemic citalopram (4.8, 12.8, or 32 mg/kg/day) from late gestation through weaning, increased offspring mortality during the first 4 days after birth and persistent offspring growth retardation were observed at the highest dose, which is approximately 5 times the MRHD of 60 mg on a mg/m2 basis.
 The no-effect dose was 12.8 mg/kg/day is approximately 2 times the MRHD on a mg/m2 basis.
 Similar effects on offspring mortality and growth were seen when dams were treated throughout gestation and early lactation at doses ≥ 24 mg/kg/day, approximately 4 times the MRHD on a mg/m2 basis.

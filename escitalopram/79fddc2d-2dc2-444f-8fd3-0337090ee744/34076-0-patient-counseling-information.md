@@ -34,4 +34,4 @@ Appropriate educational placement is essential and psychosocial intervention is 
 When remedial measures alone are insufficient, the decision to prescribe antidepressant medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms.
 Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html
 
-Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 Revised: 07/2023
+Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 Revised: 08/2023
