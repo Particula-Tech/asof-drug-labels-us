@@ -4,8 +4,9 @@
 
 Myelosuppression (including anemia, leukopenia, pancytopenia, and thrombocytopenia) has been reported in patients receiving linezolid.
 In cases where the outcome is known, when linezolid was discontinued, the affected hematologic parameters have risen toward pretreatment levels.
-Complete blood counts should be monitored weekly in patients who receive linezolid, particularly in those who receive linezolid for longer than two weeks, those with pre-existing myelosuppression, those receiving concomitant drugs that produce bone marrow suppression, or those with a chronic infection who have received previous or concomitant antibacterial drug therapy.
-Discontinuation of therapy with linezolid should be considered in patients who develop or have worsening myelosuppression.
+Thrombocytopenia has been reported more often in patients with severe renal impairment, whether or not on dialysis, and in patients with moderate to severe hepatic impairment.
+Complete blood counts should be monitored weekly in patients who receive linezolid, particularly in those who receive linezolid for longer than two weeks, those with pre-existing myelosuppression, those with severe renal impairment or moderate to severe hepatic impairment, those receiving concomitant drugs that produce bone marrow suppression, or those with a chronic infection who have received previous or concomitant antibacterial drug therapy.
+Discontinuation of therapy with linezolid should be considered in patients who develop or have worsening myelosuppression [seeAdverse Reactions (6.2)].
 
 ## 5.2 Peripheral and Optic Neuropathy
 
