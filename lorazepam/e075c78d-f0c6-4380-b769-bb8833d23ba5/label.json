@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA079244"
+  ],
+  "inn": "lorazepam",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-549-43"
+  ],
+  "products": [
+    {
+      "form": "CONCENTRATE",
+      "generic": "lorazepam",
+      "name": "Lorazepam"
+    }
+  ],
+  "setid": "e075c78d-f0c6-4380-b769-bb8833d23ba5",
+  "source": "dailymed"
+}
