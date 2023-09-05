@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## Mechanism of Action:
 
 The primary mode of action of GLUCOTROL in experimental animals appears to be the stimulation of insulin secretion from the beta cells of pancreatic islet tissue and is thus dependent on functioning beta cells in the pancreatic islets.
 In humans, GLUCOTROL appears to lower the blood glucose acutely by stimulating the release of insulin from the pancreas, an effect dependent upon functioning beta cells in the pancreatic islets.
@@ -15,13 +15,13 @@ Blood sugar control persists in some patients for up to 24 hours after a single 
 Some patients fail to respond initially, or gradually lose their responsiveness to sulfonylurea drugs, including GLUCOTROL.
 Alternatively, GLUCOTROL may be effective in some patients who have not responded or have ceased to respond to other sulfonylureas.
 
-## Other Effects
+## Other Effects:
 
 It has been shown that GLUCOTROL therapy was effective in controlling blood sugar without deleterious changes in the plasma lipoprotein profiles of patients treated for NIDDM.
 
 In a placebo-controlled, crossover study in normal volunteers, GLUCOTROL had no antidiuretic activity and, in fact, led to a slight increase in free water clearance.
 
-## Pharmacokinetics
+## Pharmacokinetics:
 
 Gastrointestinal absorption of GLUCOTROL in man is uniform, rapid, and essentially complete.
 Peak plasma concentrations occur 1–3 hours after a single oral dose.

@@ -8,12 +8,12 @@ Short-term administration of GLUCOTROL may be sufficient during periods of trans
 
 In general, GLUCOTROL should be given approximately 30 minutes before a meal to achieve the greatest reduction in postprandial hyperglycemia.
 
-## Initial Dose
+## Initial Dose:
 
 The recommended starting dose is 5 mg, given before breakfast.
 Geriatric patients or those with liver disease may be started on 2.5 mg.
 
-## Titration
+## Titration:
 
 Dosage adjustments should ordinarily be in increments of 2.5–5 mg, as determined by blood glucose response.
 At least several days should elapse between titration steps.
@@ -22,7 +22,7 @@ The maximum recommended once daily dose is 15 mg.
 Doses above 15 mg should ordinarily be divided and given before meals of adequate caloric content.
 The maximum recommended total daily dose is 40 mg.
 
-## Maintenance
+## Maintenance:
 
 Some patients may be effectively controlled on a once-a-day regimen, while others show better response with divided dosing.
 Total daily doses above 15 mg should ordinarily be divided.
@@ -30,7 +30,7 @@ Total daily doses above 30 mg have been safely given on a b.i.d. basis to long-t
 
 In elderly patients, debilitated or malnourished patients, and patients with impaired renal or hepatic function, the initial and maintenance dosing should be conservative to avoid hypoglycemic reactions (see PRECAUTIONS section).
 
-## Patients Receiving Insulin
+## Patients Receiving Insulin:
 
 As with other sulfonylurea-class hypoglycemics, many stable non-insulin-dependent diabetic patients receiving insulin may be safely placed on GLUCOTROL.
 When transferring patients from insulin to GLUCOTROL, the following general guidelines should be considered:
@@ -45,7 +45,7 @@ During the insulin withdrawal period, the patient should test urine samples for 
 Patients should be instructed to contact the prescriber immediately if these tests are abnormal.
 In some cases, especially when patient has been receiving greater than 40 units of insulin daily, it may be advisable to consider hospitalization during the transition period.
 
-## Patients Receiving Other Oral Hypoglycemic Agents
+## Patients Receiving Other Oral Hypoglycemic Agents:
 
 As with other sulfonylurea-class hypoglycemics, no transition period is necessary when transferring patients to GLUCOTROL.
 Patients should be observed carefully (1–2 weeks) for hypoglycemia when being transferred from longer half-life sulfonylureas (e.g., chlorpropamide) to GLUCOTROL due to potential overlapping of drug effect.

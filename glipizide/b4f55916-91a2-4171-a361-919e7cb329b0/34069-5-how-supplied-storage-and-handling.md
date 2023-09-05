@@ -7,6 +7,6 @@ GLUCOTROL tablets are white, dye-free, scored, diamond-shaped, and imprinted as 
 | 5 mg Bottles: | 100's (NDC 0049-4110-66) |
 | --- | --- |
 
-## RECOMMENDED STORAGE
+## RECOMMENDED STORAGE:
 
 Store below 86°F (30°C).

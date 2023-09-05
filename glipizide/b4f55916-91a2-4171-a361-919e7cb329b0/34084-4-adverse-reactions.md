@@ -3,43 +3,43 @@
 In U.S. and foreign controlled studies, the frequency of serious adverse reactions reported was very low.
 Of 702 patients, 11.8% reported adverse reactions and in only 1.5% was GLUCOTROL discontinued.
 
-## Hypoglycemia
+## Hypoglycemia:
 
 See PRECAUTIONS and OVERDOSAGE sections.
 
-## Gastrointestinal
+## Gastrointestinal:
 
 Gastrointestinal disturbances are the most common reactions.
 Gastrointestinal complaints were reported with the following approximate incidence: nausea and diarrhea, one in seventy; constipation and gastralgia, one in one hundred.
 They appear to be dose-related and may disappear on division or reduction of dosage.
 Cholestatic jaundice may occur rarely with sulfonylureas: GLUCOTROL should be discontinued if this occurs.
 
-## Dermatologic
+## Dermatologic:
 
 Allergic skin reactions including erythema, morbilliform or maculopapular eruptions, urticaria, pruritus, and eczema have been reported in about one in seventy patients.
 These may be transient and may disappear despite continued use of GLUCOTROL; if skin reactions persist, the drug should be discontinued.
 Porphyria cutanea tarda and photosensitivity reactions have been reported with sulfonylureas.
 
-## Hematologic
+## Hematologic:
 
 Leukopenia, agranulocytosis, thrombocytopenia, hemolytic anemia (see PRECAUTIONS), aplastic anemia, and pancytopenia have been reported with sulfonylureas.
 
-## Metabolic
+## Metabolic:
 
 Hepatic porphyria and disulfiram-like reactions have been reported with sulfonylureas.
 In the mouse, GLUCOTROL pretreatment did not cause an accumulation of acetaldehyde after ethanol administration.
 Clinical experience to date has shown that GLUCOTROL has an extremely low incidence of disulfiram-like alcohol reactions.
 
-## Endocrine Reactions
+## Endocrine Reactions:
 
 Cases of hyponatremia and the syndrome of inappropriate antidiuretic hormone (SIADH) secretion have been reported with this and other sulfonylureas.
 
-## Miscellaneous
+## Miscellaneous:
 
 Dizziness, drowsiness, and headache have each been reported in about one in fifty patients treated with GLUCOTROL.
 They are usually transient and seldom require discontinuance of therapy.
 
-## Laboratory Tests
+## Laboratory Tests:
 
 The pattern of laboratory test abnormalities observed with GLUCOTROL was similar to that for other sulfonylureas.
 Occasional mild to moderate elevations of SGOT, LDH, alkaline phosphatase, BUN, and creatinine were noted.
@@ -50,6 +50,6 @@ The relationship of these abnormalities to GLUCOTROL is uncertain, and they have
 
 The following adverse events have been reported in post-marketing surveillance:
 
-### Hepatobiliary
+### Hepatobiliary:
 
 Cholestatic and hepatocellular forms of liver injury accompanied by jaundice have been reported rarely in association with glipizide; GLUCOTROL should be discontinued if this occurs.

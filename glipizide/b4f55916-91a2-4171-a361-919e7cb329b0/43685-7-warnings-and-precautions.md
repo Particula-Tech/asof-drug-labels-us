@@ -1,6 +1,6 @@
 # WARNINGS
 
-## SPECIAL WARNING ON INCREASED RISK OF CARDIOVASCULAR MORTALITY
+## SPECIAL WARNING ON INCREASED RISK OF CARDIOVASCULAR MORTALITY:
 
 The administration of oral hypoglycemic drugs has been reported to be associated with increased cardiovascular mortality as compared to treatment with diet alone or diet plus insulin.
 This warning is based on the study conducted by the University Group Diabetes Program (UGDP), a long-term prospective clinical trial designed to evaluate the effectiveness of glucose-lowering drugs in preventing or delaying vascular complications in patients with non-insulin-dependent diabetes.
@@ -17,16 +17,16 @@ Although only one drug in the sulfonylurea class (tolbutamide) was included in t
 
 ## General
 
-### Macrovascular Outcomes
+### Macrovascular Outcomes:
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with GLUCOTROL or any other anti-diabetic drug.
 
-### Renal and Hepatic Disease
+### Renal and Hepatic Disease:
 
 The metabolism and excretion of GLUCOTROL may be slowed in patients with impaired renal and/or hepatic function.
 If hypoglycemia should occur in such patients, it may be prolonged and appropriate management should be instituted.
 
-### Hypoglycemia
+### Hypoglycemia:
 
 All sulfonylurea drugs are capable of producing severe hypoglycemia.
 Proper patient selection, dosage, and instructions are important to avoid hypoglycemic episodes.
@@ -35,7 +35,7 @@ Elderly, debilitated or malnourished patients, and those with adrenal or pituita
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking beta-adrenergic blocking drugs.
 Hypoglycemia is more likely to occur when caloric intake is deficient, after severe or prolonged exercise, when alcohol is ingested, or when more than one glucose-lowering drug is used.
 
-### Loss of Control of Blood Glucose
+### Loss of Control of Blood Glucose:
 
 When a patient stabilized on any diabetic regimen is exposed to stress such as fever, trauma, infection, or surgery, a loss of control may occur.
 At such times, it may be necessary to discontinue GLUCOTROL and administer insulin.
@@ -43,18 +43,18 @@ At such times, it may be necessary to discontinue GLUCOTROL and administer insul
 The effectiveness of any oral hypoglycemic drug, including GLUCOTROL, in lowering blood glucose to a desired level decreases in many patients over a period of time, which may be due to progression of the severity of the diabetes or to diminished responsiveness to the drug.
 This phenomenon is known as secondary failure, to distinguish it from primary failure in which the drug is ineffective in an individual patient when first given.
 
-### Hemolytic Anemia
+### Hemolytic Anemia:
 
 Treatment of patients with glucose 6-phosphate dehydrogenase (G6PD) deficiency with sulfonylurea agents can lead to hemolytic anemia.
 Because GLUCOTROL belongs to the class of sulfonylurea agents, caution should be used in patients with G6PD deficiency and a non-sulfonylurea alternative should be considered.
 In post-marketing reports, hemolytic anemia has also been reported in patients who did not have known G6PD deficiency.
 
-## Laboratory Tests
+## Laboratory Tests:
 
 Blood and urine glucose should be monitored periodically.
 Measurement of glycosylated hemoglobin may be useful.
 
-## Information for Patients
+## Information for Patients:
 
 Patients should be informed of the potential risks and advantages of GLUCOTROL and of alternative modes of therapy.
 They should also be informed about the importance of adhering to dietary instructions, of a regular exercise program, and of regular testing of urine and/or blood glucose.
@@ -62,7 +62,7 @@ They should also be informed about the importance of adhering to dietary instruc
 The risks of hypoglycemia, its symptoms and treatment, and conditions that predispose to its development should be explained to patients and responsible family members.
 Primary and secondary failure should also be explained.
 
-## Physician Counseling Information for Patients
+## Physician Counseling Information for Patients:
 
 In initiating treatment for type 2 diabetes, diet should be emphasized as the primary form of treatment.
 Caloric restriction and weight loss are essential in the obese diabetic patient.
@@ -72,7 +72,7 @@ Use of GLUCOTROL or other antidiabetic medications must be viewed by both the ph
 Furthermore, loss of blood glucose control on diet alone may be transient, thus requiring only short-term administration of GLUCOTROL or other antidiabetic medications.
 Maintenance or discontinuation of GLUCOTROL or other antidiabetic medications should be based on clinical judgment using regular clinical and laboratory evaluations.
 
-## Drug Interactions
+## Drug Interactions:
 
 The hypoglycemic action of sulfonylureas may be potentiated by certain drugs including nonsteroidal anti-inflammatory agents, some azoles, and other drugs that are highly protein bound, salicylates, sulfonamides, chloramphenicol, probenecid, coumarins, monoamine oxidase inhibitors, quinolones and beta adrenergic blocking agents.
 When such drugs are administered to a patient receiving GLUCOTROL, the patient should be observed closely for hypoglycemia.
@@ -95,13 +95,13 @@ In studies assessing the effect of colesevelam on the pharmacokinetics of glipiz
 When glipizide ER was administered 4 hours prior to colesevelam, there was no significant change in glipizide AUC0–∞ or Cmax, -4% and 0%, respectively.
 Therefore, GLUCOTROL should be administered at least 4 hours prior to colesevelam to ensure that colesevelam does not reduce the absorption of glipizide.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 A twenty month study in rats and an eighteen month study in mice at doses up to 75 times the maximum human dose revealed no evidence of drug-related carcinogenicity.
 Bacterial and in vivo mutagenicity tests were uniformly negative.
 Studies in rats of both sexes at doses up to 75 times the human dose showed no effects on fertility.
 
-## Pregnancy
+## Pregnancy:
 
 GLUCOTROL (glipizide) was found to be mildly fetotoxic in rat reproductive studies at all dose levels (5–50 mg/kg).
 This fetotoxicity has been similarly noted with other sulfonylureas, such as tolbutamide and tolazamide.
@@ -112,23 +112,23 @@ GLUCOTROL should be used during pregnancy only if the potential benefit justifie
 
 Because recent information suggests that abnormal blood glucose levels during pregnancy are associated with a higher incidence of congenital abnormalities, many experts recommend that insulin be used during pregnancy to maintain blood glucose levels as close to normal as possible.
 
-## Nonteratogenic Effects
+## Nonteratogenic Effects:
 
 Prolonged severe hypoglycemia (4 to 10 days) has been reported in neonates born to mothers who were receiving a sulfonylurea drug at the time of delivery.
 This has been reported more frequently with the use of agents with prolonged half-lives.
 If GLUCOTROL is used during pregnancy, it should be discontinued at least one month before the expected delivery date.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 Although it is not known whether GLUCOTROL is excreted in human milk, some sulfonylurea drugs are known to be excreted in human milk.
 Because the potential for hypoglycemia in nursing infants may exist, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 If the drug is discontinued and if diet alone is inadequate for controlling blood glucose, insulin therapy should be considered.
 
-## Pediatric Use
+## Pediatric Use:
 
 Safety and effectiveness in children have not been established.
 
-## Geriatric Use
+## Geriatric Use:
 
 A determination has not been made whether controlled clinical studies of GLUCOTROL included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
