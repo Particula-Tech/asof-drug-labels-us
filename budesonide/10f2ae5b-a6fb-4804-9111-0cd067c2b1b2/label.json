@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021949"
+  ],
+  "inn": "budesonide",
+  "labeler": "H2-Pharma LLC",
+  "package_ndcs": [
+    "61269-509-06",
+    "61269-518-12"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, POWDER",
+      "generic": "budesonide",
+      "name": "PULMICORT"
+    }
+  ],
+  "setid": "10f2ae5b-a6fb-4804-9111-0cd067c2b1b2",
+  "source": "dailymed"
+}
