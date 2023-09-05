@@ -55,7 +55,7 @@ Monitoring for adverse reactions
 
 Monitor breastfed infants for signs of hypoglycemia (e.g., jitters, cyanosis, apnea, hypothermia, excessive sleepiness, poor feeding, seizures).
 
-## 8.4. Pediatric Use
+## 8.4 Pediatric Use
 
 Safety and effectiveness in children have not been established.
 

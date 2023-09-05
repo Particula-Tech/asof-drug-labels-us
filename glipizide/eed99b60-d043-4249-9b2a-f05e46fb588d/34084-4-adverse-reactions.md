@@ -2,8 +2,8 @@
 
 The following serious adverse reactions are discussed in more detail below and elsewhere in the labeling:
 
-- Hypoglycemia [see Warnings and Precautions (5.1)]
-- Hemolytic anemia [see Warnings and Precautions (5.2)]
+- •Hypoglycemia [see Warnings and Precautions (5.1)]
+- •Hemolytic anemia [see Warnings and Precautions (5.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -50,10 +50,10 @@ The relationship of these abnormalities to glipizide is uncertain.
 The following adverse reactions have been identified during post approval use of GLUCOTROL XL.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Abdominal pain
-- Cholestatic and hepatocellular forms of liver injury accompanied by jaundice
-- Leukopenia, agranulocytosis, thrombocytopenia, hemolytic anemia [see Warnings and Precautions (5.2)], aplastic anemia, pancytopenia
-- Hepatic porphyria and disulfiram-like reactions
-- Hyponatremia and the syndrome of inappropriate antidiuretic hormone (SIADH) secretion
-- Rash
-- There have been reports of gastrointestinal irritation and gastrointestinal bleeding with use of another drug with this non-dissolvable extended release formulation.
+- •Abdominal pain
+- •Cholestatic and hepatocellular forms of liver injury accompanied by jaundice
+- •Leukopenia, agranulocytosis, thrombocytopenia, hemolytic anemia [see Warnings and Precautions (5.2)], aplastic anemia, pancytopenia
+- •Hepatic porphyria and disulfiram-like reactions
+- •Hyponatremia and the syndrome of inappropriate antidiuretic hormone (SIADH) secretion
+- •Rash
+- •There have been reports of gastrointestinal irritation and gastrointestinal bleeding with use of another drug with this non-dissolvable extended release formulation.
