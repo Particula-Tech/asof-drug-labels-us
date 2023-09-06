@@ -5,10 +5,12 @@
 Risk Summary
 
 The limited available data based on post-marketing reports with NORVASC use in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage.
-There are risks to the mother and fetus associated with poorly controlled hypertension in pregnancy [see Clinical Considerations].
+There are risks to the mother and fetus associated with poorly controlled hypertension in pregnancy [see Error!
+Hyperlink reference not valid.].
 In animal reproduction studies, there was no evidence of adverse developmental effects when pregnant rats and rabbits were treated orally with amlodipine maleate during organogenesis at doses approximately 10 and 20-times the maximum recommended human dose (MRHD), respectively.
 However for rats, litter size was significantly decreased (by about 50%) and the number of intrauterine deaths was significantly increased (about 5-fold).
-Amlodipine has been shown to prolong both the gestation period and the duration of labor in rats at this dose [see Data].
+Amlodipine has been shown to prolong both the gestation period and the duration of labor in rats at this dose [see Error!
+Hyperlink reference not valid.].
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
