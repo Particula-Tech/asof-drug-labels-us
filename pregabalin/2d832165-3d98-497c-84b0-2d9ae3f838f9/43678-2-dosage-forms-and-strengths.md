@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Extended-release tablets: 82.5 mg, 165 mg, and 330 mg [see Description (11) and How Supplied/Storage and Handling (16)].
+1. Extended-release tablets: 82.5 mg, 165 mg, and 330 mg [see Description (11) and How Supplied/Storage and Handling (16)].
 
 | Tablet Strength (mg) | Tablet Description |
 | --- | --- |
