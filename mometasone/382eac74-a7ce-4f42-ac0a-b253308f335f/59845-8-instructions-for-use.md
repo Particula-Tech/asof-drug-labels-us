@@ -9,7 +9,10 @@ Read the Instructions for Use before you start to use RYALTRIS and each time you
 There may be new information.
 This Instructions for Use does not take the place of talking with your healthcare provider about your medical condition or treatment.
 Before you use RYALTRIS, make sure your healthcare provider shows you the right way to use it.
-Shake the bottle well before each use.
+
+Shake the bottle for at least 10 seconds before each use.
+
+When RYALTRIS is not in use, the purple dust cap should always be kept tightly placed on the white nozzle tip.
 
 Your RYALTRIS nasal spray bottle (See Figure A)
 
@@ -17,16 +20,13 @@ Figure A
 
 Preparing the nasal spray bottle
 
-Your RYALTRIS nasal spray must be primed before you use it for the first time and when you have not used it for 14 days or more.
+Before you prime the bottle, shake the bottle for at least 10 seconds.
 
-Priming your RYALTRIS pump before first use
-
-Before you prime the bottle, shake the bottle well.
+Before first use, spray the product 6 times or until a fine mist appears.
+Spray away from your eyes and face.
 
 Step 1.
-Remove the dust cap.
-
-Remove the dust cap from the spray pump tip of the bottle.
+Remove the purple dust cap from the spray nozzle tip of the bottle.
 (See Figure B)
 
 Figure B
@@ -34,7 +34,7 @@ Figure B
 Preparing the nasal spray bottle
 
 Step 2.
-Hold the nasal spray bottle firmly and upright with your index and middle finger on either side of the applicator (on finger rests) while supporting the grooved base of the bottle with your thumb.
+Hold the nasal spray bottle firmly and upright with your index and middle finger on either side of the spray nozzle unit (on finger rests) while supporting the grooved base of the bottle with your thumb.
 
 Step 3.
 Before first use, push down on the pump quickly and firmly 6 times, releasing the spray into the air, away from the eyes and face until a fine mist appears.
@@ -42,7 +42,7 @@ Before first use, push down on the pump quickly and firmly 6 times, releasing th
 
 Figure C
 
-If you do not use RYALTRIS for 14 or more days, you will need to shake the bottle well, and prime the pump with 2 sprays or until a fine mist appears.
+If you do not use RYALTRIS for 14 or more days, you will need to shake the bottle for at least 10 seconds, and prime the pump with 2 sprays or until a fine mist appears.
 
 Your RYALTRIS is now ready for use.
 
@@ -56,18 +56,18 @@ Gently blow your nose to clear your nostrils.
 Figure D
 
 Step 5.
-Shake the bottle well before each use (morning and evening).
+Shake the bottle for at least 10 seconds before each use (morning and evening).
 
 Step 6.
-Hold the bottle firmly with your index and middle finger on either side of the applicator (on finger rests) while supporting the grooved base of the bottle with your thumb.
+Hold the bottle firmly with your index and middle finger on either side of the spray nozzle unit (on finger rests) while supporting the grooved base of the bottle with your thumb.
 (See Figure E)
 
 Figure E
 
 Step 7.
 Hold 1 nostril closed with a finger.
-Insert the end of the spray pump tip into the other nostril, pointing it slightly toward the outside of the nose, away from the nasal septum (the wall between the 2 nostrils).
-(SeeFigure F)
+Insert the end of the spray nozzle tip into the other nostril, pointing it slightly toward the outside of the nose, away from the nasal septum (the wall between the 2 nostrils).
+(See Figure F)
 
 Figure F
 
@@ -90,14 +90,17 @@ Repeat Steps 6 through 8 with 2 sprays in the other nostril.
 - •Do not blow your nose for at least 15 minutes after using RYALTRIS, to make sure that you receive all of the medicine.
 - •Do not tip your head back.
   This will keep the medicine from going into your throat.
-- NaNStep 11.
-  Wipe the spray pump tip with a clean dry tissue or cloth.
-  (See Figure H)
+
+Step 11.
+To prevent any blockage, wipe the white spray nozzle tip with a clean dry tissue or cloth after each use.
+
+Wipe the white spray nozzletip with a cleandry tissue or cloth.
+(See Figure H)
 
 Figure H
 
 Step 12.
-Hold the spray pump unit and push the dust cap back on the spray pump tip of the bottle until you hear a click.
+Hold the nozzle unit and push the purple dust cap back on the nozzle until you hear a click.
 (See Figure I)
 
 Figure I
@@ -106,32 +109,36 @@ Each bottle of RYALTRIS contains enough medicine for you to spray from the bottl
 You should keep track of the number of sprays used from each bottle of RYALTRIS.
 Do not count any sprays used for initial priming of the bottle.
 
-How to clear the RYALTRIS spray pump unit if it becomes blocked
+How to clear the RYALTRIS nozzle tip if it gets blocked
 
-Do not try to unblock the spray pump unit by inserting a pin or other sharp object.
-This will damage the spray pump unit, and you may not get the correct dose of medicine.
-
-- Step 13.
-  If the spray pump unit becomes blocked, remove it by gently pulling upward.
-  (See Figure J) Remove the dust cap and place only the spray pump unit in warm water to soak.
+Do not try to unblock the spray nozzle tip by inserting a pin or other sharp object.
+(See Figure J) This will damage the spray nozzle tip, and you may not get the correct dose of medicine.
 
 Figure J
 
-- Step 14.
-  After soaking for 15 minutes, rinse the spray pump unit and dust cap with warm water, and allow them to dry completely.
-  (See Figure K)
+Step 13.
+Remove the spray nozzle unit by gently pulling upward (See Figure K). Remove the purple dust cap and place only the spray nozzle unit in warm water to soak.
+(See Figure L)
 
 Figure K
 
-- Step 15.
-  Place the dust cap on the spray pump tip and put the spray pump unit back on the bottle.
-  (See Figure L)
-
 Figure L
 
-- Step 16.
-  After following the steps to clear your blocked spray pump see “Priming your RYALTRIS pump before use” section above and re-prime using 2 sprays.
-  Replace the dust cap, and your RYALTRIS is ready for use.
+Step 14.
+After soaking the spray nozzle tip for 15 minutes, rinse the spray nozzle unit and purple dust cap with warm water and allow them to dry completely.
+(See Figure M)
+
+Figure M
+
+Step 15.
+Place the purple dust cap back on the spray nozzle unit and put spray nozzle unit back on the bottle.
+(See Figure N)
+
+Figure N
+
+Step 16.
+After following the steps to clear your blocked spray nozzle tip see “Priming your RYALTRIS pump before use” section above and re-prime using 2 sprays.
+Replace the purple dust cap, and your RYALTRIS is ready for use.
 
 Repeat the unblocking steps if needed.
 
@@ -148,19 +155,11 @@ Even though the bottle may not be completely empty, you may not get the correct 
 
 Keep RYALTRIS and all medicines out of the reach of children.
 
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Aurangabad, Maharashtra 431154, India
-
 Distributed by:
 
-Hikma Specialty USA Inc.
+Hikma Specialty USA Inc. Columbus, OH 43228
 
-Columbus, OH 43228
-
-RYALTRIS and the RYALTRIS logo are trademarks of Glenmark Specialty SA
+RYALTRIS and the RYALTRIS logo are registered trademarks of Glenmark Specialty SA
 
 1. This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-   April 2022
+   August 2023

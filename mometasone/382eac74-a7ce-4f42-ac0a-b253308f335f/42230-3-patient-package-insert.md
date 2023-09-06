@@ -124,7 +124,7 @@ You may report side effects to FDA at 1‑800‑FDA‑1088.
 
 How should I store RYALTRIS?
 
-- •Store RYALTRIS upright with the dust cap on at room temperature between 68°F to 77°F (20°C to 25°C).
+- •Store RYALTRIS upright with the purple dust cap on at room temperature between 68°F to 77°F (20°C to 25°C).
 - •Do not freeze or refrigerate.
 - •Safely throw away medicine that is out of date or no longer needed.
 - •Throw away your RYALTRIS bottle after using 240 sprays after the first priming.
@@ -149,4 +149,4 @@ Inactive ingredients: benzalkonium chloride, carboxymethyl cellulose sodium, dib
 
 For more information, go to www.RYALTRIS.com or call Hikma Specialty USA Inc. at 1‑800‑962-8364.
 
-1. This Patient Information has been approved by the U.S. Food and Drug Administration Issued: January/2022
+1. This Patient Information has been approved by the U.S. Food and Drug Administration Issued: August 2023

@@ -18,7 +18,7 @@ Patients should be advised to avoid concurrent use of RYALTRIS with alcohol or o
 
 Administration Information
 
-Patients should be instructed to shake the bottle well before each use and prime RYALTRIS before initial use by releasing 6 sprays.
+Patients should be instructed to shake the bottle well before each use and prime RYALTRIS before initial use by releasing 6 sprays or until a fine mist appears.
 When RYALTRIS has not been used for 14 days or more, patients should re-prime with 2 sprays or until a fine mist appears.Patients should be instructed to avoid spraying RYALTRIS into their eyes [see Dosage and Administration (2)].
 
 Glaucoma and Cataracts
@@ -41,12 +41,6 @@ Potential Drug Interactions
 
 Patients should be advised to be cautious if RYALTRIS is co-administered with ketoconazole or other known strong CYP3A4 inhibitors (e.g., ritonavir, cobicistat-containing products, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) [see Drug Interactions (7.2)].
 
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Aurangabad, Maharashtra 431154, India
-
 Distributed by:
 
 Hikma Specialty USA Inc.
@@ -55,6 +49,6 @@ Columbus, OH 43228
 
 RYALTRIS and the RYALTRIS logo are trademarks of Glenmark Specialty SA
 
-Revised: April 2022
+Revised: August 2023
 
 PN 141197
