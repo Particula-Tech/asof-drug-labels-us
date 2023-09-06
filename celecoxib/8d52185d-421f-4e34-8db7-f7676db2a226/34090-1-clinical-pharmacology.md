@@ -34,7 +34,8 @@ It is primarily metabolized by CYP2C9 with a half-life of approximately 11 hours
 Absorption
 
 Peak plasma levels of celecoxib occur approximately 3 hours after an oral dose.
-Under fasting conditions, both peak plasma levels (Cmax) and area under the curve (AUC) are roughly dose-proportional up to 200 mg twice daily; at higher doses there are less than proportional increases in Cmax and AUC (see Food Effects).
+Under fasting conditions, both peak plasma levels (Cmax) and area under the curve (AUC) are roughly dose-proportional up to 200 mg twice daily; at higher doses there are less than proportional increases in Cmax and AUC (see Error!
+Hyperlink reference not valid.).
 Absolute bioavailability studies have not been conducted.
 With multiple dosing, steady-state conditions are reached on or before Day 5.
 The pharmacokinetic parameters of celecoxib in a group of healthy subjects are shown in Table 4.

@@ -60,7 +60,7 @@ In placebo- or active-controlled clinical trials, the discontinuation rate due t
 Among the most common reasons for discontinuation due to adverse events in the CELEBREX treatment groups were dyspepsia and abdominal pain (cited as reasons for discontinuation in 0.8% and 0.7% of CELEBREX patients, respectively).
 Among patients receiving placebo, 0.6% discontinued due to dyspepsia and 0.6% withdrew due to abdominal pain.
 
-1. The following adverse reactions occurred in 0.1% to 1.9% of patients treated with CELEBREX (100 mg to 200 mg twice daily or 200 mg once daily):
+- The following adverse reactions occurred in 0.1% to 1.9% of patients treated with CELEBREX (100 mg to 200 mg twice daily or 200 mg once daily):
 
 Gastrointestinal: Constipation, diverticulitis, dysphagia, eructation, esophagitis, gastritis, gastroenteritis, gastroesophageal reflux, hemorrhoids, hiatal hernia, melena, dry mouth, stomatitis, tenesmus, vomiting
 
@@ -94,7 +94,7 @@ Application site disorders: Cellulitis, dermatitis contact
 
 Urinary: Albuminuria, cystitis, dysuria, hematuria, micturition frequency, renal calculus
 
-1. The following serious adverse events (causality not evaluated) occurred in <0.1% of patients:
+- The following serious adverse events (causality not evaluated) occurred in <0.1% of patients:
 
 Cardiovascular: Syncope, congestive heart failure, ventricular fibrillation, pulmonary embolism, cerebrovascular accident, peripheral gangrene, thrombophlebitis
 
@@ -190,8 +190,8 @@ The following additional adverse reactions occurred in ≥0.1% and <1% of patien
 
 Nervous system disorders: Cerebral infarction
 
-1. Eye disorders: Vitreous floaters, conjunctival hemorrhage
-2. Ear and labyrinth: Labyrinthitis
+- Eye disorders: Vitreous floaters, conjunctival hemorrhage
+- Ear and labyrinth: Labyrinthitis
 
 Cardiac disorders: Angina unstable, aortic valve incompetence, coronary artery atherosclerosis, sinus bradycardia, ventricular hypertrophy
 

@@ -5,7 +5,9 @@
 Risk Summary
 
 Use of NSAIDs, including CELEBREX, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
-Because of these risks, limit dose and duration of CELEBREX use between about 20 and 30 weeks of gestation and avoid CELEBREX use at about 30 weeks of gestation and later in pregnancy (see Clinical Considerations, Data).
+Because of these risks, limit dose and duration of CELEBREX use between about 20 and 30 weeks of gestation and avoid CELEBREX use at about 30 weeks of gestation and later in pregnancy (see Error!
+Hyperlink reference not valid., Error!
+Hyperlink reference not valid.).
 
 Premature Closure of Fetal Ductus Arteriosus
 
@@ -17,7 +19,8 @@ Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associa
 
 Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
 In animal reproduction studies, embryo-fetal deaths and an increase in diaphragmatic hernias were observed in rats administered celecoxib daily during the period of organogenesis at oral doses approximately 6 times the maximum recommended human dose (MRHD) of 200 mg twice daily.
-In addition, structural abnormalities (e.g., septal defects, ribs fused, sternebrae fused and sternebrae misshapen) were observed in rabbits given daily oral doses of celecoxib during the period of organogenesis at approximately 2 times the MRHD (see Data).
+In addition, structural abnormalities (e.g., septal defects, ribs fused, sternebrae fused and sternebrae misshapen) were observed in rabbits given daily oral doses of celecoxib during the period of organogenesis at approximately 2 times the MRHD (see Error!
+Hyperlink reference not valid.).
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as celecoxib, resulted in increased pre- and post-implantation loss.
 Prostaglandins also have been shown to have an important role in fetal kidney development.
@@ -33,13 +36,15 @@ Fetal/Neonatal Adverse Reactions
 
 Premature Closure of Fetal Ductus Arteriosus:
 
-Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including CELEBREX, can cause premature closure of the fetal ductus arteriosus (see Data).
+Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including CELEBREX, can cause premature closure of the fetal ductus arteriosus (see Error!
+Hyperlink reference not valid.).
 
 Oligohydramnios/Neonatal Renal Impairment:
 
 If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible.
 If CELEBREX treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
-If oligohydramnios occurs, discontinue CELEBREX and follow up according to clinical practice (see Data).
+If oligohydramnios occurs, discontinue CELEBREX and follow up according to clinical practice (see Error!
+Hyperlink reference not valid.).
 
 Labor or Delivery
 
