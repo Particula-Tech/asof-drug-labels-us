@@ -1,9 +1,11 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
 Myopathy and Rhabdomyolysis
 
 Advise patients that simvastatin may cause myopathy and rhabdomyolysis.
-Inform patients taking the 80 mg daily dose of simvastatin that they are at an increased risk.
+Inform patients taking an 80 mg daily dose of simvastatin that they are at an increased risk.
 Inform patients that the risk is also increased when taking certain types of medication or consuming grapefruit juice and they should discuss all medication, both prescription and over the counter, with their healthcare provider.
 Instruct patients to inform other healthcare providers prescribing a new medication or increasing the dose of an existing medication that they are taking simvastatin.
 Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever [see CONTRAINDICATIONS (4), WARNINGS AND PRECAUTIONS (5.1), AND DRUG INTERACTIONS (7.1)].
@@ -27,6 +29,12 @@ Lactation
 
 Advise patients that breastfeeding is not recommended during treatment with simvastatin [see USE IN SPECIFIC POPULATIONS (8.2)].
 
+Missed Dose
+
+Instruct patients to take simvastatin tablets only as prescribed.
+If a dose is missed, it should be taken as soon as possible.
+Advise patients not to double their next dose.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
@@ -37,4 +45,4 @@ United States
 
 MADE IN INDIA.
 
-July 2022 ID#: 271073
+September 2023

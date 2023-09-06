@@ -100,6 +100,7 @@ Nervous System Disorders
 dizziness, depression, paresthesia, peripheral neuropathy.
 Rare reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
 Cognitive impairment was generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
+There have been rare reports of new-onset or exacerbation of myasthenia gravis, including ocular myasthenia, and reports of recurrence when the same or a different statin was administered.
 
 Skin and Subcutaneous Tissue Disorders
 

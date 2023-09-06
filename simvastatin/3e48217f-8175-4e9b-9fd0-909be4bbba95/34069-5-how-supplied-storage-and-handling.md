@@ -45,7 +45,7 @@ NDC 68180-465-09 Bottles of 90
 
 NDC 68180-465-03 Bottles of 1000
 
-*The 5 mg strength of Simvastatin Tablets USP is no longer being marketed
+*The 5 mg strength of Simvastatin Tablets USP is no longer being marketed.
 
 Storage
 

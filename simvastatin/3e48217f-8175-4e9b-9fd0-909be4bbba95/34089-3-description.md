@@ -8,5 +8,6 @@ Its structural formula is:
 
 Simvastatin is a white to off-white, nonhygroscopic, crystalline powder that is practically insoluble in water, and freely soluble in chloroform, methanol and ethanol.
 
-Simvastatin tablets USP for oral use contain either 5 mg, 10 mg, 20 mg, 40 mg or 80 mg of simvastatin and the following inactive ingredients: ascorbic acid, citric acid, hydroxy propyl cellulose, hypromellose, iron oxides, lactose monohydrate, magnesium stearate, microcrystalline cellulose, pregelatinised starch, talc and titanium dioxide.
+Simvastatin tablets USP are available for oral administration in strength of 5 mg, 10 mg, 20 mg, 40 mg or 80 mg.
+Each tablet contains following inactive ingredients: ascorbic acid, citric acid, hydroxy propyl cellulose, hypromellose, iron oxides, lactose monohydrate, magnesium stearate, microcrystalline cellulose, pregelatinised starch, talc and titanium dioxide.
 Butylated hydroxyanisole is added as a preservative.
