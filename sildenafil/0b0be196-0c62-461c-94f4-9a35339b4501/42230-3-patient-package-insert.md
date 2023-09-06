@@ -68,7 +68,8 @@ Tell your healthcare provider about all the medicines you takeThe other brands l
 VIAGRA may affect the way other medicines work, and other medicines may affect the way VIAGRA works causing side effects.
 Especially tell your healthcare provider if you take any of the following:
 
-- •medicines called nitrates (see "What is the most important information I should know about VIAGRA?")
+- •medicines called nitrates (see "Error!
+  Hyperlink reference not valid.")
 - •medicines called guanylate cyclase stimulators, such as riociguat (Adempas)
 - •medicines called alpha blockers such as Hytrin (terazosin HCl), Flomax (tamsulosin HCl), Cardura (doxazosin mesylate), Minipress (prazosin HCl), Uroxatral (alfuzosin HCl), Jalyn (dutasteride and tamsulosin HCl), or Rapaflo (silodosin).
   Alpha-blockers are sometimes prescribed for prostate problems or high blood pressure.

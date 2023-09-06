@@ -7,7 +7,8 @@ Risk Summary
 VIAGRA is not indicated for use in females.
 
 There are no data with the use of VIAGRA in pregnant women to inform any drug-associated risks for adverse developmental outcomes.
-Animal reproduction studies conducted with sildenafil did not show adverse developmental outcomes when administered during organogenesis in rats and rabbits at oral doses up to 16 and 32 times, respectively, the maximum recommended human dose (MRHD) of 100 mg/day on a mg/m2 basis (see Data).
+Animal reproduction studies conducted with sildenafil did not show adverse developmental outcomes when administered during organogenesis in rats and rabbits at oral doses up to 16 and 32 times, respectively, the maximum recommended human dose (MRHD) of 100 mg/day on a mg/m2 basis (see Error!
+Hyperlink reference not valid.).
 
 Data
 
