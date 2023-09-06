@@ -16,7 +16,7 @@ www.drreddys.com/medguide/esomeprazolecaps.pdf
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 02/2023
+Revised: 07/2023
 
 Instructions for Use
 
@@ -45,4 +45,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 02/2023
+Revised: 07/2023

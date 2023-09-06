@@ -121,7 +121,7 @@ Psychiatric: aggression, agitation, depression, hallucination;
 
 Renal and Urinary: interstitial nephritis;
 
-Reproductive System and Breast: gynecomastia;
+Reproductive System and Breast: gynecomastia, erectile dysfunction;
 
 Respiratory, Thoracic, and Mediastinal: bronchospasm;
 
