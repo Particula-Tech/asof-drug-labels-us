@@ -178,7 +178,7 @@ CV
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-90 Capsules Rx only
+1. 90 Capsules Rx only
 
 # PRINCIPAL DISPLAY PANEL - 200 mg Capsule Bottle Label
 
@@ -206,7 +206,7 @@ CV
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-90 Capsules Rx only
+1. 90 Capsules Rx only
 
 # PRINCIPAL DISPLAY PANEL - 300 mg Capsule Bottle Label
 
@@ -220,7 +220,7 @@ CV
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-90 Capsules Rx only
+1. 90 Capsules Rx only
 
 # PRINCIPAL DISPLAY PANEL - 20 mg Bottle Label
 
