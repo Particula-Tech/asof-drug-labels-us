@@ -50,12 +50,8 @@ Trademarks are owned by or licensed to the ViiV Healthcare group of companies.
 
 Manufactured for:
 
-ViiV Healthcare Research Triangle Park, NC 27709
+ViiV Healthcare Durham, NC 27701
 
-by:
+©2023 ViiV Healthcare group of companies or its licensor.
 
-GlaxoSmithKline Research Triangle Park, NC 27709
-
-©2019 ViiV Healthcare group of companies or its licensor.
-
-CMB:10PI
+CMB:11PI

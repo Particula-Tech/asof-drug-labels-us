@@ -21,7 +21,7 @@ Lamivudine plus Zidovudine Administered as Separate Formulations
 In 4 randomized, controlled trials of EPIVIR 300 mg per day plus RETROVIR 600 mg per day, the following selected adverse reactions and laboratory abnormalities were observed (Tables 1 and 2).
 
 Table 1.
-Selected Clinical Adverse Reactions (Greater than or Equal to 5% Frequency) in 4 Controlled Clinical Trials with EPIVIR 300 mg per day and RETROVIR 600 mg per day
+Selected Clinical Adverse Reactions (Greater than or Equal to 5% Frequency) in 4 Controlled Clinical Trials with EPIVIR 300 mg per Day and RETROVIR 600 mg per Day
 
 | Adverse Reaction | EPIVIR plus RETROVIR(n = 251) |
 | --- | --- |
@@ -57,7 +57,7 @@ Pancreatitis was observed in 9 of the 2,613 adult subjects (0.3%) who received E
 Selected laboratory abnormalities observed during therapy are listed in Table 2.
 
 Table 2.
-Frequencies of Selected Laboratory Abnormalities among Adults in 4 Controlled Clinical Trials of EPIVIR 300 mg per day plus RETROVIR 600 mg per daya
+Frequencies of Selected Laboratory Abnormalities among Adults in 4 Controlled Clinical Trials of EPIVIR 300 mg per Day plus RETROVIR 600 mg per Daya
 
 | Test(Abnormal Level) | EPIVIR plus RETROVIR% (n) |
 | --- | --- |
