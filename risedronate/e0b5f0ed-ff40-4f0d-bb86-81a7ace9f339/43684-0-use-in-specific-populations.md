@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary Available data on the use of risedronate sodium in pregnant women are insufficient to inform a drug-associated risk of adverse maternal or fetal outcomes.
+Risk Summary
+
+Available data on the use of risedronate sodium in pregnant women are insufficient to inform a drug-associated risk of adverse maternal or fetal outcomes.
 Discontinue risedronate when pregnancy is recognized.
 In animal reproduction studies, daily oral administration of risedronate to pregnant rats during organogenesis decreased neonatal survival and body weight at doses approximately 5 and 26 times, respectively, the highest recommended human daily dose of 30 mg (based on body surface area, mg/m2).
 A low incidence of cleft palate was observed in fetuses of dams treated at doses approximately equal to the 30 mg human daily dose.

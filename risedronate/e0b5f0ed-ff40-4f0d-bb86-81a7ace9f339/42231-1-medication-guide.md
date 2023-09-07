@@ -1,6 +1,8 @@
 # Medication Guide
 
-Risedronate Sodium (RIS-e-DROE-nate SOE-dee-um) Tablets, USP
+Risedronate Sodium
+
+(RIS-e-DROE-nate SOE-dee-um)Tablets, USP
 
 Read the Medication Guide that comes with risedronate sodium tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -200,6 +202,8 @@ Inactive ingredients specific to a dose strength: 5 mg—iron oxide yellow; 35 m
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+Dispense with Medication Guide available at: https://www.sunpharma.com/usa/products
+
 Distributed by:
 
 Sun Pharmaceutical Industries, Inc.
@@ -210,11 +214,10 @@ Manufactured by:
 
 Sun Pharmaceutical Industries Limited
 
-Survey No. 259/15,
+Survey No. 1012, Dadra-396 193,
 
-Dadra-396 191, (U.T. of D & NH), India
+U.T. of D & NH and Daman & Diu, India
 
-PGPI0143D
+5244528
 
-ISS.
-01/2020
+ISS: 08/2023

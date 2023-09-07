@@ -12,7 +12,7 @@ Rx only
 
 Sun Pharma
 
-PHARMACIST: Please dispense with Medication Guide provided separately to each patient.
+PHARMACIST: Dispense with Medication Guide to each patient.
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
@@ -28,7 +28,7 @@ Rx only
 
 Sun Pharma
 
-PHARMACIST: Please dispense with Medication Guide provided separately to each patient.
+PHARMACIST: Dispense with Medication Guide to each patient.
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
@@ -48,7 +48,7 @@ Rx only
 
 Sun Pharma
 
-PHARMACIST: Please dispense with Medication Guide provided separately to each patient.
+PHARMACIST: Dispense with Medication Guide to each patient.
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
@@ -68,7 +68,7 @@ One Month Pack
 
 Sun Pharma
 
-PHARMACIST: Please dispense with Medication Guide provided separately to each patient.
+PHARMACIST: Dispense with Medication Guide to each patient.
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
@@ -88,4 +88,4 @@ One Month Pack
 
 Sun Pharma
 
-PHARMACIST: Please dispense with Medication Guide provided separately to each patient.
+PHARMACIST: Dispense with Medication Guide to each patient.

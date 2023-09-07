@@ -50,7 +50,7 @@ Instruct patients to do the following:
 - Swallow risedronate sodium tablets whole with a full glass of plain water (6 to 8 ounces).
   Avoid lying down for 30 minutes after taking the medication [see Warnings and Precautions (5.1)].
   Do not chew or suck the tablet because of a potential for oropharyngeal ulceration.
-- Do not eat or drink anything except plain water, or take other medications for at least 30 minutes after taking risedronate sodium tablets.
+- Do not eat or drink anything except plain water, or take other medications for at least 30 minutes after taking risedronate sodium tablets
 
 ## 2.7 Recommendations for Calcium and Vitamin D Supplementation
 

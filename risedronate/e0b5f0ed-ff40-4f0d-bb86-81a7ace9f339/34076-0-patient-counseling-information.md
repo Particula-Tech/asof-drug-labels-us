@@ -40,3 +40,5 @@ Instruct patients to take calcium supplements or calcium-, aluminum-, and magnes
 Remind patients to give all of their healthcare providers an accurate medication history.
 Instruct patients to tell all of their healthcare providers that they are taking risedronate sodium tablets.
 Patients should be instructed that any time they have a medical problem they think may be from risedronate sodium tablets, they should talk to their doctor.
+
+Dispense with Medication Guide available at: https://www.sunpharma.com/usa/products
