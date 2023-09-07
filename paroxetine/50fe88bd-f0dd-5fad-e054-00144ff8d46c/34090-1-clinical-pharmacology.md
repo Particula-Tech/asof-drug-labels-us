@@ -73,24 +73,24 @@ Based on the assumption that the relationship between paroxetine’s in vitro Ki
 
 Drugs Metabolized by CYP2D6
 
-Pimozide: Higher doses of paroxetine have been shown to elevate plasma levels of pimozide.
+Pimozide:Higher doses of paroxetine have been shown to elevate plasma levels of pimozide.
 In a controlled study of healthy volunteers, after paroxetine was titrated to 60 mg daily, co-administration of a single dose of 2 mg pimozide was associated with mean increases in pimozide AUC of 151% and Cmax of 62%, compared to pimozide administered alone [see Drug Interactions (7.1)].
 
-Tamoxifen: It is uncertain whether the co-administration of paroxetine and tamoxifen has a significant adverse effect on the efficacy of tamoxifen.
+Tamoxifen:It is uncertain whether the co-administration of paroxetine and tamoxifen has a significant adverse effect on the efficacy of tamoxifen.
 Some studies have shown that the efficacy of tamoxifen, as measured by the risk of breast cancer relapse/mortality, may be reduced when co-prescribed with paroxetine as a result of paroxetine’s irreversible inhibition of CYP2D6.
 However, other studies have failed to demonstrate such a risk [see Warnings and Precautions (5.11) and Drug Interactions (7.1)].
 
-Desipramine: In one study, daily dosing of paroxetine (20 mg once daily) under steady-state conditions increased single dose desipramine (100 mg) Cmax, AUC, and T1/2 by an average of approximately 2-, 5-, and 3-fold, respectively [see Drug Interactions (7.1)].
+Desipramine:In one study, daily dosing of paroxetine (20 mg once daily) under steady-state conditions increased single dose desipramine (100 mg) Cmax, AUC, and T1/2 by an average of approximately 2-, 5-, and 3-fold, respectively [see Drug Interactions (7.1)].
 
-Risperidone: Daily dosing of paroxetine 20 mg in patients stabilized on risperidone (4 to 8 mg/day), a CYP2D6 substrate, increased mean plasma concentrations of risperidone approximately 4-fold, decreased 9-hydroxyrisperidone concentrations approximately 10%, and increased concentrations of the active moiety (the sum of risperidone plus 9-hydroxyrisperidone) approximately 1.4-fold [see Drug Interactions (7.1)].
+Risperidone:Daily dosing of paroxetine 20 mg in patients stabilized on risperidone (4 to 8 mg/day), a CYP2D6 substrate, increased mean plasma concentrations of risperidone approximately 4-fold, decreased 9-hydroxyrisperidone concentrations approximately 10%, and increased concentrations of the active moiety (the sum of risperidone plus 9-hydroxyrisperidone) approximately 1.4-fold [see Drug Interactions (7.1)].
 
-Atomoxetine: The effect of paroxetine on the pharmacokinetics of atomoxetine has been evaluated when both drugs were at steady state.
+Atomoxetine:The effect of paroxetine on the pharmacokinetics of atomoxetine has been evaluated when both drugs were at steady state.
 In healthy volunteers who were extensive metabolizers of CYP2D6, paroxetine 20 mg daily was given in combination with 20 mg atomoxetine every 12 hours.
 This resulted in increases in steady-state atomoxetine AUC values that were 6- to 8-fold greater and in atomoxetine Cmax values that were 3- to 4-fold greater than when atomoxetine was given alone [see Drug Interactions (7.1)].
 
-Digoxin: Mean digoxin AUC at steady state decreased by 15% in the presence of paroxetine [see Drug Interactions (7.1)].
+Digoxin:Mean digoxin AUC at steady state decreased by 15% in the presence of paroxetine [see Drug Interactions (7.1)].
 
-Beta Blockers: In a study in which propranolol (80 mg twice daily) was dosed orally for 18 days, the steady-state plasma concentrations of propranolol were unaltered during co-administration with paroxetine (30 mg once daily) for the final 10 days.
+Beta Blockers:In a study in which propranolol (80 mg twice daily) was dosed orally for 18 days, the steady-state plasma concentrations of propranolol were unaltered during co-administration with paroxetine (30 mg once daily) for the final 10 days.
 The effects of propranolol on paroxetine have not been evaluated.
 
 Potential Effect of Other Drugs on PEXEVA
@@ -98,18 +98,18 @@ Potential Effect of Other Drugs on PEXEVA
 Concomitant use of paroxetine with other drugs that alter CYP enzymes activities including CYP2D6 may affect the plasma concentrations of paroxetine.
 Specific studies investigating the effect of other drugs on paroxetine are listed below:
 
-Cimetidine: Cimetidine inhibits many cytochrome P450 enzymes.
+Cimetidine:Cimetidine inhibits many cytochrome P450 enzymes.
 In a study in which paroxetine (30 mg once daily) was dosed orally for 4 weeks, steady-state plasma concentrations of paroxetine were increased by approximately 50% during co-administration with oral cimetidine (300 mg three times daily) for the final week [see Drug Interactions (7.2)].
 
-Phenobarbital: Phenobarbital induces many cytochrome P450 enzymes.
+Phenobarbital:Phenobarbital induces many cytochrome P450 enzymes.
 When a single oral 30 mg dose of paroxetine was administered at phenobarbital steady state (100 mg once daily for 14 days), paroxetine AUC and T1/2 were reduced (by an average of 25% and 38%, respectively) compared to paroxetine administered alone.
 The effect of paroxetine on phenobarbital pharmacokinetics was not studied.
 Because paroxetine exhibits nonlinear pharmacokinetics, the results of this study may not address the case where the 2 drugs are both being chronically dosed [see Drug Interactions (7.2)].
 
-Phenytoin: When a single oral 30 mg dose of paroxetine was administered at phenytoin steady state (300 mg once daily for 14 days), paroxetine AUC and T1/2 were reduced (by an average of 50% and 35%, respectively) compared to paroxetine administered alone.
+Phenytoin:When a single oral 30 mg dose of paroxetine was administered at phenytoin steady state (300 mg once daily for 14 days), paroxetine AUC and T1/2 were reduced (by an average of 50% and 35%, respectively) compared to paroxetine administered alone.
 In a separate study, when a single oral 300 mg dose of phenytoin was administered at paroxetine steady state (30 mg once daily for 14 days), phenytoin AUC was slightly reduced (12% on average) compared to phenytoin administered alone.
 Because both drugs exhibit nonlinear pharmacokinetics, the above studies may not address the case where the 2 drugs are both being chronically dosed [see Drug Interactions (7.2)].
 
-Digoxin: A clinical drug interaction study showed that concurrent use of digoxin did not affect paroxetine exposure.
+Digoxin:A clinical drug interaction study showed that concurrent use of digoxin did not affect paroxetine exposure.
 
-Diazepam: A clinical drug interaction study showed that concurrent use of diazepam did not affect paroxetine exposure.
+Diazepam:A clinical drug interaction study showed that concurrent use of diazepam did not affect paroxetine exposure.

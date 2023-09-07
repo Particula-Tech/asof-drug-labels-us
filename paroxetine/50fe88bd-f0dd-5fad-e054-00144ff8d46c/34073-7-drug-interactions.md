@@ -15,7 +15,7 @@ Table 9: Clinically Significant Drug Interactions with PEXEVA
 | Other Serotonergic Drugs |  |
 | Clinical Impact | The concomitant use of serotonergic drugs with PEXEVA increases the risk of serotonin syndrome. |
 | Intervention | Monitor patients for signs and symptoms of serotonin syndrome, particularly during treatment initiation and dosage increases. If serotonin syndrome occurs, consider discontinuation of PEXEVA and/or concomitant serotonergic drugs [see Warnings and Precautions (5.2)]. |
-| Examples | other SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John’s Wort |
+| Examples | other SSRIs, SNRIs, triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, and St. John’s Wort |
 | Drugs that Interfere with Hemostasis (antiplatelet agents and anticoagulants) |  |
 | Clinical Impact | The concurrent use of an antiplatelet agent or anticoagulant with PEXEVA may potentiate the risk of bleeding. |
 | Intervention | Inform patients of the increased risk of bleeding associated with the concomitant use of PEXEVA and antiplatelet agents and anticoagulants. For patients taking warfarin, carefully monitor the international normalized ratio [see Warnings and Precautions (5.5)]. |

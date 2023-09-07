@@ -5,7 +5,7 @@ The following adverse reactions are included in more detail in other sections of
 - Hypersensitivity reactions to paroxetine [see Contraindications (4)]
 - Suicidal Thoughts and Behaviors [see Warnings and Precautions (5.1)]
 - Serotonin syndrome [see Warnings and Precautions (5.2)]
-- Embryofetal and Neonatal Toxicity [see Warnings and Precautions (5.4)]
+- Embryofetal Toxicity [see Warnings and Precautions (5.4)]
 - Increased Risk of Bleeding [see Warnings and Precautions (5.5)]
 - Activation of Mania/Hypomania [see Warnings and Precautions (5.6)]
 - Discontinuation Syndrome [see Warnings and Precautions (5.7)]
@@ -53,23 +53,23 @@ TABLE 3: Adverse Reactions Reported as Leading to Discontinuation (≥1% of Paro
 | Sweating | 1.0% | 0.3% | - | - | - | - | 1.1% | 0.2% |
 | Impotence 1 | - | - | 1.5% | 0% | - | - | - | - |
 | Where numbers are not provided the incidence of the adverse events in patients treated with paroxetine was not >1% or was not greater than or equal to two times the incidence of placebo. |  |  |  |  |  |  |  |  |
-| 1 Incidence corrected for gender. |  |  |  |  |  |  |  |  |
+| 1Incidence corrected for gender. |  |  |  |  |  |  |  |  |
 
 Most Common Adverse Reactions in MDD, OCD, PD, and GAD
 
 The most commonly observed adverse reactions associated with the use of PEXEVA (incidence of 5% or greater and at least twice that for placebo) were:
 
-Major Depressive Disorder:asthenia, sweating, nausea, decreased appetite, somnolence, dizziness, insomnia, tremor, nervousness, ejaculatory disturbance, and other male genital disorders.
+Major Depressive Disorder: asthenia, sweating, nausea, decreased appetite, somnolence, dizziness, insomnia, tremor, nervousness, ejaculatory disturbance, and other male genital disorders.
 
-Obsessive Compulsive Disorder: nausea, dry mouth, decreased appetite, constipation, dizziness, somnolence, tremor, sweating, impotence, and abnormal ejaculation.
+Obsessive Compulsive Disorder:nausea, dry mouth, decreased appetite, constipation, dizziness, somnolence, tremor, sweating, impotence, and abnormal ejaculation.
 
-Panic Disorder: asthenia, sweating, decreased appetite, libido decreased, tremor, abnormal ejaculation, female genital disorders, and impotence.
+Panic Disorder:asthenia, sweating, decreased appetite, libido decreased, tremor, abnormal ejaculation, female genital disorders, and impotence.
 
-Generalized Anxiety Disorder: asthenia, infection, constipation, decreased appetite, dry mouth, nausea, libido decreased, somnolence, tremor, sweating, and abnormal ejaculation.
+Generalized Anxiety Disorder:asthenia, infection, constipation, decreased appetite, dry mouth, nausea, libido decreased, somnolence, tremor, sweating, and abnormal ejaculation.
 
 Adverse Reactions Occurring at an Incidence of 1% or More in Paroxetine Treated Patients
 
-Major Depressive Disorder: Table 3 enumerates adverse reactions that occurred at an incidence of 1% or more and greater than placebo in clinical trials of paroxetine-treated patients with MDD.
+Major Depressive Disorder:Table 4 enumerates adverse reactions that occurred at an incidence of 1% or more and greater than placebo in clinical trials of paroxetine-treated patients with MDD.
 
 TABLE 4: Adverse Reactions (≥1% of Paroxetine-treated Patients and Greater than Placebo) in 6-Week Clinical Trials for MDD
 
@@ -110,18 +110,18 @@ TABLE 4: Adverse Reactions (≥1% of Paroxetine-treated Patients and Greater tha
 |  | Urinary Frequency | 3 | 1 |
 |  | Urination Disorder 5 | 3 | 0 |
 |  | Female Genital Disorders 2,6 | 2 | 0 |
-| 1 Includes mostly “lump in throat” and “tightness in throat.” |  |  |  |
-| 2 Percentage corrected for gender. |  |  |  |
-| 3 Mostly “ejaculatory delay.” |  |  |  |
-| 4 Includes “anorgasmia,” “erectile difficulties,” “delayed ejaculation/orgasm,” and “sexual dysfunction” and “impotence.” |  |  |  |
-| 5 Includes mostly “difficulty with micturition” and “urinary hesitancy.” |  |  |  |
-| 6 Includes mostly “anorgasmia” and “difficulty reaching climax/orgasm.” |  |  |  |
+| 1Includes mostly “lump in throat” and “tightness in throat.” |  |  |  |
+| 2Percentage corrected for gender. |  |  |  |
+| 3Mostly “ejaculatory delay.” |  |  |  |
+| 4Includes “anorgasmia,” “erectile difficulties,” “delayed ejaculation/orgasm,” and “sexual dysfunction” and “impotence.” |  |  |  |
+| 5Includes mostly “difficulty with micturition” and “urinary hesitancy.” |  |  |  |
+| 6Includes mostly “anorgasmia” and “difficulty reaching climax/orgasm.” |  |  |  |
 
-Obsessive Compulsive Disorder and Panic Disorder: Table 5 enumerates adverse reactions that occurred at a frequency of 2% or more in clinical trials in patients with OCD and PD.
+Obsessive Compulsive Disorder and Panic Disorder:Table 5 enumerates adverse reactions that occurred at a frequency of 2% or more in clinical trials in patients with OCD and PD.
 
 | TABLE 5: Adverse Reactions (≥2% of Paroxetine-Treated Patients and Greater than Placebo) in 10- to 12-Week Clinical Trials for OCD and PD |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  | Obsessive Compulsive Disorder |  | Panic Disorder |  |
+|  |  | ObsessiveCompulsive Disorder |  | PanicDisorder |  |
 | Body System | Preferred Term | Paroxetine (n=542)% | Placebo (n=265)% | Paroxetine (n=469)% | Placebo (n=324)% |
 | Body as a Whole | Asthenia | 22 | 14 | 14 | 5 |
 |  | Abdominal Pain | - | - | 4 | 3 |
@@ -160,13 +160,13 @@ Obsessive Compulsive Disorder and Panic Disorder: Table 5 enumerates adverse rea
 |  | Urinary Frequency | 3 | 1 | 2 | 0 |
 |  | Urination Impaired | 3 | 0 | - | - |
 |  | Urinary Tract Infection | 2 | 1 | 2 | 1 |
-| 1 Percentage corrected for gender. |  |  |  |  |  |
+| 1Percentage corrected for gender. |  |  |  |  |  |
 
-Generalized Anxiety Disorder: Table 6 enumerates adverse reactions that occurred at a frequency of 2% or more among GAD patients on paroxetine who participated in placebo-controlled trials of 8-weeks duration in which patients were dosed in a range of 10 mg/day to 50 mg/day.
+Generalized Anxiety Disorder:Table 6 enumerates adverse reactions that occurred at a frequency of 2% or more among GAD patients on paroxetine who participated in placebo-controlled trials of 8-weeks duration in which patients were dosed in a range of 10 mg/day to 50 mg/day.
 
 | TABLE 6: Adverse Reactions (≥2% of Paroxetine-Treated Patients and Greater than Placebo) in 8-Week Clinical Trials for GAD |  |  |  |
 | --- | --- | --- | --- |
-| Body System | Preferred Term | Paroxetine (n=735)% | Placebo (n=529)% |
+| Body System | Preferred Term | Paroxetine(n=735)% | Placebo(n=529)% |
 | Body as a Whole | Asthenia | 14 | 6 |
 |  | Headache | 17 | 14 |
 |  | Infection | 6 | 3 |
@@ -191,9 +191,9 @@ Generalized Anxiety Disorder: Table 6 enumerates adverse reactions that occurred
 | Urogenital System | Abnormal Ejaculation 1 | 25 | 2 |
 |  | Female Genital Disorder 1 | 4 | 1 |
 |  | Impotence 1 | 4 | 3 |
-| 1 Percentage corrected for gender. |  |  |  |
+| 1Percentage corrected for gender. |  |  |  |
 
-Dose Dependency of Adverse Reactions: A comparison of adverse reaction rates in a fixed-dose study comparing paroxetine 10, 20, 30, and 40 mg/day with placebo in the treatment of MDD revealed a clear dose dependency for some of the more common adverse reactions associated with paroxetine use, as shown in Table 7:
+Dose Dependency of Adverse Reactions:A comparison of adverse reaction rates in a fixed-dose study comparing paroxetine 10, 20, 30, and 40 mg/day with placebo in the treatment of MDD revealed a clear dose dependency for some of the more common adverse reactions associated with paroxetine use, as shown in Table 7:
 
 | TABLE 7: Adverse Reactions (≥5% of Paroxetine-Treated Patients and Twice that of Placebo) in a Dose-Comparison Trial in the Treatment of MDD* |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -269,23 +269,23 @@ The following adverse reactions occurred during the clinical studies of paroxeti
 
 Adverse reactions are categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse reactions are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare adverse reactions are those occurring in fewer than 1/1000 patients.
 
-Body as a Whole:infrequent: allergic reaction, chills, face edema, malaise, neck pain; rare: adrenergic syndrome, cellulitis, moniliasis, neck rigidity, pelvic pain, peritonitis, sepsis, ulcer.
-Cardiovascular System: frequent: hypertension, tachycardia; infrequent: bradycardia, hematoma, hypotension, migraine, postural hypotension, syncope; rare: angina pectoris, arrhythmia nodal, atrial fibrillation, bundle branch block, cerebral ischemia, cerebrovascular accident, congestive heart failure, heart block, low cardiac output, myocardial infarction, myocardial ischemia, pallor, phlebitis, pulmonary embolus, supraventricular extrasystoles, thrombophlebitis, thrombosis, varicose vein, vascular headache, ventricular extrasystoles.
-Digestive System:infrequent: bruxism, colitis, dysphagia, eructation, gastritis, gastroenteritis, gingivitis, glossitis, increased salivation, abnormal liver function tests, rectal hemorrhage, ulcerative stomatitis; rare: aphthous stomatitis, bloody diarrhea, bulimia, cardiospasm, chlolelithiasis, duodenitis, enteritis, esophagitis, fecal impactions, fecal incontinence, gum hemorrhage, hematemesis, hepatitis, ileitis, ileus, intestinal obstruction, jaundice, melena, mouth ulceration, peptic ulcer, salivary gland enlargement, sialadenitis, stomach ulcer, stomatitis, tongue discoloration, tongue edema, tooth caries.
-Endocrine System:rare: diabetes mellitus, goiter, hyperthyroidism, hypothyroidism, thyroiditis.
-Hemic and Lymphatic Systems:infrequent: anemia, leukopenia, lymphadenopathy, purpura; rare: abnormal erythrocytes, basophilia, bleeding time increased, eosinophilia, hypochromic anemia, iron deficiency anemia, leukocytosis, lymphedema, abnormal lymphocytes, lymphocytosis, microcytic anemia, monocytosis, normocytic anemia, thrombocythemia, thrombocytopenia.
-Metabolic and Nutritional:frequent: weight gain; infrequent: edema, peripheral edema, SGOT increased, SGPT increased, thirst, weight loss; rare: alkaline phosphatase increased, bilirubinemia, BUN increased, creatinine phosphokinase increased, dehydration, gamma globulins increased, gout, hypercalcemia, hypercholesteremia, hyperglycemia, hyperkalemia, hyperphosphatemia, hypocalcemia, hypoglycemia, hypokalemia, hyponatremia, ketosis, lactic dehydrogenase increased, nonprotein nitrogen (NPN) increased.
-Musculoskeletal System:frequent: arthralgia; infrequent: arthritis, arthrosis; rare: bursitis, myositis, osteoporosis, generalized spasm, tenosynovitis, tetany.
-Nervous System: frequent: emotional lability, vertigo; infrequent: abnormal thinking, alcohol abuse, ataxia, dystonia, dyskinesia, euphoria, hostility, hypertonia, hypesthesia, hypokinesia, incoordination, lack of emotion, libido increased, manic reaction, neurosis, paralysis, paranoid reaction; rare: abnormal gait, akinesia, antisocial reaction, aphasia, choreoathetosis, circumoral paresthesias, convulsion, delirium, delusions, diplopia, drug dependence, dysarthria, extrapyramidal syndrome, fasciculations, grand mal convulsion, hyperalgesia, hysteria, manic-depressive reaction, meningitis, myelitis, neuralgia, neuropathy, nystagmus, peripheral neuritis, psychotic depression, psychosis, reflexes decreased, reflexes increased, stupor, torticollis, trismus, withdrawal syndrome.
-Respiratory System:infrequent: asthma, bronchitis, dyspnea, epistaxis, hyperventilation, pneumonia, respiratory flu; rare: emphysema, hemoptysis, hiccups, lung fibrosis, pulmonary edema, sputum increased, stridor, voice alteration.
-Skin and Appendages:frequent: pruritus; infrequent: acne, alopecia, contact dermatitis, dry skin, ecchymosis, eczema, herpes simplex, photosensitivity, urticaria; rare: angioedema, erythema nodosum, erythema multiforme, exfoliative dermatitis, fungal dermatitis, furunculosis, herpes zoster, hirsutism, maculopapular rash, seborrhea, skin discoloration, skin hypertrophy, skin ulcer, sweating decreased, vesiculobullous rash.
-Special Senses:frequent: tinnitus; infrequent: abnormality of accommodation, conjunctivitis, ear pain, eye pain, keratoconjunctivitis, mydriasis, otitis media; rare: amblyopia, anisocoria, blepharitis, cataract, conjunctival edema, corneal ulcer, deafness, exophthalmos, eye hemorrhage, glaucoma, hyperacusis, night blindness, otitis externa, parosmia, photophobia, ptosis, retinal hemorrhage, taste loss, visual field defect.
-Urogenital System:infrequent: amenorrhea, breast pain, cystitis, dysuria, hematuria, menorrhagia, nocturia, pyuria, polyuria, urinary incontinence, urinary retention, urinary urgency, vaginitis; rare: abortion, breast atrophy, breast enlargement, endometrial disorder, epididymitis, female lactation, fibrocystic breast, kidney calculus, kidney pain, leukorrhea, mastitis, metrorrhagia, nephritis, oliguria, salpingitis, urethritis, urinary casts, uterine spasm, urolith, vaginal hemorrhage, vaginal moniliasis.
+Body as a Whole: infrequent: allergic reaction, chills, face edema, malaise, neck pain; rare: adrenergic syndrome, cellulitis, moniliasis, neck rigidity, pelvic pain, peritonitis, sepsis, ulcer.
+Cardiovascular System:frequent: hypertension, tachycardia; infrequent: bradycardia, hematoma, hypotension, migraine, postural hypotension, syncope; rare:angina pectoris, arrhythmia nodal, atrial fibrillation, bundle branch block, cerebral ischemia, cerebrovascular accident, congestive heart failure, heart block, low cardiac output, myocardial infarction, myocardial ischemia, pallor, phlebitis, pulmonary embolus, supraventricular extrasystoles, thrombophlebitis, thrombosis, varicose vein, vascular headache, ventricular extrasystoles.
+Digestive System: infrequent:bruxism, colitis, dysphagia, eructation, gastritis, gastroenteritis, gingivitis, glossitis, increased salivation, abnormal liver function tests, rectal hemorrhage, ulcerative stomatitis; rare:aphthous stomatitis, bloody diarrhea, bulimia, cardiospasm, chlolelithiasis, duodenitis, enteritis, esophagitis, fecal impactions, fecal incontinence, gum hemorrhage, hematemesis, hepatitis, ileitis, ileus, intestinal obstruction, jaundice, melena, mouth ulceration, peptic ulcer, salivary gland enlargement, sialadenitis, stomach ulcer, stomatitis, tongue discoloration, tongue edema, tooth caries.
+Endocrine System: rare:diabetes mellitus, goiter, hyperthyroidism, hypothyroidism, thyroiditis.
+Hemic and Lymphatic Systems: infrequent:anemia, leukopenia, lymphadenopathy, purpura; rare:abnormal erythrocytes, basophilia, bleeding time increased, eosinophilia, hypochromic anemia, iron deficiency anemia, leukocytosis, lymphedema, abnormal lymphocytes, lymphocytosis, microcytic anemia, monocytosis, normocytic anemia, thrombocythemia, thrombocytopenia.
+Metabolic and Nutritional: frequent: weight gain; infrequent:edema, peripheral edema, SGOT increased, SGPT increased, thirst, weight loss; rare:alkaline phosphatase increased, bilirubinemia, BUN increased, creatinine phosphokinase increased, dehydration, gamma globulins increased, gout, hypercalcemia, hypercholesteremia, hyperglycemia, hyperkalemia, hyperphosphatemia, hypocalcemia, hypoglycemia, hypokalemia, hyponatremia, ketosis, lactic dehydrogenase increased, nonprotein nitrogen (NPN) increased.
+Musculoskeletal System: frequent:arthralgia; infrequent:arthritis, arthrosis; rare:bursitis, myositis, osteoporosis, generalized spasm, tenosynovitis, tetany.
+Nervous System:frequent:emotional lability, vertigo; infrequent:abnormal thinking, alcohol abuse, ataxia, dystonia, dyskinesia, euphoria, hostility, hypertonia, hypesthesia, hypokinesia, incoordination, lack of emotion, libido increased, manic reaction, neurosis, paralysis, paranoid reaction; rare:abnormal gait, akinesia, antisocial reaction, aphasia, choreoathetosis, circumoral paresthesias, convulsion, delirium, delusions, diplopia, drug dependence, dysarthria, extrapyramidal syndrome, fasciculations, grand mal convulsion, hyperalgesia, hysteria, manic-depressive reaction, meningitis, myelitis, neuralgia, neuropathy, nystagmus, peripheral neuritis, psychotic depression, psychosis, reflexes decreased, reflexes increased, stupor, torticollis, trismus, withdrawal syndrome.
+Respiratory System: infrequent:asthma, bronchitis, dyspnea, epistaxis, hyperventilation, pneumonia, respiratory flu; rare:emphysema, hemoptysis, hiccups, lung fibrosis, pulmonary edema, sputum increased, stridor, voice alteration.
+Skin and Appendages: frequent:pruritus; infrequent:acne, alopecia, contact dermatitis, dry skin, ecchymosis, eczema, herpes simplex, photosensitivity, urticaria; rare:angioedema, erythema nodosum, erythema multiforme, exfoliative dermatitis, fungal dermatitis, furunculosis, herpes zoster, hirsutism, maculopapular rash, seborrhea, skin discoloration, skin hypertrophy, skin ulcer, sweating decreased, vesiculobullous rash.
+Special Senses: frequent:tinnitus; infrequent:abnormality of accommodation, conjunctivitis, ear pain, eye pain, keratoconjunctivitis, mydriasis, otitis media; rare:amblyopia, anisocoria, blepharitis, cataract, conjunctival edema, corneal ulcer, deafness, exophthalmos, eye hemorrhage, glaucoma, hyperacusis, night blindness, otitis externa, parosmia, photophobia, ptosis, retinal hemorrhage, taste loss, visual field defect.
+Urogenital System: infrequent:amenorrhea, breast pain, cystitis, dysuria, hematuria, menorrhagia, nocturia, pyuria, polyuria, urinary incontinence, urinary retention, urinary urgency, vaginitis; rare:abortion, breast atrophy, breast enlargement, endometrial disorder, epididymitis, female lactation, fibrocystic breast, kidney calculus, kidney pain, leukorrhea, mastitis, metrorrhagia, nephritis, oliguria, salpingitis, urethritis, urinary casts, uterine spasm, urolith, vaginal hemorrhage, vaginal moniliasis.
 
 ## 6.3 Postmarketing Experience
 
 The following reactions have been identified during post approval use of paroxetine.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Acute pancreatitis, elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction), Guillain-Barré syndrome, Stevens-Johnson syndrome, toxic epidermal necrolysis, priapism, syndrome of inappropriate ADH secretion (SIADH), prolactinemia and galactorrhea; extrapyramidal symptoms which have included akathisia, bradykinesia, cogwheel rigidity, dystonia, hypertonia, oculogyric crisis which has been associated with concomitant use of pimozide; trismus; status epilepticus, acute renal failure, pulmonary hypertension, allergic alveolitis, anaphylaxis, eclampsia, laryngismus, optic neuritis, porphyria, restless legs syndrome (RLS), ventricular fibrillation, ventricular tachycardia (including torsade de pointes), hemolytic anemia, events related to impaired hematopoiesis (including aplastic anemia, pancytopenia, bone marrow aplasia, and agranulocytosis), vasculitic syndromes (such as Henoch-Schönlein purpura) and premature births in pregnant women.
+Acute pancreatitis, elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction), Guillain-Barré syndrome, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), priapism, syndrome of inappropriate ADH secretion (SIADH), prolactinemia and galactorrhea; extrapyramidal symptoms which have included akathisia, bradykinesia, cogwheel rigidity, dystonia, hypertonia, oculogyric crisis which has been associated with concomitant use of pimozide; trismus; status epilepticus, acute renal failure, pulmonary hypertension, allergic alveolitis, anosmia, hyposmia, anaphylaxis, eclampsia, laryngismus, optic neuritis, porphyria, restless legs syndrome (RLS), ventricular fibrillation, ventricular tachycardia (including torsade de pointes), hemolytic anemia, events related to impaired hematopoiesis (including aplastic anemia, pancytopenia, bone marrow aplasia, and agranulocytosis), vasculitic syndromes (such as Henoch-Schönlein purpura) and premature births in pregnant women.
 There has been a case report of severe hypotension when paroxetine was added to chronic metoprolol treatment.
