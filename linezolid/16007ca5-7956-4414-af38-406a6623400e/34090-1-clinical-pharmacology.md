@@ -20,22 +20,22 @@ Mean (Standard Deviation) Pharmacokinetic Parameters of Linezolid in Adults
 | Dose of Linezolid | Cmaxmcg/mL | Cminmcg/mL | Tmaxhrs | AUCAUC for single dose = AUC0-∞; for multiple-dose = AUC0-τmcg•h/mL | t1/2hrs | CL mL/min |
 | --- | --- | --- | --- | --- | --- | --- |
 | 400 mg tablet |  |  |  |  |  |  |
-| single doseData dose-normalized from 375 mg | 8.1 | --- | 1.52 | 55.1 | 5.2 | 146 |
+| single doseData dose-normalized from 375 mg | 8.10 | --- | 1.52 | 55.10 | 5.20 | 146 |
 |  | (1.83) |  | (1.01) | (25.00) | (1.50) | (67) |
-| every 12 hours | 11 | 3.08 | 1.12 | 73.4 | 4.69 | 110 |
+| every 12 hours | 11.00 | 3.08 | 1.12 | 73.40 | 4.69 | 110 |
 |  | (4.37) | (2.25) | (0.47) | (33.50) | (1.70) | (49) |
 | 600 mg tablet |  |  |  |  |  |  |
-| single dose | 12.7 | --- | 1.28 | 91.4 | 4.26 | 127 |
+| single dose | 12.70 | --- | 1.28 | 91.40 | 4.26 | 127 |
 |  | (3.96) |  | (0.66) | (39.30) | (1.65) | (48) |
-| every 12 hours | 21.2 | 6.15 | 1.03 | 138 | 5.4 | 80 |
+| every 12 hours | 21.20 | 6.15 | 1.03 | 138.00 | 5.40 | 80 |
 |  | (5.78) | (2.94) | (0.62) | (42.10) | (2.06) | (29) |
 | 600 mg IV injectionData dose-normalized from 625 mg, intravenous dose was given as 0.5-hour infusion. Cmax = Maximum plasma concentration; Cmin = Minimum plasma concentration; Tmax = Time to Cmax; AUC = Area under concentration-time curve; t1/2 = Elimination half-life; CL = Systemic clearance |  |  |  |  |  |  |
-| single dose | 12.9 | --- | 0.5 | 80.2 | 4.4 | 138 |
+| single dose | 12.90 | --- | 0.50 | 80.20 | 4.40 | 138 |
 |  | (1.60) |  | (0.10) | (33.30) | (2.40) | (39) |
-| every 12 hours | 15.1 | 3.68 | 0.51 | 89.7 | 4.8 | 123 |
+| every 12 hours | 15.10 | 3.68 | 0.51 | 89.70 | 4.80 | 123 |
 |  | (2.52) | (2.36) | (0.03) | (31.00) | (1.70) | (40) |
 | 600 mg oral suspension |  |  |  |  |  |  |
-| single dose | 11 | --- | 0.97 | 80.8 | 4.6 | 141 |
+| single dose | 11.00 | --- | 0.97 | 80.80 | 4.60 | 141 |
 |  | (2.76) |  | (0.88) | (35.10) | (1.71) | (45) |
 
 Figure 1.
@@ -90,12 +90,12 @@ Pharmacokinetic Parameters of Linezolid in Pediatrics and Adults Following a Sin
 | Age Group | Cmaxmcg/mL | Vss L/kg | AUCAUC = Single dose AUC0-∞ ** In this data set, “pre-term” is defined as <34 weeks gestational age (Note: Only 1 patient enrolled was pre-term with a postnatal age between 1 week and 28 days) ***In this data set, “full-term” is defined as ≥34 weeks gestational age mcg•h/mL | t1/2hrs | CL mL/min/kg |
 | --- | --- | --- | --- | --- | --- |
 | Neonatal PatientsPre-term ˂ 1 week (N=9)Dose of 10 mg/kg | 12.7 (30%) [9.6, 22.2] | 0.81 (24%) [0.43, 1.05] | 108 (47%) [41, 191] | 5.6 (46%) [2.4, 9.8] | 2.0 (52%) [0.9, 4.0] |
-| Full-term*** < 1 week (N=10) | 11.5 (24%) [8, 18.3] | 0.78 (20%) [0.45, 0.96] | 55 (47%) [19, 103] | 3 (55%) [1.3, 6.1] | 3.8 (55%) [1.5, 8.8] |
+| Full-term*** < 1 week (N=10) | 11.5 (24%) [8.0, 18.3] | 0.78 (20%) [0.45, 0.96] | 55 (47%) [19, 103] | 3.0 (55%) [1.3, 6.1] | 3.8 (55%) [1.5, 8.8] |
 | Full-term*** ≥ 1 week to ≤ 28 days (N=10) | 12.9 (28%) [7.7, 21.6] | 0.66 (29%) [0.35, 1.06] | 34 (21%) [23, 50] | 1.5 (17%) [1.2, 1.9] | 5.1 (22%) [3.3, 7.2] |
-| Infant Patients > 28 days to < 3 Months (N=12) | 11 (27%) [7.2, 18] | 0.79 (26%) [0.42, 1.08] | 33 (26%) [17, 48] | 1.8 (28%) [1.2, 2.8] | 5.4 (32%) [3.5, 9.9] |
-| Pediatric Patients 3 months through 11 years (N=59) | 15.1 (30%) [6.8, 36.7] | 0.69 (28%) [0.31, 1.5] | 58 (54%) [19, 153] | 2.9 (53%) [0.9, 8] | 3.8 (53%) [1, 8.5] |
+| Infant Patients > 28 days to < 3 Months (N=12) | 11.0 (27%) [7.2, 18.0] | 0.79 (26%) [0.42, 1.08] | 33 (26%) [17, 48] | 1.8 (28%) [1.2, 2.8] | 5.4 (32%) [3.5, 9.9] |
+| Pediatric Patients 3 months through 11 years (N=59) | 15.1 (30%) [6.8, 36.7] | 0.69 (28%) [0.31, 1.50] | 58 (54%) [19, 153] | 2.9 (53%) [0.9, 8.0] | 3.8 (53%) [1.0, 8.5] |
 | Adolescent Subjects and Patients 12 through 17 yearsDose of 600 mg or 10 mg/kg up to a maximum of 600 mg(N=36) | 16.7 (24%) [9.9, 28.9] | 0.61 (15%) [0.44, 0.79] | 95 (44%) [32, 178] | 4.1 (46%) [1.3, 8.1] | 2.1 (53%) [0.9, 5.2] |
-| Adult SubjectsDose normalized to 600 Cmax =Maximum plasma concentration; Vss = Volume of distribution; AUC = Area under concentration-time curve; t1/2 =Apparent elimination half-life; CL = Systemic clearance normalized for body weight (N= 29) | 12.5 (21%) [8.2, 19.3] | 0.65 (16%) [0.45, 0.84] | 91 (33%) [53, 155] | 4.9 (35%) [1.8, 8.3] | 1.7 (34%) [0.9, 3.3] |
+| Adult SubjectsDose normalized to 600 mg Cmax =Maximum plasma concentration; Vss = Volume of distribution; AUC = Area under concentration-time curve; t1/2 =Apparent elimination half-life; CL = Systemic clearance normalized for body weight (N= 29) | 12.5 (21%) [8.2, 19.3] | 0.65 (16%) [0.45, 0.84] | 91 (33%) [53, 155] | 4.9 (35%) [1.8, 8.3] | 1.7 (34%) [0.9, 3.3] |
 
 Gender: Females have a slightly lower volume of distribution of linezolid than males.
 Plasma concentrations are higher in females than in males, which is partly due to body weight differences.
@@ -123,10 +123,10 @@ Mean (Standard Deviation) AUCs and Elimination Half-lives of Linezolid and Metab
 | t1/2, hours | 6.4 (2.2) | 6.1 (1.7) | 7.1 (3.7) |
 | METABOLITE A |  |  |  |
 | AUC0-48, mcg h/mL | 7.6 (1.9) | 11.7 (4.3) | 56.5 (30.6) |
-| t1/2, hours | 6.3 (2.1) | 6.6 (2.3) | 9 (4.6) |
+| t1/2, hours | 6.3 (2.1) | 6.6 (2.3) | 9.0 (4.6) |
 | METABOLITE BMetabolite B is the major metabolite of linezolid. |  |  |  |
 | AUC0-48, mcg h/mL | 30.5 (6.2) | 51.1 (38.5) | 203 (92) |
-| t1/2, hours | 6.6 (2.7) | 9.9 (7.4) | 11 (3.9) |
+| t1/2, hours | 6.6 (2.7) | 9.9 (7.4) | 11.0 (3.9) |
 
 Table 11.
 Mean (Standard Deviation) AUCs and Elimination Half-lives of Linezolid and Metabolites A and B in Subjects with End-Stage Renal Disease (ESRD) After the Administration of 600 mg Linezolid Every 12 Hours for 14.5 Days

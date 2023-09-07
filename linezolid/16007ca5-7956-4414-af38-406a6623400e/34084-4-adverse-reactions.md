@@ -55,7 +55,7 @@ Incidence (%) of Treatment-Emergent Adverse Reactions Occurring in >1% of Pediat
 | Linezolid (n=248) | Cefadroxil (n=251) | Linezolid (n=215) | Vancomycin (n=101) |  |
 | Diarrhea | 7.8 | 8.0 | 10.8 | 12.1 |
 | Vomiting | 2.9 | 6.4 | 9.4 | 9.1 |
-| Headache | 6.5 | 4 | 0.9 | 0 |
+| Headache | 6.5 | 4.0 | 0.9 | 0 |
 | Anemia | 0 | 0 | 5.6 | 7.1 |
 | Thrombocytopenia | 0 | 0 | 4.7 | 2.0 |
 | Nausea | 3.7 | 3.2 | 1.9 | 0 |
