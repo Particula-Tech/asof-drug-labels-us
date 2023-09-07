@@ -8,7 +8,7 @@ Additionally, administration of venlafaxine in a stable regimen did not exaggera
 ## 7.2 Cimetidine
 
 Concomitant administration of cimetidine and venlafaxine in a steady-state study for both drugs resulted in inhibition of first-pass metabolism of venlafaxine in 18 healthy subjects.
-The oral clearance of venlafaxine was reduced by about 43%, and the exposure (AUC) and maximum concentration (C max) of the drug were increased by about 60%.
+The oral clearance of venlafaxine was reduced by about 43%, and the exposure (AUC) and maximum concentration (Cmax) of the drug were increased by about 60%.
 However, coadministration of cimetidine had no apparent effect on the pharmacokinetics of ODV, which is present in much greater quantity in the circulation than venlafaxine.
 The overall pharmacological activity of venlafaxine plus ODV is expected to increase only slightly, and no dosage adjustment should be necessary for most normal adults.
 However, for patients with pre-existing hypertension, and for elderly patients or patients with hepatic dysfunction, the interaction associated with the concomitant use of venlafaxine and cimetidine is not known and potentially could be more pronounced.
@@ -22,7 +22,7 @@ Venlafaxine also did not have any effect on the pharmacokinetics of diazepam or 
 ## 7.4 Haloperidol
 
 Venlafaxine administered under steady-state conditions at 150 mg/day in 24 healthy subjects decreased total oral-dose clearance (Cl/F) of a single 2 mg dose of haloperidol by 42%, which resulted in a 70% increase in haloperidol AUC.
-In addition, the haloperidol C max increased 88% when coadministered with venlafaxine, but the haloperidol elimination half-life (t 1/2) was unchanged.
+In addition, the haloperidol Cmax increased 88% when coadministered with venlafaxine, but the haloperidol elimination half-life (t1/2) was unchanged.
 The mechanism explaining this finding is unknown.
 
 ## 7.5 Lithium
@@ -43,8 +43,8 @@ CYP2D6 inhibitors such as quinidine would be expected to do this, but the effect
 Therefore, no dosage adjustment is required when venlafaxine is coadministered with a CYP2D6 inhibitor.
 
 Ketoconazole: A pharmacokinetic study with ketoconazole 100 mg b.i.d. with a single dose of venlafaxine 50 mg in extensive metabolizers (EM; n=14) and 25 mg in poor metabolizers (PM;n=6) of CYP2D6 resulted in higher plasma concentrations of both venlafaxine and O-desmethylvenlafaxine (ODV) in most subjects following administration of ketoconazole.
-Venlafaxine C max increased by 26% in EM subjects and 48% in PM subjects.
-C max values for ODV increased by 14% and 29% in EM and PM subjects, respectively.
+Venlafaxine Cmax increased by 26% in EM subjects and 48% in PM subjects.
+Cmax values for ODV increased by 14% and 29% in EM and PM subjects, respectively.
 
 Venlafaxine AUC increased by 21% in EM subjects and 70% in PM subjects (range in PM’s -2% to 206%), and AUC values for ODV increased by 23% and 33% in EM and PM (range in PM’s -38% to 105%) subjects, respectively.
 Combined AUC’s of venlafaxine and ODV increased on average by approximately 23% in EM’s and 53% in PM’s, (range in PM’s 4% to 134%).
@@ -60,7 +60,7 @@ In vitro studies indicate that venlafaxine is a relatively weak inhibitor of CYP
 These findings have been confirmed in a clinical drug interaction study comparing the effect of venlafaxine with that of fluoxetine on the CYP2D6-mediated metabolism of dextromethorphan to dextrorphan.
 
 Imipramine - Venlafaxine did not affect the pharmacokinetics of imipramine and 2-OH-imipramine.
-However, desipramine AUC, C max, and C min increased by about 35% in the presence of venlafaxine.
+However, desipramine AUC, Cmax, and Cmin increased by about 35% in the presence of venlafaxine.
 The 2-OH-desipramine AUC's increased by at least 2.5 fold (with venlafaxine 37.5 mg q12h) and by 4.5 fold (with venlafaxine 75 mg q12h).
 Imipramine did not affect the pharmacokinetics of venlafaxine and ODV.
 The clinical significance of elevated 2-OH-desipramine levels is unknown.
@@ -81,7 +81,8 @@ CYP3A4
 Venlafaxine did not inhibit CYP3A4 in vitro.
 This finding was confirmed in vivo by clinical drug interaction studies in which venlafaxine did not inhibit the metabolism of several CYP3A4 substrates, including alprazolam, diazepam, and terfenadine.
 
-Indinavir - In a study of 9 healthy volunteers, venlafaxine administered under steady-state conditions at 150 mg/day resulted in a 28% decrease in the AUC of a single 800 mg oral dose of indinavir and a 36% decrease in indinavir C max. Indinavir did not affect the pharmacokinetics of venlafaxine and ODV.
+Indinavir - In a study of 9 healthy volunteers, venlafaxine administered under steady-state conditions at 150 mg/day resulted in a 28% decrease in the AUC of a single 800 mg oral dose of indinavir and a 36% decrease in indinavir Cmax.
+Indinavir did not affect the pharmacokinetics of venlafaxine and ODV.
 The clinical significance of this finding is unknown.
 
 CYP1A2
@@ -98,13 +99,15 @@ CYP2C19
 
 Venlafaxine did not inhibit the metabolism of diazepam, which is partially metabolized by CYP2C19 (see Diazepam above).
 
-## 7.9 Monoamine Oxidase Inhibitors (MAOIs)
+## 7.9 Monoamine Oxidase Inhibitors
 
 [See Dosage and Administration (2.6 and 2.7), Contraindications (4.1), and Warnings and Precautions (5.2).]
 
-## 7.10 Serotonergic Drugs
+## 7.10 Other Serotonergic Drugs
 
-[See Dosage and Administration (2.6 and 2.7), Contraindications (4.1), and Warnings and Precautions (5.2).]
+The concomitant use of serotonergic drugs (including other SNRIs, SSRIs, triptans, tricyclic antidepressants, opioids, lithium, buspirone, amphetamines, tryptophan, and St. John’s Wort) with Venlafaxine Extended Release Tablets increases the risk of serotonin syndrome.
+Monitor patients for signs and symptoms of serotonin syndrome, particularly during treatment initiation and dosage increases.
+If serotonin syndrome occurs, consider discontinuation of Venlafaxine Extended Release Tablets and/or concomitant serotonergic drugs [see Warning and Precautions (5.2)].
 
 ## 7.11 Drugs that Interfere with Hemostasis (e.g., NSAID’s, Aspirin, and Warfarin)
 

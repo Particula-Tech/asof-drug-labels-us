@@ -27,7 +27,7 @@ However, since any psychoactive drug may impair judgment, thinking, or motor ski
 
 Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs, including herbal preparations and nutritional supplements, since there is a potential for interactions.
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of Venlafaxine Extended Release Tablets and triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, amphetamines, tryptophan, buspirone, and St. John’s Wort supplements or other serotonergic agents [see Warnings and Precautions (5.2) and Drug Interactions (7.10)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of Venlafaxine Extended Release Tablets and triptans, tricyclic antidepressants, opioids, lithium, amphetamines, tryptophan, buspirone, and St. John’s Wort supplements or other serotonergic agents [see Warnings and Precautions (5.2) and Drug Interactions (7.10)].
 
 Patients should be cautioned about the concomitant use of Venlafaxine Extended Release Tablets and NSAID’s, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.13) and Drug Interactions (7.11)].
 
@@ -63,6 +63,6 @@ Inform patients that they should discuss any changes in sexual function and pote
 
 Marketed by:
 
-Bridgewater, NJ 08807
+Alpharetta, GA 30005
 
 70042439

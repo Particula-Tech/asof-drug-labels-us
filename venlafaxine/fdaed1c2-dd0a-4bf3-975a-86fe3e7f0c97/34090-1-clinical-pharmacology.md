@@ -24,15 +24,15 @@ Venlafaxine is well absorbed and extensively metabolized in the liver.
 ODV is the only major active metabolite.
 On the basis of mass balance studies, at least 92% of a single oral dose of venlafaxine is absorbed.
 The absolute bioavailability of venlafaxine is about 45%.
-Administration of 75 mg Venlafaxine Extended Release Tablets under fed conditions resulted in mean ± SD venlafaxine C max of 26.9 ± 13.4 ng/mL and AUC of 1536.3 ± 496.8 ng·hr/mL.
-T max was 6.3 ± 2.3 hours.
-ODV mean ± SD C max, AUC, T max after administration of 75 mg Venlafaxine Extended Release Tablets under fed conditions were 97.9 ± 29.4 ng/mL, 2926.0 ± 746.1 ng·hr/mL, and 11.6 ± 2.9 hours, respectively.
+Administration of 75 mg Venlafaxine Extended Release Tablets under fed conditions resulted in mean ± SD venlafaxine Cmax of 26.9 ± 13.4 ng/mL and AUC of 1536.3 ± 496.8 ng·hr/mL.
+Tmax was 6.3 ± 2.3 hours.
+ODV mean ± SD Cmax, AUC, Tmax after administration of 75 mg Venlafaxine Extended Release Tablets under fed conditions were 97.9 ± 29.4 ng/mL, 2926.0 ± 746.1 ng·hr/mL, and 11.6 ± 2.9 hours, respectively.
 
-Administration of venlafaxine hydrochloride extended-release capsules (150 mg q24 hours) generally resulted in lower C max (150 ng/mL for venlafaxine and 260 ng/mL for ODV) and later T max (5.5 hours for venlafaxine and 9 hours for ODV) than for immediate release venlafaxine tablets (C max's for immediate release 75 mg q12 hours were 225 ng/mL for venlafaxine and 290 ng/mL for ODV; T max's were 2 hours for venlafaxine and 3 hours for ODV).
+Administration of venlafaxine hydrochloride extended-release capsules (150 mg q24 hours) generally resulted in lower Cmax (150 ng/mL for venlafaxine and 260 ng/mL for ODV) and later Tmax (5.5 hours for venlafaxine and 9 hours for ODV) than for immediate release venlafaxine tablets (Cmax's for immediate release 75 mg q12 hours were 225 ng/mL for venlafaxine and 290 ng/mL for ODV; Tmax's were 2 hours for venlafaxine and 3 hours for ODV).
 When equal daily doses of venlafaxine were administered as either an immediate release tablet or the extended-release form of venlafaxine, the exposure to both venlafaxine and ODV would be similar for the two treatments.
 Venlafaxine Extended Release Tablets would, therefore, provide a slower rate of absorption, but the same extent of absorption compared with the immediate release tablet.
 
-Food did not affect the pharmacokinetic parameters AUC, C max, and T max of venlafaxine or its active metabolite, ODV, after administration of Venlafaxine Extended Release Tablets.
+Food did not affect the pharmacokinetic parameters AUC, Cmax, and Tmax of venlafaxine or its active metabolite, ODV, after administration of Venlafaxine Extended Release Tablets.
 Time of administration (AM vs PM) would not affect the pharmacokinetics of venlafaxine and ODV.
 
 Equal doses of venlafaxine hydrochloride extended-release tablets are bioequivalent to Effexor XR capsules when administered under fed conditions.

@@ -2,16 +2,16 @@
 
 ## 8.1 Pregnancy
 
+Based on data from published observational studies, exposure to SNRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions (5.13) and Clinical Considerations].
+
 Teratogenic Effects
 
-Pregnancy Category C
-
-Venlafaxine did not cause malformations in offspring of rats or rabbits given doses up to 2.5 times (rat) or 4 times (rabbit) the maximum recommended human daily dose on a mg/m 2 basis.
+Venlafaxine did not cause malformations in offspring of rats or rabbits given doses up to 2.5 times (rat) or 4 times (rabbit) the maximum recommended human daily dose on a mg/m2 basis.
 
 However, in rats, there was a decrease in pup weight, an increase in stillborn pups, and an increase in pup deaths during the first 5 days of lactation, when dosing began during pregnancy and continued until weaning.
 The cause of these deaths is not known.
-These effects occurred at 2.5 times (mg/m 2) the maximum human daily dose.
-The no effect dose for rat pup mortality was 0.25 times the human dose on a mg/m 2 basis.
+These effects occurred at 2.5 times (mg/m2) the maximum human daily dose.
+The no effect dose for rat pup mortality was 0.25 times the human dose on a mg/m2 basis.
 There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
@@ -23,6 +23,10 @@ Reported clinical findings have included respiratory distress, cyanosis, apnea, 
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
 It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome [see Warnings and Precautions (5.2)].
 When treating a pregnant woman with Venlafaxine Extended-Release Tablets during the third trimester, the physician should carefully consider the potential risks and benefits of treatment [see Dosage and Administration (2)].
+
+Maternal Adverse Reactions
+
+Exposure to Venlafaxine Extended Release Tablets in mid to late pregnancy may increase the risk for preeclampsia, and exposure to Venlafaxine Extended Release Tablets in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.13)].
 
 ## 8.2 Labor and Delivery
 
@@ -36,6 +40,7 @@ Because of the potential for serious adverse reactions in nursing infants from V
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in the pediatric population have not been established [see BOXED WARNING and Warnings and Precautions (5.1)].
+
 Two placebo-controlled trials in 766 pediatric patients with MDD and two placebo-controlled trials in another disorder in 793 pediatric patients have been conducted with venlafaxine hydrochloride extended-release capsules, and the data were not sufficient to support a claim for use in pediatric patients.
 
 Anyone considering the use of Venlafaxine Extended Release Tablets in a child or adolescent must balance the potential risks with the clinical need.

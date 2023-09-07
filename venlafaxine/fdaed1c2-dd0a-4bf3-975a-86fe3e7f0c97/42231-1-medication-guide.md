@@ -88,9 +88,9 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Marketed by:
 
-Bridgewater, NJ 08807
+Alpharetta, GA 30005
 
 Rev.
-07/2021
+08/2023
 
 70042439

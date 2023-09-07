@@ -9,18 +9,18 @@ Major Depressive Disorder
 
 For most patients, the recommended starting dose for Venlafaxine Extended Release Tablets is 75 mg/day, administered in a single dose.
 In the clinical trials establishing the efficacy of venlafaxine hydrochloride extended-release capsules in moderately depressed outpatients, the initial dose of venlafaxine was 75 mg/day.
-For some patients, it may be desirable to start at 37.5 mg/day for 4 to 7 days, to allow new patients to adjust to the medication before increasing to 75 mg/day.
+For some patients, it may be desirable to start at 37.5 mg/day for 4 to 7 days to allow new patients to adjust to the medication before increasing to 75 mg/day.
 While the relationship between dose and antidepressant response for venlafaxine hydrochloride extended-release capsules has not been adequately explored, patients not responding to the initial 75 mg/day dose may benefit from dose increases to a maximum of approximately 225 mg/day.
 Dose increases should be in increments of up to 75 mg/day, as needed, and should be made at intervals of not less than 4 days, since steady state plasma levels of venlafaxine and its major metabolites are achieved in most patients by day 4.
 In the clinical trials establishing efficacy, upward titration was permitted at intervals of 2 weeks or more; the average doses were about 140 to 180 mg/day [see Clinical Studies (14)].
 
 It should be noted that, while the maximum recommended dose for moderately depressed outpatients is also 225 mg/day for venlafaxine hydrochloride immediate-release tablets, more severely depressed inpatients in one study of the development program for that product responded to a mean dose of 350 mg/day (range of 150 to 375 mg/day).
-Whether or not higher doses of Venlafaxine Extended Release Tablets are needed for more severely depressed patients is unknown; however, the experience with venlafaxine hydrochloride extended-release capsule doses higher than 225 mg/day is very limited [see Warnings and Precautions (5.17)].
+Whether or not higher doses of Venlafaxine Extended Release Tablets are needed for more severely depressed patients is unknown; however, the experience with venlafaxine hydrochloride extended-release capsule doses higher than 225 mg/day is very limited.
 
 Social Anxiety Disorder (Social Phobia)
 
 The recommended dose is 75 mg/day, administered in a single dose.
-There was no evidence that higher doses confer any additional benefit [see Warnings and Precautions (5.17)].
+There was no evidence that higher doses confer any additional benefit.
 
 ## 2.2 Maintenance Treatment
 
@@ -61,7 +61,7 @@ When individualizing the dosage, extra care should be taken when increasing the 
 
 Symptoms associated with discontinuation of venlafaxine hydrochloride extended-release capsules, other SNRI’s, and SSRI’s have been reported [see Warnings and Precautions (5.5)].
 Patients should be monitored for these symptoms when discontinuing treatment.
-A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
+A gradual reduction in the dose, rather than abrupt cessation, is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
 In clinical trials with venlafaxine hydrochloride extended-release capsules, tapering was achieved by reducing the daily dose by 75 mg at 1 week intervals.
@@ -69,7 +69,7 @@ Individualization of tapering may be necessary.
 
 ## 2.5 Switching Patients from Venlafaxine Hydrochloride Immediate-Release Tablets
 
-Depressed patients who are currently being treated at a therapeutic dose with venlafaxine hydrochloride immediate-release tablets may be switched to Venlafaxine Extended Release Tablets at the nearest equivalent dose (mg/day), e.g., 37.5 mg venlafaxine two-times-a-day to 75 mg Venlafaxine Extended Release Tablets once daily.
+Depressed patients who are currently being treated at a therapeutic dose with venlafaxine hydrochloride immediate-release tablets may be switched to Venlafaxine Extended Release Tablets at the nearest equivalent dose (mg/day), e.g., 37.5 mg venlafaxine two-times-a day to 75 mg Venlafaxine Extended Release Tablets once daily.
 However, individual dosage adjustments may be necessary.
 
 ## 2.6 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders

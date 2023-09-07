@@ -36,7 +36,7 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the adverse reaction incidence rate in the population studied.
 
-Table 6 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Controlled Clinical Trials with Venlafaxine Hydrochloride Extended-Release Capsules in Patients with Major Depressive Disorder 1,2
+Table 6 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Controlled Clinical Trials with Venlafaxine Hydrochloride Extended-Release Capsules in Patients with Major Depressive Disorder1,2
 
 |  | % Reporting Reaction |  |
 | --- | --- | --- |
@@ -44,7 +44,7 @@ Table 6 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Cont
 | Body as a Whole |  |  |
 | Asthenia | 8% | 7% |
 | Cardiovascular System |  |  |
-| Vasodilatation 3 | 4% | 2% |
+| Vasodilatation3 | 4% | 2% |
 | Hypertension | 4% | 1% |
 | Digestive System |  |  |
 | Nausea | 31% | 12% |
@@ -60,7 +60,7 @@ Table 6 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Cont
 | Insomnia | 17% | 11% |
 | Dry Mouth | 12% | 6% |
 | Nervousness | 10% | 5% |
-| Abnormal Dreams 4 | 7% | 2% |
+| Abnormal Dreams4 | 7% | 2% |
 | Tremor | 5% | 2% |
 | Depression | 3% | <1% |
 | Paresthesia | 3% | 1% |
@@ -72,11 +72,11 @@ Table 6 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Cont
 | Skin |  |  |
 | Sweating | 14% | 3% |
 | Special Senses |  |  |
-| Abnormal Vision 5 | 4% | <1% |
+| Abnormal Vision5 | 4% | <1% |
 | Urogenital System |  |  |
-| Abnormal Ejaculation(male) 6,7 | 16% | <1% |
-| Impotence 7 | 4% | <1% |
-| Anorgasmia (female) 8,9 | 3% | <1% |
+| Abnormal Ejaculation(male)6,7 | 16% | <1% |
+| Impotence7 | 4% | <1% |
+| Anorgasmia (female)8,9 | 3% | <1% |
 
 1 Incidence, rounded to the nearest %, for reactions reported by at least 2% of patients treated with venlafaxine hydrochloride extended-release capsules, except for reactions which had an incidence equal to or less than placebo.
 2 <1% indicates an incidence greater than zero but less than 1%.
@@ -88,7 +88,7 @@ Table 6 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Cont
 8 Mostly “delayed orgasm” or “anorgasmia.”
 9 Incidence is based on the number of female patients.
 
-Table 7 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Controlled Clinical Trials with Venlafaxine Hydrochloride Extended-Release Capsules in Social Anxiety Disorder Patients 1,2
+Table 7 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Controlled Clinical Trials with Venlafaxine Hydrochloride Extended-Release Capsules in Social Anxiety Disorder Patients1,2
 
 |  | % Reporting Reaction |  |
 | --- | --- | --- |
@@ -101,11 +101,11 @@ Table 7 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Cont
 | Abdominal Pain | 4% | 3% |
 | Cardiovascular System |  |  |
 | Hypertension | 5% | 4% |
-| Vasodilatation 3 | 3% | 1% |
+| Vasodilatation3 | 3% | 1% |
 | Palpitation | 3% | 1% |
 | Digestive System |  |  |
 | Nausea | 29% | 9% |
-| Anorexia 4 | 20% | 1% |
+| Anorexia4 | 20% | 1% |
 | Constipation | 8% | 4% |
 | Diarrhea | 6% | 5% |
 | Vomiting | 3% | 2% |
@@ -122,7 +122,7 @@ Table 7 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Cont
 | Anxiety | 5% | 3% |
 | Agitation | 4% | 1% |
 | Tremor | 4% | <1% |
-| Abnormal Dreams 5 | 4% | <1% |
+| Abnormal Dreams5 | 4% | <1% |
 | Paresthesia | 3% | <1% |
 | Twitching | 2% | 0% |
 | Respiratory System |  |  |
@@ -131,11 +131,11 @@ Table 7 Treatment-Emergent Adverse Reaction Incidence in Short-Term Placebo-Cont
 | Skin |  |  |
 | Sweating | 13% | 2% |
 | Special Senses |  |  |
-| Abnormal Vision 6 | 6% | 3% |
+| Abnormal Vision6 | 6% | 3% |
 | Urogenital System |  |  |
-| Abnormal Ejaculation 7,8 | 16% | 1% |
-| Impotence 8 | 10% | 1% |
-| Orgasmic Dysfunction 9,10 | 8% | 0% |
+| Abnormal Ejaculation7,8 | 16% | 1% |
+| Impotence8 | 10% | 1% |
+| Orgasmic Dysfunction9,10 | 8% | 0% |
 
 1 Adverse reactions for which the venlafaxine hydrochloride extended-release capsules reporting rate was less than or equal to the placebo rate are not included.
 2 <1% means greater than zero but less than 1%.
@@ -217,7 +217,7 @@ Skin and appendages - Frequent: pruritus; Infrequent: acne, alopecia, contact de
 
 Special senses - Frequent: abnormality of accommodation, mydriasis, taste perversion; Infrequent: conjunctivitis, diplopia, dry eyes, otitis media, parosmia, photophobia, taste loss; Rare: blepharitis, cataract, chromatopsia, conjunctival edema, corneal lesion, deafness, exophthalmos, eye hemorrhage, angle-closure glaucoma, retinal hemorrhage, subconjunctival hemorrhage, hyperacusis, keratitis, labyrinthitis, miosis, papilledema, decreased pupillary reflex, otitis externa, scleritis, uveitis, visual field defect.
 
-Urogenital system - Frequent: albuminuria, urination impaired; Infrequent: amenorrhea, * cystitis, dysuria, hematuria, kidney calculus, kidney pain, leukorrhea, * menorrhagia, * metrorrhagia, * nocturia, breast pain, polyuria, pyuria, prostatic disorder (prostatitis, enlarged prostate, and prostate irritability),* urinary incontinence, urinary retention, urinary urgency, vaginal hemorrhage, * vaginitis *; Rare: abortion, * anuria, breast discharge, breast engorgement, balanitis,* breast enlargement, endometriosis,* female lactation,* fibrocystic breast, calcium crystalluria, cervicitis,* orchitis,* ovarian cyst,* bladder pain, prolonged erection,* gynecomastia (male),* hypomenorrhea,* mastitis, menopause,* pyelonephritis, oliguria, salpingitis,* urolithiasis, uterine hemorrhage,* uterine spasm,* vaginal dryness.*
+Urogenital system - Frequent: albuminuria, urination impaired; Infrequent: amenorrhea,* cystitis, dysuria, hematuria, kidney calculus, kidney pain, leukorrhea,* menorrhagia,* metrorrhagia,* nocturia, breast pain, polyuria, pyuria, prostatic disorder (prostatitis, enlarged prostate, and prostate irritability),* urinary incontinence, urinary retention, urinary urgency, vaginal hemorrhage,* vaginitis*; Rare: abortion,* anuria, breast discharge, breast engorgement, balanitis,* breast enlargement, endometriosis,* female lactation,* fibrocystic breast, calcium crystalluria, cervicitis,* orchitis,* ovarian cyst,* bladder pain, prolonged erection,* gynecomastia (male),* hypomenorrhea,* mastitis, menopause,* pyelonephritis, oliguria, salpingitis,* urolithiasis, uterine hemorrhage,* uterine spasm,* vaginal dryness.*
 
 * Based on the number of men and women as appropriate.
 
@@ -225,4 +225,4 @@ Urogenital system - Frequent: albuminuria, urination impaired; Infrequent: ameno
 
 Voluntary reports of other adverse reactions temporally associated with the use of venlafaxine have been received since market introduction.
 Because these reactions are reported from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These reports include the following reactions: agranulocytosis, anaphylaxis, aplastic anemia, catatonia, congenital anomalies, impaired coordination and balance, CPK increased, deep vein thrombophlebitis, delirium, Takotsubo cardiomyopathy, EKG abnormalities such as QT prolongation; cardiac arrhythmias including atrial fibrillation, supraventricular tachycardia, ventricular extrasystoles, and rare reports of ventricular fibrillation and ventricular tachycardia, including torsade de pointes; toxic epidermal necrolysis/Stevens-Johnson Syndrome, erythema multiforme, extrapyramidal symptoms (including dyskinesia and tardive dyskinesia), angle-closure glaucoma, hemorrhage (including eye and gastrointestinal bleeding), hepatic reactions (including GGT elevation; abnormalities of unspecified liver function tests; liver damage, necrosis, or failure; and fatty liver), interstitial lung disease, involuntary movements, LDH increased, neuroleptic malignant syndrome-like reactions (including a case of a 10-year-old who may have been taking methylphenidate, was treated and recovered), neutropenia, night sweats, pancreatitis, pancytopenia, panic, prolactin increased, renal failure, rhabdomyolysis, serotonin syndrome, shock-like electrical sensations or tinnitus (in some cases, subsequent to the discontinuation of venlafaxine or tapering of dose), and syndrome of inappropriate antidiuretic hormone secretion (usually in the elderly).
+These reports include the following reactions: agranulocytosis, anaphylaxis, anosmia, aplastic anemia, catatonia, congenital anomalies, impaired coordination and balance, CPK increased, deep vein thrombophlebitis, delirium, Takotsubo cardiomyopathy, EKG abnormalities such as QT prolongation; cardiac arrhythmias including atrial fibrillation, supraventricular tachycardia, ventricular extrasystoles, and rare reports of ventricular fibrillation and ventricular tachycardia, including torsade de pointes; toxic epidermal necrolysis/Stevens-Johnson Syndrome, erythema multiforme, extrapyramidal symptoms (including dyskinesia and tardive dyskinesia), angle-closure glaucoma, hemorrhage (including eye and gastrointestinal bleeding), hyposmia, hepatic reactions (including GGT elevation; abnormalities of unspecified liver function tests; liver damage, necrosis, or failure; and fatty liver), interstitial lung disease, involuntary movements, LDH increased, neuroleptic malignant syndrome-like reactions (including a case of a 10-year-old who may have been taking methylphenidate, was treated and recovered), neutropenia, night sweats, pancreatitis, pancytopenia, panic, prolactin increased, renal failure, rhabdomyolysis, serotonin syndrome, shock-like electrical sensations or tinnitus (in some cases, subsequent to the discontinuation of venlafaxine or tapering of dose), and syndrome of inappropriate antidiuretic hormone secretion (usually in the elderly).

@@ -16,11 +16,11 @@ The pooled analyses of placebo-controlled trials in adults with MDD or other psy
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 1.
 
 Table 1
 
-| AgeRange | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
+| AgeRange | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
@@ -46,6 +46,7 @@ If the decision has been made to discontinue treatment, medication should be tap
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
+
 Prescriptions for Venlafaxine Extended Release Tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
 A major depressive episode may be the initial presentation of bipolar disorder.
@@ -56,22 +57,21 @@ It should be noted that Venlafaxine Extended Release Tablets are not approved fo
 
 ## 5.2 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including Venlafaxine Extended Release Tablets, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, busipirone, amphetamines, and St. John's Wort), and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Serotonin-norepinephrin reuptake inhibitors (SNRIs), including Venlafaxine Extended Release Tablets, can precipitate serotonin syndrome, a potentially life-threatening condition.
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, meperidine, methadone, busipirone, amphetamines, and St. John's Wort), and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)].
+Serotonin syndrome can also occur when these drugs are used alone.
 
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Patients should be monitored for the emergence of serotonin syndrome.
+Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
-The concomitant use of Venlafaxine Extended Release Tablets with MAOIs intended to treat psychiatric disorders is contraindicated.
-Venlafaxine Extended Release Tablets should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
-All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
-No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+The concomitant use of Venlafaxine Extended Release Tablets with MAOIs is contraindicated.
+In addition, do not initiate Venlafaxine Extended Release Tablets in a patient being treated with MAOIs such as linezolid or intravenous methylene blue.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection).
 
-There may be circumstances when it is necessary to initiate treatment with a MAOI such as linezolid or intravenous methylene blue in a patient taking Venlafaxine Extended Release Tablets.
-Venlafaxine Extended Release Tablets should be discontinued before initiating treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration (2.6 and 2.7)].
+If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking Venlafaxine Extended Release Tablets, discontinue Venlafaxine Extended Release Tablets before initiating treatment with the MAOI [see Contraindications (4) Drug Interactions (7.9)].
 
-If concomitant use of Venlafaxine Extended Release Tablets with other serotonergic drugsincluding triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John's Wort is clinically warranted, patients should be aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
-
-Treatment with Venlafaxine Extended Release Tablets and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Montior all patients taking Venlafaxine Extended Release Tablets for the emergence of serotonin syndrome.
+Discontinue treatment with Venlafaxine Extended Release Tablets and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
+If concomitant use of Venlafaxine Extended Release Tablets with other serotonergic drugs is clinically warranted, inform patients of the increased risk for serotonin syndrome and monitor for symptoms.
 
 ## 5.3 Sustained Hypertension
 
@@ -115,7 +115,7 @@ Across most indications, a dose-related increase in supine systolic and diastoli
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Venlafaxine Hydrochloride Extended-Release Capsules mg/day |  |  |  | Placebo |  |
 | ≤75 |  | >75 |  |  |  |  |
-| SSBP 1 | SDBP 2 | SSBP | SDBP | SSBP | SDBP |  |
+| SSBP1 | SDBP2 | SSBP | SDBP | SSBP | SDBP |  |
 | Major Depressive Disorder8-12 weeks | -0.28 | 0.37 | 2.93 | 3.56 | -1.08 | -0.10 |
 | Other Clinical Trials12 weeks | -0.29 | -1.26 | 1.18 | 1.34 | -1.96 | -1.22 |
 
@@ -126,11 +126,7 @@ Similarly, 1% of patients in the venlafaxine hydrochloride extended-release caps
 
 ## 5.4 Angle Closure Glaucoma
 
-Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many
-
-antidepressant drugs including Venlafaxine may trigger an angle closure attack in a patient with
-
-anatomically narrow angles who does not have a patent iridectomy.
+Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including Venlafaxine may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.5 Discontinuation of Treatment with Venlafaxine Extended Release Tablets
 
@@ -144,7 +140,7 @@ While these reactions are generally self-limiting, there have been reports of se
 Patients should be monitored for these symptoms when discontinuing treatment with Venlafaxine Extended Release Tablets.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
-Subsequently, the physician may continue decreasing the dose but at a more gradual rate [see Dosage and Administration (2.4)].
+Subsequently, the physician may continue decreasing the dose, but at a more gradual rate [see Dosage and Administration (2.4)].
 
 ## 5.6 Insomnia and Nervousness
 
@@ -218,11 +214,11 @@ As with all drugs effective in the treatment of major depressive disorder, Venla
 ## 5.11 Hyponatremia
 
 Hyponatremia may occur as a result of treatment with SSRI’s and SNRI’s, including Venlafaxine Extended Release Tablets.
-In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+In many cases, this hyponatremia appears to be the result of the Syndrome of Inappropriate Antidiuretic Hormone (SIADH) secretion.
 Cases with serum sodium lower than 110 mmol/L have been reported.
 Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
-Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk [see Use in Specific Populations (8.5)].
-Discontinuation of Venlafaxine Extended Release Tablets should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
+Also, patients taking diuretics or who are otherwise volume-depleted may be at greater risk [see Use in Specific Populations (8.5)].
+Discontinuation of Venlafaxine Extended Release Tablets should be considered in patients with symptomatic hyponatremia, and appropriate medical intervention should be instituted.
 
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 Signs and symptoms associated with more severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
@@ -233,14 +229,15 @@ During premarketing experience, no seizures occurred among 705 patients treated 
 In all premarketing major depressive disorder trials with venlafaxine hydrochloride immediate-release tablets, seizures were reported at various doses in 0.3% (8/3082) of venlafaxine-treated patients.
 Venlafaxine Extended Release Tablets, like many antidepressants, should be used cautiously in patients with a history of seizures and should be discontinued in any patient who develops seizures.
 
-## 5.13 Abnormal Bleeding
+## 5.13 Increased Risk of Bleeding
 
 SSRIs and SNRIs, including Venlafaxine Extended Release Tablets, may increase the risk of bleeding events.
-Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to this risk.
+Concomitant use of aspirin, Nonsteroidal Anti-Inflammatory Drugs (NSAIDs), warfarin, and other anticoagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Based on data from the published observational studies, exporsure to SNRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Use in Specific Populations (8.1)].
 Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
-Patients should be cautioned about the risk of bleeding associated with the concomitant use of Venlafaxine Extended Release Tablets and NSAIDs, aspirin, or other drugs that affect coagulation.
+Patients should be cautioned about the increased risk of bleeding associated with the concomitant use of Venlafaxine Extended Release Tablets and NSAIDs, aspirin, or other drugs that affect coagulation.
 
 ## 5.14 Serum Cholesterol Elevation
 
