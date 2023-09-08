@@ -25,7 +25,7 @@ For Questions or Assistance, Call Mylan at 1-877-446-3679 (1-877-4-INFO-RX)
 | A loud “click” will occur when the Orange Activator is pressed down to deliver your dose of HULIO. •You must practice injecting with your healthcare provider or nurse so that you are not surprised by this “click” sound when you give yourself injections.•This 1st “click” sound means the start of the injection.•You will know that the injection has finished when all three of these have occurred: •A 2nd “click” was heard, and•Orange Indicator has stopped and completely blocked the Viewing Window, and•10 seconds has passed. |  |
 | Parts of the HULIO PEN |  |
 | Storing and Handling the HULIO PEN |  |
-| •Store Pen in a refrigerator between 36°F to 46°F (2°C to 8°C) in its original carton.•Refrigerated HULIO may be used until the expiration date.•Do not freeze the Pen.•Do not expose the Pen to extreme heat or cold, such as a hot car, or a freezing car overnight. If needed, for example when traveling, HULIO may be stored at room temperature up to 77°F (25°C) for a period of up to 14 days, with protection from light. Discard (throw away) HULIO if not used within the 14 day period. Record the date on the carton and dose tray when HULIO is first removed from the refrigerator. •Protect from light.•Take care not to drop or crush.•Do not use if the Pen is damaged or broken.•Keep HULIO, injection supplies, and all other medicines out of the reach of children. |  |
+| •Store Pen in a refrigerator between 36°F to 46°F (2°C to 8°C) in its original carton.•Refrigerated HULIO may be used until the expiration date.•Do not freeze the Pen.•Do not expose the Pen to extreme heat or cold, such as a hot car, or a freezing car overnight. If needed, for example when traveling, HULIO may be stored at room temperature up to 77°F (25°C) for a period of up to 14 days, with protection from light. Discard (throw away) HULIO if not used within the 14-day period. Record the date on the carton and dose tray when HULIO is first removed from the refrigerator. •Protect from light.•Take care not to drop or crush.•Do not use if the Pen is damaged or broken.•Keep HULIO, injection supplies, and all other medicines out of the reach of children. |  |
 | Gather Supplies for Injection |  |
 | Find a quiet area with a well-lit, clean and ﬂat work surface and gather all the supplies you will need to give yourself or receive an injection.Supplies you will need:Included in HULIO carton •1 Pen (taken from refrigerator 30 minutes prior to intended injection time to allow Pen to reach room temperature.)•1 alcohol prep Not included in HULIO carton •1 FDA-cleared sharps disposal container or puncture resistant container. (See “How should I throw away (dispose of) the used HULIO PEN and Cap?” Section in Step 7 at the end of this Instructions for Use).•1 gauze pad or cotton ball If you do not have all the supplies you need to give yourself an injection, visit or call your local pharmacist. |  |
 | Preparing the Pen |  |
@@ -76,7 +76,7 @@ HULIO is a registered trademark of Fujifilm Kyowa Kirin Biologics Co., Ltd., lic
 
 The Hulio Logo is a trademark of BGP Products Operations GmbH, a Viatris Company.
 
-© 2023 Viatris Inc.
+© 2022 Viatris Inc.
 
 Manufactured by:
 
@@ -96,9 +96,9 @@ Product of Japan
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 6/2023 PCI:ADAL:IFUP:R2
+Revised: 11/2022 PCI:ADAL:IFUP:RX6
 
-725671
+697892
 
 # INSTRUCTIONS FOR USE
 
@@ -173,7 +173,7 @@ HULIO is a registered trademark of Fujifilm Kyowa Kirin Biologics Co., Ltd., lic
 
 The Hulio Logo is a trademark of BGP Products Operations GmbH, a Viatris Company.
 
-© 2023 Viatris Inc.
+© 2022 Viatris Inc.
 
 Manufactured by:
 
@@ -193,6 +193,6 @@ Product of Japan
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 6/2023 PCI:ADAL:IFUS:R2
+Revised: 11/2022 PCI:ADAL:IFUS:RX5
 
-725669
+697925

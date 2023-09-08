@@ -64,6 +64,10 @@ Adalimumab mean steady-state trough concentration was approximately 5 to 6 mcg/m
 Adalimumab trough concentrations were approximately 7 to 8 mcg/mL at Week 2 and Week 4, respectively, after receiving 160 mg on Week 0 followed by 80 mg on Week 2.
 Mean steady-state trough concentrations at Week 12 through Week 36 were approximately 7 to 11 mcg/mL during adalimumab 40 mg every week treatment.
 
+#### Adult Uveitis
+
+Adalimumab mean steady concentration was approximately 8 to 10 mcg/mL during adalimumab 40 mg every other week treatment.
+
 #### Adult Crohn’s Disease
 
 Adalimumab mean trough concentrations were approximately 12 mcg/mL at Week 2 and Week 4 after receiving 160 mg on Week 0 followed by 80 mg on Week 2.

@@ -12,7 +12,7 @@ HULIO Prefilled Syringe Carton - 20 mg/0.4 mL
 HULIO Prefilled Syringe Carton - 40 mg/0.8 mL
 
 1. HULIO is supplied in a carton containing two alcohol preps and two dose trays.
-   Each dose tray consists of a single-dose, 1 mL pre-filled plastic syringe with a fixed 29 gauge thin wall, ½ inch needle, providing 40 mg/0.8 mL of HULIO.
+   Each dose tray consists of a single-dose, 1 mL prefilled plastic syringe with a fixed 29 gauge thin wall, ½ inch needle, providing 40 mg/0.8 mL of HULIO.
    The NDC number is 49502-382-02.
 
 HULIO Prefilled Pen Carton - 40 mg/0.8 mL

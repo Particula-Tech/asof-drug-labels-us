@@ -50,14 +50,14 @@ Discontinue HULIO in adult patients without evidence of clinical remission by ei
 Aminosalicylates and/or corticosteroids may be continued during treatment with HULIO.
 Azathioprine and 6-mercaptopurine (6-MP) [see Warnings and Precautions (5.2)] may be continued during treatment with HULIO if necessary.
 
-## 2.5 Plaque Psoriasis
+## 2.5 Plaque Psoriasis or Adult Uveitis
 
-The recommended subcutaneous dosage of HULIO for adult patients with plaque psoriasis (Ps) is an initial dose of 80 mg, followed by 40 mg given every other week starting one week after the initial dose.
+The recommended subcutaneous dosage of HULIO for adult patients with plaque psoriasis (Ps) or Uveitis (UV) is an initial dose of 80 mg, followed by 40 mg given every other week starting one week after the initial dose.
 The use of adalimumab products in moderate to severe chronic Ps beyond one year has not been evaluated in controlled clinical studies.
 
 ## 2.6 Hidradenitis Suppurativa
 
-### Adults
+Adults
 
 The recommended subcutaneous dosage of HULIO for adult patients with hidradenitis suppurativa (HS) is an initial dose of 160 mg (given in one day or split over two consecutive days), followed by 80 mg two weeks later (Day 15).
 Begin 40 mg weekly or 80 mg every other week dosing two weeks later (Day 29).

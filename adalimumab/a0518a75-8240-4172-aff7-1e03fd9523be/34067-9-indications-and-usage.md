@@ -39,3 +39,7 @@ HULIO should only be administered to patients who will be closely monitored and 
 ## 1.8 Hidradenitis Suppurativa
 
 HULIO is indicated for the treatment of moderate to severe hidradenitis suppurativa in adult patients.
+
+## 1.9 Uveitis
+
+HULIO is indicated for the treatment of non-infectious intermediate, posterior, and panuveitis in adult patients.

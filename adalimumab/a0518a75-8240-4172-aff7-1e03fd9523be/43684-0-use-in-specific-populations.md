@@ -66,7 +66,7 @@ The safety and effectiveness of HULIO have been established for:
 - •reducing signs and symptoms of moderately to severely active polyarticular JIA in pediatric patients 2 years of age and older.
 - •the treatment of moderately to severely active Crohn’s disease in pediatric patients 6 years of age and older.
 
-Pediatric assessments for HULIO demonstrate that HULIO is safe and effective for additional indications in pediatric patients for which Humira (adalimumab) is approved.
+Pediatric assessments for HULIO demonstrate that HULIO is safe and effective for pediatric patients in indications for which Humira (adalimumab) is approved.
 However, HULIO is not approved for such indications due to marketing exclusivity for Humira (adalimumab).
 
 Due to their inhibition of TNFα, adalimumab products administered during pregnancy could affect immune response in the in utero-exposed newborn and infant.
