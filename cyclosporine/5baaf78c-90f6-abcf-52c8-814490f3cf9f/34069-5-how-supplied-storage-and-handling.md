@@ -4,19 +4,19 @@ Cyclosporine capsules, USP (modified) (Soft Gelatin Capsules)
 
 25 mg
 
-An oval, opaque grey coloured softgel capsule filled with liquid, printed with "C25" in red ink across one side.
+An oval, opaque grey colored softgel capsule filled with liquid, printed with "C25" in black ink across one side.
 
 Packages of 30 unit-dose blisters (NDC 60505-4630-3).
 
 50 mg
 
-An oblong, opaque off-white coloured soft gel capsule filled with liquid, printed with "C50" in red ink across one side.
+An oblong, opaque off-white colored soft gel capsule filled with liquid, printed with "C50" in black ink across one side.
 
 Packages of 30 unit-dose blisters (NDC 60505-4631-3).
 
 100 mg
 
-An oblong opaque grey coloured softgel capsule filled with liquid, printed with "C100" in red ink across one side.
+An oblong opaque grey colored softgel capsule filled with liquid, printed with "C100" in black ink across one side.
 
 Packages of 30 unit-dose blisters (NDC 60505-4632-3).
 
@@ -36,6 +36,6 @@ All registered trademarks in this document are the property of their respective 
 | Windsor, Ontorio | Weston, Florida |
 | Canada N9C 3R5 | USA 33326 |
 
-Revised: July 2018
+Revised: September 2023
 
-Revision: 3
+Revision: 4

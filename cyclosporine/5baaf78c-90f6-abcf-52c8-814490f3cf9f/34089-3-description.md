@@ -27,6 +27,6 @@ benzyl alcohol..................................................................
 
 Inactive Ingredients: Polyethylene glycol 400, polyoxyl 35 castor oil, and propylene glycol monolaurate.
 The capsule shell contains the following inactive ingredients: gelatin, glycerine, iron oxide black (25 mg and 100 mg capsules only) and titanium dioxide.
-The capsule imprinting ink contains ammonium hydroxide, propylene glycol, iron oxide red and shellac.
+The capsule imprinting ink contains hypromellose, iron oxide black and propylene glycol.
 
 The chemical structure of cyclosporine is:
