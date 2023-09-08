@@ -176,6 +176,9 @@ Before starting venlafaxine tablets, tell your healthcare provider if you:
   - antipsychotic drugs
 - Medicines used to treat pain such as:
   - tramadol
+  - meperidine
+  - methadone
+  - or other opioids
 - Medicines used to thin your blood such as:
   - warfarin
 - Medicines used to treat heartburn such as:
@@ -286,5 +289,5 @@ Active ingredient: venlafaxine hydrochloride Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
-Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Dispense with medication guide available at: http://www.risingpharma.com/med-guides.html.
-Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 07/2021
+Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html.
+Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 08/2023

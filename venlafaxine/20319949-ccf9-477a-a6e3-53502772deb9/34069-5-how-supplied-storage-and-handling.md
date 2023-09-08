@@ -23,8 +23,6 @@ Bottles of 90 NDC 57237-176-90 Bottles of 100 NDC 57237-176-01
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature] in a dry place.
 
 Dispense in a well-closed container as defined in the USP.
-Dispense with medication guide available at: http://www.risingpharma.com/med-guides.html.
-
 Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993
 
-Revised: 07/2021
+Revised: 08/2023 Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html.
