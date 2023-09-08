@@ -24,7 +24,7 @@ Clinical Trials Experience in Adults
 
 Overview
 
-The most frequently reported adverse reactions (see Table 4) in the adult therapeutic trials were visual disturbances (18.7%), fever (5.7%), nausea (5.4%), rash (5.3%), vomiting (4.4%), chills (3.7%), headache (3.0%), liver function test increased (2.7%), tachycardia (2.4%), hallucinations (2.4%).
+The most frequently reported adverse reactions (see Table 3) in the adult therapeutic trials were visual disturbances (18.7%), fever (5.7%), nausea (5.4%), rash (5.3%), vomiting (4.4%), chills (3.7%), headache (3.0%), liver function test increased (2.7%), tachycardia (2.4%), hallucinations (2.4%).
 The adverse reactions which most often led to discontinuation of voriconazole therapy were elevated liver function tests, rash, and visual disturbances [see Warning and Precautions (5.1, 5.4), and Adverse Reactions (6.1)].
 
 The data described in Table 3 reflect exposure to voriconazole in 1655 patients in the nine therapeutic studies.

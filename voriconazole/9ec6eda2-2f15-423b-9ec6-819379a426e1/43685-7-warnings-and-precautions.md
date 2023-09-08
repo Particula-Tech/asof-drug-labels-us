@@ -115,5 +115,5 @@ If a patient develops skeletal pain and radiologic findings compatible with fluo
 
 ## 5.13 Clinically Significant Drug Interactions
 
-See Table 10 for a listing of drugs that may significantly alter voriconazole concentrations.
-Also, see Table 11 for a listing of drugs that may interact with voriconazole resulting in altered pharmacokinetics or pharmacodynamics of the other drug [see Contraindications (4) and Drug Interactions (7)].
+See Table 6 for a listing of drugs that may significantly alter voriconazole concentrations.
+Also, see Table 7 for a listing of drugs that may interact with voriconazole resulting in altered pharmacokinetics or pharmacodynamics of the other drug [see Contraindications (4) and Drug Interactions (7)].
