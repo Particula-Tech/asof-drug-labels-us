@@ -101,4 +101,4 @@ When diluted in 5% Dextrose Injection, USP or 5% Dextrose plus Albumin (Human)â€
 Do not dilute with saline at any time because the product may precipitate.
 
 Diluted NIVESTYM solution can be stored at room temperature for up to 24 hours.
-This 24 hour time period includes the time during room temperature storage of the infusion solution and the duration of the infusion.
+This 24-hour time period includes the time during room temperature storage of the infusion solution and the duration of the infusion.

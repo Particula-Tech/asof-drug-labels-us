@@ -18,7 +18,7 @@ The majority of reported events occurred upon initial exposure.
 Provide symptomatic treatment for allergic reactions.
 Allergic reactions, including anaphylaxis, in patients receiving filgrastim products can recur within days after the discontinuation of initial anti-allergic treatment.
 Permanently discontinue NIVESTYM in patients with serious allergic reactions.
-NIVESTYM is contraindicated in patients with a history of serious allergic reactions to human granulocyte colony-stimulating factors such as filgrastim or pegfilgrastim.
+NIVESTYM is contraindicated in patients with a history of serious allergic reactions to human granulocyte colony-stimulating factors such as filgrastim products or pegfilgrastim products.
 
 ## 5.4 Sickle Cell Disorders
 
@@ -35,7 +35,7 @@ If causality is likely, consider dose-reduction or interruption of NIVESTYM.
 
 ## 5.6 Alveolar Hemorrhage and Hemoptysis
 
-Alveolar hemorrhage manifesting as pulmonary infiltrates and hemoptysis requiring hospitalization have been reported in healthy donors treated with filgrastim products for peripheral blood progenitor cell (PBPC) \ mobilization.
+Alveolar hemorrhage manifesting as pulmonary infiltrates and hemoptysis requiring hospitalization have been reported in healthy donors treated with filgrastim products undergoing peripheral blood progenitor cell (PBPC) collection mobilization.
 Hemoptysis resolved with discontinuation of filgrastim products.
 The use of NIVESTYM for PBPC mobilization in healthy donors is not an approved indication.
 

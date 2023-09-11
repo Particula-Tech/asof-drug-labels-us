@@ -12,7 +12,7 @@ The demographic and disease characteristics were balanced between arms with a me
 
 The main efficacy endpoint was the incidence of febrile neutropenia.
 Febrile neutropenia was defined as an ANC < 1000/mm3 and temperature > 38.2°C.
-Treatment with filgrastim resulted in a clinically and statistically significant reduction in the incidence of infection‚ as manifested by febrile neutropenia, 40% for filgrastim -treated patients and 76% for placebo-treated patients (p < 0.001).
+Treatment with filgrastim resulted in a clinically and statistically significant reduction in the incidence of infection‚ as manifested by febrile neutropenia, 40% for filgrastim-treated patients and 76% for placebo-treated patients (p < 0.001).
 There were also statistically significant reductions in the incidence and overall duration of infection manifested by febrile neutropenia; the incidence, severity and duration of severe neutropenia (ANC < 500/mm3); the incidence and overall duration of hospital admissions; and the number of reported days of antibiotic use.
 
 ## 14.2 Patients with Acute Myeloid Leukemia Receiving Induction or Consolidation Chemotherapy
@@ -24,31 +24,31 @@ Patients were randomized to receive subcutaneous filgrastim (n = 259) at a dose 
 The demographic and disease characteristics were balanced between arms with a median age of 54 (range 16 to 89) years; 54% males; initial white blood cell count (65% < 25,000/mm3 and 27% > 100,000/mm3); 29% unfavorable cytogenetics.
 
 The main efficacy endpoint was median duration of severe neutropenia defined as neutrophil count < 500/mm3.
-Treatment with filgrastim resulted in a clinically and statistically significant reduction in median number of days of severe neutropenia, filgrastim -treated patients 14 days, placebo-treated patients 19 days (p = 0.0001: difference of 5 days (95% CI: -6.0, -4.0)).
+Treatment with filgrastim resulted in a clinically and statistically significant reduction in median number of days of severe neutropenia, filgrastim-treated patients 14 days, placebo-treated patients 19 days (p = 0.0001: difference of 5 days (95% CI: -6.0, -4.0)).
 
-There was a reduction in the median duration of intravenous antibiotic use, filgrastim -treated patients: 15 days versus placebo-treated patients: 18.5 days; a reduction in the median duration of hospitalization, filgrastim-treated patients: 20 days versus placebo-treated patients: 25 days.
+There was a reduction in the median duration of intravenous antibiotic use, filgrastim-treated patients: 15 days versus placebo-treated patients: 18.5 days; a reduction in the median duration of hospitalization, filgrastim-treated patients: 20 days versus placebo-treated patients: 25 days.
 
 There were no statistically significant differences between the filgrastim and the placebo groups in complete remission rate (69% - filgrastim, 68% - placebo), median time to progression of all randomized patients (165 days - filgrastim, 186 days - placebo), or median overall survival (380 days - filgrastim, 425 days - placebo).
 
 ## 14.3 Patients with Cancer Undergoing Bone Marrow Transplantation
 
 The safety and efficacy of filgrastim to reduce the duration of neutropenia in patients with nonmyeloid malignancies undergoing myeloablative chemotherapy followed by autologous bone marrow transplantation was evaluated in 2 randomized controlled trials of patients with lymphoma (Study 6 and Study 9).
-The safety and efficacy of filgrastim to reduce the duration of neutropenia in patients undergoing myeloablative chemotherapy followed by allogeneic bone marrow transplantation was evaluated in a randomized placebo controlled trial (Study 10).
+The safety and efficacy of filgrastim to reduce the duration of neutropenia in patients undergoing myeloablative chemotherapy followed by allogeneic bone marrow transplantation was evaluated in a randomized placebo-controlled trial (Study 10).
 
 In Study 6 patients with Hodgkin's disease received a preparative regimen of intravenous cyclophosphamide, etoposide, and BCNU ("CVP"), and patients with non-Hodgkin's lymphoma received intravenous BCNU, etoposide, cytosine arabinoside and melphalan ("BEAM").
-There were 54 patients randomized 1:1:1 to control, filgrastim 10 mcg/kg/day, and filgrastim 30 mcg/kg/day as a 24 hour continuous infusion starting 24 hours after bone marrow infusion for a maximum of 28 days.
+There were 54 patients randomized 1:1:1 to control, filgrastim 10 mcg/kg/day, and filgrastim 30 mcg/kg/day as a 24-hour continuous infusion starting 24 hours after bone marrow infusion for a maximum of 28 days.
 The median age was 33 (range 17 to 57) years; 56% males; 69% Hodgkin's disease and 31% non-Hodgkin's lymphoma.
 
 The main efficacy endpoint was duration of severe neutropenia ANC < 500/mm3.
-A statistically significant reduction in the median number of days of severe neutropenia (ANC < 500/mm3) occurred in the filgrastim -treated groups versus the control group (23 days in the control group‚ 11 days in the 10 mcg/kg/day group, and 14 days in the 30 mcg/kg/day group [11 days in the combined treatment groups‚ p = 0.004]).
+A statistically significant reduction in the median number of days of severe neutropenia (ANC < 500/mm3) occurred in the filgrastim-treated groups versus the control group (23 days in the control group‚ 11 days in the 10 mcg/kg/day group, and 14 days in the 30 mcg/kg/day group [11 days in the combined treatment groups‚ p = 0.004]).
 
 In Study 9, patients with Hodgkin's disease and non-Hodgkin's lymphoma received a preparative regimen of intravenous cyclophosphamide, etoposide, and BCNU ("CVP").
 There were 43 evaluable patients randomized to continuous subcutaneous infusion filgrastim 10 mcg/kg/day (n = 19), filgrastim 30 mcg/kg/day (n = 10) and no treatment (n = 14) starting the day after marrow infusion for a maximum of 28 days.
 The median age was 33 (range 17 to 56) years; 67% males; 28% Hodgkin's disease and 72% non-Hodgkin's lymphoma.
 
 The main efficacy endpoint was duration of severe neutropenia.
-There was statistically significant reduction in the median number of days of severe neutropenia (ANC < 500/mm3) in the filgrastim-treated groups versus the control group (21.5 days in the control group versus 10 days in the filgrastim -treated groups, p < 0.001).
-The number of days of febrile neutropenia was also reduced significantly in this study (13.5 days in the control group versus 5 days in the filgrastim--treated groups‚ p < 0.0001).
+There was statistically significant reduction in the median number of days of severe neutropenia (ANC < 500/mm3) in the filgrastim-treated groups versus the control group (21.5 days in the control group versus 10 days in the filgrastim-treated groups, p < 0.001).
+The number of days of febrile neutropenia was also reduced significantly in this study (13.5 days in the control group versus 5 days in the filgrastim-treated groups‚ p < 0.0001).
 
 In Study 10, 70 patients scheduled to undergo bone marrow transplantation for multiple underlying conditions using multiple preparative regimens were randomized to receive filgrastim 300 mcg/m2/day (n = 33) or placebo (n = 37) days 5 through 28 after marrow infusion.
 The median age was 18 (range 1 to 45) years, 56% males.
@@ -77,9 +77,9 @@ Patients randomized to filgrastim-mobilized autologous peripheral blood progenit
 
 The safety and efficacy of filgrastim to reduce the incidence and duration of sequelae of neutropenia (that is fever‚ infections, oropharyngeal ulcers) in symptomatic adult and pediatric patients with congenital neutropenia‚ cyclic neutropenia‚ or idiopathic neutropenia was established in a randomized controlled trial conducted in patients with severe neutropenia (Study 7).
 
-Patients eligible for Study 7 had a history of severe chronic neutropenia documented with an ANC < 500/mm3 on three occasions during a 6 month period, or in patients with cyclic neutropenia 5 consecutive days of ANC < 500/mm3 per cycle.
+Patients eligible for Study 7 had a history of severe chronic neutropenia documented with an ANC < 500/mm3 on three occasions during a 6-month period, or in patients with cyclic neutropenia 5 consecutive days of ANC < 500/mm3 per cycle.
 In addition, patients must have experienced a clinically significant infection during the previous 12 months.
-Patients were randomized to a 4 month observation period followed by filgrastim treatment or immediate filgrastim treatment.
+Patients were randomized to a 4-month observation period followed by filgrastim treatment or immediate filgrastim treatment.
 The median age was 12 years (range 7 months to 76 years); 46% males; 34% idiopathic, 17% cyclic and 49% congenital neutropenia.
 
 Filgrastim was administered subcutaneously.

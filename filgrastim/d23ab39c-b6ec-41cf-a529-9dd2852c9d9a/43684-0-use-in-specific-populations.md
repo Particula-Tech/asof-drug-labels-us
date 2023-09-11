@@ -37,8 +37,8 @@ Offspring of rats administered filgrastim during the peri-natal and lactation pe
 
 Risk Summary
 
-There is published literature documenting transfer of filgrastim products into human milk.
-There are a few case reports describing the use of filgrastim products in breastfeeding mothers with no adverse effects noted in the infants.
+There is published literature documenting transfer of filgrastim into human milk.
+There are a few case reports describing the use of filgrastim in breastfeeding mothers with no adverse effects noted in the infants.
 There are no data on the effects of filgrastim products on milk production.
 Other filgrastim products are secreted poorly into breast milk, and filgrastim products are not absorbed orally by neonates.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for NIVESTYM and any potential adverse effects on the breastfed child from NIVESTYM or from the underlying maternal condition.
@@ -64,7 +64,7 @@ Long-term follow-up data from the postmarketing surveillance study suggest that 
 Limited data from patients who were followed in the phase 3 study for 1.5 years did not suggest alterations in sexual maturation or endocrine function.
 
 Pediatric patients with congenital types of neutropenia (Kostmann's syndrome, congenital agranulocytosis, or Schwachman-Diamond syndrome) have developed cytogenetic abnormalities and have undergone transformation to MDS and AML while receiving chronic filgrastim treatment.
-The relationship of these events to filgrastim administration is unknown [see Warnings and Precautions (5.8) and Adverse Reactions (6)].
+The relationship of these events to filgrastim product administration is unknown [see Warnings and Precautions (5.8) and Adverse Reactions (6)].
 
 ## 8.5 Geriatric Use
 

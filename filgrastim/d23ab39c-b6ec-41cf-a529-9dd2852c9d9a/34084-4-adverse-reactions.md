@@ -78,7 +78,7 @@ Adverse Reactions in Patients with Cancer Undergoing Bone Marrow Transplantation
 
 The following adverse reaction data are from one randomized, no treatment-controlled study in patients with acute lymphoblastic leukemia or lymphoblastic lymphoma receiving high-dose chemotherapy (cyclophosphamide or cytarabine, and melphalan) and total body irradiation (Study 5) and one randomized, no treatment-controlled study in patients with Hodgkin's disease (HD) and NHL undergoing high-dose chemotherapy and autologous bone marrow transplantation (Study 6).
 Patients receiving autologous bone marrow transplantation only were included in the analysis.
-A total of 100 patients received either 30 mcg/kg/day as a 4 hour infusion (Study 5) or 10 mcg/kg/day or 30 mcg/kg/day as a 24 hour infusion (Study 6) filgrastim (n = 72), no treatment control or placebo (n = 28).
+A total of 100 patients received either 30 mcg/kg/day as a 4-hour infusion (Study 5) or 10 mcg/kg/day or 30 mcg/kg/day as a 24-hour infusion (Study 6) filgrastim (n = 72), no treatment control or placebo (n = 28).
 The median age was 30 (range 15 to 57) years, 57% were male.
 
 Adverse reactions with ≥ 5% higher incidence in filgrastim patients compared to patients receiving no filgrastim included rash and hypersensitivity.
@@ -109,7 +109,7 @@ Adverse Reactions in Patients with Cancer Undergoing Autologous PBPC in the Mobi
 Adverse Reactions in Patients with Severe Chronic Neutropenia
 
 The following adverse reaction data were identified in a randomized, controlled study in patients with SCN receiving filgrastim (Study 7).
-123 patients were randomized to a 4 month observation period followed by subcutaneous filgrastim treatment or immediate subcutaneous filgrastim treatment.
+123 patients were randomized to a 4-month observation period followed by subcutaneous filgrastim treatment or immediate subcutaneous filgrastim treatment.
 The median age was 12 years (range 7 months to 76 years) and 46% were male.
 The dosage of filgrastim was determined by the category of neutropenia.
 Initial dosage of filgrastim:
@@ -122,21 +122,7 @@ The dosage was increased incrementally to 12 mcg/kg/day divided 2 times per day 
 
 Adverse reactions with ≥ 5% higher incidence in filgrastim patients compared to patients receiving no filgrastim included arthralgia, bone pain, back pain, muscle spasms, musculoskeletal pain, pain in extremity, splenomegaly, anemia, upper respiratory tract infection, and urinary tract infection (upper respiratory tract infection and urinary tract infection were higher in the filgrastim arm, total infection related events were lower in filgrastim-treated patients), epistaxis, chest pain, diarrhea, hypoesthesia, and alopecia.
 
-## 6.2 Immunogenicity
-
-As with all therapeutic proteins, there is a potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to filgrastim in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
-
-The incidence of antibody development in patients receiving filgrastim products has not been adequately determined.
-While available data suggest that a small proportion of patients developed binding antibodies to filgrastim products, the nature and specificity of these antibodies has not been adequately studied.
-In clinical studies using filgrastim, the incidence of antibodies binding to filgrastim was 3% (11/333).
-In these 11 patients, no evidence of a neutralizing response was observed using a cell-based bioassay.
-
-Cytopenias resulting from an antibody response to exogenous growth factors have been reported on rare occasions in patients treated with other recombinant growth factors.
-
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of filgrastim products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -154,3 +140,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - •decreased bone density and osteoporosis in pediatric patients receiving chronic treatment with filgrastim products.
 - •myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) in patients with breast and lung cancer receiving chemotherapy and/or radiotherapy [see Warnings and Precautions (5.8)]
 - •aortitis [see Warnings and Precautions (5.15)]
+- •extramedullary hematopoiesis
