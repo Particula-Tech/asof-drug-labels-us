@@ -43,6 +43,8 @@ Consider the developmental and health benefits of breastfeeding along with the m
 
 Safety and effectiveness in pediatric patients have not been established.
 
+CAROSPIR is not recommended for the treatment of hypertension in pediatric patients because of the potential risks associated with the antiandrogenic, progestogenic, and estrogenic properties of spironolactone in pediatric patients.
+
 ## 8.5 Geriatric Use
 
 CAROSPIR is substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.

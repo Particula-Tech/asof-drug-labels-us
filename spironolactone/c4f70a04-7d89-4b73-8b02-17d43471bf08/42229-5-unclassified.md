@@ -1,5 +1,5 @@
-Manufactured by, Distributed by: CMP Pharma, Inc. 8026 US Highway 264A, Farmville, NC 27828
+Manufactured by, Distributed by: CMP Pharma, Inc. Farmville, NC 27828
 
-Revised: 07/2021
+Revised: 08/2023
 
-3042 R0721
+3042 R0823

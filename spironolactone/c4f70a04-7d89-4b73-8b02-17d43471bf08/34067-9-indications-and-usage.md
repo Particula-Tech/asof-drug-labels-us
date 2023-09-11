@@ -2,7 +2,7 @@
 
 ## 1.1 Heart Failure
 
-CAROSPIR is indicated for treatment of NYHA Class III-IV heart failure and reduced ejection fraction to increase survival, manage edema, and to reduce the need for hospitalization for heart failure.
+CAROSPIR is indicated for treatment of NYHA Class III-IV heart failure and reduced ejection fraction in adult patients to increase survival, manage edema, and to reduce the need for hospitalization for heart failure.
 
 CAROSPIR is usually administered in conjunction with other heart failure therapies.
 
