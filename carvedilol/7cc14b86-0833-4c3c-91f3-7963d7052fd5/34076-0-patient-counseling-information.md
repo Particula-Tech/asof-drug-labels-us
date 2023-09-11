@@ -10,5 +10,6 @@ Patients taking carvedilol should be advised of the following:
   Patients should sit or lie down when these symptoms of lowered blood pressure occur.
 - If experiencing dizziness or fatigue, patients should avoid driving or hazardous tasks.
 - Patients should consult a physician if they experience dizziness or faintness, in case the dosage should be adjusted.
-- Diabetic patients should report any changes in blood sugar levels to their physician.
+- Inform patients or caregivers that there is a risk of hypoglycemia when carvedilol is given to patients who are fasting or who are vomiting.
+  Instruct patients or caregivers how to monitor for syns of hypoglycemia [see Warnings and Precautions (5.6)].
 - Contact lens wearers may experience decreased lacrimation.

@@ -141,4 +141,4 @@ The dose-related blood pressure response was accompanied by a dose-related incre
 In a double-blind trial (GEMINI), carvedilol, added to an ACE inhibitor or angiotensin-receptor blocker, was evaluated in a population with mild-to-moderate hypertension and well-controlled type 2 diabetes mellitus.
 The mean HbA1c at baseline was 7.2%.
 Carvedilol was titrated to a mean dose of 17.5 mg twice daily and maintained for 5 months.
-Carvedilol had no adverse effect on glycemic control, based on HbA1c measurements (mean change from baseline of 0.02%, 95% CI: -0.06 to 0.1, P= NS) [see Warnings and Precautions (5.6)].
+Carvedilol had no adverse effect on glycemic control, based on HbA1c measurements (mean change from baseline of 0.02%, 95% CI: -0.06 to 0.1, P = NS) [see Warnings and Precautions (5.6)].

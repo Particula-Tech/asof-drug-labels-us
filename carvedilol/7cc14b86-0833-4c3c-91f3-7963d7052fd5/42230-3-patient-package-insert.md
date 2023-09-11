@@ -4,7 +4,7 @@ Carvedilol Tablets, USP
 
 (kar' ve dil'' ol)
 
-Read the Patient Information that comes with carvedilol tablets before you start taking them and each time you get a refill.
+Read the Patient Information that comes with carvedilol tablets before you start taking it and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
 If you have any questions about carvedilol tablets, ask your doctor or pharmacist.
@@ -63,7 +63,7 @@ How should I take carvedilol tablets?
 
 It is important for you to take your medicine every day as directed by your doctor.
 If you stop taking carvedilol tablets suddenly, you could have chest pain and/or a heart attack.
-If your doctor decides that you should stop taking carvedilol tablets, your doctor may slowly lower your dose over a period of time before stopping them completely.
+If your doctor decides that you should stop taking carvedilol tablets, your doctor may slowly lower your dose over a period of time before stopping it completely.
 
 - Take carvedilol tablets exactly as prescribed.
   Your doctor will tell you how many tablets to take and how often.
@@ -115,8 +115,7 @@ General Information about carvedilol tablets
 Medicines are sometimes prescribed for conditions other than those described in patient information leaflets.
 Do not use carvedilol tablets for a condition for which it was not prescribed.
 Do not give carvedilol tablets to other people, even if they have the same symptoms you have.
-They may harm them.
-
+It may harm them.
 This leaflet summarizes the most important information about carvedilol tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about carvedilol tablets that is written for healthcare professionals.
@@ -138,4 +137,4 @@ Carvedilol tablets can help your blood vessels relax so your blood pressure is l
 Medicines that lower blood pressure may lower your chance of having a stroke or heart attack.
 
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 12/2021
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 08/2023

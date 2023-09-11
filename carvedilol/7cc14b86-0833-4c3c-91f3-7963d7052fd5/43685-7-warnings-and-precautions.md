@@ -47,14 +47,15 @@ In clinical trials of subjects with heart failure, subjects with bronchospastic 
 In such patients, it is recommended that carvedilol be used with caution.
 The dosing recommendations should be followed closely and the dose should be lowered if any evidence of bronchospasm is observed during up-titration.
 
-## 5.6 Glycemic Control in Type 2 Diabetes
+## 5.6 Effects on Blood Sugar
 
-In general, β-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia.
-Nonselective β-blockers may potentiate insulin-induced hypoglycemia and delay recovery of serum glucose levels.
-Patients subject to spontaneous hypoglycemia or diabetic patients receiving insulin or oral hypoglycemic agents should be cautioned about these possibilities.
+Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting).
+If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment.
+
 In patients with heart failure and diabetes, carvedilol therapy may lead to worsening hyperglycemia, which responds to intensification of hypoglycemic therapy.
 It is recommended that blood glucose be monitored when carvedilol dosing is initiated, adjusted, or discontinued.
 Trials designed to examine the effects of carvedilol on glycemic control in patients with diabetes and heart failure have not been conducted.
+
 In a trial designed to examine the effects of carvedilol on glycemic control in a population with mild-to-moderate hypertension and well-controlled type 2 diabetes mellitus, carvedilol had no adverse effect on glycemic control, based on HbA1c measurements [see Clinical Studies (14.4)].
 
 ## 5.7 Peripheral Vascular Disease
@@ -67,7 +68,7 @@ Caution should be exercised in such individuals.
 Rarely, use of carvedilol in patients with heart failure has resulted in deterioration of renal function.
 Patients at risk appear to be those with low blood pressure (systolic blood pressure less than 100 mm Hg), ischemic heart disease and diffuse vascular disease, and/or underlying renal insufficiency.
 Renal function has returned to baseline when carvedilol was stopped.
-In patients with these risk factors it is recommended that renal function be monitored during up-titration of carvedilol and the drug discontinued or dosage reduced if worsening of renal function occurs.
+In patients with these risk factors, it is recommended that renal function be monitored during up-titration of carvedilol and the drug discontinued or dosage reduced if worsening of renal function occurs.
 
 ## 5.9 Major Surgery
 

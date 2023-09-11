@@ -23,9 +23,7 @@ Pregnant women with hypertension should be carefully monitored and managed accor
 
 Fetal/Neonatal Adverse Reactions: Neonates of women with hypertension who are treated with beta-blockers during the third trimester of pregnancy may be at increased risk for hypotension, bradycardia, hypoglycemia, and respiratory depression.
 Observe newborns for symptoms of hypotension, bradycardia, hypoglycemia, and respiratory depression and manage accordingly.
-Data
-
-Animal Data: Studies performed in rats and rabbits given carvedilol during fetal organogenesis revealed increased post-implantation loss in rats at a maternally toxic dose of 300 mg per kg per day (50 times the MRHD as mg per m2 and in rabbits (in the absence of maternal toxicity) at doses of 75 mg per kg per day (25 times the MRHD as mg per m2).
+Data Animal Data: Studies performed in rats and rabbits given carvedilol during fetal organogenesis revealed increased post-implantation loss in rats at a maternally toxic dose of 300 mg per kg per day (50 times the MRHD as mg per m2) and in rabbits (in the absence of maternal toxicity) at doses of 75 mg per kg per day (25 times the MRHD as mg per m2).
 In the rats, there was also a decrease in fetal body weight at 300 mg per kg per day (50 times the MRHD as mg per m2) accompanied by an increased incidence of fetuses with delayed skeletal development.
 In rats, the no-effect level for embryo-fetal toxicity was 60 mg per kg per day (10 times the MRHD as mg per m2); in rabbits, it was 15 mg per kg per day (5 times the MRHD as mg per m2).
 In a pre-and post-natal development study in rats administered carvedilol from late gestation through lactation, increased embryo-lethality was observed at a maternally toxic dose of 200 mg per kg per day (approximately 32 times the MRHD as mg per m2), and pup mortality and delays in physical growth/development were observed at 60 mg per kg per day (10 times the MRHD as mg per m2) in the absence of maternal toxicity.
