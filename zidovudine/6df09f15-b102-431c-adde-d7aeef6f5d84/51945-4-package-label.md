@@ -23,22 +23,24 @@ See prescribing information for dosing information.
 Store at 15o to 25oC (59o to 77oF) and protect from moisture.
 Dispense in a tight container as defined in the USP.
 
+Do not accept if safety seal under cap is missing or broken.
+
 Manufactured for:
 
 ViiV Healthcare
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
-Made in Canada
+Made in India
 
-Trademark owned or licensed by the ViiV Healthcare group of companies.
+Trademarks owned or licensed by the ViiV Healthcare group of companies.
 
-©2020 ViiV Healthcare or licensor.
+©2023 ViiV Healthcare or licensor.
 
 Rev.
-02/21
+07/23
 
-62000000060263
+62000000089450
 
 PRINCIPAL DISPLAY PANEL
 
@@ -62,15 +64,17 @@ Manufactured for:
 
 ViiV Healthcare
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
-Made in Canada
+Made in India
 
-Trademark are owned by or licensed to the ViiV Healthcare group of companies.
+Trademarks are owned by or licensed to the ViiV Healthcare group of companies.
 
-©2020 ViiV Healthcare group of companies or its licensor.
+©2023 ViiV Healthcare group of companies or its licensor.
 
-1. 62000000060142 Rev.1/21
+1. 30000000001038 Rev.
+   7/23
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -114,3 +118,4 @@ Do not accept if the vial plastic overseal is missing or not securely fitted.
 
 1. 10000000147416 Rev.
    8/17
+2. 
