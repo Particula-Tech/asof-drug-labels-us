@@ -19,7 +19,7 @@ Reduction in CHD Rates (events per 1000 patients) by Baseline Lipids 1in the Hel
 |  | All Patients |  |  | LDL-C>175; HDL-C>46.4 |  |  | LDL- C>175; TG>177 |  |  | LDL- C>175; TG>200; HDL-C<35 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | P | G | Dif 3 | P | G | Dif | P | G | Dif | P | G | Dif |
-| Incidence of Events 4 | 4 1 | 27 | 14 | 3 2 | 29 | 3 | 7 1 | 4 4 | 27 | 149 | 6 4 | 85 |
+| Incidence of Events 4 | 41 | 27 | 14 | 32 | 29 | 3 | 71 | 44 | 27 | 149 | 64 | 85 |
 
 1lipid values in mg/dL at baseline
 
