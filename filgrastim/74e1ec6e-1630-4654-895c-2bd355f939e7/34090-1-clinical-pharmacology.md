@@ -56,9 +56,9 @@ The study included 10 subjects with mild hepatic impairment (Child-Pugh Class A)
 ## 12.6 Immunogenicity
 
 The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
-Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of filgrastim-ayow or of other filgrastim products.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of filgrastim or of other filgrastim products.
 
-While available data suggest that a small proportion of patients developed binding antibodies to filgrastim, the nature and specificity of these antibodies has not been adequately studied.
+While available data suggest that a small proportion of patients developed binding antibodies to filgrastim products, the nature and specificity of these antibodies has not been adequately studied.
 In clinical studies using filgrastim, the incidence of antibodies binding to filgrastim was 3% (11/333).
 In these 11 patients, no evidence of a neutralizing response was observed using a cell based bioassay.
 Because of the low occurrence of anti-drug antibodies, the effect of these antibodies on the pharmacokinetics, pharmacodynamics, safety, and/or effectiveness of filgrastim products is unknown.
