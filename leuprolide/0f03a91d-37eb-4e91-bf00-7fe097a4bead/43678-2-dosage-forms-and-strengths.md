@@ -1,4 +1,4 @@
-# 3. DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 ELIGARD is an injectable suspension of leuprolide acetate available in a pre-connected syringe system and packaged with a sterile safety needle and cap (Table 1), a desiccant, prescribing information and instructions for use.
 The pre-connected syringe system consists of syringe A and syringe B connected using a coupling device.

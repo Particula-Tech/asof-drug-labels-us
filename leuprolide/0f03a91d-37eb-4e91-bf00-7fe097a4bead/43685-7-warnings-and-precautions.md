@@ -1,23 +1,23 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Tumor Flare
 
 ELIGARD 45 mg causes a transient increase in serum concentrations of testosterone during the first two weeks of treatment.
 Patients may experience worsening of symptoms or onset of new signs and symptoms during the first few weeks of treatment, including bone pain, neuropathy, hematuria, or bladder outlet obstruction.
 
-Cases of ureteral obstruction and/or spinal cord compression, which may contribute to paralysis with or without fatal complications, have been observed in the palliative treatment of advanced prostate cancer using GnRH agonists.
+Cases of ureteral obstruction and/or spinal cord compression, which may contribute to paralysis with or without fatal complications, have been observed in the treatment of advanced prostate cancer using GnRH agonists.
 
 Patients with metastatic vertebral lesions and/or with urinary tract obstruction should be closely observed during the first few weeks of therapy.
 If spinal cord compression or ureteral obstruction develops, standard treatment of these complications should be instituted.
 
 ## 5.2 Laboratory Tests
 
-Monitor ELIGARD response by periodic measurement of serum concentrations of testosterone and prostate specific antigen.
+Response to ELIGARD should be monitored by periodic measurement of serum concentrations of testosterone and prostate specific antigen.
 
 In the majority of patients, testosterone levels increased above Baseline during the first week, declining thereafter to Baseline levels or below by the end of the second or third week.
 Castrate levels were generally reached within two to four weeks.
 
-Once castrate levels were achieved with ELIGARD 45 mg, only one patient (< 1%) experienced a breakthrough, with testosterone levels > 50 ng/dL.
+Once castrate levels were achieved with ELIGARD 45 mg, one patient (< 1%) experienced a breakthrough, with testosterone levels > 50 ng/dL.
 
 Results of testosterone determinations are dependent on assay methodology.
 It is advisable to be aware of the type and precision of the assay methodology to make appropriate clinical and therapeutic decisions.
@@ -44,15 +44,15 @@ Providers should consider whether the benefits of androgen deprivation therapy o
 Electrolyte abnormalities should be corrected.
 Consider periodic monitoring of electrocardiograms and electrolytes.
 
-## 5.6 Embryo-Fetal Toxicity
-
-Based on findings in animal studies and mechanism of action, leuprolide acetate may cause fetal harm when administered to a pregnant woman.
-In animal developmental and reproductive studies, major fetal abnormalities were observed after administration of leuprolide acetate throughout gestation in rats.
-Advise pregnant patients and females of reproductive potential of the potential risk to the fetus [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1)].
-
-## 5.7 Convulsions
+## 5.6 Convulsions
 
 Postmarketing reports of convulsions have been observed in patients on leuprolide acetate therapy.
 These included patients with a history of seizures, epilepsy, cerebrovascular disorders, central nervous system anomalies or tumors, and in patients on concomitant medications that have been associated with convulsions such as bupropion and SSRIs.
 Convulsions have also been reported in patients in the absence of any of the conditions mentioned above.
 Patients receiving a GnRH agonist who experience convulsion should be managed according to current clinical practice.
+
+## 5.7 Embryo-Fetal Toxicity
+
+Based on findings in animal studies and mechanism of action, leuprolide acetate may cause fetal harm when administered to a pregnant woman.
+In animal developmental and reproductive studies, major fetal abnormalities were observed after administration of leuprolide acetate throughout gestation in rats.
+Advise pregnant patients and females of reproductive potential of the potential risk to the fetus [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1)].

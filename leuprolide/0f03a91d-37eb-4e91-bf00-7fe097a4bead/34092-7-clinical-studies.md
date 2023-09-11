@@ -1,10 +1,10 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 One open-label, multicenter study (AGL0205) was conducted in patients with Jewett stage A though D prostate cancer who were treated with at least a single injection of 45 mg of ELIGARD (Table 5).
-This study evaluated the achievement and maintenance of castrate serum testosterone suppression over the duration of therapy (Figure 2).
+The efficacy outcome measure was medical castration rate, defined as achieving and maintaining serum testosterone suppression to ≤ 50 ng/dL (Figure 1).
 
-During the AGL0205 study using ELIGARD 45 mg, once testosterone suppression was achieved, one patient (<1%) demonstrated breakthrough.
-This patient reached castrate suppression at Day 21 and remained suppressed until Day 308 when his testosterone level rose to 112 ng/dL.
+During the AGL0205 study using ELIGARD 45 mg, once testosterone suppression below 50 ng/dL was achieved, one patient (<1%) demonstrated breakthrough.
+This patient reached castrate suppression below 50 ng/dL at Day 21 and remained suppressed until Day 308 when his testosterone level rose to 112 ng/dL.
 At Month 12 (Day 336), his testosterone was 210 ng/dL.
 
 Table 5.
@@ -26,11 +26,12 @@ Summary of Patients in Study AGL0205
 | Day 14 | Below Baseline |  |  |
 | Day 28 | 16.7 |  |  |
 | Conclusion | 12.6 |  |  |
-| Number of patients below castrate threshold (≤ 50 ng/dL) |  | Day 28 | 108 of 109 (99.1%) |
+| Number of patients with testosterone ≤ 50 ng/dL |  | Day 28 | 108 of 109 (99.1%) |
 | Conclusion | 102 (99%) |  |  |
+| Number of patients with testosterone ≤ 20 ng/dL |  | Day 28 | 87 of 109 (80%) |
 | Two patients were withdrawn prior to the Month 1 blood draw. One patient did not achieve castration and was withdrawn on Day 85. All 5 non-evaluable patients who attained castration by Day 28, maintained castration at each time point up to and including the time of withdrawal. |  |  |  |
 
-Figure 2.
+Figure 1.
 ELIGARD 45 mg Mean Serum Testosterone Concentrations (n=103)
 
 Serum PSA decreased in all patients whose Baseline values were elevated above the normal limit.
