@@ -17,7 +17,6 @@ Absorption
 In clinical pharmacology studies in man, peak plasma concentrations of rosuvastatin were reached 3 to 5 hours following oral dosing.
 Both Cmax and AUC increased in approximate proportion to rosuvastatin dose.
 The absolute bioavailability of rosuvastatin is approximately 20%.
-
 The AUC of rosuvastatin does not differ following evening or morning drug administration.
 
 Effect of food
@@ -86,26 +85,28 @@ Concomitant administration of rosuvastatin with medications that are inhibitors 
 
 Table 8: Effect of Coadministered Drugs on Rosuvastatin Systemic Exposure
 
-|  | Rosuvastatin |  |  |
+| Coadministered drug and dosing regimen | Rosuvastatin |  |  |
 | --- | --- | --- | --- |
+|  |  | Mean Ratio (ratio with/without coadministered drug) No Effect=1.0 |  |
 |  | Dose (mg)1 | Change in AUC | Change in Cmax |
 | Sofosbuvir/velpatasvir/voxilaprevir (400 mg to 100 mg to 100 mg) + Voxilaprevir (100 mg) once daily for 15 days | 10 mg, single dose | 7.392 (6.68 to 8.18) 3 | 18.882 (16.23 to 21.96) 3 |
 | Cyclosporine – stable dose required (75 mg to 200 mg BID) | 10 mg, QD for 10 days | 7.12 | 112 |
 | Darolutamide 600 mg BID, 5 days | 5 mg, single dose | 5.22 | ~52 |
-| Regorafenib 160 mg OD, 14 days | 5 mg, single dose | 3.82 | 4.62 |
+| Regorafenib 160 mg QD, 14 days | 5 mg, single dose | 3.82 | 4.62 |
 | Atazanavir/ritonavir combination 300 mg/100 mg QD for 8 days | 10 mg | 3.12 | 72 |
 | Simeprevir 150 mg QD, 7 days | 10 mg, single dose | 2.82 (2.3 to 3.4)3 | 3.22 (2.6 to 3.9)3 |
 | Velpatasvir 100 mg once daily | 10 mg, single dose | 2.692 (2.46 to 2.94)3 | 2.612 (2.32 to 2.92)3 |
 | Ombitasvir 25 mg/paritaprevir 150 mg/ ritonavir 100 mg + dasabuvir 400 mg BID | 5 mg, single dose | 2.592 (2.09 to 3.21)3 | 7.132 (5.11 to 9.96)3 |
 | Teriflunomide | Not available | 2.512 | 2.652 |
+| Enasidenib 100 mg QD, 28 days | 10 mg, single dose | 2.44 | 3.66 |
 | Elbasvir 50 mg/grazoprevir 200 mg once daily | 10 mg, single dose | 2.262 (1.89 to 2.69)3 | 5.492 (4.29 to 7.04)3 |
 | Glecaprevir 400 mg/pibrentasvir 120 mg once daily | 5 mg, once daily | 2.152 (1.88 to 2.46)3 | 5.622 (4.80 to 6.59)3 |
 | Lopinavir/ritonavir combination 400 mg/100 mg BID for 17 days | 20 mg, QD for 7 days | 2.12 (1.7 to 2.6)3 | 52 (3.4 to 6.4)3 |
 | Capmatinib 400 mg BID | 10 mg, single dose | 2.082 (1.56 to 2.76)3 | 3.042 (2.36 to 3.92)3 |
 | Fostamatinib 100 mg BID | 20 mg, single dose | 1.962 (1.77 to 2.15)3 | 1.882 (1.69 to 2.09) 3 |
-| Febuxostat 120 mg OD for 4 days | 10 mg, single dose | 1.92 (1.5 to 2.5)3 | 2.12 (1.8 to 2.6)3 |
+| Febuxostat 120 mg QD for 4 days | 10 mg, single dose | 1.92 (1.5 to 2.5)3 | 2.12 (1.8 to 2.6)3 |
 | Gemfibrozil 600 mg BID for 7 days | 80 mg | 1.92 (1.6 to 2.2)3 | 2.22 (1.8 to 2.7)3 |
-| Tafamidis 61 mg QD, 7 days | 10 mg | 1.972 (1.68 to 2.31)3 | 1.862 (1.59 to 2.16)3 |
+| Tafamidis 61 mg BID on Days 1 & 2, followed by QD on Days 3 to 9 | 10 mg | 1.972 (1.68 to 2.31)3 | 1.862 (1.59 to 2.16)3 |
 | Eltrombopag 75 mg QD, 5 days | 10 mg | 1.6 (1.4 to 1.7)3 | 2 (1.8 to 2.3)3 |
 | Darunavir 600 mg/ritonavir 100 mg BID, 7 days | 10 mg, QD for 7 days | 1.5 (1.0 to 2.1)3 | 2.4 (1.6 to 3.6)3 |
 | Tipranavir/ritonavir combination 500 mg/200 mg BID for 11 days | 10 mg | 1.4 (1.2 to 1.6)3 | 2.2 (1.8 to 2.7)3 |
@@ -119,14 +120,7 @@ Table 8: Effect of Coadministered Drugs on Rosuvastatin Systemic Exposure
 | Ketoconazole 200 mg BID for 7 days | 80 mg | 1.0 (0.8 to 1.2)3 | 1.0 (0.7 to 1.3)3 |
 | Fluconazole 200 mg QD for 11 days | 80 mg | 1.1 (1.0 to 1.3)3 | 1.1 (0.9 to 1.4)3 |
 | Erythromycin 500 mg QID for 7 days | 80 mg | 0.8 (0.7 to 0.9)3 | 0.7 (0.5 to 0.9)3 |
-
-QD= Once daily, BID= Twice daily, TID= Three times daily, QID= Four times daily
-
-1 Single dose unless otherwise noted.
-
-2Clinically significant [see Dosage and Administration (2) and Warnings and Precautions (5)]
-
-3Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7 = 30% decrease, 11=11-fold increase in exposure)
+| QD= Once daily, BID= Twice daily, TID= Three times daily, QID= Four times daily 1 Single dose unless otherwise noted. 2Clinically significant [see Dosage and Administration (2) and Warnings and Precautions (5)] 3Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7 = 30% decrease, 11=11-fold increase in exposure) |  |  |  |
 
 Table 9: Effect of Rosuvastatin Coadministration on Systemic Exposure to Other Drugs
 
@@ -137,12 +131,7 @@ Table 9: Effect of Rosuvastatin Coadministration on Systemic Exposure to Other D
 | 40 mg QD for 10 days | Warfarin1 25 mg single dose | R- Warfarin 1.0 (1.0 to 1.1)2 S-Warfarin 1.1 (1.0 to 1.1)2 | R-Warfarin 1.0 (0.9 to 1.0)2 S-Warfarin 1.0 (0.9 to 1.1)2 |
 | 40 mg QD for 12 days | Digoxin 0.5 mg single dose | 1.0 (0.9 to 1.2)2 | 1.0 (0.9 to 1.2)2 |
 | 40 mg QD for 28 days | Oral Contraceptive (ethinyl estradiol 0.035 mg & norgestrel 0.180, 0.215 and 0.250 mg) QD for 21 Days | EE 1.3 (1.2 to 1.3)2 NG 1.3 (1.3 to 1.4)2 | EE 1.3 (1.2 to 1.3)2 NG 1.2 (1.1 to 1.3)2 |
-
-EE = ethinyl estradiol, NG = norgestrel, QD= Once daily
-
-1 Clinically significant pharmacodynamic effects [see Drug Interactions (7.3)]
-
-2Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7=30% decrease, 11=11-fold increase in exposure)
+| EE = ethinyl estradiol, NG = norgestrel, QD= Once daily 1 Clinically significant pharmacodynamic effects [see Drug Interactions (7.3)] 2Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7=30% decrease, 11=11-fold increase in exposure) |  |  |  |
 
 ## 12.5 Pharmacogenomics
 

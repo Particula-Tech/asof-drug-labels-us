@@ -45,13 +45,13 @@ Table 3: Adverse Reactions Reported in ≥2% of Patients Treated with Rosuvastat
 | Dizziness | 2.8 | 4.0 |
 | Increased CPK | 0.7 | 2.6 |
 | Abdominal pain | 1.8 | 2.4 |
-| ALT greater than 3x ULN2 | 0.7 | 2.2 |
-| 2 Frequency recorded as abnormal laboratory value. |  |  |
+| ALT greater than 3x ULN1 | 0.7 | 2.2 |
+| 1 Frequency recorded as abnormal laboratory value. |  |  |
 
 In the JUPITER study, patients were treated with rosuvastatin 20 mg (n=8901) or placebo (n=8901) for a mean duration of 2 years.
 In JUPITER, there was a significantly higher frequency of diabetes mellitus reported in patients taking rosuvastatin (2.8%) versus patients taking placebo (2.3%).
 Mean HbA1c was significantly increased by 0.1% in rosuvastatin-treated patients compared to placebo-treated patients.
-The number of patients with a HbA1c >6.5% at the end of the trial was significantly higher in rosuvastatin-treated versus placebo-treated patients [see Warnings and Precautions (5.5) and Clinical Studies (14)].
+The number of patients with a HbA1c >6.5% at the end of the trial was significantly higher in rosuvastatin-treated versus placebo-treated patients [see Clinical Studies (14)].
 
 Adverse reactions reported in ≥2% of patients and at a rate greater than placebo are shown in Table 4.
 
@@ -83,7 +83,7 @@ Musculoskeletal Disorders: arthralgia, rare reports of immune-mediated necrotizi
 
 Nervous System Disorders: peripheral neuropathy, rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, and confusion) associated with the use of all statins.
 The reports are generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
-
+There have been rare reports of new-onset or exacerbation of myasthenia gravis, including ocular myasthenia, and reports of recurrence when the same or a different statin was administered.
 Psychiatric Disorders: depression, sleep disorders (including insomnia and nightmares)
 
 Reproductive System and Breast Disorders: gynecomastia
