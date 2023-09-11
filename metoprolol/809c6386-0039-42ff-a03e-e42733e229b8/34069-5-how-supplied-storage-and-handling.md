@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Metoprolol Tartrate Tablets, USP are available containing 25 mg, 37.5 mg, 50 mg, 75 mg or 100 mg of metoprolol tartrate, USP.
 
@@ -39,13 +39,3 @@ Store at 20° to 25°C (68° to 77°F).
 Protect from moisture.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-To report SUSPECTED ADVERSE REACTIONS, contact Mylan at 1-877-446-3679 (1-877-4-INFO-RX) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
-
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
-
-Manufactured in Australia by: ALPHAPHARM PTY LTD 15 Garnet Street Carole Park QLD 4300 Australia
-
-Revised: 10/2022 ALP:MTPL:R18
-
-3247/2
