@@ -13,7 +13,7 @@ Instruct patients to inform their health care provider that they are taking cita
 
 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of citalopram with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
+Caution patients about the the risk of serotonin syndrome, particularly with the concomitant use of citalopram tablets with other serotonergic drugs including triptans, tricyclic antidepressants, opioids, lithium, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
 Instruct patients to contact their health care provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
 Increased Risk of Bleeding
@@ -53,4 +53,4 @@ Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920
 
-8090268 Revised October 2022
+8094110 Revised: September 2023
