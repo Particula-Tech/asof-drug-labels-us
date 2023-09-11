@@ -216,8 +216,6 @@ Psychiatric Disorders: delirium
 
 Renal and Urinary Disorders: acute renal failure
 
-Reproductive System and Breast Disorders: priapism
-
-Skin and Subcutaneous Tissue Disorders: Stevens Johnson Syndrome, epidermal necrolysis, angioedema, erythema multiforme, ecchymosis
+Reproductive System and Breast Disorders: priapism Respiratory, Thoracic and Mediastinal Disorders: anosmia, hyposmia Skin and Subcutaneous Tissue Disorders: Stevens Johnson Syndrome, epidermal necrolysis, angioedema, erythema multiforme, ecchymosis
 
 Vascular Disorders: thrombosis

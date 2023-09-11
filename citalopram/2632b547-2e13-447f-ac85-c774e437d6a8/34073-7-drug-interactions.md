@@ -17,8 +17,8 @@ Table 5: Clinically Important Drug Interactions with Citalopram
 | CYP2C19 Inhibitors |  |
 | Clinical Impact: | Concomitant use of citalopram with CYP2C19 inhibitors increases the risk of QT prolongation and/or ventricular arrhythmias compared to the use of citalopram alone [see Clinical Pharmacology (12.2)]. |
 | Intervention: | The maximum recommended dosage of citalopram is 20 mg daily when used concomitantly with a CYP2C19 inhibitor [see Dosage and Administration (2.4), Warnings and Precautions (5.2)]. |
-| Serotonergic Drugs |  |
-| Clinical Impact: | Concomitant use of citalopram and other serotonergic drugs increases the risk of serotonin syndrome. |
+| Other Serotonergic Drugs |  |
+| Clinical Impact: | Concomitant use of citalopram and other serotonergic drugs (including other SSRIs, SNRIs, triptans, tricyclic antidepressants, opioids, lithium, buspirone, amphetamines, tryptophan, and St. John's Wort) increases the risk of serotonin syndrome. |
 | Intervention: | Monitor patients for signs and symptoms of serotonin syndrome, particularly during citalopram initiation and dosage increases. If serotonin syndrome occurs, consider discontinuation of citalopram and/or concomitant serotonergic drugs [see Warning and Precautions (5.3)]. |
 | Drugs That Interfere With Hemostasis (antiplatelet agents and anticoagulants) |  |
 | Clinical Impact: | Concomitant use of citalopram and an antiplatelet or anticoagulant may potentiate the risk of bleeding. |
