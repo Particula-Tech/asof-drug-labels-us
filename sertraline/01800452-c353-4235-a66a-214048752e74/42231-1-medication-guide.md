@@ -76,9 +76,9 @@ Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
 Symptoms may include:
 
-- Headache
+- headache
 - weakness or feeling unsteady
-- confusion, problems concentrating or thinking, memory problems
+- confusion, problems concentrating or thinking, or memory problems
 
 9.
 Sexual problems (dysfunction).
@@ -165,11 +165,31 @@ Before starting sertraline hydrochloride oral solution, tell your healthcare pro
 - are pregnant or plan to become pregnant.
   Your baby may have withdrawal symptoms after birth or may be at increased risk for a serious lung problem at birth.
   Talk to your healthcare provider about the benefits and risks of taking sertraline hydrochloride oral solution during pregnancy.
+  - There is a pregnancy registry for females who are exposed to sertraline hydrochloride oral solution during pregnancy.
+    The purpose of the registry is to collect information about the health of females exposed to sertraline hydrochloride oral solution and their baby.
+    If you or your child become pregnant during treatment with sertraline hydrochloride oral solution, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+    You can register by calling 1-866-961-2388 or by visiting online at https://womensmentalhealth.org/research/pregnancyregistry/antidepressants/.
 - are breastfeeding or plan to breastfeed.
   A small amount of sertraline hydrochloride oral solution may pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking sertraline hydrochloride oral solution.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Especially tell your healthcare provider if you or your child take:
+
+- medicines used to treat migraine headaches called triptans
+- tricyclic antidepressants
+- lithium
+- tramadol, fentanyl, meperidine, methadone, or other opioids
+- tryptophan
+- buspirone
+- amphetamines
+- phenytoin
+- St. John’s Wort
+- medicines that can affect blood clotting such as aspirin, nonsteroidal anti-inflammatory drugs
+- (NSAIDs), other antiplatelet medicines, warfarin, and other anticoagulants
+- diuretics
+- medicines used to treat mood, anxiety, psychotic, or thought disorders, including selective
+- serotonin reuptake (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs)
 
 Sertraline hydrochloride oral solution and some medicines may interact with each other, may not work as well, or may cause serious side effects.
 
@@ -250,19 +270,6 @@ Active ingredient: sertraline hydrochloride
 
 Inactive ingredients: alcohol (12%), natural peppermint flavor, propylene glycol and purified water.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration
-
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
-
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Distributed by:
-
-Aurobindo Pharma USA, Inc.
-
-279 Princeton-Hightstown Road
-
-East Windsor, NJ 08520
-
-Manufactured by: Aurobindo Pharma Limited
-
-Hyderabad-500 032, India Revised: 02/2023
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 09/2023

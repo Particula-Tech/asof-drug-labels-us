@@ -24,7 +24,7 @@ Concomitant use is contraindicated due the alcohol content of the oral solution 
 
 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of sertraline hydrochloride with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of sertraline hydrochloride with other serotonergic drugs including triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
 Patients should contact their health care provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [See Warnings and Precautions (5.2), Drug Interactions (7.1)].
 
 Increased Risk of Bleeding
@@ -49,8 +49,8 @@ Advise patients to notify their healthcare provider if they develop an allergic 
 Pregnancy
 
 Inform pregnant women that sertraline hydrochloride may cause withdrawal symptoms in the newborn or persistent pulmonary hypertension of the newborn (PPHN) [See Use in Specific Populations (8.1)].
-
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
+Advise women that there is a pregnancy exposure registry that monitors pregnancy outcomes of women exposed to sertraline hydrochloride during pregnancy.
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 09/2023
 
 PATIENT INSTRUCTIONS
 
@@ -74,3 +74,5 @@ IMPORTANT: Please read these instructions before using Sertraline hydrochloride 
    At times, a slight haze may appear after mixing; this is normal.
 8. Replace the plastic cap on the bottle by screwing it clockwise; rinse the empty dispensing syringe with water.
    And close the orifice of the dispensing syringe by fixing the secure tip (see Figure 8).
+
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides

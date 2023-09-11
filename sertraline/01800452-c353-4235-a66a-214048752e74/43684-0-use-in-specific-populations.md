@@ -2,7 +2,12 @@
 
 ## 8.1 Pregnancy
 
+Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
+Healthcare providers should encourage patients to enroll by calling the National Pregnancy Registry for Antidepressants at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/research/pregnancyregistry/antidepressants.
+
 Risk Summary
+
+Based on data from published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions (5.3) and Clinical Considerations].
 
 Overall, available published epidemiologic studies of pregnant women exposed to sertraline in the first trimester suggest no difference in major birth defect risk compared to the background rate for major birth defects in comparator populations.
 Some studies have reported increases for specific major birth defects; however, these study results are inconclusive [See Data].
@@ -25,6 +30,10 @@ A prospective longitudinal study followed 201 pregnant women with a history of m
 The women who discontinued antidepressants during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressants.
 Consider the risks of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
 
+Maternal Adverse Reactions
+
+Use of sertraline hydrochloride in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.3)].
+
 Fetal/Neonatal adverse reactions
 
 Exposure to SSRIs and SNRIs, including sertraline hydrochloride in late pregnancy may lead to an increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding, and/or persistent pulmonary hypertension of the newborn (PPHN).
@@ -34,9 +43,7 @@ Monitor neonates who were exposed to sertraline hydrochloride in the third trime
 
 Data
 
-Human Data
-
-Third Trimester Exposure
+Human Data Third Trimester Exposure
 
 Neonates exposed to sertraline hydrochloride and other SSRIs or SNRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 These findings are based on post-marketing reports.
@@ -113,7 +120,7 @@ Juvenile Animal Data
 A study conducted in juvenile rats at clinically relevant doses showed delay in sexual maturation, but there was no effect on fertility in either males or females.
 
 In this study in which juvenile rats were treated with oral doses of sertraline at 0, 10, 40 or 80 mg/kg/day from postnatal day 21 to 56, a delay in sexual maturation was observed in males treated with 80 mg/kg/day and females treated with doses ≥10 mg/kg/day.
-There was no effect on male and female reproductive endpoints or neurobehavioral development up to the highest dose tested (80 mg/kg/day), except a decrease in auditory startle response in females at 40 and 80 mg/kg/day at the end of treatment but not at the end of the drug –free period.
+There was no effect on male and female reproductive endpoints or neurobehavioral development up to the highest dose tested (80 mg/kg/day), except a decrease in auditory startle response in females at 40 and 80 mg/kg/day at the end of treatment but not at the end of the drug–free period.
 The highest dose of 80 mg/kg/day produced plasma levels (AUC) of sertraline 5 times those seen in pediatric patients (6 to 17 years of age) receiving the maximum recommended dose of sertraline (200 mg/day).
 
 ## 8.5 Geriatric Use
