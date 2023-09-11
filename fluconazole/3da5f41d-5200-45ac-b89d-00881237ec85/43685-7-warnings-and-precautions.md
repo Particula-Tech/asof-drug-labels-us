@@ -107,9 +107,11 @@ The author judged that the patient died from fentanyl intoxication.
 Furthermore, in a randomized crossover study with 12 healthy volunteers, it was shown that fluconazole delayed the elimination of fentanyl significantly.
 Elevated fentanyl concentration may lead to respiratory depression.
 
-HMG-CoA reductase inhibitors: The risk of myopathy and rhabdomyolysis increases when fluconazole is coadministered with HMG-CoA reductase inhibitors metabolized through CYP3A4, such as atorvastatin and simvastatin, or through CYP2C9, such as fluvastatin.
+HMG-CoA reductase inhibitors: The risk of myopathy and rhabdomyolysis increases when fluconazole is coadministered with HMG-CoA reductase inhibitors metabolized through CYP3A4, such as atorvastatin and simvastatin, or through CYP2C9, such as fluvastatin (decreased hepatic metabolism of the statin).
 If concomitant therapy is necessary, the patient should be observed for symptoms of myopathy and rhabdomyolysis and creatinine kinase should be monitored.
 HMG-CoA reductase inhibitors should be discontinued if a marked increase in creatinine kinase is observed or myopathy/rhabdomyolysis is diagnosed or suspected.
+Dose reduction of statins may be needed.
+Refer to the statin-specific prescribing information for details.
 
 Hydrochlorothiazide: In a pharmacokinetic interaction study, coadministration of multiple-dose hydrochlorothiazide to healthy volunteers receiving fluconazole increased plasma concentrations of fluconazole by 40%.
 An effect of this magnitude should not necessitate a change in the fluconazole dose regimen in subjects receiving concomitant diuretics.
@@ -117,11 +119,17 @@ An effect of this magnitude should not necessitate a change in the fluconazole d
 Ibrutinib: Moderate inhibitors of CYP3A4 such as fluconazole may increase plasma ibrutinib concentrations and increase risk of adverse reactions associated with ibrutinib.
 If ibrutinib and fluconazole are concomitantly administered, reduce the dose of ibrutinib as instructed in ibrutinib prescribing information and the patient should be frequently monitored for any adverse reactions associated with ibrutinib.
 
+Ivacaftor and fixed dose ivacaftor combinations (e.g., tezacaftor/ivacaftor and ivacaftor/tezacaftor/elexacaftor): Coadministration with ivacaftor, a cystic fibrosis transmembrane conductance regulator (CFTR) potentiator, increased ivacaftor exposure by 3-fold.
+If used concomitantly with a moderate inhibitor of CYP3A4, such as fluconazole, a reduction in the dose of ivacaftor (or ivacaftor combination) is recommended as instructed in the ivacaftor (or ivacaftor combination) prescribing information.
+
 Lemborexant: Concomitant administration of fluconazole increased lemborexant Cmax and AUC by approximately 1.6- and 4.2-fold, respectively which is expected to increase risk of adverse reactions, such as somnolence.
 Avoid concomitant use of fluconazole with lemborexant.
 
 Losartan: Fluconazole inhibits the metabolism of losartan to its active metabolite (E-31 74) which is responsible for most of the angiotensin Il-receptor antagonism which occurs during treatment with losartan.
 Patients should have their blood pressure monitored continuously.
+
+Lurasidone: Concomitant use of moderate inhibitors of CYP3A4 such as fluconazole may increase lurasidone plasma concentrations.
+If concomitant use cannot be avoided, reduce the dose of lurasidone as instructed in the lurasidone prescribing information.
 
 Methadone: Fluconazole may enhance the serum concentration of methadone.
 Dosage adjustment of methadone may be necessary.

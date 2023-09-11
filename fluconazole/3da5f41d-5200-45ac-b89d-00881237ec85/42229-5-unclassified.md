@@ -83,6 +83,8 @@ Especially tell your healthcare provider if you take:
 - •olaparib, cyclophosphamide or vinca alkaloids such as vincristine or vinblastine for treatment of cancer
 - •fentanyl, alfentanil or methadone for chronic pain
 - •ibrutinib used for treating blood cancer
+- •ivacaftor or ivacaftor combinations, such as tezacaftor/ivacaftor and ivacaftor/tezacaftor/elexacaftor, used to treat cystic fibrosis
+- •lurasidone used to treat schizophrenia or depression
 - •lemborexant, used for the treatment of insomnia
 - •lipid lowering drugs such as atorvastatin, simvastatin, and fluvastatin
 - •non-steroidal anti-inflammatory drugs including celecoxib, ibuprofen, and naproxen
@@ -120,7 +122,7 @@ Fluconazole Tablets may cause serious side effects including:
 | •severe skin itching | •tiredness | •loss of appetite |
 | •yellowing of the skin and eyes (jaundice) |  |  |
 
-- •serious allergic reactions: In rare cases,serious allergic reactions (anaphylaxis) have happened while taking fluconazole tablets.
+- •serious allergic reactions: Serious allergic reactions (anaphylaxis) have happened while taking fluconazole tablets.
   Stop taking fluconazole tablets, call your healthcare provider or go to the nearest hospital emergency room right away if you get any signs or symptoms of an allergic reaction including:
 
 | •shortness of breath | •coughing | •wheezing |
@@ -189,4 +191,5 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
-1. This Patient Information has been approved by the U.S. Food and Drug Administration February 2023
+- This Patient Information has been approved by the U.S. Food and Drug Administration
+- September 2023

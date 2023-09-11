@@ -92,7 +92,7 @@ When serum creatinine is the only measure of renal function available, the follo
 | --- | --- |
 | 72 × serum creatinine (mg/100 mL) |  |
 
-1. Females: 0.85 × above value
+- Females: 0.85 × above value
 
 Although the pharmacokinetics of fluconazole has not been studied in children with renal insufficiency, dosage reduction in children with renal insufficiency should parallel that recommended for adults.
 The following formula may be used to estimate creatinine clearance in children:
