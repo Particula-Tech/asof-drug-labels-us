@@ -60,10 +60,10 @@ Based on genotoxicity findings, advise males with female partners of reproductiv
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of deferiprone tablets for the treatment of transfusional iron overload due to thalassemia syndromes have been established in pediatric patients 8 years of age and older.
-Use of deferiprone tablets for this indication is supported by evidence of efficacy from clinical trials in adult patients with thalassemia.
-
 Safety and effectiveness of deferiprone tablets have not been established in pediatric patients with chronic iron overload due to blood transfusions who are less than 8 years of age.
+
+Pediatric use information is approved for Chiesi USA, Inc.’s FERRIPROX® (deferiprone) tablets.
+However, due to Chiesi USA, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 
