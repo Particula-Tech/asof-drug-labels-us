@@ -2,7 +2,7 @@
 
 ## 2.1 Important Dosage and Administration Information
 
-Deferiprone Tablets are available in a 500 mg formulation, which has different oral dosing regimens to achieve the same total daily dosage.
+Deferiprone Tablets are available in a 500 mg formulation.
 
 - •Deferiprone Tablets - 500 mg - given three times a day [see Dosage and Administration (2.4)]
 
@@ -23,7 +23,7 @@ Due to the risk of hepatic transaminase elevations, monitor ALT before and month
 
 Due to the risk of zinc deficiency, monitor zinc levels before and regularly during deferiprone tablets therapy [see Warnings and Precautions (5.3)].
 
-## 2.4 Recommended Dosage for 500 mg Deferiprone Tablets (three times a day) for Adult and Pediatric Patients with Transfusional Iron Overload due to Thalassemia Syndromes
+## 2.4 Recommended Dosage for 500 mg Deferiprone Tablets (three times a day) for Adult Patients with Transfusional Iron Overload due to Thalassemia Syndromes
 
 Starting Dosage for Three Times a Day Tablets:
 
@@ -64,6 +64,9 @@ Table 6: Number of Deferiprone 500 mg Tablets (three times a day) Needed to Achi
 | 70 | 5 | 4.5 | 4.5 |
 | 80 | 5.5 | 5 | 5.5 |
 | 90 | 6 | 6 | 6 |
+
+Pediatric use information is approved for Chiesi USA, Inc.’s FERRIPROX® (deferiprone) tablets.
+However, due to Chiesi USA, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.5 Monitoring Ferritin Levels to Assess Efficacy
 

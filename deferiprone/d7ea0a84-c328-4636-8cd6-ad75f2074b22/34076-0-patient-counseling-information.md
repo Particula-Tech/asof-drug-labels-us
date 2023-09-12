@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
-- •Instruct patients and their caregivers to store deferiprone tablets at 20° to 25°C (68° to 77°F); [see USP Controlled Room Temperature].
+- •Instruct patients and their caregivers to store deferiprone tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 - •Deferiprone Tablets, 500 mg:Store in the originally supplied bottle, closed tightly to protect from moisture.Advise patients to take the first dose of deferiprone in the morning, the second dose at midday, and the third dose in the evening.
   Clinical experience suggests that taking deferiprone tablets with meals may reduce nausea.
 
@@ -21,6 +21,6 @@ Distributed by: Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50000816/04
+C50000816/05
 
-Revised December 2021
+Revised August 2023
