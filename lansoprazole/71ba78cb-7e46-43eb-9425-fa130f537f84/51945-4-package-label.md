@@ -1,13 +1,3 @@
-# PRINCIPAL DISPLAY PANEL - 15 mg Capsule Bottle Label
-
-NDC 64764-541-30 30 Capsules
-
-PREVACID® LANSOPRAZOLE DELAYED-RELEASE CAPSULES
-
-15 mg
-
-Dispense the accompanying Medication Guide to each patient.
-
 # PRINCIPAL DISPLAY PANEL - 30 mg Capsule Bottle Label
 
 NDC 64764-046-13 100 Capsules
