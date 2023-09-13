@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA202047"
+  ],
+  "inn": "rizatriptan",
+  "labeler": "Creekwood Pharmaceuticals LLC",
+  "package_ndcs": [
+    "82619-111-01",
+    "82619-111-02",
+    "82619-111-04",
+    "82619-111-05",
+    "82619-112-01",
+    "82619-112-02",
+    "82619-112-04",
+    "82619-112-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "rizatriptan benzoate",
+      "name": "Rizatriptan Benzoate"
+    }
+  ],
+  "setid": "b517896b-167e-47d5-801d-7458f80e8ee2",
+  "source": "dailymed"
+}
