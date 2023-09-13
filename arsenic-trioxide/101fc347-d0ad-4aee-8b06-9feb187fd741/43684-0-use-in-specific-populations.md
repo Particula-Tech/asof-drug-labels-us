@@ -5,8 +5,8 @@
 Risk Summary
 
 Based on the mechanism of action [see Clinical Pharmacology (12.1)] and findings in animal studies, TRISENOX can cause fetal harm when administered to a pregnant woman.
-Arsenic trioxide was embryolethal and teratogenic in rats when administered on gestation day 9 at a dose approximately 10 times the recommended human daily dose on a mg/m² basis (see Data).
-A related trivalent arsenic, sodium arsenite, produced teratogenicity when administered during gestation in mice at a dose approximately 5 times the projected human dose on a mg/m² basis and in hamsters at an intravenous dose approximately equivalent to the projected human daily dose on a mg/m² basis.
+Arsenic trioxide was embryolethal and teratogenic in rats when administered on gestation day 9 at a dose approximately 10 times the recommended human daily dose on a mg/m2 basis (see Data).
+A related trivalent arsenic, sodium arsenite, produced teratogenicity when administered during gestation in mice at a dose approximately 5 times the projected human dose on a mg/m2 basis and in hamsters at an intravenous dose approximately equivalent to the projected human daily dose on a mg/m2 basis.
 There are no studies with the use of TRISENOX in pregnant women, and limited published data on arsenic trioxide use during pregnancy are insufficient to inform a drug-associated risk of major birth defects and miscarriage.
 Advise pregnant women of the potential risk to a fetus.
 
@@ -26,9 +26,9 @@ A fourth patient who became pregnant while receiving arsenic trioxide had a misc
 Animal Data
 
 Studies in pregnant mice, rats, hamsters, and primates have shown that inorganic arsenicals cross the placental barrier when given orally or by injection.
-An increase in resorptions, neural-tube defects, anophthalmia and microphthalmia were observed in rats administered 10 mg/kg of arsenic trioxide on gestation day 9 (approximately 10 times the recommended human daily dose on a mg/m² basis).
-Similar findings occurred in mice administered a 10 mg/kg dose of a related trivalent arsenic, sodium arsenite (approximately 5 times the projected human dose on a mg/m² basis), on gestation days 6, 7, 8, or 9.
-Intravenous injection of 2 mg/kg sodium arsenite (approximately equivalent to the projected human daily dose on a mg/m² basis) on gestation day 7 (the lowest dose tested) resulted in neural-tube defects in hamsters.
+An increase in resorptions, neural-tube defects, anophthalmia and microphthalmia were observed in rats administered 10 mg/kg of arsenic trioxide on gestation day 9 (approximately 10 times the recommended human daily dose on a mg/m2 basis).
+Similar findings occurred in mice administered a 10 mg/kg dose of a related trivalent arsenic, sodium arsenite (approximately 5 times the projected human dose on a mg/m2 basis), on gestation days 6, 7, 8, or 9.
+Intravenous injection of 2 mg/kg sodium arsenite (approximately equivalent to the projected human daily dose on a mg/m2 basis) on gestation day 7 (the lowest dose tested) resulted in neural-tube defects in hamsters.
 
 ## 8.2 Lactation
 

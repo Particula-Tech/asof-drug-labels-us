@@ -68,8 +68,8 @@ Monitor patients for the development of second primary malignancies.
 ## 5.6 Embryo-Fetal Toxicity
 
 TRISENOX can cause fetal harm when administered to a pregnant woman.
-Arsenic trioxide was embryolethal and teratogenic in rats when administered on gestation day 9 at a dose approximately 10 times the recommended human daily dose on a mg/m² basis.
-A related trivalent arsenic, sodium arsenite, produced teratogenicity when administered during gestation in mice at a dose approximately 5 times the projected human dose on a mg/m² basis and in hamsters at an intravenous dose approximately equivalent to the projected human daily dose on a mg/m² basis.
+Arsenic trioxide was embryolethal and teratogenic in rats when administered on gestation day 9 at a dose approximately 10 times the recommended human daily dose on a mg/m2 basis.
+A related trivalent arsenic, sodium arsenite, produced teratogenicity when administered during gestation in mice at a dose approximately 5 times the projected human dose on a mg/m2 basis and in hamsters at an intravenous dose approximately equivalent to the projected human daily dose on a mg/m2 basis.
 
 Advise pregnant women of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception during treatment with TRISENOX and for 6 months after the last dose.

@@ -13,13 +13,13 @@ Table 1: Recommended Dosage of TRISENOX in Combination with Tretinoin
 
 | Induction (1 cycle) |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| TRISENOX0.15 mg/kg oncedaily intravenously | until marrow remission but not to exceed 60 days |  |  |  |  |  |  |  |
+| TRISENOX0.15 mg/kg once daily intravenously | until marrow remission but not to exceed 60 days |  |  |  |  |  |  |  |
 | Tretinoina22.5 mg/m2 twice daily orally | until marrow remission but not to exceed 60 days |  |  |  |  |  |  |  |
 | Consolidation (4 cycles) |  |  |  |  |  |  |  |  |
 |  | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 | Week 8 |
 | TRISENOX 0.15 mg/kg once daily intravenously | Days 1-5 | Days 1-5 | Days 1-5 | Days 1-5 | -- | -- | -- | -- |
 | Tretinoina22.5 mg/m2 twice daily orally | Days 1-7 | Days 1-7 | -- | -- | Daysb 1-7 | Daysb 1-7 | -- | -- |
-| aRounded to the nearest 10 mg incrementbOmitted during the 4th cycle of consolidation |  |  |  |  |  |  |  |  |
+| a Rounded to the nearest 10 mg incrementb Omitted during the 4th cycle of consolidation |  |  |  |  |  |  |  |  |
 
 Differentiation syndrome prophylaxis consisting of prednisone 0.5 mg/kg daily from day 1 until the end of induction cycle with TRISENOX and tretinoin is recommended.
 

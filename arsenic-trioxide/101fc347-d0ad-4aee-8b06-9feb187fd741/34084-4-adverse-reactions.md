@@ -140,7 +140,7 @@ Table 5: Adverse Reactions (≥ 5%) in Patients with Relapsed or Refractory APL 
 | Coma | 2 | 5 | 2 | 5 |
 | Cardiac disorders |  |  |  |  |
 | Tachycardia | 22 | 55 |  |  |
-| ECG QT corrected interval prolonged > 500 msec | 16 | 40 |  |  |
+| ECG QT corrected interval prolonged> 500 msec | 16 | 40 |  |  |
 | Palpitations | 4 | 10 |  |  |
 | ECG abnormal other than QT interval prolongation | 3 | 8 |  |  |
 | Metabolism and nutrition disorders |  |  |  |  |
