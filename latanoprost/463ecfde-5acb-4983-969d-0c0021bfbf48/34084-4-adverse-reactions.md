@@ -2,11 +2,11 @@
 
 The following adverse reactions were reported in postmarketing experience and are discussed in greater detail in other sections of the label:
 
-- Iris pigmentation changes [see Warnings and Precautions (5.1)]
-- Eyelid skin darkening [see Warnings and Precautions (5.1)]
-- Eyelash changes (increased length, thickness, pigmentation, and number of lashes) [see Warnings and Precautions (5.2)]
-- Intraocular inflammation (iritis/uveitis) [see Warnings and Precautions (5.3)]
-- Macular edema, including cystoid macular edema [see Warnings and Precautions (5.4)]
+- •Iris pigmentation changes [see Warnings and Precautions (5.1)]
+- •Eyelid skin darkening [see Warnings and Precautions (5.1)]
+- •Eyelash changes (increased length, thickness, pigmentation, and number of lashes) [see Warnings and Precautions (5.2)]
+- •Intraocular inflammation (iritis/uveitis) [see Warnings and Precautions (5.3)]
+- •Macular edema, including cystoid macular edema [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
