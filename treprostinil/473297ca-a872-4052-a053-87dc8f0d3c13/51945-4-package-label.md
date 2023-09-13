@@ -12,19 +12,15 @@ Injection
 
 Rx Only
 
-For Subcutaneous or
+For Subcutaneous and
 
 Intravenous Infusion
-
-Only
-
-Sterile
 
 20 mL
 
 Multi-Dose Vial
 
-SANDOZ – A Novartis Division
+SANDOZ
 
 # 50 mg Carton
 
@@ -40,19 +36,15 @@ Injection
 
 Rx Only
 
-For Subcutaneous or
+For Subcutaneous and
 
 Intravenous Infusion
-
-Only
-
-Sterile
 
 20 mL
 
 Multi-Dose Vial
 
-SANDOZ – A Novartis Division
+SANDOZ
 
 # 100 mg Carton
 
@@ -68,19 +60,15 @@ Injection
 
 Rx Only
 
-For Subcutaneous or
+For Subcutaneous and
 
 Intravenous Infusion
-
-Only
-
-Sterile
 
 20 mL
 
 Multi-Dose Vial
 
-SANDOZ – A Novartis Division
+SANDOZ
 
 # 200 mg Carton
 
@@ -96,19 +84,15 @@ Injection
 
 Rx Only
 
-For Subcutaneous or
+For Subcutaneous and
 
 Intravenous Infusion
-
-Only
-
-Sterile
 
 20 mL
 
 Multi-Dose Vial
 
-SANDOZ – A Novartis Division
+SANDOZ
 
 # Sterile Diluent
 
