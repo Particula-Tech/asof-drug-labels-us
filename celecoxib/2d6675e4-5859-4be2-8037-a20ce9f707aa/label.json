@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "NDA020998"
+  ],
+  "inn": "celecoxib",
+  "labeler": "Viatris Specialty LLC",
+  "package_ndcs": [
+    "58151-082-91",
+    "58151-083-01",
+    "58151-083-05",
+    "58151-083-88",
+    "58151-084-01",
+    "58151-084-05",
+    "58151-084-88",
+    "58151-085-88",
+    "58151-085-91"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "celecoxib",
+      "name": "CELEBREX"
+    }
+  ],
+  "setid": "2d6675e4-5859-4be2-8037-a20ce9f707aa",
+  "source": "dailymed"
+}
