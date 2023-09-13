@@ -190,8 +190,8 @@ The following additional adverse reactions occurred in ≥0.1% and <1% of patien
 
 Nervous system disorders: Cerebral infarction
 
-- Eye disorders: Vitreous floaters, conjunctival hemorrhage
-- Ear and labyrinth: Labyrinthitis
+1. Eye disorders: Vitreous floaters, conjunctival hemorrhage
+2. Ear and labyrinth: Labyrinthitis
 
 Cardiac disorders: Angina unstable, aortic valve incompetence, coronary artery atherosclerosis, sinus bradycardia, ventricular hypertrophy
 
