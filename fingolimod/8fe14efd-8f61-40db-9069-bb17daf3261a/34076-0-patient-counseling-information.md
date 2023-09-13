@@ -59,7 +59,7 @@ Malignancies
 Advise patients that basal cell carcinoma and melanoma are associated with use of fingolimod capsules.
 Advise patients that any suspicious skin lesions should be promptly evaluated.
 Advise patients to limit exposure to sunlight and ultraviolet light by wearing protective clothing and using a sunscreen with a high protection factor.
-Inform patients that lymphoma has also occurred in patients receiving fingolimodcapsules [see Warnings and Precautions (5.12)].
+Inform patients that lymphoma has also occurred in patients receiving fingolimod capsules [see Warnings and Precautions (5.12)].
 
 Persistence of Fingolimod Capsules Effects After Drug Discontinuation
 
@@ -67,7 +67,7 @@ Advise patients that fingolimod capsules remains in the blood and continues to h
 
 Hypersensitivity Reactions
 
-Advise patients that fingolimod capsules may cause hypersensitivity reactions including rash, urticaria, and angioedema.
+Advise patients that fingolimod capsules may cause hypersensitivity reactions, including rash, urticaria, and angioedema.
 Advise patients to contact their physician if they have any symptoms associated with hypersensitivity [see Warnings and Precautions (5.14)].
 
 Pregnancy
@@ -87,4 +87,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
-September 2022
+September 2023

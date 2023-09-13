@@ -23,12 +23,25 @@ Children should also be observed by a healthcare professional for at least 6 hou
 
 After you take your first dose of fingolimod capsules, and after a child takes their first dose of 0.5 mg of fingolimod when switching from the 0.25 mg dose:
 
-- 
+1. • Your pulse and blood pressure should be checked every hour.
+2. • You should be observed by a healthcare professional to see if you have any serious side effects.
+   If your heart rate slows down too much, you may have symptoms, such as:
+3. o dizziness
+4. o tiredness
+5. o feeling like your heart is beating slowly or skipping beats
+6. o chest pain
+7. • If you have any of the symptoms of slow heart rate, they will usually happen during the first 6 hours after your first dose of fingolimod capsules.
+   Symptoms can happen up to 24 hours after you take your first fingolimod capsules dose.
+8. • 6 hours after you take your first dose of fingolimod capsules you will have another ECG.
+   If your ECG shows any heart problems or if your heart rate is still too low or continues to decrease, you will continue to be observed.
+9. • If you have any serious side effects after your first dose of fingolimod capsules, especially those that require treatment with other medicines, you will stay in the medical facility to be observed overnight.
+   You will also be observed for any serious side effects for at least 6 hours after you take your second dose of fingolimod capsules the next day.
+10. • If you have certain types of heart problems, or if you are taking certain types of medicines that can affect your heart, you will be observed overnight after you take your first dose of fingolimod capsules.
 
 Your slow heart rate will usually return to normal within 1 month after you start taking fingolimod capsules.
-Call your doctor or go to the nearest hospital emergency room right away if you have any symptoms of a slow heart rate.
+Call your doctor or go to the nearest hospital emergency room right away if you have any symptoms, of a slow heart rate.
 
-If you miss 1 or more doses of fingolimod capsules you may need to be observed by a healthcare professional when you take your next dose.
+If you miss 1 or more doses of fingolimod capsules, you may need to be observed by a healthcare professional when you take your next dose.
 Call your doctor if you miss a dose of fingolimod capsules.
 See “How should I take fingolimod capsules?”
 
@@ -102,6 +115,7 @@ Do not take fingolimod capsules if you:
 Talk to your doctor before taking fingolimod capsules if you have any of these conditions, or do not know if you have any of these conditions.
 
 What should I tell my doctor before taking fingolimod capsules?
+
 Before you take fingolimod capsules, tell your doctor about all your medical conditions, including if you had or now have:
 
 - •an irregular or abnormal heartbeat (arrhythmia).
@@ -113,8 +127,25 @@ Before you take fingolimod capsules, tell your doctor about all your medical con
 - •chickenpox or have received the vaccine for chickenpox.
   Your doctor may do a blood test for chickenpox virus.
 - You may need to get the full course of the vaccine for chickenpox and then wait 1 month before you start taking fingolimod capsules.
+- ● your child has completed their vaccination schedule.
+  Your child needs to have completed their vaccination schedule before starting treatment with fingolimod capsules.
+- ● eye problems, especially an inflammation of the eye called uveitis.
+- ● diabetes.
+- ● breathing problems, including during your sleep.
+- ● liver problems.
+- ● high blood pressure.
+- ●types of skin cancer called basal cell carcinoma (BCC) or melanoma.
+- ● are pregnant or plan to become pregnant.
+  Fingolimod capsules may harm your unborn baby.
+  Talk to your doctor if you are pregnant or are planning to become pregnant.
+  Tell your doctor right away if you become pregnant while taking fingolimod capsules or if you become pregnant within 2 months after you stop taking fingolimod capsules.
+- ○You should stop taking fingolimod capsules 2 months before trying to become pregnant.
+- ○ If you are a female who can become pregnant, you should use effective birth control during your treatment with fingolimod capsules and for at least 2 months after you stop taking fingolimod capsules.
+- ● are breastfeeding or plan to breastfeed.
+  It is not known if fingolimod passes into your breast milk.
+  Talk to your doctor about the best way to feed your baby if you take fingolimod capsules.
 
-Tell your doctor about all the medicines you take or have recently taken, including prescription and over-the- counter medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take or have recently taken, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 Especially tell your doctor if you take medicines that affect your immune system, including corticosteroids, or have taken them in the past.
 
@@ -155,16 +186,16 @@ Fingolimod capsules can cause serious side effects, including:
   However, if left untreated, it may lead to a stroke.
   Call your doctor right away if you have any of the following symptoms:
 
-| osudden severe headache | osudden loss of vision or other changes in your vision |
+| •sudden severe headache | •sudden loss of vision or other changes in your vision |
 | --- | --- |
-| osudden confusion | oseizure |
+| •sudden confusion | •seizure |
 
 - •liver damage.
   Fingolimod capsules may cause liver damage.
   Your doctor should do blood tests to check your liver before you start taking fingolimod capsules and periodically during treatment.
   Call your doctor right away if you have any of the following symptoms of liver damage:
 
-| onauseaovomitingostomach painotiredness | oloss of appetiteoyour skin or the whites of your eyes turn yellowodark urine |
+| •nausea•vomiting•stomach pain•tiredness | •loss of appetite•your skin or the whites of your eyes turn yellow•dark urine |
 | --- | --- |
 
 - •breathing problems.
@@ -176,6 +207,15 @@ Fingolimod capsules can cause serious side effects, including:
   This worsening happens most often within 12 weeks after stopping fingolimod capsules, but can happen later.
   Always talk to your doctor before you stop taking fingolimod capsules for any reason.
   Tell your doctor if you have worsening symptoms of MS after stopping fingolimod capsules.
+- ●increased blood pressure.
+  Your doctor should check your blood pressure during treatment with fingolimod capsules.
+- ● types of skin cancer called basal cell carcinoma (BCC) and melanoma.
+  Tell your doctor if you have any changes in the appearance of your skin, including changes in a mole, a new darkened area on your skin, a sore that does not heal, or growths on your skin, such as a bump that may be shiny, pearly white, skin-colored, or pink.
+  Your doctor should check your skin for any changes during treatment with fingolimod capsules.
+  Limit the amount of time you spend in sunlight and ultraviolet (UV) light.
+  Wear protective clothing and use a sunscreen with a high sun protection factor.
+- ● allergic reactions.
+  Call your doctor if you have symptoms of an allergic reaction, including a rash, itchy hives, or swelling of the lips, tongue or face.
 
 The most common side effects of fingolimod capsules include:
 
@@ -233,5 +273,5 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
-1. This Medication Guide has been approved by the U.S. Food and Drug Administration.
-   September 2022
+- This Medication Guide has been approved by the U.S. Food and Drug Administration.
+  September 2023

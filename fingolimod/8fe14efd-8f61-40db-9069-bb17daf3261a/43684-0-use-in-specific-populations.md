@@ -52,7 +52,7 @@ The pregnancy status of females of reproductive potential should be verified pri
 Contraception
 
 Before initiation of fingolimod treatment, females of reproductive potential should be counseled on the potential for a serious risk to the fetus and the need for effective contraception during treatment with fingolimod [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1)].
-Since it takes approximately 2 months to eliminate the compound from the body after stopping treatment, the potential risk to the fetus may persist and women should use effective contraception during this period [see Warnings and Precautions (5.8, 5.13)].
+Since it takes approximately 2 months to eliminate the compound from the body after stopping treatment, the potential risk to the fetus may persist and women should use effective contraception during this period [see Warnings and Precautions (5.8,5.13)].
 
 ## 8.4 Pediatric Use
 

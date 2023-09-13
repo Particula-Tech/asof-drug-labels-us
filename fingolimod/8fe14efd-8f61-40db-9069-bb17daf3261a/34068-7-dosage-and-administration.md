@@ -12,9 +12,9 @@ Complete Blood Count (CBC)
 
 Review results of a recent CBC [see Warnings and Precautions (5.2), Drug Interactions (7.6)].
 
-Serum transaminases (ALT and AST) and Total Bilirubin Levels
+Serum Transaminases (ALT and AST) and Total Bilirubin Levels
 
-Prior to starting treatment with fingolimod capsules (i.e., within 6 months), obtain serum transaminases (ALT and AST) and total bilirubin levels [see Warnings and Precautions (5.5)].
+Prior to starting treatment with fingolimod capsules (i.e., within 6 months), obtain serum transaminases [alanine transaminase (ALT) and aspartate transferase (AST)] and total bilirubin levels [see Warnings and Precautions (5.5)].
 
 Prior Medications
 
@@ -48,13 +48,13 @@ First 6-Hour Monitoring
 Administer the first dose of fingolimod capsules in a setting in which resources to appropriately manage symptomatic bradycardia are available.
 Monitor all patients for 6 hours after the first dose for signs and symptoms of bradycardia with hourly pulse and blood pressure measurement.
 
-Additional Monitoring after 6-Hour Monitoring
+Additional Monitoring After 6-Hour Monitoring
 
 Continue monitoring until the abnormality resolves if any of the following is present (even in the absence of symptoms) after 6 hours:
 
-- •The heart rate 6 hours postdose is less than 45 bpm in adults, less than 55 bpm in pediatric patients 12 years of age and older, or less than 60 bpm in pediatric patients 10 or 11 years of age
-- •The heart rate 6 hours postdose is at the lowest value postdose suggesting that the maximum pharmacodynamic effect on the heart may not have occurred
-- •The ECG 6 hours postdose shows new onset second degree or higher AV block.
+- •the heart rate 6 hours postdose is less than 45 beats per minute (bpm) in adults, less than 55 bpm in pediatric patients 12 years of age and older, or less than 60 bpm in pediatric patients 10 or 11 years of age;
+- •the heart rate 6 hours postdose is at the lowest value postdose suggesting that the maximum pharmacodynamic effect on the heart may not have occurred;
+- •the ECG 6 hours postdose shows new onset second degree or higher atrioventricular (AV) block.
 
 If postdose symptomatic bradycardia occurs, initiate appropriate management, begin continuous ECG monitoring, and continue monitoring until the symptoms have resolved if no pharmacological treatment is required.
 If pharmacological treatment is required, continue monitoring overnight and repeat 6-hour monitoring after the second dose.
