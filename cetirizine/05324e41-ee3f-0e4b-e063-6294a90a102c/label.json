@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA090191"
+  ],
+  "inn": "cetirizine",
+  "labeler": "BAJAJ MEDICAL, LLC",
+  "package_ndcs": [
+    "61037-479-02",
+    "61037-479-03"
+  ],
+  "products": [
+    {
+      "form": "SYRUP",
+      "generic": "cetirizine hydrochloride",
+      "name": "Cetirizine Hydrochloride"
+    }
+  ],
+  "setid": "05324e41-ee3f-0e4b-e063-6294a90a102c",
+  "source": "dailymed"
+}
