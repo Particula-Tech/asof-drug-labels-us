@@ -7,7 +7,7 @@ As with other treatments for syphilis, the Jarisch-Herxheimer reaction has been 
 The following adverse reactions have been reported with Bicillin L-A during post-marketing experience:
 
 Skin and Appendages: Stevens-Johnson syndrome (SJS) and drug reaction with eosinophilia and systemic symptoms (DRESS).
-(See WARNINGS.)
+(See WARNINGS)
 
 The following have been reported with parenteral penicillin G (the active moiety in Bicillin L-A):
 
