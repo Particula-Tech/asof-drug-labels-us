@@ -16,6 +16,8 @@ The addition of concomitant and maintenance temozolomide to radiation therapy fo
 The hazard ratio (HR) for overall survival was 0.63 (95% CI: 0.52, 0.75) with a log-rank P<0.0001 in favor of the temozolomide arm.
 The median survival was increased by 2.5 months in the temozolomide arm.
 
+FIGURE 1: Kaplan-Meier Curves for Overall Survival (ITT Population) in Newly Diagnosed Glioblastoma Trial
+
 ## 14.2 Refractory Anaplastic Astrocytoma
 
 The efficacy of temozolomide was evaluated in Study MK-7365-006, a single-arm, multicenter trial.

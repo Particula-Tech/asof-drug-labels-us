@@ -48,9 +48,9 @@ Advise males of reproductive potential that temozolomide may impair fertility [s
 
 ## Patient Information
 
-PHARMACIST: Dispense with Patient Information Sheet provided separately to each patient.
+PHARMACIST: Dispense with Patient Information Sheet available at https://www.sunpharma.com/usa/products to each patient.
 
-| Patient InformationTemozolomide(TEM-oh-ZOE-loe-mide)Capsules, USP |
+| Patient InformationTemozolomide (TEM-oh-ZOE-loe-mide) Capsules, USP |
 | --- |
 | What is the most important information I should know about temozolomide capsules? Temozolomide capsules may cause birth defects.Females and female partners of male patients who take temozolomide capsules: Avoid becoming pregnant while taking temozolomide capsules.Females who can become pregnant should use an effective form of birth control (contraception) during treatment and for at least 6 months after your last dose of temozolomide capsules. Your doctor should to do a pregnancy test to make sure that you are not pregnant before you start taking temozolomide capsules.Tell your doctor right away if you become pregnant or think you are pregnant during treatment with temozolomide capsules. Males taking temozolomide capsules and have a female partner who is pregnant or who can become pregnant:Use a condom for birth control (contraception) during treatment and for at least 3 months after taking your final dose of temozolomide capsules.Do not donate semen during treatment and for at least 3 months after your final dose of temozolomide capsules. See the section "What are the possible side effects of temozolomide capsules?" for more information about side effects. |
 | What are temozolomide capsules? Temozolomide capsules are a prescription medicine used to treat adults with certain brain cancer tumors. It is not known if temozolomide capsules are safe and effective in children. |
@@ -67,7 +67,7 @@ Temozolomide Capsules, USP
 
 PHARMACIST:
 
-Dispense with Patient Information Sheet provided separately to each patient.
+Dispense with Patient Information Sheet available at https://www.sunpharma.com/usa/products to each patient.
 
 PHARMACIST INFORMATION SHEET
 
@@ -239,5 +239,9 @@ OSHA. http://www.osha.gov/SLTC/hazardousdrugs/index.
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
-Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 Manufactured by: Sun Pharmaceutical Industries Ltd. Halol-Baroda Highway, Halol-389 350, Gujarat, India.
-Revised: 07/2023
+Dispense with Patient Information Sheet available at https://www.sunpharma.com/usa/products to each patient.
+
+Distributed by: Sun Pharmaceutical Industries, Inc.
+
+Cranbury, NJ 08512 Manufactured by: Sun Pharmaceutical Industries Ltd. Halol-Baroda Highway, Halol-389 350, Gujarat, India.
+Revised: 08/2023
