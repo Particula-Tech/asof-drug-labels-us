@@ -1,191 +1,85 @@
-# WARNINGS:
+# 5 WARNINGS AND PRECAUTIONS
 
-LOCAL ANESTHETICS SHOULD ONLY BE EMPLOYED BY CLINICIANS WHO ARE WELL VERSED IN DIAGNOSIS AND MANAGEMENT OF DOSE-RELATED TOXICITY AND OTHER ACUTE EMERGENCIES WHICH MIGHT ARISE FROM THE BLOCK TO BE EMPLOYED, AND THEN ONLY AFTER INSURING THE IMMEDIATE AVAILABILITY OF OXYGEN, OTHER RESUSCITATIVE DRUGS, CARDIOPULMONARY RESUSCITATIVE EQUIPMENT, AND THE PERSONNEL RESOURCES NEEDED FOR PROPER MANAGEMENT OF TOXIC REACTIONS AND RELATED EMERGENCIES (see also ADVERSE REACTIONS and PRECAUTIONS).
+## 5.1 Use of Spinal Anesthetics During Uterine Contractions
 
-DELAY IN PROPER MANAGEMENT OF DOSE-RELATED TOXICITY, UNDERVENTILATION FROM ANY CAUSE AND/OR ALTERED SENSITIVITY MAY LEAD TO THE DEVELOPMENT OF ACIDOSIS, CARDIAC ARREST, AND, POSSIBLY, DEATH.
+Spinal anesthetics including Bupivacaine Hydrochloride in Dextrose Injection, USP should not be injected during uterine contractions because cerebrospinal fluid current may carry the drug further cephalad than desired, resulting in a high motor block.
 
-## Methemoglobinemia:
+## 5.2 Patients with Hypertension
+
+Sympathetic blockade due to spinal anesthesia may result in peripheral vasodilation and hypotension, the extent of which depends on the number of dermatomes blocked.
+Patients over 65 years, particularly those with hypertension, may be at increased risk for experiencing the hypotensive effects of Bupivacaine Hydrochloride in Dextrose Injection, USP.
+Monitor blood pressure frequently, especially in the early phases of anesthesia.
+Hypotension may be controlled by administration of vasoconstrictor agents in titrated dosages depending on the severity of hypotension and response to treatment.
+Monitor the onset of adequate spinal anesthesia because it is not always possible to control the level of anesthesia after subarachnoid injection of Bupivacaine Hydrochloride in Dextrose Injection, USP.
+
+## 5.3 Dose-Related Toxicity
+
+The safety and effectiveness of Bupivacaine Hydrochloride in Dextrose Injection, USP depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies.
+Careful and constant monitoring of cardiovascular and respiratory (adequacy of oxygenation and ventilation) vital signs and the patient’s state of consciousness should be performed after injection of Bupivacaine Hydrochloride in Dextrose Injection, USP solutions.
+
+Possible early warning signs of central nervous system (CNS) toxicity are restlessness, anxiety, incoherent speech, lightheadedness, numbness and tingling of the mouth and lips, metallic taste, tinnitus, dizziness, blurred vision, tremors, twitching, CNS depression, or drowsiness.
+Delay in proper management of dose-related toxicity, hypoventilation from any cause, and/or altered sensitivity may lead to the development of acidosis, cardiac arrest, and possibly death.
+
+The patient should have an indwelling intravenous catheter to assure adequate intravenous access.
+Use the lowest dosage of Bupivacaine Hydrochloride in Dextrose Injection, USP that results in effective anesthesia to avoid serious adverse reactions.
+Avoid rapid injection of a large volume of Bupivacaine Hydrochloride in Dextrose Injection, USP.
+
+Injection of repeated doses of Bupivacaine Hydrochloride in Dextrose Injection, USP may cause significant increases in plasma bupivacaine levels with each repeated dose due to slow accumulation of the drug or its metabolites, or to slow metabolic degradation.
+Tolerance to elevated blood levels varies with the status of the patient.
+Debilitated, elderly patients and acutely ill patients should be given reduced doses commensurate with their age and physical status.
+Reduced doses may be indicated in patients with increased intra-abdominal pressure (including obstetrical patients), if otherwise suitable for spinal anesthesia.
+
+## 5.4 Risk of Systemic Toxicities with Unintended Intravascular Injection
+
+Unintended intravascular injection of Bupivacaine Hydrochloride in Dextrose Injection, USP may be associated with systemic toxicities, including CNS or cardiorespiratory depression and coma, progressing ultimately to respiratory arrest [see Adverse Reactions (6)].
+
+Aspirate for blood and cerebrospinal fluid before injecting Bupivacaine Hydrochloride in Dextrose Injection, USP, for both the initial dose and all subsequent doses (where applicable), to confirm entry into the subarachnoid space and to avoid intravascular injection.
+Aspiration of cerebrospinal fluid into a Bupivacaine Hydrochloride in Dextrose Injection, USP-filled syringe will result in an identifiable swirl in the solution.
+A negative aspiration for blood does not ensure against an intravascular injection.
+
+## 5.5 Methemoglobinemia
 
 Cases of methemoglobinemia have been reported in association with local anesthetic use.
-Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
+Although all patients are at risk for methemoglobinemia, patients with glucose 6 phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition [see Drug Interactions (7.2)].
 If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
 
 Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.
-Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious central nervous system and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
-Discontinue Bupivacaine Hydrochloride in Dextrose Injection, USP and other oxidizing agents.
+Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious CNS and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
+Discontinue Bupivacaine Hydrochloride in Dextrose Injection, USP and any other oxidizing agents.
 Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
 A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
 
-Intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures is an unapproved use, and there have been post-marketing reports of chondrolysis in patients receiving such infusions.
+## 5.6 Risk of Cardiac Arrest with Use of Epidural Bupivacaine in Obstetrical Anesthesia
+
+There have been reports of cardiac arrest with difficult resuscitation or death during use of Bupivacaine Hydrochloride Injection, USP for epidural anesthesia in obstetrical patients.
+In most cases, this has followed use of Bupivacaine Hydrochloride Injection, USP 0.75%, not Bupivacaine Hydrochloride in Dextrose Injection, USP.
+The package insert for Bupivacaine Hydrochloride Injection, USP for epidural, nerve block, etc., has a more complete discussion of preparation for, and management of cardiac arrest following epidural administration.
+Bupivacaine Hydrochloride in Dextrose Injection, USP is recommended for spinal anesthesia in obstetrical patients.
+
+## 5.7 Chondrolysis with Intra-Articular Infusion
+
+Intra-articular infusions of local anesthetics including bupivacaine following arthroscopic and other surgical procedures is an unapproved use, and there have been post-marketing reports of chondrolysis in patients receiving such infusions.
 The majority of reported cases of chondrolysis have involved the shoulder joint; cases of gleno-humeral chondrolysis have been described in pediatric and adult patients following intra-articular infusions of local anesthetics with and without epinephrine for periods of 48 to 72 hours.
-There is insufficient information to determine whether shorter infusion periods are not associated with these findings.
-The time of onset of symptoms, such as joint pain, stiffness and loss of motion can be variable, but may begin as early as the 2nd month after surgery.
+There is insufficient information to determine whether shorter infusion periods are not associated with chondrolysis.
+The time of onset of symptoms, such as joint pain, stiffness, and loss of motion can be variable, but may begin as early as the 2 nd month after surgery.
 Currently, there is no effective treatment for chondrolysis; patients who experienced chondrolysis have required additional diagnostic and therapeutic procedures and some required arthroplasty or shoulder replacement.
 
-Spinal anesthetics should not be injected during uterine contractions, because spinal fluid current may carry the drug further cephalad than desired.
+## 5.8 Risk of Cardiac Arrest with Intravenous Regional Anesthesia Use (Bier Block)
 
-A free flow of cerebrospinal fluid during the performance of spinal anesthesia is indicative of entry into the subarachnoid space.
-However, aspiration should be performed before the anesthetic solution is injected to confirm entry into the subarachnoid space and to avoid intravascular injection.
+There have been reports of cardiac arrest and death during the use of bupivacaine for intravenous regional anesthesia (Bier Block).
+Information on safe dosages and techniques of administration of Bupivacaine Hydrochloride in Dextrose Injection, USP in this procedure is lacking.
+Therefore, Bupivacaine Hydrochloride in Dextrose Injection, USP is contraindicated for use with this technique [see Contraindications (4)].
 
-Bupivacaine Hydrochloride in Dextrose Injection, USP solutions containing epinephrine or other vasopressors should not be used concomitantly with ergot-type oxytocic drugs, because a severe persistent hypertension may occur.
-Likewise, solutions of Bupivacaine Hydrochloride in Dextrose Injection, USP containing a vasoconstrictor, such as epinephrine, should be used with extreme caution in patients receiving monoamine oxidase inhibitors (MAOI) or antidepressants of the triptyline or imipramine types, because severe prolonged hypertension may result.
+## 5.9 Patients with Severe Disturbances of Cardiac Rhythm, Shock, or Heart Block
 
-Until further experience is gained in patients younger than 18 years, administration of Bupivacaine Hydrochloride in Dextrose Injection, USP in this age group is not recommended.
+Consider alternate anesthetic techniques in patients with severe disturbances of cardiac rhythm, shock, or heart block [see Contraindications (4)].
 
-Mixing or the prior or intercurrent use of any other local anesthetic with Bupivacaine Hydrochloride in Dextrose Injection, USP cannot be recommended because of insufficient data on the clinical use of such mixtures.
+## 5.10 Risk of Toxicity in Patients with Hepatic Impairment
 
-# PRECAUTIONS:
+Because amide-type local anesthetics such as bupivacaine are metabolized by the liver, consider reduced dosing and increased monitoring for bupivacaine systemic toxicity in patients with moderate to severe hepatic impairment who are treated with Bupivacaine Hydrochloride in Dextrose Injection, USP [see Use in Specific Populations (8.6)].
+Most information regarding dose-related hepatic impairment is based on larger dosages of bupivacaine administered for other neuraxial, peripheral nerve, or fascial plane blocks.
 
-## General:
+## 5.11 Risk of Use in Patients with Impaired Cardiovascular Function
 
-The safety and effectiveness of spinal anesthetics depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies.
-Resuscitative equipment, oxygen, and other resuscitative drugs should be available for immediate use (see WARNINGS and ADVERSE REACTIONS).
-The patient should have intravenous fluids running via an indwelling catheter to assure a functioning intravenous pathway.
-The lowest dosage of local anesthetic that results in effective anesthesia should be used.
-Aspiration for blood should be performed before injection and injection should be made slowly.
-Tolerance varies with the status of the patient.
-Elderly patients and acutely ill patients may require reduced doses.
-Reduced doses may also be indicated in patients with increased intra-abdominal pressure (including obstetrical patients), if otherwise suitable for spinal anesthesia.
-
-There should be careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient’s state of consciousness after local anesthetic injection.
-Restlessness, anxiety, incoherent speech, lightheadedness, numbness and tingling of the mouth and lips, metallic taste, tinnitus, dizziness, blurred vision, tremors, depression, or drowsiness may be early warning signs of CNS toxicity.
-Spinal anesthetics should be used with caution in patients with severe disturbances of cardiac rhythm, shock, or heart block.
-
-Sympathetic blockade occurring during spinal anesthesia may result in peripheral vasodilation and hypotension, the extent depending on the number of dermatomes blocked.
-Patients over 65 years, particularly those with hypertension, may be at increased risk for experiencing the hypotensive effects of Bupivacaine Hydrochloride in Dextrose Injection, USP.
-Blood pressure should, therefore, be carefully monitored especially in the early phases of anesthesia.
-Hypotension may be controlled by vasoconstrictors in dosages depending on the severity of hypotension and response of treatment.
-The level of anesthesia should be carefully monitored because it is not always controllable in spinal techniques.
-
-Because amide-type local anesthetics such as Bupivacaine Hydrochloride in Dextrose Injection, USP are metabolized by the liver, these drugs, especially repeat doses, should be used cautiously in patients with hepatic disease.
-Patients with severe hepatic disease, because of their inability to metabolize local anesthetics normally, are at a greater risk of developing toxic plasma concentrations.
-Local anesthetics should also be used with caution in patients with impaired cardiovascular function because they may be less able to compensate for functional changes associated with the prolongation of AV conduction produced by these drugs.
-However, dosage recommendations for spinal anesthesia are much lower than dosage recommendations for other major blocks and most experience regarding hepatic and cardiovascular disease dose-related toxicity is derived from these other major blocks.
-
-Serious dose-related cardiac arrhythmias may occur if preparations containing a vasoconstrictor such as epinephrine are employed in patients during or following the administration of potent inhalation agents.
-In deciding whether to use these products concurrently in the same patient, the combined action of both agents upon the myocardium, the concentration and volume of vasoconstrictor used, and the time since injection, when applicable, should be taken into account.
-
-Many drugs used during the conduct of anesthesia are considered potential triggering agents for familial malignant hyperthermia.
-Because it is not known whether amide-type local anesthetics may trigger this reaction and because the need for supplemental general anesthesia cannot be predicted in advance, it is suggested that a standard protocol for management should be available.
-Early unexplained signs of tachycardia, tachypnea, labile blood pressure, and metabolic acidosis may precede temperature elevation.
-Successful outcome is dependent on early diagnosis, prompt discontinuance of the suspect triggering agent(s) and institution of treatment, including oxygen therapy, indicated supportive measures, and dantrolene.
-(Consult dantrolene sodium intravenous package insert before using.)
-
-The following conditions may preclude the use of spinal anesthesia, depending upon the physician’s evaluation of the situation and ability to deal with the complications or complaints which may occur:
-
-- Pre-existing diseases of the CNS, such as those attributable to pernicious anemia, poliomyelitis, syphilis, or tumor.
-
-- Hematological disorders predisposing to coagulopathies or patients on anticoagulant therapy.
-  Trauma to a blood vessel during the conduct of spinal anesthesia may, in some instances, result in uncontrollable CNS hemorrhage or soft tissue hemorrhage.
-
-- Chronic backache and preoperative headache.
-
-- Hypotension and hypertension.
-
-- Technical problems (persistent paresthesias, persistent bloody tap).
-
-- Arthritis or spinal deformity.
-
-- Extremes of age.
-
-- Psychosis or other causes of poor cooperation by the patient.
-
-## Information for Patients:
-
-When appropriate, patients should be informed in advance that they may experience temporary loss of sensation and motor activity, usually in the lower half of the body, following proper administration of spinal anesthesia.
-Also, when appropriate, the physician should discuss other information including adverse reactions in the Bupivacaine Hydrochloride in Dextrose Injection, USP package insert.
-
-Inform patients that use of local anesthetics may cause methemoglobinemia, a serious condition that must be treated promptly.
-Advise patients or caregivers to seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; lightheadedness; or fatigue.
-
-## Clinically Significant Drug Interactions:
-
-The administration of local anesthetic solutions containing epinephrine or norepinephrine to patients receiving monoamine oxidase inhibitors or tricyclic antidepressants may produce severe, prolonged hypertension.
-Concurrent use of these agents should generally be avoided.
-In situations when concurrent therapy is necessary, careful patient monitoring is essential.
-
-Concurrent administration of vasopressor drugs and of ergot-type oxytocic drugs may cause severe persistent hypertension or cerebrovascular accidents.
-
-Phenothiazines and butyrophenones may reduce or reverse the pressor effect of epinephrine.
-
-Patients who are administered local anesthetics are at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics:
-
-## Examples of Drugs Associated with Methemoglobinemia:
-
-| Class | Examples |
-| --- | --- |
-| Nitrates/Nitrites | nitric oxide, nitroglycerin, nitroprusside, nitrous oxide |
-| Local anesthetics | articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine﻿﻿ |
-| Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, ifosfamide, rasburicase |
-| Antibiotics | dapsone, nitrofurantoin, para- aminosalicylic acid, sulfonamides |
-| Antimalarials | chloroquine, primaquine |
-| Anticonvulsants | phenobarbital, phenytoin, sodium valproate |
-| Other drugs | acetaminophen, metoclopramide, quinine, sulfasalazine |
-
-## Carcinogenesis, Mutagenesis, and Impairment of Fertility
-
-Long-term studies in animals to evaluate the carcinogenic potential of bupivacaine hydrochloride have not been conducted.
-The mutagenic potential and the effect on fertility of bupivacaine hydrochloride have not been determined.
-
-## Pregnancy
-
-There are no adequate and well-controlled studies in pregnant women.
-Bupivacaine Hydrochloride in Dextrose Injection, USP should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Bupivacaine hydrochloride produced developmental toxicity when administered subcutaneously to pregnant rats and rabbits at clinically relevant doses.
-This does not exclude the use of Bupivacaine Hydrochloride in Dextrose Injection, USP at term for obstetrical anesthesia or analgesia (see Labor and Delivery).
-
-Bupivacaine hydrochloride was administered subcutaneously to rats at doses of 4.4, 13.3, & 40 mg/kg and to rabbits at doses of 1.3, 5.8, & 22.2 mg/kg during the period of organogenesis (implantation to closure of the hard palate).
-The high doses are approximately 30-times the daily maximum recommended human dose (MRHD) of 12 mg/day on a mg dose/m 2 body surface area (BSA) basis.
-No embryo-fetal effects were observed in rats at the high dose which caused increased maternal lethality.
-An increase in embryofetal deaths was observed in rabbits at the high dose in the absence of maternal toxicity with the fetal No Observed Adverse Effect Level being approximately 8-times the MRHD on a BSA basis.
-
-In a rat pre- and post-natal development study (dosing from implantation through weaning) conducted at subcutaneous doses of 4.4, 13.3, & 40 mg/kg, decreased pup survival was observed at the high dose.
-The high dose is approximately 30-times the daily MRHD of 12 mg/day on a BSA basis.
-
-## Labor and Delivery
-
-Spinal anesthesia has a recognized use during labor and delivery.
-Bupivacaine hydrochloride, when administered properly, via the epidural route in doses 10 to 12 times the amount used in spinal anesthesia has been used for obstetrical analgesia and anesthesia without evidence of adverse effects on the fetus.
-
-Maternal hypotension has resulted from regional anesthesia.
-Local anesthetics produce vasodilation by blocking sympathetic nerves.
-Elevating the patient’s legs and positioning her on her left side will help prevent decreases in blood pressure.
-The fetal heart rate also should be monitored continuously and electronic fetal monitoring is highly advisable.
-
-It is extremely important to avoid aortocaval compression by the gravid uterus during administrations of regional block to parturients.
-To do this, the patient must be maintained in the left lateral decubitus position or a blanket roll or sandbag may be placed beneath the right hip and the gravid uterus displaced to the left.
-
-Spinal anesthesia may alter the forces of parturition through changes in uterine contractility or maternal expulsive efforts.
-Spinal anesthesia has also been reported to prolong the second stage of labor by removing the parturient’s reflex urge to bear down or by interfering with motor function.
-The use of obstetrical anesthesia may increase the need for forceps assistance.
-
-The use of some local anesthetic drug products during labor and delivery may be followed by diminished muscle strength and tone for the first day or two of life.
-This has not been reported with bupivacaine.
-
-There have been reports of cardiac arrest during use of Bupivacaine Hydrochloride in Dextrose Injection, USP 0.75% solution for epidural anesthesia in obstetrical patients.
-The package insert for Bupivacaine Hydrochloride in Dextrose Injection, USP hydrochloride for epidural, nerve block, etc., has a more complete discussion of preparation for, and management of, this problem.
-These cases are compatible with systemic toxicity following unintended intravascular injection of the much larger doses recommended for epidural anesthesia and have not occurred within the dose range of bupivacaine hydrochloride 0.75% recommended for spinal anesthesia in obstetrics.
-The 0.75% concentration of Bupivacaine Hydrochloride in Dextrose Injection, USP is therefore not recommended for obstetrical epidural anesthesia.
-
-Bupivacaine Hydrochloride in Dextrose Injection, USP is recommended for spinal anesthesia in obstetrics.
-
-## Nursing Mothers
-
-Bupivacaine has been reported to be excreted in human milk suggesting that the nursing infant could be theoretically exposed to a dose of the drug.
-Because of the potential for serious adverse reactions in nursing infants from bupivacaine, a decision should be made whether to discontinue nursing or not administer bupivacaine, taking into account the importance of the drug to the mother.
-
-## Pediatric Use
-
-Until further experience is gained in patients younger than 18 years, administration of Bupivacaine Hydrochloride in Dextrose Injection, USP in this age group is not recommended.
-
-## Geriatric Use
-
-Patients over 65 years, particularly those with hypertension, may be at increased risk for developing hypotension while undergoing spinal anesthesia with Bupivacaine Hydrochloride in Dextrose Injection, USP.
-(See PRECAUTIONS, General and ADVERSE REACTIONS, Cardiovascular System.)
-
-Elderly patients may require lower doses of Bupivacaine Hydrochloride in Dextrose Injection, USP (see PRECAUTIONS, General and DOSAGE AND ADMINISTRATION).
-
-In clinical studies, differences in various pharmacokinetic parameters have been observed between elderly and younger patients (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
-
-This product is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
+Bupivacaine Hydrochloride in Dextrose Injection, USP should be given in reduced doses in patients with impaired cardiovascular function (e.g., hypotension, heartblock, valvular abnormalities) because they may be less able to compensate for functional changes associated with the sympathetic blockade observed after subarachnoid administration of Bupivacaine Hydrochloride in Dextrose Injection, USP and the prolongation of AV conduction produced by the drug.
+Monitor patients closely for blood pressure, heart rate, and ECG changes.
