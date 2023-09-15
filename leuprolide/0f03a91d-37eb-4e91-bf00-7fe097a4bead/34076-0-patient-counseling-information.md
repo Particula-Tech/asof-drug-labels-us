@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17. PATIENT COUNSELING INFORMATION
 
 Hypersensitivity
 
@@ -33,7 +33,11 @@ Infertility
 
 - Inform patients that ELIGARD may cause infertility [see Use In Specific Populations (8.3)].
 
-Manufactured by: Tolmar, Fort Collins, CO 80526 ©2023 Tolmar
+Rx only
+
+Revised 04/23
+
+Manufactured by: Tolmar, Fort Collins, CO 80526 ©2022 Tolmar
 
 04006171 Rev.
-3 08/23
+2 04/23

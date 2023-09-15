@@ -1,12 +1,12 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16. HOW SUPPLIED/STORAGE AND HANDLING
 
-How Supplied
+## 16.1 How Supplied
 
 ELIGARD is available in a single-dose, two syringe-mixing system with a sterile safety needle and cap in the following strength:
 
 ELIGARD 45 mg – NDC 62935-461-50
 
-Storage
+## 16.2 Storage
 
 Store at 2°C to 8°C (36°F to 46°F)
 

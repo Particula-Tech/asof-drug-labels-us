@@ -1,4 +1,4 @@
-# 11 DESCRIPTION
+# 11. DESCRIPTION
 
 ELIGARD 45 mg is a sterile polymeric matrix formulation of leuprolide acetate, a GnRH agonist, for subcutaneous injection.
 It is designed to deliver leuprolide acetate at a controlled rate over a six-month therapeutic period.

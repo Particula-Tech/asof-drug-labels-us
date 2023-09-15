@@ -1,21 +1,11 @@
-# 6 ADVERSE REACTIONS
-
-The following clinically significant adverse reactions are described elsewhere in the labeling:
-
-- Tumor Flare [see Warnings and Precautions (5.1)]
-- Hyperglycemia and Diabetes [see Warnings and Precautions (5.3)]
-- Cardiovascular Disease [see Warnings and Precautions (5.4)]
-- Effect on QT/QTc Interval [see Warnings and Precautions (5.5)]
-- Convulsions [see Warnings and Precautions (5.6)]
+# 6. ADVERSE REACTIONS
 
 ## 6.1 Clinical Trial Experience
-
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The safety of ELIGARD was evaluated in clinical trials involving patients with advanced prostate cancer (Table 3).
 ELIGARD, like other GnRH analogs, caused a transient increase in serum testosterone concentrations during the first one to two weeks of treatment.
 Therefore, potential exacerbations of signs and symptoms of the disease during the first weeks of treatment are of concern in patients with vertebral metastases and/or urinary obstruction or hematuria.
-If these conditions are aggravated, it may lead to neurological problems such as weakness and/or paresthesia of the lower limbs or worsening of urinary symptoms [see Warnings and Precautions (5.2)].
+If these conditions are aggravated, it may lead to neurological problems such as weakness and/or paresthesia of the lower limbs or worsening of urinary symptoms [see WARNINGS AND PRECAUTIONS (5.2)].
 
 During the clinical trials, injection sites were closely monitored.
 Refer to Table 2 for a summary of reported injection site adverse reactions.
@@ -82,14 +72,11 @@ It can be anticipated that long periods of medical castration in men will have e
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of ELIGARD.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a casual relationship to drug exposure.
-
-Pituitary apoplexy- During postmarketing surveillance, rare cases of pituitary apoplexy (a clinical syndrome secondary to infarction of the pituitary gland) have been reported after the administration of gonadotropin-releasing hormone agonists.
+Pituitary apoplexy-During post-marketing surveillance, rare cases of pituitary apoplexy (a clinical syndrome secondary to infarction of the pituitary gland) have been reported after the administration of gonadotropin-releasing hormone agonists.
 In a majority of these cases, a pituitary adenoma was diagnosed with a majority of pituitary apoplexy cases occurring within 2 weeks of the first dose, and some within the first hour.
 In these cases, pituitary apoplexy has presented as sudden headache, vomiting, visual changes, ophthalmoplegia, altered mental status, and sometimes cardiovascular collapse.
 Immediate medical attention has been required.
 
-Nervous System- Convulsions
+Nervous System-Convulsions
 
-Respiratory System- Interstitial lung disease
+Respiratory System-Interstitial lung disease

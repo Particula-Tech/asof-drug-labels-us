@@ -1,4 +1,4 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8. USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -7,8 +7,6 @@ There are no available data in pregnant women to inform the drug-associated risk
 Expected hormonal changes that occur with ELIGARD treatment increase the risk for pregnancy loss.
 In animal developmental and reproductive studies, major fetal abnormalities were observed after administration of leuprolide acetate throughout gestation in rats.
 Advise pregnant patients and females of reproductive potential of the potential risk to the fetus (see Data).
-
-Data
 
 Animal Data In animal developmental and reproductive studies, major fetal abnormalities were observed after administration of leuprolide acetate throughout gestation.
 There were increased fetal mortality and decreased fetal weights in rats and rabbits.
@@ -31,4 +29,3 @@ The safety and effectiveness of ELIGARD in pediatric patients have not been esta
 ## 8.5 Geriatric Use
 
 The majority of the patients (approximately 70%) studied in the clinical trials were age 70 and older.
-Clinical studies of ELIGARD did not include sufficient numbers of younger adult patients to determine if patients 65 years of age and older respond differently than younger adult patients.
