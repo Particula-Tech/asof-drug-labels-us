@@ -39,10 +39,10 @@ Schiffgraben 23, 38690 Goslar, Germany
 
 Distributed by
 
-West-Ward Pharmaceuticals
+Hikma Pharmaceuticals USA Inc.
 
 Eatontown, NJ 07724 USA
 
-Revised October 2015
+Revised March 2020
 
-127.207.009/00
+127.207.009/01
