@@ -11,9 +11,7 @@ The most commonly reported events in overdosage include tachycardia, changes in 
 Electrocardiogram changes (e.g., prolongation of QT interval, bundle branch block, QRS prolongation), sinus and ventricular tachycardia, bradycardia, hypotension, rhabdomyolysis, vertigo, liver necrosis, serotonin syndrome, and death have been reported.
 
 Published retrospective studies report that venlafaxine overdosage may be associated with an increased risk of fatal outcomes compared to that observed with SSRI antidepressant products, but lower than that for tricyclic antidepressants.
-Epidemiological studies have shown that venlafaxine-treated patients have a higher pre-existing burden of suicide risk factors than
-
-SSRI-treated patients.
+Epidemiological studies have shown that venlafaxine-treated patients have a higher pre-existing burden of suicide risk factors than SSRI-treated patients.
 The extent to which the finding of an increased risk of fatal outcomes can be attributed to the toxicity of venlafaxine in overdosage, as opposed to some characteristic(s) of venlafaxine-treated patients, is not clear.
 
 ## 10.2 Management of Overdosage

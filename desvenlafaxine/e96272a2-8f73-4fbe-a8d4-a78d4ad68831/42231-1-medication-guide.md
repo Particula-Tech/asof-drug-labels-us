@@ -19,12 +19,14 @@ Desvenlafaxine extended-release tablets can cause serious side effects, includin
 - Increased risk of suicidal thoughts or actions in some children and young adults within the first few months of treatment.
   Desvenlafaxine extended-release tablets is not for use in children.
 - Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
-  How can I watch for and try to prevent suicidal thoughts and actions?
-  - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-    This is very important when an antidepressant medicine is started or when the dose is changed.
-  - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-  - Keep all follow-up visits with the healthcare provider as scheduled.
-    Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+
+How can I watch for and try to prevent suicidal thoughts and actions?
+
+- Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+  This is very important when an antidepressant medicine is started or when the dose is changed.
+- Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+- Keep all follow-up visits with the healthcare provider as scheduled.
+  Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call your healthcare provider right away if you have any of the following symptoms, especially if they are new, worse, or worry you:
 
@@ -88,9 +90,8 @@ Especially tell your healthcare provider if you take:
 - other MAOIs
 - medicines to treat migraine headaches known as triptans
 - tricyclic antidepressants
-- fentanyl
 - lithium
-- tramadol
+- tramadol, fentanyl, meperidine, methadone, or other opioids
 - tryptophan
 - buspirone
 - amphetamines
@@ -206,10 +207,8 @@ In severe or more sudden cases, signs and symptoms include:
   Symptoms of lung problems include difficulty breathing, cough, or chest discomfort.
   Tell your healthcare provider right away if you have any of these symptoms.
 
-Sexual Problems (dysfunction).
-Taking serotonin and norepinephrine reuptake inhibitors (SNRIs), including Desvenlafaxine
-
-extended-release tablets, may cause sexual problems.
+- Sexual Problems (dysfunction).
+  Taking serotonin and norepinephrine reuptake inhibitors (SNRIs), including Desvenlafaxine extended-release tablets, may cause sexual problems.
 
 Symptoms in males may include:
 
@@ -292,4 +291,4 @@ Goa - 403 722
 
 INDIA.
 
-Revised: April 2022 ID#: 269600
+Revised: September 2023 ID#: 274585

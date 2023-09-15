@@ -37,9 +37,7 @@ Patients receiving continued desvenlafaxine treatment experienced statistically 
 At 26 weeks, the Kaplan-Meier estimated proportion of relapse was 14% with desvenlafaxine treatment versus 30% with placebo.
 
 In another longer-term trial (Study 6), adult outpatients meeting DSM-IV criteria for major depressive disorder and who responded to 12 weeks of acute treatment with desvenlafaxine were assigned randomly to the same dose (200 or 400 mg per day) they had received during acute treatment or to placebo for up to 26 weeks of observation for relapse.
-Response during the
-
-open-label phase was defined as a HAM-D17 total score of ≤ 11 at the day 84 evaluation.
+Response during the open-label phase was defined as a HAM-D17 total score of ≤ 11 at the day 84 evaluation.
 Relapse during the double-blind phase was defined as follows: (1) a HAM-D17 total score of ≥ 16 at any office visit, (2) a CGI-I score of ≥ 6 (versus day 84) at any office visit, or (3) discontinuation from the trial due to unsatisfactory response.
 Patients receiving continued desvenlafaxine treatment experienced statistically significantly longer time to relapse over the subsequent 26 weeks compared with those receiving placebo.
 At 26 weeks, the Kaplan-Meier estimated proportion of relapse was 29% with desvenlafaxine treatment versus 49% with placebo.
@@ -47,9 +45,7 @@ At 26 weeks, the Kaplan-Meier estimated proportion of relapse was 29% with desve
 Figure 5.
 Estimated Proportion of Relapses vs. Number of Days since Randomization (Study 6)
 
-In a postmarketing study, the efficacy of desvenlafaxine extended-release tablets at a dose lower than 50 mg per day was evaluated in an 8-week, multicenter, randomized, double-blind,
-
-placebo-controlled, fixed-dose study in adult outpatients with Major Depressive Disorder.
+In a postmarketing study, the efficacy of desvenlafaxine extended-release tablets at a dose lower than 50 mg per day was evaluated in an 8-week, multicenter, randomized, double-blind, placebo-controlled, fixed-dose study in adult outpatients with Major Depressive Disorder.
 The treatment arms were 25 mg (n=232), 50 mg (n=236), and placebo (n=231).
 The 50 mg dose was superior to placebo, as measured by the mean change from baseline on the HAMD-17.
 The 25 mg dose was not superior to placebo.

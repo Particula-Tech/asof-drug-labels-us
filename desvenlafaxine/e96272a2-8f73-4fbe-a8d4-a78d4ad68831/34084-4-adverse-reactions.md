@@ -90,7 +90,7 @@ Sexual Function Adverse Reactions
 
 Table 3 shows the incidence of sexual function adverse reactions that occurred in ≥ 2% of desvenlafaxine extended-release tablets treated MDD patients in any fixed-dose group
 
-(pre-marketing pooled 8-week, placebo-controlled, fixed -dose, clinical studies).
+(pre-marketing pooled 8-week, placebo-controlled, fixed -dose, clinical studies) [see WARNINGS AND PRECAUTIONS (5.11)].
 
 Table 3: Sexual Function Adverse Reactions (≥2% in Men or Women in any Desvenlafaxine Succinate Group) During the On-Therapy Period
 
@@ -229,3 +229,5 @@ Skin and subcutaneous tissue disorders - Stevens-Johnson syndrome
 Gastrointestinal disorders – Pancreatitis acute
 
 Cardiovascular system – Takotsubo cardiomyopathy
+
+Respiratory, thoracic and mediastinal disorders – Anosmia, hyposmia

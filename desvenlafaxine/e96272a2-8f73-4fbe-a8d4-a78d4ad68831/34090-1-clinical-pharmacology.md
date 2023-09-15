@@ -7,9 +7,7 @@ Non-clinical studies have shown that desvenlafaxine is a potent and selective se
 
 ## 12.2 Pharmacodynamics
 
-Desvenlafaxine lacked significant affinity for numerous receptors, including
-
-muscarinic-cholinergic, H1-histaminergic, or a1-adrenergic receptors in vitro.
+Desvenlafaxine lacked significant affinity for numerous receptors, including muscarinic-cholinergic, H1-histaminergic, or a1-adrenergic receptors in vitro.
 Desvenlafaxine also lacked monoamine oxidase (MAO) inhibitory activity.
 
 ECG changes

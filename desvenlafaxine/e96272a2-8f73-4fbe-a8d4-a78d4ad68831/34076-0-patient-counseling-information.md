@@ -13,7 +13,7 @@ Healthcare professionals should instruct patients not to take desvenlafaxine wit
 
 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of desvenlafaxine extended-release tablets with other serotonergic agents (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, amphetamines, tryptophan, buspirone, and St. John's Wort supplements) [see WARNINGS AND PRECAUTIONS (5.2)].
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of desvenlafaxine extended-release tablets with other serotonergic agents (including triptans, tricyclic antidepressants, opioids, lithium, amphetamines, tryptophan, buspirone, and St. John's Wort supplements) [see WARNINGS AND PRECAUTIONS (5.2)].
 
 Elevated Blood Pressure
 
@@ -28,7 +28,7 @@ Activation of Mania/Hypomania
 
 Advise patients, their families and caregivers to observe for signs of activation of mania/hypomania [see WARNINGS AND PRECAUTIONS (5.6)].
 
-Discontinuation
+Discontinuation Syndrome
 
 Advise patients not to abruptly stop taking desvenlafaxine extended-release tablets without talking first with their healthcare professional.
 Patients should be aware that discontinuation effects may occur when stopping desvenlafaxine extended-release tablets, and a dose of 25 mg per day is available for discontinuing therapy [see WARNINGS AND PRECAUTIONS (5.7) and ADVERSE REACTIONS (6.1)].
@@ -81,4 +81,4 @@ Goa - 403 722
 
 INDIA.
 
-Revised: April 2022 ID#: 269498
+Revised: September 2023 ID#: 274584

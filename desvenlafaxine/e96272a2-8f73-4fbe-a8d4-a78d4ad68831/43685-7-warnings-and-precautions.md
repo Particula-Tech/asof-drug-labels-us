@@ -8,9 +8,7 @@ There has been a long-standing concern, however, that antidepressants may have a
 Pooled analyses of short-term placebo-controlled studies of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
-The pooled analyses of placebo-controlled studies in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24
-
-short-term studies of 9 antidepressant drugs in over 4,400 patients.
+The pooled analyses of placebo-controlled studies in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term studies of 9 antidepressant drugs in over 4,400 patients.
 The pooled analyses of placebo-controlled studies in adults with MDD or other psychiatric disorders included a total of 295 short-term studies (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
@@ -59,7 +57,7 @@ It should be noted that desvenlafaxine is not approved for use in treating bipol
 ## 5.2 Serotonin Syndrome
 
 Serotonin-norepinephrine reuptake inhibitors (SNRIs) and selective-serotonin reuptake inhibitors (SSRIs), including desvenlafaxine, can precipitate serotonin syndrome, a potentially life-threatening condition.
-The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see CONTRAINDICATIONS (4), DRUG INTERACTIONS (7.1)].
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, meperidine, methadone, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see CONTRAINDICATIONS (4), DRUG INTERACTIONS (7.1)].
 Serotonin syndrome can also occur when these drugs are used alone.
 
 Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -88,8 +86,9 @@ For patients who experience a sustained increase in blood pressure while receivi
 Drugs that interfere with serotonin reuptake inhibition, including desvenlafaxine, may increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Based on data from the published observational studies, exposure to SNRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see USE IN SPECIFIC POPULATIONS (8.1)].
 Bleeding events related to SSRIs and SNRIs have ranged from ecchymosis, hematoma, epistaxis, and petechiae to life- threatening hemorrhages.
-Inform patients about the risk of bleeding associated with the concomitant use of desvenlafaxine and antiplatelet agents or anticoagulants.
+Inform patients about the increased risk of bleeding associated with the concomitant use of desvenlafaxine and antiplatelet agents or anticoagulants.
 For patients taking warfarin, carefully monitor coagulation indices when initiating, titrating, or discontinuing desvenlafaxine.
 
 ## 5.5 Angle Closure Glaucoma
