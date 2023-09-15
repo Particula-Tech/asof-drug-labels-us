@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA217114"
+  ],
+  "inn": "maraviroc",
+  "labeler": "i3 Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "72319-024-02",
+    "72319-025-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "maraviroc",
+      "name": "Maraviroc"
+    }
+  ],
+  "setid": "f7b9c67b-10c6-45b5-b2a8-952cd350b0b1",
+  "source": "dailymed"
+}
