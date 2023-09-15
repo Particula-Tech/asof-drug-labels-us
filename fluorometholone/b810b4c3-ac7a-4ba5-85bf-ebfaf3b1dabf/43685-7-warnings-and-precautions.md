@@ -48,7 +48,7 @@ No studies have been conducted in animals or in humans to evaluate the possibili
 
 ## Pregnancy
 
-Teratogenic effects
+## Teratogenic effects
 
 Fluorometholone has been shown to be embryocidal and teratogenic in rabbits when administered at low multiples of the human ocular dose.
 Fluorometholone was applied ocularly to rabbits daily on days 6-18 of gestation, and dose-related fetal loss and fetal abnormalities including cleft palate, deformed rib cage, anomalous limbs and neural abnormalities such as encephalocele, craniorachischisis, and spina bifida were observed.
