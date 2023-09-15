@@ -11,7 +11,7 @@ ELIGARD is supplied as a pre-connected syringe system comprised of two prefilled
 Immediately prior to administration, the contents of the pre-connected syringe system are mixed until homogenous.
 ELIGARD is administered subcutaneously, where it forms a solid drug delivery depot.
 
-Syringe A contains the in situ polymeric extended release technology consisting of a biodegradable poly (DL-lactide-co-glycolide) (PLG) polymer formulation dissolved in a biocompatible solvent, N-methyl-2-pyrrolidone (NMP) and syringe B contains leuprolide acetate.
+Syringe A contains the in situ polymeric extended release technology consisting of a biodegradable poly (DL-lactide-co-glycolide) (PLGH or PLG) polymer formulation dissolved in a biocompatible solvent, N-methyl-2-pyrrolidone (NMP) and syringe B contains leuprolide acetate.
 
 Refer to Table 5 for the delivery system composition and reconstituted product formulation for each ELIGARD product.
 

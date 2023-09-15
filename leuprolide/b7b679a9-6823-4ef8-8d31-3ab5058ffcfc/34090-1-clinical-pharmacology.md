@@ -2,75 +2,41 @@
 
 ## 12.1 Mechanism of Action
 
-Leuprolide acetate, a gonadotropin releasing hormone (GnRH) agonist, acts as a potent inhibitor of gonadotropin secretion when given continuously in therapeutic doses.
+Leuprolide acetate, a gonadotropin releasing hormone (GnRH) agonist, acts as an inhibitor of gonadotropin secretion when given continuously in therapeutic doses.
 Animal and human studies indicate that after an initial stimulation, chronic administration of leuprolide acetate results in suppression of testicular and ovarian steroidogenesis.
 This effect is reversible upon discontinuation of drug therapy.
 
-In humans, administration of leuprolide acetate results in an initial increase in circulating levels of luteinizing hormone (LH) and follicle stimulating hormone (FSH), leading to a transient increase in levels of the gonadal steroids (testosterone and dihydrotestosterone in males, and estrone and estradiol in premenopausal females).
-However, continuous administration of leuprolide acetate results in decreased levels of LH and FSH.
-In males, testosterone is reduced to below castrate threshold (≤50 ng/dL).
-These decreases occur within two to four weeks after initiation of treatment.
-Long-term studies have shown that continuation of therapy with leuprolide acetate maintains testosterone below the castrate level for up to seven years.
-
 ## 12.2 Pharmacodynamics
 
-Following the first dose of ELIGARD, mean serum testosterone concentrations transiently increased, then fell to below castrate threshold (< 50 ng/dL) within three weeks for all ELIGARD concentrations.
+Following initial administration, ELIGARD causes an initial increase in serum luteinizing hormone (LH) and follicle stimulating hormone (FSH) levels with subsequent increases in serum levels of testosterone.
+Administration of ELIGARD leads to sustained suppression of pituitary gonadotropins, and serum levels of testosterone consequently fall into the range normally seen in surgically castrated men approximately 21 days after initiation of therapy.
+Continuation of therapy with leuprolide acetate in patients with prostate cancer maintained testosterone below the castrate level for up to five years.
 
-Continued monthly treatment with ELIGARD 7.5 mg maintained castrate testosterone suppression throughout the study.
-No breakthrough of testosterone concentrations above castrate threshold (> 50 ng/dL) occurred at any time during the study once castrate suppression was achieved (Figure 1).
-
-One patient received less than a full dose of ELIGARD 22.5 mg at baseline, never suppressed and withdrew from the study at Day 73.
-Of the 116 patients remaining in the study, 115 (99%) had serum testosterone levels below the castrate threshold by Month 1 (Day 28).
-By Day 35, 116 (100%) had serum testosterone levels below the castrate threshold.
-Once testosterone suppression was achieved, one patient (< 1%) demonstrated breakthrough (concentrations > 50 ng/dL after achieving castrate levels) following the initial injection; that patient remained below the castrate threshold following the second injection (Figure 2).
-
-One patient withdrew from the ELIGARD 30 mg study at Day 14.
-Of the 89 patients remaining in the study, 85 (96%) had serum testosterone levels below the castrate threshold by Month 1 (Day 28).
-By Day 42, 89 (100%) of patients attained castrate testosterone suppression.
-Once castrate testosterone suppression was achieved, three patients (3%) demonstrated breakthrough (concentrations > 50 ng/dL after achieving castrate levels) (Figure 3).
-
-Leuprolide acetate is not active when given orally.
+Following the first dose of ELIGARD, mean serum testosterone concentrations transiently increased, then fell to below castrate threshold (< 50 ng/dL) within three weeks, and generally remained below castrate threshold levels throughout treatment for all ELIGARD concentrations.
+Mean serum testosterone concentrations fell to < 20 ng/dL within five weeks for all ELIGARD concentrations.
 
 ## 12.3 Pharmacokinetics
 
-Absorption
+Absorption ELIGARD 7.5 mg Following a single injection of ELIGARD 7.5 mg for 1-month administration in patients, the mean peak plasma concentration was 25.3 ng/mL (Cmax) at 5 hours;at the end of the 4 week dosing interval the mean concentration declined to 0.42 ng/mL.
 
-ELIGARD 7.5 mg The pharmacokinetics/pharmacodynamics observed during three once-monthly injections in 20 patients with advanced prostate cancer is shown in Figure 1.
-Mean serum leuprolide concentrations following the initial injection rose to 25.3 ng/mL (Cmax) at approximately 5 hours after injection.
-After the initial increase following each injection, serum concentrations remained relatively constant (0.28 – 2.00 ng/mL).
+ELIGARD 22.5 mg Following a single injection of ELIGARD 22.5 mg for 3-month administration in patients, the mean peak plasma concentration was 127 ng/mL (Cmax) at 5 hours; at the end of the 12 week dosing interval the mean concentration declined to 0.34 ng/mL.
 
-Figure 1.
-Pharmacokinetic/Pharmacodynamic Response (N=20) to ELIGARD 7.5 mg – Patients Dosed Initially and at Months 1 and 2
-
-A reduced number of sampling time points resulted in the apparent decrease in Cmax values with the second and third doses of ELIGARD 7.5 mg (Figure 1).
-
-ELIGARD 22.5 mg The pharmacokinetics/pharmacodynamics observed during two injections every three months (ELIGARD 22.5 mg) in 22 patients with advanced prostate cancer is shown in Figure 2.
-Mean serum leuprolide concentrations rose to 127 ng/mL and 107 ng/mL at approximately 5 hours following the initial and second injections, respectively.
-After the initial increase following each injection, serum concentrations remained relatively constant (0.2 – 2.0 ng/mL).
-
-Figure 2.
-Pharmacokinetic/Pharmacodynamic Response (N=22) to ELIGARD 22.5 mg – Patients Dosed Initially and at Month 3
-
-ELIGARD 30 mg The pharmacokinetics/pharmacodynamics observed during injections administered initially and at four months (ELIGARD 30 mg) in 24 patients with advanced prostate cancer is shown in Figure 3.
-Mean serum leuprolide concentrations following the initial injection rose rapidly to 150 ng/mL (Cmax) at approximately 3.3 hours after injection.
-After the initial increase following each injection, mean serum concentrations remained relatively constant (0.1 – 1.0 ng/mL).
-
-Figure 3.
-Pharmacokinetic/Pharmacodynamic Response (N=24) to ELIGARD 30 mg - Patients Dosed Initially and at Month 4
+ELIGARD 30 mg Following a single injection of ELIGARD 30 mg for 4-month administration in patients, the mean peak plasma concentration was 150 ng/mL (Cmax) at 3.3 hours; at the end of the 16 week dosing interval the mean concentration declined to 0.1 ng/mL.
 
 There was no evidence of significant accumulation during repeated dosing.
-Non-detectable leuprolide plasma concentrations have been occasionally observed during ELIGARD administration, but testosterone levels were maintained at castrate levels.
 
 Distribution The mean steady-state volume of distribution of leuprolide following intravenous bolus administration to healthy male volunteers was 27 L. In vitro binding to human plasma proteins ranged from 43% to 49%.
 
-Elimination In healthy male volunteers, a 1-mg bolus of leuprolide administered intravenously revealed that the mean systemic clearance was 8.34 L/h, with a terminal elimination half-life of approximately 3 hours based on a two compartment model.
+Elimination After the initial increase following each subcutaneous injection, serum concentration range was 0.1 – 2.00 ng/mL.
 
-Metabolism Upon administration with different leuprolide acetate formulations, the major metabolite of leuprolide acetate is a pentapeptide (M-1) metabolite.
+In healthy male volunteers, a 1-mg bolus of leuprolide administered intravenously revealed that the mean systemic clearance was 8.34 L/h, with a terminal elimination half-life of approximately 3 hours based on a two compartment model.
 
-Specific Populations
+Metabolism No drug metabolism study was conducted with ELIGARD.
+Upon administration with different leuprolide acetate formulations, the major metabolite of leuprolide acetate is a pentapeptide (M-1) metabolite.
 
-Geriatrics.
-[see USE IN SPECIAL POPULATIONS (8.5)]
+Excretion No drug excretion study was conducted with ELIGARD.
+
+Specific Populations Geriatrics [see Use in Specific Populations (8.5)]
 
 Race In patients studied, mean serum leuprolide concentrations were similar regardless of race.
 Refer to Table 6 for distribution of study patients by race.
@@ -84,4 +50,4 @@ Race Characterization of ELIGARD Study Patients
 | Black | - | 4 | 4 |
 | Hispanic | 2 | 2 | 2 |
 
-Renal and Hepatic Impairment The pharmacokinetics of ELIGARD in hepatically and renally impaired patients have not been determined.
+Renal and Hepatic Insufficiency The pharmacokinetics of ELIGARD in hepatically and renally impaired patients have not been determined.

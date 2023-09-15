@@ -4,6 +4,7 @@ ELIGARD is an injectable suspension of leuprolide acetate available in a pre-con
 The pre-connected syringe system consists of syringe A and syringe B connected using a coupling device.
 Syringe A contains the in situ polymeric extended release technology and the syringe B contains leuprolide acetate powder.
 When reconstituted, ELIGARD is administered as a single dose.
+Refer to Table 10 for details of the description of the dosage form before and after mixing [see How Supplied (16.1)].
 
 Table 2.
 Specifications for ELIGARD Sterile Safety Needle and Cap

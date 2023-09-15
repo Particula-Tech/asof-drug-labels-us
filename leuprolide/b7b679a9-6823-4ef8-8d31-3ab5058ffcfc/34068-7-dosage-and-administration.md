@@ -18,7 +18,7 @@ The specific injection location should be an area with sufficient soft or loose 
 In clinical trials, the injections were administered in the upper- or mid-abdominal area.
 Avoid areas with brawny or fibrous subcutaneous tissue or locations that could be rubbed or compressed (i.e., with a belt or clothing waistband).
 
-## 2.2 Mixing Procedure
+## 2.2 Preparation Instructions
 
 Use aseptic technique throughout the procedure.
 As with other similar agents, the use of gloves is recommended during mixing and administration.1 Allow the product to reach room temperature before mixing.
@@ -45,9 +45,9 @@ Note: Should the needle hub appear to be damaged, or leak, the product should NO
 The damaged safety needle and cap should NOT be replaced and the product should NOT be injected.
 In the event of damage to the needle hub, use a new replacement ELIGARD carton.
 
-## 2.3 Administration Procedure
+## 2.3 Administration Instructions
 
 | 1. Select an injection site on the abdomen, upper buttocks, or another location with adequate amounts of subcutaneous tissue that does not have excessive pigment, nodules, lesions, or hair and hasn’t recently been used.2. Cleanse the injection-site area with an alcohol swab (not enclosed).3. Using the thumb and forefinger, grab and bunch the area of skin around the injection site. |  |
 | --- | --- |
-| 4. Using your dominant hand, insert the needle quickly at a 90° angle to the skin surface. The depth of penetration will depend on the amount and fullness of the subcutaneous tissue and the length of the needle. After the needle is inserted, release the skin.5. Inject the drug using a slow, steady push and press down on the plunger until the syringe is empty.Make sure all the drug has been injected before removing the needle.6. Withdraw the needle quickly at the same 90° angle used for insertion. |  |
+| 4. Using your dominant hand, insert the needle quickly at a 90° angle to the skin surface. The depth of penetration will depend on the amount and fullness of the subcutaneous tissue and the length of the needle. After the needle is inserted, release the skin. 5. Inject the drug using a slow, steady push and press down on the plunger until the syringe is empty.Make sure all the drug has been injected before removing the needle.6. Withdraw the needle quickly at the same 90° angle used for insertion. |  |
 | 7. Immediately following the withdrawal of the needle, activate the safety shield using a finger/thumb or flat surface and push until it completely covers the needle tip and locks into place.8. An audible and tactile “click” verifies a locked position.9. Check to confirm the safety shield is fully engaged. Discard all components safely in an appropriate biohazard container. |  |

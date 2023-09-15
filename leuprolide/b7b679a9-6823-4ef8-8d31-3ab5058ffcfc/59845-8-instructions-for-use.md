@@ -24,5 +24,5 @@ Follow the detailed instructions below to ensure correct administration of ELIGA
 
 ©2023 Tolmar
 
-Manufactured by: Tolmar, Fort Collins, CO 80526 04006171 Rev.
-0 XX/XX
+Manufactured by: Tolmar, Fort Collins, CO 80526 04006512 Rev.
+0 07/23

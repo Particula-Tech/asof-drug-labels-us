@@ -1,12 +1,20 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
+How Supplied
 
-ELIGARD is available in a single-dose two syringe-mixing system with a sterile safety needle and cap in the following strengths:
+ELIGARD is supplied as a single-dose two syringe-mixing system with a sterile safety needle and cap.
+ELIGARD is available as follows (Table 10):
 
-ELIGARD 7.5 mg – NDC 62935-756-80 ELIGARD 22.5 mg – NDC 62935-227-10 ELIGARD 30 mg – NDC 62935-306-40
+Table 10.
+ELIGARD Product Presentations
 
-## 16.2 Storage
+| ELIGARD strength | NDC number | Description of Syringe A with the delivery system | Description of Syringe B with leuprolide acetate | Description of the suspension after mixing |
+| --- | --- | --- | --- | --- |
+| 7.5 mg | 62935-756-80 | Light tan to tan, clear, viscous solution | White to off white powder | Light tan to tan |
+| 22.5 mg | 62935-227-10 | Colorless to pale yellow, clear viscous solution | White to off white powder | Colorless to pale yellow |
+| 30 mg | 62935-306-40 | Colorless to pale yellow, clear viscous solution | White to off white powder | Colorless to pale yellow |
+
+Storage
 
 Store at 2°C to 8°C (36°F to 46°F)
 

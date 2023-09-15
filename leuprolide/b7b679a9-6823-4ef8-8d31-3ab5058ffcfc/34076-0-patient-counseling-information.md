@@ -33,11 +33,7 @@ Infertility
 
 - Inform patients that ELIGARD may cause infertility [see Use In Specific Populations (8.3)].
 
-Rx only
-
-Revised xx/xxxx
-
 Manufactured by: Tolmar, Fort Collins, CO 80526 ©2023 Tolmar
 
-04006171 Rev.
-0 xx/xx
+04005921 Rev.
+6 09/23

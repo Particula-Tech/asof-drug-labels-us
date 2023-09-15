@@ -1,21 +1,21 @@
 # 14 CLINICAL STUDIES
 
-One open-label, multicenter study was conducted with each ELIGARD formulation (7.5 mg, 22.5 mg and 30 mg) in patients with Jewett stage A though D prostate cancer who were treated with at least a single injection of study drug (Table 7).
-These studies evaluated the achievement and maintenance of castrate serum testosterone suppression over the duration of therapy (Figures 4-6).
+One open-label, multicenter study was conducted with each ELIGARD formulation (7.5 mg, 22.5 mg, and 30 mg) in patients with Jewett stage A though D prostate cancer who were treated with at least a single injection of study drug (Table 8).
+The efficacy outcome measure was medical castration rate, defined as achieving and maintaining serum testosterone suppression to ≤ 50 ng/dL (Figures 1-3).
 
-During the AGL9904 study using ELIGARD 7.5 mg, once testosterone suppression was achieved, no patients (0%) demonstrated breakthrough (concentration > 50 ng/dL) at any time in the study.
+During the AGL9904 study using ELIGARD 7.5 mg, once testosterone suppression below 50 ng/dL was achieved, no patients (0%) demonstrated breakthrough (concentration > 50 ng/dL) at any time in the study.
 
-During the AGL9909 study using ELIGARD 22.5 mg, once testosterone suppression was achieved, only one patient (< 1%) demonstrated breakthrough following the initial injection; that patient remained below the castrate threshold following the second injection.
+During the AGL9909 study using ELIGARD 22.5 mg, once testosterone suppression below 50 ng/dL was achieved, one patient (< 1%) demonstrated breakthrough following the initial injection; that patient remained below 50 ng/dL following the second injection.
 
-During the AGL0001 study using ELIGARD 30 mg, once testosterone suppression was achieved, three patients (3%) demonstrated breakthrough.
+During the AGL0001 study using ELIGARD 30 mg, once testosterone suppression below 50 ng/dL was achieved, three patients (3%) demonstrated breakthrough.
 In the first of these patients, a single serum testosterone concentration of 53 ng/dL was reported on the day after the second injection.
-In this patient, castrate suppression was reported for all other time points.
+In this patient, suppression below 50 ng/dL was reported for all other time points.
 In the second patient, a serum testosterone concentration of 66 ng/dL was reported immediately prior to the second injection.
 This rose to a maximum concentration of 147 ng/dL on the second day after the second injection.
-In this patient, castrate suppression was again reached on the seventh day after the second injection and was maintained thereafter.
+In this patient, suppression below 50 ng/dL was again reached on the seventh day after the second injection and was maintained thereafter.
 In the final patient, serum testosterone concentrations > 50 ng/dL were reported at 2 and at 8 hours after the second injection.
 Serum testosterone concentration rose to a maximum of 110 ng/dL on the third day after the second injection.
-In this patient, castrate suppression was again reached eighteen days after the second injection and was maintained until the final day of the study, when a single serum testosterone concentration of 55 ng/dL was reported.
+In this patient, suppression below 50 ng/dL was again reached eighteen days after the second injection and was maintained until the final day of the study, when a single serum testosterone concentration of 55 ng/dL was reported.
 
 Table 7.
 Summary of Patients in ELIGARD Clinical Studies
@@ -36,19 +36,20 @@ Summary of Patients in ELIGARD Clinical Studies
 | Day 14 | Below Baseline (Day 10) | Below Baseline | Below Baseline |  |  |
 | Day 28 | 21.8 | 27.7 (Day 21) | 17.2 |  |  |
 | Conclusion | 6.1 | 10.1 | 12.4 |  |  |
-| Number of patients below castrate threshold (≤ 50 ng/dL) |  | Day 28 | 112 of 119 (94.1%) | 115 of 116 (99%) | 85 of 89 (96%) |
+| Number of patients with testosterone ≤ 50 ng/dL |  | Day 28 | 112 of 119 (94.1%) | 115 of 116 (99%) | 85 of 89 (96%) |
 | Day 35 | ‑ | 116 (100%) | ‑ |  |  |
-| Day 42 | 119 (100%) | ‑ | 89 (100%) |  |  |
+| Day 42 | 118 (100%) | ‑ | 89 (100%) |  |  |
 | Conclusion | 1171 (100%) | 111 (100%) | 81 (99%) |  |  |
-| Two patients withdrew for reasons unrelated to drug.One patient received less than a full dose at Baseline, never suppressed, and was withdrawn at Day 73 and given an alternate treatment.All non-evaluable patients who attained castration by Day 28 maintained castration at each time point up to and including the time of withdrawal. One patient withdrew on Day 14. All 7 non-evaluable patients who had achieved castration by Day 28 maintained castration at each time point, up to and including the time of withdrawal. |  |  |  |  |  |
+| Number of patients with testosterone ≤ 20 ng/dL |  | Day 28 | 90 of 119 (76%) | 94 of 116 (81%) | 60 of 89 (67%) |
+| Two patients withdrew for reasons unrelated to drug.One patient received less than a full dose at Baseline, never attained castration, and was withdrawn at Day 73 and given an alternate treatment.All non-evaluable patients who attained castration by Day 28 maintained castration at each time point up to and including the time of withdrawal. One patient withdrew on Day 14. All 7 non-evaluable patients who had achieved castration by Day 28 maintained castration at each time point, up to and including the time of withdrawal. |  |  |  |  |  |
 
-Figure 4.
+Figure 1.
 ELIGARD 7.5 mg Mean Serum Testosterone Concentrations (n=117)
 
-Figure 5.
+Figure 2.
 ELIGARD 22.5 mg Mean Serum Testosterone Concentrations (n=111)
 
-Figure 6.
+Figure 3.
 ELIGARD 30 mg Mean Serum Testosterone Concentrations (n=90)
 
 Serum PSA decreased in all patients in all studies whose Baseline values were elevated above the normal limit.
