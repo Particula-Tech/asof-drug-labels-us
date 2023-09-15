@@ -3,9 +3,13 @@
 ## 8.1 Pregnancy
 
 Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
-Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
 
-Risk Summary Available data from published epidemiologic studies and postmarketing reports have not established an increased risk of major birth defects or miscarriage.
+Risk Summary
+
+Based on data from published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions (5.7) and Clinical Considerations].
+
+Available data from published epidemiologic studies and postmarketing reports have not established an increased risk of major birth defects or miscarriage.
 There are risks of persistent pulmonary hypertension of the newborn (PPHN) (see Data) and poor neonatal adaptation (see Clinical Considerations) with exposure to selective serotonin reuptake inhibitors (SSRIs), including escitalopram, during pregnancy.
 There are risks associated with untreated depression in pregnancy (see Clinical Considerations).
 
@@ -21,6 +25,10 @@ Disease-associated maternal risk and/or embryo/fetal risk Women who discontinue 
 This finding is from a prospective longitudinal study of 201 pregnant women with a history of major depression, who were euthymic and taking antidepressants at the beginning of pregnancy.
 Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
 
+Maternal Adverse Reactions
+
+Use of escitalopram tablets in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.7)].
+
 Fetal/Neonatal adverse reactions Neonates exposed to SSRIs or SNRIs, including escitalopram, late in third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
@@ -35,7 +43,7 @@ Maternal toxicity (clinical signs and decreased body weight gain and food consum
 The developmental no-effect dose of 56 mg/kg/day is approximately 27 times the MRHD of 20 mg on a mg/m2 basis.
 No malformations were observed at any of the doses tested (as high as 73 times the MRHD on a mg/m2 basis).
 
-When female rats were treated with escitalopram (6, 12, 24, or 48 mg/kg/day) during pregnancy and through weaning, slightly increased offspring mortality and growth retardation were notes at 48 mg/kg/day which is approximately 23 times the MRHD of 20 mg on a mg/m2 ﻿basis.
+When female rats were treated with escitalopram (6, 12, 24, or 48 mg/kg/day) during pregnancy and through weaning, slightly increased offspring mortality and growth retardation were noted at 48 mg/kg/day which is approximately 23 times the MRHD of 20 mg on a mg/m2 ﻿basis.
 Slight maternal toxicity (clinical signs and decreased body weight gain and food consumption) was seen at this dose.
 Slightly increased offspring mortality was also seen at 24 mg/kg/day.
 The no-effect dose was 12 mg/kg/day which is approximately 6 times the MRHD of 20 mg on a mg/m2 basis.
@@ -105,12 +113,12 @@ SSRIs, including escitalopram, have been associated with cases of clinically sig
 Of 4,422 patients in clinical studies of racemic citalopram, 1,357 were 60 and over, 1,034 were 65 and over, and 457 were 75 and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the geriatric and younger patients, but again, greater sensitivity of some elderly individuals cannot be ruled out.
 
-8.6 Hepatic Impairment
+## 8.6 Hepatic Impairment
 
 Increased citalopram exposure occurs in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
 The recommended dosage of escitalopram tablets in patients with hepatic impairment is 10 mg daily [see Dosage and Administration (2.5)].
 
-8.7 Renal Impairment
+## 8.7 Renal Impairment
 
 Pharmacokinetics of escitalopram in patients with a creatinine clearance less than 20 mL/minute has not been evaluated.
 No dosage adjustment is necessary for patients with mild or moderate renal impairment [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].

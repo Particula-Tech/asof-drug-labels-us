@@ -3,7 +3,7 @@
 The following have been reported with escitalopram tablet overdosage:
 
 - Seizures, which may be delayed, and altered mental status including coma.
-- Cardiovascular toxicity, which may be delayed, including QRS, and QTc interval prolongation, wide complex tachyarrhythmias, and torsade de pointes.
+- Cardiovascular toxicity, which may be delayed, including QRS and QTc interval prolongation, wide complex tachyarrhythmias, and torsade de pointes.
   Hypertension most commonly seen, but rarely can see hypotension alone or with co-ingestants including alcohol.
 - Serotonin syndrome (patients with a multiple drug overdosage with other proserotonergic drugs may have a higher risk).
 
