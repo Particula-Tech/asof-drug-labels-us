@@ -77,20 +77,20 @@ Falls with serious consequences including fractures and hospitalizations have be
 
 ## 5.4 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including duloxetine delayed-release capsules, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Serotonin-norepinephrine reuptake inhibitors (SNRIs), including duloxetine delayed-release capsules, can precipitate serotonin syndrome, a potentially life-threatening condition.
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, meperidine, methadone, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs, [see Contraindications (4), Drug Interactions (7.13)].
+Serotonin syndrome can also occur when these drugs are used alone.
 
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Patients should be monitored for the emergence of serotonin syndrome.
+Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
-The concomitant use of duloxetine delayed-release capsules with MAOI antidepressants is contraindicated.
-Duloxetine delayed-release capsules should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
-All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
-No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
-There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking duloxetine delayed-release capsules.
-Duloxetine delayed-release capsules should be discontinued before initiating treatment with the MAOI [see Dosage and Administration (2.9, 2.10) and Contraindications (4)].
+The concomitant use of duloxetine delayed-release capsules with MAOIs is contraindicated.
+In addition, do not initiate duloxetine delayed-release capsules in a patient being treated with MAOIs such as linezolid or intravenous methylene blue.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection).
+If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking duloxetine delayed-release capsules, discontinue duloxetine delayed-release capsules before initiating treatment with the MAOI [see Contraindications (4) and Drug Interactions (7.13)].
 
-If concomitant use of duloxetine delayed-release capsules with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
-Treatment with duloxetine delayed-release capsules and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Monitor all patients taking duloxetine delayed-release capsules for the emergence of serotonin syndrome.
+Discontinue treatment with duloxetine delayed-release capsules and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
+If concomitant use of duloxetine delayed-release capsules with other serotonergic drugs is clinically warranted, inform patients of the increased risk for serotonin syndrome and monitor for symptoms.
 
 ## 5.5 Increased Risk of Bleeding
 
@@ -100,11 +100,11 @@ A post-marketing study showed a higher incidence of postpartum hemorrhage in mot
 Other bleeding events related to SSRI and SNRI use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), warfarin, and other anti-coagulants may add to this risk.
 
-Inform patients about the risk of bleeding associated with the concomitant use of duloxetine delayed-release capsules and NSAIDs, aspirin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
+Inform patients about the risk of increased bleeding associated with the concomitant use of duloxetine delayed-release capsules and NSAIDs, aspirin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
 
 ## 5.6 Severe Skin Reactions
 
-Severe skin reactions, including erythema multiforme and Stevens-Johnson syndrome (SJS), can occur with duloxetine delayed-release capsules.
+Severe skin reactions, including erythema multiforme and Stevens-Johnson Syndrome (SJS), can occur with duloxetine delayed-release capsules.
 The reporting rate of SJS associated with duloxetine delayed-release capsules use exceeds the general population background incidence rate for this serious skin reaction (1 to 2 cases per million person years).
 The reporting rate is generally accepted to be an underestimate due to underreporting.
 Duloxetine delayed-release capsules should be discontinued at the first appearance of blisters, peeling rash, mucosal erosions, or any other sign of hypersensitivity if no other etiology can be identified.
@@ -188,10 +188,7 @@ Severe Renal Impairment
 
 Avoid use in patients with severe renal impairment, GFR <30 mL/minute.
 Increased plasma concentration of duloxetine delayed-release capsules, and especially of its metabolites, occurred in patients with end-stage renal disease (requiring dialysis) [see Dosage and Administration (2.7) and Use in Specific Populations (8.10)].
-
-Glycemic Control in Patients with Diabetes
-
-As observed in DPNP trials, duloxetine delayed-release capsules treatment worsened glycemic control in some patients with diabetes.
+Glycemic Control in Patients with Diabetes As observed in DPNP trials, duloxetine delayed-release capsules treatment worsened glycemic control in some patients with diabetes.
 In three clinical trials of duloxetine delayed-release capsules for the management of neuropathic pain associated with diabetic peripheral neuropathy [see Clinical Studies (14.4)], the mean duration of diabetes was approximately 12 years, the mean baseline fasting blood glucose was 176 mg/dL, and the mean baseline hemoglobin A1c (HbA1c) was 7.8%.
 In the 12-week acute treatment phase of these studies, duloxetine delayed-release capsules were associated with a small increase in mean fasting blood glucose as compared to placebo.
 In the extension phase of these studies, which lasted up to 52 weeks, mean fasting blood glucose increased by 12 mg/dL in the duloxetine delayed-release capsules group and decreased by 11.5 mg/dL in the routine care group.

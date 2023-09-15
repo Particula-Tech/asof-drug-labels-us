@@ -2,9 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
-
-Data from a postmarketing retrospective cohort study indicate that use of duloxetine in the month before delivery may be associated with an increased risk of postpartum hemorrhage.
+Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors the pregnancy outcomes in women exposed to antidepressants, including duloxetine delayed release capsules, during pregnancy.
+Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Antidepressants at 1-866-961-2388 or online at https://womensmentalhealth.org/research/pregnancyregistry/.
+Risk Summary Data from a postmarketing retrospective cohort study indicate that use of duloxetine in the month before delivery may be associated with an increased risk of postpartum hemorrhage.
 Data from published literature and from a postmarketing retrospective cohort study have not identified a clear drug-associated risk of major birth defects or other adverse developmental outcomes (see Data).
 There are risks associated with untreated depression and fibromyalgia in pregnancy, and with exposure to SNRIs and SSRIs, including duloxetine delayed-release capsules, during pregnancy (see Clinical Considerations).
 
@@ -30,7 +30,7 @@ It is not known if these adverse maternal and fetal outcomes are a direct result
 
 Maternal Adverse Reactions
 
-Use of duloxetine in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.5)].
+Use of duloxetine delayed-release capsules in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.5)].
 
 Fetal/Neonatal Adverse Reaction
 

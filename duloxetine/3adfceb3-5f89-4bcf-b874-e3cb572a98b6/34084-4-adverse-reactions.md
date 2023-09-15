@@ -84,7 +84,7 @@ Table 2: Adverse Reactions: Incidence of 5% or More and Greater than Placebo in 
 
 | Adverse Reaction | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| Duloxetine Delayed-Release Capsules (N=8100) | Placebo (N-5655) |  |
+| Duloxetine Delayed-Release Capsules (N=8100) | Placebo (N=5655) |  |
 | Nauseac | 23 | 8 |
 | Headache | 14 | 12 |
 | Dry mouth | 13 | 5 |

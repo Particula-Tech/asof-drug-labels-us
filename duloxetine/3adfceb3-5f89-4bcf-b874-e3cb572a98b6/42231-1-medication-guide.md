@@ -102,7 +102,10 @@ Before starting duloxetine delayed-release capsules, tell your healthcare provid
 - are pregnant or plan to become pregnant.
   Duloxetine delayed-release capsules may harm your unborn baby.
   Talk to your healthcare provider about the risk to your unborn baby if you take duloxetine delayed-release capsules during pregnancy.
-- Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with duloxetine delayed-release capsules.
+  - Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with duloxetine delayed-release capsules.
+  - There is a pregnancy registry for females who are exposed to duloxetine delayed-release capsules during pregnancy.
+    The purpose of the registry is to collect information about the health of females exposed to duloxetine delayed-release capsules and their baby.
+    If you become pregnant during treatment with duloxetine delayed-release capsules, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants at 1-866-961-2388 or visit online at https://womensmentalhealth.org/research/pregnancyregistry/.
 - are breastfeeding or plan to breastfeed.
   Duloxetine passes into your breast milk and may harm your baby.
   Talk to your healthcare provider about the best way to feed your baby while taking duloxetine delayed-release capsules.
@@ -114,7 +117,7 @@ Especially tell your healthcare provider if you take:
 
 - triptans used to treat migraine headache
 - medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs or MAOIs
-- tramadol and fentanyl
+- tramadol, fentanyl, meperidine, methadone, or other opioids
 - amphetamines
 - cimetidine
 - the antibiotics ciprofloxacin, enoxacin
@@ -136,7 +139,7 @@ How should I take duloxetine delayed-release capsules?
 - Swallow duloxetine delayed-release capsules whole.
   Do not chew or crush duloxetine delayed-release capsules.
 - Do not open the capsule and sprinkle on food or mix with liquids.
-  Opening the capsule may affect how well duloxetine delayed-release capsules works.
+  Opening the capsule may affect how well duloxetine delayed-release capsules work.
 - Duloxetine delayed-release capsules may be taken with or without food.
 - If you miss a dose of duloxetine delayed-release capsules, take the missed dose as soon as you remember.
   If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
@@ -318,4 +321,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Coumadin, Jantoven, and Mellaril are trademarks of their respective owners and not trademarks of Aurobindo Pharma Limited.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 05/2023
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 09/2023

@@ -12,9 +12,7 @@ Duloxetine does not inhibit monoamine oxidase (MAO).
 
 Duloxetine delayed-release capsules are in a class of drugs known to affect urethral resistance [see Warnings and Precautions (5.15)].
 
-Cardiac Electrophysiology
-
-The effect of duloxetine delayed-release capsules 160 mg and 200 mg administered twice daily (2.7 and 3.3 times the maximum recommended dosage, respectively) to steady state was evaluated in a randomized, double-blinded, two-way crossover study in 117 healthy female adult subjects.
+Cardiac Electrophysiology The effect of duloxetine delayed-release capsules 160 mg and 200 mg administered twice daily (2.7 and 3.3 times the maximum recommended dosage, respectively) to steady state was evaluated in a randomized, double-blinded, two-way crossover study in 117 healthy female adult subjects.
 No QT interval prolongation was detected.
 Duloxetine delayed-release capsules appears to be associated with concentration-dependent but not clinically meaningful QT shortening.
 
@@ -38,11 +36,7 @@ The apparent volume of distribution averages about 1640 L. Duloxetine is highly 
 The interaction between duloxetine and other highly protein bound drugs has not been fully evaluated.
 Plasma protein binding of duloxetine is not affected by renal or hepatic impairment.
 
-Elimination
-
-Metabolism
-
-Biotransformation and disposition of duloxetine in humans have been determined following oral administration of 14C-labeled duloxetine.
+Elimination Metabolism Biotransformation and disposition of duloxetine in humans have been determined following oral administration of 14C-labeled duloxetine.
 Duloxetine comprises about 3% of the total radiolabeled material in the plasma, indicating that it undergoes extensive metabolism to numerous metabolites.
 The major biotransformation pathways for duloxetine involve oxidation of the naphthyl ring followed by conjugation and further oxidation.
 Both CYP1A2 and CYP2D6 catalyze the oxidation of the naphthyl ring in vitro.
