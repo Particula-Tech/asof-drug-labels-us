@@ -167,7 +167,7 @@ Before starting fluoxetine capsules, tell your healthcare provider if you:
   - Triptans used to treat migraine headache
   - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics
   - Amphetamines
-  - Tramadol and fentanyl
+  - Tramadol, fentanyl, meperidine, methadone, or other opioids
   - Over-the-counter supplements such as tryptophan or St. John’s Wort
   - Electroconvulsive therapy (ECT)
 - have liver problems
@@ -296,8 +296,8 @@ Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc.
 Zyprexa® is a registered trademark of Eli Lilly and Company.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
 
 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India
 
-Revised: 07/2022
+Revised: 09/2023

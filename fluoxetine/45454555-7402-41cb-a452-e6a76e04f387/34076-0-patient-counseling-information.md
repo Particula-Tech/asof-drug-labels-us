@@ -26,7 +26,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of fluoxetine and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.3)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of fluoxetine and other serotonergic agents including triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, and St. John’s Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.3)].
 
 Patients should be advised of the signs and symptoms associated with serotonin syndrome that may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be cautioned to seek medical care immediately if they experience these symptoms.
@@ -36,8 +36,7 @@ Allergic Reactions and Rash
 Patients should be advised to notify their healthcare provider if they develop a rash or hives [see Warnings and Precautions (5.3)].
 Patients should also be advised of the signs and symptoms associated with a severe allergic reaction, including swelling of the face, eyes, or mouth, or have trouble breathing.
 Patients should be cautioned to seek medical care immediately if they experience these symptoms.
-
-Abnormal Bleeding
+Increased Risk of Bleeding
 
 Patients should be cautioned about the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents have been associated with an increased risk of bleeding [see Warnings and Precautions (5.7) and Drug Interactions (7.4)].
 Patients should be advised to call their healthcare provider if they experience any increased or unusual bruising or bleeding while taking fluoxetine.
@@ -94,5 +93,4 @@ Height and weight should be monitored periodically in pediatric patients receivi
 Pediatric Use of fluoxetine and olanzapine in combination – Safety and efficacy of fluoxetine and olanzapine in combination in patients 10 to 17 years of age have been established for the acute treatment of depressive episodes associated with Bipolar I Disorder [see Warnings and Precautions (5.16) and Use in Specific Populations (8.4)].
 
 Symbyax® and Sarafem® are registered trademarks of Eli Lilly.
-
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 07/2022 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 09/2023 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
