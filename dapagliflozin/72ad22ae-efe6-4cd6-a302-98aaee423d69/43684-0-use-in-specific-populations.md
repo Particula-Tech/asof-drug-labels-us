@@ -38,7 +38,7 @@ These outcomes occurred with drug exposure during periods of renal development i
 
 In embryofetal development studies in rats and rabbits, dapagliflozin was administered throughout organogenesis, corresponding to the first trimester of human pregnancy.
 In rats, dapagliflozin was neither embryolethal nor teratogenic at doses up to 75 mg/kg/day (1441-times the 10 mg clinical dose, based on AUC).
-Dose related effects on the rat fetus (structural abnormalities and reduced body weight) occurred only at higher dosages, equal to or greater than 150 mg/kg (more than 2344-times the 10 mg clinical dose, based on AUC), which were associated with maternal toxicity.
+Dose-related effects on the rat fetus (structural abnormalities and reduced body weight) occurred only at higher dosages, equal to or greater than 150 mg/kg (more than 2344-times the 10 mg clinical dose, based on AUC), which were associated with maternal toxicity.
 No developmental toxicities were observed in rabbits at doses up to 180 mg/kg/day (1191-times the 10 mg clinical dose, based on AUC).
 
 ## 8.2 Lactation
@@ -47,7 +47,7 @@ Risk Summary
 
 There is no information regarding the presence of dapagliflozin in human milk, the effects on the breastfed infant, or the effects on milk production.
 Dapagliflozin is present in the milk of lactating rats (see Data).
-However, due to species-specific differences in lactation physiology, the clinical relevance of these data are not clear.
+However, due to species-specific differences in lactation physiology, the clinical relevance of these data is not clear.
 Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
 
 Because of the potential for serious adverse reactions in breastfed infants, advise women that use of FARXIGA is not recommended while breastfeeding.

@@ -4,7 +4,8 @@
 
 Assess renal function prior to initiation of FARXIGA therapy and then as clinically indicated [see Warnings and Precautions (5.2)].
 
-Assess volume status and, if necessary, correct volume depletion prior to initiation of FARXIGA [see Warnings and Precautions (5.2) and Use in Specific Populations (8.5, 8.6)].
+Assess volume status.
+In patients with volume depletion, correct this condition before initiating FARXIGA [see Warnings and Precautions (5.2) and Use in Specific Populations (8.5, 8.6)].
 
 ## 2.2 Recommended Dosage
 
@@ -18,3 +19,8 @@ Table 1: Recommended Dosage
 | eGFR 25 to less than 45 | 10 mg orally once daily. |
 | eGFR less than 25 | Initiation is not recommended; however, patients may continue 10 mg orally once daily to reduce the risk of eGFR decline, ESKD, CV death and hHF. |
 | hHF: hospitalization for heart failure, CV: Cardiovascular, ESKD: End Stage Kidney Disease |  |
+
+## 2.3 Temporary Interruption for Surgery
+
+Withhold FARXIGA for at least 3 days, if possible, prior to major surgery or procedures associated with prolonged fasting.
+Resume FARXIGA when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.2)].

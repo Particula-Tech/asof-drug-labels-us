@@ -41,7 +41,7 @@ In 1 study, 638 patients randomized to 1 of 3 treatment arms following a 1-week 
 Metformin XR dose was up-titrated weekly in 500 mg increments, as tolerated, with a median dose achieved of 2000 mg.
 
 The combination treatment of FARXIGA 10 mg plus metformin XR provided statistically significant improvements in HbA1c and FPG compared with either of the monotherapy treatments and statistically significant reduction in body weight compared with metformin XR alone (see Table 9 and Figure 2).
-FARXIGA 10 mg as monotherapy also provided statistically significant improvements in FPG and statistically significant reduction in body weight compared with metformin alone and was noninferior to metformin XR monotherapy in lowering HbA1c.
+FARXIGA 10 mg as monotherapy also provided statistically significant improvements in FPG and statistically significant reduction in body weight compared with metformin alone and was non-inferior to metformin XR monotherapy in lowering HbA1c.
 
 Table 9: Results at Week 24 (LOCFLOCF: last observation (prior to rescue for rescued patients) carried forward.) in an Active-Controlled Study of FARXIGA Initial Combination Therapy with Metformin XR
 
@@ -52,7 +52,7 @@ Table 9: Results at Week 24 (LOCFLOCF: last observation (prior to rescue for res
 | Baseline (mean) | 9.1 | 9.0 | 9.0 |
 | Change from baseline (adjusted meanLeast squares mean adjusted for baseline value.) | −2.0 | −1.5 | −1.4 |
 | Difference from FARXIGA (adjusted mean) (95% CI) | −0.5p-value <0.0001. (−0.7, −0.3) |  |  |
-| Difference from metformin XR (adjusted mean) (95% CI) | −0.5 (−0.8, −0.3) | 0.0Noninferior versus metformin XR. (−0.2, 0.2) |  |
+| Difference from metformin XR (adjusted mean) (95% CI) | −0.5 (−0.8, −0.3) | 0.0Non-inferior versus metformin XR. (−0.2, 0.2) |  |
 | Percent of patients achieving HbA1c <7% adjusted for baseline | 46.6%p-value <0.05. | 31.7% | 35.2% |
 | FPG (mg/dL) |  |  |  |
 | Baseline (mean) | 189.6 | 197.5 | 189.9 |
@@ -125,12 +125,12 @@ Figure 3: Adjusted Mean Change from Baseline Over Time in HbA1c (%) in a 24-Week
 
 ### Active Glipizide-Controlled Study Add-On to Metformin
 
-A total of 816 patients with type 2 diabetes mellitus with inadequate glycemic control (HbA1c >6.5% and ≤10%) were randomized in a 52-week, glipizide-controlled, noninferiority study to evaluate FARXIGA as add-on therapy to metformin (NCT00660907).
+A total of 816 patients with type 2 diabetes mellitus with inadequate glycemic control (HbA1c >6.5% and ≤10%) were randomized in a 52-week, glipizide-controlled, non-inferiority study to evaluate FARXIGA as add-on therapy to metformin (NCT00660907).
 Patients on metformin at a dose of at least 1500 mg per day were randomized following a 2-week placebo lead-in period to glipizide or dapagliflozin (5 mg or 2.5 mg, respectively) and were up-titrated over 18 weeks to optimal glycemic effect (FPG <110 mg/dL, <6.1 mmol/L) or to the highest dose level (up to glipizide 20 mg and FARXIGA 10 mg) as tolerated by patients.
 Thereafter, doses were kept constant, except for down-titration to prevent hypoglycemia.
 
 At the end of the titration period, 87% of patients treated with FARXIGA had been titrated to the maximum study dose (10 mg) versus 73% treated with glipizide (20 mg).
-FARXIGA led to a similar mean reduction in HbA1c from baseline at Week 52 (LOCF), compared with glipizide, thus demonstrating noninferiority (see Table 12).
+FARXIGA led to a similar mean reduction in HbA1c from baseline at Week 52 (LOCF), compared with glipizide, thus demonstrating non-inferiority (see Table 12).
 FARXIGA treatment led to a statistically significant mean reduction in body weight from baseline at Week 52 (LOCF) compared with a mean increase in body weight in the glipizide group.
 Statistically significant (p<0.0001) mean change from baseline in systolic blood pressure relative to glipizide plus metformin was -5.0 mmHg with FARXIGA plus metformin.
 
@@ -141,7 +141,7 @@ Table 12: Results at Week 52 (LOCFLOCF: last observation carried forward.) in an
 | HbA1c (%) |  |  |
 | Baseline (mean) | 7.7 | 7.7 |
 | Change from baseline (adjusted meanLeast squares mean adjusted for baseline value.) | -0.5 | -0.5 |
-| Difference from glipizide + metformin (adjusted mean) (95% CI) | 0.0Noninferior to glipizide + metformin. (-0.1, 0.1) |  |
+| Difference from glipizide + metformin (adjusted mean) (95% CI) | 0.0Non-inferior to glipizide + metformin. (-0.1, 0.1) |  |
 | Body Weight (kg) |  |  |
 | Baseline (mean) | 88.4 | 87.6 |
 | Change from baseline (adjusted mean) | -3.2 | 1.4 |
@@ -186,7 +186,7 @@ Endpoints were tested for FARXIGA 10 mg versus placebo for the total study group
 Thirty-seven percent (37%) of patients were drug naive, 32% were on metformin alone, 13% were on a DPP4 inhibitor alone, and 18% were on a DPP4 inhibitor plus metformin.
 Dose titration of FARXIGA, sitagliptin, or metformin was not permitted during the study.
 
-In combination with sitagliptin (with or without metformin), FARXIGA 10 mg provided statistically significant improvements in HbA1c, FPG, and a statistically significant reduction in body weight compared with the placebo plus sitagliptin (with or without metformin) group at Week 24 (see Table 12).
+In combination with sitagliptin (with or without metformin), FARXIGA 10 mg provided statistically significant improvements in HbA1c, FPG, and a statistically significant reduction in body weight compared with the placebo plus sitagliptin (with or without metformin) group at Week 24 (see Table 13).
 These improvements were also seen in the stratum of patients who received FARXIGA 10 mg plus sitagliptin alone (placebo-corrected mean change for HbA1c -0.56%; n=110) compared with placebo plus sitagliptin alone (n=111), and the stratum of patients who received FARXIGA 10 mg plus sitagliptin and metformin (placebo-corrected mean change for HbA1c -0.40; n=113) compared with placebo plus sitagliptin with metformin (n=113).
 
 #### Add-On Combination Therapy with Insulin
@@ -326,7 +326,7 @@ Concomitant antidiabetic and atherosclerotic therapies could be adjusted, at the
 Of 17160 randomized patients, 6974 (40.6%) had established CV disease and 10186 (59.4%) did not have established CV disease.
 A total of 8582 patients were randomized to FARXIGA 10 mg, 8578 to placebo, and patients were followed for a median of 4.2 years.
 
-Approximately 80% of the trial population was White, 4% Black or African-American, and 13% Asian.
+Approximately 80% of the trial population was White, 4% Black or African American, and 13% Asian.
 The mean age was 64 years, and approximately 63% were male.
 
 Mean duration of diabetes was 11.9 years and 22.4% of patients had diabetes for less than 5 years.
@@ -379,7 +379,7 @@ The primary objective was to determine whether FARXIGA reduces the incidence of 
 A total of 4304 patients were randomized equally to FARXIGA 10 mg or placebo and were followed for a median of 28.5 months.
 
 The mean age of the study population was 62 years and 67% were male.
-The population was 53% White, 4% Black or African-American, and 34% Asian; 25% were of Hispanic or Latino ethnicity.
+The population was 53% White, 4% Black or African American, and 34% Asian; 25% were of Hispanic or Latino ethnicity.
 
 At baseline, mean eGFR was 43 mL/min/1.73 m2, 44% of patients had an eGFR 30 mL/min/1.73 m2 to less than 45 mL/min/1.73 m2, and 15% of patients had an eGFR less than 30 mL/min/1.73 m2.
 Median UACR was 950 mg/g.
@@ -509,7 +509,7 @@ In DELIVER, FARXIGA reduced the total number of heart failure events (first and 
 
 In both studies, the results of the primary composite endpoint were consistent across the subgroups examined (see Figure 10).
 
-Figure 10: Treatment Effects for Primary Composite Endpoint (Cardiovascular Death and Heart Failure Events) - Subgroup Analysis
+Figure 10: Treatment Effects for Primary Composite Endpoint (Cardiovascular Death and Heart Failure Events) Subgroup Analysis
 
 A) DAPA-HF Study
 

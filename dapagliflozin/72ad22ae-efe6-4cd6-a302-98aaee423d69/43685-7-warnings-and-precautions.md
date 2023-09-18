@@ -1,28 +1,29 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Ketoacidosis in Patients with Diabetes Mellitus
+## 5.1 Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis
 
-Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in patients with type 1 and type 2 diabetes mellitus receiving sodium-glucose cotransporter 2 (SGLT2) inhibitors, including FARXIGA [see Adverse Reactions (6.1)].
-In placebo-controlled trials of patients with type 1 diabetes mellitus, the risk of ketoacidosis was increased in patients who received SGLT2 inhibitors compared to patients who received placebo.
-Fatal cases of ketoacidosis have been reported in patients taking FARXIGA.
-FARXIGA is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1)].
+In patients with type 1 diabetes mellitus, FARXIGA significantly increases the risk of diabetic ketoacidosis, a life-threatening event, beyond the background rate.
+In placebo-controlled trials of patients with type 1 diabetes mellitus, the risk of ketoacidosis was markedly increased in patients who received sodium-glucose cotransporter 2 (SGLT2) inhibitors compared to patients who received placebo.
+FARXIGA is not indicated for glycemic control in patients with type 1 diabetes mellitus.
 
-Patients treated with FARXIGA who present with signs and symptoms consistent with severe metabolic acidosis should be assessed for ketoacidosis regardless of presenting blood glucose levels as ketoacidosis associated with FARXIGA may be present even if blood glucose levels are less than 250 mg/dL.
-If ketoacidosis is suspected, FARXIGA should be discontinued, the patient should be evaluated, and prompt treatment should be instituted.
-Treatment of ketoacidosis may require insulin, fluid, and carbohydrate replacement.
+Type 2 diabetes mellitus and pancreatic disorders (e.g., history of pancreatitis or pancreatic surgery) are also risk factors for ketoacidosis.
+There have been postmarketing reports of fatal events of ketoacidosis in patients with type 2 diabetes mellitus using SGLT2 inhibitors, including FARXIGA.
 
-In many of the postmarketing reports, and particularly in patients with type 1 diabetes, the presence of ketoacidosis was not immediately recognized, and the institution of treatment was delayed because the presenting blood glucose levels were below those typically expected for diabetic ketoacidosis (often less than 250 mg/dL).
-Signs and symptoms at presentation were consistent with dehydration and severe metabolic acidosis and included nausea, vomiting, abdominal pain, generalized malaise, and shortness of breath.
-In some but not all cases, factors predisposing to ketoacidosis, such as insulin dose reduction, acute febrile illness, reduced caloric intake, surgery, pancreatic disorders suggesting insulin deficiency (e.g., type 1 diabetes, history of pancreatitis or pancreatic surgery), and alcohol abuse were identified.
+Precipitating conditions for diabetic ketoacidosis or other ketoacidosis include under-insulinization due to insulin dose reduction or missed insulin doses, acute febrile illness, reduced caloric intake, ketogenic diet, surgery, volume depletion, and alcohol abuse.
 
-Before initiating FARXIGA, consider factors in the patient history that may predispose to ketoacidosis, including pancreatic insulin deficiency from any cause, caloric restriction, and alcohol abuse.
+Signs and symptoms are consistent with dehydration and severe metabolic acidosis and include nausea, vomiting, abdominal pain, generalized malaise, and shortness of breath.
+Blood glucose levels at presentation may be below those typically expected for diabetic ketoacidosis (e.g., less than 250 mg/dL).
+Ketoacidosis and glucosuria may persist longer than typically expected.
+Urinary glucose excretion persists for 3 days after discontinuing FARXIGA [see Clinical Pharmacology (12.2)]; however, there have been postmarketing reports of ketoacidosis and/or glucosuria lasting greater than 6 days and some up to 2 weeks after discontinuation of SGLT2 inhibitors.
 
-For patients who undergo scheduled surgery, consider temporarily discontinuing FARXIGA for at least 3 days prior to surgery [see Clinical Pharmacology (12.2, 12.3)].
+Consider ketone monitoring in patients with type 1 diabetes mellitus and consider ketone monitoring in others at risk for ketoacidosis if indicated by the clinical situation.
+Assess for ketoacidosis regardless of presenting blood glucose levels in patients who present with signs and symptoms consistent with severe metabolic acidosis.
+If ketoacidosis is suspected, discontinue FARXIGA, promptly evaluate, and treat ketoacidosis, if confirmed.Monitor patients for resolution of ketoacidosis before restarting FARXIGA.
 
-Consider monitoring for ketoacidosis and temporarily discontinuing FARXIGA in other clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or post-surgery).
-Ensure risk factors for ketoacidosis are resolved prior to restarting FARXIGA.
+Withhold FARXIGA, if possible, in temporary clinical situations that could predispose patients to ketoacidosis.
+Resume FARXIGA when the patient is clinically stable and has resumed oral intake [see Dosage and Administration (2.3)].
 
-Educate patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue FARXIGA and seek medical attention immediately if signs and symptoms occur.
+Educate all patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue FARXIGA and seek medical attention immediately if signs and symptoms occur.
 
 ## 5.2 Volume Depletion
 

@@ -2,7 +2,7 @@
 
 The following important adverse reactions are described below and elsewhere in the labeling:
 
-- •Ketoacidosis in Patients with Diabetes Mellitus [see Warnings and Precautions (5.1)]
+- •Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis [see Warnings and Precautions (5.1)]
 - •Volume Depletion [see Warnings and Precautions (5.2)]
 - •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.3)]
 - •Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.4)]
@@ -131,7 +131,7 @@ If hypersensitivity reactions occur, discontinue use of FARXIGA; treat per stand
 
 Ketoacidosis in Patients with Diabetes Mellitus
 
-In the DECLARE study [see Warnings and Precautions (5.1) and Clinical Studies (14.2)], events of diabetic ketoacidosis (DKA) were reported in 27 out of 8574 patients in the FARXIGA-treated group and 12 out of 8569 patients in the placebo group.
+In the DECLARE study [see Clinical Studies (14.2)], events of diabetic ketoacidosis (DKA) were reported in 27 out of 8574 patients in the FARXIGA-treated group and 12 out of 8569 patients in the placebo group.
 The events were evenly distributed over the study period.
 
 Laboratory Tests
@@ -172,8 +172,10 @@ No new adverse reactions were identified in the DAPA-CKD study in patients with 
 Additional adverse reactions have been identified during post-approval use of FARXIGA in patients with diabetes mellitus.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- •Ketoacidosis
-- •Acute Kidney Injury
-- •Urosepsis and Pyelonephritis
-- •Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
-- •Rash
+Infections: Necrotizing fasciitis of the perineum (Fournier’s Gangrene), urosepsis and pyelonephritis
+
+Metabolism and Nutrition Disorders: Ketoacidosis
+
+Renal and Urinary Disorders: Acute kidney injury
+
+Skin and Subcutaneous Tissue Disorders: Rash
