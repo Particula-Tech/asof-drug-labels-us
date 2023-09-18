@@ -12,4 +12,4 @@ Discuss with parents and caregivers the benefits, risks, and timing and duration
 This product’s labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0669-3.0
+LAB-0669-4.0
