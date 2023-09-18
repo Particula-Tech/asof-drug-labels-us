@@ -10,8 +10,7 @@ Dapagliflozin is indicated to reduce
 
 Limitations of Use
 
-- •XIGDUO XR is not recommended for patients with type 1 diabetes mellitus.
-  It may increase the risk of diabetic ketoacidosis in these patients [see Warnings and Precautions (5.2)].
+- •XIGDUO XR is not recommended for use to improve glycemic control in patients with type 1 diabetes mellitus [see Warnings and Precautions (5.2)].
 - •Because of the metformin component, the use of XIGDUO XR is limited to adults with type 2 diabetes mellitus for all indications.
 - •XIGDUO XR is not recommended for the treatment of chronic kidney disease in patients with polycystic kidney disease or patients requiring or with a recent history of immunosuppressive therapy for kidney disease.
   XIGDUO XR is not expected to be effective in these populations.

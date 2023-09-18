@@ -64,7 +64,7 @@ There is no information regarding the presence of XIGDUO XR or dapagliflozin in 
 Limited published studies report that metformin is present in human milk (see Data).
 However, there is insufficient information on the effects of metformin on the breastfed infant and no available information on the effects of metformin on milk production.
 Dapagliflozin is present in the milk of lactating rats (see Data).
-However, due to species specific differences in lactation physiology, the clinical relevance of these data are not clear.
+However, due to species specific differences in lactation physiology, the clinical relevance of these data is not clear.
 Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
 
 Because of the potential for serious adverse reactions in breastfed infants, advise women that use of XIGDUO XR is not recommended while breastfeeding.

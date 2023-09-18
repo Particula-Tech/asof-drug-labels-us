@@ -3,7 +3,7 @@
 The following important adverse reactions are described below and elsewhere in the labeling:
 
 - •Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1)]
-- •Ketoacidosis [see Warnings and Precautions (5.2)]
+- •Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis [see Warnings and Precautions (5.2)]
 - •Volume Depletion [see Warnings and Precautions (5.3)]
 - •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
 - •Use with Medications Known to Cause Hypoglycemia [see Warnings and Precautions (5.5)]
@@ -169,7 +169,7 @@ If hypersensitivity reactions occur, discontinue use of dapagliflozin; treat per
 
 ### Ketoacidosis
 
-In the DECLARE study [see Warnings and Precautions (5.2) and Clinical Studies (14.2)], events of diabetic ketoacidosis (DKA) were reported in 27 out of 8574 patients in the dapagliflozin-treated group and in 12 out of 8569 patients in the placebo group.
+In the DECLARE study [see Clinical Studies (14.2)], events of diabetic ketoacidosis (DKA) were reported in 27 out of 8574 patients in the dapagliflozin-treated group and in 12 out of 8569 patients in the placebo group.
 The events were evenly distributed over the study period.
 
 ### Laboratory Tests
@@ -212,12 +212,14 @@ Dapagliflozin
 Additional adverse reactions have been identified during post-approval use of dapagliflozin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- •Ketoacidosis
-- •Acute Kidney Injury
-- •Urosepsis and Pyelonephritis
-- •Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
-- •Rash
+Infections: Necrotizing fasciitis of the perineum (Fournier’s Gangrene), urosepsis and pyelonephritis
+
+Metabolism and Nutrition Disorders: Ketoacidosis
+
+Renal and Urinary Disorders: Acute kidney injury
+
+Skin and Subcutaneous Tissue Disorders: Rash
 
 Metformin HCl
 
-- •Cholestatic, hepatocellular, and mixed hepatocellular liver injury
+Hepatobiliary Disorders: Cholestatic, hepatocellular, and mixed hepatocellular liver injury

@@ -5,7 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 Lactic Acidosis
 
 Inform patients of the risks of lactic acidosis due to the metformin component and its symptoms and conditions that predispose to its development [see Warnings and Precautions (5.1)].
-Advise patients to discontinue XIGDUO XR immediately and to promptly notify their healthcare provider if unexplained hyperventilation, myalgia, malaise, unusual somnolence, dizziness, slow or irregular heartbeat, sensation of feeling cold (especially in the extremities), or other nonspecific symptoms occur.
+Advise patients to discontinue XIGDUO XR immediately and to promptly notify their healthcare provider if unexplained hyperventilation, myalgia, malaise, unusual somnolence, dizziness, slow or irregular heartbeat, sensation of feeling cold (especially in the extremities), or other non-specific symptoms occur.
 Gastrointestinal symptoms are common during initiation of metformin treatment and may occur during initiation of XIGDUO XR therapy; however, inform patients to consult their physician if they develop unexplained symptoms.
 Although gastrointestinal symptoms that occur after stabilization are unlikely to be drug related, such an occurrence of symptoms should be evaluated to determine if it may be due to lactic acidosis or other serious disease.
 
@@ -15,11 +15,15 @@ Inform patients about the importance of regular testing of renal function and he
 
 Instruct patients to inform their healthcare provider that they are taking XIGDUO XR prior to any surgical or radiological procedure, as temporary discontinuation of XIGDUO XR may be required until renal function has been confirmed to be normal [see Warnings and Precautions (5.1)].
 
-Ketoacidosis
+Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis
 
-Inform patients that ketoacidosis is a serious life-threatening condition and that cases of ketoacidosis have been reported during use of dapagliflozin, sometimes associated with illness or surgery among other risk factors.
-Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
-If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue XIGDUO XR and seek medical attention immediately [see Warnings and Precautions (5.2)].
+Inform patients that XIGDUO XR can cause potentially fatal ketoacidosis and that type 2 diabetes mellitus and pancreatic disorders (e.g., history of pancreatitis or pancreatic surgery) are risk factors.
+
+Educate all patients on precipitating factors (such as insulin dose reduction or missed insulin doses, infection, reduced caloric intake, ketogenic diet, surgery, dehydration, and alcohol abuse) and symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing).
+Inform patients that blood glucose may be normal even in the presence of ketoacidosis.
+
+Advise patients that they may be asked to monitor ketones.
+If symptoms of ketoacidosis occur, instruct patients to discontinue XIGDUO XR and seek medical attention immediately [see Warnings and Precautions (5.2)].
 
 Volume Depletion
 
@@ -32,9 +36,10 @@ Inform patients of the potential for urinary tract infections, which may be seri
 Provide them with information on the symptoms of urinary tract infections.
 Advise them to seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.4)].
 
-Hypoglycemia
+Hypoglycemia with Concomitant Use of Insulin or Insulin Secretagogues
 
-Inform patients that the incidence of hypoglycemia may be increased when XIGDUO XR is added to an insulin secretagogue (e.g., sulfonylurea) or insulin [see Warnings and Precautions (5.5)].
+Inform patients that the incidence of hypoglycemia may increase when XIGDUO XR is added to an insulin secretagogue (e.g., sulfonylurea) and/or insulin.
+Educate patients on the signs and symptoms of hypoglycemia [see Warnings and Precautions (5.5)].
 
 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
 

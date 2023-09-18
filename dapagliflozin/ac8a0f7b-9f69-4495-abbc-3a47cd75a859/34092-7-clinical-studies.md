@@ -20,7 +20,7 @@ In one study, 638 patients randomized to 1 of 3 treatment arms following a 1-wee
 Metformin XR dose was up-titrated weekly in 500 mg increments, as tolerated, with a median dose achieved of 2000 mg.
 
 The combination treatment of dapagliflozin 10 mg plus metformin XR provided statistically significant improvements in HbA1c and FPG compared with either of the monotherapy treatments and statistically significant reduction in body weight compared with metformin XR alone (see Table 11 and Figure 2).
-Dapagliflozin 10 mg as monotherapy also provided statistically significant improvements in FPG and statistically significant reduction in body weight compared with metformin alone and was noninferior to metformin XR monotherapy in lowering HbA1c.
+Dapagliflozin 10 mg as monotherapy also provided statistically significant improvements in FPG and statistically significant reduction in body weight compared with metformin alone and was non-inferior to metformin XR monotherapy in lowering HbA1c.
 
 Table 11: Results at Week 24 (LOCFLOCF: last observation (prior to rescue for rescued patients) carried forward.) in an Active-Controlled Study of Dapagliflozin Initial Combination Therapy with Metformin XR
 
@@ -30,7 +30,7 @@ Table 11: Results at Week 24 (LOCFLOCF: last observation (prior to rescue for re
 | Baseline (mean) | 9.1 | 9.0 | 9.0 |
 | Change from baseline (adjusted meanLeast squares mean adjusted for baseline value.) | -2.0 | -1.5 | -1.4 |
 | Difference from dapagliflozin (adjusted mean) (95% CI) | -0.5p-value <0.0001.(-0.7, -0.3) |  |  |
-| Difference from metformin XR (adjusted mean) (95% CI) | -0.5(-0.8, -0.3) | 0.0Noninferior versus metformin XR.(-0.2, 0.2) |  |
+| Difference from metformin XR (adjusted mean) (95% CI) | -0.5(-0.8, -0.3) | 0.0Non-inferior versus metformin XR.(-0.2, 0.2) |  |
 | Percent of patients achieving HbA1c <7% adjusted for baseline | 46.6% | 31.7% | 35.2% |
 | FPG (mg/dL) |  |  |  |
 | Baseline (mean) | 189.6 | 197.5 | 189.9 |
@@ -102,12 +102,12 @@ Figure 3: Adjusted Mean Change from Baseline Over Time in HbA1c (%) in a 24-Week
 
 ### Active Glipizide-Controlled Study Add-On to Metformin Immediate-Release
 
-A total of 816 patients with type 2 diabetes mellitus with inadequate glycemic control (HbA1c >6.5% and ≤10%) were randomized in a 52-week, glipizide-controlled, noninferiority study to evaluate dapagliflozin as add-on therapy to metformin (NCT00660907).
+A total of 816 patients with type 2 diabetes mellitus with inadequate glycemic control (HbA1c >6.5% and ≤10%) were randomized in a 52-week, glipizide-controlled, non-inferiority study to evaluate dapagliflozin as add-on therapy to metformin (NCT00660907).
 Patients on metformin at a dose of at least 1500 mg/day were randomized following a 2-week placebo lead-in period to glipizide or dapagliflozin (5 mg or 2.5 mg, respectively) and were up-titrated over 18 weeks to optimal glycemic effect (FPG <110 mg/dL, <6.1 mmol/L) or to the highest dose level (up to glipizide 20 mg and dapagliflozin 10 mg) as tolerated by patients.
 Thereafter, doses were kept constant, except for down-titration to prevent hypoglycemia.
 
 At the end of the titration period, 87% of patients treated with dapagliflozin had been titrated to the maximum study dose (10 mg) versus 73% treated with glipizide (20 mg).
-Dapagliflozin treatment led to a similar mean reduction in HbA1c from baseline at Week 52 (LOCF), compared with glipizide, thus demonstrating noninferiority (see Table 14).
+Dapagliflozin treatment led to a similar mean reduction in HbA1c from baseline at Week 52 (LOCF), compared with glipizide, thus demonstrating non-inferiority (see Table 14).
 Dapagliflozin treatment led to a statistically significant mean reduction in body weight from baseline at Week 52 (LOCF) compared with a mean increase in body weight in the glipizide group.
 Statistically significant (p<0.0001) mean change from baseline in systolic blood pressure relative to glipizide plus metformin was −5.0 mmHg with dapagliflozin plus metformin.
 
@@ -247,7 +247,7 @@ The primary objective was to determine whether dapagliflozin 10 mg reduces the i
 A total of 4304 patients were randomized equally to dapagliflozin 10 mg or placebo and were followed for a median of 28.5 months.
 The study included patients with type 2 diabetes mellitus (n=2906) and patients without diabetes (n=1398).
 The mean age of the study population was 62 years and 67% were male.
-The population was 53% White, 4% Black or African-American, and 34% Asian; 25% were of Hispanic or Latino ethnicity.
+The population was 53% White, 4% Black or African American, and 34% Asian; 25% were of Hispanic or Latino ethnicity.
 At baseline, mean eGFR was 43 mL/min/1.73 m2, 44% of patients had an eGFR 30 mL/min/1.73m2 to less than 45 mL/min/1.73m2, and 15% of patients had an eGFR less than 30 mL/min/1.73m2.
 Median UACR was 950 mg/g.
 The most common etiologies of CKD were diabetic nephropathy (58%), ischemic/hypertensive nephropathy (16%), and IgA nephropathy (6%).

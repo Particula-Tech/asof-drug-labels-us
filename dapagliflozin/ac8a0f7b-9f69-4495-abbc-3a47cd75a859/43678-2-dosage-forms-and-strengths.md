@@ -2,6 +2,8 @@
 
 XIGDUO XR (dapagliflozin and metformin HCl) extended-release tablets are available as follows:
 
+Table 1: Dosage Forms and Strengths for XIGDUO XR
+
 | Dapagliflozin Strength | Metformin HCl Strength | Color/Shape | Tablet Markings |
 | --- | --- | --- | --- |
 | 2.5 mg | 1,000 mg | light brown to brown, biconvex, oval-shaped, and film-coated tablet | "1074" and "2.5/1000" debossed on one side and plain on the reverse side |
