@@ -2,10 +2,10 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Rx only
 
-Distributed by Roerig Division of Pfizer, Inc. New York, NY 10017
+Distributed by Roerig Division of Pfizer, Inc. New York, NY 10001
 
 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
-LAB-0748-6.0
+LAB-0748-7.0
 
-Revised: 11/2022
+Revised: 09/2023
