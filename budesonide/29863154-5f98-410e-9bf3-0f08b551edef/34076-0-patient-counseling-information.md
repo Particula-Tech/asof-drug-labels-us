@@ -37,7 +37,7 @@ Administration
 
 Manufactured by:
 
-Cadila Healthcare Ltd.
+Zydus Lifesciences Ltd.
 
 Ahmedabad, India
 
@@ -47,4 +47,4 @@ Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Rev.: 10/20
+Rev.: 09/22
