@@ -36,11 +36,11 @@ There is inadequate information regarding the use of MERREM IV in patients on he
 
 Pediatric Patients 3 Months of Age and Older
 
-- For pediatric patients 3 months of age and older, the MERREM IV dose is 10 mg/kg, 20 mg/kg or 40 mg/kg every 8 hours (maximum dose is 2 grams every 8 hours), depending on the type of infection (cSSSI, cIAI, intra-abdominal infection or meningitis).
+- •For pediatric patients 3 months of age and older, the MERREM IV dose is 10 mg/kg, 20 mg/kg or 40 mg/kg every 8 hours (maximum dose is 2 grams every 8 hours), depending on the type of infection (cSSSI, cIAI, intra-abdominal infection or meningitis).
   See dosing table 2 below.
-- For pediatric patients weighing over 50 kg administer MERREM IV at a dose of 500 mg every 8 hours for cSSSI, 1 gram every 8 hours for cIAI and 2 grams every 8 hours for meningitis.
-- Administer MERREM IV as an intravenous infusion over approximately 15 minutes to 30 minutes or as an intravenous bolus injection (5 mL to 20 mL) over approximately 3 minutes to 5 minutes.
-- There is limited safety data available to support the administration of a 40 mg/kg (up to a maximum of 2 grams) bolus dose.
+- •For pediatric patients weighing over 50 kg administer MERREM IV at a dose of 500 mg every 8 hours for cSSSI, 1 gram every 8 hours for cIAI and 2 grams every 8 hours for meningitis.
+- •Administer MERREM IV as an intravenous infusion over approximately 15 minutes to 30 minutes or as an intravenous bolus injection (5 mL to 20 mL) over approximately 3 minutes to 5 minutes.
+- •There is limited safety data available to support the administration of a 40 mg/kg (up to a maximum of 2 grams) bolus dose.
 
 Table 2: Recommended MERREM IV Dosage Schedule for Pediatric Patients 3 Months of Age and Older with Normal Renal Function
 
@@ -87,9 +87,9 @@ Table 4: Volume of Sterile Water for Injection for Reconstitution of Injection V
 
 For Infusion
 
-- Injection vials (500 mg and 1 gram) may be directly re-constituted with a compatible infusion fluid.
-- Alternatively, an injection vial may be re-constituted, then the resulting solution added to an intravenous container and further diluted with an appropriate infusion fluid [see Dosage and Administration (2.5) and (2.6)].
-- Do not use flexible container in series connections.
+- •Injection vials (500 mg and 1 gram) may be directly re-constituted with a compatible infusion fluid.
+- •Alternatively, an injection vial may be re-constituted, then the resulting solution added to an intravenous container and further diluted with an appropriate infusion fluid [see Dosage and Administration (2.5) and (2.6)].
+- •Do not use flexible container in series connections.
 
 ## 2.5 Compatibility
 
