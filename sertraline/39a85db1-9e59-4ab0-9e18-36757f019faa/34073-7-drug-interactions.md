@@ -18,7 +18,7 @@ Clinically-Significant Drug Interactions with Sertraline Hydrochloride
 | Other Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of serotonergic drugs with sertraline hydrochloride increases the risk of serotonin syndrome. |
 | Intervention: | Monitor patients for signs and symptoms of serotonin syndrome, particularly during treatment initiation and dosage increases. If serotonin syndrome occurs, consider discontinuation of sertraline hydrochloride and/or concomitant serotonergic drugs [See Warnings and Precautions (5.2)]. |
-| Examples: | other SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John’s Wort |
+| Examples: | Other SSRIs, SNRIs, triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, and St. John’s Wort. |
 | Drugs that Interfere with Hemostasis (antiplatelet agents and anticoagulants) |  |
 | Clinical Impact: | The concurrent use of an antiplatelet agent or anticoagulant with sertraline hydrochloride may potentiate the risk of bleeding. |
 | Intervention: | Inform patients of the increased risk of bleeding associated with the concomitant use of sertraline hydrochloride and antiplatelet agents and anticoagulants. For patients taking warfarin, carefully monitor the international normalized ratio [See Warnings and Precautions (5.3)]. |

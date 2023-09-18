@@ -72,9 +72,9 @@ Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
 Symptoms may include:
 
-- Headache
+- headache
 - weakness or feeling unsteady
-- confusion, problems concentrating or thinking, memory problems
+- confusion, problems concentrating or thinking, or memory problems
 
 9.
 Sexual problems (dysfunction).
@@ -158,11 +158,31 @@ Before starting sertraline hydrochloride tablets, tell your healthcare provider:
 - are pregnant or plan to become pregnant.
   Your baby may have withdrawal symptoms after birth or may be at increased risk for a serious lung problem at birth.
   Talk to your healthcare provider about the benefits and risks of taking sertraline hydrochloride tablets during pregnancy.
+  - There is a pregnancy registry for females who are exposed to sertraline hydrochloride tablets during pregnancy.
+    The purpose of the registry is to collect information about the health of females exposed to sertraline hydrochloride tablets and their baby.
+    If you or your child become pregnant during treatment with sertraline hydrochloride tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+    You can register by calling 1-866-961-2388 or by visiting online at https://womensmentalhealth.org/research/pregnancyregistry/antidepressants/.
 - are breastfeeding or plan to breastfeed.
   A small amount of sertraline hydrochloride tablets may pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking sertraline hydrochloride tablets.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Especially tell your healthcare provider if you or your child take:
+
+- medicines used to treat migraine headaches called triptans
+- tricyclic antidepressants
+- lithium
+- tramadol, fentanyl, meperidine, methadone, or other opioids
+- tryptophan
+- buspirone
+- amphetamines
+- phenytoin
+- St. John’s Wort
+- medicines that can affect blood clotting such as aspirin, nonsteroidal anti-inflammatory drugs
+- (NSAIDs), other antiplatelet medicines, warfarin, and other anticoagulants
+- diuretics
+- medicines used to treat mood, anxiety, psychotic, or thought disorders, including selective serotonin reuptake (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs)
+
 Sertraline hydrochloride tablets and some medicines may interact with each other, may not work as well, or may cause serious side effects.
 Your healthcare provider or pharmacist can tell you if it is safe to take sertraline hydrochloride tablets with your other medicines.
 Do not start or stop any medicine while taking sertraline hydrochloride tablets without talking to your healthcare provider first.
@@ -226,8 +246,5 @@ What are the ingredients in sertraline hydrochloride tablets?
 Active ingredient: sertraline hydrochloride Inactive ingredients: Tablets: microcrystalline cellulose, sodium starch glycolate, hydroxypropyl cellulose, dibasic calcium phosphate dihydrate, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol, and polysorbate 80.
 Besides, 25 mg contains D&C yellow #10 aluminum lake, FD&C blue #1 aluminum lake, FD&C red #40 aluminum lake; 50 mg contains FD&C blue #2 aluminum lake; and 100 mg contains iron oxide yellow.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
-
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 03/2023
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 09/2023

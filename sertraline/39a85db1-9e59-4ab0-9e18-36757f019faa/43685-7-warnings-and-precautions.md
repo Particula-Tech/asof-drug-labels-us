@@ -27,13 +27,16 @@ Consider changing the therapeutic regimen, including possibly discontinuing sert
 ## 5.2 Serotonin Syndrome
 
 Serotonin-norepinephrine reuptake inhibitors (SNRIs) and selective serotonin reuptake inhibitors (SSRIs), including sertraline hydrochloride, can precipitate serotonin syndrome, a potentially life-threatening condition.
-The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [See Contraindications (4), Drug Interactions (7.1)].
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, meperidine, methadone, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [See Contraindications (4), Drug Interactions (7.1)].
 Serotonin syndrome can also occur when these drugs are used alone.
+
 Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+
 The concomitant use of sertraline hydrochloride with MAOIs is contraindicated.
 In addition, do not initiate sertraline hydrochloride in a patient being treated with MAOIs such as linezolid or intravenous methylene blue.
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection).
 If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking sertraline hydrochloride tablets, discontinue sertraline hydrochloride tablets before initiating treatment with the MAOI [See Contraindications (4), Drug Interactions (7.1)].
+
 Monitor all patients taking sertraline hydrochloride for the emergence of serotonin syndrome.
 Discontinue treatment with sertraline hydrochloride and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
 If concomitant use of sertraline hydrochloride with other serotonergic drugs is clinically warranted, inform patients of the increased risk for serotonin syndrome and monitor for symptoms.
@@ -43,7 +46,9 @@ If concomitant use of sertraline hydrochloride with other serotonergic drugs is 
 Drugs that interfere with serotonin reuptake inhibition, including sertraline hydrochloride, increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), other antiplatelet drugs, warfarin, and other anticoagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Use in Specific Populations (8.1)].
 Bleeding events related to drugs that interfere with serotonin reuptake have ranged from ecchymosis, hematoma, epistaxis, and petechiae to life-threatening hemorrhages.
+
 Inform patients of the increased risk of bleeding associated with the concomitant use of sertraline hydrochloride and antiplatelet agents or anticoagulants.
 For patients taking warfarin, carefully monitor the international normalized ratio.
 
