@@ -11,4 +11,4 @@ Aprepitant is sparingly soluble in ethanol and isopropyl acetate and slightly so
 
 CINVANTI (aprepitant) injectable emulsion is a sterile, opaque, off-white to amber liquid in a single-dose vial for intravenous use.
 Each vial contains 130 mg aprepitant in 18 mL of emulsion.
-The emulsion also contains the following inactive ingredients: egg lecithin (2.61 g), dehydrated alcohol (0.52 g), sodium oleate (0.09 g), soybean oil (1.74 g), sucrose (0.97 g), and water for injection (12.18 g).
+The emulsion also contains the following inactive ingredients: egg lecithin (2602 mg), dehydrated alcohol (513 mg), sodium oleate (87 mg), soybean oil (1734 mg), sucrose (973 mg), and water for injection (12142 mg).
