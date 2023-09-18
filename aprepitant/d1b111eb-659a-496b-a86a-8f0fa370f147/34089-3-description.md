@@ -11,4 +11,4 @@ Aprepitant is sparingly soluble in ethanol and isopropyl acetate and slightly so
 
 APONVIE (aprepitant) injectable emulsion is a sterile, opaque, off-white to amber liquid in a single-dose vial for intravenous use.
 Each vial contains 32 mg aprepitant in 4.4 mL of emulsion.
-The emulsion also contains the following inactive ingredients: dehydrated alcohol (0.13 g), egg lecithin (0.64 g), sodium oleate (0.02 g), soybean oil (0.42 g), sucrose (0.24 g), and water for injection (2.97 g).
+The emulsion also contains the following inactive ingredients: dehydrated alcohol (125 mg), egg lecithin (636 mg), sodium oleate (21 mg), soybean oil (424 mg), sucrose (238 mg), and water for injection (2968 mg).

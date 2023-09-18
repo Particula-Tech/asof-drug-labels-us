@@ -6,7 +6,7 @@ How Supplied: APONVIE injectable emulsion is supplied in a carton containing 10 
 
 Recommended Dosage: See Prescribing Information.
 
-APONVIE™ (aprepitant) injectible emulsion
+APONVIE® (aprepitant) injectible emulsion
 
 32 mg per 4.4 mL (7.2 mg/mL)
 
