@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Dobutamine Hydrochloride in 5% Dextrose Injection in VIAFLEX PLUS plastic containers is available as follows:
+Dobutamine Hydrochloride in 5% Dextrose Injection in Viaflex Plus plastic containers is available as follows:
 
 | 2B0791 | Dobutamine 250 mg/250 mL | NDC 0338-1073-02 |
 | --- | --- | --- |
@@ -14,7 +14,10 @@ It is recommended the product be stored at room temperature (25°C); brief expos
 
 ## Directions for use of VIAFLEX PLUS Plastic Container
 
+The overwrap is a moisture and oxygen barrier.
 Do not remove unit from overwrap until ready for use.
+A sulfur dioxide odor may occur upon removal of the product from the overwrap container.
+The sulfur dioxide odor from Dobutamine Injection does not pose risk to the clinician or patient using the product.
 
 ## To open
 
@@ -79,9 +82,9 @@ Infusion Rate (mL/hr) of Dobutamine Hydrochloride in 5% Dextrose Injection.
 | 17.5 | 1.3 | 2.6 | 5.3 | 7.9 | 11 | 13 | 16 | 18 | 21 | 24 | 26 | 29 |
 | 20 | 1.5 | 3.0 | 6.0 | 9.0 | 12 | 15 | 18 | 21 | 24 | 27 | 30 | 33 |
 
-Baxter, Viaflex and Viaflex Plus are trademarks of Baxter International Inc.
+Baxter, Viaflex and Viaflex Plus are trademarks of Baxter International Inc. or its subsidiaries.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA
 
-07-19-00-0594 Rev.
-March 2019
+07-19-00-5947 Rev.
+September 2023

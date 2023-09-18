@@ -24,8 +24,8 @@ Dobutamine Hydrochloride in 5% Dextrose Injection.
 | 500 mg/250 mL | 2000 | 50 | 266 | 3.5 (2.5 to 5.5) | 170 |
 | 1000 mg/250 mL | 4000 | 50 | 280 | 3.5 (2.5 to 5.5) | 170 |
 
-This VIAFLEX PLUS plastic container is fabricated from a specially formulated polyvinyl chloride (PL 2207 Plastic).
-VIAFLEX containers, including VIAFLEX PLUS containers, are made of flexible plastic and are for parenteral use.
-VIAFLEX PLUS on the container indicates the presence of a drug additive in a drug vehicle.
+This Viaflex Plus plastic container is fabricated from a specially formulated polyvinyl chloride (PL 2207 Plastic).
+Viaflex containers, including Viaflex Plus containers, are made of flexible plastic and are for parenteral use.
+Viaflex Plus on the container indicates the presence of a drug additive in a drug vehicle.
 The amount of water that can permeate from inside the container into the overwrap is insufficient to affect the solution significantly.
 Solutions in contact with the plastic container can leach out certain of its chemical components in very small amounts within the expiration period, e.g., di-2-ethylhexyl phthalate (DEHP), up to 5 parts per million; however, the safety of the plastic has been confirmed in tests in animals according to USP biological tests for plastic containers as well as by tissue culture toxicity studies.
