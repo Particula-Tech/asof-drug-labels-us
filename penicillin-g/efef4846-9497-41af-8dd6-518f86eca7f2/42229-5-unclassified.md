@@ -3,10 +3,12 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
+For medical information about Buffered Pfizerpen, please visit www.pfizermedinfo.com or call 1‑800‑438‑1985.
+
 Rx only
 
-Distributed by Roerig Division of Pfizer Inc, NY, NY 10017
+Distributed by Roerig Division of Pfizer Inc, New York, NY 10001
 
 Novaplus is a registered trademark of Vizient, Inc.
 
-LAB-0391-10.0 Revised: 11/2022
+LAB-0391-11.0 Revised: 09/2023
