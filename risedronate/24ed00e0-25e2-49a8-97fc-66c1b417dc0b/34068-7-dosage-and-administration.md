@@ -6,18 +6,9 @@
 
 The recommended regimen is:
 
-- one 5 mg tablet orally, taken daily
-
-or
-
-- one 35 mg tablet orally, taken once-a-week
-
-or
-
-- one 75 mg tablet orally, taken on two consecutive days for a total of two tablets each month
-
-or
-
+- one 5 mg tablet orally, taken daily or
+- one 35 mg tablet orally, taken once-a-week or
+- one 75 mg tablet orally, taken on two consecutive days for a total of two tablets each month or
 - one 150 mg tablet orally, taken once-a-month
 
 ## 2.2 Prevention of Postmenopausal Osteoporosis
@@ -26,18 +17,9 @@ or
 
 The recommended regimen is:
 
-- one 5 mg tablet orally, taken daily
-
-or
-
-- one 35 mg tablet orally, taken once-a-week
-
-or
-
-- alternatively, one 75 mg tablet orally, taken on two consecutive days for a total of two tablets each month may be considered
-
-or
-
+- one 5 mg tablet orally, taken daily or
+- one 35 mg tablet orally, taken once-a-week or
+- alternatively, one 75 mg tablet orally, taken on two consecutive days for a total of two tablets each month may be considered or
 - alternatively, one 150 mg tablet orally, taken once-a-month may be considered
 
 ## 2.3Treatment to Increase Bone Mass in Men with Osteoporosis
@@ -84,12 +66,22 @@ Instruct patients to take supplemental calcium and vitamin D if their dietary in
 
 Instruct patients about missing ACTONEL doses as follows:
 
-- If a dose of ACTONEL 35 mg once-a-week is missed: ○ Take 1 tablet on the morning after they remember and return to taking 1 tablet once-a-week, as originally scheduled on their chosen day. ○ Do not take 2 tablets on the same day.
+- If a dose of ACTONEL 35 mg once-a-week is missed:
+  - Take 1 tablet on the morning after they remember and return to taking 1 tablet once-a-week, as originally scheduled on their chosen day.
+  - Do not take 2 tablets on the same day.
 
-- If one or both tablets of ACTONEL 75 mg on two consecutive days per month are missed, and the next month’s scheduled doses are more than 7 days away: ○ If both tablets are missed, take one ACTONEL 75 mg tablet in the morning after the day it is remembered and then the other tablet on the next consecutive morning. ○ If only one ACTONEL 75 mg tablet is missed, take the missed tablet in the morning after the day it is remembered ○ Return to taking their ACTONEL 75 mg on two consecutive days per month as originally scheduled. ○ Do not take more than two 75 mg tablets within 7 days.
+- If one or both tablets of ACTONEL 75 mg on two consecutive days per month are missed, and the next month’s scheduled doses are more than 7 days away:
+  - If both tablets are missed, take one ACTONEL 75 mg tablet in the morning after the day it is remembered and then the other tablet on the next consecutive morning.
+  - If only one ACTONEL 75 mg tablet is missed, take the missed tablet in the morning after the day it is remembered
+  - Return to taking their ACTONEL 75 mg on two consecutive days per month as originally scheduled.
+  - Do not take more than two 75 mg tablets within 7 days.
 
-- If one or both tablets of ACTONEL 75 mg on two consecutive days per month are missed, and the next month's scheduled doses are within 7 days: ○ Wait until their next month’s scheduled doses and then continue taking ACTONEL 75 mg on two consecutive days per month as originally scheduled.
+- If one or both tablets of ACTONEL 75 mg on two consecutive days per month are missed, and the next month's scheduled doses are within 7 days:
+  - Wait until their next month’s scheduled doses and then continue taking ACTONEL 75 mg on two consecutive days per month as originally scheduled.
 
-- If the dose of ACTONEL 150 mg once-a-month is missed, and the next month’s scheduled dose is more than 7 days away: ○ Take the missed tablet in the morning after the day it is remembered and then return to taking their ACTONEL 150 mg once-a-month as originally scheduled. ○ Do not take more than one 150 mg tablet within 7 days.
+- If the dose of ACTONEL 150 mg once-a-month is missed, and the next month’s scheduled dose is more than 7 days away:
+  - Take the missed tablet in the morning after the day it is remembered and then return to taking their ACTONEL 150 mg once-a-month as originally scheduled.
+  - Do not take more than one 150 mg tablet within 7 days.
 
-- If the dose of ACTONEL 150 mg once-a-month is missed, and the next month's scheduled dose is within 7 days: ○ Wait until their next month’s scheduled dose and then continue taking ACTONEL 150 mg once-a-month as originally scheduled.
+- If the dose of ACTONEL 150 mg once-a-month is missed, and the next month's scheduled dose is within 7 days:
+  - Wait until their next month’s scheduled dose and then continue taking ACTONEL 150 mg once-a-month as originally scheduled.

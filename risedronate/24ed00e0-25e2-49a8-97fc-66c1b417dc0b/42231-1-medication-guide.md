@@ -1,10 +1,4 @@
-Medication Guide
-
-ACTONEL® (AK-toh-nel)
-
-(risedronate sodium)
-
-Tablets
+Medication Guide ACTONEL® (AK-toh-nel) (risedronate sodium) Tablets
 
 Read the Medication Guide that comes with ACTONEL® before you start taking it and each time you get a refill.
 There may be new information.
@@ -203,17 +197,12 @@ Inactive ingredients specific to a dose strength: 5 mg—ferric oxide yellow, la
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by:
+Distributed by: AbbVie Inc. North Chicago, Illinois 60064
 
-Allergan USA, Inc.
-
-Madison, NJ 07940
-
-© 2019 Allergan.
+© 2023 AbbVie.
 All rights reserved.
+Actonel and its design are trademarks of Allergan Pharmaceuticals International Limited, an AbbVie company.
 
-All trademarks are the property of their respective owners.
+Revised: 05/2023
 
-Revised: 11/2019
-
-v1.0MG0471
+v1.1MG0471
