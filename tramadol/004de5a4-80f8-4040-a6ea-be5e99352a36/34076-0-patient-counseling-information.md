@@ -39,10 +39,11 @@ If naloxone is prescribed, also advise patients and caregivers:
 
 Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children Advise caregivers that tramadol hydrochloride extended-release tablets are contraindicated in children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy.
 Advise caregivers of children 12 to 18 years of age receiving tramadol hydrochloride extended-release tablets to monitor for signs of respiratory depression [see Warnings and Precautions (5.6)].
+
 Hyperalgesia and Allodynia
 
 Inform patients and caregivers not to increase opioid dosage without first consulting a clinician.
-Advise patients to seek medical attention if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings and Precautions (5.8); Postmarketing Experience (6.2)].
+Advise patients to seek medical attention if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings and Precautions (5.8); Adverse Reactions (6.2)].
 
 Serotonin Syndrome Inform patients that tramadol could cause a rare but potentially life-threatening condition, particularly during concomitant use with serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
@@ -89,7 +90,7 @@ Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that prolonged use of tramadol hydrochloride extended-release tablets during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that use of tramadol hydrochloride extended-release tablets for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 
@@ -101,7 +102,7 @@ Advise women that breastfeeding is not recommended during treatment with tramado
 
 Infertility
 
-Inform patients that chronic use of opioids may cause reduced fertility.
+Inform patients that use of opioids for an extended period of time may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Use in Specific Populations (8.3)].
 
 Dispense with Medication Guide available at: https://www.sunpharma.com/usa/products

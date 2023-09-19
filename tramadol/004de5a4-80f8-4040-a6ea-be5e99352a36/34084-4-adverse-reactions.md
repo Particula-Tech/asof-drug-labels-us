@@ -7,6 +7,7 @@ The following serious adverse reactions are described in greater detail, in othe
 - Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-Threatening Respiratory Depression in Children [see Warnings and Precautions (5.6)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
 - Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.3)]
+- Opioid-Induced Hyperalgesia and Allodynia [See Warnings and Precautions (5.8)]
 - Serotonin Syndrome [see Warnings and Precautions (5.9)]
 - Seizures [see Warnings and Precautions (5.10)]
 - Suicide [see Warnings and Precautions (5.11)]

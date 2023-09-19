@@ -6,7 +6,7 @@ Treatment of Overdose
 
 In case of overdose, priorities are the reestablishment of a patent and protected airway and institution of assisted or controlled ventilation, if needed.
 Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
-Cardiac arrest or arrhythmias will require advanced life-support techniques.
+Cardiac arrest or arrhythmias will require advanced life-support measures.
 Opioid antagonists, such as naloxone, are specific antidotes to respiratory depression resulting from opioid overdose.
 For clinically significant respiratory or circulatory depression secondary to tramadol overdose, administer an opioid antagonist.
 While naloxone will reverse some, but not all, symptoms caused by overdosage with tramadol, the risk of seizures is also increased with naloxone administration.
