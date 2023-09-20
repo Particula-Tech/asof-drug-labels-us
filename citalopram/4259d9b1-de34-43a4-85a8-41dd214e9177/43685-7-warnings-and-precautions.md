@@ -29,7 +29,7 @@ Consider changing the therapeutic regimen, including possibly discontinuing CELE
 
 ## 5.2 QT-Prolongation and Torsade de Pointes
 
-CELEXA causes dose-dependent QTc prolongation an ECG abnormality that has been associated with Torsade de Pointes (TdP), ventricular tachycardia, and sudden death, all of which have been observed in postmarketing reports for citalopram [see Adverse Reactions 6.2)].
+CELEXA causes dose-dependent QTc prolongation an ECG abnormality that has been associated with Torsade de Pointes (TdP), ventricular tachycardia, and sudden death, all of which have been observed in postmarketing reports for citalopram [see Adverse Reactions (6.2)].
 
 Because of the risk of QTc prolongation at higher CELEXA doses, it is recommended that CELEXA not be given at doses above 40 mg once daily [see Dosage and Administration (2.1), Clinical Pharmacology (12.2)].
 
