@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA214581"
+  ],
+  "inn": "hydroxychloroquine",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70954-804-10",
+    "70954-804-20",
+    "70954-804-30",
+    "70954-805-10",
+    "70954-805-20"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "hydroxychloroquine sulfate",
+      "name": "SOVUNA"
+    }
+  ],
+  "setid": "dd441154-b196-4d4c-bc56-2e37f345ef8d",
+  "source": "dailymed"
+}
