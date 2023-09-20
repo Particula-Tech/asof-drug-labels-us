@@ -1,0 +1,5 @@
+# 14 CLINICAL STUDIES
+
+In two, 3-month clinical studies, brinzolamide ophthalmic suspension dosed 3 times per day in patients with elevated IOP, produced significant reductions in IOPs (4 mmHg to 5 mmHg).
+These IOP reductions are equivalent to the reductions observed with dorzolamide hydrochloride ophthalmic solution 2% dosed 3 times per day in the same studies.
+In 2 clinical studies in patients with elevated IOP, brinzolamide ophthalmic suspension was associated with less stinging and burning upon instillation than dorzolamide hydrochloride ophthalmic solution 2%.

@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA211914"
+  ],
+  "inn": "brinzolamide",
+  "labeler": "Padagis US LLC",
+  "package_ndcs": [
+    "0574-4012-10",
+    "0574-4012-15"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "brinzolamide",
+      "name": "BRINZOLAMIDE"
+    }
+  ],
+  "setid": "b56a2e4b-7502-4831-a5b1-0370bdb987b1",
+  "source": "dailymed"
+}
