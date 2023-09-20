@@ -55,7 +55,7 @@ If naloxone is prescribed, also advise patients and caregivers:
 Hyperalgesia and Allodynia
 
 Inform patients and caregivers not to increase opioid dosage without first consulting a clinician.
-Advise patients to seek medical attention if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings and Precautions (5.6); Postmarketing Experience (6.2)].
+Advise patients to seek medical attention if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings and Precautions (5.6); Adverse Reactions (6.2)].
 
 Serotonin Syndrome
 
@@ -109,7 +109,7 @@ Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that prolonged use of morphine sulfate extended-release capsules during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that use of morphine sulfate extended-release capsules for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 
@@ -121,5 +121,5 @@ Advise patients that breastfeeding is not recommended during treatment with morp
 
 Infertility
 
-Inform patients that chronic use of opioids may cause reduced fertility.
+Inform patients that use of opioids for an extended period of time may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2)].

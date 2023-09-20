@@ -8,7 +8,7 @@ Morphine sulfate extended-release 100 mg capsules, a single dose greater than 60
 Patients considered opioid-tolerant are those taking, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone daily, 25 mg oral oxymorphone per day, 60 mg oral hydrocodone per day, or an equianalgesic dose of another opioid.
 
 - Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see Warnings and Precautions (5.1)].
-  Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of morphine sulfate extended-release capsules for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
+  Reserve titration to higher doses of morphine sulfate extended-release capsules for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
 - Initiate the dosing regimen for each patient individually, taking into account the patient's underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 
 Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with morphine sulfate extended-release capsules.
@@ -91,7 +91,7 @@ Methadone has a long half-life and can accumulate in the plasma.
 ## 2.4 Titration and Maintenance of Therapy
 
 Individually titrate morphine sulfate extended-release capsules to a dose that provides adequate analgesia and minimizes adverse reactions.
-Continually reevaluate patients receiving morphine sulfate extended-release capsules to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as reassess for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
+Continually reevaluate patients receiving morphine sulfate extended-release capsules to assess the maintenance of pain control, signs and symptoms of opioid withdrawal, and other adverse reactions, as well as reassess for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1, 5.14)].
 Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 During use of opioid therapy, for an extended period of time, periodically reassess the continued need for the use of opioid analgesics.
 
@@ -100,7 +100,7 @@ If the level of pain increases after dose stabilization, attempt to identify the
 In patients experiencing inadequate analgesia with once daily dosing of morphine sulfate extended-release capsules, consider a twice daily regimen.
 Because steady-state plasma concentrations are approximated within 24 hours to 36 hours, morphine sulfate extended-release capsules dosage adjustments may be done every 1 to 2 days.
 
-If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
+If after increasing the dosage, unacceptable opioid-related adverse reactions are observed (including an increase in pain after dosage increase), consider reducing the dosage [see Warnings and Precautions (5)].
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
 ## 2.5 Safe Reduction or Discontinuation of Morphine Sulfate Extended-Release Capsules
@@ -110,7 +110,7 @@ Rapid discontinuation of opioid analgesics in patients who are physically depend
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
-When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking morphine sulfate extended-release capsules, there are a variety of factors that should be considered, including the dose of morphine sulfate extended-release capsules the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
+When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking morphine sulfate extended-release capsules, there are a variety of factors that should be considered, including the total daily dose of opioid (including morphine sulfate extended-release capsules) the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
 It is important to ensure ongoing care of the patient and to agree on an appropriate tapering schedule and follow-up plan so that patient and provider goals and expectations are clear and realistic.
 When opioid analgesics are being discontinued due to a suspected substance use disorder, evaluate and treat the patient, or refer for evaluation and treatment of the substance use disorder.
 Treatment should include evidence-based approaches, such as medication assisted treatment of opioid use disorder.

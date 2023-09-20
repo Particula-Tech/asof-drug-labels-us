@@ -27,7 +27,7 @@ Reserve concomitant prescribing of morphine sulfate extended-release capsules an
 - Limit dosages and durations to the minimum required.
 - Follow patients for signs and symptoms of respiratory depression and sedation.
 
-Neonatal Opioid Withdrawal Syndrome
+Neonatal Opioid Withdrawal Syndrome (NOWS)
 
 Prolonged use of morphine sulfate extended-release capsules during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
 If opioid use is required for a prolonged period in a pregnant woman, advise the patient of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Warnings and Precautions (5.4)].
