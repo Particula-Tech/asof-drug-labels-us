@@ -44,7 +44,7 @@ The safety of this strategy has been established in clinical trials.
 | 36 to 44 | 20 | 59 to 74 | 20 | 88 to 111 | 20 |
 
 The rectal delivery system includes a plastic applicator with a flexible, molded tip available in two lengths.
-The diazepam rectal gel 10 mg syringe is available with a 4.4 cm tip and the diazepam rectal gel 20 mg syringe is available with a 6.0 cm tip.
+The diazepam rectal gel rectal delivery system 10 mg syringe is available with a 4.4 cm tip and the diazepam rectal gel rectal delivery system 20 mg syringe is available with a 6.0 cm tip.
 Diazepam rectal gel 2.5 mg is also available with a 4.4 cm tip.
 
 In elderly and debilitated patients, it is recommended that the dosage be adjusted downward to reduce the likelihood of ataxia or oversedation.
