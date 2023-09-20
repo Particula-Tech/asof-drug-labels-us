@@ -177,7 +177,7 @@ In a follow-on clinical study involving 8 healthy male subjects, reduced dosing 
 (See PRECAUTIONS.)
 Tofacitinib: Coadministration of fluconazole (400 mg on Day 1 and 200 mg once daily for 6 days [Days 2 to 7]) and tofacitinib (30 mg single dose on Day 5) in healthy subjects resulted in increased mean tofacitinib AUC and Cmax values of approximately 79% (90% CI: 64% to 96%) and 27% (90% CI: 12% to 44%), respectively, compared to administration of tofacitinib alone.
 (See PRECAUTIONS.)
-Abrocitinib: When co-administered with fluconazole (inhibitor of CYP2C9, 2C19, and 3A4), the systemic exposure (AUC) of abrocitinib was approximately 4.8-fold higher and the combined exposure (AUC) of abrocitinib and its active metabolites was approximately 2.5-fold higher compared to when abrocitinib was administered alone (See PRECAUTIONS).
+Abrocitinib: When coadministered with fluconazole (inhibitor of CYP2C9, 2C19, and 3A4), the systemic exposure (AUC) of abrocitinib was approximately 4.8-fold higher and the combined exposure (AUC) of abrocitinib and its active metabolites was approximately 2.5-fold higher compared to when abrocitinib was administered alone (See PRECAUTIONS).
 
 ## Microbiology
 

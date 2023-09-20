@@ -50,10 +50,10 @@ Drug Interactions: (See CONTRAINDICATIONS.)
 Fluconazole is a moderate CYP2C9 and CYP3A4 inhibitor.
 Fluconazole is also a strong inhibitor of CYP2C19.
 Patients treated with fluconazole, who are also concomitantly treated with drugs with a narrow therapeutic window metabolized through CYP2C9 and CYP3A4, should be monitored for adverse reactions associated with the concomitantly administered drugs.
-In addition to the observed/documented interactions mentioned below, there is a risk of increased plasma concentration of other compounds metabolized by CYP2C9, CYP2C19, and CYP3A4 coadministered with fluconazole.
+In addition to the observed / documented interactions mentioned below, there is a risk of increased plasma concentration of other compounds metabolized by CYP2C9, CYP2C19, and CYP3A4 coadministered with fluconazole.
 Therefore, caution should be exercised when using these combinations and the patients should be carefully monitored.
 The enzyme inhibiting effect of fluconazole persists 4 to 5 days after discontinuation of fluconazole treatment due to the long half-life of fluconazole.
-Clinically or potentially significant drug interactions between fluconazole and the following agents/classes have been observed and are described in greater detail below: Abrocitinib: Drug interaction studies indicate that when co-administered with fluconazole (strong inhibitor of CYP2C19; moderate inhibitor of CYP2C9 and CYP3A4), the systemic exposure of abrocitinib and its active metabolites increased (See CLINICAL PHARMACOLOGY).
+Clinically or potentially significant drug interactions between fluconazole and the following agents/classes have been observed and are described in greater detail below: Abrocitinib: Drug interaction studies indicate that when coadministered with fluconazole (strong inhibitor of CYP2C19; moderate inhibitor of CYP2C9 and CYP3A4), the systemic exposure of abrocitinib and its active metabolites increased (See CLINICAL PHARMACOLOGY).
 Avoid concomitant use of abrocitinib with fluconazole.
 Refer to the abrocitinib Prescribing Information for additional details.
 Alfentanil: A study observed a reduction in clearance and distribution volume as well as prolongation of t½ of alfentanil following concomitant treatment with fluconazole.
@@ -100,17 +100,23 @@ Fentanyl: One fatal case of possible fentanyl-fluconazole interaction was report
 The author judged that the patient died from fentanyl intoxication.
 Furthermore, in a randomized crossover study with 12 healthy volunteers, it was shown that fluconazole delayed the elimination of fentanyl significantly.
 Elevated fentanyl concentration may lead to respiratory depression.
-HMG-CoA reductase inhibitors: The risk of myopathy and rhabdomyolysis increases when fluconazole is coadministered with HMG-CoA reductase inhibitors metabolized through CYP3A4, such as atorvastatin and simvastatin, or through CYP2C9, such as fluvastatin.
+HMG-CoA reductase inhibitors: The risk of myopathy and rhabdomyolysis increases when fluconazole is coadministered with HMG-CoA reductase inhibitors metabolized through CYP3A4, such as atorvastatin and simvastatin, or through CYP2C9, such as fluvastatin (decreased hepatic metabolism of the statin).
 If concomitant therapy is necessary, the patient should be observed for symptoms of myopathy and rhabdomyolysis and creatinine kinase should be monitored.
 HMG-CoA reductase inhibitors should be discontinued if a marked increase in creatinine kinase is observed or myopathy/rhabdomyolysis is diagnosed or suspected.
+Dose reduction of statins may be needed.
+Refer to the statin-specific prescribing information for details.
 Hydrochlorothiazide: In a pharmacokinetic interaction study, coadministration of multiple-dose hydrochlorothiazide to healthy volunteers receiving fluconazole increased plasma concentrations of fluconazole by 40%.
 An effect of this magnitude should not necessitate a change in the fluconazole dose regimen in subjects receiving concomitant diuretics.
 Ibrutinib: Moderate inhibitors of CYP3A4 such as fluconazole may increase plasma ibrutinib concentrations and increase risk of adverse reactions associated with ibrutinib.
 If ibrutinib and fluconazole are concomitantly administered, reduce the dose of ibrutinib as instructed in ibrutinib prescribing information and the patient should be frequently monitored for any adverse reactions associated with ibrutinib.
+Ivacaftor and fixed dose ivacaftor combinations (e.g., tezacaftor/ivacaftor and ivacaftor/tezacaftor/elexacaftor): Coadministration with ivacaftor, a cystic fibrosis transmembrane conductance regulator (CFTR) potentiator, increased ivacaftor exposure by 3-fold.
+If used concomitantly with a moderate inhibitor of CYP3A4, such as fluconazole, a reduction in the dose of ivacaftor (or ivacaftor combination) is recommended as instructed in the ivacaftor (or ivacaftor combination) prescribing information.
 Lemborexant: Concomitant administration of fluconazole increased lemborexant Cmax and AUC by approximately 1.6- and 4.2-fold, respectively which is expected to increase risk of adverse reactions, such as somnolence.
 Avoid concomitant use of fluconazole with lemborexant.
 Losartan: Fluconazole inhibits the metabolism of losartan to its active metabolite (E-31 74) which is responsible for most of the angiotensin II-receptor antagonism which occurs during treatment with losartan.
 Patients should have their blood pressure monitored continuously.
+Lurasidone: Concomitant use of moderate inhibitors of CYP3A4 such as fluconazole may increase lurasidone plasma concentrations.
+If concomitant use cannot be avoided, reduce the dose of lurasidone as instructed in the lurasidone prescribing information.
 Methadone: Fluconazole may enhance the serum concentration of methadone.
 Dosage adjustment of methadone may be necessary.
 
@@ -204,7 +210,7 @@ Dosage reduction of zidovudine may be considered.
 
 Physicians should be aware that interaction studies with medications other than those listed in the CLINICAL PHARMACOLOGY section have not been conducted, but such interactions may occur.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 Fluconazole showed no evidence of carcinogenic potential in mice and rats treated orally for 24 months at doses of 2.5 mg/kg/day, 5 mg/kg/day, or 10 mg/kg/day (approximately 2 to 7 times the recommended human dose).
 Male rats treated with 5 mg/kg/day and 10 mg/kg/day had an increased incidence of hepatocellular adenomas.
@@ -219,7 +225,7 @@ Such a hormone change has not been observed in women treated with fluconazole.
 
 ## Pregnancy
 
-### Teratogenic Effects
+### Teratogenic Effects.
 
 Potential for Fetal Harm: Use in pregnancy should be avoided except in patients with severe or potentially life-threatening fungal infections in whom fluconazole may be used if the anticipated benefit outweighs the possible risk to the fetus.
 A few published case reports describe a pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400 to 800 mg/day) during most or all of the first trimester.
