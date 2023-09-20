@@ -206,28 +206,29 @@ Table 21: XEOMIN 120 Units Initial Dose (Units and % of the Total Dose) by Unila
 Most patients received a total of 2-10 injections into the selected muscles.
 Patients were assessed by telephone at one week post-injection, during clinic visits at Weeks 4 and 8, and then by telephone assessments or clinic visits every two weeks up to Week 20.
 
-The mean age of the study patients was 53 years, and 66% of the patients were women.
+The mean age of the study patients was 53 years, 66% of the patients were women, and 91% were White.
 At study baseline, 61% of patients had previously received a botulinum toxin as treatment for cervical dystonia.
 The study was completed by 94% of study patients.
 Three patients discontinued the study prematurely due to adverse events: two patients in the 240 Unit group experienced musculoskeletal pain and muscle weakness, and one patient in the 120 Unit group experienced nausea and dizziness.
 
 The primary efficacy endpoint was the change in the TWSTRS total score from baseline to Week 4 post-injection, in the intent-to-treat (ITT) population, with missing values replaced by the patient's baseline value.
-In the ITT population, the difference between the XEOMIN 240 Unit group and the placebo group in the change of the TWSTRS total score from baseline to Week 4 was -9.0 points, 95% confidence interval (CI) -12.0; -5.9 points; the difference between the XEOMIN 120 Unit group and the placebo group in the change of the TWSTRS total score from baseline to Week 4 was -7.5 points, 95% CI -10.4; -4.6 points.
+TWSTRS evaluates the severity of dystonia, patient-perceived disability from dystonia, and pain, with a range of possible scores from 0 to 85.
+The mean change in the total TWSTRS score was significantly greater for both XEOMIN groups than for the placebo group (Table 22).
 
-Figure 9 illustrates the cumulative percentage of patients from each of the three treatment groups who had attained the specified change in TWSTRS Score from baseline versus 4 weeks post-injection.
-Three change scores have been identified for illustrative purposes, and the percent of patients in each group achieving that result is shown.
+Table 22: Change in TWSTRS Score at Week 4 in Patients with Cervical Dystonia (Double Blind Pivotal Phase 3 study)
 
-Figure 9: Cumulative Percentage of Patients with Specified Changes from Baseline TWSTRS Total Score at Week 4
+| TWSTRS Assessment | XEOMIN 240 Units (N=78) | XEOMIN 120 Units (N=81) | Placebo (N =74) |
+| --- | --- | --- | --- |
+| Total TWSTRS at baseline | 42.1 | 42.6 | 41.8 |
+| Total TWSTRS at Week 4 | 31.2 | 32.7 | 39.5 |
+| Mean (SD) Change in TWSTRS score from baseline to Week 4 | -10.9 (11.7) | -9.9 (10.4) | -2.2 (7.3) |
+| Mean difference from placebo (95% CI) | -9.0 (-12.0, -5.9) | -7.5 (-10.4, -4.6) |  |
+| p-valuep-value(s) are from ANCOVA model. versus placebo | <0.001 | <0.001 |  |
+| SD = Standard Deviation, CI = Confidence Interval. |  |  |  |
 
-The curves demonstrate that both patients assigned to placebo and XEOMIN have a wide range of responses, but that the active treatment groups are more likely to show greater improvements.
-A curve for an effective treatment would be shifted to the left of the curve for placebo, while an ineffective or deleterious treatment would be superimposed upon or shifted to the right of the curve for placebo.
-
-Comparison of each XEOMIN group to the placebo group was statistically significant at p<0.001.
-Initial XEOMIN doses of 120 Units and 240 Units demonstrated no significant difference in effectiveness between the doses.
 The efficacy of XEOMIN was similar in patients who were botulinum toxin naïve and those who had received botulinum toxin prior to this study.
 
 Examination of age and gender subgroups did not identify differences in response to XEOMIN among these subgroups.
-There were too few non-white patients enrolled to adequately assess efficacy in other racial populations.
 
 ## 14.4 Blepharospasm
 
@@ -243,9 +244,9 @@ A total of 39 patients entered and completed the OLEX phase.
 
 The primary efficacy variable was the change from baseline in JRS Severity subscore determined at Week 6 after the injection.
 The 50 Unit treatment group demonstrated statistically significant improvements compared to placebo, with a difference of -1.2 (p=0.0004).
-The change from baseline in the JRS Severity subscore for the 25 Unit treatment group 6 weeks after the injection was not statistically significant, with a difference of -0.5 (p=0.1452) compared to placebo (see Figure 10).
+The change from baseline in the JRS Severity subscore for the 25 Unit treatment group 6 weeks after the injection was not statistically significant, with a difference of -0.5 (p=0.1452) compared to placebo (see Figure 9).
 
-Figure 10: Frequency Distribution of Changes from Baseline JRS Severity Subscore at Week 6 for Treatment-Naïve Patients
+Figure 9: Frequency Distribution of Changes from Baseline JRS Severity Subscore at Week 6 for Treatment-Naïve Patients
 
 Pre-Treated Patients
 
@@ -257,9 +258,9 @@ Patients were randomized (2:1) to receive a single administration of XEOMIN (n=7
 Each patient in the XEOMIN group received a XEOMIN treatment (dose, volume, dilution, and injection sites per muscle) that was similar to the most recent onabotulinumtoxinA injection sessions prior to study entry.
 The highest dose permitted in this study was 100 Units (50 Units per eye); the mean XEOMIN dose was 33 Units per eye.
 
-In Table 22 the most frequently injected sites, the median dose per injection site, and the median number (and range) of injection sites per eye are presented.
+In Table 23 the most frequently injected sites, the median dose per injection site, and the median number (and range) of injection sites per eye are presented.
 
-Table 22: Median Dose and Median Number of Injection Sites per Eye (Blepharospasm)
+Table 23: Median Dose and Median Number of Injection Sites per Eye (Blepharospasm)
 
 | Injection Area | Median Units XEOMIN | Median Number of Injection Sites (Min-Max) |
 | --- | --- | --- |
@@ -271,7 +272,7 @@ Table 22: Median Dose and Median Number of Injection Sites per Eye (Blepharospas
 
 Patients were assessed during clinic visits at Weeks 3 and 6, and then by telephone or at clinic visits every two weeks up to Week 20.
 
-The mean age of the study patients was 62 years, and 65% of the patients were women.
+The mean age of the study patients was 62 years, 65% of the patients were women, and 83% were White.
 The study was completed by 94% of study patients.
 Approximately one third of patients had other dystonic phenomena; in all but 1% this was limited to facial, cervical, perioral and mandibular muscles.
 No patients discontinued the study prematurely due to adverse events.
@@ -280,10 +281,9 @@ The primary efficacy endpoint was the change in the JRS Severity subscore from b
 In the ITT population, the difference between the XEOMIN group and the placebo group in the change of the JRS Severity subscore from baseline to Week 6 was -1.0 (95% CI -1.4; -0.5) points.
 Comparison of the XEOMIN group to the placebo group was statistically significant at p<0.001.
 
-Figure 11: Frequency Distribution of Changes from Baseline JRS Severity Subscore at Week 6
+Figure 10: Frequency Distribution of Changes from Baseline JRS Severity Subscore at Week 6
 
 Examination of age and gender subgroups did not identify substantial differences in response to XEOMIN among these subgroups.
-There were too few non-white patients enrolled to adequately assess efficacy in other racial populations.
 
 ## 14.5 Glabellar Lines
 
@@ -299,10 +299,10 @@ Subjects were followed up for 120 days.
 
 Investigators and subjects assessed efficacy at maximum frown on Day 30 of treatment using a 4-point scale (0=none, 1=mild, 2=moderate, 3=severe).
 Composite treatment success was defined as a 2-grade improvement on this scale compared to baseline for both the investigator's and subject's assessments on Day 30.
-The percentage of subjects with treatment success was greater on the XEOMIN arm than the placebo arm at Day 30 in both studies (see Table 23).
-The percentage of subjects with composite treatment success at each visit is presented in Figure 12.
+The percentage of subjects with treatment success was greater on the XEOMIN arm than the placebo arm at Day 30 in both studies (see Table 24).
+The percentage of subjects with composite treatment success at each visit is presented in Figure 11.
 
-Table 23: Treatment Success at Day 30 (at Least 2 Grades Improvement from Baseline at Maximum Frown)
+Table 24: Treatment Success at Day 30 (at Least 2 Grades Improvement from Baseline at Maximum Frown)
 
 |  | XEOMIN (N=184) | Placebo (N=92) | XEOMIN (N=182) | Placebo (N=89) |
 | --- | --- | --- | --- | --- |
@@ -311,4 +311,4 @@ Table 23: Treatment Success at Day 30 (at Least 2 Grades Improvement from Baseli
 | Investigator Assessment | 141 (77%) | 0 (0%) | 129 (71%) | 0 (0%) |
 | Subject Assessment | 120 (65%) | 0 (0%) | 101 (55%) | 1 (1%) |
 
-Figure 12: Percentage of Subjects with Composite Treatment Success by Visit – Observed Cases (GL-1 and GL-2)
+Figure 11: Percentage of Subjects with Composite Treatment Success by Visit – Observed Cases (GL-1 and GL-2)

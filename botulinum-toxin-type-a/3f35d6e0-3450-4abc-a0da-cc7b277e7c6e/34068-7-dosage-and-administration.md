@@ -249,7 +249,7 @@ Cervical Dystonia
 
 A sterile needle (e.g., 26-gauge (0.45 mm diameter), 37 mm length for superficial muscles; or 22-gauge (0.70 mm diameter), 75 mm length for deeper musculature) should be used in the intramuscular administration in the treatment of cervical dystonia.
 
-Localization of the involved muscles with electromyographic guidance or nerve stimulation techniques may be useful.
+Localization of the involved muscles with electromyographic guidance, ultrasound, or nerve stimulation techniques may be useful.
 
 Blepharospasm
 
