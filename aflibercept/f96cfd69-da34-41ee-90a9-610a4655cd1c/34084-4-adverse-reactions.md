@@ -110,7 +110,7 @@ Adverse reactions established for adult indications are considered applicable to
 
 Table 4: Adverse Reactions in ROP Studies Five year follow-up studies are ongoing through 2026
 
-|  | EYLEA (N=93) | Laser (N=27) | EYLEA (N=75) | Laser (N=28) |
+|  | EYLEA (N=93) | Laser (N=27) | EYLEA (N=75) | Laser (N=38) |
 | --- | --- | --- | --- | --- |
 | Adverse Reactions | Baseline to 52 weeks of chronological age |  | Baseline to 52 weeks of chronological age |  |
 | BUTTERFLEYE |  | FIREFLEYE/FIREFLEYE NEXT |  |  |
