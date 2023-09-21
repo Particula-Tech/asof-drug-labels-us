@@ -5,7 +5,7 @@
 The effectiveness of donepezil hydrochloride as a treatment for mild to moderate Alzheimer's disease is demonstrated by the results of two randomized, double-blind, placebo-controlled clinical investigations in patients with Alzheimer's disease (diagnosed by NINCDS and DSM III-R criteria, Mini-Mental State Examination ≥ 10 and ≤ 26 and Clinical Dementia Rating of 1 or 2).
 The mean age of patients participating in donepezil hydrochloride trials was 73 years with a range of 50 to 94.
 Approximately 62% of patients were women and 38% were men.
-The racial distribution was white 95%, black 3% and other races 2%.
+The racial distribution was white 95%, black 3%, and other races 2%.
 
 The higher dose of 10 mg did not provide a statistically significantly greater clinical benefit than 5 mg.
 There is a suggestion, however, based upon order of group mean scores and dose trend analyses of data from these clinical trials, that a daily dose of 10 mg of donepezil hydrochloride might provide additional benefit for some patients.
@@ -16,12 +16,12 @@ Accordingly, whether or not to employ a dose of 10 mg is a matter of prescriber 
 In each study, the effectiveness of treatment with donepezil hydrochloride was evaluated using a dual outcome assessment strategy.
 
 The ability of donepezil hydrochloride to improve cognitive performance was assessed with the cognitive subscale of the Alzheimer's Disease Assessment Scale (ADAS-cog), a multi-item instrument that has been extensively validated in longitudinal cohorts of Alzheimer's disease patients.
-The ADAS-cog examines selected aspects of cognitive performance including elements of memory, orientation, attention, reasoning, language and praxis.
+The ADAS-cog examines selected aspects of cognitive performance including elements of memory, orientation, attention, reasoning, language, and praxis.
 The ADAS-cog scoring range is from 0 to 70, with higher scores indicating greater cognitive impairment.
 Elderly normal adults may score as low as 0 or 1, but it is not unusual for non-demented adults to score slightly higher.
 
 The patients recruited as participants in each study had mean scores on the ADAS-cog of approximately 26 points, with a range from 4 to 61.
-Experience based on longitudinal studies of ambulatory patients with mild to moderate Alzheimer's disease suggest that scores on the ADAS-cog increase (worsen) by 6 – 12 points per year.
+Experience based on longitudinal studies of ambulatory patients with mild to moderate Alzheimer's disease suggest that scores on the ADAS-cog increase (worsen) by 6-12 points per year.
 However, smaller changes may be seen in patients with very mild or very advanced disease since the ADAS-cog is not uniformly sensitive to change over the course of the disease.
 The annualized rate of decline in the placebo patients participating in donepezil hydrochloride trials was approximately 2 to 4 points per year.
 
@@ -30,7 +30,7 @@ The CIBIC-plus is not a single instrument and is not a standardized instrument l
 Clinical trials for investigational drugs have used a variety of CIBIC formats, each different in terms of depth and structure.
 
 As such, results from a CIBIC-plus reflect clinical experience from the trial or trials in which it was used and cannot be compared directly with the results of CIBIC-plus evaluations from other clinical trials.
-The CIBIC-plus used in donepezil hydrochloride trials was a semi-structured instrument that was intended to examine four major areas of patient function: General, Cognitive, Behavioral and Activities of Daily Living.
+The CIBIC-plus used in donepezil hydrochloride trials was a semi-structured instrument that was intended to examine four major areas of patient function: General, Cognitive, Behavioral, and Activities of Daily Living.
 It represents the assessment of a skilled clinician based upon his/her observations at an interview with the patient, in combination with information supplied by a caregiver familiar with the behavior of the patient over the interval rated.
 The CIBIC-plus is scored as a seven-point categorical rating, ranging from a score of 1, indicating “markedly improved,” to a score of 4, indicating “no change” to a score of 7, indicating “markedly worse.”
 The CIBIC-plus has not been systematically compared directly to assessments not using information from caregivers (CIBIC) or other global methods.
@@ -64,7 +64,7 @@ A curve for an effective treatment would be shifted to the left of the curve for
 
 Figure 2.
 Cumulative Percentage of Patients Completing 24 Weeks of Double-blind Treatment with Specified Changes from Baseline ADAS-cog Scores.
-The Percentages of Randomized Patients who Completed the Study were: Placebo 80%, 5 mg/day 85% and 10 mg/day 68%.
+The Percentages of Randomized Patients who Completed the Study were: Placebo 80%, 5 mg/day 85%, and 10 mg/day 68%.
 
 Effects on the CIBIC-plus
 
@@ -96,7 +96,7 @@ Following 3 weeks of placebo washout, scores on the ADAS-cog for both the donepe
 The duration of this placebo washout period was not sufficient to characterize the rate of loss of the treatment effect, but the 30-week study (see above) demonstrated that treatment effects associated with the use of donepezil hydrochloride abate within 6 weeks of treatment discontinuation.
 
 Figure 5 illustrates the cumulative percentages of patients from each of the three treatment groups who attained the measure of improvement in ADAS-cog score shown on the X axis.
-The same three change scores, (7-point and 4-point reductions from baseline or no change in score) as selected for the 30-week study have been used for this illustration.
+The same three change scores (7-point and 4-point reductions from baseline or no change in score) as selected for the 30-week study have been used for this illustration.
 The percentages of patients achieving those results are shown in the inset table.
 
 As observed in the 30-week study, the curves demonstrate that patients assigned to either placebo or to donepezil hydrochloride have a wide range of responses, but that the donepezil hydrochloride treated patients are more likely to show greater improvements in cognitive performance.

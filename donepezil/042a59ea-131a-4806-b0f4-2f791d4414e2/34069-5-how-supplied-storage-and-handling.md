@@ -16,4 +16,6 @@ The 10 mg tablets are light yellow, round, film-coated tablets, debossed with �
 - •Bottles of 90 (NDC# 43547-276-09)
 - •Bottles of 1000 (NDC# 43547-276-11)
 
-Storage: Store at controlled room temperature, 15°C to 30°C (59°F to 86°F).
+Storage
+
+Store at controlled room temperature, 15°C to 30°C (59°F to 86°F).

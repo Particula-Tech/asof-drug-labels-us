@@ -93,8 +93,6 @@ Adverse Reactions in Pooled Placebo-Controlled Clinical Trials in Mild to Modera
 | Somnolence | <1 | 2 |
 | Syncope | 1 | 2 |
 
-Severe Alzheimer's Disease
-
 Severe Alzheimer’s Disease (donepezil hydrochloride 5 mg/day and 10 mg/day)
 
 Donepezil hydrochloride has been administered to over 600 patients with severe Alzheimer’s disease during clinical trials of at least 6 months duration, including three double-blind, placebo-controlled trials, two of which had an open label extension.​
@@ -102,7 +100,7 @@ Donepezil hydrochloride has been administered to over 600 patients with severe A
 Adverse Reactions Leading to Discontinuation
 
 The rates of discontinuation from controlled clinical trials of donepezil hydrochloride due to adverse reactions for the donepezil hydrochloride patients were approximately 12% compared to 7% for placebo patients.
-The most common adverse reactions leading to discontinuation, defined as those occurring in at least 2% of donepezil hydrochloride patients and at twice or more the incidence seen in placebo, were anorexia (2% vs. 1% placebo), nausea (2% vs. <1% placebo), diarrhea (2% vs. 0% placebo) and urinary tract infection (2% vs. 1% placebo).
+The most common adverse reactions leading to discontinuation, defined as those occurring in at least 2% of donepezil hydrochloride patients and at twice or more the incidence seen in placebo, were anorexia (2% vs. 1% placebo), nausea (2% vs. <1% placebo), diarrhea (2% vs. 0% placebo), and urinary tract infection (2% vs. 1% placebo).
 
 Most Common Adverse Reactions
 
