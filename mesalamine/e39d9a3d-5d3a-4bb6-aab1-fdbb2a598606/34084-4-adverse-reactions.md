@@ -62,3 +62,5 @@ Some of these cases were fatal.
 One case of Kawasaki-like syndrome which included hepatic function changes was also reported.
 
 Other: anaphylactic reaction, SJS/TEN, DRESS, AGEP, pleurisy/pleuritis, pneumonitis, granulocytopenia, systemic lupus erythematosus, lupus-like syndrome, acute renal failure, interstitial lung disease, hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis), chronic renal failure, nephrogenic diabetes insipidus, nephrolithiasis, intracranial hypertension, angioedema, and oligospermia (reversible).
+
+- Urine discoloration occurring ex-vivo caused by contact of mesalamine, including inactive metabolite, with surfaces or water treated with hypochlorite-containing bleach (see PRECAUTIONS, Information for Patients).
