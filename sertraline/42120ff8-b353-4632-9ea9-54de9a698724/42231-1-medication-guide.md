@@ -164,11 +164,30 @@ Before starting sertraline hydrochloride tablets, tell your healthcare provider:
 - are pregnant or plan to become pregnant.
   Your baby may have withdrawal symptoms after birth or may be at increased risk for a serious lung problem at birth.
   Talk to your healthcare provider about the benefits and risks of taking sertraline hydrochloride tablets during pregnancy.
+  - There is a pregnancy registry for females who are exposed to sertraline hydrochloride tablets during pregnancy.
+    The purpose of the registry is to collect information about the health of females exposed to sertraline hydrochloride tablets and their baby.
+    If you or your child become pregnant during treatment with sertraline hydrochloride tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+    You can register by calling 1-866-961-2388 or by visiting online at https://womensmentalhealth.org/research/pregnancyregistry/antidepressants/
 - are breastfeeding or plan to breastfeed.
   A small amount of sertraline hydrochloride may pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking sertraline hydrochloride tablets.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+
+Especially tell your healthcare provider if you or your child take:
+
+- medicines used to treat migraine headaches called triptans
+- tricyclic antidepressants
+- lithium
+- tramadol, fentanyl, meperidine, methadone, or other opioids
+- tryptophan
+- buspirone
+- amphetamines
+- phenytoin
+- St. John's Wort
+- medicines that can affect blood clotting such as aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), other antiplatelet medicines, warfarin, and other anticoagulants
+- diuretics
+- medicines used to treat mood, anxiety, psychotic, or thought disorders, including selective serotonin reuptake (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs)
 
 Sertraline hydrochloride tablets and some medicines may interact with each other, may not work as well, or may cause serious side effects.
 
@@ -262,4 +281,4 @@ United States
 
 MADE IN INDIA
 
-Revised: February 2023 ID#: 272704
+Revised: September 2023 ID#: 274583

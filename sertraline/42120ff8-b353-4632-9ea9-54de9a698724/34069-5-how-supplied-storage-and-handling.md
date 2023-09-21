@@ -6,11 +6,7 @@ Green colored, capsule shaped, biconvex, film-coated tablets, debossed with 'L' 
 
 NDC 68180-351-06 Bottles of 30
 
-NDC 68180-351-08 Bottles of 50
-
 NDC 68180-351-09 Bottles of 90
-
-NDC 68180-351-01 Bottles of 100
 
 NDC 68180-351-03 Bottles of 1000
 
@@ -22,15 +18,9 @@ NDC 68180-352-06 Bottles of 30
 
 NDC 68180-352-09 Bottles of 90
 
-NDC 68180-352-01 Bottles of 100
-
 NDC 68180-352-02 Bottles of 500
 
-NDC 68180-352-03 Bottles of 1000
-
 NDC 68180-352-05 Bottles of 5000
-
-NDC 68180-352-11 Box containing 10 x 10's unit dose blisters
 
 Sertraline Hydrochloride Tablets USP, 100 mg
 
@@ -40,14 +30,8 @@ NDC 68180-353-06 Bottles of 30
 
 NDC 68180-353-09 Bottles of 90
 
-NDC 68180-353-01 Bottles of 100
-
 NDC 68180-353-02 Bottles of 500
 
-NDC 68180-353-03 Bottles of 1000
-
 NDC 68180-353-05 Bottles of 5000
-
-NDC 68180-353-11 Box containing 10 x 10's unit dose blisters
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].

@@ -2,7 +2,14 @@
 
 ## 8.1 Pregnancy
 
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
+Healthcare providers should encourage patients to enroll by calling the National Pregnancy Registry for Antidepressants at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/research/pregnancyregistry/antidepressants.
+
 Risk Summary
+
+Based on data from published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions (5.3) and Clinical Considerations].
 
 Overall, available published epidemiologic studies of pregnant women exposed to sertraline in the first trimester suggest no difference in major birth defect risk compared to the background rate for major birth defects in comparator populations.
 Some studies have reported increases for specific major birth defects; however, these study results are inconclusive [See Data].
@@ -22,6 +29,10 @@ Disease-associated Maternal and/or Embryo/Fetal Risk:
 A prospective longitudinal study followed 201 pregnant women with a history of major depression who were euthymic taking antidepressants at the beginning of pregnancy.
 The women who discontinued antidepressants during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressants.
 Consider the risks of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
+
+Maternal Adverse Reactions
+
+Use of sertraline hydrochloride tablets in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.3)].
 
 Fetal/Neonatal Adverse Reactions
 
