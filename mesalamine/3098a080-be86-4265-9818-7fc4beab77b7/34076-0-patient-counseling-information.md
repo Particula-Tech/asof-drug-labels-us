@@ -41,4 +41,7 @@ Instruct patients:
 
 - Swallow LIALDA tablets whole; do not split or crush.
 - Take LIALDA tablets with food [see Clinical Pharmacology (12.3)].
+- Urine may become discolored reddish-brown while taking LIALDA when it comes in contact with surfaces or water treated with hypochlorite-containing bleach.
+  If discolored urine is observed, advise patients to observe their urine flow.
+  Report to the healthcare provider only if urine is discolored on leaving the body, before contact with any surface or water (e.g., in the toilet).
 - Drink an adequate amount of fluids [see Warnings and Precautions (5.8)].
