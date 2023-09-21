@@ -1,11 +1,11 @@
-Instructions for Use ADMELOG® (ad-mah-log) (insulin lispro injection) for subcutaneous use 10 mL or 3 mL Vial (100 Units/mL, U-100)
+INSTRUCTIONS FOR USE ADMELOG® [ad-mah-log] (insulin lispro) injection, for subcutaneous use 10 mL or 3 mL Vial (100 units/mL, U-100)
 
-Read these Instructions for Use before you start taking ADMELOG and each time you get a new ADMELOG vial.
+Read this Instructions for Use before you start using ADMELOG and each time you get a new ADMELOG vial.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
 Do not share your ADMELOG syringes with other people, even if the needle has been changed.
-You may give other people a serious infection, or get a serious infection from them.
+You may give other people a serious infection or get a serious infection from them.
 
 Supplies needed to give your injection
 
@@ -71,7 +71,7 @@ Giving your ADMELOG injection with a syringe
 Step 7:
 
 - Choose your injection site: ADMELOG is injected under the skin (subcutaneously) of your upper arms, thighs, buttocks, or stomach area (abdomen).
-- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in the skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting pits in the skin or thickened skin (lipodystrophy) and skin with lumps (localized cutaneous amyloidosis) at the injection sites.
 - Do not inject where the skin has pits, is thickened, or has lumps.
 - Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
@@ -96,15 +96,21 @@ Step 9:
 
 Giving your ADMELOG using an insulin pump
 
-- ADMELOG should be inserted into an area of your body recommended in the instructions that come with your insulin pump.
-- Change your insertion site every 3 days.
-- Change (rotate) your insertion sites within the area you choose for each insertion to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+- If you have been prescribed an insulin pump, check the pump manufacturer's user manual to see if ADMELOG can be used with the pump.
+- ADMELOG should be given into an area of your body recommended in the instructions that come with your insulin pump.
+- Change your insertion site according to the manufacturer's user manual.
+- Change (rotate) your insertion sites within the area you choose for each insertion to reduce your risk of getting pits in skin or thickened skin (lipodystrophy) and skin with lumps (localized cutaneous amyloidosis) at the injection sites.
   Do not insert into the exact same spot for each injection.
   Do not insert where the skin has pits, is thickened, or has lumps.
   Do not insert where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
-- Change the insulin in the reservoir at least every 7 days, even if you have not used all of the insulin.
+- Call your healthcare provider and choose a new infusion site if the skin at the infusion site becomes red, itchy, or thickened.
+- Your healthcare provider should provide recommendations for appropriate pump basal and meal-time infusion rates.
+  Call your healthcare provider if you have any questions about using the insulin pump.
+- Change the insulin in the reservoir at least every 7 days or according to the pump user manual, whichever is shorter, even if you have not used all of the insulin.
 - Do not dilute or mix ADMELOG with any other type of insulin in your insulin pump.
-- See your insulin pump manual for instructions or talk to your healthcare provider.
+- You should be trained on how to give insulin by injection and have an alternative insulin delivery system in case of pump failure.
+- When you start using ADMELOG by infusion pump, your insulin dose may need to be changed.
+  Check with your healthcare provider before making any changes to your insulin dose.
 
 Disposing of used needles and syringes
 
@@ -135,21 +141,30 @@ Unopened (not in-use) ADMELOG vials
 
 After ADMELOG vials have been opened (in-use)
 
-- Store in-use (opened) ADMELOG vials in a refrigerator from 36°F to 46°F (2°C to 8°C) or at room temperature below 86°F (30°C) for up to 28 days.
+- Store in-use (opened) ADMELOG vials in a refrigerator from 36°F to 46°F (2°C to 8°C) or at room temperature up to 86°F (30°C) for up to 28 days.
 - Do not freeze ADMELOG.
 - Keep ADMELOG out of direct heat and light.
 - If a vial has been frozen, throw it away.
 - The ADMELOG vial you are using should be thrown away after 28 days, even if it still has insulin left in it.
 
+ADMELOG in an insulin pump
+
+- Throw away ADMELOG in the pump reservoir if it has been exposed to temperatures higher than 98.6°F (37°C).
+  This may happen if the pump housing, cover, tubing, or sport case is exposed to sunlight or direct heat.
+
+Keep ADMELOG vials, syringes, needles and all medicines out of the reach of children.
+
+Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752
+
+ADMELOG is a registered trademark of sanofi-aventis U.S. LLC. ©2023 sanofi-aventis U.S. LLC.
+
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-sanofi-aventis U.S. LLC, Bridgewater, NJ 08807, A SANOFI COMPANY
+Revised: August 2023
 
-ADMELOG is a registered trademark of sanofi-aventis U.S. LLC.
+# INSTRUCTIONS FOR USE
 
-Revised: November 2019
-
-# Instructions for Use ADMELOG® SoloStar® (ad-mah-log) (insulin lispro injection) for subcutaneous use 3 mL single-patient-use prefilled pen (100 Units/mL, U-100)
+ADMELOG® SoloStar® [ad-mah-log] (insulin lispro) injection, for subcutaneous use 3 mL single-patient-use prefilled pen (100 units/mL, U-100)
 
 Read this first
 
@@ -171,7 +186,7 @@ Important information
 - Do not reuse needles.
   If you do, you might get the wrong dose of ADMELOG and/or increase the chance of getting an infection.
 - Always perform a safety test (see Step 3).
-- Always carry a spare pen and spare needles in case they got lost or stop working.
+- Always carry a spare pen and spare needles in case they get lost or stop working.
 - Change (rotate) your injection sites within the area you choose for each dose (see "Places to inject").
 
 Learn to inject
@@ -190,15 +205,15 @@ Extra items you will need:
 - a new sterile needle (see Step 2).
 - an alcohol swab.
 - a puncture-resistant container for used needles and pens.
-  (See "Throwing your pen away").
+  (See "Throwing your pen away)
 
 Places to inject
 
 - Inject your insulin exactly as your healthcare provider has shown you.
-- Inject your insulin under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
-- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+- Inject your insulin under the skin (subcutaneously) of your upper legs (thighs), upper arms, buttocks or stomach area (abdomen).
+- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting pits in skin or thickened skin (lipodystrophy) and skin with lumps (localized cutaneous amyloidosis) at the injection sites.
 - Do not inject where the skin has pits, is thickened, or has lumps.
-- Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
+  Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 Get to know your pen
 
@@ -229,7 +244,7 @@ Step 2: Attach a new needle
 - Do not reuse needles.
   Always use a new sterile needle for each injection.
   This helps stop blocked needles, contamination, and infection.
-- Only use needlesThe brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC that are compatible for use with ADMELOG SoloStar, e.g. needles from BD (such as BD Ultra-Fine®), Ypsomed (such as Clickfine®), Owen Mumford (such as Unifine® Pentips®).
+- Only use needles that are compatible for use with ADMELOG SoloStar, such as needles from BD (such as BD Ultra-Fine), Ypsomed (such as Clickfine), Owen Mumford (such as Unifine Pentips).
 
 2A Take a new needle and peel off the protective seal.
 
@@ -279,7 +294,7 @@ Step 4: Select the dose
 Do not select a dose or press the injection button without a needle attached.
 This may damage your pen.
 
-4A Make sure a needle is attached and the dose is set to '0'.
+4A Make sure a needle is attached and the dose is set to "0."
 
 4B Turn the dose selector until the dose pointer lines up with your dose.
 
@@ -368,7 +383,7 @@ Before first use
 
 After first use
 
-- Keep your pen at room temperature below 86°F (30°C).
+- Keep your pen at room temperature up to 86°F (30°C).
 - Keep your pen away from heat or light.
 - Store your pen with the pen cap on.
 - Do not put your pen back in the refrigerator.
@@ -391,10 +406,11 @@ Protect your pen from dust and dirt
   Do not soak, wash or lubricate your pen.
   This may damage it.
 
-Throwing your pen away
+Throwing your pen and used needle pen away
 
-- Put the used ADMELOG SoloStar pen in a FDA-cleared sharps disposal container right away after use.
-  Do not throw away (dispose of) the ADMELOG SoloStar pen in your household trash.
+- The used ADMELOG SoloStar pen may be thrown away in your household trash after you have removed the needle.
+- Put the used needle in a FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) the used needles in your household trash.
 - If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
   - made of a heavy-duty plastic,
   - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
@@ -405,12 +421,11 @@ Throwing your pen away
   There may be state or local laws about how you should throw away used needles and syringes.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal.
 
+Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752
+
+ADMELOG and SoloStar are registered trademarks of sanofi-aventis U.S. LLC. ©2023 sanofi-aventis U.S. LLC.
+Other brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC.
+
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
-
-Revised: November 2019
-
-©2019 sanofi-aventis U.S. LLC
-
-ADMELOG and SoloStar are registered trademarks of sanofi-aventis U.S. LLC.
+Revised: August 2023

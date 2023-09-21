@@ -1,8 +1,8 @@
 # PRINCIPAL DISPLAY PANEL - 10 mL Vial Carton
 
-NDC 0024-5924-10 Rx ONLY
+NDC 0024-5924-10 Rx only
 
-Admelog® insulin lispro injection
+Admelog® (insulin lispro) injection
 
 100 units/mL (U-100)
 
@@ -10,17 +10,19 @@ For subcutaneous use
 
 For intravenous infusion after further dilution ONLY under direct medical supervision
 
-One 10 mL Vial
+Use only with a U-100 syringe
 
-SANOFI
+10mL multiple-dose vial
+
+sanofi
 
 # PRINCIPAL DISPLAY PANEL - 3 mL Pen Carton
 
-Rx ONLY
+Rx only
 
 NDC 0024-5925-05
 
-Admelog® SoloStar® insulin lispro injection For Single Patient Use Only
+Admelog® SoloStar® (insulin lispro) injection For Single Patient Use Only
 
 100 units/mL (U-100)
 
@@ -28,17 +30,17 @@ For subcutaneous use only
 
 Do not mix with other insulins
 
-Five 3 mL Prefilled Pens
+Five 3 mL prefilled pens
 
 Dispense in this sealed carton
 
-SANOFI
+sanofi
 
 # PRINCIPAL DISPLAY PANEL - 3 mL Vial Carton
 
-NDC 0024-5926-05 Rx ONLY
+NDC 0024-5926-05 Rx only
 
-Admelog® insulin lispro injection
+Admelog® (insulin lispro) injection
 
 100 units/mL (U-100)
 
@@ -46,6 +48,8 @@ For subcutaneous use
 
 For intravenous infusion after further dilution ONLY under direct medical supervision
 
-One 3 mL Vial
+Use only with a U-100 syringe
 
-SANOFI
+3mL multiple-dose vial
+
+sanofi

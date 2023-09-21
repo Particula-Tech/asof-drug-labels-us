@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Important Administration Instructions
+## 2.1 Important Preparation and Administration Instructions
 
 - Always check insulin labels before administration [see Warnings and Precautions (5.4)].
 - Inspect ADMELOG visually before use.
@@ -9,45 +9,49 @@
 - Use ADMELOG SoloStar prefilled pen with caution in patients with visual impairment who may rely on audible clicks to dial their dose.
 - Do NOT mix ADMELOG with other insulins when administering using a continuous subcutaneous infusion pump.
 
-## 2.2 Route of Administration
+## 2.2 Preparation and Administration Instructions for the Approved Routes of Administration
 
 Subcutaneous Injection
 
-- Administer the dose of ADMELOG within fifteen minutes before a meal or immediately after a meal.
-- ADMELOG administered by subcutaneous injection should generally be used in regimens with intermediate or long-acting insulin.
-- ADMELOG should be administered by subcutaneous injection in the abdominal wall, thigh, upper arm, or buttocks.
-  Rotate injection site within the same region (abdomen, thigh, upper arm, or buttocks) from one injection to the next to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
+- Administer the dose of ADMELOG subcutaneously within fifteen minutes before a meal or immediately after a meal into the abdominal wall, thigh, upper arm, or buttocks.
+- Rotate injection site within the same region from one injection to the next to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
   Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2), Adverse Reactions (6)].
 - During changes to a patient's insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
+- ADMELOG administered by subcutaneous injection should generally be used in regimens with intermediate or long-acting insulin.
 - The ADMELOG SoloStar prefilled pen dials in 1-unit increments.
+- Prior to subcutaneous use, ADMELOG may be diluted with sterile 0.9% Sodium Chloride Injection.
+  Dilute one-part ADMELOG to one-part 0.9% Sodium Chloride Injection to yield a concentration one-half that of ADMELOG (equivalent to U-50).
+  If diluted ADMELOG is not used immediately, refrigerate at 2°C to 8°C (36°F to 46°F) for no more than 24 hours or store at room temperature up to 30°C (86°F) for 4 hours.
+  Discard the unused diluted ADEMLOG after 24 hours if refrigerated or after 4 hours if stored at room temperature.
 
 Continuous Subcutaneous Infusion (Insulin Pump)
 
+- Refer to the continuous subcutaneous insulin infusion pump user manual to see if ADMELOG can be used with the insulin pump.
+  Use ADMELOG in accordance with the insulin pump system's instructions for use.
 - Administer ADMELOG by continuous subcutaneous infusion in a region recommended in the instructions from the pump manufacturer.
   Rotate infusion sites within the same region to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
   Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2), Adverse Reactions (6)].
+- Train patients using continuous subcutaneous insulin infusion therapy to administer insulin by injection and have alternate insulin therapy available in case of insulin pump failure [see Warnings and Precautions (5.8)].
 - During changes to a patient's insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
-- Follow healthcare provider recommendations when setting basal and mealtime infusion rate.
+- Change ADMELOG in the pump reservoir at least every 7 days or according to the pump user manual, whichever is shorter.
+- Change the infusion sets and the infusion set insertion site according to the manufacturer's user manual.
 - Do NOT dilute or mix ADMELOG when administering by continuous subcutaneous infusion.
-- Change ADMELOG in the pump reservoir at least every 7 days.
-- Change the infusion sets and the infusion set insertion site at least every 3 days.
 - Do NOT expose ADMELOG in the pump reservoir to temperatures greater than 98.6°F (37°C).
-- Use ADMELOG in accordance with the insulin infusion pump systems instructions for use.
-  See the insulin infusion pump system labeling to determine if ADMELOG can be used with the pump system.
 
 Intravenous Administration
 
-- Dilute ADMELOG to concentrations from 0.1 unit/mL to 1 unit/mL using 0.9% sodium chloride.
-- Administer ADMELOG intravenously ONLY under medical supervision with close monitoring of blood glucose and potassium levels to avoid hypoglycemia and hypokalemia [see Warnings and Precautions (5.3, 5.6) and How Supplied/Storage and Handling (16.4)].
+- Administer ADMELOG intravenously ONLY under medical supervision [see Warnings and Precautions (5.3, 5.6)].
+- Dilute ADMELOG to concentrations from 0.1 unit/mL to 1 unit/mL using 0.9% Sodium Chloride Injection, USP [see How Supplied/Storage and Handling (16.2)].
+- Closely monitor of blood glucose and potassium levels to avoid hypoglycemia and hypokalemia [see Warnings and Precautions (5.3, 5.6)].
 
-## 2.3 Dosage Information
+## 2.3 Dosage Recommendations
 
-- Individualize and adjust the dosage of ADMELOG based on route of administration, the individual's metabolic needs, blood glucose monitoring results, and glycemic control goal.
-- Dosage adjustments may be needed with changes in physical activity, changes in meal patterns (i.e., macronutrient content or timing of food intake), changes in renal or hepatic function, or during acute illness [see Warnings and Precautions (5.2, 5.3) and Use in Specific Populations (8.6, 8.7)].
-- If changing patients from another insulin lispro product to ADMELOG, the dose of ADMELOG should be the same as the other insulin lispro product [see Warnings and Precautions (5.2)].
+- Individualize and adjust the dosage of ADMELOG based on the route of administration, the patient's metabolic needs, blood glucose monitoring results, and glycemic control goal.
+- Dosage modifications may be needed with changes in physical activity, changes in meal patterns (i.e., macronutrient content or timing of food intake), changes in renal or hepatic function, or during acute illness [see Warnings and Precautions (5.2, 5.3) and Use in Specific Populations (8.6, 8.7)].
+- When switching from another insulin lispro product to ADMELOG, the dose of ADMELOG should be the same as the other insulin lispro product [see Warnings and Precautions (5.2)].
+- When switching from other insulins to ADMELOG, the ADMELOG dosage may need to be adjusted [see Warnings and Precautions (5.2)].
 
-## 2.4 Dosage Adjustment Due to Drug Interactions
+## 2.4 Dosage Adjustment for Drug Interactions
 
-- Dosage adjustment may be needed when ADMELOG is coadministered with certain drugs [see Drug Interactions (7)].
-- Dosage adjustment may be needed when switching from another insulin to ADMELOG [see Warnings and Precautions (5.2)].
+- Dosage modification may be needed when ADMELOG is coadministered with certain drugs [see Drug Interactions (7)].
 - Do NOT mix ADMELOG with any other insulin.
