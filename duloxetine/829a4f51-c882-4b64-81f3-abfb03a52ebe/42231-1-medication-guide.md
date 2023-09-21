@@ -96,6 +96,9 @@ Before starting duloxetine delayed-release capsules, tell your healthcare provid
   Duloxetine delayed-release capsules may harm your unborn baby.
   Talk to your healthcare provider about the risk to your unborn baby if you take duloxetine delayed-release capsules during pregnancy.
 - Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with duloxetine delayed-release capsules.
+- There is a pregnancy registry for females who are exposed to duloxetine delayed release capsules during pregnancy.
+  The purpose of the registry is to collect information about the health of females exposed to duloxetine delayed-release capsules and their baby.
+  If you become pregnant during treatment with duloxetine delayed-release capsules, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants at 1-866-961-2388 or visit online at https://womensmentalhealth.org/research/pregnancyregistry/.$$$EndUnOrderedlist
 - are breastfeeding or plan to breastfeed.
   Duloxetine passes into your breast milk and may harm your baby.
   Talk to your healthcare provider about the best way to feed your baby while taking duloxetine delayed-release capsules.
@@ -107,7 +110,7 @@ Especially tell your healthcare provider if you take:
 
 - triptans used to treat migraine headache
 - medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs or MAOIs
-- tramadol and fentanyl
+- tramadol, fentanyl, meperidine, methadone, or other opoids
 - amphetamines
 - cimetidine
 - the antibiotics ciprofloxacin, enoxacin
@@ -331,4 +334,4 @@ Goa 403722
 
 INDIA
 
-Revised: February 2022 ID#: 269497
+Revised: September 2023 ID#: 274622

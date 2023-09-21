@@ -28,7 +28,7 @@ Advise patients of the risk of orthostatic hypotension, falls and syncope, espec
 
 • Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome with the concomitant use of duloxetine and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John's Wort [see Contraindications (4), Warnings and Precautions (5.4), and Drug Interactions (7.14)].
+Caution patients about the risk of serotonin syndrome with the concomitant use of duloxetine and other serotonergic agents including triptans, tricyclic antidepressants, opoids, lithium, buspirone, tryptophan, amphetamines, and St. John's Wort [see Contraindications (4), Warnings and Precautions (5.4), and Drug Interactions (7.14)].
 
 Advise patients of the signs and symptoms associated with serotonin syndrome that may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Caution patients to seek medical care immediately if they experience these symptoms.
@@ -94,7 +94,7 @@ Inform patients that they should discuss any changes in sexual function and pote
 • Pregnancy
 
 - Advise women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with duloxetine.
-- Advise pregnant women or patients who intend to become pregnant that duloxetine use during the month before delivery may lead to an increased risk for postpartum hemorrhage and may increase the risk of neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+- Advise pregnant women or patients who intend to become pregnant that duloxetine may increase the risk of neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 - Advise pregnant women that there is a risk of relapse with discontinuation of antidepressants.
 - Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to duloxetine during pregnancy [see Use in Specific Populations (8.1)].
 
@@ -123,4 +123,4 @@ Goa 403722
 
 INDIA
 
-Revised: February 2022 ID#: 269217
+Revised: September 2023 ID#: 274620

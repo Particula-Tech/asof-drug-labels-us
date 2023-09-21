@@ -58,8 +58,10 @@ Begin treatment at 30 mg once daily for 1 week, to allow patients to adjust to d
 Some patients may respond to the starting dosage.
 There is no evidence that dosages greater than 60 mg/day confer additional benefit, even in patients who do not respond to a 60 mg/day dosage, and higher dosages were associated with a higher rate of adverse reactions.
 
-Additional pediatric use information is approved for Eli Lilly and Company, Inc.'s CYMBALTA (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Recommended Dosage in Pediatric Patients 13 to 17 Years of Age
+
+The recommended starting duloxetine delayed-release capsule dosage in pediatric patients 13 to17 years of age with fibromyalgia is 30 mg once daily.
+The dosage may be increased to 60 mg once daily based on response and tolerability.
 
 ## 2.6 Dosage for Treatment of Chronic Musculoskeletal Pain in Adults
 

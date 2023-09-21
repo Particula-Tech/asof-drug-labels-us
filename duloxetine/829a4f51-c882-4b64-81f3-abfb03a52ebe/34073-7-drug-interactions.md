@@ -72,9 +72,11 @@ Inhibition of the metabolism of CYP2C19 substrates is therefore not anticipated,
 
 [See Dosage and Administration (2.8, 2.9), Contraindications (4), and Warnings and Precautions (5.4)].
 
-## 7.14 Serotonergic Drugs
+## 7.14 Other Serotonergic Drugs
 
-[See Dosage and Administration (2.8, 2.9), Contraindications (4), and Warnings and Precautions (5.4)].
+The concomitant use of serotonergic drugs (including other SNRIs, SSRIs, triptans, tricyclic antidepressants, opioids, lithium, buspirone, amphetamines, tryptophan, and St. John's Wort) with duloxetine increases the risk of serotonin syndrome.
+Monitor patients for signs and symptoms of serotonin syndrome, particularly during treatment initiation and dosage increases.
+If serotonin syndrome occurs, consider is continuation of duloxetine and/or concomitant serotonergic drugs [See Warnings and Precautions (5.4)].
 
 ## 7.15 Alcohol
 

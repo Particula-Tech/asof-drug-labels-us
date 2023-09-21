@@ -391,8 +391,26 @@ In studies up to 9 months, duloxetine-treated pediatric patients experienced an 
 While height increase was observed during these studies, a mean decrease of 1% in height percentile was observed (decrease of 2% in patients 7 to 11 years of age and increase of 0.3% in patients 12 to 17 years of age).
 Weight and height should be monitored regularly in pediatric patients treated with duloxetine [see Use in Specific Populations (8.4)].
 
-Additional pediatric use information is approved for Eli Lilly and Company, Inc.'s CYMBALTA (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Adverse Reactions in Pediatric Patients Aged 13 to 17 Years Old with Fibromyalgia
+
+Table 7 provides the incidence of adverse reactions in a fibromyalgia pediatric placebo-controlled trial (Study FM-4) that occurred in greater than 5% of patients treated with duloxetine and with an incidence greater than patients treated with placebo [see Clinical Studies (14.5)].
+
+Table 7: Adverse Reactions: Incidence of 5% or More and Greater than Placebo in a 13- week Placebo-Controlled Trial in Pediatric Patients 13 to 17 Years Old with Fibromyalgia (Study FM-4) a
+
+|  | Duloxetine (N=91) | Placebo (N=93) |
+| --- | --- | --- |
+| Nausea | 25% | 15% |
+| Decreased appetite | 15% | 3% |
+| Vomiting | 15% | 5% |
+| Decreased weightb | 15% | 5% |
+| Headache | 14% | 11% |
+| Nasopharyngitis | 9% | 2% |
+| Somnolence | 9% | 3% |
+| Upper respiratory tract infection | 7% | 2% |
+| Viral gastroenteritis | 5% | 0% |
+| Fatigue | 5% | 2% |
+| a the inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
+| b Frequency based on weight measurement meeting potentially clinically significant threshold of ≥3.5% weight loss (N = 89 Duloxetine; N = 92 Placebo) |  |  |
 
 ## 6.2 Postmarketing Experience
 
