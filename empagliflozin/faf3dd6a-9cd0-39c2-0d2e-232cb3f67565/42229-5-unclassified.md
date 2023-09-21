@@ -12,4 +12,4 @@ The other brands listed are trademarks of their respective owners and are not tr
 
 Copyright © 2023 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-COL8914JF202023 SPL8934H
+COL8914LI012023 SPL8934J

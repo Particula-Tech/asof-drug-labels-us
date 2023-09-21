@@ -8,7 +8,7 @@ JARDIANCE is indicated:
 
 Limitations of Use
 
-JARDIANCE is not recommended in patients with type 1 diabetes mellitus.
+JARDIANCE is not recommended for use to improve glycemic control in patients with type 1 diabetes mellitus.
 It may increase the risk of diabetic ketoacidosis in these patients [see Warnings and Precautions (5.1)].
 
 JARDIANCE is not recommended for use to improve glycemic control in patients with type 2 diabetes mellitus with an eGFR less than 30 mL/min/1.73 m2.

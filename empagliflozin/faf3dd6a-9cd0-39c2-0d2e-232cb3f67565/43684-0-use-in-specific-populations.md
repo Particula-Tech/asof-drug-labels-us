@@ -18,7 +18,9 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk: Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
+Disease-associated maternal and/or embryo/fetal risk
+
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
 
 Data
@@ -76,16 +78,16 @@ No overall differences in safety and effectiveness have been observed between pa
 
 ## 8.6 Renal Impairment
 
-The efficacy and safety of JARDIANCE for glycemic control were evaluated in a study of adult patients with type 2 diabetes mellitus with mild and moderate renal impairment (eGFR 30 to less than 90 mL/min/1.73 m2) [see Clinical Studies (14)].
+The efficacy and safety of JARDIANCE for glycemic control were evaluated in a study of adult patients with type 2 diabetes mellitus with mild and moderate renal impairment (eGFR 30 to less than 90 mL/min/1.73 m2) [see Clinical Studies (14.1)].
 In this study, 195 adult patients exposed to JARDIANCE had an eGFR between 60 and 90 mL/min/1.73 m2, 91 adult patients exposed to JARDIANCE had an eGFR between 45 and 60 mL/min/1.73 m2, and 97 patients exposed to JARDIANCE had an eGFR between 30 and 45 mL/min/1.73 m2.
 The glucose lowering benefit of JARDIANCE 25 mg decreased in adult patients with worsening renal function.
 The risks of renal impairment, volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function [see Warnings and Precautions (5.2)].
 Use of JARDIANCE for glycemic control in patients without established cardiovascular disease or cardiovascular risk factors is not recommended when eGFR is less than 30 mL/min/1.73 m2.
 
 In a large cardiovascular outcomes study of adult patients with type 2 diabetes mellitus and established cardiovascular disease, there were 1,819 patients with eGFR below 60 mL/min/1.73 m2.
-The cardiovascular death findings in this subgroup were consistent with the overall findings [see Clinical Studies (14)].
+The cardiovascular death findings in this subgroup were consistent with the overall findings [see Clinical Studies (14.3)].
 
-Studies of adult patients with heart failure [see Clinical Studies (14)] enrolled patients with eGFR equal to or above 20 mL/min/1.73 m2.
+Studies of adult patients with heart failure [see Clinical Studies (14.4)] enrolled patients with eGFR equal to or above 20 mL/min/1.73 m2.
 No dosage adjustment is recommended for these patients.
 There are insufficient data to support a dosing recommendation in patients with eGFR below 20 mL/min/1.73 m2.
 

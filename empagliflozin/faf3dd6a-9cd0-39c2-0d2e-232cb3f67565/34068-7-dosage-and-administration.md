@@ -5,7 +5,8 @@
 - Assess renal function before initiating JARDIANCE and as clinically indicated [see Warnings and Precautions (5.2)].
   - Use for glycemic control is not recommended in patients with an eGFR less than 30 mL/min/1.73 m2 [see Use in Specific Populations (8.6)].
   - JARDIANCE is contraindicated in patients on dialysis [see Use in Specific Populations (8.6)].
-- Assess volume status in patients with volume depletion and correct this condition before initiating JARDIANCE [see Warnings and Precautions (5.2) and Use in Specific Populations (8.5, 8.6)].
+- Assess volume status.
+  In patients with volume depletion, correct this condition before initiating JARDIANCE [see Warnings and Precautions (5.2) and Use in Specific Populations (8.5, 8.6)].
 
 ## 2.2 Recommended Dosage
 
@@ -24,3 +25,8 @@ Table 1 Recommended Dosage of JARDIANCE
 
 - If a dose is missed, instruct patients to take the dose as soon as possible.
 - Do not double up the next dose.
+
+## 2.4 Temporary Interruption for Surgery
+
+Withhold JARDIANCE for at least 3 days, if possible, prior to major surgery or procedures associated with prolonged fasting.
+Resume JARDIANCE when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.2)].

@@ -2,7 +2,7 @@
 
 The following important adverse reactions are described below and elsewhere in the labeling:
 
-- Ketoacidosis [see Warnings and Precautions (5.1)]
+- Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis [see Warnings and Precautions (5.1)]
 - Volume Depletion [see Warnings and Precautions (5.2)]
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.3)]
 - Hypoglycemia [see Warnings and Precautions (5.4)]
@@ -20,7 +20,7 @@ The overall safety profile of JARDIANCE was generally consistent across the stud
 Clinical Trials in Adults with Type 2 Diabetes Mellitus
 
 The data in Table 2 are derived from a pool of four 24-week placebo-controlled trials and 18-week data from a placebo-controlled trial with insulin in adult patients with type 2 diabetes mellitus.
-JARDIANCE was used as monotherapy in one trial and as add-on therapy in four trials [see Clinical Studies (14)].
+JARDIANCE was used as monotherapy in one trial and as add-on therapy in four trials [see Clinical Studies (14.1)].
 
 These data reflect exposure of 1,976 adult patients to JARDIANCE with a mean exposure duration of approximately 23 weeks.
 Patients received placebo (N=995), JARDIANCE 10 mg (N=999), or JARDIANCE 25 mg (N=977) once daily.
