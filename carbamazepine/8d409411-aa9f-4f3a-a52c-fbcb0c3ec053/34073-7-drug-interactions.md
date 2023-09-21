@@ -13,11 +13,11 @@ When carbamazepine is given with drugs that can increase or decrease carbamazepi
 Agents That Increase Carbamazepine Levels
 
 CYP3A4 inhibitors inhibit Tegretol metabolism and can thus increase plasma carbamazepine levels.
-Drugs that have been shown, or would be expected, to increase plasma carbamazepine levels include aprepitant, cimetidine, ciprofloxacin, danazol, diltiazem, macrolides, erythromycin, troleandomycin, clarithromycin, fluoxetine, fluvoxamine, trazodone, olanzapine, loratadine, terfenadine, omeprazole, oxybutynin, dantrolene, isoniazid, niacinamide, nicotinamide, ibuprofen, propoxyphene, azoles (e.g., ketaconazole, itraconazole, fluconazole, voriconazole), acetazolamide, verapamil, ticlopidine, grapefruit juice, and protease inhibitors.
+Drugs that have been shown, or would be expected, to increase plasma carbamazepine levels include aprepitant, cimetidine, ciprofloxacin, danazol, diltiazem, macrolides (e.g., erythromycin, clarithromycin), fluoxetine, fluvoxamine, trazodone, omeprazole, oxybutynin, isoniazid, niacinamide (nicotinamide), azoles (e.g., ketaconazole, itraconazole, fluconazole, voriconazole), acetazolamide, verapamil, ticlopidine, grapefruit juice, and protease inhibitors.
 
 Human microsomal epoxide hydrolase has been identified as the enzyme responsible for the formation of the 10,11-transdiol derivative from carbamazepine-10,11 epoxide.
 Coadministration of inhibitors of human microsomal epoxide hydrolase may result in increased carbamazepine-10,11 epoxide plasma concentrations.
-Accordingly, the dosage of Tegretol should be adjusted and/or the plasma levels monitored when used concomitantly with loxapine, quetiapine, or valproic acid.
+Accordingly, the dosage of Tegretol should be adjusted and/or the plasma levels monitored when used concomitantly with loxapine, quetiapine, valproic acid, or brivaracetam.
 
 Agents That Decrease Carbamazepine Levels
 
@@ -28,7 +28,7 @@ Drugs that have been shown, or that would be expected, to decrease plasma carbam
 
 Decreased Levels of Concomitant Medications
 
-Tegretol is a potent inducer of hepatic 3A4 and is also known to be an inducer of CYP1A2, 2B6, 2C9/19, and may therefore reduce plasma concentrations of co-medications mainly metabolized by CYP 1A2, 2B6, 2C9/19, and 3A4, through induction of their metabolism.
+Tegretol is a potent inducer of hepatic 3A4 and is also known to be an inducer of CYP1A2, 2B6, 2C8/9/19, and may therefore reduce plasma concentrations of co-medications mainly metabolized by CYP1A2, 2B6, 2C8/9/19, and 3A4, through induction of their metabolism.
 When used concomitantly with Tegretol, monitoring of concentrations or dosage adjustment of these agents may be necessary:
 
 - When carbamazepine is added to aripiprazole, the aripiprazole dose should be doubled.
@@ -52,6 +52,7 @@ Other Drug Interactions
   The rate of metabolism and the leukopenic activity of cyclophosphamide are reportedly increased by chronic coadministration of CYP3A4 inducers.
   There is a potential for increased cyclophosphamide toxicity when coadministered with carbamazepine.
 - Concomitant administration of carbamazepine and lithium may increase the risk of neurotoxic side effects.
+- Concomitant use of carbamazepine with olanzapine, dantrolene, or ibuprofen may increase plasma carbamazepine levels.
 - Concomitant use of carbamazepine and isoniazid has been reported to increase isoniazid-induced hepatotoxicity.
 - Alterations of thyroid function have been reported in combination therapy with other anticonvulsant medications.
 - Concomitant use of Tegretol with hormonal contraceptive products (e.g., oral, and levonorgestrel subdermal implant contraceptives) may render the contraceptives less effective because the plasma concentrations of the hormones may be decreased.

@@ -5,8 +5,8 @@
 Serious and sometimes fatal dermatologic reactions, including toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS), have been reported with Tegretol treatment.
 The risk of these events is estimated to be about 1 to 6 per 10,000 new users in countries with mainly Caucasian populations.
 However, the risk in some Asian countries is estimated to be about 10 times higher.
-Tegretol should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
-If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
+Tegretol should be discontinued at the first sign of a rash, unless the rash is clearly not drug related.
+If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed, and alternative therapy should be considered.
 
 ## SJS/TEN and HLA-B*1502 Allele
 
@@ -38,7 +38,7 @@ Consideration should be given to avoiding use of other drugs associated with SJS
 Retrospective case-control studies in patients of European, Korean, and Japanese ancestry have found a moderate association between the risk of developing hypersensitivity reactions and the presence of HLA-A*3101, an inherited allelic variant of the HLA-A gene, in patients using carbamazepine.
 These hypersensitivity reactions include SJS/TEN, maculopapular eruptions, and Drug Reaction with Eosinophilia and Systemic Symptoms (see DRESS/Multiorgan hypersensitivity below).
 
-HLA-A*3101 is expected to be carried by more than 15% of patients of Japanese, Native American, Southern Indian (for example, Tamil Nadu), and some Arabic ancestry; up to about 10% in patients of Han Chinese, Korean, European, Latin American, and other Indian ancestry; and up to about 5% in African-Americans and patients of Thai, Taiwanese, and Chinese (Hong Kong) ancestry.
+HLA-A*3101 is expected to be carried by more than 15% of patients of Japanese, Native American, Southern Indian (for example, Tamil Nadu), and some Arabic ancestry; up to about 10% in patients of Han Chinese, Korean, European, Latin American, and other Indian ancestry; and up to about 5% in African-Americans, and patients of Thai, Taiwanese, and Chinese (Hong Kong) ancestry.
 
 The risks and benefits of Tegretol therapy should be weighed before considering Tegretol in patients known to be positive for HLA-A*3101.
 
@@ -64,7 +64,7 @@ Tegretol should be discontinued if an alternative etiology for the signs or symp
 
 Hypersensitivity
 
-Hypersensitivity reactions to carbamazepine have been reported in patients who previously experienced this reaction to anticonvulsants including phenytoin, primidone, and phenobarbital.
+Hypersensitivity reactions to carbamazepine have been reported in patients who previously experienced this reaction to anticonvulsants, including phenytoin, primidone, and phenobarbital.
 If such history is present, benefits and risks should be carefully considered and, if carbamazepine is initiated, the signs and symptoms of hypersensitivity should be carefully monitored.
 
 Patients should be informed that about a third of patients who have had hypersensitivity reactions to carbamazepine also experience hypersensitivity reactions with oxcarbazepine (Trileptal®).
@@ -93,9 +93,10 @@ The finding of increased risk with AEDs of varying mechanisms of action and acro
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 1 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+Table 1.
+Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
+| Indication | Placebo patients with events per 1,000 patients | Drug patients with events per 1,000 patients | Relative risk: incidence of events in drug patients/incidence in placebo patients | Risk difference: additional drug patients with events per 1,000 patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
@@ -104,7 +105,7 @@ Table 1 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
 
-Anyone considering prescribing Tegretol or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
+Anyone considering prescribing Tegretol, or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
@@ -142,10 +143,10 @@ This occurred generally, but not solely, in patients with underlying EKG abnorma
 
 Hepatic effects, ranging from slight elevations in liver enzymes to rare cases of hepatic failure have been reported (see ADVERSE REACTIONS and PRECAUTIONS, Laboratory Tests).
 In some cases, hepatic effects may progress despite discontinuation of the drug.
-In addition rare instances of vanishing bile duct syndrome have been reported.
+In addition, rare instances of vanishing bile duct syndrome have been reported.
 This syndrome consists of a cholestatic process with a variable clinical course ranging from fulminant to indolent, involving the destruction and disappearance of the intrahepatic bile ducts.
 Some, but not all, cases are associated with features that overlap with other immunoallergenic syndromes, such as multiorgan hypersensitivity (DRESS syndrome) and serious dermatologic reactions.
-As an example there has been a report of vanishing bile duct syndrome associated with Stevens-Johnson syndrome and in another case an association with fever and eosinophilia.
+As an example, there has been a report of vanishing bile duct syndrome associated with SJS and in another case an association with fever and eosinophilia.
 
 Since a given dose of Tegretol suspension will produce higher peak levels than the same dose given as the tablet, it is recommended that patients given the suspension be started on lower doses and increased slowly to avoid unwanted side effects (see DOSAGE AND ADMINISTRATION).
 

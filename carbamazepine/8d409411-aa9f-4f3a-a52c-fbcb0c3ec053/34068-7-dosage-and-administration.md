@@ -20,7 +20,7 @@ Tegretol-XR tablets should be inspected for chips or cracks.
 Damaged tablets, or tablets without a release portal, should not be consumed.
 Tegretol-XR tablet coating is not absorbed and is excreted in the feces; these coatings may be noticeable in the stool.
 
-Epilepsy (SEE INDICATIONS AND USAGE)
+Epilepsy (see INDICATIONS AND USAGE)
 
 Adults and children over 12 years of age-Initial: Either 200 mg twice a day for tablets and XR tablets, or 1 teaspoon four times a day for suspension (400 mg/day).
 Increase at weekly intervals by adding up to 200 mg/day using a twice a day regimen of Tegretol-XR or a three times a day or four times a day regimen of the other formulations until the optimal response is obtained.
@@ -42,7 +42,7 @@ No recommendation regarding the safety of carbamazepine for use at doses above 3
 Combination Therapy: Tegretol may be used alone or with other anticonvulsants.
 When added to existing anticonvulsant therapy, the drug should be added gradually while the other anticonvulsants are maintained or gradually decreased, except phenytoin, which may have to be increased (see PRECAUTIONS, Drug Interactions, and Pregnancy).
 
-Trigeminal Neuralgia (SEE INDICATIONS AND USAGE)
+Trigeminal Neuralgia (see INDICATIONS AND USAGE)
 
 Initial: On the first day, either 100 mg twice a day for tablets or XR tablets, or ½ teaspoon four times a day for suspension, for a total daily dose of 200 mg.
 This daily dose may be increased by up to 200 mg/day using increments of 100 mg every 12 hours for tablets or XR tablets, or 50 mg (½ teaspoon) four times a day for suspension, only as needed to achieve freedom from pain.

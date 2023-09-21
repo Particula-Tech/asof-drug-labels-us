@@ -27,7 +27,7 @@ A few cases of neonatal vomiting, diarrhea, and/or decreased feeding have also b
 These symptoms may represent a neonatal withdrawal syndrome.
 
 To provide information regarding the effects of in utero exposure to Tegretol, physicians are advised to recommend that pregnant patients taking Tegretol enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
-This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
+This can be done by calling the toll-free number 1-888-233-2334 and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
 # Usage in Pregnancy

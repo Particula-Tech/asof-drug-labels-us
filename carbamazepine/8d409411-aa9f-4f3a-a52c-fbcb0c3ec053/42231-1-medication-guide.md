@@ -142,7 +142,7 @@ How should I take TEGRETOL?
 - Take TEGRETOL with food.
 - TEGRETOL-XR Tablets:
   - Do not crush, chew, or break TEGRETOL-XR tablets.
-  - Tell your healthcare provider if you can not swallow TEGRETOL-XR whole.
+  - Tell your healthcare provider if you cannot swallow TEGRETOL-XR whole.
 - TEGRETOL Suspension:
   - Shake the bottle well each time before use.
   - Do not take TEGRETOL suspension at the same time you take other liquid medicines.
@@ -209,7 +209,7 @@ How should I store TEGRETOL?
 
 Keep TEGRETOL and all medicines out of the reach of children.
 
-General Information about TEGRETOL
+General Information about TEGRETOL.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use TEGRETOL for a condition for which it was not prescribed.
@@ -238,4 +238,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2023-33 June 2023
+T2023-62 September 2023

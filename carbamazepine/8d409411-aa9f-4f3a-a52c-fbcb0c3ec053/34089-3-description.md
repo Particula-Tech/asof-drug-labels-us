@@ -4,7 +4,7 @@ Tegretol, carbamazepine USP, is an anticonvulsant and specific analgesic for tri
 Its chemical name is 5H-dibenz[b,f]azepine-5-carboxamide, and its structural formula is:
 
 Carbamazepine USP is a white to off-white powder, practically insoluble in water and soluble in alcohol and in acetone.
-Its molecular weight is 236.27.
+Its molecular weight is 236.27 g/mol.
 
 Inactive Ingredients Tablets: Colloidal silicon dioxide, D&C Red No. 30 Aluminum Lake (chewable tablets only), FD&C Red No. 40 (200 mg tablets only), flavoring (chewable tablets only), gelatin, glycerin, magnesium stearate, sodium starch glycolate (chewable tablets only), starch, stearic acid, and sucrose (chewable tablets only).
 Suspension: Citric acid, FD&C Yellow No. 6, flavoring, polymer, potassium sorbate, propylene glycol, purified water, sorbitol, sucrose, and xanthan gum.
