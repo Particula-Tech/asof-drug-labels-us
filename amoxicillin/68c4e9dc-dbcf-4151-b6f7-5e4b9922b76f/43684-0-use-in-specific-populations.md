@@ -53,7 +53,7 @@ Several studies have reported no apparent adverse short-term effects on the infa
 
 Amoxicillin
 
-While available studies cannot definitively establish the absence of risk, published epidemiological data and postmarketing case reports have not reported a consistent association with amoxicillin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when amoxicillin was used during pregnancy.
+While available studies cannot definitively establish the absence of risk, published epidemiological data and post-marketing case reports have not reported a consistent association with amoxicillin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when amoxicillin was used during pregnancy.
 Available studies have methodologic limitations, including small sample size, retrospective data collection, under-capture of non-live births, exposure misclassification and inconsistent comparator groups.
 
 Rifabutin

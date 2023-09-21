@@ -45,13 +45,12 @@ Advise the patient or caregiver to call the patient’s healthcare provider imme
 
 Important Administration Instructions for TALICIA
 
-- Advise patients to take four (4) TALICIA capsules every eight hours with food for 14 days.
+- Advise patients to take four (4) TALICIA capsules three times daily (at least 4 hours apart, e.g., morning, mid-day, and evening) with food for 14 days.
   They should NOT crush or chew capsules.
 - Advise patients to swallow TALICIA with at least 8 ounces of water.
 - Advise patients not to take TALICIA with alcohol.
-- Missed doses: Advise patients that if a dose is missed, administer as soon as possible.
-  However, if the next scheduled dose is due, take the next dose on time.
-  Do not take two doses at one time to make up for a missed dose.
+- Missed doses: Advise patients that if a dose is missed, and the next dose is not within 4 hours, administer as soon as possible.
+  However, if a dose is missed and the next dose is within 4 hours, administer the missed dose as soon as possible and delay the next dose to ensure there are at least 4 hours between two doses.
   It is important for patients to complete the entire course of therapy.
 - Counsel patients that antacids may be used concomitantly with TALICIA.
 - Counsel patients to continue the full course of TALICIA regardless of whether or not their symptoms improve.
@@ -71,4 +70,4 @@ TALICIA is manufactured in Sweden for RedHill Biopharma Ltd. Tel Aviv, Israel
 
 TALICIA is a trademark registered with the U.S. Patent and Trademark Office and used under license by RedHill Biopharma Inc.
 
-© 2019 RedHill Biopharma Ltd. All rights reserved.
+© 2023 RedHill Biopharma Ltd. All rights reserved.

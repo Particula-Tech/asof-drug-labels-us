@@ -87,7 +87,7 @@ Special Senses: tinnitus, taste perversion
 
 Ocular: optic atrophy, optic neuritis, dry eye syndrome, ocular irritation, blurred vision, double vision
 
-Urogenital: hematuria, proteinuria, elevated serum creatinine, microscopic pyuria, urinary tract infection, glycosuria, urinary frequency, testicular pain
+Urogenital: hematuria, proteinuria, elevated serum creatinine, microscopic pyuria, urinary tract infection, glycosuria, urinary frequency, testicular pain, erectile dysfunction
 
 Hematologic: Agranulocytosis, hemolytic anemia, pancytopenia, neutropenia, anemia, thrombocytopenia, leukopenia, leukocytosis
 
