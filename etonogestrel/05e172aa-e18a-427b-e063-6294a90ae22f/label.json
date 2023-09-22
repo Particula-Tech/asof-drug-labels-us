@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA211157"
+  ],
+  "inn": "etonogestrel",
+  "labeler": "AvKARE",
+  "package_ndcs": [
+    "42291-478-03",
+    "42291-478-11"
+  ],
+  "products": [
+    {
+      "form": "RING",
+      "generic": "etonogestrel and ethinyl estradiol vaginal",
+      "name": "Etonogestrel and Ethinyl Estradiol Vaginal"
+    }
+  ],
+  "setid": "05e172aa-e18a-427b-e063-6294a90ae22f",
+  "source": "dailymed"
+}
