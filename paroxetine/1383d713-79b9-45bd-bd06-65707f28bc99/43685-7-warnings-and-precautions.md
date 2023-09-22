@@ -19,7 +19,9 @@ Families and caregivers of patients being treated with paroxetine capsules shoul
 
 ## 5.2 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SSRIs, including paroxetine, alone but particularly with concomitant use of serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort), and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat depression and others such as linezolid and intravenous methylene blue).
+Paroxetine capsules can precipitate serotonin syndrome, a potentially life-threatening condition.
+The risk is increased with concomitant use of other serotonergic agents (including triptans, tricyclic antidepressants, fentanyl, tramadol, meperidine, methadone, lithium, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., monoamine oxidase inhibitors (MAOIs) [see Contraindications (4), Drug Interactions (7.3)].
+Serotonin syndrome can also occur when these drugs are used alone.
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Monitor patients for the emergence of serotonin syndrome.

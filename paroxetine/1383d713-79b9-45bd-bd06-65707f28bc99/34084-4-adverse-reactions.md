@@ -45,7 +45,7 @@ Certain symptoms were seen more frequently in women at the time of discontinuati
 These include increased dreaming/nightmares, muscle cramps/spasms/twitching, headache, nervousness/anxiety, fatigue/tiredness, restless feeling in legs, and trouble sleeping/insomnia.
 While these events are generally self-limiting, there have been reports of serious discontinuation symptoms with other formulations of paroxetine.
 
-Serious Adverse Reactions: In the pooled Phase 2 and Phase 3 trials, three paroxetine capsule-treated patients reported a serious adverse reaction of suicidal ideation and one paroxetine-treated patient reported a serious adverse reaction of suicide attempt.
+Serious Adverse Reactions: In the pooled Phase 2 and Phase 3 trials, three paroxetine capsule-treated patients reported a serious adverse reaction of suicidal ideation and one paroxetine capsule-treated patient reported a serious adverse reaction of suicide attempt.
 There were no serious adverse reactions of suicidal ideation or suicide attempt reported among the placebo-treated patients.
 
 ## 6.2 Postmarketing Experience
@@ -69,10 +69,10 @@ Investigations: Elevated liver tests (the most severe cases were deaths due to l
 
 Metabolism and Nutrition Disorders: Diabetes mellitus inadequate control, Type 2 diabetes mellitus.
 
-Nervous System Disorders: Neuroleptic malignant syndrome, Paresthesia, Somnolence, Tremor.
+Nervous System Disorders: Neuroleptic malignant syndrome, Paresthesia, Somnolence, Tremor, Anosmia, Hyposmia.
 
 Psychiatric Disorders: Aggression, Agitation, Anxiety, Confusional state, Depression, Disorientation, Homicidal ideation, Insomnia, Restlessness.
 
 Respiratory, Thoracic and Mediastinal Disorders: Pulmonary hypertension.
 
-Skin and Subcutaneous Tissue Disorders: Hyperhidrosis, Stevens-Johnson syndrome.
+Skin and Subcutaneous Tissue Disorders: Hyperhidrosis, Stevens-Johnson syndrome, Drug reaction with eosinophilia and systemic symptoms (DRESS).

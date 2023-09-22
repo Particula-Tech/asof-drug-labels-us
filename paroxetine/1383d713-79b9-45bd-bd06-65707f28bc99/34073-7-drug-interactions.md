@@ -49,17 +49,10 @@ Therefore, concomitant use of MAOIs with paroxetine capsules or use of paroxetin
 
 Serotonergic Drugs
 
-If concomitant use of paroxetine capsules with other serotonergic drugs (e.g., triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) is clinically warranted, consider the increased risk of serotonin syndrome and carefully observe the patient, particularly during treatment initiation [see Warnings and Precautions (5.2)].
-
+If concomitant use of paroxetine capsules with other serotonergic drugs (e.g., other SNRIs, SSRIs, triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, and St. John’s Wort) is clinically warranted, consider the increased risk of serotonin syndrome and carefully observe the patient, particularly during treatment initiation [see Warnings and Precautions (5.2)].
 An interaction between paroxetine and tryptophan may occur when they are co-administered.
 Adverse experiences, consisting primarily of headache, nausea, sweating, and dizziness, have been reported when tryptophan was administered to patients taking paroxetine.
 Consequently, concomitant use of paroxetine capsules with tryptophan is not recommended.
-
-If concomitant use of paroxetine capsules with a serotonergic drug is warranted, carefully observe the patient, particularly during treatment initiation.
-There have been postmarketing reports of serotonin syndrome with the use of an SSRI and a triptan.
-
-Paroxetine capsules contain paroxetine, which is also the active ingredient in other drugs.
-The concomitant use of paroxetine capsules with other paroxetine products is not recommended [see Indications and Usage (1)].
 
 Drugs that Interfere with Hemostasis (e.g., NSAIDs, Aspirin, and Warfarin)
 

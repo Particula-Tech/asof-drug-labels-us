@@ -161,7 +161,8 @@ Especially tell your healthcare provider if you take:
 
 - •triptans used to treat migraine headache
 - •medicines used to treat mood, anxiety, psychotic or thought disorders, including MAOIs, SSRIs, tricyclics, lithium, buspirone, or antipsychotics
-- •tramadol, fentanyl or over-the-counter supplements such as tryptophan or St. John’s Wort
+- •tramadol, fentanyl, meperidine, methadone, or other opioids
+- •over-the-counter supplements such as tryptophan or St. John’s Wort
 - •amphetamines
 - •thioridazine
 - •pimozide
@@ -251,4 +252,4 @@ Distributed By Padagis
 
 Allegan, MI 49010 • www.padagis.com
 
-Revised February 2022
+Revised September 2023
