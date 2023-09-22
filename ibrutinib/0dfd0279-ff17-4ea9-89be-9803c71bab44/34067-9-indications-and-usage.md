@@ -1,6 +1,6 @@
-# 1INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-## 1.1Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+## 1.1 Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
 
 IMBRUVICA is indicated for the treatment of adult patients with chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL).
 

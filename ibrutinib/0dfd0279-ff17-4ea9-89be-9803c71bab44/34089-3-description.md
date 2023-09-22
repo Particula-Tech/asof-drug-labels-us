@@ -1,4 +1,4 @@
-# 11DESCRIPTION
+# 11 DESCRIPTION
 
 Ibrutinib is a kinase inhibitor.
 It is a white to off-white solid with the empirical formula C25H24N6O2 and a molecular weight 440.50.

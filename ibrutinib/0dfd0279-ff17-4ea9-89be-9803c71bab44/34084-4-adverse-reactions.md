@@ -1,4 +1,4 @@
-# 6ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
