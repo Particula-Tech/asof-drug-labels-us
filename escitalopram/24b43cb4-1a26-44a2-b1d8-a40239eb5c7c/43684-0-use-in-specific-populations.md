@@ -5,7 +5,11 @@
 Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
 Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clnical-and-research-programs/pregnancyregistry/antidepressants/
 
-Risk Summary Available data from published epidemiologic studies and postmarketing reports have not established an increased risk of major birth defects or miscarriage.
+Risk Summary
+
+Based on data from published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see 17 Warnings and Precautions (5.7) and Clinical Considerations].
+
+Available data from published epidemiologic studies and postmarketing reports have not established an increased risk of major birth defects or miscarriage.
 There are risks of persistent pulmonary hypertension of the newborn (PPHN) (see Data) and poor neonatal adaptation (see Clinical Considerations) with exposure to selective serotonin reuptake inhibitors (SSRIs), including escitalopram, during pregnancy.
 There are risks associated with untreated depression in pregnancy (see Clinical Considerations).
 
@@ -20,6 +24,8 @@ Clinical Considerations
 Disease-associated maternal risk and/or embryo/fetal risk Women who discontinue antidepressants are more likely to experience a relapse of major depression than women who continue antidepressants.
 This finding is from a prospective longitudinal study of 201 pregnant women with a history of major depression, who were euthymic and taking antidepressants at the beginning of pregnancy.
 Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
+
+Maternal Adverse Reactions Use of escitalopram in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.7)].
 
 Fetal/Neonatal adverse reactions Neonates exposed to SSRIs or SNRIs, including escitalopram, late in third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
@@ -69,13 +75,6 @@ Use of escitalopram for this indication is supported by evidence from adequate a
 The safety of escitalopram was similar to adult patients with MDD [see Adverse Reactions (6.1)].
 The safety and effectiveness of escitalopram for the treatment of major depressive disorder have not been established in pediatric patients younger than 12 years of age.
 In a 24-week, open- label safety study in 118 pediatric patients aged 7 to 11 years who had major depressive disorder, the safety findings were consistent with the known safety and tolerability profile for escitalopram.
-Generalized Anxiety Disorder The safety and effectiveness of escitalopram for the treatment of generalized anxiety disorder have been established in pediatric patients 7 years of age and older.
-Use of escitalopram for this indication is supported by evidence from adequate and well-controlled studies in adults with additional evidence from an 8-week, flexible-dose, placebo-controlled study that compared escitalopram 10 mg to 20 mg once daily to placebo in pediatric patients 7 to 17 years of age with GAD [see Clinical Studies (14.2)].
-The safety of escitalopram was similar to adult patients with GAD [see Adverse Reactions (6.1)].
-The safety and effectiveness of escitalopram for the treatment of generalized anxiety disorder have not been established in pediatric patients younger than 7 years of age.
-Antidepressants increase the risk of suicidal thoughts and behaviors in pediatric patients [see Warnings and Precautions (5.1)].
-Decreased appetite and weight loss have been observed in association with the use of SSRIs.
-Consequently, regular monitoring of weight and growth should be performed in children and adolescents treated with an SSRI such as escitalopram.
 Juvenile Animal Toxicity Data In a juvenile animal study, male and female rats were administered escitalopram at 5, 40, or 80 mg/kg/day by oral gavage from postnatal day (PND) 21 to PND 69.
 A delay in sexual maturation was observed in both males and females at ≥ 40 mg/kg/day with a No Observed Adverse Effect Level (NOAEL) of 5 mg/kg/day.
 This NOAEL was associated with plasma AUC levels less than those measured at the maximum recommended dose (MRHD) in pediatrics (20 mg).

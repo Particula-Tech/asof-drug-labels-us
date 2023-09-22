@@ -36,8 +36,7 @@ S-DCT and S-DDCT also have no or very low affinity for serotonergic (5-HT1-7) or
 S-DCT and S-DDCT also do not bind to various ion channels including Na+, K+, Cl-, and Ca++ channels.
 In vitro studies using human liver microsomes indicated that CYP3A4 and CYP2C19 are the primary isozymes involved in the N-demethylation of escitalopram.
 Excretion Following oral administrations of escitalopram, the fraction of drug recovered in the urine as escitalopram and Sdemethylcitalopram (S-DCT) is about 8% and 10%, respectively.
-Specific Populations Pediatric Patients Pediatric patients 7 to 11 years of age: Based on population PK simulations, following multiple dosing of 20 mg/day escitalopram, steady-state Cmax and AUCtau of escitalopram were increased by 93% and 86%, respectively in pediatric patients with GAD 7 to 11 years of age compared to adults.
-Pediatric patients 12 to 17 years of age: In a single dose study of 10 mg escitalopram, AUC of escitalopram decreased by 19%, and Cmax increased by 26% in healthy pediatric subjects 12 to 17 years of age compared to adults.
+Specific Populations Pediatric Patients Pediatric patients 12 to 17 years of age: In a single dose study of 10 mg escitalopram, AUC of escitalopram decreased by 19%, and Cmax increased by 26% in healthy pediatric subjects 12 to 17 years of age compared to adults.
 Following multiple dosing of 40 mg/day citalopram, escitalopram elimination half-life, steady-state Cmax and AUC were similar in pediatric patients 12 to 17 years of age with MDD compared to adults [see Use in Specific Populations (8.4)].
 Geriatric Patients Escitalopram pharmacokinetics in subjects ≥ 65 years of age were compared to adults in a single-dose and a multiple-dose study.
 Escitalopram AUC and half-life were increased by approximately 50% in elderly subjects, and Cmax was unchanged [see Dosage and Administration (2.5), Use in Specific Populations (8.5)].

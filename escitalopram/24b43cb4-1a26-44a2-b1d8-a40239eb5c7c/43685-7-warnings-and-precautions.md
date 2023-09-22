@@ -26,7 +26,7 @@ Consider changing the therapeutic regimen, including possibly discontinuing esci
 ## 5.2 Serotonin Syndrome
 
 SSRIs, including escitalopram, can precipitate serotonin syndrome, a potentially life-threatening condition.
-The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4) and Drug Interactions (7)].
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, meperidine, methadone, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4) and Drug Interactions (7)].
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination) seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 The concomitant use of escitalopram with MAOIs is contraindicated.
 In addition, do not initiate escitalopram in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
@@ -71,9 +71,11 @@ Signs and symptoms associated with more severe and/or acute cases have included 
 ## 5.7 Increased Risk of Bleeding
 
 Drugs that interfere with serotonin reuptake inhibition, including escitalopram, increase the risk of bleeding events.
-Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), other antiplatelet drugs, warfarin, and other anticoagulants may add to the risk.
+Concomitant use of aspirin, nonsteroidal antiinflammatory drugs (NSAIDs), other antiplatelet drugs, warfarin, and other anticoagulants may add to the risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Use in Specific Populations (8.1)].
 Bleeding events related to drugs that interfere with serotonin reuptake have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
+
 Inform patients about the increased risk of bleeding associated with the concomitant use of escitalopram and antiplatelet agents or anticoagulants.
 For patients taking warfarin, carefully monitor the international normalized ratio [see Drug Interactions (7)].
 

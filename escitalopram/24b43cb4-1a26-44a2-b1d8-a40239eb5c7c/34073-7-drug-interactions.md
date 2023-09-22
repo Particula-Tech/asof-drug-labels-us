@@ -11,14 +11,14 @@ TABLE 6 Clinically Important Drug Interactions with Escitalopram
 | Pimozide |  |
 | Clinical Impact: | Concomitant use of racemic citalopram with pimozide increases plasma concentrations of pimozide, a drug with a narrow therapeutic index, and may increase the risk of QT prolongation and/or ventricular arrhythmias compared to use of racemic citalopram alone [see Clinical Pharmacology (12.3)]. |
 | Intervention: | escitalopram is contraindicated in patients taking pimozide [see Contraindications (4)]. |
-| Serotonergic Drugs |  |
-| Clinical Impact: | Concomitant use of escitalopram and other serotonergic drugs increases the risk of serotonin syndrome. |
+| Other Serotonergic Drugs |  |
+| Clinical Impact: | Concomitant use of escitalopram and other serotonergic drugs (including other SSRIs, SNRIs, triptans, tricyclic antidepressants, opioids, lithium, buspirone, amphetamines, tryptophan, and St. John's Wort) increases the risk of serotonin syndrome. |
 | Intervention: | Monitor patients for signs and symptoms of serotonin syndrome, particularly during escitalopram initiation and dosage increases. If serotonin syndrome occurs, consider discontinuation of escitalopram and/or concomitant serotonergic drugs [see Warning and Precautions (5.2)]. |
 | Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.) |  |
 | Clinical Impact: | Concomitant use of escitalopram and an antiplatelet or anticoagulant may potentiate the risk of bleeding. |
 | Intervention: | Inform patients of the increased risk of bleeding associated with the concomitant use of escitalopram and antiplatelet agents and anticoagulants. For patients taking warfarin, carefully monitor the international normalized ratio [see Warning and Precautions (5.7)]. |
 | Sumatriptan |  |
-| Clinical Impact: | There have been post-marketing reports describing patients with weakness, hyperreflexia, and incoordination following the use of an SSRI and sumatriptan. |
+| Clinical Impact: | There have been postmarketing reports describing patients with weakness, hyperreflexia, and incoordination following the use of an SSRI and sumatriptan. |
 | Intervention: | If concomitant treatment with sumatriptan and an SSRI is clinically warranted, appropriate observation of the patient is advised [see Warning and Precautions (5.2)]. |
 | Carbamazepine |  |
 | Clinical Impact: | Combined administration of racemic citalopram (40 mg/day for 14 days) and carbamazepine (titrated to 400 mg/day for 35 days) did not significantly affect the pharmacokinetics of carbamazepine, a CYP3A4 substrate. |

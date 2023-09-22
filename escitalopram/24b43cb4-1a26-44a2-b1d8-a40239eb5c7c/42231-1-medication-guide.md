@@ -2,7 +2,7 @@
 
 MEDICATION GUIDE Escitalopram Tablets (ES-sye-TAL-oh-pram)
 
-What is the most important information I should know about Escitalopram Tablets
+What is the most important information I should know about Escitalopram Tablets?
 
 Escitalopram tablets may cause serious side effects, including:
 
@@ -29,9 +29,9 @@ o an extreme increase in activity or talking (mania) o other unusual changes in 
 
 What is Escitalopram tablets?
 
-Escitalopram tablets is a prescription medicine used to treat: • a certain type of depression called Major Depressive Disorder (MDD) in adults and children 12 years of age and older • Generalized Anxiety Disorder (GAD) in adults and children 7 years of age and older
+Escitalopram tablets is a prescription medicine used to treat: • a certain type of depression called Major Depressive Disorder (MDD) in adults and children 12 years of age and older • Generalized Anxiety Disorder (GAD) in adults
 
-It is not known if escitalopram tablets is safe and effective for use in children under 12 years of age with MDD or children under 7 years of age with GAD.
+It is not known if escitalopram tablets is safe and effective for use in children under 12 years of age with MDD.
 
 Do not take Escitalopram Tablets if you or your child: • are taking, or have stopped taking within the last 14 days, a medicine called a monoamine oxidase inhibitor (MAOI), including the antibiotic linezolid or intravenous methylene blue • are taking the antipsychotic medicine pimozide • are allergic to escitalopram or citalopram or any of the ingredients in escitalopram tablets.
 See the end of this Medication Guide for a complete list of ingredients in escitalopram tablets.
@@ -57,9 +57,7 @@ Escitalopram tablets may affect the way other medicines work and other medicines
 
 Especially tell your healthcare provider if you take:
 
-• medicines used to treat migraine headache known as triptans • tricyclic antidepressants • fentanyl • lithium • tramadol
-
-• or other opioids
+• medicines used to treat migraine headache known as triptans • tricyclic antidepressants • lithium • tramadol, fentanyl, meperidine, methadone, or other opioids or other opioids
 
 • tryptophan • buspirone • amphetamines • St. John’s Wort • medicines used to treat mood, anxiety, psychotic or thought disorders, including selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) • diuretics • medicines that can affect blood clotting such as aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs) and warfarin
 
@@ -219,6 +217,8 @@ Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA
 
 For more information about escitalopram tablets call at 1-888-943-3210 or 1-855-926-3384.
 
-Revised: August 2023
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Medication Guide available at:www.macleodspharma.com/usa
+
+Revised: September 2023

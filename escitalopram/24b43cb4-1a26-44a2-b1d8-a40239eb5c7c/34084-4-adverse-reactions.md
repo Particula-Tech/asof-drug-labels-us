@@ -13,15 +13,12 @@ Consequently, it is not possible to provide a meaningful estimate of the proport
 In the tables and tabulations that follow, standard World Health Organization (WHO) terminology has been used to classify reported adverse reactions.
 The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment emergent adverse event of the type listed.
 An event was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
-Pediatric Patients Adverse reaction information for pediatric patients was collected in double-blind placebo-controlled studies in 576 pediatric patients 6 to 17 years of age, (286 escitalopram, 290 placebo) with major depressive disorder and in 273 pediatric patients 7 to 17 years of age (137 escitalopram, 136 placebo) with generalized anxiety disorder.
-The safety and effectiveness of escitalopram have not been established in pediatric patients less than 12 years of age with MDD or less than 7 years of age with GAD.
+Pediatric Patients Adverse reaction information for pediatric patients was collected in double-blind placebo-controlled studies in 576 pediatric patients 6 to 17 years of age, (286 escitalopram, 290 placebo) with major depressive disorder.
+The safety and effectiveness of escitalopram have not been established in pediatric patients less than 12 years of age with MDD.
 Adverse Reactions Associated with Discontinuation of Treatment Major Depressive Disorder Adults Among the 715 depressed patients who received escitalopram in placebo-controlled trials, 6% discontinued treatment due to an adverse event, as compared to 2% of 592 patients receiving placebo.
 In two fixed-dose studies, the rate of discontinuation for adverse reactions in patients receiving 10 mg/day escitalopram was not significantly different from the rate of discontinuation for adverse reactions in patients receiving placebo.
 The rate of discontinuation for adverse reactions in patients assigned to a fixed dose of 20 mg/day escitalopram was 10%, which was significantly different from the rate of discontinuation for adverse reactions in patients receiving 10 mg/day escitalopram (4%) and placebo (3%).
 Adverse reactions that were associated with the discontinuation of at least 1% of patients treated with escitalopram, and for which the rate was at least twice that of placebo, were nausea (2%) and ejaculation disorder (2% of male patients).
-Pediatric Patients Adverse reactions in pediatric patients 6 to 17 years of age were associated with discontinuation of 3.5% of 286 patients receiving escitalopram and 1% of 290 patients receiving placebo.
-The most common adverse reaction (incidence at least 1% for escitalopram and greater than placebo) associated with discontinuation was insomnia (1% escitalopram, 0% placebo).
-The safety and effectiveness of escitalopram have not been established in pediatric patients less than 12 years of age with MDD.
 Generalized Anxiety Disorder Adults Among the 429 GAD patients who received escitalopram 10 to 20 mg/day in placebo-controlled trials, 8% discontinued treatment due to an adverse event, as compared to 4% of 427 patients receiving placebo.
 Adverse reactions that were associated with the discontinuation of at least 1% of patients treated with escitalopram, and for which the rate was at least twice the placebo rate, were nausea (2%), insomnia (1%), and fatigue (1%).
 Pediatric Patients Adverse reactions in pediatric patients 7 to 17 years were associated with discontinuation of 2.9% of 137 patients receiving escitalopram and 1.5% of 136 patients receiving placebo.
@@ -66,12 +63,9 @@ Reactions included are those occurring in 2% or more of patients treated with es
 2Denominator used was for males only (N=225 escitalopram; N=188 placebo).
 3Denominator used was for females only (N=490 escitalopram; N=404 placebo).
 
-Pediatric Patients The overall profile of adverse reactions in pediatric patients 6 to 17 years in major depressive disorder was generally similar to that seen in adult studies, as shown in Table 2.
-However, the following adverse reactions (excluding those which appear in Table 2 and those for which the coded terms were uninformative or misleading) were reported at an incidence of at least 2% for escitalopram and greater than placebo: back pain, urinary tract infection, vomiting, and nasal congestion.
-The safety and effectiveness of escitalopram have not been established in pediatric patients less than 12 years of age with MDD.
 Generalized Anxiety Disorder Adults The most commonly observed adverse reactions in escitalopram patients (incidence of approximately 5% or greater and approximately twice the incidence in placebo patients) were nausea, ejaculation disorder (primarily ejaculatory delay), insomnia, fatigue, decreased libido, and anorgasmia.
-Table 3 enumerates the incidence, rounded to the nearest percent of treatment-emergent adverse reaction that occurred among 429 GAD patients who received escitalopram 10 to 20 mg/day in placebo-controlled trials.
-Reaction included are those occurring in 2% or more of patients treated with escitalopram and for which the incidence in patients treated with escitalopram was greater than the incidence in placebo-treated patients.
+Table 3 enumerates the incidence, rounded to the nearest percent of treatment-emergent adverse reactions that occurred among 429 GAD patients who received escitalopram 10 to 20 mg/day in placebo-controlled trials.
+Reactions included are those occurring in 2% or more of patients treated with escitalopram and for which the incidence in patients treated with escitalopram was greater than the incidence in placebo-treated patients.
 
 | Autonomic Nervous System Disorders |  |  |
 | --- | --- | --- |
@@ -180,8 +174,8 @@ Based on the established exposure-response relationship, the predicted QTcF chan
 Escitalopram 30 mg given once daily resulted in mean Cmax of 1.7-fold higher than the mean Cmax for the maximum recommended therapeutic dose at steady state (20 mg).
 The exposure under supratherapeutic 30 mg dose is similar to the steady state concentrations expected in CYP2C19 poor metabolizers following a therapeutic dose of 20 mg.
 
-Other Reactions Observed During the Premarketing Evaluation of Escitalopram Tablets Following is a list of treatment-emergent adverse reaction, as defined in the introduction to the ADVERSE REACTIONS section, reported by the 1428 patients treated with escitalopram tablets for periods of up to one year in double-blind or open-label clinical trials during its premarketing evaluation.
-The listing does not include those reaction already listed in Tables 2 & 3, those reaction for which a drug cause was remote and at a rate less than 1% or lower than placebo, those reaction which were so general as to be uninformative, and those reaction reported only once which did not have a substantial probability of being acutely life threatening.
+Other Reactions Observed During the Premarketing Evaluation of Escitalopram Tablets Following is a list of treatment-emergent adverse reactions, as defined in the introduction to the ADVERSE REACTIONS section, reported by the 1428 patients treated with escitalopram tablets for periods of up to one year in double-blind or open-label clinical trials during its premarketing evaluation.
+The listing does not include those reactions already listed in Tables 2 & 3, those reactions for which a drug cause was remote and at a rate less than 1% or lower than placebo, those reactions which were so general as to be uninformative, and those reactions reported only once which did not have a substantial probability of being acutely life threatening.
 Reaction are categorized by body system.
 Reaction of major clinical importance are described in the Warnings and Precautions section (5).
 
@@ -243,7 +237,8 @@ Renal and Urinary Disorders: acute renal failure, dysuria, urinary retention.
 
 Reproductive System and Breast Disorders: menorrhagia, priapism.
 
-Respiratory, Thoracic and Mediastinal Disorders: dyspnea, epistaxis, pulmonary embolism, pulmonary hypertension of the newborn.
+Respiratory, Thoracic and Mediastinal Disorders: anosmia, dyspnea, epistaxis, pulmonary embolism, hyposmia pulmonary hypertension of the newborn.
 
-Skin and Subcutaneous Tissue Disorders: alopecia, angioedema, dermatitis, ecchymosis, erythema multiforme, photosensitivity reaction, Stevens Johnson Syndrome, toxic epidermal necrolysis, urticaria.
+Skin and Subcutaneous Tissue Disorders: alopecia, angioedema, dermatitis, drug reaction with eosinophilia and systemic symptoms (DRESS), ecchymosis, erythema multiforme, photosensitivity reaction, Stevens Johnson Syndrome, toxic epidermal necrolysis, urticaria.
+
 Vascular Disorders: deep vein thrombosis, flushing, hypertensive crisis, hypotension, orthostatic hypotension, phlebitis, thrombosis.

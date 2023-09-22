@@ -28,6 +28,3 @@ Adults The efficacy of escitalopram in the treatment of generalized anxiety diso
 In all three studies, escitalopram showed statistically significant greater mean improvement compared to placebo on the Hamilton Anxiety Scale (HAM-A).
 There were too few patients in differing ethnic and age groups to adequately assess whether or not escitalopram has differential effects in these groups.
 There was no difference in response to escitalopram between men and women.
-Pediatric Patients 7 years of age and older The efficacy of escitalopram in the treatment for generalized anxiety disorder (GAD) in pediatric patients 7 to 17 years was established in an 8-week, flexible-dose, placebo-controlled study that compared escitalopram (10 mg to 20 mg daily) to placebo in outpatients 7 to 17 years of age who met DSM-V criteria for GAD.
-The primary outcome was change from baseline to Week 8 in the Pediatric Anxiety Rating Scale (PARS) severity score for GAD.
-In this study, escitalopram showed a statistically significant treatment difference when compared to placebo on the PARS severity score for GAD (Least squares mean difference: −1.42, 95% confidence interval [−2.69, −0.15]).
