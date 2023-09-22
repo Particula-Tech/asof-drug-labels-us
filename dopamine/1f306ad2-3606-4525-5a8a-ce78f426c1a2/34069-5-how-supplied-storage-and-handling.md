@@ -1,21 +1,11 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Dopamine Hydrochloride Injection, USP is supplied as follows (40 mg/mL):
+Dopamine Hydrochloride Injection, USP is a clear, practically colorless solution supplied as follows:
 
 | Unit of Sale | Total Strength/Total Volume (Concentration) |
 | --- | --- |
-| NDC 0409-5820-01 25 Fliptop Vials in a Tray | 200 mg/5 mL (40 mg/mL) |
-| NDC 0409-9104-20 25 Fliptop Vials in a Tray | 400 mg/10 mL (40 mg/mL) |
+| NDC 0409-5820-01 25 Fliptop Single-dose Vials in a Tray | 200 mg/5 mL (40 mg/mL) |
+| NDC 0409-9104-20 25 Fliptop Single-dose Vials in a Tray | 400 mg/10 mL (40 mg/mL) |
 
-Avoid contact with alkalies (including sodium bicarbonate), oxidizing agents or iron salts.
-
-Do not use the injection if it is darker than slightly yellow or discolored in any other way.
-
-Store at 20 to 25°C (68 to 77°F).
+Store at 20°C to 25°C (68°F to 77°F).
 [See USP Controlled Room Temperature.]
-
-Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
-
-LAB-1154-3.0
-
-Revised: 02/2019
