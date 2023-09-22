@@ -1,130 +1,57 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-ZYLOPRIM SHOULD BE DISCONTINUED AT THE FIRST APPEARANCE OF SKIN RASH OR OTHER SIGNS WHICH MAY INDICATE AN ALLERGIC REACTION.
-In some instances a skin rash may be followed by more severe hypersensitivity reactions such as exfoliative, urticarial, and purpuric lesions, as well as Stevens-Johnson syndrome (erythema multiforme exudativum), Drug Rash with Eosinophilia and Systemic Symptoms (DRESS) and/or generalized vasculitis, irreversible hepatotoxicity, and, on rare occasions, death (see ADVERSE REACTIONS).
+## 5.1 Skin Rash and Hypersensitivity
 
-In patients receiving PURINETHOL® (mercaptopurine) or IMURAN® (azathioprine), the concomitant administration of 300 to 600 mg of ZYLOPRIM per day will require a reduction in dose to approximately one-third to one-fourth of the usual dose of mercaptopurine or azathioprine.
-Subsequent adjustment of doses of mercaptopurine or azathioprine should be made on the basis of therapeutic response and the appearance of toxic effects (see CLINICAL PHARMACOLOGY).
+Serious and sometimes fatal dermatologic reactions, including toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients taking allopurinol [see Adverse Reactions (6)].
+These reactions occur in approximately 5 in 10,000 (0.05%) patients taking allopurinol.
+Other serious hypersensitivity reactions that have been reported include exfoliative, urticarial and purpuric lesions, generalized vasculitis, and irreversible hepatotoxicity.
+Discontinue ZYLOPRIM permanently at the first appearance of skin rash or other signs which may indicate a hypersensitivity reaction.
+The HLA-B*58:01 allele is a genetic marker for severe skin reactions indicative of hypersensitivity to allopurinol.
+Patients who carry the HLA-B*58:01 allele are at a higher risk of allopurinol hypersensitivity syndrome (AHS), but hypersensitivity reactions have been reported in patients who do not carry this allele.
+The frequency of this allele is higher in individuals of African, Asian (e.g., Han Chinese, Korean, Thai), and Native Hawaiian/Pacific Islander ancestry [see Clinical Pharmacology (12.5)].
+The use of ZYLOPRIM is not recommended in HLA- B*58:01 positive patients unless the benefits clearly outweigh the risks.
+Consider screening for HLA-B*5801 before starting treatment with ZYLOPRIM in patients from populations in which the prevalence of this HLA-B*5801 allele is known to be high.
+Screening is generally not recommended in patients from populations in which the prevalence of HLA-B*58:01 is low, or in current allopurinol users, as the risk of SJS/TEN/DRESS is largely confined to the first few months of therapy, regardless of HLA- B*58:01 status.
+Hypersensitivity reactions to ZYLOPRIM may be increased in patients with decreased kidney function receiving thiazide diuretics and ZYLOPRIM concurrently.
+Concomitant use of the following drugs may also increase the risk of skin rash, which may be severe: bendamustine, ampicillin and amoxicillin [see Drug Interactions (7.1)].
+Discontinue ZYLOPRIM immediately if a skin rash develops.
+Instruct patients to stop taking ZYLOPRIM immediately and seek medical attention promptly if they develop a rash.
 
-A few cases of reversible clinical hepatotoxicity have been noted in patients taking ZYLOPRIM, and in some patients, asymptomatic rises in serum alkaline phosphatase or serum transaminase have been observed.
-If anorexia, weight loss, or pruritus develop in patients on ZYLOPRIM, evaluation of liver function should be part of their diagnostic workup.
-In patients with pre-existing liver disease, periodic liver function tests are recommended during the early stages of therapy.
+## 5.2 Gout Flares
 
-Due to the occasional occurrence of drowsiness, patients should be alerted to the need for due precaution when engaging in activities where alertness is mandatory.
+Gout flares have been reported during initiation of treatment with ZYLOPRIM, even when normal or subnormal serum uric acid levels have been attained due to the mobilization of urates from tissue deposits.
+Even with adequate therapy with ZYLOPRIM, it may require several months to deplete the uric acid pool sufficiently to achieve control of the flares.
+The flares typically become shorter and less severe after several months of therapy.
+In order to prevent gout flares when treatment with ZYLOPRIM is initiated, concurrent prophylactic treatment with colchicine or an anti-inflammatory agent is recommended [see Dosage and Administration (2.2)].
+Advise patients to continue ZYLOPRIM and prophylactic treatment even if gout flares occur, as it may take months to achieve control of gout flares.
 
-The occurrence of hypersensitivity reactions to ZYLOPRIM may be increased in patients with decreased renal function receiving thiazides and ZYLOPRIM concurrently.
-For this reason, in this clinical setting, such combinations should be administered with caution and patients should be observed closely.
+## 5.3 Nephrotoxicity
 
-# PRECAUTIONS
+Treatment with ZYLOPRIM may result in acute kidney injury due to formation of xanthine calculi or due to precipitation of urates in patients receiving concomitant uricosuric agents.
+Patients with pre-existing kidney disease, including chronic kidney disease or history of kidney stones, may be at increased risk for worsening of kidney function or acute kidney injury due to xanthine calculi while receiving treatment with ZYLOPRIM.
+In patients receiving ZYLOPRIM for the management of gout or the management of recurrent calcium oxalate calculi, monitor kidney function frequently during the early stages of allopurinol administration.
+Maintain fluid intake sufficient to yield a urinary output of at least 2 liters per day of neutral or, preferably, slightly alkaline urine to avoid the possibility of formation of xanthine calculi and help prevent renal precipitation of urates in patients receiving concomitant uricosuric agents.
+In patients receiving ZYLOPRIM for the management of tumor lysis syndrome, monitor kidney function at least daily during the early stages of allopurinol administration.
+Maintain fluid intake sufficient to yield a urinary output of at least 2 liters per day in adults and at least 2 liters/m2/day (or at least 100 mL/m2/hour) in pediatric patients [see Dosage and Administration (2.4)].
 
-## GENERAL
+## 5.4 Hepatotoxicity
 
-An increase in acute attacks of gout has been reported during the early stages of administration of ZYLOPRIM, even when normal or subnormal serum uric acid levels have been attained.
-Accordingly, maintenance doses of colchicine generally should be given prophylactically when ZYLOPRIM is begun.
-In addition, it is recommended that the patient start with a low dose of ZYLOPRIM (100 mg daily) and increase at weekly intervals by 100 mg until a serum uric acid level of 6 mg/dL or less is attained but without exceeding the maximum recommended dose (800 mg per day).
-The use of colchicine or anti-inflammatory agents may be required to suppress gouty attacks in some cases.
-The attacks usually become shorter and less severe after several months of therapy.
-The mobilization of urates from tissue deposits which cause fluctuations in the serum uric acid levels may be a possible explanation for these episodes.
-Even with adequate therapy with ZYLOPRIM, it may require several months to deplete the uric acid pool sufficiently to achieve control of the acute attacks.
+Cases of reversible clinical hepatotoxicity have occurred in patients taking ZYLOPRIM, and in some patients, asymptomatic rises in serum alkaline phosphatase or serum transaminase have been observed.
+If anorexia, weight loss, or pruritus develop in patients on ZYLOPRIM, evaluate liver enzymes.
+In patients with pre-existing liver disease, monitor liver enzymes periodically.
+Discontinue ZYLOPRIM in patients with elevated liver enzymes.
 
-A fluid intake sufficient to yield a daily urinary output of at least 2 liters and the maintenance of a neutral or, preferably, slightly alkaline urine are desirable to (1) avoid the theoretical possibility of formation of xanthine calculi under the influence of therapy with ZYLOPRIM and (2) help prevent renal precipitation of urates in patients receiving concomitant uricosuric agents.
+## 5.5 Myelosuppression
 
-Some patients with pre-existing renal disease or poor urate clearance have shown a rise in BUN during administration of ZYLOPRIM.
-Although the mechanism responsible for this has not been established, patients with impaired renal function should be carefully observed during the early stages of administration of ZYLOPRIM and the dosage decreased or the drug withdrawn if increased abnormalities in renal function appear and persist.
+Myelosuppression, manifested by anemia, leukopenia or thrombocytopenia, has been reported in patients receiving ZYLOPRIM.
+The cytopenias have occurred as early as 6 weeks up to 6 years after the initiation of therapy of ZYLOPRIM.
+Concomitant use of ZYLOPRIM with cytotoxic drugs associated with myelosuppression may increase the risk of myelosuppression.
+Monitor blood counts more frequently when cytotoxic drugs are used concomitantly [see Drug Interactions (7.2)].
+Concomitant use with allopurinol increases the exposure of either mercaptopurine or azathioprine which may increase the risk of myelosuppression.
+Reduce the dosage of mercaptopurine or azathioprine as recommended in their respective prescribing information when used concomitantly with ZYLOPRIM [see Drug Interactions (7.2)].
 
-Renal failure in association with administration of ZYLOPRIM has been observed among patients with hyperuricemia secondary to neoplastic diseases.
-Concurrent conditions such as multiple myeloma and congestive myocardial disease were present among those patients whose renal dysfunction increased after ZYLOPRIM was begun.
-Renal failure is also frequently associated with gouty nephropathy and rarely with hypersensitivity reactions associated with ZYLOPRIM.
-Albuminuria has been observed among patients who developed clinical gout following chronic glomerulonephritis and chronic pyelonephritis.
+## 5.6 Potential Effect on Driving and Use of Machinery
 
-Patients with decreased renal function require lower doses of ZYLOPRIM than those with normal renal function.
-Lower than recommended doses should be used to initiate therapy in any patients with decreased renal function and they should be observed closely during the early stages of administration of ZYLOPRIM.
-In patients with severely impaired renal function or decreased urate clearance, the half- life of oxipurinol in the plasma is greatly prolonged.
-Therefore, a dose of 100 mg per day or 300 mg twice a week, or perhaps less, may be sufficient to maintain adequate xanthine oxidase inhibition to reduce serum urate levels.
-
-Bone marrow depression has been reported in patients receiving ZYLOPRIM, most of whom received concomitant drugs with the potential for causing this reaction.
-This has occurred as early as 6 weeks to as long as 6 years after the initiation of therapy of ZYLOPRIM.
-Rarely, a patient may develop varying degrees of bone marrow depression, affecting one or more cell lines, while receiving ZYLOPRIM alone.
-
-## INFORMATION FOR PATIENTS
-
-Patients should be informed of the following:
-
-1) They should be cautioned to discontinue ZYLOPRIM and to consult their physician immediately at the first sign of a skin rash, painful urination, blood in the urine, irritation of the eyes, or swelling of the lips or mouth.
-(2) They should be reminded to continue drug therapy prescribed for gouty attacks since optimal benefit of ZYLOPRIM may be delayed for 2 to 6 weeks.
-(3) They should be encouraged to increase fluid intake during therapy to prevent renal stones.
-(4) If a single dose of ZYLOPRIM is occasionally forgotten, there is no need to double the dose at the next scheduled time.
-(5) There may be certain risks associated with the concomitant use of ZYLOPRIM and dicumarol, sulfinpyrazone, mercaptopurine, azathioprine, ampicillin, amoxicillin, and thiazide diuretics, and they should follow the instructions of their physician.
-(6) Due to the occasional occurrence of drowsiness, patients should take precautions when engaging in activities where alertness is mandatory.
-(7) Patients may wish to take ZYLOPRIM after meals to minimize gastric irritation.
-
-## LABORATORY TESTS
-
-The correct dosage and schedule for maintaining the serum uric acid within the normal range is best determined by using the serum uric acid as an index.
-
-In patients with pre-existing liver disease, periodic liver function tests are recommended during the early stages of therapy (see WARNINGS).
-
-ZYLOPRIM and its primary active metabolite, oxipurinol, are eliminated by the kidneys; therefore, changes in renal function have a profound effect on dosage.
-In patients with decreased renal function or who have concurrent illnesses which can affect renal function such as hypertension and diabetes mellitus, periodic laboratory parameters of renal function, particularly BUN and serum creatinine or creatinine clearance, should be performed and the patient's dosage of ZYLOPRIM reassessed.
-
-The prothrombin time should be reassessed periodically in the patients receiving dicumarol who are given ZYLOPRIM.
-
-## DRUG INTERACTIONS
-
-In patients receiving mercaptopurine or IMURAN (azathioprine), the concomitant administration of 300 to 600 mg of ZYLOPRIM per day will require a reduction in dose to approximately one third to one fourth of the usual dose of mercaptopurine or azathioprine.Subsequent adjustment of doses of mercaptopurine or azathioprine should be made on the basis of therapeutic response and the appearance of toxic effects (see CLINICAL PHARMACOLOGY).
-
-It has been reported that ZYLOPRIM prolongs the half-life of the anticoagulant, dicumarol.
-The clinical basis of this drug interaction has not been established but should be noted when ZYLOPRIM is given to patients already on dicumarol therapy.
-
-Since the excretion of oxipurinol is similar to that of urate, uricosuric agents, which increase the excretion of urate, are also likely to increase the excretion of oxipurinol and thus lower the degree of inhibition of xanthine oxidase.
-The concomitant administration of uricosuric agents and ZYLOPRIM has been associated with a decrease in the excretion of oxypurines (hypoxanthine and xanthine) and an increase in urinary uric acid excretion compared with that observed with ZYLOPRIM alone.
-Although clinical evidence to date has not demonstrated renal precipitation of oxypurines in patients either on ZYLOPRIM alone or in combination with uricosuric agents, the possibility should be kept in mind.
-
-The reports that the concomitant use of ZYLOPRIM and thiazide diuretics may contribute to the enhancement of allopurinol toxicity in some patients have been reviewed in an attempt to establish a cause-and-effect relationship and a mechanism of causation.
-Review of these case reports indicates that the patients were mainly receiving thiazide diuretics for hypertension and that tests to rule out decreased renal function secondary to hypertensive nephropathy were not often performed.
-In those patients in whom renal insufficiency was documented, however, the recommendation to lower the dose of ZYLOPRIM was not followed.
-Although a causal mechanism and a cause-and-effect relationship have not been established, current evidence suggests that renal function should be monitored in patients on thiazide diuretics and ZYLOPRIM even in the absence of renal failure, and dosage levels should be even more conservatively adjusted in those patients on such combined therapy if diminished renal function is detected.
-
-An increase in the frequency of skin rash has been reported among patients receiving ampicillin or amoxicillin concurrently with ZYLOPRIM compared to patients who are not receiving both drugs.
-The cause of the reported association has not been established.
-
-Enhanced bone marrow suppression by cyclophosphamide and other cytotoxic agents has been reported among patients with neoplastic disease, except leukemia, in the presence of ZYLOPRIM.
-However, in a well-controlled study of patients with lymphoma on combination therapy, ZYLOPRIM did not increase the marrow toxicity of patients treated with cyclophosphamide, doxorubicin, bleomycin, procarbazine, and/or mechlorethamine.
-
-Tolbutamide's conversion to inactive metabolites has been shown to be catalyzed by xanthine oxidase from rat liver.
-The clinical significance, if any, of these observations is unknown.
-
-Chlorpropamide's plasma half-life may be prolonged by ZYLOPRIM, since ZYLOPRIM and chlorpropamide may compete for excretion in the renal tubule.
-The risk of hypoglycemia secondary to this mechanism may be increased if ZYLOPRIM and chlorpropamide are given concomitantly in the presence of renal insufficiency.
-
-Rare reports indicate that cyclosporine levels may be increased during concomitant treatment with ZYLOPRIM.
-Monitoring of cyclosporine levels and possible adjustment of cyclosporine dosage should be considered when these drugs are co-administered.
-
-## DRUG & OR LABORATORY TEST INTERACTIONS
-
-ZYLOPRIM is not known to alter the accuracy of laboratory tests.
-
-## PREGNANCY
-
-Teratogenic Effects: Reproductive studies have been performed in rats and rabbits at doses up to twenty times the usual human dose (5 mg/kg per day), and it was concluded that there was no impaired fertility or harm to the fetus due to allopurinol.
-There is a published report of a study in pregnant mice given 50 or 100 mg/kg allopurinol intraperitoneally on gestation days 10 or 13.
-There were increased numbers of dead fetuses in dams given 100 mg/kg allopurinol but not in those given 50 mg/kg.
-There were increased numbers of external malformations in fetuses at both doses of allopurinol on gestation day 10 and increased numbers of skeletal malformations in fetuses at both doses on gestation day 13.
-It cannot be determined whether this represented a fetal effect or an effect secondary to maternal toxicity.
-There are, however, no adequate or well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
-
-Experience with ZYLOPRIM during human pregnancy has been limited partly because women of reproductive age rarely require treatment with ZYLOPRIM.
-However, in 2011, a literature publication case report describes the outcome of a full term pregnancy in a 35 year-old woman who had recurrent kidney stones since age 18 who took allopurinol throughout the pregnancy.
-The child had multiple complex birth defects and died at 8 days of life.
-A second report in 2013 (Hoeltzenbein M et al (2013); PLoS ONE 8(6): e66637), provided data on 31 prospectively ascertained pregnancies involving mothers exposed to allopurinol for varying durations during the first trimester.
-The overall rate of major fetal malformations and spontaneous abortions was reported to be within the normal expected range; however, one child had severe malformations similar to those described in the cited earlier case report.
-
-## NURSING MOTHERS
-
-Allopurinol and oxipurinol have been found in the milk of a mother who was receiving ZYLOPRIM.
-Since the effect of allopurinol on the nursing infant is unknown, caution should be exercised when ZYLOPRIM is administered to a nursing woman.
-
-## PEDIATRIC USE
-
-ZYLOPRIM is rarely indicated for use in children with the exception of those with hyperuricemia secondary to malignancy or to certain rare inborn errors of purine metabolism (see INDICATIONS AND USAGEand DOSAGE AND ADMINISTRATION).
+Drowsiness, somnolence and dizziness have been reported in patients taking ZYLOPRIM [see Adverse Reactions (6)].
+Inform patients also that the central nervous system depressant effects of ZYLOPRIM may be additive to those of alcohol and other CNS depressants.
+Advise patients to avoid operation of automobiles or other dangerous machinery and activities made hazardous by decreased alertness when starting ZYLOPRIM or increasing the dose, until they know how the drug affects them.
