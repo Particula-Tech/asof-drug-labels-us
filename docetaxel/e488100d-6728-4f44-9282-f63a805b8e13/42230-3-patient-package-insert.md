@@ -197,7 +197,7 @@ eVenus Pharmaceutical Laboratories, Inc. (eVenus)
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 03/2023
+Revised: 09/2023
 
 | Every three-week injection of Docetaxel Injection for breast, non-small cell lung and stomach, and head and neck cancers Take your oral corticosteroid medicine as your healthcare provider tells you. |
 | --- |
@@ -215,6 +215,6 @@ Revised: 03/2023
 | (Docetaxel Injection Treatment Day) |
 | Time: ________ |
 
-Revised: March 2023
+Revised: September 2023
 
-10VUF08
+10VUF09

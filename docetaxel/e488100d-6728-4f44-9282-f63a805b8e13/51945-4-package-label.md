@@ -4,7 +4,7 @@ NDC 57884-3041-1
 
 Rx only
 
-Docetaxel Injection USP
+Docetaxel Injection, USP
 
 20 mg/mL
 
@@ -22,7 +22,7 @@ NDC 57884-3042-1
 
 Rx only
 
-Docetaxel Injection USP
+Docetaxel Injection, USP
 
 80 mg/4 mL (20 mg/mL)
 
@@ -40,7 +40,7 @@ NDC 57884-3043-1
 
 Rx only
 
-Docetaxel Injection USP
+Docetaxel Injection, USP
 
 160 mg/8 mL (20 mg/mL)
 

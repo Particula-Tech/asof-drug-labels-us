@@ -103,6 +103,6 @@ eVenus Pharmaceutical Laboratories, Inc. (eVenus)
 
 506 Carnegie Center, Suite 100, NJ 08540, USA
 
-Revised: March 2023
+Revised: September 2023
 
-10VUF08
+10VUF09
