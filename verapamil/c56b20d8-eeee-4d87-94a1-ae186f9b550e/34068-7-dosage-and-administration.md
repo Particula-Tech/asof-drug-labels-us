@@ -10,9 +10,9 @@ Initiate therapy with 180 mg of COVERA-HS.
 
 If an adequate response is not obtained with 180 mg of COVERA-HS, the dose may be titrated upward in the following manner:
 
-- a)240 mg each evening
-- b)360 mg each evening (2 × 180 mg)
-- c)480 mg each evening (2 × 240 mg)
+- •240 mg each evening
+- •360 mg each evening (2 × 180 mg)
+- •480 mg each evening (2 × 240 mg)
 
 When COVERA-HS is administered at bedtime, office evaluation of blood pressure during morning and early afternoon hours is essentially a measure of peak effect.
 The usual evaluation of trough effect, which sometimes might be needed to evaluate the appropriateness of any given dose of COVERA-HS, would be just prior to bedtime.
