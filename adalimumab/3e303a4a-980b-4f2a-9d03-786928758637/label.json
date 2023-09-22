@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "BLA761071"
+  ],
+  "inn": "adalimumab",
+  "labeler": "Cordavis Limited",
+  "package_ndcs": [
+    "83457-100-01",
+    "83457-101-01",
+    "83457-102-01",
+    "83457-103-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "adalimumab-adaz",
+      "name": "HYRIMOZ"
+    }
+  ],
+  "setid": "3e303a4a-980b-4f2a-9d03-786928758637",
+  "source": "dailymed"
+}
