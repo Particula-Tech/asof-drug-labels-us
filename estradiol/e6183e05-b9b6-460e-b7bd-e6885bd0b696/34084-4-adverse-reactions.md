@@ -49,15 +49,15 @@ Table 4: Adverse Events Reported by 3 Percent or More of Patients Receiving Eith
 
 ## Postmarketing Experience
 
-Cases of toxic shock syndrome (TSS) have been reported in women using vaginal rings.
-TSS is a rare, but serious disease that may cause death.
-Warning signs of TSS include fever, nausea, vomiting, diarrhea, muscle pain, dizziness, faintness, or a sunburn-rash on face and body.
+1. Cases of toxic shock syndrome (TSS) have been reported in women using vaginal rings.
+   TSS is a rare, but serious disease that may cause death.
+   Warning signs of TSS include fever, nausea, vomiting, diarrhea, muscle pain, dizziness, faintness, or a sunburn-rash on face and body.
 
 Vaginal erosion, vaginal ulceration, adherence of the vaginal ring to the vaginal wall:
 
-- Cases of ring adherence to the vaginal wall, making ring removal difficult, have occurred.
+- •Cases of ring adherence to the vaginal wall, making ring removal difficult, have occurred.
   Some cases have required surgical removal of vaginal rings.
-- Cases of vaginal erosion and vaginal ulceration that may manifest as vaginal irritation, erythema. abrasion or spotting have occurred.
+- •Cases of vaginal erosion and vaginal ulceration that may manifest as vaginal irritation, erythema. abrasion or spotting have occurred.
 
 Vaginal wall ulceration or erosion should be carefully evaluated.
 If an ulceration or erosion has occurred, consideration should be given to leaving the ring out and not replacing it until healing is complete in order to prevent the ring from adhering to the healing tissue.
