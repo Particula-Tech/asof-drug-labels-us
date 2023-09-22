@@ -9,7 +9,7 @@ Instruct patients to monitor their temperature frequently and immediately report
 
 Enterocolitis and Neutropenic Colitis
 
-Advise patients of the symptoms of colitis, such as abdominal pain or tenderness, and/or diarrhea, with or without fever, and instruct patients to promptly contact their healthcare provider if they experience these symptoms [see Dosage and Administration (2.7) and Warnings and Precautions (5.4)].
+Advise patients of the symptoms of colitis, such as abdominal pain or tenderness, and/or diarrhea, with or without fever, and instruct patients to promptly contact their healthcare provider if they experience these symptoms [see Dosage and Administration (2.7)and Warnings and Precautions (5.4)].
 
 Hypersensitivity Reactions
 
@@ -27,12 +27,12 @@ Advise patients on the risk of second primary malignancies during treatment with
 Cutaneous Reactions
 
 Advise patients that localized erythema of the extremities and severe skin toxicities may occur.
-Instruct patients to immediately report severe cutaneous reactions to their healthcare provider [see Dosage and Administration (2.7) and Warnings and Precautions (5.8)].
+Instruct patients to immediately report severe cutaneous reactions to their healthcare provider [see Dosage and Administration (2.7)and Warnings and Precautions (5.8)].
 
 Neurologic Reactions
 
 Advise patients that neurosensory symptoms or peripheral neuropathy may occur.
-Instruct patients to immediately report neurologic reactions to their healthcare provider [see Dosage and Administration (2.7) and Warnings and Precautions (5.9)].
+Instruct patients to immediately report neurologic reactions to their healthcare provider [see Dosage and Administration (2.7)and Warnings and Precautions (5.9)].
 
 Eye Disorders
 
@@ -63,8 +63,8 @@ Embryo-Fetal Toxicity
 Docetaxel can cause fetal harm.
 Advise patients to inform their healthcare provider of a known or suspected pregnancy.
 Advise patients to avoid becoming pregnant while receiving this drug.
-Advise female patients of reproductive potential to use effective contraceptives during treatment and for 6 months after the last dose of docetaxel.
-Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of docetaxel [see Warnings and Precautions (5.12), and Use in Specific Populations (8.1, 8.3)].
+Advise female patients of reproductive potential to use effective contraceptives during treatment and for 2 months after the last dose of docetaxel.
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after the last dose of docetaxel [see Warnings and Precautions (5.12), and Use in Specific Populations (8.1, 8.3)].
 
 Lactation
 
@@ -93,10 +93,10 @@ Drug Interactions
 
 Inform patients about the risk of drug interactions and the importance of providing a list of prescription and non-prescription drugs to their healthcare provider [see Drug Interactions (7)].
 
-Manufactured For: Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Manufactured For:Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA.
 
-Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad – 380 054, India.
+Manufactured By:Intas Pharmaceuticals Limited, Ahmedabad – 380 054, India.
 
-10 0739 3 6000259
+10 0739 4 6023402
 
-Issued July 2020
+Revised August 2023

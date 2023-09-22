@@ -27,6 +27,5 @@ After initial puncture, Docetaxel Injection multiple dose vials are stable for 2
 
 ## 16.3 Handling and Disposal
 
-Docetaxel Injection is a cytotoxic drug.
-Follow applicable special handling and disposal procedures.
-1
+Docetaxel Injection is a hazardous drug.
+Follow applicable special handling and disposal procedures. ¹

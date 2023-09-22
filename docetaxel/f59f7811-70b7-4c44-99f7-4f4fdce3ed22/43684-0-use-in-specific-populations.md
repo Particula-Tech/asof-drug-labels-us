@@ -6,9 +6,7 @@ Risk Summary
 
 Based on findings in animal reproduction studies and its mechanism of action, Docetaxel Injection can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
 Available data from case reports in the literature and pharmacovigilance with docetaxel use in pregnant women are not sufficient to inform the drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
-Docetaxel Injection contains alcohol which can interfere with neurobehavioral development [see Clinical Considerations].
-In animal reproductive studies, administration of docetaxel to pregnant rats and rabbits during the period of organogenesis caused an increased incidence of embryo-fetal toxicities, including intrauterine mortality, at doses as low as 0.02 and 0.003 times the recommended human dose based on body surface area, respectively [see Data].
-Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+Docetaxel Injection contains alcohol which can interfere with neurobehavioral development [see Clinical Considerations].In animal reproductive studies, administration of docetaxel to pregnant rats and rabbits during the period of organogenesis caused an increased incidence of embryo-fetal toxicities, including intrauterine mortality, at doses as low as 0.02 and 0.003 times the recommended human dose based on body surface area, respectively [see Data].Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defect, miscarriage, or other adverse outcomes.
@@ -34,18 +32,21 @@ Because of the potential for serious adverse reactions in a breastfed child, adv
 
 ## 8.3 Females and Males of Reproductive Potential
 
+Based on findings in animals, Docetaxel Injection can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+
 Pregnancy Testing
 
 Verify pregnancy status in females of reproductive potential prior to initiating Docetaxel Injection.
 
-Contraception Females
+Contraception
 
-Docetaxel Injection can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
-Advise females of reproductive potential to use effective contraception during treatment and for 6 months after the last dose of Docetaxel Injection.
+Females
+
+Based on genetic toxicity findings, advise females of reproductive potential to use effective contraception during treatment and for 2 months after the last dose of Docetaxel Injection.
 
 Males
 
-Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of Docetaxel Injection.
+Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after the last dose of Docetaxel Injection.
 
 Infertility
 
@@ -63,7 +64,7 @@ Docetaxel Injection has been studied in a total of 289 pediatric patients: 239 i
 Docetaxel Injection Monotherapy
 
 Docetaxel Injection monotherapy was evaluated in a dose-finding phase 1 trial in 61 pediatric patients (median age 12.5 years, range 1-22 years) with a variety of refractory solid tumors.
-The recommended dose was 125 mg/m 2 as a 1-hour intravenous infusion every 21 days.
+The recommended dose was 125 mg/m 2as a 1-hour intravenous infusion every 21 days.
 The primary dose limiting toxicity was neutropenia.
 
 The recommended dose for Docetaxel Injection monotherapy was evaluated in a phase 2 single-arm trial in 178 pediatric patients (median age 12 years, range 1-26 years) with a variety of recurrent/refractory solid tumors.
@@ -79,9 +80,9 @@ One patient out of 50 in the TCF group (2%) had a complete response while none o
 Pharmacokinetics
 
 Pharmacokinetic parameters for docetaxel were determined in 2 pediatric solid tumor trials.
-Following docetaxel administration at 55 mg/m 2 to 235 mg/m 2 in a 1-hour intravenous infusion every 3 weeks in 25 patients aged 1 to 20 years (median 11 years), docetaxel clearance was 17.3±10.9 L/h/m 2.
+Following docetaxel administration at 55 mg/m 2to 235 mg/m 2in a 1-hour intravenous infusion every 3 weeks in 25 patients aged 1 to 20 years (median 11 years), docetaxel clearance was 17.3±10.9 L/h/m 2.
 
-Docetaxel was administered in combination with cisplatin and 5-fluorouracil (TCF), at dose levels of 75 mg/m 2 in a 1-hour intravenous infusion day 1 in 28 patients aged 10 to 21 years (median 16 years, 17 patients were older than 16).
+Docetaxel was administered in combination with cisplatin and 5-fluorouracil (TCF), at dose levels of 75 mg/m 2in a 1-hour intravenous infusion day 1 in 28 patients aged 10 to 21 years (median 16 years, 17 patients were older than 16).
 Docetaxel clearance was 17.9±8.75 L/h/m 2, corresponding to an AUC of 4.20±2.57 μg∙h/mL.
 
 In summary, the body surface area adjusted clearance of docetaxel monotherapy and TCF combination in children were comparable to those in adults [see Clinical Pharmacology (12.3)].

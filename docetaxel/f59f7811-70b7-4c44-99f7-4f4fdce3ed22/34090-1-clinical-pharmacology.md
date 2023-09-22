@@ -9,22 +9,20 @@ Docetaxel’s binding to microtubules does not alter the number of protofilament
 
 ## 12.3 Pharmacokinetics
 
-Absorption The pharmacokinetics of docetaxel has been evaluated in cancer patients after administration of 20 mg/m 2 to 115 mg/m 2 in phase 1 studies.
-The area under the curve (AUC) was dose proportional following doses of 70 mg/m 2 to 115 mg/m 2 with infusion times of 1 to 2 hours.
-Docetaxel's pharmacokinetic profile is consistent with a three-compartment pharmacokinetic model, with half-lives for the α, β, and γ phases of 4 min, 36 min, and 11.1 hr, respectively.
-Mean total body clearance was 21 L/h/m 2.
+Absorption The pharmacokinetics of docetaxel has been evaluated in cancer patients after administration of 20 mg/m 2to 115 mg/m 2in phase 1 studies.
+The area under the curve (AUC) was dose proportional following doses of 70 mg/m 2to 115 mg/m 2with infusion times of 1 to 2 hours.
+Docetaxel’s pharmacokinetic profile is consistent with a three-compartment pharmacokinetic model, with initial rapid distribution phase and the late (terminal) phase.
 
-Distribution The initial rapid decline represents distribution to the peripheral compartments and the late (terminal) phase is due, in part, to a relatively slow efflux of docetaxel from the peripheral compartment.
-Mean steady state volume of distribution was 113 L. In vitro studies showed that docetaxel is about 94% protein bound, mainly to α 1-acid glycoprotein, albumin, and lipoproteins.
-In three cancer patients, the in vitro binding to plasma proteins was found to be approximately 97%.
+Distribution Mean steady state volume of distribution was 113 L. Docetaxel is approximately 94% protein bound in vitro, mainly to α1-acid glycoprotein, albumin, and lipoproteins.
+In three cancer patients, the in vitro binding to plasma proteins was approximately 97%.
 Dexamethasone does not affect the protein binding of docetaxel.
 
-Metabolism In vitro drug interaction studies revealed that docetaxel is metabolized by the CYP3A4 isoenzyme, and its metabolism may be modified by the concomitant administration of compounds that induce, inhibit, or are metabolized by cytochrome P450 3A4 [see Drug Interactions (7)].
+Elimination With extended plasma sampling up to 8 to 22 days post infusion, the estimated mean total body clearance was 18 L/h/ m 2(range of means: 14 to 23) and mean terminal elimination half-life was 116 hours (range of means: 92 to 135).
 
-Elimination A study of 14C-docetaxel was conducted in three cancer patients.
-Docetaxel was eliminated in both the urine and feces following oxidative metabolism of the tert-butyl ester group, but fecal excretion was the main elimination route.
-Within 7 days, urinary and fecal excretion accounted for approximately 6% and 75% of the administered radioactivity, respectively.
-About 80% of the radioactivity recovered in feces is excreted during the first 48 hours as 1 major and 3 minor metabolites with very small amounts (less than 8%) of unchanged drug.
+Metabolism Docetaxel is metabolized by the CYP3A4 isoenzyme in vitro [see Drug Interactions (7)].
+
+Excretion In three cancer patients urinary and fecal excretion accounted for approximately 6% and 75% of the administered radioactivity, respectively, within 7 days.
+About 80% of the radioactivity recovered in feces was excreted during the first 48 hours as 1 major and 3 minor metabolites with less than 8% as unchanged drug.
 
 Specific Populations Effect of Age: A population pharmacokinetic analysis was carried out after docetaxel treatment of 535 patients dosed at 100 mg/m 2.
 Pharmacokinetic parameters estimated by this analysis were very close to those estimated from phase 1 studies.
@@ -37,10 +35,10 @@ This average, however, includes a substantial range and there is, at present, no
 Patients with combined abnormalities of transaminase and alkaline phosphatase should not be treated with Docetaxel Injection.
 Patients with severe hepatic impairment have not been studied [see Warnings and Precautions (5.2), Use in Specific Populations (8.6)].
 
-Effect of Race: Mean total body clearance for Japanese patients dosed at the range of 10 mg/m 2 to 90 mg/m 2 was similar to that of European/American populations dosed at 100 mg/m 2, suggesting no significant difference in the elimination of docetaxel in the two populations.
+Effect of Race: Mean total body clearance for Japanese patients dosed at the range of 10 mg/m 2to 90 mg/m 2was similar to that of European/American populations dosed at 100 mg/m 2, suggesting no significant difference in the elimination of docetaxel in the two populations.
 
 Drug Interaction Studies Effect of Ketoconazole: The effect of ketoconazole (a strong CYP3A4 inhibitor) on the pharmacokinetics of docetaxel was investigated in 7 cancer patients.
-Patients were randomized to receive either docetaxel (100 mg/m 2 intravenous) alone or docetaxel (10 mg/m 2 intravenous) in combination with ketoconazole (200 mg orally once daily for 3 days) in a crossover design with a 3-week washout period.
+Patients were randomized to receive either docetaxel (100 mg/m 2intravenous) alone or docetaxel (10 mg/m 2intravenous) in combination with ketoconazole (200 mg orally once daily for 3 days) in a crossover design with a 3-week washout period.
 The results of this study indicated that the mean dose-normalized AUC of docetaxel was increased 2.2-fold and its clearance was reduced by 49% when docetaxel was coadministered with ketoconazole [see Dosage and Administration (2.7), Drug Interactions (7)]
 
 Effect of combination therapies
