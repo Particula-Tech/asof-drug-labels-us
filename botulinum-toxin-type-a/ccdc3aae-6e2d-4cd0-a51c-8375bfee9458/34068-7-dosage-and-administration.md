@@ -53,7 +53,7 @@ Table 2: Dosing by Body Weight Class for Treatment of Chronic Sialorrhea in Pedi
 | 12 kg or more to less than 15 kg | 6 Units | 0.24 mL | 4 Units | 0.16 mL | 20 Units |
 | 15 kg or more to less than 19 kg | 9 Units | 0.36 mL | 6 Units | 0.24 mL | 30 Units |
 | 19 kg or more to less than 23 kg | 12 Units | 0.48 mL | 8 Units | 0.32 mL | 40 Units |
-| 23 kg or more to less than 27 kg | 15 Units | 0.6 mL | 10 Unts | 0.4 mL | 50 Units |
+| 23 kg or more to less than 27 kg | 15 Units | 0.6 mL | 10 Units | 0.4 mL | 50 Units |
 | 27 kg or more to less than 30 kg | 18 Units | 0.72 mL | 12 Units | 0.48 mL | 60 Units |
 | 30 kg or more | 22.5 Units | 0.9 mL | 15 Units | 0.6 mL | 75 Units |
 
@@ -201,8 +201,8 @@ Table 5: Diluent Volumes for Reconstitution of XEOMIN
 | 2.5 mL | 2 Units | 4 Units | 8 Units |
 | 4 mL | 1.25 Units | 2.5 Units | 5 Units |
 | 5 mL | 1 Unit | 2 Units | 4 Units |
-| 8 mLWhen using 8 mL of diluent for a 100 Unit or 200 Unit vial of XEOMIN, complete the following steps: Reconstitute a 100 Unit or 200 Unit vial of XEOMIN with 4 mL of preservative-free 0.9% Sodium Chloride Injection, USP, following instructions above.Withdraw 4 mL of preservative-free 0.9% Sodium Chloride Injection, USP, into an appropriately sized syringe for 8 mL in total.Using the same syringe, draw up the 4 mL of XEOMIN solution from the reconstituted vial and mix gently. | - | 1.25 Units | 2.5 Units |
-| 16 mLWhen using 16 mL of diluent for a 200 Unit vial of XEOMIN, complete the following steps: Reconstitute a 200 Unit vial of XEOMIN with 4 mL of preservative-free 0.9% Sodium Chloride Injection, USP, following instructions above.Withdraw 12 mL of preservative-free 0.9% Sodium Chloride Injection, USP, into an appropriately sized syringe for 16 mL in total.Using the same syringe, draw up the 4 mL of XEOMIN solution from the reconstituted vial and mix gently. | - | - | 1.25 Units |
+| 8 mLWhen using 8 mL of diluent for a 100 Unit or 200 Unit vial of XEOMIN, complete the following steps: Reconstitute a 100 Unit or 200 Unit vial of XEOMIN with 4 mL of preservative-free 0.9% Sodium Chloride Injection, USP, following instructions above. Withdraw 4 mL of preservative-free 0.9% Sodium Chloride Injection, USP, into an appropriately sized syringe for 8 mL in total. Using the same syringe, draw up the 4 mL of XEOMIN solution from the reconstituted vial and mix gently. | - | 1.25 Units | 2.5 Units |
+| 16 mLWhen using 16 mL of diluent for a 200 Unit vial of XEOMIN, complete the following steps: Reconstitute a 200 Unit vial of XEOMIN with 4 mL of preservative-free 0.9% Sodium Chloride Injection, USP, following instructions above. Withdraw 12 mL of preservative-free 0.9% Sodium Chloride Injection, USP, into an appropriately sized syringe for 16 mL in total. Using the same syringe, draw up the 4 mL of XEOMIN solution from the reconstituted vial and mix gently. | - | - | 1.25 Units |
 
 ## 2.8 Administration
 
@@ -249,7 +249,7 @@ Cervical Dystonia
 
 A sterile needle (e.g., 26-gauge (0.45 mm diameter), 37 mm length for superficial muscles; or 22-gauge (0.70 mm diameter), 75 mm length for deeper musculature) should be used in the intramuscular administration in the treatment of cervical dystonia.
 
-Localization of the involved muscles with electromyographic guidance or nerve stimulation techniques may be useful.
+Localization of the involved muscles with electromyographic guidance, ultrasound, or nerve stimulation techniques may be useful.
 
 Blepharospasm
 

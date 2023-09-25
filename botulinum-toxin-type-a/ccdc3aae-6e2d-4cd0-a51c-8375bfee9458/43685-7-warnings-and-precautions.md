@@ -73,3 +73,7 @@ This product contains albumin, a derivative of human blood.
 Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases and variant Creutzfeldt-Jakob disease (vCJD).
 There is a theoretical risk for transmission of Creutzfeldt-Jakob disease (CJD), but if that risk actually exists, the risk of transmission would also be considered extremely remote.
 No cases of transmission of viral diseases, CJD, or vCJD have ever been identified for licensed albumin or albumin contained in other licensed products.
+
+## 5.8 Pre-existing Conditions at the Injection Site
+
+Caution should be taken when XEOMIN is used where the targeted muscle shows excessive weakness or atrophy.
