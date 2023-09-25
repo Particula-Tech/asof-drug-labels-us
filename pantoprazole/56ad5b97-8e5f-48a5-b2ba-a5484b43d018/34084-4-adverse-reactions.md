@@ -22,7 +22,7 @@ The most frequently occurring adverse reactions are listed in Table 3.
 
 Table 3: Adverse Reactions Reported in Clinical Trials of Adult Patients with GERD at a Frequency of > 2%
 
-|  | Pantoprazole Sodium Delayed-Release Tablets(n = 1,473) % | Comparators (n = 345) % | Placebo (n = 82) % |
+|  | Pantoprazole Sodium Delayed-Release Tablets(n = 1473) % | Comparators (n = 345) % | Placebo (n = 82) % |
 | --- | --- | --- | --- |
 | Headache | 12.2 | 12.8 | 8.5 |
 | Diarrhea | 8.8 | 9.6 | 4.9 |
@@ -109,6 +109,6 @@ Nervous: ageusia, dysgeusia
 
 Psychiatric Disorders: hallucination, confusion, insomnia, somnolence
 
-Renal and Urinary Disorders: acute tubulointerstitial nephritis
+Renal and Genitourinary Disorders: acute tubulointerstitial nephritis, erectile dysfunction
 
 Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, SJS/TEN, DRESS, AGEP, angioedema (Quincke’s edema) and cutaneous lupus erythematosus

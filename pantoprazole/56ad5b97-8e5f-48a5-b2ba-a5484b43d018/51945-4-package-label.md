@@ -26,7 +26,7 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-RMX6688MM7
+RMX6688MM8
 
 Mylan.com
 
@@ -64,7 +64,7 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-RMX6689MM7
+RMX6689MM8
 
 Mylan.com
 

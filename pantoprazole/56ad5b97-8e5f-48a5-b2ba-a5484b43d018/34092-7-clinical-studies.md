@@ -75,7 +75,7 @@ Table 10: Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Di
 Pantoprazole sodium delayed-release tablets 40 mg were superior to ranitidine in reducing the number of daytime and nighttime heartburn episodes from the first through the twelfth month of treatment.
 Pantoprazole sodium delayed-release tablets 20 mg, administered once daily, were also effective in reducing episodes of daytime and nighttime heartburn in one trial, as presented in Table 11.
 
-Table 11: Number of Episodes of Heartburn (Mean ± SD)
+Table 11: Number of Episodes of Heartburn (mean ± SD)
 
 |  |  | Pantoprazole Sodium Delayed-Release Tablets 40 mg daily | Ranitidine 150 mg twice daily |
 | --- | --- | --- | --- |

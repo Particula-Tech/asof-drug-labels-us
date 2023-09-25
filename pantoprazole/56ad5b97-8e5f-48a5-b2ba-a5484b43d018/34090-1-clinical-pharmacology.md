@@ -29,7 +29,7 @@ The effects of pantoprazole on median pH from one double-blind crossover study a
 
 Table 5: Effect of Single Daily Doses of Oral Pantoprazole on Intragastric pH
 
-| Time | Median pH on Day 7 |  |  |  |
+| Time | Median pH on day 7 |  |  |  |
 | --- | --- | --- | --- | --- |
 | Placebo | 20 mg | 40 mg | 80 mg |  |
 | 8 a.m. - 8 a.m. (24 hours) | 1.3 | 2.9Significantly different from placebo | 3.8Significantly different from 20 mg | 3.9 |
@@ -126,9 +126,9 @@ The pharmacokinetics of pantoprazole sodium delayed-release tablets were evaluat
 The PK parameters following a single oral dose of 20 mg or 40 mg of pantoprazole sodium delayed-release tablets in children ages 6 through 16 years were highly variable (%CV ranges 40 to 80%).
 The geometric mean AUC estimated from population PK analysis after a 40 mg pantoprazole sodium delayed-release tablet in pediatric patients was about 39% and 10% higher respectively in 6 to 11 and 12 to 16 year-old children, compared to that of adults (Table 7).
 
-Table 7: PK Parameters in Children and Adolescents 6 Through 16 Years with GERD Receiving 40 mg Pantoprazole Sodium Delayed-Release Tablets
+Table 7: PK Parameters in Children and Adolescents 6 through 16 years with GERD receiving 40 mg Pantoprazole Sodium Delayed-Release Tablets
 
-|  | 6-11 Years (n = 12) | 12-16 Years (n = 11) |
+|  | 6-11 years (n = 12) | 12-16 years (n = 11) |
 | --- | --- | --- |
 | Cmax (μg/mL)Geometric mean values | 1.8 | 1.8 |
 | tmax (h)Median values | 2.0 | 2.0 |
