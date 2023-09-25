@@ -11,13 +11,13 @@ The active metabolite of clopidogrel selectively inhibits the binding of adenosi
 This action is irreversible.
 Consequently, platelets exposed to clopidogrel’s active metabolite are affected for the remainder of their lifespan (about 7 to 10 days).
 Platelet aggregation induced by agonists other than ADP is also inhibited by blocking the amplification of platelet activation by released ADP.
-Dose-dependent inhibition of platelet aggregation can be seen 2 hours after single oral doses of clopidogrel bisulfate.
-Repeated doses of 75 mg clopidogrel bisulfate per day inhibit ADP-induced platelet aggregation on the first day, and inhibition reaches steady state between Day 3 and Day 7.
-At steady state, the average inhibition level observed with a dose of 75 mg clopidogrel bisulfate per day was between 40% and 60%.
+Dose-dependent inhibition of platelet aggregation can be seen 2 hours after single oral doses of clopidogrel.
+Repeated doses of 75 mg clopidogrel per day inhibit ADP-induced platelet aggregation on the first day, and inhibition reaches steady state between Day 3 and Day 7.
+At steady state, the average inhibition level observed with a dose of 75 mg clopidogrel per day was between 40% and 60%.
 Platelet aggregation and bleeding time gradually return to baseline values after treatment is discontinued, generally in about 5 days.
 Geriatric Patients Elderly (≥75 years) and young healthy subjects had similar effects on platelet aggregation.
-Renally Impaired Patients After repeated doses of 75 mg clopidogrel bisulfate per day, patients with severe renal impairment (creatinine clearance from 5 to 15 mL/min) and moderate renal impairment (creatinine clearance from 30 to 60 mL/min) showed low (25%) inhibition of ADP-induced platelet aggregation.
-Hepatically Impaired Patients After repeated doses of 75 mg clopidogrel bisulfate per day for 10 days in patients with severe hepatic impairment, inhibition of ADP-induced platelet aggregation was similar to that observed in healthy subjects.
+Renally Impaired Patients After repeated doses of 75 mg clopidogrel per day, patients with severe renal impairment (creatinine clearance from 5 to 15 mL/min) and moderate renal impairment (creatinine clearance from 30 to 60 mL/min) showed low (25%) inhibition of ADP-induced platelet aggregation.
+Hepatically Impaired Patients After repeated doses of 75 mg clopidogrel per day for 10 days in patients with severe hepatic impairment, inhibition of ADP-induced platelet aggregation was similar to that observed in healthy subjects.
 Gender In a small study comparing men and women, less inhibition of ADP-induced platelet aggregation was observed in women.
 
 ## 12.3 Pharmacokinetics
@@ -25,10 +25,10 @@ Gender In a small study comparing men and women, less inhibition of ADP-induced 
 Clopidogrel is a prodrug and is metabolized to a pharmacologically active metabolite and inactive metabolites.
 Absorption After single and repeated oral doses of 75 mg per day, clopidogrel is rapidly absorbed.
 Absorption is at least 50%, based on urinary excretion of clopidogrel metabolites.
-Effect of food Clopidogrel bisulfate can be administered with or without food.
-In a study in healthy male subjects when clopidogrel bisulfate 75 mg per day was given with a standard breakfast, mean inhibition of ADP-induced platelet aggregation was reduced by less than 9%.
+Effect of food Clopidogrel can be administered with or without food.
+In a study in healthy male subjects when clopidogrel 75 mg per day was given with a standard breakfast, mean inhibition of ADP-induced platelet aggregation was reduced by less than 9%.
 The active metabolite AUC0-24 was unchanged in the presence of food, while there was a 57% decrease in active metabolite Cmax.
-Similar results were observed when a clopidogrel bisulfate 300 mg loading dose was administered with a high-fat breakfast.
+Similar results were observed when a clopidogrel 300 mg loading dose was administered with a high-fat breakfast.
 Metabolism Clopidogrel is extensively metabolized by two main metabolic pathways: one mediated by esterases and leading to hydrolysis into an inactive carboxylic acid derivative (85% of circulating metabolites) and one mediated by multiple cytochrome P450 enzymes.
 Cytochromes first oxidize clopidogrel to a 2-oxo-clopidogrel intermediate metabolite.
 Subsequent metabolism of the 2-oxo-clopidogrel intermediate metabolite results in formation of the active metabolite, a thiol derivative of clopidogrel.
@@ -40,20 +40,20 @@ In the 75 to 300 mg dose range, the pharmacokinetics of the active metabolite de
 Elimination Following an oral dose of 14C-labeled clopidogrel in humans, approximately 50% of total radioactivity was excreted in urine and approximately 46% in feces over the 5 days post dosing.
 After a single, oral dose of 75 mg, clopidogrel has a half-life of approximately 6 hours.
 The half-life of the active metabolite is about 30 minutes.
-Drug Interactions Effect of other drugs on clopidogrel bisulfate Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
+Drug Interactions Effect of other drugs on clopidogrel Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 CYP2C19 inducers Concomitant use of strong inducers of CYP2C19 results in increased plasma concentration of the active metabolite of clopidogrel and an increase in platelet inhibition.
 
 Rifampin: Coadministration of rifampin 300 mg twice daily for 7 days with 600 mg loading dose of clopidogrel in healthy adults increased the mean AUC and Cmax of clopidogrel’s thiol metabolites by 3.8-fold.
 Mean inhibition of platelet aggregation at 4 hours post dose was 34% higher in the presence of rifampin compared to clopidogrel administered alone.
 CYP2C19 inhibitors Concomitant use of certain inhibitors of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
 
-Proton pump inhibitors (PPI) The effect of proton pump inhibitors (PPI) on the systemic exposure to the clopidogrel active metabolite following multiple doses of clopidogrel bisulfate 75 mg evaluated in dedicated drug interaction studies is presented in Figure 1.
+Proton pump inhibitors (PPI) The effect of proton pump inhibitors (PPI) on the systemic exposure to the clopidogrel active metabolite following multiple doses of clopidogrel 75 mg evaluated in dedicated drug interaction studies is presented in Figure 1.
 
 Pharmacodynamic and pharmacokinetic parameters measured in these studies showed that the interaction was highest with omeprazole and least with dexlansoprazole.
 Opioids Coadministration of 5 mg intravenous morphine with 600 mg loading dose of clopidogrel in healthy adults decreased the AUC and Cmax of clopidogrel’s thiol metabolites by 34%.
 Mean platelet aggregation was higher up to 2 to 4 hours with morphine coadministration.
-Effect of clopidogrel bisulfate on other drugs In vitro studies have shown that the glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8.
-Concomitant administration of repaglinide with clopidogrel bisulfate increased the systemic exposure to repaglinide (AUC0-∞) by 5.1-fold following the loading dose (300 mg) and by 3.9-fold on day 3 of the maintenance dose (75 mg) of clopidogrel bisulfate [see Drug Interactions (7.7)].
+Effect of clopidogrel on other drugs In vitro studies have shown that the glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8.
+Concomitant administration of repaglinide with clopidogrel increased the systemic exposure to repaglinide (AUC0-∞) by 5.1-fold following the loading dose (300 mg) and by 3.9-fold on day 3 of the maintenance dose (75 mg) of clopidogrel [see Drug Interactions (7.8)].
 
 ## 12.5 Pharmacogenomics
 

@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-Platelet inhibition by clopidogrel bisulfate is irreversible and will last for the life of the platelet.
+Platelet inhibition by clopidogrel is irreversible and will last for the life of the platelet.
 Overdose following clopidogrel administration may result in bleeding complications.
 A single oral dose of clopidogrel at 1500 or 2000 mg/kg was lethal to mice and to rats and at 3000 mg/kg to baboons.
 Symptoms of acute toxicity were vomiting, prostration, difficult breathing, and gastrointestinal hemorrhage in animals.

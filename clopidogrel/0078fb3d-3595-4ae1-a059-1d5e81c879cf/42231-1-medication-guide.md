@@ -65,7 +65,7 @@ Before you take clopidogrel tablets, tell your doctor if you:
 - are pregnant or plan to become pregnant.
   It is not known if clopidogrel tablets will harm your unborn baby.
 - are breastfeeding or plan to breastfeed.
-  It is not known if clopidogrel bisulfate passes into your breast milk.
+  It is not known if clopidogrel passes into your breast milk.
   A decision should be made with your healthcare provider to avoid or discontinue breastfeeding when continuing clopidogrel tablets is needed.
 - have had an allergy or reaction to any medicine used to treat your disease.
 
@@ -105,7 +105,7 @@ How should I take clopidogrel tablets?
   If it is almost time for your next dose, skip the missed dose.
   Take the next dose at your regular time.
   Do not take 2 doses of clopidogrel tablets at the same time unless your doctor tells you to.
-- If you take too much clopidogrel bisulfate, call your doctor or go to the nearest emergency room right away.
+- If you take too much clopidogrel, call your doctor or go to the nearest emergency room right away.
 - Talk with your doctor about stopping your clopidogrel tablets before you have surgery.
   Your doctor may tell you to stop taking clopidogrel tablets at least 5 days before you have surgery to avoid excessive bleeding during surgery.
 
@@ -147,7 +147,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store clopidogrel tablets?
 
-- Store clopidogrel tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+- Store clopidogrel tablets at 59°F to 86°F (15°C to 30°C).
 
 Keep clopidogrel tablets and all medicines out of the reach of children.
 
@@ -171,8 +171,5 @@ Active ingredient: clopidogrel bisulfate
 Inactive ingredients: crospovidone, hydrogenated castor oil, hydroxypropyl cellulose low substituted, hypromellose 15cP, iron oxide red, lactose monohydrate, mannitol, microcrystalline cellulose, polyethylene glycol 6000, titanium dioxide, and triacetin
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
-
 All trademarks are property of their respective owners.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 10/2022
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 09/2023

@@ -36,7 +36,7 @@ There are no data on the presence of clopidogrel in human milk or the effects on
 No adverse effects on breastfed infants have been observed with maternal clopidogrel use during lactation in a small number of postmarketing cases.
 Studies in rats have shown that clopidogrel and/or its metabolites are present in the milk.
 When a drug is present in animal milk, it is likely that the drug will be present in human milk.
-The developmental and health benefits of breastfeeding should be considered along with mother’s clinical need for clopidogrel bisulfate and any potential adverse effects on the breastfed infant from clopidogrel bisulfate or from underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with mother’s clinical need for clopidogrel and any potential adverse effects on the breastfed infant from clopidogrel or from underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
@@ -47,9 +47,9 @@ It cannot be ruled out that a trial with a different design would demonstrate a 
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects in the CAPRIE and CURE controlled clinical studies, approximately 50% of patients treated with clopidogrel bisulfate were 65 years of age and older, and 15% were 75 years and older.
-In COMMIT, approximately 58% of the patients treated with clopidogrel bisulfate were 60 years and older, 26% of whom were 70 years and older.
-The observed risk of bleeding events with clopidogrel bisulfate plus aspirin versus placebo plus aspirin by age category is provided in Table 1 and Table 2 for the CURE and COMMIT trials, respectively [see Adverse Reactions (6.1)].
+Of the total number of subjects in the CAPRIE and CURE controlled clinical studies, approximately 50% of patients treated with clopidogrel were 65 years of age and older, and 15% were 75 years and older.
+In COMMIT, approximately 58% of the patients treated with clopidogrel were 60 years and older, 26% of whom were 70 years and older.
+The observed risk of bleeding events with clopidogrel plus aspirin versus placebo plus aspirin by age category is provided in Table 1 and Table 2 for the CURE and COMMIT trials, respectively [see Adverse Reactions (6.1)].
 No dosage adjustment is necessary in elderly patients.
 
 ## 8.6 Renal Impairment
