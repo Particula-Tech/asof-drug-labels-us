@@ -6,7 +6,7 @@ The efficacy of Oxaliplatin in combination with fluorouracil (FU)/leucovorin (LV
 Patients were randomized to receive Oxaliplatin with fluorouracil/leucovorin or fluorouracil/leucovorin alone for a total of 6 months (i.e., 12 cycles).
 Table 14 shows the dosing regimens for the two arms.
 
-Eligible patients were between 18 and 75 years of age, had histologically proven stage II (T3–T4 N0 M0; Dukes' B2) or III (any T N1–2 M0; Dukes' C) colon carcinoma (with the inferior pole of the tumor above the peritoneal reflection, i.e., greater than or equal to 15 cm from the anal margin) and had undergone (within 7 weeks prior to randomization) complete resection of the primary tumor without gross or microscopic evidence of residual disease and carcino-embyrogenic antigen (CEA) less than 10 ng/mL.
+Eligible patients were between 18 and 75 years of age, had histologically proven stage II (T3–T4 N0 M0; Dukes' B2) or III (any T N1–2 M0; Dukes' C) colon carcinoma (with the inferior pole of the tumor above the peritoneal reflection, i.e., greater than or equal to 15 cm from the anal margin) and had undergone (within 7 weeks prior to randomization) complete resection of the primary tumor without gross or microscopic evidence of residual disease and carcinoembryonic antigen (CEA) less than 10 ng/mL.
 Additional eligibility criteria were no prior chemotherapy, immunotherapy or radiotherapy; Eastern Cooperative Oncology Group performance status of 0, 1, or 2 (Karnofsky Performance Status greater than or equal to 60%); no pre-existing neuropathy; and absolute neutrophil count (ANC) greater than or equal to 1.5 × 109/L, platelets greater than or equal to 100 × 109/L, serum creatinine less than or equal to 1.25 × upper limit normal (ULN), total bilirubin less than 2 × ULN, and aspartate transaminase (AST)/alanine transaminase (ALT) less than 2 × ULN.
 The major efficacy outcome was 3-year disease-free survival (DFS).
 
@@ -22,7 +22,7 @@ Tables 15 and 16 show the baseline characteristics and exposure to Oxaliplatin.
 
 Table 15: Baseline Characteristics in Adjuvant Treatment Study
 
-|  |  | Oxaliplatin + Infusional FU/LV N=1123 | Infusional FU/LV N=1123 |
+|  |  | Oxaliplatin + Infusional FU/LV N=1,123 | Infusional FU/LV N=1,123 |
 | --- | --- | --- | --- |
 | Sex: | Male (%) | 56.1 | 52.4 |
 |  | Female (%) | 43.9 | 47.6 |
@@ -62,7 +62,7 @@ Table 15: Baseline Characteristics in Adjuvant Treatment Study
 
 Table 16: Exposure to Oxaliplatin in Adjuvant Treatment Study
 
-|  | Oxaliplatin + Infusional FU/LV N=1108 | Infusional FU/LV N=1111 |
+|  | Oxaliplatin + Infusional FU/LV N=1,108 | Infusional FU/LV N=1,111 |
 | --- | --- | --- |
 | Median Relative Dose Intensity (%) |  |  |
 | FU | 84.4 | 97.7 |
@@ -80,7 +80,7 @@ Table 17: Summary of DFS Analysis in Adjuvant Treatment Study - ITT Population
 | Parameter | Oxaliplatin + Infusional FU/LV | Infusional FU/LV |
 | --- | --- | --- |
 | Overall |  |  |
-| Number of patients | 1123 | 1123 |
+| Number of patients | 1,123 | 1,123 |
 | Number of events – relapse or death (%) | 304 (27.1) | 360 (32.1) |
 | 5-yr Disease-free survival % (95% CI) | 73.3 (70.7, 76.0) | 67.4 (64.6, 70.2) |
 | Hazard ratio (95% CI) | 0.80 (0.68, 0.93) |  |
@@ -98,7 +98,7 @@ Table 17: Summary of DFS Analysis in Adjuvant Treatment Study - ITT Population
 | Hazard ratio (95% CI) | 0.84 (0.62, 1.14) |  |
 | Log rank test | p=0.258 |  |
 | A hazard ratio of less than 1 favors Oxaliplatin + Infusional FU/LV |  |  |
-| Data cut off for disease-free survival June 1, 2006 |  |  |
+| Data cutoff for disease-free survival June 1, 2006 |  |  |
 
 Figure 1: Kaplan-Meier Curves of Disease-Free Survival (cutoff: 1 June 2006) in Adjuvant Treatment Trial – ITT Population
 
@@ -111,7 +111,7 @@ Table 18: Summary of OS Analysis in Adjuvant Treatment - ITT Population
 | Parameter | Oxaliplatin + Infusional FU/LV | Infusional FU/LV |
 | --- | --- | --- |
 | Overall |  |  |
-| Number of patients | 1123 | 1123 |
+| Number of patients | 1,123 | 1,123 |
 | Number of death events (%) | 245 (21.8) | 283 (25.2) |
 | Hazard ratio (95% CI) | 0.84 (0.71, 1.00) |  |
 | Stage III (Dukes' C) |  |  |
@@ -188,21 +188,22 @@ Table 21: Efficacy Results for Previously Untreated Advanced Colorectal Cancer T
 | Survival (ITT) |  |  |  |
 | Number of deaths (%) | 155 (58.1) | 192 (72.7) | 175 (66.3) |
 | Median survival (months) | 19.4 | 14.6 | 17.6 |
-| Hazard ratio (95% CI) | 0.65 (0.53, 0.80)Compared to irinotecan plus fluorouracil/leucovorin (IFL) arm. |  | - |
+| Hazard ratio (95% CI)A hazard ratio of less than 1 favors Oxaliplatin + Infusional FU/LV | 0.65 (0.53, 0.80)Compared to irinotecan plus fluorouracil/leucovorin (IFL) arm |  | - |
 | P-value | <0.0001 |  | - |
 | TTP (ITT, investigator assessment) |  |  |  |
 | Percentage of progressors | 82.8 | 81.8 | 89.4 |
 | Median TTP (months) | 8.7 | 6.9 | 6.5 |
 | Hazard ratio (95% CI) | 0.74 (0.61, 0.89) |  | - |
 | P-value | 0.0014 |  | - |
-| Response Rate (investigator assessment)A hazard ratio of less than 1 favors Oxaliplatin + Infusional FU/LV. ‡ Based on all patients with measurable disease at baseline. |  |  |  |
+| Response Rate (investigator assessment)Based on all patients with measurable disease at baseline |  |  |  |
 | Patients with measurable disease | 210 | 212 | 215 |
 | Complete response, N (%) | 13 (6.2) | 5 (2.4) | 7 (3.3) |
 | Partial response, N (%) | 82 (39.0) | 64 (30.2) | 67 (31.2) |
 | Complete and partial response, N (%) | 95 (45.2) | 69 (32.5) | 74 (34.4) |
 | 95% CI | (38.5, 52.0) | (26.2, 38.9) | (28.1, 40.8) |
 | P-value | 0.0080 |  | - |
-| The numbers in the response rate and TTP analysis are based on unblinded investigator assessment. |  |  |  |
+
+The numbers in the response rate and TTP analysis are based on unblinded investigator assessment.
 
 Figure 3: Kaplan-Meier Curves for Overall Survival in Previously Untreated Advanced Colorectal Cancer Trial
 

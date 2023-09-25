@@ -22,7 +22,7 @@ VIAL
 
 Hospira
 
-1 x 10 mL Vial NDC 61703-363-18
+1. 1 x 10 mL Vial NDC 61703-363-18
 
 Sterile Aqueous Solution
 

@@ -2,15 +2,15 @@
 
 The following clinically significant adverse reactions are described elsewhere in labeling:
 
-- Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
-- Peripheral Sensory Neuropathy [see Warnings and Precautions (5.2)]
-- Severe Myelosuppression [see Warnings and Precautions (5.3)]
-- Reversible Posterior Leukoencephalopathy Syndrome [see Warnings and Precautions (5.4)]
-- Pulmonary Toxicity [see Warnings and Precautions (5.5)]
-- Hepatotoxicity [see Warnings and Precautions (5.6)]
-- QT Interval Prolongation and Ventricular Arrhythmias [see Warnings and Precautions (5.7)]
-- Rhabdomyolysis [see Warnings and Precautions (5.8)]
-- Hemorrhage [see Warnings and Precautions (5.9)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+- •Peripheral Sensory Neuropathy [see Warnings and Precautions (5.2)]
+- •Severe Myelosuppression [see Warnings and Precautions (5.3)]
+- •Reversible Posterior Leukoencephalopathy Syndrome [see Warnings and Precautions (5.4)]
+- •Pulmonary Toxicity [see Warnings and Precautions (5.5)]
+- •Hepatotoxicity [see Warnings and Precautions (5.6)]
+- •QT Interval Prolongation and Ventricular Arrhythmias [see Warnings and Precautions (5.7)]
+- •Rhabdomyolysis [see Warnings and Precautions (5.8)]
+- •Hemorrhage [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -24,7 +24,7 @@ Adjuvant Treatment
 
 The safety of Oxaliplatin in combination with fluorouracil (FU)/leucovorin (LV) was evaluated in patients with stage II or III colon cancer, who had undergone complete resection of the primary tumor in the adjuvant treatment trial [see Clinical Studies (14.1)].
 
-Fatal adverse reactions in patients who received Oxaliplatin in the combination arm included sepsis/neutropenic sepsis (n=3), intracerebral hemorrhage (n=2) and eosinophilic pneumonia (n=1).
+Fatal adverse reactions in patients who received Oxaliplatin in the combination arm included sepsis/neutropenic sepsis (n=3), intracerebral hemorrhage (n=2), and eosinophilic pneumonia (n=1).
 
 Thromboembolic events occurred in 6% (grade 3–4, 1.2%) of patients in the Oxaliplatin arm.
 
@@ -40,7 +40,7 @@ Table 5: Adverse Reactions Reported in Patients with Colon Cancer Receiving Adju
 
 | All Grades (%) | Grade 3–4 (%) | All Grades (%) | Grade 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
-| Adverse ReactionEvent coded in WHO-ART dictionary | Oxaliplatin + FU/LV N=1108 |  | FU/LV N=1111 |  |
+| Adverse ReactionEvent coded in WHO-ART dictionary | Oxaliplatin + FU/LV N=1,108 |  | FU/LV N=1,111 |  |
 | Neurology |  |  |  |  |
 | Peripheral Sensory Neuropathy | 92 | 12 | 16 | <1 |
 | Gastrointestinal |  |  |  |  |
@@ -65,9 +65,9 @@ Table 6: Adverse Reactions Reported in Patients with Colon Cancer Receiving Adju
 
 | All Grades (%) | All Grades (%) |  |
 | --- | --- | --- |
-| Adverse ReactionEvent coded in WHO-ART dictionary | Oxaliplatin + FU/LV N=1108 | FU/LV N=1111 |
+| Adverse ReactionEvent coded in WHO-ART dictionary | Oxaliplatin + FU/LV N=1,108 | FU/LV N=1,111 |
 | Dermatology/Skin |  |  |
-| AlopeciaNo complete alopecia was reported. | 30 | 28 |
+| AlopeciaNo complete alopecia was reported | 30 | 28 |
 | Gastrointestinal |  |  |
 | Constipation | 22 | 19 |
 | Taste Perversion | 12 | 8 |
@@ -95,7 +95,7 @@ Table 7: Laboratory-Related Adverse Reactions Occurring in ≥5% of Patients wit
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
-| Laboratory-Related Adverse Reaction | Oxaliplatin with FU/LV N=1108 |  | FU/LV N=1111 |  |
+| Laboratory-Related Adverse Reaction | Oxaliplatin with FU/LV N=1,108 |  | FU/LV N=1,111 |  |
 | Hematology |  |  |  |  |
 | Neutropenia | 79 | 41 | 40 | 5 |
 | Thrombocytopenia | 77 | 2 | 19 | <1 |
@@ -166,9 +166,9 @@ Table 9: Adverse Reactions Reported in Patients in the Previously Untreated Adva
 
 | All Grades (%) | All Grades (%) | All Grades (%) |  |
 | --- | --- | --- | --- |
-| Adverse ReactionEvent coded in WHO-ART dictionary | Oxaliplatin + 5-FU/LV N=259 | Irinotecan + 5-FU/LV N=256 | Oxaliplatin + Irinotecan N=258 |
+| Adverse ReactionEvent coded in WHO-ART dictionary | Oxaliplatin + FU/LV N=259 | Irinotecan + FU/LV N=256 | Oxaliplatin + Irinotecan N=258 |
 | Dermatology/Skin |  |  |  |
-| AlopeciaNo complete alopecia was reported. | 38 | 44 | 67 |
+| AlopeciaNo complete alopecia was reported | 38 | 44 | 67 |
 | Flushing | 7 | 2 | 5 |
 | Pruritus | 6 | 4 | 2 |
 | Dry Skin | 6 | 2 | 5 |
@@ -274,7 +274,7 @@ Table 12: Adverse Reactions Reported in Patients in the Previously Treated Advan
 
 | All Grades (%) | All Grades (%) | All Grades (%) |  |
 | --- | --- | --- | --- |
-| Adverse ReactionEvent coded in WHO-ART dictionary | Oxaliplatin + FU/LV N=150 | Oxaliplatin N=153 | 5-FU/LV N=142 |
+| Adverse ReactionEvent coded in WHO-ART dictionary | Oxaliplatin + FU/LV N=150 | Oxaliplatin N=153 | FU/LV N=142 |
 | Gastrointestinal |  |  |  |
 | Constipation | 32 | 31 | 23 |
 | Dyspepsia | 14 | 7 | 10 |
@@ -297,7 +297,7 @@ Table 12: Adverse Reactions Reported in Patients in the Previously Treated Advan
 | Dermatology/Skin |  |  |  |
 | Hand-Foot Syndrome | 11 | 1 | 13 |
 | Flushing | 10 | 3 | 2 |
-| AlopeciaNo complete alopecia was reported. | 7 | 3 | 3 |
+| AlopeciaNo complete alopecia was reported | 7 | 3 | 3 |
 | Pulmonary |  |  |  |
 | Upper Respiratory Tract Infection | 10 | 7 | 4 |
 | Pharyngitis | 9 | 2 | 10 |
@@ -346,18 +346,18 @@ Pulmonary fibrosis, which may be fatal, occurred in less than 1% of patients.
 The following adverse reactions have been identified during postapproval use of Oxaliplatin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- General: angioedema, anaphylactic shock
-- Cardiovascular: QT prolongation leading to ventricular arrhythmias, including fatal torsade de pointes; bradyarrhythmia
-- Neurological: loss of deep tendon reflexes, dysarthria, Lhermitte's sign, cranial nerve palsies, fasciculations, convulsion
-- Hearing and vestibular system: deafness
-- Infections: septic shock, including fatal outcomes
-- Infusion-related reactions and hypersensitivity reactions: laryngospasm
-- Hepatic and gastrointestinal: severe diarrhea/vomiting resulting in hypokalemia, colitis (including Clostridium difficile diarrhea), metabolic acidosis, ileus, intestinal obstruction, pancreatitis, sinusoidal obstruction syndrome, perisinusoidal fibrosis which rarely may progress, esophagitis
-- Musculoskeletal and connective tissue: rhabdomyolysis, including fatal outcomes
-- Platelet, bleeding, and clotting disorders: immuno-allergic thrombocytopenia, prolonged prothrombin time and INR in patients receiving anticoagulants
-- Blood disorders: secondary leukemia
-- Red blood cell: hemolytic uremic syndrome, immuno-allergic hemolytic anemia
-- Renal: acute tubular necrosis, acute interstitial nephritis, acute renal failure
-- Respiratory: interstitial lung diseases (sometimes fatal) and pneumonia (including fatal outcomes)
-- Vision: decrease of visual acuity, visual field disturbance, optic neuritis and transient vision loss (reversible following treatment discontinuation)
-- Injury, poisoning, and procedural complications: fall-related injuries
+- •General: angioedema, anaphylactic shock
+- •Cardiovascular: QT prolongation leading to ventricular arrhythmias, including fatal torsade de pointes; bradyarrhythmia
+- •Neurological: loss of deep tendon reflexes, dysarthria, Lhermitte's sign, cranial nerve palsies, fasciculations, convulsion
+- •Hearing and vestibular system: deafness
+- •Infections: septic shock, including fatal outcomes
+- •Infusion-related reactions and hypersensitivity reactions: laryngospasm
+- •Hepatic and gastrointestinal: severe diarrhea/vomiting resulting in hypokalemia, colitis (including Clostridium difficile diarrhea), metabolic acidosis, ileus, intestinal obstruction, pancreatitis, sinusoidal obstruction syndrome, perisinusoidal fibrosis which rarely may progress, focal nodular hyperplasia, esophagitis
+- •Musculoskeletal and connective tissue: rhabdomyolysis, including fatal outcomes
+- •Platelet, bleeding, and clotting disorders: immuno-allergic thrombocytopenia, prolonged prothrombin time and INR in patients receiving anticoagulants
+- •Blood disorders: secondary leukemia
+- •Red blood cell: hemolytic uremic syndrome, immuno-allergic hemolytic anemia
+- •Renal: acute tubular necrosis, acute interstitial nephritis, acute renal failure
+- •Respiratory: interstitial lung diseases (sometimes fatal) and pneumonia (including fatal outcomes)
+- •Vision: decrease of visual acuity, visual field disturbance, optic neuritis and transient vision loss (reversible following treatment discontinuation)
+- •Injury, poisoning, and procedural complications: fall-related injuries

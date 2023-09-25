@@ -4,8 +4,8 @@
 
 Administer Oxaliplatin in combination with fluorouracil and leucovorin every 2 weeks.
 
-- For adjuvant treatment, continue treatment for up to 12 cycles or unacceptable toxicity.
-- For advanced colorectal cancer, continue treatment until disease progression or unacceptable toxicity.
+- •For adjuvant treatment, continue treatment for up to 12 cycles or unacceptable toxicity.
+- •For advanced colorectal cancer, continue treatment until disease progression or unacceptable toxicity.
 
 Day 1
 
@@ -19,14 +19,14 @@ Refer to the prescribing information for fluorouracil and leucovorin for additio
 
 ## 2.2 Dose Modifications for Adverse Reactions
 
-Prolongation of infusion time for Oxaliplatin from 2 hours to 6 hours may mitigate acute toxicities, such as non-life threatening infusion-related reactions.
+Prolongation of infusion time for Oxaliplatin from 2 hours to 6 hours may mitigate acute toxicities, such as non-life‑threatening infusion-related reactions.
 
 Permanently discontinue Oxaliplatin for any of the following:
 
-- Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
-- Posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.4)]
-- Confirmed interstitial lung disease or pulmonary fibrosis [see Warnings and Precautions (5.5)]
-- Rhabdomyolysis [see Warnings and Precautions (5.8)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+- •Posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.4)]
+- •Confirmed interstitial lung disease or pulmonary fibrosis [see Warnings and Precautions (5.5)]
+- •Rhabdomyolysis [see Warnings and Precautions (5.8)]
 
 Refer to the fluorouracil and leucovorin prescribing information for dosage modifications for adverse reactions.
 
@@ -66,17 +66,17 @@ In patients with severe renal impairment (creatinine clearance [CLcr] less than 
 
 ## 2.4 Preparation and Administration
 
-- Oxaliplatin is a cytotoxic drug.
+- •Oxaliplatin is a cytotoxic drug.
   Follow applicable special handling and disposal procedures.1
-- Do not freeze.
-- Protect the concentrated solution from light.
-- Dilute concentrated solution with 250 to 500 mL of 5% Dextrose Injection, USP.
+- •Do not freeze.
+- •Protect the concentrated solution from light.
+- •Dilute concentrated solution with 250 to 500 mL of 5% Dextrose Injection, USP.
   Do not dilute with sodium chloride solution or other chloride-containing solutions.
-- Store diluted solution for no more than 6 hours at room temperature (20°C to 25°C [68°F to 77°F]) or 24 hours under refrigeration (2°C to 8°C [36°F to 46°F]).
+- •Store diluted solution for no more than 6 hours at room temperature (20°C to 25°C [68°F to 77°F]) or 24 hours under refrigeration (2°C to 8°C [36°F to 46°F]).
   Protection from light is not required.
-- Visually inspect for particulate matter and discoloration prior to administration and discard if present.
-- Do not mix Oxaliplatin or administer Oxaliplatin through the same infusion line concurrently with alkaline medications or media (such as basic solutions of fluorouracil).
-- Flush the infusion line with 5% Dextrose Injection, USP prior to administration of any concomitant medication.
-- Do not use needles or intravenous administration sets containing aluminum parts for the preparation or mixing of Oxaliplatin.
+- •Visually inspect for particulate matter and discoloration prior to administration and discard if present.
+- •Do not mix Oxaliplatin or administer Oxaliplatin through the same infusion line concurrently with alkaline medications or media (such as basic solutions of fluorouracil).
+- •Flush the infusion line with 5% Dextrose Injection, USP prior to administration of any concomitant medication.
+- •Do not use needles or intravenous administration sets containing aluminum parts for the preparation or mixing of Oxaliplatin.
   Aluminum has been reported to cause degradation of platinum compounds.
-- Administer Oxaliplatin as an intravenous infusion over 120 minutes concurrently with leucovorin over 120 minutes in separate bags.
+- •Administer Oxaliplatin as an intravenous infusion over 120 minutes concurrently with leucovorin over 120 minutes in separate bags.

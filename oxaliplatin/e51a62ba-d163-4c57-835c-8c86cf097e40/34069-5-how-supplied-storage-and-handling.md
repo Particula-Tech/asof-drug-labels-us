@@ -12,9 +12,9 @@ Tartaric Acid, NF, Water for Injection, USP and Sodium Hydroxide, NF are used as
 | NDC 61703-363-22 | 100 mg/20 mL |
 | Carton containing 1 Single-dose vial | (5 mg/mL) |
 
-Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP controlled room temperature].
-Protect from light (Keep in outer carton).
-Do not freeze.
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP controlled room temperature].
+Do not freeze and protect from light (keep in original outer carton).
+Discard unused portion.
 
 Oxaliplatin is a cytotoxic drug.
 Follow applicable special handling and disposal procedures.1 The use of gloves is recommended.
