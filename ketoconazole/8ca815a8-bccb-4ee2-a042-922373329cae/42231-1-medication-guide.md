@@ -55,7 +55,7 @@ Before you take ketoconazole tablets USP, tell your healthcare provider if you:
 - are pregnant or plan to become pregnant.
   It is not known if ketoconazole tablets will harm your unborn baby.
 - are breastfeeding or plan to breastfeed.
-  Ketoconazole tablets can pass into your breast milk.
+  Ketoconazole can pass into your breast milk.
   You and your healthcare provider should decide if you will take ketoconazole tablets or breastfeed.
   You should NOT do both.
 
@@ -128,4 +128,4 @@ Mfd. by: Taro Pharmaceutical Industries Ltd. Haifa Bay, Israel 2624761
 
 Dist. by: Taro Pharmaceuticals U.S.A., Inc. Hawthorne, NY 10532
 
-Revised: May 2023 5201136-0523-07 1144
+Revised: September 2023 5201136-0923-08 1144

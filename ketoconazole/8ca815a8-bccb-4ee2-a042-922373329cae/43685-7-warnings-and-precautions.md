@@ -147,8 +147,6 @@ The high dose in these studies was approximately 1× (mouse) or 2× (rat) the cl
 
 ### Teratogenic effects
 
-#### Pregnancy Category C
-
 Ketoconazole has been shown to be teratogenic (syndactylia and oligodactylia) in the rat when given in the diet at 80 mg/kg/day (2 times the maximum recommended human dose, based on body surface area comparisons).
 However, these effects may be related to maternal toxicity, evidence of which also was seen at this and higher dose levels.
 
