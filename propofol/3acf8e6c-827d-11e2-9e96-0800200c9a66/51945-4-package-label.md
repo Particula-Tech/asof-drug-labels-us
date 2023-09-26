@@ -1,4 +1,4 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL – 20 mL
 
 20 mL Single Patient Use Vial NDC 0069-0209-01
 
@@ -23,7 +23,7 @@ For Intravenous Administration SHAKE WELL BEFORE USING
 1. 1.Use strict aseptic technique
 2. 2.Contains EDTA, which inhibits microbial growth up to 12 hours, discard within 12 hours of opening
 
-Pfizer Injectables Rx only
+Pfizer Hospital Rx only
 
 # PRINCIPAL DISPLAY PANEL - 50 mL Vial Label
 
@@ -50,7 +50,7 @@ For Intravenous Administration SHAKE WELL BEFORE USING
 1. 1.Use strict aseptic technique
 2. 2.Contains EDTA, which inhibits microbial growth up to 12 hours, discard within 12 hours of opening
 
-Pfizer Injectables Rx only
+Pfizer Hospital Rx only
 
 # PRINCIPAL DISPLAY PANEL - 100 mL Vial Label
 
@@ -72,7 +72,7 @@ Ten 100 mL Vials for Single Patient Use NDC 0069-0248-10
 
 Propofol Injectable Emulsion, USP 1000 mg/100 mL (10 mg/mL) For Intravenous Administration SHAKE WELL BEFORE USING Rx only
 
-Pfizer Injectables
+Pfizer Hospital
 
 1. 1.Use strict aseptic technique
 2. 2.Contains EDTA, which inhibits microbial growth up to 12 hours, discard within 12 hours of opening
