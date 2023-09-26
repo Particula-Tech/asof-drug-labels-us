@@ -135,3 +135,8 @@ Grapefruit and grapefruit juice inhibit cytochrome P450 3A4 and P-gp activity an
 ## 5.21 Patients with Hereditary Disorders/Other
 
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take Zortress as this may result in diarrhea and malabsorption.
+
+## 5.22 Cannabidiol Drug Interactions
+
+When cannabidiol and Zortress are coadministered, closely monitor for an increase in everolimus blood levels and for adverse reactions suggestive of everolimus toxicity.
+A dose reduction of Zortress should be considered as needed when Zortress is coadministered with cannabidiol [see Dosage and Administration (2.3), Drug Interactions (7.13)].

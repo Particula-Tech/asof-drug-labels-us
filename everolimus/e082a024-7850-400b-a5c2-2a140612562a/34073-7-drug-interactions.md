@@ -67,3 +67,9 @@ Coadministration of everolimus and depot octreotide increased octreotide Cmin by
 ## 7.12 Tacrolimus
 
 There is little to no pharmacokinetic interaction of tacrolimus on everolimus, and consequently, dose adjustment of Zortress is not necessary when Zortress is coadministered with tacrolimus.
+
+## 7.13 Cannabidiol
+
+The blood levels of everolimus may increase upon concomitant use with cannabidiol.
+When cannabidiol and Zortress are coadministered, closely monitor for an increase in everolimus blood levels and for adverse reactions suggestive of everolimus toxicity.
+A dose reduction of Zortress should be considered as needed when Zortress is coadministered with cannabidiol [see Dosage and Administration (2.3), Warnings and Precautions (5.22)].

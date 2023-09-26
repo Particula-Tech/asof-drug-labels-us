@@ -67,7 +67,7 @@ Medications that Interfere with Zortress
 
 Some medications can increase or decrease blood concentrations of Zortress.
 Advise patients to inform their physician if they are taking any of the following: antifungals, antibiotics, antivirals, anti-epileptic medicines including carbamazepine, phenytoin and barbiturates, herbal/dietary supplements (St.
-John’s Wort), and/or rifampin [see Warnings and Precautions (5.14)].
+John’s Wort), cannabidiol, and/or rifampin [see Warnings and Precautions (5.14, 5.22)].
 
 New Onset Diabetes
 
@@ -86,4 +86,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2021-02
+T2023-63

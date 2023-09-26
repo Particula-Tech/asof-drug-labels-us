@@ -243,11 +243,7 @@ Incidence Rates of most Frequent (Greater than or Equal to 10% in any Treatment 
 | -Renal failure | 13 (5) | 17 (7) | 24 (10) | 37 (15) |
 | Vascular Disorders | 56 (23) | 57 (24) | 72 (29) | 68 (28) |
 | -Hypertension | 42 (17) | 38 (16) | 52 (21) | 44 (18) |
-| *The safety analysis population is defined as all randomized liver transplant patients who received at least one dose of treatment and had at least one post-baseline safety assessment. |  |  |  |  |
-
-Primary system organ classes are presented alphabetically.
-
-**No de novo hepatitis C cases were reported.
+| *The safety analysis population is defined as all randomized liver transplant patients who received at least one dose of treatment and had at least one post-baseline safety assessment. Primary system organ classes are presented alphabetically. **No de novo hepatitis C cases were reported. |  |  |  |  |
 
 Less common adverse reactions, occurring overall in greater than or equal to 1% to less than 10% of either kidney or liver transplant patients treated with Zortress include:
 

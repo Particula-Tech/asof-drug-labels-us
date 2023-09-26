@@ -25,7 +25,7 @@ Steroid doses may be further tapered on an individualized basis depending on the
 Routine everolimus whole blood therapeutic drug concentration monitoring is recommended for all patients.
 The recommended everolimus therapeutic range is 3 to 8 ng/mL [see Clinical Pharmacology (12.7)].
 Careful attention should be made to clinical signs and symptoms, tissue biopsies, and laboratory parameters.
-It is important to monitor everolimus blood concentrations, in patients with hepatic impairment, during concomitant administration of CYP3A4 inducers or inhibitors, when switching cyclosporine formulations and/or when cyclosporine dosing is reduced according to recommended target concentrations [see Clinical Pharmacology (12.7, 12.8)].
+It is important to monitor everolimus blood concentrations, in patients with hepatic impairment, during concomitant administration of CYP3A4 inducers or inhibitors or cannabidiol, when switching cyclosporine formulations and/or when cyclosporine dosing is reduced according to recommended target concentrations [see Drug Interactions (7), Clinical Pharmacology (12.7, 12.8)].
 
 There is an interaction of cyclosporine on everolimus, and consequently, everolimus concentrations may decrease if cyclosporine exposure is reduced.
 There is little to no pharmacokinetic interaction of tacrolimus on everolimus, and thus, everolimus concentrations do not decrease if the tacrolimus exposure is reduced [see Drug Interactions (7.2)].
