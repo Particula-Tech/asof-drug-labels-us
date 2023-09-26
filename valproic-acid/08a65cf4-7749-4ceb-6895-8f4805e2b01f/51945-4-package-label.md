@@ -28,8 +28,6 @@ Rx only abbvie
 
 NDC 0074-6214-53
 
-No image available
-
 NDC 0074-6214-13
 
 100 Tablets

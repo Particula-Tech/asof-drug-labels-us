@@ -64,6 +64,8 @@ An exploratory analysis for age and gender effects on outcome did not suggest an
 
 A comparison of the percentage of patients showing ≥ 30% reduction in the symptom score from baseline in each treatment group, separated by study, is shown in Figure 1.
 
+Figure 1
+
 * p < 0.05
 
 PBO = placebo, DVPX = Depakote
@@ -91,6 +93,8 @@ Thus, in a display of this type, the curve for an effective treatment is shifted
 This figure shows that the proportion of patients achieving any particular level of improvement was consistently higher for valproate than for placebo.
 For example, 45% of patients treated with valproate had a ≥ 50% reduction in complex partial seizure rate compared to 23% of patients treated with placebo.
 
+Figure 2
+
 The second study assessed the capacity of valproate to reduce the incidence of CPS when administered as the sole AED.
 The study compared the incidence of CPS among patients randomized to either a high or low dose treatment arm.
 Patients qualified for entry into the randomized comparison phase of this study only if 1) they continued to experience 2 or more CPS per 4 weeks during an 8 to 12 week long period of monotherapy with adequate doses of an AED (i.e., phenytoin, carbamazepine, phenobarbital, or primidone) and 2) they made a successful transition over a two week interval to valproate.
@@ -114,6 +118,8 @@ A positive percent reduction indicates an improvement (i.e., a decrease in seizu
 Thus, in a display of this type, the curve for a more effective treatment is shifted to the left of the curve for a less effective treatment.
 This figure shows that the proportion of patients achieving any particular level of reduction was consistently higher for high dose valproate than for low dose valproate.
 For example, when switching from carbamazepine, phenytoin, phenobarbital or primidone monotherapy to high dose valproate monotherapy, 63% of patients experienced no change or a reduction in complex partial seizure rates compared to 54% of patients receiving low dose valproate.
+
+Figure 3
 
 Information on pediatric studies is presented in section 8.
 
@@ -150,6 +156,8 @@ The mean trough total valproate levels during the treatment phase were 39.6, 62.
 
 The mean 4-week migraine headache rates during the treatment phase, adjusted for differences in baseline rates, were 4.5 in the placebo group, compared to 3.3, 3.0, and 3.3 in the Depakote 500, 1,000, and 1,500 mg/day groups, respectively, based on intent-to-treat results (see Figure 4).
 Migraine headache rates in the combined Depakote 1,000/1,500 mg group were significantly lower than in the placebo group.
+
+Figure 4 Mean 4-week Migraine Rates
 
 1 Mean dose of Depakote was 1,087 mg/day.
 
