@@ -80,6 +80,8 @@ Based on the pharmacologic action of ziprasidone (D2 antagonism), treatment with
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of ziprasidone have not been established in pediatric patients.
+Pediatric information is approved for Viatris Specialty LLC’s Geodon (ziprasidone HCl) capsules.
+However, due to Viatris Specialty LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 
