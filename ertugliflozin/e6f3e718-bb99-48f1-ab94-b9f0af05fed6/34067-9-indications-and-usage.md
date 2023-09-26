@@ -4,5 +4,4 @@ STEGLATRO® is indicated as an adjunct to diet and exercise to improve glycemic 
 
 Limitations of Use
 
-- Not recommended in patients with type 1 diabetes mellitus.
-  It may increase the risk of diabetic ketoacidosis in these patients [see Warnings and Precautions (5.1)].
+- Not recommended for use to improve glycemic control in patients with type 1 diabetes mellitus [see Warnings and Precautions (5.1)].

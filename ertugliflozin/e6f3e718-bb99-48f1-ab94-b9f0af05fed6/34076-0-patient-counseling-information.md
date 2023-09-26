@@ -2,11 +2,15 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Ketoacidosis
+Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis
 
-Inform patients that ketoacidosis is a serious life-threatening condition and that cases of ketoacidosis have been reported during use of STEGLATRO, sometimes associated with illness or surgery among other risk factors.
-Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
-If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue STEGLATRO and seek medical attention immediately [see Warnings and Precautions (5.1)].
+Inform patients that STEGLATRO can cause potentially fatal ketoacidosis and that type 2 diabetes mellitus and pancreatic disorders (e.g., history of pancreatitis or pancreatic surgery) are risk factors.
+
+Educate all patients on precipitating factors (such as insulin dose reduction or missed insulin doses, infection, reduced caloric intake, ketogenic diet, surgery, dehydration, and alcohol abuse) and symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing).
+Inform patients that blood glucose may be normal even in the presence of ketoacidosis.
+
+Advise patients that they may be asked to monitor ketones.
+If symptoms of ketoacidosis occur, instruct patients to discontinue STEGLATRO and seek medical attention immediately [see Warnings and Precautions (5.1)].
 
 Amputation
 
@@ -27,7 +31,8 @@ Advise them to seek medical advice if such symptoms occur [see Warnings and Prec
 
 Hypoglycemia with Concomitant Use of Insulin and/or Insulin Secretagogue
 
-Inform patients that the incidence of hypoglycemia may increase when STEGLATRO is added to insulin and/or an insulin secretagogue and that a lower dose of insulin or insulin secretagogue may be required to reduce the risk of hypoglycemia [see Warnings and Precautions (5.5)].
+Inform patients that the incidence of hypoglycemia may increase when STEGLATRO is added to insulin and/or an insulin secretagogue.
+Educate patients or caregivers on the signs and symptoms of hypoglycemia [see Warnings and Precautions (5.5)].
 
 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 
