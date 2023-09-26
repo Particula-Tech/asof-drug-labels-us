@@ -2,17 +2,21 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
+Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis
+
+Inform patients that STEGLUJAN can cause potentially fatal ketoacidosis and that type 2 diabetes mellitus and pancreatic disorders (e.g., history of pancreatitis or pancreatic surgery) are risk factors.
+
+Educate all patients on precipitating factors (such as insulin dose reduction or missed insulin doses, infection, reduced caloric intake, ketogenic diet, surgery, dehydration, and alcohol abuse) and symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing).
+Inform patients that blood glucose may be normal even in the presence of ketoacidosis.
+
+Advise patients that they may be asked to monitor ketones.
+If symptoms of ketoacidosis occur, instruct patients to discontinue STEGLUJAN and seek medical attention immediately [see Warnings and Precautions (5.1)].
+
 Pancreatitis
 
 Inform patients that acute pancreatitis has been reported during use of sitagliptin, a component of STEGLUJAN.
 Inform patients that persistent severe abdominal pain, sometimes radiating to the back, which may or may not be accompanied by vomiting, is the hallmark symptom of acute pancreatitis.
-Instruct patients to promptly discontinue STEGLUJAN and contact their physician if persistent severe abdominal pain occurs [see Warnings and Precautions (5.1)].
-
-Ketoacidosis
-
-Inform patients that ketoacidosis is a serious life-threatening condition and that cases of ketoacidosis have been reported during use of medicines containing SGLT2 inhibitors, including ertugliflozin, sometimes associated with illness or surgery among other risk factors.
-Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
-If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue STEGLUJAN and seek medical attention immediately [see Warnings and Precautions (5.2)].
+Instruct patients to promptly discontinue STEGLUJAN and contact their physician if persistent severe abdominal pain occurs [see Warnings and Precautions (5.2)].
 
 Amputation
 
@@ -38,7 +42,8 @@ Instruct patients to contact their health care provider as soon as possible if t
 
 Hypoglycemia with Concomitant Use of Insulin and Insulin Secretagogue
 
-Inform patients that the incidence of hypoglycemia may increase when STEGLUJAN is added to insulin and/or an insulin secretagogue and that a lower dose of insulin or insulin secretagogue may be required to reduce the risk of hypoglycemia [see Warnings and Precautions (5.8)].
+Inform patients that the incidence of hypoglycemia may increase when STEGLUJAN is added to insulin and/or an insulin secretagogue.
+Educate patients or caregivers on the signs and symptoms of hypoglycemia [see Warnings and Precautions (5.8)].
 
 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
 
