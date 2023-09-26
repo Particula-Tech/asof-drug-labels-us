@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA019839",
+    "NDA020990"
+  ],
+  "inn": "sertraline",
+  "labeler": "Viatris Specialty LLC",
+  "package_ndcs": [
+    "58151-574-93",
+    "58151-575-88",
+    "58151-575-93",
+    "58151-576-88",
+    "58151-576-93",
+    "58151-601-35"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION, CONCENTRATE",
+      "generic": "sertraline hydrochloride",
+      "name": "Zoloft"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sertraline hydrochloride",
+      "name": "Zoloft"
+    }
+  ],
+  "setid": "fda754f6-d0f3-4dce-a17a-927d64f912f7",
+  "source": "dailymed"
+}
