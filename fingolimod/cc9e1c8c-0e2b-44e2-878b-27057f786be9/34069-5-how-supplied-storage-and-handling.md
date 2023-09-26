@@ -6,8 +6,6 @@
 
 hard gelatin capsules with an ivory opaque body and cap, with black radial imprint “FTY 0.25 mg” on the cap and a black radial band on the capsule body
 
-Bottle of 30 capsules NDC 0078-0965-15
-
 Carton of 7 capsules containing 1 blister card of 7 capsules per blister card NDC 0078-0965-89
 
 0.5 mg GILENYA capsules are supplied as follows:
