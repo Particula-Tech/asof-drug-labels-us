@@ -106,3 +106,8 @@ These risk factors may, either alone or combined, contribute to the risk of TMA.
 
 In patients with signs and symptoms of TMA, consider tacrolimus as a risk factor.
 Concurrent use of tacrolimus and mTOR inhibitors may contribute to the risk of TMA.
+
+## 5.15 Cannabidiol Drug Interactions
+
+When cannabidiol and ASTAGRAF XL are co-administered, closely monitor for an increase in tacrolimus blood levels and for adverse reactions suggestive of tacrolimus toxicity.
+A dose reduction of ASTAGRAF XL should be considered as needed when ASTAGRAF XL is co-administered with cannabidiol [see Dosage and Administration (2.4) and Drug Interactions (7.3)].

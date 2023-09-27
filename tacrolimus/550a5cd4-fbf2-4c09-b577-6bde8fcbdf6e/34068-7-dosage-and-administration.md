@@ -37,11 +37,11 @@ African-American patients, compared to Caucasian patients, may need to be titrat
 
 Patients with severe hepatic impairment (Child-Pugh ≥ 10) may require a lower starting dosage of ASTAGRAF XL, due to the reduced clearance and prolonged half-life [see Clinical Pharmacology (12.3)].
 
-Dose adjustments of ASTAGRAF XL may be necessary when administered concomitantly with CYP3A inducers or CYP3A inhibitors [see Warnings and Precautions (5.10) and Drug Interactions (7.2)].
+Dose adjustments of ASTAGRAF XL may be necessary when administered concomitantly with CYP3A inducers or CYP3A inhibitors or cannabidiol [see Warnings and Precautions (5.10, 5.15) and Drug Interactions (7.2, 7.3)].
 
 ## 2.4 Therapeutic Drug Monitoring
 
-Measure tacrolimus whole blood trough concentrations at least two times on separate days during the first week after initiation of dosing and after a change in dosage, after a change in co-administration of CYP3A4 inducers and/or inhibitors, or after a change in renal or hepatic function.
+Measure tacrolimus whole blood trough concentrations at least two times on separate days during the first week after initiation of dosing and after a change in dosage, after a change in co-administration of CYP3A4 inducers and/or inhibitors or cannabidiol [see Drug Interactions (7.2, 7.3)], or after a change in renal or hepatic function.
 When interpreting measured concentrations, consider that the time to achieve tacrolimus steady state is approximately 7 days after initiating or changing the ASTAGRAF XL dose.
 
 Monitor tacrolimus whole blood trough concentrations using a validated assay [e.g., immunoassays or high performance liquid chromatography with tandem mass spectrometric detection (HPLC/MS/MS)].

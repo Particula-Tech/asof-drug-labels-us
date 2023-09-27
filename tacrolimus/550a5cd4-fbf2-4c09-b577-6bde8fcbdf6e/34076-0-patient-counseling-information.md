@@ -61,7 +61,7 @@ Advise them to seek medical attention promptly if they develop fever, petequiae 
 
 Instruct patients to tell their healthcare providers when they start or stop taking any medicines, including prescription and nonprescription medicines, herbal and dietary supplements.
 Some medications could alter tacrolimus concentrations in the blood and thus may require the adjustment of the dosage of ASTAGRAF XL.
-Advise patients to avoid grapefruit, grapefruit juice and alcoholic beverages [see Warnings and Precautions (5.10) and Drug Interactions (7)].
+Advise patients to avoid grapefruit, grapefruit juice and alcoholic beverages [see Warnings and Precautions (5.10, 5.15) and Drug Interactions (7)].
 
 ## 17.11 Pregnancy, Lactation and Infertility
 
@@ -84,4 +84,4 @@ Distributed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
 ASTAGRAF XL® is a registered trademark of Astellas Pharma Inc. Prograf ® is a registered trademark of Astellas Pharma Inc.
 
-341124-AST
+398977-AST

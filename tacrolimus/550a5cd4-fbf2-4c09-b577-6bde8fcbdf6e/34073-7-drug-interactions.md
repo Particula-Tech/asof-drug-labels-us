@@ -27,3 +27,9 @@ Direct Acting Antiviral (DAA) Therapy
 
 The pharmacokinetics of tacrolimus may be impacted by changes in liver function during DAA therapy, related to clearance of HCV virus.
 Close monitoring and potential dose adjustment of ASTAGRAF XL is warranted to ensure continued efficacy and safety [see Dosage and Administration (2.3, 2.4)].
+
+## 7.3 Cannabidiol
+
+The blood levels of tacrolimus may increase upon concomitant use with cannabidiol.
+When cannabidiol and ASTAGRAF XL are co-administered, closely monitor for an increase in tacrolimus blood levels and for adverse reactions suggestive of tacrolimus toxicity.
+A dose reduction of ASTAGRAF XL should be considered as needed when ASTAGRAF XL is co-administered with cannabidiol [see Dosage and Administration (2.4) and Warnings and Precautions (5.15)].
