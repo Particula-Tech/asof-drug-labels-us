@@ -93,9 +93,9 @@ Rapamune® (sirolimus) Tablet
 
 0.5 mg
 
-Wyeth Sub of Pfizer Inc Phila, PA 19101
+Wyeth Sub of Pfizer Inc. Phila, PA 19101
 
-PAA073118
+PAA197353
 
 LOT X EXP Y
 
@@ -137,9 +137,9 @@ Rapamune® (sirolimus) Tablet
 
 1 mg
 
-Wyeth Sub of Pfizer Inc Phila, PA 19101
+Wyeth Sub of Pfizer Inc. Phila, PA 19101
 
-PAA086081
+PAA197357
 
 LOT X EXP Y
 
