@@ -63,7 +63,7 @@ Advise patients of childbearing potential to use effective contraception during 
 ## 8.4 Pediatric Use
 
 Safety and effectiveness of ARAZLO for the topical treatment of acne vulgaris have been established in pediatric patients age 9 years and older based on evidence from two multicenter, randomized, double-blind, parallel-group, vehicle-controlled, 12-week clinical trials and an open-label pharmacokinetic study.
-A total of 300 pediatric subjects aged 9 to less than 17 years received ARAZLO in the clinical studies [see Clinical Pharmacology (12.3) and Clinical Studies (14)].
+A total of 300 pediatric subjects aged 9 to less than 17 years received ARAZLO in the clinical studies [see Clinical Pharmacology (12.3)and Clinical Studies (14)].
 
 The safety and effectiveness of ARAZLO in pediatric patients below the age of 9 years have not been established.
 

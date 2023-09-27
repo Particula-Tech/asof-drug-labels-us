@@ -10,7 +10,7 @@ Table 3 lists the efficacy results for trials 1 (NCT03168321) and 2 (NCT03168334
 
 Table 3: Efficacy Results at Week 12
 
-| Trial 1 | ARAZLO Lotion N=402 | Vehicle N=411 | Treatment Difference (95% Confidence Interval) |
+| Trial 1 | ARAZLO Lotion N=402 | Vehicle N=411 | Treatment Difference(95% Confidence Interval) |
 | --- | --- | --- | --- |
 | EGSS |  |  |  |
 | Clear or Almost Clear and | 25.5% | 13% | 12.5% (7.1%, 17.9%) |
@@ -23,7 +23,7 @@ Table 3: Efficacy Results at Week 12
 | Mean Percent Reduction | 55.5% | 45.7% |  |
 | Trial 2 | ARAZLO Lotion N=397 | Vehicle N=404 |  |
 | EGSS |  |  |  |
-| Clear or Almost Clear and 2-Grade Reduction from Baseline | 29.6% | 17.3% | 12.3% (6.5%, 18.1%) |
+| Clear or Almost Clear and2-Grade Reduction from Baseline | 29.6% | 17.3% | 12.3% (6.5%, 18.1%) |
 | Non-Inflammatory Facial Lesions |  |  |  |
 | Mean Absolute Reduction | 24.6 | 16.6 | 8.1 (5.9, 10.2) |
 | Mean Percent Reduction | 60% | 41.6% |  |

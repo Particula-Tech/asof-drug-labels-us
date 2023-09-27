@@ -2,7 +2,7 @@
 
 ARAZLO (tazarotene) Lotion, 0.045% is a white to off-white lotion supplied in a white aluminum tube as follows:
 
-- •45 g (NDC 0187-2098-45)
+- 45 g (NDC 0187-2098-45)
 
 Storage and Handling Conditions
 

@@ -2,8 +2,8 @@
 
 The following serious adverse reactions are discussed in more detail in other sections of the labeling:
 
-- •Embryofetal toxicity [see Warnings and Precautions (5.1)]
-- •Photosensitivity and Risk of Sunburn [see Warnings and Precautions (5.3)]
+- Embryofetal toxicity [see Warnings and Precautions (5.1)]
+- Photosensitivity and Risk of Sunburn [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -22,7 +22,7 @@ Table 1:Adverse Reactions Reported by ≥1% of the ARAZLO Group and More Frequen
 |  | ARAZLO N=779 | Vehicle N=791 |
 | --- | --- | --- |
 | Adverse Reactions N (%) |  |  |
-| Application site painApplication site pain defined as application site stinging, burning or pain | 41 (5) | 2 (<1) |
+| Application site pain Application site pain defined as application site stinging, burning or pain | 41 (5) | 2 (<1) |
 | Application site dryness | 30 (4) | 1 (<1) |
 | Application site exfoliation | 16 (2) | 0 (0) |
 | Application site erythema | 15 (2) | 0 (0) |

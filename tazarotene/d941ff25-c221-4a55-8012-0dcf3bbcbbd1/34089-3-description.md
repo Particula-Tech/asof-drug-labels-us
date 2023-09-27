@@ -8,6 +8,6 @@ The structural formula for tazarotene is represented below:
 
 Tazarotene:
 
-Molecular Formula: C21H21NO2S Molecular Weight: 351.46
+Molecular Formula: C 21H 21NO 2S Molecular Weight: 351.46
 
 Each gram of ARAZLO contains 0.45 mg (0.045%) tazarotene in a white to off-white lotion base consisting of carbomer copolymer type B, carbomer homopolymer type A, diethyl sebacate, edetate disodium dihydrate, light mineral oil, methylparaben, propylparaben, purified water, sodium hydroxide, sorbitan monooleate and sorbitol solution, 70%.

@@ -2,8 +2,7 @@
 
 ## 5.1 Embryofetal Toxicity
 
-Based on data from animal reproduction studies, retinoid pharmacology and the potential for systemic absorption, ARAZLO may cause fetal harm when administered to a pregnant patient and is contraindicated during pregnancy.
-Safety in pregnant patients has not been established.
+Based on data from animal reproduction studies, retinoid pharmacology and the potential for systemic absorption, ARAZLO may cause fetal harm when administered to a pregnant patient and is contraindicated during pregnancy.Safety in pregnant patients has not been established.
 The potential risk to the fetus outweighs the potential benefit to the mother; therefore, discontinue ARAZLO as soon as pregnancy is recognized.
 
 Tazarotene elicits malformations and developmental effects associated with retinoids after topical and oral administration to pregnant rats and rabbits during organogenesis.
