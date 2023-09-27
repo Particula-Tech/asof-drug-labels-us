@@ -81,7 +81,7 @@ IMPORTANT INFORMATION:
 - Remove SUBLOCADE from the refrigerator prior to administration.
   The product requires at least 15 minutes to reach room temperature.
   Do not open the foil pouch until the patient has arrived for his or her injection.
-- Discard SUBLOCADE if left at room temperature for longer than 7 days.
+- Discard SUBLOCADE if left at room temperature for longer than 12 weeks.
 - Do not attach the needle until time of administration.
 
 STEP 1: GETTING READY
