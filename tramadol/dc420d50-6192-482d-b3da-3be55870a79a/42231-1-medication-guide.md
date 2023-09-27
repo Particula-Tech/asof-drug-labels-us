@@ -6,7 +6,7 @@ Extended-Release Tablets, USP, C-IV
 
 Tramadol hydrochloride extended-release tablets are:
 
-- A strong prescription pain medicine that contains an opioid (narcotic) that is used to manage severe and persistent pain that requires an extended treatment period with a daily opioid pain medicine, when other pain treatments such as non-opioid pain medicines or immediate-release opioid medicines do not treat your pain well enough or you cannot tolerate them.
+- A strong prescription pain medicine that contains an opioid (narcotic) that is used to manage severe and persistent pain that requires an extended treatment period with a daily opioid pain medicine when other pain medicines do not treat your pain well enough or you cannot tolerate them.
 - A long-acting (extended-release) opioid pain medicine that can put you at risk for overdose and death.
   Even if you take your dose correctly as prescribed you are at risk for opioid addiction, abuse, and misuse that can lead to death.
 - Not to be taken on an “as needed” basis.
@@ -41,6 +41,9 @@ Before taking tramadol hydrochloride extended-release tablets, tell your healthc
 
 Tell your healthcare provider if you:
 
+- notice your pain getting worse.
+  If your pain gets worse after you take tramadol hydrochloride extended-release tablets, do not take more of tramadol hydrochloride extended-release tablets without first talking to your healthcare provider.
+  Talk to your healthcare provider if the pain that you have increases, if you feel more sensitive to pain, or if you have new pain after taking tramadol hydrochloride extended-release tablets.
 - Are pregnant or planning to become pregnant.
   Use of tramadol hydrochloride extended-release tablets for an extended period of time during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.
 - breastfeeding.
@@ -49,9 +52,6 @@ Tell your healthcare provider if you:
 - living in a household where there are small children or someone who has abused street or prescription drugs
 - taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
   Taking tramadol hydrochloride extended-release tablets with certain other medicines can cause serious side effects that could lead to death.
-- Notice your pain getting worse.
-  If your pain gets worse after you take tramadol hydrochloride extended-release tablets, do not take more of tramadol hydrochloride extended-release tablets without first talking to your doctor.
-  Talk to your doctor if the pain you have increases, if you feel more sensitive to pain, or if you have new pain after taking tramadol hydrochloride extended-release tablets.
 
 When taking tramadol hydrochloride extended-release tablets:
 
@@ -67,6 +67,7 @@ When taking tramadol hydrochloride extended-release tablets:
 - Do not stop taking tramadol hydrochloride extended-release tablets without talking to your healthcare provider.
 - Dispose of expired, unwanted, or unused tramadol hydrochloride extended-release tablets by taking your drug to an authorized DEA-registered collector or drug take-back program.
   If one is not available, you can dispose of tramadol hydrochloride extended-release tablets by mixing the product with dirt, cat litter, or coffee grounds; placing the mixture in a sealed plastic bag, and throwing the bag in your trash.
+  Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
 
 While taking tramadol hydrochloride extended-release tablets DO NOT:
 
@@ -85,7 +86,7 @@ Get emergency medical help or call 911 right away if you have:
 - trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue, or throat, extreme drowsiness, light-headedness when changing positions, feeling faint, agitation, high body temperature, trouble walking, stiff muscles, or mental changes such as confusion.
 
 These are not all the possible side effects of tramadol hydrochloride extended-release tablets.
-Call your doctor for medical advice about side effects.
+Call your healthcare provider for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 For more information go to dailymed.nlm.nih.gov or call 1-800-818-4555
 
@@ -108,6 +109,6 @@ Halol-Baroda Highway,
 Halol-389 350, Gujarat, India.
 
 ISS.
-06/2023
+09/2023
 
 5238817

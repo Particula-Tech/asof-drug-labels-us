@@ -17,10 +17,10 @@ Consider prescribing naloxone for the emergency treatment of opioid overdose [se
 
 Abuse or misuse of tramadol hydrochloride extended-release tablets by cutting, breaking, chewing, crushing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of tramadol and can result in overdose and death [see OVERDOSAGE].
 
-Opioids are sought for non-medical use and are subject to diversion from legitimate prescribed use.
+Opioids are sought for nonmedical use and are subject to diversion from legitimate prescribed use.
 Consider these risks when prescribing or dispensing tramadol hydrochloride extended-release tablets.
-Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on careful storage of the drug during the course of treatment and proper disposal of unused drug [see PRECAUTIONS; Information for Patients].
-Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on careful storage of the drug during the course of treatment and proper disposal of unused drug.
+Contact local state professional licensing board or statecontrolled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
 Life-Threatening Respiratory Depression
 
@@ -55,7 +55,7 @@ If naloxone is prescribed, educate patients and caregivers on how to treat with 
 
 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of tramadol hydrochloride extended-release tablets with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of tramadol hydrochloride extended-release tablets with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
@@ -121,7 +121,7 @@ The effect of increased tramadol levels may be an increased risk for serious adv
 
 Discontinuation of a concomitantly used cytochrome P450 2D6 inhibitor may result in a decrease in tramadol plasma levels and an increase in active metabolite M1 levels, which could increase or prolong adverse reactions related to opioid toxicity and may cause potentially fatal respiratory depression.
 
-Follow patients receiving tramadol hydrochloride extended-release tablets and any CYP2D6 inhibitor for the risk of serious adverse events including seizures and serotonin syndrome, signs and symptoms that may reflect opioid toxicity, and opioid withdrawal when tramadol hydrochloride extended-release tablets are used in conjunction with inhibitors of CYP2D6 [see PRECAUTIONS; Drug Interactions].
+Evaluate patients receiving tramadol hydrochloride extended-release tablets and any CYP2D6 inhibitor at frequent intervals for the risk of serious adverse events including seizures and serotonin syndrome, signs and symptoms that may reflect opioid toxicity, and opioid withdrawal when tramadol hydrochloride extended-release tablets are used in conjunction with inhibitors of CYP2D6 [see PRECAUTIONS; Drug Interactions].
 
 Cytochrome P450 3A4 Interaction
 
@@ -151,7 +151,7 @@ These symptoms may suggest OIH only if there is no evidence of underlying diseas
 Cases of OIH have been reported, both with short-term and longer-term use of opioid analgesics.
 Though the mechanism of OIH is not fully understood, multiple biochemical pathways have been implicated.
 Medical literature suggests a strong biologic plausibility between opioid analgesics and OIH and allodynia.
-If a patient is suspected to be experiencing OIH, carefully consider appropriately decreasing the dose of the current opioid analgesic, or opioid rotation (safety switching the patient to a different opioid moiety) [see Dosage and Administration, Warnings].
+If a patient is suspected to be experiencing OIH, carefully consider appropriately decreasing the dose of the current opioid analgesic or opioid rotation (safely switching the patient to a different opioid moiety) [see Dosage and Administration, Warnings].
 
 Nursing Mothers
 
@@ -341,7 +341,7 @@ Advise caregivers of children ages 12 to 18 years of age receiving tramadol hydr
 Hyperalgesia and Allodynia
 
 Inform patients and caregivers not to increase opioid dosage without first consulting a clinician.
-Advise patients to seek medical attention if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings; Postmarketing Experience].
+Advise patients to seek medical attention if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings; Adverse Reactions].
 
 Serotonin Syndrome
 
@@ -401,7 +401,7 @@ Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that prolonged use of tramadol hydrochloride extended-release tablets during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see WARNINGS, PRECAUTIONS; Pregnancy].
+Inform female patients of reproductive potential that use of tramadol hydrochloride extended-release tablets for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see WARNINGS, PRECAUTIONS; Pregnancy].
 
 Embryo-Fetal Toxicity
 
@@ -413,7 +413,7 @@ Advise women that breastfeeding is not recommended during treatment with tramado
 
 Infertility
 
-Inform patients that chronic use of opioids may cause reduced fertility.
+Inform patients that use of opioids for an extended period of time may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see ADVERSE REACTIONS].
 
 ## Drug Interactions
@@ -450,7 +450,7 @@ The concomitant use of tramadol hydrochloride extended-release tablets and CYP3A
 After stopping a CYP3A4 inducer, as the effects of the inducer decline, the tramadol plasma concentration will increase [see CLINICAL PHARMACOLOGY], which could increase or prolong both the therapeutic effects and adverse reactions, and may cause seizures and serotonin syndrome, and potentially fatal respiratory depression.
 
 If concomitant use is necessary, consider increasing the tramadol hydrochloride extended-release tablets dosage until stable drug effects are achieved.
-Assess patients for signs of opioid withdrawal.
+Evaluate patients for signs of opioid withdrawal.
 If a CYP3A4 inducer is discontinued, consider tramadol hydrochloride extended-release tablets dose reduction and evaluate patients at frequent intervals for signs of respiratory depression and sedation.
 
 Patients taking carbamazepine, a CYP3A4 inducer, may have a significantly reduced analgesic effect of tramadol.
