@@ -26,7 +26,7 @@ Table 10: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Se
 The percentage of patients (y-axis) who achieved ≥50% reduction in weekly seizure rates from baseline in partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the three treatment groups (x-axis) is presented in Figure 1.
 Study 2
 
-Study 2 Study 2 was a double-blind, placebo-controlled, crossover study conducted at 62 centers in Europe comparing levetiracetam 1000 mg/day (N=106), levetiracetam 2000 mg/day (N=105), and placebo (N=111) given in equally divided doses twice daily.
+Study 2 was a double-blind, placebo-controlled, crossover study conducted at 62 centers in Europe comparing levetiracetam 1000 mg/day (N=106), levetiracetam 2000 mg/day (N=105), and placebo (N=111) given in equally divided doses twice daily.
 The first period of the study (Period A) was designed to be analyzed as a parallel-group study.
 After a prospective baseline period of up to 12 weeks, patients were randomized to one of the three treatment groups described above.
 The 16-week treatment period consisted of the 4-week titration period followed by a 12-week fixed dose evaluation period, during which concomitant AED regimens were held constant.
@@ -97,7 +97,7 @@ A total of 109 patients were included in the efficacy analysis.
 A statistically significant difference between levetiracetam and placebo was observed (see Figure 5).
 The treatment effect associated with levetiracetam was consistent across age groups.
 
-## 14.2 Myoclonic Seizures in Patients With Juvenile Myoclonic Epilepsy
+## 14.2 Myoclonic Seizures in Patients with Juvenile Myoclonic Epilepsy
 
 The effectiveness of levetiracetam as adjunctive therapy in patients 12 years of age and older with juvenile myoclonic epilepsy (JME) experiencing myoclonic seizures was established in one multicenter, randomized, double-blind, placebo-controlled study (Study 6), conducted at 37 sites in 14 countries.
 Eligible patients on a stable dose of 1 antiepileptic drug (AED) experiencing one or more myoclonic seizures per day for at least 8 days during the prospective 8-week baseline period were randomized to either levetiracetam or placebo (levetiracetam N=60, placebo N=60).

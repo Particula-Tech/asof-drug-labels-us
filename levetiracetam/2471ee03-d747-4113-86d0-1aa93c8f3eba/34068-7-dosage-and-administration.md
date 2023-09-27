@@ -13,7 +13,6 @@ Levetiracetam tablets should not be chewed or crushed.
 ## 2.2 Dosing for Partial-Onset Seizures
 
 The recommended dosing for monotherapy and adjunctive therapy is the same; as outlined below.
-
 Adults 16 Years of Age and Older
 
 Initiate treatment with a daily dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).
@@ -53,13 +52,13 @@ Levetiracetam Oral Solution Weight-Based Dosing Calculation For Pediatric Patien
 
 The following calculation should be used to determine the appropriate daily dose of oral solution for pediatric patients:
 
-Daily dose (mg/kg/day) x patient weight (kg)
+Daily dose (mg/kg/day) X patient weight (kg)
 
 Total daily dose (mL/day) = ------------------------------------------------------
 
 100 mg/mL
 
-## 2.3 Dosing for Myoclonic Seizures in Patients 12 Years of Age and Older With Juvenile Myoclonic Epilepsy
+## 2.3 Dosing for Myoclonic Seizures in Patients 12 Years of Age and Older with Juvenile Myoclonic Epilepsy
 
 Initiate treatment with a dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).
 Increase the dosage by 1000 mg/day every 2 weeks to the recommended daily dose of 3000 mg.
@@ -94,8 +93,8 @@ Table 1: Dosing Adjustment Regimen for Adult Patients with Renal Impairment
 | Mild | 50 to 80 | 500 to 1,000 | Every 12 hours |
 | Moderate | 30 to 50 | 250 to 750 | Every 12 hours |
 | Severe | < 30 | 250 to 500 | Every 12 hours |
-| ESRD patients using dialysis | ---- | 500 to 1,0001 | Every 24 hours1 |
-| 1 Following dialysis, a 250 to 500 mg supplemental dose is recommended. |  |  |  |
+| ESRD patients using dialysis | ---- | 500 to 1,000* | Every 24 hours* |
+| * Following dialysis, a 250 to 500 mg supplemental dose is recommended. |  |  |  |
 
 ## 2.6 Discontinuation of Levetiracetam Tablets
 
