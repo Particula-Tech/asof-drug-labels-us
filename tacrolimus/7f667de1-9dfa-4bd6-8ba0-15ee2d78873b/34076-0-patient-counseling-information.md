@@ -84,4 +84,4 @@ Distributed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
 PROGRAF® is a registered trademark of Astellas Pharma Inc. All other trademarks and registered trademarks are the property of their respective owners.
 
-341124-PRG
+398977-PRG
