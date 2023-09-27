@@ -9,11 +9,15 @@ Advise patients to discontinue SEGLUROMET immediately and to notify their doctor
 GI symptoms are common during initiation of metformin treatment and may occur during initiation of SEGLUROMET therapy; however, advise patients to consult their doctor if they develop unexplained symptoms.
 Although GI symptoms that occur after stabilization are unlikely to be drug related, such an occurrence of symptoms should be evaluated to determine if it may be due to metformin-induced lactic acidosis or other serious disease.
 
-Ketoacidosis
+Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis
 
-Inform patients that ketoacidosis is a serious life-threatening condition and that cases of ketoacidosis have been reported during use of medicines containing SGLT2 inhibitors, including ertugliflozin, sometimes associated with illness or surgery among other risk factors.
-Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
-If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue SEGLUROMET and seek medical attention immediately [see Warnings and Precautions (5.2)].
+Inform patients that SEGLUROMET can cause potentially fatal ketoacidosis and that type 2 diabetes mellitus and pancreatic disorders (e.g., history of pancreatitis or pancreatic surgery) are risk factors.
+
+Educate all patients on precipitating factors (such as insulin dose reduction or missed insulin doses, infection, reduced caloric intake, ketogenic diet, surgery, dehydration, and alcohol abuse) and symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing).
+Inform patients that blood glucose may be normal even in the presence of ketoacidosis.
+
+Advise patients that they may be asked to monitor ketones.
+If symptoms of ketoacidosis occur, instruct patients to discontinue SEGLUROMET and seek medical attention immediately [see Warnings and Precautions (5.2)].
 
 Amputation
 
@@ -34,7 +38,8 @@ Advise them to seek medical advice if such symptoms occur [see Warnings and Prec
 
 Hypoglycemia with Concomitant Use of Insulin and/or Insulin Secretagogue
 
-Inform patients that the incidence of hypoglycemia may increase when SEGLUROMET is added to insulin and/or an insulin secretagogue and that a lower dose of insulin or insulin secretagogue may be required to reduce the risk of hypoglycemia [see Warnings and Precautions (5.6)].
+Inform patients that the incidence of hypoglycemia may increase when SEGLUROMET is added to insulin and/or an insulin secretagogue.
+Educate patients or caregivers on the signs and symptoms of hypoglycemia [see Warnings and Precautions (5.6)].
 
 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 

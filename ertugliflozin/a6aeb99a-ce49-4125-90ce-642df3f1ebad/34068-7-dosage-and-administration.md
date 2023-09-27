@@ -3,7 +3,8 @@
 ## 2.1 Prior to Initiation of SEGLUROMET
 
 - Assess renal function prior to initiation of SEGLUROMET and as clinically indicated [see Warnings and Precautions (5.2)].
-- In patients with volume depletion, correct this condition before initiating SEGLUROMET [see Warnings and Precautions (5.4), Use in Specific Populations (8.5, 8.6)].
+- Assess volume status.
+  In patients with volume depletion, correct this condition before initiating SEGLUROMET [see Warnings and Precautions (5.4), Use in Specific Populations (8.5, 8.6)].
 
 ## 2.2 Recommended Dosage
 
@@ -20,3 +21,8 @@
 
 Discontinue SEGLUROMET at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR less than 60 mL/min/1.73 m2; in patients with a history of liver disease, alcoholism or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
 Re-evaluate eGFR 48 hours after the imaging procedure; restart SEGLUROMET if renal function is stable [see Warnings and Precautions (5.1)].
+
+## 2.4 Temporary Interruption for Surgery
+
+Withhold SEGLUROMET for at least 4 days, if possible, prior to major surgery or procedures associated with prolonged fasting.
+Resume SEGLUROMET when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)].

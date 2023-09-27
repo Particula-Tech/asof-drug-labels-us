@@ -3,7 +3,7 @@
 The following important adverse reactions are described elsewhere in the labeling:
 
 - Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1)]
-- Ketoacidosis [see Warnings and Precautions (5.2)]
+- Diabetic Ketoacidosis in Patients with Type 1 Diabetes and Other Ketoacidosis [see Warnings and Precautions (5.2)]
 - Lower Limb Amputation [see Warnings and Precautions (5.3)]
 - Volume Depletion [see Warnings and Precautions (5.4)]
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
@@ -51,11 +51,6 @@ Table 1: Adverse Reactions Reported in ≥2% of Patients with Type 2 Diabetes Me
 | Back pain | 2.3% | 1.7% | 2.5% |
 | Weight decreased | 1.0% | 1.2% | 2.4% |
 | ThirstIncludes: thirst, dry mouth, polydipsia, and dry throat. | 0.6% | 2.7% | 1.4% |
-
-Ketoacidosis
-
-In a long-term cardiovascular outcomes study VERTIS CV (eValuation of ERTugliflozin effIcacy and Safety, CardioVascular [see Clinical Studies (14.2)], a study in patients with type 2 diabetes and established cardiovascular disease, ketoacidosis was identified in 19 (0.3%) ertugliflozin-treated patients and in 2 (0.1%) placebo-treated patients.
-Across seven other ertugliflozin clinical trials, ketoacidosis was identified in 3 (0.1%) ertugliflozin-treated patients and 0.0% of comparator-treated patients [see Warnings and Precautions (5.3)].
 
 Volume Depletion
 
