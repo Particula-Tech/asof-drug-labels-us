@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Advise patients to read the FDA-approved patient labeling.
 
@@ -22,5 +22,5 @@ Pregnancy
 
 Advise pregnant women of the potential risk to a fetus based on NEXLIZET's mechanism of action.
 Advise females to inform their healthcare provider of a known or suspected pregnancy.
-Advise women who are exposed to NEXLIZET during pregnancy that there is a pregnancy surveillance study.
+Advise patients that there is a pregnancy safety study that monitors pregnancy outcomes in patients exposed to NEXLIZET during pregnancy.
 Encourage these patients to report their pregnancy to Esperion at 1-833-377-7633 [see Use in Specific Populations (8.1)].

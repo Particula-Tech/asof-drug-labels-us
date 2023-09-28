@@ -27,7 +27,7 @@ Missing data for LDL-C, non-HDL-C, TC and apo B were imputed through multiple im
 |  | LDL-C LS Mean | non-HDL-C LS Mean | apo B LS Mean | TC LS Mean |
 | --- | --- | --- | --- | --- |
 | NEXLIZET (180 mg/10 mg; n = 86Number of randomized subjects at baseline) | -36 | -32 | -25 | -26 |
-| Bempedoic acid (180 mg; n = 88 | -17 | -14 | -12 | -12 |
+| Bempedoic acid (180 mg; n = 88) | -17 | -14 | -12 | -12 |
 | Ezetimibe (10 mg; n = 86) | -23 | -20 | -15 | -16 |
 | Placebo (n = 41) | 2 | 2 | 6 | 1 |
 | Mean Difference of NEXLIZET versus Placebo (95% CI) | -38 (-47, -30) | -34 (-44, -23) | -30 (-40, -20) | -27 (-35, -19) |
@@ -43,7 +43,7 @@ Bempedoic acid also significantly lowered non-HDL-C (-13%), apo B (-12% to -13%)
 
 Ezetimibe
 
-Ezetimibe Added to On-going Statin Therapy: In a multicenter, double-blind, placebo-controlled, 8-week study, 769 patients with primary hyperlipidemia, known coronary heart disease or multiple cardiovascular risk factors who were already receiving statin monotherapy, but who had not met their NCEP ATP II target LDL-C goal were randomized to receive either ezetimibe or placebo in addition to their on-going statin therapy.
+Ezetimibe Added to On-going Statin Therapy: In a multicenter, double-blind, placebo-controlled, 8-week study, 769 patients with primary hyperlipidemia, known coronary heart disease or multiple cardiovascular risk factors who were already receiving statin monotherapy, but who had not met their NCEP ATP II target LDL-C goal, were randomized to receive either ezetimibe or placebo in addition to their on-going statin therapy.
 
 Ezetimibe, added to on-going statin therapy, significantly lowered TC (-17%), LDL-C (-25%), apo B (-19%), non-HDL-C (-23%), and TG (-14%), and increased HDL-C (+3%) relative to baseline and compared with a statin administered alone.
 LDL-C reductions induced by ezetimibe were generally consistent across all statins.
