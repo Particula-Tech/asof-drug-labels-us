@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Medroxyprogesterone Acetate Tablets USP are available as:
+Medroxyprogesterone acetate tablets, USP are available as:
 
 2.5 mg: White, round, scored, biconvex tablet.
 Debossed with 555/872 on the scored side and stylized b on the other side, available in bottles of 100 (NDC 0555-0872-02) and 500 (NDC 0555-0872-04).
@@ -15,11 +15,13 @@ Dispense in a tight, light-resistant container as defined in the USP, with a chi
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+Keep this and all medications out of the reach of children.
 
-TEVA PHARMACEUTICALS USA, INC.
+Manufactured For:
 
-North Wales, PA 19454
+Teva Pharmaceuticals
+
+Parsippany, NJ 07054
 
 Rev.
-A 5/2015
+B 10/2022

@@ -14,7 +14,7 @@ Estimates of the pharmacokinetic parameters of MPA after single and multiple dos
 Table 1.
 Mean (SD) Pharmacokinetic Parameters for Medroxyprogesterone Acetate (MPA)
 
-| TabletStrength | Cmax(ng/mL) | Tmax(h) | Auc0-(∞)(ng·h/mL) | t½(h) | Vd/f(L) | CL/f(mL/min) |
+| TabletStrength | Cmax(ng/mL) | Tmax(h) | Auc0-(∞)(ng·h/mL) | t1/2(h) | Vd/f(L) | CL/f(mL/min) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Single Dose |  |  |  |  |  |  |
 | 2 x 10 mg | 1.01 (0.599) | 2.65 (1.41) | 6.95 (3.39) | 12.1 (3.49) | 78024(47220) | 64110(42662) |
@@ -29,8 +29,8 @@ Mean (SD) Pharmacokinetic Parameters for Medroxyprogesterone Acetate (MPA)
 No specific investigation on the absolute bioavailability of MPA in humans has been conducted.
 MPA is rapidly absorbed from the gastrointestinal tract, and maximum MPA concentrations are obtained between 2 to 4 hours after oral administration.
 
-Administration of medroxyprogesterone acetate with food increases the bioavailability of MPA.
-A 10 mg dose of medroxyprogesterone acetate, taken immediately before or after a meal, increased MPA Cmax (50 to 70%) and AUC (18 to 33%).
+Administration of medroxyprogesterone acetate tablets with food increases the bioavailability of MPA.
+A 10 mg dose of medroxyprogesterone acetate tablets, taken immediately before or after a meal, increased MPA Cmax (50 to 70%) and AUC (18 to 33%).
 The half-life of MPA was not changed with food.
 
 ### B. Distribution

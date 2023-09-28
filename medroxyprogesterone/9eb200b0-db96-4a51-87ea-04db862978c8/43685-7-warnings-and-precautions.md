@@ -11,8 +11,7 @@ Risk factors for arterial vascular disease (for example, hypertension, diabetes 
 
 ### a. Stroke
 
-In the WHI estrogen plus progestin substudy, a statistically significant increased risk of stroke was reported in women 50 to 79 years of age receiving CE (0.625 mg) plus MPA (2.5 mg) compared to women in the same age group receiving placebo (33 versus 25 per 10,000 women-years).
-(See CLINICAL STUDIES.)
+In the WHI estrogen plus progestin substudy, a statistically significant increased risk of stroke was reported in women 50 to 79 years of age receiving CE (0.625 mg) plus MPA (2.5 mg) compared to women in the same age group receiving placebo (33 versus 25 per 10,000 women-years) (see CLINICAL STUDIES.)
 The increase in risk was demonstrated after the first year and persisted.
 Should a stroke occur or be suspected, estrogen plus progestin therapy should be discontinued immediately.
 
@@ -21,7 +20,7 @@ Should a stroke occur or be suspected, estrogen plus progestin therapy should be
 In the WHI estrogen plus progestin substudy, there was a statistically non-significant increased risk of CHD events reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (41 versus 34 per 10,000 women-years).
 An increase in relative risk was demonstrated in year 1, and a trend toward decreasing relative risk was reported in years 2 through 5.
 
-In postmenopausal women with documented heart disease (n = 2,763, average 66.7 years of age), in a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estrogen/Progestin Replacement Study [HERS]), treatment with daily CE (0.625 mg) plus MPA (2.5mg) demonstrated no cardiovascular benefit.
+In postmenopausal women with documented heart disease (n = 2,763, average 66.7 years of age), in a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estrogen/Progestin Replacement Study [HERS]), treatment with daily CE (0.625 mg) plus MPA (2.5 mg) demonstrated no cardiovascular benefit.
 During an average follow-up of 4.1 years, treatment with CE plus MPA did not reduce the overall rate of CHD events in postmenopausal women with established coronary heart disease.
 There were more CHD events in the CE plus MPA-treated group than in the placebo group in year 1, but not during the subsequent years.
 Two thousand three hundred and twenty-one (2,321) women from the original HERS trial agreed to participate in an open label extension of HERS, HERS II.
@@ -30,10 +29,9 @@ Rates of CHD events were comparable among women in the CE plus MPA group and the
 
 ### c. Venous Thromboembolism
 
-In the WHI estrogen plus progestin substudy, a statistically significant 2-fold greater rate of VTE, (DVT and PE), was reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (35 versus 17 per 10,000 women-years).
+In the WHI estrogen plus progestin substudy, a statistically significant 2-fold greater rate of VTE (DVT and PE) was reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (35 versus 17 per 10,000 women-years).
 Statistically significant increases in risk for both DVT (26 versus 13 per 10,000 women-years) and PE (18 versus 8 per 10,000 women-years) were also demonstrated.
-The increase in VTE risk was demonstrated during the first year and persisted.
-(See CLINICAL STUDIES.)
+The increase in VTE risk was demonstrated during the first year and persisted (see CLINICAL STUDIES).
 Should a VTE occur or be suspected, estrogen plus progestin therapy should be discontinued immediately.
 
 If feasible, estrogens plus progestins should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
@@ -51,8 +49,7 @@ Among women who reported prior use of hormone therapy, the relative risk of inva
 Among women who reported no prior use of hormone therapy, the relative risk of invasive breast cancer was 1.09, and the absolute risk was 40 versus 36 cases per 10,000 women-years, for CE plus MPA compared with placebo.
 In the same substudy, invasive breast cancers were larger, were more likely to be node positive, and were diagnosed at a more advanced stage in the CE (0.625 mg) plus MPA (2.5 mg) group compared with the placebo group.
 Metastatic disease was rare with no apparent difference between the two groups.
-Other prognostic factors such as histologic subtype, grade, and hormone receptor status did not differ between the groups.
-(See CLINICAL STUDIES.)
+Other prognostic factors such as histologic subtype, grade, and hormone receptor status did not differ between the groups (see CLINICAL STUDIES).
 
 Consistent with the WHI clinical trial, observational studies have also reported an increased risk of breast cancer for estrogen plus progestin therapy, and a smaller risk for estrogen-alone therapy, after several years of use.
 The risk increased with duration of use, and appeared to return to baseline over about 5 years after stopping treatment (only the observational studies have substantial data on risk after stopping).
@@ -91,8 +88,7 @@ In the WHIMS estrogen plus progestin ancillary study of WHI, a population of 4,5
 After an average follow-up of 4 years, 40 women in the CE plus MPA group and 21 women in the placebo group were diagnosed with probable dementia.
 The relative risk of probable dementia for CE plus MPA versus placebo was 2.05 (95 percent CI, 1.21 to 3.48).
 The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years.
-It is unknown whether these findings apply to younger postmenopausal women.
-(See CLINICAL STUDIES and PRECAUTIONS, Geriatric Use.)
+It is unknown whether these findings apply to younger postmenopausal women (see CLINICAL STUDIES and PRECAUTIONS, Geriatric Use).
 
 ## 4. Visual Abnormalities
 
@@ -103,28 +99,20 @@ If examination reveals papilledema or retinal vascular lesions, estrogen plus pr
 
 ## A. General
 
-1. Addition of a progestin when a woman has not had a hysterectomy
-2. Studies of the addition of a progestin for 10 or more days of a cycle of estrogen administration, or daily with estrogen in a continuous regimen, have reported a lowered incidence of endometrial hyperplasia than would be induced by estrogen treatment alone.
+1. Addition of a progestin when a woman has not had a hysterectomy Studies of the addition of a progestin for 10 or more days of a cycle of estrogen administration, or daily with estrogen in a continuous regimen, have reported a lowered incidence of endometrial hyperplasia than would be induced by estrogen treatment alone.
    Endometrial hyperplasia may be a precursor to endometrial cancer.
-3. There are, however, possible risks that may be associated with the use of progestins with estrogens compared to estrogen-alone regimens.
+   There are, however, possible risks that may be associated with the use of progestins with estrogens compared to estrogen-alone regimens.
    These include an increased risk of breast cancer.
-4. Unexpected abnormal vaginal bleeding
-5. In cases of unexpected abnormal vaginal bleeding, adequate diagnostic measures are indicated.
-6. Elevated blood pressure
-7. Blood pressure should be monitored at regular intervals with estrogen plus progestin therapy.
-8. Hypertriglyceridemia
-9. In women with pre-existing hypertriglyceridemia, estrogen plus progestin therapy may be associated with elevations of plasma triglycerides leading to pancreatitis.
+2. Unexpected abnormal vaginal bleeding In cases of unexpected abnormal vaginal bleeding, adequate diagnostic measures are indicated.
+3. Elevated blood pressure Blood pressure should be monitored at regular intervals with estrogen plus progestin therapy.
+4. Hypertriglyceridemia In women with pre-existing hypertriglyceridemia, estrogen plus progestin therapy may be associated with elevations of plasma triglycerides leading to pancreatitis.
    Consider discontinuation of treatment if pancreatitis occurs.
-10. Hepatic Impairment and/or past history of cholestatic jaundice
-11. Estrogens plus progestins may be poorly metabolized in women with impaired liver function.
-    For women with a history of cholestatic jaundice associated with past estrogen use or with pregnancy, caution should be exercised, and in the case of recurrence, medication should be discontinued.
-12. Fluid Retention
-13. Progestins may cause some degree of fluid retention.
-    Women who have conditions which might be influenced by this factor, such as cardiac or renal impairment, warrant careful observation when estrogen plus progestin are prescribed.
-14. Hypocalcemia
-15. Estrogen plus progestin therapy should be used with caution in women with hypoparathyroidism as estrogen-induced hypocalcemia may occur.
-16. Exacerbation of other conditions
-17. Estrogen plus progestin therapy may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migraine, porphyria, systemic lupus erythematosus, and hepatic hemangiomas and should be used with caution in women with these conditions.
+5. Hepatic Impairment and/or past history of cholestatic jaundice Estrogens plus progestins may be poorly metabolized in women with impaired liver function.
+   For women with a history of cholestatic jaundice associated with past estrogen use or with pregnancy, caution should be exercised, and in the case of recurrence, medication should be discontinued.
+6. Fluid Retention Progestins may cause some degree of fluid retention.
+   Women who have conditions which might be influenced by this factor, such as cardiac or renal impairment, warrant careful observation when estrogen plus progestin are prescribed.
+7. Hypocalcemia Estrogen plus progestin therapy should be used with caution in women with hypoparathyroidism as estrogen-induced hypocalcemia may occur.
+8. Exacerbation of other conditions Estrogen plus progestin therapy may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migraine, porphyria, systemic lupus erythematosus, and hepatic hemangiomas and should be used with caution in women with these conditions.
 
 ## B. Patient Information
 
@@ -158,8 +146,7 @@ The following laboratory results may be altered by the use of estrogen plus prog
 Carcinogenicity: Long-term intramuscular administration of medroxyprogesterone acetate has been shown to produce mammary tumors in beagle dogs.
 There was no evidence of a carcinogenic effect associated with the oral administration of medroxyprogesterone acetate to rats and mice.
 
-Long-term continuous administration of estrogen plus progestin therapy has shown an increased risk of breast cancer and ovarian cancer.
-(See WARNINGS and PRECAUTIONS.)
+Long-term continuous administration of estrogen plus progestin therapy has shown an increased risk of breast cancer and ovarian cancer (see WARNINGS and PRECAUTIONS).
 
 Genotoxicity: Medroxyprogesterone acetate was not mutagenic in a battery of in vitro or in vivo genetic toxicity assays.
 
@@ -167,12 +154,7 @@ Fertility: Medroxyprogesterone acetate at high doses is an antifertility drug an
 
 ## E. Pregnancy
 
-### Teratogenic Effects
-
-#### Pregnancy Category X
-
-Medroxyprogesterone acetate should not be used during pregnancy.
-(See CONTRAINDICATIONS.)
+Medroxyprogesterone acetate should not be used during pregnancy (see CONTRAINDICATIONS.)
 
 There may be increased risks for hypospadias, clitoral enlargement and labial fusion in children whose mothers are exposed to medroxyprogesterone acetate during the first trimester of pregnancy.
 However, a clear association between these conditions with use of medroxyprogesterone acetate has not been established.
@@ -193,13 +175,10 @@ There have not been sufficient numbers of geriatric women involved in clinical s
 
 The Women’s Health Initiative Studies
 
-In the WHI estrogen plus progestin substudy (daily CE [0.625 mg] plus MPA [2.5 mg] versus placebo), there was a higher relative risk of nonfatal stroke and invasive breast cancer in women greater than 65 years of age.
-(See CLINICAL STUDIES.)
+In the WHI estrogen plus progestin substudy (daily CE [0.625 mg] plus MPA [2.5 mg] versus placebo), there was a higher relative risk of nonfatal stroke and invasive breast cancer in women greater than 65 years of age (see CLINICAL STUDIES).
 
 The Women’s Health Initiative Memory Study
 
-In the WHIMS ancillary studies of postmenopausal women 65 to 79 years of age, there was an increased risk of developing probable dementia in women receiving estrogen- alone or estrogen plus progestin when compared to placebo.
-(See WARNINGS, Probable Dementia.)
+In the WHIMS ancillary studies of postmenopausal women 65 to 79 years of age, there was an increased risk of developing probable dementia in women receiving estrogen- alone or estrogen plus progestin when compared to placebo (see WARNINGS, Probable Dementia).
 
-Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women.
-(See WARNINGS, Probable Dementia.)
+Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women (see WARNINGS, Probable Dementia).

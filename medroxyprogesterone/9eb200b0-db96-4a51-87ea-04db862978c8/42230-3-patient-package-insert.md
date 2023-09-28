@@ -1,67 +1,66 @@
 # PATIENT INFORMATION
 
-MedroxyPROGESTERone Acetate Tablets USP
+MedroxyPROGESTERone Acetate (med rox″ ee proe jes′ ter one as′ etate) Tablets
 
-Rx only
-
-Read this Patient Information before you start taking medroxyprogesterone acetate and read what you get each time you refill your medroxyprogesterone acetate prescription.
+Read this Patient Information before you start taking medroxyprogesterone acetate tablets and read what you get each time you refill your medroxyprogesterone acetate tablets prescription.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-What is medroxyprogesterone acetate?
+What are medroxyprogesterone acetate tablets?
 
-Medroxyprogesterone acetate is a medicine that contains medroxyprogesterone acetate, a progestin hormone.
+Medroxyprogesterone acetate tablet is a medicine that contains medroxyprogesterone acetate, a progestin hormone.
 
-What is medroxyprogesterone acetate used for?
+What are medroxyprogesterone acetate tablets used for?
 
-Medroxyprogesterone acetate is used to:
+Medroxyprogesterone acetate tablets are used to:
 
 - Treat menstrual periods that have stopped or to treat abnormal uterine bleeding.
   Women with a uterus who are not pregnant, who stop having regular menstrual periods or who begin to have irregular menstrual periods may have a drop in their progesterone level.
-  Talk with your healthcare provider about whether medroxyprogesterone acetate is right for you.
+  Talk with your healthcare provider about whether medroxyprogesterone acetate tablets are right for you.
 - Reduce your chances of getting cancer of the uterus (womb).
   In postmenopausal women with a uterus who use estrogens, taking progestin in combination with estrogen will reduce your chance of getting cancer of the uterus (womb).
 
-Who should not take medroxyprogesterone acetate?
+Who should not take medroxyprogesterone acetate tablets?
 
-Do not start taking medroxyprogesterone acetate if you:
+Do not start taking medroxyprogesterone acetate tablets if you:
 
 - have unusual vaginal bleeding
 - currently have or have had certain cancers Estrogen plus progestin may increase your chance of getting certain types of cancers, including cancer of the breast.
-  If you have or have had cancer, talk with your healthcare provider about whether you should use medroxyprogesterone acetate.
+  If you have or have had cancer, talk with your healthcare provider about whether you should use medroxyprogesterone acetate tablets.
 - had a stroke or heart attack
 - currently have or have had blood clots
 - currently have or have had liver problems
-- are allergic to medroxyprogesterone acetate tablets or any of its ingredients See the list of ingredients inmedroxyprogesterone acetate tablets at the end of this leaflet.
-- think you may be pregnant Medroxyprogesterone acetate is not for pregnant women.
+- are allergic to medroxyprogesterone acetate tablets or any of its ingredients See the list of ingredients in medroxyprogesterone acetate tablets at the end of this leaflet.
+- think you may be pregnant Medroxyprogesterone acetate tablets are not for pregnant women.
   If you think you may be pregnant, you should have a pregnancy test and know the results.
-  Do not use medroxyprogesterone acetate if the test is positive and talk to your healthcare provider.
-  There may be an increased risk of minor birth defects in children whose mothers take medroxyprogesterone acetate during the first 4 months of pregnancy.Medroxyprogesterone acetate should not be used as a test for pregnancy.
+  Do not use medroxyprogesterone acetate tablets if the test is positive and talk to your healthcare provider.
+  There may be an increased risk of minor birth defects in children whose mothers take medroxyprogesterone acetate tablets during the first 4 months of pregnancy.
+  Medroxyprogesterone acetate tablets should not be used as a test for pregnancy.
 
-What should I tell my healthcare provider before taking medroxyprogesterone acetate?
-Before you take medroxyprogesterone acetate, tell your healthcare provider if you:
+What should I tell my healthcare provider before taking medroxyprogesterone acetate tablets?
+Before you take medroxyprogesterone acetate tablets, tell your healthcare provider if you:
 
 - have any other medical problems Your healthcare provider may need to check you more carefully if you have certain conditions such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis (severe pelvic pain), lupus, or problems with your heart, liver, thyroid, kidneys, or have high calcium in your blood.
-- are going to have surgery or will be on bed rest Your healthcare provider will let you know if you need to stop taking medroxyprogesterone acetate.
+- are going to have surgery or will be on bed rest Your healthcare provider will let you know if you need to stop taking medroxyprogesterone acetate tablets.
 - are breast feeding The hormone in medroxyprogesterone acetate can pass into your breast milk.
 
 Tell your healthcare provider about all the medicines you take including prescription and nonprescription medicines, vitamins, and herbal supplements.
-Some medicines may affect how medroxyprogesterone acetate works.
-Medroxyprogesterone acetate may also affect how other medicines work.
+Some medicines may affect how medroxyprogesterone acetate tablets work.
+Medroxyprogesterone acetate tablets may also affect how other medicines work.
 
-How should I take medroxyprogesterone acetate?
+How should I take medroxyprogesterone acetate tablets?
 
 Start at the lowest dose and talk to your healthcare provider about how well that dose is working for you.
-The lowest effective dose of medroxyprogesterone acetate has not been determined.
-You and your healthcare provider should talk regularly (every 3 to 6 months) about the dose you are taking and whether you still need treatment with medroxyprogesterone acetate.
+The lowest effective dose of medroxyprogesterone acetate tablets has not been determined.
+You and your healthcare provider should talk regularly (every 3 to 6 months) about the dose you are taking and whether you still need treatment with medroxyprogesterone acetate tablets.
 
-1. Absence of menstrual period: Medroxyprogesterone acetate may be given in doses ranging from 5 to 10 mg daily for 5 to 10 days.
-2. Abnormal Uterine Bleeding: Medroxyprogesterone acetate may be given in doses ranging from 5 to 10 mg daily for 5 to 10 days.
-3. Overgrowth of the lining of the uterus: When used in combination with oral conjugated estrogens in postmenopausal women with a uterus, medroxyprogesterone acetate may be given in doses ranging from 5 or 10 mg daily for 12 to 14 straight days per month.
+1. Absence of menstrual period: Medroxyprogesterone acetate tablets may be given in doses ranging from 5 to 10 mg daily for 5 to 10 days.
+2. Abnormal Uterine Bleeding: Medroxyprogesterone acetate tablets may be given in doses ranging from 5 to 10 mg daily for 5 to 10 days.
+3. Overgrowth of the lining of the uterus: When used in combination with oral conjugated estrogens in postmenopausal women with a uterus, medroxyprogesterone acetate tablets may be given in doses ranging from 5 or 10 mg daily for 12 to 14 straight days per month.
 
-What are the possible side effects of medroxyprogesterone acetate?
+What are the possible side effects of medroxyprogesterone acetate tablets?
 
-The following side effects have been reported with the use of medroxyprogesterone acetate alone:
+The following side effects have been reported with the use of medroxyprogesterone acetate tablets alone:
 
 - breast tenderness
 - breast milk secretion
@@ -134,41 +133,43 @@ Less serious but common side effects include:
 These are not all the possible side effects of medroxyprogesterone acetate with or without estrogen.
 For more information, ask your healthcare provider or pharmacist for advice about side effects.
 Tell your healthcare provider if you have side effect that bothers you or does not go away.
-You may report side effects to Teva at 1-866-832-8537 or FDA at 1-800-FDA-1088.
+You may report side effects to Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088.
 
-What can I do to lower my chances of a serious side effect with medroxyprogesterone acetate?
+What can I do to lower my chances of a serious side effect with medroxyprogesterone acetate tablets?
 
-- Talk with your healthcare provider regularly about whether you should continue taking medroxyprogesterone acetate.
+- Talk with your healthcare provider regularly about whether you should continue taking medroxyprogesterone acetate tablets.
   The addition of a progestin is generally recommended for women with a uterus to reduce the chance of getting cancer of the uterus (womb).
-- See your healthcare provider right away if you get vaginal bleeding while taking medroxyprogesterone acetate.
+- See your healthcare provider right away if you get vaginal bleeding while taking medroxyprogesterone acetate tablets.
 - Have a pelvic exam, breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
   If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
 - If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have a higher chance of getting heart disease.
   Ask your healthcare provider for ways to lower your chance of getting heart disease.
 
-General information about safe and effective use of medroxyprogesterone acetate
+General information about safe and effective use of medroxyprogesterone acetate tablets
 
 - Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
-- Do not take medroxyprogesterone acetate for conditions for which it was not prescribed.
-- Do not give medroxyprogesterone acetate to other people, even if they have the same symptoms you have.
+- Do not take medroxyprogesterone acetate tablets for conditions for which it was not prescribed.
+- Do not give medroxyprogesterone acetate tablets to other people, even if they have the same symptoms you have.
   It may harm them.
 
-Keep medroxyprogesterone acetate out of the reach of children.
+Keep medroxyprogesterone acetate tablets out of the reach of children.
 
-This leaflet provides a summary of the most important information about medroxyprogesterone acetate.
+This leaflet provides a summary of the most important information about medroxyprogesterone acetate tablets.
 If you would like more information, talk with your health care provider or pharmacist.
-You can ask for information about medroxyprogesterone acetate that is written for health professionals.
+You can ask for information about medroxyprogesterone acetate tablets that is written for health professionals.
 You can get more information by calling the toll-free number, 1-888-838-2872.
 
-What are the ingredients in medroxyprogesterone acetate?
+What are the ingredients in medroxyprogesterone acetate tablets?
 
 Each medroxyprogesterone acetate tablet for oral administration contains 2.5 mg, 5 mg or 10 mg of medroxyprogesterone acetate.
 
 Inactive ingredients: crospovidone, lactose monohydrate, magnesium stearate, methylcellulose, pregelatinized corn starch, and sodium lauryl sulfate.
 
-TEVA PHARMACEUTICALS USA, INC.
+Manufactured For:
 
-North Wales, PA 19454
+Teva Pharmaceuticals
+
+Parsippany, NJ 07054
 
 Rev.
-A 5/2015
+B 10/2022

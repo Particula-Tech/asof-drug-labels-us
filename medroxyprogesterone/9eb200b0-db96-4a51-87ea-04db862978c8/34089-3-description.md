@@ -1,13 +1,13 @@
 # DESCRIPTION
 
-Medroxyprogesterone Acetate Tablets USP contain medroxyprogesterone acetate, USP which is a derivative of progesterone.
+Medroxyprogesterone acetate tablets, USP contain medroxyprogesterone acetate, USP which is a derivative of progesterone.
 It is a white to off-white, odorless crystalline powder, stable in air, melting between 200 and 210°C.
 It is freely soluble in chloroform, soluble in acetone and in dioxane, sparingly soluble in alcohol and in methanol, slightly soluble in ether, and insoluble in water.
 
 The chemical name for medroxyprogesterone acetate is pregn-4-ene-3, 20-dione, 17-(acetyloxy)-6-methyl-, (6α)-.
 The structural formula is:
 
-- C24H34O4 M.W.
-  386.53
+C24H34O4 M.W.
+386.53
 
 Each tablet, for oral administration, contains 2.5 mg, 5 mg or 10 mg of medroxyprogesterone acetate, USP and the following inactive ingredients: crospovidone, lactose monohydrate, magnesium stearate, methylcellulose, pregelatinized corn starch, and sodium lauryl sulfate.
