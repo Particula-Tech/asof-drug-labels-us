@@ -1,8 +1,8 @@
-# PRINCIPAL DISPLAY PANEL- 60 grams label
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0574-2008-15
 
 Rx Only
-
-NDC 0574-2008-02
 
 NYSTOP®
 
@@ -16,6 +16,6 @@ STORAGE: Store at controlled room temperature 15° - 30°C (59° - 86°); avoid 
 
 Net Weight
 
-60 grams
+15 grams
 
 The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation.

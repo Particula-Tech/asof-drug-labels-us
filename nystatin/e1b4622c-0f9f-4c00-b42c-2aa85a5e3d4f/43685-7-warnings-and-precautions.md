@@ -23,11 +23,9 @@ If there is a lack of therapeutic response, KOH smears, cultures, or other diagn
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No long-term animal studies have been performed to evaluate the carcinogenic potential of nystatin.
-No studies have been performed to determine the mutagenicity of nystatin or its effects on male or female fertility.
+No studies have been performed to determine the mutagenicity of nystatin or its effects on male or female fertility
 
-## Pregnancy:
-
-### Teratogenic Effects
+## Pregnancy: Teratogenic Effects
 
 Category C. Animal reproduction studies have not been conducted with any nystatin topical preparation.
 It also is not known whether these preparations can cause fetal harm when used by a pregnant woman or can affect reproductive capacity.
