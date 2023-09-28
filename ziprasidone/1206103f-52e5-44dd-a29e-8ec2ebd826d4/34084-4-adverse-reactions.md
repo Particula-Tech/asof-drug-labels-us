@@ -28,19 +28,19 @@ The following adverse reactions were the most commonly observed adverse reaction
 
 Schizophrenia trials (see Table 11)
 
-- Somnolence
-- Respiratory Tract Infection
+- •Somnolence
+- •Respiratory Tract Infection
 
 Bipolar trials (see Table 12)
 
-- Somnolence
-- Extrapyramidal Symptoms which includes the following adverse reaction terms: extrapyramidal syndrome, hypertonia, dystonia, dyskinesia, hypokinesia, tremor, paralysis and twitching.
+- •Somnolence
+- •Extrapyramidal Symptoms which includes the following adverse reaction terms: extrapyramidal syndrome, hypertonia, dystonia, dyskinesia, hypokinesia, tremor, paralysis and twitching.
   None of these adverse reactions occurred individually at an incidence greater than 10% in bipolar mania trials.
-- Dizziness which includes the adverse reaction terms dizziness and lightheadedness.
-- Akathisia
-- Abnormal Vision
-- Asthenia
-- Vomiting
+- •Dizziness which includes the adverse reaction terms dizziness and lightheadedness.
+- •Akathisia
+- •Abnormal Vision
+- •Asthenia
+- •Vomiting
 
 SCHIZOPHRENIA
 

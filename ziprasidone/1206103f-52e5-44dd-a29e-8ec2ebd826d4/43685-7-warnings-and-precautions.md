@@ -306,8 +306,8 @@ Ziprasidone should be used with particular caution in patients with known cardio
 
 ## 5.10 Falls
 
-Antipsychotic drugs (which include GEODON) may cause somnolence, postural hypotension, and motor and sensory instability, which could lead to falls and, consequently, fractures or other injuries.
-For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+1. Antipsychotic drugs (which include GEODON) may cause somnolence, postural hypotension, and motor and sensory instability, which could lead to falls and, consequently, fractures or other injuries.
+   For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
 
 ## 5.11 Leukopenia, Neutropenia, and Agranulocytosis
 

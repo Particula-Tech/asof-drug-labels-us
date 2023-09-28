@@ -8,5 +8,5 @@ Whether ziprasidone will cause torsade de pointes or increase the rate of sudden
 
 Acute Treatment of Agitation in Schizophrenia
 
-- GEODON intramuscular is indicated for the treatment of acute agitation in schizophrenic adult patients for whom treatment with ziprasidone is appropriate and who need intramuscular antipsychotic medication for rapid control of agitation [see Clinical Studies (14.1)].
-  Since there is no experience regarding the safety of administering ziprasidone intramuscular to schizophrenic patients already taking oral ziprasidone, the practice of co-administration is not recommended.
+1. 1.GEODON intramuscular is indicated for the treatment of acute agitation in schizophrenic adult patients for whom treatment with ziprasidone is appropriate and who need intramuscular antipsychotic medication for rapid control of agitation [see Clinical Studies (14.1)].
+   Since there is no experience regarding the safety of administering ziprasidone intramuscular to schizophrenic patients already taking oral ziprasidone, the practice of co-administration is not recommended.
