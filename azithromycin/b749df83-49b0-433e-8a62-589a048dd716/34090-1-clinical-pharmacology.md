@@ -179,8 +179,8 @@ Azithromycin has been shown to be active against the following microorganisms, b
 Mycobacteria
 
 - Mycobacterium avium complex (MAC) consisting of:
-  - Mycobacterium avium
-  - Mycobacterium intracellulare
+- Mycobacterium avium
+- Mycobacterium intracellulare
 
 Other Microorganisms
 

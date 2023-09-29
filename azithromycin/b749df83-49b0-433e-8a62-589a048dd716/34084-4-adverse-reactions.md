@@ -2,13 +2,13 @@
 
 The following clinically significant adverse reactions are described elsewhere in labeling:
 
-- Hypersensitivity [see Warnings and Precautions (5.1)]
-- Hepatotoxicity [see Warnings and Precautions (5.2)]
-- Infantile Hypertrophic Pyloric Stenosis (IHPS) [see Warnings and Precautions (5.3)]
-- QT Prolongation [see Warnings and Precautions (5.4)]
-- Cardiovascular Death [see Warnings and Precautions (5.5)]
-- Clostridioides difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.6)]
-- Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.7)]
+- •Hypersensitivity [see Warnings and Precautions (5.1)]
+- •Hepatotoxicity [see Warnings and Precautions (5.2)]
+- •Infantile Hypertrophic Pyloric Stenosis (IHPS) [see Warnings and Precautions (5.3)]
+- •QT Prolongation [see Warnings and Precautions (5.4)]
+- •Cardiovascular Death [see Warnings and Precautions (5.5)]
+- •Clostridioides difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.6)]
+- •Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -93,8 +93,8 @@ Special Senses: Hearing disturbances including hearing loss, deafness, and/or ti
 
 Significant abnormalities (irrespective of drug relationship) occurring during the clinical trials were reported as follows:
 
-- With an incidence of 1–2%, elevated serum creatine phosphokinase, potassium, ALT (SGPT), GGT, and AST (SGOT).
-- With an incidence of less than 1%, leukopenia, neutropenia, decreased platelet count, elevated serum alkaline phosphatase, bilirubin, BUN, creatinine, blood glucose, LDH, and phosphate.
+- •With an incidence of 1–2%, elevated serum creatine phosphokinase, potassium, ALT (SGPT), GGT, and AST (SGOT).
+- •With an incidence of less than 1%, leukopenia, neutropenia, decreased platelet count, elevated serum alkaline phosphatase, bilirubin, BUN, creatinine, blood glucose, LDH, and phosphate.
 
 When follow-up was provided, changes in laboratory tests appeared to be reversible.
 
