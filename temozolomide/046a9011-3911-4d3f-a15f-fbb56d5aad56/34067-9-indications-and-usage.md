@@ -2,8 +2,11 @@
 
 ## 1.1 Newly Diagnosed Glioblastoma
 
-TEMODAR® is indicated for the treatment of adult patients with newly diagnosed glioblastoma concomitantly with radiotherapy and then as maintenance treatment.
+TEMODAR is indicated for the treatment of adults with newly diagnosed glioblastoma, concomitantly with radiotherapy and then as maintenance treatment.
 
-## 1.2 Refractory Anaplastic Astrocytoma
+## 1.2 Anaplastic Astrocytoma
 
-TEMODAR is indicated for the treatment of adult patients with refractory anaplastic astrocytoma who have experienced disease progression on a drug regimen containing nitrosourea and procarbazine.
+TEMODAR is indicated for the:
+
+- adjuvant treatment of adults with newly diagnosed anaplastic astrocytoma;
+- treatment of adults with refractory anaplastic astrocytoma.

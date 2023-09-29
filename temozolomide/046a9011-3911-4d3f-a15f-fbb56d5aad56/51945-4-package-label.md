@@ -6,7 +6,7 @@ NDC 0085-3004-03
 
 Temodar® [temozolomide] Capsules
 
-For Oral Administration Rx only
+For Oral Administration WARNING: Hazardous Drug Rx only
 
 THIS PACKAGE CONTAINS 5 INDIVIDUAL SACHETS
 
@@ -20,7 +20,7 @@ NDC 0085-1519-03
 
 Temodar® [temozolomide] Capsules
 
-For Oral Administration Rx only
+For Oral Administration WARNING: Hazardous Drug Rx only
 
 THIS PACKAGE CONTAINS 5 INDIVIDUAL SACHETS
 
@@ -34,7 +34,7 @@ NDC 0085-1366-03
 
 Temodar® [temozolomide] Capsules
 
-For Oral Administration Rx only
+For Oral Administration WARNING: Hazardous Drug Rx only
 
 THIS PACKAGE CONTAINS 5 INDIVIDUAL SACHETS
 
@@ -48,7 +48,7 @@ NDC 0085-1425-03
 
 Temodar® [temozolomide] Capsules
 
-For Oral Administration Rx only
+For Oral Administration WARNING: Hazardous Drug Rx only
 
 THIS PACKAGE CONTAINS 5 INDIVIDUAL SACHETS
 
@@ -62,7 +62,7 @@ NDC 0085-1430-03
 
 Temodar® [temozolomide] Capsules
 
-For Oral Administration Rx only
+For Oral Administration WARNING: Hazardous Drug Rx only
 
 THIS PACKAGE CONTAINS 5 INDIVIDUAL SACHETS
 
@@ -76,7 +76,7 @@ NDC 0085-1417-02
 
 Temodar® [temozolomide] Capsules
 
-For Oral Administration Rx only
+For Oral Administration WARNING: Hazardous Drug Rx only
 
 THIS PACKAGE CONTAINS 5 INDIVIDUAL SACHETS
 
@@ -90,7 +90,7 @@ Temodar® [temozolomide] for Injection
 
 100 mg / VIAL
 
-For Intravenous Use Only
+For Intravenous Infusion after Reconstitution WARNING: Hazardous Drug
 
 Single-Dose Vial.
 Discard unused portion.

@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-TEMODAR is a cytotoxic drug.
+TEMODAR is a hazardous drug.
 Follow applicable special handling and disposal procedures.1
 
 TEMODAR capsules
@@ -9,7 +9,7 @@ TEMODAR capsules are supplied in child-resistant sachets containing the followin
 
 5 mg: opaque white bodies with green caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
-The cap is imprinted with "TEMODAR".
+The cap is imprinted with “TEMODAR”.
 They are supplied as follows:
 
 - 5-count – NDC 0085-3004-03
@@ -17,7 +17,7 @@ They are supplied as follows:
 
 20 mg: opaque white bodies with yellow caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
-The cap is imprinted with "TEMODAR".
+The cap is imprinted with “TEMODAR”.
 They are supplied as follows:
 
 - 5-count – NDC 0085-1519-03
@@ -25,7 +25,7 @@ They are supplied as follows:
 
 100 mg: opaque white bodies with pink caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
-The cap is imprinted with "TEMODAR".
+The cap is imprinted with “TEMODAR”.
 They are supplied as follows:
 
 - 5-count – NDC 0085-1366-03
@@ -33,7 +33,7 @@ They are supplied as follows:
 
 140 mg: opaque white bodies with blue caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
-The cap is imprinted with "TEMODAR".
+The cap is imprinted with “TEMODAR”.
 They are supplied as follows:
 
 - 5-count – NDC 0085-1425-03
@@ -41,7 +41,7 @@ They are supplied as follows:
 
 180 mg: opaque white bodies with orange caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
-The cap is imprinted with "TEMODAR".
+The cap is imprinted with “TEMODAR”.
 They are supplied as follows:
 
 - 5-count – NDC 0085-1430-03
@@ -49,7 +49,7 @@ They are supplied as follows:
 
 250 mg: opaque white bodies with white caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
-The cap is imprinted with "TEMODAR".
+The cap is imprinted with “TEMODAR”.
 They are supplied as follows:
 
 - 5-count – NDC 0085-1417-02
@@ -59,7 +59,7 @@ Store TEMODAR Capsules at 25°C (77°F); excursions permitted to 15°C to 30°C 
 TEMODAR for injection
 
 TEMODAR for injection is supplied in single-dose glass vials containing 100 mg temozolomide.
-The lyophilized powder is white to light tan/light pink.
+The lyophilized powder is white to light tan or light pink.
 
 - NDC 0085-1381-01
 

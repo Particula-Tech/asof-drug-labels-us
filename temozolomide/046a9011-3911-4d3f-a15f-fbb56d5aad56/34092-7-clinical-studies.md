@@ -2,7 +2,7 @@
 
 ## 14.1 Newly Diagnosed Glioblastoma
 
-The efficacy of TEMODAR was evaluated in Study MK-7365-051, a randomized (1:1), multicenter, open-label trial.
+The efficacy of TEMODAR was evaluated in MK-7365-051 (NCT00006353), a randomized (1:1), multicenter, open-label trial.
 Eligible patients were required to have newly diagnosed glioblastoma.
 Patients were randomized to receive either radiation therapy alone or concomitant TEMODAR 75 mg/m2 once daily starting the first day of radiation therapy and continuing until the last day of radiation therapy for 42 days (with a maximum of 49 days), followed by TEMODAR 150 mg/m2 or 200 mg/m2 once daily on Days 1 to 5 of each 28-day cycle, starting 4 weeks after the end of radiation therapy and continuing for 6 cycles.
 In both arms, focal radiation therapy was delivered as 60 Gy/30 fractions and included radiation to the tumor bed or resection site with a 2- to 3-cm margin.
@@ -14,9 +14,16 @@ At the time of disease progression, TEMODAR was administered as salvage therapy 
 
 The addition of concomitant and maintenance TEMODAR to radiation therapy for the treatment of patients with newly diagnosed glioblastoma showed a statistically significant improvement in overall survival compared to radiotherapy alone (Figure 1).
 The hazard ratio (HR) for overall survival was 0.63 (95% CI: 0.52, 0.75) with a log-rank P<0.0001 in favor of the TEMODAR arm.
-The median survival was increased by 2.5 months in the TEMODAR arm.
+The median overall survival was 14.6 months in the TEMODAR arm and 12.1 months for radiation therapy alone arm.
 
-## 14.2 Refractory Anaplastic Astrocytoma
+## 14.2 Anaplastic Astrocytoma
+
+Newly Diagnosed Anaplastic Astrocytoma
+
+The efficacy of TEMODAR for the adjuvant treatment of newly diagnosed anaplastic astrocytoma was derived from studies of TEMODAR in the published literature.
+TEMODAR was evaluated in CATNON (NCT00626990), a randomized, open-label, multicenter trial, where the major efficacy outcome measure was overall survival.
+
+Refractory Anaplastic Astrocytoma
 
 The efficacy of TEMODAR was evaluated in Study MK-7365-006, a single-arm, multicenter trial.
 Eligible patients had anaplastic astrocytoma at first relapse and a baseline Karnofsky performance status (KPS) of 70 or greater.

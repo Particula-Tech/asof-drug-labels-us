@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Based on its mechanism of action [see Clinical Pharmacology (12.1)] and findings from animal studies, TEMODAR can cause fetal harm when administered to a pregnant woman.
+Based on findings from animal studies and its mechanism of action [see Clinical Pharmacology (12.1)], TEMODAR can cause fetal harm when administered to a pregnant woman.
 Available postmarketing reports describe cases of spontaneous abortions and congenital malformations, including polymalformations with central nervous system, facial, cardiac, skeletal, and genitourinary system anomalies with exposure to TEMODAR during pregnancy.
 These cases report similar adverse developmental outcomes to those observed in animal studies.
 Administration of TEMODAR to rats and rabbits during the period of organogenesis caused numerous external, internal, and skeletal malformations at doses less than the maximum human dose based on body surface area (see Data).
@@ -22,9 +22,11 @@ In rabbits, temozolomide at the 150 mg/m2 dose (0.75 times the human dose of 200
 ## 8.2 Lactation
 
 There are no data on the presence of TEMODAR or its metabolites in human milk, the effects on a breastfed child, or the effects on milk production.
-Because of the potential for serious adverse reactions, including myelosuppression from temozolomide in the breastfed children, advise women not to breastfeed during treatment with TEMODAR and for at least 1 week after the final dose.
+Because of the potential for serious adverse reactions, including myelosuppression from temozolomide in the breastfed children, advise women not to breastfeed during treatment with TEMODAR and for 1 week after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
+
+TEMODAR can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 
 Pregnancy Testing
 
@@ -34,14 +36,13 @@ Contraception
 
 Females
 
-TEMODAR can cause embryo-fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
-Advise females of reproductive potential to use effective contraception during treatment with TEMODAR and for at least 6 months after the last dose.
+Advise females of reproductive potential to use effective contraception during treatment with TEMODAR and for 6 months after the last dose.
 
 Males
 
-Because of the potential for embryofetal toxicity and genotoxic effects on sperm cells, advise male patients with pregnant partners or female partners of reproductive potential to use condoms during treatment with TEMODAR and for at least 3 months after the final dose [see Use in Specific Populations (8.1), Nonclinical Toxicology (13.1)].
+Because of the potential for embryofetal toxicity and genotoxic effects on sperm cells, advise male patients with pregnant partners or female partners of reproductive potential to use condoms during treatment with TEMODAR and for 3 months after the last dose [see Use in Specific Populations (8.1), Nonclinical Toxicology (13.1)].
 
-Advise male patients not to donate semen during treatment with TEMODAR and for at least 3 months after the final dose.
+Advise male patients not to donate semen during treatment with TEMODAR and for 3 months after the last dose.
 
 Infertility
 
@@ -58,13 +59,19 @@ The adverse reaction profile in pediatric patients was similar to adults.
 
 ## 8.5 Geriatric Use
 
-In the Newly Diagnosed Glioblastoma trial, Study MK-7365-051, 15% of patients were 65 years and older.
+In MK-7365-051, 15% of patients with newly diagnosed glioblastoma were 65 years and older.
 This study did not include sufficient numbers of patients aged 65 years and older to determine differences in effectiveness from younger patients.
 No overall differences in safety were observed between patients ≥65 years and younger patients.
 
-In the Refractory Anaplastic Astrocytoma trial, Study MK-7365-0006, 4% of patients were 70 years and older.
+The CATNON trial did not include sufficient numbers of patients aged 65 years and older to determine differences in safety or effectiveness when compared to younger patients.
+
+In MK-7365-006, 4% of patients with refractory anaplastic astrocytoma were 70 years and older.
 This study did not include sufficient numbers of patients aged 70 years and older to determine differences in effectiveness from younger patients.
 Patients 70 years and older had a higher incidence of Grade 4 neutropenia (25%) and Grade 4 thrombocytopenia (20%) in the first cycle of therapy than patients less than 70 years of age [see Warnings and Precautions (5.1), Adverse Reactions (6.1)].
+
+In the entire safety database for which hematologic data exist (N=932), 7% (4/61) and 10% (6/63) of patients >70 years experienced Grade 4 neutropenia or thrombocytopenia in the first cycle, respectively.
+For patients ≤70 years, 7% (62/871) and 6% (48/879) experienced Grade 4 neutropenia or thrombocytopenia in the first cycle, respectively.
+Pancytopenia, leukopenia, and anemia also occurred.
 
 ## 8.6 Renal Impairment
 
