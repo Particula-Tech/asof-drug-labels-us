@@ -36,11 +36,11 @@ African-American patients, compared to Caucasian patients, may need to be titrat
 
 Due to reduced clearance and prolonged half-life seen in patients with severe hepatic impairment (Child-Pugh ≥10) these patients may require a lower starting dosage of ENVARSUS XR [see Clinical Pharmacology (12.3)].
 
-Dose adjustments of ENVARSUS XR may be necessary when administered concomitantly with CYP3A inducers or CYP3A inhibitors [see Warnings and Precautions (5.9), Drug Interactions (7.2)].
+Dose adjustments of ENVARSUS XR may be necessary when administered concomitantly with CYP3A inducers or CYP3A inhibitors or cannabidiol [see Warnings and Precautions (5.9, 5.13), Drug Interactions (7.2, 7.3)].
 
 ## 2.5 Therapeutic Drug Monitoring
 
-Measure tacrolimus whole blood trough concentrations at least two times on separate days during the first week after initiation of dosing and after any change in dosage, after a change in co-administration of CYP3A inducers and/or inhibitors [see Drug Interactions (7)], or after a change in renal or hepatic function.
+Measure tacrolimus whole blood trough concentrations at least two times on separate days during the first week after initiation of dosing and after any change in dosage, after a change in co-administration of CYP3A inducers and/or inhibitors or cannabidiol [see Drug Interactions (7)], or after a change in renal or hepatic function.
 When interpreting measured concentrations, consider that the time to achieve tacrolimus steady state is approximately 7 days after initiating or changing the ENVARSUS XR dose.
 
 Monitor tacrolimus whole blood trough concentrations using a validated assay [e.g., immunoassays or high-performance liquid chromatography with tandem mass spectrometric detection (HPLC/MS/MS)].

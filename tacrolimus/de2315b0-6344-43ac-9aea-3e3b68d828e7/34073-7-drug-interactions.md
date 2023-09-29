@@ -2,7 +2,7 @@
 
 ## 7.1 Mycophenolic Acid
 
-When ENVARSUS XR is prescribed with a given dose of mycophenolic acid (MPA) product, exposure to MPA is higher with ENVARSUS XR coadministration than with cyclosporine coadministration with MPA, because cyclosporine interrupts the enterohepatic recirculation of MPA while tacrolimus does not.
+When ENVARSUS XR is prescribed with a given dose of mycophenolic acid (MPA) product, exposure to MPA is higher with ENVARSUS XR co-administration than with cyclosporine co-administration with MPA, because cyclosporine interrupts the enterohepatic recirculation of MPA while tacrolimus does not.
 Monitor for MPA associated adverse reactions and reduce the dose of concomitantly administered MPA products as needed.
 
 ## 7.2 Effects of Other Drugs/Substances on ENVARSUS XR
@@ -19,9 +19,15 @@ Effects of Other Drugs/Substances on ENVARSUS XRa, d
 | Mild or Moderate CYP3A Inhibitors, such as: antibiotics (e.g., erythromycin), calcium channel blockers (e.g., verapamil, diltiazem, nifedipine, nicardipine), amiodarone, danazol, ethinyl estradiol, cimetidine, lansoprazole and omeprazole, azole antifungals (e.g., clotrimazole, fluconazole, isavuconazole), imatinib, nilotinib, letermovir | May increase tacrolimus whole blood trough concentrations and increase the risk of serious adverse reactions (e.g., neurotoxicity, QT prolongation) [see Warnings and Precautions (5.6, 5.9, 5.10)] | Monitor tacrolimus whole blood trough concentrations and reduce ENVARSUS XR dose if needed [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)] |  |  |
 | Other drugs, such as: Magnesium and aluminum hydroxide antacids Metoclopramide | May increase tacrolimus whole blood trough concentrations and increase the risk of serious adverse reactions (e.g., neurotoxicity, QT prolongation) [see Warnings and Precautions (5.6 and 5.10)] | Monitor tacrolimus whole blood trough concentrations and reduce ENVARSUS XR dose if needed [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)] |  |  |
 | Mild or Moderate CYP3A Inducers, such as: Methylprednisolone, prednisone | May decrease tacrolimus concentrations | Monitor tacrolimus whole blood trough concentrations and adjust ENVARSUS XR dose if needed [see Dosage and Administration (2.5)] |  |  |
-| a ENVARSUS XR dosage adjustment recommendation based on observed effect of coadministered drug on tacrolimus exposures [see Clinical Pharmacology (12.3)], literature reports of altered tacrolimus exposures, or the other drug’s known CYP3A inhibitor/inducer status b High dose or double strength grapefruit juice is a strong CYP3A inhibitor; low dose or single strength grapefruit juice is a moderate CYP3A inhibitor c Strong CYP3A inhibitor/inducer, based on reported effect on exposures to immediate-release tacrolimus along with supporting in vitro CYP3A inhibitor/inducer data, or based on drug-drug interaction studies with midazolam (sensitive CYP3A probe substrate) d A drug interaction study with voriconazole was conducted for ENVARSUS XR [see Clinical Pharmacology (12.3)]. No other drug-drug interaction studies were conducted with ENVARSUS XR. |  |  |  |  |
+| a ENVARSUS XR dosage adjustment recommendation based on observed effect of co-administered drug on tacrolimus exposures [see Clinical Pharmacology (12.3)], literature reports of altered tacrolimus exposures, or the other drug’s known CYP3A inhibitor/inducer status b High dose or double strength grapefruit juice is a strong CYP3A inhibitor; low dose or single strength grapefruit juice is a moderate CYP3A inhibitor c Strong CYP3A inhibitor/inducer, based on reported effect on exposures to immediate-release tacrolimus along with supporting in vitro CYP3A inhibitor/inducer data, or based on drug-drug interaction studies with midazolam (sensitive CYP3A probe substrate) d A drug interaction study with voriconazole was conducted for ENVARSUS XR [see Clinical Pharmacology (12.3)]. No other drug-drug interaction studies were conducted with ENVARSUS XR. |  |  |  |  |
 
 Direct Acting Antiviral (DAA) Therapy
 
 The pharmacokinetics of tacrolimus may be impacted by changes in liver function during DAA therapy, related to clearance of HCV virus.
 Close monitoring and potential dose adjustment of tacrolimus is warranted to ensure continued efficacy.
+
+## 7.3 Cannabidiol
+
+The blood levels of tacrolimus may increase upon concomitant use with cannabidiol.
+When cannabidiol and ENVARSUS XR are co-administered, closely monitor for an increase in tacrolimus blood levels and for adverse reactions suggestive of tacrolimus toxicity.
+A dose reduction of ENVARSUS XR should be considered as needed when ENVARSUS XR is co-administered with cannabidiol [see Dosage and Administration (2.5) and Warnings and Precautions (5.13)].

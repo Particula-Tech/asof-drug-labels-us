@@ -64,7 +64,7 @@ Calcium-channel blocking agents may increase tacrolimus blood concentrations and
 
 The concomitant use of strong CYP3A inducers may increase the metabolism of tacrolimus, leading to lower whole blood trough concentrations and greater risk of rejection.
 In contrast, the concomitant use of strong CYP3A inhibitors may decrease the metabolism of tacrolimus, leading to higher whole blood trough concentrations and greater risk of serious adverse reactions (e.g., neurotoxicity, QT prolongation) [see Warnings and Precautions (5.6, 5.10)].
-Therefore, adjust ENVARSUS XR dose and monitor tacrolimus whole blood trough concentrations when coadministering ENVARSUS XR with strong CYP3A inhibitors (e.g., including but not limited to telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) or strong CYP3A inducers (e.g., including but not limited to rifampin, rifabutin) [see Dosage and Administration (2.3, 2.5), Drug Interactions (7.2)].
+Therefore, adjust ENVARSUS XR dose and monitor tacrolimus whole blood trough concentrations when co-administering ENVARSUS XR with strong CYP3A inhibitors (e.g., including but not limited to telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) or strong CYP3A inducers (e.g., including but not limited to rifampin, rifabutin) [see Dosage and Administration (2.4, 2.5), Drug Interactions (7.2)].
 
 ## 5.10 QT Prolongation
 
@@ -72,7 +72,7 @@ ENVARSUS XR may prolong the QT/QTc interval and cause Torsade de Pointes.
 Avoid ENVARSUS XR in patients with congenital long QT syndrome.
 Consider obtaining electrocardiograms and monitoring electrolytes (magnesium, potassium, calcium) periodically during treatment in patients with congestive heart failure, bradyarrhythmias, those taking certain antiarrhythmic medications or other products that lead to QT prolongation, and those with electrolyte disturbances (e.g., hypokalemia, hypocalcemia, or hypomagnesemia).
 
-When coadministering ENVARSUS XR with other substrates and/or inhibitors of CYP3A, a reduction in ENVARSUS XR dosage, monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended [see Dosage and Administration (2.5), Drug Interactions (7.2)].
+When co-administering ENVARSUS XR with other substrates and/or inhibitors of CYP3A, a reduction in ENVARSUS XR dosage, monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended [see Dosage and Administration (2.5), Drug Interactions (7.2)].
 
 ## 5.11 Immunizations
 
@@ -88,3 +88,8 @@ Cases of pure red cell aplasia (PRCA) have been reported in patients treated wit
 All of these patients reported risk factors for PRCA such as parvovirus B19 infection, underlying disease, or concomitant medications associated with PRCA.
 A mechanism for tacrolimus-induced PRCA has not been elucidated.
 If PRCA is diagnosed, consider discontinuation of ENVARSUS XR.
+
+## 5.13 Cannabidiol Drug Interactions
+
+When cannabidiol and ENVARSUS XR are co-administered, closely monitor for an increase in tacrolimus blood levels and for adverse reactions suggestive of tacrolimus toxicity.
+A dose reduction of ENVARSUS XR should be considered as needed when ENVARSUS XR is co-administered with cannabidiol [see Dosage and Administration (2.4, 2.5), Drug Interactions (7.3)].

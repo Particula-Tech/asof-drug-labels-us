@@ -54,7 +54,7 @@ Advise patients to monitor their blood pressure [see Warnings and Precautions (5
 
 Instruct patients to tell their healthcare providers when they start or stop taking any concomitant medications, including prescription and non-prescription medicines, natural or herbal remedies, dietary supplements and vitamins.
 Some medications could alter tacrolimus concentrations in the blood and thus may require the adjustment of the dosage of ENVARSUS XR.
-Advise patients to avoid grapefruit, grapefruit juice and alcoholic beverages [see Warnings and Precautions (5.9) and Drug Interactions (7)].
+Advise patients to avoid grapefruit, grapefruit juice and alcoholic beverages [see Warnings and Precautions (5.9, 5.13) and Drug Interactions (7)].
 
 ## 17.10 Pregnancy, Lactation and Infertility
 
