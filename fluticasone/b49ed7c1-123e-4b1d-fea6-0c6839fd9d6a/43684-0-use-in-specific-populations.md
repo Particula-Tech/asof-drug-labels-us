@@ -119,7 +119,7 @@ These data suggest that, on a per kilogram basis, young children receive a compa
 Table 2.
 In Vitro Medication Delivery through AeroChamber Plus Valved Holding Chamber with a Mask
 
-| Age | Mask | Flow Rate(L/min) | Holding Time(seconds) | Mean Medication Delivery through AeroChamber Plus VHC(mcg/actuation) | Body Weight 50th Percentile(kg)a | Medication Delivered per Actuation(mcg/kg)b |
+| Age | Mask | Flow Rate(L/min) | Holding Time(seconds) | Mean Medication Delivery through AeroChamber Plus Valved Holding Chamber(mcg/actuation) | Body Weight 50th Percentile(kg)a | Medication Delivered per Actuation(mcg/kg)b |
 | --- | --- | --- | --- | --- | --- | --- |
 | 6 to 12 Months | Small | 4.9 | 0 | 8.3 | 7.5-9.9 | 0.8-1.1 |
 |  |  |  | 2 | 6.7 |  | 0.7-0.9 |
