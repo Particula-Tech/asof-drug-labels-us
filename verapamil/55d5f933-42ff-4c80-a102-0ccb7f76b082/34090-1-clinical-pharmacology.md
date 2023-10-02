@@ -8,11 +8,11 @@ CALAN is a calcium ion influx inhibitor (slow-channel blocker or calcium ion ant
 
 The precise mechanism of action of CALAN as an antianginal agent remains to be fully determined, but includes the following two mechanisms:
 
-1. Relaxation and prevention of coronary artery spasm: CALAN dilates the main coronary arteries and coronary arterioles, both in normal and ischemic regions, and is a potent inhibitor of coronary artery spasm, whether spontaneous or ergonovine-induced.
+1. 1.Relaxation and prevention of coronary artery spasm: CALAN dilates the main coronary arteries and coronary arterioles, both in normal and ischemic regions, and is a potent inhibitor of coronary artery spasm, whether spontaneous or ergonovine-induced.
    This property increases myocardial oxygen delivery in patients with coronary artery spasm and is responsible for the effectiveness of CALAN in vasospastic (Prinzmetal's or variant) as well as unstable angina at rest.
    Whether this effect plays any role in classical effort angina is not clear, but studies of exercise tolerance have not shown an increase in the maximum exercise rate–pressure product, a widely accepted measure of oxygen utilization.
    This suggests that, in general, relief of spasm or dilation of coronary arteries is not an important factor in classical angina.
-2. Reduction of oxygen utilization: CALAN regularly reduces the total peripheral resistance (afterload) against which the heart works both at rest and at a given level of exercise by dilating peripheral arterioles.
+2. 2.Reduction of oxygen utilization: CALAN regularly reduces the total peripheral resistance (afterload) against which the heart works both at rest and at a given level of exercise by dilating peripheral arterioles.
    This unloading of the heart reduces myocardial energy consumption and oxygen requirements and probably accounts for the effectiveness of CALAN in chronic stable effort angina.
 
 ### Arrhythmia
