@@ -1,7 +1,7 @@
 # 7 DRUG INTERACTIONS
 
 Aliskiren: Do not co-administer aliskiren with telmisartan in patients with diabetes.
-Avoid use of aliskiren with telmisartan in patients with renal impairment (GFR <60 mL/min).
+Avoid use of aliskiren with telmisartan in patients with renal impairment (GFR < 60 mL/min).
 
 Digoxin: When telmisartan was co-administered with digoxin, median increases in digoxin peak plasma concentration (49%) and in trough concentration (20%) were observed.
 Therefore, monitor digoxin levels when initiating, adjusting, and discontinuing telmisartan for the purpose of keeping the digoxin level within the therapeutic range.

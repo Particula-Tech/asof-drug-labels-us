@@ -8,7 +8,7 @@ Telmisartan blocks the vasoconstrictor and aldosterone-secreting effects of angi
 Its action is therefore independent of the pathways for angiotensin II synthesis.
 
 There is also an AT2 receptor found in many tissues, but AT2 is not known to be associated with cardiovascular homeostasis.
-Telmisartan has much greater affinity (>3,000 fold) for the AT1 receptor than for the AT2 receptor.
+Telmisartan has much greater affinity (> 3,000 fold) for the AT1 receptor than for the AT2 receptor.
 
 Blockade of the renin-angiotensin system with ACE inhibitors, which inhibit the biosynthesis of angiotensin II from angiotensin I, is widely used in the treatment of hypertension.
 ACE inhibitors also inhibit the degradation of bradykinin, a reaction also catalyzed by ACE.
@@ -35,7 +35,7 @@ Absorption:
 Following oral administration, peak concentrations (Cmax) of telmisartan are reached in 0.5 to 1 hour after dosing.
 Food slightly reduces the bioavailability of telmisartan, with a reduction in the area under the plasma concentration-time curve (AUC) of about 6% with the 40 mg tablet and about 20% after a 160 mg dose.
 The absolute bioavailability of telmisartan is dose dependent.
-At 40 and 160 mg the bioavailability was 42% and 58%, respectively.
+At 40 mg and 160 mg, the bioavailability was 42% and 58%, respectively.
 The pharmacokinetics of orally administered telmisartan are nonlinear over the dose range 20 mg to 160 mg, with greater than proportional increases of plasma concentrations (Cmax and AUC) with increasing doses.
 Telmisartan shows bi-exponential decay kinetics with a terminal elimination half-life of approximately 24 hours.
 Trough plasma concentrations of telmisartan with once daily dosing are about 10% to 25% of peak plasma concentrations.
@@ -43,19 +43,19 @@ Telmisartan has an accumulation index in plasma of 1.5 to 2.0 upon repeated once
 
 Distribution
 
-Telmisartan is highly bound to plasma proteins (>99.5%), mainly albumin and α1 - acid glycoprotein.
+Telmisartan is highly bound to plasma proteins (> 99.5%), mainly albumin and α1 - acid glycoprotein.
 Plasma protein binding is constant over the concentration range achieved with recommended doses.
 The volume of distribution for telmisartan is approximately 500 liters indicating additional tissue binding.
 
 Metabolism and Elimination
 
-Following either intravenous or oral administration of 14C-labeled telmisartan, most of the administered dose (>97%) was eliminated unchanged in feces via biliary excretion; only minute amounts were found in the urine (0.91% and 0.49% of total radioactivity, respectively).
+Following either intravenous or oral administration of 14C-labeled telmisartan, most of the administered dose (> 97%) was eliminated unchanged in feces via biliary excretion; only minute amounts were found in the urine (0.91% and 0.49% of total radioactivity, respectively).
 
 Telmisartan is metabolized by conjugation to form a pharmacologically inactive acyl glucuronide; the glucuronide of the parent compound is the only metabolite that has been identified in human plasma and urine.
 After a single dose, the glucuronide represents approximately 11% of the measured radioactivity in plasma.
 The cytochrome P450 isoenzymes are not involved in the metabolism of telmisartan.
 
-Total plasma clearance of telmisartan is >800 mL/min.
+Total plasma clearance of telmisartan is > 800 mL/min.
 Terminal half-life and total clearance appear to be independent of dose.
 
 Specific Populations
@@ -63,7 +63,7 @@ Specific Populations
 Renal Insufficiency
 
 No dosage adjustment is necessary in patients with decreased renal function.
-Telmisartan is not removed from blood by hemofiltration [see Warnings and Precautions (5.5) and Dosage and Administration (2.1)].
+Telmisartan is not removed from blood by hemofiltration and is not dialyzable [see Warnings and Precautions (5.5) and Dosage and Administration (2.1)].
 
 Hepatic Insufficiency
 
@@ -81,7 +81,7 @@ The pharmacokinetics of telmisartan do not differ between the elderly and those 
 
 Pediatric Patients
 
-Telmisartan pharmacokinetics have not been investigated in patients <18 years of age.
+Telmisartan pharmacokinetics have not been investigated in patients < 18 years of age.
 
 Drug Interaction Studies
 

@@ -4,7 +4,7 @@
 
 There was no evidence of carcinogenicity when telmisartan was administered in the diet to mice and rats for up to 2 years.
 The highest doses administered to mice (1,000 mg/kg/day) and rats (100 mg/kg/day) are, on a mg/m2 basis, about 59 and 13 times, respectively, the maximum recommended human dose (MRHD) of telmisartan.
-These same doses have been shown to provide average systemic exposures to telmisartan >100 times and >25 times, respectively, the systemic exposure in humans receiving the MRHD (80 mg/day).
+These same doses have been shown to provide average systemic exposures to telmisartan > 100 times and > 25 times, respectively, the systemic exposure in humans receiving the MRHD (80 mg/day).
 
 Genotoxicity assays did not reveal any telmisartan-related effects at either the gene or chromosome level.
 These assays included bacterial mutagenicity tests with Salmonella and E. coli (Ames), a gene mutation test with Chinese hamster V79 cells, a cytogenetic test with human lymphocytes, and a mouse micronucleus test.

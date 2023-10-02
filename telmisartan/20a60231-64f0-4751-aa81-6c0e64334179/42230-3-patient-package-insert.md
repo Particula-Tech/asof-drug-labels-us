@@ -17,6 +17,7 @@ What are telmisartan tablets?
 Telmisartan tablets are a prescription medicine used:
 
 - to treat high blood pressure (hypertension)
+- in certain high risk people aged 55 years and older to help lower their risk of having certain cardiovascular problems such as stroke, heart attack, or death
 
 It is not known if telmisartan tablets are safe and effective in children.
 
@@ -137,7 +138,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about telmisartan tablets that is written for health professionals.
 
-For more information, call Amneal Pharmaceuticals at 1-877-835-5472.
+For current prescribing information, call Amneal Pharmaceuticals at 1-877-835-5472.
 
 What are the ingredients in telmisartan tablets?
 
@@ -155,11 +156,15 @@ Medicines that lower your blood pressure lower your chance of having a stroke or
 High blood pressure makes the heart work harder to pump blood throughout the body and causes damage to the blood vessels.
 If high blood pressure is not treated, it can lead to stroke, heart attack, heart failure, kidney failure, and vision problems.
 
+What is Cardiovascular Risk?
+
+Patients older than 55 years of age who have been diagnosed with blood vessel disease in the heart, legs, or brain (coronary, peripheral, or cerebral vascular disease) or diabetes with end organ damage (for example: kidney, heart, and brain) are at higher risk of cardiovascular events (for example: death from cardiovascular causes, stroke, and/or heart attack).
+
 How to open the blister:
 
 1. Tear (You may also use scissors to tear the blister apart)
 2. Peel (Peel off the paper layer from the aluminum foil)
-3. Push (Push the tablet through the foil)
+3. Push (Push the tablet through aluminum the foil)
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -179,4 +184,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-02-2018-01
+09-2023-02

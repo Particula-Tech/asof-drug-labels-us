@@ -15,9 +15,9 @@ Adverse experiences have generally been mild and transient in nature and have in
 
 In placebo-controlled trials involving 1,041 patients treated with various doses of telmisartan (20 mg to 160 mg) monotherapy for up to 12 weeks, the overall incidence of adverse events was similar to that in patients treated with placebo.
 
-Adverse events occurring at an incidence of ≥1% in patients treated with telmisartan and at a greater rate than in patients treated with placebo, irrespective of their causal association, are presented in Table 1.
+Adverse events occurring at an incidence of ≥ 1% in patients treated with telmisartan and at a greater rate than in patients treated with placebo, irrespective of their causal association, are presented in Table 1.
 
-Table 1: Adverse Events Occurring at an Incidence of ≥1% in Patients Treated with Telmisartan and at a Greater Rate Than Patients Treated with Placebo
+Table 1: Adverse Events Occurring at an Incidence of ≥ 1% in Patients Treated with Telmisartan and at a Greater Rate Than Patients Treated with Placebo
 
 |  | Telmisartan n=1,455 % | Placebo n=380 % |
 | --- | --- | --- |
@@ -27,7 +27,7 @@ Table 1: Adverse Events Occurring at an Incidence of ≥1% in Patients Treated w
 | Diarrhea | 3 | 2 |
 | Pharyngitis | 1 | 0 |
 
-In addition to the adverse events in the table, the following events occurred at a rate of ≥1% but were at least as frequent in the placebo group: influenza-like symptoms, dyspepsia, myalgia, urinary tract infection, abdominal pain, headache, dizziness, pain, fatigue, coughing, hypertension, chest pain, nausea, and peripheral edema.
+In addition to the adverse events in the table, the following events occurred at a rate of ≥ 1% but were at least as frequent in the placebo group: influenza-like symptoms, dyspepsia, myalgia, urinary tract infection, abdominal pain, headache, dizziness, pain, fatigue, coughing, hypertension, chest pain, nausea, and peripheral edema.
 Discontinuation of therapy because of adverse events was required in 2.8% of 1,455 patients treated with telmisartan tablets and 6.1% of 380 placebo patients in placebo-controlled clinical trials.
 
 The incidence of adverse events was not dose-related and did not correlate with gender, age, or race of patients.
@@ -54,12 +54,45 @@ One telmisartan-treated patient discontinued therapy because of increases in cre
 Liver Enzymes: Occasional elevations of liver chemistries occurred in patients treated with telmisartan; all marked elevations occurred at a higher frequency with placebo.
 No telmisartan-treated patients discontinued therapy because of abnormal hepatic function.
 
-## 6.2 Postmarketing Experience
+Cardiovascular Risk Reduction
+
+Because common adverse reactions were well characterized in studies of telmisartan in hypertension, only adverse events leading to discontinuation and serious adverse events were recorded in subsequent studies of telmisartan for cardiovascular risk reduction.
+In TRANSCEND (N=5,926, 4 years and 8 months of follow-up),
+
+discontinuations for adverse events were 8.4% on telmisartan and 7.6% on placebo.
+The only serious adverse events at least 1% more common on telmisartan than placebo were intermittent claudication (7% vs 6%) and skin ulcer (3% vs 2%).
+
+## 6.2 Post-marketing Experience
 
 The following adverse reactions have been identified during post-approval use of telmisartan.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
-Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to telmisartan.
 
-The most frequent spontaneously reported events include: headache, dizziness, asthenia, coughing, nausea, fatigue, weakness, edema, face edema, lower limb edema, angioneurotic edema, urticaria, hypersensitivity, sweating increased, erythema, chest pain, atrial fibrillation, congestive heart failure, myocardial infarction, blood pressure increased, hypertension aggravated, hypotension (including postural hypotension), hyperkalemia, syncope, dyspepsia, diarrhea, pain, urinary tract infection, erectile dysfunction, back pain, abdominal pain, muscle cramps (including leg cramps), myalgia, bradycardia, eosinophilia, thrombocytopenia, uric acid increased, abnormal hepatic function/liver disorder, renal impairment including acute renal failure, anemia, increased CPK, anaphylactic reaction, tendon pain (including tendonitis, tenosynovitis), drug eruption (toxic skin eruption mostly reported as toxicoderma, rash, and urticaria), hypoglycemia (in diabetic patients), and angioedema (with fatal outcome).
+Blood and Lymphatic System Disorders: Anemia, eosinophilia, thrombocytopenia
+
+Gastrointestinal Disorders: Abdominal pain, diarrhea, dyspepsia, nausea
+
+General Disorders and Administration Site Conditions: Asthenia, chest pain, edema, face edema, fatigue, lower limb edema, pain, weakness
+
+Hepato-biliary: Abnormal hepatic function/liver disorder
+
+Immune System Disorders: Anaphylactic reaction, hypersensitivity
+
+Investigations: Increased CPK, uric acid increased
+
+Metabolism and Nutrition Disorders: Hyperkalemia, hypoglycemia (in diabetic patients), hyponatremia
+
+Musculoskeletal and Connective Tissue Disorders: Myalgia
+
+Nervous System Disorders: Dizziness, headache, syncope
+
+Renal and Urinary Disorders: Renal impairment including acute renal failure
+
+Reproductive System and Breast Disorders: Erectile dysfunction
+
+Respiratory, Thoracic and Mediastinal Disorders: Coughing
+
+Skin and Subcutaneous Tissue Disorders: Angioedema (with fatal outcome), angioneurotic edema, drug eruption (toxic skin eruption mostly reported as toxicoderma, rash and urticaria), erythema, sweating increased, urticaria
+
+Vascular Disorder: Hypotension (including postural hypotension)
 
 Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers, including telmisartan.
