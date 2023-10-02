@@ -2,9 +2,9 @@
 
 The following adverse reactions are described elsewhere in labeling:
 
-- Worsening angina or myocardial infarction [see Warnings and Precautions (5)]
-- Worsening heart failure [see Warnings and Precautions (5)]
-- Worsening AV block [see Contraindications (4)]
+- •Worsening angina or myocardial infarction [see Warnings and Precautions (5)]
+- •Worsening heart failure [see Warnings and Precautions (5)]
+- •Worsening AV block [see Contraindications (4)]
 
 ## 6.1 Clinical Trials Experience
 
