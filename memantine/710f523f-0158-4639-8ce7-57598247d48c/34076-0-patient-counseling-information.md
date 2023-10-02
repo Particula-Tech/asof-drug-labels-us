@@ -15,11 +15,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Made in Ireland.
 
-Distributed by:
-
-Allergan USA, Inc.
-
-Madison, NJ 07940
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
 Licensed from Merz Pharmaceuticals GmbH & Co.
 
@@ -27,10 +23,6 @@ NAMENDA XR® is a registered trademark of Merz Pharma GmbH & Co KGaA
 
 All other trademarks are the property of their respective owners.
 
-Allergan and its design are trademarks of Allergan, Inc.
-
-Patented.
-See www.allergan.com/patents
-
-© 2019 Allergan.
+Allergan and its design are trademarks of Allergan, Inc. Patented.
+See www.allergan.com/patents © 2019 Allergan.
 All rights reserved.
