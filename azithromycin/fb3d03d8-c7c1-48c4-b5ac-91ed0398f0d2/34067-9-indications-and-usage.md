@@ -6,33 +6,33 @@ Recommended dosages and durations of therapy in adult and pediatric patient popu
 
 ## 1.1 Adult Patients
 
-- Acute bacterial exacerbations of chronic bronchitis due to Haemophilus influenzae, Moraxella catarrhalis, or Streptococcus pneumoniae.
-- Acute bacterial sinusitis due to Haemophilus influenzae, Moraxella catarrhalis. or Streptococcus pneumoniae.
-- Community-acquired pneumonia due to Chlamydophila pneumoniae, Haemophilus influenzae, Mycoplasma pneumoniae, or Streptococcus pneumoniae in patients appropriate for oral therapy.
-- Pharyngitis/tonsillitis caused by Streptococcus pyogenes as an alternative to first-line therapy in individuals who cannot use first-line therapy.
-- Uncomplicated skin and skin structure infections due to Staphylococcus aureus, Streptococcus pyogenes, or Streptococcus agalactiae.
-- Urethritis and cervicitis due to Chlamydia trachomatis or Neisseria gonorrhoeae.
-- Genital ulcer disease in men due to Haemophilus ducreyi (chancroid).
+- •Acute bacterial exacerbations of chronic bronchitis due to Haemophilus influenzae, Moraxella catarrhalis, or Streptococcus pneumoniae.
+- •Acute bacterial sinusitis due to Haemophilus influenzae, Moraxella catarrhalis. or Streptococcus pneumoniae.
+- •Community-acquired pneumonia due to Chlamydophila pneumoniae, Haemophilus influenzae, Mycoplasma pneumoniae, or Streptococcus pneumoniae in patients appropriate for oral therapy.
+- •Pharyngitis/tonsillitis caused by Streptococcus pyogenes as an alternative to first-line therapy in individuals who cannot use first-line therapy.
+- •Uncomplicated skin and skin structure infections due to Staphylococcus aureus, Streptococcus pyogenes, or Streptococcus agalactiae.
+- •Urethritis and cervicitis due to Chlamydia trachomatis or Neisseria gonorrhoeae.
+- •Genital ulcer disease in men due to Haemophilus ducreyi (chancroid).
   Due to the small number of women included in clinical trials, the efficacy of azithromycin in the treatment of chancroid in women has not been established.
 
 ## 1.2 Pediatric Patients
 
 [see Use in Specific Populations (8.4) and Clinical Studies (14.2)]
 
-- Acute otitis media (>6 months of age) caused by Haemophilus influenzae, Moraxella catarrhalis, or Streptococcus pneumoniae.
-- Community-acquired pneumonia (>6 months of age) due to Chlamydophila pneumoniae, Haemophilus influenzae, Mycoplasma pneumoniae, or Streptococcus pneumoniae in patients appropriate for oral therapy.
-- Pharyngitis/tonsillitis (>2 years of age) caused by Streptococcus pyogenes as an alternative to first-line therapy in individuals who cannot use first-line therapy.
+- •Acute otitis media (>6 months of age) caused by Haemophilus influenzae, Moraxella catarrhalis, or Streptococcus pneumoniae.
+- •Community-acquired pneumonia (>6 months of age) due to Chlamydophila pneumoniae, Haemophilus influenzae, Mycoplasma pneumoniae, or Streptococcus pneumoniae in patients appropriate for oral therapy.
+- •Pharyngitis/tonsillitis (>2 years of age) caused by Streptococcus pyogenes as an alternative to first-line therapy in individuals who cannot use first-line therapy.
 
 ## 1.3 Limitations of Use
 
 Azithromycin should not be used in patients with pneumonia who are judged to be inappropriate for oral therapy because of moderate to severe illness or risk factors such as any of the following:
 
-- patients with cystic fibrosis,
-- patients with nosocomial infections,
-- patients with known or suspected bacteremia,
-- patients requiring hospitalization,
-- elderly or debilitated patients, or
-- patients with significant underlying health problems that may compromise their ability to respond to their illness (including immunodeficiency or functional asplenia).
+- •patients with cystic fibrosis,
+- •patients with nosocomial infections,
+- •patients with known or suspected bacteremia,
+- •patients requiring hospitalization,
+- •elderly or debilitated patients, or
+- •patients with significant underlying health problems that may compromise their ability to respond to their illness (including immunodeficiency or functional asplenia).
 
 ## 1.4 Usage
 

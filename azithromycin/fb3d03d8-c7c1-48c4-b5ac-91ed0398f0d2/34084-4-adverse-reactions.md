@@ -1,17 +1,5 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Trials Experience
-
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
-In clinical trials, most of the reported side effects were mild to moderate in severity and were reversible upon discontinuation of the drug.
-Potentially serious adverse reactions of angioedema and cholestatic jaundice were reported.
-Approximately 0.7% of the patients (adults and pediatric patients) from the 5-day multiple-dose clinical trials discontinued ZITHROMAX (azithromycin) therapy because of treatment-related adverse reactions.
-In adults given 500 mg/day for 3 days, the discontinuation rate due to treatment-related adverse reactions was 0.6%.
-In clinical trials in pediatric patients given 30 mg/kg, either as a single dose or over 3 days, discontinuation from the trials due to treatment-related adverse reactions was approximately 1%.
-Most of the adverse reactions leading to discontinuation were related to the gastrointestinal tract, e.g., nausea, vomiting, diarrhea, or abdominal pain.
-[see Clinical Studies (14.2)]
-
 Adults
 
 Multiple-dose regimens: Overall, the most common treatment-related adverse reactions in adult patients receiving multiple-dose regimens of ZITHROMAX were related to the gastrointestinal system with diarrhea/loose stools (4 to 5%), nausea (3%), and abdominal pain (2 to 3%) being the most frequently reported.
@@ -94,37 +82,6 @@ Respiratory: Cough, pharyngitis, pleural effusion, and rhinitis.
 Skin and Appendages: Eczema, fungal dermatitis, pruritus, sweating, urticaria, and vesiculobullous rash.
 
 Special Senses: Conjunctivitis.
-
-## 6.2 Postmarketing Experience
-
-The following adverse reactions have been identified during post-approval use of azithromycin.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-
-Adverse reactions reported with azithromycin during the postmarketing period in adult and/or pediatric patients for which a causal relationship may not be established include:
-
-Allergic: Arthralgia, edema, urticaria, and angioedema.
-
-Cardiovascular: Arrhythmias including ventricular tachycardia and hypotension.
-There have been reports of QT prolongation and torsades de pointes.
-
-Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea, pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and reports of tongue discoloration.
-
-General: Asthenia, paresthesia, fatigue, malaise, and anaphylaxis.
-
-Genitourinary: Interstitial nephritis and acute renal failure and vaginitis.
-
-Hematopoietic: Thrombocytopenia.
-
-Liver/Biliary: Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure.
-[see Warnings and Precautions (5.2)]
-
-Nervous System: Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation, and syncope.
-
-Psychiatric: Aggressive reaction and anxiety.
-
-Skin/Appendages: Pruritus serious skin reactions including erythema multiforme, AGEP, Stevens-Johnson Syndrome, toxic epidermal necrolysis, and DRESS.
-
-Special Senses: Hearing disturbances including hearing loss, deafness and/or tinnitus, and reports of taste/smell perversion and/or loss.
 
 ## 6.3 Laboratory Abnormalities
 

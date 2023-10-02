@@ -33,7 +33,7 @@ The health care provider should refer to the U.S. prescribing information when p
 Azithromycin is not approved for the treatment of COVID—19 or other viral infections.
 The safety of azithromycin treatment, either alone or in combination with other therapies, has not been evaluated in patients with COVID-19.
 
-- The barcode may not register accurately on the U.S. scanning systems.
+- •The barcode may not register accurately on the U.S. scanning systems.
   Institutions should manually input the product into their systems and confirm that barcode systems do not provide incorrect information when the product is scanned.
   Alternative procedures should be followed to assure that the correct drug product is being used and administered to individual patients.
 
@@ -48,8 +48,8 @@ Adverse Events, Medical Information and Product Quality Complaints To report adv
 
 Adverse reactions or quality problems experienced with the use of this product may be reported to the FDA's MedWatch Adverse Event Reporting Program either online, by regular mail, or by fax:
 
-- Complete and submit the report Online: www.fda.gov/medwatch/report.htm
-- Regular mail or Fax: download form www.fda.gov/MedWatch/getforms.htm or call 1- 800-332-1088 to request a reporting form, then complete and return to the address on the pre-addressed form, or submit by fax to 1-800-FDA-0178 (1-800-332-0178)
+- •Complete and submit the report Online: www.fda.gov/medwatch/report.htm
+- •Regular mail or Fax: download form www.fda.gov/MedWatch/getforms.htm or call 1- 800-332-1088 to request a reporting form, then complete and return to the address on the pre-addressed form, or submit by fax to 1-800-FDA-0178 (1-800-332-0178)
 
 Sincerely,
 
