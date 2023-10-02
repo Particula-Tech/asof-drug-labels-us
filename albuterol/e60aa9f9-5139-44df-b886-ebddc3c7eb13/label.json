@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA214070"
+  ],
+  "inn": "albuterol",
+  "labeler": "AstraZeneca Pharmaceuticals LP",
+  "package_ndcs": [
+    "0310-9080-12",
+    "0310-9080-28"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "albuterol sulfate and budesonide",
+      "name": "AIRSUPRA"
+    }
+  ],
+  "setid": "e60aa9f9-5139-44df-b886-ebddc3c7eb13",
+  "source": "dailymed"
+}
