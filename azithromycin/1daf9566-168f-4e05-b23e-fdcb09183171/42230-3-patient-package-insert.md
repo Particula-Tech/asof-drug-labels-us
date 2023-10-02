@@ -11,10 +11,10 @@ Zmax is dosed differently from other antibiotics.
 
 You take just one dose, one time.
 
-- Day 1: Take Zmax in one dose.
+- •Day 1: Take Zmax in one dose.
   Zmax starts working.
-- Days 2 – 3: As with most antibiotics, you may not feel better right away.
-- After Day 3: Zmax continues to work over time.
+- •Days 2 – 3: As with most antibiotics, you may not feel better right away.
+- •After Day 3: Zmax continues to work over time.
   If your symptoms are not better, call your healthcare provider.
 
 Zmax is used in adults and in children over the age of 6 months against bacteria to treat certain kinds of pneumonia (lung infections)
@@ -28,10 +28,10 @@ Zmax has not been studied in children under 6 months of age.
 
 Who should not take Zmax?
 
-- You or your child should not take Zmax if allergic to:
-  - anything in Zmax.
+- •You or your child should not take Zmax if allergic to:
+  - oanything in Zmax.
     See the end of this leaflet for a complete list of ingredients in Zmax.
-  - antibiotics like erythromycin or telithromycin (Ketek®).
+  - oantibiotics like erythromycin or telithromycin (Ketek®).
 
 Talk with your healthcare provider or pharmacist if you have questions about your medicine allergies.
 
@@ -39,12 +39,12 @@ Before you start Zmax
 
 Tell your healthcare provider about all your or your child's medical problems including if you or your child:
 
-- have liver problems.
-- have kidney problems.
-- have myasthenia gravis.
-- are pregnant, or might be pregnant.
+- •have liver problems.
+- •have kidney problems.
+- •have myasthenia gravis.
+- •are pregnant, or might be pregnant.
   It is not known if Zmax could harm your baby.
-- are breast-feeding.
+- •are breast-feeding.
 
 Contact your healthcare provider immediately if you are giving Zmax to a young child (less than 6 weeks of age) and he or she vomits or becomes irritable when fed.
 
@@ -55,41 +55,41 @@ Zmax may affect the way other medicines work, and other medicines may affect how
 
 Especially tell your healthcare provider if you take:
 
-- nelfinavir
-- a blood thinner (warfarin)
-- digoxin
-- colchicine
-- phenytoin
-- an antacid that contains aluminum or magnesium
+- •nelfinavir
+- •a blood thinner (warfarin)
+- •digoxin
+- •colchicine
+- •phenytoin
+- •an antacid that contains aluminum or magnesium
 
 Know the medicines you take.
 Keep a list of your medicines and show it to your healthcare provider or pharmacist when you get a new prescription.
 
 Do I need to prepare Zmax?
 
-- If you get Zmax in liquid form, it is ready to take.
-- If you get Zmax as dry powder, you must add water to the bottle
-- before you take it.
+- •If you get Zmax in liquid form, it is ready to take.
+- •If you get Zmax as dry powder, you must add water to the bottle
+- •before you take it.
   To prepare Zmax:
-  1. Open the bottle: To open the bottle, press down on the cap and twist.
-  2. Use a measuring cup to add 60 mL (1/4 cup) water to the Zmax bottle.
-  3. Tightly close the bottle and shake to mix it.
+  - 1.Open the bottle: To open the bottle, press down on the cap and twist.
+  - 2.Use a measuring cup to add 60 mL (1/4 cup) water to the Zmax bottle.
+  - 3.Tightly close the bottle and shake to mix it.
 
 How do I take Zmax?
 
-- Keep Zmax at room temperature between 59°F to 86°F (15° to 30°C).
-- Shake the bottle well before using.
-- Take Zmax or give it to your child within 12 hr after it has been prepared by the pharmacy or you add water to the powder.
-- Take Zmax or give it to your child exactly how your healthcare provider prescribes it.
+- •Keep Zmax at room temperature between 59°F to 86°F (15° to 30°C).
+- •Shake the bottle well before using.
+- •Take Zmax or give it to your child within 12 hr after it has been prepared by the pharmacy or you add water to the powder.
+- •Take Zmax or give it to your child exactly how your healthcare provider prescribes it.
   This will help to treat you or your child's infection and decrease the chance that Zmax or other antibiotics will not work to treat infections in the future.
-- Adults: take all the medicine in the bottle.
-- Children: give your child the amount of Zmax prescribed by your healthcare provider and throw away the rest of the medicine.
-- To be sure that you give your child the right dose of Zmax, use a dosing spoon, medicine syringe, or cup.
-- Take Zmax on an empty stomach (at least 1 hr before eating or 2 hr after eating).
-- You can take antacids with Zmax.
-- If you or your child throws up (vomits) within one hr of taking Zmax, call your healthcare provider right away to see if more medicine is needed.
+- •Adults: take all the medicine in the bottle.
+- •Children: give your child the amount of Zmax prescribed by your healthcare provider and throw away the rest of the medicine.
+- •To be sure that you give your child the right dose of Zmax, use a dosing spoon, medicine syringe, or cup.
+- •Take Zmax on an empty stomach (at least 1 hr before eating or 2 hr after eating).
+- •You can take antacids with Zmax.
+- •If you or your child throws up (vomits) within one hr of taking Zmax, call your healthcare provider right away to see if more medicine is needed.
   Do not give your child more Zmax unless your healthcare provider tells you to.
-- If your child takes too much Zmax, call your healthcare provider right away or go to the nearest hospital emergency room.
+- •If your child takes too much Zmax, call your healthcare provider right away or go to the nearest hospital emergency room.
 
 How will I know Zmax is working?
 
@@ -102,41 +102,41 @@ Zmax may cause serious side effects.
 These happened in a small number of patients.
 Call your healthcare provider right away or get emergency treatment if you or your child have any of the following:
 
-- Serious allergic reaction or serious skin reaction: Get emergency help right away if you or your child has:
-  - Skin rash (hives), sores in your mouth, or your skin blisters and peels
-  - Trouble swallowing,
-  - Swelling of your face, eyes, lips, tongue or throat
-  - Wheezing or trouble breathing
-  - New onset of fever and swollen lymph nodes
+- •Serious allergic reaction or serious skin reaction: Get emergency help right away if you or your child has:
+  - oSkin rash (hives), sores in your mouth, or your skin blisters and peels
+  - oTrouble swallowing,
+  - oSwelling of your face, eyes, lips, tongue or throat
+  - oWheezing or trouble breathing
+  - oNew onset of fever and swollen lymph nodes
 
 These symptoms could go away and then come back.
 
-- Diarrhea: Call your healthcare provider right away if you have diarrhea that does not go away, is severe, watery, or has blood in it.
+- •Diarrhea: Call your healthcare provider right away if you have diarrhea that does not go away, is severe, watery, or has blood in it.
   Diarrhea can occur as late as two or more months after you take an antibiotic such as Zmax.
-- Serious heart rhythm changes that can be life-threatening, including heart stopping (cardiac arrest), QT prolongation, torsades de pointes, feeling that your heart is pounding or racing (palpitations), chest discomfort, or irregular heartbeat: Tell your healthcare provider right away if you or your child feel a fast or irregular heartbeat, get dizzy or faint.
+- •Serious heart rhythm changes that can be life-threatening, including heart stopping (cardiac arrest), QT prolongation, torsades de pointes, feeling that your heart is pounding or racing (palpitations), chest discomfort, or irregular heartbeat: Tell your healthcare provider right away if you or your child feel a fast or irregular heartbeat, get dizzy or faint.
   This has been seen with other antibiotics like Zmax.
   Zmax may cause a rare heart problem known as prolongation of the QT interval.
   This condition can cause an abnormal heartbeat and can be very dangerous.
   The chances of this happening are higher in people:
-  - who are elderly
-  - with a family history of prolonged QT interval
-  - with low blood potassium
-  - who take certain medicines to control heart rhythm (antiarrhythmics)
+  - owho are elderly
+  - owith a family history of prolonged QT interval
+  - owith low blood potassium
+  - owho take certain medicines to control heart rhythm (antiarrhythmics)
 
 The most common side effects in adults are:
 
-- Diarrhea/loose stools
-- Nausea
-- Stomach pain
-- Headache
-- Vomiting
+- •Diarrhea/loose stools
+- •Nausea
+- •Stomach pain
+- •Headache
+- •Vomiting
 
 The most common side effects in children are:
 
-- Vomiting
-- Diarrhea/loose stools
-- Nausea
-- Stomach pain
+- •Vomiting
+- •Diarrhea/loose stools
+- •Nausea
+- •Stomach pain
 
 Tell your healthcare provider if you have any side effects that bother your or your child, or that does not go away.
 

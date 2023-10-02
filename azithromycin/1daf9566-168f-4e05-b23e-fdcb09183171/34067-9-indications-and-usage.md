@@ -15,12 +15,12 @@ Pediatric use in this indication is based on extrapolation of adult efficacy.
 
 Zmax is not recommended for use in patients with pneumonia who are judged to be inappropriate for oral therapy because of moderate to severe illness or risk factors such as any of the following:
 
-- patients with cystic fibrosis,
-- patients with nosocomial infections,
-- patients with known or suspected bacteremia,
-- patients requiring hospitalization,
-- elderly or debilitated patients, or
-- patients with significant underlying health problems that may compromise their ability to respond to their illness (including immunodeficiency or functional asplenia).
+- •patients with cystic fibrosis,
+- •patients with nosocomial infections,
+- •patients with known or suspected bacteremia,
+- •patients requiring hospitalization,
+- •elderly or debilitated patients, or
+- •patients with significant underlying health problems that may compromise their ability to respond to their illness (including immunodeficiency or functional asplenia).
 
 ## 1.3 Usage
 
