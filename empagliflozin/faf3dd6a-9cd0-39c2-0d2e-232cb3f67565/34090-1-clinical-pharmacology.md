@@ -6,7 +6,7 @@ Empagliflozin is an inhibitor of SGLT2, the predominant transporter responsible 
 By inhibiting SGLT2, empagliflozin reduces renal reabsorption of filtered glucose and lowers the renal threshold for glucose, and thereby increases urinary glucose excretion.
 
 Empagliflozin also reduces sodium reabsorption and increases the delivery of sodium to the distal tubule.
-This may influence several physiological functions such as lowering both pre- and afterload of the heart and downregulating sympathetic activity.
+This may influence several physiological functions including, but not restricted to, increasing tubuloglomerular feedback and reducing intraglomerular pressure, lowering both pre- and afterload of the heart and downregulating sympathetic activity.
 
 ## 12.2 Pharmacodynamics
 
@@ -35,7 +35,6 @@ Following once-daily dosing, up to 22% accumulation, with respect to plasma AUC,
 Absorption
 
 After oral administration, peak plasma concentrations of empagliflozin were reached at 1.5 hours post-dose.
-
 Administration of 25 mg empagliflozin after intake of a high-fat and high-calorie meal resulted in slightly lower exposure; AUC decreased by approximately 16% and Cmax decreased by approximately 37%, compared to fasted condition.
 The observed effect of food on empagliflozin pharmacokinetics was not considered clinically relevant and empagliflozin may be administered with or without food.
 

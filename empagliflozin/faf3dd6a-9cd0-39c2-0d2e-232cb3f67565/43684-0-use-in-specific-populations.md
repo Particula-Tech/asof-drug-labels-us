@@ -63,7 +63,13 @@ The safety and effectiveness of JARDIANCE as an adjunct to diet and exercise to 
 Use of JARDIANCE for this indication is supported by evidence from a 26-week double-blind, placebo-controlled clinical trial, with a double-blind active treatment safety extension period of up to 52 weeks in 157 pediatric patients aged 10 to 17 years with type 2 diabetes mellitus and a pediatric pharmacokinetic study [see Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
 The safety profile of pediatric patients treated with JARDIANCE was similar to that observed in adults with type 2 diabetes mellitus, with the exception of hypoglycemia risk which was higher in pediatric patients treated with JARDIANCE regardless of concomitant insulin use [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
 
-The safety and effectiveness of JARDIANCE have not been established in pediatric patients less than 10 years of age.
+The safety and effectiveness of JARDIANCE have not been established in pediatric patients less than 10 years of age as an adjunct to diet and exercise to improve glycemic control in type 2 diabetes mellitus.
+
+The safety and effectiveness of JARDIANCE have not been established in pediatric patients to reduce the risk of:
+
+- cardiovascular death and hospitalization for heart failure in patients with heart failure.
+- sustained decline in eGFR, end-stage kidney disease, cardiovascular death, and hospitalization in patients with chronic kidney disease at risk of progression.
+- cardiovascular death in patients with type 2 diabetes mellitus and established cardiovascular disease.
 
 ## 8.5 Geriatric Use
 
@@ -72,29 +78,24 @@ JARDIANCE is expected to have diminished glycemic efficacy in elderly patients w
 The risk of volume depletion-related adverse reactions increased in patients who were 75 years of age and older to 2.1%, 2.3%, and 4.4% for placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg.
 The risk of urinary tract infections increased in patients who were 75 years of age and older to 10.5%, 15.7%, and 15.1% in patients randomized to placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
-In heart failure trials, EMPEROR-Reduced included 1,188 (64%) patients treated with JARDIANCE 65 years of age and older, and 503 (27%) patients 75 years of age and older.
+In the EMPEROR-Reduced, EMPEROR-Preserved, and EMPA-KIDNEY trials, no overall differences in safety and effectiveness have been observed between patients 65 years of age and older and younger adult patients.
+EMPEROR-Reduced included 1,188 (64%) patients treated with JARDIANCE 65 years of age and older, and 503 (27%) patients 75 years of age and older.
 EMPEROR-Preserved included 2,402 (80%) patients treated with JARDIANCE 65 years of age and older, and 1,281 (43%) patients 75 years of age and older.
-No overall differences in safety and effectiveness have been observed between patients 65 years of age and older and younger adult patients.
+EMPA-KIDNEY included 2,089 (32%) patients treated with JARDIANCE 65 years of age and older, and 1,518 (23%) patients 75 years of age and older.
 
 ## 8.6 Renal Impairment
 
-The efficacy and safety of JARDIANCE for glycemic control were evaluated in a study of adult patients with type 2 diabetes mellitus with mild and moderate renal impairment (eGFR 30 to less than 90 mL/min/1.73 m2) [see Clinical Studies (14.1)].
-In this study, 195 adult patients exposed to JARDIANCE had an eGFR between 60 and 90 mL/min/1.73 m2, 91 adult patients exposed to JARDIANCE had an eGFR between 45 and 60 mL/min/1.73 m2, and 97 patients exposed to JARDIANCE had an eGFR between 30 and 45 mL/min/1.73 m2.
+The efficacy and safety of JARDIANCE for glycemic control were evaluated in a trial of adult patients with type 2 diabetes mellitus with mild and moderate renal impairment (eGFR 30 to less than 90 mL/min/1.73 m2) [see Clinical Studies (14.1)].
+In this trial, 195 adult patients exposed to JARDIANCE had an eGFR between 60 and 90 mL/min/1.73 m2, 91 adult patients exposed to JARDIANCE had an eGFR between 45 and 60 mL/min/1.73 m2, and 97 patients exposed to JARDIANCE had an eGFR between 30 and 45 mL/min/1.73 m2.
 The glucose lowering benefit of JARDIANCE 25 mg decreased in adult patients with worsening renal function.
 The risks of renal impairment, volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function [see Warnings and Precautions (5.2)].
 Use of JARDIANCE for glycemic control in patients without established cardiovascular disease or cardiovascular risk factors is not recommended when eGFR is less than 30 mL/min/1.73 m2.
 
-In a large cardiovascular outcomes study of adult patients with type 2 diabetes mellitus and established cardiovascular disease, there were 1,819 patients with eGFR below 60 mL/min/1.73 m2.
-The cardiovascular death findings in this subgroup were consistent with the overall findings [see Clinical Studies (14.3)].
+JARDIANCE was evaluated in 7,020 adult patients with type 2 diabetes and established cardiovascular disease (eGFR greater than or equal to 30 mL/min/1.73 m2) in the EMPA-REG OUTCOME trial, in a total of 9,718 patients with heart failure (eGFR greater than or equal to 20 mL/min/1.73 m2) in the EMPEROR-Reduced and EMPEROR-Preserved trials, and in 6,609 adult patients with chronic kidney disease (eGFR 20 to 90 mL/min/1.73 m2) in the EMPA-KIDNEY study.
+The safety profile across eGFR subgroups in these trials was consistent with the known safety profile [see Adverse Reactions (6.1) and Clinical Studies (14.3, 14.4, 14.5)].
 
-Studies of adult patients with heart failure [see Clinical Studies (14.4)] enrolled patients with eGFR equal to or above 20 mL/min/1.73 m2.
-No dosage adjustment is recommended for these patients.
-There are insufficient data to support a dosing recommendation in patients with eGFR below 20 mL/min/1.73 m2.
-
-Efficacy and safety trials with JARDIANCE did not enroll adult patients with an eGFR less than 20 mL/min/1.73 m2.
-JARDIANCE is contraindicated in patients on dialysis [see Contraindications (4)].
-
-In the trial of pediatric patients aged 10 to 17 years with type 2 diabetes mellitus, patients with an eGFR less than 60 mL/min/1.73 m2 were not enrolled.
+Efficacy and safety trials with JARDIANCE did not enroll adult patients with an eGFR less than 20 mL/min/1.73 m2 or on dialysis.
+Once enrolled, adult patients in the EMPA-REG OUTCOME, EMPEROR-Reduced, EMPEROR-Preserved, and EMPA-KIDNEY trials were not required to discontinue therapy for worsening of eGFR to less than 20 mL/min/1.73 m2 or initiation of dialysis [see Clinical Studies (14.3, 14.4, 14.5)].
 
 ## 8.7 Hepatic Impairment
 

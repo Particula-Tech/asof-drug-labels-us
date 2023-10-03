@@ -66,7 +66,22 @@ JARDIANCE increases the risk for genital mycotic infections [see Adverse Reactio
 Patients with a history of chronic or recurrent genital mycotic infections were more likely to develop genital mycotic infections.
 Monitor and treat as appropriate.
 
-## 5.7 Hypersensitivity Reactions
+## 5.7 Lower Limb Amputation
+
+In some clinical studies with SGLT2 inhibitors an imbalance in the incidence of lower limb amputation has been observed.
+Across four JARDIANCE outcome trials, lower limb amputation event rates were 4.3 and 5.0 events per 1,000 patient-years in the placebo group and the JARDIANCE 10 mg or 25 mg dose group, respectively, with a HR of 1.05 (95 % CI) (0.81, 1.36).
+
+In a long-term cardio-renal outcome trial [see Clinical Studies 14.5], in patients with chronic kidney disease, the occurrence of lower limb amputations was reported with event rates of 2.9, and 4.3 events per 1000 patient-years in the placebo, and JARDIANCE 10 mg treatment arms, respectively.
+Amputation of the toe and mid-foot were most frequent (21 out of 28 JARDIANCE 10 mg treated patients with lower limb amputations), and some involving above and below the knee.
+Some patients had multiple amputations.
+
+Peripheral artery disease, and diabetic foot infection (including osteomyelitis), were the most common precipitating medical events leading to the need for an amputation.
+The risk of amputation was highest in patients with a baseline history of diabetic foot, peripheral artery disease (including previous amputation) or diabetes.
+
+Counsel patients about the importance of routine preventative foot care.
+Monitor patients receiving JARDIANCE for signs and symptoms of diabetic foot infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and institute appropriate treatment.
+
+## 5.8 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions (e.g., angioedema) in patients treated with JARDIANCE.
 If a hypersensitivity reaction occurs, discontinue JARDIANCE; treat promptly per standard of care, and monitor until signs and symptoms resolve.

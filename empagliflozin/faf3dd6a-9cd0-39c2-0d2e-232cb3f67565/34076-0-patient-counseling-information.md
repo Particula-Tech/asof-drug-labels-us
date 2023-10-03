@@ -46,10 +46,15 @@ Inform male patients that yeast infection of the penis (e.g., balanitis or balan
 Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
 Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.6)].
 
+Lower Limb Amputation
+
+Counsel patients about the importance of routine preventative foot care.
+Instruct patients to monitor for new pain or tenderness, sores or ulcers, or infections involving the leg or foot and to seek medical advice immediately if such signs or symptoms develop [see Warnings and Precautions (5.7)].
+
 Hypersensitivity Reactions
 
 Inform patients that serious hypersensitivity reactions, such as urticaria and angioedema, have been reported with JARDIANCE.
-Advise patients to report immediately any skin reaction or angioedema, and to discontinue drug until they have consulted prescribing healthcare provider [see Warnings and Precautions (5.7)].
+Advise patients to report immediately any skin reaction or angioedema, and to discontinue drug until they have consulted prescribing healthcare provider [see Warnings and Precautions (5.8)].
 
 Laboratory Tests
 

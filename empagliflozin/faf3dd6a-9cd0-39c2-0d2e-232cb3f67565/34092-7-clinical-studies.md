@@ -299,7 +299,7 @@ Approximately 25% of the study population had microalbuminuria or macroalbuminur
 
 At Week 26, treatment with JARDIANCE was superior in reducing HbA1c from baseline versus placebo (see Table 14).
 
-Table 14 Results at Week 26 for a Placebo-Controlled Trial for JARDIANCE in Combination with Metformin and/or Insulin or as Monotherapy in Pediatric Patients Aged 10 to 17 years with Type 2 Diabetes Mellitusa
+Table 14 Results at Week 26 for a Placebo-Controlled Trial for JARDIANCE in Combination with Metformin and/or Insulin or as Monotherapy in Pediatric Patients Aged 10 to 17 Years with Type 2 Diabetes Mellitusa
 
 |  | JARDIANCE 10 mg and 25 mg | Placebo |
 | --- | --- | --- |
@@ -368,13 +368,13 @@ EMPEROR-Reduced (NCT03057977) was a double-blind trial conducted in adults with 
 
 Of 3,730 patients, 1,863 were randomized to JARDIANCE 10 mg and 1,867 to placebo and were followed for a median of 16 months.
 The mean age of the trial population was 67 years (range: 25 to 94 years) and 76% were men, 24% were women, and 27% were 75 years of age or older.
-Approximately 71% of the trial population were White, 18% Asian and 7% Black or African American.
+Approximately 71% of the trial population were White, 18% Asian, and 7% Black or African American.
 At baseline, 50% of the patients had type 2 diabetes mellitus.
 
-At randomization, 75% of patients were NYHA class II, 24% were class III and 0.5% were class IV.
+At randomization, 75% of patients were NYHA class II, 24% were class III, and 0.5% were class IV.
 The mean LVEF was 28%.
 At baseline, the mean eGFR was 62 mL/min/1.73 m2 and the median urinary albumin to creatinine ratio (UACR) was 22 mg/g.
-Approximately half of the patients (52%) had eGFR equal to or above 60 mL/min/1.73 m2, 24% had eGFR 45 to less than 60 mL/min/1.73 m2, 19% had eGFR 30 to less than 45 mL/min/1.73 m2 and 5% had eGFR 20 to less than 30 mL/min/1.73 m2.
+Approximately half of the patients (52%) had eGFR equal to or above 60 mL/min/1.73 m2, 24% had eGFR 45 to less than 60 mL/min/1.73 m2, 19% had eGFR 30 to less than 45 mL/min/1.73 m2, and 5% had eGFR 20 to less than 30 mL/min/1.73 m2.
 
 At baseline, 88% of patients were treated with angiotensin-converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARB), or angiotensin receptor-neprilysin inhibitors (ARNI), 95% with beta-blockers, 71% with mineralocorticoid receptor antagonists (MRA), and 95% with diuretics.
 
@@ -407,13 +407,13 @@ Figure 9 Treatment Effects for the Primary Composite Endpoint (CV Death and Hosp
 LVEF >30%: Includes both above and below the median NT-proBNP.
 To be eligible for inclusion, patients with an LVEF >30% were required to meet a higher NT-proBNP threshold than those with LVEF ≤30%, unless they additionally had a history of HHF within the past 12 months.
 
-EMPEROR-Preserved (NCT03057951) was a double-blind trial conducted in patients with chronic heart failure NYHA Class II-IV with LVEF >40% to evaluate the efficacy of JARDIANCE as adjunct to standard of care therapy.
+EMPEROR-Preserved (NCT03057951) was a double-blind trial conducted in adults with chronic heart failure NYHA Class II-IV with LVEF >40% to evaluate the efficacy of JARDIANCE as adjunct to standard of care therapy.
 
 Of 5,988 patients, 2,997 were randomized to JARDIANCE 10 mg and 2,991 to placebo and were followed for a median of 26 months.
 The mean age of the trial population was 72 years (range: 22 to 100 years) and 55% were men, 45% were women, and 43% were 75 years of age or older.
-Approximately 76% of the trial population were White, 14% Asian and 4% Black or African American.
+Approximately 76% of the trial population were White, 14% Asian, and 4% Black or African American.
 
-At randomization, 82% of patients were NYHA class II, 18% were class III and 0.3% were class IV.
+At randomization, 82% of patients were NYHA class II, 18% were class III, and 0.3% were class IV.
 The EMPEROR-Preserved trial population included patients with a LVEF <50% (33.1%), with a LVEF 50 to <60% (34.4%) and a LVEF ≥60% (32.5%).
 At baseline, the mean eGFR was 61 mL/min/1.73 m2 and the median urinary albumin to creatinine ratio (UACR) was 21 mg/g.
 Approximately half of the patients (50%) had eGFR equal to or above 60 mL/min/1.73 m2, 26% had eGFR 45 to less than 60 mL/min/1.73 m2, 19% had eGFR 30 to less than 45 mL/min/1.73 m2, and 5% had eGFR 20 to less than 30 mL/min/1.73 m2.
@@ -445,3 +445,53 @@ Figure 11 Time to Event of Hospitalization for Heart Failure (First and Recurren
 The results of the primary composite endpoint were consistent across the pre-specified subgroups (see Figure 12).
 
 Figure 12 Treatment Effects for the Primary Composite Endpoint (CV Death or Hospitalization for Heart Failure) Subgroup Analysis (EMPEROR-Preserved)
+
+## 14.5 Chronic Kidney Disease Trial in Adults
+
+EMPA-KIDNEY (NCT03594110) was a randomized, double-blind, placebo-controlled trial conducted in adults with chronic kidney disease (eGFR ≥20 to <45 mL/min/1.73 m2; or eGFR ≥45 to <90 mL/min/1.73 m2 with urine albumin to creatinine ratio [UACR] ≥200 mg/g).
+The trial excluded patients with polycystic kidney disease or patients requiring intravenous immunosuppressive therapy in the preceding three months or >45 mg of prednisone (or equivalent) at the time of screening.
+The primary objective of the trial was to assess the effects of empagliflozin as an adjunct to standard of care therapy, including RAS-inhibitor therapy when appropriate, on time to kidney disease progression or cardiovascular death.
+
+A total of 6,609 patients, were equally randomized to JARDIANCE 10 mg or placebo and were followed for a median of 24 months.
+
+The mean age of the study population was 63 years (range: 18 to 94 years) and 67% were male.
+Approximately 58% of the study population were White, 36% Asian, and 4% Black or African American.
+Approximately 44% of the patients had type 2 diabetes mellitus.
+
+At baseline, the mean eGFR was 37 mL/min/1.73 m2, 21% of patients had an eGFR equal to or above 45 mL/min/1.73 m2, 44% had an eGFR 30 to less than 45 mL/min/1.73 m2, and 35% had an eGFR less than 30 mL/min/1.73 m2.
+The median UACR was 329 mg/g, 20% of patients had a UACR <30 mg/g, 28% had a UACR 30 to ≤300mg/g, and 52% had a UACR >300 mg/g.
+Approximately 1% of patients had type 1 diabetes at baseline.
+The most common etiologies of CKD were diabetic nephropathy/diabetic kidney disease (31%), glomerular disease (25%), hypertensive/renovascular disease (22%) and other/unknown (22%).
+
+At baseline, 85% of patients were treated with ACE inhibitor or ARB, 64% with statins, and 34% with antiplatelet agents.
+
+JARDIANCE was superior to placebo in reducing the risk of the primary composite endpoint of sustained ≥40% eGFR decline, sustained eGFR <10 mL/min/1.73 m2, progression to end-stage kidney disease, or CV or renal death.
+The treatment effect reflected a reduction in a sustained ≥40% eGFR decline, sustained eGFR <10 mL/min/1.73 m2, progression to end-stage kidney disease, and CV death.
+There were few renal deaths during the trial.
+JARDIANCE also reduced the risk of first and recurrent hospitalization (see Table 18 and Figure 13); information collected on the reason for hospitalization was insufficient to further characterize the benefit.
+
+Table 18 Treatment Effect for the Primary Composite Endpoint, its Components and Key Secondary Endpoints
+
+|  | Placebo N=3,305 | JARDIANCE 10 mg N=3,304 | Hazard ratio vs placebo (95% CI) | p-value |
+| --- | --- | --- | --- | --- |
+|  | Number of Patients (%) |  |  |  |
+| Composite of sustained ≥40% eGFR decline, sustained eGFR <10 mL/min/1.73 m2, ESKDa, or CV or renal death (time to first occurrence) | 558 (16.9) | 432 (13.1) | 0.72 (0.64, 0.82) | <0.0001 |
+| Sustained ≥40% eGFR decline | 474 (14.3) | 359 (10.9) | 0.70 (0.61, 0.81) |  |
+| ESKDa or sustained eGFR <10 mL/min/1.73 m2 | 221 (6.7) | 157 (4.8) | 0.69 (0.56, 0.84) |  |
+| Renal deathb | 4 (0.1) | 4 (0.1) |  |  |
+| CV death | 69 (2.1) | 59 (1.8) | 0.84 (0.60, 1.19) |  |
+|  | Number of Events |  |  |  |
+| First and recurrent hospitalization c | 1,895 | 1,611 | 0.86 (0.78, 0.95) | 0.0025 |
+| CV=Cardiovascular, eGFR=Estimated glomerular filtration rate, ESKD=End-stage kidney disease |  |  |  |  |
+| aESKD is defined as the initiation of maintenance dialysis or receipt of a kidney transplant. |  |  |  |  |
+| bThere were too few events of renal death to compute a reliable hazard ratio. |  |  |  |  |
+| cInformation collected on the reason for hospitalization was insufficient to further characterize the benefit. |  |  |  |  |
+
+Figure 13 Time to First Occurrence of the Primary Composite Endpoint, Sustained ≥40% eGFR Decline, Sustained eGFR <10 mL/min/1.73 m2, ESKD or Renal Death, or CV Death
+
+The results of the primary composite endpoint were generally consistent across the pre-specified subgroups examined, including eGFR categories, underlying cause of kidney disease, diabetes status, or background use of RAS inhibitors (see Figure 14).
+The treatment benefit with JARDIANCE on the primary composite endpoint was not evident in patients with very low levels of albuminuria, however there were few events in these patients.
+
+Figure 14 Treatment Effects for the Primary Composite Endpoint (Sustained ≥40% eGFR Decline, Sustained eGFR <10 mL/min/1.73 m2, ESKD or Renal Death, or CV Death) Subgroup Analysis (EMPA-KIDNEY)
+
+*=Trend test

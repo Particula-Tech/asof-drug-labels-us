@@ -8,13 +8,13 @@ The following important adverse reactions are described below and elsewhere in t
 - Hypoglycemia [see Warnings and Precautions (5.4)]
 - Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.5)]
 - Genital Mycotic Infections [see Warnings and Precautions (5.6)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-JARDIANCE has been evaluated in clinical trials in adult and pediatric patients aged 10 to 17 years with type 2 diabetes mellitus and in adults with heart failure.
+JARDIANCE has been evaluated in clinical trials in adult and pediatric patients aged 10 to 17 years with type 2 diabetes mellitus, in adults with heart failure, and in adults with chronic kidney disease.
 The overall safety profile of JARDIANCE was generally consistent across the studied indications.
 
 Clinical Trials in Adults with Type 2 Diabetes Mellitus
@@ -116,9 +116,12 @@ No severe hypoglycemic events occurred (severe hypoglycemia was defined as an ev
 
 Clinical Trials in Adults with Heart Failure
 
-The EMPEROR-Reduced trial included 3,730 adult patients with heart failure and left ventricular ejection fraction (LVEF) ≤40% followed for a median of 16 months, and EMPEROR-Preserved included 5,988 patients with heart failure and LVEF >40% followed for a median of 26 months.
-In both trials, patients were randomized to JARDIANCE 10 mg or placebo.
-The safety profile in patients with heart failure was generally consistent with that observed in patients with type 2 diabetes mellitus.
+No new adverse reactions were identified in EMPEROR-Reduced or EMPEROR-Preserved heart failure trials.
+
+Clinical Trial in Adults with Chronic Kidney Disease
+
+The safety profile in patients with chronic kidney disease was generally consistent with that observed across the studied indications.
+In a long-term cardio-renal outcome trial [see Clinical Studies 14.5], in patients with chronic kidney disease, the occurrence of lower limb amputations was reported with event rates of 2.9, and 4.3 events per 1,000 patient-years in the placebo, and JARDIANCE 10 mg treatment arms, respectively [see Warnings and Precautions (5.7)].
 
 Laboratory Test Abnormalities in Clinical Trials
 
