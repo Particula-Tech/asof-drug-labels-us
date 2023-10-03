@@ -32,7 +32,7 @@ Mean (Standard Deviation) Pharmacokinetic Parameters of Linezolid in Adults
 | single dose | 11.00 (2.76) | --- | 0.97 (0.88) | 80.80 (35.10) | 4.60 (1.71) | 141 (45) |
 
 Figure 1.
-Plasma Concentrations of Linezolid in Adults at Steady-State Following Oral Dosing Every 12 Hours (Mean ±Standard Deviation, n=16)
+Plasma Concentrations of Linezolid in Adults at Steady-State Following Oral Dosing Every 12 Hours (Mean ± Standard Deviation, n=16)
 
 Absorption
 
