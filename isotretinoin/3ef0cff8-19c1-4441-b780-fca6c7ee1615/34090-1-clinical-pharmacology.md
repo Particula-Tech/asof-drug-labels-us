@@ -19,19 +19,21 @@ Absorption Following ABSORICA Administration
 
 The ABSORICA mean Tmax was 6.4 hours under fed conditions and 2.9 hours under fasting conditions following administration of a single 40 mg dose.
 
-- Effect on Food
-- No clinically significant differences in ABSORICA pharmacokinetics were observed following administration with a modified high-fat, high-calorie meal (123.2 calories from protein, 265.6 calories from carbohydrates, and 468 calories from fat; total calories 857 calories) with reduced vitamin A content.
-  The mean AUC0-t and Cmax of isotretinoin were 6095 ng*hr/mL and 369 ng/mL, respectively, following administration of a single 40 mg ABSORICA dose under fed conditions; which were approximately 50% and 26% higher, respectively, compared to fasting conditions.
-  However, ABSORICA may be given with or without meals [see Dosage and Administration (2.1)].
+Effect on Food
+
+No clinically significant differences in ABSORICA pharmacokinetics were observed following administration with a modified high-fat, high-calorie meal (123.2 calories from protein, 265.6 calories from carbohydrates, and 468 calories from fat; total calories 857 calories) with reduced vitamin A content.
+The mean AUC0-t and Cmax of isotretinoin were 6095 ng*hr/mL and 369 ng/mL, respectively, following administration of a single 40 mg ABSORICA dose under fed conditions; which were approximately 50% and 26% higher, respectively, compared to fasting conditions.
+However, ABSORICA may be given with or without meals [see Dosage and Administration (2.1)].
 
 Absorption Following ABSORICA LD Administration
 
 The ABSORICA LD median Tmax was 5 hours under fed conditions and 3.5 hours under fasting conditions following administration of a single 32 mg dose.
 
-- Effect on Food
-- No clinically significant differences in ABSORICA LD pharmacokinetics were observed following administration with a high-fat, high-calorie meal (150 calories from protein, 250 calories from carbohydrates, and 500 calories from fat; total calories 900 calories).
-  The mean AUC0-t and Cmax of isotretinoin were 10209 ng*hr/mL and 646 ng/mL, respectively, following administration of a single 32 mg ABSORICA LD dose under fed conditions; which were approximately 20% and 6% higher, respectively, compared to fasting conditions.
-  However, ABSORICA LD may be given with or without meals [see Dosage and Administration (2.1)].
+Effect on Food
+
+No clinically significant differences in ABSORICA LD pharmacokinetics were observed following administration with a high-fat, high-calorie meal (150 calories from protein, 250 calories from carbohydrates, and 500 calories from fat; total calories 900 calories).
+The mean AUC0-t and Cmax of isotretinoin were 10209 ng*hr/mL and 646 ng/mL, respectively, following administration of a single 32 mg ABSORICA LD dose under fed conditions; which were approximately 20% and 6% higher, respectively, compared to fasting conditions.
+However, ABSORICA LD may be given with or without meals [see Dosage and Administration (2.1)].
 
 Distribution
 
@@ -41,8 +43,9 @@ Elimination
 
 The mean elimination half-lives of isotretinoin and its 4-oxo-isotretinoin metabolite were:
 
-- •18 hours and 38 hours, respectively, after a single oral ABSORICA 40 mg dose.
-- •Approximately 24 hours and 38 hours, respectively, after a single oral ABSORICA LD 32 mg dose.
+•18 hours and 38 hours, respectively, after a single oral ABSORICA 40 mg dose.
+
+•Approximately 24 hours and 38 hours, respectively, after a single oral ABSORICA LD 32 mg dose.
 
 Metabolism: Isotretinoin is primarily metabolized by CYP2C8, 2C9, 3A4, and 2B6 in vitro.
 Isotretinoin and its metabolites are further metabolized into conjugates.

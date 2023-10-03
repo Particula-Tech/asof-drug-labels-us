@@ -60,7 +60,7 @@ Micro-dosed progesterone preparations (“minipills” that do not contain an es
 | •Male vasectomy | •male latex condom with or without spermicide |
 | •Intrauterine device | •diaphragm with spermicide |
 | •Hormonal (combination oral contraceptives, vaginal systems, vaginal inserts, transdermal systems, injections, or implants) | •cervical cap with spermicide |
-| Other: •Vaginal sponge (contains spermicide) |  |
+| Other:•Vaginal sponge (contains spermicide) |  |
 
 Any birth control method can fail.
 There have been reports of pregnancy from patients who have used combination oral contraceptives, as well as contraceptive vaginal systems, vaginal inserts, transdermal systems, and injections; these pregnancies occurred while taking isotretinoin.

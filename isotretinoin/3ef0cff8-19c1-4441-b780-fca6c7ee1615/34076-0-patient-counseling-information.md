@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Embryo-Fetal Toxicity
 
-There is an extremely high risk of severe birth defects when ABSORICA/ABSORICA LD is used in pregnancy [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+There is an extremely high risk of life-threatening birth defects when ABSORICA/ABSORICA LD is used in pregnancy [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
 Instruct patients who can become pregnant that they must not be pregnant during or up to one month after ABSORICA/ABSORICA LD therapy.
 Instruct patients to not donate blood during ABSORICA/ABSORICA LD therapy and for 1 month following discontinuation to avoid blood donation to a pregnant patient.
 
@@ -92,6 +92,6 @@ Inform patients:
 
 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 
-ABSORICA and ABSORICA LD are trademarks of Sun Pharmaceutical Industries, Inc. All other trademarks are property of their respective owners.
+ABSORICA and ABSORICA LD are registered trademarks of Sun Pharmaceutical Industries, Inc. All other trademarks are property of their respective owners.
 
 ABSORICA LD 8 mg, 16 mg, 20 mg, 24 mg, 28 mg and 32 mg is protected by US Patent No. US 9,700,535 and US 9,750,711.

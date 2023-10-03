@@ -4,7 +4,7 @@
 
 ABSORICA/ABSORICA LD is contraindicated in pregnancy [see Contraindications (4.1)].
 Based on human data, ABSORICA/ABSORICA LD can cause fetal harm when administered to a pregnant patient.
-There is an extremely high risk that severe birth defects will result if pregnancy occurs while taking any amount of ABSORICA/ABSORICA LD even for short periods of time.
+There is an extremely high risk that life-threatening birth defects will result if pregnancy occurs while taking any amount of ABSORICA/ABSORICA LD even for short periods of time.
 Potentially any fetus exposed during pregnancy can be affected.
 There are no accurate means of determining prenatally whether an exposed fetus has been affected.
 Major congenital malformations, spontaneous abortions, and premature births have been documented following exposure to isotretinoin during pregnancy [see Use in Specific Populations (8.1)].
@@ -21,20 +21,16 @@ ABSORICA/ABSORICA LD is available only through a restricted program under a REMS
 ABSORICA/ABSORICA LD are available only through a restricted program under a REMS called the iPLEDGE REMS because of the risk of embryo-fetal toxicity [see Warnings and Precautions (5.1)].
 Notable requirements of the iPLEDGE REMS include the following:
 
-- •Prescribers must be certified with the program and comply with the following requirements:
-  - •Determine reproductive status of all patients prior to initiating treatment
-  - •Provide contraception counseling to patients who can get pregnant prior to and during treatment, or refer patients who can get pregnant to an expert for such counseling
-  - •Provide scheduled pregnancy testing, and verify and document the negative pregnancy test result prior to writing each prescription, for no more than a 30-day supply
+- •Prescribers must be certified with the program and comply with the following requirements: Determine reproductive status of all patients prior to initiating treatment
+- oProvide contraception counseling to patients who can get pregnant prior to and during treatment, or refer patients who can get pregnant to an expert for such counseling
+- oProvide scheduled pregnancy testing, and verify and document the negative pregnancy test result prior to writing each prescription, for no more than a 30-day supply
 - •Patients who can become pregnant must be enrolled by signing an informed consent form and must comply with the following requirements
-  - •Comply with the pregnancy testing and contraception requirements [see Use in Specific Populations (8.3)]
-  - •Demonstrate comprehension of the safe-use conditions of the program every month
-  - •Obtain the prescription within 7 days of the pregnancy test collection
+- oComply with the pregnancy testing and contraception requirements [see Use in Specific Populations (8.3)]
+- oDemonstrate comprehension of the safe-use conditions of the program every month
+- oObtain the prescription within 7 days of the pregnancy test collection
 - •Patients who cannot become pregnant must be enrolled by signing an informed consent form and must obtain the prescription within 30 days of the office visit
-- •Pharmacies that dispense ABSORICA/ABSORICA LD must be certified by being registered and activated in the program, must only dispense to patients who are authorized to receive ABSORICA/ABSORICA LD, and comply with the following requirements:
-  - •Only dispense a maximum of a 30-day supply with a Medication Guide.
-  - •Do not dispense refills.
-    Dispense only with a new prescription and a new authorization from the program.
-  - •Return ABSORICA/ABSORICA LD to inventory if patients do not obtain the prescription by the “Do Not Dispense To After” date
+- •Pharmacies that dispense ABSORICA/ABSORICA LD must be certified by being registered and activated in the program, must only dispense to patients who are authorized to receive ABSORICA/ABSORICA LD, and comply with the following requirements: o Only dispense a maximum of a 30-day supply with a Medication Guide. o Do not dispense refills.
+  Dispense only with a new prescription and a new authorization from the program. o Return ABSORICA/ABSORICA LD to inventory if patients do not obtain the prescription by the “Do Not Dispense To After” date
 - •Wholesalers and distributors must be registered with the program and must only distribute to certified pharmacies.
 
 Further information, including a list of qualified pharmacies and distributors, is available at www.ipledgeprogram.com or 1-866-495-0654.
