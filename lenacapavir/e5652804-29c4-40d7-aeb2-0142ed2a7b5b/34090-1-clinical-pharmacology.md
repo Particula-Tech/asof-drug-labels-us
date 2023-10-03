@@ -25,7 +25,7 @@ Table 6 Pharmacokinetic Properties of Lenacapavir
 | --- | --- | --- | --- |
 | Absorption |  |  |  |
 | % Absolute bioavailability |  | 6 to 10 | 100 Values reflect absolute bioavailability following subcutaneous administration of the 927 mg dose. |
-| TmaxValues reflect administration of lenacapavir with or without food. |  | 4 hours | 77 to 84 days Due to slow release from the site of subcutaneous administration, the absorption profile of subcutaneously administered lenacapavir is complex. |
+| Tmax Values reflect administration of lenacapavir with or without food. |  | 4 hours | 77 to 84 days Due to slow release from the site of subcutaneous administration, the absorption profile of subcutaneously administered lenacapavir is complex. |
 | Effect of Food |  |  |  |
 | Effect of low-fat meal (relative to fasting) Values refer to geometric mean ratio [low-fat meal/fasting] in PK parameters and (90% confidence interval). Low fat meal is approximately 400 kcal, 25% fat. | AUCinf ratio | 98.6 (58.2,167.2) | - |
 | Cmax ratio | 115.8 (55.4, 242.1) | - |  |
