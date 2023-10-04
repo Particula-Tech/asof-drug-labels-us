@@ -65,6 +65,6 @@ The makers of these brands are not affiliated with and do not endorse the GSK gr
 
 Manufactured for: Prasco Laboratories Mason, OH 45040 USA
 
-Manufactured by: GlaxoSmithKline Research Triangle Park, NC 27709
+Manufactured by: GlaxoSmithKline Durham, NC 27701
 
-FLH-PS:3PI
+FLH-PS:4PI

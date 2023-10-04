@@ -28,7 +28,7 @@ ICS should be used with caution, if at all, in patients with active or quiescent
 
 ## 5.4 Transferring Patients from Systemic Corticosteroid Therapy
 
-HPA Suppression/Adrenal Insufficiency
+Hypothalamic-Pituitary-Adrenal Suppression/Adrenal Insufficiency
 
 Particular care is needed for patients who have been transferred from systemically active corticosteroids to ICS because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available ICS.
 After withdrawal from systemic corticosteroids, a number of months are required for recovery of hypothalamic-pituitary-adrenal (HPA) function.

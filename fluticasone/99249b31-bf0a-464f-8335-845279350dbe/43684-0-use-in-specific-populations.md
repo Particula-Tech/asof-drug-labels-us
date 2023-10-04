@@ -7,7 +7,7 @@ Risk Summary
 There are insufficient data on the use of fluticasone propionate HFA in pregnant women.
 There are clinical considerations with the use of fluticasone propionate HFA in pregnant women.
 (See Clinical Considerations.)
-In animals, teratogenicity characteristic of corticosteroids, decreased fetal body weight, and/or skeletal variations in rats, mice, and rabbits, was observed with subcutaneously administered maternal toxic doses of fluticasone propionate less than the maximum recommended human daily inhaled dose (MRHDID) on a mcg/m2 basis.
+In animals, teratogenicity characteristic of corticosteroids, decreased fetal body weight and/or skeletal variations in rats, mice, and rabbits, was observed with subcutaneously administered maternal toxic doses of fluticasone propionate less than the maximum recommended human daily inhaled dose (MRHDID) on a mcg/m2 basis.
 (See Data.)
 However, fluticasone propionate administered via inhalation to rats decreased fetal body weight but did not induce teratogenicity at a maternal toxic dose less than the MRHDID on a mcg/m2 basis.
 (See Data.)
@@ -119,7 +119,7 @@ These data suggest that, on a per kilogram basis, young children receive a compa
 Table 2.
 In Vitro Medication Delivery through AeroChamber Plus Valved Holding Chamber with a Mask
 
-| Age | Mask | Flow Rate(L/min) | Holding Time(seconds) | Mean Medication Delivery through AeroChamber Plus VHC(mcg/actuation) | Body Weight 50th Percentile(kg)a | Medication Delivered per Actuation(mcg/kg)b |
+| Age | Mask | Flow Rate(L/min) | Holding Time(seconds) | Mean Medication Delivery through AeroChamberPlus Valved Holding Chamber(mcg/actuation) | Body Weight 50th Percentile(kg)a | Medication Delivered per Actuation(mcg/kg)b |
 | --- | --- | --- | --- | --- | --- | --- |
 | 6 to 12Months | Small | 4.9 | 02510 | 8.36.77.57.5 | 7.5-9.9 | 0.8-1.10.7-0.90.8-1.00.8-1.0 |
 | 2 to 5 Years | Small | 8.0 | 02510 | 7.36.86.77.7 | 12.3-18.0 | 0.4-0.60.4-0.60.4-0.50.4-0.6 |
