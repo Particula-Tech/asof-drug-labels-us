@@ -1,4 +1,4 @@
-# 14 CLINICAL STUDIES
+# 14CLINICAL STUDIES
 
 ## 14.1 Clinical Study on Contraception
 
@@ -50,6 +50,3 @@ Treatment outcomes with LILETTA are summarized in Figures 17 and 18.
 The proportion of participants meeting both criteria defining successful treatment was 80% at the end of the study, with a 95% confidence interval of 71-88% (Figure 17).
 The quantitative reduction in median MBL volume from baseline to mid-study and to end-of-study is shown in Figure 18.
 The median MBL percent reduction from baseline to mid-study was 91% and to end-of-study was 96%.
-
-| Figure 17: Proportion of Participants with Successful Treatment of HMB Over Time | Figure 18: Median Menstrual Blood Loss (MBL) Over Time |
-| --- | --- |

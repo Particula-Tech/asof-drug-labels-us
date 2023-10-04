@@ -1,6 +1,6 @@
-# 11 DESCRIPTION
+# 11DESCRIPTION
 
-## 11.1 LILETTA
+## 11.1LILETTA
 
 LILETTA (levonorgestrel-releasing intrauterine system) contains 52 mg of levonorgestrel, a progestin, and is intended to provide an initial release rate of 20.4 mcg/day of levonorgestrel.
 
@@ -18,7 +18,7 @@ The components of LILETTA, including its packaging, are not manufactured using n
 
 Figure 15: Diagram of LILETTA
 
-## 11.2 Inserter
+## 11.2Inserter
 
 The inserter device provided with LILETTA is a single-use, disposable, sterile insertion system (tube, flange, handle; Figure 16), partially preloaded with the IUS product for intrauterine administration.
 

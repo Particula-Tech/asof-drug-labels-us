@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 Advise patients to read the FDA-approved patient labeling (Patient Information).
 
@@ -78,7 +78,7 @@ Distributed by: AbbVie Inc. North Chicago, Illinois 60064
 
 Marketed by: AbbVie Inc. Medicines360 North Chicago, IL 60064 San Francisco, CA 94105
 
-©2023 AbbVie and Medicines360.
+© 2023 AbbVie and Medicines360.
 All rights reserved.
 
 V4.1USPI5858

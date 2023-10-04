@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16HOW SUPPLIED/STORAGE AND HANDLING
 
 LILETTA (levonorgestrel-releasing intrauterine system), containing 52 mg levonorgestrel, is supplied partially preloaded within the inserter and packaged in a clear plastic tray with lid.
 LILETTA is available in a carton of one sterile unit.

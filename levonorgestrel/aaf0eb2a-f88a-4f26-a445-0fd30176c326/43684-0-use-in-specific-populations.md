@@ -1,6 +1,6 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1Pregnancy
 
 Risk Summary
 
@@ -12,7 +12,7 @@ Animal reproduction studies have not been conducted with LILETTA.
 
 The background risk in the U.S. general population of major birth defects is 2-4% and of miscarriage is 15-20% of clinically recognized pregnancies.
 
-## 8.2 Lactation
+## 8.2Lactation
 
 Risk Summary
 
@@ -41,6 +41,6 @@ Use of this product is not indicated before menarche.
 
 LILETTA is not indicated in patients after menopause and has not been studied in this population.
 
-## 8.6 Hepatic Impairment
+## 8.6Hepatic Impairment
 
 No studies were conducted to evaluate the effect of hepatic disease on the disposition of LNG released from LILETTA [see Contraindications (4)].

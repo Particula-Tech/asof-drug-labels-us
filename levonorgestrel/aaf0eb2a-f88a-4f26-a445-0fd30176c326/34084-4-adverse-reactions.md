@@ -1,4 +1,4 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
 The following serious or important adverse reactions are discussed elsewhere in the labeling:
 
@@ -18,7 +18,7 @@ Ovarian Cysts [see Warnings and Precautions (5.7)]
 
 Bleeding Pattern Alterations [see Warnings and Precautions (5.8)]
 
-## 6.1 Clinical Study Experience
+## 6.1Clinical Study Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
@@ -64,7 +64,7 @@ In the LILETTA clinical study on heavy menstrual bleeding, which included 105 pa
 Approximately 11% of LILETTA study participants discontinued prematurely due to an adverse reaction.
 The most common adverse reactions leading to discontinuation were expulsions (4.8%) and bleeding pattern alterations (3.8%).
 
-## 6.2 Postmarketing Experience
+## 6.2Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of LNG-releasing IUSs.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

@@ -1,4 +1,4 @@
-# 4 CONTRAINDICATIONS
+# 4CONTRAINDICATIONS
 
 LILETTA is contraindicated when one or more of the following conditions exist:
 

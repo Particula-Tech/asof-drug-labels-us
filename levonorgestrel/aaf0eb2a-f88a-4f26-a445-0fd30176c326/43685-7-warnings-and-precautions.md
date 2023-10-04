@@ -1,6 +1,6 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5WARNINGS AND PRECAUTIONS
 
-## 5.1 Ectopic Pregnancy
+## 5.1Ectopic Pregnancy
 
 Evaluate patients for ectopic pregnancy if they become pregnant with LILETTA in place because the likelihood of a pregnancy being ectopic is increased with use of an IUS.
 Approximately half of pregnancies that occur with an IUS in place are likely to be ectopic.
@@ -15,7 +15,7 @@ Ectopic pregnancy may require surgery and may result in loss of fertility.
 
 Patients who use LILETTA should be informed about recognizing the signs and symptoms of ectopic pregnancy and promptly reporting them to their healthcare professional, and about the associated risks of ectopic pregnancy (e.g., loss of fertility).
 
-## 5.2 Intrauterine Pregnancy
+## 5.2Intrauterine Pregnancy
 
 If pregnancy occurs while using LILETTA, determine if LILETTA is in the uterus.
 If LILETTA is in the uterus, attempt to remove LILETTA because leaving it in place may increase the risk of spontaneous abortion and preterm labor.
@@ -35,14 +35,14 @@ Continuation of Pregnancy
 If a patient becomes pregnant with LILETTA in place and if LILETTA cannot be removed or the patient chooses not to have it removed, warn the patient that failure to remove LILETTA increases the risk of miscarriage, sepsis, premature labor, and premature delivery.
 Prenatal care should include counseling about these risks and instructions to immediately report any flu-like symptoms, fever, chills, cramping, pain, bleeding, vaginal discharge or leakage of fluid, or any other symptom that suggests complications of the pregnancy.
 
-## 5.3 Sepsis
+## 5.3Sepsis
 
 Severe infection or sepsis, including Group A streptococcal sepsis (GAS), have been reported following insertion of LNG-releasing IUSs.
 In some cases, severe pain occurred within hours of insertion followed by sepsis within days.
 Because death from GAS is more likely if treatment is delayed, it is important to be aware of these rare but serious infections.
 Aseptic technique during insertion of LILETTA is essential to minimize serious infections such as GAS.
 
-## 5.4 Pelvic Inflammatory Disease or Endometritis
+## 5.4Pelvic Inflammatory Disease or Endometritis
 
 Insertion of LILETTA is contraindicated in the presence of known or suspected PID or endometritis.
 As well, it is contraindicated in patients with untreated acute cervicitis or vaginitis (including bacterial vaginosis), known chlamydial or gonococcal cervical infection, or other known lower genital tract infections, until the infection is controlled.
@@ -96,7 +96,7 @@ Actinomycetes can be found in the genital tract cultures in healthy patients wit
 The significance of actinomyces-like organisms on Pap test in an asymptomatic IUS user is unknown, and so this finding alone does not always require LILETTA removal and treatment.
 When possible, confirm a Pap test diagnosis with cultures.
 
-## 5.5 Perforation
+## 5.5Perforation
 
 Perforation (total or partial, including penetration/embedment of LILETTA in the uterine wall or cervix) may occur, most often during insertion, although the perforation may not be detected until sometime later.
 Perforation may also occur at any time during IUS use.
@@ -113,7 +113,7 @@ In a large prospective comparative non-interventional cohort study with another 
 
 The incidence of perforation during or following LILETTA insertion in the clinical studies, which excluded breastfeeding participants, was 0.1%.
 
-## 5.6 Expulsion
+## 5.6Expulsion
 
 Partial or complete expulsion of LILETTA may occur, resulting in the loss of contraceptive protection.
 In the clinical study on contraception with LILETTA, an overall expulsion rate of 4.1% over 8 years was reported, with a rate of 2.4% in nulliparous participants and 6.4% in parous participants.
@@ -131,7 +131,7 @@ The risk of expulsion is increased with insertions performed immediately after d
 Remove a partially expelled LILETTA.
 If expulsion has occurred, a new LILETTA may be inserted when there is reasonable certainty the patient is not pregnant.
 
-## 5.7 Ovarian Cysts
+## 5.7Ovarian Cysts
 
 The contraceptive effect of LILETTA is mainly due to its local effects within the uterus; therefore, ovulatory cycles with follicular rupture usually occur in patients of fertile age using LILETTA.
 Most ovarian cysts that occur during use of LNG-releasing IUSs are asymptomatic and disappear spontaneously during two to three months of observation.
@@ -143,7 +143,7 @@ Evaluate persistent ovarian cysts.
 Surgical intervention is not usually required, but may be necessary in some cases, and occurred in 1 (0.06%) of participants in the LILETTA study.
 Discuss this risk with patients, as indicated.
 
-## 5.8 Bleeding Pattern Alterations
+## 5.8Bleeding Pattern Alterations
 
 LILETTA can alter the bleeding pattern and result in spotting, irregular bleeding, heavy bleeding, oligomenorrhea, and amenorrhea.
 During the first three to six months of LILETTA use, the number of bleeding and spotting days may increase and irregular bleeding patterns may develop.
@@ -213,14 +213,14 @@ If a significant change in bleeding develops during prolonged use, conduct diagn
 Consider the possibility of pregnancy, including ectopic pregnancy, if menstruation does not occur within six weeks of the onset of a previous menstruation.
 After excluding pregnancy, repeat pregnancy tests are generally not necessary in amenorrheic patients unless indicated by other signs of pregnancy or pelvic pain.
 
-## 5.9 Breast Cancer
+## 5.9Breast Cancer
 
 Patients who currently have or have had breast cancer, or have a suspicion of breast cancer, should not use hormonal contraception, including LILETTA, because some breast cancers are hormone-sensitive [see Contraindications (4)].
 
 Spontaneous reports of breast cancer have been received during postmarketing experience with LNG-releasing IUSs.
 Observational studies have not provided consistent evidence of an increased risk of breast cancer with use of an LNG-releasing IUS.
 
-## 5.10 Clinical Considerations for Use and Removal
+## 5.10Clinical Considerations for Use and Removal
 
 Obtain a complete medical and social history, including partner status, to determine conditions that might influence the selection of an IUS for contraception.
 
@@ -254,7 +254,7 @@ If LILETTA is displaced, remove it.
 A new LILETTA may be inserted at that time or during the next menses if it is certain that conception has not occurred.
 If LILETTA is in place with no evidence of perforation, no intervention is indicated.
 
-## 5.11 Magnetic Resonance Imaging (MRI) Information
+## 5.11Magnetic Resonance Imaging (MRI) Information
 
 LILETTA is MR-Safe.
 LILETTA is compatible with MRI and should not interfere with imaging.

@@ -1,18 +1,18 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
 The local mechanism by which continuously released LNG provides contraception has not been conclusively demonstrated.
 Studies of LNG-releasing IUSs suggest several mechanisms for pregnancy prevention: prevention of fertilization due to the thickening of the cervical mucus, which inhibits sperm passage through the cervix, and inhibition of sperm mobility and function (capacitation), and alteration of the endometrium.
 
-## 12.2 Pharmacodynamics
+## 12.2Pharmacodynamics
 
 LILETTA has mainly local progestogenic effects in the uterine cavity which change the endometrium and may lead to alterations in the menstrual bleeding pattern [see Warnings and Precautions (5.8)].
 High local concentrations of LNG lead to morphological changes including stromal pseudo-decidualization, glandular atrophy, a leukocytic infiltration, and a decrease in glandular and stromal mitoses.
 
 In clinical studies with other LNG-releasing IUSs with an LNG release rate similar to LILETTA, approximately 45-75% of menstrual cycles were ovulatory.
 
-## 12.3 Pharmacokinetics
+## 12.3Pharmacokinetics
 
 Absorption
 
