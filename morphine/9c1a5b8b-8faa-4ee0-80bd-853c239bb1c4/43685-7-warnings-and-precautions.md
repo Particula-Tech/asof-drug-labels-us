@@ -9,7 +9,7 @@ Because extended-release products such as Morphine Sulfate Extended-Release Caps
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed Morphine Sulfate Extended-Release Capsules.
 Addiction can occur at recommended doses and if the drug is misused or abused.
 
-Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing Morphine Sulfate Extended-Release Capsules, and reassess all patients receiving Morphine Sulfate Extended-Release Capsules for the development of these behaviors and conditions.
+Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing Morphine Sulfate Extended-Release Capsules, and reassess all patients receiving Morphine Sulfate Extended-Release Capsules for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as Morphine Sulfate Extended-Release Capsules, but use in such patients necessitates intensive counseling about the risks and proper use of Morphine Sulfate Extended-Release Capsules along with frequent reevaluation for signs of addiction, abuse, and misuse.
