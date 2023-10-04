@@ -1,5 +1,7 @@
 # MEDICATION GUIDE
 
+Dispense with Medication Guide available at: https://www.sunpharma.com/usa/products
+
 MEDICATION GUIDE Lithium (LITH-ee-əm) Carbonate Tablets USP
 
 What is the most important information I should know about lithium carbonate tablets?
@@ -211,6 +213,8 @@ Active ingredient:lithium carbonate, USP
 
 Inactive ingredients: microcrystalline cellulose, povidone, sodium lauryl sulfate, sodium starch glycolate type A, colloidal silicon dioxide and calcium stearate.
 
+Dispense with Medication Guide available at: https://www.sunpharma.com/usa/products
+
 Distributed by:
 
 Sun Pharmaceutical Industries, Inc.
@@ -219,15 +223,15 @@ Cranbury, NJ 08512
 
 Manufactured by:
 
-Sun Pharmaceutical Industries Ltd.
+Sun Pharmaceutical Industries Limited
 
-Survey No. 259/15, Dadra-396 191,
+Survey No. 1012, Dadra-396 193,
 
-(U.T. of D & NH), India.
+U.T. of D & NH and Daman & Diu, India.
 
-PGPI0145D
+5245392
 
 ISS.
-03/2020
+09/2023
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration

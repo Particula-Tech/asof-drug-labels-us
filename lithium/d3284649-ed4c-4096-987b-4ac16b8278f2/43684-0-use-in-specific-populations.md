@@ -11,10 +11,10 @@ Other published animal studies report adverse effects on embryonic implantation 
 Advise pregnant women of the potential risk to a fetus.
 The background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
-Clinical Considerations Dose Adjustments During Pregnancy and the Postpartum Period: If the decision is made to continue lithium treatment during pregnancy, serum lithium concentrations should be monitored and the dosage adjusted during pregnancy.
+Clinical Considerations Dose Adjustments During Pregnancy and the Postpartum Period:If the decision is made to continue lithium treatment during pregnancy, serum lithium concentrations should be monitored and the dosage adjusted during pregnancy.
 Two to three days prior to delivery, lithium dosage should be decreased or discontinued to reduce the risk of maternal and/or neonatal toxicity.
 Lithium may be restarted in the post-partum period at preconception doses in medically stable patients as long as serum lithium levels are closely monitored [see Dosage and Administration (2.4), Warnings and Precautions (5.1)].
-Fetal/Neonatal Adverse Reactions: Lithium toxicity may occur in neonates who were exposed to lithium in late pregnancy.
+Fetal/Neonatal Adverse Reactions:Lithium toxicity may occur in neonates who were exposed to lithium in late pregnancy.
 A floppy baby syndrome including neurological, cardiac, and hepatic abnormalities that are similar to those seen with lithium toxicity in adults have been observed.
 Symptoms include hypotonia, respiratory distress syndrome, cyanosis, lethargy, feeding difficulties, depressed neonatal reflexes, neonatal depression, apnea, and bradycardia.
 Monitor neonates and provide supportive care until lithium is excreted and toxic signs disappear, which may take up to 14 days.

@@ -1,4 +1,4 @@
-# 1 INDICATIONS & USAGE
+# 1 INDICATIONS AND USAGE
 
 Lithium is a mood-stabilizing agent indicated as monotherapy for the treatment of bipolar I disorder:
 
