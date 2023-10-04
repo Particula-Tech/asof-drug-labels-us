@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA217569"
+  ],
+  "inn": "vasopressin",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "0338-9640-12",
+    "0338-9647-12"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "vasopressin in 0.9% sodium chloride",
+      "name": "Vasopressin in 0.9% Sodium Chloride"
+    }
+  ],
+  "setid": "b5b2c367-6b7e-40be-a296-c4632f3e783f",
+  "source": "dailymed"
+}
