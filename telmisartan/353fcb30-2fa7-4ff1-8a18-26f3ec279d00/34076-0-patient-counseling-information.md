@@ -8,4 +8,4 @@ Symptomatic Hypotension and Syncope Advise patients that lightheadedness can occ
 Inform patients that inadequate fluid intake, excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure, with the same consequences of lightheadedness and possible syncope.
 Advise patients to contact their healthcare provider if syncope occurs [see Warnings and Precautions (5.2)].
 Potassium Supplements Advise patients not to use potassium supplements or salt substitutes that contain potassium without consulting the prescribing healthcare provider [see Warnings and Precautions (5.3)].
-Manufactured by: Cadila Pharmaceuticals Limited 1389 Trasad Road, Dholka – 382225, District - Ahmedabad, Gujarat, INDIA Revised: February 2023
+Manufactured by: Cadila Pharmaceuticals Limited 1389 Trasad Road, Dholka – 382225, District - Ahmedabad, Gujarat, INDIA Revised: August 2023

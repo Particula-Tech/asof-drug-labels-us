@@ -13,4 +13,4 @@ Telmisartan tablets USP, 80 mg are white to off-white, oval, biconvex, uncoated 
 NDC 71209-051-01 Bottles of 30 NDC 71209-051-04 Bottles of 90 NDC 71209-051-05 Bottles of 100 NDC 71209-051-10 Bottles of 500 NDC 71209-051-11 Bottles of 1000
 
 Storage Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
-Tablets should not be removed from blisters until immediately before administration.
+Tablets should not be removed from blisters or bottles until immediately before administration.

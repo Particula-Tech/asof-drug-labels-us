@@ -11,6 +11,7 @@ When pregnancy is detected, discontinue telmisartan as soon as possible [see Use
 
 In patients with an activated renin-angiotensin system, such as volume- or salt-depleted patients (e.g., those being treated with high doses of diuretics), symptomatic hypotension may occur after initiation of therapy with telmisartan.
 Either correct this condition prior to administration of telmisartan or start treatment under close medical supervision with a reduced dose.
+
 If hypotension does occur, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline.
 A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
 
@@ -29,15 +30,20 @@ Initiate telmisartan at low doses and titrate slowly in these patients [see Use 
 As a consequence of inhibiting the renin-angiotensin-aldosterone system, anticipate changes in renal function in susceptible individuals.
 In patients whose renal function may depend on the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure or renal dysfunction), treatment with angiotensin-converting enzyme (ACE) inhibitors and angiotensin receptor antagonists has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death.
 Similar results have been reported with telmisartan [see Clinical Pharmacology (12.3)].
+
 In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen were observed.
 There has been no long-term use of telmisartan in patients with unilateral or bilateral renal artery stenosis, but anticipate an effect similar to that seen with ACE inhibitors.
 
 ## 5.6 Dual Blockade of the Renin-Angiotensin-Aldosterone System (RAS)
 
 Dual blockade of the RAS with angiotensin-receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
-Patients receiving the combination of telmisartan and ramipril (in ONTARGET trial that enrolled 25,620 patients ≥55 years old with atherosclerotic disease or diabetes with end-organ damage) did not obtain any additional benefit compared to monotherapy, but experienced an increase incidence of renal dysfunction (e.g., acute renal failure) compared with groups receiving telmisartan alone or ramipril alone.
+
+The ONTARGET trial enrolled 25,620 patients ≥55 years old with atherosclerotic disease or diabetes with end-organ damage, randomizing them to telmisartan only, ramipril only, or the combination, and followed them for a median of 56 months.
+Patients receiving the combination of telmisartan tablets and ramipril did not obtain any additional benefit compared to monotherapy, but experienced an increased incidence of renal dysfunction (e.g., acute renal failure) compared with groups receiving telmisartan alone or ramipril alone.
+
 In most patients no benefit has been associated with using two RAS inhibitors concomitantly.
 In general, avoid combined use of RAS inhibitors.
 Closely monitor blood pressure, renal function, and electrolytes in patients on telmisartan and other agents that affect the RAS.
+
 Do not co-administer aliskiren with telmisartan in patients with diabetes.
 Avoid concomitant use of aliskiren with telmisartan in patients with renal impairment (GFR <60 mL/min/1.73 m2).
