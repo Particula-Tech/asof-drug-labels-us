@@ -12,6 +12,8 @@ For I.V., Epidural or Intrathecal Use.
 
 Dist. by Hospira, Inc., Lake Forest, IL 60045 USA
 
+Hospira
+
 # PRINCIPAL DISPLAY PANEL - 5 mg/10 mL Vial Carton
 
 10 mL Single-dose 5 Fliptop Vials
@@ -45,6 +47,8 @@ MORPHINE Sulfate Inj., USP 10 mg/10 mL (1 mg/mL)
 For I.V., Epidural or Intrathecal Use.
 
 Dist. by Hospira, Inc., Lake Forest, IL 60045 USA
+
+Hospira
 
 # PRINCIPAL DISPLAY PANEL - 10 mg/10 mL Vial Carton
 
