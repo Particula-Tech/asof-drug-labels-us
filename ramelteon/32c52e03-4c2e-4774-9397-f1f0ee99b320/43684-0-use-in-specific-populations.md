@@ -5,7 +5,7 @@
 Risk Summary
 
 Available data from postmarketing reports with Ramelteon Tablets use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
-In animal studies, ramelteon produced evidence of developmental toxicity, including teratogenic effects, in rats at doses much greater than 36 times the recommended human dose (RHD) of 8 mg/day based on body surface area (mg/m 2) (see Data).
+In animal studies, ramelteon produced evidence of developmental toxicity, including teratogenic effects, in rats at doses greater than 36 times the recommended human dose (RHD) of 8 mg/day based on body surface area (mg/m 2) (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.

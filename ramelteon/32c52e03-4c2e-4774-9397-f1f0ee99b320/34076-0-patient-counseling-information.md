@@ -33,6 +33,6 @@ A lactating woman may consider pumping and discarding breast milk during treatme
 
 Manufactured and Distributed by: i3 Pharmaceuticals, LLC 200 Park Avenue, Warminster, PA 18974
 
-OS005-04, Rev.0122
+OS005-06, REV.0423
 
-Revised: 01/2022
+Revised: 04/2023
