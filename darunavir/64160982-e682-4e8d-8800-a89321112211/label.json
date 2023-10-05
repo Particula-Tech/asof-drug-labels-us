@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA202083"
+  ],
+  "inn": "darunavir",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-567-60",
+    "31722-568-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "darunavir",
+      "name": "Darunavir"
+    }
+  ],
+  "setid": "64160982-e682-4e8d-8800-a89321112211",
+  "source": "dailymed"
+}
