@@ -121,8 +121,11 @@ Manufactured by:
 
 Sun Pharmaceutical Industries Limited
 
-Survey No. 259/15,
+Survey No. 1012, Dadra-396 193,
 
-Dadra-396 193, (U.T. of D & NH), India
+U.T. of D & NH and Daman & Diu, India.
 
-Revised.01/2023 5238789
+Revised.
+10/2023
+
+5245496

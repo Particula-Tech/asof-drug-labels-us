@@ -7,8 +7,7 @@ Risk Summary
 There are no adequate data on the developmental risk associated with the use of memantine hydrochloride in pregnant women.
 
 Adverse developmental effects (decreased body weight, and skeletal ossification) were observed in the offspring of rats administered memantine during pregnancy at doses associated with minimal maternal toxicity.
-These doses are higher than those used in humans at the maximum recommended daily dose of memantine hydrochloride [see Data].
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+These doses are higher than those used in humans at the maximum recommended daily dose of memantine hydrochloride [see Data].In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
 Data
