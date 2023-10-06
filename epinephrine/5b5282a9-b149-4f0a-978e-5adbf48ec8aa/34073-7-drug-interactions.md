@@ -19,8 +19,7 @@ Drugs potentiating pressor effects of epinephrine
 - Doxapram
 - Oxytocin
 
-Drugs potentiating arrhythmogenic effects of epinephrine.
-Patients who are concomitantly receiving any of the following drugs should be observed carefully for the development of cardiac arrhythmias [see Warnings and Precautions (5.6) and Adverse Reactions (6)].
+Drugs potentiating arrhythmogenic effects of epinephrine.Patients who are concomitantly receiving any of the following drugs should be observed carefully for the development of cardiac arrhythmias [see Warnings and Precautions (5.6)and Adverse Reactions (6)].
 
 - β-blockers, such as propranolol
 - Cyclopropane or halogenated hydrocarbon anesthetics, such as halothane

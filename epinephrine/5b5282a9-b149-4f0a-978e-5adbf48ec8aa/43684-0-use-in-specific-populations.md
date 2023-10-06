@@ -9,12 +9,12 @@ Epinephrine crosses the placenta.
 Epinephrine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus (fetal anoxia, spontaneous abortion, or both).
 Epinephrine is teratogenic in rabbits, mice, and hamsters dosed during organogenesis.
 
-Epinephrine has been shown to have teratogenic effects (including gastroschisis and embryonic lethality) when administered subcutaneous in rabbits at approximately 15 times the maximum recommended intramuscular or subcutaneous dose (on a mg/m 2 basis at a maternal subcutaneous dose of 1.2 mg/kg/day for two to three days).
+Epinephrine has been shown to have teratogenic effects (including gastroschisis and embryonic lethality) when administered subcutaneous in rabbits at approximately 15 times the maximum recommended intramuscular or subcutaneous dose (on a mg/m 2basis at a maternal subcutaneous dose of 1.2 mg/kg/day for two to three days).
 
-In mice, teratogenic effects (including embryonic lethality) were observed at approximately 3 times the maximum recommended intramuscular or subcutaneous dose (on a mg/m 2 basis at maternal subcutaneous dose of 1 mg/kg/day for 10 days).
-These effects were not seen in mice at approximately 2 times the maximum recommended daily intramuscular or subcutaneous dose (on a mg/m 2 basis at a subcutaneous maternal dose of 0.5 mg/kg/day for 10 days).
+In mice, teratogenic effects (including embryonic lethality) were observed at approximately 3 times the maximum recommended intramuscular or subcutaneous dose (on a mg/m 2basis at maternal subcutaneous dose of 1 mg/kg/day for 10 days).
+These effects were not seen in mice at approximately 2 times the maximum recommended daily intramuscular or subcutaneous dose (on a mg/m 2basis at a subcutaneous maternal dose of 0.5 mg/kg/day for 10 days).
 
-In hamsters, teratogenic effects were observed at approximately 2 times the maximum recommended intramuscular or subcutaneous dose (on a mg/m 2 basis at a maternal subcutaneous dose of 0.5 mg/kg/day for 4 days).
+In hamsters, teratogenic effects were observed at approximately 2 times the maximum recommended intramuscular or subcutaneous dose (on a mg/m 2basis at a maternal subcutaneous dose of 0.5 mg/kg/day for 4 days).
 
 ## 8.2 Labor and Delivery
 

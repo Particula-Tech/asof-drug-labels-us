@@ -10,8 +10,7 @@ Discard any unused portion.
 
 Dilute epinephrine in 5 percent dextrose solution or 5 percent dextrose and sodium chloride solution.
 These dextrose containing fluids provide protection against significant loss of potency by oxidation.
-Administration in saline solution alone is not recommended.
-Whole blood or plasma, if indicated to increase blood volume, should be administered separately.
+Administration in saline solution alone is not recommended.Whole blood or plasma, if indicated to increase blood volume, should be administered separately.
 
 Add 1 mL (1 mg) of epinephrine from its ampule to 1,000 mL of a 5 percent dextrose containing solution.
 Each mL of this dilution contains 1 mcg of epinephrine.
@@ -41,10 +40,10 @@ For intramuscular administration, use a needle long enough (at least 1/2 inch to
 Monitor the patient clinically for the severity of the allergic reaction and potential cardiac effects of the drug, with repeat doses titrated to effect.
 Do not administer repeated injections at the same site, as the resulting vasoconstriction may cause tissue necrosis.
 
-Adults and Children 30 kg (66 lbs) or more: 0.3 to 0.5 mg (0.3 mL to 0.5 mL) of undiluted epinephrine administered intramuscularly or subcutaneously in the anterolateral aspect of the thigh, up to a maximum of 0.5 mg (0.5 mL) per injection, repeated every 5 to 10 minutes as necessary.
+Adults and Children 30 kg (66 lbs) or more:0.3 to 0.5 mg (0.3 mL to 0.5 mL) of undiluted epinephrine administered intramuscularly or subcutaneously in the anterolateral aspect of the thigh, up to a maximum of 0.5 mg (0.5 mL) per injection, repeated every 5 to 10 minutes as necessary.
 Monitor clinically for reaction severity and cardiac effects.
 
-Children less than 30 kg (66 lbs): 0.01 mg/kg (0.01 mL/kg) of undiluted epinephrine administered intramuscularly or subcutaneously in the anterolateral aspect of the thigh, up to a maximum of 0.3 mg (0.3 mL) per injection, repeated every 5 to 10 minutes as necessary.
+Children less than 30 kg (66 lbs):0.01 mg/kg (0.01 mL/kg) of undiluted epinephrine administered intramuscularly or subcutaneously in the anterolateral aspect of the thigh, up to a maximum of 0.3 mg (0.3 mL) per injection, repeated every 5 to 10 minutes as necessary.
 Monitor clinically for reaction severity and cardiac effects.
 
 ## 2.4 Induction and Maintenance of Mydriasis during Intraocular Surgery

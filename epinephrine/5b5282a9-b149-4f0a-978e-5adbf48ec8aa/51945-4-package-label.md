@@ -9,7 +9,7 @@ Usual Dose: See insert labeling
 
 Each mL contains: 1 mg Epinephrine, Sodium Chloride 9 mg, Water for Injection, USP pH adjusted with Hydrochloric Acid.
 
-WARNING: Do not use the solution if it is colored or cloudy, or if it contains particulate matter.
+WARNING:Do not use the solution if it is colored or cloudy, or if it contains particulate matter.
 
 10 Single-Use Ampules x 1mL
 

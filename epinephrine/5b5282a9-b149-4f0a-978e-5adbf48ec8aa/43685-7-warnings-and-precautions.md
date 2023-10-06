@@ -16,7 +16,7 @@ Blanching along the course of the infused vein, sometimes without obvious extrav
 This also may progress on rare occasions to superficial slough.
 Hence, if blanching occurs, consider changing the infusion site at intervals to allow the effects of local vasoconstriction to subside.
 
-Antidote for Extravasation Ischemia: To prevent sloughing and necrosis in areas in which extravasation has taken place, infiltrate the area with 10 mL to 15 mL of saline solution containing from 5 mg to 10 mg of phentolamine, an adrenergic blocking agent.
+Antidote for Extravasation Ischemia:To prevent sloughing and necrosis in areas in which extravasation has taken place, infiltrate the area with 10 mL to 15 mL of saline solution containing from 5 mg to 10 mg of phentolamine, an adrenergic blocking agent.
 Use a syringe with a fine hypodermic needle, with the solution being infiltrated liberally throughout the area, which is easily identified by its cold, hard, and pallid appearance.
 Sympathetic blockade with phentolamine causes immediate and conspicuous local hyperemic changes if the area is infiltrated within 12 hours.
 
@@ -27,12 +27,10 @@ Injection into (or near) smaller muscles, such as in the deltoid, is not recomme
 
 Do not administer repeated injections of epinephrine at the same site, as the resulting vasoconstriction may cause tissue necrosis.
 
-Do not inject into buttock.
-Injection into the buttock may not provide effective treatment of anaphylaxis and has been associated with the development of Clostridial infections (gas gangrene).
+Do not inject into buttock.Injection into the buttock may not provide effective treatment of anaphylaxis and has been associated with the development of Clostridial infections (gas gangrene).
 Cleansing with alcohol does not kill bacterial spores, and therefore, does not lower this risk.
 
-Do not inject into digits, hands, or feet.
-Epinephrine is a strong vasoconstrictor.
+Do not inject into digits, hands, or feet.Epinephrine is a strong vasoconstrictor.
 Accidental injection into the digits, hands or feet may result in loss of blood flow to the affected area and has been associated with tissue necrosis.
 
 ## 5.4 Pulmonary Edema
@@ -46,21 +44,20 @@ Intravenously administered epinephrine initially may produce constriction of ren
 
 ## 5.6 Cardiac Arrhythmias and Ischemia
 
-Epinephrine may induce cardiac arrhythmias and angina pectoris in patients, especially patients suffering from coronary artery disease, organic heart disease, cerebrovascular disease, hypertension, or patients who are receiving drugs that sensitize the myocardium [see Adverse Reactions (6) and Drug Interactions (7)].
-Treatment of arrhythmias consists of administration of a beta-adrenergic blocking drug (such as propranolol).
+Epinephrine may induce cardiac arrhythmias and angina pectoris in patients, especially patients suffering from coronary artery disease, organic heart disease, cerebrovascular disease, hypertension, or patients who are receiving drugs that sensitize the myocardium [see Adverse Reactions (6)and Drug Interactions (7)].Treatment of arrhythmias consists of administration of a beta-adrenergic blocking drug (such as propranolol).
 
 ## 5.7 Injury with Undiluted Intraocular Solution
 
-Epinephrine must be diluted before intraocular use.
+Epinephrine mustbe diluted before intraocular use.
 Other epinephrine products that contain sodium bisulfite have been associated with corneal endothelial damage when used in the eye at undiluted concentrations (1 mg/mL).
 Although this Epinephrine product contains no sulfites or preservatives, warning is still advised [see Dosage and Administration (2.4)].
 
 ## 5.8 Serious Infections at the Injection Site
 
 Rare cases of serious skin and soft tissue infections, including necrotizing fasciitis and myonecrosis caused by Clostridia (gas gangrene), have been reported at the injection site following epinephrine injection for anaphylaxis.
-Clostridium spores can be present on the skin and introduced into the deep tissue with subcutaneous or intramuscular injection.
-While cleansing with alcohol may reduce presence of bacteria on the skin, alcohol cleansing does not kill Clostridium spores.
-To decrease the risk of Clostridium infection, do not inject Epinephrine Injection into the buttock [see Warnings and Precautions (5.3)].
+Clostridiumspores can be present on the skin and introduced into the deep tissue with subcutaneous or intramuscular injection.
+While cleansing with alcohol may reduce presence of bacteria on the skin, alcohol cleansing does not kill Clostridiumspores.
+To decrease the risk of Clostridiuminfection, do not inject Epinephrine Injection into the buttock [see Warnings and Precautions (5.3)].
 Advise patients to seek medical care if they develop signs or symptoms of infection, such as persistent redness, warmth, swelling, or tenderness, at the epinephrine injection site.
 
 ## 5.9 Other Disease Interactions
