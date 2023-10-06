@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA206070"
+  ],
+  "inn": "pitavastatin",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-5055-05",
+    "0378-5055-77",
+    "0378-5055-93",
+    "0378-5056-05",
+    "0378-5056-77",
+    "0378-5056-93",
+    "0378-5057-05",
+    "0378-5057-77",
+    "0378-5057-93"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "pitavastatin",
+      "name": "Pitavastatin Calcium"
+    }
+  ],
+  "setid": "26b5e5e8-45cd-4a98-9af4-2d04c1130881",
+  "source": "dailymed"
+}
