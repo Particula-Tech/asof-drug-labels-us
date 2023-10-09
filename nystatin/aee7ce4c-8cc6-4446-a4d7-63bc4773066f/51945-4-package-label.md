@@ -1,15 +1,13 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Actavis
-
 NDC 0472-0166-15
 
-Nystatin Ointment USP 100,000 units per gram
+Nystatin Ointment, USP
 
-Rx Only
+100,000 units per gram
 
-For External Use Only
+Rx only
 
-Not for Ophthalmic Use
+For External Use Only - Not for Ophthalmic Use
 
 15 g (0.53 oz)

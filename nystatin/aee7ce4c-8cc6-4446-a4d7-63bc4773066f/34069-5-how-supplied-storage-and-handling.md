@@ -1,15 +1,19 @@
 # HOW SUPPLIED
 
-Nystatin Ointment USP 100,000 units/g
+Nystatin ointment, USP 100,000 units/g is available as follows:
 
-15 g tube (0.53 oz) 30 g tube (1.1 oz)
+15 g tube (0.53 oz) NDC 0472-0166-15
 
-Store at controlled room temperature 15°-30°C (59°-86°F).
+30 g tube (1.1 oz) NDC 0472-0166-30
+
+Store at controlled room temperature 15° to 30°C (59° to 86°F).
 Do not freeze.
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured For:
+
+Teva Pharmaceuticals
+
+Parsippany, NJ 07054
 
 Rev.
-A 10/2019
-
-3701600-478 GW7351
+B 6/2023
