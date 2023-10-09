@@ -12,7 +12,7 @@ Table 8: Clinically Important Drug Interactions with Desvenlafaxine Extended-Rel
 | Other Serotonergic Drugs |  |
 | Clinical Impact | Concomitant use of desvenlafaxine with other serotonergic drugs increases the risk of serotonin syndrome. |
 | Intervention | Monitor for symptoms of serotonin syndrome when desvenlafaxine is used concomitantly with other drugs that may affect the serotonergic neurotransmitter systems. If serotonin syndrome occurs, consider discontinuation of desvenlafaxine and/or concomitant serotonergic drugs [see Warnings and Precautions (5.2)]. |
-| Examples | other SNRIs, SSRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, amphetamines, tryptophan, and St. John's Wort |
+| Examples | other SNRIs, SSRIs, triptans, tricyclic antidepressants, opioids, lithium, buspirone, amphetamines, tryptophan, and St. John's Wort |
 | Drugs that Interfere with Hemostasis |  |
 | Clinical Impact | Concomitant use of desvenlafaxine with an antiplatelet or anticoagulant drug may potentiate the risk of bleeding. This may be due to the effect of desvenlafaxine on the release of serotonin by platelets. |
 | Intervention | Closely monitor for bleeding for patients receiving an antiplatelet or anticoagulant drug when desvenlafaxine is initiated or discontinued [see Warnings and Precautions (5.4)]. |

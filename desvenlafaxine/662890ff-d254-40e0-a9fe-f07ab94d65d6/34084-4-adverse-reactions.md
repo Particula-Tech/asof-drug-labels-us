@@ -208,3 +208,5 @@ Skin and Subcutaneous Tissue Disorders: Stevens-Johnson syndrome
 Gastrointestinal Disorders: Pancreatitis acute
 
 Cardiovascular System: Takotsubo cardiomyopathy
+
+Respiratory, Thoracic and Mediastinal Disorders: Anosmia, hyposmia
