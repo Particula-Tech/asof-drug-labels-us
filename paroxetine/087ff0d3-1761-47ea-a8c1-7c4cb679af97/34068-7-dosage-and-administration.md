@@ -30,7 +30,7 @@ Institute dosage adjustments at intervals of at least 1 week.
 
 ## 2.4 Screen for Bipolar Disorder Prior to Starting Paroxetine HCL CR
 
-Prior to initiating treatment with Paroxetine HCL CR or another antidepressant, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions(5.6)].
+Prior to initiating treatment with Paroxetine HCL CR or another antidepressant, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions (5.6)].
 
 ## 2.5 Dosage Modifications for Elderly Patients, Patients with Severe Renal Impairment and Patients with Severe Hepatic Impairment
 
@@ -45,5 +45,4 @@ In addition, at least 14 days must elapse after stopping Paroxetine HCL CR befor
 
 ## 2.7 Discontinuation of Treatment with Paroxetine HCL CR
 
-Adverse reactions may occur upon discontinuation of Paroxetine HCL CR [see Warnings and Precautions (5.6)].
-Gradually reduce the dosage rather than stopping Paroxetine HCL CR abruptly whenever possible.
+Adverse reactions may occur upon discontinuation of Paroxetine HCL CR [see Warnings and Precautions (5.7)].Gradually reduce the dosage rather than stopping Paroxetine HCL CR abruptly whenever possible.

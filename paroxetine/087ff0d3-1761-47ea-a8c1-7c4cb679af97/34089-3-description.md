@@ -1,13 +1,13 @@
 # 11 DESCRIPTION
 
-Paroxetine HCL CR, contains paroxetine hydrochloride, an SSRI.
+Paroxetine HCL CR USP, contains paroxetine hydrochloride, an SSRI.
 It is the hydrochloride salt of a phenylpiperidine compound identified chemically as (-)-trans-4R-(4'-fluorophenyl)-3S-[(3',4'-methylenedioxyphenoxy) methyl] piperidine hydrochloride hemihydrate and has the empirical formula of C19H20FNO3·HCl·1/2H2O.
 The molecular weight is 374.8 g/mol (329.4 g/mol as free base).
 The structural formula of paroxetine hydrochloride is:
 
 Paroxetine hydrochloride is an odorless, off‑white powder, having a melting point range of 120°C to 138°C and a solubility of 5.4 mg/mL in water.
 
-Paroxetine HCL CR tablets are intended for oral administration.
+Paroxetine HCL CR tablets, USP are intended for oral administration.
 Each extended‑release tablet contains 12.5 mg, 25 mg, or 37.5 mg paroxetine equivalent to 14.25 mg, 28.51 mg, or 42.76 mg of paroxetine hydrochloride, respectively.
 One layer of the tablet consists of a degradable barrier layer and the other contains the active material in a hydrophilic matrix.
 

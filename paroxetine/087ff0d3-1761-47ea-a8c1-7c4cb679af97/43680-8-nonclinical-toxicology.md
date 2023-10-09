@@ -17,7 +17,6 @@ Paroxetine produced no genotoxic effects in a battery of 5 in vitro and 2 in viv
 
 Impairment of Fertility
 
-Some clinical studies have shown that SSRIs (including paroxetine) may affect sperm quality during SSRI treatment, which may affect fertility in some men.
 A reduced pregnancy rate was found in reproduction studies in rats at a dose of paroxetine of 15 mg/kg/day, which is approximately twice the MRHD on an mg/m2 basis.
 Irreversible lesions occurred in the reproductive tract of male rats after dosing in toxicity studies for 2 to 52 weeks.
 These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg/kg/day and atrophic changes in the seminiferous tubules of the testes with arrested spermatogenesis at 25 mg/kg/day (approximately 6 and 3 times the MRHD on an mg/m2 basis).

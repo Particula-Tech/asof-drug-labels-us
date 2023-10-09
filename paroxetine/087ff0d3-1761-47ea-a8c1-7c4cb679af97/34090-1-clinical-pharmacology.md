@@ -53,7 +53,7 @@ The role of this enzyme in paroxetine metabolism also suggests potential drug‑
 
 Excretion
 
-Approximately 64% of a 30‑mg oral solution dose of paroxetine was excreted in the urine with 2% as the parent compound and 62% as metabolites over a 10‑day post‑dosing period.
+Approximately 64% of a 30 mg oral solution dose of paroxetine was excreted in the urine with 2% as the parent compound and 62% as metabolites over a 10‑day post‑dosing period.
 About 36% was excreted in the feces (probably via the bile), mostly as metabolites and less than 1% as the parent compound over the 10‑day post‑dosing period.
 
 The elimination half-life is approximately 15 to 20 hours after a single dose of Paroxetine HCL CR.

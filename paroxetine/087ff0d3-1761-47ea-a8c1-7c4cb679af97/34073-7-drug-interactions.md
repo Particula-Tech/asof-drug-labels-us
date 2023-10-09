@@ -12,12 +12,12 @@ Table 6: Clinically Significant Drug Interactions with Paroxetine HCL CR
 | Intervention | Paroxetine HCL CR is contraindicated in patients taking MAOIs, including MAOIs such as linezolid or intravenous methylene blue [see Dosage and Administration (2.6), Contraindications (4), Warnings and Precautions (5.2)]. |
 | Examples | selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, methylene blue |
 | Pimozide and Thioridazine |  |
-| Clinical Impact | Increased plasma concentrations of pimozide and thioridazine, drugs with a narrow therapeutic index, may increase the risk of QTc prolongation and ventricular arrhythmias. |
+| Clinical Impact | Paroxetine HCL CR should not be used in patients receiving medications that can prolong QT interval and are metabolized by CYP450 2D6 such as thioridazine or pimozide (see Contraindications and Warnings and Precautions) |
 | Intervention | Paroxetine HCL CR is contraindicated in patients taking pimozide or thioridazine [see Contraindications (4)]. |
 | Other Serotonergic Drugs |  |
 | Clinical Impact | The concomitant use of serotonergic drugs with Paroxetine HCL CR increases the risk of serotonin syndrome. |
 | Intervention | Monitor patients for signs and symptoms of serotonin syndrome, particularly during treatment initiation and dosage increases. If serotonin syndrome occurs, consider discontinuation of Paroxetine HCL CR and/or concomitant serotonergic drugs [see Warnings and Precautions (5.2)]. |
-| Examples | other SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John’s Wort |
+| Examples | Other SSRIs, SNRIs, triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, St. John’s Wort |
 | Drugs that Interfere with Hemostasis (antiplatelet agents and anticoagulants) |  |
 | Clinical Impact | The concurrent use of an antiplatelet agent or anticoagulant with Paroxetine HCL CR may potentiate the risk of bleeding. |
 | Intervention | Inform patients of the increased risk of bleeding associated with the concomitant use of Paroxetine HCL CR and antiplatelet agents and anticoagulants. For patients taking warfarin, carefully monitor the international normalized ratio [see Warnings and Precautions (5.5)]. |
@@ -27,7 +27,7 @@ Table 6: Clinically Significant Drug Interactions with Paroxetine HCL CR
 | Intervention | Monitor for adverse reactions and reduce dosage of Paroxetine HCL CR or other protein-bound drugs as warranted. |
 | Examples | warfarin |
 | Drugs Metabolized by CYP2D6 |  |
-| Clinical Impact | Paroxetine HCL CR is a CYP2D6 inhibitor [see Clinical Pharmacology (12.3)]. The concomitant use of Paroxetine HCL CR with a CYP2D6 substrate may increase the exposure of the CYP2D6 substrate |
+| Clinical Impact | Paroxetine HCL CR is a CYP2D6 inhibitor [see Clinical Pharmacology (12.3)]. The concomitant use of Paroxetine HCL CR with a CYP2D6 substrate may increase the exposure of the CYP2D6 substrate. |
 | Intervention | Decrease the dosage of a CYP2D6 substrate if needed with concomitant Paroxetine HCL CR use. Conversely, an increase in dosage of a CYP2D6 substrate may be needed if Paroxetine HCL CR is discontinued. |
 | Examples | propafenone, flecainide, atomoxetine, desipramine, dextromethorphan, metoprolol, nebivolol, perphenazine, tolterodine, venlafaxine, risperidone. |
 | Tamoxifen |  |

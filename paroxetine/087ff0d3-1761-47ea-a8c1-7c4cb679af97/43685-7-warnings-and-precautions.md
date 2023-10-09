@@ -5,7 +5,7 @@
 In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients.
 There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk identified in young patients for most drugs studied.
 There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD.
-The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1000 patients treated are provided in Table 2.
+The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1,000 patients treated are provided in Table 2.
 
 Table 2: Risk Differences of the Number of Patients of Suicidal Thoughts and Behaviors in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients
 
@@ -13,9 +13,9 @@ Table 2: Risk Differences of the Number of Patients of Suicidal Thoughts and Beh
 | --- | --- |
 | Increases Compared to Placebo |  |
 | <18 years old | 14 additional patients |
-| 18-24 years old | 5 additional patients |
+| 18 to 24 years old | 5 additional patients |
 | Decreases Compared to Placebo |  |
-| 25-64 years old | 1 fewer patients |
+| 25 to 64 years old | 1 fewer patient |
 | ≥65 years old | 6 fewer patients |
 
 It is unknown whether the risk of suicidal thoughts and behaviors in children, adolescents, and young adults extends to longer-term use, i.e., beyond four months.
@@ -28,7 +28,7 @@ Consider changing the therapeutic regimen, including possibly discontinuing Paro
 ## 5.2 Serotonin Syndrome
 
 Serotonin-norepinephrine reuptake inhibitors (SNRIs) and SSRIs, including Paroxetine HCL CR, can precipitate serotonin syndrome, a potentially life-threatening condition.
-The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)].
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, meperidine, methadone, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)].
 Serotonin syndrome can also occur when these drugs are used alone.
 
 Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -44,22 +44,24 @@ If concomitant use of Paroxetine HCL CR with other serotonergic drugs is clinica
 
 ## 5.3 Drug Interactions Leading to QT Prolongation
 
+Cases of QT interval prolongation have been reported, although causality with Paroxetine HCL CR has not been established.
+
+Paroxetine HCL CR should be used with caution in patients with a history of QT interval prolongation, patients taking anti-arrhythmic or other medications that may potentially prolong QT interval, or those with relevant pre-existing cardiac disease.
+
 The CYP2D6 inhibitory properties of paroxetine can elevate plasma levels of thioridazine and pimozide.
 Since thioridazine and pimozide given alone produce prolongation of the QTc interval and increase the risk of serious ventricular arrhythmias, the use of Paroxetine HCL CR is contraindicated in combination with thioridazine and pimozide [see Contraindications (4), Drug Interactions (7), Clinical Pharmacology (12.3)].
 
-## 5.4 Embryofetal and Neonatal Toxicity
+## 5.4 Embryofetal Toxicity
 
-Paroxetine HCL CR can cause fetal harm when administered to a pregnant woman.
-Epidemiological studies have shown that infants exposed to paroxetine in the first trimester of pregnancy have an increased risk of cardiovascular malformations.
-Exposure to paroxetine in late pregnancy may lead to an increased risk for persistent pulmonary hypertension of the newborn (PPNH) and/or neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding.
-
-If Paroxetine HCL CR is used during pregnancy, or if the patient becomes pregnant while taking Paroxetine HCL CR, the patient should be apprised of the potential hazard to the fetus [see Use in Specific Populations (8.1)].
+Based on meta-analyses of epidemiological studies, exposure to paroxetine in the first trimester of pregnancy is associated with a less than 2-fold increase in the rate of cardiovascular malformations among infants.
+For women who intend to become pregnant or who are in their first trimester of pregnancy, Paroxetine HCL CR should be initiated only after consideration of the other available treatment options [see Use in Specific Populations (8.1)].
 
 ## 5.5 Increased Risk of Bleeding
 
 Drugs that interfere with serotonin reuptake inhibition, including Paroxetine HCL CR, increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDS), other antiplatelet drugs, warfarin, and other anticoagulants may add to this risk.
 Case reports and epidemiological studies (case‑control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Use in Specific Populations (8.1)].
 Bleeding events related to drugs that interfere with serotonin reuptake have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
 Inform patients about the increased risk of bleeding associated with the concomitant use of Paroxetine HCL CR and antiplatelet agents or anticoagulants.
@@ -74,7 +76,7 @@ Prior to initiating treatment with Paroxetine HCL CR, screen patients for any pe
 ## 5.7 Discontinuation Syndrome
 
 Adverse reactions after discontinuation of serotonergic antidepressants, particularly after abrupt discontinuation, include: nausea, sweating, dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), tremor, anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
-A gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [see Dosage and Administration (2.7)].
+A gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [See Dosage and Administration (2.7)].
 
 Adverse reactions have been reported upon discontinuation of treatment with paroxetine in pediatric patients.
 The safety and effectiveness of Paroxetine HCL CR in pediatric patients have not been established [see Boxed Warning, Warnings and Precautions (5.1), Use in Specific Populations (8.4)].
@@ -105,7 +107,7 @@ Elderly patients, patients taking diuretics, and those who are volume-depleted m
 
 ## 5.11 Reduction of Efficacy of Tamoxifen
 
-Some studies have shown that the efficacy of tamoxifen, as measured by the risk of breast cancer relapse/mortality, may be reduced with concomitant use of paroxetine as a result of paroxetine’s irreversible inhibition of CYP2D6 and lower blood levels of tamoxifen [see Drug Interactions (7.3)].
+Some studies have shown that the efficacy of tamoxifen, as measured by the risk of breast cancer relapse/mortality, may be reduced with concomitant use of paroxetine as a result of paroxetine’s irreversible inhibition of CYP2D6 and lower blood levels of tamoxifen [see Drug Interactions (7.1)].
 One study suggests that the risk may increase with longer duration of coadministration.
 However, other studies have failed to demonstrate such a risk.
 When tamoxifen is used for the treatment or prevention of breast cancer, prescribers should consider using an alternative antidepressant with little or no CYP2D6 inhibition.

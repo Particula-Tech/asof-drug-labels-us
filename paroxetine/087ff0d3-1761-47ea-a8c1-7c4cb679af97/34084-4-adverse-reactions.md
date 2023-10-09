@@ -37,7 +37,7 @@ In pooled studies for PMDD, the most common adverse reactions leading to study w
 
 Adverse Reactions in MDD, PD, and SAD
 
-Table 3 presents the most common adverse reactions in Paroxetine HCL CR-treated patients (incidence ≥5% and greater than placebo within at least 1 of the indications) in controlled trials in patients with MDD, PD, and SAD
+Table 3 presents the most common adverse reactions in Paroxetine HCL CR-treated patients (incidence ≥5% and greater than placebo within at least 1 of the indications) in controlled trials in patients with MDD, PD, and SAD.
 
 Table 3.
 Adverse Reactions (≥5% of Patients Treated with Paroxetine HCL CR and Greater than Placebo) in 10 to 12 Week Studies of MDD, PD, and SAD
@@ -94,7 +94,7 @@ d Mostly anorgasmia or delayed orgasm
 
 Other Adverse Reactions Observed During the Premarketing Evaluation of Paroxetine HCL CR
 
-Adverse reactions from studies in MDD (not including Study 3 in elderly patients), PD, and SAD that occurred between 1% and 5% of patients treated with Paroxetine HCL CR and at a rate greater than in placebo-treated patients include:, allergic reaction, tachycardia, vasodilatation, hypertension, migraine, vomiting, weight loss, weight gain, hypertonia, paresthesia, agitation, confusion, myoclonus, concentration impaired, depression, rhinitis, cough increased, bronchitis, photosensitivity, eczema, taste perversion, UTI, menstrual disorder, urinary frequency, urination impaired, and vaginitis.
+Adverse reactions from studies in MDD (not including Study 3 in elderly patients), PD, and SAD that occurred between 1% and 5% of patients treated with Paroxetine HCL CR and at a rate greater than in placebo-treated patients include:, allergic reaction, tachycardia, vasodilatation, hypertension, migraine, vomiting, weight loss, weight gain, hypertonia, paraesthesia, agitation, confusion, myoclonus, concentration impaired, depression, rhinitis, cough increased, bronchitis, photosensitivity, eczema, taste perversion, UTI, menstrual disorder, urinary frequency, urination impaired, and vaginitis.
 
 Adverse Reactions in Patients with PMDD
 
@@ -190,4 +190,4 @@ Urogenital System: Infrequent was urinary retention; rare was urinary incontinen
 The following reactions have been identified during post approval use of paroxetine.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Acute pancreatitis, elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction), Guillain‑Barré syndrome, Stevens-Johnson syndrome, toxic epidermal necrolysis, priapism, syndrome of inappropriate ADH secretion (SIADH), prolactinemia and galactorrhea; extrapyramidal symptoms which have included akathisia, bradykinesia, cogwheel rigidity, dystonia, hypertonia, trismus; status epilepticus, acute renal failure, pulmonary hypertension, allergic alveolitis, anaphylaxis, eclampsia, laryngismus, optic neuritis, porphyria, restless legs syndrome (RLS), ventricular fibrillation, ventricular tachycardia (including torsade de pointes), hemolytic anemia, events related to impaired hematopoiesis (including aplastic anemia, pancytopenia, bone marrow aplasia, and agranulocytosis), and vasculitic syndromes (such as Henoch‑Schönlein purpura).
+Acute pancreatitis, elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction), Guillain‑Barré syndrome, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), priapism, syndrome of inappropriate ADH secretion (SIADH), prolactinemia and galactorrhea; extrapyramidal symptoms which have included akathisia, bradykinesia, cogwheel rigidity, dystonia, hypertonia, trismus; status epilepticus, acute renal failure, pulmonary hypertension, allergic alveolitis, anosmia, hyposmia, anaphylaxis, eclampsia, laryngismus, optic neuritis, porphyria, restless legs syndrome (RLS), ventricular fibrillation, ventricular tachycardia (including torsade de pointes), hemolytic anemia, events related to impaired hematopoiesis (including aplastic anemia, pancytopenia, bone marrow aplasia, and agranulocytosis), and vasculitic syndromes (such as Henoch‑Schönlein purpura).

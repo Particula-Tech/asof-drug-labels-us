@@ -4,7 +4,7 @@ Paroxetine HCL CR
 
 (PA-rox-eh-tine HY-dro-chlo-ride)
 
-extended-release tablets
+extended-release tablets,USP
 
 What is the most important information I should know about Paroxetine HCL CR?
 
@@ -62,6 +62,7 @@ Do not start taking an MAOI for at least 14 days after you stop treatment with P
 Before taking Paroxetine HCL CR, tell your healthcare provider about all your medical conditions, including if you:
 
 - have heart problems
+- have a heart tracing (electrocardiogram/ECG) has an abnormality known as prolonged QT interval or you are taking medicines that may affect the QT interval in the ECG.
 - have or had bleeding problems
 - have, or have a family history of bipolar disorder, mania or hypomania
 - have or had seizures or convulsions
@@ -71,8 +72,13 @@ Before taking Paroxetine HCL CR, tell your healthcare provider about all your me
 - have kidney or liver problems
 - are pregnant or plan to become pregnant.
   Paroxetine HCL CR may harm your unborn baby.
-  Talk to your healthcare provider about the risks to your unborn baby if you take Paroxetine HCL CR during pregnancy.
-  Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with Paroxetine HCL CR.
+  - Taking Paroxetine HCL CR during your first trimester of pregnancy may cause your baby to be at an increased risk of having a heart problem (cardiac malformations) at birth.
+  - Taking Paroxetine HCL CR during your third trimester of pregnancy may cause your baby to have breathing, temperature, and feeding problems, low muscle tone (floppy baby syndrome), and irritability after birth and may cause your baby to be at an increased risk of a serious lung problem at birth.
+    Talk to your healthcare provider about the risk to your unborn baby if you take Paroxetine HCL CR during pregnancy.
+  - Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with Paroxetine HCL CR.
+  - There is a pregnancy registry for females who are exposed to Paroxetine HCL CR during pregnancy.
+    The purpose of the registry is to collect information about the health of females exposed to Paroxetine HCL CR and their baby.
+    If you become pregnant during treatment with Paroxetine HCL CR talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants at 1-866-961-2388 or visit online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
 - are breastfeeding or plan to breastfeed.
   Paroxetine HCL CR passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby during treatment with Paroxetine HCL CR.
@@ -86,9 +92,8 @@ Especially tell your healthcare provider if you take:
 
 - medicines used to treat migraine headaches called triptans
 - tricyclic antidepressants
-- fentanyl
 - lithium
-- tramadol
+- tramadol, fentanyl, meperidine, methadone, or other opioids
 - tryptophan
 - buspirone
 - amphetamines
@@ -102,7 +107,7 @@ Your healthcare provider can tell you if it is safe to take Paroxetine HCL CR wi
 
 Do not start or stop any other medicines during treatment with Paroxetine HCL CR without talking to your healthcare provider first.
 Stopping Paroxetine HCL CR suddenly may cause you to have serious side effects.
-See, “What are the possible side effects of Paroxetine HCL?”
+See, “What are the possible side effects of Paroxetine HCLCR?”
 
 Know the medicines you take.
 Keep a list of them to show to your healthcare provider and pharmacist when you get a new medicine.
@@ -112,7 +117,7 @@ How should I take Paroxetine HCL CR?
 - Take Paroxetine HCL CR exactly as your healthcare provider tell you to.
   Your healthcare provider may need to change the dose of Paroxetine HCL CR until it is the right dose for you.
 - Take Paroxetine HCL CR 1 time each day in the morning.
-- Paroxetine HCL CR may be taken with or without food.
+- Take Paroxetine HCL CR may be taken with or without food.
 - Swallow Paroxetine HCL CR tablets whole.
   Do not chew or crush Paroxetine HCL CR tablets.
 - If you take too much Paroxetine HCL CR, call your poison control center at 1-800-222-1222 or got to the nearest hospital emergency room right away.
@@ -121,7 +126,7 @@ What are possible side effects of Paroxetine HCL CR?
 
 Paroxetine HCL CR can cause serious side effects, including:
 
-- See, “What is the most important information I should know about Paroxetine HCL CR?”
+- See, “What is the most important information I should know about Paroxetine HCL CR ?”
 - Serotonin syndrome.
   A potentially life-threatening problem called serotonin syndrome can happen when you take Paroxetine HCL CR with certain other medicines.
   See, “Who should not take Paroxetine HCL CR?”
@@ -255,8 +260,7 @@ Inactive ingredients: glyceryl behenate, hypromellose, lactose monohydrate, magn
 
 Manufactured by:
 
-ApotexInc.
-Toronto, Ontario M9L 1T9
+Apotex Inc. Toronto, Ontario M9L 1T9
 
 Manufactured for:
 
@@ -266,10 +270,10 @@ Weston, FL 33326
 
 All registered trademarks in this document are the property of their respective owners.
 
-For more information about Paroxetine HCL CR call 1-800-706-5575.
+For more information about Paroxetine HCL CR, call Apotex Corp. at 1-800-706-5575 or go to www.apotex.com.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 10/2021
+Revised: 09/2023.
 
 - 
