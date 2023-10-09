@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Cisatracurium binds competitively to cholinergic receptors on the motor end-plate to antagonize the action of acetylcholine, resulting in blockade of neuromuscular transmission.
+Cisatracurium besylate injection binds competitively to cholinergic receptors on the motor end-plate to antagonize the action of acetylcholine, resulting in blockade of neuromuscular transmission.
 This action is antagonized by acetylcholinesterase inhibitors such as neostigmine.
 
 ## 12.2 Pharmacodynamics
@@ -22,7 +22,7 @@ The magnitude of these effects depended on the duration of administration of the
 
 The onset, duration of action, and recovery profiles of cisatracurium besylate injection during propofol/oxygen or propofol/nitrous oxide/oxygen anesthesia were similar to those during opioid/nitrous oxide/oxygen anesthesia (see Table 5).
 
-Repeated administration of maintenance cisatracurium besylate injection doses or a continuous cisatracurium infusion for up to 3 hours was not associated with development of tachyphylaxis or cumulative neuromuscular blocking effects.
+Repeated administration of maintenance cisatracurium besylate injection doses or a continuous cisatracurium besylate injection infusion for up to 3 hours was not associated with development of tachyphylaxis or cumulative neuromuscular blocking effects.
 The time needed to recover from successive maintenance doses did not change with the number of doses administered when partial recovery occurred between doses.
 The rate of spontaneous recovery of neuromuscular function after cisatracurium besylate injection, infusion was independent of the duration of infusion and comparable to the rate of recovery following initial doses (see Table 5).
 
@@ -31,7 +31,7 @@ Pediatric patients including infants generally had a shorter time to maximum neu
 Table 5.
 Pharmacodynamic Dose Response* of Cisatracurium Besylate Injection During Opioid/Nitrous Oxide/Oxygen Anesthesia
 
-| ﻿ C isatracurium Dose | Time to 90% Block (min) | Time to Maximum Block (min) | 5% Recovery (min) | 25% Recovery (min) | 95% Recovery (min) | T4:T1 Ratio‡ ≥ 70% in minutes | 25%-75% Recovery Index in minutes |
+| ﻿ C isatracurium Besylate Dose | Time to 90% Block (minutes) | Time to Maximum Block (minutes) | 5% Recovery (minutes) | 25% Recovery (minutes) | 95% Recovery (minutes) | T4:T1 Ratio‡ ≥ 70% in minutes | 25%-75% Recovery Index in minutes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Adults |  |  |  |  |  |  |  |
 | 0.1 mg/kg (2 × ED95) (n§ = 98) | 3.3 (1.0-8.7) | 5.0 (1.2-17.2) | 33 (15-51) | 42 (22-63) | 64 (25-93) | 64 (32-91) | 13 (5-30) |
@@ -109,7 +109,7 @@ The compartmental PK modeling suggests that approximately 80% of the cisatracuri
 These findings are consistent with the low magnitude of interpatient variability in CL (16%) estimated as part of the population PK/PD analyses and with the recovery of parent and metabolites in urine.
 
 In studies of healthy surgical patients, mean t1/2β values of cisatracurium ranged from 22 to 29 minutes and were consistent with the t1/2β of cisatracurium in vitro (29 minutes).
-The mean ± SD t1/2β value of laudanosine were 3.1 ± 0.4 and 3.3 ± 2.1 hours in healthy surgical patients receiving cisatracurium besylate injection (n = 10).
+The mean ± SD t1/2β value of laudanosine were 3.1 ± 0.4 hours in healthy surgical patients receiving cisatracurium besylate injection (n = 10).
 
 Metabolism:
 
@@ -122,8 +122,8 @@ Laudanosine is further metabolized to desmethyl metabolites which are conjugated
 The laudanosine metabolite of cisatracurium has been noted to cause transient hypotension and, in higher doses, cerebral excitatory effects when administered to several animal species.
 The relationship between CNS excitation and laudanosine concentrations in humans has not been established [see Warnings and Precautions (5.3)].
 
-During IV infusions of cisatracurium, peak plasma concentrations (Cmax) of laudanosine and the MQA metabolite were approximately 6% and 11% of the parent compound, respectively.
-The Cmax values of laudanosine in healthy surgical patients receiving infusions of cisatracurium were mean ± SD Cmax: 60 ± 52 ng/mL.
+During IV infusions of cisatracurium besylate injection, peak plasma concentrations (Cmax) of laudanosine and the MQA metabolite were approximately 6% and 11% of the parent compound, respectively.
+The Cmax values of laudanosine in healthy surgical patients receiving infusions of cisatracurium besylate injection were mean ± SD Cmax: 60 ± 52 ng/mL.
 
 Excretion:
 
@@ -134,7 +134,7 @@ Special Populations
 
 Geriatric Patients
 
-The results of conventional PK analysis from a study of 12 healthy elderly patients and 12 healthy young adult patients who received a single IV cisatracurium dose of 0.1 mg/kg are summarized in Table 7.
+The results of conventional PK analysis from a study of 12 healthy elderly patients and 12 healthy young adult patients who received a single IV cisatracurium besylate injection dose of 0.1 mg/kg are summarized in Table 7.
 Plasma clearances of cisatracurium were not affected by age; however, the volumes of distribution were slightly larger in elderly patients than in young patients resulting in slightly longer t1/2β values for cisatracurium.
 
 The rate of equilibration between plasma cisatracurium concentrations and neuromuscular blockade was slower in elderly patients than in young patients (mean ± SD keo: 0.071 ± 0.036 and 0.105 ± 0.021 minutes-1, respectively); there was no difference in the patient sensitivity to cisatracurium-induced block, as indicated by EC50 values (mean ± SD EC50: 91 ± 22 and 89 ± 23 ng/mL, respectively).
@@ -157,8 +157,8 @@ Table 8 summarizes the conventional PK analysis from a study of cisatracurium be
 The slightly larger volumes of distribution in liver transplant patients were associated with slightly higher plasma clearances of cisatracurium.
 The parallel changes in these parameters resulted in no difference in t1/2β values.
 There were no differences in keo or EC50 between patient groups.
-The times to maximum neuromuscular blockade were approximately one minute faster in liver transplant patients than in healthy adult patients receiving 0.1 mg/kg cisatracurium.
-These minor PK differences were not associated with clinically significant differences in the recovery profile of cisatracurium.
+The times to maximum neuromuscular blockade were approximately one minute faster in liver transplant patients than in healthy adult patients receiving 0.1 mg/kg cisatracurium besylate injection.
+These minor PK differences were not associated with clinically significant differences in the recovery profile of cisatracurium besylate injection.
 
 The t1/2β values of metabolites are longer in patients with hepatic disease and concentration may be higher after long-term administration.
 

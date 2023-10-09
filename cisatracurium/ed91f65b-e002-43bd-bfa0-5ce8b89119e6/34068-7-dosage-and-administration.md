@@ -2,6 +2,11 @@
 
 ## 2.1 Important Dosage and Administration Instructions
 
+Risk of Medication Errors
+
+Accidental administration of neuromuscular blocking agents may be fatal.
+Store cisatracurium besylate injection with the cap and ferrule intact and in a manner that minimizes the possibility of selecting the wrong product [see Warnings and Precautions (5.5)].
+
 Important administration instructions include:
 
 - Cisatracurium besylate injection is for intravenous use only.
@@ -19,11 +24,6 @@ o Assess the extent of recovery from neuromuscular blockade (e.g., spontaneous r
 o Appropriately titrate doses to potentially limit exposure to toxic metabolites.
 
 o Facilitate more rapid reversal of the cisatracurium besylate injection-induced paralysis.
-
-Risk of Medication Errors
-
-Accidental administration of neuromuscular blocking agents may be fatal.
-Store cisatracurium besylate injection with the cap and ferrule intact and in a manner that minimizes the possibility of selecting the wrong product [see Warnings and Precautions (5.5)].
 
 ## 2.2 Recommended Cisatracurium Besylate Injection Dose for Performing Tracheal Intubation
 
@@ -79,34 +79,34 @@ Continuous Infusion for Surgical Procedures in Adults and Pediatric Patients
 During extended surgical procedures, cisatracurium besylate injection may be administered by continuous infusion to adults and pediatric patients aged 2 or more years if patients have spontaneous recovery after the initial cisatracurium besylate injection bolus dose.
 Following recovery from neuromuscular blockade, it may be necessary to re-administer a bolus dose to quickly re-establish neuromuscular blockade prior to starting the continuous infusion.
 
-If patients have had recovery of neuromuscular function, the recommended initial cisatracurium infusion rate is 3 mcg/kg/minute [see Dosage and Administration (2.6)].
+If patients have had recovery of neuromuscular function, the recommended initial cisatracurium besylate injection infusion rate is 3 mcg/kg/minute [see Dosage and Administration (2.6)].
 Subsequently reduce the rate to 1 to 2 mcg/kg/minute to maintain continuous neuromuscular blockade.
-Use peripheral nerve stimulation to assess the level of neuromuscular blockade and to appropriately titrate the cisatracurium infusion rate.
+Use peripheral nerve stimulation to assess the level of neuromuscular blockade and to appropriately titrate the cisatracurium besylate injection infusion rate.
 If no response is elicited to peripheral nerve stimulation, discontinue the infusion until a response returns.
 
 Consider reducing the infusion rate by up to 30% to 40% when cisatracurium besylate injection is administered during stable isoflurane anesthesia for at least 30 minutes (administered with nitrous oxide/oxygen at the 1.25 MAC level) [see Clinical Pharmacology (12.2)].
-Greater reductions in the cisatracurium infusion rate may be required with longer durations of administration of isoflurane or with the administration of other inhalational anesthetics.
+Greater reductions in the cisatracurium besylate injection infusion rate may be required with longer durations of administration of isoflurane or with the administration of other inhalational anesthetics.
 
 Patients Undergoing Coronary Artery Bypass Graft (CABG) Surgery
 
 Consider reducing the infusion rate in patients undergoing CABG with induced hypothermia to half the rate required during normothermia [see Clinical Pharmacology (12.2)].
-Spontaneous recovery from neuromuscular block following discontinuation of infusion of cisatracurium infusion is expected to proceed at a rate comparable to that following administration of a single bolus dose.
+Spontaneous recovery from neuromuscular block following discontinuation of infusion of cisatracurium besylate injection infusion is expected to proceed at a rate comparable to that following administration of a single bolus dose.
 
 Continuous Infusion for Mechanical Ventilation in the Intensive Care Unit in Adults
 
 During extended need for mechanical ventilation and skeletal muscle relaxation in the intensive care unit (ICU), cisatracurium besylate injection may be administered by continuous infusion to adults if a patient has spontaneous recovery of neuromuscular function after the initial cisatracurium besylate injection bolus dose.
 Following recovery from neuromuscular blockade, it may be necessary to re-administer a bolus dose to quickly re-establish neuromuscular blockade prior to starting the continuous infusion.
 
-The recommended cisatracurium infusion rate in adult patients in the ICU is 3 mcg/kg/minute (range: 0.5 to 10.2 mcg/kg/minute) [see Dosage and Administration (2.6)].
-Use peripheral nerve stimulation to assess the level of neuromuscular blockade and to appropriately titrate the cisatracurium infusion rate.
+The recommended cisatracurium besylate injection infusion rate in adult patients in the ICU is 3 mcg/kg/minute (range: 0.5 to 10.2 mcg/kg/minute) [see Dosage and Administration (2.6)].
+Use peripheral nerve stimulation to assess the level of neuromuscular blockade and to appropriately titrate the cisatracurium besylate injection infusion rate.
 
 ## 2.6 Rate Tables for Continuous Infusion
 
 The intravenous infusion rate depends upon the cisatracurium besylate injection concentration, the desired dose, the patient's weight, and the contribution of the infusion solution to the fluid requirements of the patient.
-Tables 1 and 2 provide guidelines for the cisatracurium infusion rate, in mL/hour (equivalent to microdrops/minute when 60 microdrops = 1 mL), in concentrations of 0.1 mg/mL or 0.4 mg/mL, respectively.
+Tables 1 and 2 provide guidelines for the cisatracurium besylate injection infusion rate, in mL/hour (equivalent to microdrops/minute when 60 microdrops = 1 mL), in concentrations of 0.1 mg/mL or 0.4 mg/mL, respectively.
 
 Table 1.
-Cisatracurium Infusion Rates for Maintenance of Neuromuscular Blockade During Opioid/Nitrous Oxide/Oxygen Anesthesia with a Concentration of 0.1 mg/mL
+Cisatracurium Besylate Injection Infusion Rates for Maintenance of Neuromuscular Blockade During Opioid/Nitrous Oxide/Oxygen Anesthesia with a Concentration of 0.1 mg/mL
 
 | Drug Delivery Rate (mcg/kg/minute) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -118,7 +118,7 @@ Cisatracurium Infusion Rates for Maintenance of Neuromuscular Blockade During Op
 | 100 Kg | 60 | 90 | 120 | 180 | 300 |
 
 Table 2.
-Cisatracurium Infusion Rates for Maintenance of Neuromuscular Blockade During Opioid/Nitrous Oxide/Oxygen Anesthesia with a Concentration of 0.4 mg/mL
+Cisatracurium Besylate Injection Infusion Rates for Maintenance of Neuromuscular Blockade During Opioid/Nitrous Oxide/Oxygen Anesthesia with a Concentration of 0.4 mg/mL
 
 | Drug Delivery Rate (mcg/kg/minute) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -134,6 +134,8 @@ Cisatracurium Infusion Rates for Maintenance of Neuromuscular Blockade During Op
 Visually inspect cisatracurium besylate injection for particulate matter and discoloration prior to administration.
 If a cisatracurium besylate injection, solution is cloudy or contains visible particulates, do not use cisatracurium besylate injection.
 Cisatracurium besylate injection is a colorless to slightly yellow or greenish-yellow solution.
+
+Discard unused portion of the 5 mL and 20 mL single-dose vials
 
 Cisatracurium besylate injection may be diluted to 0.1 mg/mL in the following solutions:
 
