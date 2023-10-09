@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA215709"
+  ],
+  "inn": "fluorescein",
+  "labeler": "Nexus Pharmaceuticals LLC",
+  "package_ndcs": [
+    "14789-122-05",
+    "14789-122-07",
+    "14789-123-05",
+    "14789-123-07"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "fluorescein",
+      "name": "Fluorescein"
+    }
+  ],
+  "setid": "0a2a65b1-dc88-445b-bfb7-53b2fd7bea2c",
+  "source": "dailymed"
+}
