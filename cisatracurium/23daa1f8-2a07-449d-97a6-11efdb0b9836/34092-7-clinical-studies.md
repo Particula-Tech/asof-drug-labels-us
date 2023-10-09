@@ -20,7 +20,7 @@ Intubating conditions were assessed at 120 seconds following administration of 0
 Table 11.
 Intubating Conditions at 120 Seconds after Cisatracurium Besylate Injection Administration with Thiopental Anesthesia in Adult Surgery Patients in Study 4
 
-|  | Cisatracurium 0.15 mg/kg (n = 26) | Cisatracurium 0.20 mg/kg (n = 25) |
+|  | Cisatracurium Besylate 0.15 mg/kg (n = 26) | Cisatracurium Besylate 0.20 mg/kg (n = 25) |
 | --- | --- | --- |
 | Excellent and Good | 88% | 96% |
 | 95% CI | 76,100 | 88,100 |
@@ -37,7 +37,7 @@ Table 12 displays these results.
 Table 12.
 Intubating Conditions at 90 Seconds after Cisatracurium Besylate Injection Administration with Thiopental or Propofol Anesthesia in Study 5
 
-| Intubating Condition | Cisatracurium 0.15 mg/kg with Propofol (n = 31) | Cisatracurium 0.15 mg/kg with Thiopental (n= 31) | Cisatracurium 0.20 mg/kg with Propofol (n= 30) | Cisatracurium 0.20 mg/kg with Thiopental (n = 28) |
+| Intubating Condition | Cisatracurium Besylate 0.15 mg/kg with Propofol (n = 31) | Cisatracurium Besylate 0.15 mg/kg with Thiopental (n= 31) | Cisatracurium Besylate 0.20 mg/kg with Propofol (n= 30) | Cisatracurium Besylate 0.20 mg/kg with Thiopental (n = 28) |
 | --- | --- | --- | --- | --- |
 | Excellent and Good | 94% | 90% | 93% | 96% |
 | 95% CI | 85,100 | 80,100 | 84,100 | 90,100 |
@@ -67,7 +67,7 @@ There were no patients for whom intubation was not possible, but there were 7/12
 Table 13.
 Intubating Conditions at 120 Seconds* in Pediatric Patients Ages 1 Month to 12 Years Old in Study 7
 
-|  | Cisatracurium 0.15 mg/kg 1-11 mo. |  | Cisatracurium 0.15 mg/kg 1-4 years |  | Cisatracurium 0.15 mg/kg 5-12 years |  |
+|  | Cisatracurium Besylate 0.15 mg/kg 1-11 mo. |  | Cisatracurium Besylate 0.15 mg/kg 1-4 years |  | Cisatracurium Besylate 0.15 mg/kg 5-12 years |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Halothane Anesthesia (n=30) | Thiopentone/ Fentanyl Anesthesia (n=30) | Halothane Anesthesia (n=30) | Thiopentone/ Fentanyl Anesthesia (n=30) | Halothane Anesthesia (n=30) | Thiopentone/ Fentanyl Anesthesia (n=30) |
 | Excellent and Good | 100% | 100% | 97% | 87% | 97% | 97% |

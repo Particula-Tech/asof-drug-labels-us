@@ -11,7 +11,7 @@ The data presented below are based on studies involving 945 surgical patients wh
 Table 3 displays adverse reactions that occurred at a rate of less than 1%.
 
 Table 3.
-Adverse Reactions in Clinical Trials of cisatracurium besylate injection in Surgical Patients
+Adverse Reactions in Clinical Trials of Cisatracurium Besylate Injection in Surgical Patients
 
 | Adverse Reaction | Incidence |
 | --- | --- |

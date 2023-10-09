@@ -57,7 +57,7 @@ Use peripheral nerve stimulation and monitor the clinical signs of neuromuscular
 
 ## 5.9 Resistance to Neuromuscular Blockade with Certain Drugs
 
-Shorter durations of neuromuscular block may occur and cisatracurium infusion rate requirements may be higher in patients chronically administered phenytoin or carbamazepine [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+Shorter durations of neuromuscular block may occur and cisatracurium besylate injection infusion rate requirements may be higher in patients chronically administered phenytoin or carbamazepine [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 Use peripheral nerve stimulation and monitor the clinical signs of neuromuscular blockade to determine the adequacy of neuromuscular blockage and the need to adjust the cisatracurium besylate injection dosage.
 
 ## 5.10 Malignant Hyperthermia (MH)

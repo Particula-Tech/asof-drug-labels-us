@@ -18,4 +18,6 @@ Made in India
 
 Code No.:KR/DRUGS/KTK/28/289/97
 
-ST-CAB/P/02
+ST-CAB/P/03
+
+1200708

@@ -4,6 +4,8 @@
 
 Table 4 displays clinically significant drug interactions with cisatracurium besylate injection
 
+Table 4 Clinically Significant Drug Interactions with Cisatracurium Besylate Injection
+
 | Drug or Drug Class | Clinical Implications* |
 | --- | --- |
 | Succinylcholine | The use of succinylcholine prior to cisatracurium besylate injection administration may decrease the time to onset of maximum neuromuscular blockade but has no effect on the duration of neuromuscular blockade. |
