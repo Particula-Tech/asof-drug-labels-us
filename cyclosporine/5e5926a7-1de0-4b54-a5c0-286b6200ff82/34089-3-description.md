@@ -19,7 +19,7 @@ cyclosporine, USP………………………………………………………
 
 alcohol, USP dehydrated………………………………………………………………max 12.7% by volume
 
-Inactive Ingredients: corn oil, gelatin, iron oxide red, linoleoyl macrogolglycerides, sorbitol, and titanium dioxide.
+Inactive ingredients: corn oil, gelatin, iron oxide red, linoleoyl macrogolglycerides, sorbitol, and titanium dioxide.
 May also contain glycerol.
 100 mg capsules may contain iron oxide yellow.
 

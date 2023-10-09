@@ -60,7 +60,7 @@ Renal biopsies from these patients will demonstrate an interstitial fibrosis wit
 In addition, toxic tubulopathy, peritubular capillary congestion, arteriolopathy, and a striped form of interstitial fibrosis with tubular atrophy may be present.
 Though none of these morphologic changes is entirely specific, a histologic diagnosis of chronic progressive cyclosporine-associated nephrotoxicity requires evidence of these.
 
-When considering the development of chronic nephrotoxicity it is noteworthy that several authors have reported an association between the appearance of interstitial fibrosis and higher cumulative doses or persistently high circulating trough concentrations of cyclosporine.
+When considering the development of chronic nephrotoxicity, it is noteworthy that several authors have reported an association between the appearance of interstitial fibrosis and higher cumulative doses or persistently high circulating trough concentrations of cyclosporine.
 This is particularly true during the first 6 posttransplant months when the dosage tends to be highest and when, in kidney recipients, the organ appears to be most vulnerable to the toxic effects of cyclosporine.
 Among other contributing factors to the development of interstitial fibrosis in these patients must be included, prolonged perfusion time, warm ischemia time, as well as episodes of acute toxicity, and acute and chronic rejection.
 The reversibility of interstitial fibrosis and its correlation to renal function have not yet been determined.
@@ -104,7 +104,7 @@ Transplant patients receiving cyclosporine are at increased risk for serious inf
 Serious Infections
 
 Patients receiving immunosuppressants, including Sandimmune, are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections.
-These infections may lead to serious, including fatal, outcomes (see BOXED WARNING, and ADVERSE REACTIONS).
+These infections may lead to serious, including fatal, outcomes (see BOXED WARNING and ADVERSE REACTIONS).
 
 Polyoma Virus Infections
 
@@ -154,9 +154,8 @@ In fact, patients experiencing anaphylactic reactions have been treated subseque
 
 Alcohol (ethanol)
 
-The alcohol content (see DESCRIPTION) of Sandimmune should be taken into account when given to patients in whom alcohol intake should be avoided or minimized, e.g. pregnant or breastfeeding women, in patients presenting with liver disease or epilepsy, in alcoholic patients, or pediatric patients.
-For an adult weighing 70 kg, the maximum daily oral dose would deliver about 1 gram of alcohol which is approximately 6% of the amount of alcohol contained in a standard drink.
-The daily intravenous dose would deliver approximately 15% of the amount of alcohol contained in a standard drink.
+The alcohol content (see DESCRIPTION) of Sandimmune should be taken into account when given to patients in whom alcohol intake should be avoided or minimized, e.g., pregnant or breastfeeding women, in patients presenting with liver disease or epilepsy, in alcoholic patients, or pediatric patients.
+For an adult weighing 70 kg, the maximum daily oral dose would deliver about 1 gram of alcohol (see DESCRIPTION for alcohol content of each formulation).
 
 Care should be taken in using Sandimmune (cyclosporine) with nephrotoxic drugs (see PRECAUTIONS).
 
