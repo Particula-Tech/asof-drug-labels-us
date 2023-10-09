@@ -49,9 +49,11 @@ Missed doses
 
 Inform patients if a dose is missed, it should be administered as soon as possible within 5 days after the missed dose.
 If more than 5 days have passed, the missed dose should be skipped and the next dose should be administered on the regularly scheduled day.
-In each case, inform patients to resume their regular once weekly dosing schedule [see Dosage and Administration (2.1)].
+In each case, inform patients to resume their regular once weekly dosing schedule [see Dosage and Administration (2.2)].
 
-Manufactured by: Novo Nordisk A/S
+Manufactured by:
+
+Novo Nordisk A/S
 
 DK-2880 Bagsvaerd
 
@@ -67,12 +69,10 @@ Plainsboro, NJ 08536
 
 1-888-693-6742
 
-Date of Issue: 10/2022
-
-Version: 8
+Version: 9
 
 OZEMPIC® and NovoFine® are registered trademarks of Novo Nordisk A/S.
 
 PATENT INFORMATION: http://www.novonordisk-us.com/products/product-patents.html
 
-© 2022 Novo Nordisk
+© 2023 Novo Nordisk

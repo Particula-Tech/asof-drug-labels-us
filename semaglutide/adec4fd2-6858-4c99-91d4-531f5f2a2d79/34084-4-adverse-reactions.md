@@ -139,6 +139,8 @@ The in vitro neutralizing activity of the antibodies is uncertain at this time.
 The following adverse reactions have been reported during post-approval use of semaglutide, the active ingredient of OZEMPIC.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
+Gastrointestinal Disorders: Ileus
+
 Hypersensitivity: anaphylaxis, angioedema, rash, urticaria.
 
 Hepatobiliary: cholecystitis, cholecystectomy

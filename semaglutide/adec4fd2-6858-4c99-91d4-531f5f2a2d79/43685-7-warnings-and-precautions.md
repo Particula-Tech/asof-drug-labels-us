@@ -3,7 +3,7 @@
 ## 5.1 Risk of Thyroid C-Cell Tumors
 
 In mice and rats, semaglutide caused a dose-dependent and treatment-duration-dependent increase in the incidence of thyroid C-cell tumors (adenomas and carcinomas) after lifetime exposure at clinically relevant plasma exposures [see Nonclinical Toxicology (13.1)].
-It is unknown whether OZEMPIC causes thyroid C-cell tumors, including medullary thyroid carcinoma (MTC), in humans as human relevance of semaglutide-induced rodent thyroid C-cell tumors has not been determined.
+It is unknown whether OZEMPIC causes thyroid C-cell tumors, including MTC, in humans as human relevance of semaglutide-induced rodent thyroid C-cell tumors has not been determined.
 
 Cases of MTC in patients treated with liraglutide, another GLP-1 receptor agonist, have been reported in the postmarketing period; the data in these reports are insufficient to establish or exclude a causal relationship between MTC and GLP-1 receptor agonist use in humans.
 

@@ -2,6 +2,9 @@
 
 ## 7.1 Concomitant Use with an Insulin Secretagogue (e.g., Sulfonylurea) or with Insulin
 
+OZEMPIC stimulates insulin release in the presence of elevated blood glucose concentrations.
+Patients receiving OZEMPIC in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin may have an increased risk of hypoglycemia, including severe hypoglycemia.
+
 When initiating OZEMPIC, consider reducing the dose of concomitantly administered insulin secretagogue (such as sulfonylureas) or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.5) and Adverse Reactions (6)].
 
 ## 7.2 Oral Medications

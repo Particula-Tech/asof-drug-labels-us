@@ -86,8 +86,8 @@ The mean baseline body weight was 89.9 kg, 89.2 kg, 89.3 kg in the OZEMPIC 0.5 m
 The mean changes from baseline to week 56 were -4.2 kg, -5.5 kg, and -1.7 kg for the OZEMPIC 0.5 mg, OZEMPIC 1 mg, and sitagliptin arms, respectively.
 The difference from sitagliptin (95% CI) for OZEMPIC 0.5 mg was -2.5 kg (-3.2, -1.8), and for OZEMPIC 1 mg was -3.8 kg (-4.5, -3.1).
 
-1. Figure 5.
-   Mean HbA1c (%) over time - baseline to week 56
+Figure 5.
+Mean HbA1c (%) over time - baseline to week 56
 
 Combination with metformin or metformin with sulfonylurea
 

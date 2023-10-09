@@ -1,38 +1,10 @@
-# PRINCIPAL DISPLAY PANEL – 1 mg dose, 1.5 mL Pen
-
-1 mg
-
-NDC 0169-4136-02
-
-List 413602
-
-OZEMPIC®
-
-(semaglutide) injection
-
-For Single Patient Use Only
-
-2 mg/1.5 mL (1.34 mg/mL) Prefilled pen
-
-Each pen delivers 2 doses of 1 mg only
-
-For subcutaneous use only
-
-Use OZEMPIC once weekly
-
-Contains: 2 Ozempic® pens, 4 NovoFine® Plus 32G needles, Product Literature.
-
-Dispense the enclosed Medication Guide to each patient.
-
-# PRINCIPAL DISPLAY PANEL – 0.25 mg or 0.5 mg doses
+# PRINCIPAL DISPLAY PANEL – 0.25 mg or 0.5 mg doses, 2 mg/3mL
 
 0.25 mg
 
-0.5mg
+0.5 mg
 
-NDC 0169-4132-12
-
-List 413212
+NDC 0169-4181-13List 418113
 
 OZEMPIC®
 
@@ -40,7 +12,7 @@ OZEMPIC®
 
 For Single Patient Use Only
 
-2 mg/1.5 mL (1.34 mg/mL) Prefilled pen
+2 mg/3 mL (0.68 mg/mL) Prefilled pen
 
 Pen delivers doses in 0.25 mg or 0.5 mg increments only
 
@@ -48,15 +20,15 @@ For subcutaneous use only
 
 Use OZEMPIC once weekly
 
-Contains: 1 Ozempic® pen, 6 NovoFine® Plus 32G needles, Product Literature.
+Contains: 1 OZEMPIC pen, 6 NovoFine® Plus 32G needles, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# PRINCIPAL DISPLAY PANEL – 1 mg dose, 3 mL Pen
+# PRINCIPAL DISPLAY PANEL – 1 mg dose, 4 mg/3 mL
 
 1 mg
 
-NDC 0169-4130-13 List 413013
+NDC 0169-4130-13List 413013
 
 OZEMPIC®
 
@@ -76,9 +48,11 @@ Contains: 1 OZEMPIC pen, 4 NovoFine® Plus 32G needles, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# PRINCIPAL DISPLAY PANEL – 2 mg. dose, 3 mL Pen
+# PRINCIPAL DISPLAY PANEL – 2 mg dose, 8mg/3 mL
 
-2 mg NDC 0169-4772-12 List 477212
+2 mg
+
+NDC 0169-4772-12List 477212
 
 OZEMPIC®
 
@@ -98,17 +72,21 @@ Contains: 1 OZEMPIC pen, 4 NovoFine® Plus 32G needles, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# PRINCIPAL DISPLAY PANEL – 2 mg. 3mL Low Dose Pen
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 0.25 mg and 0/5 mg, 1.5 mL
 
-0.25 mg NDC 0169-4181-13 List 418113
+0.25 mg
 
 0.5 mg
+
+NDC 0169-4132-12List 413212
 
 OZEMPIC®
 
 (semaglutide) injection
 
-2 mg/3 mL (0.68 mg/mL) Prefilled pen
+For Single Patient Use Only
+
+2 mg/1.5 mL (1.34 mg/mL) Prefilled pen
 
 Pen delivers doses in 0.25 mg or 0.5 mg increments only
 
@@ -117,5 +95,29 @@ For subcutaneous use only
 Use OZEMPIC once weekly
 
 Contains: 1 OZEMPIC pen, 6 NovoFine® Plus 32G needles, Product Literature.
+
+Dispense the enclosed Medication Guide to each patient.
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 1 mg, 1.5 mL
+
+1 mg
+
+NDC 0169-4136-02List 413602
+
+OZEMPIC®
+
+(semaglutide) injection
+
+For Single Patient Use Only
+
+2 mg/1.5 mL (1.34 mg/mL) Prefilled pen
+
+Pen delivers doses in 1 mg increments only
+
+For subcutaneous use only
+
+Use OZEMPIC once weekly
+
+Contains: 2 OZEMPIC pens, 4 NovoFine® Plus 32G needles, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.

@@ -19,7 +19,7 @@ The estimated background risk of miscarriage for the indicated population is unk
 
 Clinical Considerations
 
-Disease-Associated Maternal and/or Embryo/fetal risk
+Disease-Associated Maternal and/or Embryo/fetal Risk
 
 Hypoglycemia and hyperglycemia occur more frequently during pregnancy in patients with pre-gestational diabetes.
 Poorly controlled diabetes during pregnancy increases the maternal risk for diabetic ketoacidosis, pre- eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
