@@ -28,7 +28,7 @@ Table 7: Primary Efficacy Results for Change from Baseline in PANSS Total Score 
 | Baseline Mean Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |  |
 | --- | --- | --- | --- |
 | Treatment Group | Total PANSS Score |  |  |
-| LYBALVI (10 mg/10 mg, 20 mg/10 mg) (N=132) | 101.8 (11.6) | -23.9 (1.3) | –6.4 (-10.0, -2.8) |
+| LYBALVI (10 mg/10 mg, 20 mg/10 mg) (N=132) | 101.8 (11.6) | -23.9 (1.3) | -6.4 (-10.0, -2.8) |
 | Placebo (N=133) | 102.7 (11.9) | -17.5 (1.3) | -- |
 | Olanzapine (10 mg, 20 mg) (N=132) | 100.6 (12.1) | -22.8 (1.3) | -5.3 (-8.9, -1.7) |
 | Abbreviations: CI: confidence interval; LS: least squares; SD: standard deviation; SE: standard error. |  |  |  |

@@ -25,5 +25,4 @@ Storage and Handling
 
 Store at room temperature 20°C to 25°C (68°F to 77°F) with excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
 
-Store in the original bottle with desiccant.
-Keep bottle tightly closed and protect from moisture.
+Keep tightly closed and protect from moisture.

@@ -2,7 +2,7 @@ Principal Display Panel - 5 mg/10 mg 7 Tablets Carton Label
 
 NDC 65757-651-40 Rx Only
 
-LYBALVI™
+LYBALVI®
 
 (olanzapine/samidorphan) tablets
 
@@ -16,7 +16,7 @@ Principal Display Panel - 10 mg/10 mg 7 Tablets Carton Label
 
 NDC 65757-652-40 Rx Only
 
-LYBALVI™
+LYBALVI®
 
 (olanzapine/samidorphan) tablets
 
@@ -30,7 +30,7 @@ Principal Display Panel - 15 mg/10 mg 7 Tablets Carton Label
 
 NDC 65757-653-40 Rx Only
 
-LYBALVI™
+LYBALVI®
 
 (olanzapine/samidorphan) tablets
 
@@ -44,7 +44,7 @@ Principal Display Panel - 20 mg/10 mg 7 Tablets Carton Label
 
 NDC 65757-654-40 Rx Only
 
-LYBALVI™
+LYBALVI®
 
 (olanzapine/samidorphan) tablets
 
@@ -58,7 +58,7 @@ Principal Display Panel - 5 mg/10 mg 30 Tablets Carton Label
 
 NDC 65757-651-42 Rx Only
 
-LYBALVI™
+LYBALVI®
 
 (olanzapine/samidorphan) tablets
 
@@ -72,7 +72,7 @@ Principal Display Panel - 10 mg/10 mg 30 Tablets Carton Label
 
 NDC 65757-652-42 Rx Only
 
-LYBALVI™
+LYBALVI®
 
 (olanzapine/samidorphan) tablets
 
@@ -86,7 +86,7 @@ Principal Display Panel - 15 mg/10 mg 30 Tablets Carton Label
 
 NDC 65757-653-42 Rx Only
 
-LYBALVI™
+LYBALVI®
 
 (olanzapine/samidorphan) tablets
 
@@ -100,7 +100,7 @@ Principal Display Panel - 20 mg/10 mg 30 Tablets Carton Label
 
 NDC 65757-654-42 Rx Only
 
-LYBALVI™
+LYBALVI®
 
 (olanzapine/samidorphan) tablets
 
@@ -114,7 +114,7 @@ Principal Display Panel - 5 mg/10 mg 90 Tablets Carton Label
 
 NDC 65757-651-44 Rx Only
 
-LYBALVI™
+LYBALVI®
 
 (olanzapine/samidorphan) tablets
 
@@ -128,7 +128,7 @@ Principal Display Panel - 10 mg/10 mg 90 Tablets Carton Label
 
 NDC 65757-652-44 Rx Only
 
-LYBALVI™
+LYBALVI®
 
 (olanzapine/samidorphan) tablets
 
@@ -142,7 +142,7 @@ Principal Display Panel - 15 mg/10 mg 90 Tablets Carton Label
 
 NDC 65757-653-44 Rx Only
 
-LYBALVI™
+LYBALVI®
 
 (olanzapine/samidorphan) tablets
 
@@ -156,7 +156,7 @@ Principal Display Panel - 20 mg/10 mg 90 Tablets Carton Label
 
 NDC 65757-654-44 Rx Only
 
-LYBALVI™
+LYBALVI®
 
 (olanzapine/samidorphan) tablets
 
