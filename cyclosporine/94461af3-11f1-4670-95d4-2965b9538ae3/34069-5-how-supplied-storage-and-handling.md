@@ -41,4 +41,6 @@ Novartis Pharmaceuticals Corporation, East Hanover, New Jersey 07936
 
 © Novartis
 
-Revised: June 2021 T2021-82
+Revised: September 2023
+
+T2023-70

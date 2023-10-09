@@ -17,7 +17,7 @@ The immunosuppressive activity of cyclosporine is primarily due to parent drug.
 Following oral administration, absorption of cyclosporine is incomplete.
 The extent of absorption of cyclosporine is dependent on the individual patient, the patient population, and the formulation.
 Elimination of cyclosporine is primarily biliary with only 6% of the dose (parent drug and metabolites) excreted in urine.
-The disposition of cyclosporine from blood is generally biphasic, with a terminal half-life of approximately 8.4 hours (range 5 to 18 hours).
+The disposition of cyclosporine from blood is generally biphasic, with a terminal half-life of approximately 8.4 hours (range, 5 to 18 hours).
 Following intravenous administration, the blood clearance of cyclosporine (assay: HPLC) is approximately 5 to 7 mL/min/kg in adult recipients of renal or liver allografts.
 Blood cyclosporine clearance appears to be slightly slower in cardiac transplant patients.
 
@@ -36,7 +36,7 @@ In the same studies, intrasubject variability of trough concentrations (%CV) was
 Neoral has increased bioavailability compared to Sandimmune.
 The absolute bioavailability of cyclosporine administered as Sandimmune is dependent on the patient population, estimated to be less than 10% in liver transplant patients and as great as 89% in some renal transplant patients.
 The absolute bioavailability of cyclosporine administered as Neoral has not been determined in adults.
-In studies of renal transplant, rheumatoid arthritis and psoriasis patients, the mean cyclosporine AUC was approximately 20% to 50% greater and the peak blood cyclosporine concentration Cmax was approximately 40% to 106% greater following administration of Neoral compared to following administration of Sandimmune.
+In studies of renal transplant, rheumatoid arthritis and psoriasis patients, the mean cyclosporine AUC was approximately 20% to 50% greater and the peak blood cyclosporine concentration (Cmax) was approximately 40% to 106% greater following administration of Neoral compared to following administration of Sandimmune.
 The dose normalized AUC in de novo liver transplant patients administered Neoral 28 days after transplantation was 50% greater and Cmax was 90% greater than in those patients administered Sandimmune.
 AUC and Cmax are also increased (Neoral relative to Sandimmune) in heart transplant patients, but data are very limited.
 Although the AUC and Cmax values are higher on Neoral relative to Sandimmune, the predose trough concentrations (dose-normalized) are similar for the two formulations.
@@ -44,10 +44,10 @@ Although the AUC and Cmax values are higher on Neoral relative to Sandimmune, th
 Following oral administration of Neoral, the time to peak blood cyclosporine concentrations (Tmax) ranged from 1.5 to 2.0 hours.
 The administration of food with Neoral decreases the cyclosporine AUC and Cmax.
 A high fat meal (669 kcal, 45 grams fat) consumed within one-half hour before Neoral administration decreased the AUC by 13% and Cmax by 33%.
-The effects of a low fat meal (667 kcal, 15 grams fat) were similar.
+The effects of a low-fat meal (667 kcal, 15 grams fat) were similar.
 
 The effect of T-tube diversion of bile on the absorption of cyclosporine from Neoral was investigated in eleven de novo liver transplant patients.
-When the patients were administered Neoral with and without T-tube diversion of bile, very little difference in absorption was observed, as measured by the change in maximal cyclosporine blood concentrations from pre-dose values with the T-tube closed relative to when it was open: 6.9 ± 41% (range 55% to 68%).
+When the patients were administered Neoral with and without T-tube diversion of bile, very little difference in absorption was observed, as measured by the change in maximal cyclosporine blood concentrations from pre-dose values with the T-tube closed relative to when it was open: 6.9 ± 41% (range, 55% to 68%).
 
 | Pharmacokinetic Parameters (mean ± SD) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -56,7 +56,7 @@ When the patients were administered Neoral with and without T-tube diversion of 
 | De novo renal transplant4 | 597 ± 174 | 7.95 ± 2.81 | 8772 ± 2089 | 1802 ± 428 | 361 ± 129 | 593 ± 204 | 7.8 ± 2.9 |
 | Week 4 (N = 37) |  |  |  |  |  |  |  |
 | Stable renal transplant4 | 344 ± 122 | 4.10 ± 1.58 | 6035 ± 2194 | 1333 ± 469 | 251 ± 116 | 492 ± 140 | 5.9 ± 2.1 |
-| (N=55) |  |  |  |  |  |  |  |
+| (N = 55) |  |  |  |  |  |  |  |
 | De novo liver transplant5 | 458 ± 190 | 6.89 ± 3.68 | 7187 ± 2816 | 1555 ± 740 | 268 ± 101 | 577 ± 309 | 8.6 ± 5.7 |
 | Week 4 (N = 18) |  |  |  |  |  |  |  |
 | De novo rheumatoid arthritis6 | 182 ± 55.6 | 2.37 ± 0.36 | 2641 ± 877 | 728 ± 263 | 96.4 ± 37.7 | 613 ± 196 | 8.3 ± 2.8 |
@@ -93,7 +93,7 @@ Neither dialysis nor renal failure alters cyclosporine clearance significantly.
 
 ## Drug Interactions
 
-(See PRECAUTIONS, Drug Interactions) When diclofenac or methotrexate was coadministered with cyclosporine in rheumatoid arthritis patients, the AUC of diclofenac and methotrexate, each was significantly increased (see PRECAUTIONS, Drug Interactions).
+When diclofenac or methotrexate was coadministered with cyclosporine in rheumatoid arthritis patients, the AUC of diclofenac and methotrexate, each was significantly increased (see PRECAUTIONS, Drug Interactions).
 No clinically significant pharmacokinetic interactions occurred between cyclosporine and aspirin, ketoprofen, piroxicam, or indomethacin.
 
 Specific Populations
@@ -118,7 +118,7 @@ In a study of 7 renal transplant patients aged 2 to 16, the cyclosporine clearan
 In 9 liver transplant patients aged 0.6 to 5.6 years, clearance was 9.3 ± 5.4 mL/min/kg (assay: HPLC).
 
 In the pediatric population, Neoral also demonstrates an increased bioavailability as compared to Sandimmune.
-In 7 liver de novo transplant patients aged 1.4 to 10 years, the absolute bioavailability of Neoral was 43% (range 30% to 68%) and for Sandimmune in the same individuals absolute bioavailability was 28% (range 17% to 42%).
+In 7 liver de novo transplant patients aged 1.4 to 10 years, the absolute bioavailability of Neoral was 43% (range, 30% to 68%) and for Sandimmune, in the same individuals, absolute bioavailability was 28% (range, 17% to 42%).
 
 | Pediatric Pharmacokinetic Parameters (mean ± SD) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |

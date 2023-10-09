@@ -1,4 +1,4 @@
-# Laboratory Tests
+Laboratory Tests
 
 In all patients treated with cyclosporine, renal and liver functions should be assessed repeatedly by measurement of serum creatinine, BUN, serum bilirubin, and liver enzymes.
 Serum lipids, magnesium, and potassium should also be monitored.

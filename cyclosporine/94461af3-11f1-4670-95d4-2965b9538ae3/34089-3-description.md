@@ -23,7 +23,7 @@ cyclosporine…………………………………………………………�
 
 alcohol, USP dehydrated.......................................................................11.9% v/v (9.5% wt/vol.)
 
-Inactive Ingredients: Carmine, corn oil-mono-di-triglycerides, DL-α-tocopherol USP, gelatin NF, glycerol, iron oxide black, polyoxyl 40 hydrogenated castor oil NF, propylene glycol USP, titanium dioxide USP and other ingredients.
+Inactive ingredients: Carmine, corn oil-mono-di-triglycerides, DL-α-tocopherol USP, gelatin NF, glycerol, iron oxide black, polyoxyl 40 hydrogenated castor oil NF, propylene glycol USP, titanium dioxide USP, and other ingredients.
 
 ## Neoral Oral Solution
 
@@ -35,6 +35,6 @@ cyclosporine……………………............................................
 
 alcohol, USP dehydrated.....................................................................11.9% v/v (9.5% wt/vol.)
 
-Inactive Ingredients: Corn oil-mono-di-triglycerides, DL-α -tocopherol USP, polyoxyl 40 hydrogenated castor oil NF, and propylene glycol USP.
+Inactive ingredients: Corn oil-mono-di-triglycerides, DL-α -tocopherol USP, polyoxyl 40 hydrogenated castor oil NF, and propylene glycol USP.
 
 The chemical structure of cyclosporine (also known as cyclosporin A) is:

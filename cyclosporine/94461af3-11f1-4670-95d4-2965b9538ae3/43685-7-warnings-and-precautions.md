@@ -1,12 +1,12 @@
 # WARNINGS
 
-(See also BOXED WARNING)
+(See also BOXED WARNING.)
 
 ## All Patients
 
 Cyclosporine, the active ingredient of Neoral, can cause nephrotoxicity and hepatotoxicity.
 The risk increases with increasing doses of cyclosporine.
-Renal dysfunction including structural kidney damage is a potential consequence of Neoral and therefore renal function must be monitored during therapy.
+Renal dysfunction, including structural kidney damage, is a potential consequence of Neoral and therefore renal function must be monitored during therapy.
 Care should be taken in using cyclosporine with nephrotoxic drugs (see PRECAUTIONS).
 
 Patients receiving Neoral require frequent monitoring of serum creatinine (see Special Monitoring under DOSAGE AND ADMINISTRATION).
@@ -154,7 +154,7 @@ Moreover, use of Neoral therapy with other immunosuppressive agents may induce a
 
 ## Psoriasis
 
-(See also BOXED WARNING for Psoriasis)
+(See also BOXED WARNING for Psoriasis.)
 
 Since cyclosporine is a potent immunosuppressive agent with a number of potentially serious side effects, the risks and benefits of using Neoral should be considered before treatment of patients with psoriasis.
 Cyclosporine, the active ingredient in Neoral, can cause nephrotoxicity and hypertension (see PRECAUTIONS) and the risk increases with increasing dose and duration of therapy.
@@ -201,7 +201,7 @@ Special Excipients
 Alcohol (ethanol)
 
 The alcohol content (see DESCRIPTION) of Neoral should be taken into account when given to patients in whom alcohol intake should be avoided or minimized, e.g., pregnant or breastfeeding women, in patients presenting with liver disease or epilepsy, in alcoholic patients, or pediatric patients.
-For an adult weighing 70 kg, the maximum daily oral dose would deliver about 1 gram of alcohol which is approximately 6% of the amount of alcohol contained in a standard drink.
+For an adult weighing 70 kg, the maximum daily oral dose would deliver about 1 gram of alcohol (see DESCRIPTION for alcohol content of each formulation).
 
 # PRECAUTIONS
 
@@ -278,3 +278,6 @@ The combination of Neoral Oral Solution (cyclosporine oral solution, USP) MODIFI
 
 Patients should be advised to take Neoral on a consistent schedule with regard to time of day and relation to meals.
 Grapefruit and grapefruit juice affect metabolism, increasing blood concentration of cyclosporine, thus should be avoided.
+
+Cyclosporine may impact the ability to drive and use machines.
+Patients should be advised to exercise care when driving or using machines if they experience neurological disturbances including confusion, somnolence, or dizziness and discuss with their healthcare provider (see WARNINGS and ADVERSE REACTIONS).

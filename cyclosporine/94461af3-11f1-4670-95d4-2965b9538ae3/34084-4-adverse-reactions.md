@@ -55,9 +55,9 @@ The following reactions occurred in 2% or less of cyclosporine-treated patients:
 
 The following reactions occurred rarely: anxiety, chest pain, constipation, depression, hair breaking, hematuria, joint pain, lethargy, mouth sores, myocardial infarction, night sweats, pancreatitis, pruritus, swallowing difficulty, tingling, upper GI bleeding, visual disturbance, weakness, weight loss.
 
-Patients receiving immunosuppressive therapies, including cyclosporine and cyclosporine -containing regimens, are at increased risk of infections (viral, bacterial, fungal, parasitic).
+Patients receiving immunosuppressive therapies, including cyclosporine and cyclosporine-containing regimens, are at increased risk of infections (viral, bacterial, fungal, parasitic).
 Both generalized and localized infections can occur.
-Pre-existing infections may also be aggravated.
+Preexisting infections may also be aggravated.
 Fatal outcomes have been reported (see WARNINGS).
 
 | Infectious Complications in Historical Randomized Studies in Renal Transplant Patients Using Sandimmune |  |  |
@@ -86,7 +86,7 @@ Increased Risk of Infections
 
 Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), sometimes fatal; and polyoma virus-associated nephropathy (PVAN), especially BK virus resulting in graft loss have been reported (see WARNINGS, Polyoma Virus Infection).
 
-Headache, including Migraine
+Headache, Including Migraine
 
 Cases of migraine have been reported.
 In some cases, patients have been unable to continue cyclosporine, however, the final decision on treatment discontinuation should be made by the treating physician following the careful assessment of benefits versus risks.
@@ -226,7 +226,7 @@ Special Senses: abnormal vision, cataract, conjunctivitis, deafness, eye pain, t
 
 Urinary System: abnormal urine, hematuria, increased BUN, micturition urgency, nocturia, polyuria, pyelonephritis, urinary incontinence
 
-*NOS = Not Otherwise Specified
+*NOS = Not Otherwise Specified.
 
 ## Psoriasis
 
@@ -305,7 +305,7 @@ Increases in uric acid may occur and attacks of gout have been rarely reported.
 A minor and dose related hyperbilirubinemia has been observed in the absence of hepatocellular damage.
 Cyclosporine therapy may be associated with a modest increase of serum triglycerides or cholesterol.
 Elevations of triglycerides (> 750 mg/dL) occur in about 15% of psoriasis patients; elevations of cholesterol (> 300 mg/dL) are observed in less than 3% of psoriasis patients.
-Generally these laboratory abnormalities are reversible upon dose reduction or discontinuation of cyclosporine.
+Generally, these laboratory abnormalities are reversible upon dose reduction or discontinuation of cyclosporine.
 
 Postmarketing Experience, Psoriasis
 

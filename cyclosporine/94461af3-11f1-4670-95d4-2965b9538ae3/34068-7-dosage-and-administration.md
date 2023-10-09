@@ -107,7 +107,7 @@ In the majority of patients rebound does not occur after cessation of treatment 
 Thirteen cases of transformation of chronic plaque psoriasis to more severe forms of psoriasis have been reported.
 There were 9 cases of pustular and 4 cases of erythrodermic psoriasis.
 Long term experience with Neoral in psoriasis patients is limited and continuous treatment for extended periods greater than one year is not recommended.
-Alternation with other forms of treatment should be considered in the long term management of patients with this life long disease.
+Alternation with other forms of treatment should be considered in the long-term management of patients with this lifelong disease.
 
 ## Neoral Oral Solution (cyclosporine oral solution, USP) MODIFIED–Recommendations for Administration
 
@@ -136,7 +136,7 @@ Various assays have been used to measure blood concentrations of cyclosporine.
 Older studies using a nonspecific assay often cited concentrations that were roughly twice those of the specific assays.
 Therefore, comparison between concentrations in the published literature and an individual patient concentration using current assays must be made with detailed knowledge of the assay methods employed.
 Current assay results are also not interchangeable and their use should be guided by their approved labeling.
-A discussion of the different assay methods is contained in Annals of Clinical Biochemistry 1994; 31: 420-446.
+A discussion of the different assay methods is contained in Annals of Clinical Biochemistry 1994; 31:420-446.
 While several assays and assay matrices are available, there is a consensus that parent-compound-specific assays correlate best with clinical events.
 Of these, HPLC is the standard reference, but the monoclonal antibody RIAs and the monoclonal antibody FPIA offer sensitivity, reproducibility, and convenience.
 Most clinicians base their monitoring on trough cyclosporine concentrations.

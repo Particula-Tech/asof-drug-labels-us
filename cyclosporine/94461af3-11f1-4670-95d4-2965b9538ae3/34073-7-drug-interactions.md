@@ -39,12 +39,12 @@ Drugs That Increase Cyclosporine Concentrations
 |  |  |  |  | nefazodone |
 |  |  |  |  | oral contraceptives |
 
-HIV Protease inhibitors
+HIV Protease Inhibitors
 
 The HIV protease inhibitors (e.g., indinavir, nelfinavir, ritonavir, and saquinavir) are known to inhibit cytochrome P-450 3A and thus could potentially increase the concentrations of cyclosporine, however no formal studies of the interaction are available.
 Care should be exercised when these drugs are administered concomitantly.
 
-Grapefruit juice
+Grapefruit Juice
 
 Grapefruit and grapefruit juice affect metabolism, increasing blood concentrations of cyclosporine, thus should be avoided.
 
@@ -88,7 +88,7 @@ B. Effect of Cyclosporine on the Pharmacokinetics and/or Safety of Other Drugs o
 
 Cyclosporine is an inhibitor of CYP3A4 and of multiple drug efflux transporters (e.g., P-glycoprotein) and may increase plasma concentrations of comedications that are substrates of CYP3A4, P-glycoprotein or organic anion transporter proteins.
 
-Cyclosporine may reduce the clearance of digoxin, colchicine, prednisolone, HMG-CoA reductase inhibitors (statins), and, aliskiren, bosentan, dabigatran, repaglinide, NSAIDs, sirolimus, etoposide, and other drugs.
+Cyclosporine may reduce the clearance of digoxin, colchicine, prednisolone, HMG-CoA reductase inhibitors (statins), aliskiren, bosentan, dabigatran, repaglinide, NSAIDs, sirolimus, etoposide, and other drugs.
 
 See the full prescribing information of the other drug for further information and specific recommendations.
 The decision on coadministration of cyclosporine with other drugs or agents should be made by the healthcare provider following the careful assessment of benefits and risks.
@@ -104,31 +104,31 @@ There are reports on the potential of cyclosporine to enhance the toxic effects 
 Concomitant administration of cyclosporine and colchicine results in significant increases in colchicine plasma concentrations.
 If colchicine is used concurrently with cyclosporine, a reduction in the dosage of colchicine is recommended.
 
-HMG-CoA reductase inhibitors (statins)
+HMG-CoA Reductase Inhibitors (Statins)
 
-Literature and postmarketing cases of myotoxicity, including muscle pain and weakness, myositis, and rhabdomyolysis, have been reported with concomitant administration of cyclosporine with lovastatin, simvastatin, atorvastatin, pravastatin, and, rarely fluvastatin.
+Literature and postmarketing cases of myotoxicity, including muscle pain and weakness, myositis, and rhabdomyolysis, have been reported with concomitant administration of cyclosporine with lovastatin, simvastatin, atorvastatin, pravastatin, and rarely fluvastatin.
 When concurrently administered with cyclosporine, the dosage of these statins should be reduced according to label recommendations.
 Statin therapy needs to be temporarily withheld or discontinued in patients with signs and symptoms of myopathy or those with risk factors predisposing to severe renal injury, including renal failure, secondary to rhabdomyolysis.
 
 Repaglinide
 
 Cyclosporine may increase the plasma concentrations of repaglinide and thereby increase the risk of hypoglycemia.
-In 12 healthy male subjects who received two doses of 100 mg cyclosporine capsule orally 12 hours apart with a single dose of 0.25 mg repaglinide tablet (one-half of a 0.5mg tablet) orally 13 hours after the cyclosporine initial dose, the repaglinide mean Cmax and AUC were increased 1.8 fold (range: 0.6 to 3.7 fold) and 2.4 fold (range 1.2 to 5.3 fold), respectively.
+In 12 healthy male subjects who received two doses of 100 mg cyclosporine capsule orally 12 hours apart with a single dose of 0.25 mg repaglinide tablet (one-half of a 0.5 mg tablet) orally 13 hours after the cyclosporine initial dose, the repaglinide mean Cmax and AUC were increased 1.8-fold (range, 0.6 to 3.7-fold) and 2.4-fold (range, 1.2 to 5.3-fold), respectively.
 Close monitoring of blood glucose level is advisable for a patient taking cyclosporine and repaglinide concomitantly.
 
 Ambrisentan
 
 Coadministration of ambrisentan (5 mg daily) and cyclosporine (100 to 150 mg twice daily initially, then dosing to achieve Cmin 150 to 200 ng/mL) for 8 days in healthy subjects resulted in mean increases in ambrisentan AUC and Cmax of approximately 2-fold and 1.5–fold, respectively, compared to ambrisentan alone.
-When coadministering ambrisentan with cyclosporine, the ambrisentan dose should not be titrated to the recommended maximum daily dose
+When coadministering ambrisentan with cyclosporine, the ambrisentan dose should not be titrated to the recommended maximum daily dose.
 
-Anthracycline antibiotics
+Anthracycline Antibiotics
 
 High doses of cyclosporine (e.g., at starting intravenous dose of 16 mg/kg/day) may increase the exposure to anthracycline antibiotics (e.g., doxorubicin, mitoxantrone, daunorubicin) in cancer patients.
 
 Aliskiren
 
 Cyclosporine alters the pharmacokinetics of aliskiren, a substrate of P-glycoprotein and CYP3A4.
-In 14 healthy subjects who received concomitantly single doses of cyclosporine (200 mg) and reduced dose aliskiren (75 mg), the mean Cmax of aliskiren was increased by approximately 2.5-fold (90% CI: 1.96 to 3.17) and the mean AUC by approximately 4.3 fold (90% CI: 3.52 to 5.21), compared to when these subjects received aliskiren alone.
+In 14 healthy subjects who received concomitantly single doses of cyclosporine (200 mg) and reduced dose aliskiren (75 mg), the mean Cmax of aliskiren was increased by approximately 2.5-fold (90% CI: 1.96 to 3.17) and the mean AUC by approximately 4.3-fold (90% CI: 3.52 to 5.21), compared to when these subjects received aliskiren alone.
 The concomitant administration of aliskiren with cyclosporine prolonged the median aliskiren elimination half-life (26 hours versus 43 to 45 hours) and the Tmax (0.5 hours versus 1.5 to 2.0 hours).
 The mean AUC and Cmax of cyclosporine were comparable to reported literature values.
 Coadministration of cyclosporine and aliskiren in these subjects also resulted in an increase in the number and/or intensity of adverse events, mainly headache, hot flush, nausea, vomiting, and somnolence.
@@ -148,7 +148,7 @@ Coadministration of cyclosporine with dabigatran should be avoided.
 Potassium-Sparing Diuretics
 
 Cyclosporine should not be used with potassium-sparing diuretics because hyperkalemia can occur.
-Caution is also required when cyclosporine is co-administered with potassium sparing drugs (e.g., angiotensin converting enzyme inhibitors, angiotensin II receptor antagonists), potassium-containing drugs as well as in patients on a potassium rich diet.
+Caution is also required when cyclosporine is coadministered with potassium sparing drugs (e.g., angiotensin converting enzyme inhibitors, angiotensin II receptor antagonists), potassium-containing drugs as well as in patients on a potassium rich diet.
 Control of potassium levels in these situations is advisable.
 
 Nonsteroidal Anti-inflammatory Drug (NSAID) Interactions
@@ -185,9 +185,15 @@ Other Immunosuppressive Drugs and Agents
 
 Psoriasis patients receiving other immunosuppressive agents or radiation therapy (including PUVA and UVB) should not receive concurrent cyclosporine because of the possibility of excessive immunosuppression.
 
+Interactions Resulting in Decrease of Other Drug Levels
+
+Cyclosporine inhibits the enterohepatic circulation of mycophenolic acid (MPA).
+Concomitant administration of cyclosporine and mycophenolate mofetil or mycophenolate sodium in transplant patients may decrease the mean exposure of MPA by 20% - 50% when compared with other immunosuppressants, which could reduce efficacy of mycophenolate mofetil or mycophenolate sodium.
+Monitor patients for alterations in efficacy of mycophenolate mofetil or mycophenolate sodium, when they are coadministered with cyclosporine.
+
 C. Effect of Cyclosporine on the Efficacy of Live Vaccines
 
 During treatment with cyclosporine, vaccination may be less effective.
 The use of live vaccines should be avoided.
 
-For additional information on Cyclosporine Drug Interactions please contact Novartis Medical Affairs Department at 1-888-NOW-NOVA [1-888-669-6682].
+For additional information on Cyclosporine Drug Interactions please contact Novartis Medical Affairs Department at 1-888-NOW-NOVA (1-888-669-6682).
