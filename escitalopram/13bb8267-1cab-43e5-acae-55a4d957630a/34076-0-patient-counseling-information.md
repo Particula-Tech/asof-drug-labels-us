@@ -49,7 +49,7 @@ North Chicago, IL 60064
 
 Licensed from H. Lundbeck A/S
 
-©2023 Allergan.
+©2023 AbbVie.
 All rights reserved.
 
-V5.0USPI2005
+V5.1USPI2005

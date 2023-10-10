@@ -71,7 +71,7 @@ Adults
 
 The most commonly observed adverse reactions in Lexapro patients (incidence of approximately 5% or greater and approximately twice the incidence in placebo patients) were insomnia, ejaculation disorder (primarily ejaculatory delay), nausea, sweating increased, fatigue, and somnolence.
 
-Table 2 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred among 715 depressed patients who received Lexapro at doses ranging from 10 to 20 mg/day in placebo-controlled trials.
+Table 2 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred among 715 depressed patients who received Lexapro at doses ranging from 10 to 20 mg/day in placebo-controlled trials.
 Reactions included are those occurring in 2% or more of patients treated with Lexapro and for which the incidence in patients treated with Lexapro was greater than the incidence in placebo-treated patients.
 
 | TABLE 2 |  |  |
@@ -123,7 +123,7 @@ Adults
 
 The most commonly observed adverse reactions in Lexapro patients (incidence of approximately 5% or greater and approximately twice the incidence in placebo patients) were nausea, ejaculation disorder (primarily ejaculatory delay), insomnia, fatigue, decreased libido, and anorgasmia.
 
-Table 3 enumerates the incidence, rounded to the nearest percent of adverse reactions that occurred among 429 GAD patients who received Lexapro 10 to 20 mg/day in placebo-controlled trials.
+Table 3 enumerates the incidence, rounded to the nearest percent of treatment-emergent adverse reactions that occurred among 429 GAD patients who received Lexapro 10 to 20 mg/day in placebo-controlled trials.
 Reactions included are those occurring in 2% or more of patients treated with Lexapro and for which the incidence in patients treated with Lexapro was greater than the incidence in placebo-treated patients.
 
 | TABLE 3 |  |  |
