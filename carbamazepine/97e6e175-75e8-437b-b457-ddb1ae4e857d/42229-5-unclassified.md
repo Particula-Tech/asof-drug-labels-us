@@ -54,4 +54,4 @@ Dosage Information
 | 6 to 12 yr | 100 mg twice a day (200 mg/day) | Add up to 100 mg/day at weekly intervals, 3 times a day or 4 times a day | 1000 mg/24 hr |
 | Over 12 yr | 200 mg twice a day (400 mg/day) | Add up to 200 mg/day at weekly intervals, 3 times a day or 4 times a day | 1000 mg/24 hr (12 to 15 yr) 1200 mg/24 hr (>15 yr) 1600 mg/24 hr (adults, in rare instances) |
 | Trigeminal Neuralgia | 100 mg twice a day (200 mg/day) | Add up to 200 mg/day in increments of 100 mg every 12 hr | 1200 mg/24 hr |
-| * Tablet = Chewable or conventional tablets |  |  |  |
+| * Tablet = Chewable or conventional tablets. |  |  |  |

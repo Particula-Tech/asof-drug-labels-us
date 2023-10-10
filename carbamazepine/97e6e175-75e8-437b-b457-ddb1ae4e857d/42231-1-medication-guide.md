@@ -222,7 +222,7 @@ This Medication Guide summarizes the most important information about carbamazep
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for the full prescribing information about carbamazepine tablets or chewable tablets that is written for health professionals.
 
-For more information, call Torrent Pharma Inc. at 1-800-912-9561.
+For more information, go to www.torrentpharma.com or call 1-800-912-9561.
 
 What are the ingredients in carbamazepine tablets or chewable tablets?
 
@@ -246,4 +246,4 @@ Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920
 
-8089544 Revised September 2022
+8094266 Revised: October 2023

@@ -28,7 +28,7 @@ Tested patients who are found to be negative for the allele are thought to have 
 Over 90% of carbamazepine treated patients who will experience SJS/TEN have this reaction within the first few months of treatment.
 This information may be taken into consideration in determining the need for screening of genetically at-risk patients currently on carbamazepine.
 
-The HLA-B*1502 allele has not been found to predict risk of less severe adverse cuta-neous reactions from carbamazepine such as maculopapular eruption (MPE) or to predict Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS).
+The HLA-B*1502 allele has not been found to predict risk of less severe adverse cuta-neous reactions from carbamazepine, such as maculopapular eruption (MPE) or to predict Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS).
 
 Limited evidence suggests that HLA-B*1502 may be a risk factor for the development of SJS/TEN in patients of Chinese ancestry taking other antiepileptic drugs associated with SJS/TEN, including phenytoin.
 Consideration should be given to avoiding use of other drugs associated with SJS/TEN in HLA-B*1502 positive patients, when alternative therapies are otherwise equally acceptable.
@@ -38,7 +38,7 @@ Hypersensitivity Reactions and HLA-A*3101 Allele
 Retrospective case-control studies in patients of European, Korean, and Japanese ancestry have found a moderate association between the risk of developing hypersensitivity reactions and the presence of HLA-A*3101, an inherited allelic variant of the HLA-A gene, in patients using carbamazepine.
 These hypersensitivity reactions include SJS/TEN, maculopapular eruptions, and Drug Reaction with Eosinophilia and Systemic Symptoms (see DRESS/Multiorgan hypersensitivity below).
 
-HLA-A*3101 is expected to be carried by more than 15% of patients of Japanese, Native American, Southern Indian (for example, Tamil Nadu) and some Arabic ancestry; up to about 10% in patients of Han Chinese, Korean, European, Latin American, and other Indian ancestry; and up to about 5% in African-Americans and patients of Thai, Taiwanese, and Chinese (Hong Kong) ancestry.
+HLA-A*3101 is expected to be carried by more than 15% of patients of Japanese, Native American, Southern Indian (for example, Tamil Nadu), and some Arabic ancestry; up to about 10% in patients of Han Chinese, Korean, European, Latin American, and other Indian ancestry; and up to about 5% in African-Americans and patients of Thai, Taiwanese, and Chinese (Hong Kong) ancestry.
 
 The risks and benefits of carbamazepine therapy should be weighed before considering carbamazepine in patients known to be positive for HLA-A*3101.
 
@@ -48,7 +48,7 @@ The role of other possible factors in the development of, and morbidity from, SJ
 
 ## Aplastic Anemia and Agranulocytosis
 
-Aplastic anemia and agranulocytosis have been reported in association with the use of carbamazepine (see Boxed Warning).
+Aplastic anemia and agranulocytosis have been reported in association with the use of carbamazepine (see BOXED WARNING).
 Patients with a history of adverse hematologic reaction to any drug may be particularly at risk of bone marrow depression.
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
@@ -176,7 +176,7 @@ Hepatic effects, ranging from slight elevations in liver enzymes to rare cases o
 In some cases, hepatic effects may progress despite discontinuation of the drug.
 In addition rare instances of vanishing bile duct syndrome have been reported.
 This syndrome consists of a cholestatic process with a variable clinical course ranging from fulminant to indolent, involving the destruction and disappearance of the intrahepatic bile ducts.
-Some, but not all, cases are associated with features that overlap with other immunoallergenic syndromes such as multiorgan hypersensitivity (DRESS syndrome) and serious dermatologic reactions.
+Some, but not all, cases are associated with features that overlap with other immunoallergenic syndromes, such as multiorgan hypersensitivity (DRESS syndrome) and serious dermatologic reactions.
 As an example there has been a report of vanishing bile duct syndrome associated with Stevens-Johnson syndrome and in another case an association with fever and eosinophilia.
 
 ## Information for Patients
@@ -243,11 +243,11 @@ When carbamazepine is given with drugs that can increase or decrease carbamazepi
 Agents That Increase Carbamazepine Levels
 
 CYP3A4 inhibitors inhibit carbamazepine metabolism and can thus increase plasma carbamazepine levels.
-Drugs that have been shown, or would be expected, to increase plasma carbamazepine levels include aprepitant, cimetidine, ciprofloxacin, danazol, diltiazem, macrolides, erythromycin, troleandomycin, clarithromycin, fluoxetine, fluvoxamine, trazodone, olanzapine, loratadine, terfenadine, omeprazole, oxybutynin, dantrolene, isoniazid, niacinamide, nicotinamide, ibuprofen, propoxyphene, azoles (e.g., ketaconazole, itraconazole, fluconazole, voriconazole), acetazolamide, verapamil, ticlopidine, grapefruit juice, and protease inhibitors.
+Drugs that have been shown, or would be expected, to increase plasma carbamazepine levels include aprepitant, cimetidine, ciprofloxacin, danazol, diltiazem, macrolides (e.g., erythromycin, clarithromycin), fluoxetine, fluvoxamine, trazodone, omeprazole, oxybutynin, isoniazid, niacinamide (nicotinamide), azoles (e.g., ketaconazole, itraconazole, fluconazole, voriconazole), acetazolamide, verapamil, ticlopidine, grapefruit juice, and protease inhibitors.
 
 Human microsomal epoxide hydrolase has been identified as the enzyme responsible for the formation of the 10,11-transdiol derivative from carbamazepine-10,11 epoxide.
 Coadministration of inhibitors of human microsomal epoxide hydrolase may result in increased carbamazepine-10,11 epoxide plasma concentrations.
-Accordingly, the dosage of carbamazepine should be adjusted and/or the plasma levels monitored when used concomitantly with loxapine, quetiapine, or valproic acid.
+Accordingly, the dosage of carbamazepine should be adjusted and/or the plasma levels monitored when used concomitantly with loxapine, quetiapine, or valproic acid, or brivaracetam.
 
 Agents That Decrease Carbamazepine Levels
 
@@ -258,14 +258,14 @@ Drugs that have been shown, or that would be expected, to decrease plasma carbam
 
 Decreased Levels of Concomitant Medications
 
-Carbamazepine is a potent inducer of hepatic 3A4 and is also known to be an inducer of CYP1A2, 2B6, 2C9/19 and may therefore reduce plasma concentrations of co-medications mainly metabolized by CYP 1A2, 2B6, 2C9/19 and 3A4, through induction of their metabolism.
+Carbamazepine is a potent inducer of hepatic 3A4 and is also known to be an inducer of CYP1A2, 2B6, 2C8/9/19 and may therefore reduce plasma concentrations of co-medications mainly metabolized by CYP 1A2, 2B6, 2C8/9/19 and 3A4, through induction of their metabolism.
 When used concomitantly with carbamazepine, monitoring of concentrations or dosage adjustment of these agents may be necessary:
 
 - When carbamazepine is added to aripiprazole, the aripiprazole dose should be doubled.
   Additional dose increases should be based on clinical evaluation.
   If carbamazepine is later withdrawn, the aripiprazole dose should be reduced.
 - When carbamazepine is used with tacrolimus, monitoring of tacrolimus blood concentrations and appropriate dosage adjustments are recommended.
-- The use of concomitant strong CYP3A4 inducers such as carbamazepine should be avoided with temsirolimus.
+- The use of concomitant strong CYP3A4 inducers, such as carbamazepine should be avoided with temsirolimus.
   If patients must be coadministered carbamazepine with temsirolimus, an adjustment of temsirolimus dosage should be considered.
 - The use of carbamazepine with lapatinib should generally be avoided.
   If carbamazepine is started in a patient already taking lapatinib, the dose of lapatinib should be gradually titrated up.
@@ -282,6 +282,7 @@ Other Drug Interactions
   The rate of metabolism and the leukopenic activity of cyclophosphamide are reportedly increased by chronic coadministration of CYP3A4 inducers.
   There is a potential for increased cyclophosphamide toxicity when coadministered with carbamazepine.
 - Concomitant administration of carbamazepine and lithium may increase the risk of neurotoxic side effects.
+- Concomitant use of carbamazepine with olanzapine, dantrolene, or ibuprofen may increase plasma carbamazepine levels.
 - Concomitant use of carbamazepine and isoniazid has been reported to increase isoniazid-induced hepatotoxicity.
 - Alterations of thyroid function have been reported in combination therapy with other anticonvulsant medications.
 - Concomitant use of carbamazepine with hormonal contraceptive products (e.g., oral, and levonorgestrel subdermal implant contraceptives) may render the contraceptives less effective because the plasma concentrations of the hormones may be decreased.
@@ -321,8 +322,7 @@ Because of the potential for serious adverse reactions in nursing infants from c
 
 Substantial evidence of carbamazepine's effectiveness for use in the management of children with epilepsy (see INDICATIONS AND USAGE for specific seizure types) is derived from clinical investigations performed in adults and from studies in several in vitro systems which support the conclusion that (1) the pathogenetic mechanisms underlying seizure prop agation are essentially identical in adults and children, and (2) the mechanism of action of carbamazepine in treating seizures is essentially identical in adults and children.
 
-Taken as a whole, this information supports a conclusion that the generally accepted therapeutic range of total carbamazepine in plasma (i.e.
-4 to 12 mcg/mL) is the same in children and adults.
+Taken as a whole, this information supports a conclusion that the generally accepted therapeutic range of total carbamazepine in plasma (i.e., 4 to 12 mcg/mL) is the same in children and adults.
 
 The evidence assembled was primarily obtained from short-term use of carbamazepine.
 The safety of carbamazepine in children has been systematically studied up to 6 months.
