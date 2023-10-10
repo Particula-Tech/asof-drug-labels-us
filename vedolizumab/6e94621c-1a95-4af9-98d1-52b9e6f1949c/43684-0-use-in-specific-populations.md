@@ -59,5 +59,5 @@ Safety and effectiveness of ENTYVIO in pediatric patients have not been establis
 
 ## 8.5 Geriatric Use
 
-Clinical trials of ENTYVIO did not include sufficient numbers of subjects aged 65 and over (46 Crohn's and ulcerative colitis patients aged 65 and over were treated with ENTYVIO during controlled Phase 3 trials) to determine whether they respond differently from younger subjects.
+Clinical trials of ENTYVIO did not include sufficient numbers of subjects aged 65 and over (56 Crohn's and ulcerative colitis patients aged 65 and over were treated with ENTYVIO during controlled Phase 3 trials) to determine whether they respond differently from younger subjects.
 However, no overall differences in safety or effectiveness were observed between these patients and younger patients, and other reported clinical experience has not identified differences in responses between the elderly and younger patients.

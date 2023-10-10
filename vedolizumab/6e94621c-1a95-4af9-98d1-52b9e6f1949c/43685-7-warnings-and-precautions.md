@@ -2,7 +2,7 @@
 
 ## 5.1 Infusion-Related Reactions and Hypersensitivity Reactions
 
-Infusion-related reactions and hypersensitivity reactions have been reported, including anaphylaxis, dyspnea, bronchospasm, urticaria, flushing, rash, and increased blood pressure and heart rate [see Adverse Reactions (6.1, 6.3)].
+Infusion-related reactions and hypersensitivity reactions have been reported, including anaphylaxis, dyspnea, bronchospasm, urticaria, flushing, rash, and increased blood pressure and heart rate [see Adverse Reactions (6.1, 6.2)].
 These reactions may occur with the first or subsequent infusions of ENTYVIO and may vary in their time of onset from during infusion or up to several hours post-infusion.
 
 If anaphylaxis or other serious infusion-related or hypersensitivity reactions occur, discontinue administration of ENTYVIO immediately and initiate appropriate treatment.
@@ -39,6 +39,6 @@ ENTYVIO should be discontinued in patients with jaundice or other evidence of si
 
 ## 5.5 Live and Oral Vaccines
 
-Prior to initiating treatment with ENTYVIO, all patients should be brought up to date with all immunizations according to current immunization guidelines [see Dosage and Administration (2.2)].
+Prior to initiating treatment with ENTYVIO, all patients should be brought up to date with all immunizations according to current immunization guidelines [see Dosage and Administration (2.1)].
 Patients receiving ENTYVIO may receive non-live vaccines (e.g., influenza vaccine injection) and may receive live vaccines if the benefits outweigh the risks.
 There are no data on the secondary transmission of infection by live vaccines in patients receiving ENTYVIO [see Adverse Reactions (6.1)].

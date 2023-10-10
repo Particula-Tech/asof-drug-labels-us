@@ -1,13 +1,28 @@
 {
   "application_numbers": [
-    "BLA125476"
+    "BLA125476",
+    "BLA761133"
   ],
   "inn": "vedolizumab",
   "labeler": "Takeda Pharmaceuticals America, Inc.",
   "package_ndcs": [
+    "64764-107-10",
+    "64764-107-11",
+    "64764-108-20",
+    "64764-108-21",
     "64764-300-20"
   ],
   "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "vedolizumab",
+      "name": "ENTYVIO"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "vedolizumab",
+      "name": "ENTYVIO Pen"
+    },
     {
       "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
       "generic": "vedolizumab",
