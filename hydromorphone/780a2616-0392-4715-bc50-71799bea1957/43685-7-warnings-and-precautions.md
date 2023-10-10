@@ -17,10 +17,10 @@ Consider prescribing naloxone for the emergency treatment of opioid overdose [se
 
 Abuse or misuse of hydromorphone hydrochloride extended-release tablets by crushing, chewing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of hydromorphone and can result in overdose and death [see Overdosage (10)].
 
-Opioids are sought for non-medical use and are subject to diversion from legitimate prescribed use.
+Opioids are sought for nonmedical use and are subject to diversion from legitimate prescribed use.
 Consider these risks when prescribing or dispensing hydromorphone hydrochloride extended-release tablets.
-Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on careful storage of the drug during the course of treatment and proper disposal of unused drug [see Patient Counseling Information (17)].
-Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on careful storage of the drug during the course of treatment and proper disposal of unused drug.
+Contact local state professional licensing board or state-controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
 ## 5.2 Life-Threatening Respiratory Depression
 
@@ -55,7 +55,7 @@ If naloxone is prescribed, educate patients and caregivers on how to treat with 
 
 ## 5.3 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of hydromorphone hydrochloride extended-release tablets with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of hydromorphone hydrochloride extended-release tablets with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
@@ -104,7 +104,7 @@ These symptoms may suggest OIH only if there is no evidence of underlying diseas
 Cases of OIH have been reported, both with short-term and longer-term use of opioid analgesics.
 Though the mechanism of OIH is not fully understood, multiple biochemical pathways have been implicated.
 Medical literature suggests a strong biologic plausibility between opioid analgesics and OIH and allodynia.
-If a patient is suspected to be experiencing OIH, carefully consider appropriately decreasing the dose of the current opioid analgesic, or opioid rotation (safety switching the patient to a different opioid moiety) [see Dosage and Administration (2.5); Warnings and Precautions (5.13)].
+If a patient is suspected to be experiencing OIH, carefully consider appropriately decreasing the dose of the current opioid analgesic or opioid rotation (safely switching the patient to a different opioid moiety) [see Dosage and Administration (2.5); Warnings and Precautions (5.13)].
 
 ## 5.7 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
@@ -118,7 +118,7 @@ Elderly, Cachectic, or Debilitated Patients:
 
 Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
 
-Regularly evaluate such patients closely, particularly when initiating and titrating hydromorphone hydrochloride extended-release tablets and when hydromorphone hydrochloride extended-release tablets are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5), Drug Interactions (7).
+Regularly evaluate such patients closely, particularly when initiating and titrating hydromorphone hydrochloride extended-release tablets and when hydromorphone hydrochloride extended-release tablets are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5), Drug Interactions (7)].
 Alternatively, consider the use of non-opioid analgesics in these patients.
 
 ## 5.8 Adrenal Insufficiency

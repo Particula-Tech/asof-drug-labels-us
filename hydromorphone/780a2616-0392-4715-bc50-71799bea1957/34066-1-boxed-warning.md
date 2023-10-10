@@ -7,7 +7,8 @@ Because the use of hydromorphone hydrochloride extended-release tablets exposes 
 Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression may occur with use of hydromorphone hydrochloride extended-release tablets, especially during initiation or following a dose increase.
-To reduce the risk of respiratory depression, proper dosing and titration of hydromorphone hydrochloride extended-release tablets are essential [see Warnings and Precautions (5.2)].
+To reduce the risk of respiratory depression, proper dosing and titration of hydromorphone hydrochloride extended-release tablets are essential.
+Instruct patients to swallow hydromorphone hydrochloride extended-release tablets whole; crushing, chewing, or dissolving hydromorphone hydrochloride extended-release tablets can cause rapid release and absorption of a potentially fatal dose of hydromorphone [see Warnings and Precautions (5.2)].
 
 Accidental Ingestion
 
@@ -18,7 +19,7 @@ Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
 Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death.
 Reserve concomitant prescribing of hydromorphone hydrochloride extended-release tablets and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
-Neonatal Opioid Withdrawal Syndrome
+Neonatal Opioid Withdrawal Syndrome (NOWS)
 
 If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life-threatening if not recognized and treated.
 Ensure that management by neonatology experts will be available at delivery [see Warnings and Precautions (5.4)].

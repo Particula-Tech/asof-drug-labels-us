@@ -2,7 +2,8 @@
 
 Table 4 includes clinically significant drug interactions with hydromorphone hydrochloride extended-release tablets.
 
-Table 4: Clinically Significant Drug Interactions with Hydromorphone Hydrochloride Extended-Release Tablets
+Table 4.
+Clinically Significant Drug Interactions with Hydromorphone Hydrochloride Extended-Release Tablets
 
 | Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
 | --- | --- |

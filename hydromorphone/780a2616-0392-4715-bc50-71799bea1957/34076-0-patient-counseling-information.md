@@ -49,7 +49,7 @@ Inform patients and caregivers that potentially fatal additive effects may occur
 Hyperalgesia and Allodynia
 
 Inform patients and caregivers not to increase opioid dosage without first consulting a clinician.
-Advise patients to seek medical attention if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings and Precautions (5.6); Postmarketing Experience (6.2)].
+Advise patients to seek medical attention if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings and Precautions (5.6); Adverse Reactions (6.2)].
 
 Serotonin Syndrome
 
@@ -111,7 +111,7 @@ Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that prolonged use of hydromorphone hydrochloride extended-release tablets during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that use of hydromorphone hydrochloride extended-release tablets for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 
@@ -123,7 +123,7 @@ Advise patients that breastfeeding is not recommended during treatment with hydr
 
 Infertility
 
-Inform patients that chronic use of opioids may cause reduced fertility.
+Inform patients that use of opioids for an extended period of time may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
 Manufactured By
@@ -132,9 +132,7 @@ Padagis
 
 Minneapolis, MN 55427
 
-1B500 RC J16
-
-Rev 04/2023
+Rev 09/23 1B500 RC PH17 2204828
 
 PHARMACIST: Dispense a separate Medication Guide to each patient.
 Dispense with Medication Guide available at www.padagis.com/medguide/HDMRTabs

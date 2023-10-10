@@ -6,6 +6,7 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 - •Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
 - •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
 - •Interactions with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.3)]
+- •Opioid-Induced Hyperalgesia and Allodynia [see Warnings and Precautions (5.6)]
 - •Adrenal Insufficiency [see Warnings and Precautions (5.8)]
 - •Severe Hypotension [see Warnings and Precautions (5.9)]
 - •Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.11)]
@@ -143,4 +144,7 @@ Anaphylaxis: Anaphylactic reaction has been reported with ingredients contained 
 
 Androgen deficiency: Cases of androgen deficiency have occurred with use of opioids for an extended period of time [see Clinical Pharmacology (12.2)].
 
-Hyperalgesia and Allodynia: cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see Warnings and Precautions (5.6)].
+Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see Warnings and Precautions (5.6)].
+
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking opioids.
+Most reports were in patients with at least one predisposing risk factor (e.g. diabetes).
