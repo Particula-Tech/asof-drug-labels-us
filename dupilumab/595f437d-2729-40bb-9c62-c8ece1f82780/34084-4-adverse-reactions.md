@@ -21,9 +21,8 @@ A total of 739 subjects were treated with DUPIXENT for at least 1 year in the de
 SOLO 1, SOLO 2, and AD-1021 compared the safety of DUPIXENT monotherapy to placebo through Week 16.
 CHRONOS compared the safety of DUPIXENT + TCS to placebo + TCS through Week 52.
 
-AD-1225 is a multicenter, open-label extension (OLE) study which assessed the long-term safety of repeat doses of DUPIXENT (through 148 weeks of treatment) in adults with moderate-to-severe AD who had previously participated in controlled studies of DUPIXENT or had been screened for SOLO 1 or SOLO 2.
-The safety data in AD-1225 reflect exposure to DUPIXENT in 2677 subjects, including 2254 exposed for at least 52 weeks, 1192 exposed for at least 100 weeks, and 357 exposed for at least 148 weeks.
-In AD-1225, 99.7% of subjects were exposed to DUPIXENT 300 mg weekly dosing (QW).
+AD-1225 is a multicenter, open-label extension (OLE) trial which assessed the long-term safety of repeat doses of DUPIXENT through 260 weeks of treatment in adults with moderate-to-severe AD who had previously participated in controlled trials of DUPIXENT or had been screened for SOLO 1 or SOLO 2.
+The safety data in AD-1225 reflect exposure to DUPIXENT 200 mg QW, 300 mg QW and 300 mg Q2W in 2677 subjects, including 2254 exposed for at least 52 weeks, 1224 exposed for at least 100 weeks, 561 exposed for at least 148 weeks and 179 exposed for at least 260 weeks.
 
 Weeks 0 to 16 (SOLO 1, SOLO 2, CHRONOS, and AD-1021)
 
@@ -52,9 +51,9 @@ Two subjects discontinued DUPIXENT because of adverse reactions: atopic dermatit
 
 The safety profile of DUPIXENT + TCS through Week 52 was generally consistent with the safety profile observed at Week 16.
 
-Safety through 148 Weeks (AD-1225)
+Safety through 260 Weeks (AD-1225)
 
-The long-term safety profile observed in this trial through 148 weeks was generally consistent with the safety profile of DUPIXENT observed in controlled studies.
+The long-term safety profile observed in this trial through 260 weeks was generally consistent with the safety profile of DUPIXENT observed in controlled studies.
 
 Pediatric Subjects 12 to 17 Years of Age with Atopic Dermatitis
 
@@ -200,13 +199,13 @@ Conjunctivitis and Keratitis
 
 In adult subjects with AD, conjunctivitis was reported in 10% (34 per 100 subject-years) in the 300 mg Q2W dose group and in 2% of the placebo group (8 per 100 subject-years) during the 16-week treatment period of the monotherapy trials (SOLO 1, SOLO 2, and AD-1021).
 During the 52-week treatment period of concomitant therapy AD trial (CHRONOS), conjunctivitis was reported in 16% of the DUPIXENT 300 mg Q2W + TCS group (20 per 100 subject-years) and in 9% of the placebo + TCS group (10 per 100 subject-years).
-During the long-term OLE trial with data through 148 weeks (AD-1225), conjunctivitis was reported in 20% of the DUPIXENT group (12 per 100 subject-years).
+During the long-term OLE trial with data through 260 weeks (AD-1225), conjunctivitis was reported in 21% of the DUPIXENT group (12 per 100 subject-years).
 
 In DUPIXENT AD monotherapy trials (SOLO 1, SOLO 2, and AD-1021) through Week 16, keratitis was reported in <1% of the DUPIXENT group (1 per 100 subject-years) and in 0% of the placebo group (0 per 100 subject-years).
 In the 52-week DUPIXENT + topical corticosteroids (TCS) AD trial (CHRONOS), keratitis was reported in 4% of the DUPIXENT + TCS group (4 per 100 subject-years) and in 2% of the placebo + TCS group (2 per 100 subject-years).
 Conjunctivitis and keratitis occurred more frequently in AD subjects who received DUPIXENT.
 Conjunctivitis was the most frequently reported eye disorder.
-During the long-term OLE trial with data through 148 weeks (AD-1225), keratitis was reported in 3% of the DUPIXENT group (2 per 100 subject-years).
+During the long-term OLE trial with data through 260 weeks (AD-1225), keratitis was reported in 3% of the DUPIXENT group (1 per 100 subject-years).
 Most subjects with conjunctivitis or keratitis recovered or were recovering during the treatment period.
 
 Among subjects with asthma, the frequency of conjunctivitis and keratitis was similar between DUPIXENT and placebo.
@@ -224,11 +223,11 @@ There were no cases of keratitis reported in the PN development program [see War
 Eczema Herpeticum and Herpes Zoster
 
 The rate of eczema herpeticum was similar in the placebo and DUPIXENT groups in the AD trials.
-The rates remained stable through 148 weeks in the long-term OLE trial (AD-1225).
+The rates remained stable through 260 weeks in the long-term OLE trial (AD-1225).
 
 Herpes zoster was reported in <1% of the DUPIXENT groups (1 per 100 subject-years) and in <1% of the placebo group (1 per 100 subject-years) in the 16-week AD monotherapy trials.
 In the 52-week DUPIXENT + TCS AD trial, herpes zoster was reported in 1% of the DUPIXENT + TCS group (1 per 100 subject-years) and 2% of the placebo + TCS group (2 per 100 subject-years).
-During the long-term OLE trial with data through 148 weeks (AD-1225), 1.9% of DUPIXENT-treated subjects reported herpes zoster (0.99 per 100 subject-years of follow up).
+During the long-term OLE trial with data through 260 weeks (AD-1225), 2.0% of DUPIXENT-treated subjects reported herpes zoster (0.94 per 100 subject-years of follow up).
 Among asthma subjects the frequency of herpes zoster was similar between DUPIXENT and placebo.
 Among subjects with CRSwNP or EoE there were no reported cases of herpes zoster or eczema herpeticum.
 

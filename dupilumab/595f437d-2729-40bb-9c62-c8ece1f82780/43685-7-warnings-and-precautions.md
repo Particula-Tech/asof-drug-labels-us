@@ -74,6 +74,6 @@ Adverse reactions of helminth infections (5 cases of enterobiasis and 1 case of 
 ## 5.9 Vaccinations
 
 Consider completing all age-appropriate vaccinations as recommended by current immunization guidelines prior to initiating treatment with DUPIXENT.
-Avoid use of live vaccines in patients treated with DUPIXENT.
+Avoid use of live vaccines during treatment with DUPIXENT.
 It is unknown if administration of live vaccines during DUPIXENT treatment will impact the safety or effectiveness of these vaccines.
 Limited data are available regarding coadministration of DUPIXENT with non-live vaccines [see Clinical Pharmacology (12.2)].

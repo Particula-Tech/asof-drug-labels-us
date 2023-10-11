@@ -532,10 +532,10 @@ Table 23: Efficacy Results of DUPIXENT in PRIME and PRIME2
 |  | PRIME |  |  | PRIME2 |  |  |
 | Proportion of subjects with both an improvement (reduction) in WI-NRS by ≥4 points from baseline to Week 24 and an IGA PN-S 0 or 1 at Week 24 Subjects who received rescue treatment earlier or had missing data were considered as non-responders. | 9.2% | 38.7% | 29.6% (16.4, 42.8) | 8.5% | 32.1% | 25.5% (13.1, 37.9) |
 | Proportion of subjects with improvement (reduction) in WI-NRS by ≥4 points from baseline at Week 24 | 18.4% | 60.0% | 42.7% (27.8, 57.7) | 19.5% | 57.7% | 42.6% (29.1, 56.1) |
-| Proportion of subjects with IGA PN-S 0 or 1 at Week 24 | 18.4% | 48.0% | 28.3% (13.4, 43. 2) | 15.9% | 44.9% | 30.8% (16. 4, 45.2) |
+| Proportion of subjects with IGA PN-S 0 or 1 at Week 24 | 18.4% | 48.0% | 28.3% (13.4, 43.2) | 15.9% | 44.9% | 30.8% (16.4, 45.2) |
 | Proportion of subjects with improvement (reduction) in WI-NRS by ≥4 points from baseline at Week 12 | 15.8%Not adjusted for multiplicity in PRIME. | 44.0% | 29.2% (14.5, 43.8) | 22.0% | 37.2% | 16.8% (2.3, 31.2) |
 
-Figure 14: Proportion of Adult Subjects with PN with Both WI-NRS ≥4-point Improvement and IGA PN-S 0 or 1 Over Time in PRIME and PRIME 2
+Figure 14: Proportion of Adult Subjects with PN with Both WI-NRS ≥4-point Improvement and IGA PN-S 0 or 1 Over Time in PRIME and PRIME2
 
 Figure 15: Proportion of Adult Subjects with PN with WI-NRS ≥4-point Improvement Over Time in PRIME and PRIME2
 
