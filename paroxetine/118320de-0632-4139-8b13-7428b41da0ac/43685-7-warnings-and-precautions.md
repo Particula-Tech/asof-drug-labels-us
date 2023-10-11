@@ -30,7 +30,7 @@ Consider changing the therapeutic regimen, including possibly discontinuing paro
 ## 5.2 Serotonin Syndrome
 
 SSRIs, including paroxetine, can precipitate serotonin syndrome, a potentially life-threatening condition.
-The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)].
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, meperidine, methadone, tryptophan, buspirone, amphetamines and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)].
 Serotonin syndrome can also occur when these drugs are used alone.
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -62,6 +62,7 @@ If paroxetine is used during pregnancy, or if the patient becomes pregnant while
 Drugs that interfere with serotonin reuptake inhibition, including paroxetine, increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDS), other antiplatelet drugs, warfarin, and other anticoagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Use in Specific Populations (8.1)].
 Bleeding events related to drugs that interfere with serotonin reuptake have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
 Inform patients about the increased risk of bleeding associated with the concomitant use of paroxetine and antiplatelet agents or anticoagulants.
@@ -79,8 +80,7 @@ Adverse reactions after discontinuation of serotonergic antidepressants, particu
 A gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [see Dosage and Administration (2.7)].
 
 During clinical trials of GAD and PTSD, gradual decreases in the daily dose by 10 mg/day at weekly intervals followed by 1 week at 20 mg/day was used before treatment was discontinued.
-The following adverse reactions were reported at an incidence of 2% or greater for paroxetine and were at least twice that reported for placebo: Abnormal dreams, paresthesia, and dizziness.
-Adverse reactions have been reported upon discontinuation of treatment with paroxetine in pediatric patients.
+The following adverse reactions were reported at an incidence of 2% or greater for paroxetine and were at least twice that reported for placebo: Abnormal dreams, paresthesia, and dizziness adverse reactions have been reported upon discontinuation of treatment with paroxetine in pediatric patients.
 The safety and effectiveness of paroxetine in pediatric patients have not been established [see Boxed Warning, Warnings and Precautions (5.1), Use in Specific Populations (8.4)].
 
 ## 5.8 Seizures
