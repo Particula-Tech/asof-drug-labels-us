@@ -4,7 +4,7 @@ Secukinumab, a recombinant human monoclonal IgG1/κ antibody, is an interleukin-
 It is expressed in a recombinant Chinese Hamster Ovary (CHO) cell line.
 Secukinumab has a molecular mass of approximately 151 kDa; both heavy chains of secukinumab contain oligosaccharide chains.
 
-COSENTYX Injection
+COSENTYX Injection for Subcutaneous Use
 
 COSENTYX injection is a sterile, preservative-free, clear to slightly opalescent, colorless to slightly yellow solution for subcutaneous use.
 COSENTYX is supplied in a single-dose 300 mg/2 mL UnoReady pen with a 27-gauge fixed ½-inch needle, a single-dose 150 mg/mL Sensoready pen with a 27-gauge fixed ½-inch needle, or a single-dose prefilled syringe (300 mg/2mL, 150 mg/mL, 75 mg/0.5 mL) with a 27-gauge fixed ½-inch needle.
@@ -15,3 +15,9 @@ Each COSENTYX 300 mg/2 mL UnoReady pen or 300 mg/2 mL prefilled syringe contains
 Each COSENTYX 150 mg/mL Sensoready pen or 150 mg/mL prefilled syringe contains 150 mg of secukinumab formulated in: L-histidine/histidine hydrochloride monohydrate (3.103 mg), L-methionine (0.746 mg), polysorbate 80 (0.2 mg), trehalose dihydrate (75.67 mg), and Sterile Water for Injection, USP, at pH of 5.8.
 
 Each COSENTYX 75 mg/0.5 mL prefilled syringe contains 75 mg of secukinumab formulated in: L-histidine/histidine hydrochloride monohydrate (1.552 mg), L-methionine (0.373 mg), polysorbate 80 (0.1 mg), trehalose dihydrate (37.83 mg), and Sterile Water for Injection, USP, at pH of 5.8.
+
+COSENTYX Injection for Intravenous Use
+
+COSENTYX solution is supplied as a sterile, preservative free, clear to opalescent, colorless to slightly yellowish solution in single-dose vials for intravenous infusion after dilution.
+
+Each COSENTYX vial contains 125 mg of secukinumab formulated in: L-histidine (5.67 mg), L-histidine hydrochloride monohydrate (13.3 mg), L-methionine (3.73 mg), polysorbate 80 (1 mg), trehalose dihydrate (426 mg), and Sterile Water for Injection, USP, at pH of 5.8.

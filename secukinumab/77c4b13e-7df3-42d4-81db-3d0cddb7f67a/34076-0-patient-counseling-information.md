@@ -25,9 +25,9 @@ Immunization
 Advise patients that vaccination with live vaccines is not recommended during COSENTYX treatment.
 Instruct patients to inform the healthcare practitioner that they are taking COSENTYX prior to a potential vaccination [see Warnings and Precautions (5.7)].
 
-Instructions on Injection Technique
+Instructions on Subcutaneous Injection Technique
 
-If a patient or caregiver is to administer COSENTYX using the UnoReady pen, Sensoready pen, or the prefilled syringe, instruct him/her in injection techniques and assess their ability to inject subcutaneously to ensure the proper administration of COSENTYX [see Dosage and Administration (2.7, 2.8, 2.9), Medication Guide, and Instructions for Use].
+If a patient or caregiver is to subcutaneously administer COSENTYX using the UnoReady pen, Sensoready pen, or the prefilled syringe, instruct him/her in injection techniques and assess their ability to inject subcutaneously to ensure the proper administration of COSENTYX [see Dosage and Administration (2.2, 2.9), Medication Guide, Instructions for Use].
 
 For pediatric patients, inform patients and caregivers that pediatric patients should not self-administer COSENTYX.
 
@@ -38,7 +38,7 @@ Storage
 
 Instruct patients to store COSENTYX in a refrigerator at 2°C to 8°C (36ºF to 46ºF) and to discard expired or unused COSENTYX.
 
-Inform patients that COSENTYX 150 mg/mL Sensoready pens, 150 mg/mL and 75 mg/0.5 mL prefilled syringes may be stored for up to 4 days at room temperature not to exceed 86°F (30°C).
+Inform patients that if removed from refrigeration, COSENTYX 150 mg/mL Sensoready pens, 150 mg/mL and 75 mg/0.5 mL prefilled syringes may be stored for up to 4 days at room temperature not to exceed 86°F (30°C).
 Instruct patients to discard if kept outside of the refrigerator over 4 days [see How Supplied/Storage and Handling (16.2)].
 
 Manufactured by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
@@ -47,4 +47,4 @@ US License Number 1244
 
 © Novartis
 
-T2023-40
+T2023-65

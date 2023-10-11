@@ -71,3 +71,25 @@ ATTENTION: Dispense with enclosed Medication Guide.
 Carton contains: • 1 Single-dose prefilled UnoReady® Pen • Prescribing Information • Medication Guide • Instructions for Use
 
 NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0078-1168-61
+
+Rx only
+
+Cosentyx®
+
+(secukinumab) Injection
+
+125 mg/5 mL (25 mg/mL)
+
+For Intravenous Infusion After Dilution.
+
+ATTENTION: Dispense with enclosed Medication Guide.
+
+1 Single-Dose Vial.
+
+Discard Unused Portion.
+
+NOVARTIS

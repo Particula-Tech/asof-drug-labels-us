@@ -24,7 +24,9 @@ The clinical effectiveness of meningococcal and influenza vaccines has not been 
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetic (PK) properties of secukinumab observed in PsA, AS and nr-axSpA patients were similar to the PK properties displayed in plaque psoriasis patients.
+Pharmacokinetics Following Subcutaneous Administration
+
+The pharmacokinetic (PK) properties of secukinumab administered subcutaneously, observed in PsA, AS and nr-axSpA patients were similar to the PK properties of secukinumab administered subcutaneously observed in plaque psoriasis patients.
 
 Absorption
 
@@ -42,7 +44,6 @@ In healthy subjects and subjects with plaque psoriasis, secukinumab bioavailabil
 Distribution
 
 The mean volume of distribution during the terminal phase (Vz) following a single intravenous administration ranged from 7.10 to 8.60 L in plaque psoriasis subjects.
-Intravenous use is not recommended [see Dosage and Administration (2)].
 
 Secukinumab concentrations in interstitial fluid in lesional and non-lesional skin of plaque psoriasis subjects ranged from 27% to 40% of those in serum at 1 and 2 weeks after a single subcutaneous dose of secukinumab 300 mg (administered as two injections of 150 mg).
 
@@ -56,11 +57,10 @@ As a human IgG1κ monoclonal antibody secukinumab is expected to be degraded int
 Excretion
 
 The mean systemic clearance (CL) ranged from 0.14 L/day to 0.22 L/day and the mean half-life ranged from 22 to 31 days in plaque psoriasis subjects following intravenous and subcutaneous administration across all psoriasis trials.
-Intravenous use is not recommended [see Dosage and Administration (2)].
 
 Dose Linearity
 
-Secukinumab exhibited dose-proportional pharmacokinetics in subjects with psoriasis over a dose range from 25 mg (approximately 0.083 times the recommended dose) to 300 mg following subcutaneous administrations.
+Secukinumab exhibited dose-proportional PK in subjects with psoriasis over a dose range from 25 mg (approximately 0.083 times the recommended dose) to 300 mg following subcutaneous administrations.
 
 Weight
 
@@ -70,23 +70,27 @@ Specific Populations
 
 Patients with Hepatic or Renal Impairment
 
-No formal trial of the effect of hepatic or renal impairment on the pharmacokinetics of secukinumab was conducted.
+No formal trial of the effect of hepatic or renal impairment on the PK of secukinumab was conducted.
 
 Geriatric Patients
 
-Population pharmacokinetic analysis indicated that the clearance of secukinumab was not significantly influenced by age in adult subjects with plaque psoriasis, PsA and AS.
+Population PK analysis indicated that the clearance of secukinumab was not significantly influenced by age in adult subjects with plaque psoriasis, PsA and AS.
 Subjects who are 65 years or older had apparent clearance of secukinumab similar to subjects less than 65 years old.
 
 Pediatric Patients
 
-In a pool of the two pediatric trials, subjects with moderate to severe plaque psoriasis (6 years of age and older) were administered secukinumab at the recommended pediatric dosing regimen.
-At Week 24, secukinumab steady state mean ± SD serum trough concentrations were 32.6 ± 10.8 mcg/mL (n = 8), 19.8 ± 6.96 mcg/mL (n = 24), and 27.3 ± 10.1 mcg/mL (n = 36), in subjects weighing less than 25 kg and receiving 75 mg of secukinumab, subjects weighing at least 25 and less than 50 kg and receiving 75 mg of secukinumab, and subjects weighing at least 50 kg and receiving 150 mg of secukinumab, respectively.
+In a pool of the two pediatric trials, subjects with moderate to severe plaque psoriasis (6 years of age and older) were administered subcutaneous COSENTYX at the recommended pediatric dosing regimen.
+At Week 24, secukinumab steady state mean ± SD serum trough concentrations were 32.6 ± 10.8 mcg/mL (n = 8), 19.8 ± 6.96 mcg/mL (n = 24), and 27.3 ± 10.1 mcg/mL (n = 36), in subjects who weighed less than 25 kg and received 75 mg of subcutaneous COSENTYX, subjects who weighed at least 25 kg and less than 50 kg and received 75 mg of subcutaneous COSENTYX, and subjects who weighed at least 50 kg and received 150 mg of subcutaneous COSENTYX, respectively.
 
-In a pediatric study, JPsA and ERA patients (2 to less than 18 years of age) were administered secukinumab at the recommended pediatric dosing regimen.
-At Week 24, patients weighing at least 15 kg and less than 50 kg, and patients weighing at least 50 kg had a mean ± SD steady-state trough concentration of 25.2 ± 5.45 mcg/mL (n = 10) and 27.9 ± 9.57 mcg/mL (n = 19), respectively.
+In a pediatric trial, JPsA and ERA patients (2 to less than 18 years of age) were administered subcutaneous COSENTYX at the recommended pediatric dosing regimen.
+At Week 24, patients who weighed at least 15 kg and less than 50 kg, and patients who weighed at least 50 kg had a mean ± SD steady-state trough concentration of 25.2 ± 5.45 mcg/mL (n = 10) and 27.9 ± 9.57 mcg/mL (n = 19), respectively.
 
 Drug Interactions
 
 Cytochrome P450 Substrates
 
-In adult subjects with plaque psoriasis, midazolam (CYP3A4 substrate) pharmacokinetics was similar when administered alone, or when administered following either a single or five weekly subcutaneous administrations of 300 mg secukinumab [see Drug Interactions (7.3)].
+In adult subjects with plaque psoriasis, midazolam (CYP3A4 substrate) PK was similar when administered alone, or when administered following either a single or five weekly subcutaneous administrations of 300 mg secukinumab [see Drug Interactions (7.3)].
+
+Pharmacokinetics Following Intravenous Administration
+
+Following an intravenous administration of 1.75 mg/kg maintenance dose every four weeks, with or without a loading dose of 6 mg/kg at Day 0, the secukinumab concentrations [steady state trough secukinumab concentrations (Cmin,ss), mean secukinumab concentrations (Cavg,ss), and maximum secukinumab concentrations (Cmax,ss)] are estimated to be within the range of the steady state concentrations following subcutaneous administration of 150 mg and 300 mg doses of COSENTYX administered every four weeks.

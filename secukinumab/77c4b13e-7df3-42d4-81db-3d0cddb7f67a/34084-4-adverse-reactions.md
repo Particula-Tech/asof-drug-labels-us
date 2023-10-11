@@ -10,6 +10,8 @@ The following adverse reactions are discussed in greater detail elsewhere in the
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
+Adverse Reactions in Clinical Trials of Subcutaneous COSENTYX
+
 Adult Plaque Psoriasis
 
 A total of 3430 plaque psoriasis adult subjects were treated with COSENTYX in controlled and uncontrolled clinical trials.
@@ -19,9 +21,9 @@ Four placebo-controlled Phase 3 trials in plaque psoriasis subjects were pooled 
 In total, 2077 subjects were evaluated (691 to COSENTYX 300 mg group, 692 to COSENTYX 150 mg group, and 694 to placebo group).
 Subjects randomized to COSENTYX received 300 mg or 150 mg doses subcutaneously at Weeks 0, 1, 2, 3, and 4 followed by the same dose every 4 weeks [see Clinical Studies (14)].
 
-Table 1 summarizes the adverse reactions that occurred at a rate of at least 1% and at a higher rate in the COSENTYX groups than the placebo group during the 12-week placebo-controlled period of the placebo-controlled trials.
+Table 2 summarizes the adverse reactions that occurred at a rate of at least 1% and at a higher rate in the COSENTYX groups than the placebo group during the 12-week placebo-controlled period of the placebo-controlled trials.
 
-Table 1: Adverse Reactions Reported by Greater Than 1% of Adult Subjects With Plaque Psoriasis Through Week 12 in Trials PsO1, PsO2, PsO3, and PsO4
+Table 2: Adverse Reactions Reported by Greater Than 1% of Adult Subjects With Plaque Psoriasis Through Week 12 in Trials PsO1, PsO2, PsO3, and PsO4
 
 |  | COSENTYX |  |  |
 | --- | --- | --- | --- |
@@ -123,18 +125,22 @@ Adult Non-Radiographic Axial Spondyloarthritis
 
 COSENTYX was studied in one randomized, double-blind, placebo-controlled nr-axSpA trial with 555 adult patients (185 patients on with load COSENTYX, 184 patients on without load COSENTYX and 186 patients on placebo).
 The safety profile for patients with nr-axSpA treated with COSENTYX was overall similar to the safety profile seen in patients with AS and other previous experience with COSENTYX.
-Patients in nr-axSpA1 study who received the loading dosing regimen compared to those without the loading regimen, had higher incidence of infections and infestations (92 per 100 patient-years vs 72 per 100 patient-years), including nasopharyngitis, upper respiratory tract infection and urinary tract infection, and gastrointestinal disorders (27 per 100 patient-years vs 22 per 100 patient-years), including gastritis, lower abdominal pain, colitis, diarrhea, and hematochezia.
+Patients in nr-axSpA1 study who received the loading dosing regimen compared to those without the loading regimen, had higher incidence of infections and infestations (92 per 100 patient-years versus 72 per 100 patient-years), including nasopharyngitis, upper respiratory tract infection and urinary tract infection, and gastrointestinal disorders (27 per 100 patient-years versus 22 per 100 patient-years), including gastritis, lower abdominal pain, colitis, diarrhea, and hematochezia.
 
 Juvenile Psoriatic Arthritis and Enthesitis-Related Arthritis
 
 COSENTYX was studied in one double-blind, placebo-controlled, event-driven, randomized trial in 86 pediatric patients aged 2 to less than 18 years old with Juvenile Psoriatic Arthritis (JPsA) and ERA.
 The safety profile reported in this study was consistent with the safety profile of secukinumab.
 
+Adverse Reactions of Intravenous COSENTYX
+
+The safety of intravenous COSENTYX is based on the pharmacokinetic exposure and extrapolation of the established safety of subcutaneous COSENTYX in PsA, AS and nr-axSpA patients [see Clinical Pharmacology (12.3)].
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is the potential for immunogenicity.
 The immunogenicity of COSENTYX was evaluated using an electrochemiluminescence-based bridging immunoassay.
-Less than 1% of subjects treated with COSENTYX developed antibodies to secukinumab in up to 52 weeks of treatment.
+Less than 1% of subjects treated with subcutaneous COSENTYX developed antibodies to secukinumab in up to 52 weeks of treatment.
 However, this assay has limitations in detecting anti-secukinumab antibodies in the presence of secukinumab; therefore, the incidence of antibody development might not have been reliably determined.
 Of the subjects who developed antidrug antibodies, approximately one-half had antibodies that were classified as neutralizing.
 Neutralizing antibodies were not associated with loss of efficacy.

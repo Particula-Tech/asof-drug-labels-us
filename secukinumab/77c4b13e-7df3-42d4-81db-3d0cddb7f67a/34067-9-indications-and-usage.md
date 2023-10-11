@@ -18,4 +18,4 @@ COSENTYX is indicated for the treatment of adult patients with active non-radiog
 
 ## 1.5 Enthesitis-Related Arthritis
 
-COSENTYX is indicated for the treatment of active enthesitis-related arthritis (ERA) in patients 4 years of age and older.
+COSENTYX is indicated for the treatment of active enthesitis-related arthritis (ERA) in pediatric patients 4 years of age and older.

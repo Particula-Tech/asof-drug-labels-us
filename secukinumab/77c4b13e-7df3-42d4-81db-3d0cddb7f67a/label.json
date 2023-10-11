@@ -1,6 +1,7 @@
 {
   "application_numbers": [
-    "BLA125504"
+    "BLA125504",
+    "BLA761349"
   ],
   "inn": "secukinumab",
   "labeler": "Novartis Pharmaceuticals Corporation",
@@ -12,11 +13,17 @@
     "0078-1056-97",
     "0078-1056-99",
     "0078-1070-68",
-    "0078-1070-96"
+    "0078-1070-96",
+    "0078-1168-61"
   ],
   "products": [
     {
       "form": "INJECTION",
+      "generic": "secukinumab",
+      "name": "COSENTYX"
+    },
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
       "generic": "secukinumab",
       "name": "COSENTYX"
     }
