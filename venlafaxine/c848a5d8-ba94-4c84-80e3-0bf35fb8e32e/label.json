@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA020699"
+  ],
+  "inn": "venlafaxine",
+  "labeler": "Viatris Specialty LLC",
+  "package_ndcs": [
+    "58151-125-77",
+    "58151-125-93",
+    "58151-126-77",
+    "58151-126-93",
+    "58151-127-77",
+    "58151-127-93"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "venlafaxine hydrochloride",
+      "name": "Effexor"
+    }
+  ],
+  "setid": "c848a5d8-ba94-4c84-80e3-0bf35fb8e32e",
+  "source": "dailymed"
+}
