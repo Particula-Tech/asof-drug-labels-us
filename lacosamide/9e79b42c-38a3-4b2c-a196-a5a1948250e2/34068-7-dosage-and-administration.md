@@ -48,8 +48,8 @@ Oral and intravenous dosages are the same unless specified.
 | Pediatric patients weighing 30 kg to less than 50 kg | Single loading dose: 4 mg/kg 12 hours later initiate: 2 mg/kg twice daily (4 mg/kg/day) | Increase by 1 mg/kg twice daily (2 mg/kg/day) at weekly intervals, if needed | 2 mg/kg to 4 mg/kg twice daily (4 mg/kg/day to 8 mg/kg/day) |
 | Pediatric patients weighing 11 kg to less than 30 kg | Single loading dose: 4.5 mg/kg 12 hours later initiate: 3 mg/kg twice daily (6 mg/kg/day) | Increase by 1 mg/kg twice daily (2 mg/kg/day) at weekly intervals, if needed | 3 mg/kg to 6 mg/kg twice daily (6 mg/kg/day to 12 mg/kg/day) |
 | Pediatric patients weighing 6 kg to less than 11 kg indicated only for partial-onset seizures |  |  |  |
-| Pediatric patients weighing less than 6 kg | Intravenous: No loading dose required 2.5 mg/kg three times daily (7.5 mg per day) | Intravenous: Increase by 0.66 mg/kg three times daily (2 mg/kg/day) at weekly intervals, if needed | Intravenous: 2.5 mg/kg to 5 mg/kg three times daily (7.5 mg/kg/day to 15 mg/kg/day) |
-| Oral: No loading dose required 3.75 mg/kg twice daily (7.5 mg per day) | Oral: Increase by 1 mg/kg twice daily (2 mg/kg/day) at weekly intervals, if needed | Oral: 3.75 mg/kg to 7.5 mg/kg twice daily (7.5 mg/kg/day to 15 mg/kg/day) |  |
+| Pediatric patients weighing less than 6 kg | Intravenous: No loading dose required 2.5 mg/kg three times daily (7.5 mg/kg/day) | Intravenous: Increase by 0.66 mg/kg three times daily (2 mg/kg/day) at weekly intervals, if needed | Intravenous: 2.5 mg/kg to 5 mg/kg three times daily (7.5 mg/kg/day to 15 mg/kg/day) |
+| Oral: No loading dose required 3.75 mg/kg twice daily (7.5 mg/kg/day) | Oral: Increase by 1 mg/kg twice daily (2 mg/kg/day) at weekly intervals, if needed | Oral: 3.75 mg/kg to 7.5 mg/kg twice daily (7.5 mg/kg/day to 15 mg/kg/day) |  |
 
 ## 2.3 Converting From a Single Antiepileptic (AED) to VIMPAT Monotherapy for the Treatment of Partial-Onset Seizures
 
