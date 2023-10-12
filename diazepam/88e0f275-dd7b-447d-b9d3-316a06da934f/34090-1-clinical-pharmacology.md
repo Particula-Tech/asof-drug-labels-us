@@ -2,11 +2,10 @@
 
 ## Mechanism of Action
 
-Although the precise mechanism by which diazepam exerts its antiseizure effects is unknown, animal and in vitro studies suggest that diazepam acts to suppress seizures through an interaction with γ-aminobutyric acid (GABA) receptors of the A-type (GABAA).
-GABA, the major inhibitory neurotransmitter in the central nervous system (CNS), acts at this receptor to open the membrane channel allowing chloride ions to flow into neurons.
+Although the precise mechanism by which diazepam exerts its antiseizure effects is unknown, animal and in vitro studies suggest that diazepam acts to suppress seizures through an interaction with γ-aminobutyric acid (GABA) receptors of the A-type (GABA A). GABA, the major inhibitory neurotransmitter in the central nervous system (CNS), acts at this receptor to open the membrane channel allowing chloride ions to flow into neurons.
 Entry of chloride ions causes an inhibitory potential that reduces the ability of neurons to depolarize to the threshold potential necessary to produce action potentials.
 Excessive depolarization of neurons is implicated in the generation and spread of seizures.
-It is believed that diazepam enhances the actions of GABA by causing GABA to bind more tightly to the GABAA receptor.
+It is believed that diazepam enhances the actions of GABA by causing GABA to bind more tightly to the GABA Areceptor.
 
 ## Pharmacokinetics
 
@@ -21,7 +20,7 @@ The mean elimination half-life of diazepam and desmethyldiazepam following admin
 
 Both diazepam and its major active metabolite desmethyldiazepam bind extensively to plasma proteins (95-98%).
 
-Metabolism and Elimination: It has been reported in the literature that diazepam is extensively metabolized to one major active metabolite (desmethyldiazepam) and two minor active metabolites, 3-hydroxydiazepam (temazepam) and 3-hydroxy-N-diazepam (oxazepam) in plasma.
+Metabolism and Elimination:It has been reported in the literature that diazepam is extensively metabolized to one major active metabolite (desmethyldiazepam) and two minor active metabolites, 3-hydroxydiazepam (temazepam) and 3-hydroxy-N-diazepam (oxazepam) in plasma.
 At therapeutic doses, desmethyldiazepam is found in plasma at concentrations equivalent to those of diazepam while oxazepam and temazepam are not usually detectable.
 The metabolism of diazepam is primarily hepatic and involves demethylation (involving primarily CYP2C19 and CYP3A4) and 3-hydroxylation (involving primarily CYP3A4), followed by glucuronidation.
 The marked inter-individual variability in the clearance of diazepam reported in the literature is probably attributable to variability of CYP2C19 (which is known to exhibit genetic polymorphism; about 3-5% of Caucasians have little or no activity and are “poor metabolizers”) and CYP3A4.
@@ -45,7 +44,7 @@ However, literature review indicates that following IV administration (0.33 mg/k
 
 ### Elderly:
 
-A study of single dose IV administration of diazepam (0.1 mg/kg) indicates that the elimination half-life of diazepam increases linearly with age, ranging from about 15 hours at 18 years (healthy young adults) to about 100 hours at 95 years (healthy elderly) with a corresponding decrease in clearance of free diazepam (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+A study of single dose IV administration of diazepam (0.1 mg/kg) indicates that the elimination half-life of diazepam increases linearly with age, ranging from about 15 hours at 18 years (healthy young adults) to about 100 hours at 95 years (healthy elderly) with a corresponding decrease in clearance of free diazepam (see PRECAUTIONSand DOSAGE AND ADMINISTRATION).
 
 ### Effect of Gender, Race, and Cigarette Smoking:
 
