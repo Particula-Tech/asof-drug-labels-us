@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA206047"
+  ],
+  "inn": "pitavastatin",
+  "labeler": "Zydus Lifesciences Limited",
+  "package_ndcs": [
+    "70771-1784-9",
+    "70771-1785-9",
+    "70771-1786-9"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pitavastatin calcium",
+      "name": "pitavastatin calcium"
+    }
+  ],
+  "setid": "7b1a9aa6-a7a4-4050-8a40-89ba9728555a",
+  "source": "dailymed"
+}
