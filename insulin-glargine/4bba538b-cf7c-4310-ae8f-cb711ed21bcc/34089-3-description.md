@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-SOLIQUA 100/33 is a combination of a long-acting basal insulin analog, insulin glargine, and a GLP-1 receptor agonist, lixisenatide.
+SOLIQUA 100/33 is a combination of insulin glargine, an insulin analog, and lixisenatide, a GLP-1 receptor agonist.
 
 Insulin glargine is a human insulin analog produced by recombinant DNA technology utilizing a nonpathogenic laboratory strain of Escherichia coli (K12) as the production organism.
 The minimum potency of insulin glargine is NLT 15 units/mg.

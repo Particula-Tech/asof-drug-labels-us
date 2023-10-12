@@ -39,7 +39,7 @@ In the SOLIQUA 100/33 program, severe hypoglycemia was defined as an event requi
 
 No clinically important differences in risk of severe hypoglycemia between SOLIQUA 100/33 and comparators were observed in clinical trials.
 
-Table 4: Hypoglycemic Episodes in SOLIQUA-Treated Patients with T2DM
+Table 4: Hypoglycemic Episodes in SOLIQUA 100/33-Treated Patients with T2DM
 
 |  | SOLIQUA 100/33 Study A N=469 | SOLIQUA 100/33 Study B N=365 |
 | --- | --- | --- |
@@ -75,7 +75,7 @@ Severe, life-threatening, generalized allergy, including anaphylaxis, generalize
 
 Acute Gallbladder Disease
 
-In cardiovascular outcomes trial, cholelithiasis occurred in 0.4% of lixisenatide-treated patients versus 0.2% in placebo-treated patients and acute cholecystitis in 0.3% of lixisenatide-treated patients versus 0.2% in placebo-treated patients.
+In a cardiovascular outcomes trial, cholelithiasis occurred in 0.4% of lixisenatide-treated patients versus 0.2% in placebo-treated patients and acute cholecystitis in 0.3% of lixisenatide-treated patients versus 0.2% in placebo-treated patients.
 
 Injection-Site Reactions
 
@@ -123,9 +123,13 @@ No information regarding the presence of neutralizing antibodies is currently av
 The following additional adverse reactions have been identified during post approval use.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Renal: Acute kidney injury
+Renal: acute kidney injury
 
 Skin: Localized cutaneous amyloidosis at the injection site has occurred with insulins.
 Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.
 
-Hepatobiliary: Cholecystitis, cholelithiasis requiring cholecystectomy
+Hepatobiliary: cholecystitis, cholelithiasis requiring cholecystectomy
+
+Gastrointestinal: ileus
+
+Nervous system: dysgeusia

@@ -12,7 +12,7 @@ Hypokalemia must be corrected appropriately.
 
 Lixisenatide
 
-During clinical studies, doses up to 30 mcg of lixisenatide twice daily (3 times the daily recommended dose) were administered to type 2 diabetic patients in a 13-week study.
+During clinical studies, doses up to 30 mcg of lixisenatide twice daily (3-times the daily recommended dose) were administered to type 2 diabetic patients in a 13-week study.
 An increased incidence of gastrointestinal disorders was observed.
 
 In case of overdose, appropriate supportive treatment should be initiated according to the patient's clinical signs and symptoms and the SOLIQUA 100/33 dose should be reduced to the prescribed dose.

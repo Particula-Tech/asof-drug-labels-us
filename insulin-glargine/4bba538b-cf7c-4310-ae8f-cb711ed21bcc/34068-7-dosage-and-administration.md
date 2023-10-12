@@ -81,9 +81,9 @@ Table 2: Recommended Titration of SOLIQUA 100/33 (Every Week)The recommended SOL
 
 | Self-Monitored Fasting Plasma Glucose | SOLIQUA 100/33 Dosage Adjustment |
 | --- | --- |
-| Above target range | +2 units (2 units of insulin glargine and 0.66 mcg of lixisenatide) to +4 units (4 units insulin glargine and 1.32 mcg lixisenatide) |
+| Above target range | +2 units (2 units of insulin glargine and 0.66 mcg of lixisenatide) to +4 units (4 units of insulin glargine and 1.32 mcg of lixisenatide) |
 | Within target range | 0 units |
-| Below target range | -2 units (2 units of insulin glargine and 0.66 mcg of lixisenatide) to -4 units (4 units of insulin glargine and 1.32 mcg lixisenatide) |
+| Below target range | -2 units (2 units of insulin glargine and 0.66 mcg of lixisenatide) to -4 units (4 units of insulin glargine and 1.32 mcg of lixisenatide) |
 
 ## 2.4 Missed Doses
 

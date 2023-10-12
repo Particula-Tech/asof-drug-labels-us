@@ -57,7 +57,7 @@ Insulin glargine
 
 Subcutaneous reproduction and teratology studies have been performed with insulin glargine and regular human insulin in rats and Himalayan rabbits.
 Insulin glargine was given to female rats before mating, during mating, and throughout pregnancy at doses up to 0.36 mg/kg/day, which is approximately 2-times the recommended human subcutaneous high dose of 60 units/day (0.0364 mg/kg/day), based on mg/m2.
-In rabbits, doses up to 0.072 mg/kg/day, which is approximately 1-times the maximum recommended human subcutaneous dose of 60 units/day (0.0364 mg/kg/day), based on mg/m2, were administered during organogenesis.
+In rabbits, doses up to 0.072 mg/kg/day, which is approximately 1-time the maximum recommended human subcutaneous dose of 60 units/day (0.0364 mg/kg/day), based on mg/m2, were administered during organogenesis.
 The effects of insulin glargine did not generally differ from those observed with regular human insulin in rats or rabbits.
 However, in rabbits, five fetuses from two litters of the high-dose group exhibited dilation of the cerebral ventricles.
 Fertility and early embryonic development appeared normal.

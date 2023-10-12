@@ -47,7 +47,7 @@ Places to inject
 
 - Inject your SOLIQUA 100/33 dose exactly as your healthcare provider has shown you.
 - Inject your SOLIQUA 100/33 dose under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
-- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting pits in skin or thickened skin(lipodystrophy) and skin with lumps (localized cutaneous amyloidosis) at the injection sites.
+- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting pits in skin or thickened skin (lipodystrophy) and skin with lumps (localized cutaneous amyloidosis) at the injection sites.
 - Do not inject where the skin has pits, is thickened, or has lumps.
 - Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
@@ -134,7 +134,7 @@ Step 4: Select the dose
 - Do not use this pen if you need a single daily dose that is more than 60 units.
 - Do not use the pen if your single daily dose is less than 15 units, the black area in dose window as shown in the picture.
 
-- 4AMake sure a needle is attached and the dose is set to "0."
+- 4AMake sure a needle is attached and the dose is set to "0".
 
 - 4BTurn the dose selector until the dose pointer lines up with your dose.
   - Do not dial your dose by counting the clicks, because you might dial the wrong dose.
@@ -254,10 +254,10 @@ Throwing your pen away
 
 Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752
 
-©2022 sanofi-aventis U.S. LLC
+©2023 sanofi-aventis U.S. LLC
 
 SOLIQUA and SoloStar are registered trademarks of sanofi-aventis U.S. LLC.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: July 2021
+Revised: September 2023
