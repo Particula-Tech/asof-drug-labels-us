@@ -32,7 +32,7 @@ Table 5: Hemodynamics during Chronic Administration of Remodulin in Patients wit
 | SvO2 (%) | 62 ± 100 | 60 ± 11 | +2.0 ± 10 | -1.4 ± 8.8 |
 | SAPm (mmHg) | 90 ± 14 | 91 ± 14 | -1.7 ± 12 | -1.0 ± 13 |
 | HR (bpm) | 82 ± 13 | 82 ± 15 | -0.5 ± 11 | -0.8 ± 11 |
-| CI = cardiac index; PAPm = mean pulmonary arterial pressure; PVRI = pulmonary vascular resistance indexed; RAPm = mean right atrial pressure; SAPm = mean systemic arterial pressure; SVRI = systemic vascular resistance indexed; SvO2 = mixed venous oxygen saturation; HR = heart rate. |  |  |  |  |
+| CI, cardiac index; PAPm, mean pulmonary arterial pressure; PVRI, pulmonary vascular resistance indexed; RAPm, mean right atrial pressure; SAPm, mean systemic arterial pressure; SVRI, systemic vascular resistance indexed; SvO2, mixed venous oxygen saturation; HR, heart rate |  |  |  |  |
 
 Clinical Effects
 
