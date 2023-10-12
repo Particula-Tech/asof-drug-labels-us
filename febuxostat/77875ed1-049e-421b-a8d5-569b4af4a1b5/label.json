@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "ANDA207293"
+  ],
+  "inn": "febuxostat",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-274-07",
+    "33342-274-10",
+    "33342-274-15",
+    "33342-275-07",
+    "33342-275-10",
+    "33342-275-15"
+  ],
+  "products": [
+    {
+      "form": "FILM",
+      "generic": "febuxostat tablets 40 mg",
+      "name": "Febuxostat"
+    },
+    {
+      "form": "FILM",
+      "generic": "febuxostat tablets 80 mg",
+      "name": "Febuxostat"
+    }
+  ],
+  "setid": "77875ed1-049e-421b-a8d5-569b4af4a1b5",
+  "source": "dailymed"
+}
