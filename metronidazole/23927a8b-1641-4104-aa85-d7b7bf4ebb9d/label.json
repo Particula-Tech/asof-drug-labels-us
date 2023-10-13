@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA216755"
+  ],
+  "inn": "metronidazole",
+  "labeler": "Kesin Pharma Corporation",
+  "package_ndcs": [
+    "81033-066-20"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "metronidazole oral",
+      "name": "LIKMEZ"
+    }
+  ],
+  "setid": "23927a8b-1641-4104-aa85-d7b7bf4ebb9d",
+  "source": "dailymed"
+}
