@@ -93,12 +93,12 @@ Table 6: Removal-related Events Reported by Healthcare Professionals
 
 | Removal Related Events | Number of EventsTotal Removal Procedures: N= 4,373 | Incidence per 1,000 Removals (95% CI) |
 | --- | --- | --- |
-| Any Event Limited to one event per removal procedure | 60 | 13.7 (10.5-17.6) |
+| Any EventLimited to one event per removal procedure | 60 | 13.7 (10.5-17.6) |
 | Encased in Fibrotic Tissue | 29 | 6.6 (4.4-9.5) |
 | Implant Too Deep | 11 | 2.5 (1.3-4.5) |
-| Implant Migrated Only local migrations within the arm reported | 6 | 1.4 (0.5-3.0) |
+| Implant MigratedOnly local migrations within the arm reported | 6 | 1.4 (0.5-3.0) |
 | Multiple Attempts Required | 13 | 3.0 (1.6-5.1) |
-| Other Other included fragmented or bent implants, patient-related issues, wound care required, two incisions required, and difficulty identifying end of device. | 14 | 3.2 (1.8-5.4) |
+| OtherOther included fragmented or bent implants, patient-related issues, wound care required, two incisions required, and difficulty identifying end of device. | 14 | 3.2 (1.8-5.4) |
 
 At the time of implant removal, eighteen implants (0.4% of all localizations or removals) were not palpable by the healthcare professionals.
 Of these eighteen, eleven were localized and removed, and one was localized but left in situ.
@@ -120,8 +120,8 @@ Table 7: Adverse Reactions Reported by Patients at Implant Insertion and after R
 | Pins and Needles/Numbness (arm/hand/fingers) | 17 | 2.3 (1.4-3.7) | 24 | 3.3 (2.1-4.9) |
 | Severe Pain | 10 | 1.4 (0.7-2.5) | 11 | 1.5 (0.8-2.7) |
 | Altered Strength/Movement | 3 | 0.4 (0.1-1.2) | 8 | 1.1 (0.5-2.1) |
-| Injury to Blood Vessels or Blood Clots in Arm No blood clots were observed during the study | 2 | 0.3 (0-1.0) | -- | -- |
-| Other “Other” included localized or insertion site pain, soreness, tenderness, dermatological changes, itching, bruising, and infection, local migrations within the arm, and physical damage to the implant (e.g., fractured or bent implant). | 22 | 3.0 (1.9-4.5) | 18 | 2.4 (1.5-3.9) |
+| Injury to Blood Vessels or Blood Clots in ArmNo blood clots were observed during the study | 2 | 0.3 (0-1.0) | -- | -- |
+| Other“Other” included localized or insertion site pain, soreness, tenderness, dermatological changes, itching, bruising, and infection, local migrations within the arm, and physical damage to the implant (e.g., fractured or bent implant). | 22 | 3.0 (1.9-4.5) | 18 | 2.4 (1.5-3.9) |
 
 In summary, this prospective active surveillance study showed that the frequency of insertion-, localization-, and removal-related events is consistent with results previously reported from clinical trials.
 
@@ -158,8 +158,8 @@ Skin and subcutaneous tissue disorders: angioedema, aggravation of angioedema an
 
 Vascular disorders: hot flush.
 
-Complications related to insertion or removal of the etonogestrel implants reported include: bruising, slight local irritation, pain or itching, fibrosis at the implant site, paresthesia or paresthesia-like events, scarring and abscess.
-Expulsion or migration of the implant has been reported, including to the chest wall.
-In some cases, implants have been found within the vasculature, including the pulmonary artery.
-Some cases of implants found within the pulmonary artery reported chest pain and/or respiratory disorders (such as dyspnea, cough, or hemoptysis); others have been reported as asymptomatic [see Warnings and Precautions (5.1)].
-In-patient surgical interventions might be necessary when removing implants associated with complications.
+Reported complications related to insertion or removal of the etonogestrel implants include vasovagal reactions (e.g., hypotension, dizziness, or syncope), bruising, slight local irritation, pain, itching, fibrosis at the implant site, paresthesia or paresthesia-like events, scarring, and abscesses.
+Implant expulsions and migrations also have been reported.
+In some cases, implants have migrated to the chest wall or into the vasculature, including the pulmonary artery.
+Some cases of implants migrating to the pulmonary artery presented with symptoms of chest pain and/or respiratory disorders (e.g., dyspnea, cough, or hemoptysis); other cases have been reported as asymptomatic.
+In-patient surgical interventions might be necessary when removing implants associated with complications [see Warnings and Precautions (5.1)].

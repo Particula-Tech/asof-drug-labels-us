@@ -2,34 +2,44 @@
 
 The following information is based on experience with the etonogestrel implants (IMPLANON and/or NEXPLANON), other progestin-only contraceptives, or experience with combination (estrogen plus progestin) oral contraceptives.
 
-## 5.1 Complications of Insertion and Removal
+## 5.1 Complications of Insertion/Removal and Broken/Bent Implants
+
+Complications of Insertion and Removal
 
 NEXPLANON should be inserted subdermally so that it will be palpable after insertion, and this should be confirmed by palpation immediately after insertion.
 Failure to insert NEXPLANON properly may go unnoticed unless it is palpated immediately after insertion.
 Undetected failure to insert the implant may lead to an unintended pregnancy.
-Complications related to insertion and removal procedures, such as pain, paresthesias, bleeding, hematoma, scarring or infection, may occur.
+Complications related to insertion and removal procedures may occur, e.g., pain, paresthesia, bleeding, hematoma, scarring, or infection.
 
-If NEXPLANON is inserted deeply (intramuscular or in the fascia), neural or vascular injury may occur.
-To help reduce the risk of neural or vascular injury, NEXPLANON should be inserted subdermally just under the skin at the inner side of the non-dominant upper arm overlying the triceps muscle about 8-10 cm (3-4 inches) from the medial epicondyle of the humerus and 3-5 cm (1.25-2 inches) posterior to (below) the sulcus (groove) between the biceps and triceps muscles.
-This location is intended to avoid the large blood vessels and nerves lying within and surrounding the sulcus.
+If NEXPLANON is inserted deeply (intramuscular or intrafascial), neural or vascular injury may occur.
+To help reduce the risk of neural or vascular injury, NEXPLANON should be inserted subdermally just under the skin at the inner side of the non-dominant upper arm overlying the triceps muscle, about 8-10 cm (3-4 inches) from the medial epicondyle of the humerus, and 3-5 cm (1.25-2 inches) posterior to (below) the sulcus (groove) between the biceps and triceps muscles.
+This location is intended to avoid the large nerves and blood vessels lying within and surrounding the sulcus.
 Deep insertions of NEXPLANON have been associated with paresthesia (due to neural injury), migration of the implant (due to intramuscular or fascial insertion), and intravascular insertion.
 If infection develops at the insertion site, start suitable treatment.
 If the infection persists, the implant should be removed.
 Incomplete insertions or infections may lead to expulsion.
 
-Implant removal may be difficult or impossible if the implant is not inserted correctly, is inserted too deeply, not palpable, encased in fibrous tissue, or has migrated.
-
-There have been reports of migration of the implant within the arm from the insertion site, which may be related to deep insertion.
-There also have been postmarketing reports of implants located within the vessels of the arm and the pulmonary artery, which may be related to deep insertions or intravascular insertion.
+Reports of implant migration within the arm may have been related to deep insertion.
+Postmarketing reports of implants located within the vessels of the arm and the pulmonary artery also may have been related to deep insertions or intravascular insertions.
 Some cases of implants found within the pulmonary artery were associated with chest pain and/or respiratory disorders (such as dyspnea, cough, or hemoptysis); others were asymptomatic.
 In cases where the implant has migrated to the pulmonary artery, endovascular or surgical procedures may be needed for removal.
 
+Implant removal may be difficult or impossible if the implant is not inserted correctly, is inserted too deeply, not palpable, encased in fibrous tissue, or has migrated.
 If at any time the implant cannot be palpated, it should be localized, and removal is recommended.
+When an implant is removed, it is important to remove it in its entirety [see Dosage and Administration (2.3)].
 
 Exploratory surgery without knowledge of the exact location of the implant is strongly discouraged.
 Removal of deeply inserted implants should be conducted with caution in order to prevent injury to deeper neural or vascular structures in the arm and be performed by healthcare professionals familiar with the anatomy of the arm.
 If the implant is located in the chest, healthcare professionals familiar with the anatomy of the chest should be consulted.
 Failure to remove the implant may result in continued effects of etonogestrel, such as compromised fertility, ectopic pregnancy, or persistence or occurrence of a drug-related adverse event.
+
+Broken or Bent Implants
+
+Cases of breakage or bending of implants while inserted within a patient’s arm have been reported.
+Cases of migration of a broken implant fragment within the arm have also occurred.
+These cases may be related to external forces, e.g., manipulation of the implant or contact sports.
+The release rate of etonogestrel may be slightly increased in a broken or bent implant, based on in vitro data.
+As noted previously, when an implant is removed, it is important to remove it in its entirety [see Dosage and Administration (2.3)].
 
 ## 5.2 Changes in Menstrual Bleeding Patterns
 
@@ -165,19 +175,11 @@ It is unknown if NEXPLANON causes fluid retention.
 
 Contact lens wearers who develop visual changes or changes in lens tolerance should be assessed by an ophthalmologist.
 
-## 5.16 Broken or Bent Implant
-
-There have been reports of broken or bent implants, which may be related to external forces (e.g., manipulation of the implant or contact sports) while in the patient’s arm.
-There have also been reports of migration of a broken implant fragment within the arm.
-Based on in vitro data, when an implant is broken or bent, the release rate of etonogestrel may be slightly increased.
-
-When an implant is removed, it is important to remove it in its entirety [see Dosage and Administration (2.3)].
-
-## 5.17 Monitoring
+## 5.16 Monitoring
 
 A woman who is using NEXPLANON should have a yearly visit with her healthcare professional for a blood pressure check and for other indicated health care.
 
-## 5.18 Drug-Laboratory Test Interactions
+## 5.17 Drug-Laboratory Test Interactions
 
 Sex hormone-binding globulin concentrations may be decreased for the first six months after NEXPLANON insertion followed by gradual recovery.
 Thyroxine concentrations may initially be slightly decreased followed by gradual recovery to baseline.

@@ -14,7 +14,7 @@ Absorption
 
 After subdermal insertion of the etonogestrel implant, etonogestrel is released into the circulation and is approximately 100% bioavailable.
 
-In a three year clinical trial, NEXPLANON and the non-radiopaque etonogestrel implant (IMPLANON) yielded comparable systemic exposure to etonogestrel.
+In a three-year clinical trial, NEXPLANON and the non-radiopaque etonogestrel implant (IMPLANON) yielded comparable systemic exposure to etonogestrel.
 For NEXPLANON, the mean (± SD) maximum serum etonogestrel concentrations were 1200 (± 604) pg/mL and were reached within the first two weeks after insertion (n=50).
 The mean (± SD) serum etonogestrel concentration decreased gradually over time, declining to 202 (± 55) pg/mL at 12 months (n=41), 164 (± 58) pg/mL at 24 months (n=37), and 138 (± 43) pg/mL at 36 months (n=32).
 For the non-radiopaque etonogestrel implant (IMPLANON), the mean (± SD) maximum serum etonogestrel concentrations were 1145 (± 577) pg/mL and were reached within the first two weeks after insertion (n=53).

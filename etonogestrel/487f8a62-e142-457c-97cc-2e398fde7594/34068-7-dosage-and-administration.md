@@ -1,13 +1,13 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-The efficacy of NEXPLANON does not depend on daily, weekly or monthly administration.
+The efficacy of NEXPLANON does not depend on daily, weekly, or monthly administration.
 
 All healthcare professionals should receive instruction and training prior to performing insertion and/or removal of NEXPLANON.
 
 A single NEXPLANON implant is inserted subdermally just under the skin at the inner side of the non-dominant upper arm.
 The insertion site is overlying the triceps muscle about 8-10 cm (3-4 inches) from the medial epicondyle of the humerus and 3-5 cm (1.25-2 inches) posterior to (below) the sulcus (groove) between the biceps and triceps muscles.
 This location is intended to avoid the large blood vessels and nerves lying within and surrounding the sulcus (see Figures 2a, 2b and 2c).
-An implant inserted more deeply than subdermally (deep insertion) may not be palpable and the localization and/or removal can be difficult or impossible [see Dosage and Administration (2.3) and Warnings and Precautions (5.1)].
+Inserting an implant more deeply than subdermally (a deep insertion) may preclude palpation and localization, making removal difficult or impossible [see Dosage and Administration (2.3) and Warnings and Precautions (5.1)].
 
 NEXPLANON must be inserted by the expiration date stated on the packaging.
 NEXPLANON is a long-acting (up to 3 years), reversible, hormonal contraceptive method.
@@ -92,7 +92,6 @@ Before insertion of NEXPLANON, the healthcare professional should confirm that:
 - The woman has had a medical history and physical examination, including a gynecologic examination, performed.
 - The woman understands the benefits and risks of NEXPLANON.
 - The woman has received a copy of the Patient Labeling included in packaging.
-- The woman has reviewed and completed a consent form to be maintained with the woman's chart.
 - The woman does not have allergies to the antiseptic and anesthetic to be used during insertion.
 
 Insert NEXPLANON under aseptic conditions.
@@ -128,7 +127,7 @@ Step 3.
 Make two marks with a surgical marker: first, mark the spot where the etonogestrel implant will be inserted, and second, mark a spot at 5 centimeters (2 inches) proximal (toward the shoulder) to the first mark (Figure 2a and 2b).
 This second mark (guiding mark) will later serve as a direction guide during insertion.
 
-| Figure 2a P - Proximal (toward the shoulder) D - Distal (toward the elbow) |
+| Figure 2a P – Proximal (toward the shoulder) D – Distal (toward the elbow) |
 | --- |
 
 |  | Figure 2b | Figure 2c: Cross section of the upper left arm, as viewed from the elbow Medial (inner side of the arm) Lateral (outer side of the arm) |  |
@@ -144,8 +143,8 @@ Step 6.
 Anesthetize the insertion area (for example, with anesthetic spray or by injecting 2 mL of 1% lidocaine just under the skin along the planned insertion tunnel).
 
 Step 7.
-Remove the sterile preloaded disposable NEXPLANON applicator carrying the implant from its blister.
-The applicator should not be used if sterility is in question.
+Remove the sterile preloaded disposable NEXPLANON applicator containing the implant from its blister packaging.
+Prior to use, visually inspect the packaging for breaches of integrity or damage (e.g., torn, punctured, etc.). If the packaging has any visual damage that could compromise sterility, do not use the product.
 
 Step 8.
 Hold the applicator just above the needle at the textured surface area.
@@ -238,8 +237,7 @@ Apply a pressure bandage with sterile gauze to minimize bruising.
 The woman may remove the pressure bandage in 24 hours and the small adhesive bandage over the insertion site after 3 to 5 days.
 
 Step 20.
-Complete the USER CARD and give it to the woman to keep.
-Also, complete the PATIENT CHART LABEL and affix it to the woman's medical record.
+Complete the PATIENT CHART LABEL and affix it to the woman's medical record.
 
 Step 21.
 The applicator is for single use only and should be disposed in accordance with the Center for Disease Control and Prevention guidelines for handling of hazardous waste.
@@ -268,7 +266,7 @@ If you are unfamiliar with the removal technique, call 1-844-674-3200 for furthe
 
 Before initiating the removal procedure, the healthcare professional should assess the location of the implant and carefully read the instructions for removal.
 The exact location of the implant in the arm should be verified by palpation.
-If the implant is not palpable, consult the User Card or medical record to verify the arm which contains the implant.
+If the implant is not palpable, consult the medical record to verify the arm which contains the implant.
 If the implant cannot be palpated, it may be deeply located or have migrated.
 Consider that it may lie close to vessels and nerves.
 Removal of non-palpable implants should only be performed by a healthcare professional experienced in removing deeply placed implants and familiar with localizing the implant and the anatomy of the arm.
@@ -306,7 +304,7 @@ Call 1-844-674-3200 for further information.
 
 Mark the distal end (end closest to the elbow), for example, with a surgical marker.
 
-| Figure 10 P - Proximal (toward the shoulder) D - Distal (toward the elbow) |
+| Figure 10 P – Proximal (toward the shoulder) D – Distal (toward the elbow) |
 | --- |
 
 Step 3.
@@ -388,8 +386,8 @@ If at any time these imaging methods fail to locate the implant, etonogestrel bl
 For details on etonogestrel blood level determination, call 1-844-674-3200 for further instructions.
 
 If the implant migrates within the arm, removal may require a minor surgical procedure with a larger incision or a surgical procedure in an operating room.
-Removal of deeply inserted implants should be conducted with caution in order to help prevent injury to deeper neural or vascular structures in the arm.
-Non-palpable and deeply inserted implants should be removed by healthcare professionals familiar with the anatomy of the arm and removal of deeply-inserted implants.
+Removal of deeply-inserted implants should be conducted with caution to help prevent injury to deeper neural or vascular structures in the arm.
+Non-palpable and deeply-inserted implants should be removed by healthcare professionals familiar with the anatomy of the arm and removal of deeply-inserted implants.
 
 Exploratory surgery without knowledge of the exact location of the implant is strongly discouraged.
 
@@ -397,7 +395,7 @@ Exploratory surgery without knowledge of the exact location of the implant is st
 
 Immediate replacement can be done after removal of the previous implant and is similar to the insertion procedure described in section 2.2 Insertion of NEXPLANON.
 
-The new implant may be inserted in the same arm, and through the same incision from which the previous implant was removed, as long as the site is in the correct location, i.e., 8-10 cm from the medial epicondyle of the humerus and 3-5 cm posterior to (below) the sulcus [see Dosage and Administration (2.2)].
+The new implant may be inserted in the same arm, and through the same incision from which the previous implant was removed, if the site is in the correct location, i.e., 8-10 cm from the medial epicondyle of the humerus and 3-5 cm posterior to (below) the sulcus [see Dosage and Administration (2.2)].
 If the same incision is being used to insert a new implant, anesthetize the insertion site [for example, 2 mL lidocaine (1%)] applying it just under the skin along the 'insertion canal.'
 
 Follow the subsequent steps in the insertion instructions [see Dosage and Administration (2.2)].

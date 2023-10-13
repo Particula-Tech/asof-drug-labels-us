@@ -5,9 +5,10 @@ Organon, Oss, The Netherlands, a subsidiary of Organon & Co., Jersey City, NJ 07
 
 For patent information: www.organon.com/our-solutions/patent/
 
-Copyright © 2021 Organon Global Inc. All rights reserved.
+© 2023 Organon group of companies.
+All rights reserved.
 
-uspi-og8415-iptx-2107r001
+uspi-og8415-iptx-2309r002
 
 Manufactured for: Organon USA LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA
 
@@ -16,8 +17,13 @@ Organon, Oss, The Netherlands, a subsidiary of Organon & Co., Jersey City, NJ 07
 
 For patent information: www.organon.com/our-solutions/patent/
 
-Copyright © 2021 Organon Global Inc. All rights reserved.
+© 2023 Organon group of companies.
+All rights reserved.
 
-Revised: 7/2021
+usppi-og8415-iptx-2309r002
 
-usppi-og8415-iptx-2107r001
+For more information, go to www.nexplanon.com or call 1-844-674-3200.
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+Revised: 09/2023
