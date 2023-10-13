@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA206015"
+  ],
+  "inn": "pitavastatin",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-812-05",
+    "65862-812-90",
+    "65862-813-05",
+    "65862-813-90",
+    "65862-814-05",
+    "65862-814-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "pitavastatin",
+      "name": "Pitavastatin"
+    }
+  ],
+  "setid": "a52401eb-a822-475b-a40d-7b8acde2ae1a",
+  "source": "dailymed"
+}
