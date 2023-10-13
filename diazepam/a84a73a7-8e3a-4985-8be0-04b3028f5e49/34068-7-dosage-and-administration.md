@@ -42,14 +42,14 @@ The safety of this strategy has been established in clinical trials.
 | 36 to 44 | 20 | 59 to 74 | 20 | 88 to 111 | 20 |
 
 The rectal delivery system includes a plastic applicator with a flexible, molded tip available in two lengths.
-The DIASTAT® ACUDIAL™ 10 mg syringe is available with a 4.4 cm tip and the DIASTAT® ACUDIAL™ 20 mg syringe is available with a 6.0 cm tip.
-DIASTAT® 2.5 mg is also available with a 4.4 cm tip.
+The DIASTAT ®ACUDIAL™ 10 mg syringe is available with a 4.4 cm tip and the DIASTAT ®ACUDIAL™ 20 mg syringe is available with a 6.0 cm tip.
+DIASTAT ®2.5 mg is also available with a 4.4 cm tip.
 
 In elderly and debilitated patients, it is recommended that the dosage be adjusted downward to reduce the likelihood of ataxia or oversedation.
 
 The prescribed dose of diazepam rectal gel should be adjusted by the physician periodically to reflect changes in the patient’s age or weight.
 
-The DIASTAT® 2.5 mg dose may also be used as a partial replacement dose for patients who may expel a portion of the first dose.
+The DIASTAT ®2.5 mg dose may also be used as a partial replacement dose for patients who may expel a portion of the first dose.
 
 ## Additional Dose
 

@@ -9,7 +9,7 @@ The diazepam rectal gel delivery system is available in the following three pres
 | DIASTAT® | Rectal Tip Size | NDC |
 | --- | --- | --- |
 | 2.5 mg Twin Pack | 4.4 cm | 66490-650-20 |
-| DIASTAT® ACUDIAL™ | Rectal Tip Size | NDC |
+| DIASTAT®ACUDIAL™ | Rectal Tip Size | NDC |
 | 10 mg DeliverySystem Twin Pack | 4.4 cm | 0187-0658-20 |
 | 20 mg DeliverySystem Twin Pack | 6.0 cm | 0187-0659-20 |
 
@@ -18,16 +18,16 @@ DIASTAT ACUDIAL is also packed with Instructions for Caregivers upon receipt fro
 
 Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
-DIASTAT® ACUDIAL™ INSTRUCTIONS FOR CAREGIVERS UPON RECEIPT FROM PHARMACY
+DIASTAT ®ACUDIAL™ INSTRUCTIONS FOR CAREGIVERS UPON RECEIPTFROM PHARMACY
 
-- •Remove the syringe from the case.
-- •Confirm the dose prescribed by your doctor is visible and if known, is correct.
+- Remove the syringe from the case.
+- Confirm the dose prescribed by your doctor is visible and if known, is correct.
 
 FOR EACH SYRINGE:
 
-- •Confirm that the prescribed dose is visible in the dose display window.
-- •Confirm that the green “READY” band is visible.
-- •Return the syringe to the case.
+- Confirm that the prescribed dose is visible in the dose display window.
+- Confirm that the green “READY” band is visible.
+- Return the syringe to the case.
 
 SEE PHARMACIST IF YOU HAVE ANY QUESTIONS ABOUT THESE INSTRUCTIONS.
 
@@ -37,11 +37,11 @@ CAUTION: Federal law prohibits the transfer of this drug to any person other tha
 
 Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Manufactured for: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
+Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
 
 ®/™ are trademarks of Bausch Health Companies Inc. or its affiliates.
 
 © 2023 Bausch Health Companies Inc. or its affiliates
 
 9435005 Rev.
-01/2023
+7/2023

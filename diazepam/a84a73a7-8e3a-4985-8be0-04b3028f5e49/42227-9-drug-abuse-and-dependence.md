@@ -1,8 +1,8 @@
 # DRUG ABUSE AND DEPENDENCE
 
-Controlled Substance: DIASTAT contains diazepam, a Schedule IV controlled substance.
+Controlled Substance:DIASTAT contains diazepam, a Schedule IV controlled substance.
 
-Abuse: DIASTAT is a benzodiazepine and a CNS depressant with a potential for abuse and addiction.
+Abuse:DIASTAT is a benzodiazepine and a CNS depressant with a potential for abuse and addiction.
 Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
 Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed.
 Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
@@ -23,18 +23,21 @@ Physical Dependence After Use of DIASTAT More Frequently Than Recommended
 
 DIASTAT may produce physical dependence if used more frequently than recommended.
 Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
-Although DIASTAT is indicated only for intermittent use (see INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION), if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
+Although DIASTAT is indicated only for intermittent use (see INDICATIONS AND USAGEand DOSAGE AND ADMINISTRATION),if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
 Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use (see WARNINGS, Dependence and Withdrawal Reactions).
 
 For patients using DIASTAT more frequently than recommended, to reduce the risk of withdrawal reactions, use a gradual taper to discontinue DIASTAT (see WARNINGS, Dependence and Withdrawal Reactions).
 
-- Acute Withdrawal Signs and Symptoms
-- Acute withdrawal signs and symptoms associated with benzodiazepines have included abnormal involuntary movements, anxiety, blurred vision, depersonalization, depression, derealization, dizziness, fatigue, gastrointestinal adverse reactions (e.g., nausea, vomiting, diarrhea, weight loss, decreased appetite), headache, hyperacusis, hypertension, irritability, insomnia, memory impairment, muscle pain and stiffness, panic attacks, photophobia, restlessness, tachycardia, and tremor.
-  More severe acute withdrawal signs and symptoms, including life-threatening reactions, have included catatonia, convulsions, delirium tremens, depression, hallucinations, mania, psychosis, seizures, and suicidality.
-- Protracted Withdrawal Syndrome
-- Protracted withdrawal syndrome associated with benzodiazepines is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal.
-  Protracted withdrawal symptoms may last weeks to more than 12 months.
-  As a result, there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for which the benzodiazepine was being used.
+Acute Withdrawal Signs and Symptoms
+
+Acute withdrawal signs and symptoms associated with benzodiazepines have included abnormal involuntary movements, anxiety, blurred vision, depersonalization, depression, derealization, dizziness, fatigue, gastrointestinal adverse reactions (e.g., nausea, vomiting, diarrhea, weight loss, decreased appetite), headache, hyperacusis, hypertension, irritability, insomnia, memory impairment, muscle pain and stiffness, panic attacks, photophobia, restlessness, tachycardia, and tremor.
+More severe acute withdrawal signs and symptoms, including life-threatening reactions, have included catatonia, convulsions, delirium tremens, depression, hallucinations, mania, psychosis, seizures, and suicidality.
+
+Protracted Withdrawal Syndrome
+
+Protracted withdrawal syndrome associated with benzodiazepines is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal.
+Protracted withdrawal symptoms may last weeks to more than 12 months.
+As a result, there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for which the benzodiazepine was being used.
 
 Tolerance
 

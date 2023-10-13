@@ -32,7 +32,7 @@ Patients at an increased risk of withdrawal adverse reactions after benzodiazepi
 Acute Withdrawal Reactions
 
 The continued use of benzodiazepines may lead to clinically significant physical dependence.
-Although DIASTAT is indicated only for intermittent use (see INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION), if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction of DIASTAT, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE: Dependence).
+Although DIASTAT is indicated only for intermittent use (see INDICATIONS AND USAGEand DOSAGE AND ADMINISTRATION), if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction of DIASTAT, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE: Dependence).
 
 Protracted Withdrawal Syndrome
 
@@ -49,7 +49,7 @@ Therefore, diazepam rectal gel is not recommended for use in children under six 
 
 ## Neonatal Sedation and Withdrawal Syndrome
 
-Use of DIASTAT late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (see PRECAUTIONS: Pregnancy).
+Use of DIASTAT late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (seePRECAUTIONS: Pregnancy).
 Monitor neonates exposed to DIASTAT during pregnancy or labor for signs of sedation and monitor neonates exposed to DIASTAT during pregnancy for signs of withdrawal; manage these neonates accordingly.
 
 ## Chronic Use
@@ -60,7 +60,7 @@ In such cases, abrupt withdrawal of chronic diazepam may also be associated with
 
 ## Use in Patients with Petit Mal Status
 
-Tonic status epilepticus has been precipitated in patients treated with IV diazepam for petit mal status or petit mal variant status.
+Tonic status epilepticushas been precipitated in patients treated with IV diazepam for petit mal status or petit mal variant status.
 
 # PRECAUTIONS
 
@@ -68,35 +68,35 @@ Tonic status epilepticus has been precipitated in patients treated with IV diaze
 
 Risks from Concomitant Use with Opioids:
 
-Inform patients and caregivers that potentially fatal additive effects may occur if DIASTAT or DIASTAT ACUDIAL is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider (see WARNINGS and PRECAUTIONS: Drug Interactions).
+Inform patients and caregivers that potentially fatal additive effects may occur if DIASTAT or DIASTAT ACUDIAL is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider (see WARNINGSand PRECAUTIONS: Drug Interactions).
 
-Abuse, Misuse, and Addiction: Inform patients that the use of DIASTAT more frequently than recommended, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
-Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS: Abuse, Misuse, and Addiction and DRUG ABUSE AND DEPENDENCE).
+Abuse, Misuse, and Addiction:Inform patients that the use of DIASTAT more frequently than recommended, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
+Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS: Abuse, Misuse, and Addictionand DRUG ABUSE AND DEPENDENCE).
 
-Withdrawal Reactions: Inform patients that use of DIASTAT more frequently than recommended may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of DIASTAT may precipitate acute withdrawal reactions, which can be life-threatening.
-Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE).
+Withdrawal Reactions:Inform patients that use of DIASTAT more frequently than recommended may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of DIASTAT may precipitate acute withdrawal reactions, which can be life-threatening.
+Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see WARNINGS: Dependence and Withdrawal Reactionsand DRUG ABUSE AND DEPENDENCE).
 
-Administration: Prescribers are strongly advised to take all reasonable steps to ensure that caregivers fully understand their role and obligations vis a vis the administration of diazepam rectal gel to individuals in their care.
+Administration:Prescribers are strongly advised to take all reasonable steps to ensure that caregivers fully understand their role and obligations vis a vis the administration of diazepam rectal gel to individuals in their care.
 Prescribers should routinely discuss the steps in the Patient/Caregiver Package Insert (see Patient/Caregiver Insert printed at the end of the product labeling and also included in the product carton).
 The successful and safe use of diazepam rectal gel depends in large measure on the competence and performance of the caregiver.
 
 Prescribers should advise caregivers that they expect to be informed immediately if a patient develops any new findings which are not typical of the patient’s characteristic seizure episode.
 
-Interference With Cognitive and Motor Performance: Because benzodiazepines have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that diazepam rectal gel therapy does not affect them adversely.
+Interference With Cognitive and Motor Performance:Because benzodiazepines have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that diazepam rectal gel therapy does not affect them adversely.
 
 ## Pregnancy
 
-Advise pregnant females that use of DIASTAT late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and PRECAUTIONS: Pregnancy).
+Advise pregnant females that use of DIASTAT late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS: Neonatal Sedation and Withdrawal Syndromeand PRECAUTIONS: Pregnancy).
 Instruct patients to inform their healthcare provider if they are pregnant.
 
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant while taking DIASTAT.
-The registry is collecting information about the safety of antiepileptic drugs during pregnancy (see PRECAUTIONS: Pregnancy).
+The registry is collecting information about the safety of antiepileptic drugs during pregnancy (seePRECAUTIONS: Pregnancy).
 
 ## Lactation
 
 Counsel patients that diazepam, the active ingredient in DIASTAT, is present in breast milk.
 Instruct patients to inform their healthcare provider if they are breastfeeding or plan to breastfeed.
-Instruct breastfeeding patients who take DIASTAT to monitor their infants for excessive sedation, poor feeding and poor weight gain, and to seek medical attention if they notice these signs (see PRECAUTIONS: Nursing Mothers).
+Instruct breastfeeding patients who take DIASTAT to monitor their infants for excessive sedation, poor feeding and poor weight gain, and to seek medical attention if they notice these signs (seePRECAUTIONS: Nursing Mothers).
 
 ## Concomitant Medication
 
@@ -107,45 +107,45 @@ Although diazepam rectal gel is indicated for use solely on an intermittent basi
 There have been no clinical studies or reports in literature to evaluate the interaction of rectally administered diazepam with other drugs.
 As with all drugs, the potential for interaction by a variety of mechanisms is a possibility.
 
-Effect of Concomitant Use of Benzodiazepines and Opioids: The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
-Benzodiazepines interact at GABAA sites, and opioids interact primarily at mu receptors.
+Effect of Concomitant Use of Benzodiazepines and Opioids:The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
+Benzodiazepines interact at GABA Asites, and opioids interact primarily at mu receptors.
 When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
 Limit dosage and duration of concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression and sedation.
 
-Other Psychotropic Agents or Other CNS Depressants: If diazepam rectal gel is to be combined with other psychotropic agents or other CNS depressants, careful consideration should be given to the pharmacology of the agents to be employed particularly with known compounds which may potentiate the action of diazepam, such as phenothiazines, narcotics, barbiturates, MAO inhibitors and other antidepressants.
+Other Psychotropic Agents or Other CNS Depressants:If diazepam rectal gel is to be combined with other psychotropic agents or other CNS depressants, careful consideration should be given to the pharmacology of the agents to be employed particularly with known compounds which may potentiate the action of diazepam, such as phenothiazines, narcotics, barbiturates, MAO inhibitors and other antidepressants.
 
-Cimetidine: The clearance of diazepam and certain other benzodiazepines can be delayed in association with cimetidine administration.
+Cimetidine:The clearance of diazepam and certain other benzodiazepines can be delayed in association with cimetidine administration.
 The clinical significance of this is unclear.
 
-Valproate: Valproate may potentiate the CNS-depressant effects of diazepam.
+Valproate:Valproate may potentiate the CNS-depressant effects of diazepam.
 
-Effect of Other Drugs on Diazepam Metabolism: In vitro studies using human liver preparations suggest that CYP2C19 and CYP3A4 are the principal isozymes involved in the initial oxidative metabolism of diazepam.
+Effect of Other Drugs on Diazepam Metabolism:In vitro studies using human liver preparations suggest that CYP2C19 and CYP3A4 are the principal isozymes involved in the initial oxidative metabolism of diazepam.
 Therefore, potential interactions may occur when diazepam is given concurrently with agents that affect CYP2C19 and CYP3A4 activity.
 Potential inhibitors of CYP2C19 (e.g., cimetidine, quinidine, and tranylcypromine) and CYP3A4 (e.g., ketoconazole, troleandomycin, and clotrimazole) could decrease the rate of diazepam elimination, while inducers of CYP2C19 (e.g., rifampin) and CYP3A4 (e.g., carbamazepine, phenytoin, dexamethasone, and phenobarbital) could increase the rate of elimination of diazepam.
 
-Effect of Diazepam on the Metabolism of Other Drugs: There are no reports as to which isozymes could be inhibited or induced by diazepam.
+Effect of Diazepam on the Metabolism of Other Drugs:There are no reports as to which isozymes could be inhibited or induced by diazepam.
 But, based on the fact that diazepam is a substrate for CYP2C19 and CYP3A4, it is possible that diazepam may interfere with the metabolism of drugs which are substrates for CYP2C19, (e.g. omeprazole, propranolol, and imipramine) and CYP3A4 (e.g. cyclosporine, paclitaxel, terfenadine, theophylline, and warfarin) leading to a potential drug-drug interaction.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 The carcinogenic potential of rectal diazepam has not been evaluated.
-In studies in which mice and rats were administered diazepam in the diet at a dose of 75 mg/kg/day (approximately six and 12 times, respectively, the maximum recommended human dose [MRHD=1 mg/kg/day] on a mg/m2 basis) for 80 and 104 weeks, respectively, an increased incidence of liver tumors was observed in males of both species.
+In studies in which mice and rats were administered diazepam in the diet at a dose of 75 mg/kg/day (approximately six and 12 times, respectively, the maximum recommended human dose [MRHD=1 mg/kg/day] on a mg/m 2basis) for 80 and 104 weeks, respectively, an increased incidence of liver tumors was observed in males of both species.
 
 The data currently available are inadequate to determine the mutagenic potential of diazepam.
 
-Reproduction studies in rats showed decreases in the number of pregnancies and in the number of surviving offspring following administration of an oral dose of 100 mg/kg/day (approximately 16 times the MRHD on a mg/m2 basis) prior to and during mating and throughout gestation and lactation.
-No adverse effects on fertility or offspring viability were noted at a dose of 80 mg/kg/day (approximately 13 times the MRHD on a mg/m2 basis).
+Reproduction studies in rats showed decreases in the number of pregnancies and in the number of surviving offspring following administration of an oral dose of 100 mg/kg/day (approximately 16 times the MRHD on a mg/m 2basis) prior to and during mating and throughout gestation and lactation.
+No adverse effects on fertility or offspring viability were noted at a dose of 80 mg/kg/day (approximately 13 times the MRHD on a mg/m 2basis).
 
 ## Pregnancy
 
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to AEDs, such as DIASTAT, during pregnancy.
-Healthcare providers are encouraged to recommend that pregnant women taking DIASTAT enroll in the NAAED Pregnancy Registry by calling 1-888- 233-2334 or online at http://www.aedpregnancyregistry.org/.
+Healthcare providers are encouraged to recommend that pregnant women taking DIASTATenroll in the NAAED Pregnancy Registry by calling 1-888-233-2334 or online at http://www.aedpregnancyregistry.org/.
 
 Risk Summary
 
-Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and PRECAUTIONS: Pregnancy, Clinical Considerations).
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndromeand PRECAUTIONS: Pregnancy, Clinical Considerations).
 Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Human Data).
 
 In animal studies, administration of diazepam during the organogenesis period of pregnancy resulted in increased incidences of fetal malformations at doses greater than those used clinically.

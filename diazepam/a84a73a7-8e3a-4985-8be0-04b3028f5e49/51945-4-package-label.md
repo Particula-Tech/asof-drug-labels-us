@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL – Diastat Delivery System – 10 mg
 
-NDC 0187-0658-20 Diastat®AcuDial™ (diazepam rectal gel) CIV 10 mg Delivery System
+NDC0187-0658-20 Dia stat ®AcuDial™ (diazepam rectal gel) CIV 10 mg Delivery System
 
 For Rectal Administration Only
 
@@ -10,7 +10,7 @@ LOT: EXP:
 
 # PRINCIPAL DISPLAY PANEL - Diastat Delivery System – 20 mg
 
-NDC 0187-0659-20 Diastat®AcuDial™ (diazepam rectal gel) CIV 20 mg Delivery System
+NDC0187-0659-20 Dia stat ®AcuDial™ (diazepam rectal gel) CIV 20 mg Delivery System
 
 For Rectal Administration Only
 
