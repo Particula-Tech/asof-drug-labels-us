@@ -9,7 +9,7 @@ No evidence of tumorigenicity was observed in mice at roflumilast oral doses up 
 
 In a 2-year dermal mouse carcinogenicity study, no evidence of carcinogenicity was observed at topical doses of roflumilast cream up to 1% applied at 2 mL/kg/day (2 times the MRHD on an AUC basis).
 
-Roflumilast tested positive in an in vivo mouse micronucleus test, but negative in the following assays: the Ames test, an in vitro chromosome aberration assay in human lymphocytes, an in vitro HPRT assay with V79 cells, an in vitro micronucleus test with V79 cells, a DNA adduct formation assay in rat nasal mucosa, liver and testes, and an in vivo mouse bone marrow chromosome aberration assay.
+Roflumilast tested positive in an in vivo mouse micronucleus test, but negative in the following assays: the Ames test, an in vitro chromosome aberration assay in human lymphocytes, an in vitro HPRT assay with V79 cells, an in vitro micronucleus test with V79 cells, a DNA adduct formation assay in rat nasal mucosa, liver, and testes, and an in vivo mouse bone marrow chromosome aberration assay.
 Roflumilast N-oxide was negative in the Ames test and an in vitro micronucleus test with V79 cells.
 
 In a human spermatogenesis study, oral roflumilast 500 mcg had no effects on semen parameters or reproductive hormones during the 3-month treatment period and the following 3-month off-treatment period.

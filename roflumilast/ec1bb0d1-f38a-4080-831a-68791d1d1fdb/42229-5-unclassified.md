@@ -1,1 +1,3 @@
-Copyright © 2022 Arcutis Biotherapeutics, Inc.
+© 2023 Arcutis Biotherapeutics, Inc. All rights reserved.
+
+v2

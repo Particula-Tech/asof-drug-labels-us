@@ -8,23 +8,32 @@ The specific mechanism(s) by which roflumilast exerts its therapeutic action is 
 
 ## 12.2 Pharmacodynamics
 
-Pharmacodynamics of ZORYVE in the treatment of plaque psoriasis is unknown.
+Pharmacodynamics of ZORYVE cream in the treatment of plaque psoriasis is unknown.
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
-The pharmacokinetics of ZORYVE was investigated in 18 adult and 6 adolescent (13 to 16 years of age) subjects with plaque psoriasis and a mean ± SD body surface area (BSA) involvement of 26.8 ± 6.80% and 13.0 ± 3.58% in adults and adolescents, respectively.
-In this study, on average, subjects applied 3 to 6.5 g of ZORYVE once daily for 15 days.
+The PK of ZORYVE cream was investigated in 18 adult and 6 adolescent (13 to 16 years of age) subjects with plaque psoriasis and a mean ± SD body surface area (BSA) involvement of 26.8 ± 6.80% and 13.0 ± 3.58% in adults and adolescents, respectively.
+In this study, on average, subjects applied 3 to 6.5 g of ZORYVE cream once daily for 15 days.
 Plasma concentrations of roflumilast and roflumilast N-oxide (see Metabolism) were quantifiable in all but two subjects at Day 15.
-Following application of ZORYVE, the plasma concentration versus time profile was relatively flat, generally with a peak-to-trough ratio less than 2.
-
+Following application of ZORYVE cream, the plasma concentration versus time profile was relatively flat, generally with a peak-to-trough ratio less than 2.
 In adults, the mean ± SD systemic exposure (AUC0-24) was 72.7 ± 53.1 and 628 ± 648 h∙ng/mL for roflumilast and the N-oxide metabolite, respectively.
 In adolescents, the mean ± SD AUC0-24 was 25.1 ± 24.0 and 140 ± 179 h∙ng/mL for roflumilast and the N-oxide metabolite, respectively.
+
+The PK of ZORYVE cream was investigated in 10 pediatric subjects (6 to less than 12 years of age) with at least mild plaque psoriasis and a mean ± SD BSA involvement of 10.9 ± 6.56%.
+The 14-day mean ± SD extrapolated AUC0-24 was 75.6 ± 87.3 and 693 ± 986 h∙ng/mL for roflumilast and the N-oxide metabolite, respectively.
+In another study, the PK of ZORYVE cream was investigated in 9 pediatric subjects (2 to less than 6 years of age) with at least mild plaque psoriasis and a mean ± SD BSA involvement of 9.44 ± 5.57%.
+The 14-day mean ± SD extrapolated AUC0-24 was 51.6 ± 29.9 and 539 ± 372 h∙ng/mL for roflumilast and the N-oxide metabolite, respectively.
 
 Distribution
 
 Plasma protein binding of roflumilast and its N-oxide metabolite is approximately 99% and 97%, respectively.
+
+Elimination
+
+The plasma clearance after short-term intravenous infusion of roflumilast is on average about 9.6 L/h.
+Following topical administration, the half-lives of roflumilast and the N-oxide metabolite were 4.0 and 4.6 days, respectively.
 
 Metabolism
 
@@ -34,53 +43,46 @@ Following oral administration, roflumilast and roflumilast N-oxide account for t
 Roflumilast was not detectable in urine, while roflumilast N-oxide was only a trace metabolite (less than 1%).
 Other conjugated metabolites such as roflumilast N-oxide glucuronide and 4-amino-3,5-dichloropyridine N-oxide were detected in urine.
 
-While roflumilast is three times more potent than roflumilast N-oxide at inhibition of the PDE4 enzyme in vitro, the plasma AUC of roflumilast N-oxide on average is approximately 8-fold greater than the plasma AUC of roflumilast following topical administration.
-A similar ratio was observed following intravenous administration, whereas following oral administration the N-oxide metabolite circulated on average about 10-fold higher than the parent.
+While roflumilast is 3 times more potent than roflumilast N-oxide at inhibition of the PDE4 enzyme in vitro, the plasma AUC of roflumilast N-oxide on average is approximately 8-fold greater than the plasma AUC of roflumilast following topical administration.
+A similar ratio was observed following intravenous administration, whereas following oral administration the N-oxide metabolite circulated on average about 10-fold higher than the parent drug.
 
-Elimination
+Specific Populations
 
-The plasma clearance after short-term intravenous infusion of roflumilast is on average about 9.6 L/h.
-Following topical administration, the half-lives of roflumilast and the N-oxide metabolite were 4.0 and 4.6 days, respectively.
+Following topical administration, no clinically significant differences in the pharmacokinetics of roflumilast and roflumilast N-oxide were observed based on age (2 to 88 years), sex, race, or ethnicity.
 
-Hepatic Impairment
+Patients with Hepatic Impairment
 
 No studies were conducted with topical roflumilast in subjects with hepatic impairment; however, oral roflumilast 250 mcg once daily for 14 days was studied in subjects with mild to moderate hepatic impairment classified as Child-Pugh A and B (8 subjects in each group).
 The AUC of roflumilast and roflumilast N-oxide were increased by 51% and 24%, respectively, in Child-Pugh A subjects and by 92% and 41%, respectively, in Child-Pugh B subjects, as compared to age-, weight-, and gender-matched healthy subjects.
-The Cmax of roflumilast and roflumilast N-oxide were increased by 3% and 26%, respectively, in Child-Pugh A subjects and by 26% and 40%, respectively, in Child-Pugh B subjects, as compared to healthy subjects.
-Oral roflumilast 500 mcg has not been studied in hepatically impaired patients.
-ZORYVE is contraindicated in patients with moderate or severe liver impairment (Child-Pugh B or C) [see Contraindications (4)].
+The Cmax of roflumilast and roflumilast N-oxide were increased by 3% and 26%, respectively, in Child-Pugh A subjects and by 26% and 40%, respectively, in Child-Pugh B subjects, as compared to healthy subjects [see Contraindications (4)].
 
-Renal Impairment
+Patients with Renal Impairment
 
 No studies were conducted with topical roflumilast in subjects with renal impairment.
-In 12 subjects with severe renal impairment no clinically significant differences in the pharmacokinetics of roflumilast and roflumilast N-oxide were observed following oral administration.
+Following oral administration in 12 subjects with severe renal impairment, no clinically significant differences in the pharmacokinetics of roflumilast and roflumilast N-oxide were observed.
 
-Special Populations
-
-Following topical administration, no clinically significant differences in the pharmacokinetics of roflumilast and roflumilast N-oxide were observed based on age (12 to 88 years), sex, race, or ethnicity.
-
-Drug Interactions
+Drug Interaction Studies
 
 Clinical Studies
 
-Since a major step in roflumilast metabolism is the N-oxidation of roflumilast to roflumilast N-oxide by CYP3A4 and CYP1A2, drug interaction studies were performed with oral roflumilast and systemic inhibitors of CYP3A4 and CYP1A2.
+Since a major step in roflumilast metabolism is the N-oxidation of roflumilast to roflumilast N-oxide by CYP3A4 and CYP1A2, drug interaction studies were performed with oral roflumilast and systemic inhibitors of CYP3A4 and CYP1A2 [see Drug Interactions (7.1)].
 
-Erythromycin: In an open-label crossover study in 16 healthy volunteers, the coadministration of CYP3A4 inhibitor erythromycin (500 mg three times daily for 13 days) with a single oral dose of 500 mcg roflumilast resulted in 40% and 70% increase in Cmax and AUC for roflumilast, respectively, and a 34% decrease and a 4% increase in Cmax and AUC for roflumilast N-oxide, respectively.
+Erythromycin: In an open-label crossover study in 16 healthy volunteers, the co-administration of CYP3A4 inhibitor erythromycin (500 mg 3 times daily for 13 days) with a single oral dose of 500 mcg roflumilast resulted in 40% and 70% increase in Cmax and AUC for roflumilast, respectively, and a 34% decrease and a 4% increase in Cmax and AUC for roflumilast N-oxide, respectively.
 
-Ketoconazole: In an open-label crossover study in 16 healthy volunteers, the coadministration of a strong CYP3A4 inhibitor ketoconazole (200 mg twice daily for 13 days) with a single oral dose of 500 mcg roflumilast resulted in 23% and 99% increase in Cmax and AUC for roflumilast, respectively, and a 38% reduction and 3% increase in Cmax and AUC for roflumilast N-oxide, respectively.
+Ketoconazole: In an open-label crossover study in 16 healthy volunteers, the co-administration of a strong CYP3A4 inhibitor ketoconazole (200 mg twice daily for 13 days) with a single oral dose of 500 mcg roflumilast resulted in 23% and 99% increase in Cmax and AUC for roflumilast, respectively, and a 38% reduction and 3% increase in Cmax and AUC for roflumilast N-oxide, respectively.
 
-Fluvoxamine: In an open-label crossover study in 16 healthy volunteers, the coadministration of dual CYP 3A4/1A2 inhibitor fluvoxamine (50 mg daily for 14 days) with a single oral dose of 500 mcg roflumilast showed a 12% and 156% increase in roflumilast Cmax and AUC along with a 210% decrease and 52% increase in roflumilast N-oxide Cmax and AUC, respectively.
+Fluvoxamine: In an open-label crossover study in 16 healthy volunteers, the co-administration of dual CYP 3A4/1A2 inhibitor fluvoxamine (50 mg daily for 14 days) with a single oral dose of 500 mcg roflumilast showed a 12% and 156% increase in roflumilast Cmax and AUC along with a 210% decrease and 52% increase in roflumilast N-oxide Cmax and AUC, respectively.
 
-Enoxacin: In an open-label crossover study in 16 healthy volunteers, the coadministration of dual CYP 3A4/1A2 inhibitor enoxacin (400 mg twice daily for 12 days) with a single oral dose of 500 mcg roflumilast resulted in an increased Cmax and AUC of roflumilast by 20% and 56%, respectively.
+Enoxacin: In an open-label crossover study in 16 healthy volunteers, the co-administration of dual CYP 3A4/1A2 inhibitor enoxacin (400 mg twice daily for 12 days) with a single oral dose of 500 mcg roflumilast resulted in an increased Cmax and AUC of roflumilast by 20% and 56%, respectively.
 Roflumilast N-oxide Cmax was decreased by 14% while roflumilast N-oxide AUC was increased by 23%.
 
-Cimetidine: In an open-label crossover study in 16 healthy volunteers, the coadministration of a dual CYP 3A4/1A2 inhibitor cimetidine (400 mg twice daily for 7 days) with a single dose of 500 mcg oral roflumilast resulted in a 46% and 85% increase in roflumilast Cmax and AUC; and a 4% decrease in Cmax and 27% increase in AUC for roflumilast N-oxide, respectively.
+Cimetidine: In an open-label crossover study in 16 healthy volunteers, the co-administration of a dual CYP 3A4/1A2 inhibitor cimetidine (400 mg twice daily for 7 days) with a single oral dose of 500 mcg roflumilast resulted in a 46% and 85% increase in roflumilast Cmax and AUC; and a 4% decrease in Cmax and 27% increase in AUC for roflumilast N-oxide, respectively.
 
-Oral contraceptives containing gestodene and ethinyl estradiol: In an open-label crossover study in 20 healthy adult volunteers, coadministration of a single oral dose of roflumilast with repeated doses of a fixed combination oral contraceptive containing 0.075 mg gestodene and 0.03 mg ethinyl estradiol to steady state caused a 38% increase and 12% decrease in Cmax of roflumilast and roflumilast N-oxide, respectively.
+Oral contraceptives containing gestodene and ethinyl estradiol: In an open-label crossover study in 20 healthy adult volunteers, co-administration of a single oral dose of roflumilast with repeated doses of a fixed combination oral contraceptive containing 0.075 mg gestodene and 0.03 mg ethinyl estradiol to steady state caused a 38% increase and 12% decrease in Cmax of roflumilast and roflumilast N-oxide, respectively.
 Roflumilast and roflumilast N-oxide AUCs were increased by 51% and 14%, respectively.
 
 In Vitro Studies
 
 Cytochrome P450 (CYP) Enzymes: In vitro studies suggest that the biotransformation of roflumilast to its N-oxide metabolite is mediated by CYP1A2 and 3A4.
-Based on further in vitro results in human liver microsomes, therapeutic plasma concentrations of roflumilast and roflumilast N-oxide do not inhibit CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, 3A4/5, or 4A9/11; therefore, there is a low probability of relevant interactions with substances metabolized by these P450 enzymes.
+Based on further in vitro results in human liver microsomes, roflumilast and roflumilast N-oxide in therapeutic plasma concentrations do not inhibit CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, 3A4/5, or 4A9/11; therefore, there is a low probability of relevant interactions with substances metabolized by these P450 enzymes.
 In addition, in vitro studies demonstrated no induction of the CYP1A2, 2A6, 2C9, 2C19, or 3A4/5 and only a weak induction of CYP2B6 by roflumilast.
