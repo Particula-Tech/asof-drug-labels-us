@@ -38,7 +38,7 @@ In pregnant rabbits, no developmental toxicities and no increases in fetal malfo
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommends that HIV‑1–infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV‑1 infection.
+The Centers for Disease Control and Prevention recommends that HIV‑1–infected mothers in the U.S. not breastfeed their infants to avoid risking postnatal transmission of HIV‑1 infection.
 Abacavir is present in human milk.
 There is no information on the effects of abacavir on the breastfed infant or the effects of the drug on milk production.
 Because of the potential for (1) HIV‑1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant, instruct mothers not to breastfeed if they are receiving ZIAGEN.

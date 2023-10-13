@@ -3,7 +3,7 @@
 ZIAGEN tablets, containing abacavir sulfate equivalent to 300 mg abacavir are yellow, biconvex, scored, capsule-shaped, film-coated, and imprinted with “GX 623” on both sides.
 They are packaged as follows:
 
-Bottles of 60 tablets (NDC 49702-221-18).
+Bottles of 60 tablets (NDC 49702-221-18) with child-resistant closure.
 
 Store at controlled room temperature of 20° to 25°C (68° to 77°F) (see USP).
 

@@ -90,7 +90,7 @@ Abacavir had no effect on the pharmacokinetic properties of ethanol, so no clini
 This interaction has not been studied in females.
 
 Methadone: In a trial of 11 HIV‑1–infected subjects receiving methadone‑maintenance therapy (40 mg and 90 mg daily), with 600 mg of ZIAGEN twice daily (twice the currently recommended dose), oral methadone clearance increased 22% (90% CI: 6% to 42%).
-This alteration will not result in a methadone dose modification in the majority of patients; however, an increased methadone dose may be required in a small number of patients [see Drug Interactions (7)].
+This alteration will not result in a methadone dose modification in the majority of patients; however, an increased methadone dose may be required in a small number of patients [see Drug Interactions (7.1)].
 The addition of methadone had no clinically significant effect on the pharmacokinetic properties of abacavir.
 
 ## 12.4 Microbiology
