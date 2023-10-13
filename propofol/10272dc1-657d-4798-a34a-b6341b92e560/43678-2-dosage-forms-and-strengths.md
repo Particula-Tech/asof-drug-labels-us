@@ -2,8 +2,8 @@
 
 Propofol injectable emulsion, USP is available in single-dose vials as follows:
 
-200 mg of propofol per 20 mL of an oil-in-water homogeneous emulsion free of large oil drops (10 mg per mL), 20 mL vial
+200 mg of propofol per 20 mL of an oil-in-water emulsion (10 mg per mL), 20 mL vial
 
-500 mg of propofol per 50 mL of an oil-in-water homogeneous emulsion free of large oil drops (10 mg per mL), 50 mL vial
+500 mg of propofol per 50 mL of an oil-in-water emulsion (10 mg per mL), 50 mL vial
 
-1,000 mg of propofol per 100 mL of an oil-in-water homogeneous emulsion free of large oil drops (10 mg per mL), 100 mL vial
+1,000 mg of propofol per 100 mL of an oil-in-water emulsion (10 mg per mL), 100 mL vial
