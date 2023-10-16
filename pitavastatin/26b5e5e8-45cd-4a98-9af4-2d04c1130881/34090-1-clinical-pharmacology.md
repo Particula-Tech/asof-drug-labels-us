@@ -116,19 +116,19 @@ Table 4 presents the effect of pitavastatin coadministration on systemic exposur
 Table 4.
 Effect of Pitavastatin Coadministration on Systemic Exposure to Other Drugs
 
-| Coadministered Drug | Dosage Regimen |  | Change inAUCData presented as % change represent % difference relative to the investigated drug alone (i.e., 0% = no change). | Change inCmax |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Atazanavir | Pitavastatin 4 mg QD + atazanavir 300 mg daily for 5 days |  | ↑ 6% | ↑ 13% |  |  |  |  |
-| Darunavir | Pitavastatin 4 mg QD on Days 1-5 and 12-16 + darunavir/ritonavir 800 mg/100 mg QD on Days 6-16 |  | ↑ 3% | ↑ 6% |  |  |  |  |
-| Lopinavir | Pitavastatin 4 mg QD on Days 1-5 and 20-24 + lopinavir/ritonavir 400 mg/100 mg BID on Days 9-24 |  | ↓ 9% | ↓ 7% |  |  |  |  |
-| Ritonavir | Pitavastatin 4 mg QD on Days 1-5 and 20-24 + lopinavir/ritonavir 400 mg/100 mg BID on Days 9-24 |  | ↓ 11% | ↓ 11% |  |  |  |  |
-| Ritonavir | Pitavastatin 4 mg QD on Days 1-5 and 12-16 + darunavir/ritonavir 800 mg/100 mg QD on Days 6-16 |  | ↑ 8% | ↑ 2% |  |  |  |  |
-| Enalapril | Pitavastatin 4 mg QD + enalapril 20 mg daily for 5 days | Enalapril | ↑ 12% | ↑ 12% |  |  |  |  |
-| Enalaprilat | ↓ 1% | ↓ 1% |  |  |  |  |  |  |
-| Warfarin | Individualized maintenance dose of warfarin (2-7 mg) for 8 days + pitavastatin 4 mg QD for 9 days | R-warfarin | ↑ 7% | ↑ 3% |  |  |  |  |
-| S-warfarin | ↑ 6% | ↑ 3% |  |  |  |  |  |  |
-| Ezetimibe | Pitavastatin 2 mg QD + ezetimibe 10 mg for 7 days |  | ↑ 9% | ↑ 2% |  |  |  |  |
-| Digoxin | Pitavastatin 4 mg QD + digoxin 0.25 mg for 7 days |  | ↓ 3% | ↓ 4% |  |  |  |  |
-| Diltiazem LA | Pitavastatin 4 mg QD on Days 1-5 and 11-15 and diltiazem LA 240 mg on Days 6-15 |  | ↓ 2% | ↓ 7% |  |  |  |  |
-| Rifampin | Pitavastatin 4 mg QD + rifampin 600 mg QD for 5 days |  | ↓ 15% | ↓ 18% |  |  |  |  |
-| BID = twice daily; QD = once daily; LA = Long Acting |  |  |  |  |  |  |  |  |
+| Coadministered Drug | Dosage Regimen |  | Change inAUCData presented as % change represent % difference relative to the investigated drug alone (i.e., 0% = no change). | Change inCmax |
+| --- | --- | --- | --- | --- |
+| Atazanavir | Pitavastatin 4 mg QD + atazanavir 300 mg daily for 5 days |  | ↑ 6% | ↑ 13% |
+| Darunavir | Pitavastatin 4 mg QD on Days 1-5 and 12-16 + darunavir/ritonavir 800 mg/100 mg QD on Days 6-16 |  | ↑ 3% | ↑ 6% |
+| Lopinavir | Pitavastatin 4 mg QD on Days 1-5 and 20-24 + lopinavir/ritonavir 400 mg/100 mg BID on Days 9-24 |  | ↓ 9% | ↓ 7% |
+| Ritonavir | Pitavastatin 4 mg QD on Days 1-5 and 20-24 + lopinavir/ritonavir 400 mg/100 mg BID on Days 9-24 |  | ↓ 11% | ↓ 11% |
+| Ritonavir | Pitavastatin 4 mg QD on Days 1-5 and 12-16 + darunavir/ritonavir 800 mg/100 mg QD on Days 6-16 |  | ↑ 8% | ↑ 2% |
+| Enalapril | Pitavastatin 4 mg QD + enalapril 20 mg daily for 5 days | Enalapril | ↑ 12% | ↑ 12% |
+| Enalaprilat | ↓ 1% | ↓ 1% |  |  |
+| Warfarin | Individualized maintenance dose of warfarin (2-7 mg) for 8 days + pitavastatin 4 mg QD for 9 days | R-warfarin | ↑ 7% | ↑ 3% |
+| S-warfarin | ↑ 6% | ↑ 3% |  |  |
+| Ezetimibe | Pitavastatin 2 mg QD + ezetimibe 10 mg for 7 days |  | ↑ 9% | ↑ 2% |
+| Digoxin | Pitavastatin 4 mg QD + digoxin 0.25 mg for 7 days |  | ↓ 3% | ↓ 4% |
+| Diltiazem LA | Pitavastatin 4 mg QD on Days 1-5 and 11-15 and diltiazem LA 240 mg on Days 6-15 |  | ↓ 2% | ↓ 7% |
+| Rifampin | Pitavastatin 4 mg QD + rifampin 600 mg QD for 5 days |  | ↓ 15% | ↓ 18% |
+| BID = twice daily; QD = once daily; LA = Long Acting |  |  |  |  |
