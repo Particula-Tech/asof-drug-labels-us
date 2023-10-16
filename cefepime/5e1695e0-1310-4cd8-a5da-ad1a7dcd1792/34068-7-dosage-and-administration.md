@@ -36,7 +36,7 @@ The usual recommended dosage in pediatric patients up to 40 kg in weight for dur
 - For moderate to severe pneumonia due to P. aeruginosa give 50 mg per kg per dose, every 8 hours.
 - 50 mg per kg per dose, every 8 hours for febrile neutropenic patients.
 
-## 2.3 Dosage Adjustment in Patients with Renal Impairment
+## 2.3 Dosage Adjustments in Patients with Renal Impairment
 
 Adult Patients
 
@@ -94,14 +94,14 @@ Vials
   - M/6 Sodium Lactate Injection
   - 5% Dextrose and 0.9% Sodium Chloride Injection
   - Lactated Ringers and 5% Dextrose Injection
-  - Normosol™-R and Normosol™-M in 5% Dextrose Injection
+  - Normosol®-R and Normosol®-M in 5% Dextrose Injection
 - Parenteral drugs should be inspected visually for particulate matter before administration.
   If particulate matter is evident in reconstituted fluids, the drug solution should be discarded.
 - Administer the resulting intravenous infusion over approximately 30 minutes.
 - Intermittent intravenous infusion with a Y-type administration set can be accomplished with compatible solutions.
   However, during infusion of a solution containing cefepime, it is desirable to discontinue the other solution.
 
-## 2.5 Preparation for Intramuscular Administration
+## 2.5 Preparation of Cefepime for Injection for Intramuscular Administration
 
 Constitute cefepime for injection vials 1 gram and 2 grams with one of the following diluents: Sterile Water for Injection, 0.9% Sodium Chloride, 5% Dextrose Injection, 0.5% or 1% Lidocaine Hydrochloride, or Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol.
 Refer to Table 3 below for the amount of diluent to be added to each vial and the amount of the reconstituted volume to be withdrawn.
@@ -124,7 +124,7 @@ Intravenous Cefepime for Injection
 
 Intravenous Infusion Compatibility
 
-Cefepime for injection vials are compatible at concentrations between 1 mg per mL and 40 mg per mL with the following intravenous infusion fluids: 0.9% Sodium Chloride Injection, 5% and 10% Dextrose Injection, M/6 Sodium Lactate Injection, 5% Dextrose and 0.9% Sodium Chloride Injection, Lactated Ringers and 5% Dextrose Injection, Normosol™-R, and Normosol™-M in 5% Dextrose Injection.
+Cefepime for injection vials are compatible at concentrations between 1 mg per mL and 40 mg per mL with the following intravenous infusion fluids: 0.9% Sodium Chloride Injection, 5% and 10% Dextrose Injection, M/6 Sodium Lactate Injection, 5% Dextrose and 0.9% Sodium Chloride Injection, Lactated Ringers and 5% Dextrose Injection, Normosol®-R, and Normosol®-M in 5% Dextrose Injection.
 These solutions may be stored up to 24 hours at controlled room temperature 20°C to 25°C (68°F to 77°F) or 7 days in a refrigerator 2°C to 8°C (36°F to 46°F).
 
 Admixture Compatibility
@@ -159,8 +159,8 @@ RT/L = Ambient room temperature and light.
 
 Cefepime for Injection Admixture Incompatibility
 
-Do not add solutions of cefepime for injection, to solutions of ampicillin at a concentration greater than 40 mg per mL, or to metronidazole, vancomycin, gentamicin, tobramycin, netilmicin sulfate, or aminophylline because of potential interaction.
-However, if concurrent therapy with cefepime for injection is indicated, each of these antibiotics can be administered separately.
+Do not add solutions of cefepime for injection to solutions of ampicillin at a concentration greater than 40 mg per mL, or to metronidazole, vancomycin, gentamicin, tobramycin, netilmicin sulfate, or aminophylline because of potential interaction.
+However, if concurrent therapy with cefepime for injection is indicated, each of these antibacterial drugs can be administered separately.
 
 Intramuscular Cefepime for Injection
 

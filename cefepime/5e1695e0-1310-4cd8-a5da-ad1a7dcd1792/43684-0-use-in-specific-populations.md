@@ -2,20 +2,47 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B There are no adequate and well-controlled studies of cefepime use in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+Risk Summary
 
-Cefepime was not teratogenic or embryocidal when administered during the period of organogenesis to rats at doses up to 1,000 mg/kg/day (1.6 times the recommended maximum human dose calculated on a body surface area basis) or to mice at doses up to 1,200 mg/kg (approximately equal to the recommended maximum human dose calculated on a body surface area basis) or to rabbits at a dose level of 100 mg/kg (0.3 times the recommended maximum human dose calculated on a body surface area basis).
+There are no cases of cefepime exposure during pregnancy reported from postmarketing experience or from clinical trials.
+Available data from published observational studies and case reports over several decades with cephalosporin use in pregnant women have not established drug-associated risks of major birth defects, miscarriage or adverse maternal or fetal outcomes (see Data).
 
-## 8.2 Labor and Delivery
+Cefepime was not associated with adverse developmental outcomes in rats, mice, or rabbits when administered parenterally during organogenesis.
+The doses used in these studies were 1.6 (rats), approximately equal to (mice), and 0.3 times (rabbits) the recommended maximum human dose (see Data).
 
-Cefepime has not been studied for use during labor and delivery.
-Treatment should only be given if clearly indicated.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-## 8.3 Nursing Mothers
+Data
 
-Cefepime is excreted in human breast milk.
-Caution should be exercised when cefepime is administered to a nursing woman [see Clinical Pharmacology (12.3)].
+Human Data
+
+While available studies cannot definitively establish the absence of risk, published data from case control studies and case reports over several decades have not identified an association with
+
+cephalosporin use during pregnancy and major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
+Available studies have methodologic limitations, including small sample size, retrospective data collection, and inconsistent comparator groups.
+
+Animal Data
+
+Cefepime was not embryocidal and did not cause fetal malformations when administered parenterally during the period of organogenesis to rats at doses up to 1000 mg/kg/day, to mice at doses up to 1200 mg/kg/day, or to rabbits at doses up to 100 mg/kg/day.
+These doses are 1.6 times (rats), approximately equal to (mice), and 0.3 times (rabbits) the maximum recommended clinical dose based on body surface area.
+
+## 8.2 Lactation
+
+Risk Summary
+
+Cefepime is present in human breast milk at low concentrations (approximately 0.5 mcg/mL) following a single intravenous dose of 1000 mg.
+A nursing infant consuming approximately 1000 mL of human milk per day would receive approximately 0.5 mg of cefepime per day (see Data).
+There is no information regarding the effects of cefepime on the breastfed infant or on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for cefepime and any potential adverse effects on the breastfed child from cefepime or from the underlying maternal condition.
+
+Data
+
+A pharmacokinetic study was conducted in 9 healthy lactating women to evaluate the concentrations of cefepime in plasma and breast milk following a single intravenous dose of 1000 mg.
+The mean breast milk concentrations of cefepime during the first 8 hours post-dose were approximately 0.5 mcg/mL and then declined and became undetectable between 12- and 24-hours post-dose.
+The mean cumulative breast milk excretion of cefepime over 24 hours was 0.01% of the administered dose.
+The pharmacokinetics of cefepime are similar between lactating and non-lactating women.
 
 ## 8.4 Pediatric Use
 

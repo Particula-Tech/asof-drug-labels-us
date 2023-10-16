@@ -4,7 +4,7 @@ The following adverse reactions are discussed in the Warnings and Precautions se
 
 - Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 - Neurotoxicity [see Warnings and Precautions (5.2)]
-- Clostridium difficile Associated Diarrhea [see Warnings and Precautions (5.3)]
+- Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -47,8 +47,7 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 In addition to the adverse reactions reported during the North American clinical trials with cefepime, the following adverse reactions have been reported during worldwide postmarketing experience.
-Encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), aphasia, myoclonus, seizures, and nonconvulsive status epilepticus have been reported.
-[see Warnings and Precautions (5.2)]
+Encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), aphasia, myoclonus, seizures, and nonconvulsive status epilepticus have been reported [see Warnings and Precautions (5.2)].
 
 Anaphylaxis including anaphylactic shock, transient leukopenia, neutropenia, agranulocytosis and thrombocytopenia, have been reported.
 

@@ -14,9 +14,9 @@ However, some cases of neurotoxicity occurred in patients receiving a dosage adj
 In the majority of cases, symptoms of neurotoxicity were reversible and resolved after discontinuation of cefepime and/or after hemodialysis.
 If neurotoxicity associated with cefepime therapy occurs, discontinue cefepime and institute appropriate supportive measures.
 
-## 5.3 Clostridium difficile Associated Diarrhea
+## 5.3 Clostridioides difficile-Associated Diarrhea
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including cefepime for injection, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile-Associated Diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including cefepime for injection, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B, which contribute to the development of CDAD.
@@ -25,11 +25,11 @@ CDAD must be considered in all patients who present with diarrhea following anti
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
 If CDAD is suspected or confirmed, ongoing antibacterial drug use not directed against C. difficile may need to be discontinued.
-Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+Appropriate fluid and electrolyte management, protein supplementation, antibacterial drug treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 ## 5.4 Development of Drug-Resistant Bacteria
 
-Prescribing cefepime for injection in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing cefepime for injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 As with other antimicrobials, prolonged use of cefepime for injection may result in overgrowth of nonsusceptible microorganisms.
 Repeated evaluation of the patient’s condition is essential.
@@ -46,7 +46,7 @@ Coombs’ Tests
 
 Positive direct Coombs’ tests have been reported during treatment with cefepime for injection.
 In patients who develop hemolytic anemia, discontinue the drug and institute appropriate therapy.
-Positive Coombs’ test may be observed in newborns whose mothers have received cephalosporin antibiotics before parturition.
+Positive Coombs’ test may be observed in newborns whose mothers have received cephalosporin antibacterial drugs before parturition.
 
 Prothrombin Time
 

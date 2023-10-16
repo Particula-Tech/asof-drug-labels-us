@@ -21,7 +21,7 @@ Table 7: Mean Pharmacokinetic Parameters for Cefepime (±SD), Intravenous Admini
 | --- | --- | --- | --- |
 | Parameter | 500 mg IV | 1 g IV | 2 g IV |
 | C max, mcg/mL | 39.1 (3.5) | 81.7 (5.1) | 163.9 (25.3) |
-| AUC, h•mcg/mL | 70.8 (6.7) | 148.5 (15.1) | 248.8 (30.6) |
+| AUC, h•mcg/mL | 70.8 (6.7) | 148.5 (15.1) | 284.8 (30.6) |
 | Number of subjects (male) | 9 | 9 | 9 |
 
 Pharmacokinetic parameters for cefepime following a single intramuscular injection are summarized in Table 8.
@@ -44,9 +44,6 @@ Following intramuscular (IM) administration, cefepime is completely absorbed.
 Distribution
 
 The average steady-state volume of distribution of cefepime is 18 (±2) L. The serum protein binding of cefepime is approximately 20% and is independent of its concentration in serum.
-
-Cefepime is excreted in human milk at a concentration of 0.5 mcg/mL.
-A nursing infant consuming approximately 1,000 mL of human milk per day would receive approximately 0.5 mg of cefepime per day [see Use in Specific Populations (8.3)].
 
 Concentrations of cefepime achieved in specific tissues and body fluids are listed in Table 9.
 
