@@ -46,8 +46,16 @@ Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., INDIA.
 
+8094116 Revised: September 2023
+
+Or
+
+VKT Pharma Private Limited, Srikakulam-532409, India.
+
+8094118 Revised: September 2023
+
+800189
+
 Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
-
-8094116 Revised: September 2023

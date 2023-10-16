@@ -11,6 +11,6 @@
 | General information about the safe and effective use of escitalopram tablets.Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use escitalopram tablets for a condition for which it was not prescribed. Do not give escitalopram tablets to other people, even if they have the same symptoms that you have. It may harm them. You may ask your pharmacist or healthcare provider for information about escitalopram tablets that is written for health professionals. |
 | What are the ingredients in escitalopram tablets?Active ingredient: escitalopram oxalateInactive ingredients: cellulose microcrystalline, colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, povidone and talc. The film coating contains hypromellose, polyethylene glycol 400 and titanium dioxide. |
 | Trademarks are the property of their respective owners. |
-| For more information about escitalopram tablets call 1-800-912-9561.Manufactured by:TORRENT PHARMACEUTICALS LTD., INDIA.Manufactured for:TORRENT PHARMA INC., Basking Ridge, NJ 07920.8094117 Revised: September 2023 |
+| For more information about escitalopram tablets call 1-800-912-9561.Manufactured by:TORRENT PHARMACEUTICALS LTD., INDIA.8094117 Revised: September 2023OrVKT Pharma Private Limited, Srikakulam-532409, India.8094119 Revised: September 2023800190Manufactured for:TORRENT PHARMA INC., Basking Ridge, NJ 07920. |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
