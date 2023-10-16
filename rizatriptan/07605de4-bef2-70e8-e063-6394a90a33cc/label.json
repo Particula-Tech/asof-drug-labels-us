@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA203062"
+  ],
+  "inn": "rizatriptan",
+  "labeler": "Golden State Medical Supply, Inc.",
+  "package_ndcs": [
+    "51407-679-03",
+    "51407-679-06",
+    "51407-679-11",
+    "51407-679-18",
+    "51407-680-03",
+    "51407-680-06",
+    "51407-680-11",
+    "51407-680-18"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "rizatriptan benzoate",
+      "name": "Rizatriptan Benzoate"
+    }
+  ],
+  "setid": "07605de4-bef2-70e8-e063-6394a90a33cc",
+  "source": "dailymed"
+}
