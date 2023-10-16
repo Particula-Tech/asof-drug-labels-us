@@ -1,0 +1,45 @@
+{
+  "application_numbers": [
+    "NDA020592",
+    "NDA021086",
+    "NDA021253"
+  ],
+  "inn": "olanzapine",
+  "labeler": "H2-Pharma LLC",
+  "package_ndcs": [
+    "61269-630-30",
+    "61269-631-30",
+    "61269-632-30",
+    "61269-633-30",
+    "61269-634-30",
+    "61269-635-30",
+    "61269-640-20",
+    "61269-650-01",
+    "61269-650-35",
+    "61269-651-01",
+    "61269-651-35",
+    "61269-652-01",
+    "61269-652-35",
+    "61269-653-01",
+    "61269-653-35"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "olanzapine",
+      "name": "ZYPREXA"
+    },
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "olanzapine",
+      "name": "ZYPREXA"
+    },
+    {
+      "form": "TABLET",
+      "generic": "olanzapine",
+      "name": "Zyprexa"
+    }
+  ],
+  "setid": "b418946a-1ab4-4d89-a012-d94fc361a3c4",
+  "source": "dailymed"
+}
