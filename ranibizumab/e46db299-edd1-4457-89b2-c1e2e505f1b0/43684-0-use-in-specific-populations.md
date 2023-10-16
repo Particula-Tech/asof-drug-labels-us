@@ -7,7 +7,7 @@ Risk Summary
 There are no adequate and well-controlled studies of ranibizumab products administered in pregnant women.
 
 Administration of ranibizumab to pregnant monkeys throughout the period of organogenesis resulted in a low incidence of skeletal abnormalities at intravitreal doses 13-times the predicted human exposure (based on maximal serum trough levels [Cmax]) after a single eye treatment at the recommended clinical dose.
-No skeletal abnormalities were observed at serumtrough levels equivalent to the predicted human exposure after a single eye treatment at the recommended clinical dose [see Animal Data].
+No skeletal abnormalities were observed at serum trough levels equivalent to the predicted human exposure after a single eye treatment at the recommended clinical dose [see Animal Data].
 
 Animal reproduction studies are not always predictive of human response, and it is not known whether ranibizumab products can cause fetal harm when administered to a pregnant woman.
 Based on the anti-VEGF mechanism of action for ranibizumab products [see Clinical Pharmacology (12.1)], treatment with ranibizumab products may pose a risk to human embryofetal development.

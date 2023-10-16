@@ -48,7 +48,7 @@ Table 4 Visual Acuity Outcomes at Month 12 and Month 24 in Study AMD-2
 
 | Figure 1 Mean Change in Visual AcuityVisual acuity was measured at a distance of 2 meters from Baseline to Month 24 in Study AMD-1 and Study AMD-2 |  |  |  |
 | --- | --- | --- | --- |
-| AME-1 |  | AMD-2 |  |
+| AMD-1 |  | AMD-2 |  |
 |  | Ranibizumab 0.5 mg (n=240) |  | Ranibizumab 0.5 mg (n=139) |
 |  | Sham (n=238) |  | Verteporfin PDT (n=143) |
 
@@ -112,12 +112,12 @@ At Month 6, after monthly treatment with 0.5 mg ranibizumab, the following clini
 
 Table 5 Visual Acuity Outcomes at Month 6 in Study RVO-1 and Study RVO-2
 
-| Outcome Measure | Study RVO- 1: Sham, n=131; Ranibizumab 0.5 mg, n=132 RVO-2: Sham, n=130; Ranibizumab 0.5 mg, n=130 | Sham | Ranibizumab 0.5 mg | Estimated Difference (95% CI) Adjusted estimate based on stratified model; p < 0.01 |
+| Outcome Measure | Study RVO-1: Sham, n=131; Ranibizumab 0.5 mg, n=132 RVO-2: Sham, n=130; Ranibizumab 0.5 mg, n=130 | Sham | Ranibizumab 0.5 mg | Estimated Difference (95% CI) Adjusted estimate based on stratified model; p < 0.01 |
 | --- | --- | --- | --- | --- |
 | Gain of ≥15 letters in visual acuity (%) | RVO-1 | 29% | 61% | 31% (20%, 43%) |
 | Gain of ≥15 letters in visual acuity (%) | RVO-2 | 17% | 48% | 30% (20%, 41%) |
 
-| Figure 5. Mean Change in Visual Acuity from Baseline to Month 6 in Study RVO-1 and Study RVO-2 |  |  |  |  |  |
+| Figure 5 Mean Change in Visual Acuity from Baseline to Month 6 in Study RVO-1 and Study RVO-2 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | RVO-1: |  | RVO-2: |  |
 |  |  | Ranibizumab 0.5 mg (n=131) |  | Ranibizumab 0.5 mg (n=130) |  |

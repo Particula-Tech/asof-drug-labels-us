@@ -9,4 +9,4 @@ DO NOT FREEZE.
 Do not use beyond the date stamped on the label.
 Protect BYOOVIZ vials from light and store in the original carton until time of use.
 
-Prior to use, the unopened vial can be stored at temperatures not exceeding 86°F (30°C) for up to 72 hours.
+Prior to use, the unopened vial can be stored at temperatures up to 86°F (30°C) for up to 72 hours.

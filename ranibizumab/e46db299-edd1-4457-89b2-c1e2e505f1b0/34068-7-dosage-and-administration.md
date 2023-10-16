@@ -11,7 +11,7 @@ Vials: A 5-micron sterile filter needle (19-gauge × 1-1/2 inch), a 1-mL Luer lo
 BYOOVIZ 0.5 mg (0.05 mL of 10 mg/mL solution) is recommended to be administered by intravitreal injection once a month (approximately 28 days).
 
 Although not as effective, patients may be treated with 3 monthly doses followed by less frequent dosing with regular assessment.
-In the 9 months after three initial monthly doses, less frequent dosing with 4-5 doses onaverage is expected to maintain visual acuity while monthly dosing may be expected to result in an additional average 1-2 letter gain.
+In the 9 months after three initial monthly doses, less frequent dosing with 4-5 doses on average is expected to maintain visual acuity while monthly dosing may be expected to result in an additional average 1-2 letter gain.
 Patients should be assessed regularly [see Clinical Studies (14.1)].
 
 Although not as effective, patients may also be treated with one dose every 3 months after 4 monthly doses.
@@ -48,8 +48,8 @@ Use aseptic technique to carry out the following preparation steps:
 2. Before withdrawal, disinfect the outer part of the rubber stopper of the vial.
 3. Place a 5-micron filter needle (19-gauge × 1-1/2 inch) onto a 1 mL Luer lock syringe using aseptic technique.
 4. Push the filter needle into the center of the vial stopper until the needle touches the bottom edge of the vial.
-5. Withdraw all the liquid fromthe vial, keeping the vial in an upright position, slightly inclined to ease complete withdrawal.
-6. Ensure that the plunger rod is drawn sufficiently backwhen emptying the vial in order to completely empty the filter needle.
+5. Withdraw all the liquid from the vial, keeping the vial in an upright position, slightly inclined to ease complete withdrawal.
+6. Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle.
 7. The filter needle should be discarded after withdrawal of the vial contents and must not be used for the intravitreal injection.
 8. Attach a 30-gauge × 1/2-inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock.
    Carefully remove the needle cap by pulling it straight off.

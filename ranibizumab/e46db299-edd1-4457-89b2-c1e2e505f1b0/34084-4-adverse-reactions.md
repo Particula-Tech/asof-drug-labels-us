@@ -102,7 +102,7 @@ Intraocular inflammation was not observed in patients with RVO patients with the
 
 ## 6.4 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of ranibizumab products.
+The following adverse reactions have been identified during post-approval use of ranibizumab products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Ocular: Tear of retinal pigment epithelium among patients with neovascular AMD
