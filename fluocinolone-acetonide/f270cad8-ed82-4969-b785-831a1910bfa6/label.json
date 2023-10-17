@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA210331"
+  ],
+  "inn": "fluocinolone-acetonide",
+  "labeler": "Alimera Sciences, Inc.",
+  "package_ndcs": [
+    "68611-180-01"
+  ],
+  "products": [
+    {
+      "form": "IMPLANT",
+      "generic": "fluocinolone acetonide",
+      "name": "YUTIQ"
+    }
+  ],
+  "setid": "f270cad8-ed82-4969-b785-831a1910bfa6",
+  "source": "dailymed"
+}
