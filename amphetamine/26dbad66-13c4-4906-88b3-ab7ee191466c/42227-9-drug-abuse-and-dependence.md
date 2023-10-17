@@ -1,8 +1,12 @@
 # DRUG ABUSE AND DEPENDENCE
 
-Controlled Substance Amphetamine sulfate tablet contains amphetamine, a Schedule II controlled substance.
+Controlled Substance
 
-Abuse Amphetamine sulfate tablet has a high potential for abuse and misuse which can lead to the development of a substance use disorder, including addiction (see WARNINGS).
+Amphetamine sulfate tablet contains amphetamine, a Schedule II controlled substance.
+
+Abuse
+
+Amphetamine sulfate tablet has a high potential for abuse and misuse which can lead to the development of a substance use disorder, including addiction (see WARNINGS).
 Amphetamine sulfate tablets can be diverted for non-medical use into illicit channels or distribution.
 
 Abuse is the intentional non-therapeutic use of a drug, even once, to achieve a desired psychological or physiological effect.
@@ -13,7 +17,9 @@ Misuse and abuse of amphetamines may cause increased heart rate, respiratory rat
 Anxiety, psychosis, hostility, aggression, and suicidal or homicidal ideation have also been observed with CNS stimulants abuse and/or misuse.
 Misuse and abuse of CNS stimulants, including amphetamine sulfate, can result in overdose and death (see OVERDOSAGE), and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
 
-Dependence Physical Dependence
+Dependence
+
+Physical Dependence
 
 Amphetamine sulfate tablets may produce physical dependence.
 Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.

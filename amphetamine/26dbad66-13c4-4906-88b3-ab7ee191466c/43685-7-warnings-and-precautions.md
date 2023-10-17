@@ -12,11 +12,15 @@ Educate patients and their families about these risks and proper disposal of any
 Advise patients to store amphetamine sulfate in a safe place, preferably locked, and instruct patients to not give amphetamine sulfate tablets to anyone else.
 Throughout amphetamine sulfate tablets treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction.
 
-Risks to Patients with Serious Cardiac Disease Sudden death has been reported in patients with structural cardiac abnormalities or other serious cardiac disease who are treated with CNS stimulants at the recommended ADHD dosages.
+Risks to Patients with Serious Cardiac Disease
+
+Sudden death has been reported in patients with structural cardiac abnormalities or other serious cardiac disease who are treated with CNS stimulants at the recommended ADHD dosages.
 
 Avoid amphetamine sulfate tablets use in patients with known structural cardiac abnormalities, cardiomyopathy, serious cardiac arrhythmia, coronary artery disease, or other serious cardiac disease.
 
-Increased Blood Pressure and Heart Rate CNS stimulants cause an increase in blood pressure (mean increase about 2 to 4 mm Hg) and heart rate (mean increase about 3 to 6 bpm).
+Increased Blood Pressure and Heart Rate
+
+CNS stimulants cause an increase in blood pressure (mean increase about 2 to 4 mm Hg) and heart rate (mean increase about 3 to 6 bpm).
 Monitor all patients for potential tachycardia and hypertension.
 
 Psychiatric Adverse Reactions
@@ -32,12 +36,16 @@ New Psychotic or Manic Symptoms CNS stimulants, at recommended doses, may cause 
 In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in approximately 0.1% of CNS-treated patients, compared with 0% of placebo-treated patients.
 If such symptoms occur, consider discontinuing amphetamine sulfate tablets.
 
-Long-Term Suppression of Growth in Pediatric Patients CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
+Long-Term Suppression of Growth in Pediatric Patients
+
+CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 Closely monitor growth (weight and height) in amphetamine sulfate tablets-treated pediatric patients treated with CNS stimulants.
 
 Pediatric patients not growing or gaining height or weight as expected may need to have their treatment interrupted (see PRECAUTIONS, PEDIATRIC USE).
 
-Seizures There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
+Seizures
+
+There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, the drug should be discontinued.
 
 Peripheral Vasculopathy, including Raynaud's phenomenon
@@ -50,7 +58,9 @@ Signs and symptoms generally improved after dosage reduction or discontinuation 
 Careful observation for digital changes is necessary during Amphetamine sulfate tablets treatment.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for patients who develop signs or symptoms of peripheral vasculopathy.
 
-Serotonin Syndrome Serotonin syndrome, a potentially life-threatening reaction, may occur when amphetamines are used in combination with other drugs that affect the serotonergic neurotransmitter systems such as monoamine oxidase inhibitors (MAOIs), selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort (see DRUG INTERACTIONS).
+Serotonin Syndrome
+
+Serotonin syndrome, a potentially life-threatening reaction, may occur when amphetamines are used in combination with other drugs that affect the serotonergic neurotransmitter systems such as monoamine oxidase inhibitors (MAOIs), selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort (see DRUG INTERACTIONS).
 The co-administration with cytochrome P450 (CYP2D6) inhibitors may also increase the risk with increased exposure to amphetamine sulfate.
 In these situations, consider an alternative non-serotonergic drug or an alternative drug that does not inhibit CYP2D6 (see DRUG INTERACTIONS).
 
