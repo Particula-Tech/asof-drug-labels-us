@@ -50,4 +50,4 @@ Humalog® and KwikPen® are registered trademarks of Eli Lilly and Company.
 Copyright © 1996, 2023, Eli Lilly and Company.
 All rights reserved.
 
-LIS-0007-USPI-20230721
+LIS-0008-USPI-20230921
