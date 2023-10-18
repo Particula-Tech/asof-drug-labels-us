@@ -13,4 +13,4 @@ Daily administration of montelukast sodium for the chronic treatment of asthma h
 Manufactured by: TORRENT PHARMACEUTICALS LTD., INDIA.
 Manufactured for: TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8089425 Revised October 2022
+8093931 Revised: August 2023

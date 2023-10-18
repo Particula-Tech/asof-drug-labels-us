@@ -81,10 +81,10 @@ The pharmacokinetic profile and the oral bioavailability of a single 10-mg oral 
 The plasma half-life of montelukast is slightly longer in the elderly.
 No dosage adjustment in the elderly is required.
 
-## 8.6 Hepatic Insufficiency
+## 8.6 Hepatic Impairment
 
-No dosage adjustment is required in patients with mild-to-moderate hepatic insufficiency [seeClinical Pharmacology (12.3)].
+No dosage adjustment is required in patients with mild-to-moderate hepatic insufficiency [see Clinical Pharmacology (12.3)].
 
-## 8.7 Renal Insufficiency
+## 8.7 Renal Impairment
 
 No dosage adjustment is recommended in patients with renal insufficiency [see Clinical Pharmacology (12.3)].

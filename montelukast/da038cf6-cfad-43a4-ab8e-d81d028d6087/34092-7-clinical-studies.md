@@ -172,8 +172,8 @@ Table 9: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score* in a Pla
 | Placebo (351) | 2.10 | -0.26 | N.A. |
 | Active control‡ (Loratadine 10 mg) (599) | 2.06 | -0.46 | -0.24† (-0.31, -0.17) |
 | * Average of individual scores of nasal congestion, rhinorrhea, nasal itching, sneezing as assessed by patients on a 0 to 3 categorical scale. |  |  |  |
-| † The study was not designed for statistical comparison between Montelukast Sodium and the active control (loratadine). |  |  |  |
-| ‡ Statistically different from placebo (p≤0.001). |  |  |  |
+| † Statistically different from placebo (p≤0.001). |  |  |  |
+| ‡ The study was not designed for statistical comparison between Montelukast Sodium and the active control (loratadine). |  |  |  |
 
 Perennial Allergic Rhinitis
 

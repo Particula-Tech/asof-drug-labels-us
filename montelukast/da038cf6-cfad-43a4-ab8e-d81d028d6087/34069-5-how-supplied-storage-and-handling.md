@@ -11,7 +11,7 @@ For Montelukast sodium film-coated tablets 10 mg
 
 The tablets are available as follow:
 
-Montelukast sodium tablets, 10 mg, are light brown colored, round, biconvex film coated tablets debossed with "1081" on one side and "10 MG" on other side.
+Montelukast sodium tablets USP, 10 mg, are light brown colored, round, biconvex film coated tablets debossed with "1081" on one side and "10 MG" on other side.
 They are supplied as follows:
 
 Bottles of 30 NDC 13668-081-30
@@ -26,7 +26,7 @@ For Montelukast sodium chewable tablets 4 mg and 5 mg
 
 The tablets are available as follow:
 
-Montelukast sodium chewable tablets, 4 mg, are pink colored, oval biconvex shaped, uncoated tablets, debossed with '1079' on one side and '4 MG' on other side.
+Montelukast sodium chewable tablets USP, 4 mg, are pink colored, oval biconvex shaped, uncoated tablets, debossed with '1079' on one side and '4 MG' on other side.
 They are supplied as follows:
 
 Bottles of 30 NDC 13668-079-30
@@ -35,7 +35,7 @@ Bottles of 90 NDC 13668-079-90
 
 Bottles of 500 NDC 13668-079-05
 
-Montelukast sodium chewable tablets, 5 mg, are pink colored, round shaped, uncoated tablets, debossed with '1080' on one side and '5 MG' on other side.
+Montelukast sodium chewable tablets USP, 5 mg, are pink colored, round shaped, uncoated tablets, debossed with '1080' on one side and '5 MG' on other side.
 They are supplied as follows:
 
 Bottles of 30 NDC 13668-080-30

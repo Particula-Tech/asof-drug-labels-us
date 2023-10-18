@@ -71,7 +71,7 @@ In studies with therapeutic doses, plasma concentrations of metabolites of monte
 In vitro ﻿studies using human liver microsomes indicate that CYP3A4, 2C8, and 2C9 are involved in the metabolism of montelukast.
 At clinically relevant concentrations, 2C8, appears to play a major role in the metabolism of montelukast.
 
-Special Populations
+Specific Populations
 
 Patient with Hepatic Impairment
 

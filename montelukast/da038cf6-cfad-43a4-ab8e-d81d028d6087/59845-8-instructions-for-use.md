@@ -42,6 +42,6 @@ Manufactured for:
 
 TORRENT PHARMA., Basking Ridge, NJ 07920.
 
-This Instruction for Use has been approved by the U.S. Food and Drug Administration
+This Instructions for Use has been approved by the U.S. Food and Drug Administration
 
 8089424 Revised: October 2022

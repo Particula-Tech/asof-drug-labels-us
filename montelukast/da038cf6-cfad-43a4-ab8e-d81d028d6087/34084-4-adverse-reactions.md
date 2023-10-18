@@ -14,7 +14,7 @@ Adults and Adolescents 15 Years of Age and Older with Asthma
 Montelukast sodium has been evaluated for safety in approximately 2,950 adult and adolescent patients 15 years of age and older in clinical trials.
 In placebo-controlled clinical trials, the following adverse experiences reported with montelukast sodium occurred in greater than or equal to 1% of patients and at an incidence greater than that in patients treated with placebo:
 
-Table 1: Adverse Experiences Occurring in ≥1% of Patients with an Incidence Greater than that in Patients Treated with Placebo
+Table 5: Adverse Experiences Occurring in ≥1% of Patients with an Incidence Greater than that in Patients Treated with Placebo
 
 |  | Montelukast 10 mg/day (%) (n=1,955) | Placebo (%) (n=1,180) |
 | --- | --- | --- |

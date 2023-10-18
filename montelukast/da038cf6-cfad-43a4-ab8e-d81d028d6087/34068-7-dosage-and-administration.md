@@ -2,8 +2,8 @@
 
 ## 2.1 Asthma
 
-For ashthma, administer montelukast sodium orally once daily in the evening, with or without food.
-There have been no clinical trials in patients with ashtma to evaluate the relative efficacy of morning versus evening dosing.
+For asthma, administer montelukast sodium orally once daily in the evening, with or without food.
+There have been no clinical trials in patients with asthma to evaluate the relative efficacy of morning versus evening dosing.
 
 The following doses are recommended:
 
@@ -13,7 +13,7 @@ Table 1: Recommended Dosage in Asthma
 | --- | --- |
 | Adult and adolescent patients 15 years of age and older | one 10 mg tablet |
 | Pediatric patients 6 to 14 years of age | one 5 mg chewable tablet |
-| Pediatric patients 2 to 5 years of age | once 4 mg chewable tablet or one packet of oral granules |
+| Pediatric patients 2 to 5 years of age | one 4 mg chewable tablet or one packet of oral granules |
 | Pediatric patients 12 to 23 months of age* | one packet 4 mg oral granules |
 
 *Safety and effectiveness in pediatric patients less than 12 months of age with asthma have not been established.
