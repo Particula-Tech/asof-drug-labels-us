@@ -44,7 +44,7 @@ Advise women that there is a pregnancy exposure registry that monitors pregnancy
 
 Lactation Advise breastfeeding women using LEXAPRO to monitor infants for excess sedation, restlessness, agitation, poor feeding and poor weight gain and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
 
-Distributed by: Abbvie, Inc. 1 N Waukegan Rd.
+Distributed by: Abbvie Inc. 1 N Waukegan Rd.
 North Chicago, IL 60064
 
 Licensed from H. Lundbeck A/S
@@ -52,4 +52,4 @@ Licensed from H. Lundbeck A/S
 ©2023 AbbVie.
 All rights reserved.
 
-V5.1USPI2005
+20079286
