@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA022173"
+  ],
+  "inn": "olanzapine",
+  "labeler": "H2-Pharma LLC",
+  "package_ndcs": [
+    "61269-660-20",
+    "61269-661-20",
+    "61269-662-20",
+    "61269-663-01",
+    "61269-664-01",
+    "61269-665-01",
+    "61269-670-01"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "olanzapine pamoate",
+      "name": "ZYPREXA"
+    }
+  ],
+  "setid": "11544cba-64a9-49cb-8d74-da228053b252",
+  "source": "dailymed"
+}
