@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA213336"
+  ],
+  "inn": "phytonadione",
+  "labeler": "Agnitio Inc.",
+  "package_ndcs": [
+    "72134-008-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "phytonadione",
+      "name": "Phytonadione"
+    }
+  ],
+  "setid": "66ada4f8-c5a9-49f1-848f-e172416892a1",
+  "source": "dailymed"
+}
