@@ -22,7 +22,7 @@ Advise patients and caregivers to follow dosing instructions carefully, as doses
 
 Advise patients and caregivers to contact their healthcare professional immediately if allergic reactions to CREON develop [see Warnings and Precautions (5.5)].
 
-© 2009-2022 AbbVie.
+© 2009-2023 AbbVie.
 All rights reserved.
 
 CREON® is a registered trademark of AbbVie Products LLC.
@@ -33,4 +33,4 @@ North Chicago, IL 60064, U.S.A.
 
 US License Number 1889
 
-20072271 June, 2022
+20081489 October, 2023
