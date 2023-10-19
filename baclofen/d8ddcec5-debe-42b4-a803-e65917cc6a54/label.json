@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA208193"
+  ],
+  "inn": "baclofen",
+  "labeler": "Metacel Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "69528-302-08",
+    "69528-302-16"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "baclofen",
+      "name": "OZOBAX"
+    }
+  ],
+  "setid": "d8ddcec5-debe-42b4-a803-e65917cc6a54",
+  "source": "dailymed"
+}
