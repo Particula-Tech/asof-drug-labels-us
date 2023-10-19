@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 - Inform patients of contraindication of sildenafil citrate with regular and/or intermittent use of organic nitrates.
 - Inform patients that sildenafil is also marketed as VIAGRA for erectile dysfunction.
@@ -18,4 +18,8 @@ Ltd. Ahmedabad 382220, INDIA
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-03-2022-07
+08-2023-08
+
+Dispense with Patient Information available at:
+
+documents.amneal.com/mg/ppi-sildenafil-tab-20mg.pdf

@@ -2,29 +2,30 @@
 
 ## 12.1 Mechanism of Action
 
-Sildenafil is an inhibitor of cGMP specific phosphodiesterase type-5 (PDE-5) in the smooth muscle of the pulmonary vasculature, where PDE-5 is responsible for degradation of cGMP.
+Sildenafil is an inhibitor of cGMP specific PDE-5 in the smooth muscle of the pulmonary vasculature, where PDE-5 is responsible for degradation of cGMP.
 Sildenafil, therefore, increases cGMP within pulmonary vascular smooth muscle cells resulting in relaxation.
 In patients with PAH, this can lead to vasodilation of the pulmonary vascular bed and, to a lesser degree, vasodilatation in the systemic circulation.
 
-Studies in vitro have shown that sildenafil is selective for PDE-5.
-Its effect is more potent on PDE-5 than on other known phosphodiesterases (10-fold for PDE6, greater than 80-fold for PDE1, greater than 700-fold for PDE2, PDE3, PDE4, PDE7, PDE8, PDE9, PDE10, and PDE11).
+Studies in vitro have shown that sildenafil is selective for PDE5.
+Its effect is more potent on PDE5 than on other known phosphodiesterases (10-fold for PDE6, greater than 80-fold for PDE1, greater than 700-fold for PDE2, PDE3, PDE4, PDE7, PDE8, PDE9, PDE10, and PDE11).
 The approximately 4,000-fold selectivity for PDE-5 versus PDE3 is important because PDE3 is involved in control of cardiac contractility.
-Sildenafil is only about 10-fold as potent for PDE-5 compared to PDE6, an enzyme found in the retina and involved in the phototransduction pathway of the retina.
+Sildenafil is only about 10 times as potent for PDE5 compared to PDE6, an enzyme found in the retina and involved in the phototransduction pathway of the retina.
 This lower selectivity is thought to be the basis for abnormalities related to color vision observed with higher doses or plasma levels [see Clinical Pharmacology (12.2)].
 
-In addition to pulmonary vascular smooth muscle and the corpus cavernosum, PDE-5 is also found in other tissues including vascular and visceral smooth muscle and in platelets.
-The inhibition of PDE-5 in these tissues by sildenafil may be the basis for the enhanced platelet anti-aggregatory activity of nitric oxide observed in vitro, and the mild peripheral arterial-venous dilatation in vivo.
+In addition to pulmonary vascular smooth muscle and the corpus cavernosum, PDE5 is also found in other tissues including vascular and visceral smooth muscle and in platelets.
+The inhibition of PDE5 in these tissues by sildenafil may be the basis for the enhanced platelet anti-aggregatory activity of nitric oxide observed in vitro, and the mild peripheral arterial-venous dilatation in vivo.
 
 ## 12.2 Pharmacodynamics
 
 Effects of Sildenafil Citrate on Hemodynamic Measures
 
-Patients on all sildenafil citrate doses achieved a statistically significant reduction in mean pulmonary arterial pressure (mPAP) compared to those on placebo in a study with no background vasodilators [Study 1 in Clinical Studies (14)].
-Data on other hemodynamic measures for the sildenafil citrate 20 mg three times a day and placebo dosing regimens is displayed in Table 3.
+Adults
+
+Patients on all sildenafil citrate doses achieved a statistically significant reduction in mean pulmonary arterial pressure (mPAP) compared to those on placebo in a study with no background vasodilators [see SUPER-1 in Clinical Studies (14)].
+Data on other hemodynamic measures for the sildenafil citrate 20 mg three times a day and placebo dosing regimens is displayed in Table 2.
 The relationship between these effects and improvements in 6-minute walk distance is unknown.
 
-Table 3.
-Changes from Baseline in Hemodynamic Parameters at Week 12 [mean (95% CI)] for the Sildenafil Citrate 20 mg Three Times a Day and Placebo Group
+Table 2: Changes from Baseline in Hemodynamic Parameters at Week 12 [mean (95% CI)] for the Sildenafil Citrate 20 mg Three Times a Day and Placebo Group
 
 |  | Placebo (n = 65)* | Sildenafil Citrate 20 mg three times a day (n = 65)* |
 | --- | --- | --- |
@@ -35,18 +36,19 @@ Changes from Baseline in Hemodynamic Parameters at Week 12 [mean (95% CI)] for t
 | CO (L/min) | -0.1 (-0.4, 0.2) | 0.4 (0.1, 0.7) |
 | HR (beats/min) | -1.3 (-4.1, 1.4) | -3.7 (-5.9, -1.4) |
 
-mPAP = mean pulmonary arterial pressure; PVR= pulmonary vascular resistance; SVR = systemic vascular resistance; RAP = right atrial pressure; CO = cardiac output; HR = heart rate *The number of patients per treatment group varied slightly for each parameter due to missing assessments.
+mPAP = mean pulmonary arterial pressure; PVR= pulmonary vascular resistance; SVR = systemic vascular resistance; RAP = right atrial pressure; CO = cardiac output; HR = heart rate. *The number of patients per treatment group varied slightly for each parameter due to missing assessments.
 
-In another study evaluating lower doses of sildenafil 1 mg, 5 mg and 20 mg [Study 3 in Clinical Studies (14)], there were no significant differences in the effects on hemodynamic variables between doses.
+New Dosing Regimen in Adults with Pulmonary Arterial Hypertension (PAH) and treatment of PAH in Pediatric Patients (Ages 1 to 17) information are approved for Viatris Specialty LLC’s Revatio (Sildenafil) tablets.
+However, due to Viatris Specialty LLC’s marketing exclusivity rights, this drug product is not labeled with these information.
 
 Effects of Sildenafil Citrate on Blood Pressure
 
 Single oral doses of sildenafil 100 mg administered to healthy volunteers produced decreases in supine blood pressure (mean maximum decrease in systolic/diastolic blood pressure of 8/5 mmHg).
-The decrease in blood pressure was most notable approximately 1 to 2 hours after dosing, and was not different from placebo at 8 hours.
-Similar effects on blood pressure were noted with 25 mg, 50 mg and 100 mg doses of sildenafil, therefore the effects are not related to dose or plasma levels within this dosage range.
+The decrease in blood pressure was most notable approximately 1 to 2 hours after dosing and was not different from placebo at 8 hours.
+Similar effects on blood pressure were noted with 25 mg, 50 mg, and 100 mg doses of sildenafil, therefore the effects are not related to dose or plasma levels within this dosage range.
 Larger effects were recorded among patients receiving concomitant nitrates [see Contraindications (4)].
 
-Single oral doses of sildenafil up to 100 mg in healthy volunteers produced no clinically relevant effects on ECG.
+Single oral doses of sildenafil up to 100 mg in healthy volunteers produced no clinically relevant effects on electrocardiogram (ECG).
 After chronic dosing of 80 mg three times a day to patients with PAH, no clinically relevant effects on ECG were reported.
 
 After chronic dosing of 80 mg three times a day sildenafil to healthy volunteers, the largest mean change from baseline in supine systolic and supine diastolic blood pressures was a decrease of 9.0 mmHg and 8.4 mmHg, respectively.
@@ -95,6 +97,9 @@ In patients with PAH, the average steady-state concentrations were 20% to 50% hi
 There was also a doubling of Cmin levels compared to healthy volunteers.
 Both findings suggest a lower clearance and/or a higher oral bioavailability of sildenafil in patients with PAH compared to healthy volunteers.
 
+New Dosing Regimen in Adults with Pulmonary Arterial Hypertension (PAH) and treatment of PAH in Pediatric Patients (Ages 1 to 17) information are approved for Viatris Specialty LLC’s Revatio (Sildenafil) tablets.
+However, due to Viatris Specialty LLC’s marketing exclusivity rights, this drug product is not labeled with these information.
+
 Geriatric Patients
 
 Healthy elderly volunteers (65 years or over) had a reduced clearance of sildenafil, resulting in approximately 84% and 107% higher plasma concentrations of sildenafil and its active N-desmethyl metabolite, respectively, compared to those seen in healthy younger volunteers (18 to 45 years).
@@ -104,7 +109,7 @@ Renal Impairment
 
 In volunteers with mild (CLcr = 50 to 80 mL/min) and moderate (CLcr = 30 to 49 mL/min) renal impairment, the pharmacokinetics of a single oral dose of sildenafil (50 mg) was not altered.
 In volunteers with severe (CLcr less than 30 mL/min) renal impairment, sildenafil clearance was reduced, resulting in approximately doubling of AUC and Cmax compared to age-matched volunteers with no renal impairment.
-In addition, N-desmethyl metabolite AUC and Cmax values were significantly increased 200% and 79%, respectively, in subjects with severe renal impairment compared to subjects with normal renal function.
+In addition, N-desmethyl metabolite AUC and Cmax values were significantly increased 200% and 79%, respectively, in patients with severe renal impairment compared to patients with normal renal function.
 
 Hepatic Impairment
 
@@ -123,12 +128,12 @@ Sildenafil is not expected to affect the pharmacokinetics of compounds which are
 
 In vivo studies
 
-The effects of other drugs on sildenafil pharmacokinetics and the effects of sildenafil on the exposure to other drugs are shown in Figure 7 and Figure 8, respectively.
+The effects of other drugs on sildenafil pharmacokinetics and the effects of sildenafil on the exposure to other drugs are shown in Figure 1 and Figure 2, respectively.
 
-Figure 7.
+Figure 1.
 Effects of Other Drugs on Sildenafil Pharmacokinetics
 
-Figure 8.
+Figure 2.
 Effects of Sildenafil on Other Drugs
 
 CYP3A Inhibitors and Beta Blockers
@@ -137,9 +142,9 @@ Population pharmacokinetic analysis of data from patients in clinical trials ind
 Sildenafil exposure at a dose of 80 mg three times a day without concomitant medication is shown to be 5-fold the exposure at a dose of 20 mg three times a day.
 This concentration range covers the same increased sildenafil exposure observed in specifically-designed drug interaction studies with CYP3A inhibitors (except for potent inhibitors such as ketoconazole, itraconazole, and ritonavir).
 
-CYP3A4 Inducers including Bosentan
+CYP3A4 Inducers Including Bosentan
 
-Concomitant administration of potent CYP3A inducers is expected to cause substantial decreases in plasma levels of sildenafil.
+Concomitant administration of strong CYP3A inducers is expected to cause substantial decreases in plasma levels of sildenafil.
 
 Population pharmacokinetic analysis of data from patients in clinical trials indicated approximately 3-fold the sildenafil clearance when it was co-administered with mild CYP3A inducers.
 
