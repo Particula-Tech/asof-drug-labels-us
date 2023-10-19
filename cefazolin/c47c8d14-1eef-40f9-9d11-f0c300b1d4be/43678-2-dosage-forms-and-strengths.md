@@ -12,6 +12,7 @@ Reconstituted solutions may range in color from pale yellow to yellow without a 
 
 For I.M. injection, I.V. direct (bolus) injection or I.V. infusion, reconstitute with Sterile Water for Injection according to the following table.
 SHAKE WELL.
+Discard unused portion.
 
 | Vial Size | Amount of Diluent | Approximate Concentration | Approximate Available Volume |
 | --- | --- | --- | --- |

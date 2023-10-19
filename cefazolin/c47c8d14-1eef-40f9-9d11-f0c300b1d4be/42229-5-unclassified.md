@@ -6,6 +6,8 @@ CLINITEST is a registered trademark of Miles, Inc. CLINISTIX is a registered tra
 
 Manufactured for: Lake Zurich, IL 60047 Made in Italy www.fresenius-kabi.com/us
 
-451180D
+451180E
 
-Revised: April 2019
+Revised: April 2021
+
+F5381056

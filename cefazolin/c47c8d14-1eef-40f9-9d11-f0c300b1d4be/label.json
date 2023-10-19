@@ -5,7 +5,9 @@
   "inn": "cefazolin",
   "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
+    "63323-236-01",
     "63323-236-10",
+    "63323-237-01",
     "63323-237-10"
   ],
   "products": [

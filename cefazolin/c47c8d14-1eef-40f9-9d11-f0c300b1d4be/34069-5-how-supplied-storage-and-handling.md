@@ -2,12 +2,12 @@
 
 Cefazolin for Injection, USP
 
-| Product No. | NDC No. | Cefazolin for Injection, USP |
-| --- | --- | --- |
-| 23610 | 63323-236-10 | 500 mg per vial |
-| 23710 | 63323-237-10 | 1 gram per vial |
+| Product Code | Unit of Sale | Strength | Each |
+| --- | --- | --- | --- |
+| 23610 | NDC 63323-236-10 Unit of 25 | 500 mg per single-dose vial | NDC 63323-236-01 |
+| 23710 | NDC 63323-237-10 Unit of 25 | 1 gram per single-dose vial | NDC 63323-237-01 |
 
-Cefazolin for Injection, USP, is supplied in 500 mg and 1 gram vials.
+Cefazolin for Injection, USP, is supplied in 500 mg and 1 gram single-dose vials.
 Each vial contains cefazolin sodium equivalent to 500 mg or 1 gram of cefazolin and is packaged 25 per carton.
 
 Preservative Free.
