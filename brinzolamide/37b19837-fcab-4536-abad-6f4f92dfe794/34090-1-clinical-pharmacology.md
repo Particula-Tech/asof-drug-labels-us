@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Carbonic anhydrase is an enzyme found in many tissues of the body including the eye.
+Carbonic anhydrase is an enzyme found in many tissues of the body, including the eye.
 It catalyzes the reversible reaction involving the hydration of carbon dioxide and the dehydration of carbonic acid.
 In humans, carbonic anhydrase exists as a number of isoenzymes, the most active being carbonic anhydrase II, found primarily in red blood cells (RBCs), but also in other tissues.
 Inhibition of carbonic anhydrase in the ciliary processes of the eye decreases aqueous humor secretion, presumably by slowing the formation of bicarbonate ions with subsequent reduction in sodium and fluid transport.
@@ -28,4 +28,4 @@ This regimen approximates the amount of drug delivered by topical ocular adminis
 Red blood cell carbonic anhydrase activity was measured to assess the degree of systemic carbonic anhydrase inhibition.
 Brinzolamide saturation of RBC carbonic anhydrase II was achieved within 4 weeks (RBC concentrations of approximately 20 mcM).
 N-Desethyl brinzolamide accumulated in RBCs to steady-state within 20 to 28 weeks reaching concentrations ranging from 6 to 30 mcM.
-The inhibition of carbonic anhydrase II activity at steady state was approximately 70% to 75%, which is below the degree of inhibition expected to have a pharmacological effect on renal function or respiration in healthy subjects.
+The inhibition of carbonic anhydrase II activity at steady-state was approximately 70% to 75%, which is below the degree of inhibition expected to have a pharmacological effect on renal function or respiration in healthy subjects.

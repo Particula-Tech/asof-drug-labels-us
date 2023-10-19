@@ -2,7 +2,7 @@
 
 Sulfonamide Hypersensitivity Reactions
 
-Advise patients that if serious or unusual ocular or systemic reactions or signs of hypersensitivity occur, they should discontinue the use of the product and consult their physician [see Warnings and Precautions (5.1)].
+Advise patients that if serious or unusual ocular or systemic reactions or signs of hypersensitivity occur, they should discontinue the use of the product and consult their physician immediately [see Warnings and Precautions (5.1)].
 
 Temporary Blurred Vision
 
@@ -27,6 +27,8 @@ Contact Lens Wear
 The preservative in brinzolamide ophthalmic suspension, benzalkonium chloride, may be absorbed by soft contact lenses.
 Contact lenses should be removed during instillation of brinzolamide ophthalmic suspension, but may be reinserted 15 minutes after instillation.
 
-Distributed by: Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA © 2022 Bausch & Lomb Incorporated or its affiliates
+Distributed by: Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA
 
-9441901 (Folded) 9442001 (Flat)
+© 2023 Bausch & Lomb Incorporated or its affiliates
+
+9441902 (Folded) 9442002 (Flat)

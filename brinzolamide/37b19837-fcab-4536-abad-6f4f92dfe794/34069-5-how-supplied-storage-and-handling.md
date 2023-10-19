@@ -1,8 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Brinzolamide ophthalmic suspension USP, 1% is supplied in a round LDPE bottle with an extended LLDPE controlled dropper tip and an orange HDPE cap as follows:
+Brinzolamide ophthalmic suspension USP, 1% is supplied in a round LDPE bottle with an extended LLDPE controlled dropper tip and orange HDPE cap as follows:
 
-10 mL NDC 24208-464-10 15 mL NDC 24208-464-15
+10 mL NDC 24208-464-10
+
+15 mL NDC 24208-464-15
 
 Storage and Handling
 

@@ -4,7 +4,7 @@
 
 Carcinogenesis
 
-Brinzolamide caused urinary bladder tumors in female mice at oral doses of 10 mg/kg/day and in male rats at oral doses of 8 mg/kg/day in 2 year studies.
+Brinzolamide caused urinary bladder tumors in female mice at oral doses of 10 mg/kg/day and in male rats at oral doses of 8 mg/kg/day in 2-year studies.
 Brinzolamide was not carcinogenic in male mice or female rats dosed orally for up to 2 years.
 The carcinogenicity appears secondary to kidney and urinary bladder toxicity.
 These levels of exposure cannot be achieved with topical ophthalmic dosing in humans.

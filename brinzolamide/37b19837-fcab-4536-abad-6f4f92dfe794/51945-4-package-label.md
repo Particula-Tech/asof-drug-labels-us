@@ -1,13 +1,27 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 10 mL Carton
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 24208-464-10
 
-Brinzolamide Ophthalmic Suspension USP 1%
+Brinzolamide
 
-For Use in the Eyes Only Rx only
+Ophthalmic
+
+Suspension
+
+UPS
+
+1%
+
+For Use in the
+
+Eyes Only
+
+Rx only
 
 10 mL
 
-BAUSCH + LOMB
+Bausch + Lomb
 
-9527201 AB46409
+9527201
+
+AB46409

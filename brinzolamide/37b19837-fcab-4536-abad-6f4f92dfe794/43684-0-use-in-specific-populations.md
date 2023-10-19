@@ -6,7 +6,7 @@ Risk Summary
 
 There are no adequate and well-controlled studies in pregnant women to inform drug-associated risk.
 
-In reproductive toxicity studies, brinzolamide administered orally to rats induced fetal toxicity at 375-times the recommended human ophthalmic dose (RHOD) based on mg/kg.
+In reproductive toxicity studies, brinzolamide administered orally to rats induced fetal toxicity at 375 times the recommended human ophthalmic dose (RHOD) based on mg/kg.
 In rabbits, no fetal toxicity was observed following oral administration (see Data).
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown; however, in the U.S. general population, the estimated background risk of major birth defects is 2% to 4%, and of miscarriage is 15% to 20%, of clinically recognized pregnancies.
@@ -38,7 +38,7 @@ Risk Summary
 There are no data on the presence of brinzolamide in human milk, the effects on the breastfed infant, or the effects on milk production.
 Brinzolamide has been detected in the milk of lactating rats.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for brinzolamide ophthalmic suspension and any potential adverse effects on the breast-fed child from brinzolamide ophthalmic suspension.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for brinzolamide ophthalmic suspension and any potential adverse effects on the breastfed child from brinzolamide ophthalmic suspension.
 
 ## 8.4 Pediatric Use
 
