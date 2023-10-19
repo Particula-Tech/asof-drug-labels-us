@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208193"
+  ],
+  "inn": "baclofen",
+  "labeler": "TRUPHARMA, LLC",
+  "package_ndcs": [
+    "52817-620-08"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "baclofen",
+      "name": "Baclofen"
+    }
+  ],
+  "setid": "f8ec79c6-da65-4fb6-b6bd-45df0d2a52c7",
+  "source": "dailymed"
+}
