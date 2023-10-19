@@ -19,3 +19,17 @@ SHAKE WELL BEFORE USE
 Net Contents 118.28 mL (4 Fl. oz.)
 
 ROYAL PHARMACEUTICALS®
+
+​​PHYSICAN SAMPLE NOT FOR SALE
+
+Rx only
+
+Derma-Smoothe/FS
+
+Fluocinolone Acetonide 0.01% Topical Oil
+
+(SCALP ONLY)
+
+Net contents: 20 mL
+
+ROYAL PHARMACEUTICALS
