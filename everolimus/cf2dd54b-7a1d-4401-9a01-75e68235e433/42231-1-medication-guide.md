@@ -15,7 +15,7 @@ Everolimuscan cause serious side effects, including:
   Everolimus weakens the body’s immune system and affects your ability to fight infections.
   Serious infections can happen with everolimus that may lead to death.
   People taking everolimus have a higher chance of getting infections caused by viruses, bacteria, and fungi (yeast).
-  - oCall your doctor if you have symptoms of infection including fever or chills.
+  - oCall your doctor if you have symptoms of infection, including fever or chills.
 - •Blood clot in the blood vessels of your transplanted kidney.
   If this happens, it usually occurs within the first 30 days after your kidney transplant.
   Tell your doctor right away if you:
@@ -48,7 +48,9 @@ Do not take everolimus if you are allergic to:
 - •everolimus or any of the ingredients in everolimus tablets.
   See the end of this Medication Guide for a complete list of ingredients in everolimus tablets.
 - •sirolimus (Rapamune®)
-- •Before taking everolimus, tell your doctor about all of your medical conditions, including if you:
+
+Before taking everolimus, tell your doctor about all of your medical conditions, including if you:
+
 - •have liver problems
 - •have skin cancer or it runs in your family
 - •have high cholesterol or triglycerides (fat in your blood)
@@ -78,6 +80,7 @@ Especially tell your doctor if you take:
 - •St.
   John’s Wort
 - •seizure (anticonvulsant) medicine
+- •cannabidiol (Epidiolex)
 
 How should I take everolimus?
 
@@ -120,17 +123,17 @@ Everolimus may cause serious side effects, including:
 - •swelling under your skin especially around your mouth, eyes and in your throat (angioedema).
   Your chance of having swelling under your skin is higher if you take everolimus along with certain other medicines.
   Tell your doctor right away or go to the nearest emergency room if you have any of these symptoms of angioedema:
-  - osudden swelling of your face, mouth, throat, tongue or hands
-  - ohives or welts
-  - oitchy or painful swollen skin
-  - otrouble breathing
+- •sudden swelling of your face, mouth, throat, tongue or hands
+- ohives or welts
+- oitchy or painful swollen skin
+- otrouble breathing
 - •delayed wound healing.
   Everolimus can cause your incision to heal slowly or not heal well.
   Call your doctor right away if you have any of the following symptoms:
-  - oyour incision is red, warm or painful
-  - oblood, fluid, or pus in your incision
-  - oyour incision opens up
-  - oswelling of your incision
+- oyour incision is red, warm or painful
+- oblood, fluid, or pus in your incision
+- oyour incision opens up
+- oswelling of your incision
 - •lung or breathing problems.
   Tell your doctor right away if you have new or worsening cough, shortness of breath, difficulty breathing or wheezing.
   In some patients lung or breathing problems have been severe, and can even lead to death.
@@ -201,15 +204,12 @@ Do not give everolimus to other people, even if they have the same symptoms you 
 It may harm them.
 
 You can ask your doctor or pharmacist for information about everolimus that is written for healthcare professionals.
-For more information call Hikma Pharmaceuticals USA Inc. at 1-800-962-8364.
 
 What are the ingredients in Everolimus Tablets?
 
-Active ingredient: everolimus
+Active ingredient: everolimus, USP.
 
 Inactive ingredients: anhydrous lactose, butylated hydroxytoluene, crospovidone, hypromellose and magnesium stearate.
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Any other trademarks in this document are the property of their respective owners.
 
@@ -217,12 +217,16 @@ Rapamune® is a registered trademark of Pfizer Inc.
 
 Gengraf® is a registered trademark of Abbott Laboratories.
 
+For more information, call 1-800-962-8364 or visit www.hikma.com.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
 Distributed by:
 
 Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50001129/01
+C50001129/02
 
-Revised May 2021
+Revised September 2023

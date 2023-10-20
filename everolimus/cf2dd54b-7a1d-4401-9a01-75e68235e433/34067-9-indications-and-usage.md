@@ -9,7 +9,7 @@ Therapeutic drug monitoring (TDM) of everolimus and cyclosporine is recommended 
 ## 1.2 Prophylaxis of Organ Rejection in Liver Transplantation
 
 Everolimus is indicated for the prophylaxis of allograft rejection in adult patients receiving a liver transplant.
-Everolimus is to be administered no earlier than 30 days post-transplant concurrently in combination with reduced doses of tacrolimus and with corticosteroids [see Warnings and Precautions (5.5) and Clinical Studies (14.2)].
+Everolimus is to be administered no earlier than 30 days posttransplant concurrently in combination with reduced doses of tacrolimus and with corticosteroids [see Warnings and Precautions (5.5) and Clinical Studies (14.2)].
 TDM of everolimus and tacrolimus is recommended for all patients receiving these products [see Dosage and Administration (2.3, 2.5)].
 
 ## 1.3 Limitations of Use

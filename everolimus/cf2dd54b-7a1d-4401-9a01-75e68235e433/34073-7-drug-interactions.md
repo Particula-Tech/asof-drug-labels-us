@@ -7,7 +7,7 @@ Therefore, absorption and subsequent elimination of systemically absorbed everol
 Concurrent treatment with strong inhibitors (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) and inducers (e.g., rifampin, rifabutin) of CYP3A4 is not recommended.
 Inhibitors of P-gp (e.g., digoxin, cyclosporine) may decrease the efflux of everolimus from intestinal cells and increase everolimus blood concentrations.
 In vitro, everolimus was a competitive inhibitor of CYP3A4 and of CYP2D6, potentially increasing the concentrations of medicinal products eliminated by these enzymes.
-Thus, caution should be exercised when co-administering everolimus with CYP3A4 and CYP2D6 substrates with a narrow therapeutic index [see Dosage and Administration (2.3)].
+Thus, caution should be exercised when coadministering everolimus with CYP3A4 and CYP2D6 substrates with a narrow therapeutic index [see Dosage and Administration (2.3)].
 
 All in vivo interaction studies were conducted without concomitant cyclosporine.
 Pharmacokinetic interactions between everolimus and concomitantly administered drugs are discussed below.
@@ -22,7 +22,7 @@ Everolimus had a clinically minor influence on cyclosporine pharmacokinetics in 
 ## 7.3 Ketoconazole and Other Strong CYP3A4 Inhibitors
 
 Multiple-dose ketoconazole administration to healthy volunteers significantly increased single dose estimates of everolimus Cmax, AUC, and half-life.
-It is recommended that strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) should not be co-administered with everolimus [see Warnings and Precautions (5.14), and Clinical Pharmacology (12.5)].
+It is recommended that strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) should not be coadministered with everolimus [see Warnings and Precautions (5.14), and Clinical Pharmacology (12.5)].
 
 ## 7.4 Erythromycin (Moderate CYP3A4 Inhibitor)
 
@@ -67,3 +67,9 @@ Coadministration of everolimus and depot octreotide increased octreotide Cmin by
 ## 7.12 Tacrolimus
 
 There is little to no pharmacokinetic interaction of tacrolimus on everolimus, and consequently, dose adjustment of everolimus is not necessary when everolimus is coadministered with tacrolimus.
+
+## 7.13 Cannabidiol
+
+The blood levels of everolimus may increase upon concomitant use with cannabidiol.
+When cannabidiol and everolimus are coadministered, closely monitor for an increase in everolimus blood levels and for adverse reactions suggestive of everolimus toxicity.
+A dose reduction of everolimus should be considered as needed when everolimus is coadministered with cannabidiol [see Dosage and Administration (2.3), Warnings and Precautions (5.22)].

@@ -2,18 +2,20 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary:
+Risk Summary
 
 Based on animal studies and the mechanism of action [see Clinical Pharmacology (12.1)], everolimus can cause fetal harm when administered to a pregnant woman.
 There are limited case reports of everolimus use in pregnant women; however, these reports are insufficient to inform a drug associated risk of adverse developmental outcomes.
-Reproductive studies in animals have demonstrated that everolimus was maternally toxic in rabbits, and caused embryo-fetal toxicities in rats and rabbits, at exposures near or below those achieved in human transplant patients.
+Reproductive studies in animals have demonstrated that everolimus was maternally toxic in rabbits and caused embryo-fetal toxicities in rats and rabbits, at exposures near or below those achieved in human transplant patients.
 Advise pregnant women of the potential risk to a fetus.
 
-The background risk of major birth defects and miscarriage for the indicated population is unknown; however, in the U.S. general population, the estimated background risk of major birth defects is 2 to 4% and of miscarriage is 15 to 20% of clinically recognized pregnancies.
+The background risk of major birth defects and miscarriage for the indicated population is unknown; however, in the U.S. general population, the estimated background risk of major birth defects is 2% to 4% and of miscarriage is 15% to 20% of clinically recognized pregnancies.
 
-Data:
+Data
 
-Animal Data: Everolimus crossed the placenta and was toxic to the conceptus.
+Animal Data
+
+Everolimus crossed the placenta and was toxic to the conceptus.
 
 Everolimus administered daily to pregnant rats by oral gavage at 0.1 mg/kg (approximately one tenth the exposure in humans administered the lowest starting dose of 0.75 mg twice daily), from before mating through organogenesis, resulted in increased preimplantation loss and embryonic resorptions.
 These effects occurred in the absence of maternal toxicities.
@@ -27,7 +29,7 @@ There were no drug-related effects on the developmental parameters (morphologica
 
 ## 8.2 Lactation
 
-Risk Summary:
+Risk Summary
 
 There is no data regarding the presence of everolimus in human milk, the effects on breastfed infants, or the effects on milk production.
 Everolimus and/or its metabolites are readily transferred into milk of lactating rats at a concentration 3.5 times higher than in maternal rat serum.
@@ -36,20 +38,24 @@ Advise lactating women not to breastfeed because of the potential for serious ad
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Contraception:
+Contraception
 
 Females should not be pregnant or become pregnant while receiving everolimus.
 Advise females of reproductive potential that animal studies have been performed showing everolimus to be harmful to the mother and developing fetus [see Use in Specific Populations (8.1)].
 Females of reproductive potential are recommended to use highly effective contraception methods while receiving everolimus and up to 8 weeks after treatment has been stopped.
 
-Infertility:
+Infertility
 
-Females: Amenorrhea occurred in female patients taking everolimus [see Adverse Reactions (6.2)].
+Females
+
+Amenorrhea occurred in female patients taking everolimus [see Adverse Reactions (6.2)].
 Everolimus may cause pre-implantation loss in females based on animal data [see Nonclinical Toxicology(13.1)].
 
 Female fertility may be compromised by treatment with everolimus.
 
-Males: Everolimus treatment may impair fertility in males based on human [see Warnings and Precautions (5.18), Adverse Reactions (6.2, 6.3)] and animal findings [see Nonclinical Toxicology(13.1)].
+Males
+
+Everolimus treatment may impair fertility in males based on human [see Warnings and Precautions (5.18), Adverse Reactions (6.2, 6.3)] and animal findings [see Nonclinical Toxicology(13.1)].
 
 ## 8.4 Pediatric Use
 

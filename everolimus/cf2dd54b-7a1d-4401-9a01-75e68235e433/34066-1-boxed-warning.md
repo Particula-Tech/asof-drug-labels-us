@@ -9,7 +9,7 @@ Malignancies and Serious Infections
 
 Kidney Graft Thrombosis
 
-- •An increased risk of kidney arterial and venous thrombosis, resulting in graft loss, was reported, mostly within the first 30 days post-transplantation [see Warnings and Precautions (5.4)].
+- •An increased risk of kidney arterial and venous thrombosis, resulting in graft loss, was reported, mostly within the first 30 days posttransplantation [see Warnings and Precautions (5.4)].
 
 Nephrotoxicity
 
@@ -19,5 +19,5 @@ Nephrotoxicity
 
 Mortality in Heart Transplantation
 
-- •Increased mortality, often associated with serious infections, within the first three months post-transplantation was observed in a clinical trial of de novo heart transplant patients receiving immunosuppressive regimens with or without induction therapy.
+- •Increased mortality, often associated with serious infections, within the first three months posttransplantation was observed in a clinical trial of de novo heart transplant patients receiving immunosuppressive regimens with or without induction therapy.
   Use in heart transplantation is not recommended [see Warnings and Precautions (5.7)].

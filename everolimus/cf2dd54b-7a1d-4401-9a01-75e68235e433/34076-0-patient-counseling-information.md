@@ -23,7 +23,7 @@ Advise patients to contact their physician if they develop any symptoms of infec
 
 Kidney Graft Thrombosis
 
-Inform patients that everolimus has been associated with an increased risk of kidney arterial and venous thrombosis, resulting in graft loss, usually within the first 30 days post-transplantation [see Warnings and Precautions (5.4)].
+Inform patients that everolimus has been associated with an increased risk of kidney arterial and venous thrombosis, resulting in graft loss, usually within the first 30 days posttransplantation [see Warnings and Precautions (5.4)].
 
 Everolimus and Calcineurin Inhibitor-Induced Nephrotoxicity
 
@@ -39,7 +39,7 @@ Wound Healing Complications and Fluid Accumulation
 
 Inform patients the use of everolimus has been associated with impaired or delayed wound healing, fluid accumulation and the need for careful observation of their incision site [see Warnings and Precautions (5.9)].
 
-Interstitial Lung Disease / Non-Infectious Pneumonitis
+Interstitial Lung Disease (ILD)/ Non-Infectious Pneumonitis
 
 Inform patients the use of everolimus may increase the risk of non-infectious pneumonitis.
 Advise patients to seek medical attention if they develop clinical symptoms consistent with pneumonia [see Warnings and Precautions (5.10)].
@@ -61,13 +61,13 @@ Also advise not to breastfeed while taking everolimus [Use in Specific Populatio
 
 Male and Female Fertility
 
-Inform male and female patients that everolimus may impair fertility [see Warnings and Precautions (5.18), Use in Specific Populations (8.1, 8.3), Non-Clinical Toxicology (13.1)].
+Inform male and female patients that everolimus may impair fertility [see Warnings and Precautions (5.18), Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology (13.1)].
 
 Medications that Interfere with Everolimus
 
 Some medications can increase or decrease blood concentrations of everolimus.
 Advise patients to inform their physician if they are taking any of the following: antifungals, antibiotics, antivirals, anti-epileptic medicines including carbamazepine, phenytoin and barbiturates, herbal/dietary supplements (St.
-John’s Wort), and/or rifampin [see Warnings and Precautions (5.14)].
+John’s Wort), cannabidiol, and/or rifampin [see Warnings and Precautions (5.14, 5.22)].
 
 New Onset Diabetes
 
@@ -88,6 +88,6 @@ Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50001129/01
+C50001129/02
 
-Revised May 2021
+Revised September 2023

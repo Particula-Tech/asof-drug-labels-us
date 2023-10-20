@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Everolimus was not carcinogenic in mice or rats when administered daily by oral gavage for 2 years at doses of 0.9 mg/kg, the highest dose tested.
+Everolimus was not carcinogenic in mice or rats when administered daily by oral gavage for 2 years at doses up to 0.9 mg/kg, the highest dose tested.
 In these studies, AUCs in mice were much higher (at least 20 times) than those in humans receiving 0.75 mg twice daily, and AUCs in rats were in the same range as those in humans receiving 0.75 mg twice daily.
 
 Everolimus was not mutagenic in the bacterial reverse mutation, the mouse lymphoma thymidine kinase assay, or the chromosome aberration assay using V79 Chinese hamster cells, or in vivo following two daily doses of 500 mg/kg in the mouse micronucleus assay.

@@ -24,12 +24,12 @@ Antimicrobial prophylaxis for Pneumocystis jiroveci (carinii) pneumonia and prop
 
 ## 5.4 Kidney Graft Thrombosis
 
-An increased risk of kidney arterial and venous thrombosis, resulting in graft loss, has been reported, usually within the first 30 days post-transplantation [see Boxed Warning].
+An increased risk of kidney arterial and venous thrombosis, resulting in graft loss, has been reported, usually within the first 30 days posttransplantation [see Boxed Warning].
 
 ## 5.5 Hepatic Artery Thrombosis
 
 Mammalian target of rapamycin (mTOR) inhibitors are associated with an increase in hepatic artery thrombosis (HAT).
-Reported cases mostly have occurred within the first 30 days post-transplant and most also lead to graft loss or death.
+Reported cases mostly have occurred within the first 30 days posttransplant and most also lead to graft loss or death.
 Therefore, everolimus should not be administered earlier than 30 days after liver transplant.
 
 ## 5.6 Everolimus and Calcineurin Inhibitor-Induced Nephrotoxicity
@@ -46,7 +46,7 @@ Caution should be exercised when using other drugs which are known to impair ren
 
 ## 5.7 Heart Transplantation
 
-In a clinical trial of de novo heart transplant patients, everolimus in an immunosuppressive regimen with or without induction therapy, resulted in an increased mortality often associated with serious infections within the first three months post-transplantation compared to the control regimen.
+In a clinical trial of de novo heart transplant patients, everolimus in an immunosuppressive regimen with or without induction therapy, resulted in an increased mortality often associated with serious infections within the first three months posttransplantation compared to the control regimen.
 Use of everolimus in heart transplantation is not recommended.
 
 ## 5.8 Angioedema
@@ -102,12 +102,12 @@ Physicians should also consider the risk that reduced immunosuppression represen
 
 Coadministration of everolimus with strong CYP3A4-inhibitors (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) and strong CYP3A4 inducers (e.g., rifampin, rifabutin) is not recommended without close monitoring of everolimus whole blood trough concentrations [see Drug Interactions (7)].
 
-## 5.15 Thrombotic Microangiopathy/Thrombotic Thrombocytopenic Purpura/Hemolytic Uremic Syndrome (TMA/TTP/HUS)
+## 5.15 Thrombotic Microangiopathy/Thrombotic Thrombocytopenic Purpura/Hemolytic Uremic Syndrome
 
-The concomitant use of everolimus with cyclosporine may increase the risk of thrombotic microangiopathy/thrombotic thrombocytopenic purpura/hemolytic uremic syndrome.
+The concomitant use of everolimus with cyclosporine may increase the risk of thrombotic microangiopathy (TMA)/thrombotic thrombocytopenic purpura (TTP)/hemolytic uremic syndrome (HUS).
 Monitor hematologic parameters [see Adverse Reactions (6.2)].
 
-## 5.16 New Onset Diabetes after Transplant
+## 5.16 New Onset Diabetes After Transplant
 
 Everolimus has been shown to increase the risk of new onset diabetes mellitus after transplant.
 Blood glucose concentrations should be monitored closely in patients using everolimus.
@@ -135,3 +135,8 @@ Grapefruit and grapefruit juice inhibit cytochrome P450 3A4 and P-gp activity an
 ## 5.21 Patients with Hereditary Disorders/Other
 
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take everolimus as this may result in diarrhea and malabsorption.
+
+## 5.22 Cannabidiol Drug Interactions
+
+When cannabidiol and everolimus tablets are coadministered, closely monitor for an increase in everolimus blood levels and for adverse reactions suggestive of everolimus toxicity.
+A dose reduction of everolimus should be considered as needed when everolimus tablets are coadministered with cannabidiol [see Dosage and Administration (2.3), Drug Interactions (7.13)].

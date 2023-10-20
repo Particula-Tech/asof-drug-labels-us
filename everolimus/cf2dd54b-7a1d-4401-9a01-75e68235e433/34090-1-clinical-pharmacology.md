@@ -38,7 +38,7 @@ Metabolism
 Everolimus is a substrate of CYP3A4 and P-gp.
 Following oral administration, everolimus is the main circulating component in human blood.
 Six main metabolites of everolimus have been detected in human blood, including three monohydroxylated metabolites, two hydrolytic ring-opened products, and a phosphatidylcholine conjugate of everolimus.
-These metabolites were also identified in animal species used in toxicity studies, and showed approximately 100-times less activity than everolimus itself.
+These metabolites were also identified in animal species used in toxicity studies and showed approximately 100-times less activity than everolimus itself.
 
 Excretion
 
@@ -57,7 +57,7 @@ Steady-State Pharmacokinetic Parameters (mean +/- SD) Following the Administrati
 | --- | --- | --- | --- | --- | --- |
 | 11.1 ± 4.6 ng/mL | 1 to 2 h | 75 + 31 ngh/mL | 8.8 L/h | 110 L | 30 ± 11h |
 
-1Population Pharmacokinetic Analysis
+1Population pharmacokinetic analysis.
 
 The half-life estimates from 12 maintenance renal transplant patients who received single doses of everolimus capsules at 0.75 mg or 2.5 mg with their maintenance cyclosporine regimen indicate that the pharmacokinetics of everolimus are linear over the clinically-relevant dose range.
 Results indicate the half-life of everolimus in maintenance renal transplant patients receiving single doses of 0.75 mg or
@@ -75,7 +75,7 @@ Cyclosporine (CYP3A4/P-gp Inhibitor and CYP3A4 Substrate)
 Everolimus should be taken concomitantly with cyclosporine in kidney transplant patients.
 Everolimus concentrations may decrease when doses of cyclosporine are reduced, unless the everolimus dose is increased [see Dosage and Administration (2.1), Drug Interactions (7.2)].
 
-In a single-dose study in healthy subjects, cyclosporine (Neoral) administered at a dose of 175 mg increased everolimus AUC by 168% (range, 46% to 365%) and Cmax by 82% (range, 25% to 158%) when administered with 2 mg everolimus compared with administration of everolimus alone [see Drug Interactions (7.2)].
+In a single-dose study in healthy subjects, cyclosporine (Neoral) administered at a dose of 175 mg increased everolimus AUC by 168% (range 46% to 365%) and Cmax by 82% (range 25% to 158%) when administered with 2 mg everolimus compared with administration of everolimus alone [see Drug Interactions (7.2)].
 
 Ketoconazole and Other Strong CYP3A4 Inhibitors
 
@@ -125,11 +125,11 @@ Further dose adjustment and/or dose titration should be made if a patient’s wh
 Renal Impairment
 
 No pharmacokinetic studies in patients with renal impairment were conducted.
-Post-transplant renal function (creatinine clearance range 11 to 107 mL/min) did not affect the pharmacokinetics of everolimus, therefore, no dosage adjustments are needed in patients with renal impairment.
+Posttransplant renal function (creatinine clearance range 11 to 107 mL/min) did not affect the pharmacokinetics of everolimus, therefore, no dosage adjustments are needed in patients with renal impairment.
 
 Geriatrics
 
-A limited reduction in everolimus oral CL of 0.33% per year was estimated in adults (age range studied was 16 to 70 years).
+A limited reduction in everolimus oral CL/F of 0.33% per year was estimated in adults (age range studied was 16 to 70 years).
 There is no evidence to suggest that elderly patients will require a different dosage recommendation from younger adult patients.
 
 Race
@@ -145,7 +145,7 @@ Patients who attained everolimus trough concentrations within the range of 6 to 
 
 In the kidney clinical trial [see Clinical Studies (14.1)], everolimus whole blood trough concentrations were measured at Days 3, 7, and 14 and Months 1, 2, 3, 4, 6, 7, 9, and 12.
 The proportion of patients receiving 0.75 mg twice daily everolimus treatment regimen who had everolimus whole blood trough concentrations within the protocol specified target range of 3 to 8 ng/mL at Days 3, 7, and 14 were 55%, 71% and 69%, respectively.
-Approximately 80% of patients had everolimus whole blood trough concentrations within the 3 to 8 ng/mL target range by Month 1 and remained stable within range through Month 12 post-transplant.
+Approximately 80% of patients had everolimus whole blood trough concentrations within the 3 to 8 ng/mL target range by Month 1 and remained stable within range through Month 12 posttransplant.
 The median everolimus trough concentration for the 0.75 mg twice daily treatment group was between 3 and 8 ng/mL throughout the study duration.
 
 Everolimus in Liver Transplantation
@@ -153,15 +153,15 @@ Everolimus in Liver Transplantation
 In the liver clinical trial [see Clinical Studies (14.2)] everolimus dosing was initiated after 30 days following transplantation.
 Whole blood trough everolimus concentrations were measured within 5 days after first dose, followed by weekly intervals for 3 to 4 weeks, and then monthly thereafter.
 Approximately 49%, 37%, and 18% of patients, respectively, were below 3 ng/mL at 1, 2, and 4 weeks after initiation of everolimus dosing.
-The majority of patients (approximately 70 to 80%) had everolimus trough blood concentrations within the target range of 3 to 8 ng/mL after Month 2 through Month 24 post-transplant.
+The majority of patients (approximately 70 to 80%) had everolimus trough blood concentrations within the target range of 3 to 8 ng/mL after Month 2 through Month 24 posttransplant.
 
 ## 12.8 Cyclosporine Concentrations Observed in Kidney Transplant Patients
 
-In the kidney transplant clinical trial [see Clinical Studies (14.1)], the target cyclosporine whole blood trough concentration for the everolimus treatment arm of 0.75 mg twice daily were 100 to 200 ng/mL through Month 1 post-transplant, 75 to 150 ng/mL at Months 2 and 3 post-transplant, 50 to 100 ng/mL at Month 4 post-transplant, and 25 to 50 ng/mL from Month 6 through Month 12 post-transplant.
+In the kidney transplant clinical trial [see Clinical Studies (14.1)], the target cyclosporine whole blood trough concentration for the everolimus treatment arm of 0.75 mg twice daily were 100 to 200 ng/mL through Month 1 posttransplant, 75 to 150 ng/mL at Months 2 and 3 posttransplant, 50 to 100 ng/mL at Month 4 posttransplant, and 25 to 50 ng/mL from Month 6 through Month 12 posttransplant.
 Table 5 below provides a summary of the observed cyclosporine whole blood trough concentrations during the study.
 
 Table 5.
-Cyclosporine Trough Concentrations Over 12 Months Post-transplant – Kidney Study Median Values (ng/mL) with 10th and 90th Percentiles
+Cyclosporine Trough Concentrations Over 12 Months Posttransplant – Kidney Study Median Values (ng/mL) with 10th and 90th Percentiles
 
 | Treatment Group | Visit | N | Target (ng/mL) | Median | 10th Percentile | 90th Percentile |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -179,14 +179,14 @@ Cyclosporine Trough Concentrations Over 12 Months Post-transplant – Kidney Stu
 
 ## 12.9 Tacrolimus Concentrations in Liver Transplant
 
-In the liver transplant clinical trial [see Clinical Studies (14.2)], the target tacrolimus whole blood trough concentrations were greater than or equal to 8 ng/mL in the first 30 days post-transplant.
+In the liver transplant clinical trial [see Clinical Studies (14.2)], the target tacrolimus whole blood trough concentrations were greater than or equal to 8 ng/mL in the first 30 days posttransplant.
 The protocol required that patients had a tacrolimus trough concentration of at least 8 ng/mL in the week prior to initiation of everolimus.
-Everolimus was initiated after 30 days post-transplant.
+Everolimus was initiated after 30 days posttransplant.
 At that time, the target tacrolimus trough concentrations were reduced to 3 to 5 ng/mL.
-Table 6 below provides a summary of the tacrolimus whole blood trough concentrations observed during the study through Month 24 post-transplant.
+Table 6 below provides a summary of the tacrolimus whole blood trough concentrations observed during the study through Month 24 posttransplant.
 
 Table 6.
-Tacrolimus Trough Concentrations Over 24 Months Post-transplant – Liver Study Median Values (ng/mL) with 10th and 90th Percentiles
+Tacrolimus Trough Concentrations Over 24 Months Posttransplant – Liver Study Median Values (ng/mL) with 10th and 90th Percentiles
 
 | Treatment Group | Visit | N | Target (ng/mL) | Median | 10th Percentile | 90th Percentile |
 | --- | --- | --- | --- | --- | --- | --- |
