@@ -57,11 +57,11 @@ Omeprazole Delayed-Release Capsules
 
 - •Swallow omeprazole delayed-release capsules whole; do not chew.
 - •For patients unable to swallow an intact capsule, omeprazole delayed-release capsules can be opened and administered as follows:
-- 1.Place one tablespoon of applesauce into a clean container (e.g., empty bowl).
+- •Place one tablespoon of applesauce into a clean container (e.g., empty bowl).
   The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
-- 2.Open the capsule.
-- 3.Carefully empty all of the pellets inside the capsule on the applesauce.
-- 4.Mix the pellets with the applesauce.
-- 5.Swallow applesauce and pellets immediately with a glass of cool water to ensure complete swallowing of the pellets.
+- •Open the capsule.
+- •Carefully empty all of the pellets inside the capsule on the applesauce.
+- •Mix the pellets with the applesauce.
+- •Swallow applesauce and pellets immediately with a glass of cool water to ensure complete swallowing of the pellets.
   Do not chew or crush the pellets.
   Do not save the applesauce and pellets for future use.

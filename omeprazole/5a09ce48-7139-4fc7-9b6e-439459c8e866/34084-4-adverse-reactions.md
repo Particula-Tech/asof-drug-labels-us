@@ -106,7 +106,7 @@ Optic atrophy, anterior ischemic optic neuropathy, optic neuritis, dry eye syndr
 
 Urogenital
 
-Interstitial nephritis, hematuria, proteinuria, elevated serum creatinine, microscopic pyuria, urinary tract infection, glycosuria, urinary frequency, testicular pain
+Interstitial nephritis, hematuria, proteinuria, elevated serum creatinine, microscopic pyuria, urinary tract infection, glycosuria, urinary frequency, testicular pain, erectile dysfunction
 
 Hematologic
 

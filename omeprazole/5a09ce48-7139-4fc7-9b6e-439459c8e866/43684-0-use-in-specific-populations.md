@@ -86,13 +86,13 @@ Accidental injuries were frequently reported in the 2 to 16 year age group [see 
 The safety and effectiveness of omeprazole have not been established in:
 
 - •patients less than 1 year of age for:
-  - oTreatment of symptomatic GERD
-  - oMaintenance of healing of EE due to acid-mediated GERD
+  - •Treatment of symptomatic GERD
+  - •Maintenance of healing of EE due to acid-mediated GERD
 - •pediatric patients for:
-  - oTreatment of active duodenal ulcer
-  - oH. pylori eradication to reduce the risk of duodenal ulcer recurrence
-  - oTreatment of active benign gastric ulcer
-  - oPathological hypersecretory conditions
+  - •Treatment of active duodenal ulcer
+  - •H. pylori eradication to reduce the risk of duodenal ulcer recurrence
+  - •Treatment of active benign gastric ulcer
+  - •Pathological hypersecretory conditions
 - •patients less than 1 month of age for any indication.
 
 Juvenile Animal Data

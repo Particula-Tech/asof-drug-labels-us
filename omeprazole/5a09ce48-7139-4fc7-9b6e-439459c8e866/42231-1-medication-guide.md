@@ -50,7 +50,7 @@ Omeprazole delayed-release capsules are used in adults:
   The infection needs to be treated to prevent the ulcers from coming back.
 - •for up to 8 weeks for healing stomach ulcers.
 - •for up to 4 weeks to treat heartburn and other symptoms that happen with gastroesophageal reflux disease (GERD).
-  GERD happens when acid in your stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
+- GERD happens when acid in your stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
   This may cause a burning feeling in your chest or throat, sour taste, or burping.
 - •for up to 8 weeks to heal acid-related damage to the lining of the esophagus (called erosive esophagitis or EE).
   If needed, your doctor may decide to prescribe another 4 weeks of omeprazole delayed-release capsules.
@@ -114,7 +114,7 @@ Omeprazole delayed-release capsules
   Do not chew or crush omeprazole delayed-release capsules.
 - •If you have trouble swallowing a whole capsule, you can open the capsule and take the contents in applesauce.
   See the “Instructions for Use” at the end of this Medication Guide for instructions on how to take omeprazole delayed-release capsules with applesauce.
-  If you miss a dose of omeprazole delayed-release capsules, take it as soon as you remember.
+- If you miss a dose of omeprazole delayed-release capsules, take it as soon as you remember.
   If it is almost time for your next dose, do not take the missed dose.
   Take the next dose at your regular time.
   Do not take 2 doses at the same time to make up for the missed dose.
@@ -139,8 +139,8 @@ Omeprazole delayed-release capsules can cause serious side effects, including:
 - •Severe skin reactions.
   Omeprazole delayed-release capsules can cause rare but severe skin reactions that may affect any part of your body.
   These serious skin reactions may need to be treated in a hospital and may be life threatening:
-  - oSkin rash which may have blistering, peeling or bleeding on any part of your skin (including your lips, eyes, mouth, nose, genitals, hands or feet).
-  - oYou may also have fever, chills, body aches, shortness of breath, or enlarged lymph nodes.
+  - •Skin rash which may have blistering, peeling or bleeding on any part of your skin (including your lips, eyes, mouth, nose, genitals, hands or feet).
+  - •You may also have fever, chills, body aches, shortness of breath, or enlarged lymph nodes.
 - Stop taking omeprazole delayed-release capsules and call your doctor right away.
   These symptoms may be the first sign of a severe skin reaction.
 
