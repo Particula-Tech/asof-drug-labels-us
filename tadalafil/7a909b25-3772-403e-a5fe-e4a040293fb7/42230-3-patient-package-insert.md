@@ -62,7 +62,7 @@ Before you take TADLIQ, tell your healthcare provider about all of your medical 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the counter medicines, vitamins, and herbal supplements.
 TADLIQ and other medicines may affect each other.
 
-Especially tell your healthcare provider if you take any of these medicines:
+Especially tell your healthcare provider if you take:
 
 - nitrates or guanylate cyclase stimulators (see “What is the most important information I should know about TADLIQ?”)
 - medicines for erectile dysfunction (impotence).
@@ -137,4 +137,4 @@ Distributed by: CMP Pharma, Inc., 8026 US Highway 264A, Farmville, NC 27828 For 
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Issued: 06/2022
+Issued: 10/2022

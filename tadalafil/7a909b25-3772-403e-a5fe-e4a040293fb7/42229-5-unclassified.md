@@ -1,1 +1,3 @@
-Distributed by: CMP Pharma, Inc. 8026 US Highway 264A, Farmville, NC 27828
+Distributed by: CMP Pharma, Inc. Farmville, NC 27828
+
+3067 Rev 1022

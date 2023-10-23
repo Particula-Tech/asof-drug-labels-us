@@ -23,10 +23,10 @@ In the tadalafil 40 mg treatment group, the placebo-adjusted mean change increas
 The improvement in 6-MWD was apparent at 8 weeks of treatment and then maintained at week 12 and week 16.
 
 Placebo-adjusted changes in 6-MWD at 16 weeks were evaluated in subgroups (see Figure 5).
-In patients taking only tadalafil 40 mg (i.e., without concomitant bosentan), the placebo-adjusted mean change in 6-MWD was 44 meters.
-In patients taking tadalafil 40 mg and concomitant bosentan therapy, the placebo adjusted mean change in 6-MWD was 23 meters.
+In patients taking only 40 mg tadalafil (i.e., without concomitant bosentan), the placebo-adjusted mean change in 6-MWD was 44 meters.
+In patients taking 40 mg of tadalafil and concomitant bosentan therapy, the placebo adjusted mean change in 6-MWD was 23 meters.
 
-There was less clinical worsening (defined as death, lung transplantation, atrial septostomy, hospitalization because of worsening PAH, initiation of new PAH therapy [prostacyclin or analog, endothelin receptor antagonist, PDE5 inhibitor], or worsening WHO functional class) in the tadalafil 40 mg group compared to the placebo group and the groups that used lower doses of tadalafil.
+There was less clinical worsening (defined as death, lung transplantation, atrial septostomy, hospitalization because of worsening PAH, initiation of new PAH therapy [prostacyclin or analog, endothelin receptor antagonist, PDE5 inhibitor], or worsening WHO functional class) in the Tadalafil 40 mg group compared to the placebo group and the groups that used lower doses of tadalafil.
 
 Table 2: Number (percent) with Clinical Worseninga
 
