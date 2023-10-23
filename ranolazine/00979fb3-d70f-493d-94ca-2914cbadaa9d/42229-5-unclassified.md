@@ -2,9 +2,9 @@ Rx Only
 
 Manufactured by:
 
-Cadila Healthcare Ltd.,
+Zydus Lifesciences Ltd.,
 
-India
+Baddi, India
 
 Distributed by:
 
@@ -12,15 +12,15 @@ Viona Pharmaceuticals Inc.
 
 Cranford, NJ 07016
 
-Rev.: 11/19
+Rev.: 11/22
 
 Rx Only
 
 Manufactured by:
 
-Cadila Healthcare Ltd.,
+Zydus Lifesciences Ltd.,
 
-India
+Baddi, India
 
 Distributed by:
 
@@ -28,4 +28,4 @@ Viona Pharmaceuticals Inc.
 
 Cranford, NJ 07016
 
-Rev.: 05/19
+Rev.: 11/22
