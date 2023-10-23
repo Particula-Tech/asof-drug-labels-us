@@ -5,7 +5,7 @@
 Carcinogenesis
 
 Lopinavir/ritonavir combination was evaluated for carcinogenic potential by oral gavage administration to mice and rats for up to 104 weeks.
-Results showed an increase in the incidence of benign hepatocellular adenomas and an increase in the combined incidence of hepatocellular adenomas plus carcinoma in both males and females in mice and males in rats at doses that produced approximately 1.6 to 2.2 times (mice) and 0.5 times (rats) the human exposure (based on AUC0-24hrmeasurement) at the recommended dose of 400/100 mg lopinavir and ritonavir twice daily.
+Results showed an increase in the incidence of benign hepatocellular adenomas and an increase in the combined incidence of hepatocellular adenomas plus carcinoma in both males and females in mice and males in rats at doses that produced approximately 1.6 to 2.2 times (mice) and 0.5 times (rats) the human exposure (based on AUC0 to 24hrmeasurement) at the recommended dose of 400/100 mg lopinavir and ritonavir twice daily.
 Administration of lopinavir/ritonavir did not cause a statistically significant increase in the incidence of any other benign or malignant neoplasm in mice or rats.
 
 Carcinogenicity studies in mice and rats have been carried out on ritonavir.

@@ -73,4 +73,4 @@ The makers of these brands are not affiliated with and do not endorse Laurus Lab
 
 Manufactured for: Laurus Generics Inc. 400 Connell Drive Suite 5200 Berkeley Heights, NJ 07922
 
-Manufactured by: Laurus Labs Limited Visakhapatnam-531011 India
+Manufactured by: Laurus Labs Limited Anakapalli-531011 India
