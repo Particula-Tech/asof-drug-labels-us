@@ -14,6 +14,6 @@ FLAGYL 500-mg tablets are oblong, blue, film coated, with FLAGYL debossed on one
 | 0025-1821-50 | bottle of 50 |
 | 0025-1821-31 | bottle of 100 |
 
-## Storage and Stability
+## Storage and Stability:
 
 Store below 25°C (77°F) and protect from light.

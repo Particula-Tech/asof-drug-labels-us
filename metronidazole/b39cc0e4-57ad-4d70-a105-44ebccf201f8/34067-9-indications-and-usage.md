@@ -1,15 +1,15 @@
 # INDICATIONS AND USAGE
 
-## Symptomatic Trichomoniasis
+## Symptomatic Trichomoniasis.
 
 FLAGYL is indicated for the treatment of T. vaginalis infection in females and males when the presence of the trichomonad has been confirmed by appropriate laboratory procedures (wet smears and/or cultures).
 
-## Asymptomatic Trichomoniasis
+## Asymptomatic Trichomoniasis.
 
 FLAGYL is indicated in the treatment of asymptomatic T. vaginalis infection in females when the organism is associated with endocervicitis, cervicitis, or cervical erosion.
 Since there is evidence that presence of the trichomonad can interfere with accurate assessment of abnormal cytological smears, additional smears should be performed after eradication of the parasite.
 
-## Treatment of Asymptomatic Sexual Partners
+## Treatment of Asymptomatic Sexual Partners.
 
 T. vaginalis infection is a venereal disease.
 Therefore, asymptomatic sexual partners of treated patients should be treated simultaneously if the organism has been found to be present, in order to prevent reinfection of the partner.
@@ -18,13 +18,13 @@ In making this decision, it should be noted that there is evidence that a woman 
 Also, since there can be considerable difficulty in isolating the organism from the asymptomatic male carrier, negative smears and cultures cannot be relied upon in this regard.
 In any event, the sexual partner should be treated with FLAGYL in cases of reinfection.
 
-## Amebiasis
+## Amebiasis.
 
 FLAGYL is indicated in the treatment of acute intestinal amebiasis (amebic dysentery) and amebic liver abscess.
 
 In amebic liver abscess, FLAGYL therapy does not obviate the need for aspiration or drainage of pus.
 
-## Anaerobic Bacterial Infections
+## Anaerobic Bacterial Infections.
 
 FLAGYL is indicated in the treatment of serious infections caused by susceptible anaerobic bacteria.
 Indicated surgical procedures should be performed in conjunction with FLAGYL therapy.

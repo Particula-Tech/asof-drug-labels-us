@@ -100,7 +100,7 @@ Protozoal parasites
 
 The following in vitro data are available, but their clinical significance is unknown:
 
-Metronidazole exhibits in vitro minimal inhibitory concentrations (MIC's) of 8 mcg/mL or less against most (≥ 90%) isolates of the following bacteria; however, the safety and effectiveness of metronidazole in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
+Metronidazole exhibits in vitro minimal inhibitory concentrations (MIC's) of 8 mcg/mL or less against most (≥90%) isolates of the following bacteria; however, the safety and effectiveness of metronidazole in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
 Gram-negative anaerobes
 

@@ -1,8 +1,8 @@
 # DOSAGE AND ADMINISTRATION
 
-## Trichomoniasis
+## Trichomoniasis:
 
-### In the Female
+### In the Female:
 
 One-day treatment – two grams of FLAGYL, given either as a single dose or in two divided doses of one gram each, given in the same day.
 
@@ -20,13 +20,13 @@ In pregnant patients for whom alternative treatment has been inadequate, the one
 When repeat courses of the drug are required, it is recommended that an interval of four to six weeks elapse between courses and that the presence of the trichomonad be reconfirmed by appropriate laboratory measures.
 Total and differential leukocyte counts should be made before and after re-treatment.
 
-### In the Male
+### In the Male:
 
 Treatment should be individualized as it is for the female.
 
 ## Amebiasis
 
-### Adults
+### Adults:
 
 For acute intestinal amebiasis (acute amebic dysentery): 750 mg orally three times daily for 5 to 10 days.
 
@@ -50,7 +50,7 @@ The usual duration of therapy is 7 to 10 days; however, infections of the bone a
 
 For patients with severe hepatic impairment (Child-Pugh C), the dose of FLAGYL should be reduced by 50% (see CLINICAL PHARMACOLOGY and PRECAUTIONS).
 
-### Patients Undergoing Hemodialysis
+### Patients Undergoing Hemodialysis:
 
 Hemodialysis removes significant amounts of metronidazole and its metabolites from systemic circulation.
 The clearance of metronidazole will depend on the type of dialysis membrane used, the duration of the dialysis session, and other factors.
