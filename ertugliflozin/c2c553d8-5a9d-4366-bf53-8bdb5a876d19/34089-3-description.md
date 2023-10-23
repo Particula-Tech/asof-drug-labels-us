@@ -26,6 +26,6 @@ STEGLUJAN is available for oral use as film-coated tablets containing:
 - 6.48 mg ertugliflozin L-pyroglutamic acid equivalent to 5 mg of ertugliflozin and 128.5 mg sitagliptin phosphate monohydrate equivalent to 100 mg sitagliptin (STEGLUJAN 5/100)
 - 19.43 mg ertugliflozin L-pyroglutamic acid equivalent to 15 mg of ertugliflozin and 128.5 mg sitagliptin phosphate monohydrate equivalent to 100 mg sitagliptin (STEGLUJAN 15/100)
 
-Inactive ingredients are microcrystalline cellulose, dibasic calcium phosphate anhydrous, croscarmellose sodium, sodium stearyl fumarate, and magnesium stearate.
+Inactive ingredients are microcrystalline cellulose, dibasic calcium phosphate anhydrous, croscarmellose sodium, sodium stearyl fumarate, magnesium stearate, and propyl gallate.
 
 The film coating contains: hypromellose, hydroxypropyl cellulose, titanium dioxide, iron oxide red, iron oxide yellow, ferrosoferric oxide/black iron oxide, and carnauba wax.

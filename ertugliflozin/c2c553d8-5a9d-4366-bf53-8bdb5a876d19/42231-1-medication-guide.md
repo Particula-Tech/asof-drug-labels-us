@@ -58,9 +58,9 @@
 | For more information about STEGLUJAN, go to www.steglujan.com or call 1-800-622-4477. |  |  |  |
 | What are the ingredients in STEGLUJAN? |  |  |  |
 | Active ingredients: ertugliflozin and sitagliptin. |  |  |  |
-| Inactive ingredients: microcrystalline cellulose, dibasic calcium phosphate anhydrous, croscarmellose sodium, sodium stearyl fumarate, and magnesium stearate. |  |  |  |
+| Inactive ingredients: microcrystalline cellulose, dibasic calcium phosphate anhydrous, croscarmellose sodium, sodium stearyl fumarate, magnesium stearate, and propyl gallate. |  |  |  |
 | The tablet film coating contains the following inactive ingredients: hypromellose, hydroxypropyl cellulose, titanium dioxide, iron oxide red, iron oxide yellow, ferrosoferric oxide/black iron oxide, and carnauba wax. |  |  |  |
 | Manufactured for: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA |  |  |  |
 | For patent information, go to: www.msd.com/research/patent Copyright © 2017-2023 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates. All rights reserved. |  |  |  |
-| usmg-mk8835a-t-2309r009 |  |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  | Revised: 09/2023 |
+| usmg-mk8835a-t-2310r010 |  |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  | Revised: 10/2023 |
