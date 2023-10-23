@@ -8,6 +8,7 @@ ZENPEP is orally administered.
 Therapy should be initiated at the lowest recommended dose and gradually increased.
 The dosage of ZENPEP should be individualized based on clinical symptoms, the degree of steatorrhea present, and the fat content of the diet (see Limitations on Dosing below).
 
+ZENPEP is a mixture of enzymes including lipases, proteases, and amylases and dosing is based on lipase units.
 Dosage recommendations for pancreatic enzyme replacement therapy were published following the Cystic Fibrosis Foundation Consensus Conferences.1, 2, 3 ZENPEP should be administered in a manner consistent with the recommendations of the Conferences provided in the following paragraphs, with one exception.
 The Conferences recommend doses of 2,000 to 4,000 lipase units in infants up to 12 months.
 ZENPEP is available in a 3,000 lipase unit capsule.

@@ -68,7 +68,7 @@ Storage and Handling
 Original container:
 
 Avoid excessive heat.
-Store at room temperature (68-77°F; 20-25°C), brief excursions permitted to 15-40°C (59-104°F).
+Store at room temperature, 20°C to 25°C (68°F to 77°F), and brief excursions permitted to 15°C to 40°C (59°F to 104°F) for 24 hours.
 Protect from moisture.
 AFTER OPENING, KEEP BOTTLE TIGHTLY CLOSED between uses to PROTECT FROM MOISTURE.
 
@@ -76,7 +76,7 @@ Repackaged HDPE container:
 
 Avoid excessive heat.
 Store at up to 30°C (86°F) for up to 6 months.
-Brief excursions permitted to 15-40°C (59-104°F) for up to 30 days.
+Brief excursions permitted to 15°C to 40°C (59°F to 104°F) for up to 30 days.
 Protect from moisture.
 AFTER OPENING, KEEP BOTTLE TIGHTLY CLOSED between uses to PROTECT FROM MOISTURE.
 
