@@ -1,0 +1,36 @@
+{
+  "application_numbers": [
+    "BLA761118",
+    "M003"
+  ],
+  "inn": "adalimumab",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
+  "package_ndcs": [
+    "0069-0317-01",
+    "0069-0318-01",
+    "0069-0319-01",
+    "0069-0325-01",
+    "0069-0325-02",
+    "0069-0328-01",
+    "0069-0328-02",
+    "0069-0329-01",
+    "0069-0331-01",
+    "0069-0333-02",
+    "0069-0347-02",
+    "0069-1111-01"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "adalimumab-afzb",
+      "name": "ABRILADA"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "adalimumab-afzb",
+      "name": "ABRILADA"
+    }
+  ],
+  "setid": "81a33cfa-262f-4432-a05d-7dd260928437",
+  "source": "dailymed"
+}
