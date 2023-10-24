@@ -20,7 +20,7 @@ Table 6: Drugs Contraindicated with Atazanavir Capsules (Information in the tabl
 | Benzodiazepines | Triazolam, orally administered midazolama |
 | Ergot Derivatives | Dihydroergotamine, ergotamine, ergonovine, methylergonovine |
 | GI Motility Agent | Cisapride |
-| Hepatitis C Direct­ Acting Antivirals | Elbasvir/grazoprevir; glecaprevir/pibrentasvir |
+| Hepatitis C Direct- Acting Antivirals | Elbasvir/grazoprevir; glecaprevir/pibrentasvir |
 | Herbal Products | St. John’s wort (Hypericum perforatum) |
 | Lipid-Modifying Agents: | Lovastatin, simvastatin, lomitapide |
 | Phosphodiesterase-5 (PDE-5) Inhibitor | Sildenafilb when dosed as REVATIO®for the treatment of pulmonary arterial hypertension |

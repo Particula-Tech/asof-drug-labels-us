@@ -59,7 +59,7 @@ Selected clinical adverse reactions of moderate or severe intensity reported in 
 
 Table 9: Selected Adverse Reactionsa of Moderate or Severe Intensity Reported in ≥2% of Adult Treatment-Experienced Subjects with HIV-1 Infection,b Study AI424-045
 
-|  | 48 weeksc Atazanavir with ritonavir 300/100 mg (once daily) and tenofovir DF and NRTI (n=119) | 48 weeksc lopinavir/ritonavir 400/100 mg (twice dailyd)and tenofovir DF and NRTI (n=118) |
+|  | 48 weeksc Atazanavir with ritonavir 300/100 mg (once daily) and tenofovir DF and NRTI (n=119) | 48 weeksc lopinavir/ritonavir 400/100 mg (twice dailyd) and tenofovir DF and NRTI (n=118) |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Fever | 2% | * |

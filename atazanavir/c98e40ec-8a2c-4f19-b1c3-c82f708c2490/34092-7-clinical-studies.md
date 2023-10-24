@@ -10,7 +10,7 @@ Treatment response and outcomes through Week 96 are presented in Table 26.
 
 Table 26: Outcomes of Treatment Through Week 96 in Treatment-Naive Adults (Study AI424-138)
 
-| Outcome | atazanavir 300 mg with ritonavir 100 mg (once daily) and tenofovir DF/emtricitabine (once daily)a (n=441) 96 Weeks | lopinavir /ritonavirb 400 mg/100 mg (twice daily) with tenofovir DF/emtricitabine (once daily)a (n=437) 96 Weeks |
+| Outcome | atazanavir 300 mg with ritonavir 100 mg (once daily) and tenofovir DF/emtricitabine (once daily)a (n=441) 96 Weeks | lopinavir/ritonavirb 400 mg/100 mg (twice daily) with tenofovir DF/emtricitabine (once daily)a (n=437) 96 Weeks |
 | --- | --- | --- |
 | Responderc,d,e | 75% | 68% |
 | Virologic failuref | 17% | 19% |

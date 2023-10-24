@@ -61,4 +61,4 @@ Atazanavir can also be passed to the baby in breast milk and it is not known whe
 
 Manufactured for: Laurus Generics Inc. 400 Connell Drive Suite 5200 Berkeley Heights, NJ 07922
 
-Manufactured by: Laurus Labs Limited Visakhapatnam-531011 India
+Manufactured by: Laurus Labs Limited Anakapalli-531011 India
