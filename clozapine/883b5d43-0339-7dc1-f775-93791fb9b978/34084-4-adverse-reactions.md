@@ -52,7 +52,7 @@ These rates are not adjusted for duration of exposure.
 Table 10.
 Adverse Reactions (≥ 2%) Reported in Clozapine Tablets-Treated Patients (N = 842) Across all Clozapine Tablets Studies (excluding the 2-year InterSePT™ Study)
 
-| Body System Adverse Reaction | Clozapine TabletsN = 842Percentage of Patients |
+| Body System Adverse ReactionRate based on population of approximately 1700 exposed during premarket clinical evaluation of clozapine tablets. | Clozapine TabletsN = 842Percentage of Patients |
 | --- | --- |
 | Central Nervous System |  |
 | Drowsiness/Sedation | 39 |
@@ -64,7 +64,7 @@ Adverse Reactions (≥ 2%) Reported in Clozapine Tablets-Treated Patients (N = 8
 | Restlessness | 4 |
 | Hypokinesia/Akinesia | 4 |
 | Agitation | 4 |
-| Seizures (convulsions) | 3Rate based on population of approximately 1700 exposed during premarket clinical evaluation of clozapine tablets. |
+| Seizures (convulsions) | 3 |
 | Rigidity | 3 |
 | Akathisia | 3 |
 | Confusion | 3 |
@@ -133,7 +133,7 @@ Central Nervous System: Delirium, EEG abnormal, myoclonus, paresthesia, possible
 
 Cardiovascular System: Atrial or ventricular fibrillation, ventricular tachycardia, palpitations, QT interval prolongation, Torsades de Pointes, mitral valve incompetence associated with clozapine-related cardiomyopathy, myocardial infarction, cardiac arrest, myocarditis, and periorbital edema.
 
-Endocrine System: Pseudopheochromocytoma.
+Endocrine System: Pseudopheochromocytoma
 
 Gastrointestinal System: Acute pancreatitis, dysphagia, salivary gland swelling, colitis, megacolon, and intestinal ischemia, infarction, perforation, ulceration or necrosis.
 

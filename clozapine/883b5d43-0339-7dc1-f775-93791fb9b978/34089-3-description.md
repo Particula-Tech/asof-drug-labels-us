@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Clozapine, an atypical antipsychotic drug, is a tricyclic dibenzodiazepine derivative, 8-chloro-11-(4-methyl-1-piperazinyl)-5H-dibenzo [b,e] [1,4] diazepine.
+Clozapine, an atypical antipsychotic drug, is a tricyclic dibenzodiazepine derivative, 8-Chloro-11-(4-methyl-1-piperazinyl)-5H-dibenzo [b,e] [1,4] diazepine.
 The structural formula is:
 
 Clozapine is available in peach tablets of 25 mg or green tablets of 50 mg, 100 mg or 200 mg for oral administration.

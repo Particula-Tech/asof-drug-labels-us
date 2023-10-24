@@ -14,8 +14,8 @@ Orthostatic Hypotension, Bradycardia, Syncope
 
 Orthostatic hypotension, bradycardia, syncope, and cardiac arrest have occurred with clozapine tablets treatment.
 The risk is highest during the initial titration period, particularly with rapid dose escalation.
-These reactions can occur with the first dose, with doses as low as 12.5 mg per day.
-Initiate treatment at 12.5 mg once or twice daily; titrate slowly; and use divided dosages.
+These reactions can occur with the first dose, with doses as low as 12.5 mg per day, or when restarting patients who have had even a brief interruption in treatment with clozapine tablets.
+Initiate treatment at 12.5 mg once or twice daily; titrate slowly; and use divided dosages to minimize risk.
 Use clozapine tablets cautiously in patients with cardiovascular or cerebrovascular disease or conditions predisposing to hypotension (e.g., dehydration, use of antihypertensive medications) [see Dosage and Administration (2.2, 2.5), Warnings and Precautions (5.3)].
 
 Seizures

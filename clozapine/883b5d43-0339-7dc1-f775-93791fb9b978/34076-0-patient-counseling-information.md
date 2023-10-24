@@ -13,8 +13,8 @@ Discuss the following issues with patients and caregivers:
   - -Clozapine tablets are available only from certified pharmacies participating in the program.
     Provide patients (and caregivers) with website information and the telephone number on how to obtain the product (www.clozapineREMS.com or 1-888-586-0758) [see Warnings and Precautions (5.2)].
 - •Orthostatic Hypotension, Bradycardia, and Syncope: Inform patients and caregivers about the risk of orthostatic hypotension and syncope, especially during the period of initial dose titration.
-  Instruct them to strictly follow the clinician’s instructions for dosage and administration.
-  Advise patients to consult their clinician immediately if they feel faint, lose consciousness or have signs or symptoms suggestive of bradycardia or arrhythmia [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+  Instruct them to strictly follow the clinician’s instructions for dosage and administration [see Dosage and Administration (2.2, 2.5)].
+  Advise patients to consult their clinician immediately if they feel faint, lose consciousness or have signs or symptoms suggestive of bradycardia or arrhythmia [see Warnings and Precautions (5.3)].
 - •Seizures: Inform patients and caregivers about the significant risk of seizure during clozapine tablets treatment.
   Caution them about driving and any other potentially hazardous activity while taking clozapine tablets [see Warnings and Precautions (5.5)].
 - •Gastrointestinal Hypomotility with Severe Complications: Educate patients and caregivers on the risks, prevention and treatment of clozapine-induced constipation, including medications to avoid when possible (e.g., drugs with anticholinergic activity).
@@ -42,6 +42,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75096407
+750XXXX
 
-Revised: 2/2023 MXA:CLOZ:R4
+Revised: 7/2023 MXA:CLOZ:R5

@@ -107,8 +107,10 @@ The total daily dose can be increased in increments of 25 mg to 50 mg per day, i
 Subsequently, the dose can be increased weekly or twice weekly, in increments of up to 100 mg.
 The maximum dose is 900 mg per day.
 Use cautious titration and a divided dosage schedule to minimize the risk of serious cardiovascular reactions [see Dosage and Administration (2.2)].
+
 Consider reducing the dose if hypotension occurs.
-When restarting patients who have had even a brief interval off clozapine tablets (i.e., 2 days or more since the last dose), re-initiate treatment at 12.5 mg once daily or twice daily [see Dosage and Administration (2.5)].
+When restarting clozapine tablets in patients who have had even a brief interruption in treatment with clozapine tablets, the dosage must be reduced.
+This is necessary to minimize the risk of hypotension, bradycardia, and syncope [see Dosage and Administration (2.5)].
 
 Use clozapine tablets cautiously in patients with cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension (e.g., concomitant use of antihypertensives, dehydration and hypovolemia).
 
@@ -159,7 +161,7 @@ Clozapine tablets are not approved for the treatment of patients with dementia-r
 
 Severe gastrointestinal adverse reactions have occurred with the use of clozapine tablets, primarily due to its potent anticholinergic effects and resulting gastrointestinal hypomotility.
 In post marketing experience, reported effects range from constipation to paralytic ileus.
-Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, which can result in fecal impaction, megacolon and intestinal obstruction, ischemia, infarction, perforation, ulceration or necrosis [see Adverse Reaction (6.2)].
+Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, which can result in fecal impaction, megacolon and intestinal obstruction, ischemia, infarction, perforation, ulceration, or necrosis [see Adverse Reaction (6.2)].
 These reactions have resulted in hospitalization, surgery, and death.
 The risk of severe adverse reactions is further increased with anticholinergic medications (and other medications that decrease gastrointestinal peristalsis); therefore, concomitant use should be avoided when possible [see Warnings and Precautions (5.16), Drug Interactions (7.1)].
 
@@ -196,7 +198,7 @@ Prior to initiating treatment with clozapine tablets, perform a careful physical
 Consider obtaining a baseline ECG and serum chemistry panel.
 Correct electrolyte abnormalities.
 Discontinue clozapine tablets if the QTc interval exceeds 500 msec.
-If patients experience symptoms consistent with Torsades de Pointes or other arrhythmias (e.g., syncope, presyncope, dizziness, or palpitations), obtain a cardiac evaluation and discontinue clozapine tablets.
+If patients experience symptoms consistent with Torsades de Pointes, or other arrhythmias (e.g., syncope, presyncope, dizziness, or palpitations), obtain a cardiac evaluation and discontinue clozapine tablets.
 
 Use caution when administering concomitant medications that prolong the QT interval or inhibit the metabolism of clozapine tablets.
 Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmic medications (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus).
