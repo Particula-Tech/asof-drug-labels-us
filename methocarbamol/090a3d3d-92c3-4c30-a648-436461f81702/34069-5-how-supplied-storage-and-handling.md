@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-ROBAXIN Injectable (100 mg/mL) supplied in – 10 mL single dose vials in packages of 25 (NDC 0641-6103-25).
+ROBAXIN Injectable (100 mg/mL) supplied in – 10 mL single dose vials in packages of 10 (NDC 0641-6103-10).
 
 Store at 20°- 25°C (68°- 77°F), excursions permitted to 15°- 30°C (59°- 86°F).
 
@@ -12,8 +12,8 @@ For Product Inquiry call 1-877-845-0689.
 
 Manufactured by:
 
-WEST-WARD A HIKMA COMPANY Eatontown, NJ 07724 USA
+WEST-WARD A HIKMA COMPANY Berkeley Heights, NJ 07922
 
-Revised October 2017
+Revised February 2023
 
-462-153-03
+462-153-05
