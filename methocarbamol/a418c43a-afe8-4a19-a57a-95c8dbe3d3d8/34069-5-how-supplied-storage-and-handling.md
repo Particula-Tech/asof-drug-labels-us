@@ -12,10 +12,10 @@ For Product Inquiry call 1-877-845-0689.
 
 Manufactured by:
 
-WEST-WARD A HIKMA COMPANY Eatontown, NJ 07724 USA
+Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
 NOVAPLUS is a registered trademark of Vizient, Inc. NOVAPLUS®
 
-Issued September 2017
+Revised February 2023
 
-462-768-00
+462-768-01
