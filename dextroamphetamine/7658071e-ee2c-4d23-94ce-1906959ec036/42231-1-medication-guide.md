@@ -148,8 +148,8 @@ How should I store Dextroamphetamine Sulfate Oral Solution?
 - Store Dextroamphetamine Sulfate Oral Solution at room temperature between 68° to 77°F (20° to 25°C).
 - Store Dextroamphetamine Sulfate Oral Solution in a safe place, like a locked cabinet.
   Protect from light.
-- Dispose of remaining, unused, or expired Dextroamphetamine Sulfate Oral Solution by a medicine take-back program at an authorized collection site.
-  If no take-back program is available, mix Dextroamphetamine Sulfate Oral Solution with an undesirable, nontoxic substance such as dirt, cat litter, or used coffee grounds to make it less appealing to children and pets.
+- Dispose of remaining, unused, or expired Dextroamphetamine Sulfate Oral Solution by a medicine take-back program at a U.S. Drug Enforcement Administration (DEA) authorized collection site.
+  If no takeback program or DEA authorized collector is available, mix Dextroamphetamine Sulfate Oral Solution with an undesirable, nontoxic substance such as dirt, cat litter, or used coffee grounds to make it less appealing to children and pets.
   Place the mixture in a container such as a sealed plastic bag and throw away Dextroamphetamine Sulfate Oral Solution in the household trash.
   Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
 
@@ -161,7 +161,7 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 Do not use Dextroamphetamine Sulfate Oral Solution for a condition for which it was not prescribed.
 Do not give Dextroamphetamine Sulfate Oral Solution to other people, even if they have the same symptoms that you or your child have.
 It may harm them and it is against the law.
-You can ask your pharmacist or healthcare provider for information about Dextroamphetamine Sulfate Oral Solution that is written for health professionals.
+You can ask your healthcare provider or pharmacist for information about Dextroamphetamine Sulfate Oral Solution that is written for health professionals.
 
 What are the ingredients in Dextroamphetamine Sulfate Oral Solution?
 
@@ -175,15 +175,13 @@ Tris Pharma, Inc.
 
 Monmouth Junction, NJ 08852
 
-www.trispharma.com
-
 For more information about Dextroamphetamine Sulfate Oral Solution, please contact Tris Pharma, Inc. at 1-732-940-0358 or go to www.trispharma.com.
 
-LB8255
+LB8256
 
 Rev.
-08
+06
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 06/2023
+Revised: 09/2023
