@@ -6,7 +6,7 @@ Dexamethasone Sodium Phosphate Injection, USP is available in the following pack
 
 1 mL vials packaged in 25s (NDC 0641-6145-25)
 
-5 mL vials packaged in 25s (NDC 0641-6146-25)
+5 mL vials packaged in 10s (NDC 0641-6146-10)
 
 10 mg/mL
 
@@ -24,8 +24,8 @@ To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at
 
 For Product Inquiry call 1-877-845-0689.
 
-Manufactured by: Hikma Pharmaceuticals USA Inc. Eatontown, NJ 07724 USA
+Manufactured by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922 USA
 
-Revised December 2019
+Revised December 2022
 
-462-331-06
+462-331-07
