@@ -74,7 +74,7 @@ With the same VYVANSE dose, mean steady state exposure of dextroamphetamine was 
 
 BED
 
-Safety and effectiveness of VYVANSE have not been established in patients less than 18 years of age.
+Safety and effectiveness of VYVANSE have not been established in pediatric patients with BED less than 18 years of age.
 
 Growth Suppression
 

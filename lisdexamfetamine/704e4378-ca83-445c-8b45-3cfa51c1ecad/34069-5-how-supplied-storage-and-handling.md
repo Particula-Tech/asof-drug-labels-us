@@ -25,10 +25,5 @@ VYVANSE (lisdexamfetamine dimesylate) chewable tablets:
 
 Dispense in a tight, light-resistant container as defined in the USP.
 
-Store at room temperature, 20ºC to 25ºC (68ºF to 77ºF).
-Excursions permitted between 15ºC and 30ºC (59 to 86ºF) [see USP Controlled Room Temperature].
-
-Disposal
-
-Comply with local laws and regulations on drug disposal of CNS stimulants.
-Dispose of remaining, unused, or expired VYVANSE by a medicine take-back program.
+Store at room temperature, 20°C to 25°C (68°F to 77°F).
+Excursions permitted between 15°C and 30°C (59°F to 86°F) [see USP Controlled Room Temperature].

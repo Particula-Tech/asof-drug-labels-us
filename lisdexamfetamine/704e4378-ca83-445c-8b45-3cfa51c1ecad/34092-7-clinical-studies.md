@@ -46,7 +46,7 @@ Subjects on VYVANSE also showed greater improvement on the Clinical Global Impre
 
 Pediatric Patients Ages 6 to 17 Years: Maintenance Treatment in ADHD
 
-Maintenance of Efficacy Study (Study 6) - A double-blind, placebo-controlled, randomized withdrawal study was conducted in pediatric patients ages 6 to 17 years (N=276) who met the diagnosis of ADHD (DSM-IV criteria).
+Maintenance of Efficacy Study (Study 6) – A double-blind, placebo-controlled, randomized withdrawal study was conducted in pediatric patients ages 6 to 17 years (N=276) who met the diagnosis of ADHD (DSM-IV criteria).
 A total of 276 patients were enrolled into the study, 236 patients participated in Study 5 and 40 subjects directly enrolled.
 Subjects were treated with open-label VYVANSE for at least 26 weeks prior to being assessed for entry into the randomized withdrawal period.
 Eligible patients had to demonstrate treatment response as defined by CGI-S <3 and Total Score on the ADHD-RS ≤22.
@@ -91,25 +91,25 @@ Table 6: Summary of Primary Efficacy Results from Short-term Studies of VYVANSE 
 
 | Study Number (Age range) | Primary Endpoint | Treatment Group | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- | --- |
-| Study 1 (6 - 12 years) | ADHD-RS-IV | VYVANSE (30 mg/day)Doses statistically significantly superior to placebo. | 43.2 (6.7) | -21.8 (1.6) | -15.6 (-19.9, -11.2) |
+| Study 1 (6 – 12 years) | ADHD-RS-IV | VYVANSE (30 mg/day)Doses statistically significantly superior to placebo. | 43.2 (6.7) | -21.8 (1.6) | -15.6 (-19.9, -11.2) |
 | VYVANSE (50 mg/day) | 43.3 (6.7) | -23.4 (1.6) | -17.2 (-21.5, -12.9) |  |  |
 | VYVANSE (70 mg/day) | 45.1(6.8) | -26.7 (1.5) | -20.5 (-24.8, -16.2) |  |  |
 | Placebo | 42.4 (7.1) | -6.2 (1.6) | -- |  |  |
-| Study 2 (6 - 12 years) | Average SKAMP-DS | VYVANSE (30, 50 or 70 mg/day) | -- Pre-dose SKAMP-DS was not collected. | 0.8 (0.1) LS Mean for SKAMP-DS (Study 2 and 3) or PERMP (Study 8) is post-dose average score over all sessions of the treatment day, rather than change from baseline. | -0.9 (-1.1, -0.7) |
+| Study 2 (6 – 12 years) | Average SKAMP-DS | VYVANSE (30, 50 or 70 mg/day) | -- Pre-dose SKAMP-DS was not collected. | 0.8 (0.1) LS Mean for SKAMP-DS (Study 2 and 3) or PERMP (Study 8) is post-dose average score over all sessions of the treatment day, rather than change from baseline. | -0.9 (-1.1, -0.7) |
 | Placebo | -- | 1.7 (0.1) | -- |  |  |
-| Study 3 (6 - 12 years) | Average SKAMP-DS | VYVANSE (30, 50 or 70 mg/day) | 0.9 (1.0)Pre-dose SKAMP-DS (Study 3) or PERMP (Study 8) total score, averaged over both periods. | 0.7 (0.1) | -0.7 (-0.9, -0.6) |
+| Study 3 (6 – 12 years) | Average SKAMP-DS | VYVANSE (30, 50 or 70 mg/day) | 0.9 (1.0)Pre-dose SKAMP-DS (Study 3) or PERMP (Study 8) total score, averaged over both periods. | 0.7 (0.1) | -0.7 (-0.9, -0.6) |
 | Placebo | 0.7 (0.9) | 1.4 (0.1) | -- |  |  |
-| Study 4 (13 - 17 years) | ADHD-RS-IV | VYVANSE (30 mg/day) | 38.3 (6.7) | -18.3 (1.2) | -5.5 (-9.0, -2.0) |
+| Study 4 (13 – 17 years) | ADHD-RS-IV | VYVANSE (30 mg/day) | 38.3 (6.7) | -18.3 (1.2) | -5.5 (-9.0, -2.0) |
 | VYVANSE (50 mg/day) | 37.3 (6.3) | -21.1 (1.3) | -8.3 (-11.8, -4.8) |  |  |
 | VYVANSE (70 mg/day) | 37.0 (7.3) | -20.7 (1.3) | -7.9 (-11.4, -4.5) |  |  |
 | Placebo | 38.5 (7.1) | -12.8 (1.2) | -- |  |  |
-| Study 5 (6 - 17 years) | ADHD-RS-IV | VYVANSE (30, 50 or 70 mg/day) | 40.7 (7.3) | -24.3 (1.2) | -18.6 (-21.5, -15.7) |
+| Study 5 (6 – 17 years) | ADHD-RS-IV | VYVANSE (30, 50 or 70 mg/day) | 40.7 (7.3) | -24.3 (1.2) | -18.6 (-21.5, -15.7) |
 | Placebo | 41.0 (7.1) | -5.7 (1.1) | -- |  |  |
-| Study 7 (18 - 55 years) | ADHD-RS-IV | VYVANSE (30 mg/day) | 40.5 (6.2) | -16.2 (1.1) | -8.0 (-11.5, -4.6) |
+| Study 7 (18 – 55 years) | ADHD-RS-IV | VYVANSE (30 mg/day) | 40.5 (6.2) | -16.2 (1.1) | -8.0 (-11.5, -4.6) |
 | VYVANSE (50 mg/day) | 40.8 (7.3) | -17.4 (1.0) | -9.2 (-12.6, -5.7) |  |  |
 | VYVANSE (70 mg/day) | 41.0 (6.0) | -18.6 (1.0) | -10.4 (-13.9, -6.9) |  |  |
 | Placebo | 39.4 (6.4) | -8.2 (1.4) | -- |  |  |
-| Study 8 (18 - 55 years) | Average PERMP | VYVANSE (30, 50 or 70 mg/day) | 260.1 (86.2) | 312.9 (8.6) | 23.4 (15.6, 31.2) |
+| Study 8 (18 – 55 years) | Average PERMP | VYVANSE (30, 50 or 70 mg/day) | 260.1 (86.2) | 312.9 (8.6) | 23.4 (15.6, 31.2) |
 | Placebo | 261.4 (75.0) | 289.5 (8.6) | -- |  |  |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval. |  |  |  |  |  |
 
