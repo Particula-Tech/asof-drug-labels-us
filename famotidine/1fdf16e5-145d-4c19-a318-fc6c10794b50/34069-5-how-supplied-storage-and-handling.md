@@ -2,7 +2,7 @@
 
 FOR INTRAVENOUS USE ONLY Famotidine Injection, USP 10 mg/mL is available in the following: Containing no preservative 2 mL (20 mg) Single Dose Vial packaged in 25s (NDC 0641-6022-25)
 
-Containing benzyl alcohol as preservative 4 mL (40 mg) Two Dose Vial packaged in 25s (NDC 0641-6023-25) 20 mL Multiple Dose Vial packaged in 10s (NDC 0641-6021-10)
+Containing benzyl alcohol as preservative 4 mL (40 mg) Two Dose Vial packaged in 10s (NDC 0641-6023-10) 20 mL Multiple Dose Vial packaged in 10s (NDC 0641-6021-10)
 
 ## Storage
 

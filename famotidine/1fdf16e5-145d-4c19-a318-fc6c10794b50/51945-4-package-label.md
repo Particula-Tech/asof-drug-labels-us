@@ -8,7 +8,7 @@ NDC 0641-6022-25 Rx only Famotidine Injection, USP 20 mg per 2 mL (10 mg/mL) For
 
 NDC 0641-6023-01 Rx only Famotidine Injection, USP 40 mg per 4 mL (10 mg/mL) For the preparation of Intravenous solutions 4 mL Two Dose Vial
 
-NDC 0641-6023-25 Rx only Famotidine Injection, USP 40 mg per 4 mL (10 mg/mL) For the preparation of Intravenous solutions 25 x 4 mL Two Dose Vials
+NDC 0641-6023-10 Rx only Famotidine Injection, USP 40 mg per 4 mL (10 mg/mL) For the preparation of Intravenous solutions 10 x 4 mL Two Dose Vials
 
 # PRINCIPAL DISPLAY PANEL
 
