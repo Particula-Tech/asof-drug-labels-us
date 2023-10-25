@@ -2,31 +2,27 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-Controlled Substance Status/Potential for Abuse and Dependence
+Abuse, Misuse, and Addiction
 
-Advise patients that XELSTRYM is a federally controlled substance and it can be abused and lead to dependence [see DRUG ABUSE AND DEPENDENCE (9.1, 9.2, and 9.3)].
-Instruct patients that they should not give XELSTRYM to anyone else.
-Advise patients to store XELSTRYM in a safe place, preferably locked, to prevent abuse.
-Advise patients to comply with laws and regulations on drug disposal.
-Advise patients to dispose of remaining, unused or expired XELSTRYM through a medicine take-back program if available.
-If no take-back program or authorized collector is available, each unused transdermal system should be removed from its individual pouch, separated from the protective liner, folded in half, and disposed of in the same manner as used transdermal systems [see WARNINGS AND PRECAUTIONS (5.1), DRUG ABUSE AND DEPENDENCE (9.2, 9.3), and HOW SUPPLIED/STORAGE AND HANDLING (16)].
+Educate patients and their families about the risks of abuse, misuse, and addiction of XELSTRYM, which can lead to overdose and death, and proper disposal of any unused drug [see WARNINGS AND PRECAUTIONS (5.1), DRUG ABUSE AND DEPENDENCE (9.2), OVERDOSAGE (10)].
+Advise patients to store XELSTRYM in a safe place, preferably locked, and instruct patients to not give XELSTRYM to anyone else.
 
-Serious Cardiovascular Risks
+Risks to Patients with Serious Cardiac Disease
 
-Advise patients that there is a potential serious cardiovascular risk including sudden death, myocardial infarction, stroke, and hypertension with XELSTRYM.
-Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see WARNINGS AND PRECAUTIONS (5.2).
+Advise patients that there are potential risks to patients with serious cardiac disease, including sudden death, with XELSTRYM use.
+Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see WARNINGS AND PRECAUTIONS (5.2)].
 
-Blood Pressure and Heart Rate Increases
+Increased Blood Pressure and Heart Rate
 
-Advise patients that XELSTRYM can elevate blood pressure and heart rate [WARNINGS AND PRECAUTIONS (5.3)].
+Advise patients that XELSTRYM can elevate blood pressure and heart rate [see WARNINGS AND PRECAUTIONS (5.3)].
 
-Psychiatric Risks
+Psychiatric Adverse Reactions
 
-Advise patients that XELSTRYM, at recommended doses, can cause psychotic or manic symptoms, even in patients without prior history of psychotic symptoms or mania [WARNINGS AND PRECAUTIONS (5.4)].
+Advise patients that XELSTRYM, at recommended doses, can cause psychotic or manic symptoms, even in patients without prior history of psychotic symptoms or mania [see WARNINGS AND PRECAUTIONS (5.4)].
 
-Suppression of Growth
+Long-Term Suppression of Growth in Pediatric Patients
 
-Advise patients that XELSTRYM may cause slowing of growth including weight loss [WARNINGS AND PRECAUTIONS (5.5)].
+Advise patients that XELSTRYM may cause slowing of growth including weight loss [see WARNINGS AND PRECAUTIONS (5.5)].
 
 Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]
 
@@ -37,7 +33,7 @@ Further clinical evaluation (e.g. rheumatology referral) may be appropriate for 
 
 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome with concomitant use of XELSTRYM and other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort, and with drugs that impair metabolism of serotonin (in particular MAOIs, both those intended to treat psychiatric disorders and also others such as linezolid [see CONTRAINDICATIONS (4), [see WARNINGS AND PRECAUTIONS (5.7)] and DRUG INTERACTIONS (7.1)].
+Caution patients about the risk of serotonin syndrome with concomitant use of XELSTRYM and other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort, and with drugs that impair metabolism of serotonin (in particular MAOIs, both those intended to treat psychiatric disorders and also others such as linezolid [see CONTRAINDICATIONS (4), WARNINGS AND PRECAUTIONS (5.7) and DRUG INTERACTIONS (7.1)].
 Advise patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome.
 
 Application Site Reactions
@@ -50,7 +46,12 @@ Discontinue XELSTRYM if contact sensitization is suspected [see WARNINGS AND PRE
 
 External Heat
 
-Inform patients to avoid exposing XELSTRYM to external heat sources, such as hair dryers, heating pads, electric blankets, heated water beds, etc., [see WARNINGS AND PRECAUTIONS (5.10)].
+Inform patients to avoid exposing XELSTRYM to external heat sources, such as hair dryers, heating pads, electric blankets, heated water beds, etc. [see WARNINGS AND PRECAUTIONS (5.10)].
+
+Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
+
+Advise patients that motor and verbal tics and worsening of Tourette’s Syndrome may occur during treatment with XELSTRYM.
+Instruct patients to notify their healthcare provider if emergence of new tics or worsening of tics or Tourette’s syndrome occurs [see WARNINGS AND PRECAUTIONS (5.11)].
 
 Concomitant Medications
 
@@ -84,7 +85,5 @@ Inform patients/caregivers:
 - to apply XELSTRYM to clean, dry, and intact skin.
 - to wash their hands immediately if they touch the adhesive side of the transdermal system to avoid amphetamine absorption and to check XELSTRYM periodically throughout the wear time [see DOSAGE AND ADMINISTRATION (2.3)].
 
-Advise patients/caregivers to follow recommendations for discarding used and unused XELSTRYM [see DOSAGE AND ADMINISTRATION (2.4)].
-
 Manufactured by: Noven Pharmaceuticals, Inc., Miami, FL 33186 For more information, go to www.xelstrym.com or call 1-800-455-8070.
-XelstrymTM is a trademark of Noven Therapeutics, LLC. © 2022 Noven Pharmaceuticals, Inc. 102668-1
+Xelstrym® is a registered trademark of Noven Therapeutics, LLC. © 2023 Noven Pharmaceuticals, Inc. 102668-2

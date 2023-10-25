@@ -4,16 +4,17 @@ The following adverse reactions are discussed in greater detail in other section
 
 - Known hypersensitivity to amphetamine products or other ingredients of XELSTRYM [see CONTRAINDICATIONS (4)]
 - Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see CONTRAINDICATIONS (4) and DRUG INTERACTIONS (7.1)]
-- Drug Dependence [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1) and DRUG ABUSE AND DEPENDENCE (9.2, 9.3)]
-- Serious Cardiovascular Reactions [see WARNINGS AND PRECAUTIONS (5.2)]
-- Blood Pressure and Heart Rate Increases [see WARNINGS AND PRECAUTIONS (5.3)]
+- Abuse, Misuse, and Addiction [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1) and DRUG ABUSE AND DEPENDENCE (9.2, 9.3)]
+- Risks to Patients with Serious Cardiac Disease [see WARNINGS AND PRECAUTIONS (5.2)]
+- Increased Blood Pressure and Heart Rate [see WARNINGS AND PRECAUTIONS (5.3)]
 - Psychiatric Adverse Reactions [see WARNINGS AND PRECAUTIONS (5.4)]
-- Suppression of Growth [see WARNINGS AND PRECAUTIONS (5.5)]
+- Long-Term Suppression of Growth in Pediatric Patients [see WARNINGS AND PRECAUTIONS (5.5)]
 - Peripheral Vasculopathy, including Raynaud's phenomenon [see WARNINGS AND PRECAUTIONS (5.6)]
 - Serotonin Syndrome [see WARNINGS AND PRECAUTIONS (5.7)]
 - Contact Sensitization [see WARNINGS AND PRECAUTIONS (5.8)]
 - Application Site Reactions [see WARNINGS AND PRECAUTIONS (5.9)]
 - Use of External Heat [see WARNINGS AND PRECAUTIONS (5.10)]
+- Motor and Verbal Tics, and Worsening of Tourette’s Syndrome [see WARNINGS AND PRECAUTIONS (5.11)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -32,15 +33,13 @@ There were no discontinuations due to adverse reactions during the double-blind 
 
 Adverse Reactions Occurring at an Incidence of 5% or More in XELSTRYM Treated Pediatric Patients Ages 6 to 17 Years During Dose-optimized Treatment
 
-Adverse reactions (incidence of ≥ 5%) that occurred during the dose-optimization phase of the clinical study include: decreased appetite (54%), insomnia1 (32%), headache (21%), irritability (16%), abdominal pain2 (16%) affect lability3 (16%), application site pain4 (13%), nausea (9%), application site pruritus (7%), and fatigue (5%).
+Adverse reactions (incidence of 5%) that occurred during the dose-optimization phase of the clinical study include: decreased appetite (54%), insomniainsomnia includes insomnia, delayed sleep phase, initial insomnia, middle insomnia, and terminal insomnia (32%), headache (21%), irritability (16%), abdominal painabdominal pain includes abdominal pain and abdominal pain upper (16%) affect labilityaffect lability includes affect lability, emotional disorder, mood swings, and mood altered (16%), application site painapplication site pain includes application site pain and application site burn (13%), nausea (9%), application site pruritus (7%), and fatigue (5%).
 
-1insomnia includes insomnia, delayed sleep phase, initial insomnia, middle insomnia, and terminal insomnia 2abdominal pain includes abdominal pain and abdominal pain upper 3affect lability includes affect lability, emotional disorder, mood swings, and mood altered 4application site pain includes application site pain and application site burn
+Adverse Reactions Occurring at an Incidence of 2% or More of XELSTRYM-Treated Pediatric Patients Ages 6 to 17 Years During Double-blind Treatment
 
-Adverse Reactions Occurring at an Incidence of 2% or More of XELSTRYM Treated Pediatric Patients Ages 6 to 17 Years During Double-blind Treatment
+Adverse reactions (incidence of 2% and incidence greater than placebo) that occurred during the double-blind, placebo-controlled phase of the clinical study are shown in Table 1.
 
-Adverse reactions (incidence of ≥ 2% and incidence greater than placebo) that occurred during the double-blind, placebo-controlled phase of the clinical study are shown in Table 1.
-
-Table 1 Adverse Reactions Reported by ≥ 2% of Pediatric Patients 6 to 17 Years with ADHD Receiving XELSTRYM and Greater Incidence Than Placebo in the Double-Blind Phase
+Table 1: Adverse Reactions Reported by 2% of Pediatric Patients 6 to 17 Years with ADHD Receiving XELSTRYM and Greater Incidence Than Placebo in the Double-Blind Phase
 
 | System Organ Class Preferred Term | XELSTRYM All Doses (n = 105) % | Placebo (n = 105) % |
 | --- | --- | --- |
@@ -49,7 +48,7 @@ Table 1 Adverse Reactions Reported by ≥ 2% of Pediatric Patients 6 to 17 Years
 | Nervous system disorders |  |  |
 | Headache | 6 | 4 |
 | Psychiatric disorders |  |  |
-| Insomnia | 8 | 6 |
+| Insomnia* | 8 | 6 |
 | Affect lability | 3 | 0 |
 | Tic | 2 | 0 |
 | Gastrointestinal Disorders |  |  |
@@ -57,11 +56,11 @@ Table 1 Adverse Reactions Reported by ≥ 2% of Pediatric Patients 6 to 17 Years
 | Abdominal pain* | 4 | 2 |
 | Nausea | 3 | 1 |
 | General disorders and administration site conditions |  |  |
-| Iritability | 2 | 1 |
+| Irritability | 2 | 1 |
 | Investigations/Cardiac Disorders |  |  |
 | Blood pressure increased* | 2 | 1 |
 | Heart rate increased* | 2 | 0 |
-| *The following terms were combined: insomnia includes insomnia, delayed sleep phase, initial insomnia, middle insomnia, and terminal insomnia abdominal pain includes abdominal pain and abdominal pain upper affect lability includes affect lability, emotional disorder, mood swings, and mood altered application site pain includes application site pain and application site burn |  |  |
+| *The following terms were combined:Insomnia includes insomnia, delayed sleep phase, initial insomnia, middle insomnia, and terminal insomnia Abdominal pain includes abdominal pain and abdominal pain upper Blood pressure increased includes blood pressure increased and blood pressure systolic increased Heart rate increased includes heart rate increased and tachycardia |  |  |
 
 Application Site Reactions
 
@@ -70,7 +69,7 @@ During the wear time or immediately after removal of XELSTRYM, patients experien
 
 Patients who experienced discomfort and pain at the application site during the wear time reported resolution within 2 to 4 hours after XELSTRYM application.
 Most dermal irritation was limited to the site of application.
-All patients who reported application site reactions in the 7- week pediatric classroom study continued to use XELSTRYM, and there were no discontinuations from the study due to application site reactions.
+All patients who reported application site reactions in the 7-week pediatric classroom study continued to use XELSTRYM, and there were no discontinuations from the study due to application site reactions.
 
 During the dose-optimization phase of the clinical study, 45% of patients reported application site discomfort associated with the use of XELSTRYM in daily patient diaries; 72% of patients reported discomfort at clinic visit assessments; and 13% of patients reported severe discomfort at clinic visit assessments.
 XELSTRYM 4.5 mg was the starting dose for all patients undergoing titration during the dose optimization phase and the majority of application site discomfort was reported at this starting dose.
@@ -124,9 +123,9 @@ In a controlled trial of lisdexamfetamine in adults with ADHD, 6% (21/358) of li
 The most frequently reported adverse reactions (1% or more and twice rate of placebo) were insomnia (8/358; 2%), tachycardia (3/358; 1%), irritability (2/358; 1%), hypertension (4/358; 1%), headache (2/358; 1%), anxiety (2/358; 1%), and dyspnea (3/358; 1%).
 Less frequently reported adverse reactions (less than 1% or less than twice rate of placebo) included palpitations, diarrhea, nausea, decreased appetite, dizziness, agitation, depression, paranoia and restlessness.
 
-Adverse Reactions Occurring at an Incidence of ≥5% or More Among Lisdexamfetamine-Treated Patients with ADHD in Clinical Trials
+Adverse Reactions Occurring at an Incidence of 5% or More Among Lisdexamfetamine-Treated Patients with ADHD in Clinical Trials
 
-The most common adverse reactions (incidence ≥5% and at a rate at least twice placebo) were: Decreased appetite, insomnia, dry mouth, diarrhea, nausea, and anxiety.
+The most common adverse reactions (incidence 5% and at a rate at least twice placebo) were: Decreased appetite, insomnia, dry mouth, diarrhea, nausea, and anxiety.
 
 In addition, in the adult population, erectile dysfunction was observed in 2.6% of males on lisdexamfetamine and 0% on placebo; decreased libido was observed in 1.4% of subjects on lisdexamfetamine and 0% on placebo.
 
@@ -174,7 +173,7 @@ There have been isolated reports of cardiomyopathy associated with chronic amphe
 
 Eye Disorders: Vision blurred, diplopia, difficulties with visual accommodation, and mydriasis.
 
-Gastrointestinal Disorders: Dysgeusia, constipation, intestinal ischemia and other gastrointestinal disturbances.
+Gastrointestinal Disorders: Dysgeusia, constipation, intestinal ischemia, and other gastrointestinal disturbances.
 
 Hepatobiliary Disorders: Eosinophilic hepatitis.
 
@@ -183,7 +182,7 @@ Serious skin rashes, including Stevens-Johnson Syndrome and toxic epidermal necr
 
 Musculoskeletal and Connective Tissue Disorders: Rhabdomyolysis.
 
-Nervous System Disorders: Seizures, overstimulation, restlessness, dyskinesia, tremor, tics, and paresthesia (including formication).
+Nervous System Disorders: Seizures, overstimulation, restlessness, dyskinesia, tremor, motor and verbal tics, and paresthesia (including formication).
 
 Psychiatric Disorders: Psychotic episodes at recommended doses, depression, logorrhea, aggression, anger, dermatillomania, bruxism, dysphoria, euphoria, and irritability.
 

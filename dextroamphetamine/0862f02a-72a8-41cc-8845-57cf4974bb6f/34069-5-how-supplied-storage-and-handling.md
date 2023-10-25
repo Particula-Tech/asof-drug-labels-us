@@ -19,9 +19,3 @@ Protect from light.
 
 Store XELSTRYM in the individual sealed pouch until use.
 Apply immediately upon removal from the protective pouch.
-
-Disposal
-
-Comply with local laws and regulations on drug disposal of CNS stimulants.
-Dispose of remaining, unused, or expired XELSTRYM by a medicine take-back program or at authorized collector registered with the Drug Enforcement Administration.
-If no take-back program or authorized collector is available, each unused system should be removed from its individual pouch, separated from the protective liner, folded in half, and disposed of in the same manner as used systems.

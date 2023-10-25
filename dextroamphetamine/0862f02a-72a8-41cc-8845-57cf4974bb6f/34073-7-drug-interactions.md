@@ -13,9 +13,9 @@ Table 3: Drugs Having Clinically Important Interactions with Amphetamines
 | Intervention | Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during XELSTRYM initiation or dosage increase. If serotonin syndrome occurs, discontinue XELSTRYM and the concomitant serotonergic drug(s) [see WARNINGS AND PRECAUTIONS (5.7)]. |
 | CYP2D6 Inhibitors |  |
 | Clinical Impact | The concomitant use of XELSTRYM and CYP2D6 inhibitors may increase the exposure of XELSTRYM compared to the use of the drug alone, and increase the risk of serotonin syndrome. |
-| Intervention | Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during XELSTRYM initiation and after a dosage increase. If serotonin syndrome occurs, discontinue XELSTRYM and the CYP2D6 inhibitor [seeWARNINGS AND PRECAUTIONS (5.7) and OVERDOSAGE (10)]. |
+| Intervention | Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during XELSTRYM initiation and after a dosage increase. If serotonin syndrome occurs, discontinue XELSTRYM and the CYP2D6 inhibitor [see WARNINGS AND PRECAUTIONS (5.7) and OVERDOSAGE (10)]. |
 | Alkalinizing Agents |  |
-| Clinical Impact | Urinary alkalinizing agents can increase blood levels and potentiate the action of amphetamine |
+| Clinical Impact | Urinary alkalinizing agents can increase blood levels and potentiate the action of amphetamine. |
 | Intervention | Co-administration of XELSTRYM and urinary alkalinizing agents should be avoided. |
 | Acidifying Agents |  |
 | Clinical Impact | Urinary acidifying agents can lower blood levels and efficacy of amphetamines. |

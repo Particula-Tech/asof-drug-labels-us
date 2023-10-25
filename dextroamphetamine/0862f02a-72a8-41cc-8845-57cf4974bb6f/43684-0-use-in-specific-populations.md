@@ -61,9 +61,9 @@ Because of the potential for serious adverse reactions in nursing infants, inclu
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of XELSTRYM have been established in pediatric patients with ADHD ages 6 to 17 years [see ADVERSE REACTIONS (6.1), CLINICAL PHARMACOLOGY (12.3), and CLINICAL STUDIES (14)].
+The safety and effectiveness of XELSTRYM have been established in pediatric patients with ADHD ages 6 to 17 years [see ADVERSE REACTIONS (6.1), CLINICAL PHARMACOLOGY (12.3), and CLINICAL STUDIES (14)].
 
-Safety and effectiveness of XELSTRYM have not been established in pediatric patients below the age of 6 years.
+The safety and effectiveness of XELSTRYM in pediatric patients less than 6 years have not been established.
 
 Safety and efficacy of lisdexamfetamine were evaluated in a double-blind, randomized, parallel-group, placebo-controlled, fixed-dose study in pediatric patients 4 to 5 years with ADHD, followed by a 1-year open-label extension study.
 In these studies, patients experienced elevated rates of adverse reactions, including weight loss, decreased BMI, decreased appetite, insomnia, infections (upper respiratory and nasopharyngitis), irritability, and affect lability.
@@ -87,6 +87,7 @@ A delay in the developmental milestones of vaginal opening and preputial separat
 ## 8.5 Geriatric Use
 
 Clinical studies of XELSTRYM did not include subjects over 65 years to determine whether they respond differently from younger subjects.
+
 Other reported clinical experience and pharmacokinetic data [see CLINICAL PHARMACOLOGY (12.3)] have not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should start at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 

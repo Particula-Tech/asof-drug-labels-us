@@ -61,7 +61,7 @@ In addition, drugs that affect urinary pH are known to alter the elimination of 
 
 Specific Populations
 
-The shapes of pharmacokinetic profiles after XELSTRYM were generally similar between the pediatric and the adult population.
+The shapes of pharmacokinetic profiles after XELSTRYM application were generally similar between the pediatric and the adult population.
 Based on population PK, the median Cmax in pediatric patients 6 to 17 years are predicted to be 120% and 180%, respectively, the median AUC in pediatric patients are predicted to be 112% and 148%, respectively, of those in adults with a dose of 18 mg/9 hours.
 
 Exposures of dextroamphetamine in specific populations evaluated with lisdexamfetamine are summarized in Figure 3.
