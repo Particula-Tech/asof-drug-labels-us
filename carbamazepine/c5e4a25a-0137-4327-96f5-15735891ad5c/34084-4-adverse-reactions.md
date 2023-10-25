@@ -48,7 +48,7 @@ Although a direct causal relationship has not been established, many phenothiazi
 Musculoskeletal System: Aching joints and muscles, and leg cramps.
 
 Metabolism: Fever and chills.
-Hyponatremia (seeWARNINGS,General).
+Hyponatremia (see WARNINGS, General).
 Decreased levels of plasma calcium have been reported.
 Osteoporosis has been reported.
 

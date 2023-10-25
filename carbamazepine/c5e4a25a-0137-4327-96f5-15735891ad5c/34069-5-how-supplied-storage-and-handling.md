@@ -43,7 +43,7 @@ Medication Guide available at www.zydususa.com/medguides or call 1-877-993-8779.
 
 Manufactured by:
 
-Cadila Healthcare Ltd.
+Zydus Lifesciences Ltd.,
 
 Ahmedabad, India
 
@@ -53,4 +53,4 @@ Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Rev.: 11/20
+Rev.: 10/23

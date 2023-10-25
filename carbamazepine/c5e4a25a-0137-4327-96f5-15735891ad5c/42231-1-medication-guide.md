@@ -237,7 +237,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by:
 
-Cadila Healthcare Ltd.
+Zydus Lifesciences Ltd.,
 
 Ahmedabad, India
 
@@ -247,4 +247,4 @@ Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Rev.: 11/20
+Rev.: 10/23
