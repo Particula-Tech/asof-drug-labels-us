@@ -1,11 +1,11 @@
 # DOSAGE AND ADMINISTRATION
 
-## Bacterial Vaginosis
+## Bacterial Vaginosis:
 
 750 mg once daily by mouth for seven consecutive days.
 
 FLAGYL ER 750 mg tablets should be taken under fasting conditions, at least one hour before or two hours after meals.
-The optimum extended-release characteristics of FLAGYL ER 750 mg are obtained when the drug is taken under fasting conditions (See CLINICAL PHARMACOLOGY, Absorption).
+The optimum extended-release characteristics of FLAGYL ER 750 mg are obtained when the drug is taken under fasting conditions (see CLINICAL PHARMACOLOGY, Absorption).
 
 FLAGYL ER tablets should not be split, chewed, or crushed.
 

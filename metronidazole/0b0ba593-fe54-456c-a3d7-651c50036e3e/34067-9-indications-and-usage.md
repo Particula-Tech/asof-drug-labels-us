@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-## Bacterial Vaginosis (BV)
+## Bacterial Vaginosis (BV).
 
 FLAGYL ER 750 mg tablets are indicated in the treatment of BV in non-pregnant women.
 

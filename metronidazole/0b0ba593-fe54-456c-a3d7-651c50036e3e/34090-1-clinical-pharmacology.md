@@ -4,7 +4,7 @@
 
 Disposition of metronidazole in the body is similar for both oral and intravenous dosage forms.
 
-FLAGYL ER 750 mg tablets contain 750 mg of metronidazole in an extended release formulation which allows for once-daily dosing.
+FLAGYL ER 750 mg tablets contain 750 mg of metronidazole in an extended-release formulation which allows for once-daily dosing.
 The steady state pharmacokinetics were determined in 24 healthy adult female subjects with a mean ± SD age of 28.8 ± 8.8 years (range: 19–46).2 The pharmacokinetic parameters of metronidazole after administration of FLAGYL ER 750 mg under fed and fasting conditions are summarized in the following table.
 
 Steady State Pharmacokinetic Parameters of Metronidazole after 750 mg of FLAGYL ER Given Once a Day for 7 Days
@@ -18,7 +18,7 @@ Steady State Pharmacokinetic Parameters of Metronidazole after 750 mg of FLAGYL 
 | Tmax (hrs) | 4.6±2.4 | 6.8±2.8 |
 | T½ (hrs) | 7.4±1.6 | 8.7±2.2 |
 
-Relative to the fasting state, the rate of metronidazole absorption from the extended release tablet is increased in the fed state resulting in alteration of the extended release characteristics.
+Relative to the fasting state, the rate of metronidazole absorption from the extended-release tablet is increased in the fed state resulting in alteration of the extended-release characteristics.
 
 ## Distribution
 

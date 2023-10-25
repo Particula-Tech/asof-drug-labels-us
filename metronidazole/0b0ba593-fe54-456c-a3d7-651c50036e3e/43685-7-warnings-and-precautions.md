@@ -3,7 +3,7 @@
 ## Hypersensitivity Reactions
 
 Hypersensitivity reactions including toxic epidermal necrolysis (TEN), Stevens-Johnson Syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported with the use of metronidazole.
-Symptoms can be serious and potentially life threatening (see ADVERSE REACTIONS)
+Symptoms can be serious and potentially life threatening (see ADVERSE REACTIONS).
 
 ## Central and Peripheral Nervous System Effects
 
@@ -129,9 +129,9 @@ Metronidazole failed to produce any adverse effects on fertility or testicular f
 However, rats treated at the same dose for 6 weeks, or longer were infertile and showed severe degeneration of the seminiferous epithelium in the testes as well as marked decreases in testicular spermatid counts and epididymal sperm counts.
 Fertility was restored in most rats after an eight week, drug-free recovery period.
 
-## Pregnancy
+## Pregnancy:
 
-### Teratogenic effects
+### Teratogenic effects:
 
 There are no adequate and well-controlled studies of FLAGYL ER in pregnant women.
 There are published data from case-control studies, cohort studies, and 2-meta-analyses that include more than 5000 pregnant women who used metronidazole during pregnancy.
@@ -148,8 +148,11 @@ There was no evidence of harm to the fetus due to metronidazole.
 ## Nursing mothers
 
 Metronidazole is present in human milk at concentrations similar to maternal serum levels, and infant serum levels can be close to or comparable to infant therapeutic levels.
-Because of the potential for tumorigenicity shown for metronidazole in mouse and rat studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
-Alternatively, a nursing mother may choose to pump and discard human milk for the duration of metronidazole therapy, and for 24 hours after therapy ends and feed her infant stored human milk or formula.
+There are no data on the effects of metronidazole on milk production.
+Animal studies have shown the potential for tumorigenicity after oral metronidazole was administered chronically to rats and mice (see PRECAUTIONS, Carcinogenesis, Mutagenesis, Impairment of Fertility).
+This drug is not intended to be administered chronically; therefore, the clinical relevance of the findings of the animal studies is unclear.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for FLAGYL and any potential adverse effects on the breastfed infant from FLAGYL or from the underlying maternal condition.
+Alternatively, a nursing mother may choose to pump and discard human milk for the duration of FLAGYL therapy, and for 48 hours after the last dose and feed her infant stored human milk or formula.
 
 ## Geriatric use
 

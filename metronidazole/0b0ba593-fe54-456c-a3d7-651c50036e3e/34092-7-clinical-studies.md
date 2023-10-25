@@ -2,7 +2,7 @@
 
 Bacterial vaginosis (BV) is a clinical syndrome that results from a replacement of the normal, Lactobacillus-dominant flora with several other organisms including Gardnerella vaginalis, Mobiluncus spp, Mycoplasma hominis and anaerobes (Peptostreptococcus spp and Bacteroides spp).
 
-FLAGYL ER was studied in patients with BV in two randomized, multicenter, well-controlled, investigator blind clinical trials.3,4 A total of 557 otherwise healthy nonpregnant patients with BV were randomized to treatment with FLAGYL ER once a day for 7 days (n=270) or 2% clindamycin vaginal cream one applicator full (5 grams) once a day for 7 days (n=287).
+FLAGYL ER was studied in patients with BV in two randomized, multicenter, well‑controlled, investigator blind clinical trials.3,4 A total of 557 otherwise healthy nonpregnant patients with BV were randomized to treatment with FLAGYL ER once a day for 7 days (n=270) or 2% clindamycin vaginal cream one applicator full (5 grams) once a day for 7 days (n=287).
 
 The primary efficacy endpoint for each treatment regimen was defined as clinical cure assessed at 28–32 days post-therapy.
 Clinical cure was defined as a return to normal of the vaginal pH (≤4.5), absence of a "fishy" amine odor, and absence of clue cells.

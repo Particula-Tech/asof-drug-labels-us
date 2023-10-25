@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-In two multicenter clinical trials, a total of 270 patients received 750 mg FLAGYL ER tablets orally once daily for 7 days, and 287 were treated with a comparator agent administered intravaginally once daily for 7 days (See CLINICAL STUDIES).3,4
+In two multicenter clinical trials, a total of 270 patients received 750 mg FLAGYL ER tablets orally once daily for 7 days, and 287 were treated with a comparator agent administered intravaginally once daily for 7 days (see CLINICAL STUDIES).3,4
 
 Most adverse events were described as being of mild or moderate severity.
 Among patients taking FLAGYL ER who reported headaches, 10% considered them severe, and less than 2% of reported episodes of nausea were considered severe.
@@ -32,14 +32,14 @@ Adverse Events (≥2% Incidence Rate)—Irrespective of Treatment Causality
 | Mouth Dry | 5 (2%) | 2 (1%) |
 | Urinary Tract Infection | 6 (2%) | 16 (6%) |
 
-Vulvovaginal candidiasis is a recognized consequence of treatment with many anti-infective agents.
+Vulvovaginal candidiasis is a recognized consequence of treatment with many anti‑infective agents.
 In these multicenter clinical trials, there were no statistically significant differences in the incidence rates of yeast vaginitis for groups of patients treated with FLAGYL ER or the vaginal comparator.
 
 The following reactions have been reported during treatment with metronidazole:
 
 Central Nervous System: The most serious adverse reactions reported in patients treated with metronidazole have been convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity.
 Since persistent peripheral neuropathy has been reported in some patients receiving prolonged administration of metronidazole, patients should be specifically warned about these reactions and should be told to stop the drug and report immediately to their physicians if any neurologic symptoms occur.
-In addition, patients have reported headache, syncope, dizziness, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness, and insomnia (See WARNINGS).
+In addition, patients have reported headache, syncope, dizziness, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness, and insomnia (see WARNINGS).
 
 Gastrointestinal: The most common adverse reactions reported have been referable to the gastrointestinal tract, particularly nausea, sometimes accompanied by headache, anorexia, and occasionally vomiting, diarrhea, epigastric distress; abdominal cramping; and constipation.
 
