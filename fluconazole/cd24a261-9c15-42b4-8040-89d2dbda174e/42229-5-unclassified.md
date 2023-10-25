@@ -37,7 +37,7 @@ Baxter and Intravia are trademarks of Baxter International Inc. or its subsidiar
 
 Any other trademarks, product names or brand images appearing herein are the property of their respective owners.
 
-07-19-00-6305
+07-19-00-6947
 
 Rev.
-April 2023
+October 2023
