@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA215933"
+  ],
+  "inn": "loteprednol",
+  "labeler": "ARMAS PHARMACEUTICALS INC.",
+  "package_ndcs": [
+    "72485-653-05",
+    "72485-653-10"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "loteprednol etabonate",
+      "name": "Loteprednol Etabonate"
+    }
+  ],
+  "setid": "36c05fa4-6562-4af8-86ac-e79003ee65dd",
+  "source": "dailymed"
+}

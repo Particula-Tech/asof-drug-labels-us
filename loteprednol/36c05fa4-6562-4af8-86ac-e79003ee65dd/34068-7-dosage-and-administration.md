@@ -1,0 +1,5 @@
+# DOSAGE AND ADMINISTRATION
+
+SHAKE VIGOROUSLY BEFORE USING.
+
+One drop instilled into the affected eye(s) four times daily.
