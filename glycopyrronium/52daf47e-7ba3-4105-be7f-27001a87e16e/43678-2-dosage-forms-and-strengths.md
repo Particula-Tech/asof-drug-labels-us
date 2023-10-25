@@ -1,3 +1,7 @@
 # 3 DOSAGE FORMS & STRENGTHS
 
-Orally Disintegrating Tablets: 1.7 mg of glycopyrrolate, white to off-white, round, and debossed with the symbol.
+Dartisla ODT is available as:
+
+· 0.85 mg of glycopyrrolate Orally Disintegrating Tablets (white to off-white, round, and debossed with the symbol)
+
+· 1.7 mg of glycopyrrolate Orally Disintegrating Tablets (white to off-white, round, and debossed with the symbol)

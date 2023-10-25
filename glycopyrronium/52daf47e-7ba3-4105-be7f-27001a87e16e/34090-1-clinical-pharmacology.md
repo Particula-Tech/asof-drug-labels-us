@@ -23,13 +23,6 @@ Effect of Food
 In healthy adults, a high-fat, high-calorie meal (939 calories, 60% fat) significantly reduced the absorption of glycopyrrolate following administration of DARTISLA ODT 1.7 mg.
 The mean Cmax and AUC were approximately 83% and 77% lower, respectively, than those observed under fasted conditions [see Dosage and Administration (2.2)].
 
-Elimination
-
-After DARTISLA ODT 1.7 mg administration, the mean plasma half-life was 2.8 hours.
-
-Specific Populations
-
-Patients with Renal Impairment
-
-In published literature, glycopyrrolate 4 mcg/kg was administered intravenously (DARTISLA ODT is not recommended for intravenous use) in uremic patients undergoing renal transplantation surgery.
+Elimination After DARTISLA ODT 1.7 mg administration, the mean plasma half-life was 2.8 hours.
+Specific Populations Patients with Renal Impairment In published literature, glycopyrrolate 4 mcg/kg was administered intravenously (DARTISLA ODT is not recommended for intravenous use) in uremic patients undergoing renal transplantation surgery.
 The mean AUC (10.6 mcg·h/L), and 24-hour urinary excretion (7%) for glycopyrrolate were significantly different from normal healthy adult subjects undergoing general surgery (3.7 mcg·h/L, and 65%, respectively) [see Use in Specific Populations (8.6)].

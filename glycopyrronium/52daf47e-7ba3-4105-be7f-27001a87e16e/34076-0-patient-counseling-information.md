@@ -47,4 +47,4 @@ Edenbridge Pharmaceuticals, LLC
 
 Parsippany, NJ 07054
 
-© 2021 Edenbridge Pharmaceuticals, LLC
+© 2023 Edenbridge Pharmaceuticals, LLC
