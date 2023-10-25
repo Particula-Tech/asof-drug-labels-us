@@ -1,5 +1,15 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+- Hypersensitivity Adverse Reactions [see Warnings and Precautions (5.1)]
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.2)]
+- Hemophagocytic Lymphohistiocytosis [see Warnings and Precautions (5.3)]
+- Hematologic Adverse Reactions [see Warnings and Precautions (5.4)]
+- Central Nervous System Adverse Reactions [see Warnings and Precautions (5.5)]
+- Nephrotoxicity in Critically Ill Patients [see Warnings and Precautions (5.6)]
+- Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.8)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -27,8 +37,8 @@ Nosocomial Pneumonia Trials
 
 Two trials of nosocomial lower respiratory tract infections were conducted.
 In one study, 222 patients were treated with piperacillin and tazobactam in a dosing regimen of 4.5 g every 6 hours in combination with an aminoglycoside and 215 patients were treated with imipenem/cilastatin (500 mg/500 mg every 6 hours) in combination with an aminoglycoside.
-In this trial, treatment-emergent adverse events were reported by 402 patients, 204 (91.9%) in the piperacillin/tazobactam group and 198 (92.1%) in the imipenem/cilastatin group.
-Twenty-five (11.0%) patients in the piperacillin/tazobactam group and 14 (6.5%) in the imipenem/cilastatin group (p > 0.05) discontinued treatment due to an adverse event.
+In this trial, treatment-emergent adverse events were reported by 402 patients, 204 (91.9%) in the piperacillin and tazobactam group and 198 (92.1%) in the imipenem/cilastatin group.
+Twenty-five (11.0%) patients in the piperacillin and tazobactam group and 14 (6.5%) in the imipenem/cilastatin group (p > 0.05) discontinued treatment due to an adverse event.
 
 The second trial used a dosing regimen of 3.375 g given every 4 hours with an aminoglycoside.
 
@@ -49,7 +59,7 @@ Table 7: Adverse Reactions from Piperacillin and Tazobactam for Injection Plus A
 | Vascular disorders Thrombophlebitis (1.3%) Hypotension (1.3%) |  |  |  |  |  |  |  |  |  |  |  |
 | a For adverse drug reactions that appeared in both studies the higher frequency is presented. |  |  |  |  |  |  |  |  |  |  |  |
 
-Other Trials: Nephrotoxicity In a randomized, multicenter, controlled trial in 1200 adult critically ill patients, piperacillin/tazobactam was found to be a risk factor for renal failure (odds ratio 1.7, 95% CI 1.18 to 2.43), and associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs1 [see Warnings and Precautions (5.5)].
+Other Trials: Nephrotoxicity In a randomized, multicenter, controlled trial in 1200 adult critically ill patients, piperacillin and tazobactam was found to be a risk factor for renal failure (odds ratio 1.7, 95% CI 1.18 to 2.43), and associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs1 [see Warnings and Precautions (5.6)].
 Adverse Laboratory Changes (Seen During Clinical Trials)
 
 Of the trials reported, including that of nosocomial lower respiratory tract infections in which a higher dose of piperacillin and tazobactam for injection was used in combination with an aminoglycoside, changes in laboratory parameters include:
@@ -75,7 +85,7 @@ The rates of serious adverse reactions were generally similar between the pipera
 
 In addition to the adverse drug reactions identified in clinical trials in Table 6 and Table 7, the following adverse reactions have been identified during post-approval use of piperacillin and tazobactam.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Hepatobiliary—hepatitis, jaundice Hematologic—hemolytic anemia, agranulocytosis, pancytopenia Immune—hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock) Renal—interstitial nephritis Nervous system disorders—seizures Psychiatric disorders—delirium Respiratory—eosinophilic pneumonia Skin and Appendages—erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms, (DRESS), acute generalized exanthematous pustulosis (AGEP), dermatitis exfoliative Postmarketing experience with piperacillin and tazobactam in pediatric patients suggests a similar safety profile to that seen in adults.
+Hepatobiliary—hepatitis, jaundice Hematologic—hemolytic anemia, agranulocytosis, pancytopenia Immune—hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock), hemophagocytic lymphohistiocytosis (HLH) Renal—interstitial nephritis Nervous system disorders—seizures Psychiatric disorders—delirium Respiratory—eosinophilic pneumonia Skin and Appendages—erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms, (DRESS), acute generalized exanthematous pustulosis (AGEP), dermatitis exfoliative Postmarketing experience with piperacillin and tazobactam in pediatric patients suggests a similar safety profile to that seen in adults.
 
 ## 6.3 Additional Experience with Piperacillin
 

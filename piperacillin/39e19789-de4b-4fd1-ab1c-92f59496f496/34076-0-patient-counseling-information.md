@@ -4,12 +4,13 @@ Serious Hypersensitivity Reactions
 
 Advise patients, their families, or caregivers that serious hypersensitivity reactions, including serious allergic cutaneous reactions, could occur with use of piperacillin and tazobactam for injection that require immediate treatment.
 Ask them about any previous hypersensitivity reactions to piperacillin and tazobactam, other beta-lactams (including cephalosporins), or other allergens [see Warnings and Precautions (5.2)].
+Hemophagocytic Lymphohistiocytosis Prior to initiation of treatment with piperacillin and tazobactam, inform patients that excessive immune activation may occur with piperacillin and tazobactam and that they should report signs or symptoms such as fever, rash, or lymphadenopathy to a healthcare provider immediately [see Warnings and Precautions (5.3)].
 
 Diarrhea
 
 Advise patients, their families, or caregivers that diarrhea is a common problem caused by antibacterial drugs, including piperacillin and tazobactam for injection which usually ends when the drug is discontinued.
 Sometimes after starting treatment with antibacterial drugs, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the drug.
-If this occurs, patients should contact their physician as soon as possible [see Warnings and Precautions (5.7)].
+If this occurs, patients should contact their physician as soon as possible [see Warnings and Precautions (5.8)].
 
 Antibacterial Resistance
 

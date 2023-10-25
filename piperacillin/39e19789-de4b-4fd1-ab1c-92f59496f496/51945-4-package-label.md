@@ -1,6 +1,8 @@
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 2.25 grams per vial - Container Label
 
-Rx only NDC 55150-119-30 Piperacillin and Tazobactam for Injection, USP 2.25 grams per vial For Intravenous Use Only Single-Dose Vial eugia
+Rx only NDC 55150-119-30
+
+Piperacillin and Tazobactam for Injection, USP 2.25 grams per vial For Intravenous Use Only Single-Dose Vial eugia
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 2.25 grams sper vial - Container-Carton (10 Vials)
 
