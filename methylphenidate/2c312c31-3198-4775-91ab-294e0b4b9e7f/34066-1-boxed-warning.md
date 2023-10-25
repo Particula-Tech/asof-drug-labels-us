@@ -1,7 +1,8 @@
-# WARNING: DRUG DEPENDENCE
+# WARNING: ABUSE, MISUSE, AND ADDICTION
 
-DAYTRANA should be given cautiously to patients with a history of drug dependence or alcoholism.
-Chronic abusive use can lead to marked tolerance and psychological dependence with varying degrees of abnormal behavior.
-Frank psychotic episodes can occur, especially with parenteral abuse.
-Careful supervision is required during withdrawal from abusive use, since severe depression may occur.
-Withdrawal following chronic therapeutic use may unmask symptoms of the underlying disorder that may require follow-up.
+DAYTRANA has a high potential for abuse and misuse, which can lead to the development of substance use disorder, including addiction.
+Misuse and abuse of CNS stimulants, including DAYTRANA, can result in overdose and death [see Overdosage (10)], and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
+
+Before prescribing DAYTRANA, assess each patient’s risk for abuse, misuse, and addiction.
+Educate patients and their families about these risks, proper storage of the drug, and proper disposal of any unused drug.
+Throughout DAYTRANA treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction [see Warnings and Precautions (5.1) and Drug Abuse and Dependence (9.2)].

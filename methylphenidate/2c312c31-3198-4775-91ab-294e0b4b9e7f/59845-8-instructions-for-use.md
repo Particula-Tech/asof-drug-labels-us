@@ -1,17 +1,18 @@
-Instructions for Use DAYTRANA® (day-TRON-ah) (methylphenidate transdermal system) CII
+| INSTRUCTIONS FOR USE DAYTRANA® (day-TRON-ah) (methylphenidate transdermal system) CII |
+| --- |
 
 1.
 DAYTRANA Dosing Chart
 
-Each carton of DAYTRANA contains a DAYTRANA Dosing Chart to help you keep track of your patch including:
+Each carton of DAYTRANA contains a DAYTRANA Dosing Chart to help you keep track of your DAYTRANA transdermal system (patch) including:
 
 - when you apply patch to the skin on your hip each morning
 - when you remove the patch
-- how and where you threw the DAYTRANA patch away
+- how and where you threw DAYTRANA away
 
 To use the DAYTRANA Dosing Chart, follow these instructions:
 
-- Each day, when a new DAYTRANA patch is applied to your hip, write down the date and time that you applied the patch.
+- Each day, when a new patch is applied to your hip, write down the date and time that you applied the patch.
 - Use the DAYTRANA schedule below so you can decide when to remove the patch.
   For example, if the patch is applied to the skin at 6:00 a.m., remove the patch at 3:00 p.m. on the same day.
   After you remove and throw away the patch, write down the time you removed the patch and how and where you threw it away.
@@ -56,7 +57,7 @@ Make sure your skin:
 4.
 How to apply DAYTRANA
 
-- Open the sealed tray and throw away the small packet (drying agent).
+- Open the sealed tray or outer pouch and throw away the small packet (drying agent).
 - Each patch is sealed in its own protective pouch.
 - Carefully cut the protective pouch open with scissors, being careful not to cut the patch.
   Do not use patches that have been cut or damaged in any way (See Figure B).
@@ -79,7 +80,7 @@ Layers:
 - Protective liner: The protective liner is the layer that you remove before you put the patch on (See Figure C).
 - Adhesive with medicine: The adhesive with medicine is the layer that sticks to your skin (See Figure C).
 - Outside backing: The outside backing is the layer that you see after you put the patch on your skin.
-  The word "DAYTRANA" is printed on this layer (See Figure D).
+  The word "Daytrana" is printed on this layer (See Figure D).
 
 - Apply the patch right away after you remove the patch from protective pouch.
 - Hold the patch with the hard protective liner facing you.
@@ -121,22 +122,26 @@ How to remove and throw away DAYTRANA
   - Apply an oil-based product or lotion to your skin if any adhesive (glue) remains after you remove your patch.
     This will gently loosen and remove any adhesive that is left over.
   - If you still cannot easily remove the patch, ask your doctor or pharmacist about what to do for this problem.
-- Fold the used DAYTRANA patch in half and press it together firmly so that the sticky side sticks to itself.
-  Flush the used patch down the toilet or put the patch in a container with a lid right away.
+- Fold the used patch in half and press it together firmly so that the sticky side sticks to itself.
+  Flush the used patch down the toilet.
 - Do not flush the protective pouches or the protective liners down the toilet.
   These items should be thrown away in a container with a lid.
 - Wash your hands after you handle the patch.
 - After you remove the patch and throw the patch away, write down the time on the dosing chart.
-- Safely throw away any unused DAYTRANA patches that are left over from the prescription as soon as they are no longer needed.
+- Safely throw away any unused patches that are left over from the prescription as soon as they are no longer needed.
   To safely throw away the patches:
   - Remove the leftover patches from their protective pouches and remove the protective liners.
   - Either fold the patches in half with the sticky sides together, and flush the patches down the toilet, or
-  - Throw the patches away in a container with a lid.
+  - Dispose of remaining, unused, or expired DAYTRANA by a medicine take-back program at a U.S. Drug Enforcement Administration (DEA) authorized collection site.
+    If no take-back program or DEA authorized collector is available, each unused patch should be removed from its individual pouch, separated from the protective liner, folded in half so that the sticky sides stick together, and flushed down the toilet.
+    Put the pouch and liner in a container with a lid, close the container and throw away the container in the household trash.
+    Do not flush the pouch and liner down the toilet.
+    Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
 
 Manufactured for: Noven Therapeutics, LLC, Miami, FL 33186.
 
-By: Noven Pharmaceuticals, Inc., Miami, FL 33186. © 2009-2022 Noven Pharmaceuticals, Inc. This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
+By: Noven Pharmaceuticals, Inc., Miami, FL 33186. © 2023 Noven Pharmaceuticals, Inc. This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised 11/2022
+Revised: 10/2023
 
-102086-21
+102086-22

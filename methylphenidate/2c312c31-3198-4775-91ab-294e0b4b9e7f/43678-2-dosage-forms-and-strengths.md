@@ -2,7 +2,7 @@
 
 Four dosage strengths are available:
 
-| Nominal Dose Delivered (mg) Over 9 Hours* | Dosage Rate* (mg/hr) | Patch Size (cm 2) | Methylphenidate Content per Patch (mg) |
+| Nominal Dose Delivered (mg) Over 9 Hours* | Dosage Rate* (mg/hr) | Transdermal System Size (cm 2) | Methylphenidate Content per Transdermal System (mg) |
 | --- | --- | --- | --- |
 | 10 | 1.1 | 12.5 | 27.5 |
 | 15 | 1.6 | 18.75 | 41.3 |
