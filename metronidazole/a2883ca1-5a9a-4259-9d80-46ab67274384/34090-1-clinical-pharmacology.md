@@ -48,7 +48,7 @@ Following a single intravenous infusion of 500 mg metronidazole, the mean AUC24 
 There were no significant changes in the AUC24 of hydroxy-metronidazole in these hepatically impaired patients.
 Pharmacokinetic modeling and simulation indicates the metronidazole dosage in amebiasis should be reduced by 50% and the dosage interval for trichomoniasis should be increased from every 12 hours to every 24 hours in patients with severe (Child-Pugh C) hepatic impairment.
 No dosage adjustment is needed for patients with mild to moderate hepatic impairment.
-Patients with hepatic impairment should be monitored for metronidazole associated adverse events (See PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+Patients with hepatic impairment should be monitored for metronidazole associated adverse events (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
 ## Geriatric Patients
 
@@ -91,7 +91,7 @@ Protozoal parasites: Entamoeba histolytica Trichomonas vaginalis
 
 The following in vitro data are available, but their clinical significance is unknown.
 
-Metronidazole exhibits in vitro minimal inhibitory concentrations (MICs) of 8 mcg/mL or less against most (≥ 90%) isolates of the following bacteria; however, the safety and effectiveness of metronidazole in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
+Metronidazole exhibits in vitro minimal inhibitory concentrations (MICs) of 8 mcg/mL or less against most (≥90%) isolates of the following bacteria; however, the safety and effectiveness of metronidazole in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
 Gram-negative anaerobes Bacteroides fragilis group (B. caccae, B. uniformis) Prevotella species (P. bivia, P. buccae, P. disiens)
 

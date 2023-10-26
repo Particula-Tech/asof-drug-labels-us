@@ -12,7 +12,7 @@ Total and differential leukocyte counts should be made before and after re-treat
 
 In the Male: Treatment should be individualized as it is for the female.
 
-## Amebiasis
+## Amebiasis:
 
 Adults:
 
@@ -38,8 +38,8 @@ The usual duration of therapy is 7 to 10 days; however, infections of the bone a
 For amebiasis patients with severe (Child-Pugh C) hepatic impairment, pharmacokinetic modeling and simulation indicate that the FLAGYL 375 capsules dose should be reduced by 50%.
 Therefore, the dosage regimen of FLAGYL 375 capsules in Child Pugh C patients with amebiasis is 375 mg q8h for 5 to 10 days (see CLINICAL PHARMACOLOGY and PRECAUTIONS).
 
-For trichomoniasis patients with severe (Child-Pugh C) hepatic impairment, pharmacokinetic modeling and simulation indicate that the frequency of metronidazole administration should be reduced from every12 hours to every 24 hours.
-Therefore, the dosage regiment of FLAYGL 375 capsules in Child Pugh C patients with trichomoniasis is 375 mg q24h for 7 days (see CLINICAL PHARMACOLOGY and PRECAUTIONS).
+For trichomoniasis patients with severe (Child-Pugh C) hepatic impairment, pharmacokinetic modeling and simulation indicate that the frequency of metronidazole administration should be reduced from every 12 hours to every 24 hours.
+Therefore, the dosage regiment of FLAGYL 375 capsules in Child Pugh C patients with trichomoniasis is 375 mg q24h for 7 days (see CLINICAL PHARMACOLOGY and PRECAUTIONS).
 
 ### Patients Undergoing Hemodialysis
 
