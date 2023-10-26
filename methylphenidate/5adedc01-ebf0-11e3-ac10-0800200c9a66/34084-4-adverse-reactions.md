@@ -2,25 +2,28 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Abuse and Dependence [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
+- Abuse, Misuse, and Addiction [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
 - Hypersensitivity to Methylphenidate [see Contraindications (4)]
 - Hypertensive Crisis with Concomitant Use of Monoamine Oxidase Inhibitors [see Contraindications (4) and Drug Interactions (7.1)]
-- Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
-- Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
+- Risks to Patients with Serious Cardiac Disease [see Warnings and Precautions (5.2)]
+- Increased Blood Pressure and Heart Rate [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Priapism [see Warnings and Precautions (5.5)]
 - Peripheral Vasculopathy, including Raynaud's Phenomenon [see Warnings and Precautions (5.6)]
-- Long-Term Suppression of Growth [see Warnings and Precautions (5.7)]
+- Long-Term Suppression of Growth in Pediatric Patients [see Warnings and Precautions (5.7)]
+- Acute Angle Closure Glaucoma [see Warnings and Precautions (5.8)]
+- Increased Intraocular Pressure and Glaucoma [see Warnings and Precautions (5.9)]
+- Motor and Verbal Tics, and Worsening of Tourette's Syndrome [see Warnings and Precautions (5.10)]
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Clinical Trials Experience with Other Methylphenidate Products in Children, Adolescents, and Adults with ADHD
+Adverse Reactions in Studies with Other Methylphenidate Products in Children, Adolescents, and Adults with ADHD
 
 Commonly reported (≥2% of the methylphenidate group and at least twice the rate of the placebo group) adverse reactions from placebo-controlled trials of methylphenidate products include: decreased appetite, decreased weight, nausea, abdominal pain, dyspepsia, dry mouth, vomiting, insomnia, anxiety, nervousness, restlessness, affect lability, agitation, irritability, dizziness, vertigo, tremor, blurred vision, increased blood pressure, increased heart rate, tachycardia, palpitations, hyperhidrosis, and pyrexia.
 
-Clinical Trials Experience with APTENSIO XR in Pediatric Patients with ADHD
+Adverse Reactions in Studies with APTENSIO XR in Pediatric Patients with ADHD
 
 The safety data in this section is based on data from two one-week controlled clinical studies of APTENSIO XR in pediatric patients with ADHD, one in children ages 6 to 12 years (RP-BP-EF001, hereafter "Study 1"), and one in children and adolescents ages 6 to 17 years (RP-BP-EF002, hereafter "Study 2").
 
@@ -64,7 +67,7 @@ Blood and Lymphatic System Disorders: Pancytopenia, Thrombocytopenia, Thrombocyt
 
 Cardiac Disorders: Angina pectoris, Bradycardia, Extrasystole, Supraventricular tachycardia, Ventricular extrasystole
 
-Eye Disorders: Diplopia, Mydriasis, Visual impairment
+Eye Disorders: Diplopia, Increased intraocular pressure, Mydriasis, Visual impairment
 
 General Disorders: Chest pain, Chest discomfort, Hyperpyrexia
 
@@ -74,7 +77,7 @@ Investigations: Alkaline phosphatase increased, Bilirubin increased, Hepatic enz
 
 Musculoskeletal, Connective Tissue and Bone Disorders: Arthralgia, Myalgia, Muscle twitching, Rhabdomyolysis
 
-Nervous System: Convulsion, Grand mal convulsion, Dyskinesia, serotonin syndrome in combination with serotonergic drugs
+Nervous System: Convulsion, Grand mal convulsion, Dyskinesia, serotonin syndrome in combination with serotonergic drugs, Motor and Verbal Tics
 
 Psychiatric Disorders: Disorientation, Libido changes
 

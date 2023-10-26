@@ -12,7 +12,7 @@ Risk Summary
 Limited published studies report on the use of methylphenidate in pregnant women; however, the data are insufficient to inform any drug-associated risks.
 No effects on morphological development were observed in embryo-fetal development studies with oral administration of methylphenidate to pregnant rats and rabbits during organogenesis at doses up to 10 and 15 times, respectively, the maximum recommended human dose (MRHD) of 60 mg/day given to adolescents on a mg/m2 basis.
 However, spina bifida was observed in rabbits at a dose 52 times the MRHD given to adolescents.
-A decrease in pup body weight was observed in a pre-and post-natal development study with oral administration of methylphenidate to rats throughout pregnancy and lactation at the highest dose of 60 mg/kg/day (6 times the MRHD given to adolescents) [see Data].
+A decrease in pup body weight was observed in a pre- and post-natal development study with oral administration of methylphenidate to rats throughout pregnancy and lactation at the highest dose of 60 mg/kg/day (6 times the MRHD given to adolescents) [see Data].
 The background risk of major birth defects and miscarriage for the indicated population are unknown.
 However, the background risk in the U.S. general population of major birth defects is 2% to 4% and of miscarriage is 15% to 20% of clinically recognized pregnancies.
 
