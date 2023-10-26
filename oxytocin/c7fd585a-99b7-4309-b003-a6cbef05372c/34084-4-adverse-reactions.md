@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS
 
+To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 The following adverse reactions have been reported in the mother:
 
 - Anaphylactic reaction

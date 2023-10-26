@@ -4,14 +4,11 @@ Oxytocin Injection, USP (synthetic) is supplied as follows:
 
 | Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| 91201* | 63323-012-01 Unit of 25 | 10 USP Units/mL | 63323-012-00 1 mL fill in a 3 mL vial |
-| 912011 † | 63323-012-11 Unit of 25 | 10 USP Units/mL | NDC 63323-012-03 1 mL fill in a 2 mL vial |
-| 1210 | NDC 63323-012-10 Unit of 25 | 10 USP Units/mL | NDC 63323-012-06 10 mL fill in 10 mL Multiple Dose Vial |
-| 501230 † | NDC 63323-012-30 Unit of 10 | 10 USP Units/mL | NDC 63323-012-02 30 mL fill in a 30 mL Multiple Dose Vial |
-
-*Packaged in a plastic vial.
-
-†The container closure is not made with natural rubber latex.
+| RF912011† | NDC 65219-021-01 Unit of 25 | 10 USP Units per mL | NDC 65219-021-00 1 mL fill in a 2 mL Single-dose Vial This product contains an RFID. |
+| 912011† | NDC 63323-012-11 Unit of 25 | 10 USP Units per mL | NDC 63323-012-03 1 mL fill in a 2 mL Single-dose Vial |
+| 1210 | NDC 63323-012-10 Unit of 25 | 100 USP Units per 10 mL (10 USP Units per mL) | NDC 63323-012-06 10 mL fill in a 10 mL Multiple-dose Vial |
+| 501230† | NDC 63323-012-30 Unit of 10 | 300 USP Units per 30 mL (10 USP Units per mL) | NDC 63323-012-02 30 mL fill in a 30 mL Multiple-dose Vial |
+| † The container closure is not made with natural rubber latex |  |  |  |
 
 Discard unused portion.
 
