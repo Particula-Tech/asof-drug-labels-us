@@ -12,5 +12,3 @@ The needle cap is not made with natural rubber latex.
 Each 300 mg pre-filled syringe or pre-filled pen delivers 300 mg dupilumab in 2 mL which also contains L-arginine hydrochloride (10.5 mg), L-histidine (6.2 mg), polysorbate 80 (4 mg), sodium acetate (2 mg), sucrose (100 mg), and water for injection, pH 5.9.
 
 Each 200 mg pre-filled syringe or pre-filled pen delivers 200 mg dupilumab in 1.14 mL which also contains L-arginine hydrochloride (12 mg), L-histidine (3.5 mg), polysorbate 80 (2.3 mg), sodium acetate (1.2 mg), sucrose (57 mg), and water for injection, pH 5.9.
-
-Each 100 mg pre-filled syringe delivers 100 mg dupilumab in 0.67 mL which also contains L-arginine hydrochloride (3.5 mg), L-histidine (2.1 mg), polysorbate 80 (1.3 mg), sodium acetate (0.7 mg), sucrose (34 mg), and water for injection, pH 5.9.

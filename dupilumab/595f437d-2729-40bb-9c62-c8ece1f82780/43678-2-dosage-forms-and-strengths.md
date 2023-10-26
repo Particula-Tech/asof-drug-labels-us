@@ -6,7 +6,6 @@ Single-dose pre-filled syringe with needle shield as:
 
 - Injection: 300 mg/2 mL
 - Injection: 200 mg/1.14 mL
-- Injection: 100 mg/0.67 mL
 
 Single-dose pre-filled pen as:
 

@@ -93,7 +93,7 @@ Table 4: Dosage of DUPIXENT in Pediatric Patients 6 to 11 Years of Age with Asth
 
 | Body Weight | InitialFor pediatric patients 6 to 11 years of age with asthma, no initial loading dose is recommended. and Subsequent Dosage |
 | --- | --- |
-| 15 to less than 30 kg | 100 mg every other week (Q2W) or 300 mg every four weeks (Q4W) |
+| 15 to less than 30 kg | 300 mg every four weeks (Q4W) |
 | ≥30 kg | 200 mg every other week (Q2W) |
 
 For pediatric patients 6 to 11 years of age with asthma and co-morbid moderate-to-severe AD, follow the recommended dosage as per Table 2 which includes an initial loading dose [see Dosage and Administration (2.3)].
@@ -122,7 +122,7 @@ If the missed dose is not administered within 7 days, administer the dose, start
 
 ## 2.9 Preparation for Use
 
-Before injection, remove DUPIXENT from the refrigerator and allow DUPIXENT to reach room temperature (45 minutes for the 300 mg/2 mL pre-filled syringe or pre-filled pen, 30 minutes for the 200 mg/1.14 mL pre-filled syringe or pre-filled pen, and 100 mg/0.67 mL pre-filled syringe) without removing the needle cap.
+Before injection, remove DUPIXENT from the refrigerator and allow DUPIXENT to reach room temperature (45 minutes for the 300 mg/2 mL pre-filled syringe or pre-filled pen, and 30 minutes for the 200 mg/1.14 mL pre-filled syringe or pre-filled pen) without removing the needle cap.
 After removal from the refrigerator, DUPIXENT must be used within 14 days or discarded.
 
 Inspect DUPIXENT visually for particulate matter and discoloration prior to administration.
