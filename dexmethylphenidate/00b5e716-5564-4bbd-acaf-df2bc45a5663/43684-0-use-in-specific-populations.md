@@ -63,7 +63,6 @@ Monitor breastfeeding infants for adverse reactions, such as agitation, anorexia
 The safety and effectiveness of AZSTARYS have been established in pediatric patients ages 6 to 17 years of age for the treatment of ADHD.
 Use of AZSTARYS in patients 6 to 12 years of age is supported by a randomized, double-blind, placebo-controlled, parallel group trial in 155 pediatric patients with ADHD and a 12-month open-label long term safety trial in 238 patients [see Adverse Reactions (6.1), Clinical Studies (14)].
 Use of AZSTARYS in pediatric patients 13 to 17 years of age is supported by additional pharmacokinetics analysis showing similar plasma concentration-time profiles of dexmethylphenidate in adolescents and adults after administration of the same dose of AZSTARYS [see Clinical Studies (14)].
-
 The long-term efficacy of methylphenidate in pediatric patients has not been established.
 
 The safety and effectiveness of AZSTARYS in pediatric patients less than 6 years have not been established.

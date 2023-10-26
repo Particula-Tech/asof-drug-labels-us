@@ -12,7 +12,6 @@ Dexmethylphenidate
 
 Dexmethylphenidate is the more pharmacologically active d-enantiomer of racemic d,l-methylphenidate.
 Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
-
 In vitro studies with serdexmethylphenidate showed little or no binding of the prodrug to monoaminergic reuptake transporters.
 
 Cardiac Electrophysiology
@@ -109,7 +108,7 @@ Drug Interaction Studies
 
 Clinical Studies
 
-CYP2D6 substrate: No clinically significant differences in desipramine (CYP2D6 substrate) were observed when coadministered with methylphenidate.
+CYP2D6 substrate: No clinically significant differences in desipramine (CYP2D6 substrate) were observed when co-administered with methylphenidate.
 
 In Vitro Studies
 

@@ -2,25 +2,28 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Abuse and Dependence [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
+- Abuse, Misuse, and Addiction [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
 - Known hypersensitivity to methylphenidate or other ingredients of AZSTARYS [see Contraindications (4)]
 - Hypertensive Crisis with Concomitant Use of Monoamine Oxidase Inhibitors [see Contraindications (4)]
-- Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
-- Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
+- Risks to Patients with Serious Cardiac Disease [see Warnings and Precautions (5.2)]
+- Increased Blood Pressure and Heart Rate [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Priapism [see Warnings and Precautions (5.5)]
 - Peripheral Vasculopathy, including Raynaud's Phenomenon [see Warnings and Precautions (5.6)]
-- Long-Term Suppression of Growth [see Warnings and Precautions (5.7)]
+- Long-Term Suppression of Growth in Pediatric Patients [see Warnings and Precautions (5.7)]
+- Acute Angle Closure Glaucoma [see Warnings and Precautions (5.8)]
+- Increased Intraocular Pressure and Glaucoma [see Warnings and Precautions (5.9)]
+- Motor and Verbal Tics, and Worsening of Tourette’s Syndrome [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Clinical Trials Experience with Other Methylphenidate Products in Pediatric Patients and Adults with ADHD
+Adverse Reactions in Studies with Other Methylphenidate Products in Pediatric Patients and Adults with ADHD
 
 Commonly reported (≥ 5% of the methylphenidate group and at least twice the rate of the placebo group) adverse reactions from placebo-controlled trials of methylphenidate products include: decreased appetite, decreased weight, nausea, abdominal pain, dyspepsia, vomiting, insomnia, anxiety, affect lability, irritability, dizziness, increased blood pressure, and tachycardia.
 
-Clinical Trials Experience with AZSTARYS in Pediatric Patients (6 to 12 years) with ADHD
+Adverse Reactions in Studies with AZSTARYS in Pediatric Patients (6 to 12 years) with ADHD
 
 Short-Term Study
 
@@ -54,7 +57,7 @@ Blood and Lymphatic System Disorders: pancytopenia, thrombocytopenia, thrombocyt
 
 Cardiac Disorders: angina pectoris, bradycardia, extrasystole, supraventricular tachycardia, ventricular extrasystole, palpitations, increased heart rate
 
-Eye Disorders: diplopia, mydriasis, visual impairment, blurred vision
+Eye Disorders: diplopia, increased intraocular pressure, mydriasis, visual impairment, blurred vision
 
 General Disorders: chest pain, chest discomfort, hyperpyrexia
 
@@ -68,7 +71,7 @@ Investigations: alkaline phosphatase increased, bilirubin increased, hepatic enz
 
 Musculoskeletal, Connective Tissue and Bone Disorders: arthralgia, myalgia, muscle twitching, rhabdomyolysis, muscle cramps
 
-Nervous System Disorders: convulsion, grand mal convulsion, dyskinesia, serotonin syndrome in combination with serotonergic drugs, nervousness, headache, tremor, drowsiness, vertigo
+Nervous System: convulsion, grand mal convulsion, dyskinesia, serotonin syndrome in combination with serotonergic drugs, nervousness, headache, tremor, drowsiness, vertigo, motor and verbal tics
 
 Psychiatric Disorders: disorientation, libido changes, hallucination, hallucination auditory, hallucination visual, logorrhea, mania, restlessness, agitation
 
