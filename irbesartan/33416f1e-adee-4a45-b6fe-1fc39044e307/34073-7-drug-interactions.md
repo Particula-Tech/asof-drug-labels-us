@@ -10,7 +10,7 @@ Monitor serum potassium in such patients.
 Increases in serum lithium concentrations and lithium toxicity have been reported with concomitant use of irbesartan and lithium.
 Monitor lithium levels in patients receiving irbesartan and lithium.
 
-## 7.3 Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+## 7.3 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs) Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
 In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists (including irbesartan) may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
@@ -25,3 +25,4 @@ In general, avoid combined use of RAS inhibitors.
 Closely monitor blood pressure, renal function and electrolytes in patients on irbesartan and other agents that affect the RAS.
 Do not co-administer aliskiren with irbesartan in patients with diabetes.
 Avoid use of aliskiren with irbesartan in patients with renal impairment (GFR <60 mL/min).
+1
