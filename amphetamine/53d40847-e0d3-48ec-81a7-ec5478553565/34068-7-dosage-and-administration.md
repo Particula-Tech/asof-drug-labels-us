@@ -26,6 +26,11 @@ With tablets give first dose on awakening; additional doses (1 to 2) at interval
 
 Where possible, drug administration should be interrupted occasionally to determine if there is a recurrence of behavioral symptoms sufficient to require continued therapy.
 
+Prior to treating patients with amphetamine sulfate tablets, assess:
+
+- for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) (see WARNINGS).
+- the family history and clinically evaluate patients for motor or verbal tics or Tourette’s syndrome (see WARNINGS).
+
 Exogenous Obesity
 
 Usual dosage is up to 30 mg daily, taken in divided doses of 5 mg to 10 mg, 30 to 60 minutes before meals.

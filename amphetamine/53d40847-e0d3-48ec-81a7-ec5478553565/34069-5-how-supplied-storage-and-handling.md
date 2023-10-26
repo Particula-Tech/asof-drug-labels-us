@@ -15,13 +15,9 @@ Bottles of 100: NDC 69238-1564-1
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Dispense in a well-closed container, as defined in the USP.
 
-Manufactured by:
-
-Amneal Pharmaceuticals of New York, LLC
-
-Brookhaven, NY 11719
+Manufactured by: Amneal Pharmaceuticals of New York, LLC Brookhaven, NY 11719
 
 Rev.
-11-2022-03
+10-2023-06
 
 Dispense with Medication Guide available at: documents.amneal.com/mg/amphetamine-tab.pdf

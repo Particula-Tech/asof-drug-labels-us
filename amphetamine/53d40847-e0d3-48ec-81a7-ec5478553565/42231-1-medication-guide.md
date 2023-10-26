@@ -1,98 +1,84 @@
 # MEDICATION GUIDE
 
-Amphetamine (am FET a meen) Sulfate Tablets, USP CII
+Dispense with Medication Guide available at: documents.amneal.com/mg/amphetamine-tab.pdf
 
-Read this Medication Guide before you or your child starts taking amphetamine sulfate tablets and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your doctor about you or your child's treatment.
+Amphetamine (am FET a meen) Sulfate Tablets CII
 
-| What is the most important information I should know about amphetamine sulfate tablets? Amphetamine Sulfate Tablets are a stimulant medicine. Some people have had the following problems when taking stimulant medicines such as amphetamine sulfate tablets: 1. Heart-related problems: sudden death in people who have heart problems or heart defects stroke and heart attack in adults increased blood pressure and heart rate Tell your doctor if you or your child has any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting amphetamine sulfate tablets. Your doctor should check you or your child's blood pressure and heart rate regularly during treatment with amphetamine sulfate tablets. Call your doctor right away if you or your child have any signs of heart problems such as chest pain, shortness of breath, or fainting while taking amphetamine sulfate tablets. 2. Mental (Psychiatric) problems including: In children, teenagers, and adults: new or worse behavior and thought problems new or worse bipolar illness new or worse aggressive behavior or hostility In children and teenagers who have psychiatric problems, new psychotic symptoms such as: hearing voices seeing things that are not real believing things that are not true being suspicious new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking amphetamine sulfate tablets, especially: seeing or hearing things that are not real believing things that are not real being suspicious 3. Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]. Fingers or toes may feel numb, cool, painful Fingers or toes may change color from pale, to blue, to red Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes. Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking amphetamine sulfate tablets. |
+| What is the most important information I should know about amphetamine sulfate tablets? Amphetamine sulfate tablets may cause serious side effects, including: Abuse, misuse, and addiction. Amphetamine sulfate tablets have a high chance for abuse and misuse and may lead to substance use problems, including addiction. Misuse and abuse of amphetamine sulfate tablets, other amphetamine-containing medicines, and methylphenidate, can lead to overdose and death. The risk of overdosage and death is increased with higher doses of amphetamine sulfate tablets or when it is used in ways that are not approved, such as snorting or injection. Your healthcare provider should check you or your child’s risk for abuse, misuse, and addiction before starting treatment with amphetamine sulfate tablets and will monitor you or your child during treatment.Amphetamine sulfate tablets may lead to physical dependence after prolonged use, even if taken as directed by your healthcare provider.Do not give amphetamine sulfate tablets to anyone else. See “What are amphetamine sulfate tablets?” for more information.Keep amphetamine sulfate tablets in a safe place and properly dispose of unused medicine. See “How should I store amphetamine sulfate tablets?” for more information.Tell your healthcare provider if you or your child have ever abused or been dependent on alcohol, prescription medicines, or street drugs. Risks for people with serious heart disease. Sudden death has happened in people who have heart defects or other serious heart disease. Your healthcare provider should check you or your child carefully for heart problems before starting amphetamine sulfate tablets. Tell your healthcare provider if you or your child have any heart problems, heart disease, or heart defects. Call your healthcare provider or go to the nearest hospital emergency room right away if you or your child have any signs of heart problems such as chest pain, shortness of breath, or fainting during treatment with amphetamine sulfate tablets. Increased blood pressure and heart rate. Your healthcare provider should check you or your child’s blood pressure and heart rate regularly during treatment with amphetamine sulfate tablets. Mental (psychiatric) problems, including: new or worse behavior and thought problems new or worse bipolar illness new psychotic symptoms (such as hearing voices, seeing or believing things that are not real) or new manic symptoms Tell your healthcare provider about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your healthcare provider right away if you or your child have any new or worsening mental symptoms or problems during treatment with amphetamine sulfate tablets, especially hearing voices, seeing or believing things that are not real, or new manic symptoms. |
 | --- |
 
 What are amphetamine sulfate tablets?
 
-- Amphetamine sulfate tablets are a central nervous system stimulant prescription medicine used for the treatment of: Amphetamine sulfate tablets may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.
-  Amphetamine sulfate tablets should be used as part of a total treatment program for ADHD that may include counseling or other therapies.
-  - a sleep disorder called narcolepsy.
-  - Attention-Deficit Hyperactivity Disorder (ADHD).
-  - exogenous obesity.
-    Amphetamine sulfate tablets may be used as part of a short-term, weight reduction program for obesity.
-- Amphetamine sulfate tablets are not for use as an anorectic agent for exogenous obesity in children less than 12 years of age.
-- Amphetamine sulfate tablets are not for use for ADHD in children less than 3 years old.
-- The effects of long term use of amphetamine sulfate tablets in children are not known.
+- Amphetamine sulfate tablets are a central nervous system (CNS) stimulant prescription medicine used for the treatment of:
 
-| Amphetamine sulfate tablets are a federally controlled substance (CII) because they contain amphetamine that can be a target for people who abuse prescription medicines or street drugs. Keep amphetamine sulfate tablets in a safe place to protect them from theft. Never give your amphetamine sulfate tablets to anyone else, because they may cause death or harm them. Selling or giving away amphetamine sulfate tablets is against the law. Tell your doctor if you or your child has (or has a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs. |
+- a sleep disorder called narcolepsy.
+- Attention-Deficit Hyperactivity Disorder (ADHD).
+  Amphetamine sulfate tablets may help increase attention and decrease impulsiveness and hyperactivity in people with ADHD.
+
+- exogenous obesity.
+  Amphetamine sulfate tablets may be used as part of a short-term (a few weeks), weight reduction program for obesity in people who have not responded to other treatment.
+
+- Amphetamine sulfate tablets are not for use in children with ADHD under 3 years of age.
+  It is not known if amphetamine sulfate tablets are safe and effective in children with exogenous obesity under 12 years of age.
+
+| Amphetamine sulfate tablets are a federally controlled substance (CII) because they contain amphetamine that can be a target for people who abuse prescription medicines or street drugs. Keep amphetamine sulfate tablets in a safe place to protect them from theft. Never give your amphetamine sulfate tablets to anyone else, because they may cause death or harm them. Selling or giving away amphetamine sulfate tablets may harm others and is against the law. |
 | --- |
-
-Who should not take amphetamine sulfate tablets?
 
 Do not take amphetamine sulfate tablets if you or your child:
 
-- have heart problems or hardening of the arteries
-- have moderate to severe high blood pressure
-- have hyperthyroidism
-- are very anxious, tense, or agitated
-- have a history of drug abuse
-- are taking or have taken within the past 14 days an anti-depression medicine called a monoamine oxidase inhibitor or MAOI
-- are sensitive to, allergic to, or had a reaction to other stimulant medicines
+- are allergic to amphetamine products or any of the ingredients in amphetamine sulfate tablets.
+  See the end of this Medication Guide for a complete list of ingredients in amphetamine sulfate tablets
+- are taking or have taken within the past 14 days a medicine used to treat depression called a monoamine oxidase inhibitor (MAOI)
 
-What should I tell my doctor before taking amphetamine sulfate tablets?
+Before taking amphetamine sulfate tablets, tell your healthcare provider about all of your or your child’s medical conditions, including if you or your child:
 
-Before you or your child takes amphetamine sulfate tablets, tell your doctor if you or your child has or if there is a family history of:
+- have heart problems, heart disease, heart defects, or high blood pressure
+- have mental problems including psychosis, mania, bipolar illness, or depression, or have a family history of suicide, bipolar illness, or depression
+- have circulation problems in fingers and toes
+- have or have had seizures
+- have or had repeated movements or sounds (tics) or Tourette's syndrome, or have a family history of tics or Tourette’s syndrome
+- are pregnant or plan to become pregnant.
+  It is not known if amphetamine sulfate will harm the unborn baby.
+  Tell your healthcare provider if you or your child become pregnant during treatment with amphetamine sulfate tablets.
+- are breastfeeding or plan to breastfeed.
+  Amphetamine sulfate passes into breast milk.
+  You or your child should not breastfeed during treatment with amphetamine sulfate tablets.
+  Talk to your healthcare provider about the best way to feed the baby during treatment with amphetamine sulfate tablets.
 
-- heart problems, heart defects, high blood pressure
-- mental problems including psychosis, mania, bipolar illness, or depression
-- tics or Tourette's syndrome
-- thyroid problems
-- seizures or have had an abnormal brain wave test (EEG)
-- circulation problems in fingers and toes
-
-Tell your doctor if:
-
-- you or your child are pregnant or planning to become pregnant.
-  It is not known if amphetamine sulfate will harm your unborn baby.
-- you or your child are breastfeeding or plan to breastfeed.
-  Amphetamine sulfate can pass into your milk and may harm your baby.
-  Talk to your doctor about the best way to feed your baby if you take amphetamine sulfate tablets.
-  Do not breastfeed while taking amphetamine sulfate tablets.
-
-Tell your doctor about all the medicines that you or your child takes, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all of the medicines that you or your child takes, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 Amphetamine sulfate tablets and some medicines may interact with each other and cause serious side effects.
-Sometimes the doses of other medicines will need to be adjusted while taking amphetamine sulfate tablets.
+Sometimes the doses of other medicines will need to be adjusted during treatment with amphetamine sulfate tablets.
 
-Your doctor will decide whether amphetamine sulfate tablets can be taken with other medicines.
+Your healthcare provider will decide if amphetamine sulfate tablets can be taken with other medicines.
 
 Especially tell your doctor if you or your child takes:
 
-- stomach acid medicines
-- anti-depression medicines including MAOIs
-- anti-psychotic medicines
+- selective serotonin reuptake inhibitors (SSRIs)
+- serotonin norepinephrine reuptake inhibitors (SNRIs)
+- medicines used to treat migraine headaches called triptans
+- tricyclic antidepressants
 - lithium
-- cold or allergy medicines that contain decongestants
-- blood pressure medicines
-- narcotic pain medicines
-- seizure medicines
-- blood thinner medicines
+- fentanyl
+- tramadol
+- tryptophan
+- buspirone
+- St. John’s Wort
 
-Know the medicines that you or your child takes.
+Know the medicines that you or your child take.
 
-Keep a list of your medicines with you to show your doctor and pharmacist when you get a new medicine.
+Keep a list of your or your child’s medicines with you to show your healthcare provider and pharmacist when you or your child get a new medicine.
 
-Do not start any new medicine while taking amphetamine sulfate tablets without talking to your doctor first.
+Do not start any new medicine during treatment with amphetamine sulfate tablets without talking to your doctor first.
 
-How should I take amphetamine sulfate tablets?
+How should amphetamine sulfate tablets be taken?
 
-- Take amphetamine sulfate tablets exactly as your doctor tells you to take it.
-- Your doctor may change the dose until it is right for you or your child.
-- The first dose of the day is usually taken when you first wake in the morning.
-- Amphetamine sulfate tablets may cause problems sleeping if taken late at night.
-- Amphetamine sulfate tablets can be taken with or without food.
-- From time to time, your doctor may stop amphetamine sulfate tablets treatment for a while to check ADHD symptoms.
-- Your doctor may do regular checks of the blood, heart, and blood pressure while taking amphetamine sulfate tablets.
-- Children should have their height and weight checked often while taking amphetamine sulfate tablets.
-  Amphetamine sulfate tablets treatment may be stopped if a problem is found during these check-ups.
-- If you or your child takes too much amphetamine sulfate tablets, call your doctor right away, or go to the nearest hospital emergency room.
+- Take amphetamine sulfate tablets exactly as prescribed by your or your child’s healthcare provider.
+- Your healthcare provider may change the dose if needed.
+- The first dose of the day is usually taken when you first wake up.
+- Amphetamine sulfate tablets may cause problems sleeping if taken late in the evening.
+- Amphetamine sulfate tablets should be taken 30 to 60 minutes before meals if it is being used to treat exogenous obesity.
+- If you or your child take too much amphetamine sulfate tablets, call your healthcare provider or Poison Help Line at 1-800-222-1222 or go to the nearest hospital emergency room right away.
 
 What should I avoid while taking amphetamine sulfate tablets?
 
@@ -102,24 +88,35 @@ What are possible side effects of amphetamine sulfate tablets?
 
 Amphetamine sulfate tablets may cause serious side effects, including:
 
-See "What is the most important information I should know about amphetamine sulfate tablets?" for information on reported heart and mental problems.
+- See "What is the most important information I should know about amphetamine sulfate tablets?"
 
-Other serious side effects include:
-
-- slowing of growth (height and weight) in children
-- seizures, mainly in people with a history of seizures
-- eyesight changes or blurred vision
+- Slowing of growth (height and weight) in children.
+  Children should have their height and weight checked often during treatment with amphetamine sulfate tablets.
+  Your healthcare provider may stop your child’s amphetamine sulfate tablets treatment if they are not growing or gaining weight as expected.
+- Seizures.
+  Your healthcare provider may stop treatment with amphetamine sulfate tablets if you or your child have a seizure.
+- Circulation problems in fingers and toes (peripheral vasculopathy, including Raynaud’s phenomenon).
+  Signs and symptoms may include:Tell your healthcare provider if you or your child have numbness, pain, skin color change, or sensitivity to temperature in the fingers or toes.Call your healthcare provider right away if you or your child have any signs or unexplained wounds appearing on fingers or toes during treatment with amphetamine sulfate tablets.
+  - Fingers or toes may feel numb, cool, painful
+  - fingers or toes may change color from pale, to blue, to red
 - Serotonin syndrome.
-  A potentially life-threatening problem called serotonin syndrome can happen when medicines such as amphetamine sulfate tablets are taken with certain other medicines.
-  Symptoms of serotonin syndrome may include:
-  - agitation, hallucinations, coma or other changes in mental status
-  - problems controlling your movements or muscle twitching
-  - fast heartbeat
-  - high or low blood pressure
-  - sweating or fever
-  - nausea or vomiting
-  - diarrhea
-  - muscle stiffness or tightness
+  This problem may happen when amphetamine sulfate tablets is taken with certain other medicines and may be life-threatening.
+  Call your healthcare provider or go to the nearest hospital emergency room right away if you or your child develop any of the following signs and symptoms of serotonin syndrome:
+
+- agitation, hallucinations, coma
+- confusion
+- fast heartbeat
+- dizziness
+- flushing
+- muscle stiffness or tightness
+- seizures
+- changes in blood pressure
+- sweating or fever
+- high body temperature (hypothermia)
+- loss of coordination
+- nausea, vomiting, diarrhea
+- New or worsening tics or worsening Tourette’s syndrome.
+  Tell your healthcare provider if you or your child get any new or worsening tics or worsening Tourette’s syndrome during treatment with amphetamine sulfate tablets.
 
 The most common side effects of amphetamine sulfate tablets include:
 
@@ -138,31 +135,30 @@ The most common side effects of amphetamine sulfate tablets include:
 - weight loss
 - mood swings
 
-Talk to your doctor if you or your child have side effects that are bothersome or do not go away.
-
 These are not all the possible side effects of amphetamine sulfate tablets.
-For more information ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I store amphetamine sulfate tablets?
+How do I store amphetamine sulfate tablets?
 
 - Store amphetamine sulfate tablets at room temperature between 68°F to 77°F (20°C to 25°C).
-- Keep amphetamine sulfate tablets and all medicines out of the reach of children.
+- Store amphetamine sulfate tablets in a safe place, like a locked cabinet.
+- Dispose of remaining, unused, or expired amphetamine sulfate tablets by a medicine take-back program at a U.S. Drug Enforcement Administration (DEA) authorized collection site.
+  If no take-back program or DEA authorized collector is available, mix amphetamine sulfate tablets with an undesirable, nontoxic substance such as dirt, cat litter, or used coffee grounds to make it less appealing to children and pets.
+  Place the mixture in a container such as a sealed plastic bag and throw away amphetamine sulfate tablets in the household trash.
+  Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
+
+Keep amphetamine sulfate tablets and all medicines out of the reach of children.
 
 General information about the safe and effective use of amphetamine sulfate tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use amphetamine sulfate tablets for a condition for which it was not prescribed.
-Do not give amphetamine sulfate tablets to other people, even if they have the same condition.
+Do not give amphetamine sulfate tablets to other people, even if they have the same symptoms that you or your child have.
 It may harm them and it is against the law.
 
-This Medication Guide summarizes the most important information about amphetamine sulfate tablets.
-If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about amphetamine sulfate tablets that was written for healthcare professionals.
-
-For more information about amphetamine sulfate tablets, please contact Amneal Pharmaceuticals at 1-877-835-5472 or visit www.amneal.com.
+You can ask your healthcare provider or pharmacist for information about amphetamine sulfate tablets that is written for health professionals.
 
 What are the ingredients in amphetamine sulfate tablets?
 
@@ -171,17 +167,11 @@ Active Ingredient: amphetamine sulfate, USP
 Inactive Ingredients: colloidal silicon dioxide, crospovidone, microcrystalline cellulose, stearic acid, and talc.
 The 10 mg tablets also contain FD&C Blue #1 aluminum lake.
 
+For more information about amphetamine sulfate tablets, please contact Amneal Pharmaceuticals at 1-877-835-5472 or visit www.amneal.com.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by:
-
-Amneal Pharmaceuticals of New York, LLC
-
-Brookhaven, NY 11719
+Manufactured by: Amneal Pharmaceuticals of New York, LLC Brookhaven, NY 11719
 
 Rev.
-12-2021-01
-
-Dispense with Medication Guide available at:
-
-documents.amneal.com/mg/amphetamine-tab.pdf
+09-2023-03
