@@ -1,134 +1,14 @@
 # MEDICATION GUIDE
 
-DEXEDRINE® (dextroamphetamine sulfate) SPANSULE® sustained-release capsules, CII Read the Medication Guide that comes with DEXEDRINE before you or your child starts taking it and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking to your doctor about your or your child’s treatment with DEXEDRINE.
-
-## What is DEXEDRINE?
-
-DEXEDRINE is a central nervous system stimulant prescription medicine.
-It is used for the treatment of Attention-Deficit Hyperactivity Disorder (ADHD).
-DEXEDRINE may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.
-DEXEDRINE should be used as a part of a total treatment program for ADHD that may include counseling or other therapies.
-DEXEDRINE is also used in the treatment of a sleep disorder called narcolepsy.
-
-## Who should not take DEXEDRINE?
-
-DEXEDRINE should not be taken if you or your child:
-
-- Have heart disease or hardening of the arteries
-- Have moderate to severe high blood pressure
-- Have hyperthyroidism
-- Have an eye problem called glaucoma
-- Are very anxious, tense, or agitated
-- Have a history of drug abuse
-- Are taking or have taken within the past 14 days an antidepression medicine called a monoamine oxidase inhibitor or MAOI.
-- Is sensitive to, allergic to, or had a reaction to other stimulant medicines
-
-DEXEDRINE is not recommended for use in children younger than 6 years old.
-
-DEXEDRINE may not be right for you or your child.
-Before starting DEXEDRINE tell your or your child’s doctor about all health conditions (or a family history of) including:
-
-- Heart problems, heart defects, high blood pressure
-- Mental problems including psychosis, mania, bipolar illness, or depression
-- Tics or Tourette’s syndrome
-- Thyroid problems
-- Seizures or have had an abnormal brain wave test (EEG)
-- Circulation problems in fingers and toes
-
-Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
-
-Can DEXEDRINE be taken with other medicines?
-
-Tell your doctor about all of the medicines that you or your child take including prescription and non-prescription medicines, vitamins, and herbal supplements.
-DEXEDRINE and some medicines may interact with each other and cause serious side effects.
-Sometimes the doses of other medicines will need to be adjusted while taking DEXEDRINE.
-
-Your doctor will decide whether DEXEDRINE can be taken with other medicines.
-
-Especially tell your doctor if you or your child takes:
-
-- Anti-depression medicines including MAOIs
-- Blood pressure medicines
-- Antacids
-- Seizure medicines
-
-Know the medicines that you or your child takes.
-Keep a list of your medicines with you to show your doctor and pharmacist.
-
-Do not start any new medicine while taking DEXEDRINE without talking to your doctor first.
-
-How should DEXEDRINE be taken?
-
-- Take DEXEDRINE exactly as prescribed.
-  Your doctor may adjust the dose until it is right for you or your child.
-- DEXEDRINE comes as a capsule.
-- DEXEDRINE SPANSULE capsules are usually taken once a day in the morning.
-  DEXEDRINE SPANSULE is an extended-release capsule.
-  It releases medicine into your body throughout the day.
-- From time to time, your doctor may stop treatment with DEXEDRINE for a while to check ADHD symptoms.
-- Your doctor may do regular checks of the blood, heart, and blood pressure while taking DEXEDRINE.
-  Children should have their height and weight checked often while taking DEXEDRINE.
-  Treatment with DEXEDRINE may be stopped if a problem is found during these check-ups.
-- If you or your child takes too much DEXEDRINE or overdoses, call your doctor or poison control center right away, or get emergency treatment.
-
-What are possible side effects of DEXEDRINE?
-
-See “What is the most important information I should know about DEXEDRINE?” for information on reported heart and mental problems.
-
-Other serious side effects include:
-
-- Slowing of growth (height and weight) in children
-- Seizures, mainly in patients with a history of seizures
-- Eyesight changes or blurred vision
-
-Common side effects include:
-
-- Fast heart beat
-- Decreased appetite
-- Tremors
-- Headache
-- Trouble sleeping
-- Dizziness
-- Stomach upset
-- Weight loss
-- Dry mouth
-
-DEXEDRINE may affect your or your child’s ability to drive or do other dangerous activities.
-Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
-This is not a complete list of possible side effects.
-Ask your doctor or pharmacist for more information.
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-How should I store DEXEDRINE?
-
-- Store DEXEDRINE SPANSULE capsules in a safe place at room temperature, 68° to 77°F (20° to 25°C).
-  Protect from light.
-- Keep DEXEDRINE and all medicines out of the reach of children.
-
-General information about DEXEDRINE
-
-Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use DEXEDRINE for a condition for which it was not prescribed.
-Do not give DEXEDRINE to other people, even if they have the same condition.
-It may harm them and it is against the law.
-
-This Medication Guide summarizes the most important information about DEXEDRINE.
-If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about DEXEDRINE that was written for healthcare professionals.
-For more information about DEXEDRINE, please contact Amneal Pharmaceuticals at 1-877-835-5472 or visit www.amneal.com.
-
-What are the ingredients in DEXEDRINE?
-
-Active Ingredient: Dextroamphetamine sulfate
-
-Inactive Ingredients:
-
-SPANSULE Capsules: Cetyl alcohol, D&C Yellow No. 10, dibutyl sebacate, ethylcellulose, FD&C Blue No. 1, FD&C Red No. 40, FD&C Yellow No. 6, gelatin, hypromellose, polyethylene glycol, povidone, sodium lauryl sulfate, sugar spheres and trace amounts of other inactive ingredients.
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Manufactured by: Catalent Pharma Solutions Winchester, KY 40391 Distributed by: Amneal Specialty, a division of Amneal Pharmaceuticals LLC Bridgewater, NJ 08807 Rev.
-03-2019-00 For additional copies of the printed medication guide, please visit www.amneal.com or contact us at 1-877-835-5472.
+| MEDICATION GUIDEDEXEDRINE®(dek-suh-drin) (dextroamphetamine sulfate) SPANSULE® sustained-release capsules, CII |
+| --- |
+| What is the most important information I should know about DEXEDRINE? DEXEDRINE may cause serious side effects, including: Abuse misuse, and addiction. DEXEDRINE has a high chance for abuse and misuse and may lead to substance use problems, including addiction. Misuse and abuse of DEXEDRINE, other amphetamine containing medicines, and methylphenidate containing medicines, can lead to overdose and death. The risk of overdose and death is increased with higher doses of DEXEDRINE or when it is used in ways that are not approved, such as snorting or injection. Your healthcare provider should check you or your child’s risk for abuse, misuse, and addiction before starting treatment with DEXEDRINE and will monitor you or your child during treatment.DEXEDRINE may lead to physical dependence after prolonged use, even if taken as directed by your healthcare provider.Do not give DEXEDRINE to anyone else. See “What is DEXEDRINE?” for more information.Keep DEXEDRINE in a safe place and properly dispose of any unused medicine. See “How should I store DEXEDRINE?” for more information.Tell your healthcare provider if you or your child have ever abused or been dependent on alcohol, prescription medicines, or street drugs. Risks for people with serious heart disease: Sudden death has happened in people who have heart defects or other serious heart disease. Your healthcare provider should check you or your child carefully for heart problems before starting DEXEDRINE. Tell your healthcare provider if you or your child have any heart problems, heart disease, or heart defects.Call your healthcare provider right away or go to the nearest hospital emergency room right away if you or your child have any signs of heart problems such as chest pain, shortness of breath, or fainting during treatment with DEXEDRINE.Increased blood pressure and heart rate. Your healthcare provider should check you or your child’s blood pressure and heart rate regularly during treatment with DEXEDRINE. Mental (psychiatric) problems, including: new or worse behavior or thought problemsnew or worse bipolar illness new psychotic symptoms (such as hearing voices, or seeing or believing things that are not real) or new manic symptoms Tell your healthcare provider about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.Call your healthcare provider right away if you or your child have any new or worsening mental symptoms or problems during treatment with DEXEDRINE, especially hearing voices, seeing or believing things that are not real, or new manic symptoms. |
+| What is DEXEDRINE?DEXEDRINE is a central nervous system (CNS) stimulant prescription medicine used for the treatment of: a sleep disorder called narcolepsy.Attention-Deficit Hyperactivity Disorder (ADHD) in children 6 to 17 years of age.DEXEDRINE may help increase attention and decrease impulsiveness and hyperactivity in people with ADHD. It is not known if DEXEDRINE is safe and effective in children under 6 years of age.DEXEDRINE is a federally controlled substance (CII) because it contains dextroamphetamine that can be a target for people who abuse prescription medicines or street drugs. Keep DEXEDRINE in a safe place to protect it from theft. Never give your DEXEDRINE to anyone else because it may cause death or harm them. Selling or giving away DEXEDRINE may harm others and is against the law. |
+| Do not take DEXEDRINE if you or your child: are allergic to amphetamine products or any of the ingredients in DEXEDRINE. See the end of this Medication Guide for a complete list of ingredients in DEXEDRINE.are taking or have taken within the past 14 days, a medicine used to treat depression called a monoamine oxidase inhibitor (MAOI), including the antibiotic linezolid or the intravenous medicine methylene blue. |
+| Before taking DEXEDRINE, tell your healthcare provider about all of your or your child’s medical conditions, including if you or your child: have heart problems, heart disease, heart defects, or high blood pressurehave mental problems including psychosis, mania, bipolar illness, or depression, or have a family history of suicide, bipolar illness, or depressionhave seizures or have had an abnormal brain wave test (EEG)have circulation problems in fingers and toeshave or had repeated movements or sounds (tics) or Tourette’s syndrome, or have a family history of tics or Tourette’s syndromeare pregnant or plan to become pregnant. It is not known if DEXEDRINE will harm the unborn baby. Tell your healthcare provider if you or your child become pregnant during treatment with DEXEDRINE.are breastfeeding or plan to breastfeed. DEXEDRINE passes into breast milk. You or your child should not breastfeed during treatment with DEXEDRINE. Talk to your healthcare provider about the est way to feed the baby during treatment with DEXEDRINE. Tell your healthcare provider about all of the medicines that you or your child take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.DEXEDRINE and some medicines may interact with each other and cause serious side effects. Sometimes the doses of other medicines will need to be changed during treatment with DEXEDRINE. Your healthcare provider will decide if DEXEDRINE can be taken with other medicines.Especially tell your healthcare provider if you or your child take: selective serotonin reuptake inhibitors (SSRIs)serotonin norepinephrine reuptake inhibitors (SNRIs)medicines used to treat migraine headaches called triptanstricyclic antidepressantslithiumfentanyltramadoltryptophanbuspironeSt. John’s Wort Know the medicines that you or your child take. Keep a list of your or your child’s medicines with you to show your healthcare provider and pharmacist when you or your child get a new medicine.Do not start any new medicine during treatment with DEXEDRINE without talking to your healthcare provider first. |
+| How should DEXEDRINE be taken? Take DEXEDRINE exactly as prescribed by your or your child’s healthcare provider. Your healthcare provider may change the dose if needed.DEXEDRINE DEXEDRINE is an extended-release capsule. It releases medicine into your body throughout the day. If you or your child take too much DEXEDRINE, call your healthcare provider or Poison Help line at 1-800-222-1222 or go to the nearest hospital emergency room right away. |
+| What are possible side effects of DEXEDRINE?DEXEDRINE may cause serious side effects, including: See “What is the most important information I should know about DEXEDRINE?”Slowing of growth (height and weight) in children. Children should have their height and weight checked often during treatment with DEXEDRINE. Your healthcare provider may stop your child’s DEXEDRINE treatment if they are not growing or gaining weight as expected.Seizures. Your healthcare provider may stop treatment with DEXEDRINE if you or your child have a seizure.Circulation problems in fingers and toes (peripheral vasculopathy, including Raynaud’s phenomenon). Signs and symptoms may include:fingers or toes may feel numb, cool, painfulfingers or toes may change color from pale, to blue, to red Tell your healthcare provider if you or your child have numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.Call your healthcare provider right away if you or your child have any signs of unexplained wounds appearing on fingers or toes during treatment with DEXEDRINE. New or worsening tics or worsening Tourette’s syndrome. Tell your healthcare provider if you or your child get any new or worsening tics or worsening Tourette’s syndrome during treatment with DEXEDRINE.Serotonin syndrome. This problem may happen when DEXEDRINE is taken with certain other medicines and may be life-threatening. Stop taking DEXEDRINE and call your healthcare provider or go to the nearest hospital emergency room right away if you or your child develop any of the following signs and symptoms of serotonin syndrome: agitation,fast heartbeatflushingseizurescomasweatingloss of coordinationconfusiondizzinesstremors, stiff muscles, or muscle twitchingseeing or hearing things that are not real (hallucination)changes in blood pressurehigh body temperature (hypothermia)nausea, vomiting, diarrhea The most common side effects of DEXEDRINE include: fast heartbeatdecreased appetitetremorsheadachetrouble sleepingdizzinessstomach upsetweight lossdry mouth These are not all of the possible side effects of DEXEDRINE. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
+| How should I store DEXEDRINE? Store DEXEDRINE at room temperature between 68° to 77°F (20° to 25°C). Store DEXEDRINE in a safe place, like a locked cabinet. Protect from light.Dispose of remaining, unused, or expired DEXEDRINE by a medicine take-back program at a U.S. Drug Enforcement Administration (DEA) authorized collection site. If no take-back program or DEA authorized collector is available, mix DEXEDRINE with an undesirable, nontoxic substance such as dirt, cat litter, or used coffee grounds to make it less appealing to children and pets. Place the mixture in a container such as a sealed plastic bag and throw away DEXEDRINE in the household trash. Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines. Keep DEXEDRINE and all medicines out of the reach of children. |
+| General information about the safe and effective use of DEXEDRINE. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use DEXEDRINE for a condition for which it was not prescribed. Do not give DEXEDRINE to other people, even if they have the same symptoms that you or your child have. It may harm them and it is against the law. You can ask your pharmacist or healthcare provider for information about DEXEDRINE that is written for healthcare professionals. |
+| What are the ingredients in DEXEDRINE?Active ingredient: dextroamphetamine sulfateInactive ingredients: cetyl alcohol, D&C Yellow No. 10, dibutyl sebacate, ethylcellulose, FD&C Blue No. 1, FD&C Red No. 40, FD&C Yellow No. 6, gelatin, hypromellose, polyethylene glycol, povidone, sodium lauryl sulfate, sugar spheres, and trace amounts of other inactive ingredients.Manufactured by:Catalent Pharma SolutionsWinchester, KY 40391Distributed by:Amneal Specialty, a division ofAmneal Pharmaceuticals LLCBridgewater, NJ 08807For more information about DEXEDRINE, visit www.amneal.com or call 1-877-835-5472. |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. Rev. 10-2023-01 |

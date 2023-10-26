@@ -1,10 +1,19 @@
 # OVERDOSAGE
 
-Manifestations of amphetamine overdose include restlessness, tremor, hyperreflexia, rapid respiration, confusion, assaultiveness, hallucinations, panic states, hyperpyrexia and rhabdomyolysis.
-Fatigue and depression usually follow the central nervous system stimulation.
-Serotonin syndrome has also been reported.
-Cardiovascular effects include arrhythmias, hypertension or hypotension and circulatory collapse.
-Gastrointestinal symptoms include nausea, vomiting, diarrhea and abdominal cramps.
-Fatal poisoning is usually preceded by convulsions and coma.
+Clinical Effects of Overdose
 
-Treatment Consult with a Certified Poison Control Center for up to date guidance and advice.
+Overdose of CNS stimulants is characterized by the following sympathomimetic effects:
+
+- Cardiovascular effects including tachyarrhythmias, and hypertension or hypotension.
+  Vasospasm, myocardial infarction, or aortic dissection may precipitate sudden cardiac death.
+  Takotsubo cardiomyopathy may develop.
+- CNS effects including psychomotor agitation, confusion, and hallucinations.
+  Serotonin syndrome, seizures, cerebral vascular accidents, and coma may occur.
+- Life-threatening hyperthermia (temperatures greater than 104°F) and rhabdomyolysis may develop.
+
+Overdose Management
+
+Consider the possibility of multiple drug ingestion.
+The prolonged release of amphetamine from DEXEDRINE should be considered when treating patients with overdose.
+D-amphetamine is not dialyzable.
+Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.
