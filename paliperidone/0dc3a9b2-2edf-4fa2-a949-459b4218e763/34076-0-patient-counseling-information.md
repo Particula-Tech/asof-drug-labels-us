@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Physicians are advised to discuss the following issues with patients for whom they prescribe paliperidone.
+
 Neuroleptic Malignant Syndrome (NMS)
 
 Counsel patients about a potentially fatal adverse reaction, Neuroleptic Malignant Syndrome (NMS), that has been reported in association with administration of antipsychotic drugs.
@@ -76,11 +78,9 @@ Manufactured by:
 
 Sun Pharmaceutical Industries Limited
 
-Survey No. 259/15,
+Survey No. 1012, Dadra-396 193, U.T. of D & NH and Daman & Diu, India.
 
-Dadra-396 191, (U.T. of D & NH), India.
-
-PGPI0275D
+5244997
 
 ISS.
-03/2021
+09/2023

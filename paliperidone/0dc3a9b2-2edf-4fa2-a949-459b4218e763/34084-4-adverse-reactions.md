@@ -45,42 +45,40 @@ Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical
 Table 4.
 Adverse Reactions Reported by ≥ 2% of Paliperidone-Treated Adult Subjects with Schizophrenia in Three Short-Term, Fixed-Dose, Placebo-Controlled Clinical Trials *
 
-| Body System or Organ Class Dictionary-Derived Term |  | Percentage of Patients Paliperidone |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Placebo | 3 mg once daily | 6 mg once daily |  | 9 mg once daily | 12 mg once daily |  |
-| (N=355) | (N=127) | (N=235) |  | (N=246) | (N=242) |  |
-| Total percentage of subjects with adverse reactions | 37 | 48 | 47 |  | 53 | 59 |
-| Cardiac disorders |  |  |  |  |  |  |
-| Atrioventricular block first degree | 1 | 2 | 0 |  | 2 | 1 |
-| Bundle branch block | 2 | 3 | 1 |  | 3 | <1 |
-| Sinus arrhythmia | 0 | 2 | 1 |  | 1 | <1 |
-| Tachycardia | 7 | 14 | 12 |  | 12 | 14 |
-| Gastrointestinal disorders |  |  |  |  |  |  |
-| Abdominal pain upper | 1 | 1 | 3 |  | 2 | 2 |
-| Dry mouth | 1 | 2 | 3 |  | 1 | 3 |
-| Salivary hypersecretion | <1 | 0 | <1 |  | 1 | 4 |
-| General disorders |  |  |  |  |  |  |
-| Asthenia | 1 | 2 | <1 |  | 2 | 2 |
-| Fatigue | 1 | 2 | 1 |  | 2 | 2 |
-| Nervous system disorders |  |  |  |  |  |  |
-| Akathisia | 4 | 4 | 3 |  | 8 | 10 |
-| Dizziness | 4 | 6 | 5 |  | 4 | 5 |
-| Extrapyramidal symptoms | 8 | 10 |  | 7 | 20 | 18 |
-| Headache | 12 | 11 |  | 12 | 14 | 14 |
-| Somnolence | 7 | 6 |  | 9 | 10 | 11 |
-| Vascular disorders |  |  |  |  |  |  |
-| Orthostatic hypotension | 1 | 2 |  | 1 | 2 | 4 |
+| Body System or Organ Class Dictionary-Derived Term |  | Percentage of Patients Paliperidone |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Placebo | 3 mg once daily | 6 mg once daily | 9 mg once daily | 12 mg once daily |  |
+| (N=355) | (N=127) | (N=235) | (N=246) | (N=242) |  |
+| Total percentage of subjects with adverse reactions | 37 | 48 | 47 | 53 | 59 |
+| Cardiac disorders |  |  |  |  |  |
+| Atrioventricular block first degree | 1 | 2 | 0 | 2 | 1 |
+| Bundle branch block | 2 | 3 | 1 | 3 | <1 |
+| Sinus arrhythmia | 0 | 2 | 1 | 1 | <1 |
+| Tachycardia | 7 | 14 | 12 | 12 | 14 |
+| Gastrointestinal disorders |  |  |  |  |  |
+| Abdominal pain upper | 1 | 1 | 3 | 2 | 2 |
+| Dry mouth | 1 | 2 | 3 | 1 | 3 |
+| Salivary hypersecretion | <1 | 0 | <1 | 1 | 4 |
+| General disorders |  |  |  |  |  |
+| Asthenia | 1 | 2 | <1 | 2 | 2 |
+| Fatigue | 1 | 2 | 1 | 2 | 2 |
+| Nervous system disorders |  |  |  |  |  |
+| Akathisia | 4 | 4 | 3 | 8 | 10 |
+| Dizziness | 4 | 6 | 5 | 4 | 5 |
+| Extrapyramidal symptoms | 8 | 10 | 7 | 20 | 18 |
+| Headache | 12 | 11 | 12 | 14 | 14 |
+| Somnolence | 7 | 6 | 9 | 10 | 11 |
+| Vascular disorders |  |  |  |  |  |
+| Orthostatic hypotension | 1 | 2 | 1 | 2 | 4 |
 
-* Table includes adverse reactions that were reported in 2% or more of subjects in any of the paliperidone
-
-dose groups and which occurred at greater incidence than in the placebo group.
-Extrapyramidal symptoms includes the terms oculogyric crisis, muscle rigidity, musculoskeletal stiffness, nuchal rigidity, torticollis, trismus, bradykinesia, cogwheel rigidity, dyskinesia, dystonia, extrapyramidal disorder, hypertonia, hypokinesia, muscle contractions involuntary, parkinsonian gait, parkinsonism, tremor, and restlessness.
-Somnolence includes the terms somnolence, sedation, and hypersomnia.
-Insomnia includes the terms insomnia and initial insomnia.
+* Table includes adverse reactions that were reported in 2% or more of subjects in any of the paliperidone dose groups and which occurred at greater incidence than in the placebo group.
+Data are pooled from three studies; one study included once-daily paliperidone doses of 3 mg and 9 mg, the second study included 6 mg, 9 mg, and 12 mg, and the third study included 6 mg and 12 mg [see Clinical Studies (14)].
+Extrapyramidal symptoms includes the terms dyskinesia, dystonia, extrapyramidal disorder, hypertonia, muscle rigidity, oculogyration, parkinsonism, and tremor.
+Somnolence includes the terms sedation and somnolence.
 Tachycardia includes the terms tachycardia, sinus tachycardia, and heart rate increased.
-Hypertension includes the terms hypertension and blood pressure increased.
-Gynecomastia includes the terms gynecomastia and breast swelling.
-Adolescent Patients with Schizophrenia Table 5 lists the adverse reactions reported in a fixed-dose, placebo-controlled study in adolescent subjects 12 to 17 years of age with schizophrenia, listing those that occurred in 2% or more of subjects treated with paliperidone in any of the dose groups, and for which the incidence in paliperidone-treated subjects in any of the dose groups was greater than the incidence in subjects treated with placebo.
+Adverse reactions for which the paliperidone incidence was equal to or less than placebo are not listed in the table, but included the following: vomiting.
+
+Adolescent Patients with SchizophreniaTable 5 lists the adverse reactions reported in a fixed-dose, placebo-controlled study in adolescent subjects 12 to 17 years of age with schizophrenia, listing those that occurred in 2% or more of subjects treated with paliperidone in any of the dose groups, and for which the incidence in paliperidone-treated subjects in any of the dose groups was greater than the incidence in subjects treated with placebo.
 Table 5.
 Adverse Reactions Reported by ≥ 2% of Paliperidone-Treated Adolescent Subjects with Schizophrenia in a Fixed-Dose, Placebo-Controlled Clinical Trial *
 
@@ -122,15 +120,14 @@ Adverse Reactions Reported by ≥ 2% of Paliperidone-Treated Adolescent Subjects
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |
 | Epistaxis | 0 | 0 | 0 | 2 | 0 |
 
-* Table includes adverse reactions that were reported in 2% or more of subjects in any of the paliperidone
-
-dose groups and which occurred at greater incidence than in the placebo group.
+* Table includes adverse reactions that were reported in 2% or more of subjects in any of the paliperidone dose groups and which occurred at greater incidence than in the placebo group.
 Extrapyramidal symptoms includes the terms oculogyric crisis, muscle rigidity, musculoskeletal stiffness, nuchal rigidity, torticollis, trismus, bradykinesia, cogwheel rigidity, dyskinesia, dystonia, extrapyramidal disorder, hypertonia, hypokinesia, muscle contractions involuntary, parkinsonian gait, parkinsonism, tremor, and restlessness.
 Somnolence includes the terms somnolence, sedation, and hypersomnia.
 Insomnia includes the terms insomnia and initial insomnia.
 Tachycardia includes the terms tachycardia, sinus tachycardia, and heart rate increased.
 Hypertension includes the terms hypertension and blood pressure increased.
 Gynecomastia includes the terms gynecomastia and breast swelling.
+
 Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials – Schizoaffective Disorder in Adults Table 6 enumerates the pooled incidences of adverse reactions reported in the two placebo-controlled 6-week studies in adult subjects, listing those that occurred in 2% or more of subjects treated with paliperidone and for which the incidence in paliperidone-treated subjects was greater than the incidence in subjects treated with placebo.
 
 Table 6.

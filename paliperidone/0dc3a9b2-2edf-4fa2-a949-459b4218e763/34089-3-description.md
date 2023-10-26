@@ -17,7 +17,7 @@ The 9 mg tablets also contain lactose monohydrate and iron oxide red.
 
 Imprinting ink contains shellac glaze, iron oxide black, N-butyl alcohol, propylene glycol and ammonium hydroxide.
 
-## Delivery System Components and Performance
+Delivery System Components and Performance
 
 Paliperidone extended release tablets employ a film-coated hydrophilic hydrogel matrix to deliver paliperidone at a controlled rate over 24 hours.
 The system comprises of: a core consists of the drug, rate-controlling polymer (forming hydrogel) and other excipients with pH independent coat surrounding core, comprising of water soluble and insoluble polymer and a film coat over it.
