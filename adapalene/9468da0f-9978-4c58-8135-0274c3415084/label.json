@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA216632"
+  ],
+  "inn": "adapalene",
+  "labeler": "Bausch Health US LLC",
+  "package_ndcs": [
+    "0187-0006-10",
+    "0187-0006-25",
+    "0187-0006-35"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "clindamycin phosphate/benzoyl peroxide/adapalene",
+      "name": "Cabtreo"
+    }
+  ],
+  "setid": "9468da0f-9978-4c58-8135-0274c3415084",
+  "source": "dailymed"
+}
