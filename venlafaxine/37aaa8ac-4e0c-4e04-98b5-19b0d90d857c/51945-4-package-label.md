@@ -6,7 +6,7 @@ Venlafaxine Tablets, USP
 
 25 mg
 
-SEALED FOR YOUR PROTECTION PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
@@ -20,7 +20,7 @@ Venlafaxine Tablets, USP
 
 37.5 mg
 
-SEALED FOR YOUR PROTECTION PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
@@ -34,7 +34,7 @@ Venlafaxine Tablets, USP
 
 50 mg
 
-SEALED FOR YOUR PROTECTION PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
@@ -48,7 +48,7 @@ Venlafaxine Tablets, USP
 
 75 mg
 
-SEALED FOR YOUR PROTECTION PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
@@ -62,7 +62,7 @@ Venlafaxine Tablets, USP
 
 100 mg
 
-SEALED FOR YOUR PROTECTION PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
