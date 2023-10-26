@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-Patients with Cancer Receiving Myelosuppressive Chemotherapy
+## 14.1 Patients with Cancer Receiving Myelosuppressive Chemotherapy
 
 Pegfilgrastim was evaluated in three randomized, double-blind, controlled studies.
 Studies 1 and 2 were active-controlled studies that employed doxorubicin 60 mg/m2 and docetaxel 75 mg/m2 administered every 21 days for up to 4 cycles for the treatment of metastatic breast cancer.
@@ -27,3 +27,23 @@ Patients with sarcoma receiving chemotherapy age 0 to 21 years were eligible.
 Patients were randomized to receive subcutaneous pegfilgrastim as a single-dose of 100 mcg/kg (n = 37) or subcutaneous filgrastim at a dose 5 mcg/kg/day (n = 6) following myelosuppressive chemotherapy.
 Recovery of neutrophil counts was similar in the pegfilgrastim and filgrastim groups.
 The most common adverse reaction reported was bone pain.
+
+## 14.2 Patients with Hematopoietic Subsyndrome of Acute Radiation Syndrome
+
+Efficacy studies of pegfilgrastim products could not be conducted in humans with acute radiation syndrome for ethical and feasibility reasons.
+Approval of this indication was based on efficacy studies conducted in animals and data supporting pegfilgrastim's effect on severe neutropenia in patients with cancer receiving myelosuppressive chemotherapy [see Dosage and Administration (2.1)].
+
+The recommended dose of Stimufend is two doses, 6 mg each, administered one week apart for humans exposed to myelosuppressive doses of radiation.
+For pediatric patients weighing less than 45 kg, dosing of Stimufend is weight-based and is provided in Table 1 [see Dosage and Administration (2.3)].
+This dosing regimen is based on population modeling and simulation analyses.
+The exposure associated with this dosing regimen is expected to provide sufficient pharmacodynamic activity to treat humans exposed to myelosuppressive doses of radiation [see Clinical Pharmacology (12.3)].
+The safety of pegfilgrastim at a dose of 6 mg has been assessed on the basis of clinical experience in patients with cancer receiving myelosuppressive chemotherapy.
+
+The efficacy of pegfilgrastim for the acute radiation syndrome setting was studied in a randomized, placebo-controlled non-human primate model of radiation injury.
+Rhesus macaques were randomized to either a control (n = 23) or treated (n = 23) cohort.
+On study day 0, animals (n = 6 to 8 per irradiation day) were exposed to total body irradiation (TBI) of 7.50 ± 0.15 Gy delivered at 0.8 ± 0.03 Gy/min, representing a dose that would be lethal in 50% of animals by 60 days of follow-up (LD50/60).
+Animals were administered subcutaneous injections of a blinded treatment (control article [5% dextrose in water] or pegfilgrastim [300-319 mcg/kg/day]) on study day 1 and on study day 8.
+The primary endpoint was survival.
+Animals received medical management consisting of intravenous fluids, antibiotics, blood transfusions, and other support as required.
+
+Pegfilgrastim significantly (at 0.0014 level of significance) increased 60-day survival in irradiated non-human primates: 91% survival (21/23) in the pegfilgrastim group compared to 48% survival (11/23) in the control group.

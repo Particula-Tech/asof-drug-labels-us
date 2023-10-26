@@ -1,4 +1,4 @@
-| Patient Information Stimufend® (stim-yu-fend) (pegfilgrastim-fpgk) injection Single-Dose Prefilled Syringe |  |
+| Patient Information Stimufend®(stim-yu-fend) (pegfilgrastim-fpgk) injection Single-Dose Prefilled Syringe |  |
 | --- | --- |
 | What is Stimufend? Stimufend is a man-made form of granulocyte colony-stimulating factor (G-CSF). G-CSF is a substance produced by the body. It stimulates the growth of neutrophils, a type of white blood cell important in the body's fight against infection. |  |
 | Do not take Stimufend if you have had a serious allergic reaction to pegfilgrastim products or filgrastim products. |  |
