@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA202344"
+  ],
+  "inn": "alendronate",
+  "labeler": "Radius Health, Inc.",
+  "package_ndcs": [
+    "70539-400-00",
+    "70539-400-04",
+    "70539-400-94"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EFFERVESCENT",
+      "generic": "alendronate sodium",
+      "name": "Binosto"
+    }
+  ],
+  "setid": "09765234-01bc-40f7-b9bb-c167056f3909",
+  "source": "dailymed"
+}
