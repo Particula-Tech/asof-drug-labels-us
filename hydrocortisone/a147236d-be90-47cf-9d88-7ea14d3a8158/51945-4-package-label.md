@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - LocoidLotion 4 fl. oz.
+PRINCIPAL DISPLAY PANEL – Locoid Lotion 4 fl. oz.
 Carton
 
 NDC 16781-392-04
