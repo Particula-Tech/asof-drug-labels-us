@@ -11,25 +11,25 @@ Amphetamines block the reuptake of norepinephrine and dopamine into the presynap
 
 ## 12.3 Pharmacokinetics
 
-Pharmacokinetic studies of ADDERALL XR have been conducted in healthy adult and pediatric (children aged 6-12 yrs) subjects, and adolescent (13-17 yrs) and children with ADHD.
-Both ADDERALL (immediate-release) tablets and ADDERALL XR extended release capsules contain d-amphetamine and l-amphetamine salts in the ratio of 3:1.
-Following administration of ADDERALL (immediate-release), the peak plasma concentrations occurred in about 3 hours for both d-amphetamine and l-amphetamine.
+Pharmacokinetic studies of ADDERALL XR have been conducted in healthy adult and pediatric (children aged 6 to 12 yrs) subjects, adolescent (13 to 17 yrs), and children with ADHD.
+Both Adderall (immediate-release) tablets and ADDERALL XR extended-release capsules contain d-amphetamine and l-amphetamine salts in the ratio of 3:1.
+Following administration of Adderall (immediate-release), the peak plasma concentrations occurred in about 3 hours for both d-amphetamine and l-amphetamine.
 
-The time to reach maximum plasma concentration (Tmax) for ADDERALL XR is about 7 hours, which is about 4 hours longer compared to ADDERALL (immediate-release).
+The time to reach maximum plasma concentration (Tmax) for ADDERALL XR is about 7 hours, which is about 4 hours longer compared to Adderall (immediate-release).
 This is consistent with the extended-release nature of the product.
 
-Figure 1 Mean d-amphetamine and l-amphetamine Plasma Concentrations Following Administration of ADDERALL XR 20 mg (8 am) and ADDERALL (immediate-release) 10 mg Twice Daily (8 am and 12 noon) in the Fed State.
+Figure 1: Mean d-amphetamine and l-amphetamine Plasma Concentrations Following Administration of ADDERALL XR 20 mg (8 am) and Adderall (immediate-release) 10 mg Twice Daily (8 am and 12 noon) in the Fed State.
 
-A single dose of ADDERALL XR 20 mg extended release capsules provided comparable plasma concentration profiles of both d-amphetamine and l-amphetamine to ADDERALL (immediate-release) 10 mg twice daily administered 4 hours apart.
+A single dose of ADDERALL XR 20 mg extended-release capsules provided comparable plasma concentration profiles of both d-amphetamine and l-amphetamine to Adderall (immediate-release) 10 mg twice daily administered 4 hours apart.
 
-The mean elimination half-life for d-amphetamine is 10 hours in adults; 11 hours in adolescents aged 13-17 years and weighing less than or equal to 75 kg/165 lbs; and 9 hours in children aged 6 to 12 years.
+The mean elimination half-life for d-amphetamine is 10 hours in adults; 11 hours in adolescents aged 13 to 17 years and weighing less than or equal to 75 kg/165 lbs; and 9 hours in children aged 6 to 12 years.
 For the l-amphetamine, the mean elimination half-life in adults is 13 hours; 13 to 14 hours in adolescents; and 11 hours in children aged 6 to 12 years.
 On a mg/kg body weight basis, children have a higher clearance than adolescents or adults (see Special Populations below).
 
 ADDERALL XR demonstrates linear pharmacokinetics over the dose range of 20 to 60 mg in adults and adolescents weighing greater than 75 kg/165 lbs, over the dose range of 10 to 40 mg in adolescents weighing less than or equal to 75 kg/165 lbs, and 5 to 30 mg in children aged 6 to 12 years.
 There is no unexpected accumulation at steady state in children.
 
-Food does not affect the extent of absorption of d-amphetamine and l-amphetamine, but prolongs Tmax by 2.5 hours (from 5.2 hrs at fasted state to 7.7 hrs after a high-fat meal) for d-amphetamine and 2.7 hours (from 5.6 hrs at fasted state to 8.3 hrs after a high fat meal) for l-amphetamine after administration of ADDERALL XR 30 mg.
+Food does not affect the extent of absorption of d-amphetamine and l-amphetamine, but prolongs Tmax by 2.5 hours (from 5.2 hrs at fasted state to 7.7 hrs after a high-fat meal) for d-amphetamine and 2.7 hours (from 5.6 hrs at fasted state to 8.3 hrs after a high-fat meal) for l-amphetamine after administration of ADDERALL XR 30 mg.
 Opening the capsule and sprinkling the contents on applesauce results in comparable absorption to the intact capsule taken in the fasted state.
 Equal doses of ADDERALL XR strengths are bioequivalent.
 
@@ -45,16 +45,16 @@ Amphetamine is known to inhibit monoamine oxidase, whereas the ability of amphet
 In vitro experiments with human microsomes indicate minor inhibition of CYP2D6 by amphetamine and minor inhibition of CYP1A2, 2D6, and 3A4 by one or more metabolites.
 However, due to the probability of auto-inhibition and the lack of information on the concentration of these metabolites relative to in vivo concentrations, no predications regarding the potential for amphetamine or its metabolites to inhibit the metabolism of other drugs by CYP isozymes in vivo can be made.
 
-With normal urine pHs, approximately half of an administered dose of amphetamine is recoverable in urine as derivatives of alpha-hydroxy-amphetamine and approximately another 30-40% of the dose is recoverable in urine as amphetamine itself.
+With normal urine pHs, approximately half of an administered dose of amphetamine is recoverable in urine as derivatives of alpha-hydroxy-amphetamine and approximately another 30 to 40% of the dose is recoverable in urine as amphetamine itself.
 Since amphetamine has a pKa of 9.9, urinary recovery of amphetamine is highly dependent on pH and urine flow rates.
 Alkaline urine pHs result in less ionization and reduced renal elimination, and acidic pHs and high flow rates result in increased renal elimination with clearances greater than glomerular filtration rates, indicating the involvement of active secretion.
-Urinary recovery of amphetamine has been reported to range from 1% to 75%, depending on urinary pH, with the remaining fraction of the dose hepatically metabolized.
+Urinary recovery of amphetamine has been reported to range from 1 to 75%, depending on urinary pH, with the remaining fraction of the dose hepatically metabolized.
 Consequently, both hepatic and renal dysfunction have the potential to inhibit the elimination of amphetamine and result in prolonged exposures.
 In addition, drugs that effect urinary pH are known to alter the elimination of amphetamine, and any decrease in amphetamine's metabolism that might occur due to drug interactions or genetic polymorphisms is more likely to be clinically significant when renal elimination is decreased [see Drug Interactions (7)].
 
 Special Populations
 
-Comparison of the pharmacokinetics of d- and l-amphetamine after oral administration of ADDERALL XR in children (6-12 years) and adolescent (13-17 years) ADHD patients and healthy adult volunteers indicates that body weight is the primary determinant of apparent differences in the pharmacokinetics of d- and l-amphetamine across the age range.
+Comparison of the pharmacokinetics of d- and l-amphetamine after oral administration of ADDERALL XR in children (6 to 12 years) and adolescent (13 to 17 years) ADHD patients and healthy adult volunteers indicates that body weight is the primary determinant of apparent differences in the pharmacokinetics of d- and l-amphetamine across the age range.
 Systemic exposure measured by area under the curve to infinity (AUC∞) and maximum plasma concentration (Cmax) decreased with increases in body weight, while oral volume of distribution (VZ/F), oral clearance (CL/F), and elimination half-life (t1/2) increased with increases in body weight.
 
 Pediatric Patients
@@ -66,19 +66,19 @@ Upon dose normalization on a mg/kg basis, children showed 30% less systemic expo
 
 Gender
 
-Systemic exposure to amphetamine was 20-30% higher in women (N=20) than in men (N=20) due to the higher dose administered to women on a mg/kg body weight basis.
+Systemic exposure to amphetamine was 20 to 30% higher in women (N=20) than in men (N=20) due to the higher dose administered to women on a mg/kg body weight basis.
 When the exposure parameters (Cmax and AUC) were normalized by dose (mg/kg), these differences diminished.
 Age and gender had no direct effect on the pharmacokinetics of d- and l-amphetamine.
 
 Race
 
 Formal pharmacokinetic studies for race have not been conducted.
-However, amphetamine pharmacokinetics appeared to be comparable among Caucasians (N=33), Blacks (N=8) and Hispanics (N=10).
+However, amphetamine pharmacokinetics appeared to be comparable among Caucasians (N=33), Blacks (N=8), and Hispanics (N=10).
 
 Patients with Renal Impairment
 
 The effect of renal impairment on d- and l-amphetamine after administration of ADDERALL XR has not been studied.
-The impact of renal impairment on the disposition of amphetamine is expected to be similar between oral administration of lisdexamfetamine and Adderall XR.
+The impact of renal impairment on the disposition of amphetamine is expected to be similar between oral administration of lisdexamfetamine and ADDERALL XR.
 
-In a pharmacokinetic study of lisdexamfetamine in adult subjects with normal and impaired renal function, mean d-amphetamine clearance was reduced from 0.7 L/hr/kg in normal subjects to 0.4 L/hr/kg in subjects with severe renal impairment (GFR 15 to <30mL/min/1.73m2).
+In a pharmacokinetic study of lisdexamfetamine in adult subjects with normal and impaired renal function, mean d-amphetamine clearance was reduced from 0.7 L/hr/kg in normal subjects to 0.4 L/hr/kg in subjects with severe renal impairment (GFR 15 to <30 mL/min/1.73 m2).
 Dialysis did not significantly affect the clearance of d-amphetamine [see Use in Specific Populations (8.6)].

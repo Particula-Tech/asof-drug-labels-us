@@ -1,11 +1,11 @@
 # 11 DESCRIPTION
 
 ADDERALL XR extended-release capsules contain mixed salts of a single-entity amphetamine, a CNS stimulant.
-ADDERALL XR contains equal amounts (by weight) of four salts: dextroamphetamine sulfate, amphetamine sulfate, dextroamphetamine saccharate and amphetamine (D,L)-aspartate monohydrate.
-This results in a 3.1:1 mixture of dextro- to levo- amphetamine base equivalent.
+ADDERALL XR contains equal amounts (by weight) of four salts: dextroamphetamine sulfate, amphetamine sulfate, dextroamphetamine saccharate and amphetamine (D, L)-aspartate monohydrate.
+This results in a 3.1:1 mixture of dextro- to levo-amphetamine base equivalent.
 
-The 5 mg, 10 mg, 15 mg, 20 mg, 25 mg and 30 mg strength extended release capsules are for oral administration.
-Adderall XR contains two types of drug-containing beads (immediate-release and delayed release) which prolong the release of amphetamine compared to the ADDERALL (immediate-release) tablet formulation.
+The 5 mg, 10 mg, 15 mg, 20 mg, 25 mg and 30 mg strength extended-release capsules are for oral administration.
+ADDERALL XR contains two types of drug-containing beads (immediate-release and delayed-release) which prolong the release of amphetamine compared to the Adderall (immediate-release) tablet formulation.
 
 Each capsule contains:
 
@@ -21,7 +21,7 @@ Each capsule contains:
 
 Inactive Ingredients and Colors
 
-The inactive ingredients in ADDERALL XR extended release capsules include: gelatin capsules, hydroxypropyl methylcellulose, methacrylic acid copolymer, opadry beige, sugar spheres, talc, and triethyl citrate.
+The inactive ingredients in ADDERALL XR extended-release capsules include: gelatin capsules, hydroxypropyl methylcellulose, methacrylic acid copolymer, opadry beige, sugar spheres, talc, and triethyl citrate.
 Gelatin capsules contain edible inks, kosher gelatin, and titanium dioxide.
-The 5 mg, 10 mg, and 15 mg capsules also contain FD&C Blue #2.
+The 5, 10, and 15 mg capsules also contain FD&C Blue #2.
 The 20 mg, 25 mg, and 30 mg capsules also contain red iron oxide and yellow iron oxide.

@@ -1,206 +1,44 @@
-# MEDICATION GUIDE ADDERALL XR® (ADD-ur-all X-R) CII
-
-Read the Medication Guide that comes with ADDERALL XR before you or your child starts taking it and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking to your doctor about you or your child's treatment with ADDERALL XR.
-
-What is the most important information I should know about ADDERALL XR?
-
-ADDERALL XR is a stimulant medicine.
-The following have been reported with use of stimulant medicines.
-
-1.
-Heart-related problems:
-
-- sudden death in patients who have heart problems or heart defects
-- stroke and heart attack in adults
-- increased blood pressure and heart rate
-
-Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems.
-
-Your doctor should check you or your child carefully for heart problems before starting ADDERALL XR.
-
-Your doctor should check you or your child's blood pressure and heart rate regularly during treatment with ADDERALL XR.
-
-Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking ADDERALL XR.
-
-2.
-Mental (Psychiatric) problems:
-
-All Patients
-
-- new or worse behavior and thought problems
-- new or worse bipolar illness
-- new or worse aggressive behavior or hostility
-
-Children and Teenagers
-
-- new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms
-
-Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.
-
-Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking ADDERALL XR, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.
-
-3.
-Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]:
-
-- Fingers or toes may feel numb, cool, painful
-- Fingers or toes may change from pale, to blue, to red
-
-Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.
-
-Call your doctor right away if you have or your child has any unexplained wounds appearing on fingers or toes while taking ADDERALL XR.
-
-What Is ADDERALL XR?
-
-ADDERALL XR is a once daily central nervous system stimulant prescription medicine.
-It is used for the treatment of Attention Deficit Hyperactivity Disorder (ADHD).
-ADDERALL XR may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.
-
-ADDERALL XR should be used as a part of a total treatment program for ADHD that may include counseling or other therapies.
-
-ADDERALL XR is a federally controlled substance (CII) because it can be abused or lead to dependence.
-Keep ADDERALL XR in a safe place to prevent misuse and abuse.
-Selling or giving away ADDERALL XR may harm others, and is against the law.
-
-Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs.
-
-Who should not take ADDERALL XR?
-
-ADDERALL XR should not be taken if you or your child:
-
-- have heart disease or hardening of the arteries
-- have moderate to severe high blood pressure
-- have hyperthyroidism
-- have an eye problem called glaucoma
-- are very anxious, tense, or agitated
-- have a history of drug abuse
-- are taking or have taken within the past 14 days an anti-depression medicine called a monoamine oxidase inhibitor or MAOI.
-- is sensitive to, allergic to, or had a reaction to other stimulant medicines
-
-ADDERALL XR has not been studied in children less than 6 years old.
-
-ADDERALL XR may not be right for you or your child.
-Before starting ADDERALL XR tell you or your child's doctor about all health conditions (or a family history of) including if you or your child:
-
-- have heart problems, heart defects, or high blood pressure
-- have mental problems including psychosis, mania, bipolar illness, or depression
-- have tics or Tourette's syndrome
-- have liver problems
-- have kidney problems
-- have end stage renal disease (ESRD)
-- have thyroid problems
-- have seizures or have had an abnormal brain wave test (EEG)
-- have circulation problems in fingers and toes
-- are pregnant or plan to become pregnant.
-  It is not known if ADDERALL XR will harm your unborn baby.
-  - There is a pregnancy registry for females who are exposed to ADDERALL XR during pregnancy.
-    The purpose of the registry is to collect information about the health of females exposed to ADDERALL XR and their baby.
-    If you or your child becomes pregnant during treatment with ADDERALL XR, talk to your healthcare provider about registering with the National Pregnancy Registry of Psychostimulants at 1-866-961-2388 or visit online at https://womensmentalhealth.org/clinical-and -research-programs/pregnancyregistry/othermedications/.
-  - are breastfeeding or plan to breastfeed.
-    ADDERALL XR passes into breast milk.
-    You or your child should not breastfeed during treatment with ADDERALL XR.
-
-Can ADDERALL XR be taken with other medicines?
-
-Tell your doctor about all of the medicines that you or your child takes including prescription and non-prescription medicines, vitamins, and herbal supplements.
-ADDERALL XR and some medicines may interact with each other and cause serious side effects.
-Sometimes the doses of other medicines will need to be adjusted while taking ADDERALL XR.
-
-Your doctor will decide whether ADDERALL XR can be taken with other medicines.
-Especially tell your doctor if you or your child takes:
-
-- anti-depression medicines including MAOIs
-- anti-psychotic medicines
-- lithium
-- narcotic pain medicines
-- seizure medicines
-- blood thinner medicines
-- blood pressure medicines
-- stomach acid medicines
-- cold or allergy medicines that contain decongestants
-
-Know the medicines that you or your child takes.
-Keep a list of your medicines with you to show your doctor and pharmacist.
-
-Do not start any new medicine while taking ADDERALL XR without talking to your doctor first.
-
-How should ADDERALL XR be taken?
-
-- Take ADDERALL XR exactly as prescribed.
-  Your doctor may adjust the dose until it is right for you or your child.
-- Take ADDERALL XR once a day in the morning when you first wake up.
-  ADDERALL XR is an extended release capsule.
-  It releases medicine into your body throughout the day.
-- Swallow ADDERALL XR extended release capsules whole with water or other liquids.
-  If you or your child cannot swallow the capsule, open it and sprinkle the medicine over a spoonful of applesauce.
-  Swallow all of the applesauce and medicine mixture without chewing immediately.
-  Follow with a drink of water or other liquid.
-  Never chew or crush the capsule or the medicine inside the capsule.
-- ADDERALL XR can be taken with or without food.
-- From time to time, your doctor may stop ADDERALL XR treatment for a while to check ADHD symptoms.
-- Your doctor may do regular checks of the heart and blood pressure while taking ADDERALL XR.
-  Children should have their height and weight checked often while taking ADDERALL XR.
-  ADDERALL XR treatment may be stopped if a problem is found during these check-ups.
-
-- If you or your child takes too much ADDERALL XR or overdoses, call your doctor or poison control center right away, or get emergency treatment.
-
-What are possible side effects of ADDERALL XR?
-
-See "What is the most important information I should know about ADDERALL XR?" for information on reported heart and mental problems.
-
-Other serious side effects include:
-
-- slowing of growth (height and weight) in children
-- seizures, mainly in patients with a history of seizures
-- eyesight changes or blurred vision
-
-Common side effects include:
-
-| headachestomach achetrouble sleepingweight lossdry mouth | decreased appetitenervousnessmood swingsdizzinessfast heart beat |
-| --- | --- |
-
-ADDERALL XR may affect you or your child's ability to drive or do other dangerous activities.
-
-Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
-
-This is not a complete list of possible side effects.
-Ask your doctor or pharmacist for more information.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-How should I store ADDERALL XR?
-
-- Store ADDERALL XR in a safe place at room temperature, 59 to 86° F (15 to 30° C).
-- Keep ADDERALL XR and all medicines out of the reach of children.
-
-General information about ADDERALL XR
-
-Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use ADDERALL XR for a condition for which it was not prescribed.
-Do not give ADDERALL XR to other people, even if they have the same condition.
-It may harm them and it is against the law.
-
-This Medication Guide summarizes the most important information about ADDERALL XR.
-If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about ADDERALL XR that was written for healthcare professionals.
-For more information, you may also contact Takeda Pharmaceuticals (the maker of ADDERALL XR) at 1-800-828-2088 or visit the website at http://www.adderallxr.com.
-
-What are the ingredients in ADDERALL XR?
-
-Active Ingredients: dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate, amphetamine sulfate
-
-Inactive Ingredients: gelatin capsules, hydroxypropyl methylcellulose, methacrylic acid copolymer, opadry beige, sugar spheres, talc, and triethyl citrate.
-Gelatin capsules contain edible inks, kosher gelatin, and titanium dioxide.
-The 5 mg, 10 mg, and 15 mg capsules also contain FD&C Blue #2.
-The 20 mg, 25 mg, and 30 mg capsules also contain red iron oxide and yellow iron oxide
-
-Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
-
-ADDERALL XR® is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc. © 2020 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
-
-Rev.
-2/2022
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+| MEDICATION GUIDE ADDERALL XR® (ADD-ur-all X-R) (mixed salts of a single-entity amphetamine product) extended-release capsules, CII |  |  |  |
+| --- | --- | --- | --- |
+| What is the most important information I should know about ADDERALL XR? ADDERALL XR may cause serious side effects, including: Abuse, misuse, and addiction. ADDERALL XR has a high chance for abuse and misuse and may lead to substance use problems, including addiction. Misuse and abuse of ADDERALL XR, other amphetamine containing medicines, and methylphenidate containing medicines, can lead to overdose and death. The risk of overdose and death is increased with higher doses of ADDERALL XR or when it is used in ways that are not approved, such as snorting or injection. Your healthcare provider should check you or your child’s risk for abuse, misuse, and addiction before starting treatment with ADDERALL XR and will monitor you or your child during treatment.ADDERALL XR may lead to physical dependence after prolonged use, even if taken as directed by your healthcare provider.Do not give ADDERALL XR to anyone else. See “What is ADDERALL XR?” for more information.Keep ADDERALL XR in a safe place and properly dispose of any unused medicine. See “How should I store ADDERALL XR?” for more information. |  |  |  |
+| Tell your healthcare provider if you or your child have ever abused or been dependent on alcohol, prescription medicines, or street drugs. Risks for people with serious heart disease. Sudden death has happened in people who have heart defects or other serious heart disease. |  |  |  |
+| Your healthcare provider should check you or your child carefully for heart problems before starting treatment with ADDERALL XR. Tell your healthcare provider if you or your child have any heart problems, heart disease, or heart defects. |  |  |  |
+| Call your healthcare provider or go to the nearest hospital emergency room right away if you or your child have any signs of heart problems such as chest pain, shortness of breath, or fainting during treatment with ADDERALL XR. Increased blood pressure and heart rate. Your healthcare provider should check you or your child’s blood pressure and heart rate regularly during treatment with ADDERALL XR. Mental (psychiatric) problems, including: new or worse behavior or thought problemsnew or worse bipolar illnessnew psychotic symptoms (such as hearing voices, or seeing or believing things that are not real) or new manic symptoms |  |  |  |
+| Tell your healthcare provider about any mental problems you or your child have or about a family history of suicide, bipolar illness, or depression. |  |  |  |
+| Call your healthcare provider right away if you or your child have any new or worsening mental symptoms or problems during treatment with ADDERALL XR, especially hearing voices, seeing or believing things that are not real, or new manic symptoms. |  |  |  |
+| What is ADDERALL XR? |  |  |  |
+| ADDERALL XR is a central nervous system (CNS) stimulant prescription medicine used for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in adults and children 6 years of age and older. ADDERALL XR may help increase attention and decrease impulsiveness and hyperactivity in people with ADHD. |  |  |  |
+| It is not known if ADDERALL XR is safe and effective in children under 6 years of age. |  |  |  |
+| ADDERALL XR is a federally controlled substance (CII) because it contains amphetamine that can be a target for people who abuse prescription medicines or street drugs. Keep ADDERALL XR in a safe place to protect it from theft. Never give your ADDERALL XR to anyone else because it may cause death or harm them. Selling or giving away ADDERALL XR may harm others and is against the law. |  |  |  |
+| Do not take ADDERALL XR if you or your child: are taking or have taken within the past 14 days, a medicine used to treat depression called a monoamine oxidase inhibitor (MAOI), including the antibiotic linezolid or the intravenous medicine methylene blueare allergic to amphetamine products or any of the ingredients in ADDERALL XR. See the end of this Medication Guide for a complete list of ingredients in ADDERALL XR. |  |  |  |
+| Before taking ADDERALL XR tell your healthcare provider about all of your or your child’s medical conditions, including if you or your child: have heart problems, heart disease, heart defects, or high blood pressurehave mental problems including psychosis, mania, bipolar illness, or depression, or have a family history of suicide, bipolar illness, or depressionhave kidney problems have seizures or have had an abnormal brain wave test (EEG)have circulation problems in fingers and toeshave or had repeated movements or sounds (tics) or Tourette’s syndrome, or have a family history of tics or Tourette’s syndromeare pregnant or plan to become pregnant. It is not known if ADDERALL XR will harm the unborn baby. Tell your healthcare provider if you or your child become pregnant during treatment with ADDERALL XR. There is a pregnancy registry for females who are exposed to ADDERALL XR during pregnancy. The purpose of the registry is to collect information about the health of females exposed to ADDERALL XR and their baby. If you or your child becomes pregnant during treatment with ADDERALL XR, talk to your healthcare provider about registering with the National Pregnancy Registry of Psychostimulants at 1-866-961-2388 or visit online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/othermedications/. are breastfeeding or plan to breastfeed. ADDERALL XR passes into breast milk. You or your child should not breastfeed during treatment with ADDERALL XR. Talk to your healthcare provider about the best way to feed the baby during treatment with ADDERALL XR. |  |  |  |
+| Tell your healthcare provider about all of the medicines that you or your child take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. |  |  |  |
+| ADDERALL XR and some medicines may interact with each other and cause serious side effects. Sometimes the doses of other medicines will need to be changed during treatment with ADDERALL XR. |  |  |  |
+| Your healthcare provider will decide if ADDERALL XR can be taken with other medicines. |  |  |  |
+| Especially tell your healthcare provider if you or your child take: |  |  |  |
+| selective serotonin reuptake inhibitors (SSRIs)medicines used to treat migraine headaches called triptanslithiumtramadolbuspirone |  | serotonin norepinephrine reuptake inhibitors (SNRIs)tricyclic antidepressantsfentanyltryptophanSt. John’s Wort |  |
+| Know the medicines that you or your child take. Keep a list of your or your child’s medicines with you to show your healthcare provider and pharmacist when you or your child get a new medicine. |  |  |  |
+| Do not start any new medicine during treatment with ADDERALL XR without talking to your healthcare provider first. |  |  |  |
+| How should ADDERALL XR be taken? Take ADDERALL XR exactly as prescribed by your or your child’s healthcare provider. Your healthcare provider may change the dose if needed.Take ADDERALL XR 1 time each day in the morning when you first wake up.ADDERALL XR can be taken with or without food.Swallow ADDERALL XR capsules whole. If you or your child cannot swallow the capsule whole, open it and sprinkle the medicine on applesauce. Swallow all of the applesauce and medicine mixture right away. Do not chew the applesauce and medicine mixture.Do not store the applesauce sprinkled with ADDERALL XR. If you or your child take too much ADDERALL XR, call your healthcare provider or Poison Help line at 1-800-222-1222 or go to the nearest hospital emergency room right away. |  |  |  |
+| What are the possible side effects of ADDERALL XR? ADDERALL XR may cause serious side effects, including: See "What is the most important information I should know about ADDERALL XR?"Slowing of growth (height and weight) in children. Children should have their height and weight checked often during treatment with ADDERALL XR. Your healthcare provider may stop your child’s ADDERALL XR treatment if they are not growing or gaining weight as expected.Seizures. Your healthcare provider may stop treatment with ADDERALL XR if you or your child have a seizure.Circulation problems in fingers and toes (peripheral vasculopathy, including Raynaud’s phenomenon). Signs and symptoms may include: fingers or toes may feel numb, cool, painfulfingers or toes may change color from pale, to blue, to red Tell your healthcare provider if you have or your child have any numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes. Call your healthcare provider right away if you have or your child have any signs of unexplained wounds appearing on fingers or toes during treatment with ADDERALL XR. |  |  |  |
+| Serotonin syndrome. This problem may happen when ADDERALL XR is taken with certain other medicines and may be life-threatening. Stop taking ADDERALL XR and call your healthcare provider or go to the nearest hospital emergency room right away if you or your child develop any of the following signs and symptoms of serotonin syndrome: |  |  |  |
+|  | agitation, hallucinations, coma, or other changes in mental statusproblems controlling movements or muscle twitchingfast heartbeatseizuresloss of coordination | confusiondizzinesschange in blood pressuresweating or fevernausea, vomiting, or diarrheamuscle stiffness or tightnesshigh body temperature (hyperthermia) |  |
+| New or worsening tics or worsening Tourette’s Syndrome. Tell your healthcare provider if you or your child get any new or worsening tics or worsening Tourette’s syndrome during treatment with ADDERALL XR. |  |  |  |
+| The most common side effects of ADDERALL XR in children ages 6 to 12 include: |  |  |  |
+| loss of appetitetrouble sleepingstomach (abdominal) painmood swings |  | vomitingnervousnessnauseafever |  |
+| The most common side effects of ADDERALL XR in adolescents ages 13 to 17 include: |  |  |  |
+| loss of appetitetrouble sleepingstomach (abdominal pain) |  | weight lossnervousness |  |
+| The most common side effects of ADDERALL XR in adults include: |  |  |  |
+| dry mouthloss of appetitetrouble sleepingheadacheweight lossnauseaanxiety |  | agitationdizzinessfast heartbeatdiarrheaweaknessurinary tract infections (UTIs) |  |
+| These are not all the possible side effects of ADDERALL XR. |  |  |  |
+| Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |
+| How should I store ADDERALL XR Store ADDERALL XR at room temperature between 68 to 77°F (20 to 25°C).Protect ADDERALL XR from light.Store ADDERALL XR in a safe place, like a locked cabinet.Dispose of remaining, unused, or expired ADDERALL XR by a medicine take-back program at a U.S. Drug Enforcement Administration (DEA) authorized collection site. If no take-back program or DEA authorized collector is available, mix ADDERALL XR with an undesirable, nontoxic substance such as dirt, cat litter, or used coffee grounds to make it less appealing to children and pets. Place the mixture in a container such as a sealed plastic bag and throw away ADDERALL XR in the household trash. Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines. Keep ADDERALL XR and all medicines out of the reach of children. |  |  |  |
+| General information about the safe and effective use of ADDERALL XR. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use ADDERALL XR for a condition for which it was not prescribed. Do not give ADDERALL XR to other people, even if they have the same condition. It may harm them and it is against the law. |  |  |  |
+| You can ask your healthcare provider or pharmacist for information about ADDERALL XR that is written for healthcare professionals. |  |  |  |
+| What are the ingredients in ADDERALL XR? |  |  |  |
+| Active ingredient: dextroamphetamine sulfate, amphetamine sulfate, dextroamphetamine saccharate, and amphetamine aspartate monohydrate |  |  |  |
+| Inactive ingredients: gelatin capsules, hydroxypropyl methylcellulose, methacrylic acid copolymer, opadry beige, sugar spheres, talc, and triethyl citrate. Gelatin capsules contain edible inks, kosher gelatin, and titanium dioxide. The 5 mg, 10 mg, and 15 mg capsules also contain FD&C Blue #2. The 20 mg, 25 mg, and 30 mg capsules also contain red iron oxide and yellow iron oxide |  |  |  |
+| Distributed by: Takeda Pharmaceuticals America, Inc, Lexington, MA 02421 |  |  |  |
+| ADDERALL XR® is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc. © 2023 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved. |  |  |  |
+| For more information, you may also contact Takeda Pharmaceuticals (the maker of ADDERALL XR) at 1-800-828-2088 or visit the website at http://www.adderallxr.com. |  |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  | ADL364 Revised: 10/2023 |
