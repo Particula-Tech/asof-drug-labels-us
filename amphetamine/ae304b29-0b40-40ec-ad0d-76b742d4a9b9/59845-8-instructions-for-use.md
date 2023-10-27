@@ -55,17 +55,14 @@ Step 10:
 
 - Store DYANAVEL XR at room temperature between 68°F to 77°F (20°C to 25°C).
 - Store DYANAVEL XR in a safe place, like a locked cabinet.
-- Dispose of remaining, unused, or expired DYANAVEL XR by a medicine take-back program at authorized collection sites such as retail pharmacies, hospital or clinic pharmacies, and law enforcement locations.
-  If no take-back program or authorized collector is available, mix DYANAVEL XR with an undesirable, nontoxic substance such as dirt, cat litter, or used coffee grounds to make it less appealing to children and pets.
+- Dispose of remaining, unused, or expired DYANAVEL XR by a medicine take-back program at a U.S. Drug Enforcement Administration (DEA) authorized collection sites such as retail pharmacies, hospital or clinic pharmacies, and law enforcement locations.
+  If no take-back program or DEA authorized collector is available, mix DYANAVEL XR with an undesirable, nontoxic substance such as dirt, cat litter, or used coffee grounds to make it less appealing to children and pets.
   Place the mixture in a container such as a sealed plastic bag and throw away DYANAVEL XR in the household trash.
 
 Keep DYANAVEL XR and all medicines out of the reach of children.
 
 Manufactured by: Tris Pharma, Inc. Monmouth Junction, NJ 08852
 
-For more information about DYANAVEL XR call 1-732-940-0358.
+For more information about DYANAVEL XR go to www.dyanavelxr.com or call 1-732-940-0358.
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration Approved: 05/2022
-
-LB8684 Rev.
-00 05/2022
+This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 10/2023

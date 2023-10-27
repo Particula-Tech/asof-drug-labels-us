@@ -1,20 +1,17 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Important Information Prior to Initiating Treatment
+## 2.1 Pretreatment Screening
 
-Prior to initiating treatment with DYANAVEL XR, assess for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
+Prior to treating patients with DYANAVEL XR, assess:
 
-Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy.
-Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically re-evaluate the need for DYANAVEL XR use [see Warnings and Precautions (5.1), and Drug Abuse and Dependence (9)].
+- for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
+- the family history and clinically evaluate patients for motor or verbal tics or Tourette’s syndrome before initiating DYANAVEL XR [see Warnings and Precautions (5.8)].
 
 ## 2.2 Recommended Dosage
 
 The recommended starting dosage is 2.5 mg or 5 mg once daily in the morning.
 The dosage may be increased in increments of 2.5 mg to 10 mg per day every 4 to 7 days based on clinical response.
 The maximum recommended dosage is 20 mg once daily.
-
-Pharmacological treatment of ADHD may be needed for extended periods.
-Healthcare providers should periodically re-evaluate the long-term use of DYANAVEL XR, and adjust dosage as needed.
 
 ## 2.3 Administration Information
 

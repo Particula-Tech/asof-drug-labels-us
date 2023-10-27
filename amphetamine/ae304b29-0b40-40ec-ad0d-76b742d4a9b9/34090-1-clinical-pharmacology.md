@@ -7,7 +7,7 @@ The mode of therapeutic action in ADHD is not known.
 
 ## 12.2 Pharmacodynamics
 
-Amphetamines block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
+Amphetamines block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extra neuronal space.
 
 ## 12.3 Pharmacokinetics
 

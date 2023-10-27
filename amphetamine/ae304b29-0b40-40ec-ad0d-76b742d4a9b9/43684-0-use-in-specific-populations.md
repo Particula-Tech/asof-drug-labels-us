@@ -51,8 +51,9 @@ Because of the potential for serious adverse reactions in a breastfed infant, ad
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness have been established in pediatric patients with ADHD ages 6 to 17 years [see Adverse Reactions (6.1), Clinical Pharmacology (12), and Clinical Studies (14)].
-Safety and efficacy in pediatric patients younger than 6 years with ADHD have not been established.
+The safety and effectiveness have been established in pediatric patients with ADHD ages 6 to 17 years [see Adverse Reactions (6.1), Clinical Pharmacology (12), and Clinical Studies (14)].
+
+The safety and efficacy of DYANAVEL XR in pediatric patients less than 6 years have not been established.
 
 Long-Term Growth Suppression
 

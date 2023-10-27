@@ -2,12 +2,10 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-Controlled Substance Status/Potential for Abuse, Misuse, and Dependence
+Abuse, Misuse, and Addiction
 
-Advise patients that DYANAVEL XR is a federally controlled substance because it can be abused or lead to dependence.
-Advise patients to store DYANAVEL XR in a safe place, preferably locked, to prevent abuse.
-Advise patients to comply with laws and regulations on drug disposal.
-Advise patients to dispose of remaining, unused, or expired DYANAVEL XR by a medicine take-back program if available [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9)].
+Educate patients and their families about the risks of abuse, misuse, and addiction of DYANAVEL XR, which can lead to overdose and death, and proper disposal of any unused drug [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2), Overdosage (10)].
+Advise patients to store DYANAVEL XR in a safe place, preferably locked, and instruct patients to not give DYANAVEL XR to anyone else.
 
 Dosage and Administration Instructions
 
@@ -24,20 +22,20 @@ DYANAVEL XR extended-release tablets
 
 - Tablets may be chewed or swallowed whole.
 
-Serious Cardiovascular Risks
+Risks to Patients with Serious Cardiac Disease
 
-Advise patients and their caregivers of serious cardiovascular risk (including sudden death, myocardial infarction, stroke, and hypertension) with DYANAVEL XR.
+Advise patients that there are potential risks to patients with serious cardiac disease, including sudden death, with DYANAVEL XR use.
 Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
 
-Blood Pressure and Heart Rate Increases
+Increased Blood Pressure and Heart Rate
 
 Instruct patients and their caregivers that DYANAVEL XR can cause elevations of their blood pressure and pulse rate [see Warnings and Precautions(5.3)].
 
-Psychiatric Risks
+Psychiatric Adverse Reactions
 
 Advise patients and their caregivers that DYANAVEL XR, at recommended doses, may cause psychotic or manic symptoms, even in patients without a prior history of psychotic symptoms or mania [see Warnings and Precautions (5.4)].
 
-Long-Term Suppression of Growth
+Long-Term Suppression of Growth in Pediatric Patients
 
 Advise patients and their caregivers that DYANAVEL XR may cause slowing of growth and weight loss [see Warnings and Precautions (5.5)].
 
@@ -55,6 +53,11 @@ Serotonin Syndrome
 
 Caution patients and their caregivers about the risk of serotonin syndrome with concomitant use of DYANAVEL XR and other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular MAOIs, both those intended to treat psychiatric disorders and also others such as linezolid [see Contraindications (4), Warnings and Precautions (5.7) and Drug Interactions (7.1)].
 Advise patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome.
+
+Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
+
+Advise patients that motor and verbal tics and worsening of Tourette’s Syndrome may occur during treatment with DYANAVEL XR.
+Instruct patients to notify their healthcare provider if emergence of new tics or worsening of tics or Tourette’s syndrome occurs [see Warnings and Precautions (5.8)].
 
 Concomitant Medications
 
@@ -80,7 +83,9 @@ Consumption of alcohol while taking
 
 DYANAVEL XR may result in a more rapid release of the dose of amphetamine [see Clinical Pharmacology (12.3)].
 
-Manufactured by: Tris Pharma, Inc. Monmouth Junction, NJ 08852
+Manufactured by:
+
+Tris Pharma, Inc. Monmouth Junction, NJ 08852
 
 LB8684 Rev.
-00 Revised May 2022
+01

@@ -1,21 +1,23 @@
 # 6 ADVERSE REACTIONS
 
-- The following adverse reactions are discussed in greater detail in other sections of the labeling:
-  - Drug Dependence [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
-  - Hypersensitivity to amphetamine, or other components of DYANAVEL XR [see Contraindications (4)]
-  - Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see Contraindications (4) and Drug Interactions (7.1)]
-  - Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
-  - Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
-  - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
-  - Long-Term Suppression of Growth [see Warnings and Precautions (5.5)]
-  - Peripheral Vasculopathy, including Raynaud's phenomenon [see Warnings and Precautions (5.6)]
-  - Serotonin Syndrome [see Warnings and Precautions (5.7)]
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+- Abuse, Misuse, and Addiction [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
+- Hypersensitivity to amphetamine, or other components of DYANAVEL XR [see Contraindications (4)]
+- Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see Contraindications (4) and Drug Interactions (7.1)]
+- Risks to Patients with Serious Cardiac Disease [see Warnings and Precautions (5.2)]
+- Increased Blood Pressure and Heart Rate [see Warnings and Precautions (5.3)]
+- Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
+- Long-Term Suppression of Growth in Pediatric Patients [see Warnings and Precautions (5.5)]
+- Peripheral Vasculopathy, including Raynaud's phenomenon [see Warnings and Precautions (5.6)]
+- Serotonin Syndrome [see Warnings and Precautions (5.7)]
+- Motor and Verbal Tics, and Worsening of Tourette’s Syndrome [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Clinical Trials Experience with Other Amphetamine Products in Pediatric Patients and Adults with ADHD
+Adverse Reactions in Studies with Other Amphetamine Products in Pediatric Patients and Adults with ADHD
 
 Cardiovascular: Palpitations, tachycardia, elevation of blood pressure, sudden death, myocardial infarction.
 There have been isolated reports of cardiomyopathy associated with chronic amphetamine use.
@@ -34,7 +36,7 @@ Endocrine: Impotence, changes in libido.
 
 Skin: Alopecia.
 
-Clinical Trials Experience with DYANAVEL XR in Pediatric Patients with ADHD
+Adverse Reactions in Studies with DYANAVEL XR in Pediatric Patients with ADHD
 
 There is limited experience with DYANAVEL XR in controlled trials.
 Based on this limited experience, the adverse reaction profile of DYANAVEL XR appears similar to other amphetamine extended-release products.
@@ -62,7 +64,7 @@ Serious skin rashes, including Stevens-Johnson Syndrome and toxic epidermal necr
 Cardiovascular: palpitations, sudden death, myocardial infarction.
 There have been isolated reports of cardiomyopathy associated with chronic amphetamine use
 
-Central Nervous System: restlessness, irritability, euphoria, dyskinesia, dysphoria, depression, tremor, aggression, anger, logorrhea, and paresthesia (including formication)
+Central Nervous System: restlessness, irritability, euphoria, dyskinesia, dysphoria, depression, tremor, aggression, anger, logorrhea, and paresthesia (including formication), motor and verbal tics
 
 Endocrine: impotence, changes in libido, frequent or prolonged erections
 
