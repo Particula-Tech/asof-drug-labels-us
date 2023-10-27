@@ -393,6 +393,42 @@ Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of NSCLC Pat
 
 Other laboratory abnormalities occurring in ≥20% of patients receiving KEYTRUDA were hyperglycemia (44% all Grades; 4.1% Grades 3-4), anemia (37% all Grades; 3.8% Grades 3-4), hypertriglyceridemia (36% all Grades; 1.8% Grades 3-4), lymphopenia (35% all Grades; 9% Grades 3-4), hypoalbuminemia (34% all Grades; 1.6% Grades 3-4), and hypercholesterolemia (20% all Grades; 0.7% Grades 3-4).
 
+Neoadjuvant and Adjuvant Treatment of Resectable NSCLC
+
+The safety of KEYTRUDA in combination with neoadjuvant platinum-containing chemotherapy followed by surgery and continued adjuvant treatment with KEYTRUDA as a single agent after surgery was investigated in KEYNOTE-671, a multicenter, randomized (1:1), double-blind, placebo-controlled trial in patients with previously untreated and resectable Stage II, IIIA, or IIIB (N2) NSCLC by AJCC 8th edition [see Clinical Studies (14.2)].
+Patients with active autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible.
+
+The median duration of exposure to KEYTRUDA 200 mg every 3 weeks was 10.9 months (range: 1 day to 18.6 months).
+The study population characteristics were: median age of 64 years (range: 26 to 83), 45% age 65 or older, 7% age 75 or older; 71% male; 61% White, 31% Asian, 2% Black, 4% race not reported; 9% Hispanic or Latino.
+
+Adverse reactions occurring in patients with resectable NSCLC receiving KEYTRUDA in combination with platinum containing chemotherapy, given as neoadjuvant treatment and continued as single agent adjuvant treatment, were generally similar to those occurring in patients in other clinical trials across tumor types receiving KEYTRUDA in combination with chemotherapy.
+
+Neoadjuvant Phase of KEYNOTE-671
+
+A total of 396 patients received at least 1 dose of KEYTRUDA in combination with platinum-containing chemotherapy as neoadjuvant treatment and 399 patients received at least 1 dose of placebo in combination with platinum-containing chemotherapy as neoadjuvant treatment.
+
+Serious adverse reactions occurred in 34% of patients who received KEYTRUDA in combination with platinum-containing chemotherapy as neoadjuvant treatment; the most frequent (≥2%) serious adverse reactions were pneumonia (4.8%), venous thromboembolism (3.3%), and anemia (2%).
+Fatal adverse reactions occurred in 1.3% of patients, including death due to unknown cause (0.8%), sepsis (0.3%), and immune-mediated lung disease (0.3%).
+
+Permanent discontinuation of any study drug due to an adverse reaction occurred in 18% of patients who received KEYTRUDA in combination with platinum-containing chemotherapy as neoadjuvant treatment; the most frequent (≥1%) adverse reactions that led to permanent discontinuation of any study drug were acute kidney injury (1.8%), interstitial lung disease (1.8%), anemia (1.5%), neutropenia (1.5%), and pneumonia (1.3%).
+
+Of the 396 KEYTRUDA-treated patients and 399 placebo-treated patients who received neoadjuvant treatment, 6% (n=25) and 4.3% (n=17), respectively, did not receive surgery due to adverse reactions.
+The most frequent (≥1%) adverse reactions that led to cancellation of surgery in the KEYTRUDA arm was interstitial lung disease (1%).
+
+Of the 325 KEYTRUDA-treated patients who received surgery, 3.1% (n=10) experienced delay of surgery (surgery more than 8 weeks from last neoadjuvant treatment if patient received less than 4 cycles of neoadjuvant therapy or more than 20 weeks after first dose of neoadjuvant treatment if patient received 4 cycles of neoadjuvant therapy) due to adverse reactions.
+Of the 317 placebo-treated patients who received surgery, 2.5% (n=8) experienced delay of surgery due to adverse reactions.
+
+Of the 325 KEYTRUDA-treated patients who received surgery, 7% (n=22) did not receive adjuvant treatment due to adverse reactions.
+Of the 317 placebo-treated patients who received surgery, 3.2% (n=10) did not receive adjuvant treatment due to adverse reactions.
+
+Adjuvant Phase of KEYNOTE-671
+
+A total of 290 patients in the KEYTRUDA arm and 267 patients in the placebo arm received at least 1 dose of adjuvant treatment.
+
+Of the patients who received single agent KEYTRUDA as adjuvant treatment, 14% experienced serious adverse reactions; the most frequent serious adverse reaction was pneumonia (3.4%).
+One fatal adverse reaction of pulmonary hemorrhage occurred.
+Permanent discontinuation of adjuvant KEYTRUDA due to an adverse reaction occurred in 12% of patients; the most frequent (≥1%) adverse reactions that led to permanent discontinuation of adjuvant KEYTRUDA were diarrhea (1.7%), interstitial lung disease (1.4%), AST increased (1%), and musculoskeletal pain (1%).
+
 Adjuvant Treatment of Resected NSCLC
 
 The safety of KEYTRUDA as a single agent was investigated in KEYNOTE-091, a multicenter, randomized (1:1), triple-blind, placebo-controlled trial in patients with completely resected Stage IB (T2a ≥4 cm), II, or IIIA NSCLC; adjuvant chemotherapy up to 4 cycles was optional [see Clinical Studies (14.2)].
@@ -1198,10 +1234,10 @@ Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence were e
 
 MCC
 
-Among the 50 patients with MCC enrolled in KEYNOTE-017 [see Clinical Studies (14.13)], the median duration of exposure to KEYTRUDA was 6.6 months (range 1 day to 23.6 months).
+Among the 105 patients with MCC enrolled in KEYNOTE-017 and KEYNOTE-913 [see Clinical Studies (14.13)], the median duration of exposure to KEYTRUDA was 6.3 months (range 1 day to 28 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible.
 Adverse reactions occurring in patients with MCC were similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
-Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence were elevated AST (11%) and hyperglycemia (19%).
+Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence included increased lipase (17%).
 
 RCC
 

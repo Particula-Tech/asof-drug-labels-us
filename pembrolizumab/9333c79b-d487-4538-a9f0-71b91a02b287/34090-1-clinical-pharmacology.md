@@ -38,9 +38,11 @@ Pediatric Patients: Pembrolizumab concentrations with weight-based dosing at 2 m
 
 ## 12.6 Immunogenicity
 
-The observed incidence of anti-drug antibody (ADA) is highly dependent on the sensitivity and specificity of the assay.
+The observed incidence of anti-drug antibodies (ADA) is highly dependent on the sensitivity and specificity of the assay.
 Differences in assay methods preclude meaningful comparisons of the incidence of ADA in the studies described in this section with the incidence of ADA in other studies, including those of KEYTRUDA or of other pembrolizumab products.
 
-Trough levels of pembrolizumab interfere with the electrochemiluminescent (ECL) assay results; therefore, a subset analysis was performed in the patients with a concentration of pembrolizumab below the drug tolerance level of the anti-product antibody assay.
-In clinical studies in patients treated with pembrolizumab at a dose of 2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every 2 or 3 weeks, 27 (2.1%) of 1289 evaluable patients tested positive for treatment-emergent anti-pembrolizumab antibodies of whom six (0.5%) patients had neutralizing antibodies against pembrolizumab.
-There was no evidence of an altered pharmacokinetic profile or increased infusion reactions with anti-pembrolizumab binding antibody development.
+Trough levels of pembrolizumab interfere with the electrochemiluminescent (ECL) assay results; therefore, a subset analysis was performed in the KEYTRUDA-treated patients with a pembrolizumab concentration below the drug tolerance level of the ADA assay.
+
+In clinical studies in patients treated with KEYTRUDA at a dosage of 2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every 2 or 3 weeks, 27 (2.1%) of 1,289 evaluable patients tested positive for treatment-emergent anti-pembrolizumab antibodies of whom 6 (0.5%) patients had neutralizing antibodies against pembrolizumab.
+There were no identified clinically significant effects of ADA on pembrolizumab pharmacokinetics or on the risk of infusion reactions.
+Because of the low occurrence of ADA, the effect of these ADA on the effectiveness of KEYTRUDA is unknown.
