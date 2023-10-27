@@ -2,16 +2,17 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Abuse and Dependence [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2,9.3)]
+- Abuse, Misuse, and Addiction [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2,9.3)]
 - Hypersensitivity to amphetamine, or other components of EVEKEO ODT [see Contraindications (4)]
 - Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see Contraindications (4) and Drug Interactions (7.1)]
-- Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
-- Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
+- Risks to Patients with Serious Cardiac Disease [see Warnings and Precautions (5.2)]
+- Increased Blood Pressure and Heart Rate [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Seizures [see Warnings and Precautions (5.6)]
-- Long-Term Suppression of Growth [see Warnings and Precautions (5.5)]
+- Long-Term Suppression of Growth in Pediatric Patients [see Warnings and Precautions (5.5)]
 - Peripheral Vasculopathy, including Raynaud's Phenomenon [see Warnings and Precautions (5.7)]
 - Serotonin Syndrome [see Warnings and Precautions (5.8)]
+- Motor and Verbal Tics, and Worsening of Tourette's Syndrome [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -50,7 +51,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Cardiovascular: Palpitations, tachycardia, elevation of blood pressure, sudden death, myocardial infarction.
 There have been isolated reports of cardiomyopathy associated with chronic amphetamine use.
 
-Central Nervous System: Psychotic episodes at recommended doses, overstimulation, irritability, restlessness, dizziness, insomnia, euphoria, mood swings, aggression, anger, logorrhea, dermatillomania, dyskinesia, dysphoria, tremor, fatigue, headache, exacerbation of motor and phonic tics and Tourette's syndrome
+Central Nervous System: Psychotic episodes at recommended doses, overstimulation, irritability, restlessness, dizziness, insomnia, euphoria, mood swings, aggression, anger, logorrhea, dermatillomania, dyskinesia, dysphoria, tremor, fatigue, headache, exacerbation of motor and verbal tics and Tourette's syndrome
 
 Gastrointestinal: Dry mouth, unpleasant taste, constipation, nausea, intestinal ischemia, other gastrointestinal disturbances, anorexia, and weight loss.
 

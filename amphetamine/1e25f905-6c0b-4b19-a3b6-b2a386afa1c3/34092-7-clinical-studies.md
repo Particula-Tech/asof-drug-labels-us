@@ -23,6 +23,6 @@ Table 3: Summary of Primary Efficacy Results in Pediatric Patients (6 to 12 year
 |  | Placebo | 15.3 (11.4) | 18.1 (1.09) | -- |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval. |  |  |  |  |
 
-Figure 1: LS Mean SKAMP-Combined Scores by Treatment and Timepoint for Pediatric Patients (6 to 12 years) with ADHD after 1 Week of Double Blind Treatment (Study 1)
+Figure 1: LS Mean SKAMP-Combined Scores by Treatment and Timepoint for Pediatric Patients (6 to 12 years) with ADHD after 1 Week of Double-Blind Treatment (Study 1)
 
 The values at pre-dose hour (zero) are observed means.

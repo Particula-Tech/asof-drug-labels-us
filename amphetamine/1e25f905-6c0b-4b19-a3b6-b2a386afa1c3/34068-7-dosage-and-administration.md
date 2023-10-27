@@ -1,23 +1,20 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Pre-treatment Screening
+## 2.1 Pretreatment Screening
 
-Prior to treating patients with EVEKEO ODT, assess for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
+Prior to treating patients with EVEKEO ODT, assess:
 
-Assess the risk of abuse prior to prescribing and monitor for signs of abuse and dependence while on therapy.
-Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically re-evaluate the need for EVEKEO ODT use [see Warnings and Precautions (5.1), and Drug Abuse and Dependence (9)].
+- for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
+- the family history and clinically evaluate patients for motor or verbal tics or Tourette's syndrome before initiating EVEKEO ODT [see Warnings and Precautions (5.9)].
 
-## 2.2 Dosage Information
+## 2.2 Recommended Dosage
 
 Administer EVEKEO ODT orally in the morning with or without food or liquid.
 
 The recommended starting dosage for pediatric patients 6 to 17 years of age is 5 mg once or twice daily.
 If necessary, administer an additional dose after 4 to 6 hours.
 Titrate the dosage in increments of 5 mg at weekly intervals depending on response and tolerability.
-
 Only in rare cases will it be necessary to exceed a total of 40 mg daily.
-
-Where possible, drug administration should be interrupted occasionally to determine if there is a recurrence of behavioral symptoms sufficient to require continued therapy.
 
 Amphetamine should be administered at the lowest effective dosage and dosage should be individually adjusted.
 
