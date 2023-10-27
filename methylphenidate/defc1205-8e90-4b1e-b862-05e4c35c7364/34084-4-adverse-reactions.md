@@ -1,27 +1,16 @@
 # 6 ADVERSE REACTIONS
 
-The following are discussed in more detail in other sections of the labeling:
-
-- Known hypersensitivity to methylphenidate products or other ingredients of QuilliChew ER [see Contraindications (4.1)]
-- Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see Contraindications (4.2), Drug Interactions (7.1)]
-- Drug Dependence [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)]
-- Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
-- Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
-- Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
-- Priapism [see Warnings and Precautions (5.5)]
-- Peripheral Vasculopathy, including Raynaud’s phenomenon [see Warnings and Precautions (5.6)]
-- Long-Term Suppression of Growth [see Warnings and Precautions (5.7)]
-- Risks in Phenylketonuria [see Warnings and Precautions (5.8)]
+The following are discussed in more detail in other sections of the labeling: • Known hypersensitivity to methylphenidate products or other ingredients of QuilliChew ER [see Contraindications (4.1)] • Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see Contraindications (4.2), Drug Interactions (7.1)] • Abuse, Misuse, and Addiction [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)] • Risks to Patients with Serious Cardiac Disease [see Warnings and Precautions (5.2)] • Increased Blood Pressure and Heart Rate [see Warnings and Precautions (5.3)] • Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)] • Priapism [see Warnings and Precautions (5.5)] • Peripheral Vasculopathy, including Raynaud’s phenomenon [see Warnings and Precautions (5.6)] • Long-Term Suppression of Growth in Pediatric Patients [see Warnings and Precautions (5.7)] • Risks in Phenylketonuria [see Warnings and Precautions (5.8)] • Acute Angle Closure Glaucoma [see Warnings and Precautions (5.9)] • Increased Intraocular Pressure and Glaucoma [see Warnings and Precautions (5.10)] • Motor and Verbal Tics, and Worsening of Tourette’s Syndrome [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Clinical Trials Experience with Other Methylphenidate Products in Children, Adolescents, and Adults with ADHD
+Adverse Reactions in Studies with Other Methylphenidate Products in Children, Adolescents, and Adults with ADHD
 
 Commonly reported (≥2% of the methylphenidate group and at least twice the rate of the placebo group) adverse reactions from placebo-controlled trials of methylphenidate products include: appetite decreased, weight decreased, nausea, abdominal pain, dyspepsia, dry mouth, vomiting, insomnia, anxiety, nervousness, restlessness, affect lability, agitation, irritability, dizziness, vertigo, tremor, blurred vision, blood pressure increased, heart rate increased, tachycardia, palpitations, hyperhidrosis, and pyrexia.
 
-Clinical Trials Experience with QuilliChew ER in Children with ADHD
+Adverse Reactions in Studies with QuilliChew ER in Children with ADHD
 
 There is limited experience with QuilliChew ER in controlled trials.
 The safety data in this section is based on data from a laboratory classroom study conducted in 90 pediatric subjects (ages 6 to 12 years) with ADHD.
@@ -50,7 +39,7 @@ Blood and Lymphatic System Disorders: Pancytopenia, Thrombocytopenia, Thrombocyt
 
 Cardiac Disorders: Angina pectoris, Bradycardia, Extrasystole, Supraventricular tachycardia, Ventricular extrasystole
 
-Eye Disorders: Diplopia, Mydriasis, Visual impairment
+Eye Disorders: Diplopia, Increased intraocular pressure, Mydriasis, Visual impairment
 
 General Disorders: Chest pain, Chest discomfort, Hyperpyrexia
 
@@ -62,7 +51,7 @@ Investigations: Alkaline phosphatase increased, Bilirubin increased, Hepatic enz
 
 Musculoskeletal, Connective Tissue and Bone Disorders: Arthralgia, Myalgia, Muscle twitching, Rhabdomyolysis
 
-Nervous System Disorders: Convulsion, Grand mal convulsion, Dyskinesia, Serotonin syndrome in combination with serotonergic drugs
+Nervous System Disorders: Convulsion, Grand mal convulsion, Dyskinesia, Serotonin syndrome in combination with serotonergic drugs, Motor and Verbal Tics
 
 Psychiatric Disorders: Disorientation, Hallucination, Hallucination auditory, Hallucination visual, Libido changes, Mania
 

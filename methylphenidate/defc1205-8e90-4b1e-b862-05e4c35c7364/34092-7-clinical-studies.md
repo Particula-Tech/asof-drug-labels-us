@@ -32,7 +32,7 @@ mean; CI: confidence interval.
 
 aLeast-Squares Mean Difference (drug minus placebo).
 
-Figure 3: SKAMP-Combined Scores Over Time (LS Mean ± SE) by Treatment Group (ITT Population)
+Figure 3: SKAMP-Combined Scores Over Time (LS Mean ±SE) by Treatment Group (ITT Population)
 
 ITT: intent-to-treat
 

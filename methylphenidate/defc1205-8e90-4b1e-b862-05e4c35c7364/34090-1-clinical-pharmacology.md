@@ -22,7 +22,7 @@ Figure 2: Mean Methylphenidate Plasma Concentration-Time Profiles After Administ
 
 Food Effect
 
-High-fat meal had no effect on the time to peak concentration, and increased C max and systemic exposure (AUCinf) of methylphenidate by about 20% and 4%, respectively, after a single dose administration of 40 mg QuilliChew ER.
+High-fat meal had no effect on the time to peak concentration, and increased Cmax and systemic exposure (AUCinf) of methylphenidate by about 20% and 4%, respectively, after a single dose administration of 40 mg QuilliChew ER.
 
 Elimination
 

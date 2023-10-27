@@ -23,10 +23,3 @@ The product is supplied in bottles of 100.
 
 Store at 20ºC to 25ºC (68ºF to 77ºF); excursions permitted from 15ºC to 30ºC (59ºF to 86ºF).
 [See USP Controlled Room Temperature.]
-
-Disposal
-
-Comply with local laws and regulations on drug disposal of CNS stimulants.
-Dispose of remaining, unused, or expired QuilliChew ER by a medicine take-back program or by an authorized collector registered with the Drug Enforcement Administration.
-If no take-back program or authorized collector is available, mix QuilliChew ER with an undesirable, nontoxic substance to make it less appealing to children and pets.
-Place the mixture in a container such as a sealed plastic bag and discard QuilliChew ER in the household trash.

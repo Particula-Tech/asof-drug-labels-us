@@ -14,7 +14,7 @@ There are clinical considerations [see Clinical Considerations].
 No teratogenic effects were observed in embryo-fetal development studies with oral administration of methylphenidate to pregnant rats and rabbits during organogenesis at doses 2 and 11 times, respectively, the maximum recommended human dose (MRHD).
 However, spina bifida was observed in rabbits at a dose 40 times the MRHD [see Data].
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
@@ -50,8 +50,9 @@ Monitor breastfeeding infants for adverse reactions, such as agitation, insomnia
 
 The safety and effectiveness of QuilliChew ER have been established in pediatric patients ages 6 to 17 years.
 Use of QuilliChew ER in these age groups is based on one adequate and well-controlled clinical study in pediatric patients 6 to 12 years old, pharmacokinetic data in adolescents and adults, and safety information from other methylphenidate-containing products.
-The long-term efficacy of methylphenidate in pediatric patients has not been established [see Clinical Pharmacology (12), Clinical Studies (14)].
-Safety and efficacy in pediatric patients below the age of 6 years have not been established.
+The safety and effectiveness of QuilliChew ER in pediatric patients less than 6 years have not been established.
+
+The long-term efficacy of methylphenidate in pediatric patients has not been established.
 
 Long Term Suppression of Growth
 
