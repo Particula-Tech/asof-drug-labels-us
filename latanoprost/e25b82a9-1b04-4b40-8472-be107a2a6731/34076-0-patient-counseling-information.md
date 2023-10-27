@@ -44,7 +44,7 @@ Rising Pharmaceuticals, Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 02/2023
+Revised: 09/2023
 
 INSTRUCTIONS FOR USE
 
@@ -99,4 +99,4 @@ Rising Pharmaceuticals, Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 02/2023
+Revised: 09/2023
