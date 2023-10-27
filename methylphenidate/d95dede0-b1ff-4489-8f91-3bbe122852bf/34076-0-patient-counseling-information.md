@@ -2,13 +2,10 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Controlled Substance Status/Potential for Abuse and Dependence
+Abuse, Misuse, and Addiction
 
-Advise patients that JORNAY PM is a federally controlled substance, and it can be abused or lead to dependence [see Drug Abuse and Dependence (9.1, 9.2, 9.3)].
-Instruct patients that they should not give JORNAY PM to anyone else.
-Advise patients to store JORNAY PM in a safe place, preferably locked, to prevent abuse.
-Advise patients to comply with laws and regulations on drug disposal.
-Advise patients to dispose of remaining, unused, or expired JORNAY PM through a medicine take-back program if available [Warnings and Precautions (5.1), Abuse and Dependence (9.2, 9.3), How Supplied/Storage and Handling (16)].
+Educate patients and their families about the risks of abuse, misuse, and addiction of JORNAY PM, which can lead to overdose and death, and proper disposal of any unused drug [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2,), Overdosage (10)].
+Advise patients to store JORNAY PM in a safe place, preferably locked, and instruct patients to not give JORNAY PM to anyone else.
 
 Dosage and Administration Instructions
 
@@ -18,21 +15,21 @@ It should be taken consistently, either with food or without food, and patients 
 
 For patients who take JORNAY PM sprinkled over applesauce, the contents of the entire capsule should be consumed immediately; it should not be stored.
 Patients should take the applesauce with sprinkled beads in its entirety without chewing.
-When initiating treatment with JORNAY PM, provide dosage escalation and administration instructions [see Dosage and Administration (2)].
+When initiating treatment with JORNAY PM, provide dosage escalation and administration instructions [see Dosage and Administration (2.3)].
 
 Advise patients that if they forget to take JORNAY PM at their regularly scheduled time, they may take it as soon as they remember that same evening.
 If a patient remembers the following morning that they forgot to take their JORNAY PM dose the evening before, advise the patient to wait until their next scheduled evening administration.
 
-Serious Cardiovascular Risks
+Risks to Patients with Serious Cardiac Disease
 
-Advise patients that there is a potential for serious cardiovascular risks including sudden death, myocardial infarction, stroke, and hypertension with JORNAY PM use.
+Advise patients that there are potential risks to patients with serious cardiac disease, including sudden death, with JORNAY PM use.
 Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
 
-Blood Pressure and Heart Rate Increases
+Increased Blood Pressure and Heart Rate
 
 Advise patients that JORNAY PM can cause elevations in blood pressure and heart rate [see Warnings and Precautions (5.3)].
 
-Psychiatric Risks
+Psychiatric Adverse Reactions
 
 Advise patients that JORNAY PM, at recommended doses, can cause psychotic or manic symptoms, even in patients without a prior history of psychotic symptoms or mania [see Warnings and Precautions (5.4)].
 
@@ -48,9 +45,18 @@ Circulation Problems in Fingers and Toes [peripheral vasculopathy, including Ray
 - Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking JORNAY PM.
 - Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients [see Warnings and Precautions (5.6)].
 
-Suppression of Growth
+Suppression of Growth in Pediatric Patients
 
 Advise patients, caregivers, and family members that JORNAY PM can cause slowing of growth and weight loss [see Warnings and Precautions (5.7)].
+
+Increased Intraocular Pressure (IOP) and Glaucoma
+
+Advise patients that IOP and glaucoma may occur during treatment with JORNAY PM [see Warnings and Precautions (5.9)].
+
+Motor and Verbal Tics, and Worsening of Tourette's Syndrome
+
+Advise patients that motor and verbal tics and worsening of Tourette's Syndrome may occur during treatment with JORNAY PM.
+Instruct patients to notify their healthcare provider if emergence of new tics or worsening of tics or Tourette's syndrome occurs [see Warnings and Precautions (5.10)].
 
 Alcohol Effect
 

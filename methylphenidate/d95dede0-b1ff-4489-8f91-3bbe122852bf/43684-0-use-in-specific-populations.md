@@ -55,9 +55,9 @@ Monitor breastfeeding infants for adverse reactions, such as agitation, insomnia
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of JORNAY PM in pediatric patients less than 6 years have not been established.
-
 The safety and effectiveness of JORNAY PM have been established in pediatric patients ages 6 to 17 years in two adequate and well-controlled clinical studies in pediatric patients 6 to 12 years, pharmacokinetic data in adults, and safety information from other methylphenidate-containing products [see Clinical Studies (14) and see Clinical Pharmacology (12.3)].
+
+The safety and effectiveness of JORNAY PM in pediatric patients less than 6 years have not been established.
 
 The long-term efficacy of methylphenidate in pediatric patients has not been established.
 

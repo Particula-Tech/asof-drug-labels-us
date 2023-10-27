@@ -1,10 +1,10 @@
-Principal Display Panel - Jornay PM® 20 mg Bottle Label
+Principal Display Panel - Jornay PM®20 mg Bottle Label
 
 NDC 71376-201-03
 
 Take Only In The Evening
 
-Jornay PM® CII
+Jornay PM®CII
 
 [methylphenidate hydrochloride]
 
@@ -18,13 +18,13 @@ Rx Only
 
 100 Capsules
 
-Principal Display Panel - Jornay PM® 40 mg Bottle Label
+Principal Display Panel - Jornay PM®40 mg Bottle Label
 
 NDC 71376-202-03
 
 Take Only In The Evening
 
-Jornay PM® CII
+Jornay PM®CII
 
 [methylphenidate hydrochloride]
 
@@ -38,13 +38,13 @@ Rx Only
 
 100 Capsules
 
-Principal Display Panel - Jornay PM® 60 mg Bottle Label
+Principal Display Panel - Jornay PM®60 mg Bottle Label
 
 NDC 71376-203-03
 
 Take Only In The Evening
 
-Jornay PM® CII
+Jornay PM®CII
 
 [methylphenidate hydrochloride]
 
@@ -58,13 +58,13 @@ Rx Only
 
 100 Capsules
 
-Principal Display Panel - Jornay PM® 80 mg Bottle Label
+Principal Display Panel - Jornay PM®80 mg Bottle Label
 
 NDC 71376-204-03
 
 Take Only In The Evening
 
-Jornay PM® CII
+Jornay PM®CII
 
 [methylphenidate hydrochloride]
 
@@ -78,13 +78,13 @@ Rx Only
 
 100 Capsules
 
-Principal Display Panel - Jornay PM® 100 mg Bottle Label
+Principal Display Panel - Jornay PM®100 mg Bottle Label
 
 NDC 71376-205-03
 
 Take Only In The Evening
 
-Jornay PM® CII
+Jornay PM®CII
 
 [methylphenidate hydrochloride]
 

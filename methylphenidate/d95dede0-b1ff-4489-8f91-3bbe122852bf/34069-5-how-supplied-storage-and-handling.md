@@ -26,10 +26,3 @@ Storage and Handling
 
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Protect from humidity.
-
-Disposal
-
-Comply with local laws and regulations on drug disposal of CNS stimulants.
-Dispose of remaining, unused, or expired JORNAY PM by a medicine take-back program or by an authorized collector registered with the Drug Enforcement Administration.
-If no take-back program or authorized collector is available, mix JORNAY PM with an undesirable, nontoxic substance to make it less appealing to children and pets.
-Place the mixture in a container such as a sealed plastic bag and discard JORNAY PM in the household trash.

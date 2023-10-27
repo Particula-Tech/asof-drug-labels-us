@@ -2,25 +2,28 @@
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- Drug Dependence [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
+- Abuse, Misuse, and Addiction [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
 - Hypersensitivity to methylphenidate or other components of JORNAY PM [see Contraindications (4)]
 - Hypertensive crisis when used concomitantly with monoamine oxidase inhibitors [see Contraindications (4) and Drug Interactions (7.1)]
-- Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
-- Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
+- Risks to Patients with Serious Cardiac Disease [see Warnings and Precautions (5.2)]
+- Increased Blood Pressure and Heart Rate [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Priapism [see Warnings and Precautions (5.5)]
 - Peripheral Vasculopathy, including Raynaud's Phenomenon [see Warnings and Precautions (5.6)]
-- Long-term Suppression of Growth [see Warnings and Precautions (5.7)]
+- Long-term Suppression of Growth in Pediatric Patients [see Warnings and Precautions (5.7)]
+- Acute Angle Closure Glaucoma [see Warnings and Precautions (5.8)]
+- Increased Intraocular Pressure and Glaucoma [see Warnings and Precautions (5.9)]
+- Motor and Verbal Tics, and Worsening of Tourette's Syndrome [see Warnings and Precautions (5.10)]
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Clinical Trials Experience with Other Methylphenidate Products in Children, Adolescents, and Adults with ADHD
+Adverse Reactions in Studies with Other Methylphenidate Products in Children, Adolescents, and Adults with ADHD
 
 Commonly reported (≥2% of the methylphenidate group and at least twice the rate of the placebo group) adverse reactions from placebo-controlled trials of methylphenidate products include: appetite decreased, weight decreased, nausea, abdominal pain, dyspepsia, dry mouth, vomiting, insomnia, anxiety, nervousness, restlessness, affect lability, agitation, irritability, dizziness, vertigo, tremor, blurred vision, blood pressure increased, heart rate increased, tachycardia, palpitations, hyperhidrosis, and pyrexia.
 
-Clinical Trials Experience with JORNAY PM in Pediatric Patients (6 to 12 years) with ADHD
+Adverse Reactions in Studies with JORNAY PM in Pediatric Patients (6 to 12 years) with ADHD
 
 The safety of JORNAY PM was evaluated in 280 patients (6 to 12 years of age) who participated in two controlled clinical studies of patients with ADHD [see Clinical Studies (14)].
 
@@ -38,7 +41,7 @@ One patient in the JORNAY PM group discontinued from the study due to mood swing
 
 Table 1 provides the incidence of adverse reactions reported in Study 2 (incidence of 2% or more and at least twice placebo) among pediatric patients 6 to 12 years in a 3-week clinical trial.
 
-Table 1: Adverse Reactions Occurring in ≥2% of JORNAY PM-treated Pediatric Patients and Greater than Placebo in a 3-Week ADHD Study (Study 2)
+Table 1: Adverse Reactions that Occurred in ≥2% of JORNAY PM-treated Pediatric Patients and Greater than Placebo in a 3-Week ADHD Study (Study 2)
 
 | Body Organ System | Adverse Reaction | JORNAY PM (N=81) | Placebo (N=80) |
 | --- | --- | --- | --- |
@@ -69,7 +72,7 @@ Blood and Lymphatic System Disorders: Pancytopenia, Thrombocytopenia, Thrombocyt
 
 Cardiac Disorders: Angina pectoris, Bradycardia, Extrasystole, Supraventricular tachycardia, Ventricular extrasystole
 
-Eye Disorders: Diplopia, Mydriasis, Visual impairment
+Eye Disorders: Diplopia, Increased intraocular pressure, Mydriasis, Visual impairment
 
 General Disorders: Chest pain, Chest discomfort, Hyperpyrexia
 
@@ -79,7 +82,7 @@ Investigations: Alkaline phosphatase increased, Bilirubin increased, Hepatic enz
 
 Musculoskeletal, Connective Tissue and Bone Disorders: Arthralgia, Myalgia, Muscle twitching, Rhabdomyolysis
 
-Nervous System Disorders: Convulsion, Grand mal convulsion, Dyskinesia, Serotonin syndrome in combination with serotonergic drugs
+Nervous System Disorders: Convulsion, Grand mal convulsion, Dyskinesia, Serotonin syndrome in combination with serotonergic drugs, Motor and Verbal Tics
 
 Psychiatric Disorders: Disorientation, Hallucination, Hallucination auditory, Hallucination visual, Libido changes, Mania
 
