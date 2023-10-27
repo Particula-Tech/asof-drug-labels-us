@@ -53,8 +53,8 @@ Until it is reasonably well established that VABOMERE is well tolerated, advise 
 
 Prescribing VABOMERE in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of drug-resistant bacteria [see Indications and Usage (1.2)].
 
-## 5.8 Overgrowth of Nonsusceptible Organisms
+## 5.8 Overgrowth of Non-susceptible Organisms
 
-As with other antibacterial drugs, prolonged use of VABOMERE may result in overgrowth of nonsusceptible organisms.
+As with other antibacterial drugs, prolonged use of VABOMERE may result in overgrowth of non-susceptible organisms.
 Repeated evaluation of the patient is essential.
 If superinfection does occur during therapy, appropriate measures should be taken.

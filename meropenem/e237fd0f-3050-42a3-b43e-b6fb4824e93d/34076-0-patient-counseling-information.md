@@ -22,6 +22,11 @@ Counsel patients to inform their physician if they are taking valproic acid or d
 Valproic acid concentrations in the blood may drop below the therapeutic range upon co-administration with VABOMERE.
 If treatment with VABOMERE is necessary and continued, alternative or supplemental anti-convulsant medication to prevent and/or treat seizures may be needed [see Warnings and Precautions (5.4)].
 
+Interaction with Hormonal Contraceptives
+
+Advise patients that administration of VABOMERE may reduce the efficacy of hormonal contraceptives.
+Instruct patients to use effective alternative or back-up methods of contraception (such as condoms and spermicides) during treatment with VABOMERE [see Drug Interactions (7.4) and Use in Specific Populations (8.3)].
+
 Antibacterial Resistance
 
 Counsel patients that antibacterial drugs, including VABOMERE, should only be used to treat bacterial infections.

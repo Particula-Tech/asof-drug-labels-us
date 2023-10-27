@@ -10,4 +10,18 @@ If administration of VABOMERE is necessary, then supplemental anti-convulsant th
 ## 7.2 Probenecid
 
 Probenecid competes with meropenem for active tubular secretion, resulting in increased plasma concentrations of meropenem.
-Co-administration of probenecid with VABOMERE is not recommended.
+Co-administration of probenecid with VABOMERE is not recommended [see Clinical Pharmacology (12.3)].
+
+## 7.3 Potential for VABOMERE to Affect Other Drugs
+
+When administering VABOMERE concomitantly with medicinal products that are predominantly metabolized by CYP1A2, CYP3A4, CYP2C, and/or are substrates of P-gp transporters, there is a potential risk of interaction which may result in decreased plasma concentrations and activity of the co-administered drug(s) [see Clinical Pharmacology (12.3)].
+When VABOMERE is concomitantly administered with the substrates of CYP1A2, CYP3A4, CYP2C, and/or P-gp, refer to the prescribing information for these concomitant medications for guidance on need for dosage adjustments and/or need for frequent drug level monitoring when administered with a weak CYP inducer(s).
+
+When administering VABOMERE concomitantly with medicinal products that are substrate of OAT3 transporters, there is a potential risk of interaction which may result in increased plasma concentrations and activity of the co-administered drug(s) [see Clinical Pharmacology (12.3)].
+When VABOMERE is concomitantly administered with OAT3 substrate(s), refer to the prescribing information for these concomitant medication(s) for guidance on need for dosage adjustments and/or need for frequent drug level monitoring when administered with an OAT3 inhibitor(s).
+
+## 7.4 Hormonal Contraceptives
+
+Hormonal contraceptives (e.g., combined oral contraceptives containing a progestin and an estrogen) are metabolized by CYP3A and other pregnane X receptor (PXR)-regulated enzymes.
+Therefore, the blood concentration and the effectiveness of hormonal contraceptives may be reduced when used with VABOMERE [see Clinical Pharmacology (12.3)].
+Effective alternative non-hormonal forms of contraception or additional contraceptive methods are recommended for patients taking hormonal contraceptives when treated concomitantly with VABOMERE [see Use in Specific Populations (8.3) and Clinical Pharmacology (12.3)].

@@ -9,7 +9,7 @@ The following adverse reactions are discussed in greater detail in the Warnings 
 - Thrombocytopenia [see Warnings and Precautions (5.5)]
 - Potential for Neuromotor Impairment [see Warnings and Precautions (5.6)]
 - Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.7)]
-- Overgrowth of Nonsusceptible Organisms [see Warnings and Precautions (5.8)]
+- Overgrowth of Non-susceptible Organisms [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 

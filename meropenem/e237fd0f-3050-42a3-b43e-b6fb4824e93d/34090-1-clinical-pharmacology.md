@@ -105,21 +105,19 @@ Racial or Ethnic Groups
 
 No significant difference in mean meropenem or vaborbactam clearance was observed across race groups using a population pharmacokinetic analysis.
 
-Drug Interactions
+Drug Interaction Studies
 
 No drug-drug interaction was observed between meropenem and vaborbactam in clinical studies with healthy subjects.
 
-Based upon the in vitro and in vivo data available to date, there is a low potential for clinically significant drug interactions with vaborbactam.
+No clinical studies have been conducted to evaluate the potential for VABOMERE to affect other drugs.
+Meropenem and vaborbactam do not inhibit the following cytochrome P450 isoforms in vitro at clinically relevant concentrations: CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4 in human liver microsomes.
+In vitro data suggest a potential for weak induction of CYP1A2 (meropenem), CYP3A4 (meropenem and vaborbactam) and potentially other pregnane X receptor (PXR)-regulated enzymes and transporters [see Drug Interactions (7.3 and 7.4)].
 
-Vaborbactam at clinically relevant concentrations does not inhibit the cytochrome P450 isoforms CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4 in vitro human liver microsomes.
-Vaborbactam showed no potential for in vitro induction of CYP1A2, CYP2B6, and CYP3A4 in human hepatocytes.
-Studies evaluating the potential for meropenem to interact with CYP450 enzymes or active transport systems have not been conducted.
-However, carbapenems as a class have not shown the potential for inhibition or induction CYP450 enzymes and clinical experience suggests that such effects are unlikely.
+In vitro data suggest a potential of meropenem and vaborbactam to inhibit OAT3 at the clinically relevant concentrations.
+Meropenem and vaborbactam do not inhibit the following hepatic and renal transporters in vitro at clinically relevant concentrations: P-gp, BCRP, OAT1, OCT1, OCT2, OATP1B1, OATP1B3 or BSEP.
+Meropenem and vaborbactam were not substrates of OAT1, OCT2, P-gp, BCRP, MATE1, and MATE2-K.
 
-Vaborbactam does not inhibit the following hepatic and renal transporters in vitro at clinically relevant concentrations: P-gp, BCRP, OAT1, OAT3, OCT1, OCT2, OATP1B1, OATP1B3 or BSEP.
-Vaborbactam was not a substrate of OAT1, OAT3, OCT2, P-gp, and BCRP.
-
-Meropenem is a substrate of OAT1 and OAT3 and as such, probenecid competes with meropenem for active tubular secretion and thus inhibits the renal excretion of meropenem.
+Meropenem and vaborbactam are substrates of OAT3 and as such, probenecid competes with meropenem for active tubular secretion and thus inhibits the renal excretion of meropenem and the same mechanism could apply for vaborbactam.
 Following administration of probenecid with meropenem, the mean systemic exposure increased 56% and the mean elimination half-life increased 38% [see Drug Interactions (7.2)].
 
 Concomitant administration of meropenem and valproic acid has been associated with reductions in valproic acid concentrations with subsequent loss in seizure control [see Drug Interactions (7.1)].
