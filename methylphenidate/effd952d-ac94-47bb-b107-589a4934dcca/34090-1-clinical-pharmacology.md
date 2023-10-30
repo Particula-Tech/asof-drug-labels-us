@@ -9,7 +9,7 @@ The mode of therapeutic action in ADHD is not known.
 
 Methylphenidate is a racemic mixture comprised of the d- and l-threo enantiomers.
 The d-threo enantiomer is more pharmacologically active than the l-threo enantiomer.
-Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
+Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increases the release of these monoamines into the extraneuronal space.
 
 Cardiac Electrophysiology
 
@@ -29,7 +29,7 @@ No accumulation of methylphenidate is expected following multiple once daily ora
 
 Absorption
 
-The absolute oral bioavailability of methylphenidate in children was 22 ± 8% for d-methylphenidate and 5 ± 3% for l-methylphenidate.
+The absolute oral bioavailability of methylphenidate in children was 22% ± 8% for d-methylphenidate and 5% ± 3% for l-methylphenidate.
 The relative bioavailability of Ritalin LA given once daily is comparable to the same total dose of Ritalin tablets given in 2 doses 4 hours apart in both children and adults.
 
 The initial rate of absorption for Ritalin LA is similar to that of Ritalin tablets as shown by the similar rate parameters between the 2 formulations, i.e., initial lag time (Tlag), first peak concentration (Cmax1), and time to the first peak (Tmax1), which is reached in 1 to 3 hours.
@@ -47,23 +47,23 @@ Table 4: Mean ± SD and Range of Pharmacokinetic Parameters of Methylphenidate A
 | Formulation Dose | Ritalin 10 mg & 10 mg | Ritalin LA 20 mg | Ritalin 10 mg & 10 mg | Ritalin LA 20 mg |
 | N | 21 | 18 | 9 | 8 |
 | Tlag (h) | 0.24 ± 0.44 | 0.28 ± 0.46 | 1.0 ± 0.5 | 0.7 ± 0.2 |
-|  | 0 - 1 | 0 - 1 | 0.7 - 1.3 | 0.3 - 1.0 |
+| 0 - 1 | 0 - 1 | 0.7 - 1.3 | 0.3 - 1.0 |  |
 | Tmax1 (h) | 1.8 ± 0.6 | 2.0 ± 0.8 | 1.9 ± 0.4 | 2.0 ± 0.9 |
-|  | 1 - 3 | 1 - 3 | 1.3 - 2.7 | 1.3 - 4.0 |
+| 1 - 3 | 1 - 3 | 1.3 - 2.7 | 1.3 - 4.0 |  |
 | Cmax1 (ng/mL) | 10.2 ± 4.2 | 10.3 ± 5.1 | 4.3 ± 2.3 | 5.3 ± 0.9 |
-|  | 4.2 - 20.2 | 5.5 - 26.6 | 1.8 - 7.5 | 3.8 - 6.9 |
+| 4.2 - 20.2 | 5.5 - 26.6 | 1.8 - 7.5 | 3.8 - 6.9 |  |
 | Tminip (h) | 4.0 ± 0.2 | 4.5 ± 1.2 | 3.8 ± 0.4 | 3.6 ± 0.6 |
-|  | 4 - 5 | 2 - 6 | 3.3 - 4.3 | 2.7 - 4.3 |
+| 4 - 5 | 2 - 6 | 3.3 - 4.3 | 2.7 - 4.3 |  |
 | Cminip (ng/mL) | 5.8 ± 2.7 | 6.1 ± 4.1 | 1.2 ± 1.4 | 3.0 ± 0.8 |
-|  | 3.1 - 14.4 | 2.9 - 21.0 | 0.0 - 3.7 | 1.7 - 4.0 |
+| 3.1 - 14.4 | 2.9 - 21.0 | 0.0 - 3.7 | 1.7 - 4.0 |  |
 | Tmax2 (h) | 5.6 ± 0.7 | 6.6 ± 1.5 | 5.9 ± 0.5 | 5.5 ± 0.8 |
-|  | 5 - 8 | 5 - 11 | 5.0 - 6.5 | 4.3 - 6.5 |
+| 5 - 8 | 5 - 11 | 5.0 - 6.5 | 4.3 - 6.5 |  |
 | Cmax2 (ng/mL) | 15.3 ± 7.0 | 10.2 ± 5.9 | 5.3 ± 1.4 | 6.2 ± 1.6 |
-|  | 6.2 - 32.8 | 4.5 - 31.1 | 3.6 - 7.2 | 3.9 - 8.3 |
-| AUC(0-∞) | 102.4 ± 54.6 | 86.6 ± 64.0a | 37.8 ± 21.9 | 45.8 ± 10.0 |
-| (ng/mL x h-1) | 40.5 - 261.6 | 43.3 - 301.44 | 14.3 - 85.3 | 34.0 - 61.6 |
+| 6.2 - 32.8 | 4.5 - 31.1 | 3.6 - 7.2 | 3.9 - 8.3 |  |
+| AUC(0-∞) (ng/mL x h-1) | 102.4 ± 54.6 | 86.6 ± 64.0a | 37.8 ± 21.9 | 45.8 ± 10.0 |
+| 40.5 - 261.6 | 43.3 - 301.44 | 14.3 - 85.3 | 34.0 - 61.6 |  |
 | t1/2 (h) | 2.5 ± 0.8 | 2.4 ± 0.7a | 3.5 ± 1.9 | 3.3 ± 0.4 |
-|  | 1.8 - 5.3 | 1.5 - 4.0 | 1.3 - 7.7 | 3.0 - 4.2 |
+| 1.8 - 5.3 | 1.5 - 4.0 | 1.3 - 7.7 | 3.0 - 4.2 |  |
 | aN = 15. |  |  |  |  |
 
 Effect of Food
@@ -99,7 +99,7 @@ The half-life of ritalinic acid is about 3 to 4 hours.
 
 Metabolism
 
-The absolute oral bioavailability of methylphenidate in children was 22 ± 8% for d-methylphenidate and 5 ± 3% for l-methylphenidate, suggesting pronounced presystemic metabolism.
+The absolute oral bioavailability of methylphenidate in children was 22% ± 8% for d-methylphenidate and 5% ± 3% for l-methylphenidate, suggesting pronounced presystemic metabolism.
 Biotransformation of methylphenidate by the carboxylesterase CES1A1 is rapid and extensive leading to the main, de-esterified metabolite α-phenyl-2-piperidine acetic acid (ritalinic acid), which has little or no pharmacologic activity.
 Only small amounts of hydroxylated metabolites (e.g., hydroxymethylphenidate and hydroxyritalinic acid) are detectable in plasma.
 Therapeutic activity is principally due to the parent compound.
@@ -125,7 +125,7 @@ Pediatric Patients
 The pharmacokinetics of Ritalin LA was examined in 18 children with ADHD between 7 and 12 years of age.
 Fifteen of these children were between 10 and 12 years of age.
 The time until the between peak minimum, and the time until the second peak were delayed and more variable in children compared to adults.
-After a 20-mg dose of Ritalin LA, concentrations in children were approximately twice the concentrations observed in 18 to 35 year old adults.
+After a 20-mg dose of Ritalin LA, concentrations in children were approximately twice the concentrations observed in 18- to 35- year- old adults.
 This higher exposure is almost completely due to the smaller body size and total volume of distribution in children, as apparent clearance normalized to body weight is independent of age.
 
 Patients with Renal Impairment

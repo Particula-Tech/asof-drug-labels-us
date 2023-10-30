@@ -7,9 +7,9 @@ Each bead-filled Ritalin LA capsule contains half the dose as immediate-release 
 
 The active substance in Ritalin LA is methyl α-phenyl-2-piperidineacetate hydrochloride, and its structural formula is
 
-Methylphenidate hydrochloride USP is a white, odorless, fine crystalline powder.
-Its solutions are acid to litmus.
-It is freely soluble in water and in methanol, soluble in alcohol, and slightly soluble in chloroform and in acetone.
-Its molecular weight is 269.77 g/mol.
+1. Methylphenidate hydrochloride USP is a white, odorless, fine crystalline powder.
+   Its solutions are acid to litmus.
+   It is freely soluble in water and in methanol, soluble in alcohol, and slightly soluble in chloroform and in acetone.
+   Its molecular weight is 269.77 g/mol.
 
 Inactive ingredients: ammonio methacrylate copolymer, black iron oxide (10 and 40 mg capsules only), gelatin, methacrylic acid copolymer, polyethylene glycol, red iron oxide (10 and 40 mg capsules only), sugar spheres, talc, titanium dioxide, triethyl citrate, and yellow iron oxide (10, 30, and 40 mg capsules only).

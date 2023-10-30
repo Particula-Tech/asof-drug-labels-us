@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0078-0424-05 Rx only
+1. NDC 0078-0424-05 Rx only
 
 Ritalin LA® (methylphenidate HCl) extended-release capsules
 
@@ -14,7 +14,7 @@ NOVARTIS
 
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0078-0370-05 Rx only
+1. NDC 0078-0370-05 Rx only
 
 Ritalin LA® (methylphenidate HCl) extended-release capsules
 
@@ -28,7 +28,7 @@ NOVARTIS
 
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0078-0371-05 Rx only
+1. NDC 0078-0371-05 Rx only
 
 Ritalin LA® (methylphenidate HCl) extended-release capsules
 
@@ -42,7 +42,7 @@ NOVARTIS
 
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0078-0372-05 Rx only
+1. NDC 0078-0372-05 Rx only
 
 Ritalin LA® (methylphenidate HCl) extended-release capsules
 

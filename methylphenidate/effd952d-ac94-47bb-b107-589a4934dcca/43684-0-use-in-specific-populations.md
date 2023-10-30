@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including Ritalin LA during pregnancy.
-Healthcare providers are encouraged to register patients by calling the National Pregnancy registry for ADHD medications at 1-866-961-2388 or visit https://womensmentalhealth.org/adhd-medications/.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for ADHD medications at 1-866-961-2388 or visiting https://womensmentalhealth.org/adhd-medications/.
 
 Risk Summary
 
@@ -25,7 +25,7 @@ Clinical Considerations
 Fetal/Neonatal Adverse Reactions
 
 CNS stimulants, such as Ritalin LA, can cause vasoconstriction and thereby decrease placental perfusion.
-No fetal and/or neonatal adverse reactions have been reported with the use of therapeutic doses of methylphenidate during pregnancy; however, premature delivery and low birth weight infants have been reported in amphetamine-dependent mothers.
+No fetal and/or neonatal adverse reactions have been reported with the use of therapeutic doses of methylphenidate during pregnancy; however, premature delivery and low birth-weight-infants have been reported in amphetamine-dependent mothers.
 
 Data
 
@@ -37,7 +37,7 @@ The no effect level for embryo-fetal development in rabbits was 60 mg/kg/day (15
 There was no evidence of morphological development effects in rats, although increased incidences of fetal skeletal variations were seen at the highest dose level (10 times the MRHD of 60 mg/day given to adolescents on a mg/m2 basis), which was also maternally toxic.
 The no effect level for embryo-fetal development in rats was 25 mg/kg/day (3 times the MRHD on a mg/m2 basis).
 When methylphenidate was administered to rats throughout pregnancy and lactation at doses of up to 45 mg/kg/day, offspring body weight gain was decreased at the highest dose (6 times the MRHD of 60 mg/day given to adolescents on a mg/m2 basis), but no other effects on postnatal development were observed.
-The no effect level for pre- and postnatal development in rats was 15 mg/kg/day (~2 times the MRHD given to adolescents on a mg/m2 basis).
+The no effect level for pre- and post-natal development in rats was 15 mg/kg/day (approximately 2 times the MRHD given to adolescents on a mg/m2 basis).
 
 ## 8.2 Lactation
 
@@ -54,11 +54,11 @@ Monitor breastfeeding infants for adverse reactions, such as agitation, insomnia
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Ritalin LA for the treatment of ADHD have been established in pediatric patients 6 to 12 years.
+The safety and effectiveness of Ritalin LA for the treatment of ADHD have been established in pediatric patients aged 6 to 12 years.
 
-The safety and effectiveness of Ritalin LA in pediatric patients less than 6 years have not been established.
+The safety and effectiveness of Ritalin LA in pediatric patients aged less than 6 years have not been established.
 
-The long-term efficacy of Ritalin LA in pediatric patients has not been established.
+The long-term efficacy of methylphenidate in pediatric patients has not been established.
 
 Long-Term Suppression of Growth
 

@@ -2,15 +2,18 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Abuse and Dependence [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)]
-- Known hypersensitivity to methylphenidate or other ingredients of Ritalin LA [see Contraindications (4)]
-- Hypertensive crisis when used concomitantly with Monoamine Oxidase Inhibitors [see Contraindications (4), Drug Interactions (7.1)]
-- Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
-- Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
-- Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
-- Priapism [see Warnings and Precautions (5.5)]
-- Peripheral Vasculopathy, Including Raynaud’s Phenomenon [see Warnings and Precautions (5.6)]
-- Long-Term Suppression of Growth [see Warnings and Precautions (5.7)]
+- •Abuse, Misuse, and Addiction [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)]
+- •Known hypersensitivity to methylphenidate or other ingredients of Ritalin LA [see Contraindications (4)]
+- •Hypertensive crisis when used concomitantly with Monoamine Oxidase Inhibitors [see Contraindications (4), Drug Interactions (7.1)]
+- •Risks to Patients with Serious Cardiac Disease [see Warnings and Precautions (5.2)]
+- •Increased Blood Pressure and Heart Rate [see Warnings and Precautions (5.3)]
+- •Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
+- •Priapism [see Warnings and Precautions (5.5)]
+- •Peripheral Vasculopathy, Including Raynaud’s Phenomenon [see Warnings and Precautions (5.6)]
+- •Long-Term Suppression of Growth in Pediatric Patients [see Warnings and Precautions (5.7)]
+- • Acute Angle Closure Glaucoma [see Warnings and Precautions (5.8)]
+- •Increased Intraocular Pressure and Glaucoma [see Warnings and Precautions (5.9)]
+- •Motor and Verbal Tics, and Worsening of Tourette’s Syndrome [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -22,7 +25,7 @@ The subjects received Ritalin LA in doses of 10 to 40 mg per day.
 Safety of Ritalin LA was assessed by evaluating frequency and nature of adverse events, routine laboratory tests, vital signs, and body weight.
 A placebo-controlled, double-blind, parallel-group study was conducted to evaluate the efficacy and safety of Ritalin LA in children with ADHD aged 6 to 12 years.
 All subjects received Ritalin LA for up to 4 weeks, and had their dose optimally adjusted, prior to entering the double-blind phase of the trial.
-In the 2-week double-blind treatment phase of this study, patients received either placebo or Ritalin LA at their individually-titrated dose (range, 10 to 40 mg).
+In the 2-week double-blind treatment phase of this study, patients received either placebo or Ritalin LA at their individually-titrated dose (range, 10 mg to 40 mg).
 
 Adverse reactions with an incidence greater than 5% during the initial 4-week single-blind Ritalin LA titration period of this study were headache, insomnia, upper abdominal pain, appetite decreased, and anorexia.
 
@@ -35,7 +38,7 @@ Table 2: Adverse Reactions in Greater Than 2% Ritalin LA-Treated Subjects in the
 | Anorexia | 2 (3.1) | 0 (0.0) |
 | Insomnia | 2 (3.1) | 0 (0.0) |
 
-Adverse Events Associated With Discontinuation of Treatment
+Adverse Reactions Associated with Discontinuation of Treatment
 
 In the 2-week double-blind treatment phase of a placebo-controlled parallel-group study in children with ADHD, one Ritalin LA-treated subject (1/65, 1.5%) discontinued due to an adverse event (depressed mood).
 
@@ -48,7 +51,7 @@ The adverse events leading to discontinuation were anger (2 patients), hypomania
 The following adverse reactions have been identified during the post approval use of methylphenidate products.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
 
-Adverse Reactions Reported With Ritalin, Ritalin-SR, and Ritalin LA
+Adverse Reactions Reported with Ritalin and Ritalin LA
 
 Infections and Infestations: nasopharyngitis
 
@@ -58,7 +61,7 @@ Immune System Disorders: hypersensitivity reactions, including angioedema and an
 
 Metabolism and Nutrition Disorders: decreased appetite, reduced weight gain, and suppression of growth during prolonged use in children
 
-Psychiatric Disorders: insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood
+Psychiatric Disorders: insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood, depression
 
 Nervous System Disorders: headache, dizziness, tremor, dyskinesia, including choreoathetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
 
@@ -74,13 +77,15 @@ Hepatobiliary Disorders: abnormal liver function, ranging from transaminase elev
 
 Skin and Subcutaneous Tissue Disorders: hyperhidrosis, pruritus, urticaria, exfoliative dermatitis, scalp hair loss, erythema multiforme rash, thrombocytopenic purpura
 
-Musculoskeletal and Connective Tissue Disorders: arthralgia, muscle cramps, rhabdomyolysis
+Musculoskeletal and Connective Tissue Disorders: arthralgia, muscle cramps, rhabdomyolysis, trismus
 
 Investigations: weight loss (adult ADHD patients)
 
+Vascular Disorders: peripheral coldness, Raynaud's phenomenon
+
 Adverse Reactions Reported with Other Methylphenidate-Containing Products
 
-The list below shows adverse reactions not listed with Ritalin, Ritalin-SR, or Ritalin LA formulations that have been reported with other methylphenidate-containing products.
+The list below shows adverse reactions not listed with Ritalin or Ritalin LA formulations that have been reported with other methylphenidate-containing products.
 
 Blood and Lymphatic Disorders: pancytopenia
 
@@ -88,13 +93,11 @@ Immune System Disorders: hypersensitivity reactions, such as auricular swelling,
 
 Psychiatric Disorders: affect lability, mania, disorientation, libido changes
 
-Nervous System Disorders: migraine
+Nervous System Disorders: migraine, motor and verbal tics
 
-Eye Disorders: diplopia, mydriasis
+Eye Disorders: diplopia, increased intraocular pressure, mydriasis
 
 Cardiac Disorders: sudden cardiac death, myocardial infarction, bradycardia, extrasystole
-
-Vascular Disorders: peripheral coldness, Raynaud's phenomenon
 
 Respiratory, Thoracic, and Mediastinal Disorders: pharyngolaryngeal pain, dyspnea
 
