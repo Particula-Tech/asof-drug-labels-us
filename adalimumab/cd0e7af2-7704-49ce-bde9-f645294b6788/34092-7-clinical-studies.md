@@ -524,3 +524,40 @@ In both studies, from Week 12 to Week 35 (Period B), subjects who had received a
 Subjects who had been randomized to placebo were assigned to receive adalimumab 40 mg every week (Study HS-I) or placebo (Study HS-II).
 
 During Period B, flare of HS, defined as ≥25% increase from baseline in abscesses and inflammatory nodule counts and with a minimum of 2 additional lesions, was documented in 22 (22%) of the 100 subjects who were withdrawn from adalimumab treatment following the primary efficacy timepoint in two studies.
+
+## 14.10 Adult Uveitis
+
+The safety and efficacy of adalimumab were assessed in adult patients with non-infectious intermediate, posterior and panuveitis excluding patients with isolated anterior uveitis, in two randomized, double-masked, placebo-controlled studies (UV I and II).
+Patients received placebo or adalimumab at an initial dose of 80 mg followed by 40 mg every other week starting one week after the initial dose.
+The primary efficacy endpoint in both studies was 'time to treatment failure'.
+
+Treatment failure was a multi-component outcome defined as the development of new inflammatory chorioretinal and/or inflammatory retinal vascular lesions, an increase in anterior chamber (AC) cell grade or vitreous haze (VH) grade or a decrease in best corrected visual acuity (BCVA).
+
+Study UV I evaluated 217 patients with active uveitis while being treated with corticosteroids (oral prednisone at a dose of 10 to 60 mg/day).
+All patients received a standardized dose of prednisone 60 mg/day at study entry followed by a mandatory taper schedule, with complete corticosteroid discontinuation by Week 15.
+
+Study UV II evaluated 226 patients with inactive uveitis while being treated with corticosteroids (oral prednisone 10 to 35 mg/day) at baseline to control their disease.
+Patients subsequently underwent a mandatory taper schedule, with complete corticosteroid discontinuation by Week 19.
+
+Clinical Response
+
+Results from both studies demonstrated statistically significant reduction of the risk of treatment failure in patients treated with adalimumab versus patients receiving placebo.
+In both studies, all components of the primary endpoint contributed cumulatively to the overall difference between adalimumab and placebo groups (Table 20).
+
+Table 20.
+Time to Treatment Failure in Studies UV I and UV II
+
+|  | UV I |  |  | UV II |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Placebo (N = 107) | adalimumab (N = 110) | HR [95% CI]HR of adalimumab versus placebo from proportional hazards regression with treatment as factor. | Placebo (N = 111) | adalimumab (N = 115) | HR [95% CI] |
+| FailureTreatment failure at or after Week 6 in Study UV I, or at or after Week 2 in Study UV II, was counted as event. Subjects who discontinued the study were censored at the time of dropping out. n (%) | 84 (78.5) | 60 (54.5) | 0.50 [0.36, 0.70] | 61 (55.0) | 45 (39.1) | 0.57 [0.39, 0.84] |
+| Median Time to Failure (Months) [95% CI] | 3.0 [2.7, 3.7] | 5.6 [3.9, 9.2] | N/A | 8.3 [4.8, 12.0] | NENE = not estimable. Fewer than half of at-risk subjects had an event. | N/A |
+
+Figure 3.
+Kaplan-Meier Curves Summarizing Time to Treatment Failure on or after Week 6 (Study UV I) or Week 2 (Study UV II)
+
+Study UV I
+
+Study UV II
+
+Note: P# = Placebo (Number of Events/Number at Risk); A# = adalimumab (Number of Events/Number at Risk).

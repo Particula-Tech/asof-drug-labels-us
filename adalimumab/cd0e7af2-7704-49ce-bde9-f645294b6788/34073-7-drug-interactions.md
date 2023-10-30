@@ -9,7 +9,7 @@ Although MTX reduced the apparent adalimumab clearance, the data do not suggest 
 
 In clinical studies in patients with RA, an increased risk of serious infections has been observed with the combination of TNF blockers with anakinra or abatacept, with no added benefit; therefore, use of YUSIMRY with abatacept or anakinra is not recommended in patients with RA [see Warnings and Precautions (5.7 and 5.11)].
 A higher rate of serious infections has also been observed in patients with RA treated with rituximab who received subsequent treatment with a TNF blocker.
-There is insufficient information regarding the concomitant use of YUSIMRY and other biologic products for the treatment of RA, PsA, AS, CD, UC, Ps, and HS.
+There is insufficient information regarding the concomitant use of YUSIMRY and other biologic products for the treatment of RA, PsA, AS, CD, UC, Ps, HS and UV.
 Concomitant administration of YUSIMRY with other biologic DMARDS (e.g., anakinra and abatacept) or other TNF blockers is not recommended based upon the possible increased risk for infections and other potential pharmacological interactions.
 
 ## 7.3 Live Vaccines

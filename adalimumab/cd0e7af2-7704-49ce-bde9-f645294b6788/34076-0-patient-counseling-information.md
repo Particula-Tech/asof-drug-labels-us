@@ -48,4 +48,4 @@ Instruct patients not to recycle their used sharps disposal container.
 Manufactured by: Coherus BioSciences, Inc., Redwood City, California 94065, USA US License No. 2023
 
 YUSIMRY is a trademark of Coherus BioSciences.
-PMD-0051, Rev.02
+PMD-0051, Rev.04
