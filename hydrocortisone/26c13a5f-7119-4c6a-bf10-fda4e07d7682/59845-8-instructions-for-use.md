@@ -77,4 +77,4 @@ For more information, go to www.alkindisprinkle.com or call 1-833-343-2500.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Issued: 12/2022
+Revised: 12/2022

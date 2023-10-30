@@ -5,9 +5,11 @@
 Undertreatment with ALKINDI SPRINKLE or sudden discontinuation of therapy with ALKINDI SPRINKLE may lead to adrenocortical insufficiency, adrenal crisis, and death.
 Adrenal crisis may also be induced by stress events such as infections or surgery when patients require higher doses of corticosteroids.
 Symptoms of adrenocortical insufficiency include poor feeding, fatigue, low muscle tone, joint pain, nausea, vomiting, hypoglycemia, low blood pressure and electrolyte disturbances.
+
 Increase the dosage of ALKINDI SPRINKLE during periods of stress (infections, surgery).
 Switch patients who are vomiting, severely ill or unable to take oral medications to parenteral corticosteroid formulations without delay.
 Once the patient recovers, gradually reduce the steroid dosage used during the acute event.
+
 When switching patients to ALKINDI SPRINKLE from another oral hydrocortisone formulation, consider the potential for dosing inaccuracy if the other oral hydrocortisone formulation has been manipulated (e.g., split or crushed tablets, compounded formulations).
 Manipulation of oral hydrocortisone formulations may result in a relative difference in hydrocortisone exposure when using the same dosage to initiate ALKINDI SPRINKLE treatment.
 Closely monitor patients after switching to ALKINDI SPRINKLE to ensure ALKINDI SPRINKLE is providing the same level of hydrocortisone exposure as the previously used oral hydrocortisone formulation.
@@ -16,7 +18,9 @@ If symptoms of adrenal insufficiency occur, increase the total daily dosage of A
 ## 5.2 Infections
 
 Excessive doses of corticosteroids may increase the risks of new infections or exacerbation of latent infections with any pathogen, including viral, bacterial, fungal, protozoan, or helminthic infections.
+
 Appropriate replacement doses of corticosteroids for patients with adrenocortical insufficiency are not expected to cause immunosuppression and, therefore, should not increase risk of infection.
+
 Administration of live vaccine may be acceptable in pediatric patients with adrenocortical insufficiency receiving replacement doses of corticosteroids.
 Monitor patients for signs and symptoms of infections.
 Treat all infections seriously and initiate stress dosing of steroids early [see Warnings and Precautions (5.1)].

@@ -11,7 +11,7 @@ Open the capsule and give the granules directly into the patient’s mouth.
 Alternatively, sprinkle the granules onto soft food and give immediately as the taste masking cover can dissolve in as little as 5 minutes.
 Avoid wetting the capsule as this may cause some granules to stick to the capsule.
 Immediately following administration, take a sip of fluids to ensure all granules have been swallowed.
-[see Dosage and Administration (2.2)].
+[see Dosage and Administration (2.3)].
 
 Adrenal Crisis
 
@@ -66,7 +66,7 @@ Inform patients or caregivers that this does not mean the product is ineffective
 
 ALKINDI SPRINKLE is manufactured for Eton Pharmaceuticals, Inc. by Glatt Pharmaceutical Services GmbH & Co. KG Werner-Glatt-Strasse 1, Binzen, Baden-Wuerttemberg, 79589, Germany.
 
-ALKINDI ® is a registered trademark of Diurnal Limited.
+ALKINDI SPRINKLE ® is a registered trademark of Diurnal Limited.
 
 ALKINDI is covered by the following US patents: 9,649,280; 9,675,559; 9,717,740; and other patents in other countries internationally.
 
