@@ -66,7 +66,7 @@ Reports from uncontrolled clinical studies and postmarketing reporting systems s
 
 who were 65 years or older compared to younger patients taking mesalamine-containing products such as APRISO.
 Monitor complete blood cell counts and platelet counts in elderly patients during treatment with APRISO.
-In general, consider the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in elderly patients when prescribing APRISO [see Use in Specific Populations (8.6)].
+In general, consider the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in elderly patients when prescribing APRISO [see Use in Specific Populations(8.6)].
 
 ## 8.6 Renal Impairment
 

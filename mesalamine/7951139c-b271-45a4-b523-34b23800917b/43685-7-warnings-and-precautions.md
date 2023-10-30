@@ -3,11 +3,11 @@
 ## 5.1 Renal Impairment
 
 Renal impairment, including minimal change disease, acute and chronic interstitial nephritis, and renal failure, has been reported in patients given products such as APRISO that contain mesalamine or are converted to mesalamine.
-In animal studies, the kidney was the principal organ of mesalamine toxicity [see Adverse Reactions (6.2), Nonclinical Toxicology (13.2)].
+In animal studies, the kidney was the principal organ of mesalamine toxicity [see Adverse Reactions(6.2), Nonclinical Toxicology(13.2)].
 
 Evaluate renal function prior to initiation of APRISO therapy and periodically while on therapy.
-Evaluate the risks and benefits of using APRISO in patients with known renal impairment or a history of renal disease or taking concomitant nephrotoxic drugs.
-Discontinue APRISO if renal function deteriorates while on therapy [see Drug Interactions (7.2), Use in Specific Populations (8.6)].
+Evaluate the risks and benefits of using APRISO in patients with known renal impairment or a history of renal disease or taking concomitantnephrotoxic drugs.
+Discontinue APRISO if renal function deteriorates while on therapy [see Drug Interactions(7.2), Use in Specific Populations(8.6)].
 
 ## 5.2 Mesalamine-Induced Acute Intolerance Syndrome
 

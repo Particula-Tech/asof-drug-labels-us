@@ -4,11 +4,14 @@ Administration
 
 Instruct patients:
 
-- •Swallow the capsules whole.
+- Swallow the capsules whole.
   Do not cut, break, crush or chew the capsules.
-- •Avoid co-administration of APRISO with antacids.
-- •Drink an adequate amount of fluids.
-- •APRISO capsules can be taken without regard to meals [see Dosage and Administration (2)].
+- Avoid co-administration of APRISO with antacids.
+- Drink an adequate amount of fluids.
+- APRISO capsules can be taken without regard to meals [see Dosage and Administration (2)].
+- Urine may become discolored reddish-brown while taking APRISO when it comes in contact with surfaces or water treated with hypochlorite-containing bleach.
+  If discolored urine is observed, advise patients to observe their urine flow.
+  Report to the healthcare provider only if urine is discolored on leaving the body, before contact with any surface or water (e.g., in the toilet).
 
 Renal Impairment
 
@@ -46,13 +49,13 @@ Inform patients with phenylketonuria (PKU) or their caregivers that each APRISO 
 Blood Disorders
 
 Inform elderly patients and those taking azathioprine or 6-mercaptopurine of the risk for blood disorders and the need for periodic monitoring of complete blood cell counts and platelet counts while on therapy.
-Advise patients to complete all blood tests ordered by their healthcare provider [see Drug Interactions (7.3), Use in Specific Populations (8.5)].
+Advise patients to complete all blood tests ordered by their healthcare provider [see Drug Interactions(7.3), Use in Specific Populations(8.5)].
 
 Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA Patented.
-See https://patents.salix.com/ for US patent information.
+See https://patents.salix.com/for US patent information.
 
 APRISO is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
 
-© 2022 Salix Pharmaceuticals, Inc. or its affiliates
+© 2023 Salix Pharmaceuticals, Inc. or its affiliates
 
-9602406
+9602407

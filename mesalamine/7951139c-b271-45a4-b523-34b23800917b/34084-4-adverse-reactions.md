@@ -2,14 +2,14 @@
 
 The following clinically significant adverse reactions are described elsewhere in labeling:
 
-- •Renal Impairment [see Warnings and Precautions (5.1)]
-- •Mesalamine-Induced Acute Intolerance Syndrome [see Warnings and Precautions (5.2)]
-- •Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
-- •Hepatic Failure [see Warnings and Precautions (5.4)]
-- •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
-- •Photosensitivity [see Warnings and Precautions (5.6)]
-- •Nephrolithiasis [see Warnings and Precautions (5.7)]
-- •Risks in Patients with Phenylketonuria [see Warnings and Precautions (5.8)]
+- Renal Impairment [see Warnings and Precautions(5.1)]
+- Mesalamine-Induced Acute Intolerance Syndrome [see Warnings and Precautions(5.2)]
+- Hypersensitivity Reactions [see Warnings and Precautions(5.3)]
+- Hepatic Failure [see Warnings and Precautions(5.4)]
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
+- Photosensitivity [see Warnings and Precautions(5.6)]
+- Nephrolithiasis [see Warnings and Precautions(5.7)]
+- Risks in Patients with Phenylketonuria [seeWarnings and Precautions(5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -22,7 +22,7 @@ Patients received doses of APRISO 1.5 g administered orally once per day for six
 
 In the two placebo-controlled trials, the most common reactions reported in at least 3% of APRISO-treated patients and at a greater rate than placebo are shown in Table 1 below.
 
-Table 1: Common Adverse ReactionsReported in at least 3% of APRISO-treated patients and at a greater rate than with placebo in Clinical Trials of Adults with Ulcerative Colitis
+Table 1: Common Adverse Reactions Reported in at least 3% of APRISO-treated patients and at a greater rate than with placeboin Clinical Trials of Adults with Ulcerative Colitis
 
 |  | APRISO 1.5 g once daily N=367 | Placebo N=185 |
 | --- | --- | --- |
@@ -59,7 +59,7 @@ Because many of these reactions are reported voluntarily from a population of un
 
 Body as a Whole: lupus-like syndrome, drug fever
 
-Cardiovascular: pericarditis, pericardial effusion, myocarditis [see Warnings and Precautions (5.3)]
+Cardiovascular: pericarditis, pericardial effusion, myocarditis [see Warnings and Precautions(5.3)]
 
 Gastrointestinal: pancreatitis, cholecystitis, gastritis, gastroenteritis, gastrointestinal bleeding, perforated peptic ulcer
 
@@ -71,7 +71,9 @@ Nervous System: intracranial hypertension
 
 Neurological/Psychiatric: peripheral neuropathy, Guillain-Barré syndrome, transverse myelitis
 
-Renal and Urinary: nephrogenic diabetes insipidus, interstitial nephritis, renal failure, minimal change disease, nephrolithiasis [see Warnings and Precautions (5.1, 5.7)]
+Renal and Urinary: nephrogenic diabetes insipidus, interstitial nephritis, renal failure, minimal change disease, nephrolithiasis [see Warnings and Precautions(5.1, 5.7)]
+
+- Urine discoloration occurring ex-vivo caused by contact of mesalamine, including inactive metabolite, with surfaces or water treated with hypochlorite-containing bleach.
 
 Respiratory/Pulmonary: eosinophilic pneumonia, interstitial pneumonitis, pleurisy/pleuritis
 
