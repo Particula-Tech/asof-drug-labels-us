@@ -11,6 +11,9 @@ Advise patients:
 - Drink an adequate amount of fluids.
 - If a dose of CANASA is missed, administer as soon as possible, unless it is almost time for next dose.
   Do not use two CANASA suppositories at the same time to make up for a missed dose.
+- Urine may become discolored reddish-brown while taking CANASA when it comes in contact with surfaces or water treated with hypochlorite-containing bleach.
+  If discolored urine is observed, advise patients to observe their urine flow.
+  Report to the healthcare provider only if urine is discolored on leaving the body, before contact with any surface or water (e.g., in the toilet).
 - CANASA suppositories will cause staining of direct contact surfaces, including but not limited to fabrics, flooring, painted surfaces, marble, granite, vinyl, and enamel.
   Keep CANASA away from these surfaces to prevent staining.
 
@@ -48,7 +51,7 @@ Blood Disorders
 
 Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
-© 2022 Allergan.
+© 2023 Allergan.
 All rights reserved.
 
 Patented.
@@ -58,4 +61,4 @@ CANASA® is a registered trademark of Aptalis Pharma Canada ULC, an Allergan aff
 
 For more information, go to www.canasa.com or call 1-800-678-1605.
 
-V4.1USPI0501
+V5.0USPI0501

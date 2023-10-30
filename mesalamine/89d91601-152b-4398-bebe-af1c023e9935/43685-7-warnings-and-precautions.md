@@ -8,7 +8,7 @@ In animal studies, the kidney was the principal organ of mesalamine toxicity [se
 Evaluate renal function prior to initiation of CANASA and periodically while on therapy.
 
 Evaluate the risks and benefits of using CANASA in patients with known renal impairment or a history of renal disease or taking concomitant nephrotoxic drugs.
-Discontinue CANASA if renal function deteriorates while on therapy [see Drug Interactions (7.1), Use in Specific Populations (8.6)].
+Discontinue CANASA if renal function deteriorates while on therapy, [see Drug Interactions (7.1), Use in Specific Populations (8.6)].
 
 ## 5.2Mesalamine-Induced Acute Intolerance Syndrome
 

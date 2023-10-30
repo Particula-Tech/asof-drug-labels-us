@@ -46,7 +46,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Hepatic Disorders: cholestatic jaundice, hepatitis, jaundice, Kawasaki-like syndrome including changes in liver enzymes, liver necrosis, liver failure
 - Hematologic Disorders: agranulocytosis, aplastic anemia, thrombocytopenia
 - Neurological/Psychiatric Disorders: Guillain-Barre syndrome, peripheral neuropathy, transverse myelitis, intracranial hypertension
-- Renal Disorders: interstitial nephritis, renal failure, minimal change disease, nephrolithiasis [see Warnings and Precautions (5.1, 5.7)]
+- Renal Disorders: interstitial nephritis, renal failure, minimal change disease, nephrolithiasis [see Warnings and Precautions (5.1, 5.7)] ○ Urine discoloration occurring ex-vivo caused by contact of mesalamine, including inactive metabolite, with surfaces or water treated with hypochlorite containing bleach
 - Respiratory, Thoracic and Mediastinal Disorders: hypersensitivity pneumonitis (including allergic alveolitis, eosinophilic pneumonitis, interstitial pneumonitis), pleuritis/pleurisy
 - Skin and Subcutaneous Tissue Disorder: alopecia, erythema, erythema nodosum, pruritus, psoriasis, pyoderma gangrenosum, urticaria, SJS/TEN, DRESS and AGEP [see Warnings and Precautions (5.5)]
 - Urogenital: reversible oligospermia
