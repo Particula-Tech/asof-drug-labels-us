@@ -6,7 +6,7 @@ OPDIVO, as a single agent or in combination with ipilimumab, is indicated for th
 
 ## 1.2 Adjuvant Treatment of Melanoma
 
-OPDIVO is indicated for the adjuvant treatment of adult and pediatric patients 12 years and older with melanoma with involvement of lymph nodes or metastatic disease who have undergone complete resection.
+OPDIVO is indicated for the adjuvant treatment of adult and pediatric patients 12 years and older with completely resected Stage IIB, Stage IIC, Stage III, or Stage IV melanoma.
 
 ## 1.3 Neoadjuvant Treatment of Resectable Non-Small Cell Lung Cancer
 

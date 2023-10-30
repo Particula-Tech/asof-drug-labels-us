@@ -44,9 +44,9 @@ Advise females of reproductive potential to use effective contraception during t
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of OPDIVO have been established in pediatric patients aged 12 years and older for the following indications: as a single agent and in combination with ipilimumab for the treatment of unresectable or metastic melanoma, as a single agent for the adjuvant treatment of melanoma with lymph node involvement or metastatic disease in patients who have undergone complete resection and, as a single agent or in combination with ipilimumab for the treatment of MSI-H or dMMR mCRC that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan.
+The safety and effectiveness of OPDIVO have been established in pediatric patients aged 12 years and older for the following indications: as a single agent and in combination with ipilimumab for the treatment of unresectable or metastatic melanoma, as a single agent for the adjuvant treatment of completely resected Stage IIB, Stage IIC, Stage III, or Stage IV melanoma and, as a single agent or in combination with ipilimumab for the treatment of MSI-H or dMMR mCRC that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan.
 Use of OPDIVO for these indications is supported by evidence from adequate and well-controlled studies in adults with melanoma or MSI-H or dMMR mCRC and additional pharmacokinetic data in pediatric patients.
-Nivolumab exposure in pediatric patients 12 years and older is comparable to that of adults and the courses of melanoma and MSI-H or dMMR mCRC are similar in pediatric patients aged 12 years and older to that of adults to allow extrapolation of safety and efficacy [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.10)].
+Nivolumab exposure in pediatric patients 12 years and older is comparable to that of adults and the courses of melanoma and MSI-H or dMMR mCRC are similar in pediatric patients aged 12 years and older to that of adults to allow extrapolation of safety and efficacy [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.1, 14.10)].
 
 The safety and effectiveness of OPDIVO have not been established for pediatric patients younger than 12 years old with melanoma or MSI-H or dMMR mCRC.
 

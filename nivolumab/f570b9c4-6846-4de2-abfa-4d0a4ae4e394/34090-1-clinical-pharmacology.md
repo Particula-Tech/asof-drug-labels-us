@@ -10,6 +10,10 @@ In syngeneic mouse tumor models, blocking PD-1 activity resulted in decreased tu
 Combined nivolumab (anti-PD-1) and ipilimumab (anti-CTLA-4) mediated inhibition results in enhanced T-cell function that is greater than the effects of either antibody alone, and results in improved anti-tumor responses in metastatic melanoma and advanced RCC.
 In murine syngeneic tumor models, dual blockade of PD-1 and CTLA-4 resulted in increased anti-tumor activity.
 
+## 12.2 Pharmacodynamics
+
+There are no clinically significant exposure-response relationships for efficacy or safety for nivolumab monotherapy, and in combination with ipilimumab and/or chemotherapy, over the approved dosing regimens, regardless of cancer type.
+
 ## 12.3 Pharmacokinetics
 
 Nivolumab pharmacokinetics (PK) was assessed using a population PK approach for both single-agent OPDIVO and OPDIVO with ipilimumab.
@@ -36,8 +40,7 @@ Nivolumab has not been studied in patients with severe hepatic impairment (TB gr
 
 Pediatric Patients
 
-The exposures of nivolumab in pediatric patients 12 years of age or older are comparable to those in adults at the recommended dosage.
-[See Dosage and Administration (2.2).]
+The exposures of nivolumab in pediatric patients 12 years of age or older are comparable to those in adults at the recommended dosage [see Dosage and Administration (2.2)].
 
 Drug Interaction Studies
 
@@ -49,4 +52,30 @@ When OPDIVO 3 mg/kg every 2 weeks was administered in combination with ipilimuma
 
 When OPDIVO 360 mg every 3 weeks was administered in combination with ipilimumab 1 mg/kg every 6 weeks and chemotherapy, the CL of nivolumab was unchanged compared to OPDIVO administered alone and the CL of ipilimumab increased by 22% compared to ipilimumab administered alone.
 
-When administered in combination, the CL of nivolumab increased by 20% in the presence of anti-nivolumab antibodies.
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of OPDIVO or of other nivolumab products.
+
+Anti-drug antibody and neutralizing antibody responses were monitored throughout the treatment period where the benefit to risk ratio was assessed.
+Incidence of anti-drug antibodies and neutralizing antibodies are presented in Table 49.
+
+Table 49: OPDIVO Anti-Drug Antibody (ADA) and Neutralizing Antibody (NAb) Incidence
+
+| Treatment Regimena | Indication(s) | ADA | NAbb |
+| --- | --- | --- | --- |
+| OPDIVO as a single agent | Multiplec | 11% (229/2,085) | 7% (15/229) |
+| OPDIVO with ipilimumab for 4 doses followed by OPDIVO as a single agent | Melanoma | 38% (149/394) | 12% (18/149) |
+| HCC | 56% (27/48) | 41% (11/27) |  |
+| RCC and CRC | 26% (132/516) | 3% (4/132) |  |
+| OPDIVO with ipilimumab | Malignant Pleural Mesothelioma | 26% (69/269) | 2.9% (2/69) |
+| NSCLC | 37% (180/491) | 3.9% (7/180) |  |
+| OPDIVO with ipilimumab and 2 cycles of platinum‑doublet chemotherapy | NSCLC | 34% (104/308) | 8% (8/104) |
+| a Details of each treatment regimen are described in Section 14 [see Clinical Studies (14)]. b NAb incidence is reported among the subset of patients positive for ADA. c Includes unresectable or metastatic melanoma, metastatic NSCLC, advanced RCC, cHL, recurrent or metastatic SCCHN, and UC indications. ADA= treatment-emergent anti-nivolumab antibodies, NAb= neutralizing antibodies, HCC = hepatocellular carcinoma, RCC = renal cell carcinoma, CRC = colorectal cancer, NSCLC = non-small cell lung cancer. |  |  |  |
+
+Effects of Anti-Drug Antibodies
+
+Presence of treatment-emergent anti-nivolumab antibodies increased nivolumab clearance by up to 20% after administration of nivolumab as monotherapy or in combination with ipilimumab.
+These anti-drug antibody-associated pharmacokinetic changes were not considered to be clinically significant.
+There was no identified clinically significant effect of anti-drug antibodies on incidence of infusion-related reactions.
+The effects of anti-drug antibodies on effectiveness have not been fully characterized.
