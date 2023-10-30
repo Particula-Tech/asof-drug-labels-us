@@ -29,4 +29,4 @@ Manufactured for: Amring Pharmaceuticals Inc. Berwyn, PA 19312 www.amringusa.com
 
 The Amring Logo and the “A” Logo are trademarks of Amring Pharmaceuticals Inc.
 
-Manufactured by: Chemi Pharma Ltd Halfar, Birzebbugia BBG 3000, Malta Origin Malta Revised 11/2020
+Manufactured by: Kelix bio (Malta) Ltd. HHF014 Halfar, Birzebbugia BBG 3000 Malta Origin Malta Revised 08/2023

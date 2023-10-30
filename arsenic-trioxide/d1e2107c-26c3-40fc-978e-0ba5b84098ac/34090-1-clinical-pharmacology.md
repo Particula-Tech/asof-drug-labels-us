@@ -57,8 +57,8 @@ Patients with Renal Impairment
 
 The effect of renal impairment on the pharmacokinetics of AsIII, AsV, and the pentavalent metabolites MMAV and DMAV was evaluated in 20 patients with advanced malignancies.
 Patients were classified as having normal renal function (creatinine clearance [CLcr] > 80 mL/min, n = 6), mild renal impairment (CLcr 50 to 80 mL/min, n = 5), moderate renal impairment (CLcr 30 to 49 mL/min, n = 6), or severe renal impairment (CLcr < 30 mL/min, n = 3).
-Following twice-weekly administration of 0.15 mg/kg over a 2-hour infusion, the mean AUC0-INF∞ for AsIII was comparable among the normal, mild and moderate renal impairment groups.
-However, in the severe renal impairment group, the mean AUC0-INF∞ for AsIII was approximately 48% higher than that in the normal group.
+Following twice-weekly administration of 0.15 mg/kg over a 2-hour infusion, the mean AUC0-INF for AsIII was comparable among the normal, mild and moderate renal impairment groups.
+However, in the severe renal impairment group, the mean AUC0-INF for AsIII was approximately 48% higher than that in the normal group.
 
 Systemic exposure to MMAV and DMAV tended to be larger in patients with renal impairment; however, the clinical consequences of this increased exposure are not known.
 AsV plasma levels were generally below the limit of assay quantitation in patients with impaired renal function [see Use in Specific Populations (8.6)].
