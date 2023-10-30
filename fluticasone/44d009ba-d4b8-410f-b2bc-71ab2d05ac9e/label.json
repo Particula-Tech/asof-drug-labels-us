@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020833"
+  ],
+  "inn": "fluticasone",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-790-97",
+    "66993-791-97",
+    "66993-792-97"
+  ],
+  "products": [
+    {
+      "form": "POWDER, METERED",
+      "generic": "fluticasone propionate",
+      "name": "FLUTICASONE PROPIONATE"
+    }
+  ],
+  "setid": "44d009ba-d4b8-410f-b2bc-71ab2d05ac9e",
+  "source": "dailymed"
+}
