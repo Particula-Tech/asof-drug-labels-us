@@ -2,27 +2,31 @@
 
 ## 9.1 Controlled Substance
 
-Ritalin and Ritalin-SR contain methylphenidate hydrochloride, a Schedule II controlled substance.
+Ritalin contains methylphenidate hydrochloride, a Schedule II controlled substance.
 
 ## 9.2 Abuse
 
-CNS stimulants, including Ritalin and Ritalin-SR, have a high potential for abuse.
-Abuse is characterized by impaired control over drug use despite harm, and craving.
+Ritalin has a high potential for abuse and misuse which can lead to the development of a substance use disorder, including addiction [see Warnings and Precautions (5.1)].
+Ritalin can be diverted for non-medical use into illicit channels or distribution.
 
-Signs and symptoms of CNS stimulant abuse include increased heart rate, respiratory rate, blood pressure, and/or sweating, dilated pupils, hyperactivity, restlessness, insomnia, decreased appetite, loss of coordination, tremors, flushed skin, vomiting, and/or abdominal pain.
-Anxiety, psychosis, hostility, aggression, and suicidal or homicidal ideation have also been observed.
-Abusers of CNS stimulants may chew, snort, inject, or use other unapproved routes of administration which may result in overdose and death [see Overdosage (10)].
+Abuse is the intentional non-therapeutic use of a drug, even once, to achieve a desired psychological or physiological effect.
+Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed.
+Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
 
-To reduce the abuse of CNS stimulants, including Ritalin and Ritalin-SR, assess the risk of abuse prior to prescribing.
-After prescribing, keep careful prescription records, educate patients and their families about abuse and on proper storage and disposal of CNS stimulants [see How Supplied/Storage and Handling (16)], monitor for signs of abuse while on therapy, and reevaluate the need for Ritalin and Ritalin-SR use.
+Misuse and abuse of methylphenidate hydrochloride may cause increased heart rate, respiratory rate, or blood pressure; sweating; dilated pupils; hyperactivity; restlessness; insomnia; decreased appetite; loss of coordination; tremors; flushed skin; vomiting; and/or abdominal pain.
+Anxiety, psychosis, hostility, aggression, and suicidal or homicidal ideation have also been observed with CNS stimulants abuse and/or misuse.
+Misuse and abuse of CNS stimulants, including Ritalin, can result in overdose and death [see Overdosage (10)], and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
 
 ## 9.3 Dependence
 
+Physical Dependence
+
+Ritalin may produce physical dependence.
+Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
+
+Withdrawal signs and symptoms after abrupt discontinuation or dose reduction following prolonged use of CNS stimulants including Ritalin include dysphoric mood; depression; fatigue; vivid, unpleasant dreams; insomnia or hypersomnia; increased appetite; and psychomotor retardation or agitation.
+
 Tolerance
 
-Tolerance (a state of adaptation in which exposure to a drug results in a reduction of the drug’s desired and/or undesired effects over time) can occur during chronic therapy with CNS stimulants, including Ritalin and Ritalin-SR.
-
-Dependence
-
-Physical dependence (which is manifested by a withdrawal syndrome produced by abrupt cessation, rapid dose reduction, or administration of an antagonist) may occur in patients treated with CNS stimulants, including Ritalin and Ritalin-SR.
-Withdrawal symptoms after abrupt cessation following prolonged high-dosage administration of CNS stimulants include dysphoric mood; fatigue; vivid, unpleasant dreams; insomnia or hypersomnia; increased appetite; and psychomotor retardation or agitation.
+Ritalin may produce tolerance.
+Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
