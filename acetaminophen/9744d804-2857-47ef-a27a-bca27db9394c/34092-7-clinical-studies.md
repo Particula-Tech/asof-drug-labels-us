@@ -1,0 +1,25 @@
+# 14 CLINICAL STUDIES
+
+## 14.1 Adult Acute Pain
+
+The efficacy of Acetaminophen Injection in the treatment of acute pain in adults was evaluated in two randomized, double-blind, placebo-controlled clinical trials in patients with postoperative pain.
+
+Pain Study 1 evaluated the analgesic efficacy of repeated doses of acetaminophen 1,000 mg vs. placebo every 6 hours for 24 hours in 101 patients with moderate to severe pain following total hip or knee replacement.
+Acetaminophen Injection was statistically superior to placebo for reduction in pain intensity over 24 hours.
+There was an attendant decrease in opioid consumption, the clinical benefit of which was not demonstrated.
+
+Pain Study 2 evaluated the analgesic efficacy of repeated doses of acetaminophen 1,000 mg every 6 hours or 650 mg every 4 hours for 24 hours versus placebo in the treatment of 244 patients with moderate to severe postoperative pain after abdominal laparoscopic surgery.
+Patients receiving acetaminophen experienced a statistically significant greater reduction in pain intensity over 24 hours compared to placebo.
+
+## 14.2 Adult Fever
+
+The efficacy of acetaminophen 1,000 mg in the treatment of adult fever was evaluated in one randomized, double-blind, placebo-controlled clinical trial.
+The study was a 6-hour, single-dose, endotoxin-induced fever study in 60 healthy adult males.
+A statistically significant antipyretic effect of acetaminophen was demonstrated through 6 hours in comparison to placebo.
+The mean temperature over time is shown in Figure 1.
+
+Figure 1: Mean Temperature (°C) Over Time
+
+## 14.3 Pediatric Acute Pain and Fever
+
+Acetaminophen was studied in pediatric patients in three active-controlled trials and three open-label safety and pharmacokinetic trials [see Use in Specific Populations (8.4)].

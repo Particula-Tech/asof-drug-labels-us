@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA204957"
+  ],
+  "inn": "acetaminophen",
+  "labeler": "B. Braun Medical Inc.",
+  "package_ndcs": [
+    "0264-4050-90"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "acetaminophen",
+      "name": "Acetaminophen"
+    }
+  ],
+  "setid": "9744d804-2857-47ef-a27a-bca27db9394c",
+  "source": "dailymed"
+}
