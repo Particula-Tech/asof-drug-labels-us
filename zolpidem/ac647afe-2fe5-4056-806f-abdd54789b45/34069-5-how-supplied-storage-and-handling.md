@@ -4,29 +4,13 @@ Zolpidem tartrate extended-release tablets USP, 6.25 mg are composed of two laye
 
 NDC Number Package Configuration
 
-68180-779-06 Bottle of 30
-
-68180-779-01 Bottle of 100
-
-68180-779-02 Bottle of 500
-
-68180-779-03 Bottle of 1000
-
-68180-779-13 Box containing 5 X 10 unit dose blisters
+68180-779-04 Bottle of 100
 
 Zolpidem tartrate extended-release tablets USP, 12.5 mg are composed of two layers* and are blue colored, round, biconvex, film-coated tablets debossed with "E62" on one side and "LU" on the other side and supplied as:
 
 NDC Number Package Configuration
 
-68180-780-06 Bottle of 30
-
-68180-780-01 Bottle of 100
-
-68180-780-02 Bottle of 500
-
-68180-780-03 Bottle of 1000
-
-68180-780-13 Box containing 5 X 10 unit dose blisters
+68180-780-04 Bottle of 100
 
 *Layers are covered by the coating and are indistinguishable.
 
