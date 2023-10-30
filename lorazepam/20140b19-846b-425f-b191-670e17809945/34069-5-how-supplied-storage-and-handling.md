@@ -2,7 +2,7 @@
 
 Lorazepam injection, USP is available as:
 
-| Unit of Sale | Concentration |
+|  | Concentration |
 | --- | --- |
 | NDC 0409-1539-31 Carton containing 10 1 mL fill Single-dose cartridge with Luer Lock for the Carpuject™ Syringe System | 4 mg/mL |
 | NDC 0409-1985-30 Carton containing 10 1 mL fill Single-dose cartridge with Luer Lock for the Carpuject™ Syringe System | 2 mg/mL |

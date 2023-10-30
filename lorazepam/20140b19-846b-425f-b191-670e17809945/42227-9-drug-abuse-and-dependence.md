@@ -27,7 +27,7 @@ PHYSICAL DEPENDENCE AFTER USE OF LORAZEPAM INJECTION MORE FREQUENTLY THAN RECOMM
 
 Lorazepam injection may produce physical dependence if used more frequently than recommended.
 Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
-Although Lorazepam injection is indicated only for intermittent use (see INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION), if used inappropriately more frequently than recommended, abrupt discontinuation or rapid dosage reduction or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
+Although Lorazepam injection is indicated only for intermittent use (see INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION), if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
 
 Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use (see WARNINGS, Dependence and Withdrawal Reactions).
 
