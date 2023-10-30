@@ -47,11 +47,12 @@ Advise breastfeeding women to monitor infants for excess sedation, restlessness,
 
 Distributed by:
 
-Allergan USA, Inc. Madison, NJ 07940
+AbbVie Inc. 1 N Waukegan Rd.
+North Chicago, IL 60064 Licensed from H. Lundbeck A/S
 
-© 2023 Allergan.
+© 2023 AbbVie.
 All rights reserved.
 
-Licensed from H. Lundbeck A/S
+CELEXA and its design are trademarks of H. Lundbeck A/S, used under license by AbbVie.
 
-v2.0USPI4010
+20081725

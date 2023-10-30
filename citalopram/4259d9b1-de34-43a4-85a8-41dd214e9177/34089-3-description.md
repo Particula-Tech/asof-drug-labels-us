@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Celexa contains citalopram, a selective serotonin reuptake inhibitor (SSRI).
+CELEXA contains citalopram, a selective serotonin reuptake inhibitor (SSRI).
 Citalopram hydrobromide is a racemic bicyclic phthalane structure and is designated (±)-1-(3-dimethylaminopropyl)-1-(4-fluorophenyl)-1,3-dihydroisobenzofuran-5-carbonitrile hydrobromide with the following structural formula:
 
 The molecular formula is C20H22BrFN2O and its molecular weight is 405.35.
