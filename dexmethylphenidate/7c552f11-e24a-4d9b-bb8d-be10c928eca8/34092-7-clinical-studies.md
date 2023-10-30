@@ -12,12 +12,13 @@ Patients treated with Focalin showed a statistically significant improvement in 
 
 Table 3: Summary of Efficacy Results from ADHD Acute-Phase Study in Pediatric Patients (6 – 17 years) (Study 1)
 
-| Study Number | Treatment Group | Primary Efficacy Measure: Teacher SNAP-ADHD Total Scorea |  |
+| Study number | Treatment group | Primary efficacy measure: teacher SNAP-ADHD total Scorea |  |
 | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | Mean Change from Baseline Week 4 Score (SD) |
+|  |  | Mean baseline score (SD) | Mean change from baseline Week 4 score (SD) |
 | Study 1 | Focalin 5-20 mg/dayb (n = 44) | 1.4 (0.7) (n = 42) | - 0.7 (0.7) (n = 42) |
 |  | Placebo (n = 42) | 1.6 (0.7) (n = 41) | - 0.2 (0.7) (n = 39) |
-| Abbreviations: ADHD, attention deficit hyperactivity disorder; SD, standard deviation; SNAP; swanson, Nolan and Pelham; n, number of patients available at the assessment time point. aAverage of two ratings. bStatistically significantly different from placebo. |  |  |  |
+
+1. Abbreviations: ADHD, attention deficit hyperactivity disorder; SD, standard deviation; SNAP; swanson, Nolan and Pelham; n, number of patients available at the assessment time point. aAverage of two ratings. bStatistically significantly different from placebo.
 
 Study 2 was a multicenter, placebo-controlled, double-blind, 2-week treatment withdrawal study in 75 children (ages 6 to 12 years) who were responders during a 6-week, open-label initial treatment period.
 Children took study medication twice a day separated by a 3.5 to 5.5 hour interval.
@@ -26,9 +27,10 @@ Patients continued on Focalin showed a statistically significant lower rate of f
 
 Table 4: Summary of Efficacy Results from ADHD Randomized Withdrawal Study in Pediatric Patients (6 – 17 years) (Study 2)
 
-| Study Number | Treatment Group | Primary Efficacy Measure: Proportion of Treatment Failurea |  |
+| Study number | Treatment group | Primary efficacy measure: proportion of treatment failurea |  |
 | --- | --- | --- | --- |
-|  |  | Number of Treatment Failures / Number of Randomized Patients | Percentage |
+|  |  | Number of treatment failures / Number of randomized patients | Percentage |
 | Study 2 | Focalin 5-20 mg/dayb | 6/35 | 17.1% |
 |  | Placebo | 25/40 | 62.5% |
-| Abbreviation: ADHD, attention deficit hyperactivity disorder. aOne patient did not have the value at Visit 10 and hence not included in this analysis. bStatistically significantly different from placebo. |  |  |  |
+
+1. Abbreviation: ADHD, attention deficit hyperactivity disorder. aOne patient did not have the value at Visit 10 and hence not included in this analysis. bStatistically significantly different from placebo.

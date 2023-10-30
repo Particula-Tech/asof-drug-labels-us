@@ -2,24 +2,21 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Controlled Substance Status/High Potential for Abuse and Dependence
+Abuse, Misuse, and Addiction
 
-Advise patients that Focalin is a controlled substance, and it can be abused and lead to dependence.
-Instruct patients that they should not give Focalin to anyone else.
-Advise patients to store Focalin in a safe place, preferably locked, to prevent abuse.
-Advise patients to comply with laws and regulations on drug disposal.
-Advise patients to dispose of remaining, unused, or expired Focalin by a medicine take-back program if available [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.1, 9.2, 9.3), How Supplied/Storage and Handling (16)].
+Educate patients and their families about the risks of abuse, misuse, and addiction of Focalin, which can lead to overdose and death, and proper disposal of any unused drug [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2), Overdosage (10)].
+Advise patients to store Focalin in a safe place, preferably locked, and instruct patients to not give Focalin to anyone else.
 
-Serious Cardiovascular Risks
+Risks to Patients with Serious Cardiac Disease
 
-Advise patients that there is a potential serious cardiovascular risk, including sudden death, myocardial infarction, stroke, and hypertension with Focalin use.
+Advise patients that there are potential risks to patients with serious cardiac disease, including sudden death, with Focalin use.
 Instruct patients to contact a healthcare provider immediately if they develop symptoms, such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
 
-Blood Pressure and Heart Rate Increases
+Increased Blood Pressure and Heart Rate
 
 Instruct patients that Focalin can cause elevations of their blood pressure and pulse rate [see Warnings and Precautions (5.3)].
 
-Psychiatric Risks
+Psychiatric Adverse Reactions
 
 Advise patients that Focalin, at recommended doses, can cause psychotic or manic symptoms, even in patients without prior history of psychotic symptoms or mania [see Warnings and Precautions (5.4)].
 
@@ -36,14 +33,22 @@ Instruct patients to report to their physician any new numbness, pain, skin colo
 Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking Focalin.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients [see Warnings and Precautions (5.6)].
 
-Suppression of Growth
+Long-Term Suppression of Growth in Pediatric Patients
 
 Advise patients that Focalin may cause slowing of growth and weight loss [see Warnings and Precautions (5.7)].
+
+Increased Intraocular Pressure (IOP) and Glaucoma
+
+Advise patients that IOP and glaucoma may occur during treatment with Focalin [see Warnings and Precautions (5.9)].
+
+Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
+
+Advise patients that motor and verbal tics and worsening of Tourette’s Syndrome may occur during treatment with Focalin.
+
+Instruct patients to notify their healthcare provider if emergence of new tics or worsening of tics or Tourette’s syndrome occurs [see Warnings and Precautions (5.10)].
 
 Pregnancy Registry
 
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in patients exposed to ADHD medications, including Focalin, during pregnancy [see Use in Specific Populations (8.1)].
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
-
-T2021-91
