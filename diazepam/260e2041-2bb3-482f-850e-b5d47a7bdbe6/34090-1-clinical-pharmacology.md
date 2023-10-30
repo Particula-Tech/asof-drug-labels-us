@@ -11,7 +11,7 @@ After oral administration >90% of diazepam is absorbed and the average time to a
 Absorption is delayed and decreased when administered with a moderate fat meal.
 In the presence of food mean lag times are approximately 45 minutes as compared with 15 minutes when fasting.
 There is also an increase in the average time to achieve peak concentrations to about 2.5 hours in the presence of food as compared with 1.25 hours when fasting.
-This results in an average decrease in C max of 20% in addition to a 27% decrease in AUC (range 15% to 50%) when administered with food.
+This results in an average decrease in C maxof 20% in addition to a 27% decrease in AUC (range 15% to 50%) when administered with food.
 
 ### Distribution
 

@@ -30,7 +30,7 @@ Physical dependence is a state that develops as a result of physiological adapta
 Abrupt discontinuation or rapid dosage reduction of benzodiazepines or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
 Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses), those who have had longer durations of use (see WARNINGS: Dependence and Withdrawal Reactions).
 
-To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Valium or reduce the dosage (see DOSAGE and ADMINISTRATION: Discontinuation or Dosage Reduction of Valium and WARNINGS: Dependence and Withdrawal Reactions).
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Valium or reduce the dosage (see DOSAGE and ADMINISTRATION: Discontinuation or Dosage Reduction of Valiumand WARNINGS: Dependence and Withdrawal Reactions).
 
 #### Acute Withdrawal Signs and Symptoms
 

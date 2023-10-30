@@ -11,11 +11,15 @@ Valium is available as follows:
 
 Engraved on tablets:
 
-2 mg—2 VALIUM ® (front) ROCHE (twice on scored side)
+2 mg—2 VALIUM ® on the outside edge;
 
-5 mg—5 VALIUM ® (front) ROCHE (twice on scored side)
+vertically scored on reverse side 5 mg—5 VALIUM ® on the outside edge;
 
-10 mg—10 VALIUM ® (front) ROCHE (twice on scored side)
+vertically scored on reverse side
+
+10 mg—10 VALIUM ® on the outside edge;
+
+vertically scored on the reverse side
 
 ## Storage
 

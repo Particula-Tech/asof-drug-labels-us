@@ -30,7 +30,7 @@ Rx only
 
 WaylisTHERAPEUTICS
 
-# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 10 mg Carton
 
 NDC 80725-006-01
 

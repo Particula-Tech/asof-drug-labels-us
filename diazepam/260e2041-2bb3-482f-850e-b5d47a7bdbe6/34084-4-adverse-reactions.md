@@ -33,5 +33,5 @@ Because of isolated reports of neutropenia and jaundice, periodic blood counts a
 
 ## Postmarketing Experience:
 
-Injury, Poisoning and Procedural Complications: There have been reports of falls and fractures in benzodiazepine users.
+Injury, Poisoning and Procedural Complications:There have been reports of falls and fractures in benzodiazepine users.
 The risk is increased in those taking concomitant sedatives (including alcohol), and in the elderly.

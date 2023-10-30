@@ -76,25 +76,25 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 ### Risks from Concomitant Use with Opioids
 
 Advise both patients and caregivers about the risks of potentially fatal respiratory depression and sedation when Valium is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider.
-Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see WARNINGS: Risks from Concomitant Use with Opioids and PRECAUTIONS: Drug Interactions).
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see WARNINGS: Risks from Concomitant Use with Opioidsand PRECAUTIONS: Drug Interactions).
 
 ### Abuse, Misuse, and Addiction
 
 Inform patients that the use of Valium, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
-Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS: Abuse, Misuse, and Addiction and DRUG ABUSE AND DEPENDENCE).
+Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS: Abuse, Misuse, and Addictionand DRUG ABUSE AND DEPENDENCE).
 
 ### Withdrawal Reactions
 
 Inform patients that the continued use of Valium may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of Valium may precipitate acute withdrawal reactions, which can be life-threatening.
 Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
-Instruct patients that discontinuation or dosage reduction of Valium may require a slow taper (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE).
+Instruct patients that discontinuation or dosage reduction of Valium may require a slow taper (see WARNINGS: Dependence and Withdrawal Reactionsand DRUG ABUSE AND DEPENDENCE).
 
 Patients should be advised against the simultaneous ingestion of alcohol and other CNS-depressant drugs during Valium therapy.
 As is true of most CNS- acting drugs, patients receiving Valium should be cautioned against engaging in hazardous occupations requiring complete mental alertness, such as operating machinery or driving a motor vehicle.
 
 ### Pregnancy
 
-Advise pregnant females that use of Valium late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and PRECAUTIONS: Pregnancy).
+Advise pregnant females that use of Valium late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS: Neonatal Sedation and Withdrawal Syndromeand PRECAUTIONS: Pregnancy).
 Instruct patients to inform their healthcare provider if they are pregnant.
 
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to Valium during pregnancy (see Precautions, Pregnancy).
@@ -108,7 +108,7 @@ Advise patients that breastfeeding is not recommended during treatment with Vali
 ### Opioids
 
 The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
-Benzodiazepines interact at GABA A sites and opioids interact primarily at mu receptors.
+Benzodiazepines interact at GABA Asites and opioids interact primarily at mu receptors.
 When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid- related respiratory depression exists.
 Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
 
@@ -139,10 +139,10 @@ There have also been reports that the metabolic elimination of phenytoin is decr
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In studies in which mice and rats were administered diazepam in the diet at a dose of 75 mg/kg/day (approximately 6 and 12 times, respectively, the maximum recommended human dose [MRHD=1 mg/kg/day] on a mg/m 2 basis) for 80 and 104 weeks, respectively, an increased incidence of liver tumors was observed in males of both species.
+In studies in which mice and rats were administered diazepam in the diet at a dose of 75 mg/kg/day (approximately 6 and 12 times, respectively, the maximum recommended human dose [MRHD=1 mg/kg/day] on a mg/m 2basis) for 80 and 104 weeks, respectively, an increased incidence of liver tumors was observed in males of both species.
 The data currently available are inadequate to determine the mutagenic potential of diazepam.
-Reproduction studies in rats showed decreases in the number of pregnancies and in the number of surviving offspring following administration of an oral dose of 100 mg/kg/day (approximately 16 times the MRHD on a mg/m 2 basis) prior to and during mating and throughout gestation and lactation.
-No adverse effects on fertility or offspring viability were noted at a dose of 80 mg/kg/day (approximately 13 times the MRHD on a mg/m 2 basis).
+Reproduction studies in rats showed decreases in the number of pregnancies and in the number of surviving offspring following administration of an oral dose of 100 mg/kg/day (approximately 16 times the MRHD on a mg/m 2basis) prior to and during mating and throughout gestation and lactation.
+No adverse effects on fertility or offspring viability were noted at a dose of 80 mg/kg/day (approximately 13 times the MRHD on a mg/m 2basis).
 
 ## Pregnancy
 
@@ -154,10 +154,10 @@ Healthcare providers are encouraged to register patients by calling the National
 
 ### Risk Summary
 
-Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and Clinical Considerations).
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndromeand Clinical Considerations).
 Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
 
-Diazepam has been shown to be teratogenic in mice and hamsters when given orally at daily doses of 100 mg/kg or greater (approximately eight times the maximum recommended human dose [MRHD=1 mg/kg/day] or greater on a mg/m 2 basis).
+Diazepam has been shown to be teratogenic in mice and hamsters when given orally at daily doses of 100 mg/kg or greater (approximately eight times the maximum recommended human dose [MRHD=1 mg/kg/day] or greater on a mg/m 2basis).
 Cleft palate and encephalopathy are the most common and consistently reported malformations produced in these species by administration of high, maternally toxic doses of diazepam during organogenesis.
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -188,7 +188,7 @@ In addition, the majority of more recent case-control and cohort studies of benz
 
 #### Animal Data
 
-Diazepam has been shown to be teratogenic in mice and hamsters when given orally at daily doses of 100 mg/kg or greater (approximately eight times the maximum recommended human dose [MRHD=1 mg/kg/day] or greater on a mg/m 2 basis).
+Diazepam has been shown to be teratogenic in mice and hamsters when given orally at daily doses of 100 mg/kg or greater (approximately eight times the maximum recommended human dose [MRHD=1 mg/kg/day] or greater on a mg/m 2basis).
 Cleft palate and encephalopathy are the most common and consistently reported malformations produced in these species by administration of high, maternally toxic doses of diazepam during organogenesis.
 Rodent studies have indicated that prenatal exposure to diazepam doses similar to those used clinically can produce long-term changes in cellular immune responses, brain neurochemistry, and behavior.
 
