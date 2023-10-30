@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-CONCERTA ® (methylphenidate HCl) Extended-release Tablets are available in 18 mg, 27 mg, 36 mg, and 54 mg dosage strengths.
+CONCERTA ®(methylphenidate HCl) Extended-release Tablets are available in 18 mg, 27 mg, 36 mg, and 54 mg dosage strengths.
 The 18 mg tablets are yellow and imprinted with "alza 18".
 The 27 mg tablets are gray and imprinted with "alza 27".
 The 36 mg tablets are white and imprinted with "alza 36".

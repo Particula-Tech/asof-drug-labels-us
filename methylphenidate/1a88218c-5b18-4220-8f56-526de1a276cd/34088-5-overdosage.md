@@ -1,23 +1,19 @@
 # 10 OVERDOSAGE
 
-## 10.1 Signs and Symptoms
+## 10.1 Clinical Effects of Overdose
 
-Signs and symptoms of CONCERTA ® overdosage, resulting principally from overstimulation of the CNS and from excessive sympathomimetic effects, may include the following: vomiting, agitation, muscle twitching, convulsion, grand mal convulsion, confusional state, hallucinations (auditory and/or visual), hyperhidrosis, headache, pyrexia, tachycardia, palpitations, heart rate increased, sinus arrhythmia, hypertension, rhabdomyolysis, mydriasis, and dry mouth.
+Overdose of CNS stimulants is characterized by the following sympathomimetic effects:
 
-## 10.2 Recommended Treatment
+- Cardiovascular effects including tachyarrhythmias, and hypertension or hypotension.
+  Vasospasm, myocardial infarction, or aortic dissection may precipitate sudden cardiac death.
+  Takotsubo cardiomyopathy may develop.
+- CNS effects including psychomotor agitation, confusion, and hallucinations.
+  Serotonin syndrome, seizures, cerebral vascular accidents, and coma may occur.
+- Life-threatening hyperthermia (temperatures greater than 104°F) and rhabdomyolysis may develop.
 
-Treatment consists of appropriate supportive measures.
-The patient must be protected against self-injury and against external stimuli that would aggravate overstimulation already present.
-Gastric contents may be evacuated by gastric lavage as indicated.
-Before performing gastric lavage, control agitation and seizures if present and protect the airway.
-Other measures to detoxify the gut include administration of activated charcoal and a cathartic.
-Intensive care must be provided to maintain adequate circulation and respiratory exchange; external cooling procedures may be required for pyrexia.
+## 10.2 Overdose Management
 
-Efficacy of peritoneal dialysis or extracorporeal hemodialysis for CONCERTA ® overdosage has not been established.
-
-The prolonged release of methylphenidate from CONCERTA ® should be considered when treating patients with overdose.
-
-## 10.3 Poison Control Center
-
-As with the management of all overdosage, the possibility of multiple-drug ingestion should be considered.
-The physician may wish to consider contacting a poison control center for up-to-date information on the management of overdosage with methylphenidate.
+Consider the possibility of multiple drug ingestion.
+The pharmacokinetic profile of CONCERTA should be considered when treating patients with overdose.
+Because methylphenidate has a large volume of distribution and is rapidly metabolized, dialysis is not useful.
+Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.
