@@ -46,4 +46,4 @@ Distributed by: AbbVie Inc. North Chicago, Illinois 60064 © 2023 AbbVie.
 All rights reserved.
 Actonel and its design are trademarks of Allergan Pharmaceuticals International Limited, an AbbVie company.
 
-v1.1USPI0471
+20080025

@@ -203,6 +203,6 @@ Distributed by: AbbVie Inc. North Chicago, Illinois 60064
 All rights reserved.
 Actonel and its design are trademarks of Allergan Pharmaceuticals International Limited, an AbbVie company.
 
-Revised: 05/2023
+Revised: 10/2023
 
-v1.1MG0471
+20080025
