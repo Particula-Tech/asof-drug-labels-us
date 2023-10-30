@@ -1,9 +1,11 @@
-Manufactured by: Baxter Healthcare Corporation Deerfield, IL 60015
+Manufactured by:
 
-Baxter and Galaxy are registered trademarks of Baxter International Inc.
+Baxter Healthcare Corporation
+
+Deerfield, IL 60015
+
+Baxter and Galaxy are trademarks of Baxter International Inc. or its subsidiaries.
 
 Clinitest is a registered trademark of Siemens Healthcare Diagnostics Inc.
 
-Clinistix is a registered trademark of Ascensia Diabetes Care Holdings AG
-
-07-19-01-211
+07-19-06-949

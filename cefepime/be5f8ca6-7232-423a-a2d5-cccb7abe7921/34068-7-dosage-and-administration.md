@@ -26,7 +26,7 @@ The usual recommended dosage in pediatric patients up to 40 kg in weight for dur
 - •For moderate to severe pneumonia due to P. aeruginosa give 50 mg per kg per dose, every 8 hours.
 - •50 mg per kg per dose, every 8 hours for febrile neutropenic patients.
 
-Cefepime Injection in GALAXY Container should be used only in pediatric patients who require the entire 1 or 2 g dose and not any fraction thereof.
+Cefepime Injection in Galaxy Container should be used only in pediatric patients who require the entire 1 or 2 g dose and not any fraction thereof.
 
 ## 2.3 Dosage Adjustments in Patients with Renal Impairment
 
@@ -68,7 +68,7 @@ Data in pediatric patients with impaired renal function are not available; howev
 
 ## 2.4 Directions for Use of Cefepime Injection in GALAXY Container
 
-Cefepime Injection in GALAXY Container (PL 2040 Plastic) is for intravenous administration using sterile equipment after thawing to room temperature.
+Cefepime Injection in Galaxy Container (PL 2040 Plastic) is for intravenous administration using sterile equipment after thawing to room temperature.
 
 Thawing of Plastic Container
 

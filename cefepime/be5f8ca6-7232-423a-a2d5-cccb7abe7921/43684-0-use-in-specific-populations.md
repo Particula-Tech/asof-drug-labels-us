@@ -43,7 +43,7 @@ Use of Cefepime Injection in these age groups is supported by evidence from adeq
 Safety and effectiveness in pediatric patients below the age of 2 months have not been established.
 There are insufficient clinical data to support the use of Cefepime Injection in pediatric patients under 2 months of age or for the treatment of serious infections in the pediatric population where the suspected or proven pathogen is Haemophilus influenzae type b. In those patients in whom meningeal seeding from a distant infection site or in whom meningitis is suspected or documented, an alternate agent with demonstrated clinical efficacy in this setting should be used.
 
-Cefepime Injection in GALAXY Container should be used only in pediatric patients who require the entire 1 or 2 g dose and not any fraction thereof.
+Cefepime Injection in Galaxy Container should be used only in pediatric patients who require the entire 1 or 2 g dose and not any fraction thereof.
 
 ## 8.5 Geriatric Use
 
