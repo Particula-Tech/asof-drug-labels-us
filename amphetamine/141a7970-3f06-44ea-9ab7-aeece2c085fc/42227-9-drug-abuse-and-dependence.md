@@ -2,28 +2,31 @@
 
 ## 9.1 Controlled Substance
 
-MYDAYIS contains mixed amphetamine salts, which are in Schedule II.
+MYDAYIS contains mixed amphetamine salts, a Schedule II controlled substance.
 
 ## 9.2 Abuse
 
-MYDAYIS is a CNS stimulant that contains mixed amphetamine salts which have a high potential for abuse.
-Abuse is characterized by impaired control over drug use, compulsive use, continued use despite harm, and craving.
+MYDAYIS has a high potential for abuse and misuse which can lead to the development of a substance use disorder, including addiction [see Warnings and Precautions (5.1)].
+MYDAYIS can be diverted for non-medical use into illicit channels or distribution.
 
-Signs and symptoms of amphetamine abuse may include increased heart rate, respiratory rate, blood pressure, and/or sweating, dilated pupils, hyperactivity, restlessness, insomnia, decreased appetite, loss of coordination, tremors, flushed skin, vomiting, and/or abdominal pain.
-Anxiety, psychosis, hostility, aggression, suicidal or homicidal ideation have also been seen.
-Abusers of amphetamine may use unapproved routes of administration which can result in overdose and death [see Overdosage (10)].
+Abuse is the intentional non-therapeutic use of a drug, even once, to achieve a desired psychological or physiological effect.
+Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a healthcare provider or for whom it was not prescribed.
+Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
 
-To reduce the abuse of CNS stimulants, including MYDAYIS, assess the risk of abuse prior to prescribing.
-After prescribing, keep careful prescription records, educate patients and their families about abuse and on proper storage and disposal of CNS stimulants.
-Monitor for signs of abuse while on therapy, and re-evaluate the need for MYDAYIS use.
+Misuse and abuse of amphetamine may cause increased heart rate, respiratory rate, or blood pressure; sweating; dilated pupils; hyperactivity; restlessness; insomnia; decreased appetite; loss of coordination; tremors; flushed skin; vomiting; and/or abdominal pain.
+Anxiety, psychosis, hostility, aggression, and suicidal or homicidal ideation have also been observed with CNS stimulants abuse and/or misuse.
+Misuse and abuse of CNS stimulants, including MYDAYIS, can result in overdose and death [see Overdosage (10)], and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
 
 ## 9.3 Dependence
 
+Physical Dependence
+
+MYDAYIS may produce physical dependence.
+Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
+
+Withdrawal signs and symptoms after abrupt discontinuation or dose reduction following prolonged use of CNS stimulants including MYDAYIS include dysphoric mood; depression; fatigue; vivid, unpleasant dreams; insomnia or hypersomnia; increased appetite; and psychomotor retardation or agitation.
+
 Tolerance
 
-Tolerance (a state of adaptation in which exposure to a specific dose of a drug results in a reduction of the drug's desired and/or undesired effects over time, in such a way that a higher dose of the drug is required to produce the same effect that was once obtained at a lower dose) may occur during the chronic therapy of CNS stimulants including MYDAYIS.
-
-Dependence
-
-Physical dependence (a state of adaptation manifested by a withdrawal syndrome produced by abrupt cessation, rapid dose reduction, or administration of an antagonist) may occur in patients treated with CNS stimulants including MYDAYIS.
-Withdrawal symptoms after abrupt cessation of CNS stimulants include extreme fatigue and depression.
+MYDAYIS may produce tolerance.
+Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).

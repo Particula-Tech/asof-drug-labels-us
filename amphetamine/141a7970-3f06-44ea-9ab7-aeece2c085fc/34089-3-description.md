@@ -18,7 +18,9 @@ The first DR bead releases amphetamine at pH 5.5 and the other DR bead releases 
 | Total mixed amphetamine salts | 12.500 mg | 25 mg | 37.5 mg | 50 mg |
 | Total amphetamine base equivalence | 7.8 mg | 15.6 mg | 23.5 mg | 31.3 mg |
 
-Inactive Ingredients and Colors: The inactive ingredients in MYDAYIS capsules include: hard gelatin capsules, ethylcellulose, hydroxypropyl methylcellulose, methacrylic acid copolymer, methyl acrylate, methyl methacrylate, methacrylic acid copolymer, opadry beige, sugar spheres, talc, and triethyl citrate.
+Inactive Ingredients and Colors
+
+The inactive ingredients in MYDAYIS capsules include: hard gelatin capsules, ethylcellulose, hydroxypropyl methylcellulose, methacrylic acid copolymer, methyl acrylate, methyl methacrylate, methacrylic acid copolymer, opadry beige, sugar spheres, talc, and triethyl citrate.
 The gelatin capsules for all four strengths contain gelatin, titanium dioxide, yellow iron oxide, and edible inks.
 The 12.5 mg and 25 mg strength gelatin capsules also contain FD&C Blue #2.
 The 37.5 mg strength also contains red iron oxide.

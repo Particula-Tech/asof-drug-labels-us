@@ -13,8 +13,8 @@ Amphetamines block the reuptake of norepinephrine and dopamine into the presynap
 
 MYDAYIS contains d-amphetamine and l-amphetamine salts in the ratio of 3:1.
 Pharmacokinetic studies of d- and l-amphetamine after oral administration of MYDAYIS have been conducted in healthy adults (19 to 52 years) and pediatric patients (6 to 17 years) with ADHD.
-Following administration of MYDAYIS, the peak plasma concentrations occurred in about 7 – 10 hours in pediatric patients and about 8 hours in adults for both d-amphetamine and l-amphetamine.
-The mean plasma elimination half-life for d- amphetamine ranges from about 10 – 11 hours and l-amphetamine from 10 – 13 hours in both pediatric and adult patients.
+Following administration of MYDAYIS, the peak plasma concentrations occurred in about 7 to 10 hours in pediatric patients and about 8 hours in adults for both d-amphetamine and l-amphetamine.
+The mean plasma elimination half-life for d-amphetamine ranges from about 10 to 11 hours and l-amphetamine from 10 to 13 hours in both pediatric and adult patients.
 
 Absorption
 
@@ -22,13 +22,13 @@ MYDAYIS exhibits linear dose proportionality over the range of 12.5 to 50 mg.
 Steady-state is achieved between Days 7 and 8 of dosing with mean accumulation ratio of 1.6.
 A single dose of MYDAYIS 37.5 mg capsules provided comparable plasma concentration profiles of both d- and l-amphetamine to mixed amphetamine salts extended release (MAS-ER) 25 mg followed by 12.5 mg immediate release amphetamine administered 8 hours later (Figure 1).
 
-Figure 1 Mean Plasma Concentrations of d- and l-amphetamine Following Oral Administration of MYDAYIS 37.5 mg vs MAS-ER 25 mg Followed by Immediate-Release MAS-IR 12.5 mg 8 Hours Later in Adults
+Figure 1: Mean Plasma Concentrations of d- and l-amphetamine Following Oral Administration of MYDAYIS 37.5 mg vs MAS-ER 25 mg Followed by Immediate-Release MAS-IR 12.5 mg 8 Hours Later in Adults
 
 Effect of Food
 
 High fat meal does not affect the extent of absorption of d- and l-amphetamine when taken with MYDAYIS.
 Tmax is prolonged by 5 hours (from 7.0 hours at fasted state to 12.0 hours after a high-fat meal) for d-amphetamine and 4.5 hours (from 7.5 hours at fasted state to 12 hours after a high-fat meal) for l-amphetamine after administration of MYDAYIS 50 mg with high fat meal.
-Opening the capsule and sprinkling the contents on applesauce results in comparable absorption and exposure to the intact capsule taken in the fasted state [see Dosing and Administration (2.3)]
+Opening the capsule and sprinkling the contents on applesauce results in comparable absorption and exposure to the intact capsule taken in the fasted state [see Dosage and Administration (2.3)].
 
 Effect of Alcohol
 
@@ -53,7 +53,7 @@ Excretion
 
 The renal excretion is the primary route for elimination of d- and l-amphetamine and its metabolites after administration of MYDAYIS.
 
-At normal urine pHs, approximately half of an administered dose of amphetamine is recoverable in urine as derivatives of alpha-hydroxy-amphetamine and approximately another 30%-40% of the dose is recoverable in urine as amphetamine itself.
+At normal urine pHs, approximately half of an administered dose of amphetamine is recoverable in urine as derivatives of alpha-hydroxy-amphetamine and approximately another 30 to 40% of the dose is recoverable in urine as amphetamine itself.
 Urinary recovery of amphetamine is highly dependent on pH and urine flow rates.
 Alkaline urine pHs result in less ionization and reduced renal elimination, and acidic pHs and high flow rates result in increased renal elimination.
 Urinary recovery of amphetamine has been reported to range from 1% to 75%, and the fraction of a dose hepatically metabolized is dependent on urine pH.
@@ -65,8 +65,8 @@ Age
 
 Comparison of the pharmacokinetics of d- and l-amphetamine after oral administration of MYDAYIS in pediatric patients with ADHD 13 to 17 years old and healthy adult subjects (19 to 52 years) indicates that body weight is the primary determinant of apparent differences in the pharmacokinetics of d- and l-amphetamine across the age range.
 
-PK data from patients age 13 to 17 years (n=14) who received a single 25 mg MYDAYIS capsule was scaled (based on PK proportionality) and compared with PK data from adult patients 19 to 51 years (n =20) who received 37.5 mg.
-Based on dose proportionality, a single dose MYDAYIS capsule administered to pediatric patients age 13 to 17 years (n=14) would produce about 21-31% higher Cmax for d- and l-amphetamine and 21-31% higher AUC for d- and l-amphetamine, compared to the same dose of MYDAYIS capsule administered to adults (age 19 to 51 years).
+PK data from patients age 13 to 17 years (n=14) who received a single 25 mg MYDAYIS capsule was scaled (based on PK proportionality) and compared with PK data from adult patients 19 to 51 years (n=20) who received 37.5 mg.
+Based on dose proportionality, a single-dose MYDAYIS capsule administered to pediatric patients age 13 to 17 years (n=14) would produce about 21% to 31% higher Cmax for d- and l-amphetamine and 21% to 31% higher AUC for d- and l-amphetamine, compared to the same dose of MYDAYIS capsule administered to adults (age 19 to 51 years).
 
 Male and Female Patients
 
@@ -75,12 +75,12 @@ In pharmacokinetic studies, systemic exposure to d- and l-amphetamine was simila
 Racial Groups
 
 Formal pharmacokinetic studies for race have not been conducted.
-However, amphetamine pharmacokinetics appeared to be comparable among white (N=41), Blacks (N=27), and Hispanics (N=34).
+However, amphetamine pharmacokinetics appeared to be comparable among Whites (N=41), Blacks (N=27), and Hispanics (N=34).
 
 Patients with Renal impairment
 
 The effect of renal impairment on d- and l-amphetamine after administration of MYDAYIS has not been studied.
 
-In a pharmacokinetic study of lisdexamfetamine in adult subjects with normal and impaired renal function mean d-amphetamine clearance was reduced from 0.7 L/hr/kg in normal subjects to 0.4 L/hr/kg in subjects with severe renal impairment (GFR 15 to < 30 mL/min/1.73 m2) patients.
+In a pharmacokinetic study of lisdexamfetamine in adult subjects with normal and impaired renal function mean d-amphetamine clearance was reduced from 0.7 L/hr/kg in normal subjects to 0.4 L/hr/kg in subjects with severe renal impairment (GFR 15 to <30 mL/min/1.73 m2) patients.
 Dialysis did not significantly affect the clearance of d-amphetamine.
 The impact of renal impairment on the disposition of amphetamine would be expected to be similar between oral administration of lisdexamfetamine and MYDAYIS [see Use in Specific Populations (8.6)].
