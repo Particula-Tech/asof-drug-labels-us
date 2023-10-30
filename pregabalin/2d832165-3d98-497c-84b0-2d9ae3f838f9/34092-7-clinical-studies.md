@@ -19,8 +19,8 @@ Patients who did not complete the study were assigned 0% improvement.
 In the LYRICA CR group, 79.8% of subjects achieved at least a 30% improvement and 73.6% at least 50% improvement in pain intensity.
 In the placebo group, 64.9% of subjects achieved at least a 30% improvement and 54.6% at least a 50% improvement in pain intensity.
 
-1. Figure 1.
-   Percent of Patients Achieving Various Levels of Improvement in Pain Intensity (N=413)
+Figure 1.
+Percent of Patients Achieving Various Levels of Improvement in Pain Intensity (N=413)
 
 ## 14.2 Management of Fibromyalgia (Study FM CR)
 
