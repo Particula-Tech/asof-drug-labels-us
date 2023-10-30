@@ -18,14 +18,14 @@ However, pharmacokinetic considerations and evidence of effectiveness of immedia
 
 Table 6: Summary of Efficacy Results from ADHD Study in Pediatric Patients (6 – 17 years) (Study 1)
 
-| Study Number | Treatment Group | Primary Efficacy Measure: CADS-T Total Score |  |  |
+| Study number | Treatment group | Primary efficacy measure: CADS-T total score |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |
+| Mean baseline score (SD) | LS mean change from baseline (SE) | Placebo-subtracted differencea (95% CI) |  |  |
 | Study 1 | Focalin XR 5-30 mg/day (n = 52) | 33.3 (9.18) | 16.41 (1.8) | 10.64 (5.38, 15.91) |
 |  | Placebo (n = 45) | 34.9 (10.03) | 5.77 (1.93) | -- |
 | Abbreviations: ADHD, attention deficit hyperactivity disorder; SD, standard deviation; SE, standard error; LS Mean, least-squares mean; CI, confidence interval, not adjusted for multiple comparisons. aDifference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
 
-In 2 additional cross-over studies (Studies 2 and 3) in pediatric patients ages 6 to 12 years, who received 20 mg Focalin XR or placebo, Focalin XR was found to have a statistically significant treatment effect versus placebo on the Swanson, Kotkin, Agler, M-Flynn & Pelham (SKAMP) rating scale total scores at all-time points after dosing in each study (0.5, 1, 3, 4, 5, 7, 9, 10, 11, and 12 hours in Study 2 and 1, 2, 4, 6, 8, 9, 10, 11, and 12 hours in the Study 3).
+In 2 additional cross-over studies (Studies 2 and 3) in pediatric patients ages 6 to 12 years, who received 20 mg Focalin XR or placebo, Focalin XR was found to have a statistically significant treatment effect versus placebo on the Swanson, Kotkin, Agler, M-Flynn & Pelham (SKAMP) rating scale total scores at all-time points after dosing in each study (0.5, 1, 3, 4, 5, 7, 9, 10, 11, and 12 hours in Study 2 and 1, 2, 4, 6, 8, 9, 10, 11, and 12 hours in the study 3).
 SKAMP is a validated 13-item teacher-rated scale that assesses manifestations of ADHD in a classroom setting.
 A treatment effect was also observed 0.5 hours after administration of Focalin XR 20 mg in an additional study of ADHD patients ages 6 to 12 years.
 
@@ -46,11 +46,11 @@ There was no obvious increase in effectiveness with increasing the dose.
 
 Table 7: Summary of Efficacy Results from ADHD Study in Adults (Study 4)
 
-| Study Number | Treatment Group | Primary Efficacy Measure: ADHD-RS Total Score |  |  |
+| Study number | Treatment group | Primary efficacy Measure: ADHD-RS total score |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |
+| Mean baseline score (SD) | LS mean change from baseline (SE) | Placebo-subtracted differencea (95% CI) |  |  |
 | Study 4 | Focalin XR 20 mg/day (n = 57) | 36.8 (7.2) | 13.27 (1.44) | 5.71 (1.64, 9.78) |
-|  | Focalin XR 30 mg/day (n = 54) | 36.9 (8.07) | 12.86 (1.48) | 5.31 (1.18, 9.44) |
-|  | Focalin XR 40 mg/day (n = 54) | 36.9 (8.25) | 16.51 (1.48) | 8.96 (4.83, 13.08) |
-|  | Placebo (n = 53) | 37.5 (7.82) | 7.55 (1.49) | -- |
+| Focalin XR 30 mg/day (n = 54) | 36.9 (8.07) | 12.86 (1.48) | 5.31 (1.18, 9.44) |  |
+| Focalin XR 40 mg/day (n = 54) | 36.9 (8.25) | 16.51 (1.48) | 8.96 (4.83, 13.08) |  |
+| Placebo (n = 53) | 37.5 (7.82) | 7.55 (1.49) | -- |  |
 | Abbreviations: ADHD, attention deficit hyperactivity disorder; SD, standard deviation; SE, standard error; LS Mean, least-squares mean; CI, confidence interval, not adjusted for multiple comparisons. aDifference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |

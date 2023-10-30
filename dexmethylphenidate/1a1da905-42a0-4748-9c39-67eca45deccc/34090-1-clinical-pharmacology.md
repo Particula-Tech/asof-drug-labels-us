@@ -8,7 +8,7 @@ The mode of therapeutic action in ADHD is not known.
 ## 12.2 Pharmacodynamics
 
 Dexmethylphenidate is the more pharmacologically active d-enantiomer of racemic methylphenidate.
-Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increases the release of these monoamines into the extraneuronal space.
+Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
 
 Cardiac Electrophysiology
 
@@ -29,7 +29,7 @@ The ratio of geometric mean of AUC(0-inf) and Cmax after administration of Focal
 The variability in Cmax, Cmin, and AUC is similar between Focalin XR and Focalin immediate-release tablets with approximately a 3-fold range in each.
 
 Approximately 90% of the dose is absorbed after oral administration of radiolabeled racemic methylphenidate.
-However, due to first pass metabolism, the mean absolute bioavailability of dexmethylphenidate when administered in various formulations was 22% to 25%.
+However, due to first pass metabolism the mean absolute bioavailability of dexmethylphenidate when administered in various formulations was 22% to 25%.
 
 After single dose administration, Focalin XR demonstrated dose proportional pharmacokinetics (PK) in the range of 5 mg to 40 mg.
 
@@ -63,7 +63,7 @@ Studies in Specific Populations
 
 Male and Female Patients
 
-After administration of Focalin XR, the first peak (Cmax1), was on average 45% higher in women.
+After administration of Focalin XR, the first peak, (Cmax1) was on average 45% higher in women.
 The interpeak minimum and the second peak also tended to be slightly higher in women although the difference was not statistically significant, and these patterns remained even after weight normalization.
 
 Racial or Ethnic Groups

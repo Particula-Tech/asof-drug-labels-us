@@ -5,7 +5,7 @@
 Carcinogenesis
 
 Lifetime carcinogenicity studies have not been carried out with dexmethylphenidate.
-In a lifetime carcinogenicity study carried out in B6C3F1 mice, racemic methylphenidate caused an increase in hepatocellular adenomas, and in males only, an increase in hepatoblastomas was seen at a daily dose of approximately 60 mg/kg/day.
+In a lifetime carcinogenicity study carried out in B6C3F1 mice, racemic methylphenidate caused an increase in hepatocellular adenomas and, in males only, an increase in hepatoblastomas was seen at a daily dose of approximately 60 mg/kg/day.
 This dose is approximately 2 times the MRHD of 60 mg/day of racemic methylphenidate given to children on a mg/m2 basis.
 Hepatoblastoma is a relatively rare rodent malignant tumor type.
 There was no increase in total malignant hepatic tumors.

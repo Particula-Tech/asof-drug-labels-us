@@ -21,11 +21,11 @@ Inactive ingredients: ammonio methacrylate copolymer, gelatin, methacrylic acid 
 
 Each strength capsule also contains colorant ingredients in the capsule shell as follows:
 
-- 5 mg: E132 FD&C Blue No. 2
-- 10 mg: FDA/E172 iron oxide yellow
-- 15 mg: FD&C Blue No. 2, FDA/E172 iron oxide yellow
-- 20 mg: contains no colorants
-- 25 mg: E132 FD&C Blue No. 2
-- 30 mg: FDA/E172 iron oxide yellow
-- 35 mg: E132 FD&C Blue No. 2, FDA/E172 iron oxide yellow
-- 40 mg: E132 FD&C Blue No. 2, FDA/E172 iron oxide yellow
+- •5 mg: E132 FD&C Blue No. 2
+- •10 mg: FDA/E172 iron oxide yellow
+- •15 mg: FD&C Blue No. 2, FDA/E172 iron oxide yellow
+- •20 mg: contains no colorants
+- •25 mg: E132 FD&C Blue No. 2
+- •30 mg: FDA/E172 iron oxide yellow
+- •35 mg: E132 FD&C Blue No. 2, FDA/E172 iron oxide yellow
+- •40 mg: E132 FD&C Blue No. 2, FDA/E172 iron oxide yellow
