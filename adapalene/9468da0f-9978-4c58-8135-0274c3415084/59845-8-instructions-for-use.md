@@ -18,8 +18,7 @@ Step 1
 
 To apply CABTREO to your face, use the pump to dispense one pea-sized amount of CABTREO onto your fingertip.
 See Figure 1.
-
-- Note: One pea-sized amount of CABTREO should be enough to cover your entire face.
+Note: One pea-sized amount of CABTREO should be enough to cover your entire face.
 
 Figure 1
 
@@ -49,7 +48,7 @@ How should I store CABTREO?
 
 Keep CABTREO and all medicines out of the reach of children.
 
-- Distributed by:Bausch Health US, LLC, Bridgewater, NJ 08807 USA
+Distributed by:Bausch Health US, LLC, Bridgewater, NJ 08807 USA
 
 Manufactured by:Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada
 

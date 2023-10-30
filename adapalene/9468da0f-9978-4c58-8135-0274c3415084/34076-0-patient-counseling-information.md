@@ -36,23 +36,13 @@ Advise patients to use CABTREO on the smallest area of skin and for the shortest
 To avoid direct infant exposure, instruct patients who are breastfeeding not to apply CABTREO directly to the nipple and areola.
 Instruct patients to avoid inadvertent contact of treated areas with infant skin [see Use in Specific Populations (8.2)].
 
-Distributed by:
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Bausch Health US, LLC
-
-Bridgewater, NJ 08807 USA
-
-Manufactured by:
-
-Bausch Health Companies Inc.
-
-Laval, Quebec H7L 4A8, Canada
+Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
 
 Patented.
 See https://patents.ortho-dermatologics.com for US patent information.
 
 CABTREO is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-© 2023 Bausch Health Companies Inc. or its affiliates
-
-- 90001200
+© 2023 Bausch Health Companies Inc. or its affiliates 90001200

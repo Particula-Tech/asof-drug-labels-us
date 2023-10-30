@@ -8,7 +8,8 @@ The trial population included 74% White, 15% Black or African American, 7% Asian
 Fifty-eight percent were female and 42% were male.
 The median age of the trial population was 18 years (range: 10 to 48 years).
 Enrolled subjects had a score of moderate (3) or severe (4) on the Evaluator’s Global Severity Score (EGSS), 30 to 100 inflammatory lesions (papules, pustules, and nodules), 35 to 150 non-inflammatory lesions (open and closed comedones) and two or fewer facial nodules.
-At baseline, most subjects (91%) had EGSS scores that equated to moderate acne.The co-primary efficacy endpoints of success on the EGSS, absolute change in noninflammatory lesion count, and absolute change in inflammatory lesion count were assessed at Week 12.
+At baseline, most subjects (91%) had EGSS scores that equated to moderate acne.
+The co-primary efficacy endpoints of success on the EGSS, absolute change in noninflammatory lesion count, and absolute change in inflammatory lesion count were assessed at Week 12.
 Success on the EGSS was defined as at least a 2-grade improvement from baseline and an EGSS score of clear (0) or almost clear (1).
 
 Table 3 lists the efficacy results for Trials 1 and 2.

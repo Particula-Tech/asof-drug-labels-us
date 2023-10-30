@@ -56,7 +56,9 @@ How should I use CABTREO?
 - Avoid applying CABTREO to the eyes, lips, creases around your nose, your mouth, and areas of your skin with cuts, abrasions, or sunburned skin.
 - Before you apply CABTREO, wash your face gently with a mild or soapless cleanser, rinse with warm water, and pat your skin dry.
 - Wash your hands right away after applying CABTREO.
-- What should I avoid during treatment with CABTREO?
+
+What should I avoid during treatment with CABTREO?
+
 - Avoid or limit your time in sunlight, including use of tanning beds or sunlamps during treatment with CABTREO.
   CABTREO can make you more sensitive to the sun, and the light from sunlamps and tanning beds.
   You could get severe sunburn.
@@ -122,8 +124,8 @@ CABTREO is a trademark of Bausch Health Companies Inc. or its affiliates.
 © 2023 Bausch Health Companies Inc. or its affiliates
 
 For more information about CABTREO, call 1-800-321-4576.
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-- This Patient Information has been approved by the U.S. Food and Drug Administration.
-- Issued: 10/2023
+Issued: 10/2023
 
 90001200
