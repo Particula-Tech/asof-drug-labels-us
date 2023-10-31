@@ -2,10 +2,10 @@
 
 The following adverse reactions are described, or described in greater detail, in other sections:
 
-- Hypersensitivity reactions, including anaphylaxis [see Contraindications (4) and Warnings and Precautions (5.2)]
-- Paradoxical bronchospasm [see Warnings and Precautions (5.3)]
-- Ocular effects [see Warnings and Precautions (5.4)]
-- Urinary retention [see Warnings and Precautions (5.5)]
+- Hypersensitivity Reactions, Including Anaphylaxis [see Contraindications (4) and Warnings and Precautions (5.2)]
+- Paradoxical Bronchospasm [see Warnings and Precautions (5.3)]
+- Ocular Effects [see Warnings and Precautions (5.4)]
+- Urinary Retention [see Warnings and Precautions (5.5)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in patients.
 

@@ -28,4 +28,4 @@ Advise patients to consult their physician immediately if any of these symptoms 
 ## 5.5 Urinary Retention
 
 ATROVENT HFA is an anticholinergic and may cause urinary retention.
-Therefore caution is advised when administering ATROVENT HFA Inhalation Aerosol to patients with prostatic hyperplasia, or bladder-neck obstruction [see Drug Interactions (7.1)].
+Therefore, caution is advised when administering ATROVENT HFA Inhalation Aerosol to patients with prostatic hyperplasia, or bladder-neck obstruction [see Drug Interactions (7.1)].

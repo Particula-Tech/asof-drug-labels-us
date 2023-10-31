@@ -119,7 +119,7 @@ Keep ATROVENT HFA and all medicines out of the reach of children.
 Store ATROVENT HFA at room temperature 68°F to 77°F (20°C to 25°C).
 Short-term exposure to higher or lower temperatures [from 59°F (15°C) to 86°F (30°C)] is acceptable.
 
-For more information about ATROVENT HFA including current prescribing information and Instructions for Use, go to www.atrovent.com, scan the code below, or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257, or (TTY) 1-800-459-9906.
+For more information about ATROVENT HFA including current prescribing information and Instructions for Use, go to www.atrovent.com, scan the code, or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
@@ -127,8 +127,10 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Licensed from: Boehringer Ingelheim International GmbH
 
-Copyright 2020 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+ATROVENT® is a registered trademark of and used under license from Boehringer Ingelheim International GmbH
 
-IT7036CB142020
+Copyright © 2023 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: February 2020
+SPL9556B COL9554AJ092023
+
+Revised: October 2023
