@@ -58,7 +58,7 @@ Pregnancy
 
 Instruct patients that if they become pregnant or plan to become pregnant while taking TYSABRI they should inform their healthcare provider [see Use in Specific Populations (8.1)].
 
-I61061-29
+I61061-30
 
 TYSABRI (natalizumab) Manufactured by: Biogen Inc. Cambridge, MA 02142 USA US License No. 1697
 

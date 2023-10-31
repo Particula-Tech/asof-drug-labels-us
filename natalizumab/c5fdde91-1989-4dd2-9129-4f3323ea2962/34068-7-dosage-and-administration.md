@@ -32,7 +32,7 @@ Other than the initial six-month taper, prescribers should consider discontinuin
    Do not shake.
    Inspect the solution visually for particulate material prior to administration.
 5. The final dosage diluted solution has a concentration of 2.6 mg/mL.
-6. Following dilution, infuse TYSABRI solution immediately, or refrigerate the diluted solution at 2°C to 8°C, and use within 8 hours.
+6. Following dilution, infuse TYSABRI solution immediately, or refrigerate the diluted solution at 2°C to 8°C, and use within 48 hours.
    If stored at 2°C to 8°C, allow the diluted solution to warm to room temperature prior to infusion.
    DO NOT FREEZE.
 
