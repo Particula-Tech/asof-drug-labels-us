@@ -19,8 +19,8 @@ The recommended regimen is:
 
 - one 5 mg tablet orally, taken daily or
 - one 35 mg tablet orally, taken once-a-week or
-- alternatively, one 75 mg tablet orally, taken on two consecutive days for a total of two tablets each month may be considered ​​or
-- alternatively, one 150 mg tablet orally, taken once-a-month may be considered​​​
+- alternatively, one 75 mg tablet orally, taken on two consecutive days for a total of two tablets each month may be considered or
+- alternatively, one 150 mg tablet orally, taken once-a-month may be considered
 
 ## 2.3 Treatment to Increase Bone Mass in Men with Osteoporosis
 
@@ -51,10 +51,10 @@ No data are available on more than 1 course of retreatment.
 
 Instruct patients to do the following:
 
-- Take Risedronate Sodium at least 30 minutes before the first food or drink of the day other than water, and before taking any oral medication or supplementation, including calcium, antacids, or vitamins to maximize absorption and clinical benefit, [see Drug ​​Interactions (7.1)].
+- Take Risedronate Sodium at least 30 minutes before the first food or drink of the day other than water, and before taking any oral medication or supplementation, including calcium, antacids, or vitamins to maximize absorption and clinical benefit, [see Drug Interactions (7.1)].
   Avoid the use of water with supplements, including mineral water, because they may have a higher concentration of calcium.
 - Swallow Risedronate Sodium tablets whole with a full glass of plain water (6 to 8 ounces).
-  Avoid lying down for 30 minutes after taking the medication [see Warnings and ​​Precautions (5.1)​].
+  Avoid lying down for 30 minutes after taking the medication [see Warnings and Precautions (5.1)].
   Do not chew or suck the tablet because of a potential for oropharyngeal ulceration.
 - Do not eat or drink anything except plain water, or take other medications for at least 30 minutes after taking Risedronate Sodium.
 

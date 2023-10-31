@@ -58,21 +58,21 @@ The renal clearance is not concentration dependent, and there is a linear relati
 Unabsorbed drug is eliminated unchanged in feces.
 In osteopenic postmenopausal women, the terminal exponential half-life was 561 hours, mean renal clearance was 52 mL/min (CV = 25%), and mean total clearance was 73 mL/min (CV = 15%).
 
-Specific Populations Pediatric​: Risedronate Sodium is not indicated for use in pediatric patients [see Pediatric Use (8.4)].
+Specific Populations Pediatric: Risedronate Sodium is not indicated for use in pediatric patients [see Pediatric Use (8.4)].
 
-Gender​: Bioavailability and pharmacokinetics following oral administration are similar in men and women.
+Gender: Bioavailability and pharmacokinetics following oral administration are similar in men and women.
 
-Geriatric​: Bioavailability and disposition are similar in elderly (greater than 60 years of age) and younger subjects.
+Geriatric: Bioavailability and disposition are similar in elderly (greater than 60 years of age) and younger subjects.
 No dosage adjustment is necessary.
 
-Race​: Pharmacokinetic differences due to race have not been studied.
+Race: Pharmacokinetic differences due to race have not been studied.
 
-Renal Impairment​: Risedronate is excreted unchanged primarily via the kidney.
+Renal Impairment: Risedronate is excreted unchanged primarily via the kidney.
 As compared to persons with normal renal function, the renal clearance of risedronate was decreased by about 70% in patients with creatinine clearance of approximately 30 mL/min.
 Risedronate Sodium is not recommended for use in patients with severe renal impairment (creatinine clearance less than 30 mL/min) because of lack of clinical experience.
 No dosage adjustment is necessary in patients with a creatinine clearance greater than or equal to 30 mL/min.
 
-Hepatic Impairment​: No studies have been performed to assess risedronate’s safety or efficacy in patients with hepatic impairment.
+Hepatic Impairment: No studies have been performed to assess risedronate’s safety or efficacy in patients with hepatic impairment.
 Risedronate is not metabolized in rat, dog, and human liver preparations.
 Insignificant amounts (less than 0.1% of intravenous dose) of drug are excreted in the bile in rats.
 Therefore, dosage adjustment is unlikely to be needed in patients with hepatic impairment.

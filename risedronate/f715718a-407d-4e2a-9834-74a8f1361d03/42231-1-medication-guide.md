@@ -1,5 +1,3 @@
-Medication Guide
-
 Medication Guide Risedronate Sodium Tablets (ris-ed-ro-nate so-di-um)
 
 Read the Medication Guide that comes with Risedronate Sodium before you start taking it and each time you get a refill.
@@ -179,9 +177,11 @@ This Medication Guide summarizes the most important information about Risedronat
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Risedronate Sodium that is written for health professionals.
 
+For more information call 1-800-678-1605.
+
 What are the ingredients in Risedronate Sodium?
 
-Active ingredient: Risedronate sodium
+Active ingredient: risedronate sodium
 
 Inactive ingredients in all dose strengths: crospovidone, hydroxypropyl cellulose, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, silicon dioxide, titanium dioxide.
 
@@ -189,12 +189,11 @@ Inactive ingredients specific to a dose strength: 5 mg—ferric oxide yellow, la
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-© 2020 Allergan.
+Distributed by: Greenstone LLC Morgantown, WV 26505 U.S.A.
+
+© 2023 AbbVie.
 All rights reserved.
 
-Patented.
-See www.allergan.com/patents.
+Content Updated: March 2020
 
-Content Updated: May 2020
-
-96314-02
+20078925

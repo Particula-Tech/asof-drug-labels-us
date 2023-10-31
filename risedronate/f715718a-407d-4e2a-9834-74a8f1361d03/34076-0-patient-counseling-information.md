@@ -11,7 +11,7 @@ Specifically, Risedronate Sodium should be taken at least 30 minutes before the 
 
 Instruct patients to take Risedronate Sodium while in an upright position (sitting or standing) with a full glass of plain water (6 to 8 ounces) to facilitate delivery to the stomach, and thus reduce the potential for esophageal irritation.
 
-Instruct patients not to lie down for 30 minutes after taking the medication [see Warnings and ​Precautions (5.1)​].
+Instruct patients not to lie down for 30 minutes after taking the medication [see Warnings and Precautions (5.1)].
 
 Instruct patients not to chew or suck on the tablet because of a potential for oropharyngeal irritation.
 
@@ -26,14 +26,13 @@ Instruct patients about missing Risedronate Sodium doses as follows:
   - If only one Risedronate Sodium 75 mg tablet is missed, take the missed tablet in the morning after the day it is remembered.
   - Patients should then return to taking their Risedronate Sodium 75 mg on two consecutive days per month as originally scheduled.
     Patients should not take more than two 75 mg tablets within 7 days.
-
 - If one or both tablets of Risedronate Sodium 75 mg on two consecutive days per month are missed, and the next month’s scheduled doses are within 7 days, patients should wait until their next month’s scheduled doses and then continue taking Risedronate Sodium 75 mg on two consecutive days per month as originally scheduled.
 - If the dose of Risedronate Sodium 150 mg once-a-month is missed, and the next month’s scheduled dose is more than 7 days away, the patient should be instructed to take the missed tablet in the morning after the day it is remembered.
   Patients should then return to taking their Risedronate Sodium 150 mg once-a-month as originally scheduled.
   Patients should not take more than one 150 mg tablet within 7 days.
 - If the dose of Risedronate Sodium 150 mg once-a-month is missed, and the next month’s scheduled dose is within 7 days, patients should wait until their next month’s scheduled dose and then continue taking Risedronate Sodium 150 mg once-a-month as originally scheduled.
 
-Instruct patients to take supplemental calcium and vitamin D if dietary intake is inadequate [see ​​Warnings and Precautions (5.3)​].
+Instruct patients to take supplemental calcium and vitamin D if dietary intake is inadequate [see Warnings and Precautions (5.3)].
 Weight-bearing exercise should be considered along with the modification of certain behavioral factors, such as excessive cigarette smoking, and/or alcohol consumption, if these factors exist.
 
 Instruct patients to take calcium supplements or calcium-, aluminum-, and magnesium-containing medications at a different time of the day than Risedronate Sodium as these medications may interfere with the absorption of Risedronate Sodium.
@@ -42,8 +41,11 @@ Remind patients to give all of their healthcare providers an accurate medication
 Instruct patients to tell all of their healthcare providers that they are taking Risedronate Sodium.
 Patients should be instructed that any time they have a medical problem they think may be from Risedronate Sodium, they should talk to their doctor.
 
-© 2020 Allergan.
+Distributed by: Greenstone LLC Morgantown, WV 26505 U.S.A.
+
+© 2023 AbbVie.
 All rights reserved.
 
-Patented.
-See www.allergan.com/patents.
+V2.0USPI0405
+
+20078925

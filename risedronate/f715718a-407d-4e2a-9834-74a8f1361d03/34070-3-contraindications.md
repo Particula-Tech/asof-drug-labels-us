@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-​​​​​​​​​​Risedronate Sodium is contraindicated in patients with the following conditions:
+Risedronate Sodium is contraindicated in patients with the following conditions:
 
 - Abnormalities of the esophagus which delay esophageal emptying such as stricture or achalasia [see Warnings and Precautions (5.1)]
 - Inability to stand or sit upright for at least 30 minutes [see Dosage and Administration (2), Warnings and Precautions (5.1)]
