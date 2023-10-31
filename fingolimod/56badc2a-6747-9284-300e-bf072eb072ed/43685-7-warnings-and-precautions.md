@@ -10,7 +10,7 @@ After the first dose of fingolimod, the heart rate decrease starts within an hou
 On Day 1, the maximum decline in heart rate generally occurs within 6 hours and recovers, although not to baseline levels, by 8 to 10 hours postdose.
 Because of physiological diurnal variation, there is a second period of heart rate decrease within 24 hours after the first dose.
 In some patients, heart rate decrease during the second period is more pronounced than the decrease observed in the first 6 hours.
-Heart rates below 40 beats per minute (bpm) in adults, and below 50 bpm in pediatric patients occurred rarely.
+Heart rates below 40 bpm in adults, and below 50 bpm in pediatric patients occurred rarely.
 In controlled clinical trials in adult patients, adverse reactions of symptomatic bradycardia following the first dose were reported in 0.6% of patients receiving fingolimod 0.5 mg and in 0.1% of patients on placebo.
 Patients who experienced bradycardia were generally asymptomatic, but some patients experienced hypotension, dizziness, fatigue, palpitations, and/or chest pain that usually resolved within the first 24 hours on treatment.
 
@@ -58,7 +58,7 @@ In MS placebo-controlled trials in adult patients, the overall rate of infection
 However, bronchitis, herpes zoster, influenza, sinusitis, and pneumonia were more common in fingolimod-treated patients.
 Serious infections occurred at a rate of 2.3% in the fingolimod group versus 1.6% in the placebo group.
 
-In the postmarketing setting, serious infections with opportunistic pathogens including viruses (e.g., John Cunningham virus (JCV), herpes simplex viruses 1 and 2, varicella-zoster virus), fungi (e.g., cryptococci), and bacteria (e.g., atypical mycobacteria) have been reported with fingolimod.
+In the postmarketing setting, serious infections with opportunistic pathogens including viruses (e.g., John Cunningham virus [JCV], herpes simplex viruses 1 and 2, varicella-zoster virus), fungi (e.g., cryptococci), and bacteria (e.g., atypical mycobacteria) have been reported with fingolimod.
 Patients with symptoms and signs consistent with any of these infections should undergo prompt diagnostic evaluation and appropriate treatment.
 
 Herpes Viral Infections
@@ -95,7 +95,7 @@ Varicella Zoster Virus Antibody Testing/Vaccination
 Patients without a healthcare professional confirmed history of chickenpox or without documentation of a full course of vaccination against VZV should be tested for antibodies to VZV before initiating fingolimod.
 VZV vaccination of antibody-negative patients is recommended prior to commencing treatment with fingolimod, following which initiation of treatment with fingolimod should be postponed for 1 month to allow the full effect of vaccination to occur [see Drug Interactions (7.3), Use in Specific Populations (8.4)].
 
-Human Papilloma Virus (HPV) Infection
+Human Papilloma Virus Infection
 
 Human papilloma virus (HPV) infections, including papilloma, dysplasia, warts, and HPV-related cancer, have been reported in patients treated with fingolimod in the postmarketing setting.
 Vaccination against HPV should be considered prior to treatment initiation with fingolimod, taking into account vaccination recommendations.
@@ -112,12 +112,19 @@ The relationship between the risk of PML and the duration of treatment is unknow
 At the first sign or symptom suggestive of PML, withhold fingolimod and perform an appropriate diagnostic evaluation.
 Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
 
-MRI findings may be apparent before clinical signs or symptoms.
+Magnetic reasonace imaging (MRI) findings may be apparent before clinical signs or symptoms.
 Cases of PML, diagnosed based on MRI findings and the detection of JCV DNA in the cerebrospinal fluid in the absence of clinical signs or symptoms specific to PML, have been reported in patients treated with MS medications associated with PML, including fingolimod.
 Many of these patients subsequently became symptomatic with PML.
 Therefore, monitoring with MRI for signs that may be consistent with PML may be useful, and any suspicious findings should lead to further investigation to allow for an early diagnosis of PML, if present.
 Lower PML-related mortality and morbidity have been reported following discontinuation of another MS medication associated with PML in patients with PML who were initially asymptomatic compared to patients with PML who had characteristic clinical signs and symptoms at diagnosis.
 It is not known whether these differences are due to early detection and discontinuation of MS treatment or due to differences in disease in these patients.
+
+If PML is confirmed, treatment with fingolimod should be discontinued.
+
+Immune reconstitution inflammatory syndrome (IRIS) has been reported in patients treated with S1P receptor modulators, including fingolimod, who developed PML and subsequently discontinued treatment.
+IRIS presents as a clinical decline in the patient’s condition that may be rapid, can lead to serious neurological complications or death, and is often associated with characteristic changes on MRI.
+The time to onset of IRIS in patients with PML was generally within a few months after S1P receptor modulator discontinuation.
+Monitoring for development of IRIS and appropriate treatment of the associated inflammation should be undertaken.
 
 ## 5.4 Macular Edema
 
@@ -165,7 +172,7 @@ Obtain transaminase levels and total bilirubin levels periodically until two mon
 
 Patients should be monitored for signs and symptoms of any hepatic injury.
 Measure liver transaminase and bilirubin levels promptly in patients who report symptoms that may indicate liver injury, including new or worsening fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice.
-In this clinical context, if the patient is found to have an alanine aminotransferase (ALT) greater than three times the reference range with serum total bilirubin greater than two times the reference range, treatment with fingolimod treatment should be interrupted.
+In this clinical context, if the patient is found to have an alanine aminotransferase (ALT) greater than three times the reference range with serum total bilirubin greater than two times the reference range, treatment with fingolimod should be interrupted.
 Treatment should not be resumed if a plausible alternative etiology for the signs and symptoms cannot be established, because these patients are at risk for severe drug-induced liver injury.
 
 Because fingolimod exposure is doubled in patients with severe hepatic impairment, these patients should be closely monitored, as the risk of adverse reactions is greater [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
@@ -206,6 +213,8 @@ The increase in disability generally occurred within 12 weeks after stopping fin
 
 Monitor patients for development of severe increase in disability following discontinuation of fingolimod and begin appropriate treatment as needed.
 
+After stopping fingolimod in the setting of PML, monitor for development of immune reconstitution inflammatory syndrome (PML-IRIS) [see Warnings and Precautions (5.3)].
+
 ## 5.10 Tumefactive Multiple Sclerosis
 
 MS relapses with tumefactive demyelinating lesions on imaging have been observed during fingolimod therapy and after fingolimod discontinuation in the postmarketing setting.
@@ -217,7 +226,7 @@ Tumefactive MS should be considered when a severe MS relapse occurs during fingo
 
 In adult MS controlled clinical trials, patients treated with fingolimod 0.5 mg had an average increase over placebo of approximately 3 mmHg in systolic pressure, and approximately 2 mmHg in diastolic pressure, first detected after approximately 1 month of treatment initiation, and persisting with continued treatment.
 Hypertension was reported as an adverse reaction in 8% of patients on fingolimod 0.5 mg and in 4% of patients on placebo.
-Blood pressure should be monitored during treatment with fingolimod.
+Blood pressure (BP) should be monitored during treatment with fingolimod.
 
 ## 5.12 Malignancies
 
