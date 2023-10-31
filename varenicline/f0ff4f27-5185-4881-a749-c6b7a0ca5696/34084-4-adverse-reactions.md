@@ -2,14 +2,14 @@
 
 The following serious adverse reactions were reported in postmarketing experience and are discussed in greater detail in other sections of the labeling:
 
-- Neuropsychiatric Adverse Events including Suicidality [see Warnings and Precautions (5.1)]
-- Seizures [see Warnings and Precautions (5.2)]
-- Interaction with Alcohol [see Warnings and Precautions (5.3)]
-- Accidental Injury [see Warnings and Precautions (5.4)]
-- Cardiovascular Events [see Warnings and Precautions (5.5)]
-- Somnambulism [see Warnings and Precautions (5.6)]
-- Angioedema and Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
-- Serious Skin Reactions [see Warnings and Precautions (5.8)]
+- • Neuropsychiatric Adverse Events including Suicidality [see Warnings and Precautions (5.1)]
+- • Seizures [see Warnings and Precautions (5.2)]
+- • Interaction with Alcohol [see Warnings and Precautions (5.3)]
+- • Accidental Injury [see Warnings and Precautions (5.4)]
+- • Cardiovascular Events [see Warnings and Precautions (5.5)]
+- • Somnambulism [see Warnings and Precautions (5.6)]
+- • Angioedema and Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
+- • Serious Skin Reactions [see Warnings and Precautions (5.8)]
 
 In the placebo-controlled premarketing studies, the most common adverse events associated with CHANTIX (>5% and twice the rate seen in placebo-treated patients) were nausea, abnormal (vivid, unusual, or strange) dreams, constipation, flatulence, and vomiting.
 
@@ -280,7 +280,8 @@ Some reported neuropsychiatric events, including unusual and sometimes aggressiv
 
 There have been reports of hypersensitivity reactions, including angioedema [see Warnings and Precautions (5.7)].
 
-There have also been reports of serious skin reactions, including Stevens-Johnson Syndrome and erythema multiforme, in patients taking CHANTIX [see Warnings and Precautions (5.8)].
+There have also been reports of serious skin reactions, including Stevens-Johnson Syndrome and erythema multiforme, in patients taking CHANTIX [see Error!
+Hyperlink reference not valid.].
 
 There have been reports of myocardial infarction (MI) and cerebrovascular accident (CVA) including ischemic and hemorrhagic events in patients taking CHANTIX.
 In the majority of the reported cases, patients had pre-existing cardiovascular disease and/or other risk factors.
