@@ -137,7 +137,7 @@ There was a 78% reduction in the Cmax and a 45% reduction in the AUC of MPA in p
 
 Other Drugs
 
-In vivo studies also suggest that pantoprazole does not significantly affect the kinetics of other drugs (cisapride, theophylline, diazepam [and its active metabolite, desmethyldiazepam], phenytoin, metoprolol, nifedipine, carbamazepine, midazolam, clarithromycin, diclofenac, naproxen, piroxicam and oral contraceptives [levonorgestrel/ethinyl estradiol]).
+In vivo studies also suggest that pantoprazole does not significantly affect the kinetics of other drugs (theophylline, diazepam [and its active metabolite, desmethyldiazepam], phenytoin, metoprolol, nifedipine, carbamazepine, midazolam, clarithromycin, diclofenac, naproxen, piroxicam and oral contraceptives [levonorgestrel/ethinyl estradiol]).
 In other in vivo studies, digoxin, ethanol, glyburide, antipyrine, caffeine, metronidazole, and amoxicillin had no clinically relevant interactions with pantoprazole.
 
 Although no significant drug-drug interactions have been observed in clinical studies, the potential for significant drug-drug interactions with more than once daily dosing with high doses of pantoprazole has not been studied in poor metabolizers or individuals who are hepatically impaired.
