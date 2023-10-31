@@ -9,7 +9,7 @@ Plasma venlafaxine levels were not obtained for the patient who ingested 6.75 g 
 All 14 patients recovered without sequelae.
 Most patients reported no symptoms.
 Among the remaining patients, somnolence was the most commonly reported symptom.
-The patient who ingested 2.75 g of venlafaxine was observed to have 2 generalized convulsions and a prolongation of QTc to 500 msec, compared with 405 msec at baseline.
+The patient who ingested 2.75 g of venlafaxine was observed to have 2 generalized convulsions and a prolongation of QT cto 500 msec, compared with 405 msec at baseline.
 Mild sinus tachycardia was reported in 2 of the other patients.
 
 In postmarketing experience, overdose with venlafaxine has occurred predominantly in combination with alcohol and/or other drugs.

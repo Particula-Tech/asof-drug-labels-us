@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 Venlafaxine tablets, USP is a structurally novel antidepressant for oral administration.
-It is designated (R/S)-1-[2-(dimethylamino)-1-(4-methoxyphenyl)ethyl] cyclohexanol hydrochloride or (±)-1-[α-[(dimethylamino)methyl]-p-methoxybenzyl]cyclohexanol hydrochloride and has the empirical formula of C17H27NO2 HCl.
+It is designated (R/S)-1-[2-(dimethylamino)-1-(4-methoxyphenyl)ethyl] cyclohexanol hydrochloride or (±)-1-[α-[(dimethylamino)methyl]-p-methoxybenzyl]cyclohexanol hydrochloride and has the empirical formula of C 17H 27NO 2HCl.
 Its molecular weight is 313.87.
 The structural formula is shown below.
 

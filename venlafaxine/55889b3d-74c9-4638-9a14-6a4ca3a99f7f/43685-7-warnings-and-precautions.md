@@ -38,11 +38,10 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION, Discontinuing Venlafaxine Tablets, USP, for a description of the risks of discontinuation of venlafaxine tablets, USP).
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONSand DOSAGE AND ADMINISTRATION, Discontinuing Venlafaxine Tablets, USP, for a description of the risks of discontinuation of venlafaxine tablets, USP).
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
-Such monitoring should include daily observation by families and caregivers.
-Prescriptions for venlafaxine tablets, USP should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
+Such monitoring should include daily observation by families and caregivers.Prescriptions for venlafaxine tablets, USP should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
 Screening Patients for Bipolar Disorder
 
@@ -54,7 +53,7 @@ It should be noted that venlafaxine tablets, USP are not approved for use in tre
 
 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including venlafaxine tablets, USP, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including venlafaxine tablets, USP, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, meperidine, methadone, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
@@ -64,7 +63,7 @@ Venlafaxine tablets, USP should also not be started in a patient who is being tr
 All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
 There may be circumstances when it is necessary to initiate treatment with a MAOI such as linezolid or intravenous methylene blue in a patient taking venlafaxine tablets, USP.
-Venlafaxine tablets, USP should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
+Venlafaxine tablets, USP should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONSand DOSAGE AND ADMINISTRATION).
 
 If concomitant use of venlafaxine tablets, USP with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk of serotonin syndrome, particularly during treatment initiation and dose increases.
 
@@ -215,9 +214,9 @@ Abnormal Bleeding
 SSRIs and SNRIs, including venlafaxine tablets, USP, may increase the risk of bleeding events.
 Concomitant use of aspirin, non-steroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
-Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
+Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage (see Pregnancy).Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
-Patients should be cautioned about the risk of bleeding associated with the concomitant use of venlafaxine tablets, USP and NSAIDs, aspirin, or other drugs that affect coagulation.
+Patients should be cautioned about the increased risk of bleeding associated with the concomitant use of venlafaxine tablets, USP and NSAIDs, aspirin, or other drugs that affect coagulation.
 
 Serum Cholesterol Elevation
 
@@ -301,7 +300,7 @@ Concomitant Medication
 
 Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs, including herbal preparations and nutritional supplements, since there is a potential for interactions.
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of venlafaxine tablets, USP and triptans, tramadol, tryptophan supplements or other serotonergic agents (see CONTRAINDICATIONS and WARNINGS, Serotonin Syndrome and PRECAUTIONS, Drug Interactions, CNS-Active Drugs, Serotonergic Drugs).
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of venlafaxine tablets, USP and triptans, opiods, tryptophan supplements or other serotonergic agents (see CONTRAINDICATIONSand WARNINGS, Serotonin Syndromeand PRECAUTIONS, Drug Interactions, CNS-Active Drugs, Serotonergic Drugs).
 
 Patients should be cautioned about the concomitant use of venlafaxine tablets, USP and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding (see PRECAUTIONS, Abnormal Bleeding).
 
@@ -329,7 +328,7 @@ Additionally, administration of venlafaxine in a stable regimen did not exaggera
 Cimetidine
 
 Concomitant administration of cimetidine and venlafaxine in a steady-state study for both drugs resulted in inhibition of first-pass metabolism of venlafaxine in 18 healthy subjects.
-The oral clearance of venlafaxine was reduced by about 43%, and the exposure (AUC) and maximum concentration (Cmax) of the drug were increased by about 60%.
+The oral clearance of venlafaxine was reduced by about 43%, and the exposure (AUC) and maximum concentration (C max) of the drug were increased by about 60%.
 However, coadministration of cimetidine had no apparent effect on the pharmacokinetics of ODV, which is present in much greater quantity in the circulation than is venlafaxine.
 The overall pharmacological activity of venlafaxine plus ODV is expected to increase only slightly, and no dosage adjustment should be necessary for most normal adults.
 However, for patients with preexisting hypertension, and for elderly patients or patients with hepatic dysfunction, the interaction associated with the concomitant use of venlafaxine and cimetidine is not known and potentially could be more pronounced.
@@ -343,7 +342,7 @@ Venlafaxine also did not have any effect on the pharmacokinetics of diazepam or 
 Haloperidol
 
 Venlafaxine administered under steady-state conditions at 150 mg/day in 24 healthy subjects decreased total oral-dose clearance (CI/F) of a single 2 mg dose of haloperidol by 42%, which resulted in a 70% increase in haloperidol AUC.
-In addition, the haloperidol Cmax increased 88% when coadministered with venlafaxine, but the haloperidol elimination half-life (t1/2) was unchanged.
+In addition, the haloperidol C maxincreased 88% when coadministered with venlafaxine, but the haloperidol elimination half-life (t 1/2) was unchanged.
 The mechanism explaining this finding is unknown.
 
 Lithium
@@ -367,7 +366,7 @@ Drugs That Inhibit Cytochrome P450 Isoenzymes
 
 CYP2D6 Inhibitors
 
-In vitro and in vivo studies indicate that venlafaxine is metabolized to its active metabolite, ODV, by CYP2D6, the isoenzyme that is responsible for the genetic polymorphism seen in the metabolism of many antidepressants.
+In vitroand in vivo studies indicate that venlafaxine is metabolized to its active metabolite, ODV, by CYP2D6, the isoenzyme that is responsible for the genetic polymorphism seen in the metabolism of many antidepressants.
 Therefore, the potential exists for a drug interaction between drugs that inhibit CYP2D6-mediated metabolism and venlafaxine.
 However, although imipramine partially inhibited the CYP2D6-mediated metabolism of venlafaxine, resulting in higher plasma concentrations of venlafaxine and lower plasma concentrations of ODV, the total concentration of active compounds (venlafaxine plus ODV) was not affected.
 Additionally, in a clinical study involving CYP2D6-poor and -extensive metabolizers, the total concentration of active compounds (venlafaxine plus ODV), was similar in the two metabolizer groups.
@@ -376,8 +375,8 @@ Therefore, no dosage adjustment is required when venlafaxine is coadministered w
 Ketoconazole
 
 A pharmacokinetic study with ketoconazole 100 mg b.i.d. with a single dose of venlafaxine 50 mg in extensive metabolizers (EM; n = 14) and 25 mg in poor metabolizers (PM; n = 6) of CYP2D6 resulted in higher plasma concentrations of both venlafaxine and O-desvenlafaxine (ODV) in most subjects following administration of ketoconazole.
-Venlafaxine Cmax increased by 26% in EM subjects and 48% in PM subjects.
-Cmax values for ODV increased by 14% and 29% in EM and PM subjects, respectively.
+Venlafaxine C maxincreased by 26% in EM subjects and 48% in PM subjects.
+C maxvalues for ODV increased by 14% and 29% in EM and PM subjects, respectively.
 
 Venlafaxine AUC increased by 21% in EM subjects and 70% in PM subjects (range in PMs - 2% to 206%), and AUC values for ODV increased by 23% and 33% in EM and PM subjects (range in PMs - 38% to 105%) subjects, respectively.
 Combined AUCs of venlafaxine and ODV increased on average by approximately 23% in EMs and 53% in PMs, (range in PMs 4% to 134%).
@@ -387,7 +386,7 @@ Therefore, caution is advised if a patient’s therapy includes a CYP3A4 inhibit
 
 CYP3A4 Inhibitors
 
-In vitro studies indicate that venlafaxine is likely metabolized to a minor, less active metabolite, N-desmethylvenlafaxine, by CYP3A4.
+In vitrostudies indicate that venlafaxine is likely metabolized to a minor, less active metabolite, N-desmethylvenlafaxine, by CYP3A4.
 Because CYP3A4 is typically a minor pathway relative to CYP2D6 in the metabolism of venlafaxine, the potential for a clinically significant drug interaction between drugs that inhibit CYP3A4-mediated metabolism and venlafaxine is small.
 
 The concomitant use of venlafaxine with a drug treatment(s) that potently inhibits both CYP2D6 and CYP3A4, the primary metabolizing enzymes for venlafaxine, has not been studied.
@@ -397,13 +396,13 @@ Drugs Metabolized by Cytochrome P450 Isoenzymes
 
 CYP2D6
 
-In vitro studies indicate that venlafaxine is a relatively weak inhibitor of CYP2D6.
+In vitrostudies indicate that venlafaxine is a relatively weak inhibitor of CYP2D6.
 These findings have been confirmed in a clinical drug interaction study comparing the effect of venlafaxine to that of fluoxetine on the CYP2D6-mediated metabolism of dextromethorphan to dextrorphan.
 
 Imipramine
 
 Venlafaxine did not affect the pharmacokinetics of imipramine and 2-OH-imipramine.
-However, desipramine AUC, Cmax, and Cmin increased by about 35% in the presence of venlafaxine.
+However, desipramine AUC, C max, and C minincreased by about 35% in the presence of venlafaxine.
 The 2-OH-desipramine AUCs increased by at least 2.5 fold (with venlafaxine 37.5 mg q12h) and by 4.5 fold (with venlafaxine 75 mg q12h).
 Imipramine did not affect the pharmacokinetics of venlafaxine and ODV.
 The clinical significance of elevated 2-OH-desipramine levels is unknown.
@@ -428,12 +427,11 @@ However, venlafaxine coadministration did not significantly alter the pharmacoki
 CYP3A4
 
 Venlafaxine did not inhibit CYP3A4 in vitro.
-This finding was confirmed in vivo by clinical drug interaction studies in which venlafaxine did not inhibit the metabolism of several CYP3A4 substrates, including alprazolam, diazepam, and terfenadine.
+This finding was confirmed in vivoby clinical drug interaction studies in which venlafaxine did not inhibit the metabolism of several CYP3A4 substrates, including alprazolam, diazepam, and terfenadine.
 
 Indinavir
 
-In a study of 9 healthy volunteers, venlafaxine administered under steady-state conditions at 150 mg/day resulted in a 28% decrease in the AUC of a single 800 mg oral dose of indinavir and a 36% decrease in indinavir Cmax.
-Indinavir did not affect the pharmacokinetics of venlafaxine and ODV.
+In a study of 9 healthy volunteers, venlafaxine administered under steady-state conditions at 150 mg/day resulted in a 28% decrease in the AUC of a single 800 mg oral dose of indinavir and a 36% decrease in indinavir C max. Indinavir did not affect the pharmacokinetics of venlafaxine and ODV.
 The clinical significance of this finding is unknown.
 
 CYP1A2
@@ -448,7 +446,7 @@ In vivo, venlafaxine 75 mg by mouth every 12 hours did not alter the pharmacokin
 
 CYP2C19
 
-Venlafaxine did not inhibit the metabolism of diazepam which is partially metabolized by CYP2C19 (see Diazepam above).
+Venlafaxine did not inhibit the metabolism of diazepam which is partially metabolized by CYP2C19 (see Diazepamabove).
 
 Monoamine Oxidase Inhibitors
 
@@ -457,13 +455,13 @@ See CONTRAINDICATIONS.
 CNS-Active Drugs
 
 The risk of using venlafaxine in combination with other CNS-active drugs has not been systematically evaluated (except in the case of those CNS-active drugs noted above).
-Consequently, caution is advised if the concomitant administration of venlafaxine and such drugs is required (see CONTRAINDICATIONS and WARNINGS).
+Consequently, caution is advised if the concomitant administration of venlafaxine and such drugs is required (see CONTRAINDICATIONSand WARNINGS).
 
 Serotonergic Drugs
 
-Based on the mechanism of action of SNRIs and SSRIs, including venlafaxine hydrochloride, and the potential for serotonin syndrome, caution is advised when venlafaxine is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol, amphetamines, or St. John’s Wort (see WARNINGS, Serotonin Syndrome).
-If concomitant treatment of venlafaxine tablets, USP with these drugs is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see CONTRAINDICATIONS and WARNINGS, Serotonin Syndrome).
-The concomitant use of venlafaxine tablets, USP with tryptophan supplements is not recommended (see CONTRAINDICATIONS and WARNINGS, Serotonin Syndrome).
+Based on the mechanism of action of SNRIs and SSRIs, including venlafaxine hydrochloride, and the potential for serotonin syndrome, caution is advised when venlafaxine is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, opiods, amphetamines, or St. John’s Wort (see WARNINGS, Serotonin Syndrome).
+If concomitant treatment of venlafaxine tablets, USP with these drugs is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see CONTRAINDICATIONSand WARNINGS, Serotonin Syndrome).
+The concomitant use of venlafaxine tablets, USP with tryptophan supplements is not recommended (see CONTRAINDICATIONSand WARNINGS, Serotonin Syndrome).
 
 Triptans
 
@@ -489,7 +487,7 @@ See ADVERSE REACTIONS, Postmarketing Reports.
 
 Carcinogenesis
 
-Venlafaxine was given by oral gavage to mice for 18 months at doses up to 120 mg/kg per day, which was 16 times, on a mg/kg basis, and 1.7 times on a mg/m2 basis, the maximum recommended human dose.
+Venlafaxine was given by oral gavage to mice for 18 months at doses up to 120 mg/kg per day, which was 16 times, on a mg/kg basis, and 1.7 times on a mg/m 2basis, the maximum recommended human dose.
 Venlafaxine was also given to rats by oral gavage for 24 months at doses up to 120 mg/kg per day.
 In rats receiving the 120 mg/kg dose, plasma levels of venlafaxine were 1 times (male rats) and 6 times (female rats) the plasma levels of patients receiving the maximum recommended human dose.
 Plasma levels of the O-desmethyl metabolite were lower in rats than in patients receiving the maximum recommended dose.
@@ -498,14 +496,14 @@ Tumors were not increased by venlafaxine treatment in mice or rats.
 Mutagenicity
 
 Venlafaxine and the major human metabolite, O-desmethylvenlafaxine (ODV), were not mutagenic in the Ames reverse mutation assay in Salmonella bacteria or the CHO/HGPRT mammalian cell forward gene mutation assay.
-Venlafaxine was also not mutagenic in the in vitro BALB/c-3T3 mouse cell transformation assay, the sister chromatid exchange assay in cultured CHO cells, or the in vivo chromosomal aberration assay in rat bone marrow.
-ODV was not mutagenic in the in vitro CHO cell chromosomal aberration assay.
-There was a clastogenic response in the in vivo chromosomal aberration assay in rat bone marrow in male rats receiving 200 times, on a mg/kg basis, or 50 times, on a mg/m2 basis, the maximum human daily dose.
-The no effect dose was 67 times (mg/kg) or 17 times (mg/m2) the human dose.
+Venlafaxine was also not mutagenic in the in vitroBALB/c-3T3 mouse cell transformation assay, the sister chromatid exchange assay in cultured CHO cells, or the in vivochromosomal aberration assay in rat bone marrow.
+ODV was not mutagenic in the in vitroCHO cell chromosomal aberration assay.
+There was a clastogenic response in the in vivochromosomal aberration assay in rat bone marrow in male rats receiving 200 times, on a mg/kg basis, or 50 times, on a mg/m 2basis, the maximum human daily dose.
+The no effect dose was 67 times (mg/kg) or 17 times (mg/m 2) the human dose.
 
 Impairment of Fertility
 
-Reproduction and fertility studies of venlafaxine in rats showed no adverse effects on male or female fertility at oral doses of up to 2 times the maximum recommended human dose of 225 mg/day on a mg/m2 basis.
+Reproduction and fertility studies of venlafaxine in rats showed no adverse effects on male or female fertility at oral doses of up to 2 times the maximum recommended human dose of 225 mg/day on a mg/m 2basis.
 
 However, reduced fertility was observed in a study in which male and female rats were treated with O-desmethylvenlafaxine (ODV), the major human metabolite of venlafaxine, prior to and during mating and gestation.
 This occurred at an ODV exposure (AUC) approximately 2 to 3 times that associated with a human venlafaxine dose of 225 mg/day.
@@ -514,15 +512,15 @@ This occurred at an ODV exposure (AUC) approximately 2 to 3 times that associate
 
 Teratogenic Effects
 
-Venlafaxine did not cause malformations in offspring of rats or rabbits given doses up to 11 times (rat) or 12 times (rabbit) the maximum recommended human daily dose on a mg/kg basis, or 2.5 times (rat) and 4 times (rabbit) the human daily dose on a mg/m2 basis.
+Venlafaxine did not cause malformations in offspring of rats or rabbits given doses up to 11 times (rat) or 12 times (rabbit) the maximum recommended human daily dose on a mg/kg basis, or 2.5 times (rat) and 4 times (rabbit) the human daily dose on a mg/m 2basis.
 However, in rats, there was a decrease in pup weight, an increase in stillborn pups, and an increase in pup deaths during the first 5 days of lactation, when dosing began during pregnancy and continued until weaning.
 The cause of these deaths is not known.
-These effects occurred at 10 times (mg/kg) or 2.5 times (mg/m2) the maximum human daily dose.
-The no effect dose for rat pup mortality was 1.4 times the human dose on a mg/kg basis or 0.25 times the human dose on a mg/m2 basis.
+These effects occurred at 10 times (mg/kg) or 2.5 times (mg/m 2) the maximum human daily dose.
+The no effect dose for rat pup mortality was 1.4 times the human dose on a mg/kg basis or 0.25 times the human dose on a mg/m 2basis.
 There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-Nonteratogenic Effects
+Non-teratogenic Effects Based on data from published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage (see PRECAUTIONS: Abnormal Bleeding).
 
 Neonates exposed to venlafaxine tablets, USP, other SNRIs (Serotonin and Norepinephrine Reuptake Inhibitors), or SSRIs (Selective Serotonin Reuptake Inhibitors), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
@@ -530,6 +528,8 @@ Reported clinical findings have included respiratory distress, cyanosis, apnea, 
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
 It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see PRECAUTIONS, Drug Interactions, CNS-Active Drugs).
 When treating a pregnant woman with venlafaxine tablets, USP during the third trimester, the physician should carefully consider the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION).
+
+Maternal Adverse Reactions Use of venlafaxine tablets, USP in the month before delivery may be associated with an increased risk of postpartum hemorrhage (see PRECAUTIONS: Abnormal Bleeding).
 
 ## Labor and Delivery
 
@@ -542,7 +542,7 @@ Because of the potential for serious adverse reactions in nursing infants from v
 
 ## Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS, Clinical Worsening and Suicide Risk).
+Safety and effectiveness in the pediatric population have not been established (see BOX WARNINGand WARNINGS, Clinical Worsening and Suicide Risk).
 Two placebo-controlled trials in 766 pediatric patients with MDD and two placebo-controlled trials in 793 pediatric patients with GAD have been conducted with venlafaxine hydrochloride extended-release capsules, and the data were not sufficient to support a claim for use in pediatric patients.
 
 Anyone considering the use of venlafaxine tablets, USP in a child or adolescent must balance the potential risks with the clinical need.
@@ -552,7 +552,7 @@ Should the decision be made to treat a pediatric patient with venlafaxine tablet
 The safety of venlafaxine hydrochloride extended-release capsule treatment for pediatric patients has not been systematically assessed for chronic treatment longer than six months in duration.
 
 In the studies conducted in pediatric patients (ages 6 to 17), the occurrence of blood pressure and cholesterol increases considered to be clinically relevant in pediatric patients was similar to that observed in adult patients.
-Consequently, the precautions for adults apply to pediatric patients (see WARNINGS, Sustained Hypertension and PRECAUTIONS, General, Serum Cholesterol Elevation).
+Consequently, the precautions for adults apply to pediatric patients (see WARNINGS, Sustained Hypertensionand PRECAUTIONS, General, Serum Cholesterol Elevation).
 
 ## Geriatric Use
 
