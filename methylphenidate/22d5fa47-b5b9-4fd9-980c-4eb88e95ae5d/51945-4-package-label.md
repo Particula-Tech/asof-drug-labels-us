@@ -1,25 +1,41 @@
 # PRINCIPAL DISPLAY PANEL
 
-RELEXXII® 45 mg 30 count Bottle Label
+RELEXXII ® 18 mg 100 count Bottle Label
+
+NDC 68025-095-10
+
+# PRINCIPAL DISPLAY PANEL
+
+RELEXXII ® 27 mg 100 count Bottle Label
+
+NDC 68025-096-10
+
+# PRINCIPAL DISPLAY PANEL
+
+RELEXXII ® 36 mg 100 count Bottle Label
+
+NDC 68025-097-10
+
+# PRINCIPAL DISPLAY PANEL
+
+RELEXXII ® 45 mg 30 count Bottle Label
 
 NDC 68025-088-30
 
 # PRINCIPAL DISPLAY PANEL
 
-RELEXXII® 45 mg 100 count Bottle Label
+RELEXXII ® 54 mg 100 count Bottle Label
 
-NDC 68025-088-10
-
-0ct Bottle Label
+NDC 68025-098-10
 
 # PRINCIPAL DISPLAY PANEL
 
-RELEXXII® 63 mg 30 count Bottle Label
+RELEXXII ® 63 mg 30 count Bottle Label
 
 NDC 68025-089-30
 
 # PRINCIPAL DISPLAY PANEL
 
-RELEXXII® 63 mg 100 count Bottle Label
+RELEXXII ® 72 mg 30 count Bottle Label
 
-NDC 68025-089-10
+NDC 68025-084-30

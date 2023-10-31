@@ -1,8 +1,8 @@
 # 11 DESCRIPTION
 
-RELEXXII contains methylphenidate a CNS stimulant, present as methylphenidate hydrochloride salt.
+RELEXXII contains methylphenidate, a CNS stimulant, present as methylphenidate hydrochloride salt.
 Chemically, methylphenidate hydrochloride is d,l (racemic) methyl α-phenyl-2-piperidineacetate hydrochloride.
-Its empirical formula is C14H19NO2•HCl.
+Its empirical formula is C 14H 19NO 2•HCl.
 Its structural formula is:
 
 Methylphenidate hydrochloride is a white, odorless crystalline powder.

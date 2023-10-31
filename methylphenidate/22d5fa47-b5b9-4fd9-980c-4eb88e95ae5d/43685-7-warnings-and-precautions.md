@@ -1,67 +1,94 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Potential for Abuse and Dependence
+## 5.1 Abuse, Misuse, and Addiction
 
-CNS stimulants, including RELEXXII, other methylphenidate‑containing products, and amphetamines, have a high potential for abuse and dependence.
-Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy [see Drug Abuse and Dependence (9.2, 9.3)].
+RELEXXII has a high potential for abuse and misuse.
+The use of RELEXXII exposes individuals to the risks of abuse and misuse, which can lead to the development of a substance use disorder, including addiction.
+RELEXXII can be diverted for non-medical use into illicit channels or distribution [see Drug Abuse and Dependence (9.2, 9.3)].
+Misuse and abuse of CNS stimulants, including RELEXXII, can result in overdose and death [see Overdosage (10)], and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
 
-## 5.2 Serious Cardiovascular Reactions
+Before prescribing RELEXXII, assess each patient’s risk for abuse, misuse, and addiction.
+Educate patients and their families about these risks and proper disposal of any unused drug.
+Advise patients to store RELEXXII in a safe place, preferably locked, and instruct patients to not give RELEXXII to anyone else.
+Throughout RELEXXII treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction.
 
-Sudden death, stroke and myocardial infarction have been reported in adults with CNS stimulant treatment at recommended doses.
-Sudden death has been reported in pediatric patients with structural cardiac abnormalities and other serious heart problems taking CNS stimulants at recommended doses for ADHD.
-Avoid use in patients with known structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, coronary artery disease, and other serious heart problems.
-Further evaluate patients who develop exertional chest pain, unexplained syncope, or arrhythmias during RELEXXII treatment.
+## 5.2 Risks to Patients with Serious Cardiac Disease
 
-## 5.3 Blood Pressure and Heart Rate Increases
+Sudden death has been reported in patients with structural cardiac abnormalities or other serious cardiac disease who were taking CNS stimulants at the recommended ADHD dosage.
+Avoid RELEXXII use in patients with known structural cardiac abnormalities, cardiomyopathy, serious cardiac arrhythmia, coronary artery disease, or other serious cardiac disease.
+
+## 5.3 Increased Blood Pressure and Heart Rate
 
 CNS stimulants cause an increase in blood pressure (mean increase approximately 2 to 4 mm Hg) and heart rate (mean increase approximately 3 to 6 bpm) [see Adverse Reactions (6.1)].
-Individuals may have larger increases.
-Monitor all patients for hypertension and tachycardia.
+Some patients may have larger increases.
+Monitor all RELEXXII-treated patients for hypertension and tachycardia.
 
 ## 5.4 Psychiatric Adverse Reactions
 
-Exacerbation of Psychosis
+Exacerbation of Pre-existing Psychosis
 
 CNS stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a preexisting psychotic disorder.
 
 Induction of a Manic Episode in Patients with Bipolar Disorder
 
 CNS stimulants may induce a manic or mixed episode in patients.
-Prior to initiating treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive symptoms a family history of suicide, bipolar disorder, and depression).
+Prior to initiating RELEXXII treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive symptoms a family history of suicide, bipolar disorder, and depression).
 
 New Psychotic or Manic Symptoms
 
-CNS stimulants at recommended doses, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania.
+CNS stimulants, at the recommended dosage, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania.
+In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic, symptoms occurred in approximately 0.1% of CNS stimulant-treated patients compared to 0% of placebo-treated patients.
 If such symptoms occur, consider discontinuing RELEXXII.
-In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic, symptoms occurred in approximately 0.1% of CNS stimulant-treated patients compared to 0% in placebo-treated patients.
 
 ## 5.5 Priapism
 
-Prolonged and painful erections, sometimes requiring surgical intervention, have been reported with methylphenidate products, including another formulation of methylphenidate hydrochloride extended-release tablets, in both pediatric and adult patients [see Adverse Reactions (6.2)].
-Priapism was not reported with drug initiation but developed after some time on the drug, often subsequent to an increase in dose.
-Priapism has also appeared during a period of drug withdrawal (drug holidays or during discontinuation).
-Patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
+Prolonged and painful erections, sometimes requiring surgical intervention, have been reported with methylphenidate use, including another formulation of methylphenidate hydrochloride extended-release tablets, in both adult and pediatric male patients [see Adverse Reactions (6.2)].
+Although priapism was not reported with methylphenidate initiation, it developed after some time on methylphenidate, often subsequent to an increase in dosage.
+Priapism also occurred during a methylphenidate withdrawal (drug holidays or during discontinuation).
+
+RELEXXII-treated patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
 
 ## 5.6 Peripheral Vasculopathy, including Raynaud’s Phenomenon
 
 CNS stimulants, such as RELEXXII, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
-Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
-Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
-Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
-Careful observation for digital changes is necessary during treatment with ADHD stimulants.
-Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+Signs and symptoms are usually intermittent and mild; however, sequelae have included digital ulceration and/or soft tissue breakdown.
+Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports and at the therapeutic dosage in all age groups throughout the course of treatment.
+Signs and symptoms generally improved after reduction or discontinuation of the CNS stimulant.
 
-## 5.7 Long-Term Suppression of Growth
+Careful observation for digital changes is necessary during RELEXXII treatment.
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for RELEXXII-treated patients who develop signs or symptoms of peripheral vasculopathy.
+
+## 5.7 Long-Term Suppression of Growth in Pediatric Patients
 
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 
-Careful follow-up of weight and height in pediatric patients ages 7 to 10 years who were randomized to either methylphenidate or nonmedication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and nonmedication-treated pediatric patients over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated pediatric patients (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
+Careful follow-up of weight and height in pediatric patients ages 7 to 10 years who were randomized to either methylphenidate or nonmedication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and nonmedication-treated pediatric patients over 36 months (to the ages of 10 to 13 years), suggests that pediatric patients who received methylphenidate for 7 days per week throughout the year had a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this development period.
 
-Closely monitor growth (weight and height) in pediatric patients treated with stimulants, including RELEXXII.
-Patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
+Closely monitor growth (weight and height) in RELEXXII-treated pediatric patients.
+Pediatric patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
 
 ## 5.8 Potential for Gastrointestinal Obstruction
 
 Because the RELEXXII tablet is nondeformable and does not appreciably change in shape in the GI tract, RELEXXII should not ordinarily be administered to patients with preexisting severe gastrointestinal narrowing (pathologic or iatrogenic, for example: esophageal motility disorders, small bowel inflammatory disease, "short gut" syndrome due to adhesions or decreased transit time, past history of peritonitis, cystic fibrosis, chronic intestinal pseudo-obstruction, or Meckel's diverticulum).
 There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of drugs in nondeformable controlled-release formulations.
 Due to the extended-release design of the tablet, RELEXXII should be used only in patients who are able to swallow the tablet whole [see Patient Counseling Information (17)].
+
+## 5.9 Acute Angle Closure Glaucoma
+
+There have been reports of angle closure glaucoma associated with methylphenidate treatment.
+Although the mechanism is not clear, RELEXXII-treated patients considered at risk for acute angle closure glaucoma (e.g., patients with significant hyperopia) should be evaluated by an ophthalmologist.
+
+## 5.10 Increased Intraocular Pressure and Glaucoma
+
+There have been reports of an elevation of intraocular pressure (IOP) associated with methylphenidate treatment [see Adverse Reactions (6.2)].
+
+Prescribe RELEXXII to patients with open-angle glaucoma or abnormally increased IOP only if the benefit of treatment is considered to outweigh the risk.
+Closely monitor RELEXXII-treated patients with a history of abnormally increased IOP or open angle glaucoma.
+
+## 5.11 Motor and Verbal Tics, and Worsening of Tourette's Syndrome
+
+CNS stimulants, including methylphenidate, have been associated with the onset or exacerbation of motor and verbal tics.
+Worsening of Tourette’s syndrome has also been reported [see Adverse Reactions (6.2)].
+
+Before initiating RELEXXII, assess the family history and clinically evaluate patients for tics or Tourette’s syndrome.
+Regularly monitor RELEXXII-treated patients for the emergence or worsening of tics or Tourette’s syndrome, and discontinue treatment if clinically appropriate.

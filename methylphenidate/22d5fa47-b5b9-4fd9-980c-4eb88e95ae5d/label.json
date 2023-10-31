@@ -8,9 +8,18 @@
     "68025-088-10",
     "68025-088-30",
     "68025-089-10",
-    "68025-089-30"
+    "68025-089-30",
+    "68025-095-10",
+    "68025-096-10",
+    "68025-097-10",
+    "68025-709-10"
   ],
   "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "methylphenidate hydrochloride extended-release",
+      "name": "RELEXXII"
+    },
     {
       "form": "TABLET, EXTENDED RELEASE",
       "generic": "methylphyenidate hydrochloride extended-release",

@@ -14,8 +14,8 @@ Methylphenidate blocks the reuptake of norepinephrine and dopamine into the pres
 ## 12.3 Pharmacokinetics
 
 In a relative bioavailability study in healthy adults under fasted conditions, plasma exposures of 72 mg RELEXXII and 72 mg (2 x 36 mg) methylphenidate extended-release tablets were compared.
-The peak plasma concentration (Cmax) of RELEXXII and methylphenidate extended-release tablets is 19.7 ng/mL and 19.3 ng/mL, respectively.
-The area under the plasma concentration-time curve (AUC0-inf) of RELEXXII and methylphenidate extended-release tablets is 206.1 ng∙h/mL and 200.9 ng∙h/mL, respectively.
+The peak plasma concentration (C max) of RELEXXII and methylphenidate extended-release tablets is 19.7 ng/mL and 19.3 ng/mL, respectively.
+The area under the plasma concentration-time curve (AUC 0-inf) of RELEXXII and methylphenidate extended-release tablets is 206.1 ng∙h/mL and 200.9 ng∙h/mL, respectively.
 
 Absorption
 
@@ -26,8 +26,7 @@ Mean time to reach peak plasma concentrations of RELEXXII occurs at 5.5 hours.
 Methylphenidate hydrochloride extended-release tablets once daily minimizes the fluctuations between peak and trough concentrations associated with immediate-release methylphenidate three times daily.
 Figure 1 displays mean plasma exposures of methylphenidate hydrochloride extended-release tablets once daily and methylphenidate three times daily (administered every 4 hours) in adults.
 
-Figure 1.
-Mean Methylphenidate Plasma Concentration-Time Profiles
+Figure 1: Mean Methylphenidate Plasma Concentration-Time Profiles
 
 The mean single-dose pharmacokinetic parameters in 36 healthy adults following the administration of methylphenidate hydrochloride extended-release tablets 18 mg once daily and methylphenidate 5 mg three times daily are summarized in Table 7.
 
@@ -36,15 +35,15 @@ Methylphenidate Pharmacokinetic Parameters (Mean ± SD) After Single Dose in Hea
 
 | Parameters | Methylphenidate Hydrochloride Extended-release Tablets (18 mg once daily) (n=36) | Methylphenidate (5 mg three times daily) (n=35) |
 | --- | --- | --- |
-| Cmax (ng/mL) | 3.7 ± 1.0 | 4.2 ± 1.0 |
-| Tmax (h) | 6.8 ± 1.8 | 6.5 ± 1.8 |
-| AUCinf (ng∙h/mL) | 41.8 ± 13.9 | 38.0 ± 11.0 |
-| t½ (h) | 3.5 ± 0.4 | 3.0 ± 0.5 |
+| C max(ng/mL) | 3.7 ± 1.0 | 4.2 ± 1.0 |
+| T max(h) | 6.8 ± 1.8 | 6.5 ± 1.8 |
+| AUC inf(ng∙h/mL) | 41.8 ± 13.9 | 38.0 ± 11.0 |
+| t &frac12;(h) | 3.5 ± 0.4 | 3.0 ± 0.5 |
 
 The pharmacokinetics of methylphenidate hydrochloride extended-release tablets were evaluated in healthy adults following single- and multiple-dose administration (steady state) of doses up to 144 mg per day (2 times the maximum recommended daily dosage of methylphenidate hydrochloride extended-release tablets).
 The mean half-life was about 3.6 hours.
 No differences in the pharmacokinetics of methylphenidate hydrochloride extended-release tablets were noted following single and repeated once-daily dosing, indicating no significant drug accumulation.
-The AUC and t1/2 following repeated once-daily dosing are similar to those following the first dose of methylphenidate hydrochloride extended-release tablets in a dose range of 18 mg to 144 mg.
+The AUC and t 1/2following repeated once-daily dosing are similar to those following the first dose of methylphenidate hydrochloride extended-release tablets in a dose range of 18 mg to 144 mg.
 
 Effect of Food
 
@@ -58,14 +57,14 @@ At alcohol concentrations up to 40%, there was no increased release of methylphe
 
 Dose Proportionality
 
-Following administration methylphenidate hydrochloride extended-release tablets in single doses of 18 mg, 36 mg, and 54 mg per day to healthy adults, Cmax and AUC (0–inf) of d-methylphenidate were proportional to dose, whereas l-methylphenidate Cmax and AUC (0–inf) increased disproportionately with respect to dose.
+Following administration methylphenidate hydrochloride extended-release tablets in single doses of 18 mg, 36 mg, and 54 mg per day to healthy adults, C maxand AUC (0–inf)of d-methylphenidate were proportional to dose, whereas l-methylphenidate C maxand AUC (0–inf)increased disproportionately with respect to dose.
 Following administration of methylphenidate hydrochloride extended-release tablets, plasma concentrations of the l-isomer were approximately 1/40 the plasma concentrations of the d-isomer.
 
-In healthy adults, single and multiple dosing of once-daily methylphenidate hydrochloride extended-release tablets doses from 54 mg to 144 mg per day resulted in linear and dose-proportional increases in Cmax and AUCinf for total methylphenidate (MPH) and its major metabolite, α-phenyl-piperidine acetic acid (PPAA).
+In healthy adults, single and multiple dosing of once-daily methylphenidate hydrochloride extended-release tablets doses from 54 mg to 144 mg per day resulted in linear and dose-proportional increases in C maxand AUC inffor total methylphenidate (MPH) and its major metabolite, α-phenyl-piperidine acetic acid (PPAA).
 There was no time dependency in the pharmacokinetics of methylphenidate.
 The ratio of metabolite (PPAA) to parent drug (MPH) was constant across doses from 54 mg to 144 mg per day, both after single dose and upon multiple dosing.
 
-In a multiple-dose study in ADHD with pediatric patients 13 to 16 years administered their prescribed dose (18 mg to 72 mg per day) of methylphenidate hydrochloride extended-release tablets, mean Cmax and AUCTAU of d- and total methylphenidate increased proportionally with respect to dose.
+In a multiple-dose study in ADHD with pediatric patients 13 to 16 years administered their prescribed dose (18 mg to 72 mg per day) of methylphenidate hydrochloride extended-release tablets, mean C maxand AUC TAUof d- and total methylphenidate increased proportionally with respect to dose.
 
 Distribution
 
@@ -85,15 +84,15 @@ Excretion
 After oral dosing of radiolabeled methylphenidate in humans, about 90% of the radioactivity was recovered in urine.
 The main urinary metabolite was PPAA, accounting for approximately 80% of the dose.
 
-Specific Populations
+SpecificPopulations
 
 Male and Female Patients
 
-In healthy adults, the mean dose-adjusted AUC (0–inf) values for methylphenidate hydrochloride extended-release tablets were 36.7 ng∙h/mL in men and 37.1 ng∙h/mL in women, with no differences noted between the two groups.
+In healthy adults, the mean dose-adjusted AUC (0–inf)values for methylphenidate hydrochloride extended-release tablets were 36.7 ng∙h/mL in men and 37.1 ng∙h/mL in women, with no differences noted between the two groups.
 
 Racial or Ethnic Groups
 
-In adults receiving methylphenidate hydrochloride extended-release tablets, dose-adjusted AUC (0–inf) was consistent across ethnic groups; however, the sample size may have been insufficient to detect ethnic variations in pharmacokinetics.
+In adults receiving methylphenidate hydrochloride extended-release tablets, dose-adjusted AUC (0–inf)was consistent across ethnic groups; however, the sample size may have been insufficient to detect ethnic variations in pharmacokinetics.
 
 Pediatric Patients
 

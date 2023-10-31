@@ -12,7 +12,7 @@ Risk Summary
 Published studies and post-marketing reports on methylphenidate use during pregnancy have not identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
 There are risks to the fetus associated with the use of central nervous system (CNS) stimulants during pregnancy (see Clinical Considerations).
 
-No effects on morphological development were observed in development studies with oral administration of methylphenidate to pregnant rats at doses up to 4 times the maximum recommended human dose (MRHD) of 72 mg/day given to adults on a mg/m2 basis.
+No effects on morphological development were observed in development studies with oral administration of methylphenidate to pregnant rats at doses up to 4 times the maximum recommended human dose (MRHD) of 72 mg/day given to adults on a mg/m 2 basis.
 However, malformations were observed in rabbits at a dose 54 times the MRHD given to adults.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -31,8 +31,8 @@ Data
 Animal Data
 
 In development studies conducted in rats and rabbits, methylphenidate was administered at doses up to 30 and 200 mg/kg/day, respectively.
-Methylphenidate has been shown to cause malformations in rabbits when given in doses of 200 mg/kg/day, which is approximately 54 times the MRHD on a mg/m2 basis, respectively.
-A reproduction study in rats revealed no evidence of harm to the fetus at oral doses up to 30 mg/kg/day, approximately 4-fold the MRHD on a mg/m2 basis.
+Methylphenidate has been shown to cause malformations in rabbits when given in doses of 200 mg/kg/day, which is approximately 54 times the MRHD on a mg/m 2basis, respectively.
+A reproduction study in rats revealed no evidence of harm to the fetus at oral doses up to 30 mg/kg/day, approximately 4-fold the MRHD on a mg/m 2basis.
 
 ## 8.2 Lactation
 
@@ -63,8 +63,8 @@ Pediatric patients who are not growing or gaining weight as expected may need to
 Juvenile Animal Toxicity Data
 
 In the study conducted in young rats, methylphenidate was administered orally at doses of up to 100 mg/kg/day for 9 weeks, starting early in the postnatal period (postnatal day 7) and continuing through sexual maturity (postnatal week 10).
-When these animals were tested as adults (postnatal weeks 13-14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day (approximately 4 times the MRHD of 54 mg/day given to children on a mg/m2 basis) or greater, and a deficit in the acquisition of a specific learning task was observed in females exposed to the highest dose (9 times the MRHD given to children on a mg/m2 basis).
-The no effect level for juvenile neurobehavioral development in rats was 5 mg/kg/day (equal to the MRHD given to children on a mg/m2 basis).
+When these animals were tested as adults (postnatal weeks 13-14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day (approximately 4 times the MRHD of 54 mg/day given to children on a mg/m 2basis) or greater, and a deficit in the acquisition of a specific learning task was observed in females exposed to the highest dose (9 times the MRHD given to children on a mg/m 2basis).
+The no effect level for juvenile neurobehavioral development in rats was 5 mg/kg/day (equal to the MRHD given to children on a mg/m 2basis).
 The clinical significance of the long-term behavioral effects observed in rats is unknown.
 
 ## 8.5 Geriatric Use
