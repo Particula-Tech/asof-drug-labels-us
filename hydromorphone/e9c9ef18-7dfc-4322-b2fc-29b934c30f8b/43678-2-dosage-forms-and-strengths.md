@@ -2,7 +2,7 @@
 
 Hydromorphone Hydrochloride Injection, USP is available as:
 
-| AmpulsCarpuject™ cartridgesiSecure™ SyringesVials | 1 mg/mL, 2 mg/mL, and 4 mg/mL 1 mg/mL, 2 mg/mL, and 4 mg/mL 0.5 mg/0.5 mL, 1 mg/mL, and 2 mg/mL 2 mg/mL |
+| •Ampuls•Carpuject™ cartridges•iSecure™ Syringes•Vials | 1 mg/mL, 2 mg/mL, and 4 mg/mL 1 mg/mL, 2 mg/mL, and 4 mg/mL 0.5 mg/0.5 mL, 1 mg/mL, and 2 mg/mL 2 mg/mL |
 | --- | --- |
 
 The drug product is a clear, colorless to nearly colorless aqueous sterile solution.

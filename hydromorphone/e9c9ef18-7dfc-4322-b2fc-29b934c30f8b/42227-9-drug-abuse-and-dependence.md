@@ -6,8 +6,8 @@ Hydromorphone Hydrochloride Injection contains hydromorphone, a Schedule II cont
 
 ## 9.2 Abuse
 
-Hydromorphone Hydrochloride Injection contains hydromorphone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydrocodone, methadone, morphine, oxycodone, oxymorphone, and tapentadol.
-Hydromorphone Hydrochloride Injection can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
+1. Hydromorphone Hydrochloride Injection contains hydromorphone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydrocodone, methadone, morphine, oxycodone, oxymorphone, and tapentadol.
+   Hydromorphone Hydrochloride Injection can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
 
 All patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
 

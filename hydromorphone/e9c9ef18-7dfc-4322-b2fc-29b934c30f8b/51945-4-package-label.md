@@ -138,7 +138,7 @@ HYDROmorphone HCl Injection, USP 1 mg/mL CII
 
 PAA128345
 
-PROTECT FROM LIGHT
+1. PROTECT FROM LIGHT
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA Hospira
 

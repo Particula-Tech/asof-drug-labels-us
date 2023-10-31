@@ -2,15 +2,15 @@
 
 The following serious adverse reactions are described, or described in greater detail, in other sections:
 
-- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
-- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
-- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
-- Interactions with CNS Benzodiazepines and Other Depressants [see Warnings and Precautions (5.4)]
-- Adrenal Insufficiency [see Warnings and Precautions (5.6)]
-- Severe Hypotension [see Warnings and Precautions (5.7)]
-- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.9)]
-- Seizures [see Warnings and Precautions (5.10)]
-- Withdrawal [see Warnings and Precautions (5.11)]
+- •Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- •Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
+- •Interactions with CNS Benzodiazepines and Other Depressants [see Warnings and Precautions (5.4)]
+- •Adrenal Insufficiency [see Warnings and Precautions (5.6)]
+- •Severe Hypotension [see Warnings and Precautions (5.7)]
+- •Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.9)]
+- •Seizures [see Warnings and Precautions (5.10)]
+- •Withdrawal [see Warnings and Precautions (5.11)]
 
 The following adverse reactions associated with the use of hydromorphone were identified in clinical studies or postmarketing reports.
 Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
