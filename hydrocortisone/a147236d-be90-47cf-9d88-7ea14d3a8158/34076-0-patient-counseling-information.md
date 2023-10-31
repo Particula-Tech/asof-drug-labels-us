@@ -11,7 +11,7 @@ Advise patients to discontinue LOCOID Lotion when control is achieved [see Dosag
 Advise patients to avoid use for longer than 2 weeks.
 Instruct patients to contact their healthcare provider if no improvement is seen within 2 weeks [see Dosage and Administration (2)].
 
-Advise patients to NOT [see Dosage and Administration (2) and Warnings and Precautions (5.1)]:
+Advise patients to NOT[see Dosage and Administration (2) and Warnings and Precautions (5.1)]:
 
 - •Bandage, otherwise cover, or wrap the affected skin area unless directed by their healthcare provider.
 - •Use LOCOID Lotion in the diaper area, as diapers or plastic pants may constitute occlusive dressings.

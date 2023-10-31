@@ -2,7 +2,7 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- •HPA axis suppression [see Warnings and Precautions (5.1), Use in Specific Populations (8.4)]
+- •HPA axis suppression [seeWarnings and Precautions (5.1),Use in Specific Populations (8.4)]
 - •Ophthalmic Adverse Reactions [see Warnings and Precautions (5.2)]
 - •Skin infections [see Warnings and Precautions (5.3)]
 - •Allergic contact dermatitis [see Warnings and Precautions (5.4)]
