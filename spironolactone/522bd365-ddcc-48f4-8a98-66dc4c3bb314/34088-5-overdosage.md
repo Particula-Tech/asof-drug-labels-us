@@ -1,0 +1,13 @@
+# 10 OVERDOSAGE
+
+The oral LD50 of spironolactone is greater than 1000 mg/kg in mice, rats, and rabbits.
+
+Acute overdosage of spironolactone oral suspension may be manifested by drowsiness, mental confusion, maculopapular or erythematous rash, nausea, vomiting, dizziness, or diarrhea.
+Rarely, instances of hyponatremia, hyperkalemia, or hepatic coma may occur in patients with severe liver disease, but these are unlikely due to acute overdosage.
+Hyperkalemia may occur, especially in patients with impaired renal function.
+
+Treatment: Induce vomiting or evacuate the stomach by lavage.
+There is no specific antidote.
+Treatment is supportive to maintain hydration, electrolyte balance, and vital functions.
+Patients who have renal impairment may develop hyperkalemia.
+In such cases, discontinue spironolactone oral suspension.

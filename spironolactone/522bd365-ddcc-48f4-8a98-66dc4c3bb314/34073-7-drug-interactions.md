@@ -1,0 +1,47 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Drugs and Supplements Increasing Serum Potassium
+
+Concomitant administration of spironolactone oral suspension with potassium supplementation or drugs that can increase potassium may lead to severe hyperkalemia.
+In general, discontinue potassium supplementation in heart failure patients who start spironolactone oral suspension [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Check serum potassium levels when ACE inhibitor or ARB therapy is altered in patients receiving spironolactone oral suspension.
+
+Examples of drugs that can increase potassium include:
+
+- •ACE inhibitors
+- •angiotensin receptor blockers
+- •aldosterone blockers
+- •non-steroidal anti-inflammatory drugs (NSAIDs)
+- •heparin and low molecular weight heparin
+- •trimethoprim
+
+## 7.2 Lithium
+
+Like other diuretics, spironolactone oral suspension reduces the renal clearance of lithium, thus increasing the risk of lithium toxicity.
+Monitor lithium levels periodically when spironolactone oral suspension is coadministered [see Clinical Pharmacology (12.3)].
+
+## 7.3 Nonsteroidal Anti-inflammatory Drugs (NSAIDs)
+
+In some patients, the administration of an NSAID can reduce the diuretic, natriuretic, and antihypertensive effect of loop, potassium-sparing, and thiazide diuretics.
+Therefore, when spironolactone oral suspension and NSAIDs are used concomitantly, monitor closely to determine if the desired effect of the diuretic is obtained [see Clinical Pharmacology (12.3)].
+
+## 7.4 Digoxin
+
+Spironolactone and its metabolites increase the apparent exposure to digoxin.
+In patients taking concomitant digoxin, measure serum digoxin concentrations before initiating spironolactone using an assay that does not interact with spironolactone.
+Reduce digoxin concentrations by decreasing the dose by approximately 15-30% or by modifying the dosing frequency and continue monitoring [see Clinical Pharmacology (12.3)].
+
+## 7.5 Cholestyramine
+
+Hyperkalemic metabolic acidosis has been reported in patients given spironolactone concurrently with cholestyramine.
+
+## 7.6 Acetylsalicylic Acid
+
+Acetylsalicylic acid may reduce the efficacy of spironolactone.
+Therefore, when spironolactone oral suspension and acetylsalicylic acid are used concomitantly, spironolactone oral suspension may need to be titrated to higher maintenance dose and the patient should be observed closely to determine if the desired effect is obtained [see Clinical Pharmacology (12.3)].
+
+## 7.7 CYP2C8 and CYP3A Substrates
+
+Spironolactone is an irreversible inhibitor for CYP2C8 and CYP3A4/5 in vitro [see Clinical Pharmacology (12.3)].
+Therefore, spironolactone may increase the exposure of other coadministered drugs that are metabolized by CYP2C8 and CYP3A4/5.
+Dosage adjustments of the drugs metabolized by CYP2C8 (e.g., repaglinide) and CYP3A4/5 (e.g., midazolam, sirolimus and tacrolimus) may be necessary if they are given concurrently with spironolactone.

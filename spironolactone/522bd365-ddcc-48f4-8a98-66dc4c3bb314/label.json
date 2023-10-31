@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA209478"
+  ],
+  "inn": "spironolactone",
+  "labeler": "Padagis US LLC",
+  "package_ndcs": [
+    "0574-1133-04",
+    "0574-1133-05",
+    "0574-1133-10",
+    "0574-1133-16"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "spironolactone",
+      "name": "SPIRONOLACTONE"
+    }
+  ],
+  "setid": "522bd365-ddcc-48f4-8a98-66dc4c3bb314",
+  "source": "dailymed"
+}
