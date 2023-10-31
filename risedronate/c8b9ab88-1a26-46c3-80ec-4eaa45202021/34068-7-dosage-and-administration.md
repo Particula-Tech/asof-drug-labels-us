@@ -22,7 +22,7 @@ Instruct patients to do the following:
 
 Instruct patients to take supplemental calcium and vitamin D if dietary intake is inadequate [see Warnings and Precautions (5.3)] and to take calcium supplements, antacids, magnesium-based supplements or laxatives, and iron preparations at a different time of the day as they interfere with the absorption of Atelvia.
 
-## 2.4 Administration Instructions for Missed Doses
+## 2.4Administration Instructions for Missed Doses
 
 If the once-weekly dose is missed, instruct patients to take one tablet on the morning after they remember and return to taking one tablet once-a-week, as originally scheduled on their chosen day.
 Patients should not take two tablets on the same day.

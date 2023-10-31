@@ -20,10 +20,9 @@ The overall safety and tolerability profiles of the two dosing regimens were sim
 Table 1 lists adverse reactions reported in greater than or equal to 2% of patients.
 Adverse reactions are shown without attribution of causality.
 
-Table 1 Adverse Reactions Occurring at a Frequency of greater than or equal to 2% in Either Treatment Group
-
-|  | 35 mg Atelvia | 5 mg Risedronate sodium Immediate- release |
+| Table 1 Adverse Reactions Occurring at a Frequency of greater than or equal to 2% in Either Treatment Group |  |  |
 | --- | --- | --- |
+|  | 35 mg Atelvia | 5 mg Risedronate sodium Immediate- release |
 |  | Weekly | Daily |
 | System Organ Class | N = 307 | N = 307 |
 | Preferred Term | % | % |

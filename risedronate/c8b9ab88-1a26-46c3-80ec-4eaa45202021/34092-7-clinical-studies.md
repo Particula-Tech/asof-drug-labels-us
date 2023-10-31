@@ -9,10 +9,9 @@ The primary efficacy endpoint was percent change in lumbar spine bone mineral de
 Atelvia 35 mg once-a-week administered after breakfast was shown to be non-inferior to risedronate sodium immediate-release 5 mg daily.
 Table 2 presents the primary efficacy analysis, percent change in lumbar spine BMD, in the intent-to-treat population with last observation carried forward (LOCF).
 
-Table 2 Lumbar Spine BMD - Percent Change from Baseline at Endpoint[a]
-
-|  | Risedronate sodium immediate-release 5 mg Daily | Atelvia 35 mg Once-a-Week Following Breakfast |
+| Table 2 Lumbar Spine BMD - Percent Change from Baseline at Endpoint[a] |  |  |
 | --- | --- | --- |
+|  | Risedronate sodium immediate-release 5 mg Daily | Atelvia 35 mg Once-a-Week Following Breakfast |
 |  | N = 307 | N = 307 |
 | Primary Efficacy (LOCF) |  |  |
 | n | 270 | 261 |
@@ -37,10 +36,9 @@ The primary endpoint for these studies was the incidence of new and worsening ve
 Risedronate sodium immediate-release 5 mg daily significantly reduced the incidence of new and worsening vertebral fractures and of new vertebral fractures in both VERT NA and VERT MN at all time points (Table 3).
 The reduction in risk seen in the subgroup of patients who had 2 or more vertebral fractures at study entry was similar to that seen in the overall study population.
 
-Table 3 The Effect of Risedronate sodium 5 mg Immediate-Release Daily on the Risk of Vertebral Fractures
-
-|  | Proportion of Patients with Fracture (%)a |  |  |  |
+| Table 3 The Effect of Risedronate sodium 5 mg Immediate-Release Daily on the Risk of Vertebral Fractures |  |  |  |  |
 | --- | --- | --- | --- | --- |
+|  | Proportion of Patients with Fracture (%)a |  |  |  |
 | VERT NA | Placebo N = 678 | Risedronate sodium 5 mg N = 696 | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |
 | New and Worsening |  |  |  |  |
 | 0 to 1 Year | 7.2 | 3.9 | 3.3 | 49 |
@@ -92,10 +90,9 @@ The results of 4 randomized, placebo-controlled trials in women with postmenopau
 Table 4 displays the significant increases in BMD seen at the lumbar spine, femoral neck, femoral trochanter, and midshaft radius in these trials compared to placebo.
 In both VERT studies (VERT MN and VERT NA), risedronate sodium immediate-release 5 mg daily produced increases in lumbar spine BMD that were progressive over the 3 years of treatment, and were statistically significant relative to baseline and to placebo at 6 months and at all later time points.
 
-Table 4 Mean Percent Increase in BMD from Baseline in Patients Taking Risedronate sodium Immediate-Release 5 mg or Placebo at Endpointa
-
-|  | VERT MNb |  | VERT NAb |  | BMD MNc |  | BMD NAc |  |
+| Table 4 Mean Percent Increase in BMD from Baseline in Patients Taking Risedronate sodium Immediate-Release 5 mg or Placebo at Endpointa |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | VERT MNb |  | VERT NAb |  | BMD MNc |  | BMD NAc |  |
 |  | Placebo N = 323 | 5 mg N = 323 | Placebo N = 599 | 5 mg N = 606 | Placebo N = 161 | 5 mg N = 148 | Placebo N = 191 | 5 mg N = 193 |
 | Lumbar Spine | 1.0 | 6.6 | 0.8 | 5.0 | 0.0 | 4.0 | 0.2 | 4.8 |
 | Femoral Neck | -1.4 | 1.6 | -1.0 | 1.4 | -1.1 | 1.3 | 0.1 | 2.4 |
