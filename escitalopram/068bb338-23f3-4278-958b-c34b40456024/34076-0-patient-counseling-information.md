@@ -46,15 +46,15 @@ Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., INDIA.
 
-8094116 Revised: September 2023
+8094551 Revised: October 2023
 
 Or
 
 VKT Pharma Private Limited, Srikakulam-532409, India.
 
-8094118 Revised: September 2023
+8094553 Revised: October 2023
 
-800189
+800204
 
 Manufactured for:
 

@@ -14,8 +14,8 @@ Depending on clinical response and tolerability, dosage may be increased to the 
 Adults The recommended starting dosage of escitalopram tablets in adults is 10 mg once daily.
 Depending on clinical response and tolerability, dosage may be increased to the maximum recommended dosage of 20 mg once daily at an interval of no less than 1 week.
 
-Pediatric Patients 7 years of age and older The recommended starting dosage of escitalopram tablets for pediatric patients ages 7 years of age and older is 10 mg once daily.
-Depending on clinical response and tolerability, dosage may be increased to the maximum recommended dosage of 20 mg once daily at an interval of no less than 2 weeks.
+Additional pediatric use information is approved for AbbVie Inc.’s LEXAPRO (escitalopram) tablets.
+However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.3 Administration Information
 

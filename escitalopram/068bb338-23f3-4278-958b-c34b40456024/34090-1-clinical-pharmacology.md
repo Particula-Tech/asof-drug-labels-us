@@ -48,9 +48,7 @@ Excretion Following oral administrations of escitalopram, the fraction of drug r
 
 Specific Populations
 
-Pediatric Patients Pediatric patients 7 to 11 years of age: Based on population PK simulations, following multiple dosing of 20 mg/day escitalopram, steady-state Cmax and AUCtau of escitalopram were increased by 93% and 86%, respectively in pediatric patients with GAD 7 to 11 years of age compared to adults.
-
-Pediatric patients 12 to 17 years of age: In a single dose study of 10 mg escitalopram, AUC of escitalopram decreased by 19%, and Cmax increased by 26% in healthy pediatric subjects 12 to 17 years of age compared to adults.
+Pediatric Patients Pediatric patients 12 to 17 years of age: In a single dose study of 10 mg escitalopram, AUC of escitalopram decreased by 19%, and Cmax increased by 26% in healthy pediatric subjects 12 to 17 years of age compared to adults.
 Following multiple dosing of 40 mg/day citalopram, escitalopram elimination half-life, steady-state Cmax and AUC were similar in pediatric patients 12 to 17 years of age with MDD compared to adults [see Use in Specific Populations (8.4)].
 
 Geriatric Patients Escitalopram pharmacokinetics in subjects ≥ 65 years of age were compared to adults in a single-dose and a multiple-dose study.
@@ -58,7 +56,7 @@ Escitalopram AUC and half-life were increased by approximately 50% in elderly su
 
 Male and Female Patients Based on data from single- and multiple-dose studies measuring escitalopram in elderly, young adults, and adolescents, no dosage adjustment on the basis of gender is needed.
 
-Patients with Hepatic Impairment Citalopram oral clearance was reduced by 37% and half-life was doubled in patients with reduced hepatic function compared to normal subjects [see Dosage and Administration (2.5), Use in Specific Populations (8.6)].
+Patients with Hepatic Impairment Citalopram oral clearance was reduced by 37% and half-life was doubled in patients with reduced hepatic function compared to normal subjects[see Dosage and Administration (2.5), Use in Specific Populations (8.6)].
 
 Patients with Renal Impairment In patients with mild to moderate renal function impairment, oral clearance of citalopram was reduced by 17% compared to normal subjects.
 No information is available about the pharmacokinetics of escitalopram in patients with severely reduced renal function (creatinine clearance < 20 mL/min) [see Use in Specific Populations (8.7)].
@@ -99,3 +97,6 @@ As with other psychotropic medications, the use of alcohol by patients taking es
 Warfarin Administration of 40 mg/day racemic citalopram for 21 days did not affect the pharmacokinetics of warfarin, a CYP3A4 substrate.
 Prothrombin time was increased by 5%.
 The clinical significance of these findings is unknown.
+
+Additional pediatric use information is approved for AbbVie Inc.’s LEXAPRO (escitalopram) tablets.
+However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.

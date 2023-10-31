@@ -21,7 +21,7 @@ In the tables and tabulations that follow, standard World Health Organization (W
 The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment emergent adverse event of the type listed.
 An event was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 
-Pediatric Patients Adverse reaction information for pediatric patients was collected in double-blind placebo-controlled studies in 576 pediatric patients 6 to 17 years of age, (286 escitalopram, 290 placebo) with major depressive disorder and in 273 pediatric patients 7 to 17 years of age (137 escitalopram, 136 placebo) with generalized anxiety disorder.
+Pediatric Patients Adverse reaction information for pediatric patients was collected in double-blind placebo-controlled studies in 576 pediatric patients 6 to 17 years of age, (286 escitalopram, 290 placebo) with major depressive disorder.
 
 The safety and effectiveness of escitalopram have not been established in pediatric patients less than 12 years of age with MDD or less than 7 years of age with GAD.
 
@@ -43,9 +43,6 @@ Generalized Anxiety Disorder
 
 Adults Among the 429 GAD patients who received escitalopram 10 to 20 mg/day in placebo-controlled trials, 8% discontinued treatment due to an adverse event, as compared to 4% of 427 patients receiving placebo.
 Adverse reactions that were associated with the discontinuation of at least 1% of patients treated with escitalopram, and for which the rate was at least twice the placebo rate, were nausea (2%), insomnia (1%), and fatigue (1%).
-
-Pediatric Patients Adverse reactions in pediatric patients 7 to 17 years were associated with discontinuation of 2.9% of 137 patients receiving escitalopram and 1.5% of 136 patients receiving placebo.
-The most common adverse reaction (incidence at least 1% for escitalopram and greater than placebo) associated with discontinuation was activation syndrome (1% escitalopram, 0% placebo), intentional self injury (1% escitalopram, 0% placebo), epistaxis (1% escitalopram, 0% placebo), and nausea (1% escitalopram, 0% placebo).
 
 Incidence of Adverse Reactions in Placebo-Controlled Clinical Trials
 
@@ -145,10 +142,9 @@ Reactions included are those occurring in 2% or more of patients treated with es
 | 2Denominator used was for males only (N=182 escitalopram; N=195 placebo). |  |  |
 | 3Denominator used was for females only (N=247 escitalopram; N=232 placebo). |  |  |
 
-Pediatric Patients The overall profile of adverse reactions in pediatric patients 7 to 17 years in generalized anxiety disorder was generally similar to that seen in adult studies, as shown in Table 3.
-However, the following adverse reactions (excluding those which appear in Table 3) were reported at an incidence of at least 2% for escitalopram and greater than placebo: dizziness (3% escitalopram and 2% placebo), nasopharyngitis (3% escitalopram and 1% placebo), abdominal discomfort (3% escitalopram and 1% placebo), anxiety (3% escitalopram and 1% placebo), irritability (2% escitalopram and 1% placebo), and anger (2% escitalopram and 0% placebo).
+Dose Dependency of Adverse Reactions
 
-Dose Dependency of Adverse Reactions The potential dose dependency of common adverse reactions (defined as an incidence rate of ≥5% in either the 10 mg or 20 mg escitalopram groups) was examined on the basis of the combined incidence of adverse reactions in two fixed-dose trials.
+The potential dose dependency of common adverse reactions (defined as an incidence rate of ≥5% in either the 10 mg or 20 mg escitalopram groups) was examined on the basis of the combined incidence of adverse reactions in two fixed-dose trials.
 The overall incidence rates of adverse reactions in 10 mg escitalopram-treated patients (66%) was similar to that of the placebo-treated patients (61%), while the incidence rate in 20 mg/day escitalopram-treated patients was greater (86%).
 Table 4 shows common adverse reactions that occurred in the 20 mg/day escitalopram group with an incidence that was approximately twice that of the 10 mg/day escitalopram group and approximately twice that of the placebo group.
 
@@ -242,6 +238,9 @@ Skin and Appendages Disorders: rash.
 Special Senses: vision blurred, tinnitus.
 
 Urinary System Disorders: urinary frequency, urinary tract infection.
+
+Additional pediatric use information is approved for AbbVie Inc.’s LEXAPRO (escitalopram) tablets.
+However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Post-Marketing Experience
 

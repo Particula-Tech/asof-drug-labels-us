@@ -96,7 +96,7 @@ Because any psychoactive drug may impair judgment, thinking, or motor skills, ho
 
 ## 5.9 Angle Closure Glaucoma
 
-The pupillary dilation that occurs following use of many antidepressant drugs, including escitalopram may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+The pupillary dilation that occurs following use of many antidepressant drugs including escitalopram may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.10 Use in Patients with Concomitant Illness
 
