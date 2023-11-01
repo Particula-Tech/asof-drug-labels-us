@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA211157"
+  ],
+  "inn": "etonogestrel",
+  "labeler": "Northstar Rx LLC",
+  "package_ndcs": [
+    "16714-029-01",
+    "16714-029-03"
+  ],
+  "products": [
+    {
+      "form": "RING",
+      "generic": "etonogestrel and ethinyl estradiol vaginal ring",
+      "name": "Etonogestrel and Ethinyl Estradiol Vaginal Ring"
+    }
+  ],
+  "setid": "1488f5ae-3b34-fcd7-6049-215929b1d324",
+  "source": "dailymed"
+}
