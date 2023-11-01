@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203395"
+  ],
+  "inn": "bromfenac",
+  "labeler": "ARMAS PHARMACEUTICALS INC.",
+  "package_ndcs": [
+    "72485-649-71"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "bromfenac",
+      "name": "Bromfenac"
+    }
+  ],
+  "setid": "08a0591e-6cb3-30ce-e063-6394a90a33fb",
+  "source": "dailymed"
+}
