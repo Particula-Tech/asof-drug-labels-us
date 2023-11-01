@@ -1,4 +1,6 @@
-Medication Guide Risedronate sodium delayed-release tablets
+Medication Guide Risedronate sodium delayed-release
+
+tablets
 
 Read this Medication Guide that comes with Risedronate sodium delayed-release before you start taking it and each time you get a refill.
 There may be new information.
@@ -194,14 +196,13 @@ Inactive ingredients: Edetate disodium, ferric oxide yellow, magnesium stearate,
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Greenstone LLC Peapack, NJ 07977
+Distributed by: Greenstone LLC Morgantown, WV 26505 U.S.A.
 
-For all medical inquiries contact: Greenstone LLC Medical Communications 1-800-438-1985
+For all medical inquiries contact: Greenstone LLC Medical Communications 1-877-446-3679
 
-© 2020 Allergan.
+© 2023 AbbVie.
 All rights reserved.
 
-Patented.
-See www.Allergan.com/patents
-
 Content Updated: August 2020
+
+20078946

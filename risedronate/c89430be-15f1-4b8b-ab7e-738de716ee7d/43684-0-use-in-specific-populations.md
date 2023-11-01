@@ -23,7 +23,7 @@ In the U.S. general population, the estimated background risks of major birth de
 
 Data
 
-Animal data
+Animal Data
 
 In animal studies, pregnant rats received risedronate sodium during organogenesis at doses 1 to 26 times the human Paget’s disease dose of 30 mg/day (based on body surface area, mg/m2).
 Survival of neonates was decreased in rats treated during gestation with oral doses approximately 5 times the human dose and body weight was decreased in neonates from dams treated with approximately 26 times the human dose.

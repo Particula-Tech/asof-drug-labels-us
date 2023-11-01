@@ -1,6 +1,8 @@
 # 2DOSAGE AND ADMINISTRATION
 
-## 2.1Treatment of Postmenopausal Osteoporosis [see Indications and Usage (1.1)]
+## 2.1Treatment of Postmenopausal Osteoporosis
+
+[see Indications and Usage (1.1)]
 
 The recommended regimen is:
 
