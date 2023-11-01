@@ -1,14 +1,14 @@
 # CLINICAL PHARMACOLOGY
 
-Each nitrofurantoin monohydrate/macrocrystals capsule contains two forms of nitrofurantoin.
+Each nitrofurantoin capsule (monohydrate/macrocrystals) contains two forms of nitrofurantoin.
 Twenty-five percent is macrocrystalline nitrofurantoin, which has slower dissolution and absorption than nitrofurantoin monohydrate.
 The remaining 75% is nitrofurantoin monohydrate contained in a powder blend which, upon exposure to gastric and intestinal fluids, forms a gel matrix that releases nitrofurantoin over time.
-Based on urinary pharmacokinetic data, the extent and rate of urinary excretion of nitrofurantoin from the 100 mg nitrofurantoin monohydrate/macrocrystals capsule are similar to those of the 50 mg or 100 mg nitrofurantoin macrocrystals capsule.
+Based on urinary pharmacokinetic data, the extent and rate of urinary excretion of nitrofurantoin from the 100 mg nitrofurantoin capsules (monohydrate/macrocrystals) are similar to those of the 50 mg or 100 mg nitrofurantoin macrocrystals capsule.
 Approximately 20% to 25% of a single dose of nitrofurantoin is recovered from the urine unchanged over 24 hours.
 
-Plasma nitrofurantoin concentrations after a single oral dose of the 100 mg nitrofurantoin monohydrate/macrocrystals capsules are low, with peak levels usually less than 1 mcg/mL.
+Plasma nitrofurantoin concentrations after a single oral dose of the 100 mg nitrofurantoin capsule (monohydrate/macrocrystals) are low, with peak levels usually less than 1 mcg/mL.
 Nitrofurantoin is highly soluble in urine, to which it may impart a brown color.
-When nitrofurantoin monohydrate/macrocrystals capsules are administered with food, the bioavailability of nitrofurantoin is increased by approximately 40%.
+When nitrofurantoin capsules (monohydrate/macrocrystals) are administered with food, the bioavailability of nitrofurantoin is increased by approximately 40%.
 
 ## MICROBIOLOGY
 

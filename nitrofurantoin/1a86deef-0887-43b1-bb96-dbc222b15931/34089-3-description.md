@@ -1,14 +1,15 @@
 # DESCRIPTION
 
 Nitrofurantoin is an antibacterial agent specific for urinary tract infections.
-The nitrofurantoin monohydrate/macrocrystals capsules brand of nitrofurantoin is a hard gelatin capsule shell containing the equivalent of 100 mg of nitrofurantoin in the form of 25 mg of nitrofurantoin macrocrystals and 75 mg of nitrofurantoin monohydrate.
+Nitrofurantoin capsules, USP (monohydrate/macrocrystals) is a hard gelatin capsule.
+Each capsule contains 100 mg of nitrofurantoin in the form of 25 mg of nitrofurantoin macrocrystals and 75 mg of nitrofurantoin monohydrate.
 
-The chemical name of nitrofurantoin macrocrystals is 1-[[[5-nitro-2-furanyl]methylene] amino]-2,4-imidazolidinedione.
+The chemical name of nitrofurantoin macrocrystals is 1-[[[5-nitro-2-furanyl]methylene]amino]-2,4-imidazolidinedione.
 The chemical structure is the following:
 
 Molecular Weight: 238.16
 
-The chemical name of nitrofurantoin monohydrate is 1-[[[5-nitro-2-furanyl]methylene] amino]-2,4- imidazolidinedione monohydrate.
+The chemical name of nitrofurantoin monohydrate is 1-[[[5-nitro-2-furanyl]methylene]amino]-2,4- imidazolidinedione monohydrate.
 The chemical structure is the following:
 
 Molecular Weight: 256.17
