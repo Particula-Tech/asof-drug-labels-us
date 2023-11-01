@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA200405"
+  ],
+  "inn": "montelukast",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-781-30",
+    "62135-782-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, CHEWABLE",
+      "generic": "montelukast sodium",
+      "name": "MONTELUKAST SODIUM"
+    }
+  ],
+  "setid": "5cb4298c-10b1-4d6f-95ad-4aad72daf249",
+  "source": "dailymed"
+}
