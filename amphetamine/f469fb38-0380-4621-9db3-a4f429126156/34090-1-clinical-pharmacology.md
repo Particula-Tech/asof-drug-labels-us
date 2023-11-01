@@ -10,8 +10,8 @@ There is neither specific evidence which clearly establishes the mechanism where
 
 Drugs in this class used in obesity are commonly known as "anorectics" or "anorexigenics."
 It has not been established, however, that the action of such drugs in treating obesity is primarily one of appetite suppression.
-Other central nervous system actions or metabolic effects, may be involved, for example.
-Adult obese subjects instructed in dietary management and treated with "anorectic" drugs lose more weight on the average than these treated with placebo and diet, as determined in relatively short-term clinical trials.
+Other central nervous system actions or metabolic effects may be involved, for example.
+Adult obese subjects instructed in dietary management and treated with "anorectic" drugs lose more weight on the average than these treated with placebo and diet, as determined in relatively short- term clinical trials.
 
 The magnitude of increased weight loss of drug-treated patients over placebo-treated patients is only a fraction of a pound a week.
 The rate of weight loss is greatest in the first weeks of therapy for both drug and placebo subjects and tends to decrease in succeeding weeks.

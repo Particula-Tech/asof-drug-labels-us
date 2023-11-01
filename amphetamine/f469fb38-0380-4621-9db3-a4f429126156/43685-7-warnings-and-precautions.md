@@ -1,58 +1,51 @@
-# WARNING
+# WARNINGS
 
-## Serious Cardiovascular Events
+## Abuse, Misuse, and Addiction
 
-### Sudden Death and Pre-Existing Structural Cardiac Abnormalities or Other Serious Heart Problems
+Evekeo has a high potential for abuse and misuse.
+The use of Evekeo exposes individuals to the risks of abuse and misuse, which can lead to the development of a substance use disorder, including addiction.
+Amphetamine sulfate can be diverted for non-medical use into illicit channels or distribution (see DRUG ABUSE and DEPENDENCE).
+Misuse and abuse of CNS stimulants, including Evekeo, can result in overdose and death (see OVERDOSAGE), and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
 
-#### Children and Adolescents
+Before prescribing Evekeo, assess each patient's risk for abuse, misuse, and addiction.
+Educate patients and their families about these risks and proper disposal of any unused drug.
+Advise patients to store amphetamine sulfate in a safe place, preferably locked, and instruct patients to not give Evekeo to anyone else.
+Throughout Evekeo treatment, reassess each patient's risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction.
 
-Sudden death has been reported in association with CNS stimulant treatment at usual doses in children and adolescents with structural cardiac abnormalities or other serious heart problems.
-Although some serious heart problems alone carry an increased risk of sudden death, stimulant products generally should not be used in children or adolescents with known serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, or other serious cardiac problems that may place them at increased vulnerability to the sympathomimetic effects of a stimulant drug (see CONTRAINDICATIONS).
+## Risks to Patients with Serious Cardiac Disease
 
-#### Adults
+Sudden death has been reported in patients with structural cardiac abnormalities or other serious cardiac disease who are treated with CNS stimulants at the recommended ADHD dosages.
 
-Sudden deaths, stroke, and myocardial infarction have been reported in adults taking stimulant drugs at usual doses for ADHD.
-Although the role of stimulants in these adult cases is also unknown, adults have a greater likelihood than children of having serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, coronary artery disease, or other serious cardiac problems.
-Adults with such abnormalities should also generally not be treated with stimulant drugs (see CONTRAINDICATIONS).
+Avoid Evekeo use in patients with known structural cardiac abnormalities, cardiomyopathy, serious cardiac arrhythmia, coronary artery disease, or other serious cardiac disease.
 
-### Hypertension and other Cardiovascular Conditions
+## Increased Blood Pressure and Heart Rate
 
-Stimulant medications cause a modest increase in average blood pressure (about 2 to 4 mmHg) and average heart rate (about 3 to 6 bpm), and individuals may have larger increases.
-While the mean changes alone would not be expected to have short-term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
-Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia (see CONTRAINDICATIONS).
+CNS stimulants cause an increase in blood pressure (mean increase about 2 to 4 mm Hg) and heart rate (mean increase about 3 to 6 bpm).
+Monitor all patients for potential tachycardia and hypertension.
 
-### Assessing Cardiovascular Status in Patients being Treated with Stimulant Medications
+## Psychiatric Adverse Reactions
 
-Children, adolescents, or adults who are being considered for treatment with stimulant medications should have a careful history (including assessment for a family history of sudden death or ventricular arrhythmia) and physical exam to assess for the presence of cardiac disease, and should receive further cardiac evaluation if findings suggest such disease (e.g., electrocardiogram and echocardiogram).
-Patients who develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease during stimulant treatment should undergo a prompt cardiac evaluation.
+### Exacerbation of Pre-Existing Psychosis
 
-## Psychiatric Adverse Events
+CNS stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
 
-### Pre-Existing Psychosis
+### Induction of a Manic Episode in Patients with Bipolar Disorder
 
-Administration of stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
+CNS stimulants may induce a manic or mixed episode in patients.
+Prior to initiating Evekeo, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive symptoms or a family history of suicide, bipolar disorder, or depression).
 
-### Bipolar Illness
+### New Psychotic or Manic Symptoms
 
-Particular care should be taken in using stimulants to treat ADHD in patients with comorbid bipolar disorder because of concern for possible induction of a mixed/manic episode in such patients.
-Prior to initiating treatment with a stimulant, patients with comorbid depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
+CNS stimulants, at recommended doses, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania.
+In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients, compared with 0% of placebo-treated patients.
+If such symptoms occur, consider discontinuing Evekeo.
 
-### Emergence of New Psychotic or Manic Symptoms
+## Long-Term Suppression of Growth in Pediatric Patients
 
-Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by stimulants at usual doses.
-If such symptoms occur, consideration should be given to a possible causal role of the stimulant, and discontinuation of treatment may be appropriate.
-In a pooled analysis of multiple short-term, placebo-controlled studies, such symptoms occurred in about 0.1% (4 patients with events out of 3482 exposed to methylphenidate or amphetamine for several weeks at usual doses) of stimulant-treated patients compared to 0 in placebo-treated patients.
+CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
+Closely monitor growth (weight and height) in Evekeo-treated pediatric patients treated with CNS stimulants.
 
-### Aggression
-
-Aggressive behavior or hostility is often observed in children and adolescents with ADHD, and has been reported in clinical trials and the postmarketing experience of some medications indicated for the treatment of ADHD.
-Although there is no systematic evidence that stimulants cause aggressive behavior or hostility, patients beginning treatment for ADHD should be monitored for the appearance of or worsening of aggressive behavior or hostility.
-
-## Long-Term Suppression of Growth
-
-Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
-Published data are inadequate to determine whether chronic use of amphetamines may cause a similar suppression of growth, however, it is anticipated that they likely have this effect as well.
-Therefore, growth should be monitored during treatment with stimulants, and patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
+Pediatric patients not growing or gaining height or weight as expected may need to have their treatment interrupted (see PRECAUTIONS, PEDIATRIC USE).
 
 ## Seizures
 
@@ -63,16 +56,16 @@ In the presence of seizures, the drug should be discontinued.
 
 Stimulants, including Evekeo, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud's phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
-Effects of peripheral vasculopathy, including Raynaud's phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
-Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
-Careful observation for digital changes is necessary during treatment with ADHD stimulants.
-Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+Effects of peripheral vasculopathy, including Raynaud's phenomenon, were observed in post-marketing reports and at the therapeutic dosages of CNS stimulants in all age groups throughout the course of treatment.
+Signs and symptoms generally improved after dosage reduction or discontinuation of the CNS stimulant.
+
+Careful observation for digital changes is necessary during Evekeo treatment.
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for patients who develop signs or symptoms of peripheral vasculopathy.
 
 ## Serotonin Syndrome
 
 Serotonin syndrome, a potentially life-threatening reaction, may occur when amphetamines are used in combination with other drugs that affect the serotonergic neurotransmitter systems such as monoamine oxidase inhibitors (MAOIs), selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort (see DRUG INTERACTIONS).
-Amphetamines and amphetamine derivatives are known to be metabolized, to some degree, by cytochrome P450 2D6 (CYP2D6) and display minor inhibition of CYP2D6 metabolism (see CLINICAL PHARMACOLOGY).
-The potential for a pharmacokinetic interaction exists with the co-administration of CYP2D6 inhibitors which may increase the risk with increased exposure to Evekeo.
+The co-administration with cytochrome P450 (CYP2D6) inhibitors may also increase the risk with increased exposure to Evekeo.
 In these situations, consider an alternative non-serotonergic drug or an alternative drug that does not inhibit CYP2D6 (see DRUG INTERACTIONS).
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -82,9 +75,12 @@ Concomitant use of Evekeo with MAOI drugs is contraindicated (see CONTRAINDICATI
 Discontinue treatment with Evekeo and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
 If concomitant use of Evekeo with other serotonergic drugs or CYP2D6 inhibitors is clinically warranted, initiate Evekeo with lower doses, monitor patients for the emergence of serotonin syndrome during drug initiation or titration, and inform patients of the increased risk for serotonin syndrome.
 
-## Visual Disturbance
+## Motor and Verbal Tics, and Worsening of Tourette's Syndrome
 
-Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
+CNS stimulants, including amphetamine sulfate, have been associated with the onset or exacerbation of motor and verbal tics.
+Worsening of Tourette's syndrome has also been reported.
+Assess the family history and clinically evaluate patients for tics or Tourette's syndrome before initiating Evekeo.
+Regularly monitor patients for the emergence or worsening of tics or Tourette's syndrome with Evekeo and discontinue treatment if clinically appropriate.
 
 # PRECAUTIONS
 
@@ -92,11 +88,31 @@ Difficulties with accommodation and blurring of vision have been reported with s
 
 Caution is to be exercised in prescribing amphetamines for patients with even mild hypertension.
 
-The least amount feasible should be prescribed or dispensed at one time in order to minimize the possibility of overdosage.
-
 ## Information for Patients
 
-Amphetamines may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or vehicle; the patient should therefore be cautioned accordingly.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
+### Abuse, Misuse, and Addiction
+
+Educate patients and their families about the risks of abuse, misuse, and addiction of Evekeo, which can lead to overdose and death, and proper disposal of any unused drug (see WARNINGS, DRUG ABUSE AND DEPENDENCE, and OVERDOSAGE).
+Advise patients to store Evekeo in a safe place, preferably locked, and instruct patients to not give Evekeo to anyone else.
+
+### Risks to Patients with Serious Cardiac Disease
+
+Advise patients that there are potential risks to patients with serious cardiac disease, including sudden death, with Evekeo use.
+Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease (see WARNINGS).
+
+### Increased Blood Pressure and Heart Rate
+
+Advise patients that Evekeo can elevate blood pressure and heart rate (see WARNINGS).
+
+### Psychiatric Adverse Reactions
+
+Advise patients that Evekeo, at recommended doses, can cause psychotic or manic symptoms, even in patients without prior history of psychotic symptoms or mania (see WARNINGS).
+
+### Long-Term Suppression of Growth in Pediatric Patients
+
+Advise patients that Evekeo, may cause slowing of growth including weight loss (see WARNINGS).
 
 ### Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]
 
@@ -105,7 +121,38 @@ Amphetamines may impair the ability of the patient to engage in potentially haza
 - Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking Evekeo.
 - Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
+### Serotonin Syndrome
+
+Caution patients about the risk of serotonin syndrome with concomitant use of Evekeo and other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort, and with drugs that impair metabolism of serotonin (in particular MAOIs, both those intended to treat psychiatric disorders) and also others such as linezolid [see CONTRAINDICATIONS, WARNINGS, and DRUG INTERACTIONS].
+Advise patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome.
+
+### Motor and Verbal Tics, and Worsening of Tourette's Syndrome
+
+Advise patients that motor and verbal tics and worsening of Tourette's Syndrome may occur during treatment with Evekeo.
+Instruct the patients to notify their healthcare provider if emergence or worsening of tics or Tourette's syndrome occurs (see WARNINGS).
+
+Amphetamines may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or vehicle; the patient should therefore be cautioned accordingly.
+
 ## Drug Interactions
+
+### MAO inhibitors
+
+MAOI antidepressants, as well as a metabolic of furazolidone, slow amphetamine metabolism.
+This slowing potentiates amphetamines, increasing their effect on the release of norepinephrine and other monoamines from adrenergic nerve endings; this can cause headaches and other signs of hypertensive crisis.
+A variety of neurological toxic effects and malignant hyperpyrexia can occur, sometimes with fatal results.
+
+### Serotonergic Drugs
+
+The concomitant use of Evekeo and serotonergic drugs increases the risk of serotonin syndrome.
+Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during Evekeo initiation or dosage increase.
+If serotonin syndrome occurs, discontinue Evekeo and the concomitant serotonergic drug(s) (see WARNING and PRECAUTIONS).
+
+### CYP2D6 Inhibitors
+
+The concomitant use of Evekeo and CYP2D6 inhibitors may increase the exposure of Evekeo compared to the use of the drug alone and increase the risk of serotonin syndrome.
+Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome particularly during Evekeo initiation and after a dosage increase.
+If serotonin syndrome occurs, discontinue Evekeo and the CYP2D6 inhibitor (see WARNING, OVERDOSAGE).
+Examples of CYP2D6 Inhibitors include paroxetine and fluoxetine (also serotonergic drugs), quinidine, ritonavir.
 
 ### Acidifying agents
 
@@ -125,27 +172,7 @@ Both groups of agents increase blood levels and therefore potentiate the action 
 
 ### Antidepressants tricyclic
 
-Amphetamines may enhance the activity of tricyclic or sympathomimetic agents; d-amphetamine with desipramine or protriptyline and possibly other tricyclics cause striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated.
-
-### CYP2D6 Inhibitors
-
-The concomitant use of Evekeo and CYP2D6 inhibitors may increase the exposure of Evekeo compared to the use of the drug alone and increase the risk of serotonin syndrome.
-Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome particularly during Evekeo initiation and after a dosage increase.
-If serotonin syndrome occurs, discontinue Evekeo and the CYP2D6 inhibitor (see WARNING, OVERDOSAGE).
-Examples of CYP2D6 Inhibitors include paroxetine and fluoxetine (also serotonergic drugs), quinidine, ritonavir.
-
-### Serotonergic Drugs
-
-The concomitant use of Evekeo and serotonergic drugs increases the risk of serotonin syndrome.
-Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during Evekeo initiation or dosage increase.
-If serotonin syndrome occurs, discontinue Evekeo and the concomitant serotonergic drug(s) (see WARNING and PRECAUTIONS).
-Examples of serotonergic drugs include selective serotonin reuptake inhibitors (SSRI), serotonin norepinephrine reuptake inhibitors (SNRI), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort.
-
-### MAO inhibitors
-
-MAOI antidepressants, as well as a metabolic of furazolidone, slow amphetamine metabolism.
-This slowing potentiates amphetamines, increasing their affect on the release of norepinephrine and other monoamines from adrenergic nerve endings; this can cause headaches and other signs of hypertensive crisis.
-A variety of neurological toxic effects and malignant hyperpyrexia can occur, sometimes with fatal results.
+Amphetamines may enhance the activity of tricyclic or sympathomimetic agents; d-amphetamine with desipramine or protriptyline and possibly other tricyclics cause striking and sustained increases in the concentration of d- amphetamine in the brain; cardiovascular effects can be potentiated.
 
 ### Antihistamines
 
@@ -165,7 +192,7 @@ Amphetamines may delay intestinal absorption of ethosuximide.
 
 ### Haloperidol
 
-Haloperidol blocks dopamine and norepinephrine reuptake, thus inhibiting the central stimulant affects of amphetamines.
+Haloperidol blocks dopamine and norepinephrine reuptake, thus inhibiting the central stimulant effects of amphetamines.
 
 ### Lithium carbonate
 
@@ -186,11 +213,11 @@ Amphetamines enhance the adrenergic effect of norepinephrine.
 ### Phenobarbital
 
 Amphetamines may delay intestinal absorption of Phenobarbital.
-Co-administration of phenobarbital may produce a synergistic anticonvulsant action.
+Co- administration of phenobarbital may produce a synergistic anticonvulsant action.
 
 ### Phenytoin
 
-Amphetamines may delay intestinal absorption of phenytoin; co-administration of phenytoin may produce a synergistic anticonvulsant action.
+Amphetamines may delay intestinal absorption of phenytoin; co- administration of phenytoin may produce a synergistic anticonvulsant action.
 
 ### Propoxyphene
 
@@ -208,7 +235,7 @@ Amphetamines may interfere with urinary steroid determinations.
 
 ## Carcinogenesis/Mutagenesis
 
-Mutagenicity studies and long term studies in animals to determine the carcinogenic potential of amphetamine sulfate have not been performed.
+Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of amphetamine sulfate have not been performed.
 
 ## Pregnancy
 
@@ -236,9 +263,6 @@ Long-term effects of amphetamines in children have not been well established.
 Amphetamines are not recommended for use as anorectic agents in children under 12 years of age, or in children under 3 years of age with Attention Deficit Disorder with Hyperactivity described under INDICATIONS AND USAGE.
 
 Clinical experience suggests that in psychotic children, administration of amphetamines may exacerbate symptoms of behavior disturbance and thought disorder.
-
-Amphetamines have been reported to exacerbate motor and phonic tics and Tourette's syndrome.
-Therefore clinical evaluation for tics and Tourette's syndrome in children and their families should precede use of stimulant medications.
 
 Data is inadequate to determine whether chronic administration of amphetamines may be associated with growth inhibition; therefore growth should be monitored during treatment.
 Drug Treatment is not indicated in all cases of Attention Deficit Disorder with Hyperactivity and should be considered only in light of the complete history and evaluation of the child.

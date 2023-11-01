@@ -1,6 +1,6 @@
-Manufactured for: Arbor Pharmaceuticals, LLC Atlanta, GA 30328
+Manufactured for:
 
-AM-PI-11
+Arbor Pharmaceuticals, LLC Atlanta, GA 30328
 
 Rev.
-01/22
+10/2023 AM-PI-12
