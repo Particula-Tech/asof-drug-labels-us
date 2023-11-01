@@ -14,6 +14,8 @@ for Injection
 
 Rx Only
 
+GSK
+
 For subcutaneous injection after reconstitution.
 
 Reconstituted solution contains 100mg/mL.
@@ -29,13 +31,13 @@ No U.S. standard of potency.
 
 1 vial
 
-Do not accept if plastic overseal is missing or not securely fitted.
+Do not accept if glued carton seals are broken.
 
-©2019 GSK group of companies or its licensor.
+©2023 GSK group of companies or its licensor.
 
 - Rev.
-  9/19
-- 62000000043659
+  4/23
+- 62000000087874
 
 PRINCIPAL DISPLAY PANEL
 
@@ -48,6 +50,8 @@ Nucala
 100 mg/mL
 
 Rx Only
+
+GSK
 
 Prefilled Autoinjector
 
@@ -64,12 +68,12 @@ Prefilled Autoinjector
 
 -Patient Information
 
-©2019 GSK group of companies or its licensor.
+©2023 GSK group of companies or its licensor.
 
 Do not accept if security seal is missing or broken.
 
-1. 62000000038009 Rev.
-   4/19
+1. 62000000087671 Rev.
+   5/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -85,6 +89,8 @@ Injection
 
 Rx Only
 
+GSK
+
 Prefilled Syringe
 
 For subcutaneous use only.
@@ -99,9 +105,11 @@ Contents:
 
 - Patient Information
 
-©2022 GSK group of companies or its licensor.
+©2023 GSK group of companies or its licensor.
+
+Do not accept if security seal is missing or broken.
 
 Rev.
-3/22
+4/23
 
-62000000077331
+62000000087781

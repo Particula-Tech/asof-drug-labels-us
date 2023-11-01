@@ -47,9 +47,9 @@ Reconstitution Instructions
    Small air bubbles, however, are expected and acceptable.
    If particulate matter remains in the solution or if the solution appears cloudy or milky, the solution must not be administered.
 5. 5.If the reconstituted solution is not used immediately:
-   1. 1.store below 30°C (86°F),
-   2. 2.do not freeze, and
-   3. 3.discard if not used within 8 hours of reconstitution.
+   1. •store below 30°C (86°F),
+   2. •do not freeze, and
+   3. •discard if not used within 8 hours of reconstitution.
 
 Administration of 100-mg Dose
 
