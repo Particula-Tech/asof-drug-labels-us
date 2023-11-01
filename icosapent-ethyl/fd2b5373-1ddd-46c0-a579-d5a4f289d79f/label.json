@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA217844"
+  ],
+  "inn": "icosapent-ethyl",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "69238-2597-7",
+    "69238-2598-8"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "icosapent ethyl",
+      "name": "Icosapent ethyl"
+    }
+  ],
+  "setid": "fd2b5373-1ddd-46c0-a579-d5a4f289d79f",
+  "source": "dailymed"
+}
