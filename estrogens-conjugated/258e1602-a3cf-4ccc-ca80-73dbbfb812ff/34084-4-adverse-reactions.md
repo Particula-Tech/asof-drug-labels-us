@@ -2,8 +2,8 @@
 
 The following serious adverse reactions are discussed elsewhere in labeling:
 
-- Cardiovascular Disorders [see Boxed Warning, Warnings and Precautions (5.1)]
-- Malignant Neoplasms [see Boxed Warning, Warnings and Precautions (5.2)]
+- •Cardiovascular Disorders [see Boxed Warning, Warnings and Precautions (5.1)]
+- •Malignant Neoplasms [see Boxed Warning, Warnings and Precautions (5.2)]
 
 ## 6.1 Clinical Study Experience
 

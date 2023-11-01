@@ -4,11 +4,11 @@
 
 PREMARIN (conjugated estrogens tablets, USP)
 
-- — Each oval green tablet contains 0.3 mg, in bottles of 100 (NDC 0046-1100-81) and 1,000 (NDC 0046-1100-91).
-- — Each oval blue tablet contains 0.45 mg, in bottles of 100 (NDC 0046-1101-81).
-- — Each oval maroon tablet contains 0.625 mg, in bottles of 100 (NDC 0046-1102-81) and 1,000 (NDC 0046-1102-91).
-- — Each oval white tablet contains 0.9 mg, in bottles of 100 (NDC 0046-1103-81).
-- — Each oval yellow tablet contains 1.25 mg, in bottles of 100 (NDC 0046-1104-81) and 1,000 (NDC 0046-1104-91).
+- • Each oval green tablet contains 0.3 mg, in bottles of 100 (NDC 0046-1100-81) and 1,000 (NDC 0046-1100-91).
+- • Each oval blue tablet contains 0.45 mg, in bottles of 100 (NDC 0046-1101-81).
+- • Each oval maroon tablet contains 0.625 mg, in bottles of 100 (NDC 0046-1102-81) and 1,000 (NDC 0046-1102-91).
+- • Each oval white tablet contains 0.9 mg, in bottles of 100 (NDC 0046-1103-81).
+- • Each oval yellow tablet contains 1.25 mg, in bottles of 100 (NDC 0046-1104-81) and 1,000 (NDC 0046-1104-91).
 
 The appearance of these tablets is a trademark of Wyeth LLC.
 
