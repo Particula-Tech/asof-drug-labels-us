@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA074925"
+  ],
+  "inn": "clonazepam",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-769-90",
+    "62135-770-90",
+    "62135-771-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "clonazepam",
+      "name": "Clonazepam"
+    }
+  ],
+  "setid": "7b543f77-4388-4227-942f-7933f200b3a5",
+  "source": "dailymed"
+}
