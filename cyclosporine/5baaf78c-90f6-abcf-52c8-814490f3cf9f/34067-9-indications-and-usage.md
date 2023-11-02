@@ -12,6 +12,6 @@ Cyclosporine capsules (modified) can be used in combination with methotrexate in
 
 Psoriasis
 
-Cyclosporine capsules (modified) is indicated for the treatment of adult, nonimmunocompromised patients with severe (i.e., extensive and/or disabling), recalcitrant, plaque psoriasis who have failed to respond to at least one systemic therapy (e.g., PUVA, retinoids, or methotrexate) or in patients for whom other systemic therapies are contraindicated, or cannot be tolerated.
+Cyclosporine capsules (modified) is indicated for the treatment of adult, nonimmunocompromised patients with severe (i.e., extensive and/or disabling), recalcitrant, plaque psoriasis who have failed to respond to at least one systemic therapy (e.g., PUVA, retinoids, or methotrexate) or in patients for whom other systemic therapies are contraindicated or cannot be tolerated.
 
 While rebound rarely occurs, most patients will experience relapse with cyclosporine capsules (modified) as with other therapies upon cessation of treatment.

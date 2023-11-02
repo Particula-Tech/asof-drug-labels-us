@@ -59,7 +59,7 @@ Based on the historical experience with Sandimmune®, the following reactions oc
 | Miscellaneous |  |  |  |  |  |
 | Gynecomastia | < 1 | 0 | < 1 | 4 | 3 |
 
-Among 705 kidney transplant patients treated with cyclosporine oral solution (Sandimmune®) in clinical trials, the reason for treatment discontinuation was renal toxicity in 5.4%, infection in 0.9%, lack of efficacy in 1.4%, acute tubular necrosis in 1.0%, lymphoproliferative disorders in 0.3%, hypertension in 0.3%, and other reasons in 0.7% of the patients.
+Among 705 kidney transplant patients treated with cyclosporine oral solution (Sandimmune®) in clinical trials, the reason for treatment discontinuation was renal toxicity in 5.4%, infection in 0.9%, lack of efficacy in 1.4%, acute tubular necrosis in 1%, lymphoproliferative disorders in 0.3%, hypertension in 0.3%, and other reasons in 0.7% of the patients.
 
 The following reactions occurred in 2% or less of cyclosporine-treated patients: allergic reactions, anemia, anorexia, confusion, conjunctivitis, edema, fever, brittle fingernails, gastritis, hearing loss, hiccups, hyperglycemia, migraine (cyclosporine capsules (modified)), muscle pain, peptic ulcer, thrombocytopenia, tinnitus.
 
@@ -68,8 +68,7 @@ The following reactions occurred rarely: anxiety, chest pain, constipation, depr
 Patients receiving immunosuppressive therapies, including cyclosporine and cyclosporine -containing regimens, are at increased risk of infections (viral, bacterial, fungal, parasitic).
 Both generalized and localized infections can occur.
 Pre-existing infections may also be aggravated.
-Fatal outcomes have been reported.
-(See WARNINGS)
+Fatal outcomes have been reported (see WARNINGS).
 
 | Infectious Complications in Historical Randomized Studies in Renal Transplant Patients Using Sandimmune® |  |  |
 | --- | --- | --- |
@@ -91,13 +90,11 @@ Postmarketing Experience, Kidney, Liver and Heart Transplantation
 
 Hepatotoxicity
 
-Cases of hepatotoxicity and liver injury including cholestasis, jaundice, hepatitis and liver failure; serious and/or fatal outcomes have been reported.
-(See WARNINGS, Hepatotoxicity)
+Cases of hepatotoxicity and liver injury, including cholestasis, jaundice, hepatitis and liver failure; serious and/or fatal outcomes have been reported (see WARNINGS, Hepatotoxicity).
 
 Increased Risk of Infections
 
-Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), sometimes fatal; and polyoma virus-associated nephropathy (PVAN), especially BK virus resulting in graft loss have been reported.
-(See WARNINGS, Polyoma Virus Infection)
+Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), sometimes fatal; and polyoma virus-associated nephropathy (PVAN), especially BK virus resulting in graft loss have been reported (see WARNINGS, Polyoma Virus Infection).
 
 Headache, including Migraine
 
@@ -111,7 +108,7 @@ Pain of lower extremities has also been noted as part of Calcineurin-Inhibitor I
 
 Rheumatoid Arthritis
 
-The principal adverse reactions associated with the use of cyclosporine in rheumatoid arthritis are renal dysfunction (See WARNINGS), hypertension (See PRECAUTIONS), headache, gastrointestinal disturbances, and hirsutism/hypertrichosis.
+The principal adverse reactions associated with the use of cyclosporine in rheumatoid arthritis are renal dysfunction (see WARNINGS), hypertension (see PRECAUTIONS), headache, gastrointestinal disturbances, and hirsutism/hypertrichosis.
 
 In rheumatoid arthritis patients treated in clinical trials within the recommended dose range, cyclosporine therapy was discontinued in 5.3% of the patients because of hypertension and in 7% of the patients because of increased creatinine.
 These changes are usually reversible with timely dose decrease or drug discontinuation.
@@ -200,7 +197,7 @@ The following adverse events occurred in controlled clinical trials:
 |  | Urinary Tract Infection | 0% | 3% | 5% | 4% | 3% | 0% |
 | Vascular (Extracardiac) Disorders |  |  |  |  |  |  |  |
 |  | Purpura | 3% | 4% | 1% | 1% | 2% | 0% |
-| †Includes patients in 2.5 mg/kg/day dose group. *NOS=Not Otherwise Specified. |  |  |  |  |  |  |  |
+| †Includes patients in 2.5 mg/kg/day dose group only. *NOS=Not Otherwise Specified. |  |  |  |  |  |  |  |
 
 In addition, the following adverse events have been reported in 1% to <3% of the rheumatoid arthritis patients in the cyclosporine treatment group in controlled clinical trials.
 
@@ -246,11 +243,11 @@ Psoriasis
 
 The principal adverse reactions associated with the use of cyclosporine in patients with psoriasis are renal dysfunction, headache, hypertension, hypertriglyceridemia, hirsutism/hypertrichosis, paresthesia or hyperesthesia, influenza-like symptoms, nausea/vomiting, diarrhea, abdominal discomfort, lethargy, and musculoskeletal or joint pain.
 
-In psoriasis patients treated in US controlled clinical studies within the recommended dose range, cyclosporine therapy was discontinued in 1.0% of the patients because of hypertension and in 5.4% of the patients because of increased creatinine.
+In psoriasis patients treated in US controlled clinical studies within the recommended dose range, cyclosporine therapy was discontinued in 1% of the patients because of hypertension and in 5.4% of the patients because of increased creatinine.
 In the majority of cases, these changes were reversible after dose reduction or discontinuation of cyclosporine.
 
 There has been one reported death associated with the use of cyclosporine in psoriasis.
-A 27 year old male developed renal deterioration and was continued on cyclosporine.
+A 27-year-old male developed renal deterioration and was continued on cyclosporine.
 He had progressive renal failure leading to death.
 
 Frequency and severity of serum creatinine increases with dose and duration of cyclosporine therapy.

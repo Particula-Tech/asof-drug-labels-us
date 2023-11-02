@@ -6,7 +6,7 @@ Cyclosporine has been demonstrated to suppress some humoral immunity and to a gr
 The effectiveness of cyclosporine results from specific and reversible inhibition of immunocompetent lymphocytes in the G0- and G1-phase of the cell cycle.
 T-lymphocytes are preferentially inhibited.
 The T- helper cell is the main target, although the T-suppressor cell may also be suppressed.
-Cyclosporine also inhibits lymphokine production and release including interleukin-2.
+Cyclosporine also inhibits lymphokine production and release, including interleukin-2.
 
 No effects on phagocytic function (changes in enzyme secretions, chemotactic migration of granulocytes, macrophage migration, carbon clearance in vivo) have been detected in animals.
 Cyclosporine does not cause bone marrow suppression in animal models or man.
@@ -25,7 +25,7 @@ Cyclosporine capsules [MODIFIED] and cyclosporine oral solution [MODIFIED] are b
 
 The relationship between administered dose and exposure (area under the concentration versus time curve, AUC) is linear within the therapeutic dose range.
 The intersubject variability (total, %CV) of cyclosporine exposure (AUC) when cyclosporine capsule (modified) or Sandimmune® is administered ranges from approximately 20% to 50% in renal transplant patients.
-This intersubject variability contributes to the need for individualization of the dosing regimen for optimal therapy (See DOSAGE AND ADMINISTRATION).
+This intersubject variability contributes to the need for individualization of the dosing regimen for optimal therapy (see DOSAGE AND ADMINISTRATION).
 Intrasubject variability of AUC in renal transplant recipients (%CV) was 9% to 21% for cyclosporine capsule (modified) and 19% to 26% for Sandimmune®.
 In the same studies, intrasubject variability of trough concentrations (%CV) was 17% to 30% for cyclosporine capsule (modified) and 16% to 38% for Sandimmune®.
 
@@ -39,18 +39,18 @@ The dose normalized AUC in de novo liver transplant patients administered cyclos
 AUC and Cmax are also increased (cyclosporine capsule (modified) relative to Sandimmune®) in heart transplant patients, but data are very limited.
 Although the AUC and Cmax values are higher on cyclosporine capsule (modified) relative to Sandimmune®, the predose trough concentrations (dose-normalized) are similar for the two formulations.
 
-Following oral administration of cyclosporine capsule (modified), the time to peak blood cyclosporine concentrations (Tmax) ranged from 1.5 to 2.0 hours.
+Following oral administration of cyclosporine capsule (modified), the time to peak blood cyclosporine concentrations (Tmax) ranged from 1.5 to 2 hours.
 The administration of food with cyclosporine capsule (modified) decreases the cyclosporine AUC and Cmax.
 A high fat meal (669 kcal, 45 grams fat) consumed within one-half hour before cyclosporine capsule (modified) administration decreased the AUC by 13% and Cmax by 33%.
+The effects of a low-fat meal (667 kcal, 15 grams fat) were similar.
 
-The effects of a low fat meal (667 kcal, 15 grams fat) were similar.
 The effect of T-tube diversion of bile on the absorption of cyclosporine from cyclosporine capsule (modified) was investigated in eleven de novo liver transplant patients.
-When the patients were administered cyclosporine capsule (modified) with and without T- tube diversion of bile, very little difference in absorption was observed, as measured by the change in maximal cyclosporine blood concentrations from pre-dose values with the T-tube closed relative to when it was open: 6.9±41% (range -55% to 68%).
+When the patients were administered cyclosporine capsule (modified) with and without T- tube diversion of bile, very little difference in absorption was observed, as measured by the change in maximal cyclosporine blood concentrations from pre-dose values with the T-tube closed relative to when it was open: 6.9±41% (range 55% to 68%).
 
 | Pharmacokinetic Parameters (mean±SD) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Dose/day1 | Dose/weight | AUC2 | C max | Trough3 | CL/F | CL/F |
-| Patient Population | (mgd) | (mg/kg/d) | (ng·hr/mL) | (ng/mL) | (ng/mL) | (mL/min) | (mL/min/kg) |
+| Patient Population | (mg/d) | (mg/kg/d) | (ng·hr/mL) | (ng/mL) | (ng/mL) | (mL/min) | (mL/min/kg) |
 | De novo renal |  |  |  |  |  |  |  |
 | transplant4 | 597±174 | 7.95±2.81 | 8772±2089 | 1802±428 | 361±129 | 593±204 | 7.8±2.9 |
 | Week 4 (N=37) |  |  |  |  |  |  |  |
@@ -64,17 +64,17 @@ When the patients were administered cyclosporine capsule (modified) with and wit
 | De novo psoriasis6 | 189±69.8 | 2.48±0.65 | 2324±1048 | 655±186 | 74.9±46.7 | 723±186 | 10.2±3.9 |
 | Week 4 (N=18) |  |  |  |  |  |  |  |
 
-1Total daily dose was divided into two doses administered every 12 hours
+1Total daily dose was divided into two doses administered every 12 hours.
 
-2AUC was measured over one dosing interval
+2AUC was measured over one dosing interval.
 
-3Trough concentration was measured just prior to the morning cyclosporine capsule (modified) dose, approximately 12 hours after the previous dose
+3Trough concentration was measured just prior to the morning cyclosporine capsule (modified) dose, approximately 12 hours after the previous dose.
 
-4Assay: TDx specific monoclonal fluorescence polarization immunoassay
+4Assay: TDx specific monoclonal fluorescence polarization immunoassay.
 
-5Assay: Cyclo-trac specific monoclonal radioimmunoassay
+5Assay: Cyclo-trac specific monoclonal radioimmunoassay.
 
-6Assay: INCSTAR specific monoclonal radioimmunoassay
+6Assay: INCSTAR specific monoclonal radioimmunoassay.
 
 Distribution
 
@@ -84,14 +84,13 @@ In blood, the distribution is concentration dependent.
 Approximately 33% to 47% is in plasma, 4% to 9% in lymphocytes, 5% to 12% in granulocytes, and 41% to 58% in erythrocytes.
 At high concentrations, the binding capacity of leukocytes and erythrocytes becomes saturated.
 In plasma, approximately 90% is bound to proteins, primarily lipoproteins.
-Cyclosporine is excreted in human milk.
-(See PRECAUTIONS, Nursing Mothers)
+Cyclosporine is excreted in human milk (see PRECAUTIONS, Nursing Mothers).
 
 Metabolism
 
 Cyclosporine is extensively metabolized by the cytochrome P-450 3A enzyme system in the liver, and to a lesser degree in the gastrointestinal tract, and the kidney.
-The metabolism of cyclosporine can be altered by the coadministration of a variety of agents.
-(See PRECAUTIONS, Drug Interactions) At least 25 metabolites have been identified from human bile, feces, blood, and urine.
+The metabolism of cyclosporine can be altered by the coadministration of a variety of agents (see PRECAUTIONS, Drug Interactions).
+At least 25 metabolites have been identified from human bile, feces, blood, and urine.
 The biological activity of the metabolites and their contributions to toxicity are considerably less than those of the parent compound.
 The major metabolites (M1, M9, and M4N) result from oxidation at the 1-beta, 9-gamma, and 4-N-demethylated positions, respectively.
 At steady state following the oral administration of Sandimmune®, the mean AUCs for blood concentrations of M1, M9, and M4N are about 70%, 21%, and 7.5% of the AUC for blood cyclosporine concentrations, respectively.
@@ -105,8 +104,8 @@ Neither dialysis nor renal failure alters cyclosporine clearance significantly.
 
 Drug Interactions
 
-(See PRECAUTIONS, Drug Interactions) When diclofenac or methotrexate was coadministered with cyclosporine in rheumatoid arthritis patients, the AUC of diclofenac and methotrexate, each was significantly increased.
-(See PRECAUTIONS, Drug Interactions) No clinically significant pharmacokinetic interactions occurred between cyclosporine and aspirin, ketoprofen, piroxicam, or indomethacin.
+(See PRECAUTIONS, Drug Interactions) When diclofenac or methotrexate was coadministered with cyclosporine in rheumatoid arthritis patients, the AUC of diclofenac and methotrexate, each was significantly increased (see PRECAUTIONS, Drug Interactions).
+No clinically significant pharmacokinetic interactions occurred between cyclosporine and aspirin, ketoprofen, piroxicam, or indomethacin.
 
 Specific Populations
 
@@ -182,7 +181,7 @@ See Graph below.
 Study 654 enrolled 148 patients who remained with active joint counts of 6 or more despite treatment with maximally tolerated methotrexate doses for at least three months.
 Patients continued to take their current dose of methotrexate and were randomized to receive, in addition, one of the following medications: (1) cyclosporine 2.5 mg/kg/day with dose increases of 0.5 mg/kg/day at weeks 2 and 4 if there was no evidence of toxicity and further increases of 0.5 mg/kg/day at weeks 8 and 16 if a <30% decrease in active joint count occurred without any significant toxicity; dose decreases could be made at any time for toxicity or (2) placebo.
 Treatment duration was 24 weeks.
-The mean cyclosporine dose at the last visit was 2.8 mg/kg/day (range: 1.3–4.1).
+The mean cyclosporine dose at the last visit was 2.8 mg/kg/day (range: 1.3 to 4.1).
 See Graph below.
 
 Study 302 enrolled 299 patients with severe active RA, 99% of whom were unresponsive or intolerant to at least one prior major RA drug.
