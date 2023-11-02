@@ -35,12 +35,12 @@ Take care in choosing a suitable location for administration of this product.
 
 Rx only
 
-IN-003606-06 Rev.
-11/2022
+IN-003606-X8 Rev.
+11/2023
 
 Distributed by:
 
 MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
 
-© 2022 Viatris Inc. ROWASA is a registered trademark of Alaven Pharmaceutical LLC, a Viatris Company.
+© 2023 Viatris Inc. ROWASA is a registered trademark of Alaven Pharmaceutical LLC, a Viatris Company.
 For Medical Inquiries, Call Toll Free: 1-866-210-5949

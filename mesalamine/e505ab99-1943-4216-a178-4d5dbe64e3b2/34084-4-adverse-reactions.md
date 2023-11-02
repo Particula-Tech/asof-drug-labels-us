@@ -48,3 +48,12 @@ Postmarketing cases of severe cutaneous adverse reactions (SJS/TEN, DRESS, and A
 Mild hair loss characterized by “more hair in the comb” but no withdrawal from clinical trials has been observed in 7 of 815 mesalamine patients but none of the placebo-treated patients.
 In the literature there are at least six additional patients with mild hair loss who received either mesalamine or sulfasalazine.
 Retreatment is not always associated with repeated hair loss.
+
+## Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of mesalamine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Renal Disorders
+
+- •Urine discoloration occurring ex-vivo caused by contact of mesalamine including inactive metabolite, with surfaces or water treated with hypochlorite-containing bleach (see PRECAUTIONS: Information for Patients).

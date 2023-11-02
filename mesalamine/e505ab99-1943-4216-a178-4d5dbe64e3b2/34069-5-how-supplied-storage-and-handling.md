@@ -25,3 +25,15 @@ Slight darkening will not affect potency, however, enemas with dark brown conten
 
 NOTE: ROWASA® (mesalamine) Rectal Suspension Enema will cause staining of direct contact surfaces, including but not limited to fabrics, flooring, painted surfaces, marble, granite, vinyl, and enamel.
 Take care in choosing a suitable location for administration of this product.
+
+Rx only
+
+IN-003606-X8 Rev.
+11/2023
+
+Distributed by:
+
+MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
+
+© 2023 Viatris Inc. ROWASA is a registered trademark of Alaven Pharmaceutical LLC, a Viatris Company.
+For Medical Inquiries, Call Toll Free: 1-866-210-5949
