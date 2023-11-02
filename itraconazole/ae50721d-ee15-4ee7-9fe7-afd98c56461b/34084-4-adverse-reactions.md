@@ -53,7 +53,7 @@ Edema, hypokalemia and menstrual disorders have been reported in clinical trials
 
 ## Adverse Events Reported from Other Clinical Trials
 
-A comparative clinical trial in patients who received intravenous itraconazole followed by SPORANOX ®Oral Solution or received Amphotericin B reported the following adverse events in the itraconazole intravenous/SPORANOX ®Oral Solution treatment arm which are not listed above in the subsection "Adverse Events Reported in Oropharnyngeal or Esophageal Candidiasis Trials" or listed below as postmarketing reports of adverse drug reactions: serum creatinine increased, blood urea nitrogen increased, renal function abnormal, hypocalcemia, hypomagnesemia, hypophosphatemia, hypotension, tachycardia and pulmonary infiltration.
+A comparative clinical trial in patients who received intravenous itraconazole followed by SPORANOX ®Oral Solution or received Amphotericin B reported the following adverse events in the itraconazole intravenous/SPORANOX ®Oral Solution treatment arm which are not listed above in the subsection "Adverse Events Reported in Oropharnyngeal or Esophageal Candidiasis Trials" or listed below as post-marketing reports of adverse drug reactions: serum creatinine increased, blood urea nitrogen increased, renal function abnormal, hypocalcemia, hypomagnesemia, hypophosphatemia, hypotension, tachycardia and pulmonary infiltration.
 
 In addition, the following adverse drug reactions were reported in patients who participated in SPORANOX ®Oral Solution clinical trials:
 
@@ -100,7 +100,7 @@ In addition, the following adverse drug reaction was reported in children only w
 Adverse drug reactions that have been first identified during post-marketing experience with SPORANOX ®(all formulations) are listed in Table 4 below.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
 
-Table 4: Postmarketing Reports of Adverse Drug Reactions
+Table 4: Post-marketing Reports of Adverse Drug Reactions
 
 | Blood and Lymphatic System Disorders: | Leukopenia, neutropenia, thrombocytopenia |
 | --- | --- |

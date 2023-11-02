@@ -4,5 +4,3 @@ SPORANOX ®(itraconazole) Oral Solution is available in 150 mL amber glass bottl
 
 Store at or below 25°C (77°F).
 Do not freeze.
-
-Keep out of reach of children.

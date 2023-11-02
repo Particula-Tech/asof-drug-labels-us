@@ -37,7 +37,7 @@ Concomitant administration of SPORANOX ®and felodipine or nisoldipine is contra
 Cases of CHF, peripheral edema, and pulmonary edema have been reported in the post-marketing period among patients being treated for onychomycosis and/or systemic fungal infections.
 (See CONTRAINDICATIONS, CLINICAL PHARMACOLOGY: Special Populations, PRECAUTIONS: Drug Interactions, and ADVERSE REACTIONS: Post-marketing Experiencefor more information.)
 
-## Interaction potential
+## Interaction Potential
 
 SPORANOX ®has a potential for clinically important drug interactions.
 Coadministration of specific drugs with itraconazole may result in changes in efficacy of itraconazole and/or the coadministered drug, life-threatening effects and/or sudden death.
@@ -151,12 +151,13 @@ Table 1: Drug Interactions with SPORANOX ®that Affect Concomitant Drug Concentr
 | Artemether-lumefantrine Quinine |  | Monitor for adverse reactions. |
 | Antimigraine Drugs |  |  |
 | Ergot alkaloids (e.g., dihydroergotamine, ergotamine) |  | Contraindicated during and 2 weeks after SPORANOX ®treatment. |
-| Eletriptan |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary |
+| Eletriptan |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Antineoplastics |  |  |
 | Irinotecan |  | Contraindicated during and 2 weeks after SPORANOX ®treatment. |
 | Venetoclax |  | Contraindicated during the dose initiation and ramp-up phase in patients with CLL/SLL. Refer to the venetoclax prescribing information for dosing and safety monitoring instructions. |
-| Axitinib Bosutinib Cabazitaxel Cabozantinib Ceritinib Cobimetinib Crizotinib Dabrafenib Dasatinib Docetaxel | Ibrutinib Lapatinib Nilotinib Olaparib Pazopanib Sunitinib Trabectedin Trastuzumab-emtansine Vinca alkaloids | Not recommended during and 2 weeks after SPORANOX ®treatment. |
-| Talazoparib |  | Refer to the talazoparib prescribing information for dosing instructions if concomitant use cannot be avoided. |
+| Mobocertinib |  | Avoid use during and 2 weeks after SPORANOX ®treatment. |
+| Axitinib Bosutinib Cabazitaxel Cabozantinib Ceritinib Cobimetinib Crizotinib Dabrafenib Dasatinib Docetaxel | Ibrutinib Lapatinib Nilotinib Olaparib Pazopanib Sunitinib Trabectedin Trastuzumab-emtansine Vinca alkaloids | Avoid use during and 2 weeks after SPORANOX ®treatment. |
+| Entrectinib Pemigatinib Talazoparib |  | Refer to the entrectinib, pemigatinib and talazoparib prescribing information for dosing instructions if concomitant use cannot be avoided. |
 | Glasdegib |  | Refer to the glasdegib prescribing information for safety monitoring if concomitant use cannot be avoided. |
 | Bortezomib Brentuximab-vedotin Busulfan Erlotinib Gefitinib Idelalisib Imatinib Ixabepilone | Nintedanib Panobinostat Ponatinib Ruxolitinib Sonidegib Tretinoin (oral) Vandetanib | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For idelalisib: see also Table 2. |
 | Antipsychotics, Anxiolytics and Hypnotics |  |  |
@@ -180,12 +181,13 @@ Table 1: Drug Interactions with SPORANOX ®that Affect Concomitant Drug Concentr
 | ContraceptivesCYP3A4 inhibitors (including itraconazole) may increase systemic contraceptive hormone concentrations. |  |  |
 | Dienogest Ulipristal |  | Monitor for adverse reactions. |
 | Diuretics |  |  |
-| Eplerenone |  | Contraindicated during and 2 weeks after SPORANOX ®treatment. |
+| Eplerenone Finerenone |  | Contraindicated during and 2 weeks after SPORANOX ®treatment. |
 | Gastrointestinal Drugs |  |  |
 | Cisapride Naloxegol |  | Contraindicated during and 2 weeks after SPORANOX ®treatment. |
 | Aprepitant Loperamide |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Netupitant |  | Monitor for adverse reactions. |
 | Immunosuppressants |  |  |
+| Voclosporin |  | Contraindicated during and for 2 weeks after SPORANOX ®treatment. |
 | Everolimus Sirolimus Temsirolimus (IV) |  | Not recommended during and 2 weeks after SPORANOX ®treatment. |
 | Budesonide (inhalation) Budesonide (non-inhalation) Ciclesonide (inhalation) Cyclosporine (IV) Cyclosporine (non-IV) Dexamethasone | Fluticasone (inhalation) Fluticasone (nasal) Methylprednisolone Tacrolimus (IV) Tacrolimus (oral) | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Lipid-Lowering Drugs |  |  |
@@ -229,8 +231,7 @@ Refer to the approved product labeling to become familiar with the interaction p
 
 Although many of the clinical drug interactions in Table 2 below are based on information with a similar azole antifungal, ketoconazole, these interactions are expected to occur with SPORANOX ®.
 
-Table 2.
-Drug Interactions with Other Drugs that Affect SPORANOX ®Concentrations
+Table 2: Drug Interactions with Other Drugs that Affect SPORANOX ®Concentrations
 
 | Concomitant Drug Within Class | Prevention or Management |
 | --- | --- |
@@ -295,7 +296,7 @@ HP-β-CD has no antifertile effect, and is not mutagenic.
 
 ## Pregnancy
 
-### Teratogenic effects
+### Teratogenic Effects
 
 Itraconazole was found to cause a dose-related increase in maternal toxicity, embryotoxicity, and teratogenicity in rats at dosage levels of approximately 40–160 mg/kg/day (5–20 times the MRHD), and in mice at dosage levels of approximately 80 mg/kg/day (10 times the MRHD).
 Itraconazole has been shown to cross the placenta in a rat model.

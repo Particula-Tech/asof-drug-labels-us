@@ -114,7 +114,7 @@ Candida krusei, Candida glabrataand Candida tropicalisare generally the least su
 
 Itraconazole is not active against Zygomycetes(e.g., Rhizopusspp., Rhizomucorspp., Mucorspp. and Absidiaspp.), Fusariumspp., Scedosporiumspp. and Scopulariopsisspp.
 
-### Cross-resistance
+### Cross-Resistance
 
 In systemic candidosis, if fluconazole-resistant strains of Candidaspecies are suspected, it cannot be assumed that these are sensitive to itraconazole, hence their sensitivity should be tested before the start of itraconazole therapy.
 
