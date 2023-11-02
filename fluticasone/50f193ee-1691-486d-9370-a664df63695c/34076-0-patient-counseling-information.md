@@ -44,7 +44,7 @@ Patients should taper slowly from systemic corticosteroids if transferring to AR
 
 Hypersensitivity Reactions, including Anaphylaxis
 
-Advise patients that hypersensitivity reactions (e.g., urticaria, flushing, allergic dermatitis, bronchospasm), including anaphylaxis, may occur after administration of ARNUITY ELLIPTA.
+Advise patients that hypersensitivity reactions (e.g., anaphylaxis, angioedema, urticaria, flushing, allergic dermatitis, bronchospasm) may occur after administration of ARNUITY ELLIPTA.
 Instruct patients to discontinue ARNUITY ELLIPTA if such reactions occur.
 There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder medications containing lactose; therefore, patients with severe milk protein allergy should not use ARNUITY ELLIPTA.
 [See Warnings and Precautions (5.8).]
@@ -79,4 +79,4 @@ Durham, NC 27701
 
 ©2023 GSK group of companies or its licensor.
 
-ARN:10PI
+ARN:11PI

@@ -89,3 +89,13 @@ Dosages of fluticasone furoate studied were 25, 50, or 100 mcg administered once
 ARNUITY ELLIPTA 50 mcg was studied in 120 subjects (46 females and 74 males) [see Clinical Studies (14.2)].
 Adverse reactions (≥3% and greater than placebo) seen in pediatric subjects were similar to those reported in adult and pediatric subjects aged 12 years and older.
 Adverse reactions occurring in ≥3% of subjects treated with ARNUITY ELLIPTA 50 mcg and greater than placebo were pharyngitis, bronchitis, and viral infection.
+
+## 6.2 Postmarketing Experience
+
+In addition to adverse reactions reported from clinical trials, the following adverse reactions have been identified during postapproval use of ARNUITY ELLIPTA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+These events have been chosen for inclusion due to either their seriousness, frequency of reporting, or causal connection to ARNUITY ELLIPTA or a combination of these factors.
+
+Immune System Disorders
+
+Hypersensitivity reactions including anaphylaxis, angioedema, rash, and urticaria.
