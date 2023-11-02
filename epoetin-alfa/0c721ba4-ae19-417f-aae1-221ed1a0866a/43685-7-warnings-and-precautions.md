@@ -74,10 +74,10 @@ Adverse effects on PFS and/or OS were observed in studies of patients receiving 
 
 Table 2: Randomized, Controlled Studies With Decreased Survival and/or Decreased Locoregional Control
 
-| Study/Tumor/(n) | Hemoglobin Target | Achieved Hemoglobin (Median; Q1, Q3Q1=25th percentile, Q3=75th percentile) | Primary Efficacy Outcome | Adverse Outcome for ESA- containing Arm |
+| Study/Tumor/(n) | Hemoglobin Target | Achieved Hemoglobin (Median; Q1, Q3 Q1=25 th percentile, Q3=75 th percentile) | Primary Efficacy Outcome | Adverse Outcome for ESA- containing Arm |
 | --- | --- | --- | --- | --- |
 | Chemotherapy |  |  |  |  |
-| Study 1 Metastatic breast cancer (n=2098) | ≤12 g/dLThis study did not include a defined hemoglobin target. Doses were titrated to achieve and maintain the lowest hemoglobin level sufficient to avoid transfusion and not to exceed 12 g/dL. | 11.6 g/dL 10.7, 12.1 g/dL | Progression-free survival (PFS) | Decreased progression-free and overall survival |
+| Study 1 Metastatic breast cancer (n=2098) | ≤12 g/dL This study did not include a defined hemoglobin target. Doses were titrated to achieve and maintain the lowest hemoglobin level sufficient to avoid transfusion and not to exceed 12 g/dL. | 11.6 g/dL 10.7, 12.1 g/dL | Progression-free survival (PFS) | Decreased progression-free and overall survival |
 | Study 2 Metastatic breast cancer (n=939) | 12–14 g/dL | 12.9 g/dL; 12.2, 13.3 g/dL | 12-month overall survival | Decreased 12-month survival |
 | Study 3 Lymphoid malignancy (n=344) | 13–15 g/dL (M) 13–14 g/dL (F) | 11 g/dL; 9.8, 12.1 g/dL | Proportion of patients achieving a hemoglobin response | Decreased overall survival |
 | Study 4 Early breast cancer (n=733) | 12.5–13 g/dL | 13.1 g/dL; 12.5, 13.7 g/dL | Relapse-free and overall survival | Decreased 3-year relapse-free and overall survival |
@@ -186,7 +186,7 @@ In addition, do not mix PROCRIT with bacteriostatic saline (which also contains 
 
 Serious and fatal reactions including "gasping syndrome" can occur in neonates and infants treated with benzyl alcohol-preserved drugs, including PROCRIT multiple-dose vials.
 The "gasping syndrome" is characterized by central nervous system depression, metabolic acidosis, and gasping respirations.
-There is a potential for similar risks to fetuses and infants exposed to benzyl alcohol in utero or in breast-fed milk, respectively.
+There is a potential for similar risks to fetuses and infants exposed to benzyl alcohol in uteroor in breast-fed milk, respectively.
 PROCRIT multiple-dose vials contain 11 mg of benzyl alcohol per mL.
 The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Use in Specific Populations (8.1, 8.2, and 8.4)].
 

@@ -15,14 +15,14 @@ Following initiation of therapy and after each dose adjustment, monitor hemoglob
 
 Selection of Formulation
 
-In pregnant women, lactating women, neonates, and infants use only single-dose vials (the benzyl alcohol-free formulation) [see Contraindications (4) and Use in Specific Populations (8.1, 8.2, and 8.4)].
+In pregnant women, lactating women, neonates, and infants use only single-dose vials (the benzyl alcohol-free formulation) [see Contraindications (4)and Use in Specific Populations (8.1, 8.2, and 8.4)].
 
 ## 2.2 Patients with Chronic Kidney Disease
 
 In controlled trials, patients experienced greater risks for death, serious adverse cardiovascular reactions, and stroke when administered erythropoiesis-stimulating agents (ESAs) to target a hemoglobin level of greater than 11 g/dL.
 No trial has identified a hemoglobin target level, ESA dose, or dosing strategy that does not increase these risks.
 Individualize dosing and use the lowest dose of PROCRIT sufficient to reduce the need for RBC transfusions [see Warnings and Precautions (5.1)].
-Physicians and patients should weigh the possible benefits of decreasing transfusions against the increased risks of death and other serious cardiovascular adverse reactions [see Boxed Warning and Clinical Studies (14)].
+Physicians and patients should weigh the possible benefits of decreasing transfusions against the increased risks of death and other serious cardiovascular adverse reactions [see Boxed Warningand Clinical Studies (14)].
 
 For all patients with CKD:
 
@@ -49,7 +49,7 @@ For adult patients with CKD on dialysis:
 
 For adult patients with CKD not on dialysis:
 
-- Consider initiating PROCRIT treatment only when the hemoglobin level is less than 10 g/dL and the following considerations apply:
+- Consider initiating PROCRIT treatment only when the hemoglobin level is less than 10 g/dL andthe following considerations apply:
   - The rate of hemoglobin decline indicates the likelihood of requiring a RBC transfusion and,
   - Reducing the risk of alloimmunization and/or other RBC transfusion-related risks is a goal
 - If the hemoglobin level exceeds 10 g/dL, reduce or interrupt the dose of PROCRIT, and use the lowest dose of PROCRIT sufficient to reduce the need for RBC transfusions.
@@ -106,7 +106,7 @@ Reinitiate at a dose 25% below the previous dose when hemoglobin approaches a le
 
 Dose Increase
 
-After the initial 4 weeks of PROCRIT therapy, if hemoglobin increases by less than 1 g/dL and remains below 10 g/dL, increase dose to:
+After the initial 4 weeks of PROCRIT therapy, if hemoglobin increases by less than 1 g/dL andremains below 10 g/dL, increase dose to:
 
 - 300 Units/kg three times per week in adults or
 - 60,000 Units weekly in adults

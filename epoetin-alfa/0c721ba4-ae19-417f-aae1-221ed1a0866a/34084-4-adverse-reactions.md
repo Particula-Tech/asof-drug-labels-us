@@ -128,7 +128,7 @@ The adverse reactions with a reported incidence of ≥ 1% in PROCRIT-treated pat
 
 Table 7: Adverse Reactions in Surgery Patients
 
-| (n=112)Study included patients undergoing orthopedic surgery treated with PROCRIT or placebo for 15 days. | (n=101) | (n=103) | (n=73)Study included patients undergoing orthopedic surgery treated with PROCRIT 600 U/kg weekly for 4 weeks or 300 U/kg daily for 15 days. | (n=72) |  |
+| (n=112) Study included patients undergoing orthopedic surgery treated with PROCRIT or placebo for 15 days. | (n=101) | (n=103) | (n=73) Study included patients undergoing orthopedic surgery treated with PROCRIT 600 U/kg weekly for 4 weeks or 300 U/kg daily for 15 days. | (n=72) |  |
 | --- | --- | --- | --- | --- | --- |
 | Adverse Reaction | Study S1 |  |  | Study S2 |  |
 | PROCRIT 300 U/kg | PROCRIT 100 U/kg | Placebo | PROCRIT 600 U/kg × 4 weeks | PROCRIT 300 U/kg × 15 days |  |
@@ -138,7 +138,7 @@ Table 7: Adverse Reactions in Surgery Patients
 | Headache | 13% | 11% | 9% | 10% | 18% |
 | Injection site pain | 13% | 9% | 8% | 12% | 11% |
 | Chills | 7% | 4% | 1% | 1% | 0% |
-| Deep vein thrombosis | 6% | 3% | 3% | 0%DVTs were determined by clinical symptoms. | 0% |
+| Deep vein thrombosis | 6% | 3% | 3% | 0% DVTs were determined by clinical symptoms. | 0% |
 | Cough | 5% | 4% | 0% | 4% | 4% |
 | Hypertension | 5% | 3% | 5% | 5% | 6% |
 | Rash | 2% | 2% | 1% | 3% | 3% |

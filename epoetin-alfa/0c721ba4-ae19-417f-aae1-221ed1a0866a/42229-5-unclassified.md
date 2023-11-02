@@ -1,4 +1,4 @@
-PROCRIT® (epoetin alfa)
+PROCRIT ®(epoetin alfa)
 
 Manufactured by:
 
@@ -10,7 +10,7 @@ Janssen Products, LP Horsham, Pennsylvania 19044 © 2000 Janssen Pharmaceutical 
 
 Instructions for Use
 
-PROCRIT® (PRO'–KRIT) (epoetin alfa)
+PROCRIT ®(PRO'–KRIT) (epoetin alfa)
 
 Use these Instructions for Use if you or your caregiver has been trained to give PROCRIT injections at home.
 Do not give yourself the injection unless you have received training from your healthcare provider.
@@ -69,8 +69,7 @@ PROCRIT comes in two different types of vials.
 - Multidose Vials
 
 The multidose vial of PROCRIT contains the preservative benzyl alcohol.
-Benzyl alcohol has been shown to cause brain damage, other serious side effects, and death in newborn and premature babies.
-PROCRIT that comes in single-dose vials does not contain benzyl alcohol.
+Benzyl alcohol has been shown to cause brain damage, other serious side effects, and death in newborn and premature babies.PROCRIT that comes in single-dose vials does not contain benzyl alcohol.
 
 Important: Follow these instructions exactly to help avoid infections.
 
@@ -83,23 +82,23 @@ Preparing the dose:
 4. Gather the other supplies you will need for your injection (vial, syringe, alcohol wipes, cotton ball, and a puncture-proof container for throwing away the syringe and needle).
    See Figure 1.
 
-- 5.Check the date on the PROCRIT vial to be sure that the drug has not expired.
-- 6.Wash your hands well with soap and water before preparing the medicine.
+- Check the date on the PROCRIT vial to be sure that the drug has not expired.
+- Wash your hands well with soap and water before preparing the medicine.
   See Figure 2.
 
-- 7.Flip off the protective color cap on the top of the vial.
+- Flip off the protective color cap on the top of the vial.
   Do not remove the grey rubber stopper.
   Wipe the top of the grey rubber stopper with an alcohol wipe.
-  See Figures 3 and 4.
+  See Figures 3and 4.
 
 | Figure 3 | Figure 4 |
 | --- | --- |
 
-- 8.Check the package containing the syringe.
+- Check the package containing the syringe.
   If the package has been opened or damaged, do not use that syringe.
   Throw away the syringe in the puncture-proof disposable container.
   If the syringe package is undamaged, open the package and remove the syringe.
-- 9.Using a syringe and needle that has been recommended by your healthcare provider, carefully remove the needle cover.
+- Using a syringe and needle that has been recommended by your healthcare provider, carefully remove the needle cover.
   See Figure 5.
   Then draw air into the syringe by pulling back on the plunger.
   The amount of air drawn into the syringe should be equal to the amount (mL or cc) of the PROCRIT dose prescribed by your healthcare provider.
@@ -108,20 +107,20 @@ Preparing the dose:
 | Figure 5 | Figure 6 |
 | --- | --- |
 
-- 10.With the vial on a flat work surface, insert the needle straight down through the grey rubber stopper of the PROCRIT vial.
+- With the vial on a flat work surface, insert the needle straight down through the grey rubber stopper of the PROCRIT vial.
   See Figure 7.
-- 11.Push the plunger of the syringe down to inject the air from the syringe into the vial of PROCRIT.
+- Push the plunger of the syringe down to inject the air from the syringe into the vial of PROCRIT.
   The air injected into the vial will allow PROCRIT to be easily withdrawn into the syringe.
   See Figure 7.
 
-- 12.Keep the needle inside the vial.
+- Keep the needle inside the vial.
   Turn the vial and syringe upside down.
   Be sure the tip of the needle is in the PROCRIT liquid.
   Keep the vial upside down.
   Slowly pull back on the plunger to fill the syringe with PROCRIT liquid to the number (mL or cc) that matches the dose your healthcare provider prescribed.
   See Figure 8.
 
-- 13.Keep the needle in the vial.
+- Keep the needle in the vial.
   Check for air bubbles in the syringe.
   A small amount of air is harmless.
   Too large an air bubble will give you the wrong PROCRIT dose.
@@ -131,12 +130,12 @@ Preparing the dose:
   Pull the plunger back to the number on the syringe that matches your dose.
   Check again for air bubbles.
   If there are still air bubbles, repeat the steps above to remove them.
-  See Figures 9 and 10.
+  See Figures 9and 10.
 
 | Figure 9 | Figure 10 |
 | --- | --- |
 
-- 14.Double-check that you have the correct dose in the syringe.
+- Double-check that you have the correct dose in the syringe.
   Lay the vial down on its side with the needle still in it until after you have selected and prepared your site for injection.
 
 Selecting and preparing the injection site:
@@ -145,7 +144,7 @@ PROCRIT can be injected into your body using two different ways (routes) as desc
 Follow your healthcare provider's instructions about how you should inject PROCRIT.
 In patients on hemodialysis, the intravenous (IV) route is recommended.
 
-- 1.Subcutaneous Route:
+- Subcutaneous Route:
   - PROCRIT can be injected directly into a layer of fat under your skin.
     This is called a subcutaneous injection.
     When giving subcutaneous injections, follow your healthcare provider's instructions about changing the site for each injection.
@@ -172,7 +171,7 @@ In patients on hemodialysis, the intravenous (IV) route is recommended.
     Do not recap the needle.
   - Dispose of the used syringe and needle as described below.
     Do not reuse syringes and needles.
-- 2.Intravenous Route:
+- Intravenous Route:
   - PROCRIT can be injected in your vein through a special access port placed by your healthcare provider.
     This type of PROCRIT injection is called an intravenous (IV) injection.
     This route is usually for hemodialysis patients.

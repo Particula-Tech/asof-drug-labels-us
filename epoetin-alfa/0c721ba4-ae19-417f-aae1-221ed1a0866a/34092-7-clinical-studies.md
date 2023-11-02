@@ -99,8 +99,8 @@ Table 9: Study C1: Proportion of Patients Transfused
 
 | Chemotherapy Regimen | PROCRIT (n=174) | Placebo (n=170) |
 | --- | --- | --- |
-|  | Week 5 Through Week 16 or End of StudyLast-known RBC transfusion status carried forward for patients who discontinued treatment. |  |
-| All Regimens | 14% (25/174)Two-sided p < 0.001, logistic regression analysis adjusting for accrual rate and stratification variables. | 28% (48/170) |
+|  | Week 5 Through Week 16 or End of Study Last-known RBC transfusion status carried forward for patients who discontinued treatment. |  |
+| All Regimens | 14% (25/174) Two-sided p < 0.001, logistic regression analysis adjusting for accrual rate and stratification variables. | 28% (48/170) |
 | Regimens without cisplatin | 14% (21/148) | 26% (35/137) |
 | Regimens containing cisplatin | 15% (4/26) | 39% (13/33) |
 
@@ -125,8 +125,8 @@ Table 10: Proportion of Patients Transfused in the Pooled Analysis for Three Tim
 
 | Chemotherapy Regimen | PROCRIT | Placebo |
 | --- | --- | --- |
-|  | Week 5 Through Week 12 or End of StudyLimited to patients remaining on study beyond week 6 and includes only RBC transfusions during weeks 5–12. |  |
-| All Regimens | 22% (11/51)Two-sided p < 0.05, unadjusted. | 43% (25/58) |
+|  | Week 5 Through Week 12 or End of Study Limited to patients remaining on study beyond week 6 and includes only RBC transfusions during weeks 5–12. |  |
+| All Regimens | 22% (11/51) Two-sided p < 0.05, unadjusted. | 43% (25/58) |
 | Regimens without cisplatin | 21% (6/29) | 33% (11/33) |
 | Regimens containing cisplatin | 23% (5/22) | 56% (14/25) |
 
@@ -147,7 +147,7 @@ Patients were randomly assigned to receive 1 of 2 subcutaneous dosing regimens o
 All patients received oral iron and appropriate pharmacologic anticoagulation therapy.
 
 From pretreatment to presurgery, the mean increase in hemoglobin in the 600 Units/kg weekly group (1.44 g/dL) was greater than that observed in the 300 Units/kg daily group.
-The mean increase in absolute reticulocyte count was smaller in the weekly group (0.11 × 106/mm3) compared to the daily group (0.17 × 106/mm3).
+The mean increase in absolute reticulocyte count was smaller in the weekly group (0.11 × 10 6/mm 3) compared to the daily group (0.17 × 10 6/mm 3).
 Mean hemoglobin levels were similar for the 2 treatment groups throughout the postsurgical period.
 
 The erythropoietic response observed in both treatment groups resulted in similar RBC transfusion rates [11/69 (16%) in the 600 Units/kg weekly group and 14/71 (20%) in the 300 Units/kg daily group].

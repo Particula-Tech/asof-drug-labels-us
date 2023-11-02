@@ -2,9 +2,9 @@
 
 2,000 Units/mL
 
-NDC 59676-302-01 6-1 mL Single-dose vials Discard unused portion.
+NDC59676 -302-01 6-1 mL Single-dose vials Discard unused portion.
 
-PROCRIT® EPOETIN ALFA 2,000 Units/mL
+PROCRIT ® EPOETIN ALFA 2,000 Units/mL
 
 For Intravenous or Subcutaneous Use Only Sterile Solution — No Preservative
 
@@ -20,9 +20,9 @@ Rx only
 
 3,000 Units/mL
 
-NDC 59676-303-01 6-1 mL Single-dose vials Discard unused portion.
+NDC59676 -303-01 6-1 mL Single-dose vials Discard unused portion.
 
-PROCRIT® EPOETIN ALFA 3,000 Units/mL
+PROCRIT ® EPOETIN ALFA 3,000 Units/mL
 
 For Intravenous or Subcutaneous Use Only Sterile Solution — No Preservative
 
@@ -38,9 +38,9 @@ Rx only
 
 4,000 Units/mL
 
-NDC 59676-304-01 6-1 mL Single-dose vials Discard unused portion.
+NDC59676 -304-01 6-1 mL Single-dose vials Discard unused portion.
 
-PROCRIT® EPOETIN ALFA 4,000 Units/mL
+PROCRIT ® EPOETIN ALFA 4,000 Units/mL
 
 For Intravenous or Subcutaneous Use Only Sterile Solution — No Preservative
 
@@ -56,9 +56,9 @@ Rx only
 
 10,000 Units/mL
 
-NDC 59676-310-01 6-1 mL Single-dose vials Discard unused portion.
+NDC59676 -310-01 6-1 mL Single-dose vials Discard unused portion.
 
-PROCRIT® EPOETIN ALFA 10,000 Units/mL
+PROCRIT ® EPOETIN ALFA 10,000 Units/mL
 
 For Intravenous or Subcutaneous Use Only Sterile Solution — No Preservative
 
@@ -74,9 +74,9 @@ Rx only
 
 40,000 Units/mL
 
-NDC 59676-340-01 4-1 mL Single-dose vials Discard unused portion.
+NDC59676 -340-01 4-1 mL Single-dose vials Discard unused portion.
 
-PROCRIT® EPOETIN ALFA 40,000 Units/mL
+PROCRIT ® EPOETIN ALFA 40,000 Units/mL
 
 For Intravenous or Subcutaneous Use Only Sterile Solution — No Preservative
 
@@ -92,9 +92,9 @@ PRINCIPAL DISPLAY PANEL - 20,000 Units/2 mL Vial Carton
 
 20,000 Units/2 mL (10,000 Units/mL)
 
-NDC 59676-312-04 4-2 mL Multiple-dose Vials
+NDC59676-312-04 4-2 mL Multiple-dose Vials
 
-PROCRIT® EPOETIN ALFA
+PROCRIT ® EPOETIN ALFA
 
 20,000 Units/2 mL (10,000 Units/mL)
 
@@ -114,9 +114,9 @@ PRINCIPAL DISPLAY PANEL - 20,000 Unit Vial Carton
 
 20,000 Units/mL
 
-NDC 59676-320-04 4-1 mL Multiple-dose Vials
+NDC59676-320-04 4-1 mL Multiple-dose Vials
 
-PROCRIT® EPOETIN ALFA
+PROCRIT ® EPOETIN ALFA
 
 20,000 Units/mL
 

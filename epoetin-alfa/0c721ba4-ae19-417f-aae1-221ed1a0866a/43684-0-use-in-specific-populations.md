@@ -79,14 +79,14 @@ The mechanism of action of PROCRIT is the same for these two populations.
 Published literature also has reported the use of PROCRIT in pediatric patients with CKD not requiring dialysis.
 Dose-dependent increases in hemoglobin and hematocrit were observed with reductions in transfusion requirements.
 
-The safety data from the pediatric studies and postmarketing reports are similar to those obtained from the studies of PROCRIT in adult patients with CKD [see Warnings and Precautions (5) and Adverse Reactions (6.1)].
+The safety data from the pediatric studies and postmarketing reports are similar to those obtained from the studies of PROCRIT in adult patients with CKD [see Warnings and Precautions (5)and Adverse Reactions (6.1)].
 Postmarketing reports do not indicate a difference in safety profiles in pediatric patients with CKD requiring dialysis and not requiring dialysis.
 
 Pediatric Patients with Cancer on Chemotherapy
 
 PROCRIT is indicated in patients 5 to 18 years old for the treatment of anemia due to concomitant myelosuppressive chemotherapy.
 Safety and effectiveness in pediatric patients less than 5 years of age have not been established [see Clinical Studies (14.3)].
-The safety data from these studies are similar to those obtained from the studies of PROCRIT in adult patients with cancer [see Warnings and Precautions (5.1, 5.2) and Adverse Reactions (6.1)].
+The safety data from these studies are similar to those obtained from the studies of PROCRIT in adult patients with cancer [see Warnings and Precautions (5.1, 5.2)and Adverse Reactions (6.1)].
 
 Pediatric Patients With HIV-infection Receiving Zidovudine
 
