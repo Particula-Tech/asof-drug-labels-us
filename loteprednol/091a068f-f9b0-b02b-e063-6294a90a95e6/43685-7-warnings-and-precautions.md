@@ -1,0 +1,37 @@
+# 5 WARNINGS AND PRECAUTIONS
+
+## 5.1 Intraocular Pressure (IOP) Increase
+
+Prolonged use of corticosteroids, including loteprednol etabonate ophthalmic gel, may result in glaucoma with damage to the optic nerve, defects in visual acuity and fields of vision.
+Steroids should be used with caution in the presence of glaucoma.
+If this product is used for 10 days or longer, intraocular pressure should be monitored.
+
+## 5.2 Cataracts
+
+Use of corticosteroids may result in posterior subcapsular cataract formation.
+
+## 5.3 Delayed Healing
+
+The use of steroids after cataract surgery may delay healing and increase the incidence of bleb formation.
+In those diseases causing thinning of the cornea or sclera, perforations have been known to occur with the use of topical steroids.
+The initial prescription and renewal of the medication order should be made by a physician only after examination of the patient with the aid of magnification such as slit lamp biomicroscopy and, where appropriate, fluorescein staining.
+
+## 5.4 Bacterial Infections
+
+Prolonged use of corticosteroids may suppress the host response and thus increase the hazard of secondary ocular infections.
+In acute purulent conditions of the eye, steroids may mask infection or enhance existing infection.
+
+## 5.5 Viral Infections
+
+Employment of a corticosteroid medication in the treatment of patients with a history of herpes simplex requires great caution.
+Use of ocular steroids may prolong the course and may exacerbate the severity of many viral infections of the eye (including herpes simplex).
+
+## 5.6 Fungal Infections
+
+Fungal infections of the cornea are particularly prone to develop coincidentally with long-term local steroid application.
+Fungus invasion must be considered in any persistent corneal ulceration where a steroid has been used or is in use.
+Fungal cultures should be taken when appropriate.
+
+## 5.7 Contact Lens Wear
+
+Patients should not wear contact lenses during their course of therapy with loteprednol etabonate ophthalmic gel.

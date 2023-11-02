@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA212080"
+  ],
+  "inn": "loteprednol",
+  "labeler": "ARMAS PHARMACEUTICALS INC.",
+  "package_ndcs": [
+    "72485-630-05"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "loteprednol etabonate",
+      "name": "Loteprednol Etabonate"
+    }
+  ],
+  "setid": "091a068f-f9b0-b02b-e063-6294a90a95e6",
+  "source": "dailymed"
+}
