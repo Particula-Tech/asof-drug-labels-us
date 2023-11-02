@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050023"
+  ],
+  "inn": "dexamethasone",
+  "labeler": "Harrow Eye, LLC",
+  "package_ndcs": [
+    "82667-100-05"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "neomycin sulfate, polymyxin b sulfate and dexamethasone",
+      "name": "Maxitrol"
+    }
+  ],
+  "setid": "ecfb954f-5554-0ad2-e053-2995a90a7516",
+  "source": "dailymed"
+}
