@@ -65,7 +65,7 @@ Recommended Maintenance Dose (in micrograms given once daily) of Digoxin Injecti
 
 | kg | 40 | 50 | 60 | 70 | 80 | 90 | 100 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Corrected Creatinine Clearance For adults, creatinine clearance was corrected to 70-kg body weight or 1.73 m 2 body surface area. If only serum creatinine concentrations (Scr) are available, a corrected Ccr may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. For pediatric patients, the modified Schwartz equation may be used. The formula is based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m 2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m 2) = (k x Height)/Scr | Lean Body WeightThe doses listed assume average body composition. |  |  |  |  |  |  |  | Number of Days Before Steady State AchievedIf no loading dose administered |
+| Corrected Creatinine ClearanceFor adults, creatinine clearance was corrected to 70-kg body weight or 1.73 m2 body surface area. If only serum creatinine concentrations (Scr) are available, a corrected Ccr may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. For pediatric patients, the modified Schwartz equation may be used. The formula is based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m2) = (k x Height)/Scr | Lean Body WeightThe doses listed assume average body composition. |  |  |  |  |  |  |  | Number of Days Before Steady State AchievedIf no loading dose administered |
 | 10 mL/min |  | 64 | 80 | 96 | 112 | 128 | 144 | 160 | 19 |
 | 20 mL/min |  | 72 | 90 | 108 | 126 | 144 | 162 | 180 | 16 |
 | 30 mL/min |  | 80 | 100 | 120 | 140 | 160 | 180 | 200 | 14 |
@@ -98,10 +98,10 @@ Recommended Starting Digoxin Injection Maintenance Dosage in Pediatric Patients 
 Table 5 provides average daily maintenance dose requirements for pediatric patients less than 10 years old (to be given twice daily) with heart failure based on age, lean body weight, and renal function.
 
 Table 5.
-Recommended Maintenance Dose (in micrograms given TWICE daily) of Digoxin Injection in Pediatric Patients Less Than 10 Years of Age Recommended are doses to be given twice daily.
+Recommended Maintenance Dose (in micrograms given TWICE daily) of Digoxin Injection in Pediatric Patients Less Than 10 Years of AgeRecommended are doses to be given twice daily.
 Based upon Lean Body Weight and Renal Function
 
-| Corrected Creatinine Clearance The modified Schwartz equation may be used to estimate creatinine clearance. See footnote * under Table 3. | kg | 5 | 10 | 20 | 30 | 40 | 50 | 60 | Number of Days Before Steady State AchievedIf no loading dose administered. |
+| Corrected Creatinine ClearanceThe modified Schwartz equation may be used to estimate creatinine clearance. See footnote * under Table 3. | kg | 5 | 10 | 20 | 30 | 40 | 50 | 60 | Number of Days Before Steady State AchievedIf no loading dose administered. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Lean Body Weight |  |  |  |  |  |  |  |  |
 | 10 mL/min |  | 8 | 16 | 32 | 48 | 64 | 80 | 96 | 19 |

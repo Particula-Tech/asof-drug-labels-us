@@ -2,8 +2,8 @@
 
 The following adverse reactions are included in more detail in the Warnings and Precautions section of the label:
 
-- Cardiac arrhythmias [see Warnings and Precautions (5.1, 5.2)]
-- Digoxin Toxicity [see Warnings and Precautions (5.3)]
+- •Cardiac arrhythmias [see Warnings and Precautions (5.1, 5.2)]
+- •Digoxin Toxicity [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 

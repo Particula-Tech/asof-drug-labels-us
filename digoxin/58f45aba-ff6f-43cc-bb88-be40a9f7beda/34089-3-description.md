@@ -6,8 +6,8 @@ Digoxin is extracted from the leaves of Digitalis lanata.
 The term “digitalis” is used to designate the whole group of glycosides.
 The glycosides are composed of 2 portions: a sugar and a cardenolide (hence “glycosides”).
 
-Digoxin is described chemically as (3β,5β,12β)-3-[(O-2,6-dideoxy-β- D-ribo-hexopyranosyl-(1→4)- O-2,6-dideoxy-β- D-ribo-hexopyranosyl-(1→4)-2,6-dideoxy-β- D-ribo-hexopyranosyl)oxy]-12,14-dihydroxy-card-20(22)-enolide.
-Its molecular formula is C 41H 64O 14, its molecular weight is 780.95, and its structural formula is:
+Digoxin is described chemically as (3β,5β,12β)-3-[(O-2,6-dideoxy-β-D-ribo-hexopyranosyl-(1→4)-O-2,6-dideoxy-β-D-ribo-hexopyranosyl-(1→4)-2,6-dideoxy-β-D-ribo-hexopyranosyl)oxy]-12,14-dihydroxy-card-20(22)-enolide.
+Its molecular formula is C41H64O14, its molecular weight is 780.95, and its structural formula is:
 
 Digoxin exists as clear to white odorless crystals or white, odorless crystalline powder that melts with decomposition above 230°C.
 The drug is practically insoluble in water and in ether; slightly soluble in diluted (50%) alcohol and in chloroform; and freely soluble in pyridine.
