@@ -49,6 +49,8 @@ Instruct patients to notify their healthcare provider if they notice a medicatio
 
 [see Warnings and Precautions (5.18)].
 
+*Brands listed are the trademarks of their respective owners.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
@@ -65,4 +67,4 @@ Goa 403 722
 
 INDIA.
 
-Revised: April 2023 ID#: 273196
+Revised: October 2023 ID#: XXXXXX

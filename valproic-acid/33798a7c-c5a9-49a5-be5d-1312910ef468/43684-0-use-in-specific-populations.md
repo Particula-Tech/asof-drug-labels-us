@@ -172,14 +172,14 @@ Pediatric Clinical Trials
 
 Divalproex sodium was studied in seven pediatric clinical trials.
 
-Two of the pediatric studies were double-blinded placebo-controlled trials to evaluate the efficacy of divalproex sodium extended-release tablets for the indications of mania (150 patients aged 10 to 17 years, 76 of whom were on divalproex sodium extended-release tablets) and migraine (304 patients aged 12 to 17 years, 231 of whom were on divalproex sodium extended-release tablets).
+Two of the pediatric studies were double-blinded placebo-controlled trials to evaluate the efficacy of Depakote ER Tablets* for the indications of mania (150 patients aged 10 to 17 years, 76 of whom were on Depakote ER Tablets*) and migraine (304 patients aged 12 to 17 years, 231 of whom were on Depakote ER Tablets*).
 Efficacy was not established for either the treatment of migraine or the treatment of mania.
 The most common drug-related adverse reactions (reported >5% and twice the rate of placebo) reported in the controlled pediatric mania study were nausea, upper abdominal pain, somnolence, increased ammonia, gastritis and rash.
 
 The remaining five trials were long term safety studies.
-Two six-month pediatric studies were conducted to evaluate the long-term safety of divalproex sodium extended-release tablets for the indication of mania (292 patients aged 10 to 17 years).
-Two twelve-month pediatric studies were conducted to evaluate the long-term safety of divalproex sodium extended-release tablets for the indication of migraine (353 patients aged 12 to 17 years).
-One twelve-month study was conducted to evaluate the safety of divalproex sodium sprinkle capsules in the indication of partial seizures (169 patients aged 3 to 10 years).
+Two six-month pediatric studies were conducted to evaluate the long-term safety of Depakote ER Tablets* for the indication of mania (292 patients aged 10 to 17 years).
+Two twelve-month pediatric studies were conducted to evaluate the long-term safety of Depakote ER Tablets* for the indication of migraine (353 patients aged 12 to 17 years).
+One twelve-month study was conducted to evaluate the safety of Depakote Sprinkle Capsules* in the indication of partial seizures (169 patients aged 3 to 10 years).
 
 In these seven clinical trials, the safety and tolerability of divalproex sodium in pediatric patients were shown to be comparable to those in adults [see Adverse Reactions (6)].
 
