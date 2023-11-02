@@ -53,7 +53,7 @@ Adverse Reactions Associated With Discontinuation of Treatment in Short-Term, Pl
 Approximately 4.1% (29/702) of ziprasidone-treated patients in short-term, placebo-controlled studies discontinued treatment due to an adverse reaction, compared with about 2.2% (6/273) on placebo.
 The most common reaction associated with dropout was rash, including 7 dropouts for rash among ziprasidone patients (1%) compared to no placebo patients [see Warnings and Precautions (5.8)].
 
-Adverse Reactions Occurring at an Incidence of 2% or More among Ziprasidone-Treated Patients in Short-Term, Oral, Placebo-Controlled Trials
+Adverse Reactions Occurring at an Incidence of 2% or More Among Ziprasidone-Treated Patients in Short-Term, Oral, Placebo-Controlled Trials
 
 Table 11 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during acute therapy (up to 6 weeks) in predominantly patients with schizophrenia, including only those reactions that occurred in 2% or more of patients treated with ziprasidone and for which the incidence in patients treated with ziprasidone was greater than the incidence in placebo-treated patients.
 
@@ -61,7 +61,7 @@ Table 11: Treatment-Emergent Adverse Reaction Incidence In Short-Term Oral Place
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| Body System/Adverse Reaction | Ziprasidone(N=702) | Placebo (N=273) |
+| Body System/Adverse Reaction | Ziprasidone (N=702) | Placebo (N=273) |
 | Body as a Whole |  |  |
 | Asthenia | 5 | 3 |
 | Accidental Injury | 4 | 2 |
@@ -114,7 +114,7 @@ In the schizophrenia trials, ziprasidone was associated with a mean increase in 
 
 Other Adverse Reactions Observed During the Premarketing Evaluation of Oral Ziprasidone
 
-Following is a list of COSTART terms that reflect treatment-emergent adverse reactions as defined in the introduction to the ADVERSE REACTIONS section reported by patients treated with ziprasidone in schizophrenia trials at multiple doses >4 mg/day within the database of 3834 patients.
+Following is a list of COSTART terms that reflect treatment-emergent adverse reactions as defined in the introduction to the ADVERSE REACTIONSsection reported by patients treated with ziprasidone in schizophrenia trials at multiple doses >4 mg/day within the database of 3834 patients.
 All reported reactions are included except those already listed in Table 11 or elsewhere in labeling, those reaction terms that were so general as to be uninformative, reactions reported only once and that did not have a substantial probability of being acutely life-threatening, reactions that are part of the illness being treated or are otherwise common as background reactions, and reactions considered unlikely to be drug-related.
 It is important to emphasize that, although the reactions reported occurred during treatment with ziprasidone, they were not necessarily caused by it.
 
@@ -219,7 +219,7 @@ Table 12: Treatment-Emergent Adverse Reactions Incidence In Short-Term Oral Plac
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| Body System/Adverse Reaction | Ziprasidone(N=279) | Placebo(N=136) |
+| Body System/Adverse Reaction | Ziprasidone (N=279) | Placebo(N=136) |
 | Body as a Whole |  |  |
 | Headache | 18 | 17 |
 | Asthenia | 6 | 2 |
@@ -253,7 +253,9 @@ Table 12: Treatment-Emergent Adverse Reactions Incidence In Short-Term Oral Plac
 | Abnormal Vision | 6 | 3 |
 
 * Extrapyramidal Symptoms includes the following adverse reaction terms: extrapyramidal syndrome, hypertonia, dystonia, dyskinesia, hypokinesia, tremor, paralysis and twitching.
-None of these adverse reactions occurred individually at an incidence greater than 10% in bipolar mania trials. ** Dizziness includes the adverse reaction terms dizziness and lightheadedness.
+None of these adverse reactions occurred individually at an incidence greater than 10% in bipolar mania trials.
+
+** Dizziness includes the adverse reaction terms dizziness and lightheadedness.
 
 Explorations for interactions on the basis of gender did not reveal any clinically meaningful differences in the adverse reaction occurrence on the basis of this demographic factor.
 

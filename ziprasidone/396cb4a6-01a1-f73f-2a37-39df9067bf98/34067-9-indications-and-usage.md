@@ -8,7 +8,7 @@ Whether ziprasidone will cause torsade de pointes or increase the rate of sudden
 
 Schizophrenia
 
-- Ziprasidone capsules are indicated for the treatment of schizophrenia in adults [see Clinical Studies (14.1)]
+- Ziprasidone capsules are indicated for the treatment of schizophrenia in adults [see Clinical Studies (14.1)].
 
 Bipolar I Disorder (Acute Mixed or Manic Episodes and Maintenance Treatment as an Adjunct to Lithium or Valproate)
 

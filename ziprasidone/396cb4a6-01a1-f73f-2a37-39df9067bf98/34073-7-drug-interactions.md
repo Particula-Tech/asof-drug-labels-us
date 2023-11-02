@@ -14,11 +14,11 @@ Less than one-third of ziprasidone metabolic clearance is mediated by cytochrome
 ## 7.2 In Vitro Studies
 
 An in vitro enzyme inhibition study utilizing human liver microsomes showed that ziprasidone had little inhibitory effect on CYP1A2, CYP2C9, CYP2C19, CYP2D6 and CYP3A4, and thus would not likely interfere with the metabolism of drugs primarily metabolized by these enzymes.
-There is little potential for drug interactions with ziprasidone due to displacement [See Clinical Pharmacology (12.3)].
+There is little potential for drug interactions with ziprasidone due to displacement [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Pharmacodynamic Interactions
 
-Ziprasidone should not be used with any drug that prolongs the QT interval [See Contraindications (4.1)].
+Ziprasidone should not be used with any drug that prolongs the QT interval [see Contraindications (4.1)].
 
 Given the primary CNS effects of ziprasidone, caution should be used when it is taken in combination with other centrally acting drugs.
 

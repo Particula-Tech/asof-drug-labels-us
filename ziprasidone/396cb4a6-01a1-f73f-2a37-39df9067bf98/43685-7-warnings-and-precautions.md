@@ -270,7 +270,7 @@ Table 9: Weight Mean Changes in Short-Term (up to 6 weeks), Placebo-Controlled, 
 | 5 mg BID | 20 mg BID | 40 mg BID | 60 mg BID | 80 mg BID | 100 mg BID |  |
 | Mean Weight (kg) Changes from Baseline (N) |  |  |  |  |  |  |
 | +0.3 (N=40) | +1 (N=167) | +1(N=135) | +0.7 (N=109) | +1.1 (N=97) | +0.9 (N=74) | -0.4 (227) |
-| Preparation of Patients With ≥7% Increase in Weight from Baseline (N) |  |  |  |  |  |  |
+| Proportion of Patients With ≥7% Increase in Weight from Baseline (N) |  |  |  |  |  |  |
 | 0% (N=40) | 9% (N=167) | 10.4% (N=135) | 7.3% (N=109) | 15.5% (N=97) | 10.8% (N=74) | 4% (N=227) |
 
 In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline weight for ziprasidone 20 to 40 mg BID was -2.3 kg (N=124); for ziprasidone 60 to 80 mg BID was +2.5 kg (N=10); and for placebo was -2.9 kg (N=72).
@@ -285,7 +285,7 @@ Table 10: Summary of Weight Change in Short-Term (up to 6 weeks), Placebo-Contro
 | Low Dose:20 to 40 mg BID | High Dose*:60 to 80 mg BID |  |
 |  | Mean Weight (kg) Changes from Baseline (N) |  |
 | +0.4 (N=295) | +0.4 (N=388) | +0.1 (N=451) |
-|  | Proportion of Patients with ≥ 7% Increase in Weight from Baseline (N) |  |
+|  | Proportion of Patients With ≥ 7% Increase in Weight from Baseline (N) |  |
 | 2.4% (N=295) | 4.4% (N=388) | 1.8% (N=451) |
 
 * Note that in the High Dose group, there were 2 subjects with modal 200 mg total daily dose and 1 subject with modal 100 mg total daily dose.
@@ -319,7 +319,7 @@ Ziprasidone should be used with particular caution in patients with known cardio
 Antipsychotic drugs (which include ziprasidone) may cause somnolence, postural hypotension, and motor and sensory instability, which could lead to falls and, consequently, fractures or other injuries.
 For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
 
-## 5.11 Leukopenia, Neutropenia and, Agranulocytosis
+## 5.11 Leukopenia, Neutropenia, and Agranulocytosis
 
 In clinical trial and postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents.
 Agranulocytosis (including fatal cases) has also been reported.
@@ -357,7 +357,7 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 
 Somnolence was a commonly reported adverse reaction in patients treated with ziprasidone.
 In the 4- and 6-week placebo-controlled trials in adults, somnolence was reported in 14% of patients on ziprasidone compared to 7% of placebo patients.
-Somnolence led to discontinuation in 0.3% of the patients in short-term clinical trials in adult.
+Somnolence led to discontinuation in 0.3% of the patients in short-term clinical trials in adults.
 
 Since ziprasidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about performing activities requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating hazardous machinery until they are reasonably certain that ziprasidone therapy does not affect them adversely.
 
@@ -377,18 +377,17 @@ Appropriate care is advised when prescribing ziprasidone for patients who will b
 The possibility of a suicide attempt is inherent in psychotic illness or bipolar disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for ziprasidone should be written for the smallest quantity of capsules consistent with good patient management in order to reduce the risk of overdose.
 
-## 5.19 Patients with Concomitant Illnesses
+## 5.19 Patients With Concomitant Illnesses
 
 Clinical experience with ziprasidone in patients with certain concomitant systemic illnesses is limited [see Usein Specific Populations (8.6),(8.7)]
 
 Ziprasidone has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were excluded from premarketing clinical studies.
-Because of the risk of QTc prolongation and orthostatic hypotension with ziprasidone, caution should be observed in cardiac patients [see Warnings and Precautions (5.3), (5.9)]
+Because of the risk of QTc prolongation and orthostatic hypotension with ziprasidone, caution should be observed in cardiac patients [see Warnings and Precautions (5.3), (5.9)].
 
 ## 5.20 Laboratory Tests
 
 Patients being considered for ziprasidone treatment that are at risk of significant electrolyte disturbances should have baseline serum potassium and magnesium measurements.
 Low serum potassium and magnesium should be replaced before proceeding with treatment.
 Patients who are started on diuretics during Ziprasidone therapy need periodic monitoring of serum potassium and magnesium.
-Ziprasidone should be discontinued in patients who are found to have persistent QTc measurements >500 msec.
-[see Warningsand Precautions (5.3)]
+Ziprasidone should be discontinued in patients who are found to have persistent QTc measurements >500 msec [see Warningsand Precautions (5.3)].

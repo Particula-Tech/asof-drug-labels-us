@@ -9,7 +9,7 @@ The mechanism of action of ziprasidone in the treatment of the listed indication
 Ziprasidone binds with relatively high affinity to the dopamine D2 and D3, serotonin 5HT2A, 5HT2C, 5HT1A, 5HT1D, and α1-adrenergic receptors (Ki s of 4.8, 7.2, 0.4, 1.3, 3.4, 2, and 10 nM, respectively), and with moderate affinity to the histamine H1 receptor (Ki=47 nM).
 Ziprasidone is an antagonist at the D2, 5HT2A, and 5HT1D receptors, and an agonist at the 5HT1A receptor.
 Ziprasidone inhibited synaptic reuptake of serotonin and norepinephrine.
-No appreciable affinity was exhibited for other receptor/binding sites tested, including the cholinergic muscarinic receptor (IC50 >1 μM).
+No appreciable affinity was exhibited for other receptor/binding sites tested, including the cholinergic muscarinic receptor (IC50 >1 mcM).
 
 ## 12.3 Pharmacokinetics
 

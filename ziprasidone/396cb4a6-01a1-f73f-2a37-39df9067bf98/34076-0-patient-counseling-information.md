@@ -37,3 +37,5 @@ Infertility
 
 Advise females of reproductive potential that ziprasidone capsules may impair fertility due to an increase in serum prolactin levels.
 The effects on fertility are reversible [see Warnings and Precautions (5.15) and Use in Specific Populations (8.3)].
+
+Brands listed are the trademarks of their respective owners.

@@ -62,7 +62,7 @@ Risk Summary
 Limited data from a published case report indicate the presence of ziprasidone in human milk.
 Although there are no reports of adverse effects on a breastfed infant exposed to ziprasidone via breast milk, there are reports of excess sedation, irritability, poor feeding, and extrapyramidal symptoms (tremors and abnormal muscle movements) in infants exposed to other atypical antipsychotics through breast milk (see Clinical Considerations).
 There is no information on the effects of ziprasidone on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ziprasidone and any potential adverse effects on the breastfed child from ziprasidone capsules or from the mother’s underlying condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ziprasidone capsules and any potential adverse effects on the breastfed child from ziprasidone capsules or from the mother’s underlying condition.
 
 Clinical Considerations
 

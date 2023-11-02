@@ -85,7 +85,7 @@ Before you start ziprasidone capsules, be sure to tell your doctor if you:
 
 - are pregnant, might be pregnant, or plan to get pregnant
 
-- are breast feeding or plan to breastfeed
+- are breastfeeding or plan to breastfeed
 
 - are allergic to any medicines
 
@@ -123,7 +123,7 @@ Possible side effects
 
 Because these problems could mean you’re having a heart rhythm abnormality, contact your doctor IMMEDIATELY if you:
 
-- Faint or lose consciousnes
+- Faint or lose consciousness
 
 - Feel a change in the way that your heart beats (palpitations)
 
@@ -218,6 +218,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 08/2022
+Revised: 06/2023
 
 Dispense with Patient Information Sheet available at: www.drreddys.com/pi/ziprasidonecaps.pdf
