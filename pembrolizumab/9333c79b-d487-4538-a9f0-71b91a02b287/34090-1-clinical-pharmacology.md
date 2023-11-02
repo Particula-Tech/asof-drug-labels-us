@@ -7,6 +7,8 @@ Upregulation of PD-1 ligands occurs in some tumors and signaling through this pa
 Pembrolizumab is a monoclonal antibody that binds to the PD-1 receptor and blocks its interaction with PD-L1 and PD-L2, releasing PD-1 pathway-mediated inhibition of the immune response, including the anti-tumor immune response.
 In syngeneic mouse tumor models, blocking PD-1 activity resulted in decreased tumor growth.
 
+In syngeneic mouse tumor models, combination treatment of a PD-1 blocking antibody and kinase inhibitor lenvatinib decreased tumor-associated macrophages, increased activated cytotoxic T cells, and reduced tumor growth compared to either treatment alone.
+
 ## 12.2 Pharmacodynamics
 
 There are no clinically significant exposure-response relationships for efficacy or safety at pembrolizumab dosages of 200 mg or 2 mg/kg every 3 weeks regardless of cancer type.

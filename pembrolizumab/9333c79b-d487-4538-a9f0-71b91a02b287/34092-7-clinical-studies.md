@@ -1392,6 +1392,7 @@ Common sites of metastases in patients were lung (68%), lymph node (45%), and bo
 The major efficacy outcome measures were PFS, as assessed by independent radiologic review (IRC) according to RECIST v1.1, and OS.
 Additional efficacy outcome measures included confirmed ORR as assessed by IRC.
 KEYTRUDA in combination with lenvatinib demonstrated statistically significant improvements in PFS, OS, and ORR compared with sunitinib.
+An updated OS analysis was conducted when 304 deaths were observed based on the planned number of deaths for the pre-specified final analysis.
 Table 81 and Figures 21 and 22 summarize the efficacy results for KEYNOTE-581.
 
 Table 81: Efficacy Results in KEYNOTE-581
@@ -1411,18 +1412,22 @@ Table 81: Efficacy Results in KEYNOTE-581
 | Median OS in months (95% CI) | NR (33.6, NR) | NR (NR, NR) |
 | Hazard ratio (95% CI) | 0.66 (0.49, 0.88) |  |
 | p-Value | 0.0049 |  |
+| Updated OS |  |  |
+| Number of deaths, n (%) | 149 (42%) | 159 (45%) |
+| Median OS in months (95% CI) | 53.7 (48.7, NR) | 54.3 (40.9, NR) |
+| Hazard ratio (95% CI) | 0.79 (0.63, 0.99) |  |
 | Objective Response Rate (Confirmed) |  |  |
 | ORR, n (%) | 252 (71%) | 129 (36%) |
 | (95% CI) | (66, 76) | (31, 41) |
 | Complete response rate | 16% | 4% |
 | Partial response rate | 55% | 32% |
 | p-ValueTwo-sided p-Value based upon CMH test. | <0.0001 |  |
-| Tumor assessments were based on RECIST 1.1; only confirmed responses are included for ORR. Data cutoff date = 28 Aug 2020 CI = confidence interval; NE= Not estimable; NR= Not reached |  |  |
+| Tumor assessments were based on RECIST 1.1; only confirmed responses are included for ORR. Data cutoff date = 28 Aug 2020, Updated OS cutoff date = 31 July 2022 CI = confidence interval; NR= Not reached |  |  |
 
 | Figure 21: Kaplan-Meier Curve for PFS in KEYNOTE-581 |
 | --- |
 
-| Figure 22: Kaplan-Meier Curve for Overall Survival in KEYNOTE-581 |
+| Figure 22: Kaplan-Meier Curve for Updated Overall Survival in KEYNOTE-581 |
 | --- |
 
 Adjuvant Treatment of RCC (KEYNOTE‑564)
