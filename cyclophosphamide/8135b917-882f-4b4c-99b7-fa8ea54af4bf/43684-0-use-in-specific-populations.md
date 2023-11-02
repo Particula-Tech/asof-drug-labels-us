@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide Capsules can cause fetal harm when administered to a pregnant woman [see CLINICAL PHARMACOLOGY (12.1) and NONCLINICAL TOXICOLOGY (13.1)].
+Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide Capsules can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)].
 Exposure to cyclophosphamide during pregnancy may cause fetal malformations, miscarriage, fetal growth retardation, and toxic effects in the newborn [see Data].
 Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys [see Data].
 Advise pregnant women and females of reproductive potential of the potential risk to the fetus.
@@ -35,18 +35,18 @@ Because of the potential for serious adverse reactions in a breastfed child from
 
 Pregnancy Testing
 
-Verify the pregnancy status of females of reproductive potential prior to the initiation of Cyclophosphamide Capsules [see USE IN SPECIFIC POPULATIONS (8.1)].
+Verify the pregnancy status of females of reproductive potential prior to the initiation of Cyclophosphamide Capsules [see Use in Specific Populations (8.1)].
 
 Contraception
 
 Females
 
 Cyclophosphamide Capsules can cause fetal harm.
-Advise females of reproductive potential to use effective contraception during treatment with Cyclophosphamide Capsules for up to 1 year after completion of therapy [see USE IN SPECIFIC POPULATIONS (8.1)].
+Advise females of reproductive potential to use effective contraception during treatment with Cyclophosphamide Capsules for up to 1 year after completion of therapy [see Use in Specific Populations (8.1)].
 
 Males
 
-Based on findings in genetic toxicity and animal reproduction studies, advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide Capsules and for 4 months after completion of therapy [see USE IN SPECIFIC POPULATIONS (8.1) and NONCLINICAL TOXICOLOGY (13.1)].
+Based on findings in genetic toxicity and animal reproduction studies, advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide Capsules and for 4 months after completion of therapy [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.1)].
 
 Infertility
 
@@ -58,7 +58,7 @@ The risk of premature menopause with cyclophosphamide increases with age.
 Oligomenorrhea has also been reported in association with cyclophosphamide treatment.
 
 Animal data suggest an increased risk of failed pregnancy and malformations may persist after discontinuation of cyclophosphamide as long as oocytes/follicles exist that were exposed to cyclophosphamide during any of their maturation phases.
-The exact duration of follicular development in humans is not known, but may be longer than 12 months [see NONCLINICAL TOXICOLOGY (13.1)].
+The exact duration of follicular development in humans is not known, but may be longer than 12 months [see Nonclinical Toxicology (13.1)].
 
 Males
 
@@ -82,7 +82,7 @@ In general, dose selection for an elderly patient should be cautious, usually st
 ## 8.6 Use in Patients with Renal Impairment
 
 In patients with severe renal impairment, decreased renal excretion may result in increased plasma levels of cyclophosphamide and its metabolites.
-This may result in increased toxicity [see CLINICAL PHARMACOLOGY (12.3)].
+This may result in increased toxicity [see Clinical Pharmacology (12.3)].
 Monitor patients with severe renal impairment (CrCl =10 mL/min to 24 mL/min) for signs and symptoms of toxicity.
 
 Cyclophosphamide and its metabolites are dialyzable although there are probably quantitative differences depending upon the dialysis system being used.
@@ -90,4 +90,4 @@ In patients requiring dialysis, use of a consistent interval between cyclophosph
 
 ## 8.7 Use in Patients with Hepatic Impairment
 
-Patients with severe hepatic impairment have reduced conversion of cyclophosphamide to the active 4-hydroxyl metabolite, potentially reducing efficacy [see CLINICAL PHARMACOLOGY (12.3)].
+Patients with severe hepatic impairment have reduced conversion of cyclophosphamide to the active 4-hydroxyl metabolite, potentially reducing efficacy [see Clinical Pharmacology (12.3)].

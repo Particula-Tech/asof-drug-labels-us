@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Cyclophosphamide Capsules
+Cyclophosphamide Capsules, USP
 
 25 mg, supplied as a blue/blue opaque capsule with “54 006” printed in black ink on the cap and body, containing a white to off-white powder.
 

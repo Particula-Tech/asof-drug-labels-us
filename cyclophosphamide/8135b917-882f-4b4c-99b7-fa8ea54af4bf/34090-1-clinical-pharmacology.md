@@ -51,7 +51,7 @@ Renal Impairment
 The pharmacokinetics of cyclophosphamide were determined following one-hour intravenous infusion to renally impaired patients.
 The results demonstrated that the systemic exposure to cyclophosphamide increased as the renal function decreased.
 Mean dose-corrected AUC increased by 38% in the moderate renal group, (Creatinine clearance CrCl of 25 to 50 mL/min), by 64% in the severe renal group (CrCl of 10 to 24 mL/min) and by 23% in the hemodialysis group (CrCl of <10 mL/min) compared to the control group.
-The increase in exposure was significant in the severe group (p>0.05); thus, patients with severe renal impairment should be closely monitored for toxicity [see USE IN SPECIFIC POPULATIONS (8.6)].
+The increase in exposure was significant in the severe group (p>0.05); thus, patients with severe renal impairment should be closely monitored for toxicity [see Use in Specific Populations (8.6)].
 
 The dialyzability of cyclophosphamide was investigated in four patients on long-term hemodialysis.
 Dialysis clearance calculated by arterial-venous difference and actual drug recovery in dialysate averaged 104 mL/min, which is in the range of the metabolic clearance of 95 mL/min for the drug.
@@ -62,4 +62,4 @@ Reduction in t½, larger dialysis clearance than metabolic clearance, high extra
 Hepatic Impairment
 
 Total body clearance (CL) of cyclophosphamide is decreased by 40% in patients with severe hepatic impairment and elimination half-life (t½) is prolonged by 64%.
-Mean CL and t½ were 45 ± 8.6 L/kg and 12.5 ± 1.0 hours respectively, in patients with severe hepatic impairment and 63 ± 7.6 L/kg and 7.6 ± 1.4 hours respectively in the control group [see USE IN SPECIFIC POPULATIONS (8.7)].
+Mean CL and t½ were 45 ± 8.6 L/kg and 12.5 ± 1.0 hours respectively, in patients with severe hepatic impairment and 63 ± 7.6 L/kg and 7.6 ± 1.4 hours respectively in the control group [see Use in Specific Populations (8.7)].

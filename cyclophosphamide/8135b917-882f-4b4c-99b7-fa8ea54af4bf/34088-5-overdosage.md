@@ -4,7 +4,7 @@ No specific antidote for cyclophosphamide is known.
 
 Overdosage should be managed with supportive measures, including appropriate treatment for any concurrent infection, myelosuppression, or cardiac toxicity should it occur.
 
-Serious consequences of overdosage include manifestations of dose dependent toxicities such as myelosuppression, urotoxicity, cardiotoxicity (including cardiac failure), veno-occlusive hepatic disease, and stomatitis [see WARNINGS AND PRECAUTIONS (5.1, 5.2, 5.3, and 5.6)].
+Serious consequences of overdosage include manifestations of dose dependent toxicities such as myelosuppression, urotoxicity, cardiotoxicity (including cardiac failure), veno-occlusive hepatic disease, and stomatitis [see Warnings and Precautions (5.1, 5.2, 5.3, and 5.6)].
 
 Patients who received an overdose should be closely monitored for the development of toxicities, and hematologic toxicity in particular.
 

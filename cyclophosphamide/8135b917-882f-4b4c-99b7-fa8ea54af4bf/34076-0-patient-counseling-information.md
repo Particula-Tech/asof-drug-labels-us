@@ -24,34 +24,34 @@ Pulmonary Toxicity
 Embryo-Fetal Toxicity
 
 - •Inform female patients of the risk to a fetus and potential loss of the pregnancy.
-  Advise females to inform their healthcare provider of a known or suspected pregnancy [see WARNINGS AND PRECAUTIONS (5.7) and USE IN SPECIFIC POPULATIONS (8.1)].
-- •Advise females of reproductive potential to use effective contraception during treatment and for up to 1 year after completion of therapy [see WARNINGS AND PRECAUTIONS (5.7) and USE IN SPECIFIC POPULATIONS (8.1, 8.3)].
-  Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after completion of therapy [see WARNINGS AND PRECAUTIONS (5.7) and USE IN SPECIFIC POPULATIONS (8.1, 8.3)].
+  Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)].
+- •Advise females of reproductive potential to use effective contraception during treatment and for up to 1 year after completion of therapy [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1, 8.3)].
+  Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after completion of therapy [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1, 8.3)].
 
 Lactation
 
-- •Advise lactating women not to breastfeed during treatment and for 1 week after the last dose of Cyclophosphamide Capsules [see USE IN SPECIFIC POPULATIONS (8.2)].
+- •Advise lactating women not to breastfeed during treatment and for 1 week after the last dose of Cyclophosphamide Capsules [see Use in Specific Populations (8.2)].
 
 Infertility
 
-- •Cyclophosphamide Capsules may impair fertility in males and females of reproductive potential [see WARNINGS AND PRECAUTIONS (5.8) and USE IN SPECIFIC POPULATIONS (8.3, 8.4)].Common Adverse Reactions
+- •Cyclophosphamide Capsules may impair fertility in males and females of reproductive potential [see Warnings and Precautions (5.8) and Use in Specific Populations (8.3, 8.4)].Common Adverse Reactions
 - •Explain to patients that side effects such as nausea, vomiting, stomatitis, impaired wound healing, amenorrhea, premature menopause, sterility and hair loss may be associated with cyclophosphamide administration.
-  Other undesirable effects (including, e.g., dizziness, blurred vision, visual impairment) could affect the ability to drive or use machines [see ADVERSE REACTIONS (6.1, 6.2)].
+  Other undesirable effects (including, e.g., dizziness, blurred vision, visual impairment) could affect the ability to drive or use machines [see Adverse Reactions (6.1, 6.2)].
 
 Hydration and Important Administration Instructions
 
-- •Advise the patient that during or immediately after the administration, adequate amounts of fluid are required to reduce the risk of urinary tract toxicity [see DOSAGE AND ADMINISTRATION (2.1)].
+- •Advise the patient that during or immediately after the administration, adequate amounts of fluid are required to reduce the risk of urinary tract toxicity [see Dosage And Administration (2.1)].
 - •Instruct the patient to swallow cyclophosphamide capsules whole.
-  Do not open, chew, or crush capsules [see DOSAGE AND ADMINISTRATION (2.1)].
+  Do not open, chew, or crush capsules [see Dosage And Administration (2.1)].
 - •Advise caregivers to wear gloves when handling cyclophosphamide containers and capsules and to avoid exposure to broken capsules.
-  If contact with broken capsules occurs, wash hands immediately and thoroughly [see DOSAGE AND ADMINISTRATION (2.1)].
+  If contact with broken capsules occurs, wash hands immediately and thoroughly [see Dosage And Administration (2.1)].
 
-Distr. by: West-Ward
+Distributed by: Hikma
 
-Pharmaceuticals Corp.
+Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724
+Berkeley Heights, NJ 07922
 
-10008219/04
+C50000459/01
 
-Revised September 2019
+Revised July 2023

@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Cyclophosphamide is a pro-drug that is activated by cytochrome P450s [see CLINICAL PHARMACOLOGY (12.3)].
+Cyclophosphamide is a pro-drug that is activated by cytochrome P450s [see Clinical Pharmacology (12.3)].
 
 An increase of the concentration of cytotoxic metabolites may occur with:
 
