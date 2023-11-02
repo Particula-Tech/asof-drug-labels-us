@@ -103,7 +103,7 @@ Isolates from several fungal species with decreased susceptibility to itraconazo
 
 Itraconazole is not active against Zygomycetes(e.g., Rhizopusspp., Rhizomucorspp., Mucorspp. and Absidiaspp.), Fusariumspp., Scedosporiumspp. and Scopulariopsisspp.
 
-### Cross-resistance
+### Cross-Resistance
 
 Several in vitrostudies have reported that some fungal clinical isolates with reduced susceptibility to one azole antifungal agent may also be less susceptible to other azole derivatives.
 The finding of cross-resistance is dependent on a number of factors, including the species evaluated, its clinical history, the particular azole compounds compared, and the type of susceptibility test that is performed.
