@@ -9,7 +9,7 @@ Inform patients that leaving Morphine Sulfate Extended-Release Capsules unsecure
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
 Expired, unwanted, or unused Morphine Sulfate Extended-Release Capsules should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
-Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+Inform patients that they can visit www.fda.gov/drugdisposalfor a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
 
 Addiction, Abuse, and Misuse
 
@@ -55,7 +55,7 @@ If naloxone is prescribed, also advise patients and caregivers:
 Hyperalgesia and Allodynia
 
 Inform patients and caregivers not to increase opioid dosage without first consulting a clinician.
-Advise patients to seek medical attention if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings and Precautions (5.6); Post-marketing Experience (6.2)].
+Advise patients to seek medical attention if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings and Precautions (5.6); Adverse Reactions (6.2)].
 
 Serotonin Syndrome
 
@@ -109,7 +109,7 @@ Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that prolonged use of Morphine Sulfate Extended-Release Capsules during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that use of Morphine Sulfate Extended-Release Capsules for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 
@@ -121,5 +121,5 @@ Advise patients that breastfeeding is not recommended during treatment with Morp
 
 Infertility
 
-Inform patients that chronic use of opioids may cause reduced fertility.
+Inform patients that use of opioids for an extended period of time may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), see Use in Specific Populations (8.3)].

@@ -15,19 +15,19 @@ Table 1: Clinically Significant Drug Interactions with Morphine Sulfate Extended
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
 | Intervention: | If concomitant use is warranted, frequently evaluate the patient, particularly during treatment initiation and dose adjustment. Discontinue Morphine Sulfate Extended-Release Capsules if serotonin syndrome is suspected. |
-| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT 3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT 3receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.8)]. |
 | Intervention: | Do not use Morphine Sulfate Extended-Release Capsules in patients taking MAOIs or within 14 days of stopping such treatment. |
-| Examples: | phenelzine, tranylcypromine, linezolid |
+| Examples: | phenelzine, tranylcypromine, linezolid. |
 | Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics |  |
 | Clinical Impact: | May reduce the analgesic effect of Morphine Sulfate Extended-Release Capsules and/or precipitate withdrawal symptoms. |
 | Intervention: | Avoid concomitant use. |
-| Examples: | butorphanol, nalbuphine, pentazocine, buprenorphine |
+| Examples: | butorphanol, nalbuphine, pentazocine, buprenorphine. |
 | Muscle Relaxants |  |
 | Clinical Impact: | Morphine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
-| Intervention: | Because respiratory depression may be greater than otherwise expected, decrease the dosage of Morphine Sulfate Extended-Release Capsules and/or the muscle relaxant as necessary. Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.2, 5.3)] |
-| Examples: | cyclobenzaprine, metaxalone |
+| Intervention: | Because respiratory depression may be greater than otherwise expected, decrease the dosage of Morphine Sulfate Extended-Release Capsules and/or the muscle relaxant as necessary. Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.2, 5.3)]. |
+| Examples: | cyclobenzaprine, metaxalone. |
 | Cimetidine |  |
 | Clinical Impact: | The concomitant use of cimetidine can potentiate morphine effects and increase risk of hypotension, respiratory depression, profound sedation, coma, and death. |
 | Intervention: | Evaluate patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of Morphine Sulfate Extended-Release Capsules and/or cimetidine as necessary. |

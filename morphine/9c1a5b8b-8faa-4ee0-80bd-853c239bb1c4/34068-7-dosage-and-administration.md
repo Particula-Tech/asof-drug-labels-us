@@ -92,7 +92,7 @@ Methadone has a long half-life and can accumulate in the plasma.
 ## 2.4 Titration and Maintenance of Therapy
 
 Individually titrate Morphine Sulfate Extended-Release Capsules to a dose that provides adequate analgesia and minimizes adverse reactions.
-Continually reevaluate patients receiving Morphine Sulfate Extended-Release Capsules to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as to reassess for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
+Continually reevaluate patients receiving Morphine Sulfate Extended-Release Capsules to assess the maintenance of pain control, signs and symptoms of opioid withdrawal, and other adverse reactions, as well as to reassess for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1), (5.14)].
 Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 During use of opioid therapy for an extended period of time, periodically reassess the continued need for the use of opioid analgesics.
 
@@ -101,7 +101,7 @@ If the level of pain increases after dose stabilization, attempt to identify the
 In patients experiencing inadequate analgesia with once daily dosing of Morphine Sulfate Extended-Release Capsules, consider a twice daily regimen.
 Because steady-state plasma concentrations are approximated within 24 to 36 hours, Morphine Sulfate Extended-Release Capsules dosage adjustments may be done every 1 to 2 days.
 
-If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
+If after increasing the dosage, unacceptable opioid-related adverse reactions are observed (including an increase in pain after dosage increases), consider reducing the dosage [see Warnings and Precautions (5)].
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid related adverse reactions.
 
 ## 2.5 Safe Reduction or Discontinuation of Morphine Sulfate Extended-Release Capsules
@@ -111,7 +111,7 @@ Rapid discontinuation of opioid analgesics in patients who are physically depend
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
-When a decision has been made to decrease the dose or discontinue therapy in an opioid dependent patient taking Morphine Sulfate Extended-Release Capsules, there are a variety of factors that should be considered, including the dose of Morphine Sulfate Extended-Release Capsules the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
+When a decision has been made to decrease the dose or discontinue therapy in an opioid dependent patient taking Morphine Sulfate Extended-Release Capsules, there are a variety of factors that should be considered, including the total daily dose of the opioid (including Morphine Sulfate Extended-Release Capsules) the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
 It is important to ensure ongoing care of the patient and to agree on an appropriate tapering schedule and follow-up plan so that patient and provider goals and expectations are clear and realistic.
 When opioid analgesics are being discontinued due to a suspected substance use disorder, evaluate and treat the patient, or refer for evaluation and treatment of the substance use disorder.
 Treatment should include evidence-based approaches, such as medication assisted treatment of opioid use disorder.

@@ -79,7 +79,7 @@ The single-dose pharmacokinetics of Morphine Sulfate Extended-Release Capsules a
 
 Table 2: Mean Pharmacokinetic Parameters (% Coefficient Variation) Resulting from a Fasting Single-Dose Study in Normal Volunteers and a Multiple-Dose Study in Patients with Cancer Pain
 
-| Regimen/Dosage Form | AUC For single dose AUC = AUC 0-48h, for multiple dose AUC = AUC 0-24h at steady-state,For single dose parameter normalized to 100 mg, for multiple dose parameter normalized to 100 mg per 24 hours (ng∙h/mL) | C max (ng/mL) | T max (h) | C min (ng/mL) | Fluctuation Steady-state fluctuation in plasma concentrations = C max-C min/C min |
+| Regimen/Dosage Form | AUC For single dose AUC = AUC0-48h, for multiple dose AUC = AUC0-24h at steady-state,For single dose parameter normalized to 100 mg, for multiple dose parameter normalized to 100 mg per 24 hours (ng∙h/mL) | C max(ng/mL) | T max(h) | C min(ng/mL) | Fluctuation Steady-state fluctuation in plasma concentrations = Cmax-Cmin/Cmin |
 | --- | --- | --- | --- | --- | --- |
 | Single Dose (n=24) |  |  |  |  |  |
 | Morphine Sulfate Extended-Release Capsules | 271.0 (19.4) | 15.6 (24.4) | 8.6 (41.1) | N/A | N/A |

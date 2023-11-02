@@ -8,7 +8,7 @@ The capsule shells contain gelatin, titanium dioxide, and black ink, D&C yellow 
 
 The black imprint ink contains shellac glaze – 45% (20% esterified) in ethanol, iron oxide black, n-butyl alcohol, propylene glycol, SDA 3A alcohol, methanol, FD&C blue #2/indigo carmine aluminum lake, FD&C red #40/allura red AC aluminum lake, FD&C blue #1/brilliant blue FCF aluminum lake, D&C yellow #10 aluminum lake.
 
-The chemical name of morphine sulfate is 7,8-didehydro-4,5 α- epoxy-17-methyl-morphinan-3,6 α-diol sulfate (2:1) (salt) pentahydrate.
+The chemical name of morphine sulfate is 7,8-didehydro-4,5 α - epoxy-17-methyl-morphinan-3,6 α-diol sulfate (2:1) (salt) pentahydrate.
 The empirical formula is (C 17H 19NO 3) 2•H 2SO 4•5H 2O and its molecular weight is 758.85.
 
 Morphine sulfate is an odorless, white, crystalline powder with a bitter taste.
