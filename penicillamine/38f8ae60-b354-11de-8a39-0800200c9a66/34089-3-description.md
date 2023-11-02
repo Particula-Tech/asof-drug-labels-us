@@ -1,4 +1,6 @@
-DESCRIPTION - Penicillamine is 3-mercapto-D-valine, a disease modifying antirheumatic drug.
+# DESCRIPTION
+
+Penicillamine is 3-mercapto-D-valine, a disease modifying antirheumatic drug.
 It is a white or practically white, crystalline powder, freely soluble in water, slightly soluble in alcohol, and insoluble in ether, acetone, benzene, and carbon tetrachloride.
 Although its configuration is D, it is levorotatory as usually measured:
 

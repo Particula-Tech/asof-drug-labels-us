@@ -1,4 +1,6 @@
-WARNINGS - The use of penicillamine has been associated with fatalities due to certain diseases, such as aplastic anemia, agranulocytosis, thrombocytopenia, Goodpasture’s syndrome, and myasthenia gravis.
+# WARNINGS
+
+The use of penicillamine has been associated with fatalities due to certain diseases, such as aplastic anemia, agranulocytosis, thrombocytopenia, Goodpasture’s syndrome, and myasthenia gravis.
 
 Because of the potential for serious hematological and renal adverse reactions to occur at any time, routine urinalysis, white and differential blood cell count, hemoglobin determination, and direct platelet count must be done every two weeks for at least the first six months of penicillamine therapy and monthly thereafter.
 Patients should be instructed to report promptly the development of signs and symptoms of granulocytopenia and/or thrombocytopenia such as fever, sore throat, chills, bruising, or bleeding.
@@ -54,7 +56,9 @@ Treatment may be required for only a few weeks or months, but may need to be con
 Once instituted for Wilson’s disease or cystinuria, treatment with penicillamine should, as a rule, be continued on a daily basis.
 Interruptions for even a few days have been followed by sensitivity reactions after reinstitution of therapy.
 
-Use In Pregnancy - Penicillamine has been shown to be teratogenic in rats when given in doses 6 times higher than the highest dose recommended for human use (based on a standard weight of 50 kg).
+## Use In Pregnancy
+
+Penicillamine has been shown to be teratogenic in rats when given in doses 6 times higher than the highest dose recommended for human use (based on a standard weight of 50 kg).
 Skeletal defects, cleft palates, and fetal toxicity (resorptions) have been reported.
 
 There are no controlled studies on the use of penicillamine in pregnant women.
@@ -74,7 +78,9 @@ Rheumatoid Arthritis - Penicillamine should not be administered to rheumatoid ar
 
 There is a report that a woman with rheumatoid arthritis treated with less than one gram a day of penicillamine during pregnancy gave birth (cesarean delivery) to an infant with growth retardation, flattened face with broad nasal bridge, low set ears, short neck with loose skin folds, and unusually lax body skin.
 
-PRECAUTIONS - Some patients may experience drug fever, a marked febrile response to penicillamine, usually in the second or third week following initiation of therapy.
+# PRECAUTIONS
+
+Some patients may experience drug fever, a marked febrile response to penicillamine, usually in the second or third week following initiation of therapy.
 Drug fever may sometimes be accompanied by a macular cutaneous eruption.
 
 In the case of drug fever in patients with Wilson’s disease or cystinuria, penicillamine should be temporarily discontinued until the reaction subsides.
@@ -140,9 +146,15 @@ Other reported effects probably due to the action of penicillamine on collagen a
 The effects of penicillamine on collagen and elastin make it advisable to consider a reduction in dosage to 250 mg/day when surgery is contemplated.
 Reinstitution of full therapy should be delayed until wound healing is complete.
 
-Carcinogenesis - Long-term animal carcinogenicity studies have not been done with penicillamine.
+## Carcinogenesis
+
+Long-term animal carcinogenicity studies have not been done with penicillamine.
 There is a report that five of ten autoimmune disease-prone NZB hybrid mice developed lymphocytic leukemia after 6 months’ intraperitoneal treatment with a dose of 400 mg/kg penicillamine 5 days per week.
 
-Nursing Mothers - See CONTRAINDICATIONS.
+## Nursing Mothers
 
-Pediatric Use - The efficacy of DEPEN in pediatric patients with juvenile rheumatoid arthritis has not been established.
+See CONTRAINDICATIONS.
+
+## Pediatric Use
+
+The efficacy of DEPEN in pediatric patients with juvenile rheumatoid arthritis has not been established.

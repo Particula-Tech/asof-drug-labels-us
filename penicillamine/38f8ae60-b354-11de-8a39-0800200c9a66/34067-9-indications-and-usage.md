@@ -1,4 +1,6 @@
-INDICATIONS - DEPEN is indicated in the treatment of Wilson’s disease, cystinuria, and in patients with severe, active rheumatoid arthritis who have failed to respond to an adequate trial of conventional therapy.
+# INDICATIONS
+
+DEPEN is indicated in the treatment of Wilson’s disease, cystinuria, and in patients with severe, active rheumatoid arthritis who have failed to respond to an adequate trial of conventional therapy.
 Available evidence suggests that DEPEN is not of value in ankylosing spondylitis.
 
 Wilson’s Disease - Wilson’s disease (hepatolenticular degeneration) results from the interaction of an inherited defect and an abnormality in copper metabolism.
@@ -11,9 +13,8 @@ Diagnosis, suspected on the basis of family or individual history, physical exam
 
 Treatment has two objectives:
 
-(1) to minimize dietary intake and absorption of copper.
-
-(2) to promote excretion of copper deposited in tissues.
+1. (1)to minimize dietary intake and absorption of copper.
+2. (2)to promote excretion of copper deposited in tissues.
 
 The first objective is attained by a daily diet that contains no more than one or two milligrams of copper.
 Such a diet should exclude, most importantly, chocolate, nuts, shellfish, mushrooms, liver, molasses, broccoli, and cereals enriched with copper, and be composed to as great an extent as possible of foods with a low copper content.

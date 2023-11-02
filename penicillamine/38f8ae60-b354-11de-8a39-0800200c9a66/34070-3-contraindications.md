@@ -1,4 +1,6 @@
-CONTRAINDICATIONS - Except for treatment of Wilson’s disease or certain cases of cystinuria, use of penicillamine during pregnancy is contraindicated (See WARNINGS).
+# CONTRAINDICATIONS
+
+Except for treatment of Wilson’s disease or certain cases of cystinuria, use of penicillamine during pregnancy is contraindicated (See WARNINGS).
 
 Although breast milk studies have not been reported in animals or humans, mothers on therapy with penicillamine should not nurse their infants.
 

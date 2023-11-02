@@ -8,9 +8,9 @@ Store at controlled room temperature 20°-25°C (68°-77°F).
 Protect from moisture.
 Dispense in a tight container.
 
-©2018 Mylan Specialty LP
+© 2023 Viatris Inc.
 
-Manufactured for: Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120
+Manufactured for: Meda Pharmaceuticals Inc. Canonsburg, PA 15317 U.S.A.
 
-LB-4401A-01 Rev.
-7/2018 400942-01
+LB-4401A-02 Rev.
+7/2023 400942-03
