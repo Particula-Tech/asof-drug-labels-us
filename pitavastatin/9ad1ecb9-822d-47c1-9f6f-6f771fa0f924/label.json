@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA205955"
+  ],
+  "inn": "pitavastatin",
+  "labeler": "Upsher-Smith Laboratories, LLC",
+  "package_ndcs": [
+    "0832-6048-90",
+    "0832-6049-90",
+    "0832-6050-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pitavastatin calcium",
+      "name": "Pitavastatin"
+    }
+  ],
+  "setid": "9ad1ecb9-822d-47c1-9f6f-6f771fa0f924",
+  "source": "dailymed"
+}
