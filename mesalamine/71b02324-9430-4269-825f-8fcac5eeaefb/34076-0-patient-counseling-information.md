@@ -7,11 +7,17 @@ Administration
 - Inform patients that DELZICOL capsules can be taken with or without food.
 - Instruct patients to swallow the DELZICOL capsules whole.
   Do not cut, break, crush or chew the capsules.
-- For patients who are unable to swallow the capsules whole, carefully open the capsules and swallow the contents (four 100 mg tablets). ○ Open the number of capsules required to make up a complete dose. ○ There are 4 tablets per capsule.
-  Ensure all tablets per capsule are swallowed and no tablets are retained in the mouth. ○ Swallow the tablets whole; do not cut, break, crush or chew the tablets.
+- For patients who are unable to swallow the capsules whole, carefully open the capsules and swallow the contents (four 100 mg tablets).
+  - Open the number of capsules required to make up a complete dose.
+  - There are 4 tablets per capsule.
+    Ensure all tablets per capsule are swallowed and no tablets are retained in the mouth.
+  - Swallow the tablets whole; do not cut, break, crush or chew the tablets.
 - Drink an adequate amount of fluids.
 - Inform patients that intact, partially intact, and/or tablet shells have been reported in the stool.
   Instruct patients to contact their healthcare provider if this occurs repeatedly.
+- Inform patients that urine may become discolored reddish-brown while taking DELZICOL when it comes in contact with surfaces or water treated with hypochlorite-containing bleach.
+  If discolored urine is observed, advise patients to observe their urine flow.
+  Report to the healthcare provider only if urine is discolored on leaving the body, before contact with any surface or water (e.g., in the toilet).
 - Instruct patients to protect DELZICOL capsules from moisture.
   Instruct patients to close the container tightly and to leave any desiccant pouches present in the bottle along with the capsules.
 
@@ -53,7 +59,7 @@ Blood Disorders
 
 Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
-© 2022 Allergan.
+© 2023 Allergan.
 All rights reserved.
 
 Patented.
@@ -61,4 +67,4 @@ See www.allergan.com/patents
 
 Delzicol® is a registered trademark of Allergan Pharmaceuticals International Limited.
 
-V5.1USPI5853
+V6.0USPI5853

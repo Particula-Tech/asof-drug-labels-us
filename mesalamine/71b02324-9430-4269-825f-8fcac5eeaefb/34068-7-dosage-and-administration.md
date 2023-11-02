@@ -2,12 +2,15 @@
 
 ## 2.1Important Administration Instructions
 
-- Two DELZICOL 400 mg capsules have not been shown to be interchangeable or substitutable with one mesalamine delayed-release 800 mg tablet.
+- Do not substitute two DELZICOL 400 mg capsules with one mesalamine delayed-release 800 mg tablet.
 - Evaluate renal function prior to initiation of DELZICOL.
 - Take DELZICOL capsules with or without food.
 - Swallow the capsules whole; do not cut, break, crush or chew the capsules.
-- For patients who are unable to swallow the capsules whole, carefully open the capsule(s) and swallow the contents (four 100 mg tablets). ○ Open the number of capsules required to make up a complete dose [see Dosage and Administration (2.2, 2.3)]. ○ There are 4 tablets per capsule.
-  Ensure all tablets per capsule are swallowed and no tablets are retained in the mouth. ○ Swallow the tablets whole; do not cut, break, crush or chew the tablets.
+- For patients who are unable to swallow the capsules whole, carefully open the capsule(s) and swallow the contents (four 100 mg tablets).
+  - Open the number of capsules required to make up a complete dose [see Dosage and Administration (2.2, 2.3)].
+  - There are 4 tablets per capsule.
+    Ensure all tablets per capsule are swallowed and no tablets are retained in the mouth.
+  - Swallow the tablets whole; do not cut, break, crush or chew the tablets.
 - Drink an adequate amount of fluids [see Warnings and Precautions (5.7)].
 - Intact, partially intact, and/or tablet shells have been reported in the stool; Instruct patients to contact their healthcare provider if this occurs repeatedly.
   Protect DELZICOL capsules from moisture.

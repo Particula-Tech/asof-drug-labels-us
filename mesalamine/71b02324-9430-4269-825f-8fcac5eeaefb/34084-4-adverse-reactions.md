@@ -132,4 +132,6 @@ Special Senses: Eye pain, taste perversion, blurred vision, tinnitus.
 
 Urogenital: Dysuria, urinary urgency, hematuria, epididymitis, menorrhagia, reversible oligospermia.
 
+- Urine discoloration occurring ex-vivo caused by contact of mesalamine, including inactive metabolite, with surfaces or water treated with hypochlorite containing bleach
+
 Laboratory Abnormalities: Elevated AST (SGOT) or ALT (SGPT), elevated alkaline phosphatase, elevated GGT, elevated LDH, elevated bilirubin, elevated serum creatinine and BUN.
