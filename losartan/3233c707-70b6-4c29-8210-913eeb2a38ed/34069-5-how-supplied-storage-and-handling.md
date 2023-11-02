@@ -38,7 +38,7 @@ NDC 68382-137-77 in cartons of 100 tablets (10 x 10 unit-dose)
 
 Storage:
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F) [See USP Controlled Room Temperature].
 Keep container tightly closed.
 Protect from light.
 
