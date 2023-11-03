@@ -6,17 +6,20 @@ Each tablet has “OP” debossed on one side and a code number specific to the 
 Packaging Pitavastatin tablets are supplied as:
 
 - 1 mg: White to off-white circular biconvex film-coated tablets, debossed with the logo “OP” on one side and “57” on the other side.
-  Supplied as follows:
+
+Supplied as follows:
 
 NDC 0480-3631-98; HDPE bottles of 90 tablets
 
 - 2 mg: White to off-white circular biconvex film-coated tablets, debossed with the logo “OP” on one side and “58” on the other side.
-  Supplied as follows:
+
+Supplied as follows:
 
 NDC 0480-3632-98; HDPE bottles of 90 tablets
 
 - 4 mg: White to off-white circular biconvex film-coated tablets, debossed with the logo “OP” on one side and “59” on the other side.
-  Supplied as follows:
+
+Supplied as follows:
 
 NDC 0480-3633-98; HDPE bottles of 90 tablets
 

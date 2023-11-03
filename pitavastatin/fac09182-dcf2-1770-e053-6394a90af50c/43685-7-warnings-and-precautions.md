@@ -27,7 +27,7 @@ Instruct patients to promptly report any unexplained muscle pain, tenderness or 
 ## 5.2 Immune-Mediated Necrotizing Myopathy
 
 There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use, including reports of recurrence when the same or a different statin was administered.
-IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase that persist despite discontinuation of statin treatment; positive anti-HMG CoA reductase antibody; positive anti-HMG CoA reductase antibody; muscle biopsy showing necrotizing myopathy and improvement with immunosuppressive agents.
+IMNM is characterized by proximal muscle weakness and elevated serum creatine kinase that persist despite discontinuation of statin treatment; positive anti-HMG CoA reductase antibody; muscle biopsy showing necrotizing myopathy; and improvement with immunosuppressive agents.
 Additional neuromuscular and serologic testing may be necessary.
 Treatment with immunosuppressive agents may be required.
 Discontinue pitavastatin tablets if IMNM is suspected.
@@ -40,7 +40,7 @@ There have been rare postmarketing reports of fatal and non-fatal hepatic failur
 
 Patients who consume substantial quantities of alcohol and/or have a history of liver disease may be at increased risk for hepatic injury.
 
-Consider liver enzyme testing before the initiation of pitavastatin tablets and when clinically indicatedthereafter.
+Consider liver enzyme testing before the initiation of pitavastatin tablets and when clinically indicated thereafter.
 Pitavastatin tablets are contraindicated in patients with acute liver failure or decompensated cirrhosis [see Contraindications (4)].
 If serious hepatic injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs, promptly discontinue pitavastatin tablets.
 

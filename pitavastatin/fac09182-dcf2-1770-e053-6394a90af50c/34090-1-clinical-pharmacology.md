@@ -73,9 +73,9 @@ Effect of Coadministered Drugs on Pitavastatin Systemic Exposure
 
 | Coadministered drug | Dosage regimen | Change in AUC* | Change in C max* |
 | --- | --- | --- | --- |
-| Cyclosporine | Pitavastatin 2 mg QD for 6 days + cyclosporine 2 mg/kg on Day 6 | ↑ 4.6 fold # | ↑ 6.6 fold # |
-| Erythromycin | Pitavastatin 4 mg single dose on Day 4 + erythromycin 500 mg 4 times daily for 6 days | ↑ 2.8 fold # | ↑ 3.6 fold # |
-| Rifampin | Pitavastatin 4 mg QD + rifampin 600 mg QD for 5 days | ↑ 29% | ↑ 2.0 fold # |
+| Cyclosporine | Pitavastatin 2 mg QD for 6 days + cyclosporine 2 mg/kg on Day 6 | ↑ 4.6 fold † | ↑ 6.6 fold † |
+| Erythromycin | Pitavastatin 4 mg single dose on Day 4 + erythromycin 500 mg 4 times daily for 6 days | ↑ 2.8 fold † | ↑ 3.6 fold † |
+| Rifampin | Pitavastatin 4 mg QD + rifampin 600 mg QD for 5 days | ↑ 29% | ↑ 2.0 fold † |
 | Atazanavir | Pitavastatin 4 mg QD + atazanavir 300 mg daily for 5 days | ↑ 31% | ↑ 60% |
 | Darunavir/Ritonavir | Pitavastatin 4 mg QD on Days 1-5 and 12-16 + darunavir/ritonavir 800 mg/100 mg QD on Days 6-16 | ↓ 26% | ↓ 4% |
 | Lopinavir/Ritonavir | Pitavastatin 4 mg QD on Days 1-5 and 20-24 + lopinavir/ritonavir 400 mg/100 mg BID on Days 9-24 | ↓ 20% | ↓ 4 % |
@@ -91,7 +91,7 @@ Effect of Coadministered Drugs on Pitavastatin Systemic Exposure
 * Data presented as x-fold change represent the ratio between coadministration and pitavastatin alone (i.e., 1-fold = no change).
 Data presented as % change represent % difference relative to pitavastatin alone (i.e., 0% = no change).
 
-# Considered clinically significant [see Dosage and Administration (2.4), Drug Interactions (7)]
+† Considered clinically significant [see Dosage and Administration (2.4), Drug Interactions (7)]
 
 BID = twice daily; QD = once daily; LA = Long Acting
 

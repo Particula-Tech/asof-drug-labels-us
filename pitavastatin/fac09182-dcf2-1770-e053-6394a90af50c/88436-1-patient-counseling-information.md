@@ -9,7 +9,7 @@ Instruct patients to promptly report any unexplained muscle pain, tenderness or 
 Hepatic Dysfunction Inform patients that pitavastatin tablets may cause liver enzyme elevations and possibly liver failure.
 Advise patients to promptly report fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice [see Warnings and Precautions (5.3)].
 
-I ncreases in HbA1c and Fasting Serum Glucose Levels Inform patients that increases in HbA1c and fasting serum glucose levels may occur with pitavastatin tablets.
+Increases in HbA1c and Fasting Serum Glucose Levels Inform patients that increases in HbA1c and fasting serum glucose levels may occur with pitavastatin tablets.
 Encourage patients to optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices [see Warnings and Precautions (5.4)].
 
 Pregnancy
@@ -21,7 +21,7 @@ Lactation
 
 Advise patients that breastfeed is not recommended during treatment with pitavastatin tablets [see Use in Specific Populations (8.2)].
 
-Manufactured and Marketed by:
+Manufactured by:
 
 Orient Pharma Co., Ltd.
 

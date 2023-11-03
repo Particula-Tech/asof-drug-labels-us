@@ -2,7 +2,7 @@
 
 PRINCIPAL DISPLAY PANEL - 1 mg Tablet Bottle Label
 
-NDC 76333-157-14
+NDC 0480-3631-98
 
 Pitavastatin Tablets
 
@@ -12,7 +12,7 @@ Rx Only
 
 PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
 
-NDC 76333-158-14
+NDC 0480-3632-98
 
 Pitavastatin Tablets
 
@@ -22,7 +22,7 @@ Rx Only
 
 PRINCIPAL DISPLAY PANEL - 4 mg Tablet Bottle Label
 
-NDC 76333-159-14
+NDC 0480-3633-98
 
 Pitavastatin Tablets
 
