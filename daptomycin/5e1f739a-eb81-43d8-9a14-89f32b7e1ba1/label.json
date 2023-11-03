@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA217415"
+  ],
+  "inn": "daptomycin",
+  "labeler": "Xellia Pharmaceuticals USA LLC",
+  "package_ndcs": [
+    "70594-060-01",
+    "70594-066-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "daptomycin",
+      "name": "Daptomycin"
+    }
+  ],
+  "setid": "5e1f739a-eb81-43d8-9a14-89f32b7e1ba1",
+  "source": "dailymed"
+}

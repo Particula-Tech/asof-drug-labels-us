@@ -1,0 +1,3 @@
+# 3 DOSAGE FORMS AND STRENGTHS
+
+For Injection: 350 mg or 500 mg daptomycin as a sterile, pale yellow to light brown lyophilized powder or cake in a single-dose vial for reconstitution.
