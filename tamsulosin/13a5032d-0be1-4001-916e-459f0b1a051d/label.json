@@ -5,13 +5,14 @@
   "inn": "tamsulosin",
   "labeler": "Synthon Pharmaceuticals, Inc.",
   "package_ndcs": [
-    "63672-0021-0"
+    "63672-0021-0",
+    "63672-0021-9"
   ],
   "products": [
     {
       "form": "CAPSULE",
       "generic": "tamsulosin hydrochloride",
-      "name": "tamsulosin hydrochloride"
+      "name": "Tamsulosin Hydrochloride"
     }
   ],
   "setid": "13a5032d-0be1-4001-916e-459f0b1a051d",

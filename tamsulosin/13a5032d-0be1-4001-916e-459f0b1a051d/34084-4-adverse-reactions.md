@@ -4,19 +4,18 @@
 
 Because clinical studies are conducted under widely varying conditions, adverse reactions rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-The incidence of treatment-emergent adverse events has been ascertained from six short-term U.S. and European placebo-controlled clinical trials in which daily doses of 0.1 to 0.8 mg tamsulosin hydrochloride capsules, USP were used.
-These studies evaluated safety in 1783 patients treated with tamsulosin hydrochloride capsules, USP and 798 patients administered placebo.
-Table 1 summarizes the treatment-emergent adverse events that occurred in ≥2% of patients receiving either tamsulosin hydrochloride capsules, USP 0.4 mg or 0.8 mg and at an incidence numerically higher than that in the placebo group during two 13-week U.S. trials (US92-03A and US93-01) conducted in 1487 men.
+The incidence of treatment-emergent adverse events has been ascertained from six short-term U.S. and European placebo-controlled clinical trials in which daily doses of 0.1 to 0.8 mg tamsulosin hydrochloride capsules USP were used.
+These studies evaluated safety in 1783 patients treated with tamsulosin hydrochloride capsules USP and 798 patients administered placebo.
+Table 1 summarizes the treatment-emergent adverse events that occurred in ≥2% of patients receiving either tamsulosin hydrochloride capsules USP 0.4 mg or 0.8 mg and at an incidence numerically higher than that in the placebo group during two 13-week U.S. trials (US92-03A and US93-01) conducted in 1487 men.
 
-Table 1 Treatment-EmergentA treatment-emergent adverse event was defined as any event satisfying one of the following criteria: The adverse event occurred for the first time after initial dosing with double-blind study medication.The adverse event was present prior to or at the time of initial dosing with double-blind study medication and subsequently increased in severity during double-blind treatment; orThe adverse event was present prior to or at the time of initial dosing with double-blind study medication, disappeared completely, and then reappeared during double-blind treatment.
-Adverse Events Occurring in ≥2% of Tamsulosin Hydrochloride Capsules, USP or Placebo Patients in Two U.S. Short-Term Placebo-Controlled Clinical Studies
+Table 1 Treatment-Emergent A treatment-emergent adverse event was defined as any event satisfying one of the following criteria: The adverse event occurred for the first time after initial dosing with double-blind study medication.The adverse event was present prior to or at the time of initial dosing with double-blind study medication and subsequently increased in severity during double-blind treatment; orThe adverse event was present prior to or at the time of initial dosing with double-blind study medication, disappeared completely, and then reappeared during double-blind treatment.Adverse Events Occurring in ≥2% of Tamsulosin hydrochloride Capsules USP or Placebo Patients in Two U.S. Short-Term Placebo-Controlled Clinical Studies
 
-|  | 0.4 mg n=502 | 0.8 mg n=492 | n=493 |
+| 0.4 mg n=502 | 0.8 mg n=492 |  |  |
 | --- | --- | --- | --- |
-| BODY SYSTEM/ ADVERSE EVENT | TAMSULOSIN HYDROCHLORIDE CAPSULES, USP GROUPS |  | PLACEBO |
+| BODY SYSTEM/ ADVERSE EVENT | TAMSULOSIN HYDROCHLORIDE CAPSULES USP GROUPS |  | PLACEBO n=493 |
 | BODY AS WHOLE |  |  |  |
 | Headache | 97 (19.3%) | 104 (21.1%) | 99 (20.1%) |
-| InfectionCoding preferred terms also include cold, common cold, head cold, flu, and flu-like symptoms. | 45 (9.0%) | 53 (10.8%) | 37 (7.5%) |
+| Infection Coding preferred terms also include cold, common cold, head cold, flu, and flu-like symptoms. | 45 (9.0%) | 53 (10.8%) | 37 (7.5%) |
 | Asthenia | 39 (7.8%) | 42 (8.5%) | 27 (5.5%) |
 | Back pain | 35 (7.0%) | 41 (8.3%) | 27 (5.5%) |
 | Chest pain | 20 (4.0%) | 20 (4.1%) | 18 (3.7%) |
@@ -25,8 +24,7 @@ Adverse Events Occurring in ≥2% of Tamsulosin Hydrochloride Capsules, USP or P
 | Somnolence | 15 (3.0%) | 21 (4.3%) | 8 (1.6%) |
 | Insomnia | 12 (2.4%) | 7 (1.4%) | 3 (0.6%) |
 | Libido decreased | 5 (1.0%) | 10 (2.0%) | 6 (1.2%) |
-| RESPIRATORY SYSTEM |  |  |  |
-| RhinitisCoding preferred terms also include nasal congestion, stuffy nose, runny nose, sinus congestion, and hay fever. | 66 (13.1%) | 88 (17.9%) | 41 (8.3%) |
+| RESPIRATORY SYSTEMRhinitis Coding preferred terms also include nasal congestion, stuffy nose, runny nose, sinus congestion, and hay fever. | 66 (13.1%) | 88 (17.9%) | 41 (8.3%) |
 | Pharyngitis | 29 (5.8%) | 25 (5.1%) | 23 (4.7%) |
 | Cough increased | 17 (3.4%) | 22 (4.5%) | 12 (2.4%) |
 | Sinusitis | 11 (2.2%) | 18 (3.7%) | 8 (1.6%) |
@@ -49,32 +47,32 @@ Vertigo was reported by 0.6% of patients (3 of 502) in the 0.4 mg group, 1% of p
 Multiple testing for orthostatic hypotension was conducted in a number of studies.
 Such a test was considered positive if it met one or more of the following criteria: (1) a decrease in systolic blood pressure of ≥20 mmHg upon standing from the supine position during the orthostatic tests; (2) a decrease in diastolic blood pressure ≥10 mmHg upon standing, with the standing diastolic blood pressure <65 mm Hg during the orthostatic test; (3) an increase in pulse rate of ≥20 bpm upon standing with a standing pulse rate ≥100 bpm during the orthostatic test; and (4) the presence of clinical symptoms (faintness, lightheadedness/lightheaded, dizziness, spinning sensation, vertigo, or postural hypotension) upon standing during the orthostatic test.
 
-Following the first dose of double-blind medication in Study 1, a positive orthostatic test result at 4 hours post-dose was observed in 7% of patients (37 of 498) who received tamsulosin hydrochloride capsules, USP 0.4 mg once daily and in 3% of the patients (8 of 253) who received placebo.
-At 8 hours post-dose, a positive orthostatic test result was observed for 6% of the patients (31 of 498) who received tamsulosin hydrochloride capsules, USP 0.4 mg once daily and 4% (9 of 250) who received placebo (Note: patients in the 0.8 mg group received 0.4 mg once daily for the first week of Study 1).
+Following the first dose of double-blind medication in Study 1, a positive orthostatic test result at 4 hours post-dose was observed in 7% of patients (37 of 498) who received tamsulosin hydrochloride capsules USP 0.4 mg once daily and in 3% of the patients (8 of 253) who received placebo.
+At 8 hours post-dose, a positive orthostatic test result was observed for 6% of the patients (31 of 498) who received tamsulosin hydrochloride capsules USP 0.4 mg once daily and 4% (9 of 250) who received placebo (Note: patients in the 0.8 mg group received 0.4 mg once daily for the first week of Study 1).
 
-In Studies 1 and 2, at least one positive orthostatic test result was observed during the course of these studies for 81 of the 502 patients (16%) in the tamsulosin hydrochloride capsules, USP 0.4 mg once-daily group, 92 of the 491 patients (19%) in the tamsulosin hydrochloride capsules, USP 0.8 mg once-daily group and 54 of the 493 patients (11%) in the placebo group.
+In Studies 1 and 2, at least one positive orthostatic test result was observed during the course of these studies for 81 of the 502 patients (16%) in the tamsulosin hydrochloride capsules USP 0.4 mg once-daily group, 92 of the 491 patients (19%) in the tamsulosin hydrochloride capsules USP 0.8 mg once-daily group, and 54 of the 493 patients (11%) in the placebo group.
 
-Because orthostasis was detected more frequently in tamsulosin hydrochloride capsules, USP -treated patients than in placebo recipients, there is a potential risk of syncope [see Warnings and Precautions (5.1)].
+Because orthostasis was detected more frequently in tamsulosin hydrochloride capsules USP-treated patients than in placebo recipients, there is a potential risk of syncope [see Warnings and Precautions (5.1)].
 
 Abnormal Ejaculation
 
 Abnormal ejaculation includes ejaculation failure, ejaculation disorder, retrograde ejaculation and ejaculation decrease.
-As shown in Table 1, abnormal ejaculation was associated with tamsulosin hydrochloride capsules, USP administration and was dose-related in the U.S. studies.
-Withdrawal from these clinical studies of tamsulosin hydrochloride capsules, USP because of abnormal ejaculation was also dose-dependent with 8 of 492 patients (1.6%) in the 0.8 mg group, and no patients in the 0.4 mg or placebo groups discontinuing treatment due to abnormal ejaculation.
+As shown in Table 1, abnormal ejaculation was associated with tamsulosin hydrochloride capsules USP administration and was dose-related in the U.S. studies.
+Withdrawal from these clinical studies of tamsulosin hydrochloride capsules USP because of abnormal ejaculation was also dose-dependent with 8 of 492 patients (1.6%) in the 0.8 mg group and no patients in the 0.4 mg or placebo groups discontinuing treatment due to abnormal ejaculation.
 
 Laboratory Tests
 
-No laboratory test interactions with tamsulosin hydrochloride capsules, USP are known.
-Treatment with tamsulosin hydrochloride capsules, USP for up to 12 months had no significant effect on prostate-specific antigen (PSA).
+No laboratory test interactions with tamsulosin hydrochloride capsules USP are known.
+Treatment with tamsulosin hydrochloride capsules USP for up to 12 months had no significant effect on prostate-specific antigen (PSA).
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of tamsulosin hydrochloride capsules, USP.
+The following adverse reactions have been identified during post-approval use of tamsulosin hydrochloride capsules USP.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to tamsulosin hydrochloride capsules, USP.
+Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to tamsulosin hydrochloride capsules USP.
 
 Allergic-type reactions such as skin rash, urticaria, pruritus, angioedema and respiratory symptoms have been reported with positive rechallenge in some cases.
 Priapism has been reported rarely.
-Infrequent reports of palpitations, hypotension, skin desquamation, constipation and vomiting have been received during the post-marketing period.
+Infrequent reports of dyspnea, palpitations, hypotension, atrial fibrillation, arrhythmia, tachycardia, skin desquamation including reports of Stevens-Johnson syndrome, erythema multiforme, dermatitis exfoliative, constipation, vomiting, dry mouth, visual impairment, and epistaxis have been received during the post-marketing period.
 
-During cataract surgery, a variant of small pupil syndrome known as Intraoperative Floppy Iris Syndrome (IFIS) has been reported in association with alpha1 blocker therapy [see Warnings and Precautions (5.5)].
+During cataract and glaucoma surgery, a variant of small pupil syndrome known as Intraoperative Floppy Iris Syndrome (IFIS) has been reported in association with alpha 1blocker therapy [see Warnings and Precautions (5.5)].

@@ -1,38 +1,37 @@
-# PRINCIPAL DISPLAY PANEL - Bulk Drum Shipping Label
+# Package Label Principal Display Panel - Bulk container label Synthon Hispania S.L.
 
-ROTTENDORF PHARMA GMBH
+NDC 63672-0021-9
 
-59320 ENNIGERLOH
+Each capsule contains: Tamsulosin Hydrochloride USP, 0.4 mg
 
-TAMSULOSIN 0,4MG USA/EU KPS (API 167901)
+Store at 25° C (77° F)
 
-Ch.-B.: 4224612
+Excursions permitted to 15° to 30° C (59° to 86° F)
 
-RPH - Material - Nr.: 109471
+[See USP Controlled Room Temperature].
 
-Brutto: (Kg) 9,86
+Synthon Hispania S.L.
 
-Tara: (Kg) 1,40
+Calle de Castello 1, Poligono Las Salinas
 
-Netto: (Kg) 8,46
+008830 Sant Boi De Llobregat
 
-Stück (TS): 20,239
+Barcelona Spain
 
-Stückgewicht (mg): 418
+63672-0021-9
 
-Gebinde - Nr.: 46
+RxOnly Synthon
 
-Kunden - Name: SYNTHON HISPANIA S.L.
+Tamsulosin Hydrochloride Capsules USP, 0.4 mg
 
-Kunden - Charge: 10A15GA
+CAUTION: FOR PROCESSING OR REPACKAGING ONLY
 
-Anz.
-Trockenbeutel pro Geb.: 1
+20,000 Capsules
 
-Lagerbedingungen: 15 - 30 °C
+BATCH
 
-Verpackt am: 02.02.2010
+MANU DATE
 
-Bearbeiter: Ww/OI
+EXP
 
-Gebinde sind nur zur kurzfristigen Zwischenlagerung geeignet.
+EET12DAA00

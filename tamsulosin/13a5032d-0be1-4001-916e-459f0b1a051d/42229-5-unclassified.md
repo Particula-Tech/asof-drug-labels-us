@@ -1,9 +1,8 @@
-Procardia XL® is a registered trademark of Pfizer
+Manufactured by: Rottendorf Pharma GmbH Ennigerloh, Germany Made in Germany or Synthon Hispania, S.L.
+Barcelona, Spain Made in Spain
 
-Manufactured for: Actavis Elizabeth LLC 200 Elmora Avenue Elizabeth, NJ 07207 USA
+Manufactured for: Synthon Pharmaceuticals, Inc.
 
-Manufactured by: Rottendorf Pharma GmbH Ennigerloh, Germany Made in Germany
+Revised Date: 11/2020
 
-Issue Date: 03/2010
-
-PI-5004-0 (PPI-5005-0)
+PI-4010-8 (PPI-4013-8)
