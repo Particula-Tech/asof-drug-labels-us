@@ -142,8 +142,6 @@ Based on differing results from Ames Tests performed by different laboratories, 
 
 Pregnancy
 
-Pregnancy Category C
-
 In a series of reproductive and developmental toxicology studies, propranolol hydrochloride was given to rats by gavage or in the diet throughout pregnancy and lactation.
 At doses of 150 mg/kg/day, but not at doses of 80 mg/kg/day (equivalent to the MRHD on a body surface area basis), treatment was associated with embryotoxicity (reduced litter size and increased resorption rates) as well as neonatal toxicity (deaths).
 Propranolol hydrochloride also was administered (in the feed) to rabbits (throughout pregnancy and lactation) at doses as high as 150 mg/kg/day (about 5 times the maximum recommended human oral daily dose).
