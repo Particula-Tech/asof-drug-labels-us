@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021644"
+  ],
+  "inn": "clobetasol",
+  "labeler": "Mayne Pharma Inc.",
+  "package_ndcs": [
+    "68308-664-04"
+  ],
+  "products": [
+    {
+      "form": "SHAMPOO",
+      "generic": "clobetasol propionate",
+      "name": "clobetasol propionate"
+    }
+  ],
+  "setid": "524397b3-84c4-49d7-af5e-bb229dfee68b",
+  "source": "dailymed"
+}
