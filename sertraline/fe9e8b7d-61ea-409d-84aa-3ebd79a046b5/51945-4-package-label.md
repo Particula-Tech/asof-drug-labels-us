@@ -28,7 +28,7 @@ Zoloft ® (sertraline hydrochloride) tablets
 
 # PRINCIPAL DISPLAY PANEL - 50 mg Tablet Blister Pack
 
-1. Zoloft® (sertraline HCl) Tablet
+Zoloft® (sertraline HCl) Tablet
 
 50 mg
 
@@ -72,7 +72,7 @@ Zoloft ® (sertraline hydrochloride) tablets
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Tablet Blister Pack
 
-1. Zoloft® (sertraline HCl) Tablet
+Zoloft® (sertraline HCl) Tablet
 
 100 mg
 
