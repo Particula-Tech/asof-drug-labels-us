@@ -4,9 +4,11 @@
 
 Risk Summary
 
-Based on animal studies and the mechanism of action, sirolimus can cause fetal harm when administered to a pregnant woman [see Data, Clinical Pharmacology (12.1)].
+Based on animal studies and the mechanism of action, sirolimus can cause fetal harm when administered to a pregnant woman [see Error!
+Hyperlink reference not valid., Clinical Pharmacology (12.1)].
 There are limited data on the use of sirolimus during pregnancy; however, these data are insufficient to inform a drug-associated risk of adverse developmental outcomes.
-In animal studies, sirolimus was embryo/fetotoxic in rats at sub-therapeutic doses [see Data].
+In animal studies, sirolimus was embryo/fetotoxic in rats at sub-therapeutic doses [see Error!
+Hyperlink reference not valid.].
 Advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
