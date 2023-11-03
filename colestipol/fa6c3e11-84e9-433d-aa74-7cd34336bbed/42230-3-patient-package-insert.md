@@ -1,47 +1,8 @@
-PHARMACIST - DETACH HERE AND GIVE LEAFLET TO PATIENT
+# Patient Information
 
-Patient Information Colestipol Hydrochloride (koe les’ ti pol hye’’ droe klor’ ide) Tablets USP, 1 gram
+| Colestipol Hydrochloride (koe les’ ti pol hye’’ droe klor’ ide) Tablets USP, 1 gramRead this information carefully before you take colestipol hydrochloride tablets. Also read the information you get with your refills. There may be something new. This information does not take the place of talking with your doctor about your medical condition or your treatment. Only you and your doctor can decide if colestipol hydrochloride tablets are right for you. Share the information in this leaflet with members in your household.Information for PatientsColestipol hydrochloride tablets may be larger than pills you have taken before. If you have had swallowing problem or choking with food, liquids or other tablets or capsules in the past, you should discuss this with your doctor before taking colestipol hydrochloride tablets.It is important that you take colestipol hydrochloride tablets correctly:1. Always take one tablet at a time and swallow promptly.2. Swallow each tablet whole. Do not cut, crush, or chew the tablets.3. Colestipol hydrochloride tablets must be taken with water or another liquid that you prefer. Swallowing the tablets will be easier if you drink plenty of liquid as you swallow each tablet.Difficulty swallowing and temporary obstruction of the esophagus (the tube between your mouth and stomach) have been rarely reported in patients taking colestipol hydrochloride tablets. If a tablet does get stuck after you swallow it, you may notice pressure or discomfort. If this happens to you, you should contact your doctor. Do not take colestipol hydrochloride tablets again without your doctor's advice.If you are taking other medications, you should take them at least one hour before or four hours after taking colestipol hydrochloride tablets.This leaflet summarizes the most important information about colestipol hydrochloride tablets. If you would like more information, talk with your doctor. Also, you can ask your pharmacist or doctor for information about colestipol hydrochloride tablets that is written for health professionals.Manufactured by: Amneal Pharmaceuticals Pvt. Ltd. Ahmedabad 382220, INDIADistributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807Rev. 09-2023-01 |
+| --- |
 
-Read this information carefully before you take colestipol hydrochloride tablets.
-Also read the information you get with your refills.
-There may be something new.
-This information does not take the place of talking with your doctor about your medical condition or your treatment.
-Only you and your doctor can decide if colestipol hydrochloride tablets are right for you.
-Share the information in this leaflet with members in your household.
+Dispense with Patient Information available at:
 
-Information for Patients
-
-Colestipol hydrochloride tablets may be larger than pills you have taken before.
-If you have had swallowing problem or choking with food, liquids or other tablets or capsules in the past, you should discuss this with your doctor before taking colestipol hydrochloride tablets.
-
-It is important that you take colestipol hydrochloride tablets correctly:
-
-1.
-Always take one tablet at a time and swallow promptly.
-
-2.
-Swallow each tablet whole.
-Do not cut, crush, or chew the tablets.
-
-3.
-Colestipol hydrochloride tablets must be taken with water or another liquid that you prefer.
-Swallowing the tablets will be easier if you drink plenty of liquid as you swallow each tablet.
-
-Difficulty swallowing and temporary obstruction of the esophagus (the tube between your mouth and stomach) have been rarely reported in patients taking colestipol hydrochloride tablets.
-If a tablet does get stuck after you swallow it, you may notice pressure or discomfort.
-If this happens to you, you should contact your doctor.
-Do not take colestipol hydrochloride tablets again without your doctor's advice.
-
-If you are taking other medications, you should take them at least one hour before or four hours after taking colestipol hydrochloride tablets.
-
-This leaflet summarizes the most important information about colestipol hydrochloride tablets.
-If you would like more information, talk with your doctor.
-Also, you can ask your pharmacist or doctor for information about colestipol hydrochloride tablets that is written for health professionals.
-
-Manufactured by: Amneal Pharmaceuticals Pvt.
-Ltd. Ahmedabad 382220, INDIA
-
-Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
-
-Rev.
-01-2021-00
+documents.amneal.com/mg/ppi-colestipol-hcl-tab.pdf
