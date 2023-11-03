@@ -24,3 +24,8 @@ Ibuprofen has been shown to displace bilirubin from albumin binding-sites; there
 ## 5.5 Administration
 
 NeoProfen should be administered carefully to avoid extravascular injection or leakage, as solution may be irritating to tissue.
+
+## 5.6 Serious Skin Reactions
+
+NSAIDS, including ibuprofen, can cause serious skin reactions such as exfoliative dermatitis, Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and acute generalized exanthematous pustulosis (AGEP), which can be fatal.
+Ibuprofen should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
