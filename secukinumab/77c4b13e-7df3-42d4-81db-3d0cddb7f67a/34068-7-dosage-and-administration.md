@@ -4,15 +4,15 @@
 
 Perform the following evaluations prior to COSENTYX initiation:
 
-- Evaluate patients for tuberculosis (TB) infection.
+- Evaluate for active or latent tuberculosis (TB).
   COSENTYX initiation is not recommended in patients with active TB infection.
-  Initiate treatment of latent TB prior to initiation of COSENTYX [see Warnings and Precautions (5.2)].
+  Initiate treatment of latent TB prior to initiation of COSENTYX [see Warnings and Precautions (5.3)].
 - Complete all age-appropriate vaccinations as recommended by current immunization guidelines prior to initiating treatment with COSENTYX [see Warnings and Precautions (5.7)].
 
 ## 2.2 Important Administration Instructions
 
 - COSENTYX is for use under the guidance and supervision of a healthcare provider.
-- UnoReady pens, Sensoready pens and prefilled syringes are for subcutaneous use only.
+- UnoReady pens, Sensoready pens, and prefilled syringes are for subcutaneous use only.
 - Solution in vials is for intravenous use in adult patients only.
 
 Important Subcutaneous Administration Instructions
@@ -35,16 +35,16 @@ Intravenous infusion may be administered only in adults with PsA, AS, and nr-axS
 
 ## 2.3 Recommended Dosage in Plaque Psoriasis
 
-Recommended Subcutaneous Dosage in Adults
+Recommended Subcutaneous Dosage in Adults with PsO
 
-The recommended dosage in adults with plaque psoriasis is 300 mg by subcutaneous injection at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter.
+The recommended dosage in adults with PsO is 300 mg by subcutaneous injection at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter.
 Each 300 mg dosage is given as one subcutaneous injection of 300 mg or as two subcutaneous injections of 150 mg.
 
 For some patients, a dosage of 150 mg by subcutaneous injection at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter may be acceptable.
 
-Recommended Subcutaneous Dosage in Pediatric Patients 6 Years of Age and Older
+Recommended Subcutaneous Dosage in Pediatric Patients 6 Years of Age and Older with PsO
 
-The recommended weight-based dosage in pediatric patients 6 years of age and older with plaque psoriasis is administered by subcutaneous injection at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter.
+The recommended weight-based dosage in pediatric patients 6 years of age and older with PsO is administered by subcutaneous injection at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter.
 
 - For patients < 50 kg (at the time of dosing), the recommended dose is 75 mg.
 - For patients ≥ 50 kg (at the time of dosing), the recommended dose is 150 mg.
@@ -55,7 +55,7 @@ COSENTYX may be administered with or without methotrexate.
 
 Recommended Subcutaneous Dosage
 
-For adult patients with PsA and with coexistent moderate to severe plaque psoriasis, use the dosage and administration recommendations in adults for plaque psoriasis [see Dosage and Administration (2.3)].
+For adult patients with PsA and with coexistent moderate to severe PsO, use the dosage and administration recommendations for adults with PsO [see Dosage and Administration (2.3)].
 
 For other adult patients with PsA, administer COSENTYX with or without a loading dosage by subcutaneous injection.
 
@@ -63,7 +63,7 @@ The recommended dosage in adults with PsA:
 
 - With a loading dosage is 150 mg at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter.
 - Without a loading dosage is 150 mg every 4 weeks.
-- If a patient continues to have active PsA, consider a dosage of 300 mg by subcutaneous injection every 4 weeks.
+- If a patient continues to have active PsA, consider increasing the dosage to 300 mg by subcutaneous injection every 4 weeks.
   Each 300 mg dosage is given as one subcutaneous injection of 300 mg or as two subcutaneous injections of 150 mg.
 
 Recommended Intravenous Dosage
@@ -96,7 +96,7 @@ The recommended dosage:
 
 - With a loading dosage is 150 mg at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter.
 - Without a loading dosage is 150 mg every 4 weeks.
-- If a patient continues to have active AS, consider a dosage of 300 mg every 4 weeks by subcutaneous injection.
+- If a patient continues to have active AS, consider increasing the dosage to 300 mg every 4 weeks by subcutaneous injection.
   Each 300 mg dosage is given as one subcutaneous injection of 300 mg or as two subcutaneous injections of 150 mg.
 
 Recommended Intravenous Dosage
@@ -143,7 +143,14 @@ The recommended weight-based dosage in pediatric patients 4 years of age and old
 - For patients ≥ 15 kg and < 50 kg, the recommended dose is 75 mg.
 - For patients ≥ 50 kg, the recommended dose is 150 mg.
 
-## 2.9 Preparation for Use of COSENTYX UnoReady Pen, Sensoready Pen and Prefilled Syringes
+## 2.9 Recommended Dosage in Hidradenitis Suppurativa
+
+The recommended dose in adult patients with moderate to severe HS is 300 mg by subcutaneous injection at Weeks 0, 1, 2, 3 and 4 and every 4 weeks thereafter.
+
+If a patient does not adequately respond, consider increasing the dosage to 300 mg every 2 weeks.
+Each 300 mg dosage is given as one subcutaneous injection of 300 mg or as two subcutaneous injections of 150 mg.
+
+## 2.10 Preparation for Use of COSENTYX UnoReady Pen, Sensoready Pen and Prefilled Syringes
 
 COSENTYX UnoReady pens, Sensoready pens and prefilled syringes are for subcutaneous injection only.
 
@@ -156,7 +163,7 @@ COSENTYX injection is a clear to slightly opalescent, colorless to slightly yell
 Do not use if the liquid contains visible particles, is discolored or cloudy.
 Discard any unused product.
 
-## 2.10 Preparation and Administration of COSENTYX for Intravenous Use
+## 2.11 Preparation and Administration of COSENTYX for Intravenous Use
 
 COSENTYX (for intravenous use) must be diluted prior to infusion.
 Using aseptic technique, prepare COSENTYX (for intravenous use) as follows:

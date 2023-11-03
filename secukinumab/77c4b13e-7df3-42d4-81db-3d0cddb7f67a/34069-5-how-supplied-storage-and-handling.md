@@ -1,43 +1,43 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
+How Supplied
 
 COSENTYX (secukinumab) injection is a clear to opalescent, colorless to slightly yellowish solution available as follows:
 
-COSENTYX injection for subcutaneous use:
+COSENTYX injection for subcutaneous use
 
-COSENTYX 300 mg/2 mL UnoReady pen:
+COSENTYX 300 mg/2 mL UnoReady pen
 
 - NDC 0078-1070-68: Carton of one 300 mg/2 mL (300 mg dose) single-dose UnoReady pen (injection)
 
-COSENTYX 300 mg/2 mL (150 mg/mL) prefilled syringe:
+COSENTYX 300 mg/2 mL (150 mg/mL) prefilled syringe
 
 - NDC 0078-1070-97: Carton of one 300 mg/2 mL (150 mg/mL) single-dose prefilled syringe (injection)
 
-COSENTYX 150 mg/mL Sensoready pen:
+COSENTYX 150 mg/mL Sensoready pen
 
 - NDC 0078-0639-41: Carton of two 150 mg/mL (300 mg dose) single-dose Sensoready pens (injection)
 - NDC 0078-0639-68: Carton of one 150 mg/mL single-dose Sensoready pen (injection)
 
-COSENTYX 150 mg/mL prefilled syringe:
+COSENTYX 150 mg/mL prefilled syringe
 
 - NDC 0078-0639-98: Carton of two 150 mg/mL (300 mg dose) single-dose prefilled syringes (injection)
 - NDC 0078-0639-97: Carton of one 150 mg/mL single-dose prefilled syringe (injection)
 
-COSENTYX 75 mg/0.5 mL prefilled syringe (for pediatric patients less than 50 kg):
+COSENTYX 75 mg/0.5 mL prefilled syringe (for pediatric patients less than 50 kg)
 
 - NDC 0078-1056-97: Carton of one 75 mg/0.5 mL single-dose prefilled syringe (injection)
 
 The removable cap of the COSENTYX 150 mg/mL Sensoready pen and prefilled syringe, and 75 mg/0.5 mL prefilled syringe contains natural rubber latex.
-Each 300 mg/2mL UnoReady pen, 150 mg/mL Sensoready pen and 300 mg/2mL, 150 mg/mL, and 75 mg/0.5 mL prefilled syringe is equipped with a needle safety guard.
+Each 300 mg/2 mL UnoReady pen, 150 mg/mL Sensoready pen and 300 mg/2 mL, 150 mg/mL, and 75 mg/0.5 mL prefilled syringe is equipped with a needle safety guard.
 
-COSENTYX injection for intravenous use:
+COSENTYX injection for intravenous use
 
 - NDC 0078-1168-61: Carton containing one 125 mg/5 mL (25 mg/mL) solution in a single-dose vial for dilution prior to intravenous infusion.
 
-## 16.2 Storage and Handling
+Storage and Handling
 
-Refrigerate COSENTYX injection for subcutaneous use (300 mg/2mL UnoReady Pen, 150 mg/mL Sensoready Pens, and 150 mg/mL and 75 mg/0.5 mL Prefilled Syringes), and COSENTYX injection for intravenous use at 2ºC to 8ºC (36ºF to 46ºF).
+Refrigerate COSENTYX injection for subcutaneous use (300 mg/2 mL UnoReady Pen, 150 mg/mL Sensoready Pens, and 150 mg/mL and 75 mg/0.5 mL Prefilled Syringes), and COSENTYX injection for intravenous use at 2ºC to 8ºC (36ºF to 46ºF).
 Keep the products in the original carton to protect from light until the time of use.
 Do not freeze.
 To avoid foaming, do not shake.

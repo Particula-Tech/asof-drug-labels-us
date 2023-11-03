@@ -27,7 +27,7 @@ Instruct patients to inform the healthcare practitioner that they are taking COS
 
 Instructions on Subcutaneous Injection Technique
 
-If a patient or caregiver is to subcutaneously administer COSENTYX using the UnoReady pen, Sensoready pen, or the prefilled syringe, instruct him/her in injection techniques and assess their ability to inject subcutaneously to ensure the proper administration of COSENTYX [see Dosage and Administration (2.2, 2.9), Medication Guide, Instructions for Use].
+If a patient or caregiver is to subcutaneously administer COSENTYX using the UnoReady pen, Sensoready pen, or the prefilled syringe, instruct him/her in injection techniques and assess their ability to inject subcutaneously to ensure the proper administration of COSENTYX [see Dosage and Administration (2.2, 2.9), Medication Guide, and Instructions for Use].
 
 For pediatric patients, inform patients and caregivers that pediatric patients should not self-administer COSENTYX.
 
@@ -47,4 +47,4 @@ US License Number 1244
 
 © Novartis
 
-T2023-65
+T2023-74

@@ -1,4 +1,4 @@
 # 10 OVERDOSAGE
 
-Doses up to 30 mg/kg intravenously have been administered in clinical trials without dose-limiting toxicity.
-In the event of overdosage, it is recommended that the patient be monitored for any signs or symptoms of adverse reactions and appropriate symptomatic treatment be instituted immediately.
+In the event of overdosage, it is recommended that the patient be monitored for any signs or symptoms of adverse reactions and appropriate symptomatic treatment be instituted.
+Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.
