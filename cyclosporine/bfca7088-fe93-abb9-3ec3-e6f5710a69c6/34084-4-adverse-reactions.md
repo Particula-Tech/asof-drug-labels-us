@@ -75,9 +75,9 @@ The following reactions occurred rarely: anxiety, chest pain, constipation, depr
 | Other | 0 | 0 | 0.7 |
 | Cyclosporine capsules was discontinued on a temporary basis and then restarted in 18 additional patients. |  |  |  |
 
-Patients receiving immunosuppressive therapies, including cyclosporine and cyclosporine -containing regimens, are at increased risk of infections (viral, bacterial, fungal, parasitic).
+Patients receiving immunosuppressive therapies, including cyclosporine and cyclosporine-containing regimens, are at increased risk of infections (viral, bacterial, fungal, and parasitic).
 Both generalized and localized infections can occur.
-Pre-existing infections may also be aggravated.
+Preexisting infections may also be aggravated.
 Fatal outcomes have been reported (see WARNINGS).
 
 | Infectious Complications in the Randomized Renal Transplant Patients |  |  |
@@ -99,18 +99,18 @@ Fatal outcomes have been reported (see WARNINGS).
 
 Hepatotoxicity
 
-Cases of hepatotoxicity and liver injury including cholestasis, jaundice, hepatitis and liver failure; serious and/or fatal outcomes have been reported (see WARNINGS, Hepatotoxicity).
+Cases of hepatotoxicity and liver injury, including cholestasis, jaundice, hepatitis, and liver failure; serious and/or fatal outcomes have been reported (see WARNINGS, Hepatotoxicity).
 
 Increased Risk of Infections
 
 Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), sometimes fatal; and polyoma virus-associated nephropathy (PVAN), especially BK virus resulting in graft loss have been reported (see WARNINGS, Polyoma Virus Infection).
 
-Headache, including Migraine
+Headache, Including Migraine
 
 Cases of migraine have been reported.
 In some cases, patients have been unable to continue cyclosporine, however, the final decision on treatment discontinuation should be made by the treating physician following the careful assessment of benefits versus risks.
 
-Pain of lower extremities
+Pain of Lower Extremities
 
 Isolated cases of pain of lower extremities have been reported in association with cyclosporine.
 Pain of lower extremities has also been noted as part of Calcineurin-Inhibitor Induced Pain Syndrome (CIPS) as described in the literature.

@@ -11,7 +11,7 @@ There is a trend towards use of even lower initial doses for renal transplantati
 The initial single daily dose is continued postoperatively for 1 to 2 weeks and then tapered by 5% per week to a maintenance dose of 5 to 10 mg/kg/day.
 Some centers have successfully tapered the maintenance dose to as low as 3 mg/kg/day in selected renal transplant patients without an apparent rise in rejection rate.
 
-(See Blood Concentration Monitoring, below.)
+See Blood Concentration Monitoring, below.
 
 Specific Populations
 
@@ -31,7 +31,7 @@ In pediatric usage, the same dose and dosing regimen may be used as in adults al
 
 Adjunct therapy with adrenal corticosteroids is recommended.
 Different tapering dosage schedules of prednisone appear to achieve similar results.
-A dosage schedule based on the patient’s weight started with 2.0 mg/kg/day for the first 4 days tapered to 1.0 mg/kg/day by 1 week, 0.6 mg/kg/day by 2 weeks, 0.3 mg/kg/day by 1 month, and 0.15 mg/kg/day by 2 months and thereafter as a maintenance dose.
+A dosage schedule based on the patient’s weight started with 2 mg/kg/day for the first 4 days tapered to 1 mg/kg/day by 1 week, 0.6 mg/kg/day by 2 weeks, 0.3 mg/kg/day by 1 month, and 0.15 mg/kg/day by 2 months and thereafter as a maintenance dose.
 Another center started with an initial dose of 200 mg tapered by 40 mg/day until reaching 20 mg/day.
 After 2 months at this dose, a further reduction to 10 mg/day was made.
 Adjustments in dosage of prednisone must be made according to the clinical situation.

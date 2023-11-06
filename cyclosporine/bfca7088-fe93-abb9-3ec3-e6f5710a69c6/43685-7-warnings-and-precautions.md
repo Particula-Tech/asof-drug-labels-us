@@ -2,17 +2,15 @@
 
 Kidney, Liver, and Heart Transplant
 
-(See BOXED WARNINGS.)
-
-Cyclosporine capsules, (NON-MODIFIED), when used in high doses, can cause hepatotoxicity and nephrotoxicity.
+Cyclosporine capsules, (NON-MODIFIED), when used in high doses, can cause hepatotoxicity and nephrotoxicity (see BOXED WARNING).
 
 Nephrotoxicity
 
-It is not unusual for serum creatinine and BUN levels to be elevated during cyclosporine capsules therapy.
+It is not unusual for serum creatinine and BUN levels to be elevated during cyclosporine therapy.
 These elevations in renal transplant patients do not necessarily indicate rejection, and each patient must be fully evaluated before dosage adjustment is initiated.
 
 Nephrotoxicity has been noted in 25% of cases of renal transplantation, 38% of cases of cardiac transplantation, and 37% of cases of liver transplantation.
-Mild nephrotoxicity was generally noted 2 to 3 months after transplant and consisted of an arrest in the fall of the preoperative elevations of BUN and creatinine at a range of 35 to 45 mg/dl and 2.0 to 2.5 mg/dl, respectively.
+Mild nephrotoxicity was generally noted 2 to 3 months after transplant and consisted of an arrest in the fall of the preoperative elevations of BUN and creatinine at a range of 35 to 45 mg/dl and 2 to 2.5 mg/dl, respectively.
 These elevations were often responsive to dosage reduction.
 
 More overt nephrotoxicity was seen early after transplantation and was characterized by a rapidly rising BUN and creatinine.
@@ -88,7 +86,7 @@ Impaired renal function at any time requires close monitoring, and frequent dosa
 In patients with persistent high elevations of BUN and creatinine who are unresponsive to dosage adjustments, consideration should be given to switching to other immunosuppressive therapy.
 In the event of severe and unremitting rejection, it is preferable to allow the kidney transplant to be rejected and removed rather than increase the cyclosporine capsules dosage to a very high level in an attempt to reverse the rejection.
 
-Due to the potential for additive or synergistic impairment of renal function, caution should be exercised when co-administering cyclosporine capsules with other drugs that may impair renal function (see PRECAUTIONS, Drug Interactions).
+Due to the potential for additive or synergistic impairment of renal function, caution should be exercised when coadministering cyclosporine capsules with other drugs that may impair renal function (see PRECAUTIONS, Drug Interactions).
 
 Thrombotic Microangiopathy
 
@@ -103,8 +101,8 @@ Significant hyperkalemia (sometimes associated with hyperchloremic metabolic aci
 
 Hepatotoxicity
 
-Cases of hepatotoxicity and liver injury including cholestasis, jaundice, hepatitis, and liver failure have been reported in patients treated with cyclosporine.
-Most reports included patients with significant comorbidities, underlying conditions and other confounding factors including infectious complications and comedications with hepatotoxic potential.
+Cases of hepatotoxicity and liver injury, including cholestasis, jaundice, hepatitis, and liver failure have been reported in patients treated with cyclosporine.
+Most reports included patients with significant co-morbidities, underlying conditions and other confounding factors, including infectious complications and comedications with hepatotoxic potential.
 In some cases, mainly in transplant patients, fatal outcomes have been reported (see ADVERSE REACTIONS, Postmarketing Experience).
 
 Hepatotoxicity, usually manifested by elevations in hepatic enzymes and bilirubin, was reported in patients treated with cyclosporine in clinical trials: 4% in renal transplantation, 7% in cardiac transplantation, and 4% in liver transplantation.
@@ -122,7 +120,7 @@ Transplant patients receiving cyclosporine are at increased risk for serious inf
 
 ## Serious Infections
 
-Patients receiving immunosuppressants, including cyclosporine capsules are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections.
+Patients receiving immunosuppressants, including cyclosporine capsules, are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections.
 These infections may lead to serious, including fatal, outcomes (see BOXED WARNING, and ADVERSE REACTIONS).
 
 Polyoma Virus Infections
@@ -135,7 +133,7 @@ PVAN is associated with serious outcomes, including deteriorating renal function
 Patient monitoring may help detect patients at risk for PVAN.
 
 Cases of PML have been reported in patients treated with cyclosporine capsules.
-PML, which is sometimes fatal, commonly presents with hemiparesis, apathy, confusion, cognitive deficiencies and ataxia.
+PML, which is sometimes fatal, commonly presents with hemiparesis, apathy, confusion, cognitive deficiencies, and ataxia.
 Risk factors for PML include treatment with immunosuppressant therapies and impairment of immune function.
 In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultation with a neurologist should be considered as clinically indicated.
 
@@ -147,20 +145,19 @@ Neurotoxicity
 There have been reports of convulsions in adult and pediatric patients receiving cyclosporine, particularly in combination with high-dose methylprednisolone.
 
 Encephalopathy, including Posterior Reversible Encephalopathy Syndrome (PRES), has been described both in postmarketing reports and in the literature.
-Manifestations include impaired consciousness, convulsions, visual disturbances (including blindness), loss of motor function, movement disorders and psychiatric disturbances.
+Manifestations include impaired consciousness, convulsions, visual disturbances (including blindness), loss of motor function, movement disorders, and psychiatric disturbances.
 In many cases, changes in the white matter have been detected using imaging techniques and pathologic specimens.
 Predisposing factors such as hypertension, hypomagnesemia, hypocholesterolemia, high-dose corticosteroids, high cyclosporine blood concentrations, and graft-versus-host disease have been noted in many but not all of the reported cases.
 The changes in most cases have been reversible upon discontinuation of cyclosporine, and in some cases, improvement was noted after reduction of dose.
 It appears that patients receiving liver transplant are more susceptible to encephalopathy than those receiving kidney transplant.
-Another rare manifestation of cyclosporine-induced neurotoxicity is optic disc edema including papilloedema, with possible visual impairment, secondary to benign intracranial hypertension.
+Another rare manifestation of cyclosporine-induced neurotoxicity is optic disc edema, including papilloedema, with possible visual impairment, secondary to benign intracranial hypertension.
 
 Specific Excipients
 
 Alcohol (methanol)
 
 The alcohol content (see DESCRIPTION) of cyclosporine capsules should be taken into account when given to patients in whom alcohol intake should be avoided or minimized, e.g. pregnant or breastfeeding women, in patients presenting with liver disease or epilepsy, in alcoholic patients, or pediatric patients.
-For an adult weighing 70 kg, the maximum daily oral dose would deliver about 1 gram of alcohol which is approximately 6% of the amount of alcohol contained in a standard drink.
-The daily intravenous dose would deliver approximately 15% of the amount of alcohol contained in a standard drink.
+For an adult weighing 70 kg, the maximum daily oral dose would deliver about 1 gram of alcohol (See DESCRIPTION for alcohol content of each formulation).
 
 Care should be taken in using cyclosporine capsules with nephrotoxic drugs (see PRECAUTIONS).
 
@@ -195,6 +192,9 @@ Patients should be advised that any change of cyclosporine formulation should be
 Patients should be informed of the necessity of repeated laboratory tests while they are receiving the drug.
 They should be given careful dosage instructions, advised of the potential risks during pregnancy, and informed of the increased risk of neoplasia.
 
+Cyclosporine may impact the ability to drive and use machines.
+Patients should be advised to exercise care when driving or using machines if they experience neurological disturbances including confusion, somnolence, or dizziness and discuss with their healthcare provider (see WARNINGS and ADVERSE REACTIONS).
+
 ## Laboratory Tests
 
 Renal and liver functions should be assessed repeatedly by measurement of BUN, serum creatinine, serum bilirubin, and liver enzymes.
@@ -218,8 +218,8 @@ If a significant impairment of renal function occurs, reduction in the dosage of
 
 Cyclosporine is extensively metabolized by CYP 3A isoenzymes, in particular CYP3A4, and is a substrate of the multidrug efflux transporter P-glycoprotein.
 Various agents are known to either increase or decrease plasma or whole blood concentrations of cyclosporine usually by inhibition or induction of CYP3A4 or P-glycoprotein transporter or both.
-Compounds that decrease cyclosporine absorption such as orlistat should be avoided.
-Appropriate cyclosporine capsules dosage adjustment to achieve the desired cyclosporine concentrations is essential when drugs that significantly alter cyclosporine concentrations are used concomitantly (see Blood Concentration Monitoring).
+Compounds that decrease cyclosporine absorption, such as orlistat, should be avoided.
+Appropriate cyclosporine capsules dosage adjustment to achieve the desired cyclosporine concentrations is essential when drugs that significantly alter cyclosporine concentrations are used concomitantly (see DOSAGE AND ADMINISTRATION, Blood Concentration Monitoring).
 
 ### 1. Drugs That Increase Cyclosporine Concentrations
 
@@ -237,7 +237,7 @@ Appropriate cyclosporine capsules dosage adjustment to achieve the desired cyclo
 
 HIV Protease inhibitors
 
-The HIV protease inhibitors (e.g., indinavir, nelfinavir, ritonavir, and saquinavir) are known to inhibit cytochrome P-450 3A and thus could potentially increase the concentrations of cyclosporine, however no formal studies of the interaction are available.
+The HIV protease inhibitors (e.g., indinavir, nelfinavir, ritonavir, and saquinavir) are known to inhibit cytochrome P-450 3A and thus could potentially increase the concentrations of cyclosporine, however, no formal studies of the interaction are available.
 Care should be exercised when these drugs are administered concomitantly.
 
 Grapefruit juice
@@ -257,7 +257,7 @@ Grapefruit and grapefruit juice affect metabolism, increasing blood concentratio
 
 Bosentan
 
-Co-administration of bosentan (250 to 1000 mg every 12 hours based on tolerability) and cyclosporine (300 mg every 12 hours for 2 days then dosing to achieve a Cmin of 200 to 250 ng/mL) for 7 days in healthy subjects resulted in decreases in the cyclosporine mean dose-normalized AUC, Cmax, and trough concentration of approximately 50%, 30% and 60%, respectively, compared to when cyclosporine was given alone (see also Effect of Cyclosporine on the Pharmacokinetics and/or Safety of Other Drugs or Agents).
+Co-administration of bosentan (250 to 1,000 mg every 12 hours based on tolerability) and cyclosporine (300 mg every 12 hours for 2 days then dosing to achieve a Cmin of 200 to 250 ng/mL) for 7 days in healthy subjects resulted in decreases in the cyclosporine mean dose-normalized AUC, Cmax, and trough concentration of approximately 50%, 30% and 60%, respectively, compared to when cyclosporine was given alone (see also Effect of Cyclosporine on the Pharmacokinetics and/or Safety of Other Drugs or Agents).
 Coadministration of cyclosporine with bosentan should be avoided.
 
 Boceprevir
@@ -266,7 +266,7 @@ Coadministration of boceprevir (800 mg three times daily for 7 days) and cyclosp
 
 Telaprevir
 
-Coadministration of telaprevir (750 mg every 8 hours for 11 days) with cyclosporine (10 mg on day 8) in healthy subjects resulted in increases in the mean dose-normalized AUC and Cmax of cyclosporine approximately 4.5-fold and 1.3-fold, respectively, compared to when cyclosporine (100 mg single dose) was given alone.
+Coadministration of telaprevir (750 mg every 8 hours for 11 days) with cyclosporine (10 mg on Day 8) in healthy subjects resulted in increases in the mean dose-normalized AUC and Cmax of cyclosporine approximately 4.5-fold and 1.3-fold, respectively, compared to when cyclosporine (100 mg single dose) was given alone.
 
 St. John’s Wort
 
@@ -288,97 +288,103 @@ Cyclosporine may reduce the clearance of digoxin, colchicine, prednisolone, HMG-
 See the full prescribing information of the other drug for further information and specific recommendations.
 The decision on coadministration of cyclosporine with other drugs or agents should be made by the healthcare provider following the careful assessment of benefits and risks.
 
-#### Digoxin
+Digoxin
 
 Severe digitalis toxicity has been seen within days of starting cyclosporine in several patients taking digoxin.
 If digoxin is used concurrently with cyclosporine, serum digoxin concentrations should be monitored.
 
-#### Colchicine
+Colchicine
 
-There are reports on the potential of cyclosporine to enhance the toxic effects of colchicine such as myopathy and neuropathy, especially in patients with renal dysfunction.
+There are reports on the potential of cyclosporine to enhance the toxic effects of colchicine, such as myopathy and neuropathy, especially in patients with renal dysfunction.
 Concomitant administration of cyclosporine and colchicine results in significant increases in colchicine plasma concentrations.
 If colchicine is used concurrently with cyclosporine, a reduction in the dosage of colchicine is recommended.
 
-#### HMG Co-A reductase inhibitors (statins)
+HMG Co-A reductase inhibitors (statins)
 
 Literature and postmarketing cases of myotoxicity, including muscle pain and weakness, myositis, and rhabdomyolysis, have been reported with concomitant administration of cyclosporine with lovastatin, simvastatin, atorvastatin, pravastatin, and rarely, fluvastatin.
 When concurrently administered with cyclosporine, the dosage of these statins should be reduced according to label recommendations.
 Statin therapy needs to be temporarily withheld or discontinued in patients with signs and symptoms of myopathy or those with risk factors predisposing to severe renal injury, including renal failure, secondary to rhabdomyolysis.
 
-#### Repaglinide
+Repaglinide
 
 Cyclosporine may increase the plasma concentrations of repaglinide and thereby increase the risk of hypoglycemia.
-In 12 healthy male subjects who received two doses of 100 mg cyclosporine capsule orally 12 hours apart with a single dose of 0.25 mg repaglinide tablet (one half of a 0.5 mg tablet) orally 13 hours after the cyclosporine initial dose, the repaglinide mean Cmax and AUC were increased 1.8 fold (range: 0.6 to 3.7 fold) and 2.4 fold (range 1.2 to 5.3 fold), respectively.
+In 12 healthy male subjects who received two doses of 100 mg cyclosporine capsule orally 12 hours apart with a single dose of 0.25 mg repaglinide tablet (one half of a 0.5 mg tablet) orally 13 hours after the cyclosporine initial dose, the repaglinide mean Cmax and AUC were increased 1.8-fold (range, 0.6 to 3.7-fold) and 2.4 fold (range, 1.2 to 5.3 fold), respectively.
 Close monitoring of blood glucose level is advisable for a patient taking cyclosporine and repaglinide concomitantly.
 
-#### Ambrisentan
+Ambrisentan
 
 Coadministration of ambrisentan (5 mg daily) and cyclosporine (100 to 150 mg twice daily initially, then dosing to achieve Cmin 150 to 200 ng/mL) for 8 days in healthy subjects resulted mean increases in ambrisentan AUC and Cmax of approximately 2-fold and 1.5-fold, respectively, compared to ambrisentan alone.
 When coadministering ambrisentan with cyclosporine, the ambrisentan dose should not be titrated to the recommended maximum daily dose.
 
-#### Anthracycline antibiotics
+Anthracycline antibiotics
 
 High doses of cyclosporine (e.g., at starting intravenous dose of 16 mg/kg/day) may increase the exposure to anthracycline antibiotics (e.g., doxorubicin, mitoxantrone, daunorubicin) in cancer patients.
 
-#### Aliskiren
+Aliskiren
 
 Cyclosporine alters the pharmacokinetics of aliskiren, a substrate of P-glycoprotein and CYP3A4.
-In 14 healthy subjects who received concomitantly single doses of cyclosporine (200 mg) and reduced dose aliskiren (75 mg), the mean Cmax of aliskiren was increased by approximately 2.5-fold (90% CI: 1.96 to 3.17) and the mean AUC by approximately 4.3 fold (90% CI: 3.52 to 5.21), compared to when these subjects received aliskiren alone.
-The concomitant administration of aliskiren with cyclosporine prolonged the median aliskiren elimination half-life (26 hours versus 43 to 45 hours) and the Tmax (0.5 hours versus 1.5 to 2.0 hours).
+In 14 healthy subjects who received concomitantly single doses of cyclosporine (200 mg) and reduced dose aliskiren (75 mg), the mean Cmax of aliskiren was increased by approximately 2.5-fold (90% CI: 1.96 to 3.17) and the mean AUC by approximately 4.3-fold (90% CI: 3.52 to 5.21), compared to when these subjects received aliskiren alone.
+The concomitant administration of aliskiren with cyclosporine prolonged the median aliskiren elimination half-life (26 hours versus 43 to 45 hours) and the Tmax (0.5 hours versus 1.5 to 2 hours).
 The mean AUC and Cmax of cyclosporine were comparable to reported literature values.
 Coadministration of cyclosporine and aliskiren in these subjects also resulted in an increase in the number and/or intensity of adverse events, mainly headache, hot flush, nausea, vomiting, and somnolence.
-The co-administration of cyclosporine with aliskiren is not recommended.
+The coadministration of cyclosporine with aliskiren is not recommended.
 
-#### Bosentan
+Bosentan
 
-In healthy subjects, coadministration of bosentan and cyclosporine resulted in time-dependent mean increases in dose-normalized bosentan trough concentrations (i.e., approximately 21-fold on day 1 and 2-fold on day 8 (steady state)) compared to when bosentan was given alone as a single dose on day 1 (see also Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety).
+In healthy subjects, coadministration of bosentan and cyclosporine resulted in time-dependent mean increases in dose-normalized bosentan trough concentrations (i.e., approximately 21-fold on Day 1 and 2-fold on Day 8 (steady state)) compared to when bosentan was given alone as a single dose on Day 1 (see also Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety).
 Coadministration of cyclosporine with bosentan should be avoided.
 
-#### Dabigatran
+Dabigatran
 
 The effect of cyclosporine on dabigatran concentrations had not been formally studied.
 Concomitant administration of dabigatran and cyclosporine may result in increased plasma dabigatran concentrations due to the P-gp inhibitory activity of cyclosporine.
 Coadministration of cyclosporine with dabigatran should be avoided.
 
-#### Potassium sparing diuretics
+Potassium sparing diuretics
 
 Cyclosporine should not be used with potassium-sparing diuretics because hyperkalemia can occur.
 Caution is also required when cyclosporine is coadministered with potassium-sparing drugs (e.g., angiotensin-converting enzyme inhibitors, angiotensin II receptor antagonists), potassium-containing drugs as well as in patients on a potassium-rich diet.
 Control of potassium levels in these situations is advisable.
 
-### Nonsteroidal Anti-inflammatory Drug (NSAID) Interactions
+Nonsteroidal Anti-inflammatory Drug (NSAID) Interactions
 
 Clinical status and serum creatinine should be closely monitored when cyclosporine is used with NSAIDs in rheumatoid arthritis patients (see WARNINGS).
 
-Pharmacodynamic interactions have been reported to occur between cyclosporine and both naproxen and sulindac, in that concomitant use is associated with additive decreases in renal function, as determined by 99MTc-diethylenetriaminepentaacetic acid (DTPA) and (ρ-aminohippuric acid) PAH clearances.
+Pharmacodynamic interactions have been reported to occur between cyclosporine and both naproxen and sulindac, in that concomitant use is associated with additive decreases in renal function, as determined by 99mTc-diethylenetriaminepenta acetic acid (DTPA) and (ρ-aminohippuric acid) PAH clearances.
 Although concomitant administration of diclofenac does not affect blood concentrations of cyclosporine, it has been associated with approximate doubling of diclofenac blood levels and occasional reports of reversible decreases in renal function.
 Consequently, the dose of diclofenac should be in the lower end of the therapeutic range.
 
-### Methotrexate Interaction
+Methotrexate Interaction
 
-Preliminary data indicate that when methotrexate and cyclosporine were coadministered to rheumatoid arthritis patients (N=20), methotrexate concentrations (AUCs) were increased approximately 30% and the concentrations (AUCs) of its metabolite, 7-hydroxy methotrexate, were decreased by approximately 80%.
+Preliminary data indicate that when methotrexate and cyclosporine were coadministered to rheumatoid arthritis patients (N = 20), methotrexate concentrations (AUCs) were increased approximately 30% and the concentrations (AUCs) of its metabolite, 7-hydroxy methotrexate, were decreased by approximately 80%.
 The clinical significance of this interaction is not known.
-Cyclosporine concentrations do not appear to have been altered (N=6).
+Cyclosporine concentrations do not appear to have been altered (N = 6).
 
-### Sirolimus
+Sirolimus
 
 Elevations in serum creatinine were observed in studies using sirolimus in combination with full-dose cyclosporine.
 This effect is often reversible with cyclosporine dose reduction.
 Simultaneous coadministration of cyclosporine significantly increases blood levels of sirolimus.
 To minimize increases in sirolimus blood concentrations, it is recommended that sirolimus be given 4 hours after cyclosporine administration.
 
-### Nifedipine
+Nifedipine
 
 Frequent gingival hyperplasia when nifedipine is given concurrently with cyclosporine has been reported.
 The concomitant use of nifedipine should be avoided in patients in whom gingival hyperplasia develops as a side effect of cyclosporine.
 
-### Methylprednisolone
+Methylprednisolone
 
 Convulsions when high dose methylprednisolone is given concomitantly with cyclosporine have been reported.
 
-### Other Immunosuppressive Drugs and Agents
+Other Immunosuppressive Drugs and Agents
 
 Psoriasis patients receiving other immunosuppressive agents or radiation therapy (including PUVA and UVB) should not receive concurrent cyclosporine because of the possibility of excessive immunosuppression.
+
+Interactions resulting in decrease of other drug levels
+
+Cyclosporine inhibits the enterohepatic circulation of mycophenolic acid (MPA).
+Concomitant administration of cyclosporine and mycophenolate mofetil or mycophenolate sodium in transplant patients may decrease the mean exposure of MPA by 20 - 50% when compared with other immunosuppressants, which could reduce efficacy of mycophenolate mofetil or mycophenolate sodium.
+Monitor patients for alterations in efficacy of mycophenolate mofetil or mycophenolate sodium, when they are co-administered with cyclosporine.
 
 ### C. Effect of Cyclosporine on the Efficacy of Live Vaccines
 
@@ -393,17 +399,15 @@ Cyclosporine gave no evidence of mutagenic or teratogenic effects in appropriate
 Only at dose levels toxic to dams, were adverse effects seen in reproduction studies in rats (see Pregnancy).
 
 Carcinogenicity studies were carried out in male and female rats and mice.
-In the 78-week mouse study, at doses of 1, 4, and 16 mg/kg/day, evidence of a statistically significant trend was found for lymphocytic lymphomas in females, and the incidence of hepatocellular carcinomas in mid-dose males significantly exceeded the control value.
-In the 24-month rat study, conducted at 0.5, 2, and 8 mg/kg/day, pancreatic islet cell adenomas significantly exceeded the control rate in the low-dose level.
+In the 78-week mouse study, at doses of 1, 4, and 16 mg/kg/day, evidence of a statistically significant trend was found for lymphocytic lymphomas in females, and the incidence of hepatocellular carcinomas in mid-dose (0.03 times the maximum recommended human dose (MRHD) based on body surface area (BSA) males significantly exceeded the control value.
+In the 24-month rat study, conducted at 0.5, 2, and 8 mg/kg/day, pancreatic islet cell adenomas significantly exceeded the control rate in the low-dose level (0.006 times the MRHD based on BSA).
 The hepatocellular carcinomas and pancreatic islet cell adenomas were not dose related.
 
-No impairment in fertility was demonstrated in studies in male and female rats.
-
-Cyclosporine has not been found mutagenic/genotoxic in the Ames Test, the V79-HGPRT Test, the micronucleus test in mice and Chinese hamsters, the chromosome-aberration tests in Chinese hamster bone marrow, the mouse dominant lethal assay, and the DNA-repair test in sperm from treated mice.
+Cyclosporine has not been found mutagenic/genotoxic in the Ames test, the V79-HGPRT Test, the micronucleus test in mice and Chinese hamsters, the chromosome-aberration tests in Chinese hamster bone marrow, the mouse dominant lethal assay, and the DNA-repair test in sperm from treated mice.
 A recent study analyzing sister chromatid exchange (SCE) induction by cyclosporine using human lymphocytes in vitro gave indication of a positive effect (i.e., induction of SCE), at high concentrations in this system.
-In two published research studies, rabbits exposed to cyclosporine in utero (10 mg/kg/day subcutaneously) demonstrated reduced numbers of nephrons, renal hypertrophy, systemic hypertension and progressive renal insufficiency up to 35 weeks of age.
-Pregnant rats which received 12 mg/kg/day of cyclosporine intravenously (twice the recommended human intravenous dose) had fetuses with an increased incidence of ventricular septal defect.
-These findings have not been demonstrated in other species and their relevance for humans is unknown.
+
+In a fertility study in rats, increased perinatal mortality and impaired postnatal development of F1 pups were observed at 15 mg/kg/day (0.2 times the MRHD based on BSA).
+No adverse effects on fertility and reproduction were observed up to 5 mg/kg/day (0.06 times the MRHD based on BSA) in male and female rats.
 
 An increased incidence of malignancy is a recognized complication of immunosuppression in recipients of organ transplants.
 The most common forms of neoplasms are non-Hodgkin’s lymphoma and carcinomas of the skin.
@@ -412,41 +416,68 @@ It has been reported that reduction or discontinuance of immunosuppression may c
 
 ## Pregnancy
 
-### Pregnancy Category C.
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to cyclosporine, including Neoral, during pregnancy.
+Encourage women who are taking Neoral during pregnancy to enroll in the Transplant Pregnancy Registry International (TPRI) by calling 1-877­955-8677 or visiting https://www.transplantpregnancyregistry.org.
+
+Risk Summary
+
+Available data from published literature, including the Transplant Pregnancy Registry International, observational cohort studies, case-controlled studies, meta-analysis, case series, and case reports, over decades of use with cyclosporine in pregnancy have not identified a drug associated risk of major birth defects, or miscarriage.
+Adverse maternal or fetal outcomes including hypertension, preeclampsia, preterm birth, and low birth weight are increased in patients treated with cyclosporine.
+However, patients receiving cyclosporine during pregnancy have underlying medical conditions and may be treated with concomitant medications that limit the interpretability of these findings (see Data).
+
+Embryo-fetal developmental (EFD) studies in rats and rabbits with cyclosporine have shown embryo-fetal toxicity at dose levels below the MRHD based on BSA.
+
+The alcohol content of cyclosporine capsules should be taken into account when given to pregnant women (see WARNINGS, Specific Excipients).
+
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Data
+
+Human Data
+
+Available data from the National Transplantation Pregnancy Registry (NTPR) including 622 pregnancies in renal, liver, and heart transplant recipients exposed to cyclosporine during pregnancy found that the overall rate of major birth defects, live birth rates, and miscarriage rates were comparable to the general population.
+Maternal and fetal adverse outcomes, including the rate of hypertension, preeclampsia, premature births, and low birth weight infants appear to be increased in transplant recipients treated with cyclosporine compared to the general population.
+However, these patients have underlying medical conditions that confound the above findings.
+
+Animal Data
 
 Animal studies have shown reproductive toxicity in rats and rabbits.
-Cyclosporine gave no evidence of mutagenic or teratogenic effects in the standard test systems with oral application (rats up to 17 mg/kg and rabbits up to 30 mg/kg per day orally).
-Cyclosporine oral solution, USP has been shown to be embryo- and fetotoxic in rats and rabbits when given in doses 2 to 5 times the human dose.
-At toxic doses (rats at 30 mg/kg/day and rabbits at 100 mg/kg/day), cyclosporine oral solution, USP was embryo- and fetotoxic as indicated by increased pre- and postnatal mortality and reduced fetal weight together with related skeletal retardations.
-In the well-tolerated dose range (rats at up to 17 mg/kg/day and rabbits at up to 30 mg/kg/day), cyclosporine oral solution, USP proved to be without any embryolethal or teratogenic effects.
 
-There are no adequate and well-controlled studies in pregnant women and therefore, cyclosporine capsules should not be used during pregnancy unless the potential benefit to the mother justifies the potential risk to the fetus.
+Three EFD studies (two oral and one intravenous) are available in rats.
+In two EFD studies, pregnant rats were orally administered with cyclosporine either at doses of 10, 17, 30, 100 and 300 mg/kg/day or 4, 10 and 25 mg/kg/day from gestation day (GD) 6 to 15 or from GD 7 to 17, respectively.
+Maternal toxicity characterized by mortality, clinical signs of toxicity and impaired body weight gain were observed at 30 mg/kg/day and above.
+Cyclosporine was embryo- and fetotoxic as indicated by increased embryonic mortality and reduced fetal weight together with skeletal retardations in rats at 25 mg/kg/day and above.
+In addition, ventricular septal defect was observed at 25 mg/kg/day in fetuses.
+In the first study, the oral no observed effect level (NOEL) for both dams and fetuses was 17 mg/kg/day (0.2 times the MRHD based on BSA).
+In the other oral study, the NOEL for dams and fetuses were 10 and 4 mg/kg/day (0.13 and 0.05 times the MRHD based on BSA), respectively.
+In the IV EFD study, rats were administered with 3, 6 and 12 mg/kg/day of cyclosporine from GD 7 to 17.
+An increase in post implantation loss was observed at 12 mg/kg/day; ventricular septal defect was observed at ≥ 6 mg/kg/day in fetuses.
+The IV NOEL for dams and fetus were 6 and 3 mg/kg/day (below the MRHD based on BSA), respectively after IV administration.
 
-In pregnant transplant recipients who are being treated with immunosuppressants, the risk of premature birth is increased.
-The following data represent the reported outcomes of 116 pregnancies in women receiving cyclosporine capsules during pregnancy, 90% of whom were transplant patients, and most of whom received cyclosporine capsules throughout the entire gestational period.
-Since most of the patients were not prospectively identified, the results are likely to be biased toward negative outcomes.
-The only consistent patterns of abnormality were premature birth (gestational period of 28 to 36 weeks) and low birth weight for gestational age.
-It is not possible to separate the effects of cyclosporine capsules on these pregnancies from the effects of the other immunosuppressants, the underlying maternal disorders, or other aspects of the transplantation milieu.
-Sixteen fetal losses occurred.
-Most of the pregnancies (85 of 100) were complicated by disorders; including, preeclampsia, eclampsia, premature labor, abruptio placentae, oligohydramnios, Rh incompatibility and fetoplacental dysfunction.
-Preterm delivery occurred in 47%.
-Seven malformations were reported in 5 viable infants and in 2 cases of fetal loss.
-Twenty-eight percent of the infants were small for gestational age.
-Neonatal complications occurred in 27%.
-In a report of 23 children followed up to 4 years, postnatal development was said to be normal.
-More information on cyclosporine use in pregnancy, please write to: Apotex Corp., Consumer Affairs, 2400 N. Commerce Parkway, Suite 400, Weston, FL 33326.
+In rabbits, cyclosporine was orally administered at dose levels of 10, 30, 100 or 300 mg/kg/day from GD 6 to 18.
+At 100 mg/kg/day and above, reduction in body weight gain of dams and at 300 mg/kg/day abortions were observed.
+Maternal toxicity, embryo-fetotoxicity as indicated by increased pre- and postnatal mortality, reduced fetal weight together with skeletal retardations were observed at 100 mg/kg/day and above.
+The NOEL for dams and fetuses was 30 mg/kg/day (1 times the MRHD based on BSA).
 
-A limited number of observations in children exposed to cyclosporine in utero are available, up to an age of approximately 7 years.
-Renal function and blood pressure in these children were normal.
+In two published research studies, rabbits exposed to cyclosporine in utero (10 mg/kg/day subcutaneously) demonstrated reduced numbers of nephrons, renal hypertrophy, systemic hypertension and progressive renal insufficiency up to 35 weeks of age.
+These findings have not been demonstrated in other species and their relevance for humans is unknown.
 
-The alcohol content of the cyclosporine formulations should also be taken into account in pregnant women (see WARNINGS, Special Excipients).
+In a peri- and postnatal development study in rats, pregnant rats were orally administered with cyclosporine (5, 15 or 45 mg/kg/day) from GD 15 until end of lactation.
+At 45 mg/kg/day (0.5 times the MRHD based on BSA), increased pre and postnatal mortality of offspring and reduced body weight gain of surviving pups were observed.
+Cyclosporine up to 15 mg/kg/day (0.2 times the MRHD based on BSA) had no effect on pregnancy, pre and postnatal development of offspring.
 
 ## Nursing Mothers
 
-Cyclosporine is present in breast milk.
-Because of the potential for serious adverse drug reactions in nursing infants from cyclosporine capsules, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
-Cyclosporine capsules contains methanol.
-Methanol will be present in human milk at levels similar to that found in maternal serum and if present in breast milk will be orally absorbed by a nursing infant (see WARNINGS).
+Cyclosporine and its metabolites are present in human milk following oral and intravenous administration.
+Adverse effects on the breastfed infant have not been reported.
+There are no data on the effects of the drug on milk production.
+The alcohol content of cyclosporine capsules should be taken into account when given to lactating women (see WARNINGS, Specific Excipients).
+Lactating women are encouraged to avoid additional alcohol intake during treatment.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for cyclosporine and any potential adverse effects on the breastfed infant from cyclosporine or from the underlying maternal condition.
 
 ## Pediatric Use
 
@@ -454,6 +485,6 @@ Although no adequate and well-controlled studies have been conducted in children
 
 ## Geriatric Use
 
-Clinical studies of cyclosporine capsules did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger patients.
+Clinical studies of cyclosporine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger patients.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
