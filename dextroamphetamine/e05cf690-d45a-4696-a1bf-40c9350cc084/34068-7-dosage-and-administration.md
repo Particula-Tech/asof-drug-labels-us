@@ -3,7 +3,7 @@
 Amphetamines should be administered at the lowest effective dosage and dosage should be individually adjusted.
 Late evening doses should be avoided because of the resulting insomnia.
 
-Narcolepsy
+## Narcolepsy
 
 Usual dose is 5 to 60 mg per day in divided doses, depending on the individual patient response.
 
@@ -13,7 +13,7 @@ In patients 12 years of age and older, start with 10 mg daily; daily dosage may 
 If bothersome adverse reactions appear (e.g., insomnia or anorexia), dosage should be reduced.
 Give first dose on awakening; additional doses (1 or 2) at intervals of 4 to 6 hours.
 
-Attention Deficit Disorder with Hyperactivity
+## Attention Deficit Disorder with Hyperactivity
 
 Not recommended for pediatric patients under 3 years of age.
 
@@ -25,3 +25,8 @@ Only in rare cases will it be necessary to exceed a total of 40 mg per day.
 Give first dose on awakening; additional doses (1 or 2) at intervals of 4 to 6 hours.
 
 Where possible, drug administration should be interrupted occasionally to determine if there is a recurrence of behavioral symptoms sufficient to require continued therapy.
+
+Prior to treating patients with dextroamphetamine sulfate tablets assess:
+
+- for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) (see WARNINGS).
+- the family history and clinically evaluate patients for motor or verbal tics or Tourette’s syndrome (see WARNINGS).
