@@ -20,7 +20,7 @@ Hypersensitivity Reactions, Including Anaphylaxis
 Inform patients that hypersensitivity reactions, including anaphylaxis, angioedema, urticaria, contact dermatitis, rash, bronchospasm, and hypotension, may occur after administration of fluticasone.
 If such reactions occur during use with XHANCE, patients should discontinue use of the product [see Warnings and Precautions (5.3)].
 
-Immunosuppression and Risk of Infections
+Immunosuppression and Risk of Infection
 
 Warn patients who are on immunosuppressant doses of corticosteroids to avoid exposure to chickenpox or measles, and if they are exposed to consult their healthcare provider without delay.
 Inform patients of potential worsening of existing tuberculosis; fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex [see Warnings and Precautions (5.4)].

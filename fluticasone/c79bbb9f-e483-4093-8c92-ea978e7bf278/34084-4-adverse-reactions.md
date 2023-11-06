@@ -5,7 +5,7 @@ The following clinically significant adverse reactions are described elsewhere i
 - •Local Nasal Adverse Reactions: [see Warnings and Precautions (5.1)]
 - •Cataracts and Glaucoma [see Warnings and Precautions (5.2)]
 - •Hypersensitivity Reactions including Anaphylaxis [see Contraindications (4) and Warnings and Precautions (5.3)]
-- •Immunosuppression and Risk of Infections [see Warnings and Precautions (5.4)]
+- •Immunosuppression and Risk of Infection [see Warnings and Precautions (5.4)]
 - •Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.5)]
 - •Reduction in Bone Mineral Density [see Warnings and Precautions (5.7)]
 - •Effect on Growth [see Warnings and Precautions (5.8)]
