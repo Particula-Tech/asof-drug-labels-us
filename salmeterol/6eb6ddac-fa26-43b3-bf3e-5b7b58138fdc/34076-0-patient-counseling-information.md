@@ -81,6 +81,6 @@ Manufactured by:
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
-ADD-PS:6PI
+ADD-PS:7PI
