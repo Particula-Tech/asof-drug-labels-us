@@ -3,6 +3,10 @@
 Sevelamer carbonate tablets, 800 mg, are supplied as off-white to light yellow colored, oval shaped, biconvex, film-coated tablet, imprinted with “AN058” with black ink on one side and plain on the other side.
 They are available as follows:
 
+Bottles of 30: NDC 65162-058-03
+
+Bottles of 60: NDC 65162-058-06
+
 Bottles of 90: NDC 65162-058-09
 
 Bottles of 270: NDC 65162-058-27

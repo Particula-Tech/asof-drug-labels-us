@@ -8,7 +8,7 @@ Sevelamer carbonate is not absorbed systemically following oral administration a
 
 Clinical Considerations
 
-Sevelamer carbonate may decrease serum levels of fat soluble vitamins and folic acid in pregnant women [see Clinical Pharmacology (12.2)].
+Sevelamer carbonate may decrease serum levels of fat-soluble vitamins and folic acid in pregnant women [see Clinical Pharmacology (12.2)].
 Consider supplementation.
 
 Data
@@ -25,7 +25,7 @@ Sevelamer carbonate is not absorbed systemically by the mother following oral ad
 
 Clinical Considerations
 
-Sevelamer carbonate may decrease serum levels of fat soluble vitamins and folic acid in pregnant women [see Clinical Pharmacology (12.2)].
+Sevelamer carbonate may decrease serum levels of fat-soluble vitamins and folic acid in pregnant women [see Clinical Pharmacology (12.2)].
 Consider supplementation.
 
 ## 8.4 Pediatric Use
