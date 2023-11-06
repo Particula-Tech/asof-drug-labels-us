@@ -215,15 +215,15 @@ The effect was driven primarily by a significant reduction in the stroke compone
 
 Table 10 - Incidences of the primary composite endpoint, primary composite endpoint components, and secondary endpoint (THALES)
 
-|  | BRILINTAN=5523 |  | PlaceboN=5493 |  | HR (95% CI) | p-value |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | n (patientswith event) | KM% | n (patientswith event) | KM% |  |  |
-| Time to first Stroke or Death | 303 | 5.4% | 362 | 6.5% | 0.83 (0.71, 0.96) | 0.015 |
-| Time to first StrokeThe number of patients with the event of interest. In the time to first stroke, patients who died are censored at the time of death. | 284 | 5.1% | 347 | 6.3% | 0.81 (0.69, 0.95) |  |
-| Time to Death | 36 | 0.6% | 27 | 0.5% | 1.33 (0.81, 2.19) |  |
-| Secondary Endpoint |  |  |  |  |  |  |
-| Time to first Ischemic Stroke | 276 | 5.0% | 345 | 6.2% | 0.79 (0.68, 0.93) | 0.004 |
-| CI = Confidence interval; HR = Hazard ratio; KM = Kaplan-Meier percentage calculated at 30 days; N = Number of patients |  |  |  |  |  |  |
+|  | BRILINTAN=5523 |  |  | PlaceboN=5493 |  |  | HR (95% CI) | p-value |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | n (patients with event) |  | KM% | n (patients with event) |  |  | KM% |  |
+| Time to first Stroke or Death | 303 | 5.4% |  | 362 | 6.5% |  | 0.83 (0.71, 0.96) | 0.015 |
+| Time to first StrokeThe number of patients with the event of interest. In the time to first stroke, patients who died are censored at the time of death. | 284 | 5.1% |  | 347 | 6.3% |  | 0.81 (0.69, 0.95) |  |
+| Time to Death | 36 | 0.6% |  | 27 | 0.5% |  | 1.33 (0.81, 2.19) |  |
+| Secondary Endpoint |  |  |  |  |  |  |  |  |
+| Time to first Ischemic Stroke | 276 | 5.0% |  | 345 | 6.2% |  | 0.79 (0.68, 0.93) | 0.004 |
+| CI = Confidence interval; HR = Hazard ratio; KM = Kaplan-Meier percentage calculated at 30 days; N = Number of patients |  |  |  |  |  |  |  |  |
 
 The Kaplan-Meier curve (Figure 17) shows the time to first occurrence of the primary composite endpoint of stroke and death.
 
