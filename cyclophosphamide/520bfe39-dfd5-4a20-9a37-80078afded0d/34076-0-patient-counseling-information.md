@@ -6,7 +6,7 @@ Advise the patient of the following:
   Explain the need for routine blood cell counts.
   Instruct patients to monitor their temperature frequently and immediately report any occurrence of fever [see Warnings and Precautions (5.1)].
 - Advise the patient to report urinary symptoms (patients should report if their urine has turned a pink or red color) and the need for increasing fluid intake and frequent voiding [see Warnings and Precautions (5.2)].
-- Advise patients to contact a health care professional immediately for any of the following: new onset or worsening shortness of breath, cough, swelling of the ankles/legs, palpitations, weight gain of more than 5 pounds in 24 hours, dizziness or loss of consciousness [see Warnings and Precautions (5.3)].
+- Advise patients to contact a healthcare professional immediately for any of the following: new onset or worsening shortness of breath, cough, swelling of the ankles/legs, palpitations, weight gain of more than 5 pounds in 24 hours, dizziness or loss of consciousness [see Warnings and Precautions (5.3)].
 - Warn patients of the possibility of developing non-infectious pneumonitis.
   Advise patients to report promptly any new or worsening respiratory symptoms [see Warnings and Precautions (5.4)].
 - Advise female patients of reproductive potential to use highly effective contraception during treatment and for up to 1 year after completion of therapy.
@@ -25,4 +25,4 @@ Ltd. Telangana 509301, INDIA
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-11-2019-02
+08-2023-03

@@ -34,7 +34,7 @@ Alopecia occurs in patients treated with cyclophosphamide.
 Skin rash occurs occasionally in patients receiving the drug.
 Pigmentation of the skin and changes in nails can occur.
 
-## 6.2 Postmarketing Experience
+## 6.2 Post-marketing Experience
 
 The following adverse reactions have been identified from clinical trials or post-marketing surveillance.
 Because they are reported from a population from unknown size, precise estimates of frequency cannot be made.

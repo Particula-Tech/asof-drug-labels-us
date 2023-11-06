@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-- HypersensitivityCyclophosphamide is contraindicated in patients who have a history of severe hypersensitivity reactions to it, any of its metabolites, or to other components of the product.
+- Hypersensitivity Cyclophosphamide is contraindicated in patients who have a history of severe hypersensitivity reactions to it, any of its metabolites, or to other components of the product.
   Anaphylactic reactions including death have been reported with cyclophosphamide.
   Possible cross-sensitivity with other alkylating agents can occur.
 

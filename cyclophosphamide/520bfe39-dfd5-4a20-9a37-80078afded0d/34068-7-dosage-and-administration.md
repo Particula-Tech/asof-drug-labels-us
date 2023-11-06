@@ -46,7 +46,7 @@ Use aseptic technique.
 For Direct Intravenous Injection
 
 Reconstitute Cyclophosphamide for Injection with 0.9% Sodium Chloride Injection, USP only, using the volumes listed below in Table 1.
-Gently swirl the vial to dissolve the drug completely.
+Add the diluent to the vial and shake the vial vigorously to dissolve the drug completely.
 Do not use Sterile Water for Injection, USP because it results in a hypotonic solution and should not be injected directly.
 
 Table 1: Reconstitution for Direct Intravenous Injection
@@ -62,7 +62,7 @@ For Intravenous Infusion
 Reconstitution of Cyclophosphamide for Injection:
 
 Reconstitute Cyclophosphamide for Injection using 0.9% Sodium Chloride Injection, USP or Sterile Water for Injection, USP with the volume of diluent listed below in Table 2.
-Add the diluent to the vial and gently swirl to dissolve the drug completely.
+Add the diluent to the vial and shake the vial vigorously to dissolve the drug completely.
 
 Table 2: Reconstitution in preparation for Intravenous Infusion
 
@@ -95,11 +95,11 @@ Table 3: Storage of Cyclophosphamide for Injection Solutions
 | Reconstituted Solution (Without Further Dilution) |  |  |
 | 0.9% Sodium Chloride Injection, USP | up to 24 hrs | Up to 6 days |
 | Sterile Water for Injection, USP | Do not store; use immediately |  |
-| Diluted Solutionsa |  |  |
+| Diluted Solutions* |  |  |
 | 0.45% Sodium Chloride Injection, USP | up to 24 hrs | up to 6 days |
 | 5% Dextrose Injection, USP | up to 24 hrs | up to 36 hrs |
 | 5% Dextrose and 0.9% Sodium Chloride Injection, USP | up to 24 hrs | up to 36 hrs |
-| a Storage time is the total time cyclophosphamide for injection is in solution including the time it is reconstituted in 0.9% Sterile Sodium Chloride Injection, USP or Sterile Water for Injection, USP. |  |  |
+| * Storage time is the total time cyclophosphamide for injection is in solution including the time it is reconstituted in 0.9% Sterile Sodium Chloride Injection, USP or Sterile Water for Injection, USP. |  |  |
 
 Use of Reconstituted Solution for Oral Administration
 

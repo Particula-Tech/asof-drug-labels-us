@@ -5,7 +5,8 @@ Cyclophosphamide is a pro-drug that is activated by cytochrome P450s [see Clinic
 An increase of the concentration of cytotoxic metabolites may occur with:
 
 - Protease inhibitors: Concomitant use of protease inhibitors may increase the concentration of cytotoxic metabolites.
-  Use of protease inhibitor-based regimens was found to be associated with a higher incidence of infections and neutropenia in patients receiving cyclophosphamide, doxorubicin, and etoposide (CDE) than use of a Non-Nucleoside Reverse Transcriptase Inhibitor-based regimen.Combined or sequential use of cyclophosphamide and other agents with similar toxicities can potentiate toxicities.
+  Use of protease inhibitor-based regimens was found to be associated with a higher incidence of infections and neutropenia in patients receiving cyclophosphamide, doxorubicin, and etoposide (CDE) than use of a Non-Nucleoside Reverse Transcriptase Inhibitor-based regimen.
+  Combined or sequential use of cyclophosphamide and other agents with similar toxicities can potentiate toxicities.
 - Increased hematotoxicity and/or immunosuppression may result from a combined effect of cyclophosphamide and, for example:
 - ACE inhibitors: ACE inhibitors can cause leukopenia.
 - Natalizumab
