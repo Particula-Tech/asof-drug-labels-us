@@ -9,7 +9,7 @@ Inform patients that leaving Morphine Sulfate Extended-Release Capsules unsecure
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
 Expired, unwanted, or unused Morphine Sulfate Extended-Release Capsules should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
-Inform patients that they can visit www.fda.gov/drugdisposalfor a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
 
 Addiction, Abuse, and Misuse
 

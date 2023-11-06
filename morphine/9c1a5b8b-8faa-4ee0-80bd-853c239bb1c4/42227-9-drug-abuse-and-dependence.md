@@ -15,7 +15,7 @@ Abuse is the intentional, non-therapeutic use of a drug, even once, for its desi
 Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
 
 Misuse and abuse of Morphine Sulfate Extended-Release Capsules increases risk of overdose, which may lead to central nervous system and respiratory depression, hypotension, seizures, and death.
-The risk is increased with concurrent abuse of Morphine Sulfate Extended-Release Capsules with alcohol and other central nervous system (CNS) depressants.
+The risk is increased with concurrent abuse of Morphine Sulfate Extended-Release Capsules with alcohol and other CNS depressants.
 Abuse of and addiction to opioids in some individuals may not be accompanied by concurrent tolerance and symptoms of physical dependence.
 In addition, abuse of opioids can occur in the absence of addiction.
 
@@ -35,7 +35,7 @@ Proper assessment of the patient, proper prescribing practices, periodic reevalu
 Risks Specific to Abuse of Morphine Sulfate Extended-Release Capsules
 
 Abuse of Morphine Sulfate Extended-Release Capsules poses a risk of overdose and death.
-This risk is increased with concurrent use of Morphine Sulfate Extended-Release Capsules with alcohol and other CNS depressants.
+This risk is increased with concurrent use of Morphine Sulfate Extended-Release Capsules with alcohol and/or other CNS depressants.
 Taking cut, broken, chewed, crushed, or dissolved Morphine Sulfate Extended-Release Capsules enhances drug release and increases the risk of overdose and death.
 
 Morphine Sulfate Extended-Release Capsules are approved for oral use only.

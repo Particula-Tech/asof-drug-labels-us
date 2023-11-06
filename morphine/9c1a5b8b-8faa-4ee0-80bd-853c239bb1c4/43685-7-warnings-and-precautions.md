@@ -55,7 +55,7 @@ If naloxone is prescribed, educate patients and caregivers on how to treat with 
 
 ## 5.3 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-and/Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Morphine Sulfate Extended-Release Capsules with benzodiazepines or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Morphine Sulfate Extended-Release Capsules with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
 Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
@@ -87,9 +87,9 @@ To ensure that the benefits of opioid analgesics outweigh the risks of addiction
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
 Healthcare providers are strongly encouraged to do all of the following:
 
-- Complete a REMS-compliant education programoffered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Healthcare Providers Involved in the Management or Support of Patients with Pain.
+- Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Healthcare Providers Involved in the Management or Support of Patients with Pain.
 - Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
-  The Patient Counseling Guide (PCG)can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
+  The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
 - Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
 - Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
 
@@ -112,9 +112,9 @@ If a patient is suspected to be experiencing OIH, carefully consider appropriate
 
 The use of Morphine Sulfate Extended-Release Capsules in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease:Morphine Sulfate Extended-Release Capsules-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of Morphine Sulfate Extended-Release Capsules [see Warnings and Precautions (5.2)].
+Patients with Chronic Pulmonary Disease: Morphine Sulfate Extended-Release Capsules-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of Morphine Sulfate Extended-Release Capsules [see Warnings and Precautions (5.2)].
 
-lderly, Cachectic, or Debilitated Patients:Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients as they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
+Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients as they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
 
 Regularly evaluate patients, particularly when initiating and titrating Morphine Sulfate Extended-Release Capsules and when Morphine Sulfate Extended-Release Capsules are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2), Drug Interactions (7)].
 Alternatively, consider the use of non-opioid analgesics in these patients.
@@ -144,7 +144,7 @@ Avoid the use of Morphine Sulfate Extended-Release Capsules in patients with cir
 
 ## 5.11 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
-In patients who may be susceptible to the intracranial effects of CO 2retention (e.g., those with evidence of increased intracranial pressure or brain tumors), Morphine Sulfate Extended-Release Capsules may reduce respiratory drive, and the resultant CO 2retention can further increase intracranial pressure.
+In patients who may be susceptible to the intracranial effects of CO 2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), Morphine Sulfate Extended-Release Capsules may reduce respiratory drive, and the resultant CO 2 retention can further increase intracranial pressure.
 Regularly evaluate such patients for signs of sedation and respiratory depression, particularly when initiating therapy with Morphine Sulfate Extended-Release Capsules.
 
 Opioids may also obscure the clinical course in a patient with a head injury.

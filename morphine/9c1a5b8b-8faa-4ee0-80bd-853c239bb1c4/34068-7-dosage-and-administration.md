@@ -101,7 +101,7 @@ If the level of pain increases after dose stabilization, attempt to identify the
 In patients experiencing inadequate analgesia with once daily dosing of Morphine Sulfate Extended-Release Capsules, consider a twice daily regimen.
 Because steady-state plasma concentrations are approximated within 24 to 36 hours, Morphine Sulfate Extended-Release Capsules dosage adjustments may be done every 1 to 2 days.
 
-If after increasing the dosage, unacceptable opioid-related adverse reactions are observed (including an increase in pain after dosage increases), consider reducing the dosage [see Warnings and Precautions (5)].
+If after increasing the dosage, unacceptable opioid-related adverse reactions are observed (including an increase in pain after dosage increase), consider reducing the dosage [see Warnings and Precautions (5)].
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid related adverse reactions.
 
 ## 2.5 Safe Reduction or Discontinuation of Morphine Sulfate Extended-Release Capsules
