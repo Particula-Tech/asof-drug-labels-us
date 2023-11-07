@@ -1,15 +1,11 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-THIS IS NOT AN INNOCUOUS DRUG.
-IT IS NOT RECOMMENDED FOR THE TREATMENT OF ASYMPTOMATIC HYPERURICEMIA.
+Allopurinol tablets are indicated for:
 
-Allopurinol tablets reduce serum and urinary uric acid concentrations.
-Its use should be individualized for each patient and requires an understanding of its mode of action and pharmacokinetics (see CLINICAL PHARMACOLOGY, CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS).
+- •The management of adults with signs and symptoms of primary or secondary gout (acute attacks, tophi, joint destruction, uric acid lithiasis, and/or nephropathy)
+- •The management of adult and pediatric patients with leukemia, lymphoma and solid tumor malignancies who are receiving cancer therapy which causes elevations of serum and urinary uric acid levels
+- •The management of adult patients with recurrent calcium oxalate calculi whose daily uric acid excretion exceeds 800 mg/day in male patients and 750 mg/day in female patients, despite lifestyle changes (such as reduction of dietary sodium, non-dairy animal protein, oxalate rich foods, refined sugars and increases in oral fluids and fruits and vegetables)
 
-Allopurinol tablets are indicated in:
+Limitations of Use
 
-1. 1)the management of patients with signs and symptoms of primary or secondary gout (acute attacks, tophi, joint destruction, uric acid lithiasis, and/or nephropathy).
-2. 2)the management of patients with leukemia, lymphoma and malignancies who are receiving cancer therapy which causes elevations of serum and urinary uric acid levels.
-   Treatment with allopurinol tablets should be discontinued when the potential for overproduction of uric acid is no longer present.
-3. 3)the management of patients with recurrent calcium oxalate calculi whose daily uric acid excretion exceeds 800 mg/day in male patients and 750 mg/day in female patients.
-   Therapy in such patients should be carefully assessed initially and reassessed periodically to determine in each case that treatment is beneficial and that the benefits outweigh the risks.
+Allopurinol tablets are not recommended for the treatment of asymptomatic hyperuricemia.

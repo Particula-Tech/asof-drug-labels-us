@@ -1,59 +1,102 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
+
+Allopurinol is a structural analogue of the natural purine base, hypoxanthine.
 
 Allopurinol acts on purine catabolism, without disrupting the biosynthesis of purines.
 It reduces the production of uric acid by inhibiting the biochemical reactions immediately preceding its formation.
+It is an inhibitor of xanthine oxidase, the enzyme responsible for the conversion of hypoxanthine to xanthine and of xanthine to uric acid, the end product of purine metabolism in humans.
+Allopurinol is metabolized to the corresponding xanthine analogue, oxypurinol (alloxanthine), which also is an inhibitor of xanthine oxidase.
 
-Allopurinol is a structural analogue of the natural purine base, hypoxanthine.
-It is an inhibitor of xanthine oxidase, the enzyme responsible for the conversion of hypoxanthine to xanthine and of xanthine to uric acid, the end product of purine metabolism in man.
-Allopurinol is metabolized to the corresponding xanthine analogue, oxipurinol (alloxanthine), which also is an inhibitor of xanthine oxidase.
+## 12.2 Pharmacodynamics
 
-It has been shown that reutilization of both hypoxanthine and xanthine for nucleotide and nucleic acid synthesis is markedly enhanced when their oxidations are inhibited by allopurinol and oxipurinol.
+Allopurinol reduces the production of uric acid by inhibiting the biochemical reactions immediately preceding its formation in a dose dependent manner.
+The pharmacological action of allopurinol is generally believed to be mediated by its oxypurinol metabolite.
+
+### Effect on Hypoxanthine and Xanthine
+
+Reutilization of both hypoxanthine and xanthine for nucleotide and nucleic acid synthesis is markedly enhanced when their oxidations are inhibited by allopurinol and oxipurinol.
 This reutilization does not disrupt normal nucleic acid anabolism, however, because feedback inhibition is an integral part of purine biosynthesis.
-As a result of xanthine oxidase inhibition, the serum concentration of hypoxanthine plus xanthine in patients receiving allopurinol tablets for treatment of hyperuricemia is usually in the range of 0.3 to 0.4 mg/dL compared to a normal level of approximately 0.15 mg/dL.
+As a result of xanthine oxidase inhibition, the serum concentration of hypoxanthine plus xanthine in patients receiving allopurinol tablets for treatment of hyperuricemia is usually in the range of 0.3 mg/dL to 0.4 mg/dL compared to a normal level of approximately 0.15 mg/dL.
 A maximum of 0.9 mg/dL of these oxypurines has been reported when the serum urate was lowered to less than 2 mg/dL by high doses of allopurinol tablets.
 These values are far below the saturation levels at which point their precipitation would be expected to occur (above 7 mg/dL).
+The increased xanthine and hypoxanthine in the urine in patients who were treated with oral allopurinol have not been accompanied by problems of nephrolithiasis; however, there are isolated case reports of xanthine crystalluria.
 
-The renal clearance of hypoxanthine and xanthine is at least 10 times greater than that of uric acid.
-The increased xanthine and hypoxanthine in the urine have not been accompanied by problems of nephrolithiasis.
-Xanthine crystalluria has been reported in only three patients.
-Two of the patients had Lesch-Nyhan syndrome, which is characterized by excessive uric acid production combined with a deficiency of the enzyme, hypoxanthineguanine phosphoribosyltransferase (HGPRTase).
-This enzyme is required for the conversion of hypoxanthine, xanthine, and guanine to their respective nucleotides.
-The third patient had lymphosarcoma and produced an extremely large amount of uric acid because of rapid cell lysis during chemotherapy.
+### Drug Interaction Studies
+
+#### Fluorouracil
+
+Based on non-clinical data, allopurinol may decrease anti-tumor activity due to suppression of phosphorylation of 5-fluorouracil.
+
+#### Pegloticase
+
+Concomitant use of allopurinol tablets and pegloticase may potentially blunt the rise of serum uric acid levels required for monitoring the safe use of pegloticase.
+
+#### Cytotoxic Agents
+
+Enhanced bone marrow suppression by cyclophosphamide and other cytotoxic agents has been reported among patients with neoplastic disease, except leukemia, in the presence of allopurinol tablets.
+
+#### Thiazide Diuretics
+
+Reports that the concomitant administration of allopurinol and thiazide diuretics contributed to increased allopurinol toxicity were reviewed; however, a causal mechanism or cause-and-effect relationship was not found.
+
+## 12.3 Pharmacokinetics
+
+### Absorption
 
 Allopurinol is approximately 90% absorbed from the gastrointestinal tract.
-Peak plasma levels generally occur at 1.5 hours and 4.5 hours for allopurinol and oxipurinol respectively, after a single oral dose of 300 mg allopurinol tablets maximum plasma levels of about 3 mcg/mL of allopurinol and 6.5 mcg/mL of oxipurinol are produced.
+Peak plasma levels generally occur at 1.5 hours and 4.5 hours for allopurinol and oxipurinol respectively.
+After a single oral dose of 300 mg allopurinol tablets, maximum plasma levels of about 3 mcg/mL of allopurinol and 6.5 mcg/mL of oxipurinol are produced.
 
-Approximately 20% of the ingested allopurinol is excreted in the feces.
-Because of its rapid oxidation to oxipurinol and a renal clearance rate approximately that of glomerular filtration rate, allopurinol has a plasma half-life of about 1 to 2 hours.
-Oxipurinol, however, has a longer plasma half-life (approximately 15 hours) and therefore effective xanthine oxidase inhibition is maintained over a 24-hour period with single daily doses of allopurinol tablets.
-Whereas allopurinol is cleared essentially by glomerular filtration, oxipurinol is reabsorbed in the kidney tubules in a manner similar to the reabsorption of uric acid.
+### Elimination
 
-The clearance of oxipurinol is increased by uricosuric drugs, and as a consequence, the addition of uricosuric agent reduces to some degree the inhibition of xanthine oxidase by oxipurinol and increases to some degree the urinary excretion of uric acid.
-In practice, the net effect of such combined therapy may be useful in some patients in achieving minimum serum uric acid levels provided the total urinary uric acid load does not exceed the competence of the patient’s renal function.
+The half-life of allopurinol and oxipurinol are approximately 1 hour to 2 hours and 15 hours following oral dose of allopurinol tablets, respectively.
 
-Hyperuricemia may be primary, as in gout, or secondary to diseases such as acute and chronic leukemia, polycythemia vera, multiple myeloma, and psoriasis.
-It may occur with the use of diuretic agents, during renal dialysis, in the presence of renal damage, during starvation or reducing diets, and in the treatment of neoplastic disease where rapid resolution of tissue masses may occur.
-Asymptomatic hyperuricemia is not an indication for treatment with allopurinol tablets (see INDICATIONS AND USAGE).
+#### Metabolism
 
-Gout is a metabolic disorder which is characterized by hyperuricemia and resultant deposition of monosodium urate in the tissues, particularly the joints and kidneys.
-The etiology of this hyperuricemia is the overproduction of uric acid in relation to the patient’s ability to excrete it.
-If progressive deposition of urates is to be arrested or reversed, it is necessary to reduce the serum uric acid level below the saturation point to suppress urate precipitation.
+Allopurinol is metabolized to the corresponding xanthine analogue, oxypurinol (alloxanthine), which also is an inhibitor of xanthine oxidase.
 
-Administration of allopurinol tablets generally results in a fall in both serum and urinary uric acid within 2 to 3 days.
-The degree of this decrease can be manipulated almost at will since it is dose-dependent.
-A week or more of treatment with allopurinol tablets may be required before its full effects are manifested; likewise, uric acid may return to pretreatment levels slowly (usually after a period of 7 to 10 days following cessation of therapy).
-This reflects primarily the accumulation and slow clearance of oxipurinol.
-In some patients a dramatic fall in urinary uric acid excretion may not occur, particularly in those with severe tophaceous gout.
-It has been postulated that this may be due to the mobilization of urate from tissue deposits as the serum uric acid level begins to fall.
+#### Excretion
 
-The action of allopurinol tablets differs from that of uricosuric agents, which lower the serum uric acid level by increasing urinary excretion of uric acid.
-Allopurinol tablets reduce both the serum and urinary uric acid levels by inhibiting the formation of uric acid.
-The use of allopurinol tablets to block the formation of urates avoids the hazard of increased renal excretion of uric acid posed by uricosuric drugs.
+Allopurinol tablets and its primary active metabolite, oxipurinol, are eliminated by the kidneys.
+Approximately 20% of the ingested allopurinol tablets are excreted in the feces.
+Oxipurinol is primarily eliminated unchanged in urine by glomerular filtration and tubular reabsorption.
 
-Allopurinol tablets can substantially reduce serum and urinary uric acid levels in previously refractory patients even in the presence of renal damage serious enough to render uricosuric drugs virtually ineffective.
-Salicylates may be given conjointly for their antirheumatic effect without compromising the action of allopurinol tablets.
-This is in contrast to the nullifying effect of salicylates on uricosuric drugs.
+### Drug Interaction Studies
 
-Allopurinol tablets also inhibit the enzymatic oxidation of mercaptopurine, the sulfur-containing analogue of hypoxanthine, to 6-thiouric acid.
-This oxidation, which is catalyzed by xanthine oxidase, inactivates mercaptopurine.
-Hence, the inhibition of such oxidation by allopurinol tablets may result in as much as a 75% reduction in the therapeutic dose requirement of mercaptopurine when the two compounds are given together.
+#### Capecitabine
+
+Concomitant use with allopurinol may decrease concentration of capecitabine’s active metabolites, which may decrease capecitabine efficacy.
+
+#### Cyclosporine
+
+Concomitant use of allopurinol increases cyclosporine concentrations which may increase the risk of adverse reactions.
+
+#### Mercaptopurine or Azathioprine
+
+Allopurinol inhibits xanthine oxidase mediated metabolism of mercaptopurine and azathioprine.
+Concomitant use of allopurinol increases the exposure of either mercaptopurine or azathioprine which may increase the risk of their adverse reactions including myelosuppression.
+
+#### Theophylline
+
+Concomitant use of allopurinol doses greater than or equal to 600 mg/day may decrease the clearance of theophylline.
+
+#### Uricosuric Agents
+
+Uricosuric agents increase the excretion of the active allopurinol metabolite oxypurinol.
+Concomitant use with uricosuric agents decreases oxypurinol exposure which may reduce the inhibition of xanthine oxidase by oxypurinol and increases the urinary excretion of uric acid.
+
+#### Warfarin
+
+Allopurinol may inhibit the metabolism of warfarin, possibly enhancing its anticoagulant effect.
+
+## 12.5 Pharmacogenomics
+
+### HLA-B*5801 allele
+
+The HLA-B*5801 allele is a genetic marker that has shown to be associated with risk of developing allopurinol tablets related hypersensitivity syndrome (DRESS) and SJS/TEN.
+The frequency of the HLA- B*58:01 allele ranges from 8 to 10% in Han Chinese populations, about 8% in Thai populations, and about 6% in Korean populations based upon published literature and available databases.
+The frequency of the HLA-B*58:01 allele is about 4% in Blacks, about 1 % to 2 % in indigenous peoples of the Americas and Hispanic populations, and < 1% in people from European descent and Japanese.
+
+Stevens-Johnson syndrome (SJS)/Toxic epidermal necrolysis (TEN) can still occur in patients who are found to be negative for HLA-B*5801 irrespective of ethnic origin.

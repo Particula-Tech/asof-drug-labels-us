@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Patients who have developed a severe reaction to allopurinol tablets should not be restarted on the drug.
+Allopurinol tablets are contraindicated in patients with a history of hypersensitivity reaction to allopurinol or to any of the ingredients of allopurinol tablets.
