@@ -118,8 +118,6 @@ No significant effects of calcitriol on fertility and/or general reproductive pe
 
 Teratogenic Effects:
 
-Pregnancy Category C:
-
 Calcitriol has been found to be teratogenic in rabbits when given at doses of 0.08 and 0.3 mcg/kg (approximately 2 and 6 times the maximum recommended dose based on mg/m2).
 All 15 fetuses in 3 litters at these doses showed external and skeletal abnormalities.
 However, none of the other 23 litters (156 fetuses) showed external and skeletal abnormalities compared with controls.
