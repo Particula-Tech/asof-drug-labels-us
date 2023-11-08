@@ -57,7 +57,7 @@ Adult Patients:
 The following adverse reactions have been identified following use of lithium.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Central Nervous System:tremor, muscle hyperirritability (fasciculations, twitching, clonic movements of whole limbs), hypertonicity, ataxia, choreoathetotic movements, hyperactive deep tendon reflexes, extrapyramidal symptoms including acute dystonia, cogwheel rigidity, blackout spells, epileptiform seizures, slurred speech, dizziness, vertigo, downbeat nystagmus, incontinence of urine or feces, somnolence, psychomotor retardation, restlessness, confusion, stupor, coma, tongue movements, tics, tinnitus, hallucinations, poor memory, slowed intellectual functioning, startled response, worsening of organic brain syndromes, myasthenic syndromes (rarely).
+Central Nervous System: tremor, muscle hyperirritability (fasciculations, twitching, clonic movements of whole limbs), hypertonicity, ataxia, choreoathetotic movements, hyperactive deep tendon reflexes, extrapyramidal symptoms including acute dystonia, cogwheel rigidity, blackout spells, epileptiform seizures, slurred speech, dizziness, vertigo, downbeat nystagmus, incontinence of urine or feces, somnolence, psychomotor retardation, restlessness, confusion, stupor, coma, tongue movements, tics, tinnitus, hallucinations, poor memory, slowed intellectual functioning, startled response, worsening of organic brain syndromes, myasthenic syndromes (rarely).
 
 EEG Changes: diffuse slowing, widening of frequency spectrum, potentiation and disorganization of background rhythm.
 
@@ -65,7 +65,7 @@ Cardiovascular: conduction disturbance (mostly sinus node dysfunction with possi
 
 ECG Changes: reversible flattening, isoelectricity or rarely inversion of T-waves, prolongation of the QTc interval.
 
-Gastrointestinal:anorexia, nausea, vomiting, diarrhea, gastritis, salivary gland swelling, abdominal pain, excessive salivation, flatulence, indigestion.
+Gastrointestinal: anorexia, nausea, vomiting, diarrhea, gastritis, salivary gland swelling, abdominal pain, excessive salivation, flatulence, indigestion.
 
 Genitourinary: glycosuria, decreased creatinine clearance, albuminuria, oliguria, and symptoms of nephrogenic diabetes insipidus including polyuria, thirst, and polydipsia.
 

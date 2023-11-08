@@ -44,7 +44,8 @@ Lactation:
 
 Advise women that breastfeeding is not recommended during treatment with lithium [see Use in Specific Populations (8.2)].
 
-- Medication Guide available at
+Medication Guide available at
+
 - www.glenmarkpharma-us.com/medguides
 
 Manufactured by:

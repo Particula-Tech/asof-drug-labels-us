@@ -14,15 +14,15 @@ The group receiving lithium demonstrated superiority to those receiving placebo 
 
 Table 5: Primary Efficacy Results
 
-| Analysis | TreatmentGroup | Change From Baseline at Week 8 in YMRS Summary Score |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| N | Mean BaselineScore (SD) |  | LS Mean Change from Baseline (SE) | Difference1(95% CI) |  |  |
-| Acute Efficacy | Lithium: | 53 | 29.5 (5.6) |  | -12.9 (3.1) | -5.5 (-10.5, -0.5) |
-| Placebo: | 28 | 30 (6) |  | -7.3 (3.1) |  |  |
-| Analysis | TreatmentGroup2 | All-cause Discontinuation |  |  |  |  |
-| N |  | Number of Discontinued Subjects |  | Hazard Ratio3(95% CI) |  |  |
-| Randomized Withdrawal | Lithium: | 17 |  | 7 (41.2%) |  | 0.28 (0.10, 0.78) |
-| Placebo: | 14 |  | 11 (78.6%) |  |  |  |
+| Analysis | TreatmentGroup | Change From Baseline at Week 8 in YMRS Summary Score |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| N | Mean BaselineScore (SD) | LS Mean Change from Baseline (SE) | Difference1(95% CI) |  |  |
+| Acute Efficacy | Lithium: | 53 | 29.5 (5.6) | -12.9 (3.1) | -5.5 (-10.5, -0.5) |
+| Placebo: | 28 | 30 (6) | -7.3 (3.1) |  |  |
+| Analysis | TreatmentGroup2 | All-cause Discontinuation |  |  |  |
+| N | Number of Discontinued Subjects |  | Hazard Ratio3(95% CI) |  |  |
+| Randomized Withdrawal | Lithium: | 17 | 7 (41.2%) |  | 0.28 (0.10, 0.78) |
+| Placebo: | 14 | 11 (78.6%) |  |  |  |
 
 SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval.
 
