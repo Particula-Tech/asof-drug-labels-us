@@ -13,5 +13,3 @@ The inactive ingredients in each tablet are lactose monohydrate, magnesium stear
 The 5 mg dosage strength also contains FD&C red no. 40 aluminium lake.
 The 20 mg and 40 mg dosage strengths also contain FD&C blue no. 1 aluminium lake and D&C yellow no. 10 aluminium lake.
 The 30 mg dosage strength also contains FD&C blue no. 1 aluminium lake.
-
-FDA approved dissolution test specifications differ from USP.
