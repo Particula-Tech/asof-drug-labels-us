@@ -4,7 +4,7 @@
 
 NDC 55566-5050-1
 
-Nocdurna ® (desmopressin acetate) Sublingual Tablets
+Nocdurna® (desmopressin acetate) Sublingual Tablets
 
 27.7 mcg per tablet
 
