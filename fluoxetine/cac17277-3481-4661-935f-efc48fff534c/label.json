@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA076458"
+  ],
+  "inn": "fluoxetine",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-730-41"
+  ],
+  "products": [
+    {
+      "form": "LIQUID",
+      "generic": "fluoxetine",
+      "name": "Fluoxetine"
+    }
+  ],
+  "setid": "cac17277-3481-4661-935f-efc48fff534c",
+  "source": "dailymed"
+}
