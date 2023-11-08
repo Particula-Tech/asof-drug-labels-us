@@ -1,8 +1,8 @@
-# MEDICATION GUIDE
-
 Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-Venlafaxine (ven" la fax' een) Tablets
+MEDICATION GUIDE
+
+Venlafaxine (ven'' la fax' een) Tablets
 
 Read the Medication Guide that comes with venlafaxine tablets before you start taking them and each time you get a refill.
 There may be new information.
@@ -189,7 +189,9 @@ Before starting venlafaxine tablets, tell your healthcare provider if you:
 - Are taking certain drugs such as:
 - Amphetamines
 - Medicines used to treat migraine headaches such as:
+
 - triptans
+
 - Medicines used to treat mood, anxiety, psychotic or thought disorders, such as:
 - tricyclic antidepressants
 - lithium
@@ -197,7 +199,11 @@ Before starting venlafaxine tablets, tell your healthcare provider if you:
 - SNRIs
 - antipsychotic drugs
 - Medicines used to treat pain such as:
-- tramadol
+  - tramadol
+  - meperidine
+  - methadone,
+  - or other opioids
+
 - Medicines used to thin your blood such as:
 - warfarin
 - Medicines used to treat heartburn such as:
@@ -323,4 +329,4 @@ Opava-Komarov, Czech Republic
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-F 9/2021
+I 8/2023

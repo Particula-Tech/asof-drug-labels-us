@@ -55,7 +55,7 @@ It should be noted that venlafaxine tablets are not approved for use in treating
 
 ## Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including venlafaxine hydrochloride, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including venlafaxine hydrochloride, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, meperidine, methadone, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
@@ -214,9 +214,10 @@ It should be discontinued in any patient who develops seizures.
 SSRIs and SNRIs, including venlafaxine hydrochloride, may increase the risk of bleeding events.
 Concomitant use of aspirin, non-steroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage (see Pregnancy).
 Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
-Patients should be cautioned about the risk of bleeding associated with the concomitant use of venlafaxine hydrochloride and NSAIDs, aspirin, or other drugs that affect coagulation.
+Patients should be cautioned about the increased risk of bleeding associated with the concomitant use of venlafaxine hydrochloride and NSAIDs, aspirin, or other drugs that affect coagulation.
 
 ### Serum Cholesterol Elevation
 
@@ -297,7 +298,7 @@ Patients should be advised to notify their physician if they are breastfeeding a
 
 Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs, including herbal preparations and nutritional supplements, since there is a potential for interactions.
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of venlafaxine hydrochloride and triptans, tramadol, tryptophan supplements or other serotonergic agents (see CONTRAINDICATIONS and WARNINGS,Serotonin Syndrome and PRECAUTIONS, Drug Interactions, CNS-Active Drugs, Serotonergic Drugs).
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of venlafaxine hydrochloride and triptans, opioids, tryptophan supplements or other serotonergic agents (see CONTRAINDICATIONS and WARNINGS, Serotonin Syndrome and PRECAUTIONS, Drug Interactions, CNS-Active Drugs, Serotonergic Drugs).
 
 Patients should be cautioned about the concomitant use of venlafaxine hydrochloride and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding (see PRECAUTIONS, Abnormal Bleeding).
 
@@ -457,7 +458,7 @@ Consequently, caution is advised if the concomitant administration of venlafaxin
 
 #### Serotonergic Drugs
 
-Based on the mechanism of action of SNRIs and SSRIs, including venlafaxine hydrochloride, and the potential for serotonin syndrome, caution is advised when venlafaxine is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol, amphetamines, or St. John’s Wort (see WARNINGS, Serotonin Syndrome).
+Based on the mechanism of action of SNRIs and SSRIs, including venlafaxine hydrochloride, and the potential for serotonin syndrome, caution is advised when venlafaxine is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, opioids, amphetamines, or St. John’s Wort (see WARNINGS, Serotonin Syndrome).
 If concomitant treatment of venlafaxine with these drugs is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see CONTRAINDICATIONS and WARNINGS, Serotonin Syndrome).
 The concomitant use of venlafaxine with tryptophan supplements is not recommended (see CONTRAINDICATIONS and WARNINGS, Serotonin Syndrome).
 
@@ -520,6 +521,8 @@ Because animal reproduction studies are not always predictive of human response,
 
 ### Nonteratogenic Effects
 
+Based on data from published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage (see PRECAUTIONS, Abnormal Bleeding).
+
 Neonates exposed to venlafaxine hydrochloride, other SNRIs (Serotonin and Norepinephrine Reuptake Inhibitors), or SSRIs (Selective Serotonin Reuptake Inhibitors), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
@@ -559,3 +562,7 @@ SSRIs and SNRIs, including venlafaxine hydrochloride, have been associated with 
 
 The pharmacokinetics of venlafaxine and ODV are not substantially altered in the elderly (see CLINICAL PHARMACOLOGY).
 No dose adjustment is recommended for the elderly on the basis of age alone, although other clinical circumstances, some of which may be more common in the elderly, such as renal or hepatic impairment, may warrant a dose reduction (see DOSAGE AND ADMINISTRATION).
+
+## Maternal Adverse Reactions
+
+Use of venlafaxine hydrochloride in the month before delivery may be associated with an increased risk of postpartum hemorrhage (see PRECAUTIONS, Abnormal Bleeding).
