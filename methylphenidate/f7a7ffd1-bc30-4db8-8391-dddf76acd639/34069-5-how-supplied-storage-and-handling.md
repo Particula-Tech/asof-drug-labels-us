@@ -36,10 +36,3 @@ Methylphenidate Hydrochloride Extended-Release Capsules should be stored at 20°
 Protect from moisture.
 
 Dispense in tight container (USP).
-
-Disposal
-
-Comply with local laws and regulations on drug disposal of CNS stimulants.
-Dispose of remaining, unused, or expired Methylphenidate Hydrochloride Extended-Release Capsules by a medicine takeback program or by an authorized collector registered with the Drug Enforcement Administration.
-If no take-back program or authorized collector is available, mix Methylphenidate Hydrochloride Extended-Release Capsules with an undesirable, nontoxic substance to make it less appealing to children and pets.
-Place the mixture in a container such as a sealed plastic bag and discard Methylphenidate Hydrochloride Extended-Release Capsules in the household trash.

@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Methylphenidate Hydrochloride Extended-Release Capsules is indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in patients 6 years and older [see Clinical Studies (14)].
+Methylphenidate hydrochloride extended-release capsules are indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in patients 6 years and older [see Clinical Studies (14)].
 
 Limitations of Use
 

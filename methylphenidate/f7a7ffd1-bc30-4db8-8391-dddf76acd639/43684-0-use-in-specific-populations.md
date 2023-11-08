@@ -4,7 +4,7 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to Methylphenidate Hydrochloride Extended-Release Capsules during pregnancy.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to methylphenidate hydrochloride extended-release capsules during pregnancy.
 Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychostimulants at 1-866-961-2388.
 
 Risk Summary
@@ -20,7 +20,7 @@ Clinical Considerations
 
 Fetal/Neonatal adverse reactions
 
-CNS stimulants, such as Methylphenidate Hydrochloride Extended-Release Capsules, can cause vasoconstriction and thereby decrease placental perfusion.
+CNS stimulants, such as methylphenidate hydrochloride extended-release capsules, can cause vasoconstriction and thereby decrease placental perfusion.
 No fetal and/or neonatal adverse reactions have been reported with the use of therapeutic doses of methylphenidate during pregnancy; however, premature delivery and low birth weight infants have been reported in amphetamine-dependent mothers.
 
 Data
@@ -42,7 +42,7 @@ Risk Summary
 Limited published literature, based on breast milk sampling from five mothers, reports that methylphenidate is present in human milk, which resulted in infant doses of 0.16% to 0.7% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 1.1 and 2.7.
 There are no reports of adverse effects on the breastfed infant and no effects on milk production.
 However, long-term neurodevelopmental effects on infants from stimulant exposure are unknown.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Methylphenidate Hydrochloride Extended-Release Capsules and any potential adverse effects on the breastfed infant from Methylphenidate Hydrochloride Extended-Release Capsules or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for methylphenidate hydrochloride extended-release capsules and any potential adverse effects on the breastfed infant from methylphenidate hydrochloride extended-release capsules or from the underlying maternal condition.
 
 Clinical Considerations
 
@@ -50,20 +50,20 @@ Monitor breastfeeding infants for adverse reactions, such as agitation, anorexia
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Methylphenidate Hydrochloride Extended-Release Capsules in pediatric patients under 6 years have not been established.
+The safety and effectiveness of methylphenidate hydrochloride extended-release capsules in pediatric patients under 6 years have not been established.
 
-Safety and efficacy of Methylphenidate Hydrochloride Extended-Release Capsules were evaluated in a multicenter, placebo-controlled, double-blind, parallel group study in 119 children 4 to <6 years of age with ADHD followed by a 12-month open-label extension in 44 of these children.
+Safety and efficacy of methylphenidate hydrochloride extended-release capsules were evaluated in a multicenter, placebo-controlled, double-blind, parallel group study in 119 children 4 to <6 years of age with ADHD followed by a 12-month open-label extension in 44 of these children.
 In these studies, patients experienced high rates of adverse reactions, most notably weight loss.
-Comparing weights prior to initiation of Methylphenidate Hydrochloride Extended-Release Capsules (in the safety and efficacy study) to weights after 12 months of treatment (in the open-label extension), 20 of 39 patients with data (50%) had lost enough weight to decrease 10 or more percentiles on a Centers for Disease Control growth chart for weight.
+Comparing weights prior to initiation of methylphenidate hydrochloride extended-release capsules (in the safety and efficacy study) to weights after 12 months of treatment (in the open-label extension), 20 of 39 patients with data (50%) had lost enough weight to decrease 10 or more percentiles on a Centers for Disease Control growth chart for weight.
 In addition, systemic drug exposures in patients 4 to <6 years of age were higher than those observed in older children and adolescents at the same dose (2 to 3 fold higher Cmax and AUC).
-Therefore, the benefits of Methylphenidate Hydrochloride Extended-Release Capsules do not outweigh the risks in pediatric patients 4 to <6 years of age.
+Therefore, the benefits of methylphenidate hydrochloride extended-release capsules do not outweigh the risks in pediatric patients 4 to <6 years of age.
 
-The safety and effectiveness of Methylphenidate Hydrochloride Extended-Release Capsules have been established in pediatric patients ages 6 to 17 years in two adequate and well-controlled clinical trials [see Clinical Studies (14)].
+The safety and effectiveness of methylphenidate hydrochloride extended-release capsules have been established in pediatric patients ages 6 to 17 years in two adequate and well-controlled clinical trials [see Clinical Studies (14)].
 The long-term efficacy of methylphenidate in pediatric patients has not been established.
 
 Long Term Suppression of Growth
 
-Growth should be monitored during treatment with stimulants, including Methylphenidate Hydrochloride Extended-Release Capsules.
+Growth should be monitored during treatment with stimulants, including methylphenidate hydrochloride extended-release capsules.
 Pediatric patients who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.7)].
 
 Juvenile Animal Toxicity Data
@@ -79,5 +79,5 @@ The clinical significance of the long-term behavioral effects observed in rats i
 
 ## 8.5 Geriatric Use
 
-Clinical trials of Methylphenidate Hydrochloride Extended-Release Capsules did not include any patients aged 65 years and over.
+Clinical trials of methylphenidate hydrochloride extended-release capsules did not include any patients aged 65 years and over.
 In general, dose selection for an elderly patient start at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.

@@ -1,8 +1,8 @@
 # 11 DESCRIPTION
 
-Methylphenidate Hydrochloride Extended-Release Capsules contains methylphenidate hydrochloride, a central nervous system (CNS) stimulant.
-Methylphenidate Hydrochloride Extended-Release Capsules contain multi layered beads, which are composed of an immediate-release layer which contains approximately 40% of the methylphenidate dose, and a controlled release layer which contains approximately 60% of the methylphenidate dose.
-Methylphenidate Hydrochloride Extended-Release Capsules is available in seven capsule strengths.
+Methylphenidate hydrochloride extended-release capsules contain methylphenidate hydrochloride, a central nervous system (CNS) stimulant.
+Methylphenidate hydrochloride extended-release capsules contain multi layered beads, which are composed of an immediate-release layer which contains approximately 40% of the methylphenidate dose, and a controlled release layer which contains approximately 60% of the methylphenidate dose.
+Methylphenidate hydrochloride extended-release capsules are available in seven capsule strengths.
 Each extended-release capsule for once-a-day oral administration contains 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 50 mg, or 60 mg of methylphenidate HCl USP, which is equivalent to 8.6 mg, 13.0 mg, 17.3 mg, 25.9 mg, 34.6 mg, 43.2 mg, or 51.9 mg of methylphenidate free base, respectively.
 Chemically, methylphenidate HCl is d,l (racemic) methyl α-phenyl-2-piperidineacetate hydrochloride.
 Its molecular formula is C14H19NO2∙HCl.
