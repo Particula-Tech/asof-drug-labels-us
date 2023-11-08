@@ -178,23 +178,23 @@ Sildenafil 80 mg was also superior to 5 mg for time to first event of clinical w
 Table 7.
 Hazard Ratios for Time to First Event of Clinical Worsening – Intent To Treat Population
 
-|  | Sildenafil 5 mg N = 129 | Sildenafil 20 mg N = 128 | Sildenafil 80 mg N = 128 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Patient‑years of follow‑up | 249.6 | 276.4 | 306.5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Number of patients with clinical worsening | 52 | 36 | 28 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| First Event of clinical worseningClinical worsening events were defined as reduction from baseline in the 6MWD test by at least 15% and worsening functional class from baseline, both confirmed by a second test/evaluation within 2 weeks. n (%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Disease progressionCount of cases of disease progression as the first event of clinical worsening. | 8 (6) | 2 (2) | 6 (5) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hospitalization for PAHCount of non-elective hospital stays for worsening PAH as the first event of clinical worsening. | 28 (22) | 23 (18) | 11 (9) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| DeathCount of deaths as the first event of clinical worsening. | 16 (12) | 11 (9) | 11 (9) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hazard ratio relative to sildenafil 5 mg |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hazard ratio estimate |  | 0.63 | 0.44 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 99.7% CI |  | 0.33, 1.21 | 0.22, 0.89 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| p-value |  | 0.035 | <0.001 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hazard ratio relative to sildenafil 20 mg |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hazard ratio estimateHazard ratio estimates from the proportional Hazards model, stratified by actual previous PAH treatment and etiology of PAH. P-value from the Wald test. |  |  | 0.72 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 99.7% CI |  |  | 0.34, 1.52 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| p‑value |  |  | 0.195 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Note: Sildenafil 5 mg is not an approved dosage. Abbreviations: 6MWD = 6‑minute walk distance; CI = confidence interval; PAH = pulmonary arterial hypertension. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Sildenafil 5 mg N = 129 | Sildenafil 20 mg N = 128 | Sildenafil 80 mg N = 128 |
+| --- | --- | --- | --- |
+| Patient‑years of follow‑up | 249.6 | 276.4 | 306.5 |
+| Number of patients with clinical worsening | 52 | 36 | 28 |
+| First Event of clinical worseningClinical worsening events were defined as reduction from baseline in the 6MWD test by at least 15% and worsening functional class from baseline, both confirmed by a second test/evaluation within 2 weeks. n (%) |  |  |  |
+| Disease progressionCount of cases of disease progression as the first event of clinical worsening. | 8 (6) | 2 (2) | 6 (5) |
+| Hospitalization for PAHCount of non-elective hospital stays for worsening PAH as the first event of clinical worsening. | 28 (22) | 23 (18) | 11 (9) |
+| DeathCount of deaths as the first event of clinical worsening. | 16 (12) | 11 (9) | 11 (9) |
+| Hazard ratio relative to sildenafil 5 mg |  |  |  |
+| Hazard ratio estimate |  | 0.63 | 0.44 |
+| 99.7% CI |  | 0.33, 1.21 | 0.22, 0.89 |
+| p-value |  | 0.035 | <0.001 |
+| Hazard ratio relative to sildenafil 20 mg |  |  |  |
+| Hazard ratio estimateHazard ratio estimates from the proportional Hazards model, stratified by actual previous PAH treatment and etiology of PAH. P-value from the Wald test. |  |  | 0.72 |
+| 99.7% CI |  |  | 0.34, 1.52 |
+| p‑value |  |  | 0.195 |
+| Note: Sildenafil 5 mg is not an approved dosage. Abbreviations: 6MWD = 6‑minute walk distance; CI = confidence interval; PAH = pulmonary arterial hypertension. |  |  |  |
 
 6MWD at Months 6 and 12
 

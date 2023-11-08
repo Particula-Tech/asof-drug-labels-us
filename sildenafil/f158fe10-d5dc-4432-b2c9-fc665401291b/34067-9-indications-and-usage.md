@@ -6,4 +6,4 @@ REVATIO is indicated for the treatment of pulmonary arterial hypertension (PAH) 
 
 Pediatric Patients (1 to 17 Years old)
 
-REVATIO is indicated in pediatric patients 1 to 17 years old for the treatment of pulmonary arterial hypertension (PAH) (WHO Group I) to improve exercise ability and, in pediatric patients too young to perform standardized exercise testing, pulmonary hemodynamics thought to underly improvements in exercise [see Clinical Studies (14)].
+REVATIO is indicated in pediatric patients 1 to 17 years old for the treatment of pulmonary arterial hypertension (PAH) (WHO Group I) to improve exercise ability and, in pediatric patients too young to perform standardized exercise testing, pulmonary hemodynamics thought to underlie improvements in exercise [see Clinical Studies (14)].

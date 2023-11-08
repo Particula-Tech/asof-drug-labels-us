@@ -35,7 +35,7 @@ Limited clinical data during lactation preclude a clear determination of the ris
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of REVATIO have been established in pediatric patients 1 to 17 years old, for the treatment of PAH (WHO Group I) to improve exercise ability and, in patients too young to perform standard exercising testing, pulmonary hemodynamics thought to underly improvements in exercise Use of REVATIO for this indication is supported by evidence from adequate and well-controlled studies in adults with additional PK and safety data in pediatric patients aged 1 year and older [see Adverse Reactions (6.1), Clinical Studies (14)].
+The safety and efficacy of REVATIO have been established in pediatric patients 1 to 17 years old, for the treatment of PAH (WHO Group I) to improve exercise ability and, in patients too young to perform standard exercising testing, pulmonary hemodynamics thought to underlie improvements in exercise Use of REVATIO for this indication is supported by evidence from adequate and well-controlled studies in adults with additional PK and safety data in pediatric patients aged 1 year and older [see Adverse Reactions (6.1), Clinical Studies (14)].
 The safety and effectiveness of REVATIO have not been established in pediatric patients younger than 1 year of age.
 
 During the conduct of the pediatric studies (STARTS-1 and STARTS-2) [see Clinical Studies (14)], an imbalance in the number of deaths was noted: 5/55 (9.1%), 10/74 (13.5%), and 22/100 (22%) in the sildenafil low, medium, and high dose groups, respectively.
