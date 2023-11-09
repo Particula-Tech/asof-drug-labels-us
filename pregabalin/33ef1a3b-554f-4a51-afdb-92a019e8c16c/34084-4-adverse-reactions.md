@@ -21,11 +21,11 @@ The following serious adverse reactions are described elsewhere in the labeling:
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 In all controlled and uncontrolled trials across various patient populations during the premarketing development of pregabalin, more than 10,000 patients have received pregabalin.
-Approximately 5000 patients were treated for 6 months or more, over 3100 patients were treated for 1 year or longer, and over 1400 patients were treated for at least 2 years.
+Approximately 5,000 patients were treated for 6 months or more, over 3,100 patients were treated for 1 year or longer, and over 1,400 patients were treated for at least 2 years.
 
 Adverse Reactions Most Commonly Leading to Discontinuation in All Premarketing Controlled Clinical Studies
 
-In premarketing controlled trials of all populations combined, 14% of patients treated with pregabalin and 7% of patients treated with placebo discontinued prematurely due to adverse reactions.
+In premarketing controlled trials of all adult populations combined, 14% of patients treated with pregabalin and 7% of patients treated with placebo discontinued prematurely due to adverse reactions.
 In the pregabalin treatment group, the adverse reactions most frequently leading to discontinuation were dizziness (4%) and somnolence (4%).
 In the placebo group, 1% of patients withdrew due to dizziness and less than 1% withdrew due to somnolence.
 Other adverse reactions that led to discontinuation from controlled trials more frequently in the pregabalin group compared to the placebo group were ataxia, confusion, asthenia, thinking abnormal, blurred vision, incoordination, and peripheral edema (1% each).
@@ -54,7 +54,7 @@ Adverse Reaction Incidence in Controlled Trials in Neuropathic Pain Associated w
 
 | [N=979] % | [N=459] % |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Body system Preferred term | 75 mg/day [N=77] % | 150 mg/day [N=212] % | 300 mg/day [N=321] % | 600 mg/day [N=369] % | All PGBPGB: pregabalin | Placebo |
+| Body system Preferred term | 75 mg/day [N=77] % | 150 mg/day [N=212] % | 300 mg/day [N=321] % | 600 mg/day [N=369] % | All PGB PGB: pregabalin | Placebo |
 | Body as a whole |  |  |  |  |  |  |
 | Asthenia | 4 | 2 | 4 | 7 | 5 | 2 |
 | Accidental injury | 5 | 2 | 2 | 6 | 4 | 3 |
@@ -79,7 +79,7 @@ Adverse Reaction Incidence in Controlled Trials in Neuropathic Pain Associated w
 | Confusion | 0 | 1 | 2 | 3 | 2 | 1 |
 | Euphoria | 0 | 0 | 3 | 2 | 2 | 0 |
 | Incoordination | 1 | 0 | 2 | 2 | 2 | 0 |
-| Thinking abnormalThinking abnormal primarily consists of events related to difficulty with concentration/attention but also includes events related to cognition and language problems and slowed thinking. | 1 | 0 | 1 | 3 | 2 | 0 |
+| Thinking abnormal Thinking abnormal primarily consists of events related to difficulty with concentration/attention but also includes events related to cognition and language problems and slowed thinking. | 1 | 0 | 1 | 3 | 2 | 0 |
 | Tremor | 1 | 1 | 1 | 2 | 1 | 0 |
 | Abnormal gait | 1 | 0 | 1 | 3 | 1 | 0 |
 | Amnesia | 3 | 1 | 0 | 2 | 1 | 0 |
@@ -87,7 +87,7 @@ Adverse Reaction Incidence in Controlled Trials in Neuropathic Pain Associated w
 | Respiratory system |  |  |  |  |  |  |
 | Dyspnea | 3 | 0 | 2 | 2 | 2 | 1 |
 | Special senses |  |  |  |  |  |  |
-| Blurry visionInvestigator term; summary level term is amblyopia | 3 | 1 | 3 | 6 | 4 | 2 |
+| Blurry vision Investigator term; summary level term is amblyopia | 3 | 1 | 3 | 6 | 4 | 2 |
 | Abnormal vision | 1 | 0 | 1 | 1 | 1 | 0 |
 
 Controlled Studies in Postherpetic Neuralgia
@@ -109,7 +109,7 @@ Overall, 12.4% of all pregabalin-treated patients and 9.0% of all placebo-treate
 Table 5.
 Adverse Reaction Incidence in Controlled Trials in Neuropathic Pain Associated with Postherpetic Neuralgia
 
-| Body system Preferred term | 75 mg/day [N=84] % | 150 mg/day [N=302] % | 300 mg/day [N=312] % | 600 mg/day [N=154] % | All PGBPGB: pregabalin [N=852] % | Placebo [N=398] % |
+| Body system Preferred term | 75 mg/d [N=84] % | 150 mg/d [N=302] % | 300 mg/d [N=312] % | 600 mg/d [N=154] % | All PGB PGB: pregabalin [N=852] % | Placebo [N=398] % |
 | --- | --- | --- | --- | --- | --- | --- |
 | Body as a whole |  |  |  |  |  |  |
 | Infection | 14 | 8 | 6 | 3 | 7 | 4 |
@@ -135,14 +135,14 @@ Adverse Reaction Incidence in Controlled Trials in Neuropathic Pain Associated w
 | Ataxia | 1 | 2 | 5 | 9 | 5 | 1 |
 | Abnormal gait | 0 | 2 | 4 | 8 | 4 | 1 |
 | Confusion | 1 | 2 | 3 | 7 | 3 | 0 |
-| Thinking abnormalThinking abnormal primarily consists of events related to difficulty with concentration/attention but also includes events related to cognition and language problems and slowed thinking. | 0 | 2 | 1 | 6 | 2 | 2 |
+| Thinking abnormal Thinking abnormal primarily consists of events related to difficulty with concentration/attention but also includes events related to cognition and language problems and slowed thinking. | 0 | 2 | 1 | 6 | 2 | 2 |
 | Incoordination | 2 | 2 | 1 | 3 | 2 | 0 |
 | Amnesia | 0 | 1 | 1 | 4 | 2 | 0 |
 | Speech disorder | 0 | 0 | 1 | 3 | 1 | 0 |
 | Respiratory system |  |  |  |  |  |  |
 | Bronchitis | 0 | 1 | 1 | 3 | 1 | 1 |
 | Special senses |  |  |  |  |  |  |
-| Blurry visionInvestigator term; summary level term is amblyopia | 1 | 5 | 5 | 9 | 5 | 3 |
+| Blurry vision Investigator term; summary level term is amblyopia | 1 | 5 | 5 | 9 | 5 | 3 |
 | Diplopia | 0 | 2 | 2 | 4 | 2 | 0 |
 | Abnormal vision | 0 | 1 | 2 | 5 | 2 | 0 |
 | Eye Disorder | 0 | 1 | 1 | 2 | 1 | 0 |
@@ -170,8 +170,8 @@ Dose-related Adverse Reaction Incidence in Controlled Trials of Adjunctive Thera
 
 |  | % | % | % | % | % |
 | --- | --- | --- | --- | --- | --- |
-|  | 150 mg/day | 300 mg/day | 600 mg/day | All PGBPGB: pregabalin | Placebo |
-| Body System Preferred Term | [N = 185] | [N = 90] | [N = 395] | [N = 670]Excludes patients who received the 50 mg dose in Study E1. | [N = 294] |
+|  | 150 mg/d | 300 mg/d | 600 mg/d | All PGB PGB: pregabalin | Placebo |
+| Body System Preferred Term | [N = 185] | [N = 90] | [N = 395] | [N = 670] Excludes patients who received the 50 mg dose in Study E1. | [N = 294] |
 | Body as a Whole |  |  |  |  |  |
 | Accidental Injury | 7 | 11 | 10 | 9 | 5 |
 | Pain | 3 | 2 | 5 | 4 | 3 |
@@ -187,7 +187,7 @@ Dose-related Adverse Reaction Incidence in Controlled Trials of Adjunctive Thera
 | Somnolence | 11 | 18 | 28 | 22 | 11 |
 | Ataxia | 6 | 10 | 20 | 15 | 4 |
 | Tremor | 3 | 7 | 11 | 8 | 4 |
-| Thinking AbnormalThinking abnormal primarily consists of events related to difficulty with concentration/attention but also includes events related to cognition and language problems and slowed thinking. | 4 | 8 | 9 | 8 | 2 |
+| Thinking Abnormal Thinking abnormal primarily consists of events related to difficulty with concentration/attention but also includes events related to cognition and language problems and slowed thinking. | 4 | 8 | 9 | 8 | 2 |
 | Amnesia | 3 | 2 | 6 | 5 | 2 |
 | Speech Disorder | 1 | 2 | 7 | 5 | 1 |
 | Incoordination | 1 | 3 | 6 | 4 | 1 |
@@ -196,9 +196,58 @@ Dose-related Adverse Reaction Incidence in Controlled Trials of Adjunctive Thera
 | Confusion | 1 | 2 | 5 | 4 | 2 |
 | Myoclonus | 1 | 0 | 4 | 2 | 0 |
 | Special Senses |  |  |  |  |  |
-| Blurred VisionInvestigator term; summary level term is amblyopia. | 5 | 8 | 12 | 10 | 4 |
+| Blurred Vision Investigator term; summary level term is amblyopia. | 5 | 8 | 12 | 10 | 4 |
 | Diplopia | 5 | 7 | 12 | 9 | 4 |
 | Abnormal Vision | 3 | 1 | 5 | 4 | 1 |
+
+Controlled Study of Adjunctive Therapy for Partial-Onset Seizures in Patients 4 to Less Than 17 Years of Age
+
+Adverse Reactions Leading to Discontinuation
+
+Approximately 2.5% of patients receiving pregabalin and no patients receiving placebo in trials of adjunctive therapy for partial-onset seizures discontinued prematurely due to adverse reactions.
+In the pregabalin treatment group, the adverse reactions leading to discontinuation were somnolence (3 patients), worsening of epilepsy (1 patient), and hallucination (1 patient).
+
+Most Common Adverse Reactions
+
+Table 7 lists all dose-related adverse reactions occurring in at least 2% of all pregabalin -treated patients.
+Dose-relatedness was defined as an incidence of the adverse event in the 10 mg/kg/day group that was at least 2% greater than the rate in both the placebo and 2.5 mg/kg/day groups.
+In this study, 201 patients received pregabalin and 94 patients received placebo for up to 12 weeks.
+A majority of pregabalin-treated patients in the clinical study had adverse reactions with a maximum intensity of "mild" or "moderate”.
+
+Table 7.
+Dose-related Adverse Reaction Incidence in a Controlled Trial in Adjunctive Therapy for Partial-Onset Seizures in Patients 4 to Less Than 17 Years of Age
+
+| Body System Preferred Term | 2.5 mg/kg/day 2.5 mg/kg/day: Maximum dose 150 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 3.5 mg/kg/day. [N=104] % | 10 mg/kg/day 10 mg/kg/day: Maximum dose 600 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 14 mg/kg/day. [N=97] % | All PGB [N=201] % | Placebo [N=94] % |
+| --- | --- | --- | --- | --- |
+| Gastrointestinal disorders |  |  |  |  |
+| Salivary hypersecretion | 1 | 4 | 2 | 0 |
+| Investigations |  |  |  |  |
+| Weight increased | 4 | 13 | 8 | 4 |
+| Metabolism and nutrition disorders |  |  |  |  |
+| Increased appetite | 7 | 10 | 8 | 4 |
+| Nervous system disorders |  |  |  |  |
+| Somnolence | 17 | 26 | 21 | 14 |
+| Abbreviations: N=number of patients; PGB = pregabalin. |  |  |  |  |
+
+Controlled Study of Adjunctive Therapy for Partial-Onset Seizures in Patients 1 Month to Less Than 4 Years of Age
+
+Most Common Adverse Reactions
+
+Table 8 lists all dose-related adverse reactions occurring in at least 2% of all pregabalin-treated patients.
+Dose-relatedness was defined as an incidence of the adverse event in the 14 mg/kg/day group that was at least 2% greater than the rate in both the placebo and 7 mg/kg/day groups.
+In this study, 105 patients received pregabalin and 70 patients received placebo for up to 14 days.
+
+Table 8.
+Dose-related Adverse Reaction Incidence in a Controlled Trial in Adjunctive Therapy for Partial-Onset Seizures in Patients 1 Month to Less Than 4 Years of Age
+
+| Body System Preferred Term | 7 mg/kg/day [N=71] % | 14 mg/kg/day [N=34] % | All PGB [N=105] % | Placebo [N=70] % |
+| --- | --- | --- | --- | --- |
+| Nervous system disorders |  |  |  |  |
+| Somnolence includes related terms including lethargy, sluggishness, and hypersomnia. | 13 | 21 | 15 | 9 |
+| Infections and infestations |  |  |  |  |
+| Pneumonia | 1 | 9 | 4 | 0 |
+| Viral infection | 3 | 6 | 4 | 3 |
+| Abbreviations: N=number of patients; PGB=pregabalin. |  |  |  |  |
 
 Controlled Studies with Fibromyalgia
 
@@ -207,6 +256,7 @@ Adverse Reactions Leading to Discontinuation
 In clinical trials of patients with fibromyalgia, 19% of patients treated with pregabalin (150 mg/day to 600 mg/day) and 10% of patients treated with placebo discontinued prematurely due to adverse reactions.
 In the pregabalin treatment group, the most common reasons for discontinuation due to adverse reactions were dizziness (6%) and somnolence (3%).
 In comparison, less than 1% of placebo-treated patients withdrew due to dizziness and somnolence.
+
 Other reasons for discontinuation from the trials, occurring with greater frequency in the pregabalin treatment group than in the placebo treatment group, were fatigue, headache, balance disorder, and weight increased.
 Each of these adverse reactions led to withdrawal in approximately 1% of patients.
 
@@ -218,9 +268,9 @@ A majority of pregabalin-treated patients in clinical studies experienced advers
 Table 9.
 Adverse Reaction Incidence in Controlled Trials in Fibromyalgia
 
-| [N=1517] % | [N=505] % |  |  |  |  |  |
+| [N=1,517] % | [N=505] % |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| System Organ Class Preferred term | 150 mg/d [N=132] % | 300 mg/d [N=502] % | 450 mg/d [N=505] % | 600 mg/d [N=378] % | All PGBPGB: pregabalin | Placebo |
+| System Organ Class Preferred term | 150 mg/d [N=132] % | 300 mg/d [N=502] % | 450 mg/d [N=505] % | 600 mg/d [N=378] % | All PGB PGB: pregabalin | Placebo |
 | Ear and Labyrinth Disorders |  |  |  |  |  |  |
 | Vertigo | 2 | 2 | 2 | 1 | 2 | 0 |
 | Eye Disorders |  |  |  |  |  |  |
@@ -289,7 +339,7 @@ Adverse Reaction Incidence in Controlled Trials in Neuropathic Pain Associated w
 
 | % | % |  |
 | --- | --- | --- |
-| System Organ Class Preferred term | PGBPGB: Pregabalin (N=182) | Placebo (N=174) |
+| System Organ Class Preferred term | PGB PGB: Pregabalin(N=182) | Placebo (N=174) |
 | Ear and labyrinth disorders |  |  |
 | Vertigo | 2.7 | 1.1 |
 | Eye disorders |  |  |
@@ -337,40 +387,37 @@ Other Adverse Reactions Observed During the Clinical Studies of Pregabalin
 Following is a list of treatment-emergent adverse reactions reported by patients treated with pregabalin during all clinical trials.
 The listing does not include those events already listed in the previous tables or elsewhere in labeling, those events for which a drug cause was remote, those events which were so general as to be uninformative, and those events reported only once which did not have a substantial probability of being acutely life-threatening.
 
-Events are categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse reactions are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients.
+Events are categorized by body system and listed in order of decreasing frequency according to the following definitions: frequentadverse reactions are those occurring on one or more occasions in at least 1/100 patients; infrequentadverse reactions are those occurring in 1/100 to 1/1,000 patients; rarereactions are those occurring in fewer than 1/1,000 patients.
 Events of major clinical importance are described in the Warnings and Precautions section (5).
 
-Body as a Whole – Frequent: Abdominal pain, Allergic reaction, Fever, Infrequent: Abscess, Cellulitis, Chills, Malaise, Neck rigidity, Overdose, Pelvic pain, Photosensitivity reaction, Rare: Anaphylactoid reaction, Ascites, Granuloma, Hangover effect, Intentional Injury, Retroperitoneal Fibrosis, Shock
+Body as a Whole – Frequent:Abdominal pain, Allergic reaction, Fever, Infrequent:Abscess, Cellulitis, Chills, Malaise, Neck rigidity, Overdose, Pelvic pain, Photosensitivity reaction, Rare:Anaphylactoid reaction, Ascites, Granuloma, Hangover effect, Intentional Injury, Retroperitoneal Fibrosis, Shock
 
-Cardiovascular System – Infrequent: Deep thrombophlebitis, Heart failure, Hypotension, Postural hypotension, Retinal vascular disorder, Syncope; Rare: ST Depressed, Ventricular Fibrillation
+Cardiovascular System – Infrequent:Deep thrombophlebitis, Heart failure, Hypotension, Postural hypotension, Retinal vascular disorder, Syncope; Rare:ST Depressed, Ventricular Fibrillation
 
-Digestive System – Frequent: Gastroenteritis, Increased appetite; Infrequent: Cholecystitis, Cholelithiasis, Colitis, Dysphagia, Esophagitis, Gastritis, Gastrointestinal hemorrhage, Melena, Mouth ulceration, Pancreatitis, Rectal hemorrhage, Tongue edema; Rare: Aphthous stomatitis, Esophageal Ulcer, Periodontal abscess
+Digestive System – Frequent:Gastroenteritis, Increased appetite; Infrequent:Cholecystitis, Cholelithiasis, Colitis, Dysphagia, Esophagitis, Gastritis, Gastrointestinal hemorrhage, Melena, Mouth ulceration, Pancreatitis, Rectal hemorrhage, Tongue edema; Rare:Aphthous stomatitis, Esophageal Ulcer, Periodontal abscess
 
-Hemic and Lymphatic System – Frequent: Ecchymosis; Infrequent: Anemia, Eosinophilia, Hypochromic anemia, Leukocytosis, Leukopenia, Lymphadenopathy, Thrombocytopenia; Rare: Myelofibrosis, Polycythemia, Prothrombin decreased, Purpura, Thrombocythemia, Alanine aminotransferase increased, Aspartate aminotransferase increased
+Hemic and Lymphatic System – Frequent:Ecchymosis; Infrequent:Anemia, Eosinophilia, Hypochromic anemia, Leukocytosis, Leukopenia, Lymphadenopathy, Thrombocytopenia; Rare:Myelofibrosis, Polycythemia, Prothrombin decreased, Purpura, Thrombocythemia, Alanine aminotransferase increased, Aspartate aminotransferase increased
 
-Metabolic and Nutritional Disorders – Rare: Glucose Tolerance Decreased, Urate Crystalluria
+Metabolic and Nutritional Disorders – Rare:Glucose Tolerance Decreased, Urate Crystalluria
 
-Musculoskeletal System – Frequent: Arthralgia, Leg cramps, Myalgia, Myasthenia; Infrequent: Arthrosis; Rare: Chondrodystrophy, Generalized Spasm
+Musculoskeletal System – Frequent:Arthralgia, Leg cramps, Myalgia, Myasthenia; Infrequent:Arthrosis; Rare:Chondrodystrophy, Generalized Spasm
 
-Nervous System – Frequent: Anxiety, Depersonalization, Hypertonia, Hypoesthesia, Libido decreased, Nystagmus, Paresthesia, Sedation, Stupor, Twitching; Infrequent: Abnormal dreams, Agitation, Apathy, Aphasia, Circumoral paresthesia, Dysarthria, Hallucinations, Hostility, Hyperalgesia, Hyperesthesia, Hyperkinesia, Hypokinesia, Hypotonia, Libido increased, Myoclonus, Neuralgia, Rare: Addiction, Cerebellar syndrome, Cogwheel rigidity, Coma, Delirium, Delusions, Dysautonomia, Dyskinesia, Dystonia, Encephalopathy, Extrapyramidal syndrome, Guillain-Barré syndrome, Hypalgesia, Intracranial hypertension, Manic reaction, Paranoid reaction, Peripheral neuritis, Personality disorder, Psychotic depression, Schizophrenic reaction, Sleep disorder, Torticollis, Trismus
+Nervous System – Frequent:Anxiety, Depersonalization, Hypertonia, Hypoesthesia, Libido decreased, Nystagmus, Paresthesia, Sedation, Stupor, Twitching; Infrequent:Abnormal dreams, Agitation, Apathy, Aphasia, Circumoral paresthesia, Dysarthria, Hallucinations, Hostility, Hyperalgesia, Hyperesthesia, Hyperkinesia, Hypokinesia, Hypotonia, Libido increased, Myoclonus, Neuralgia; Rare:Addiction, Cerebellar syndrome, Cogwheel rigidity, Coma, Delirium, Delusions, Dysautonomia, Dyskinesia, Dystonia, Encephalopathy, Extrapyramidal syndrome, Guillain-Barré syndrome, Hypalgesia, Intracranial hypertension, Manic reaction, Paranoid reaction, Peripheral neuritis, Personality disorder, Psychotic depression, Schizophrenic reaction, Sleep disorder, Torticollis, Trismus
 
-Respiratory System – Rare: Apnea, Atelectasis, Bronchiolitis, Hiccup, Laryngismus, Lung edema, Lung fibrosis, Yawn
+Respiratory System – Rare:Apnea, Atelectasis, Bronchiolitis, Hiccup, Laryngismus, Lung edema, Lung fibrosis, Yawn
 
-Skin and Appendages – Frequent: Pruritus, Infrequent: Alopecia, Dry skin, Eczema, Hirsutism, Skin ulcer, Urticaria, Vesiculobullous rash; Rare: Angioedema, Exfoliative dermatitis, Lichenoid dermatitis, Melanosis, Nail Disorder, Petechial rash, Purpuric rash, Pustular rash, Skin atrophy, Skin necrosis, Skin nodule, Stevens-Johnson syndrome, Subcutaneous nodule
+Skin and Appendages – Frequent:Pruritus, Infrequent:Alopecia, Dry skin, Eczema, Hirsutism, Skin ulcer, Urticaria, Vesiculobullous rash; Rare:Angioedema, Exfoliative dermatitis, Lichenoid dermatitis, Melanosis, Nail Disorder, Petechial rash, Purpuric rash, Pustular rash, Skin atrophy, Skin necrosis, Skin nodule, Stevens-Johnson syndrome, Subcutaneous nodule
 
-Special senses – Frequent: Conjunctivitis, Diplopia, Otitis media, Tinnitus; Infrequent: Abnormality of accommodation, Blepharitis, Dry eyes, Eye hemorrhage, Hyperacusis, Photophobia, Retinal edema, Taste loss, Taste perversion; Rare: Anisocoria, Blindness, Corneal ulcer, Exophthalmos, Extraocular palsy, Iritis, Keratitis, Keratoconjunctivitis, Miosis, Mydriasis, Night blindness, Ophthalmoplegia, Optic atrophy, Papilledema, Parosmia, Ptosis, Uveitis
+Special senses – Frequent:Conjunctivitis, Diplopia, Otitis media, Tinnitus; Infrequent:Abnormality of accommodation, Blepharitis, Dry eyes, Eye hemorrhage, Hyperacusis, Photophobia, Retinal edema, Taste loss, Taste perversion; Rare:Anisocoria, Blindness, Corneal ulcer, Exophthalmos, Extraocular palsy, Iritis, Keratitis, Keratoconjunctivitis, Miosis, Mydriasis, Night blindness, Ophthalmoplegia, Optic atrophy, Papilledema, Parosmia, Ptosis, Uveitis
 
-Urogenital System – Frequent: Anorgasmia, Impotence, Urinary frequency, Urinary incontinence; Infrequent: Abnormal ejaculation, Albuminuria, Amenorrhea, Dysmenorrhea, Dysuria, Hematuria, Kidney calculus, Leukorrhea, Menorrhagia, Metrorrhagia, Nephritis, Oliguria, Urinary retention, Urine abnormality; Rare: Acute kidney failure, Balanitis, Bladder Neoplasm, Cervicitis, Dyspareunia, Epididymitis, Female lactation, Glomerulitis, Ovarian disorder, Pyelonephritis
+Urogenital System – Frequent:Anorgasmia, Impotence, Urinary frequency, Urinary incontinence; Infrequent:Abnormal ejaculation, Albuminuria, Amenorrhea, Dysmenorrhea, Dysuria, Hematuria, Kidney calculus, Leukorrhea, Menorrhagia, Metrorrhagia, Nephritis, Oliguria, Urinary retention, Urine abnormality; Rare:Acute kidney failure, Balanitis, Bladder Neoplasm, Cervicitis, Dyspareunia, Epididymitis, Female lactation, Glomerulitis, Ovarian disorder, Pyelonephritis
 
 Comparison of Gender and Race
 
 The overall adverse event profile of pregabalin was similar between women and men.
 There are insufficient data to support a statement regarding the distribution of adverse experience reports by race.
 
-Pediatric use information is approved for Pfizer’s LYRICA (pregabalin) Capsules and Oral Solution products.
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
-## 6.2 Post-marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of pregabalin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -385,4 +432,4 @@ Skin and subcutaneous tissue disorders – Bullous pemphigoid
 
 There are postmarketing reports of life-threatening or fatal respiratory depression in patients taking pregabalin with opioids or other CNS depressants, or in the setting of underlying respiratory impairment.
 
-In addition, there are post-marketing reports of events related to reduced lower gastrointestinal tract function (e.g., intestinal obstruction, paralytic ileus, constipation) when pregabalin was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.
+In addition, there are postmarketing reports of events related to reduced lower gastrointestinal tract function (e.g., intestinal obstruction, paralytic ileus, constipation) when pregabalin was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.

@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to pregabalin during pregnancy.
-To provide information regarding the effects of in utero exposure to pregabalin, physicians are advised to recommend that pregnant patients taking pregabalin enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+To provide information regarding the effects of in uteroexposure to pregabalin, physicians are advised to recommend that pregnant patients taking pregabalin enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
@@ -24,7 +24,7 @@ Data
 
 Animal Data
 
-When pregnant rats were given pregabalin (500 mg/kg, 1,250 mg/kg, or 2,500 mg/kg) orally throughout the period of organogenesis, incidences of specific skull alterations attributed to abnormally advanced ossification (premature fusion of the jugal and nasal sutures) were increased at greater than or equal to 1250 mg/kg, and incidences of skeletal variations and retarded ossification were increased at all doses.
+When pregnant rats were given pregabalin (500 mg/kg, 1,250 mg/kg, or 2,500 mg/kg) orally throughout the period of organogenesis, incidences of specific skull alterations attributed to abnormally advanced ossification (premature fusion of the jugal and nasal sutures) were increased at greater than or equal to 1,250 mg/kg, and incidences of skeletal variations and retarded ossification were increased at all doses.
 Fetal body weights were decreased at the highest dose.
 The low dose in this study was associated with a plasma exposure (AUC) approximately 17 times human exposure at the MRD of 600 mg/day.
 A no-effect dose for rat embryo-fetal developmental toxicity was not established.
@@ -33,11 +33,11 @@ When pregnant rabbits were given pregabalin (250 mg/kg, 500 mg/kg, or 1,250 mg/k
 The no-effect dose for developmental toxicity in rabbits (500 mg/kg) was associated with a plasma exposure approximately 16 times human exposure at the MRD.
 
 In a study in which female rats were dosed with pregabalin (50 mg/kg, 100 mg/kg, 250 mg/kg, 1,250 mg/kg, or 2,500 mg/kg) throughout gestation and lactation, offspring growth was reduced at greater than or equal to 100 mg/kg and offspring survival was decreased at greater than or equal to 250 mg/kg.
-The effect on offspring survival was pronounced at doses greater than or equal to 1250 mg/kg, with 100% mortality in high-dose litters.
-When offspring were tested as adults, neurobehavioral abnormalities (decreased auditory startle responding) were observed at greater than or equal to 250 mg/kg and reproductive impairment (decreased fertility and litter size) was seen at 1250 mg/kg.
+The effect on offspring survival was pronounced at doses greater than or equal to 1,250 mg/kg, with 100% mortality in high-dose litters.
+When offspring were tested as adults, neurobehavioral abnormalities (decreased auditory startle responding) were observed at greater than or equal to 250 mg/kg and reproductive impairment (decreased fertility and litter size) was seen at 1,250 mg/kg.
 The no-effect dose for pre-and postnatal developmental toxicity in rats (50 mg/kg) produced a plasma exposure approximately 2 times human exposure at the MRD.
 
-In the prenatal-postnatal study in rats, pregabalin prolonged gestation and induced dystocia at exposures greater than or equal to 50 times the mean human exposure (AUC (0–24) of 123 μg∙hr/mL) at the MRD.
+In the prenatal-postnatal study in rats, pregabalin prolonged gestation and induced dystocia at exposures greater than or equal to 50 times the mean human exposure (AUC (0–24)of 123 μg∙hr/mL) at the MRD.
 
 ## 8.2 Lactation
 
@@ -100,16 +100,34 @@ Adjunctive Therapy for Partial-Onset Seizures
 
 Safety and effectiveness in pediatric patients below the age of 1 month have not been established.
 
+4 to Less Than 17 Years of Age with Partial-Onset Seizures
+
+The safety and effectiveness of pregabalin as adjunctive treatment for partial-onset seizures in pediatric patients 4 to less than 17 years of age have been established in a 12-week, double-blind, placebo-controlled study (n=295) [see Clinical Studies (14.3)].
+Patients treated with pregabalin 10 mg/kg/day had, on average, a 21.0% greater reduction in partial-onset seizures than patients treated with placebo (p=0.0185).
+Patients treated with pregabalin 2.5 mg/kg/day had, on average, a 10.5% greater reduction in partial-onset seizures than patients treated with placebo, but the difference was not statistically significant (p=0.2577).
+
+Responder rates (50% or greater reduction in partial-onset seizure frequency) were a key secondary efficacy parameter and showed numerical improvement with pregabalin compared with placebo: the responder rates were 40.6%, 29.1%, and 22.6%, for pregabalin 10 mg/kg/day, pregabalin 2.5 mg/kg/day, and placebo, respectively.
+
+The most common adverse reactions (≥5%) with pregabalin in this study were somnolence, weight increased, and increased appetite [see Adverse Reactions (6.1)].
+
+The use of pregabalin 2.5 mg/kg/day in pediatric patients is further supported by evidence from adequate and well-controlled studies in adults with partial-onset seizures and pharmacokinetic data from adult and pediatric patients [see Clinical Pharmacology (12.3)].
+
+1 Month to Less than 4 Years of Age with Partial-Onset Seizures
+
+The safety and effectiveness of pregabalin as adjunctive treatment for partial-onset seizures in pediatric patients 1 month to less than 4 years of age have been established in a 14-day double-blind, placebo-controlled study (N=175) [see Clinical Studies (14.3)].
+The youngest subject evaluated was 3 months of age; use in patients 1 month to less than 3 months of age is supported by additional pharmacokinetic analyses.
+Patients treated with pregabalin 14 mg/kg/day had, on average, 43.9% greater reduction in partial-onset seizures than patients treated with placebo (p=0.0223).
+In addition, pediatric patients treated with pregabalin 14 mg/kg/day showed numerical improvement in responder rates (≥50% reduction in partial-onset seizure frequency) compared with placebo (53.6% versus 41.5%).
+Patients treated with pregabalin 7 mg/kg/day did not show improvement relative to placebo for either endpoint.
+
+The most common dose-related adverse reactions (>5%) with pregabalin in this study were somnolence, pneumonia, and viral infection [see Adverse Reactions (6.1)].
+
 Juvenile Animal Data
 
 In studies in which pregabalin (50 mg/kg to 500 mg/kg) was orally administered to young rats from early in the postnatal period (Postnatal Day 7) through sexual maturity, neurobehavioral abnormalities (deficits in learning and memory, altered locomotor activity, decreased auditory startle responding and habituation) and reproductive impairment (delayed sexual maturation and decreased fertility in males and females) were observed at doses greater than or equal to 50 mg/kg.
 The neurobehavioral changes of acoustic startle persisted at greater than or equal to 250 mg/kg and locomotor activity and water maze performance at greater than or equal to 500 mg/kg in animals tested after cessation of dosing and, thus, were considered to represent long-term effects.
 The low effect dose for developmental neurotoxicity and reproductive impairment in juvenile rats (50 mg/kg) was associated with a plasma pregabalin exposure (AUC) approximately equal to human exposure at the maximum recommended dose of 600 mg/day.
 A no-effect dose was not established.
-
-Information describing a clinical study in which efficacy was not demonstrated in patients is approved for Pfizer Inc.’s Lyrica® (pregabalin) products.
-Additional pediatric use information is approved for Pfizer’s LYRICA (pregabalin) Capsules and Oral Solution products.
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 
@@ -129,5 +147,5 @@ Because pregabalin is eliminated primarily by renal excretion, adjust the dose f
 
 ## 8.6 Renal Impairment
 
-Pregabalin is eliminated primarily by renal excretion and dose adjustment is recommended for adult patients with renal impairment [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
+Pregabalin is eliminated primarily by renal excretion and dose adjustment is recommended for adult patients with renal impairment [see Dosage and Administration (2.7)and Clinical Pharmacology (12.3)].
 The use of pregabalin in pediatric patients with compromised renal function has not been studied.

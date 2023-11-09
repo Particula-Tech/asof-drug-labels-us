@@ -2,12 +2,12 @@
 
 ## 12.1 Mechanism of Action
 
-Pregabalin binds with high affinity to the alpha2-delta site (an auxiliary subunit of voltage-gated calcium channels) in central nervous system tissues.
-Although the mechanism of action of pregabalin has not been fully elucidated, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha2-delta subunit may be involved in pregabalin’s anti-nociceptive and anti-seizure effects in animals.
-In animal models of nerve damage, pregabalin has been shown to reduce calciumdependent release of pro-nociceptive neurotransmitters in the spinal cord, possibly by disrupting alpha2-delta containing-calcium channel trafficking and/or reducing calcium currents.
+Pregabalin binds with high affinity to the alpha 2-delta site (an auxiliary subunit of voltage-gated calcium channels) in central nervous system tissues.
+Although the mechanism of action of pregabalin has not been fully elucidated, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha 2-delta subunit may be involved in pregabalin’s anti-nociceptive and antiseizure effects in animals.
+In animal models of nerve damage, pregabalin has been shown to reduce calcium-dependent release of pro-nociceptive neurotransmitters in the spinal cord, possibly by disruptingalpha 2-delta containing-calcium channel trafficking and/or reducing calcium currents.
 Evidence from other animal models of nerve damage and persistent pain suggest the anti-nociceptive activities of pregabalin may also be mediated through interactions with descending noradrenergic and serotonergic pathways originating from the brainstem that modulate pain transmission in the spinal cord.
 
-While pregabalin is a structural derivative of the inhibitory neurotransmitter gammaaminobutyric acid (GABA), it does not bind directly to GABAA, GABAB, or benzodiazepine receptors, does not augment GABAA responses in cultured neurons, does not alter rat brain GABA concentration or have acute effects on GABA uptake or degradation.
+While pregabalin is a structural derivative of the inhibitory neurotransmitter gamma-aminobutyric acid (GABA), it does not bind directly to GABA A, GABA B, or benzodiazepine receptors, does not augment GABA Aresponses in cultured neurons, does not alter rat brain GABA concentration or have acute effects on GABA uptake or degradation.
 However, in cultured neurons prolonged application of pregabalin increases the density of GABA transporter protein and increases the rate of functional GABA transport.
 Pregabalin does not block sodium channels, is not active at opiate receptors, and does not alter cyclooxygenase enzyme activity.
 It is inactive at serotonin and dopamine receptors and does not inhibit dopamine, serotonin, or noradrenaline reuptake.
@@ -20,11 +20,11 @@ Absorption and Distribution
 
 Following oral administration of pregabalin capsules under fasting conditions, peak plasma concentrations occur within 1.5 hours.
 Pregabalin oral bioavailability is greater than or equal to 90% and is independent of dose.
-Following single- (25 mg to 300 mg) and multiple-dose (75 mg/day to 900 mg/day) administration, maximum plasma concentrations (Cmax) and area under the plasma concentration-time curve (AUC) values increase linearly.
+Following single-(25 mg to 300 mg) and multiple-dose (75 mg/day to 900 mg/day) administration, maximum plasma concentrations (C max) and area under the plasma concentration-time curve (AUC) values increase linearly.
 Following repeated administration, steady state is achieved within 24 to 48 hours.
 Multiple-dose pharmacokinetics can be predicted from single-dose data.
 
-The rate of pregabalin absorption is decreased when given with food, resulting in a decrease in Cmax of approximately 25% to 30% and an increase in Tmax to approximately 3 hours.
+The rate of pregabalin absorption is decreased when given with food, resulting in a decrease in C maxof approximately 25% to 30% and an increase in T maxto approximately 3 hours.
 However, administration of pregabalin with food has no clinically relevant effect on the total absorption of pregabalin.
 Therefore, pregabalin can be taken with or without food.
 
@@ -46,7 +46,7 @@ Mean renal clearance was estimated to be 67.0 mL/min to 80.9 mL/min in young hea
 Because pregabalin is not bound to plasma proteins this clearance rate indicates that renal tubular reabsorption is involved.
 Pregabalin elimination is nearly proportional to creatinine clearance (CLcr) [see Dosage and Administration (2.7)].
 
-Pharmacokinetics in Special Populations
+Pharmacokinetics in Specific Populations
 
 Race
 
@@ -72,15 +72,23 @@ Reduction of pregabalin dose may be required in patients who have age-related co
 
 Pediatric Pharmacokinetics
 
-Pediatric use information is approved for Pfizer’s LYRICA (pregabalin) Capsules and Oral Solution products.
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric Patients (3 months to less than 17 years of age)
+
+Pregabalin pharmacokinetics were evaluated in 358 pediatric patients 3 months to less than 17 years of age with partial-onset seizures at dose levels of 2.5, 5, 10, and 15 mg/kg/day after single and multiple oral administration of pregabalin.
+Following oral administration, pregabalin reaches peak plasma concentration at 0.5 hours to 2 hours in the fasted state.
+Both apparent clearance (CL/F) and apparent volume of distribution increase as body weight increases.
+A weight-based dosing regimen is necessary to achieve pregabalin exposures in pediatric patients 1 month to less than 17 years of age similar to those observed in adults treated for partial-onset seizures at effective doses [see Dosage and Administration (2.4)].
+The mean t ½is 3 to 4 hours in pediatric subjects up to 6 years of age, and 4 to 6 hours in those 7 years of age and older.
+Pregabalin CL/F is nearly proportional to CLcr (mL/min).
+The relationship is similar in pediatric and adult subjects.
+When normalized per body weight, CL/F (mL/min/kg) in pediatric subjects weighing less than 30 kg is approximately 40% higher in comparison to subjects weighing greater than or equal to 30 kg [see Dosage and Administration (2.4)].
 
 Drug Interactions
 
 In Vitro Studies
 
 Pregabalin, at concentrations that were, in general, 10-times those attained in clinical trials, does not inhibit human CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4 enzyme systems.
-In vitro drug interaction studies demonstrate that pregabalin does not induce CYP1A2 or CYP3A4 activity.
+In vitrodrug interaction studies demonstrate that pregabalin does not induce CYP1A2 or CYP3A4 activity.
 Therefore, an increase in the metabolism of coadministered CYP1A2 substrates (e.g. theophylline, caffeine) or CYP 3A4 substrates (e.g., midazolam, testosterone) is not anticipated.
 
 In Vivo Studies
@@ -90,12 +98,12 @@ The drug interaction studies described in this section were conducted in healthy
 Gabapentin
 
 The pharmacokinetic interactions of pregabalin and gabapentin were investigated in 12 healthy subjects following concomitant single-dose administration of 100-mg pregabalin and 300-mg gabapentin and in 18 healthy subjects following concomitant multiple-dose administration of 200-mg pregabalin every 8 hours and 400-mg gabapentin every 8 hours.
-Gabapentin pharmacokinetics following single-and multiple-dose administration were unaltered by pregabalin coadministration.
+Gabapentin pharmacokinetics following single- and multiple-dose administration were unaltered by pregabalin coadministration.
 The extent of pregabalin absorption was unaffected by gabapentin coadministration, although there was a small reduction in rate of absorption.
 
 Oral Contraceptive
 
-Pregabalin coadministration (200 mg three times a day) had no effect on the steady-state pharmacokinetics of norethindrone and ethinyl estradiol (1 mg/35 mcg, respectively) in healthy subjects.
+Pregabalin coadministration (200 mg three times a day) had no effect on the steady-state pharmacokinetics of norethindrone and ethinyl estradiol (1 mg/35 μg, respectively) in healthy subjects.
 
 Lorazepam
 
@@ -112,7 +120,7 @@ Multiple-dose administration of pregabalin (300 mg twice a day) in healthy subje
 
 Phenytoin, carbamazepine, valproic acid, and lamotrigine
 
-Steady-state trough plasma concentrations of phenytoin, carbamazepine and carbamazepine 10, 11 epoxide, valproic acid, and lamotrigine were not affected by concomitant pregabalin (200 mg three times a day) administration.
+Steady-state trough plasma concentrations of phenytoin, carbamazepine and carbamazepine 10,11 epoxide, valproic acid, and lamotrigine were not affected by concomitant pregabalin (200 mg three times a day) administration.
 
 Population pharmacokinetic analyses in patients treated with pregabalin and various concomitant medications suggest the following:
 

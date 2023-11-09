@@ -30,7 +30,7 @@ Accordingly, advise patients not to drive, operate complex machinery, or engage 
 
 CNS Depressants
 
-Inform patients who require concomitant treatment with central nervous system depressants such as opiates or benzodiazepines that they may experience additive CNS side effects, such as respiratory depression, somnolence, and dizziness [see Warnings and Precautions (5.4, 5.5) and Drug Interactions (7)].
+Inform patients who require concomitant treatment with central nervous system depressants such as opiates or benzodiazepines that they may experience additive CNS side effects, such as respiratory depression, somnolence, and dizziness [see Warnings and Precautions (5.4, 5.5)and Drug Interactions (7)].
 Advise patients to avoid consuming alcohol while taking pregabalin, as pregabalin may potentiate the impairment of motor skills and sedating effects of alcohol.
 
 Adverse Reactions with Abrupt or Rapid Discontinuation
@@ -71,7 +71,7 @@ Male Fertility
 
 Inform men being treated with pregabalin who plan to father a child of the potential risk of male-mediated teratogenicity.
 In preclinical studies in rats, pregabalin was associated with an increased risk of male-mediated teratogenicity.
-The clinical significance of this finding is uncertain [see Nonclinical Toxicology (13.1) and Use in specific populations (8.3)].
+The clinical significance of this finding is uncertain [see Nonclinical Toxicology (13.1)and Use in specific populations (8.3)].
 
 Dermatopathy
 
@@ -81,4 +81,4 @@ Some animals treated with pregabalin developed skin ulcerations, although no inc
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788
 
 Rev.
-1/2021
+2/2023

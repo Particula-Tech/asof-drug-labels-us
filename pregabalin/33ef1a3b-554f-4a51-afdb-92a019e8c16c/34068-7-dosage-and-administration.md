@@ -19,37 +19,37 @@ In view of the dose-dependent adverse reactions, treatment with doses above 300 
 
 ## 2.3 Postherpetic Neuralgia in Adults
 
-The recommended dose of pregabalin capsule is 75 mg to 150 mg two times a day, or 50 mg to 100 mg three times a day (150mg/day to 300 mg/day) in patients with creatinine clearance of at least 60 mL/min.
+The recommended dose of pregabalin is 75 mg to 150 mg two times a day, or 50 mg to 100 mg three times a day (150 mg/day to 300 mg/day) in patients with creatinine clearance of at least 60 mL/min.
 Begin dosing at 75 mg two times a day, or 50 mg three times a day (150 mg/day).
 The dose may be increased to 300 mg/day within 1 week based on efficacy and tolerability.
 
 Patients who do not experience sufficient pain relief following 2 to 4 weeks of treatment with 300 mg/day, and who are able to tolerate pregabalin, may be treated with up to 300 mg two times a day, or 200 mg three times a day (600 mg/day).
 In view of the dose-dependent adverse reactions and the higher rate of treatment discontinuation due to adverse reactions, reserve dosing above 300 mg/day for those patients who have on-going pain and are tolerating 300 mg daily [see Adverse Reactions (6.1)].
 
-## 2.4 Adjunctive Therapy for Partial-Onset Seizures in Patients 17 Years of Age and Older
+## 2.4 Adjunctive Therapy for Partial-Onset Seizures in Patients 1 Month of Age and Older
 
-The recommended dosage for adult patients 17 years of age and older are included in Table 1.
+The recommended dosages for adults and pediatric patients 1 month of age and older are included in Table 1.
 Administer the total daily dosage orally in two or three divided doses as indicated in Table 1.
+In pediatric patients, the recommended dosing regimen is dependent upon body weight.
 Based on clinical response and tolerability, dosage may be increased, approximately weekly.
 
 Table 1.
-Recommended Dosage for Adult Patients 17 Years and Older
+Recommended Dosage for Adults and Pediatric Patients 1 Month and Older
 
 | Age and Body Weight | Recommended Initial Dosage | Recommended Maximum Dosage | Frequency of Administration |
 | --- | --- | --- | --- |
 | Adults (17 years and older) | 150 mg/day | 600 mg/day | 2 or 3 divided doses |
+| Pediatric patients weighing 30 kg or more | 2.5 mg/kg/day | 10 mg/kg/day (not to exceed 600 mg/day) | 2 or 3 divided doses |
+| Pediatric patients weighing less than 30 kg | 3.5 mg/kg/day | 14 mg/kg/day | 1 month to less than 4 years of age: 3 divided doses 4 years of age and older: 2 or 3 divided doses |
 
 Both the efficacy and adverse event profiles of pregabalin have been shown to be dose-related.
 The effect of dose escalation rate on the tolerability of pregabalin has not been formally studied.
 The efficacy of adjunctive pregabalin in patients taking gabapentin has not been evaluated in controlled trials.
 Consequently, dosing recommendations for the use of pregabalin with gabapentin cannot be offered.
 
-Pediatric use information is approved for Pfizer’s LYRICA (pregabalin) Capsules and Oral Solution products.
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
 ## 2.5 Management of Fibromyalgia in Adults
 
-The recommended dose of pregabalin capsules for fibromyalgia is 300 mg/day to 450 mg/day.
+The recommended dose of pregabalin for fibromyalgia is 300 mg/day to 450 mg/day.
 Begin dosing at 75 mg two times a day (150 mg/day).
 The dose may be increased to 150 mg two times a day (300 mg/day) within 1 week based on efficacy and tolerability.
 Patients who do not experience sufficient benefit with 300 mg/day may be further increased to 225 mg two times a day (450 mg/day).
@@ -61,7 +61,7 @@ In view of the dose-dependent adverse reactions, treatment with doses above 450 
 The recommended dose range of pregabalin capsules for the treatment of neuropathic pain associated with spinal cord injury is 150 mg/day to 600 mg/day.
 The recommended starting dose is 75 mg two times a day (150 mg/day).
 The dose may be increased to 150 mg two times a day (300 mg/day) within 1 week based on efficacy and tolerability.
-Patients who do not experience sufficient pain relief after 2 to 3 weeks of treatment with 150 mg two times a day and who tolerate pregabalin capsules may be treated with up to 300 mg two times a day [see Clinical Studies (14.5)].
+Patients who do not experience sufficient pain relief after 2 to 3 weeks of treatment with 150 mg two times a day and who tolerate pregabalin may be treated with up to 300 mg two times a day [see Clinical Studies (14.5)].
 
 ## 2.7 Dosing for Adult Patients with Renal Impairment
 
@@ -84,15 +84,15 @@ In addition to the daily dose adjustment, administer a supplemental dose immedia
 Table 2.
 Pregabalin Dosage Adjustment Based on Renal Function
 
-| Creatinine Clearance (CLcr) (mL/min) | Total Pregabalin Daily Dose (mg/day)Total daily dose (mg/day) should be divided as indicated by dose regimen to provide mg/dose. |  |  |  | Dose Regimen |
+| Creatinine Clearance (CLcr) (mL/min) | Total Pregabalin Daily Dose (mg/day) Total daily dose (mg/day) should be divided as indicated by dose regimen to provide mg/dose. |  |  |  | Dose Regimen |
 | --- | --- | --- | --- | --- | --- |
 | Greater than or equal to 60 | 150 | 300 | 450 | 600 | BID or TID |
-| 30–60 | 75 | 150 | 225 | 300 | BID or TID |
-| 15–30 | 25–50 | 75 | 100–150 | 150 | QD or BID |
-| Less than 15 | 25 | 25–50 | 50–75 | 75 | QD |
-| Supplementary dosage following hemodialysis (mg)Supplementary dose is a single additional dose. |  |  |  |  |  |
+| 30 to 60 | 75 | 150 | 225 | 300 | BID or TID |
+| 15 to 30 | 25 to 50 | 75 | 100 to 150 | 150 | QD or BID |
+| Less than 15 | 25 | 25 to 50 | 50 to 75 | 75 | QD |
+| Supplementary dosage following hemodialysis (mg) Supplementary dose is a single additional dose. |  |  |  |  |  |
 | Patients on the 25 mg QD regimen: take one supplemental dose of 25 mg or 50 mg |  |  |  |  |  |
-| Patients on the 25 mg – 50 mg QD regimen: take one supplemental dose of 50 mg or 75 mg |  |  |  |  |  |
-| Patients on the 50 mg – 75 mg QD regimen: take one supplemental dose of 75 mg or 100 mg |  |  |  |  |  |
+| Patients on the 25 mg to 50 mg QD regimen: take one supplemental dose of 50 mg or 75 mg |  |  |  |  |  |
+| Patients on the 50 mg to 75 mg QD regimen: take one supplemental dose of 75 mg or 100 mg |  |  |  |  |  |
 | Patients on the 75 mg QD regimen: take one supplemental dose of 100 mg or 150 mg |  |  |  |  |  |
 | TID= Three divided doses; BID = Two divided doses; QD = Single daily dose. |  |  |  |  |  |

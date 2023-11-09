@@ -5,9 +5,9 @@
 There have been postmarketing reports of angioedema in patients during initial and chronic treatment with pregabalin.
 Specific symptoms included swelling of the face, mouth (tongue, lips, and gums), and neck (throat and larynx).
 There were reports of life-threatening angioedema with respiratory compromise requiring emergency treatment.
-Discontinue pregabalin capsules immediately in patients with these symptoms.
+Discontinue pregabalin immediately in patients with these symptoms.
 
-Exercise caution when prescribing pregabalin capsules to patients who have had a previous episode of angioedema.
+Exercise caution when prescribing Pregabalin capsules to patients who have had a previous episode of angioedema.
 In addition, patients who are taking other drugs associated with angioedema (e.g., angiotensin converting enzyme inhibitors [ACE-inhibitors]) may be at increased risk of developing angioedema.
 
 ## 5.2 Hypersensitivity
@@ -35,9 +35,9 @@ The risk did not vary substantially by age (5 to 100 years) in the clinical tria
 Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 3.
-Risk by indication for Antiepileptic Drugs in the Pooled Analysis
+Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
+| Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
@@ -68,8 +68,8 @@ Dizziness and somnolence generally began shortly after the initiation of pregaba
 Dizziness and somnolence were the adverse reactions most frequently leading to withdrawal (4% each) from controlled studies.
 In pregabalin-treated patients reporting these adverse reactions in short-term, controlled studies, dizziness persisted until the last dose in 30% and somnolence persisted until the last dose in 42% of patients [see Drug Interactions (7)].
 
-Pediatric use information is approved for Pfizer’s LYRICA (pregabalin) Capsules and Oral Solution products.
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+In the pregabalin controlled trials in pediatric patients 4 to less than 17 years of age and 1 month to less than 4 years of age for the treatment of partial-onset seizures, somnolence was reported in 21% and 15% of pregabalin-treated patients compared to 14% and 9% of placebo-treated patients, respectively, and occurred more frequently at higher doses.
+For patients 1 month to less than 4 years of age, somnolence includes related terms lethargy, sluggishness, and hypersomnia.
 
 ## 5.6 Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation
 
@@ -110,11 +110,11 @@ Although weight gain was not associated with clinically important changes in blo
 Among diabetic patients, pregabalin-treated patients gained an average of 1.6 kg (range: -16 to 16 kg), compared to an average 0.3 kg (range: -10 to 9 kg) weight gain in placebo patients.
 In a cohort of 333 diabetic patients who received pregabalin for at least 2 years, the average weight gain was 5.2 kg.
 
-While the effects of pregabalin-associated weight gain on glycemic control have not been systematically assessed, in controlled and longer-term open label clinical trials with diabetic patients, pregabalin treatment did not appear to be associated with loss of glycemic control (as measured by HbA1C).
+While the effects of pregabalin-associated weight gain on glycemic control have not been systematically assessed, in controlled and longer-term open label clinical trials with diabetic patients, pregabalin treatment did not appear to be associated with loss of glycemic control (as measured by HbA 1C).
 
 ## 5.9 Tumorigenic Potential
 
-In standard preclinical in vivo lifetime carcinogenicity studies of pregabalin, an unexpectedly high incidence of hemangiosarcoma was identified in two different strains of mice [see Nonclinical Toxicology (13.1)].
+In standard preclinical in vivolifetime carcinogenicity studies of pregabalin, an unexpectedly high incidence of hemangiosarcoma was identified in two different strains of mice [see Nonclinical Toxicology (13.1)].
 The clinical significance of this finding is unknown.
 Clinical experience during pregabalin’s premarketing development provides no direct means to assess its potential for inducing tumors in humans.
 
@@ -148,10 +148,10 @@ Discontinue treatment with pregabalin if myopathy is diagnosed or suspected or i
 ## 5.12 Decreased Platelet Count
 
 Pregabalin treatment was associated with a decrease in platelet count.
-Pregabalin-treated subjects experienced a mean maximal decrease in platelet count of 20 × 103/μL, compared to 11 × 103/μL in placebo patients.
-In the overall database of controlled trials in adult patients, 2% of placebo patients and 3% of pregabalin patients experienced a potentially clinically significant decrease in platelets, defined as 20% below baseline value and less than 150 × 103/μL.
-A single pregabalin-treated subject developed severe thrombocytopenia with a platelet count less than 20 × 103/ μL.
-In randomized controlled trials, pregabalin was not associated with an increase in bleeding-related adverse reactions.
+Pregabalin-treated subjects experienced a mean maximal decrease in platelet count of 20 × 10 3/μL, compared to 11 × 10 3/μL in placebo patients.
+In the overall database of controlled trials in adult patients, 2% of placebo patients and 3% of pregabalin patients experienced a potentially clinically significant decrease in platelets, defined as 20% below baseline value and less than 150 × 10 3/μL.
+A single pregabalin-treated subject developed severe thrombocytopenia with a platelet count less than 20 × 10 3/ μL.
+In randomized controlled trials, Pregabalin was not associated with an increase in bleeding-related adverse reactions.
 
 ## 5.13 PR Interval Prolongation
 

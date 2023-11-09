@@ -7,7 +7,7 @@ White to off white powder filled in size “4” hard gelatin capsules with whit
 | Bottles of 30: | NDC 50228-350-30 |
 | --- | --- |
 | Bottles of 90: | NDC 50228-350-90 |
-| Bottles of 1000: | NDC 50228-350-10 |
+| Bottles of 1,000: | NDC 50228-350-10 |
 
 50 mg capsules:
 
@@ -16,7 +16,7 @@ White to off white powder filled in size “3” hard gelatin capsules with whit
 | Bottles of 30: | NDC 50228-351-30 |
 | --- | --- |
 | Bottles of 90: | NDC 50228-351-90 |
-| Bottles of 1000: | NDC 50228-351-10 |
+| Bottles of 1,000: | NDC 50228-351-10 |
 
 75 mg capsules:
 
@@ -25,7 +25,7 @@ White to off white powder filled in size “4” hard gelatin capsules with oran
 | Bottles of 30: | NDC 50228-352-30 |
 | --- | --- |
 | Bottles of 90: | NDC 50228-352-90 |
-| Bottles of 1000: | NDC 50228-352-10 |
+| Bottles of 1,000: | NDC 50228-352-10 |
 
 100 mg capsules:
 
@@ -34,7 +34,7 @@ White to off white powder filled in size “3” hard gelatin capsules with oran
 | Bottles of 30: | NDC 50228-353-30 |
 | --- | --- |
 | Bottles of 90: | NDC 50228-353-90 |
-| Bottles of 1000: | NDC 50228-353-10 |
+| Bottles of 1,000: | NDC 50228-353-10 |
 
 150 mg capsules:
 
@@ -43,7 +43,7 @@ White to off white powder filled in size “2” hard gelatin capsules with whit
 | Bottles of 30: | NDC 50228-354-30 |
 | --- | --- |
 | Bottles of 90: | NDC 50228-354-90 |
-| Bottles of 1000: | NDC 50228-354-10 |
+| Bottles of 1,000: | NDC 50228-354-10 |
 
 200 mg capsules:
 
@@ -74,4 +74,4 @@ White to off white powder filled in size “0” hard gelatin capsules with oran
 
 Storage and Handling
 
-Storage and Handling Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
