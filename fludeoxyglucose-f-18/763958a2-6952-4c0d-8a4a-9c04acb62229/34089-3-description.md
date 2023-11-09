@@ -3,7 +3,7 @@
 ## 11.1 Chemical Characteristics
 
 Fludeoxyglucose F 18 Injection is a positron emitting radiopharmaceutical that is used for diagnostic purposes in conjunction with positron emission tomography (PET) imaging.
-The active ingredient 2-deoxy-2-[18F]fluoro-D-glucose has the molecular formula of C 6H 1118FO 5 with a molecular weight of 181.26, and has the following chemical structure:
+The active ingredient 2-deoxy-2-[18F]fluoro-D-glucose has the molecular formula of C 6H 1118FO 5with a molecular weight of 181.26, and has the following chemical structure:
 
 Fludeoxyglucose F 18 Injection is provided as a ready to use sterile, pyrogen free, clear, colorless citrate buffered solution.
 Each mL contains between 0.740 to 11.1GBq (20.0-300 mCi) of 2-deoxy-2-[18F]fluoro-D-glucose at the EOS, 4.5 mg of sodium chloride in citrate buffer.
@@ -28,7 +28,7 @@ Principal Radiation Emission Data for Fluorine F 18
 From: Kocher, D.C.
 Radioactive Decay Tables DOE/TIC-I 1026, 89 (1981)
 
-The specific gamma ray constant (point source air kerma coefficient) for fluorine F 18 is 5.7 R/hr/mCi (1.35 x 10 -6 Gy/hr/kBq) at 1 cm.
+The specific gamma ray constant (point source air kerma coefficient) for fluorine F 18 is 5.7 R/hr/mCi (1.35 x 10 -6Gy/hr/kBq) at 1 cm.
 The half-value layer (HVL) for the 511 keV photons is 4 mm lead (Pb).
 The range of attenuation coefficients for this radionuclide as a function of lead shield thickness is shown in Table 3.
 For example, the interposition of an 8 mm thickness of Pb, with a coefficient of attenuation of 0.25, will decrease the external radiation by 75%.
