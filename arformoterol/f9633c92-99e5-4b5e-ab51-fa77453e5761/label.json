@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021912"
+  ],
+  "inn": "arformoterol",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "27437-055-01",
+    "27437-055-04",
+    "27437-055-30",
+    "27437-055-60"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "arformoterol tartrate",
+      "name": "BROVANA"
+    }
+  ],
+  "setid": "f9633c92-99e5-4b5e-ab51-fa77453e5761",
+  "source": "dailymed"
+}
