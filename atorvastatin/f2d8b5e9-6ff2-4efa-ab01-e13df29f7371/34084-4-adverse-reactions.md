@@ -32,7 +32,7 @@ Table 1: Adverse Reactions Occurring in ≥ 2% in Patients Atorvastatin calcium 
 | Insomnia | 2.9 | 2.8 | 1.1 | 5.3 | 2.8 | 3.0 |
 | Pharyngolaryngeal pain | 2.1 | 3.9 | 1.6 | 2.8 | 0.7 | 2.3 |
 
-Other adverse reactions reported in placebo-controlled trials include: Body as a whole: malaise, pyrexia Digestive system: abdominal discomfort, eructation, flatulence, hepatitis, cholestasis Musculoskeletal system: musculoskeletal pain, muscle fatigue, neck pain, joint swelling Metabolic and nutritional system: transaminases increase, liver function test abnormal, blood alkaline phosphatase increase, creatine phosphokinase increase, hyperglycemia Nervous system: nightmare Respiratory system: epistaxis Skin and appendages: urticaria Special senses: vision blurred, tinnitus Urogenital system: white blood cells urine positive
+Other adverse reactions reported in placebo-controlled trials include: Body as a whole: malaise, pyrexia Digestive system:abdominal discomfort, eructation, flatulence, hepatitis, cholestasis Musculoskeletal system: musculoskeletal pain, muscle fatigue, neck pain, joint swelling Metabolic and nutritional system: transaminases increase, liver function test abnormal, blood alkaline phosphatase increase, creatine phosphokinase increase, hyperglycemia Nervous system: nightmare Respiratory system:epistaxis Skin and appendages: urticaria Special senses: vision blurred, tinnitus Urogenital system:white blood cells urine positive
 
 Elevations in Liver Enzyme Tests
 
@@ -59,16 +59,16 @@ The incidence of fatal hemorrhagic stroke was similar between groups (17 Atorvas
 The incidence of non-fatal hemorrhagic strokes was significantly greater in the atorvastatin calcium group (38 non-fatal hemorrhagic strokes) as compared to the placebo group (16 non-fatal hemorrhagic strokes).
 Patients who entered the trial with a hemorrhagic stroke appeared to be at increased risk for hemorrhagic stroke (16% Atorvastatin calcium vs. 4% placebo).
 
-Adverse Reactions from Clinical Studies of atorvastatin calcium in Pediatric Patients with HeFH In a 26-week controlled study in pediatric patients with HeFH (ages 10 years to 17 years) (n=140, 31% female; 92% White, 1.6% Blacks, 1.6% Asians, 4.8% other), the safety and tolerability profile of atorvastatin calcium 10 mg to 20 mg daily, as an adjunct to diet to reduce total cholesterol, LDL-C, and apo B levels, was generally similar to that of placebo [see Use in Specific Populations (8.4) and Clinical Studies (14.6)].
+Adverse Reactions from Clinical Studies of atorvastatin calcium in Pediatric Patients with HeFH In a 26-week controlled study in pediatric patients with HeFH (ages 10 years to 17 years) (n=140, 31% female; 92% White, 1.6% Blacks, 1.6% Asians, 4.8% other), the safety and tolerability profile of atorvastatin calcium 10 mg to 20 mg daily, as an adjunct to diet to reduce total cholesterol, LDL-C, and apo B levels, was generally similar to that of placebo [see Use in Specific Populations (8.4)and Clinical Studies (14.6)].
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of atorvastatin calcium.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal disorders: pancreatitis General disorders: fatigue Hepatobiliary Disorders: fatal and non-fatal hepatic failure Immune system disorders: anaphylaxis Injury: tendon rupture Musculoskeletal and connective tissue disorders: rhabdomyolysis, myositis.
+Gastrointestinal disorders:pancreatitis General disorders:fatigue Hepatobiliary Disorders:fatal and non-fatal hepatic failure Immune system disorders:anaphylaxis Injury:tendon rupture Musculoskeletal and connective tissue disorders:rhabdomyolysis, myositis.
 There have been rare reports of immune-mediated necrotizing myopathy associated with statin use.
-Nervous system disorders: dizziness, peripheral neuropathy.
+Nervous system disorders:dizziness, peripheral neuropathy.
 There have been rare reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with the use of all statins.
 Cognitive impairment was generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
-Psychiatric disorders: depression Respiratory disorders: interstitial lung disease Skin and subcutaneous tissue disorders: angioneurotic edema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis)
+Psychiatric disorders:depression Respiratory disorders:interstitial lung disease Skin and subcutaneous tissue disorders:angioneurotic edema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis)

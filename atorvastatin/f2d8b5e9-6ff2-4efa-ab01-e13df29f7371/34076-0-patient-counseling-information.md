@@ -35,4 +35,4 @@ Hauppauge, NY 11788 USA
 
 Dispense the Patient Information available at: https://sciegenpharm.com/medication-guide/
 
-Rev: 1/2023
+Rev: 8/2023

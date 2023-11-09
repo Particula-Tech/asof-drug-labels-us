@@ -5,7 +5,7 @@
 Atorvastatin Calcium may cause myopathy (muscle pain, tenderness, or weakness associated with elevated creatine kinase [CK]) and rhabdomyolysis.
 Acute kidney injury secondary to myoglobinuria and rare fatalities have occurred as a result of rhabdomyolysis in patients treated with statins, including atorvastatin calcium.
 
-Risk Factors for Myopathy Risk factors for myopathy include age 65 years or greater, uncontrolled hypothyroidism, renal impairment, concomitant use with certain other drugs (including other lipid-lowering therapies), and higher atorvastatin calcium dosage [see Drug Interactions (7.1) and Use in Specific Populations (8.5, 8.6)].
+Risk Factors for Myopathy Risk factors for myopathy include age 65 years or greater, uncontrolled hypothyroidism, renal impairment, concomitant use with certain other drugs (including other lipid-lowering therapies), and higher atorvastatin calcium dosage [see Drug Interactions (7.1)andUse in Specific Populations (8.5,8.6)].
 
 Steps to Prevent or Reduce the Risk of Myopathy and Rhabdomyolysis Atorvastatin calcium exposure may be increased by drug interactions due to inhibition of cytochrome P450 enzyme 3A4 (CYP3A4) and/or transporters (e.g., breast cancer resistant protein [BCRP], organic anion-transporting polypeptide [OATP1B1/OATP1B3] and P-glycoprotein [P-gp]), resulting in an increased risk of myopathy and rhabdomyolysis.
 Concomitant use of cyclosporine, gemfibrozil, tipranavir plus ritonavir, or glecaprevir plus pibrentasvir with atorvastatin calcium is not recommended.

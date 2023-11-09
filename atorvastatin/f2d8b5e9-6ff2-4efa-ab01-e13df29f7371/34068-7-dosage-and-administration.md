@@ -23,7 +23,7 @@ The dosage range is 10 mg to 80 mg once daily.
 
 ## 2.5 Dosage Modifications Due to Drug Interactions
 
-Concomitant use of atorvastatin calcium tablets with the following drugs requires dosage modification of atorvastatin calcium tablets [see Warnings and Precautions (5.1) and Drug Interactions (7.1)].
+Concomitant use of atorvastatin calcium tablets with the following drugs requires dosage modification of atorvastatin calcium tablets [see Warnings and Precautions (5.1)andDrug Interactions (7.1)].
 
 Anti-Viral Medications
 

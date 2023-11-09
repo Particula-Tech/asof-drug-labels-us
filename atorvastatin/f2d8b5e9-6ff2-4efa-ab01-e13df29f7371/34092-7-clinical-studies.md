@@ -17,7 +17,7 @@ There was no significant difference between the treatment groups for death due t
 
 In the Collaborative Atorvastatin Diabetes Study (CARDS), the effect of atorvastatin calcium on cardiovascular disease (CVD) endpoints was assessed in 2,838 subjects (94% white, 2% Black, 2% South Asian, 1% other; 68% male), ages 40 to75 with type 2 diabetes based on WHO criteria, without prior history of cardiovascular disease and with LDL ≤ 160 mg/dL and triglycerides (TG) ≤ 600 mg/dL.
 In addition to diabetes, subjects had 1 or more of the following risk factors: current smoking (23%), hypertension (80%), retinopathy (30%), or microalbuminuria (9%) or macroalbuminuria (3%).
-No subjects on hemodialysis were enrolled in the trail.
+No subjects on hemodialysis were enrolled in the trial.
 In this multicenter, placebo-controlled, double-blind clinical trial, subjects were randomly allocated to either atorvastatin calcium 10 mg daily (1,429) or placebo (1,411) in a 1:1 ratio and were followed for a median duration of 3.9 years.
 The primary endpoint was the occurrence of any of the major cardiovascular events: myocardial infarction, acute CHD death, unstable angina, coronary revascularization, or stroke.
 The primary analysis was the time to first occurrence of the primary endpoint.
@@ -39,13 +39,13 @@ Subjects were randomly assigned to either 10 mg/day or 80 mg/day of atorvastatin
 The primary endpoint was the time-to-first occurrence of any of the following major cardiovascular events (MCVE): death due to CHD, non-fatal myocardial infarction, resuscitated cardiac arrest, and fatal and non-fatal stroke.
 The mean LDL-C, TC, TG, non-HDL, and HDL cholesterol levels at 12 weeks were 73 mg/dL, 145 mg/dL, 128 mg/dL, 98 mg/dL, and 47 mg/dL during treatment with 80 mg of atorvastatin calcium and 99 mg/dL, 177 mg/dL, 152 mg/dL, 129 mg/dL, and 48 mg/dL during treatment with 10 mg of atorvastatin calcium.
 
-Treatment with atorvastatin calcium 80 mg/day significantly reduced the rate of MCVE (434 events in the 80 mg/day group vs. 548 events in the 10 mg/day group) with a relative risk reduction of 22%, HR 0.78, 95% CI (0.69, 0.89), p=0.0002 (see Figure 3 and Table 7).
+Treatment with atorvastatin calcium 80 mg/day significantly reduced the rate of MCVE (434 events in the 80 mg/day group vs. 548 events in the 10 mg/day group) with a relative risk reduction of 22%, HR 0.78, 95% CI (0.69, 0.89), p=0.0002 (see Figure 3and Table 7).
 The overall risk reduction was consistent regardless of age (< 65, ≥ 65) or sex.
 
 Table 7.
 Overview of Efficacy Results in TNT
 
-| Endpoint | Atorvastatin 10 mg (N=5006) |  | Atorvastatin 80 mg (N=4995) |  | HR a (95%CI) |
+| Endpoint | Atorvastatin 10 mg (N=5006) |  | Atorvastatin 80 mg (N=4995) |  | HR a(95%CI) |
 | --- | --- | --- | --- | --- | --- |
 | PRIMARY ENDPOINT | n | (%) | n | (%) |  |
 | First major cardiovascular endpoint | 548 | (10.9) | 434 | (8.7) | 0.78 (0.69, 0.89) |
@@ -67,11 +67,11 @@ Overview of Efficacy Results in TNT
 | Other non-CV death | 43 | (0.9) | 58 | (1.2) | 1.35 (0.91, 2.00) |
 | Suicide, homicide, and other traumatic non-CV death | 9 | (0.2) | 15 | (0.3) | 1.67 (0.73, 3.82) |
 
-a Atorvastatin 80 mg: atorvastatin 10 mg
+aAtorvastatin 80 mg: atorvastatin 10 mg
 
-b Component of other secondary endpoints
+bComponent of other secondary endpoints
 
-* Secondary endpoints not included in primary endpoint
+*Secondary endpoints not included in primary endpoint
 
 HR=hazard ratio; CHD=coronary heart disease; CI=confidence interval; MI=myocardial infarction; CHF=congestive heart failure; CV=cardiovascular; PVD=peripheral vascular disease; CABG=coronary artery bypass graft Confidence intervals for the Secondary Endpoints were not adjusted for multiple comparisons
 
@@ -101,7 +101,7 @@ Table 8: Dose Response in Patients with Primary Hyperlipidemia (Adjusted Mean % 
 | 40 | 21 | -37 | -50 | -42 | -29 | 6 |
 | 80 | 23 | -45 | -60 | -50 | -37 | 5 |
 
-a Results are pooled from 2 dose-response trails.
+aResults are pooled from 2 dose-response trials.
 
 In three multicenter, double-blind trials in patients with hyperlipidemia, atorvastatin calcium was compared to other statins.
 After randomization, patients were treated for 16 weeks with either atorvastatin calcium 10 mg per day or a fixed dose of the comparative agent (Table 9).
@@ -122,7 +122,7 @@ Table 9: Mean Percentage Change From Baseline at Endpoint (Double-Blind, Randomi
 | Atorvastatin calcium 10 mg | 132 | -29 c | -37 c | -34 c | -23 c | +7 |
 | Simvastatin 10 mg | 45 | -24 | -30 | -30 | -15 | +7 |
 | 95% CI for Diff1 |  | -8.7, -2.7 | -10.1, -2.6 | -8.0, -1.1 | -15.1, -0.7 | -4.3, 3.9 |
-| 1 A negative value for the 95% CI for the difference between treatments favors atorvastatin calcium for all except HDL-C, for which a positive value favors atorvastatin calcium. If the range does not include 0, this indicates a statistically significant difference. a Significantly different from lovastatin, ANCOVA, p ≤ 0.05 b Significantly different from pravastatin, ANCOVA, p ≤ 0.05 c Significantly different from simvastatin, ANCOVA, p ≤ 0.05 |  |  |  |  |  |  |
+| 1A negative value for the 95% CI for the difference between treatments favors atorvastatin calcium for all except HDL-C, for which a positive value favors atorvastatin calcium. If the range does not include 0, this indicates a statistically significant difference. aSignificantly different from lovastatin, ANCOVA, p ≤ 0.05 bSignificantly different from pravastatin, ANCOVA, p ≤ 0.05 cSignificantly different from simvastatin, ANCOVA, p ≤ 0.05 |  |  |  |  |  |  |
 
 Table 9 does not contain data comparing the effects of atorvastatin calcium 10 mg and higher doses of lovastatin, pravastatin, and simvastatin.
 The drugs compared in the trials summarized in the table are not necessarily interchangeable.
@@ -146,7 +146,7 @@ Dysbetalipoproteinemia in Adults
 
 The results of an open-label crossover trial of 16 patients (genotypes: 14 apo E2/E2 and 2 apo E3/E2) with dysbetalipoproteinemia are shown in the table below (Table 11).
 
-Table 11: Open-Label Crossover Trial of 16 Patients with Dysbetalipoproteinemia (Fredrickson Type III)
+Table 11: Open-Label Crossover Trial of 16 Patients with Dysbetalipoproteinemia (FredricksonType III)
 
 | Median % Change (min, max) |  |  |  |
 | --- | --- | --- | --- |

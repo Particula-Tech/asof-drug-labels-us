@@ -68,17 +68,17 @@ No overall differences in safety or effectiveness were observed between these pa
 
 Advanced age (≥65 years) is a risk factor for atorvastatin calcium-associated myopathy and rhabdomyolysis.
 Dose selection for an elderly patient should be cautious, recognizing the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of myopathy.
-Monitor geriatric patients receiving atorvastatin calcium for the increased risk of myopathy [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Monitor geriatric patients receiving atorvastatin calcium for the increased risk of myopathy [see Warnings and Precautions (5.1)and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
 Renal impairment is a risk factor for myopathy and rhabdomyolysis.
 Monitor all patients with renal impairment for development of myopathy.
-Renal impairment does not affect the plasma concentrations of atorvastatin calcium, therefore there is no dosage adjustment in patients with renal impairment [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Renal impairment does not affect the plasma concentrations of atorvastatin calcium, therefore there is no dosage adjustment in patients with renal impairment [see Warnings and Precautions (5.1)and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
 In patients with chronic alcoholic liver disease, plasma concentrations of atorvastatin calcium are markedly increased.
-C max and AUC are each 4-fold greater in patients with Childs-Pugh A disease.
-C max and AUC are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease.
+C maxand AUC are each 4-fold greater in patients with Childs-Pugh A disease.
+C maxand AUC are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease.
 Atorvastatin Calcium is contraindicated in patients with acute liver failure or decompensated cirrhosis [see Contraindications (4)].

@@ -3,12 +3,12 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In a 2-year carcinogenicity study in rats at dose levels of 10 mg/kg/day, 30 mg/kg/day, and 100 mg/kg/day, 2 rare tumors were found in muscle in high-dose females: in one, there was a rhabdomyosarcoma and, in another, there was a fibrosarcoma.
-This dose represents a plasma AUC (0 to 24) value of approximately 16 times the mean human plasma drug exposure after an 80 mg oral dose.
+This dose represents a plasma AUC (0 to 24)value of approximately 16 times the mean human plasma drug exposure after an 80 mg oral dose.
 
 A 2-year carcinogenicity study in mice given 100 mg/kg/day, 200 mg/kg/day, or 400 mg/kg/day resulted in a significant increase in liver adenomas in high-dose males and liver carcinomas in high-dose females.
-These findings occurred at plasma AUC (0 to 24) values of approximately 6 times the mean human plasma drug exposure after an 80 mg oral dose.
+These findings occurred at plasma AUC (0 to 24)values of approximately 6 times the mean human plasma drug exposure after an 80 mg oral dose.
 
-In vitro, atorvastatin was not mutagenic or clastogenic in the following tests with and without metabolic activation: the Ames test with Salmonella typhimurium and Escherichia coli, the HGPRT forward mutation assay in Chinese hamster lung cells, and the chromosomal aberration assay in Chinese hamster lung cells.
+In vitro, atorvastatin was not mutagenic or clastogenic in the following tests with and without metabolic activation: the Ames test with Salmonella typhimuriumand Escherichia coli, the HGPRT forward mutation assay in Chinese hamster lung cells, and the chromosomal aberration assay in Chinese hamster lung cells.
 Atorvastatin was negative in the in vivo mouse micronucleus test.
 
 In female rats, atorvastatin at doses up to 225 mg/kg (56 times the human exposure) did not cause adverse effects on fertility.
