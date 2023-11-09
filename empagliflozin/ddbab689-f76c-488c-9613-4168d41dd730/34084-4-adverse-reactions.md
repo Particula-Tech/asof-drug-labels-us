@@ -2,17 +2,18 @@
 
 The following important adverse reactions are described below and elsewhere in the labeling:
 
-- Pancreatitis [see Warnings and Precautions (5.1)]
-- Ketoacidosis [see Warnings and Precautions (5.2)]
+- Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis [see Warnings and Precautions (5.1)]
+- Pancreatitis [see Warnings and Precautions (5.2)]
 - Volume Depletion [see Warnings and Precautions (5.3)]
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
 - Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.5)]
 - Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.6)]
 - Genital Mycotic Infections [see Warnings and Precautions (5.7)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
-- Severe and Disabling Arthralgia [see Warnings and Precautions (5.9)]
-- Bullous Pemphigoid [see Warnings and Precautions (5.10)]
-- Heart Failure [see Warnings and Precautions (5.11)]
+- Lower Limb Amputation [see Warnings and Precautions (5.8)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.10)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.11)]
+- Heart Failure [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -20,8 +21,8 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Empagliflozin and Linagliptin
 
-The safety of concomitantly administered empagliflozin (daily dose 10 mg or 25 mg) and linagliptin (daily dose 5 mg) has been evaluated in a total of 1363 patients with type 2 diabetes treated for up to 52 weeks in active-controlled clinical trials.
-The most common adverse reactions with concomitant administration of empagliflozin and linagliptin based on a pooled analyses of these studies are shown in Table 1.
+The safety of concomitantly administered empagliflozin (daily dosage 10 mg or 25 mg) and linagliptin (daily dosage 5 mg) has been evaluated in a total of 1,363 patients with type 2 diabetes mellitus treated for up to 52 weeks in active-controlled clinical trials.
+The most common adverse reactions with concomitant administration of empagliflozin and linagliptin based on a pooled analyses of these trials are shown in Table 1.
 
 Table 1 Adverse Reactions Reported in ≥5% of Patients Treated with Empagliflozin and Linagliptin
 
@@ -45,12 +46,16 @@ Linagliptin
 
 Adverse reactions reported in ≥2% of patients treated with linagliptin 5 mg and more commonly than in patients treated with placebo included: nasopharyngitis (7.0% and 6.1%), diarrhea (3.3% and 3.0%), and cough (2.1% and 1.4%).
 
-Other adverse reactions reported in clinical studies with treatment of linagliptin monotherapy were hypersensitivity (e.g., urticaria, angioedema, localized skin exfoliation, or bronchial hyperreactivity) and myalgia.
+Other adverse reactions reported in clinical trials with treatment of linagliptin monotherapy were hypersensitivity (e.g., urticaria, angioedema, localized skin exfoliation, or bronchial hyperreactivity) and myalgia.
 
 In the clinical trial program, pancreatitis was reported in 15.2 cases per 10,000 patient year exposure while being treated with linagliptin compared with 3.7 cases per 10,000 patient year exposure while being treated with comparator (placebo and active comparator, sulfonylurea).
 Three additional cases of pancreatitis were reported following the last administered dose of linagliptin.
 
+Other Adverse Reactions
+
 Hypoglycemia
+
+Empagliflozin and Linagliptin
 
 Table 2 summarizes the reports of hypoglycemia with empagliflozin and linagliptin over a treatment period of 52 weeks.
 
@@ -63,7 +68,23 @@ Table 2 Incidence of Overalla and Severeb Hypoglycemic Adverse Reactions
 | aOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL or requiring assistance |  |  |
 | bSevere hypoglycemic events: requiring assistance regardless of blood glucose |  |  |
 
-Laboratory Tests
+Empagliflozin
+
+- Genital Mycotic Infections: In the pool of five placebo-controlled clinical trials, the incidence of genital mycotic infections (e.g., vaginal mycotic infection, vaginal infection, genital infection fungal, vulvovaginal candidiasis, and vulvitis) was increased in patients treated with empagliflozin compared to placebo, occurring in 0.9%, 4.1%, and 3.7% of patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
+  Discontinuation from trial due to genital infection occurred in 0% of placebo-treated patients and 0.2% of patients treated with either empagliflozin 10 mg or 25 mg.
+  Genital mycotic infections occurred more frequently in female than male patients.
+  Phimosis occurred more frequently in male patients treated with empagliflozin 10 mg (less than 0.1%) and empagliflozin 25 mg (0.1%) than placebo (0%).
+- Urinary Tract Infections: In the pool of five placebo-controlled clinical trials, the incidence of urinary tract infections (e.g., urinary tract infection, asymptomatic bacteriuria, and cystitis) was increased in patients treated with empagliflozin compared to placebo.
+  Patients with a history of chronic or recurrent urinary tract infections were more likely to experience a urinary tract infection.
+  The rate of treatment discontinuation due to urinary tract infections was 0.1%, 0.2%, and 0.1% for placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
+  Urinary tract infections occurred more frequently in female patients.
+  The incidence of urinary tract infections in female patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg was 16.6%, 18.4%, and 17.0%, respectively.
+  The incidence of urinary tract infections in male patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg was 3.2%, 3.6%, and 4.1%, respectively [see Use in Specific Populations (8.5)].
+- Lower Limb Amputations: Across four empagliflozin outcome trials, lower limb amputation event rates were 4.3 and 5.0 events per 1,000 patient-years in the placebo group and the empagliflozin 10 mg or 25 mg dose group, respectively, with a HR of 1.05 (95% CI) (0.81, 1.36).
+  In a long-term cardio-renal outcome trial, in patients with chronic kidney disease, the occurrence of lower limb amputations was reported with event rates of 2.9, and 4.3 events per 1,000 patient-years in the placebo, and empagliflozin 10 mg treatment arms, respectively.
+  GLYXAMBI is not indicated for the treatment of chronic kidney disease.
+
+Laboratory Test Abnormalities in Clinical Trials of Empagliflozin or Linagliptin
 
 Empagliflozin and Linagliptin
 
@@ -72,7 +93,7 @@ Changes in laboratory findings in patients treated with the combination of empag
 Empagliflozin
 
 Increases in Serum Creatinine and Decreases in eGFR: Initiation of empagliflozin causes an increase in serum creatinine and decrease in eGFR within weeks of starting therapy and then these changes stabilize.
-In a study of patients with moderate renal impairment, larger mean changes were observed.
+In a trial of patients with moderate renal impairment, larger mean changes were observed.
 In a long-term cardiovascular outcomes trial, the increase in serum creatinine and decrease in eGFR generally did not exceed 0.1 mg/dL and -9.0 mL/min/1.73 m2, respectively, at Week 4, and reversed after treatment discontinuation, suggesting acute hemodynamic changes may play a role in the renal function changes observed with empagliflozin.
 
 Increase in Low-Density Lipoprotein Cholesterol (LDL-C): Dose-related increases in low-density lipoprotein cholesterol (LDL-C) were observed in patients treated with empagliflozin.
@@ -89,9 +110,9 @@ Increase in Uric Acid: Changes in laboratory values that occurred more frequentl
 Increase in Lipase: In a placebo-controlled clinical trial with linagliptin in type 2 diabetes mellitus patients with micro- or macroalbuminuria, a mean increase of 30% in lipase concentrations from baseline to 24 weeks was observed in the linagliptin arm compared to a mean decrease of 2% in the placebo arm.
 Lipase levels above 3 times upper limit of normal were seen in 8.2% compared to 1.7% patients in the linagliptin and placebo arms, respectively.
 
-Increase in Amylase: In a cardiovascular safety study comparing linagliptin versus glimepiride in patients with type 2 diabetes mellitus, amylase levels above 3 times upper limit of normal were seen in 1.0% compared to 0.5% of patients in the linagliptin and glimepiride arms, respectively.
+Increase in Amylase: In a cardiovascular safety trial comparing linagliptin versus glimepiride in patients with type 2 diabetes mellitus, amylase levels above 3 times upper limit of normal were seen in 1.0% compared to 0.5% of patients in the linagliptin and glimepiride arms, respectively.
 
-The clinical significance of elevations in lipase and amylase with linagliptin is unknown in the absence of other signs and symptoms of pancreatitis [see Warnings and Precautions (5.1)].
+The clinical significance of elevations in lipase and amylase with linagliptin is unknown in the absence of other signs and symptoms of pancreatitis [see Warnings and Precautions (5.2)].
 
 ## 6.2 Postmarketing Experience
 

@@ -19,7 +19,9 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk: Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
+Disease-associated maternal and/or embryo/fetal risk
+
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
 
 Data
@@ -43,7 +45,7 @@ In pre- and postnatal development studies in pregnant rats, empagliflozin was ad
 Reduced body weight was observed in the offspring at greater than or equal to 30 mg/kg/day (approximately 4-times the 25 mg maximum clinical dose).
 
 Linagliptin: No adverse developmental outcome was observed when linagliptin was administered to pregnant Wistar Han rats and Himalayan rabbits during the period of organogenesis at doses up to 240 mg/kg/day and 150 mg/kg/day, respectively.
-These doses represent approximately 943-times (rats) and 1943-times (rabbits) the 5 mg maximum clinical dose, based on exposure.
+These doses represent approximately 943-times (rats) and 1,943-times (rabbits) the 5 mg maximum clinical dose, based on exposure.
 No adverse functional, behavioral, or reproductive outcome was observed in offspring following administration of linagliptin to Wistar Han rats from gestation day 6 to lactation day 21 at a dose 49-times the maximum recommended human dose, based on exposure.
 
 Linagliptin crosses the placenta into the fetus following oral dosing in pregnant rats and rabbits.
@@ -77,13 +79,13 @@ Empagliflozin is associated with osmotic diuresis, which could affect hydration 
 
 Empagliflozin
 
-In empagliflozin type 2 diabetes studies, 2721 empagliflozin-treated patients were 65 years of age and older and 491 patients were 75 years of age and older.
-In these studies, volume depletion-related adverse reactions occurred in 2.1%, 2.3%, and 4.4% of patients 75 years of age and older in the placebo, empagliflozin 10 mg, and empagliflozin 25 mg once daily groups, respectively; and urinary tract infections occurred in 10.5%, 15.7%, and 15.1% of patients 75 years of age and older in the placebo, empagliflozin 10 mg, and empagliflozin 25 mg once daily groups, respectively.
+In empagliflozin type 2 diabetes mellitus trials, 2,721 empagliflozin-treated patients were 65 years of age and older and 491 patients were 75 years of age and older.
+In these trials, volume depletion-related adverse reactions occurred in 2.1%, 2.3%, and 4.4% of patients 75 years of age and older in the placebo, empagliflozin 10 mg, and empagliflozin 25 mg once daily groups, respectively; and urinary tract infections occurred in 10.5%, 15.7%, and 15.1% of patients 75 years of age and older in the placebo, empagliflozin 10 mg, and empagliflozin 25 mg once daily groups, respectively.
 
 Linagliptin
 
-In linagliptin studies, 1085 linagliptin-treated patients were 65 years of age and older and 131 patients were 75 years of age and older.
-In these linagliptin studies, no overall differences in safety or effectiveness of linagliptin were observed between geriatric patients and younger adult patients.
+In linagliptin trials, 1,085 linagliptin-treated patients were 65 years of age and older and 131 patients were 75 years of age and older.
+In these linagliptin trials, no overall differences in safety or effectiveness of linagliptin were observed between geriatric patients and younger adult patients.
 
 ## 8.6 Renal Impairment
 
@@ -92,7 +94,7 @@ Empagliflozin
 The glucose lowering benefit of empagliflozin 25 mg decreased in patients with worsening renal function.
 The risks of renal impairment [see Warnings and Precautions (5.3)], volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function.
 
-Efficacy and safety studies with empagliflozin did not enroll patients with ESRD on dialysis or patients with an eGFR less than 30 mL/min/1.73 m2.
+Efficacy and safety trials with empagliflozin did not enroll patients with ESRD on dialysis or patients with an eGFR less than 30 mL/min/1.73 m2.
 Empagliflozin is contraindicated in patients on dialysis [see Indications and Usage (1) and Contraindications (4)].
 
 ## 8.7 Hepatic Impairment

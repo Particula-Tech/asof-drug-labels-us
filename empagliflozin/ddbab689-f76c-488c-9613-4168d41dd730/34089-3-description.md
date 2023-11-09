@@ -4,7 +4,7 @@ GLYXAMBI tablets for oral use contain: empagliflozin and linagliptin.
 
 Empagliflozin
 
-Empagliflozin is an inhibitor of the sodium-glucose co-transporter 2 (SGLT2).
+Empagliflozin is an inhibitor of the SGLT2.
 
 The chemical name of empagliflozin is D-Glucitol,1,5-anhydro-1-C-[4-chloro-3-[[4-[[(3S)-tetrahydro-3-furanyl]oxy]phenyl]methyl]phenyl]-, (1S).
 
@@ -16,7 +16,7 @@ It is very slightly soluble in water, sparingly soluble in methanol, slightly so
 
 Linagliptin
 
-Linagliptin is an inhibitor of the dipeptidyl peptidase-4 (DPP-4) enzyme.
+Linagliptin is an inhibitor of the DPP-4 enzyme.
 
 The chemical name of linagliptin is 1H-Purine-2,6-dione, 8-[(3R)-3-amino-1-piperidinyl]-7-(2-butyn-1-yl)-3,7-dihydro-3-methyl-1-[(4-methyl-2-quinazolinyl)methyl]-
 
@@ -30,5 +30,5 @@ Linagliptin is soluble in methanol, sparingly soluble in ethanol, very slightly 
 GLYXAMBI
 
 GLYXAMBI tablets are available in two dosage strengths containing 10 mg or 25 mg empagliflozin in combination with 5 mg linagliptin.
-The inactive ingredients of GLYXAMBI are the following: Tablet Core: mannitol, pregelatinized starch, corn starch, copovidone, crospovidone, talc and magnesium stearate.
-Coating: hypromellose, mannitol, talc, titanium dioxide, polyethylene glycol and ferric oxide, yellow (10 mg/5 mg) or ferric oxide, red (25 mg/5 mg).
+The inactive ingredients of GLYXAMBI are the following: Tablet Core: copovidone, corn starch, crospovidone, magnesium stearate, mannitol, pregelatinized starch, and talc.
+Coating: ferric oxide yellow (10 mg/5 mg) or ferric oxide red (25 mg/5 mg), hypromellose, mannitol, polyethylene glycol, talc, and titanium dioxide.
