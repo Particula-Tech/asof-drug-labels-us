@@ -4,13 +4,14 @@ The following adverse reactions are discussed in greater detail in other section
 
 - Liver Enzyme Elevations and Drug-Induced Liver Injury [see Warnings and Precautions (5.1)]
 - Photosensitivity Reaction or Rash [see Warnings and Precautions (5.2)]
-- Gastrointestinal Disorders [see Warnings and Precautions (5.3)]
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.3)]
+- Gastrointestinal Disorders [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of pirfenidone has been evaluated in more than 1400 subjects with over 170 subjects exposed to pirfenidone for more than 5 years in clinical trials.
+The safety of pirfenidone has been evaluated in more than 1,400 subjects with over 170 subjects exposed to pirfenidone for more than 5 years in clinical trials.
 
 Pirfenidone was studied in 3 randomized, double-blind, placebo-controlled trials (Studies 1, 2, and 3) in which a total of 623 patients received 2,403 mg/day of pirfenidone and 624 patients received placebo.
 Subjects ages ranged from 40 to 80 years (mean age of 67 years).
@@ -54,14 +55,10 @@ Adverse reactions occurring in ≥5 to <10% of pirfenidone-treated patients and 
 In addition to adverse reactions identified from clinical trials the following adverse reactions have been identified during post-approval use of pirfenidone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency.
 
-Blood and Lymphatic System Disorders
+Blood and Lymphatic System Disorders: Agranulocytosis
 
-Agranulocytosis
+Hepatobiliary Disorders: Drug-induced liver injury
 
-Immune System Disorders
+Immune System Disorders: Angioedema
 
-Angioedema
-
-Hepatobiliary Disorders
-
-Drug-induced liver injury [see Warnings and Precautions (5.1)]
+Skin and Subcutaneous Tissue Disorders: Severe Cutaneous Adverse Reactions (SCAR)

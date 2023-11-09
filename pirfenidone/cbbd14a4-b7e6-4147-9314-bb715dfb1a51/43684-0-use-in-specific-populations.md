@@ -53,7 +53,7 @@ Pirfenidone is not recommended for use in patients with severe (Child Pugh Class
 
 ## 8.7 Renal Impairment
 
-Pirfenidone should be used with caution in patients with mild (CLcr 50-80 mL/min), moderate (CLcr 30-50 mL/min), or severe (CLcr less than 30 mL/min) renal impairment [see Clinical Pharmacology (12.3)].
+Pirfenidone should be used with caution in patients with mild (CLcr 50 to 80 mL/min), moderate (CLcr 30 to 50 mL/min), or severe (CLcr less than 30 mL/min) renal impairment [see Clinical Pharmacology (12.3)].
 Monitor for adverse reactions and consider dosage modification or discontinuation of pirfenidone as needed [see Dosage and Administration (2.3)].
 The safety, efficacy, and pharmacokinetics of pirfenidone have not been studied in patients with end-stage renal disease requiring dialysis.
 Use of pirfenidone in patients with end-stage renal diseases requiring dialysis is not recommended.

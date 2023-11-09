@@ -14,10 +14,15 @@ Instruct patients to use a sunblock and to wear clothing that protects against s
 Instruct patients to report symptoms of photosensitivity reaction or rash to their physician.
 Temporary dosage reductions or discontinuations may be required [see Warnings and Precautions (5.2)].
 
+Severe Cutaneous Adverse Reactions
+
+Advise patients about signs and symptoms of severe cutaneous adverse reactions (SCAR).
+Advise patients to contact their healthcare provider immediately if they experience signs and symptoms of SCAR [see Warnings and Precautions (5.3)].
+
 Gastrointestinal Events
 
 Instruct patients to report symptoms of persistent gastrointestinal effects including nausea, diarrhea, dyspepsia, vomiting, gastro-esophageal reflux disease, and abdominal pain.
-Temporary dosage reductions or discontinuations may be required [see Warnings and Precautions (5.3)].
+Temporary dosage reductions or discontinuations may be required [see Warnings and Precautions (5.4)].
 
 Smokers
 
@@ -32,4 +37,4 @@ Manufactured In India By: Watson Pharma Private Limited Verna, Salcette Goa 403 
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-A 2/2022
+B 8/2023

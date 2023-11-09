@@ -4,7 +4,7 @@
 
 Cases of drug-induced liver injury (DILI) have been observed with pirfenidone.
 In the postmarketing period, non-serious and serious cases of DILI, including severe liver injury with fatal outcome, have been reported.
-Patients treated with pirfenidone 2,403 mg/day in three Phase 3 trials had a higher incidence of elevations in ALT or AST ≥3 × ULN than placebo patients (3.7% vs 0.8%, respectively).
+Patients treated with pirfenidone 2,403 mg/day in three Phase 3 trials had a higher incidence of elevations in ALT or AST ≥3× ULN than placebo patients (3.7% vs 0.8%, respectively).
 Elevations ≥10×ULN in ALT or AST occurred in 0.3% of patients in the pirfenidone 2,403 mg/day group and in 0.2% of patients in the placebo group.
 Increases in ALT and AST ≥3× ULN were reversible with dose modification or treatment discontinuation.
 
@@ -20,10 +20,17 @@ Instruct patients to avoid or minimize exposure to sunlight (including sunlamps)
 Additionally, instruct patients to avoid concomitant medications known to cause photosensitivity.
 Dosage reduction or discontinuation may be necessary in some cases of photosensitivity reaction or rash [see Dosage and Administration (2.3)].
 
-## 5.3 Gastrointestinal Disorders
+## 5.3 Severe Cutaneous Adverse Reactions
+
+Severe cutaneous adverse reactions (SCAR), including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS), have been reported in association with the use of pirfenidone tablets in the postmarketing setting.
+If signs or symptoms of SCAR occur, interrupt pirfenidone tablets treatment until the etiology of the reaction has been determined.
+Consultation with a dermatologist is recommended.
+If a SCAR is confirmed, permanently discontinue pirfenidone tablets.
+
+## 5.4 Gastrointestinal Disorders
 
 In the clinical studies, gastrointestinal events of nausea, diarrhea, dyspepsia, vomiting, gastro-esophageal reflux disease, and abdominal pain were more frequently reported by patients in the pirfenidone treatment groups than in those taking placebo.
-Dosage reduction or interruption for gastrointestinal events was required in 18.5% of patients in the 2,403 mg/day group, as compared to 5.8% of patients in the placebo group; 2.2% of patients in the pirfenidone 2,403 mg/day group discontinued treatment due to a gastrointestinal event, as compared to 1.0% in the placebo group.
+Dosage reduction or interruption for gastrointestinal events was required in 18.5% of patients in the 2,403 mg/day group, as compared to 5.8% of patients in the placebo group; 2.2% of patients in the pirfenidone 2,403 mg/day group discontinued treatment due to a gastrointestinal event, as compared to 1% in the placebo group.
 The most common (>2%) gastrointestinal events that led to dosage reduction or interruption were nausea, diarrhea, vomiting, and dyspepsia.
 The incidence of gastrointestinal events was highest early in the course of treatment (with highest incidence occurring during the initial 3 months) and decreased over time.
 Dosage modifications may be necessary in some cases of gastrointestinal adverse reactions [see Dosage and Administration (2.3)].

@@ -14,7 +14,7 @@ Tablets are supplied in:
 
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
-Keep the bottles tightly closed.
+Keep the bottle tightly closed.
 Do not use if the seal over the bottle opening is broken or missing.
 Safely throw away any pirfenidone tablets that are out of date or no longer needed.
 

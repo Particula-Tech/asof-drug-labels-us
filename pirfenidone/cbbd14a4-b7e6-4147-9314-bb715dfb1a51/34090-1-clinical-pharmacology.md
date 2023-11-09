@@ -103,7 +103,7 @@ AUC0-inf and Cmax of pirfenidone in smokers were 46% and 68% of those in nonsmok
 
 Inhibitory Effect of Pirfenidone on P-glycoprotein (Pgp)
 
-The potential for pirfenidone to inhibit Pgp mediated transport of digoxin (5.0 µM) was evaluated in the absence and presence of pirfenidone at concentrations ranging from 1 to 1,000 µM in in vitro system.
+The potential for pirfenidone to inhibit Pgp mediated transport of digoxin (5 µM) was evaluated in the absence and presence of pirfenidone at concentrations ranging from 1 to 1,000 µM in in vitro system.
 Pirfenidone showed weak inhibition (10 to 30%) of Pgp facilitated digoxin B-A efflux at concentrations of 100 µM and above.
 Effect of pirfenidone upon Pgp substrate pharmacokinetics and safety has not been evaluated in humans.
 
