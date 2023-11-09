@@ -22,7 +22,6 @@ Following oral administration, increasing doses result in a disproportionate inc
 Steady-state Cmax values following 20-, 30-, and 40-mg doses every 8 hours averaged 36, 88, and 133 ng/mL, respectively.
 Hence, increasing the dose from 20 to 30 mg every 8 hours more than doubled Cmax and increasing the dose from 20 to 40 mg every 8 hours increased Cmax more than threefold.
 A similar disproportionate increase in AUC with dose was observed.
-
 Considerable inter-subject variability in plasma levels was also observed.
 
 Post-absorption kinetics of nicardipine hydrochloride capsules are also non-linear, although there is a reproducible terminal plasma half-life that averaged 8.6 hours following 30- and 40-mg doses at steady-state (tid).
