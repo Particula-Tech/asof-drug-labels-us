@@ -108,34 +108,6 @@ TRI-PAK™
 
 3 Cards x Three 500 mg* Tablets
 
-# PRINCIPAL DISPLAY PANEL - 500 mg -10 ct. Blister Card
-
-Zithromax® (azithromycin) Tablet
-
-500 mg
-
-Distributed by PFIZER LABS DIV OF PFIZER INC, NY, NY 10017
-
-PAA135273
-
-EXP & LOT AREA As per P.O.
-
-# PRINCIPAL DISPLAY PANEL - 500 mg Tablet Blister Pack Box
-
-UNIT DOSE
-
-NDC 0069-3070-86
-
-Pfizer
-
-Zithromax® (azithromycin) tablets
-
-500 mg*
-
-For in-institution use only
-
-50 Tablets Rx only
-
 # PRINCIPAL DISPLAY PANEL - 300 mg Bottle Label
 
 NDC 0069-3110-19

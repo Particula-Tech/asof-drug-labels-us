@@ -12,7 +12,6 @@ ZITHROMAX is supplied in the following strengths and package configurations:
 | Unit Dose package of 50 | NDC 0069-4061-89 |  |  |  |
 | 500 mg (containing azithromycin dihydrate equivalent to 500 mg of azithromycin) | Pink modified capsular shaped, engraved, film coated | Engraved with "Pfizer" on one side and "ZTM500" on the other | Bottles of 30 | NDC 0069-3070-30 |
 | Boxes of 3 (TRI-PAKS™ of 3 tablets) | NDC 0069-3070-75 |  |  |  |
-| Unit Dose package of 50 | NDC 0069-3070-86 |  |  |  |
 
 ZITHROMAX tablets should be stored between 15° to 30°C (59° to 86°F).
 

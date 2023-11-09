@@ -31,7 +31,7 @@ PEDIATRIC DOSAGE GUIDELINES FOR OTITIS MEDIA, ACUTE BACTERIAL SINUSITIS, AND COM
 
 OTITIS MEDIA AND COMMUNITY-ACQUIRED PNEUMONIA: (5-Day Regimen)Effectiveness of the 3-day or 1-day regimen in pediatric patients with community-acquired pneumonia has not been established.
 
-| Kg | Day 1 | Days 2–5 | Day 1 | Days 2–5 |  |  |
+| Kg | Day 1 | Days 2–5 | Day 1 | Days 2-5 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Dosing Calculated on 10 mg/kg/day Day 1 and 5 mg/kg/day Days 2 to 5. |  |  |  |  |  |  |
 | Weight | 100 mg/5 mL |  | 200 mg/5 mL |  | Total mL per Treatment Course | Total mg per Treatment Course |
