@@ -38,4 +38,4 @@ Advise breastfeeding women using lacosamide to monitor infants for excess sleepi
 
 Manufactured By: ScieGen Pharmaceuticals, Inc. Hauppauge, New York 11788, USA
 
-Rev: 12/2022
+Rev: 5/2023

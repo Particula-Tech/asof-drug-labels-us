@@ -182,6 +182,6 @@ However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is
 
 Manufactured By: ScieGen Pharmaceuticals, Inc. Hauppauge, New York 11788, USA
 
-Rev: 12/2022
+Rev: 5/2023
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
