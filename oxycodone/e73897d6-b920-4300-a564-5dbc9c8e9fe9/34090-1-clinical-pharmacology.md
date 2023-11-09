@@ -42,7 +42,7 @@ The causal role of opioids in the clinical syndrome of hypogonadism is unknown b
 
 Effects on the Immune System
 
-Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.
+Opioids have been shown to have a variety of effects on components of the immune system in in vitroand animal models.
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
@@ -89,7 +89,7 @@ Food Effects
 
 A single-dose food effect study was conducted in normal volunteers using the 5 mg/5 mL solution.
 The concurrent intake of a high fat meal was shown to enhance the extent (27% increase in AUC), but not the rate of oxycodone absorption from the oral solution (see Table 2).
-In addition, food caused a delay in T max (1.25 to 2.54 hour).
+In addition, food caused a delay in T max(1.25 to 2.54 hour).
 Similar effects of food are expected with the 15 mg and 30 mg tablets.
 
 Distribution

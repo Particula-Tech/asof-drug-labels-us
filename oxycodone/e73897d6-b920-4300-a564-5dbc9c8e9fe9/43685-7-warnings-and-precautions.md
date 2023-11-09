@@ -42,8 +42,7 @@ Advise pregnant women using opioids for a prolonged period of the risk of neonat
 
 ## 5.4 Risks of Concomitant Use or Discontinuation of Cytochrome P450 3A4 Inhibitors and Inducers
 
-Concomitant use of oxycodone hydrochloride tablets with a CYP3A4 inhibitor, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir), may increase plasma concentrations of oxycodone and prolong opioid adverse reactions, which may cause potentially fatal respiratory depression [see Warnings and Precautions (5.2)], particularly when an inhibitor is added after a stable dose of oxycodone hydrochloride tablets is achieved.
-Similarly, discontinuation of a CYP3A4 inducer, such as rifampin, carbamazepine, and phenytoin, in oxycodone hydrochloride tablets-treated patients may increase oxycodone plasma concentrations and prolong opioid adverse reactions.
+Concomitant use of oxycodone hydrochloride tablets with a CYP3A4 inhibitor, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir), may increase plasma concentrations of oxycodone and prolong opioid adverse reactions, which may cause potentially fatal respiratory depression [see Warnings and Precautions (5.2)], particularly when an inhibitor is added after a stable dose of oxycodone hydrochloride tablets is achieved.Similarly, discontinuation of a CYP3A4 inducer, such as rifampin, carbamazepine, and phenytoin, in oxycodone hydrochloride tablets-treated patients may increase oxycodone plasma concentrations and prolong opioid adverse reactions.
 When using Oxycodone Hydrochloride Tablets with CYP3A4 inhibitors or discontinuing CYP3A4 inducers in oxycodone hydrochloride tablets-treated patients, monitor patients closely at frequent intervals and consider dosage reduction of oxycodone hydrochloride tablets until stable drugs effects are achieved [see Drug Interactions (7)].
 
 Concomitant use of oxycodone hydrochloride tablets with CYP3A4 inducers or discontinuation of an CYP3A4 inhibitor could decrease oxycodone plasma concentrations, decrease opioid efficacy or, possibly, lead to a withdrawal syndrome in a patient who had developed physical dependence to oxycodone.
@@ -70,9 +69,9 @@ Screen patients for risk of substance use disorders, including opioid abuse and 
 
 The use of oxycodone hydrochloride tablets in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease: Oxycodone hydrochloride tablets-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of oxycodone hydrochloride tablets [see Warnings and Precautions (5.2)].
+Patients with Chronic Pulmonary Disease:Oxycodone hydrochloride tablets-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of oxycodone hydrochloride tablets [see Warnings and Precautions (5.2)].
 
-Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
+Elderly, Cachectic, or Debilitated Patients:Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
 
 Monitor patients closely, particularly when initiating and titrating Oxycodone Hydrochloride Tablets and when oxycodone hydrochloride tablets are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2)].
 Alternatively, consider the use of non-opioid analgesics in these patients.
@@ -97,7 +96,7 @@ Avoid use of oxycodone hydrochloride tablets in patients with circulatory shock.
 
 ## 5.9 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
-In patients who may be susceptible to the intracranial effects of CO 2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), Oxycodone Hydrochloride Tablets may reduce the respiratory drive, and the resultant CO 2 retention can further increase intracranial pressure.
+In patients who may be susceptible to the intracranial effects of CO 2retention (e.g., those with evidence of increased intracranial pressure or brain tumors), Oxycodone Hydrochloride Tablets may reduce the respiratory drive, and the resultant CO 2retention can further increase intracranial pressure.
 Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with oxycodone hydrochloride tablets.
 
 Opioids may obscure the clinical course in a patient with a head injury.

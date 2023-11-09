@@ -30,33 +30,33 @@ In descending order of frequency, they were: nausea, constipation, vomiting, hea
 
 Other less frequently observed adverse reactions from opioid analgesics, including oxycodone hydrochloride tablets included:
 
-Blood and lymphatic system disorders: anemia, leukopenia
+Blood and lymphatic system disorders:anemia, leukopenia
 
-Cardiac disorders: cardiac failure, palpitation, tachycardia
+Cardiac disorders:cardiac failure, palpitation, tachycardia
 
 Gastrointestinal disorders: abdominal pain, dry mouth, diarrhea, dyspepsia, dysphagia, glossitis, nausea, vomiting.
 
-General disorders and administration site conditions: chills, edema, edema peripheral, pain, pyrexia
+General disorders and administration site conditions:chills, edema, edema peripheral, pain, pyrexia
 
-Immune system disorders: hypersensitivity
+Immune system disorders:hypersensitivity
 
-Infections and infestations: bronchitis, gingivitis, infection, pharyngitis, rhinitis, sepsis, sinusitis, urinary tract infection
+Infections and infestations:bronchitis, gingivitis, infection, pharyngitis, rhinitis, sepsis, sinusitis, urinary tract infection
 
-Injury, poisoning and procedural complications: injury
+Injury, poisoning and procedural complications:injury
 
-Metabolism and nutrition disorders: decreased appetite, gout, hyperglycemia
+Metabolism and nutrition disorders:decreased appetite, gout, hyperglycemia
 
-Musculoskeletal and connective tissue disorders: arthralgia, arthritis, back pain, bone pain, myalgia, neck pain, pathological fracture
+Musculoskeletal and connective tissue disorders:arthralgia, arthritis, back pain, bone pain, myalgia, neck pain, pathological fracture
 
-Nervous system disorders: hypertonia, hypoesthesia, migraine, neuralgia, tremor, vasodilation
+Nervous system disorders:hypertonia, hypoesthesia, migraine, neuralgia, tremor, vasodilation
 
-Psychiatric disorders: agitation, anxiety, confusional state, nervousness, personality disorder
+Psychiatric disorders:agitation, anxiety, confusional state, nervousness, personality disorder
 
-Respiratory, thoracic and mediastinal disorders: cough, dyspnea, epistaxis, laryngospasm, lung disorder
+Respiratory, thoracic and mediastinal disorders:cough, dyspnea, epistaxis, laryngospasm, lung disorder
 
-Skin and subcutaneous tissue disorders: photosensitivity reaction, rash, hyperhidrosis, urticaria
+Skin and subcutaneous tissue disorders:photosensitivity reaction, rash, hyperhidrosis, urticaria
 
-Vascular disorders: thrombophlebitis, hemorrhage, hypotension, vasodilatation
+Vascular disorders:thrombophlebitis, hemorrhage, hypotension, vasodilatation
 
 ## 6.2 Postmarketing Experience
 
@@ -64,14 +64,14 @@ The following adverse reactions have been identified during post approval use of
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-General disorders and administrative site disorders: drug withdrawal syndrome neonatal [see Warnings and Precautions (5.3)]
+General disorders and administrative site disorders:drug withdrawal syndrome neonatal [see Warnings and Precautions (5.3)]
 
-Respiratory, thoracic and mediastinal disorders: pharyngeal edema
+Respiratory, thoracic and mediastinal disorders:pharyngeal edema
 
-Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs [see Drug Interactions (7)].
+Serotonin syndrome:Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs [see Drug Interactions (7)].
 
-Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use [see Warnings and Precautions (5.7)].
+Adrenal insufficiency:Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use [see Warnings and Precautions (5.7)].
 
-Anaphylaxis: Anaphylactic reaction has been reported with ingredients contained in ROXICODONE [see Contraindications (4)].
+Anaphylaxis:Anaphylactic reaction has been reported with ingredients contained in ROXICODONE [see Contraindications (4)].
 
-Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+Androgen deficiency:Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].

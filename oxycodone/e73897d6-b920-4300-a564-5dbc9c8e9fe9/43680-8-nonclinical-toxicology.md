@@ -9,7 +9,7 @@ Long-term studies have not been performed in animals to evaluate the carcinogeni
 Mutagenesis
 
 Oxycodone hydrochloride was genotoxic in an in vitro mouse lymphoma assay in the presence of metabolic activation.
-There was no evidence of genotoxic potential in an in vitro bacterial reverse mutation assay (Salmonella typhimurium and Escherichia coli) or in an assay for chromosomal aberrations (in vivo mouse bone marrow micronucleus assay).
+There was no evidence of genotoxic potential in an in vitro bacterial reverse mutation assay (Salmonella typhimuriumand Escherichia coli) or in an assay for chromosomal aberrations (in vivomouse bone marrow micronucleus assay).
 
 Impairment of Fertility
 
