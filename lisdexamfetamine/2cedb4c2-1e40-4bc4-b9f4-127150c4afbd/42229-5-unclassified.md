@@ -10,7 +10,7 @@ The trademarks referenced herein are owned by their respective companies.
 
 Dispense with Medication Guide available at: www.lannett.com/med-guide/lisdexamfetamine
 
-CIB72067A
+CIB72067B
 
 Rev.
-03/2023
+10/2023

@@ -3,7 +3,7 @@
 Lisdexamfetamine dimesylate capsules are indicated for the treatment of:
 
 - Attention Deficit Hyperactivity Disorder (ADHD) in adults and pediatric patients 6 years and older [see Clinical Studies (14.1)]
-- Moderate to severe binge eating disorder (BED) in adults [see Clinical Studies (14.2)]
+- Moderate to severe binge eating disorder (BED) in adults [see Clinical Studies (14.2)].
 
 Limitations of Use:
 

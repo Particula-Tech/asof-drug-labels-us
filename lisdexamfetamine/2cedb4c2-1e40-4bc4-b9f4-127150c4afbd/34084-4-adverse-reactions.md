@@ -4,13 +4,14 @@ The following adverse reactions are discussed in greater detail in other section
 
 - Known hypersensitivity to amphetamine products or other ingredients of lisdexamfetamine dimesylate capsules [see Contraindications (4)]
 - Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see Contraindications (4) and Drug Interactions (7.1)]
-- Drug Dependence [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
-- Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
-- Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
+- Abuse, Misuse, and Addiction [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
+- Risks to Patients with Serious Cardiac Disease [see Warnings and Precautions (5.2)]
+- Increased Blood Pressure and Heart Rate [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
-- Suppression of Growth [see Warnings and Precautions (5.5)]
+- Long-Term Suppression of Growth in Pediatric Patients [see Warnings and Precautions (5.5)]
 - Peripheral Vasculopathy, including Raynaud’s phenomenon [see Warnings and Precautions (5.6)]
 - Serotonin Syndrome [see Warnings and Precautions (5.7)]
+- Motor and Verbal Tics, and Worsening of Tourette’s Syndrome [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -115,7 +116,7 @@ In the controlled adult trial (Study 7), mean weight loss after 4 weeks of thera
 
 Binge Eating Disorder
 
-The safety data in this section is based on data from two 12-week parallel group, flexible-dose, placebo-controlled studies in adults with BED [see Clinical Studies 14.2].
+The safety data in this section is based on data from two 12-week parallel group, flexible-dose, placebo-controlled studies in adults with BED [see Clinical Studies (14.2)].
 Patients with cardiovascular risk factors other than obesity and smoking were excluded.
 
 Adverse Reactions Associated with Discontinuation of Treatment in BED Clinical Trials
@@ -163,6 +164,6 @@ Table 4: Adverse Reactions Reported by 2% or More of Adult Patients with BED Tak
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of lisdexamfetamine dimesylate capsules.
+The following adverse reactions have been identified during post-approval use of lisdexamfetamine dimesylate capsules.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These events are as follows: cardiomyopathy, mydriasis, diplopia, difficulties with visual accommodation, blurred vision, eosinophilic hepatitis, anaphylactic reaction, hypersensitivity, dyskinesia, dysgeusia, tics, bruxism, depression, dermatillomania, alopecia, aggression, Stevens-Johnson Syndrome, chest pain, angioedema, urticaria, seizures, libido changes, frequent or prolonged erections, constipation, rhabdomyolysis, and intestinal ischemia.
+These events are as follows: cardiomyopathy, mydriasis, diplopia, difficulties with visual accommodation, blurred vision, eosinophilic hepatitis, anaphylactic reaction, hypersensitivity, dyskinesia, dysgeusia, motor and verbal tics, bruxism, depression, dermatillomania, alopecia, aggression, Stevens-Johnson Syndrome, chest pain, angioedema, urticaria, seizures, libido changes, frequent or prolonged erections, constipation, rhabdomyolysis, and intestinal ischemia.

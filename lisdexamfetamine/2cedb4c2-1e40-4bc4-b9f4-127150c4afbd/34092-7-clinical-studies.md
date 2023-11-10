@@ -54,7 +54,7 @@ Patients that maintained treatment response for 2 weeks at the end of the open l
 Patients were observed for relapse (treatment failure) during the 6 week double blind phase.
 A significantly lower proportion of treatment failures occurred among lisdexamfetamine dimesylate capsules subjects (15.8%) compared to placebo (67.5%) at endpoint of the randomized withdrawal period.
 The endpoint measurement was defined as the last post- randomization treatment week at which a valid ADHD-RS Total Score and CGI-S were observed.
-Treatment failure was defined as a ≥50% increase (worsening) in the ADHD-RS Total Score and a ≥2-point increase in the CGI-S score compared to scores at entry into the double- blind randomized withdrawal phase.
+Treatment failure was defined as a ≥50% increase (worsening) in the ADHD-RS Total Score and a ≥2-point increase in the CGI-S score compared to scores at entry into the double-blind randomized withdrawal phase.
 Subjects who withdrew from the randomized withdrawal period and who did not provide efficacy data at their last on-treatment visit were classified as treatment failures (Study 6, Figure 5).
 
 Adults: Short-Term Treatment in ADHD
@@ -68,7 +68,7 @@ Endpoint was defined as the last post-randomization treatment week (i.e., Weeks 
 All lisdexamfetamine dimesylate capsules dose groups were superior to placebo in the primary efficacy outcome (Study 7 in Table 6).
 
 The second study was a multi-center, randomized, double-blind, placebo-controlled, cross-over, modified analog classroom study (Study 8) of lisdexamfetamine dimesylate capsules to simulate a workplace environment in 142 adults ages 18 to 55 who met DSM-IV-TR criteria for ADHD.
-There was a 4-week open- label, dose optimization phase with lisdexamfetamine dimesylate capsules (30 mg/day, 50 mg/day, or 70 mg/day in the morning).
+There was a 4-week open-label, dose optimization phase with lisdexamfetamine dimesylate capsules (30 mg/day, 50 mg/day, or 70 mg/day in the morning).
 Patients were then randomized to one of two treatment sequences: 1) lisdexamfetamine dimesylate capsules (optimized dose) followed by placebo, each for one week, or 2) placebo followed by lisdexamfetamine dimesylate capsules, each for one week.
 Efficacy assessments occurred at the end of each week, using the Permanent Product Measure of Performance (PERMP), a skill-adjusted math test that measures attention in ADHD.
 PERMP total score results from the sum of the number of math problems attempted plus the number of math problems answered correctly.
@@ -93,7 +93,7 @@ Table 6: Summary of Primary Efficacy Results from Short-term Studies of Lisdexam
 | --- | --- | --- | --- | --- | --- |
 | Study 1 (6-12 years) | ADHD-RS-IV | Lisdexamfetamine Dimesylate Capsules (30 mg/day)* | 43.2 (6.7) | -21.8 (1.6) | -15.6 (-19.9, -11.2) |
 | Lisdexamfetamine Dimesylate Capsules (50 mg/day)* | 43.3 (6.7) | -23.4 (1.6) | -17.2 (-21.5, -12.9) |  |  |
-| Lisdexamfetamine Dimesylate Capsules (70 mg/day)* | 45.1(6.8) | -26.7 (1.5) | -20.5 (-24.8, -16.2) |  |  |
+| Lisdexamfetamine Dimesylate Capsules (70 mg/day)* | 45.1 (6.8) | -26.7 (1.5) | -20.5 (-24.8, -16.2) |  |  |
 | Placebo | 42.4 (7.1) | -6.2 (1.6) | -- |  |  |
 | Study 2 (6-12 years) | Average SKAMP-DS | Lisdexamfetamine Dimesylate Capsules (30, 50 or 70 mg/day)* | --b | 0.8 (0.1)d | -0.9 (-1.1, -0.7) |
 | Placebo | --b | 1.7 (0.1)d | -- |  |  |
@@ -137,7 +137,7 @@ A diagnosis of BED was confirmed using DSM-IV criteria for BED.
 Severity of BED was determined based on having at least 3 binge days per week for 2 weeks prior to the baseline visit and on having a Clinical Global Impression Severity (CGI-S) score of ≥4 at the baseline visit.
 For both studies, a binge day was defined as a day with at least 1 binge episode, as determined from the subject’s daily binge diary.
 
-Both 12-week studies consisted of a 4-week dose-optimization period and an 8-week dose- maintenance period.
+Both 12-week studies consisted of a 4-week dose-optimization period and an 8-week dose-maintenance period.
 During dose-optimization, subjects assigned to lisdexamfetamine dimesylate capsules began treatment at the titration dose of 30 mg/day and, after 1 week of treatment, were subsequently titrated to 50 mg/day.
 Additional increases to 70 mg/day were made as tolerated and clinically indicated.
 Following the dose-optimization period, subjects continued on their optimized dose for the duration of the dose-maintenance period.

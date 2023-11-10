@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications during pregnancy.
-Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychostimulants at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/clinical-and researchprograms/pregnancyregistry/adhdmedications/.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychostimulants at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/clinical-and researchprograms/pregnancyregistry/adhd-medications/.
 
 Risk Summary
 
@@ -74,7 +74,7 @@ With the same lisdexamfetamine dimesylate capsules dose, mean steady state expos
 
 BED
 
-Safety and effectiveness of lisdexamfetamine dimesylate capsules have not been established in patients less than 18 years of age.
+Safety and effectiveness of lisdexamfetamine dimesylate capsules have not been established in pediatric patients with BED less than 18 years of age.
 
 Growth Suppression
 
