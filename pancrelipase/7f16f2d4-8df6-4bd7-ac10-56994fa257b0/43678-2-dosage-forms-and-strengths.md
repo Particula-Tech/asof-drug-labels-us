@@ -16,3 +16,5 @@ Delayed-release capsules are available in the following:
   Capsules have a blue opaque cap and white opaque body, blue imprint with “APTALIS 25”
 - •40,000 USP units of lipase; 126,000 USP units of protease; 168,000 USP units of amylase.
   Capsules have an orange opaque cap and white opaque body, blue imprint with “APTALIS 40”
+- •60,000 USP units of lipase; 189,600 USP units of protease; 252,600 USP units of amylase.
+  Capsules have a powder blue opaque cap with two black stripes and white opaque body, black imprint with "APTALIS 60"

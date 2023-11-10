@@ -63,6 +63,15 @@ Capsules are supplied in bottles of:
 
 - o100 capsules (NDC 73562-114-01)
 
+ZENPEP® (pancrelipase) Delayed-Release Capsules
+
+60,000 USP units of lipase; 189,600 USP units of protease; 252,600 USP units of amylase.
+
+Each ZENPEP capsule is available as a two piece hypromellose capsule with powder blue opaque cap with two black stripes and white body with a black radial print and printed with “APTALIS 60”, that contains 2.2-2.5mm enteric-coated beads.
+Capsules are supplied in bottles of:
+
+- o100 capsules (NDC 73562-117-01)
+
 Storage and Handling
 
 Original container:

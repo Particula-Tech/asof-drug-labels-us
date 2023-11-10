@@ -2,7 +2,7 @@
 
 Pancrelipase is a pancreatic enzyme product consisting of a mixture of enzymes including lipases, proteases, and amylases and is an extract derived from porcine pancreatic glands.
 
-ZENPEP (pancrelipase) delayed-release capsule for oral administration contains enteric‑coated beads (1.8-1.9mm for 3,000 and 5,000 USP units of lipase, 2.2-2.5mm for 10,000, 15,000, 20,000, 25,000, and 40,000 USP units of lipase) and available as follows:
+ZENPEP (pancrelipase) delayed-release capsule for oral administration contains enteric‑coated beads (1.8-1.9mm for 3,000 and 5,000 USP units of lipase, 2.2-2.5mm for 10,000, 15,000, 20,000, 25,000, 40,000 and 60,000 USP units of lipase) and available as follows:
 
 3,000 USP units of lipase; 10,000 USP units of protease; 14,000 USP units of amylase.
 Capsules have a white opaque cap and a white opaque body with imprint “APTALIS 3”.
@@ -33,7 +33,11 @@ The shells contain carnauba wax or talc, carrageenan, FD&C Blue #2, hypromellose
 
 40,000 USP units of lipase; 126,000 USP units of protease; 168,000 USP units of amylase.
 Capsules have an orange opaque cap and white opaque body, printed with “APTALIS 40”.
-The shells contain FD&C Yellow #6, hypromellose, titanium oxide, and water.
+The shells contain FD&C Yellow #6, hypromellose and titanium oxide.
+
+60,000 USP units of lipase; 189,600 USP units of protease; 252,600 USP units of amylase.
+Capsules have a powder blue opaque cap with two black stripes and white opaque body, printed with "APTALIS 60".
+The shells contain FD&C Blue #1, hypromellose, and titanium oxide.
 
 Inactive ingredients in ZENPEP include colloidal silicon dioxide, croscarmellose sodium, hydrogenated castor oil, hypromellose phthalate, magnesium stearate, microcrystalline cellulose, talc, and triethyl citrate and are contained in hypromellose capsules.
 The imprinting red ink on the 3,000 capsules strength contains, antifoam DC 1510, industrial methylated spirit, iron oxide red C.I.

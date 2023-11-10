@@ -95,3 +95,17 @@ DOSE BY LIPASE UNITS: Lipase 40,000 USP units Protease 126,000 USP units Amylase
 Dispense enclosed Medication Guide to each patient
 
 100 Delayed-Release Capsules
+
+# PRINCIPAL DISPLAY PANEL - Lipase 60,000 USP Units
+
+NDC 73562-117-01
+
+pancrelipase Zenpep® Delayed-Release Capsules
+
+Rx only
+
+DOSE BY LIPASE UNITS: Lipase 60,000 USP units Protease 189,600 USP units Amylase 252,600 USP units
+
+Dispense enclosed Medication Guide to each patient
+
+100 Delayed-Release Capsules
