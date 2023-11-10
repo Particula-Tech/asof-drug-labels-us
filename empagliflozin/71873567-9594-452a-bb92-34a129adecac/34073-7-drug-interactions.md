@@ -1,5 +1,7 @@
 # 7 DRUG INTERACTIONS
 
+Table 2 describes clinically relevant interactions with TRIJARDY XR.
+
 Table 2 Clinically Relevant Interactions with TRIJARDY XR
 
 | Carbonic Anhydrase Inhibitors |  |
@@ -17,7 +19,7 @@ Table 2 Clinically Relevant Interactions with TRIJARDY XR
 | Intervention | Before initiating TRIJARDY XR, assess volume status and renal function. In patients with volume depletion, correct this condition before initiating TRIJARDY XR. Monitor for signs and symptoms of volume depletion, and renal function after initiating therapy. |
 | Insulin or Insulin Secretagogues |  |
 | Clinical Impact | The risk of hypoglycemia is increased when TRIJARDY XR is used in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin. |
-| Intervention | Coadministration of TRIJARDY XR with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia. |
+| Intervention | Coadministration of TRIJARDY XR with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower dosages of the insulin secretagogue or insulin to reduce the risk of hypoglycemia. |
 | Drugs Affecting Glycemic Control |  |
 | Clinical Impact | Certain drugs tend to produce hyperglycemia and may lead to loss of glycemic control. These drugs include the thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blocking drugs, and isoniazid. |
 | Intervention | When such drugs are administered to a patient receiving TRIJARDY XR, the patient should be closely observed to maintain adequate glycemic control. When such drugs are withdrawn from a patient receiving TRIJARDY XR, the patient should be observed closely for hypoglycemia. |

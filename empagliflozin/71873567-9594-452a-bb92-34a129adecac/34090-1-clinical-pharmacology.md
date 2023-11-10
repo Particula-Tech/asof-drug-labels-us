@@ -4,11 +4,11 @@
 
 TRIJARDY XR
 
-TRIJARDY XR contains: empagliflozin, a sodium-glucose co-transporter 2 (SGLT2) inhibitor, linagliptin, a dipeptidyl peptidase-4 (DPP-4) inhibitor, and metformin, a biguanide.
+TRIJARDY XR contains: empagliflozin, a SGLT2 inhibitor, linagliptin, a DPP-4 inhibitor, and metformin, a biguanide.
 
 Empagliflozin
 
-Empagliflozin is an inhibitor of the sodium-glucose co-transporter 2 (SGLT2), the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation.
+Empagliflozin is an inhibitor of the SGLT2, the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation.
 By inhibiting SGLT2, empagliflozin reduces renal reabsorption of filtered glucose and lowers the renal threshold for glucose, and thereby increases urinary glucose excretion.
 
 Linagliptin
@@ -32,7 +32,7 @@ Empagliflozin
 
 Urinary Glucose Excretion
 
-In patients with type 2 diabetes, urinary glucose excretion increased immediately following a dose of empagliflozin and was maintained at the end of a 4-week treatment period averaging at approximately 64 grams per day with 10 mg empagliflozin and 78 grams per day with 25 mg empagliflozin once daily.
+In patients with type 2 diabetes mellitus, urinary glucose excretion increased immediately following a dose of empagliflozin and was maintained at the end of a 4-week treatment period averaging at approximately 64 grams per day with 10 mg empagliflozin and 78 grams per day with 25 mg empagliflozin once daily.
 Data from single oral doses of empagliflozin in healthy subjects indicate that, on average, the elevation in urinary glucose excretion approaches baseline by about 3 days for the 10 mg and 25 mg doses.
 
 Urinary Volume
@@ -53,10 +53,12 @@ Linagliptin binds selectively to DPP-4 and selectively inhibits DPP-4, but not D
 Cardiac Electrophysiology
 
 In a randomized, placebo-controlled, active-comparator, 4-way crossover study, 36 healthy subjects were administered a single oral dose of linagliptin 5 mg, linagliptin 100 mg (20 times the recommended dose), moxifloxacin, and placebo.
-No increase in QTc was observed with either the recommended dose of 5 mg or the 100-mg dose.
-At the 100-mg dose, peak linagliptin plasma concentrations were approximately 38-fold higher than the peak concentrations following a 5-mg dose.
+No increase in QTc was observed with either the recommended dose of 5 mg or the 100 mg dose.
+At the 100 mg dose, peak linagliptin plasma concentrations were approximately 38-fold higher than the peak concentrations following a 5-mg dose.
 
 ## 12.3 Pharmacokinetics
+
+TRIJARDY XR
 
 Administration of TRIJARDY XR with food resulted in no change in overall exposure of empagliflozin or linagliptin.
 For metformin extended-release, high-fat meals increased systemic exposure (as measured by area-under-the-curve [AUC]) by approximately 70% relative to fasting, while Cmax is not affected.
@@ -64,14 +66,17 @@ Meals prolonged Tmax by approximately 3 hours.
 
 Empagliflozin
 
+The pharmacokinetics of empagliflozin has been characterized in healthy volunteers and patients with type 2 diabetes mellitus and no clinically relevant differences were noted between the two populations.
+The steady-state mean plasma AUC and Cmax were 1,870 nmol∙h/L and 259 nmol/L, respectively, with 10 mg empagliflozin once daily treatment, and 4,740 nmol∙h/L and 687 nmol/L, respectively, with 25 mg empagliflozin once daily treatment.
+Systemic exposure of empagliflozin increased in a dose-proportional manner in the therapeutic dose range.
+Empagliflozin does not appear to have time-dependent pharmacokinetic characteristics.
+Following once-daily dosing, up to 22% accumulation, with respect to plasma AUC, was observed at steady-state.
+
 Absorption
 
-The pharmacokinetics of empagliflozin has been characterized in healthy volunteers and patients with type 2 diabetes and no clinically relevant differences were noted between the two populations.
 After oral administration, peak plasma concentrations of empagliflozin were reached at 1.5 hours post-dose.
-Thereafter, plasma concentrations declined in a biphasic manner with a rapid distribution phase and a relatively slow terminal phase.
-The steady-state mean plasma AUC and Cmax were 1870 nmol∙h/L and 259 nmol/L, respectively, with 10 mg empagliflozin once daily treatment, and 4740 nmol∙h/L and 687 nmol/L, respectively, with 25 mg empagliflozin once daily treatment.
-Systemic exposure of empagliflozin increased in a dose-proportional manner in the therapeutic dose range.
-The single-dose and steady-state pharmacokinetic parameters of empagliflozin were similar, suggesting linear pharmacokinetics with respect to time.
+Administration of 25 mg empagliflozin after intake of a high-fat and high-calorie meal resulted in slightly lower exposure; AUC decreased by approximately 16% and Cmax decreased by approximately 37%, compared to fasted condition.
+The observed effect of food on empagliflozin pharmacokinetics was not considered clinically relevant and empagliflozin may be administered with or without food.
 
 Distribution
 
@@ -81,13 +86,16 @@ Following administration of an oral [14C]-empagliflozin solution to healthy subj
 Elimination
 
 The apparent terminal elimination half-life of empagliflozin was estimated to be 12.4 h and apparent oral clearance was 10.6 L/h based on the population pharmacokinetic analysis.
-Following once-daily dosing, up to 22% accumulation, with respect to plasma AUC, was observed at steady-state, which was consistent with empagliflozin half-life.
 
-Metabolism: No major metabolites of empagliflozin were detected in human plasma and the most abundant metabolites were three glucuronide conjugates (2-O-, 3-O-, and 6-O-glucuronide).
+Metabolism
+
+No major metabolites of empagliflozin were detected in human plasma and the most abundant metabolites were three glucuronide conjugates (2-O-, 3-O-, and 6-O-glucuronide).
 Systemic exposure of each metabolite was less than 10% of total drug-related material.
 In vitro studies suggested that the primary route of metabolism of empagliflozin in humans is glucuronidation by the uridine 5'-diphospho-glucuronosyltransferases UGT2B7, UGT1A3, UGT1A8, and UGT1A9.
 
-Excretion: Following administration of an oral [14C]-empagliflozin solution to healthy subjects, approximately 95.6% of the drug-related radioactivity was eliminated in feces (41.2%) or urine (54.4%).
+Excretion
+
+Following administration of an oral [14C]-empagliflozin solution to healthy subjects, approximately 95.6% of the drug-related radioactivity was eliminated in feces (41.2%) or urine (54.4%).
 The majority of drug-related radioactivity recovered in feces was unchanged parent drug and approximately half of drug-related radioactivity excreted in urine was unchanged parent drug.
 
 Linagliptin
@@ -100,7 +108,7 @@ Linagliptin may be administered with or without food.
 
 Distribution
 
-The mean apparent volume of distribution at steady-state following a single intravenous dose of linagliptin 5 mg to healthy subjects is approximately 1110 L, indicating that linagliptin extensively distributes to the tissues.
+The mean apparent volume of distribution at steady-state following a single intravenous dose of linagliptin 5 mg to healthy subjects is approximately 1,110 L, indicating that linagliptin extensively distributes to the tissues.
 Plasma protein binding of linagliptin is concentration-dependent, decreasing from about 99% at 1 nmol/L to 75% to 89% at ≥30 nmol/L, reflecting saturation of binding to DPP-4 with increasing concentration of linagliptin.
 At high concentrations, where DPP-4 is fully saturated, 70% to 80% of linagliptin remains bound to plasma proteins and 20% to 30% is unbound in plasma.
 Plasma binding is not altered in patients with renal or hepatic impairment.
@@ -110,19 +118,23 @@ Elimination
 Linagliptin has a terminal half-life of about 200 hours at steady-state, though the accumulation half-life is about 11 hours.
 Renal clearance at steady-state was approximately 70 mL/min.
 
-Metabolism: Following oral administration, the majority (about 90%) of linagliptin is excreted unchanged, indicating that metabolism represents a minor elimination pathway.
+Metabolism
+
+Following oral administration, the majority (about 90%) of linagliptin is excreted unchanged, indicating that metabolism represents a minor elimination pathway.
 A small fraction of absorbed linagliptin is metabolized to a pharmacologically inactive metabolite, which shows a steady-state exposure of 13.3% relative to linagliptin.
 
-Excretion: Following administration of an oral [14C]-linagliptin dose to healthy subjects, approximately 85% of the administered radioactivity was eliminated via the enterohepatic system (80%) or urine (5%) within 4 days of dosing.
+Excretion
 
-Metformin HCl
+Following administration of an oral [14C]-linagliptin dose to healthy subjects, approximately 85% of the administered radioactivity was eliminated via the enterohepatic system (80%) or urine (5%) within 4 days of dosing.
+
+Metformin HCl extended-release
 
 Absorption
 
-Following a single oral dose of 1000 mg (2 × 500 mg tablets) metformin HCl extended-release after a meal, the time to reach maximum plasma metformin concentration (Tmax) is achieved at approximately 7 to 8 hours.
-In both single- and multiple-dose studies in healthy subjects, once daily 1000 mg (2 × 500 mg tablets) dosing provides equivalent systemic exposure, as measured by AUC, and up to 35% higher Cmax of metformin relative to the immediate-release given as 500 mg twice daily.
+Following a single oral dose of 1,000 mg (2 × 500 mg tablets) metformin HCl extended-release after a meal, the time to reach maximum plasma metformin concentration (Tmax) is achieved at approximately 7 to 8 hours.
+In both single- and multiple-dose studies in healthy subjects, once daily 1,000 mg (2 × 500 mg tablets) dosing provides equivalent systemic exposure, as measured by AUC, and up to 35% higher Cmax of metformin relative to the immediate-release given as 500 mg twice daily.
 
-Single oral doses of metformin HCl extended-release from 500 mg to 2500 mg resulted in less than proportional increase in both AUC and Cmax.
+Single oral doses of metformin HCl extended-release from 500 mg to 2,500 mg resulted in less than proportional increase in both AUC and Cmax.
 Low-fat and high-fat meals increased the systemic exposure (as measured by AUC) from metformin extended-release tablets by about 38% and 73%, respectively, relative to fasting.
 Both meals prolonged metformin Tmax by approximately 3 hours but Cmax, was not affected.
 
@@ -136,14 +148,37 @@ Elimination
 Metformin has a plasma elimination half-life of approximately 6.2 hours.
 In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
 
-Metabolism: Intravenous single-dose studies in normal subjects demonstrate that metformin does not undergo hepatic metabolism (no metabolites have been identified in humans) nor biliary excretion.
+Metabolism
 
-Excretion: Following oral administration, approximately 90% of the absorbed drug is excreted via the renal route within the first 24 hours.
+Intravenous single-dose studies in normal subjects demonstrate that metformin does not undergo hepatic metabolism (no metabolites have been identified in humans) nor biliary excretion.
+
+Excretion
+
+Following oral administration, approximately 90% of the absorbed drug is excreted via the renal route within the first 24 hours.
 Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin elimination.
 
 Specific Populations
 
-Renal Impairment
+Geriatric Patients
+
+Empagliflozin: Age did not have a clinically meaningful impact on the pharmacokinetics of empagliflozin based on a population pharmacokinetic analysis [see Use in Specific Populations (8.5)].
+
+Metformin HCl: Limited data from controlled pharmacokinetic studies of metformin HCl in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared with healthy young subjects.
+From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
+
+Effects of Age, Body Mass Index, Gender, and Race
+
+Empagliflozin: Age, body mass index (BMI), gender and race (Asians versus primarily Whites) do not have a clinically meaningful effect on pharmacokinetics of empagliflozin.
+
+Linagliptin: Based on the population PK analysis, age, body mass index (BMI), gender and race do not have a clinically meaningful effect on pharmacokinetics of linagliptin [see Use in Specific Populations (8.5)].
+
+Metformin HCl: Metformin pharmacokinetic parameters did not differ significantly between normal subjects and patients with type 2 diabetes mellitus when analyzed according to gender.
+Similarly, in controlled clinical studies in patients with type 2 diabetes mellitus, the antihyperglycemic effect of metformin was comparable in males and females.
+
+No studies of metformin pharmacokinetic parameters according to race have been performed.
+In controlled clinical studies of metformin HCl in patients with type 2 diabetes mellitus, the antihyperglycemic effect was comparable in Whites (n=249), Blacks or African Americans (n=51), and Hispanics or Latinos (n=24).
+
+Patients with Renal Impairment
 
 TRIJARDY XR: Studies characterizing the pharmacokinetics of empagliflozin, linagliptin, and metformin after administration of TRIJARDY XR in renally impaired patients have not been performed.
 
@@ -154,7 +189,7 @@ Population pharmacokinetic analysis showed that the apparent oral clearance of e
 However, the fraction of empagliflozin that was excreted unchanged in urine, and urinary glucose excretion, declined with decrease in eGFR.
 
 Linagliptin: An open-label pharmacokinetic study evaluated the pharmacokinetics of linagliptin 5 mg in male and female patients with varying degrees of chronic renal impairment.
-The study included 6 healthy subjects with normal renal function (creatinine clearance [CrCl] ≥80 mL/min), 6 patients with mild renal impairment (CrCl 50 to <80 mL/min), 6 patients with moderate renal impairment (CrCl 30 to <50 mL/min), 10 patients with type 2 diabetes and severe renal impairment (CrCl <30 mL/min), and 11 patients with type 2 diabetes and normal renal function.
+The study included 6 healthy subjects with normal renal function (creatinine clearance [CrCl] ≥80 mL/min), 6 patients with mild renal impairment (CrCl 50 to <80 mL/min), 6 patients with moderate renal impairment (CrCl 30 to <50 mL/min), 10 patients with type 2 diabetes mellitus and severe renal impairment (CrCl <30 mL/min), and 11 patients with type 2 diabetes mellitus and normal renal function.
 Creatinine clearance was measured by 24-hour urinary creatinine clearance measurements or estimated from serum creatinine based on the Cockcroft-Gault formula.
 
 Under steady-state conditions, linagliptin exposure in patients with mild renal impairment was comparable to healthy subjects.
@@ -162,14 +197,14 @@ Under steady-state conditions, linagliptin exposure in patients with mild renal 
 In patients with moderate renal impairment under steady-state conditions, mean exposure of linagliptin increased (AUCτ,ss by 71% and Cmax by 46%), compared with healthy subjects.
 This increase was not associated with a prolonged accumulation half-life, terminal half-life, or an increased accumulation factor.
 Renal excretion of linagliptin was below 5% of the administered dose and was not affected by decreased renal function.
-Patients with type 2 diabetes and severe renal impairment showed steady-state exposure approximately 40% higher than that of patients with type 2 diabetes and normal renal function (increase in AUCτ,ss by 42% and Cmax by 35%).
-For both type 2 diabetes groups, renal excretion was below 7% of the administered dose.
+Patients with type 2 diabetes mellitus and severe renal impairment showed steady-state exposure approximately 40% higher than that of patients with type 2 diabetes mellitus and normal renal function (increase in AUCτ,ss by 42% and Cmax by 35%).
+For both type 2 diabetes mellitus groups, renal excretion was below 7% of the administered dose.
 
 These findings were further supported by the results of population pharmacokinetic analyses.
 
 Metformin HCl: In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4) and Warnings and Precautions (5.1)].
 
-Hepatic Impairment
+Patients with Hepatic Impairment
 
 TRIJARDY XR: Studies characterizing the pharmacokinetics of empagliflozin, linagliptin, and metformin after administration of TRIJARDY XR in hepatically impaired patients have not been performed.
 
@@ -182,22 +217,7 @@ Reductions in the pharmacokinetic parameters seen in patients with hepatic impai
 
 Metformin HCl: No pharmacokinetic studies of metformin have been conducted in patients with hepatic impairment.
 
-Effects of Age, Body Mass Index, Gender, and Race
-
-Empagliflozin: Based on the population PK analysis, age, body mass index (BMI), gender and race (Asians versus primarily Whites) do not have a clinically meaningful effect on pharmacokinetics of empagliflozin [see Use in Specific Populations (8.5)].
-
-Linagliptin: Based on the population PK analysis, age, body mass index (BMI), gender and race do not have a clinically meaningful effect on pharmacokinetics of linagliptin [see Use in Specific Populations (8.5)].
-
-Metformin HCl: Metformin pharmacokinetic parameters did not differ significantly between normal subjects and patients with type 2 diabetes mellitus when analyzed according to gender.
-Similarly, in controlled clinical studies in patients with type 2 diabetes mellitus, the antihyperglycemic effect of metformin was comparable in males and females.
-
-No studies of metformin pharmacokinetic parameters according to race have been performed.
-In controlled clinical studies of metformin HCl in patients with type 2 diabetes mellitus, the antihyperglycemic effect was comparable in Caucasians (n=249), Blacks (n=51), and Hispanics (n=24).
-
-Limited data from controlled pharmacokinetic studies of metformin HCl in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared with healthy young subjects.
-From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
-
-Drug Interactions
+Drug Interaction Studies
 
 Pharmacokinetic drug interaction studies with TRIJARDY XR have not been performed; however, such studies have been conducted with the individual components of TRIJARDY XR (empagliflozin, linagliptin, and metformin HCl).
 
@@ -218,19 +238,19 @@ Empagliflozin does not inhibit any of these human uptake transporters at clinica
 
 In vivo Assessment of Drug Interactions
 
-Empagliflozin pharmacokinetics were similar with and without coadministration of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, and simvastatin in healthy volunteers and with or without coadministration of hydrochlorothiazide and torsemide in patients with type 2 diabetes (see Figure 1).
+Empagliflozin pharmacokinetics were similar with and without coadministration of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, and simvastatin in healthy volunteers and with or without coadministration of hydrochlorothiazide and torsemide in patients with type 2 diabetes mellitus (see Figure 1).
 In subjects with normal renal function, coadministration of empagliflozin with probenecid resulted in a 30% decrease in the fraction of empagliflozin excreted in urine without any effect on 24-hour urinary glucose excretion.
 The relevance of this observation to patients with renal impairment is unknown.
 
-Figure 1 Effect of Various Medications on the Pharmacokinetics of Empagliflozin as Displayed as 90% Confidence Interval of Geometric Mean AUC and Cmax Ratios [reference lines indicate 100% (80% - 125%)]
-
-aempagliflozin, 50 mg, once daily; bempagliflozin, 25 mg, single dose; cempagliflozin, 25 mg, once daily; dempagliflozin, 10 mg, single dose
+| Figure 1 Effect of Various Medications on the Pharmacokinetics of Empagliflozin as Displayed as 90% Confidence Interval of Geometric Mean AUC and Cmax Ratios [reference lines indicate 100% (80% - 125%)] |
+| --- |
+| aempagliflozin, 50 mg, once daily; bempagliflozin, 25 mg, single dose; cempagliflozin, 25 mg, once daily; dempagliflozin, 10 mg, single dose |
 
 Empagliflozin had no clinically relevant effect on the pharmacokinetics of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, digoxin, ramipril, simvastatin, hydrochlorothiazide, torsemide, and oral contraceptives when coadministered in healthy volunteers (see Figure 2).
 
-Figure 2 Effect of Empagliflozin on the Pharmacokinetics of Various Medications as Displayed as 90% Confidence Interval of Geometric Mean AUC and Cmax Ratios [reference lines indicate 100% (80% - 125%)]
-
-aempagliflozin, 50 mg, once daily; bempagliflozin, 25 mg, once daily; cempagliflozin, 25 mg, single dose; dadministered as simvastatin; eadministered as warfarin racemic mixture; fadministered as Microgynon®; gadministered as ramipril
+| Figure 2 Effect of Empagliflozin on the Pharmacokinetics of Various Medications as Displayed as 90% Confidence Interval of Geometric Mean AUC and Cmax Ratios [reference lines indicate 100% (80% - 125%)] |
+| --- |
+| aempagliflozin, 50 mg, once daily; bempagliflozin, 25 mg, once daily; cempagliflozin, 25 mg, single dose; dadministered as simvastatin; eadministered as warfarin racemic mixture; fadministered as Microgynon®; gadministered as ramipril |
 
 Linagliptin
 
@@ -246,11 +266,13 @@ In vivo Assessment of Drug Interactions
 Strong inducers of CYP3A4 or P-gp (e.g., rifampin) decrease exposure to linagliptin to subtherapeutic and likely ineffective concentrations [see Drug Interactions (7)].
 In vivo studies indicated evidence of a low propensity for causing drug interactions with substrates of CYP3A4, CYP2C9, CYP2C8, P-gp and organic cationic transporter (OCT).
 
+Table 3 describes the effect of coadministered drugs on systemic exposure of linagliptin.
+
 Table 3 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 
-| Coadministered Drug | Dosing of Coadministered Druga | Dosing of Linagliptina | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |
-| --- | --- | --- | --- | --- |
 |  |  |  | AUCd | Cmax |
+| --- | --- | --- | --- | --- |
+| Coadministered Drug | Dosing of Coadministered Druga | Dosing of Linagliptina | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |
 | Metformin | 850 mg TID | 10 mg QD | 1.20 | 1.03 |
 | Glyburide | 1.75 mgc | 5 mg QD | 1.02 | 1.01 |
 | Pioglitazone | 45 mg QD | 10 mg QD | 1.13 | 1.07 |
@@ -264,23 +286,19 @@ Table 3 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 | BID = twice daily |  |  |  |  |
 | TID = three times daily |  |  |  |  |
 
+Table 4 describes the effect of linagliptin on systemic exposure of coadministered drugs.
+
 Table 4 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 
-| Coadministered Drug | Dosing of Coadministered Druga | Dosing of Linagliptina | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |  |
-| --- | --- | --- | --- | --- | --- |
 |  |  |  |  | AUCc | Cmax |
+| --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dosing of Coadministered Druga | Dosing of Linagliptina | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |  |
 | Metformin | 850 mg TID | 10 mg QD | metformin | 1.01 | 0.89 |
 | Glyburide | 1.75 mgb | 5 mg QD | glyburide | 0.86 | 0.86 |
-| Pioglitazone | 45 mg QD | 10 mg QD | pioglitazone | 0.94 | 0.86 |
-| metabolite M-III | 0.98 | 0.96 |  |  |  |
-| metabolite M-IV | 1.04 | 1.05 |  |  |  |
+| Pioglitazone | 45 mg QD | 10 mg QD | pioglitazone metabolite M-III metabolite M-IV | 0.94 0.98 1.04 | 0.86 0.96 1.05 |
 | Digoxin | 0.25 mg QD | 5 mg QD | digoxin | 1.02 | 0.94 |
-| Simvastatin | 40 mg QD | 10 mg QD | simvastatin | 1.34 | 1.10 |
-| simvastatin acid | 1.33 | 1.21 |  |  |  |
-| Warfarin | 10 mgb | 5 mg QD | R-warfarin | 0.99 | 1.00 |
-| S-warfarin | 1.03 | 1.01 |  |  |  |
-| INR | 0.93d | 1.04d |  |  |  |
-| PT | 1.03d | 1.15d |  |  |  |
+| Simvastatin | 40 mg QD | 10 mg QD | simvastatin simvastatin acid | 1.34 1.33 | 1.10 1.21 |
+| Warfarin | 10 mgb | 5 mg QD | R-warfarin S-warfarin INR PT | 0.99 1.03 0.93d 1.03d | 1.00 1.01 1.04d 1.15d |
 | Ethinylestradiol and levonorgestrel | ethinylestradiol 0.03 mg and levonorgestrel 0.150 mg QD | 5 mg QD | ethinylestradiol levonorgestrel | 1.01 1.09 | 1.08 1.13 |
 | aMultiple dose (steady-state) unless otherwise noted |  |  |  |  |  |
 | bSingle dose |  |  |  |  |  |
@@ -293,11 +311,13 @@ Table 4 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 
 Metformin HCl
 
-Table 5 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
+Table 5 describes the effect of coadministered drugs on plasma metformin systemic exposure.
 
-| Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Metformin HCl* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |  |
-| --- | --- | --- | --- | --- | --- |
+Table 5 Effect of Coadministered Drugs on Plasma Metformin Systemic Exposure
+
 |  |  |  |  | AUC† | Cmax |
+| --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Metformin HCl* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |  |
 | Glyburide | 5 mg | 500 mg≠ | metformin | 0.98‡ | 0.99‡ |
 | Furosemide | 40 mg | 850 mg | metformin | 1.09‡ | 1.22‡ |
 | Nifedipine | 10 mg | 850 mg | metformin | 1.16 | 1.21 |
@@ -313,11 +333,13 @@ Table 5 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | ‡Ratio of arithmetic means |  |  |  |  |  |
 | **At steady-state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC(0-12 hours) |  |  |  |  |  |
 
+Table 6 describes the effect of metformin on coadministered drug systemic exposure.
+
 Table 6 Effect of Metformin on Coadministered Drug Systemic Exposure
 
-| Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Metformin HCl* | Geometric Mean Ratio (ratio with/without metformin) No effect=1.0 |  |  |
-| --- | --- | --- | --- | --- | --- |
 |  |  |  |  | AUC† | Cmax |
+| --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Metformin HCl* | Geometric Mean Ratio (ratio with/without metformin) No effect=1.0 |  |  |
 | Glyburide | 5 mg | 500 mg§ | glyburide | 0.78‡ | 0.63‡ |
 | Furosemide | 40 mg | 850 mg | furosemide | 0.87‡ | 0.69‡ |
 | Nifedipine | 10 mg | 850 mg | nifedipine | 1.10§ | 1.08 |
