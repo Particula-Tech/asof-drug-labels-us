@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021789"
+  ],
+  "inn": "metronidazole",
+  "labeler": "Mayne Pharma Inc.",
+  "package_ndcs": [
+    "68308-663-55"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "metronidazole",
+      "name": "Metronidazole"
+    }
+  ],
+  "setid": "3c25a3f9-52fc-448e-a044-f63b9dadcd4a",
+  "source": "dailymed"
+}
