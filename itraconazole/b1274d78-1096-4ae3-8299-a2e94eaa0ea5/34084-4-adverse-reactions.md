@@ -99,10 +99,10 @@ Vascular Disorders: hypotension
 
 ## Post-marketing Experience
 
-Adverse drug reactions that have been first identified during post-marketing experience with itraconazole (all formulations) are listed in the table below.
+Adverse drug reactions that have been first identified during post-marketing experience with itraconazole(all formulations) are listed in the table below.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
 
-Table 6: Postmarketing Reports of Adverse Drug Reactions
+Table 6: Post-marketing Reports of Adverse Drug Reactions
 
 | Blood and Lymphatic System Disorders: | Leukopenia, neutropenia, thrombocytopenia |
 | --- | --- |
@@ -121,7 +121,7 @@ Table 6: Postmarketing Reports of Adverse Drug Reactions
 | General Disorders and Administration Site Conditions: | Peripheral edema |
 | Investigations: | Blood creatine phosphokinase increased |
 
-There is limited information on the use of itraconazole during pregnancy.
+There is limited information on the use of itraconazoleduring pregnancy.
 Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during post-marketing experience.
-A causal relationship with itraconazole has not been established.
+A causal relationship with itraconazolehas not been established.
 (See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Drug Interactions for more information.)

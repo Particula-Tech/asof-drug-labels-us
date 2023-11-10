@@ -93,7 +93,7 @@ Antimicrobial Activity:
 
 Itraconazole exhibits in vitro activity against Blastomyces dermatitidis, Histoplasma capsulatum, Histoplasma duboisii, Aspergillus flavus, Aspergillus fumigatus, and Trichophyton species (See INDICATIONS AND USAGE, Description of Clinical Studies).
 
-Susceptibility Testing
+Susceptibility Testing Methods:
 
 For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
 
@@ -103,7 +103,7 @@ Isolates from several fungal species with decreased susceptibility to itraconazo
 
 Itraconazole is not active against Zygomycetes (e.g., Rhizopus spp., Rhizomucor spp., Mucor spp. and Absidia spp.), Fusarium spp., Scedosporium spp. and Scopulariopsis spp.
 
-Cross-resistance:
+Cross-Resistance:
 
 Several in vitro studies have reported that some fungal clinical isolates with reduced susceptibility to one azole antifungal agent may also be less susceptible to other azole derivatives.
 The finding of cross-resistance is dependent on a number of factors, including the species evaluated, its clinical history, the particular azole compounds compared, and the type of susceptibility test that is performed.

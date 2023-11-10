@@ -12,8 +12,6 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted between 15°C and 3
 
 Protect from light and moisture.
 
-Keep this and all medication out of reach of children.
-
 Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., INDIA.
@@ -22,4 +20,4 @@ Manufactured for
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920
 
-8091373 Revised January 2023
+8094592 Revised: November 2023
