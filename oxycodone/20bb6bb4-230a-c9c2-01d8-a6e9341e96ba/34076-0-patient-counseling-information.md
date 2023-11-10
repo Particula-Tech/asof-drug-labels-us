@@ -112,13 +112,3 @@ Advise patients not to perform such tasks until they know how they will react to
 Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.1)].
-
-Product of USA
-
-Manufactured by: Norwich Pharmaceuticals, Inc. Norwich, NY 13815 USA
-
-Distributed by: Alvogen, Inc. Morristown, NJ 07960 USA
-
-To request medical information or to report suspected adverse reactions, contact Alvogen, Inc. at 1-866-770-3024.
-
-Revised: 03/2021 PI263-06
