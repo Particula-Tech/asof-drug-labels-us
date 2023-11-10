@@ -76,7 +76,7 @@ Table 3: Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Dis
 |  | Percentage of Patients Reporting Event |  |
 |  | Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Combined |  |
 | Body as a Whole |  |  |
-| Headache | 21 | 1 |
+| Headache | 21 | 19 |
 | Asthenia | 11 | 6 |
 | Flu syndrome | 5 | 4 |
 | Fever | 2 | 1 |
@@ -94,7 +94,7 @@ Table 3: Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Dis
 | Metabolic and Nutritional Disorders |  |  |
 | Weight loss | 2 | 1 |
 | Nervous System |  |  |
-| Insomnia | 19 | 1 |
+| Insomnia | 19 | 10 |
 | Nervousness | 13 | 8 |
 | Anxiety | 12 | 6 |
 | Somnolence | 12 | 5 |
@@ -176,7 +176,7 @@ Special Senses— Frequent:taste perversion; Infrequent:mydriasis.
 
 Urogenital System– Frequent: micturition disorder; Infrequent: dysuria, gynecological bleeding 2.
 
-1MedDRA dictionary term from integrated database of placebo controlled trials in 15,870 patients, of which 9673 patients received fluoxetine.
+1MedDRA dictionary term from integrated database of placebo controlled trials in 15,870 patients, of which 9,673 patients received fluoxetine.
 2Group term that includes individual MedDRA terms: cervix hemorrhage uterine, dysfunctional uterine bleeding, genital hemorrhage, menometrorrhagia, menorrhagia, metrorrhagia, polymenorrhea, postmenopausal hemorrhage, uterine hemorrhage, vaginal hemorrhage.
 Adjusted for gender.
 3QT prolongation data are based on routine ECG measurements in clinical trials.

@@ -44,7 +44,7 @@ It should be noted that, in some cases, the clinical picture is consistent with 
 
 Data
 
-HumanData -It has been shown that SSRIs (including fluoxetine) can cross the placenta.
+Human Data -It has been shown that SSRIs (including fluoxetine) can cross the placenta.
 Published epidemiological studies of pregnant women exposed to fluoxetine have not established an increased risk of major birth defects, miscarriage, and other adverse developmental outcomes.
 Several publications reported an increased incidence of cardiovascular malformations in children with in utero exposure to fluoxetine.
 However, these studies results do not establish a causal relationship.
