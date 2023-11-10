@@ -143,15 +143,16 @@ Active ingredient: zolmitriptan, USP
 
 Inactive ingredients: anhydrous citric acid, aspartame, colloidal silicon dioxide, crospovidone, gelatin, magnesium stearate, mannitol, microcrystalline cellulose, orange flavor, polacrilin potassium and sodium stearyl fumarate.
 
-Store zolmitriptan orally disintegrating tablets at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature] and away from children.
+Store zolmitriptan orally disintegrating tablets at 20° to 25°C (68° to 77°F) and away from children.
 Protect from light and moisture.
 Discard when expired.
+Zomitriptan orally disintegrating tablets come in child-resistant bottles of 30's and 90's.
 
 *Other brands mentioned are trademarks of their respective owners.
 
 Manufactured by:
 
-Cadila Healthcare Ltd.
+Zydus Lifesciences Ltd.
 
 Ahmedabad, India
 
@@ -161,4 +162,4 @@ Zydus Pharmaceuticals USA Inc.
 
 Pennington, NJ 08534
 
-Rev.: 02/19
+Rev.: 01/23
