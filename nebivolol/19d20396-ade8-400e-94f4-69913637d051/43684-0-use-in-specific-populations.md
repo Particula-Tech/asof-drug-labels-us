@@ -5,13 +5,23 @@
 Risk Summary Available data regarding use of nebivolol tablets in pregnant women are insufficient to determine whether there are drug-associated risks of adverse developmental outcomes.
 There are risks to the mother and fetus associated with poorly controlled hypertension in pregnancy.The use of beta blockers during the third trimester of pregnancy may increase the risk of hypotension, bradycardia, hypoglycemia, and respiratory depression in the neonate [see Clinical Considerations].
 Oral administration of nebivolol to pregnant rats during organogenesis resulted in embryofetal and perinatal lethality at doses approximately equivalent to the maximum recommended human dose (MRHD).
+
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
-Clinical Considerations Disease-associated maternal and/or embryo/fetal risk Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section, and post-partum hemorrhage).Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death.
+Clinical Considerations Disease-associated maternal and/or embryo/fetal risk
+
+Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section, and post-partum hemorrhage).
+Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death.
 Pregnant women with hypertension should be carefully monitored and managed accordingly.
-Fetal/Neonatal adverse reactions Neonates of women with hypertension, who are treated with beta-blockers during the third trimester of pregnancy, may be at increased risk for hypotension, bradycardia, hypoglycemia, and respiratory depression.Observe newborns for symptoms of hypotension, bradycardia, hypoglycemia and respiratory depression and manage accordingly.
-Data Animal Data Nebivolol was shown to increase embryo-fetal and perinatal lethality in rats at approximately 1.2 times the MRHD or 40 mg/day on a mg/m2 basis.Decreased pup body weights occurred at 1.25 and 2.5 mg/kg in rats, when exposed during the perinatal period (late gestation, parturition and lactation).
-At 5 mg/kg and higher doses (1.2 times the MRHD), prolonged gestation, dystocia and reduced maternal care were produced with corresponding increases in late fetal deaths and stillbirths and decreased birth weight, live litter size and pup survival.These events occurred only when nebivolol was given during the perinatal period (late gestation, parturition and lactation).
+
+Fetal/Neonatal adverse reactions
+
+Neonates of women with hypertension, who are treated with beta-blockers during the third trimester of pregnancy, may be at increased risk for hypotension, bradycardia, hypoglycemia, and respiratory depression.
+Observe newborns for symptoms of hypotension, bradycardia, hypoglycemia and respiratory depression and manage accordingly.
+Data Animal Data Nebivolol was shown to increase embryo-fetal and perinatal lethality in rats at approximately 1.2 times the MRHD or 40 mg/day on a mg/m2 basis.
+Decreased pup body weights occurred at 1.25 and 2.5 mg/kg in rats, when exposed during the perinatal period (late gestation, parturition and lactation).
+At 5 mg/kg and higher doses (1.2 times the MRHD), prolonged gestation, dystocia and reduced maternal care were produced with corresponding increases in late fetal deaths and stillbirths and decreased birth weight, live litter size and pup survival.
+These events occurred only when nebivolol was given during the perinatal period (late gestation, parturition and lactation).
 Insufficient numbers of pups survived at 5 mg/kg to evaluate the offspring for reproductive performance.
 In studies in which pregnant rats were given nebivolol during organogenesis, reduced fetal body weights were observed at maternally toxic doses of 20 and 40 mg/kg/day (5 and 10 times the MRHD), and small reversible delays in sternal and thoracic ossification associated with the reduced fetal body weights and a small increase in resorption occurred at 40 mg/kg/day (10 times the MRHD).
 No adverse effects on embryo-fetal viability, sex, weight or morphology were observed in studies in which nebivolol was given to pregnant rabbits at doses as high as 20 mg/kg/day (10 times the MRHD).

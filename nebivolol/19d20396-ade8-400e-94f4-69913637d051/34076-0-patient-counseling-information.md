@@ -4,18 +4,24 @@ See FDA-approved patient labeling (Patient Information).
 
 • Patient Advice
 
-Advise patients to take nebivolol tabletsregularly and continuously, as directed.
-Nebivolol tabletscan be taken with or without food.
+Advise patients to take nebivolol tablets
+
+regularly and continuously, as directed.
+Nebivolol tablets
+
+can be taken with or without food.
 If a dose is missed, take the next scheduled dose only (without doubling it).
-Do not interrupt or discontinue nebivolol tabletswithout consulting the physician.
+Do not interrupt or discontinue nebivolol tablets
 
+without consulting the physician.
 Patients should know how they react to this medicine before they operate automobiles, use machinery, or engage in other tasks requiring alertness.
-
 Advise patients to consult a physician if any difficulty in breathing occurs, or if they develop signs or symptoms of worsening congestive heart failure such as weight gain or increasing shortness of breath, or excessive bradycardia.
-
 Caution patients subject to spontaneous hypoglycemia, or diabetic patients receiving insulin or oral hypoglycemic agents, that β-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia.
+Inform patients or caregivers that there is a risk of hypoglycemia when Nebivolol tablet is given to patients who are fasting or who are vomiting.
+Instruct patients or caregivers how to monitor for signs of hypoglycemia [see Warnings and Precautions (5.5)].
+
 Rev.
-September 2021
+November 2023
 
 Manufactured by: Cadila Pharmaceuticals Ltd. 1389, Trasad Road, Dholka – 382225, District - Ahmedabad, Gujarat, INDIA.
 
@@ -105,6 +111,8 @@ WHAT ARE POSSIBLE SIDE EFFECTS OF NEBIVOLOL TABLETS?
 - Headache
 - Leg swelling due to fluid retention (edema).
   Tell your doctor if you gain weight or have trouble breathing while taking nebivolol tablets.
+- If you are diabetic or take medicine for high blood sugar or if you have a tendency to have low blood sugar, Nebivolol tablet can mask/cover some of the signs and symptoms that would tell you that your blood sugar may be low, like heart palpitations or rapid heart beating.
+  Ask your doctor for other signs that may alert you when having low blood sugar.
 
 Tell your doctor if you have any side effects that bother you or don't go away.
 
@@ -145,7 +153,7 @@ Nebivolol tabletscan help your blood vessels relax so your blood pressure is low
 Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
 
 Rev.
-September 2021
+November 2023
 
 Manufactured by:
 

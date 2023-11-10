@@ -28,12 +28,10 @@ The β-blocking effects of nebivolol can be reversed by β-agonists, e.g., dobut
 However, such patients may be subject to protracted severe hypotension.
 Additionally, difficulty in restarting and maintaining the heartbeat has been reported with β-blockers.
 
-## 5.5 Diabetes and Hypoglycemia
+## 5.5 Hypoglycemia
 
-β-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia.
-Nonselective β-blockers may potentiate insulin-induced hypoglycemia and delay recovery of serum glucose levels.
-It is not known whether nebivolol has these effects.
-Advise patients subject to spontaneous hypoglycemia and diabetic patients receiving insulin or oral hypoglycemic agents about these possibilities.
+Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting).
+If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment.
 
 ## 5.6 Thyrotoxicosis
 
