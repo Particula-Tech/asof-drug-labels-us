@@ -1,37 +1,29 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Sandostatin® (octreotide acetate) Injection is available in 1 mL ampuls as follows:
+How Supplied
 
-## Ampuls
+Sandostatin (octreotide acetate) Injection is available in 1 mL ampuls as follows:
+
+Ampuls
 
 50 mcg/mL octreotide (as acetate)
 
-Package of 10 ampuls.................................................................................
-NDC 0078-0180-01
+Package of 10 ampuls...........................................................................................................................................NDC 0078-0180-01
 
 100 mcg/mL octreotide (as acetate)
 
-Package of 10 ampuls.................................................................................
-NDC 0078-0181-01
+Package of 10 ampuls...........................................................................................................................................NDC 0078-0181-01
 
 500 mcg/mL octreotide (as acetate)
 
-Package of 10 ampuls.................................................................................
-NDC 0078-0182-01
+Package of 10 ampuls...........................................................................................................................................NDC 0078-0182-01
 
-## Storage
+Storage and Handling
 
-For prolonged storage, Sandostatin ampuls should be stored at refrigerated temperatures 2ºC to 8ºC (36ºF to 46ºF) and store in outer carton in order to protect from light.
-At room temperature (20ºC to 30ºC or 70ºF to 86ºF), Sandostatin is stable for 14 days if protected from light.
+For prolonged storage, Sandostatin ampuls should be stored at refrigerated temperatures 2°C to 8°C (36°F to 46°F) and store in outer carton in order to protect from light.
+At room temperature (20°C to 30°C or 70°F to 86°F), Sandostatin is stable for 14 days if protected from light.
 The solution can be allowed to come to room temperature prior to administration.
 Do not warm artificially.
 Ampuls should be opened just prior to administration and the unused portion discarded.
 Dispose unused product or waste properly.
-
-Distributed by: Novartis Pharmaceuticals Corporation East Hanover, NJ 07936
-
-© Novartis
-
-Revised: October 2022
-
-T2022-62
+Sandostatin Injection is stable in sterile isotonic saline solutions or sterile solutions of dextrose 5% in water for 24 hours.
