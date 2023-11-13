@@ -16,10 +16,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 Manufactured by:
 
-Cadila Healthcare Ltd.
+Zydus Lifesciences Ltd.,
 
 Matoda, Ahmedabad, India
 
-Rev.: 11/15
-
-Revision Date: 23/11/2015
+Rev.: 11/23
