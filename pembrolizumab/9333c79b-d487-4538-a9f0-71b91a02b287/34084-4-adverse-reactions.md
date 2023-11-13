@@ -1232,9 +1232,28 @@ Among the 104 patients with HCC who received KEYTRUDA in KEYNOTE-224 [see Clinic
 Adverse reactions occurring in patients with HCC were generally similar to those in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent, with the exception of increased incidences of ascites (8% Grades 3-4) and immune-mediated hepatitis (2.9%).
 Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence were elevated AST (20%), ALT (9%), and hyperbilirubinemia (10%).
 
+BTC
+
+The safety of KEYTRUDA in combination with gemcitabine and cisplatin, was investigated in KEYNOTE-966, a multicenter, double-blind, randomized, placebo-controlled trial in patients with locally advanced unresectable or metastatic BTC who had not received prior systemic therapy in the advanced disease setting [see Clinical Studies (14.13)].
+A total of 1063 patients received either KEYTRUDA 200 mg plus gemcitabine and cisplatin chemotherapy (n=529) or placebo plus gemcitabine and cisplatin chemotherapy (n=534) every 3 weeks.
+
+The median duration of exposure to KEYTRUDA was 6 months (range: 1 day to 28 months).
+
+KEYTRUDA was discontinued for adverse reactions in 15% of patients.
+The most common adverse reaction resulting in permanent discontinuation of KEYTRUDA (≥1%) was pneumonitis (1.3%).
+
+Adverse reactions leading to the interruption of KEYTRUDA occurred in 55% of patients.
+The most common adverse reactions or laboratory abnormalities leading to interruption of KEYTRUDA (≥2%) were decreased neutrophil count (18%), decreased platelet count (10%), anemia (6%), decreased white blood count (4%), pyrexia (3.8%), fatigue (3.0%), cholangitis (2.8%), increased ALT (2.6%), increased AST (2.5%), and biliary obstruction (2.3%).
+
+In the KEYTRUDA plus chemotherapy versus placebo plus chemotherapy arms, there was a difference of ≥5% incidence in adverse reactions between patients treated with KEYTRUDA versus placebo for pyrexia (26% vs 20%), rash (21% vs 13%), pruritus (15% vs 10%), and hypothyroidism (9% vs. 2.6%).
+There were no clinically meaningful differences in incidence of Grade 3-4 toxicity between arms.
+
+There was a difference of ≥5% incidence in laboratory abnormalities between patients treated with KEYTRUDA plus chemotherapy versus placebo plus chemotherapy for decreased lymphocytes (69% vs 61%).
+There were no clinically meaningful differences in incidence of Grade 3-4 toxicity between arms.
+
 MCC
 
-Among the 105 patients with MCC enrolled in KEYNOTE-017 and KEYNOTE-913 [see Clinical Studies (14.13)], the median duration of exposure to KEYTRUDA was 6.3 months (range 1 day to 28 months).
+Among the 105 patients with MCC enrolled in KEYNOTE-017 and KEYNOTE-913 [see Clinical Studies (14.14)], the median duration of exposure to KEYTRUDA was 6.3 months (range 1 day to 28 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible.
 Adverse reactions occurring in patients with MCC were similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
 Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence included increased lipase (17%).
@@ -1243,7 +1262,7 @@ RCC
 
 In combination with axitinib in the first-line treatment of advanced RCC (KEYNOTE-426)
 
-The safety of KEYTRUDA in combination with axitinib was investigated in KEYNOTE-426 [see Clinical Studies (14.14)].
+The safety of KEYTRUDA in combination with axitinib was investigated in KEYNOTE-426 [see Clinical Studies (14.15)].
 Patients with medical conditions that required systemic corticosteroids or other immunosuppressive medications or had a history of severe autoimmune disease other than type 1 diabetes, vitiligo, Sjogren's syndrome, and hypothyroidism stable on hormone replacement were ineligible.
 Patients received KEYTRUDA 200 mg intravenously every 3 weeks and axitinib 5 mg orally twice daily, or sunitinib 50 mg once daily for 4 weeks and then off treatment for 2 weeks.
 The median duration of exposure to the combination therapy of KEYTRUDA and axitinib was 10.4 months (range: 1 day to 21.2 months).
@@ -1323,7 +1342,7 @@ Table 38: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 In combination with lenvatinib in the first-line treatment of advanced RCC (KEYNOTE-581)
 
-The safety of KEYTRUDA was evaluated in KEYNOTE-581 [see Clinical Studies (14.14)].
+The safety of KEYTRUDA was evaluated in KEYNOTE-581 [see Clinical Studies (14.15)].
 Patients received KEYTRUDA 200 mg intravenously every 3 weeks in combination with lenvatinib 20 mg orally once daily (n=352), or lenvatinib 18 mg orally once daily in combination with everolimus 5 mg orally once daily (n=355), or sunitinib 50 mg orally once daily for 4 weeks then off treatment for 2 weeks (n=340).
 The median duration of exposure to the combination therapy of KEYTRUDA and lenvatinib was 17 months (range: 0.1 to 39).
 
@@ -1421,7 +1440,7 @@ Recurrence of Grade ≥2 increased ALT or AST was observed on rechallenge in 10 
 
 Adjuvant treatment of RCC
 
-The safety of KEYTRUDA as a single agent was investigated in KEYNOTE-564, a randomized (1:1) double-blind placebo-controlled trial in which 984 patients who had undergone nephrectomy for RCC received 200 mg of KEYTRUDA by intravenous infusion every 3 weeks (n=488) or placebo (n=496) for up to one year [see Clinical Studies (14.14)].
+The safety of KEYTRUDA as a single agent was investigated in KEYNOTE-564, a randomized (1:1) double-blind placebo-controlled trial in which 984 patients who had undergone nephrectomy for RCC received 200 mg of KEYTRUDA by intravenous infusion every 3 weeks (n=488) or placebo (n=496) for up to one year [see Clinical Studies (14.15)].
 The median duration of exposure to KEYTRUDA was 11.1 months (range: 1 day to 14.3 months).
 Patients with active autoimmune disease or a medical condition that required immunosuppression were ineligible.
 
@@ -1480,7 +1499,7 @@ Endometrial Carcinoma
 
 In Combination with Lenvatinib for the Treatment of Advanced Endometrial Carcinoma That Is pMMR or Not MSI-H.
 
-The safety of KEYTRUDA in combination with lenvatinib was investigated in KEYNOTE-775, a multicenter, open-label, randomized (1:1), active-controlled trial in patients with advanced endometrial carcinoma previously treated with at least one prior platinum-based chemotherapy regimen in any setting, including in the neoadjuvant and adjuvant settings [see Clinical Studies (14.15)].
+The safety of KEYTRUDA in combination with lenvatinib was investigated in KEYNOTE-775, a multicenter, open-label, randomized (1:1), active-controlled trial in patients with advanced endometrial carcinoma previously treated with at least one prior platinum-based chemotherapy regimen in any setting, including in the neoadjuvant and adjuvant settings [see Clinical Studies (14.16)].
 Patients with endometrial carcinoma that is pMMR or not MSI-H received KEYTRUDA 200 mg every 3 weeks in combination with lenvatinib 20mg orally once daily (n=342) or received doxorubicin or paclitaxel (n=325).
 
 For patients with pMMR or not MSI-H tumor status, the median duration of study treatment was 7.2 months (range 1 day to 26.8 months) and the median duration of exposure to KEYTRUDA was 6.8 months (range: 1 day to 25.8 months).
@@ -1570,18 +1589,18 @@ Table 44: Laboratory Abnormalities Worsened from BaselineWith at least one grade
 
 As a Single Agent for the Treatment of Advanced MSI-H or dMMR Endometrial Carcinoma
 
-Among the 90 patients with MSI-H or dMMR endometrial carcinoma enrolled in KEYNOTE-158 [see Clinical Studies (14.15)] treated with KEYTRUDA as a single agent, the median duration of exposure to KEYTRUDA was 8.3 months (range: 1 day to 26.9 months).
+Among the 90 patients with MSI-H or dMMR endometrial carcinoma enrolled in KEYNOTE-158 [see Clinical Studies (14.16)] treated with KEYTRUDA as a single agent, the median duration of exposure to KEYTRUDA was 8.3 months (range: 1 day to 26.9 months).
 Adverse reactions occurring in patients with endometrial carcinoma were similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
 
 TMB-H Cancer
 
-The safety of KEYTRUDA was investigated in 105 patients with TMB-H cancer enrolled in KEYNOTE-158 [see Clinical Studies (14.16)].
+The safety of KEYTRUDA was investigated in 105 patients with TMB-H cancer enrolled in KEYNOTE-158 [see Clinical Studies (14.17)].
 The median duration of exposure to KEYTRUDA was 4.9 months (range: 0.03 to 35.2 months).
 Adverse reactions occurring in patients with TMB-H cancer were similar to those occurring in patients with other solid tumors who received KEYTRUDA as a single agent.
 
 cSCC
 
-Among the 159 patients with advanced cSCC (recurrent or metastatic or locally advanced disease) enrolled in KEYNOTE-629 [see Clinical Studies (14.17)], the median duration of exposure to KEYTRUDA was 6.9 months (range 1 day to 28.9 months).
+Among the 159 patients with advanced cSCC (recurrent or metastatic or locally advanced disease) enrolled in KEYNOTE-629 [see Clinical Studies (14.18)], the median duration of exposure to KEYTRUDA was 6.9 months (range 1 day to 28.9 months).
 Patients with autoimmune disease or a medical condition that required systemic corticosteroids or other immunosuppressive medications were ineligible.
 Adverse reactions occurring in patients with recurrent or metastatic cSCC or locally advanced cSCC were similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
 Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence included lymphopenia (10%) and decreased sodium (10%).
@@ -1592,7 +1611,7 @@ Neoadjuvant and Adjuvant Treatment of High-Risk Early-Stage TNBC
 
 The safety of KEYTRUDA in combination with neoadjuvant chemotherapy (carboplatin and paclitaxel followed by doxorubicin or epirubicin and cyclophosphamide) followed by surgery and continued adjuvant treatment with KEYTRUDA as a single agent was investigated in KEYNOTE-522, a randomized (2:1), multicenter, double-blind, placebo-controlled trial in patients with newly diagnosed, previously untreated, high-risk early-stage TNBC.
 
-A total of 778 patients on the KEYTRUDA arm received at least 1 dose of KEYTRUDA in combination with neoadjuvant chemotherapy followed by KEYTRUDA as adjuvant treatment after surgery, compared to 389 patients who received at least 1 dose of placebo in combination with neoadjuvant chemotherapy followed by placebo as adjuvant treatment after surgery [see Clinical Studies (14.18)].
+A total of 778 patients on the KEYTRUDA arm received at least 1 dose of KEYTRUDA in combination with neoadjuvant chemotherapy followed by KEYTRUDA as adjuvant treatment after surgery, compared to 389 patients who received at least 1 dose of placebo in combination with neoadjuvant chemotherapy followed by placebo as adjuvant treatment after surgery [see Clinical Studies (14.19)].
 
 The median duration of exposure to KEYTRUDA 200 mg every 3 weeks was 13.3 months (range: 1 day to 21.9 months).
 
@@ -1664,7 +1683,7 @@ Table 46: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 Locally Recurrent Unresectable or Metastatic TNBC
 
-The safety of KEYTRUDA in combination with paclitaxel, paclitaxel protein-bound, or gemcitabine and carboplatin was investigated in KEYNOTE-355, a multicenter, double-blind, randomized (2:1), placebo-controlled trial in patients with locally recurrent unresectable or metastatic TNBC who had not been previously treated with chemotherapy in the metastatic setting [see Clinical Studies (14.18)].
+The safety of KEYTRUDA in combination with paclitaxel, paclitaxel protein-bound, or gemcitabine and carboplatin was investigated in KEYNOTE-355, a multicenter, double-blind, randomized (2:1), placebo-controlled trial in patients with locally recurrent unresectable or metastatic TNBC who had not been previously treated with chemotherapy in the metastatic setting [see Clinical Studies (14.19)].
 A total of 596 patients (including 34 patients from a safety run-in) received KEYTRUDA 200 mg every 3 weeks in combination with paclitaxel, paclitaxel protein-bound, or gemcitabine and carboplatin.
 
 The median duration of exposure to KEYTRUDA was 5.7 months (range: 1 day to 33.0 months).

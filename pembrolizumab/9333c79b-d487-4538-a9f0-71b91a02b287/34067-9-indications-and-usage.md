@@ -93,45 +93,49 @@ KEYTRUDA is indicated for the treatment of patients with hepatocellular carcinom
 This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.12)].
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
 
-## 1.13 Merkel Cell Carcinoma
+## 1.13 Biliary Tract Cancer
+
+KEYTRUDA, in combination with gemcitabine and cisplatin, is indicated for the treatment of patients with locally advanced unresectable or metastatic biliary tract cancer (BTC).
+
+## 1.14 Merkel Cell Carcinoma
 
 KEYTRUDA is indicated for the treatment of adult and pediatric patients with recurrent locally advanced or metastatic Merkel cell carcinoma (MCC).
 
-## 1.14 Renal Cell Carcinoma
+## 1.15 Renal Cell Carcinoma
 
 KEYTRUDA, in combination with axitinib, is indicated for the first-line treatment of adult patients with advanced renal cell carcinoma (RCC).
 
 KEYTRUDA, in combination with lenvatinib, is indicated for the first-line treatment of adult patients with advanced RCC.
 
-KEYTRUDA is indicated for the adjuvant treatment of patients with RCC at intermediate-high or high risk of recurrence following nephrectomy, or following nephrectomy and resection of metastatic lesions [see Clinical Studies (14.14)].
+KEYTRUDA is indicated for the adjuvant treatment of patients with RCC at intermediate-high or high risk of recurrence following nephrectomy, or following nephrectomy and resection of metastatic lesions [see Clinical Studies (14.15)].
 
-## 1.15 Endometrial Carcinoma
+## 1.16 Endometrial Carcinoma
 
 KEYTRUDA, in combination with lenvatinib, is indicated for the treatment of patients with advanced endometrial carcinoma that is mismatch repair proficient (pMMR) as determined by an FDA-approved test or not MSI-H, who have disease progression following prior systemic therapy in any setting and are not candidates for curative surgery or radiation [see Dosage and Administration (2.1)].
 
 KEYTRUDA, as a single agent, is indicated for the treatment of patients with advanced endometrial carcinoma that is MSI-H or dMMR, as determined by an FDA-approved test, who have disease progression following prior systemic therapy in any setting and are not candidates for curative surgery or radiation [see Dosage and Administration (2.1)].
 
-## 1.16 Tumor Mutational Burden-High Cancer
+## 1.17 Tumor Mutational Burden-High Cancer
 
 KEYTRUDA is indicated for the treatment of adult and pediatric patients with unresectable or metastatic tumor mutational burden-high (TMB-H) [≥10 mutations/megabase (mut/Mb)] solid tumors, as determined by an FDA-approved test [see Dosage and Administration (2.1)], that have progressed following prior treatment and who have no satisfactory alternative treatment options.
 
-This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.16)].
+This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.17)].
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
 
 Limitations of Use: The safety and effectiveness of KEYTRUDA in pediatric patients with TMB-H central nervous system cancers have not been established.
 
-## 1.17 Cutaneous Squamous Cell Carcinoma
+## 1.18 Cutaneous Squamous Cell Carcinoma
 
 KEYTRUDA is indicated for the treatment of patients with recurrent or metastatic cutaneous squamous cell carcinoma (cSCC) or locally advanced cSCC that is not curable by surgery or radiation.
 
-## 1.18 Triple-Negative Breast Cancer
+## 1.19 Triple-Negative Breast Cancer
 
 KEYTRUDA is indicated for the treatment of patients with high-risk early-stage triple-negative breast cancer (TNBC) in combination with chemotherapy as neoadjuvant treatment, and then continued as a single agent as adjuvant treatment after surgery.
 
 KEYTRUDA, in combination with chemotherapy, is indicated for the treatment of patients with locally recurrent unresectable or metastatic TNBC whose tumors express PD-L1 (CPS ≥10) as determined by an FDA-approved test [see Dosage and Administration (2.1)].
 
-## 1.19 Adult Classical Hodgkin Lymphoma and Adult Primary Mediastinal Large B-Cell Lymphoma: Additional Dosing Regimen of 400 mg Every 6 Weeks
+## 1.20 Adult Classical Hodgkin Lymphoma and Adult Primary Mediastinal Large B-Cell Lymphoma: Additional Dosing Regimen of 400 mg Every 6 Weeks
 
 KEYTRUDA is indicated for use at an additional recommended dosage of 400 mg every 6 weeks for classical Hodgkin lymphoma and primary mediastinal large B-cell lymphoma in adults [see Indications and Usage (1.4, 1.5), Dosage and Administration (2.2)].
-This indication is approved under accelerated approval based on pharmacokinetic data, the relationship of exposure to efficacy, and the relationship of exposure to safety [see Clinical Pharmacology (12.2), Clinical Studies (14.19)].
+This indication is approved under accelerated approval based on pharmacokinetic data, the relationship of exposure to efficacy, and the relationship of exposure to safety [see Clinical Pharmacology (12.2), Clinical Studies (14.20)].
 Continued approval for this dosage may be contingent upon verification and description of clinical benefit in the confirmatory trials.

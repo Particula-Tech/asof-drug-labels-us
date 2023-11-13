@@ -45,12 +45,12 @@ Advise females of reproductive potential to use effective contraception during t
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of KEYTRUDA as a single agent have been established in pediatric patients with melanoma, cHL, PMBCL, MCC, MSI-H or dMMR cancer, and TMB-H cancer.
-Use of KEYTRUDA in pediatric patients for these indications is supported by evidence from adequate and well-controlled studies in adults with additional pharmacokinetic and safety data in pediatric patients [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.1, 14.4, 14.5, 14.7, 14.13, 14.16)].
+Use of KEYTRUDA in pediatric patients for these indications is supported by evidence from adequate and well-controlled studies in adults with additional pharmacokinetic and safety data in pediatric patients [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.1, 14.4, 14.5, 14.7, 14.14, 14.17)].
 
 In KEYNOTE-051, 173 pediatric patients (65 pediatric patients aged 6 months to younger than 12 years and 108 pediatric patients aged 12 to 17 years) with advanced melanoma, lymphoma, or PD-L1 positive solid tumors received KEYTRUDA 2 mg/kg every 3 weeks.
 The median duration of exposure was 2.1 months (range: 1 day to 25 months).
 Adverse reactions that occurred at a ≥10% higher rate in pediatric patients when compared to adults included pyrexia (33%), vomiting (29%), headache (25%), abdominal pain (23%), decreased lymphocyte count (13%), and decreased white blood cell count (11%).
-Laboratory abnormalities that occurred at a ≥10% higher rate in pediatric patients when compared to adults were leukopenia (31%), neutropenia (28%), thrombocytopenia (22%), and anemia (17%).
+Laboratory abnormalities that occurred at a ≥10% higher rate in pediatric patients when compared to adults were leukopenia (31%), neutropenia (28%), thrombocytopenia (22%), and Grade 3 anemia (17%).
 
 The safety and effectiveness of KEYTRUDA in pediatric patients have not been established in the other approved indications [see Indications and Usage (1)].
 
