@@ -265,6 +265,8 @@ The 25 mg tablets contain red ferric oxide and yellow ferric oxide and the 100 m
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Dispense with Medication Guide available at: https://www.sunpharma.com/usa/products
 
+* Brands listed are the trademarks of their respective owners.
+
 Distributed by:
 
 Sun Pharmaceutical Industries, Inc.
@@ -275,9 +277,7 @@ Manufactured by:
 
 Sun Pharmaceutical Industries Ltd.
 
-Survey No.: 259/15,
-
-Dadra-396 191 (U.T. of D & NH), India.
+Survey No. 1012, Dadra-396 193, U.T. of D & NH and Daman & Diu, India
 
 ISS.
-03/2022
+10/2023 5246370

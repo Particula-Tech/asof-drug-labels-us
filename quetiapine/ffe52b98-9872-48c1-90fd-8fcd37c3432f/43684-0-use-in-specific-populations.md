@@ -100,7 +100,7 @@ Safety and effectiveness of quetiapine in pediatric patients less than 10 years 
 Bipolar Depression
 
 Safety and effectiveness of quetiapine in pediatric patients less than 18 years of age with bipolar depression have not been established.
-A clinical trial with quetiapine fumarate extended-release tablets was conducted in children and adolescents (10 to 17 years of age) with bipolar depression, efficacy was not established.
+A clinical trial with Seroquel XR* was conducted in children and adolescents (10 to 17 years of age) with bipolar depression, efficacy was not established.
 
 Some differences in the pharmacokinetics of quetiapine were noted between children/adolescents (10 to 17 years of age) and adults.
 When adjusted for weight, the AUC and Cmax of quetiapine were 41% and 39% lower, respectively, in children and adolescents compared to adults.

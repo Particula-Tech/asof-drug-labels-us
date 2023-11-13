@@ -14,3 +14,9 @@ Quetiapine tablets USP are supplied for oral administration as 25 mg (round, pea
 Inactive ingredients are microcrystalline cellulose, colloidal silicon dioxide, silicon dioxide, crospovidone, anhydrous citric acid, polysorbate 80, magnesium stearate, lactose monohydrate, hypromellose, polyethylene glycol, and titanium dioxide.
 
 The 25 mg tablets contain red ferric oxide and yellow ferric oxide and the 100 mg and 400 mg tablets contain only yellow ferric oxide.
+Each 25 mg tablet contains 28.78 mg of quetiapine fumarate equivalent to 25 mg quetiapine.
+Each 50 mg tablet contains 57.56 mg of quetiapine fumarate equivalent to 50 mg quetiapine.
+Each 100 mg tablet contains 115.12 mg of quetiapine fumarate equivalent to 100 mg quetiapine.
+Each 200 mg tablet contains 230.24 mg of quetiapine fumarate equivalent to 200 mg quetiapine.
+Each 300 mg tablet contains 345.36 mg of quetiapine fumarate equivalent to 300 mg quetiapine.
+Each 400 mg tablet contains 460.48 mg of quetiapine fumarate equivalent to 400 mg quetiapine.
