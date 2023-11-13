@@ -3,7 +3,7 @@
 ## 2.1 Important Administration Instructions
 
 The potency units of DAXXIFY for injection are specific to the preparation and test method utilized.
-They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of DAXXIFY cannot be compared to or converted into units of any other botulinum toxin products assessed with any other specific test method [see Warnings and Precautions (5.2) and Description (11)].
+They are not interchangeable with other preparations of botulinum toxin products, and, therefore, units of biological activity of DAXXIFY cannot be compared to, or converted into, units of any other botulinum toxin products assessed with any other specific test method [see Warnings and Precautions (5.2) and Description (11)].
 
 The safe and effective use of DAXXIFY depends upon proper storage of the product, selection of the correct dose, and proper reconstitution and administration techniques.
 

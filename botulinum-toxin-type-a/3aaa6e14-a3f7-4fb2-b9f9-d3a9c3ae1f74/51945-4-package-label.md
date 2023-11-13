@@ -1,8 +1,8 @@
-# PRINCIPAL DISPLAY PANEL - 1.2 mL Vial Carton
+# PRINCIPAL DISPLAY PANEL - 100 Units Vial Carton
 
 daxibotulinumtoxinA-lanm
 
-DAXXIFY™ FOR INJECTION
+DAXXIFY® FOR INJECTION
 
 100 units/vial
 

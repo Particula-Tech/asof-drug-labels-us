@@ -2,7 +2,7 @@
 
 No formal drug interaction studies have been conducted with DAXXIFY.
 
-However, the potential for certain drugs to potentiate the effects of DAXXIFY warrant consideration given the potential risks involved and should be used with caution.
+However, the potential for certain drugs to potentiate the effects of DAXXIFY warrants consideration given the potential risks involved and should be used with caution.
 
 - Aminoglycosides or other agents interfering with neuromuscular transmission
 - Anticholinergic drugs

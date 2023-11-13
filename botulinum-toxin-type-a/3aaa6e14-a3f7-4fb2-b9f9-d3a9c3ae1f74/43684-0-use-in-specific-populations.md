@@ -1,4 +1,4 @@
-# 8 USE IN SPECIFIC POPULATION
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -17,18 +17,18 @@ Animal Data
 Embryofetal development studies were conducted in rats and rabbits with DAXXIFY.
 For comparison of animal to human doses based on a body weight comparison, the MRHD is set at 40 Units/subject (0.67 Units/kg for an average 60 kg subject).
 
-Intramuscular administration of DAXXIFY (3, 10 or 30 Units/kg) to pregnant rats four times during the period of organogenesis (on gestation days 7, 10, 13, and 16) caused decreased fetal body weight and decreased fetal skeletal ossification at the highest dose, which was associated with maternal toxicity.
-No embryofetal developmental toxicity was noted at doses up to 10 Units/kg which is 15 times the MRHD.
+Intramuscular administration of DAXXIFY (3, 10, or 30 Units/kg) to pregnant rats four times during the period of organogenesis (on gestation days 7, 10, 13, and 16) caused decreased fetal body weight and decreased fetal skeletal ossification at the highest dose, which was associated with maternal toxicity.
+No embryofetal developmental toxicity was noted at doses up to 10 Units/kg, which is 15 times the MRHD.
 
-Intramuscular administration of DAXXIFY (0.02, 0.1, 0.48 or 2.4 Units/kg/day) to pregnant rabbits during the period of organogenesis (total of 13 doses) resulted in maternal lethality at 2.4 Units/kg/day and significant decreased maternal body weight at 0.48 Units/kg/day.
-No embryofetal developmental toxicity was noted at doses up to 0.48 Units/kg/day which is approximately equivalent to the MRHD.
+Intramuscular administration of DAXXIFY (0.02, 0.1, 0.48, or 2.4 Units/kg/day) to pregnant rabbits during the period of organogenesis (total of 13 doses) resulted in maternal lethality at 2.4 Units/kg/day and significant decreased maternal body weight at 0.48 Units/kg/day.
+No embryofetal developmental toxicity was noted at doses up to 0.48 Units/kg/day, which is approximately equivalent to the MRHD.
 
 ## 8.2 Lactation
 
 Risk Summary
 
 There are no data on the presence of DAXXIFY in human or animal milk, the effects on the breastfed infant, or the effects on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for DAXXIFY and any potential adverse effects on the breastfed infant from DAXXIFY or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered, along with the mother's clinical need for DAXXIFY and any potential adverse effects on the breastfed infant from DAXXIFY or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

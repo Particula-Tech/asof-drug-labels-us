@@ -5,21 +5,21 @@
 Postmarketing safety data from other approved botulinum toxins suggest that botulinum toxin effects may be observed beyond the site of local injection.
 The symptoms are consistent with the mechanism of action of botulinum toxin and may include asthenia, generalized muscle weakness, diplopia, blurred vision, ptosis, dysphagia, dysphonia, dysarthria, urinary incontinence, and breathing difficulties.
 These symptoms have been reported hours to weeks after injection.
-Swallowing and breathing difficulties can be life-threatening and there have been reports of death related to the spread of toxin effects.
+Swallowing and breathing difficulties can be life-threatening, and there have been reports of death related to the spread of toxin effects.
 The risk of symptoms is greatest in children treated for spasticity, an unapproved use for DAXXIFY, but symptoms can occur in adults treated for spasticity and other conditions, and particularly in those patients who have underlying conditions that would predispose them to these symptoms.
-In unapproved uses, including upper limb spasticity in children and approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to or lower than the maximum recommended total dose.
-Patients or caregivers should be advised to seek immediate medical care if swallowing, speech or respiratory difficulties occur.
+In unapproved uses, including upper limb spasticity in children, and approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to, or lower than, the maximum recommended total dose.
+Patients or caregivers should be advised to seek immediate medical care if swallowing, speech, or respiratory difficulties occur.
 
 ## 5.2 Lack of Interchangeability between Botulinum Toxin Products
 
 The potency units of DAXXIFY are specific to the preparation and assay method utilized.
-They are not interchangeable with other preparation of botulinum toxin products therefore, units of biological activity of DAXXIFY cannot be compared to or converted to units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
+They are not interchangeable with other preparations of botulinum toxin products; therefore, units of biological activity of DAXXIFY cannot be compared to or converted to units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
 
 ## 5.3 Serious Adverse Reactions with Unapproved Use
 
 Serious adverse reactions, including excessive weakness, dysphagia, and aspiration pneumonia, with some adverse reactions associated with fatal outcomes, have been reported in patients who received botulinum toxin injections for unapproved uses.
 In these cases, the adverse reactions may have resulted from the administration of botulinum toxin products to the site of injection and/or adjacent structures.
-In some cases, patients had pre- existing dysphagia or other significant disabilities.
+In some cases, patients had pre-existing dysphagia or other significant disabilities.
 There is insufficient information to identify factors associated with an increased risk for adverse reactions associated with the unapproved uses of botulinum toxin products.
 
 ## 5.4 Hypersensitivity Reactions
@@ -27,18 +27,18 @@ There is insufficient information to identify factors associated with an increas
 Serious and/or immediate hypersensitivity reactions have been reported for botulinum toxin products.
 These reactions include anaphylaxis, serum sickness, urticaria, soft tissue edema, and dyspnea.
 If such a reaction occurs, discontinue further injection of DAXXIFY and immediately institute appropriate medical therapy.
-The use of DAXXIFY in patients with a known hypersensitivity to any botulinum toxin preparation, DAXXIFY or any of its formulation components could lead to a life-threatening allergic reaction [see Contraindications (4)].
+The use of DAXXIFY in patients with a known hypersensitivity to any botulinum toxin preparation, DAXXIFY, or any of its formulation components could lead to a life-threatening allergic reaction [see Contraindications (4)].
 
 ## 5.5 Cardiovascular System Adverse Reactions
 
 There have been reports following administration of botulinum toxins of adverse events involving the cardiovascular system, including arrhythmia and myocardial infarction, some with fatal outcomes.
-Some of these patients had risk factors including pre-existing cardiovascular disease.
+Some of these patients had risk factors, including pre-existing cardiovascular disease.
 Use caution when administering to patients with pre-existing cardiovascular disease.
 
 ## 5.6 Increased Neuromuscular Compromise in Patients with Pre-Existing Neuromuscular Disorders
 
 Monitor patients with peripheral motor neuropathic diseases, amyotrophic lateral sclerosis, or neuromuscular junctional disorders (e.g., myasthenia gravis or Lambert-Eaton syndrome) for increased neuromuscular compromise following botulinum toxin treatment.
-Patients with neuromuscular disorders may be at increased risk of clinically significant effects including generalized muscle weakness, diplopia, ptosis, dysphonia, dysarthria, severe dysphagia and respiratory compromise from typical doses of DAXXIFY.
+Patients with neuromuscular disorders may be at increased risk of clinically significant effects, including generalized muscle weakness, diplopia, ptosis, dysphonia, dysarthria, severe dysphagia, and respiratory compromise from typical doses of DAXXIFY.
 
 ## 5.7 Dysphagia and Breathing Difficulties
 
@@ -55,7 +55,7 @@ Treatment with botulinum toxins, including DAXXIFY, may weaken neck muscles that
 This may result in a critical loss of breathing capacity in patients with respiratory disorders who may have become dependent upon these accessory muscles.
 There have been postmarketing reports from other botulinum toxin products of serious breathing difficulties, including respiratory failure.
 
-Patients treated with botulinum toxin may require immediate medical attention should they develop problems with swallowing, speech or respiratory disorders.
+Patients treated with botulinum toxin may require immediate medical attention should they develop problems with swallowing, speech, or respiratory disorders.
 
 ## 5.8 Facial Anatomy in the Treatment of Glabellar Lines
 
