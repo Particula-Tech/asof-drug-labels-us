@@ -4,7 +4,7 @@
 
 Withdraw other antiarrhythmic therapy before starting sotalol hydrochloride tablets and monitor for a minimum of 2 to 3 plasma half-lives prior to initiating sotalol hydrochloride tablets therapy if the patient's clinical condition permits [see Drug Interactions (7)].
 
-Hospitalize patients initiated or re-initiated on sotalol for at least 3 days or until steady-state drug levels are achieved in a facility that can provide cardiac resuscitation and continuous electrocardiographic monitoring.
+Hospitalize patients being initiated or re-initiated on sotalol for at least 3 days or until steady-state drug levels are achieved in a facility that can provide cardiac resuscitation and continuous electrocardiographic monitoring.
 Initiate oral sotalol therapy in the presence of personnel trained in the management of serious arrhythmias.
 Perform a baseline ECG to determine the QT interval and measure and normalize serum potassium and magnesium levels before initiating therapy.
 Measure serum creatinine and calculate an estimated creatinine clearance in order to establish the appropriate dosing interval.
@@ -29,7 +29,7 @@ The recommended initial dose is 80 mg twice daily.
 This dose may be increased in increments of 80 mg per day every 3 days provided the QTc<500 msec [see Warnings and Precautions (5.1)].
 Continually monitor patients until steady state blood levels are achieved.
 Most patients will have satisfactory response with 120 mg twice daily.
-Initiation of sotalol in patients with QTc>450 is contraindicated [see Contraindication (4)].
+Initiation of sotalol in patients with QTc>450 msec is contraindicated [see Contraindications (4)].
 
 ## 2.4 Pediatric Dose for Ventricular Arrhythmias or AFIB/AFL
 
@@ -82,7 +82,7 @@ Sotalol hydrochloride Syrup 5 mg/mL can be compounded using Simple Syrup contain
 1. Measure 120 mL of Simple Syrup.
 2. Transfer the syrup to a 6-ounce amber plastic (polyethylene terephthalate [PET]) prescription bottle.
    An oversized bottle is used to allow for a headspace, so that there will be more effective mixing during shaking of the bottle.
-3. Add five (5) sotalol hydrochloride tablets 120 mg to the bottle.
+3. Add five (5) sotalol hydrochloride 120 mg tablets to the bottle.
    These tablets are added intact; it is not necessary to crush the tablets.
    The addition of the tablets can also be done first.
    The tablets can also be crushed, if preferred.

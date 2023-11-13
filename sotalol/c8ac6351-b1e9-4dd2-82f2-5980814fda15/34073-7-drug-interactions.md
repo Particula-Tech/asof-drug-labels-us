@@ -1,9 +1,9 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Antiarrhythmics and other QT Prolonging Drugs
+## 7.1 Antiarrhythmics and Other QT Prolonging Drugs
 
 Discontinue Class I or Class III antiarrhythmic agents for at least three half-lives prior to dosing with sotalol.
-Class Ia antiarrhythmic drugs, such as disopyramide, quinidine and procainamide, and other Class III drugs (for example, amiodarone) are not recommended as concomitant therapy with sotalol hydrochloride, because of their potential to prolong refractoriness [see Warnings and Precautions (5.2)].
+Class Ia antiarrhythmic drugs, such as disopyramide, quinidine, and procainamide, and other Class III drugs (for example, amiodarone) are not recommended as concomitant therapy with sotalol hydrochloride, because of their potential to prolong refractoriness [see Warnings and Precautions (5.2)].
 
 ## 7.2 Negative Chronotropes
 

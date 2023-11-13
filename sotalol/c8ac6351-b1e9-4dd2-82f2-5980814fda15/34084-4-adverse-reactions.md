@@ -23,14 +23,14 @@ Atrial Fibrillation/Atrial Flutter
 
 Placebo-controlled Clinical Trials
 
-In a pooled clinical trial population consisting of 4 placebo-controlled studies with 275 patients with atrial fibrillation (AFIB)/atrial flutter (AFL) treated with 160 to 320 mg doses of sotalol hydrochloride AF, the following adverse reactions presented in Table 2 occurred in at least 2% of placebo-treated patients and at a lesser rate than sotalol hydrochloride-treated patients.
-The data are presented by incidence of reactions in the sotalol hydrochloride AF and placebo groups by body system and daily dose.
+In a pooled clinical trial population consisting of 4 placebo-controlled studies with 275 patients with atrial fibrillation (AFIB)/atrial flutter (AFL) treated with 160 to 320 mg doses of Betapace AF®, the following adverse reactions presented in Table 2 occurred in at least 2% of placebo-treated patients and at a lesser rate than sotalol hydrochloride tablets-treated patients.
+The data are presented by incidence of reactions in the Betapace AF and placebo groups by body system and daily dose.
 
-Table 2: Incidence (%) of Common Adverse Reactions (≥ 2% in the Placebo Group and Less Frequent Than in the Sotalol Hydrochloride AF Groups) in Four Placebo-controlled Studies of Patients with AFIB/AFL
+Table 2: Incidence (%) of Common Adverse Reactions (≥ 2% in the Placebo Group and Less Frequent Than in the Betapace AF Groups) in Four Placebo-controlled Studies of Patients with AFIB/AFL
 
 |  | (%) | (%) | (%) |
 | --- | --- | --- | --- |
-|  | Placebo | Sotalol hydrochloride AF Total Daily Dose |  |
+|  | Placebo | Betapace AF Total Daily Dose |  |
 |  |  | 160-240 mg | > 240-320 mg |
 | Adverse Reaction | N = 282 | N = 153 | N = 122 |
 | Bradycardia | 3 | 13 | 12 |
@@ -44,7 +44,7 @@ Table 2: Incidence (%) of Common Adverse Reactions (≥ 2% in the Placebo Group 
 | Dyspnea | 7 | 9 | 10 |
 
 Overall, discontinuation because of unacceptable adverse events was necessary in 17% of the patients and occurred in 10% of patients less than two weeks after starting treatment.
-The most common adverse reactions leading to discontinuation of sotalol hydrochloride AF were: fatigue 4.6%, bradycardia 2.4%, proarrhythmia 2.2%, dyspnea 2%, and QT interval prolongation 1.4%.
+The most common adverse reactions leading to discontinuation of Betapace AF were: fatigue 4.6%, bradycardia 2.4%, proarrhythmia 2.2%, dyspnea 2%, and QT interval prolongation 1.4%.
 
 ## 6.2 Postmarketing Experience
 

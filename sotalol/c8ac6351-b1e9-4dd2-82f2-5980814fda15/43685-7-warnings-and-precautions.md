@@ -45,9 +45,10 @@ Because coronary artery disease is common, but may be unrecognized, the abrupt d
 Patients with bronchospastic diseases (for example chronic bronchitis and emphysema) should not receive beta-blockers.
 If sotalol hydrochloride is to be administered, use the smallest effective dose to minimize inhibition of bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta-2-receptors.
 
-## 5.7 Masked Signs of Hypoglycemia in Diabetics
+## 5.7 Effects on Blood Sugar
 
-Beta blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
+Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting).
+If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment.
 Elevated blood glucose levels and increased insulin requirements can occur in diabetic patients.
 
 ## 5.8 Thyroid Abnormalities

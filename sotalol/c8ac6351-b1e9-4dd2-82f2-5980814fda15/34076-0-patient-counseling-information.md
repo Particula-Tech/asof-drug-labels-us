@@ -7,12 +7,15 @@
 - Advise patients that they should not miss a dose, but if they do miss a dose they should not double the next dose to compensate for the missed dose: they should take the next dose at the regularly scheduled time [see Dosage and Administration (2)].
 - Advise patients to not interrupt or discontinue sotalol hydrochloride without their physician’s advice, that they should get their prescription for sotalol filled and refilled on time so they do not interrupt treatment [see Dosage and Administration (2)].
 - Advise patients to not start taking other medications without first discussing new medications with their healthcare provider.
-- Advise patients that they should avoid taking sotalol hydrochloride tablets within two hours of taking antacids that contain aluminum oxide or magnesium hydroxide [see Drug Interactions (7.7)].
+- Advise patients to avoid taking sotalol hydrochloride tablets within two hours of taking antacids that contain aluminum oxide or magnesium hydroxide [see Drug Interactions (7.7)].
+- Inform patients or caregivers that there is a risk of hypoglycemia when sotalol hydrochloride is given to patients who are fasting or who are vomiting.
+  Inform patients to notify their healthcare provider if they experience symptoms of hypoglycemia.
+  [See Warnings and Precautions (5.7)].
 
 Lactation
 
 - Advise women not to breastfeed while on treatment with sotalol hydrochloride [see Use in Specific Populations (8.2)].
 
-Manufactured by: OXFORD PHARMACEUTICALS Birmingham, AL 35211
+Manufactured by: OXFORD PHARMACEUTICALS, LLC Birmingham, AL 35211 Brands listed are the trademarks of their respective owners.
 
-8200018 Rev 02/22 R02
+8200018 Rev 10/23 R05
