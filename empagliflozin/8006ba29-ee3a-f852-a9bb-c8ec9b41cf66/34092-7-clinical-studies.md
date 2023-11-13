@@ -146,7 +146,7 @@ Patients were randomized to 3 treatment arms (empagliflozin 10 mg, a dipeptidyl 
 Patients in the empagliflozin 10 mg group who failed to achieve HbA1c <7.0% at Week 12 underwent a second randomization at Week 14 to remain on the 10 mg dose or increase to 25 mg.
 Patients on placebo were re-randomized at Week 26 to one of the empagliflozin doses (10 mg or 25 mg) or a DPP-4 inhibitor.
 
-A total of 157 patients were treated with either empagliflozin (10 mg or 25 mg; N=52), DPP-4 inhibitor (N=52), or placebo (N=53).
+A total of 157 patients were treated with either empagliflozin (10 mg or 25 mg; N=52), a DPP-4 inhibitor (N=52), or placebo (N=53).
 Background therapies as adjunct to diet and exercise included metformin (51%), a combination of metformin and insulin (40.1%), insulin (3.2%), or none (5.7%).
 The mean HbA1c at baseline was 8.0% and the mean duration of type 2 diabetes mellitus was 2.1 years.
 The mean age was 14.5 years (range: 10-17 years) and 51.6% were aged 15 years and older.
@@ -166,14 +166,14 @@ Table 11 Results at Week 26 for a Placebo-Controlled Trial for Empagliflozin in 
 | Baseline (mean) | 8.0 | 8.1 |
 | Change from baselinec | -0.2 | 0.7 |
 | Difference from placeboc (95% CI) | -0.8e (-1.5, -0.2) | -- |
-| FPG (mg/dL)b,e |  |  |
+| FPG (mg/dL)b,d |  |  |
 | Number of patients | n=48 | n=52 |
 | Baseline (mean) | 154 | 159 |
 | Change from baselinec | -19 | 17 |
 | Difference from placeboc (95% CI) | -36 (-60.7, -10.7) | -- |
 | aModified intent-to-treat set (All randomized and treated patients with baseline measurement). |  |  |
 | bMultiple imputations using placebo wash-out approach with 500 iterations for missing data. Imputed for HbA1c (empagliflozin N=5 (9.6%), placebo N=3 (5.7%)), for FPG (empagliflozin N=4 (8.3%), placebo N=2 (3.8%)). |  |  |
-| cLeast-Square Mean from Analysis of Covariance (ANCOVA) adjusted for baseline value and baseline stratum (< 15 years vs 15 to < 18 years). |  |  |
+| cLeast-Square Mean from Analysis of Covariance (ANCOVA) adjusted for baseline value and baseline age stratum (< 15 years vs 15 to < 18 years). |  |  |
 | dNot evaluated for statistical significance, not part of sequential testing procedure. |  |  |
 | ep-value=0.0116 (two-sided) |  |  |
 
@@ -184,9 +184,9 @@ The results are displayed in Table 12.
 
 Table 12 Mean Change in Fasting Plasma Glucose at Week 16 Comparing Metformin HCl vs. Placebo in Pediatric Patientsa with Type 2 Diabetes Mellitus
 
-|  | Metformin HCl | Placebo | p-value |
-| --- | --- | --- | --- |
 | FPG (mg/dL) | (n=37) | (n=36) |  |
+| --- | --- | --- | --- |
+|  | Metformin HCl | Placebo | p-value |
 | Baseline | 162.4 | 192.3 |  |
 | Change at FINAL VISIT | -42.9 | 21.4 | <0.001 |
 | a Pediatric patients mean age 13.8 years (range 10-16 years) |  |  |  |
@@ -196,12 +196,12 @@ Mean change in body weight from baseline to week 16 was -3.3 lbs and -2.0 lbs in
 
 ## 14.3 Empagliflozin Cardiovascular Outcome Trial in Adult Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
 
-EMPA-REG OUTCOME was a multicenter, multinational, randomized, double-blind parallel group trial that compared the risk of experiencing a major adverse cardiovascular event (MACE) between empagliflozin and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and atherosclerotic cardiovascular disease.
+EMPA-REG OUTCOME was a multicenter, multinational, randomized, double-blind parallel group trial that compared the risk of experiencing a major adverse cardiovascular event (MACE) between empagliflozin and placebo when these were added to and used concomitantly with standard of care treatments for diabetes mellitus and atherosclerotic cardiovascular (CV) disease.
 Concomitant antidiabetic medications were kept stable for the first 12 weeks of the trial.
 Thereafter, antidiabetic and atherosclerotic therapies could be adjusted, at the discretion of investigators, to ensure participants were treated according to the standard care for these diseases.
 
 A total of 7,020 patients were treated (empagliflozin 10 mg = 2,345; empagliflozin 25 mg = 2,342; placebo = 2,333) and followed for a median of 3.1 years.
-Approximately 72% of the trial population was White, 22% was Asian, and 5% was Black.
+Approximately 72% of the trial population was White, 22% was Asian, and 5% was Black or African American.
 The mean age was 63 years and approximately 72% were male.
 
 All patients in the trial had inadequately controlled type 2 diabetes mellitus at baseline (HbA1c greater than or equal to 7%).
@@ -209,42 +209,42 @@ The mean HbA1c at baseline was 8.1% and 57% of participants had diabetes mellitu
 Approximately 31%, 22% and 20% reported a past history of neuropathy, retinopathy and nephropathy to investigators, respectively and the mean eGFR was 74 mL/min/1.73 m2.
 At baseline, patients were treated with one (~30%) or more (~70%) antidiabetic medications including metformin (74%), insulin (48%), and sulfonylurea (43%).
 
-All patients had established atherosclerotic cardiovascular disease at baseline including one (82%) or more (18%) of the following: a documented history of coronary artery disease (76%), stroke (23%) or peripheral artery disease (21%).
+All patients had established atherosclerotic CV disease at baseline including one (82%) or more (18%) of the following: a documented history of coronary artery disease (76%), stroke (23%) or peripheral artery disease (21%).
 At baseline, the mean systolic blood pressure was 136 mmHg, the mean diastolic blood pressure was 76 mmHg, the mean LDL was 86 mg/dL, the mean HDL was 44 mg/dL, and the mean urinary albumin to creatinine ratio (UACR) was 175 mg/g.
 At baseline, approximately 81% of patients were treated with renin angiotensin system inhibitors, 65% with beta-blockers, 43% with diuretics, 77% with statins, and 86% with antiplatelet agents (mostly aspirin).
 
 The primary endpoint in EMPA-REG OUTCOME was the time to first occurrence of a Major Adverse Cardiac Event (MACE).
-A major adverse cardiac event was defined as occurrence of either a cardiovascular death or a non-fatal myocardial infarction (MI) or a non-fatal stroke.
+A major adverse cardiac event was defined as occurrence of either a CV death or a non-fatal myocardial infarction (MI) or a non-fatal stroke.
 The statistical analysis plan had pre-specified that the 10 and 25 mg dosages would be combined.
 A Cox proportional hazards model was used to test for non-inferiority against the pre-specified risk margin of 1.3 for the hazard ratio of MACE and superiority on MACE if non-inferiority was demonstrated.
 Type-1 error was controlled across multiples tests using a hierarchical testing strategy.
 
-Empagliflozin significantly reduced the risk of first occurrence of primary composite endpoint of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke (HR: 0.86; 95% CI: 0.74, 0.99).
-The treatment effect was due to a significant reduction in the risk of cardiovascular death in subjects randomized to empagliflozin (HR: 0.62; 95% CI: 0.49, 0.77), with no change in the risk of non-fatal myocardial infarction or non-fatal stroke (see Table 13 and Figures 4 and 5).
+Empagliflozin significantly reduced the risk of first occurrence of primary composite endpoint of CV death, non-fatal myocardial infarction, or non-fatal stroke (HR: 0.86; 95% CI: 0.74, 0.99).
+The treatment effect was due to a significant reduction in the risk of CV death in subjects randomized to empagliflozin (HR: 0.62; 95% CI: 0.49, 0.77), with no change in the risk of non-fatal myocardial infarction or non-fatal stroke (see Table 13 and Figures 4 and 5).
 Results for the 10 mg and 25 mg empagliflozin dosages were consistent with results for the combined dosage groups.
 
 Table 13 Treatment Effect for the Primary Composite Endpoint and its Componentsa
 
 |  | Placebo N=2,333 | Empagliflozin N=4,687 | Hazard ratio vs placebo (95% CI) |
 | --- | --- | --- | --- |
-| Composite of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke (time to first occurrence)b | 282 (12.1%) | 490 (10.5%) | 0.86 (0.74, 0.99) |
+| Composite of CV death, non-fatal myocardial infarction, non-fatal stroke (time to first occurrence)b | 282 (12.1%) | 490 (10.5%) | 0.86 (0.74, 0.99) |
 | Non-fatal myocardial infarctionc | 121 (5.2%) | 213 (4.5%) | 0.87 (0.70, 1.09) |
 | Non-fatal strokec | 60 (2.6%) | 150 (3.2%) | 1.24 (0.92, 1.67) |
-| Cardiovascular deathc | 137 (5.9%) | 172 (3.7%) | 0.62 (0.49, 0.77) |
+| CV deathc | 137 (5.9%) | 172 (3.7%) | 0.62 (0.49, 0.77) |
 | aTreated set (patients who had received at least one dose of trial drug) |  |  |  |
 | bp-value for superiority (2-sided) 0.04 |  |  |  |
 | cTotal number of events |  |  |  |
 
 Figure 4 Estimated Cumulative Incidence of First MACE
 
-Figure 5 Estimated Cumulative Incidence of Cardiovascular Death
+Figure 5 Estimated Cumulative Incidence of CV Death
 
-The efficacy of empagliflozin on cardiovascular death was generally consistent across major demographic and disease subgroups.
+The efficacy of empagliflozin on CV death was generally consistent across major demographic and disease subgroups.
 
 Vital status was obtained for 99.2% of subjects in the trial.
 A total of 463 deaths were recorded during the EMPA-REG OUTCOME trial.
-Most of these deaths were categorized as cardiovascular deaths.
-The non-cardiovascular deaths were only a small proportion of deaths and were balanced between the treatment groups (2.1% in patients treated with empagliflozin, and 2.4% of patients treated with placebo).
+Most of these deaths were categorized as CV deaths.
+The non-CV deaths were only a small proportion of deaths and were balanced between the treatment groups (2.1% in patients treated with empagliflozin, and 2.4% of patients treated with placebo).
 
 ## 14.4 Empagliflozin Heart Failure Trials, Including Adult Patients with Type 2 Diabetes Mellitus
 
@@ -271,7 +271,7 @@ In this subpopulation, at baseline, 88% of patients were treated with ACE inhibi
 
 Results
 
-In EMPEROR-Reduced, empagliflozin 10 mg, compared with placebo, reduced the risk of the primary composite endpoint of cardiovascular death or hospitalization for heart failure (HHF) mostly through a reduction in HHF (HR 0.75 [95% CI 0.65, 0.86]).
+In EMPEROR-Reduced, empagliflozin 10 mg, compared with placebo, reduced the risk of the primary composite endpoint of CV death or hospitalization for heart failure (HHF) mostly through a reduction in HHF (HR 0.75 [95% CI 0.65, 0.86]).
 Empagliflozin reduced the risk of first and recurrent HHF, a key secondary endpoint.
 Because of the metformin component, SYNJARDY and SYNJARDY XR are not indicated for use in patients with heart failure without type 2 diabetes mellitus [see Indications and Usage (1)].
 
@@ -300,7 +300,7 @@ For this subpopulation, the mean baseline eGFR was 60 mL/min/1.73 m2; and at bas
 
 Results
 
-In EMPEROR-Preserved, empagliflozin 10 mg, compared with placebo, reduced the risk of the primary composite endpoint (time to first event of either cardiovascular death or HHF) mostly through a reduction in hospitalization for heart failure (HR 0.79 [95% CI 0.69, 0.90]).
+In EMPEROR-Preserved, empagliflozin 10 mg, compared with placebo, reduced the risk of the primary composite endpoint (time to first event of either CV death or HHF) mostly through a reduction in hospitalization for heart failure (HR 0.79 [95% CI 0.69, 0.90]).
 Empagliflozin reduced the risk of first and recurrent HHF, a key secondary endpoint.
 Because of the metformin component, SYNJARDY and SYNJARDY XR are not indicated for use in patients with heart failure without type 2 diabetes mellitus [see Indications and Usage (1)].
 

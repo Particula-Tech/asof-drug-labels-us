@@ -3,14 +3,15 @@
 The following important adverse reactions are described below and elsewhere in the labeling:
 
 - Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1)]
-- Ketoacidosis [see Warnings and Precautions (5.2)]
+- Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis [see Warnings and Precautions (5.2)]
 - Volume Depletion [see Warnings and Precautions (5.3)]
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
 - Hypoglycemia [see Warnings and Precautions (5.5)]
 - Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.6)]
 - Genital Mycotic Infections [see Warnings and Precautions (5.7)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
-- Vitamin B12 Deficiency [see Warnings and Precautions (5.9)]
+- Lower Limb Amputation [see Warnings and Precautions (5.8)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
+- Vitamin B12 Deficiency [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -36,14 +37,14 @@ Empagliflozin
 Clinical Trials in Adults with Type 2 Diabetes Mellitus
 
 The data in Table 2 are derived from a pool of four 24-week placebo-controlled trials and 18-week data from a placebo-controlled trial with basal insulin in adult patients with type 2 diabetes mellitus.
-Empagliflozin was used as monotherapy in one trial and as add-on therapy in four trials [see Clinical Studies (14)].
+Empagliflozin was used as monotherapy in one trial and as add-on therapy in four trials [see Clinical Studies (14.1)].
 
 These data reflect exposure of 1,976 adult patients to empagliflozin with a mean exposure duration of approximately 23 weeks.
 Patients received placebo (N=995), empagliflozin 10 mg (N=999), or empagliflozin 25 mg (N=977) once daily.
 The mean age of the population was 56 years and 3% were older than 75 years of age.
 More than half (55%) of the population was male; 46% were White, 50% were Asian, and 3% were Black or African American.
-At baseline, 57% of the population had diabetes more than 5 years and had a mean hemoglobin A1c (HbA1c) of 8%.
-Established microvascular complications of diabetes at baseline included diabetic nephropathy (7%), retinopathy (8%), or neuropathy (16%).
+At baseline, 57% of the population had diabetes mellitus more than 5 years and had a mean hemoglobin A1c (HbA1c) of 8%.
+Established microvascular complications of diabetes mellitus at baseline included diabetic nephropathy (7%), retinopathy (8%), or neuropathy (16%).
 Baseline renal function was normal or mildly impaired in 91% of patients and moderately impaired in 9% of patients (mean eGFR 86.8 mL/min/1.73 m2).
 
 Table 2 shows adverse reactions (excluding hypoglycemia) that were not present at baseline, occurred more commonly in empagliflozin-treated patients than placebo-treated patients, and occurred in greater than or equal to 2% of empagliflozin-treated patients.
@@ -60,7 +61,10 @@ Table 2 Adverse Reactions Reported in ≥2% of Adults with Type 2 Diabetes Melli
 | Arthralgia | 2.2 | 2.4 | 2.3 |
 | Male genital mycotic infectionsd | 0.4 | 3.1 | 1.6 |
 | Nausea | 1.4 | 2.3 | 1.1 |
-| aPredefined adverse event grouping, including, but not limited to, urinary tract infection, asymptomatic bacteriuria, cystitis bFemale genital mycotic infections include the following adverse reactions: vulvovaginal mycotic infection, vaginal infection, vulvitis, vulvovaginal candidiasis, genital infection, genital candidiasis, genital infection fungal, genitourinary tract infection, vulvovaginitis, cervicitis, urogenital infection fungal, vaginitis bacterial. Percentages calculated with the number of female subjects in each group as denominator: placebo (N=481), empagliflozin 10 mg (N=443), empagliflozin 25 mg (N=420). cPredefined adverse event grouping, including, but not limited to, polyuria, pollakiuria, and nocturia dMale genital mycotic infections include the following adverse reactions: balanoposthitis, balanitis, genital infections fungal, genitourinary tract infection, balanitis candida, scrotal abscess, penile infection. Percentages calculated with the number of male subjects in each group as denominator: placebo (N=514), empagliflozin 10 mg (N=556), empagliflozin 25 mg (N=557). |  |  |  |
+| aPredefined adverse event grouping, including, but not limited to, urinary tract infection, asymptomatic bacteriuria, cystitis |  |  |  |
+| bFemale genital mycotic infections include the following adverse reactions: vulvovaginal mycotic infection, vaginal infection, vulvitis, vulvovaginal candidiasis, genital infection, genital candidiasis, genital infection fungal, genitourinary tract infection, vulvovaginitis, cervicitis, urogenital infection fungal, vaginitis bacterial. Percentages calculated with the number of female subjects in each group as denominator: placebo (N=481), empagliflozin 10 mg (N=443), empagliflozin 25 mg (N=420). |  |  |  |
+| cPredefined adverse event grouping, including, but not limited to, polyuria, pollakiuria, and nocturia |  |  |  |
+| dMale genital mycotic infections include the following adverse reactions: balanoposthitis, balanitis, genital infections fungal, genitourinary tract infection, balanitis candida, scrotal abscess, penile infection. Percentages calculated with the number of male subjects in each group as denominator: placebo (N=514), empagliflozin 10 mg (N=556), empagliflozin 25 mg (N=557). |  |  |  |
 
 Thirst (including polydipsia) was reported in 0%, 1.7%, and 1.5% for placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
 
@@ -95,18 +99,21 @@ Table 3 Incidence of Overalla and Severeb Hypoglycemic Events in Placebo-Control
 | In Combination with Pioglitazone +/- Metformin (24 weeks) | Placebo (n=165) | Empagliflozin 10 mg + Pioglitazone +/- Metformin (n=165) | Empagliflozin 25 mg + Pioglitazone +/- Metformin (n=168) |
 | Overall (%) | 1.8 | 1.2 | 2.4 |
 | Severe (%) | 0 | 0 | 0 |
-| In Combination with Basal Insulin +/-Metformin (18 weeksd) | Placebo (n=170) | Empagliflozin 10 mg (n=169) | Empagliflozin 25 mg (n=155) |
+| In Combination with Basal Insulin +/- Metformin (18 weeksd) | Placebo (n=170) | Empagliflozin 10 mg (n=169) | Empagliflozin 25 mg (n=155) |
 | Overall (%) | 20.6 | 19.5 | 28.4 |
 | Severe (%) | 0 | 0 | 1.3 |
-| In Combination with MDI Insulin +/-Metformin (18 weeksd) | Placebo (n=188) | Empagliflozin 10 mg (n=186) | Empagliflozin 25 mg (n=189) |
+| In Combination with MDI Insulin +/- Metformin (18 weeksd) | Placebo (n=188) | Empagliflozin 10 mg (n=186) | Empagliflozin 25 mg (n=189) |
 | Overall (%) | 37.2 | 39.8 | 41.3 |
 | Severe (%) | 0.5 | 0.5 | 0.5 |
-| aOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL bSevere hypoglycemic events: requiring assistance regardless of blood glucose cTreated set (patients who had received at least one dosage of trial drug) dInsulin dosage could not be adjusted during the initial 18-week treatment period |  |  |  |
+| aOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL |  |  |  |
+| bSevere hypoglycemic events: requiring assistance regardless of blood glucose |  |  |  |
+| cTreated set (patients who had received at least one dosage of trial drug) |  |  |  |
+| dInsulin dosage could not be adjusted during the initial 18-week treatment period |  |  |  |
 
-Other Adverse Reactions in Clinical Trials with Empagliflozin for Glycemic Control in Adults with Type 2 Diabetes Mellitus
+Other Adverse Reactions in Clinical Trials with Empagliflozin in Adults
 
 - Genital Mycotic Infections: In the pool of five placebo-controlled clinical trials, the incidence of genital mycotic infections (e.g., vaginal mycotic infection, vaginal infection, genital infection fungal, vulvovaginal candidiasis, and vulvitis) was increased in patients treated with empagliflozin compared to placebo, occurring in 0.9%, 4.1%, and 3.7% of patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
-  Discontinuation from trial due to genital infection occurred in 0% of placebo-treated patients and 0.2% of patients treated with either empagliflozin 10 or 25 mg.
+  Discontinuation from trial due to genital infection occurred in 0% of placebo-treated patients and 0.2% of patients treated with either empagliflozin 10 mg or 25 mg.
   Genital mycotic infections occurred more frequently in female than male patients (see Table 2).
   Phimosis occurred more frequently in male patients treated with empagliflozin 10 mg (less than 0.1%) and empagliflozin 25 mg (0.1%) than placebo (0%).
 - Urinary Tract Infections: In the pool of five placebo-controlled clinical trials, the incidence of urinary tract infections (e.g., urinary tract infection, asymptomatic bacteriuria, and cystitis) was increased in patients treated with empagliflozin compared to placebo (see Table 2).
@@ -115,6 +122,9 @@ Other Adverse Reactions in Clinical Trials with Empagliflozin for Glycemic Contr
   Urinary tract infections occurred more frequently in female patients.
   The incidence of urinary tract infections in female patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg was 16.6%, 18.4%, and 17.0%, respectively.
   The incidence of urinary tract infections in male patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg was 3.2%, 3.6%, and 4.1%, respectively [see Use in Specific Populations (8.5)].
+- Lower Limb Amputations: Across four empagliflozin outcome trials, lower limb amputation event rates were 4.3 and 5.0 events per 1,000 patient-years in the placebo group and the empagliflozin 10 mg or 25 mg dose group, respectively, with a HR of 1.05 (95% CI) (0.81, 1.36).
+  In a long-term cardio-renal outcome trial, in patients with chronic kidney disease, the occurrence of lower limb amputations was reported with event rates of 2.9, and 4.3 events per 1,000 patient-years in the placebo, and empagliflozin 10 mg treatment arms, respectively.
+  SYNJARDY and SYNJARDY XR are not indicated for the treatment of chronic kidney disease.
 
 Clinical Trial of Empagliflozin in Pediatric Patients Aged 10 to 17 Years with Type 2 Diabetes Mellitus
 
@@ -150,7 +160,7 @@ Empagliflozin
 - Increase in Low-Density Lipoprotein Cholesterol (LDL-C): Dose-related increases in low-density lipoprotein cholesterol (LDL-C) were observed in adults treated with empagliflozin.
   LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
   The range of mean baseline LDL-C levels was 90.3 to 90.6 mg/dL across treatment groups.
-- Increase in Hematocrit: In a pool of four placebo-controlled trials in adults, median hematocrit decreased by 1.3% in placebo and increased by 2.8% in empagliflozin 10 mg and 2.8% in empagliflozin 25 mg-treated patients.
+- Increase in Hematocrit: In a pool of four placebo-controlled trials in adults, median hematocrit decreased by 1.3% in placebo and increased by 2.8% in empagliflozin 10 mg and 2.8% in empagliflozin 25 mg treated patients.
   At the end of treatment, 0.6%, 2.7%, and 3.5% of patients with hematocrits initially within the reference range had values above the upper limit of the reference range with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
 
 Metformin
