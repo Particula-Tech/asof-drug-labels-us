@@ -1,0 +1,31 @@
+{
+  "application_numbers": [
+    "NDA217806"
+  ],
+  "inn": "tirzepatide",
+  "labeler": "Eli Lilly and Company",
+  "package_ndcs": [
+    "0002-2457-01",
+    "0002-2457-80",
+    "0002-2460-01",
+    "0002-2460-80",
+    "0002-2471-01",
+    "0002-2471-80",
+    "0002-2484-01",
+    "0002-2484-80",
+    "0002-2495-01",
+    "0002-2495-80",
+    "0002-2506-01",
+    "0002-2506-61",
+    "0002-2506-80"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "tirzepatide",
+      "name": "ZEPBOUND"
+    }
+  ],
+  "setid": "487cd7e7-434c-4925-99fa-aa80b1cc776b",
+  "source": "dailymed"
+}
