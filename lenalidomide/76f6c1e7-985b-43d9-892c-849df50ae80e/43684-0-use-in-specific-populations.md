@@ -6,7 +6,7 @@
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in females exposed to lenalidomide capsules during pregnancy as well as female partners of male patients who are exposed to lenalidomide capsules.
 This registry is also used to understand the root cause for the pregnancy.
-Report any suspected fetal exposure to lenalidomide to the FDA via the MedWatch program at 1-800-FDA-1088 and also to REMS Call Center at 1-888-423-5436.
+Report any suspected fetal exposure to lenalidomide to the FDA via the MedWatch program at 1-800-FDA-1088 and also to the REMS Call Center at 1-888-423-5436.
 
 ### Risk Summary
 
@@ -22,7 +22,7 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 
 If pregnancy does occur during treatment, immediately discontinue the drug.
 Under these conditions, refer patient to an obstetrician/gynecologist experienced in reproductive toxicity for further evaluation and counseling.
-Report any suspected fetal exposure to lenalidomide to the FDA via the MedWatch program at 1-800-FDA-1088 and also to REMS Call Center at 1-888-423-5436.
+Report any suspected fetal exposure to lenalidomide to the FDA via the MedWatch program at 1-800-FDA-1088 and also to the REMS Call Center at 1-888-423-5436.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.

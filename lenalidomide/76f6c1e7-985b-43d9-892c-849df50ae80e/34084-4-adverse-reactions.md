@@ -40,7 +40,7 @@ The frequency of onset of cataracts increased over time with 0.7% during the fir
 
 Table 4 summarizes the adverse reactions reported for the Rd Continuous, Rd18, and MPT treatment arms.
 
-Table 4: All Adverse Reactions in ≥ 5% and Grade 3/4 Adverse Reactions in ≥ 1% of Patients with MM in the Rd Continuous or Rd18Adverse reactions included in combined adverse reaction terms: Abdominal Pain: Abdominal pain, abdominal pain upper, abdominal pain lower, gastrointestinal pain Pneumonias: Pneumonia, lobar pneumonia, pneumonia pneumococcal, bronchopneumonia, pneumocystis jiroveci pneumonia, pneumonia legionella, pneumonia staphylococcal, pneumonia klebsiella, atypical pneumonia, pneumonia bacterial, pneumonia escherichia, pneumonia streptococcal, pneumonia viral Sepsis: Sepsis, septic shock, urosepsis, escherichia sepsis, neutropenic sepsis, pneumococcal sepsis, staphylococcal sepsis, bacterial sepsis, meningococcal sepsis, enterococcal sepsis, klebsiella sepsis, pseudomonal sepsis Rash: Rash, rash pruritic, rash erythematous, rash maculo-papular, rash generalized, rash papular, exfoliative rash, rash follicular, rash macular, drug rash with eosinophilia and systemic symptoms, erythema multiforme, rash pustular Deep Vein Thrombosis: Deep vein thrombosis, venous thrombosis limb, venous thrombosis
+Table 4: All Adverse Reactions in ≥ 5% and Grade 3/4 Adverse Reactions in ≥ 1% of Patients with MM in the Rd Continuous or Rd18 ArmsAdverse reactions included in combined adverse reaction terms: Abdominal Pain: Abdominal pain, abdominal pain upper, abdominal pain lower, gastrointestinal pain Pneumonias: Pneumonia, lobar pneumonia, pneumonia pneumococcal, bronchopneumonia, pneumocystis jiroveci pneumonia, pneumonia legionella, pneumonia staphylococcal, pneumonia klebsiella, atypical pneumonia, pneumonia bacterial, pneumonia escherichia, pneumonia streptococcal, pneumonia viral Sepsis: Sepsis, septic shock, urosepsis, escherichia sepsis, neutropenic sepsis, pneumococcal sepsis, staphylococcal sepsis, bacterial sepsis, meningococcal sepsis, enterococcal sepsis, klebsiella sepsis, pseudomonal sepsis Rash: Rash, rash pruritic, rash erythematous, rash maculo-papular, rash generalized, rash papular, exfoliative rash, rash follicular, rash macular, drug rash with eosinophilia and systemic symptoms, erythema multiforme, rash pustular Deep Vein Thrombosis: Deep vein thrombosis, venous thrombosis limb, venous thrombosis
 
 |  | All Adverse ReactionsAll treatment-emergent adverse events in at least 5% of subjects in the Rd Continuous or Rd18 Arms and at least a 2% higher frequency (%) in either the Rd Continuous or Rd18 Arms compared to the MPT Arm. |  |  | Grade 3/4 Adverse ReactionsAll grade 3 or 4 treatment-emergent adverse events in at least 1% of subjects in the Rd Continuous or Rd18 Arms and at least a 1% higher frequency (%) in either the Rd Continuous or Rd18 Arms compared to the MPT Arm. |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -180,7 +180,7 @@ Table 5: All Adverse Reactions in ≥ 5% and Grade 3/4 Adverse Reactions in ≥ 
 | Lower respiratory tract infection bacterial | 6 (3) | < 1% | 4 (2) | 0 (0) | 0 (0) | 0 (0) | 0 (0) | 0 (0) |
 | Bacteremia | 5 (2) | 0 (0) | 4 (2) | 0 (0) | 0 (0) | 0 (0) | 0 (0) | 0 (0) |
 | Herpes zoster | 11 (5) | 10 (5) | 3 (1) | < 1% | 29 (10) | 25 (9) | 6 (2) | < 1% |
-| Sepsis-ADRs where at least one resulted in a fatal outcome | < 1% | < 1% | 0 (0) | 0 (0) | 6 (2) | < 1% | 4 (1) | < 1% |
+| Sepsis- ADRs where at least one resulted in a fatal outcome | < 1% | < 1% | 0 (0) | 0 (0) | 6 (2) | < 1% | 4 (1) | < 1% |
 | Gastrointestinal disorders |  |  |  |  |  |  |  |  |
 | Diarrhea | 122 (54) | 83 (38) | 22 (10) | 17 (8) | 114 (39) | 34 (12) | 7 (2) | 0 (0) |
 | Nausea | 33 (15) | 22 (10) | 16 (7) | 10 (5) | 31 (11) | 28 (10) | 0 (0) | 0 (0) |
@@ -222,7 +222,6 @@ Table 5: All Adverse Reactions in ≥ 5% and Grade 3/4 Adverse Reactions in ≥ 
 | Deep vein thrombosis | 8 (4) | < 1% | 5 (2) | < 1% | 7 (2) | < 1% | 4 (1) | < 1% |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  |  |  |  |  |
 | Myelodysplastic syndrome | 5 (2) | 0 (0) | < 1% | 0 (0) | 3 (1) | 0 (0) | < 1% | 0 (0) |
-| Note: Adverse Events (AEs) are coded to Body System/Adverse Reaction using MedDRA v15.1. A subject with multiple occurrences of an adverse reaction is counted only once under the applicable Body System/Adverse Reaction. |  |  |  |  |  |  |  |  |
 
 ### After At Least One Prior Therapy for MM
 

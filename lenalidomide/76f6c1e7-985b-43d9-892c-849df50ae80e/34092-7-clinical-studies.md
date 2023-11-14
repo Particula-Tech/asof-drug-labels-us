@@ -113,23 +113,23 @@ Median OS was 111.0 and 84.2 months for lenalidomide capsules and placebo, respe
 
 Table 15: Progression-free Survival and Overall Survival from Randomization in MM Maintenance Studies 1 and 2 (ITT Post-Auto-HSCT Population)
 
-|  | Maintenance Study 1 |  | Maintenance Study 2 |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Lenalidomide CapsulesN = 231 | PlaceboN = 229 | Lenalidomide CapsulesN = 307 | PlaceboN = 307 |  |  |  |  |  |
-| PFS at Unblinding |  |  |  |  |  |  |  |  |  |
-| PFS Events n (%) | 46 (20) | 98 (43) | 103 (34) | 160 (52) |  |  |  |  |  |
-| Median in months [95% CI] | 33.9[NE, NE] | 19[16.2, 25.6] | 41.2[38.3, NE] | 23.0[21.2, 28.0] |  |  |  |  |  |
-| Hazard Ratio[95% CI] | 0.38[0.27, 0.54] |  | 0.50[0.39, 0.64] |  |  |  |  |  |  |
-| Log-rank Test p-value | < 0.001 |  | < 0.001 |  |  |  |  |  |  |
-| PFS at Updated Analysis1 March 2015 (Studies 1 and 2) |  |  |  |  |  |  |  |  |  |
-| PFS Events n (%) | 97 (42) | 116 (51) | 191 (62) | 248 (81) |  |  |  |  |  |
-| Median in months [95% CI] | 68.6[52.8, NE] | 22.5[18.8, 30.0] | 46.3[40.1, 56.6] | 23.8[21.0, 27.3] |  |  |  |  |  |
-| Hazard Ratio[95% CI] | 0.38[0.28, 0.50] |  | 0.53[0.44, 0.64] |  |  |  |  |  |  |
-| OS at Updated Analysis1 Feb 2016 (Studies 1 and 2) |  |  |  |  |  |  |  |  |  |
-| OS Events n (%) | 82 (35) | 114 (50) | 143 (47) | 160 (52) |  |  |  |  |  |
-| Median in months [95% CI] | 111[101.8, NE] | 84.2[71.0, 102.7] | 105.9[88.8, NE] | 88.1[80.7, 108.4] |  |  |  |  |  |
-| Hazard Ratio[95% CI] | 0.59[0.44, 0.78] |  | 0.90[0.72, 1.13] |  |  |  |  |  |  |
-| Date of Unblinding in Maintenance Study 1 and 2 = 17 December 2009 and 7 July 2010, respectively. Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; ITT = intent-to-treat; NE = not estimable; PFS = progression-free survival. PFS at time of unblinding for Maintenance Study 2 was based on assessment by an Independent Review Committee. All other PFS analyses were based on assessment by investigator. Note: The median is based on Kaplan-Meier estimate, with 95% CIs about the median overall PFS time. Hazard ratio is based on a proportional hazards model stratified by stratification factors comparing the hazard functions associated with treatment arms (lenalidomide capsules:placebo). |  |  |  |  |  |  |  |  |  |
+|  | Maintenance Study 1 |  | Maintenance Study 2 |  |
+| --- | --- | --- | --- | --- |
+|  | Lenalidomide CapsulesN = 231 | PlaceboN = 229 | Lenalidomide CapsulesN = 307 | PlaceboN = 307 |
+| PFS at Unblinding |  |  |  |  |
+| PFS Events n (%) | 46 (20) | 98 (43) | 103 (34) | 160 (52) |
+| Median in months [95% CI] | 33.9[NE, NE] | 19[16.2, 25.6] | 41.2[38.3, NE] | 23.0[21.2, 28.0] |
+| Hazard Ratio[95% CI] | 0.38[0.27, 0.54] |  | 0.50[0.39, 0.64] |  |
+| Log-rank Test p-value | < 0.001 |  | < 0.001 |  |
+| PFS at Updated Analysis1 March 2015 (Studies 1 and 2) |  |  |  |  |
+| PFS Events n (%) | 97 (42) | 116 (51) | 191 (62) | 248 (81) |
+| Median in months [95% CI] | 68.6[52.8, NE] | 22.5[18.8, 30.0] | 46.3[40.1, 56.6] | 23.8[21.0, 27.3] |
+| Hazard Ratio[95% CI] | 0.38[0.28, 0.50] |  | 0.53[0.44, 0.64] |  |
+| OS at Updated Analysis1 Feb 2016 (Studies 1 and 2) |  |  |  |  |
+| OS Events n (%) | 82 (35) | 114 (50) | 143 (47) | 160 (52) |
+| Median in months [95% CI] | 111[101.8, NE] | 84.2[71.0, 102.7] | 105.9[88.8, NE] | 88.1[80.7, 108.4] |
+| Hazard Ratio[95% CI] | 0.59[0.44, 0.78] |  | 0.90[0.72, 1.13] |  |
+| Date of Unblinding in Maintenance Study 1 and 2 = 17 December 2009 and 7 July 2010, respectively. Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; ITT = intent-to-treat; NE = not estimable; PFS = progression-free survival. PFS at time of unblinding for Maintenance Study 2 was based on assessment by an Independent Review Committee. All other PFS analyses were based on assessment by investigator. Note: The median is based on Kaplan-Meier estimate, with 95% CIs about the median overall PFS time. Hazard ratio is based on a proportional hazards model stratified by stratification factors comparing the hazard functions associated with treatment arms (lenalidomide capsules:placebo). |  |  |  |  |
 
 Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; HR = hazard ratio; ITT = intent-to-treat; KM = Kaplan-Meier; PFS = progression-free survival; vs = versus.
 

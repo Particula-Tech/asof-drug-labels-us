@@ -8,7 +8,7 @@ In females of reproductive potential, obtain 2 negative pregnancy tests before s
 Females of reproductive potential must use 2 forms of contraception or continuously abstain from heterosexual sex during and for 4 weeks after lenalidomide capsule treatment [see Warnings and Precautions (5.1), and Medication Guide (17)].
 To avoid embryo-fetal exposure to lenalidomide, lenalidomide capsules are only available through a restricted distribution program, the Lenalidomide REMS program (5.2).
 
-Information about the Lenalidomide REMS program is available at www.lenalidomiderems.com or by calling the toll-free number 1-888-423-5436.
+Information about the Lenalidomide REMS program is available at www.lenalidomiderems.com or by calling the REMS Call Center 1-888-423-5436.
 
 Hematologic Toxicity (Neutropenia and Thrombocytopenia): Lenalidomide capsules can cause significant neutropenia and thrombocytopenia.
 Eighty percent of patients with del 5q myelodysplastic syndromes had to have a dose delay/reduction during the major study.
