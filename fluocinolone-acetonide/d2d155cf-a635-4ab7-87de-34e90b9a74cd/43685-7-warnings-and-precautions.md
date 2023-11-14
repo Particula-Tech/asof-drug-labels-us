@@ -47,7 +47,7 @@ Long-term animal studies have not been performed to evaluate the carcinogenic po
 
 Studies to determine mutagenicity with prednisolone and hydrocortisone have revealed negative results.
 
-## Pregnancy Category C
+## Pregnancy
 
 Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 The more potent corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
