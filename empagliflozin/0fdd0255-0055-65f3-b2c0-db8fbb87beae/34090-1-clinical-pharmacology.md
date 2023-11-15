@@ -12,7 +12,7 @@ Empagliflozin is an inhibitor of the SGLT2, the predominant transporter responsi
 By inhibiting SGLT2, empagliflozin reduces renal reabsorption of filtered glucose and lowers the renal threshold for glucose, and thereby increases urinary glucose excretion.
 
 Empagliflozin also reduces sodium reabsorption and increases the delivery of sodium to the distal tubule.
-This may influence several physiological functions such as lowering both pre-and afterload of the heart and downregulating sympathetic activity.
+This may influence several physiological functions such as lowering both pre- and afterload of the heart and downregulating sympathetic activity.
 
 Metformin HCl
 
@@ -65,7 +65,6 @@ Following once-daily dosing, up to 22% accumulation, with respect to plasma AUC,
 Absorption
 
 After oral administration, peak plasma concentrations of empagliflozin were reached at 1.5 hours post-dose.
-
 Administration of 25 mg empagliflozin after intake of a high-fat and high-calorie meal resulted in slightly lower exposure; AUC decreased by approximately 16% and Cmax decreased by approximately 37%, compared to fasted condition.
 The observed effect of food on empagliflozin pharmacokinetics was not considered clinically relevant and empagliflozin may be administered with or without food.
 
@@ -78,24 +77,28 @@ Elimination
 
 The apparent terminal elimination half-life of empagliflozin was estimated to be 12.4 h and apparent oral clearance was 10.6 L/h based on the population pharmacokinetic analysis.
 
-Metabolism: No major metabolites of empagliflozin were detected in human plasma and the most abundant metabolites were three glucuronide conjugates (2-O-, 3-O-, and 6-O-glucuronide).
+Metabolism
+
+No major metabolites of empagliflozin were detected in human plasma and the most abundant metabolites were three glucuronide conjugates (2-O-, 3-O-, and 6-O-glucuronide).
 Systemic exposure of each metabolite was less than 10% of total drug-related material.
 In vitro studies suggested that the primary route of metabolism of empagliflozin in humans is glucuronidation by the uridine 5'-diphospho-glucuronosyltransferases UGT2B7, UGT1A3, UGT1A8, and UGT1A9.
 
-Excretion: Following administration of an oral [14C]-empagliflozin solution to healthy subjects, approximately 95.6% of the drug-related radioactivity was eliminated in feces (41.2%) or urine (54.4%).
+Excretion
+
+Following administration of an oral [14C]-empagliflozin solution to healthy subjects, approximately 95.6% of the drug-related radioactivity was eliminated in feces (41.2%) or urine (54.4%).
 The majority of drug-related radioactivity recovered in feces was unchanged parent drug and approximately half of drug-related radioactivity excreted in urine was unchanged parent drug.
 
 Metformin
 
 Absorption
 
-The absolute bioavailability of a metformin HCl 500-mg tablet given under fasting conditions is approximately 50% to 60%.
+The absolute bioavailability of a metformin HCl 500 mg tablet given under fasting conditions is approximately 50% to 60%.
 Studies using single oral doses of metformin HCl tablets 500 mg to 1,500 mg, and 850 mg to 2,550 mg, indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
 
 Food decreases the extent of and slightly delays the absorption of metformin, as shown by approximately a 40% lower Cmax, a 25% lower AUC, and a 35 minute prolongation of time to peak plasma concentration (Tmax) following administration of a single 850 mg tablet of metformin with food, compared to the same tablet strength administered fasting.
 The clinical relevance of these decreases is unknown.
 
-Metformin extended-release
+Metformin HCl extended-release
 
 Following a single oral dose of 1,000 mg (2 × 500 mg tablets) metformin HCl extended-release after a meal, the time to reach maximum plasma metformin concentration (Tmax) is achieved at approximately 7 to 8 hours.
 In both single- and multiple-dose studies in healthy subjects, once daily 1,000 mg (2 × 500 mg tablets) dosing provides equivalent systemic exposure, as measured by AUC, and up to 35% higher Cmax of metformin relative to the immediate-release given as 500 mg twice daily.
@@ -114,12 +117,25 @@ Elimination
 Metformin has a plasma elimination half-life of approximately 6.2 hours.
 In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
 
-Metabolism: Intravenous single-dose studies in normal subjects demonstrate that metformin does not undergo hepatic metabolism (no metabolites have been identified in humans) nor biliary excretion.
+Metabolism
 
-Excretion: Following oral administration, approximately 90% of the absorbed drug is excreted via the renal route within the first 24 hours.
+Intravenous single-dose studies in normal subjects demonstrate that metformin does not undergo hepatic metabolism (no metabolites have been identified in humans) nor biliary excretion.
+
+Excretion
+
+Following oral administration, approximately 90% of the absorbed drug is excreted via the renal route within the first 24 hours.
 Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin elimination.
 
 Specific Populations
+
+Geriatric Patients
+
+SYNJARDY or SYNJARDY XR: Studies characterizing the pharmacokinetics of empagliflozin and metformin after administration of SYNJARDY or SYNJARDY XR in geriatric patients have not been performed [see Warnings and Precautions (5.2) and Use in Specific Populations (8.5)].
+
+Empagliflozin: Age did not have a clinically meaningful impact on the pharmacokinetics of empagliflozin based on a population pharmacokinetic analysis [see Use in Specific Populations (8.5)].
+
+Metformin HCl: Limited data from controlled pharmacokinetic studies of metformin HCl in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared with healthy young subjects.
+From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
 
 Pediatric Patients
 
@@ -133,15 +149,7 @@ Effects of Age, Body Mass Index, Gender, and Race
 Empagliflozin: Age, body mass index (BMI), gender and race (Asians versus primarily Whites) do not have a clinically meaningful effect on pharmacokinetics of empagliflozin.
 
 Metformin HCl: No studies of metformin pharmacokinetic parameters according to race have been performed.
-In controlled clinical studies of metformin HCl in patients with type 2 diabetes mellitus, the antihyperglycemic effect was comparable in Caucasians (n=249), Blacks (n=51), and Hispanics (n=24).
-
-Patients with Hepatic Impairment
-
-SYNJARDY or SYNJARDY XR: Studies characterizing the pharmacokinetics of empagliflozin and metformin after administration of SYNJARDY or SYNJARDY XR in hepatically impaired patients have not been performed [see Warnings and Precautions (5.1)].
-
-Empagliflozin: In adult patients with mild, moderate, and severe hepatic impairment according to the Child-Pugh classification, AUC of empagliflozin increased by approximately 23%, 47%, and 75%, and Cmax increased by approximately 4%, 23%, and 48%, respectively, compared to subjects with normal hepatic function.
-
-Metformin HCl: No pharmacokinetic studies of metformin have been conducted in patients with hepatic impairment.
+In controlled clinical studies of metformin HCl in patients with type 2 diabetes mellitus, the antihyperglycemic effect was comparable in Whites (n=249), Blacks or African Americans (n=51), and Hispanics or Latinos (n=24).
 
 Patients with Renal Impairment
 
@@ -155,14 +163,13 @@ However, the fraction of empagliflozin that was excreted unchanged in urine, and
 
 Metformin: In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4) and Warnings and Precautions (5.1)].
 
-Geriatric
+Patients with Hepatic Impairment
 
-SYNJARDY or SYNJARDY XR: Studies characterizing the pharmacokinetics of empagliflozin and metformin after administration of SYNJARDY or SYNJARDY XR in geriatric patients have not been performed [see Warnings and Precautions (5.2) and Use in Specific Populations (8.5)].
+SYNJARDY or SYNJARDY XR: Studies characterizing the pharmacokinetics of empagliflozin and metformin after administration of SYNJARDY or SYNJARDY XR in hepatically impaired patients have not been performed [see Warnings and Precautions (5.1)].
 
-Empagliflozin: Age did not have a clinically meaningful impact on the pharmacokinetics of empagliflozin based on a population pharmacokinetic analysis [see Use in Specific Populations (8.5)].
+Empagliflozin: In adult patients with mild, moderate, and severe hepatic impairment according to the Child-Pugh classification, AUC of empagliflozin increased by approximately 23%, 47%, and 75%, and Cmax increased by approximately 4%, 23%, and 48%, respectively, compared to subjects with normal hepatic function.
 
-Metformin HCl: Limited data from controlled pharmacokinetic studies of metformin HCl in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared with healthy young subjects.
-From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
+Metformin HCl: No pharmacokinetic studies of metformin have been conducted in patients with hepatic impairment.
 
 Drug Interaction Studies
 
@@ -185,15 +192,15 @@ In vivo Assessment of Drug Interactions: Empagliflozin pharmacokinetics were sim
 In subjects with normal renal function, coadministration of empagliflozin with probenecid resulted in a 30% decrease in the fraction of empagliflozin excreted in urine without any effect on 24-hour urinary glucose excretion.
 The relevance of this observation to patients with renal impairment is unknown.
 
-| Figure 1 Effect of Various Medications on the Pharmacokinetics of Empagliflozin as Displayed as 90% Confidence Interval of Geometric Mean AUC and Cmax Ratios [reference lines indicate 100% (80% - 125%)] |
-| --- |
-| aempagliflozin, 50 mg, once daily; bempagliflozin, 25 mg, single dose; cempagliflozin, 25 mg, once daily; dempagliflozin, 10 mg, single dose |
+Figure 1 Effect of Various Medications on the Pharmacokinetics of Empagliflozin as Displayed as 90% Confidence Interval of Geometric Mean AUC and Cmax Ratios [reference lines indicate 100% (80% - 125%)]
+
+aempagliflozin, 50 mg, once daily; bempagliflozin, 25 mg, single dose; cempagliflozin, 25 mg, once daily; dempagliflozin, 10 mg, single dose
 
 Empagliflozin had no clinically relevant effect on the pharmacokinetics of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, digoxin, ramipril, simvastatin, hydrochlorothiazide, torsemide, and oral contraceptives when coadministered in healthy volunteers (see Figure 2).
 
-| Figure 2 Effect of Empagliflozin on the Pharmacokinetics of Various Medications as Displayed as 90% Confidence Interval of Geometric Mean AUC and Cmax Ratios [reference lines indicate 100% (80% - 125%)] |
-| --- |
-| aempagliflozin, 50 mg, once daily; bempagliflozin, 25 mg, once daily; cempagliflozin, 25 mg, single dose; dadministered as simvastatin; eadministered as warfarin racemic mixture; fadministered as Microgynon®; gadministered as ramipril |
+Figure 2 Effect of Empagliflozin on the Pharmacokinetics of Various Medications as Displayed as 90% Confidence Interval of Geometric Mean AUC and Cmax Ratios [reference lines indicate 100% (80% - 125%)]
+
+aempagliflozin, 50 mg, once daily; bempagliflozin, 25 mg, once daily; cempagliflozin, 25 mg, single dose; dadministered as simvastatin; eadministered as warfarin racemic mixture; fadministered as Microgynon®; gadministered as ramipril
 
 Metformin HCl
 

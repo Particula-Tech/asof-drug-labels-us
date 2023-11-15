@@ -3,7 +3,8 @@
 ## 2.1 Testing Prior to Initiation of SYNJARDY or SYNJARDY XR
 
 - Assess renal function before initiating SYNJARDY or SYNJARDY XR and as clinically indicated [see Warnings and Precautions (5.1, 5.3)].
-- Assess volume status in patients with volume depletion and correct this condition before initiating SYNJARDY or SYNJARDY XR [see Warnings and Precautions (5.3) and Use in Specific Populations (8.5, 8.6)].
+- Assess volume status.
+  In patients with volume depletion, correct this condition before initiating SYNJARDY or SYNJARDY XR [see Warnings and Precautions (5.3) and Use in Specific Populations (8.5, 8.6)].
 
 ## 2.2 Recommended Dosage and Administration of SYNJARDY or SYNJARDY XR in Adults
 
@@ -28,14 +29,19 @@
 ## 2.4 Dosage Recommendations in Patients with Renal Impairment
 
 - Initiation of SYNJARDY or SYNJARDY XR is not recommended in patients with an eGFR less than 45 mL/min/1.73 m2, due to the metformin component.
-- SYNJARDY and SYNJARDY XR are contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 or in patients on dialysis [see Contraindications (4), Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
+- SYNJARDY and SYNJARDY XR are contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 or in patients on dialysis [see Contraindications (4), Warnings and Precautions (5.1), and Use in Specific Populations (8.6)].
 
 ## 2.5 Discontinuation for Iodinated Contrast Imaging Procedures
 
 Discontinue SYNJARDY or SYNJARDY XR at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR less than 60 mL/min/1.73 m2; in patients with a history of liver disease, alcoholism or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
 Re-evaluate eGFR 48 hours after the imaging procedure; restart SYNJARDY or SYNJARDY XR if renal function is stable [see Warnings and Precautions (5.1)].
 
-## 2.6 Recommendations Regarding Missed Dose
+## 2.6 Temporary Interruption for Surgery
+
+Withhold SYNJARDY or SYNJARDY XR for at least 3 days, if possible, prior to major surgery or procedures associated with prolonged fasting.
+Resume SYNJARDY or SYNJARDY XR when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)].
+
+## 2.7 Recommendations Regarding Missed Dose
 
 - If a dose is missed, instruct patients to take the dose as soon as possible.
 - Do not double up the next dose.

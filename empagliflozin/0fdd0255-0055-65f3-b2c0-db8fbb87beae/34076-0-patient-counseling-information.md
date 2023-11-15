@@ -9,11 +9,15 @@ Advise patients to discontinue SYNJARDY or SYNJARDY XR immediately and to notify
 Counsel patients against excessive alcohol intake and inform patients about the importance of regular testing of renal function while receiving SYNJARDY or SYNJARDY XR.
 Instruct patients to inform their healthcare provider that they are taking SYNJARDY or SYNJARDY XR prior to any surgical or radiological procedure, as temporary discontinuation may be required until renal function has been confirmed to be normal [see Warnings and Precautions (5.1)].
 
-Ketoacidosis
+Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis
 
-Inform patients that ketoacidosis is a serious life-threatening condition and that cases of ketoacidosis have been reported during use of empagliflozin, sometimes associated with illness or surgery among other risk factors.
-Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
-If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue SYNJARDY or SYNJARDY XR and seek medical attention immediately [see Warnings and Precautions (5.2)].
+Inform patients that SYNJARDY or SYNJARDY XR can cause potentially fatal ketoacidosis and that type 2 diabetes mellitus and pancreatic disorders (e.g., history of pancreatitis or pancreatic surgery) are risk factors.
+
+Educate all patients on precipitating factors (such as insulin dose reduction or missed insulin doses, infection, reduced caloric intake, ketogenic diet, surgery, dehydration, and alcohol abuse) and symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing).
+Inform patients that blood glucose may be normal even in the presence of ketoacidosis.
+
+Advise patients that they may be asked to monitor ketones.
+If symptoms of ketoacidosis occur, instruct patients to discontinue SYNJARDY or SYNJARDY XR and seek medical attention immediately [see Warnings and Precautions (5.2)].
 
 Volume Depletion
 
@@ -44,18 +48,23 @@ Advise them of treatment options and when to seek medical advice [see Warnings a
 
 Genital Mycotic Infections in Males (e.g., Balanitis or Balanoposthitis)
 
-Inform male patients that yeast infection of penis (e.g., balanitis or balanoposthitis) may occur, especially in uncircumcised males and patients with chronic and recurrent infections.
+Inform male patients that yeast infection of the penis (e.g., balanitis or balanoposthitis) may occur, especially in uncircumcised males and patients with chronic and recurrent infections.
 Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
 Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.7)].
+
+Lower Limb Amputation
+
+Counsel patients about the importance of routine preventative foot care.
+Instruct patients to monitor for new pain or tenderness, sores or ulcers, or infections involving the leg or foot and to seek medical advice immediately if such signs or symptoms develop [see Warnings and Precautions (5.8)].
 
 Hypersensitivity Reactions
 
 Inform patients that serious hypersensitivity reactions, such as urticaria and angioedema, have been reported with empagliflozin, a component of SYNJARDY and SYNJARDY XR.
-Advise patients to report immediately any skin reaction or angioedema, and to discontinue the drug until they have consulted prescribing healthcare provider [see Warnings and Precautions (5.8)].
+Advise patients to report immediately any skin reaction or angioedema, and to discontinue the drug until they have consulted prescribing healthcare provider [see Warnings and Precautions (5.9)].
 
 Vitamin B12 Deficiency
 
-Inform patients about the importance of regular hematological parameters while receiving SYNJARDY or SYNJARDY XR [see Warnings and Precautions (5.9)].
+Inform patients about the importance of regular hematological parameters while receiving SYNJARDY or SYNJARDY XR [see Warnings and Precautions (5.10)].
 
 Laboratory Tests
 
@@ -82,4 +91,4 @@ Missed Dose
 
 Instruct patients to take SYNJARDY or SYNJARDY XR only as prescribed.
 If a dose is missed, it should be taken as soon as the patient remembers.
-Advise patients not to double their next dose [see Dosage and Administration (2.6)].
+Advise patients not to double their next dose [see Dosage and Administration (2.7)].

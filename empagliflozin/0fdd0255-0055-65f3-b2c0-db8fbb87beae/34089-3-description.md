@@ -12,7 +12,7 @@ Its molecular formula is C23H27ClO7 and the molecular weight is 450.91.
 The structural formula is:
 
 Empagliflozin is a white to yellowish, non-hygroscopic powder.
-It is very slightly soluble in water, sparingly soluble in methanol, slightly soluble in ethanol and acetonitrile; soluble in 50% acetonitrile/water; and practically insoluble in toluene.
+It is very slightly soluble in water, sparingly soluble in methanol, slightly soluble in ethanol and acetonitrile, soluble in 50% acetonitrile/water, and practically insoluble in toluene.
 
 Metformin HCl
 
@@ -47,4 +47,4 @@ SYNJARDY XR tablets for oral administration are available in four dosage strengt
 - 25 mg empagliflozin and 1,000 mg metformin HCl (equivalent to 779.86 mg of metformin)
 
 Each film-coated tablet of SYNJARDY XR contains the following inactive ingredients: Tablet Core: hypromellose, magnesium stearate, and polyethylene oxide.
-Film Coatings and Printing Ink: carnauba wax, FD&C blue#2/indigo carmine aluminum lake (12.5 mg/1,000 mg, 25 mg/1,000 mg), ferric oxide red (10 mg/1,000 mg), ferric oxide yellow (5 mg/1,000 mg, 10 mg/1,000 mg, 25 mg/1,000 mg), ferrosoferric oxide, hypromellose, isopropyl alcohol, polydextrose, polyethylene glycol, propylene glycol, purified water, talc, and titanium dioxide.
+Film-coatings and Printing Ink: carnauba wax, FD&C blue#2/indigo carmine aluminum lake (12.5 mg/1,000 mg, 25 mg/1,000 mg), ferric oxide red (10 mg/1,000 mg), ferric oxide yellow (5 mg/1,000 mg, 10 mg/1,000 mg, 25 mg/1,000 mg), ferrosoferric oxide, hypromellose, isopropyl alcohol, polydextrose, polyethylene glycol, propylene glycol, purified water, talc, and titanium dioxide.
