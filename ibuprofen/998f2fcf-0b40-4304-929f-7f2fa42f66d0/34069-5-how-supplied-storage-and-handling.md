@@ -15,10 +15,14 @@ Preserve in well-closed containers.
 
 Manufactured By
 
-Perrigo®
+Padagis
 
-Minneapolis, MN • www.perrigorx.com
+Minneapolis, MN 55427
 
-2204263 Rev 11-20 A
+www.padagis.com
 
-16K00 RC J1
+2204454
+
+Rev 11-21 A
+
+16K26 RC J1

@@ -1,8 +1,8 @@
 # Principal Display Panel
 
-Rx Only
-
 NDC 45802-952-26
+
+Rx Only
 
 Ibuprofen Oral Suspension USP
 
