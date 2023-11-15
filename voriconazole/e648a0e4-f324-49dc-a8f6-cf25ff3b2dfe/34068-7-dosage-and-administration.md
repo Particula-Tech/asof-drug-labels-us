@@ -45,26 +45,26 @@ Patients should be treated for a minimum of 14 days and for at least 7 days foll
 
 Table 1: Recommended Dosing Regimen (Adults)
 
-| Intravenous infusion | Intravenous infusion | Oral‡ |  |
+| Intravenous infusion | Intravenous infusion | Oralc |  |
 | --- | --- | --- | --- |
-| Infection | Loading Dose | Maintenance Dose*,† |  |
-| Invasive Aspergillosis§ | 6 mg/kg every 12 hours for the first 24 hours | 4 mg/kg every 12 hours | 200 mg every 12 hours |
-| Candidemia in nonneutropenic patients and other deep tissue Candida infections | 6 mg/kg every 12 hours for the first 24 hours | 3–4 mg/kg every 12 hours¶ | 200 mg every 12 hours |
-| Esophageal Candidiasis | Not Evaluated# | Not Evaluated# | 200 mg every 12 hours |
+| Infection | Loading Dose | Maintenance Dosea, b |  |
+| Invasive Aspergillosisd | 6 mg/kg every 12 hours for the first 24 hours | 4 mg/kg every 12 hours | 200 mg every 12 hours |
+| Candidemia in nonneutropenic patients and other deep tissue Candida infections | 6 mg/kg every 12 hours for the first 24 hours | 3–4 mg/kg every 12 hourse | 200 mg every 12 hours |
+| Esophageal Candidiasis | Not Evaluatedf | Not Evaluatedf | 200 mg every 12 hours |
 | Scedosporiosis and Fusariosis | 6 mg/kg every 12 hours for the first 24 hours | 4 mg/kg every 12 hours | 200 mg every 12 hours |
 
-* Increase dose when voriconazole is co-administered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.5)
+a Increase dose when voriconazole is co-administered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.5)
 
-1. † In healthy volunteer studies, the 200 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 3 mg/kg intravenous infusion every 12 hours dose; the 300 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 4 mg/kg intravenous infusion every 12 hours dose (12).
+1. b In healthy volunteer studies, the 200 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 3 mg/kg intravenous infusion every 12 hours dose; the 300 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 4 mg/kg intravenous infusion every 12 hours dose (12).
 
-‡ Adult patients who weigh less than 40 kg should receive half of the oral maintenance dose.
+c Adult patients who weigh less than 40 kg should receive half of the oral maintenance dose.
 
-1. § In a clinical study of IA, the median duration of intravenous voriconazole therapy was 10 days (range 2 to 85 days).
+1. d In a clinical study of IA, the median duration of intravenous voriconazole therapy was 10 days (range 2 to 85 days).
    The median duration of oral voriconazole therapy was 76 days (range 2 to 232 days) (14.1).
-2. ¶ In clinical trials, patients with candidemia received 3 mg/kg intravenous infusion every 12 hours as primary therapy, while patients with other deep tissue Candida infections received 4 mg/kg every 12 hours as salvage therapy.
+2. e In clinical trials, patients with candidemia received 3 mg/kg intravenous infusion every 12 hours as primary therapy, while patients with other deep tissue Candida infections received 4 mg/kg every 12 hours as salvage therapy.
    Appropriate dose should be based on the severity and nature of the infection.
 
-# Not evaluated in patients with EC.
+f Not evaluated in patients with EC.
 
 Method for Adjusting the Dosing Regimen in Adults
 
