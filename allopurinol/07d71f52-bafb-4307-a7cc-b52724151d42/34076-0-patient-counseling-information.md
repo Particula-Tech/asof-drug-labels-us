@@ -20,6 +20,6 @@ Advise patients to disclose all medications in use and they should follow the in
 Pregnancy Advise pregnant women of the potential risk to a fetus.
 Advise women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with ZYLOPRIM [see Use in Specific Populations (8.1)].
 Lactation Advise women not to breastfeed during treatment with ZYLOPRIM and for one week after the last dose [see Use in Specific Populations (8.2)].
-Casper Pharma LLC
+Casper Pharma, LLC
 
-Manufactured by: Casper Pharma Private Limited Telangana-500108, India M.L No.: TS/RR/2020-58622 Manufactured for: Casper Pharma LLC East Brunswick, NJ 08816 PIB03399-07
+Manufactured by: Casper Pharma Private Limited Telangana-500108, India M.L No.: TS/RR/2020-58622 Manufactured for: Casper Pharma, LLC East Brunswick, NJ 08816 PIB03399-08

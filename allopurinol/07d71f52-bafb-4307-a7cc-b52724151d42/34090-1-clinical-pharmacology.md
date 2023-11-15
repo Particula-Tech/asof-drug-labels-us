@@ -18,7 +18,8 @@ As a result of xanthine oxidase inhibition, the serum concentration of hypoxanth
 A maximum of 0.9 mg/dL of these oxypurines has been reported when the serum urate was lowered to less than 2 mg/dL by high doses of ZYLOPRIM.
 These values are far below the saturation levels at which point their precipitation would be expected to occur (above 7 mg/dL).
 The increased xanthine and hypoxanthine in the urine in patients who were treated with oral allopurinol have not been accompanied by problems of nephrolithiasis; however, there are isolated case reports of xanthine crystalluria.
-Drug Interaction Studies Fluorouracil: Based on non-clinical data, allopurinol may decrease anti-tumor activity due to suppression of phosphorylation of 5-fluorouracil.Pegloticase: Concomitant use of ZYLOPRIM and pegloticase may potentially blunt the rise of serum uric acid levels required for monitoring the safe use of pegloticase.
+Drug Interaction Studies Fluorouracil: Based on non-clinical data, allopurinol may decrease anti-tumor activity due to suppression of phosphorylation of 5-fluorouracil.
+Pegloticase: Concomitant use of ZYLOPRIM and pegloticase may potentially blunt the rise of serum uric acid levels required for monitoring the safe use of pegloticase.
 Cytotoxic Agents: Enhanced bone marrow suppression by cyclophosphamide and other cytotoxic agents has been reported among patients with neoplastic disease, except leukemia, in the presence of ZYLOPRIM.
 Thiazide Diuretics: Reports that the concomitant administration of allopurinol and thiazide diuretics contributed to increased allopurinol toxicity were reviewed; however, a causal mechanism or cause-and-effect relationship was not found.
 

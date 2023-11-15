@@ -21,7 +21,7 @@ For complete dosage recommendations for patients with renal impairment see Table
 The minimal effective dosage is 100 mg to 200 mg daily and the maximal recommended dosage is 800 mg daily.
 The appropriate dosage may be administered in divided doses or as a single equivalent dose with the 300 mg tablet.
 Doses in excess of 300 mg should be administered in divided doses.
-Monitor patients’ kidney function during the early stages of administration of ZYLOPRIM and decrease the dosage or withdraw the drug if persistent abnormalities in kidney function occur [see Dosage and Administration (2.6), Warnings and Precautions (5.3), Use in Specific Populations (8.6)].
+Monitor patient's kidney function during the early stages of administration of ZYLOPRIM and decrease the dosage or withdraw the drug if persistent abnormalities in kidney function occur [see Dosage and Administration (2.6), Warnings and Precautions (5.3), Use in Specific Populations (8.6)].
 The dosage of ZYLOPRIM to achieve control of gout varies with the severity of the disease.
 In general, gout control is achieved with 200 mg to 300 mg daily in patients with mild gout, and with 400 mg to 600 mg daily in patients with moderate to severe tophaceous gout.
 Gout attacks usually become shorter and less severe after several months of therapy.
