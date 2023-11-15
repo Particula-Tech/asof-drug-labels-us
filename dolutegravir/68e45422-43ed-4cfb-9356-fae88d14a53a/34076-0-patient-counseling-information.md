@@ -66,10 +66,6 @@ Manufactured for:
 
 ViiV Healthcare Durham, NC 27701
 
-by:
-
-GlaxoSmithKline Durham, NC 27701
-
 ©2023 ViiV Healthcare group of companies or its licensor.
 
-DVT:11PI
+DVT:12PI
