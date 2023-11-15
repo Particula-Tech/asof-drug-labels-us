@@ -4,8 +4,7 @@
 
 Risk Summary
 
-Prolonged use of opioid analgesics during pregnancy can cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
-There are no available data with INFUMORPH in pregnant women to inform a drug-associated risk for major birth defects and miscarriage.
+Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.5)] There are no available data with INFUMORPH in pregnant women to inform a drug-associated risk for major birth defects and miscarriage.
 Published studies with morphine use during pregnancy have not reported a clear association with morphine and major birth defects [see Human Data].
 In published animal reproduction studies, morphine administered subcutaneously during the early gestational period produced neural tube defects (i.e., exencephaly and cranioschisis) at 5 and 16 times the human daily dose of 60 mg based on body surface area (HDD) in hamsters and mice, respectively, lower fetal body weight and increased incidence of abortion at 0.4 times the HDD in the rabbit, growth retardation at 6 times the HDD in the rat, and axial skeletal fusion and cryptorchidism at 16 times the HDD in the mouse.
 Administration of morphine sulfate to pregnant rats during organogenesis and through lactation resulted in cyanosis, hypothermia, decreased brain weights, pup mortality, decreased pup body weights, and adverse effects on reproductive tissues at 3-4 times the HDD; and long-term neurochemical changes in the brain of offspring which correlate with altered behavioral responses that persist through adulthood at exposures comparable to and less than the HDD [see Animal Data].
@@ -19,7 +18,7 @@ Clinical Considerations
 
 Fetal/Neonatal Adverse Reactions
 
-Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Use of opioid analgesics for an extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
@@ -94,7 +93,7 @@ Withdrawal symptoms can occur in breastfed infants when maternal administration 
 
 Infertility
 
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
 In published animal studies, morphine administration adversely effected fertility and reproductive endpoints in male rats and prolonged estrus cycle in female rats [see Nonclinical Toxicology (13)].

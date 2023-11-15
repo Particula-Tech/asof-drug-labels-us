@@ -8,6 +8,10 @@ NOT for Intravenous, Intramuscular or Subcutaneous Injection NDC 0641-6039-01 20
 
 NOT for IV, IM or Subcutaneous Injection NDC 0641-6040-01 20 mL Single Dose Ampul INFUMORPH 500 Rx only (Preservative-free Morphine Sulfate Sterile Solution) CII 500 mg per 20 mL (25 mg/mL) For Neuraxial Administration in Continuous Microinfusion Devices
 
-NOT FOR IV, IM, or SC INJECTION NDC 0641-6040-01 INFUMORPH 500 (Preservative-free Morphine Sulfate Sterile Solution) CII 500 mg/20 mL (25 mg/mL) Rx only FOR NEURAXIAL ADMINISTRATION IN CONTINUOUS MICROINFUSION DEVICES 20 mL Ampul
+NOT FOR IV, IM, or SC INJECTION NDC 0641-6040-01 20 mL Single Dose Ampul INFUMORPH 500 (Preservative-free Morphine Sulfate Sterile Solution) CII 500 mg per 20 mL
+
+(25 mg/mL)
+
+FOR NEURAXIAL ADMINISTRATION IN CONTINUOUS MICROINFUSION DEVICES
 
 # SERIALIZATION IMAGE

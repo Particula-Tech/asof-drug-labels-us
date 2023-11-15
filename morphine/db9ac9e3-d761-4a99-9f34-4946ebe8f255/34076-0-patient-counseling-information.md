@@ -14,6 +14,11 @@ Interactions with Benzodiazepines and Other CNS Depressants
 
 Inform patients and caregivers that potentially fatal additive effects may occur if INFUMORPH is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.5), Drug Interactions (7)].
 
+Hyperalgesia and Allodynia
+
+Inform patients and caregivers not to increase opioid dosage without first consulting a clinician.
+Advise patients to seek medical attention if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings and Precautions (5.X);Post-marketing Experience (6.2)].
+
 Serotonin Syndrome
 
 Inform patients that INFUMORPH could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
@@ -24,6 +29,15 @@ MAOI Interaction
 
 Inform patients not to take INFUMORPH while using any drugs that inhibit monoamine oxidase.
 Patients should not start MAOIs while taking INFUMORPH [see Warnings and Precautions (5.9), Drug Interactions (7)].
+
+Driving or Operating Heavy Machinery
+
+Inform patients that INFUMORPH may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.16)].
+
+Constipation
+
+Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6)].
 
 Hypotension
 
@@ -54,12 +68,3 @@ Infertility
 
 Inform patients that chronic use of opioids may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6)].
-
-Driving or Operating Heavy Machinery
-
-Inform patients that INFUMORPH may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.16)].
-
-Constipation
-
-Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6)].

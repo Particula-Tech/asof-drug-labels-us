@@ -4,6 +4,7 @@
 
 INFUMORPH should be administered by or under the direction of a physician experienced in the techniques of epidural or intrathecal administration and familiar with the patient management problems associated with epidural or intrathecal drug administration.
 
+- INFUMORPH should be prescribed only by healthcare professionals who are knowledgeable about the use of opioids and how to mitigate the associated risks.
 - Because of the risk of delayed respiratory depression, patients should be observed in a fully equipped and staffed environment for at least 24 hours after each test dose and, as indicated, for the first several days after surgery.
 - Because epidural administration has been associated with less potential for immediate or late adverse effects than intrathecal administration, the epidural route should be used whenever possible.
 - For safety reasons, it is recommended that administration of INFUMORPH 200 and 500 (10 and 25 mg/mL, respectively) by the intrathecal route be limited to the lumbar area.
@@ -44,9 +45,12 @@ Do not heat-sterilize.
 
 The starting dose of INFUMORPH must be individualized, based upon in-hospital evaluation of the response to serial single-dose epidural or intrathecal bolus injections of regular DURAMORPH (morphine sulfate injection,) 0.5 mg/mL or 1 mg/mL, with close observation for analgesic efficacy and adverse effects prior to surgery involving the continuous microinfusion device.
 
-- Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5.3)].
-- Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.3)].
-- Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with INFUMORPH and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
+- Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see Warnings and Precautions (5)].
+  Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of INFUMORPH for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
+- There is variability in the opioid analgesic dose and duration needed to adequately manage pain due both to the cause of pain and to individual patient factors.
+  Initiate the dosing regimen for each patient individually, taking into account the patient’s underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
+- Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with INFUMORPH.
+  Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5)].
 
 ## 2.3 Dosage for Epidural Administration
 

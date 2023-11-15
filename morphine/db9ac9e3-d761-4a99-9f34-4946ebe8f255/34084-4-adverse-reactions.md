@@ -41,4 +41,5 @@ Adrenal insufficiency: Cases of adrenal insufficiency have been reported with op
 
 Anaphylaxis: Anaphylaxis has been reported with ingredients contained in INFUMORPH.
 
-Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+Androgen deficiency: Cases of androgen deficiency have occurred with use of opioids for an extended period of time.
+Hyperalgesia and Allodynia: cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see Warnings and Precautions (5.8)]
