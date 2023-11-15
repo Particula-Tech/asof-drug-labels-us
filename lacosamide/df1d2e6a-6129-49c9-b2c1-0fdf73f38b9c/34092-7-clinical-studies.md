@@ -54,6 +54,3 @@ Patients with an increase in seizure frequency >100% are represented on the Y-ax
 
 | Figure 2 – Proportion of Patients by Responder Rate for Lacosamide and Placebo Groups in Studies 2, 3, and 4 |
 | --- |
-
-Additional pediatric use information is approved for UCB, Inc.’s VIMPAT® (lacosamide) tablets.
-However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

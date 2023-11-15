@@ -35,7 +35,7 @@ Adjunctive Therapy Controlled Trials (Studies 2, 3, and 4)
   The adverse reactions most commonly (>1% on lacosamide and greater than placebo) leading to discontinuation were dizziness, ataxia, vomiting, diplopia, nausea, vertigo, and blurred vision.
 - Table 4 gives the incidence of adverse reactions that occurred in ≥2% of adult patients with partial-onset seizures in the lacosamide total group and for which the incidence was greater than placebo.
 
-Table 4: Adverse Reactions Incidence in Adjunctive Therapy Pooled, Placebo-Controlled Trials in Adult Patients with Partial-Onset Seizures (Studies 2, 3, and 4)
+Table 2: Adverse Reactions Incidence in Adjunctive Therapy Pooled, Placebo-Controlled Trials in Adult Patients with Partial-Onset Seizures (Studies 2, 3, and 4)
 
 | Adverse Reaction | Placebo N=364 % | Lacosamide 200 mg/day N=270 % | Lacosamide 400 mg/day N=471 % | Lacosamide 600 mg/day* N=203 % | Lacosamide Total N=944 % |
 | --- | --- | --- | --- | --- | --- |
@@ -105,7 +105,7 @@ Other Adverse Reactions
 - Psychiatric disorders: confusional state, mood altered, depressed mood
 
 Additional pediatric use information is approved for UCB, Inc.’s VIMPAT® (lacosamide) tablets.
-However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Postmarketing Experience
 

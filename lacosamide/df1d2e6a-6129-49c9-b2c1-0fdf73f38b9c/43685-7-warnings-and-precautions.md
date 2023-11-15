@@ -18,7 +18,7 @@ The risk did not vary substantially by age (5 to 100 years) in the clinical tria
 
 Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 3: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+Table 1: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
@@ -53,7 +53,8 @@ When lacosamide is given with other drugs that prolong the PR interval, further 
 
 In the postmarketing setting, there have been reports of cardiac arrhythmias in patients treated with lacosamide, including bradycardia, AV block, and ventricular tachyarrhythmia, which have rarely resulted in asystole, cardiac arrest, and death.
 Most, although not all, cases have occurred in patients with underlying proarrhythmic conditions, or in those taking concomitant medications that affect cardiac conduction or prolong the PR interval.
-These events have occurred with both oral and intravenous routes of administration and at prescribed doses as well as in the setting of overdose [see Overdosage (10)].
+These events have occurred with both oral and intravenous routes of administration and at prescribed doses as well as in the setting of overdose [see Overdosage (Error!
+Hyperlink reference not valid.)].
 In all patients for whom a loading dose is clinically indicated, administer the loading dose with medical supervision because of the possibility of increased incidence of adverse reactions, including cardiovascular adverse reactions.
 
 Lacosamide should be used with caution in patients with underlying proarrhythmic conditions such as known cardiac conduction problems (e.g., marked first-degree AV block, second-degree or higher AV block and sick sinus syndrome without pacemaker), severe cardiac disease (such as myocardial ischemia or heart failure, or structural heart disease), and cardiac sodium channelopathies (e.g., Brugada Syndrome).

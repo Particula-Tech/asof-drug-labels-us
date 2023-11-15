@@ -169,7 +169,7 @@ Tablet inactive ingredients: colloidal silicon dioxide, crospovidone, hydroxypro
 - •200 mg tablets: FD&C Blue #2/indigo carmine aluminum lake.
 
 Additional pediatric use information is approved for UCB, Inc.’s VIMPAT® (lacosamide) tablets.
-However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 Medication Guide available at:
 
@@ -194,4 +194,4 @@ www.glenmarkpharma-us.com
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-June 2023
+November 2023

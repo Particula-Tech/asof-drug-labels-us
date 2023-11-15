@@ -89,7 +89,7 @@ Pediatric Patients (4 to less than 17 Years of Age)
   Steady state plasma concentrations are achieved after 3 days of twice daily repeated administration.
 - The pharmacokinetics of lacosamide in pediatric patients are similar when used as monotherapy or as adjunctive therapy for the treatment of partial-onset seizures.
 - Additional pediatric use information is approved for UCB, Inc.’s VIMPAT® (lacosamide) tablets.
-  However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+  However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 Geriatric Patients
 
