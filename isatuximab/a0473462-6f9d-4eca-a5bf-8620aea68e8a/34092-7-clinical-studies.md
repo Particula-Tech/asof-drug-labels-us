@@ -48,9 +48,7 @@ Table 7: Efficacy of SARCLISA in Combination with Pomalidomide and Dexamethasone
 
 The median time to first response in responders was 35 days in the Isa-Pd group versus 58 days in the Pd group.
 The median duration of response was 13.3 months (95% CI: 10.6-NR) in the Isa-Pd group versus 11.1 months (95% CI: 8.5-NR) in the Pd group.
-Median overall survival was not reached for either treatment group.
-At a median follow-up time of 11.6 months, 43 (27.9%) patients on Isa-Pd and 56 (36.6%) patients on Pd had died.
-The OS results at interim analysis did not reach statistical significance.
+At a median follow-up time of 52.4 months, final median overall survival was 24.6 months in the Isa-Pd group and 17.7 months in the Pd group (HR=0.776; 95% CI: 0.594 to 1.015).
 
 Figure 1: Kaplan-Meier Curves of PFS – ITT Population – ICARIA-MM (assessment by the IRC)
 
@@ -103,3 +101,6 @@ Table 8Results are based on a prespecified interim analysis.,Median follow-up ti
 | NR: not reached. |  |  |
 
 Figure 2: Kaplan-Meier Curves of PFS – ITT Population – IKEMA (assessment by the IRC)
+
+At a median follow-up time of 44.0 months, final PFS analysis showed a median PFS of 41.7 months for Isa-Kd group compared to 20.8 months for Kd group, with a hazard ratio of 0.594 (95.4% CI: 0.424 to 0.832).
+Final complete response, determined using a FDA-cleared isatuximab-irfc-specific IFE assay [see Drug Interactions (7.1)], was 44.1% in Isa-Kd group compared to 28.5% in Kd group.

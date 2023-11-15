@@ -60,3 +60,13 @@ Race
 
 White (n=377, 79%) or Asian (n=25, 5%) race have no clinically meaningful effect on the exposure of isatuximab-irfc.
 The effect of Black (n=18, 4%) race on the exposure of isatuximab-irfc is unknown.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of isatuximab-irfc or of other isatuximab products.
+
+In ICARIA-MM and IKEMA, no patients tested positive for antidrug antibodies (ADA).
+Therefore, the neutralizing ADA status was not determined.
+Overall, across 9 clinical studies in multiple myeloma (MM) with SARCLISA single-agent and combination therapies including ICARIA-MM and IKEMA (N=1018), the incidence of treatment emergent ADAs was 1.9%.
+No clinically significant differences in the pharmacokinetics, safety, or efficacy of isatuximab-irfc were observed in patients with ADAs.

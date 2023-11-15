@@ -68,7 +68,7 @@ More than one SARCLISA vial may be necessary to obtain the required dose for the
 
 - Administer the infusion solution by intravenous infusion using an intravenous tubing infusion set (in PE, PVC with or without DEHP, polybutadiene [PBD], or polyurethane [PU]) with a 0.22 micron in-line filter (polyethersulfone [PES], polysulfone, or nylon).
 - The infusion solution should be administered for a period of time that will depend on the infusion rate (see Table 2).
-  Use prepared SARCLISA infusion solution within 48 hours when stored refrigerated at 2°C–8°C, followed by 8 hours (including the infusion time) at room temperature.
+  Use prepared SARCLISA infusion solution within 48 hours when stored refrigerated at 2°C to 8°C, followed by 8 hours (including the infusion time) at room temperature.
 - Do not administer SARCLISA infusion solution concomitantly in the same intravenous line with other agents.
 - On the days where both SARCLISA and carfilzomib are administered, administer dexamethasone first, followed by SARCLISA infusion, then followed by carfilzomib infusion.
 

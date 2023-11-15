@@ -24,7 +24,7 @@ Advise patients to inform healthcare providers and transfusion center personnel 
 
 Embryo-Fetal Toxicity
 
-Advise women of the potential hazard to a fetus and to avoid becoming pregnant during treatment and for 5 months after the last dose of SARCLISA [see Use in Specific Populations (8.1, 8.3)].
+Advise pregnant women and females of reproductive potential of the potential risk to a fetus and to use effective contraception during treatment and for 5 months after the last dose of SARCLISA [see Use in Specific Populations (8.1, 8.3)].
 
 Advise patients that pomalidomide has the potential to cause fetal harm and has specific requirements regarding contraception, pregnancy testing, blood and sperm donation, and transmission in sperm.
 Advise patients to report suspected or known pregnancies.

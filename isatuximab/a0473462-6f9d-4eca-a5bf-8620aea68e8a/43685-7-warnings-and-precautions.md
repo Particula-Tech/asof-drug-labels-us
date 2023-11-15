@@ -37,22 +37,22 @@ In patients treated with Isa-Kd, neutropenia occurred in 55% of patients, with g
 Neutropenic complications occurred in 2.8% of patients, including febrile neutropenia (1.1%) and neutropenic infections (1.7%) [see Adverse Reactions (6.1)].
 
 Monitor complete blood cell counts periodically during treatment.
-Consider the use of antibiotics and antiviral prophylaxis during treatment [see Dosage and Administration (2.2)].
+Consider the use of antibacterial and antiviral prophylaxis during treatment [see Dosage and Administration (2.2)].
 Monitor patients with neutropenia for signs of infection.
-In case of grade 4 neutropenia delay SARCLISA dose until neutrophil count recovery to at least 1.0 × 109/L, and provide supportive care with growth factors, according to institutional guidelines.
+In case of grade 4 neutropenia delay SARCLISA dose until neutrophil count recovery to at least 1 × 109/L, and provide supportive care with growth factors, according to institutional guidelines.
 No dose reductions of SARCLISA are recommended.
 
 ## 5.3 Second Primary Malignancies
 
 The incidence of second primary malignancies is increased in patients treated with SARCLISA-containing regimens.
-The overall incidence of second primary malignancies in all the SARCLISA-exposed patients was 3.6%.
+The overall incidence of second primary malignancies in all the SARCLISA-exposed patients was 4.1%.
 
-In ICARIA-MM, second primary malignancies occurred in 3.9% of patients in the Isa-Pd arm and in 0.7% of patients in the Pd arm.
+In ICARIA-MM, at a median follow-up time of 52 months, second primary malignancies occurred in 7% of patients in the Isa-Pd arm and in 2% of patients in the Pd arm.
 
-In IKEMA, second primary malignancies occurred in 7% of patients in the Isa-Kd arm and in 4.9% of patients in the Kd arm.
+In ongoing IKEMA study, at a median follow-up time of 21 months, second primary malignancies occurred in 7% of patients in the Isa-Kd arm and in 4.9% of patients in the Kd arm.
 
-The most common (≥1%) second primary malignancies in ICARIA-MM and IKEMA (N=329) included skin cancers (4% with SARCLISA-containing regimens and 1.5% with comparative regimens) and solid tumors other than skin cancer (1.8% with SARCLISA-containing regimens and 1.5% with comparative regimens).
-All patients with skin cancer continued treatment after resection of the skin cancer.
+The most common (≥1%) second primary malignancies in ICARIA-MM and IKEMA (N=329) included skin cancers (5% with SARCLISA-containing regimens and 2.6% with comparative regimens) and solid tumors other than skin cancer (3% with SARCLISA-containing regimens and 1.8% with comparative regimens).
+All patients with non-melanoma skin cancer continued treatment after resection of the skin cancer.
 
 Monitor patients for the development of second primary malignancies.
 

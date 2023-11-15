@@ -62,7 +62,7 @@ Refer to the pomalidomide prescribing information.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+Safety and effectiveness of SARCLISA in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 

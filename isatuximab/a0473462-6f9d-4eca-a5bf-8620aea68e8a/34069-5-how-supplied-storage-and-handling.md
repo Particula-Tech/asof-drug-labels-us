@@ -4,8 +4,8 @@ How Supplied
 
 SARCLISA (isatuximab-irfc) injection is a clear to slightly opalescent, colorless to slightly yellow solution, essentially free of visible particulates, supplied as follows:
 
-- One 100 mg/5 mL single-dose vial in a carton: NDC 0024-0654-01
-- One 500 mg/25 mL single-dose vial in a carton: NDC 0024-0656-01
+- One 100 mg/5 mL (20 mg/mL) single-dose vial in a carton: NDC 0024-0654-01
+- One 500 mg/25 mL (20 mg/mL) single-dose vial in a carton: NDC 0024-0656-01
 
 Storage
 

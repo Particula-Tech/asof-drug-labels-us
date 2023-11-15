@@ -149,7 +149,7 @@ Infections
 
 In ICARIA-MM, the incidence of grade 3 or higher infections was 43% in the Isa-Pd group.
 Pneumonia was the most common severe infection with grade 3 reported in 22% of patients in the Isa-Pd group compared to 16% in the Pd group, and grade 4 in 3.3% of patients in the Isa-Pd group compared to 2.7% in the Pd group.
-Discontinuations from treatment due to infection were reported in 2.6% of patients in the Isa-Pd group compared to 5.4% in the Pd group.
+Discontinuations from treatment due to infection were reported in 2.6% of patients in the Isa-Pd group compared to 5% in the Pd group.
 Fatal infections occurred in 3.3% of patients in the Isa-Pd group and in 4% in the Pd group.
 
 In IKEMA, the incidence of grade 3 or higher infections was 38% in the Isa-Kd group.
@@ -158,22 +158,10 @@ Treatment was discontinued due to infection in 2.8% of patients in the Isa-Kd gr
 Fatal infections occurred in 2.3% of patients in the Isa-Kd group and 0.8% in the Kd group.
 
 In relapsed and refractory multiple myeloma clinical trials, herpes zoster was reported in 2% of patients.
-In ICARIA-MM, the incidence of herpes zoster was 4.6% in the Isa-Pd group compared to 0.7% in the Pd group, and in IKEMA, incidence was 2.3% in the Isa-Kd group compared to 1.6% in the Kd group.
+In ICARIA-MM, the incidence of herpes zoster was 4.6% in the Isa-Pd group compared to 0.7% in the Pd group, and, in IKEMA, incidence was 2.3% in the Isa-Kd group compared to 1.6% in the Kd group.
 
 Cardiac failure
 
-In IKEMA, cardiac failure (including cardiac failure, cardiac failure congestive, cardiac failure acute, cardiac failure chronic, left ventricular failure, and pulmonary edema) was reported in 7.3% of patients with the Isa-Kd group (grade ≥3 in 4%) and in 6.6% of patients with the Kd group (grade ≥3 in 4.1%).
+In IKEMA, cardiac failure (including cardiac failure, cardiac failure congestive, cardiac failure acute, cardiac failure chronic, left ventricular failure, and pulmonary edema) was reported in 7% of patients with the Isa-Kd group (grade ≥3 in 4%) and in 7% of patients with the Kd group (grade ≥3 in 4.1%).
 Serious cardiac failure was observed in 4% of patients in the Isa-Kd group and in 3.3% of patients in the Kd group.
 See the current prescribing information for carfilzomib for more information.
-
-## 6.2 Immunogenicity
-
-As with all therapeutic proteins, there is a potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other isatuximab-irfc products may be misleading.
-
-In ICARIA-MM and IKEMA, no patients tested positive for antidrug antibodies (ADA).
-Therefore, the neutralizing ADA status was not determined.
-Overall, across 9 clinical studies in multiple myeloma (MM) with SARCLISA single-agent and combination therapies including ICARIA-MM and IKEMA (N=1018), the incidence of treatment emergent ADAs was 1.9%.
-No clinically significant differences in the pharmacokinetics, safety, or efficacy of isatuximab-irfc were observed in patients with ADAs.
