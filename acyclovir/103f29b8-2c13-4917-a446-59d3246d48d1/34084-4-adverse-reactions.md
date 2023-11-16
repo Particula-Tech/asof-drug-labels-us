@@ -23,5 +23,5 @@ In addition to adverse events reported from clinical trials, the following event
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to acyclovir cream.
 
-General: Angioedema, anaphylaxis.
-Skin: Contact dermatitis, eczema.
+General:Angioedema, anaphylaxis.
+Skin:Contact dermatitis, eczema.

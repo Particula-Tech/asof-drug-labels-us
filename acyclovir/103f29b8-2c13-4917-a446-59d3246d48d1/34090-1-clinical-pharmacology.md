@@ -7,7 +7,7 @@ Acyclovir is an antiviral drug active against α-herpesviruses [see Microbiology
 ## 12.3 Pharmacokinetics
 
 A clinical pharmacology study was performed with Acyclovir Cream in adult volunteers to evaluate the percutaneous absorption of acyclovir.
-In this study, which included 6 male volunteers, the cream was applied to an area of 710 cm2 on the backs of the volunteers 5 times daily at intervals of 2 hours for a total of 4 days.
+In this study, which included 6 male volunteers, the cream was applied to an area of 710 cm 2on the backs of the volunteers 5 times daily at intervals of 2 hours for a total of 4 days.
 The weight of cream applied and urinary excretion of acyclovir were measured daily.
 Plasma concentration of acyclovir was assayed 1 hour after the final application.
 The average daily urinary excretion of acyclovir was approximately 0.04% of the daily applied dose.
@@ -18,7 +18,7 @@ The systemic absorption of acyclovir following topical application of cream has 
 
 ## 12.4 Microbiology
 
-Mechanism of Action: Acyclovir is a synthetic purine deoxynucleoside analogue with cell culture and in vivo inhibitory activity against HSV types 1 (HSV-1) and 2 (HSV-2) DNA polymerases.
+Mechanism of Action:Acyclovir is a synthetic purine deoxynucleoside analogue with cell culture and in vivo inhibitory activity against HSV types 1 (HSV-1) and 2 (HSV-2) DNA polymerases.
 It inhibits HSV-1 and HSV-2 replication in cell culture and in vivo.
 
 The inhibitory activity of acyclovir is selective due to its affinity for the enzyme thymidine kinase (TK) encoded by HSV.
@@ -30,8 +30,8 @@ This inhibition is accomplished in 3 ways: 1) competitive inhibition of viral DN
 Antiviral Activity
 
 The quantitative relationship between the susceptibility of herpes viruses to antivirals in cell culture and the clinical response to therapy has not been established in humans, and virus sensitivity testing has not been standardized.
-Sensitivity testing results, expressed as the concentration of drug required to inhibit by 50% the growth of virus in cell culture (EC50 value), vary greatly depending upon a number of factors.
-Using plaque-reduction assays on Vero cells, the EC50 values of acyclovir against herpes simplex virus isolates range from 0.09 to 59.9 μM (0.02 to 13.5 μg/mL) for HSV-1 and from 0.04 to 44.0 μM (0.01 to 9.9 μg/mL) for HSV-2.
+Sensitivity testing results, expressed as the concentration of drug required to inhibit by 50% the growth of virus in cell culture (EC 50value), vary greatly depending upon a number of factors.
+Using plaque-reduction assays on Vero cells, the EC 50values of acyclovir against herpes simplex virus isolates range from 0.09 to 59.9 μM (0.02 to 13.5 μg/mL) for HSV-1 and from 0.04 to 44.0 μM (0.01 to 9.9 μg/mL) for HSV-2.
 
 Resistance
 
