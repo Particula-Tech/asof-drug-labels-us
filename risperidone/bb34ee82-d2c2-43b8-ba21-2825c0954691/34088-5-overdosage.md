@@ -2,18 +2,18 @@
 
 ## 10.1 Human Experience
 
-No cases of overdose were reported in premarketing studies with RISPERDAL CONSTA®.
-Because RISPERDAL CONSTA® is to be administered by health care professionals, the potential for overdosage by patients is low.
+No cases of overdose were reported in premarketing studies with RISPERDAL CONSTA ®.
+Because RISPERDAL CONSTA ®is to be administered by health care professionals, the potential for overdosage by patients is low.
 
-In premarketing experience with oral RISPERDAL®, there were eight reports of acute RISPERDAL® overdosage, with estimated doses ranging from 20 to 300 mg and no fatalities.
+In premarketing experience with oral RISPERDAL ®, there were eight reports of acute RISPERDAL ®overdosage, with estimated doses ranging from 20 to 300 mg and no fatalities.
 In general, reported signs and symptoms were those resulting from an exaggeration of the drug's known pharmacological effects, i.e., drowsiness and sedation, tachycardia and hypotension, and extrapyramidal symptoms.
 One case, involving an estimated overdose of 240 mg, was associated with hyponatremia, hypokalemia, prolonged QT, and widened QRS.
 Another case, involving an estimated overdose of 36 mg, was associated with a seizure.
 
-Postmarketing experience with oral RISPERDAL® includes reports of acute overdose, with estimated doses of up to 360 mg.
+Postmarketing experience with oral RISPERDAL ®includes reports of acute overdose, with estimated doses of up to 360 mg.
 In general, the most frequently reported signs and symptoms are those resulting from an exaggeration of the drug's known pharmacological effects, i.e., drowsiness, sedation, tachycardia, hypotension, and extrapyramidal symptoms.
-Other adverse reactions reported since market introduction related to oral RISPERDAL® overdose include prolonged QT interval and convulsions.
-Torsade de pointes has been reported in association with combined overdose of oral RISPERDAL® and paroxetine.
+Other adverse reactions reported since market introduction related to oral RISPERDAL ®overdose include prolonged QT interval and convulsions.
+Torsade de pointes has been reported in association with combined overdose of oral RISPERDAL ®and paroxetine.
 
 ## 10.2 Management of Overdosage
 

@@ -6,17 +6,17 @@ Store Package in Refrigerator (see bottom panel for storage conditions)
 
 Rx only Single use only
 
-NDC 50458-309-11
+NDC50458-309-11
 
-RisperdalCONSTA® risperiDONE Long-Acting Injection
+Risperdal CONSTA® risperiDONE Long-Acting Injection
 
 DOSE PACK CONTENTS:
 
 - One 12.5 mg vial of risperidone extended-release microspheres for injection
 - One pre-filled syringe containing 2 mL of diluent
 - One Vial Adapter
-- One 21-gauge UTW 1" Terumo SurGuard® 3 safety needle for deltoid injection
-- One 20-gauge TW 2" Terumo SurGuard® 3 safety needle for gluteal injection
+- One 21-gauge UTW 1" Terumo SurGuard ®3 safety needle for deltoid injection
+- One 20-gauge TW 2" Terumo SurGuard ®3 safety needle for gluteal injection
 
 Do not substitute any components of the dose pack.
 
@@ -32,17 +32,17 @@ Store Package in Refrigerator (see bottom panel for storage conditions)
 
 Rx only Single use only
 
-NDC 50458-306-11
+NDC50458-306-11
 
-RisperdalCONSTA® risperiDONE Long-Acting Injection
+Risperdal CONSTA® risperiDONE Long-Acting Injection
 
 DOSE PACK CONTENTS:
 
 - One 25 mg vial of risperidone extended-release microspheres for injection
 - One pre-filled syringe containing 2 mL of diluent
 - One Vial Adapter
-- One 21-gauge UTW 1" Terumo SurGuard® 3 safety needle for deltoid injection
-- One 20-gauge TW 2" Terumo SurGuard® 3 safety needle for gluteal injection
+- One 21-gauge UTW 1" Terumo SurGuard ®3 safety needle for deltoid injection
+- One 20-gauge TW 2" Terumo SurGuard ®3 safety needle for gluteal injection
 
 Do not substitute any components of the dose pack.
 
@@ -58,17 +58,17 @@ Store Package in Refrigerator (see bottom panel for storage conditions)
 
 Rx only Single use only
 
-NDC 50458-307-11
+NDC50458-307-11
 
-RisperdalCONSTA® risperiDONE Long-Acting Injection
+Risperdal CONSTA® risperiDONE Long-Acting Injection
 
 DOSE PACK CONTENTS:
 
 - One 37.5 mg vial of risperidone extended-release microspheres for injection
 - One pre-filled syringe containing 2 mL of diluent
 - One Vial Adapter
-- One 21-gauge UTW 1" Terumo SurGuard® 3 safety needle for deltoid injection
-- One 20-gauge TW 2" Terumo SurGuard® 3 safety needle for gluteal injection
+- One 21-gauge UTW 1" Terumo SurGuard ®3 safety needle for deltoid injection
+- One 20-gauge TW 2" Terumo SurGuard ®3 safety needle for gluteal injection
 
 Do not substitute any components of the dose pack.
 
@@ -84,17 +84,17 @@ Store Package in Refrigerator (see bottom panel for storage conditions)
 
 Rx only Single use only
 
-NDC 50458-308-11
+NDC50458-308-11
 
-RisperdalCONSTA® risperiDONE Long-Acting Injection
+Risperdal CONSTA® risperiDONE Long-Acting Injection
 
 DOSE PACK CONTENTS:
 
 - One 50 mg vial of risperidone extended-release microspheres for injection
 - One pre-filled syringe containing 2 mL of diluent
 - One Vial Adapter
-- One 21-gauge UTW 1" Terumo SurGuard® 3 safety needle for deltoid injection
-- One 20-gauge TW 2" Terumo SurGuard® 3 safety needle for gluteal injection
+- One 21-gauge UTW 1" Terumo SurGuard ®3 safety needle for deltoid injection
+- One 20-gauge TW 2" Terumo SurGuard ®3 safety needle for gluteal injection
 
 Do not substitute any components of the dose pack.
 

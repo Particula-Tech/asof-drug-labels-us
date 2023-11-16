@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Physicians are advised to discuss the following issues with patients for whom they prescribe RISPERDAL CONSTA®.
+Physicians are advised to discuss the following issues with patients for whom they prescribe RISPERDAL CONSTA ®.
 
 Neuroleptic Malignant Syndrome (NMS)
 
@@ -22,17 +22,17 @@ Educate patients about the risk of orthostatic hypotension and syncope, particul
 
 Leukopenia/Neutropenia
 
-Advise patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia that they should have their CBC monitored while being treated with RISPERDAL CONSTA® [see Warnings and Precautions (5.9)].
+Advise patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia that they should have their CBC monitored while being treated with RISPERDAL CONSTA ®[see Warnings and Precautions (5.9)].
 
 Hyperprolactinemia
 
-Counsel patients on signs and symptoms of hyperprolactinemia that may be associated with chronic use of RISPERDAL CONSTA®.
+Counsel patients on signs and symptoms of hyperprolactinemia that may be associated with chronic use of RISPERDAL CONSTA ®.
 Advise them to seek medical attention if they experience any of the following: amenorrhea or galactorrhea in females, erectile dysfunction or gynecomastia in males.
 [See Warnings and Precautions (5.6)].
 
 Interference with Cognitive and Motor Performance
 
-Caution patients about performing activities requiring mental alertness, such as operating hazardous machinery, or operating a motor vehicle, until they are reasonably certain that RISPERDAL CONSTA® therapy does not affect them adversely [see Warnings and Precautions (5.10)].
+Caution patients about performing activities requiring mental alertness, such as operating hazardous machinery, or operating a motor vehicle, until they are reasonably certain that RISPERDAL CONSTA ®therapy does not affect them adversely [see Warnings and Precautions (5.10)].
 
 Priapism
 
@@ -49,19 +49,19 @@ Advise patients to inform their healthcare providers if they are taking, or plan
 
 Alcohol
 
-Advise patients to avoid alcohol during treatment with RISPERDAL CONSTA® [see Drug Interactions (7.1)].
+Advise patients to avoid alcohol during treatment with RISPERDAL CONSTA ®[see Drug Interactions (7.1)].
 
 Pregnancy
 
-Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with RISPERDAL CONSTA®.
-Advise patients that RISPERDAL CONSTA® may cause extrapyramidal and/or withdrawal symptoms in a neonate.
-Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to RISPERDAL CONSTA® during pregnancy [see Use in Specific Populations (8.1)].
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with RISPERDAL CONSTA ®.
+Advise patients that RISPERDAL CONSTA ®may cause extrapyramidal and/or withdrawal symptoms in a neonate.
+Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to RISPERDAL CONSTA ®during pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Advise breastfeeding women using RISPERDAL CONSTA® to monitor infants for somnolence, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements) and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
+Advise breastfeeding women using RISPERDAL CONSTA ®to monitor infants for somnolence, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements) and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
 
 Infertility
 
-Advise females of reproductive potential that RISPERDAL CONSTA® may impair fertility due to an increase in serum prolactin levels.
+Advise females of reproductive potential that RISPERDAL CONSTA ®may impair fertility due to an increase in serum prolactin levels.
 The effects on fertility are reversible [see Use in Specific Populations (8.3)].

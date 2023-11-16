@@ -3,27 +3,27 @@
 ## 12.1 Mechanism of Action
 
 The mechanism of action of risperidone in schizophrenia is unclear.
-The drug's therapeutic activity in schizophrenia could be mediated through a combination of dopamine Type 2 (D2) and serotonin Type 2 (5HT2) receptor antagonism.
+The drug's therapeutic activity in schizophrenia could be mediated through a combination of dopamine Type 2 (D 2) and serotonin Type 2 (5HT 2) receptor antagonism.
 The clinical effect from risperidone results from the combined concentrations of risperidone and its major active metabolite, 9-hydroxyrisperidone (paliperidone) [see Clinical Pharmacology (12.3)].
-Antagonism at receptors other than D2 and 5HT2 may explain some of the other effects of risperidone [see Clinical Pharmacology (12.1)].
+Antagonism at receptors other than D 2and 5HT 2may explain some of the other effects of risperidone [see Clinical Pharmacology (12.1)].
 
 ## 12.2 Pharmacodynamics
 
-Risperidone is a monoaminergic antagonist with high affinity (Ki of 0.12 to 7.3 nM) for the serotonin Type 2 (5HT2), dopamine Type 2 (D2), α1 and α2 adrenergic, and H1 histaminergic receptors.
-Risperidone showed low to moderate affinity (Ki of 47 to 253 nM) for the serotonin 5HT1C, 5HT1D, and 5HT1A receptors, weak affinity (Ki of 620 to 800 nM) for the dopamine D1 and haloperidol-sensitive sigma site, and no affinity (when tested at concentrations >10-5 M) for cholinergic muscarinic or β1 and β2 adrenergic receptors.
+Risperidone is a monoaminergic antagonist with high affinity (Ki of 0.12 to 7.3 nM) for the serotonin Type 2 (5HT 2), dopamine Type 2 (D 2), α1 and α2 adrenergic, and H 1histaminergic receptors.
+Risperidone showed low to moderate affinity (Ki of 47 to 253 nM) for the serotonin 5HT 1C, 5HT 1D, and 5HT 1Areceptors, weak affinity (Ki of 620 to 800 nM) for the dopamine D 1and haloperidol-sensitive sigma site, and no affinity (when tested at concentrations >10 -5M) for cholinergic muscarinic or β1 and β2 adrenergic receptors.
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
-After a single intramuscular (gluteal) injection of RISPERDAL CONSTA®, there is a small initial release of the drug (< 1% of the dose), followed by a lag time of 3 weeks.
+After a single intramuscular (gluteal) injection of RISPERDAL CONSTA ®, there is a small initial release of the drug (< 1% of the dose), followed by a lag time of 3 weeks.
 The main release of the drug starts from 3 weeks onward, is maintained from 4 to 6 weeks, and subsides by 7 weeks following the intramuscular (IM) injection.
-Therefore, oral antipsychotic supplementation should be given during the first 3 weeks of treatment with RISPERDAL CONSTA® to maintain therapeutic levels until the main release of risperidone from the injection site has begun [see Dosage and Administration (2)].
-Following single doses of RISPERDAL CONSTA®, the pharmacokinetics of risperidone, 9-hydroxyrisperidone (the major metabolite), and risperidone plus 9-hydroxyrisperidone were linear in the dosing range of 12.5 mg to 50 mg.
+Therefore, oral antipsychotic supplementation should be given during the first 3 weeks of treatment with RISPERDAL CONSTA ®to maintain therapeutic levels until the main release of risperidone from the injection site has begun [see Dosage and Administration (2)].
+Following single doses of RISPERDAL CONSTA ®, the pharmacokinetics of risperidone, 9-hydroxyrisperidone (the major metabolite), and risperidone plus 9-hydroxyrisperidone were linear in the dosing range of 12.5 mg to 50 mg.
 
-The combination of the release profile and the dosage regimen (IM injections every 2 weeks) of RISPERDAL CONSTA® results in sustained therapeutic concentrations.
+The combination of the release profile and the dosage regimen (IM injections every 2 weeks) of RISPERDAL CONSTA ®results in sustained therapeutic concentrations.
 Steady-state plasma concentrations are reached after 4 injections and are maintained for 4 to 6 weeks after the last injection.
-Following multiple doses of 25 mg and 50 mg RISPERDAL CONSTA®, plasma concentrations of risperidone, 9-hydroxyrisperidone, and risperidone plus 9-hydroxyrisperidone were linear.
+Following multiple doses of 25 mg and 50 mg RISPERDAL CONSTA ®, plasma concentrations of risperidone, 9-hydroxyrisperidone, and risperidone plus 9-hydroxyrisperidone were linear.
 
 Deltoid and gluteal intramuscular injections at the same doses are bioequivalent and, therefore, interchangeable.
 
@@ -49,13 +49,13 @@ CYP 2D6 is subject to genetic polymorphism (about 6%–8% of Caucasians, and a v
 Extensive CYP 2D6 metabolizers convert risperidone rapidly into 9-hydroxyrisperidone, whereas poor CYP 2D6 metabolizers convert it much more slowly.
 Although extensive metabolizers have lower risperidone and higher 9-hydroxyrisperidone concentrations than poor metabolizers, the pharmacokinetics of risperidone and 9-hydroxyrisperidone combined, after single and multiple doses, are similar in extensive and poor metabolizers.
 
-The interactions of RISPERDAL CONSTA® with coadministration of other drugs have not been systematically evaluated in human subjects.
-Drug interactions are based primarily on experience with oral RISPERDAL®.
+The interactions of RISPERDAL CONSTA ®with coadministration of other drugs have not been systematically evaluated in human subjects.
+Drug interactions are based primarily on experience with oral RISPERDAL ®.
 Risperidone could be subject to two kinds of drug-drug interactions.
 First, inhibitors of CYP 2D6 interfere with conversion of risperidone to 9-hydroxyrisperidone [see Drug Interactions (7.11)].
 This occurs with quinidine, giving essentially all recipients a risperidone pharmacokinetic profile typical of poor metabolizers.
-The therapeutic benefits and adverse effects of RISPERDAL® in patients receiving quinidine have not been evaluated, but observations in a modest number (n≅70) of poor metabolizers given oral RISPERDAL® do not suggest important differences between poor and extensive metabolizers.
-Second, co-administration of carbamazepine and other known enzyme inducers (e.g., phenytoin, rifampin, and phenobarbital) with oral RISPERDAL® cause a decrease in the combined plasma concentrations of risperidone and 9-hydroxyrisperidone [see Drug Interactions (7.12)].
+The therapeutic benefits and adverse effects of RISPERDAL ®in patients receiving quinidine have not been evaluated, but observations in a modest number (n≅70) of poor metabolizers given oral RISPERDAL ®do not suggest important differences between poor and extensive metabolizers.
+Second, co-administration of carbamazepine and other known enzyme inducers (e.g., phenytoin, rifampin, and phenobarbital) with oral RISPERDAL ®cause a decrease in the combined plasma concentrations of risperidone and 9-hydroxyrisperidone [see Drug Interactions (7.12)].
 It would also be possible for risperidone to interfere with metabolism of other drugs metabolized by CYP 2D6.
 Relatively weak binding of risperidone to the enzyme suggests this is unlikely [see Drug Interactions (7.11)].
 
@@ -64,27 +64,27 @@ Excretion
 Risperidone and its metabolites are eliminated via the urine and, to a much lesser extent, via the feces.
 As illustrated by a mass balance study of a single 1 mg oral dose of 14C-risperidone administered as solution to three healthy male volunteers, total recovery of radioactivity at 1 week was 84%, including 70% in the urine and 14% in the feces.
 
-The apparent half-life of risperidone plus 9-hydroxyrisperidone following RISPERDAL CONSTA® administration is 3 to 6 days, and is associated with a monoexponential decline in plasma concentrations.
+The apparent half-life of risperidone plus 9-hydroxyrisperidone following RISPERDAL CONSTA ®administration is 3 to 6 days, and is associated with a monoexponential decline in plasma concentrations.
 This half-life of 3–6 days is related to the erosion of the microspheres and subsequent absorption of risperidone.
 The clearance of risperidone and risperidone plus 9-hydroxyrisperidone was 13.7 L/h and 5.0 L/h in extensive CYP 2D6 metabolizers, and 3.3 L/h and 3.2 L/h in poor CYP 2D6 metabolizers, respectively.
-No accumulation of risperidone was observed during long-term use (up to 12 months) in patients treated every 2 weeks with 25 mg or 50 mg RISPERDAL CONSTA®.
+No accumulation of risperidone was observed during long-term use (up to 12 months) in patients treated every 2 weeks with 25 mg or 50 mg RISPERDAL CONSTA ®.
 The elimination phase is complete approximately 7 to 8 weeks after the last injection.
 
 Renal Impairment
 
-In patients with moderate to severe renal disease treated with oral RISPERDAL®, clearance of the sum of risperidone and its active metabolite decreased by 60% compared with young healthy subjects.
-Although patients with renal impairment were not studied with RISPERDAL CONSTA®, it is recommended that patients with renal impairment be carefully titrated on oral RISPERDAL® before treatment with RISPERDAL CONSTA® is initiated at a dose of 25 mg.
+In patients with moderate to severe renal disease treated with oral RISPERDAL ®, clearance of the sum of risperidone and its active metabolite decreased by 60% compared with young healthy subjects.
+Although patients with renal impairment were not studied with RISPERDAL CONSTA ®, it is recommended that patients with renal impairment be carefully titrated on oral RISPERDAL ®before treatment with RISPERDAL CONSTA ®is initiated at a dose of 25 mg.
 A lower initial dose of 12.5 mg may be appropriate when clinical factors warrant dose adjustment, such as in patients with renal impairment [see Dosage and Administration (2.4)].
 
 Hepatic Impairment
 
-While the pharmacokinetics of oral RISPERDAL® in subjects with liver disease were comparable to those in young healthy subjects, the mean free fraction of risperidone in plasma was increased by about 35% because of the diminished concentration of both albumin and α1-acid glycoprotein.
-Although patients with hepatic impairment were not studied with RISPERDAL CONSTA®, it is recommended that patients with hepatic impairment be carefully titrated on oral RISPERDAL® before treatment with RISPERDAL CONSTA® is initiated at a dose of 25 mg.
+While the pharmacokinetics of oral RISPERDAL ®in subjects with liver disease were comparable to those in young healthy subjects, the mean free fraction of risperidone in plasma was increased by about 35% because of the diminished concentration of both albumin and α1-acid glycoprotein.
+Although patients with hepatic impairment were not studied with RISPERDAL CONSTA ®, it is recommended that patients with hepatic impairment be carefully titrated on oral RISPERDAL ®before treatment with RISPERDAL CONSTA ®is initiated at a dose of 25 mg.
 A lower initial dose of 12.5 mg may be appropriate when clinical factors warrant dose adjustment, such as in patients with hepatic impairment [see Dosage and Administration (2.4)].
 
 Elderly
 
-In an open-label trial, steady-state concentrations of risperidone plus 9-hydroxyrisperidone in otherwise healthy elderly patients (≥ 65 years old) treated with RISPERDAL CONSTA® for up to 12 months fell within the range of values observed in otherwise healthy nonelderly patients.
+In an open-label trial, steady-state concentrations of risperidone plus 9-hydroxyrisperidone in otherwise healthy elderly patients (≥ 65 years old) treated with RISPERDAL CONSTA ®for up to 12 months fell within the range of values observed in otherwise healthy nonelderly patients.
 Dosing recommendations are the same for otherwise healthy elderly patients and nonelderly patients [see Dosage and Administration (2)].
 
 Race and Gender Effects
