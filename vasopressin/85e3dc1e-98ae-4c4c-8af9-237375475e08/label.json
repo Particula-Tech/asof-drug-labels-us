@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA214314"
+  ],
+  "inn": "vasopressin",
+  "labeler": "Eugia US LLC",
+  "package_ndcs": [
+    "55150-370-24"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "vasopressin",
+      "name": "VASOPRESSIN"
+    }
+  ],
+  "setid": "85e3dc1e-98ae-4c4c-8af9-237375475e08",
+  "source": "dailymed"
+}
