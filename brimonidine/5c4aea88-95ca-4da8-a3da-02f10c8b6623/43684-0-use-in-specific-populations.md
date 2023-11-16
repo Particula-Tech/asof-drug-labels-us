@@ -29,7 +29,7 @@ Approximately 16% of patients on brimonidine tartrate ophthalmic solution discon
 
 No overall differences in safety or effectiveness have been observed between elderly and other adult patients.
 
-## 8.6 Special Populations
+## 8.6Special Populations
 
 Brimonidine tartrate ophthalmic solution 0.15% has not been studied in patients with hepatic impairment.
 
