@@ -1,7 +1,7 @@
 # INSTRUCTIONS FOR USE
 
-|  | INSTRUCTIONS FOR USE ZEPBOUND™ (ZEHP-bownd) (tirzepatide) injection, for subcutaneous use 2.5 mg/0.5 mL single-dose pen 5 mg/0.5 mL single-dose pen 7.5 mg/0.5 mL single-dose pen 10 mg/0.5 mL single-dose pen 12.5 mg/0.5 mL single-dose pen 15 mg/0.5 mL single-dose pen use 1 time each week |  |
-| --- | --- | --- |
+| INSTRUCTIONS FOR USE ZEPBOUND™ (ZEHP-bownd) (tirzepatide) injection, for subcutaneous use 2.5 mg/0.5 mL single-dose pen 5 mg/0.5 mL single-dose pen 7.5 mg/0.5 mL single-dose pen 10 mg/0.5 mL single-dose pen 12.5 mg/0.5 mL single-dose pen 15 mg/0.5 mL single-dose pen use 1 time each week |
+| --- |
 
 Important information you need to know before injecting ZEPBOUND
 
@@ -16,21 +16,6 @@ Talk to your healthcare provider about how to inject ZEPBOUND the right way.
 - Inject under the skin (subcutaneously) only.
 - You or another person can inject into your stomach (abdomen) or thigh.
 - Another person can inject into the back of your upper arm.
-
-Storage and handling
-
-- Store your pen in the refrigerator between 36°F to 46°F (2°C to 8°C).
-- You may store your pen at room temperature up to 86°F (30°C) for up to 21 days.
-  If you store the pen at room temperature, do not return the pen to the refrigerator.
-- Discard the pen if not used within 21 days after removing from the refrigerator.
-- Do not freeze your pen.
-  If the pen has been frozen, throw the pen away and use a new pen.
-- Store your pen in the original carton to protect your pen from light.
-- The pen has glass parts.
-  Handle it carefully.
-  If you drop the pen on a hard surface, do not use it.
-  Use a new pen for your injection.
-- Keep your ZEPBOUND pen and all medicines out of the reach of children.
 
 Guide to parts
 
@@ -81,6 +66,21 @@ Disposing of your used pen
   There may be state or local laws about how you should throw away used needles and syringes.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal.
 - Do not recycle your used sharps disposal container.
+
+Storage and handling
+
+- Store your pen in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- You may store your pen at room temperature up to 86°F (30°C) for up to 21 days.
+  If you store the pen at room temperature, do not return the pen to the refrigerator.
+- Discard the pen if not used within 21 days after removing from the refrigerator.
+- Do not freeze your pen.
+  If the pen has been frozen, throw the pen away and use a new pen.
+- Store your pen in the original carton to protect your pen from light.
+- The pen has glass parts.
+  Handle it carefully.
+  If you drop the pen on a hard surface, do not use it.
+  Use a new pen for your injection.
+- Keep your ZEPBOUND pen and all medicines out of the reach of children.
 
 Commonly asked questions
 
@@ -144,6 +144,6 @@ Copyright © 2023, Eli Lilly and Company.
 All rights reserved.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Issued: November 2023
+Revised: November 2023
 
-ZEP-0001-PEN-IFU-20231108
+ZEP-0002-PEN-IFU-20231109
