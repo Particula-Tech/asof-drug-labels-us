@@ -5,8 +5,8 @@ The following adverse reactions are described, or described in greater detail, i
 - Anaphylaxis/Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 - Myopathy and Rhabdomyolysis [see Warnings and Precautions (5.2)]
 - Eosinophilic Pneumonia [see Warnings and Precautions (5.3)]
-- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.4)]
-- Tubulointerstitial Nephritis (TIN) [see Warnings and Precautions (5.5)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms [see Warnings and Precautions (5.4)]
+- Tubulointerstitial Nephritis [see Warnings and Precautions (5.5)]
 - Peripheral Neuropathy [see Warnings and Precautions (5.6)]
 - Increased International Normalized Ratio (INR)/Prolonged Prothrombin Time [see Warnings and Precautions (5.11) and Drug Interactions (7.2)]
 
@@ -24,7 +24,7 @@ In Phase 3 complicated skin and skin structure infection (cSSSI) trials in adult
 
 The rates of the most common adverse reactions, organized by body system, observed in adult patients with cSSSI (receiving 4 mg/kg daptomycin for injection) are displayed in Table 6.
 
-Table 6: Incidence of Adverse Reactions that Occurred in ≥ 2% of Adult Patients in the Daptomycin for Injection Treatment Group and ≥ the Comparator Treatment Group in Phase 3 cSSSI Trials
+Table 6: Incidence of Adverse Reactions that Occurred in ≥2% of Adult Patients in the Daptomycin for Injection Treatment Group and ≥ the Comparator Treatment Group in Phase 3 cSSSI Trials
 
 | Daptomycin for Injection 4 mg/kg (N=534) | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). (N=558) |  |
 | --- | --- | --- |
@@ -77,7 +77,7 @@ Gram-negative infections included cholangitis, alcoholic pancreatitis, sternal o
 
 The rates of the most common adverse reactions, organized by System Organ Class (SOC), observed in adult patients with S. aureus bacteremia/endocarditis (receiving 6 mg/kg daptomycin for injection) are displayed in Table 7.
 
-Table 7: Incidence of Adverse Reactions that Occurred in ≥ 5% of Adult Patients in the Daptomycin for Injection Treatment Group and ≥ the Comparator Treatment Group in the S. aureus Bacteremia/Endocarditis Trial
+Table 7: Incidence of Adverse Reactions that Occurred in ≥5% of Adult Patients in the Daptomycin for Injection Treatment Group and ≥ the Comparator Treatment Group in the S. aureus Bacteremia/Endocarditis Trial
 
 | Daptomycin for Injection 6 mg/kg (N=120) | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin. (N=116) |  |
 | --- | --- | --- |
@@ -161,7 +161,7 @@ Table 8: Incidence of CPK Elevations from Baseline during Therapy in Either the 
 S. aureus Bacteremia/Endocarditis Trial in Adults
 
 In the S. aureus bacteremia/endocarditis trial in adult patients, at a dose of 6 mg/kg, 11/120 (9.2%) daptomycin for injection-treated patients, including two patients with baseline CPK levels >500 U/L, had CPK elevations to levels >500 U/L, compared with 1/116 (0.9%) comparator-treated patients.
-Of the 11 daptomycin for injection -treated patients, 4 had prior or concomitant treatment with an HMG-CoA reductase inhibitor.
+Of the 11 daptomycin for injection-treated patients, 4 had prior or concomitant treatment with an HMG-CoA reductase inhibitor.
 Three of these 11 daptomycin for injection-treated patients discontinued therapy due to CPK elevation, while the one comparator-treated patient did not discontinue therapy [see Warnings and Precautions (5.2)].
 
 Clinical Trial Experience in Pediatric Patients
@@ -170,7 +170,7 @@ Complicated Skin and Skin Structure Infection Trial in Pediatric Patients
 
 The safety of daptomycin for injection was evaluated in one clinical trial (in cSSSI), which included 256 pediatric patients (1 to 17 years of age) treated with intravenous daptomycin for injection and 133 patients treated with comparator agents.
 Patients were given age-dependent doses once daily for a treatment period of up to 14 days (median treatment period was 3 days).
-The doses given by age group were as follows: 10 mg/kg for 1 to < 2 years, 9 mg/kg for 2 to 6 years, 7 mg/kg for 7 to 11 years and 5 mg/kg for 12 to 17 years of age [see Clinical Studies (14)].
+The doses given by age group were as follows: 10 mg/kg for 1 to <2 years, 9 mg/kg for 2 to 6 years, 7 mg/kg for 7 to 11 years and 5 mg/kg for 12 to 17 years of age [see Clinical Studies (14)].
 Patients treated with daptomycin for injection were (51%) male, (49%) female and (46%) Caucasian and (32%) Asian.
 
 Adverse Reactions Leading to Discontinuation
@@ -221,12 +221,11 @@ Table 10: Incidence of Adverse Reactions that Occurred in ≥5% of Pediatric Pat
 
 | Adverse Reaction | n (%) | n (%) |
 | --- | --- | --- |
-|  | Daptomycin for Injection (N = 55) | Comparator (N = 26) |
+|  | Daptomycin for Injection (N = 55) | ComparatorComparators included intravenous therapy with either vancomycin, cefazolin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin or cloxacillin) (N = 26) |
 | Gastrointestinal disorders |  |  |
 | Vomiting | 6 (10.9) | 2 (7.7) |
 | Investigations |  |  |
 | Blood CPK increased | 4 (7.3) | 0 |
-| *Comparators included intravenous therapy with either vancomycin, cefazolin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin or cloxacillin) |  |  |
 
 ## 6.2 Post-Marketing Experience
 
@@ -237,7 +236,7 @@ Blood and lymphatic system disorders: anemia, thrombocytopenia
 
 General and administration site conditions: pyrexia
 
-Immune System Disorders: anaphylaxis; hypersensitivity reactions, including angioedema, pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia [see Contraindications (4), Warnings and Precautions (5.1)]
+Immune System Disorders: anaphylaxis; hypersensitivity reactions, including angioedema, pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia [see Contraindications (4) and Warnings and Precautions (5.1)]
 
 Infections and Infestations: Clostridioides difficile–associated diarrhea [see Warnings and Precautions (5.8)]
 
@@ -249,7 +248,7 @@ Respiratory, Thoracic, and Mediastinal Disorders: cough, eosinophilic pneumonia,
 
 Nervous System Disorders: peripheral neuropathy [see Warnings and Precautions (5.6)]
 
-Skin and Subcutaneous Tissue Disorders: serious skin reactions, including drug reaction with eosinophilia and systemic symptoms (DRESS), vesiculobullous rash (with or without mucous membrane involvement, including Stevens-Johnson syndrome [SJS] or toxic epidermal necrolysis [TEN]), acute generalized exanthematous pustulosis [see Warnings and Precautions (5.4)]
+Skin and Subcutaneous Tissue Disorders: serious skin reactions, including drug reaction with eosinophilia and systemic symptoms (DRESS), vesiculobullous rash (with or without mucous membrane involvement, including Stevens-Johnson syndrome [SJS] and toxic epidermal necrolysis [TEN]), and acute generalized exanthematous pustulosis [see Warnings and Precautions (5.4)]
 
 Gastrointestinal Disorders: nausea, vomiting
 

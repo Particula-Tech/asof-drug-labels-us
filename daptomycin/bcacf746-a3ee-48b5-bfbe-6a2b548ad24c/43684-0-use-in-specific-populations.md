@@ -32,7 +32,7 @@ No effects on pre/postnatal development were observed up to the highest dose of 
 
 Risk Summary
 
-Limited published data report that daptomycin is present in human milk at infant doses of 0.1% of the maternal dose [see Data]2,3,4.
+Limited published data report that daptomycin is present in human milk at infant doses of 0.1% of the maternal dose (see Data)2,3,4.
 There is no information on the effects of daptomycin on the breastfed infant or the effects of daptomycin on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Daptomycin for Injection and any potential adverse effects on the breastfed infant from Daptomycin for Injection or from the underlying maternal condition.
 

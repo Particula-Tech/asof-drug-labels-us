@@ -128,7 +128,7 @@ Following administration of multiple doses, daptomycin exposure (AUCss and Cmax,
 
 Table 13: Mean (SD) Daptomycin Population Pharmacokinetic Parameters in cSSSI Pediatric Patients
 
-| Dose (mg/kg) | Infusion Duration (min) | AUCss (mcg∙h/mL) | t1/2 (h) | Vss (mL) | CLT (mL/h/kg) | Cmax,ss (mcg/L) |  |
+| Dose (mg/kg) | Infusion Duration (min) | AUCss (mcg∙h/mL) | t1/2 (h) | Vss (mL) | CLT (mL/h/kg) | Cmax,ss (mcg/mL) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Age | Pharmacokinetic Parameters |  |  |  |  |  |  |
 | 12 to 17 years (N=6) | 5 | 30 | 434 (67.9) | 7.1 (0.9) | 8200 (3250) | 11.8 (2.15) | 76.4 (6.75) |
