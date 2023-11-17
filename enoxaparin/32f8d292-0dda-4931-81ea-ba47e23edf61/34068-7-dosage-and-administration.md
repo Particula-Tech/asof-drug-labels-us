@@ -106,11 +106,25 @@ Remove the prefilled syringe from the packaging by peeling at the arrow as direc
 Do not remove by pulling on the plunger as this may damage the syringe.
 
 1. Remove the needle shield by pulling it straight off the syringe (see Figure A). If less than the full syringe volume is needed to administer the prescribed dose, eject syringe contents until the prescribed dose is left in the syringe.Figure A
-2. Inject using standard technique, pushing the plunger to the bottom of the syringe (see Figure B).Figure B
-3. Remove the syringe from the injection site keeping your finger on the plunger rod (see Figure C).Figure C
-4. Orient the needle away from you and others, and activate the safety system by firmly pushing the plunger rod.
-   The protective sleeve will automatically cover the needle and an audible “click” will be heard to confirm shield activation (see Figure D).Figure D
-5. Immediately dispose of the syringe in the nearest sharps container (see Figure E).
+
+2.
+Inject using standard technique, pushing the plunger to the bottom of the syringe (see Figure B).
+
+Figure B
+
+3.
+Remove the syringe from the injection site keeping your finger on the plunger rod (see Figure C).
+
+Figure C
+
+4.
+Orient the needle away from you and others, and activate the safety system by firmly pushing the plunger rod.
+The protective sleeve will automatically cover the needle and an audible “click” will be heard to confirm shield activation (see Figure D).
+
+Figure D
+
+5.
+Immediately dispose of the syringe in the nearest sharps container (see Figure E).
 
 Figure E
 

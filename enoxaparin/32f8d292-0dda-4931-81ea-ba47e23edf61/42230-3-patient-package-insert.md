@@ -173,7 +173,9 @@ For more information about safe sharps disposal, and for specific information ab
 
 Figure N
 
-Manufactured for: Northstar Rx LLC Memphis, TN 38141
+Manufactured for: Northstar Rx LLC
+
+Memphis, TN 38141
 
 Manufactured by: Nanjing King-Friend Biochemical Pharmaceutical Co., Ltd. Nanjing, China 210061
 
