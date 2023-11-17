@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA013960"
+  ],
+  "inn": "fluocinolone-acetonide",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62559-299-15",
+    "62559-299-60"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "fluocinolone acetonide",
+      "name": "Fluocinolone Acetonide"
+    }
+  ],
+  "setid": "622c9804-0be0-4dec-a6ba-5cf4b5578a84",
+  "source": "dailymed"
+}
