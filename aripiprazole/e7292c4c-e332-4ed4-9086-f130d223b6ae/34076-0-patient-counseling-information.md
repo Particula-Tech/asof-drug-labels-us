@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Discuss the following issues with patients prescribed Aripiprazole:
+Discuss the following issues with patients prescribed aripiprazole:
 
 Clinical Worsening of Depression and Suicide Risk
 
@@ -34,6 +34,10 @@ Heat Exposure and Dehydration
 
 Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.13)].
 
+Sugar Content
+
+Patients should be advised that each mL of Aripiprazole Oral Solution contains 400 mg of sucrose and 200 mg of fructose.
+
 Pregnancy
 
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with aripiprazole.
@@ -48,7 +52,7 @@ Lannett Company, Inc.
 
 Philadelphia, PA 19136
 
-CIB72165A
+CIB72165B
 
 Rev.
-12/2022
+11/2023

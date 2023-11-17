@@ -12,7 +12,7 @@ Aripiprazole has no appreciable affinity for cholinergic muscarinic receptors (I
 
 ## 12.3 Pharmacokinetics
 
-Aripiprazole activity is presumably primarily due to the parent drug, aripiprazole, and to a lesser extent, to its major metabolite, dehydro-aripiprazole, which has been shown to have affinities for D2 receptors similar to the parent drug and represents 40% of the parent drug exposure in plasma.
+Aripiprazole oral solution activity is presumably primarily due to the parent drug, aripiprazole, and to a lesser extent, to its major metabolite, dehydro-aripiprazole, which has been shown to have affinities for D2 receptors similar to the parent drug and represents 40% of the parent drug exposure in plasma.
 The mean elimination half-lives are about 75 hours and 94 hours for aripiprazole and dehydro-aripiprazole, respectively.
 Steady-state concentrations are attained within 14 days of dosing for both active moieties.
 Aripiprazole accumulation is predictable from single-dose pharmacokinetics.
@@ -23,10 +23,6 @@ For CYP2D6 poor metabolizers, the mean elimination half-life for aripiprazole is
 Oral Administration
 
 Absorption
-
-Tablet: Aripiprazole is well absorbed after administration of the tablet, with peak plasma concentrations occurring within 3 hours to 5 hours; the absolute oral bioavailability of the tablet formulation is 87%.
-Aripiprazole can be administered with or without food.
-Administration of a 15 mg aripiprazole tablet with a standard high-fat meal did not significantly affect the Cmax or AUC of aripiprazole or its active metabolite, dehydro-aripiprazole, but delayed Tmax by 3 hours for aripiprazole and 12 hours for dehydro-aripiprazole.
 
 Oral Solution: Aripiprazole is well absorbed when administered orally as the solution.
 At equivalent doses, the plasma concentrations of aripiprazole from the solution were higher than that from the tablet formulation.
@@ -39,47 +35,46 @@ The steady-state volume of distribution of aripiprazole following intravenous ad
 At therapeutic concentrations, aripiprazole and its major metabolite are greater than 99% bound to serum proteins, primarily to albumin.
 In healthy human volunteers administered 0.5 mg/day to 30 aripiprazole for 14 days, there was dose-dependent D2 receptor occupancy indicating brain penetration of aripiprazole in humans.
 
-Elimination
-
-Metabolism
+Metabolism and Elimination
 
 Aripiprazole is metabolized primarily by three biotransformation pathways: dehydrogenation, hydroxylation, and N-dealkylation.
 Based on in vitro studies, CYP3A4 and CYP2D6 enzymes are responsible for dehydrogenation and hydroxylation of aripiprazole, and N-dealkylation is catalyzed by CYP3A4.
 Aripiprazole is the predominant drug moiety in the systemic circulation.
 At steady-state, dehydro-aripiprazole, the active metabolite, represents about 40% of aripiprazole AUC in plasma.
 
-Excretion
-
 Following a single oral dose of [14C]-labeled aripiprazole, approximately 25% and 55% of the administered radioactivity was recovered in the urine and feces, respectively.
 Less than 1% of unchanged aripiprazole was excreted in the urine and approximately 18% of the oral dose was recovered unchanged in the feces.
 
 Drug Interaction Studies
 
-Effect of other drugs on the exposures of aripiprazole and dehydro-aripiprazole are summarized in Figure 1 and Figure 2, respectively.
-Based on simulation, a 4.5 fold increase in mean Cmax and AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
-A 3 fold increase in mean Cmax and AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
+Effects of other drugs on the exposures of aripiprazole and dehydro-aripiprazole are summarized in Figure 1 and Figure 2, respectively.
+Based on simulation, a 4.5-fold increase in mean Cmax and AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
+A 3-fold increase in mean Cmax and AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
 
-Figure 1: The Effect of Other Drugs on Aripiprazole Pharmacokinetics
-
-Effect of Other Drugs on Aripiprazole
-
-Figure 2: The Effect of Other Drugs on Dehydro-Aripiprazole Pharmacokinetics
+Figure 1: The effects of other drugs on aripiprazole pharmacokinetics
 
 Effect of Other Drugs on Aripiprazole
 
-The effect of aripiprazole on the exposures of other drugs are summarized in Figure 3.
+Figure 2: The effects of other drugs on dehydro-aripiprazole pharmacokinetics
 
-Figure 3: The Effect of Aripiprazole on Pharmacokinetics of Other Drugs
+Effect of Other Drugs on Aripiprazole
+
+The effects of aripiprazole on the exposures of other drugs are summarized in Figure 3.
+A population PK analysis in patients with major depressive disorder showed no substantial change in plasma concentrations of fluoxetine (20 or 40 mg/day), paroxetine CR (37.5 or 50 mg/day), or sertraline (100 or 150 mg/day) dosed to steady-state.
+The steady-state plasma concentrations of fluoxetine and norfluoxetine increased by about 18% and 36%, respectively, and concentrations of paroxetine decreased by about 27%.
+The steady-state plasma concentrations of sertraline and desmethylsertraline were not substantially changed when these antidepressant therapies were coadministered with aripiprazole.
+
+Figure 3: The effects of aripiprazole on pharmacokinetics of other drugs
 
 Effect of Aripiprazole on Other Drugs
 
-Specific Populations
+Studies in Specific Populations
 
-Exposure of aripiprazole and dehydro-aripiprazole in specific populations are summarized in Figure 4 and Figure 5, respectively.
+Exposures of aripiprazole and dehydro-aripiprazole in specific populations are summarized in Figure 4 and Figure 5, respectively.
 In addition, in pediatric patients (10 to 17 years of age) administered with aripiprazole (20 mg to 30 mg), the body weight corrected aripiprazole clearance was similar to the adults.
 
-Figure 4: Effect of Intrinsic Factors on Aripiprazole Pharmacokinetics
+Figure 4: Effects of intrinsic factors on aripiprazole pharmacokinetics
 
 Special Populations
 
-Figure 5: Effect of Intrinsic Factors on Dehydro-Aripiprazole Pharmacokinetics
+Figure 5: Effects of intrinsic factors on dehydro-aripiprazole pharmacokinetics

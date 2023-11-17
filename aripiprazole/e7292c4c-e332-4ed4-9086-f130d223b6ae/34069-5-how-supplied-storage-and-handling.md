@@ -5,8 +5,9 @@
 Aripiprazole Oral Solution (1 mg/mL) is supplied in child-resistant bottles along with a calibrated oral dosing cup.
 Aripiprazole Oral Solution is available as follows:
 
-- 150 mL bottle NDC 54838-570-59
-- 237 mL bottle NDC 54838-570-70
+150 mL bottle NDC 54838-570-59
+
+237 mL bottle NDC 54838-570-70
 
 ## 16.2 Storage
 
