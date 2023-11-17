@@ -41,7 +41,7 @@ In patients with hypoproteinemia (e.g., associated with nephrotic syndrome) the 
 Asymptomatic hyperuricemia can occur and gout may rarely be precipitated.
 
 Patients allergic to sulfonamides may also be allergic to furosemide.
-The possibility exists of exacerbation or activation of systemic lupus erythematosus
+The possibility exists of exacerbation or activation of systemic lupus erythematosus.
 
 As with many other drugs, patients should be observed regularly for the possible occurrence of blood dyscrasias, liver or kidney damage, or other idiosyncratic reactions.
 
@@ -133,7 +133,7 @@ Furosemide produced no impairment of fertility in male or female rats, at 100 mg
 
 ## Pregnancy
 
-Teratogenic Effects:Pregnancy Category C. Furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits at 2, 4, and 8 times the maximal recommended human oral dose.
+Teratogenic Effects: Pregnancy Category C. Furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits at 2, 4, and 8 times the maximal recommended human oral dose.
 There are no adequate and well-controlled studies in pregnant women.
 Furosemide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 

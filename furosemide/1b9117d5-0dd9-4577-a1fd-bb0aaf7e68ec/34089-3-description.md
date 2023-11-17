@@ -15,4 +15,4 @@ Molecular Formula: Molecular Weight:
 
 C12H11ClN2O3S 330.74
 
-Each mL contains: Furosemide USP 10 mg, Water for Injection q.s., Sodium Chloride for isotonicity, Sodium Hydroxide and, if necessary, Hydrochloric Acid to adjust pH between 8.0 and 9.3.
+Each mL contains: Furosemide USP, 10 mg, Water for Injection q.s., Sodium Chloride for isotonicity, Sodium Hydroxide and, if necessary, Hydrochloric Acid to adjust pH between 8.0 and 9.3.

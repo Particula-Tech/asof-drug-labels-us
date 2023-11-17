@@ -39,4 +39,4 @@ Adverse reactions are categorized below by organ system and listed by decreasing
 
 Whenever adverse reactions are moderate or severe, furosemide dosage should be reduced or therapy withdrawn.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Avet Pharmaceuticals Inc. at 1-866-901-DRUG (3784) or FDA at 1-800-FDA-1088 orwww.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Avet Pharmaceuticals Inc. at 1-866-901-DRUG (3784) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

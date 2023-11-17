@@ -19,7 +19,8 @@ Close medical supervision is necessary.
 When furosemide is given for prolonged periods, careful clinical observation and laboratory monitoring are particularly advisable.
 (See PRECAUTIONS: Laboratory Tests.)
 
-If the physician elects to use high dose parenteral therapy, add the furosemide to either Sodium Chloride Injection USP, Lactated Ringer's Injection USP, or Dextrose (5%) Injection USP after pH has been adjusted to above 5.5, and administer as a controlled intravenous infusion at a rate not greater than 4 mg/min Furosemide Injection is a buffered alkaline solution with a pH of about 9 and drug may precipitate at pH values below 7.
+If the physician elects to use high dose parenteral therapy, add the furosemide to either Sodium Chloride Injection, USP, Lactated Ringer's Injection, USP, or Dextrose (5%) Injection, USP after pH has been adjusted to above 5.5, and administer as a controlled intravenous infusion at a rate not greater than 4 mg/min.
+Furosemide Injection is a buffered alkaline solution with a pH of about 9 and drug may precipitate at pH values below 7.
 Care must be taken to ensure that the pH of the prepared infusion solution is in the weakly alkaline to neutral range.
 Acid solutions, including other parenteral medications (e.g., labetalol, ciprofloxacin, amrinone, milrinone) must not be administered concurrently in the same infusion because they may cause precipitation of the furosemide.
 In addition, furosemide injection should not be added to a running intravenous line containing any of these acidic products.
@@ -29,7 +30,7 @@ Acute Pulmonary Edema
 The usual initial dose of furosemide is 40 mg injected slowly intravenously (over 1 to 2 minutes).
 If a satisfactory response does not occur within 1 hour, the dose may be increased to 80 mg injected slowly intravenously (over 1 to 2 minutes).
 
-If necessary, additional therapy (e.g., digitalis, oxygen) may be administered concomitantly
+If necessary, additional therapy (e.g., digitalis, oxygen) may be administered concomitantly.
 
 Geriatric Patients
 
