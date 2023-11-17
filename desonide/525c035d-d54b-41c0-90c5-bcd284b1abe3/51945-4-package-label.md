@@ -1,5 +1,7 @@
 # PRINCIPAL DISPLAY PANEL - Carton
 
+NDC 45802-423-35
+
 Rx Only
 
 Desonide Ointment, 0.05%

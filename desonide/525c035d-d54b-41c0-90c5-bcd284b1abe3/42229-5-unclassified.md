@@ -1,17 +1,17 @@
 For Dermatologic Use Only
 
-Not for Ophthalmic Use
+Not For Ophthalmic Use
 
 Rx Only
 
-Manufactured By Perrigo
+Manufactured By Padagis
 
-Bronx, NY 10457
+Yeruham, Israel
 
-Distributed By Perrigo
+Distributed By Padagis
 
-Allegan, MI 49010 • www.perrigo.com
+Allegan, MI 49010 • www.padagis.com
 
-Rev 05-15
+Rev 12-22
 
-: 1F100 RC JX1
+83P00 RC J1

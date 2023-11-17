@@ -7,7 +7,7 @@ Chemically, desonide, the active ingredient in Desonide Ointment, 0.05% is C24H3
 It has the following structural formula:
 
 The molecular weight of desonide is 416.51.
-It is white to off-white powder.
-The solubility of desonide in distilled water saturated with the ether is 184 mg/L.
+It is a white to off-white powder.
+The solubility of desonide in distilled water saturated with ether is 184 mg/L.
 
 Each gram of Desonide Ointment, 0.05% contains 0.5 milligram of desonide microdispersed in a base of white petrolatum.
