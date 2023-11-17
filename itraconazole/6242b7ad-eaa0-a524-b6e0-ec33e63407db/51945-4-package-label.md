@@ -6,9 +6,9 @@ Contains 7 pouches x 4 capsules each
 
 100 mg Itraconazole Capsules DosingPak
 
-Each capsule contains: itraconazole 100 mg
+Each capsule contains:itraconazole 100 mg
 
-Dosage: See accompanying product literature.
+Dosage:See accompanying product literature.
 
 Store at controlled room temperature 15°-25°C (59°-77°F).
 

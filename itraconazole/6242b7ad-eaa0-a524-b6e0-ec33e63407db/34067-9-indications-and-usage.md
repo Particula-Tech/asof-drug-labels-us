@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Itraconazole Capsules are indicated for the treatment of the following fungal infections in immunocompromised and non-immunocompromised patients:
+Itraconazole Capsules are indicated for the treatment of the following fungal infections in immunocompromised and non-immunocompromisedpatients:
 
 1. Blastomycosis, pulmonary and extrapulmonary
 2. Histoplasmosis, including chronic cavitary pulmonary disease and disseminated, non-meningeal histoplasmosis, and
@@ -9,14 +9,14 @@ Itraconazole Capsules are indicated for the treatment of the following fungal in
 Specimens for fungal cultures and other relevant laboratory studies (wet mount, histopathology, serology) should be obtained before therapy to isolate and identify causative organisms.
 Therapy may be instituted before the results of the cultures and other laboratory studies are known; however, once these results become available, antiinfective therapy should be adjusted accordingly.
 
-Itraconazole Capsules are also indicated for the treatment of the following fungal infections in non-immunocompromised patients:
+Itraconazole Capsules are also indicated for the treatment of the following fungal infections in non-immunocompromisedpatients:
 
 1. Onychomycosis of the toenail, with or without fingernail involvement, due to dermatophytes (tinea unguium), and
 2. Onychomycosis of the fingernail due to dermatophytes (tinea unguium).
 
 Prior to initiating treatment, appropriate nail specimens for laboratory testing (KOH preparation, fungal culture, or nail biopsy) should be obtained to confirm the diagnosis of onychomycosis.
 
-(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and ADVERSE REACTIONS: Post-marketing Experience for more information.)
+(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and ADVERSE REACTIONS: Post-marketing Experiencefor more information.)
 
 ## Description of Clinical Studies
 

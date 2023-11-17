@@ -5,5 +5,3 @@ The capsules are supplied in bottles of 30 capsules (NDC 10147-1700-3).
 
 Store at controlled room temperature 15°–25°C (59°–77°F).
 Protect from light and moisture.
-
-Keep out of reach of children.

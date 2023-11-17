@@ -3,7 +3,7 @@
 Itraconazole Capsules should be taken with a full meal to ensure maximal absorption.
 Itraconazole Capsules must be swallowed whole.
 
-Itraconazole Capsules are a different preparation than SPORANOX® (itraconazole) Oral Solution and should not be used interchangeably.
+Itraconazole Capsules are a different preparation than SPORANOX ®(itraconazole) Oral Solution and should not be used interchangeably.
 
 ## Treatment of Blastomycosis and Histoplasmosis
 
@@ -24,8 +24,8 @@ Although clinical studies did not provide for a loading dose, it is recommended,
 Treatment should be continued for a minimum of three months and until clinical parameters and laboratory tests indicate that the active fungal infection has subsided.
 An inadequate period of treatment may lead to recurrence of active infection.
 
-Itraconazole Capsules and SPORANOX® (itraconazole) Oral Solution should not be used interchangeably.
-Only the oral solution has been demonstrated effective for oral and/or esophageal candidiasis.
+Itraconazole Capsules and SPORANOX ®(itraconazole) Oral Solution should not be used interchangeably.
+Only the Oral Solution has been demonstrated effective for oral and/or esophageal candidiasis.
 
 ## Treatment of Onychomycosis
 
@@ -45,7 +45,7 @@ The pulses are separated by a 3-week period without itraconazole.
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
 Caution should be exercised when this drug is administered in this patient population.
-(See CLINICAL PHARMACOLOGY: Special Populations and PRECAUTIONS.)
+(See CLINICAL PHARMACOLOGY: Special Populationsand PRECAUTIONS.)
 
 ## Use in Patients with Hepatic Impairment
 

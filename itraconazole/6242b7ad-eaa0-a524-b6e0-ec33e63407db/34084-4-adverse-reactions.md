@@ -6,7 +6,7 @@ Itraconazole has been associated with rare cases of serious hepatotoxicity, incl
 Some of these cases had neither pre-existing liver disease nor a serious underlying medical condition.
 If clinical signs or symptoms develop that are consistent with liver disease, treatment should be discontinued and liver function testing performed.
 The risks and benefits of itraconazole use should be reassessed.
-(See WARNINGS: Hepatic Effects and PRECAUTIONS: Hepatotoxicity and Information for Patients.)
+(See WARNINGS: Hepatic Effectsand PRECAUTIONS: Hepatotoxicityand Information for Patients.)
 
 ## Adverse Events in the Treatment of Systemic Fungal Infections
 
@@ -31,7 +31,7 @@ Table 3: Clinical Trials of Systemic Fungal Infections: Adverse Events Occurring
 | Fever | 3 |
 | Malaise | 1 |
 | Skin and Appendages |  |
-| RashRash tends to occur more frequently in immunocompromised patients receiving immunosuppressive medications. | 9 |
+| Rash Rash tends to occur more frequently in immunocompromised patients receiving immunosuppressive medications. | 9 |
 | Pruritus | 3 |
 | Central/Peripheral Nervous System |  |
 | Headache | 4 |
@@ -92,36 +92,36 @@ The following adverse events occurred with an incidence of greater than or equal
 
 ## Adverse Events Reported from Other Clinical Trials
 
-In addition, the following adverse drug reaction was reported in patients who participated in Itraconazole Capsules clinical trials: Hepatobiliary Disorders: hyperbilirubinemia.
+In addition, the following adverse drug reaction was reported in patients who participated in Itraconazole Capsules clinical trials: Hepatobiliary Disorders:hyperbilirubinemia.
 
-The following is a list of additional adverse drug reactions associated with itraconazole that have been reported in clinical trials of SPORANOX® Oral Solution and itraconazole IV excluding the adverse reaction term "Injection site inflammation" which is specific to the injection route of administration:
+The following is a list of additional adverse drug reactions associated with itraconazole that have been reported in clinical trials of SPORANOX ®Oral Solution and itraconazole IV excluding the adverse reaction term "Injection site inflammation" which is specific to the injection route of administration:
 
-Cardiac Disorders: cardiac failure, left ventricular failure, tachycardia;
+Cardiac Disorders:cardiac failure, left ventricular failure, tachycardia;
 
-General Disorders and Administration Site Conditions: face edema, chest pain, chills;
+General Disorders and Administration Site Conditions:face edema, chest pain, chills;
 
-Hepatobiliary Disorders: hepatic failure, jaundice;
+Hepatobiliary Disorders:hepatic failure, jaundice;
 
-Investigations: alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood lactate dehydrogenase increased, blood urea increased, gamma-glutamyltransferase increased, urine analysis abnormal;
+Investigations:alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood lactate dehydrogenase increased, blood urea increased, gamma-glutamyltransferase increased, urine analysis abnormal;
 
-Metabolism and Nutrition Disorders: hyperglycemia, hyperkalemia, hypomagnesemia;
+Metabolism and Nutrition Disorders:hyperglycemia, hyperkalemia, hypomagnesemia;
 
-Psychiatric Disorders: confusional state;
+Psychiatric Disorders:confusional state;
 
-Renal and Urinary Disorders: renal impairment;
+Renal and Urinary Disorders:renal impairment;
 
-Respiratory, Thoracic and Mediastinal Disorders: dysphonia, cough;
+Respiratory, Thoracic and Mediastinal Disorders:dysphonia, cough;
 
-Skin and Subcutaneous Tissue Disorders: rash erythematous, hyperhidrosis;
+Skin and Subcutaneous Tissue Disorders:rash erythematous, hyperhidrosis;
 
-Vascular Disorders: hypotension
+Vascular Disorders:hypotension
 
 ## Post-marketing Experience
 
 Adverse drug reactions that have been first identified during post-marketing experience with itraconazole (all formulations) are listed in the table below.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
 
-Table 6: Postmarketing Reports of Adverse Drug Reactions
+Table 6: Post-marketing Reports of Adverse Drug Reactions
 
 | Blood and Lymphatic System Disorders: | Leukopenia, neutropenia, thrombocytopenia |
 | --- | --- |
@@ -143,4 +143,4 @@ Table 6: Postmarketing Reports of Adverse Drug Reactions
 There is limited information on the use of itraconazole during pregnancy.
 Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during post-marketing experience.
 A causal relationship with itraconazole has not been established.
-(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Drug Interactions for more information.)
+(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Drug Interactionsfor more information.)
