@@ -110,6 +110,7 @@ If myocardial hypertrophy is diagnosed, dosage reduction or discontinuation of t
 Whenever possible, administer the complete complement of vaccines before transplantation and treatment with tacrolimus.
 
 The use of live vaccines should be avoided during treatment with tacrolimus; examples include (not limited to) the following: intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines.
+
 Inactivated vaccines noted to be safe for administration after transplantation may not be sufficiently immunogenic during treatment with tacrolimus.
 
 ## 5.15 Pure Red Cell Aplasia
@@ -128,3 +129,8 @@ These risk factors may, either alone or combined, contribute to the risk of TMA.
 
 In patients with signs and symptoms of TMA, consider tacrolimus as a risk factor.
 Concurrent use of tacrolimus and mTOR inhibitors may contribute to the risk of TMA.
+
+## 5.17 Cannabidiol Drug Interactions
+
+When cannabidiol and tacrolimus are co-administered, closely monitor for an increase in tacrolimus blood levels and for adverse reactions suggestive of tacrolimus toxicity.
+A dose reduction of tacrolimus should be considered as needed when tacrolimus is co-administered with cannabidiol [see Dosage and Administration (2.2, 2.6) and Drug Interactions (7.3)].
