@@ -63,8 +63,8 @@ Because of considerable variability of pharmacodynamic interactions, the dosage 
 |  | Dronedarone | Sudden death was more common in patients receiving digoxin with dronedarone than on either alone; it is not clear whether this represents an interaction or is related to the presence of advanced heart disease, a known risk factor for sudden death in patients receiving digoxin. |
 | Parathyroid Hormone Analog | Teriparatide | Sporadic case reports have suggested that hypercalcemia may predispose patients to digitalis toxicity. Teriparatide transiently increases serum calcium. |
 | Thyroid supplement | Thyroid | Treatment of hypothyroidism in patients taking digoxin may increase the dose requirements of digoxin. |
-| Sympathomimetics | Epinephrine Norepinephrine Dopamine | Can increase the risk of cardiac arrhythmias |
-| Neuromuscular Blocking Agents | Succinylcholine | May cause sudden extrusion of potassium from muscle cells causing arrhythmias in patients taking digoxin. |
+| Sympathomimetics | Epinephrine Norepinephrine Dopamine | Can increase the risk of cardiac arrhythmias. |
+| Neuromuscular Blocking Agents | Succinylcholine | May cause sudden extrusion of potassium from muscle cells, causing arrhythmias in patients taking digoxin. |
 | Supplements | Calcium | If administered rapidly by intravenous route, can produce serious arrhythmias in digitalized patients. |
 | Beta-adrenergic blockers and calcium channel blockers |  | Additive effects on AV node conduction can result in bradycardia and advanced or complete heart block. |
 | Hyperpolarization-activated cyclic nucleotide-gated channel blocker | Ivabradine | Can increase the risk of bradycardia. |

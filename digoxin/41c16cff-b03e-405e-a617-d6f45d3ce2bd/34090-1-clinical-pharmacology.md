@@ -88,7 +88,7 @@ This difference is not likely to be clinically important.
 
 Hepatic Impairment: Because only a small percentage (approximately 13%) of a dose of digoxin undergoes metabolism, hepatic impairment would not be expected to significantly alter the pharmacokinetics of digoxin.
 In a small study, plasma digoxin concentration profiles in patients with acute hepatitis generally fell within the range of profiles in a group of healthy subjects.
-No dosage adjustments are recommended for patients with hepatic impairment; however, serum digoxin concentrations should be used as appropriate to help guide dosing in these patients.
+No dosage adjustments are recommended for patients with hepatic impairment; however, serum digoxin concentrations should be used, as appropriate, to help guide dosing in these patients.
 
 Renal Impairment: Since the clearance of digoxin correlates with creatinine clearance, patients with renal impairment generally demonstrate prolonged digoxin elimination half-lives and greater exposures to digoxin.
 Therefore, titrate carefully in these patients based on clinical response and based on monitoring of serum digoxin concentrations, as appropriate.
