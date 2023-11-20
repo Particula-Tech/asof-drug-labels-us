@@ -18,13 +18,21 @@ Adverse reactions occurring in ≥2% of patients receiving Clindesse in the plac
 Table 1.
 Adverse Reactions Occurring in ≥2% of Clindesse-Treated Patients and at a Higher Rate than Placebo-Treated Patients
 
+| Adverse Event | Clindesse N=85 n (%) | Placebo N=85 n (%) |
+| --- | --- | --- |
+| Vaginosis fungal NOS* | 12 (14) | 7 (8) |
+| Headache NOS | 6 (7) | 2 (2) |
+| Back Pain | 4 (5) | 1 (1) |
+| Constipation | 2 (2) | 0 (0) |
+| Urinary tract infection NOS | 2 (2) | 0 (0) |
+
 N = number of patients in intent-to-treat population
 
 n (%) = number and percentage of patients with reported adverse reaction
 
 NOS = not otherwise specified
 
-- The use of clindamycin may result in the overgrowth of non-susceptible fungal organisms in the vagina and may require antifungal treatment
+- *The use of clindamycin may result in the overgrowth of non-susceptible fungal organisms in the vagina and may require antifungal treatment
 - Other reactions reported by <1% of those women treated with Clindesse include:
 - Dermatologic: Pruritic rash
 - Gastrointestinal: Diarrhea, vomiting
@@ -40,7 +48,7 @@ Data from well-controlled trials directly comparing clindamycin administered ora
 
 The following additional adverse reactions and altered laboratory tests have been reported with the oral or parenteral use of clindamycin:
 
-Gastrointestinal: Abdominal pain, esophagitis, nausea, Clostridium difficile-associated diarrhea [see Warnings and Precautions (5.1)].
+Gastrointestinal: Abdominal pain, esophagitis, nausea, Clostridioides difficile-associated diarrhea [see Warnings and Precautions (5.1)].
 
 Hematopoietic: Transient neutropenia (leukopenia), eosinophilia, agranulocytosis, and thrombocytopenia have been reported.
 No direct etiologic relationship to concurrent clindamycin therapy could be made in any of these reports.

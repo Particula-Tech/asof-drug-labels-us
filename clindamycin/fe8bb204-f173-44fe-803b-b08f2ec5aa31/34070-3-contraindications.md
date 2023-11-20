@@ -7,4 +7,4 @@ Reported reactions to other formulations of clindamycin include rashes, urticari
 
 ## 4.2 History of Bowel Disease
 
-Do not administer Clindesse to patients with regional enteritis, ulcerative colitis, or a history of Clostridium difficile-associated diarrhea.
+Do not administer Clindesse to patients with regional enteritis, ulcerative colitis, or a history of Clostridioides difficile-associated diarrhea.

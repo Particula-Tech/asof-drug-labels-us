@@ -22,7 +22,7 @@ Clindesse is a vaginal cream medicine used to treat bacterial vaginal infections
 
 It is not known if Clindesse is safe and effective in pregnant women.
 
-It not known if Clindesse is safe and effective in females who have not yet reached puberty.
+It is not known if Clindesse is safe and effective in females who have not yet reached puberty.
 
 Who should not use Clindesse?
 
@@ -30,10 +30,10 @@ Do not use Clindesse if you:
 
 - •have had an allergic reaction to clindamycin or other lincosamide antibiotic medicines or are allergic to any of the ingredients in Clindesse.
   See the end of this leaflet for a complete list of ingredients in Clindesse.
-- •had had bowel problems such as:
+- •have had bowel problems such as:
   - ∘inflammation of your intestines (enteritis)
   - ∘inflammation of your colon (colitis)
-  - ∘diarrhea due to a Clostridum difficile infection (CDAD)
+  - ∘diarrhea due to a Clostridioides difficile infection (CDAD)
 
 Talk to your healthcare provider before using this medicine if you have any of these conditions.
 
@@ -76,7 +76,7 @@ After you insert Clindesse you should:
 What are the possible side effects of Clindesse?
 
 Clindesse may cause serious side effects, including diarrhea.
-One type of diarrhea is caused by an infection in your intestines called Clostridium difficile-associated diarrhea (CDAD).
+One type of diarrhea is caused by an infection in your intestines called Clostridioides difficile-associated diarrhea (CDAD).
 If you have diarrhea after you use Clindesse, call your healthcare provider.
 
 The most common side effects of Clindesse include:
@@ -88,7 +88,7 @@ The most common side effects of Clindesse include:
 - •constipation
 - •urinary tract infection
 
-Tell your healthcare provider if you have any side effect that bothers you or that does not away.
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
 These are not all of the possible side effects of Clindesse.
 For more information, ask your healthcare provider or pharmacist.
@@ -98,18 +98,19 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Clindesse?
 
-- •Store Clindesse at 68° to 77°F (20° to 25°).
+- •Store Clindesse at 68°F to 77°F (20°C to 25°C).
 - •Keep Clindesse and all medicines out of the reach of children.
 
 General information about the safe and effective use of Clindesse.
 
 Medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet.
+Do not use Clindesse for a condition for which it was not prescribed.
 Do not give Clindesse to other people, even if they have the same symptoms you have.
 It may harm them.
 
 This leaflet summarizes the most important information about Clindesse.
 If you would like more information, talk with your healthcare provider.
-You can ask your pharmacist or healthcare provider for information Clindesse that is written for health professionals.
+You can ask your pharmacist or healthcare provider for information about Clindesse that is written for health professionals.
 
 For more information, go to www.clindesse.com or call 1-866-634-9120
 

@@ -2,4 +2,4 @@
 
 ## 1.1 Treatment of Bacterial Vaginosis
 
-Clindesse is indication for the treatment of bacterial vaginosis (formerly referred to as Haemophilus vaginitis, Gardnerellavaginitis, nonspecific vaginitis, Corynebacteriumvaginitis, or anaerobic vaginosis) in non-pregnant women.
+Clindesse is indicated for the treatment of bacterial vaginosis (formerly referred to as Haemophilus vaginitis, Gardnerella vaginitis, nonspecific vaginitis, Corynebacterium vaginitis, or anaerobic vaginosis) in non-pregnant women.

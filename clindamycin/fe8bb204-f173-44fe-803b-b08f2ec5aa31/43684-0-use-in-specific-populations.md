@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category B
+Pregnancy Category B
 
 Clindesse should be used during pregnancy only if clearly needed.
 There are no adequate and well-controlled studies of Clindesse in pregnant women.
@@ -10,7 +10,7 @@ There are no adequate and well-controlled studies of Clindesse in pregnant women
 Another intravaginal formulation containing 2% clindamycin phosphate has been studied in pregnant women during the second trimester.
 In women treated for seven days, abnormal labor was reported in 1.1% of patients who received that clindamycin vaginal cream formulation compared with 0.5% of patients who received placebo.
 
-Reproduction studies have been performed in rats and mice using oral and parenteral doses of clindamycin up to 600/mg/kg/day (58 and 29 times, respectively, the recommended human dose based on body surface area comparisons) and have revealed no evidence of harm to the fetus due to clindamycin.
+Reproduction studies have been performed in rats and mice using oral and parenteral doses of clindamycin up to 600 mg/kg/day (58 and 29 times, respectively, the recommended human dose based on body surface area comparisons) and have revealed no evidence of harm to the fetus due to clindamycin.
 
 Because animal reproduction studies are not always predictive of human response, Clindesse should be used during pregnancy only if clearly needed.
 
