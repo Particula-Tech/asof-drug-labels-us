@@ -33,11 +33,10 @@ If dosage must be increased, dividing the dose should be considered in order to 
 
 Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
-## Diabetes and Hypoglycemia
+## Hypoglycemia
 
-TENORMIN should be used with caution in diabetic patients if a beta-blocking agent is required.
-Beta-blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
-At recommended doses TENORMIN does not potentiate insulin-induced hypoglycemia and, unlike nonselective beta-blockers, does not delay recovery of blood glucose to normal levels.
+Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting).
+If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment.
 
 ## Thyrotoxicosis
 
@@ -78,6 +77,11 @@ The drug should be used with caution in patients with impaired renal function.
 
 *Based on the maximum dose of 100 mg/day in a 50 kg patient.
 
+## Information for Patients
+
+Inform patients or caregivers that there is a risk of hypoglycemia when TENORMIN is given to patients who are fasting or who are vomiting.
+Monitor for symptoms of hypoglycemia.
+
 ## Drug Interactions
 
 Catecholamine-depleting drugs (e.g., reserpine) may have an additive effect when given with beta-blocking agents.
@@ -117,9 +121,7 @@ Fertility of male or female rats (evaluated at dose levels as high as 200 mg/kg/
 
 Chronic studies employing oral atenolol performed in animals have revealed the occurrence of vacuolation of epithelial cells of Brunner’s glands in the duodenum of both male and female dogs at all tested dose levels of atenolol (starting at 15 mg/kg/day or 7.5 times the maximum recommended human antihypertensive dose*) and increased incidence of atrial degeneration of hearts of male rats at 300 but not 150 mg atenolol/kg/day (150 and 75 times the maximum recommended human antihypertensive dose,* respectively).
 
-## Usage in Pregnancy
-
-Pregnancy Category D
+## Pregnancy
 
 See WARNINGS - Pregnancy and Fetal Injury.
 

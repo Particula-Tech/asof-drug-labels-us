@@ -6,4 +6,4 @@ Distributed by: Almatica Pharma LLC Morristown, NJ 07960 USA
 
 Product of India
 
-PI429-06 Revised: 06/2021
+PI429-07 Revised: 08/2023
