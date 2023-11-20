@@ -8,10 +8,6 @@ The binding to the (H+, K+)-ATPase results in a duration of antisecretory effect
 
 ## 12.2 Pharmacodynamics
 
-Pantoprazole sodium delayed-release tablets suppressed pentagastrin-stimulated MAO in patients (n = 49) with GERD and a history of EE.
-In this multicenter, pharmacodynamic crossover study, a 40 mg oral dose of pantoprazole sodium delayed-release tablets was administered once daily for 7 days, thirty minutes before breakfast.
-Pentagastrin-stimulated (MAO) was assessed from hour 23 to 24 at steady state.
-
 ### Antisecretory Activity
 
 Under maximal acid stimulatory conditions using pentagastrin, a dose-dependent decrease in gastric acid output occurs after a single dose of oral (20 to 80 mg) or a single dose of intravenous (20 to 120 mg) pantoprazole in healthy subjects.
@@ -44,7 +40,7 @@ A similar increase in serum gastrin levels was noted at the 8-week visit with me
 Median serum gastrin levels remained within normal limits during maintenance therapy with pantoprazole sodium delayed-release tablets.
 In long-term international studies involving over 800 patients, a 2- to 3-fold mean increase from the pretreatment fasting serum gastrin level was observed in the initial months of treatment with pantoprazole at doses of 40 mg per day during GERD maintenance studies and 40 mg or higher per day in patients with refractory GERD.
 Fasting serum gastrin levels generally remained at approximately 2 to 3 times baseline for up to 4 years of periodic follow-up in clinical trials.
-Following short-term treatment with pantoprazole sodium delayed-release tablets, elevated gastrin levels return to normal by at least 3 months.
+Following short-term treatment with pantoprazole sodium, elevated gastrin levels return to normal by at least 3 months.
 
 ### Enterochromaffin-Like (ECL) Cell Effects
 
@@ -57,9 +53,9 @@ In a separate study, a gastric NE-cell tumor without concomitant ECL-cell prolif
 
 Endocrine Effects
 
-In a clinical pharmacology study, pantoprazole sodium delayed-release tablets 40 mg given once daily for 2 weeks had no effect on the levels of the following hormones: cortisol, testosterone, triiodothyronine (T3), thyroxine (T4), thyroid-stimulating hormone (TSH), thyronine-binding protein, parathyroid hormone, insulin, glucagon, renin, aldosterone, follicle-stimulating hormone, luteinizing hormone, prolactin, and growth hormone.
+In a clinical pharmacology study, pantoprazole sodium 40 mg given once daily for 2 weeks had no effect on the levels of the following hormones: cortisol, testosterone, triiodothyronine (T3), thyroxine (T4), thyroid-stimulating hormone (TSH), thyronine-binding protein, parathyroid hormone, insulin, glucagon, renin, aldosterone, follicle-stimulating hormone, luteinizing hormone, prolactin, and growth hormone.
 
-In a 1-year study of GERD patients treated with pantoprazole sodium delayed-release tablets 40 mg or 20 mg, there were no changes from baseline in overall levels of T3, T4, and TSH.
+In a 1-year study of GERD patients treated with pantoprazole sodium 40 mg or 20 mg, there were no changes from baseline in overall levels of T3, T4, and TSH.
 
 ## 12.3 Pharmacokinetics
 
@@ -108,7 +104,6 @@ Only slight to moderate increases in the AUC (43%) and Cmax (26%) of pantoprazol
 Pediatric Patients
 
 The pharmacokinetics of pantoprazole were studied in children less than 16 years of age in four randomized, open-label clinical trials in pediatric patients with presumed/proven GERD.
-Pantoprazole sodium delayed-release tablets were studied in children older than 5 years.
 
 In a population PK analysis, total clearance increased with increasing bodyweight in a non-linear fashion.
 The total clearance also increased with increasing age only in children under 3 years of age.
@@ -118,10 +113,10 @@ Neonate through 5 Years of Age [see Use in Specific Populations (8.4)]
 Children and Adolescents 6 through 16 Years of Age
 
 The pharmacokinetics of pantoprazole sodium delayed-release tablets were evaluated in children ages 6 through 16 years with a clinical diagnosis of GERD.
-The PK parameters following a single oral dose of 20 mg or 40 mg of pantoprazole sodium delayed-release tablets in children ages 6 through 16 years were highly variable (%CV ranges 40 to 80%).
+The PK parameters following a single oral dose of 20 mg or 40 mg of pantoprazole sodium in children ages 6 through 16 years were highly variable (%CV ranges 40 to 80%).
 The geometric mean AUC estimated from population PK analysis after a 40 mg pantoprazole sodium delayed-release tablet in pediatric patients was about 39% and 10% higher respectively in 6 to 11 and 12 to 16 year-old children, compared to that of adults (Table 7).
 
-Table 7: PK Parameters in Children and Adolescents 6 through 16 years with GERD receiving 40 mg Pantoprazole Sodium Delayed-Release Tablets
+Table 7: PK Parameters in Children and Adolescents 6 through 16 years with GERD receiving 40 mg Pantoprazole Sodium
 
 |  | 6 to 11 years (n=12) | 12 to 16 years (n=11) |
 | --- | --- | --- |

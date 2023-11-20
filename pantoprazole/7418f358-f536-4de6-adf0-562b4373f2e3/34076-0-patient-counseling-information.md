@@ -17,18 +17,18 @@ Bone Fracture
 Advise patients to report any fractures, especially of the hip, wrist or spine, to their healthcare provider [see Warnings and Precautions (5.4)].
 Severe Cutaneous Adverse Reactions
 
-Advise patients to discontinue pantoprazole sodium delayed-release tablets and immediately call their healthcare provider for further evaluation [see Warnings and Precautions (5.5)].
+Advise patients to discontinue pantoprazole sodium and immediately call their healthcare provider for further evaluation [see Warnings and Precautions (5.5)].
 Cutaneous and Systemic Lupus Erythematosus
 
 Advise patients to immediately call their healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.6)].
 
 Cyanocobalamin (Vitamin B-12) Deficiency
 
-Advise patients to report any clinical symptoms that may be associated with cyancobalamin deficiency to their healthcare provider if they have been receiving pantoprazole sodium delayed-release tablets for longer than 3 years [see Warnings and Precautions (5.7)].
+Advise patients to report any clinical symptoms that may be associated with cyancobalamin deficiency to their healthcare provider if they have been receiving pantoprazole sodium for longer than 3 years [see Warnings and Precautions (5.7)].
 
 Hypomagnesemia and Mineral Metabolism
 
-Advise patients to report any clinical symptoms that may be associated with hypomagnesemia, hypocalcemia, and/or hypokalemia, to their healthcare provider, if they have been receiving pantoprazole sodium delayed-release tablets for at least 3 months [see Warnings and Precautions (5.8)].
+Advise patients to report any clinical symptoms that may be associated with hypomagnesemia, hypocalcemia, and/or hypokalemia, to their healthcare provider, if they have been receiving pantoprazole sodium for at least 3 months [see Warnings and Precautions (5.8)].
 
 Drug Interactions
 
@@ -48,6 +48,7 @@ Administration
   If it is almost time for the next dose, skip the missed dose and take the next dose at the regular scheduled time.
   Do not take 2 doses at the same time.
 
+Brands listed are the trademarks of their respective owners.
 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 08/2023 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 10/2023
