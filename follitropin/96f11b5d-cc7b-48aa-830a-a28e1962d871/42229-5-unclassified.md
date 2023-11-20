@@ -1,32 +1,32 @@
 Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Manufactured by: Vetter Pharma-Fertigung GmbH & Co. KG, Ravensburg, Germany
-
-BD, BD Logo and BD Micro-Fine are trademarks of Becton, Dickinson and Company
-
-For patent information: www.merck.com/product/patent/home.html
-
-Copyright © 2004-2020 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
-
-uspi-mk8328-SOi-2006r014
-
-Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Manufactured by: Vetter Pharma-Fertigung GmbH & Co. KG, Ravensburg, Germany
+Manufactured by: Organon USA Inc., a subsidiary of Merck & Co., Inc. 2000 Galloping Hill Road Kenilworth, NJ 07033 U.S. License No. 2193
 
 BD, BD Logo and BD Micro-Fine are trademarks of Becton, Dickinson and Company.
 
-For patent information: www.merck.com/product/patent/home.html
+For patent information: www.msd.com/research/patent
 
-Copyright © 2004-2020 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2004-2023 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 06/2020
+uspi-mk8328-SOi-2303r015
 
-usppi-mk8328-SOi-2006r015
+Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
+Manufactured by: Organon USA Inc., a subsidiary of Merck & Co., Inc. 2000 Galloping Hill Road Kenilworth, NJ 07033 U.S. License No. 2193
+
+BD, BD Logo and BD Micro-Fine are trademarks of Becton, Dickinson and Company.
+
+For patent information: www.msd.com/research/patent
+
+Copyright © 2004-2023 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+
+Revised: 3/2023
+
+usppi-mk8328-SOi-2303r016
 
 PATIENT INSTRUCTIONS FOR USE
 
-Follistim® (Fol΄-lis-tim) AQ Cartridge (follitropin beta injection)
+Follistim® (Fol΄-lis-tim) AQ Cartridge (follitropin beta) injection for subcutaneous use
 
 Read the Patient Instructions for Use that comes with Follistim® AQ Cartridge before you start using it and each time you get a refill.
 There may be new information.
@@ -36,11 +36,14 @@ This information does not take the place of talking with your healthcare provide
   - Follistim Pen is not recommended for the blind or visually impaired user without the assistance of an individual with good vision, trained in the proper use of the injection device.
   - Learn about all of the parts of the Follistim Pen (See Figure 1), Follistim AQ Cartridge (See Figure 2) and the BD Micro-Fine™ Pen Needle (See Figure 3).
     You will need to recognize these parts to follow the directions.
+    Figure 1.
+    Follistim Pen and its Parts Figure 2.
+    Parts of Follistim AQ Cartridge Figure 3.
+    Parts of BD Micro-Fine Pen Needle Unit
   - Remove the Cartridge out of the refrigerator.
   - Injecting cold drug is likely to cause discomfort.
-    Therefore, it is recommended you allow the drug to reach room temperature before taking the injection.
-  - Check the liquid in the cartridge.
-    It should appear clear and colorless.
+    Allow the drug to reach room temperature before taking the injection.
+  - Check the liquid in the cartridge to make sure it is clear and colorless.
     If the solution is not clear and colorless or has particles in it, do not use it.
   - Gather the supplies you will need for your injection.
     You will need:
@@ -53,19 +56,24 @@ This information does not take the place of talking with your healthcare provide
 - B.Loading the Follistim Pen with the Follistim AQ Cartridge
   - Holding the Pen Body firmly with one hand, pull off the Protective Cap with your other hand (See Figure 4).
     Put the cap aside on a clean, dry surface.
+    Figure 4
   - Unscrew the entire Pen Body from the Cartridge Holder (See Figure 5).
     Place the Cartridge Holder and the Pen Body aside on a clean, dry surface.
+    Figure 5
   - Take the Follistim AQ Cartridge out of its package.
     Clean the rubber inlay on the cartridge with an alcohol pad.
     Pick up the Cartridge Holder.
     Put the Cartridge into the Cartridge Holder (See Figure 6).
     The metal rimmed cap goes in first.
+    Figure 6
   - Pick up the Pen Body and lower it into the Cartridge Holder.
     The black rod must press against the Rubber Piston on the cartridge.
     Screw the Pen Body fully onto the Cartridge Holder (See Figure 7).
     Make sure there is no gap between the Pen Body and the Cartridge Holder.
-    The arrow on the Cartridge Holder should point to the middle of the yellow alignment mark on the blue Pen Body.
+    The arrow () on the Cartridge Holder should point to the middle of the yellow alignment mark () on the blue Pen Body.
+    Figure 7
   - Clean the open end of the Cartridge Holder with an alcohol pad (See Figure 8).
+    Figure 8
   - Pick up a new BD Micro-Fine Pen Needle that is in its Outer Needle Shield.
     Peel off the protective paper seal (See Figure 9).
     Do not touch the needle.
@@ -74,18 +82,20 @@ This information does not take the place of talking with your healthcare provide
   - You must use a new BD Micro-Fine Pen Needle with each injection.
     Never reuse a needle.
     Attach a new BD Micro-Fine Pen Needle after you make sure there is a Follistim AQ Cartridge in the Cartridge.
+    Figure 9
   - Hold the Outer Needle Shield firmly in one hand while holding the Cartridge Holder firmly in the other hand.
     Push the end of the Cartridge Holder into the Outer Needle Shield.
     Screw them tightly together (See Figure 10).
     Place your Follistim Pen with the loaded cartridge and attached needle, flat on a clean, dry surface.
+    Figure 10
 - C.Preparing the Injection Site
   - Follistim AQ Cartridge can be injected directly into a layer of fat under your skin (subcutaneously).
   - When giving a subcutaneous injection, follow your healthcare provider's instructions about changing the site for each injection.
     This will help lower your chances of having a skin reaction.
   - Do not inject Follistim AQ Cartridge into an area that is tender, red, bruised, or hard.
-  - The recommended site for injecting Follistim AQ Cartridge subcutaneously is:
-    - just below your belly button (navel) (See Figure 11)
-    - the upper outer area of your thigh (See Figure 12)
+  - The recommended sites for injecting Follistim AQ Cartridge subcutaneously are:
+    - just below your belly button (navel) (See Figure 11) Figure 11
+    - the upper outer area of your thigh (See Figure 12) Figure 12
   - Clean the skin with an alcohol wipe where the injection is to be made.
     Clean about two inches around the injection site where the needle will be inserted.
     Do not touch the cleaned area of skin.
@@ -97,8 +107,10 @@ This information does not take the place of talking with your healthcare provide
   - Pull off the outer needle shield.
     Leave the Inner Needle Shield in place over the needle attached to the Pen (See Figure 13).
     Do not throw the Outer Needle Shield away, you will need it later when you throw the needle away.
+    Figure 13
   - Carefully remove the Inner Needle Shield and discard it (See Figure 14).
     Do not touch the needle or let it touch any surface while uncapped.
+    Figure 14
   - Hold the Follistim Pen with the needle pointing upwards.
     Tap the Cartridge Holder gently with your finger to help air bubbles rise to the top of the needle.
     The small amount of air bubble will not affect the amount of medicine you receive.
@@ -109,6 +121,7 @@ This information does not take the place of talking with your healthcare provide
        If you see the droplet, then you can dial in your dose.
     3. If you do not see a droplet, repeat Step 1 (as above) until you see droplet.
        You must make sure you see a droplet of medicine (check the flow of medicine) or you may not inject the correct amount of medicine.
+       Figure 15
   - With a partially used cartridge, to give yourself another dose of medicine you will need to attach a new BD Micro-Fine Pen Needle and look for a droplet forming at the tip of the needle (See Figure 15 above).
     If you see a droplet, then you can dial in your dose.
     If no droplet:
@@ -117,11 +130,11 @@ This information does not take the place of talking with your healthcare provide
     - 2.Look for a droplet at the tip of the needle.
       If you see the droplet, then you can dial in your dose.
   - Your Follistim AQ Cartridge should be one of the following: If you did not understand that you should have one of the cartridges above, please contact your healthcare provider.
-    - Orange Metal Cap – 150 international units
     - Silver Metal Cap – 300 international units
     - Gold Metal Cap – 600 international units
     - Blue Metal Cap – 900 international units
   - For doses of 50 IU up to 450 IU, turn the Dosage Knob until the correct dosage aligns with the dosage markers on each side of the Dosage Window (see Figure 16).
+    Figure 16
   - If by mistake you dial past the correct number, do not try to turn the Dosage Knob backward to fix the mistake.
     Continue to turn the Dosage Knob in the same direction past the 450 IU mark, as far as it will turn.
     The Dosage Scale must move freely.
@@ -129,6 +142,7 @@ This information does not take the place of talking with your healthcare provide
     See Figure 17.
     Start to dial again starting from "0" upwards.
     By following these directions, you will not lose any medicine from the Follistim AQ Cartridge (See "Checking the Medicine Level Remaining").
+    Figure 17
     - If you turn the Dosage Knob backward to correct the mistake, it will not damage the Pen, but you will lose some medication from the Follistim AQ Cartridge.
     - Never dial your dose or try to correct a dialing mistake when the needle is still in your skin as this may result in your receiving an incorrect dose.
     - If your prescribed dose exceeds the deliverable dose of Follistim Pen or exceeds the amount remaining in the cartridge, you will need to give yourself more than one injection.
@@ -141,7 +155,7 @@ This information does not take the place of talking with your healthcare provide
     (See Figure 18).
     Wait for five seconds before pulling the needle out of the skin.
     The middle of the Dosage Window should display a dot next to the "0".
-    If the injection button does not push in all the way, and the number in the Dosage Window does not read "0", it means there is not enough medication left in the cartridge to complete your prescribed dose.
+    Figure 18 If the injection button does not push in all the way, and the number in the Dosage Window does not read "0", it means there is not enough medication left in the cartridge to complete your prescribed dose.
     The number in the Dosage Window will give you the amount of medicine needed to complete your dose.
     Write this number down.
     This will be the number you dial for the completion of your dose.
@@ -153,11 +167,13 @@ This information does not take the place of talking with your healthcare provide
     The opening of the Outer Needle Shield is the wider end with the rim.
     Without holding on to the Outer Needle Shield, carefully insert the needle (attached to the Follistim Pen) into the opening of the Outer Needle Shield and push down firmly.
     The Outer Needle Shield should now be attached to the Cartridge Holder and covering the needle (See Figure 19).
+    Figure 19
   - Grip the Outer Needle Shield and use it to unscrew the needle from the Cartridge Holder (See Figure 20).
     If there is Follistim AQ Cartridge medicine left for more injections, put the Pen Cap back on the Pen Body and store your Follistim Pen in a safe place in the refrigerator (not in the freezer) or at room temperature.
     Never store the Follistim Pen with a needle attached to it.
     If you are giving an injection to another person, be very careful when removing the needle from the skin.
     Accidental needle sticks can transmit potentially serious or grave infectious diseases.
+    Figure 20
   - Throw away the Outer Needle Shield with the used needle right away.
     Do not throw away in a trash can.
     Place it in a "special" container.
@@ -167,20 +183,22 @@ This information does not take the place of talking with your healthcare provide
     If you are giving an injection to another person, be very careful when removing the needle from the skin.
     Accidental needle sticks can lead to serious infections.
   - Unscrew the Pen Body from the Cartridge Holder with the empty Follistim AQ Cartridge (See Figure 21).
+    Figure 21
   - Put the Pen Body down on a clean, dry surface and remove the empty Follistim AQ Cartridge from the Cartridge Holder (See Figure 22).
     Safely, dispose of the empty Follistim AQ Cartridge right away in the same "special" container that you used for the needle disposal.
     Do not put the cartridge in a trash can.
     At the end of your treatment cycle, your doctor can advise you on how to properly dispose of the container.
     (See "How Do I Throw Away Used Cartridges and Needles?")
-- F.Checking the Medicine Level Remaining For women and men: Your healthcare provider should advise you of the number of prescribed doses which can be extracted from the full unused Follistim AQ Cartridge.
+    Figure 22
+- F.Checking the Medicine Level Remaining For women and men: Have your healthcare provider advise you of the number of prescribed doses which can be extracted from the full unused Follistim AQ Cartridge.
   For women only:If you do not know if there is not enough medicine left in the Follistim AQ Cartridge for your next prescribed dose, see section "If There is Not Enough Follistim AQ in the Cartridge".
   - Do not use the cartridge beyond the advised number of doses.
     Otherwise, you will run the risk that there will not be enough volume of drug for your prescribed dose.
   - Keep a Follistim Pen Treatment Diary as follows:
     - 1.Record the Follistim AQ Cartridge content on Day 1.
-      This will either be 150, 300, 600 or 900 international units depending on what your healthcare provider has prescribed for you.
+      This will either be 300, 600 or 900 international units depending on what your healthcare provider has prescribed for you.
     - 2.Record the dose you have been prescribed for your injection.
-    - 3.Subtract your Day 1 dose from the Follistim AQ Cartridge content (150, 300, 600 or 900 international units).
+    - 3.Subtract your Day 1 dose from the Follistim AQ Cartridge content (300, 600 or 900 international units).
       (See example – Figure 23.)
       This will give you the remaining Follistim AQ Cartridge content after the Day 1 dose is taken.
     - 4.Place the number determined as the content after Day 1 (see number 3) in the box as the Follistim AQ Cartridge content available for Day 2.
@@ -232,7 +250,7 @@ This information does not take the place of talking with your healthcare provide
 | The needle is left on the Follistim Pen. | Have you missed any of the instructions? | Dispose of the needle in a properly secured container as instructed by your doctor. Change to a new Follistim Cartridge and a new needle. |
 | After your last injection, a remaining volume may be left in the cartridge in addition to the normal quantity of drug dispensed. | The cartridge contains extra volume for checking the drug flow. | This is not a problem. |
 | You cannot get the cartridge out of the Follistim Pen. | Is the needle attached? | Remove the needle from the Follistim Pen and dispose of properly. (Unscrew the Cartridge Holder from the Pen Body and take out the cartridge.) |
-| You are not sure how much drug is left in the cartridge and you do not want to start an injection and then find out that there is not enough drug. | Have you kept good records of your doses? | In case of any doubt, you should load a new, unused Follistim Cartridge into the Follistim Pen. See "If There is Not Enough Follistim AQ in the Cartridge." To avoid this problem again, you should record your injections. (Women should use a treatment diary.) |
+| You are not sure how much drug is left in the cartridge, and you do not want to start an injection and then find out that there is not enough drug. | Have you kept good records of your doses? | In case of any doubt, you should load a new, unused Follistim Cartridge into the Follistim Pen. See "If There is Not Enough Follistim AQ in the Cartridge." To avoid this problem again, you should record your injections. (Women should use a treatment diary.) |
 
 Important: If you have a question, always mention the Lot number of your Follistim Pen as printed on the Pen Body.
 If you have a complaint, please do not discard any product or packaging.
@@ -266,9 +284,9 @@ How Do I Care for the Follistim Pen?
 
 How should I store Follistim AQ Cartridge?
 
-- Store Follistim AQ Cartridge in the refrigerator between 2°-8°C (36°-46°F) until the expiration date.
+- Store Follistim AQ Cartridge in the refrigerator between 2°C to 8°C (36°F to 46°F) until the expiration date.
 - Follistim AQ can be stored at or below 25°C (77°F) for 3 months or until the expiration date, whichever comes first.
-  Once the rubber inlay of the Follistim AQ Cartridge has been pierced by a needle, the product may be stored only for a maximum of 28 days at 2°-25°C (36°-77°F).
+  Once the rubber inlay of the Follistim AQ Cartridge has been pierced by a needle, the product may be stored only for a maximum of 28 days at 2°C to 25°C (36°F to 77°F).
 - Keep Follistim AQ Cartridge away from light.
 - Do not freeze.
 
@@ -276,14 +294,14 @@ Keep Follistim AQ Cartridge, needles, and the disposal container, out of the rea
 
 Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Manufactured by: Vetter Pharma-Fertigung GmbH & Co. KG, Ravensburg, Germany
+Manufactured by: Organon USA Inc., a subsidiary of Merck & Co., Inc. 2000 Galloping Hill Road Kenilworth, NJ 07033 U.S. License No. 2193
 
 BD, BD Logo and BD Micro-Fine are trademarks of Becton, Dickinson and Company.
 
-For patent information: www.merck.com/product/patent/home.html
+For patent information: www.msd.com/research/patent
 
-Copyright © 2004-2020 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2004-2023 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 06/2020
+Revised: 3/2023
 
-usppi-mk8328-SOi-2006r015
+usppi-mk8328-SOi-2303r016

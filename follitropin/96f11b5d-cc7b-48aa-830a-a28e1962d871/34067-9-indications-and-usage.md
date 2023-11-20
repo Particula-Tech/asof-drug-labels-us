@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Follistim® AQ (follitropin beta injection) Cartridge is indicated:
+Follistim® AQ Cartridge (follitropin beta) injection, is indicated:
 
 In Women for:
 

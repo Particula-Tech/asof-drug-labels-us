@@ -1,8 +1,8 @@
 PATIENT INFORMATION
 
-Follistim® (Fol'-lis-tim) AQ Cartridge (follitropin beta injection)
+Follistim® (Fol'-lis-tim) AQ Cartridge (follitropin beta) injection for subcutaneous use
 
-Read the Patient Information that comes with Follistim® AQ Cartridge before you start using it and each time you get a refill.
+Read this Patient Information before you start using Follistim® AQ Cartridge and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 
@@ -22,9 +22,9 @@ In men:
 
 - to help bring about the production and development of sperm
 
-Who should not take Follistim AQ Cartridge?
+Who should not use Follistim AQ Cartridge?
 
-Do not take Follistim AQ Cartridge if you are a Woman or Man who:
+Do not start using Follistim AQ Cartridge if you are a Woman or Man who:
 
 - is allergic to recombinant human FSH products
 - has a high level of FSH in your blood indicating that your ovaries (women only) or testes (men only) may be permanently damaged and do not work at all
@@ -32,7 +32,7 @@ Do not take Follistim AQ Cartridge if you are a Woman or Man who:
 - is allergic to streptomycin or neomycin (types of antibiotics)
 - has a tumor of the hypothalamus, pituitary gland, breast, uterus (women only), ovary (women only), or testis (men only)
 
-Do not take Follistim AQ Cartridge if you are a Woman who:
+Do not start using Follistim AQ Cartridge if you are a Woman who:
 
 - is pregnant or think you may be pregnant
 - has heavy or irregular vaginal bleeding and the cause is not known
@@ -40,9 +40,7 @@ Do not take Follistim AQ Cartridge if you are a Woman who:
 
 Talk to your healthcare provider before taking this medicine if you have any of the conditions listed above.
 
-What should I tell my healthcare provider before taking Follistim AQ Cartridge?
-
-Before you take Follistim AQ, tell your healthcare provider if you:
+Before you use Follistim AQ, tell your healthcare provider about all of your medical conditions, including if you:
 
 - have an increased risk of blood clots (thrombosis)
 - have ever had a blood clot (thrombosis), or anyone in your immediate family has ever had a blood clot (thrombosis)
@@ -57,9 +55,9 @@ Before you take Follistim AQ, tell your healthcare provider if you:
   You should not do both.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-
-Know the medicines you take.
-Keep a list of them and show your healthcare provider and pharmacist when you get a new medicine.
+Some medicines may affect how Follistim AQ Cartridge works.
+Follistim AQ Cartridge may also affect how your other medicines work.
+Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
 
 How should I use Follistim AQ Cartridge?
 
@@ -90,23 +88,17 @@ Men:
 
 What are the possible side effects of Follistim AQ Cartridge?
 
-Follistim AQ Cartridge may cause serious side effects.
+Side effects are grouped by how serious they are and how often they may happen.
 
-Serious side effects in women include:
+Serious side effects include:
+
+In women:
 
 - Ovarian enlargement
 - Ovarian hyperstimulation syndrome (OHSS).
   OHSS is a serious medical problem that can happen when the ovaries are over stimulated.
   In rare cases it has caused death.
   OHSS causes fluid to build up suddenly in your stomach and chest areas and can cause blood clots to form.
-  Call your healthcare provider right away if you have:
-  - pain in your lower stomach area
-  - nausea
-  - vomiting
-  - weight gain
-  - diarrhea
-  - decreased urine output
-  - trouble breathing
 - Lung problems.
   Follistim AQ Cartridge can cause you to have fluid in your lungs (atelectasis) and trouble breathing (acute respiratory distress syndrome).
 - Blood clots.
@@ -130,6 +122,17 @@ Serious side effects in women include:
 - Miscarriage.
   The chance of loss of an early pregnancy may be increased in women who have difficulty with becoming pregnant at all.
 
+Call your healthcare provider right away if you develop any of the following:
+
+- pain in your lower stomach area
+- nausea
+- vomiting
+- weight gain
+- diarrhea
+- decreased urine output
+- trouble breathing
+- any other unusual symptoms that concern you
+
 The most common side effects of Follistim AQ Cartridge include:
 
 In women:
@@ -148,6 +151,7 @@ In men:
 - bruising, swelling or redness at the injection site
 - breast enlargement
 - acne
+- testicular cyst
 
 These are not all the possible side effects of Follistim AQ Cartridge.
 For more information, ask your healthcare provider or pharmacist.
@@ -162,9 +166,9 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Follistim AQ Cartridge?
 
-- Store Follistim AQ Cartridge in the refrigerator between 2°-8°C (36°-46°F) until the expiration date.
+- Store Follistim AQ Cartridge in the refrigerator between 2°C to 8°C (36°F to 46°F) until the expiration date.
 - Follistim AQ can be stored at or below 25°C (77°F) for 3 months or until the expiration date, whichever comes first.
-  Once the rubber inlay of the Follistim AQ Cartridge has been pierced by a needle, the product may be stored only for a maximum of 28 days at 2°-25°C (36°-77°F).
+  Once the rubber inlay of the Follistim AQ Cartridge has been pierced by a needle, the product may be stored only for a maximum of 28 days at 2°C to 25°C (36°F to 77°F).
 - Keep Follistim AQ Cartridge away from light.
 - Do not freeze.
 
@@ -187,4 +191,5 @@ What are the ingredients in Follistim AQ Cartridge?
 
 Active ingredient: follitropin beta
 
-Inactive ingredients: sucrose, sodium citrate, benzyl alcohol NF-10 mg/mL, L-methionine, polysorbate 20, water for injection, hydrochloric acid, and/or sodium hydroxide.
+Inactive ingredients: benzyl alcohol NF-10 mg/mL (preservative), methionine, polysorbate 20, sodium citrate, sucrose, Water for Injection.
+Hydrochloric acid and/or sodium hydroxide are used to adjust the pH.

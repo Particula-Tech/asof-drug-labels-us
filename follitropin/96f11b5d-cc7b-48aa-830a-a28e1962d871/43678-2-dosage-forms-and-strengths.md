@@ -1,9 +1,9 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Injection: Follistim AQ Cartridge 175 international units per 0.210 mL
+Follistim AQ Cartridge is a clear and colorless solution available as:
 
-Injection: Follistim AQ Cartridge 350 international units per 0.420 mL
+Injection: 300 international units per 0.36 mL in a single-patient-use cartridge
 
-Injection: Follistim AQ Cartridge 650 international units per 0.780 mL
+Injection: 600 international units per 0.72 mL in a single-patient-use cartridge
 
-Injection: Follistim AQ Cartridge 975 international units per 1.170 mL
+Injection: 900 international units per 1.08 mL in a single-patient-use cartridge

@@ -9,7 +9,7 @@
   When administering Follistim AQ Cartridge, a lower starting dose and lower dose adjustments (as compared to reconstituted Follistim) should be considered.
   For that purpose the following Dose Conversion Table is provided:
 
-Table 1: Follistim AQ Cartridge Administered Subcutaneously With the Follistim Pen Dose Conversion TableEach value represents an 18% difference rounded to the nearest 25 IU increment.
+Table 1: Follistim AQ Cartridge Administered Subcutaneously with the Follistim Pen Dose Conversion Table Each value represents an 18% difference rounded to the nearest 25 IU increment.
 
 | Lyophilized recombinant FSH dosing with ampules or vials, using conventional syringe | Follistim AQ Cartridge dosing with the Follistim Pen |
 | --- | --- |
@@ -31,7 +31,7 @@ The dosing scheme is stepwise and is individualized for each woman [see Clinical
   - Appropriate Follistim AQ Cartridge dose adjustment(s) should be used to prevent multiple follicular growth and cycle cancellation.
   - The maximum, individualized, daily dose of Follistim AQ Cartridge is 250 international units.
 - Treatment should continue until ultrasonic visualizations and/or serum estradiol determinations approximate the pre-ovulatory conditions seen in normal individuals.
-- When pre-ovulatory conditions are reached, 5,000 to 10,000 international units of hCG are used to induce final oocyte maturation and ovulation.
+- When pre-ovulatory conditions are reached, 5,000 to 10,000 international units of urinary hCG are used to induce final oocyte maturation and ovulation.
   The administration of hCG must be withheld in cases where the ovarian monitoring suggests an increased risk of OHSS on the last day of Follistim AQ Cartridge therapy [see Warnings and Precautions (5.1, 5.2, 5.10)].
 - The woman and her partner should be encouraged to have intercourse daily, beginning on the day prior to the administration of hCG and until ovulation becomes apparent [see Warnings and Precautions (5.10)].
 - During treatment with Follistim AQ Cartridge and during a two-week post-treatment period, the woman should be assessed at least every other day for signs of excessive ovarian stimulation.
@@ -50,15 +50,15 @@ The dosing scheme follows a stepwise approach and is individualized for each wom
   - For low or poor responding women, the daily dose should be increased according to the ovarian response.
     The maximum, individualized, daily dose of Follistim AQ Cartridge is 500 international units.
   - For high responding women [those at particular risk of abnormal ovarian enlargement and/or ovarian hyperstimulation syndrome (OHSS)], decrease or temporarily stop the daily dose, or discontinue the cycle according to individual response [see Warnings and Precautions (5.1, 5.2, 5.10)].
-- When a sufficient number of follicles of adequate size are present, dosing of Follistim AQ Cartridge is stopped and final maturation of the oocytes is induced by administering hCG at a dose of 5,000 to 10,000 international units.
+- When a sufficient number of follicles of adequate size are present, dosing of Follistim AQ Cartridge is stopped and final maturation of the oocytes is induced by administering urinary hCG at a dose of 5,000 to 10,000 international units.
   The administration of hCG should be withheld in cases where the ovarian monitoring suggests an increased risk of OHSS on the last day of Follistim AQ Cartridge therapy [see Warnings and Precautions (5.1, 5.2, 5.10)].
 - Oocyte (egg) retrieval should be performed 34 to 36 hours following the administration of hCG.
 
 ## 2.4 Recommended Dosing for Induction of Spermatogenesis in Men
 
 - Pretreatment with hCG is required prior to concomitant therapy with Follistim AQ Cartridge and hCG.
-  An initial dosage of 1,500 international units of hCG should be administered at twice weekly intervals to normalize serum testosterone levels.
-  If serum testosterone levels have not normalized after 8 weeks of hCG treatment, the hCG dose can be increased to 3,000 international units twice weekly [see Clinical Studies (14.3)].
+  An initial dosage of 1,500 international units of urinary hCG should be administered at twice weekly intervals to normalize serum testosterone levels.
+  If serum testosterone levels have not normalized after 8 weeks of hCG treatment, the urinary hCG dose can be increased to 3,000 international units twice weekly [see Clinical Studies (14.3)].
 - After normal serum testosterone levels have been reached, Follistim AQ Cartridge should be administered by subcutaneous injection concomitantly with hCG treatment.
   Follistim is given at a dosage of 450 international units per week, as either 225 international units twice weekly or 150 international units three times per week, in combination with the same hCG dose used to normalize testosterone levels.
   Based on delivery of a higher dose of follitropin beta with the Follistim AQ Cartridge and pen injector [see Dosage and Administration (2.1)], a lower dose of Follistim AQ Cartridge may be considered.

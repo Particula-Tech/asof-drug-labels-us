@@ -2,6 +2,7 @@
 
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
+- Abnormal Ovarian Enlargement [see Warnings and Precautions (5.1)]
 - Ovarian Hyperstimulation Syndrome [see Warnings and Precautions (5.2)]
 - Atelectasis [see Warnings and Precautions (5.3)]
 - Thromboembolism [see Warnings and Precautions (5.3)]
@@ -10,6 +11,7 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 - Congenital Anomalies [see Warnings and Precautions (5.6)]
 - Ectopic Pregnancy [see Warnings and Precautions (5.7)]
 - Spontaneous Abortion [see Warnings and Precautions (5.8)]
+- Ovarian Neoplasms [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Study Experience
 
@@ -82,7 +84,7 @@ Table 4: Common Adverse Reactions Reported at a Frequency of ≥2% in an Open-La
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of Follistim and/or Follistim AQ Cartridge.
+The following adverse reactions have been identified during post-approval use of Follistim and/or Follistim AQ Cartridge.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Gastrointestinal disorders Abdominal distension, abdominal pain, constipation, diarrhea

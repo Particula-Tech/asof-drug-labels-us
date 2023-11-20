@@ -13,7 +13,7 @@ Table 6: Cumulative Ovulation Rates
 | Second treatment cycle | 82% |
 | Third treatment cycle | 85% |
 
-Table 7: Cumulative OngoingAll ongoing pregnancies were confirmed after at least 12 weeks after the hCG injection.,Study was not powered to demonstrate this outcome.
+Table 7: Cumulative OngoingAll ongoing pregnancies were confirmed after at least 12 weeks after the hCG injection., Study was not powered to demonstrate this outcome.
 Pregnancy Rates
 
 | Cycle | Follistim (n=105) |
@@ -39,11 +39,11 @@ Table 8: Pregnancy Results from Treatment With Follistim AQ Cartridge and a GnRH
 
 The safety and efficacy of Follistim administered by subcutaneous injection concomitantly with chorionic gonadotropin for injection (hCG) has been examined in a multicenter, open-label, non-comparator clinical study for induction of spermatogenesis in hypogonadotropic hypogonadal men.
 The study compared the effects of two different Follistim dosing schedules on semen parameters and serum levels of follicle stimulating hormone (FSH).
-The multicenter study involved a 16-week pretreatment phase with hCG at a dosage of 1,500 international units twice a week to normalize serum testosterone levels.
-If serum testosterone levels did not normalize after 8 weeks of hCG treatment, the hCG dose could have been increased to 3,000 international units twice a week.
+The multicenter study involved a 16-week pretreatment phase with urinary hCG at a dosage of 1,500 international units twice a week to normalize serum testosterone levels.
+If serum testosterone levels did not normalize after 8 weeks of hCG treatment, the urinary hCG dose could have been increased to 3,000 international units twice a week.
 This phase was followed by a 48-week treatment phase.
-Men who were still azoospermic after the pretreatment phase were randomized to receive either 225 international units Follistim together with 1,500 international units hCG twice a week or 150 international units Follistim three times a week together with 1,500 international units hCG twice weekly.
-Men who required 3,000 international units of hCG twice a week in the pretreatment phase were continued on that dosage during the treatment phase.
+Men who were still azoospermic after the pretreatment phase were randomized to receive either 225 international units Follistim together with 1,500 international units urinary hCG twice a week or 150 international units Follistim three times a week together with 1,500 international units urinary hCG twice weekly.
+Men who required 3,000 international units of urinary hCG twice a week in the pretreatment phase were continued on that dosage during the treatment phase.
 The mean age of patients in both treatment groups was approximately 30 years (range 18 to 47 years).
 At baseline, mean left and right testis volumes were 4.61 ± 2.94 mL and 4.57 ± 3.00 mL, respectively, in the group receiving three weekly injections of Follistim.
 For the group receiving two weekly injections of Follistim, the mean left and right testis volumes were 6.54 ± 2.45 mL and 7.21 ± 2.94 mL, respectively, at baseline.

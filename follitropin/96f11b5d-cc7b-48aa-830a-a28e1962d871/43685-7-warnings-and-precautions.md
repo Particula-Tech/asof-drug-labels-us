@@ -63,7 +63,7 @@ Women with generally recognized risk factors for thrombosis, such as a personal 
 Sequelae of such reactions have included venous thrombophlebitis, pulmonary embolism, pulmonary infarction, cerebral vascular occlusion (stroke), and arterial occlusion resulting in loss of limb and rarely in myocardial infarction.
 In rare cases, pulmonary complications and/or thromboembolic reactions have resulted in death.
 In women with recognized risk factors, the benefits of ovulation induction, in vitro fertilization (IVF) or intracytoplasmic sperm injection (ICSI) treatment need to be weighed against the risks.
-It should be noted, that pregnancy itself also carries an increased risk of thrombosis.
+It should be noted that pregnancy itself also carries an increased risk of thrombosis.
 
 ## 5.4 Ovarian Torsion
 

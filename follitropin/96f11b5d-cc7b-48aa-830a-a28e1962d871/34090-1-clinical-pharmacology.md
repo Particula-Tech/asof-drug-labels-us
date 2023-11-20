@@ -25,11 +25,11 @@ The pharmacokinetic parameters for Follistim AQ Cartridge are as follows:
 
 Table 5: Mean (SD) Pharmacokinetic Parameters of a Single Subcutaneous Injection of 150 IU of Follistim AQ Cartridge (n=20)
 
-|  | AUC0–∞ (IU/L*h) | Cmax (IU/L) | tmax (h) | t1/2 (h) | CLapp (L/h/kg) |
+|  | AUC0–∞ (IU/L*h) | Cmax (IU/L) | tmax (h) | t½ (h) | CLapp (L/h/kg) |
 | --- | --- | --- | --- | --- | --- |
 | Follistim AQ | 215.1 | 3.4 | 12.9 | 33.4 | 0.01 |
 | Cartridge | (45.8) | (0.7) | (6.2) | (4.2) | (0.003) |
-| AUC0–∞ Area under the curve Cmax Maximum concentration tmax Time to maximum concentration t1/2 Elimination half-life CLapp Clearance |  |  |  |  |  |
+| AUC0–∞ Area under the curve Cmax Maximum concentration tmax Time to maximum concentration t½ Elimination half-life CLapp Clearance |  |  |  |  |  |
 
 Absorption:
 
@@ -60,6 +60,9 @@ Mean serum trough concentrations of FSH remained fairly constant over the treatm
 At the end of treatment (Week 64), the mean serum trough concentrations of FSH were 2.09 international units/L in the 150 international units group and 3.22 international units/L in the 225 international units group.
 Serum trough concentrations of FSH measured prior to the first Follistim injection on the Mondays of active treatment period (Weeks 17 to 64) and one week after the end of treatment period are presented in Figure 1.
 
+| Figure 1: Mean (SD) Serum Trough Concentrations of FSH in Men Following Subcutaneous Administration of Follistim Using Two Different Dosing Schedules (150 International Units Three Times a Week or 225 International Units Twice a Week) |
+| --- |
+
 Distribution:
 
 The volume of distribution of Follistim in healthy, pituitary-suppressed, women following intravenous administration of a 300 international units dose was approximately 8 L.
@@ -70,7 +73,7 @@ The recombinant FSH in Follistim AQ Cartridge is biochemically very similar to u
 
 Elimination:
 
-The elimination half-life (t1/2) following a single subcutaneous injection of 150 IU of Follistim AQ Cartridge in women was 33.4 (4.2) hours.
+The elimination half-life (t½) following a single subcutaneous injection of 150 IU of Follistim AQ Cartridge in women was 33.4 (4.2) hours.
 The clearance was 0.01 (0.003) L/h/kg.
 
 Use in Specific Populations:
