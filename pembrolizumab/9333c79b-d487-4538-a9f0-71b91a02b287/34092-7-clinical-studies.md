@@ -998,7 +998,8 @@ Table 72: Efficacy Results in Patients with MSI-H or dMMR CRC in KEYNOTE-177
 
 ## 14.9 Gastric Cancer
 
-The efficacy of KEYTRUDA in combination with trastuzumab plus fluoropyrimidine and platinum chemotherapy was investigated in KEYNOTE-811 (NCT03615326), a multicenter, randomized, double-blind, placebo-controlled trial that was designed to enroll 692 patients with HER2-positive advanced gastric or gastroesophageal junction (GEJ) adenocarcinoma who had not previously received systemic therapy for metastatic disease.
+The efficacy of KEYTRUDA in combination with trastuzumab plus fluoropyrimidine and platinum chemotherapy was investigated in KEYNOTE-811 (NCT03615326), a multicenter, randomized, double-blind, placebo-controlled trial that enrolled 698 patients with HER2-positive advanced gastric or gastroesophageal junction (GEJ) adenocarcinoma who had not previously received systemic therapy for metastatic disease.
+PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx™ kit.
 Patients with an autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible.
 Randomization was stratified by PD-L1 expression (CPS ≥1 or CPS <1), chemotherapy regimen (5-FU plus cisplatin [FP] or capecitabine plus oxaliplatin [CAPOX]), and geographic region (Europe/Israel/North America/Australia, Asia, or Rest of the World).
 Patients were randomized (1:1) to one of the following treatment arms.
@@ -1009,12 +1010,11 @@ Patients were randomized (1:1) to one of the following treatment arms.
 
 All study medications, except oral capecitabine, were administered as an intravenous infusion for every 3 week cycle.
 Treatment with KEYTRUDA continued until RECIST v1.1-defined progression of disease as determined by BICR, unacceptable toxicity, or a maximum of 24 months.
-In an interim efficacy analysis, major outcome measures assessed were ORR and DoR by BICR using RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
+In an interim efficacy analysis, the major outcome measures assessed were ORR and DoR by BICR using RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
 
 At the time of the interim analysis, ORR and DoR were assessed in the first 264 patients randomized.
 Among the 264 patients, the population characteristics were: median age of 62 years (range: 19 to 84), 41% age 65 or older; 82% male; 63% White, 31% Asian, and 0.8% Black; 47% ECOG PS of 0 and 53% ECOG PS of 1.
 Ninety-seven percent of patients had metastatic disease (Stage IV) and 3% had locally advanced unresectable disease.
-Eighty-seven percent had tumors that expressed PD-L1 with a CPS ≥1.
 Ninety-one percent (n=240) had tumors that were not MSI-H, 1% (n=2) had tumors that were MSI-H, and in 8% (n=22) the status was not known.
 Eighty-seven percent of patients received CAPOX.
 
@@ -1032,7 +1032,12 @@ Table 73: Efficacy Results for KEYNOTE-811
 | p-Valuep-Value based on stratified Miettinen and Nurminen method (compared to an alpha boundary of 0.002) | <0.0001 |  |
 | Duration of Response | n=99 | n=68 |
 | Median in months (range) | 10.6 (1.1+, 16.5+) | 9.5 (1.4+, 15.4+) |
-| % with duration ≥6 months | 65% | 53% |
+| % with duration ≥6 monthsBased on observed duration of response | 65% | 53% |
+
+In a pre-specified subgroup analysis of ORR based on PD-L1 status, the ORR in patients with PD-L1-positive disease (CPS ≥1) was 76% (95% CI: 67, 83) in the pembrolizumab arm (n=117) versus 51% (95% CI: 41, 60) in the control arm (n=112).
+In patients with tumors that were PD-L1 CPS<1, the ORR was 63% (95% CI: 35, 85) in the pembrolizumab arm (n=16) versus 58% (95% CI: 34, 80) in the control arm (n=19).
+
+In a subsequent interim analysis of pre-specified subgroups based on PD-L1 status in the full study population (n=698), the HR for PFS and OS in patients with PD-L1 CPS<1 (N=104) was 1.03 (95% CI: 0.65, 1.64) and 1.41 (95% CI: 0.90, 2.20), respectively.
 
 ## 14.10 Esophageal Cancer
 

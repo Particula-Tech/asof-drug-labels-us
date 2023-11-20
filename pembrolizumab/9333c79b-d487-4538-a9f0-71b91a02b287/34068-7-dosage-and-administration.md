@@ -29,6 +29,8 @@ If unable to perform confirmatory MSI-H/dMMR testing, the presence of TMB ≥10 
 
 Patient Selection for Combination Therapy
 
+For use of KEYTRUDA in combination with chemotherapy and trastuzumab, select patients based on the presence of positive PD-L1 expression (CPS ≥1) in locally advanced unresectable or metastatic HER2-positive gastric or gastroesophageal junction (GEJ) adenocarcinoma [see Clinical Studies (14.9)].
+
 For use of KEYTRUDA in combination with chemotherapy, with or without bevacizumab, select patients based on the presence of positive PD-L1 expression in persistent, recurrent, or metastatic cervical cancer [see Clinical Studies (14.11)].
 
 For the pMMR/not MSI-H advanced endometrial carcinoma indication, select patients for treatment with KEYTRUDA in combination with lenvatinib based on MSI or MMR status in tumor specimens [see Clinical Studies (14.16)].
