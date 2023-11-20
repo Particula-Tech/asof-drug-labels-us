@@ -22,21 +22,23 @@ Thereafter, steady concentrations are maintained for up to 96 hours.
 Absorption of oxybutynin is bioequivalent when OXYTROL is applied to the abdomen, buttocks, or hip.
 Average plasma concentrations measured during a randomized, crossover study of the three recommended application sites in 24 healthy men and women are shown in Figure 2.
 
+Figure 2: Average plasma oxybutynin concentrations (Cp) in 24 healthy male and female volunteers during single-dose application of OXYTROL 3.9 mg/day to the abdomen, buttock, and hip (System removal at 96 hours).
+
 Steady-state conditions are reached during the second OXYTROL application.
 Average steady-state plasma concentrations were 3.1 ng/mL for oxybutynin and 3.8 ng/mL for N-desethyloxybutynin (Figure 3).
 Table 3 provides a summary of pharmacokinetic parameters of oxybutynin in healthy volunteers after single and multiple applications of OXYTROL.
 
-Table 3: Mean (SD) oxybutynin pharmacokinetic parameters from single and multiple dose studies in healthy men and women volunteers after application of OXYTROL on the abdomen.
+Figure 3: Average (SEM) steady-state oxybutynin and N-desethyloxybutynin plasma concentrations (Cp) measured in 13 healthy volunteers following the second transdermal system application in a multiple-dose, randomized, crossover study.
 
-| Dosing | Oxybutynin |  |  |  |
+| Table 3: Mean (SD) oxybutynin pharmacokinetic parameters from single and multiple dose studies in healthy men and women volunteers after application of OXYTROL on the abdomen. |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Cmax (SD) (ng/mL) | Tmax ‡ (hr) | Cavg (SD) (ng/mL) | AUC (SD) (ng/mLxh) |
-| Single | 3.0 (0.8) | 48 | - | 245 (59)§ |
-|  | 3.4 (1.1) | 36 | - | 279 (99)§ |
-| Multiple | 6.6 (2.4) | 10 | 4.2 (1.1) | 408 (108)¶ |
-|  | 4.2 (1.0) | 28 | 3.1 (0.7) | 259 (57)#Þ |
-
-‡ Tmax given as median § AUCinf ¶ AUC0-96 #Þ AUC0-84
+| Dosing | Oxybutynin |  |  |  |
+|  | Cmax (SD) (ng/mL) | Tmax1 (hr) | Cavg (SD) (ng/mL) | AUC (SD) (ng/mLxh) |
+| Single | 3.0 (0.8) | 48 | - | 245 (59)2 |
+|  | 3.4 (1.1) | 36 | - | 279 (99)2 |
+| Multiple | 6.6 (2.4) | 10 | 4.2 (1.1) | 408 (108)3 |
+|  | 4.2 (1.0) | 28 | 3.1 (0.7) | 259 (57)4 |
+| 1Tmax given as median 2AUCinf 3AUC0-96 4AUC0-84 |  |  |  |  |
 
 Distribution
 
@@ -54,6 +56,8 @@ The plasma concentration area under the time-concentration curve (AUC) ratio of 
 Transdermal administration of oxybutynin bypasses first-pass gastrointestinal and hepatic metabolism, reducing the formation of the N-desethyl metabolite (see Figure 4).
 Only small amounts of CYP3A4 are found in skin, limiting pre-systemic metabolism during transdermal absorption.
 The resulting plasma concentration AUC ratio of N-desethyl metabolite to parent compound following multiple OXYTROL applications was 1.3:1.
+
+Figure 4: Average plasma concentrations (Cp) measured after a single, 96-hour application of the OXYTROL 3.9 mg/day system (AUCinf/96) and a single, 5 mg, oral immediate-release dose of oxybutynin chloride (AUCinf/8) in 16 healthy male and female volunteers.
 
 Following intravenous administration, the elimination half-life of oxybutynin is approximately 2 hours.
 Following removal of OXYTROL, plasma concentrations of oxybutynin and N-desethyloxybutynin decline with an apparent half-life of approximately 7 to 8 hours.

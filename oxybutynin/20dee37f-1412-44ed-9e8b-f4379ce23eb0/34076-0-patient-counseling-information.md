@@ -28,11 +28,9 @@ Patients should be informed that anticholinergic (antimuscarinic) agents, such a
 - Angioedema has been reported with oral oxybutynin use.
   Patients should be advised to promptly discontinue OXYTROL and seek immediate medical attention if they experience symptoms consistent with angioedema.
 
-Distributed By: Allergan USA, Inc.
+Distributed By: AbbVie, Inc. North Chicago, IL 60064
 
-Irvine, CA 92612
-
-© 2017 Allergan.
+© 2023 AbbVie.
 All rights reserved.
 
-Oxytrol® is a registered trademark of Allergan Sales, LLC
+OXYTROL and its design are trademarks of Allergan Sales, LLC, an AbbVie company.

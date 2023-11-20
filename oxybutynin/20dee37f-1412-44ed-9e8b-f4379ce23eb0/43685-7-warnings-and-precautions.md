@@ -15,7 +15,7 @@ OXYTROL should be used with caution in patients who have hiatus hernia/gastroeso
 ## 5.3 Central Nervous System Effects
 
 Products containing oxybutynin are associated with anticholinergic central nervous system (CNS) effects.
-A variety of CNS anticholinergic effects have been reported, including headache, dizziness, somnolence, confusion and hallucinations [see Adverse Events (6.2, 6.3)].
+A variety of CNS anticholinergic effects have been reported, including headache, dizziness, somnolence, confusion and hallucinations [see Adverse Events (6.2)].
 Patients should be monitored for signs of anticholinergic CNS effects, particularly after beginning treatment.
 Advise patients not to drive or operate heavy machinery until they know how OXYTROL affects them.
 If a patient experiences anticholinergic CNS effects, drug discontinuation should be considered.

@@ -17,3 +17,6 @@ OXYTROL is a matrix-type transdermal system composed of three layers as illustra
 Layer 1 (Backing Film) is a thin flexible polyester/ethylene-vinyl acetate film that provides the matrix system with occlusivity and physical integrity and protects the adhesive/drug layer.
 Layer 2 (Adhesive/Drug Layer) is a cast film of acrylic adhesive containing oxybutynin and triacetin, USP.
 Layer 3 (Release Liner) is two overlapped siliconized polyester strips that are peeled off and discarded by the patient prior to applying the matrix system.
+
+Figure 1: Side and top views of the OXYTROL system.
+(Not to scale)

@@ -5,7 +5,7 @@
 Risk Summary
 
 There are no studies with topical or oral oxybutynin use in pregnant women to inform a drug associated risk for birth defects or miscarriage.
-No adverse developmental outcomes were observed in animal reproduction studies when oxybutynin chloride was administered to pregnant rats and rabbits during organogenesis at approximately 50 and 1 times, respectively, the maximum human dose based on body surface area (see Data)
+No adverse developmental outcomes were observed in animal reproduction studies when oxybutynin chloride was administered to pregnant rats and rabbits during organogenesis at approximately 50 and 1 times, respectively, the maximum human dose based on body surface area (see Data).
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20% respectively.
 

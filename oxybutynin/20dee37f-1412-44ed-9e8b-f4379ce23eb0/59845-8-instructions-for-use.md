@@ -1,6 +1,12 @@
-Instructions for Use OXYTROL (OKSEE TROLE) (oxybutynin transdermal system) Read this Instructions for Use that comes with your OXYTROL before you start using it and each time you get a refill.
+Instructions for Use
+
+OXYTROL (OKSEE TROLE)
+
+(oxybutynin transdermal system)
+
+Read this Instructions for Use that comes with your OXYTROL before you start using it and each time you get a refill.
 There may be new information.
-This leaflet does not take the place of talking to your doctor about your medical condition or treatment.
+This information does not take the place of talking to your doctor about your medical condition or treatment.
 
 Where to apply OXYTROL:
 
@@ -11,7 +17,7 @@ Where to apply OXYTROL:
 - Do not put OXYTROL on areas that have been treated with oils, lotions, or powders that could keep the patch from sticking well to your skin.
 - When you put on a new patch, use a different area of skin from the most recent patch site.
   You may find it useful to change the site from one side of your body to the other.
-- Do not use the same area for the patch for at least 1 week.
+- Do not use the same area for the patch for at least 7 days.
   You may choose to try different sites when using OXYTROL to find the sites that are most comfortable for you and where clothing will not rub against it.
 
 How to apply OXYTROL:
@@ -49,19 +55,20 @@ How to remove OXYTROL:
 
 - When changing your OXYTROL patch, remove the old patch slowly and carefully to avoid damaging your skin.
 - After the old patch is removed, fold it in half with the sticky sides together.
-- The patch will still contain some oxybutynin, throw the patch away so that it cannot be worn or swallowed by another person, child, or pet.
+- The patch will still contain some oxybutynin.
+  Throw the patch away so that it cannot be worn or swallowed by another person, child, or pet.
 - Gently wash the application site with warm water and a mild soap to remove any adhesive that stays on your skin after removing the patch.
 - A small amount of baby oil may also be used to remove any adhesive remaining on your skin.
-  Rings of adhesive that become dirty may require a medical adhesive removal pad that you can get from your pharmacist.
+  Rings of adhesive that become dirty may need a medical adhesive removal pad that you can get from your pharmacist.
 - Alcohol or other dissolving liquids (nail polish remover or other solvents) may cause skin irritation and should not be used.
 
-This Patient Package Insert and Instructions for Use has been approved by the U.S. Food and Drug Administration.
+This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Distributed By: Allergan USA, Inc.
+Distributed By: AbbVie, Inc. North Chicago, IL 60064
 
-Irvine, CA 92612
-
-© 2017 Allergan.
+© 2023 AbbVie.
 All rights reserved.
 
-Oxytrol® is a registered trademark of Allergan Sales, LLC
+OXYTROL and its design are trademarks of Allergan Sales, LLC, an AbbVie company.
+
+Revised: 11/2023

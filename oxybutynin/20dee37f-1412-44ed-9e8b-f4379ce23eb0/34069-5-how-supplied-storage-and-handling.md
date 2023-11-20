@@ -1,12 +1,16 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-How Supplied Unit Dose: Heat sealed pouch containing 1 OXYTROL (oxybutynin transdermal system).
+How Supplied
+
+Unit Dose: Heat sealed pouch containing 1 OXYTROL (oxybutynin transdermal system).
 
 Each 39 cm2 system imprinted with “OXYTROL 3.9 mg/day” contains 36 mg of oxybutynin for nominal delivery of 3.9 mg oxybutynin per day when dosed in a twice weekly regimen.
 
-NDC 0023-6153-08 Patient Calendar Box of 8 Systems
+Patient Calendar Box of 8 Systems (NDC 0023-6153-08)
 
-Storage Store at 20-25°C (68-77°F).
+Storage
+
+Store at 20-25°C (68-77°F).
 [See USP controlled room temperature.]
 Protect from moisture and humidity.
 Do not store outside the sealed pouch.
