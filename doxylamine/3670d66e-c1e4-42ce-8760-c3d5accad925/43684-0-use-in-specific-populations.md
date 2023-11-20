@@ -8,7 +8,7 @@ Doxylamine succinate and pyridoxine hydrochloride delayed-release tablets are in
 Maternal risks are discussed throughout the labeling.
 No increased risk for congenital malformations has been reported in epidemiologic studies in pregnant women.
 
-In the U.S. general population, the estimated background risks for major birth defects and miscarriage in clinically recognized pregnancies are 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risks for major birth defects and miscarriage in clinically recognized pregnancies are 2% to 4% and 15% to 20%, respectively.
 
 Data
 
@@ -18,7 +18,7 @@ The combination of doxylamine succinate and pyridoxine hydrochloride has been th
 A meta-analysis of 16 cohort and 11 case-control studies published between 1963 and 1991 reported no increased risk for malformations from first trimester exposures to doxylamine succinate and pyridoxine hydrochloride, with or without dicyclomine hydrochloride.
 A second meta-analysis of 12 cohort and 5 case-control studies published between 1963 and 1985 reported no statistically significant relationships between fetal abnormalities and the first trimester use of the combination doxylamine succinate and pyridoxine hydrochloride with or without dicyclomine hydrochloride.
 
-## 8.3 Lactation
+## 8.2 Lactation
 
 Women should not breastfeed while using doxylamine succinate and pyridoxine hydrochloride delayed-release tablets.
 

@@ -78,13 +78,13 @@ Its main active metabolite, pyridoxal 5’-phosphate (PLP) accounts for at least
 
 Metabolism
 
-Doxylamine is biotransformed in the liver by N-dealkylation to its principle metabolites N-desmethyl-doxylamine and N, N-didesmethyldoxylamine.
+Doxylamine is biotransformed in the liver by N-dealkylation to its principal metabolites N-desmethyl-doxylamine and N, N-didesmethyldoxylamine.
 
 Pyridoxine is a prodrug primarily metabolized in the liver.
 
 Excretion
 
-The principle metabolites of doxylamine, N-desmethyl-doxylamine and N, N-didesmethyldoxylamine, are excreted by the kidney.
+The principal metabolites of doxylamine, N-desmethyl-doxylamine and N, N-didesmethyldoxylamine, are excreted by the kidney.
 
 The terminal elimination half-life of doxylamine and pyridoxine are 12.5 hours and 0.5 hours, respectively (see Table 5).
 

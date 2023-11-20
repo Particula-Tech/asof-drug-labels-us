@@ -13,4 +13,4 @@ Do not crush, chew, or split the tablets.
 
 100 Tablets
 
-Rx Only
+Rx only

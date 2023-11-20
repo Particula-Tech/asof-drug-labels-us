@@ -12,9 +12,9 @@ Inform women of the importance of not taking doxylamine succinate and pyridoxine
 
 Inform women that use of doxylamine succinate and pyridoxine hydrochloride delayed-release tablets may result in false positive urine drug screening for methadone, opiates and PCP.
 
-Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL.
-33314 USA
+Dispense with Patient Package Insert available at: www.tevausa.com/PatientPI
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
-Rev: A 1/2019
+Rev.
+B 10/2023

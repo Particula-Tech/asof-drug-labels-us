@@ -1,4 +1,4 @@
-Patient Information
+# Patient Information
 
 Doxylamine Succinate (dox il′ a meen sux′ i nate) and Pyridoxine Hydrochloride (pir′′ i dox′ een hye′′ droe klor′ ide) Delayed-release Tablets
 
@@ -17,13 +17,12 @@ Do not take doxylamine succinate and pyridoxine hydrochloride delayed-release ta
 - are allergic to doxylamine succinate, other ethanolamine derivative antihistamines, pyridoxine hydrochloride or any of the ingredients in doxylamine succinate and pyridoxine hydrochloride delayed-release tablets.
   See the end of this leaflet for a complete list of ingredients in doxylamine succinate and pyridoxine hydrochloride delayed-release tablets.
 - take monoamine oxidase inhibitors (MAOIs).
-  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including Marplan, Nardil, Emsam, Eldepryl, Zelapar, and Parnate).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including Marplan, Nardil, Emsam, Eldepryl, Zelapar, and Parnate.
 
 Before taking doxylamine succinate and pyridoxine hydrochloride delayed-release tablets, tell your healthcare provider about all of your medical conditions, including if you;
 
-- have asthma.
 - have eye problems called increased intraocular pressure or narrow angle glaucoma.
-- have a stomach problem called stenosing peptic ulcer or pyloroduodenal obstruction
+- have a stomach problem called stenosing peptic ulcer or pyloroduodenal obstruction.
 - have a bladder problem called urinary bladder-neck obstruction.
 - are breastfeeding or plan to breastfeed.
   Doxylamine succinate and pyridoxine hydrochloride can pass into your breast milk and may harm your baby.
@@ -45,11 +44,10 @@ How should I take doxylamine succinate and pyridoxine hydrochloride delayed-rele
 - Take doxylamine succinate and pyridoxine hydrochloride delayed-release tablets whole.
   Do not crush, chew, or break doxylamine succinate and pyridoxine hydrochloride delayed-release tablets before swallowing.
   If you cannot swallow doxylamine succinate and pyridoxine hydrochloride delayed-release tablets whole, tell your healthcare provider.
-
-If you take too much doxylamine succinate and pyridoxine hydrochloride delayed-release tablets (overdose), you may have the following symptoms: restlessness, dry mouth, the pupils of your eyes become larger (dilated), sleepiness, dizziness, confusion, fast heart rate, seizures, muscle pain or weakness, and sudden and severe kidney problems.
-If you have these symptoms and they are severe, they may lead to death.
-Stop taking doxylamine succinate and pyridoxine hydrochloride delayed-release tablets, call your healthcare provider or go to the nearest hospital emergency room right away.
-For more information about overdose treatment, call your poison control center at 1-800-222-1222.
+- If you take too much doxylamine succinate and pyridoxine hydrochloride delayed-release tablets (overdose), you may have the following symptoms: restlessness, dry mouth, the pupils of your eyes become larger (dilated), sleepiness, dizziness, confusion, fast heart rate, seizures, muscle pain or weakness, and sudden and severe kidney problems.
+  If you have these symptoms and they are severe, they may lead to death.
+  Stop taking doxylamine succinate and pyridoxine hydrochloride delayed-release tablets, call your healthcare provider or go to the nearest hospital emergency room right away.
+  For more information about overdose treatment, call your poison control center at 1-800-222-1222.
 
 What are the possible side effects of doxylamine succinate and pyridoxine hydrochloride delayed-release tablets?
 
@@ -69,13 +67,13 @@ You may report side effects to FDA at 1-800-FDA-­1088.
 
 How should I store doxylamine succinate and pyridoxine hydrochloride delayed-release tablets?
 
-- Store doxylamine succinate and pyridoxine hydrochloride delayed-release tablets between 68°F to 77°F (20°C to 25°C).
+- Store doxylamine succinate and pyridoxine hydrochloride delayed-release tablets between 68° to 77°F (20° to 25°C).
 - Keep doxylamine succinate and pyridoxine hydrochloride delayed-release tablets dry, in a tightly closed container, and out of the light.
 - Safely throw away medicine that is out of date or no longer needed.
 
 Keep doxylamine succinate and pyridoxine hydrochloride delayed-release tablets and all medicines out of the reach of children.
 
-General informationabout the safe and effective use of doxylamine succinate and pyridoxine hydrochloride delayed-release tablets.
+General information about the safe and effective use of doxylamine succinate and pyridoxine hydrochloride delayed-release tablets.
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 You can ask your pharmacist or healthcare provider for information about doxylamine succinate and pyridoxine hydrochloride delayed-release tablets that is written for health professionals.
 Do not use doxylamine succinate and pyridoxine hydrochloride delayed-release tablets for a condition for which it was not prescribed.
@@ -86,9 +84,7 @@ What are the ingredients in doxylamine succinate and pyridoxine hydrochloride de
 Active ingredient: doxylamine succinate (an antihistamine) and pyridoxine hydrochloride (vitamin B6).
 Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose, iron oxide black, magnesium stearate, magnesium trisilicate, methacrylic acid and ethyl acrylate copolymer, microcrystalline cellulose, polyethylene glycol, polysorbate, propylene glycol, talc, titanium dioxide.
 
-Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL.
-33314 USA
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
-Distributed by: Actavis Pharma Inc. Parsippany, NJ 07054 USA
-
-This Patient Information has been approved by the U.S. Food and Drug Administration Rev: A 1/2019
+This Patient Information has been approved by the U.S. Food and Drug Administration Rev.
+B 10/2023
