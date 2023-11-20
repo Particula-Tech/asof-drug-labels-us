@@ -222,7 +222,7 @@ Table 10: Incidence of Adverse Reactions that Occurred in ≥5% of Pediatric Pat
 
 | n (%) | n (%) |  |
 | --- | --- | --- |
-| Adverse Reaction | Daptomycin for injection (N = 55) | Comparator (N = 26) |
+| Adverse Reaction | Daptomycin for injection (N = 55) | Comparator* (N = 26) |
 | Gastrointestinal disorders |  |  |
 | Vomiting | 6 (10.9) | 2 (7.7) |
 | Investigations |  |  |
