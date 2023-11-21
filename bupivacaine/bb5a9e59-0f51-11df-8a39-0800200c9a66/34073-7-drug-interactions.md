@@ -1,11 +1,9 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
-The toxic effects of local anesthetics are additive and their co-administration should be used with caution including monitoring for neurologic and cardiovascular effects related to local anesthetic systemic toxicity [See Dosage and Administration (2.2), Warnings and Precautions (5.1), and Overdosage (10)].
+The toxic effects of local anesthetics are additive and concomitant use should be used with caution including monitoring for neurologic and cardiovascular effects related to local anesthetic systemic toxicity [see Dosage and Administration (2.2), Warnings and Precautions (5.1), and Overdosage (10)].
 Avoid additional use of local anesthetics within 96 hours following administration of EXPAREL.
 
-Patients who are administered local anesthetics may be at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics:
-
-Examples of Drugs Associated with Methemoglobinemia:
+Patients who are administered local anesthetics, including EXPAREL, may be at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics:
 
 | Class | Examples |
 | --- | --- |

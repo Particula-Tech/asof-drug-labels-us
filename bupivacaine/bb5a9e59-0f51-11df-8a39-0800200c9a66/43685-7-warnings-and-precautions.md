@@ -1,16 +1,16 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Warnings and Precautions for Bupivacaine Containing Products
+## 5.1 Warnings and Precautions for Bupivacaine-Containing Products
 
-The safety and effectiveness of bupivacaine and other amide-containing products depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies.
-As there is a potential risk of severe life-threatening adverse effects associated with the administration of bupivacaine, any bupivacaine-containing product should be administered in a setting where trained personnel and equipment are available to promptly treat patients who show evidence of neurological or cardiac toxicity [See Overdosage (10)].
+The safety and effectiveness of EXPAREL, other bupivacaine products, and other amide-containing products depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies.
+As there is a potential risk of severe life-threatening adverse reactions associated with the administration of bupivacaine, any bupivacaine-containing product should be administered in a setting where trained personnel and equipment are available to promptly treat patients who show evidence of neurological or cardiac toxicity [see Overdosage (10)].
 
 Careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient's state of consciousness should be performed after injection of bupivacaine and other amide-containing products.
 Restlessness, anxiety, incoherent speech, lightheadedness, numbness and tingling of the mouth and lips, metallic taste, tinnitus, dizziness, blurred vision, tremors, twitching, depression, or drowsiness may be early warning signs of central nervous system toxicity.
 
-Bupivacaine and other amide-containing products should also be used with caution in patients with impaired cardiovascular function because they may be less able to compensate for functional changes associated with the prolongation of AV conduction produced by these drugs.
+EXPAREL, other bupivacaine products, and other amide-containing products should also be used with caution in patients with impaired cardiovascular function because they may be less able to compensate for functional changes associated with the prolongation of AV conduction produced by these drugs.
 
-Injection of multiple doses of bupivacaine and other amide-containing products may cause significant increases in plasma concentrations with each repeated dose due to slow accumulation of the drug or its metabolites, or to slow metabolic degradation.
+Injection of multiple doses of EXPAREL, other bupivacaine products, and other amide-containing products may cause significant increases in plasma concentrations with each repeated dose due to slow accumulation of the drug or its metabolites, or to slow metabolic degradation.
 Tolerance to elevated blood concentrations varies with the status of the patient.
 
 Because amide-type local anesthetics, such as bupivacaine, are metabolized by the liver, these drugs should be used cautiously in patients with hepatic disease.
@@ -63,24 +63,24 @@ A more severe clinical presentation may require treatment with methylene blue, e
 
 ## 5.2 Warnings and Precautions Specific for EXPAREL
 
-As there is a potential risk of severe life-threatening adverse effects associated with the administration of bupivacaine, EXPAREL should be administered in a setting where trained personnel and equipment are available to promptly treat patients who show evidence of neurological or cardiac toxicity [See Overdosage (10)].
+As there is a potential risk of severe life-threatening adverse reactions associated with the administration of bupivacaine, EXPAREL should be administered in a setting where trained personnel and equipment are available to promptly treat patients who show evidence of neurological or cardiac toxicity [See Overdosage (10)].
 
 Caution should be taken to avoid accidental intravascular injection of EXPAREL.
 Convulsions and cardiac arrest have occurred following accidental intravascular injection of bupivacaine and other amide-containing products.
 
-Avoid additional use of local anesthetics within 96 hours following administration of EXPAREL [See Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Avoid additional use of local anesthetics within 96 hours following administration of EXPAREL [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
-EXPAREL has not been evaluated for the following uses and, therefore, is not recommended for these types of analgesia or routes of administration.
+EXPAREL has not been evaluated for the following uses and, therefore, is not recommended for these routes of administration or types of analgesia:
 
 - epidural
 - intrathecal
-- regional nerve blocks other than interscalene brachial plexus nerve block
 - intravascular or intra-articular use
+- regional nerve blocks other than interscalene brachial plexus nerve block, sciatic nerve block in the popliteal fossa, and adductor canal block
 
 EXPAREL has not been evaluated for use in the following patient populations and, therefore, is not recommended for administration to these groups.
 
 - patients younger than 6 years old for infiltration
-- patients younger than 18 years old for interscalene brachial plexus nerve block
+- patients younger than 18 years old for interscalene brachial plexus nerve block, sciatic nerve block in the popliteal fossa, and adductor canal block
 - pregnant patients
 
-The potential sensory and/or motor loss with EXPAREL is temporary and varies in degree and duration depending on the site of injection and dosage administered and may last for up to 5 days as seen in clinical trials.
+The potential sensory and/or motor loss with EXPAREL is temporary and varies in degree and duration depending on the site of injection and dose administered and may last for up to 5 days as seen in clinical trials.
