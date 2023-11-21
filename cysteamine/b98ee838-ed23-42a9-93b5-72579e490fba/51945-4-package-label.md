@@ -14,10 +14,10 @@ Sterile
 
 Rx only
 
-Active Ingredient: Each mL contains 6.5 mg cysteamine hydrochloride, equivalent to 4.4 mg cysteamine.
+Active Ingredient:Each mL contains 6.5 mg cysteamine hydrochloride, equivalent to 4.4 mg cysteamine.
 Inactive Ingredients: Benzalkonium chloride (preservative); Sodium chloride; hydrochloric acid and/or sodium hydroxide (to adjust pH) and purified water.
 
-Dosage: See Prescribing Information.
+Dosage:See Prescribing Information.
 
 Store in freezer in original carton at -25°C to -15°C (-13°F to 5°F).
 Thaw in original carton for approximately 24 hours before use.
