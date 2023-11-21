@@ -39,7 +39,7 @@ These reactions can occur within hours to weeks after injection with botulinum t
 
 ## 5.5 Facial Anatomy in the Treatment of Glabellar Lines
 
-Caution should be exercised when administering DYSPORT to patients with surgical alterations to the facial anatomy, excessive weakness or atrophy in the target muscle(s), marked facial asymmetry, inflammation at the injection site(s), ptosis, excessive dermatochalasis, deep dermal scarring, thick sebaceous skin [see Dosage and Administration (2.4)] or the inability to substantially lessen glabellar lines by physically spreading them apart [see Clinical Studies (14.2)].
+Caution should be exercised when administering DYSPORT to patients with surgical alterations to the facial anatomy, marked facial asymmetry, inflammation at the injection site(s), ptosis, excessive dermatochalasis, deep dermal scarring, thick sebaceous skin [see Dosage and Administration (2.4)] or the inability to substantially lessen glabellar lines by physically spreading them apart [see Clinical Studies (14.2)].
 
 Do not exceed the recommended dosage and frequency of administration of DYSPORT.
 In clinical trials, subjects who received a higher dose of DYSPORT had an increased incidence of eyelid ptosis.
@@ -67,3 +67,7 @@ No cases of transmission of viral diseases, CJD, or vCJD have ever been identifi
 The possibility of an immune reaction when injected intradermally is unknown.
 The safety of DYSPORT for the treatment of hyperhidrosis has not been established.
 DYSPORT is approved only for intramuscular injection.
+
+## 5.10 Pre-existing Conditions at the Injection Site
+
+Caution should be exercised when DYSPORT is used where the targeted muscle shows excessive weakness or atrophy.

@@ -62,7 +62,7 @@ Tell your doctor about all your medical conditions, including if you:
 - have or have had a slow heart beat or other problem with your heart rate or rhythm
 - have plans to have surgery
 - had surgery on your face
-- have weakness of your forehead muscles (such as trouble raising your eyebrows)
+- have weakness in or near your muscles being treated
 - have drooping eyelids
 - experienced dry eye with previous use of botulinum toxin products
 - have any other change in the way your face normally looks
@@ -178,9 +178,9 @@ Active ingredient: (botulinum toxin Type A) Inactive ingredients: human albumin 
 DYSPORT may contain cow's milk protein.
 
 Distributed by: Ipsen Biopharmaceuticals, Inc. Cambridge, MA 02142 and Galderma Laboratories, L.P.
-Fort Worth, TX 76177; Manufactured by: Ipsen Biopharma Ltd., Wrexham, LL13 9UF, UK U.S. License No. 1787 For more information about DYSPORT, call 855-463-5127 or go to www.dysport.com or www.DysportUSA.com.
+Dallas, TX 75201 Manufactured by: Ipsen Biopharma Ltd., Wrexham, LL13 9UF, UK U.S. License No. 1787 For more information about DYSPORT, call 855-463-5127 or go to www.dysport.com or www.DysportUSA.com.
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Revised 07/2020 DYSPORT is a registered trademark of Ipsen Biopharm Limited.
-Botox, Xeomin and Myobloc are registered trademarks of their respective owners. © 2020.
+Revised 09/2023 DYSPORT is a registered trademark of Ipsen Biopharm Limited.
+Botox, Xeomin and Myobloc are registered trademarks of their respective owners. © 2023.
 All rights reserved.

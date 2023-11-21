@@ -2,9 +2,8 @@
 
 The following serious adverse reactions are discussed below and elsewhere in labeling:
 
-- Distant Spread of Toxin Effect [see Warnings and Precautions (5.1)]
+- Spread of Toxin Effect [see Warnings and Precautions (5.1)]
 - Lack of Interchangeability between Botulinum Toxin Products [see Warnings and Precautions (5.2)]
-- Spread of Toxin Effect [see Warnings and Precautions (5.2)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
 - Dysphagia and Breathing Difficulties [see Warnings and Precautions (5.4)]
 - Facial Anatomy in the Treatment of Glabellar Lines [see Warnings and Precautions (5.5)]
@@ -12,6 +11,7 @@ The following serious adverse reactions are discussed below and elsewhere in lab
 - Pre-existing Neuromuscular Disorders [see Warnings and Precautions (5.7)]
 - Human Albumin and Transmission of Viral Diseases [see Warnings and Precautions (5.8)]
 - Intradermal Immune Reaction [see Warnings and Precautions (5.9)]
+- Pre-existing Conditions at the Injection Site [See Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -293,5 +293,5 @@ In the presence of binding and neutralizing antibodies to DYSPORT, some patients
 ## 6.3 Postmarketing Experience
 
 Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The following adverse reactions have been identified during post-approval use of DYSPORT: vertigo, photophobia, influenza-like illness, amyotrophy, burning sensation, facial paresis, hypoesthesia, erythema, dry eye, and excessive granulation tissue.
+The following adverse reactions have been identified during post-approval use of DYSPORT: vertigo, photophobia, influenza-like illness, amyotrophy, muscle atrophy, burning sensation, facial paresis, hypoesthesia, erythema, dry eye, and excessive granulation tissue.
 Hypersensitivity reactions including anaphylaxis have been reported.
