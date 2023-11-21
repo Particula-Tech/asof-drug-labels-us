@@ -131,7 +131,7 @@ Approximately 63% and 55% of these MMF dose reductions were because of adverse r
 Table 26.
 MMF Dose Over Time in the Tacrolimus/MMF Group (Study 2)
 
-| Time period (Days) |  | Time-averaged MMF dose (g/day)1 |  |
+| Time period (Days) | Time-averaged MMF dose (g/day)1 |  |  |
 | --- | --- | --- | --- |
 |  | Less than 2.0 | 2.0 | Greater than 2.0 |
 | 0-30 (N = 212) | 25% | 69% | 6% |

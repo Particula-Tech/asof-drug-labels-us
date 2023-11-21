@@ -54,10 +54,6 @@ Talk to your healthcare provider before starting treatment with tacrolimus about
 o Males who have female partners who are able to become pregnant should also use effective birth control before and during treatment with tacrolimus.
 Talk to your healthcare provider before starting treatment with tacrolimus about birth control methods that may be right for you.
 
-o There is a pregnancy registry for females who become pregnant and males who have fathered a pregnancy during treatment with tacrolimus.
-The purpose of this registry is to collect information about the health of you and your baby.
-To enroll in this voluntary registry, call 1-877-955-6877 or go to https://www.transplantpregnancyregistry.org/.
-
 - are breastfeeding or plan to breastfeed.
   Tacrolimus passes into your breast milk.
   You and your healthcare provider should decide if you will breastfeed while taking tacrolimus capsules.
@@ -91,6 +87,7 @@ Especially tell your healthcare provider if you take:
 - rifampin (RIFADIN, RIFAMATE, RIFATER, RIMACTANE)
 - rifabutin (MYCOBUTIN)
 - amiodarone (NEXTERONE, PACERONE)
+- cannabidiol (EPIDIOLEX)
 
 Ask your healthcare provider or pharmacist if you are not sure if you take any of the medicines listed above.
 
@@ -275,7 +272,7 @@ Strides Pharma Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 01/2023
+Revised: 11/2023
 
 Additional pediatric use information is approved for Astellas Pharma US, Inc.'s Prograf (tacrolimus) products.
 However, due to Astellas Pharma US, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.

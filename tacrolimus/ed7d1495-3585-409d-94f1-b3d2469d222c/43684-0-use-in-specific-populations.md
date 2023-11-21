@@ -2,13 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
-
-There is a pregnancy registry that monitors pregnancy outcomes in women exposed to tacrolimus during pregnancy.
-
-The Transplantation Pregnancy Registry International (TPRI) is a voluntary pregnancy exposure registry that monitors outcomes of pregnancy in female transplant recipients and those fathered by male transplant recipients exposed to immunosuppressants including tacrolimus.
-Healthcare providers are encouraged to advise their patients to register by contacting the Transplantation Pregnancy Registry International at 1-877-955-6877 or https://www.transplantpregnancyregistry.org/.
-
 Risk Summary
 
 Tacrolimus can cause fetal harm when administered to a pregnant woman.
