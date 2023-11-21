@@ -17,14 +17,14 @@ Ophthalmic Adverse Reactions
 Inform patients that BOTOX Cosmetic injection may cause eye dryness.
 Advise patients to report symptoms of eye dryness (e.g., eye pain, eye irritation, photosensitivity, or changes in vision) to their doctor.
 
-Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. U.S. License number 1145
+Manufactured by: AbbVie Inc. 1 N Waukegan Rd.
+North Chicago, IL.
+60064 U.S. License number 1889
 
-Distributed by: Allergan USA, Inc. Madison, NJ 07940
-
-© 2020 Allergan.
+© 2023 AbbVie.
 All rights reserved.
-All trademarks are the property of their respective owners.
+BOTOX and its design are trademarks of Allergan Inc., an AbbVie company.
 Patented.
-See: www.allergan.com/patents
+See: https://www.abbvie.com/patents.html
 
-v2.0USPI3919
+v3.0USPI3919

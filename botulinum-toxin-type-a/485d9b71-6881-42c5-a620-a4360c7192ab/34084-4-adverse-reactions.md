@@ -74,7 +74,7 @@ The critical factors for neutralizing antibody formation have not been well char
 The results from some studies suggest that botulinum toxin injections at more frequent intervals or at higher doses may lead to greater incidence of antibody formation.
 The potential for antibody formation may be minimized by injecting with the lowest effective dose given at the longest feasible intervals between injections.
 
-## 6.3Post-marketing Experience
+## 6.3Postmarketing Experience
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 

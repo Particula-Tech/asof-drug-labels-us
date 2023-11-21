@@ -82,7 +82,7 @@ This may require protective drops, ointment, therapeutic soft contact lenses, or
 There have been reports of dry eye associated with BOTOX Cosmetic injection in or near the orbicularis oculi muscle.
 If symptoms of dry eye (e.g., eye irritation, photophobia, or visual changes) persist, consider referring patients to an ophthalmologist [see Warnings and Precautions (5.9)].
 
-## 5.11Spatial Disorientation, Double Vision or Past-pointing in Patients Treated for Strabismus
+## 5.11Spatial Disorientation, Double Vision or Past-Pointing in Patients Treated for Strabismus
 
 Inducing paralysis in one or more extraocular muscles may produce spatial disorientation, double vision or past pointing.
 Covering the affected eye may alleviate these symptoms.
