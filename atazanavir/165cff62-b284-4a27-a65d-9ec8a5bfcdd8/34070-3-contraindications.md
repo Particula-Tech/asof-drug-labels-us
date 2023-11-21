@@ -13,16 +13,17 @@ Table 6: Drugs Contraindicated with REYATAZ (Information in the table applies to
 | Drug Class | Drugs within class that are contraindicated with REYATAZ |
 | --- | --- |
 | Alpha 1-adrenoreceptor antagonist | Alfuzosin |
+| Anticonvulsants | Carbamazepine, phenobarbital, phenytoin |
 | Antiarrhythmics | Amiodarone (with ritonavir), quinidine (with ritonavir) |
 | Antimycobacterials | Rifampin |
-| Antineoplastics | Irinotecan |
+| Antineoplastics | Apalutamide, encorafenib, irinotecan, ivosidenib |
 | Antipsychotics | Lurasidone (with ritonavir), pimozide |
-| Benzodiazepines | Triazolam, orally administered midazolama |
-| Ergot Derivatives | Dihydroergotamine, ergotamine, ergonovine, methylergonovine |
+| Benzodiazepines | Orally administered midazolama, triazolam |
+| Ergot Derivatives | Dihydroergotamine, ergonovine, ergotamine, methylergonovine |
 | GI Motility Agent | Cisapride |
 | Hepatitis C Direct-Acting Antivirals | Elbasvir/grazoprevir; glecaprevir/pibrentasvir |
 | Herbal Products | St. John’s wort (Hypericum perforatum) |
-| Lipid-Modifying Agents: | Lovastatin, simvastatin, lomitapide |
+| Lipid-Modifying Agents: | Lomitapide, lovastatin, simvastatin |
 | Phosphodiesterase-5 (PDE-5) Inhibitor | Sildenafilb when dosed as REVATIO® for the treatment of pulmonary arterial hypertension |
 | Protease Inhibitors | Indinavir |
 | Non-nucleoside Reverse Transcriptase Inhibitors | Nevirapine |

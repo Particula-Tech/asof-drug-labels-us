@@ -33,16 +33,16 @@ Treatment response and outcomes through Week 48 are presented in Table 27.
 
 Table 27: Outcomes of Randomized Treatment Through Week 48 in Treatment-Naive Adults (Study AI424-034)
 
-| Outcome | REYATAZ 400 mg once daily and lamivudine/zidovudined (n=405) | efavirenz 600 mg once daily and lamivudine/zidovudined (n=405) |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Respondera | 67% (32%) | 62% (37%) |  |  |  |
-| Virologic failureb | 20% | 21% |  |  |  |
-| Rebound | 17% | 16% |  |  |  |
-| Never suppressed through Week 48 | 3% | 5% |  |  |  |
-| Death | – | <1% |  |  |  |
-| Discontinued due to adverse event | 5% | 7% |  |  |  |
-| Discontinued for other reasonsc | 8% | 10% |  |  |  |
-| a Subjects achieved and maintained confirmed HIV-1 RNA <400 copies/mL (<50 copies/mL) through Week 48. Roche Amplicor® HIV-1 Monitor™ Assay, test version 1.0 or 1.5 as geographically appropriate. b Includes viral rebound and failure to achieve confirmed HIV-1 RNA <400 copies/mL through Week 48. c Includes lost to follow-up, subject’s withdrawal, noncompliance, protocol violation, and other reasons. d As a fixed-dose product: 150 mg lamivudine/300 mg zidovudine twice daily. |  |  |  |  |  |
+| Outcome | REYATAZ 400 mg once daily and lamivudine/zidovudined (n=405) | efavirenz 600 mg once daily and lamivudine/zidovudined (n=405) |
+| --- | --- | --- |
+| Respondera | 67% (32%) | 62% (37%) |
+| Virologic failureb | 20% | 21% |
+| Rebound | 17% | 16% |
+| Never suppressed through Week 48 | 3% | 5% |
+| Death | – | <1% |
+| Discontinued due to adverse event | 5% | 7% |
+| Discontinued for other reasonsc | 8% | 10% |
+| a Subjects achieved and maintained confirmed HIV-1 RNA <400 copies/mL (<50 copies/mL) through Week 48. Roche Amplicor® HIV-1 Monitor™ Assay, test version 1.0 or 1.5 as geographically appropriate. b Includes viral rebound and failure to achieve confirmed HIV-1 RNA <400 copies/mL through Week 48. c Includes lost to follow-up, subject’s withdrawal, noncompliance, protocol violation, and other reasons. d As a fixed-dose product: 150 mg lamivudine/300 mg zidovudine twice daily. |  |  |
 
 Through 48 weeks of therapy, the proportion of responders among subjects with high viral loads (ie, baseline HIV-1 RNA ≥100,000 copies/mL) was comparable for the REYATAZ and efavirenz arms.
 The mean increase from baseline in CD4+ cell count was 176 cells/mm3 for the REYATAZ arm and 160 cells/mm3 for the efavirenz arm.
@@ -55,16 +55,16 @@ Treatment response and outcomes through Week 48 are presented in Table 28.
 
 Table 28: Outcomes of Randomized Treatment Through Week 48 in Treatment-Naive Adults (Study AI424-008)
 
-| Outcome | REYATAZ 400 mg once daily with lamivudine and stavudine (n=181) | nelfinavir 1250 mg twice daily with lamivudine and stavudine (n=91) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Respondera | 67% (33%) | 59% (38%) |  |  |  |  |  |  |
-| Virologic failureb | 24% | 27% |  |  |  |  |  |  |
-| Rebound | 14% | 14% |  |  |  |  |  |  |
-| Never suppressed through Week 48 | 10% | 13% |  |  |  |  |  |  |
-| Death | <1% | – |  |  |  |  |  |  |
-| Discontinued due to adverse event | 1% | 3% |  |  |  |  |  |  |
-| Discontinued for other reasonsc | 7% | 10% |  |  |  |  |  |  |
-| a Subjects achieved and maintained confirmed HIV-1 RNA <400 copies/mL (<50 copies/mL) through Week 48. Roche Amplicor® HIV-1 Monitor™ Assay, test version 1.0 or 1.5 as geographically appropriate. b Includes viral rebound and failure to achieve confirmed HIV-1 RNA <400 copies/mL through Week 48. c Includes lost to follow-up, subject’s withdrawal, noncompliance, protocol violation, and other reasons. |  |  |  |  |  |  |  |  |
+| Outcome | REYATAZ 400 mg once daily with lamivudine and stavudine (n=181) | nelfinavir 1250 mg twice daily with lamivudine and stavudine (n=91) |
+| --- | --- | --- |
+| Respondera | 67% (33%) | 59% (38%) |
+| Virologic failureb | 24% | 27% |
+| Rebound | 14% | 14% |
+| Never suppressed through Week 48 | 10% | 13% |
+| Death | <1% | – |
+| Discontinued due to adverse event | 1% | 3% |
+| Discontinued for other reasonsc | 7% | 10% |
+| a Subjects achieved and maintained confirmed HIV-1 RNA <400 copies/mL (<50 copies/mL) through Week 48. Roche Amplicor® HIV-1 Monitor™ Assay, test version 1.0 or 1.5 as geographically appropriate. b Includes viral rebound and failure to achieve confirmed HIV-1 RNA <400 copies/mL through Week 48. c Includes lost to follow-up, subject’s withdrawal, noncompliance, protocol violation, and other reasons. |  |  |
 
 Through 48 weeks of therapy, the mean increase from baseline in CD4+ cell count was 234 cells/mm3 for the REYATAZ 400-mg arm and 211 cells/mm3 for the nelfinavir arm.
 
@@ -115,7 +115,7 @@ In this study, 105 subjects (43 antiretroviral-naive and 62 antiretroviral-exper
 
 One-hundred five (105) subjects (6 to less than 18 years of age) treated with the REYATAZ capsule formulation, with or without ritonavir, were evaluated.
 Using an intent-to-treat (ITT) analysis, the overall proportions of antiretroviral-naive and -experienced subjects with HIV-1 RNA <400 copies/mL at Week 96 were 51% (22/43) and 34% (21/62), respectively.
-The overall proportions of antiretroviral-naive and experienced subjects with HIV-1 RNA <50 copies/mL at Week 96 were 47% (20/43) and 24% (15/62), respectively.
+The overall proportions of antiretroviral-naive and -experienced subjects with HIV-1 RNA <50 copies/mL at Week 96 were 47% (20/43) and 24% (15/62), respectively.
 The median increase from baseline in absolute CD4 count at 96 weeks of therapy was 335 cells/mm3 in antiretroviral-naive subjects and 220 cells/mm3 in antiretroviral-experienced subjects.
 
 ### Pediatric Trials with REYATAZ Oral Powder
@@ -125,7 +125,7 @@ Assessment of the pharmacokinetics, safety, tolerability, and virologic response
 - •AI424-397 (PRINCE I; NCT01099579): In pediatric subjects from 3 months to less than 6 years of age
 - •AI424-451 (PRINCE II; NCT01335698): In pediatric subjects from 3 months to less than 11 years of age
 
-In these studies 155 subjects (59 antiretroviral-naive and 96 antiretroviral-experienced) received once daily REYATAZ oral powder with ritonavir, in combination with two NRTIs.
+In these studies, 155 subjects (59 antiretroviral-naive and 96 antiretroviral-experienced) received once daily REYATAZ oral powder with ritonavir, in combination with two NRTIs.
 
 For inclusion in both trials, treatment-naive subjects had to have genotypic sensitivity to REYATAZ and two NRTIs, and treatment-experienced subjects had to have documented genotypic and phenotypic sensitivity at screening to REYATAZ and at least 2 NRTIs.
 Subjects exposed only to antiretrovirals in utero or intrapartum were considered treatment-naive.

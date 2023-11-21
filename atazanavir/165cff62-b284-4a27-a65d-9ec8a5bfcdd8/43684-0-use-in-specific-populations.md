@@ -59,7 +59,7 @@ In addition, women with Rh incompatibility were excluded, as well as women who h
 
 Additionally, of the 38 infants who had glucose samples collected in the first day of life, 3 had adequately collected serum glucose samples with values of less than 40 mg/dL that could not be attributed to maternal glucose intolerance, difficult delivery, or sepsis.
 
-Based on prospective reports from the APR of approximately 1600 live births following exposure to atazanavir-containing regimens (including 1037 live births in infants exposed in the first trimester and 569 exposed in second/third trimesters), there was no difference between atazanavir and overall birth defects compared with the background birth defect rate.
+Based on prospective reports from the APR of approximately 1600 live births following exposure to atazanavir-containing regimens (including 1037 live births in infants exposed in the first trimester and 569 exposed in second/third trimesters), there was no difference between atazanavir, and overall birth defects compared with the background birth defect rate.
 In the U.S. general population, the estimated background risk of major birth defects in clinically recognized pregnancies is 2-4%.
 
 #### Animal Data

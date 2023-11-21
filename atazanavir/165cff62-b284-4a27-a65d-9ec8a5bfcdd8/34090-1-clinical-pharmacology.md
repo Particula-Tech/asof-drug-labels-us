@@ -50,7 +50,7 @@ Figure 1: Mean (SD) Steady-State Plasma Concentrations of Atazanavir 400 mg (n=1
 
 Atazanavir is rapidly absorbed with a Tmax of approximately 2.5 hours.
 Atazanavir demonstrates nonlinear pharmacokinetics with greater than dose-proportional increases in AUC and Cmax values over the dose range of 200 to 800 mg once daily.
-Steady state is achieved between Days 4 and 8, with an accumulation of approximately 2.3 fold.
+Steady state is achieved between Days 4 and 8, with an accumulation of approximately 2.3-fold.
 
 ### Food Effect
 
@@ -163,7 +163,7 @@ Drug interaction studies were performed with REYATAZ and other drugs likely to b
 The effects of coadministration of REYATAZ on the AUC, Cmax, and Cmin are summarized in Tables 21 and 22.
 Neither didanosine EC nor diltiazem had a significant effect on atazanavir exposures (see Table 22 for effect of atazanavir on didanosine EC or diltiazem exposures).
 REYATAZ did not have a significant effect on the exposures of didanosine (when administered as the buffered tablet), stavudine, or fluconazole.
-For information regarding clinical recommendations, see Drug Interactions (7).
+For information regarding clinical recommendations, [see Drug Interactions (7)].
 
 Table 21: Drug Interactions: Pharmacokinetic Parameters for Atazanavir in the Presence of Coadministered Drugsa
 
@@ -204,39 +204,39 @@ Table 21: Drug Interactions: Pharmacokinetic Parameters for Atazanavir in the Pr
 
 Table 22: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs in the Presence of REYATAZa
 
-| Cmax | AUC | Cmin |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Coadministered Drug Dose/Schedule | REYATAZ Dose/Schedule | Ratio (90% Confidence Interval) of Coadministered Drug Pharmacokinetic Parameters with/without REYATAZ; No Effect = 1.00 |  |  |  |  |  |  |  |  |
-| acetaminophen | 1 g BID, d 1–20 (n=10) | 300 mg QD with ritonavir 100 mg QD, d 11–20 (n=10) | 0.87 (0.77, 0.99) | 0.97 (0.91, 1.03) | 1.26 (1.08, 1.46) |  |  |  |  |  |  |
-| atenolol | 50 mg QD, d 7–11 (n=19) and d 19–23 | 400 mg QD, d 1–11 (n=19) | 1.34 (1.26, 1.42) | 1.25 (1.16, 1.34) | 1.02 (0.88, 1.19) |  |  |  |  |  |  |
-| clarithromycin | 500 mg BID, d 7–10 (n=21) and d 18–21 | 400 mg QD, d 1–10 (n=21) | 1.50 (1.32, 1.71) OH-clarithromycin: 0.28 (0.24, 0.33) | 1.94 (1.75, 2.16) OH-clarithromycin: 0.30 (0.26, 0.34) | 2.60 (2.35, 2.88) OH-clarithromycin: 0.38 (0.34, 0.42) |  |  |  |  |  |  |
-| ddI (enteric-coated [EC] capsules)b | 400 mg d 1 (fasted), d 8 (fed) (n=34) | 400 mg QD, d 2–8 (n=34) | 0.64 (0.55, 0.74) | 0.66 (0.60, 0.74) | 1.13 (0.91, 1.41) |  |  |  |  |  |  |
-|  | 400 mg d 1 (fasted), d 19 (fed) (n=31) | 300 mg QD with ritonavir 100 mg QD, d 9–19 (n=31) | 0.62 (0.52, 0.74) | 0.66 (0.59, 0.73) | 1.25 (0.92, 1.69) |  |  |  |  |  |  |
-| diltiazem | 180 mg QD, d 7–11 (n=28) and d 19–23 | 400 mg QD, d 1–11 (n=28) | 1.98 (1.78, 2.19) desacetyl-diltiazem: 2.72 (2.44, 3.03) | 2.25 (2.09, 2.16) desacetyl-diltiazem: 2.65 (2.45, 2.87) | 2.42 (2.14, 2.73) desacetyl-diltiazem: 2.21 (2.02, 2.42) |  |  |  |  |  |  |
-| ethinyl estradiol & norethindronec | Ortho-Novum® 7/7/7 QD, d 1–29 (n=19) | 400 mg QD, d 16–29 (n=19) | ethinyl estradiol: 1.15 (0.99, 1.32) norethindrone: 1.67 (1.42, 1.96) | ethinyl estradiol: 1.48 (1.31, 1.68) norethindrone: 2.10 (1.68, 2.62) | ethinyl estradiol: 1.91 (1.57, 2.33) norethindrone: 3.62 (2.57, 5.09) |  |  |  |  |  |  |
-| ethinyl estradiol & norgestimated | Ortho Tri-Cyclen® QD, d 1–28 (n=18), then Ortho Tri-Cyclen® LO QD, d 29–42e (n=14) | 300 mg QD with ritonavir 100 mg QD, d 29–42 (n=14) | ethinyl estradiol: 0.84 (0.74, 0.95) 17-deacetyl norgestimate:f 1.68 (1.51, 1.88) | ethinyl estradiol: 0.81 (0.75, 0.87) 17-deacetyl norgestimate:f 1.85 (1.67, 2.05) | ethinyl estradiol: 0.63 (0.55, 0.71) 17-deacetyl norgestimate:f 2.02 (1.77, 2.31) |  |  |  |  |  |  |
-| glecaprevir/ pibrentasvir | 300 mg glecaprevir (n=12) | 300 mg QD with ritonavir 100 mg QD (n=12) | ≥4.06g (3.15, 5.23) | ≥6.53g (5.24, 8.14) | ≥14.3g (9.85, 20.7) |  |  |  |  |  |  |
-| 120 mg pibrentasvir (n=12) | 300 mg QD with ritonavir 100 mg QD (n=12) | ≥1.29g (1.15, 1.45) | ≥1.64g (1.48, 1.82) | ≥2.29g (1.95, 2.68) |  |  |  |  |  |  |  |
-| grazoprevir/elbasvir | grazoprevir 200 mg QD d 1–35 (n=12) | 300 mg QD with ritonavir 100 mg QD d 1–35 (n=12) | 6.24 (4.42, 8.81) | 10.58 (7.78, 14.39) | 11.64 (7.96, 17.02) |  |  |  |  |  |  |
-| elbasvir 50 mg QD d 1–35 (n=10) | 300 mg QD with ritonavir 100 mg QD d 1–35 (n=10) | 4.15 (3.46, 4.97) | 4.76 (4.07, 5.56) | 6.45 (5.51, 7.54) |  |  |  |  |  |  |  |
-| methadone | Stable maintenancedose, d 1–15 (n=16) | 400 mg QD, d 2–15 (n=16) | (R)-methadoneh 0.91 (0.84, 1.0) total: 0.85 (0.78, 0.93) | (R)-methadoneh 1.03 (0.95, 1.10) total: 0.94 (0.87, 1.02) | (R)-methadoneh 1.11 (1.02, 1.20) total: 1.02 (0.93, 1.12) |  |  |  |  |  |  |
-| nevirapinei,j | 200 mg BID, d 1–23 (n=23) | 300 mg QD with ritonavir 100 mg QD, d 4–13, then 400 mg QD with ritonavir 100 mg QD, d 14–23 (n=23) | 1.17 (1.09, 1.25) 1.21 (1.11, 1.32) | 1.25 (1.17, 1.34) 1.26 (1.17, 1.36) | 1.32 (1.22, 1.43) 1.35 (1.25, 1.47) |  |  |  |  |  |  |
-| omeprazolek | 40 mg single dose, d 7 and d 20 (n=16) | 400 mg QD, d 1–12 (n=16) | 1.24 (1.04, 1.47) | 1.45 (1.20, 1.76) | NA |  |  |  |  |  |  |
-| rifabutin | 300 mg QD, d 1–10 then 150 mg QD, d 11–20 (n=3) | 600 mg QD,l d 11–20 (n=3) | 1.18 (0.94, 1.48) 25-O-desacetyl-rifabutin: 8.20 (5.90, 11.40) | 2.10 (1.57, 2.79) 25-O-desacetyl-rifabutin: 22.01 (15.97, 30.34) | 3.43 (1.98, 5.96) 25-O-desacetyl-rifabutin: 75.6 (30.1, 190.0) |  |  |  |  |  |  |
-|  | 150 mg twice weekly, d 1–15 (n=7) | 300 mg QD with ritonavir 100 mg QD, d 1–17 (n=7) | 2.49m (2.03, 3.06) 25-O-desacetyl-rifabutin: 7.77 (6.13, 9.83) | 1.48m (1.19, 1.84) 25-O-desacetyl-rifabutin: 10.90 (8.14, 14.61) | 1.40m (1.05, 1.87) 25-O-desacetyl-rifabutin: 11.45 (8.15, 16.10) |  |  |  |  |  |  |
-| pitavastatin | 4 mg QD for 5 days | 300 mg QD for 5 days | 1.60 (1.39, 1.85) | 1.31 (1.23, 1.39) | NA |  |  |  |  |  |  |
-| rosiglitazonen | 4 mg single dose, d 1, 7, 17 (n=14) | 400 mg QD, d 2–7, then 300 mg QD with ritonavir 100 mg QD, d 8–17 (n=14) | 1.08 (1.03, 1.13) 0.97 (0.91, 1.04) | 1.35 (1.26, 1.44) 0.83 (0.77, 0.89) | NA NA |  |  |  |  |  |  |
-| rosuvastatin | 10 mg single dose | 300 mg QD with ritonavir 100 mg QD for 7 days | ↑ 7-foldo | ↑ 3-foldo | NA |  |  |  |  |  |  |
-| saquinavirp (soft gelatin capsules) | 1200 mg QD, d 1–13 (n=7) | 400 mg QD, d 7–13 (n=7) | 4.39 (3.24, 5.95) | 5.49 (4.04, 7.47) | 6.86 (5.29, 8.91) |  |  |  |  |  |  |
-| sofosbuvir/ velpatasvir/ voxilaprevir | 400 mg sofosbuvir single dose (n=15) | 300 mg with 100 mg ritonavir single dose (n=15) | 1.29 (1.09, 1.52) sofosbuvir metabolite GS-331007 1.05 (0.99, 1.12) | 1.40 (1.25, 1.57) sofosbuvir metabolite GS-331007 1.25 (1.16, 1.36) | NA |  |  |  |  |  |  |
-| 100 mg velpatasvir single dose (n=15) | 300 mg with 100 mg ritonavir single dose (n=15) | 1.29 (1.07, 1.56) | 1.93 (1.58, 2.36) | NA |  |  |  |  |  |  |  |
-| 100 mg voxilaprevir single dose (n=15) | 300 mg with 100 mg ritonavir single dose (n=15) | 4.42 (3.65, 5.35) | 4.31 (3.76, 4.93) | NA |  |  |  |  |  |  |  |
-| tenofovir DFq | 300 mg QD, d 9–16 (n=33) and d 24–30 (n=33) | 400 mg QD, d 2–16 (n=33) | 1.14 (1.08, 1.20) | 1.24 (1.21, 1.28) | 1.22 (1.15, 1.30) |  |  |  |  |  |  |
-|  | 300 mg QD, d 1–7 (pm) (n=14) d 25–34 (pm) (n=12) | 300 mg QD with ritonavir 100 mg QD, d 25–34 (am) (n=12)r | 1.34 (1.20, 1.51) | 1.37 (1.30, 1.45) | 1.29 (1.21, 1.36) |  |  |  |  |  |  |
-| voriconazole (Subjects with at least one functional CYP2C19 allele) | 200 mg BID, d 2–3, 22–30; 400 mg BID, d 1, 21 (n=20) | 300 mg with ritonavir 100 mg QD, d 11–30 (n=20) | 0.90 (0.78, 1.04) | 0.67 (0.58, 0.78) | 0.61 (0.51, 0.72) |  |  |  |  |  |  |
-| voriconazole (Subjects without a functional CYP2C19 allele) | 50 mg BID, d 2–3, 22–30; 100 mg BID, d 1, 21 (n=8) | 300 mg with ritonavir 100 mg QD, d 11–30 (n=8) | 4.38 (3.55, 5.39) | 5.61 (4.51, 6.99) | 7.65 (5.71, 10.2) |  |  |  |  |  |  |
-| lamivudine and zidovudine | 150 mg lamivudine and 300 mg zidovudine BID, d 1–12 (n=19) | 400 mg QD, d 7–12 (n=19) | lamivudine: 1.04 (0.92, 1.16) zidovudine: 1.05 (0.88, 1.24) zidovudine glucuronide: 0.95 (0.88, 1.02) | lamivudine: 1.03 (0.98, 1.08) zidovudine: 1.05 (0.96, 1.14) zidovudine glucuronide: 1.00 (0.97, 1.03) | lamivudine: 1.12 (1.04, 1.21) zidovudine: 0.69 (0.57, 0.84) zidovudine glucuronide: 0.82 (0.62, 1.08) |  |  |  |  |  |  |
-| a Data provided are under fed conditions unless otherwise noted. b 400 mg ddI EC and REYATAZ were administered together with food on Days 8 and 19. c Upon further dose normalization of ethinyl estradiol 25 mcg with atazanavir relative to ethinyl estradiol 35 mcg without atazanavir, the ratio of geometric means (90% confidence intervals) for Cmax, AUC, and Cmin were 0.82 (0.73, 0.92), 1.06 (0.95, 1.17), and 1.35 (1.11, 1.63), respectively. d Upon further dose normalization of ethinyl estradiol 35 mcg with atazanavir with ritonavir relative to ethinyl estradiol 25 mcg without atazanavir with ritonavir, the ratio of geometric means (90% confidence intervals) for Cmax, AUC, and Cmin were 1.17 (1.03, 1.34), 1.13 (1.05, 1.22), and 0.88 (0.77, 1.00), respectively. e All subjects were on a 28-day lead-in period; one full cycle of Ortho Tri-Cyclen®. Ortho Tri-Cyclen® contains 35 mcg of ethinyl estradiol. Ortho Tri-Cyclen® LO contains 25 mcg of ethinyl estradiol. Results were dose normalized to an ethinyl estradiol dose of 35 mcg. f 17-deacetyl norgestimate is the active component of norgestimate. g Effect of atazanavir with ritonavir on the first dose of glecaprevir and pibrentasvir is reported. h (R)-methadone is the active isomer of methadone. i Study was conducted in subjects with HIV-1 infection. j Subjects were treated with nevirapine prior to study entry. k Omeprazole was used as a metabolic probe for CYP2C19. Omeprazole was given 2 hours after REYATAZ on Day 7; and was given alone 2 hours after a light meal on Day 20. l Not the recommended therapeutic dose of atazanavir. m When compared to rifabutin 150 mg QD alone d1–10 (n=14). Total of rifabutin and 25-O-desacetyl-rifabutin: AUC 2.19 (1.78, 2.69). n Rosiglitazone used as a probe substrate for CYP2C8. o Mean ratio (with/without coadministered drug). ↑ indicates an increase in rosuvastatin exposure. p The combination of atazanavir and saquinavir 1200 mg QD produced daily saquinavir exposures similar to the values produced by the standard therapeutic dosing of saquinavir at 1200 mg TID. However, the Cmax is about 79% higher than that for the standard dosing of saquinavir (soft gelatin capsules) alone at 1200 mg TID. q Note that similar results were observed in a study where administration of tenofovir DF and REYATAZ was separated by 12 hours. r Administration of tenofovir DF and REYATAZ was temporally separated by 12 hours. NA = not available. |  |  |  |  |  |  |  |  |  |  |  |
+| Cmax | AUC | Cmin |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Coadministered Drug Dose/Schedule | REYATAZ Dose/Schedule | Ratio (90% Confidence Interval) of Coadministered Drug Pharmacokinetic Parameters with/without REYATAZ; No Effect = 1.00 |  |  |
+| acetaminophen | 1 g BID, d 1–20 (n=10) | 300 mg QD with ritonavir 100 mg QD, d 11–20 (n=10) | 0.87 (0.77, 0.99) | 0.97 (0.91, 1.03) | 1.26 (1.08, 1.46) |
+| atenolol | 50 mg QD, d 7–11 (n=19) and d 19–23 | 400 mg QD, d 1–11 (n=19) | 1.34 (1.26, 1.42) | 1.25 (1.16, 1.34) | 1.02 (0.88, 1.19) |
+| clarithromycin | 500 mg BID, d 7–10 (n=21) and d 18–21 | 400 mg QD, d 1–10 (n=21) | 1.50 (1.32, 1.71) OH-clarithromycin: 0.28 (0.24, 0.33) | 1.94 (1.75, 2.16) OH-clarithromycin: 0.30 (0.26, 0.34) | 2.60 (2.35, 2.88) OH-clarithromycin: 0.38 (0.34, 0.42) |
+| ddI (enteric-coated [EC] capsules)b | 400 mg d 1 (fasted), d 8 (fed) (n=34) | 400 mg QD, d 2–8 (n=34) | 0.64 (0.55, 0.74) | 0.66 (0.60, 0.74) | 1.13 (0.91, 1.41) |
+|  | 400 mg d 1 (fasted), d 19 (fed) (n=31) | 300 mg QD with ritonavir 100 mg QD, d 9–19 (n=31) | 0.62 (0.52, 0.74) | 0.66 (0.59, 0.73) | 1.25 (0.92, 1.69) |
+| diltiazem | 180 mg QD, d 7–11 (n=28) and d 19–23 | 400 mg QD, d 1–11 (n=28) | 1.98 (1.78, 2.19) desacetyl-diltiazem: 2.72 (2.44, 3.03) | 2.25 (2.09, 2.16) desacetyl-diltiazem: 2.65 (2.45, 2.87) | 2.42 (2.14, 2.73) desacetyl-diltiazem: 2.21 (2.02, 2.42) |
+| ethinyl estradiol & norethindronec | Ortho-Novum® 7/7/7 QD, d 1–29 (n=19) | 400 mg QD, d 16–29 (n=19) | ethinyl estradiol: 1.15 (0.99, 1.32) norethindrone: 1.67 (1.42, 1.96) | ethinyl estradiol: 1.48 (1.31, 1.68) norethindrone: 2.10 (1.68, 2.62) | ethinyl estradiol: 1.91 (1.57, 2.33) norethindrone: 3.62 (2.57, 5.09) |
+| ethinyl estradiol & norgestimated | Ortho Tri-Cyclen® QD, d 1–28 (n=18), then Ortho Tri-Cyclen® LO QD, d 29–42e (n=14) | 300 mg QD with ritonavir 100 mg QD, d 29–42 (n=14) | ethinyl estradiol: 0.84 (0.74, 0.95) 17-deacetyl norgestimate:f 1.68 (1.51, 1.88) | ethinyl estradiol: 0.81 (0.75, 0.87) 17-deacetyl norgestimate:f 1.85 (1.67, 2.05) | ethinyl estradiol: 0.63 (0.55, 0.71) 17-deacetyl norgestimate:f 2.02 (1.77, 2.31) |
+| glecaprevir/ pibrentasvir | 300 mg glecaprevir (n=12) | 300 mg QD with ritonavir 100 mg QD (n=12) | ≥4.06g (3.15, 5.23) | ≥6.53g (5.24, 8.14) | ≥14.3g (9.85, 20.7) |
+| 120 mg pibrentasvir (n=12) | 300 mg QD with ritonavir 100 mg QD (n=12) | ≥1.29g (1.15, 1.45) | ≥1.64g (1.48, 1.82) | ≥2.29g (1.95, 2.68) |  |
+| grazoprevir/elbasvir | grazoprevir 200 mg QD d 1–35 (n=12) | 300 mg QD with ritonavir 100 mg QD d 1–35 (n=12) | 6.24 (4.42, 8.81) | 10.58 (7.78, 14.39) | 11.64 (7.96, 17.02) |
+| elbasvir 50 mg QD d 1–35 (n=10) | 300 mg QD with ritonavir 100 mg QD d 1–35 (n=10) | 4.15 (3.46, 4.97) | 4.76 (4.07, 5.56) | 6.45 (5.51, 7.54) |  |
+| methadone | Stable maintenancedose, d 1–15 (n=16) | 400 mg QD, d 2–15 (n=16) | (R)-methadoneh 0.91 (0.84, 1.0) total: 0.85 (0.78, 0.93) | (R)-methadoneh 1.03 (0.95, 1.10) total: 0.94 (0.87, 1.02) | (R)-methadoneh 1.11 (1.02, 1.20) total: 1.02 (0.93, 1.12) |
+| nevirapinei,j | 200 mg BID, d 1–23 (n=23) | 300 mg QD with ritonavir 100 mg QD, d 4–13, then 400 mg QD with ritonavir 100 mg QD, d 14–23 (n=23) | 1.17 (1.09, 1.25) 1.21 (1.11, 1.32) | 1.25 (1.17, 1.34) 1.26 (1.17, 1.36) | 1.32 (1.22, 1.43) 1.35 (1.25, 1.47) |
+| omeprazolek | 40 mg single dose, d 7 and d 20 (n=16) | 400 mg QD, d 1–12 (n=16) | 1.24 (1.04, 1.47) | 1.45 (1.20, 1.76) | NA |
+| rifabutin | 300 mg QD, d 1–10 then 150 mg QD, d 11–20 (n=3) | 600 mg QD,l d 11–20 (n=3) | 1.18 (0.94, 1.48) 25-O-desacetyl-rifabutin: 8.20 (5.90, 11.40) | 2.10 (1.57, 2.79) 25-O-desacetyl-rifabutin: 22.01 (15.97, 30.34) | 3.43 (1.98, 5.96) 25-O-desacetyl-rifabutin: 75.6 (30.1, 190.0) |
+|  | 150 mg twice weekly, d 1–15 (n=7) | 300 mg QD with ritonavir 100 mg QD, d 1–17 (n=7) | 2.49m (2.03, 3.06) 25-O-desacetyl-rifabutin: 7.77 (6.13, 9.83) | 1.48m (1.19, 1.84) 25-O-desacetyl-rifabutin: 10.90 (8.14, 14.61) | 1.40m (1.05, 1.87) 25-O-desacetyl-rifabutin: 11.45 (8.15, 16.10) |
+| pitavastatin | 4 mg QD for 5 days | 300 mg QD for 5 days | 1.60 (1.39, 1.85) | 1.31 (1.23, 1.39) | NA |
+| rosiglitazonen | 4 mg single dose, d 1, 7, 17 (n=14) | 400 mg QD, d 2–7, then 300 mg QD with ritonavir 100 mg QD, d 8–17 (n=14) | 1.08 (1.03, 1.13) 0.97 (0.91, 1.04) | 1.35 (1.26, 1.44) 0.83 (0.77, 0.89) | NA NA |
+| rosuvastatin | 10 mg single dose | 300 mg QD with ritonavir 100 mg QD for 7 days | ↑ 7-foldo | ↑ 3-foldo | NA |
+| saquinavirp (soft gelatin capsules) | 1200 mg QD, d 1–13 (n=7) | 400 mg QD, d 7–13 (n=7) | 4.39 (3.24, 5.95) | 5.49 (4.04, 7.47) | 6.86 (5.29, 8.91) |
+| sofosbuvir/ velpatasvir/ voxilaprevir | 400 mg sofosbuvir single dose (n=15) | 300 mg with 100 mg ritonavir single dose (n=15) | 1.29 (1.09, 1.52) sofosbuvir metabolite GS-331007 1.05 (0.99, 1.12) | 1.40 (1.25, 1.57) sofosbuvir metabolite GS-331007 1.25 (1.16, 1.36) | NA |
+| 100 mg velpatasvir single dose (n=15) | 300 mg with 100 mg ritonavir single dose (n=15) | 1.29 (1.07, 1.56) | 1.93 (1.58, 2.36) | NA |  |
+| 100 mg voxilaprevir single dose (n=15) | 300 mg with 100 mg ritonavir single dose (n=15) | 4.42 (3.65, 5.35) | 4.31 (3.76, 4.93) | NA |  |
+| tenofovir DFq | 300 mg QD, d 9–16 (n=33) and d 24–30 (n=33) | 400 mg QD, d 2–16 (n=33) | 1.14 (1.08, 1.20) | 1.24 (1.21, 1.28) | 1.22 (1.15, 1.30) |
+|  | 300 mg QD, d 1–7 (pm) (n=14) d 25–34 (pm) (n=12) | 300 mg QD with ritonavir 100 mg QD, d 25–34 (am) (n=12)r | 1.34 (1.20, 1.51) | 1.37 (1.30, 1.45) | 1.29 (1.21, 1.36) |
+| voriconazole (Subjects with at least one functional CYP2C19 allele) | 200 mg BID, d 2–3, 22–30; 400 mg BID, d 1, 21 (n=20) | 300 mg with ritonavir 100 mg QD, d 11–30 (n=20) | 0.90 (0.78, 1.04) | 0.67 (0.58, 0.78) | 0.61 (0.51, 0.72) |
+| voriconazole (Subjects without a functional CYP2C19 allele) | 50 mg BID, d 2–3, 22–30; 100 mg BID, d 1, 21 (n=8) | 300 mg with ritonavir 100 mg QD, d 11–30 (n=8) | 4.38 (3.55, 5.39) | 5.61 (4.51, 6.99) | 7.65 (5.71, 10.2) |
+| lamivudine and zidovudine | 150 mg lamivudine and 300 mg zidovudine BID, d 1–12 (n=19) | 400 mg QD, d 7–12 (n=19) | lamivudine: 1.04 (0.92, 1.16) zidovudine: 1.05 (0.88, 1.24) zidovudine glucuronide: 0.95 (0.88, 1.02) | lamivudine: 1.03 (0.98, 1.08) zidovudine: 1.05 (0.96, 1.14) zidovudine glucuronide: 1.00 (0.97, 1.03) | lamivudine: 1.12 (1.04, 1.21) zidovudine: 0.69 (0.57, 0.84) zidovudine glucuronide: 0.82 (0.62, 1.08) |
+| a Data provided are under fed conditions unless otherwise noted. b 400 mg ddI EC and REYATAZ were administered together with food on Days 8 and 19. c Upon further dose normalization of ethinyl estradiol 25 mcg with atazanavir relative to ethinyl estradiol 35 mcg without atazanavir, the ratio of geometric means (90% confidence intervals) for Cmax, AUC, and Cmin were 0.82 (0.73, 0.92), 1.06 (0.95, 1.17), and 1.35 (1.11, 1.63), respectively. d Upon further dose normalization of ethinyl estradiol 35 mcg with atazanavir with ritonavir relative to ethinyl estradiol 25 mcg without atazanavir with ritonavir, the ratio of geometric means (90% confidence intervals) for Cmax, AUC, and Cmin were 1.17 (1.03, 1.34), 1.13 (1.05, 1.22), and 0.88 (0.77, 1.00), respectively. e All subjects were on a 28-day lead-in period; one full cycle of Ortho Tri-Cyclen®. Ortho Tri-Cyclen® contains 35 mcg of ethinyl estradiol. Ortho Tri-Cyclen® LO contains 25 mcg of ethinyl estradiol. Results were dose normalized to an ethinyl estradiol dose of 35 mcg. f 17-deacetyl norgestimate is the active component of norgestimate. g Effect of atazanavir with ritonavir on the first dose of glecaprevir and pibrentasvir is reported. h (R)-methadone is the active isomer of methadone. i Study was conducted in subjects with HIV-1 infection. j Subjects were treated with nevirapine prior to study entry. k Omeprazole was used as a metabolic probe for CYP2C19. Omeprazole was given 2 hours after REYATAZ on Day 7; and was given alone 2 hours after a light meal on Day 20. l Not the recommended therapeutic dose of atazanavir. m When compared to rifabutin 150 mg QD alone d1–10 (n=14). Total of rifabutin and 25-O-desacetyl-rifabutin: AUC 2.19 (1.78, 2.69). n Rosiglitazone used as a probe substrate for CYP2C8. o Mean ratio (with/without coadministered drug). ↑ indicates an increase in rosuvastatin exposure. p The combination of atazanavir and saquinavir 1200 mg QD produced daily saquinavir exposures similar to the values produced by the standard therapeutic dosing of saquinavir at 1200 mg TID. However, the Cmax is about 79% higher than that for the standard dosing of saquinavir (soft gelatin capsules) alone at 1200 mg TID. q Note that similar results were observed in a study where administration of tenofovir DF and REYATAZ was separated by 12 hours. r Administration of tenofovir DF and REYATAZ was temporally separated by 12 hours. NA = not available. |  |  |  |  |  |
 
 ## 12.4 Microbiology
 
@@ -292,7 +292,7 @@ The most common protease substitutions to develop in the viral isolates of subje
 Other substitutions that developed on atazanavir with ritonavir treatment including E34K/A/Q, G48V, I84V, N88S/D/T, and L90M occurred in less than 10% of subject isolates.
 Generally, if multiple PI resistance substitutions were present in the HIV-1 virus of the subject at baseline, atazanavir resistance developed through substitutions associated with resistance to other PIs and could include the development of the I50L substitution.
 The I50L substitution has been detected in treatment-experienced subjects experiencing virologic failure after long-term treatment.
-Protease cleavage site changes also emerged on atazanavir treatment but their presence did not correlate with the level of atazanavir resistance.
+Protease cleavage site changes also emerged on atazanavir treatment, but their presence did not correlate with the level of atazanavir resistance.
 
 Clinical Studies of Pediatric Subjects in AI424-397 (PRINCE I) and AI424-451 (PRINCE II): Treatment-emergent atazanavir with ritonavir resistance-associated amino acid substitution M36I in the protease was detected in the virus of one subject among treatment failures in AI424-397.
 In addition, three known resistance-associated substitutions for other PIs arose in the viruses from one subject each (L19I/R, H69K/R, and I72I/V).
@@ -351,11 +351,11 @@ Additional data are needed to determine clinically relevant break points for REY
 
 Table 25: Baseline Phenotype by Outcome, Antiretroviral-Experienced Subjects in Study AI424-045, As-Treated Analysis
 
-| Baseline Phenotypea | atazanavir with ritonavir (n=111) | lopinavir/ritonavirc (n=111) |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Virologic Response = HIV RNA <400 copies/mLb |  |  |  |  |
-| 0–2 | 71% (55/78) | 70% (56/80) |  |  |  |
-| >2–5 | 53% (8/15) | 44% (4/9) |  |  |  |
-| >5–10 | 13% (1/8) | 33% (3/9) |  |  |  |
-| >10 | 10% (1/10) | 23% (3/13) |  |  |  |
-| a Fold change susceptibility in cell culture relative to the wild-type reference. b Results should be interpreted with caution because the subgroups were small. c Administered as a fixed-dose product. |  |  |  |  |  |
+| Baseline Phenotypea | atazanavir with ritonavir (n=111) | lopinavir/ritonavirc (n=111) |
+| --- | --- | --- |
+|  | Virologic Response = HIV RNA <400 copies/mLb |  |
+| 0–2 | 71% (55/78) | 70% (56/80) |
+| >2–5 | 53% (8/15) | 44% (4/9) |
+| >5–10 | 13% (1/8) | 33% (3/9) |
+| >10 | 10% (1/10) | 23% (3/13) |
+| a Fold change susceptibility in cell culture relative to the wild-type reference. b Results should be interpreted with caution because the subgroups were small. c Administered as a fixed-dose product. |  |  |

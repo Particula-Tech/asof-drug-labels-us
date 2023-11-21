@@ -31,28 +31,28 @@ Table 7: Selected Adverse Reactionsa of Moderate or Severe Intensity Reported in
 | Diarrhea | 2% | 12% |
 | Skin and Appendages |  |  |
 | Rash | 3% | 2% |
-| * None reported in this treatment arm. a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. b Based on the regimen containing REYATAZ. c Median time on therapy. d Administered as a fixed-dose e As a fixed-dose product: 300 mg tenofovir DF, 200 mg emtricitabine once daily. |  |  |
+| * None reported in this treatment arm. a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. b Based on the regimen containing REYATAZ. c Median time on therapy. d Administered as a fixed-dose. e As a fixed-dose product: 300 mg tenofovir DF, 200 mg emtricitabine once daily. |  |  |
 
 Table 8: Selected Adverse Reactionsa of Moderate or Severe Intensity Reported in ≥2% of Adult Treatment-Naive Subjects with HIV-1 Infection,b Studies AI424-034, AI424-007, and AI424-008
 
-|  | Study AI424-034 |  | Studies AI424-007, -008 |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  | 64 weekscREYATAZ 400 mg (once daily) with lamivudine/ zidovudinee (n=404) | 64 weekscefavirenz 600 mg (once daily) with lamivudine/ zidovudinee (n=401) | 120 weeksc,dREYATAZ 400 mg (once daily) with stavudine and lamivudine or didanosine (n=279) | 73 weeksc,dnelfinavir 750 mg TID or 1250 mg BID with stavudine and lamivudine or didanosine (n=191) |  |  |  |
-| Body as a Whole |  |  |  |  |  |  |  |
-| Headache | 6% | 6% | 1% | 2% |  |  |  |
-| Digestive System |  |  |  |  |  |  |  |
-| Nausea | 14% | 12% | 6% | 4% |  |  |  |
-| Jaundice/scleral icterus | 7% | * | 7% | * |  |  |  |
-| Vomiting | 4% | 7% | 3% | 3% |  |  |  |
-| Abdominal pain | 4% | 4% | 4% | 2% |  |  |  |
-| Diarrhea | 1% | 2% | 3% | 16% |  |  |  |
-| Nervous System |  |  |  |  |  |  |  |
-| Insomnia | 3% | 3% | <1% | * |  |  |  |
-| Dizziness | 2% | 7% | <1% | * |  |  |  |
-| Peripheral neurologic symptoms | <1% | 1% | 4% | 3% |  |  |  |
-| Skin and Appendages |  |  |  |  |  |  |  |
-| Rash | 7% | 10% | 5% | 1% |  |  |  |
-| * None reported in this treatment arm. a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. b Based on regimens containing REYATAZ. c Median time on therapy. d Includes long-term follow-up. e As a fixed-dose product: 150 mg lamivudine/300 mg zidovudine twice daily. |  |  |  |  |  |  |  |
+|  | Study AI424-034 |  | Studies AI424-007, -008 |  |
+| --- | --- | --- | --- | --- |
+|  | 64 weekscREYATAZ 400 mg (once daily) with lamivudine/ zidovudinee (n=404) | 64 weekscefavirenz 600 mg (once daily) with lamivudine/ zidovudinee (n=401) | 120 weeksc,dREYATAZ 400 mg (once daily) with stavudine and lamivudine or didanosine (n=279) | 73 weeksc,dnelfinavir 750 mg TID or 1250 mg BID with stavudine and lamivudine or didanosine (n=191) |
+| Body as a Whole |  |  |  |  |
+| Headache | 6% | 6% | 1% | 2% |
+| Digestive System |  |  |  |  |
+| Nausea | 14% | 12% | 6% | 4% |
+| Jaundice/scleral icterus | 7% | * | 7% | * |
+| Vomiting | 4% | 7% | 3% | 3% |
+| Abdominal pain | 4% | 4% | 4% | 2% |
+| Diarrhea | 1% | 2% | 3% | 16% |
+| Nervous System |  |  |  |  |
+| Insomnia | 3% | 3% | <1% | * |
+| Dizziness | 2% | 7% | <1% | * |
+| Peripheral neurologic symptoms | <1% | 1% | 4% | 3% |
+| Skin and Appendages |  |  |  |  |
+| Rash | 7% | 10% | 5% | 1% |
+| * None reported in this treatment arm. a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. b Based on regimens containing REYATAZ. c Median time on therapy. d Includes long-term follow-up. e As a fixed-dose product: 150 mg lamivudine/300 mg zidovudine twice daily. |  |  |  |  |
 
 ### Adverse Reactions in Treatment-Experienced Adult Subjects
 
@@ -96,27 +96,27 @@ Table 10: Grade 3–4 Laboratory Abnormalities Reported in ≥2% of Adult Treatm
 | Total Cholesterol | ≥240 mg/dL | 11% | 25% |
 | Hematology | Low |  |  |
 | Neutrophils | <750 cells/mm3 | 5% | 2% |
-| a Based on the regimen containing REYATAZ. b Median time on therapy. c Administered as a fixed-dose product d As a fixed-dose product: 300 mg tenofovir DF, 200 mg emtricitabine once daily. e ULN=upper limit of normal. |  |  |  |
+| a Based on the regimen containing REYATAZ. b Median time on therapy. c Administered as a fixed-dose product. d As a fixed-dose product: 300 mg tenofovir DF, 200 mg emtricitabine once daily. e ULN=upper limit of normal. |  |  |  |
 
 Table 11: Grade 3–4 Laboratory Abnormalities Reported in ≥2% of Adult Treatment-Naive Subjects with HIV-1 Infection,a Studies AI424-034, AI424-007, and AI424-008
 
-|  |  | Study AI424-034 |  | Studies AI424-007, -008 |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | 64 weeksbREYATAZ 400 mgonce daily and lamivudine/zidovudinee | 64 weeksbefavirenz 600 mg once daily and lamivudine/zidovudinee | 120 weeksb,cREYATAZ 400 mg once daily with stavudine and lamivudine or with stavudine and didanosine | 73 weeksb,cnelfinavir 750 mg TID or 1250 mg BID with stavudine and lamivudine or with stavudine and didanosine |  |  |  |  |
-| Variable | Limitd | (n=404) | (n=401) | (n=279) | (n=191) |  |  |  |  |
-| Chemistry | High |  |  |  |  |  |  |  |  |
-| SGOT/AST | ≥5.1 × ULN | 2% | 2% | 7% | 5% |  |  |  |  |
-| SGPT/ALT | ≥5.1 × ULN | 4% | 3% | 9% | 7% |  |  |  |  |
-| Total Bilirubin | ≥2.6 × ULN | 35% | <1% | 47% | 3% |  |  |  |  |
-| Amylase | ≥2.1 × ULN | * | * | 14% | 10% |  |  |  |  |
-| Lipase | ≥2.1 × ULN | <1% | 1% | 4% | 5% |  |  |  |  |
-| Creatine Kinase | ≥5.1 × ULN | 6% | 6% | 11% | 9% |  |  |  |  |
-| Total Cholesterol | ≥240 mg/dL | 6% | 24% | 19% | 48% |  |  |  |  |
-| Triglycerides | ≥751 mg/dL | <1% | 3% | 4% | 2% |  |  |  |  |
-| Hematology | Low |  |  |  |  |  |  |  |  |
-| Hemoglobin | <8.0 g/dL | 5% | 3% | <1% | 4% |  |  |  |  |
-| Neutrophils | <750 cells/mm3 | 7% | 9% | 3% | 7% |  |  |  |  |
-| * None reported in this treatment arm. a Based on regimen(s) containing REYATAZ. b Median time on therapy. c Includes long-term follow-up. d ULN = upper limit of normal. e As a fixed-dose product: 150 mg lamivudine, 300 mg zidovudine twice daily. |  |  |  |  |  |  |  |  |  |
+|  |  | Study AI424-034 |  | Studies AI424-007, -008 |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | 64 weeksbREYATAZ 400 mgonce daily and lamivudine/zidovudinee | 64 weeksbefavirenz 600 mg once daily and lamivudine/zidovudinee | 120 weeksb,cREYATAZ 400 mg once daily with stavudine and lamivudine or with stavudine and didanosine | 73 weeksb,cnelfinavir 750 mg TID or 1250 mg BID with stavudine and lamivudine or with stavudine and didanosine |
+| Variable | Limitd | (n=404) | (n=401) | (n=279) | (n=191) |
+| Chemistry | High |  |  |  |  |
+| SGOT/AST | ≥5.1 × ULN | 2% | 2% | 7% | 5% |
+| SGPT/ALT | ≥5.1 × ULN | 4% | 3% | 9% | 7% |
+| Total Bilirubin | ≥2.6 × ULN | 35% | <1% | 47% | 3% |
+| Amylase | ≥2.1 × ULN | * | * | 14% | 10% |
+| Lipase | ≥2.1 × ULN | <1% | 1% | 4% | 5% |
+| Creatine Kinase | ≥5.1 × ULN | 6% | 6% | 11% | 9% |
+| Total Cholesterol | ≥240 mg/dL | 6% | 24% | 19% | 48% |
+| Triglycerides | ≥751 mg/dL | <1% | 3% | 4% | 2% |
+| Hematology | Low |  |  |  |  |
+| Hemoglobin | <8.0 g/dL | 5% | 3% | <1% | 4% |
+| Neutrophils | <750 cells/mm3 | 7% | 9% | 3% | 7% |
+| * None reported in this treatment arm. a Based on regimen(s) containing REYATAZ. b Median time on therapy. c Includes long-term follow-up. d ULN = upper limit of normal. e As a fixed-dose product: 150 mg lamivudine, 300 mg zidovudine twice daily. |  |  |  |  |  |
 
 #### Change in Lipids from Baseline in Treatment-Naive Subjects with HIV-1 Infection
 
@@ -137,14 +137,14 @@ Table 12: Lipid Values, Mean Change from Baseline, Study AI424-138
 
 Table 13: Lipid Values, Mean Change from Baseline, Study AI424-034
 
-|  | REYATAZa,b |  |  | efavirenzb,c |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Baseline mg/dL (n=383e) | Week 48 mg/dL (n=283e) | Week 48 Changed (n=272e) | Baseline mg/dL (n=378e) | Week 48 mg/dL (n=264e) | Week 48 Changed (n=253e) |  |  |  |  |  |  |  |  |  |  |  |
-| LDL-Cholesterolf | 98 | 98 | +1% | 98 | 114 | +18% |  |  |  |  |  |  |  |  |  |  |  |
-| HDL-Cholesterol | 39 | 43 | +13% | 38 | 46 | +24% |  |  |  |  |  |  |  |  |  |  |  |
-| Total Cholesterol | 164 | 168 | +2% | 162 | 195 | +21% |  |  |  |  |  |  |  |  |  |  |  |
-| Triglyceridesf | 138 | 124 | −9% | 129 | 168 | +23% |  |  |  |  |  |  |  |  |  |  |  |
-| a REYATAZ 400 mg once daily with the fixed-dose product: 150 mg lamivudine, 300 mg zidovudine twice daily. b Values obtained after initiation of serum lipid-reducing agents were not included in these analyses. At baseline, serum lipid-reducing agents were used in 0% in the efavirenz treatment arm and <1% in the REYATAZ arm. Through Week 48, serum lipid-reducing agents were used in 3% in the efavirenz treatment arm and 1% in the REYATAZ arm. c Efavirenz 600 mg once daily with the fixed-dose product: 150 mg lamivudine/300 mg zidovudine twice daily. d The change from baseline is the mean of within-subject changes from baseline for patients with both baseline and Week 48 values and is not a simple difference of the baseline and Week 48 mean values. e Number of subjects with LDL-cholesterol measured. f Fasting. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | REYATAZa,b |  |  | efavirenzb,c |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Baseline mg/dL (n=383e) | Week 48 mg/dL (n=283e) | Week 48 Changed (n=272e) | Baseline mg/dL (n=378e) | Week 48 mg/dL (n=264e) | Week 48 Changed (n=253e) |
+| LDL-Cholesterolf | 98 | 98 | +1% | 98 | 114 | +18% |
+| HDL-Cholesterol | 39 | 43 | +13% | 38 | 46 | +24% |
+| Total Cholesterol | 164 | 168 | +2% | 162 | 195 | +21% |
+| Triglyceridesf | 138 | 124 | −9% | 129 | 168 | +23% |
+| a REYATAZ 400 mg once daily with the fixed-dose product: 150 mg lamivudine, 300 mg zidovudine twice daily. b Values obtained after initiation of serum lipid-reducing agents were not included in these analyses. At baseline, serum lipid-reducing agents were used in 0% in the efavirenz treatment arm and <1% in the REYATAZ arm. Through Week 48, serum lipid-reducing agents were used in 3% in the efavirenz treatment arm and 1% in the REYATAZ arm. c Efavirenz 600 mg once daily with the fixed-dose product: 150 mg lamivudine/300 mg zidovudine twice daily. d The change from baseline is the mean of within-subject changes from baseline for patients with both baseline and Week 48 values and is not a simple difference of the baseline and Week 48 mean values. e Number of subjects with LDL-cholesterol measured. f Fasting. |  |  |  |  |  |  |
 
 ### Laboratory Abnormalities in Treatment-Experienced Subjects with HIV-1 Infection
 
@@ -216,7 +216,7 @@ ALT levels >5 times ULN developed in 10% (6/60) of the subjects administered REY
 AST levels >5 times ULN developed in 10% (6/60) of the subjects administered REYATAZ with ritonavir and none (0/50) of the subjects treated with lopinavir/ritonavir.
 
 In Study AI424-045, 20 subjects administered REYATAZ 300 mg with ritonavir 100 mg once daily, and 18 subjects treated with lopinavir/ritonavir 400 mg/100 mg twice daily (as fixed-dose product), were seropositive for hepatitis B and/or C at study entry.
-ALT levels >5 times ULN developed in 25% (5/20) of the subjects administered REYATAZ with ritonavir and 6% (1/18) of the subjects treated with lopinavir/ritonavir-treated.
+ALT levels >5 times ULN developed in 25% (5/20) of the subjects administered REYATAZ with ritonavir and 6% (1/18) of the subjects treated with lopinavir/ritonavir treated.
 AST levels >5 times ULN developed in 10% (2/20) of the subjects administered REYATAZ with ritonavir and 6% (1/18) of the subjects treated with lopinavir/ritonavir.
 
 In Studies AI424-008 and AI424-034, 74 subjects treated with REYATAZ 400 mg once daily, 58 who received efavirenz, and 12 who received nelfinavir were seropositive for hepatitis B and/or C at study entry.

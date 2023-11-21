@@ -31,7 +31,7 @@ Inform patients that treatment with REYATAZ may lead to the development of chron
 ### Nephrolithiasis and Cholelithiasis
 
 Inform patients that kidney stones and/or gallstones have been reported with REYATAZ use.
-Some patients with kidney stones and/or gallstones required hospitalization for additional management and some had complications.
+Some patients with kidney stones and/or gallstones required hospitalization for additional management, and some had complications.
 Discontinuation of REYATAZ may be necessary as part of the medical management of these adverse events [see Warnings and Precautions (5.6)].
 
 ### Drug Interactions
@@ -61,4 +61,4 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 Lactation
 
 Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk.
-REYATAZ can also be passed to the baby in breast milk and it is not known whether it could harm the baby [see Use in Specific Populations (8.2)].
+REYATAZ can also be passed to the baby in breast milk, and it is not known whether it could harm the baby [see Use in Specific Populations (8.2)].
