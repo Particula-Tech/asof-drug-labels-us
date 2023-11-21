@@ -24,4 +24,4 @@ Enoxaparin Sodium Injection, USP 150 mg/mL Concentration contains 15 mg enoxapar
 First International Low Molecular Weight Heparin Reference Standard]) per 0.1 mL Water for Injection.
 
 The enoxaparin sodium injection, USP prefilled syringes and graduated prefilled syringes are preservative-free and intended for use only as a single-dose injection.
-The multiple-dose vial contains 15 mg benzyl alcohol per 1 mL as a preservative [see Dosage and Administration (2) and How Supplied/Storage and Handling (16)].
+[see Dosage and Administration (2) and How Supplied/Storage and Handling (16)].

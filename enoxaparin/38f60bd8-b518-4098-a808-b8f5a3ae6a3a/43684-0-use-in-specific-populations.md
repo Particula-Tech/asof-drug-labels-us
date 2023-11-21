@@ -5,7 +5,7 @@
 Risk Summary
 
 Placental transfer of enoxaparin was observed in the animal studies.
-Human data from a retrospective cohort study, which included 693 live births, suggest that enoxaparin sodium injection does not increase the risk of major developmental abnormalities (see Data).
+Human data from a retrospective cohort study, which included 693 live births, suggest that enoxaparin sodium does not increase the risk of major developmental abnormalities (see Data).
 Based on animal data, enoxaparin sodium is not predicted to increase the risk of major developmental abnormalities (see Data).
 
 Adverse outcomes in pregnancy occur regardless of the health of the mother or the use of medications.
@@ -25,9 +25,6 @@ Hemorrhage can occur at any site and may lead to death of mother and/or fetus.
 Pregnant women should be apprised of the potential hazard to the fetus and the mother if enoxaparin sodium is administered during pregnancy.
 
 It is not known if monitoring of anti-Factor Xa activity and dose adjustment (by weight or anti-Factor Xa activity) of enoxaparin sodium injection affect the safety and the efficacy of the drug during pregnancy.
-
-Cases of “gasping syndrome” have occurred in premature infants when large amounts of benzyl alcohol have been administered (99-405 mg/kg/day).
-The multiple-dose vial of enoxaparin sodium injection contains 15 mg benzyl alcohol per 1 mL as a preservative [seeWarnings and Precautions (5.8)].
 
 Data
 
@@ -67,13 +64,11 @@ Safety and effectiveness of enoxaparin sodium injection in pediatric patients ha
 
 Enoxaparin sodium injection is not approved for use in neonates or infants.
 
-Serious adverse reactions including fatal reactions and the “gasping syndrome” occurred in premature neonates and low birth weight infants in the neonatal intensive care unit who received drugs containing benzyl alcohol as a preservative.
+Serious adverse reactions including fatal reactions and the “gasping syndrome” occurred in premature neonates and low- birth- weight infants in the neonatal intensive care unit who received drugs containing benzyl alcohol as a preservative.
 In these cases, benzyl alcohol dosages of 99 to 234 mg/kg/day produced high levels of benzyl alcohol and its metabolites in the blood and urine (blood levels of benzyl alcohol were 0.61 to 1.378 mmol/L).
 Additional adverse reactions included gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
-Preterm, low-birth weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol.
+Preterm, low-birth-weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol.
 The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known.
-
-Enoxaparin sodium injection multiple-dose vials contain 15 mg/mL of benzyl alcohol (at the dose of 1.5 mg/kg twice a day, benzyl alcohol exposure in patients is 0.45 mg/kg daily) [see Warnings and Precautions (5.8)].
 
 ## 8.5 Geriatric Use
 

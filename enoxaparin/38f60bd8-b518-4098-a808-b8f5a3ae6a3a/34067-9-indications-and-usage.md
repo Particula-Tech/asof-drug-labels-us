@@ -4,17 +4,17 @@
 
 Enoxaparin sodium injection, USP is indicated for the prophylaxis of deep vein thrombosis (DVT), which may lead to pulmonary embolism (PE):
 
-- •in patients undergoing abdominal surgery who are at risk for thromboembolic complications [see Clinical Studies (14.1)].
-- •in patients undergoing hip replacement surgery, during and following hospitalization.
-- •in patients undergoing knee replacement surgery.
-- •in medical patients who are at risk for thromboembolic complications due to severely restricted mobility during acute illness.
+- •in patients undergoing abdominal surgery who are at risk for thromboembolic complications [see Clinical Studies (14.1)]
+- •in patients undergoing hip replacement surgery, during and following hospitalization
+- •in patients undergoing knee replacement surgery
+- •in medical patients who are at risk for thromboembolic complications due to severely restricted mobility during acute illness
 
 ## 1.2 Treatment of Acute Deep Vein Thrombosis
 
 Enoxaparin sodium injection, USP is indicated for:
 
-- •the inpatient treatment of acute deep vein thrombosis with or without pulmonary embolism, when administered in conjunction with warfarin sodium.
-- •the outpatient treatment of acute deep vein thrombosis without pulmonary embolism when administered in conjunction with warfarin sodium.
+- •the inpatient treatment of acute deep vein thrombosis with or without pulmonary embolism, when administered in conjunction with warfarin sodium
+- •the outpatient treatment of acute deep vein thrombosis without pulmonary embolism, when administered in conjunction with warfarin sodium
 
 ## 1.3 Prophylaxis of Ischemic Complications of Unstable Angina and Non-Q-Wave Myocardial Infarction
 

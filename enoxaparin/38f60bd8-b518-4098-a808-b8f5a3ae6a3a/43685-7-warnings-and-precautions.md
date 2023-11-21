@@ -10,7 +10,7 @@ Placement or removal of an epidural catheter or lumbar puncture is best performe
 
 Placement or removal of a catheter should be delayed for at least 12 hours after administration of lower doses (30 mg once or twice daily or 40 mg once daily) of enoxaparin sodium injection, and at least 24 hours after the administration of higher doses (0.75 mg/kg twice daily, 1 mg/kg twice daily, or 1.5 mg/kg once daily) of enoxaparin sodium injection.
 Anti-Xa levels are still detectable at these time points, and these delays are not a guarantee that neuraxial hematoma will be avoided.
-Patients receiving the 0.75 mg/kg twice daily dose or the 1 mg/kg twice daily dose should not receive the second enoxaparin dose in the twice daily regimen to allow a longer delay before catheter placement or removal.
+Patients receiving the 0.75 mg/kg twice-daily dose or the 1 mg/kg twice-daily dose should not receive the second enoxaparin dose in the twice-daily regimen to allow a longer delay before catheter placement or removal.
 Likewise, although a specific recommendation for timing of a subsequent enoxaparin sodium injection dose after catheter removal cannot be made, consider delaying this next dose for at least four hours, based on a benefit-risk assessment considering both the risk for thrombosis and the risk for bleeding in the context of the procedure and patient risk factors.
 For patients with creatinine clearance <30mL/minute, additional considerations are necessary because elimination of enoxaparin is more prolonged; consider doubling the timing of removal of a catheter, at least 24 hours for the lower prescribed dose of enoxaparin sodium injection (30 mg once daily) and at least 48 hours for the higher dose (1 mg/kg/day) [see Clinical Pharmacology (12.3)].
 
@@ -41,7 +41,7 @@ Enoxaparin sodium injection should be used with care in patients with a bleeding
 
 ## 5.4 Risk of Heparin-Induced Thrombocytopenia with or without Thrombosis
 
-Enoxaparin sodium injection may cause Heparin-Induced Thrombocytopenia (HIT) or Heparin-Induced Thrombocytopenia with Thrombosis (HITTS).
+Enoxaparin sodium injection may cause heparin-induced thrombocytopenia (HIT) or heparin-induced thrombocytopenia with thrombosis (HITTS).
 HITTS may lead to organ infarction, limb ischemia, or death.
 Monitor thrombocytopenia of any degree closely.
 
@@ -62,7 +62,7 @@ Platelet counts less than 50,000/mm3 occurred at a rate of 0.1% in patients give
 Thrombocytopenia of any degree should be monitored closely.
 If the platelet count falls below 100,000/mm3, enoxaparin sodium injection should be discontinued.
 
-## 5.6 Interchangeability with Other Heparins
+## 5.6 Interchangeability with other Heparins
 
 Enoxaparin sodium injection cannot be used interchangeably (unit for unit) with heparin or other low molecular weight heparins as they differ in manufacturing process, molecular weight distribution, anti-Xa and anti-IIa activities, units, and dosage.
 Each of these medicines has its own instructions for use.
@@ -75,13 +75,3 @@ No patients in the heparin/warfarin group (0 of 4 women) died.
 There also have been isolated postmarketing reports of valve thrombosis in pregnant women with mechanical prosthetic heart valves while receiving enoxaparin for thromboprophylaxis.
 Women with mechanical prosthetic heart valves may be at higher risk for thromboembolism during pregnancy and, when pregnant, have a higher rate of fetal loss from stillbirth, spontaneous abortion, and premature delivery.
 Therefore, frequent monitoring of peak and trough anti-Factor Xa levels, and adjusting of dosage may be needed [see Use in Specific Populations (8.6)].
-
-## 5.8 Risk of Serious Adverse Reactions in Infants due to Benzyl Alcohol Preservative
-
-Enoxaparin sodium injection multiple-dose vials are not approved for use in neonates or infants.
-
-Serious and fatal adverse reactions including “gasping syndrome” can occur in neonates and low birth weight infants treated with benzyl alcohol-preserved drugs, including enoxaparin sodium injection multiple-dose vials.
-The “gasping syndrome” is characterized by central nervous system depression, metabolic acidosis, and gasping respirations.
-The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known (enoxaparin sodium injection multiple-dose vials contain 15 mg of benzyl alcohol per mL) [see Use in Specific Populations (8.4)].
-
-Because benzyl alcohol may cross the placenta, if anticoagulation with enoxaparin sodium injection is needed during pregnancy, use the preservative-free formulations where possible [see Use in Specific Populations (8.1)].

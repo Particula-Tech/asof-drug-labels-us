@@ -20,12 +20,12 @@ The usual duration of administration is 7 to 10 days [see Clinical Studies (14.2
 A dose of enoxaparin sodium injection of 40 mg once a day subcutaneously may be considered for hip replacement surgery for up to 3 weeks.
 Administer the initial dose 12 (±3) hours prior to surgery.
 
-### Medical Patients During Acute Illness
+### Medical Patients during Acute Illness
 
 The recommended dose of enoxaparin sodium injection is 40 mg once a day administered by subcutaneous injection for medical patients at risk for thromboembolic complications due to severely restricted mobility during acute illness.
 The usual duration of administration is 6 to 11 days [see Clinical Studies (14.3)].
 
-### Treatment of Deep Vein Thrombosis With or Without Pulmonary Embolism
+### Treatment of Deep Vein Thrombosis with or without Pulmonary Embolism
 
 The recommended dose of enoxaparin sodium injection is 1 mg/kg every 12 hours administered subcutaneously in patients with acute deep vein thrombosis without pulmonary embolism, who can be treated at home in an outpatient setting.
 
@@ -47,7 +47,7 @@ The recommended dose of enoxaparin sodium injection is a single intravenous bolu
 Reduce the dosage in patients ≥75 years of age [see Dosage and Administration (2.4)].
 Unless contraindicated, administer aspirin to all patients as soon as they are identified as having STEMI and continue dosing with 75 to 325 mg once daily.
 
-When administered in conjunction with a thrombolytic (fibrin-specific or non-fibrin specific), administer enoxaparin sodium injection between 15 minutes before and 30 minutes after the start of fibrinolytic therapy.
+When administered in conjunction with a thrombolytic (fibrin specific or non-fibrin specific), administer enoxaparin sodium injection between 15 minutes before and 30 minutes after the start of fibrinolytic therapy.
 The usual duration of enoxaparin sodium injection therapy is 8 days or until hospital discharge.
 
 For patients managed with percutaneous coronary intervention (PCI), if the last enoxaparin sodium injection subcutaneous administration was given less than 8 hours before balloon inflation, no additional dosing is needed.
@@ -57,18 +57,17 @@ If the last enoxaparin sodium injection subcutaneous administration was given mo
 
 The recommended prophylaxis and treatment dosage regimens for patients with severe renal impairment (creatinine clearance <30 mL/min) are described in Table 1[see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 
-Table 1
+Table 1: Dosage Regimens for Patients with Severe Renal Impairment (creatinine clearance <30 mL/minute)
 
 | Indication | Dosage Regimen |
 | --- | --- |
-| Dosage Regimens for Patients with Severe Renal Impairment (creatinine clearance <30 mL/minute) |  |
 | Prophylaxis in abdominal surgery | 30 mg administered subcutaneously once daily |
 | Prophylaxis in hip or knee replacement surgery | 30 mg administered subcutaneously once daily |
 | Prophylaxis in medical patients during acute illness | 30 mg administered subcutaneously once daily |
 | Inpatient treatment of acute deep vein thrombosis with or without pulmonary embolism, when administered in conjunction with warfarin sodium | 1 mg/kg administered subcutaneously once daily |
 | Outpatient treatment of acute deep vein thrombosis without pulmonary embolism, when administered in conjunction with warfarin sodium | 1 mg/kg administered subcutaneously once daily |
 | Prophylaxis of ischemic complications of unstable angina and non-Q-wave myocardial infarction, when concurrently administered with aspirin | 1 mg/kg administered subcutaneously once daily |
-| Treatment of acute ST-segment elevation myocardial infarction in patients <75 years of age, when administered in conjunction with aspirin | 30 mg single intravenous bolus plus a 1 mg/kg subcutaneous dose followed by 1 mg/kg administered subcutaneously once daily. |
+| Treatment of acute ST-segment elevation myocardial infarction in patients <75 years of age, when administered in conjunction with aspirin | 30 mg single intravenous bolus plus a 1 mg/kg subcutaneous dose followed by 1 mg/kg administered subcutaneously once daily |
 | Treatment of acute ST-segment elevation myocardial infarction in geriatric patients ≥75 years of age, when administered in conjunction with aspirin | 1 mg/kg administered subcutaneously once daily (no initial bolus) |
 
 Although no dose adjustment is recommended in patients with creatinine clearance 30 to 50 mL/min and creatinine clearance 50 to 80 mL/min, observe these patients frequently for signs and symptoms of bleeding.
@@ -88,8 +87,6 @@ Administer enoxaparin sodium injection by intravenous or subcutaneous injection 
 
 Enoxaparin sodium injection is a clear, colorless to pale yellow sterile solution, and as with other parenteral drug products, should be inspected visually for particulate matter and discoloration prior to administration.
 
-Use a tuberculin syringe or equivalent when using enoxaparin sodium injection multiple-dose vials to assure withdrawal of the appropriate volume of drug.
-
 Patients may self-inject by the subcutaneous route of administration only after their physicians determine that it is appropriate and with medical follow-up, as necessary.
 Provide proper training in subcutaneous injection technique before allowing self-injection (with or without the assistance of an injection device).
 
@@ -97,27 +94,29 @@ Provide proper training in subcutaneous injection technique before allowing self
 
 - •Position patients in a supine position for enoxaparin sodium administration by deep subcutaneous injection.
 - •Do not expel the air bubble from the prefilled syringes before the injection, to avoid the loss of drug.
+- •Do not inject into skin that has bruises or scars.
+  Do not inject through clothes.
 - •Alternate injection sites between the left and right anterolateral and left and right posterolateral abdominal wall.
 - •Introduce the whole length of the needle into a skin fold held between the thumb and forefinger; hold the skin fold throughout the injection.
   To minimize bruising, do not rub the injection site after completion of the injection.
 
 Enoxaparin sodium injection prefilled syringes and graduated prefilled syringes are for single, one-time use only and are available with a system that shields the needle after injection.
 
-Remove the prefilled syringe from the blister packaging by peeling at the arrow as directed on the blister.
+Remove the prefilled syringe from the packaging by peeling at the arrow as directed on the lid.
 Do not remove by pulling on the plunger as this may damage the syringe.
 
 1. 1.Remove the needle shield by pulling it straight off the syringe (see Figure A). If less than the full syringe volume is needed to administer the prescribed dose, eject syringe contents until the prescribed dose is left in the syringe.
    Figure A
 2. 
 3. 2.Inject using standard technique, pushing the plunger to the bottom of the syringe (see Figure B). Figure B
-4. 
-5. 3.Remove the syringe from the injection site keeping your finger on the plunger rod (see Figure C). Figure C
-6. 
-7. 4.Orient the needle away from you and others, and activate the safety system by firmly pushing the plunger rod.
+
+1. 3.Remove the syringe from the injection site keeping your finger on the plunger rod (see Figure C). Figure C
+2. 
+3. 4.Orient the needle away from you and others, and activate the safety system by firmly pushing the plunger rod.
    The protective sleeve will automatically cover the needle and an audible “click” will be heard to confirm shield activation (see Figure D). Figure D
-8. 
-9. 5.Immediately dispose of the syringe in the nearest sharps container (see Figure E). Figure E
-10. 
+4. 
+5. 5.Immediately dispose of the syringe in the nearest sharps container (see Figure E). Figure E
+6. 
 
 NOTE:
 
@@ -128,14 +127,6 @@ NOTE:
 
 Activation of the safety system may cause minimal splatter of fluid.
 For optimal safety, activate the system while orienting it downwards away from yourself and others.
-
-### Intravenous (Bolus) Injection Technique
-
-Use the multiple-dose vial for intravenous injections.
-Administer enoxaparin sodium injection through an intravenous line.
-Do not mix or coadminister enoxaparin sodium injection with other medications.
-Flush the intravenous access device with a sufficient volume of saline or dextrose solution prior to and following the intravenous bolus administration of enoxaparin sodium injection, to prevent mixing of drugs.
-Enoxaparin sodium injection is compatible with normal saline solution (0.9%) or 5% dextrose in water.
 
 ## 2.6 Monitoring for Safety
 

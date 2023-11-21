@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Prophylaxis of Deep Vein Thrombosis Following Abdominal Surgery in Patients at Risk for Thromboembolic Complications
+## 14.1 Prophylaxis of Deep Vein Thrombosis following Abdominal Surgery in Patients at Risk for Thromboembolic Complications
 
 Abdominal surgery patients at risk include those who are over 40 years of age, obese, undergoing surgery under general anesthesia lasting longer than 30 minutes or who have additional risk factors such as malignancy or a history of deep vein thrombosis (DVT) or pulmonary embolism (PE).
 
@@ -10,7 +10,7 @@ Patients were 98% Caucasian, 1.1% Black, 0.4% Asian and 0.4% others.
 Enoxaparin sodium injection 40 mg subcutaneously, administered once a day, beginning 2 hours prior to surgery and continuing for a maximum of 12 days after surgery, was comparable to heparin 5000 U every 8 hours subcutaneously in reducing the risk of DVT.
 The efficacy data are provided below (see Table 14).
 
-Table 14 Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Deep Vein Thrombosis Following Abdominal Surgery
+Table 14: Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Deep Vein Thrombosis following Abdominal Surgery
 
 | Indication | Enoxaparin Sodium Injection 40 mg daily subcutaneously n (%) | Heparin 5000 U q8h subcutaneously n (%) |
 | --- | --- | --- |
@@ -26,7 +26,7 @@ Patients ranged in age from 18 to 92 years (mean age 50.1 years) with 54.2% men 
 Treatment was initiated approximately 2 hours prior to surgery and continued for approximately 7 to 10 days after surgery.
 The efficacy data are provided below (see Table 15).
 
-Table 15 Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Deep Vein Thrombosis Following Colorectal Surgery
+Table 15: Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Deep Vein Thrombosis following Colorectal Surgery
 
 | Indication | Enoxaparin Sodium Injection 40 mg daily subcutaneously n (%) | Heparin 5000 U q8h subcutaneously n (%) |
 | --- | --- | --- |
@@ -36,7 +36,7 @@ Table 15 Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Deep Vein
 | Total VTEVTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin. (%) | 48 (7.1) (95% CICI = Confidence Interval: 5 to 9) | 45 (6.7) (95% CI: 5 to 9) |
 | DVT Only (%) | 47 (7.0) (95% CI: 5 to 9) | 44 (6.5) (95% CI: 5 to 8) |
 
-## 14.2 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
+## 14.2 Prophylaxis of Deep Vein Thrombosis following Hip or Knee Replacement Surgery
 
 Enoxaparin sodium injection has been shown to reduce the risk of postoperative deep vein thrombosis (DVT) following hip or knee replacement surgery.
 
@@ -46,7 +46,7 @@ Patients ranged in age from 41 to 84 years (mean age 67.1 years) with 45% men an
 After hemostasis was established, treatment was initiated 12 to 24 hours after surgery and was continued for 10 to 14 days after surgery.
 The efficacy data are provided below (see Table 16).
 
-Table 16 Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Deep Vein Thrombosis Following Hip Replacement Surgery
+Table 16: Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Deep Vein Thrombosis following Hip Replacement Surgery
 
 | Indication | Enoxaparin Sodium Injection 30 mg q12h subcutaneously n (%) | Placebo q12h subcutaneously n (%) |
 | --- | --- | --- |
@@ -63,7 +63,7 @@ Patients were 93% Caucasian, 6% Black, <1% Asian, and 1% others.
 Treatment was initiated within two days after surgery and was continued for 7 to 11 days after surgery.
 The efficacy data are provided below (see Table 17).
 
-Table 17 Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Deep Vein Thrombosis Following Hip Replacement Surgery
+Table 17: Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Deep Vein Thrombosis following Hip Replacement Surgery
 
 | Indication | 10 mg daily subcutaneously n (%) | 30 mg q12h subcutaneously n (%) | 40 mg daily subcutaneously n (%) |
 | --- | --- | --- | --- |
@@ -81,7 +81,7 @@ After hemostasis was established, treatment was initiated 12 to 24 hours after s
 The incidence of proximal and total DVT after surgery was significantly lower for enoxaparin sodium injection compared to placebo.
 The efficacy data are provided below (see Table 18).
 
-Table 18 Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Deep Vein Thrombosis Following Total Knee Replacement Surgery
+Table 18: Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Deep Vein Thrombosis following Total Knee Replacement Surgery
 
 | Indication | Enoxaparin Sodium Injection 30 mg q12h subcutaneously n (%) | Placebo q12h subcutaneously n (%) |
 | --- | --- | --- |
@@ -98,7 +98,7 @@ Patients were 92.5% Caucasian, 5.3% Black, and 0.6% others.
 Treatment was initiated after surgery and continued up to 14 days.
 The incidence of deep vein thrombosis was lower for enoxaparin sodium injection compared to heparin.
 
-### Extended Prophylaxis of Deep Vein Thrombosis Following Hip Replacement Surgery
+### Extended Prophylaxis of Deep Vein Thrombosis following Hip Replacement Surgery
 
 In a study of extended prophylaxis for patients undergoing hip replacement surgery, patients were treated, while hospitalized, with enoxaparin sodium injection 40 mg subcutaneously, initiated up to 12 hours prior to surgery for the prophylaxis of postoperative DVT.
 At the end of the peri-operative period, all patients underwent bilateral venography.
@@ -108,11 +108,11 @@ Patients ranged in age from 47 to 87 years (mean age 69.4 years) with 57% men an
 In this population of patients, the incidence of DVT during extended prophylaxis was significantly lower for enoxaparin sodium injection compared to placebo.
 The efficacy data are provided below (see Table 19).
 
-Table 19 Efficacy of Enoxaparin Sodium Injection in the Extended Prophylaxis of Deep Vein Thrombosis Following Hip Replacement Surgery
+Table 19: Efficacy of Enoxaparin Sodium Injection in the Extended Prophylaxis of Deep Vein Thrombosis following Hip Replacement Surgery
 
-| Indication (Post-Discharge) | Enoxaparin Sodium Injection 40 mg daily subcutaneously n (%) | Placebo daily subcutaneously n (%) |
+| Indication (Post-discharge) | Enoxaparin Sodium Injection 40 mg daily subcutaneously n (%) | Placebo daily subcutaneously n (%) |
 | --- | --- | --- |
-|  | Post-Discharge Dosing Regimen |  |
+|  | Post-discharge Dosing Regimen |  |
 | All Treated Extended Prophylaxis Patients | 90 (100) | 89 (100) |
 | Treatment Failures |  |  |
 | Total DVT (%) | 6 (7)p value versus placebo = 0.008 (95% CICI= Confidence Interval: 3 to 14) | 18 (20) (95% CI: 12 to 30) |
@@ -125,7 +125,7 @@ A total of 262 patients were randomized in the study double-blind phase and all 
 Patients ranged in age from 44 to 87 years (mean age 68.5 years) with 43.1% men and 56.9% women.
 Similar to the first study the incidence of DVT during extended prophylaxis was significantly lower for enoxaparin sodium injection compared to placebo, with a statistically significant difference in both total DVT (enoxaparin sodium injection 21 [16%] versus placebo 45 [34%]; p = 0.001) and proximal DVT (enoxaparin sodium injection 8 [6%] versus placebo 28 [21%]; p = <0.001).
 
-## 14.3 Prophylaxis of Deep Vein Thrombosis in Medical Patients with Severely Restricted Mobility During Acute Illness
+## 14.3 Prophylaxis of Deep Vein Thrombosis in Medical Patients with Severely Restricted Mobility during Acute Illness
 
 In a double blind multicenter, parallel group study, enoxaparin sodium injection 20 mg or 40 mg once a day subcutaneously was compared to placebo in the prophylaxis of deep vein thrombosis (DVT) in medical patients with severely restricted mobility during acute illness (defined as walking distance of <10 meters for ≤3 days).
 This study included patients with heart failure (NYHA Class III or IV); acute respiratory failure or complicated chronic respiratory insufficiency (not requiring ventilatory support): acute infection (excluding septic shock); or acute rheumatic disorder (acute lumbar or sciatic pain, vertebral compression [due to osteoporosis or tumor], acute arthritic episodes of the lower extremities).
@@ -135,15 +135,15 @@ Treatment continued for a maximum of 14 days (median duration 7 days).
 When given at a dose of 40 mg once a day subcutaneously, enoxaparin sodium injection significantly reduced the incidence of DVT as compared to placebo.
 The efficacy data are provided below (see Table 20).
 
-Table 20 Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Deep Vein Thrombosis in Medical Patients with Severely Restricted Mobility During Acute Illness
+Table 20: Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Deep Vein Thrombosis in Medical Patients with Severely Restricted Mobility during Acute Illness
 
 | Indication | Enoxaparin Sodium Injection 20 mg daily subcutaneously n (%) | Enoxaparin Sodium Injection 40 mg daily subcutaneously n (%) | Placebo n (%) |
 | --- | --- | --- | --- |
 |  | Dosing Regimen |  |  |
-| All Treated Medical Patients During Acute Illness | 351 (100) | 360 (100) | 362 (100) |
+| All Treated Medical Patients during Acute Illness | 351 (100) | 360 (100) | 362 (100) |
 | Treatment FailureTreatment failures during therapy, between Days 1 and 14. |  |  |  |
 | Total VTEVTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin. (%) | 43 (12.3) | 16 (4.4) | 43 (11.9) |
-| Total DVT (%) | 43 (12.3) (95% CICI = Confidence Interval 8.8 to 15.7) | 16 (4.4) (95% CI 2.3 to 6.6) | 41 (11.3) (95% CI 8.1 to 14.6) |
+| Total DVT (%) | 43 (12.3) (95% CICI = Confidence Interval: 8.8 to 15.7) | 16 (4.4) (95% CI: 2.3 to 6.6) | 41 (11.3) (95% CI: 8.1 to 14.6) |
 | Proximal DVT (%) | 13 (3.7) | 5 (1.4) | 14 (3.9) |
 
 At approximately 3 months following enrollment, the incidence of venous thromboembolism remained lower in the enoxaparin sodium injection 40 mg treatment group versus the placebo treatment group.
@@ -158,7 +158,7 @@ Enoxaparin sodium injection or standard heparin therapy was administered for a m
 Both enoxaparin sodium injection regimens were equivalent to standard heparin therapy in reducing the risk of recurrent venous thromboembolism (DVT and/or PE).
 The efficacy data are provided below (see Table 21).
 
-Table 21 Efficacy of Enoxaparin Sodium Injection in Treatment of Deep Vein Thrombosis With or Without Pulmonary Embolism
+Table 21: Efficacy of Enoxaparin Sodium Injection in Treatment of Deep Vein Thrombosis with or without Pulmonary Embolism
 
 | Indication | Enoxaparin Sodium Injection 1.5 mg/kg daily subcutaneously n (%) | Enoxaparin Sodium Injection 1 mg/kg q12h subcutaneously n (%) | Heparin aPTT Adjusted Intravenous Therapy n (%) |
 | --- | --- | --- | --- |
@@ -182,7 +182,7 @@ Enoxaparin sodium injection or standard heparin therapy was administered for a m
 Enoxaparin sodium injection was equivalent to standard heparin therapy in reducing the risk of recurrent venous thromboembolism.
 The efficacy data are provided below (see Table 22).
 
-Table 22 Efficacy of Enoxaparin Sodium Injection in Treatment of Deep Vein Thrombosis
+Table 22: Efficacy of Enoxaparin Sodium Injection in Treatment of Deep Vein Thrombosis
 
 | Indication | n (%) | n (%) |
 | --- | --- | --- |
@@ -208,21 +208,21 @@ The lower incidence of the triple endpoint was sustained up to 30 days after ini
 These results were observed in an analysis of both all-randomized and all-treated patients.
 The efficacy data are provided below (see Table 23).
 
-Table 23 Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Ischemic Complications in Unstable Angina and Non-Q-Wave Myocardial Infarction (Combined Endpoint of Death, Myocardial Infarction, or Recurrent Angina)
+Table 23: Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Ischemic Complications in Unstable Angina and Non-Q-Wave Myocardial Infarction (combined endpoint of death, myocardial infarction, or recurrent angina)
 
-| Indication | Enoxaparin Sodium Injection 1 mg/kg q12h subcutaneous n (%) | Heparin aPTT Adjusted Intravenous Therapy n (%) | Reduction (%) | p Value |
+| Indication | Enoxaparin Sodium Injection 1 mg/kg q12h subcutaneously n (%) | Heparin aPTT Adjusted Intravenous Therapy n (%) | Reduction (%) | p Value |
 | --- | --- | --- | --- | --- |
 |  | Dosing RegimenAll patients were also treated with aspirin 100 to 325 mg per day. |  |  |  |
-| All Treated Unstable Angina and Non-Q-Wave MI Patients | 1578 (100) | 1529 (100) |  |  |
+| All Treated Unstable Angina and Non-Q-Wave MI Patients | 1578 (100) | 1529 (100) | - | - |
 | Time pointEvaluation time points are after initiation of treatment. Therapy continued for up to 8 days (median duration of 2.6 days). |  |  |  |  |
-| 48 Hours | 96 (6.1) | 112 (7.3) | 1.2 | 0.120 |
-| 14 Days | 261 (16.5) | 303 (19.8) | 3.3 | 0.017 |
-| 30 Days | 313 (19.8) | 358 (23.4) | 3.6 | 0.014 |
+| 48 Hours14 Days30 Days | 96 (6.1) | 112 (7.3) | 1.2 | 0.120 |
+| 261 (16.5) | 303 (19.8) | 3.3 | 0.017 |  |
+| 313 (19.8) | 358 (23.4) | 3.6 | 0.014 |  |
 
 The combined incidence of death or myocardial infarction at all time points was lower for enoxaparin sodium injection compared to standard heparin therapy, but did not achieve statistical significance.
 The efficacy data are provided below (see Table 24).
 
-Table 24 Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Ischemic Complications in Unstable Angina and Non-Q-Wave Myocardial Infarction (Combined Endpoint of Death or Myocardial Infarction)
+Table 24: Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Ischemic Complications in Unstable Angina and Non-Q-Wave Myocardial Infarction (combined endpoint of death or myocardial infarction)
 
 | Indication | Enoxaparin Sodium Injection 1 mg/kg q12h subcutaneously n (%) | Heparin aPTT Adjusted Intravenous Therapy n (%) | Reduction (%) | p Value |
 | --- | --- | --- | --- | --- |
@@ -269,7 +269,7 @@ Total follow-up was one year.
 
 The rate of the primary efficacy endpoint (death or myocardial re-infarction) was 9.9% in the enoxaparin sodium group, and 12% in the unfractionated heparin group, a 17% reduction in the relative risk, (P=0.000003) (see Table 25).
 
-Table 25 Efficacy of Enoxaparin Sodium Injection in the Treatment of Acute ST-Segment Elevation Myocardial Infarction
+Table 25: Efficacy of Enoxaparin Sodium Injection in the Treatment of Acute ST-Segment Elevation Myocardial Infarction
 
 |  | Enoxaparin Sodium (N=10, 256) | UFH (N=10, 223) | Relative Risk (95% CI) | P Value |
 | --- | --- | --- | --- | --- |
@@ -295,19 +295,17 @@ Table 25 Efficacy of Enoxaparin Sodium Injection in the Treatment of Acute ST-Se
 
 The beneficial effect of enoxaparin sodium on the primary endpoint was consistent across key subgroups including age, gender, infarct location, history of diabetes, history of prior myocardial infarction, fibrinolytic agent administered, and time to treatment with study drug (see Figure 1); however, it is necessary to interpret such subgroup analyses with caution.
 
-Figure 1.
-Relative Risks of and Absolute Event Rates for the Primary Endpoint at 30 Days in Various Subgroups*
+Figure 1: Relative Risks of and Absolute Event Rates for the Primary Endpoint at 30 Days in Various Subgroups*
 
 *The primary efficacy endpoint was the composite of death from any cause or myocardial re-infarction in the first 30 days.
-The overall treatment effect of enoxaparin sodium as compared to the unfractionated heparin is shown at the bottom of the figure.
+The overall treatment effect of enoxaparin sodium as compared to the unfractionated heparin (UFH) is shown at the bottom of the figure.
 For each subgroup, the circle is proportional to the number and represents the point estimate of the treatment effect and the horizontal lines represent the 95 % confidence intervals.
 Fibrin-specific fibrinolytic agents included alteplase, tenecteplase, and reteplase.
 Time to treatment indicates the time from the onset of symptoms to the administration of study drug (median: 3.2 hours).
 
 The beneficial effect of enoxaparin sodium on the primary endpoint observed during the first 30 days was maintained over a 12 month follow-up period (see Figure 2).
 
-Figure 2.
-Kaplan-Meier Plot - Death or Myocardial Re-Infarction at 30 Days - ITT Population
+Figure 2: Kaplan-Meier Plot - Death or Myocardial Re-Infarction at 30 Days - ITT Population
 
 There is a trend in favor of enoxaparin sodium during the first 48 hours, but most of the treatment difference is attributed to a step increase in the event rate in the UFH group at 48 hours (seen in Figure 2), an effect that is more striking when comparing the event rates just prior to and just subsequent to actual times of discontinuation.
 These results provide evidence that UFH was effective and that it would be better if used longer than 48 hours.
