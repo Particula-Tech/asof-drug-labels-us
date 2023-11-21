@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 100 Capsule Bottle Label - 59767-008
+# PRINCIPAL DISPLAY PANEL - 100 Capsule Bottle Label - 59767-008-01
 
 100 Capsules NDC 59767-008-01
 
@@ -21,34 +21,9 @@ Each delayed-release capsule contains pancrelipase in bicarbonate-buffered enter
 This product is of porcine origin.
 No preservative.
 
-PROFESSIONAL SAMPLE – NOT FOR RESALE Please read accompanying Medication Guide
-
-# PRINCIPAL DISPLAY PANEL - 250 Capsule Bottle Label - 59767-008
-
-250 Capsules NDC 59767-008-02
-
-pancrelipase PERTZYE®
-
-Rx Only
-
-Delayed-Release Capsules
-
-DOSE BY LIPASE UNITS
-
-Lipase 8,000 USP Units
-
-Protease 28,750 USP Units
-
-Amylase 30,250 USP Units
-
-Each delayed-release capsule contains pancrelipase in bicarbonate-buffered enteric-coated microspheres.
-
-This product is of porcine origin.
-No preservative.
-
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-# PRINCIPAL DISPLAY PANEL - 100 Capsule Bottle Label - 59767-004
+# PRINCIPAL DISPLAY PANEL - 100 Capsule Bottle Label - 59767-004-01
 
 100 Capsules NDC 59767-004-01
 
@@ -73,7 +48,7 @@ No preservative.
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-# PRINCIPAL DISPLAY PANEL - 100 Capsule Bottle Label - 59767-016
+# PRINCIPAL DISPLAY PANEL - 100 Capsule Bottle Label - 59767-016-01
 
 100 Capsules NDC 59767-016-01
 
@@ -98,59 +73,9 @@ No preservative.
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-# PRINCIPAL DISPLAY PANEL - 250 Capsule Bottle Label - 59767-016
-
-250 Capsules NDC 59767-016-02
-
-pancrelipase PERTZYE®
-
-Rx Only
-
-Delayed-Release Capsules
-
-DOSE BY LIPASE UNITS
-
-Lipase 16,000 USP Units
-
-Protease 57,500 USP Units
-
-Amylase 60,500 USP Units
-
-Each delayed-release capsule contains pancrelipase in bicarbonate-buffered enteric-coated microspheres.
-
-This product is of porcine origin.
-No preservative.
-
-PHARMACIST: Dispense the accompanying Medication Guide to each patient.
-
-# PRINCIPAL DISPLAY PANEL - 80 Capsule Bottle Label - 59767-024
+# PRINCIPAL DISPLAY PANEL - 80 Capsule Bottle Label
 
 80 Capsules NDC 59767-024-01
-
-pancrelipase PERTZYE®
-
-Rx Only
-
-Delayed-Release Capsules
-
-DOSE BY LIPASE UNITS
-
-Lipase 24,000 USP Units
-
-Protease 86,250 USP Units
-
-Amylase 90,750 USP Units
-
-Each delayed-release capsule contains pancrelipase in bicarbonate-buffered enteric-coated microspheres.
-
-This product is of porcine origin.
-No preservative.
-
-PHARMACIST: Dispense the accompanying Medication Guide to each patient.
-
-# PRINCIPAL DISPLAY PANEL - 200 Capsule Bottle Label - 59767-024
-
-200 Capsules NDC 59767-024-02
 
 pancrelipase PERTZYE®
 
