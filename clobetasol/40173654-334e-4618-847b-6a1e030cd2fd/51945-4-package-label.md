@@ -1,3 +1,37 @@
 # PRINCIPAL DISPLAY PANEL - NDC: 68040-713-38 - Tube Label
 
+NDC 68040-713-38
+
+Net Wt.
+100 g
+
+Rx only
+
+impoyz®
+
+(clobetasol propionate)
+
+Cream, 0.025%
+
+FOR TOPICAL USE ONLY
+
+NOT FOR ORAL, OPHTHALMIC OR INTRAVAGINAL USE
+
 # PRINCIPAL DISPLAY PANEL - NDC: 68040-713-38 - Carton Label
+
+NDC 68040-713-38
+
+Net Wt.
+100 g
+
+Rx only
+
+impoyz®
+
+(clobetasol propionate)
+
+Cream, 0.025%
+
+FOR TOPICAL USE ONLY
+
+NOT FOR ORAL, OPHTHALMIC OR INTRAVAGINAL USE
