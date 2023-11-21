@@ -7,7 +7,7 @@ There have been isolated reports of cardiomyopathy associated with chronic amphe
 
 ## Central Nervous System
 
-Psychotic episodes at recommended doses (rare), overstimulation, restlessness, dizziness, insomnia, euphoria, dyskinesia, dysphoria, tremor, headache, exacerbation of motor and phonic tics and Tourette's syndrome.
+Psychotic episodes at recommended doses (rare), overstimulation, restlessness, dizziness, insomnia, euphoria, dyskinesia, dysphoria, tremor, headache, exacerbation of motor and verbal tics and Tourette's syndrome.
 
 ## Gastrointestinal
 
