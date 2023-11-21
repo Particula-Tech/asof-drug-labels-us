@@ -206,7 +206,7 @@ Nitroglycerine tablets were allowed during the study.
 Blood pressure, heart rate and ECG's were recorded during serial exercise treadmill testing.
 Inderal LA was as effective as conventional propranolol for exercise heart rate, systolic and diastolic blood pressure, duration of anginal pain and ST-segment depression before or after exercise, exercise duration, angina attack rate and nitroglycerine consumption.
 
-In another double-blind, randomized, crossover trial, the effectiveness of propranolol LA 160 mg daily and conventional propranolol 40 mg four times a day were evaluated in 13 patients with angina.
+In another double-blind, randomized, crossover trial, the effectiveness of Inderal LA 160 mg daily and conventional propranolol 40 mg four times a day were evaluated in 13 patients with angina.
 ECG's were recorded while patients exercised until angina developed.
 Inderal LA was as effective as conventional propranolol for amount of exercise performed, ST-segment depression, number of anginal attacks, amount of nitroglycerine consumed, systolic and diastolic blood pressures and heart rate at rest and after exercise.
 

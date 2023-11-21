@@ -16,10 +16,10 @@ Cutaneous reactions, including Stevens-Johnson Syndrome, toxic epidermal necroly
 ## Cardiac Failure
 
 Sympathetic stimulation may be a vital component supporting circulatory function in patients with congestive heart failure, and its inhibition by beta blockade may precipitate more severe failure.
-Although beta blockers should be avoided in overt congestive heart failure, some have been shown to be highly beneficial when used with close follow-up in patients with a history of failure who are well compensated and are receiving diuretics as needed.
+Although beta-blockers should be avoided in overt congestive heart failure, some have been shown to be highly beneficial when used with close follow-up in patients with a history of failure who are well compensated and are receiving diuretics as needed.
 Beta-adrenergic blocking agents do not abolish the inotropic action of digitalis on heart muscle.
 
-In Patients without a History of Heart Failure, continued use of beta blockers can, in some cases, lead to cardiac failure.
+In Patients without a History of Heart Failure, continued use of beta-blockers can, in some cases, lead to cardiac failure.
 
 ## Nonallergic Bronchospasm (e.g., Chronic Bronchitis, Emphysema)
 
@@ -145,7 +145,7 @@ Administration of indomethacin with propranolol may reduce the efficacy of propr
 
 Antidepressants
 
-The hypotensive effects of MAO inhibitors or tricyclic antidepressants may be exacerbated when administered with beta-blockers by interfering with the beta blocking activity of propranolol.
+The hypotensive effects of MAO inhibitors or tricyclic antidepressants may be exacerbated when administered with beta-blockers by interfering with the beta-blocking activity of propranolol.
 
 Anesthetic Agents
 
