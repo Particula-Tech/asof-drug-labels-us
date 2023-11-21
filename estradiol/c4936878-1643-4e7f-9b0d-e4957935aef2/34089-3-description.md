@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Estradiol Tablets USP for oral administration contains 0.5, 1 or 2 mg of micronized estradiol, USP per tablet.
+Estradiol Tablets, USP for oral administration contains 0.5, 1 or 2 mg of micronized estradiol, USP per tablet.
 Estradiol, USP (17β-estradiol) is a white, crystalline solid, chemically described as estra-1,3,5,(10)-triene-3, 17β-diol.
 The structural formula is:
 

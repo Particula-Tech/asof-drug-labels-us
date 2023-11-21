@@ -1,61 +1,37 @@
-# PACKAGE LABEL. PRINCIPAL DISPLAY PANEL
-
 NDC 0555-0899-02
 
-Estradiol
-
-Tablets USP
+Estradiol Tablets, USP
 
 0.5 mg
 
-PHARMACIST: PLEASE DISPENSE
-
-WITH ATTACHED PATIENT
-
-INFORMATION LEAFLET.
+PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
 
 Rx only
 
-100 TABLETS
-
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+100 Tablets
 
 NDC 0555-0886-02
 
-Estradiol
-
-Tablets USP
+Estradiol Tablets, USP
 
 1 mg
 
-PHARMACIST: PLEASE DISPENSE
-
-WITH ATTACHED PATIENT
-
-INFORMATION LEAFLET.
+PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
 
 Rx only
 
-100 TABLETS
-
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+100 Tablets
 
 NDC 0555-0887-02
 
-Estradiol
-
-Tablets USP
+Estradiol Tablets, USP
 
 2 mg
 
-PHARMACIST: PLEASE DISPENSE WITH
+PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
 
-ATTACHED PATIENT INFORMATION LEAFLET.
-
-Contains FD&C Yellow No. 5 (tartrazine)
-
-as a color additive.
+Contains FD&C Yellow No. 5 (tartrazine) as a color additive.
 
 Rx only
 
-100 TABLETS
+100 Tablets

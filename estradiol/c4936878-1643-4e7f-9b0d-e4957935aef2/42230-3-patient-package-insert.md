@@ -1,8 +1,8 @@
 # PATIENT INFORMATION
 
-Estradiol Tablets USP
+Estradiol (es″ tra dye′ ol) Tablets
 
-Read this PATIENT INFORMATION before you start taking estradiol and read what you get each time you refill estradiol tablets.
+Read this PATIENT INFORMATION before you start taking estradiol tablets and read what you get each time you refill estradiol tablets.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
@@ -214,7 +214,7 @@ KEEP ESTRADIOL TABLETS OUT OF THE REACH OF CHILDREN
 This leaflet provides a summary of the most important information about estradiol tablets.
 If you would like more information, talk with your healthcare provider or pharmacist.
 You can ask for information about estradiol tablets that is written for health professionals.
-For more information about estradiol, please contact TEVA USA, PHARMACOVIGILANCE at 1-888-838-2872.
+For more information about estradiol, please contact Teva at 1-888-838-2872.
 
 WHAT ARE THE INGREDIENTS IN ESTRADIOL TABLETS?
 
@@ -222,9 +222,7 @@ Inactive Ingredients: Colloidal silicon dioxide, corn starch, dibasic calcium ph
 In addition, the 1 mg also contains FD&C blue no. 1 aluminum lake and D&C red no. 27 aluminum lake.
 The 2 mg also contains FD&C blue no. 1 aluminum lake and FD&C yellow no. 5 (tartrazine) aluminum lake.
 
-TEVA PHARMACEUTICALS USA, INC.
-
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-A 5/2016
+B 11/2022
