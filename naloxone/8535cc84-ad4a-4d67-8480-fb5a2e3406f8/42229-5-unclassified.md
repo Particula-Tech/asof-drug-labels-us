@@ -1,10 +1,4 @@
-Injection, USP
-
-Ampul, Fliptop Vial, Opioid Antagonist
-
-Protect from light.
-
-Rx only
+# Injection, USP Fliptop Vial, Opioid Antagonist Protect from light. Rx only
 
 # PHARMACOKINETICS
 
