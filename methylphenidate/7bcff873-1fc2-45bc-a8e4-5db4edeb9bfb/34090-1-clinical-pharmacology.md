@@ -2,8 +2,8 @@
 
 ## 12.1 Mechanism of Action
 
-Methylphenidate is a central nervous system (CNS) stimulant.
-Its mode of therapeutic action in Attention Deficit Hyperactivity Disorder (ADHD) is not known.
+Methylphenidate is a CNS stimulant.
+Its mode of therapeutic action in ADHD is not known.
 
 ## 12.2 Pharmacodynamics
 
@@ -17,8 +17,8 @@ The pharmacokinetics of Methylphenidate Transdermal System when applied to the h
 
 Absorption
 
-The amount of methylphenidate absorbed systemically is a function of both wear time and patch size.
-In patients with ADHD, peak plasma levels of methylphenidate are reached at about 10 hours after single application and 8 hours after repeat patch applications (12.5cm2 to 37.5cm2) when worn up to 9 hours.
+The amount of methylphenidate absorbed systemically is a function of both wear time and transdermal system size.
+In patients with ADHD, peak plasma levels of methylphenidate are reached at about 10 hours after single application and 8 hours after repeat transdermal system applications (12.5cm2 to 37.5cm2) when worn up to 9 hours.
 
 On single dosing of children or adolescents with Methylphenidate Transdermal System, there was a delay of, on average, 2 hours before d-methylphenidate was detectable in the circulation.
 On repeat dosing, low concentrations (1.2-3.0 ng/mL in children and 0.5-1.7ng/mL in adolescents, on average across the dose range) were observed earlier in the profile, due to carry-over effect.
@@ -27,7 +27,7 @@ Following the application of Methylphenidate Transdermal System once daily with 
 | Table 3 Mean Plasma d-Methylphenidate Pharmacokinetic Parameters After Repeated 9-Hour Applications of Methylphenidate Transdermal System or Oral ER-MPH for up to 28 days to Pediatric ADHD Patients (Aged 6 - 17 years) |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Children |  |  |  |  |
-| Parameter | MethylphenidateTransdermal System112.5cm2(N=12) | MethylphenidateTransdermal System2 37.5cm2 (N=10) | Oral ER-MPH3 18mg | Oral ER-MPH3 54mg |
+| Parameter | Methylphenidate Transdermal System112.5cm2(N=12) | Methylphenidate Transdermal System237.5cm2(N=10) | Oral ER-MPH3 18mg | Oral ER-MPH3 54mg |
 | Cssmax (ng/mL) | 15.7 ± 9.39 | 42.9 ± 22.4 | 8.37 ± 4.14 | 26.1 ± 11.2 |
 | Cssmin (ng/mL) | 1.04 ± 1.17 | 1.96 ± 1.73 | 0.708 ± 1.08 | 1.19 ± 1.54 |
 | AUCss (ng·hr/mL) | 163 ± 101 | 447 ± 230 | 97.7 ± 67.0 | 317 ± 160 |
@@ -37,8 +37,7 @@ Following the application of Methylphenidate Transdermal System once daily with 
 | Cssmin (ng/mL) | 0.544 ± 0.383 | 1.02 ± 0.629 | 0.360 ± 0.478 | 1.50 ± 0.937 |
 | AUCss (ng·hr/mL) | 85.7 ± 50.0 | 167 ± 66.0 | 59.7 ± 19.1 | 216 ± 80.8 |
 | tlag (h)4 | 0 (0 - 2.0) | 0 (0 - 2.0) | 0 | 0 |
-
-1 Dose maintained fixed for 28 days; 2 Dose escalated at 7 day intervals from 12.5 cm2 through 18.75 cm2 and 25 cm2 to 37.5 cm2; 3 Dose escalated at 7 day intervals from 18 mg through 27 mg and 36 mg to 54 mg; 4 Median (minimum - maximum); tlag = Last Sampling Time Prior to Time of First Quantifiable Plasma Concentration
+| 1 Dose maintained fixed for 28 days;2 Dose escalated at 7 day intervals from 12.5 cm2 through 18.75 cm2 and 25 cm2 to 37.5 cm2;3 Dose escalated at 7 day intervals from 18 mg through 27 mg and 36 mg to 54 mg;4 Median (minimum - maximum); tlag = Last Sampling Time Prior to Time of First Quantifiable Plasma Concentration |  |  |  |  |
 
 Following administration of Methylphenidate Transdermal System 12.5cm2 to pediatric and adolescent ADHD patients daily for 7 days, there were 13% and 14% increases, respectively, in steady state area under the plasma concentration-time curve (AUCss) relative to that anticipated on the basis of single dose pharmacokinetics (AUC0-∞); after 28 days administration, these increments increased to 64% and 76%, respectively.
 Cmax increased by nearly 69% and 100% within 4 weeks of daily administration of the starting dose in children and adolescents, respectively.
@@ -54,24 +53,22 @@ In a phase 2 PK/PD study in children aged 6-12 years, 2/3 of patients had 2-hour
 When Methylphenidate Transdermal System is applied to inflamed skin both the rate and extent of absorption are increased as compared with intact skin.
 When applied to inflamed skin, lag time is no greater than 1 hour, Tmax is 4 hours, and both Cmax and AUC are approximately 3-fold higher.
 
-When heat is applied to Methylphenidate Transdermal System after patch application, both the rate and the extent of absorption are significantly increased.
+When heat is applied to Methylphenidate Transdermal System after application, both the rate and the extent of absorption are significantly increased.
 Median Tlag occurs 1 hour earlier, Tmax occurs 0.5 hours earlier, and median Cmax and AUC are 2-fold and 2.5-fold higher, respectively.
 
 Application sites other than the hip can have different absorption characteristics and have not been adequately studied in safety or efficacy studies.
 
 Dose Proportionality
 
-Following a single 9-hour application of Methylphenidate Transdermal System doses of 10 mg / 9 hours to 30 mg / 9 hours patches to 34 children with ADHD, Cmax and AUC0-t of d-methylphenidate were proportional to the patch dose.
+Following a single 9-hour application of Methylphenidate Transdermal System doses of 10 mg / 9 hours to 30 mg / 9 hours transdermal systems to 34 children with ADHD, Cmax and AUC0-t of d-methylphenidate were proportional to the transdermal system dose.
 Mean plasma concentration-time plots are shown in Figure 1.
-Cmax of l-methylphenidate was also proportional to the patch dose.
-AUC0-t of l-methylphenidate was only slightly greater than proportional to patch dose.
-
-FIGURE 1: Mean Concentration-time Profiles for d-Methylphenidate in all Patients (N=34) Following Administration of Single Applications (9-Hour Wear Time) of d,l-Methylphenidate Using Methylphenidate Transdermal System 10 mg (), 20 mg, and 30 () mg () per 9-hour Patches
+Cmax of l-methylphenidate was also proportional to the transdermal system dose.
+AUC0-t of l-methylphenidate was only slightly greater than proportional to transdermal system dose.
 
 Distribution
 
 Upon removal of Methylphenidate Transdermal System, methylphenidate plasma concentrations in children with ADHD decline in a biexponential manner.
-This may be due to continued distribution of MPH from the skin after patch removal.
+This may be due to continued distribution of MPH from the skin after transdermal system removal.
 
 Metabolism and Excretion
 

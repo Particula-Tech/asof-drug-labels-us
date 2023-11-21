@@ -1,20 +1,21 @@
 # 10 OVERDOSAGE
 
-## 10.1 Signs and Symptoms
+Clinical Effects of Overdose
 
-Signs and symptoms of acute methylphenidate overdosage, resulting principally from overstimulation of the CNS and from excessive sympathomimetic effects, may include the following: vomiting, agitation, tremors, hyperreflexia, muscle twitching, convulsions (may be followed by coma), euphoria, confusion, hallucinations, delirium, sweating, flushing, headache, hyperpyrexia, tachycardia, palpitations, cardiac arrhythmias, hypertension, mydriasis, dryness of mucous membranes, and rhabdomyolysis.
+Overdose of CNS stimulants is characterized by the following sympathomimetic effects:
 
-## 10.2 Recommended Treatment
+- Cardiovascular effects including tachyarrhythmias, and hypertension or hypotension.
+  Vasospasm, myocardial infarction, or aortic dissection may precipitate sudden cardiac death.
+  Takotsubo cardiomyopathy may develop.
+- CNS effects including psychomotor agitation, confusion, and hallucinations.
+  Serotonin syndrome, seizures, cerebral vascular accidents, and coma may occur.
+- Life-threatening hyperthermia (temperatures greater than 104°F) and rhabdomyolysis may develop.
 
-Remove all patches immediately and cleanse the area(s) to remove any remaining adhesive.
-The continuing absorption of methylphenidate from the skin, even after removal of the patch, should be considered when treating patients with overdose.
-Treatment consists of appropriate supportive measures.
-The patient must be protected against self-injury and against external stimuli that would aggravate overstimulation already present.
-Intensive care must be provided to maintain adequate circulation and respiratory exchange; external cooling procedures may be required for hyperpyrexia.
+Overdose Management
 
-Efficacy of peritoneal dialysis or extracorporeal hemodialysis for Methylphenidate Transdermal System overdosage has not been established.
+Consider the possibility of multiple drug ingestion.
+Because methylphenidate has a large volume of distribution and is rapidly metabolized, dialysis is not useful.
+Remove all transdermal systems immediately and cleanse the area(s) to remove any remaining adhesive.
+The continuing absorption of methylphenidate from the skin, even after removal of the transdermal system, should be considered when treating patients with overdose.
 
-## 10.3 Poison Control Center
-
-As with the management of all overdosages, the possibility of multiple drug ingestion should be considered.
-The physician may wish to consider contacting a poison control center for up-to-date information on the management of overdosage with methylphenidate.
+Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.

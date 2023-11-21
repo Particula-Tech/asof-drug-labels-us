@@ -10,7 +10,7 @@ Healthcare providers are encouraged to register patients by calling the National
 Risk Summary
 
 Published studies and post-marketing reports on methylphenidate use during pregnancy are insufficient to identify a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
-There are risks to the fetus associated with the use of central nervous system (CNS) stimulants during pregnancy (see Clinical Considerations).
+There are risks to the fetus associated with the use of CNS stimulants during pregnancy (see Clinical Considerations).
 
 No effects on morphological development were observed in embryo-fetal development studies with oral administration of methylphenidate to pregnant rats and rabbits during organogenesis.
 However, spina bifida was observed in rabbits when given oral doses of 200 mg/kg/day.
@@ -54,13 +54,15 @@ Monitor breastfeeding infants for adverse reactions, such as agitation, insomnia
 
 ## 8.4 Pediatric Use
 
-Methylphenidate Transdermal System should not be used in children under six years of age, since safety and efficacy in this age group have not been established.
+The safety and effectiveness of Methylphenidate Transdermal System in pediatric patients less than 6 years have not been established.
 Long-term effects of methylphenidate in children have not been well established.
+
+The safety and effectiveness of Methylphenidate Transdermal System for the treatment of ADHD have been established in pediatric patients 6 to 17 years.
 
 Long Term Suppression of Growth
 
 Growth should be monitored during treatment with stimulants, including Methylphenidate Transdermal System.
-Children who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.6)].
+Children who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.8)].
 
 Juvenile Animal Toxicity Data
 

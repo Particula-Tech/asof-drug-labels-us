@@ -2,24 +2,27 @@
 
 Detailed information on serious and adverse reactions of particular importance is provided in the Boxed Warning and Warnings and Precautions (5) sections:
 
-- Drug dependence [see Boxed Warning]
-- H﻿ypersensitivity to Methylphenidate [see Contraindications (4.1)]
-- Marked anxiety, tension, or agitation [see Contraindications (4.2)]
-- Glaucoma [see Contraindications (4.3)]
-- Tics or a family history of Tourette's syndrome [see Contraindications (4.4)]
-- Monoamine Oxidase Inhibitors [see Contraindications (4.5) and Drug Interactions (7.1)]
-- Serious Cardiovascular Events [see Warnings and Precautions (5.1)]
-- Increase in Blood Pressure [see Warnings and Precautions (5.1)]
-- Psychiatric Adverse Events [see Warnings and Precautions (5.2)]
-- Seizures [see Warnings and Precautions (5.3)]
-- Priapism [see Warnings and Precautions (5.4)]
-- Peripheral Vasculopathy [see Warnings and Precautions (5.5)]
-- Long-Term Suppression of Growth [see Warnings and Precautions (5.6)]
-- Chemical Leukoderma [see Warnings and Precautions (5.7)]
-- Contact Sensitization [see Warnings and Precautions (5.8)]
-- Visual Disturbance [see Warnings and Precautions (5.9)]
-- External Heat [see Warnings and Precautions (5.10)]
-- Hematologic Monitoring [see Warnings and Precautions (5.11)]
+- Abuse, Misuse, and Addiction [see Boxed Warning]
+- Hypersensitivity to Methylphenidate [see Contraindications (4.1)]
+- Monoamine Oxidase Inhibitors [see Contraindications (4.2) and Drug Interactions (7.1)]
+- Risks to Patients with Serious Cardiac Disease [see Warnings and Precautions (5.2)]
+- Increased Blood Pressure and Heart Rate [see Warnings and Precautions (5.3)]
+- Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
+- Seizures [see Warnings and Precautions (5.5)]
+- Priapism [see Warnings and Precautions (5.6)]
+- Peripheral Vasculopathy [see Warnings and Precautions (5.7)]
+- Long-Term Suppression of Growth in Pediatric Patients [see Warnings and Precautions (5.8)]
+- Chemical Leukoderma [see Warnings and Precautions (5.9)]
+- Contact Sensitization [see Warnings and Precautions (5.10)]
+- External Heat [see Warnings and Precautions (5.11)]
+- Hematologic Monitoring [see Warnings and Precautions (5.12)]
+- Acute Angle Closure Glaucoma [see Warnings and Precautions (5.13)]
+- Increased Intraocular Pressure and Glaucoma [see Warnings and Precautions (5.14)]
+- Motor and Verbal Tics, and Worsening of Tourette’s Syndrome [see Warnings and Precautions (5.15)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The most commonly reported (frequency ≥ 5% and twice the rate of placebo) adverse reactions in a controlled trial in children aged 6-12 included appetite decreased, insomnia, nausea, vomiting, weight decreased, tic, affect lability, and anorexia.
 The most commonly reported (frequency ≥ 5% and twice the rate of placebo) adverse reactions in a controlled trial in adolescents aged 13-17 were appetite decreased, nausea, insomnia, weight decreased, dizziness, abdominal pain, and anorexia [see Adverse Reactions (6.1)].
@@ -28,24 +31,16 @@ The most common (≥ 2% of subjects) adverse reaction associated with discontinu
 
 The overall Methylphenidate Transdermal System development program included exposure to Methylphenidate Transdermal System in a total of 2,152 participants in clinical trials, including 1,529 children aged 6-12, 223 adolescents aged 13-17, and 400 adults.
 The 1,752 child and adolescent subjects aged 6-17 years were evaluated in 10 controlled clinical studies, 7 open-label clinical studies, and 5 clinical pharmacology studies.
-In a combined studies pool of children using Methylphenidate Transdermal System with a wear time of 9 hours, 212 subjects were exposed for ≥ 6 months and 115 were exposed for ≥ 1 year; 85 adolescents have been exposed for ≥ 6 months.
-Most patients studied were exposed to Methylphenidate Transdermal System patch sizes of 12.5 cm2, 18.75 cm2, 25 cm2 or 37.5 cm2, with a wear time of 9 hours.
+In a combined studies pool of children using Methylphenidate Transdermal System with a wear time of 9 hours, 212 subjects were exposed for ≥ 6 months and 115 were exposed for ≥ 1 year; 85 adolescents were exposed for ≥ 6 months.
+Most patients studied were exposed to Methylphenidate Transdermal System transdermal system sizes of 12.5 cm2, 18.75 cm2, 25 cm2 or 37.5 cm2, with a wear time of 9 hours.
 
 In the data presented below, the adverse reactions reported during exposure were obtained primarily by general inquiry at each visit, and were recorded by the clinical investigators using terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse reactions without first grouping similar types of events into a smaller number of standardized event categories.
 
-Throughout this section adverse reactions reported are events that were considered to be reasonably associated with the use of Methylphenidate Transdermal System based on comprehensive assessment of the available adverse event information.
-A causal association for Methylphenidate Transdermal System often cannot be reliably established in individual cases.
-Further, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in clinical trials of another drug and may not reflect the rates observed in clinical practice.
-
-## 6.1 Clinical Trials Experience
-
-Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
-Adverse Reactions Associated With Discontinuation of Treatment
+Adverse Reactions in Clinical Studies with Discontinuation of Treatment
 
 In a 7-week double-blind, parallel-group, placebo-controlled study in children with ADHD conducted in the outpatient setting, 7.1% (7/98) of patients treated with Methylphenidate Transdermal System discontinued due to adverse events compared with 1.2% (1/85) receiving placebo.
-The most commonly reported (1% and twice the rate of placebo) adverse reactions leading to discontinuation in the Methylphenidate Transdermal System group were application site reaction (2%), tics (1%), headache (1%), and irritability (1%).
+The most commonly reported (≥ 1% and twice the rate of placebo) adverse reactions leading to discontinuation in the Methylphenidate Transdermal System group were application site reaction (2%), tics (1%), headache (1%), and irritability (1%).
 
 In a 7-week double-blind, parallel-group, placebo-controlled study in adolescents with ADHD conducted in the outpatient setting, 5.5% (8/145) of patients treated with Methylphenidate Transdermal System discontinued due to adverse reactions compared with 2.8% (2/72) receiving placebo.
 The most commonly reported adverse reactions leading to discontinuation in the Methylphenidate Transdermal System group were application site reaction (2%) and decreased appetite/anorexia (1.4%).
@@ -55,20 +50,20 @@ Commonly Observed Adverse Reactions in Double-Blind, Placebo-Controlled Trials
 Skin Irritation and Application Site Reactions
 
 Methylphenidate Transdermal System is a dermal irritant.
-In addition to the most commonly reported adverse reactions presented in Table 2, the majority of subjects in those studies had minimal to definite skin erythema at the patch application site.
+In addition to the most commonly reported adverse reactions presented in Table 2, the majority of subjects in those studies had minimal to definite skin erythema at the Methylphenidate Transdermal System application site.
 This erythema generally caused no or minimal discomfort and did not usually interfere with therapy or result in discontinuation from treatment.
 Erythema is not by itself a manifestation of contact sensitization.
-However, contact sensitization should be suspected if erythema is accompanied by evidence of a more intense local reaction (edema, papules, vesicles) that does not significantly improve within 48 hours or spreads beyond the patch site [see Warnings and Precautions (5.8)].
+However, contact sensitization should be suspected if erythema is accompanied by evidence of a more intense local reaction (edema, papules, vesicles) that does not significantly improve within 48 hours or spreads beyond the transdermal system site [see Warnings and Precautions (5.10)].
 
 Most Commonly Reported Adverse Reactions
 
-Table 2 lists treatment-emergent adverse reactions reported in 1% Methylphenidate Transdermal System-treated children or adolescents with ADHD in two 7 week double-blind, parallel-group, placebo-controlled studies conducted in the outpatient setting.
+Table 2 lists treatment-emergent adverse reactions reported in ≥ 1% Methylphenidate Transdermal System -treated children or adolescents with ADHD in two 7 week double-blind, parallel-group, placebo-controlled studies conducted in the outpatient setting.
 Overall, in these studies, 75.5% of children and 78.6% of adolescents experienced at least 1 adverse event.
 
 | Table 2 Number (%) of Subjects with Commonly Reported Adverse Reactions (≥ 1% in the Methylphenidate Transdermal System Group) in 7-Week Placebo-controlled Studies in Either Children or Adolescents - Safety Population |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Adolescents |  | Children |  |
-| System Organ Class Preferred term | PlaceboN = 72 | MethylphenidateTransdermalSystemN = 145 | PlaceboN = 85 | MethylphenidateTransdermalSystemN = 98 |
+| System Organ Class Preferred Term﻿ | PlaceboN = 72 | Methylphenidate Transdermal SystemN = 145 | PlaceboN = 85 | Methylphenidate Transdermal SystemN = 98 |
 | Cardiac Disorders |  |  |  |  |
 | Tachycardia | 0 (0) | 1 (0.7) | 0 (0) | 1 (1.0) |
 | Gastrointestinal disorders |  |  |  |  |
@@ -88,10 +83,9 @@ Overall, in these studies, 75.5% of children and 78.6% of adolescents experience
 | Insomnia | 2 (2.8) | 9 (6.2) | 4 (4.7) | 13 (13.3) |
 | Irritability | 5 (6.9) | 16 (11) | 4 (4.7) | 7 (7.1) |
 | Tic | 0 (0) | 0 (0) | 0 (0) | 7 (7.1) |
+| * Six subjects had affect lability, all judged as mild and described as increased emotionally sensitive, emotionality, emotional instability, emotional lability, and intermittent emotional |  |  |  |  |
 
-* Six subjects had affect lability, all judged as mild and described as increased emotionally sensitive, emotionality, emotional instability, emotional lability, and intermittent emotional
-
-Adverse Reactions With the Long-Term Use of Methylphenidate Transdermal System
+Adverse Reactions in Studies with the Long-Term Use of Methylphenidate Transdermal System
 
 In a long-term open-label study of up to 12 months duration in 326 children wearing Methylphenidate Transdermal System 9 hours daily, the most common (≥ 10%) adverse reactions were decreased appetite, headache, and weight decreased.
 A total of 30 subjects (9.2%) were withdrawn from the study due to adverse events and 22 additional subjects (6.7%) discontinued treatment as the result of an application site reaction.
@@ -103,54 +97,54 @@ Other adverse reactions leading to discontinuation that occurred with a frequenc
 
 ## 6.2 Postmarketing Experience
 
-In addition, the following adverse reactions have been identified during the postapproval use of Methylphenidate Transdermal System.
+In addition, the following adverse reactions have been identified during the post-approval use of Methylphenidate Transdermal System.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to Methylphenidate Transdermal System exposure.
 
-Cardiac Disorders: palpitations
+Cardiac Disorders: palpitations.
 
-Eye Disorders: visual disturbances, blurred vision, mydriasis, and accommodation disorder
+Eye Disorders: visual disturbances, blurred vision, increased intraocular pressure, mydriasis, and accommodation disorder.
 
 General Disorders and Administration Site Disorders: fatigue, application site reactions such as bleeding, bruising, burn, burning, dermatitis, discharge, discoloration, discomfort, dryness, eczema, edema, erosion, erythema, excoriation, exfoliation, fissure, hyperpigmentation, hypopigmentation, induration, infection, inflammation, irritation, pain, papules, paresthesia, pruritus, rash, scab, swelling, ulcer, urticaria, vesicles, and warmth.
 
-Immune System Disorders: hypersensitivity reactions including generalized erythematous and urticarial rashes, allergic contact dermatitis, angioedema, and anaphylaxis
+Immune System Disorders: hypersensitivity reactions including generalized erythematous and urticarial rashes, allergic contact dermatitis, angioedema, and anaphylaxis.
 
-Investigations: blood pressure increased
+Investigations: blood pressure increased.
 
-Nervous System Disorders: convulsion, dyskinesia, lethargy, somnolence, serotonin syndrome in combination with serotonergic drugs, and extrapyramidal disorder
+Nervous System Disorders: convulsion, dyskinesia, lethargy, somnolence, serotonin syndrome in combination with serotonergic drugs, and extrapyramidal disorder, motor and verbal tics.
 
-Psychiatric Disorders: depression, hallucination, nervousness, and libido changes
+Psychiatric Disorders: depression, hallucination, nervousness, and libido changes.
 
-Skin and Subcutaneous Tissue Disorders: alopecia
+Skin and Subcutaneous Tissue Disorders: alopecia.
 
-## 6.3 Adverse Reactions With Oral Methylphenidate Products
+Adverse Reactions with Oral Methylphenidate Products
 
 Nervousness and insomnia are the most common adverse reactions reported with other methylphenidate products.
 In children, loss of appetite, abdominal pain, weight loss during prolonged therapy, insomnia, and tachycardia may occur more frequently; however, any of the other adverse reactions listed below may also occur.
 
 Other reactions include:
 
-Cardiac Disorders: angina, arrhythmia, and pulse increased or decreased
+Cardiac Disorders: angina, arrhythmia, and pulse increased or decreased.
 
-Immune System Disorders: hypersensitivity reactions including skin rash, urticaria, fever, arthralgia, exfoliative dermatitis, erythema multiforme with histopathological findings of necrotizing vasculitis, and thrombocytopenic purpura
+Immune System Disorders: hypersensitivity reactions including skin rash, urticaria, fever, arthralgia, exfoliative dermatitis, erythema multiforme with histopathological findings of necrotizing vasculitis, and thrombocytopenic purpura.
 
-Metabolism and Nutrition Disorders: anorexia and weight loss during prolonged therapy
+Metabolism and Nutrition Disorders: anorexia and weight loss during prolonged therapy.
 
-Nervous System Disorders: drowsiness, rare reports of Tourette's syndrome and toxic psychosis
+Nervous System Disorders: drowsiness, rare reports of Tourette's syndrome and toxic psychosis.
 
 Very rare reports of neuroleptic malignant syndrome (NMS) have been received, and, in most of these, patients were concurrently receiving therapies associated with NMS.
 In a single report, a ten-year-old boy who had been taking methylphenidate for approximately 18 months experienced an NMS-like event within 45 minutes of ingesting his first dose of venlafaxine.
 It is uncertain whether this case represented a drug-drug interaction, a response to either drug alone, or some other cause.
 
-Vascular Disorders: blood pressure increased or decreased and cerebral arteritis and/or occlusion
+Vascular Disorders: blood pressure increased or decreased and cerebral arteritis and/or occlusion.
 
 Although a definite causal relationship has not been established, the following have been reported in patients taking methylphenidate:
 
-Blood and Lymphatic System Disorders: leukopenia and/or anemia
+Blood and Lymphatic System Disorders: leukopenia and/or anemia.
 
-Hepatobiliary Disorders: abnormal liver function, ranging from transaminase elevation to severe hepatic injury
+Hepatobiliary Disorders: abnormal liver function, ranging from transaminase elevation to severe hepatic injury.
 
-Psychiatric Disorders: transient depressed mood
+Psychiatric Disorders: transient depressed mood.
 
-Skin and Subcutaneous Tissue Disorders: scalp hair loss
+Skin and Subcutaneous Tissue Disorders: scalp hair loss.
 
-Musculoskeletal and Connective Tissue Disorders: rhabdomyolysis
+Musculoskeletal and Connective Tissue Disorders: rhabdomyolysis.
