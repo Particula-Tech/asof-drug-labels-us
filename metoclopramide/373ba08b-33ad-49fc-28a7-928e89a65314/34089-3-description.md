@@ -14,4 +14,7 @@ May contain hydrochloric acid and/or sodium hydroxide for pH adjustment; pH 4.4 
 The solution contains no bacteriostat, antimicrobial agent or added buffer and is intended for use only as a single-dose injection.
 When smaller doses are required, the unused portion should be discarded.
 
+This product is light sensitive.
+It should be inspected before use and discarded if either color or particulate is observed.
+
 Metoclopramide Injection is intended for intravenous or intramuscular administration.
