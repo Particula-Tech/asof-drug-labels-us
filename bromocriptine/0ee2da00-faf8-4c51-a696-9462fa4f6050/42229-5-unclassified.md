@@ -2,8 +2,10 @@
 
 Manufactured By
 
-Perrigo®
+Padagis
 
 Minneapolis, MN 55427
 
-2201563 2P600 RC J6 Rev 08-21 G
+www.padagis.com
+
+2204623 2P600 RC J7 Rev 04-22

@@ -80,4 +80,4 @@ If hypertension, severe, progressive, or unremitting headache (with or without v
 
 Particular caution is required in patients who have recently been treated or are on concomitant therapy with drugs that can alter blood pressure, e.g., vasoconstrictors such as sympathomimetics or ergot alkaloids including ergometrine or methylergometrine and their concomitant use in the puerperium is not recommended.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Perrigo at 1-866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Padagis at 1-866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

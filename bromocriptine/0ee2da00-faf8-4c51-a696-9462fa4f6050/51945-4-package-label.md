@@ -1,8 +1,8 @@
 # PRINCIPAL DISPLAY PANEL - 30 Tablets
 
-Rx Only
-
 NDC 0574-0106-03
+
+Rx Only
 
 Bromocriptine Mesylate Tablets, USP 2.5 mg*
 

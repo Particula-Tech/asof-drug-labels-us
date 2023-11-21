@@ -113,7 +113,7 @@ Retroperitoneal fibrosis has been reported in a few patients receiving long-term
 
 Epidemiological studies have shown that patients with Parkinson’s disease have a higher risk (2-approximately 6-fold higher) of developing melanoma than the general population.
 Whether the increased risk observed was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, is unclear.
-For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using bromocriptine mesylate for anyindication.
+For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using bromocriptine mesylate for any indication.
 Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
 
 Discontinuation of bromocriptine mesylate should be undertaken gradually whenever possible, even if the patient is to remain on levodopa.
