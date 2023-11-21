@@ -13,10 +13,10 @@ The most common tumor types were lung, breast, head and neck, and renal.
 
 In these studies, HCM was defined as a corrected serum calcium (CSC) concentration of greater than or equal to 12.0 mg/dL (3.00 mmol/L).
 The primary efficacy variable was the proportion of patients having a complete response, defined as the lowering of the CSC to less than or equal to 10.8 mg/dL (2.70 mmol/L) within 10 days after drug infusion.
-
 To assess the effects of Zoledronic Acid Injection versus those of pamidronate, the two multicenter HCM studies were combined in a preplanned analysis.
 The results of the primary analysis revealed that the proportion of patients that had normalization of corrected serum calcium by Day 10 were 88% and 70% for Zoledronic Acid Injection 4 mg and pamidronate 90 mg, respectively (P=0.002) (see Figure 1).
 In these studies, no additional benefit was seen for Zoledronic Acid Injection 8 mg over Zoledronic Acid Injection 4 mg; however, the risk of renal toxicity of Zoledronic Acid Injection 8 mg was significantly greater than that seen with Zoledronic Acid Injection 4 mg.
+
 Figure 1: Proportion of Complete Responders by Day 10 in Pooled HCM Studies
 
 Secondary efficacy variables from the pooled HCM studies included the proportion of patients who had normalization of corrected serum calcium (CSC) by Day 4; the proportion of patients who had normalization of CSC by Day 7; time to relapse of HCM; and duration of complete response.

@@ -8,6 +8,7 @@ In animal reproduction studies, administration of zoledronic acid to pregnant ra
 Bisphosphonates, such as Zoledronic Acid Injection, are incorporated into the bone matrix, from where they are gradually released over periods of weeks to years.
 There may be a risk of fetal harm (e.g., skeletal and other abnormalities) if a woman becomes pregnant after completing a course of bisphosphonate therapy.
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+
 The background risk of major birth defects and miscarriage for the indicated population is unknown; however, in the U.S. general population, the estimated background risk of major birth defects is 2% to 4% and of miscarriage is 15% to 20% of clinically recognized pregnancies.
 Data Animal Data In female rats given subcutaneous doses of zoledronic acid of 0.01, 0.03, or 0.1 mg/kg/day beginning 15 days before mating and continuing through gestation, the number of stillbirths was increased and survival of neonates was decreased in the mid- and high-dose groups (greater than or equal to 0.2 times the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison).
 Adverse maternal effects were observed in all dose groups (with a systemic exposure of greater than or equal to 0.07 times the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison) and included dystocia and periparturient mortality in pregnant rats allowed to deliver.

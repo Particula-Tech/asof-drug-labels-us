@@ -62,6 +62,7 @@ Fractures are often bilateral; therefore the contralateral femur should be exami
 Poor healing of these fractures has also been reported.
 A number of case reports noted that patients were also receiving treatment with glucocorticoids (such as prednisone or dexamethasone) at the time of fracture.
 Causality with bisphosphonate therapy has not been established.
+
 Any patient with a history of bisphosphonate exposure who presents with thigh or groin pain in the absence of trauma should be suspected of having an atypical fracture and should be evaluated.
 Discontinuation of Zoledronic Acid Injection therapy in patients suspected to have an atypical femur fracture should be considered pending evaluation of the patient, based on an individual benefit risk assessment.
 It is unknown whether the risk of atypical femur fracture continues after stopping therapy.

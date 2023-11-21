@@ -11,6 +11,7 @@ Renal Toxicity Administration of Zoledronic Acid Injection 4 mg given as a 5-min
 The incidence of renal toxicity and renal failure has been shown to be reduced when Zoledronic Acid Injection 4 mg is given as a 15-minute intravenous infusion.
 Zoledronic Acid Injection should be administered by intravenous infusion over no less than 15 minutes [see Warnings and Precautions (5.3), Dosage and Administration (2.4)].
 The most frequently observed adverse events were fever, nausea, constipation, anemia, and dyspnea (see Table 4).
+
 Table 4 provides adverse events that were reported by 10% or more of the 189 patients treated with Zoledronic Acid Injection 4 mg or pamidronate 90 mg from the two HCM trials.
 Adverse events are listed regardless of presumed causality to study drug.
 
@@ -62,7 +63,9 @@ Rare cases of rash, pruritus, and chest pain have been reported following treatm
 Acute Phase Reaction Within three days after Zoledronic Acid Injection administration, an acute phase reaction has been reported in patients, with symptoms including pyrexia, fatigue, bone pain and/or arthralgias, myalgias, chills, and influenza-like illness.
 These symptoms usually resolve within a few days.
 Pyrexia has been the most commonly associated symptom, occurring in 44% of patients.
-Mineral and Electrolyte Abnormalities Electrolyte abnormalities, most commonly hypocalcemia, hypophosphatemia, and hypomagnesemia, can occur with bisphosphonate use.
+Mineral and Electrolyte Abnormalities
+
+Electrolyte abnormalities, most commonly hypocalcemia, hypophosphatemia, and hypomagnesemia, can occur with bisphosphonate use.
 
 Grade 3 and Grade 4 laboratory abnormalities for serum creatinine, serum calcium, serum phosphorus, and serum magnesium observed in two clinical trials of Zoledronic Acid Injection in patients with HCM are shown in Table 5 and 6.
 
@@ -249,12 +252,17 @@ Caution is advised when Zoledronic Acid Injection is administered with anti-angi
 Data suggests a greater frequency of reports of ONJ in certain cancers, such as advanced breast cancer and multiple myeloma.
 The majority of the reported cases are in cancer patients following invasive dental procedures, such as tooth extraction.
 It is therefore prudent to avoid invasive dental procedures as recovery may be prolonged [see Warnings and Precautions (5.4)].
+
 Acute Phase Reaction Within three days after Zoledronic Acid Injection administration, an acute phase reaction has been reported, with symptoms including pyrexia, fatigue, bone pain and/or arthralgias, myalgias, chills, influenza-like illness and arthritis with subsequent joint swelling; these symptoms usually resolve within three days of onset, but resolution could take up to 7 to 14 days.
 However, some of these symptoms have been reported to persist for a longer duration.
+
 Musculoskeletal Pain Severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported with bisphosphonate use [see Warnings and Precautions (5.5)].
+
 Atypical Subtrochanteric and Diaphyseal Femoral Fractures Atypical subtrochanteric and diaphyseal femoral fractures have been reported with bisphosphonate therapy, including Zoledronic Acid Injection [see Warnings and Precautions (5.6)].
+
 Ocular Adverse Events Cases of uveitis, scleritis, episcleritis, conjunctivitis, iritis, and orbital inflammation including orbital edema have been reported during postmarketing use.
 In some cases, symptoms resolved with topical steroids.
+
 Hypersensitivity Reactions There have been rare reports of allergic reaction with intravenous zoledronic acid including angioedema and bronchoconstriction.
 Very rare cases of anaphylactic reaction/shock have been reported.
 Cases of Stevens-Johnson syndrome and toxic epidermal necrolysis have also been reported.
