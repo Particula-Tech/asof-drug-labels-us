@@ -1,14 +1,19 @@
 # 10 OVERDOSAGE
 
-Signs and symptoms of acute methylphenidate overdosage, resulting principally from overstimulation of the CNS and from excessive sympathomimetic effects, may include the following: nausea, vomiting, diarrhea, restlessness, anxiety, agitation, tremors, hyperreflexia, muscle twitching, convulsions (may be followed by coma), euphoria, confusion,, hallucinations, delirium, sweating, flushing, headache, hyperpyrexia, tachycardia, palpitations, cardiac arrhythmias, hypertension, hypotension, tachypnea, mydriasis, dryness of mucous membranes, and rhabdomyolysis.
+Clinical Effects of Overdose
 
-Management of Overdose
+Overdose of CNS stimulants is characterized by the following sympathomimetic effects:
 
-Provide supportive care, including close medical supervision and monitoring.
-Treatment should consist of those general measures employed in the management of overdosage with any drug.
-Consider the possibility of multiple drug overdosage.
-Ensure an adequate airway, oxygenation, and ventilation.
-Monitor cardiac rhythm and vital signs.
-Use supportive and symptomatic measures.
+- Cardiovascular effects including tachyarrhythmias, and hypertension or hypotension.
+  Vasospasm, myocardial infarction, or aortic dissection may precipitate sudden cardiac death.
+  Takotsubo cardiomyopathy may develop.
+- CNS effects including psychomotor agitation, confusion, and hallucinations.
+  Serotonin syndrome, seizures, cerebral vascular accidents, and coma may occur.
+- Life-threatening hyperthermia (temperatures greater than 104°F) and rhabdomyolysis may develop.
 
-Consider contacting a Poison Center (1-800-222-1222) or a medical toxicologist for additional management recommendations.
+Overdose Management
+
+Consider the possibility of multiple drug ingestion.
+The pharmacokinetic profile of methylphenidate hydrochloride tablets should be considered when treating patients with overdose.
+Because methylphenidate has a large volume of distribution and is rapidly metabolized, dialysis is not useful.
+Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.

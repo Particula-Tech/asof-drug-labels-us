@@ -26,8 +26,7 @@ Mean time to reach peak plasma concentrations of methylphenidate hydrochloride e
 Methylphenidate hydrochloride extended-release tablets once daily minimizes the fluctuations between peak and trough concentrations associated with immediate-release methylphenidate three times daily.
 Figure 1 displays mean plasma exposures of methylphenidate hydrochloride extended-release tablets once daily and methylphenidate three times daily (administered every 4 hours) in adults.
 
-Figure 1.
-Mean Methylphenidate Plasma Concentration-Time Profiles
+Figure 1: Mean Methylphenidate Plasma Concentration-Time Profiles
 
 The mean single-dose pharmacokinetic parameters in 36 healthy adults following the administration of methylphenidate hydrochloride extended-release tablets 18 mg once daily and methylphenidate 5 mg three times daily are summarized in Table 7.
 
@@ -39,7 +38,7 @@ Methylphenidate Pharmacokinetic Parameters (Mean ± SD) After Single Dose in Hea
 | Cmax (ng/mL) | 3.7 ± 1.0 | 4.2 ± 1.0 |
 | Tmax (h) | 6.8 ± 1.8 | 6.5 ± 1.8 |
 | AUCinf (ng∙h/mL) | 41.8 ± 13.9 | 38.0 ± 11.0 |
-| t½ (h) | 3.5 ± 0.4 | 3.0 ± 0.5 |
+| t&frac12; (h) | 3.5 ± 0.4 | 3.0 ± 0.5 |
 
 The pharmacokinetics of methylphenidate hydrochloride extended-release tablets were evaluated in healthy adults following single- and multiple-dose administration (steady state) of doses up to 144 mg per day (2 times the maximum recommended daily dosage of methylphenidate hydrochloride extended-release tablets).
 The mean half-life was about 3.6 hours.

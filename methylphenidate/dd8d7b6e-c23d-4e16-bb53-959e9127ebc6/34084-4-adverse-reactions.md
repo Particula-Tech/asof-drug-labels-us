@@ -2,16 +2,19 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Abuse and Dependence [see Box Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
+- Abuse, Misuse, and Addiction [see Box Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
 - Known hypersensitivity to methylphenidate or other ingredients [see Contraindications (4)]
 - Hypertensive crisis when used concomitantly with monoamine oxidase inhibitors [see Contraindications (4) and Drug Interactions (7.1)]
-- Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
-- Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
+- Risks to Patients with Serious Cardiac Disease [see Warnings and Precautions (5.2)]
+- Increased Blood Pressure and Heart Rate [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Priapism [see Warnings and Precautions (5.5)]
 - Peripheral Vasculopathy, including Raynaud’s Phenomenon [see Warnings and Precautions (5.6)]
-- Long-Term Suppression of Growth [see Warnings and Precautions (5.7)]
+- Long-Term Suppression of Growth in Pediatric Patients [see Warnings and Precautions (5.7)]
 - Potential for Gastrointestinal Obstruction [see Warnings and Precautions (5.8)]
+- Acute Angle Closure Glaucoma [see Warnings and Precautions (5.9)]
+- Increased Intraocular Pressure and Glaucoma [see Warnings and Precautions (5.10)]
+- Motor and Verbal Tics, and Worsening of Tourette’s Syndrome [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -199,7 +202,7 @@ Blood and Lymphatic System Disorders: Pancytopenia, Thrombocytopenia, Thrombocyt
 
 Cardiac Disorders: Angina pectoris, Bradycardia, Extrasystoles, Supraventricular tachycardia, Ventricular extrasystoles
 
-Eye Disorders: Diplopia, Mydriasis, Visual impairment
+Eye Disorders: Diplopia, Increased intraocular pressure, Mydriasis, Visual impairment
 
 General Disorders: Chest pain, Chest discomfort, Drug effect decreased, Hyperpyrexia, Therapeutic response decreased
 
@@ -211,7 +214,7 @@ Investigations: Blood alkaline phosphatase increased, Blood bilirubin increased,
 
 Musculoskeletal, Connective Tissue and Bone Disorders: Arthralgia, Myalgia, Muscle twitching, Rhabdomyolysis
 
-Nervous System Disorders: Convulsion, Grand mal convulsion, Dyskinesia, Serotonin syndrome in combination with serotonergic drugs
+Nervous System Disorders: Convulsion, Grand mal convulsion, Dyskinesia, Serotonin syndrome in combination with serotonergic drugs, Motor and Verbal Tics
 
 Psychiatric Disorders: Disorientation, Hallucination, Hallucination auditory, Hallucination visual, Mania, Logorrhea, Libido changes
 

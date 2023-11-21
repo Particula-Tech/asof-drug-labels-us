@@ -2,10 +2,10 @@
 
 ## 2.1 Pretreatment Screening
 
-Prior to initiating treatment with methylphenidate hydrochloride extended-release tablets, assess for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
+Prior to treating patients with methylphenidate hydrochloride extended-release tablets assess:
 
-Assess the risk of abuse prior to prescribing and monitor for signs of abuse and dependence while on therapy.
-Maintain careful prescription records, educate patients about abuse, and periodically re-evaluate the need for methylphenidate hydrochloride extended-release tablets use [see Boxed Warning, Warning and Precautions (5.1), Drug Abuse and Dependence (9)].
+- for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
+- the family history and clinically evaluate patients for motor or verbal tics or Tourette's syndrome before initiating methylphenidate hydrochloride extended-release tablets [see Warnings and Precautions (5.11)].
 
 ## 2.2 General Administration Information
 
@@ -25,9 +25,6 @@ Table 1: Dosage Recommendations for methylphenidate hydrochloride extended-relea
 | Pediatric patients6 to 12 years | 18 mg once daily | 18 mg to 54 mg once daily |
 | 13 to 17 years | 18 mg once daily | 18 mg to 72 mg once daily(not to exceed 2 mg/kg/day) |
 | Adults18 (up to 65 years) | 18 mg or 36 mg once daily | 18 mg to 72 mg once daily |
-
-Pharmacological treatment of ADHD may be needed for extended periods.
-Periodically reevaluate the long-term use of methylphenidate hydrochloride extended-release tablets and adjust dosage as needed.
 
 ## 2.4 Dosage Recommendations for Patients Currently Using Methylphenidate
 
@@ -51,8 +48,8 @@ Daily dosages above 72 mg are not recommended in adults.
 
 Dosage strengths of 27 mg, 45 mg, and 63 mg are available for additional titration options based on clinical response.
 
-## 2.6 Dose Reduction and Discontinuation
+## 2.6 Dosage Reduction and Discontinuation
 
-If paradoxical aggravation of symptoms or other adverse effects occur, reduce the dosage, or, if necessary, discontinue methylphenidate hydrochloride extended-release tablets.
+If paradoxical aggravation of symptoms or other adverse reaction occur, reduce the dosage, or, if necessary, discontinue methylphenidate hydrochloride extended-release tablets.
 
 If improvement is not observed after appropriate dosage adjustment over a one-month period, discontinue methylphenidate hydrochloride extended-release tablets.

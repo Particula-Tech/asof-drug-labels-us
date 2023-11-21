@@ -6,17 +6,16 @@ Methylphenidate hydrochloride extended-release tablets contain methylphenidate, 
 
 ## 9.2 Abuse
 
-CNS stimulants, including methylphenidate hydrochloride extended-release tablets, other methylphenidate-containing products, and amphetamines have a high potential for abuse.
-Abuse is the intentional, non-therapeutic use of a drug, even once, to achieve a desired psychological or physiological effect.
+Methylphenidate hydrochloride extended-release tablets have a high potential for abuse and misuse which can lead to the development of a substance use disorder, including addiction [see Warnings and Precautions (5.1)].
+Methylphenidate hydrochloride extended-release tablets can be diverted for non-medical use into illicit channels or distribution.
+
+Abuse is the intentional non-therapeutic use of a drug, even once, to achieve a desired psychological or physiological effect.
+Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a healthcare provider or for whom it was not prescribed.
 Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
-Both abuse and misuse may lead to addiction, and some individuals may develop addiction even when taking methylphenidate hydrochloride extended-release tablets as prescribed.
 
-Signs and symptoms of CNS stimulant abuse include increased heart rate, respiratory rate, blood pressure, and/or sweating, dilated pupils, hyperactivity, restlessness, insomnia, decreased appetite, loss of coordination, tremors, flushed skin, vomiting, and/or abdominal pain.
-Anxiety, psychosis, hostility, aggression, suicidal or homicidal ideation have also been observed.
-Individuals who abuse CNS stimulants may chew, snort, inject, or use other unapproved routes of administration which can result in overdose and death [see Overdosage (10)].
-
-To reduce the abuse of methylphenidate hydrochloride extended-release tablets, assess the risk of abuse prior to prescribing.
-After prescribing, keep careful prescription records, educate patients and their families about abuse and on proper storage and disposal of CNS stimulants [see How Supplied/Storage and Handling (16)], monitor for signs of abuse while on therapy, and re-evaluate the need for methylphenidate hydrochloride extended-release tablets use.
+Misuse and abuse of methylphenidate may cause increased heart rate, respiratory rate, or blood pressure; sweating; dilated pupils; hyperactivity; restlessness; insomnia; decreased appetite; loss of coordination; tremors; flushed skin; vomiting; and/or abdominal pain.
+Anxiety, psychosis, hostility, aggression, and suicidal or homicidal ideation have also been observed with CNS stimulants abuse and/or misuse.
+Misuse and abuse of CNS stimulants, including methylphenidate hydrochloride extended-release tablets, can result in overdose and death [see Overdosage (10)], and this risk is increased with higher doses or unapproved methods of administration such as snorting or injection.
 
 In two placebo-controlled human abuse potential studies, single oral doses of another formulation of methylphenidate hydrochloride extended-release tablets were compared to single oral doses of immediate-release methylphenidate (IR MPH) and placebo in subjects with a history of recreational stimulant use to assess relative abuse potential.
 For the purpose of this assessment, the response for each of the subjective measures was defined as the maximum effect within the first 8 hours after dose administration.
@@ -35,11 +34,12 @@ Although these findings reveal a relatively lower response to another formulatio
 
 Physical Dependence
 
-Methylphenidate hydrochloride extended-release tablets may produce physical dependence from continued therapy.
-Physical dependence is a state of adaptation manifested by a withdrawal syndrome produced by abrupt cessation, rapid dose reduction, or administration of an antagonist.
-Withdrawal symptoms after abrupt cessation following prolonged high-dosage administration of CNS stimulants include dysphoric mood; depression; fatigue; vivid, unpleasant dreams; insomnia or hypersomnia; increased appetite; and psychomotor retardation or agitation.
+Methylphenidate hydrochloride extended-release tablets may produce physical dependence.
+Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
+
+Withdrawal signs and symptoms after abrupt discontinuation or dose reduction following prolonged use of CNS stimulants including methylphenidate hydrochloride extended-release tablets include dysphoric mood; depression; fatigue; vivid, unpleasant dreams; insomnia or hypersomnia; increased appetite; and psychomotor retardation or agitation.
 
 Tolerance
 
-Methylphenidate hydrochloride extended-release tablets may produce tolerance from continued therapy.
-Tolerance is a state of adaptation in which exposure to a drug results in a reduction of the drug’s desired and/or undesired effects over time.
+Methylphenidate hydrochloride extended-release tablets may produce tolerance.
+Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained by a lower dose).

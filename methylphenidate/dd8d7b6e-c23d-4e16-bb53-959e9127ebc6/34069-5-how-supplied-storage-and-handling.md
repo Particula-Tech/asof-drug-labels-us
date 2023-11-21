@@ -14,7 +14,7 @@ Methylphenidate hydrochloride extended-release tablets are available as:
   - NDC 13811-711-30 in 30-count bottle
 - 54 mg pink tablets with “TL709” imprinted in black ink
   - NDC 13811-709-10 in 100-count bottle
-- 63 mg orange tablets with “TL 700” imprinted in black ink
+- 63 mg orange tablets with “TL700” imprinted in black ink
   - NDC 13811-700-30 in 30-count bottle
 - 72 mg blue tablets with “TL710” imprinted in black ink
   - NDC 13811-710-30 in 30-count bottle
@@ -23,10 +23,3 @@ Storage and Handling
 
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Protect from humidity.
-
-Disposal
-
-Comply with local laws and regulations on drug disposal of CNS stimulants.
-Dispose of remaining, unused, or expired methylphenidate hydrochloride extended-release tablets by a medicine take-back program or by an authorized collector registered with the Drug Enforcement Administration.
-If no take-back program or authorized collector is available, mix methylphenidate hydrochloride extended-release tablets with an undesirable, nontoxic substance to make it less appealing to children and pets.
-Place the mixture in a container such as a sealed plastic bag and discard methylphenidate hydrochloride extended-release tablets in the household trash.
