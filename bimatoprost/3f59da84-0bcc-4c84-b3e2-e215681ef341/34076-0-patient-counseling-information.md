@@ -12,11 +12,10 @@ When to Seek Physician Advice
 
 Advise patients that if the eye becomes red, sensitive to light, painful, or develops a change in vision, they should seek immediate care from an ophthalmologist [see Warnings and Precautions (5.6)].
 
-Distributed by: Allergan USA, Inc. Madison, NJ 07940
+Distributed by: AbbVie Inc. North Chicago, IL 60064
 
-© 2020 Allergan.
+© 2024 AbbVie.
 All rights reserved.
-DURYSTA™ is a trademark of Allergan, Inc. Patented.
-See: www.allergan.com/patents
+DURYSTA and its design are trademarks of Allergan, Inc., an AbbVie company.
 
-v1.1USPI9652
+v1.2USPI9652
