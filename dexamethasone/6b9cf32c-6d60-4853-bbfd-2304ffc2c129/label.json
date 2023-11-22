@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA211379"
+  ],
+  "inn": "dexamethasone",
+  "labeler": "Edenbridge Pharmaceuticals LLC.",
+  "package_ndcs": [
+    "82111-955-01",
+    "82111-955-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dexamethasone",
+      "name": "Hemady"
+    }
+  ],
+  "setid": "6b9cf32c-6d60-4853-bbfd-2304ffc2c129",
+  "source": "dailymed"
+}
