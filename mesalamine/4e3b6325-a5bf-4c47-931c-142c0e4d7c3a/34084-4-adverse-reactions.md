@@ -108,6 +108,8 @@ Neurological/Psychiatric: peripheral neuropathy, Guillain-Barré syndrome, trans
 
 Renal Disorders: renal failure, interstitial nephritis, nephrogenic diabetes insipidus, nephrolithiasis [see Warnings and Precautions (5.1, 5.8)]
 
+- Urine discoloration occurring ex-vivo caused by contact of mesalamine, including inactive metabolite, with surfaces or water treated with hypochlorite-containing bleach
+
 Respiratory, Thoracic and Mediastinal Disorders: interstitial lung disease, hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis), pleurisy/pleuritis
 
 Skin: psoriasis, pyoderma gangrenosum, erythema nodosum, photosensitivity, SJS/TEN, DRESS, and AGEP [see Warnings and Precautions (5.5)]

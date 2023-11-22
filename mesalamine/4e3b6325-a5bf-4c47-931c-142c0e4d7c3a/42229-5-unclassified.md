@@ -2,4 +2,4 @@ Manufactured for Takeda Pharmaceuticals America, Inc., Lexington, MA 02421, USA 
 
 By license of Nogra Pharma Limited, Dublin, Ireland.
 
-© 2022 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
+© 2023Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.

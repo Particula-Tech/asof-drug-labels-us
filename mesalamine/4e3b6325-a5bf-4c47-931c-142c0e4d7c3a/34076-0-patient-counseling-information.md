@@ -39,6 +39,9 @@ Administration
 
 Instruct patients:
 
-- Swallow mesalamine delayed-release tablets whole; do not split or crush.
-- Take mesalamine delayed-release tablets with food [see Clinical Pharmacology (12.3)].
+- Swallow mesalamine delayed release tablets whole; do not split or crush.
+- Take mesalamine delayed release tablets with food [see Clinical Pharmacology (12.3)].
+- Urine may become discolored reddish-brown while taking mesalamine delayed-release tablets when it comes in contact with surfaces or water treated with hypochlorite-containing bleach.
+  If discolored urine is observed, advise patients to observe their urine flow.
+  Report to the healthcare provider only if urine is discolored on leaving the body, before contact with any surface or water (e.g., in the toilet).
 - Drink an adequate amount of fluids [see Warnings and Precautions (5.8)].
