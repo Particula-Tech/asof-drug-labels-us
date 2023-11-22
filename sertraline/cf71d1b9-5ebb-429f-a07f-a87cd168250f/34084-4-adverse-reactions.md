@@ -22,8 +22,8 @@ The data described below are from randomized, double-blind, placebo-controlled t
 These 3,066 patients exposed to sertraline for 8 to12 weeks represent 568 patient-years of exposure.
 The mean age was 40 years; 57% were females and 43% were males.
 
-The most common adverse reactions (≥5% and twice placebo) in all pooled placebo-controlled clinical trials of all sertraline -treated patients with MDD, OCD, PD, PTSD, SAD and PMDD were nausea, diarrhea/loose stool, tremor, dyspepsia, decreased appetite, hyperhidrosis, ejaculation failure, and decreased libido (see Table 3).
-The following are the most common adverse reactions in trials of sertraline (≥5% and twice placebo) by indication that were not mentioned previously.
+The most common adverse reactions (>5% and twice placebo) in all pooled placebo-controlled clinical trials of all sertraline -treated patients with MDD, OCD, PD, PTSD, SAD and PMDD were nausea, diarrhea/loose stool, tremor, dyspepsia, decreased appetite, hyperhidrosis, ejaculation failure, and decreased libido (see Table 3).
+The following are the most common adverse reactions in trials of sertraline (>5% and twice placebo) by indication that were not mentioned previously.
 
 - MDD: somnolence;
 - OCD: insomnia, agitation;
@@ -166,16 +166,18 @@ Hemic and lymphatic disorders – agranulocytosis, aplastic anemia and pancytope
 
 Immune system disorders - angioedema
 
-Metabolism and nutrition disorders – hyponatremia, hyperglycemia Musculoskeletal and connective tissue disorders - rhabdomyolysis, trismus Nervous system disorders -serotonin syndrome, extrapyramidal symptoms (including akathisia and dystonia), oculogyric crisis
+Metabolism and nutrition disorders – hyponatremia, hyperglycemia
+
+Musculoskeletal and connective tissue disorders – rhabdomyolysis, trismus
+
+Nervous system disorders -serotonin syndrome, extrapyramidal symptoms (including akathisia and dystonia), oculogyric crisis
 
 Psychiatric disorders – psychosis, enuresis, paroniria
 
 Renal and urinary disorders - acute renal failure
 
-Respiratory, thoracic and mediastinal
+Respiratory, thoracic and mediastinal disorders - pulmonary hypertension eosinophilic pneumonia, anosmia, hyposmia
 
-disorders - pulmonary hypertension
-
-Skin and subcutaneous tissue disorders - photosensitivity skin reaction and other severe cutaneous reactions, which potentially can be fatal, such as Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN)
+Skin and subcutaneous tissue disorders - photosensitivity skin reaction and other severe cutaneous reactions, which potentially can be fatal, such as Stevens-Johnson Syndrome (SJS) and toxic epidermal necrolysis (TEN)
 
 Vascular disorders - cerebrovascular spasm (including reversible cerebral vasoconstriction syndrome and Call-Fleming syndrome), vasculitis

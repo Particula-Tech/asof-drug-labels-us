@@ -8,13 +8,13 @@ Advise patients and caregivers to look for the emergence of suicidality, especia
 
 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of sertraline with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of sertraline with other serotonergic drugs including triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
 Patients should contact their health care provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [See Warnings and Precautions (5.2), Drug Interactions (7.1)].
 
 Increased Risk of Bleeding
 
 Inform patients about the concomitant use of sertraline with aspirin, NSAIDs, other antiplatelet drugs, warfarin, or other anticoagulants because the combined use has been associated with an increased risk of bleeding.
-Advise patients to inform their health care providers if they are taking or planning to take any prescription or over-the­-counter medications that increase the risk of bleeding [See Warnings and Precautions (5.3)].
+Advise patients to inform their health care providers if they are taking or planning to take any prescription or over-the¬-counter medications that increase the risk of bleeding [See Warnings and Precautions (5.3)].
 
 Activation of Mania/Hypomania
 
@@ -37,5 +37,6 @@ Advise patients to notify their healthcare provider if they develop an allergic 
 Pregnancy
 
 Inform pregnant women that sertraline may cause withdrawal symptoms in the newborn or persistent pulmonary hypertension of the newborn (PPHN) [See Use in Specific Populations (8.1)].
+Advise women that there is a pregnancy exposure registry that monitors pregnancy outcomes of women exposed to sertraline during pregnancy.
 
-Revised: 01/2022
+Revised: 09/2023

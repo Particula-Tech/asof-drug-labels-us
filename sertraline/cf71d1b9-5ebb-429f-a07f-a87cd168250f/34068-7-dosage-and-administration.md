@@ -30,7 +30,7 @@ Intermittent dosing would be repeated with each new cycle.
 
 ## 2.3 Screen for Bipolar Disorder Prior to Starting Sertraline
 
-Prior to initiating treatment with sertraline or another antidepressant, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [See Warnings and Precautions (5.4)].
+Prior to initiating treatment with sertraline or another antidepressant, screen patients for a personal or family history of bipolar disorder, mania, or hypomania[See Warnings and Precautions (5.4)].
 
 ## 2.4 Dosage Modifications in Patients with Hepatic Impairment
 

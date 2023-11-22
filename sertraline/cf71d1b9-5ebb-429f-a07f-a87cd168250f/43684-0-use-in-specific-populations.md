@@ -2,7 +2,14 @@
 
 ## 8.1 Pregnancy
 
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
+Healthcare providers should encourage patients to enroll by calling the National Pregnancy Registry for Antidepressants at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/research/pregnancyregistry/antidepressants.
+
 Risk Summary
+
+Based on data from published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions (5.3) and Clinical Considerations].
 
 Overall, available published epidemiologic studies of pregnant women exposed to sertraline in the first trimester suggest no difference in major birth defect risk compared to the background rate for major birth defects in comparator populations.
 Some studies have reported increases for specific major birth defects; however, these study results are inconclusive [See Data].
@@ -23,12 +30,16 @@ A prospective longitudinal study followed 201 pregnant women with a history of m
 The women who discontinued antidepressants during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressants.
 Consider the risks of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
 
+Maternal Adverse Reactions
+
+Use of sertraline in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.3)].
+
 Fetal/Neonatal adverse reactions
 
-Exposure to SSRIs and SNRIs, including sertraline in late pregnancy may lead to an increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding, and/or persistent pulmonary hypertension of the newborn (PPHN).
+Exposure to SSRIs and SNRIs, including sertralinein late pregnancy may lead to an increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding, and/or persistent pulmonary hypertension of the newborn (PPHN).
 
-When treating a pregnant woman with sertraline during the third trimester, carefully consider both the potential risks and benefits of treatment.
-Monitor neonates who were exposed to sertraline in the third trimester of pregnancy for PPHN and drug discontinuation syndrome [See Data].
+When treating a pregnant woman with sertralineduring the third trimester, carefully consider both the potential risks and benefits of treatment.
+Monitor neonates who were exposed to sertralinein the third trimester of pregnancy for PPHN and drug discontinuation syndrome [See Data].
 
 Data
 
@@ -36,7 +47,7 @@ Human Data
 
 Third Trimester Exposure
 
-Neonates exposed to sertraline and other SSRIs or SNRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Neonates exposed to sertralineand other SSRIs or SNRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 These findings are based on post-marketing reports.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
@@ -73,7 +84,7 @@ Risk Summary
 
 Available data from published literature demonstrate low levels of sertraline and its metabolites in human milk [See Data].
 There are no data on the effects of sertraline on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for sertraline and any potential adverse effects on the breastfed infant from the drug or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for sertralineand any potential adverse effects on the breastfed infant from the drug or from the underlying maternal condition.
 
 Data
 
@@ -82,7 +93,7 @@ No adverse reactions were observed in these infants.
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of sertraline have been established in the treatment of OCD in pediatric patients aged 6 to 17 [See Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+The safety and efficacy of sertralinehave been established in the treatment of OCD in pediatric patients aged 6 to 17 [See Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 Safety and effectiveness in pediatric patients in patients with OCD below the age of 6 have not been established.
 Safety and effectiveness have not been established in pediatric patients for indications other than OCD.
 Two placebo-controlled trials were conducted in pediatric patients with MDD, but the data were not sufficient to support an indication for use in pediatric patients.
@@ -95,12 +106,12 @@ Monitor weight and growth in pediatric patients treated with an SSRI such as ser
 
 Weight Loss in Studies in Pediatric Patients with MDD
 
-In a pooled analysis of two 10-week, double-blind, placebo-controlled, flexible dose (50-200 mg) outpatient trials for MDD (n=373), there was a difference in weight change between sertraline and placebo of roughly 1 kg, for both children (ages 6-11) and adolescents (ages 12-17), in both age groups representing a slight weight loss for the sertraline group compared to a slight gain for the placebo group.
-For children, about 7% of the sertraline -treated patients had a weight loss greater than 7% of body weight compared to 0% of the placebo-treated patients; for adolescents, about 2% of sertraline -treated patients had a weight loss > 7% of body weight compared to about 1% of placebo-treated patients.
+In a pooled analysis of two 10-week, double-blind, placebo-controlled, flexible dose (50-200 mg) outpatient trials for MDD (n=373), there was a difference in weight change between sertralineand placebo of roughly 1 kg, for both children (ages 6-11) and adolescents (ages 12-17), in both age groups representing a slight weight loss for the sertralinegroup compared to a slight gain for the placebo group.
+For children, about 7% of the sertraline-treated patients had a weight loss greater than 7% of body weight compared to 0% of the placebo-treated patients; for adolescents, about 2% of sertraline-treated patients had a weight loss > 7% of body weight compared to about 1% of placebo-treated patients.
 
-A subset of patients who completed the randomized controlled trials in patients with MDD (sertraline n=99, placebo n=122) were continued into a 24-week, flexible-dose, open-label, extension study.
-Those subjects who completed 34 weeks of sertraline treatment (10 weeks in a placebo-controlled trial + 24 weeks open-label, n=68) had weight gain that was similar to that expected using data from age-adjusted peers.
-However, there are no studies that directly evaluate the long-term effects of sertraline on the growth, development, and maturation in pediatric patients.
+A subset of patients who completed the randomized controlled trials in patients with MDD (sertralinen=99, placebo n=122) were continued into a 24-week, flexible-dose, open-label, extension study.
+Those subjects who completed 34 weeks of sertralinetreatment (10 weeks in a placebo-controlled trial + 24 weeks open-label, n=68) had weight gain that was similar to that expected using data from age-adjusted peers.
+However, there are no studies that directly evaluate the long-term effects of sertralineon the growth, development, and maturation in pediatric patients.
 
 Juvenile Animal Data
 

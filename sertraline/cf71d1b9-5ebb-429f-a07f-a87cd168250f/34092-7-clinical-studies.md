@@ -15,7 +15,6 @@ The efficacy of sertraline as a treatment for MDD was established in two randomi
 
 - Study MDD-1 was an 8-week, 3-arm study with flexible dosing of sertraline, amitriptyline, and placebo.
   Adult patients received sertraline (N=126, in a daily dose titrated weekly to 50 mg, 100 mg, or 200 mg), amitriptyline (N=123, in a daily dose titrated weekly to 50 mg, 100 mg, or 150 mg), or placebo (N= 130).
-
 - Study MDD-2 was a 6-week, multicenter parallel study of three fixed doses of sertraline administered once daily at 50 mg (N=82), 100 mg (N=75), and 200 mg (N=56) doses and placebo (N=76) in the treatment of adult outpatients with MDD.
 
 Overall, these studies demonstrated sertraline to be superior to placebo on the Hamilton Rating Scale for Depression (HAMD-17) and the Clinical Global Impression Severity (CGI-S) of Illness and Global Improvement (CGI-I) scores.
@@ -38,12 +37,10 @@ Patients in all three studies had moderate to severe OCD (DSM-III or DSM-III-R) 
 - Study OCD-1 was an 8-week randomized, placebo-controlled study with flexible dosing of sertraline in a range of 50 to 200 mg/day, titrated in 50 mg increments every 4 days to a maximally tolerated dose; the mean dose for completers was 186 mg/day.
   Patients receiving sertraline (N=43) experienced a mean reduction of approximately 4 points on the Y-BOCS total score which was statistically significantly greater than the mean reduction of 2 points in placebo-treated patients (N=44).
   The mean change in Y-BOCS from baseline to last visit (the primary efficacy endpoint) was -3.79 (sertraline) and -1.48 (placebo).
-
 - Study OCD-2 was a 12-week randomized, placebo-controlled fixed-dose study, including sertraline doses of 50, 100, and 200 mg/day.
   Sertraline (N=240) was titrated to the assigned dose over two weeks in 50 mg increments every 4 days.
   Patients receiving sertraline doses of 50 and 200 mg/day experienced mean reductions of approximately 6 points on the Y-BOCS total score, which were statistically significantly greater than the approximately 3 point reduction in placebo-treated patients (N=84).
   The mean change in Y-BOCS from baseline to last visit (the primary efficacy endpoint) was -5.7 (pooled results from sertraline 50 mg, 100 mg, and 150 mg) and -2.85 (placebo).
-
 - Study OCD-3 was a 12-week randomized, placebo controlled study with flexible dosing of sertraline in a range of 50 to 200 mg/day; the mean dose for completers was 185 mg/day.
   Sertraline (N=241) was titrated to the assigned dose over two weeks in 50 mg increments every 4 days.
   Patients receiving sertraline experienced a mean reduction of approximately 7 points on the Y-BOCS total score which was statistically significantly greater than the mean reduction of approximately 4 points in placebo-treated patients (N=84).
@@ -59,7 +56,7 @@ Relapse during the double-blind phase was defined as the following conditions be
 
 - Condition 1: Y-BOCS score increased by ≥ 5 points, to a minimum of 20, relative to baseline;
 - Condition 2: CGI-I increased by ≥ one point; and
-- Condition 3: Worsening of the patient’s condition in the investigator’s judgment, to justify alternative treatment.
+  - Condition 3: Worsening of the patient’s condition in the investigator’s judgment, to justify alternative treatment.
 
 Patients receiving continued sertraline treatment experienced a statistically significantly lower rate of discontinuation due to relapse or insufficient clinical response over the subsequent 28 weeks compared to those receiving placebo.
 This pattern was demonstrated in male and female subjects.
@@ -81,9 +78,8 @@ The effectiveness of sertraline in the treatment of PD was demonstrated in three
 - Studies PD-1 and PD-2 were 10-week flexible dose studies of sertraline (N=80 study PD-1 and N=88 study PD-2) compared to placebo (N=176 study PD-1 and PD-2).
   In both studies, sertraline was initiated at 25 mg/day for the first week, then titrated in weekly increments of 50 mg per day to a maximum dose of 200 mg/day on the basis of clinical response and toleration.
   The mean sertraline doses for completers to 10 weeks were 131 mg/day and 144 mg/day, respectively, for Studies PD-1 and PD-2.
-  In these studies, sertraline was shown to be statistically significantly more effective than placebo on change from baseline in panic attack frequency and on the Clinical Global Impression Severity (CGI-S) of Illness and Global Improvement (CGI­-I) scores.
+  In these studies, sertraline was shown to be statistically significantly more effective than placebo on change from baseline in panic attack frequency and on the Clinical Global Impression Severity (CGI-S) of Illness and Global Improvement (CGI-­I) scores.
   The difference between sertraline and placebo in reduction from baseline in the number of full panic attacks was approximately 2 panic attacks per week in both studies.
-
 - Study PD-3 was a 12-week randomized, double-blind fixed-dose study, including sertraline doses of 50, 100, and 200 mg/day.
   Patients receiving sertraline (50 mg N=43, 100 mg N=44, 200 mg N=45) experienced a statistically significantly greater reduction in panic attack frequency than patients receiving placebo (N=45).
   Study PD-3 was not readily interpretable regarding a dose response relationship for effectiveness.
@@ -95,7 +91,7 @@ Response during the open phase was defined as a CGI-I score of 1(very much impro
 Insufficient clinical response in the double-blind phase indicated a worsening of the patient’s condition that resulted in study discontinuation, as assessed by the investigator.
 Relapse during the double-blind phase was defined as the following conditions being met on three consecutive visits:
 
-(1) CGI-I ≥ 3;
+(1) CGI-I ≥3;
 
 (2) meets DSM-III-R criteria for PD;
 
@@ -127,7 +123,7 @@ In Study PSTD-5, patients meeting DSM-III-R criteria for PTSD who had responded 
 Response during the open phase was defined as a CGI-I of 1 (very much improved) or 2 (much improved), and a decrease in the CAPS-2 score of > 30% compared to baseline.
 Relapse during the double-blind phase was defined as the following conditions being met on two consecutive visits:
 
-(1) CGI-I ≥ 3;
+(1) CGI-I ≥3;
 
 (2) CAPS-2 score increased by ≥ 30% and by ≥ 15 points relative to baseline; and
 
@@ -138,7 +134,7 @@ This pattern was demonstrated in male and female subjects.
 
 ## 14.5 Social Anxiety Disorder
 
-The effectiveness of sertraline in the treatment of SAD (also known as social phobia) was established in two multicenter, randomized, placebo-controlled studies (Study SAD-1 and SAD-2) of adult outpatients who met DSM-­IV criteria for SAD.
+The effectiveness of sertraline in the treatment of SAD (also known as social phobia) was established in two multicenter, randomized, placebo-controlled studies (Study SAD-1 and SAD-2) of adult outpatients who met DSM-IV criteria for SAD.
 
 Study SAD-1 was a 12-week, flexible dose study comparing sertraline (50 to 200 mg/day), n=211, to placebo, n=204, in which sertraline was initiated at 25 mg/day for the first week, then titrated to the maximum tolerated dose in 50 mg increments biweekly.
 Study outcomes were assessed by the:

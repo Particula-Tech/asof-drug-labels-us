@@ -16,9 +16,21 @@ Alcohol
 
 In healthy subjects, the acute cognitive and psychomotor effects of alcohol were not potentiated by sertraline.
 
-Cardiac Electrophysiology The effect of sertraline on the QTc interval was evaluated in a randomized, double-blind, placebo- and positive-controlled three-period crossover thorough QTc study in 54 healthy adult subjects.
-At 2-fold the maximum recommended daily dose (~3-fold the steady-state exposure for sertraline and N-desmethylsertraline), the largest mean ΔΔQTc was 10 ms with upper bound of two-sided 90% confidence interval of 12 ms. The length of the QTc interval was also positively correlated with serum concentrations of sertraline and N- desmethylsertraline concentrations.
-These concentration-based analyses, however, indicated a lesser effect on QTc at maximally observed concentration than in the primary analysis [See Warnings and Precautions (5), Adverse Reactions (6), Drug Interactions (7), Overdosage (10)].
+Cardiac Electrophysiology
+
+The effect of sertraline on the QTc interval was evaluated in a randomized, double-blind, placebo- and
+
+positive-controlled three-period crossover thorough QTc study in 54 healthy adult subjects.
+At 2-fold the maximum
+
+recommended daily dose (~3-fold the steady-state exposure for sertraline and N-desmethylsertraline), the largest
+
+mean ΔΔQTc was 10 ms with upper bound of two-sided 90% confidence interval of 12 ms. The length of the QTc interval was also positively correlated with serum concentrations of sertraline and N- desmethylsertraline
+
+concentrations.
+These concentration-based analyses, however, indicated a lesser effect on QTc at maximally
+
+observed concentration than in the primary analysis [See Warnings and Precautions (5), Adverse Reactions (6), Drug Interactions (7), Overdosage (10)].
 
 ## 12.3 Pharmacokinetics
 
@@ -26,7 +38,7 @@ Absorption
 
 Following oral once-daily sertraline dosing over the range of 50 to 200 mg for 14 days, mean peak plasma concentrations (Cmax) of sertraline occurred between 4.5 to 8.4 hours post-dosing.
 The average terminal elimination half-life of plasma sertraline is about 26 hours.
-Consistent with the terminal elimination half-life, there is an approximately two-fold accumulation up to steady-state concentrations, which are achieved after one week of once- daily dosing.
+Consistent with the terminal elimination half-life, there is an approximately two-fold accumulation up to steady-state concentrations, which are achieved after one week of once-daily dosing.
 Linear dose-proportional pharmacokinetics were demonstrated in a single dose study in which the Cmax and area under the plasma concentration time curve (AUC) of sertraline were proportional to dose over a range of 50 to 200 mg.
 The single dose bioavailability of sertraline tablets is approximately equal to an equivalent dose of sertraline oral solution.
 Administration with food causes a small increase in Cmax and AUC.
@@ -41,7 +53,7 @@ Both sertraline and N-desmethylsertraline undergo oxidative deamination and subs
 In a study of radiolabeled sertraline involving two healthy male subjects, sertraline accounted for less than 5% of the plasma radioactivity.
 About 40 to 45% of the administered radioactivity was recovered in urine in 9 days.
 Unchanged sertraline was not detectable in the urine.
-For the same period, about 40-45% of the administered radioactivity was accounted for in feces, including 12 to 14% unchanged sertraline.
+For the same period, about 40 to 45% of the administered radioactivity was accounted for in feces, including 12 to 14% unchanged sertraline.
 
 Desmethylsertraline exhibits time-related, dose dependent increases in AUC (0-24-hour), Cmax and Cmin, with about a 5- to 9-fold increase in these pharmacokinetic parameters between day 1 and day 14.
 
@@ -128,7 +140,7 @@ Drugs Metabolized by CYP3A4
 In three separate in vivo interaction studies, sertraline was co-administered with CYP3A4 substrates, terfenadine, carbamazepine, or cisapride under steady-state conditions.
 The results of these studies indicated that sertraline did not increase plasma concentrations of terfenadine, carbamazepine, or cisapride.
 These data indicate that sertraline’s extent of inhibition of CYP3A4 activity is not likely to be of clinical significance.
-Results of the interaction study with cisapride indicate that sertraline 200 mg (once daily) induces the metabolism of cisapride (cisapride AUC and Cmax were reduced by about 35%) [See Drug Interactions (7.2)].
+Results of the interaction study with cisapride indicate that sertraline 200 mg (once daily) induces the metabolism of cisapride (cisapride AUC and Cmax were reduced by aboutt 35%) [See Drug Interactions (7.2)].
 
 Microsomal Enzyme Induction
 

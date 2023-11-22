@@ -12,12 +12,12 @@ Table 5: Clinically-Significant Drug Interactions with Sertraline
 | Intervention: | Sertraline is contraindicated in patients taking MAOIs, including MAOIs such as linezolid or intravenous methylene blue [See Dosage and Administration (2.5), Contraindications (4), Warnings and Precautions (5.2)]. |
 | Examples: | selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, methylene blue |
 | Pimozide |  |
-| Clinical Impact: | Increased plasma concentrations of pimozide, a drug with a narrow therapeutic index, may increase the risk of QT prolongation and ventricular arrhythmias. |
+| Clinical Impact: | Increased plasma concentrations of pimozide, a drug with a narrow therapeutic index, may increase the risk of QTc prolongation and ventricular arrhythmias. |
 | Intervention: | Concomitant use of pimozide and sertraline is contraindicated [See Contraindications (4)]. |
 | Other Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of serotonergic drugs with sertraline increases the risk of serotonin syndrome. |
 | Intervention: | Monitor patients for signs and symptoms of serotonin syndrome, particularly during treatment initiation and dosage increases. If serotonin syndrome occurs, consider discontinuation of sertraline and/or concomitant serotonergic drugs [See Warnings and Precautions (5.2)]. |
-| Examples: | other SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John’s Wort |
+| Examples: | Other SSRIs, SNRIs, triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, and St. John’s Wort |
 | Drugs that Interfere with Hemostasis (antiplatelet agents and anticoagulants) |  |
 | Clinical Impact: | The concurrent use of an antiplatelet agent or anticoagulant with sertraline may potentiate the risk of bleeding. |
 | Intervention: | Inform patients of the increased risk of bleeding associated with the concomitant use of sertraline and antiplatelet agents and anticoagulants. For patients taking warfarin, carefully monitor the international normalized ratio [See Warnings and Precautions (5.3)]. |
