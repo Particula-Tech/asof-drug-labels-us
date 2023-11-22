@@ -68,7 +68,7 @@ In combination with amitriptyline, clonidine hydrochloride administration led to
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Chronic dietary administration of clonidine was not carcinogenic to rats (132 weeks) or mice (78 weeks) dosed, respectively, at up to 46 or 70 times the maximum recommended daily human dose as mg/kg (9 or 6 times the MRDHD on a mg/m 2 basis).
+Chronic dietary administration of clonidine was not carcinogenic to rats (132 weeks) or mice (78 weeks) dosed, respectively, at up to 46 or 70 times the maximum recommended daily human dose as mg/kg (9 or 6 times the MRDHD on a mg/m 2basis).
 There was no evidence of genotoxicity in the Ames test for mutagenicity or mouse micronucleus test for clastogenicity.
 
 Fertility of male or female rats was unaffected by clonidine doses as high as 150 mcg/kg (approximately 3 times MRDHD).

@@ -12,9 +12,10 @@ Dispense in a tight, light-resistant container as defined in the USP.
 
 Store at 25°C (77ºF); excursions permitted to 15º to 30ºC (59º to 86ºF) [see USP Controlled Room Temperature].
 
-Manufactured by: Actavis Elizabeth LLC Elizabeth, NJ 07207 USA
+Manufactured In Croatia By: Pliva Hrvatska d.o.o.
+Zagreb, Croatia
 
 For BluePoint Laboratories
 
 Rev.
-A 10/2022
+A 9/2022
