@@ -26,10 +26,10 @@ Daratumumab area under the concentration-time curve (AUC) increases more than pr
 
 Following administration of the approved recommended dosage of DARZALEX as monotherapy or in combination therapy, the mean serum maximal concentration (C max) was approximately 2.7 to 3-fold higher at the end of weekly dosing compared to the first dose.
 The mean ± standard deviation (SD) trough serum concentration (C min) at the end of weekly dosing was 573 ± 332 µg/mL when DARZALEX was administered as monotherapy and 502 ± 196 to 607 ± 231 µg/mL when DARZALEX was administered as combination therapy.
-Split dosing of the first dose resulted in a different PK profile in the first day compared to single dosing; however, similar C max and C min concentrations were both predicted and observed following the administration of the second split dose on Week 1 Day 2.
+Split dosing of the first dose resulted in a different PK profile in the first day compared to single dosing; however, similar C maxand C minconcentrations were both predicted and observed following the administration of the second split dose on Week 1 Day 2.
 
-When DARZALEX was administered as monotherapy, daratumumab steady state was achieved approximately 5 months into the every 4-week dosing period (by the 21 st infusion).
-At steady state, daratumumab mean ± SD accumulation ratio for C max was 1.6 ± 0.5.
+When DARZALEX was administered as monotherapy, daratumumab steady state was achieved approximately 5 months into the every 4-week dosing period (by the 21 stinfusion).
+At steady state, daratumumab mean ± SD accumulation ratio for C maxwas 1.6 ± 0.5.
 
 Distribution
 

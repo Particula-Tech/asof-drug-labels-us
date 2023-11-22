@@ -27,7 +27,7 @@ Table 1: DARZALEX Dosing Schedule in Combination With Lenalidomide or Pomalidomi
 | Weeks 9 to 24 First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 8 doses) |
 | Week 25 onwards until disease progression First dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
 
-For dosing instructions of combination agents administered with DARZALEX, see Clinical Studies (14) and manufacturer's prescribing information.
+For dosing instructions of combination agents administered with DARZALEX, see Clinical Studies (14)and manufacturer's prescribing information.
 
 In Combination with Bortezomib, Melphalan and Prednisone (D-VMP)
 
@@ -60,7 +60,7 @@ Table 3: DARZALEX Dosing Schedule in Combination With Bortezomib, Thalidomide an
 | Stop for high dose chemotherapy and ASCT |  |  |
 | Consolidation | Weeks 1 to 8 First dose of the every-2-week dosing schedule is given at Week 1 upon re-initiation of treatment following ASCT | every two weeks (total of 4 doses) |
 
-For dosing instructions of combination agents administered with DARZALEX, see Clinical Studies (14.1) and the manufacturer's prescribing information.
+For dosing instructions of combination agents administered with DARZALEX, see Clinical Studies (14.1)and the manufacturer's prescribing information.
 
 In Combination with Bortezomib and Dexamethasone (D-Vd)
 
@@ -76,7 +76,7 @@ Table 4: DARZALEX Dosing Schedule With Bortezomib and Dexamethasone (3-Week Cycl
 | Weeks 10 to 24 First dose of the every-3-week dosing schedule is given at Week 10 | every three weeks (total of 5 doses) |
 | Week 25 onwards until disease progression First dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
 
-For dosing instructions of combination agents administered with DARZALEX see Clinical Studies (14.2) and manufacturer's prescribing information.
+For dosing instructions of combination agents administered with DARZALEX seeClinical Studies (14.2)and manufacturer's prescribing information.
 
 In Combination with Carfilzomib and Dexamethasone (DKd)
 
@@ -91,7 +91,7 @@ Table 5: DARZALEX Dosing Schedule With Carfilzomib and Dexamethasone (4-Week Cyc
 | Weeks 9 to 24 First dose of the every-2-week dosing schedule is given at Week 9 | 16 mg/kg | every two weeks (total of 8 doses) |
 | Week 25 onwards until disease progression First dose of the every-4-week dosing schedule is given at Week 25 | 16 mg/kg | every four weeks |
 
-For dosing instructions of combination agents administered with DARZALEX see Clinical Studies (14.1) and manufacturer's prescribing information.
+For dosing instructions of combination agents administered with DARZALEX see Clinical Studies (14.1)and manufacturer's prescribing information.
 
 Infusion Rates
 

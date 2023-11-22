@@ -2,7 +2,7 @@
 
 How Supplied
 
-DARZALEX ® (daratumumab) injection is a colorless to pale yellow, preservative-free solution for intravenous infusion.
+DARZALEX ®(daratumumab) injection is a colorless to pale yellow, preservative-free solution for intravenous infusion.
 
 NDC 57894-502-05 and NDC 57894-505-05 each contain one 100 mg/5 mL single-dose vial
 

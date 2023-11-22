@@ -45,7 +45,7 @@ Table 23: Additional Efficacy Results From MAIA Based on intent-to-treat populat
 | p-value | <0.0001 |  |
 | VGPR or better (sCR + CR + VGPR) | 292 (79.3%) | 196 (53.1%) |
 | p-value | <0.0001 |  |
-| MRD negativity rate, Based on threshold of 10 -5 using a next-generation sequencing assay (clonoSEQ). n(%) | 89 (24.2%) | 27 (7.3%) |
+| MRD negativity rate,Based on threshold of 10 -5 using a next-generation sequencing assay (clonoSEQ). n(%) | 89 (24.2%) | 27 (7.3%) |
 | 95% CI (%) | (19.9%, 28.9%) | (4.9%, 10.5%) |
 | p-value p-value from Fisherʼs exact test | <0.0001 |  |
 | MRD negativity rate in patients with CR or better |  |  |
@@ -60,8 +60,8 @@ The median duration of response had not been reached in the DRd group and was 34
 Combination Treatment with Bortezomib, Melphalan and Prednisone (VMP) in Patients Ineligible for Autologous Stem Cell Transplant
 
 ALCYONE (NCT02195479), an open-label, randomized, active-controlled trial, compared treatment with DARZALEX 16 mg/kg in combination with bortezomib, melphalan and prednisone (D-VMP), to treatment with VMP in patients with newly diagnosed multiple myeloma ineligible for autologous stem cell transplant.
-Bortezomib was administered by subcutaneous (SC) injection at a dose of 1.3 mg/m 2 body surface area twice weekly at Weeks 1, 2, 4 and 5 for the first 6-week cycle (Cycle 1; 8 doses), followed by once weekly administrations at Weeks 1, 2, 4 and 5 for eight more 6-week cycles (Cycles 2–9; 4 doses per cycle).
-Melphalan at 9 mg/m 2, and prednisone at 60 mg/m 2 were orally administered on Days 1 to 4 of the nine 6-week cycles (Cycles 1–9).
+Bortezomib was administered by subcutaneous (SC) injection at a dose of 1.3 mg/m 2body surface area twice weekly at Weeks 1, 2, 4 and 5 for the first 6-week cycle (Cycle 1; 8 doses), followed by once weekly administrations at Weeks 1, 2, 4 and 5 for eight more 6-week cycles (Cycles 2–9; 4 doses per cycle).
+Melphalan at 9 mg/m 2, and prednisone at 60 mg/m 2were orally administered on Days 1 to 4 of the nine 6-week cycles (Cycles 1–9).
 DARZALEX was continued until disease progression or unacceptable toxicity.
 
 A total of 706 patients were randomized: 350 to the D-VMP arm and 356 to the VMP arm.
@@ -94,7 +94,7 @@ Table 24: Additional Efficacy Results From ALCYONE
 | Complete response (CR) | 86 (24.6%) | 62 (17.4%) |
 | Very good partial response (VGPR) | 100 (28.6%) | 90 (25.3%) |
 | Partial response (PR) | 69 (19.7%) | 86 (24.2%) |
-| MRD negativity rate, Based on threshold of 10 -5 using a next-generation sequencing assay (clonoSEQ). n(%) | 78 (22.3%) | 22 (6.2%) |
+| MRD negativity rate,Based on threshold of 10 -5 using a next-generation sequencing assay (clonoSEQ). n(%) | 78 (22.3%) | 22 (6.2%) |
 | 95% CI (%) | (18.0, 27.0) | (3.9, 9.2) |
 | p-value p-value from Fisher's exact test. | <0.0001 |  |
 | MRD negativity rate in patients with CR or better |  |  |
@@ -111,7 +111,7 @@ Combination Treatment with Bortezomib, Thalidomide and Dexamethasone in Patients
 CASSIOPEIA (NCT02541383), an open-label, randomized, active-controlled trial compared induction and consolidation treatment with DARZALEX 16 mg/kg in combination with bortezomib, thalidomide and dexamethasone (DVTd) to treatment with bortezomib, thalidomide and dexamethasone (VTd) in patients with newly diagnosed multiple myeloma eligible for ASCT.
 The consolidation phase of treatment began a minimum of 30 days post-ASCT, when the patient had recovered sufficiently, and engraftment was complete.
 The trial was limited to patients 65 years of age and younger.
-Bortezomib was administered by subcutaneous (SC) injection or intravenous (IV) injection at a dose of 1.3 mg/m 2 body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 28-day (4-week) induction treatment cycles (Cycles 1–4) and two consolidation cycles (Cycles 5 and 6) following ASCT after Cycle 4.
+Bortezomib was administered by subcutaneous (SC) injection or intravenous (IV) injection at a dose of 1.3 mg/m 2body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 28-day (4-week) induction treatment cycles (Cycles 1–4) and two consolidation cycles (Cycles 5 and 6) following ASCT after Cycle 4.
 Thalidomide was administered orally at 100 mg daily during the six bortezomib cycles.
 Dexamethasone (oral or intravenous) was administered at 40 mg on Days 1, 2, 8, 9, 15, 16, 22 and 23 of Cycles 1 and 2, and at 40 mg on Days 1–2 and 20 mg on subsequent dosing days (Days 8, 9, 15, 16) of Cycles 3–4.
 Dexamethasone 20 mg was administered on Days 1, 2, 8, 9, 15, 16 in Cycles 5 and 6.
@@ -195,7 +195,7 @@ The median duration of response had not been reached in the DRd group (range: 1+
 Combination Treatment with Bortezomib and Dexamethasone
 
 CASTOR (NCT02136134), an open-label, randomized, active-controlled Phase 3 trial, compared treatment with DARZALEX 16 mg/kg in combination with bortezomib and dexamethasone (DVd), to treatment with bortezomib and dexamethasone (Vd) in patients with multiple myeloma who had received at least one prior therapy.
-Bortezomib was administered by SC injection or IV injection at a dose of 1.3 mg/m 2 body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 21 day (3-week) treatment cycles, for a total of 8 cycles.
+Bortezomib was administered by SC injection or IV injection at a dose of 1.3 mg/m 2body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 21 day (3-week) treatment cycles, for a total of 8 cycles.
 Dexamethasone was administered orally at a dose of 20 mg on Days 1, 2, 4, 5, 8, 9, 11, and 12 of each of the 8 bortezomib cycles (80 mg/week for two out of three weeks of the bortezomib cycle) or a reduced dose of 20 mg/week for patients >75 years, BMI <18.5, poorly controlled diabetes mellitus or prior intolerance to steroid therapy.
 On the days of DARZALEX infusion, 20 mg of the dexamethasone dose was administered as a pre-infusion medication.
 For patients on a reduced dexamethasone dose, the entire 20 mg dose was given as a DARZALEX pre-infusion medication.
@@ -248,7 +248,7 @@ Randomization was stratified by the ISS (stage 1 or 2 vs stage 3) at screening, 
 
 DARZALEX was administered intravenously at a dose of 8 mg/kg in Cycle 1 on Days 1 and 2.
 Thereafter, DARZALEX was administered intravenously at a dose of 16 mg/kg on Days 8, 15 and 22 of Cycle 1; Days 1, 8 and 15 and 22 of Cycle 2; Days 1 and 15 of Cycles 3 to 6; and Day 1 of each 28-day cycle until disease progression.
-Carfilzomib was administered intravenously at a dose of 20 mg/m 2 in Cycle 1 on Days 1 and 2; at a dose of 56 mg/m 2 in Cycle 1 on Days 8, 9, 15, and 16; and at a dose 56 mg/m 2 on Days 1, 2, 8, 9, 15, and 16 of each 28-day cycle thereafter.
+Carfilzomib was administered intravenously at a dose of 20 mg/m 2in Cycle 1 on Days 1 and 2; at a dose of 56 mg/m 2in Cycle 1 on Days 8, 9, 15, and 16; and at a dose 56 mg/m 2on Days 1, 2, 8, 9, 15, and 16 of each 28-day cycle thereafter.
 Dexamethasone 20 mg was administered orally or intravenously on Days 1, 2, 8, 9, 15 and 16 and then 40 mg orally or intravenously on Day 22 of each 28-day cycle.
 For patients >75 years on a reduced dexamethasone dose of 20 mg, the entire 20 mg dose was given as a DARZALEX pre-infusion medication on days when DARZALEX was administered.
 Dosing of dexamethasone was otherwise split across days when carfilzomib was administered in both study arms.
@@ -275,7 +275,7 @@ Table 28: Additional Efficacy Results From CANDOR (Intent-to-Treat Population)
 | --- | --- | --- |
 | Overall response (sCR+CR+VGPR+PR) n(%) | 263 (84%) | 115 (75%) |
 | 95% CI (%) | (80, 88) | (67, 81) |
-| p-value p-value from the stratified Cochran Mantel-Haenszel Chi-Squared test (1-sided) | 0.0040 |  |
+| p-value p-value from the stratified Cochran Mantel-Haenszel Chi-Squared test(1-sided) | 0.0040 |  |
 | Complete response (CR) | 89 (28%) | 16 (10%) |
 | Very good partial response (VGPR) | 127 (41%) | 59 (38%) |
 | Partial response (PR) | 47 (15%) | 40 (26%) |
@@ -295,7 +295,7 @@ Patients who had the following were excluded from the trial: known moderate or s
 
 Ten patients were administered DARZALEX at a dose of 16 mg/kg intravenously on Cycle 1, Day 1 and the remaining patients were administered DARZALEX at a dose of 8 mg/kg intravenously on Cycle 1, Days 1 and 2.
 Thereafter, DARZALEX was administered intravenously at a dose of 16 mg/kg on Days 8, 15 and 22 of Cycle 1; Days 1, 8, 15 and 22 of Cycle 2; Days 1 and 15 of Cycles 3 to 6; and then Day 1 for the remaining cycles of each 28 day cycle.
-Carfilzomib was administered intravenously once weekly at a dose of 20 mg/m 2 on Cycle 1 Day 1 and escalated to dose of 70 mg/m 2 on Cycle 1 Days 8 and 15, and Days 1, 8, and 15 of each subsequent 28-day cycle.
+Carfilzomib was administered intravenously once weekly at a dose of 20 mg/m 2on Cycle 1 Day 1 and escalated to dose of 70 mg/m 2on Cycle 1 Days 8 and 15, and Days 1, 8, and 15 of each subsequent 28-day cycle.
 In Cycles 1 and 2, dexamethasone 20 mg was administered orally or intravenously on Days 1, 2, 8, 9, 15, 16, 22 and 23; in cycles 3 to 6, dexamethasone 20 mg was administered orally or intravenously on Days 1, 2, 15 and 16 and at a dose of 40 mg on Day 8 and 22; and in cycles 7 and thereafter, dexamethasone 20 mg was administered orally or intravenously on Days 1 and 2 and at a dose of 40 mg on Days 8, 15, and 22.
 For patients >75 years of age, dexamethasone 20 mg was administered orally or intravenously weekly after the first week.
 Treatment continued until disease progression or unacceptable toxicity.

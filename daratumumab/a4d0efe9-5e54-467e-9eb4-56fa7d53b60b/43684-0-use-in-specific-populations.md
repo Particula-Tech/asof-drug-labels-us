@@ -23,7 +23,7 @@ Fetal/Neonatal Adverse Reactions
 
 Immunoglobulin G1 (IgG1) monoclonal antibodies are transferred across the placenta.
 Based on its mechanism of action, DARZALEX may cause depletion of fetal CD38 positive immune cells and decreased bone density.
-Defer administering live vaccines to neonates and infants exposed to DARZALEX in utero until a hematology evaluation is completed.
+Defer administering live vaccines to neonates and infants exposed to DARZALEX in uterountil a hematology evaluation is completed.
 
 Data
 
