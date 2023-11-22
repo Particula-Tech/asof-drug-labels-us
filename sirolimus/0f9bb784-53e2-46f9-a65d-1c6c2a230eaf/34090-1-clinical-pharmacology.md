@@ -20,7 +20,7 @@ The effect of FYARRO on the QTc interval has not been adequately characterized.
 
 Absorption
 
-Following administration of FYARRO at the recommended dosage, the estimated mean (%CV) C max and AUC 0-inf of sirolimus in patients with advanced solid tumors were 2590 ng/mL (30% CV) and 22100 ng∙h/mL (50% CV), respectively.
+Following administration of FYARRO at the recommended dosage, the estimated mean (%CV) Cmax and AUC0-inf of sirolimus in patients with advanced solid tumors were 2590 ng/mL (30% CV) and 22100 ng∙h/mL (50% CV), respectively.
 
 Distribution
 

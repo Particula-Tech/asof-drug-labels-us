@@ -13,25 +13,25 @@ Recommended dose reductions of FYARRO for adverse reactions.
 
 | Dose Reduction | Dose |
 | --- | --- |
-| First Dose Reduction | 75 mg/m 2 (25% reduction from 100 mg/m 2) |
-| Second Dose Reduction | 56 mg/m 2 (25% reduction from 75 mg/m 2) |
-| Third Dose Reduction Permanently discontinue FYARRO in patients who are unable to tolerate FYARRO after three dose reductions. | 45 mg/m 2 (20% reduction from 56 mg/m 2) |
+| First Dose Reduction | 75 mg/m2 (25% reduction from 100 mg/m2) |
+| Second Dose Reduction | 56 mg/m2 (25% reduction from 75 mg/m2) |
+| Third Dose ReductionPermanently discontinue FYARRO in patients who are unable to tolerate FYARRO after three dose reductions. | 45 mg/m2 (20% reduction from 56 mg/m2) |
 
 Table 2 lists the recommended dosage modifications of FYARRO for adverse reactions.
 
 Table 2.
 Recommended FYARRO Dosage Modifications for Adverse Reactions
 
-| Adverse Reaction | Severity Severity based on Common Terminology Criteria for Adverse Events Version 4.03. | Dosage Modifications |
+| Adverse Reaction | SeveritySeverity based on Common Terminology Criteria for Adverse Events Version 4.03. | Dosage Modifications |
 | --- | --- | --- |
 | Stomatitis [see Warnings and Precautions (5.1)] | Grade 2 or 3 | Withhold FYARRO until Grade ≤1.Restart at the same dose for first occurrence.If recurs, restart at reduced dose level. |
 | Grade 4 | Permanently discontinue FYARRO. |  |
 | Anemia [see Warnings and Precautions (5.2)] | Grade 2 | Withhold FYARRO until Hb ≥8 g/dL.Restart at the same dose level. |
 | Grade ≥3 | Withhold FYARRO until Hb ≥8 g/dL.Restart at the same dose level.If recurs, resume at reduced dose level. |  |
-| Thrombocytopenia [see Warnings and Precautions (5.2)] | Grade 2 | Withhold FYARRO until platelet count >100×10 9/L. Restart at the same dose level. |
-| Grade ≥3 | Withhold FYARRO until platelet count >100×10 9/L. Restart at reduced dose level. |  |
-| Neutropenia [see Warnings and Precautions (5.2)] | Grade 2 or 3 | Withhold FYARRO until absolute neutrophil count ≥1.5×10 9/L. Restart at the same dose level. |
-| Grade 4 | Withhold FYARRO until absolute neutrophil count ≥1.5×10 9/L. Restart at reduced dose level. |  |
+| Thrombocytopenia [see Warnings and Precautions (5.2)] | Grade 2 | Withhold FYARRO until platelet count >100×109/L.Restart at the same dose level. |
+| Grade ≥3 | Withhold FYARRO until platelet count >100×109/L.Restart at reduced dose level. |  |
+| Neutropenia [see Warnings and Precautions (5.2)] | Grade 2 or 3 | Withhold FYARRO until absolute neutrophil count ≥1.5×109/L.Restart at the same dose level. |
+| Grade 4 | Withhold FYARRO until absolute neutrophil count ≥1.5×109/L.Restart at reduced dose level. |  |
 | Infections [see Warnings and Precautions (5.3)] | Grade 3 | Withhold FYARRO until resolved.Restart at reduced dose level.If recurs, permanently discontinue FYARRO. |
 | Grade 4 | Withhold FYARRO until resolved.Restart at reduced dose level or permanently discontinue FYARRO. |  |
 | Hypokalemia [see Warnings and Precautions (5.4)] | Grade 2 | Withhold FYARRO until Grade ≤1.Restart at the same dose level.If recurs, restart at reduced dose level. |
@@ -46,7 +46,7 @@ Recommended FYARRO Dosage Modifications for Adverse Reactions
 
 ## 2.3 Dosage Modifications for Concomitant Use with CYP3A4 and/or P-gp Inhibitors and Inducers
 
-Reduce the dosage of FYARRO to 56 mg/m 2 when used concomitantly with a moderate or weak cytochrome P-450 3A4 (CYP3A4) inhibitor.
+Reduce the dosage of FYARRO to 56 mg/m2 when used concomitantly with a moderate or weak cytochrome P-450 3A4 (CYP3A4) inhibitor.
 Avoid concomitant use with drugs that are strong CYP3A4 and/or P-glycoprotein (P-gp) inhibitors and inducers and with grapefruit and grapefruit juice [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
 ## 2.4 Patients with Hepatic Impairment
@@ -60,14 +60,13 @@ Recommended FYARRO Dosage in Patients with Mild or Moderate Hepatic Impairment
 
 | Hepatic Impairment (based on NCI criteria) | Dosage |
 | --- | --- |
-| Mild (total bilirubin ≤ULN, AST >ULN or total bilirubin >1 to 1.5×ULN, any AST) | 75 mg/m 2 |
-| Moderate (total bilirubin >1.5 to 3.0×ULN, any AST) | 56 mg/m 2 |
+| Mild (total bilirubin ≤ULN, AST >ULN or total bilirubin >1 to 1.5×ULN, any AST) | 75 mg/m2 |
+| Moderate (total bilirubin >1.5 to 3.0×ULN, any AST) | 56 mg/m2 |
 
 ## 2.5 Preparation and Administration
 
 FYARRO is a hazardous drug.
-Follow applicable special handling and disposal procedures.
-1
+Follow applicable special handling and disposal procedures.1
 
 FYARRO is supplied as a sterile lyophilized powder for reconstitution before use.
 READ ENTIRE PREPARATION INSTRUCTIONS PRIOR TO RECONSTITUTION.

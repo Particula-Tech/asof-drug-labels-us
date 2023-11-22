@@ -10,5 +10,4 @@ Store the vials in the original cartons at 2° to 8°C [USP Refrigerated Tempera
 Retain in the original package to protect from light.
 
 FYARRO is a hazardous drug.
-Follow applicable special handling and disposal procedures.
-1
+Follow applicable special handling and disposal procedures.1

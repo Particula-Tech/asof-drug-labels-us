@@ -23,7 +23,7 @@ Hypersensitivity [see Warnings and Precautions (5.8)]
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The safety of FYARRO was assessed in a single-arm study (AMPECT).
-Thirty-four patients received FYARRO 100 mg/m 2 on Days 1 and 8 of 21-day cycles until disease progression or unacceptable toxicity [see Clinical Studies (14.1)].
+Thirty-four patients received FYARRO 100 mg/m2 on Days 1 and 8 of 21-day cycles until disease progression or unacceptable toxicity [see Clinical Studies (14.1)].
 Among the 34 patients who received FYARRO, 16 (47%) were exposed for 6 months or longer and 7 (21%) were exposed for greater than 1 year.
 
 The median age of patients who received FYARRO was 59.5 years (range 27 to 78 years), 82% were female and Eastern Cooperative Oncology Group (ECOG) Performance Status was 0 (76%) or 1 (24%).
@@ -51,49 +51,49 @@ Table 4 summarizes the adverse reactions in AMPECT.
 Table 4.
 Adverse Reactions ≥10% in Patients with PEComa Who Received FYARRO in AMPECT
 
-| Adverse Reaction | All Grades (%) | Grade 3 to 4 No Grade 4 reactions were reported (%) |
+| Adverse Reaction | All Grades (%) | Grade 3 to 4No Grade 4 reactions were reported (%) |
 | --- | --- | --- |
 |  | FYARRO (N=34) |  |
 | Gastrointestinal |  |  |
-| Stomatitis Includes stomatitis, aphthous ulcer, mouth ulceration, esophageal ulcer | 79 | 18 |
+| StomatitisIncludes stomatitis, aphthous ulcer, mouth ulceration, esophageal ulcer | 79 | 18 |
 | Nausea | 50 | 0 |
-| Diarrhea Includes diarrhea and enteritis | 47 | 2.9 |
+| DiarrheaIncludes diarrhea and enteritis | 47 | 2.9 |
 | Vomiting | 32 | 2.9 |
-| Abdominal Pain Includes abdominal pain, abdominal pain upper, and epigastric discomfort | 29 | 6 |
+| Abdominal PainIncludes abdominal pain, abdominal pain upper, and epigastric discomfort | 29 | 6 |
 | Constipation | 24 | 2.9 |
 | Dry Mouth | 15 | 0 |
 | Hemorrhoids | 12 | 0 |
 | General disorders |  |  |
 | Fatigue | 68 | 2.9 |
-| Edema Includes face edema, generalized edema, edema, edema peripheral, and periorbital edema | 50 | 2.9 |
+| EdemaIncludes face edema, generalized edema, edema, edema peripheral, and periorbital edema | 50 | 2.9 |
 | Pyrexia | 24 | 0 |
 | Skin and subcutaneous tissue disorders |  |  |
-| Rash Includes dermatitis acneiform, palmar-plantar erythrodysesthesia syndrome, rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, and skin exfoliation | 68 | 0 |
+| RashIncludes dermatitis acneiform, palmar-plantar erythrodysesthesia syndrome, rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, and skin exfoliation | 68 | 0 |
 | Alopecia | 24 | 0 |
 | Pruritus | 18 | 0 |
 | Dry Skin | 12 | 0 |
 | Nail disorder | 12 | 0 |
 | Infections |  |  |
-| Infections Includes all reported infections, including but not limited to, upper respiratory tract infection, urinary tract infection, sinusitis, skin infection, folliculitis, nasopharyngitis, pharyngitis, pharyngitis streptococcal, pneumonia, vaginal infection | 59 | 12 |
+| InfectionsIncludes all reported infections, including but not limited to, upper respiratory tract infection, urinary tract infection, sinusitis, skin infection, folliculitis, nasopharyngitis, pharyngitis, pharyngitis streptococcal, pneumonia, vaginal infection | 59 | 12 |
 | Metabolism and nutrition |  |  |
 | Decreased appetite | 44 | 0 |
 | Dehydration | 15 | 6 |
 | Nervous system |  |  |
 | Dysgeusia | 32 | 0 |
 | Headache | 29 | 0 |
-| Peripheral neuropathy Includes dysesthesia, hypoesthesia, neuropathy peripheral, paresthesia, and peripheral sensory neuropathy | 15 | 0 |
-| Dizziness Includes dizziness, dizziness postural, and vertigo | 12 | 0 |
+| Peripheral neuropathyIncludes dysesthesia, hypoesthesia, neuropathy peripheral, paresthesia, and peripheral sensory neuropathy | 15 | 0 |
+| DizzinessIncludes dizziness, dizziness postural, and vertigo | 12 | 0 |
 | Investigations |  |  |
 | Weight decreased | 47 | 0 |
 | Musculoskeletal and connective tissue disorders |  |  |
-| Musculoskeletal pain Includes arthralgia, back pain, musculoskeletal chest pain, myalgia, neck pain, non-cardiac chest pain, pain in extremity | 47 | 2.9 |
+| Musculoskeletal painIncludes arthralgia, back pain, musculoskeletal chest pain, myalgia, neck pain, non-cardiac chest pain, pain in extremity | 47 | 2.9 |
 | Respiratory, thoracic, and mediastinal disorders |  |  |
-| Cough Includes cough, productive cough, and upper-airway cough syndrome | 35 | 0 |
+| CoughIncludes cough, productive cough, and upper-airway cough syndrome | 35 | 0 |
 | Pneumonitis | 18 | 0 |
-| Dyspnea Includes dyspnea and dyspnea exertional | 12 | 0 |
+| DyspneaIncludes dyspnea and dyspnea exertional | 12 | 0 |
 | Vascular disorders |  |  |
 | Hypertension | 29 | 2.9 |
-| Hemorrhage Includes epistaxis, hemorrhoidal hemorrhage, mouth hemorrhage, post procedural hemorrhage, and upper gastrointestinal hemorrhage. Includes one fatal adverse reaction of upper GI hemorrhage | 24 | 2.9 |
+| HemorrhageIncludes epistaxis, hemorrhoidal hemorrhage, mouth hemorrhage, post procedural hemorrhage, and upper gastrointestinal hemorrhage. Includes one fatal adverse reaction of upper GI hemorrhage | 24 | 2.9 |
 | Psychiatric disorders |  |  |
 | Insomnia | 21 | 2.9 |
 | Eye disorders |  |  |
@@ -105,9 +105,9 @@ Table 5 summarizes the laboratory abnormalities in AMPECT.
 Table 5.
 Laboratory Abnormalities ≥10% That Worsened from Baseline in Patients with PEComa who Received FYARRO in AMPECT
 
-| Laboratory Abnormality Grading according to NCI CTCAE Version 4.03 | All Grades (%) | Grades 3 to 4 (%) |
+| Laboratory AbnormalityGrading according to NCI CTCAE Version 4.03 | All Grades (%) | Grades 3 to 4 (%) |
 | --- | --- | --- |
-|  | FYARRO The denominator used to calculate the rate varied from 33 to 34 based on the number of patients with a baseline value and at least one post-treatment value. (N=34) |  |
+|  | FYARROThe denominator used to calculate the rate varied from 33 to 34 based on the number of patients with a baseline value and at least one post-treatment value. (N=34) |  |
 | Hematology |  |  |
 | Decreased lymphocytes | 82 | 21 |
 | Decreased hemoglobin | 68 | 6 |
