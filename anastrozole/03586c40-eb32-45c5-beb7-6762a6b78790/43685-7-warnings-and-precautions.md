@@ -19,6 +19,6 @@ During the ATAC trial, more patients receiving anastrozole were reported to have
 
 Based on findings from animal studies and its mechanism of action, anastrozole can cause fetal harm when administered to a pregnant woman.
 Anastrozole caused embryo-fetal toxicities in rats at maternal exposure that were 9 times the human clinical exposure, based on area under the curve (AUC).
-In rabbits, anastrozole caused pregnancy failure at doses equal to or greater than 16 times the recommended human dose on a mg/m 2 basis.
+In rabbits, anastrozole caused pregnancy failure at doses equal to or greater than 16 times the recommended human dose on a mg/m 2basis.
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception during therapy with anastrozole and for at least 3 weeks after the last dose [see Use in Specific Populations (8.1, 8.3) and Clinical Pharmacology (12.1)].

@@ -42,7 +42,7 @@ Inhibition of aromatase activity is primarily due to anastrozole, the parent dru
 Absorption of anastrozole is rapid and maximum plasma concentrations typically occur within 2 hours of dosing under fasted conditions.
 Studies with radiolabeled drug have demonstrated that orally administered anastrozole is well absorbed into the systemic circulation.
 Food reduces the rate but not the overall extent of anastrozole absorption.
-The mean C max of anastrozole decreased by 16% and the median T max was delayed from 2 to 5 hours when anastrozole was administered 30 minutes after food.
+The mean C maxof anastrozole decreased by 16% and the median T maxwas delayed from 2 to 5 hours when anastrozole was administered 30 minutes after food.
 The pharmacokinetics of anastrozole are linear over the dose range of 1 to 20 mg, and do not change with repeated dosing.
 The pharmacokinetics of anastrozole were similar in patients and healthy volunteers.
 
@@ -85,7 +85,7 @@ Anastrozole pharmacokinetics have been investigated in subjects with renal impai
 Anastrozole renal clearance decreased proportionally with creatinine clearance and was approximately 50% lower in volunteers with severe renal impairment (creatinine clearance < 30 mL/min/1.73m2) compared to controls.
 Total clearance was only reduced 10%.
 No dosage adjustment is needed for renal impairment.
-[see Dosage and Administration (2.1) and Use in Specific Populations (8.6)]
+[see Dosage and Administration (2.1)and Use in Specific Populations (8.6)]
 
 ### Effect of Hepatic Impairment
 

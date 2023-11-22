@@ -8,7 +8,7 @@ Based on findings from animal studies and its mechanism of action, anastrozole m
 There are no studies of anastrozole use in pregnant women.
 
 Anastrozole caused embryo-fetal toxicities in rats at maternal exposure that were 9 times the human clinical exposure, based on area under the curve (AUC).
-In rabbits, anastrozole caused pregnancy failure at doses equal to or greater than 16 times the recommended human dose on a mg/m 2 basis.
+In rabbits, anastrozole caused pregnancy failure at doses equal to or greater than 16 times the recommended human dose on a mg/m 2basis.
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -18,12 +18,12 @@ Data
 
 Animal Data
 
-In animal reproduction studies, pregnant rats and rabbits received anastrozole during organogenesis at doses equal to or greater than 0.1 and 0.02 mg/kg/day, respectively, (about 1 and 1/3 the recommended human dose on a mg/m 2 basis, respectively).
+In animal reproduction studies, pregnant rats and rabbits received anastrozole during organogenesis at doses equal to or greater than 0.1 and 0.02 mg/kg/day, respectively, (about 1 and 1/3 the recommended human dose on a mg/m 2basis, respectively).
 In both species, anastrozole crossed the placenta, and there was increased pregnancy loss (increased pre-and/or post-implantation loss, increased resorption, and decreased numbers of live fetuses).
 In rats, these effects were dose related, and placental weights were significantly increased at doses equal to or greater than 0.1 mg/kg/day.
 
-Fetotoxicity, including delayed fetal development (i.e., incomplete ossification and depressed fetal body weights), occurred in rats at anastrozole doses of 1 mg/kg/day that produced peak plasma levels 19 times higher than serum levels in humans at the therapeutic dose (AUC 0-24hr 9 times higher).
-In rabbits, anastrozole caused pregnancy failure at doses equal to or greater than 1.0 mg/kg/day (about 16 times the recommended human dose on a mg/m 2 basis).
+Fetotoxicity, including delayed fetal development (i.e., incomplete ossification and depressed fetal body weights), occurred in rats at anastrozole doses of 1 mg/kg/day that produced peak plasma levels 19 times higher than serum levels in humans at the therapeutic dose (AUC 0-24hr9 times higher).
+In rabbits, anastrozole caused pregnancy failure at doses equal to or greater than 1.0 mg/kg/day (about 16 times the recommended human dose on a mg/m 2basis).
 
 ## 8.2 Lactation
 
@@ -65,7 +65,7 @@ Serum estradiol concentrations at Month 6 of treatment were reduced by 15.4% in 
 
 Adverse reactions that were assessed as treatment-related by the investigators occurred in 16.3% of the anastrozole-treated patients and 8.1% of the placebo-treated patients with the most frequent being acne (7% anastrozole and 2.7% placebo) and headache (7% anastrozole and 0% placebo); all other adverse reactions showed small differences between treatment groups.
 One patient treated with anastrozole discontinued the trial because of testicular enlargement.
-The mean baseline-subtracted change in testicular volume after 6 months of treatment was + 6.6 ± 7.9 cm 3 in the anastrozole-treated patients and + 5.2 ± 8.0 cm 3 in the placebo group.
+The mean baseline-subtracted change in testicular volume after 6 months of treatment was + 6.6 ± 7.9 cm 3in the anastrozole-treated patients and + 5.2 ± 8.0 cm 3in the placebo group.
 
 McCune-Albright Syndrome Study
 

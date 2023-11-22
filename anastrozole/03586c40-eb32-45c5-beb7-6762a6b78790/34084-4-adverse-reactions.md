@@ -13,14 +13,13 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ### Adjuvant Therapy
 
-Adverse reaction data for adjuvant therapy are based on the ATAC trial [see Clinical Studies (14.1)].
-The median duration of adjuvant treatment for safety evaluation was 59.8 months and 59.6 months for patients receiving anastrozole 1 mg and tamoxifen 20 mg, respectively.
+Adverse reaction data for adjuvant therapy are based on the ATAC trial [see Clinical Studies (14.1)].The median duration of adjuvant treatment for safety evaluation was 59.8 months and 59.6 months for patients receiving anastrozole 1 mg and tamoxifen 20 mg, respectively.
 
 Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment or within 14 days of the end of treatment are presented in Table 1.
 
 Table 1 - Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment, or within 14 days of the end of treatment in the ATAC trial The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.
 
-| Body system and adverse reactions byCOSTART COSTART Coding Symbols for Thesaurus of Adverse Reaction Terms.preferred term A patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system. | Anastrozole 1 mg(N N=Number of patients receiving the treatment. = 3092) | Tamoxifen 20 mg(N = 3094) |
+| Body system and adverse reactions byCOSTART COSTART Coding Symbols for Thesaurus of Adverse Reaction Terms.preferred term A patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system. | Anastrozole 1 mg(N N=Number of patients receiving the treatment.= 3092) | Tamoxifen 20 mg(N = 3094) |
 | --- | --- | --- |
 | Body as a whole |  |  |
 | Asthenia | 575 (19) | 544 (18) |
@@ -179,7 +178,7 @@ Table 3 — Adverse Reactions Occurring with an Incidence of at Least 5% in Tria
 
 |  | Anastrozole(N=506) | Tamoxifen(N=511) |
 | --- | --- | --- |
-| Body system Adverse Reaction A patient may have had more than 1 adverse event. | Number (%) of subjects |  |
+| Body systemAdverse Reaction A patient may have had more than 1 adverse event. | Number (%) of subjects |  |
 | Whole body |  |  |
 | Asthenia | 83 (16) | 81 (16) |
 | Pain | 70 (14) | 73 (14) |
@@ -249,7 +248,7 @@ Table 5 — Number (n) and Percentage of Patients with Adverse Reactions in Tria
 
 | n | % | n | % | n | % |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Reaction | Anastrozole |  | Anastrozole |  | Megesterol Acetate |  |
+| Adverse Reaction | Anastrozole |  | Anastrozole |  | MegesterolAcetate |  |
 | 1 mg |  | 10 mg |  | 160 mg |  |  |
 | (N=262) |  | (N=246) |  | (N=253) |  |  |
 | Asthenia | 42 | (16) | 33 | (13) | 47 | (19) |
@@ -283,28 +282,28 @@ Table 5 — Number (n) and Percentage of Patients with Adverse Reactions in Tria
 Other less frequent (2% to 5%) adverse reactions reported in patients receiving anastrozole 1 mg in either Trial 0004 or Trial 0005 are listed below.
 These adverse experiences are listed by body system and are in order of decreasing frequency within each body system regardless of assessed causality.
 
-Body as a Whole: Flu syndrome; fever; neck pain; malaise; accidental injury; infection
+Body as a Whole:Flu syndrome; fever; neck pain; malaise; accidental injury; infection
 
-Cardiovascular: Hypertension; thrombophlebitis
+Cardiovascular:Hypertension; thrombophlebitis
 
-Hepatic: Gamma GT increased; SGOT increased; SGPT increased
+Hepatic:Gamma GT increased; SGOT increased; SGPT increased
 
-Hematologic: Anemia; leukopenia
+Hematologic:Anemia; leukopenia
 
-Metabolic and Nutritional: Alkaline phosphatase increased; weight loss
+Metabolic and Nutritional:Alkaline phosphatase increased; weight loss
 
 Mean serum total cholesterol levels increased by 0.5 mmol/L among patients receiving anastrozole.
 Increases in LDL cholesterol have been shown to contribute to these changes.
 
-Musculoskeletal: Myalgia; arthralgia; pathological fracture
+Musculoskeletal:Myalgia; arthralgia; pathological fracture
 
-Nervous: Somnolence; confusion; insomnia; anxiety; nervousness
+Nervous:Somnolence; confusion; insomnia; anxiety; nervousness
 
-Respiratory: Sinusitis; bronchitis; rhinitis
+Respiratory:Sinusitis; bronchitis; rhinitis
 
 Skin and Appendages: Hair thinning (alopecia); pruritus
 
-Urogenital: Urinary tract infection; breast pain
+Urogenital:Urinary tract infection; breast pain
 
 The incidences of the following adverse reaction groups potentially causally related to one or both of the therapies because of their pharmacology, were statistically analyzed: weight gain, edema, thromboembolic disease, gastrointestinal disturbance, hot flushes, and vaginal dryness.
 These six groups, and the adverse reactions captured in the groups, were prospectively defined.

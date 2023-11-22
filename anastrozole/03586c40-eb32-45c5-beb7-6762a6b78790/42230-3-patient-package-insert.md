@@ -1,26 +1,24 @@
 Manufactured For:
 
-Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By:
 
 Intas Pharmaceuticals Limited, Ahmedabad – 380 054, INDIA.
 
-10 2311 0 677194
+10 2311 1 6025928
 
-Issued February 2019
+Issued October 2023
 
 Patient Information
 
 Anastrozole Tablets (an as' troe zole)
 
-What is the most important information I should know about anastrozole tablet?
-Anastrozole tablets may cause serious side effects including:
+What is the most important information I should know about anastrozole tablet?Anastrozole tablets may cause serious side effects including:
 
-- heart disease.
-  Women with early breast cancer, who have a history of blockage in their heart arteries (ischemic heart disease) and who take anastrozole tablets, may have an increase in symptoms of decreased blood flow to their heart compared to similar women who take tamoxifen.
+- heart disease.Women with early breast cancer, who have a history of blockage in their heart arteries (ischemic heart disease) and who take anastrozole tablets, may have an increase in symptoms of decreased blood flow to their heart compared to similar women who take tamoxifen.
 
-Get medical help right away if you have new or worsening chest pain or shortness of breath during treatment with anastrozole tablets.
+Getmedical help right away if you have new or worsening chest pain or shortness of breath duringtreatment with anastrozole tablets.
 
 What is anastrozole tablet?
 
@@ -63,15 +61,13 @@ Before you take anastrozole tablets, tell your healthcare provider if you:
   It is not known if anastrozole passes into breast milk.
   Do not breastfeed during treatment with anastrozole tablets and for 2 weeks after your last dose of anastrozole tablets.
 
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take,including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Especially tell your healthcare provider if you take:
 
-- tamoxifen.
-  You should not take anastrozole tablets if you take tamoxifen.
+- tamoxifen.You should not take anastrozole tabletsif you take tamoxifen.
   Taking anastrozole tablets with tamoxifen may lower the amount of anastrozole in your blood and may cause anastrozole tablets not to work as well.
 
-- Medicines that contain estrogen.
-  Anastrozole tablet may not work if taken with any of these medicines:
+- Medicines that contain estrogen.Anastrozole tablet may not work if taken with any of these medicines:
   - hormone replacement therapy
   - birth control pills
   - estrogen creams
@@ -98,23 +94,18 @@ What are the possible side effects of anastrozole tablets?
 Anastrozole tablets may cause serious side effects including:
 
 - See “ What is the most important information I should know about anastrozole tablet ?”
-- bone thinning or weakness (osteoporosis).
-  Anastrozole lowers estrogen in your body, which may cause your bones to become thinner and weaker.
+- bone thinning or weakness (osteoporosis).Anastrozole lowers estrogen in your body, which may cause your bones to become thinner and weaker.
   This may increase your risk of fractures, especially of your spine, hip and wrist.
   Your healthcare provider may order a bone mineral density test before you start and during treatment with anastrozole tablets to check you for bone changes.
-- increased blood cholesterol (fat in the blood).
-  Your healthcare provider may do blood tests to check your cholesterol while you are taking anastrozole tablets.
-- skin reactions.
-  Stop taking anastrozole tablets and call your healthcare provider right away if you get any skin lesions, ulcers, or blisters.
-- severe allergic reactions.
-  Get medical help right away if you get:
+- increased blood cholesterol (fat in the blood).Your healthcare provider may do blood tests to check your cholesterol while you are taking anastrozole tablets.
+- skin reactions.Stop taking anastrozole tablets and call your healthcare provider right away if you get any skin lesions, ulcers, or blisters.
+- severe allergic reactions.Get medical help right away if you get:
   - swelling of your face, lips, tongue, or throat.
   - trouble swallowing or breathing
 
-- liver problems.
-  Anastrozole can cause inflammation of your liver and changes in liver function blood tests.
+- liver problems.Anastrozole can cause inflammation of your liver and changes in liver function blood tests.
   Your healthcare provider may check you for this.
-  Stop taking anastrozole tablets and call your healthcare provider right away if you have any of these signs or symptoms of a liver problem:
+  Stop taking anastrozole tablets and call your healthcare provider right awayif you have any of these signs or symptoms of a liver problem:
   - a general feeling of not being well
   - yellowing of your skin or whites of your eyes
   - pain on the right side of your stomach-area (abdomen)
@@ -166,7 +157,7 @@ It may harm them.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about anastrozole tablets that is written for health professionals.
 
-For more information, visit www.accordhealthcare.us or call Accord Healthcare Inc. at 1-866-941-7875.
+For more information, visit www.accordhealthcare.usor call Accord Healthcare Inc. at 1-866-941-7875.
 
 What are the ingredients in anastrozole tablets?
 
@@ -178,12 +169,12 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured For:
 
-Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By:
 
 Intas Pharmaceuticals Limited, Ahmedabad – 380 054, INDIA.
 
-10 2311 0 677194
+10 2311 1 6025928
 
-Issued February 2019
+Issued October 2023
