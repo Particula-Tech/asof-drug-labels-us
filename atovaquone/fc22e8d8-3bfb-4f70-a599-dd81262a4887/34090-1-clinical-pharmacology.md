@@ -34,7 +34,7 @@ In human plasma, the binding of atovaquone and proguanil was unaffected by the p
 Elimination
 
 The elimination half-life of atovaquone is about 2 to 3 days in adult patients.
-The elimination half-life of proguanil is 12 to 21 hours in both adult patients and pediatric patients, but may be longer in individuals who are slow metabolizers.
+The elimination half-life of proguanil is 12 to 21 hours in both adult patients and pediatric patients but may be longer in individuals who are slow metabolizers.
 
 The main routes of elimination are hepatic biotransformation and renal excretion.
 

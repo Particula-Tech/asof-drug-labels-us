@@ -17,8 +17,10 @@ Trademark is owned by or licensed to the GSK group of companies.
 
 Distributed by:
 
-GlaxoSmithKline Research Triangle Park, NC 27709
+GlaxoSmithKline
 
-©2022 GSK group of companies or its licensor.
+Durham, NC 27701
 
-MLR:10PI
+©2023 GSK group of companies or its licensor.
+
+MLR:11PI
