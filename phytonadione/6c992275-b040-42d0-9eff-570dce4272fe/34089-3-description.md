@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Phytonadione, USP is a vitamin K replacement, which is a clear, yellow to amber, viscous, and nearly odorless liquid.
 It is soluble in dehydrated alcohol, in benzene, in chloroform, in ether and slightly soluble in alcohol.

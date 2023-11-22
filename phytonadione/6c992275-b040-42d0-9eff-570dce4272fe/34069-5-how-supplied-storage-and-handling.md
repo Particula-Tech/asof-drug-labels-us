@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Phytonadione Tablets USP, 5 mg are light yellow to yellow colored, round shaped, uncoated tablets engraved with "10 14" on one side and break line on other side and are supplied as follows:
 

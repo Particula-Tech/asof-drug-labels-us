@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Vitamin K1 is fairly rapidly degraded by light; therefore, advise patients to always protect phytonadione tablets from light.
 Store phytonadione tablets in closed original carton until contents have been used [see How Supplied/Storage and Handling (16)].
