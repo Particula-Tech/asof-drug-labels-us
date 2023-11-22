@@ -17,7 +17,7 @@ FOR INTRAVENOUS USE ONLY
 Each 5mL vial contains: 1g of Levocarnitine as an aqueous solution 1g/5mL [200mg/mL].
 May contain HCl or NaOH for pH adjustment.
 
-Dosage: See package insert.
+Dosage:See package insert.
 
 Store at controlled room temperature (25°C).
 See USP.

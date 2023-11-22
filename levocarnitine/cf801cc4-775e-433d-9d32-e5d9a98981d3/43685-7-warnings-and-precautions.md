@@ -2,11 +2,11 @@
 
 ## Hypersensitivity Reactions
 
-Serious hypersensitivity reactions, including anaphylaxis, laryngeal edema, and bronchospasm have been reported following CARNITOR ® administration, mostly in patients with end stage renal disease who are undergoing dialysis.
+Serious hypersensitivity reactions, including anaphylaxis, laryngeal edema, and bronchospasm have been reported following CARNITOR ®administration, mostly in patients with end stage renal disease who are undergoing dialysis.
 Some reactions occurred within minutes after intravenous administration of CARNITOR ®.
 
-If a severe hypersensitivity reaction occurs, discontinue CARNITOR ® treatment and initiate appropriate medical treatment.
-Consider the risks and benefits of re-administering CARNITOR ® to individual patients following a severe reaction.
+If a severe hypersensitivity reaction occurs, discontinue CARNITOR ®treatment and initiate appropriate medical treatment.
+Consider the risks and benefits of re-administering CARNITOR ®to individual patients following a severe reaction.
 If the decision is made to re-administer the product, monitor patients for a reoccurrence of signs and symptoms of a severe hypersensitivity reaction.
 
 # PRECAUTIONS
@@ -23,7 +23,7 @@ It is recommended that INR levels be monitored in patients on warfarin therapy a
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Mutagenicity tests performed in Salmonella typhimurium, Saccharomyces cerevisiae, and Schizosaccharomyces pombe indicate that levocarnitine is not mutagenic.
+Mutagenicity tests performed in Salmonella typhimurium, Saccharomyces cerevisiae, and Schizosaccharomyces pombeindicate that levocarnitine is not mutagenic.
 No long-term animal studies have been performed to evaluate the carcinogenic potential of levocarnitine.
 
 ## Pregnancy

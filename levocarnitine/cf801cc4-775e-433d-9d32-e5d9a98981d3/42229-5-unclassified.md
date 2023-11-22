@@ -7,8 +7,8 @@ Urinary excretion of levocarnitine was about 4 to 8% of the dose.
 Fecal excretion of total carnitine was less than 1% of the administered dose.
 10
 
-After attainment of steady state following 4 days of oral administration of CARNITOR ® Tablets (1980 mg q12h) or Oral Solution (2000 mg q12h) to 15 healthy male volunteers, the mean urinary excretion of levocarnitine during a single dosing interval (12h) was about 9% of the orally administered dose (uncorrected for endogenous urinary excretion).
+After attainment of steady state following 4 days of oral administration of CARNITOR ®Tablets (1980 mg q12h) or Oral Solution (2000 mg q12h) to 15 healthy male volunteers, the mean urinary excretion of levocarnitine during a single dosing interval (12h) was about 9% of the orally administered dose (uncorrected for endogenous urinary excretion).
 
 # COMPATIBILITY AND STABILITY
 
-CARNITOR ® Injection is compatible and stable when mixed in parenteral solutions of Sodium Chloride 0.9% or Lactated Ringer's in concentrations ranging from 250 mg/500 mL (0.5 mg/mL) to 4200 mg/500 mL (8.0 mg/mL) and stored at room temperature (25°C) for up to 24 hours in PVC plastic bags.
+CARNITOR ®Injection is compatible and stable when mixed in parenteral solutions of Sodium Chloride 0.9% or Lactated Ringer's in concentrations ranging from 250 mg/500 mL (0.5 mg/mL) to 4200 mg/500 mL (8.0 mg/mL) and stored at room temperature (25°C) for up to 24 hours in PVC plastic bags.

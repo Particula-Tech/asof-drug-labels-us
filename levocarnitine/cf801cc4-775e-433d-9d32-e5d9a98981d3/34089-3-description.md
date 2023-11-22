@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-CARNITOR ® (levocarnitine) is a carrier molecule in the transport of long-chain fatty acids across the inner mitochondrial membrane.
+CARNITOR ®(levocarnitine) is a carrier molecule in the transport of long-chain fatty acids across the inner mitochondrial membrane.
 
 The chemical name of levocarnitine is 3-carboxy-2(R)-hydroxy-N,N,N-trimethyl-1-propanaminium, inner salt.
 Levocarnitine is a white crystalline, hygroscopic powder.
@@ -12,5 +12,5 @@ Empirical Formula: C 7H 15NO 3
 
 Molecular Weight: 161.20
 
-CARNITOR ® (levocarnitine) Injection is a sterile aqueous solution containing 1 g of levocarnitine per 5 mL vial.
+CARNITOR ®(levocarnitine) Injection is a sterile aqueous solution containing 1 g of levocarnitine per 5 mL vial.
 The pH is adjusted to 6.0 - 6.5 with hydrochloric acid or sodium hydroxide.

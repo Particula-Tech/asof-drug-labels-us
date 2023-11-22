@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-CARNITOR ® Injection is administered intravenously.
+CARNITOR ®Injection is administered intravenously.
 
 ## Metabolic Disorders
 

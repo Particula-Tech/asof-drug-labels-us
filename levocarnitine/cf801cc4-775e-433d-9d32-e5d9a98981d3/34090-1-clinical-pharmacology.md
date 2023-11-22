@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-CARNITOR ® (levocarnitine) is a naturally occurring substance required in mammalian energy metabolism.
+CARNITOR ®(levocarnitine) is a naturally occurring substance required in mammalian energy metabolism.
 It has been shown to facilitate long-chain fatty acid entry into cellular mitochondria, thereby delivering substrate for oxidation and subsequent energy production.
 Fatty acids are utilized as an energy substrate in all tissues except the brain.
 In skeletal and cardiac muscle, fatty acids are the main substrate for energy production.
@@ -11,9 +11,9 @@ The literature reports that carnitine can promote the excretion of excess organi
 1-6
 
 Secondary carnitine deficiency can be a consequence of inborn errors of metabolism or iatrogenic factors such as hemodialysis.
-CARNITOR ® may alleviate the metabolic abnormalities of patients with inborn errors that result in accumulation of toxic organic acids.
+CARNITOR ®may alleviate the metabolic abnormalities of patients with inborn errors that result in accumulation of toxic organic acids.
 Conditions for which this effect has been demonstrated are: glutaric aciduria II, methyl malonic aciduria, propionic acidemia, and medium chain fatty acylCoA dehydrogenase deficiency.
-7,8 Autointoxication occurs in these patients due to the accumulation of acylCoA compounds that disrupt intermediary metabolism.
+7,8Autointoxication occurs in these patients due to the accumulation of acylCoA compounds that disrupt intermediary metabolism.
 The subsequent hydrolysis of the acylCoA compound to its free acid results in acidosis which can be life-threatening.
 Levocarnitine clears the acylCoA compound by formation of acylcarnitine, which is quickly excreted.
 Carnitine deficiency is defined biochemically as abnormally low plasma concentrations of free carnitine, less than 20 µmol/L at one week post term and may be associated with low tissue and/or urine concentrations.
@@ -23,4 +23,4 @@ In premature infants and newborns, secondary deficiency is defined as plasma lev
 End Stage Renal Disease (ESRD) patients on maintenance hemodialysis may have low plasma carnitine concentrations and an increased ratio of acylcarnitine/carnitine because of reduced intake of meat and dairy products, reduced renal synthesis and dialytic losses.
 Certain clinical conditions common in hemodialysis patients such as malaise, muscle weakness, cardiomyopathy and cardiac arrhythmias may be related to abnormal carnitine metabolism.
 
-Pharmacokinetic and clinical studies with CARNITOR ® have shown that administration of levocarnitine to ESRD patients on hemodialysis results in increased plasma levocarnitine concentrations.
+Pharmacokinetic and clinical studies with CARNITOR ®have shown that administration of levocarnitine to ESRD patients on hemodialysis results in increased plasma levocarnitine concentrations.
