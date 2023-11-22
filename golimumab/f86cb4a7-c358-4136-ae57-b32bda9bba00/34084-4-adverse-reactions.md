@@ -91,13 +91,13 @@ Less Common Clinical Trial Adverse Drug Reactions
 
 Adverse drug reactions that occurred <1% in SIMPONI-treated patients during the SIMPONI clinical trials that do not appear in the Warnings and Precautions section included the following events listed by system organ class:
 
-Infections and infestations: Septic shock, atypical mycobacterial infection, pyelonephritis, arthritis bacterial, bursitis infective
+Infections and infestations:Septic shock, atypical mycobacterial infection, pyelonephritis, arthritis bacterial, bursitis infective
 
-Neoplasms benign, malignant and unspecified: Leukemia
+Neoplasms benign, malignant and unspecified:Leukemia
 
-Skin and subcutaneous tissue disorders: Psoriasis (new onset or worsening, palmar/plantar and pustular), vasculitis (cutaneous)
+Skin and subcutaneous tissue disorders:Psoriasis (new onset or worsening, palmar/plantar and pustular), vasculitis (cutaneous)
 
-Vascular disorders: Vasculitis (systemic)
+Vascular disorders:Vasculitis (systemic)
 
 Other Clinical Trial Adverse Drug Reactions in Ulcerative Colitis Clinical Trials
 
@@ -142,10 +142,10 @@ Although the development of antibodies to golimumab did not preclude clinical re
 The following adverse reactions have been identified during post-approval use of golimumab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to SIMPONI exposure.
 
-Immune system disorders: Serious systemic hypersensitivity reactions (including anaphylactic reaction) [see Warnings and Precautions (5.11)], sarcoidosis
+Immune system disorders:Serious systemic hypersensitivity reactions (including anaphylactic reaction) [see Warnings and Precautions (5.11)], sarcoidosis
 
-Neoplasms benign, malignant and unspecified: Melanoma, Merkel cell carcinoma [see Warnings and Precautions (5.2)]
+Neoplasms benign, malignant and unspecified:Melanoma, Merkel cell carcinoma [see Warnings and Precautions (5.2)]
 
-Respiratory, thoracic and mediastinal disorders: Interstitial lung disease
+Respiratory, thoracic and mediastinal disorders:Interstitial lung disease
 
 Skin and subcutaneous tissue disorders: Skin exfoliation, lichenoid reactions, rash, bullous skin reactions

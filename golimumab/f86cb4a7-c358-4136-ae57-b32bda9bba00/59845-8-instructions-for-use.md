@@ -1,27 +1,33 @@
-# Instructions for Use
+# INSTRUCTIONS FOR USE
 
-SIMPONI ® (SIM-po-nee) (golimumab) SmartJect ® autoinjector
+SIMPONI ®(SIM-po-nee) (golimumab) injection, for subcutaneous use
 
-Important
-
-If your doctor decides that you or a caregiver may be able to give your SIMPONI injections at home, you should receive training on the right way to prepare and inject SIMPONI using SmartJect.
-
-Do not try to inject SIMPONI yourself until you have been shown the right way to give the injections by your doctor or nurse.
+This Instructions for Use contains information on how to inject SIMPONI using the SmartJect Autoinjector.
 
 Please read this Instructions for Use before using SIMPONI SmartJect and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or your treatment.
 
-|  | Store SIMPONI in the refrigerator at 36°F to 46°F (2°C to 8°C). |
+Important information
+
+If your doctor decides that you or a caregiver may be able to give your SIMPONI injections at home, you should receive training on the right way to prepare and inject SIMPONI using SmartJect.
+
+Do nottry to inject SIMPONI yourself until you have been shown the right way to give the injections by your doctor or nurse.
+
+Do not pinch the skin while injecting.Pinching the skin can cause failure of the device and injury, including needlestick injury.
+
+Do notinject into the arm to avoid failure of the device or injury.
+
+|  | Store SIMPONI in the refrigerator at 36°F to 46°F(2°C to 8°C). |
 | --- | --- |
+
+Do notfreeze SmartJect.
+
+Do notshake SmartJect.
 
 If needed, store SIMPONI at room temperature, up to 77°F (25°C) for one period of time up to 30 days.
 Do not return it to the refrigerator.
 Throw away (dispose of) if not used within 30 days at room temperature.
-
-Do not freeze SmartJect.
-
-Do not shake SmartJect.
 
 Keep SIMPONI in the original carton to protect from light before use.
 
@@ -30,37 +36,36 @@ Keep SIMPONI and all medicines out of the reach of children.
 Your SmartJect at-a-glance
 
 1.
-Prepare for your injection
+Preparing to inject SIMPONI using Smartject
 
 Take out SmartJect
 
 Take SmartJect out of the refrigerator and remove it from the carton.
 Place on a flat surface out of reach of children.
 
-SmartJect should sit at room temperature for at least 30 minutes to ensure proper injection.
+SmartJect should sit at room temperature for at least 30 minutesto ensure proper injection.
 
-Do not warm any other way.
+Do notwarm any other way.
 
-Do not remove the cap yet.
+Do notremove the cap yet.
 
 Inspect SmartJect
 
 Check the expiration date ('EXP') on the back of SmartJect.
 
-Do not use SIMPONI SmartJect if the expiration date has passed.
-Call your doctor or pharmacist for a refill.
+Do not use SIMPONI SmartJect if the expiration date has passed.Call your doctor or pharmacist for a refill.
 
 Check the security seal on the cap.
 
-Do not inject if the seal is broken.
+Do notinject if the seal is broken.
 
 Gather supplies
 
 While SmartJect sits at room temperature for 30 minutes, gather your supplies:
 
 - 1 Alcohol swab
-- 1 Cotton ball or gauze pad
-- 1 Sharps container (See Step 3)
+- 1 Cotton ballor gauze pad
+- 1 Sharpscontainer (See Step 3)
 
 Check liquid in the SmartJect
 
@@ -69,87 +74,88 @@ It should be clear to slightly yellow and may contain tiny white or clear partic
 
 It is also normal to see a small air bubble.
 
-Do not inject if the liquid is cloudy or discolored, or has large particles.
+Do notinject if the liquid is cloudy or discolored, or has large particles.
+
+Do notinject into the arm to avoid failure of the device or injury.
 
 Choose injection site
 
 Select from the following areas for your injection:
 
 - Front of thighs
-- Lower abdomen (do not use the 2-inch area around your navel (belly-button)
-- Do not inject into the arms
+- Lower abdomen (do notuse the 2-inch area around your navel (belly-button)
+- Do notinject into the arms
 
 Choose a different site within your preferred area for each injection.
 
-Do not inject into skin that is tender, bruised, red, scaly or hard.
+Do notinject into skin that is tender, bruised, red, scaly or hard.
+Avoid areas with scars or stretch marks.
 
-Do not inject into areas with scars or stretch marks.
+Wash hands and clean injection site
 
-Clean injection site Wash your hands well with soap and warm water.
+Wash your hands well with soap and warm water.
 
 Wipe your chosen injection site with an alcohol swab and allow it to dry.
 
-Do not touch, fan or blow on the injection site after you have cleaned it.
+Do nottouch, fan or blow on the injection site after you have cleaned it.
 
 2.
-Inject SIMPONI using SmartJect
+Injecting SIMPONI using SmartJect
 
 Remove cap
 
 Twist the cap to break the security seal, then pull it straight off.
 Dispose of the cap right away.
 
-It is important to inject within 5 minutes of removing the cap.
+It is important to inject within 5 minutesof removing the cap.
 
-Do not put the cap back on, this may damage the hidden needle.
+Do notput the cap back on, this may damage the hidden needle.
 
-Do not inject if SmartJect is dropped without the cap on.
+Do notinject if SmartJect is dropped withoutthe cap on.
 
-Do not pinch the skin.
+Do not pinch the skin while injecting.Pinching the skin can cause failure of the device and injury, including needlestick injury.
 
 Position
 
-Hold SmartJect comfortably and position it straight onto your skin, as shown.
+Hold SmartJect comfortably with one hand above the blue buttonand position it straight onto your skin, as shown.
 
-Make sure the green safety sleeve is flat against your skin and that your injection site is as flat as possible.
+Make sure the green safety sleeve is stable and as flat as possible against your skin.
+If the device is not stable during injection, your risk bending the needle.
 
-Do not pinch your skin while positioning SmartJect onto your skin.
+Do notpinch your skin while positioning SmartJect onto your skin.
 
-Do not touch or press the button while positioning the SmartJect onto your skin.
+Do notpinch the skin to avoid injury, including needlestick injury.
 
-Push firmly
+Push down
 
-Push SmartJect firmly against your skin so the green safety sleeve slides into the clear cover.
+Push the open end of SmartJect against your skin at a 90-degree angle.
+Apply enough pressure to slide the green safety sleeve up and to keep it inside the clear cover.
+Only the wider part of the green safety sleeve stays outside of the clear cover.
 
-Do not touch or press the button while pushing SmartJect against your skin.
+Do nottouch or press the blue button while pushing SmartJect against your skin.
 
 The green safety sleeve helps prevent accidental injections.
 
-You will not be able to press the button to start your injection until SmartJect is pushed firmly enough against your skin for the green safety sleeve to slide into the clear cover.
+Pushing the blue button before the safety sleeve is pressed down can lead to device failure.
+
+Inject without pinching the skin.
 
 Press button and wait
 
-Keep holding SmartJect firmly against your skin.
-Use your other hand to press the raised part of the button to start your injection.
+Keep holding SmartJect against your skin.
+Use your other handto press the raised part of the blue buttonto start your injection.
+Do notpress the button until SmartJect is pressed against your skin and the safety sleeve slides into the clear cover.
 
-You will hear a loud 1st 'click' as you press the button.
+You will hear a loud 1st 'click'as you press the button.
 This is normal, the medication is just beginning to be delivered.
 You may or may not feel a needle prick.
 
-Do not lift SmartJect up yet!
-This may result in loss of medication.
-
-After 1 press of the button, you do not need to keep pressure on the button.
-
-Wait for the 2nd 'click' which means your injection is complete.
-
 Listen for 2nd 'click'
 
-Keep holding SmartJect firmly against your skin until you hear the 2nd 'click' (3–15 seconds).
+Keep holding SmartJect against your skin until you hear the 2nd 'click'(or for 15 seconds).
+It usually takes about 3-6 seconds, but may take up to 15 seconds for you to hear the second 'click' sound.
 
 The 2nd 'click' means the injection is complete and you can lift SmartJect from your skin.
-
-If you have trouble hearing the 'clicks', count to 15 after pressing the button, then lift the SmartJect off your skin.
 
 Check the viewing window
 
@@ -161,15 +167,13 @@ If you do not see the yellow indicator, call 800-JANSSEN (800-526-7736).
 Do not administer a second dose without speaking to your doctor.
 
 3.
-After your injection
+Disposing of SIMPONI SmartJect
 
 Dispose of your SmartJect
 
 Put your used SmartJect in an FDA-cleared sharps disposal container right away after use.
 
-Do not throw away (dispose of) loose needles and syringes in your household trash.
-
-Do not recycle your used sharps disposal container.
+Do notrecycle your used sharps disposal container.
 
 For more information, see " Helpful tips".
 
@@ -179,27 +183,27 @@ There may be a small amount of blood or liquid at the injection site.
 
 Hold pressure over your skin with a cotton ball or gauze pad until any bleeding stops.
 
-Do not rub the injection site.
+Do notrub the injection site.
 
 If needed, cover injection site with a bandage.
 Your injection is now complete!
 
 Need help?
 
-Call your doctor to talk about any questions you may have.
+Call your doctor or pharmacist to talk about any questions you may have.
 For additional assistance or to share your feedback call 800-JANSSEN (800-526-7736).
 
-| Helpful tips If you are having difficulty injecting: Make sure the cap is removed. Make sure SmartJect is pushed firmly against your skin. Make sure you are pressing the raised part of button. Try pressing the button a little harder. Try a different injection site. |
+| Helpful tips If you are having difficulty injecting: Make sure the cap is removed.Make sure SmartJect is pushed against your skin, so the green safety sleeve slides into the clear cover.Make sure you are pressing the raised part of button. If the button is hard to depress, do not press the button harder. Let go of the button, then lift SmartJect and start again. Ensure no pressure is on the button until the green safety sleeve is fully depressed against the skin, then press the button.Try a different injection site. |
 | --- |
 
-| Additional disposal information:If you do not have an FDA-cleared sharps disposal container, you may use a household container that is: • made of a heavy-duty plastic• can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out• upright and stable during use• leak-resistant• properly labeled to warn of hazardous waste inside the containerWhen your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles and syringes. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: www.fda.gov/safesharpsdisposal |
+| Additional Disposal InformationIf you do not have an FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plasticcan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come outupright and stable during useleak-resistantproperly labeled to warn of hazardous waste inside the container When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles and syringes.For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: www.fda.gov/safesharpsdisposal |
 | --- |
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044 US License No. 1864
+Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044, USA US License No. 1864
 
-Revised: March 2023
+Revised: November 2023
 
 Instructions for Use SIMPONI ® (SIM-po-nee) (golimumab) Prefilled Syringe
 
@@ -222,15 +226,15 @@ After injection, the needle will retract into the body of the device and lock in
 
 Storage information
 
-Store SIMPONI in the refrigerator at 36° to 46°F (2° to 8°C).
+Store SIMPONI in the refrigerator at 36° to 46°F(2° to 8°C).
 
 If needed, store SIMPONI at room temperature, up to 77°F (25°C) for one period of time up to 30 days.
 Do not return it to the refrigerator.
 Throw away if not used within 30 days at room temperature.
 
-Do not freeze SIMPONI prefilled syringe.
+Do notfreeze SIMPONI prefilled syringe.
 
-Do not shake SIMPONI prefilled syringe.
+Do notshake SIMPONI prefilled syringe.
 
 Keep SIMPONI prefilled syringe in the original carton to protect from light before use.
 
@@ -244,36 +248,36 @@ After use
 
 | You will need these supplies: 1 SIMPONI prefilled syringe |
 | --- |
-| Not provided in the SIMPONI prefilled syringe carton: 1 Alcohol swab1 Cotton ball or gauze pad1 Adhesive bandage1 Sharps container (See Step 3) |
+| Not provided in the SIMPONI prefilled syringe carton: 1 Alcohol swab1 Cotton ballor gauze pad1 Adhesive bandage1 Sharps container(See Step 3) |
 
 Inspect carton
 
 Remove your SIMPONI prefilled syringe carton from the refrigerator.
 
-Remove the prefilled syringe from the carton and let it sit on a flat surface at room temperature for at least 30 minutes before use.
+Remove the prefilled syringe from the carton and let it sit on a flat surface at room temperature for at least 30 minutesbefore use.
 
-Do not warm the prefilled syringe any other way.
+Do notwarm the prefilled syringe any other way.
 
-Check the expiration date ('EXP') on the back panel of the carton and on the prefilled syringe (through the viewing window).
+Check the expiration date ('EXP')on the back panel of the carton and on the prefilled syringe (through the viewing window).
 
-Do not use your prefilled syringe if the expiration date has passed.
+Do notuse your prefilled syringe if the expiration date has passed.
 
-Do not inject SIMPONI if the perforations on the carton are broken.
+Do notinject SIMPONI if the perforations on the carton are broken.
 Call your healthcare provider or pharmacist for a refill.
 
 Choose injection site
 
 Select from the following areas for your injection:
 
-- Front of thighs (recommended)
+- Front of thighs(recommended)
 - Lower stomach area (lower abdomen), except for a 2-inch area right around your navel (belly-button)
 - Back of upper arms (only if someone else is giving you the injection)
 
 Choose a different site within your preferred area for each injection.
 
-Do not inject into skin that is tender, bruised, red, hard, thick or scaly.
+Do notinject into skin that is tender, bruised, red, hard, thick or scaly.
 
-Do not inject into areas with scars or stretch marks.
+Do notinject into areas with scars or stretch marks.
 
 Clean injection site
 
@@ -281,7 +285,7 @@ Wash your hands well with soap and warm water.
 
 Wipe your chosen injection site with an alcohol swab and allow it to dry.
 
-Do not touch, fan, or blow on the injection site after you have cleaned it.
+Do nottouch, fan, or blow on the injection site after you have cleaned it.
 
 Inspect liquid
 
@@ -290,7 +294,7 @@ It should be clear to slightly yellow and may contain tiny white or clear partic
 You may also see one or more air bubbles.
 This is normal.
 
-Do not inject if the liquid is cloudy or discolored, or has large particles.
+Do notinject if the liquid is cloudy or discolored, or has large particles.
 Call your healthcare provider or pharmacist for a refill.
 
 Remove needle cover
@@ -300,23 +304,23 @@ It is normal to see a drop of liquid.
 
 Inject SIMPONI within 5 minutes of removing the needle cover.
 
-Do not put needle cover back on, as this may damage the needle or cause a needle stick injury.
+Do notput needle cover back on, as this may damage the needle or cause a needle stick injury.
 
-Do not touch needle or let it touch any surface.
+Do nottouch needle or let it touch any surface.
 
-Do not use a SIMPONI prefilled syringe if it is dropped.
+Do notuse a SIMPONI prefilled syringe if it is dropped.
 Call your healthcare provider or pharmacist for a refill.
 
 Position fingers and insert needle
 
 Place your thumb, index and middle fingers directly under the finger flange, as shown.
 
-Do not touch plunger or area above finger flange as this may cause the needle safety device to activate.
+Do nottouch plunger or area above finger flange as this may cause the needle safety device to activate.
 
 Use your other hand to pinch skin at the injection site.
 Position syringe at about a 45 degree angle to the skin.
 
-It is important to pinch enough skin to inject under the skin and not into the muscle.
+It is important to pinch enough skin to inject under the skinand not into the muscle.
 
 Insert needle with a quick, dart-like motion.
 
@@ -336,9 +340,9 @@ Dispose of your prefilled syringe
 
 Put your used SIMPONI prefilled syringe in an FDA-cleared sharps disposal container right away after use.
 
-Do not throw away (dispose of) your SIMPONI prefilled syringe in your household trash.
+Do notthrow away (dispose of) your SIMPONI prefilled syringe in your household trash.
 
-Do not recycle your used sharps disposal container.
+Do notrecycle your used sharps disposal container.
 
 For more information, see " How should I dispose of the used prefilled syringe?"
 
@@ -347,7 +351,7 @@ Check injection site
 There may be a small amount of blood or liquid at the injection site.
 Hold pressure over your skin with a cotton ball or gauze pad until any bleeding stops.
 
-Do not rub the injection site.
+Do notrub the injection site.
 
 If needed, cover injection site with a bandage.
 

@@ -228,7 +228,7 @@ Table 7: Trial AS ─ Median Percent Improvement in ASAS Components at Week 14
 | Baseline | 7.1 | 7.1 |
 | Week 14 | 6% | 59% |
 
-| Figure 3: Trial AS – Percentage of AS Patients Achieving ASAS 20 Response by Visit: Randomized Patients The same patients may not have responded at each timepoint. |
+| Figure 3:Trial AS – Percentage of AS Patients Achieving ASAS 20 Response by Visit: Randomized Patients The same patients may not have responded at each timepoint. |
 | --- |
 
 ## 14.4 Ulcerative Colitis
@@ -272,7 +272,7 @@ Table 8: The Proportion of Patients with UC in Clinical Response, Clinical Remis
 | Trial UC-1 (6-Week Induction Trial) |  |  |  |
 | --- | --- | --- | --- |
 |  | Placebo N=251 | SIMPONI 200/100 mg N=253 | Treatment difference (95% C.I.) |
-| Clinical response Patients who had a prohibited change in concomitant UC medication, an ostomy or colectomy, discontinued trial agent due to lack of therapeutic effect, or a dose adjustment in Trial UC-2 were considered not to be in clinical response, clinical remission or have an improvement in endoscopic appearance of the mucosa from the time of the event onward. at Week 6 | 30% | 51% | 21% (12%, 29%) p<0.0001; |
+| Clinical response Patients who had a prohibited change in concomitant UC medication, an ostomy or colectomy, discontinued trial agent due to lack of therapeutic effect, or a dose adjustment in Trial UC-2 were considered not to be in clinical response, clinical remission or have an improvement in endoscopic appearance of the mucosa from the time of the event onward.at Week 6 | 30% | 51% | 21% (12%, 29%) p<0.0001; |
 | Clinical remission at Week 6 | 6% | 18% | 11% (6%, 17%) |
 | Improvement of endoscopic appearance of the mucosa at Week 6 | 29% | 42% | 14% (5%, 22%) p=0.0014; |
 | Trial UC-2 (54-Week Maintenance Trial) Results in Trial UC-2 are based on patients who were in clinical response to SIMPONI at trial entry. |  |  |  |

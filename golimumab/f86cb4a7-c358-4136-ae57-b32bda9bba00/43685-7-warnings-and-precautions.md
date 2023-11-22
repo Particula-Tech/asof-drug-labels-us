@@ -6,7 +6,7 @@ Patients treated with SIMPONI are at increased risk for developing serious infec
 
 Opportunistic infections due to bacterial, mycobacterial, invasive fungal, viral, or parasitic organisms including aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, histoplasmosis, legionellosis, listeriosis, pneumocystosis, and tuberculosis have been reported with TNF blockers.
 Patients have frequently presented with disseminated rather than localized disease.
-The concomitant use of a TNF blocker and abatacept or anakinra was associated with a higher risk of serious infections; therefore, the concomitant use of SIMPONI and these biologic products is not recommended [see Warnings and Precautions (5.6, 5.7) and Drug Interactions (7.2)].
+The concomitant use of a TNF blocker and abatacept or anakinra was associated with a higher risk of serious infections; therefore, the concomitant use of SIMPONI and these biologic products is not recommended [see Warnings and Precautions (5.6, 5.7)and Drug Interactions (7.2)].
 
 Treatment with SIMPONI should not be initiated in patients with an active infection, including clinically important localized infections.
 Patients greater than 65 years of age, patients with co-morbid conditions and/or patients taking concomitant immunosuppressants such as corticosteroids or methotrexate may be at greater risk of infection.
@@ -92,7 +92,7 @@ The risks and benefits of TNF-blocker treatment, including SIMPONI, should be co
 In the controlled portions of clinical trials of TNF blockers, including SIMPONI, more cases of lymphoma have been observed among patients receiving anti-TNF treatment compared with patients in the control groups.
 During the controlled portions of the Phase 2 trials in RA, and the Phase 3 trials in RA, PsA and AS, the incidence of lymphoma per 100 patient-years of follow-up was 0.21 (95% CI: 0.03, 0.77) in the combined SIMPONI group compared with an incidence of 0 (95% CI: 0, 0.96) in the placebo group.
 In the controlled and uncontrolled portions of these clinical trials in 2347 SIMPONI-treated patients with a median follow-up of 1.4 years, the incidence of lymphoma was 3.8-fold higher than expected in the general U.S. population according to the SEER database (adjusted for age, gender, and race).
-1 Through Week 60 of the UC trials, there were no cases of lymphoma with SIMPONI.
+1Through Week 60 of the UC trials, there were no cases of lymphoma with SIMPONI.
 Patients with RA and other chronic inflammatory diseases, particularly patients with highly active disease and/or chronic exposure to immunosuppressant therapies, may be at higher risk (up to several fold) than the general population for the development of lymphoma, even in the absence of TNF-blocking therapy.
 Cases of acute and chronic leukemia have been reported with TNF-blocker use, including SIMPONI, in rheumatoid arthritis and other indications.
 Even in the absence of TNF-blocker therapy, patients with rheumatoid arthritis may be at a higher risk (approximately 2-fold) than the general population for the development of leukemia.
@@ -107,9 +107,9 @@ A risk for the development for hepatosplenic T-cell lymphoma in patients treated
 
 During the controlled portions of the Phase 2 trial in RA, and the Phase 3 trials in RA, PsA and AS, the incidence of malignancies other than lymphoma per 100 patient-years of follow-up was not elevated in the combined SIMPONI group compared with the placebo group.
 In the controlled and uncontrolled portions of these trials, the incidence of malignancies, other than lymphoma, in SIMPONI-treated patients was similar to that expected in the general U.S. population according to the SEER database (adjusted for age, gender, and race).
-1 In the 6-week placebo-controlled portions of the SIMPONI Phase 2/3 clinical trials in UC, the incidence of non-lymphoma malignancies (excluding nonmelanoma skin cancer) was similar between the SIMPONI and the placebo group.
+1In the 6-week placebo-controlled portions of the SIMPONI Phase 2/3 clinical trials in UC, the incidence of non-lymphoma malignancies (excluding nonmelanoma skin cancer) was similar between the SIMPONI and the placebo group.
 Through Week 60, the incidence of non-lymphoma malignancies (excluding nonmelanoma skin cancer) was similar to the general U.S. population according to the SEER database (adjusted for age, gender, and race).
-1 Short follow-up periods, such as those of one year or less in the studies above, may not adequately reflect the true incidence of malignancies.
+1Short follow-up periods, such as those of one year or less in the studies above, may not adequately reflect the true incidence of malignancies.
 
 It is not known if SIMPONI treatment influences the risk for developing dysplasia or colon cancer.
 All patients with ulcerative colitis who are at increased risk for dysplasia or colon carcinoma (for example, patients with long-standing ulcerative colitis or primary sclerosing cholangitis), or who had a prior history of dysplasia or colon carcinoma should be screened for dysplasia at regular intervals before therapy and throughout their disease course.

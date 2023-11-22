@@ -27,7 +27,7 @@ NDC 57894-070-02
 
 FOR SUBCUTANEOUS INJECTION
 
-Sterile solution in a single-dose SmartJect ® autoinjector.
+Sterile solution in a single-dose SmartJect ®autoinjector.
 
 Discard unused portion.
 
@@ -43,7 +43,7 @@ Simponi ® golimumab
 
 50 mg / 0.5 mL
 
-One single-dose SmartJect ® autoinjector
+One single-dose SmartJect ®autoinjector
 
 # PRINCIPAL DISPLAY PANEL - 100 mg/mL Syringe Carton
 
@@ -74,7 +74,7 @@ NDC 57894-071-02
 
 FOR SUBCUTANEOUS INJECTION
 
-Sterile solution in a single-dose SmartJect ® autoinjector.
+Sterile solution in a single-dose SmartJect ®autoinjector.
 
 Discard unused portion.
 
@@ -90,4 +90,4 @@ Simponi ® golimumab
 
 100 mg/mL
 
-One single-dose SmartJect ® autoinjector
+One single-dose SmartJect ®autoinjector

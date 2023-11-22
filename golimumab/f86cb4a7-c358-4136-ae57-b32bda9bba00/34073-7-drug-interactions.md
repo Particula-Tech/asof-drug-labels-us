@@ -3,7 +3,7 @@
 ## 7.1 Methotrexate
 
 For the treatment of RA, SIMPONI should be used with methotrexate (MTX) [see Clinical Studies (14.1)].
-Since the presence or absence of concomitant MTX did not appear to influence the efficacy or safety of SIMPONI in the treatment of PsA or AS, SIMPONI can be used with or without MTX in the treatment of PsA and AS [see Clinical Studies (14.2, 14.3) and Clinical Pharmacology (12.3)].
+Since the presence or absence of concomitant MTX did not appear to influence the efficacy or safety of SIMPONI in the treatment of PsA or AS, SIMPONI can be used with or without MTX in the treatment of PsA and AS [see Clinical Studies (14.2, 14.3)and Clinical Pharmacology (12.3)].
 
 ## 7.2 Biological Products for RA, PsA, and/or AS
 
@@ -18,7 +18,7 @@ Live vaccines should not be given concurrently with SIMPONI [see Warnings and Pr
 Therapeutic infectious agents should not be given concurrently with SIMPONI [see Warnings and Precautions (5.10)].
 
 Infants born to women treated with SIMPONI during their pregnancy may be at increased risk of infection for up to 6 months.
-Administration of live vaccines to infants exposed to SIMPONI in utero is not recommended for 6 months following the mother's last SIMPONI injection during pregnancy [see Use in Specific Populations (8.1)].
+Administration of live vaccines to infants exposed to SIMPONI in uterois not recommended for 6 months following the mother's last SIMPONI injection during pregnancy [see Use in Specific Populations (8.1)].
 
 ## 7.4 Cytochrome P450 Substrates
 

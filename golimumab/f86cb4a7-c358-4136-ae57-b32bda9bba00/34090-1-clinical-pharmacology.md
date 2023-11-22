@@ -10,7 +10,7 @@ Golimumab did not lyse human monocytes expressing transmembrane TNF in the prese
 Elevated TNFα levels in the blood, synovium, and joints have been implicated in the pathophysiology of several chronic inflammatory diseases such as rheumatoid arthritis, psoriatic arthritis, and ankylosing spondylitis.
 TNFα is an important mediator of the articular inflammation that is characteristic of these diseases.
 The exact mechanism by which golimumab treats ulcerative colitis is unknown.
-Golimumab modulated the in vitro biological effects mediated by TNF in several bioassays, including the expression of adhesion proteins responsible for leukocyte infiltration (E-selectin, ICAM-1 and VCAM-1) and the secretion of proinflammatory cytokines (IL-6, IL-8, G-CSF and GM-CSF).
+Golimumab modulated the in vitrobiological effects mediated by TNF in several bioassays, including the expression of adhesion proteins responsible for leukocyte infiltration (E-selectin, ICAM-1 and VCAM-1) and the secretion of proinflammatory cytokines (IL-6, IL-8, G-CSF and GM-CSF).
 
 ## 12.2 Pharmacodynamics
 
@@ -23,7 +23,7 @@ Absorption
 Following subcutaneous administration of SIMPONI to healthy subjects and patients with active RA, the median time to reach maximum serum concentrations (T max) ranged from 2 to 6 days.
 A subcutaneous injection of 50-mg SIMPONI to healthy subjects produced a mean ± standard deviation maximum serum concentration (C max) of 3.2 ± 1.4 mcg/mL.
 
-By cross-trial comparisons of mean AUC inf values following an IV or subcutaneous administration of SIMPONI, the absolute bioavailability of subcutaneous SIMPONI was estimated to be approximately 53%.
+By cross-trial comparisons of mean AUC infvalues following an IV or subcutaneous administration of SIMPONI, the absolute bioavailability of subcutaneous SIMPONI was estimated to be approximately 53%.
 
 Distribution
 
@@ -56,7 +56,7 @@ With concomitant use of methotrexate (MTX), treatment with 50-mg SIMPONI subcuta
 Patients with RA, PsA, and AS treated with SIMPONI 50 mg and MTX had approximately 52%, 36% and 21% higher mean steady-state trough concentrations of golimumab, respectively compared with those treated with SIMPONI 50 mg without MTX.
 The presence of MTX also decreased anti-golimumab antibody incidence from 7% to 2% [see Adverse Reactions (6.1)].
 For RA, SIMPONI should be used with MTX.
-In the PsA and AS trials, the presence or absence of concomitant MTX did not appear to influence clinical efficacy and safety parameters [see Drug Interactions (7.1) and Clinical Studies (14.1)].
+In the PsA and AS trials, the presence or absence of concomitant MTX did not appear to influence clinical efficacy and safety parameters [see Drug Interactions (7.1)and Clinical Studies (14.1)].
 
 When induction doses of 200-mg and 100-mg SIMPONI at week 0 and 2, respectively, followed by maintenance doses of 100-mg SIMPONI every 4 weeks were administered subcutaneously in patients with UC, serum golimumab concentrations reached steady-state by week 8 after the first maintenance dose.
 Treatment with 100-mg SIMPONI subcutaneous every 4 weeks during maintenance resulted in a mean steady-state trough serum concentration of approximately 1.8 ± 1.1 mcg/mL.

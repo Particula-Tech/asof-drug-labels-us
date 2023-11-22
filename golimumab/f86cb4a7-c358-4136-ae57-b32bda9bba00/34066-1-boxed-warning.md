@@ -2,7 +2,7 @@
 
 SERIOUS INFECTIONS
 
-Patients treated with SIMPONI ® are at increased risk for developing serious infections that may lead to hospitalization or death [see Warnings and Precautions (5.1)].
+Patients treated with SIMPONI ®are at increased risk for developing serious infections that may lead to hospitalization or death [see Warnings and Precautions (5.1)].
 Most patients who developed these infections were taking concomitant immunosuppressants such as methotrexate or corticosteroids.
 
 Discontinue SIMPONI if a patient develops a serious infection.
@@ -25,4 +25,4 @@ Monitor patients closely for the development of signs and symptoms of infection 
 
 MALIGNANCY
 
-Lymphoma and other malignancies, some fatal, have been reported in children and adolescent patients treated with TNF blockers, of which SIMPONI is a member [see Warnings and Precautions (5.2)].
+Lymphoma and other malignancies, some fatal, have been reported in children and adolescent patients treated with TNF blockers, of which SIMPONI is a member[seeWarnings and Precautions (5.2)].

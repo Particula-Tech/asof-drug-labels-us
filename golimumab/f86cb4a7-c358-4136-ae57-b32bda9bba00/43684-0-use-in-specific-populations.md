@@ -5,7 +5,7 @@
 Risk Summary
 
 There are no adequate and well-controlled trials of SIMPONI in pregnant women.
-Monoclonal antibodies, such as golimumab, are transported across the placenta during the third trimester of pregnancy and may affect immune response in the in utero exposed infant [see Clinical Considerations].
+Monoclonal antibodies, such as golimumab, are transported across the placenta during the third trimester of pregnancy and may affect immune response in the in uteroexposed infant [see Clinical Considerations].
 In an animal reproductive study, golimumab administered by the subcutaneous route to pregnant monkeys, during the period of organogenesis, at doses that produced exposures approximately 360 times the maximum recommended human dose (MRHD) had no adverse fetal effects [see Data].
 In a pre- and post-natal development study with pregnant monkeys, subcutaneous administration of golimumab, during the later gestational and lactation periods, at doses producing maximal maternal blood concentrations approximately 460 times those found with the MRHD had no adverse developmental effects on infants [see Data].
 SIMPONI should be used during pregnancy only if clearly needed.
@@ -21,7 +21,7 @@ Fetal/Neonatal Adverse Reactions
 Golimumab crosses the placenta during pregnancy.
 Another TNF-blocking monoclonal antibody administered during pregnancy was detected for up to 6 months in the serum of infants.
 Consequently, these infants may be at increased risk of infection.
-Administration of live vaccines to infants exposed to SIMPONI in utero is not recommended for 6 months following the mother's last SIMPONI injection during pregnancy [see Warnings and Precautions (5.10) and Drug Interactions (7.3)].
+Administration of live vaccines to infants exposed to SIMPONI in uterois not recommended for 6 months following the mother's last SIMPONI injection during pregnancy [see Warnings and Precautions (5.10)and Drug Interactions (7.3)].
 
 Data
 
@@ -61,8 +61,8 @@ Effectiveness of SIMPONI in pediatric patients less than 18 years of age has not
 The safety and efficacy of SIMPONI were evaluated in a multicenter, placebo-controlled, double-blind, randomized-withdrawal, parallel group study in 173 children (2 to 17 years of age) with active polyarticular juvenile idiopathic arthritis (pJIA) despite treatment with MTX for at least 3 months.
 Subjects were maintained on their stable dose of MTX at the same dose (mg/week) at study entry.
 Concurrent use of stable doses of oral corticosteroids (≤10 mg/day or 0.2 mg/kg/day prednisone or equivalent, whichever was less) and/or NSAIDs was permitted.
-In the 16 week open-label phase, all patients received MTX and SIMPONI 30 mg/m 2 (maximum 50 mg) subcutaneously every 4 weeks.
-Patients who achieved an ACR Ped 30 response at Week 16 entered the randomized-withdrawal phase of the study and received MTX and either SIMPONI 30 mg/m 2 (maximum 50 mg) or placebo every 4 weeks through Week 48.
+In the 16 week open-label phase, all patients received MTX and SIMPONI 30 mg/m 2(maximum 50 mg) subcutaneously every 4 weeks.
+Patients who achieved an ACR Ped 30 response at Week 16 entered the randomized-withdrawal phase of the study and received MTX and either SIMPONI 30 mg/m 2(maximum 50 mg) or placebo every 4 weeks through Week 48.
 
 The primary endpoint of the study was the proportion of patients who did not experience a flare between Week 16 and Week 48, among all subjects who entered the randomized withdrawal phase.
 The efficacy of SIMPONI in the treatment of pJIA was not demonstrated in this study because there was no statistical evidence of differences in flare rate between SIMPONI-treated patients and placebo patients between Weeks 16 and 48.

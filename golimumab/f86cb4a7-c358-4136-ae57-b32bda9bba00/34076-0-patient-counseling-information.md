@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide and Instructions for Use)
+See FDA-approved patient labeling (Medication Guideand Instructions for Use)
 
 Patients should be advised of the potential benefits and risks of SIMPONI.
 Physicians should instruct their patients to read the Medication Guide before starting SIMPONI therapy and to read it each time the prescription is renewed.
