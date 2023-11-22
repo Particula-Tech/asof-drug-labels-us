@@ -20,7 +20,7 @@ Absorption
 
 Dexmethylphenidate hydrochloride extended-release capsules produce a bi-modal plasma concentration-time profile (i.e., 2 distinct peaks approximately 4 hours apart) when orally administered to healthy adults.
 The initial rate of absorption for dexmethylphenidate hydrochloride extended-release capsules is similar to that of dexmethylphenidate hydrochloride tablets as shown by the similar rate parameters between the 2 formulations, i.e., first peak concentration (Cmax1), and time to the first peak (tmax1), which is reached in 1.5 hours (typical range 1 to 4 hours).
-The mean time to the interpeak minimum (tminip) is slightly shorter, and time to the second peak (tmax2) is slightly longer for dexmethylphenidate hydrochloride extended-release capsules given once daily (about 6.5 hours, range 4.5 to 7 hours) compared to dexmethylphenidate hydrochloride tablets given in 2 doses 4 hours apart (see Figure 1), although the ranges observed are greater for dexmethylphenidate hydrochloride extended-release capsules.
+The mean time to the interpeak minimum (tminip) is slightly shorter, and time to the second peak (tmax2) is slightly longer for dexmethylphenidate hydrochloride extended-release capsules given once daily (about 6.5 hours; range, 4.5 to 7 hours) compared to dexmethylphenidate hydrochloride tablets given in 2 doses 4 hours apart (see Figure 1), although the ranges observed are greater for dexmethylphenidate hydrochloride extended-release capsules.
 
 Dexmethylphenidate hydrochloride extended-release capsules given once daily exhibits a lower second peak concentration (Cmax2), higher interpeak minimum concentrations (Cminip), and fewer peak and trough fluctuations than dexmethylphenidate hydrochloride tablets given in 2 doses given 4 hours apart.
 This is due to an earlier onset and more prolonged absorption from the delayed-release beads (see Figure 1).
@@ -93,5 +93,5 @@ Drug Interaction Studies
 
 Methylphenidate is not metabolized by cytochrome P450 (CYP) isoenzymes to a clinically relevant extent.
 Inducers or inhibitors of CYPs are not expected to have any relevant impact on methylphenidate pharmacokinetics.
-Conversely, the d- and l-enantiomers of methylphenidate did not relevantly inhibit CYP1A2, 2C8, 2C9, 2C19, 2D6, 2E1 or 3A.
+Conversely, the d- and l-enantiomers of methylphenidate did not relevantly inhibit CYP1A2, 2C8, 2C9, 2C19, 2D6, 2E1, or 3A.
 Clinically, methylphenidate co-administration did not increase plasma concentrations of the CYP2D6 substrate desipramine.

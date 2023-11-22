@@ -5,13 +5,13 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including dexmethylphenidate hydrochloride extended-release capsules, during pregnancy.
-Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for ADHD medications at 1-866-961-2388 or visit https://womensmentalhealth.org/adhd­-medications/.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for ADHD medications at 1-866-961-2388 or visiting https://womensmentalhealth.org/adhd­-medications/.
 
 Risk Summary
 
 Dexmethylphenidate is the d-threo enantiomer of racemic methylphenidate.
 Published studies and postmarketing reports on methylphenidate use during pregnancy have not identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
-There may be risks to the fetus associated with the use of CNS stimulants use during pregnancy (see Clinical Considerations).
+There may be risks to the fetus associated with the use of CNS stimulants during pregnancy (see Clinical Considerations).
 Embryo-fetal development studies in rats showed delayed fetal skeletal ossification at doses up to 5 times the maximum recommended human dose (MRHD) of 20 mg/day given to adults based on plasma levels.
 A decrease in pup weight in males was observed in a pre- and post-natal development study with oral administration of methylphenidate to rats throughout pregnancy and lactation at doses 5 times the MRHD of 20 mg/day given to adults based on plasma levels (see Data).
 
@@ -43,7 +43,7 @@ Racemic methylphenidate has been shown to cause malformations (increased inciden
 Risk Summary
 
 Dexmethylphenidate is the d-threo enantiomer of racemic methylphenidate.
-Limited published literature, based on milk sampling from seven mothers reports that methylphenidate is present in human milk, which resulted in infant doses of 0.16% to 0.7% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 1.1 and 2.7.
+Limited published literature, based on milk sampling from seven mothers' reports that methylphenidate is present in human milk, which resulted in infant doses of 0.16% to 0.7% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 1.1 and 2.7.
 There are no reports of adverse effects on the breastfed infant and no effects on milk production.
 Long-term neurodevelopmental effects on infants from stimulant exposure are unknown.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for dexmethylphenidate hydrochloride extended-release capsules and any potential adverse effects on the breastfed infant from dexmethylphenidate hydrochloride extended-release capsules or from the underlying maternal condition.
@@ -54,12 +54,13 @@ Monitor breastfeeding infants for adverse reactions, such as agitation, insomnia
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of dexmethylphenidate hydrochloride extended-release in pediatric patients less than 6 years have not been established.
+The safety and effectiveness of dexmethylphenidate hydrochloride extended-release for the treatment of ADHD have been established in pediatric patients aged 6 to 17 years in two adequate and well-controlled clinical trials [see Clinical Studies (14.2)].
 
-The safety and effectiveness of dexmethylphenidate hydrochloride extended-release for the treatment of ADHD have been established in pediatric patients ages 6 to 17 years in two adequate and well-controlled clinical trials [see Clinical Studies (14.2)].
+The safety and effectiveness of dexmethylphenidate hydrochloride extended-release in pediatric patients aged less than 6 years have not been established.
+
 The long-term efficacy of dexmethylphenidate hydrochloride extended-release in pediatric patients has not been established.
 
-Long-Term Suppression of Growth
+Long Term Suppression of Growth
 
 Growth should be monitored during treatment with stimulants, including dexmethylphenidate hydrochloride extended-release.
 Pediatric patients who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.7)].
@@ -71,7 +72,7 @@ A deficit in acquisition of a specific learning task was observed in females onl
 The doses at which these findings were observed are at least 6 times the MRHD of 60 mg/day given to children on a mg/m2 basis.
 
 In a study conducted in young rats, racemic methylphenidate was administered orally at doses of up to 100 mg/kg/day for 9 weeks, starting early in the postnatal period (postnatal Day 7) and continuing through sexual maturity (postnatal Week 10).
-When these animals were tested as adults (postnatal Weeks 13 to 14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day [approximately 4 times the MRHD of 60 mg/day of racemic methylphenidate given to children on a mg/m2 basis] or greater, and a deficit in the acquisition of a specific learning task was seen in females exposed to the highest dose (8 times the MRHD given to children on a mg/m2 basis).
+When these animals were tested as adults (postnatal Weeks 13 to 14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day (approximately 4 times the MRHD of 60 mg/day of racemic methylphenidate given to children on a mg/m2 basis) or greater, and a deficit in the acquisition of a specific learning task was seen in females exposed to the highest dose (8 times the MRHD given to children on a mg/m2 basis).
 The no effect level for juvenile neurobehavioral development in rats was 5 mg/kg/day (approximately 0.5 times the MRHD given to children on a mg/m2 basis).
 The clinical significance of the long-term behavioral effects observed in rats is unknown.
 
