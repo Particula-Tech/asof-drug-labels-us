@@ -10,7 +10,7 @@ The Estradiol Transdermal System is indicated for:
 
 ### Limitation of Use
 
-1. When prescribing solely for the treatment of moderate to severe symptoms of vulvar and vaginal atrophy due to menopause, first consider the use of topical vaginal products.
+- When prescribing solely for the treatment of moderate to severe symptoms of vulvar and vaginal atrophy due to menopause, first consider the use of topical vaginal products.
 
 ## 1.3 Treatment of Hypoestrogenism due to Hypogonadism, Castration, or Primary Ovarian Failure
 

@@ -66,7 +66,6 @@ Before you use the Estradiol Transdermal System, tell your healthcare provider a
 - Your healthcare provider will let you know if you need to stop using the Estradiol Transdermal System.
 - •are pregnant or think you may be pregnant.
 - the Estradiol Transdermal System is not for pregnant women.
-
 - •are breastfeeding
 - The hormone in the Estradiol Transdermal System can pass into your breast milk.
 
