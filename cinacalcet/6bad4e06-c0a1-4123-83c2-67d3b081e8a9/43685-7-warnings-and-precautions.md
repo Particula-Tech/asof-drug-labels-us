@@ -2,12 +2,11 @@
 
 ## 5.1 Hypocalcemia
 
-Cinacalcet lowers serum calcium and can lead to hypocalcemia [see Adverse Reactions (6.1)].
-Significant lowering of serum calcium can cause paresthesias, myalgias, muscle spasms, tetany, seizures, QT interval prolongation and ventricular arrhythmia.
+Cinacalcet lowers serum calcium and can lead to hypocalcemia [see Adverse Reactions (6.1)].Significant lowering of serum calcium can cause paresthesias, myalgias, muscle spasms, tetany, seizures, QT interval prolongation and ventricular arrhythmia.
 Life threatening events and fatal outcomes associated with hypocalcemia have been reported in patients treated with cinacalcet tablets, including in pediatric patients.
 The safety and effectiveness of cinacalcet tablets have not been established in pediatric patients [see Pediatric Use (8.4)].
 
-Cinacalcet tablets are not indicated for patients with CKD not on dialysis [see Indications and Usage (1)].
+Cinacalcet tablets are not indicated for patients with CKD not on dialysis [seeIndications and Usage (1)].
 In patients with secondary HPT and CKD not on dialysis, the long term safety and efficacy of cinacalcet tablets have not been established.
 Clinical studies indicate that cinacalcet-treated patients with CKD not on dialysis have an increased risk for hypocalcemia compared with cinacalcet-treated patients with CKD on dialysis, which may be due to lower baseline calcium levels.
 In a phase 3 study of 32 weeks duration and including 404 patients with CKD not on dialysis (302 cinacalcet, 102 placebo), in which the median dose for cinacalcet was 60 mg per day at the completion of the study, 80% of cinacalcet-treated patients experienced at least one serum calcium value < 8.4 mg/dL compared with 5% of patients receiving placebo.
@@ -44,7 +43,7 @@ Patients with risk factors for upper GI bleeding (such as known gastritis, esoph
 Monitor patients for worsening of common GI adverse reactions of nausea and vomiting associated with cinacalcet and for signs and symptoms of GI bleeding and ulcerations during cinacalcet therapy.
 Promptly evaluate and treat any suspected GI bleeding.
 Patients with risk factors for upper GI bleeding (such as known gastritis, esophagitis, ulcers or severe vomiting) may be at increased risk for GI bleeding when receiving cinacalcet treatment.
-Monitor patients for worsening of common GI adverse reactions of nausea and vomiting associated with cinacalcet [see Adverse Reactions (6.1)] and for signs and symptoms of GI bleeding and ulcerations during cinacalcet therapy.
+Monitor patients for worsening of common GI adverse reactions of nausea and vomiting associated with cinacalcet [see Adverse Reactions (6.1)]and for signs and symptoms of GI bleeding and ulcerations during cinacalcet therapy.
 Promptly evaluate and treat any suspected GI bleeding.
 
 ## 5.3 Hypotension, Worsening Heart Failure and/or Arrhythmias

@@ -1,23 +1,13 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-- Hypocalcemia: Advise patients to report symptoms of hypocalcemia, including paresthesias, myalgias, muscle spasms, and seizures, to their healthcare provider [see Warnings and Precautions (5.1)]
-- Upper Gastrointestinal Bleeding: Advise patients to report any symptoms of upper gastrointestinal bleeding to their health care provider [see Warnings and Precautions (5.2)].
-- Heart Failure: Advise patients with heart failure that use of cinacalcet tablets may worsen their heart failure [see Warnings and Precautions (5.3)].
+- Hypocalcemia:Advise patients to report symptoms of hypocalcemia, including paresthesias, myalgias, muscle spasms, and seizures, to their healthcare provider [see Warnings and Precautions (5.1)]
+- Upper Gastrointestinal Bleeding:Advise patients to report any symptoms of upper gastrointestinal bleeding to their health care provider [see Warnings and Precautions (5.2)].
+- Heart Failure:Advise patients with heart failure that use of cinacalcet tablets may worsen their heart failure [see Warnings and Precautions (5.3)].
 - Advise patients to report nausea and vomiting to their health care provider [see Adverse Reactions (6.1)].
 - Advise patients to take cinacalcet tablets with food or shortly after a meal and to take the tablets whole and not divide them [see Dosage and Administration (2.1)].
 - Inform patients of the importance of regular blood tests, in order to monitor the safety and efficacy of cinacalcet tablets therapy.
 
-Manufactured For:
-
-Accord Healthcare, Inc.,
-
-1009 Slater Road,
-
-Suite 210-B,
-
-Durham, NC 27703,
-
-USA.
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By:
 
@@ -33,6 +23,6 @@ Dist.- Ahmedabad – 382 210,
 
 INDIA.
 
-10 2736 2 6014442
+10 2736 3 6026183
 
-Issued December 2021
+Issued October 2023

@@ -5,7 +5,7 @@
 Risk Summary
 
 Limited case reports of cinacalcet use in pregnant women are insufficient to inform a drug associated risk of adverse developmental outcomes.
-In animal reproduction studies, when female rats were exposed to cinacalcet during the period of organogenesis through to weaning at 2-3 times the systemic drug levels (based on AUC) at the maximum recommended human dose (MRHD) of 180 mg/day, peripartum and early postnatal pup loss and reduced pup body weight gain were observed in the presence of maternal hypocalcemia [see Data].
+In animal reproduction studies, when female rats were exposed to cinacalcet during the period of organogenesis through to weaning at 2-3 times the systemic drug levels (based on AUC) at the maximum recommended human dose (MRHD) of 180 mg/day, peripartum and early postnatal pup loss and reduced pup body weight gain were observed in the presence of maternal hypocalcemia [seeData].
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
@@ -57,4 +57,4 @@ No dosage adjustment is necessary for renal impairment [see Clinical Pharmacolog
 
 ## 8.7 Hepatic Impairment
 
-Patients with moderate and severe hepatic impairment should have serum calcium, serum phosphorus, and iPTH levels monitored closely throughout treatment with cinacalcet because cinacalcet exposure (AUC 0-infinite) is increased by 2.4 and 4.2 fold, respectively, in these patients [see Clinical Pharmacology (12.3)].
+Patients with moderate and severe hepatic impairment should have serum calcium, serum phosphorus, and iPTH levels monitored closely throughout treatment with cinacalcet because cinacalcet exposure (AUC 0-infinite) is increased by 2.4 and 4.2 fold, respectively, in these patients [seeClinical Pharmacology (12.3)].

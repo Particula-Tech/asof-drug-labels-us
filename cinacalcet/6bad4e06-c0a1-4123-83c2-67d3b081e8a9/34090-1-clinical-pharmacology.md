@@ -18,14 +18,14 @@ Reductions in PTH are associated with a decrease in bone turnover and bone fibro
 
 Absorption and Distribution
 
-After oral administration of cinacalcet, C max is achieved in approximately 2 to 6 hours.
-Cinacalcet C max and AUC (0-infinite) were increased by 82% and 68%, respectively, following administration with a high-fat meal compared with fasting in healthy volunteers.
-The C max and AUC (0-infinite) of cinacalcet were increased by 65% and 50%, respectively, when cinacalcet was administered with a low-fat meal compared with fasting.
+After oral administration of cinacalcet, C maxis achieved in approximately 2 to 6 hours.
+Cinacalcet C maxand AUC (0-infinite)were increased by 82% and 68%, respectively, following administration with a high-fat meal compared with fasting in healthy volunteers.
+The C maxand AUC (0-infinite)of cinacalcet were increased by 65% and 50%, respectively, when cinacalcet was administered with a low-fat meal compared with fasting.
 
 After absorption, cinacalcet concentrations decline in a biphasic fashion with an initial half-life of approximately 6 hours and terminal half-life of 30 to 40 hours.
 Steady-state drug levels are achieved within 7 days, and the mean accumulation ratio is approximately 2 with once daily oral administration.
 The median accumulation ratio is approximately 2 to 5 with twice daily oral administration.
-The AUC and C max of cinacalcet increase proportionally over the dose range of 30 to 180 mg once daily.
+The AUC and C maxof cinacalcet increase proportionally over the dose range of 30 to 180 mg once daily.
 The pharmacokinetic profile of cinacalcet does not change over time with once daily dosing of 30 to 180 mg.
 The volume of distribution is approximately 1000 L, indicating extensive distribution.
 Cinacalcet is approximately 93% to 97% bound to plasma protein(s).
@@ -42,7 +42,7 @@ Approximately 80% of the dose was recovered in the urine and 15% in the feces.
 
 Specific Populations
 
-Age: Geriatric Population
+Age: GeriatricPopulation
 
 The pharmacokinetic profile of cinacalcet in geriatric patients (age ≥ 65 years, n = 12) is similar to that for patients who are < 65 years of age (n = 268) [see Use in Specific Populations (8.5)].
 

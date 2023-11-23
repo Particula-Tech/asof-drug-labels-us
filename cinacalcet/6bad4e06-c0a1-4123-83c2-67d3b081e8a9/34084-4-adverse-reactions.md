@@ -4,7 +4,7 @@ The following adverse reactions are discussed in greater detail in other section
 
 - Hypocalcemia [see Warnings and Precautions (5.1)]
 - Upper Gastrointestinal Bleeding [see Warnings and Precautions (5.2)]
-- Hypotension, Worsening Heart Failure and/or Arrhythmias [see Warnings and Precautions (5.3)]
+- Hypotension, Worsening Heart Failure and/or Arrhythmias [see Warnings andPrecautions(5.3)]
 - Adynamic Bone Disease [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience

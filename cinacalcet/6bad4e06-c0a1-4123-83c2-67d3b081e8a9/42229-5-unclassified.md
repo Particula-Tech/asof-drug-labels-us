@@ -1,7 +1,7 @@
 ## 2.2 Secondary Hyperparathyroidism in Patients with Chronic Kidney Disease on Dialysis
 
 The recommended starting oral dose of cinacalcet tablet is 30 mg once daily.
-Serum calcium and serum phosphorus should be measured within 1 week and intact parathyroid hormone (iPTH) should be measured 1 to 4 weeks after initiation or dose adjustment of cinacalcet tablets [see Dosage and Administration (2.3)].
+Serum calcium and serum phosphorus should be measured within 1 week and intact parathyroid hormone (iPTH) should be measured 1 to 4 weeks after initiation or dose adjustment of cinacalcet tablets [see Dosage and Administration(2.3)].
 Cinacalcet tablets should be titrated no more frequently than every 2 to 4 weeks through sequential doses of 30, 60, 90, 120, and 180 mg once daily to target iPTH levels of 150 to 300 pg/mL.
 Serum iPTH levels should be assessed no earlier than 12 hours after dosing with cinacalcet tablets.
 
@@ -14,11 +14,11 @@ During dose titration, serum calcium levels should be monitored frequently and i
 The recommended starting oral dose of cinacalcet tablets is 30 mg twice daily.
 
 The dose of cinacalcet tablets should be titrated every 2 to 4 weeks through sequential doses of 30 mg twice daily, 60 mg twice daily, and 90 mg twice daily, and 90 mg 3 or 4 times daily as necessary to normalize serum calcium levels.
-Serum calcium should be measured within 1 week after initiation or dose adjustment of cinacalcet tablets [see Dosage and Administration (2.4) andWarnings and Precautions (5.1)].
+Serum calcium should be measured within 1 week after initiation or dose adjustment of cinacalcet tablets [seeDosage and Administration (2.4) andWarnings and Precautions (5.1)].
 
 ## 2.4 Monitoring for Hypocalcemia
 
-Once the maintenance dose has been established, serum calcium should be measured approximately monthly for patients with secondary hyperparathyroidism with CKD on dialysis, and every 2 months for patients with parathyroid carcinoma or primary hyperparathyroidism [see Dosage and Administration (2.2, 2.3)].
+Once the maintenance dose has been established, serum calcium should be measured approximately monthly for patients with secondary hyperparathyroidism with CKD on dialysis, and every 2 months for patients with parathyroid carcinoma or primary hyperparathyroidism [see Dosage and Administration (2.2,2.3)].
 
 For secondary hyperparathyroidism patients with CKD on dialysis, if serum calcium falls below 8.4 mg/dL but remains above 7.5 mg/dL, or if symptoms of hypocalcemia occur, calcium-containing phosphate binders and/or vitamin D sterols can be used to raise serum calcium.
 If serum calcium falls below 7.5 mg/dL, or if symptoms of hypocalcemia persist and the dose of vitamin D cannot be increased, withhold administration of cinacalcet until serum calcium levels reach 8.0 mg/dL and/or symptoms of hypocalcemia have resolved.

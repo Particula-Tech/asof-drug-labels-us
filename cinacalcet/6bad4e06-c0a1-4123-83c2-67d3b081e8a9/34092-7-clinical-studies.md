@@ -35,7 +35,7 @@ Effects of Cinacalcet on iPTH, Ca x P, Serum Calcium, and Serum Phosphorus in 6-
 |  |  | Median Percent Change |  | +3.8 | -48.3 | +8.4 | -54.1 | +2.3 | -48.2 |
 |  |  | Patients Achieving Primary Endpoint (iPTH ≤ 250 pg/mL) (%) a |  | 4% | 41%** | 7% | 46%** | 6% | 35%** |
 |  |  | Patients Achieving ≥ 30% Reduction in iPTH (%) a |  | 11% | 61% | 12% | 68% | 10% | 59% |
-|  |  | Patients Achieving iPTH ≤ 250 pg/mL and Ca x P < 55 mg 2/dL 2 (%) |  | 1% | 32% | 5% | 35% | 5% | 28% |
+|  |  | Patients Achieving iPTH ≤ 250 pg/mL and Ca x P < 55 mg 2/dL 2(%) |  | 1% | 32% | 5% | 35% | 5% | 28% |
 | Ca x P |  |  |  |  |  |  |  |  |  |
 |  |  | Baseline (mg 2/dL 2) |  | 62 | 61 | 61 | 61 | 61 | 59 |
 |  |  | Evaluation Phase (mg 2/dL 2) |  | 59 | 52 | 59 | 47 | 57 | 48 |
@@ -48,7 +48,7 @@ Effects of Cinacalcet on iPTH, Ca x P, Serum Calcium, and Serum Phosphorus in 6-
 |  | Baseline (mg/dL) |  |  | 6.3 | 6.1 | 6.1 | 6.0 | 6.1 | 6.0 |
 |  | Evaluation Phase (mg/dL) |  |  | 6.0 | 5.6 | 5.9 | 5.1 | 5.6 | 5.3 |
 |  | Median Percent Change |  |  | -1.0 | -9.0 | -2.4 | -12.4 | -5.6 | -8.6 |
-| ** p < 0.001 compared with placebo; p-values presented for primary endpoint only. a iPTH value based on averaging over the evaluation phase (defined as weeks 13 to 26 in studies 1 and 2 and weeks 17 to 26 in study 3). Values shown are medians unless indicated otherwise. |  |  |  |  |  |  |  |  |  |
+| ** p < 0.001 compared with placebo; p-values presented for primary endpoint only. aiPTH value based on averaging over the evaluation phase (defined as weeks 13 to 26 in studies 1 and 2 and weeks 17 to 26 in study 3). Values shown are medians unless indicated otherwise. |  |  |  |  |  |  |  |  |  |
 
 Figure 1.
 Mean (SE) iPTH Values (Pooled Phase 3 Studies)
