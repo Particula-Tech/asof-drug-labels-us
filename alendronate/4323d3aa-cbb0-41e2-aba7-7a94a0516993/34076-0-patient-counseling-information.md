@@ -23,4 +23,4 @@ They should not take two doses on the same day but should return to taking one d
 Medication Guides available at www.northstarrxllc.com/products or call 1-800-206-7821.
 Manufactured for: Northstar Rx LLC Memphis, TN 38141.
 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India.
-M.L.No.: 19/HD/AP/95/F/R Revised: 10/2019
+M.L.No.: 19/HD/AP/95/F/R Revised: 10/2023 Medication Guides available at www.northstarrxllc.com/products or call 1-800-206-7821.

@@ -164,7 +164,6 @@ For more information, call Northstar Rx LLC at 1-800-206-7821.
 What are the ingredients in alendronate sodium tablets?
 Active ingredient: alendronate monosodium salt trihydrate Inactive ingredients: corn starch, magnesium stearate, microcrystalline cellulose, povidone, and sodium starch glycolate.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Medication Guides available at www.northstarrxllc.com/products or call 1-800-206-7821.
 Manufactured for: Northstar Rx LLC Memphis, TN 38141.
 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India.
-M.L.No.: 19/HD/AP/95/F/R Revised: 10/2019
+M.L.No.: 19/HD/AP/95/F/R Revised: 10/2023
