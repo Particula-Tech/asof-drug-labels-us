@@ -7,7 +7,7 @@ As this dose was approached, the following symptoms were observed: nausea, vomit
 A few cases of overdosage have been reported, with complete recovery as the usual outcome.
 No deaths have been reported following overdosage with buspirone hydrochloride tablets alone.
 Rare cases of intentional overdosage with a fatal outcome were invariably associated with ingestion of multiple drugs and/or alcohol, and a causal relationship to buspirone could not be determined.
-Toxicology studies of buspirone yielded the following LD 50 values: mice, 655 mg/kg; rats, 196 mg/kg; dogs, 586 mg/kg; and monkeys, 356 mg/kg.
+Toxicology studies of buspirone yielded the following LD 50values: mice, 655 mg/kg; rats, 196 mg/kg; dogs, 586 mg/kg; and monkeys, 356 mg/kg.
 These dosages are 160 to 550 times the recommended human daily dose.
 
 ## Recommended Overdose Treatment

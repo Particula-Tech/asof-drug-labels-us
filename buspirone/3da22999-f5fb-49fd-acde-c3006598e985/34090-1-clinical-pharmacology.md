@@ -3,8 +3,8 @@
 The mechanism of action of buspirone is unknown.
 Buspirone differs from typical benzodiazepine anxiolytics in that it does not exert anticonvulsant or muscle relaxant effects.
 It also lacks the prominent sedative effect that is associated with more typical anxiolytics.
-In vitro preclinical studies have shown that buspirone has a high affinity for serotonin (5-HT 1A) receptors.
-Buspirone has no significant affinity for benzodiazepine receptors and does not affect GABA binding in vitro or in vivo when tested in preclinical models.
+In vitropreclinical studies have shown that buspirone has a high affinity for serotonin (5-HT 1A) receptors.
+Buspirone has no significant affinity for benzodiazepine receptors and does not affect GABA binding in vitroor in vivowhen tested in preclinical models.
 
 Buspirone has moderate affinity for brain D 2-dopamine receptors.
 Some studies do suggest that buspirone may have indirect effects on other neurotransmitter systems.
@@ -22,12 +22,12 @@ This suggests that food may decrease the extent of presystemic clearance of busp
 A multiple-dose study conducted in 15 subjects suggests that buspirone has nonlinear pharmacokinetics.
 Thus, dose increases and repeated dosing may lead to somewhat higher blood levels of unchanged buspirone than would be predicted from results of single-dose studies.
 
-An in vitro protein binding study indicated that approximately 86% of buspirone is bound to plasma proteins.
+An in vitroprotein binding study indicated that approximately 86% of buspirone is bound to plasma proteins.
 It was also observed that aspirin increased the plasma levels of free buspirone by 23%, while flurazepam decreased the plasma levels of free buspirone by 20%.
 However, it is not known whether these drugs cause similar effects on plasma levels of free buspirone in vivo, or whether such changes, if they do occur, cause clinically significant differences in treatment outcome.
-An in vitro study indicated that buspirone did not displace highly protein-bound drugs such as phenytoin, warfarin, and propranolol from plasma protein, and that buspirone may displace digoxin.
+An in vitrostudy indicated that buspirone did not displace highly protein-bound drugs such as phenytoin, warfarin, and propranolol from plasma protein, and that buspirone may displace digoxin.
 
-Buspirone is metabolized primarily by oxidation, which in vitro has been shown to be mediated by cytochrome P450 3A4 (CYP3A4).
+Buspirone is metabolized primarily by oxidation, which in vitrohas been shown to be mediated by cytochrome P450 3A4 (CYP3A4).
 (See PRECAUTIONS: Drug Interactions.)
 Several hydroxylated derivatives and a pharmacologically active metabolite, 1-pyrimidinylpiperazine (1-PP), are produced.
 In animal models predictive of anxiolytic potential, 1-PP has about one quarter of the activity of buspirone, but is present in up to 20-fold greater amounts.

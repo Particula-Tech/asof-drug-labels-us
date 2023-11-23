@@ -7,7 +7,7 @@ Chemically, buspirone hydrochloride is 8-[4-[4-(2-pyrimidinyl)-1-piperazinyl]but
 The empirical formula C 21H 31N 5O 2• HCl is represented by the following structural formula:
 
 Buspirone hydrochloride is supplied as tablets for oral administration contains 5 mg, 7.5 mg, 10 mg, 15 mg or 30 mg of buspirone hydrochloride, USP.
-The 5 mg, 7.5 mg Note:- Not applicable for divided doses and 10 mg tablets are scored so they can be bisected.
+The 5 mg, 7.5 mg Note:- Not applicable for divided dosesand 10 mg tablets are scored so they can be bisected.
 Thus, the 5 mg tablet can also provide a 2.5 mg dose, and the 10-mg tablet can provide a 5 mg dose.
 The 15 mg tablets are scored such that they may be bisected or trisected.
 Thus, a single tablet can provide the following doses: 15 mg (entire tablet), 10 mg (two-thirds of a tablet), 7.5 mg (one-half of a tablet) or 5 mg (one-third of a tablet).
