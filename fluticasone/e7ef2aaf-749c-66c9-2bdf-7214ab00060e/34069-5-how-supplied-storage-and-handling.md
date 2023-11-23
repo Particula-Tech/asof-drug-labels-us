@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Fluticasone Propionate Ointment, 0.005% is a white to off-white translucent ointment supplied as follows:
+Fluticasone Propionate Ointment, USP 0.005% is a white to off-white translucent ointment supplied as follows:
 
 15 g tubes (NDC 0713-0632-15) 30 g tubes (NDC 0713-0632-31) 60 g tubes (NDC 0713-0632-60)
 

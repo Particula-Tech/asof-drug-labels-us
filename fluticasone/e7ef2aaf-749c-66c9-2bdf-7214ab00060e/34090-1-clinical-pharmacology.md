@@ -2,11 +2,11 @@
 
 ## 12.1 Mechanism of Action
 
-Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action of Fluticasone Propionate Ointment, 0.005% in corticosteroid-responsive dermatoses is unknown.
+Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action of fluticasone propionate ointment, 0.005% in corticosteroid-responsive dermatoses is unknown.
 
 ## 12.2 Pharmacodynamics
 
-Vasoconstrictor Assay Studies performed with Fluticasone Propionate Ointment, 0.005% indicate that it is in the medium range of potency as demonstrated in vasoconstrictor trials in healthy subjects when compared with other topical corticosteroids.
+Vasoconstrictor Assay Studies performed with fluticasone propionate ointment, 0.005% indicate that it is in the medium range of potency as demonstrated in vasoconstrictor trials in healthy subjects when compared with other topical corticosteroids.
 However, similar blanching scores do not necessarily imply therapeutic equivalence.
 
 ## 12.3 Pharmacokinetics

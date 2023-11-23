@@ -5,7 +5,7 @@
 Pregnancy Category C
 
 There are no adequate and well-controlled studies in pregnant women.
-Therefore, Fluticasone Propionate Ointment, 0.005% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Therefore, fluticasone propionate ointment, 0.005% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Systemic embryofetal development studies were conducted in mice, rats and rabbits.
 
@@ -31,15 +31,15 @@ Fluticasone propionate crossed the placenta following administration of a subcut
 
 Systemically administered corticosteroids appear in human milk and can suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
 It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when Fluticasone Propionate Ointment, 0.005% is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when fluticasone propionate ointment, 0.005% is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Fluticasone Propionate Ointment, 0.005% have not been established in pediatric patients.
-Use of Fluticasone Propionate Ointment, 0.005% in pediatric patients is not recommended.
+The safety and effectiveness of fluticasone propionate ointment, 0.005% have not been established in pediatric patients.
+Use of fluticasone propionate ointment, 0.005% in pediatric patients is not recommended.
 
 Because of a higher ratio of skin surface area to body mass, pediatric patients are at a greater risk than adults of systemic effects when treated with topical drugs.
-They are, therefore, also at greater risk of HPA axis suppression and adrenal insufficiency upon the use of topical corticosteroids [see Warnings and Precautions (5.1)].
+They are, therefore, also at greater risk of HPA axis suppression and adrenal insufficiency upon the use of topical corticosteroids [see Warnings andPrecautions (5.1)].
 
 In a trial of 35 pediatric subjects treated with fluticasone propionate ointment, 0.005% for atopic dermatitis over at least 35% of body surface area, subnormal adrenal function was observed with cosyntropin stimulation testing at the end of 3 to 4 weeks of treatment in 4 subjects who had normal testing prior to treatment.
 It is not known if these subjects had recovery of adrenal function because follow-up testing was not performed.
@@ -52,6 +52,6 @@ HPA axis suppression, Cushing’s syndrome, linear growth retardation, delayed w
 
 ## 8.5 Geriatric Use
 
-A limited number of patients above 65 years of age (n = 203) have been treated with Fluticasone Propionate Ointment, 0.005% in US and non-US clinical trials.
+A limited number of patients above 65 years of age (n = 203) have been treated with fluticasone propionate ointment, 0.005% in US and non-US clinical trials.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 However, greater sensitivity of some older individuals cannot be ruled out.
