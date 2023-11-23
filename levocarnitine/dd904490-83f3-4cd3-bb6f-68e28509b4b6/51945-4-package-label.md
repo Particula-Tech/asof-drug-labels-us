@@ -2,7 +2,7 @@
 
 NDC 54482-148-01
 
-CARNITOR® SF (levocarnitine) Sugar-Free Oral Solution
+CARNITOR ®SF (levocarnitine) Sugar-Free Oral Solution
 
 118 mL (4 fl. oz.)
 
@@ -28,9 +28,9 @@ Distributed by: Leadiant Biosciences, Inc., Gaithersburg, MD 20878
 # PRINCIPAL DISPLAY PANEL - 118 mL Bottle Label - NDC 54482-148-02
 
 118 mL (4 fl. oz.)
-NDC 54482-148-02
+NDC 54482- 148-02
 
-CARNITOR® SF levocarnitine oral solution USP sugar-free
+CARNITOR ®SF levocarnitine oral solution USP sugar-free
 
 1 g/10 mL
 
