@@ -47,9 +47,7 @@ Lactation Advise breastfeeding women using LEXAPRO to monitor infants for excess
 Distributed by: Abbvie Inc. 1 N Waukegan Rd.
 North Chicago, IL 60064
 
-Licensed from H. Lundbeck A/S
-
-©2023 AbbVie.
+Licensed from H. Lundbeck A/S ©2023 AbbVie.
 All rights reserved.
-
-20079286
+LEXAPRO and its design are trademarks of H. Lundbeck A/S, used under license by AbbVie.
+20079286 R1
