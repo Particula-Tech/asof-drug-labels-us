@@ -10,5 +10,5 @@ Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
 
 Distributed by: Cosette Pharmaceuticals, Inc. South Plainfield, NJ 07080
 
-VC7554 Rev.
-05/2021 8-0339CPLNC2
+VC7643 Rev.
+06/2022 8-0339CPLNC3
