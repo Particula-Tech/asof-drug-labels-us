@@ -1,31 +1,3 @@
-NDC 0713-0222-15
-
-Fluocinolone Acetonide Cream USP 0.025%
-
-15 g
-
-FOR EXTERNAL USE ONLY
-
-NOT FOR OPHTHALMIC USE
-
-Rx only
-
-G&W Laboratories, Inc.
-
-NDC 0713-0222-60
-
-Fluocinolone Acetonide Cream USP 0.025%
-
-60 g
-
-FOR EXTERNAL USE ONLY
-
-NOT FOR OPHTHALMIC USE
-
-Rx only
-
-G&W Laboratories, Inc.
-
 # Principal Display Panel
 
 NDC 0713-0223-15

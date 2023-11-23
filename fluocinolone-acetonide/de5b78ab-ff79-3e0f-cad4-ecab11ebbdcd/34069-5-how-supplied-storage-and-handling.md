@@ -1,14 +1,10 @@
 # HOW SUPPLIED
 
-Fluocinolone Acetonide Cream 0.01% USP is supplied in: 15 g tubes NDC 0713-0223-15, 60 g tubes NDC 0713-0223-60
+Fluocinolone Acetonide Cream, USP 0.01% is supplied in: 15 g tubes NDC 0713-0223-15, and 60 g tubes NDC 0713-0223-60
 
-Fluocinolone Acetonide Cream 0.025% USP is supplied in: 15 g tubes NDC 0713-0222-15, 60 g tubes NDC 0713-0222-60
+Fluocinolone Acetonide Ointment, USP 0.025% USP is supplied in: 15 g tubes NDC 0713-0224-15, and 60 g tubes NDC 0713-0224-60
 
-Fluocinolone Acetonide Ointment 0.025% USP is supplied in: 15 g tubes NDC 0713-0224-15, 60 g tubes NDC 0713-0224-60
-
-Rx Only
-
-Store at controlled room temperature 15°-30° C (59°-86° F).
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Distributed by: Cosette Pharmaceuticals, Inc. South Plainfield, NJ 07080
 
