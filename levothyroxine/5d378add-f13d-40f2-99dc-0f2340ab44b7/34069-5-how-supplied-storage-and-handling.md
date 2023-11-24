@@ -1,14 +1,15 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
+## How Supplied
 
 TIROSINT-SOL (levothyroxine sodium) oral solution is a clear, colorless to slightly yellow solution supplied in a 1 mL white, non-transparent, unit-dose ampule.
 The dosage strength is identified on the box and the pouch, and is associated with a distinct color.
-Each ampule bears a colored label with the dosage strength and the product name (TIROSINT-SOL).
+Each ampule bears a colored label with the dosage strength and the product name (TIROSINT-SOL) (Table 10).
 
-Table 7: TIROSINT-SOL Packaging Description
+Table 10.
+TIROSINT-SOL Solution Strengths and Packaging Description
 
-| Strength (mcg/mL) | Color Shown on box, pouch and ampule. | Box NDC (30 Unit-Dose Ampules) | Pouch NDC (5 Unit-Dose Ampules) |
+| Strength (mcg/mL) | Color a | Box NDC (30 Unit-Dose Ampules) | Pouch NDC (5 Unit-Dose Ampules) |
 | --- | --- | --- | --- |
 | 13 | Green | 71858-0105-5 | 71858-0105-4 |
 | 25 | Orange | 71858-0110-5 | 71858-0110-4 |
@@ -26,9 +27,9 @@ Table 7: TIROSINT-SOL Packaging Description
 | 175 | Lilac | 71858-0155-5 | 71858-0155-4 |
 | 200 | Pink | 71858-0160-5 | 71858-0160-4 |
 
-## 16.2 Storage and Handling
+## Storage and Handling
 
-Store TIROSINT-SOL in the original container (closed pouch) at 20°C to 25°C (68 °F to 77°F); excursions permitted to 15°-30°C (59-86°F) [See USP Controlled Room Temperature].
+Store TIROSINT-SOL in the original container (closed pouch) at 20°C to 25°C (68°F to 77°F); excursions permitted to 15° to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
 
 Use TIROSINT-SOL oral solution within three (3) months after opening the pouch.
 Keep the ampules in the pouch until ready to use as important information may be lost (i.e., manufacturer/distributor names and distributor contact phone number).

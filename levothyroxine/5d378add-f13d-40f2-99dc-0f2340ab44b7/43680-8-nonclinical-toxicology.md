@@ -2,4 +2,5 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Animal studies have not been performed to evaluate the carcinogenic potential, mutagenic potential or effects on fertility of levothyroxine sodium.
+Long-term carcinogenicity studies in animals to evaluate the carcinogenic potential of levothyroxine have not been performed.
+Studies to evaluate mutagenic potential and animal fertility have not been performed.

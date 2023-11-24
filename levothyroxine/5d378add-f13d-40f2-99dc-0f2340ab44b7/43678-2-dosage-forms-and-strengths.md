@@ -1,7 +1,10 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
 TIROSINT-SOL oral solution is a clear, colorless to slightly yellow solution supplied in a 1 mL white, non-transparent, unit-dose ampule.
-Each ampule bears a colored label with the dosage strength and the product name (TIROSINT-SOL):
+Each ampule bears a colored label with the dosage strength and the product name (TIROSINT-SOL) (Table 4).
+
+Table 4.
+TIROSINT-SOL Solution Strengths and Identifying Features
 
 | Strength (mcg/mL) | Color |
 | --- | --- |

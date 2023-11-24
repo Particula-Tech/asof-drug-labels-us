@@ -24,6 +24,10 @@ Dietary fiber decreases the bioavailability of T4.
 Absorption may also decrease with age.
 In addition, many drugs and foods affect T4 absorption [see Drug Interactions (7)].
 
+Effect of Food
+
+No clinically significant differences in levothyroxine pharmacokinetics were observed between Tirosint-SOL administered 15 minutes and 30 minutes before a high-fat high-calorie meal (about 800 – 1000 kcal, 50% fat) [see Dosage and Administration (2.1)].
+
 Distribution
 
 Circulating thyroid hormones are greater than 99% bound to plasma proteins, including thyroxine-binding globulin (TBG), thyroxine-binding prealbumin (TBPA), and thyroxine-binding albumin (TBA), whose capacities and affinities vary for each hormone.
@@ -37,7 +41,7 @@ Elimination
 
 Metabolism
 
-T4 is slowly eliminated (see Table 6).
+T4 is slowly eliminated (Table 9).
 The major pathway of thyroid hormone metabolism is through sequential deiodination.
 Approximately 80% of circulating T3 is derived from peripheral T4 by monodeiodination.
 The liver is the major site of degradation for both T4 and T3, with T4 deiodination also occurring at a number of additional sites, including the kidney and other tissues.
@@ -52,9 +56,14 @@ A portion of the conjugated hormone reaches the colon unchanged and is eliminate
 Approximately 20% of T4 is eliminated in the stool.
 Urinary excretion of T4 decreases with age.
 
-Table 6: Pharmacokinetic Parameters of Thyroid Hormones in Euthyroid Patients
+Table 9.
+Pharmacokinetic Parameters of Thyroid Hormones in Euthyroid Patients
 
-| Hormone | Ratio in Thyroglobulin | Biologic Potency | Half-Life (Days) | Protein Binding (%) Includes TBG, TBPA and TBA. |
+| Hormone | Ratio in Thyroglobulin | Biologic Potency | Half-Life (Days) | Protein Binding (%)* |
 | --- | --- | --- | --- | --- |
-| Levothyroxine (T4) | 10 – 20 | 1 | 6 – 7 3 – 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism. | 99.96 |
+| Levothyroxine (T4) | 10 – 20 | 1 | 6 – 7** | 99.96 |
 | Liothyronine (T3) | 1 | 4 | ≤ 2 | 99.5 |
+
+Drug Interaction Study
+
+No clinically significant differences in TIROSINT-SOL pharmacokinetics were observed when orally coadministered with omeprazole.

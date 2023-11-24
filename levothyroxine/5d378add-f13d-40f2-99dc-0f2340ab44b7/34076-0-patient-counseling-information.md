@@ -5,8 +5,8 @@ Advise the patient and/or caregiver to read the FDA-approved patient labeling (P
 Dosing and Administration
 
 - Instruct patients to take TIROSINT-SOL only as directed by their healthcare provider.
-- Instruct patients to take TIROSINT-SOL one-half to one hour before breakfast.
-- Instruct patients about the TIROSINT-SOL dosing instructions [see Dosage and Administration (2.1)].
+- Instruct patients to take TIROSINT-SOL 15 minutes before breakfast.
+- Instruct patients about the TIROSINT-SOL dosing instructions.
 - Inform patients that agents such as iron and calcium supplements and antacids can decrease the absorption of levothyroxine.
   Instruct patients not to take TIROSINT-SOL within 4 hours of these agents.
 - Instruct patients to notify their healthcare provider should they become pregnant or are thinking of becoming pregnant while taking TIROSINT-SOL.
@@ -17,7 +17,7 @@ Important Information
 - Inform patients that the levothyroxine in TIROSINT-SOL is intended to replace a hormone that is normally produced by the thyroid gland.
   Generally, replacement therapy is to be taken for life.
 - Inform patients that TIROSINT-SOL should not be used as a primary or adjunctive therapy in a weight control program.
-- Instruct patients to notify their healthcare provider if they are taking any other medications, including prescription and over-the-counter preparations [see Drug Interactions (7)].
+- Instruct patients to notify their healthcare provider if they are taking any other medications, including prescription and over-the-counter preparations.
 - Instruct patients to notify their healthcare provider of any other medical conditions, particularly heart disease, diabetes, clotting disorders, and adrenal or pituitary gland problems, as the dose of medications used to control these other conditions may need to be adjusted while taking TIROSINT-SOL.
   If they have diabetes, instruct patients to monitor their blood and/or urinary glucose levels as directed by their physician and immediately report any changes to their physician.
   If patients are taking anticoagulants, their clotting status should be checked frequently.

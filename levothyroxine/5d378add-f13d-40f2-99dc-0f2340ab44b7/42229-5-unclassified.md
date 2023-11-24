@@ -1,5 +1,3 @@
-Rx Only
-
 Manufactured for IBSA Pharma Inc. by:
 
 IBSA Institut Biochimique SA 6912 Pazzallo Switzerland

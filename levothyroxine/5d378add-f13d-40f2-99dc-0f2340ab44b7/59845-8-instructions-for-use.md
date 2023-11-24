@@ -68,4 +68,7 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufacturer: IBSA Institut Biochimique SA, 6912 Pazzallo, Switzerland Marketed and Distributed by: IBSA Pharma Inc., Parsippany, NJ 07054 USA
 
-Issued: 10/2022
+Issued: November 2023
+
+FI/169 (USA) 5000003397 Rev.
+05 11.23

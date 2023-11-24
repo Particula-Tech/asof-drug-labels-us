@@ -1,4 +1,4 @@
-# WARNING: NOT FOR TREATMENT OF OBESITY or FOR WEIGHT LOSS
+# WARNING: NOT FOR TREATMENT OF OBESITY OR FOR WEIGHT LOSS
 
 - Thyroid hormones, including TIROSINT-SOL, either alone or with other therapeutic agents, should not be used for the treatment of obesity or for weight loss.
 - In euthyroid patients, doses within the range of daily hormonal requirements are ineffective for weight reduction.
