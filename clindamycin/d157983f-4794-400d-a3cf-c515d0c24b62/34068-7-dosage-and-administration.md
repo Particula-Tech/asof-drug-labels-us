@@ -4,7 +4,7 @@ If diarrhea occurs during therapy, this antibiotic should be discontinued (see W
 
 Clindamycin phosphate IM administration should be used undiluted.
 
-1. Clindamycin phosphate IV administration should be diluted (see Dilution for IV use and IV infusion rates below).
+Clindamycin phosphate IV administration should be diluted (see Dilution for IV use and IV infusion rates below).
 
 ## Adults
 
