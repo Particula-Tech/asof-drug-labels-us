@@ -47,4 +47,4 @@ Advise patients that there is a pregnancy registry that monitors pregnancy outco
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-02-2020-16
+11-2023-17

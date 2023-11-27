@@ -6,7 +6,7 @@ Carcinogenesis
 
 Lifetime carcinogenicity studies were conducted in ICR mice, F344 rats, and Sprague-Dawley (SD) rats.
 Aripiprazole was administered for 2 years in the diet at doses of 1, 3, 10, and 30 mg/kg/day to ICR mice and 1, 3, and 10 mg/kg/day to F344 rats (0.2, 0.5, 2 and 5 times and 0.3, 1 and 3 times the MRHD of 30 mg/day based on mg/m2 body surface area, respectively).
-In addition, SD rats were dosed orally for 2 years at 10, 20, 40, and 60 mg/kg/day which are 3, 6, 13 and 19 times the MRHD based on mg/m2 body surface area.
+In addition, SD rats were dosed orally for 2 years at 10, 20, 40, and 60 mg/kg/day, which are 3, 6, 13 and 19 times the MRHD based on mg/m2 body surface area.
 Aripiprazole did not induce tumors in male mice or male rats.
 In female mice, the incidences of pituitary gland adenomas and mammary gland adenocarcinomas and adenoacanthomas were increased at dietary doses of 3 to 30 mg/kg/day (0.5 to 5 times the MRHD).
 In female rats, the incidence of mammary gland fibroadenomas was increased at a dietary dose of 10 mg/kg/day (3 times the MRHD); and the incidences of adrenocortical carcinomas and combined adrenocortical adenomas/carcinomas were increased at an oral dose of 60 mg/kg/day (19 times the MRHD).
@@ -35,8 +35,7 @@ Disturbances in spermatogenesis were seen at 19 times the MRHD and prostate atro
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Aripiprazole produced retinal degeneration in albino rats in a 26-week chronic toxicity study at a dose of 60 mg/kg/day and in a 2-year carcinogenicity study at doses of 40 mg/kg and 60 mg/kg.
-The 40 and 60 mg/kg/day which are 13 and 19 times the MRHD of 30 mg/day based on mg/m2 body surface area.
+Aripiprazole produced retinal degeneration in albino rats in a 26-week chronic toxicity study at a dose of 60 mg/kg/day and in a 2-year carcinogenicity study at doses of 40 mg/kg/day and 60 mg/kg/day which are 13 and 19 times the MRHD of 30 mg/day based on mg/m2 body surface area.
 Evaluation of the retinas of albino mice and of monkeys did not reveal evidence of retinal degeneration.
 Additional studies to further evaluate the mechanism have not been performed.
 The relevance of this finding to human risk is unknown.

@@ -39,12 +39,12 @@ An examination of population subgroups did not reveal any clear evidence of diff
 
 A longer-term trial enrolled 310 inpatients or outpatients meeting DSM-IV criteria for schizophrenia who were, by history, symptomatically stable on other antipsychotic medications for periods of 3 months or longer.
 These patients were discontinued from their antipsychotic medications and randomized to aripiprazole 15 mg/day or placebo for up to 26 weeks of observation for relapse.
-Relapse during the double-blind phase was defined as CGI-Improvement score of ≥5 (minimally worse), scores ≥5 (moderately severe) on the hostility or uncooperativeness items of the PANSS, or ≥20% increase in the PANSS total score.
+Relapse during the double-blind phase was defined as CGI-Improvement score of >5 (minimally worse), scores >5 (moderately severe) on the hostility or uncooperativeness items of the PANSS, or >20% increase in the PANSS total score.
 Patients receiving aripiprazole 15 mg/day experienced a significantly longer time to relapse over the subsequent 26 weeks compared to those receiving placebo (Study 5 in Figure 6).
 
 Pediatric Patients
 
-The efficacy of aripiprazole in the treatment of schizophrenia in pediatric patients (13 to 17 years of age) was evaluated in one 6-week, placebo-controlled trial of outpatients who met DSM-IV criteria for schizophrenia and had a PANSS score ≥70 at baseline.
+The efficacy of aripiprazole in the treatment of schizophrenia in pediatric patients (13 to 17 years of age) was evaluated in one 6-week, placebo-controlled trial of outpatients who met DSM-IV criteria for schizophrenia and had a PANSS score >70 at baseline.
 In this trial (n=302) comparing two fixed doses of aripiprazole (10 mg/day or 30 mg/day) to placebo, aripiprazole was titrated starting from 2 mg/day to the target dose in 5 days in the 10 mg/day treatment arm and in 11 days in the 30 mg/day treatment arm.
 Both doses of aripiprazole were superior to placebo in the PANSS total score (Study 6 in Table 26), the primary outcome measure of the study.
 The 30 mg/day dosage was not shown to be more efficacious than the 10 mg/day dose.
@@ -69,7 +69,7 @@ Table 26: Schizophrenia Studies
 |  | Aripiprazole (5 mg/day) | 92.0 (12.6) | -10.6 (1.93) | -5.2 (-10.7, 0.19) |
 |  | Aripiprazole (10 mg/day)† | 90 (11.9) | -11.3 (1.88) | -5.9 (-11.3, -0.58) |
 |  | Placebo | 90.8 (13.3) | -5.3 (1.97) | -- |
-| Study 6 (Pediatric, 13 to 17 years) | Aripiprazole (10 mg/day)† | 93.6 (15.7) | -26.7 (1.91) | -5.5 (-10.7, -0.21) |
+| Study 6 (Pediatric, 13 to 17 years) | Aripiprazole (10 mg/day)† | 93.6 (15.7) | -26 (1.91) | -5.5 (-10.7, -0.21) |
 | Aripiprazole (30 mg/day)† | 94 (16.1) | -28.6 (1.92) | -7.4 (-12.7, -2.13) |  |
 | Placebo | 94.6 (15.6) | -21.2 (1.93) | -- |  |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. * Difference (drug minus placebo) in least-squares mean change from baseline. † Doses statistically significantly superior to placebo. |  |  |  |  |
@@ -100,13 +100,13 @@ The efficacy of adjunctive aripiprazole with concomitant lithium or valproate in
 This study included patients with manic or mixed episodes and with or without psychotic features.
 
 Patients were initiated on open-label lithium (0.6 mEq/L to 1 mEq/L) or valproate (50 mcg/mL to 125 mcg/mL) at therapeutic serum levels, and remained on stable doses for 2 weeks.
-At the end of 2 weeks, patients demonstrating inadequate response (Y-MRS total score ≥16 and ≤25% improvement on the Y-MRS total score) to lithium or valproate were randomized to receive either aripiprazole (15 mg/day or an increase to 30 mg/day as early as day 7) or placebo as adjunctive therapy with open-label lithium or valproate.
+At the end of 2 weeks, patients demonstrating inadequate response (Y-MRS total score >16 and <25% improvement on the Y-MRS total score) to lithium or valproate were randomized to receive either aripiprazole (15 mg/day or an increase to 30 mg/day as early as day 7) or placebo as adjunctive therapy with open-label lithium or valproate.
 In the 6-week, placebo-controlled phase, adjunctive aripiprazole starting at 15 mg/day with concomitant lithium or valproate (in a therapeutic range of 0.6 mEq/L to 1 mEq/L or 50 mcg/mL to 125 mcg/mL, respectively) was superior to lithium or valproate with adjunctive placebo in the reduction of the Y-MRS total score (Study 5 in Table 27) and CGI-BP Severity of Illness score (mania).
 Seventy-one percent of the patients co-administered valproate and 62% of the patients co-administered lithium were on 15 mg/day at 6-week endpoint.
 
 Pediatric Patients
 
-The efficacy of aripiprazole in the treatment of bipolar I disorder in pediatric patients (10 to 17 years of age) was evaluated in one 4-week, placebo-controlled trial (n=296) of outpatients who met DSM-IV criteria for bipolar I disorder manic or mixed episodes with or without psychotic features and had a Y-MRS score ≥20 at baseline.
+The efficacy of aripiprazole in the treatment of bipolar I disorder in pediatric patients (10 to 17 years of age) was evaluated in one 4-week, placebo-controlled trial (n=296) of outpatients who met DSM-IV criteria for bipolar I disorder manic or mixed episodes with or without psychotic features and had a Y-MRS score >20 at baseline.
 This double-blind, placebo-controlled trial compared two fixed doses of aripiprazole (10 mg/day or 30 mg/day) to placebo.
 The aripiprazole dose was started at 2 mg/day, which was titrated to 5 mg/day after 2 days, and to the target dose in 5 days in the 10 mg/day treatment arm, and in 13 days in the 30 mg/day treatment arm.
 Both doses of aripiprazole were superior to placebo in change from baseline to week 4 on the Y-MRS total score (Study 6 in Table 27).
@@ -151,8 +151,8 @@ Adjunctive Maintenance Therapy
 
 An adjunctive maintenance trial was conducted in adult patients meeting DSM-IV criteria for bipolar I disorder with a recent manic or mixed episode.
 Patients were initiated on open-label lithium (0.6 mEq/L to 1.0 mEq/L) or valproate (50 mcg/mL to 125 mcg/mL) at therapeutic serum levels, and remained on stable doses for 2 weeks.
-At the end of 2 weeks, patients demonstrating inadequate response (Y-MRS total score ≥16 and ≤35% improvement on the Y-MRS total score) to lithium or valproate received aripiprazole with a starting dose of 15 mg/day with the option to increase to 30 mg or reduce to 10 mg as early as day 4, as adjunctive therapy with open-label lithium or valproate.
-Prior to randomization, patients on the combination of single-blind aripiprazole and lithium or valproate were required to maintain stability (Y-MRS and MADRS total scores ≤12) for 12 consecutive weeks.
+At the end of 2 weeks, patients demonstrating inadequate response (Y-MRS total score >16 and <35% improvement on the Y-MRS total score) to lithium or valproate received aripiprazole with a starting dose of 15 mg/day with the option to increase to 30 mg or reduce to 10 mg as early as day 4, as adjunctive therapy with open-label lithium or valproate.
+Prior to randomization, patients on the combination of single-blind aripiprazole and lithium or valproate were required to maintain stability (Y-MRS and MADRS total scores <12) for 12 consecutive weeks.
 Three hundred thirty-seven patients were then randomized in a double-blind fashion, to either the same dose of aripiprazole they were on at the end of the stabilization period or placebo plus lithium or valproate and were then monitored for manic, mixed, or depressive relapse for a maximum of 52 weeks.
 Aripiprazole was superior to placebo on the primary endpoint, time from randomization to relapse to any mood event (Study 8 in Figure 8).
 A mood event was defined as hospitalization for a manic, mixed, or depressive episode, study discontinuation due to lack of efficacy accompanied by Y-MRS score >16 and/or a MADRS >16, or an SAE of worsening disease accompanied by Y-MRS score >16 and/or a MADRS >16.
@@ -192,10 +192,8 @@ Table 28: Adjunctive Treatment of Major Depressive Disorder Studies
 | Study Number | Treatment Group | Primary Efficacy Measure: MADRS |  |  |
 | --- | --- | --- | --- | --- |
 |  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference* (95% CI) |
-| Study 1 | Aripiprazole (5 to 20 mg/day)† + Antidepressant | 25.2 (6.2) | -8.49 (0.66) | -2.84 (-4.53, -1.15) |
-|  | Placebo + Antidepressant | 27.0 (5.5) | -5.65 (0.64) | -- |
-| Study 2 | Aripiprazole (5 to 20 mg/day)† + Antidepressant | 26.0 (6.0) | -8.78 (0.63) | -3.01 (-4.66, -1.37) |
-|  | Placebo + Antidepressant | 26.0 (6.5) | -5.77 (0.67) | -- |
+| Study 1 | Aripiprazole (5 to 20 mg/day)†+Antidepressant | 25.2 (6.2)27.0 (5.5) | -8.49 (0.66)-5.65 (0.64) | -2.84 (-4.53, -1.15)-- |
+| Study 2 | Aripiprazole (5 to 20 mg/day)†+ Antidepressant | 26.0 (6.0)26.0 (6.5) | -8.78 (0.63)(-5.77) (0.67) | -3.01 (-4.66, -1.37)-- |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. * Difference (drug minus placebo) in least-squares mean change from baseline. † Doses statistically significantly superior to placebo. |  |  |  |  |
 
 ## 14.4 Irritability Associated with Autistic Disorder
@@ -237,23 +235,24 @@ Table 29: Irritability Associated with Autistic Disorder Studies (Pediatric)
 
 Pediatric Patients
 
-The efficacy of aripiprazole in the treatment of Tourette’s disorder was established in one 8-week (7 to 17 years of age) and one 10-week (6 to 18 years of age), placebo-controlled trials in pediatric patients (6 to 18 years of age) who met the DSM-IV criteria for Tourette’s disorder and had a Total Tic score (TTS) ≥ 20 to 22 on the Yale Global Tic Severity Scale (YGTSS).
+The efficacy of aripiprazole in the treatment of Tourette’s disorder was established in one 8-week (7 to 17 years of age) and one 10-week (6 to 18 years of age), placebo-controlled trials in pediatric patients (6 to 18 years of age) who met the DSM-IV criteria for Tourette’s disorder and had a Total Tic score (TTS) > 20 to 22 on the Yale Global Tic Severity Scale (YGTSS).
 The YGTSS is a fully validated scale designed to measure current tic severity.
 Efficacy was evaluated using two assessment scales: 1) the Total Tic score (TTS) of the YGTSS and 2) the Clinical Global Impressions Scale for Tourette’s Syndrome (CGI-TS), a clinician-determined summary measure that takes into account all available patient information.
 Over 65% of these patients were under 13 years of age.
 
 The primary outcome measure in both trials was the change from baseline to endpoint in the TTS of the YGTSS.
 Ratings for the TTS are made along 5 different dimensions on a scale of 0 to 5 for motor and vocal tics each.
-Summation of these 10 scores provides a TTS (i.e., 0 to 50).
+Summation of these 10 scores provides a TTS (i.e.
+0 to 50).
 
 The results of these trials are as follows:
 
 In the 8-week, placebo-controlled, fixed-dose trial, children and adolescents with Tourette’s disorder (n=133), aged 7 to 17 years, were randomized 1:1:1 to low dose aripiprazole, high dose aripiprazole, or placebo.
 The target doses for the low and high dose aripiprazole groups were based on weight.
 Patients < 50 kg in the low dose aripiprazole group started at 2 mg per day with a target dose of 5 mg per day after 2 days.
-Patients ≥ 50 kg in the low dose aripiprazole group, started at 2 mg per day increased to 5 mg per day after 2 days, with a subsequent increase to a target dose of 10 mg per day at day 7.
+Patients > 50 kg in the low dose aripiprazole group, started at 2 mg per day increased to 5 mg per day after 2 days, with a subsequent increase to a target dose of 10 mg per day at day 7.
 Patients <50 kg in the high dose aripiprazole group started at 2 mg per day increased to 5 mg per day after 2 days, with a subsequent increase to a target dose of 10 mg per day at day 7.
-Patients ≥ 50 kg in the high dose aripiprazole group, started at 2 mg per day increased to 5 mg per day after 2 days, with a subsequent increase to a dose of 10 mg per day at day 7 and were allowed weekly increases of 5 mg per day up to a target dose 20 mg per day at Day 21.
+Patients > 50 kg in the high dose aripiprazole group, started at 2 mg per day increased to 5 mg per day after 2 days, with a subsequent increase to a dose of 10 mg per day at day 7 and were allowed weekly increases of 5 mg per day up to a target dose 20 mg per day at Day 21.
 Aripiprazole (both high and low dose groups) demonstrated statistically significantly improved scores on the YGTSS TTS (Study 1 in Table 30) and on the CGI-TS scale compared with placebo.
 The estimated improvements on the YGTSS TTS over the course of the study are displayed in Figure 9.
 

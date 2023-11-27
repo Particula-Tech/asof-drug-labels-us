@@ -58,13 +58,13 @@ Impaired reproductive performance (decreased fertility rate, corpora lutea, impl
 
 In pregnant rats injected intravenously with aripiprazole during organogenesis at doses of 3, 9, and 27 mg/kg/day, which are 1, 3, and 9 times the MRHD of 30 mg/day based on mg/m2 body surface area, decreased fetal weight and delayed skeletal ossification were observed at 9 times the MRHD; this dose also caused maternal toxicity.
 
-In pregnant rabbits treated orally with aripiprazole during organogenesis at doses of 10, 30, and 100 mg/kg/day which are 6, 19, and 65 times the MRHD of 30 mg/day based on mg/m2 body surface area, decreased maternal food consumption, and increased abortions as well as increased fetal mortality were observed at 65 times the MHRD.
+In pregnant rabbits treated orally with aripiprazole during organogenesis at doses of 10, 30, and 100 mg/kg/day which are 6, 19, and 65 times the MRHD of 30 mg/day based on mg/m2 body surface area, decreased maternal food consumption, and increased abortions as well as increased fetal mortality were observed at 65 times the MRHD.
 Decreased fetal weight and increased incidence of fused sternebrae were observed at 19 and 65 times the MRHD.
 
 In pregnant rabbits injected intravenously with aripiprazole during organogenesis at doses of 3, 10, and 30 mg/kg/day, which are 2, 6, and 19 times the MRHD of 30 mg/day based on mg/m2 body surface area, decreased fetal weight, increased fetal abnormalities (primarily skeletal), and decreased fetal skeletal ossification were observed at 19 times the MRHD; this dose also caused maternal toxicity.
 The fetal no-effect dose was 10 mg/kg/day, which is 6 times the MRHD.
 
-In rats treated orally with aripiprazole peri- and post-natally from gestation day 17 through postpartum day 21 at doses of 3, 10, and 30 mg/kg/day which are 1, 3, and 10 times the MRHD of 30 mg/day based on mg/m2 body surface area slight maternal toxicity and slightly prolonged gestation were observed at 10 times the MHRD.
+In rats treated orally with aripiprazole peri- and post-natally from gestation day 17 through postpartum day 21 at doses of 3, 10, and 30 mg/kg/day which are 1, 3, and 10 times the MRHD of 30 mg/day based on mg/m2 body surface area slight maternal toxicity and slightly prolonged gestation were observed at 10 times the MRHD.
 An increase in stillbirths and, decreases in pup weight (persisting into adulthood) and survival were also seen at this dose.
 
 In rats injected intravenously with aripiprazole from gestation day 6 through lactation day 20 at doses of 3, 8, and 20 mg/kg/day, which are 1, 3, and 6 times the MRHD of 30 mg/day based on mg/m2 body surface area, increased stillbirths were observed at 3 and 6 times the MRHD; and decreases in early postnatal pup weight and survival were observed at 6 times the MRHD; these doses also caused some maternal toxicity.
@@ -130,7 +130,7 @@ All drug-related effects were reversible after a 2-month recovery period.
 
 No dosage adjustment is recommended for elderly patients [see Boxed Warning, Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
-Of the 13,543 patients treated with oral aripiprazole in clinical trials, 1,073 (8%) were ≥65 years old and 799 (6%) were ≥75 years old.
+Of the 13,543 patients treated with oral aripiprazole in clinical trials, 1,073 (8%) were >65 years old and 799 (6%) were >75 years old.
 Placebo-controlled studies of oral aripiprazole in schizophrenia, bipolar mania, or major depressive disorder did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
 Aripiprazole is not approved for the treatment of patients with psychosis associated with Alzheimer’s disease [see Boxed Warning and Warnings and Precautions (5.1)].

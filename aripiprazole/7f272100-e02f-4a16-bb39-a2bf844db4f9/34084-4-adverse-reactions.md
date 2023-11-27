@@ -20,9 +20,9 @@ The following adverse reactions are discussed in more detail in other sections o
 - Suicide [see Warnings and Precautions (5.14)]
 - Dysphagia [see Warnings and Precautions (5.15)]
 
-The most common adverse reactions in adult patients in clinical trials (≥10%) were nausea, vomiting, constipation, headache, dizziness, akathisia, anxiety, insomnia, and restlessness.
+The most common adverse reactions in adult patients in clinical trials (>10%) were nausea, vomiting, constipation, headache, dizziness, akathisia, anxiety, insomnia, and restlessness.
 
-The most common adverse reactions in the pediatric clinical trials (≥10%) were somnolence, headache, vomiting, extrapyramidal disorder, fatigue, increased appetite, insomnia, nausea, nasopharyngitis, and weight increased.
+The most common adverse reactions in the pediatric clinical trials (>10%) were somnolence, headache, vomiting, extrapyramidal disorder, fatigue, increased appetite, insomnia, nausea, nasopharyngitis, and weight increased.
 
 Aripiprazole has been evaluated for safety in 13,543 adult patients who participated in multiple-dose, clinical trials in schizophrenia, bipolar disorder, major depressive disorder, Dementia of the Alzheimer’s type, Parkinson’s disease, and alcoholism, and who had approximately 7,619 patient-years of exposure to oral aripiprazole.
 A total of 3,390 patients were treated with oral aripiprazole for at least 180 days and 1,933 patients treated with oral aripiprazole had at least 1 year of exposure.
@@ -66,7 +66,7 @@ Table 16: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled 
 
 Less Common Adverse Reactions in Adults
 
-Table 17 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks in schizophrenia and up to 3 weeks in bipolar mania), including only those reactions that occurred in 2% or more of patients treated with aripiprazole (doses ≥2 mg/day) and for which the incidence in patients treated with aripiprazole was greater than the incidence in patients treated with placebo in the combined dataset.
+Table 17 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks in schizophrenia and up to 3 weeks in bipolar mania), including only those reactions that occurred in 2% or more of patients treated with aripiprazole (doses >2 mg/day) and for which the incidence in patients treated with aripiprazole was greater than the incidence in patients treated with placebo in the combined dataset.
 
 Table 17: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Patients Treated with Oral Aripiprazole
 
@@ -134,7 +134,7 @@ Table 18: Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjunct
 
 |  | Percentage of Patients Reporting Reaction* |  |
 | --- | --- | --- |
-| System Organ Class | Aripiprazole + Li or Val† | Placebo + Li or Val† |
+| System Organ Class | Aripiprazole + Li or Var† | Placebo + Li or Var† |
 | Preferred Term | (n=253) | (n=130) |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 8 | 5 |
@@ -251,7 +251,7 @@ Table 21: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled 
 
 Less Common Adverse Reactions in Pediatric Patients (6 to 18 years) with Schizophrenia, Bipolar Mania, Autistic Disorder, or Tourette’s Disorder
 
-Table 22 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks in schizophrenia, up to 4 weeks in bipolar mania, up to 8 weeks in autistic disorder, and up to 10 weeks in Tourette’s disorder), including only those reactions that occurred in 2% or more of pediatric patients treated with aripiprazole (doses ≥2 mg/day) and for which the incidence in patients treated with aripiprazole was greater than the incidence in patients treated with placebo.
+Table 22 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks in schizophrenia, up to 4 weeks in bipolar mania, up to 8 weeks in autistic disorder, and up to 10 weeks in Tourette’s disorder), including only those reactions that occurred in 2% or more of pediatric patients treated with aripiprazole (doses >2 mg/day) and for which the incidence in patients treated with aripiprazole was greater than the incidence in patients treated with placebo.
 
 Table 22: Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 18 years) Treated with Oral Aripiprazole
 
@@ -315,7 +315,7 @@ The commonly observed adverse reactions associated with the use of adjunctive ar
 
 Less Common Adverse Reactions in Adult Patients with Major Depressive Disorder
 
-Table 23 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks), including only those adverse reactions that occurred in 2% or more of patients treated with adjunctive aripiprazole (doses ≥2 mg/day) and for which the incidence in patients treated with adjunctive aripiprazole was greater than the incidence in patients treated with adjunctive placebo in the combined dataset.
+Table 23 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks), including only those adverse reactions that occurred in 2% or more of patients treated with adjunctive aripiprazole (doses >2 mg/day) and for which the incidence in patients treated with adjunctive aripiprazole was greater than the incidence in patients treated with adjunctive placebo in the combined dataset.
 
 Table 23: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials in Patients with Major Depressive Disorder
 
@@ -431,7 +431,7 @@ Additional Findings Observed in Clinical Trials
 Adverse Reactions in Long-Term, Double-Blind, Placebo-Controlled Trials
 
 The adverse reactions reported in a 26-week, double-blind trial comparing oral aripiprazole and placebo in patients with schizophrenia were generally consistent with those reported in the short-term, placebo-controlled trials, except for a higher incidence of tremor [8% (12/153) for aripiprazole vs. 2% (3/153) for placebo].
-In this study, the majority of the cases of tremor were of mild intensity (8/12 mild and 4/12 moderate), occurred early in therapy (9/12 ≤49 days), and were of limited duration (7/12 ≤10 days).
+In this study, the majority of the cases of tremor were of mild intensity (8/12 mild and 4/12 moderate), occurred early in therapy (9/12 <49 days), and were of limited duration (7/12 <10 days).
 Tremor infrequently led to discontinuation (<1%) of aripiprazole.
 In addition, in a long-term (52 week), active-controlled study, the incidence of tremor was 5% (40/859) for aripiprazole.
 A similar profile was observed in a long-term monotherapy study and a long-term adjunctive study with lithium and valproate in bipolar disorder.
@@ -478,7 +478,7 @@ infrequent – fall; rare – heat stroke
 
 Investigations:
 
-frequent - weight decreased, infrequent - hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
+frequent - blood prolactin decreased, weight decreased, infrequent - hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
 
 Metabolism and Nutrition Disorders:
 

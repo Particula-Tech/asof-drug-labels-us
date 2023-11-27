@@ -12,7 +12,7 @@ Aripiprazole has no appreciable affinity for cholinergic muscarinic receptors (I
 
 ## 12.3 Pharmacokinetics
 
-Aripiprazole activity is presumably primarily due to the parent drug, aripiprazole, and to a lesser extent, to its major metabolite, dehydro-aripiprazole, which has been shown to have affinities for D2 receptors similar to the parent drug and represents 40% of the parent drug exposure in plasma.
+Aripiprazole oral solution activity is presumably primarily due to the parent drug, aripiprazole, and to a lesser extent, to its major metabolite, dehydro-aripiprazole, which has been shown to have affinities for D2 receptors similar to the parent drug and represents 40% of the parent drug exposure in plasma.
 The mean elimination half-lives are about 75 hours and 94 hours for aripiprazole and dehydro-aripiprazole, respectively.
 Steady-state concentrations are attained within 14 days of dosing for both active moieties.
 
@@ -70,4 +70,4 @@ In addition, in pediatric patients (10 to 17 years of age) administered with ari
 
 Figure 4: Effects of intrinsic factors on aripiprazole pharmacokinetics
 
-Figure 5: Effects of intrinsic factors on dehydro-aripiprazole pharmacokinetics:
+Figure 5: Effects of intrinsic factors on dehydro-aripiprazole pharmacokinetics

@@ -33,7 +33,7 @@ In all cases, the period of overlapping antipsychotic administration should be m
 Acute Treatment of Manic and Mixed Episodes
 
 Adults: The recommended starting dose in adults is 15 mg given once daily as monotherapy and 10 mg to 15 mg given once daily as adjunctive therapy with lithium or valproate.
-Aripiprazole can be given without regard to meals.
+Aripiprazole oral solution can be given without regard to meals.
 The recommended target dose of aripiprazole is 15 mg/day, as monotherapy or as adjunctive therapy with lithium or valproate.
 The dose may be increased to 30 mg/day based on clinical response.
 The safety of doses above 30 mg/day has not been evaluated in clinical trials.
@@ -41,13 +41,13 @@ The safety of doses above 30 mg/day has not been evaluated in clinical trials.
 Pediatrics: The recommended starting dose in pediatric patients (10 to 17 years) as monotherapy is 2 mg/day, with titration to 5 mg/day after 2 days, and a target dose of 10 mg/day after 2 additional days.
 Recommended dosing as adjunctive therapy to lithium or valproate is the same.
 Subsequent dose increases, if needed, should be administered in 5 mg/day increments.
-Aripiprazole can be given without regard to meals [see Clinical Studies (14.2)].
+Aripiprazole oral solution can be given without regard to meals [see Clinical Studies (14.2)].
 
 ## 2.3 Adjunctive Treatment of Major Depressive Disorder
 
 Adults
 
-The recommended starting dose for aripiprazole as adjunctive treatment for patients already taking an antidepressant is 2 mg/day to 5 mg/day.
+The recommended starting dose for aripiprazole oral solution as adjunctive treatment for patients already taking an antidepressant is 2 mg/day to 5 mg/day.
 The recommended dosage range is 2 mg/day to 15 mg/day.
 Dosage adjustments of up to 5 mg/day should occur gradually, at intervals of no less than 1 week [see Clinical Studies (14.3)].
 Patients should be periodically reassessed to determine the continued need for maintenance treatment.

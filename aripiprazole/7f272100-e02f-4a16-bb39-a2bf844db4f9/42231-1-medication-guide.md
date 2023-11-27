@@ -1,10 +1,10 @@
 # MEDICATION GUIDE
 
-Aripiprazole (AR-i-PIP-ra-zole) Oral Solution
+Aripiprazole (ar″ i pip′ ra zole) Oral Solution
 
 What is the most important information I should know about aripiprazole oral solution?
 
-(For other side effects, also see “What are the possible side effects of aripiprazole oral solution?”).
+(For other side effects, also see “What are the possible side effects of aripiprazole oral solution?”)
 
 Serious side effects may happen when you take aripiprazole oral solution, including:
 
@@ -90,8 +90,8 @@ Before taking aripiprazole oral solution, tell your healthcare provider about al
 - pregnancy or plans to become pregnant.
   It is not known if aripiprazole oral solution will harm your unborn baby.
 
-- If you become pregnant while receiving aripriprazole, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
-  You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/
+- If you become pregnant while receiving aripiprazole oral solution, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
+  You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
 
 - breast-feeding or plans to breast-feed.
   Aripiprazole passes into your breast milk.
@@ -170,7 +170,7 @@ Call your healthcare provider if you have any of these symptoms of high blood su
 - Orthostatic hypotension (decreased blood pressure).
   Lightheadedness or fainting may happen when rising too quickly from a sitting or lying position.
 - Falls.
-  Aripiprazole may make you sleepy or dizzy, may cause a decrease in your blood pressure when changing position and can slow your thinking and motor skills which may lead to falls that can cause fractures or other injuries.
+  Aripiprazole oral solution may make you sleepy or dizzy, may cause a decrease in your blood pressure when changing position and can slow your thinking and motor skills which may lead to falls that can cause fractures or other injuries.
 - Low white blood cell count
 - Seizures (convulsions)
 - Problems with control of your body temperature especially when you exercise a lot or are in an area that is very hot.
@@ -210,7 +210,7 @@ How should I store aripiprazole oral solution?
 
 Keep aripiprazole oral solution and all medicines out of the reach of children.
 
-General information about the safe and effective use of aripiprazole oral solution.
+General information about the safe and effective use of aripiprazole oral solution
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use aripiprazole oral solution for a condition for which it was not prescribed.
@@ -234,4 +234,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-09-2019-11
+11-2023-12
