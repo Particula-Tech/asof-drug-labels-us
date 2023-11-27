@@ -43,7 +43,7 @@ Rx only
 Package Not Child-Resistant.
 Keep Out of Reach of Children.
 
-LOT: XXXXXXX EXP: YYYY MMM
+LOT: XXXXXXX EXP: YYYY-MMM
 
 # PRINCIPAL DISPLAY PANEL - 4 mg Tablet Dose Pack Carton
 
