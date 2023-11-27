@@ -28,11 +28,7 @@ DAY 6 Before Breakfast
 
 Distributed by: Greenstone LLC Peapack, NJ 07977
 
-NDC 59762-4440-2
-
-GREENSTONE® BRAND
-
-methylprednisolone tablets, USP Dosepak™ 4 mg
+NDC 59762-4440-2 GREENSTONE® BRAND methylprednisolone tablets, USP Dosepak™ 4 mg
 
 Unless otherwise directed by your physician, all six (6) tablets in the row labeled DAY 1 should be taken the day you receive your prescription, even though you may not receive it until late in the day.
 All six (6) tablets may be taken immediately as a single dose, or may be divided into two or three doses and taken at intervals between the time you receive the medicine and your regular bedtime.
@@ -42,7 +38,7 @@ Rx only
 Package Not Child-Resistant.
 Keep Out of Reach of Children.
 
-LOT: XXXXXXX EXP: YYYY MMM
+LOT: XXXXXXX EXP: YYYY-MMM
 
 # PRINCIPAL DISPLAY PANEL - 4 mg Dose Pack Carton
 

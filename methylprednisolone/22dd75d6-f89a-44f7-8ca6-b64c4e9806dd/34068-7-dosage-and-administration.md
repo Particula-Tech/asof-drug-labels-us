@@ -5,7 +5,7 @@ In situations of less severity, lower doses will generally suffice, while in sel
 The initial dosage should be maintained or adjusted until a satisfactory response is noted.
 If after a reasonable period of time there is a lack of satisfactory clinical response, methylprednisolone tablets should be discontinued and the patient transferred to other appropriate therapy.
 
-1. IT SHOULD BE EMPHASIZED THAT DOSAGE REQUIREMENTS ARE VARIABLE AND MUST BE INDIVIDUALIZED ON THE BASIS OF THE DISEASE UNDER TREATMENT AND THE RESPONSE OF THE PATIENT.
+IT SHOULD BE EMPHASIZED THAT DOSAGE REQUIREMENTS ARE VARIABLE AND MUST BE INDIVIDUALIZED ON THE BASIS OF THE DISEASE UNDER TREATMENT AND THE RESPONSE OF THE PATIENT.
 
 After a favorable response is noted, the proper maintenance dosage should be determined by decreasing the initial drug dosage in small decrements at appropriate time intervals until the lowest dosage which will maintain an adequate clinical response is reached.
 It should be kept in mind that constant monitoring is needed in regard to drug dosage.
