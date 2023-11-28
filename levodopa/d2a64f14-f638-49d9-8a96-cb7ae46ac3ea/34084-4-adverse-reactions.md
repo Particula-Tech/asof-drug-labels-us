@@ -82,7 +82,7 @@ Nervous System/Psychiatric: Ataxia, depression with suicidal tendencies, dementi
 
 Skin: Malignant melanoma (see also CONTRAINDICATIONS), increased sweating.
 
-Special Senses: Oculogyric crisis, mydriasis, diplopia.
+Special Senses: Oculogyric crises, mydriasis, diplopia.
 
 Urogenital: Urinary retention, priapism.
 
