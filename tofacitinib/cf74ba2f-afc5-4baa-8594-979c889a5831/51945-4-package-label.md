@@ -2,9 +2,9 @@
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer
-
 NDC 0069-1001-01
+
+Pfizer
 
 Xeljanz® (tofacitinib) tablets
 
@@ -32,9 +32,9 @@ Extended Release Tablets
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer
-
 NDC 0069-1002-01
+
+Pfizer
 
 Xeljanz® (tofacitinib) tablets
 
