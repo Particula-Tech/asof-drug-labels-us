@@ -60,9 +60,7 @@ The metabolism of progesterone by human liver microsomes was inhibited by ketoco
 Ketoconazole is a known inhibitor of cytochrome P450 3A4, hence these data suggest that ketoconazole or other known inhibitors of this enzyme may increase the bioavailability of progesterone.
 The clinical relevance of the in vitro findings is unknown.
 
-Co-administration of conjugated estrogens and progesterone capsules to 29 postmenopausal women over a 12-day period resulted in an increase in total estrone concentrations (Cmax 3.68 ng/mL to
-
-4.93 ng/mL) and total equilin concentrations (Cmax 2.27 ng/mL to 3.22 ng/mL) and a decrease in circulating 17β estradiol concentrations (Cmax 0.037 ng/mL to 0.030 ng/mL).
+Co-administration of conjugated estrogens and progesterone capsules to 29 postmenopausal women over a 12-day period resulted in an increase in total estrone concentrations (Cmax 3.68 ng/mL to 4.93 ng/mL) and total equilin concentrations (Cmax 2.27 ng/mL to 3.22 ng/mL) and a decrease in circulating 17β estradiol concentrations (Cmax 0.037 ng/mL to 0.030 ng/mL).
 The half-life of the conjugated estrogens was similar with co-administration of progesterone capsules.
 Table 2 summarizes the pharmacokinetic parameters.
 
