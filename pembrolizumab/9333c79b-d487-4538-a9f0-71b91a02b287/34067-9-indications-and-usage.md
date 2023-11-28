@@ -68,10 +68,12 @@ KEYTRUDA is indicated for the treatment of patients with unresectable or metasta
 
 ## 1.9 Gastric Cancer
 
-KEYTRUDA, in combination with trastuzumab, fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the first-line treatment of patients with locally advanced unresectable or metastatic HER2-positive gastric or gastroesophageal junction (GEJ) adenocarcinoma whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-approved test [see Dosage and Administration (2.1)].
+KEYTRUDA, in combination with trastuzumab, fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the first-line treatment of adults with locally advanced unresectable or metastatic HER2-positive gastric or gastroesophageal junction (GEJ) adenocarcinoma whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-approved test [see Dosage and Administration (2.1)].
 
 This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.9)].
 Continued approval of this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+
+KEYTRUDA, in combination with fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the first-line treatment of adults with locally advanced unresectable or metastatic HER2-negative gastric or gastroesophageal junction (GEJ) adenocarcinoma.
 
 ## 1.10 Esophageal Cancer
 
