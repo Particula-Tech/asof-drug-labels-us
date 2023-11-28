@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA212157"
+  ],
+  "inn": "celecoxib",
+  "labeler": "SCILEX PHARMACEUTICALS INC.",
+  "package_ndcs": [
+    "69557-333-01",
+    "69557-333-02"
+  ],
+  "products": [
+    {
+      "form": "LIQUID",
+      "generic": "celecoxib",
+      "name": "ELYXYB - celecoxib"
+    }
+  ],
+  "setid": "c8a5de07-9f27-4a54-a885-8089f0307bd7",
+  "source": "dailymed"
+}
