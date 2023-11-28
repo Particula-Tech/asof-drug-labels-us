@@ -50,11 +50,7 @@ Infertility
 
 - Advise male patients that abiraterone acetate may impair fertility [see Use in Specific Populations (8.3)].
 
-Distributed by:
-
-Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-09-2022-06
+08-2023-07

@@ -25,11 +25,15 @@
 | low blood potassium levels | high blood cholesterol and triglycerides |
 | hot flushes | high blood sugar levels |
 | diarrhea | certain other abnormal blood tests |
-| Abiraterone acetate tablets may cause fertility problems in males, which may affect the ability to father children. Talk to your healthcare provider if you have concerns about fertility.These are not all the possible side effects of abiraterone acetate tablets. Call your healthcare provider for medical advice about side effects. You may report side effects to FDA at 1-800-FDA­-1088. |  |
+| Abiraterone acetate tablets may cause fertility problems in males, which may affect the ability to father children. Talk to your healthcare provider if you have concerns about fertility. These are not all the possible side effects of abiraterone acetate tablets. Call your healthcare provider for medical advice about side effects. You may report side effects to FDA at 1-800-FDA­-1088. |  |
 | How should I store abiraterone acetate tablets? Store abiraterone acetate tablets at room temperature between 68° to 77°F (20° to 25°C). Keep abiraterone acetate tablets and all medicines out of the reach of children. |  |
 | General information about the safe and effective use of abiraterone acetate tablets.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use abiraterone acetate tablets for a condition for which it was not prescribed. Do not give abiraterone acetate tablets to other people, even if they have the same symptoms that you have. It may harm them. You can ask your healthcare provider or pharmacist for information about abiraterone acetate tablets that is written for health professionals. |  |
-| What are the ingredients of abiraterone acetate tablets? Active ingredient: abiraterone acetate, USP Inactive ingredients: 250 mg uncoated tablets: colloidal silicon dioxide, croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, and sodium lauryl sulfate. 500 mg film-coated tablets: colloidal silicon dioxide, croscarmellose sodium, lactose monohydrate, magnesium stearate, povidone, silicified microcrystalline cellulose, and sodium lauryl sulfate. The film-coating contains iron oxide black, iron oxide red, polyethylene glycol, polyvinyl alcohol, talc, and titanium dioxide. For more information, call Amneal Pharmaceuticals at 1-877-835-5472 or go to www.amneal.com.Distributed by:Amneal Pharmaceuticals LLCBridgewater, NJ 08807 |  |
+| What are the ingredients of abiraterone acetate tablets? Active ingredient: abiraterone acetate, USP Inactive ingredients: 250 mg uncoated tablets: colloidal silicon dioxide, croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, and sodium lauryl sulfate. 500 mg film-coated tablets: colloidal silicon dioxide, croscarmellose sodium, lactose monohydrate, magnesium stearate, povidone, silicified microcrystalline cellulose, and sodium lauryl sulfate. The film-coating contains iron oxide black, iron oxide red, polyethylene glycol, polyvinyl alcohol, talc, and titanium dioxide. For more information, call Amneal Pharmaceuticals at 1-877-835-5472 or go to www.amneal.com.Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807 |  |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 09-2021-05
+Revised: 08-2023-06
+
+Dispense with Patient Information available at:
+
+documents.amneal.com/mg/ppi-abiraterone-tab.pdf
