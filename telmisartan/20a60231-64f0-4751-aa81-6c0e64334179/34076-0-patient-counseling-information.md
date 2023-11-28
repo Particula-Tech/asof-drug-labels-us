@@ -22,18 +22,10 @@ Potassium Supplements
 
 Advise patients not to use potassium supplements or salt substitutes that contain potassium without consulting the prescribing healthcare provider [see Warnings and Precautions (5.3)].
 
-Manufactured by:
+Manufactured by: Amneal Pharmaceuticals Pvt.
+Ltd. Ahmedabad 382220, INDIA
 
-Amneal Pharmaceuticals Pvt.
-Ltd.
-
-Ahmedabad 382220, INDIA
-
-Distributed by:
-
-Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-09-2023-02
+09-2023-03
