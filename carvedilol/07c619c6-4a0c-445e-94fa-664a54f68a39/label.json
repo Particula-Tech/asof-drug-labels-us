@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA020297"
+  ],
+  "inn": "carvedilol",
+  "labeler": "Waylis Therapeutics LLC",
+  "package_ndcs": [
+    "80725-139-20",
+    "80725-140-20",
+    "80725-141-20",
+    "80725-142-20"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "carvedilol",
+      "name": "Coreg"
+    }
+  ],
+  "setid": "07c619c6-4a0c-445e-94fa-664a54f68a39",
+  "source": "dailymed"
+}
