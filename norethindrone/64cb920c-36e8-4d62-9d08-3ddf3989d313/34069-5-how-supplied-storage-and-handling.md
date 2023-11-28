@@ -15,4 +15,4 @@ Store at 20º to 25ºC (68º to 77ºF) [See USP Controlled Room Temperature].
 Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
 
 Rev.
-09-2015-00
+08-2023-01
