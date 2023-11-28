@@ -19,7 +19,4 @@ Lisdexamfetamine dimesylate capsules 70 mg: orange body/blue cap (imprinted with
 Dispense in a tight, light-resistant container as defined in the USP.
 
 Store at 20° to 25°C (68° to 77°F).
-Excursions permitted between 15º to 30ºC (59 to 86ºF) [See USP Controlled Room Temperature].
-
-Disposal: Comply with local laws and regulations on drug disposal of CNS stimulants.
-Dispose of remaining, unused, or expired lisdexamfetamine dimesylate capsules by a medicine take-back program.
+Excursions permitted to 15º to 30ºC (59º to 86ºF) [See USP Controlled Room Temperature].

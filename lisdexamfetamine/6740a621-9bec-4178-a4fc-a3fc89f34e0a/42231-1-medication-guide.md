@@ -8,31 +8,33 @@ What is the most important information I should know about lisdexamfetamine dime
 
 Lisdexamfetamine dimesylate capsules may cause serious side effects, including:
 
-- •Abuse and dependence.
-  Lisdexamfetamine dimesylate capsules, other amphetamine containing medicines, and methylphenidate have a high chance for abuse and may cause physical and psychological dependence.
-  Your healthcare provider should check you or your child for signs of abuse and dependence before and during treatment with lisdexamfetamine dimesylate capsules.
-- oTell your healthcare provider if you or your child have ever abused or been dependent on alcohol, prescription medicines, or street drugs.
-- oYour healthcare provider can tell you more about the differences between physical and psychological dependence and drug addiction.
-- •Heart-related problems including:
-- osudden death, stroke, and heart attack in adults
-- osudden death in children who have heart problems or heart defects
-- oincreased blood pressure and heart rate
-
-Your healthcare provider should check you or your child carefully for heart problems before starting treatment with lisdexamfetamine dimesylate capsules.
-Tell your healthcare provider if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems.
-
-Your healthcare provider should check your or your child’s blood pressure and heart rate regularly during treatment with lisdexamfetamine dimesylate capsules.
-
-Call your healthcare provider or go to the nearest hospital emergency room right away if you or your child have any signs of heart problems such as chest pain, shortness of breath, or fainting during treatment with lisdexamfetamine dimesylate capsules.
-
+- 
+  - •Abuse, misuse, and addiction.
+    Lisdexamfetamine dimesylate capsules, has a high chance for abuse and misuse and may lead to substance use problems, including addiction.
+    Misuse and abuse of lisdexamfetamine dimesylate capsules, other amphetamine containing medicines, and methylphenidate containing medicines, can lead to overdose and death.
+    The risk of overdose and death is increased with higher doses of Lisdexamfetamine dimesylate capsules or when it is used in ways that are not approved, such as snorting or injection.
+- •Your healthcare provider should check you or your child’s risk for abuse, misuse, and addiction before starting treatment with Lisdexamfetamine dimesylate capsules and will monitor you or your child during treatment.
+- •Lisdexamfetamine dimesylate capsulesmay lead to physical dependence after prolonged use, even if taken as directed by your healthcare provider.
+- •Do not givelisdexamfetamine dimesylate capsulesto anyone else.
+  See “What areLisdexamfetamine dimesylate capsules?” for more information.
+- •Keep lisdexamfetamine dimesylate capsulesin a safe place and properly dispose of any unused medicine.
+  See "How should I store lisdexamfetamine dimesylate capsules?" for more information.
+- •Tell your healthcare provider if you or your child have ever abused or been dependent on alcohol, prescription medicines, or street drugs.
+- •Risks for people with serious heart disease.
+  Sudden death has happened in people who have heart defects or other serious heart disease.
+- Your healthcare provider should check you or your child carefully for heart problems before starting treatment with
+- Lisdexamfetamine dimesylate capsules.
+  Tell your healthcare provider if you or your child have any heart problems, heart disease, or heart defects.
+- Call your healthcare provider right away or go to the nearest hospital emergency room right away if you or your child have any signs of heart problems such as chest pain, shortness of breath, or fainting during treatment with lisdexamfetamine dimesylate capsules.
+- •Increased blood pressure and heart rate.
+- Your healthcare provider should check you or your child’s blood pressure and heart rate regularly during treatment
+- with lisdexamfetamine dimesylate capsules.
 - •Mental (psychiatric) problems, including:
 - new or worse behavior and thought problems
 - new or worse bipolar illness
 - new psychotic symptoms (such as hearing voices, or seeing or believing things that are not real) or new manic symptoms
-
-Tell your healthcare provider about any mental problems you or your child have or about a family history of suicide, bipolar illness, or depression.
-
-Call your healthcare provider right away if you or your child have any new or worsening mental symptoms or problems during treatment withlisdexamfetamine dimesylate capsules, especially hearing voices, seeing or believing things that are not real, or new manic symptoms.
+- Tell your healthcare provider about any mental problems you or your child have or about a family history of suicide, bipolar illness, or depression.
+- Call your healthcare provider right away if you or your child have any new or worsening mental symptoms or problems during treatment withlisdexamfetamine dimesylate capsules, especially hearing voices, seeing or believing things that are not real, or new manic symptoms.
 
 What are lisdexamfetamine dimesylate capsules?
 
@@ -44,8 +46,10 @@ Lisdexamfetamine dimesylate capsules are central nervous system (CNS) stimulant 
   Lisdexamfetamine dimesylate capsules may help reduce the number of binge eating days in people with BED.
 
 Lisdexamfetamine dimesylate capsules are not for use in children under 6 years of age with ADHD.
+
 Lisdexamfetamine dimesylate capsules are not for weight loss.
 It is not known if lisdexamfetamine dimesylate capsules are safe and effective for the treatment of obesity.
+
 It is not known if lisdexamfetamine dimesylate capsules are safe and effective for use in children with BED.
 
 Lisdexamfetamine dimesylate capsules are federally controlled substance (CII) because it contains lisdexamfetamine dimesylate that can be a target for people who abuse prescription medicines or street drugs.
@@ -62,12 +66,14 @@ Do not take lisdexamfetamine dimesylate capsules if you or your child are:
 
 Before taking lisdexamfetamine dimesylate capsules, tell your healthcare provider about all medical conditions, including if you or your child:
 
-- •have heart problems, heart defects, or high blood pressure
+- •have heart problems, heart disease, heart defects, or high blood pressure
 - •have mental problems including psychosis, mania, bipolar illness, or depression or have a family history of suicide, bipolar illness, or depression
 - •have circulation problems in fingers and toes
+- •have kidney problems
+- •have or had repeated movements or sounds (tics) or Tourette’s syndrome, or have a family history of tics or Tourette’s syndrome
 - •are pregnant or plan to become pregnant.
   Lisdexamfetamine dimesylate capsules may harm the unborn baby.
-- o There is a pregnancy registry for females who are exposed to lisdexamfetamine dimesylate capsules during pregnancy.
+- oThere is a pregnancy registry for females who are exposed to lisdexamfetamine dimesylate capsules during pregnancy.
   The purpose of the registry is to collect information about the health of females exposed to lisdexamfetamine dimesylate capsules and their baby.
   If you or your child becomes pregnant during treatment with lisdexamfetamine dimesylate capsules, talk to your healthcare provider about registering with the National Pregnancy Registry for Psychostimulants at 1-866-961-2388 or visit online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/adhd-medications/.
 - •are breastfeeding or plan to breastfeed.
@@ -100,7 +106,6 @@ How should lisdexamfetamine dimesylate capsules be taken?
 - •Take lisdexamfetamine dimesylate capsules exactly as prescribed by your healthcare provider.
 - •Your healthcare provider may change the dose if needed.
 - •Take lisdexamfetamine dimesylate capsules 1 time each day in the morning with or without food.
-- •Your healthcare provider may sometimes stop lisdexamfetamine dimesylate capsules treatment for a while to check ADHD or BED symptoms.
 - •Lisdexamfetamine dimesylate comes in capsules.
 - Taking lisdexamfetamine dimesylate capsules:
 - •Lisdexamfetamine dimesylate capsules may be swallowed whole.
@@ -110,11 +115,7 @@ How should lisdexamfetamine dimesylate capsules be taken?
 - oSwallow all the yogurt, water, or orange juice mixture right away.
   Do not store the yogurt, water, or orange juice mixture.
 - oIt is normal to see a filmy coating on the inside of your glass or container after you eat or drink all the lisdexamfetamine dimesylate capsules mixture.
-  If you or your child take too much lisdexamfetamine dimesylate, call your healthcare provider or poison control center at 1-800-222-1222 or go to the nearest hospital emergency room right away.
-
-What should I avoid while takinglisdexamfetamine dimesylate capsules?
-
-Do not drive, operate machinery, or do other dangerous activities until you know how lisdexamfetamine dimesylate capsules affects you.
+  If you or your child take too much lisdexamfetamine dimesylate, call your healthcare provider or Poison Help line at 1-800-222-1222 or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of lisdexamfetamine dimesylate capsules?
 
@@ -130,6 +131,8 @@ Lisdexamfetamine dimesylate capsules may cause serious side effects, including:
 - oFingers or toes may change color from pale, to blue, to red
 - Tell your healthcare provider if you or your child have numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.
 - Call your healthcare provider right away if you or your child have any signs of unexplained wounds appearing on fingers or toes during treatment with lisdexamfetamine dimesylate capsules.
+- •New or worsening tics or worsening Tourette’s syndrome.
+  Tell your healthcare provider if you or your child get any new or worsening tics or worsening Tourette’s syndrome during treatment with lisdexamfetamine dimesylate.
 - •Serotonin Syndrome.
   A potentially life-threatening problem called serotonin syndrome may happen when lisdexamfetamine dimesylate capsules are taken with certain other medicines.
   Stop taking lisdexamfetamine dimesylate capsules and call your healthcare provider or go to the nearest hospital emergency room right away if you or your child develop any of the following signs and symptoms of serotonin syndrome:
@@ -169,9 +172,10 @@ How should I store lisdexamfetamine dimesylate capsules?
 
 - •Store lisdexamfetamine dimesylate capsules in a safe place (like a locked cabinet) and in a tightly closed container at room temperature between 68°F to 77°F (20°C to 25°C).
 - •Protect lisdexamfetamine dimesylate capsules from light.
-- • Dispose of remaining, unused, or expired lisdexamfetamine dimesylate capsules by a medicine take-back program at authorized collection sites such as retail pharmacies, hospital or clinic pharmacies, and law enforcement locations.
-  If no take-back program or authorized collector is available, mix lisdexamfetamine dimesylate capsules with an undesirable, nontoxic substance such as dirt, cat litter, or used coffee grounds to make it less appealing to children and pets.
-  Place the mixture in a container such as a sealed plastic bag and throw away (discard) lisdexamfetamine dimesylate capsules in the household trash.
+- •Dispose of remaining, unused, or expired lisdexamfetamine dimesylate capsules by a medicine take-back program at a U.S. Drug Enforcement Administration (DEA) authorized collection site.
+  If no take-back program or DEA authorized collector is available, mix lisdexamfetamine dimesylate capsules with an undesirable, nontoxic substance such as dirt, cat litter, or used coffee grounds to make it less appealing to children and pets.
+  Place the mixture in a container such as a sealed plastic bag and throw away lisdexamfetamine dimesylate capsules in the household trash.
+  Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
 
 Keep lisdexamfetamine dimesylate capsules and all medicines out of the reach of children.
 
@@ -181,7 +185,7 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 Do not use lisdexamfetamine dimesylate capsules for a condition for which it was not prescribed.
 Do not give lisdexamfetamine dimesylate capsules to other people, even if they have the same symptoms that you have.
 It may harm them and it is against the law.
-You can ask your pharmacist or healthcare provider for information about lisdexamfetamine dimesylate capsules that is written for health professionals.
+You can ask your pharmacist or healthcare provider for information about lisdexamfetamine dimesylate capsules that is written for healthcare professionals.
 
 What are the ingredients in lisdexamfetamine dimesylate capsules?
 
@@ -204,6 +208,6 @@ Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50001173/02
+C50001173/03
 
-Revised June 2023
+Revised October 2023

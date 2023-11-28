@@ -18,7 +18,7 @@ Efficacy assessments were conducted at 1, 2, 3, 4.5, 6, 8, 10, and 12 hours post
 A significant difference in patient behavior, based upon the average of investigator ratings on the SKAMP-DS across the 8 assessments were observed between patients when they received lisdexamfetamine dimesylate compared to patients when they received placebo (Study 2 in Table 6).
 The drug effect reached statistical significance from hours 2 to 12 post-dose, but was not significant at 1 hour.
 
-A second double-blind, placebo-controlled, randomized, crossover design, analog classroom study (Study 3) was conducted in pediatric patients ages 6 to 12 years (N=129) who met DSMIV criteria for ADHD (either the combined type or the hyperactive-impulsive type).
+A second double-blind, placebo-controlled, randomized, crossover design, analog classroom study (Study 3) was conducted in pediatric patients ages 6 to 12 years (N=129) who met DSM-IV criteria for ADHD (either the combined type or the hyperactive-impulsive type).
 Following a 4-week open-label dose optimization with lisdexamfetamine dimesylate (30 mg, 50 mg, 70 mg), patients were randomly assigned to continue their optimized dose of lisdexamfetamine dimesylate or placebo once daily in the morning for 1 week each treatment.
 A significant difference in patient behavior, based upon the average of investigator ratings on the SKAMP-Deportment scores across all 7 assessments conducted at 1.5, 2.5, 5.0, 7.5, 10.0, 12.0, and 13.0 hours post-dose, were observed between patients when they received lisdexamfetamine dimesylate compared to patients when they received placebo (Study 3 in Table 6, Figure 4).
 
@@ -79,9 +79,9 @@ Table 6: Summary of Primary Efficacy Results from Short-term Studies of Lisdexam
 
 Pediatric Patients (Ages 6 to 17) and Adults with ADHD
 
-| Study No. (Age range) | Primary Endpoint | Treatment Group | Mean Baseline Score(SD) | LS Mean Changefrom Baseline (SE) | Placebo-subtractedDifferencea (95% CI) |
+| Study Number (Age range) | Primary Endpoint | Treatment Group | Mean Baseline Score(SD) | LS Mean Changefrom Baseline (SE) | Placebo-subtractedDifferencea (95% CI) |
 | --- | --- | --- | --- | --- | --- |
-| Study 1 (6 -12 years) | ADHD-RSIV | lisdexamfetamine dimesylate (30 mg/day)Doses statistically significantly superior to placebo. | 43.2 (6.7) | -21.8 (1.6) | -15.6 (-19.9, -11.2) |
+| Study 1 (6 -12 years) | ADHD-RS-IV | lisdexamfetamine dimesylate (30 mg/day)Doses statistically significantly superior to placebo. | 43.2 (6.7) | -21.8 (1.6) | -15.6 (-19.9, -11.2) |
 |  |  | lisdexamfetamine dimesylate (50 mg/day) | 43.3 (6.7) | -23.4 (1.6) | -17.2 (-21.5, -12.9) |
 |  |  | lisdexamfetamine dimesylate (70 mg/day) | 45.1(6.8) | -26.7 (1.5) | -20.5 (-24.8, -16.2) |
 |  |  | Placebo | 42.4 (7.1) | -6.2 (1.6) | -- |
@@ -103,17 +103,17 @@ Pediatric Patients (Ages 6 to 17) and Adults with ADHD
 |  |  | Placebo | 261.4 (75.0)c | 289.5 (8.6)d | -- |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval.a Difference (drug minus placebo) in least-squares mean change from baseline.b Pre-dose SKAMP-DS was not collected.c Pre-dose SKAMP-DS (Study 3) or PERMP (Study 8) total score, averaged over both periods.d LS Mean for SKAMP-DS (Study 2 and 3) or PERMP (Study 8) is post-dose average score over all sessions of the treatment day, rather than change from baseline. |  |  |  |  |  |
 
-Figure 4 LS Mean SKAMP Deportment Subscale Score by Treatment and Time-point for Pediatric Patients Ages 6 to 12 with ADHD after 1 Week of Double Blind Treatment (Study 3)
+Figure 4: LS Mean SKAMP Deportment Subscale Score by Treatment and Time-point for Pediatric Patients Ages 6 to 12 with ADHD after 1 Week of Double Blind Treatment (Study 3)
 
 Higher score on the SKAMP-Deportment scale indicates more severe symptoms.
 
-Figure 5 Kaplan-Meier Estimated Proportion of Patients with Treatment Failure for Pediatric Patients Ages 6 to 17 (Study 6)
+Figure 5: Kaplan-Meier Estimated Proportion of Patients with Treatment Failure for Pediatric Patients Ages 6 to 17 (Study 6)
 
-Figure 6 LS Mean (SE) PERMP Total Score by Treatment and Time-point for Adults Ages 18 to 55 with ADHD after 1 Week of Double Blind Treatment (Study 8)
+Figure 6: LS Mean (SE) PERMP Total Score by Treatment and Time-point for Adults Ages 18 to 55 with ADHD after 1 Week of Double Blind Treatment (Study 8)
 
 Higher score on the PERMP scale indicates less severe symptoms.
 
-Figure 7 Kaplan-Meier Estimated Proportion of Subjects with Relapse in Adults with ADHD (Study 9)
+Figure 7: Kaplan-Meier Estimated Proportion of Subjects with Relapse in Adults with ADHD (Study 9)
 
 ## 14.2 Binge Eating Disorder (BED)
 
@@ -148,10 +148,10 @@ Table 7: Summary of Primary Efficacy Results in BED
 
 A double-blind, placebo controlled, randomized withdrawal design study (Study 13) was conducted to evaluate maintenance of efficacy based on time to relapse between lisdexamfetamine dimesylate and placebo in adults aged 18 to 55 (N=267) with moderate to severe BED.
 In this longer-term study patients who had responded to lisdexamfetamine dimesylate in the preceding 12-week open-label treatment phase were randomized to continuation of lisdexamfetamine dimesylate or placebo for up to 26 weeks of observation for relapse.
-Response in the open-label phase was defined as 1 or fewer binge days each week for four consecutive weeks prior to the last visit at the end of the 12-week open-label phase and a CGIS score of 2 or less at the same visit.
+Response in the open-label phase was defined as 1 or fewer binge days each week for four consecutive weeks prior to the last visit at the end of the 12-week open-label phase and a CGI-S score of 2 or less at the same visit.
 Relapse during the double-blind phase was defined as having 2 or more binge days each week for two consecutive weeks (14 days) prior to any visit and having an increase in CGI-S score of 2 or more points compared to the randomized-withdrawal baseline.
 Maintenance of efficacy for patients who had an initial response during the open-label period and then continued on lisdexamfetamine dimesylate during the 26-week double-blind randomized-withdrawal phase was demonstrated with lisdexamfetamine dimesylate being superior over placebo as measured by time to relapse.
 
-Figure 8 Kaplan-Meier Estimated Proportions of Subjects with Relapse in Adults with BED (Study 13)
+Figure 8: Kaplan-Meier Estimated Proportions of Subjects with Relapse in Adults with BED (Study 13)
 
 Examination of population subgroups based on age (there were no patients over 65), gender, and race did not reveal any clear evidence of differential responsiveness in the treatment of BED.

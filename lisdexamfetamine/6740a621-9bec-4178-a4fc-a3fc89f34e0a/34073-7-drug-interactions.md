@@ -2,7 +2,7 @@
 
 ## 7.1 Drugs Having Clinically Important Interactions with Amphetamines
 
-Table 5 Drugs having clinically important interactions with amphetamines.
+Table 5: Drugs having clinically important interactions with amphetamines.
 
 | MAO Inhibitors (MAOI) |  |
 | --- | --- |
