@@ -2,21 +2,21 @@
 
 ## Hypersensitivity Reactions
 
-Serious hypersensitivity reactions, including rash, urticaria, and facial edema have been reported with oral CARNITOR ®.
+Serious hypersensitivity reactions, including rash, urticaria, and facial edema have been reported with oral CARNITOR®.
 Other serious hypersensitivity reactions, including anaphylaxis, laryngeal edema, and bronchospasm have been reported following intravenous levocarnitine administration, mostly in patients with end stage renal disease undergoing dialysis.
 
-Discontinue use of CARNITOR ® and instruct patients to seek medical attention if they experience symptoms suggestive of a hypersensitivity reaction.
+Discontinue use of CARNITOR® and instruct patients to seek medical attention if they experience symptoms suggestive of a hypersensitivity reaction.
 
 # PRECAUTIONS
 
 ## General
 
-CARNITOR ® (levocarnitine) Oral Solution and CARNITOR ® SF (levocarnitine) Sugar-Free Oral Solution are for oral/internal use only.
+CARNITOR® (levocarnitine) Oral Solution and CARNITOR® SF (levocarnitine) Sugar-Free Oral Solution are for oral/internal use only.
 
 ### Not for parenteral use.
 
 Gastrointestinal reactions may result from a too rapid consumption of carnitine.
-CARNITOR ® (levocarnitine) Oral Solution and CARNITOR ® SF (levocarnitine) Sugar-Free Oral Solution may be consumed alone, or dissolved in drinks or other liquid foods to reduce taste fatigue.
+CARNITOR® (levocarnitine) Oral Solution and CARNITOR® SF (levocarnitine) Sugar-Free Oral Solution may be consumed alone, or dissolved in drinks or other liquid foods to reduce taste fatigue.
 They should be consumed slowly and doses should be spaced evenly throughout the day to maximize tolerance.
 
 The safety and efficacy of oral levocarnitine has not been evaluated in patients with renal insufficiency.
@@ -34,7 +34,7 @@ No long-term animal studies have been performed to evaluate the carcinogenic pot
 
 ## Pregnancy
 
-Reproductive studies have been performed in rats and rabbits at doses up to 3.8 times the human dose on the basis of surface area and have revealed no evidence of impaired fertility or harm to the fetus due to CARNITOR ®.
+Reproductive studies have been performed in rats and rabbits at doses up to 3.8 times the human dose on the basis of surface area and have revealed no evidence of impaired fertility or harm to the fetus due to CARNITOR®.
 There are, however, no adequate and well controlled studies in pregnant women.
 
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.

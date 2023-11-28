@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 330 mg Tablet Blister Pack Carton
 
-CARNITOR ® (levocarnitine)
+CARNITOR® (levocarnitine)
 
 330 mg tablets
 
