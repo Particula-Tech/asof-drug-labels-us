@@ -2,12 +2,12 @@
 
 ## 2.1 Important Dosage and Administration Instructions
 
-Correct Hypovolemia
+### Correct Hypovolemia
 
 Address hypovolemia before initiation of norepinephrine bitartrate injection therapy.
 If the patient does not respond to therapy, suspect occult hypovolemia [see Warnings and Precautions (5.1)].
 
-Administration
+### Administration
 
 Dilute norepinephrine bitartrate injection prior to use [see Dosage and Administration (2.3)].
 
@@ -15,7 +15,7 @@ Infuse norepinephrine bitartrate injection into a large vein.
 Avoid infusions into the veins of the leg in the elderly or in patients with occlusive vascular disease of the legs [see Warnings and Precautions (5.1)].
 Avoid using a catheter-tie-in technique.
 
-Discontinuation
+### Discontinuation
 
 When discontinuing the infusion, reduce the flow rate gradually.
 Avoid abrupt withdrawal.

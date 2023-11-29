@@ -4,16 +4,10 @@ Risk of Tissue Damage
 
 Advise the patient, family, or caregiver to report signs of extravasation urgently [see Warnings and Precautions (5.1)].
 
-Manufactured for:
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A
 
-Mylan Institutional LLC
+Manufactured by: Mylan Laboratories Limited Bangalore, India
 
-Morgantown, WV 26505 U.S.A
+1032920
 
-Manufactured by:
-
-Mylan Laboratories Limited
-
-Bangalore, India
-
-MARCH 2021
+OCTOBER 2021

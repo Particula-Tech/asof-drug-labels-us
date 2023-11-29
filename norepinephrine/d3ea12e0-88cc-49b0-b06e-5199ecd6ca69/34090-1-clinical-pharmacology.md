@@ -17,28 +17,28 @@ The pressor action stops within 1 to 2 minutes after the infusion is discontinue
 
 ## 12.3 Pharmacokinetics
 
-Absorption
+### Absorption
 
 Following initiation of intravenous infusion, the steady state plasma concentration is achieved in 5 min.
 
-Distribution
+### Distribution
 
 Plasma protein binding of norepinephrine is approximately 25%.
 It is mainly bound to plasma albumin and to a smaller extent to prealbumin and alpha 1-acid glycoprotein.
 The volume of distribution is 8.8 L. Norepinephrine localizes mainly in sympathetic nervous tissue.
 It crosses the placenta but not the blood-brain barrier.
 
-Elimination
+### Elimination
 
 The mean half-life of norepinephrine is approximately 2.4 min. The average metabolic clearance is 3.1 L/min.
 
-Metabolism
+### Metabolism
 
 Norepinephrine is metabolized in the liver and other tissues by a combination of reactions involving the enzymes catechol-O-methyltransferase (COMT) and MAO.
 The major metabolites are normetanephrine and 3-methoxyl-4-hydroxy mandelic acid (vanillylmandelic acid, VMA), both of which are inactive.
 Other inactive metabolites include 3-methoxy-4-hydroxyphenylglycol, 3,4-dihydroxymandelic acid, and 3,4-dihydroxyphenylglycol.
 
-Excretion
+### Excretion
 
 Noradrenaline metabolites are excreted in urine primarily as sulphate conjugates and, to a lesser extent, as glucuronide conjugates.
 Only small quantities of norepinephrine are excreted unchanged.

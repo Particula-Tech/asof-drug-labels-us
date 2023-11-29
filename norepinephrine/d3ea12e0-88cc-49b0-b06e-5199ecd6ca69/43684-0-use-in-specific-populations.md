@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
+### Risk Summary
 
 Limited published data consisting of a small number of case reports and multiple small trials involving the use of norepinephrine in pregnant women at the time of delivery have not identified an increased risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
 There are risks to the mother and fetus from hypotension associated with septic shock, myocardial infarction and stroke which are medical emergencies in pregnancy and can be fatal if left untreated.
@@ -15,17 +15,17 @@ The estimated background risk for major birth defects and miscarriage for the in
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in the clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Clinical Considerations
+### Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk
+#### Disease-associated maternal and/or embryo/fetal risk
 
 Hypotension associated with septic shock, myocardial infarction, and stroke are medical emergencies in pregnancy which can be fatal if left untreated.
 Delaying treatment in pregnant women with hypotension associated with septic shock, myocardial infarction and stroke may increase the risk of maternal and fetal morbidity and mortality.
 Life-sustaining therapy for the pregnant woman should not be withheld due to potential concerns regarding the effects of norepinephrine on the fetus.
 
-Data
+### Data
 
-Animal Data
+#### Animal Data
 
 A study in pregnant sheep receiving high doses of intravenous norepinephrine (40 mcg/min, at approximately 10 times the average maintenance dose of 2 to 4 mcg/min in human, on a mg/kg basis) exhibited a significant decrease in maternal placental blood flow.
 Decreases in fetal oxygenation, urine and lung liquid flow were also observed.
@@ -36,7 +36,7 @@ In hamsters, an increased number of resorptions (29.1% in study group vs. 3.4% i
 
 ## 8.2 Lactation
 
-Risk Summary
+### Risk Summary
 
 There are no data on the presence of norepinephrine in either human or animal milk, the effects on the breastfed infant, or the effects on milk production.
 Clinically relevant exposure to the infant is not expected based on the short half-life and poor oral bioavailability of norepinephrine.
@@ -47,8 +47,8 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
-Clinical studies of norepinephrine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of norepinephrine bitartrate did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-Avoid administration of norepinephrine into the veins in the leg in elderly patients [see Warnings and Precautions (5.1)].
+Avoid administration of norepinephrine bitartrate into the veins in the leg in elderly patients [see Warnings and Precautions (5.1)].
