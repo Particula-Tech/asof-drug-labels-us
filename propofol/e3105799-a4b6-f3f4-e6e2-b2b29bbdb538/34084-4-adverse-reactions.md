@@ -36,7 +36,11 @@ Incidence greater than 1% - Probably Causally Related
 
 |  | Anesthesia/MAC Sedation | ICU Sedation |
 | --- | --- | --- |
-| Cardiovascular: | Bradycardia Arrhythmia [Peds: 1.2%] Tachycardia Nodal [Peds: 1.6%] Hypotension* [Peds: 17%] (see also CLINICAL PHARMACOLOGY) Hypertension [Peds: 8%] | Bradycardia Decreased Cardiac Output Hypotension 26% |
+| Cardiovascular: | Bradycardia | Bradycardia |
+| Arrhythmia [Peds: 1.2%] |  |  |
+| Tachycardia Nodal [Peds: 1.6%] |  |  |
+| Hypotension* [Peds: 17%] (see also CLINICAL PHARMACOLOGY) | Decreased Cardiac Output |  |
+| Hypertension [Peds: 8%] | Hypotension 26% |  |
 | Central Nervous System: | Movement* [Peds: 17%] |  |
 | Injection Site: | Burning/Stinging or Pain, 17.6% [Peds:10%] |  |
 | Metabolic/Nutritional: |  | Hyperlipemia* |
@@ -70,8 +74,8 @@ Incidence less than 1% - Causal Relationship Unknown
 
 |  | Anesthesia/MAC Sedation | ICU Sedation |
 | --- | --- | --- |
-| Body as a Whole | Asthenia, Awareness, Chest Pain, Extremities Pain, Fever, Increased Drug Effect, Neck Rigidity/Stiffness, Trunk Pain | Fever, Sepsis, Trunk Pain, Whole Body Weakness |
-| Cardiovascular | Arrhythmia, Atrial Fibrillation, Atrioventricular Heart Block, Bigeminy, Bleeding, Bundle Branch Block, Cardiac Arrest, ECG Abnormal, Edema, Extrasystole, Heart Block, Hypertension, Myocardial Infarction, Myocardial Ischemia, Premature Ventricular Contractions, ST Segment Depression, Supraventricular Tachycardia, Tachycardia, Ventricular Fibrillation | Arrhythmia, Atrial Fibrillation, Bigeminy, Cardiac Arrest, Extrasystole, Right Heart Failure, Ventricular Tachycardia |
+| Body as a Whole: | Asthenia, Awareness, Chest Pain, Extremities Pain, Fever, Increased Drug Effect, Neck Rigidity/Stiffness, Trunk Pain | Fever, Sepsis, Trunk Pain, Whole Body Weakness |
+| Cardiovascular: | Arrhythmia, Atrial Fibrillation, Atrioventricular Heart Block, Bigeminy, Bleeding, Bundle Branch Block, Cardiac Arrest, ECG Abnormal, Edema, Extrasystole, Heart Block, Hypertension, Myocardial Infarction, Myocardial Ischemia, Premature Ventricular Contractions, ST Segment Depression, Supraventricular Tachycardia, Tachycardia, Ventricular Fibrillation | Arrhythmia, Atrial Fibrillation, Bigeminy, Cardiac Arrest, Extrasystole, Right Heart Failure, Ventricular Tachycardia |
 | Central Nervous System: | Abnormal Dreams, Agitation, Amorous Behavior, Anxiety, Bucking/Jerking/Thrashing, Chills/Shivering/Clonic/Myoclonic Movement, Combativeness, Confusion, Delirium, Depression, Dizziness, Emotional Lability, Euphoria, Fatigue, Hallucinations, Headache, Hypotonia, Hysteria, Insomnia, Moaning, Neuropathy, Opisthotonos, Rigidity, Seizures, Somnolence, Tremor, Twitching | Chills/Shivering, Intracranial Hypertension, Seizures, Somnolence, Thinking Abnormal |
 | Digestive: | Cramping, Diarrhea, Dry Mouth, Enlarged Parotid, Nausea, Swallowing,Vomiting | Ileus, Liver Function Abnormal |
 | Hematologic/Lymphatic: | Coagulation Disorder, Leukocytosis |  |

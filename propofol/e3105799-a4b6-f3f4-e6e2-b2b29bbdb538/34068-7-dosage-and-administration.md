@@ -11,9 +11,7 @@ Slight creaming, which should disappear after shaking, may be visible upon prolo
 When administering DIPRIVAN by infusion, syringe or volumetric pumps are recommended to provide controlled infusion rates.
 When infusing DIPRIVAN to patients undergoing magnetic resonance imaging, metered control devices may be utilized if mechanical pumps are impractical.
 
-Changes in vital signs indicating a stress response to surgical stimulation or the emergence from anesthesia may be controlled by the administration of 25 mg (2.5 mL) to
-
-50 mg (5 mL) incremental boluses and/or by increasing the infusion rate of DIPRIVAN.
+Changes in vital signs indicating a stress response to surgical stimulation or the emergence from anesthesia may be controlled by the administration of 25 mg (2.5 mL) to 50 mg (5 mL) incremental boluses and/or by increasing the infusion rate of DIPRIVAN.
 
 For minor surgical procedures (e.g., body surface) nitrous oxide (60% to 70%) can be combined with a variable rate DIPRIVAN infusion to provide satisfactory anesthesia.
 With more stimulating surgical procedures (e.g., intra-abdominal), or if supplementation with nitrous oxide is not provided, administration rate(s) of DIPRIVAN and/or opioids should be increased in order to provide adequate anesthesia.
@@ -28,9 +26,7 @@ Morphine premedication (0.15 mg/kg) with nitrous oxide 67% in oxygen has been sh
 
 Adult Patients
 
-Most adult patients under 55 years of age and classified as ASA-PS I or II require 2 mg/kg to
-
-2.5 mg/kg of DIPRIVAN for induction when unpremedicated or when premedicated with oral benzodiazepines or intramuscular opioids.
+Most adult patients under 55 years of age and classified as ASA-PS I or II require 2 mg/kg to 2.5 mg/kg of DIPRIVAN for induction when unpremedicated or when premedicated with oral benzodiazepines or intramuscular opioids.
 For induction, DIPRIVAN should be titrated (approximately 40 mg every 10 seconds) against the response of the patient until the clinical signs show the onset of anesthesia.
 As with other general anesthetics, the amount of intravenous opioid and/or benzodiazepine premedication will influence the response of the patient to an induction dose of DIPRIVAN.
 
