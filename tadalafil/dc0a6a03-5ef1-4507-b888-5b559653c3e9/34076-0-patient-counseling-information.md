@@ -13,5 +13,4 @@ See FDA-Approved Patient Labeling (Patient Information)
 
 Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854.
 
-By: HETERO TM HETERO LABS LIMITED 22-110, I.D.A., Jeedimetla, Hyderabad – 500 055, India.
-Revised: 09/2022
+By: HETERO TM Hetero Labs Limited Jeedimetla, Hyderabad - 500 055, India Revised: 09/2023

@@ -23,7 +23,7 @@ Never take tadalafil tablets with any nitrate or guanylate cyclase stimulator me
 - use recreational drugs called “poppers” like amyl nitrate, butyl nitrate or nitrite.
 - take any medicines called guanylate cyclase stimulators
 - are allergic to tadalafil or any other ingredient in tadalafil tablets.
-  See “What are the ingredients in tadalafil tablets?” at the end of this leaflet.
+  See “What are the ingredients in tadalafil tablets?”at the end of this leaflet.
   See “What is the most important information I should know about tadalafil tablets?”
   What should I tell my healthcare provider before taking tadalafil tablets?
   Before taking tadalafil tablets, tell your healthcare provider about all of your medical conditions, including if you:
@@ -46,7 +46,7 @@ Never take tadalafil tablets with any nitrate or guanylate cyclase stimulator me
   If you breastfeed while taking if tadalafil tablets, it is likely that tadalafil tablets will pass into your breast milk.
   You and your healthcare provider should decide if you will take tadalafil tablets or breastfeed.
   You should not do both.
-  Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+  Tell your healthcare provider about all the medicines you take,including prescription and non-prescription medicines, vitamins, and herbal supplements.
   Tadalafil tablets and other medicines may affect each other.
   Especially tell your healthcare provider if you take any of these medicines*:
 - nitrates or guanylate cyclase stimulators (see “What is the most important information I should know about tadalafil tablets?”)
@@ -60,7 +60,7 @@ Never take tadalafil tablets with any nitrate or guanylate cyclase stimulator me
 - rifampin (Rifadin ®, Rifamate ®, Rifater ®, Rimactane ®)
 - bosentan (Tracleer ®)
 - phenobarbital, phenytoin (Dilantin ®), carbamazepine (Tegretol ®)
-- CIALIS ® or other medicines or treatments for erectile dysfunction (impotence).
+- CIALIS ®or other medicines or treatments for erectile dysfunction (impotence).
 - Tadalafil tablet is also marketed as CIALIS for the treatment of male erectile dysfunction (ED, impotence) and for the signs and symptoms of benign prostatic hyperplasia (BPH, enlarged prostate).
   Do not take both tadalafil tablets and CIALIS.
   Do not take tadalafil tablets and other medicines or treatments for erectile dysfunction.
@@ -85,9 +85,8 @@ Never take tadalafil tablets with any nitrate or guanylate cyclase stimulator me
   If you notice a sudden decrease or loss of vision in one or both eyes, contact a healthcare provider right away.
 - Sudden decrease or loss of hearing, sometimes with ringing in the ears and dizziness.
   If you notice a sudden decrease or loss of hearing, contact a healthcare provider right away.
-- In men, an erection that lasts more than 4 hours (with or without pain).
-  Talk to your healthcare provider or go to the emergency department right away.
-  An erection that lasts more than 4 hours must be treated as soon as possible or you can have lasting damage to your penis, including the inability to have erections.
+- In men, an erection that lasts more than 4 hours (with or without pain).Talk to your healthcare provider or go to the emergency department right away.
+  An erection that lasts more than 4 hoursmust be treated as soon as possible or you can have lasting damage to your penis, including the inability to have erections.
   See “What is the most important information I should know about tadalafil tablets?”
   The most common side effects with tadalafil tablets include:
 - headache
@@ -110,13 +109,13 @@ Never take tadalafil tablets with any nitrate or guanylate cyclase stimulator me
   This patient information leaflet summarizes the most important information about tadalafil tablets.
   If you would like more information, talk with your healthcare provider.
   You can ask your healthcare provider or pharmacist for information about tadalafil tablets that is written for healthcare professionals.
-  What Are The Ingredients In tadalafil tablets?
+  What are The Ingredients In tadalafil tablets?
   Active Ingredient: tadalafil, USP Inactive Ingredients: colloidal silicon dioxide, copovidone, croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyoxyl 40 hydrogenated castor oil, talc, titanium dioxide, and triacetin.
   Rx only *The brands listed are trademarks of their respective owners and are not trademarks of Hetero Labs Limited.
   The makers of these brands are not affiliated with and do not endorse Hetero Labs Limited or its products.
 
-Patient Information available at http://camberpharma.com/medication-guides
-
 Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854.
-By: HETERO TM HETERO LABS LIMITED 22-110, I.D.A., Jeedimetla, Hyderabad – 500 055, India.
-Revised: 09/2022
+
+By: HETERO TM Hetero Labs Limited Jeedimetla, Hyderabad - 500 055, India
+
+Revised: 09/2023

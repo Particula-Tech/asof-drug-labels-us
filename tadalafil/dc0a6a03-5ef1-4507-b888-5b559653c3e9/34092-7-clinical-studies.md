@@ -14,12 +14,12 @@ More than half (53%) of the subjects in the study were receiving concomitant bos
 The majority of subjects had a World Health Organization (WHO) Functional Class III (65%) or II (32%).
 The mean baseline 6-minute walk distance (6-MWD) was 343 meters.
 Of the 405 subjects, 341 completed the study.
-The primary efficacy endpoint was the change from baseline at week 16 in 6-MWD (see Figure 4).
+The primary efficacy endpoint was the change from baseline at week 16 in 6-MWD (seeFigure 4).
 In the tadalafil tablets 40 mg treatment group, the placebo-adjusted mean change increase in 6-MWD was 33 meters (95% C.I.
 15 to 50 meters; p=0.0004).
 The improvement in 6-MWD was apparent at 8 weeks of treatment and then maintained at week 12 and week 16.
 
-Figure 4: 6-Minute Walk Distance (meters) Mean Change from Baseline, with 95% Confidence Intervals Placebo-adjusted changes in 6-MWD at 16 weeks were evaluated in subgroups (see Figure 5).
+Figure 4: 6-Minute Walk Distance (meters) Mean Change from Baseline, with 95% Confidence Intervals Placebo-adjusted changes in 6-MWD at 16 weeks were evaluated in subgroups (seeFigure 5).
 In patients taking only tadalafil 40 mg (i.e., without concomitant bosentan), the placebo-adjusted mean change in 6-MWD was 44 meters.
 In patients taking tadalafil 40 mg and concomitant bosentan therapy, the placebo adjusted mean change in 6-MWD was 23 meters.
 
@@ -35,7 +35,7 @@ Table 2: Number (percent) with Clinical Worsening a
 | New PAH therapy | 0 | 1 | 0 | 2 | 1 |
 | Worsening WHO class | 11 | 10 | 6 | 6 | 3 |
 
-a Subjects may be counted in more than one category The Kaplan-Meier plot of times to clinical worsening is shown below in Figure 6.
+aSubjects may be counted in more than one category The Kaplan-Meier plot of times to clinical worsening is shown below in Figure 6.
 
 Figure 6: Kaplan-Meier Plot of Time to Clinical Worsening
 
