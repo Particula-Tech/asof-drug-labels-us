@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA040026"
+  ],
+  "inn": "promethazine",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-774-41",
+    "62135-774-47"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "promethazine hydrochloride",
+      "name": "PROMETHAZINE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "2ca17cd4-460e-4d54-8c53-a58a2b80e5cb",
+  "source": "dailymed"
+}
