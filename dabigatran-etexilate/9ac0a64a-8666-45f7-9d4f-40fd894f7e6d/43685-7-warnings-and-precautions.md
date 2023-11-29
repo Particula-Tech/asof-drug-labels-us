@@ -14,7 +14,7 @@ Discontinue PRADAXA Oral Pellets in patients with active pathological bleeding [
 Risk factors for bleeding include the concomitant use of other drugs that increase the risk of bleeding (e.g., anti-platelet agents, heparin, fibrinolytic therapy, and chronic use of NSAIDs).
 PRADAXA's anticoagulant activity and half-life are increased in patients with renal impairment [see Clinical Pharmacology (12.2)].
 
-Reversal of Anticoagulant Effect:
+Reversal of Anticoagulant Effect
 
 Hemodialysis can remove dabigatran; however the clinical experience supporting the use of hemodialysis as a treatment for bleeding is limited [see Overdosage (10)].
 Prothrombin complex concentrates or recombinant Factor VIIa may be considered but their use has not been evaluated in clinical trials.

@@ -21,11 +21,11 @@ Treatment of VTE in Pediatric Patients
 The safety of PRADAXA in the treatment of VTE in pediatric patients was studied in one phase III trial (DIVERSITY).
 The DIVERSITY study was a randomized, open-label, active-controlled, parallel-group trial comparing PRADAXA with standard of care – SOC (vitamin K antagonists, low molecular weight heparin, or fondaparinux).
 There were 266 pediatric patients who received study treatment, 176 patients treated with PRADAXA and 90 patients treated with SOC.
-Patients on PRADAXA received age- and weight-adjusted doses of an age-appropriate formulation of PRADAXA (capsules, pellets, or oral solution) twice daily.
+Patients on PRADAXA received age- and weight-adjusted dosages of an age-appropriate formulation of PRADAXA (capsules, pellets, or oral solution) twice daily.
 
 Patients had a median age of 14 years (range: 0-17 years), 92% were white, and half the patients were male (50%).
 Following at least 5 days of parenteral anticoagulant therapy, the median duration of treatment with PRADAXA was 85 days (range: 1-105).
-Patients with estimated glomerular filtration rate (eGFR) < 50 mL/min/1.73m2 were excluded from the trial.
+Patients with estimated glomerular filtration rate (eGFR) < 50 mL/min/1.73 m2 were excluded from the trial.
 
 Bleeding
 
@@ -49,7 +49,7 @@ Site-specific bleeding rates were comparable between the two arms, with the exce
 
 Gastrointestinal Adverse Reactions
 
-The incidence of gastrointestinal adverse reactions for patients on PRADAXA and SOC was 32% and 12%, respectively, with the following occurring in ≥5% of patients taking PRADAXA: dyspepsia (including term gastro-esophageal reflux disease, gastric pH decreased and esophagitis) in 9% (vs 2%), upper abdominal pain in 5% (vs 1%), vomiting in 8% (vs 2%), nausea 5% (vs 4%), and diarrhea 5% (vs 1%).
+The incidence of gastrointestinal adverse reactions for patients on PRADAXA and SOC was 32% and 12%, respectively, with the following occurring in ≥ 5% of patients taking PRADAXA: dyspepsia (including term gastro-esophageal reflux disease, gastric pH decreased and esophagitis) in 9% (vs 2%), upper abdominal pain in 5% (vs 1%), vomiting in 8% (vs 2%), nausea 5% (vs 4%), and diarrhea 5% (vs 1%).
 
 Reduction in Risk of Recurrence of VTE in Pediatric Patients
 
@@ -74,4 +74,5 @@ In adult DVT/PE pivotal studies, drug hypersensitivity (including urticaria, ras
 
 The following adverse reactions have been identified during post approval use of PRADAXA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The following adverse reactions have been identified during post approval use of PRADAXA: angioedema, thrombocytopenia, esophageal ulcer, alopecia, neutropenia, agranulocytosis.
+
+Blood and Lymphatic System Disorders: Agranulocytosis, neutropenia, thrombocytopenia Gastrointestinal Disorders: Esophageal ulcer Immune System Disorders: Angioedema Renal and Urinary Disorders: Anticoagulant-related nephropathy Skin and Subcutaneous Tissue Disorders: Alopecia

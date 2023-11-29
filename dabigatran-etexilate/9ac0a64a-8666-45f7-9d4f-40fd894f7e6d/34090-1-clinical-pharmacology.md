@@ -70,11 +70,11 @@ Specific Populations
 Pediatric Patients
 
 The pharmacokinetics of dabigatran was characterized in two clinical studies (DIVERSITY and Study 2) following multiple doses in pediatric patients from birth to less than 18 years old.
-In pediatric patients taking age- and weight-adjusted doses of PRADAXA pellets (less than 12 years of age), the observed geometric mean steady-state trough concentration was 54.7 ng/mL (25.9 to 88.3 ng/mL, 10th to 90th percentile) compared to the geometric mean steady-state trough concentration of 59.7 ng/mL (26.3 to 146 ng/mL, 10th to 90th percentile) observed in adult patients with DVT/PE taking PRADAXA capsules.
+In pediatric patients taking age- and weight-adjusted dosages of PRADAXA pellets (less than 12 years of age), the observed geometric mean steady-state trough concentration was 54.7 ng/mL (25.9 to 88.3 ng/mL, 10th to 90th percentile) compared to the geometric mean steady-state trough concentration of 59.7 ng/mL (26.3 to 146 ng/mL, 10th to 90th percentile) observed in adult patients with DVT/PE taking PRADAXA Capsules.
 
 Renal Impairment
 
-An open, parallel-group, single-center study compared dabigatran pharmacokinetics in healthy adult subjects and adult patients with mild to moderate renal impairment receiving a single dose of PRADAXA capsules 150 mg.
+An open, parallel-group, single-center study compared dabigatran pharmacokinetics in healthy adult subjects and adult patients with mild to moderate renal impairment receiving a single dose of PRADAXA Capsules 150 mg.
 Exposure to dabigatran increases with severity of renal function impairment (Table 4).
 Similar findings were observed in the RE-LY, RE-COVER and RE-NOVATE II trials.
 
@@ -99,11 +99,11 @@ A summary of the effect of coadministered drugs on dabigatran exposure in adult 
 
 Figure 1 Effect of P-gp Inhibitor or Inducer (rifampicin) Drugs on Peak and Total Exposure to Dabigatran (Cmax and AUC).
 Shown are the Geometric Mean Ratios (Ratio) and 90% Confidence Interval (90% CI).
-The Perpetrator and Dabigatran Etexilate Dose and Dosing Frequency are given as well as the Time of Perpetrator Dosing in Relation to Dabigatran Etexilate Dose (Time Difference)
+The Perpetrator and Dabigatran Etexilate Dosage and Dosage Frequency are given as well as the Time of Perpetrator Dosage in Relation to Dabigatran Etexilate Dosage (Time Difference)
 
 Figure 2 Effect of Non-P-gp Inhibitor or Inducer, Other Drugs, on Peak and Total Exposure to Dabigatran (Cmax and AUC).
 Shown are the Geometric Mean Ratios (Ratio) and 90% Confidence Interval (90% CI).
-The Perpetrator and Dabigatran Etexilate Dose and Dosing Frequency are given as well as the Time of Perpetrator Dosing in Relation to Dabigatran Etexilate Dose (Time Difference)
+The Perpetrator and Dabigatran Etexilate Dosage and Dosage Frequency are given as well as the Time of Perpetrator Dosage in Relation to Dabigatran Etexilate Dosage (Time Difference)
 
 Impact of Dabigatran on Other Drugs
 

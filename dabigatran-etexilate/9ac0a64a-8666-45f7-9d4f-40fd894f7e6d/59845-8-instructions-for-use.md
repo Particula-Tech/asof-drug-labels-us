@@ -85,9 +85,9 @@ Keep PRADAXA Oral Pellets and all medicines out of the reach of children.
 
 For more information about PRADAXA Oral Pellets, call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257.
 
-Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA Copyright © 2022 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
+Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA Copyright © 2023 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-COL8834DC302022
+COL8834EK162023
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: March 2022
+Revised: November 2023

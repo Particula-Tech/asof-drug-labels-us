@@ -6,19 +6,19 @@ Dabigatran etexilate is available in different dosage forms and not all dosage f
 In addition, there are differences between the dosage forms with respect to dosing due to differences in bioavailability.
 Do not substitute different dosage forms (for example, capsules) for oral pellets on a milligram-to-milligram basis and do not combine more than one dosage form to achieve the total dose [see Clinical Pharmacology (12.3)].
 
-## 2.2 Recommended PRADAXA Oral Pellets Dose for Pediatric Patients
+## 2.2 Recommended PRADAXA Oral Pellets Dosage for Pediatric Patients
 
 PRADAXA Oral Pellets can be used in pediatric patients aged 3 months to less than 12 years as soon as they are able to swallow soft food.
 For the treatment of VTE in pediatric patients, treatment should be initiated following treatment with a parenteral anticoagulant for at least 5 days.
 For reduction in risk of recurrence of VTE, treatment should be initiated following previous treatment.
 
-The recommended dose of PRADAXA Oral Pellets is based on the patient's age and actual weight as shown in the tables below.
+The recommended dosage of PRADAXA Oral Pellets is based on the patient's age and actual weight as shown in the tables below.
 PRADAXA Oral Pellets is administered twice daily.
-Adjust the dose according to age and actual weight as treatment progresses.
+Adjust the dosage according to age and actual weight as treatment progresses.
 
-Table 1 Age- and Weight-Based Dosing for PRADAXA Oral Pellets for Pediatric Patients less than 2 Years Old
+Table 1 Age- and Weight-Based Dosage for PRADAXA Oral Pellets for Pediatric Patients less than 2 Years Old
 
-| Actual Weight (kg) | Age (in months) | Dose (mg) twice daily | Number of Packets Needed |
+| Actual Weight (kg) | Age (in months) | Dosage (mg) twice daily | Number of Packets Needed |
 | --- | --- | --- | --- |
 | 3 kg to less than 4 kg | 3 to less than 6 months | 30 mg | one 30 mg packet twice daily |
 | 4 kg to less than 5 kg | 3 to less than 10 months | 40 mg | one 40 mg packet twice daily |
@@ -37,9 +37,9 @@ Table 1 Age- and Weight-Based Dosing for PRADAXA Oral Pellets for Pediatric Pati
 | 16 kg to less than 21 kg | 12 to less than 24 months | 140 mg | one 30 mg packet plus one 110 mg packet twice daily |
 | 21 kg to less than 26 kg | 18 to less than 24 months | 180 mg | one 30 mg packet plus one 150 mg packet twice daily |
 
-Table 2 Weight-Based Dosing for PRADAXA Oral Pellets for Pediatric Patients between 2 Years to less than 12 Years Old
+Table 2 Weight-Based Dosage for PRADAXA Oral Pellets for Pediatric Patients between 2 Years to less than 12 Years Old
 
-| Actual Weight (kg) | Dose (mg) twice daily | Number of Packets Needed |
+| Actual Weight (kg) | Dosage (mg) twice daily | Number of Packets Needed |
 | --- | --- | --- |
 | 7 kg to less than 9 kg | 70 mg | one 30 mg packet plus one 40 mg packet twice daily |
 | 9 kg to less than 11 kg | 90 mg | one 40 mg packet plus one 50 mg packet twice daily |
@@ -61,8 +61,8 @@ Discontinue PRADAXA Oral Pellets in patients who develop acute renal failure whi
 
 Prior to the initiation of treatment with PRADAXA Oral Pellets, estimate the glomerular filtration rate (eGFR) using the Schwartz formula, eGFR (Schwartz) = (0.413 × height in cm) / serum creatinine in mg/dL.
 
-Due to lack of data in pediatric patients with an eGFR < 50 mL/min/1.73m2 and the risk of increased exposure, avoid use of PRADAXA Oral Pellets in these patients.
-Treat patients with an eGFR > 50 mL/min/1.73m2 with the dose according to Tables 1 and 2 [see Dosage and Administration (2.2)].
+Due to lack of data in pediatric patients with an eGFR < 50 mL/min/1.73 m2 and the risk of increased exposure, avoid use of PRADAXA Oral Pellets in these patients.
+Treat patients with an eGFR > 50 mL/min/1.73 m2 with the dosage according to Tables 1 and 2 [see Dosage and Administration (2.2)].
 
 ## 2.4 Administration
 
@@ -109,8 +109,8 @@ When converting patients from warfarin therapy to PRADAXA Oral Pellets, disconti
 
 When converting from PRADAXA Oral Pellets to warfarin, adjust the starting time of warfarin as follows:
 
-- For eGFR ≥50 mL/min/1.73m2, start warfarin 3 days before discontinuing PRADAXA Oral Pellets.
-- Patients with an eGFR <50 mL/min/1.73m2 have not been studied.
+- For eGFR ≥ 50 mL/min/1.73 m2, start warfarin 3 days before discontinuing PRADAXA Oral Pellets.
+- Patients with an eGFR < 50 mL/min/1.73 m2 have not been studied.
   Avoid use of PRADAXA Oral Pellets in these patients.
 
 Because PRADAXA Oral Pellets can increase INR, the INR will better reflect warfarin's effect only after PRADAXA Oral Pellets have been stopped for at least 2 days [see Clinical Pharmacology (12.2)].
@@ -124,8 +124,8 @@ For pediatric patients currently taking PRADAXA Oral Pellets, wait 12 hours afte
 ## 2.7 Discontinuation for Surgery and Other Interventions
 
 If possible, discontinue PRADAXA Oral Pellets before invasive or surgical procedures because of the increased risk of bleeding.
-For pediatric patients, PRADAXA Oral Pellets should be stopped 24 hours before an elective surgery (eGFR > 80 mL/min/1.73m2) or 2 days before an elective surgery (eGFR 50-80 mL/min/1.73m2).
-Pediatric patients with an eGFR < 50 mL/min/1.73m2 have not been studied, avoid use of PRADAXA Oral Pellets in these patients.
+For pediatric patients, PRADAXA Oral Pellets should be stopped 24 hours before an elective surgery (eGFR > 80 mL/min/1.73 m2) or 2 days before an elective surgery (eGFR 50-80 mL/min/1.73 m2).
+Pediatric patients with an eGFR < 50 mL/min/1.73 m2 have not been studied, avoid use of PRADAXA Oral Pellets in these patients.
 
 Consider longer times for patients undergoing major surgery, spinal puncture, or placement of a spinal or epidural catheter or port, in whom complete hemostasis may be required [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 

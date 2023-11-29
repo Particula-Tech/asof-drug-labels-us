@@ -71,7 +71,7 @@ Information on the use of PRADAXA Capsules in geriatric patients is available in
 
 ## 8.6 Renal Impairment
 
-PRADAXA has not been studied in pediatric patients with an eGFR < 50 mL/min/1.73m2.
+PRADAXA has not been studied in pediatric patients with an eGFR < 50 mL/min/1.73 m2.
 Reduced renal function could increase exposure.
 Dosing recommendations cannot be provided for treatment of these patients.
 Avoid use of PRADAXA in these patients [see Dosage and Administration (2.3)].
