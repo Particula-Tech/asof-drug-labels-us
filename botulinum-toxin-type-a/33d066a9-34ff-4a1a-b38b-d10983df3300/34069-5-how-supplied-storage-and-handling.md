@@ -8,11 +8,10 @@ BOTOX (onabotulinumtoxinA) for injection is a sterile, vacuum-dried powder suppl
 
 200 Units NDC 0023-3921-02
 
-The top and bottom flaps of the BOTOX cartons have a tamper-evident seal that contains a translucent silver Allergan logo and the BOTOX vial labels have a holographic film that contains the name “Allergan” within rainbow colored horizontal lines (rotate the vial back and forth between your fingers under a desk lamp or fluorescent light source to see the hologram).
-(Note: the holographic film on the label is absent in the date/lot area.)
-Each BOTOX vial label and carton also contains the U.S. License number: 1145 [see Dosage and Administration (2.1)].
+BOTOX cartons have features to alert users if contents may have been compromised.
+Each BOTOX vial label and carton also contains the U.S. License number: 1889 [see Dosage and Administration (2.1)].
 
-Do not use the product and contact Allergan for additional information at 1-800-678-1605 if the labeling is not described as above.
+Do not use the product and contact AbbVie for additional information at 1-800-678-1605 if the labeling is not described as above.
 
 ## 16.2Storage and Handling
 

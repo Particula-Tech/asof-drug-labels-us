@@ -14,11 +14,10 @@ The safe and effective use of BOTOX depends upon proper storage of the product, 
 An understanding of standard electromyographic techniques is also required for treatment of strabismus, upper or lower limb spasticity, and may be useful for the treatment of cervical dystonia.
 Physicians administering BOTOX must understand the relevant neuromuscular and structural anatomy of the area involved and any alterations to the anatomy due to prior surgical procedures and disease, especially when injecting near the lungs.
 
-Do not use BOTOX and contact Allergan (1-800-678-1605) if:
+Do not use BOTOX and contact AbbVie (1-800-678-1605) if:
 
-- the carton labeling does not contain an intact seal with a translucent silver Allergan logo (on both ends of the carton) or the seal has a black circle with a diagonal line through it (i.e., prohibition sign),
-- the vial label does not contain a holographic film containing the name “Allergan” within rainbow colored horizontal lines, or
-- the U.S. License number 1145 is not present on the vial label and carton labeling [see How Supplied/Storage and Handling (16)].
+- the tamper evident features on the carton appear to be broken or compromised, or
+- the U.S. License number 1889 is not present on the vial label and carton labeling [see How Supplied/Storage and Handling (16)].
 
 ## 2.2Preparation and Dilution Technique
 
