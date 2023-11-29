@@ -59,7 +59,7 @@ The active thiol metabolite binds rapidly and irreversibly to platelet receptors
 
 The Cmax of the active metabolite is twice as high following a single 300 mg clopidogrel loading dose as it is after four days of 75 mg maintenance dose.
 Cmax occurs approximately 30 to 60 minutes after dosing.
-In the 75 to 300 mg dose range, the pharmacokinetics of the active metabolite deviates from dose proportionality: 4-fold the dose results in 2.0-fold and 2.7-fold the Cmax and AUC, respectively.
+In the 75 to 300 mg dose range, the pharmacokinetics of the active metabolite deviates from dose proportionality: 4-fold the dose results in 2-fold and 2.7-fold the Cmax and AUC, respectively.
 
 Elimination
 
@@ -115,4 +115,4 @@ Decreased active metabolite exposure and diminished inhibition of platelet aggre
 | Cmax (ng/mL) | 300 mg (24 h) 600 mg (24 h) 75 mg (Day 5) 150 mg (Day 5) | 11 (4) 17 (6) 4 (1) 7 (2) | 23 (11) 39 (23) 12 (5) 18 (7) | 32 (21) 44 (27) 13 (7) 19 (5) | 24 (10) 36 (13) 12 (6) 16 (9) |
 | IPA (%)‡ | 300 mg (24 h) 600 mg (24 h) 75 mg (Day 5) 150 mg (Day 5) | 24 (26) 32 (25) 37 (23) 61 (14) | 37 (21) 56 (22) 60 (18) 74 (14) | 39 (28) 49 (23) 58 (19) 73 (9) | 40 (21) 51 (28) 56 (13) 68 (18) |
 | VASP-PRI (%)§ | 300 mg (24 h) 600 mg (24 h) 75 mg (Day 5) 150 mg (Day 5) | 91 (12) 85 (14) 83 (13) 61 (18) | 78 (12) 56 (26) 50 (16) 29 (11) | 68 (16) 48 (20) 39 (14) 24 (10) | 73 (12) 51 (20) 40 (9) 20 (10) |
-| *Intermediate metabolizers have one but not two nonfunctional alleles. †Ultrarapid metabolizers have at least one gain-of-function allele. ‡Inhibition of platelet aggregation with 5mcM ADP; larger value indicates greater platelet inhibition. §Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition. Values are mean (SD). |  |  |  |  |  |
+| *Intermediate metabolizers have one but not two nonfunctional alleles. †Ultrarapid metabolizers have at least one gain-of-function allele. ‡Inhibition of platelet aggregation with 5 mcM ADP; larger value indicates greater platelet inhibition. §Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition. Values are mean (SD). |  |  |  |  |  |

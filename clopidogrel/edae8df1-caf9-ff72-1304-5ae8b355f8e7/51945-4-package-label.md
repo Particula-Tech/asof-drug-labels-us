@@ -37,15 +37,3 @@ APOTEX CORP. NDC 60505-3532-5
 Rx only
 
 500 Tablets
-
-# Principal Display Panel
-
-Representative sample of labeling (see HOW SUPPLIED section for complete listing):
-
-APOTEX CORP. NDC 60505-3532-2
-
-300 mg
-
-Rx only
-
-30 Tablets

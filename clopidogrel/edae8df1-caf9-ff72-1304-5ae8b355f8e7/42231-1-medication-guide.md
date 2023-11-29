@@ -1,10 +1,8 @@
 # Medication Guide
 
-Clopidogrel Tablets, USP 75 mg and 300 mg
+Clopidogrel (kloe pid’ oh grel) Tablets, USP
 
-(kloe pid’ oh grel)
-
-Medication Guide available at www1.apotex.com/products/us
+Medication Guide available at https://www.apotex.com/products/us/mg.asp
 
 Read this Medication Guide before you start taking clopidogrel tablets and each time you get a refill.
 There may be new information.
@@ -70,12 +68,12 @@ What should I tell my doctor before taking clopidogrel tablets?
 
 Before you take clopidogrel tablets, tell your doctor if you:
 
-- have a history of bowel (gastrointestinal) or stomach ulcers
-- have a history of bleeding problems
+- have a history of bowel (gastrointestinal) or stomach ulcers.
+- have a history of bleeding problems.
 - plan to have surgery or a dental procedure.
   See "How should I take clopidogrel tablets?"
 - are pregnant or plan to become pregnant.
-  It is not known if clopidogrel will harm your unborn baby
+  It is not known if clopidogrel will harm your unborn baby.
 - are breastfeeding or plan to breastfeed.
   It is not known if clopidogrel passes into your breast milk.
   A decision should be made with your healthcare provider to avoid or discontinue breastfeeding when continuing clopidogrel is needed.
@@ -201,9 +199,9 @@ CLOPIDOGREL TABLETS, USP 75 mg and 300 mg
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, Ontario | Weston, Florida |
-| Canada M9L 1T9 | 33326 |
+| Canada M9L 1T9 | USA, 33326 |
 
-Revised: October 2022
+Revised: November 2023
 
 Rev.
-29
+30

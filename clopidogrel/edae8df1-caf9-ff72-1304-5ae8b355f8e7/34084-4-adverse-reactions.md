@@ -24,7 +24,7 @@ The overall incidence of bleeding is described in Table 1.
 
 | Table 1: CURE Incidence of Bleeding Complications (% patients) |  |  |
 | --- | --- | --- |
-| Event | Clopidogrel (+aspirin) (n=6259) | Placebo (+ aspirin) (n=6303) |
+| Event | Clopidogrel (+aspirin) (n=6,259) | Placebo (+ aspirin) (n=6,303) |
 | Major bleeding* | 3.7 | 2.7 |
 | Life-threatening bleeding | 2.2 | 1.8 |
 | Fatal | 0.2 | 0.2 |
@@ -49,7 +49,7 @@ In COMMIT, similar rates of major bleeding were observed in the clopidogrel and 
 
 Table 2: Incidence of Bleeding Events in COMMIT (% patients)
 
-| Type of Bleeding | Clopidogrel (+ aspirin) (n=22961) | Placebo (+ aspirin) (n=22891) | p-value |
+| Type of Bleeding | Clopidogrel (+ aspirin) (n=22,961) | Placebo (+ aspirin) (n=22,891) | p-value |
 | --- | --- | --- | --- |
 | Major* noncerebral or cerebral bleeding | 0.6 | 0.5 | 0.59 |
 | Major noncerebral | 0.4 | 0.3 | 0.48 |
@@ -63,7 +63,7 @@ Table 2: Incidence of Bleeding Events in COMMIT (% patients)
 
 CAPRIE (Clopidogrel vs Aspirin)
 
-In CAPRIE, gastrointestinal hemorrhage occurred at a rate of 2.0% in those taking clopidogrel versus 2.7% in those taking aspirin; bleeding requiring hospitalization occurred in 0.7% and 1.1%, respectively.
+In CAPRIE, gastrointestinal hemorrhage occurred at a rate of 2% in those taking clopidogrel versus 2.7% in those taking aspirin; bleeding requiring hospitalization occurred in 0.7% and 1.1%, respectively.
 The incidence of intracranial hemorrhage was 0.4% for clopidogrel compared to 0.5% for aspirin.
 
 Other bleeding events that were reported more frequently in the clopidogrel group were epistaxis and hematoma.
