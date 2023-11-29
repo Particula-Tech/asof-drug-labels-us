@@ -17,7 +17,7 @@ These risk differences (drug-placebo difference in the number of cases of suicid
 
 Table 1
 
-| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality Per 1000 Patients Treated |
+| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
 | Increases Compared to Placebo |  |
 | < 18 | 14 additional cases |
