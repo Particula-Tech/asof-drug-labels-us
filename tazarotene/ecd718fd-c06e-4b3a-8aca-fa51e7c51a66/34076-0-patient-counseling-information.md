@@ -19,7 +19,7 @@ Advise the patient of the following:
 
 1. For the patient with psoriasis, apply tazarotene gel only to psoriasis skin lesions, avoiding uninvolved skin.
 2. If undue irritation (redness, peeling, or discomfort) occurs, reduce frequency of application or temporarily interrupt treatment.
-   Treatment may be resumed once irritation subsides [see Dosage and Adminstration (2.1)].
+   Treatment may be resumed once irritation subsides [see Dosage and Administration (2.1)].
 3. Moisturizers may be used as frequently as desired.
 4. Patients with psoriasis may use a cream or lotion to soften or moisten skin at least 1 hour before applying tazarotene gel.
 5. Avoid contact with the eyes.
@@ -36,8 +36,8 @@ Cosette Pharmaceuticals, Inc.
 
 South Plainfield, NJ 07080
 
-8-0805CPLNC1
+8-0805CPLNC2
 
-Revised: 10/2021 VC7598
+Revised: 10/2022 VC7651
 
 Pharmacist: Please cut or tear at dotted line and provide this patient package insert to your customer.
