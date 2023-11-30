@@ -69,6 +69,7 @@ The following have been reported in general use with PROPECIA:
 - breast tenderness and enlargement.
   Tell your healthcare provider about any changes in your breasts such as lumps, pain or nipple discharge.
 - depression;
+- suicidal thoughts;
 - decrease in sex drive that continued after stopping the medication;
 - allergic reactions including rash, itching, hives and swelling of the lips, tongue, throat, and face;
 - problems with ejaculation that continued after stopping medication;

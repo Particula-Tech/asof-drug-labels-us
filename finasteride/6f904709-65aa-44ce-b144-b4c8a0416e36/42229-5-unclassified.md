@@ -13,8 +13,9 @@ Dist. by: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA
 
 For patent information: www.organon.com/our-solutions/patent/
 
-Copyright © 2021 Organon Global Inc. All rights reserved.
+© 2023 Organon group of companies.
+All rights reserved.
 
-Revised: 10/2021
+Revised: 11/2023
 
-usppi-og0906-1t-2110r001
+usppi-og0906-1t-2311r002
