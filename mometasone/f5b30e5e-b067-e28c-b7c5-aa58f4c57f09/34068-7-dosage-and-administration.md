@@ -1,4 +1,4 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 Apply a thin film of mometasone furoate, USP ointment 0.1% to the affected skin areas once daily.
 Therapy should be discontinued when control is achieved.
