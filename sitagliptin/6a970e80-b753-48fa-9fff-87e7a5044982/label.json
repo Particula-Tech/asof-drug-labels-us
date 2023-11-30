@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA211566"
+  ],
+  "inn": "sitagliptin",
+  "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+  "package_ndcs": [
+    "70710-1899-3",
+    "70710-1899-9",
+    "70710-1900-3",
+    "70710-1900-9",
+    "70710-1901-3",
+    "70710-1901-9"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sitagliptin",
+      "name": "Sitagliptin"
+    }
+  ],
+  "setid": "6a970e80-b753-48fa-9fff-87e7a5044982",
+  "source": "dailymed"
+}
