@@ -24,7 +24,7 @@ Data
 
 Animal Data
 
-In rats, a tazarotene gel, 0.05% formulation dosed topically during gestation days 6 through 17 at 0.25 mg/kg/day, which represented 0.5 times the maximum systemic exposure in subjects treated with the MRHD of tazarotene gel, 0.1% (i.e., 2 mg/cm 2 over a 20% body surface area), resulted in reduced fetal body weights and reduced skeletal ossification.
+In rats, a tazarotene gel, 0.05% formulation dosed topically during gestation days 6 through 17 at 0.25 mg/kg/day, which represented 0.5 times the maximum systemic exposure in subjects treated with the MRHD of tazarotene gel, 0.1% (i.e., 2 mg/cm 2over a 20% body surface area), resulted in reduced fetal body weights and reduced skeletal ossification.
 Rabbits dosed topically with 0.25 mg/kg/day tazarotene gel, which represented 7 times the maximum systemic exposure in subjects treated with the MRHD of tazarotene gel, 0.1%, during gestation days 6 through 18 were noted with single incidences of known retinoid malformations, including spina bifida, hydrocephaly, and heart anomalies.
 
 When tazarotene was given orally to animals, developmental delays were seen in rats, and malformations and post-implantation loss were observed in rats and rabbits at doses producing 0.5 and 13 times, respectively, the maximum systemic exposure in subjects treated with the MRHD of tazarotene gel, 0.1%.

@@ -36,8 +36,8 @@ Cosette Pharmaceuticals, Inc.
 
 South Plainfield, NJ 07080
 
-8-0804CPLNC1
+8-0804CPLNC2
 
-Revised: 08/2021 VC7596
+Revised: 09/2022 VC7652
 
 Pharmacist: Please cut or tear at dotted line and provide this patient package insert to your customer.
