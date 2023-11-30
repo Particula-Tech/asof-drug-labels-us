@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA214520"
+  ],
+  "inn": "heparin",
+  "labeler": "CorMedix Inc.",
+  "package_ndcs": [
+    "72990-103-03",
+    "72990-103-10",
+    "72990-105-05",
+    "72990-105-10"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "taurolidine and heparin",
+      "name": "DEFENCATH"
+    }
+  ],
+  "setid": "13b3a61e-5a4b-4afb-8fa1-d76ebdb344d6",
+  "source": "dailymed"
+}
