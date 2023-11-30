@@ -2,14 +2,14 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Embryofetal Toxicity Inform females of reproductive potential of the potential risk to a fetus.
+Embryofetal ToxicityInform females of reproductive potential of the potential risk to a fetus.
 Advise these patients to use effective contraception during treatment with tazarotene cream.
 Advise patients to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1, 8.3)].
 
-Photosensitivity and Risk of Sunburn Advise patients to avoid excessive sun exposure and to use of sunscreens and protective measures (hat, visor).
+Photosensitivity and Risk of SunburnAdvise patients to avoid excessive sun exposure and to use of sunscreens and protective measures (hat, visor).
 Advise patients to avoid using tazarotene if also taking other medicines may increase sensitivity to sunlight.
 
-Important Administration Instructions Advise the patient of the following: 1.
+Important Administration InstructionsAdvise the patient of the following: 1.
 For the patient with psoriasis, apply tazarotene cream only to psoriasis skin lesions, avoiding uninvolved skin.
 2.
 If undue irritation (redness, peeling, or discomfort) occurs, reduce frequency of application or temporarily interrupt treatment.

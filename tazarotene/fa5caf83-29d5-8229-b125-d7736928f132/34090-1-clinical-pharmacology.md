@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Tazarotene is a retinoid prodrug which is converted to its active form, the carboxylic acid of tazarotene, by deesterification.
-Tazarotenic acid binds to all three members of the retinoic acid receptor (RAR) family: RARα RARβ, and RAR γ, but shows relative selectivity for RARβ, and RAR γ and may modify gene expression.
+Tazarotenic acid binds to all three members of the retinoic acid receptor (RAR) family: RARα RARβ, and RAR γ, but shows relative selectivity for RARβ, and RAR γand may modify gene expression.
 The clinical significance of these findings is unknown.
 
 ## 12.3 Pharmacokinetics
@@ -15,7 +15,7 @@ Tazarotene and tazarotenic acid were metabolized to sulfoxides, sulfones and oth
 The half-life of tazarotenic acid was approximately 18 hours, following topical application of tazarotene to normal, acne or psoriatic skin.
 
 In a multiple dose trial with a once daily dose for 14 consecutive days in 9 psoriatic subjects (male=5; female=4), measured doses of tazarotene cream, 0.1% were applied by medical staff to involved skin without occlusion (5 to 35% of total body surface area: mean ± SD: 14 ± 11%).
-The C max of tazarotenic acid was 2.31 ± 2.78 ng/mL occurring 8 hours after the final dose, and the AUC 0-24h was 31.2 ± 35.2 ng·hr/mL on day 15 in the five subjects who were administered clinical doses of 2 mg cream/cm 2.
+The C maxof tazarotenic acid was 2.31 ± 2.78 ng/mL occurring 8 hours after the final dose, and the AUC 0-24hwas 31.2 ± 35.2 ng·hr/mL on day 15 in the five subjects who were administered clinical doses of 2 mg cream/cm 2.
 
 During clinical trials with tazarotene cream, 0.05% and 0.1% treatment for plaque psoriasis, three out of 139 subjects with their systemic exposure monitored had detectable plasma tazarotene concentrations, with the highest value at 0.09 ng/mL.
 Tazarotenic acid was detected in 78 out of 139 subjects (LLOQ = 0.05 ng/mL).
@@ -24,10 +24,10 @@ The highest value was 2.4 ng/mL.
 However, because of the variations in the time of blood sampling, the area of psoriasis involvement, and the dose of tazarotene applied, actual maximal plasma levels are unknown.
 
 Tazarotene cream 0.1% was applied once daily to either the face (N=8) or to 15% of body surface area (N=10) of female subjects with moderate to severe acne vulgaris.
-The mean C max and AUC values of tazarotenic acid peaked at day 15 for both dosing groups during a 29 day treatment period.
-Mean C max and AUC 0-24h values of tazarotenic acid from subjects in the 15% body surface area dosing group were more than 10 times higher than those from subjects in the face-only dosing group.
-The single highest C max throughout the trial period was 1.91 ng/mL on day 15 in the exaggerated dosing group.
-In the face-only group, the mean ± SD values of C max and AUC 0-24h of tazarotenic acid on day 15 were 0.10 ± 0.06 ng/mL and 1.54 ± 1.01 ng·hr/mL, respectively, whereas in the 15% body surface area dosing group, the mean ± SD values of C max and AUC 0-24h of tazarotenic acid on day 15 were 1.20 ± 0.41 ng/mL and 17.01 ± 6.15 ng·hr/mL, respectively.
+The mean C maxand AUC values of tazarotenic acid peaked at day 15 for both dosing groups during a 29 day treatment period.
+Mean C maxand AUC 0-24hvalues of tazarotenic acid from subjects in the 15% body surface area dosing group were more than 10 times higher than those from subjects in the face-only dosing group.
+The single highest C maxthroughout the trial period was 1.91 ng/mL on day 15 in the exaggerated dosing group.
+In the face-only group, the mean ± SD values of C maxand AUC 0-24hof tazarotenic acid on day 15 were 0.10 ± 0.06 ng/mL and 1.54 ± 1.01 ng·hr/mL, respectively, whereas in the 15% body surface area dosing group, the mean ± SD values of C maxand AUC 0-24hof tazarotenic acid on day 15 were 1.20 ± 0.41 ng/mL and 17.01 ± 6.15 ng·hr/mL, respectively.
 The steady state pharmacokinetics of tazarotenic acid had been reached by day 8 in the face-only and by day 15 in the 15% body surface area dosing groups.
 
 In a Phase 3 clinical trial, tazarotene cream, 0.1% was applied once daily for 12 weeks to each of 48 subjects (22 females and 26 males) with facial acne vulgaris.

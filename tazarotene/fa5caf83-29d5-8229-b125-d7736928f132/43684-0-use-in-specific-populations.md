@@ -11,14 +11,13 @@ Because the exact timing and extent of exposure in relation to the gestational a
 In animal reproduction studies with pregnant rats, tazarotene dosed topically during organogenesis at 2 times the maximum systemic exposure in subjects treated with the maximum recommended human dose (MRHD) of tazarotene cream, 0.1% resulted in reduced fetal body weights and reduced skeletal ossification.
 In animal reproduction studies with pregnant rabbits dosed topically with tazarotene gel at 26 times the maximum systemic exposure in subjects treated with the MRHD of tazarotene cream, 0.1%, there was a single incident of known retinoid malformations, including spina bifida, hydrocephaly, and heart anomalies.
 
-In animal reproduction studies with pregnant rats and rabbits, tazarotene dosed orally during organogenesis at 2 and 52 times, respectively, the maximum systemic exposure in subjects treated with the MRHD of tazarotene cream, 0.1% resulted in malformations, fetal toxicity, developmental delays, and/or behavioral delays.
-In pregnant rats, tazarotene dosed orally prior to mating through early gestation resulted in decreased litter size, decreased numbers of live fetuses, decreased fetal body weights, and increased malformations at doses approximately 7 times higher than the maximum systemic exposure in subjects treated with the MRHD of tazarotene cream, 0.1% [see Data].
+In animal reproduction studies with pregnant rats and rabbits, tazarotene dosed orally during organogenesis at 2 and 52 times, respectively, the maximum systemic exposure in subjects treated with the MRHD of tazarotene cream, 0.1% resulted in malformations, fetal toxicity, developmental delays, and/or behavioral delays.In pregnant rats, tazarotene dosed orally prior to mating through early gestation resulted in decreased litter size, decreased numbers of live fetuses, decreased fetal body weights, and increased malformations at doses approximately 7 times higher than the maximum systemic exposure in subjects treated with the MRHD of tazarotene cream, 0.1% [see Data].
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 Adverse outcomes in pregnancy occur regardless of the health of the mother or the use of medications.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Data Animal Data In rats, a tazarotene gel, 0.05% formulation dosed topically during gestation days 6 through 17 at 0.25 mg/kg/day, which represented 2 times the maximum systemic exposure in subjects treated with the MRHD of tazarotene cream, 0.1% (i.e., 2 mg/cm 2 over a 15% body surface area), resulted in reduced fetal body weights and reduced skeletal ossification.
+Data Animal Data In rats, a tazarotene gel, 0.05% formulation dosed topically during gestation days 6 through 17 at 0.25 mg/kg/day, which represented 2 times the maximum systemic exposure in subjects treated with the MRHD of tazarotene cream, 0.1% (i.e., 2 mg/cm 2over a 15% body surface area), resulted in reduced fetal body weights and reduced skeletal ossification.
 Rabbits dosed topically with 0.25 mg/kg/day tazarotene gel, which represented 26 times the maximum systemic exposure in subjects treated with MRHD of tazarotene cream, 0.1%, during gestation days 6 through 18, had a single incident of known retinoid malformations, including spina bifida, hydrocephaly, and heart anomalies.
 
 When tazarotene was given orally to animals, developmental delays were seen in rats, and malformations and post-implantation loss were observed in rats and rabbits at doses representing 2 and 52 times, respectively, the maximum systemic exposure seen in subjects treated with the MRHD of tazarotene cream, 0.1%.
@@ -31,15 +30,15 @@ Based on data from another study, the maximum systemic exposure in the rat would
 
 ## 8.2 Lactation
 
-Risk Summary There is no information regarding the presence of tazarotene in human milk, the effects on the breastfed infant, or the effects on milk production.
+Risk SummaryThere is no information regarding the presence of tazarotene in human milk, the effects on the breastfed infant, or the effects on milk production.
 After single topical doses of 14C-tazarotene gel to the skin of lactating rats, radioactivity was detected in rat milk.
 The lack of clinical data during lactation precludes a clear determination of the risk of tazarotene cream to an infant during lactation; therefore, the developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for tazarotene cream and any potential adverse effects on the breastfed child from tazarotene cream or from the underlying maternal condition.
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Pregnancy Testing Pregnancy testing is recommended for females of reproductive potential within 2 weeks prior to initiating tazarotene cream therapy which should begin during a menstrual period.
+Pregnancy TestingPregnancy testing is recommended for females of reproductive potential within 2 weeks prior to initiating tazarotene cream therapy which should begin during a menstrual period.
 
-Contraception Females Based on animal studies, tazarotene cream may cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+ContraceptionFemalesBased on animal studies, tazarotene cream may cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 Advise females of reproductive potential to use effective contraception during treatment with tazarotene cream.
 
 ## 8.4 Pediatric Use
