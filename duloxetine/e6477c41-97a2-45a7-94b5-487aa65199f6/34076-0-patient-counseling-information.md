@@ -10,7 +10,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
   Use of duloxetine with heavy alcohol intake may be associated with severe liver injury [see Warnings and Precautions (5.2)].
 - Alcohol — Although duloxetine does not increase the impairment of mental and motor skills caused by alcohol, use of duloxetine concomitantly with heavy alcohol intake may be associated with severe liver injury [see Warnings and Precautions (5.2) and Drug Interactions (7.15)].
 - Orthostatic Hypotension, Falls and Syncope — Advise patients of the risk of orthostatic hypotension, falls and syncope, especially during the period of initial use and subsequent dose escalation, and in association with the use of concomitant drugs that might potentiate the orthostatic effect of duloxetine [see Warnings and Precautions (5.3)].
-- Serotonin Syndrome — Caution patients about the risk of serotonin syndrome with the concomitant use of duloxetine and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John’s Wort [see Contraindications (4), Warnings and Precautions (5.4), and Drug Interactions (7.14)].
+- Serotonin Syndrome — Caution patients about the risk of serotonin syndrome with the concomitant use of duloxetine and other serotonergic agents including triptans, tricyclic antidepressants, opioids, lithium, buspirone, tryptophan, amphetamines, and St. John’s Wort [see Contraindications (4), Warnings and Precautions (5.4), and Drug Interactions (7.14)].
   Advise patients of the signs and symptoms associated with serotonin syndrome that may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
   Caution patients to seek medical care immediately if they experience these symptoms.
 - Increased Risk of Bleeding — Caution patients about the concomitant use of duloxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.5) and Use in Specific Populations (8.1)].
@@ -36,7 +36,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
   Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.16)].
 - Pregnancy
   - Advise women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with duloxetine.
-  - Advise pregnant women or patients who intend to become pregnant that duloxetine use during the month before delivery may lead to an increased risk for postpartum hemorrhage and may increase the risk of neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+  - Advise pregnant women or patients who intend to become pregnant that duloxetine may increase the risk of neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding.
   - Advise pregnant women that there is a risk of relapse with discontinuation of antidepressants.
   - Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to duloxetine during pregnancy [see Use in Specific Populations (8.1)].
   - Lactation― Advise breastfeeding women using duloxetine to monitor infants for sedation, poor feeding and poor weight gain and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
@@ -47,7 +47,7 @@ Manufactured by:
 
 Alkem Laboratories Ltd.,
 
-INDIA.
+Mumbai-400 013, INDIA.
 
 Distributed by:
 
@@ -55,4 +55,4 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054.
 
-PT1663-06
+PT1663-07

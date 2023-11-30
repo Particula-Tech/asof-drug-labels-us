@@ -56,8 +56,10 @@ Begin treatment at 30 mg once daily for 1 week, to allow patients to adjust to d
 Some patients may respond to the starting dosage.
 There is no evidence that dosages greater than 60 mg/day confer additional benefit, even in patients who do not respond to a 60 mg/day dosage, and higher dosages were associated with a higher rate of adverse reactions.
 
-Additional pediatric use information is approved for Eli Lilly and Company, Inc.’s CYMBALTA (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Recommended Dosage in Pediatric Patients 13 to 17 Years of Age
+
+The recommended starting duloxetine delayed-release capsules dosage in pediatric patients 13-17 years of age with fibromyalgia is 30 mg once daily.
+The dosage may be increased to 60 mg once daily based on response and tolerability.
 
 ## 2.6 Dosage for Treatment of Chronic Musculoskeletal Pain in Adults
 
@@ -71,7 +73,7 @@ Avoid use in patients with chronic liver disease or cirrhosis [see Warnings and 
 
 Avoid use in patients with severe renal impairment, GFR <30 mL/minute [see Warnings and Precautions (5.14) and Use in Specific Populations (8.10)].
 
-## 2.8 Discontinuing duloxetine
+## 2.8 Discontinuing Duloxetine
 
 Adverse reactions after discontinuation of duloxetine, after abrupt or tapered discontinuation, include: dizziness, headache, nausea, diarrhea, paresthesia, irritability, vomiting, insomnia, anxiety, hyperhidrosis, and fatigue.
 A gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [see Warnings and Precautions (5.7)].
@@ -81,7 +83,7 @@ A gradual reduction in dosage rather than abrupt cessation is recommended whenev
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with duloxetine.
 Conversely, at least 5 days should be allowed after stopping duloxetine before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4)].
 
-## 2.10 Use of duloxetine with Other MAOIs such as Linezolid or Methylene Blue
+## 2.10 Use of Duloxetine with Other MAOIs such as Linezolid or Methylene Blue
 
 Do not start duloxetine in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
 In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see Contraindications (4)].

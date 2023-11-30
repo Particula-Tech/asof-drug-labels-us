@@ -114,7 +114,7 @@ Especially tell your healthcare provider if you take:
 
 - triptans used to treat migraine headache
 - medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs or MAOIs
-- tramadol and fentanyl
+- tramadol, fentanyl, meperidine, methadone, or other opioids
 - amphetamines
 - cimetidine
 - the antibiotics ciprofloxacin, enoxacin
@@ -304,6 +304,8 @@ This Medication Guide summarizes the most important information about duloxetine
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about duloxetine that is written for healthcare professionals.
 
+For more information, call 1-877- 272-7901.
+
 What are the ingredients in Duloxetine Delayed-Release Capsules USP?
 
 Active ingredient: duloxetine hydrochloride
@@ -322,7 +324,7 @@ Manufactured by:
 
 Alkem Laboratories Ltd.,
 
-INDIA.
+Mumbai-400 013, INDIA.
 
 Distributed by:
 
@@ -330,4 +332,4 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054.
 
-Revised: March, 2022
+Revised: September, 2023

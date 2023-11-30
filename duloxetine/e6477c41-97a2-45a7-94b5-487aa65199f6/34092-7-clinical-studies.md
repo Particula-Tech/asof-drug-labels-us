@@ -7,13 +7,10 @@ The efficacy of duloxetine has been established in the following populations in 
 - Major Depressive Disorder (MDD): 4 short-term (Studies MDD-1, MDD-2, MDD-3, and MDD-4) and 1 maintenance trial (Study MDD-5) in adults [see Clinical Studies (14.2)].
 - Generalized Anxiety Disorder (GAD): 3 short-term trials in adults (Studies GAD-1, GAD-2, and GAD-3), 1 maintenance trial in adults (Study GAD-4), 1 short-term trial in geriatric patients (Study GAD-5), and 1 short-term trial in pediatric patients 7 to 17 years of age (Study GAD-6) [see Clinical Studies (14.3)].
 - Diabetic Peripheral Neuropathic Pain (DPNP): Two 12-week trials in adults (Studies DPNP-1 and DPNP-2) [see Clinical Studies (14.4)].
-- Fibromyalgia (FM): Two trials in adults (one of 3 months duration and one of 6 months duration) (Studies FM-1 and FM-2) [see Clinical Studies (14.5)].
+- Fibromyalgia (FM): Two trials in adults (one of 3 months duration and one of 6 months duration) (Studies FM-1 and FM-2) and one 13-week trial in pediatric patients 13 to 17 years of age (Study FM-4) [see Clinical Studies (14.5)].
 - Chronic Musculoskeletal Pain: Two 12- to 13-week trials in adult patients with chronic low back pain (CLBP) (Studies CLBP-1 and CLBP-3) and one 13-week trial in adult patients with chronic pain due to osteoarthritis (OA) (Study OA-1) [see Clinical Studies (14.6)].
 
 Additionally, a summary of the following trials that did not demonstrate efficacy are presented below: Study FM-3 (a 16- week trial in adult patients with fibromyalgia), Study CLBP-2 (a 13-week trial in adult patients with CLBP), and Study OA-2 (a 13-week trial in adult patients with chronic pain due to OA).
-
-Additional pediatric use information is approved for Eli Lilly and Company, Inc.’s CYMBALTA (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information
 
 ## 14.2 Major Depressive Disorder in Adults
 
@@ -50,9 +47,9 @@ Two hundred and seventy-eight patients who responded to open label treatment [de
 In Study MDD-5, patients on duloxetine experienced a statistically significantly longer time to relapse of depression than did patients on placebo (see Figure 1).
 Relapse was defined as an increase in the CGI-S score of ≥2 points compared with that obtained at week 12, as well as meeting the DSM-IV criteria for MDD at 2 consecutive visits at least 2 weeks apart, where the 2-week temporal criterion had to be satisfied at only the second visit.
 
-Figure 1: Cumulative Proportiona of Adult Patients with MDD Relapse (Study MDD-5)
+Figure 1: Cumulative Proportionaof Adult Patients with MDD Relapse (Study MDD-5)
 
-a Kaplan-Meier estimator method
+a Kaplan-Meier estimator method.
 
 ## 14.3 Generalized Anxiety Disorder
 
@@ -122,7 +119,7 @@ b Dose statistically significantly superior to placebo.
 
 Figure 2: Cumulative Proportiona of Adult Patients with GAD Relapse (Study GAD-4)
 
-a Kaplan-Meier estimator medthod
+a Kaplan-Meier estimator method.
 
 ## 14.4 Diabetic Peripheral Neuropathic Pain in Adults
 
@@ -141,7 +138,8 @@ Treatment with duloxetine 60 mg one or two times a day statistically significant
 For various degrees of improvement in pain from baseline to study endpoint, Figures 3 and 4 show the fraction of patients achieving that degree of improvement in Studies DPNP-1 and DPNP-2, respectively.
 The figures are cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the trial were assigned 0% improvement.
-Some patients experienced a decrease in pain as early as week 1, which persisted throughout the trial Figure 3: Percentage of DPNP Adult Patients Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity (Study DPNP-1) Figure 4: Percentage of DPNP Adult Patients Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity (Study DPNP-2)
+Some patients experienced a decrease in pain as early as week 1, which persisted throughout the trial.
+Figure 3: Percentage of DPNP Adult Patients Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity (Study DPNP-1) Figure 4: Percentage of DPNP Adult Patients Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity (Study DPNP-2)
 
 ## 14.5 Fibromyalgia
 
@@ -175,8 +173,21 @@ Subsequently, completers of this phase were randomized to double-blind treatment
 Responders were defined as patients who had at least a 30% reduction in pain score from baseline at the end of the 8-week treatment.
 Patients who were non-responders at 8 weeks were no more likely to meet response criteria at the end of 60 weeks of treatment if blindly titrated to duloxetine 120 mg as compared to those who were blindly continued on duloxetine 60 mg.
 
-Additional pediatric use information is approved for Eli Lilly and Company, Inc.’s CYMBALTA (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric Trial in Fibromyalgia
+
+Duloxetine was studied in 184 pediatric patients aged 13 to 17 years with juvenile fibromyalgia syndrome in a 13-week, placebo-controlled trial (Study FM-4).
+In Study FM-4, 149 (81%) patients completed the trial.
+Duloxetine (N=91) was initiated at a dosage of 30 mg once daily for one week and titrated to 60 mg once daily for 12 weeks, as tolerated.
+The mean dosage for patients completing the 12-week treatment phase was 49 mg/day.
+Duloxetine showed improvement over placebo on the primary endpoint [change from baseline to end-of-treatment on the Brief Pain Inventory (BPI) – Modified Short Form: Adolescent Version 24-hour average pain severity rating] with a p-value of 0.052 from the pre­specified primary analysis, and p-values ranging from 0.011-0.020 from sensitivity analyses which assigned baseline values to missing assessments of some patients who did not complete the trial for various reasons.
+The patients had a baseline BPI of 5.7.
+For various degrees of improvement in pain from baseline to study endpoint, Figure 7 shows the fraction of patients achieving that degree of improvement in Study FM-4.
+
+Figure 7: Percentage of Pediatric Patients Aged 13 to 17 Years Old with Juvenile Fibromyalgia Syndrome Achieving Various Levels of Pain Relief at Week 12 (Study FM-4)a
+
+a Pain relief Measured by Brief Pain Inventory – Modified Short Form: Adolescent Version Average Pain Score.
+
+b Duloxetine-treated patients received 30 mg once daily for 1 week and subsequently titrated to 60 mg once daily for 12 weeks, as tolerated.
 
 ## 14.6 Chronic Musculoskeletal Pain in Adults
 
@@ -208,7 +219,7 @@ For various degrees of improvement in pain from baseline to study endpoint, Figu
 The figures are cumulative, so thatpatients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the trial were assigned the value of 0% improvement.
 
-Figure 8: Percentage of Adult Patients with CLBP Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity (Study CLBP-1
+Figure 8: Percentage of Adult Patients with CLBP Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity (Study CLBP-1)
 
 Figure 9: Percentage of Adult Patients with CLBP Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity (Study CLBP-3)
 

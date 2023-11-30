@@ -67,10 +67,11 @@ Because it is possible that duloxetine and alcohol may interact to cause liver i
 
 ## 5.3 Orthostatic Hypotension, Falls and Syncope
 
-Orthostatic hypotension, falls and syncope have been reported in patients treated with the recommended duloxetine dosages.Syncope and orthostatic hypotension tend to occur within the first week of therapy but can occur at any time during duloxetine treatment, particularly after dose increases.
+Orthostatic hypotension, falls, and syncope have been reported in patients treated with the recommended duloxetine dosages.Syncope and orthostatic hypotension tend to occur within the first week of therapy but can occur at any time during duloxetine treatment, particularly after dose increases.
 The risk of falling appears to be related to the degree of orthostatic decrease in blood pressure (BP) as well as other factors that may increase the underlying risk of falls.
 
-In an analysis of patients from all placebo-controlled trials, patients treated with duloxetine reported a higher rate of falls compared to patients treated with placebo Risk appears to be related to the presence of orthostatic decrease in BP.
+In an analysis of patients from all placebo-controlled trials, patients treated with duloxetine reported a higher rate of falls compared to patients treated with placebo.
+Risk appears to be related to the presence of orthostatic decrease in BP.
 The risk of BP decreases may be greater in patients taking concomitant medications that induce orthostatic hypotension (such as antihypertensives) or are potent CYP1A2 inhibitors [see Warnings and Precautions (5.12) and Drug Interactions (7.1)] and in patients taking duloxetine at doses above 60 mg daily.
 Consideration should be given to dose reduction or discontinuation of duloxetine in patients who experience symptomatic orthostatic hypotension, falls and/or syncope during duloxetine therapy.
 
@@ -81,20 +82,20 @@ Falls with serious consequences including fractures and hospitalizations have be
 
 ## 5.4 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including duloxetine, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Serotonin-norepinephrine reuptake inhibitors (SNRIs), including duloxetine, can precipitate serotonin syndrome, a potentially life-threatening condition.
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, meperidine, methadone, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs, [see Contraindications (4), Drug Interactions (7.13)].
+Serotonin syndrome can also occur when these drugs are used alone.
 
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Patients should be monitored for the emergence of serotonin syndrome.
+Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
-The concomitant use of duloxetine with MAOIs antidepressants is contraindicated.
-Duloxetine should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
-All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
-No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
-There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking duloxetine.
-Duloxetine should be discontinued before initiating treatment with the MAOI [see Dosage and Administration (2.9, 2.10), and Contraindications (4)].
+The concomitant use of duloxetine with MAOIs is contraindicated.
+In addition, do not initiate duloxetine in a patient being treated with MAOIs such as linezolid or intravenous methylene blue.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection).
+If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking duloxetine, discontinue duloxetine before initiating treatment with the MAOI [see Contraindications (4) and Drug Interactions (7.13)].
 
-If concomitant use of duloxetine with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
-Treatment with duloxetine and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Monitor all patients taking duloxetine for the emergence of serotonin syndrome.
+Discontinue treatment with duloxetine and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
+If concomitant use of duloxetine with other serotonergic drugs is clinically warranted, inform patients of the increased risk for serotonin syndrome and monitor for symptoms.
 
 ## 5.5 Increased Risk of Bleeding
 
@@ -103,7 +104,8 @@ Case reports and epidemiological studies (case-control and cohort design) have d
 A post- marketing study showed a higher incidence of postpartum hemorrhage in mothers taking duloxetine.
 Other bleeding events related to SSRI and SNRI use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life- threatening hemorrhages.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), warfarin, and other anti-coagulants may add to this risk.
-Inform patients about the risk of bleeding associated with the concomitant use of duloxetine and NSAIDs, aspirin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
+
+Inform patients about the risk of increased bleeding associated with the concomitant use of duloxetine and NSAIDs, aspirin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
 
 ## 5.6 Severe Skin Reactions
 

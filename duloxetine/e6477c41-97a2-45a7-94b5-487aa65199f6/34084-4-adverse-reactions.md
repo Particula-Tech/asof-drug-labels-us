@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
-- Suicidal Thoughts and Behaviors in Children, Adolescents and Young Adults [see Boxed Warning and Warnings and Precautions (5.1)]
+- Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see Boxed Warning and Warnings and Precautions (5.1)]
 - Hepatotoxicity [see Warnings and Precautions (5.2)]
 - Orthostatic Hypotension, Falls and Syncope [see Warnings and Precautions (5.3)]
 - Serotonin Syndrome [see Warnings and Precautions (5.4)]
@@ -40,7 +40,7 @@ Adverse Reactions Leading to Treatment Discontinuation in Adult Placebo-Controll
 Major Depressive Disorder
 
 Approximately 8.4% (319/3779) of duloxetine-treated patients in placebo-controlled adult trials for MDD discontinued treatment due to an adverse reaction, compared with 4.6% (117/2536) of placebo-treated patients.
-Nausea (duloxetine 1.1%, placebo 0.4%) was the only adverse reaction reported as a reason for discontinuation and considered to be drug-related (i.e., discontinuation occurring in at least 1% of the duloxetine-treated patients and at a rate of at least twice that of placebo-treated patients.).
+Nausea (duloxetine 1.1%, placebo 0.4%) was the only adverse reaction reported as a reason for discontinuation and considered to be drug-related (i.e., discontinuation occurring in at least 1% of the duloxetine-treated patients and at a rate of at least twice that of placebo-treated patients).
 
 Generalized Anxiety Disorder
 
@@ -191,7 +191,7 @@ g Includes hypoaesthesia, facial hypoaesthesia, genital hypoaesthesia and oral p
 
 h Includes initial insomnia, middle insomnia, and early morning awakening.
 
-I Includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity.
+i Includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity.
 
 j Includes ejaculation failure.
 
@@ -223,11 +223,11 @@ Table 5: Mean Change in ASEX Scores by Gender in MDD Placebo-Controlled Adult Tr
 | Item 4 — Ease of reaching orgasm | 0.40c | -0.24 | -0.09 | -0.13 |
 | Item 5 — Orgasm satisfaction | 0.09 | -0.13 | -0.11 | -0.17 |
 
-a n=Number of patients with non-missing change score for ASEX total
+a n=Number of patients with non-missing change score for ASEX total.
 
-b p=0.013 versus placebo
+b p=0.013 versus placebo.
 
-c p<0.001 versus placebo
+c p<0.001 versus placebo.
 
 Vital Sign Changes in Adults
 
@@ -239,7 +239,7 @@ Duloxetine treatment, for up to 26 weeks in placebo-controlled trials across app
 Laboratory Changes in Adults
 
 Duloxetine treatment in placebo-controlled clinical trials across approved adult populations, was associated with small mean increases from baseline to endpoint in ALT, AST, CPK, and alkaline phosphatase; infrequent, modest, transient, abnormal values were observed for these analytes in duloxetine-treated patients when compared with placebo-treated patients [see Warnings and Precautions (5.2)].
-High bicarbonate, cholesterol, and abnormal (high or low) potassium, were observed more frequently in duloxetine treated patients compared to placebo-treated patients.
+High bicarbonate, cholesterol, and abnormal (high or low) potassium, were observed more frequently in duloxetine-treated patients compared to placebo-treated patients.
 
 Other Adverse Reactions Observed During the Clinical Trial Evaluation of Duloxetine in Adults
 
@@ -264,7 +264,7 @@ Reactions are categorized by body system according to the following definitions:
 
 · Infections and Infestations — Infrequent: gastroenteritis and laryngitis.
 
-· Investigations — Frequent: weight increased; weight decreased; Infrequent: blood cholesterol increased.
+· Investigations — Frequent: weight increased, weight decreased; Infrequent: blood cholesterol increased.
 
 · Metabolism and Nutrition Disorders — Infrequent: dehydration and hyperlipidemia; Rare: dyslipidemia.
 
@@ -288,14 +288,15 @@ Adverse Reactions Observed in Placebo-Controlled Clinical Trials in Pediatric Pa
 
 Pediatric Clinical Trial Database
 
-The data described below reflect exposure to duloxetine (N= 476) in pediatric patients aged 7 to 17 years of age from two 10-week, placebo-controlled trials in patients with MDD (N=341) (Studies MDD-6 and MDD-7) and one 10-week placebo- controlled trial in GAD (N=135) (Study GAD-6). duloxetine is not approved for the treatment of MDD in pediatric patients [see Use in Specific Populations (8.4)].
-Of the duloxetine-treated patients in these studies, 42 were 7 to 11 years of age (58% were between 12 to 17 years old), 51% were female, and 69% were white.
+The data described below reflect exposure to duloxetine (N=567) in pediatric patients aged 7 to 18 years of age from two 10-week, placebo-controlled trials in patients with MDD (N=341) (Studies MDD-6 and MDD-7), one 10-week placebo- controlled trial in GAD (N=135) (Study GAD-6), and a 13-week trial in fibromyalgia (N=91).
+Duloxetine is not approved for the treatment of MDD in pediatric patients [see Use in Specific Populations (8.4)].
+Of the duloxetine-treated patients in these studies, 36% were 7 to 11 years of age (64% were between 12 to 18 years old), 55% were female, and 69% were Caucasian.
 Patients received 30 to 120 mg of duloxetine per day during placebo-controlled acute treatment studies.
-In the pediatric MDD and GAD, trials up to 36 weeks long, there were 822 duloxetine-treated pediatric patients aged 7 to 17 years of age (most patients received 30- 120 mg per day) – 42% were 7 to 11 years of age (58% were 12 to 17 years old) and 52% were female.
+In the pediatric MDD, GAD, and fibromyalgia trials up to 40 weeks long, there were 988 duloxetine-treated pediatric patients aged 7 to 17 years of age (most patients received 30-120 mg per day) – 35% were 7 to 11 years of age (65% were 12 to 17 years old) and 56% were female.
 
 Most Common Adverse Reactions in Pediatric Trials
 
-The most common adverse reactions (≥5% in duloxetine-treated patients and at least twice the incidence of placebo- treated patients) in all pooled pediatric populations (MDD, GAD, and another indication) were decreased weight, decreased appetite, nausea, vomiting, fatigue, and diarrhea.
+The most common adverse reactions (≥5% in duloxetine-treated patients and at least twice the incidence of placebo- treated patients) in all pooled pediatric populations (MDD, GAD, and fibromyalgia) were decreased weight, decreased appetite, nausea, vomiting, fatigue, and diarrhea.
 
 Adverse Reactions in Pediatric Patients Aged 7 to 17 Years Old with MDD and GAD
 
@@ -305,7 +306,7 @@ The most common (≥5% and twice placebo) adverse reactions observed in these pe
 Table 6 provides the incidence of adverse reactions in MDD and GAD pediatric placebo-controlled trials that occurred in greater than 2% of patients treated with duloxetine and with an incidence greater than patients treated with placebo.
 Duloxetine is not approved in the treatment of MDD in pediatric patients [see Use in Specific Populations (8.4)].
 
-Table 6: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in Three 10-­week Pediatric Placebo-Controlled Trials in MDD and GADa
+Table 6: Adverse Reactions: Incidence of 2% or More and Greater than Placebo in Three 10-week Pediatric Placebo-Controlled Trials in MDD and GADa
 
 | System Organ Class/Adverse Reaction | Percentage of Pediatric Patients Reporting Reaction |  |
 | --- | --- | --- |
@@ -334,7 +335,7 @@ Other adverse reactions that occurred at an incidence of less than 2% and were r
 
 The most commonly reported symptoms following discontinuation of duloxetine delayed-release capsules in pediatric MDD and GAD clinical trials included headache, dizziness, insomnia, and abdominal pain [see Warnings and Precautions (5.7)].
 
-Growth (Height and W eight) in Pediatric Patients 7 to 17 Years Old with GAD and MDD
+Growth (Height and Weight) in Pediatric Patients 7 to 17 Years Old with GAD and MDD
 
 Decreased appetite and weight loss have been observed in association with the use of SSRIs and SNRIs.
 Duloxetine - treated pediatric patients in clinical trials experienced a 0.1 kg mean decrease in weight at 10 weeks, compared with a mean weight gain of approximately 0.9 kg in placebo-treated pediatric patients.
@@ -345,8 +346,28 @@ In studies up to 9 months, duloxetine-treated pediatric patients experienced an 
 While height increase was observed during these studies, a mean decrease of 1% in height percentile was observed (decrease of 2% in patients 7 to 11 years of age and increase of 0.3% in patients 12 to 17 years of age).
 Weight and height should be monitored regularly in pediatric patients treated with duloxetine [see Use in Specific Populations (8.4)].
 
-Additional pediatric use information is approved for Eli Lilly and Company, Inc.’s duloxetine (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Adverse Reactions in Pediatric Patients Aged 13 to 17 Years Old with Fibromyalgia
+
+Table 7 provides the incidence of adverse reactions in a fibromyalgia pediatric placebo-controlled trial (Study FM-4) that occurred in greater than 5% of patients treated with duloxetineand with an incidence greater than patients treated with placebo [see Clinical Studies (14.5)].
+
+Table 7: Adverse Reactions: Incidence of 5% or More and Greater than Placebo in a 13-week Placebo-Controlled Trial in Pediatric Patients 13 to 17 Years Old with Fibromyalgia (Study FM-4)a
+
+|  | Duloxetine (N=91) | Placebo (N=93) |
+| --- | --- | --- |
+| Nausea | 25% | 15% |
+| Decreased appetite | 15% | 3% |
+| Vomiting | 15% | 5% |
+| Decreased weightb | 15% | 5% |
+| Headache | 14% | 11% |
+| Nasopharyngitis | 9% | 2% |
+| Somnolence | 9% | 3% |
+| Upper respiratory tract infection | 7% | 2% |
+| Viral gastroenteritis | 5% | 0% |
+| Fatigue | 5% | 2% |
+
+aThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer.
+
+bFrequency based on weight measurement meeting potentially clinically significant threshold of ≥3.5% weight loss (N=89 duloxetine; N=92 Placebo).
 
 ## 6.2 Postmarketing Experience
 
