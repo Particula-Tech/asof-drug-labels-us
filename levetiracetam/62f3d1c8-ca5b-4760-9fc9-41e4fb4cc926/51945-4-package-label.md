@@ -1,8 +1,6 @@
 # Package/Label Display Panel
 
-NDC 44567-500-10
-
-10 x 50 mL Single-Dose Bags
+NDC 44567-500-01
 
 Levetiracetam in 0.82% Sodium Chloride Injection
 
@@ -12,13 +10,9 @@ Levetiracetam in 0.82% Sodium Chloride Injection
 
 For Intravenous Infusion Only
 
-Rx only
-
 # Package/Label Display Panel
 
-NDC 44567-501-10
-
-10 x 100 mL Single-Dose Bags
+NDC 44567-501-01
 
 Levetiracetam in 0.82% Sodium Chloride Injection
 
@@ -28,13 +22,9 @@ Levetiracetam in 0.82% Sodium Chloride Injection
 
 For Intravenous Infusion Only
 
-Rx only
-
 # Package/Label Display Panel
 
-NDC 44567-502-10
-
-10 x 100 mL Single-Dose Bags
+NDC 44567-502-01
 
 Levetiracetam in 0.75% Sodium Chloride Injection
 
@@ -44,13 +34,9 @@ Levetiracetam in 0.75% Sodium Chloride Injection
 
 For Intravenous Infusion Only
 
-Rx only
-
 # Package/Label Display Panel
 
-NDC 44567-503-10
-
-10 x 100 mL Single-Dose Bags
+NDC 44567-503-01
 
 Levetiracetam in 0.54% Sodium Chloride Injection
 
@@ -59,5 +45,3 @@ Levetiracetam in 0.54% Sodium Chloride Injection
 (15 mg/mL)
 
 For Intravenous Infusion Only
-
-Rx only
