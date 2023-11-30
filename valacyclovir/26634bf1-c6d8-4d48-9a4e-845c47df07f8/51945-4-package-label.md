@@ -8,7 +8,7 @@ Valacyclovir Tablets, USP
 
 Rx only
 
-1. 30 Tablets ohm®
+30 Tablets ohm®
 
 NDC 63304-905-30
 
@@ -18,4 +18,4 @@ Valacyclovir Tablets, USP
 
 Rx only
 
-1. 30 Tablets ohm®
+30 Tablets ohm®

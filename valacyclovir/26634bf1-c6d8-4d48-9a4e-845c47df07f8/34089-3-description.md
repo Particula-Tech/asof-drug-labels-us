@@ -11,3 +11,5 @@ It has the following structural formula:
 Valacyclovir hydrochloride, USP (hydrous) is a white to off‑white powder with the molecular formula C13H20N6O4•HCl and a molecular weight of 360.80.
 Valacyclovir hydrochloride, USP (hydrous) is soluble in water and insoluble in dichloromethane, the maximum solubility in water at 25° C is 174 mg/mL.
 The pkas for valacyclovir hydrochloride are 1.90, 7.47, and 9.43.
+
+Meets USP Dissolution Test 2.

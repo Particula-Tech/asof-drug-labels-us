@@ -44,9 +44,14 @@ Based on efficacy data from clinical trials with oral acyclovir, treatment with 
 
 The efficacy and safety of valacyclovir tablets have not been established in:
 
-- •Immunocompromised patients other than for the suppression of genital herpes in HIV‑1-infected patients with a CD4+ cell count greater than or equal to 100 cells/mm3.
-- •Patients aged less than 12 years with cold sores (herpes labialis).
-- •Patients aged less than 2 years or greater than or equal to 18 years with chickenpox.
-- •Patients aged less than 18 years with genital herpes.
-- •Patients aged less than 18 years with herpes zoster.
-- •Neonates and infants as suppressive therapy following neonatal herpes simplex virus (HSV) infection.
+•Immunocompromised patients other than for the suppression of genital herpes in HIV‑1-infected patients with a CD4+ cell count greater than or equal to 100 cells/mm3.
+
+•Patients aged less than 12 years with cold sores (herpes labialis).
+
+•Patients aged less than 2 years or greater than or equal to 18 years with chickenpox.
+
+•Patients aged less than 18 years with genital herpes.
+
+•Patients aged less than 18 years with herpes zoster.
+
+•Neonates and infants as suppressive therapy following neonatal herpes simplex virus (HSV) infection.
