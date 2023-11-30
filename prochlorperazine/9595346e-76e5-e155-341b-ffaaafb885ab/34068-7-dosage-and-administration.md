@@ -1,13 +1,13 @@
 # DOSAGE AND ADMINISTRATION
 
-Adults: Dosage should be increased more gradually in debilitated or emaciated patients.
+Adults:Dosage should be increased more gradually in debilitated or emaciated patients.
 
-Elderly Patients: In general, dosages in the lower range are sufficient for most elderly patients.
+Elderly Patients:In general, dosages in the lower range are sufficient for most elderly patients.
 Since they appear to be more susceptible to hypotension and neuromuscular reactions, such patients should be observed closely.
-Dosage should be tailored to the individual, response carefully monitored and dosage adjusted accordingly.
+Dosage should be tailored to the individual, response carefully monitored, and dosage adjusted accordingly.
 Dosage should be increased more gradually in elderly patients.
 
-To Control Severe Nausea and Vomiting: Adjust dosage to the response of the individual.
+To Control Severe Nausea and Vomiting:Adjust dosage to the response of the individual.
 Begin with the lowest recommended dosage.
 
-Rectal Dosage: 25 mg twice daily.
+Rectal Dosage:25 mg twice daily.

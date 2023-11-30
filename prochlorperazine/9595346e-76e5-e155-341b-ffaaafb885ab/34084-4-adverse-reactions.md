@@ -23,7 +23,7 @@ In most cases barbiturates by suitable route of administration will suffice.
 In more severe cases, the administration of an anti-parkinsonism agent, except levodopa (see PDR), usually produces rapid reversal of symptoms.
 Suitable supportive measures such as maintaining a clear airway and adequate hydration should be employed.
 
-Motor Restlessness: Symptoms may include agitation or jitteriness and sometimes insomnia.
+Motor Restlessness:Symptoms may include agitation or jitteriness and sometimes insomnia.
 These symptoms often disappear spontaneously.
 At times these symptoms may be similar to the original neurotic or psychotic symptoms.
 Dosage should not be increased until these side effects have subsided.
@@ -36,7 +36,7 @@ Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to t
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
 
-Pseudo-parkinsonism: Symptoms may include: mask-like facies; drooling; tremors; pillrolling motion; cogwheel rigidity; and shuffling gait.
+Pseudo-parkinsonism:Symptoms may include: mask-like facies; drooling; tremors; pillrolling motion; cogwheel rigidity; and shuffling gait.
 Reassurance and sedation are important.
 In most cases these symptoms are readily controlled when an anti-parkinsonism agent is administered concomitantly.
 Anti-parkinsonism agents should be used only when required.
@@ -45,7 +45,7 @@ After this time patients should be evaluated to determine their need for continu
 (Note: norepinephrine bitartrate has not been found effective in pseudo-parkinsonism.)
 Occasionally it is necessary to lower the dosage of prochlorperazine or to discontinue the drug.
 
-Tardive Dyskinesia: As with all antipsychotic agents, tardive dyskinesia may appear in some patients on long-term therapy or may appear after drug therapy has been discontinued.
+Tardive Dyskinesia:As with all antipsychotic agents, tardive dyskinesia may appear in some patients on long-term therapy or may appear after drug therapy has been discontinued.
 The syndrome can also develop, although much less frequently, after relatively brief treatment periods at low doses.
 This syndrome appears in all age groups.
 Although its prevalence appears to be highest among elderly patients, especially elderly women, it is impossible to rely upon prevalence estimates to predict at the inception of neuroleptic treatment which patients are likely to develop the syndrome.
@@ -62,10 +62,10 @@ Should it be necessary to reinstitute treatment, or increase the dosage of the a
 
 It has been reported that fine vermicular movements of the tongue may be an early sign of the syndrome and if the medication is stopped at that time the syndrome may not develop.
 
-Adverse Reactions Reported with Prochlorperazine or Other Phenothiazine Derivatives: Adverse reactions with different phenothiazines vary in type, frequency, and mechanism of occurrence, i.e., some are dose-related, while others involve individual patient sensitivity.
+Adverse Reactions Reported with Prochlorperazine or Other Phenothiazine Derivatives:Adverse reactions with different phenothiazines vary in type, frequency, and mechanism of occurrence, i.e., some are dose-related, while others involve individual patient sensitivity.
 Some adverse reactions may be more likely to occur, or occur with greater intensity, in patients with special medical problems, e.g., patients with mitral insufficiency or pheochromocytoma have experienced severe hypotension following recommended doses of certain phenothiazines.
 
-Not all of the following adverse reactions have been observed with every phenothiazine derivative, but they have been reported with one or more and should be borne in mind when drugs of this class are administered: extrapyramidal symptoms (opisthotonos, oculogyric crisis, hyperreflexia, dystonia, akathisia, dyskinesia, parkinsonism) some of which have lasted months and even years–particularly in elderly patients with previous brain damage; grand mal and petit mal convulsions, particularly in patients with EEG abnormalities or history of such disorders; altered cerebrospinal fluid proteins; cerebral edema; intensification and prolongation of the action of central nervous system depressants (opiates, analgesics, antihistamines, barbiturates, alcohol), atropine, heat, organophosphorus insecticides; autonomic reactions (dryness of mouth, nasal congestion, headache, nausea, constipation, obstipation, adynamic ileus, ejaculatory disorders, impotence, priapism, atonic colon, urinary retention, miosis and mydriasis); reactivation of psychotic processes, catatonic-like states; hypotension (sometimes fatal); cardiac arrest; blood dyscrasias (pancytopenia, thrombocytopenic purpura, leukopenia, agranulocytosis, eosinophilia, hemolytic anemia, aplastic anemia); liver damage (jaundice, biliary statis); endocrine disturbances (hyperglycemia, hypoglycemia, glycosuria, lactation, galactorrhea, gynecomastia, menstrual irregularities, false-positive pregnancy tests); skin disorders (photosensitivity, itching, erythema, urticaria, eczema up to exfoliative dermatitis); other allergic reactions (asthma, laryngeal edema, angioneurotic edema, anaphylactoid reactions); peripheral edema; reversed epinephrine effect; hyperpyrexia; mild fever after large I.M. doses; increased appetite; increased weight; a systemic lupus erythematosus-like syndrome; pigmentary retinopathy; with prolonged administration of substantial doses, skin pigmentation, epithelial keratopathy, and lenticular and corneal deposits.
+Not all of the following adverse reactions have been observed with every phenothiazine derivative, but they have been reported with one or more and should be borne in mind when drugs of this class are administered: extrapyramidal symptoms (opisthotonos, oculogyric crisis, hyperreflexia, dystonia, akathisia, dyskinesia, parkinsonism) some of which have lasted months and even years–particularly in elderly patients with previous brain damage; grand mal and petit mal convulsions, particularly in patients with EEG abnormalities or history of such disorders; altered cerebrospinal fluid proteins; cerebral edema; intensification and prolongation of the action of central nervous system depressants (opiates, analgesics, antihistamines, barbiturates, alcohol), atropine, heat, organophosphorus insecticides; autonomic reactions (dryness of the mouth, nasal congestion, headache, nausea, constipation, obstipation, adynamic ileus, ejaculatory disorders, impotence, priapism, atonic colon, urinary retention, miosis and mydriasis); reactivation of psychotic processes, catatonic-like states; hypotension (sometimes fatal); cardiac arrest; blood dyscrasias (pancytopenia, thrombocytopenic purpura, leukopenia, agranulocytosis, eosinophilia, hemolytic anemia, aplastic anemia); liver damage (jaundice, biliary statis); endocrine disturbances (hyperglycemia, hypoglycemia, glycosuria, lactation, galactorrhea, gynecomastia, menstrual irregularities, false-positive pregnancy tests); skin disorders (photosensitivity, itching, erythema, urticaria, eczema up to exfoliative dermatitis); other allergic reactions (asthma, laryngeal edema, angioneurotic edema, anaphylactoid reactions); peripheral edema; reversed epinephrine effect; hyperpyrexia; mild fever after large I.M. doses; increased appetite; increased weight; a systemic lupus erythematosus-like syndrome; pigmentary retinopathy; with prolonged administration of substantial doses, skin pigmentation, epithelial keratopathy, and lenticular and corneal deposits.
 
 EKG changes - particularly nonspecific, usually reversible Q and T wave distortions—have been observed in some patients receiving phenothiazine tranquilizers.
 
@@ -73,4 +73,4 @@ Although phenothiazines cause neither psychic nor physical dependence, sudden di
 
 Note: There have been occasional reports of sudden death in patients receiving phenothiazines.
 In some cases, the cause appeared to be cardiac arrest or asphyxia due to failure of the cough reflex.
-To report SUSPECTED ADVERSE REACTIONS, contact Cosette Pharmaceuticals, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Cosette Pharmaceuticals, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 orwww.fda.gov/medwatch.

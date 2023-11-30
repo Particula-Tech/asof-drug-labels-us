@@ -12,8 +12,7 @@ TREATMENT–It is important to determine other medications taken by the patient 
 Treatment is essentially symptomatic and supportive.
 Early gastric lavage is helpful.
 Keep patient under observation and maintain an open airway, since involvement of the extrapyramidal mechanism may produce dysphagia and respiratory difficulty in severe overdosage.
-Do not attempt to induce emesis because a dystonic reaction of the head or neck may develop that could result in aspiration of vomitus.
-Extrapyramidal symptoms may be treated with anti-parkinsonism drugs, barbiturates, or diphenhydramine.
+Do not attempt to induce emesis because a dystonic reaction of the head or neck may develop that could result in aspiration of vomitus.Extrapyramidal symptoms may be treated with anti-parkinsonism drugs, barbiturates, or diphenhydramine.
 See prescribing information for these products.
 Care should be taken to avoid increasing respiratory depression.
 
@@ -25,4 +24,4 @@ If hypotension occurs, the standard measures for managing circulatory shock shou
 If it is desirable to administer a vasoconstrictor, norepinephrine bitartrate and phenylephrine hydrochloride are most suitable.
 Other pressor agents, including epinephrine, are not recommended because phenothiazine derivatives may reverse the usual elevating action of these agents and cause a further lowering of blood pressure.
 
-Limited experience indicates that phenothiazines are not dialyzable.
+Limited experience indicates that phenothiazines are notdialyzable.

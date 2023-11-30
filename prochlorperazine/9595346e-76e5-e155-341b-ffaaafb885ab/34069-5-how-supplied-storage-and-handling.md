@@ -4,7 +4,7 @@ For Adults, Prochlorperazine Suppositories, USP 25 mg in boxes of 12 and 1000 as
 
 Rx only
 
-Storage: Store at 20-25°C (68-77°F) [See USP Controlled Room Temperature].
+Storage:Store at 20-25°C (68-77°F) [See USP Controlled Room Temperature].
 Do not remove from foil until ready to use.
 
 Distributed by: Cosette Pharmaceuticals, Inc. South Plainfield, NJ 07080
