@@ -6,4 +6,4 @@ NDC 52427-285-01 bottle of 100
 
 Store at controlled room temperature 15°C to 30°C (59°F to 86°F).
 
-Rx Only
+Rx only

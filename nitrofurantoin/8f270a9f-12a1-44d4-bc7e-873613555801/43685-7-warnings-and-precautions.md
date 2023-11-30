@@ -103,7 +103,7 @@ Doses of 10 mg/kg/day or greater in healthy human males may, in certain unpredic
 
 ## Pregnancy:
 
-Teratogenic effects: Pregnancy Category B. Several reproduction studies have been performed in rabbits and rats at doses up to six times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to nitrofurantoin.
+Teratogenic effects: Several reproduction studies have been performed in rabbits and rats at doses up to six times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to nitrofurantoin.
 In a single published study conducted in mice at 68 times the human dose (based on mg/kg administered to the dam), growth retardation and a low incidence of minor and common malformations were observed.
 However, at 25 times the human dose, fetal malformations were not observed; the relevance of these findings to humans is uncertain.
 There are, however, no adequate and well-controlled studies in pregnant women.

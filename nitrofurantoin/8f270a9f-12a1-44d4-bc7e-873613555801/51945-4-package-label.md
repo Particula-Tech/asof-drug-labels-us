@@ -1,4 +1,4 @@
-NDC 52427-285-01 Rx Only 100 mg
+NDC 52427-285-01 Rx only 100 mg
 
 Macrobid® (Nitrofurantoin Capsules, USP) (monohydrate/macrocrystals)
 
