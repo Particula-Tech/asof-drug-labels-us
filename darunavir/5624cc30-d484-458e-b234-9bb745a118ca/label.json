@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA206288"
+  ],
+  "inn": "darunavir",
+  "labeler": "Cipla USA Inc.",
+  "package_ndcs": [
+    "69097-244-02",
+    "69097-248-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "darunavir",
+      "name": "Darunavir 600 and 800 mg"
+    }
+  ],
+  "setid": "5624cc30-d484-458e-b234-9bb745a118ca",
+  "source": "dailymed"
+}
