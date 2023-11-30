@@ -28,19 +28,19 @@ Take care in choosing a suitable location for administration of this product.
 2. a.Gently insert the lubricated applicator tip into the rectum to prevent damage to the rectal wall, pointed slightly toward the navel.
 3. b.Grasp the bottle firmly, then tilt slightly so that the nozzle is aimed toward the back, squeeze slowly to instill the medication.
    Steady hand pressure will discharge most of the medication.
-   After administering, withdraw and discard the bottle
+   After administering, withdraw and discard the bottle.
 
 1. c.Remain in position for at least 30 minutes to allow thorough distribution of the medication internally.
    Retain the medication all night, if possible.
 
 Rx only
 
-IN-003606-X8 Rev.
-11/2023
+IN-003606-07 Rev.
+10/2023
 
 Distributed by:
 
-MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
+MEDA PHARMACEUTICALS® Canonsburg, PA 15317 U.S.A.
 
 © 2023 Viatris Inc. ROWASA is a registered trademark of Alaven Pharmaceutical LLC, a Viatris Company.
 For Medical Inquiries, Call Toll Free: 1-866-210-5949

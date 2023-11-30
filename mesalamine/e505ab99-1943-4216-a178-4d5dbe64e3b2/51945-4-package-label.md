@@ -44,9 +44,9 @@ For medical inquiries, call toll-free 1-866-210-5949.
 
 SHAKE WELL BEFORE USING
 
-Distributed by: MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
+Distributed by: MEDA PHARMACEUTICALS® Canonsburg, PA 15317 U.S.A.
 
-© 2022 Viatris Inc.
+© 2023 Viatris Inc.
 
-UC-003605-03 Rev.
-1/2022
+UC-003605-04 Rev.
+10/2023
