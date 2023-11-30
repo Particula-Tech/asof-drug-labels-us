@@ -1,3 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-Mometasone furoate cream 0.1% is a corticosteroid indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses in patients 2 years of age or older.
+Mometasone furoate cream, USP, 0.1% is a corticosteroid indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses in patients 2 years of age or older.
