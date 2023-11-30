@@ -1,10 +1,10 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Rx Only
-
 NDC 0574-9855-10
 
-Budesonide Delayed-release Capsules 3mg
+Rx Only
+
+Budesonide Delayed-Release Capsules 3mg
 
 100 Capsules
 

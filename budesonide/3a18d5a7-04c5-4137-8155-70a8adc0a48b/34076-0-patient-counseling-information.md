@@ -33,6 +33,8 @@ Administration
 9. 6.Follow the applesauce and granules immediately with a glass (8 ounces) of cool water to ensure complete swallowing of the granules.
 10. •Avoid consumption of grapefruit juice for the duration of their budesonide delayed-release capsules therapy [see Drug Interactions (7.1)].
 
-ENTOCORT is a registered trademark of Perrigo Pharma International DAC. © Perrigo Pharma International DAC 2016
+ENTOCORT is a registered trademark of Padagis US LLC. © Padagis LLC 2023
 
-Revised: 10/2020
+Manufactured for Padagis® Minneapolis, MN 55427
+
+Rev 06-23 5V000 RC PH7 2204813

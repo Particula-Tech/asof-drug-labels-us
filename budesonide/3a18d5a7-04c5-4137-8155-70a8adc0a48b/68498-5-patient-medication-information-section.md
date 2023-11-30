@@ -50,7 +50,7 @@ Budesonide delayed-release capsules and other medicines may affect each other ca
 How should I take budesonide delayed-release capsules?
 
 - •Take budesonide delayed-release capsules exactly as your healthcare provider tells you.
-- •Your healthcare provider will tell you how many budesonide delayed-release capsules capsules to take.
+- •Your healthcare provider will tell you how many budesonide delayed-release capsules to take.
   Your healthcare provider may change your dose if needed.
 - •Take budesonide delayed-release capsules 1 time each day in the morning.
 - •Take budesonide delayed-release capsules whole.
@@ -150,14 +150,10 @@ Active ingredient: budesonide
 Inactive ingredients: ethylcellulose, acetyltributyl citrate, methacrylic acid copolymer type C, triethyl citrate, antifoam M, polysorbate 80, talc, and sugar spheres.
 The capsule shell contains: gelatin, iron oxide, and titanium dioxide.
 
-Manufactured and Distributed by:
+Manufactured for Padagis® Minneapolis, MN 55427
 
-Perrigo® Allegan, MI 49010
+Rev 06-23 5V000 RC PH7
 
-5V000 RC J5
-
-For more information, go to www.perrigorx.com or call 1-866-634-9120.
+For more information, go to www.padagis.com or call 1-866-634-9120.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-
-Revision: 10/2020

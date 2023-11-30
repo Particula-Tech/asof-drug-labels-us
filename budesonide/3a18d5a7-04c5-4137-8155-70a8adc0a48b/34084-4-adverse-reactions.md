@@ -23,7 +23,7 @@ The most common adverse reactions, occurring in greater than or equal to 5% of t
 
 Table 1: Common Adverse Reactions1 in 8-Week Treatment Clinical Trials
 
-| Adverse Reaction | Budesonide Delayed-release Capsules 9 mgn=520Number (%) | Placebon=107Number (%) | Prednisolone240 mgn=145Number (%) | Comparator3n=88Number (%) |
+| Adverse Reaction | Budesonide Delayed-Release Capsules 9 mgn=520Number (%) | Placebon=107Number (%) | Prednisolone240 mgn=145Number (%) | Comparator3n=88Number (%) |
 | --- | --- | --- | --- | --- |
 | Headache | 107 (21) | 19 (18) | 31 (21) | 11 (13) |
 | Respiratory Infection | 55 (11) | 7 (7) | 20 (14) | 5 (6) |
@@ -50,7 +50,7 @@ The incidence of signs and symptoms of hypercorticism reported by active questio
 
 Table 2: Summary and Incidence of Signs/Symptoms of Hypercorticism in 8-Week Treatment Clinical Trials
 
-| Signs/Symptom | Budesonide Delayed-release Capsules9 mgn=427Number (%) | Placebon=107Number (%) | Prednisolone140 mgn=145Number (%) |
+| Signs/Symptom | Budesonide Delayed-Release Capsules 9 mgn=427Number (%) | Placebon=107Number (%) | Prednisolone140 mgn=145Number (%) |
 | --- | --- | --- | --- |
 | Total | 145 (34%) | 29 (27%) | 69 (48%) |
 | Acne | 63 (15) | 14 (13) | 33 (23)2 |
@@ -62,13 +62,13 @@ Table 2: Summary and Incidence of Signs/Symptoms of Hypercorticism in 8-Week Tre
 | Skin Striae | 4 (1) | 2 (2) | 0 (0) |
 
 1.
-Prednisolone tapering scheme: either 40 mg in week 1-2, there after tapering with 5 mg/week; or 40 mg in week 1 to 2, 30 mg in week 3 to 4, thereafter tapering with 5 mg/week.
+Prednisolone tapering scheme: either 40 mg in week 1-2, thereafter tapering with 5 mg/week; or 40 mg in week 1 to 2, 30 mg in week 3 to 4, thereafter tapering with 5 mg/week.
 
 2.
-Statistically significantly different from budesonide delayed-release capsules 9 mg.
+Statistically significantly different from budesonide delayed-release capsules 9 mg
 
 3.
-Including hair growth increased, local and hair growth increased, general.
+Including hair growth increased, local and hair growth increased, general
 
 Maintenance of Clinical Remission of Mild to Moderate Crohn’s Disease
 
@@ -82,7 +82,7 @@ Signs/symptoms of hypercorticism reported by active questioning of patients in t
 
 Table 3: Summary and Incidence of Signs/Symptoms of Hypercorticism in Long-Term Clinical Trials
 
-| Signs/Symptom | Budesonide Delayed-release Capsules3 mgn=88Number (%) | Budesonide Delayed-release Capsules6 mgn=145Number (%) | Placebon=143Number (%) |
+| Signs/Symptom | Budesonide Delayed-Release Capsules 3 mgn=88Number (%) | Budesonide Delayed-Release Capsules 6 mgn=145Number (%) | Placebon=143Number (%) |
 | --- | --- | --- | --- |
 | Bruising Easily | 4 (5) | 15 (10) | 5 (4) |
 | Acne | 4 (5) | 14 (10) | 3 (2) |
