@@ -6,15 +6,9 @@
   "labeler": "Medimetriks Pharmaceuticals, Inc.",
   "package_ndcs": [
     "43538-910-12",
-    "43538-910-99",
-    "43538-911-12"
+    "43538-910-99"
   ],
   "products": [
-    {
-      "form": "KIT",
-      "generic": "fluocinolone acetonide",
-      "name": "Synalar"
-    },
     {
       "form": "OINTMENT",
       "generic": "fluocinolone acetonide",
