@@ -2,11 +2,11 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Thromboembolic Risk [see Warnings and Precautions (5.1)]
-- Seizures [see Warnings and Precautions (5.3)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
-- Visual Disturbances [see Warnings and Precautions (5.5)]
-- Dizziness [see Warnings and Precautions (5.6)]
+- •Thromboembolic Risk [see Warnings and Precautions (5.1)]
+- •Seizures [see Warnings and Precautions (5.3)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
+- •Visual Disturbances [see Warnings and Precautions (5.5)]
+- •Dizziness [see Warnings and Precautions (5.6)]
 
 ## 6.2 Postmarketing Experience
 
