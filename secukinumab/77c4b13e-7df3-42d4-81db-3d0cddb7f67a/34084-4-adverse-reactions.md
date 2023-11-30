@@ -152,4 +152,4 @@ The safety of intravenous COSENTYX is based on the pharmacokinetic exposure and 
 The following adverse reactions have been reported during postapproval use of COSENTYX.
 Because they are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Skin and Subcutaneous Tissue Disorders: Eczematous eruptions (atopic dermatitis-like eruptions, dyshidrotic eczema, and erythroderma) [see Warnings and Precautions (5.5)].
+Skin and Subcutaneous Tissue Disorders: Eczematous eruptions (atopic dermatitis-like eruptions, dyshidrotic eczema, and erythroderma) [see Warnings and Precautions (5.5)], and pyoderma gangrenosum.

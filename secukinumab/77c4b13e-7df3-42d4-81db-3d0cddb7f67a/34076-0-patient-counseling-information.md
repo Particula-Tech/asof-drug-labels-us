@@ -39,7 +39,7 @@ Storage
 Instruct patients to store COSENTYX in a refrigerator at 2°C to 8°C (36ºF to 46ºF) and to discard expired or unused COSENTYX.
 
 Inform patients that if removed from refrigeration, COSENTYX 150 mg/mL Sensoready pens, 150 mg/mL and 75 mg/0.5 mL prefilled syringes may be stored for up to 4 days at room temperature not to exceed 86°F (30°C).
-Instruct patients to discard if kept outside of the refrigerator over 4 days [see How Supplied/Storage and Handling (16.2)].
+Instruct patients to discard if kept outside of the refrigerator over 4 days [see How Supplied/Storage and Handling (16)].
 
 Manufactured by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
@@ -47,4 +47,4 @@ US License Number 1244
 
 © Novartis
 
-T2023-74
+T2023-80
