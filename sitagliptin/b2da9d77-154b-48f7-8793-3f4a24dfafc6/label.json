@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA211566"
+  ],
+  "inn": "sitagliptin",
+  "labeler": "Zydus Lifesciences Limited",
+  "package_ndcs": [
+    "70771-1770-3",
+    "70771-1770-9",
+    "70771-1771-3",
+    "70771-1771-9",
+    "70771-1772-3",
+    "70771-1772-9"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sitagliptin",
+      "name": "ZITUVIO"
+    }
+  ],
+  "setid": "b2da9d77-154b-48f7-8793-3f4a24dfafc6",
+  "source": "dailymed"
+}
