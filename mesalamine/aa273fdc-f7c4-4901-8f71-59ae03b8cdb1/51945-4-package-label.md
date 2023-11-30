@@ -10,7 +10,7 @@ For Rectal Use Only Rx Only
 
 Each disposable unit contains:
 
-Mesalamine (5-aminosalicylic acid)……..….4 grams in suspension containing carbomer 934P, edetate disodium, potassium acetate, purified water, sodium benzoate, and xanthan gum.
+Mesalamine (5-aminosalicylic acid)……..….4 grams in suspension containing carbomer 934P, edetate disodium, potassium acetate purified water, sodium benzoate, and xanthan gum.
 
 USUAL DOSE: One unit-dose suspension in the evenings before going to bed.
 
@@ -37,13 +37,13 @@ Store at controlled room temperature 20° to 25°C (68° to 77°F); brief excurs
 
 Dispensed in original foil-wrapped package.
 
-For medical inquiries, call toll-free 1-866-210-5949.
+For medical inquiries, call toll-free 1-866-210-5950.
 
 SHAKE WELL BEFORE USING
 
-Distributed by: MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
+Distributed by: MEDA PHARMACEUTICALS® Canonsburg, PA 15317 U.S.A.
 
-© 2022 Viatris Inc.
+© 2023 Viatris Inc.
 
-UC-003207-03 Rev.
-1/2022
+UC-003207-04 Rev.
+10/2023

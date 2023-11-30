@@ -49,15 +49,15 @@ Retain the medication all night, if possible.
 
 Rx Only
 
-Distributed by: MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
+Distributed by: MEDA PHARMACEUTICALS® Canonsburg, PA 15317 U.S.A.
 
-©2022 Viatris Inc.
+©2023 Viatris Inc.
 
 U.S. Patent No. 7,645,801
 
 SFROWASA is a registered trademark of Alaven Pharmaceutical LLC, a Viatris Company.
 
-IN-003260-06 Rev.
-11/2022
+IN-003260-07 Rev.
+10/2023
 
 For Medical Inquiries, Call Toll Free: 1-866-210-5950
