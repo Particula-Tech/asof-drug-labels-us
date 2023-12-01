@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA017060"
+  ],
+  "inn": "norethindrone",
+  "labeler": "Teva Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0480-3475-16"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "norethindrone",
+      "name": "Nora BE"
+    }
+  ],
+  "setid": "426ac898-7745-4645-bf9b-bae319e260e8",
+  "source": "dailymed"
+}
