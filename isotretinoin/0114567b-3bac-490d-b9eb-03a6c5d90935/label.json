@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA076485"
+  ],
+  "inn": "isotretinoin",
+  "labeler": "Mayne Pharma",
+  "package_ndcs": [
+    "68308-781-30",
+    "68308-781-89",
+    "68308-782-30",
+    "68308-782-89",
+    "68308-783-30",
+    "68308-783-89",
+    "68308-784-30",
+    "68308-784-89"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "isotretinoin",
+      "name": "Isotretinoin"
+    }
+  ],
+  "setid": "0114567b-3bac-490d-b9eb-03a6c5d90935",
+  "source": "dailymed"
+}
