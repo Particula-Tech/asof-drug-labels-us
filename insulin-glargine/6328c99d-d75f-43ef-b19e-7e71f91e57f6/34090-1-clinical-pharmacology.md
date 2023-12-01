@@ -8,35 +8,34 @@ Insulin inhibits lipolysis and proteolysis, and enhances protein synthesis.
 
 ## 12.2 Pharmacodynamics
 
-In clinical studies, the glucose-lowering effect on a molar basis (i.e., when given at the same doses) of intravenous insulin glargine is approximately the same as that for human insulin.
-Figure 1 shows results from a study in patients with type 1 diabetes conducted for a maximum of 24 hours after the injection.
-The median time between injection and the end of pharmacological effect was 14.5 hours (range: 9.5 to 19.3 hours) for NPH insulin, and 24 hours (range: 10.8 to >24.0 hours) (24 hours was the end of the observation period) for insulin glargine.
+In clinical studies, the glucose-lowering effect on a molar basis (i.e., when given at the same doses) of intravenous LANTUS is approximately the same as that for human insulin.
+Figure 1 shows results from a study in patients with type 1 diabetes conducted for a maximum of 24 hours after subcutaneous injection of LANTUS or NPH insulin.
+The median time between subcutaneous injection and the end of pharmacological effect was 14.5 hours (range: 9.5 to 19.3 hours) for NPH insulin, and 24 hours (range: 10.8 to >24 hours) (24 hours was the end of the observation period) for LANTUS.
 
-Figure 1: Activity Profile in Patients with Type 1 Diabetes
+Figure 1: Glucose-Lowering Effect Over 24 Hours in Patients with Type 1 Diabetes
 
-* Determined as amount of glucose infused to maintain constant plasma glucose levels
+| * Determined as amount of glucose infused to maintain constant plasma glucose levels |
+| --- |
 
-The duration of action after abdominal, deltoid, or thigh subcutaneous administration was similar.
-The time course of action of insulins, including LANTUS, may vary between individuals and within the same individual.
+The duration of action after abdominal, deltoid, or thigh subcutaneous administration of LANTUS was similar.
+The time course of action of insulins, including LANTUS, may vary between patients and within the same patient.
 
 ## 12.3 Pharmacokinetics
 
-Absorption and Bioavailability
+Absorption
 
 After subcutaneous injection of LANTUS in healthy subjects and in patients with diabetes, the insulin serum concentrations indicated a slower, more prolonged absorption and a relatively constant concentration/time profile over 24 hours with no pronounced peak in comparison to NPH insulin.
 
-Metabolism and Elimination
+Elimination
 
-A metabolism study in humans indicates that insulin glargine is partly metabolized at the carboxyl terminus of the B chain in the subcutaneous depot to form two active metabolites with in vitro activity similar to that of human insulin, M1 (21 A-Gly-insulin) and M2 (21 A-Gly-des-30 B-Thr-insulin).
+Metabolism
+
+A metabolism study in humans indicates that insulin glargine is partly metabolized at the carboxyl terminus of the B chain in the subcutaneous depot to form two active metabolites with in vitro activity similar to that of human insulin, M1 (21A-Gly-insulin) and M2 (21A-Gly-des-30B-Thr-insulin).
 Unchanged drug and these degradation products are also present in the circulation.
 
-Special Populations
+Specific Populations
 
-Age, race, and gender
+Age, Race, Body Mass Index, and Gender
 
-Effect of age, race, and gender on the pharmacokinetics of LANTUS has not been evaluated.
-However, in controlled clinical trials in adults (n=3890) and a controlled clinical trial in pediatric patients (n=349), subgroup analyses based on age, race, and gender did not show differences in safety and efficacy between LANTUS and NPH insulin [see Clinical Studies (14)].
-
-Obesity
-
-Effect of Body Mass Index (BMI) on the pharmacokinetics of LANTUS has not been evaluated.
+Effect of age, race, body mass index (BMI), and gender on the pharmacokinetics of insulin glargine has not been evaluated.
+However, in controlled clinical studies in adults (n=3,890) and a controlled clinical study in pediatric patients (n=349), subgroup analyses based on age, race, BMI, and gender did not show differences in safety and efficacy between LANTUS and NPH insulin [see Clinical Studies (14)].
