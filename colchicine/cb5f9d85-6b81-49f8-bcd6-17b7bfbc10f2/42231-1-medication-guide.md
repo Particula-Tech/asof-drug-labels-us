@@ -131,6 +131,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Hikma Specialty USA Inc. Columbus, OH 43228
 
-C500000454/01
+C500000454/02
 
-Revised March 2023
+Revised November 2023

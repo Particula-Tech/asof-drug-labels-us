@@ -6,5 +6,3 @@ For prophylaxis of gout flares, the recommended dosage of MITIGARE® is 0.6 mg o
 The maximum dose is 1.2 mg per day.
 
 MITIGARE® is administered orally, without regard to meals.
-
-The recommended dosage of MITIGARE® depends on the use of coadministered drugs [see Drug Interactions (7)].

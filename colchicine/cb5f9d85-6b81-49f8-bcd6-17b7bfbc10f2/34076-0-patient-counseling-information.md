@@ -30,6 +30,6 @@ Patients developing any of these signs or symptoms must discontinue MITIGARE® a
 
 Distributed by: Hikma Specialty USA Inc. Columbus, OH 43228
 
-C500000454/01
+C500000454/02
 
-Revised March 2023
+Revised November 2023
