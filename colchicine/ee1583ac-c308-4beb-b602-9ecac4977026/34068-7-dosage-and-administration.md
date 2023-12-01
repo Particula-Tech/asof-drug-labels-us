@@ -6,5 +6,3 @@ For prophylaxis of gout flares, the recommended dosage of colchicine capsules is
 The maximum dose is 1.2 mg per day.
 
 Colchicine capsules are administered orally, without regard to meals.
-
-The recommended dosage of colchicine depends on the use of coadministered drugs [see Drug Interactions (7)].

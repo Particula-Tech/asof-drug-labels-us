@@ -20,6 +20,6 @@ Patients developing any of these signs or symptoms must discontinue colchicine c
 
 Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-C50000449/01
+C50000449/02
 
-Revised March 2023
+Revised November 2023
