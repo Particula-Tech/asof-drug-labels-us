@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-Should overdosage of tamsulosin hydrochloride capsules USP lead to hypotension [see Warnings and Precautions (5.1)and Adverse Reactions (6.1)],support of the cardiovascular system is of first importance.
+Should overdosage of tamsulosin hydrochloride capsules lead to hypotension [see Warnings and Precautions (5.1)and Adverse Reactions (6.1)], support of the cardiovascular system is of first importance.
 Restoration of blood pressure and normalization of heart rate may be accomplished by keeping the patient in the supine position.
 If this measure is inadequate, then administration of intravenous fluids should be considered.
 If necessary, vasopressors should then be used and renal function should be monitored and supported as needed.

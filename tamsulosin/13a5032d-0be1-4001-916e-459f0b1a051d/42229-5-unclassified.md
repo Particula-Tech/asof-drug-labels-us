@@ -1,8 +1,12 @@
-Manufactured by: Rottendorf Pharma GmbH Ennigerloh, Germany Made in Germany or Synthon Hispania, S.L.
-Barcelona, Spain Made in Spain
+Manufactured by: Rottendorf Pharma GmbH Ennigerloh, Germany Made in Germany
+
+or
+
+Synthon Hispania, S.L.
+Barcelona, Spain Made in Spainy
 
 Manufactured for: Synthon Pharmaceuticals, Inc.
 
-Revised Date: 11/2020
+Revised: 11/2023
 
-PI-4010-8 (PPI-4013-8)
+PI-4010-9 (PPI-4013-9)
