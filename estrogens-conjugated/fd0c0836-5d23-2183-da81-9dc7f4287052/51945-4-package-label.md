@@ -63,7 +63,7 @@ www.PREMPRO.com
 
 Rx only
 
-PAA118009
+PAA214159
 
 WEEK 1 WEEK 2 WEEK 3 WEEK 4
 
@@ -114,7 +114,7 @@ www.PREMPRO.com
 
 Rx only
 
-PAA118010
+PAA213718
 
 WEEK 1 WEEK 2 WEEK 3 WEEK 4
 
@@ -167,7 +167,7 @@ Rx only
 
 www.PREMPRO.com
 
-PAA118021
+PAA213715
 
 WEEK 1 WEEK 2 WEEK 3 WEEK 4
 
@@ -181,7 +181,7 @@ Pfizer PREMPRO® (conjugated estrogens/ medroxyprogesterone acetate tablets)
 
 0.625 mg / 2.5 mg
 
-1. Rx only
+Rx only
 
 Package contains 1 blister card of 28 tablets. www.PREMPRO.com
 
@@ -218,7 +218,7 @@ Distributed by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc Philadelphia
 
 www.PREMPRO.com
 
-PAA118022
+PAA213717
 
 WEEK 1 WEEK 2 WEEK 3 WEEK 4
 
