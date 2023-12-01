@@ -17,7 +17,7 @@ Table 1 Preparation of diluted solutions
 | No | 0.1 units/mL | 2.5 mL (50 units) | 500 mL |
 | Yes | 1 unit/mL | 5 mL (100 units) | 100 mL |
 
-Vasostrict® Premixed Solution, 20 units/100 mL (0.2 units/mL), 40 units/100 mL (0.4 units/mL), and 60 units/100 mL (0.6 units/mL)
+Vasostrict® Premixed Solution, 20 units/100 mL (0.2 units/mL), 40 units/100 mL (0.4 units/mL), 60 units/100 mL (0.6 units/mL) and 50 units/50 mL (1 unit/mL)
 
 This product does not require further dilution prior to administration.
 

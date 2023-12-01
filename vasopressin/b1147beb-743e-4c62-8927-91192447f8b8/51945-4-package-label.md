@@ -7,3 +7,5 @@
 # PRINCIPAL DISPLAY PANEL - 60 units/100 mL x 10 Vial Carton
 
 # PRINCIPAL DISPLAY PANEL - 20 units/100 mL x 10 Vial Carton
+
+# PRINCIPAL DISPLAY PANEL - 50 units/50 mLx 10 Vial Carton
