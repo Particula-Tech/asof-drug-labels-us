@@ -2,7 +2,7 @@ INSTRUCTIONS FOR USE
 
 Model/REF # FUR-80W5
 
-LBL-0063 R11
+LBL-0063 R12
 
 Instructions For Use
 
@@ -273,10 +273,10 @@ Symbols Legend
 
 scPharmaceuticals, Inc.
 
-2400 District Avenue, Suite 310, Burlington, MA 01803
+25 Mall Road, Suite 203, Burlington, MA 01803
 
 1-855-SCPHARMA (1-855-727-4276)
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Issued: 10/2022
+Issued: 10/2023

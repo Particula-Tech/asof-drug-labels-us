@@ -26,10 +26,10 @@ Manufactured for:
 
 scPharmaceuticals, Inc.,
 
-2400 District Avenue, Suite 310,
+25 Mall Road, Suite 203,
 
 Burlington, MA 01803
 
 Patent Protected: www.scpharmaceuticals.com/patents
 
-LBL-0071 Rev 04
+LBL-0071 Rev 05
