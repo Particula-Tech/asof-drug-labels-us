@@ -13,9 +13,3 @@ Rx Only
 For Rectal Administration
 
 Cosette Pharmaceuticals, Inc.
-
-PROMETHEGAN TM
-
-Promethazine HCl Suppository, USP
-
-50 mg
