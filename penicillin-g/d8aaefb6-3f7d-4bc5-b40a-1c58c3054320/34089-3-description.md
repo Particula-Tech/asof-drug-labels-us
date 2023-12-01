@@ -9,7 +9,7 @@ Buffered Penicillin G Potassium for Injection, USP is supplied in vials equivale
 Chemically, Pfizerpen is monopotassium 3,3-dimethyl-7-oxo-6-(2-phenylacetamido)-4-thia-1-azabicyclo (3.2.0) heptane-2-carboxylate.
 It has a molecular weight of 372.48 and the following chemical structure:
 
-| Formula C16H17KN2O4S |
+| FormulaC16H17KN2O4S |
 | --- |
 
 Penicillin G potassium is a colorless or white crystal, or a white crystalline powder which is odorless, or practically so, and moderately hygroscopic.

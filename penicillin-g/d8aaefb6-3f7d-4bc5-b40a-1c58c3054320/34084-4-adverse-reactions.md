@@ -51,4 +51,8 @@ Discontinuation of penicillin G results in resolution in the majority of patient
 
 Phlebitis and thrombophlebitis may occur, and pain at the injection site has been reported with intravenous administration.
 
-To report SUSPECTED ADVERSE EVENTS, contact (insert name of manufacturer) at (insert manufacturer's phone number) or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
+## Immune system disorders
+
+Acute myocardial ischemia with or without myocardial infarction may occur as part of an allergic reaction (Kounis syndrome).
+
+To report SUSPECTED ADVERSE EVENTS, contact (insert name of manufacturer) at (insert manufacturer’s phone number) or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
