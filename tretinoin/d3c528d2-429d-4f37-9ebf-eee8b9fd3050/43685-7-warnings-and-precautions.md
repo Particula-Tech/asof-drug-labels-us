@@ -10,10 +10,10 @@ If the degree of irritation warrants, patients should be directed to temporarily
 Efficacy at reduced frequencies of application has not been established.
 If a reaction suggesting sensitivity occurs, use of the medication should be discontinued.
 
-To help limit skin irritation, patients must
+To help limit skin irritation, patients must:
 
-- wash the treated skin gently, using a mild, non-medicated soap, and pat it dry, and
-- avoid washing the treated skin too often or scrubbing it hard when washing.
+- •wash the treated skin gently, using a mild, non-medicated soap, and pat it dry, and
+- •avoid washing the treated skin too often or scrubbing it hard when washing.
 
 Patients should apply a topical moisturizer if dryness is bothersome.
 

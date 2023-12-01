@@ -33,9 +33,9 @@ In oral peri- and postnatal development studies in rats with tretinoin, decrease
 
 Nonteratogenic effects on fetus
 
-Oral tretinoin has been shown to be fetotoxic when administered (in doses 24 times the MRHD based on BSA comparison).
+Oral tretinoin has been shown to be fetotoxic in rats when administered at doses 24 times the MRHD based on BSA comparison.
 
-Topical tretinoin has been shown to be fetotoxic in rabbits when administered in doses 10 times the MRHD based on BSA comparison.
+Topical tretinoin has been shown to be fetotoxic in rabbits when administered at doses 10 times the MRHD based on BSA comparison.
 
 ## 8.3 Nursing Mothers
 
@@ -49,4 +49,4 @@ Safety and effectiveness in children below the age of 12 have not been establish
 ## 8.5 Geriatric Use
 
 Safety and effectiveness in a geriatric population have not been established.
-Clinical trials of Tretinoin Gel Microsphere, 0.1% and 0.04%, did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently from younger subjects.
+Clinical trials of Tretinoin Gel Microsphere, 0.1%, 0.08% and 0.04%, did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently from younger subjects.

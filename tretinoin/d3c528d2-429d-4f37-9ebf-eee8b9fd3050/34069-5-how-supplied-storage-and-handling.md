@@ -4,13 +4,21 @@
 
 Tretinoin Gel Microsphere is opaque and white to very pale yellow in color.
 
-Tretinoin Gel Microsphere, 0.1%, is supplied in 20 gram tube (NDC 68682-513-82),
+Tretinoin Gel Microsphere, 0.1%, is supplied in
+
+20 gram tube (NDC 68682-513-82),
 
 45 gram tube (NDC 68682-513-84) and
 
 50 gram pump (NDC 68682-513-85).
 
-Tretinoin Gel Microsphere, 0.04%, is supplied in 20 gram tube (NDC 68682-514-92),
+Tretinoin Gel Microsphere, 0.08%, is supplied in
+
+50 gram pump (NDC 68682-515-95).
+
+Tretinoin Gel Microsphere, 0.04%, is supplied in
+
+20 gram tube (NDC 68682-514-92),
 
 45 gram tube (NDC 68682-514-94) and
 

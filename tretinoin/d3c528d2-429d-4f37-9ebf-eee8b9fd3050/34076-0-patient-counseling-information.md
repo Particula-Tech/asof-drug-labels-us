@@ -10,13 +10,22 @@ Do not use more than the recommended amount and do not apply Tretinoin Gel Micro
 Minimize exposure to sunlight, including sunlamps.
 Recommend the use of sunscreen products and protective apparel (e.g., hat) when exposure cannot be avoided.
 
-Manufactured for: Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by:
 
-By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
+Oceanside Pharmaceuticals, a division of
+
+Bausch Health US, LLC
+
+Bridgewater, NJ 08807 USA
+
+Manufactured by:
+
+Bausch Health Companies Inc.
+
+Laval, Quebec H7L 4A8, Canada
 
 Microsponge is a registered trademark of AMCOL International Corporation.
-Any other product/brand names are trademarks of their respective owners.
 
-© Valeant Pharmaceuticals North America LLC
+All other product/brand names and/or logos are trademarks of the respective owners.
 
-9515303 Revised 4/2018
+© 2023 Bausch Health Companies Inc. or its affiliates 9515304
