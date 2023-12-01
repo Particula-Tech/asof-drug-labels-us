@@ -7,20 +7,20 @@ The concomitant use of PRADAXA with P-gp inducers (e.g., rifampin) reduces expos
 P-gp inhibition and impaired renal function are the major independent factors that result in increased exposure to dabigatran [see Clinical Pharmacology (12.3)].
 Concomitant use of P-gp inhibitors in patients with renal impairment is expected to produce increased exposure of dabigatran compared to that seen with either factor alone.
 
-In patients with moderate renal impairment (CrCl 30-50 mL/min), reduce the dose of PRADAXA to 75 mg twice daily when administered concomitantly with the P-gp inhibitors dronedarone or systemic ketoconazole.
-The use of the P-gp inhibitors verapamil, amiodarone, quinidine, clarithromycin, and ticagrelor does not require a dose adjustment of PRADAXA.
+In patients with moderate renal impairment (CrCl 30-50 mL/min), reduce the dosage of PRADAXA to 75 mg twice daily when administered concomitantly with the P-gp inhibitors dronedarone or systemic ketoconazole.
+The use of the P-gp inhibitors verapamil, amiodarone, quinidine, clarithromycin, and ticagrelor does not require a dosage adjustment of PRADAXA.
 These results should not be extrapolated to other P-gp inhibitors [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 The concomitant use of PRADAXA and P-gp inhibitors in patients with severe renal impairment (CrCl 15-30 mL/min) should be avoided [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 ## 7.2 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism in Adult Patients
 
-Avoid use of PRADAXA and P-gp inhibitors in patients with CrCl <50 mL/min [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+Avoid use of PRADAXA and P-gp inhibitors in patients with CrCl < 50 mL/min [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 ## 7.3 Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism in Adult Patients Following Hip Replacement Surgery
 
-In patients with CrCl ≥50 mL/min who have concomitant administration of P-gp inhibitors such as dronedarone or systemic ketoconazole, it may be helpful to separate the timing of administration of PRADAXA and the P-gp inhibitor by several hours.
-The concomitant use of PRADAXA and P-gp inhibitors in patients with CrCl <50 mL/min should be avoided [see Warnings and Precautions (5.5), Use in Specific Populations (8.6) and Clinical Pharmacology (12.2, 12.3)].
+In patients with CrCl ≥ 50 mL/min who have concomitant administration of P-gp inhibitors such as dronedarone or systemic ketoconazole, it may be helpful to separate the timing of administration of PRADAXA and the P-gp inhibitor by several hours.
+The concomitant use of PRADAXA and P-gp inhibitors in patients with CrCl < 50 mL/min should be avoided [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.2, 12.3)].
 
 ## 7.4 Treatment and Reduction in Risk of Recurrence of VTE in Pediatric Patients
 

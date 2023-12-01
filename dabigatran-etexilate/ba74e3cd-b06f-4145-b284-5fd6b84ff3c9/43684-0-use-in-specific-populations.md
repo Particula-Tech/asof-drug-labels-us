@@ -77,28 +77,28 @@ Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrill
 
 No dose adjustment of PRADAXA is recommended in patients with mild or moderate renal impairment [see Clinical Pharmacology (12.3)].
 Reduce the dose of PRADAXA in patients with severe renal impairment (CrCl 15-30 mL/min) [see Dosage and Administration (2.2, 2.4) and Clinical Pharmacology (12.3)].
-Dosing recommendations for patients with CrCl <15 mL/min or on dialysis cannot be provided.
+Dosing recommendations for patients with CrCl < 15 mL/min or on dialysis cannot be provided.
 
 Adjust dose appropriately in patients with renal impairment receiving concomitant P-gp inhibitors [see Warnings and Precautions (5.5), Drug Interactions (7.1), and Clinical Pharmacology (12.3)].
 
 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism in Adult Patients
 
-Patients with severe renal impairment (CrCl ≤30 mL/min) were excluded from RE-COVER.
+Patients with severe renal impairment (CrCl ≤ 30 mL/min) were excluded from RE-COVER.
 
-Dosing recommendations for patients with CrCl ≤30 mL/min or on dialysis cannot be provided.
-Avoid use of PRADAXA with concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.2), and Clinical Pharmacology (12.3)].
+Dosing recommendations for patients with CrCl ≤ 30 mL/min or on dialysis cannot be provided.
+Avoid use of PRADAXA with concomitant P-gp inhibitors in patients with CrCl < 50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.2), and Clinical Pharmacology (12.3)].
 
 Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism in Adult Patients Following Hip Replacement Surgery
 
-Patients with severe renal impairment (CrCl <30 mL/min) were excluded from RE-NOVATE and RE-NOVATE II.
+Patients with severe renal impairment (CrCl < 30 mL/min) were excluded from RE-NOVATE and RE-NOVATE II.
 
-Dosing recommendations for patients with CrCl <30 mL/min or on dialysis cannot be provided.
+Dosing recommendations for patients with CrCl < 30 mL/min or on dialysis cannot be provided.
 
-Avoid use of PRADAXA with concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.3) and Clinical Pharmacology (12.2, 12.3)].
+Avoid use of PRADAXA with concomitant P-gp inhibitors in patients with CrCl < 50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.3), and Clinical Pharmacology (12.2, 12.3)].
 
 Treatment and Reduction in the Risk of Recurrence of VTE in Pediatric Patients
 
-PRADAXA has not been studied in pediatric patients with eGFR < 50 mL/min/1.73m2.
+PRADAXA has not been studied in pediatric patients with eGFR < 50 mL/min/1.73 m2.
 Reduced renal function could increase exposure.
 Dosing recommendations cannot be provided for treatment of these patients.
 Avoid use of PRADAXA Capsules in these patients [see Dosage and Administration (2.4)].

@@ -28,14 +28,14 @@ The degree of anticoagulant activity can also be assessed by the ecarin clotting
 This test is a more specific measure of the effect of dabigatran than activated partial thromboplastin time (aPTT).
 In the RE-LY trial, the median (10th to 90th percentile) trough ECT in patients receiving the 150 mg dose was 63 (44 to 103) seconds.
 
-In orthopedic hip surgery patients, maximum aPTT response (Emax) to dabigatran and baseline aPTT were higher shortly after surgery than at later time points (e.g. ≥3 days after surgery).
+In orthopedic hip surgery patients, maximum aPTT response (Emax) to dabigatran and baseline aPTT were higher shortly after surgery than at later time points (e.g. ≥ 3 days after surgery).
 
 Pediatrics
 
 As in adults, there is a correlation between plasma dabigatran concentrations and the degree of its anticoagulant effect in pediatric patients with venous thromboembolism.
 The parameters dTT and ECT increased in direct linear proportion to the plasma concentration of dabigatran, whereas aPTT prolongation increases in a nonlinear fashion with dabigatran plasma concentrations.
 
-Similar PK/PD relationships for aPTT, ECT, and dTT were observed across age groups of pediatric patients (ages 26 days to <18 years) and between pediatric and adult patients with venous thromboembolism.
+Similar PK/PD relationships for aPTT, ECT, and dTT were observed across age groups of pediatric patients (ages 26 days to < 18 years) and between pediatric and adult patients with venous thromboembolism.
 This similarity in PK/PD relationship suggests that similar exposure-response relationship is expected for dabigatran etexilate treatment across the pediatric age groups and adult patients.
 
 Cardiac Electrophysiology
@@ -95,7 +95,7 @@ Specific Populations
 Pediatric Patients
 
 The pharmacokinetics of dabigatran was characterized in two clinical studies (DIVERSITY and Study 2) following multiple doses in pediatric patients from birth to less than 18 years old.
-In pediatric patients taking age- and weight-adjusted doses of PRADAXA Capsules (aged 8-18 years), the observed geometric mean steady-state trough concentration was 97.9 ng/mL (63.7 to 151 ng/mL, 10th to 90th percentile) compared to the steady-state geometric mean trough concentration of 59.7 ng/mL (26.3 to 146 ng/mL, 10th to 90th percentile) observed in adult patients with DVT/PE.
+In pediatric patients taking age- and weight-adjusted dosages of PRADAXA Capsules (aged 8-18 years), the observed geometric mean steady-state trough concentration was 97.9 ng/mL (63.7 to 151 ng/mL, 10th to 90th percentile) compared to the steady-state geometric mean trough concentration of 59.7 ng/mL (26.3 to 146 ng/mL, 10th to 90th percentile) observed in adult patients with DVT/PE.
 
 Renal Impairment
 
@@ -123,13 +123,11 @@ A summary of the effect of coadministered drugs on dabigatran exposure in health
 
 In the orthopedic hip surgery patients, limited clinical data with P-gp inhibitors is available.
 
-Figure 3.1 Effect of P-gp Inhibitor or Inducer (rifampicin) Drugs on Peak and Total Exposure to Dabigatran (Cmax and AUC).
-Shown are the Geometric Mean Ratios (Ratio) and 90% Confidence Interval (90% CI).
-The Perpetrator and Dabigatran Etexilate Dose and Dosing Frequency are given as well as the Time of Perpetrator Dosing in Relation to Dabigatran Etexilate Dose (Time Difference)
+| Figure 3.1 | Effect of P-gp Inhibitor or Inducer (rifampicin) Drugs on Peak and Total Exposure to Dabigatran (Cmax and AUC). Shown are the Geometric Mean Ratios (Ratio) and 90% Confidence Interval (90% CI). The Perpetrator and Dabigatran Etexilate Dosage and Dosage Frequency are given as well as the Time of Perpetrator Dosage in Relation to Dabigatran Etexilate Dosage (Time Difference) |
+| --- | --- |
 
-Figure 3.2 Effect of Non-P-gp Inhibitor or Inducer, Other Drugs, on Peak and Total Exposure to Dabigatran (Cmax and AUC).
-Shown are the Geometric Mean Ratios (Ratio) and 90% Confidence Interval (90% CI).
-The Perpetrator and Dabigatran Etexilate Dose and Dosing Frequency are given as well as the Time of Perpetrator Dosing in Relation to Dabigatran Etexilate Dose (Time Difference)
+| Figure 3.2 | Effect of Non-P-gp Inhibitor or Inducer, Other Drugs, on Peak and Total Exposure to Dabigatran (Cmax and AUC). Shown are the Geometric Mean Ratios (Ratio) and 90% Confidence Interval (90% CI). The Perpetrator and Dabigatran Etexilate Dosage and Dosage Frequency are given as well as the Time of Perpetrator Dosage in Relation to Dabigatran Etexilate Dosage (Time Difference) |
+| --- | --- |
 
 In RE-LY, dabigatran plasma samples were also collected.
 The concomitant use of proton pump inhibitors, H2 antagonists, and digoxin did not appreciably change the trough concentration of dabigatran.

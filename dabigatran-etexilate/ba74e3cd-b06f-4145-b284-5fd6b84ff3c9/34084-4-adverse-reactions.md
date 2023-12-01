@@ -26,10 +26,10 @@ Table 2 Summary of Treatment Exposure in RE-LY
 
 |  | PRADAXA Capsules 110 mg twice daily | PRADAXA Capsules 150 mg twice daily | Warfarin |
 | --- | --- | --- | --- |
-| Total number treated | 5983 | 6059 | 5998 |
+| Total number treated | 5,983 | 6,059 | 5,998 |
 | Exposure |  |  |  |
-| > 12 months | 4936 | 4939 | 5193 |
-| > 24 months | 2387 | 2405 | 2470 |
+| > 12 months | 4,936 | 4,939 | 5,193 |
+| > 24 months | 2,387 | 2,405 | 2,470 |
 | Mean exposure (months) | 20.5 | 20.3 | 21.3 |
 | Total patient-years | 10,242 | 10,261 | 10,659 |
 
@@ -41,12 +41,12 @@ The most frequent adverse reactions leading to discontinuation of PRADAXA Capsul
 Bleeding [see Warnings and Precautions (5.2)]
 
 Table 3 shows the number of adjudicated major bleeding events during the treatment period in the RE-LY study, with the bleeding rate per 100 subject-years (%).
-Major bleeding is defined as bleeding accompanied by one or more of the following: a decrease in hemoglobin of ≥2 g/dL, a transfusion of ≥2 units of packed red blood cells, bleeding at a critical site or with a fatal outcome.
+Major bleeding is defined as bleeding accompanied by one or more of the following: a decrease in hemoglobin of ≥ 2 g/dL, a transfusion of ≥ 2 units of packed red blood cells, bleeding at a critical site or with a fatal outcome.
 Intracranial hemorrhage included intracerebral (hemorrhagic stroke), subarachnoid, and subdural bleeds.
 
 Table 3 Adjudicated Major Bleeding Events in Treated Patientsa
 
-| Event | PRADAXA Capsules 150 mg N = 6059 n (%/yearb) | Warfarin N = 5998 n (%/yearb) | PRADAXA Capsules 150 mg vs Warfarin HR (95% CI) |
+| Event | PRADAXA Capsules 150 mg N = 6,059 n (%/yearb) | Warfarin N = 5,998 n (%/yearb) | PRADAXA Capsules 150 mg vs Warfarin HR (95% CI) |
 | --- | --- | --- | --- |
 | Major Bleedingc | 350 (3.47) | 374 (3.58) | 0.97 (0.84, 1.12) |
 | Intracranial Hemorrhage (ICH)d | 23 (0.22) | 82 (0.77) | 0.29 (0.18, 0.46) |
@@ -56,11 +56,11 @@ Table 3 Adjudicated Major Bleeding Events in Treated Patientsa
 | Fatal Bleedingf | 7 (0.07) | 16 (0.15) | 0.45 (0.19, 1.10) |
 | ICH | 3 (0.03) | 9 (0.08) | 0.35 (0.09, 1.28) |
 | Non-intracranialg | 4 (0.04) | 7 (0.07) | 0.59 (0.17, 2.02) |
-| aPatients during treatment or within 2 days of stopping study treatment. Major bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories. bAnnual event rate per 100 pt-years = 100 * number of subjects with event/subject-years. Subject-years is defined as cumulative number of days from first drug intake to event date, date of last drug intake + 2, death date (whatever occurred first) across all treated subjects divided by 365.25. In case of recurrent events of the same category, the first event was considered. cDefined as bleeding accompanied by one or more of the following: a decrease in hemoglobin of ≥2 g/dL, a transfusion of 2 or more units of packed red blood cells, bleeding at a critical site or with fatal outcome. dIntracranial bleed included intracerebral (hemorrhagic stroke), subarachnoid, and subdural bleeds. eOn-treatment analysis based on the safety population, compared to ITT analysis presented in Section 14 Clinical Studies. fFatal bleed: Adjudicated major bleed as defined above with investigator reported fatal outcome and adjudicated death with primary cause from bleeding. gNon-intracranial fatal bleed: Adjudicated major bleed as defined above and adjudicated death with primary cause from bleeding but without symptomatic intracranial bleed based on investigator's clinical assessment. |  |  |  |
+| aPatients during treatment or within 2 days of stopping study treatment. Major bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories. bAnnual event rate per 100 pt-years = 100 * number of subjects with event/subject-years. Subject-years is defined as cumulative number of days from first drug intake to event date, date of last drug intake + 2, death date (whatever occurred first) across all treated subjects divided by 365.25. In case of recurrent events of the same category, the first event was considered. cDefined as bleeding accompanied by one or more of the following: a decrease in hemoglobin of ≥ 2 g/dL, a transfusion of 2 or more units of packed red blood cells, bleeding at a critical site or with fatal outcome. dIntracranial bleed included intracerebral (hemorrhagic stroke), subarachnoid, and subdural bleeds. eOn-treatment analysis based on the safety population, compared to ITT analysis presented in Section 14 Clinical Studies. fFatal bleed: Adjudicated major bleed as defined above with investigator reported fatal outcome and adjudicated death with primary cause from bleeding. gNon-intracranial fatal bleed: Adjudicated major bleed as defined above and adjudicated death with primary cause from bleeding but without symptomatic intracranial bleed based on investigator's clinical assessment. |  |  |  |
 
 There was a higher rate of any gastrointestinal bleeds in patients receiving PRADAXA Capsules 150 mg than in patients receiving warfarin (6.6% vs 4.2%, respectively).
 
-The risk of major bleeds was similar with PRADAXA Capsules 150 mg and warfarin across major subgroups defined by baseline characteristics (see Figure 1), with the exception of age, where there was a trend toward a higher incidence of major bleeding on PRADAXA Capsules (hazard ratio 1.2, 95% CI: 1.0 to 1.5) for patients ≥75 years of age.
+The risk of major bleeds was similar with PRADAXA Capsules 150 mg and warfarin across major subgroups defined by baseline characteristics (see Figure 1), with the exception of age, where there was a trend toward a higher incidence of major bleeding on PRADAXA Capsules (hazard ratio 1.2, 95% CI: 1.0 to 1.5) for patients ≥ 75 years of age.
 
 Figure 1 Adjudicated Major Bleeding by Baseline Characteristics Including Hemorrhagic Stroke Treated Patients
 
@@ -75,11 +75,11 @@ These were commonly dyspepsia (including abdominal pain upper, abdominal pain, a
 
 Hypersensitivity Reactions
 
-In the RE-LY study, drug hypersensitivity (including urticaria, rash, and pruritus), allergic edema, anaphylactic reaction, and anaphylactic shock were reported in <0.1% of patients receiving PRADAXA Capsules.
+In the RE-LY study, drug hypersensitivity (including urticaria, rash, and pruritus), allergic edema, anaphylactic reaction, and anaphylactic shock were reported in < 0.1% of patients receiving PRADAXA Capsules.
 
 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism
 
-PRADAXA Capsules was studied in 4387 patients in 4 pivotal, parallel, randomized, double-blind trials.
+PRADAXA Capsules was studied in 4,387 patients in 4 pivotal, parallel, randomized, double-blind trials.
 Three of these trials were active-controlled (warfarin) (RE-COVER, RE-COVER II, and RE-MEDY), and one study (RE-SONATE) was placebo-controlled.
 The demographic characteristics were similar among the 4 pivotal studies and between the treatment groups within these studies.
 Approximately 60% of the treated patients were male, with a mean age of 55.1 years.
@@ -96,11 +96,11 @@ Table 4 Bleeding Events in RE-COVER and RE-COVER II Treated Patients
 |  | Bleeding Events—Full Treatment Period Including Parenteral Treatment |  |  |
 | --- | --- | --- | --- |
 |  | PRADAXA Capsules 150 mg twice daily N (%) | Warfarin N (%) | Hazard Ratio (95% CI)c |
-| Patients | N=2553 | N=2554 |  |
+| Patients | N=2,553 | N=2,554 |  |
 | Major bleeding eventa | 37 (1.4) | 51 (2.0) | 0.73 (0.48, 1.11) |
 | Fatal bleeding | 1 (0.04) | 2 (0.1) |  |
 | Bleeding in a critical area or organ | 7 (0.3) | 15 (0.6) |  |
-| Fall in hemoglobin ≥2 g/dL or transfusion ≥2 units of whole blood or packed red blood cells | 32 (1.3) | 38 (1.5) |  |
+| Fall in hemoglobin ≥ 2 g/dL or transfusion ≥ 2 units of whole blood or packed red blood cells | 32 (1.3) | 38 (1.5) |  |
 | Bleeding sites for MBEb |  |  |  |
 | Intracranial | 2 (0.1) | 5 (0.2) |  |
 | Retroperitoneal | 2 (0.1) | 1 (0.04) |  |
@@ -117,7 +117,7 @@ The rate of any gastrointestinal bleeds in patients receiving PRADAXA Capsules 1
 
 The RE-MEDY and RE-SONATE studies provided safety information on the use of PRADAXA Capsules for the reduction in the risk of recurrence of deep vein thrombosis and pulmonary embolism.
 
-RE-MEDY was an active-controlled study (warfarin) in which 1430 patients received PRADAXA Capsules 150 mg twice daily following 3 to 12 months of oral anticoagulant regimen.
+RE-MEDY was an active-controlled study (warfarin) in which 1,430 patients received PRADAXA Capsules 150 mg twice daily following 3 to 12 months of oral anticoagulant regimen.
 Patients in the treatment studies who rolled over into the RE-MEDY study had a combined treatment duration of up to more than 3 years, with mean exposure of 473 days.
 Table 5 shows the number of patients experiencing bleeding events in the study.
 
@@ -125,11 +125,11 @@ Table 5 Bleeding Events in RE-MEDY Treated Patients
 
 |  | PRADAXA Capsules 150 mg twice daily N (%) | Warfarin N (%) | Hazard Ratio (95% CI)c |
 | --- | --- | --- | --- |
-| Patients | N=1430 | N=1426 |  |
+| Patients | N=1,430 | N=1,426 |  |
 | Major bleeding eventa | 13 (0.9) | 25 (1.8) | 0.54 (0.25, 1.16) |
 | Fatal bleeding | 0 | 1 (0.1) |  |
 | Bleeding in a critical area or organ | 7 (0.5) | 11 (0.8) |  |
-| Fall in hemoglobin ≥2 g/dL or transfusion ≥2 units of whole blood or packed red blood cells | 7 (0.5) | 16 (1.1) |  |
+| Fall in hemoglobin ≥ 2 g/dL or transfusion ≥ 2 units of whole blood or packed red blood cells | 7 (0.5) | 16 (1.1) |  |
 | Bleeding sites for MBEb |  |  |  |
 | Intracranial | 2 (0.1) | 4 (0.3) |  |
 | Intraocular | 4 (0.3) | 2 (0.1) |  |
@@ -179,7 +179,7 @@ In the 4 pivotal studies, drug hypersensitivity (including urticaria, rash, and 
 
 Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery
 
-PRADAXA Capsules was studied in 5476 patients, randomized and treated in two double-blind, active-controlled non-inferiority trials (RE-NOVATE and RE-NOVATE II).
+PRADAXA Capsules was studied in 5,476 patients, randomized and treated in two double-blind, active-controlled non-inferiority trials (RE-NOVATE and RE-NOVATE II).
 The demographic characteristics were similar across the two studies and between the treatment groups within these studies.
 Approximately 45.3% of the treated patients were male, with a mean age of 63.2 years.
 The majority of the patients were white (96.1%), 3.6% were Asian, and 0.3% were black with a mean CrCl of 92 mL/min.
@@ -195,7 +195,7 @@ Table 7 Bleeding Events in RE-NOVATE Treated Patients
 
 |  | PRADAXA Capsules 220 mg N (%) | Enoxaparin N (%) |
 | --- | --- | --- |
-| Patients | N=1146 | N=1154 |
+| Patients | N=1,146 | N=1,154 |
 | Major bleeding event | 23 (2.0) | 18 (1.6) |
 | Clinically relevant non-major bleeding | 48 (4.2) | 40 (3.5) |
 | Any bleeding | 141 (12.3) | 132 (11.4) |
@@ -204,7 +204,7 @@ Table 8 Bleeding Events in RE-NOVATE II Treated Patients
 
 |  | PRADAXA Capsules 220 mg N (%) | Enoxaparin N (%) |
 | --- | --- | --- |
-| Patients | N=1010 | N=1003 |
+| Patients | N=1,010 | N=1,003 |
 | Major bleeding event | 14 (1.4) | 9 (0.9) |
 | Clinically relevant non-major bleeding | 26 (2.6) | 20 (2.0) |
 | Any bleeding | 98 (9.7) | 83 (8.3) |
@@ -231,7 +231,7 @@ Treatment of VTE in Pediatric Patients
 The safety of PRADAXA in the treatment of VTE in pediatric patients was studied in one phase III trial (DIVERSITY).
 The DIVERSITY study was a randomized, open-label, active-controlled, parallel-group trial comparing PRADAXA with standard of care – SOC (vitamin K antagonists, low molecular weight heparin, or fondaparinux).
 There were 266 pediatric patients who received study treatment, 176 patients treated with PRADAXA and 90 patients treated with SOC.
-Patients on PRADAXA received age- and weight-adjusted doses of an age-appropriate formulation of PRADAXA (capsules, pellets, or oral solution) twice daily.
+Patients on PRADAXA received age- and weight-adjusted dosages of an age-appropriate formulation of PRADAXA (capsules, pellets, or oral solution) twice daily.
 
 Patients had a median age of 14 years (range: 0-17 years), 92% were white, and half the patients were male (50%).
 Following at least 5 days of parenteral anticoagulant therapy, the median duration of treatment with PRADAXA was 85 days (range: 1-105).
@@ -259,7 +259,7 @@ Site-specific bleeding rates were comparable between the two arms, with the exce
 
 Gastrointestinal Adverse Reactions
 
-The incidence of gastrointestinal adverse reactions for patients on PRADAXA and SOC was 32% and 12%, respectively, with the following occurring in ≥5% of patients taking PRADAXA: dyspepsia (including term gastro-esophageal reflux disease, gastric pH decreased and esophagitis) in 9% (vs 2%), upper abdominal pain in 5% (vs 1%), vomiting in 8% (vs 2%), nausea 5% (vs 4%), and diarrhea 5% (vs 1%).
+The incidence of gastrointestinal adverse reactions for patients on PRADAXA and SOC was 32% and 12%, respectively, with the following occurring in ≥ 5% of patients taking PRADAXA: dyspepsia (including term gastro-esophageal reflux disease, gastric pH decreased and esophagitis) in 9% (vs 2%), upper abdominal pain in 5% (vs 1%), vomiting in 8% (vs 2%), nausea 5% (vs 4%), and diarrhea 5% (vs 1%).
 
 Reduction in Risk of Recurrence of VTE in Pediatric Patients
 
@@ -280,4 +280,5 @@ The adverse reaction profile in pediatric patients was generally consistent with
 
 The following adverse reactions have been identified during post approval use of PRADAXA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The following adverse reactions have been identified during post approval use of PRADAXA: angioedema, thrombocytopenia, esophageal ulcer, alopecia, neutropenia, agranulocytosis.
+
+Blood and Lymphatic System Disorders: Agranulocytosis, neutropenia, thrombocytopenia Gastrointestinal Disorders: Esophageal ulcer Immune System Disorders: Angioedema Renal and Urinary Disorders: Anticoagulant-related nephropathy Skin and Subcutaneous Tissue Disorders: Alopecia

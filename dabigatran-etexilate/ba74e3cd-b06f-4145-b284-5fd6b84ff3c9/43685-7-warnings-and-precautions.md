@@ -14,7 +14,7 @@ Discontinue PRADAXA Capsules in patients with active pathological bleeding [see 
 Risk factors for bleeding include the concomitant use of other drugs that increase the risk of bleeding (e.g., anti-platelet agents, heparin, fibrinolytic therapy, and chronic use of NSAIDs).
 PRADAXA's anticoagulant activity and half-life are increased in patients with renal impairment [see Clinical Pharmacology (12.2)].
 
-Reversal of Anticoagulant Effect:
+Reversal of Anticoagulant Effect
 
 In adults, a specific reversal agent (idarucizumab) for PRADAXA is available when reversal of the anticoagulant effect of dabigatran is needed:
 
@@ -57,16 +57,16 @@ Concomitant use of P-gp inhibitors in patients with renal impairment is expected
 
 Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation in Adult Patients
 
-Reduce the dose of PRADAXA Capsules to 75 mg twice daily when dronedarone or systemic ketoconazole is co-administered with PRADAXA Capsules in patients with moderate renal impairment (CrCl 30-50 mL/min).
+Reduce the dosage of PRADAXA Capsules to 75 mg twice daily when dronedarone or systemic ketoconazole is co-administered with PRADAXA Capsules in patients with moderate renal impairment (CrCl 30-50 mL/min).
 Avoid use of PRADAXA Capsules and P-gp inhibitors in patients with severe renal impairment (CrCl 15-30 mL/min) [see Drug Interactions (7.1) and Use in Specific Populations (8.6)].
 
 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism in Adult Patients
 
-Avoid use of PRADAXA Capsules and concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Drug Interactions (7.2) and Use in Specific Populations (8.6)].
+Avoid use of PRADAXA Capsules and concomitant P-gp inhibitors in patients with CrCl < 50 mL/min [see Drug Interactions (7.2) and Use in Specific Populations (8.6)].
 
 Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism in Adult Patients Following Hip Replacement Surgery
 
-Avoid use of PRADAXA Capsules and concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Drug Interactions (7.3) and Use in Specific Populations (8.6)].
+Avoid use of PRADAXA Capsules and concomitant P-gp inhibitors in patients with CrCl < 50 mL/min [see Drug Interactions (7.3) and Use in Specific Populations (8.6)].
 
 Treatment and reduction in risk of recurrence of VTE in pediatric patients
 
