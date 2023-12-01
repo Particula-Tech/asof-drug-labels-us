@@ -27,10 +27,10 @@ Consider a temporary or permanent dose reduction in patients who cannot tolerate
 
 ## 2.2 Dosage in Special Populations
 
-1. Patients with Impaired Renal Function: No dosage adjustment is necessary for patients with mild to moderate renal impairment.
-   For patients with severe renal impairment (estimated creatinine clearance <30 mL/min), the recommended starting dose of CHANTIX is 0.5 mg once daily.
-   The dose may then be titrated as needed to a maximum dose of 0.5 mg twice a day.
-   For patients with end-stage renal disease undergoing hemodialysis, a maximum dose of 0.5 mg once daily may be administered if tolerated [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Patients with Impaired Renal Function: No dosage adjustment is necessary for patients with mild to moderate renal impairment.
+For patients with severe renal impairment (estimated creatinine clearance <30 mL/min), the recommended starting dose of CHANTIX is 0.5 mg once daily.
+The dose may then be titrated as needed to a maximum dose of 0.5 mg twice a day.
+For patients with end-stage renal disease undergoing hemodialysis, a maximum dose of 0.5 mg once daily may be administered if tolerated [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-1. Elderly and Patients with Impaired Hepatic Function: No dosage adjustment is necessary for patients with hepatic impairment.
-   Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Use in Specific Populations (8.5)].
+Elderly and Patients with Impaired Hepatic Function: No dosage adjustment is necessary for patients with hepatic impairment.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Use in Specific Populations (8.5)].

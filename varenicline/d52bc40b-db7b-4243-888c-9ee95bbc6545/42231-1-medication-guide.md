@@ -112,17 +112,17 @@ How should I take CHANTIX?
     If you slip-up and smoke, try again.
     Some people need to take CHANTIX for a few weeks for CHANTIX to work best.
 - •Take CHANTIX exactly as prescribed by your doctor.
-  - 3.Take CHANTIX after eating and with a full glass (8 ounces) of water.
-  - 4.Most people will take CHANTIX for up to 12 weeks.
+  - 1.Take CHANTIX after eating and with a full glass (8 ounces) of water.
+  - 2.Most people will take CHANTIX for up to 12 weeks.
     If you have completely quit smoking by 12 weeks, your doctor may prescribe CHANTIX for another 12 weeks to help you stay cigarette-free.
 - •CHANTIX comes as a white tablet (0.5 mg) and a blue tablet (1 mg).
   You start with the white tablet and then usually go to the blue tablet.
   See the chart below for dosing instructions.
 
-| Day 1 to Day 3 | 5.White tablet (0.5 mg)6.Take 1 tablet each day |
+| Day 1 to Day 3 | 1.White tablet (0.5 mg)2.Take 1 tablet each day |
 | --- | --- |
-| Day 4 to Day 7 | 7.White tablet (0.5 mg) 8.Take 1 in the morning and 1 in the evening |
-| Day 8 to end of treatment | 9.Blue tablet (1 mg) 10.Take 1 in the morning and 1 in the evening |
+| Day 4 to Day 7 | 3.White tablet (0.5 mg) 4.Take 1 in the morning and 1 in the evening |
+| Day 8 to end of treatment | 5.Blue tablet (1 mg) 6.Take 1 in the morning and 1 in the evening |
 
 - •This dosing schedule may not be right for everyone.
   Talk to your doctor if you are having side effects such as nausea, strange dreams, or sleep problems.

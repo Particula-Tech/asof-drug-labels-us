@@ -70,4 +70,4 @@ Use with Other Drugs for Smoking Cessation:
 
 Bupropion: Varenicline (1 mg twice daily) did not alter the steady-state pharmacokinetics of bupropion (150 mg twice daily) in 46 smokers [see Drug Interactions (7.1)].
 
-1. Nicotine replacement therapy (NRT): Although co-administration of varenicline (1 mg twice daily) and transdermal nicotine (21 mg/day) for up to 12 days did not affect nicotine pharmacokinetics, the incidence of adverse reactions was greater for the combination than for NRT alone [see Drug Interactions (7.1)].
+Nicotine replacement therapy (NRT): Although co-administration of varenicline (1 mg twice daily) and transdermal nicotine (21 mg/day) for up to 12 days did not affect nicotine pharmacokinetics, the incidence of adverse reactions was greater for the combination than for NRT alone [see Drug Interactions (7.1)].
