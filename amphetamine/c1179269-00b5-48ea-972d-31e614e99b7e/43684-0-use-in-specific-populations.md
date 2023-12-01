@@ -1,18 +1,18 @@
 # 8. USE IN SPECIFIC POPULATIONS
 
+## 8.2 Labor and Delivery
+
+The effect of ADZENYS XR-ODT on labor and delivery in humans is unknown.
+
 ## 8.1 Pregnancy
 
-Teratogenic Effects
-
-Pregnancy Category C.
-
 Amphetamine, in the enantiomer ratio present in ADZENYS XR-ODT (d- to l- ratio of 3:1), had no apparent effects on embryofetal morphological development or survival when orally administered to pregnant rats and rabbits throughout the period of organogenesis at doses of up to 6 and 16 mg/kg/day, respectively.
-These doses are approximately 2 and 12 times, respectively, the maximum recommended human dose (MRHD) for adolescents of 12.5 mg/day (as base), on a mg/m 2 body surface area basis.
-Fetal malformations and death have been reported in mice following parenteral administration of d-amphetamine doses of 50 mg/kg/day (approximately 10 times the MRHD for adolescents on a mg/m 2 basis) or greater to pregnant animals.
+These doses are approximately 2 and 12 times, respectively, the maximum recommended human dose (MRHD) for adolescents of 12.5 mg/day (as base), on a mg/m2 body surface area basis.
+Fetal malformations and death have been reported in mice following parenteral administration of d-amphetamine doses of 50 mg/kg/day (approximately 10 times the MRHD for adolescents on a mg/m2 basis) or greater to pregnant animals.
 Administration of these doses was also associated with severe maternal toxicity.
 
-A study was conducted in which pregnant rats received daily oral doses of amphetamine (d- to l- enantiomer ratio of 3:1, the same as in ADZENYS XR-ODT) of 2, 6, and 10 mg/kg from gestation day 6 to lactation day 20.
-These doses are approximately 0.8, 2, and 4 times the MRHD for adolescents of 12.5 mg/day (as base), on a mg/m 2 basis.
+A study was conducted in which pregnant rats received daily oral doses of amphetamine (d- to lenantiomer ratio of 3:1, the same as in ADZENYS XR-ODT) of 2, 6, and 10 mg/kg from gestation day 6 to lactation day 20.
+These doses are approximately 0.8, 2, and 4 times the MRHD for adolescents of 12.5 mg/day (as base), on a mg/m2 basis.
 All doses caused hyperactivity and decreased weight gain in the dams.
 A decrease in pup survival was seen at all doses.
 A decrease in pup bodyweight was seen at 6 and 10 mg/kg which correlated with delays in developmental landmarks.
@@ -34,10 +34,6 @@ In addition, amphetamines can stimulate uterine contractions increasing the risk
 Premature delivery and low birth weight infants have been reported in amphetamine-dependent mothers.
 Monitor infants born to mothers taking amphetamines for symptoms of withdrawal, such as feeding difficulties, irritability, agitation, and excessive drowsiness.
 
-## 8.2 Labor and Delivery
-
-The effect of ADZENYS XR-ODT on labor and delivery in humans is unknown.
-
 ## 8.3 Nursing Mothers
 
 Based on limited case reports in published literature, amphetamine (d- or d, l-) is present in human milk at relative infant doses of 2% to 13.8% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 1.9 and 7.5.
@@ -45,10 +41,14 @@ There are no reports of adverse effects on the breastfed infant and no effects o
 However, long-term neurodevelopmental effects on infants from stimulant exposure are unknown.
 Because of the potential for serious adverse reactions in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with ADZENYS XR-ODT.
 
+## 8.5 Geriatric Use
+
+ADZENYS XR-ODT has not been studied in the geriatric population.
+
 ## 8.4 Pediatric Use
 
-Safety and effectiveness have been established in pediatric patients with ADHD ages 6 to 17 years of age in three adequate and well-controlled clinical trials of up to 4 weeks in duration [see Adverse Reactions (6.1), Clinical Pharmacology (12), Clinical Studies (14)].
-Safety and efficacy in pediatric patients younger than 6 years of age with ADHD have not been established.
+The safety and effectiveness have been established in pediatric patients with ADHD ages 6 to 17 years of age in three adequate and well-controlled clinical trials of up to 4 weeks in duration [see Adverse Reactions (6.1), Clinical Pharmacology (12), Clinical Studies (14)].
+The safety and efficacy of ADZENYS XR-ODT in pediatric patients less than 6 years have not been established.
 
 Long-Term Growth Suppression
 
@@ -61,7 +61,3 @@ The latter doses are approximately 0.6, 2, and 6 times the maximum recommended h
 Post dosing hyperactivity was seen at all doses; motor activity measured prior to the daily dose was decreased during the dosing period but the decreased motor activity was largely absent after an 18 day drug-free recovery period.
 Performance in the Morris water maze test for learning and memory was impaired at the 40 mg/kg dose, and sporadically at the lower doses, when measured prior to the daily dose during the treatment period; no recovery was seen after a 19 day drug-free period.
 A delay in the developmental milestones of vaginal opening and preputial separation was seen at 40 mg/kg but there was no effect on fertility.
-
-## 8.5 Geriatric Use
-
-ADZENYS XR-ODT has not been studied in the geriatric population.

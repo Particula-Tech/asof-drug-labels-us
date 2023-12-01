@@ -1,52 +1,63 @@
 # 5. WARNINGS AND PRECAUTIONS
 
-## 5.1 Potential for Abuse and Dependence
+## 5.1 Abuse, Misuse, and Addiction
 
-CNS stimulants, including ADZENYS XR-ODT, other amphetamine-containing products, and methylphenidate, have a high potential for abuse and dependence.
-Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy [see Boxed Warning, Drug Abuse and Dependence (9.2, 9.3)].
+ADZENYS XR-ODT has a high potential for abuse and misuse.
+The use of ADZENYS XR-ODT exposes individuals to the risks of abuse and misuse, which can lead to the development of a substance use disorder, including addiction.
+ADZENYS XR-ODT can be diverted for nonmedical use into illicit channels or distribution [see Drug Abuse and Dependence (9.2)].
+Misuse and abuse of CNS stimulants, including ADZENYS XR-ODT, can result in overdose and death [see Overdosage (10)], and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
 
-## 5.2 Serious Cardiovascular Reactions
+Before prescribing ADZENYS XR-ODT, assess each patient’s risk for abuse, misuse, and addiction.
+Educate patients and their families about these risks and proper disposal of any unused drug.
+Advise patients to store ADZENYS XR-ODT in a safe place, preferably locked, and instruct patients to not give ADZENYS XR-ODT to anyone else.
+Throughout ADZENYS XR-ODT treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction.
 
-Sudden death, stroke, and myocardial infarction have been reported in adults with CNS stimulant treatment at recommended doses.
-Sudden death has been reported in pediatric patients with structural cardiac abnormalities and other serious heart problems taking CNS stimulants at recommended doses for ADHD.
-Avoid use in patients with known structural cardiac abnormalities, cardiomyopathy, serious heart arrhythmia, coronary artery disease, and other serious heart problems.
-Further evaluate patients who develop exertional chest pain, unexplained syncope, or arrhythmias during ADZENYS XR-ODT treatment.
+## 5.2 Risks to Patients with Serious Cardiac Disease
 
-## 5.3 Blood Pressure and Heart Rate Increases
+Sudden death has been reported in patients with structural cardiac abnormalities or other serious cardiac disease who were treated with CNS stimulants at the recommended ADHD dosage.
 
-CNS stimulants cause an increase in blood pressure (mean increase about 2-4 mm Hg) and heart rate (mean increase about 3-6 bpm).
-Monitor all patients for potential tachycardia and hypertension.
+Avoid ADZENYS XR-ODT use in patients with known structural cardiac abnormalities, cardiomyopathy, serious cardiac arrhythmia, coronary artery disease, or other serious cardiac disease.
+
+## 5.3 Increased Blood Pressure and Heart Rate
+
+CNS stimulants cause an increase in blood pressure (mean increase about 2 to 4 mm Hg) and heart rate (mean increase about 3 to 6 bpm).
+Some patients may have larger increases.
+
+Monitor all ADZENYS XR-ODT-treated patients for potential tachycardia and hypertension.
 
 ## 5.4 Psychiatric Adverse Reactions
 
-Exacerbation Pre-Existing Psychosis
+Exacerbation Pre-existing Psychosis
 
 CNS stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
 
-Induction of a Manic Episode in Patients with Bipolar Illness
+Induction of a Manic Episode in Patients with Bipolar Disorder
 
-CNS stimulants may induce a mixed or manic episode in patients with bipolar disorder.
-Prior to initiating treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or has a history of depressive symptoms or a family history of suicide, bipolar disorder, and depression).
+CNS stimulants may induce a manic or mixed episode in patients.
+Prior to initiating ADZENYS XR-ODT treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or has a history of depressive symptoms or a family history of suicide, bipolar disorder, and depression).
 
 New Psychotic or Manic Symptoms
 
-CNS stimulants, at recommended doses, may cause psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in patients without prior history of psychotic illness or mania.
-If such symptoms occur, consider discontinuing ADZENYS XR-ODT.
-In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in 0.1% of CNS stimulant-treated patients compared to 0% in placebo-treated patients.
+CNS stimulants, at the recommended dosages, may cause psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in patients without prior history of psychotic illness or mania.
+In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in 0.1% of CNS stimulant-treated patients compared to 0% of placebo-treated patients.
+If such symptoms occur, conisder discontinuing ADZENYS XR-ODT.
 
-## 5.5 Long-Term Suppression of Growth
+## 5.5 Long-Term Suppression of Growth in Pediatric Patients
 
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
-Closely monitor growth (weight and height) in pediatric patients treated with CNS stimulants, including ADZENYS XR-ODT.
+Closely monitor growth (weight and height) in ADZENYS XR-ODT-treated pediatric patients treated with CNS stimulants.
+
+Pediatric patients not growing or gaining height or weight as expected may need to have their treatment interrupted.
 
 ## 5.6 Peripheral Vasculopathy, including Raynaud's Phenomenon
 
-Stimulants, including ADZENYS XR-ODT, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud's phenomenon.
-Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
-Effects of peripheral vasculopathy, including Raynaud's phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
-Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
-Careful observation for digital changes is necessary during treatment with ADHD stimulants.
-Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+CNS stimulants, including ADZENYS XR-ODT, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud's phenomenon.
+Signs and symptoms are usually intermittent and mild; however, sequelae have included digital ulceration and/or soft tissue breakdown.
+Effects of peripheral vasculopathy, including Raynaud's phenomenon, were observed in post-marketing reports and at the therapeutic dosage of CNS stimulants in all age groups throughout the course of treatment.
+Signs and symptoms generally improved after dosage reduction or discontinuation of the CNS stimulants.
+
+Careful observation for digital changes is necessary during ADZENYS XR-ODT-treatment.
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for ADZENYS XRODT-treated patients who develop signs or symptoms of peripheral vasculopathy.
 
 ## 5.7 Serotonin Syndrome
 
@@ -61,7 +72,15 @@ Concomitant use of ADZENYS XR-ODT with MAOI drugs is contraindicated [see Contra
 Discontinue treatment with ADZENYS XR-ODT and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
 If concomitant use of ADZENYS XR-ODT with other serotonergic drugs or CYP2D6 inhibitors is clinically warranted, initiate ADZENYS XR-ODT with lower doses, monitor patients for the emergence of serotonin syndrome during drug initiation or titration, and inform patients of the increased risk for serotonin syndrome.
 
-## 5.8 Potential for Overdose Due to Medication Errors
+## 5.8 Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
+
+CNS stimulants, including amphetamine, have been associated with the onset or exacerbation of motor and verbal tics.
+Worsening of Tourette’s syndrome has also been reported [see Adverse Reactions (6.2)].
+
+Before initiating ADZENYS XR-ODT, assess the family history and clinically evaluate patients for tics or Tourette’s syndrome.
+Regularly monitor ADZENYS XR-ODT-treated patients for the emergence or worsening of tics or Tourette’s syndrome and discontinue treatment if clinically appropriate.
+
+## 5.9 Potential for Overdose Due to Medication Errors
 
 Medication errors, including substitution and dispensing errors, between ADZENYS XR-ODT and other amphetamine products could occur, leading to possible overdosage.
 To avoid substitution errors and overdosage, do not substitute for other amphetamine products on a milligram-per-milligram basis because of different amphetamine base compositions and differing pharmacokinetic profiles [see Dosage and Administration (2.5)].

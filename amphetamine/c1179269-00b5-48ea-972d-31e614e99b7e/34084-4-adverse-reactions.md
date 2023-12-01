@@ -2,15 +2,16 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Drug Dependence [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
+- Abuse, Misuse, and Addiction [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
 - Hypersensitivity to amphetamine, or other components of ADZENYS XR-ODT [see Contraindications (4)]
 - Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see Contraindications (4) and Drug Interactions (7.1)]
-- Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
-- Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
+- Risks to Patients with Serious Cardiac Disease [see Warnings and Precautions (5.2)]
+- Increased Blood Pressure and Heart Rate [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
-- Long-Term Suppression of Growth [see Warnings and Precautions (5.5)]
+- Long-Term Suppression of Growth in Pediatric Patients [see Warnings and Precautions (5.5)]
 - Peripheral Vasculopathy, including Raynaud's phenomenon [see Warnings and Precautions (5.6)]
 - Serotonin Syndrome [see Warnings and Precautions (5.7)]
+- Motor and Verbal Tics, and Worsening of Tourette's Syndrome [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -92,7 +93,7 @@ Because some of these reactions were reported voluntarily from a population of u
 Cardiovascular: Palpitations, sudden death, myocardial infarction.
 There have been isolated reports of cardiomyopathy associated with chronic amphetamine use.
 
-Central Nervous System: Restlessness, irritability, euphoria, dyskinesia, dysphoria, depression, tremor, aggression, anger, logorrhea, and paresthesia (including formication).
+Central Nervous System: Restlessness, irritability, euphoria, dyskinesia, dysphoria, depression, tremor, aggression, anger, logorrhea, paresthesia (including formication), motor and verbal tics.
 
 Eye Disorders: Vision blurred, mydriasis.
 

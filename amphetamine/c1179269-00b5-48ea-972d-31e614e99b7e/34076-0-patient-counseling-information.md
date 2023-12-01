@@ -2,13 +2,6 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Controlled Substance Status/Potential for Abuse, Misuse, and Dependence
-
-Advise patients that ADZENYS XR-ODT is a federally controlled substance because it can be abused or lead to dependence.
-Advise patients to store ADZENYS XR-ODT in a safe place, preferably locked, to prevent abuse.
-Advise patients to comply with laws and regulations on drug disposal.
-Advise patients to dispose of remaining, unused, or expired ADZENYS XR-ODT by a medicine take-back program if available [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9)].
-
 Dosage and Administration Instructions
 
 Provide the following instructions on administration to the patient:
@@ -21,16 +14,21 @@ Provide the following instructions on administration to the patient:
 - The whole tablet should be placed on the tongue and allowed to disintegrate without chewing or crushing.
 - The tablet will disintegrate in saliva so that it can be swallowed.
 
-Serious Cardiovascular Risks
+Abuse, Misuse, and Addiction
 
-Advise patients of serious cardiovascular risk (including sudden death, myocardial infarction, stroke, and hypertension) with ADZENYS XR-ODT.
+Educate patients and their families about the risks of abuse, misuse, and addiction of ADZENYS XR-ODT, which can lead to overdose and death, and proper disposal of any unused drug [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2), Overdosage (10)].
+Advise patients to store ADZENYS XR-ODT in a safe place, preferably locked, and instruct patients to not give ADZENYS XR-ODT to anyone else.
+
+Risks to Patients with Serious Cardiac Disease
+
+Advise patients that there are potential risks to patients with serious cardiac disease, including sudden death, with ADZENYS XR-ODT use.
 Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
 
-Blood Pressure and Heart Rate Increases
+Increased Blood Pressure and Heart Rate
 
 Instruct patients that ADZENYS XR-ODT can cause elevations of their blood pressure and pulse rate [see Warnings and Precautions (5.3)].
 
-Psychiatric Risks
+Psychiatric Adverse Reactions
 
 Advise patients that ADZENYS XR-ODT, at recommended doses, may cause psychotic symptoms or mania [see Warnings and Precautions (5.4)].
 
@@ -71,12 +69,10 @@ Alcohol
 Advise patients to avoid alcohol while taking ADZENYS XR-ODT.
 Consumption of alcohol while taking ADZENYS XR-ODT may result in a more rapid release of the dose of amphetamine [see Clinical Pharmacology (12)].
 
-Manufactured for Neos Therapeutics Brands LLC., Grand Prairie, TX 75050.
+Manufactured for Neos Therapeutics Brands, LLC., Grand Prairie, TX 75050.
 Made in USA.
 
 For more information call 1-888-319-1789.
-
-Pharmacist: Medication Guide to be dispensed to patients
 
 ADZENYS XR-ODT is a registered trademark of Neos Therapeutics, Inc.
 
@@ -84,5 +80,5 @@ Copyright © 2017, Neos Therapeutics, Inc.
 
 Patent Number 8,709,491 B2
 
-Rev.
-02/2022 PIN020299
+Motor and Verbal Tics, and Worsening of Tourette’s Syndrome Advise patients that motor and verbal tics and worsening of Tourette’s syndrome may occur during treatment with ADZENYS XR-ODT.
+Instruct patients to notify their healthcare provider if emergence of new tics or worsening of tics or Tourette’s syndrome occurs [see Warnings and Precautions (5.8)].

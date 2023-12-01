@@ -1,10 +1,15 @@
 # 10. OVERDOSAGE
 
-Consult with a Certified Poison Control Center (1-800-222-1222) for up-to-date guidance and advice for treatment of overdosage.
-Individual patient response to amphetamines varies widely.
-Toxic symptoms may occur idiosyncratically at low doses.
+Clinical Effects of Overdose Overdose of CNS stimulants is characterized by the following sympathomimetic effects:
 
-Manifestations of amphetamine overdose include restlessness, tremor, hyperreflexia, rapid respiration, confusion, assaultiveness, hallucinations, panic states, hyperpyrexia and rhabdomyolysis.
-Fatigue and depression usually follow the central nervous system stimulation.
-Other reactions include arrhythmias, hypertension or hypotension, circulatory collapse, nausea, vomiting, diarrhea, and abdominal cramps.
-Fatal poisoning is usually preceded by convulsions and coma.
+• Cardiovascular effects including tachyarrhythmias, and hypertension or hypotension.
+Vasospasm, myocardial infarction, or aortic dissection may precipitate sudden cardiac death.
+Takotsubo cardiomyopathy may develop.
+
+• CNS effects including psychomotor agitation, confusion, and hallucination.
+Serotonin syndrome, seizures, cerebral vascular accidents, and coma may occur. • Life-threatening hyperthermia (temperatures greater than 104ºF) and rhabdomyolysis may develop.
+
+Overdose Management Consider the possibility of multiple drug ingestion.
+The pharmacokinetic profile of ADZENYS XR-ODT should be considered when treating patients with overdose.
+Damphetamine is not dialyzable.
+Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.
