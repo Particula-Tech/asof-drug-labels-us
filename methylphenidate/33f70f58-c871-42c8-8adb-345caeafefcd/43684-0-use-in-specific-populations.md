@@ -58,8 +58,8 @@ Monitor breastfeeding infants for adverse reactions, such as agitation, insomnia
 
 The safety and effectiveness of COTEMPLA XR-ODT have been established in pediatric patients 6 to 17 years of age in one adequate and well-controlled study in pediatric patients 6 to 12 years, pharmacokinetic data in adolescents, and safety information from other methyphenidate-containing products [see Clinical Pharmacology (12) and Clinical Studies (14)].
 
-The long-term efficacy of methylphenidate in pediatric patients has not been established.
-Safety and effectiveness of COTEMPLA XR-ODT in pediatric patients below 6 years of age have not been established.
+The safety and effectiveness of COTEMPLA XR-ODT in pediatric patients below 6 years of age have not been established.
+The long-term efficacy of methylphenidate in pediatric patients has not been establisted.
 
 Long Term Suppression Growth
 

@@ -2,10 +2,10 @@
 
 ## 2.1 Pretreatment Screening
 
-Prior to initiating treatment with COTEMPLA XR-ODT, assess for the presence of cardiac disease (i.e. perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
+Prior to treating patients with COTEMPLA XR-ODT, assess:
 
-Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy.
-Maintain careful prescription records, educate patients about abuse, and periodically re-evaluate the need for COTEMPLA XR-ODT use [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9)].
+- for the presence of cardiac disease (i.e. perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
+- the family history and clinically evaluate patients for motor or verbal tics or Tourette's sydrome before initiating COTEMPLA XR-ODT [see Warnings and Precautions (5.10)].
 
 ## 2.2 General Dosing Information
 
@@ -19,14 +19,10 @@ Daily doses above 51.8 mg have not been studied and are not recommended.
 
 The dose should be individualized according to the needs and responses of the patient.
 
-Pharmacological treatment of ADHD may be needed for extended periods.
-Periodically re-evaluate the long-term use of COTEMPLA XR-ODT and adjust dosage as needed.
+## 2.3 Dosage Reduction and Discontinuation
 
-## 2.3 Dose Reduction and Discontinuation
-
-If paradoxical aggravation of symptoms or other adverse effects occur, reduce dosage, or, if necessary, discontinue the drug.
-COTEMPLA XR-ODT should be periodically discontinued to assess the child's condition.
-If improvement is not observed after appropriate dosage adjustment over a one-month period, discontinue the drug.
+If paradoxical aggravation of symptoms or other adverse reactions occur, reduce dosage, or, if necessary, discontinue COTEMPLA XR-ODT.
+If improvement is not observed after appropriate dosage adjustment over a one-month period, discontinue COTEMPLA XR-ODT.
 
 ## 2.4 COTEMPLA XR-ODT Administration
 

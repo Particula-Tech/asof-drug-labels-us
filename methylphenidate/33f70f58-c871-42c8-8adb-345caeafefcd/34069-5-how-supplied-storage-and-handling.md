@@ -16,10 +16,3 @@ They are available as follows:
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted from 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 Store COTEMPLA XR-ODT blister packages in the reusable travel case after removal from the carton.
-
-Disposal
-
-Comply with local laws and regulations on drug disposal of CNS stimulants.
-Dispose of remaining, unused, or expired COTEMPLA XR-ODT by a medicine take-back program or by an authorized collector registered with the Drug Enforcement Administration.
-If no take-back program or authorized collector is available, mix COTEMPLA XR-ODT with an undesirable, nontoxic substance to make it less appealing to children and pets.
-Place the mixture in a container such as a sealed plastic bag and discard COTEMPLA XR-ODT in the household trash.
