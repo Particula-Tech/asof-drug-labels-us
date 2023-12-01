@@ -12,3 +12,36 @@ Use of Promethazine HCl Suppositories in patients with compromised respiratory f
 
 Promethazine HCl Suppositories may lower seizure threshold.
 It should be used with caution in persons with seizure disorders or in persons who are using concomitant medications, such as narcotics or local anesthetics, which may also affect seizure threshold.
+
+### Bone-Marrow Depression
+
+Promethazine HCl Suppositories should be used with caution in patients with bone-marrow depression.
+Leukopenia and agranulocytosis have been reported, usually when promethazine HCl has been used in association with other known marrow-toxic agents.
+
+Neuroleptic Malignant Syndrome A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with promethazine HCl alone or in combination with antipsychotic drugs.
+Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac dysrhythmias).
+
+The diagnostic evaluation of patients with this syndrome is complicated.
+In arriving at a diagnosis, it is important to identify cases where the clinical presentation includes both serious medical illnesses (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
+Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever and primary central nervous system (CNS) pathology.
+
+The management of NMS should include 1) immediate discontinuation of promethazine HCl, antipsychotic drugs, if any, and other drugs not essential to concurrent therapy, 2) intensive symptomatic treatment and medical monitoring, and 3) treatment of any concomitant serious medical problems for which specific treatments are available.
+There is no general agreement about specific pharmacological treatment regimens for uncomplicated NMS.
+
+Since recurrences of NMS have been reported with phenothiazines, the reintroduction of promethazine HCl should be carefully considered.
+
+Use in Pediatric Patients
+
+PROMETHAZINE HCL SUPPOSITORIES ARE CONTRAINDICATED FOR THE USE IN PEDIATRIC PATIENTS LESS THAN TWO YEARS OF AGE.
+CAUTION SHOULD BE EXERCISED WHEN ADMINISTERING PROMETHAZINE HCL SUPPOSITORIES TO PEDIATRIC PATIENTS 2 YEARS OF AGE AND OLDER BECAUSE OF THE POTENTIAL FOR FATAL RESPIRATORY DEPRESSION.
+RESPIRATORY DEPRESSION AND APNEA, SOMETIMES ASSOCIATED WITH DEATH, ARE STRONGLY ASSOCIATED WITH PROMETHAZINE PRODUCTS AND ARE NOT DIRECTLY RELATED TO INDIVIDUALIZED WEIGHT-BASED DOSING, WHICH MIGHT OTHERWISE PERMIT SAFE ADMINISTRATION.
+CONCOMITANT ADMINISTRATION OF PROMETHAZINE PRODUCTS WITH OTHER RESPIRATORY DEPRESSANTS HAS AN ASSOCIATION WITH RESPIRATORY DEPRESSION, AND SOMETIMES DEATH, IN PEDIATRIC PATIENTS.
+ANTIEMETICS ARE NOT RECOMMENDED FOR TREATMENT OF UNCOMPLICATED VOMITING IN PEDIATRIC PATIENTS, AND THEIR USE SHOULD BE LIMITED TO PROLONGED VOMITING OF KNOWN ETIOLOGY.
+THE EXTRAPYRAMIDAL SYMPTOMS WHICH CAN OCCUR SECONDARY TO PROMETHAZINE HCL SUPPOSITORIES ADMINISTRATION MAY BE CONFUSED WITH THE CNS SIGNS OF UNDIAGNOSED PRIMARY DISEASE, E.G., ENCEPHALOPATHY OR REYE’S SYNDROME.
+THE USE OF PROMETHAZINE HCL SUPPOSITORIES SHOULD BE AVOIDED IN PEDIATRIC PATIENTS WHOSE SIGNS AND SYMPTOMS MAY SUGGEST REYE’S SYNDROME OR OTHER HEPATIC DISEASES.
+
+Excessively large dosages of antihistamines, including Promethazine HCl Suppositories, in pediatric patients may cause sudden death (see OVERDOSAGE).
+Hallucinations and convulsions have occurred with therapeutic doses and overdoses of promethazine HCl in pediatric patients.
+In pediatric patients who are acutely ill associated with dehydration, there is an increased susceptibility to dystonias with the use of promethazine HCl.
+
+Other Considerations Administration of promethazine HCl has been associated with reported cholestatic jaundice.

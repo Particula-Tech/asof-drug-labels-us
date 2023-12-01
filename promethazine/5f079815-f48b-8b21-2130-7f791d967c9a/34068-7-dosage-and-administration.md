@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Promethazine HCl Rectal Suppositories are contraindicated for children under 2 years of age (see WARNINGS–Black Box Warning and Use in Pediatric Patients).
+Promethazine HCl Rectal Suppositories are contraindicated for children under 2 years of age (see WARNINGS–Black Box Warningand Use in Pediatric Patients).
 Promethazine HCl Suppositories are for rectal administration only.
 AllergyThe average dose is 25 mg taken before retiring; however, 12.5 mg may be taken before meals and on retiring, if necessary.
 Single 25-mg doses at bedtime or 6.25 to 12.5 mg taken three times daily will usually suffice.
