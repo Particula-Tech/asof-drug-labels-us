@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA211578"
+  ],
+  "inn": "darunavir",
+  "labeler": "Dr.Reddys Laboratories Inc",
+  "package_ndcs": [
+    "43598-704-05",
+    "43598-704-60",
+    "43598-705-05",
+    "43598-705-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "darunavir",
+      "name": "Darunavir"
+    }
+  ],
+  "setid": "f5c9cb01-6530-4db0-a326-22a499d1efdf",
+  "source": "dailymed"
+}
