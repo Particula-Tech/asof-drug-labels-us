@@ -69,6 +69,7 @@ The following have been reported in general use with PROSCAR and/or finasteride 
 - male infertility and/or poor quality of semen.
   Improvement in the quality of semen has been reported after stopping the medication.
 - depression
+- suicidal thoughts
 - decrease in sex drive that continued after stopping the medication
 - in rare cases, male breast cancer has been reported.
 

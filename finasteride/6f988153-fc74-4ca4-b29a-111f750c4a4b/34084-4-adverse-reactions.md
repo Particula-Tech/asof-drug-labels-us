@@ -116,6 +116,7 @@ Because these events are reported voluntarily from a population of uncertain siz
   Normalization or improvement of poor seminal quality has been reported after discontinuation of finasteride.
   The independent role of PROSCAR in these events is unknown.
 - -depression
+- -suicidal ideation
 - -male breast cancer.
 
 The following additional adverse event related to sexual dysfunction that continued after discontinuation of treatment has been reported in postmarketing experience with finasteride at lower doses used to treat male pattern baldness.
