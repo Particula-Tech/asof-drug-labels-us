@@ -27,7 +27,7 @@ Table 3 Selected Adverse Reactionsa (Grades 2 to 4) Reported in ≥5% in Any Tre
 
 |  | FTC+TDF+EFVb | AZT/3TC+EFV |
 | --- | --- | --- |
-| N=257 | N=254 |  |
+|  | N=257 | N=254 |
 | Fatigue | 9% | 8% |
 | Depression | 9% | 7% |
 | Nausea | 9% | 7% |
@@ -77,11 +77,9 @@ Total body BMD gain at Week 48 was less in the TDF group compared to the stavudi
 The mean rate of BMD gain in lumbar spine was similar between treatment groups.
 One TDF-treated subject and none of the d4T- or AZT-treated subjects experienced significant (greater than 4%) lumbar spine BMD loss at Week 48.
 Changes from baseline in BMD Z-scores were −0.012 for lumbar spine and −0.338 for total body in the 64 subjects who were treated with TDF for 96 weeks.
-
 In Study 321 (12 to less than 18 years of age), the mean rate of BMD gain at Week 48 was less in the TDF compared to the placebo treatment group.
 Six TDF-treated subjects and one placebo-treated subject had significant (greater than 4%) lumbar spine BMD loss at Week 48.
 Changes from baseline BMD Z-scores were −0.341 for lumbar spine and −0.458 for total body in the 28 subjects who were treated with TDF for 96 weeks.
-
 In both trials, skeletal growth (height) appeared to be unaffected.
 
 Adverse Reactions from Clinical Trial Experience in Uninfected Subjects Taking Emtricitabine and Tenofovir Disoproxil Fumarate for HIV-1 PrEP
@@ -111,27 +109,24 @@ Table 6 Laboratory Abnormalities (Highest Toxicity Grade Reported for Each Subje
 
 | Grade 2 to 4a | iPrEx Trial |  | Partners PrEP Trial |  |
 | --- | --- | --- | --- | --- |
-| FTC/TDF (N=1,251) | Placebo (N=1,248) | FTC/TDF (N=1,579) | Placebo (N=1,584) |  |
+|  | FTC/TDF (N=1,251) | Placebo (N=1,248) | FTC/TDF (N=1,579) | Placebo (N=1,584) |
 | Creatinine (>1.4 x ULN) | <1% | <1% | <1% | <1% |
-| Phosphorus (<2.0 mg/dL) | 10% | 8% | 9% | 9% |
+| Phosphorus(<2.0 mg/dL) | 10% | 8% | 9% | 9% |
 | AST (>2.6 x ULN) | 5% | 5% | <1% | <1% |
 | ALT (>2.6 x ULN) | 7% | 7% | <1% | <1% |
 | Hemoglobin (<9.4 mg/dL) | 1% | 2% | 2% | 2% |
 | Neutrophils (<750/mm3) | <1% | <1% | 5% | 3% |
-| a. Grading is per DAIDS criteria. |  |  |  |  |
+| Grading is per DAIDS criteria. |  |  |  |  |
 
 Changes in Bone Mineral Density: In clinical trials of HIV-1 uninfected individuals, decreases in BMD were observed.
 In the iPrEx trial, a substudy of 503 subjects found mean changes from baseline in BMD ranging from –0.4% to –1.0% across total hip, spine, femoral neck, and trochanter in the emtricitabine and tenofovir disoproxil fumarate group compared with the placebo group, which returned toward baseline after discontinuation of treatment.
 Thirteen percent of emtricitabine and tenofovir disoproxil fumarate-treated subjects versus 6% of placebo-treated subjects lost at least 5% of BMD at the spine during treatment.
 Bone fractures were reported in 1.7% of the emtricitabine and tenofovir disoproxil fumarate group compared with 1.4% in the placebo group.
 No correlation between BMD and fractures was noted [see Clinical Studies (14.3)].
-The Partners PrEP trial found similar fracture rates between the treatment and placebo groups (0.8% and 0.6%, respectively); no BMD evaluations were performed in this trial [see Clinical Studies (14.4)].
+The Partners PrEP trial found similar fracture rates between the treatment and placebo groups (0.8% and 0.6%,respectively); no BMD evaluations were performed in this trial [see Clinical Studies (14.4)].
 
-Clinical Trials in Adolescent Subjects
-
-In a single-arm, open-label clinical trial (ATN113), in which 67 HIV-1 uninfected adolescent (15 to 18 years of age) men who have sex with men received emtricitabine and tenofovir disoproxil fumarate once daily for HIV-1 PrEP, the safety profile of emtricitabine and tenofovir disoproxil fumarate was similar to that observed in adults.
+Clinical Trials in Adolescent Subjects In a single-arm, open-label clinical trial (ATN113), in which 67 HIV-1 uninfected adolescent (15 to 18 years of age) men who have sex with men received emtricitabine and tenofovir disoproxil fumarate once daily for HIV-1 PrEP, the safety profile of emtricitabine and tenofovir disoproxil fumarate was similar to that observed in adults.
 Median duration to exposure of emtricitabine and tenofovir disoproxil fumarate was 47 weeks [see Use in Specific Populations (8.4)].
-
 In the ATN113 trial, median BMD increased from baseline to Week 48, +2.58% for lumbar spine and +0.72% for total body.
 One subject had significant (greater than or equal to 4%) total body BMD loss at Week 24.
 Median changes from baseline BMD Z-scores were 0.0 for lumbar spine and −0.2 for total body at Week 48.

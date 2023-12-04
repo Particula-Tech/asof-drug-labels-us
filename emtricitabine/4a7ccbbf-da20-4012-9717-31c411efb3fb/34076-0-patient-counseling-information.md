@@ -71,4 +71,4 @@ All other trademarks referenced herein are the property of their respective owne
 
 Manufactured for: Laurus Generics Inc. 400 Connell Drive Suite 5200 Berkeley Heights, NJ 07922
 
-Manufactured by: Laurus Labs Limited Visakhapatnam-531011 India
+Manufactured by: Laurus Labs Limited Anakapalli-531011 India
