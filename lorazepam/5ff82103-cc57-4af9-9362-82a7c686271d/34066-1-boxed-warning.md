@@ -13,4 +13,3 @@
   The risks of dependence and withdrawal increase with longer treatment duration and higher daily dose.
   Abrupt discontinuation or rapid dosage reduction of lorazepam after continued use may precipitate acute withdrawal reactions, which can be life-threatening.
   To reduce the risk of withdrawal reactions, use a gradual taper to discontinue lorazepam or reduce the dosage (DOSAGE AND ADMINISTRATION and WARNINGS).
-- 

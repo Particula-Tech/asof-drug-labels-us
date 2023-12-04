@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Lorazepam, an antianxiety agent, has the chemical formula, 2H-1,4-benzodiazepin-2-one, 7-chloro-5-(2-chlorophenyl)-1,3-dihydro-3-hydroxy-, (±)-:
+Lorazepam, an antianxiety agent, has the chemical formula, 7-chloro-5-(o-chlorophenyl)-1,3-dihydro-3-hydroxy-2H-1,4-benzodiazepin-2-one:
 
 C15H10Cl2N2O2 MW: 321.16
 
