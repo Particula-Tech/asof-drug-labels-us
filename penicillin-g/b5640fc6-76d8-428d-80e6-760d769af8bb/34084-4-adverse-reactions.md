@@ -33,6 +33,8 @@ Gastrointestinal: Nausea, vomiting; blood in stool; intestinal necrosis.
 
 Hemic and Lymphatic: Lymphadenopathy.
 
+Immune System Disorders: Acute myocardial ischemia with or without myocardial infarction may occur as part of an allergic reaction (Kounis syndrome).
+
 Injection Site: Injection site reactions including pain, inflammation, lump, abscess, necrosis, edema, hemorrhage, cellulitis, hypersensitivity, atrophy, ecchymosis, and skin ulcer.
 Neurovascular reactions including warmth, vasospasm, pallor, mottling, gangrene, numbness of the extremities, cyanosis of the extremities, and neurovascular damage.
 
