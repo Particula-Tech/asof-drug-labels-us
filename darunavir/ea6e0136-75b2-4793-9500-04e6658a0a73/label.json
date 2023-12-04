@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA215389"
+  ],
+  "inn": "darunavir",
+  "labeler": "Novadoz Pharmaceuticals LLC",
+  "package_ndcs": [
+    "72205-184-60",
+    "72205-185-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "darunavir",
+      "name": "Darunavir"
+    }
+  ],
+  "setid": "ea6e0136-75b2-4793-9500-04e6658a0a73",
+  "source": "dailymed"
+}
