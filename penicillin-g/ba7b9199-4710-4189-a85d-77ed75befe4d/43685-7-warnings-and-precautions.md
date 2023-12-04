@@ -32,7 +32,7 @@ Discontinue Bicillin C-R 900/300 and any other oxidizing agents.
 Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
 A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
 
-## Clostridioides difficile Associated Diarrhea
+## Clostridioides difficile associated diarrhea
 
 Clostridioides difficile associated with diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Bicillin C-R 900/300, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
