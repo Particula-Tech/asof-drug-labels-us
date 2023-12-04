@@ -194,7 +194,7 @@ Manufactured by:
 
 TWi Pharmaceuticals, Inc.
 
-Taoyuan City, 32063, Taiwan
+Taoyuan City, 320023, Taiwan
 
 Revised: 10/22
 
