@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-Adverse reactions noted with guanfacine are similar to those of other drugs of the central α2 adrenoreceptor agonist class: dry mouth, sedation (somnolence), weakness (asthenia), dizziness, constipation, and impotence.
+Adverse reactions noted with guanfacine are similar to those of other drugs of the central α2-adrenoreceptor agonist class: dry mouth, sedation (somnolence), weakness (asthenia), dizziness, constipation, and impotence.
 While the reactions are common, most are mild and tend to disappear on continued dosing.
 
 Skin rash with exfoliation has been reported in a few cases; although clear cause and effect relationships to guanfacine could not be established, should a rash occur, guanfacine should be discontinued and the patient monitored appropriately.
@@ -32,7 +32,7 @@ In the 12-week, placebo-controlled, dose-response study of guanfacine administer
 | Adverse Reaction | n = 73 | n = 72 | n = 72 | n = 72 | n = 72 |
 | --- | --- | --- | --- | --- | --- |
 |  | Placebo | 0.5 mg | 1 mg | 2 mg | 3 mg |
-| Dry mouth | 5 (7%) | 4 (5%) | 6 (8%) | 8 (11%) | 20 (28%) |
+| Dry Mouth | 5 (7%) | 4 (5%) | 6 (8%) | 8 (11%) | 20 (28%) |
 | Somnolence | 1 (1%) | 3 (4%) | 0 (0%) | 1 (1%) | 10 (14%) |
 | Asthenia | 0 (0%) | 2 (3%) | 0 (0%) | 2 (2%) | 7 (10%) |
 | Dizziness | 2 (2%) | 1 (1%) | 3 (4%) | 6 (8%) | 3 (4%) |
@@ -109,7 +109,7 @@ The causes were: dry mouth (n=20), weakness (n=12), constipation (n=7), somnolen
 
 Postmarketing Experience: An open-label postmarketing study involving 21,718 patients was conducted to assess the safety of guanfacine hydrochloride 1 mg/day given at bedtime for 28 days.
 Guanfacine was administered with or without other antihypertensive agents.
-Adverse events reported in the postmarketing study at an incidence greater than 1% included dry mouth, dizziness, somnolence, fatigue, headache, and nausea.
+Adverse events reported in the postmarketing study at an incidence greater than 1% included dry mouth, dizziness, somnolence, fatigue, headache and nausea.
 The most commonly reported adverse events in this study were the same as those observed in controlled clinical trials.
 
 Less frequent, possibly guanfacine-related events observed in the postmarketing study and/or reported spontaneously include:
@@ -130,7 +130,7 @@ MUSCULOSKELETAL SYSTEM: arthralgia, leg cramps, leg pain, myalgia
 
 PSYCHIATRIC: agitation, anxiety, confusion, depression, insomnia, nervousness
 
-REPRODUCTIVE SYSTEM, Male: impotence
+REPRODUCTIVE SYSTEM: Male impotence
 
 RESPIRATORY SYSTEM: dyspnea
 

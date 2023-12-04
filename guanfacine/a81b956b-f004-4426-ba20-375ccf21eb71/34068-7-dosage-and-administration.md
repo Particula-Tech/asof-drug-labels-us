@@ -5,6 +5,6 @@ If after 3 to 4 weeks of therapy 1 mg does not give a satisfactory result, a dos
 Higher daily doses have been used, but adverse reactions increase significantly with doses above 3 mg/day.
 
 The frequency of rebound hypertension is low, but it can occur.
-When rebound occurs, it does so after 2-4 days, which is delayed compared with clonidine hydrochloride.
+When rebound occurs, it does so after 2 to 4 days, which is delayed compared with clonidine hydrochloride.
 This is consistent with the longer half-life of guanfacine.
-In most cases, after abrupt withdrawal of guanfacine, blood pressure returns to pretreatment levels slowly (within 2-4 days) without ill effects.
+In most cases, after abrupt withdrawal of guanfacine, blood pressure returns to pretreatment levels slowly (within 2 to 4 days) without ill effects.

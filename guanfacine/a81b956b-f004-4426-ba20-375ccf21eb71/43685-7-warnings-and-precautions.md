@@ -6,13 +6,13 @@ Like other antihypertensive agents, guanfacine should be used with caution in pa
 
 ## Sedation:
 
-Guanfacine, like other orally active central α2 adrenergic agonists, causes sedation or drowsiness, especially when beginning therapy.
+Guanfacine, like other orally active central α2-adrenergic agonists, causes sedation or drowsiness, especially when beginning therapy.
 These symptoms are dose-related (see ADVERSE REACTIONS).
 When guanfacine is used with other centrally active depressants (such as phenothiazines, barbiturates, or benzodiazepines), the potential for additive sedative effects should be considered.
 
 ## Rebound:
 
-Abrupt cessation of therapy with orally active central α2 adrenergic agonists may be associated with increases (from depressed on-therapy levels) in plasma and urinary catecholamines, symptoms of “nervousness and anxiety” and, less commonly, increases in blood pressure to levels significantly greater than those prior to therapy.
+Abrupt cessation of therapy with orally active central α2-adrenergic agonists may be associated with increases (from depressed on-therapy levels) in plasma and urinary catecholamines, symptoms of “nervousness and anxiety” and, less commonly, increases in blood pressure to levels significantly greater than those prior to therapy.
 
 ## Information for Patients:
 
@@ -26,7 +26,7 @@ In clinical trials, no clinically relevant laboratory test abnormalities were id
 
 ## Drug Interactions:
 
-The potential for increased sedation when guanfacine is given with other CNS-depressant drugs should be appreciated.
+The potential for increased sedation when guanfacine is given with other CNS- depressant drugs should be appreciated.
 
 The administration of guanfacine concomitantly with a known microsomal enzyme inducer (phenobarbital or phenytoin) to two patients with renal impairment reportedly resulted in significant reductions in elimination half-life and plasma concentration.
 In such cases, therefore, more frequent dosing may be required to achieve or maintain the desired hypotensive response.
@@ -34,7 +34,7 @@ Further, if guanfacine is to be discontinued in such patients, careful tapering 
 
 ## Anticoagulants:
 
-Ten patients who were stabilized on oral anticoagulants were given guanfacine, 1-2 mg/day, for 4 weeks.
+Ten patients who were stabilized on oral anticoagulants were given guanfacine, 1 to 2 mg/day, for 4 weeks.
 No changes were observed in the degree of anticoagulation.
 
 In several well-controlled studies, guanfacine was administered together with diuretics with no drug interactions reported.
@@ -76,7 +76,7 @@ Experiments with rats have shown that guanfacine is excreted in the milk.
 
 Safety and effectiveness in children under 12 years of age have not been demonstrated.
 Therefore, the use of guanfacine in this age group is not recommended.
-There have been spontaneous postmarketing reports of mania and aggressive behavioral changes in pediatric patients with attention-deficit hyperactivity disorder (ADHD) receiving guanfacine.
+There have been spontaneous postmarketing reports of mania and aggressive behavioral changes in pediatric patients with attention- deficit hyperactivity disorder (ADHD) receiving guanfacine.
 The reported cases were from a single center.
 All patients had medical or family risk factors for bipolar disorder.
 All patients recovered upon discontinuation of guanfacine HCl.
@@ -87,4 +87,4 @@ Hallucinations have been reported in pediatric patients receiving guanfacine for
 Clinical studies of guanfacine did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy (see CLINICAL PHARMACOLOGY: Pharmacokinetics).

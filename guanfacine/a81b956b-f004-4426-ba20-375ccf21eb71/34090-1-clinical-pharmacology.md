@@ -22,7 +22,7 @@ Controlled clinical trials in patients with mild to moderate hypertension who we
 In the 12-week placebo-controlled dose-response study, patients were randomized to placebo or to doses of 0.5, 1, 2, and 3 mg of guanfacine, in addition to 25 mg chlorthalidone, each given at bedtime.
 The observed mean changes from baseline, tabulated below, indicate the similarity of response for placebo and the 0.5 mg dose.
 Doses of 1, 2, and 3 mg resulted in decreased blood pressure in the sitting position with no real differences among the three doses.
-In the standing position there was some increase in response with dose.
+In the standing position, there was some increase in response with dose.
 
 Mean Decreases (mm Hg) in Seated and Standing Blood Pressure for Patients Treated with Guanfacine in Combination with Chlorthalidone
 
@@ -41,7 +41,7 @@ While there was no significant difference between the 12 and 24 hour blood press
 In a double-blind, randomized trial, either guanfacine or clonidine was given at recommended doses with 25 mg chlorthalidone for 24 weeks and then abruptly discontinued.
 Results showed equal degrees of blood pressure reduction with the two drugs and there was no tendency for blood pressures to increase despite maintenance of the same daily dose of the two drugs.
 Signs and symptoms of rebound phenomena were infrequent upon discontinuation of either drug.
-Abrupt withdrawal of clonidine produced a rapid return of diastolic and especially, systolic blood pressure to approximately pretreatment levels, with occasional values significantly greater than baseline, whereas guanfacine withdrawal produced a more gradual increase to pretreatment levels, but also with occasional values significantly greater than baseline.
+Abrupt withdrawal of clonidine produced a rapid return of diastolic and especially systolic blood pressure to approximately pretreatment levels, with occasional values significantly greater than baseline, whereas guanfacine withdrawal produced a more gradual increase to pretreatment levels, but also with occasional values significantly greater than baseline.
 
 ## Pharmacodynamics:
 
@@ -64,11 +64,11 @@ Peak plasma concentrations occur from 1 to 4 hours with an average of 2.6 hours 
 
 The area under the concentration-time curve (AUC) increases linearly with the dose.
 
-In individuals with normal renal function, the average elimination half-life is approximately 17 hr (range 10-30 hr). Younger patients tend to have shorter elimination half-lives (13-14 hr) while older patients tend to have half-lives at the upper end of the range.
+In individuals with normal renal function, the average elimination half-life is approximately 17 hr (range 10 to 30 hr). Younger patients tend to have shorter elimination half-lives (13 to 14 hr) while older patients tend to have half-lives at the upper end of the range.
 Steady state blood levels were attained within 4 days in most subjects.
 
 In individuals with normal renal function, guanfacine and its metabolites are excreted primarily in the urine.
-Approximately 50% (40-75%) of the dose is eliminated in the urine as unchanged drug; the remainder is eliminated mostly as conjugates of metabolites produced by oxidative metabolism of the aromatic ring.
+Approximately 50% (40 to 75%) of the dose is eliminated in the urine as unchanged drug; the remainder is eliminated mostly as conjugates of metabolites produced by oxidative metabolism of the aromatic ring.
 
 The guanfacine-to-creatinine clearance ratio is greater than 1, which would suggest that tubular secretion of drug occurs.
 

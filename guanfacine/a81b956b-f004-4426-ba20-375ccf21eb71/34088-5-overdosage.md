@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-Signs and Symptoms: Drowsiness, lethargy, bradycardia, and hypotension have been observed following overdose with guanfacine.
+Signs and Symptoms: Drowsiness, lethargy, bradycardia and hypotension have been observed following overdose with guanfacine.
 
 A 25-year-old female intentionally ingested 60 mg.
 She presented with severe drowsiness and bradycardia of 45 beats/minute.
@@ -9,7 +9,7 @@ She recovered quickly and without sequelae.
 
 A 28-year-old female who ingested 30-40 mg developed only lethargy, was treated with activated charcoal and a cathartic, was monitored for 24 hours, and was discharged in good health.
 
-A 2-year-old male weighing 12 kg, who ingested up to 4 mg of guanfacine developed lethargy.
+A 2-year-old male weighing 12 kg who ingested up to 4 mg of guanfacine developed lethargy.
 Gastric lavage (followed by activated charcoal and sorbitol slurry via NG tube) removed some tablet fragments within 2 hours after ingestion, and vital signs were normal.
 
 During 24-hour observation in ICU, systolic pressure was 58 and heart rate 70 at 16 hours post-ingestion.
