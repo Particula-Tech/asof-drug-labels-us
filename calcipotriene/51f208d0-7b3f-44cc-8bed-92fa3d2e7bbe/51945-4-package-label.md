@@ -1,12 +1,12 @@
-# PRINCIPAL DISPLAY PANEL - 60 gram Can Carton
+# PRINCIPAL DISPLAY PANEL - 120 gram Can Carton
 
-NDC 51862-376-60
+NDC 51862-376-12
 
 Sorilux®
 
 (calcipotriene) Foam, 0.005%
 
-60 grams
+120 grams
 
 Rx only For topical use only
 

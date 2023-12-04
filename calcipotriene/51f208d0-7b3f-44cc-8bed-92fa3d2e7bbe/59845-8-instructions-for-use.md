@@ -58,6 +58,6 @@ Figure G
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Mayne Pharma, Greenville, NC 27834
+Distributed by: Mayne Pharma, Raleigh, NC 27609
 
-Revised: 11/2019
+Revised: 03/2023

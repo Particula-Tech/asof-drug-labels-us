@@ -4,9 +4,8 @@
 
 SORILUX (calcipotriene) Foam, 0.005%, is supplied as follows:
 
-| 60 g aluminum can | NDC 51862-376-60 |
-| --- | --- |
 | 120 g aluminum can | NDC 51862-376-12 |
+| --- | --- |
 
 ## 16.2 Storage and Handling
 
