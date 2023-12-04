@@ -12,5 +12,4 @@ COVERA-HS 240 mg tablets are pale yellow, round, film coated with COVERA–HS 20
 | --- | --- |
 | 0025-2021-31 | bottle of 100 |
 
-Store at controlled room temperature 20°–25°C (68°–77°F) [see USP].
-Dispense in tight, light-resistant containers.
+## Store at controlled room temperature 20°–25°C (68°–77°F) [see USP]. Dispense in tight, light-resistant containers.
