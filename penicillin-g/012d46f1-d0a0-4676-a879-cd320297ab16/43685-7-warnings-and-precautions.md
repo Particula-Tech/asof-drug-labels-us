@@ -17,7 +17,7 @@ OXYGEN, INTRAVENOUS STEROIDS AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD
 Severe cutaneous adverse reactions (SCAR), such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported in patients taking penicillin G (the active moiety in Bicillin L-A).
 When SCAR is suspected, Bicillin L-A should be discontinued immediately and an alternative treatment should be considered.
 
-## Clostridioides difficile Associated Diarrhea
+## Clostridioides difficile associated diarrhea
 
 Clostridioides difficile associated-diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Bicillin L-A, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
