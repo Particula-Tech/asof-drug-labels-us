@@ -4,7 +4,7 @@ MYFEMBREE tablets for oral administration contain a fixed-dose combination of re
 
 Relugolix is a non-peptide small molecule, GnRH receptor antagonist.
 It is a white to off white to slightly yellow solid and is sparingly soluble in water.
-The chemical name is N-(4-{1-[(2,6-difluorophenyl)methyl]-5-[(dimethylamino)methyl]-3-(6-methoxypyridazin-3-yl)-2,4-dioxo-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidin-6-yl}phenyl)-N-methoxyurea with the empirical formula of C29H27F2N7O5S and a molecular weight of 623.63.
+The chemical name is N-(4-{1-[(2,6-difluorophenyl)methyl]-5-[(dimethylamino)methyl]-3-(6-methoxypyridazin-3-yl)-2,4-dioxo-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidin-6-yl}phenyl)-N'-methoxyurea with the empirical formula of C29H27F2N7O5S and a molecular weight of 623.63.
 The structural formula is:
 
 Estradiol (E2), an estrogen, is present as the hemihydrate (C18H24O2∙½H2O) which is a white or almost white crystalline powder.
