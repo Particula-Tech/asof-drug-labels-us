@@ -77,6 +77,11 @@ Safety of lacosamide was evaluated in clinical studies of pediatric patients 4 t
 Across studies in pediatric patients with partial-onset seizures, 328 patients 4 to less than 17 years of age received lacosamide oral solution or tablet, of whom 148 received lacosamide for at least 1 year.
 Adverse reactions reported in clinical studies of pediatric patients 4 to less than 17 years of age were similar to those seen in adult patients.
 
+Primary Generalized Tonic-Clonic Seizures in Patients (4 Years of Age and Older) Adjunctive Therapy Trial (Study 5) In the adjunctive therapy placebo-controlled trial for primary generalized tonic-clonic seizures, adverse reactions that occurred in the study were generally similar to those that occurred in partial-onset seizure placebo-controlled studies.
+The most common adverse reactions (≥ 10% on lacosamide) reported in patients treated with lacosamide were dizziness (23%), somnolence (17%), headache (14%), and nausea (10%), compared to 7%, 14%, 10%, and 6%, respectively, of patients who received placebo.
+Additionally, an adverse reaction not previously reported of myoclonic epilepsy was reported in 3% of patients treated with lacosamide compared to 1% of patients who received placebo.
+It is also noted that 2 patients receiving lacosamide had acute worsening of seizures shortly after drug initiation, including one episode of status epilepticus, compared to no patients receiving placebo.
+
 Laboratory Abnormalities
 
 Abnormalities in liver function tests have occurred in controlled trials with lacosamide in adult patients with partial-onset seizures who were taking 1 to 3 concomitant anti-epileptic drugs.
@@ -110,10 +115,8 @@ Nervous system disorders: paresthesia, cognitive disorder, hypoaesthesia, dysart
 
 Psychiatric disorders: confusional state, mood altered, depressed mood
 
-In a retrospective cohort study of electronic healthcare records of 686 pediatric patients who started lacosamide with intravenous dosing, the incidence of rash within 30 days of discontinuation of intravenous lacosamide was two-fold higher in the cohort of patients who were initiated with the alternate initial dosing regimen to achieve the maintenance dosage in a shorter timeframe [see Dosage and Administration (2.2)] compared to the cohort of patients who were initiated with a lower initial dosage regimen [see Dosage and Administration (2.1)].
-
 Additional pediatric use information is approved for UCB, Inc.’s VIMPAT® (lacosamide) tablets.
-However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Postmarketing Experience
 

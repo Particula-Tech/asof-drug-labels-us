@@ -53,4 +53,4 @@ Alembic Pharmaceuticals, Inc.
 
 Bedminster, NJ 07921, USA
 
-Revised: 07/2023
+Revised: 11/2023
