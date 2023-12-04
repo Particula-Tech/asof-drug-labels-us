@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210461"
+  ],
+  "inn": "febuxostat",
+  "labeler": "MAJOR PHARMACEUTICALS",
+  "package_ndcs": [
+    "0904-7395-46",
+    "0904-7396-46"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "febuxostat",
+      "name": "Febuxostat"
+    }
+  ],
+  "setid": "13a80059-46f7-4453-ab37-72744657a08a",
+  "source": "dailymed"
+}

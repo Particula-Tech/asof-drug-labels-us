@@ -1,0 +1,120 @@
+# MEDICATION GUIDE
+
+Dispense with Medication Guide available at: www.majorpharmaceuticals.com FEBUXOSTAT (fe BUX oh stat) tablets, for oral use
+
+Read the Medication Guide that comes with febuxostat tablets before you start taking it and each time you get a refill.
+There may be new information.
+The Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
+What is the most important information that I should know about febuxostat tablets?
+Febuxostat tablets may cause serious side effects, including: Heart -related deaths.
+Call your doctor or get emergency medical help right away if you have any of the following symptoms, especially if they are new, worse, or worry you:
+
+- chest pain
+- shortness of breath or trouble breathing
+- dizziness, fainting or feeling lightheaded
+- rapid or irregular heartbeat
+- numbness or weakness on one side of your body
+- slurring of speech
+- sudden blurry vision or sudden severe headache
+
+What are febuxostat tablets?
+Febuxostat tablets are prescription medicine called a xanthine oxidase (XO) inhibitor used to lower blood uric acid levels in adult patients with gout when allopurinol has not worked well enough or when allopurinol is not right for you.
+Febuxostat tablets are not for use in people who do not have symptoms of high blood uric acid levels.
+It is not known if febuxostat tablets are safe and effective in children.
+Who should not take febuxostat tablets?
+Do not take febuxostat tablets if you:
+
+- take azathioprine (Azasan, Imuran)
+- take mercaptopurine (Purinethol, Purixan)
+
+What should I tell my doctor before taking febuxostat tablets?
+
+Before taking febuxostat tablets tell your doctor about all of your medical conditions, including if you:
+
+- have taken allopurinol and what happened to you while you were taking it.
+- have a history of heart disease or stroke.
+- have liver or kidney problems.
+- are pregnant or plan to become pregnant.
+  It is not known if febuxostat tablets will harm your unborn baby.
+  Talk with your doctor if you are pregnant or plan to become pregnant.
+- are breastfeeding or plan to breastfeed.
+  It is not known if febuxostat passes into your breast milk.
+  You and your doctor should decide if you should take febuxostat tablets while breastfeeding.
+
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Febuxostat tablets may affect the way other medicines work, and other medicines may affect how febuxostat tablets works.
+Know the medicines you take.
+Keep a list of them to show your doctor and pharmacist when you get a new medicine.
+How should I take febuxostat tablets?
+
+- Take febuxostat tablets exactly as your doctor tells you to take it.
+- Febuxostat tablets can be taken with or without food.
+- Febuxostat tablets can be taken with antacids.
+- Your gout may get worse (flare) when you start taking febuxostat tablets, Do not stop taking febuxostat tablets because you have a flare.
+
+Your doctor may do certain tests while you take febuxostat tablets.
+
+What are the possible side effects of febuxostat tablets?
+
+Febuxostat tablets may cause serious side effects, including:
+
+- Heart problems.
+  See “What is the most important information I should know about febuxostat tablets?".
+- Gout Flares.
+  Gout flares can happen when you start taking febuxostat tablets.
+  Your doctor may give you other medicines to help prevent your gout flares.
+- Liver problems.
+  Liver problems can happen in people who take febuxostat tablets.
+  Your doctor may do blood tests to check how well your liver is working before and during your treatment with febuxostat tablets.
+  Tell your doctor if you get any of the following signs or symptoms of liver problems:
+  - fatigue
+  - dark or “tea-colored” urine
+  - loss of appetite for several days or longer
+  - your skin or the white part of your eyes turns yellow (jaundice)
+  - pain, aching, or tenderness on the right side of your stomach-area
+
+- Severe skin and allergic reactions.
+  Serious skin and allergic reactions that may affect different parts of the body such as your liver, kidneys, heart or lungs, can happen in people who take febuxostat tablets.
+  Call your doctor right away or get emergency medical help if you have any of the following symptoms:
+  - rash
+  - sores around the lips, eyes or mouth
+  - red and painful skin
+  - swollen face, lips, mouth, tongue or throat
+  - severe skin blisters
+  - flu-like symptoms
+  - peeling skin
+
+The most common side effects of febuxostat tablets include:
+
+- abnormal liver function tests
+- nausea
+- joint pain
+- rash
+
+These are not all of the possible side effects of febuxostat tablets.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+How should I store febuxostat tablets?
+
+- Store febuxostat tablets at room temperature.
+- Keep febuxostat tablets out of the light.
+
+Keep febuxostat tablets and all medicines out of the reach of children.
+
+General information about the safe and effective use of febuxostat tablets.
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+Do not use febuxostat tablets for a condition for which it was not prescribed.
+Do not give febuxostat tablets to other people, even if they have the same symptoms that you have.
+It may harm them.
+You can ask your doctor or pharmacist for information about febuxostat tablets that is written for health professionals.
+What are the ingredients in febuxostat tablets?
+Active ingredient: febuxostat Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hydroxypropyl cellulose, lactose monohydrate, microcrystalline cellulose and magnesium stearate.
+Febuxostat tablets are coated with polyvinyl alcohol, macrogol, titanium dioxide, talc, D&C yellow #10 aluminum lake, FD&C blue #1/brilliant blue FCF aluminum lake, FD&C blue #2/indigo carmine AL 3%-5% (40 mg), additionally iron oxide yellow (80 mg).
+
+For more information about febuxostat tablets, go to www.novadozpharma.com or call 1-855-668-2369.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Manufactured by: MSN Pharmaceuticals Inc. Piscataway, NJ 08854-3714
+
+Distributed by: MAJOR® PHARMACEUTICALS Indianapolis, IN 46268 USA Issued on: August 2023

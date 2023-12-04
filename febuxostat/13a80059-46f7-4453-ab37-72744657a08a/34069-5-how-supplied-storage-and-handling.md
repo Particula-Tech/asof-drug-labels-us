@@ -1,0 +1,6 @@
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
+
+Febuxostat 40 mg tablets are green colored, round shaped, biconvex, film coated tablets, debossed with "40" on one side and "F" on other side and supplied as: Bottles of 30 tablets……….………....…....
+(NDC 0904-7395-46) Febuxostat 80 mg tablets yellow colored, capsule shaped, biconvex, film coated tablets, debossed with "80" on one side and plain on other side and supplied as: Bottles of 30 tablets……………………......
+(NDC 0904-7396-46) Protect from light.
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
