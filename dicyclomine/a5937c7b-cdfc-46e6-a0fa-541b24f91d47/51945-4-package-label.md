@@ -10,8 +10,6 @@ Rx only
 
 100 Capsules
 
-teva
-
 # PACKAGE LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 0591-0795-01
@@ -23,5 +21,3 @@ Dicyclomine Hydrochloride Tablets, USP
 Rx only
 
 100 Tablets
-
-teva
