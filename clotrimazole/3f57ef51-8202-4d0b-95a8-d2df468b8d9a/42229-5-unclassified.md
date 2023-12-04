@@ -1,9 +1,5 @@
 FOR TOPICAL ORAL ADMINISTRATION
 
-Manufactured By
+Manufactured By Padagis Minneapolis, MN 55427 2204645 Rev 05-22A
 
-Perrigo®
-
-Minneapolis, MN 55427 2200403
-
-(03-12)
+8N904 RC F3
