@@ -5,7 +5,7 @@ The following serious adverse reactions are described here and elsewhere in the 
 - Adrenal Crisis [see Warnings and Precautions (5.1)]
 - Infections [see Warnings and Precautions (5.2)]
 - Growth Retardation [see Warnings and Precautions (5.3)]
-- Cushing’s Syndrome Due to Use of Excessive Doses of Corticosteroids [see Warnings and Precautions (5.4)]
+- Cushing's Syndrome Due to Use of Excessive Doses of Corticosteroids [see Warnings and Precautions (5.4)]
 - Decrease in Bone Mineral Density [see Warnings and Precautions (5.5)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
 - Ophthalmic Adverse Reactions [see Warnings and Precautions (5.7)]

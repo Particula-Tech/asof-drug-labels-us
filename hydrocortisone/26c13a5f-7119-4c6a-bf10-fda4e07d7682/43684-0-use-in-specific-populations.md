@@ -32,7 +32,7 @@ Risk Summary
 Cortisol is present in human milk.
 The use of hydrocortisone at a physiologic dose for adrenocortical insufficiency is not expected to adversely affect the breastfed infant or milk production.
 There are no data on the presence of hydrocortisone in breast milk, the effect on the breastfed infant or on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ALKINDI SPRINKLE and any potential adverse effects on the breastfed infant from ALKINDI SPRINKLE or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ALKINDI SPRINKLE and any potential adverse effects on the breastfed infant from ALKINDI SPRINKLE or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
