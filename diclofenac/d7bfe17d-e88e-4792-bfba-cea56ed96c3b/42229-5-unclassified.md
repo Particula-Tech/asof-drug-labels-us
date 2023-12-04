@@ -1,8 +1,8 @@
-Distributed by: Teva Pharmaceuticals USA, Inc., North Wales, PA 19454 (USA)
+Distributed by: Teva Pharmaceuticals Parsippany, NJ 07054
 
-Manufacturer: Altergon Italia Srl, Zona Industriale ASI, Morra de Sanctis, Avellino 83040, Italy (ITA) Manufactured for: IBSA Institut Biochimique SA, CH-6903 Lugano, Switzerland
+Manufacturer: Altergon Italia Srl, Zona Industriale ASI, Morra de Sanctis, Avellino 83040, Italy (ITA) Manufactured for: IBSA Institut Biochimique SA, 6912 Pazzallo, Switzerland
 
-Revised: April, 2021
+Revised: April, 2023
 
 FI/171 1232 Ed.
-II/05.19
+VI/04.23

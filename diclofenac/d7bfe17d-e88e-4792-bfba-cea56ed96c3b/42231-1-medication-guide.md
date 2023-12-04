@@ -118,14 +118,14 @@ It may harm them.
 If you would like more information about NSAIDs, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals.
 
-Manufactured for: IBSA Institut Biochimique SA, CH-6903 Lugano, Switzerland
+Manufactured for: IBSA Institut Biochimique SA, 6912 Pazzallo, Switzerland
 
 Distributed by:
 
-Teva Pharmaceuticals USA, Inc., North Wales, PA 19454 (USA)
+Teva Pharmaceuticals Parsippany, NJ 07054
 
-For more information call 1-866-832-8537
+For more information call 1-888-838-2872
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: April, 2021
+Revised: April, 2023
