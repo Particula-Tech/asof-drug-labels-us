@@ -51,6 +51,6 @@ Closely monitor infants during the first 2 weeks of levothyroxine sodium therapy
 
 ## 8.5 Geriatric Use
 
-Because of the increased prevalence of cardiovascular disease among the elderly, initiate levothyroxine sodium at less than the full replacement dose [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
+Because of the increased prevalence of cardiovascular disease among the elderly, initiate levothyroxine sodium at less than the full replacement dose [see Dosage and Administration (2.3)and Warnings and Precautions (5.2)].
 Atrial arrhythmias can occur in elderly patients.
 Atrial fibrillation is the most common of the arrhythmias observed with levothyroxine overtreatment in the elderly.

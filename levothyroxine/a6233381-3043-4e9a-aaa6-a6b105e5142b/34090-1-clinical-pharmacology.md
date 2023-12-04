@@ -55,7 +55,7 @@ Urinary excretion of T4 decreases with age.
 Table 10.
 Pharmacokinetic Parameters of Thyroid Hormones in Euthyroid Patients
 
-| Hormone | Ratio in Thyroglobulin | Biologic Potency | t 1/2 (days) | Protein Binding (%) * |
+| Hormone | Ratio in Thyroglobulin | Biologic Potency | t 1/2(days) | Protein Binding (%) * |
 | --- | --- | --- | --- | --- |
 | Levothyroxine (T4) | 10 to 20 | 1 | 6 to 7 ** | 99.96 |
 | Liothyronine (T3) | 1 | 4 | ≤ 2 | 99.5 |

@@ -6,7 +6,7 @@ Administer levothyroxine sodium tablets as a single daily dose, on an empty stom
 
 Administer levothyroxine sodium tablets at least 4 hours before or after drugs known to interfere with levothyroxine sodium absorption [see Drug Interactions (7.1)].
 
-Evaluate the need for dosage adjustments when regularly administering within one hour of certain foods that may affect levothyroxine sodium tablets absorption [see Dosage and Administration (2.2 and 2.3), Drug Interactions (7.9) and Clinical Pharmacology (12.3)].
+Evaluate the need for dosage adjustments when regularly administering within one hour of certain foods that may affect levothyroxine sodium tablets absorption [see Dosage and Administration (2.2and 2.3), Drug Interactions (7.9)and Clinical Pharmacology (12.3)].
 
 Administer levothyroxine sodium tablets to pediatric patients who cannot swallow intact tablets by crushing the tablet, suspending the freshly crushed tablet in a small amount (5 to 10 mL) of water and immediately administering the suspension by spoon or dropper.
 Ensure the patient ingests the full amount of the suspension.
@@ -41,7 +41,7 @@ Levothyroxine Sodium Tablets Dosing Guidelines for Hypothyroidism in Adults*
 | Adults diagnosed with hypothyroidism | Full replacement dose is 1.6 mcg/kg/day. Some patients require a lower starting dose. | Titrate dosage by 12.5 to 25 mcg increments every 4 to 6 weeks, as needed until the patient is euthyroid. |
 | Adults at risk for atrial fibrillation or with underlying cardiac disease | Lower starting dose (less than 1.6 mcg/kg/day) | Titrate dosage every 6 to 8 weeks, as needed until the patient is euthyroid. |
 | Geriatric patients | Lower starting dose (less than 1.6 mcg/kg/day) |  |
-| *Dosages greater than 200 mcg/day are seldom required. An inadequate response to daily dosages greater than 300 mcg/day is rare and may indicate poor compliance, malabsorption, drug interactions, or a combination of these factors [see Dosage and Administration (2.1) and Drug Interactions (7)]. |  |  |
+| *Dosages greater than 200 mcg/day are seldom required. An inadequate response to daily dosages greater than 300 mcg/day is rare and may indicate poor compliance, malabsorption, drug interactions, or a combination of these factors [see Dosage and Administration (2.1)and Drug Interactions (7)]. |  |  |
 
 Primary, Secondary, and Tertiary Hypothyroidism in Pediatric Patients
 
@@ -110,7 +110,7 @@ Perform routine clinical examination, including assessment of development, menta
 The general aim of therapy is to normalize the serum TSH level.
 TSH may not normalize in some patients due to in utero hypothyroidism causing a resetting of pituitary-thyroid feedback.
 Failure of the serum T4 to increase into the upper half of the normal range within 2 weeks of initiation of levothyroxine sodium therapy and/or of the serum TSH to decrease below 20 IU per litre within 4 weeks may indicate the patient is not receiving adequate therapy.
-Assess compliance, dose of medication administered, and method of administration prior to increasing the dose of levothyroxine sodium [see Warnings and Precautions (5.1) and Use in Specific Populations (8.4)].
+Assess compliance, dose of medication administered, and method of administration prior to increasing the dose of levothyroxine sodium [see Warnings and Precautions (5.1)and Use in Specific Populations (8.4)].
 
 ### Secondary and Tertiary Hypothyroidism
 

@@ -41,7 +41,7 @@ Drugs That May Decrease Conversion of T4 to T3
 | --- | --- |
 | Drug or Drug Class | Effect |
 | Beta-adrenergic antagonists (e.g., Propranolol > 160 mg/day) | In patients treated with large doses of propranolol (> 160 mg/day), T3 and T4 levels change, TSH levels remain normal, and patients are clinically euthyroid. Actions of particular beta-adrenergic antagonists may be impaired when a hypothyroid patient is converted to the euthyroid state. |
-| Glucocorticoids (e.g., Dexamethasone ≥ 4 mg/day) | Short-term administration of large doses of glucocorticoids may decrease serum T3 concentrations by 30% with minimal change in serum T4 levels. However, long-term glucocorticoid therapy may result in slightly decreased T3 and T4 levels due to decreased TBG production (See above). |
+| Glucocorticoids (e.g., Dexamethasone ≥4 mg/day) | Short-term administration of large doses of glucocorticoids may decrease serum T3 concentrations by 30% with minimal change in serum T4 levels. However, long-term glucocorticoid therapy may result in slightly decreased T3 and T4 levels due to decreased TBG production (See above). |
 | Other drugs: Amiodarone | Amiodarone inhibits peripheral conversion of levothyroxine (T4) to triiodothyronine (T3) and may cause isolated biochemical changes (increase in serum free-T4, and decreased or normal free-T3) in clinically euthyroid patients. |
 
 ## 7.2 Antidiabetic Therapy

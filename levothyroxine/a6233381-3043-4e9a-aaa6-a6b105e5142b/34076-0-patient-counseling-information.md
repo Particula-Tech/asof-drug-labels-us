@@ -27,10 +27,10 @@ Adverse Reactions
 - Instruct patients to notify their healthcare provider if they experience any of the following symptoms: rapid or irregular heartbeat, chest pain, shortness of breath, leg cramps, headache, nervousness, irritability, sleeplessness, tremors, change in appetite, weight gain or loss, vomiting, diarrhea, excessive sweating, heat intolerance, fever, changes in menstrual periods, hives or skin rash, or any other unusual medical event.
 - Inform patients that partial hair loss may occur rarely during the first few months of levothyroxine sodium tablets therapy, but this is usually temporary.
 
-Manufactured For: Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By: Intas Pharmaceuticals Limited, Camp Road, Selaqui, Dehradun, Uttarakhand 248197, India (IND)
 
-80 3024 2 8618232
+80 3024 3 8618927
 
-Issued September 2022
+Issued October 2023
