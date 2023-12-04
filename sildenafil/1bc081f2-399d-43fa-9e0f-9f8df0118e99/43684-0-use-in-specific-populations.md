@@ -23,13 +23,10 @@ Limited clinical data during lactation preclude a clear determination of the ris
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of Sildenafil citrate have been established in pediatric patients 1 to 17 years old, for the treatment of PAH (WHO Group I) to improve exercise ability and, in patients too young to perform standard exercising testing, pulmonary hemodynamics thought to underly improvements in exercise Use of sildenafil citrate for this indication is supported by evidence from adequate and well-controlled studies in adults with additional PK and safety data in pediatric patients aged 1 year and older [see Adverse Reactions (6.1), Clinical Studies (14)].
-The safety and effectiveness of sildenafil citrate have not been established in pediatric patients younger than 1 year of age.
+The safety and effectiveness of Sildenafil citrate have not been established in pediatric patients younger than 1 year of age.
 
-During the conduct of the pediatric studies (STARTS-1 and STARTS-2) [see Clinical Studies(14)], an imbalance in the number of deaths was noted: 5/55 (9.1%), 10/74 (13.5%), and 22/100 (22%) in the sildenafil low, medium, and high dose groups, respectively.
-The causes of death were related to the progression of PAH.
-This safety observation in pediatrics was not confirmed in a study conducted in adults designed to evaluate this risk (Study A1481324).
-Given the beneficial effects on clinical worsening and death observed in adults with increasing doses (Study A1481324) and the expected similarity of disease in pediatrics and adults, a causal association for the observed dose-related effect on mortality in pediatric patients is unlikely, and therefore, the available data support dosing in pediatric patients >45 kg up to a maximum of 40 mg three times a day.
+Pediatric use information is approved for Viatris Specialty LLC's, REVATIO (sildenafil) tablets.
+However, due to Viatris Specialty LLC's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 

@@ -39,25 +39,6 @@ Changes from Baseline in Hemodynamic Parameters at Week 12 [mean (95% CI)] for t
 | mPAP = mean pulmonary arterial pressure; PVR= pulmonary vascular resistance; SVR = systemic vascular resistance; RAP = right atrial pressure; CO = cardiac output; HR = heart rate |  |  |
 | * The number of patients per treatment group varied slightly for each parameter due to missing assessments. |  |  |
 
-Pediatric Patients
-
-Patients on sildenafil tablets medium and high dose groups achieved a dose related improvements in pulmonary vascular resistance index (PVRI) and mean pulmonary arterial pressure (mPAP) compared to those on placebo [see STARTS-1 in Clinical Studies (14)].
-Improvements were observed with cardiac index in all three sildenafil tablets dose groups over placebo.
-Data on other hemodynamic measures for the sildenafil tablets low, medium and high dose groups compared to placebo is displayed in Table 3.
-
-Table 3.
-Placebo Corrected Changes in Hemodynamic Parameters by Dose Group
-
-| Parameter[Estimate (95% CI)] | Low Dose | Medium Dose | High Dose |
-| --- | --- | --- | --- |
-| PVRI (%) | -2% (-20%, 20%)n = 37 | -18% (-32%, -2%)n = 51 | -27% (-39%, -14%)n = 68 |
-| mPAP (mmHg) | 1.6 (-4.5, 7.6)n = 39 | -3.5 (-8.9, 1.9)n = 55 | -7.3 (-12.4, -2.1)n = 71 |
-| CI (%) | 10% (-4%, 26%)n = 37 | 4% (-7%, 18%)n = 51 | 15% (3%, 29%)n = 69 |
-| SVRI (%) | -9% (-22%, 7%)n = 37 | -5% (-17%, 10%)n = 50 | -16% (-26%, -4%)n = 68 |
-| RAP (mmHg) | -0.17 (-1.91, 1.57)n = 39 | -0.19 (-1.73, 1.36)n = 55 | -1.14 (-2.61, 0.33)n = 71 |
-| HR (%) | 3% (-5%, 12%)n = 39 | 2% (-5%, 9%)n = 55 | -2% (-9%, 5%)n = 71 |
-| Abbreviations: CI = cardiac index; HR = heart rate; mPAP = mean pulmonary arterial pressure; PVRI = pulmonary vascular resistance index; RAP = right atrial pressure; SVRI = systemic vascular resistance index. Note: n = 52, 56, 55, 54, 56, and 56 placebo patients for PVRI, mPAP, CI, SVRI, RAP and HR, respectively. |  |  |  |
-
 Effects of Sildenafil Citrate on Blood Pressure
 
 Single oral doses of sildenafil 100 mg administered to healthy volunteers produced decreases in supine blood pressure (mean maximum decrease in systolic/diastolic blood pressure of 8/5 mmHg).
@@ -79,6 +60,9 @@ Effects of Sildenafil Citrate on Vision
 At single oral doses of 100 mg and 200 mg, transient dose-related impairment of color discrimination (blue/green) was detected using the Farnsworth-Munsell 100-hue test, with peak effects near the time of peak plasma levels.
 This finding is consistent with the inhibition of PDE6, which is involved in phototransduction in the retina.
 An evaluation of visual function at doses up to 200 mg revealed no effects of sildenafil citrate on visual acuity, intraocular pressure, or pupillometry.
+
+Pediatric use information is approved for Viatris Specialty LLC's, REVATIO (sildenafil) tablets.
+However, due to Viatris Specialty LLC's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 12.3 Pharmacokinetics
 
@@ -116,9 +100,8 @@ Both findings suggest a lower clearance and/or a higher oral bioavailability of 
 
 Pediatric Patients
 
-Body weight was shown to be a good predictor of drug exposure in children.
-Sildenafil plasma concentration half-life values were estimated to range from 2.9 to 4.4 hours for a range of 10 to 70 kg of body weight.
-Tmax was estimated at approximately 1 hour.
+Pediatric use information is approved for Viatris Specialty LLC's, REVATIO (sildenafil) tablets.
+However, due to Viatris Specialty LLC's marketing exclusivity rights, this drug product is not labeled with that information.
 
 Geriatric Patients
 
