@@ -1,4 +1,4 @@
-# 200 mg/10 mL Carton
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 0781-3411-95
 
@@ -14,8 +14,8 @@ WARNING: Paralyzing Agent
 
 For Intravenous Use
 
-Rx only
+Rx Only
 
-10 x 10 mL Multiple-Dose Vials
+10 x 10 mL Multiple-Dose Vial
 
-SANDOZ - A Novartis Division
+SANDOZ – A Novartis Division
