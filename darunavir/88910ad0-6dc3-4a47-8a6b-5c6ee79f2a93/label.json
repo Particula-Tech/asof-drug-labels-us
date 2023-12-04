@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210677"
+  ],
+  "inn": "darunavir",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "59651-085-60",
+    "59651-086-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "darunavir",
+      "name": "Darunavir"
+    }
+  ],
+  "setid": "88910ad0-6dc3-4a47-8a6b-5c6ee79f2a93",
+  "source": "dailymed"
+}
