@@ -37,6 +37,8 @@ From population PK analysis, anifrolumab-fnia exhibited non-linear PK due to IFN
 
 Following the administration of anifrolumab-fnia at a dose of 300 mg via intravenous infusion every 4 weeks, the estimated systemic clearance (CL) for anifrolumab-fnia was 0.193 L/day.
 
+Based on population PK analysis of patients who received SAPHNELO for one year, serum concentrations of anifrolumab-fnia were below detection in 95% of patients approximately 16 weeks after the last dose.
+
 Specific Populations
 
 There was no clinically meaningful difference in systemic clearance based on age, race, ethnicity, region, gender, IFN status or body weight, that requires dose adjustment.
@@ -60,3 +62,12 @@ Drug Interactions
 No formal drug-drug interaction studies have been conducted.
 
 Based on population PK analysis, concomitant use of oral corticosteroids, anti-malarials, immunosuppressants (azathioprine, methotrexate, mycophenolate mofetil, mycophenolic acid, and mizoribine), NSAIDs, ACE inhibitors, and HMG-CoA reductase inhibitors did not significantly affect the PK of anifrolumab-fnia.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of anifrolumab-fnia.
+
+In Trials 2, 3, and the long-tern extension, treatment emergent anti-anifrolumab-fnia antibodies were detected in 9 of 350 (ADA incidence 2.6%) patients who received SAPHNELO at the recommended dosing regimen for up to 4 years.
+
+Because of the low occurrence of anti-drug antibodies, the effect of these antibodies on the pharmacokinetics, pharmacodynamics, safety, and/or effectiveness of anifrolumab-fnia products is unknown.

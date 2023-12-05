@@ -2,7 +2,7 @@
 
 ## 5.1 Serious Infections
 
-Serious and sometimes fatal infections have occurred in patients receiving immunosuppressive agents, including SAPHNELO.
+Serious and sometimes fatal infections (including COVID‑19) have occurred in patients receiving immunosuppressive agents, including SAPHNELO.
 Overall, the incidence of serious infections in controlled trials was similar in patients receiving SAPHNELO compared with placebo, whereas fatal infections occurred more frequently in patients receiving SAPHNELO [see Adverse Reactions (6.1)].
 
 In controlled trials, SAPHNELO increased the risk of respiratory infections and herpes zoster (disseminated herpes zoster events have been reported) [see Adverse Reactions (6.1)].
@@ -31,7 +31,7 @@ The impact of SAPHNELO treatment on the potential development of malignancies is
 Consider the individual benefit-risk in patients with known risk factors for the development or reoccurrence of malignancy prior to prescribing SAPHNELO.
 In patients who develop malignancies, consider the benefit-risk of continued treatment with SAPHNELO.
 
-## 5.4 Immunization
+## 5.4 Immunizations
 
 Update immunizations, according to current immunization guidelines, prior to initiating SAPHNELO therapy.
 Avoid concurrent use of live or live-attenuated vaccines in patients treated with SAPHNELO.
