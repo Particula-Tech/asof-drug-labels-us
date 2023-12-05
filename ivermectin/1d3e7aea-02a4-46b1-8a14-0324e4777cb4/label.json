@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210225"
+  ],
+  "inn": "ivermectin",
+  "labeler": "Padagis Israel Pharmaceuticals Ltd",
+  "package_ndcs": [
+    "45802-102-84"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "ivermectin",
+      "name": "Ivermectin"
+    }
+  ],
+  "setid": "1d3e7aea-02a4-46b1-8a14-0324e4777cb4",
+  "source": "dailymed"
+}
