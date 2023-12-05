@@ -9,37 +9,23 @@ To minimize the possibility of such reactions, therapy should be initiated at th
 
 The following additional adverse reactions have been reported:
 
-Hemopoietic System
+Hemopoietic System: Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression, thrombocytopenia, leukopenia, leukocytosis, eosinophilia, acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda.
 
-Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression, thrombocytopenia, leukopenia, leukocytosis, eosinophilia, acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda.
-
-Skin
-
-Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), Acute Generalized Exanthematous Pustulosis (AGEP), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis, onychomadesis and hirsutism.
+Skin: Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), Acute Generalized Exanthematous Pustulosis (AGEP), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis, onychomadesis and hirsutism.
 In certain cases, discontinuation of therapy may be necessary.
 
-Cardiovascular System
-
-Congestive heart failure, edema, aggravation of hypertension, hypotension, syncope and collapse, aggravation of coronary artery disease, arrhythmias and AV block, thrombophlebitis, thromboembolism (e.g., pulmonary embolism), and adenopathy or lymphadenopathy.
+Cardiovascular System: Congestive heart failure, edema, aggravation of hypertension, hypotension, syncope and collapse, aggravation of coronary artery disease, arrhythmias and AV block, thrombophlebitis, thromboembolism (e.g., pulmonary embolism), and adenopathy or lymphadenopathy.
 
 Some of these cardiovascular complications have resulted in fatalities.
 Myocardial infarction has been associated with other tricyclic compounds.
 
-Liver
+Liver: Abnormalities in liver function tests, cholestatic and hepatocellular jaundice, hepatitis, very rare cases of hepatic failure.
 
-Abnormalities in liver function tests, cholestatic and hepatocellular jaundice, hepatitis, very rare cases of hepatic failure.
+Pancreatic:Pancreatitis.
 
-Pancreatic
+Respiratory System: Pulmonary hypersensitivity characterized by fever, dyspnea, pneumonitis, or pneumonia.
 
-Pancreatitis.
-
-Respiratory System
-
-Pulmonary hypersensitivity characterized by fever, dyspnea, pneumonitis, or pneumonia.
-
-Genitourinary System
-
-Urinary frequency, acute urinary retention, oliguria with elevated blood pressure, azotemia, renal failure, and impotence.
+Genitourinary System: Urinary frequency, acute urinary retention, oliguria with elevated blood pressure, azotemia, renal failure, and impotence.
 Albuminuria, glycosuria, elevated BUN, and microscopic deposits in the urine have also been reported.
 There have been rare reports of impaired male fertility and/or abnormal spermatogenesis.
 
@@ -48,30 +34,20 @@ Additionally, rats receiving carbamazepine in the diet for 2 years at dosage lev
 In dogs, it produced a brownish discoloration, presumably a metabolite, in the urinary bladder at dosage levels of 50 mg/kg and higher.
 Relevance of these findings to humans is unknown.
 
-Nervous System
-
-Dizziness, drowsiness, disturbances of coordination, confusion, headache, fatigue, blurred vision, visual hallucinations, transient diplopia, oculomotor disturbances, nystagmus, speech disturbances, abnormal involuntary movements, peripheral neuritis and paresthesias, depression with agitation, talkativeness, tinnitus, hyperacusis, neuroleptic malignant syndrome.
+Nervous System: Dizziness, drowsiness, disturbances of coordination, confusion, headache, fatigue, blurred vision, visual hallucinations, transient diplopia, oculomotor disturbances, nystagmus, speech disturbances, abnormal involuntary movements, peripheral neuritis and paresthesias, depression with agitation, talkativeness, tinnitus, hyperacusis, neuroleptic malignant syndrome.
 
 There have been reports of associated paralysis and other symptoms of cerebral arterial insufficiency, but the exact relationship of these reactions to the drug has not been established.
 
 Isolated cases of neuroleptic malignant syndrome have been reported both with and without concomitant use of psychotropic drugs.
 
-Digestive System
+Digestive System:Nausea, vomiting, gastric distress and abdominal pain, diarrhea, constipation, anorexia, and dryness of the mouth and pharynx, including glossitis and stomatitis.
 
-Nausea, vomiting, gastric distress and abdominal pain, diarrhea, constipation, anorexia, and dryness of the mouth and pharynx, including glossitis and stomatitis.
-
-Eyes
-
-Scattered punctate cortical lens opacities, increased intraocular pressure (see WARNINGS, General) as well as conjunctivitis, have been reported.
+Eyes: Scattered punctate cortical lens opacities, increased intraocular pressure (see WARNINGS, General) as well as conjunctivitis, have been reported.
 Although a direct causal relationship has not been established, many phenothiazines and related drugs have been shown to cause eye changes.
 
-Musculoskeletal System
+Musculoskeletal System:Aching joints and muscles, and leg cramps.
 
-Aching joints and muscles, and leg cramps.
-
-Metabolism
-
-Fever and chills.
+Metabolism: Fever and chills.
 Hyponatremia (see WARNINGS, General).
 Decreased levels of plasma calcium have been reported.
 Osteoporosis has been reported.
