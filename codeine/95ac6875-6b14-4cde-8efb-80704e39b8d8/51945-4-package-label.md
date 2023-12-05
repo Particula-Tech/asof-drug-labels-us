@@ -17,13 +17,13 @@ Pharmaceutical Associates, Inc. Greenville, SC 29605
 USUAL DOSAGE: See Insert.
 
 STORAGE: Keep tightly closed.
-Store at 20°-25°C (68°-77°F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Protect from light.
 Dispense in a tight, light-resistant container with a child-resistant closure.
 
-X0504041116
+X0504040622
 
-R11/16
+R06/22
 
 # PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label
 
