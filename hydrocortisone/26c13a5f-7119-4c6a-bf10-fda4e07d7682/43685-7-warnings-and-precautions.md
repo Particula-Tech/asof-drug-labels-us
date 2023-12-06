@@ -30,13 +30,13 @@ Treat all infections seriously and initiate stress dosing of steroids early [see
 Long-term use of corticosteroids in excessive doses may cause growth retardation in pediatric patients.
 Historical cohorts of adults treated from childhood for congenital adrenal hyperplasia have been found to have growth retardation.
 Effects on linear growth are less likely when using corticosteroids as replacement therapy.
-Use the minimum dosage of ALKINDI SPRINKLE to achieve desired clinical response and monitor the patient's growth.
+Use the minimum dosage of ALKINDI SPRINKLE to achieve desired clinical response and monitor the patient’s growth.
 
-## 5.4 Cushing's Syndrome Due to Use of Excessive Doses of Corticosteroids
+## 5.4 Cushing’s Syndrome Due to Use of Excessive Doses of Corticosteroids
 
-Prolonged use of corticosteroids in supraphysiologic doses may cause Cushing's syndrome.
-Symptoms and signs of Cushing's syndrome include weight gain, decreased height velocity, hyperglycemia, hypertension, edema, easy bruising, muscle weakness, red round face, depression or mood swings.
-Monitor patients for signs and symptoms of Cushing's syndrome every 6 months; pediatric patients under one year of age may require more frequent monitoring, e.g., every 3 to 4 months.
+Prolonged use of corticosteroids in supraphysiologic doses may cause Cushing’s syndrome.
+Symptoms and signs of Cushing’s syndrome include weight gain, decreased height velocity, hyperglycemia, hypertension, edema, easy bruising, muscle weakness, red round face, depression or mood swings.
+Monitor patients for signs and symptoms of Cushing’s syndrome every 6 months; pediatric patients under one year of age may require more frequent monitoring, e.g., every 3 to 4 months.
 
 ## 5.5 Decrease in Bone Mineral Density
 

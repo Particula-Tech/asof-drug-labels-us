@@ -7,7 +7,7 @@ Administration Information
 Advise the patient or caregiver that ALKINDI SPRINKLE is a granule formulation contained in a capsule.
 Do not swallow the capsule.
 Do not chew or crush the granules.
-Open the capsule and give the granules directly into the patient's mouth.
+Open the capsule and give the granules directly into the patient’s mouth.
 Alternatively, sprinkle the granules onto soft food and give immediately as the taste masking cover can dissolve in as little as 5 minutes.
 Avoid wetting the capsule as this may cause some granules to stick to the capsule.
 Immediately following administration, take a sip of fluids to ensure all granules have been swallowed.
@@ -33,9 +33,9 @@ Growth Retardation
 Discuss with the caregiver that long-term use of corticosteroids in excessive doses may cause growth retardation in pediatric patients.
 [see Warnings and Precautions (5.3)]
 
-Cushing's Syndrome
+Cushing’s Syndrome
 
-Inform patients and caregivers that prolonged use of corticosteroids in supraphysiologic doses may cause Cushing's syndrome and that symptoms and signs include weight gain, decreased height velocity, hyperglycemia, hypertension, edema, easy bruising, muscle weakness, red round face, depression or mood swings.
+Inform patients and caregivers that prolonged use of corticosteroids in supraphysiologic doses may cause Cushing’s syndrome and that symptoms and signs include weight gain, decreased height velocity, hyperglycemia, hypertension, edema, easy bruising, muscle weakness, red round face, depression or mood swings.
 [see Warnings and Precautions (5.4)]
 
 Decrease in Bone Mineral Density
@@ -66,7 +66,7 @@ Inform patients or caregivers that this does not mean the product is ineffective
 
 ALKINDI SPRINKLE is manufactured for Eton Pharmaceuticals, Inc. by Glatt Pharmaceutical Services GmbH & Co. KG Werner-Glatt-Strasse 1, Binzen, Baden-Wuerttemberg, 79589, Germany.
 
-ALKINDI SPRINKLE® is a registered trademark of Diurnal Limited.
+ALKINDI SPRINKLE ® is a registered trademark of Diurnal Limited.
 
 ALKINDI is covered by the following US patents: 9,649,280; 9,675,559; 9,717,740; and other patents in other countries internationally.
 

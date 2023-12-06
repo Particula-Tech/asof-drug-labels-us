@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 ALKINDI SPRINKLE contains hydrocortisone, a corticosteroid, also known as cortisol.
-The chemical name of hydrocortisone is 11β,17α,21-trihydroxy-pregn-4-ene-3,20-dione and it has the chemical formula of C 21H 30O 5, and molecular weight of 362 g∙mol −1.
+The chemical name of hydrocortisone is 11β,17α,21-trihydroxy-pregn-4-ene-3,20-dione and it has the chemical formula of C 21H 30O 5, and molecular weight of 362 g·mol −1.
 Hydrocortisone is a white or almost white powder soluble in the pH range of 1-7.
 
 Structural formula of hydrocortisone:
