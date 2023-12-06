@@ -1,6 +1,6 @@
-# 200 mg/10 mL Carton
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 72572-750-10 Rx Only
+NDC 72572-750-10
 
 Anectine®
 
@@ -14,6 +14,8 @@ WARNING: Paralyzing Agent
 
 For Intravenous Use
 
-10 x 10 mL Multiple-Dose Vials
+Rx Only
+
+10 x 10 mL Multiple-Dose Vial
 
 CIVICA
