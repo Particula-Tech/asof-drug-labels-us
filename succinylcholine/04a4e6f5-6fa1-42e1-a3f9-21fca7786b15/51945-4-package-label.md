@@ -1,4 +1,4 @@
-# 200 mg/10 mL Carton
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 0781-9053-95
 
@@ -14,7 +14,7 @@ WARNING: Paralyzing Agent
 
 For Intravenous Use
 
-Rx ONLY
+Rx Only
 
 10 x 10 mL Multiple-Dose Vials
 
