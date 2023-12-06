@@ -1,0 +1,3 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+Neomycin Sulfate Tablets, USP 500 mg - NDC 62135-443-90 - 90's Bottle Label

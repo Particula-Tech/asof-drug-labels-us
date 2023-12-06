@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA204435"
+  ],
+  "inn": "neomycin",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-443-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "neomycin sulfate",
+      "name": "Neomycin Sulfate"
+    }
+  ],
+  "setid": "0aa6947b-4739-4b00-be93-7303a5fc687d",
+  "source": "dailymed"
+}
