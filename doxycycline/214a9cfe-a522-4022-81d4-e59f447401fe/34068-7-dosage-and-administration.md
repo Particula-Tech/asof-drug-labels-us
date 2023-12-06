@@ -32,17 +32,17 @@ Uncomplicated gonococcal infections in adults (except anorectal infections in me
 As an alternate single visit dose, administer 300 mg stat followed in one hour by a second 300 mg dose.
 The dose may be administered with food, including milk or carbonated beverage, as required.
 
-Uncomplicated urethral, endocervical, or rectal infection in adults caused by Chlamydia trachomatis: 100 mg, by mouth, twice a day for 7 days.
+Uncomplicated urethral, endocervical, or rectal infection in adults caused by Chlamydia trachomatis:100 mg, by mouth, twice a day for 7 days.
 
-Nongonococcal urethritis (NGU) caused by C. trachomatis or U. urealyticum: 100 mg, by mouth twice a day for 7 days.
+Nongonococcal urethritis (NGU) caused by C. trachomatisor U. urealyticum: 100 mg, by mouth twice a day for 7 days.
 
 Syphilis – early: Patients who are allergic to penicillin should be treated with doxycycline 100 mg, by mouth, twice a day for 2 weeks.
 
 Syphilis of more than one year's duration: Patients who are allergic to penicillin should be treated with doxycycline 100 mg, by mouth, twice a day for 4 weeks.
 
-Acute epididymo-orchitis caused by N. gonorrhoeae: 100 mg, by mouth, twice a day for at least 10 days.
+Acute epididymo-orchitis caused by N. gonorrhoeae:100 mg, by mouth, twice a day for at least 10 days.
 
-Acute epididymo-orchitis caused by C. trachomatis: 100 mg, by mouth, twice a day for at least 10 days.
+Acute epididymo-orchitis caused by C. trachomatis:100 mg, by mouth, twice a day for at least 10 days.
 
 For prophylaxis of malaria: For adults, the recommended dose is 100 mg daily.
 For children over 8 years of age, the recommended dose is 2 mg/kg given once daily up to the adult dose.

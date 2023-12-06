@@ -1,4 +1,4 @@
-HOW SUPPLIED: Doxycycline hyclate capsules and tablets are available as follows:
+HOW SUPPLIED:Doxycycline hyclate capsules and tablets are available as follows:
 
 | a. Capsule-equivalent to 50 mg doxycycline (No. 2 opaque white and light blue capsule) in: |  |  |  |
 | --- | --- | --- | --- |
@@ -12,7 +12,9 @@ HOW SUPPLIED: Doxycycline hyclate capsules and tablets are available as follows:
 
 | c. Tablet-equivalent to 100 mg doxycycline (light orange film coated tablet) in: |  |  |  |
 | --- | --- | --- | --- |
+|  | Bottles of 20 tablets | NDC 53489-120-60 | debossed MP 37 |
 |  | Bottles of 50 tablets | NDC 53489-120-02 | debossed MP 37 |
+|  | Bottles of 100 tablets | NDC 53489-120-01 | debossed MP 37 |
 |  | Bottles of 500 tablets | NDC 53489-120-05 | debossed MP 37 |
 
 Store at 20° to 25°C (68° to 77°F).

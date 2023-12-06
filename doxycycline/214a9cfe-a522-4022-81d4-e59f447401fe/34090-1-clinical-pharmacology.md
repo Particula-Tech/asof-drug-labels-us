@@ -33,11 +33,11 @@ Cross resistance with other tetracyclines is common.
 
 Antimicrobial Activity
 
-Doxycycline has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section of the package insert for doxycycline hyclate.
+Doxycycline has been shown to be active against most isolates of the following microorganisms, both in vitroand in clinical infections as described in the INDICATIONS AND USAGEsection of the package insert for doxycycline hyclate.
 
 Gram-Negative Bacteria
 
-Acinetobacter species
+Acinetobacterspecies
 
 Bartonella bacilliformis
 
@@ -61,7 +61,7 @@ Haemophilus influenzae
 
 Neisseria gonorrhoeae
 
-Shigella species
+Shigellaspecies
 
 Vibrio cholerae
 
@@ -77,7 +77,7 @@ Streptococcus pneumoniae
 
 Anaerobic Bacteria
 
-Clostridium species
+Clostridiumspecies
 
 Fusobacterium fusiforme
 
@@ -85,7 +85,7 @@ Propionibacterium acnes
 
 Other Bacteria
 
-Nocardiae and other aerobic Actinomyces species
+Nocardiaeand other aerobic Actinomycesspecies
 
 Borrelia recurrentis
 
@@ -99,7 +99,7 @@ Rickettsiae
 
 Treponema pallidum
 
-Treponema pallidum subspecies pertenue
+Treponema pallidumsubspecies pertenue
 
 Ureaplasma urealyticum
 
@@ -107,11 +107,11 @@ Parasites
 
 Balantidium coli
 
-Entamoeba species
+Entamoebaspecies
 
 Plasmodium falciparum*
 
-*Doxycycline has been found to be active against the asexual erythrocytic forms of Plasmodium falciparum, but not against the gametocytes of P. falciparum.
+*Doxycycline has been found to be active against the asexual erythrocytic forms of Plasmodium falciparum,but not against the gametocytes of P. falciparum.
 The precise mechanism of action of the drug is not known.
 
 Susceptibility Testing

@@ -10,4 +10,4 @@ Doxycycline hyclate has the following structural formula:
 Each capsule for oral administration contains doxycycline hyclate equivalent to 50 mg or 100 mg doxycycline (anhydrous).
 Inactive ingredients for capsules are: anhydrous lactose, croscarmellose sodium, FD&C Blue #1, gelatin, magnesium stearate, microcrystalline cellulose, and titanium dioxide.
 Each tablet for oral administration contains doxycycline hyclate equivalent to 100 mg doxycycline.
-Inactive ingredients for tablets are: anhydrous lactose, carnauba wax, croscarmellose sodium, D&C Yellow #10 aluminum lake, FD&C Red #40 aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, and titanium dioxide.
+Inactive ingredients for tablets are: lactose monohydrate, carnauba wax, croscarmellose sodium, D&C Yellow #10 aluminum lake, FD&C Red #40 aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, and titanium dioxide.
