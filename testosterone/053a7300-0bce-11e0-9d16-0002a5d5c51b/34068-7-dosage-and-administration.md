@@ -29,9 +29,9 @@ Patients should be instructed to use one finger to gently rub FORTESTA evenly on
 
 Table 2: Application of FORTESTA
 
-| Total Dose of Testosterone | Total Pump Actuations | Pump Actuations per Thigh |  |
-| --- | --- | --- | --- |
 | Thigh #1 | Thigh #2 |  |  |
+| --- | --- | --- | --- |
+| Total Dose of Testosterone | Total Pump Actuations | Pump Actuations per Thigh |  |
 | 10 mg | 1 | 1 | 0 |
 | 20 mg | 2 | 1 | 1 |
 | 30 mg | 3 | 2 | 1 |
