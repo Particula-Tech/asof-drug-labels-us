@@ -68,6 +68,6 @@ Based on population PK analysis, concomitant use of oral corticosteroids, anti-m
 The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
 Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of anifrolumab-fnia.
 
-In Trials 2, 3, and the long-tern extension, treatment emergent anti-anifrolumab-fnia antibodies were detected in 9 of 350 (ADA incidence 2.6%) patients who received SAPHNELO at the recommended dosing regimen for up to 4 years.
+In Trials 2, 3, and the long-term extension, treatment emergent anti-anifrolumab-fnia antibodies were detected in 9 of 350 (ADA incidence 2.6%) patients who received SAPHNELO at the recommended dosing regimen for up to 4 years.
 
 Because of the low occurrence of anti-drug antibodies, the effect of these antibodies on the pharmacokinetics, pharmacodynamics, safety, and/or effectiveness of anifrolumab-fnia products is unknown.
