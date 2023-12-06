@@ -22,7 +22,7 @@ Marketed by:
 
 GALDERMA LABORATORIES, L.P.
 
-Fort Worth, TX 76177 USA
+Dallas, TX 75201 USA
 
 Manufactured by:
 
@@ -30,4 +30,4 @@ Hill Dermaceuticals, Inc.
 
 Sanford, FL 32773 USA
 
-P51400-1
+P51400-2

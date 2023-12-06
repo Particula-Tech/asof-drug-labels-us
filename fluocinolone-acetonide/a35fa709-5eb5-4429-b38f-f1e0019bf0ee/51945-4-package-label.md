@@ -1,6 +1,7 @@
 # 30g Carton Label
 
-Tri-Luma®(fluocinolone acetonide, hydroquinone, tretinoin) cream, 0.01%/4%/0.05% MUST BE REFRIGERATED NDC 0299-5950-30 Rx Only
+Tri-Luma®(fluocinolone acetonide, hydroquinone, tretinoin) cream, 0.01%/4%/0.05% NDC 0299-5950-30 Rx Only MUST BE REFRIGERATED NET WT.
+30 g GALDERMA
 
 For Topical Use Only.
 Not for Ophthalmic Use.
@@ -11,8 +12,8 @@ Inactive: butylated hydroxytoluene, cetyl alcohol, citric acid anhydrous, glycer
 Storage: Store in a refrigerator, 2° to 8° C (36° to 46° F). Protect from freezing.
 See carton closure for lot number and expiration date. www.triluma.com
 
-Marketed by: GALDERMA LABORATORIES, L.P.
+MUST BE REFRIGERATED Marketed by: GALDERMA LABORATORIES, L.P.
 Dallas, TX 75201 USA
 
 All trademarks are the property of their respective owners.
-P51399-5 MUST BE REFRIGERATED
+P51399-6
