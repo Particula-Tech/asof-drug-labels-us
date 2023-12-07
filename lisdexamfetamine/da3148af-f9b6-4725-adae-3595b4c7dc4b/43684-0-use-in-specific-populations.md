@@ -74,7 +74,7 @@ With the same lisdexamfetamine dimesylate dose, mean steady state exposure of de
 
 BED
 
-Safety and effectiveness of lisdexamfetamine dimesylate have not been established in patients less than 18 years of age.
+Safety and effectiveness of lisdexamfetamine dimesylate have not been established in pediatric patients with BED less than 18 years of age.
 
 Growth Suppression
 

@@ -4,13 +4,14 @@ The following adverse reactions are discussed in greater detail in other section
 
 - Known hypersensitivity to amphetamine products or other ingredients of lisdexamfetamine dimesylate capsules and lisdexamfetamine dimesylate chewable tablets [see Contraindications (4)]
 - Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see Contraindications (4) and Drug Interactions (7.1)]
-- Drug Dependence [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
-- Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
-- Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
+- Abuse, Misuse, and Addiction [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
+- Risks to Patients with Serious Cardiac Disease [see Warnings and Precautions (5.2)]
+- Increased Blood Pressure and Heart Rate [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
-- Suppression of Growth [see Warnings and Precautions (5.5)]
+- Long-Term Suppression of Growth in Pediatric Patients [see Warnings and Precautions (5.5)]
 - Peripheral Vasculopathy, including Raynaud’s phenomenon [see Warnings and Precautions (5.6)]
 - Serotonin Syndrome [see Warnings and Precautions (5.7)]
+- Motor and Verbal Tics, and Worsening of Tourette’s Syndrome [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -43,7 +44,7 @@ Adverse Reactions Occurring at an Incidence of 2% or More Among Lisdexamfetamine
 
 Adverse reactions reported in the controlled trials in pediatric patients ages, 6 to 12 years (Study 1), pediatric patients ages 13 to 17 years (Study 4), and adult patients (Study 7) treated with lisdexamfetamine dimesylate or placebo are presented in Tables 1, 2and 3 below.
 
-1. Table 1 Adverse Reactions Reported by 2% or More of Pediatric Patients Ages 6 to 12 Years with ADHD Taking Lisdexamfetamine Dimesylate and Greater than or Equal to Twice the Incidence in Patients Taking Placebo in a 4-Week Clinical Trial (Study 1)
+Table 1 Adverse Reactions Reported by 2% or More of Pediatric Patients Ages 6 to 12 Years with ADHD Taking Lisdexamfetamine Dimesylate and Greater than or Equal to Twice the Incidence in Patients Taking Placebo in a 4-Week Clinical Trial (Study 1)
 
 |  | Lisdexamfetamine Dimesylate(n=218) | Placebo(n=72) |
 | --- | --- | --- |
@@ -63,7 +64,7 @@ Adverse reactions reported in the controlled trials in pediatric patients ages, 
 | Tic | 2% | 0% |
 | Anorexia | 2% | 0% |
 
-1. Table 2 Adverse Reactions Reported by 2% or More of Pediatric Patients Ages 13 to 17 Years with ADHD Taking Lisdexamfetamine Dimesylate and Greater than or Equal to Twice the Incidence in Patients Taking Placebo in a 4-Week Clinical Trial (Study 4)
+Table 2 Adverse Reactions Reported by 2% or More of Pediatric Patients Ages 13 to 17 Years with ADHD Taking Lisdexamfetamine Dimesylate and Greater than or Equal to Twice the Incidence in Patients Taking Placebo in a 4-Week Clinical Trial (Study 4)
 
 |  | Lisdexamfetamine Dimesylate(n=233) | Placebo(n=77) |
 | --- | --- | --- |
@@ -75,7 +76,7 @@ Adverse reactions reported in the controlled trials in pediatric patients ages, 
 | Anorexia | 2% | 0% |
 | Tremor | 2% | 0% |
 
-1. Table 3 Adverse Reactions Reported by 2% or More of Adult Patients with ADHD Taking Lisdexamfetamine Dimesylate and Greater than or Equal to Twice the Incidence in Patients Taking Placebo in a 4-Week Clinical Trial (Study 7)
+Table 3 Adverse Reactions Reported by 2% or More of Adult Patients with ADHD Taking Lisdexamfetamine Dimesylate and Greater than or Equal to Twice the Incidence in Patients Taking Placebo in a 4-Week Clinical Trial (Study 7)
 
 |  | Lisdexamfetamine Dimesylate(n=358) | Placebo(n=62) |
 | --- | --- | --- |
@@ -134,7 +135,7 @@ Adverse Reactions Occurring at an Incidence of 2% or More and At Least Twice Pla
 
 Adverse reactions reported in the pooled controlled trials in adult patients (Study 11 and 12) treated with lisdexamfetamine dimesylate or placebo are presented in Table 4 below.
 
-1. Table 4 Adverse Reactions Reported by 2% or More of Adult Patients with BED Taking Lisdexamfetamine Dimesylate and Greater than or Equal to Twice the Incidence in Patients Taking Placebo in 12-Week Clinical Trials (Study 11 and 12)
+Table 4 Adverse Reactions Reported by 2% or More of Adult Patients with BED Taking Lisdexamfetamine Dimesylate and Greater than or Equal to Twice the Incidence in Patients Taking Placebo in 12-Week Clinical Trials (Study 11 and 12)
 
 |  | Lisdexamfetamine Dimesylate(N=373) | Placebo(N=372) |
 | --- | --- | --- |
@@ -165,6 +166,16 @@ Adverse reactions reported in the pooled controlled trials in adult patients (St
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of lisdexamfetamine dimesylate.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These events are as follows: cardiomyopathy, mydriasis, diplopia, difficulties with visual accommodation, blurred vision, eosinophilic hepatitis, anaphylactic reaction, hypersensitivity, dyskinesia, dysgeusia, tics, bruxism, depression, dermatillomania, alopecia, aggression, Stevens-Johnson Syndrome, chest pain, angioedema, urticaria, seizures, libido changes, frequent or prolonged erections, constipation, rhabdomyolysis, and intestinal ischemia.
+The following adverse reactions have been identified during post-approval use of lisdexamfetamine dimesylate.
+Because these
+
+reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or
+
+establish a causal relationship to drug exposure.
+These events are as follows: cardiomyopathy, mydriasis, diplopia, difficulties with
+
+visual accommodation, blurred vision, eosinophilic hepatitis, anaphylactic reaction, hypersensitivity, dyskinesia, dysgeusia, motor and
+
+verbal tics, bruxism, depression, dermatillomania, alopecia, aggression, Stevens-Johnson Syndrome, chest pain, angioedema,
+
+urticaria, seizures, libido changes, frequent or prolonged erections, constipation, rhabdomyolysis, and intestinal ischemia.

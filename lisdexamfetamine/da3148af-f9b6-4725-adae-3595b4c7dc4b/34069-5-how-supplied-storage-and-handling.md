@@ -26,8 +26,3 @@ Information for Lisdexamfetamine Dimesylate Chewable Tablets:
 Dispense in a tight, light-resistant container as defined in the USP.
 
 Store at room temperature 20ºC to 25ºC (68ºF to 77ºF); excursions permitted between 15ºC to 30ºC (59ºF to 86ºF) [see USP Controlled Room Temperature].
-
-Disposal
-
-Comply with local laws and regulations on drug disposal of CNS stimulants.
-Dispose of remaining, unused, or expired lisdexamfetamine dimesylate by a medicine take-back program.
