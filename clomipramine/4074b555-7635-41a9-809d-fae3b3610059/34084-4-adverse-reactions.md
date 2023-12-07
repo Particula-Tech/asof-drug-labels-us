@@ -204,7 +204,7 @@ Rare - blepharitis, chromatopsia, conjunctival hemorrhage, exophthalmos, glaucom
 Urogenital System – Infrequent - endometriosis, epididymitis, hematuria, nocturia, oliguria, ovarian cyst, perineal pain, polyuria, prostatic disorder, renal calculus, renal pain, urethral disorder, urinary incontinence, uterine hemorrhage, vaginal hemorrhage.
 Rare - albuminuria, anorgasmy, breast engorgement, breast fibroadenosis, cervical dysplasia, endometrial hyperplasia, premature ejaculation, pyelonephritis, pyuria, renal cyst, uterine inflammation, vulvar disorder.
 
-## Postmarketing Experience
+Postmarketing Experience
 
 The following adverse drug reaction has been reported during post-approval use of Anafranil.
 Because this reaction is reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate frequency.
