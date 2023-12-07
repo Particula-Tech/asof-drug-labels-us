@@ -14,7 +14,7 @@ Esmolol hydrochloride is:
 ## 11.1 Esmolol Hydrochloride Injection Dosage Forms
 
 Esmolol hydrochloride injection is a clear, colorless to light yellow, sterile, nonpyrogenic solution of esmolol hydrochloride.
-The formulation is described in the table below:
+The formulation for esmolol hydrochloride injection is described in the table below:
 
 Table 4: Esmolol Hydrochloride Injection Formulation
 

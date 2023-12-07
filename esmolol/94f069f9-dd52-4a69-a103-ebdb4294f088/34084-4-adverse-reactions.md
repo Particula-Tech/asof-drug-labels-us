@@ -13,7 +13,7 @@ Table 3: Clinical Trial Adverse Reactions (Frequency ≥ 3%)
 
 | System Organ Class (SOC) | Preferred MedDRA Term | Frequency |
 | --- | --- | --- |
-| VASCULAR DISORDERS | HypotensionHypotension resolved during esmolol hydrochloride injection infusion in 63% of patients. In 80% of the remaining patients, hypotension resolved within 30 minutes following discontinuation of infusion. Asymptomatic hypotension Symptomatic hypotension (hyperhidrosis, dizziness) | 25%12% |
+| VASCULAR DISORDERS | HypotensionHypotension resolved during esmolol hydrochloride infusion in 63% of patients. In 80% of the remaining patients, hypotension resolved within 30 minutes following discontinuation of infusion. Asymptomatic hypotension Symptomatic hypotension (hyperhidrosis, dizziness) | 25%12% |
 | GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS | Infusion site reactions (inflammation and induration) | 8% |
 | GASTROINTESTINAL DISORDERS | Nausea | 7% |
 | NERVOUS SYSTEM DISORDERS | Dizziness | 3% |

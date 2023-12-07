@@ -17,7 +17,7 @@ Table 1: Step-Wise Dosing
 In the absence of loading doses, continuous infusion of a single concentration of esmolol reaches pharmacokinetic and pharmacodynamic steady-state in about 30 minutes.
 
 The effective maintenance dose for continuous and step-wise dosing is 50 to 200 mcg per kg per minute, although doses as low as 25 mcg per kg per minute have been adequate.
-Dosages greater than 200 mcg per kg per minute provide little added heart-rate lowering effect, and the rate of adverse reactions increases.
+Dosages greater than 200 mcg per kg per minute provide little added heart rate lowering effect, and the rate of adverse reactions increases.
 
 Maintenance infusions may be continued for up to 48 hours.
 
@@ -35,13 +35,13 @@ Immediate Control
 Gradual Control
 
 - •Administer 500 mcg per kg as a bolus dose over 1 minute followed by a maintenance infusion of 50 mcg per kg per min for 4 minutes.
-- •Depending on the response obtained, continue dosing as outlined for supraventricular tachycardia (refer to Table 1).
+- •Depending on the response obtained, continue dosing as outlined for supraventricular tachycardia.
   Refer to Maximum Recommended Doses below.
 
 Maximum Recommended Doses
 
 - •For the treatment of tachycardia, maintenance infusion dosages greater than 200 mcg per kg per min are not recommended; dosages greater than 200 mcg per kg per min provide little additional heart rate-lowering effect, and the rate of adverse reactions increases.
-- •For the treatment of hypertension, higher maintenance infusion dosages (250 to 300 mcg per kg per min) may be required.
+- •For the treatment of hypertension, higher maintenance infusion dosages (250-300 mcg per kg per min) may be required.
   The safety of doses above 300 mcg per kg per minute has not been studied.
 
 ## 2.3 Transition from Esmolol Hydrochloride Injection Therapy to Alternative Drugs
@@ -50,8 +50,8 @@ After patients achieve adequate control of the heart rate and a stable clinical 
 
 When transitioning from esmolol hydrochloride injection to alternative drugs, the physician should carefully consider the labeling instructions of the alternative drug selected and reduce the dosage of esmolol hydrochloride injection as follows:
 
-1. 1.Thirty minutes following the first dose of the alternative drug, reduce the esmolol hydrochloride injection infusion rate by one-half (50%).
-2. 2.After administration of the second dose of the alternative drug, monitor the patient's response and if satisfactory control is maintained for the first hour, discontinue the esmolol hydrochloride injection infusion.
+1. 1.Thirty minutes following the first dose of the alternative drug, reduce the esmolol hydrochloride infusion rate by one-half (50%).
+2. 2.After administration of the second dose of the alternative drug, monitor the patient's response and if satisfactory control is maintained for the first hour, discontinue the esmolol hydrochloride infusion.
 
 ## 2.4 Directions for Use
 
