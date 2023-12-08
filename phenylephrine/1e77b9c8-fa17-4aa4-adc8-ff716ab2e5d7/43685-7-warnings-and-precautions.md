@@ -6,7 +6,7 @@ Because of its pressor effects, phenylephrine hydrochloride can precipitate angi
 
 ## 5.2 Bradycardia
 
-Phenylephrine hydrochloride can cause severe bradycardia and decreased cardiac output.
+Phenylephrine Hydrochloride Injection 10 mg/mL can cause severe bradycardia and decreased cardiac output.
 
 ## 5.3 Risk in Patients with Autonomic Dysfunction
 
@@ -18,13 +18,13 @@ Extravasation of phenylephrine can cause necrosis or sloughing of tissue.
 
 ## 5.5 Pressor Effect with Concomitant Oxytocic Drugs
 
-Oxytocic drugs potentiate the pressor effect of sympathomimetic pressor amines including phenylephrine hydrochloride [see Drug Interactions (7.1)], with the potential for hemorrhagic stroke.
+Oxytocic drugs potentiate the pressor effect of sympathomimetic pressor amines including Phenylephrine Hydrochloride Injection 10 mg/mL [see Drug Interactions (7.1)], with the potential for hemorrhagic stroke.
 
 ## 5.7 Peripheral and Visceral Ischemia
 
-Phenylephrine hydrochloride can cause excessive peripheral and visceral vasoconstriction and ischemia to vital organs, particularly in patients with extensive peripheral vascular disease.
+Phenylephrine Hydrochloride Injection 10 mg/mL can cause excessive peripheral and visceral vasoconstriction and ischemia to vital organs, particularly in patients with extensive peripheral vascular disease.
 
 ## 5.8 Renal Toxicity
 
-Phenylephrine hydrochloride can increase the need for renal replacement therapy in patients with septic shock.
+Phenylephrine Hydrochloride Injection 10 mg/mL can increase the need for renal replacement therapy in patients with septic shock.
 Monitor renal function.
