@@ -34,16 +34,16 @@ Based on enoxaparin sodium pharmacokinetics, this difference in steady state is 
 Although not studied clinically, the 150 mg/mL concentration of enoxaparin sodium is projected to result in anticoagulant activities similar to those of 100 mg/mL and 200 mg/mL concentrations at the same enoxaparin dose.
 When a daily 1.5 mg/kg subcutaneous injection of enoxaparin sodium was given to 25 healthy male and female subjects using a 100 mg/mL or a 200 mg/mL concentration the following pharmacokinetic profiles were obtained (see Table 13).
 
-Table 13: Pharmacokinetic ParametersMeans ±SD at Day 5 and 90% Confidence Interval (CI) of the ratio After 5 Days of 1.5 mg/kg Subcutaneous Once-Daily Doses of Enoxaparin Sodium Using 100 mg/mL or 200 mg/mL Concentrations
+Table 13: Pharmacokinetic Parameters Means ±SD at Day 5 and 90% Confidence Interval (CI) of the ratioAfter 5 Days of 1.5 mg/kg Subcutaneous Once-Daily Doses of Enoxaparin Sodium Using 100 mg/mL or 200 mg/mL Concentrations
 
 |  | Concentration | Anti-Xa | Anti-IIa | Heptest | aPTT |
 | --- | --- | --- | --- | --- | --- |
-| Amax (IU/mL or Δ sec) | 100 mg/mL | 1.37 (±0.23) | 0.23 (±0.05) | 105 (±17) | 19 (±5) |
+| A max(IU/mL or Δ sec) | 100 mg/mL | 1.37 (±0.23) | 0.23 (±0.05) | 105 (±17) | 19 (±5) |
 |  | 200 mg/mL | 1.45 (±0.22) | 0.26 (±0.05) | 111 (±17) | 22 (±7) |
 |  | 90% CI | 102%–110% |  | 102%–111% |  |
-| tmaxMedian (range) (h) | 100 mg/mL | 3 (2–6) | 4 (2–5) | 2.5 (2–4.5) | 3 (2–4.5) |
+| t maxMedian (range)(h) | 100 mg/mL | 3 (2–6) | 4 (2–5) | 2.5 (2–4.5) | 3 (2–4.5) |
 | 200 mg/mL | 3.5 (2–6) | 4.5 (2.5–6) | 3.3 (2–5) | 3 (2–5) |  |
-| AUC (ss) (hIU/mL or h Δ sec) | 100 mg/mL | 14.26 (±2.93) | 1.54 (±0.61) | 1321 (±219) |  |
+| AUC(ss) (h IU/mL or h Δ sec) | 100 mg/mL | 14.26 (±2.93) | 1.54 (±0.61) | 1321 (±219) |  |
 |  | 200 mg/mL | 15.43 (±2.96) | 1.77 (±0.67) | 1401 (±227) |  |
 |  | 90% CI | 105%–112% |  | 103%–109% |  |
 
@@ -69,19 +69,19 @@ Special Populations
 
 Gender
 
-Apparent clearance and Amax derived from anti-Factor Xa values following single subcutaneous dosing (40 mg and 60 mg) were slightly higher in males than in females.
+Apparent clearance and A maxderived from anti-Factor Xa values following single subcutaneous dosing (40 mg and 60 mg) were slightly higher in males than in females.
 The source of the gender difference in these parameters has not been conclusively identified; however, body weight may be a contributing factor.
 
 Geriatric
 
-Apparent clearance and Amax derived from anti-Factor Xa values following single and multiple subcutaneous dosing in geriatric subjects were close to those observed in young subjects.
-Following once a day subcutaneous dosing of 40 mg enoxaparin, the Day 10 mean area under anti-Factor Xa activity versus time curve (AUC) was approximately 15% greater than the mean Day 1 AUC value [see Dosage and Administration (2.4) and Use in Specific Populations (8.5)].
+Apparent clearance and A maxderived from anti-Factor Xa values following single and multiple subcutaneous dosing in geriatric subjects were close to those observed in young subjects.
+Following once a day subcutaneous dosing of 40 mg enoxaparin, the Day 10 mean area under anti-Factor Xa activity versus time curve (AUC) was approximately 15% greater than the mean Day 1 AUC value [see Dosage and Administration (2.4)and Use in Specific Populations (8.5)].
 
 Renal impairment
 
 A linear relationship between anti-Factor Xa plasma clearance and creatinine clearance at steady state has been observed, which indicates decreased clearance of enoxaparin sodium in patients with reduced renal function.
 Anti-Factor Xa exposure represented by AUC, at steady state, is marginally increased in patients with creatinine clearance 50 to 80 mL/min and patients with creatinine clearance 30 to <50 mL/min after repeated subcutaneous 40 mg once-daily doses.
-In patients with severe renal impairment (creatinine clearance <30 mL/min), the AUC at steady state is significantly increased on average by 65% after repeated subcutaneous 40 mg once-daily doses [see Dosage and Administration (2.3) and Use in Specific Populations (8.7)].
+In patients with severe renal impairment (creatinine clearance <30 mL/min), the AUC at steady state is significantly increased on average by 65% after repeated subcutaneous 40 mg once-daily doses [see Dosage and Administration (2.3)and Use in Specific Populations (8.7)].
 
 Hemodialysis
 
@@ -93,7 +93,7 @@ Studies with enoxaparin in patients with hepatic impairment have not been conduc
 
 Weight
 
-After repeated subcutaneous 1.5 mg/kg once-daily dosing, mean AUC of anti-Factor Xa activity is marginally higher at steady state in obese healthy volunteers (BMI 30–48 kg/m2) compared to non-obese control subjects, while Amax is not increased.
+After repeated subcutaneous 1.5 mg/kg once-daily dosing, mean AUC of anti-Factor Xa activity is marginally higher at steady state in obese healthy volunteers (BMI 30–48 kg/m 2) compared to non-obese control subjects, while A maxis not increased.
 
 When non–weight-adjusted dosing was administered, it was found after a single-subcutaneous 40 mg dose, that anti-Factor Xa exposure is 52% higher in low-weight women (<45 kg) and 27% higher in low-weight men (<57 kg) when compared to normal weight control subjects [see Use in Specific Populations (8.8)].
 

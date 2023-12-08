@@ -17,15 +17,15 @@ The molecular weight distribution is:
 
 STRUCTURAL FORMULA
 
-| R | XX = Percent of polysaccharide chain containing 1,6-anhydro derivative on the reducing end=15 to 25% |  | n=0 to 20 |
+| R | X X = Percent of polysaccharide chain containing 1,6-anhydro derivative on the reducing end=15 to 25% |  | n=0 to 20 |
 | --- | --- | --- | --- |
 | 100-X | H | n=1 to 21 |  |
 
-Enoxaparin sodium injection 100 mg/mL Concentration contains 10 mg enoxaparin sodium (approximate anti-Factor Xa activity of 1000 IU [with reference to the W.H.O.
+Enoxaparin sodium injection 100 mg/mL Concentrationcontains 10 mg enoxaparin sodium (approximate anti-Factor Xa activity of 1000 IU [with reference to the W.H.O.
 First International Low Molecular Weight Heparin Reference Standard]) per 0.1 mL Water for Injection.
 
-Enoxaparin sodium injection 150 mg/mL Concentration contains 15 mg enoxaparin sodium (approximate anti-Factor Xa activity of 1500 IU [with reference to the W.H.O.
+Enoxaparin sodium injection 150 mg/mL Concentrationcontains 15 mg enoxaparin sodium (approximate anti-Factor Xa activity of 1500 IU [with reference to the W.H.O.
 First International Low Molecular Weight Heparin Reference Standard]) per 0.1 mL Water for Injection.
 
 The enoxaparin sodium prefilled syringes and graduated prefilled syringes are preservative-free and intended for use only as a single-dose injection.
-The multiple-dose vial contains 15 mg benzyl alcohol per 1 mL as a preservative [see Dosage and Administration (2) and How Supplied/Storage and Handling (16)].
+The multiple-dose vial contains 15 mg benzyl alcohol per 1 mL as a preservative [see Dosage and Administration (2)and How Supplied/Storage and Handling (16)].

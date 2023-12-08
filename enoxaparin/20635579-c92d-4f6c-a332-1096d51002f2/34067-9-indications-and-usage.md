@@ -13,8 +13,8 @@ Enoxaparin sodium is indicated for the prophylaxis of deep vein thrombosis (DVT)
 
 Enoxaparin sodium is indicated for:
 
-- the inpatient treatment of acute deep vein thrombosis with or without pulmonary embolism, when administered in conjunction with warfarin sodium
-- the outpatient treatment of acute deep vein thrombosis without pulmonary embolism, when administered in conjunction with warfarin sodium
+- the inpatient treatmentof acute deep vein thrombosis with or without pulmonary embolism, when administered in conjunction with warfarin sodium
+- the outpatient treatmentof acute deep vein thrombosis without pulmonary embolism,when administered in conjunction with warfarin sodium
 
 ## 1.3 Prophylaxis of Ischemic Complications of Unstable Angina and Non–Q-Wave Myocardial Infarction
 

@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are also discussed in other sections of the labeling:
 
-- Spinal/epidural hematomas [see Boxed Warning and Warnings and Precautions (5.1)]
+- Spinal/epidural hematomas [see Boxed Warningand Warnings and Precautions (5.1)]
 - Increased Risk of Hemorrhage [see Warnings and Precautions (5.1)]
 - Thrombocytopenia [see Warnings and Precautions (5.5)]
 
@@ -19,7 +19,7 @@ Hemorrhage
 
 The following rates of major bleeding events have been reported during clinical trials with enoxaparin sodium (see Tables 2 to 7).
 
-Table 2: Major Bleeding Episodes following Abdominal and Colorectal SurgeryBleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease ≥2 g/dL or transfusion of 2 or more units of blood products.
+Table 2: Major Bleeding Episodes following Abdominal and Colorectal Surgery Bleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease ≥2 g/dL or transfusion of 2 or more units of blood products.
 Retroperitoneal, intraocular, and intracranial hemorrhages were always considered major.
 
 | Enoxaparin Sodium 40 mg daily subcutaneously | Heparin 5000 U q8h subcutaneously |  |
@@ -28,7 +28,7 @@ Retroperitoneal, intraocular, and intracranial hemorrhages were always considere
 | Abdominal Surgery | n=555 23 (4%) | n=560 16 (3%) |
 | Colorectal Surgery | n=673 28 (4%) | n=674 21 (3%) |
 
-Table 3: Major Bleeding Episodes following Hip or Knee Replacement SurgeryBleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease ≥2 g/dL or transfusion of 2 or more units of blood products.
+Table 3: Major Bleeding Episodes following Hip or Knee Replacement Surgery Bleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease ≥2 g/dL or transfusion of 2 or more units of blood products.
 Retroperitoneal and intracranial hemorrhages were always considered major.
 In the knee replacement surgery trials, intraocular hemorrhages were also considered major hemorrhages.
 
@@ -37,14 +37,14 @@ In the knee replacement surgery trials, intraocular hemorrhages were also consid
 | Indications | Dosing Regimen |  |  |
 | Hip Replacement Surgery without Extended ProphylaxisEnoxaparin sodium 30 mg every 12 hours subcutaneously initiated 12 to 24 hours after surgery and continued for up to 14 days after surgery | – | n=786 31 (4%) | n=541 32 (6%) |
 | Hip Replacement Surgery with Extended Prophylaxis | – | – | – |
-| Peri-operative PeriodEnoxaparin sodium 40 mg subcutaneously once a day initiated up to 12 hours prior to surgery and continued for up to 7 days after surgery | n=288 4 (2%) | – | – |
-| Extended Prophylaxis PeriodEnoxaparin sodium 40 mg subcutaneously once a day for up to 21 days after discharge | n=221 0 (0%) | – | – |
+| Peri-operative Period Enoxaparin sodium 40 mg subcutaneously once a day initiated up to 12 hours prior to surgery and continued for up to 7 days after surgery | n=288 4 (2%) | – | – |
+| Extended Prophylaxis Period Enoxaparin sodium 40 mg subcutaneously once a day for up to 21 days after discharge | n=221 0 (0%) | – | – |
 | Knee Replacement Surgery without Extended Prophylaxis | – | n=294 3 (1%) | n=225 3 (1%) |
 
 NOTE: At no time point were the 40 mg once a day pre-operative and the 30 mg every 12 hours postoperative hip replacement surgery prophylactic regimens compared in clinical trials.
 Injection site hematomas during the extended prophylaxis period after hip replacement surgery occurred in 9% of the enoxaparin sodium patients versus 1.8% of the placebo patients.
 
-Table 4: Major Bleeding Episodes in Medical Patients with Severely Restricted Mobility during Acute IllnessBleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, (2) if the hemorrhage caused a decrease in hemoglobin of ≥2 g/dL or transfusion of 2 or more units of blood products.
+Table 4: Major Bleeding Episodes in Medical Patients with Severely Restricted Mobility during Acute Illness Bleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, (2) if the hemorrhage caused a decrease in hemoglobin of ≥2 g/dL or transfusion of 2 or more units of blood products.
 Retroperitoneal and intracranial hemorrhages were always considered major although none were reported during the trial.
 
 | Enoxaparin SodiumThe rates represent major bleeding on study medication up to 24 hours after last dose. 20 mg daily subcutaneously | Enoxaparin Sodium 40 mg daily subcutaneously | Placebo |  |
@@ -52,12 +52,12 @@ Retroperitoneal and intracranial hemorrhages were always considered major althou
 | Indication | Dosing Regimen |  |  |
 | Medical Patients during Acute Illness | n=351 1 (<1%) | n=360 3 (<1%) | n=362 2 (<1%) |
 
-Table 5: Major Bleeding Episodes in Deep Vein Thrombosis with or without Pulmonary Embolism TreatmentBleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease ≥2 g/dL or transfusion of 2 or more units of blood products.
+Table 5: Major Bleeding Episodes in Deep Vein Thrombosis with or without Pulmonary Embolism Treatment Bleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease ≥2 g/dL or transfusion of 2 or more units of blood products.
 Retroperitoneal, intraocular, and intracranial hemorrhages were always considered major.
 
 | Enoxaparin Sodium 1.5 mg/kg daily subcutaneously | Enoxaparin Sodium 1 mg/kg q12h subcutaneously | Heparin aPTT Adjusted Intravenous Therapy |  |
 | --- | --- | --- | --- |
-| Indication | Dosing RegimenAll patients also received warfarin sodium (dose-adjusted according to PT to achieve an INR of 2.0 to 3.0) commencing within 72 hours of enoxaparin sodium or standard heparin therapy and continuing for up to 90 days. |  |  |
+| Indication | Dosing Regimen All patients also received warfarin sodium (dose-adjusted according to PT to achieve an INR of 2.0 to 3.0) commencing within 72 hours of enoxaparin sodium or standard heparin therapy and continuing for up to 90 days. |  |  |
 | Treatment of DVT and PE | n=298 5 (2%) | n=559 9 (2%) | n=554 9 (2%) |
 
 Table 6: Major Bleeding Episodes in Unstable Angina and Non–Q-Wave Myocardial Infarction
@@ -73,7 +73,7 @@ Table 7: Major Bleeding Episodes in Acute ST-Segment Elevation Myocardial Infarc
 | --- | --- | --- |
 |  | Dosing Regimen |  |
 | Acute ST-Segment Elevation Myocardial Infarction | n=10176 n (%) | n=10151 n (%) |
-| Major bleeding (including ICH)Bleedings were considered major if the hemorrhage caused a significant clinical event associated with a hemoglobin decrease by ≥5 g/dL. ICH were always considered major. | 211 (2.1) | 138 (1.4) |
+| Major bleeding (including ICH) Bleedings were considered major if the hemorrhage caused a significant clinical event associated with a hemoglobin decrease by ≥5 g/dL. ICH were always considered major. | 211 (2.1) | 138 (1.4) |
 | Intracranial hemorrhages (ICH) | 84 (0.8) | 66 (0.7) |
 
 Elevations of Serum Aminotransferases
@@ -107,7 +107,7 @@ Table 9: Adverse Reactions Occurring at ≥2% Incidence in Enoxaparin Sodium–T
 | Adverse Reaction | Dosing Regimen |  |  |  |  |  |  |  |  |  |
 | Enoxaparin Sodium 40 mg daily subcutaneously |  |  |  | Enoxaparin Sodium 30 mg q12h subcutaneously |  | Heparin 15,000 U/24h subcutaneously |  | Placebo q12h subcutaneously |  |  |
 | Peri-operative Period |  | Extended Prophylaxis Period |  |  |  |  |  |  |  |  |
-| n=288Data represent enoxaparin sodium 40 mg subcutaneously once a day initiated up to 12 hours prior to surgery in 288 hip replacement surgery patients who received enoxaparin sodium peri-operatively in an unblinded fashion in one clinical trial. % |  | n=131Data represent enoxaparin sodium 40 mg subcutaneously once a day given in a blinded fashion as extended prophylaxis at the end of the peri-operative period in 131 of the original 288 hip replacement surgery patients for up to 21 days in one clinical trial. % |  | n=1080 % |  | n=766 % |  | n=115 % |  |  |
+| n=288 Data represent enoxaparin sodium 40 mg subcutaneously once a day initiated up to 12 hours prior to surgery in 288 hip replacement surgery patients who received enoxaparin sodium peri-operatively in an unblinded fashion in one clinical trial. % |  | n=131 Data represent enoxaparin sodium 40 mg subcutaneously once a day given in a blinded fashion as extended prophylaxis at the end of the peri-operative period in 131 of the original 288 hip replacement surgery patients for up to 21 days in one clinical trial. % |  | n=1080 % |  | n=766 % |  | n=115 % |  |  |
 | Fever | 0 | 8 | 0 | 0 | <1 | 5 | <1 | 4 | 0 | 3 |
 | Hemorrhage | <1 | 13 | 0 | 5 | <1 | 4 | 1 | 4 | 0 | 3 |
 | Nausea | - | - | - |  | <1 | 3 | <1 | 2 | 0 | 2 |
@@ -169,7 +169,7 @@ There have been reports of epidural or spinal hematoma formation with concurrent
 The majority of patients had a postoperative indwelling epidural catheter placed for analgesia or received additional drugs affecting hemostasis such as NSAIDs.
 Many of the epidural or spinal hematomas caused neurologic injury, including long-term or permanent paralysis.
 
-Local reactions at the injection site (e.g. nodules, inflammation, oozing), systemic allergic reactions (e.g. pruritus, urticaria, anaphylactic/anaphylactoid reactions including shock), vesiculobullous rash, cases of hypersensitivity cutaneous vasculitis, purpura, skin necrosis (occurring at either the injection site or distant from the injection site), thrombocytosis, and thrombocytopenia with thrombosis [see Warnings and Precautions (5.5)] have been reported.
+Local reactions at the injection site (e.g. nodules, inflammation, oozing), systemic allergic reactions (e.g. pruritus, urticaria,anaphylactic/anaphylactoid reactions including shock), vesiculobullous rash, cases of hypersensitivity cutaneous vasculitis, purpura, skin necrosis (occurring at either the injection site or distant from the injection site), thrombocytosis, and thrombocytopenia with thrombosis [see Warnings and Precautions (5.5)] have been reported.
 
 Cases of hyperkalemia have been reported.
 Most of these reports occurred in patients who also had conditions that tend toward the development of hyperkalemia (e.g., renal dysfunction, concomitant potassium-sparing drugs, administration of potassium, hematoma in body tissues).

@@ -3,7 +3,7 @@
 ## 5.1 Increased Risk of Hemorrhage
 
 Cases of epidural or spinal hemorrhage and subsequent hematomas have been reported with the use of enoxaparin sodium and epidural or spinal anesthesia/analgesia or spinal puncture procedures, resulting in long-term or permanent paralysis.
-The risk of these events is higher with the use of postoperative indwelling epidural catheters, with the concomitant use of additional drugs affecting hemostasis such as NSAIDs, with traumatic or repeated epidural or spinal puncture, or in patients with a history of spinal surgery or spinal deformity [see Boxed Warning, Adverse Reactions (6.2) and Drug Interactions (7)].
+The risk of these events is higher with the use of postoperative indwelling epidural catheters, with the concomitant use of additional drugs affecting hemostasis such as NSAIDs, with traumatic or repeated epidural or spinal puncture, or in patients with a history of spinal surgery or spinal deformity [see Boxed Warning, Adverse Reactions (6.2)and Drug Interactions (7)].
 
 To reduce the potential risk of bleeding associated with the concurrent use of enoxaparin sodium and epidural or spinal anesthesia/analgesia or spinal puncture, consider the pharmacokinetic profile of enoxaparin [see Clinical Pharmacology (12.3)].
 Placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of enoxaparin is low; however, the exact timing to reach a sufficiently low anticoagulant effect in each patient is not known.
@@ -55,12 +55,12 @@ Because HIT may still occur in these circumstances, the decision to use enoxapar
 
 Thrombocytopenia can occur with the administration of enoxaparin sodium.
 
-Moderate thrombocytopenia (platelet counts between 100,000/mm3 and 50,000/mm3) occurred at a rate of 1.3% in patients given enoxaparin sodium, 1.2% in patients given heparin, and 0.7% in patients given placebo in clinical trials.
+Moderate thrombocytopenia (platelet counts between 100,000/mm 3and 50,000/mm 3) occurred at a rate of 1.3% in patients given enoxaparin sodium, 1.2% in patients given heparin, and 0.7% in patients given placebo in clinical trials.
 
-Platelet counts less than 50,000/mm3 occurred at a rate of 0.1% in patients given enoxaparin sodium, in 0.2% of patients given heparin, and 0.4% of patients given placebo in the same trials.
+Platelet counts less than 50,000/mm 3occurred at a rate of 0.1% in patients given enoxaparin sodium, in 0.2% of patients given heparin, and 0.4% of patients given placebo in the same trials.
 
 Thrombocytopenia of any degree should be monitored closely.
-If the platelet count falls below 100,000/mm3, enoxaparin sodium should be discontinued.
+If the platelet count falls below 100,000/mm 3, enoxaparin sodium should be discontinued.
 
 ## 5.6 Interchangeability with other Heparins
 

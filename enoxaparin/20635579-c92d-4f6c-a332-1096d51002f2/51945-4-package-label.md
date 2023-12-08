@@ -86,7 +86,7 @@ NDC 0955-1016-01
 
 Enoxaparin Sodium Injection
 
-300mg/3mL (100mg/1mL)
+300 mg/3 mL (100mg/1mL)
 
 For Subcutaneous or Intravenous Injection
 

@@ -8,28 +8,28 @@ Evaluate all patients for a bleeding disorder before starting enoxaparin sodium 
 
 Abdominal Surgery
 
-The recommended dose of enoxaparin sodium is 40 mg by subcutaneous injection once a day (with the initial dose given 2 hours prior to surgery) in patients undergoing abdominal surgery who are at risk for thromboembolic complications.
+The recommended dose of enoxaparin sodium is 40 mgby subcutaneous injection once a day (with the initial dose given 2 hours prior to surgery) in patients undergoing abdominal surgery who are at risk for thromboembolic complications.
 The usual duration of administration is 7 to 10 days [see Clinical Studies (14.1)].
 
 Hip or Knee Replacement Surgery
 
-The recommended dose of enoxaparin sodium is 30 mg every 12 hours administered by subcutaneous injection in patients undergoing hip or knee replacement surgery.
+The recommended dose of enoxaparin sodium is 30 mg every 12 hoursadministered by subcutaneous injection in patients undergoing hip or knee replacement surgery.
 Administer the initial dose 12 to 24 hours after surgery, provided that hemostasis has been established.
 The usual duration of administration is 7 to 10 days [see Clinical Studies (14.2)].
 
-A dose of enoxaparin sodium of 40 mg once a day subcutaneously may be considered for hip replacement surgery for up to 3 weeks.
+A dose of enoxaparin sodium of 40 mg once a daysubcutaneously may be considered for hip replacement surgery for up to 3 weeks.
 Administer the initial dose 12 (±3) hours prior to surgery.
 
 Medical Patients during Acute Illness
 
-The recommended dose of enoxaparin sodium is 40 mg once a day administered by subcutaneous injection for medical patients at risk for thromboembolic complications due to severely restricted mobility during acute illness.
+The recommended dose of enoxaparin sodium is 40 mg once a dayadministered by subcutaneous injection for medical patients at risk for thromboembolic complications due to severely restricted mobility during acute illness.
 The usual duration of administration is 6 to 11 days [see Clinical Studies (14.3)].
 
 Treatment of Deep Vein Thrombosis with or without Pulmonary Embolism
 
-The recommended dose of enoxaparin sodium is 1 mg/kg every 12 hours administered subcutaneously in patients with acute deep vein thrombosis without pulmonary embolism, who can be treated at home in an outpatient setting.
+The recommended dose of enoxaparin sodium is 1 mg/kg every 12 hoursadministered subcutaneously in patients with acute deep vein thrombosis without pulmonary embolism, who can be treated at home in an outpatient setting.
 
-The recommended dose of enoxaparin sodium is 1 mg/kg every 12 hours administered subcutaneously or 1.5 mg/kg once a day administered subcutaneously at the same time every day for inpatient (hospital) treatment of patients with acute deep vein thrombosis with pulmonary embolism or patients with acute deep vein thrombosis without pulmonary embolism (who are not candidates for outpatient treatment).
+The recommended dose of enoxaparin sodium is 1 mg/kg every 12 hoursadministered subcutaneously or 1.5 mg/kg once a dayadministered subcutaneously at the same time every day for inpatient (hospital) treatmentof patients with acute deep vein thrombosis with pulmonary embolism or patients with acute deep vein thrombosis without pulmonary embolism (who are not candidates for outpatient treatment).
 
 In both outpatient and inpatient (hospital) treatments, initiate warfarin sodium therapy when appropriate (usually within 72 hours of enoxaparin sodium).
 Continue enoxaparin sodium for a minimum of 5 days and until a therapeutic oral anticoagulant effect has been achieved (International Normalization Ratio 2 to 3).
@@ -37,13 +37,13 @@ The average duration of administration is 7 days [see Clinical Studies (14.4)].
 
 Unstable Angina and Non–Q-Wave Myocardial Infarction
 
-The recommended dose of enoxaparin sodium is 1 mg/kg administered subcutaneously every 12 hours in conjunction with oral aspirin therapy (100 to 325 mg once daily) in patients with unstable angina or non–Q-wave myocardial infarction.
+The recommended dose of enoxaparin sodium is 1 mg/kgadministered subcutaneously every 12 hoursin conjunction with oral aspirin therapy (100 to 325 mg once daily) in patients with unstable angina or non–Q-wave myocardial infarction.
 Treat with enoxaparin sodium for a minimum of 2 days and continue until clinical stabilization.
-The usual duration of treatment is 2 to 8 days [see Warnings and Precautions (5.2) and Clinical Studies (14.5)].
+The usual duration of treatment is 2 to 8 days [see Warnings and Precautions (5.2)and Clinical Studies (14.5)].
 
 Treatment of Acute ST-Segment Elevation Myocardial Infarction
 
-The recommended dose of enoxaparin sodium is a single intravenous bolus of 30 mg plus a 1 mg/kg subcutaneous dose followed by 1 mg/kg administered subcutaneously every 12 hours (maximum 100 mg for the first two doses only, followed by 1 mg/kg dosing for the remaining doses) in patients with acute ST-segment elevation myocardial infarction.
+The recommended dose of enoxaparin sodium is a single intravenous bolus of 30 mgplus a 1 mg/kg subcutaneous dose followed by 1 mg/kg administered subcutaneously every 12 hours (maximum 100 mg for the first two doses only, followed by 1 mg/kg dosing for the remaining doses) in patients with acute ST-segment elevation myocardial infarction.
 Reduce the dosage in patients ≥75 years of age [see Dosage and Administration (2.4)].
 Unless contraindicated, administer aspirin to all patients as soon as they are identified as having STEMI and continue dosing with 75 to 325 mg once daily.
 
@@ -55,7 +55,7 @@ If the last enoxaparin sodium subcutaneous administration was given more than 8 
 
 ## 2.3 Dose Reduction for Patients with Severe Renal Impairment
 
-The recommended prophylaxis and treatment dosage regimens for patients with severe renal impairment (creatinine clearance <30 mL/min) are described in Table 1 [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+The recommended prophylaxis and treatment dosage regimens for patients with severe renal impairment (creatinine clearance <30 mL/min) are described in Table 1 [see Use in Specific Populations (8.7)and Clinical Pharmacology (12.3)].
 
 Table 1: Dosage Regimens for Patients with Severe Renal Impairment (creatinine clearance <30 mL/minute)
 
@@ -75,7 +75,7 @@ Although no dose adjustment is recommended in patients with creatinine clearance
 ## 2.4 Recommended Dosage for Geriatric Patients with Acute ST-Segment Elevation Myocardial Infarction
 
 For treatment of acute ST-segment elevation myocardial infarction in geriatric patients ≥75 years of age, do not use an initial intravenous bolus.
-Initiate dosing with 0.75 mg/kg subcutaneously every 12 hours (maximum 75 mg for the first two doses only, followed by 0.75 mg/kg dosing for the remaining doses) [see Use in Specific Populations (8.5) and Clinical Pharmacology (12.3)].
+Initiate dosing with 0.75 mg/kg subcutaneously every 12 hours (maximum 75 mg for the first two doses only, followed by 0.75 mg/kg dosing for the remaining doses)[see Use in Specific Populations (8.5)and Clinical Pharmacology (12.3)].
 
 No dose adjustment is necessary for other indications in geriatric patients unless kidney function is impaired [see Dosage and Administration (2.2)].
 

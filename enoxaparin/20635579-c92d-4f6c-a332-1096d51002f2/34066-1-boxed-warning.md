@@ -14,4 +14,4 @@ Factors that can increase the risk of developing epidural or spinal hematomas in
 Monitor patients frequently for signs and symptoms of neurological impairment.
 If neurological compromise is noted, urgent treatment is necessary.
 
-Consider the benefits and risks before neuraxial intervention in patients anticoagulated or to be anticoagulated for thromboprophylaxis [see Warnings and Precautions (5.1) and Drug Interactions (7)].
+Consider the benefits and risks before neuraxial intervention in patients anticoagulated or to be anticoagulated for thromboprophylaxis [see Warnings and Precautions (5.1)and Drug Interactions (7)].

@@ -16,7 +16,7 @@ Table 14: Efficacy of Enoxaparin Sodium in the Prophylaxis of Deep Vein Thrombos
 | --- | --- | --- |
 | Indication | Enoxaparin Sodium 40 mg daily subcutaneously n (%) | Heparin 5000 U q8h subcutaneously n (%) |
 | All Treated Abdominal Surgery Patients | 555 (100) | 560 (100) |
-| Treatment Failures Total VTEVTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin (%) | 56 (10.1) (95% CICI = Confidence Interval: 8 to 13) | 63 (11.3) (95% CI: 9 to 14) |
+| Treatment Failures Total VTE VTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin(%) | 56 (10.1) (95% CI CI = Confidence Interval: 8 to 13) | 63 (11.3) (95% CI: 9 to 14) |
 | DVT Only (%) | 54 (9.7) (95% CI: 7 to 12) | 61 (10.9) (95% CI: 8 to 13) |
 
 In a second double-blind, parallel group study, enoxaparin sodium 40 mg subcutaneously once a day was compared to heparin 5000 U every 8 hours subcutaneously in patients undergoing colorectal surgery (one-third with cancer).
@@ -31,7 +31,7 @@ Table 15: Efficacy of Enoxaparin Sodium in the Prophylaxis of Deep Vein Thrombos
 | --- | --- | --- |
 | Indication | Dosing Regimen |  |
 | All Treated Colorectal Surgery Patients | 673 (100) | 674 (100) |
-| Treatment Failures Total VTEVTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin (%) | 48 (7.1) (95% CICI = Confidence Interval: 5 to 9) | 45 (6.7) (95% CI: 5 to 9) |
+| Treatment Failures Total VTE VTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin(%) | 48 (7.1) (95% CI CI = Confidence Interval: 5 to 9) | 45 (6.7) (95% CI: 5 to 9) |
 | DVT Only (%) | 47 (7.0) (95% CI: 5 to 9) | 44 (6.5) (95% CI: 5 to 8) |
 
 ## 14.2 Prophylaxis of Deep Vein Thrombosis following Hip or Knee Replacement Surgery
@@ -50,8 +50,8 @@ Table 16: Efficacy of Enoxaparin Sodium in the Prophylaxis of Deep Vein Thrombos
 | --- | --- | --- |
 | Indication | Dosing Regimen |  |
 | All Treated Hip Replacement Patients | 50 (100) | 50 (100) |
-| Treatment Failures Total DVT (%) | 5 (10)p value versus placebo = 0.0002 | 23 (46) |
-| Proximal DVT (%) | 1 (2)p value versus placebo = 0.0134 | 11 (22) |
+| Treatment Failures Total DVT (%) | 5 (10) p value versus placebo = 0.0002 | 23 (46) |
+| Proximal DVT (%) | 1 (2) p value versus placebo = 0.0134 | 11 (22) |
 
 A double-blind, multicenter study compared three dosing regimens of enoxaparin sodium in patients with hip replacement.
 A total of 572 patients were randomized in the study and 568 patients were treated.
@@ -66,12 +66,12 @@ Table 17: Efficacy of Enoxaparin Sodium in the Prophylaxis of Deep Vein Thrombos
 | --- | --- | --- | --- |
 |  | Dosing Regimen |  |  |
 | All Treated Hip Replacement Patients | 161 (100) | 208 (100) | 199 (100) |
-| Treatment Failures Total DVT (%) | 40 (25) | 22 (11)p value versus enoxaparin sodium 10 mg once a day = 0.0008 | 27 (14) |
-| Proximal DVT (%) | 17 (11) | 8 (4)p value versus enoxaparin sodium 10 mg once a day = 0.0168 | 9 (5) |
+| Treatment Failures Total DVT (%) | 40 (25) | 22 (11) p value versus enoxaparin sodium 10 mg once a day = 0.0008 | 27 (14) |
+| Proximal DVT (%) | 17 (11) | 8 (4) p value versus enoxaparin sodium 10 mg once a day = 0.0168 | 9 (5) |
 
 There was no significant difference between the 30 mg every 12 hours and 40 mg once a day regimens.
 In a double-blind study, enoxaparin sodium 30 mg every 12 hours subcutaneously was compared to placebo in patients undergoing knee replacement surgery.
-A total of 132 patients were randomized in the study and 131 patients were treated, of which 99 had total knee replacement and 32 had either unicompartmental knee replacement or tibial osteotomy.
+A total of 132 patients were randomized in the study and 131 patients were treated,of which 99 had total knee replacement and 32 had either unicompartmental knee replacement or tibial osteotomy.
 The 99 patients with total knee replacement ranged in age from 42 to 85 years (mean age 70.2 years) with 36.4% men and 63.6% women.
 After hemostasis was established, treatment was initiated 12 to 24 hours after surgery and was continued up to 15 days after surgery.
 The incidence of proximal and total DVT after surgery was significantly lower for enoxaparin sodium compared to placebo.
@@ -83,8 +83,8 @@ Table 18: Efficacy of Enoxaparin Sodium in the Prophylaxis of Deep Vein Thrombos
 | --- | --- | --- |
 | Indication | Dosing Regimen |  |
 | All Treated Total Knee Replacement Patients | 47 (100) | 52 (100) |
-| Treatment Failures Total DVT (%) | 5 (11)p value versus placebo = 0.0001 (95% CICI = Confidence Interval: 1 to 21) | 32 (62) (95% CI: 47 to 76) |
-| Proximal DVT (%) | 0 (0)p value versus placebo = 0.013 (95% Upper CLCL = Confidence Limit: 5) | 7 (13) (95% CI: 3 to 24) |
+| Treatment Failures Total DVT (%) | 5 (11) p value versus placebo = 0.0001 (95% CI CI = Confidence Interval: 1 to 21) | 32 (62) (95% CI: 47 to 76) |
+| Proximal DVT (%) | 0 (0) p value versus placebo = 0.013 (95% Upper CL CL = Confidence Limit: 5) | 7 (13) (95% CI: 3 to 24) |
 
 Additionally, in an open-label, parallel group, randomized clinical study, enoxaparin sodium 30 mg every 12 hours subcutaneously in patients undergoing elective knee replacement surgery was compared to heparin 5000 U every 8 hours subcutaneously.
 A total of 453 patients were randomized in the study and all were treated.
@@ -107,8 +107,8 @@ Table 19: Efficacy of Enoxaparin Sodium in the Extended Prophylaxis of Deep Vein
 | --- | --- | --- |
 | Indication (Post Discharge) | Post-discharge Dosing Regimen |  |
 | All Treated Extended Prophylaxis Patients | 90 (100) | 89 (100) |
-| Treatment Failures Total DVT (%) | 6 (7)p value versus placebo = 0.008 (95% CICI= Confidence Interval: 3 to 14) | 18 (20) (95% CI: 12 to 30) |
-| Proximal DVT (%) | 5 (6)p value versus placebo = 0.537 (95% CI: 2 to 13) | 7 (8) (95% CI: 3 to 16) |
+| Treatment Failures Total DVT (%) | 6 (7) p value versus placebo = 0.008 (95% CI CI= Confidence Interval: 3 to 14) | 18 (20) (95% CI: 12 to 30) |
+| Proximal DVT (%) | 5 (6) p value versus placebo = 0.537 (95% CI: 2 to 13) | 7 (8) (95% CI: 3 to 16) |
 
 In a second study, patients undergoing hip replacement surgery were treated, while hospitalized, with enoxaparin sodium 40 mg subcutaneously, initiated up to 12 hours prior to surgery.
 All patients were examined for clinical signs and symptoms of venous thromboembolic (VTE) disease.
@@ -134,8 +134,8 @@ Table 20: Efficacy of Enoxaparin Sodium in the Prophylaxis of Deep Vein Thrombos
 | Indication | Dosing Regimen |  |  |
 | Enoxaparin Sodium 20 mg daily subcutaneously | Enoxaparin Sodium 40 mg daily subcutaneously | Placebo |  |
 | All Treated Medical Patients during Acute Illness | 351 (100) | 360 (100) | 362 (100) |
-| Treatment FailureTreatment failures during therapy, between Days 1 and 14 Total VTEVTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin (%) | 43 (12.3) | 16 (4.4) | 43 (11.9) |
-| Total DVT (%) | 43 (12.3) (95% CI = Confidence Interval: 8.8 to 15.7) | 16 (4.4) (95% CI: 2.3 to 6.6) | 41 (11.3) (95% CI: 8.1 to 14.6) |
+| Treatment Failure Treatment failures during therapy, between Days 1 and 14 Total VTE VTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin(%) | 43 (12.3) | 16 (4.4) | 43 (11.9) |
+| Total DVT (%) | 43 (12.3) (95% CI = Confidence Interval:8.8 to 15.7) | 16 (4.4) (95% CI:2.3 to 6.6) | 41 (11.3) (95% CI:8.1 to 14.6) |
 | Proximal DVT (%) | 13 (3.7) | 5 (1.4) | 14 (3.9) |
 
 At approximately 3 months following enrollment, the incidence of venous thromboembolism remained lower in the enoxaparin sodium 40 mg treatment group versus the placebo treatment group.
@@ -157,7 +157,7 @@ Table 21: Efficacy of Enoxaparin Sodium in Treatment of Deep Vein Thrombosis wit
 | Indication | Dosing Regimen All patients were also treated with warfarin sodium commencing within 72 hours of enoxaparin sodium or standard heparin therapy. |  |  |
 | Enoxaparin Sodium 1.5 mg/kg daily subcutaneously | Enoxaparin Sodium 1 mg/kg q12h subcutaneously | Heparin aPTT Adjusted Intravenous Therapy |  |
 | All Treated DVT Patients with or without PE | 298 (100) | 312 (100) | 290 (100) |
-| Patient Outcome Total VTEVTE = venous thromboembolic event (DVT and/or PE) (%) | 13 (4.4)The 95% Confidence Intervals for the treatment differences for total VTE were: Enoxaparin sodium once a day versus heparin (-3.0 to 3.5) Enoxaparin sodium every 12 hours versus heparin (-4.2 to 1.7) | 9 (2.9) | 12 (4.1) |
+| Patient Outcome Total VTE VTE = venous thromboembolic event (DVT and/or PE)(%) | 13 (4.4) The 95% Confidence Intervals for the treatment differences for total VTE were: Enoxaparin sodium once a day versus heparin (-3.0 to 3.5) Enoxaparin sodium every 12 hours versus heparin (-4.2 to 1.7) | 9 (2.9) | 12 (4.1) |
 | DVT Only (%) | 11 (3.7) | 7 (2.2) | 8 (2.8) |
 | Proximal DVT (%) | 9 (3.0) | 6 (1.9) | 7 (2.4) |
 | PE (%) | 2 (0.7) | 2 (0.6) | 4 (1.4) |
@@ -178,10 +178,10 @@ Table 22: Efficacy of Enoxaparin Sodium in Treatment of Deep Vein Thrombosis
 
 | n (%) | n (%) |  |
 | --- | --- | --- |
-| Indication | Dosing RegimenAll patients were also treated with warfarin sodium commencing on the evening of the second day of enoxaparin sodium or standard heparin therapy. |  |
+| Indication | Dosing Regimen All patients were also treated with warfarin sodium commencing on the evening of the second day of enoxaparin sodium or standard heparin therapy. |  |
 | Enoxaparin Sodium 1 mg/kg q12h subcutaneously | Heparin aPTT Adjusted Intravenous Therapy |  |
 | All Treated DVT Patients | 247 (100) | 254 (100) |
-| Patient Outcome Total VTEVTE = venous thromboembolic event (deep vein thrombosis [DVT] and/or pulmonary embolism [PE]). (%) | 13 (5.3)The 95% Confidence Intervals for the treatment difference for total VTE was: enoxaparin sodium versus heparin (-5.6 to 2.7). | 17 (6.7) |
+| Patient Outcome Total VTE VTE = venous thromboembolic event (deep vein thrombosis [DVT] and/or pulmonary embolism [PE]).(%) | 13 (5.3) The 95% Confidence Intervals for the treatment difference for total VTE was: enoxaparin sodium versus heparin (-5.6 to 2.7). | 17 (6.7) |
 | DVT Only (%) | 11 (4.5) | 14 (5.5) |
 | Proximal DVT (%) | 10 (4.0) | 12 (4.7) |
 | PE (%) | 2 (0.8) | 3 (1.2) |
@@ -192,7 +192,7 @@ In a multicenter, double-blind, parallel group study, patients who recently expe
 A total of 3171 patients were enrolled in the study, and 3107 patients were treated.
 Patients ranged in age from 25 to 94 years (median age 64 years), with 33.4% of patients female and 66.6% male.
 Race was distributed as follows: 89.8% Caucasian, 4.8% Black, 2.0% Asian, and 3.5% other.
-All patients were also treated with aspirin 100 to 325 mg per day.
+Allpatients were also treated with aspirin 100 to 325 mg per day.
 Treatment was initiated within 24 hours of the event and continued until clinical stabilization, revascularization procedures, or hospital discharge, with a maximal duration of 8 days of therapy.
 The combined incidence of the triple endpoint of death, myocardial infarction, or recurrent angina was lower for enoxaparin sodium compared with heparin therapy at 14 days after initiation of treatment.
 The lower incidence of the triple endpoint was sustained up to 30 days after initiation of treatment.
@@ -203,10 +203,10 @@ Table 23: Efficacy of Enoxaparin Sodium in the Prophylaxis of Ischemic Complicat
 
 | n (%) |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Indication | Dosing RegimenAll patients were also treated with aspirin 100 to 325 mg per day. |  |  |  |
+| Indication | Dosing Regimen All patients were also treated with aspirin 100 to 325 mg per day. |  |  |  |
 | Enoxaparin Sodium 1 mg/kg q12h subcutaneously | Heparin aPTT Adjusted Intravenous Therapy n (%) | Reduction (%) | p Value |  |
 | All Treated Unstable Angina and Non–Q-Wave MI Patients | 1578 (100) | 1529 (100) | - | - |
-| Time pointEvaluation time points are after initiation of treatment. Therapy continued for up to 8 days (median duration of 2.6 days). 48 Hours | 96 (6.1) | 112 (7.3) | 1.2 | 0.120 |
+| Time point Evaluation time points are after initiation of treatment. Therapy continued for up to 8 days (median duration of 2.6 days). 48 Hours | 96 (6.1) | 112 (7.3) | 1.2 | 0.120 |
 | 14 Days | 261 (16.5) | 303 (19.8) | 3.3 | 0.017 |
 | 30 Days | 313 (19.8) | 358 (23.4) | 3.6 | 0.014 |
 
@@ -217,10 +217,10 @@ Table 24: Efficacy of Enoxaparin Sodium in the Prophylaxis of Ischemic Complicat
 
 | n (%) |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Indication | Dosing RegimenAll patients were also treated with aspirin 100 to 325 mg per day. |  |  |  |
+| Indication | Dosing Regimen All patients were also treated with aspirin 100 to 325 mg per day. |  |  |  |
 | Enoxaparin Sodium 1 mg/kg q12h subcutaneously | Heparin aPTT Adjusted Intravenous Therapy n (%) | Reduction (%) | p Value |  |
 | All Treated Unstable Angina and Non–Q-Wave MI Patients | 1578 (100) | 1529 (100) |  |  |
-| Time pointEvaluation time points are after initiation of treatment. Therapy continued for up to 8 days (median duration of 2.6 days). 48 Hours | 16 (1.0) | 20 (1.3) | 0.3 | 0.126 |
+| Time point Evaluation time points are after initiation of treatment. Therapy continued for up to 8 days (median duration of 2.6 days). 48 Hours | 16 (1.0) | 20 (1.3) | 0.3 | 0.126 |
 | 14 Days | 76 (4.8) | 93 (6.1) | 1.3 | 0.115 |
 | 30 Days | 96 (6.1) | 118 (7.7) | 1.6 | 0.069 |
 

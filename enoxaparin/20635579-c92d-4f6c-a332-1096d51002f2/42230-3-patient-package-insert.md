@@ -8,13 +8,12 @@ This Instructions for Use contains information on how to prepare and inject enox
 
 Read this Instructions for Use before using the enoxaparin sodium prefilled syringe and each time you get a new prescription.
 There may be new information.
-Do not inject yourself or someone else until you have been shown how to inject enoxaparin sodium.
-Your healthcare provider can show you or your caregiver how to prepare and inject a dose of enoxaparin sodium.
+Do not inject yourself or someone else until you have been shown how to inject enoxaparin sodium.Your healthcare provider can show you or your caregiver how to prepare and inject a dose of enoxaparin sodium.
 Call your healthcare provider if you have any questions.
 
 Important information:
 
-| Your healthcare provider will tell you the prescribed dose that you should take and how often you will need to inject enoxaparin sodium. If your dose is based on your body weight, your dose of enoxaparin sodium might be less than what is in the prefilled syringe.Enoxaparin sodium is injected as a subcutaneous (under the skin) injection only. Do not inject enoxaparin sodium into muscle.Do not use the enoxaparin sodium prefilled syringe if the needle cap is missing or not securely attached.Do not remove the needle cap until just before you give the injection.Do not touch the syringe plunger rod until you are ready to inject. Do not pull back on the plunger rod at any time. | Do not get rid of any air bubble(s) in the enoxaparin sodium prefilled syringe. This can lead to a loss of the medicine.To avoid bruising, do not rub the injection site after you have injected yourself.To protect from needle-stick injuries, each prefilled syringe has a safety system that covers the needle after injection.Throw away (dispose of) the used enoxaparin sodium prefilled syringe and needle cap right away after use, even if there is medicine left in the prefilled syringe. See "Step 13: Dispose of used enoxaparin sodium prefilled syringes and needle caps" below.Enoxaparin sodium injection is for one time use only. Do not reuse an enoxaparin sodium prefilled syringe. |
+| Your healthcare provider will tell you the prescribed dose that you should take and how often you will need to inject enoxaparin sodium. If your dose is based on your body weight, your dose of enoxaparin sodium might be less than what is in the prefilled syringe.Enoxaparin sodium is injected as a subcutaneous (under the skin) injection only. Do notinject enoxaparin sodium into muscle. Do notuse the enoxaparin sodium prefilled syringe if the needle cap is missing or not securely attached. Do notremove the needle cap until just before you give the injection. Do nottouch the syringe plunger rod until you are ready to inject. Do notpull back on the plunger rod at any time. | Do notget rid of any air bubble(s) in the enoxaparin sodium prefilled syringe. This can lead to a loss of the medicine. To avoid bruising, do notrub the injection site after you have injected yourself. To protect from needle-stick injuries, each prefilled syringe has a safety system that covers the needle after injection.Throw away (dispose of) the used enoxaparin sodium prefilled syringe and needle cap right away after use, even if there is medicine left in the prefilled syringe. See " Step 13: Dispose of used enoxaparin sodium prefilled syringes and needle caps" below. Enoxaparin sodium injection is for one time use only. Do not reuse an enoxaparin sodium prefilled syringe. |
 | --- | --- |
 
 Storing enoxaparin sodium prefilled syringes:
@@ -27,10 +26,10 @@ Parts of enoxaparin sodium prefilled syringe:
 
 Preparing to inject enoxaparin sodium:
 
-Step 1: Gather the following supplies for your injection (see Figure A):
+Step 1: Gather the following supplies for your injection(see Figure A):
 
 - 1 enoxaparin sodium prefilled syringe
-- 1 alcohol wipeItems not included.
+- 1 alcohol wipe Items not included.
 - 1 cotton ball or gauze
 - a small adhesive bandage, if needed
 - a sharps disposal container (see Step 13)
@@ -66,7 +65,7 @@ Step 5: Check the medicine
 
 - Look at the medicine inside the enoxaparin sodium prefilled syringe:
   - The liquid should be clear and colorless to pale yellow (see Figure D).
-  - Note: You may see air bubble(s), this is normal.
+  - Note:You may see air bubble(s), this is normal.
     Do not try to remove any air bubbles.
 - Do not use the enoxaparin sodium prefilled syringe if the liquid is discolored or cloudy, or if it contains visible flakes or particles.
 

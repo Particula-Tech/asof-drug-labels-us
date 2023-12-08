@@ -15,7 +15,7 @@ In the U.S. general population, the estimated background risk of major birth def
 Clinical Considerations
 
 Pregnancy alone confers an increased risk for thromboembolism that is even higher for women with thromboembolic disease and certain high risk pregnancy conditions.
-While not adequately studied, pregnant women with mechanical prosthetic heart valves may be at even higher risk for thrombosis [see Warnings and Precautions (5.7) and Use in Specific Populations (8.6)].
+While not adequately studied, pregnant women with mechanical prosthetic heart valves may be at even higher risk for thrombosis [see Warnings and Precautions (5.7)and Use in Specific Populations (8.6)].
 Pregnant women with thromboembolic disease, including those with mechanical prosthetic heart valves and those with inherited or acquired thrombophilias, have an increased risk of other maternal complications and fetal loss regardless of the type of anticoagulant used.
 
 All patients receiving anticoagulants, including pregnant women, are at risk for bleeding.
@@ -88,7 +88,7 @@ Serious adverse events increased with age for patients receiving enoxaparin sodi
 Other clinical experience (including postmarketing surveillance and literature reports) has not revealed additional differences in the safety of enoxaparin sodium between geriatric and younger patients.
 Careful attention to dosing intervals and concomitant medications (especially antiplatelet medications) is advised.
 Enoxaparin sodium should be used with care in geriatric patients who may show delayed elimination of enoxaparin.
-Monitoring of geriatric patients with low body weight (<45 kg) and those predisposed to decreased renal function should be considered [see Warnings and Precautions (2.6) and Clinical Pharmacology (12.3)].
+Monitoring of geriatric patients with low body weight (<45 kg) and those predisposed to decreased renal function should be considered [see Warnings and Precautions (2.6)and Clinical Pharmacology (12.3)].
 
 Treatment of Acute ST-Segment Elevation Myocardial Infarction
 
@@ -109,7 +109,7 @@ Pregnant women with mechanical prosthetic heart valves may be at higher risk for
 In patients with renal impairment, there is an increase in exposure of enoxaparin sodium.
 All such patients should be observed carefully for signs and symptoms of bleeding.
 Because exposure of enoxaparin sodium is significantly increased in patients with severe renal impairment (creatinine clearance <30 mL/min), a dosage adjustment is recommended for therapeutic and prophylactic dosage ranges.
-No dosage adjustment is recommended in patients with creatinine clearance 30 to <50 mL/min and creatinine clearance 50 to 80 mL/min [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+No dosage adjustment is recommended in patients with creatinine clearance 30 to <50 mL/min and creatinine clearance 50 to 80 mL/min [see Dosage and Administration (2.3)and Clinical Pharmacology (12.3)].
 In patients with renal failure, treatment with enoxaparin has been associated with the development of hyperkalemia [see Adverse Reactions (6.2)].
 
 ## 8.8 Low-Weight Patients
@@ -120,5 +120,5 @@ Observe low-weight patients frequently for signs and symptoms of bleeding [see C
 ## 8.9 Obese Patients
 
 Obese patients are at higher risk for thromboembolism.
-The safety and efficacy of prophylactic doses of enoxaparin sodium in obese patients (BMI >30 kg/m2) has not been fully determined and there is no consensus for dose adjustment.
+The safety and efficacy of prophylactic doses of enoxaparin sodium in obese patients (BMI >30 kg/m 2) has not been fully determined and there is no consensus for dose adjustment.
 Observe these patients carefully for signs and symptoms of thromboembolism.
