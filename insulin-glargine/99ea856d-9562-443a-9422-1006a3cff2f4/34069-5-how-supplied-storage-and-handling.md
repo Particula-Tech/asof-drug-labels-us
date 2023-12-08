@@ -11,7 +11,7 @@ INSULIN GLARGINE U-300 (insulin glargine) injection 300 units/mL is a clear and 
 
 Needles are not included in the packs of INSULIN GLARGINE U-300 SoloStar or INSULIN GLARGINE U-300 Max SoloStar single-patient-use prefilled pen.
 
-BD (such as BD Ultra-Fine®), Ypsomed (such as Clickfine®) or Owen Mumford (such as Unifine® Pentips®) needlesOther brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC. can be used in conjunction with INSULIN GLARGINE U-300 SoloStar or INSULIN GLARGINE U-300 Max SoloStar single-patient-use prefilled pen and are sold separately.
+BD (such as BD Ultra-Fine ®), Ypsomed (such as Clickfine ®) or Owen Mumford (such as Unifine ®Pentips ®) needles Other brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC.can be used in conjunction with INSULIN GLARGINE U-300 SoloStar or INSULIN GLARGINE U-300 Max SoloStar single-patient-use prefilled pen and are sold separately.
 
 A new sterile needle must be attached before each injection.
 INSULIN GLARGINE U-300 SoloStar or INSULIN GLARGINE U-300 Max SoloStar single-patient-use prefilled pens must never be shared between patients, even if the needle is changed.
@@ -26,7 +26,7 @@ Protect INSULIN GLARGINE U-300 SoloStar/INSULIN GLARGINE U-300 Max SoloStar from
 
 Storage conditions are summarized in the following table:
 
-|  | Not in-use (unopened) Refrigerated 36°F–46°F (2°C–8°C) | In-use (opened)To prevent degradation, always store the prefilled pens with the cap on during in-use period. Room temperature only (Do not refrigerate) up to 86°F (30°C) |
+|  | Not in-use (unopened) Refrigerated 36°F–46°F (2°C–8°C) | In-use (opened) To prevent degradation, always store the prefilled pens with the cap on during in-use period. Room temperature only (Do not refrigerate) up to 86°F (30°C) |
 | --- | --- | --- |
 | 1.5 mL INSULIN GLARGINE U-300 SoloStar single-patient-use prefilled pen | Until expiration date | 56 days |
 | 3 mL INSULIN GLARGINE U-300 Max SoloStar single-patient-use prefilled pen | Until expiration date | 56 days |

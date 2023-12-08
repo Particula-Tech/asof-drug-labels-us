@@ -15,14 +15,14 @@ The pharmacodynamic profiles for insulin glargine given subcutaneously as a sing
 Single-Dose Pharmacodynamics
 
 The pharmacodynamics for single 0.4, 0.6, and 0.9 U/kg doses of insulin glargine in 24 patients with type 1 diabetes mellitus was evaluated in a euglycemic clamp study.
-On a unit-to-unit basis, insulin glargine had a lower maximum (GIRmax) and 24-hour glucose lowering effect (GIR-AUC0–24) compared to LANTUS.
+On a unit-to-unit basis, insulin glargine had a lower maximum (GIR max) and 24-hour glucose lowering effect (GIR-AUC 0–24) compared to LANTUS.
 The overall glucose lowering effect of insulin glargine 0.4 U/kg was 12% of the glucose lowering effect of an equivalent dose of LANTUS.
 Glucose lowering at least 30% of the effect of a single 0.4 U/kg dose of LANTUS was not observed until the single dose of insulin glargine exceeded 0.6 U/kg.
 
 Multiple Once-Daily Dose Pharmacodynamics
 
 The pharmacodynamics of insulin glargine after 8 days of daily injection was evaluated in 30 patients with type 1 diabetes.
-At steady state, the 24-hour glucose lowering effect (GIR-AUC0–24) of insulin glargine 0.4 U/kg was approximately 27% lower with a different distribution profile than that of an equivalent dose of LANTUS [see Dosage and Administration (2), Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)].
+At steady state, the 24-hour glucose lowering effect (GIR-AUC 0–24) of insulin glargine 0.4 U/kg was approximately 27% lower with a different distribution profile than that of an equivalent dose of LANTUS [see Dosage and Administration (2), Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)].
 The glucose lowering effect of an insulin glargine dose increased with each daily administration.
 
 The pharmacodynamic profile for insulin glargine given subcutaneously as multiple once-daily subcutaneous injections of 0.4 U/kg in a euglycemic clamp study in patients with type 1 diabetes is shown in Figure 1.
@@ -45,8 +45,8 @@ After subcutaneous injection of insulin glargine, the intra-subject variability,
 
 Elimination
 
-After subcutaneous injection of insulin glargine in diabetic patients, insulin glargine is metabolized at the carboxyl terminus of the B-chain with formation of two active metabolites M1 (21A-Gly-insulin) and M2 (21A-Gly-des-30B-Thr-insulin).
-The in vitro activity of M1 and M2 were similar to that of human insulin.
+After subcutaneous injection of insulin glargine in diabetic patients, insulin glargine is metabolized at the carboxyl terminus of the B-chain with formation of two active metabolites M1 (21 A-Gly-insulin) and M2 (21 A-Gly-des-30 B-Thr-insulin).
+The in vitroactivity of M1 and M2 were similar to that of human insulin.
 
 Specific Populations
 

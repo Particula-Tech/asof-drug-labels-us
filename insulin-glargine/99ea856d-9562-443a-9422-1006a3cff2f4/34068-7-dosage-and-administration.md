@@ -26,7 +26,7 @@
 - During changes to a patient's insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
 - Individualize and titrate the dosage of INSULIN GLARGINE U-300 based on the patient's metabolic needs, blood glucose monitoring results, and glycemic control goal.
 - Titrate the dose of INSULIN GLARGINE U-300 no more frequently than every 3 to 4 days.
-- Dosage adjustments may be needed with changes in physical activity, changes in meal patterns (i.e., macronutrient content or timing of food intake), changes in renal or hepatic function or during acute illness to minimize the risk of hypoglycemia or hyperglycemia [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6, 8.7)].
+- Dosage adjustments may be needed with changes in physical activity, changes in meal patterns (i.e., macronutrient content or timing of food intake), changes in renal or hepatic function or during acute illness to minimize the risk of hypoglycemia or hyperglycemia [see Warnings and Precautions (5.2)and Use in Specific Populations (8.6, 8.7)].
 
 ## 2.3 Starting Dose in Insulin-Naive Pediatric and Adult Patients
 
@@ -47,6 +47,6 @@ Recommended Starting Dosage in Patients with Type 2 Diabetes
 Dosage adjustments are recommended to lower the risk of hypoglycemia when switching patients to INSULIN GLARGINE U-300 from another insulin therapy [see Warnings and Precautions (5.3)].
 
 - For patients currently on once-daily long or intermediate-acting insulin, start INSULIN GLARGINE U-300 at the same unit dose as the once-daily long-acting insulin dose.
-  For patients controlled on LANTUS (insulin glargine, 100 units/mL), expect that a higher daily dose of INSULIN GLARGINE U-300 will be needed to maintain the same level of glycemic control [see Clinical Pharmacology (12.2) and Clinical Studies (14.1)].
+  For patients controlled on LANTUS (insulin glargine, 100 units/mL), expect that a higher daily dose of INSULIN GLARGINE U-300 will be needed to maintain the same level of glycemic control [see Clinical Pharmacology (12.2)and Clinical Studies (14.1)].
 - For patients currently on twice-daily long or intermediate-acting insulin, start INSULIN GLARGINE U-300 at 80% of the total daily NPH or insulin detemir twice-daily dosage.
-- When switching patients to INSULIN GLARGINE U-300, monitor glucose frequently in the first weeks of therapy [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)].
+- When switching patients to INSULIN GLARGINE U-300, monitor glucose frequently in the first weeks of therapy [see Warnings and Precautions (5.2)and Clinical Pharmacology (12.2)].

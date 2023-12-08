@@ -24,7 +24,7 @@ Higher doses of insulin glargine were required to achieve similar levels of gluc
 
 The onset of action of insulin glargine develops over 6 hours following an injection.
 In type 1 diabetes patients treated with IV insulin, consider the longer onset of action of insulin glargine before stopping IV insulin.
-The full glucose lowering effect may not be apparent for at least 5 days [see Dosage and Administration (2.2) and Clinical Pharmacology (12.2)].
+The full glucose lowering effect may not be apparent for at least 5 days [see Dosage and Administration (2.2)and Clinical Pharmacology (12.2)].
 
 To minimize the risk of hyperglycemia when initiating INSULIN GLARGINE U-300 monitor glucose daily, titrate INSULIN GLARGINE U-300 as described in this prescribing information, and adjust coadministered glucose-lowering therapies per standard of care [see Dosage and Administration (2.2, 2.3)].
 
@@ -57,7 +57,7 @@ To minimize the risk of hypoglycemia, do not administer INSULIN GLARGINE U-300 i
 Accidental mix-ups between insulin products have been reported.
 To avoid medication errors between INSULIN GLARGINE U-300 and other insulins, instruct patients to always check the insulin label before each injection.
 
-To avoid dosing errors and potential overdose, never use a syringe to remove INSULIN GLARGINE U-300 from the INSULIN GLARGINE U-300 SoloStar or INSULIN GLARGINE U-300 Max SoloStar prefilled pen into a syringe [see Dosage and Administration (2.4) and Warnings and Precautions (5.3)].
+To avoid dosing errors and potential overdose, never use a syringe to remove INSULIN GLARGINE U-300 from the INSULIN GLARGINE U-300 SoloStar or INSULIN GLARGINE U-300 Max SoloStar prefilled pen into a syringe [see Dosage and Administration (2.4)and Warnings and Precautions (5.3)].
 
 ## 5.5 Hypersensitivity Reactions
 

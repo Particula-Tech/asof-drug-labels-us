@@ -4,7 +4,7 @@ Winthrop A SANOFI COMPANY
 
 NDC 0955-3900-03 Rx only
 
-Insulin glargine U-300 SoloStar® injection
+Insulin glargine U-300 SoloStar ® injection
 
 For Single Patient Use Only
 
@@ -22,7 +22,7 @@ Winthrop A SANOFI COMPANY
 
 NDC 0955-2900-02 Rx only
 
-Insulin glargine U-300 Max SoloStar® injection
+Insulin glargine U-300 Max SoloStar ® injection
 
 For Single Patient Use Only
 

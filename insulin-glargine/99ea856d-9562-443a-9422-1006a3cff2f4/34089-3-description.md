@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Insulin glargine is a long-acting human insulin analog produced by recombinant DNA technology utilizing a nonpathogenic laboratory strain of Escherichia coli (K12) as the production organism.
+Insulin glargine is a long-acting human insulin analog produced by recombinant DNA technology utilizing a nonpathogenic laboratory strain of Escherichia coli(K12) as the production organism.
 Insulin glargine differs from human insulin in that the amino acid asparagine at position A21 is replaced by glycine and two arginines remain at the C-terminus of the B-chain.
 Insulin glargine has a molecular weight of 6063 Da.
 

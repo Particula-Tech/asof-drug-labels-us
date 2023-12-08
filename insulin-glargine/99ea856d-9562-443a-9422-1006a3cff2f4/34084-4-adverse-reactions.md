@@ -14,15 +14,15 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The data in Table 1 reflect the exposure of 304 patients with type 1 diabetes to insulin glargine with mean exposure duration of 23 weeks.
 The type 1 diabetes population had the following characteristics: Mean age was 46 years and mean duration of diabetes was 21 years.
 Fifty-five percent were male, 86% were Caucasian, 5% were Black or African American, and 5% were Hispanic.
-At baseline, the mean eGFR was 82 mL/min/1.73 m2 and 35% of patients had eGFR ≥90 mL/min/1.73 m2.
-The mean BMI was 28 kg/m2.
+At baseline, the mean eGFR was 82 mL/min/1.73 m 2and 35% of patients had eGFR ≥90 mL/min/1.73 m 2.
+The mean BMI was 28 kg/m 2.
 HbA1c at baseline was greater than or equal to 8% in 58% of patients.
 
 The data in Table 2 reflect the exposure of 1242 patients with type 2 diabetes to insulin glargine with mean exposure duration of 25 weeks.
 The type 2 diabetes population had the following characteristics: Mean age was 59 years and mean duration of diabetes was 13 years.
 Fifty-three percent were male, 88% were Caucasian, 7% were Black or African American, and 17% were Hispanic.
-At baseline, mean eGFR was 79 mL/min/1.73 m2 and 27% of patients had an eGFR ≥90 mL/min/1.73 m2.
-The mean BMI was 35 kg/m2.
+At baseline, mean eGFR was 79 mL/min/1.73 m 2and 27% of patients had an eGFR ≥90 mL/min/1.73 m 2.
+The mean BMI was 35 kg/m 2.
 HbA1c at baseline was greater than or equal to 8% in 66% of patients.
 
 Insulin glargine was studied in 233 pediatric patients (6–17 years of age) with type 1 diabetes for a mean duration of 26 weeks [see Clinical Studies (14.1)].
@@ -33,14 +33,14 @@ Hypoglycemia is discussed in a dedicated subsection below.
 
 Table 1: Adverse Reactions Occurring ≥5% in Two Pooled Clinical Trials of 26 Weeks and 16 Weeks Duration in Adults with Type 1 Diabetes
 
-|  | Insulin glargine + Mealtime Insulin"mealtime insulin" refers to insulin glulisine, insulin lispro, or insulin aspart., % (n=304) |
+|  | Insulin glargine + Mealtime Insulin "mealtime insulin" refers to insulin glulisine, insulin lispro, or insulin aspart., % (n=304) |
 | --- | --- |
 | Nasopharyngitis | 12.8 |
 | Upper respiratory tract infection | 9.5 |
 
 Table 2: Adverse Reactions Occurring ≥5% in Three Pooled Clinical Trials of 26 Weeks Duration in Adults with Type 2 Diabetes
 
-|  | Insulin glargineone of the trials in type 2 diabetes included mealtime insulin., % (n=1242) |
+|  | Insulin glargine one of the trials in type 2 diabetes included mealtime insulin., % (n=1242) |
 | --- | --- |
 | Nasopharyngitis | 7.1 |
 | Upper respiratory tract infection | 5.7 |
