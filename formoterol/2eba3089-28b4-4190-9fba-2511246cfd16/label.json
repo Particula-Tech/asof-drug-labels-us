@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA210595"
+  ],
+  "inn": "formoterol",
+  "labeler": "Covis Pharma US, Inc",
+  "package_ndcs": [
+    "70515-001-01",
+    "70515-001-03"
+  ],
+  "products": [
+    {
+      "form": "POWDER, METERED",
+      "generic": "aclidinium bromide and formoterol fumarate",
+      "name": "DUAKLIR PRESSAIR"
+    }
+  ],
+  "setid": "2eba3089-28b4-4190-9fba-2511246cfd16",
+  "source": "dailymed"
+}
