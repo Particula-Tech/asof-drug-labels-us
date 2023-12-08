@@ -23,26 +23,12 @@ OSENI tablets are available in the following strengths and packages:
 | NDC 64764-254-04 | Bottles of 90 tablets |
 | NDC 64764-254-05 | Bottles of 500 tablets |
 
-12.5 mg/15 mg tablet: pale yellow, round, biconvex and film-coated with both "A/P" and "12.5/15" printed on one side, available in:
-
-| NDC 64764-121-03 | Bottles of 30 tablets |
-| --- | --- |
-| NDC 64764-121-04 | Bottles of 90 tablets |
-| NDC 64764-121-05 | Bottles of 500 tablets |
-
 12.5 mg/30 mg tablet: pale peach, round, biconvex and film-coated with both "A/P" and "12.5/30" printed on one side, available in:
 
 | NDC 64764-123-03 | Bottles of 30 tablets |
 | --- | --- |
 | NDC 64764-123-04 | Bottles of 90 tablets |
 | NDC 64764-123-05 | Bottles of 500 tablets |
-
-12.5 mg/45 mg tablet: pale red, round, biconvex and film-coated with both "A/P" and "12.5/45" printed on one side, available in:
-
-| NDC 64764-124-03 | Bottles of 30 tablets |
-| --- | --- |
-| NDC 64764-124-04 | Bottles of 90 tablets |
-| NDC 64764-124-05 | Bottles of 500 tablets |
 
 Storage
 

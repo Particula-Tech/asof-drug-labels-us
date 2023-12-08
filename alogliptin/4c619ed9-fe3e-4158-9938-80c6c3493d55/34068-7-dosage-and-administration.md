@@ -22,7 +22,7 @@ After initiation of OSENI or with dose increase, monitor patients carefully for 
 
 No dose adjustment of OSENI is necessary for patients with mild renal impairment (creatinine clearance [CrCl] ≥60 mL/min).
 
-The dose of OSENI is 12.5 mg/15 mg, 12.5 mg/30 mg or 12.5 mg/45 mg once daily for patients with moderate renal impairment (CrCl ≥30 to <60 mL/min).
+The dose of OSENI is 12.5 mg/30 mg once daily for patients with moderate renal impairment (CrCl ≥30 to <60 mL/min).
 
 OSENI is not recommended for patients with severe renal impairment or ESRD [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 Coadministration of pioglitazone and alogliptin 6.25 mg once daily based on individual requirements may be considered in these patients.

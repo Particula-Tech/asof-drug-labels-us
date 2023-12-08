@@ -1,19 +1,3 @@
-PRINCIPAL DISPLAY PANEL - 12.5 mg/15 mg Tablet Bottle Label
-
-NDC 64764-121-03
-
-Oseni (alogliptin and pioglitazone) tablets
-
-12.5 mg/15 mg
-
-Rx Only
-
-Dispense with Medication Guide
-
-Takeda
-
-30 Tablets
-
 PRINCIPAL DISPLAY PANEL - 12.5 mg/30 mg Tablet Bottle Label
 
 NDC 64764-123-03
@@ -21,22 +5,6 @@ NDC 64764-123-03
 Oseni (alogliptin and pioglitazone) tablets
 
 12.5 mg/30 mg
-
-Rx Only
-
-Dispense with Medication Guide
-
-Takeda
-
-30 Tablets
-
-PRINCIPAL DISPLAY PANEL - 12.5 mg/45 mg Tablet Bottle Label
-
-NDC 64764-124-03
-
-Oseni (alogliptin and pioglitazone) tablets
-
-12.5 mg/45 mg
 
 Rx Only
 

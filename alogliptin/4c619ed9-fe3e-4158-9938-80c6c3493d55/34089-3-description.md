@@ -29,10 +29,8 @@ OSENI is available as a fixed-dose combination tablet for oral administration co
 - 33.06 mg pioglitazone hydrochloride equivalent to 30 mg pioglitazone (25 mg/30 mg)
 - 49.59 mg pioglitazone hydrochloride equivalent to 45 mg pioglitazone (25 mg/45 mg)
 
-OSENI is also available as a fixed-dose combination tablet for oral administration containing 17 mg alogliptin benzoate equivalent to 12.5 mg alogliptin and any of the following strengths of pioglitazone hydrochloride:
+OSENI is also available as a fixed-dose combination tablet for oral administration containing 17 mg alogliptin benzoate equivalent to 12.5 mg alogliptin for the following strength of pioglitazone hydrochloride:
 
-- 16.53 mg pioglitazone hydrochloride equivalent to 15 mg pioglitazone (12.5 mg/15 mg)
 - 33.06 mg pioglitazone hydrochloride equivalent to 30 mg pioglitazone (12.5 mg/30 mg)
-- 49.59 mg pioglitazone hydrochloride equivalent to 45 mg pioglitazone (12.5 mg/45 mg)
 
 OSENI tablets contain the following inactive ingredients: mannitol, microcrystalline cellulose, hydroxypropyl cellulose, croscarmellose sodium, magnesium stearate and lactose monohydrate; the tablets are film-coated with hypromellose, polyethylene glycol, titanium dioxide, talc and ferric oxide (yellow and/or red) and are marked with printing ink (Red A1 or Gray F1).
