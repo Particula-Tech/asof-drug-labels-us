@@ -6,25 +6,25 @@ Administer in a facility equipped to manage possible complications (e.g., anaphy
 
 ## 2.1 Breast Cancer
 
-- For locally advanced or metastatic breast cancer after failure of prior chemotherapy, the recommended dose of docetaxel is 60 mg/m2 to 100 mg/m2 administered intravenously over 1 hour every 3 weeks.
-- For the adjuvant treatment of operable node-positive breast cancer, the recommended docetaxel dose is 75 mg/m2 administered 1 hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 every 3 weeks for 6 courses.
+- For locally advanced or metastatic breast cancer after failure of prior chemotherapy, the recommended dose of docetaxel is 60 mg/m 2to 100 mg/m 2administered intravenously over 1 hour every 3 weeks.
+- For the adjuvant treatment of operable node-positive breast cancer, the recommended docetaxel dose is 75 mg/m 2administered 1 hour after doxorubicin 50 mg/m 2and cyclophosphamide 500 mg/m 2every 3 weeks for 6 courses.
   Prophylactic G-CSF may be used to mitigate the risk of hematological toxicities [see Dosage and Administration (2.7)].
 
 ## 2.2 Non-small Cell Lung Cancer
 
-- For treatment after failure of prior platinum-based chemotherapy, docetaxel was evaluated as monotherapy, and the recommended dose is 75 mg/m2 administered intravenously over 1 hour every 3 weeks.
-  A dose of 100 mg/m2 in patients previously treated with chemotherapy was associated with increased hematologic toxicity, infection, and treatment-related mortality in randomized controlled trials [see Boxed Warning, Dosage and Administration (2.7), Warnings and Precautions (5), Clinical Studies (14)].
+- For treatment after failure of prior platinum-based chemotherapy, docetaxel was evaluated as monotherapy, and the recommended dose is 75 mg/m 2administered intravenously over 1 hour every 3 weeks.
+  A dose of 100 mg/m 2in patients previously treated with chemotherapy was associated with increased hematologic toxicity, infection, and treatment-related mortality in randomized controlled trials [see Boxed Warning, Dosage and Administration (2.7), Warnings and Precautions (5), Clinical Studies (14)].
 - For chemotherapy-naive patients, docetaxel was evaluated in combination with cisplatin.
-  The recommended dose of docetaxel is 75 mg/m2 administered intravenously over 1 hour immediately followed by cisplatin 75 mg/m2 over 30–60 minutes every 3 weeks [see Dosage and Administration (2.7)].
+  The recommended dose of docetaxel is 75 mg/m 2administered intravenously over 1 hour immediately followed by cisplatin 75 mg/m 2over 30–60 minutes every 3 weeks [see Dosage and Administration (2.7)].
 
 ## 2.3 Prostate Cancer
 
-- For metastatic castration-resistant prostate cancer, the recommended dose of docetaxel is 75 mg/m2 every 3 weeks as a 1 hour intravenous infusion.
+- For metastatic castration-resistant prostate cancer, the recommended dose of docetaxel is 75 mg/m 2every 3 weeks as a 1 hour intravenous infusion.
   Prednisone 5 mg orally twice daily is administered continuously [see Dosage and Administration (2.7)].
 
 ## 2.4 Gastric Adenocarcinoma
 
-- For gastric adenocarcinoma, the recommended dose of docetaxel is 75 mg/m2 as a 1 hour intravenous infusion, followed by cisplatin 75 mg/m2, as a 1 to 3 hour intravenous infusion (both on day 1 only), followed by fluorouracil 750 mg/m2 per day given as a 24-hour continuous intravenous infusion for 5 days, starting at the end of the cisplatin infusion.
+- For gastric adenocarcinoma, the recommended dose of docetaxel is 75 mg/m 2as a 1 hour intravenous infusion, followed by cisplatin 75 mg/m 2, as a 1 to 3 hour intravenous infusion (both on day 1 only), followed by fluorouracil 750 mg/m 2per day given as a 24-hour continuous intravenous infusion for 5 days, starting at the end of the cisplatin infusion.
   Treatment is repeated every three weeks.
   Patients must receive premedication with antiemetics and appropriate hydration for cisplatin administration [see Dosage and Administration (2.7)].
 
@@ -36,13 +36,13 @@ All patients treated on the docetaxel containing arms of the TAX323 and TAX324 s
 
 Induction Chemotherapy Followed by Radiotherapy (TAX323)
 
-For the induction treatment of locally advanced inoperable SCCHN, the recommended dose of docetaxel is 75 mg/m2 as a 1 hour intravenous infusion followed by cisplatin 75 mg/m2 intravenously over 1 hour, on day one, followed by fluorouracil as a continuous intravenous infusion at 750 mg/m2 per day for five days.
+For the induction treatment of locally advanced inoperable SCCHN, the recommended dose of docetaxel is 75 mg/m 2as a 1 hour intravenous infusion followed by cisplatin 75 mg/m 2intravenously over 1 hour, on day one, followed by fluorouracil as a continuous intravenous infusion at 750 mg/m 2per day for five days.
 This regimen is administered every 3 weeks for 4 cycles.
 Following chemotherapy, patients should receive radiotherapy [see Dosage and Administration (2.7)].
 
 Induction Chemotherapy Followed by Chemoradiotherapy (TAX324)
 
-For the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN, the recommended dose of docetaxel is 75 mg/m2 as a 1 hour intravenous infusion on day 1, followed by cisplatin 100 mg/m2 administered as a 30-minute to 3 hour infusion, followed by fluorouracil 1000 mg/m2/day as a continuous infusion from day 1 to day 4.
+For the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN, the recommended dose of docetaxel is 75 mg/m 2as a 1 hour intravenous infusion on day 1, followed by cisplatin 100 mg/m 2administered as a 30-minute to 3 hour infusion, followed by fluorouracil 1000 mg/m 2/day as a continuous infusion from day 1 to day 4.
 This regimen is administered every 3 weeks for 3 cycles.
 Following chemotherapy, patients should receive chemoradiotherapy [see Dosage and Administration (2.7)].
 
@@ -56,40 +56,40 @@ For metastatic castration-resistant prostate cancer, given the concurrent use of
 
 Breast Cancer
 
-Patients who are dosed initially at 100 mg/m2 and who experience either febrile neutropenia, neutrophils <500 cells/mm3 for more than 1 week, or severe or cumulative cutaneous reactions during docetaxel therapy should have the dosage adjusted from 100 mg/m2 to 75 mg/m2.
-If the patient continues to experience these reactions, the dosage should either be decreased from 75 mg/m2 to 55 mg/m2 or the treatment should be discontinued.
-Conversely, patients who are dosed initially at 60 mg/m2 and who do not experience febrile neutropenia, neutrophils <500 cells/mm3 for more than 1 week, severe or cumulative cutaneous reactions, or severe peripheral neuropathy during docetaxel therapy may tolerate higher doses.
+Patients who are dosed initially at 100 mg/m 2and who experience either febrile neutropenia, neutrophils <500 cells/mm 3for more than 1 week, or severe or cumulative cutaneous reactions during docetaxel therapy should have the dosage adjusted from 100 mg/m 2to 75 mg/m 2.
+If the patient continues to experience these reactions, the dosage should either be decreased from 75 mg/m 2to 55 mg/m 2or the treatment should be discontinued.
+Conversely, patients who are dosed initially at 60 mg/m 2and who do not experience febrile neutropenia, neutrophils <500 cells/mm 3for more than 1 week, severe or cumulative cutaneous reactions, or severe peripheral neuropathy during docetaxel therapy may tolerate higher doses.
 Patients who develop ≥grade 3 peripheral neuropathy should have docetaxel treatment discontinued entirely.
 
 Combination Therapy with Docetaxel in the Adjuvant Treatment of Breast Cancer
 
-Docetaxel in combination with doxorubicin and cyclophosphamide should be administered when the neutrophil count is ≥1,500 cells/mm3.
+Docetaxel in combination with doxorubicin and cyclophosphamide should be administered when the neutrophil count is ≥1,500 cells/mm 3.
 Patients who experience febrile neutropenia should receive G-CSF in all subsequent cycles.
-Patients who continue to experience this reaction should remain on G-CSF and have their docetaxel dose reduced to 60 mg/m2.
-Patients who experience grade 3 or 4 stomatitis should have their docetaxel dose decreased to 60 mg/m2.
-Patients who experience severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during docetaxel therapy should have their dosage of docetaxel reduced from 75 mg/m2 to 60 mg/m2.
-If the patient continues to experience these reactions at 60 mg/m2, treatment should be discontinued.
+Patients who continue to experience this reaction should remain on G-CSF and have their docetaxel dose reduced to 60 mg/m 2.
+Patients who experience grade 3 or 4 stomatitis should have their docetaxel dose decreased to 60 mg/m 2.
+Patients who experience severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during docetaxel therapy should have their dosage of docetaxel reduced from 75 mg/m 2to 60 mg/m 2.
+If the patient continues to experience these reactions at 60 mg/m 2, treatment should be discontinued.
 
 Non-small Cell Lung Cancer
 
 Monotherapy with docetaxel for NSCLC treatment after failure of prior platinum-based chemotherapy
 
-Patients who are dosed initially at 75 mg/m2 and who experience either febrile neutropenia, neutrophils <500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions, or other grade 3/4 non-hematological toxicities during docetaxel treatment should have treatment withheld until resolution of the toxicity and then resumed at 55 mg/m2.
+Patients who are dosed initially at 75 mg/m 2and who experience either febrile neutropenia, neutrophils <500 cells/mm 3for more than one week, severe or cumulative cutaneous reactions, or other grade 3/4 non-hematological toxicities during docetaxel treatment should have treatment withheld until resolution of the toxicity and then resumed at 55 mg/m 2.
 Patients who develop ≥grade 3 peripheral neuropathy should have docetaxel treatment discontinued entirely.
 
 Combination therapy with docetaxel for chemotherapy-naive NSCLC
 
-For patients who are dosed initially at docetaxel 75 mg/m2 in combination with cisplatin, and whose nadir of platelet count during the previous course of therapy is <25,000 cells/mm3, in patients who experience febrile neutropenia, and in patients with serious non-hematologic toxicities, the docetaxel dosage in subsequent cycles should be reduced to 65 mg/m2.
-In patients who require a further dose reduction, a dose of 50 mg/m2 is recommended.
+For patients who are dosed initially at docetaxel 75 mg/m 2in combination with cisplatin, and whose nadir of platelet count during the previous course of therapy is <25,000 cells/mm 3, in patients who experience febrile neutropenia, and in patients with serious non-hematologic toxicities, the docetaxel dosage in subsequent cycles should be reduced to 65 mg/m 2.
+In patients who require a further dose reduction, a dose of 50 mg/m 2is recommended.
 For cisplatin dosage adjustments, see manufacturers' prescribing information.
 
 Prostate Cancer
 
 Combination therapy with Docetaxel for metastatic castration-resistant prostate cancer
 
-Docetaxel should be administered when the neutrophil count is ≥1,500 cells/mm3.
-Patients who experience either febrile neutropenia, neutrophils <500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during docetaxel therapy should have the dosage of docetaxel reduced from 75 mg/m2 to 60 mg/m2.
-If the patient continues to experience these reactions at 60 mg/m2, the treatment should be discontinued.
+Docetaxel should be administered when the neutrophil count is ≥1,500 cells/mm 3.
+Patients who experience either febrile neutropenia, neutrophils <500 cells/mm 3for more than one week, severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during docetaxel therapy should have the dosage of docetaxel reduced from 75 mg/m 2to 60 mg/m 2.
+If the patient continues to experience these reactions at 60 mg/m 2, the treatment should be discontinued.
 
 Gastric or Head and Neck Cancer
 
@@ -97,11 +97,11 @@ Docetaxel in combination with cisplatin and fluorouracil in gastric cancer or he
 
 Patients treated with docetaxel in combination with cisplatin and fluorouracil must receive antiemetics and appropriate hydration according to current institutional guidelines.
 In both studies, G-CSF was recommended during the second and/or subsequent cycles in case of febrile neutropenia, or documented infection with neutropenia, or neutropenia lasting more than 7 days.
-If an episode of febrile neutropenia, prolonged neutropenia or neutropenic infection occurs despite G-CSF use, the docetaxel dose should be reduced from 75 mg/m2 to 60 mg/m2.
-If subsequent episodes of complicated neutropenia occur the docetaxel dose should be reduced from 60 mg/m2 to 45 mg/m2.
-In case of grade 4 thrombocytopenia the docetaxel dose should be reduced from 75 mg/m2 to 60 mg/m2.
-Do not retreat patients with subsequent cycles of docetaxel until neutrophils recover to a level >1,500 cells/mm3 [see Contraindications (4)].
-Avoid retreating patients until platelets recover to a level >100,000 cells/mm3.
+If an episode of febrile neutropenia, prolonged neutropenia or neutropenic infection occurs despite G-CSF use, the docetaxel dose should be reduced from 75 mg/m 2to 60 mg/m 2.
+If subsequent episodes of complicated neutropenia occur the docetaxel dose should be reduced from 60 mg/m 2to 45 mg/m 2.
+In case of grade 4 thrombocytopenia the docetaxel dose should be reduced from 75 mg/m 2to 60 mg/m 2.
+Do not retreat patients with subsequent cycles of docetaxel until neutrophils recover to a level >1,500 cells/mm 3[see Contraindications (4)].
+Avoid retreating patients until platelets recover to a level >100,000 cells/mm 3.
 Discontinue treatment if these toxicities persist [see Warnings and Precautions (5.3)].
 
 Recommended dose modifications for toxicities in patients treated with docetaxel in combination with cisplatin and fluorouracil are shown in Table 1.
@@ -191,7 +191,7 @@ Use only a 21-gauge needle to withdraw docetaxel from the vial because larger bo
 
 1. Docetaxel vials should be stored between 2°C and 25°C (36°F and 77°F).
    If the vials are stored under refrigeration, allow the appropriate number of vials of Docetaxel injection vials to stand at room temperature for approximately 5 minutes before use.
-2. Using only a 21-gauge needle, aseptically withdraw the required amount of Docetaxel injection (20 mg docetaxel/mL) with a calibrated syringe and inject via a single injection (one shot) into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
+2. Using onlya 21-gauge needle, aseptically withdraw the required amount of Docetaxel injection (20 mg docetaxel/mL) with a calibrated syringe and inject via a single injection (one shot) into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
    If a dose greater than 200 mg of docetaxel is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/mL docetaxel is not exceeded.
 3. Thoroughly mix the infusion by gentle manual rotation.
 4. As with all parenteral products, docetaxel should be inspected visually for particulate matter or discoloration prior to administration whenever the solution and container permit.

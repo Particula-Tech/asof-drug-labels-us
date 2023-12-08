@@ -4,16 +4,16 @@
 
 Breast Cancer
 
-Docetaxel administered at 100 mg/m2 was associated with deaths considered possibly or probably related to treatment in 2.0% (19/965) of metastatic breast cancer patients, both previously treated and untreated, with normal baseline liver function and in 11.5% (7/61) of patients with various tumor types who had abnormal baseline liver function (AST and/or ALT >1.5 times ULN together with AP >2.5 times ULN).
-Among patients dosed at 60 mg/m2, mortality related to treatment occurred in 0.6% (3/481) of patients with normal liver function, and in 3 of 7 patients with abnormal liver function.
+Docetaxel administered at 100 mg/m 2was associated with deaths considered possibly or probably related to treatment in 2.0% (19/965) of metastatic breast cancer patients, both previously treated and untreated, with normal baseline liver function and in 11.5% (7/61) of patients with various tumor types who had abnormal baseline liver function (AST and/or ALT >1.5 times ULN together with AP >2.5 times ULN).
+Among patients dosed at 60 mg/m 2, mortality related to treatment occurred in 0.6% (3/481) of patients with normal liver function, and in 3 of 7 patients with abnormal liver function.
 Approximately half of these deaths occurred during the first cycle.
 Sepsis accounted for the majority of the deaths.
 
 Non-small Cell Lung Cancer
 
-Docetaxel administered at a dose of 100 mg/m2 in patients with locally advanced or metastatic non-small cell lung cancer who had a history of prior platinum-based chemotherapy was associated with increased treatment-related mortality (14% and 5% in two randomized, controlled studies).
-There were 2.8% treatment-related deaths among the 176 patients treated at the 75 mg/m2 dose in the randomized trials.
-Among patients who experienced treatment-related mortality at the 75 mg/m2 dose level, 3 of 5 patients had an ECOG PS of 2 at study entry [see Dosage and Administration (2.2), Clinical Studies (14)].
+Docetaxel administered at a dose of 100 mg/m 2in patients with locally advanced or metastatic non-small cell lung cancer who had a history of prior platinum-based chemotherapy was associated with increased treatment-related mortality (14% and 5% in two randomized, controlled studies).
+There were 2.8% treatment-related deaths among the 176 patients treated at the 75 mg/m 2dose in the randomized trials.
+Among patients who experienced treatment-related mortality at the 75 mg/m 2dose level, 3 of 5 patients had an ECOG PS of 2 at study entry [see Dosage and Administration (2.2), Clinical Studies (14)].
 
 ## 5.2 Hepatic Impairment
 
@@ -28,16 +28,16 @@ Measure bilirubin, AST or ALT, and alkaline phosphatase prior to each cycle of d
 ## 5.3 Hematologic Effects
 
 Perform frequent peripheral blood cell counts on all patients receiving docetaxel.
-Do not retreat patients with subsequent cycles of docetaxel until neutrophils recover to a level >1500 cells/mm3 [see Contraindications (4)].
-Avoid retreating patients until platelets recover to a level >100,000 cells/mm3.
+Do not retreat patients with subsequent cycles of docetaxel until neutrophils recover to a level >1500 cells/mm 3[see Contraindications (4)].
+Avoid retreating patients until platelets recover to a level >100,000 cells/mm 3.
 
-A 25% reduction in the dose of docetaxel is recommended during subsequent cycles following severe neutropenia (<500 cells/mm3) lasting 7 days or more, febrile neutropenia, or a grade 4 infection in a docetaxel cycle [see Dosage and Administration (2.7)].
+A 25% reduction in the dose of docetaxel is recommended during subsequent cycles following severe neutropenia (<500 cells/mm 3) lasting 7 days or more, febrile neutropenia, or a grade 4 infection in a docetaxel cycle [see Dosage and Administration (2.7)].
 
-Neutropenia (<2000 neutrophils/mm3) occurs in virtually all patients given 60 mg/m2 to 100 mg/m2 of docetaxel and grade 4 neutropenia (<500 cells/mm3) occurs in 85% of patients given 100 mg/m2 and 75% of patients given 60 mg/m2.
+Neutropenia (<2000 neutrophils/mm 3) occurs in virtually all patients given 60 mg/m 2to 100 mg/m 2of docetaxel and grade 4 neutropenia (<500 cells/mm 3) occurs in 85% of patients given 100 mg/m 2and 75% of patients given 60 mg/m 2.
 Frequent monitoring of blood counts is, therefore, essential so that dose can be adjusted.
-Docetaxel should not be administered to patients with neutrophils <1500 cells/mm3.
+Docetaxel should not be administered to patients with neutrophils <1500 cells/mm 3.
 
-Febrile neutropenia occurred in about 12% of patients given 100 mg/m2 but was very uncommon in patients given 60 mg/m2.
+Febrile neutropenia occurred in about 12% of patients given 100 mg/m 2but was very uncommon in patients given 60 mg/m 2.
 Hematologic responses, febrile reactions and infections, and rates of septic death for different regimens are dose related [see Adverse Reactions (6.1), Clinical Studies (14)].
 
 Three breast cancer patients with severe liver impairment (bilirubin >1.7 times ULN) developed fatal gastrointestinal bleeding associated with severe drug-induced thrombocytopenia.
@@ -74,9 +74,9 @@ Patients with pre-existing effusions should be closely monitored from the first 
 When fluid retention occurs, peripheral edema usually starts in the lower extremities and may become generalized with a median weight gain of 2 kg.
 
 Among 92 breast cancer patients premedicated with 3-day corticosteroids, moderate fluid retention occurred in 27.2% and severe fluid retention in 6.5%.
-The median cumulative dose to onset of moderate or severe fluid retention was 819 mg/m2.
+The median cumulative dose to onset of moderate or severe fluid retention was 819 mg/m 2.
 Nine of 92 patients (9.8%) of patients discontinued treatment due to fluid retention: 4 patients discontinued with severe fluid retention; the remaining 5 had mild or moderate fluid retention.
-The median cumulative dose to treatment discontinuation due to fluid retention was 1021 mg/m2.
+The median cumulative dose to treatment discontinuation due to fluid retention was 1021 mg/m 2.
 Fluid retention was completely, but sometimes slowly, reversible with a median of 16 weeks from the last infusion of docetaxel to resolution (range: 0 to 42+ weeks).
 Patients developing peripheral edema may be treated with standard measures, e.g., salt restriction, oral diuretic(s).
 
@@ -137,8 +137,8 @@ Advise male patients with female partners of reproductive potential to use effec
 Cases of intoxication have been reported with some formulations of docetaxel due to the alcohol content.
 The alcohol content in a dose of Docetaxel injection may affect the central nervous system and should be taken into account for patients in whom alcohol intake should be avoided or minimized.
 Consideration should be given to the alcohol content in Docetaxel injection on the ability to drive or use machines immediately after the infusion.
-Each administration of Docetaxel injection at 100 mg/m2 delivers 2.0 g/m2 of ethanol.
-For a patient with a BSA of 2.0 m2, this would deliver 4.0 grams of ethanol [see Description (11)].
+Each administration of Docetaxel injection at 100 mg/m 2delivers 2.0 g/m 2of ethanol.
+For a patient with a BSA of 2.0 m 2, this would deliver 4.0 grams of ethanol [see Description (11)].
 Other docetaxel products may have a different amount of alcohol.
 
 ## 5.14 Tumor Lysis Syndrome

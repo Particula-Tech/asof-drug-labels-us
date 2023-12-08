@@ -11,23 +11,23 @@ Docetaxel's binding to microtubules does not alter the number of protofilaments 
 
 Absorption
 
-The pharmacokinetics of docetaxel has been evaluated in cancer patients after administration of 20 mg/m2 to 115 mg/m2 in phase 1 studies.
-The area under the curve (AUC) was dose proportional following doses of 70 mg/m2 to 115 mg/m2 with infusion times of 1 to 2 hours.
+The pharmacokinetics of docetaxel has been evaluated in cancer patients after administration of 20 mg/m 2to 115 mg/m 2in phase 1 studies.
+The area under the curve (AUC) was dose proportional following doses of 70 mg/m 2to 115 mg/m 2with infusion times of 1 to 2 hours.
 Docetaxel's pharmacokinetic profile is consistent with a three-compartment pharmacokinetic model, with initial rapid distribution phase and the late (terminal) phase.
 
 Distribution
 
-Mean steady state volume of distribution was 113 L. Docetaxel is approximately 94% protein bound in vitro, mainly to α1-acid glycoprotein, albumin, and lipoproteins.
-In three cancer patients, the in vitro binding to plasma proteins was approximately 97%.
+Mean steady state volume of distribution was 113 L. Docetaxel is approximately 94% protein bound in vitro, mainly to α 1-acid glycoprotein, albumin, and lipoproteins.
+In three cancer patients, the in vitrobinding to plasma proteins was approximately 97%.
 Dexamethasone does not affect the protein binding of docetaxel.
 
 Elimination
 
-With extended plasma sampling up to 8 to 22 days post infusion, the estimated mean total body clearance was 18 L/h/m2 (range of means: 14 to 23) and mean terminal elimination half-life was 116 hours (range of means: 92 to 135).
+With extended plasma sampling up to 8 to 22 days post infusion, the estimated mean total body clearance was 18 L/h/m 2(range of means: 14 to 23) and mean terminal elimination half-life was 116 hours (range of means: 92 to 135).
 
 Metabolism
 
-Docetaxel is metabolized by the CYP3A4 isoenzyme in vitro [see Drug Interactions (7)].
+Docetaxel is metabolized by the CYP3A4 isoenzyme in vitro[see Drug Interactions (7)].
 
 Excretion
 
@@ -36,7 +36,7 @@ About 80% of the radioactivity recovered in feces was excreted during the first 
 
 Specific Populations
 
-Effect of Age: A population pharmacokinetic analysis was carried out after docetaxel treatment of 535 patients dosed at 100 mg/m2.
+Effect of Age: A population pharmacokinetic analysis was carried out after docetaxel treatment of 535 patients dosed at 100 mg/m 2.
 Pharmacokinetic parameters estimated by this analysis were very close to those estimated from phase 1 studies.
 The pharmacokinetics of docetaxel was not influenced by age.
 
@@ -47,12 +47,12 @@ This average, however, includes a substantial range and there is, at present, no
 Patients with combined abnormalities of transaminase and alkaline phosphatase should not be treated with docetaxel.
 Patients with severe hepatic impairment have not been studied [see Warnings and Precautions (5.2), Use in Specific Populations (8.6)].
 
-Effect of Race: Mean total body clearance for Japanese patients dosed at the range of 10 mg/m2 to 90 mg/m2 was similar to that of European/American populations dosed at 100 mg/m2, suggesting no significant difference in the elimination of docetaxel in the two populations.
+Effect of Race: Mean total body clearance for Japanese patients dosed at the range of 10 mg/m 2to 90 mg/m 2was similar to that of European/American populations dosed at 100 mg/m 2, suggesting no significant difference in the elimination of docetaxel in the two populations.
 
 Drug Interaction Studies
 
 Effect of Ketoconazole: The effect of ketoconazole (a strong CYP3A4 inhibitor) on the pharmacokinetics of docetaxel was investigated in 7 cancer patients.
-Patients were randomized to receive either docetaxel (100 mg/m2 intravenous) alone or docetaxel (10 mg/m2 intravenous) in combination with ketoconazole (200 mg orally once daily for 3 days) in a crossover design with a 3-week washout period.
+Patients were randomized to receive either docetaxel (100 mg/m 2intravenous) alone or docetaxel (10 mg/m 2intravenous) in combination with ketoconazole (200 mg orally once daily for 3 days) in a crossover design with a 3-week washout period.
 The results of this study indicated that the mean dose-normalized AUC of docetaxel was increased 2.2-fold and its clearance was reduced by 49% when docetaxel was coadministered with ketoconazole [see Dosage and Administration (2.7), Drug Interactions (7)].
 
 Effect of combination therapies
@@ -62,6 +62,6 @@ Effect of combination therapies
   The pharmacokinetic profile of cisplatin in combination therapy with docetaxel was similar to that observed with cisplatin alone.
 - Cisplatin and Fluorouracil: The combined administration of docetaxel, cisplatin and fluorouracil in 12 patients with solid tumors had no influence on the pharmacokinetics of each individual drug.
 - Prednisone: A population pharmacokinetic analysis of plasma data from 40 patients with metastatic castration-resistant prostate cancer indicated that docetaxel systemic clearance in combination with prednisone is similar to that observed following administration of docetaxel alone.
-- Cyclophosphamide and Doxorubicin: A study was conducted in 30 patients with advanced breast cancer to determine the potential for drug-drug interactions between docetaxel (75 mg/m2), doxorubicin (50 mg/m2), and cyclophosphamide (500 mg/m2) when administered in combination.
+- Cyclophosphamide and Doxorubicin: A study was conducted in 30 patients with advanced breast cancer to determine the potential for drug-drug interactions between docetaxel (75 mg/m 2), doxorubicin (50 mg/m 2), and cyclophosphamide (500 mg/m 2) when administered in combination.
   The coadministration of docetaxel had no effect on the pharmacokinetics of doxorubicin and cyclophosphamide when the three drugs were given in combination compared to coadministration of doxorubicin and cyclophosphamide only.
   In addition, doxorubicin and cyclophosphamide had no effect on docetaxel plasma clearance when the three drugs were given in combination compared to historical data for docetaxel monotherapy.

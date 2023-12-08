@@ -9,7 +9,7 @@ Instruct patients to monitor their temperature frequently and immediately report
 
 Enterocolitis and Neutropenic Colitis
 
-Advise patients of the symptoms of colitis, such as abdominal pain or tenderness, and/or diarrhea, with or without fever, and instruct patients to promptly contact their healthcare provider if they experience these symptoms [see Dosage and Administration (2.7) and Warnings and Precautions (5.4)].
+Advise patients of the symptoms of colitis, such as abdominal pain or tenderness, and/or diarrhea, with or without fever, and instruct patients to promptly contact their healthcare provider if they experience these symptoms [see Dosage and Administration (2.7)and Warnings and Precautions (5.4)].
 
 Hypersensitivity Reactions
 
@@ -27,12 +27,12 @@ Advise patients on the risk of second primary malignancies during treatment with
 Cutaneous Reactions
 
 Advise patients that localized erythema of the extremities and severe skin toxicities may occur.
-Instruct patients to immediately report severe cutaneous reactions to their healthcare provider [see Dosage and Administration (2.7) and Warnings and Precautions (5.8)].
+Instruct patients to immediately report severe cutaneous reactions to their healthcare provider [see Dosage and Administration (2.7)and Warnings and Precautions (5.8)].
 
 Neurologic Reactions
 
 Advise patients that neurosensory symptoms or peripheral neuropathy may occur.
-Instruct patients to immediately report neurologic reactions to their healthcare provider [see Dosage and Administration (2.7) and Warnings and Precautions (5.9)].
+Instruct patients to immediately report neurologic reactions to their healthcare provider [see Dosage and Administration (2.7)and Warnings and Precautions (5.9)].
 
 Eye Disorders
 
