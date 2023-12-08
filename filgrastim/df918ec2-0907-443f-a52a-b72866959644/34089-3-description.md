@@ -10,11 +10,11 @@ See table below for product composition of each presentation.
 
 | Product Composition |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | 300 mcg/0.5 mL Syringe | 480 mcg/0.8 mL Syringe | 300 mcg/1mL Vial | 480 mcg/1.6 mL Vial |
+|  | 300 mcg/0.5 mL Syringe | 480 mcg/0.8 mL Syringe | 300 mcg/1 mL Vial | 480 mcg/1.6 mL Vial |
 | Tbo-filgrastim | 300 mcg | 480 mcg | 300 mcg | 480 mcg |
 | Glacial Acetic Acid | 0.3 mg | 0.48 mg | 0.6 mg | 0.96 mg |
 | Polysorbate 80 | 0.0275 mg | 0.044 mg | 0.055 mg | 0.088 mg |
 | Sorbitol | 25 mg | 40 mg | 50 mg | 80 mg |
 | Sodium Hydroxide | q.s. to pH 4.2 | q.s. to pH 4.2 | q.s. to pH 4.2 | q.s. to pH 4.2 |
-| Water for Injection | q.s. to 0.5 mL | q.s. to 0.8 mL | q.s. to 1.0 mL | q.s. to 1.6 mL |
+| Water for Injection | q.s. to 0.5 mL | q.s. to 0.8 mL | q.s. to 1 mL | q.s. to 1.6 mL |
 | q.s. = quantity sufficient to make |  |  |  |  |

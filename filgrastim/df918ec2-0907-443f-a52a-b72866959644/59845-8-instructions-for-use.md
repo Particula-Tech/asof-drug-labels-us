@@ -1,17 +1,15 @@
-# Instructions for Use - Syringe
+# INSTRUCTIONS FOR USE - Prefilled Syringe
 
-GRANIX (GRAN-icks)
+GRANIX (GRAN-icks) (tbo-filgrastim) for subcutaneous injection Single-Dose Prefilled Syringe
 
-(tbo-filgrastim)
+Important:
 
-injection, for subcutaneous use
-
-Important: Keep the GRANIX syringe out of the reach of children.
+Read the Prescribing information and Patient Package insert for important information about GRANIX.
 
 About the GRANIX syringe
 
-Depending on the prescription that your healthcare provider gave you, you will receive a syringe that provides a dose of either 0.1mL to 0.5mL or 0.1mL to 0.8mL.
-If you are prescribed a dose over 0.8mL, two syringes will be required to reach your prescribed dose.
+Depending on the prescription that your healthcare provider gave you, you will receive a syringe that provides a dose of either 0.1 mL to 0.5 mL or 0.1 mL to 0.8 mL.
+If you are prescribed a dose over 0.8 mL, two syringes will be required to reach your prescribed dose.
 Your healthcare provider will determine how many syringes and the correct dose in milliliters (mL) you will need to give based on your body weight.
 You should continue to give GRANIX daily until your healthcare provider informs you that your white blood cell count has returned to normal.
 
@@ -23,6 +21,7 @@ Make sure you understand the following:
 - How to prepare and give the injection.
 
 Do not shake syringes.
+
 Do not remove the needle cap until you are ready to inject.
 
 Do not re-use a syringe.
@@ -53,25 +52,25 @@ Keep GRANIX and all medicines out of the reach of children.
 
 Determining how many syringes you need for your daily dose
 
-- If your prescribed daily dose is 0.5mL or less, use 1 syringe.
-- If your prescribed daily dose is 0.8mL or less, use 1 syringe.
-- If your prescribed daily dose is more than 0.8mL you will need to prepare 2 syringes in order to match your prescribed dose:
-  - Adjust your first syringe to 0.8mL.
+- If your prescribed daily dose is 0.5 mL or less, use 1 syringe.
+- If your prescribed daily dose is 0.8 mL or less, use 1 syringe.
+- If your prescribed daily dose is more than 0.8 mL you will need to prepare 2 syringes in order to match your prescribed dose:
+  - Adjust your first syringe to 0.8 mL.
   - Adjust your second syringe to the additional amount required to make up your total prescribed dose.
   - Make sure the amounts in both syringes add up to your prescribed dose (See the table to the right to determine how much medicine should be in each syringe).
 
-For example: If your prescribed dose is 1mL you would prepare 1 syringe with 0.8mL and a second syringe with 0.2mL.
+For example: If your prescribed dose is 1 mL you would prepare 1 syringe with 0.8 mL and a second syringe with 0.2 mL.
 
-Important: When using two syringes always adjust the first syringe to 0.8mL.
+Important: When using 2 syringes always adjust the first syringe to 0.8 mL.
 
 How to read the syringe markings
 
 What the markings on the syringe mean:
 
-The syringe is labeled in 0.1mL unit increments from 0.1mL to 0.8mL.
-There is a line next to each 0.1mL unit increment.
+The syringe is labeled in 0.1 mL unit increments from 0.1 mL to 0.8 mL.
+There is a line next to each 0.1 mL unit increment.
 
-To read the dose scale always hold the syringe with the needle-end facing up so that 0.1mL is at the top and 0.8mL is at the bottom.
+To read the dose scale always hold the syringe with the needle-end facing up so that 0.1 mL is at the top and 0.8 mL is at the bottom.
 
 How to adjust the medicine level for your prescribed dose
 
@@ -80,7 +79,7 @@ How to adjust the medicine level for your prescribed dose
 
 Do not use the top of the cone or the middle or lower edges of the grey stopper to measure your dose.
 
-Injection procedure (follow the steps below for each day of dosing)
+Injection steps (follow the steps below for each day of dosing)
 
 1.
 Prepare for injection
@@ -90,9 +89,9 @@ Prepare for injection
 - GRANIX syringe(s)
 - Alcohol swabs
 - Paper towel
-- Cotton ball or gauze
-- Bandage (optional)
-- Sharps container (hard-walled container for discarding syringes)
+- Cotton ball or gauze pad
+- Adhesive Bandage, if needed
+- Sharps disposal container (hard-walled container for discarding syringes)
 
 Note: GRANIX and all of the parts of the prefilled syringe do not contain natural rubber latex.
 
@@ -152,6 +151,8 @@ Upper hip or buttock: Fleshy areas around the back of the upper hips and upper s
 
 If 2 injections will be performed, then the second injection should be at least 1 inch away from the first injection.
 
+Choose Injection Site
+
 Do not inject into areas that are tender, red, bruised, hard, or have scars or stretch marks.
 
 Important:
@@ -178,7 +179,7 @@ To remove the needle cap, hold the body of the syringe firmly with 1 hand (with 
 
 Pull the needle cap straight off, extending your hand away from the needle.
 
-Note: Throw away the needle cap in a sharps container.
+Note: Throw away the needle cap in a sharps disposal container.
 
 Do not recap the needle now or after the injection.
 
@@ -207,6 +208,8 @@ INJECT MEDICATION
 
 3A Pinch skin
 
+The illustration below is an example only
+
 Use your free hand to firmly pinch the skin you previously cleaned.
 
 3B Insert the needle at a 45 to 90 degree angle
@@ -219,14 +222,14 @@ When the needle is inserted, you can release the pinched skin.
 
 Do not hold or push on the plunger while inserting the needle into the skin.
 
-3C Push the plunger down injecting all of the GRANIX
+3C Push the plunger down to inject all of the GRANIX
 
 Use your finger to gently push down on the plunger.
 
 When the plunger head is as far down as it will go, all of the GRANIX has been injected.
 When done, gently remove the needle from the skin.
 
-3D Dispose of used syringe
+3D Throw away (dispose of) used syringe
 
 Put your used needles and syringes in a FDA-cleared sharps disposal container right away after use.
 Do not throw away (dispose of) loose needles and syringes in your household trash.
@@ -255,51 +258,37 @@ Apply bandage, if needed.
 When you are finished, wash your hands with soap and warm water and dry thoroughly with a clean towel.
 
 4.
-Repeat the procedure with the second syringe (If dose is more than 0.8mL)
+Repeat the injection steps with the second syringe (If dose is more than 0.8 mL)
 
-If your dose is more than 0.8mL:
+If your dose is more than 0.8 mL:
 
 - Follow instructions 3A through 3E for injecting.
 - Choose a different site for your second injection.
   If you want to use the same part of your body, make sure the second injection site is at least 1 inch away from the first injection site.
 
+If you have any questions or concerns about your dose of GRANIX or how to prepare and give your injections, call your healthcare provider.
+
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by:
-
-UAB Teva Baltics
-
-Vilnius, Lithuania
+Manufactured by: UAB Teva Baltics Vilnius, Lithuania
 
 U.S. License No. 1803
 
-Distributed by:
-
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Distributed by: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Product of Israel
 
-Revised: 11/2019
+Revised: 11/2023
 
-TBOIFU-003
+TBOIFU-004
 
-©2014-2019 Cephalon, Inc., a wholly owned subsidiary of Teva Pharmaceutical Industries Ltd. All rights reserved.
+©2023 Cephalon, Inc., a wholly owned subsidiary of Teva Pharmaceutical Industries Ltd. All rights reserved.
 
 GRANIX is a trademark of Teva Pharmaceutical Industries Ltd.
 
-# Instructions for Use - Vial
+# INSTRUCTIONS FOR USE - VIAL
 
-Instructions for Use
-
-GRANIX (GRAN-icks)
-
-(tbo-filgrastim)
-
-for subcutaneous injection
-
-Single-Dose Vial
+INSTRUCTIONS FOR USE GRANIX (GRAN-icks) (tbo-filgrastim) for subcutaneous injection Single-Dose Vial
 
 Important:
 
@@ -307,7 +296,7 @@ Read the Prescribing information and Patient Package insert for important inform
 
 Before you use a GRANIX vial, read this important information:
 
-- GRANIX vial is supplied as either 300 mcg in 1.0 mL solution, or 480 mcg of tbo-filgrastim in 1.6 mL solution.
+- GRANIX vial is supplied as either 300 mcg in 1 mL solution, or 480 mcg of tbo-filgrastim in 1.6 mL solution.
   Your healthcare provider will determine which strength of GRANIX to prescribe for you.
   Your healthcare provider will prescribe the correct number of vials, and the dose in milliliters (mL) that you will need to inject based on your body weight.
 - When you receive your vials of GRANIX at the pharmacy, check the label to be sure that the dose strength on the vial matches the dose strength that your healthcare provider prescribed for you.
@@ -322,7 +311,7 @@ How to store your GRANIX vial
 - Store GRANIX in the refrigerator between 36°F to 46°F (2°C to 8°C).
 - Keep GRANIX vials away from light to protect it.
   If your GRANIX vial comes in a carton, keep it in the carton until you are ready to use it to protect from light.
-- Do not freeze
+- Do not freeze.
 - Take GRANIX out of the refrigerator 30 minutes before use and allow it to reach room temperature before preparing an injection.
 - GRANIX vials can be left at room temperature for a single period of up to 5 days, and if not used can be returned to the refrigerator to use later.
   Throw away (dispose of) any GRANIX vials that have been left at room temperature for more than 5 days.
@@ -346,7 +335,7 @@ Do not inject GRANIX less than 24 hours before your next dose of chemotherapy.
 
 Call your healthcare provider if you have any questions.
 
-FOLLOW THE STEPS BELOW FOR EACH DAY OF DOSING
+Follow the steps below for each day of dosing
 
 STEP 1: Prepare
 
@@ -357,7 +346,7 @@ Open the carton by lifting the lid and breaking the seal.
 
 Step 1B: Check the label and the expiration date on the carton
 
-- Check to make sure GRANIX® (tbo-filgrastim)” is listed on the carton
+- Check to make sure "GRANIX® (tbo-filgrastim)” is listed on the carton
 
 - Do not use if the expiration date on the carton has passed
 
@@ -396,7 +385,7 @@ Step 1E: Gather the following supplies needed for each injection and place them 
 - 1 disposable syringe and needles
 - 2 alcohol swabs
 - 1 cotton balls or gauze pad(s)
-- 1 adhesive Bandage(s), if needed
+- 1 adhesive bandage(s), if needed
 - 1 sharps disposal container
 
 - Only use disposable syringes and needles that your healthcare provider prescribes.
@@ -410,7 +399,7 @@ Step 1F: Wash your hands.
 
 When ready to inject, wash your hands well with soap and water, and dry with a clean towel.
 
-STEP 2: Get ready
+Step 2: Get ready
 
 Step 2A: Take the cap off the vial (Figure B). Clean the rubber stopper with 1 alcohol swab.
 
@@ -447,7 +436,7 @@ It is important that you use the exact dose prescribed by your healthcare provid
 Do not remove the needle from the vial.
 Lay the vial down on its side with the needle still in the vial while you prepare the injection site (Figure G).
 
-STEP 3 – Select and prepare the injection site
+Step 3 – Select and prepare the injection site
 
 Step 3A: Choose an injection site (Figure H)
 
@@ -461,6 +450,10 @@ You can use:
 - Upper outer area of your buttocks: Fleshy areas around the back of the upper hips and upper sides of the buttocks (only if someone else if giving you the injection).
 
 - If 2 injections will be performed, then the second injection should be at least 1 inch away from the first injection.
+
+Choose Injection Site
+
+Figure H
 
 Do not inject into areas that are tender, red, bruised, hard, or have scars or stretch marks.
 
@@ -478,7 +471,7 @@ If giving 2 injections, then the distance between the 2 injection sites should b
 
 - Do not touch this area again before injecting.
 
-STEP 4 –Inject medication
+Step 4 –Inject medication
 
 Step 4A: Remove the prepared syringe and needle from the vial.
 
@@ -531,24 +524,18 @@ If you have any questions or concerns about your dose of GRANIX or how to prepar
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by:
-
-UAB Teva Baltics
-
-Vilnius, Lithuania
+Manufactured by: UAB Teva Baltics Vilnius, Lithuania
 
 U.S. License No. 1803
 
-Distributed by:
-
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Distributed by: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Product of Israel
 
-Revised: 11/2019
+Revised: 11/2023
 
-TBOIFUV-002
+TBOIFUV-003
 
-©2014-2019 Cephalon, Inc., a wholly owned subsidiary of Teva Pharmaceutical Industries Ltd. All rights reserved.
+©2023 Cephalon, Inc., a wholly owned subsidiary of Teva Pharmaceutical Industries Ltd. All rights reserved.
+
+GRANIX is a trademark of Teva Pharmaceutical Industries Ltd.

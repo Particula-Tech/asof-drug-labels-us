@@ -21,7 +21,7 @@ Tbo-filgrastim exhibits nonlinear pharmacokinetics.
 Increasing the dose of subcutaneous GRANIX from 5 to 10 mcg/kg resulted in an approximate 2.5-fold increase in the maximum serum concentration (Cmax) and 3.0-fold increase in the area under the curve (AUC).
 In adult patients enrolled across three studies, subcutaneous GRANIX 5 mcg/kg resulted in median time to maximal serum tbo-filgrastim concentrations (Tmax) within 4 to 6 hours.
 Geometric mean [coefficient of variation (CV%)] serum Cmax was 20 to 31 ng/mL [24% to 65%] within 4 to 6 hours.
-Geometric mean serum tbo-filgrastim area under the curve (AUC0-12h) ranged from 151 to 227 ng/mL*h [24%-60%].
+Geometric mean serum tbo-filgrastim area under the curve (AUC0-12h) ranged from 151 to 227 ng/mL*h [24% to 60%].
 No accumulation in serum tbo-filgrastim concentrations was observed after multiple dosing.
 
 Absorption
@@ -47,3 +47,13 @@ Patients with Renal or Hepatic Impairment:
 Mild renal impairment (creatinine clearance 60 to 89 mL/min by Cockcroft-Gault) had no effect on tbo-filgrastim pharmacokinetics.
 The pharmacokinetics in patients with moderate and severe renal impairment has not been studied.
 The pharmacokinetics in patients with hepatic impairment has not been studied.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of GRANIX or of other filgrastim products.
+
+While available data suggest that 1.4% of patients developed binding antibodies to filgrastim, the nature and specificity of these antibodies has not been adequately studied.
+Because of the low occurrence of anti- drug antibodies, the effect of these antibodies on the pharmacokinetics, pharmacodynamics, safety, and/or effectiveness of GRANIX is unknown.
+
+Cytopenias resulting from an antibody response to exogenous growth factors have been reported on rare occasions in patients treated with other recombinant growth factors.

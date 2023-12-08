@@ -40,10 +40,11 @@ Glomerulonephritis
 Symptoms may include swelling of the face or ankles, dark colored urine or blood in the urine, or a decrease in urine production.
 Advise patients to report signs or symptoms of glomerulonephritis to their physician immediately [see Warnings and Precautions (5.5)].
 
-Infections
+Myelodysplastic Syndrome and Acute Myeloid Leukemia
 
-GRANIX is used in circumstances where the risk of infection is increased.
-Patients should be alert for signs of infection such as fever, redness or swelling, and should report these findings to their doctor immediately.
+There may be an increased risk of Myelodysplastic Syndrome and/or Acute Myeloid Leukemia in patients with congenital neutropenia who receive GRANIX and in patients with breast and lung cancer who receive GRANIX in conjunction with chemotherapy and/or radiation therapy.
+Symptoms of MDS and AML may include tiredness, fever, and easy bruising or bleeding.
+Advise patients to report to their physician signs and symptoms of MDS/AML [see Warnings and Precautions (5.8)].
 
 Pregnancy
 
@@ -52,26 +53,19 @@ If pregnancy occurs, advise patients of the possibility of fetal harm [see Use i
 
 Lactation
 
-Inform lactating women that filgrastim was detected in breast milk for up to 3 days after dosing [see Use in Specific Populations (8.2)].
+Advise women to avoid breastfeeding during treatment with GRANIX and for 2 weeks after the final dose.
+[see Use in Specific Populations (8.2)].
 
 See FDA-approved Patient Labeling (Patient Information) and Instructions for Use.
 
-TBO-009
+TBO-010
 
-©2014-2019 Cephalon, Inc., a wholly owned subsidiary of Teva Pharmaceutical Industries Ltd. All rights reserved.
+©2023 Cephalon, Inc., a wholly owned subsidiary of Teva Pharmaceutical Industries Ltd. All rights reserved.
 
-Manufactured by:
-
-UAB Teva Baltics
-
-Vilnius, Lithuania
+Manufactured by: UAB Teva Baltics Vilnius, Lithuania
 
 U.S. License No. 1803
 
-Distributed by:
-
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Distributed by: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Product of Israel

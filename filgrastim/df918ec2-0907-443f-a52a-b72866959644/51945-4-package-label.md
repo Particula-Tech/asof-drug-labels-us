@@ -111,6 +111,8 @@ Granix (tbo-filgrastim) Injection
 
 480 mcg/1.6 mL
 
+(300 mg/mL)
+
 For Subcutaneous Use Only.
 A recombinant Granulocyte Colony-Stimulating Factor (rG-CSF) derived from E. coli.
 Discard unused portion.

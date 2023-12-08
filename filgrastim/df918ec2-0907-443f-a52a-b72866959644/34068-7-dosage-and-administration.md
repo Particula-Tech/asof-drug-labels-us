@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosage
+## 2.1 Recommended Dosage
 
 The recommended dose of GRANIX is 5 mcg/kg per day administered as a subcutaneous injection.
 Administer the first dose of GRANIX no earlier than 24 hours following myelosuppressive chemotherapy.
@@ -16,7 +16,7 @@ Before a decision is made to allow GRANIX to be administered by a patient or car
 Proper training on storage, preparation, and administration technique should be provided.
 If a patient or caregiver is not an appropriate candidate for any reason, then in such patients, GRANIX should be administered by a healthcare professional.
 
-Dispense only the pre-filled syringe without a safety needle guard device to patient or caregiver.
+Dispense only the prefilled syringe without a safety needle guard device to patient or caregiver.
 Instruct patients and caregivers to follow the Instructions for Use provided with the GRANIX prefilled syringe to properly administer an injection after training by a healthcare professional.
 
 Visually inspect parenteral drug products for particulate matter and discoloration prior to administration.
@@ -30,7 +30,7 @@ Recommended sites for subcutaneous GRANIX injections include the abdomen (except
 The injection site should be varied daily.
 GRANIX should not be injected into an area that is tender, red, bruised, or hard, or that has scars or stretch marks.
 
-## 2.3 Instructions for Use of the Safety Needle Guard Device by Healthcare Professionals
+## 2.3 Important Administration Instructions for Healthcare Professionals
 
 Hold the syringe assembly by the open sides of the device and remove the needle shield.
 
