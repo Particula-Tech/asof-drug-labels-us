@@ -1,4 +1,4 @@
-# 6ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 A total of 946 patients participated in four Phase 3 controlled and uncontrolled PBA studies and received at least one dose of the combination product of dextromethorphan/quinidine in various strengths at the recommended or higher than the recommended dose.
 Of those patients, 393 patients were exposed for at least 180 days and 294 patients were exposed for at least one year.
@@ -7,7 +7,7 @@ Median exposure was 168 days.
 Controlled trials enrolled only patients with either ALS or MS. Uncontrolled studies enrolled 136 patients with PBA secondary to a wide variety of underlying neurological conditions including stroke (45 patients) and traumatic brain injury (23 patients).
 Consequently, patients with other underlying neurologic diseases may experience other adverse reactions not described below.
 
-## 6.1Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
 A 12-week, placebo-controlled study evaluated NUEDEXTA (dextromethorphan 20 mg/quinidine 10 mg) (N=107) and a 30 mg dextromethorphan/10 mg quinidine combination (N=110) compared to placebo (N=109).
 Approximately 60% of patients had ALS and 40% had MS. Patients were 25 to 80 years of age, with a mean age of approximately 51 years.
@@ -38,11 +38,11 @@ Table 1: Adverse Drug Reactions with an Incidence of ≥ 3% of Patients and ≥ 
 | Increased gamma- glutamyltransferase | 3 | 0 |
 | Flatulence | 3 | 1 |
 
-## 6.2Long-Term Exposure with NUEDEXTA
+## 6.2 Long-Term Exposure with NUEDEXTA
 
 The experience in open-label clinical trials is consistent with the safety profile observed in the placebo-controlled clinical trials.
 
-## 6.3Safety Experience of Individual Components
+## 6.3 Safety Experience of Individual Components
 
 The following adverse reactions have been reported with the use of the individual components of NUEDEXTA, dextromethorphan and quinidine, from post-marketing experience.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

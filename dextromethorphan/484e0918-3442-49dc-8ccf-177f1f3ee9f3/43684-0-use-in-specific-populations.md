@@ -1,6 +1,6 @@
-# 8USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1Pregnancy
+## 8.1 Pregnancy
 
 Risk Summary
 
@@ -26,7 +26,7 @@ The lowest dose tested (5/100 mg/kg/day) is approximately 1/50 times the RHD on 
 When dextromethorphan/quinidine was orally administered (0/0, 5/50, 15/50, 25/50 mg/kg) to male and female rats on postnatal day (PND) 7, the highest dose resulted in neuronal death in brain (thalamus and medulla oblongata).
 PND 7 in rat corresponds to the third trimester of the gestation through the first several months of life but may extend to approximately three years of age in humans.
 
-## 8.2Lactation
+## 8.2 Lactation
 
 Risk Summary
 
@@ -35,22 +35,22 @@ It is not known whether dextromethorphan is excreted in human milk.
 There are no data on the effects of quinidine or dextromethorphan on the breastfed infant or the effects on milk production.
 The development and health benefits of breastfeeding should be considered along with the mother’s clinical need for NUEDEXTA and any potential adverse effects on the breastfed infant from NUEDEXTA or from the underlying material condition.
 
-## 8.4Pediatric Use
+## 8.4 Pediatric Use
 
 The safety and effectiveness in pediatric patients below the age of 18 have not been established.
 
-## 8.5Geriatric Use
+## 8.5 Geriatric Use
 
 Of the total number of patients with PBA in clinical studies of NUEDEXTA, 14 percent were 65 years old and over, while 2 percent were 75 and over.
 Clinical studies of NUEDEXTA did not include sufficient number of patients aged 65 and over to determine whether they respond differently than younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-## 8.6Renal Impairment
+## 8.6 Renal Impairment
 
 Dose adjustment of NUEDEXTA is not required in patients with mild to moderate renal impairment [see Clinical Pharmacology (12.3)].
 The pharmacokinetics of NUEDEXTA have not been evaluated in patients with severe renal impairment; however, increases in dextromethorphan and/or quinidine levels are likely to be observed.
 
-## 8.7Hepatic Impairment
+## 8.7 Hepatic Impairment
 
 Dose adjustment of NUEDEXTA is not required in patients with mild to moderate hepatic impairment.
 The pharmacokinetics of NUEDEXTA have not been evaluated in patients with severe hepatic impairment; however, increases in dextromethorphan and/or quinidine levels are likely to be observed.

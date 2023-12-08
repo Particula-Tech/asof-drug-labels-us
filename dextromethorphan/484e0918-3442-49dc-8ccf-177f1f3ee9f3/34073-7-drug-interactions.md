@@ -1,22 +1,22 @@
-# 7DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
-## 7.1MAOIs
+## 7.1 MAOIs
 
 Do not use NUEDEXTA with monoamine oxidase inhibitors (MAOIs) or in patients who have taken MAOIs within the preceding 14 days [see Contraindications (4.3)].
 
-## 7.2Drugs that Prolong QT and are Metabolized by CYP2D6
+## 7.2 Drugs that Prolong QT and are Metabolized by CYP2D6
 
 Do not use with drugs that both prolong QT interval and are metabolized by CYP2D6 (e.g., thioridazine or pimozide) [see Contraindications (4.4)].
 
-## 7.3Drugs that Prolong QT and Concomitant CYP3A4 Inhibitors
+## 7.3 Drugs that Prolong QT and Concomitant CYP3A4 Inhibitors
 
 Recommend ECG in patients taking drugs with NUEDEXTA that prolong the QT interval and in patients taking concomitant moderate or strong CYP3A4 inhibitors [see Warnings and Precautions (5.3)].
 
-## 7.4SSRIs and Tricyclic Antidepressants
+## 7.4 SSRIs and Tricyclic Antidepressants
 
 Use of NUEDEXTA with SSRIs or tricyclic antidepressants increases the risk of ‘serotonin syndrome’ [see Warnings and Precautions (5.6)].
 
-## 7.5CYP2D6 Substrate
+## 7.5 CYP2D6 Substrate
 
 The co-administration of NUEDEXTA with drugs that undergo extensive CYP2D6 metabolism may result in altered drug effects, due to accumulation of parent drug and/or failure of metabolite formation [see Warnings and Precautions (5.4)].
 Therapy with medications that are primarily metabolized by CYP2D6 and that have a relatively narrow therapeutic index should be initiated at a low dose if a patient is receiving NUEDEXTA concurrently.
@@ -43,12 +43,12 @@ When the combination dose of dextromethorphan 30 mg/quinidine 30 mg was added to
 Consideration should be given to initiating treatment with a lower dose of paroxetine if given with NUEDEXTA.
 The dose of paroxetine can then be adjusted based on clinical response; however, dosage above 35 mg/day is not recommended.
 
-## 7.6Digoxin
+## 7.6 Digoxin
 
 Quinidine is an inhibitor of P-glycoprotein.
 Concomitant administration of quinidine with digoxin, a P-glycoprotein substrate, results in serum digoxin levels that may be as much as doubled.
 Plasma digoxin concentrations should be closely monitored in patients taking NUEDEXTA concomitantly, and the digoxin dose reduced, as necessary.
 
-## 7.7Alcohol
+## 7.7 Alcohol
 
 As with any other CNS drug, caution should be used when NUEDEXTA is taken in combination with other centrally acting drugs and alcohol.

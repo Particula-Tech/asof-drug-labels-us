@@ -1,4 +1,4 @@
-# 10OVERDOSAGE
+# 10 OVERDOSAGE
 
 Evaluation and treatment of NUEDEXTA overdose is based on experience with the individual components, dextromethorphan and quinidine.
 Metabolism of the dextromethorphan component of NUEDEXTA is inhibited by the quinidine component, such that adverse effects of overdose due to NUEDEXTA might be more severe or more persistent compared to overdose of dextromethorphan alone.
@@ -15,7 +15,7 @@ Adverse effects of dextromethorphan overdose include nausea, vomiting, stupor, c
 Other adverse effects include ataxia, nystagmus, dystonia, blurred vision, and changes in muscle reflexes.
 Dextromethorphan may cause serotonin syndrome, and this risk is increased by overdose, particularly if taken with other serotonergic agents, SSRIs or tricyclic antidepressants.
 
-## 10.1Treatment of Overdose
+## 10.1 Treatment of Overdose
 
 While serum quinidine levels can be measured, electrocardiographic monitoring of the QTc interval is a better predictor of quinidine-induced arrhythmia.
 Treatment of hemodynamically unstable polymorphic ventricular tachycardia (including torsades de pointes) is either immediate cardioversion or, if a cardiac pacemaker is in place or immediately available, immediate overdrive pacing.

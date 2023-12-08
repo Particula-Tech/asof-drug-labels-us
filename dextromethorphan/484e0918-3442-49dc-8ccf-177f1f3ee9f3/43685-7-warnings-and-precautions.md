@@ -1,6 +1,6 @@
-# 5WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
-## 5.1Thrombocytopenia and Other Hypersensitivity Reactions
+## 5.1 Thrombocytopenia and Other Hypersensitivity Reactions
 
 Quinidine can cause immune-mediated thrombocytopenia that can be severe or fatal.
 Non-specific symptoms, such as lightheadedness, chills, fever, nausea, and vomiting, can precede or occur with thrombocytopenia.
@@ -12,13 +12,13 @@ Quinidine-associated thrombocytopenia usually, but not always, resolves within a
 Quinidine has also been associated with a lupus-like syndrome involving polyarthritis, sometimes with a positive antinuclear antibody test.
 Other associations include rash, bronchospasm, lymphadenopathy, hemolytic anemia, vasculitis, uveitis, angioedema, agranulocytosis, the sicca syndrome, myalgia, elevation in serum levels of skeletal-muscle enzymes, and pneumonitis.
 
-## 5.2Hepatotoxicity
+## 5.2 Hepatotoxicity
 
 Hepatitis, including granulomatous hepatitis, has been reported in patients receiving quinidine, generally during the first few weeks of therapy.
 Fever may be a presenting symptom, and thrombocytopenia or other signs of hypersensitivity may also occur.
 Most cases remit when quinidine is withdrawn.
 
-## 5.3Cardiac Effects
+## 5.3 Cardiac Effects
 
 NUEDEXTA causes dose-dependent QTc prolongation [see Clinical Pharmacology (12.2)].
 QT prolongation can cause torsades de pointes-type ventricular tachycardia, with the risk increasing as the degree of prolongation increases.
@@ -35,26 +35,26 @@ Hypokalemia and hypomagnesemia should be corrected prior to initiation of therap
 
 If patients taking NUEDEXTA experience symptoms that could indicate the occurrence of cardiac arrhythmias, e.g., syncope or palpitations, NUEDEXTA should be discontinued and the patient further evaluated.
 
-## 5.4Concomitant use of CYP2D6 Substrates
+## 5.4 Concomitant use of CYP2D6 Substrates
 
 The quinidine in NUEDEXTA inhibits CYP2D6 in patients in whom CYP2D6 is not otherwise genetically absent or its activity otherwise pharmacologically inhibited [see Warnings and Precautions (5.8) and Clinical Pharmacology (12.3), (12.5)].
 Because of this effect on CYP2D6, accumulation of parent drug and/or failure of active metabolite formation may decrease the safety and/or the efficacy of drugs used concomitantly with NUEDEXTA that are metabolized by CYP2D6 [see Drug Interactions (7.5)].
 
-## 5.5Dizziness
+## 5.5 Dizziness
 
 NUEDEXTA may cause dizziness [see Adverse Reactions (6.1)].
 Precautions to reduce the risk of falls should be taken, particularly for patients with motor impairment affecting gait or a history of falls.
 In a controlled trial of NUEDEXTA, 10% of patients on NUEDEXTA and 5% on placebo experienced dizziness.
 
-## 5.6Serotonin Syndrome
+## 5.6 Serotonin Syndrome
 
 When used with SSRIs (such as fluoxetine) or tricyclic antidepressants (such as clomipramine and imipramine), NUEDEXTA may cause “serotonin syndrome”, with changes including altered mental status, hypertension, restlessness, myoclonus, hyperthermia, hyperreflexia, diaphoresis, shivering, and tremor [see Drug Interactions (7.4), Overdosage (10)].
 
-## 5.7Anticholinergic Effects of Quinidine
+## 5.7 Anticholinergic Effects of Quinidine
 
 Monitor for worsening clinical condition in myasthenia gravis and other conditions that may be adversely affected by anticholinergic effects.
 
-## 5.8CYP2D6 Poor Metabolizers
+## 5.8 CYP2D6 Poor Metabolizers
 
 The quinidine component of NUEDEXTA is intended to inhibit CYP2D6 so that higher exposure to dextromethorphan can be achieved compared to when dextromethorphan is given alone [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3), (12.5)].
 Approximately 7-10% of Caucasians and 3-8% of African Americans lack the capacity to metabolize CYP2D6 substrates and are classified as poor metabolizers (PMs).

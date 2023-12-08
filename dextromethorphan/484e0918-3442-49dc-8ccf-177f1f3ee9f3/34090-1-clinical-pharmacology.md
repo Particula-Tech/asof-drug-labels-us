@@ -1,12 +1,12 @@
-# 12CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## 12.1Mechanism of Action
+## 12.1 Mechanism of Action
 
 Dextromethorphan (DM) is a sigma-1 receptor agonist and an uncompetitive NMDA receptor antagonist.
 Quinidine increases plasma levels of dextromethorphan by competitively inhibiting cytochrome P450 2D6, which catalyzes a major biotransformation pathway for dextromethorphan.
 The mechanism by which dextromethorphan exerts therapeutic effects in patients with pseudobulbar affect is unknown.
 
-## 12.2Pharmacodynamics
+## 12.2 Pharmacodynamics
 
 Cardiac Electrophysiology
 
@@ -18,7 +18,7 @@ The effects of supratherapeutic doses of dextromethorphan/quinidine (30 mg/30mg 
 The maximum mean (95% upper confidence bound) differences from placebo after baseline-correction were 10.2 (14.6) and 18.4 (22.7) ms following dextromethorphan/quinidine doses of 30 mg/30 mg and 60/60 mg, respectively.
 The supratherapeutic doses are adequate to represent exposure increases due to drug-drug interactions and organ dysfunctions.
 
-## 12.3Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 NUEDEXTA contains dextromethorphan and quinidine, both of which are metabolized primarily by liver enzymes.
 Quinidine’s primary pharmacological action in NUEDEXTA is to competitively inhibit the metabolism of dextromethorphan catalyzed by CYP2D6 in order to increase and prolong plasma concentrations of dextromethorphan [see Warnings and Precautions (5.4), (5.8), and Clinical Pharmacology (12.5)].
@@ -88,7 +88,7 @@ Therefore, dosage adjustment is not required in patients with mild and moderate 
 Quinidine clearance is unaffected by hepatic cirrhosis, although there is an increased volume of distribution that leads to an increase in the elimination half-life.
 Neither dextromethorphan alone nor NUEDEXTA has been evaluated in patients with severe hepatic impairment.
 
-## 12.4Drug-Drug Interactions
+## 12.4 Drug-Drug Interactions
 
 The potential for dextromethorphan and quinidine to inhibit or induce cytochrome P450 in vitro were evaluated in human microsomes.
 Dextromethorphan did not inhibit (< 20% inhibition) any of the tested isoenzymes: CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, or CYP3A4 in human liver microsomes at concentrations up to 5 microM.
@@ -120,7 +120,7 @@ Both dextromethorphan and memantine are antagonists of the N-methyl-D-aspartate 
 There was no significant difference in the plasma concentrations of dextromethorphan and dextrorphan before and after the administration of memantine.
 Plasma concentrations of quinidine increased 20-30% when memantine was added to dextromethorphan 30 mg/quinidine 30 mg.
 
-## 12.5Pharmacogenomics
+## 12.5 Pharmacogenomics
 
 The quinidine component of NUEDEXTA is intended to inhibit CYP2D6 so that higher exposure to dextromethorphan can be achieved compared to when dextromethorphan is given alone.
 Approximately 7-10% of Caucasians and 3-8% of African Americans generally lack the capacity to metabolize CYP2D6 substrates and are classified as PMs.

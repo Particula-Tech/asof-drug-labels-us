@@ -1,4 +1,4 @@
-# 14CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 The efficacy of NUEDEXTA was demonstrated in one trial in patients with pseudobulbar affect (PBA).
 These patients had underlying amyotrophic lateral sclerosis (ALS) or multiple sclerosis (MS).

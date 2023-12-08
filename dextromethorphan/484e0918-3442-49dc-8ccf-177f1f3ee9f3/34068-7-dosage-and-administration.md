@@ -1,6 +1,6 @@
-# 2DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## 2.1Recommended Dose
+## 2.1 Recommended Dose
 
 The recommended starting dose of NUEDEXTA is one capsule daily by mouth for the initial seven days of therapy.
 On the eighth day of therapy and thereafter, the daily dose should be a total of two capsules a day, given as one capsule every 12 hours.

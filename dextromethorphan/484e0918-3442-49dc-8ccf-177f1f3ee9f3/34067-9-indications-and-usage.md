@@ -1,4 +1,4 @@
-# 1INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 NUEDEXTA is indicated for the treatment of pseudobulbar affect (PBA).
 

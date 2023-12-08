@@ -1,4 +1,4 @@
-# 16HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 NUEDEXTA is supplied as brick red gelatin capsules imprinted with “DMQ 20-10”.
 NUEDEXTA is supplied in the following package configuration:

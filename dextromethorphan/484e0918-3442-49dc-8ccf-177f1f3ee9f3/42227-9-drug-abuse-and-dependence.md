@@ -1,4 +1,4 @@
-# 9DRUG ABUSE AND DEPENDENCE
+# 9 DRUG ABUSE AND DEPENDENCE
 
 NUEDEXTA is a low-affinity uncompetitive NMDA antagonist and sigma-1 receptor agonist that has not been systematically studied in animals or humans for its potential for abuse, tolerance, or physical dependence.
 However, NUEDEXTA is a combination product containing dextromethorphan and quinidine, and cases of dextromethorphan abuse have been reported, predominantly in adolescents.

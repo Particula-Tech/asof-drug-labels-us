@@ -1,4 +1,4 @@
-# 17PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Hypersensitivity
 
@@ -36,9 +36,18 @@ Advise patients to keep this and all medications out of reach of children and pe
 
 Marketed by:
 
-Avanir Pharmaceuticals, Inc. Aliso Viejo, CA 92656 1-855-4NUEDEX (468-3339)
+Avanir Pharmaceuticals, Inc.
+
+Aliso Viejo, CA 92656
+
+1-855-4NUEDEX (468-3339)
 
 Part No. MS-04305B
 
-AVANIR and NUEDEXTA are trademarks or registered trademarks of Avanir Pharmaceuticals, Inc. in the United States and other countries.
-U.S. Patent Nos.: 8,227,484 and 7,659,282 ©2010-2019 Avanir Pharmaceuticals, Inc. All rights reserved.
+AVANIR and NUEDEXTA are trademarks or registered trademarks of
+
+Avanir Pharmaceuticals, Inc. in the United States and other countries.
+
+U.S. Patent Nos.: 8,227,484 and 7,659,282
+
+©2010-2019 Avanir Pharmaceuticals, Inc. All rights reserved.
