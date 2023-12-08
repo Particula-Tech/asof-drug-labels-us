@@ -7,7 +7,15 @@ Efficacy was evaluated in terms of success on the Global Acne Assessment Score (
 
 The Global Acne Assessment Score was a 5-point scale as follows:
 
-0 None: no evidence of facial acne vulgaris 1 Minimal: few non-inflammatory lesions (comedones) are present; a few inflammatory lesions (papules/pustules) may be present 2 Mild: several to many non-inflammatory lesions (comedones) are present; a few inflammatory lesions (papules/pustules) are present 3 Moderate: many non-inflammatory (comedones) and inflammatory lesions (papules/pustules) are present; no nodulo-cystic lesions are allowed 4 Severe: significant degree of inflammatory disease; papules/pustules are a predominant feature; a few nodulo-cystic lesions may be present; comedones may be present.
+0 None: no evidence of facial acne vulgaris
+
+1 Minimal: few non-inflammatory lesions (comedones) are present; a few inflammatory lesions (papules/pustules) may be present
+
+2 Mild: several to many non-inflammatory lesions (comedones) are present; a few inflammatory lesions (papules/pustules) are present
+
+3 Moderate: many non-inflammatory (comedones) and inflammatory lesions (papules/pustules) are present; no nodulo-cystic lesions are allowed
+
+4 Severe: significant degree of inflammatory disease; papules/pustules are a predominant feature; a few nodulo-cystic lesions may be present; comedones may be present.
 
 The success rates on the Global Acne Assessment Score (no or minimal acne) at Week 12 are presented in Table 4.
 
@@ -15,10 +23,9 @@ Table 4 - Success (No or Minimal Acne) on the Global Acne Assessment Score at We
 
 |  | Study 1* |  | Study 2* |  |
 | --- | --- | --- | --- | --- |
-|  | ACZONE N=699 | Vehicle N=687 | ACZONE N=729 | Vehicle N=738 |
+| ACZONE (N=699) | Vehicle (N=687) | ACZONE (N=729) | Vehicle (N=738) |  |
 | Subjects with No or Minimal Acne | 291 (42%) | 223 (32%) | 253 (35%) | 206 (28%) |
-
-*Analysis excludes subjects classified with minimal acne at baseline
+| *Analysis excludes subjects classified with minimal acne at baseline |  |  |  |  |
 
 Table 5 presents the mean percent reduction in inflammatory, non-inflammatory, and total lesions from baseline to Week 12.
 
@@ -26,7 +33,7 @@ Table 5 - Percent Reduction in Lesions from Baseline to Week 12
 
 |  | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
-|  | ACZONE N=745 | Vehicle N=740 | ACZONE N=761 | Vehicle N=764 |
+| ACZONE (N=745) | Vehicle (N=740) | ACZONE (N=761) | Vehicle (N=764) |  |
 | Inflammatory | 46% | 42% | 48% | 40% |
 | Non-Inflammatory | 31% | 24% | 30% | 21% |
 | Total | 38% | 32% | 37% | 29% |

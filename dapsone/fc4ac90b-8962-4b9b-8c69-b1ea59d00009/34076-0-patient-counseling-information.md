@@ -1,4 +1,4 @@
-# 17PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
@@ -15,10 +15,9 @@ Important Administration Instructions
 - ACZONE Gel, 5% is for topical use only.
 - Do not apply ACZONE Gel, 5% to eyes, mouth, or mucous membranes.
 
-Product of Italy Distributed by Alrmirall, LLC, Exton, PA 19341, USAACZONE® is a trademark of Almirall, LLC.
-Almirall® and its design are trademarks of Almirall, Inc. ©2019 Almirall, LLC.
+Distributed by: Almirall, LLC.
+Exton, PA 19341
+
+© 2019 Almirall, LLC.
 All rights reserved.
-
-v1.0USPI3670
-
--------Cut Here ---------------------------------------------------------------------------------------------------------------
+All trademarks are the property of their respective owners.

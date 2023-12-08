@@ -1,27 +1,7 @@
-# PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL - NDC: 16110-367-60 - 60 g Carton Label
 
-NDC 16110-367-60
+# PRINCIPAL DISPLAY PANEL - NDC: 16110-367-90 - 90 g Carton Label
 
-Aczone®
+# PRINCIPAL DISPLAY PANEL - NDC: 16110-367-60 - 60 g Tube Label
 
-(dapsone) gel, 5%
-
-For tropical use only
-
-60 g Rx only
-
-almirall
-
-# PRINCIPAL DISPLAY PANEL
-
-NDC 16110-367-90
-
-Aczone®
-
-(dapsone) gel, 5%
-
-For tropical use only
-
-90 g Rx only
-
-almirall
+# PRINCIPAL DISPLAY PANEL - NDC: 16110-367-90 - 90 g Tube Label
