@@ -16,4 +16,4 @@ Its solutions are acid to litmus.
 It is freely soluble in water and in methanol, soluble in alcohol, and slightly soluble in chloroform and in acetone.
 Its molecular weight is 269.77 g/mol.
 
-Inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose, sodium starch glycolate, and FD&C Blue No.1 aluminum lake (2.5 mg tablets), D&C Yellow Lake No. 10 (5 mg tablets); the 10 mg tablet contains no dye.
+Inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose, sodium starch glycolate, and FD&C Blue No.1 aluminum lake (2.5 mg tablets), D&C Yellow Lake No. 10 (5 mg tablets); the 10 mg tablets contain no dye.

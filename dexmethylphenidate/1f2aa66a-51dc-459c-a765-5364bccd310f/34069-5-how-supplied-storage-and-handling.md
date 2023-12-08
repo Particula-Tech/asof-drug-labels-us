@@ -11,10 +11,3 @@ Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and
 Dispense in tight, light-resistant container as defined in the USP, with a child-resistant closure.
 
 Protect from light and moisture.
-
-Disposal
-
-Comply with local laws and regulations on drug disposal of CNS stimulants.
-Dispose of remaining, unused, or expired dexmethylphenidate hydrochloride tablets by a medicine takeback program or by an authorized collector registered with the Drug Enforcement Administration.
-If no take-back program or authorized collector is available, mix dexmethylphenidate hydrochloride tablets with an undesirable, nontoxic substance to make it less appealing to children and pets.
-Place the mixture in a container, such as a sealed plastic bag and discard dexmethylphenidate hydrochloride tablets in the household trash.

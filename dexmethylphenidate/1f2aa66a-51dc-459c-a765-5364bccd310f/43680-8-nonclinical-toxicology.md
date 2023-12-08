@@ -14,7 +14,7 @@ The mouse strain used is sensitive to the development of hepatic tumors and the 
 Racemic methylphenidate did not cause any increase in tumors in a lifetime carcinogenicity study carried out in F344 rats; the highest dose used was approximately 45 mg/kg/day, which is approximately 4 times the MRHD (children) of 60 mg/day of racemic methylphenidate on a mg/m2 basis.
 
 In a 24-week carcinogenicity study with racemic methylphenidate in the transgenic mouse strain p53+/-, which is sensitive to genotoxic carcinogens, there was no evidence of carcinogenicity.
-Male and female mice were fed diets containing the same concentrations as in the lifetime carcinogenicity study; the high-dose group was exposed to 60 to 74 mg/kg/day of racemic methylphenidate.
+Male and female mice were fed diets containing the same concentrations as in the lifetime carcinogenicity study; the high-dose group was exposed to 60-74 mg/kg/day of racemic methylphenidate.
 
 Mutagenesis
 

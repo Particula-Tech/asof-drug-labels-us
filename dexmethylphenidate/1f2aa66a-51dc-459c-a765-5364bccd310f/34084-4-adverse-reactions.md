@@ -2,21 +2,24 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Abuse and Dependence [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)]
+- Abuse, Misuse, and Addiction [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)]
 - Known hypersensitivity to methylphenidate or other ingredients of dexmethylphenidate hydrochloride tablets [see Contraindications (4)]
 - Hypertensive crisis with Concomitant Use of Monoamine Oxidase Inhibitors [see Contraindications (4), Drug Interactions (7.1)]
-- Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
-- Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
+- Risks to Patients with Serious Cardiac Disease [see Warnings and Precautions (5.2)]
+- Increased Blood Pressure and Heart Rate [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Priapism [see Warnings and Precautions (5.5)]
 - Peripheral Vasculopathy, Including Raynaud’s phenomenon [see Warnings and Precautions (5.6)]
-- Long-term Suppression of Growth [see Warnings and Precautions (5.7)]
+- Long-Term Suppression of Growth in Pediatric Patients [see Warnings and Precautions (5.7)]
+- Acute Angle Closure Glaucoma [see Warnings and Precautions (5.8)]
+- Increased Intraocular Pressure and Glaucoma [see Warnings and Precautions (5.9)]
+- Motor and Verbal Tics, and Worsening of Tourette’s Syndrome [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Clinical Trials Experience With Dexmethylphenidate Hydrochloride Tablets in Pediatric Patients With ADHD
+Adverse Reactions in Studies with Dexmethylphenidate Hydrochloride Tablets in Pediatric Patients with ADHD
 
 The safety data in this section is based on data related to dexmethylphenidate hydrochloride tablets exposure during the premarketing development program in a total of 696 participants in clinical trials (684 patients, 12 healthy adult subjects).
 These participants received dexmethylphenidate hydrochloride tablets 5, 10, or 20 mg/day.
@@ -32,25 +35,25 @@ The table includes only those reactions that occurred in patients treated with d
 
 Table 1: Common Adverse Reactions in Pediatric Patients (6 to 17 years of age) With ADHD
 
-| System Organ Class | Adverse Reactions | Dexmethylphenidate Hydrochloride Tablets (N = 79) | Placebo (N = 82) |
+| System organ class | Adverse reactions | Dexmethylphenidate Hydrochloride Tablets (N = 79) | Placebo (N = 82) |
 | --- | --- | --- | --- |
-| Body as a Whole | Abdominal pain | 15% | 6% |
+| Body as a whole | Abdominal pain | 15% | 6% |
 |  | Fever | 5% | 1% |
-| Digestive System | Anorexia | 6% | 1% |
+| Digestive system | Anorexia | 6% | 1% |
 |  | Nausea | 9% | 1% |
 
 Abbreviation: ADHD, attention deficit hyperactivity disorder.
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been identified during post approval use of dexmethylphenidate.
+The following additional adverse reactions have been identified during postapproval use of dexmethylphenidate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Musculoskeletal: rhabdomyolysis
 
 Immune System Disorders: hypersensitivity reactions, such as angioedema, anaphylactic reactions
 
-Adverse Reactions Reported With All Methylphenidate Hydrochloride and Dexmethylphenidate Hydrochloride Tablets Formulations
+Adverse Reactions Reported with All Methylphenidate Hydrochloride and Dexmethylphenidate Hydrochloride Tablets Formulations
 
 The following adverse reactions associated with the use of all methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations were identified in clinical trials, spontaneous reports, and literature.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
@@ -63,7 +66,7 @@ Immune System Disorders: hypersensitivity reactions, including angioedema and an
 
 Metabolism and Nutrition Disorders: decreased appetite, reduced weight gain, and suppression of growth during prolonged use in pediatric patients
 
-Psychiatric Disorders: insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood
+Psychiatric Disorders: insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood, depression
 
 Nervous System Disorders: headache, dizziness, tremor, dyskinesia, including choreoatheetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages, and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
 
@@ -79,27 +82,27 @@ Hepatobiliary Disorders: abnormal liver function, ranging from transaminase elev
 
 Skin and Subcutaneous Tissue Disorders: hyperhidrosis, pruritus, urticaria, exfoliative dermatitis, scalp hair loss, erythema multiforme rash, thrombocytopenic purpura
 
-Musculoskeletal and Connective Tissue, and Bone Disorders: arthralgia, muscle cramps, rhabdomyolysis
+Musculoskeletal and Connective Tissue Disorders: arthralgia, muscle cramps, rhabdomyolysis, trismus
 
 Investigations: weight loss (adult ADHD patients)
 
-Additional Adverse Reactions Reported With Other Methylphenidate-Containing Products
+Vascular Disorders: peripheral coldness, Raynaud's phenomenon
+
+Additional Adverse Reactions Reported with Other Methylphenidate-Containing Products
 
 The list below shows adverse reactions not listed with methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations that have been reported with other methylphenidate products based on clinical trials data and post-marketing spontaneous reports.
 
 Blood and Lymphatic Disorders: pancytopenia
 
-Immune System Disorders: hypersensitivity reactions such as auricular swelling
+Immune System Disorders: hypersensitivity reactions, such as auricular swelling
 
 Psychiatric Disorders: affect lability, mania, disorientation, libido changes
 
-Nervous System Disorders: migraine
+Nervous System Disorders: migraine, motor and verbal Tics
 
-Eye Disorders: diplopia, mydriasis
+Eye Disorders: diplopia, increased intraocular pressure, mydriasis
 
 Cardiac Disorders: sudden cardiac death, myocardial infarction, bradycardia, extrasystole, supraventricular tachycardia, ventricular extrasystole
-
-Vascular Disorders: peripheral coldness, Raynaud's phenomenon
 
 Respiratory, Thoracic, and Mediastinal Disorders: pharyngolaryngeal pain, dyspnea
 

@@ -10,25 +10,25 @@ The primary outcome was change from baseline to week 4 of the average score (an 
 This 18 item scale measures ADHD symptoms of inattention and hyperactivity/impulsivity, rated on a scale of 0 (Not at All) to 3 (Very Much).
 Patients treated with dexmethylphenidate hydrochloride tablets showed a statistically significant improvement in symptom scores from baseline over patients who received placebo (Table 3).
 
-Table 3: Summary of Efficacy Results from ADHD Acute-Phase Study in Pediatric Patients (6 to 17 years) (Study 1)
+Table 3: Summary of Efficacy Results From ADHD Acute-Phase Study in Pediatric Patients (6 - 17 years) (Study 1)
 
-| Study Number | Treatment Group | Primary Efficacy Measure: Teacher SNAP-ADHD Total Scorea |  |
+| Study number | Treatment group | Primary efficacy measure: teacher SNAP-ADHD total Scorea |  |
 | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | Mean Change from Baseline Week 4 Score (SD) |
+|  |  | Mean baseline score (SD) | Mean change from baseline Week 4 score (SD) |
 | Study 1 | Dexmethylphenidate hydrochloride tablets 5-20 mg/dayb (n = 44) | 1.4 (0.7) (n = 42) | - 0.7 (0.7) (n = 42) |
 |  | Placebo (n = 42) | 1.6 (0.7) (n = 41) | - 0.2 (0.7) (n = 39) |
-| Abbreviations: ADHD, attention deficit hyperactivity disorder; SD, standard deviation; SNAP; Swanson, Nolan and Pelham; n, number of patients available at the assessment time point. aAverage of two ratings. bStatistically significantly different from placebo. |  |  |  |
+| Abbreviations: ADHD, attention deficit hyperactivity disorder; SD, standard deviation; SNAP; swanson, Nolan and Pelham; n, number of patients available at the assessment time point. a Average of two ratings. b Statistically significantly different from placebo. |  |  |  |
 
 Study 2 was a multicenter, placebo-controlled, double-blind, 2-week treatment withdrawal study in 75 children (ages 6 to 12 years) who were responders during a 6-week, open-label initial treatment period.
 Children took study medication twice a day separated by a 3.5 to 5.5 hour interval.
 The primary outcome was proportion of treatment failures at the end of the 2-week withdrawal phase, where treatment failure was defined as a rating of 6 (much worse) or 7 (very much worse) on the Investigator Clinical Global Impression - Improvement (CGI-I).
 Patients continued on dexmethylphenidate hydrochloride tablets showed a statistically significant lower rate of failure over patients who received placebo (Table 4).
 
-Table 4: Summary of Efficacy Results from ADHD Randomized Withdrawal Study in Pediatric Patients (6 to 17 years) (Study 2)
+Table 4: Summary of Efficacy Results From ADHD Randomized Withdrawal Study in Pediatric Patients (6 - 17 years) (Study 2)
 
-| Study Number | Treatment Group | Primary Efficacy Measure: Proportion of Treatment Failurea |  |
+| Study number | Treatment group | Primary efficacy measure: proportion of treatment failurea |  |
 | --- | --- | --- | --- |
-|  |  | Number of Treatment Failures / Number of Randomized Patients | Percentage |
+|  |  | Number of treatment failures / Number of randomized patients | Percentage |
 | Study 2 | Dexmethylphenidate hydrochloride tablets 5-20 mg/dayb | 6/35 | 17.1% |
 |  | Placebo | 25/40 | 62.5% |
-| Abbreviation: ADHD, attention deficit hyperactivity disorder. aOne patient did not have the value at Visit 10 and hence not included in this analysis. bStatistically significantly different from placebo. |  |  |  |
+| Abbreviation: ADHD, attention deficit hyperactivity disorder. a One patient did not have the value at Visit 10 and hence not included in this analysis. b Statistically significantly different from placebo. |  |  |  |

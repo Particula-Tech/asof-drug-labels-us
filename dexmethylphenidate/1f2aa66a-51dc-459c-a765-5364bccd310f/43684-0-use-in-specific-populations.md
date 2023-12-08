@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including dexmethylphenidate hydrochloride tablets, during pregnancy.
-Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for ADHD medications at 1-866-961-2388 or visit https://womensmentalhealth.org/adhd-medications/.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for ADHD medications at 1-866-961-2388 or visiting https://womensmentalhealth.org/adhd-medications/.
 
 Risk Summary
 
@@ -44,7 +44,7 @@ Racemic methylphenidate has been shown to cause malformations (increased inciden
 Risk Summary
 
 Dexmethylphenidate is the d-threo enantiomer of racemic methylphenidate.
-Limited published literature, based on milk sampling from seven mothers reports that methylphenidate is present in human milk, which resulted in infant doses of 0.16% to 0.7% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 1.1 and 2.7.
+Limited published literature, based on milk sampling from seven mothers' reports that methylphenidate is present in human milk, which resulted in infant doses of 0.16% to 0.7% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 1.1 and 2.7.
 There are no reports of adverse effects on the breastfed infant and no effects on milk production.
 Long-term neurodevelopmental effects on infants from stimulant exposure are unknown.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for dexmethylphenidate hydrochloride tablets and any potential adverse effects on the breastfed infant from dexmethylphenidate hydrochloride tablets or from the underlying maternal condition.
@@ -55,9 +55,9 @@ Monitor breastfeeding infants for adverse reactions, such as agitation, insomnia
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of dexmethylphenidate hydrochloride tablets have been established in pediatric patients ages 6 to 17 years in two adequate and well-controlled clinical trials [see Clinical Studies (14)].
+The safety and effectiveness of dexmethylphenidate hydrochloride tablets have been established in pediatric patients aged 6 to 17 years in two adequate and well-controlled clinical trials [see Clinical Studies (14)].
 
-The safety and effectiveness of dexmethylphenidate hydrochloride tablets in pediatric patients less than 6 years have not been established.
+The safety and effectiveness of dexmethylphenidate hydrochloride tablets in pediatric patients aged less than 6 years have not been established.
 
 The long-term efficacy of dexmethylphenidate hydrochloride tablets in pediatric patients has not been established.
 
