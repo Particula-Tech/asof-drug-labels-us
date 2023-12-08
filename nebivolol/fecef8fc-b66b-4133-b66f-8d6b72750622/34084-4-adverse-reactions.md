@@ -49,7 +49,7 @@ Gastrointestinal System Disorders: abdominal pain Metabolic and Nutritional Diso
 
 In controlled monotherapy trials of hypertensive patients, nebivolol was associated with an increase in BUN, uric acid, triglycerides and a decrease in HDL cholesterol and platelet count.
 
-## 6.3 Post marketing Experience
+## 6.3 Postmarketing Experience
 
 The following adverse reactions have been identified from spontaneous reports of nebivolol received worldwide and have not been listed elsewhere.
 These adverse reactions have been chosen for inclusion due to a combination of seriousness, frequency of reporting or potential causal connection to nebivolol.

@@ -17,7 +17,6 @@ Nebivolol tablet treats:
 Nebivolol tablet can lower blood pressure when used by itself and with other medicines.
 
 Nebivolol tablet is not approved for children less than 18 years of age.
-
 WHO SHOULD NOT TAKE NEBIVOLOL TABLETS?
 
 Do not take nebivolol tablets if you:
@@ -79,6 +78,8 @@ WHAT ARE POSSIBLE SIDE EFFECTS OF NEBIVOLOL TABLETS?
 - Headache
 - Leg swelling due to fluid retention (edema).
   Tell your doctor if you gain weight or have trouble breathing while taking nebivolol tablets.
+- If you are diabetic or take medicine for high blood sugar or if you have a tendency to have low blood sugar, Bystolic can mask/cover some of the signs and symptoms that would tell you that your blood sugar may be low, like heart palpitations or rapid heart beating.
+  Ask your doctor for other signs that may alert you when having low blood sugar.
 
 Tell your doctor if you have any side effects that bother you or don't go away.
 
@@ -101,7 +102,7 @@ For more information:
 
 - Talk with your doctor.
 - Ask your doctor or pharmacist for information about nebivolol tablets that is written for healthcare professionals.
-- Call on Ascend Laboratories, LLC at 1-877-ASC-RX01 (877-272-7901)
+- Call on Ascend Laboratories, LLC at 1-877-272-7901.
 
 WHAT IS IN NEBIVOLOL TABLETS?
 
@@ -119,9 +120,9 @@ Nebivolol tablets can help your blood vessels relax so your blood pressure is lo
 Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
 
 Rev.
-November 2021 Manufactured by: Alkem Laboratories Ltd., INDIA.
+July 2023 Manufactured by: Alkem Laboratories Ltd., INDIA.
 Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054
 
-Actidose-Aqua® is a registered trademark of Paddock Laboratories, LLC
+Trademarks are the property of their respective owners.
 
-PT3536-02
+PT3536-03 / PT2503-02

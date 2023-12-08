@@ -37,4 +37,4 @@ Effectiveness was similar in subgroups analyzed by age and sex.
 Effectiveness was established in Blacks, but as monotherapy the magnitude of effect was somewhat less than in Caucasians.
 
 The blood pressure lowering effect of nebivolol was seen within two weeks of treatment and was maintained over the 24-hour dosing interval.
-There are no trials of Nebivolol tablets demonstrating reductions in cardiovascular risk in patients with hypertension, but at least one pharmacologically similar drug has demonstrated such benefits.
+There are no trials of nebivolol demonstrating reductions in cardiovascular risk in patients with hypertension, but at least one pharmacologically similar drug has demonstrated such benefits.

@@ -80,7 +80,7 @@ Fluoxetine: Fluoxetine, a CYP2D6 inhibitor, administered at 20 mg per day for 21
 Histamine-2 Receptor Antagonists: The pharmacokinetics of nebivolol (5 mg single dose) were not affected by the co-administration of ranitidine (150 mg twice daily).
 Cimetidine (400 mg twice daily) causes a 23% increase in the plasma levels of d-nebivolol.
 
-Charcoal: The pharmacokinetics of nebivolol (10 mg single dose) were not affected by repeated co- administration (4, 8, 12, 16, 22, 28, 36, and 48 hours after nebivolol administration) of activated charcoal (Actidose-Aqua®).
+Charcoal: The pharmacokinetics of nebivolol (10 mg single dose) were not affected by repeated co- administration (4, 8, 12, 16, 22, 28, 36, and 48 hours after nebivolol administration) of activated charcoal (Actidose®-Aqua).
 
 Sildenafil: The co-administration of nebivolol and sildenafil decreased AUC and Cmax of sildenafil by 21 and 23% respectively.
 The effect on the Cmax and AUC for d-nebivolol was also small (Less than 20%).
