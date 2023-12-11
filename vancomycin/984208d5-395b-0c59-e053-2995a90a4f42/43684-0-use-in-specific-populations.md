@@ -15,11 +15,11 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Human Data
 
-A published study evaluated hearing loss and nephrotoxicity in infants of pregnant intravenous drug users treated with vancomycin for suspected or documented methicillin‑resistant S. aureus in the second or third trimester.
+A published study evaluated hearing loss and nephrotoxicity in infants of pregnant intravenous drug users treated with vancomycin for suspected or documented methicillin‑resistant S. aureusin the second or third trimester.
 The comparison groups were 10 non‑intravenous drug‑dependent patients who received no treatment, and 10 untreated intravenous drug‑dependent patients served as substance abuse controls.
 No infant in the vancomycin-exposed group had abnormal sensorineural hearing at 3 months of age or nephrotoxicity.
 
-A published prospective study assessed outcomes in 55 pregnant women with a positive Group B Streptococcus culture and a high‑risk penicillin allergy with resistance to clindamycin or unknown sensitivity who were administered vancomycin at the time of delivery.
+A published prospective study assessed outcomes in 55 pregnant women with a positive Group B Streptococcusculture and a high‑risk penicillin allergy with resistance to clindamycin or unknown sensitivity who were administered vancomycin at the time of delivery.
 Vancomycin dosing ranged from the standard 1 g intravenously every 12 hours to 20 mg/kg intravenous every 8 hours (maximum individual dose 2 g). No major adverse reactions were recorded either in the mothers or their newborns.
 None of the newborns had sensorineural hearing loss.
 Neonatal renal function was not examined, but all of the newborns were discharged in good condition.
@@ -41,7 +41,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-FIRVANQ is indicated in pediatric patients less than 18 years of age for the treatment of C. difficile‑associated diarrhea and enterocolitis caused by S. aureus (including methicillin‑resistant strains) [see Indications and Usage (1) and Dosage and Administration (2.3)].
+FIRVANQ is indicated in pediatric patients less than 18 years of age for the treatment of C. difficile‑associated diarrhea and enterocolitis caused by S. aureus(including methicillin‑resistant strains) [see Indications and Usage (1) and Dosage and Administration (2.3)].
 
 ## 8.5 Geriatric Use
 

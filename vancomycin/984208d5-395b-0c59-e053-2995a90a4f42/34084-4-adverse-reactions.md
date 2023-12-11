@@ -39,7 +39,7 @@ Nephrotoxicity can also occur during oral vancomycin administration.
 The incidences of hypokalemia, urinary tract infection, peripheral edema, insomnia, constipation, anemia, depression, vomiting, and hypotension were higher among subjects over 65 years of age than in subjects 65 years of age and younger [see Use in Specific Populations (8.5)].
 
 Discontinuation of study drug due to adverse events occurred in 7% of subjects treated with vancomycin hydrochloride.
-The most common adverse events leading to discontinuation of vancomycin hydrochloride were C. difficile colitis (< 1%), nausea (< 1%), and vomiting (< 1%).
+The most common adverse events leading to discontinuation of vancomycin hydrochloride were C. difficilecolitis (< 1%), nausea (< 1%), and vomiting (< 1%).
 
 ## 6.2 Postmarketing Experience
 
@@ -50,7 +50,7 @@ Ototoxicity: Cases of hearing loss associated with intravenously administered va
 Most of these patients had kidney dysfunction or a preexisting hearing loss or were receiving concomitant treatment with an ototoxic drug [see Warnings and Precautions (5.4)].
 Vertigo, dizziness, and tinnitus have been reported.
 
-Skin and Subcutaneous Tissue Disorders: Severe dermatologic reactions such as toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and linear lgA bullous dermatosis (LABD) [see Warnings and Precautions (5.5)], rashes (including exfoliative dermatitis).
+Skin and Subcutaneous Tissue Disorders:Severe dermatologic reactions such as toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and linear lgA bullous dermatosis (LABD) [see Warnings and Precautions (5.5)], rashes (including exfoliative dermatitis).
 
 Hematopoietic: Reversible neutropenia, usually starting 1 week or more after onset of intravenous therapy with vancomycin or after a total dose of more than 25 g, has been reported.
 Neutropenia appears to be promptly reversible when vancomycin is discontinued.

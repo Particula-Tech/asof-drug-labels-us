@@ -16,6 +16,6 @@ Important Administration and Storage Instructions
 
 Instruct the patient or caregiver to [see Dosage and Administration (2.4)]:
 
-- •Shake the reconstituted solutions of FIRVANQ well before each use and to use an oral dosing device that measures the appropriate volume of the oral solution in milliliters.
-- •Store the reconstituted solutions of FIRVANQ at refrigerated conditions, 2° C to 8° C (36° F to 46° F) when not in use.
-- •Discard reconstituted solutions of FIRVANQ after 14 days, or if it appears hazy or contains particulates.
+- Shake the reconstituted solutions of FIRVANQ well before each use and to use an oral dosing device that measures the appropriate volume of the oral solution in milliliters.
+- Store the reconstituted solutions of FIRVANQ at refrigerated conditions, 2° C to 8° C (36° F to 46° F) when not in use.
+- Discard reconstituted solutions of FIRVANQ after 14 days, or if it appears hazy or contains particulates.

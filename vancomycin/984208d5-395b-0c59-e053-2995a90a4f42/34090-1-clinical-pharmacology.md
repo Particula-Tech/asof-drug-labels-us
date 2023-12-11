@@ -19,23 +19,23 @@ It should be noted that the total systemic and renal clearances of vancomycin ar
 
 Mechanism of Action
 
-The bactericidal action of vancomycin against the vegetative cells of C. difficile and S. aureus results primarily from inhibition of cell‑wall biosynthesis.
+The bactericidal action of vancomycin against the vegetative cells of C. difficileand S. aureusresults primarily from inhibition of cell‑wall biosynthesis.
 In addition, vancomycin alters bacterial‑cell‑membrane permeability and RNA synthesis.
 
 Mechanism of Resistance
 
 C. difficile
 
-Isolates of C. difficile generally have vancomycin minimal inhibitory concentrations (MICs) of < 1 mcg/mL; however, vancomycin MICs ranging from 4 mcg/mL to 16 mcg/mL have been reported.
+Isolates of C. difficilegenerally have vancomycin minimal inhibitory concentrations (MICs) of < 1 mcg/mL; however, vancomycin MICs ranging from 4 mcg/mL to 16 mcg/mL have been reported.
 The mechanism which mediates C. difficile's decreased susceptibility to vancomycin has not been fully elucidated.
 
 S. aureus
 
-S. aureus isolates with vancomycin MICs as high as 1024 mcg/mL have been reported.
+S. aureusisolates with vancomycin MICs as high as 1024 mcg/mL have been reported.
 The exact mechanism of this resistance is not clear but is believed to be due to cell wall thickening and potentially the transfer of genetic material.
 
 Vancomycin has been shown to be active against susceptible isolates of the following bacteria in clinical infections [see Indications and Usage (1)].
 
-Anaerobic gram‑positive bacteria C. difficile isolates associated with C. difficile‑associated diarrhea.
+Anaerobic gram‑positive bacteria C. difficileisolates associated with C. difficile‑associated diarrhea.
 
-Gram‑positive bacteria S. aureus (including methicillin‑resistant isolates) associated with enterocolitis.
+Gram‑positive bacteria S. aureus(including methicillin‑resistant isolates) associated with enterocolitis.

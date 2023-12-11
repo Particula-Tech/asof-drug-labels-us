@@ -5,7 +5,7 @@
 FIRVANQ must be given orally for treatment of C. difficile‑associated diarrhea and staphylococcal enterocolitis.
 Orally administered vancomycin is not effective for treatment of other types of infections.
 
-Parenteral administration of vancomycin is not effective for treatment of C. difficile‑associated diarrhea and staphylococcal enterocolitis.
+Parenteral administration of vancomycin is noteffective for treatment of C. difficile‑associated diarrhea and staphylococcal enterocolitis.
 If parenteral vancomycin therapy is desired, use an intravenous preparation of vancomycin and consult the Full Prescribing Information accompanying that preparation.
 
 ## 5.2 Potential for Systemic Absorption

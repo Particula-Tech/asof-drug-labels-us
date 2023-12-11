@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-FIRVANQ for oral administration contains the hydrochloride salt of vancomycin, a tricyclic glycopeptide antibiotic derived from Amycolatopsis orientalis (formerly Nocardia orientalis), which has the chemical formula C66H75Cl2N9O24•HCl.
+FIRVANQ for oral administration contains the hydrochloride salt of vancomycin, a tricyclic glycopeptide antibiotic derived from Amycolatopsis orientalis(formerly Nocardia orientalis), which has the chemical formula C 66H 75Cl 2N 9O 24•HCl.
 The molecular weight of vancomycin hydrochloride is 1485.71 g/mol.
 
 Vancomycin hydrochloride has the structural formula:
