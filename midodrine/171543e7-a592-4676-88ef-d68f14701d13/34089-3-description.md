@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Name: ProAmatine®(midodrine hydrochloride) Tablets
+Name: ProAmatine® (midodrine hydrochloride) Tablets
 
 Dosage Form: 2.5-mg, 5-mg and 10-mg tablets for oral administration
 

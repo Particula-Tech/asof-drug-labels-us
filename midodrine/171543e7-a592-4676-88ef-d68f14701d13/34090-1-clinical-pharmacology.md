@@ -8,7 +8,7 @@ Administration of ProAmatine® results in a rise in standing, sitting, and supin
 Standing systolic blood pressure is elevated by approximately 15 to 30 mmHg at 1 hour after a 10-mg dose of midodrine, with some effect persisting for 2 to 3 hours.
 ProAmatine® has no clinically significant effect on standing or supine pulse rates in patients with autonomic failure.
 
-Pharmacokinetics:ProAmatine® is a prodrug, i.e., the therapeutic effect of orally administered midodrine is due to the major metabolite desglymidodrine, formed by deglycination of midodrine.
+Pharmacokinetics: ProAmatine® is a prodrug, i.e., the therapeutic effect of orally administered midodrine is due to the major metabolite desglymidodrine, formed by deglycination of midodrine.
 After oral administration, ProAmatine® is rapidly absorbed.
 The plasma levels of the prodrug peak after about half an hour, and decline with a half-life of approximately 25 minutes, while the metabolite reaches peak blood concentrations about 1 to 2 hours after a dose of midodrine and has a half-life of about 3 to 4 hours.
 The absolute bioavailability of midodrine (measured as desglymidodrine) is 93%.

@@ -7,6 +7,7 @@ There is no experience in patients with initial supine systolic pressure above 1
 Use of ProAmatine® in such patients is not recommended.
 Sitting blood pressures were also elevated by ProAmatine® therapy.
 It is essential to monitor supine and sitting blood pressures in patients maintained on ProAmatine®.
+Uncontrolled hypertension increases the risk of cardiovascular events, particularly stroke.
 
 # PRECAUTIONS
 
@@ -48,8 +49,11 @@ Since desglymidodrine is eliminated by the kidneys and the liver has a role in i
 
 When administered concomitantly with ProAmatine®, cardiac glycosides may enhance or precipitate bradycardia, A.V. block or arrhythmia.
 
-The use of drugs that stimulate alpha-adrenergic receptors (e.g., phenylephrine, pseudoephedrine, ephedrine, phenylpropanolamine or dihydroergotamine) may enhance or potentiate the pressor effects of ProAmatine®.
-Therefore, caution should be used when ProAmatine® is administered concomitantly with agents that cause vasoconstriction.
+The risk of hypertension increases with concomitant administration of drugs that increase blood pressure (phenylephrine, pseudoephedrine, ephedrine, dihydroergotamine, thyroid hormones, or droxidopa).
+Avoid concomitant use of drugs that increase blood pressure.
+If concomitant use cannot be avoided, monitor blood pressure closely.
+
+Avoid use of MAO inhibitors or linezolid with midodrine.
 
 ProAmatine® has been used in patients concomitantly treated with salt-retaining steroid therapy (i.e., fludrocortisone acetate), with or without salt supplementation.
 The potential for supine hypertension should be carefully monitored in these patients and may be minimized by either reducing the dose of fludrocortisone acetate or decreasing the salt intake prior to initiation of treatment with ProAmatine®.

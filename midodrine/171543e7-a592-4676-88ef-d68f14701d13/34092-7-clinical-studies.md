@@ -13,7 +13,7 @@ There were increases in standing time seen intermittently 1 hour after dosing, b
 
 In a 1-day, dose-response trial, single doses of 0, 2.5, 10, and 20 mg of midodrine were given to 25 patients.
 The 10- and 20-mg doses produced increases in standing 1- minute systolic pressure of about 30 mmHg at 1 hour; the increase was sustained in part for 2 hours after 10 mg and 4 hours after 20 mg.
-Supine systolic pressure was =200 mmHg in 22% of patients on 10mg and 45% of patients on 20 mg; elevated pressures often lasted 6 hours or more.
+Supine systolic pressure was ≥200 mmHg in 22% of patients on 10mg and 45% of patients on 20 mg; elevated pressures often lasted 6 hours or more.
 
 Special Populations
 
