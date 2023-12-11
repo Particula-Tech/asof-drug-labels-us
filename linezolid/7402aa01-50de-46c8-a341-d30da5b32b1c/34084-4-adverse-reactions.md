@@ -160,7 +160,7 @@ Patients 12 years or older received Linezolid 600 mg mouth every 12 hours or cef
 The following adverse reactions have been identified during postapproval use of Linezolid.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-• Myelosuppression (including anemia, leukopenia, pancytopenia, and thrombocytopenia) [see Warnings and Precautions (5.1)]; sideroblastic anemia.
+• Myelosuppression (including anemia, leukopenia, pancytopenia, and thrombocytopenia).Thrombocytopenia has been reported more often in patients with severe renal impairment and in patients with moderate to severe hepatic impairment [see Warnings and Precautions (5.1)]; sideroblastic anemia.
 
 • Peripheral neuropathy, and optic neuropathy sometimes progressing to loss of vision [see Warnings and Precautions (5.2)].
 

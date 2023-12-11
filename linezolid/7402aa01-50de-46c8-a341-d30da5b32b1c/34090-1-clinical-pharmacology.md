@@ -32,7 +32,7 @@ Mean (Standard Deviation) Pharmacokinetic Parameters of Linezolid in Adults
 | 600 mg oral suspension |  |  |  |  |  |  |
 | single dose | 11.00 (2.76) | --- | 0.97 (0.88) | 80.80 (35.10) | 4.60 (1.71) | 141 (45) |
 
-* AUC for single dose = AUC0–¥; for multiple dose = AUC0–t
+* AUC for single dose = AUC0–∞; for multiple dose = AUC0–t
 
 † Data dose-normalized from 375 mg
 
@@ -117,7 +117,7 @@ Pharmacokinetic Parameters of Linezolid in Pediatrics and Adults Following a Sin
 | Adult Subjects§ | 12.5 (21%) | 0.65 (16%) | 91 (33%) | 4.9 (35%) | 1.7 (34%) |
 | (N=29) | [8.2, 19.3] | [0.45, 0.84] | [53, 155] | [1.8, 8.3] | [0.9, 3.3] |
 
-*AUC = Single dose AUC0–¥
+*AUC = Single dose AUC0–∞
 
 **In this data set, “pre-term” is defined as <34 weeks gestational age (Note: Only 1 patient enrolled was pre-term with a postnatal age between 1 week and 28 days)
 
@@ -249,7 +249,7 @@ The mean maximum increase in systolic blood pressure over baseline was 32 mm Hg 
 Serotonergic Agents
 
 Dextromethorphan: The potential drug-drug interaction with dextromethorphan was studied in healthy volunteers.
-Subjects were administered dextromethorphan (two 20 mg doses given 4 hours apart) with or without linezolid.
+Subjects were administered dextromethorphan (two 20-mg doses given 4 hours apart) with or without linezolid.
 No serotonin syndrome effects (confusion, delirium, restlessness, tremors, blushing, diaphoresis, hyperpyrexia) have been observed in normal subjects receiving linezolid and dextromethorphan.
 
 ## 12.4 Microbiology
