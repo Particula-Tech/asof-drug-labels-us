@@ -30,7 +30,7 @@ Percentage of Patients with Incidence of Adverse Events ≥ 2% from Three 12-wee
 
 | ADVERSE EVENTS (MEDRA Preferred Terms) | Tramadol Hydrochloride Extended-Release Tablets |  |  |  | Placebo |
 | --- | --- | --- | --- | --- | --- |
-| 100 mg | 200 mg | 300 mg | TotalDue to the difference in study design of MDT3-005, only the results of the double-blind phase of the study are presented and the dose specific results include maintenance period data only. |  |  |
+| 100 mg | 200 mg | 300 mg | Total* |  |  |
 | N=216 | N=311 | N=530 | N=1095 | N=668 |  |
 | Nausea | 28 (13%) | 42 (14%) | 76 (14%) | 179 (16%) | 37 (6%) |
 | Constipation | 21 (10%) | 36 (12%) | 52 (10%) | 140 (13%) | 26 (4%) |
@@ -45,6 +45,8 @@ Percentage of Patients with Incidence of Adverse Events ≥ 2% from Three 12-wee
 | Anorexia | 4 (2%) | 4 (1%) | 10 (2%) | 25 (2%) | 2 (0%) |
 | Vertigo | 2 (1%) | 3 (1%) | 6 (1%) | 21 (2%) | 3 (0%) |
 | Insomnia | 2 (1%) | 6 (2%) | 9 (2%) | 18 (2%) | 8 (1%) |
+
+*Due to the difference in study design of MDT3-005, only the results of the double-blind phase of the study are presented and the dose specific results include maintenance period data only.
 
 The majority of patients who experienced the most common adverse events (≥5%) reported mild to moderate symptoms.
 Less than 3% of adverse events were rated as severe.
@@ -137,7 +139,7 @@ Abuse is the intentional, non-therapeutic use of a drug, even once, for its desi
 Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
 
 Misuse and abuse of tramadol hydrochloride extended-release tablets increases risk of overdose, which may lead to central nervous system and respiratory depression, hypotension, seizures, and death.
-The risk is increased with concurrent abuse of tramadol hydrochloride extended-release tablets with alcohol and other CNS depressants.
+The risk is increased with concurrent use of tramadol hydrochloride extended-release tablets with alcohol and/or other CNS depressants.
 Abuse of and addiction to opioids in some individuals may not be accompanied by concurrent tolerance and symptoms of physical dependence.
 In addition, abuse of opioids can occur in the absence of addiction.
 

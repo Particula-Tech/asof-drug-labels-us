@@ -42,8 +42,6 @@ Due to limitations in flexibility of dose selection with tramadol hydrochloride 
 Conversion from Other Opioids to Tramadol Hydrochloride Extended-Release Tablets
 
 When tramadol hydrochloride extended-release tablets therapy is initiated, discontinue all other opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
-There are no established conversion ratios for conversion from other opioids to tramadol hydrochloride extended-release tablets defined by clinical trials.
-Initiate dosing using tramadol hydrochloride extended-release tablets 100 mg once a day.
 
 Titration and Maintenance of Therapy
 
