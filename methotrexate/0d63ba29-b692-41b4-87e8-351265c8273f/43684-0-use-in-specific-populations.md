@@ -5,7 +5,7 @@
 Risk Summary
 
 Methotrexate Injection is contraindicated in pregnant women with non-neoplastic diseases.
-Based on published reports and its mechanism of action, methotrexate can cause embryo-fetal toxicity and fetal death when administered to a pregnant woman [see Data and Clinical Pharmacology (12.1)].
+Based on published reports and its mechanism of action, methotrexate can cause embryo-fetal toxicity and fetal death when administered to a pregnant woman [see Data and Clinical Pharmacology (12.1)] and Clinical Pharmacology (12.1)].
 There are no animal data that meet current standards for nonclinical developmental toxicity studies.
 Advise pregnant women with neoplastic diseases of the potential risk to a fetus.
 The preservative benzyl alcohol can cross the placenta; when possible, use the preservative-free formulation when Methotrexate Injection is needed during pregnancy to treat a neoplastic disease [see Warnings and Precautions (5.3) and Use in Specific Populations (8.4)].
