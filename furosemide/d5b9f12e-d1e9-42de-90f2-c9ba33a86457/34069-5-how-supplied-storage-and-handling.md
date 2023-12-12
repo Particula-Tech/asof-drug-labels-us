@@ -22,7 +22,17 @@ Protect from light.
 Manufactured by: Amneal Pharmaceuticals Pvt.
 Ltd. Parenteral Unit Ahmedabad 382213, INDIA
 
+or
+
+Puniska Healthcare Pvt.
+Ltd.
+
+(A Subsidiary of Amneal Pharmaceuticals Pvt.
+Ltd.)
+
+Ahmedabad 382110, INDIA
+
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-06-2023-03
+07-2023-04
