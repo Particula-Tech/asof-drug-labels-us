@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA217000"
+  ],
+  "inn": "doxylamine",
+  "labeler": "Bionpharma Inc.,",
+  "package_ndcs": [
+    "69452-206-20"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "doxylamine succinate and pyridoxine hydrochloride",
+      "name": "Doxylamine succinate and Pyridoxine hydrochloride"
+    }
+  ],
+  "setid": "0c410285-0ad6-aabc-e063-6294a90abcd8",
+  "source": "dailymed"
+}
