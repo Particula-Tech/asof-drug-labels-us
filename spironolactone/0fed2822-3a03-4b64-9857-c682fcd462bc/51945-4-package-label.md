@@ -4,7 +4,7 @@ Pfizer
 
 NDC 0025-1001-31
 
-Aldactone® spironolactone tablets, USP
+Aldactone® (spironolactone) tablets, USP
 
 25 mg
 
@@ -16,7 +16,7 @@ Pfizer
 
 NDC 0025-1041-31
 
-1. Aldactone® spironolactone tablets, USP
+Aldactone® (spironolactone) tablets, USP
 
 50 mg
 
@@ -28,7 +28,7 @@ Pfizer
 
 NDC 0025-1031-31
 
-1. Aldactone® spironolactone tablets, USP
+Aldactone® (spironolactone) tablets, USP
 
 100 mg
 
