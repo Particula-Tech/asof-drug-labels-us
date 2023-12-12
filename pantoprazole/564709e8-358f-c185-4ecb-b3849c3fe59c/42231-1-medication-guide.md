@@ -1,3 +1,5 @@
+Dispense with Medication Guide available at: www.drreddys.com/medguide/pantoprazoledrtabs.pdf
+
 MEDICATION GUIDE
 
 Pantoprazole Sodium Delayed-Release Tablets, USP
@@ -170,5 +172,3 @@ Dr. Reddy’s Laboratories Limited
 Bachupally –500 090 INDIA
 
 Revised: 08/2023
-
-Dispense with Medication Guide available at: www.drreddys.com/medguide/pantoprazoledrtabs.pdf
