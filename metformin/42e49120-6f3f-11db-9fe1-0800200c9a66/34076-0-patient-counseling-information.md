@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 - •It is important to instruct patients to adhere to dietary instructions and to have blood glucose and glycosylated hemoglobin tested regularly.
   During periods of stress such as fever, trauma, infection, or surgery, medication requirements may change and patients should be reminded to seek medical advice promptly.

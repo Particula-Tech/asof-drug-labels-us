@@ -19,7 +19,7 @@ The metabolic changes produced by pioglitazone result in increased responsivenes
 
 Because pioglitazone enhances the effects of circulating insulin (by decreasing insulin resistance), it does not lower blood glucose in animal models that lack endogenous insulin.
 
-Metformin hydrochloride
+Metformin Hydrochloride
 
 Metformin hydrochloride improves glucose tolerance in patients with type 2 diabetes, lowering both basal and postprandial plasma glucose.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
@@ -37,18 +37,18 @@ In controlled clinical trials, pioglitazone had an additive effect on glycemic c
 
 Patients with lipid abnormalities were included in clinical trials with pioglitazone.
 Overall, patients treated with pioglitazone had mean decreases in serum triglycerides, mean increases in HDL cholesterol, and no consistent mean changes in LDL and total cholesterol.
-There is no conclusive evidence of macrovascular benefit with pioglitazone [see Warnings and Precautions (5.10) and Adverse Reactions (6.1)].
+There is no conclusive evidence of macrovascular benefit with pioglitazone [see Warnings and Precautions (5.10), Adverse Reactions (6.1)].
 
-In a 26-week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the 15-mg, 30-mg, and 45-mg pioglitazone dose groups compared to a mean increase in the placebo group.
+In a 26 week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the 15 mg, 30 mg, and 45 mg pioglitazone dose groups compared to a mean increase in the placebo group.
 Mean HDL cholesterol increased to a greater extent in patients treated with pioglitazone than in the placebo-treated patients.
 There were no consistent differences for LDL and total cholesterol in patients treated with pioglitazone compared to placebo (see Table 16).
 
-| Table 16. Lipids in a 26-Week Placebo-Controlled Monotherapy Dose-Ranging Study |  |  |  |  |
+| Table 16: Lipids in a 26 Week Placebo-Controlled Monotherapy Dose-Ranging Study |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Placebo | Pioglitazone 15 mg Once Daily | Pioglitazone 30 mg Once Daily | Pioglitazone 45 mg Once Daily |
 | Triglycerides (mg/dL) | N=79 | N=79 | N=84 | N=77 |
 | Baseline (mean) | 263 | 284 | 261 | 260 |
-| Percent change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) | 4.8% | -9.0%p <0.05 versus placebo | -9.6% | -9.3% |
+| Percent change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction.) | 4.8% | -9.0%p<0.05 vs placebo. | -9.6% | -9.3% |
 | HDL Cholesterol (mg/dL) | N=79 | N=79 | N=83 | N=77 |
 | Baseline (mean) | 42 | 40 | 41 | 41 |
 | Percent change from baseline (adjusted mean) | 8.1% | 14.1% | 12.2% | 19.1% |
@@ -67,7 +67,7 @@ Absorption
 
 ACTOPLUS MET
 
-In bioequivalence studies of ACTOPLUS MET 15 mg/500 mg and 15 mg/850 mg, the area under the curve (AUC) and maximum concentration (Cmax) of both the pioglitazone and the metformin component following a single dose of the combination tablet were bioequivalent to ACTOS 15 mg concomitantly administered with Glucophage (500 mg or 850 mg respectively) tablets under fasted conditions in healthy subjects.
+In bioequivalence studies of ACTOPLUS MET 15 mg/500 mg and 15 mg/850 mg, the area under the curve (AUC) and maximum concentration (Cmax) of both the pioglitazone and the metformin component following a single dose of the combination tablet were bioequivalent to ACTOS 15 mg concomitantly administered with Glucophage (500 mg or 850 mg, respectively) tablets under fasted conditions in healthy subjects.
 
 Administration of ACTOPLUS MET 15 mg/850 mg with food resulted in no change in overall exposure of pioglitazone.
 With metformin there was no change in AUC; however, mean peak serum concentration of metformin was decreased by 28% when administered with food.
@@ -77,22 +77,22 @@ These changes are not likely to be clinically significant.
 Pioglitazone
 
 Following once-daily administration of pioglitazone, steady-state serum concentrations of both pioglitazone and its major active metabolites, M-III (keto derivative of pioglitazone) and M-IV (hydroxyl derivative of pioglitazone), are achieved within seven days.
-At steady-state, M-III and M-IV reach serum concentrations equal to or greater than that of pioglitazone.
-At steady-state, in both healthy volunteers and patients with type 2 diabetes, pioglitazone comprises approximately 30% to 50% of the peak total pioglitazone serum concentrations (pioglitazone plus active metabolites) and 20% to 25% of the total AUC.
+At steady state, M-III and M-IV reach serum concentrations equal to or greater than that of pioglitazone.
+At steady state, in both healthy volunteers and patients with type 2 diabetes, pioglitazone comprises approximately 30 to 50% of the peak total pioglitazone serum concentrations (pioglitazone plus active metabolites) and 20 to 25% of the total AUC.
 
 Cmax, AUC, and trough serum concentrations (Cmin) for pioglitazone and M-III and M-IV, increased proportionally with administered doses of 15 mg and 30 mg per day.
 
 Following oral administration of pioglitazone, Tmax of pioglitazone was within two hours.
 Food delays the Tmax to three to four hours, but does not alter the extent of absorption (AUC).
 
-Metformin hydrochloride
+Metformin Hydrochloride
 
-The absolute bioavailability of a 500 mg metformin tablet given under fasting conditions is approximately 50% - 60%.
+The absolute bioavailability of a 500 mg metformin tablet given under fasting conditions is approximately 50 to 60%.
 Studies using single oral doses of metformin tablets of 500 mg to 1500 mg, and 850 mg to 2550 mg, indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
 At usual clinical doses and dosing schedules of metformin, steady-state plasma concentrations of metformin are reached within 24 to 48 hours and are generally <1 mcg/mL.
 During controlled clinical trials, maximum metformin plasma levels did not exceed 5 mcg/mL, even at maximum doses.
 
-Food decreases the rate and extent of metformin absorption, as shown by a 40% lower mean Cmax, a 25% lower AUC, and a 35-minute prolongation of Tmax following administration of a single 850 mg tablet of metformin with food, compared to the same tablet strength administered fasting.
+Food decreases the rate and extent of metformin absorption, as shown by a 40% lower mean Cmax, a 25% lower AUC, and a 35 minute prolongation of Tmax following administration of a single 850 mg tablet of metformin with food, compared to the same tablet strength administered fasting.
 The clinical relevance of these decreases is unknown.
 
 Distribution
@@ -104,10 +104,12 @@ Pioglitazone is extensively protein bound (>99%) in human serum, principally to 
 Pioglitazone also binds to other serum proteins, but with lower affinity.
 M-III and M-IV are also extensively bound (>98%) to serum albumin.
 
-Metformin hydrochloride
+Metformin Hydrochloride
 
 The Vd/F of metformin following single oral doses of 850 mg immediate-release metformin averaged 654 ± 358 L. Metformin is negligibly bound to plasma proteins.
 Metformin partitions into erythrocytes, most likely as a function of time.
+
+Elimination
 
 Metabolism
 
@@ -117,56 +119,31 @@ Pioglitazone is extensively metabolized by hydroxylation and oxidation; the meta
 Metabolites M-III and M-IV are the major circulating active metabolites in humans.
 
 In vitro data demonstrate that multiple CYP isoforms are involved in the metabolism of pioglitazone which include CYP2C8 and, to a lesser degree, CYP3A4 with additional contributions from a variety of other isoforms, including the mainly extrahepatic CYP1A1.
-In vivo study of pioglitazone in combination with gemfibrozil, a strong CYP2C8 inhibitor, showed that pioglitazone is a CYP2C8 substrate [see Dosage and Administration (2.3) and Drug Interactions (7.1)].
+In vivo study of pioglitazone in combination with gemfibrozil, a strong CYP2C8 inhibitor, showed that pioglitazone is a CYP2C8 substrate [see Dosage and Administration (2.3), Drug Interactions (7.1)].
 Urinary 6ß-hydroxycortisol/cortisol ratios measured in patients treated with pioglitazone showed that pioglitazone is not a strong CYP3A4 enzyme inducer.
 
-Metformin hydrochloride
+Metformin Hydrochloride
 
 Intravenous single-dose studies in healthy subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans) nor biliary excretion.
 
-Excretion and Elimination
+Excretion
 
 Pioglitazone
 
-Following oral administration, approximately 15% to 30% of the pioglitazone dose is recovered in the urine.
+Following oral administration, approximately 15 to 30% of the pioglitazone dose is recovered in the urine.
 Renal elimination of pioglitazone is negligible and the drug is excreted primarily as metabolites and their conjugates.
 It is presumed that most of the oral dose is excreted into the bile either unchanged or as metabolites and eliminated in the feces.
 
 The mean serum half-life (t½) of pioglitazone and its metabolites (M-III and M-IV) range from three to seven hours and 16 to 24 hours, respectively.
 Pioglitazone has an apparent clearance, CL/F, calculated to be five to seven L/hr.
 
-Metformin hydrochloride
+Metformin Hydrochloride
 
 Renal clearance is approximately 3.5 times greater than creatinine clearance (CLcr), which indicates that tubular secretion is the major route of metformin elimination.
 Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours, with a plasma elimination t½ of approximately 6.2 hours.
 In blood, the elimination t½ is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
 
 Specific Populations
-
-Renal Impairment
-
-Pioglitazone
-
-The serum elimination half-life of pioglitazone, M-III and M-IV remains unchanged in patients with moderate (CLcr 30 to 50 mL/min) and severe (CLcr <30 mL/min) renal impairment when compared to subjects with normal renal function.
-Therefore, no dose adjustment in patients with renal impairment is required.
-
-Metformin hydrochloride
-
-In patients with decreased renal function, the plasma and blood t1/2 of metformin is prolonged and the renal clearance is decreased [see Dosage and Administration (2.2), Contraindications (4) and Warnings and Precautions (5.2)].
-
-Hepatic Impairment
-
-Pioglitazone
-
-Compared with healthy controls, subjects with impaired hepatic function (Child-Turcotte-Pugh Grade B/C) have an approximate 45% reduction in pioglitazone and total pioglitazone (pioglitazone, M-III, and M-IV) mean Cmax but no change in the mean AUC values.
-Therefore, no dose adjustment in patients with hepatic impairment is required.
-
-There are postmarketing reports of liver failure with pioglitazone and clinical trials have generally excluded patients with serum ALT >2.5 times the upper limit of the reference range.
-Use ACTOPLUS MET with caution in patients with liver disease [see Warnings and Precautions (5.5)].
-
-Metformin hydrochloride
-
-No pharmacokinetic studies of metformin have been conducted in subjects with hepatic impairment [see Warnings and Precautions (5.5)].
 
 Geriatric Patients
 
@@ -176,57 +153,82 @@ In healthy elderly subjects, Cmax of pioglitazone was not significantly differen
 The mean t½ of pioglitazone was also prolonged in elderly subjects (about ten hours) as compared to younger subjects (about seven hours).
 These changes were not of a magnitude that would be considered clinically relevant.
 
-Metformin hydrochloride
+Metformin Hydrochloride
 
 Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total CL/F is decreased, the t½ is prolonged, and Cmax is increased, compared to healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
 
-Pediatrics
+Pediatric Patients
 
 Pioglitazone
 
 Safety and efficacy of pioglitazone in pediatric patients have not been established.
 ACTOPLUS MET is not recommended for use in pediatric patients [see Use in Specific Populations (8.4)].
 
-Metformin hydrochloride
+Metformin Hydrochloride
 
 After administration of a single oral metformin 500 mg tablet with food, geometric mean metformin Cmax and AUC differed less than 5% between pediatric type 2 diabetic patients (12 to 16 years of age) and gender- and weight-matched healthy adults (20 to 45 years of age), and all with normal renal function.
 
-Gender
+Male and Female Patients
 
 Pioglitazone
 
-The mean Cmax and AUC values of pioglitazone were increased 20% to 60% in women compared to men.
+The mean Cmax and AUC values of pioglitazone were increased 20 to 60% in women compared to men.
 In controlled clinical trials, HbA1c decreases from baseline were generally greater for females than for males (average mean difference in HbA1c 0.5%).
 Because therapy should be individualized for each patient to achieve glycemic control, no dose adjustment is recommended based on gender alone.
 
-Metformin hydrochloride
+Metformin Hydrochloride
 
 Metformin pharmacokinetic parameters did not differ significantly between normal subjects and patients with type 2 diabetes when analyzed according to gender (males=19, females=16).
 Similarly, in controlled clinical studies in patients with type 2 diabetes, the antihyperglycemic effect of metformin was comparable in males and females.
 
-Ethnicity
+Racial or Ethnic Groups
 
 Pioglitazone
 
 Pharmacokinetic data among various ethnic groups are not available.
 
-Metformin hydrochloride
+Metformin Hydrochloride
 
 No studies of metformin pharmacokinetic parameters according to race have been performed.
-In controlled clinical studies of metformin in patients with type 2 diabetes, the antihyperglycemic effect was comparable in whites (n=249), blacks (n=51), and Hispanics (n=24).
+In controlled clinical studies of metformin in patients with type 2 diabetes, the antihyperglycemic effect was comparable in Whites (n=249), Blacks (n=51), and Hispanics (n=24).
 
-Drug-Drug Interactions
+Patients with Renal Impairment
+
+Pioglitazone
+
+The serum elimination half-life of pioglitazone, M-III and M-IV remains unchanged in patients with moderate (CLcr 30 to 50 mL/min) and severe (CLcr <30 mL/min) renal impairment when compared to subjects with normal renal function.
+Therefore, no dose adjustment in patients with renal impairment is required.
+
+Metformin Hydrochloride
+
+In patients with decreased renal function, the plasma and blood t1/2 of metformin is prolonged and the renal clearance is decreased [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.2)].
+
+Patients with Hepatic Impairment
+
+Pioglitazone
+
+Compared with healthy controls, subjects with impaired hepatic function (Child-Turcotte-Pugh Grade B/C) have an approximate 45% reduction in pioglitazone and total pioglitazone (pioglitazone, M-III, and M-IV) mean Cmax but no change in the mean AUC values.
+Therefore, no dose adjustment in patients with hepatic impairment is required.
+
+There are postmarketing reports of liver failure with pioglitazone and clinical trials have generally excluded patients with serum ALT >2.5 times the upper limit of the reference range.
+Use ACTOPLUS MET with caution in patients with liver disease [see Warnings and Precautions (5.5)].
+
+Metformin Hydrochloride
+
+No pharmacokinetic studies of metformin have been conducted in subjects with hepatic impairment [see Warnings and Precautions (5.5)].
+
+Drug Interaction Studies
 
 Specific pharmacokinetic drug interaction studies with ACTOPLUS MET have not been performed, although such studies have been conducted with the individual pioglitazone and metformin components.
 
 Pioglitazone
 
-| Table 17. Effect of Pioglitazone Coadministration on Systemic Exposure of Other Drugs |  |  |  |  |  |
+| Table 17: Effect of Pioglitazone Coadministration on Systemic Exposure of Other Drugs |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Coadministered Drug |  |  |  |  |
-| Pioglitazone Dosage Regimen (mg)Daily for 7 days unless otherwise noted | Name and Dose Regimens | Change in AUC% change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively |  | Change in Cmax |  |
-| 45 mg (N = 12) | WarfarinPioglitazone had no clinically significant effect on prothrombin time |  |  |  |  |
+| Pioglitazone Dosage Regimen (mg)Daily for 7 days unless otherwise noted. | Name and Dose Regimens | Change in AUC% change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively. |  | Change in Cmax |  |
+| 45 mg (N = 12) | WarfarinPioglitazone had no clinically significant effect on prothrombin time. |  |  |  |  |
 | Daily loading then maintenance doses based PT and INR values Quick's Value = 35 ± 5% | R-Warfarin | ↓3% | R-Warfarin | ↓2% |  |
 | S-Warfarin | ↓1% | S-Warfarin | ↑1% |  |  |
 | 45 mg (N = 12) | Digoxin |  |  |  |  |
@@ -251,46 +253,46 @@ Pioglitazone
 | 45 mg (N = 22) | Theophylline |  |  |  |  |
 | 400 mg twice daily for 7 days | ↑2% |  | ↑5% |  |  |
 
-| Table 18. Effect of Coadministered Drugs on Pioglitazone Systemic Exposure |  |  |  |
+| Table 18: Effect of Coadministered Drugs on Pioglitazone Systemic Exposure |  |  |  |
 | --- | --- | --- | --- |
 | Coadministered Drug and Dosage Regimen | Pioglitazone |  |  |
-| Dose Regimen (mg)Daily for 7 days unless otherwise noted | Change in AUCMean ratio (with/without coadministered drug and no change = 1-fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively | Change in Cmax |  |
-| Gemfibrozil 600 mg twice daily for 2 days (N = 12) | 15-mg single dose | ↑3.2-foldThe half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7.1)] | ↑6% |
+| Dose Regimen (mg)Daily for 7 days unless otherwise noted. | Change in AUCMean ratio (with/without coadministered drug and no change = 1-fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively. | Change in Cmax |  |
+| Gemfibrozil 600 mg twice daily for 2 days (N = 12) | 15 mg single dose | ↑3.2-foldThe half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil [see Dosage and Administration (2.3), Drug Interactions (7.1)]. | ↑6% |
 | Ketoconazole 200 mg twice daily for 7 days (N = 28) | 45 mg | ↑34% | ↑14% |
-| Rifampin 600 mg daily for 5 days (N = 10) | 30-mg single dose | ↓54% | ↓5% |
+| Rifampin 600 mg daily for 5 days (N = 10) | 30 mg single dose | ↓54% | ↓5% |
 | Fexofenadine 60 mg twice daily for 7 days (N = 23) | 45 mg | ↑1% | 0% |
 | Ranitidine 150 mg twice daily for 4 days (N = 23) | 45 mg | ↓13% | ↓16% |
 | Nifedipine ER 30 mg daily for 7 days (N = 23) | 45 mg | ↑5% | ↑4% |
 | Atorvastatin Ca 80 mg daily for 7 days (N = 24) | 45 mg | ↓24% | ↓31% |
 | Theophylline 400 mg twice daily for 7 days (N = 22) | 45 mg | ↓4% | ↓2% |
-| Topiramate 96 mg twice daily for 7 daysIndicates duration of concomitant administration with highest twice-daily dose of topiramate from Day 14 onwards over the 22 days of study | 30 mg | ↓15%Additional decrease in active metabolites; 60% for M-III and 16% for M-IV | 0% |
+| Topiramate 96 mg twice daily for 7 daysIndicates duration of concomitant administration with highest twice-daily dose of topiramate from Day 14 onwards over the 22 days of study. | 30 mg | ↓15%Additional decrease in active metabolites; 60% for M-III and 16% for M-IV. | 0% |
 | (N = 26) |  |  |  |
 
-Metformin hydrochloride
+Metformin Hydrochloride
 
-| Table 19. Effect of Coadministered Drug on Plasma Metformin Systemic Exposure |  |  |  |  |
+| Table 19: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered DrugAll metformin and coadministered drugs were given as single doses | Dose of Metformin | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00 |  |
-| AUCAUC = AUC0–∞ | Cmax |  |  |  |
+| Coadministered Drug | Dose of Coadministered DrugAll metformin and coadministered drugs were given as single doses. | Dose of Metformin | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00 |  |
+| AUCAUC = AUC0–∞. | Cmax |  |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |
-| Glyburide | 5 mg | 500 mgMetformin hydrochloride extended-release tablets, 500 mg | 0.98Ratio of arithmetic means | 0.99 |
+| Glyburide | 5 mg | 500 mgMetformin hydrochloride extended-release tablets, 500 mg. | 0.98Ratio of arithmetic means. | 0.99 |
 | Furosemide | 40 mg | 850 mg | 1.09 | 1.22 |
 | Nifedipine | 10 mg | 850 mg | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | 0.90 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | 1.05 | 1.07 |
-| Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin [see Warnings and Precautions (5) and Drug Interactions (7)]. |  |  |  |  |
+| Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin [see Warnings and Precautions (5), Drug Interactions (7)]. |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | 1.40 | 1.61 |
-| Carbonic anhydrase inhibitors may cause metabolic acidosis [see Warnings and Precautions (5) and Drug Interactions (7)]. |  |  |  |  |
-| Topiramate | 100 mgAt steady-state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC0-12h | 500 mg | 1.25 | 1.17 |
+| Carbonic anhydrase inhibitors may cause metabolic acidosis [see Warnings and Precautions (5), Drug Interactions (7)]. |  |  |  |  |
+| Topiramate | 100 mgAt steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC0-12h | 500 mg | 1.25 | 1.17 |
 
-| Table 20. Effect of Metformin on Coadministered Drug Systemic Exposure |  |  |  |  |
+| Table 20: Effect of Metformin on Coadministered Drug Systemic Exposure |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered DrugAll metformin and coadministered drugs were given as single doses | Dose of Metformin | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00 |  |
-| AUCAUC = AUC0–∞ | Cmax |  |  |  |
+| Coadministered Drug | Dose of Coadministered DrugAll metformin and coadministered drugs were given as single doses. | Dose of Metformin | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00 |  |
+| AUCAUC = AUC0–∞. | Cmax |  |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |
-| Glyburide | 5 mg | 500 mgAUC0-24 hr reported | 0.78Ratio of arithmetic means, p-value of difference <0.05 | 0.63 |
+| Glyburide | 5 mg | 500 mgAUC0-24 hr reported. | 0.78Ratio of arithmetic means, p-value of difference <0.05. | 0.63 |
 | Furosemide | 40 mg | 850 mg | 0.87 | 0.69 |
 | Nifedipine | 10 mg | 850 mg | 1.10 | 1.08 |
 | Propranolol | 40 mg | 850 mg | 1.01 | 0.94 |
-| Ibuprofen | 400 mg | 850 mg | 0.97Ratio of arithmetic means | 1.01 |
+| Ibuprofen | 400 mg | 850 mg | 0.97Ratio of arithmetic means. | 1.01 |
 | Cimetidine | 400 mg | 850 mg | 0.95 | 1.01 |

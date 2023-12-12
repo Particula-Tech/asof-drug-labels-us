@@ -50,7 +50,7 @@ The best way to keep from having a problem with lactic acidosis from metformin i
 Your doctor may decide to stop your ACTOPLUS MET for a while if you have any of these things.
 
 ACTOPLUS MET can have other serious side effects.
-See "What are the possible side effects of ACTOPLUS MET?"
+See "What are the possible side effects of ACTOPLUS MET?".
 
 What is ACTOPLUS MET?
 
@@ -66,7 +66,7 @@ ACTOPLUS MET is not recommended for use in children.
 
 Who should not take ACTOPLUS MET?
 
-See "What is the most important information I should know about ACTOPLUS MET?"
+See "What is the most important information I should know about ACTOPLUS MET?".
 
 Do not take ACTOPLUS MET if you:
 
@@ -185,7 +185,7 @@ How should I store ACTOPLUS MET?
 - •Store ACTOPLUS MET at 68°F to 77°F (20°C to 25°C).
   Keep ACTOPLUS MET in the original container and protect from light
 
-Keep the ACTOPLUS MET bottle tightly closed and keep tablets dry
+Keep the ACTOPLUS MET bottle tightly closed and keep tablets dry.
 
 Keep ACTOPLUS MET and all medicines out of the reach of children.
 
@@ -214,8 +214,8 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
 
-Revised: December 2016
+©2023 Takeda Pharmaceuticals America, Inc.
 
-©2009 - 2020 Takeda Pharmaceuticals America, Inc.
+APM001 R17
 
-APM001 R16
+Revised: 12/2023

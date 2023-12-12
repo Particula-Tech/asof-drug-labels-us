@@ -7,15 +7,15 @@ Pioglitazone
 Pioglitazone, like other thiazolidinediones, can cause dose-related fluid retention when used alone or in combination with other antidiabetic medications and is most common when pioglitazone is used in combination with insulin.
 Fluid retention may lead to or exacerbate congestive heart failure.
 Patients treated with ACTOPLUS MET should be observed for signs and symptoms of congestive heart failure.
-If congestive heart failure develops, it should be managed according to current standards of care and discontinuation or dose reduction of ACTOPLUS MET must be considered [see Boxed Warning, Contraindications (4), and Adverse Reactions (6.1)].
+If congestive heart failure develops, it should be managed according to current standards of care and discontinuation or dose reduction of ACTOPLUS MET must be considered [see Boxed Warning, Contraindications (4), Adverse Reactions (6.1)].
 
 ## 5.2 Lactic Acidosis
 
-Metformin hydrochloride
+Metformin Hydrochloride
 
 Lactic Acidosis
 
-There have been post-marketing cases of metformin-associated lactic acidosis, including fatal cases.
+There have been postmarketing cases of metformin-associated lactic acidosis, including fatal cases.
 These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypothermia, hypotension and resistant bradyarrhythmias have occurred with severe acidosis.
 Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (greater than 5 mmol/L), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate:pyruvate ratio;metformin plasma levels generally greater than 5 mcg/mL.
 Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
@@ -35,15 +35,15 @@ The risk of metformin accumulation and metformin-associated lactic acidosis incr
 Clinical recommendations based upon the patient's renal function include [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
 
 - •Before initiating ACTOPLUS MET, obtain an eGFR.
-- •ACTOPLUS MET is contraindicated in patients with an eGFR less than 30mL/min /1.73 m2.
-  Initiation of ACTOPLUS MET is not recommended in patients with eGFR between 30 – 45 mL/min/1.73 m2 [see Contraindications (4)].
+- •ACTOPLUS MET is contraindicated in patients with an eGFR less than 30 mL/min /1.73 m2.
+  Initiation of ACTOPLUS MET is not recommended in patients with eGFR between 30 to 45 mL/min/1.73 m2 [see Contraindications (4)].
 - •Obtain an eGFR at least annually in all patients taking ACTOPLUS MET.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
 - •In patients taking ACTOPLUS MET whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit and risk of continuing therapy.
 
 Drug Interactions
 
-The concomitant use of ACTOPLUS MET with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation (e.g. cationic drugs) [see Drug Interactions (7)].
+The concomitant use of ACTOPLUS MET with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation (e.g., cationic drugs) [see Drug Interactions (7)].
 Therefore, consider more frequent monitoring of patients.
 
 Age 65 or Greater
@@ -86,7 +86,7 @@ In postmarketing experience, reports of new onset or worsening of edema have bee
 
 ACTOPLUS MET should be used with caution in patients with edema.
 Because thiazolidinediones, including pioglitazone, can cause fluid retention, which can exacerbate or lead to congestive heart failure, ACTOPLUS MET should be used with caution in patients at risk for congestive heart failure.
-Patients treated with ACTOPLUS MET should be monitored for signs and symptoms of congestive heart failure [see Boxed Warning, Warnings and Precautions (5.1), and Patient Counseling Information (17.1)].
+Patients treated with ACTOPLUS MET should be monitored for signs and symptoms of congestive heart failure [see Boxed Warning, Warnings and Precautions (5.1), Patient Counseling Information (17.1)].
 
 ## 5.4 Hypoglycemia
 
@@ -116,33 +116,33 @@ For patients with lesser elevations of serum ALT or bilirubin and with an altern
 
 ## 5.6 Urinary Bladder Tumors
 
-Tumors were observed in the urinary bladder of male rats in the two-year carcinogenicity study [see Nonclinical Toxicology (13.1)].
+Tumors were observed in the urinary bladder of male rats in the two year carcinogenicity study [see Nonclinical Toxicology (13.1)].
 In addition, during the three year PROactive clinical trial, 14 patients out of 2605 (0.54%) randomized to pioglitazone and 5 out of 2633 (0.19%) randomized to placebo were diagnosed with bladder cancer.
-After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were 6 (0.23%) cases on pioglitazone and two (0.08%) cases on placebo.
+After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were 6 (0.23%) cases on pioglitazone and 2 (0.08%) cases on placebo.
 After completion of the trial, a large subset of patients was observed for up to 10 additional years, with little additional exposure to pioglitazone.
-During the 13 years of both PROactive and observational follow-up, the occurrence of bladder cancer did not differ between patients randomized to pioglitazone or placebo (HR =1.00; [95% CI: 0.59–1.72]).
+During the 13 years of both PROactive and observational follow-up, the occurrence of bladder cancer did not differ between patients randomized to pioglitazone or placebo (HR = 1.00; [95% CI: 0.59 to 1.72]).
 
 Findings regarding the risk of bladder cancer in patients exposed to pioglitazone vary among observational studies; some did not find an increased risk of bladder cancer associated with pioglitazone, while others did.
 
-A large prospective10-year observational cohort study conducted in the United States found no statistically significant increase in the risk of bladder cancer in diabetic patients ever exposed to pioglitazone, compared to those never exposed to pioglitazone (HR =1.06 [95% CI 0.89–1.26]).
+A large prospective10 year observational cohort study conducted in the United States (US) found no statistically significant increase in the risk of bladder cancer in diabetic patients ever exposed to pioglitazone, compared to those never exposed to pioglitazone (HR = 1.06; [95% CI: 0.89 to 1.26]).
 
-A retrospective cohort study conducted with data from the United Kingdom found a statistically significant association between ever exposure to pioglitazone and bladder cancer (HR: 1.63; [95% CI: 1.22–2.19]).
+A retrospective cohort study conducted with data from the United Kingdom found a statistically significant association between ever exposure to pioglitazone and bladder cancer (HR = 1.63; [95% CI: 1.22 to 2.19]).
 
-Associations between cumulative dose or cumulative duration of exposure to pioglitazone and bladder cancer were not detected in some studies including the 10-year observational study in the U.S., but were in others.
+Associations between cumulative dose or cumulative duration of exposure to pioglitazone and bladder cancer were not detected in some studies including the 10 year observational study in the US, but were in others.
 Inconsistent findings and limitations inherent in these and other studies preclude conclusive interpretations of the observational data.
 
 Pioglitazone may be associated with an increase in the risk of urinary bladder tumors.
 There are insufficient data to determine whether pioglitazone is a tumor promoter for urinary bladder tumors.
 
-Consequently, ACTOPLUS MET should not be used in patients with active bladder cancer and the benefits of glycemic control versus unknown risks for cancer recurrence with ACTOPLUS MET should be considered in patients with a prior history of bladder cancer.
+Consequently, ACTOPLUS MET should not be used in patients with active bladder cancer and the benefits of glycemic control vs unknown risks for cancer recurrence with ACTOPLUS MET should be considered in patients with a prior history of bladder cancer.
 
 ## 5.7 Fractures
 
 In PROactive (the Prospective Pioglitazone Clinical Trial in Macrovascular Events), 5238 patients with type 2 diabetes and a history of macrovascular disease were randomized to pioglitazone (N=2605), force-titrated up to 45 mg daily or placebo (N=2633) in addition to standard of care.
-During a mean follow-up of 34.5 months, the incidence of bone fracture in females was 5.1% (44/870) for pioglitazone versus 2.5% (23/905) for placebo.
+During a mean follow-up of 34.5 months, the incidence of bone fracture in females was 5.1% (44/870) for pioglitazone vs 2.5% (23/905) for placebo.
 This difference was noted after the first year of treatment and persisted during the course of the study.
 The majority of fractures observed in female patients were nonvertebral fractures including lower limb and distal upper limb.
-No increase in the incidence of fracture was observed in men treated with pioglitazone (1.7%) versus placebo (2.1%).
+No increase in the incidence of fracture was observed in men treated with pioglitazone (1.7%) vs placebo (2.1%).
 The risk of fracture should be considered in the care of patients, especially female patients, treated with ACTOPLUS MET and attention should be given to assessing and maintaining bone health according to current standards of care.
 
 ## 5.8 Macular Edema
@@ -162,7 +162,7 @@ In controlled clinical trials of metformin of 29 weeks' duration, a decrease to 
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
 Measurement of hematologic parameters on an annual basis is advised in patients on ACTOPLUS MET and any apparent abnormalities should be appropriately investigated and managed.
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
-In these patients, routine serum vitamin B12 measurements at two- to three-year intervals may be useful.
+In these patients, routine serum vitamin B12 measurements at two to three year intervals may be useful.
 
 ## 5.10 Macrovascular Outcomes
 

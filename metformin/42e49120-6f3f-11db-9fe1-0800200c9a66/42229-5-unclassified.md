@@ -4,6 +4,6 @@ ACTOS and ACTOPLUS MET are trademarks of Takeda Pharmaceutical Company Limited r
 
 All other trademarks are the property of their respective owners.
 
-©2009 - 2020 Takeda Pharmaceuticals America, Inc.
+©2023 Takeda Pharmaceuticals America, Inc.
 
-APM001 R16
+APM001 R17
