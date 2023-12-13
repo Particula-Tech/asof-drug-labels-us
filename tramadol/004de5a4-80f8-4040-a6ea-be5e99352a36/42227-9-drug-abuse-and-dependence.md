@@ -35,11 +35,11 @@ Proper assessment of the patient, proper prescribing practices, periodic reevalu
 Risks Specific to Abuse of Tramadol Hydrochloride Extended-Release Tablets
 
 Abuse of tramadol hydrochloride extended-release tablets poses a risk of overdose and death.
-
-Tramadol hydrochloride extended-release tablets are approved for oral use only.
-Inappropriate intravenous, intramuscular, or subcutaneous use of tramadol hydrochloride extended-release tablets can result in local tissue necrosis, infection, pulmonary granulomas, increased risk of endocarditis and valvular heart injury, embolism, and death.
-
+This is increased with concurrent use of tramadol hydrochloride extended-release tablets with alcohol and/or other CNS depressants.
+Tramadol Hydrochloride Extended-Release Tablets is approved for oral use only.
+Inappropriate intravenous, intramuscular, or subcutaneous use of tramadol hydrochloride extended-release tablets can result in death, local tissue necrosis, infection, pulmonary granulomas, increased risk of endocarditis, and valvular heart injury, and embolism.
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
+With parenteral abuse the inactive ingredients can result in local tissue necrosis, infection, pulmonary granulomas, increased risk of endocarditis and valvular heart injury, embolism, and death.
 
 ## 9.3 Dependence
 
