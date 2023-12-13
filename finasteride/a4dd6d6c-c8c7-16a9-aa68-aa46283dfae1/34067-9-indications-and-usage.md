@@ -6,11 +6,13 @@ Finasteride tablets are indicated for the treatment of symptomatic benign prosta
 
 - Improve symptoms
 
+- Reduce the risk of acute urinary retention
+
 - Reduce the risk of the need for surgery including transurethral resection of the prostate (TURP) and prostatectomy.
 
 ## 1.2 Combination with Alpha-Blocker
 
-Finasteride administered in combination with the alpha-blocker doxazosin is indicated to reduce the risk of symptomatic progression of BPH (a confirmed ≥4 point increase in American Urological Association (AUA) symptom score).
+Finasteride tablets administered in combination with the alpha-blocker doxazosin are indicated to reduce the risk of symptomatic progression of BPH (a confirmed ≥4 point increase in American Urological Association (AUA) symptom score).
 
 ## 1.3 Limitations of Use
 

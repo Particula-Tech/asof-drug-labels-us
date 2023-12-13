@@ -9,4 +9,4 @@ Its structural formula is:
 Finasteride USP is a white crystalline powder with a melting point near 250°C.
 It is freely soluble in chloroform and in lower alcohol solvents, but is practically insoluble in water.
 
-Finasteride tablets for oral administration are film-coated tablets that contain 5 mg of finasteride and the following inactive ingredients: lactose monohydrate, microcrystalline cellulose, pregelatinized starch, sodium starch glycolate, docusate sodium, magnesium stearate, hypromellose 6cp, titanium dioxide, polyethylene glycol 400, FD&C Blue # 2/Indigo Carmine Lake and yellow iron oxide.
+Finasteride tablets, USP for oral administration are film-coated tablets that contain 5 mg of finasteride and the following inactive ingredients: docusate sodium, FD& Blue # 2/Indigo Carmine Lake, hypromellose 6cp, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol 400, pregelatinized starch, sodium starch glycolate, titanium dioxide, and yellow iron oxide.

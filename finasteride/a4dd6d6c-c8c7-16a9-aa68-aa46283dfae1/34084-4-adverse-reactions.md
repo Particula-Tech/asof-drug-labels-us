@@ -2,19 +2,21 @@
 
 ## 6.1 Clinical Trials Experience
 
-Finasteride is generally well tolerated; adverse reactions usually have been mild and transient.
-4 Year Placebo-Controlled Study (PLESS)
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-In PLESS, 1524 patients treated with finasteride and 1516 patients treated with placebo were evaluated for safety over a period of 4 years.
+4-Year Placebo-Controlled Study (Long-Term Efficacy and Safety Study)
+
+In a long-term efficacy and safety study, 1524 patients treated with finasteride and 1516 patients treated with placebo were evaluated for safety over a period of 4 years.
 The most frequently reported adverse reactions were related to sexual function.
 3.7% (57 patients) treated with finasteride and 2.1% (32 patients) treated with placebo discontinued therapy as a result of adverse reactions related to sexual function, which are the most frequently reported adverse reactions.
 
 Table 1 presents the only clinical adverse reactions considered possibly, probably or definitely drug related by the investigator, for which the incidence on finasteride was ≥1% and greater than placebo over the 4 years of the study.
 In years 2 to 4 of the study, there was no significant difference between treatment groups in the incidences of impotence, decreased libido and ejaculation disorder.
 
-|  | Table 1 Drug-Related Adverse Experiences |  |  |  |
+Table 1: Drug-Related Adverse Experiences
+
+|  | Year 1(%) |  | Years 2, 3 and 4*(%) |  |
 | --- | --- | --- | --- | --- |
-| Year 1 (%) |  | Years 2, 3 and 4* (%) |  |  |
 | Finasteride | Placebo | Finasteride | Placebo |  |
 | Impotence | 8.1 | 3.7 | 5.1 | 5.1 |
 | Decreased Libido | 6.4 | 3.4 | 2.6 | 2.6 |
@@ -28,9 +30,15 @@ In years 2 to 4 of the study, there was no significant difference between treatm
 
 N = 1524 and 1516, finasteride vs placebo, respectively
 
-Phase III Studies and 5 Year Open Extensions The adverse experience profile in the 1 year, placebo-controlled, Phase III studies, the 5 year open extensions, and PLESS were similar.
-Medical Therapy of Prostatic Symptoms (MTOPS) Study In the MTOPS study, 3047 men with symptomatic BPH were randomized to receive finasteride tablets 5 mg/day (n=768), doxazosin 4 or 8 mg/day (n=756), the combination of finasteride tablets 5 mg/day and doxazosin 4 or 8 mg/day (n=786), or placebo (n=737) for 4 to 6 years.
-[see Clinical Studies (14.2).]
+Phase III Studies and 5-Year Open Extensions
+
+The adverse experience profile in the 1-year, placebo-controlled, Phase III studies, the 5 year open extensions, and PLESS were similar.
+The adverse experience profile in the 1-year, placebo-controlled, Phase III studies, the 5-year open extensions, and thelong-term efficacy and safety study were similar.
+
+Medical Therapy of Prostatic Symptoms (MTOPS) Study
+
+In the MTOPS study, 3047 men with symptomatic BPH were randomized to receive finasteride 5 mg/day (n=768), doxazosin 4 or 8 mg/day (n=756), the combination of finasteride 5 mg/day and doxazosin 4 or 8 mg/day (n=786), or placebo (n=737) for 4 to 6 years.
+[SeeClinical Studies (14.2).]
 
 The incidence rates of drug-related adverse experiences reported by ≥2% of patients in any treatment group in the MTOPS Study are listed in Table 2.
 
@@ -41,13 +49,14 @@ Combination therapy with finasteride and doxazosin was associated with no new cl
 
 Four patients in MTOPS reported the adverse experience breast cancer.
 Three of these patients were on finasteride only and one was on combination therapy.
-[see Long Term Data.]
+[See Long-Term Data.]
 The MTOPS Study was not specifically designed to make statistical comparisons between groups for reported adverse experiences.
 In addition, direct comparisons of safety data between the MTOPS study and previous studies of the single agents may not be appropriate based upon differences in patient population, dosage or dose regimen, and other procedural and study design elements.
 
-| Table 2 Incidence ≥2% in one or More Treatment Groups Drug-Related Clinical Adverse Experiences in MTOPS |  |  |  |  |
-| --- | --- | --- | --- | --- |
+Table 2Incidence ≥2% in one or More Treatment GroupsDrug-Related Clinical Adverse Experiences in MTOPS
+
 | Adverse Experience | Placebo | Doxazosin 4 mg or 8 mg* | Finasteride | Combination |
+| --- | --- | --- | --- | --- |
 | (N=737) (%) | (N=756) (%) | (N=768) (%) | (N=786) (%) |  |
 | Body as a whole |  |  |  |  |
 | Asthenia Headache | 7.1 2.3 | 15.7 4.1 | 5.3 2 | 16.8 2.3 |
@@ -65,26 +74,26 @@ In addition, direct comparisons of safety data between the MTOPS study and previ
 *Doxazosin dose was achieved by weekly titration (1 to 2 to 4 to 8 mg).
 The final tolerated dose (4 mg or 8 mg) was administered at end-Week 4.
 Only those patients tolerating at least 4 mg were kept on doxazosin.
-The majority of patients received the 8 mg dose over the duration of the study.
+The majority of patients received the 8-mg dose over the duration of the study.
 
 Long-Term Data
 
 High-Grade Prostate Cancer
 
-The PCPT trial was a 7 year randomized, double-blind, placebo-controlled trial that enrolled 18,882 men ≥55 years of age with a normal digital rectal examination and a PSA ≤ 3 ng/mL.
-Men received either finasteride tablets 5 mg or placebo daily.
+The PCPT trial was a 7-year randomized, double-blind, placebo-controlled trial that enrolled 18,882 men ≥55 years of age with a normal digital rectal examination and a PSA ≤ 3 ng/mL.
+Men received either finasteride 5 mg or placebo daily.
 Patients were evaluated annually with PSA and digital rectal exams.
 Biopsies were performed for elevated PSA, an abnormal digital rectal exam, or the end of study.
 The incidence of Gleason score 8 to10 prostate cancer was higher in men treated with finasteride (1.8%) than in those treated with placebo (1.1%) [see Indications and Usage (1.3) and Warnings and Precautions (5.2)].
-In a 4 year placebo-controlled clinical trial with another 5α-reductase inhibitor (dutasteride, AVODART), similar results for Gleason score 8 to 10 prostate cancer were observed (1% dutasteride vs 0.5% placebo).
+In a 4-year placebo-controlled clinical trial with another 5α-reductase inhibitor (dutasteride, AVODART), similar results for Gleason score 8 to 10 prostate cancer were observed (1% dutasteride vs 0.5% placebo).
 
 No clinical benefit has been demonstrated in patients with prostate cancer treated with finasteride.
 
 Breast Cancer
 
-During the 4 to 6year placebo- and comparator-controlled MTOPS study that enrolled 3047 men, there were 4 cases of breast cancer in men treated with finasteride but no cases in men not treated with finasteride.
-During the 4 year, placebo-controlled PLESS study that enrolled 3040 men, there were 2 cases of breast cancer in placebo-treated men but no cases in men treated with finasteride.
-During the 7 year placebo-controlled Prostate Cancer Prevention Trial (PCPT) that enrolled 18,882 men, there was 1 case of breast cancer in men treated with finasteride, and 1 case of breast cancer in men treated with placebo.
+During the 4 to 6-year placebo- and comparator-controlled MTOPS study that enrolled 3047 men, there were 4 cases of breast cancer in men treated with finasteride but no cases in men not treated with finasteride.
+During the 4-year, placebo-controlled long-term efficacy and safety study that enrolled 3040 men, there were 2 cases of breast cancer in placebo-treated men but no cases in men treated with finasteride.
+During the 7-year placebo-controlled Prostate Cancer Prevention Trial (PCPT) that enrolled 18,882 men, there was 1 case of breast cancer in men treated with finasteride, and 1 case of breast cancer in men treated with placebo.
 The relationship between long-term use of finasteride and male breast neoplasia is currently unknown.
 
 Sexual Function
@@ -94,23 +103,26 @@ New reports of drug-related sexual adverse experiences decreased with duration o
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse effects have been reported in post-marketing experience with finasteride and/or finasteride at lower doses.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
+The following additional adverse events have been reported in post-marketing experience with finasteride.
+Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-- hypersensitivity reactions, including pruritus, urticaria, and swelling of the lips and face
+- hypersensitivity reactions, such as pruritus, urticaria, and angioedema (including swelling of the lips tongue, throat, and face)
 
 - testicular pain
 
-- erectile dysfunction (ED) that continued after discontinuation of treatment, reported rarely in men taking finasteride for the treatment of BPH.
-Most men were older and were taking concomitant medications and/or had co-morbid conditions with a known association to ED.
-The independent role of finasteride in these events is unknown.
+- hematospermia
 
-- male infertility and/or poor seminal quality have been reported rarely in men taking finasteride for the treatment of BPH.
-The independent role of finasteride in these events is unknown.
-Normalization or improvement of seminal quality has been reported after discontinuation of finasteride.
+- sexual dysfunction that continued after discontinuation of treatment, including erectile dysfunction, decreased libido and ejaculation disorders (e.g., reduced ejaculate volume).
+These events were reported rarely in men taking finasteride for the treatment of BPH.
+Most men were older and were taking concomitant medications and/or had co-morbid conditions.
+The independent role of finasteride in these events is unknown. - male infertility and/or poor seminal quality were reported rarely in men taking finasteride for the treatment of BPH.
+Normalization or improvement of poor seminal quality has been reported after discontinuation of finasteride The independent role of finasteride in these events is unknown.
 
 - depression
 
-- decreased libido that continued after discontinuation of treatment
-
 - male breast cancer.
+
+The following additional adverse event related to sexual dysfunction that continued after discontinuation of treatment has been reported in postmarketing experience with finasteride at lower doses used to treat male pattern baldness.
+Because the event is reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate its frequency or establish a causal relationship to drug exposure:
+
+- orgasm disorders

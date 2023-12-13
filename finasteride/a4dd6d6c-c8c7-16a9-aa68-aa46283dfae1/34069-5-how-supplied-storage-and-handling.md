@@ -14,7 +14,7 @@ Unit dose package of 100 (10 x 10) NDC 55111-172-78
 
 Storage and Handling
 
-Store at 20-25°C (68-77°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
 Protect from light and keep container tightly closed.
 
-Women should not handle crushed or broken finasteride tablets when they are pregnant or may potentially be pregnant because of the possibility of absorption of finasteride and the subsequent potential risk to a male fetus [see Warnings and Precautions(5.3), Use in Specific Populations (8.1)and Patient Counseling Information (17.2)].
+Females should not handle crushed or broken finasteride tablets when they are pregnant or may potentially be pregnant because of the possibility of absorption of finasteride and the subsequent potential risk to a male fetus [see Warnings and Precautions (5.3) and Use in Specific Populations (8.1)].

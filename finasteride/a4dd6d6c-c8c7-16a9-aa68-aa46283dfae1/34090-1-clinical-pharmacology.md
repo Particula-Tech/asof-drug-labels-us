@@ -14,13 +14,13 @@ In man, the 5α-reduced steroid metabolites in blood and urine are decreased aft
 
 ## 12.2 Pharmacodynamics
 
-In man, a single 5 mg oral dose of finasteride produces a rapid reduction in serum DHT concentration, with the maximum effect observed 8 hours after the first dose.
-The suppression of DHT is maintained throughout the 24 hour dosing interval and with continued treatment.
+In man, a single 5-mg oral dose of finasteride produces a rapid reduction in serum DHT concentration, with the maximum effect observed 8 hours after the first dose.
+The suppression of DHT is maintained throughout the 24-hour dosing interval and with continued treatment.
 Daily dosing of finasteride at 5 mg/day for up to 4 years has been shown to reduce the serum DHT concentration by approximately 70%.
 The median circulating level of testosterone increased by approximately 10 to 20% but remained within the physiologic range.
-In a separate study in healthy men treated with finasteride tablets 1 mg per day (n=82) or placebo (n=69), mean circulating levels of testosterone and estradiol were increased by approximately 15% as compared to baseline, but these remained within the physiologic range.
+In a separate study in healthy men treated with finasteride 1 mg per day (n=82) or placebo (n=69), mean circulating levels of testosterone and estradiol were increased by approximately 15% as compared to baseline, but these remained within the physiologic range.
 
-In patients receiving finasteride tablets 5 mg/day, increases of about 10% were observed in luteinizing hormone (LH) and follicle-stimulating hormone (FSH), but levels remained within the normal range.
+In patients receiving finasteride 5 mg/day, increases of about 10% were observed in luteinizing hormone (LH) and follicle-stimulating hormone (FSH), but levels remained within the normal range.
 In healthy volunteers, treatment with finasteride did not alter the response of LH and FSH to gonadotropin-releasing hormone indicating that the hypothalamic-pituitary-testicular axis was not affected.
 
 In patients with BPH, finasteride has no effect on circulating levels of cortisol, prolactin, thyroid-stimulating hormone, or thyroxine.
@@ -30,7 +30,7 @@ Adult males with genetically inherited Type II 5α-reductase deficiency also hav
 Except for the associated urogenital defects present at birth, no other clinical abnormalities related to Type II 5α-reductase deficiency have been observed in these individuals.
 These individuals have a small prostate gland throughout life and do not develop BPH.
 
-In patients with BPH treated with finasteride tablets (1 to 100 mg/day) for 7 to 10 days prior to prostatectomy, an approximate 80% lower DHT content was measured in prostatic tissue removed at surgery, compared to placebo; testosterone tissue concentration was increased up to 10 times over pretreatment levels, relative to placebo.
+In patients with BPH treated with finasteride (1 to 100 mg/day) for 7 to 10 days prior to prostatectomy, an approximate 80% lower DHT content was measured in prostatic tissue removed at surgery, compared to placebo; testosterone tissue concentration was increased up to 10 times over pretreatment levels, relative to placebo.
 Intraprostatic content of PSA was also decreased.
 
 In healthy male volunteers treated with finasteride for 14 days, discontinuation of therapy resulted in a return of DHT levels to pretreatment levels in approximately 2 weeks.
@@ -55,9 +55,9 @@ Although steady state was not reached in this study, mean trough plasma concentr
 
 Finasteride has been shown to cross the blood brain barrier but does not appear to distribute preferentially to the CSF.
 
-In 2 studies of healthy subjects (n=69) receiving finasteride tablets 5 mg/day for 6 to 24 weeks, finasteride concentrations in semen ranged from undetectable (<0.1 ng/mL) to 10.54 ng/mL.
-In an earlier study using a less sensitive assay, finasteride concentrations in the semen of 16 subjects receiving finasteride tablets 5 mg/day ranged from undetectable (<1 ng/mL) to 21 ng/mL.
-Thus, based on a 5 mL ejaculate volume, the amount of finasteride in semen was estimated to be 50 to 100 fold less than the dose of finasteride (5 mcg) that had no effect on circulating DHT levels in men [see also Use in Specific Populations (8.1)].
+In 2 studies of healthy subjects (n=69) receiving finasteride 5 mg/day for 6 to 24 weeks, finasteride concentrations in semen ranged from undetectable (<0.1 ng/mL) to 10.54 ng/mL.
+In an earlier study using a less sensitive assay, finasteride concentrations in the semen of 16 subjects receiving finasteride 5 mg/day ranged from undetectable (<1 ng/mL) to 21 ng/mL.
+Thus, based on a 5-mL ejaculate volume, the amount of finasteride in semen was estimated to be 50 to 100 fold less than the dose of finasteride (5 mcg) that had no effect on circulating DHT levels in men [see also Use in Specific Populations (8.1)].
 
 Metabolism
 
@@ -72,9 +72,10 @@ Following an oral dose of 14C-finasteride in man (n=6), a mean of 39% (range, 32
 The mean terminal half-life of finasteride in subjects ≥70 years of age was approximately 8 hours (range, 6 to 15 hours; n=12), compared with 6 hours (range, 4 to 12 hours; n=12) in subjects 45 to 60 years of age.
 As a result, mean AUC(0-24 hr) after 17 days of dosing was 15% higher in subjects ≥70 years of age than in subjects 45 to 60 years of age (p=0.02).
 
-| Table 3 Mean (SD) Pharmacokinetic Parameters in Healthy Young Subjects (n=15) |  |
-| --- | --- |
+Table 3: Mean (SD) Pharmacokinetic Parameters in Healthy Young Subjects (n=15)
+
 |  | Mean (± SD) |
+| --- | --- |
 | Bioavailability | 63% (34-108%)* |
 | Clearance (mL/min) | 165 (55) |
 | Volume of Distribution (L) | 76 (14) |
@@ -85,26 +86,27 @@ As a result, mean AUC(0-24 hr) after 17 days of dosing was 15% higher in subject
 Pediatric
 
 Finasteride pharmacokinetics have not been investigated in patients <18 years of age.
-Finasteride is not indicated for use in pediatric patients [see Warnings and Precautions(5.4), Use in Specific Populations (8.4)].
+Finasteride is not indicated for use in pediatric patients [seeWarnings and Precautions (5.4),Use in Specific Populations (8.4)].
 
 Gender
 
-Finasteride is not indicated for use in women [see Contraindications (4), Warnings and Precautions (5.3and 5.4), Use in Specific Populations (8.1), How Supplied/Storage and Handling (16) and Patient Counseling Information (17.2)].
+Finasteride is not indicated for use in females [see Contraindications (4),Warnings and Precautions (5.3 and 5.4),Use in Specific Populations (8.1), and How Supplied/Storage and Handling (16)].
 
 Geriatric
 
 No dosage adjustment is necessary in the elderly.
 Although the elimination rate of finasteride is decreased in the elderly, these findings are of no clinical significance.
-[see Clinical Pharmacology (12.3) and Use in Specific Populations (8.5).]
+[See Clinical Pharmacology (12.3) and Use in Specific Populations (8.5).]
 
-| Table 4 Mean (SD) Noncompartmental Pharmacokinetic Parameters After Multiple Doses of 5 mg/day in Older Men |  |  |
-| --- | --- | --- |
+Table 4: Mean (SD) Noncompartmental Pharmacokinetic Parameters After Multiple Doses of 5 mg/day in Older Men
+
 |  | Mean (± SD) |  |
+| --- | --- | --- |
 | 45 to 60 years old (n=12) | ≥70 years old (n=12) |  |
 | AUC (ng•hr/mL) | 389 (98) | 463 (186) |
 | Peak Concentration (ng/mL) | 46.2 (8.7) | 48.4 (14.7) |
 | Time to Peak (hours) | 1.8 (0.7) | 1.8 (0.6) |
-| Half-Life (hours)* | 6 (1.5) | 8.2 (2.5) |
+| Half-Life (hours)* | 6.0 (1.5) | 8.2 (2.5) |
 
 *First-dose values; all other parameters are last-dose values
 
