@@ -10,6 +10,7 @@ How Supplied
 
 | Unit of Sale | Concentration (per total volume) |
 | --- | --- |
+| NDC 0409-1805-01Clamshell of 100.5 mL fill in 1.5 mL NexJect™ Single-dose Prefilled Syringe with Luer Lock | 0.25 mg/0.5 mL |
 | NDC 0409-4264-01 Clamshell of 10 0.5 mL fill in 1.5 mL NexJect™ Single-dose Prefilled Syringe with Luer Lock | 0.5 mg/0.5 mL |
 | NDC 0409-1283-37 Clamshell of 10 1 mL fill in 1.5 mL NexJect™ Single-dose Prefilled Syringe with Luer Lock | 1 mg/mL |
 | NDC 0409-1312-36 Clamshell of 10 1 mL fill in 1.5 mL NexJect™ Single-dose Prefilled Syringe with Luer Lock | 2 mg/mL |
@@ -18,4 +19,4 @@ How Supplied
 PROTECT FROM LIGHT
 
 Keep covered in carton until time of use.
-Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].

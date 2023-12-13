@@ -49,6 +49,6 @@ Physical dependence may not occur to a clinically significant degree until after
 Hydromorphone Hydrochloride Injection should not be abruptly discontinued in a physically-dependent patient [see Dosage and Administration (2.6)].
 If Hydromorphone Hydrochloride Injection is abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur.
 Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
-Other signs and symptoms also may develop, including: irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
+Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 
 Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1)].

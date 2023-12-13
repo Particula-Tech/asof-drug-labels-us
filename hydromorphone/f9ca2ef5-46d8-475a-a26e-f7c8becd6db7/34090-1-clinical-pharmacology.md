@@ -62,7 +62,7 @@ In opioid-tolerant patients, the situation may be altered by the development of 
 Distribution
 
 At therapeutic plasma levels, hydromorphone is approximately 8–19% bound to plasma proteins.
-After an intravenous bolus dose, the steady state of volume of distribution [mean (%cv)] is 302.9 (32%) liters.
+After an intravenous bolus dose, the steady state of volume of distribution [mean (%CV)] is 302.9 (32%) liters.
 
 Elimination
 
@@ -82,7 +82,7 @@ Specific Populations
 
 Hepatic Impairment
 
-After oral administration of hydromorphone at a single 4 mg dose (2 mg hydromorphone immediate-release tablets), mean exposure to hydromorphone (Cmax and AUC∞) is increased 4 fold in patients with moderate (Child-Pugh Group B) hepatic impairment compared with subjects with normal hepatic function.
+After oral administration of hydromorphone at a single 4 mg dose (2 mg hydromorphone immediate-release tablets), mean exposure to hydromorphone (Cmax and AUC∞) is increased 4-fold in patients with moderate (Child-Pugh Group B) hepatic impairment compared with subjects with normal hepatic function.
 Patients with moderate hepatic impairment should be started at one fourth to one half the recommended starting dose and closely monitored during dose titration.
 The pharmacokinetics of hydromorphone in patients with severe hepatic impairment has not been studied.
 A further increase in Cmax and AUC of hydromorphone in this group is expected and should be taken into consideration when selecting a starting dose [see Use in Specific Populations (8.6)].
@@ -90,7 +90,7 @@ A further increase in Cmax and AUC of hydromorphone in this group is expected an
 Renal Impairment
 
 The pharmacokinetics of hydromorphone following an oral administration of hydromorphone at a single 4 mg dose (2 mg hydromorphone immediate-release tablets) are affected by renal impairment.
-Mean exposure to hydromorphone (Cmax and AUC0–∞) is increased by 2 fold in patients with moderate (CLcr = 40 – 60 mL/min) renal impairment and increased by 4 fold in patients with severe (CLcr < 30 mL/min) renal impairment compared with normal subjects (CLcr > 80 mL/min).
+Mean exposure to hydromorphone (Cmax and AUC0–∞) is increased by 2-fold in patients with moderate (CLcr = 40 – 60 mL/min) renal impairment and increased by 4-fold in patients with severe (CLcr < 30 mL/min) renal impairment compared with normal subjects (CLcr > 80 mL/min).
 In addition, in patients with severe renal impairment, hydromorphone appeared to be more slowly eliminated with a longer terminal elimination half-life (40 hr) compared to patients with normal renal function (15 hr). Start patients with renal impairment on one-fourth to one-half the usual starting dose depending on the degree of impairment.
 Patients with renal impairment should be closely monitored during dose titration [see Use in Specific Populations (8.7)].
 

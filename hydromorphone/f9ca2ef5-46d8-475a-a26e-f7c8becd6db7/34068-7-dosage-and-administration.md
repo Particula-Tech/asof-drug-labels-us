@@ -2,14 +2,14 @@
 
 ## 2.1 Important Dosage and Administration Instructions
 
-- Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
-- Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
-- Monitor patients closely for respiratory depression, especially within the first 24–72 hours of initiating therapy and following dosage increases with Hydromorphone Hydrochloride Injection and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
-- Inspect parenteral drug products visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+- •Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
+- •Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
+- •Monitor patients closely for respiratory depression, especially within the first 24–72 hours of initiating therapy and following dosage increases with Hydromorphone Hydrochloride Injection and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
+- •Inspect parenteral drug products visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
   A slight yellowish discoloration may develop in Hydromorphone Hydrochloride Injection.
   No loss of potency has been demonstrated.
   Hydromorphone Hydrochloride Injection is physically compatible and chemically stable for at least 24 hours at 25°C protected from light in most common large volume parenteral solutions.
-- Discard any unused portion in an appropriate manner.
+- •Discard any unused portion in an appropriate manner.
 
 ## 2.2 Initial Dosage
 

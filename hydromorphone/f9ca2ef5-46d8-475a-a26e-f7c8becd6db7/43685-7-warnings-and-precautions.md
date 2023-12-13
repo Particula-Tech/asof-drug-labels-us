@@ -83,7 +83,7 @@ The information available does not identify any particular opioids as being more
 ## 5.7 Severe Hypotension
 
 Hydromorphone Hydrochloride Injection may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
-There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g. phenothiazines or general anesthetics) [see Drug Interactions (7)].
+There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7)].
 Monitor these patients for signs of hypotension after initiating or titrating the dosage of Hydromorphone Hydrochloride Injection.
 In patients with circulatory shock, Hydromorphone Hydrochloride Injection may cause vasodilation that can further reduce cardiac output and blood pressure.
 Avoid the use of Hydromorphone Hydrochloride Injection in patients with circulatory shock.
@@ -111,7 +111,7 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.11 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Hydromorphone Hydrochloride Injection.
+Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Hydromorphone Hydrochloride Injection.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 When discontinuing Hydromorphone Hydrochloride Injection, in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.6)].

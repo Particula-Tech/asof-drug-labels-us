@@ -51,18 +51,18 @@ Needle not included
 Protect from light.
 Opaque covering needed until contents are used.
 
-Store at 20 to 25°C (68 to 77°F).
+Store at 20°C to 25°C (68°F to 77°F).
 [See USP Controlled Room Temperature.]
 
 Sterile Aqueous Injection Usual Dosage: See Package Insert.
 
-Each mL contains 1 mg hydromorphone hydrochloride, 5.4 mg sodium lactate with sodium chloride for isotonicity. pH adjusted with lactic acid or sodium hydroxide.
+Each mL contains 1 mg hydromorphone hydrochloride, 0.24 mg of lactic acid, 5.40 mg sodium chloride as isotonicity agent, 8.93 mg of sodium lactate as a buffering agent and lactic acid and sodium hydroxide as pH adjusters.
 
 Do not use if solution is discolored or contains a precipitate.
 
-PAA140449
+PAA211792
 
-Hospira, Inc. Lake Forest, IL 60045 USA
+Distributed by Hospira, Inc. Lake Forest, IL 60045 USA
 
 Hospira
 
@@ -119,18 +119,18 @@ Needle not included
 Protect from light.
 Opaque covering needed until contents are used.
 
-Store at 20 to 25°C (68 to 77°F).
+Store at 20°C to 25°C (68°F to 77°F).
 [See USP Controlled Room Temperature.]
 
 Sterile Aqueous Injection Usual Dosage: See Package Insert.
 
-Each 1 mL contains 2 mg hydromorphone hydrochloride, 5.4 mg sodium lactate with sodium chloride for isotonicity. pH adjusted with lactic acid or sodium hydroxide.
+Each mL contains 2 mg hydromorphone hydrochloride, 0.24 mg of lactic acid, 5.40 mg sodium chloride as isotonicity agent, 8.93 mg of sodium lactate as a buffering agent and lactic acid and sodium hydroxide as pH adjusters.
 
 Do not use if solution is discolored or contains a precipitate.
 
-PAA140448
+PAA211791
 
-Hospira, Inc. Lake Forest, IL 60045 USA
+Distributed by Hospira, Inc. Lake Forest, IL 60045 USA
 
 Hospira
 
@@ -187,18 +187,18 @@ Needle not included
 Protect from light.
 Opaque covering needed until contents are used.
 
-Store at 20 to 25°C (68 to 77°F).
+Store at 20°C to 25°C (68°F to 77°F).
 [See USP Controlled Room Temperature.]
 
 Sterile Aqueous Injection Usual Dosage: See Package Insert.
 
-Each 1 mL contains 4 mg hydromorphone hydrochloride, 5.4 mg sodium lactate with sodium chloride for isotonicity. pH adjusted with lactic acid or sodium hydroxide.
+Each mL contains 4 mg hydromorphone hydrochloride, 0.24 mg of lactic acid, 5.40 mg sodium chloride as isotonicity agent, 8.93 mg of sodium lactate as a buffering agent and lactic acid and sodium hydroxide as pH adjusters.
 
 Do not use if solution is discolored or contains a precipitate.
 
-PAA140447
+PAA211660
 
-Hospira, Inc. Lake Forest, IL 60045 USA
+Distributed by Hospira, Inc. Lake Forest, IL 60045 USA
 
 Hospira
 
@@ -255,17 +255,82 @@ Needle not included
 Protect from light.
 Opaque covering needed until contents are used.
 
-Store at 20 to 25°C (68 to 77°F).
+Store at 20°C to 25°C (68°F to 77°F).
 [See USP Controlled Room Temperature.]
 
 Sterile Aqueous Injection Usual Dosage: See Package Insert.
 
-Each 0.5 mL contains 0.5 mg hydromorphone hydrochloride, 2.7 mg sodium lactate with sodium chloride for isotonicity. pH adjusted with lactic acid or sodium hydroxide.
+Each 0.5 mL contains 0.5 mg hydromorphone hydrochloride, 0.12 mg of lactic acid, 2.70 mg sodium chloride as isotonicity agent, 4.47 mg of sodium lactate as a buffering agent and lactic acid and sodium hydroxide as pH adjusters.
 
 Do not use if solution is discolored or contains a precipitate.
 
-PAA152910
+PAA211659
 
-Hospira, Inc. Lake Forest, IL 60045 USA
+Distributed by Hospira, Inc. Lake Forest, IL 60045 USA
+
+Hospira
+
+# PRINCIPAL DISPLAY PANEL - 0.25 mg/0.5 mL Syringe Label
+
+HYDROmorphone HCl Injection, USP
+
+PAA208366
+
+CII
+
+0.25 mg/0.5 mL
+
+# PRINCIPAL DISPLAY PANEL - 0.25 mg/0.5 mL Syringe Label - 1805
+
+TWIST & PULL
+
+Tamper Seal
+
+NDC 0409-1805-10
+
+CII
+
+HYDROmorphone HCl Injection, USP
+
+0.25 mg/0.5 mL
+
+Intravenous, Intramuscular, or Subcutaneous Use
+
+Protect from light Rx only
+
+0.5 mL Single-dose syringe
+
+PAA208364
+
+LOT AA#### EXP YYYY / MM
+
+# PRINCIPAL DISPLAY PANEL - 0.25 mg/0.5 mL Syringe Cello Pack Label
+
+NDC 0409-1805-01
+
+HYDROmorphone HCl Injection, USP CII
+
+0.25 mg / 0.5 mL
+
+For Intravenous, Intramuscular, or Subcutaneous Use
+
+10 NexJect™ 0.5 mL Single-dose syringes with luer lock Rx only
+
+Needle not included
+
+Protect from light.
+Opaque covering needed until contents are used.
+
+Store at 20°C to 25°C (68°F to 77°F).
+[See USP Controlled Room Temperature.]
+
+Sterile Aqueous Injection Usual Dosage: See Package Insert.
+
+Each 0.5 mL contains 0.25 mg hydromorphone hydrochloride, 0.12 mg of lactic acid, 2.70 mg of sodium chloride as isotonicity agent, 4.47 mg of sodium lactate as a buffering agent and lactic acid and sodium hydroxide as pH adjusters.
+Do not use if solution is discolored or contains a precipitate.
+
+PAA208365
+
+Distributed by Hospira, Inc. Lake Forest, IL 60045 USA
 
 Hospira

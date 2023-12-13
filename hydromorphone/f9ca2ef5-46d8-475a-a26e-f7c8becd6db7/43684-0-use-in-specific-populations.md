@@ -58,7 +58,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 Clinical Considerations
 
 Monitor infants exposed to Hydromorphone Hydrochloride Injection through breast milk for excess sedation and respiratory depression.
-Withdrawal symptoms can occur in breastfed infants when maternal administration of hydromorphoneis stopped, or when breast-feeding is stopped.
+Withdrawal symptoms can occur in breastfed infants when maternal administration of hydromorphone is stopped, or when breast-feeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
 
