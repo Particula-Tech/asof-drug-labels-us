@@ -1,6 +1,3 @@
 # 10 OVERDOSAGE
 
-In clinical studies, administration of ezetimibe, 50 mg/day to 15 healthy subjects for up to 14 days, 40 mg/day to 18 patients with primary hyperlipidemia for up to 56 days, and 40 mg/day to 27 patients with homozygous sitosterolemia for 26 weeks was generally well tolerated.
-One female patient with homozygous sitosterolemia took an accidental overdose of ezetimibe 120 mg/day for 28 days with no reported clinical or laboratory adverse events.
-
-In the event of an overdose, symptomatic and supportive measures should be employed.
+In the event of overdose, consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations.
