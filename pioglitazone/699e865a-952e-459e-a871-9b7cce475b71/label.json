@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA076798"
+  ],
+  "inn": "pioglitazone",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-804-30",
+    "62135-804-90",
+    "62135-805-30",
+    "62135-805-90",
+    "62135-806-30",
+    "62135-806-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pioglitazone hydrochloride",
+      "name": "PIOGLITAZONE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "699e865a-952e-459e-a871-9b7cce475b71",
+  "source": "dailymed"
+}
