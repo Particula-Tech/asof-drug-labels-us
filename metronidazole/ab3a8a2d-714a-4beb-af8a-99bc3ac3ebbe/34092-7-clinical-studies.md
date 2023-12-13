@@ -5,7 +5,7 @@ Most subjects had a disease severity score of 3 (“moderate”) on the 5-point 
 The co-primary efficacy endpoints were the percent reduction in inflammatory lesion counts and percentage of subjects with success on IGA, defined as an IGA score of 0 (“clear”) or 1 (“almost clear”) at Week 10.
 The efficacy results are shown in the following table:
 
-Table 3: Inflammatory Lesion Counts and Global Scores in a Clinical Trial of Rosacea
+Table 3: Inflammatory Lesion Counts and Global Scores in Subjects with Rosacea at Week 10 in a Clinical Trial
 
 | N | Results N (%) | N | Results N (%) |  |
 | --- | --- | --- | --- | --- |
@@ -19,4 +19,3 @@ Table 3: Inflammatory Lesion Counts and Global Scores in a Clinical Trial of Ros
 | Subject with no change |  | 159 (28.5) |  | 77 (40.7) |
 
 Subjects treated with METROGEL experienced a mean reduction of 9.4 inflammatory lesions in the Week-10 LOCF group, compared to a reduction of 5.6 for those treated with vehicle, or a difference in means of 3.8 lesions.
-The contribution to efficacy of individual components of the vehicle has not been established.

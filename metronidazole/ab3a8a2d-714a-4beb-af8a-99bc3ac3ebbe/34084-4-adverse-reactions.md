@@ -1,44 +1,34 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+- Neurologic Disease [see Warnings and Precautions (5.1)]
+- Contact Dermatitis [see Warnings and Precautions (5.3)]
+- Eye Irritation [see Warnings and Precautions (5.4)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 In a controlled clinical trial, 557 subjects used METROGEL and 189 subjects used the gel vehicle once daily for up to 10 weeks.
-The following table summarizes selected adverse reactions that occurred at a rate of ≥1%:
+The following table summarizes selected adverse reactions that occurred at a rate of ≥1% and at a higher rate than vehicle:
 
-Table 1: Adverse Reactions That Occurred at a Rate of ≥1%
+Table 1: Adverse Reactions That Occurred at a Rate of ≥1% and Higher Than Vehicle in Subjects Treated with METROGEL for Up to 10 Weeks
 
-|  | N= 557 | N= 189 |
+|  | (N= 557) N (%) | (N= 189) N (%) |
 | --- | --- | --- |
-| System Organ Class/Preferred Term | METROGEL | Gel Vehicle |
-| Patients with at least one AE Number (%) of Patients | 186 (33.4) | 51 (27.0) |
-| Infections and infestations | 76 (13.6) | 28 (14.8) |
-| Bronchitis | 6 (1.1) | 3 (1.6) |
+| Preferred Term | METROGEL | Vehicle |
 | Influenza | 8 (1.4) | 1 (0.5) |
-| Nasopharyngitis | 17 (3.1) | 8 (4.2) |
-| Sinusitis | 8 (1.4) | 3 (1.6) |
 | Upper respiratory tract infection | 14 (2.5) | 4 (2.1) |
 | Urinary tract infection | 6 (1.1) | 1 (0.5) |
-| Vaginal mycosis | 1 (0.2) | 2 (1.1) |
-| Musculoskeletal and connective tissue disorders | 19 (3.4) | 5 (2.6) |
-| Back pain | 3 (0.5) | 2 (1.1) |
-| Neoplasms | 4 (0.7) | 2 (1.1) |
-| Basal cell carcinoma | 1 (0.2) | 2 (1.1) |
-| Nervous system disorders | 18 (3.2) | 3 (1.6) |
 | Headache | 12 (2.2) | 1 (0.5) |
-| Respiratory, thoracic and mediastinal disorders | 22 (3.9) | 5 (2.6) |
-| Nasal congestion | 6 (1.1) | 3 (1.6) |
-| Skin and subcutaneous tissue disorders | 36 (6.5) | 12 (6.3) |
 | Contact dermatitis | 7 (1.3) | 1 (0.5) |
-| Dry skin | 6 (1.1) | 3 (1.6) |
-| Vascular disorders | 8 (1.4) | 1 (0.5) |
 | Hypertension | 6 (1.1) | 1 (0.5) |
 
-Table 2: Local Cutaneous Signs and Symptoms of Irritation That Were Worse Than Baseline
+Table 2:Local Cutaneous Signs and Symptoms of Irritation That Were Worse Than Baseline in Subjects Treated with METROGEL for Up to 10 Weeks
 
-|  | METROGEL | Gel Vehicle |
+|  | METROGEL | Vehicle |
 | --- | --- | --- |
-| Sign/Symptom | N= 544 | N= 184 |
+| Sign/Symptom | (N= 544) N (%) | (N= 184) N (%) |
 | Dryness | 138 (25.4) | 63 (34.2) |
 | Mild | 93 (17.1) | 41 (22.3) |
 | Moderate | 42 (7.7) | 20 (10.9) |
@@ -56,10 +46,10 @@ Table 2: Local Cutaneous Signs and Symptoms of Irritation That Were Worse Than B
 | Moderate | 7 (1.3) | 9 (4.9) |
 | Severe | 10 (1.8) | 1 (0.5) |
 
-The following additional adverse experiences have been reported with the topical use of metronidazole: transient redness, metallic taste, tingling or numbness of extremities, and nausea.
+The following additional adverse reactions have been reported with the topical use of metronidazole: transient redness, metallic taste, tingling or numbness of extremities, and nausea.
 
 ## 6.2 Post Marketing Experience
 
-The following adverse reaction has been identified during post- approval use of topical metronidazole.
+The following adverse reaction has been identified during post-approval use of topical metronidazole.
 Because this reaction is reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
-Nervous System Disorders: Peripheral neuropathy [see Warnings and Precautions (5.1)]
+Nervous System Disorders: Peripheral neuropathy Ophthalmic Adverse Reactions: Tearing of the eyes

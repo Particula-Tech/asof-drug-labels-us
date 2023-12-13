@@ -4,8 +4,8 @@
 
 Peripheral neuropathy, characterized by numbness or paresthesia of an extremity, has been reported in patients treated with systemic metronidazole.
 Peripheral neuropathy has been reported with the post approval use of topical metronidazole.
-The appearance of abnormal neurologic signs should prompt immediate reevaluation of METROGEL therapy.
-Metronidazole should be administered with caution to patients with central nervous system diseases.
+Immediately reevaluate METROGEL therapy if abnormal neurologic signs appear.
+Administer metronidazole with caution to patients with central nervous system diseases.
 
 ## 5.2 Blood Dyscrasias
 

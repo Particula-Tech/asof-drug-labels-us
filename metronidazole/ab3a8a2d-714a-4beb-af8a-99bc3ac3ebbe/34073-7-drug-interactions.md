@@ -1,4 +1,4 @@
 # 7 DRUG INTERACTIONS
 
 Oral metronidazole has been reported to potentiate the anticoagulant effect of coumarin and warfarin, resulting in a prolongation of prothrombin time.
-Drug interactions should be kept in mind when METROGEL is prescribed for patients who are receiving anticoagulant treatment, although they are less likely to occur with topical metronidazole administration because of low absorption.
+Use caution when prescribing for patients who are receiving anticoagulant treatment.

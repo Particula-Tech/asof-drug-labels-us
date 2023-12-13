@@ -13,19 +13,3 @@ Marketed by: GALDERMA LABORATORIES, L.P.
 Fort Worth, TX 76177 USA All trademarks are the property of their respective owners.
 Made in Canada.
 P50741-6
-
-# PACKAGE LABEL - 55g Pump
-
-Rx Only NDC 0299-3820-01 metrogel 1% (metronidazole) Gel 1% PUMP For topical use only NET WT.
-55g For topical use only.
-Not for oral, ophthalmic or intravaginal use.
-Store at controlled room temperature, 68° to 77°F (20° - 25°C), excursions permitted between 59° to 86°F (15° - 30°C).
-Keep out of reach of children.
-Usual dosage: Apply a thin film once a day to the affected areas.
-See package insert for complete prescribing instructions.
-Each gram contains: 10 mg (1%) metronidazole as active ingredient in a gel base consisting of betadex, edetate disodium, hydroxyethyl cellulose, methylparaben, niacinamide, phenoxyethanol, propylene glycol, propylparben, and purified water.
-
-Marketed by: GALDERMA LABORATORIES, L.P.
-Fort Worth, TX 76177 USA Made in Canada.
-GALDERMA is a registered trademark.
-P51727-2

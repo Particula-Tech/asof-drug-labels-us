@@ -74,6 +74,6 @@ It may harm them.
 You can ask your pharmacist or healthcare provider for information about METROGEL that is written for health professionals.
 
 What are the ingredients in METROGEL?
-Active ingredient: metronidazole Inactive ingredients: betadex, edetate disodium, hydroxyethyl cellulose, methylparaben, niacinamide, phenoxyethanol, propylene glycol, propylparaben and purified water Marketed by: Galderma Laboratories, L.P., Fort Worth, Texas 76177 USA P50742-4 Made in Canada US Patent No. 6,881,726 and 7,348,317 For more information, call 1-866-735-4137.
+Active ingredient: metronidazole Inactive ingredients: betadex, edetate disodium, hydroxyethyl cellulose, methylparaben, niacinamide, phenoxyethanol, propylene glycol, propylparaben and purified water Marketed by: Galderma Laboratories, Dallas, Texas 75201 USA P5XXXX-X Made in Canada US Patent No. 6,881,726 and 7,348,317 For more information, call 1-866-735-4137.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Issued: 03/2022
+Issued: 11/2023

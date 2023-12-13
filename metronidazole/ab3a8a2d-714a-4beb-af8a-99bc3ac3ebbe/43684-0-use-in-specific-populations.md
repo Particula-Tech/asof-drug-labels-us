@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary Available data have not established an association with metronidazole use during pregnancy and major birth defects, miscarriage or other adverse maternal or fetal outcomes.
+Risk Summary Available data have not established an association between metronidazole use during pregnancy and major birth defects, miscarriage or other adverse maternal or fetal outcomes.
 No fetotoxicity was observed after oral administration of metronidazole in pregnant rats or mice.
 The available data do not allow the calculation of relevant comparisons between the systemic exposures of metronidazole observed in animal studies to the systemic exposures that would be expected in humans after topical use of METROGEL.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -13,13 +13,12 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Risk Summary It is not known whether metronidazole is present in human milk after topical administration.
 Published literature reports the presence of metronidazole in human milk after oral administration.
-There are reports of diarrhea and candida infection in breastfed infants of mothers receiving oral treatment with metronidazole.
 There are no data on the effects of metronidazole on milk production.
 Because of the potential for serious adverse reactions, advise patients that breastfeeding is not recommended during treatment with METROGEL.
 
-## 8.2 Pediatric Use
+## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+Safety and effectiveness of METROGEL have not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 
