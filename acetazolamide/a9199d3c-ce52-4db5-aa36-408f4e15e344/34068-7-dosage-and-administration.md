@@ -3,7 +3,7 @@
 ## Preparation and Storage of Parenteral Solution
 
 Each 500 mg vial containing sterile acetazolamide sodium should be reconstituted with at least 5 mL of Sterile Water for Injection prior to use.
-Reconstituted solutions retain their physical and chemical properties for 3 days under refrigeration at 2°- 8°C (36°- 46°F), or 12 hours at room temperature 20°- 25°C (68°- 77°F).
+Reconstituted solutions retain their physical and chemical properties for 3 days under refrigeration at 2°-8°C (36°-46°F), or 12 hours at room temperature 20°-25°C (68°-77°F).
 Contains no preservative.
 The direct intravenous route of administration is preferred.
 Intramuscular administration is not recommended.

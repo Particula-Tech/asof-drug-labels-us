@@ -32,7 +32,6 @@ Periodic monitoring of serum electrolytes is recommended.
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies in animals to evaluate the carcinogenic potential of acetazolamide have not been conducted.
-
 In a bacterial mutagenicity assay, acetazolamide was not mutagenic when evaluated with and without metabolic activation.
 
 The drug had no effect on fertility when administered in the diet to male and female rats at a daily intake of up to 4 times the recommended human dose of 1000 mg in a 50 kg individual.
@@ -42,7 +41,6 @@ The drug had no effect on fertility when administered in the diet to male and fe
 ### Teratogenic Effects: Pregnancy Category C
 
 Acetazolamide, administered orally or parenterally, has been shown to be teratogenic (defects of the limbs) in mice, rats, hamsters and rabbits.
-
 There are no adequate and well-controlled studies in pregnant women.
 Acetazolamide should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
