@@ -65,7 +65,8 @@ The WHI substudy of daily CE (0.625 mg)-alone provided information about breast 
 In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE-alone was not associated with an increased risk of invasive breast cancer [relative risk (RR) 0.80] 6 [see Clinical Studies (14.5)].
 
 Consistent with the WHI clinical trials, observational studies have also reported an increased risk of breast cancer with estrogen plus progestin therapy, and a smaller increase in the risk for breast cancer with estrogen-alone therapy, after several years of use.
-The risk increased with duration of use, and appeared to return to baseline over about 5 years after stopping treatment (only the observational studies have substantial data on risk after stopping).
+One large meta-analysis of prospective cohort studies reported increased risks that were dependent upon duration of use and could last up to >10 years after discontinuation of estrogen plus progestin therapy and estrogen-alone therapy.
+Extension of the WHI trials also demonstrated increased breast cancer risk associated with estrogen plus progestin therapy.
 Observational studies also suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to estrogen-alone therapy.
 These studies have not generally found significant variation in the risk of breast cancer among different estrogen plus progestin combinations, doses, or routes of administration.
 
@@ -190,7 +191,7 @@ Consider whether the benefits of estrogen therapy outweigh the risks in women wi
 
 ## 5.17 Laboratory Tests
 
-Serum follicle stimulating hormone (FSH) and estradiol levels have not been shown to be useful in the management of postmenopausal women with soderate to severe vasomotor symptoms.
+Serum follicle stimulating hormone (FSH) and estradiol levels have not been shown to be useful in the management of postmenopausal women with moderate to severe vasomotor symptoms.
 
 ## 5.18 Drug-Laboratory Test Interactions
 

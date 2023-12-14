@@ -224,7 +224,7 @@ Step 4.
 Placing the patch on your skin.
 
 - •Apply the sticky side of the patch to one of the areas of skin shown below.
-  See Figure F and Figure G
+  See Figure E and Figure F
 - •Do not touch the sticky side of the patch with your fingers.
 
 | Figure E | Figure F |
@@ -250,7 +250,7 @@ Note:
 
 - •Contact with water while you are swimming, using a sauna, bathing, or showering may cause the patch to fall off.
 - •If your patch falls off reapply it.
-  If you cannot reapply the patch, apply a new patch to another area (See Figures F and G) and continue to follow your original application schedule.
+  If you cannot reapply the patch, apply a new patch to another area (See Figures E and F) and continue to follow your original application schedule.
 - •If you stop using your Climara Pro or forget to apply a new patch as scheduled, you may have spotting, or bleeding, and your symptoms may come back.
 
 Step 6: Throwing away your used patch.

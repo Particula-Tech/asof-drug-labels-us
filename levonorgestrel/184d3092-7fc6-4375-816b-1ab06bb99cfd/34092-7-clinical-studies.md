@@ -127,8 +127,8 @@ WHI publications can be viewed at www.nhlbi.nih.gov/whi.Results are based on cen
 | Overall MortalityAll deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease. | 1.00 (0.83-1.19) | 52 | 52 |
 | Global IndexA subset of the events was combined in a "global index", defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes. | 1.13 (1.02-1.25) | 184 | 165 |
 
-Timing of the initiation of estrogen plus progestin therapy relative to the start of menopause may affect the overall risk benefit profile.
-The WHI estrogen plus progestin substudy, stratified by age, showed in women 50 to 59 years of age, a non-significant trend toward reduced risk for overall mortality [hazard ratio (HR) 0.69 (95 percent CI, 0.44–1.07)].
+Timing of the initiation of estrogen-alone therapy relative to the start of menopause may affect the overall risk benefit profile.
+The WHI estrogen-alone substudy, stratified by age, showed in women 50 to 59 years of age, a non-significant trend toward reduced risk for overall mortality [hazard ratio (HR) 0.69 (95 percent CI, 0.44–1.07)].
 
 ### WHI Estrogen-Alone Substudy
 
