@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 1 mg/mL Ampule Label
 
-RL - 4 950
+RL - 4950
 
 NDC 0409-2552-11 Rx only 1 mL Single-use ampul
 
@@ -136,13 +136,13 @@ NDC 0409-1283-03 Rx only
 
 HYDROmorphone HCl Injection, USP 1 mg/mL CII
 
-PAA128345
+PAA198794
 
-1. PROTECT FROM LIGHT
+PROTECT FROM LIGHT
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA Hospira
 
-LOT #####AA EXP DMMMYYYY
+#####AA DMMMYYYY
 
 # PRINCIPAL DISPLAY PANEL - 1 mg/mL Cartridge Carton
 
@@ -264,15 +264,15 @@ PROTECT FROM LIGHT Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
 Hospira
 
-PAA128352
+PAA198795
 
-LOT #####AA EXP DMMMYYYY
+#####AA DMMMYYYY
 
 # PRINCIPAL DISPLAY PANEL - 2 mg/mL Cartridge Carton
 
 NDC 0409-1312-30 Contains 10 of NDC 0409-1312-03 Rx only
 
-1 mL Single-dose Carpuject™ Sterile Cartridge Units with Luer Lock
+1 mL Single-dose 10 Carpuject™ Sterile Cartridge Units with Luer Lock
 
 Needle not included
 
@@ -342,17 +342,15 @@ PROTECT FROM LIGHT
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA Hospira
 
-PAA128347
+PAA198796
 
-LOT #####AA EXP DMMMYYYY
+#####AA DMMMYYYY
 
 # PRINCIPAL DISPLAY PANEL - 4 mg/mL Cartridge Carton
 
 NDC 0409-1304-31 Contains 10 of NDC 0409-1304-03 Rx only
 
-1 mL Single-dose
-
-10 Carpuject™ Sterile Cartridge Units with Luer Lock
+1 mL Single-dose 10 Carpuject™ Sterile Cartridge Units with Luer Lock
 
 Needle not included
 
