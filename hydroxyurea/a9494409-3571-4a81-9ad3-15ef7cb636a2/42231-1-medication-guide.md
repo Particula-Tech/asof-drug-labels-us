@@ -49,6 +49,9 @@ See the end of this leaflet for a list of the ingredients in DROXIA.
 
 Before taking DROXIA, tell your healthcare provider about all of your medical conditions, including if you:
 
+- are using a continuous glucose monitor (CGM) to test your blood glucose.
+  Hydroxyurea may affect your sensor glucose results and may lead to low blood sugar (hypoglycemia).
+  Talk to the healthcare provider that prescribed your CGM about whether it is safe to use while you are taking DROXIA.
 - have kidney problems or are receiving hemodialysis.
 - have human immunodeficiency virus (HIV).
   Taking DROXIA with certain HIV medicines can cause serious reactions and may lead to death.
@@ -139,10 +142,10 @@ Active ingredient: hydroxyurea Inactive ingredients: citric acid, gelatin, lacto
 
 Distributed by: H2-Pharma, LLC, Montgomery, AL 36117, USA
 
-Licensed by: CHEPLAPHARM Arzneimittel GmbH, Ziegelhof 24, 17489 Greifswald, Germany © 2022 CHEPLAPHARM Arzneimittel GmbH.
+Licensed by: CHEPLAPHARM Arzneimittel GmbH, Ziegelhof 24, 17489 Greifswald, Germany © 2023 CHEPLAPHARM Arzneimittel GmbH.
 All rights reserved.
 For more information call 1-888-877-5884.
 
-This Patient Information has been approved by the U.S. Food and Drug Administration.
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: October 2022
+Revised: November 2023

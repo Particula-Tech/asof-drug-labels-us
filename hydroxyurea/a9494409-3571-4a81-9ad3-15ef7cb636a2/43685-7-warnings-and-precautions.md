@@ -76,3 +76,6 @@ Discontinue DROXIA and manage with corticosteroids.
 ## 5.10 Laboratory Test Interference
 
 Interference with Uric Acid, Urea, or Lactic Acid Assays is possible, rendering falsely elevated results of these in patients treated with hydroxyurea [see Drug Interactions (7.2)].
+
+Hydroxyurea may falsely elevate sensor glucose results from certain continuous glucose monitoring (CGM) systems and may lead to hypoglycemia if sensor glucose results are relied upon to dose insulin.
+If a patient using a CGM is to be prescribed hydroxyurea, consult with the CGM prescriber about alternative glucose monitoring methods [see Drug Interactions (7.2)].
