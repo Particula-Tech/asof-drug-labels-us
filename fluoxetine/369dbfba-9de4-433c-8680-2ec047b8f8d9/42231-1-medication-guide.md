@@ -184,7 +184,7 @@ Before starting fluoxetine capsules, tell your healthcare provider if you:
   - Triptans used to treat migraine headache
   - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics
   - Amphetamines
-  - Tramadol and fentanyl
+  - Tramadol, fentanyl, meperidine, methadone, or other opioids
   - Over-the-counter supplements such as tryptophan or St. John's Wort
   - Electroconvulsive therapy (ECT)
 - have liver problems
@@ -315,4 +315,4 @@ Opava-Komarov, Czech Republic
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-M 10/2021
+N 9/2023

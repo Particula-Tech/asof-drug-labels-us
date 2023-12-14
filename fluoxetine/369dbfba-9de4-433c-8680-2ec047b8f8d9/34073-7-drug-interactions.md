@@ -11,9 +11,11 @@ As with all drugs, the potential for interaction by a variety of mechanisms (e.g
 Caution is advised if the concomitant administration of fluoxetine and such drugs is required.
 In evaluating individual cases, consideration should be given to using lower initial doses of the concomitantly administered drugs, using conservative titration schedules, and monitoring of clinical status [see Clinical Pharmacology (12.3)].
 
-## 7.3 Serotonergic Drugs
+## 7.3 Other Serotonergic Drugs
 
-[See Dosage and Administration (2.9, 2.10), Contraindications (4.1), and Warnings and Precautions (5.2)].
+The concomitant use of serotonergic drugs (including other SSRIs, SNRIs, triptans, tricyclic antidepressants, opioids, lithium, buspirone, amphetamines, tryptophan, and St. John's Wort) with fluoxetine increases the risk of serotonin syndrome.
+Monitor patients for signs and symptoms of serotonin syndrome, particularly during treatment initiation and dosage increases.
+If serotonin syndrome occurs, consider discontinuation of fluoxetine capsules and/or concomitant serotonergic drugs [See Warnings and Precautions (5.2)].
 
 ## 7.4 Drugs that Interfere with Hemostasis (e.g., NSAIDS, Aspirin, Warfarin)
 
