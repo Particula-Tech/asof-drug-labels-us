@@ -59,7 +59,7 @@ Patients with Renal Impairment
 Doravirine: No clinically significant difference in the pharmacokinetics of doravirine were observed in subjects with mild to severe renal impairment (creatinine clearance (CLcr) >15 mL/min, estimated by Cockcroft-Gault).
 Doravirine has not been studied in patients with end-stage renal disease or in patients undergoing dialysis.
 
-Lamivudine: The AUCinf, Cmax, and half-life of lamivudine increased and CL/F decreased to a clinically significant extent with diminishing renal function (CLcr 111 to < 10 mL/min).
+Lamivudine: The AUC∞, Cmax, and half-life of lamivudine increased and CL/F decreased to a clinically significant extent with diminishing renal function (CLcr 111 to < 10 mL/min).
 
 TDF: A clinically significant increase in the Cmax and AUC of tenofovir was observed in subjects with CLcr < 50 mL/min or with end stage renal disease requiring dialysis [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
 
@@ -180,7 +180,7 @@ In Cell Culture
 Doravirine: Doravirine-resistant strains were selected in cell culture starting from wild-type HIV-1 of different origins and subtypes, as well as NNRTI-resistant HIV-1.
 Observed emergent amino acid substitutions in RT included: V106A, V106I, V106M, V108I, H221Y, F227C, F227I, F227L, F227V, M230I, L234I, P236L, and Y318F.
 The V106A, V106M, V108I, H221Y, F227C, M230I, P236L, and Y318F substitutions conferred 3.4-fold to 70-fold reductions in susceptibility to doravirine.
-Y318F in combination with V106A, V106M, V108I, and F227C conferred greater decreases in susceptibility to doravirine than Y318F alone, which conferred a 10-fold reduction in susceptibility to doravirine.
+Y318F in combination with V106A, V106M, V108I, or F227C conferred greater decreases in susceptibility to doravirine than Y318F alone, which conferred a 10-fold reduction in susceptibility to doravirine.
 
 Lamivudine: Lamivudine-resistant variants of HIV-1 have been selected in cell culture and in subjects treated with lamivudine.
 Genotypic analysis showed that substitutions M184I or V cause resistance to lamivudine.

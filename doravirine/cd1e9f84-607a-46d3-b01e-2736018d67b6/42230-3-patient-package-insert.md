@@ -1,4 +1,4 @@
-| Patient Information DELSTRIGO™ (del-STREE-go) (doravirine, lamivudine, and tenofovir disoproxil fumarate) tablets |  |  |  |
+| Patient Information DELSTRIGO® (del-STREE-go) (doravirine, lamivudine, and tenofovir disoproxil fumarate) tablets |  |  |  |
 | --- | --- | --- | --- |
 | What is the most important information I should know about DELSTRIGO? |  |  |  |
 | DELSTRIGO can cause serious side effects, including: Worsening of hepatitis B virus infection (HBV). If you have Human Immunodeficiency Virus-1 (HIV-1) and HBV infection, your HBV infection may get worse (flare-up) if you stop taking DELSTRIGO. A "flare-up" is when your HBV infection suddenly returns in a worse way than before. Your healthcare provider will test you for HBV infection before you start treatment with DELSTRIGO. Do not run out of DELSTRIGO. Refill your prescription or talk to your healthcare provider before your DELSTRIGO is all gone.Do not stop taking DELSTRIGO without first talking to your healthcare provider. If you stop taking DELSTRIGO, your healthcare provider will need to check your health often and do blood tests regularly for several months to check your liver. Tell your healthcare provider about any new or unusual symptoms you may have after you stop taking DELSTRIGO. |  |  |  |
@@ -34,6 +34,6 @@
 | Active ingredients: doravirine, lamivudine, and tenofovir disoproxil fumarate. |  |  |  |
 | Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose acetate succinate, magnesium stearate, microcrystalline cellulose, and sodium stearyl fumarate. The tablet film coating contains hypromellose, iron oxide yellow, lactose monohydrate, titanium dioxide, and triacetin. The coated tablets are polished with carnauba wax. |  |  |  |
 | Manufactured for: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA |  |  |  |
-| U.S. License No. 0002 For patent information: www.msd.com/research/patent The trademarks depicted herein are owned by their respective companies. Copyright © 2018-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates. All rights reserved. usppi-mk1439a-t-2206r003 |  |  |  |
+| For patent information: www.msd.com/research/patent The trademarks depicted herein are owned by their respective companies. Copyright © 2018-2023 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates. All rights reserved. usppi-mk1439a-t-2311r004 |  |  |  |
 | For more information, go to www.DELSTRIGO.com or call 1-877-888-4231. |  |  |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  | Revised: 06/2022 |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  | Revised: 11/2023 |

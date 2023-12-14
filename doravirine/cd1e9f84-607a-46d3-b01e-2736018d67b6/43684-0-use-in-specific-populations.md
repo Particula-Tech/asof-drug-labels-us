@@ -39,9 +39,9 @@ Animal Data
 
 Doravirine: Doravirine was administered orally to pregnant rabbits (up to 300 mg/kg/day on gestation days (GD) 7 to 20) and rats (up to 450 mg/kg/day on GD 6 to 20 and separately from GD 6 to lactation/postpartum day 20).
 No significant toxicological effects on embryo-fetal (rats and rabbits) or pre/post-natal (rats) development were observed at exposures (AUC) approximately 9 times (rats) and 8 times (rabbits) the exposure in humans at the RHD.
-Doravirine was transferred to the fetus through the placenta in embryo-fetal studies, with fetal plasma concentrations of up to 40% (rabbits) and 52% (rats) that of maternal concentrations observed on gestation day 20.
+Doravirine was transferred to the fetus through the placenta in embryo-fetal studies, with fetal plasma concentrations of up to 40% (rabbits) and 52% (rats) that of maternal concentrations observed on GD 20.
 
-Lamivudine: Lamivudine was administered orally to pregnant rats (at 90, 600, and 4,000 mg per kg per day) and rabbits (at 90, 300, and 1,000 mg per kg per day and at 15, 40, and 90 mg per kg per day) during organogenesis (on gestation Days 7 through 16 [rat] and 8 through 20 [rabbit]).
+Lamivudine: Lamivudine was administered orally to pregnant rats (at 90, 600, and 4,000 mg per kg per day) and rabbits (at 90, 300, and 1,000 mg per kg per day and at 15, 40, and 90 mg per kg per day) during organogenesis (on GD 7 through 16 [rat] and 8 through 20 [rabbit]).
 No evidence of fetal malformations due to lamivudine was observed in rats and rabbits at doses producing plasma concentrations (Cmax) approximately 35 times higher than human exposure at the recommended daily dose.
 Evidence of early embryolethality was seen in the rabbit at system exposures (AUC) similar to those observed in humans, but there was no indication of this effect in the rat at plasma concentrations (Cmax) 35 times higher than human exposure at the recommended daily dose.
 Studies in pregnant rats showed that lamivudine is transferred to the fetus through the placenta.
@@ -63,7 +63,7 @@ Because of the potential for (1) HIV-1 transmission (in HIV-negative infants), (
 
 Data
 
-Doravirine: Doravirine was excreted into the milk of lactating rats following oral administration (450 mg/kg/day) from gestation day 6 to lactation day 14, with milk concentrations approximately 1.5 times that of maternal plasma concentrations observed 2 hours post dose on lactation day 14.
+Doravirine: Doravirine was excreted into the milk of lactating rats following oral administration (450 mg/kg/day) from GD 6 to lactation day 14, with milk concentrations approximately 1.5 times that of maternal plasma concentrations observed 2 hours post dose on lactation day 14.
 
 ## 8.4 Pediatric Use
 

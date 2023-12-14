@@ -5,7 +5,7 @@
 The efficacy of DELSTRIGO is based on the analyses of 96-week data from a randomized, multicenter, double-blind, active controlled Phase 3 trial (DRIVE-AHEAD, NCT02403674) in HIV-1-infected subjects with no antiretroviral treatment history (n=728).
 
 Subjects were randomized and received at least 1 dose of either DELSTRIGO or EFV 600 mg/FTC 200 mg/TDF 300 mg once daily.
-At baseline, the median age of subjects was 31 years, 15% were female, 52% were non-white, 3% had hepatitis B or C coinfection, 14% had a history of AIDS, 21% had HIV-1 RNA greater than 100,000 copies/mL, and 88% had CD4+ T-cell count greater than 200 cells/mm3; these characteristics were similar between treatment groups.
+At baseline, the median age of subjects was 31 years, 15% were female, 52% were Non-White, 3% had hepatitis B or C coinfection, 14% had a history of AIDS, 21% had HIV-1 RNA greater than 100,000 copies/mL, and 88% had CD4+ T-cell count greater than 200 cells/mm3; these characteristics were similar between treatment groups.
 Week 96 outcomes for DRIVE-AHEAD are provided in Table 10.
 
 Mean CD4+ T-cell counts in the DELSTRIGO and EFV/FTC/TDF groups increased from baseline by 238 and 223 cells/mm3, respectively.

@@ -116,7 +116,7 @@ Table 4: Mean Change from Baseline in Fasting Lipids in Adult Subjects with No A
 |  | Baseline | Change | Baseline | Change | Difference (95% CI) |
 | --- | --- | --- | --- | --- | --- |
 | Laboratory Parameter Preferred Term | DELSTRIGO Once Daily N=320 |  | EFV/FTC/TDF Once Daily N=307 |  | Difference Estimates (DELSTRIGO - EFV/FTC/TDF) |
-| LDL-Cholesterol (mg/dL)P-value for the pre-specified hypothesis testing for treatment difference was <0.0001. | 91.7 | -2.1 | 91.3 | 8.3 | -10.2 (-13.8, -6.7) |
+| LDL-Cholesterol (mg/dL)p-value for the pre-specified hypothesis testing for treatment difference was <0.0001. | 91.7 | -2.1 | 91.3 | 8.3 | -10.2 (-13.8, -6.7) |
 | Non-HDL Cholesterol (mg/dL) | 114.7 | -4.1 | 115.3 | 12.7 | -16.9 (-20.8, -13.0) |
 | Total Cholesterol (mg/dL)Not pre-specified for hypothesis testing. | 156.8 | -2.2 | 156.8 | 21.1 | - |
 | Triglycerides (mg/dL) | 118.7 | -12.0 | 122.6 | 21.6 | - |
@@ -147,7 +147,7 @@ Table 5: Mean Change from Baseline in Fasting Lipids in Adult Virologically-Supp
 |  | Baseline | Change | Baseline | Change | Difference (95% CI) |
 | --- | --- | --- | --- | --- | --- |
 | Laboratory Parameter Preferred Term | DELSTRIGO (Week 0-24) Once Daily N=244 |  | PI+ritonavir (Week 0-24) Once Daily N=124 |  | Difference Estimates |
-| LDL-Cholesterol (mg/dL)P-value for the pre-specified hypothesis testing for treatment difference was <0.0001. | 108.7 | -16.3 | 110.5 | -2.6 | -14.5 (-18.9, -10.1) |
+| LDL-Cholesterol (mg/dL)p-value for the pre-specified hypothesis testing for treatment difference was <0.0001. | 108.7 | -16.3 | 110.5 | -2.6 | -14.5 (-18.9, -10.1) |
 | Non-HDL Cholesterol (mg/dL) | 138.6 | -24.8 | 138.8 | -2.1 | -22.8 (-27.9, -17.7) |
 | Total Cholesterol (mg/dL)Not pre-specified for hypothesis testing. | 188.5 | -26.1 | 187.4 | -0.2 | - |
 | Triglycerides (mg/dL) | 153.1 | -44.4 | 151.4 | -0.4 | - |
