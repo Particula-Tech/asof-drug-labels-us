@@ -68,7 +68,6 @@ Before you use Climara, tell your healthcare provider about all of your medical 
 - Your healthcare provider will let you know if you need to stop using Climara.
 - •are pregnant or think you may be pregnant.
 - Climara is not for pregnant women.
-
 - •are breastfeeding
 - The hormone in Climara can pass into your breast milk.
 

@@ -11,8 +11,6 @@ In the U.S. general population, the estimated background risk of major birth def
 
 ## 8.2 Lactation
 
-[Click here to enter 8.2 Lactation]
-
 ### Risk Summary
 
 Estrogens are present in human milk and can reduce milk production in breast-feeding women.
