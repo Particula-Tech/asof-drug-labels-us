@@ -15,10 +15,10 @@ U.S. License Number 2070
 
 at: Daewoong Pharmaceutical Co., Ltd. 12, Bongeunsa-ro 114-gil, Gangnam-gu, Seoul, 06170 Korea
 
-©2021 Evolus.
+©2023 Evolus.
 All rights reserved.
 
 All Trademarks are the property of their respective owners.
 
 DWG-131 Rev.
-D
+E
