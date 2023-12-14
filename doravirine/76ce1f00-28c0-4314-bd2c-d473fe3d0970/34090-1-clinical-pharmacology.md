@@ -136,7 +136,7 @@ In Cell Culture
 Doravirine-resistant strains were selected in cell culture starting from wild-type HIV-1 of different origins and subtypes, as well as NNRTI-resistant HIV-1.
 Observed emergent amino acid substitutions in RT included: V106A, V106I, V106M, V108I, H221Y, F227C, F227I, F227L, F227V, M230I, L234I, P236L, and Y318F.
 The V106A, V106M, V108I, H221Y, F227C, M230I, P236L, and Y318F substitutions conferred 3.4-fold to 70-fold reductions in susceptibility to doravirine.
-Y318F in combination with V106A, V106M, V108I, and F227C conferred greater decreases in susceptibility to doravirine than Y318F alone, which conferred a 10-fold reduction in susceptibility to doravirine.
+Y318F in combination with V106A, V106M, V108I, or F227C conferred greater decreases in susceptibility to doravirine than Y318F alone, which conferred a 10-fold reduction in susceptibility to doravirine.
 
 In Clinical Trials
 

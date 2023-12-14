@@ -1,4 +1,4 @@
-| Patient Information PIFELTRO™ (pih-FEL-tro) (doravirine) tablets |  |  |
+| Patient Information PIFELTRO® (pih-FEL-tro) (doravirine) tablets |  |  |
 | --- | --- | --- |
 | What is PIFELTRO? |  |  |
 | PIFELTRO is a prescription medicine that is used together with other HIV-1 medicines to treat Human Immunodeficiency Virus-1 (HIV-1) infection in adults and children who weigh at least 77 pounds (35 kg): who have not received HIV-1 medicines in the past, orto replace their current HIV-1 medicines for people whose healthcare provider determines that they meet certain requirements. HIV-1 is the virus that causes Acquired Immune Deficiency Syndrome (AIDS). It is not known if PIFELTRO is safe and effective in children who weigh less than 77 pounds (35 kg). Who should not take PIFELTRO? |  |  |

@@ -159,7 +159,7 @@ Table 5: Mean Change from Baseline in Fasting Lipids in Adult Virologically-Supp
 |  | Baseline | Change | Baseline | Change | Difference (95% CI) |
 | --- | --- | --- | --- | --- | --- |
 | Laboratory Parameter Preferred Term | DELSTRIGO (Week 0-24) Once Daily N=244 |  | PI+ritonavir (Week 0-24) Once Daily N=124 |  | Difference Estimates |
-| LDL-Cholesterol (mg/dL)P-value for the pre-specified hypothesis testing for treatment difference was <0.0001. | 108.7 | -16.3 | 110.5 | -2.6 | -14.5 (-18.9, -10.1) |
+| LDL-Cholesterol (mg/dL)p-value for the pre-specified hypothesis testing for treatment difference was <0.0001. | 108.7 | -16.3 | 110.5 | -2.6 | -14.5 (-18.9, -10.1) |
 | Non-HDL Cholesterol (mg/dL) | 138.6 | -24.8 | 138.8 | -2.1 | -22.8 (-27.9, -17.7) |
 | Total Cholesterol (mg/dL)Not pre-specified for hypothesis testing. | 188.5 | -26.1 | 187.4 | -0.2 | - |
 | Triglycerides (mg/dL) | 153.1 | -44.4 | 151.4 | -0.4 | - |
