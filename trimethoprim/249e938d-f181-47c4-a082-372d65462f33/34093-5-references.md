@@ -30,11 +30,11 @@ Gerontology 45: 209-212, 1999.
 
 7.
 Clinical and Laboratory Standards Institute (CLSI).
-Performance Standards for Antimicrobial Susceptibility Testing; Twenty-sixth Informational Supplement, CLSI document M100-S26 [2016], Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA.
-
-Laboratory Standards Institute.
-Performance Standards for Antimicrobial Susceptibility Testing; Twenty-Second Informational Supplement.
-CLSI Document M100-S22, Vol. 32, No. 3, CLSI, Wayne, PA, January, 2012.
+Performance Standards for Antimicrobial Susceptibility Testing.
+33rd ed.
+CLSI document M100.
+Wayne, PA: Clinical and Laboratory Standards Institute; 2023.
+(CLSI)
 
 Manufactured By:
 
@@ -48,7 +48,7 @@ Lupin Pharmaceuticals, Inc.
 
 Baltimore, MD 21202
 
-PI3300000205
+SAP Code: 274329
 
 Rev.
-11/2017
+09/2023

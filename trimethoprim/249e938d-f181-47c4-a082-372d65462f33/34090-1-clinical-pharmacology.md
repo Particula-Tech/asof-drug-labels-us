@@ -81,10 +81,12 @@ The disc diffusion breakpoints are provided in Table 1.
 
 | Table 1. Susceptibility Test Interpretive Criteria for Trimethoprim |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pathogen | Minimum Inhibitory Concentrations (mcg) |  |  | Zone Diameters (mm) |  |  |
-| S | I | R | S | I | R |  |
-| Enterobacteriaceae | ≤ 8 | - | ≥ 16 | ≥ 16 | 11-15 | ≤ 10 |
-| Coagulase negative staphylococci (including S. saprophyticus) | ≤ 8 | - | ≥ 16 | ≥ 16 | 11-15 | ≤ 10 |
+|  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |
+| Pathogen | S | I | R | S | I | R |
+| Enterobacterales | M100 standard is recognized |  |  |  |  |  |
+| Staphylococcus spp. | M100 standard is recognized |  |  |  |  |  |
+
+S= Susceptible; I= Intermediate; R= Resistant
 
 A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
 A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
