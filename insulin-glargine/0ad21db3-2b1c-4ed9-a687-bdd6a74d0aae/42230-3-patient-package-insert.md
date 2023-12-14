@@ -13,9 +13,9 @@
 | The most common side effects of BASAGLAR include: low blood sugar (hypoglycemia), weight gain, allergic reactions, including reactions at the injection site, skin thickening or pits at the injection site (lipodystrophy). |
 | These are not all the possible side effects of BASAGLAR. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088 (1-800-332-1088). |
 | General information about the safe and effective use of BASAGLAR. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use BASAGLAR for a condition for which it was not prescribed. Do not give BASAGLAR to other people, even if they have the same symptoms that you have. It may harm them. This Patient Information leaflet summarizes the most important information about BASAGLAR. If you would like more information, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about BASAGLAR that is written for health professionals. For more information, go to www.basaglar.com or call 1-800-545-5979. |
-| What are the ingredients in BASAGLAR? Active ingredient: insulin glargine Inactive ingredients: glycerin, metacresol, zinc, and Water for Injection, USP as inactive ingredients. Hydrochloric acid and/or sodium hydroxide may be added to adjust the pH. |
-| Patient Information revised: July 2021 |
-| Manufactured by: Eli Lilly and Company, Indianapolis, IN 46285 USA US License Number 1891 Copyright © 2015, 2021, Eli Lilly and Company. All rights reserved. |
+| What are the ingredients in BASAGLAR? Active ingredient: insulin glargine Inactive ingredients: glycerin, metacresol, zinc oxide, and Water for Injection, USP as inactive ingredients. Hydrochloric acid and/or sodium hydroxide may be added to adjust the pH. |
+| Patient Information revised: November 2023 |
+| Manufactured by: Eli Lilly and Company, Indianapolis, IN 46285 USA US License Number 1891 Copyright © 2015, 2023, Eli Lilly and Company. All rights reserved. |
 | This Patient Information has been approved by the U.S. Food and Drug Administration |
 
-BAS-0005-PPI-20210720
+BAS-0006-PPI-20231129
