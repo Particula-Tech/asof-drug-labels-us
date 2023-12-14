@@ -1,93 +1,29 @@
+# PRINCIPAL DISPLAY PANEL - 0.25 mg/5mL, 5 mL Syringe Label
+
+5 mL
+
 # PRINCIPAL DISPLAY PANEL - 0.25 mg/5mL, 5 mL Syringe Carton
 
-5 mL NDC 16729- 483-31
-
-PEDIATRIC
-
-Atropine Sulfate Injection, USP
-
-0.25 mg/5 mL (0.05 mg/mL)
-
-For Intravenous Use.
-
-Single-Dose Syringe
-
-Rx only
-
-Sterile
+5 mL
 
 # PRINCIPAL DISPLAY PANEL - 0.25 mg/5mL, 10 x 5 mL Syringe Carton
 
-NDC 16729- 483-03 Rx only
+# PRINCIPAL DISPLAY PANEL - 0.5 mg/5 mL, 5 mL Syringe label
 
-PEDIATRIC
-
-Atropine Sulfate Injection, USP
-
-0.25 mg/5 mL (0.05 mg/mL)
-
-For Intravenous Use.
-
-Sterile
-
-10 x 5 mL Single-Dose Syringes
+5 mL
 
 # PRINCIPAL DISPLAY PANEL - 0.5 mg/5 mL, 5 mL Syringe Carton
 
-5 mL NDC 16729- 484-31
-
-Atropine Sulfate Injection, USP
-
-0.5 mg/5 mL (0.1 mg/mL)
-
-For Intravenous Use.
-
-Single-Dose Syringe
-
-Rx only
-
-Sterile
+5 mL
 
 # PRINCIPAL DISPLAY PANEL - 0.5 mg/5 mL, 10 x 5 mL Syringe Carton
 
-NDC 16729- 484-90 Rx only
+# PRINCIPAL DISPLAY PANEL - 1 mg/10 mL, 10 mL Syringe Label
 
-Atropine Sulfate Injection, USP
-
-0.5 mg/5 mL (0.1 mg/mL)
-
-For Intravenous Use.
-
-Sterile
-
-10 x 5 mL Single-Dose Syringes
+10 mL
 
 # PRINCIPAL DISPLAY PANEL - 1 mg/10 mL, 10 mL Syringe Carton
 
-10 mL NDC 16729- 484-03
-
-Atropine Sulfate Injection, USP
-
-1 mg/10 mL (0.1 mg/mL)
-
-For Intravenous Use.
-
-Single-Dose Syringe
-
-Rx only
-
-Sterile
+10 mL
 
 # PRINCIPAL DISPLAY PANEL - 1 mg/10 mL, 10 x 10 mL Syringe Carton
-
-NDC 16729- 484-45 Rx Only
-
-Atropine Sulfate Injection, USP
-
-1 mg/10 mL (0.1 mg/mL)
-
-For Intravenous Use.
-
-Sterile
-
-10 x 10 mL Single-Dose Syringes

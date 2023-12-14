@@ -16,10 +16,10 @@ The Glass syringe is presented in a tray with polypropylene plunger rod.
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F).
 [See USP Controlled Room Temperature.]
 
-Manufactured For: Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad-380 054, India.
 
-10 5231 2 6017607
+10 5231 3 6026793
 
-Issued May 2022
+Issued November 2023
