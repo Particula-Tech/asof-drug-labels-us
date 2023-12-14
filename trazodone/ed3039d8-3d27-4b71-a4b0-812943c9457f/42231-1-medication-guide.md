@@ -46,13 +46,11 @@ What else do I need to know about antidepressant medicines?
 
 - Never stop an antidepressant medicine without first talking to a healthcare provider..
   Stopping an antidepressant medicine suddenly can cause other symptoms.
-- Antidepressants are medicines used to treat depression and other illnesses.
-  It is important to discuss all the risks of treating depression and also the risks of not treating it.
+- Antidepressants are medicines used to treat depression and other illnesses.It is important to discuss all the risks of treating depression and also the risks of not treating it.
   You should discuss all treatment choices with your healthcare provider, not just the use of antidepressants.
 - Antidepressant medicines have other side effects.
   Talk to your healthcare provider about the side effects of your medicines.
-- Antidepressant medicines can interact with other medicines.
-  Know all of the medicines that you take.
+- Antidepressant medicines can interact with other medicines.Know all of the medicines that you take.
   Keep a list of all medicines to show your healthcare provider.
   Do not start new medicines without first checking with your healthcare provider.
 
@@ -129,16 +127,13 @@ What are the possible side effects of trazodone hydrochloride tablets?
 Trazodone hydrochloride tablets can cause serious side effects or death, including:
 
 - See “What is the most important information I should know about trazodone hydrochloride tablets?”
-- Serotonin syndrome.
-  Symptoms of serotonin syndrome include: agitation, hallucinations, problems with coordination, fast heartbeat, tight muscles, trouble walking, sweating, fever, nausea, vomiting, and diarrhea.
+- Serotonin syndrome.Symptoms of serotonin syndrome include: agitation, hallucinations, problems with coordination, fast heartbeat, tight muscles, trouble walking, sweating, fever, nausea, vomiting, and diarrhea.
 - Irregular or fast heartbeat or faint (QT prolongation)
-- Low blood pressure.
-  You feel dizzy or faint when you change positions (go from sitting to standing)
+- Low blood pressure.You feel dizzy or faint when you change positions (go from sitting to standing)
 - Unusual bruising or bleeding
 - Erection lasting for more than 6 hours (priapism)
 - Feeling high or in a very good mood, then becoming irritable, or having too much energy, feeling like you have to keep talking or do not sleep (mania).
-- Withdrawal symptoms.
-  Symptoms of withdrawal can include anxiety, agitation, and sleep problems.
+- Withdrawal symptoms.Symptoms of withdrawal can include anxiety, agitation, and sleep problems.
   Do not stop taking trazodone hydrochloride tablets without talking to your healthcare provider.
 - Visual problems
   - eye pain
@@ -148,8 +143,7 @@ Trazodone hydrochloride tablets can cause serious side effects or death, includi
 Only some people are at risk for these problems.
 You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
-- Low sodium in your blood (hyponatremia).
-  Symptoms of hyponatremia include: headache, feeling weak, feeling confused, trouble concentrating, memory problems and feeling unsteady when you walk.
+- Low sodium in your blood (hyponatremia).Symptoms of hyponatremia include: headache, feeling weak, feeling confused, trouble concentrating, memory problems and feeling unsteady when you walk.
 
 Get medical help right away, if you have any of the symptoms listed above.
 
@@ -185,7 +179,7 @@ Do not give trazodone hydrochloride tablets to other people, even if they have t
 It may harm them.
 You can ask your pharmacist or healthcare provider for information about trazodone hydrochloride tablets that is written for health professionals.
 
-For more information, go to www.accordhealthcare.us or call Accord Healthcare Inc. at 1-866-941-7875.
+For more information, go to www.accordhealthcare.usor call Accord Healthcare Inc. at 1-866-941-7875.
 
 What are the ingredients in trazodone hydrochloride tablets?
 
