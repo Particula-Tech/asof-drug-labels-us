@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020612"
+  ],
+  "inn": "lidocaine",
+  "labeler": "Golden State Medical Supply, Inc.",
+  "package_ndcs": [
+    "51407-827-30"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "lidocaine",
+      "name": "Lidocaine"
+    }
+  ],
+  "setid": "0bef12dd-6cea-d12b-e063-6394a90a002e",
+  "source": "dailymed"
+}
