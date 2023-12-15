@@ -1,13 +1,13 @@
 # 11 DESCRIPTION
 
-Desvenlafaxine is an extended-release tablet for oral administration that contains desvenlafaxine succinate, a structurally novel SNRI for the treatment of MDD.
+Desvenlafaxine is an extended-release tablet for oral administration that contains desvenlafaxine succinate, USP, a structurally novel SNRI for the treatment of MDD.
 Desvenlafaxine (O-desmethylvenlafaxine) is the major active metabolite of the antidepressant venlafaxine, a medication used to treat major depressive disorder.
 
 Desvenlafaxine is designated RS-4-[2-dimethylamino-1-(1-hydroxycyclohexyl)ethyl]phenol and has the empirical formula of C16H25NO2 (free base) and C16H25NO2•C4H6O4•H2O (succinate monohydrate).
 Desvenlafaxine succinate monohydrate has a molecular weight of 399.48.
 The structural formula is shown below.
 
-Desvenlafaxine succinate is a white to off-white powder that is soluble in water.
+Desvenlafaxine succinate, USP is a white to off-white powder that is soluble in water.
 The solubility of desvenlafaxine succinate is pH dependent.
 Its octanol:aqueous system (at pH 7) partition coefficient is 0.21.
 

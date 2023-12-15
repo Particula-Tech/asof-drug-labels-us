@@ -1,6 +1,10 @@
 # MEDICATION GUIDE
 
-Desvenlafaxine Extended-Release Tablets (des VEN la FAX een) What is the most important information I should know about desvenlafaxine?
+Desvenlafaxine Extended-Release Tablets (des VEN la FAX een)
+
+Dispense with Medication Guide available at: www.bpirx.com/products/patientinformation
+
+What is the most important information I should know about desvenlafaxine?
 
 Desvenlafaxine can cause serious side effects, including:
 
@@ -76,9 +80,8 @@ Especially tell your healthcare provider if you take:
 - other MAOIs
 - medicines to treat migraine headaches known as triptans
 - tricyclic antidepressants
-- fentanyl
 - lithium
-- tramadol
+- tramadol, fentanyl, meperidine, methadone, or other opioids
 - tryptophan
 - buspirone
 - amphetamines
@@ -207,10 +210,12 @@ Breckenridge Pharmaceutical, Inc. Berlin, CT 06037
 
 Manufactured by:
 
-Alembic Pharmaceuticals Limited(Formulation Division),
+Alembic Pharmaceuticals Limited,
+
+(Formulation Division),
 
 Village Panelav, P. O. Tajpura, Near Baska,
 
 Taluka-Halol, Panchmahal, Gujarat, India.
 
-Revised: 12/2021
+Revised: 10/2023

@@ -201,4 +201,4 @@ In the pre-marketing short-term, placebo-controlled clinical studies with doses 
 The following adverse reaction has been identified during post-approval use of desvenlafaxine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Skin and subcutaneous tissue disorders – Stevens-Johnson syndrome Gastrointestinal disorders – Pancreatitis acute Cardiovascular system – Takotsubo cardiomyopathy
+Skin and subcutaneous tissue disorders – Stevens-Johnson syndrome Gastrointestinal disorders – Pancreatitis acute Cardiovascular system – Takotsubo cardiomyopathy Respiratory, thoracic and mediastinal disorders - Anosmia, hyposmia

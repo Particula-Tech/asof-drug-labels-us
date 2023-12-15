@@ -9,6 +9,8 @@ Healthcare providers are encouraged to register patients by calling the National
 
 Risk Summary
 
+Based on data from published observational studies, exposure to SNRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions (5.4) and Clinical Considerations].
+
 There are no published studies on desvenlafaxine in pregnant women; however published epidemiologic studies of pregnant women exposed to venlafaxine, the parent compound, have not reported a clear association with adverse developmental outcomes (see Data).
 There are risks associated with untreated depression in pregnancy and with exposure to SNRIs and SSRIs, including desvenlafaxine, during pregnancy (see Clinical Considerations).
 
@@ -27,7 +29,7 @@ A prospective longitudinal study of 201 women with a history of major depression
 
 Maternal Adverse Reactions
 
-Exposure to SNRIs in mid to late pregnancy may increase the risk for preeclampsia, and exposure to SNRIs near delivery may increase the risk for postpartum hemorrhage.
+Exposure to desvenlafaxine in mid to late pregnancy may increase the risk for preeclampsia, and exposure to desvenlafaxine in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.4)].
 
 Fetal/Neonatal Adverse Reactions
 
@@ -98,7 +100,7 @@ Desvenlafaxine was associated with a decrease in body weight in placebo-controll
 The incidence of weight loss (≥3.5% of baseline weight) was 22%, 14%, and 7% for patients treated with low dose desvenlafaxine, high dose desvenlafaxine, and placebo, respectively.
 
 The risks associated with longer term desvenlafaxine use were assessed in 6-month, open-label extension studies in pediatric patients (7 to 17 years of age) with MDD.
-Pediatric patients (7 to 17 years of age) had mean changes in weight that approximated expected changes, based on data from age-and sex-matched peers.
+Pediatric patients (7 to 17 years of age) had mean changes in weight that approximated expected changes, based on data from age- and sex-matched peers.
 
 In clinical trials, when compared to adult patients receiving the same dose of desvenlafaxine, exposure to desvenlafaxine was similar in adolescent patients 12 to 17 years of age, and was about 30% higher in pediatric patients 7 to 11 years of age.
 

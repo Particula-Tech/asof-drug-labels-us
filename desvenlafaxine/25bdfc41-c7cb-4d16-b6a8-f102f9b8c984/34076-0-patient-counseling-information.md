@@ -13,7 +13,7 @@ Healthcare professionals should instruct patients not to take desvenlafaxine wit
 
 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of desvenlafaxine with other serotonergic agents (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, amphetamines, tryptophan, buspirone, and St. John’s Wort supplements) [see Warnings and Precautions (5.2)].
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of desvenlafaxine with other serotonergic agents (including triptans, tricyclic antidepressants, opioids, lithium, amphetamines, tryptophan, buspirone, and St. John’s Wort supplements) [see Warnings and Precautions (5.2)].
 
 Elevated Blood Pressure
 
@@ -64,3 +64,5 @@ Residual Inert Matrix Tablet
 
 Patients receiving desvenlafaxine may notice an inert matrix tablet passing in the stool or via colostomy.
 Patients should be informed that the active medication has already been absorbed by the time the patient sees the inert matrix tablet.
+
+Dispense with Medication Guide available at: www.bpirx.com/products/patientinformation
