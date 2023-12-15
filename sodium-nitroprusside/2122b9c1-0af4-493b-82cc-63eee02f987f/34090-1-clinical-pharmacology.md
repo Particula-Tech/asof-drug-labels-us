@@ -105,5 +105,5 @@ Table 1: Change from Baseline in MAP (mmHg) after 30 Minutes Double-Blind Infusi
 | Endpoint | 0.3 μg/kg/min (N=50) | 1 μg/kg/min (N=49) | 2 μg/kg/min (N=53) | 3 μg/kg/min (N=51) |
 | Baseline | 76 ± 11 | 77 ± 15 | 74 ± 12 | 76 ± 12 |
 | 30 Min | 65 ± 13 | 60 ± 15 | 54 ± 12 | 60 ± 18 |
-| Change from Baseline | -11 ± 16 (-15,-6.5) | -17 ± 13 (-21,-13) | -20 ± 16 (-24,-16) | -17 ± 19 (-22,-11) |
+| Change from Baseline | -11 ± 16 (-15, -6.5) | -17 ± 13 (-21, -13) | -20 ± 16 (-24, -16) | -17 ± 19 (-22, -11) |
 | Mean +SD (95% Cl) |  |  |  |  |
