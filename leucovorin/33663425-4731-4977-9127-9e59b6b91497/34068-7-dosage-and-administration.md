@@ -5,11 +5,11 @@ Because absorption is saturable, oral administration of doses greater than 25 mg
 
 ## Impaired Methotrexate Elimination or Inadvertent Overdosage
 
-Leucovorin rescue should begin as soon as possible after an inadvertent overdosage and within 24 hours of methotrexate administration when there is delayed excretion (see WARNINGS).
+Leucovorin rescue should begin as soon as possible after an inadvertent overdosage and within 24 hours of methotrexate administration when there is delayed excretion [see WARNINGS].
 Leucovorin 15 mg (10 mg/m2) should be administered IM, IV, or PO every 6 hours until the serum methotrexate level is less than 10-8 M. In the presence of gastrointestinal toxicity, nausea, or vomiting, leucovorin should be administered parenterally.
 
 Serum creatinine and methotrexate levels should be determined at 24-hour intervals.
-If the 24-hour serum creatinine has increased 50% over baseline or if the 24-hour methotrexate level is greater than 5 x 10-6 M or the 48-hour level is greater than 9 x 10-7 M, the dose of leucovorin should be increased to 150 mg (100 mg/m2) IV every 3 hours until the methotrexate level is less than 10-8 M. Doses greater than 25 mg should be given parenterally (see CLINICAL PHARMACOLOGY).
+If the 24-hour serum creatinine has increased 50% over baseline or if the 24-hour methotrexate level is greater than 5 x 10-6 M or the 48-hour level is greater than 9 x 10-7 M, the dose of leucovorin should be increased to 150 mg (100 mg/m2) IV every 3 hours until the methotrexate level is less than 10-8 M. Doses greater than 25 mg should be given parenterally [see CLINICAL PHARMACOLOGY].
 
 Hydration (3 L/d) and urinary alkalinization with sodium bicarbonate should be employed concomitantly.
 The bicarbonate dose should be adjusted to maintain the urine pH at 7.0 or greater.

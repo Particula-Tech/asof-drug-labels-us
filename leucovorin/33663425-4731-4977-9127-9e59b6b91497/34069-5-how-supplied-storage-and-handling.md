@@ -1,6 +1,6 @@
 # How Supplied/Storage and Handling
 
-Leucovorin Calcium Tablets USP
+Leucovorin Calcium Tablets, USP
 
 5 mg tablets are supplied as an off-white, round, slightly biconvex tablet; scored on one side and product identification “54 293” debossed on the other side.
 
@@ -37,8 +37,8 @@ References
 2. 2.Link MP, Goorin AM, Miser AW et al. The effect of adjuvant chemotherapy on relapse-free survival in patients with osteosarcoma of the extremity.
    N Engl J Med 1986;314:1600-1606.
 
-Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-1. 4055309//07
+- C50000693/01
 
-Revised October 2020
+Revised June 2023

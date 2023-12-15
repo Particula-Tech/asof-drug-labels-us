@@ -28,13 +28,11 @@ Folic acid in large amounts may counteract the antiepileptic effect of phenobarb
 Preliminary animal and human studies have shown that small quantities of systemically administered leucovorin enter the CSF primarily as 5-methyltetrahydrofolate and, in humans, remain 1 to 3 orders of magnitude lower than the usual methotrexate concentrations following intrathecal administration.
 However, high doses of leucovorin may reduce the efficacy of intrathecally administered methotrexate.
 
-Leucovorin may enhance the toxicity of fluorouracil (see WARNINGS).
+Leucovorin may enhance the toxicity of fluorouracil [see WARNINGS].
 
 ## Pregnancy
 
 ### Teratogenic Effects
-
-#### Pregnancy Category C
 
 Animal reproduction studies have not been conducted with leucovorin.
 It is also not known whether leucovorin can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
