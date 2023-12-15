@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA212479"
+  ],
+  "inn": "methotrexate",
+  "labeler": "SHORLA ONCOLOGY INC.",
+  "package_ndcs": [
+    "81927-204-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "methotrexate",
+      "name": "JYLAMVO"
+    }
+  ],
+  "setid": "96e931f5-51ae-4bdf-a441-bb0dd26d4c0e",
+  "source": "dailymed"
+}
