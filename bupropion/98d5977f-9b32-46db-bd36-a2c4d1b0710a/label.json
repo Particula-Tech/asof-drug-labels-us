@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022497"
+  ],
+  "inn": "bupropion",
+  "labeler": "TWi Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "24979-248-06"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "bupropion hydrochloride",
+      "name": "bupropion hydrochloride"
+    }
+  ],
+  "setid": "98d5977f-9b32-46db-bd36-a2c4d1b0710a",
+  "source": "dailymed"
+}
