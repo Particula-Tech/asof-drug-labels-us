@@ -17,3 +17,5 @@ COMPARE TO HIBICLENS ® active ingredient*
 100% Money Back Guarantee
 
 8 fl oz (237 mL)
+
+4LEAD08BTLLBLE
