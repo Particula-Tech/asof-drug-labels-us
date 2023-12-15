@@ -2,17 +2,17 @@
 
 ## 11.1 Chemical Characteristics
 
-Fludeoxyglucose F 18 Injection is a positron emitting radiopharmaceutical that is used for diagnostic purposes in conjunction with positron emission tomography (PET) imaging.
+Fludeoxyglucose F 18 Injection is an intravenous positron emitting radiopharmaceutical that is used for diagnostic purposes in conjunction with positron emission tomography (PET) imaging.
 The active ingredient 2-deoxy-2-[18F]fluoro-D-glucose has the molecular formula of C6H1118FO5 with a molecular weight of 181.26, and has the following chemical structure:
 
-Fludeoxyglucose F 18 Injection is provided as a ready to use sterile, pyrogen free, clear, colorless citrate buffered solution.
-Each mL contains between 0.740 to 14.8 GBq (20.0 -400 mCi) of 2-deoxy-2-[18F]fluoro-D-glucose at the EOS, 4.5 mg of sodium chloride in citrate buffer.
+Fludeoxyglucose F 18 Injection is provided as a ready to use intravenous sterile, pyrogen free, clear, colorless citrate buffered solution.
+Each mL contains between 0.74 to 14.8 GBq (20 - 400 mCi) of 2-deoxy-2-[18F]fluoro-D-glucose at the EOS, 4.5 mg of sodium chloride, and 7.2 mg of citrate ions/mL.
 The pH of the solution is between 4.5 and 7.5.
 The solution is packaged in a multiple-dose glass vial and does not contain any preservative.
 
 ## 11.2 Physical Characteristics
 
-Fluorine F 18 has a physical half-life of 109.7 minutes and decays to Oxygen O 18 (stable) by positron decay.
+Fluorine F 18 has a physical half-life of 109.8 minutes and decays to Oxygen O 18 (stable) by positron decay.
 The principal photons useful for imaging are the dual 511 keV “annihilation” gamma photons that are produced and emitted simultaneously in opposite directions when the positron interacts with an electron (Table 2).
 
 Table 2.
