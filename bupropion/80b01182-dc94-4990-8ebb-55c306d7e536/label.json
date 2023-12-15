@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022497"
+  ],
+  "inn": "bupropion",
+  "labeler": "TWi Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "24979-247-06"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "bupropion hydrochloride",
+      "name": "Forfivo"
+    }
+  ],
+  "setid": "80b01182-dc94-4990-8ebb-55c306d7e536",
+  "source": "dailymed"
+}
