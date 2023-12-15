@@ -37,11 +37,17 @@ Inform patients that TECFIDERA may cause liver injury.
 Instruct patients treated with TECFIDERA to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice.
 A blood test should be obtained before patients start therapy and during treatment, as clinically indicated [see Warnings and Precautions (5.4)].
 
-Flushing and Gastrointestinal (GI) Reactions
+Flushing
 
-Flushing and GI reactions (abdominal pain, diarrhea, and nausea) are the most common reactions, especially at the initiation of therapy, and may decrease over time.
-Advise patients to contact their healthcare provider if they experience persistent and/or severe flushing or GI reactions.
+Inform patients that flushing is one of the most common reactions, especially at the initiation of therapy, and may decrease over time.
+Advise patients to contact their healthcare provider if they experience persistent and/or severe flushing.
 Advise patients experiencing flushing that taking TECFIDERA with food or taking a non-enteric coated aspirin prior to taking TECFIDERA may help [see Adverse Reactions (6.1)].
+
+Gastrointestinal (GI) Events
+
+Inform patients that GI events (abdominal pain, diarrhea, and nausea) are some of the most common adverse reactions, especially at the initiation of therapy, and may decrease over time.
+Some patients may experience more severe GI events.
+Advise patients to immediately contact their healthcare provider and discontinue TECFIDERA if they experience gastrointestinal bleeding (e.g., rectal bleeding, bloody diarrhea, hematemesis) or other serious gastrointestinal adverse events (e.g., severe abdominal pain, severe vomiting and/or diarrhea) [see Warnings and Precautions (5.7)].
 
 Pregnancy and Pregnancy Registry
 
@@ -49,7 +55,7 @@ Instruct patients that if they are pregnant or plan to become pregnant while tak
 
 Encourage patients to enroll in the TECFIDERA Pregnancy Registry if they become pregnant while taking TECFIDERA [see Use in Specific Populations (8.1)].
 
-41347-16
+PPI-41347-17
 
 Manufactured for: Biogen Inc. Cambridge, MA 02142
 

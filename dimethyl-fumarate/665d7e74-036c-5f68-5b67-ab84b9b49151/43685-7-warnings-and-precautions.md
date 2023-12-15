@@ -92,3 +92,11 @@ In the majority of patients who experienced flushing, it was mild or moderate in
 Three percent (3%) of patients discontinued TECFIDERA for flushing and <1% had serious flushing symptoms that were not life-threatening but led to hospitalization.
 Administration of TECFIDERA with food may reduce the incidence of flushing.
 Alternatively, administration of non-enteric coated aspirin (up to a dose of 325 mg) 30 minutes prior to TECFIDERA dosing may reduce the incidence or severity of flushing [see Dosing and Administration (2.1) and Clinical Pharmacology (12.3)].
+
+## 5.7 Serious Gastrointestinal Reactions
+
+Serious gastrointestinal reactions, including perforation, ulceration, hemorrhage, and obstruction, some with fatal outcomes, have been reported in the postmarketing setting with the use of fumaric acid esters, including TECFIDERA, with or without concomitant aspirin use.
+The majority of these events have occurred within 6 months of fumaric acid ester treatment initiation.
+In controlled clinical trials, the incidence of serious gastrointestinal adverse events was 1% in patients treated with TECFIDERA; these events, none of which were fatal, included vomiting (0.3%) and abdominal pain (0.3%) [see Adverse Reactions (6.1)].
+
+Monitor patients, promptly evaluate, and discontinue TECFIDERA for new or worsening severe gastrointestinal signs and symptoms.
