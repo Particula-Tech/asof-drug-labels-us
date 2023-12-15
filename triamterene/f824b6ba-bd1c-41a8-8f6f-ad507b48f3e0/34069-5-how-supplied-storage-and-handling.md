@@ -14,15 +14,13 @@ Dispense in a tight, light-resistant container.
 
 KEEP OUT OF THE REACH OF CHILDREN.
 
-Manufactured by
+Manufactured in India by
 
-Sandoz Inc.
+Sandoz Private Ltd., for
 
-Princeton, NJ 08540
+Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-November 2021
+September 2022
 
-46299670
-
-MF42029358REV11/21
+46316472
