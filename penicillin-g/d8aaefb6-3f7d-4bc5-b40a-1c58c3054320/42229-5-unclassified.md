@@ -1,4 +1,4 @@
-To reduce the development of drug-resistant bacteria and maintain the effecproven or strongly suspected to be caused by bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Penicillin G Potassium and other antibacterial drugs, Penicillin G Potassium for Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
@@ -7,6 +7,6 @@ For medical information about Buffered Pfizerpen, please visit www.pfizermedinfo
 
 Rx only
 
-LAB-0200-13.0
+LAB-0200-12.0
 
-Revised: 10/2023
+Revised: 09/2023
