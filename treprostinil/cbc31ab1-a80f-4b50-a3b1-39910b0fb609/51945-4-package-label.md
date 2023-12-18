@@ -28,7 +28,7 @@ TYVASO Inhalation System
 
 Patient Starter Kit
 
-TYVASO (treprostinil) INHALATION SOLUTION
+TYVASO® (treprostinil) INHALATION SOLUTION
 
 Treprostinil 1.74 mg/2.9 mL (0.6 mg/mL)
 
@@ -37,7 +37,7 @@ See package insert and Instructions for Use manual for dosage and administration
 
 | CONTENTS | QTY | CONTENTS | QTY |
 | --- | --- | --- | --- |
-| +28 ampule carton of TYVASO (seven foil pouches each containing four 2.9 mL ampules) | 1 | +AC wall plugs | 2 |
+| +28 ampule carton of TYVASO (seven foil pouches, each containing four 2.9 mL ampules) | 1 | +AC wall plugs | 2 |
 | +TYVASO Inhalation Device | 2 | +Water level cup | 1 |
 | +TYVASO Inhalation System Instructions for Use manual | 1 | +Plugs for storage between treatment sessions | 2 |
 | +Treatment Tracker | 1 | +Carrying case | 1 |
@@ -62,7 +62,7 @@ NDC 66302-206-01 Rx only
 
 Manufactured by United Therapeutics Corporation Research Triangle Park, NC 27709
 
-EXP LOT 100957 Rev.
+EXP YYYY - MMM LOT XXXXXXX 100957 Rev.
 04/2021
 
 United Therapeutics CORPORATION
@@ -84,7 +84,7 @@ TYVASO Inhalation System Refill Kit
 | 28 ampule carton of TYVASO (seven foil pouches each containing four 2.9 mL ampules) | 1 |
 | Set of Dome assembly, Inhalation piece, Mouthpiece, and 2 Filter shells | 1 |
 | Medicine cups | 32 |
-| Filters membranes | 65 |
+| Filter membranes | 65 |
 | Plugs for storage between treatment sessions | 2 |
 | Treatment Tracker | 1 |
 
@@ -107,14 +107,14 @@ Manufactured for United Therapeutics Corporation Research Triangle Park, NC 2770
 
 United Therapeutics CORPORATION
 
-EXP LOT RTP3088 Rev.
+EXP YYYY - MMM LOT XXXXXXX RTP3088 Rev.
 04/2021
 
 # PRINCIPAL DISPLAY PANEL - Institutional Starter Kit
 
 TYVASO Inhalation System Institutional Starter Kit
 
-TYVASO (treprostinil) INHALATION SOLUTION
+TYVASO® (treprostinil) INHALATION SOLUTION
 
 Treprostinil 1.74 mg/2.9 mL (0.6 mg/mL)
 
@@ -138,7 +138,7 @@ Hydrochloric acid and sodium hydroxide may have been added to adjust pH.
   Each ampule of TYVASO (once opened and transferred to the medicine cup) should remain in the device for no more than 1 day.
   Any remaining TYVASO and the medicine cup should be discarded at the end of each day.
 - +Once a foil pouch is opened, use ampules within 7 days.
-- +Store unused ampules of TYVASO in the foil pouch until use, protected from light.
+- + Store unused ampules of TYVASO in the foil pouch until use, protected from light.
 - +Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 Institutional Starter Kit For Single Patient Use Only.
@@ -148,7 +148,7 @@ NDC 66302-206-04 Rx only
 
 Manufactured by United Therapeutics Corporation Research Triangle Park, NC 27709
 
-EXP LOT 100958 Rev.
+EXP YYYY-MMM LOT XXXXXXX 100958 Rev.
 04/2021
 
 United Therapeutics CORPORATION
