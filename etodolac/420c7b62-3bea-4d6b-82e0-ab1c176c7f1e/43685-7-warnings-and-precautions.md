@@ -284,6 +284,10 @@ Premature Closure of Fetal Ductus Arteriosus Use of NSAIDs, including etodolac c
 Oligohydramnios/Neonatal Renal Impairment Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
 
 Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
+In animal reproduction studies, isolated occurrences of alterations in limb development were found and included polydactyly, oligodactyly, syndactyly, and unossified phalanges in rats and oligodactyly and synostosis of metatarsals in rabbits.
+These were observed at dose levels (2 to 14 mg/kg/day) close to human clinical doses.
+However, the frequency and the dosage group distribution of these findings in initial or repeated studies did not establish a clear drug or dose‐response relationship.
+Animal reproduction studies are not always predictive of human response.
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as etodolac, resulted in increased pre- and post-implantation loss.
 Prostaglandins also have been shown to have an important role in fetal kidney development.
@@ -303,7 +307,8 @@ If oligohydramnios occurs, discontinue etodolac capsules and follow up according
 
 Data
 
-Human Data
+Human Data There are no adequate or well controlled studies in pregnant women.
+Etodolac should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Premature Closure of Fetal Ductus Arteriosus Published literature reports that the use of NSAIDs at about 30 weeks of gestation and later in pregnancy may cause premature closure of the fetal ductus arteriosus.
 
@@ -316,12 +321,6 @@ Some cases of neonatal renal dysfunction required treatment with invasive proced
 Methodological limitations of these postmarketing studies and reports include lack of a control group; limited information regarding dose, duration, and timing of drug exposure; and concomitant use of other medications.
 These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use.
 Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain.
-
-Animal Data
-
-In teratology studies, isolated occurrences of alterations in limb development were found and included polydactyly, oligodactyly, syndactyly, and unossified phalanges in rats and oligodactyly and synostosis of metatarsals in rabbits.
-These were observed at dose levels (2 to 14 mg/kg/day) close to human clinical doses.
-However, the frequency and the dosage group distribution of these findings in initial or repeated studies did not establish a clear drug or dose-response relationship.
 
 ## Labor and Delivery
 

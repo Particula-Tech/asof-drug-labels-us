@@ -6,43 +6,37 @@ NSAIDs can cause serious side effects, including:
 
 - •Increased risk of a heart attack or stroke that can lead to death.
   This risk may happen early in treatment and may increase:
-  - owith increasing doses of NSAIDs
-  - owith longer use of NSAIDs
-- 
+  - •with increasing doses of NSAIDs
+  - •with longer use of NSAIDs
 
 Do not take NSAIDs right before or after a heart surgery called a “coronary artery bypass graft (CABG)."
-
-1. 
 
 Avoid taking NSAIDs after a recent heart attack, unless your healthcare provider tells you to.
 You may have an increased risk of another heart attack if you take NSAIDs after a recent heart attack.
 
-1. 
-2. •Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines:
-   - oanytime during use
-   - owithout warning symptoms
-   - othat may cause death
+- •Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines:
+  - •anytime during use
+  - •without warning symptoms
+  - •that may cause death
 
 The risk of getting an ulcer or bleeding increases with:
 
-- 
-  - opast history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs
-  - otaking medicines called “corticosteroids”, “anticoagulants”, “SSRIs”, or “SNRIs”
-  - oincreasing doses of NSAIDs
-  - olonger use of NSAIDs
-  - osmoking
-  - odrinking alcohol
-  - oolder age
-  - opoor health
-  - oadvanced liver disease
-  - obleeding problems
+- •past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs
+- •taking medicines called “corticosteroids”, “anticoagulants”, “SSRIs”, or “SNRIs”
+- •increasing doses of NSAIDs
+- •longer use of NSAIDs
+- •smoking
+- •drinking alcohol
+- •older age
+- •poor health
+- •advanced liver disease
+- •bleeding problems
 
 NSAIDs should only be used:
 
-- 
-  - oexactly as prescribed
-  - oat the lowest dose possible for your treatment
-  - ofor the shortest time needed
+- •exactly as prescribed
+- •at the lowest dose possible for your treatment
+- •for the shortest time needed
 
 What are NSAIDs?
 
@@ -121,7 +115,7 @@ Other information about NSAIDs
 - •Aspirin is an NSAID but it does not increase the chance of a heart attack.
   Aspirin can cause bleeding in the brain, stomach, and intestines.
   Aspirin can also cause ulcers in the stomach and intestines.
-- •Some NSAIDs are sold in lower doses without a prescription (over-the counter).
+- •Some NSAIDs are sold in lower doses without a prescription (over-the-counter).
   Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days.
 
 General information about the safe and effective use of NSAIDs

@@ -11,4 +11,4 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature], pr
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 Keep container tightly closed.
 
-Manufactured by: ANI Pharmaceuticals, Inc. Baudette, MN 56623 9687 Rev 03/21
+Manufactured by: ANI Pharmaceuticals, Inc. Baudette, MN 56623 9687 Rev 09/21
