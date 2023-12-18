@@ -12,7 +12,7 @@ For Product Inquiry call 1-877-845-0689.
 
 Manufactured by:
 
-WEST-WARD A HIKMA COMPANY Berkeley Heights, NJ 07922
+Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
 Revised February 2023
 
