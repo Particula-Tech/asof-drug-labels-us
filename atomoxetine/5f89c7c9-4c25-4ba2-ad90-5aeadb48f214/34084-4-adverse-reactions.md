@@ -95,57 +95,57 @@ Additional data from ADHD clinical trials (controlled and uncontrolled) has show
 
 Table 4 Common Treatment-Emergent Adverse Reactions Associated with the Use of Atomoxetine in Acute (up to 25 weeks) Adult Trials
 
-| Adverse Reactiona | Percentage of Patients Reporting Reaction |  |  |
-| --- | --- | --- | --- |
-| Atomoxetine | Placebo |  |  |
-| (N=1,697) | (N=1,560) |  |  |
-| Cardiac Disorders |  |  |  |
-| Palpitations | 3 | 1 |  |
-| Gastrointestinal Disorders |  |  |  |
-| Dry mouth | 20 | 5 |  |
-| Nausea | 26 | 6 |  |
-| Constipation | 8 | 3 |  |
-| Abdominal painb | 7 | 4 |  |
-| Dyspepsia | 4 | 2 |  |
-| Vomiting | 4 | 2 |  |
-| General Disorders and Administration Site Conditions |  |  |  |
-| Fatigue | 10 | 6 |  |
-| Chills | 3 | 0 |  |
-| Feeling jittery | 2 | 1 |  |
-| Irritability | 5 | 3 |  |
-| Thirst | 2 | 1 |  |
-| Investigations |  |  |  |
-| Weight decreased | 2 | 1 |  |
-| Metabolism and Nutritional Disorders |  |  |  |
-| Decreased appetite | 16 | 3 |  |
-| Nervous System Disorders |  |  |  |
-| Dizziness | 8 | 3 |  |
-| Somnolencec | 8 | 5 |  |
-| Paraesthesia | 3 | 0 |  |
-| Psychiatric Disorders |  |  |  |
-| Abnormal dreams | 4 | 3 |  |
-| Insomniad | 15 | 8 |  |
-| Libido decreased | 3 | 1 |  |
-| Sleep disorder | 3 | 1 |  |
-| Renal and Urinary Disorders |  |  |  |
-| Urinary hesitatione | 6 | 1 |  |
-| Dysuria | 2 | 0 |  |
-| Reproductive System and Breast Disorders |  |  |  |
-| Erectile dysfunctionf | 8 | 1 |  |
-| Dysmenorrheag | 3 | 2 |  |
-| Ejaculation delayedf and/or ejaculation disorderf | 4 | 1 |  |
-| Skin and Subcutaneous Tissue Disorders |  |  |  |
-| Hyperhidrosis | 4 | 1 |  |
-| Vascular Disorders |  |  |  |
-| Hot flush | 3 | 0 |  |
-| aReactions reported by at least 2% of patients treated with atomoxetine, and greater than placebo. The following reactions did not meet this criterion but were reported by more atomoxetine-treated patients than placebo-treated patients and are possibly related to atomoxetine treatment: peripheral coldness, tachycardia, prostatitis, testicular pain, orgasm abnormal, flatulence, asthenia, feeling cold, muscle spasm, dysgeusia, agitation, restlessness, micturition urgency, pollakiuria, pruritus, urticaria, flushing, tremor, menstruation irregular, rash, and urinary retention. The following reactions were reported by at least 2% of patients treated with atomoxetine, and equal to or less than placebo: anxiety, diarrhea, back pain, headache, and oropharyngeal pain. |  |  |  |
-| bAbdominal pain includes the terms: abdominal pain upper, abdominal pain, stomach discomfort, abdominal discomfort, |  |  |  |
-| epigastric discomfort. |  |  |  |
-| cSomnolence includes the terms: sedation, somnolence. |  |  |  |
-| dInsomnia includes the terms: insomnia, initial insomnia, middle insomnia, and terminal insomnia. |  |  |  |
-| eUrinary hesitation includes the terms: urinary hesitation, urine flow decreased. |  |  |  |
-| fBased on total number of males (atomoxetine, N=943; placebo, N=869). |  |  |  |
-| gBased on total number of females (atomoxetine, N=754; placebo, N=691). |  |  |  |
+| Adverse Reactiona | Percentage of Patients Reporting Reaction |  |
+| --- | --- | --- |
+| Atomoxetine | Placebo |  |
+| (N=1,697) | (N=1,560) |  |
+| Cardiac Disorders |  |  |
+| Palpitations | 3 | 1 |
+| Gastrointestinal Disorders |  |  |
+| Dry mouth | 20 | 5 |
+| Nausea | 26 | 6 |
+| Constipation | 8 | 3 |
+| Abdominal painb | 7 | 4 |
+| Dyspepsia | 4 | 2 |
+| Vomiting | 4 | 2 |
+| General Disorders and Administration Site Conditions |  |  |
+| Fatigue | 10 | 6 |
+| Chills | 3 | 0 |
+| Feeling jittery | 2 | 1 |
+| Irritability | 5 | 3 |
+| Thirst | 2 | 1 |
+| Investigations |  |  |
+| Weight decreased | 2 | 1 |
+| Metabolism and Nutritional Disorders |  |  |
+| Decreased appetite | 16 | 3 |
+| Nervous System Disorders |  |  |
+| Dizziness | 8 | 3 |
+| Somnolencec | 8 | 5 |
+| Paraesthesia | 3 | 0 |
+| Psychiatric Disorders |  |  |
+| Abnormal dreams | 4 | 3 |
+| Insomniad | 15 | 8 |
+| Libido decreased | 3 | 1 |
+| Sleep disorder | 3 | 1 |
+| Renal and Urinary Disorders |  |  |
+| Urinary hesitatione | 6 | 1 |
+| Dysuria | 2 | 0 |
+| Reproductive System and Breast Disorders |  |  |
+| Erectile dysfunctionf | 8 | 1 |
+| Dysmenorrheag | 3 | 2 |
+| Ejaculation delayedf and/or ejaculation disorderf | 4 | 1 |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Hyperhidrosis | 4 | 1 |
+| Vascular Disorders |  |  |
+| Hot flush | 3 | 0 |
+| aReactions reported by at least 2% of patients treated with atomoxetine, and greater than placebo. The following reactions did not meet this criterion but were reported by more atomoxetine-treated patients than placebo-treated patients and are possibly related to atomoxetine treatment: peripheral coldness, tachycardia, prostatitis, testicular pain, orgasm abnormal, flatulence, asthenia, feeling cold, muscle spasm, dysgeusia, agitation, restlessness, micturition urgency, pollakiuria, pruritus, urticaria, flushing, tremor, menstruation irregular, rash, and urinary retention. The following reactions were reported by at least 2% of patients treated with atomoxetine, and equal to or less than placebo: anxiety, diarrhea, back pain, headache, and oropharyngeal pain. |  |  |
+| bAbdominal pain includes the terms: abdominal pain upper, abdominal pain, stomach discomfort, abdominal discomfort, |  |  |
+| epigastric discomfort. |  |  |
+| cSomnolence includes the terms: sedation, somnolence. |  |  |
+| dInsomnia includes the terms: insomnia, initial insomnia, middle insomnia, and terminal insomnia. |  |  |
+| eUrinary hesitation includes the terms: urinary hesitation, urine flow decreased. |  |  |
+| fBased on total number of males (atomoxetine, N=943; placebo, N=869). |  |  |
+| gBased on total number of females (atomoxetine, N=754; placebo, N=691). |  |  |
 
 The following adverse events occurred in at least 2% of adult CYP2D6 poor metaboliser (PM) patients and were statistically significantly more frequent in PM patients compared to CYP2D6 extensive metaboliser (EM) patients: vision blurred (4% of PMs, 1% of EMs); dry mouth (35% of PMs, 17% of EMs); constipation (11% of PMs, 7% of EMs); feeling jittery (5% of PMs, 2% of EMs); decreased appetite (23% of PMs, 15% of EMs); tremor (5% of PMs, 1% of EMs); insomnia (19% of PMs, 11% of EMs); sleep disorder (7% of PMs, 3% of EMs); middle insomnia (5% of PMs, 3% of EMs); terminal insomnia (3% of PMs, 1% of EMs); urinary retention (6% of PMs, 1% of EMs); erectile dysfunction (21% of PMs, 9% of EMs); ejaculation disorder (6% of PMs, 2% of EMs); hyperhidrosis (15% of PMs, 7% of EMs); peripheral coldness (3% of PMs, 1% of EMs).
 

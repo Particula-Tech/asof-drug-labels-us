@@ -1,5 +1,13 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
+NDC 68382-215-16 in bottle of 90 Capsules
+
+Atomoxetine Capsules, 10 mg
+
+90 Capsules
+
+ZYDUS
+
 NDC 68382-216-16 in bottle of 90 Capsules
 
 Atomoxetine Capsules, 18 mg
