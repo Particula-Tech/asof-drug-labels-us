@@ -8,11 +8,20 @@
     "83457-100-01",
     "83457-101-01",
     "83457-102-01",
-    "83457-103-01"
+    "83457-103-01",
+    "83457-107-01",
+    "83457-108-01",
+    "83457-112-01",
+    "83457-113-01"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
+      "generic": "adalimumab-adaz",
+      "name": "HYRIMOZ"
+    },
+    {
+      "form": "KIT",
       "generic": "adalimumab-adaz",
       "name": "HYRIMOZ"
     }
