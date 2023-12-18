@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1How Supplied
+## 16.1 How Supplied
 
 Alora 0.025 mg.
 Each 9 cm2 system contains 0.77 mg of estradiol for nominal delivery of 0.025 mg of estradiol per day over a 3 to 4-day interval.
@@ -22,7 +22,7 @@ Each 36 cm2 system contains 3.1 mg of estradiol for nominal delivery of 0.1 mg o
 
 - NDC 0023-5888-11
 
-## 16.2Storage and Handling
+## 16.2 Storage and Handling
 
 Store at 20-25°C (68-77°F).
 [See USP controlled room temperature.]

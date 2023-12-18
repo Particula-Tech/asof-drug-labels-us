@@ -85,7 +85,7 @@ Excretion
 
 Estradiol, estrone and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
 
-## 12.6Adhesion
+## 12.6 Adhesion
 
 The adhesion potential of Alora was evaluated in a randomized clinical trial involving 408 healthy postmenopausal women who wore placebo transdermal systems corresponding to the 18 cm2 size Alora.
 The placebo transdermal systems were applied twice weekly for 4 weeks on the lower quadrant of the abdomen (the lower abdomen, the upper quadrant of the buttocks or outer aspect of the hip are the approved recommended application sites).

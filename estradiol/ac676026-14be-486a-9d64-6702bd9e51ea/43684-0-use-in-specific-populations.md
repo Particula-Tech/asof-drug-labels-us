@@ -10,7 +10,7 @@ Animal studies to evaluate embryo/fetal toxicity were not conducted with Alora.
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4 percent and 15 to 20 percent, respectively.
 
-## 8.2Lactation
+## 8.2 Lactation
 
 Risk Summary
 

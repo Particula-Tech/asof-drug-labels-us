@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1Effects on Vasomotor Symptoms in Postmenopausal Women
+## 14.1 Effects on Vasomotor Symptoms in Postmenopausal Women
 
 Efficacy of Alora was evaluated in a double blind/double dummy, randomized, parallel group, placebo-controlled trial (Trial 1) involving a total of 268 postmenopausal women over a 12-week dosing period.
 In this study, the population was primarily Caucasian (88%), and had a mean age of 50.9 years (range 31-70 years).
@@ -20,13 +20,13 @@ Table 5 Mean Change from Baseline in the Frequency of Moderate to Severe Vasomot
 | 12* | -68 | -79 | -54 |
 | * Indicates statistically significant differences between both strengths of Alora and placebo using an ANCOVA model adjusting for baseline. |  |  |  |
 
-## 14.2Effects on Vulvar and Vaginal Atrophy in Postmenopausal Women
+## 14.2 Effects on Vulvar and Vaginal Atrophy in Postmenopausal Women
 
 Vaginal cytology was obtained pre-dosing and at last visit in 54 women treated with Alora, 0.05 mg/day, in 45 women treated with Alora, 0.1 mg/day, and in 46 women who received placebo transdermal system (Trial 2).
 Superficial cells increased by a mean of 18.7%, 23.7%, and 8.7% for Alora 0.05 mg/day, Alora, 0.1 mg/day, and placebo transdermal system, respectively.
 Corresponding reductions in basal/parabasal and intermediate cells were also observed.
 
-## 14.3Effects on Bone Mineral Density
+## 14.3 Effects on Bone Mineral Density
 
 Lumbar spine bone mineral density (BMD) was measured by DEXA in a 2-year, randomized, multi-center, double-blind, placebo-controlled trial (Trial 3) in 355 hysterectomized, non-osteoporotic women (i.e., T-scores > -2.5).
 Eighty-six percent of the women were Caucasian, the mean age was 53.2 years (range 26 to 69), and the average number of years since menopause (natural or surgical) was not determined.
@@ -43,7 +43,7 @@ A total of 196 women (44 – 0.025 mg/d, 49 – 0.05 mg/d, 45 – 0.075 mg/d, an
 All Alora doses were statistically significantly superior to placebo for the primary endpoint, percent change in BMD from baseline.
 The mean 2-year (LOCF) percent changes in BMD for the 0.025 mg/d, 0.05 mg/d, 0.075 mg/d Alora dosage strengths, and placebo were 1.45%, 3.39%, 4.24%, and –0.80% respectively.
 
-## 14.4Women’s Health Initiative Studies
+## 14.4 Women’s Health Initiative Studies
 
 The WHI enrolled a total of 27,000 predominantly healthy postmenopausal women in two substudies to assess the risks and benefits of daily oral CE (0.625 mg)-alone or in combination with MPA (2.5 mg) compared to placebo in the prevention of certain chronic diseases.
 The primary endpoint was the incidence of CHD (defined as nonfatal MI, silent MI and CHD death), with invasive breast cancer as the primary adverse outcome studied.
@@ -133,7 +133,7 @@ WHI publications can be viewed at www.nhlbi.nih.gov/whi. b) Results are based on
 Timing of initiation of estrogen plus progestin therapy relative to the start of menopause may affect the overall risk benefit profile.
 The WHI estrogen plus progestin substudy stratified by age showed in women 50 to 59 years of age, a non-significant trend toward reduced risk for overall mortality [HR 0.69 (95 percent CI, 0.44-1.07)].
 
-## 14.5Women’s Health Initiative Memory Study
+## 14.5 Women’s Health Initiative Memory Study
 
 The WHIMS estrogen-alone ancillary study of WHI enrolled 2,947 predominantly healthy hysterectomized postmenopausal women 65 to 79 years of age (45 percent were 65 to 69 years of age; 36 percent were 70 to 74 years of age; 19 percent were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg)-alone on the incidence of probable dementia (primary outcome) compared to placebo.
 

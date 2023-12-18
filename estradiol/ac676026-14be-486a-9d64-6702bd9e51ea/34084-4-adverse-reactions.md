@@ -5,7 +5,7 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 - Cardiovascular Disorders [see Boxed Warning and Warnings and Precautions (5.1)].
 - Malignant Neoplasms [see Boxed Warning and Warning and Precautions (5.2)].
 
-## 6.1Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -44,7 +44,7 @@ Table 1 Adverse Reactions for Alora 0.025 mg/day, 0.05 mg/day, and 0.075 mg/day 
 | Pain Breast | 7 (8) | 13 (14.6) | 16 (17.8) | 31 (34.8) |
 | -- represents exclusion of data that was less than 2% or less than placebo. |  |  |  |  |
 
-## 6.2Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of Alora.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

@@ -109,12 +109,9 @@ Replacing your patches:
 
 - Replace your patch 2 times each week, on the 2 days you have chosen.
   Until it becomes a habit, try:
-
-◦ Marking your schedule on the back of the box of patches
-
-◦ Marking the days on your calendar
-
-◦ Link the days you change your patch to other things that always happen on those days such as an exercise class or meeting.
+  - Marking your schedule on the back of the box of patches
+  - Marking the days on your calendar
+  - Link the days you change your patch to other things that always happen on those days such as an exercise class or meeting.
 
 - Keep working with your healthcare provider, pharmacist, or other healthcare professional.
 - Ask questions and talk about your concerns.
