@@ -56,10 +56,10 @@ Distributed by Prasco, LLC, Mason, OH 45040 USA
 
 SPRITAM® is a registered trademark of Aprecia Pharmaceuticals, LLC.
 
-© 2020 Aprecia Pharmaceuticals, LLC all rights reserved.
+© 2023 Aprecia Pharmaceuticals, LLC all rights reserved.
 
 Printed in the USA
 
 Patent(s): www.aprecia.com/patents
 
-LB-PI-0001.Q
+LB-PI-0001.R
