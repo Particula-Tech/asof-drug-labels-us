@@ -11,4 +11,4 @@
 | What are the ingredients in XYOSTED?Active ingredient: testosterone enanthateInactive ingredients: sesame oil Manufactured by:Antares Pharma, Inc. Ewing, NJ 08628 XYOSTED is a trademark of Antares Pharma, Inc. ©2018 Antares Pharma, Inc. All rights reservedFor more information, go to www.XYOSTED.com or call 1-844-XYOSTED (1-844-996-7833). |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Issued: 09/2018
+Issued: 02/2022

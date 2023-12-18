@@ -150,6 +150,6 @@ Do not recycle your used sharps disposal container.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration
 
-LB-0118 V1
+LB-0118 V3
 
-Manufactured for: Antares Pharma, Inc. Ewing, NJ 08628 09/2018
+Manufactured for: Antares Pharma, Inc. Ewing, NJ 08628 02/2022

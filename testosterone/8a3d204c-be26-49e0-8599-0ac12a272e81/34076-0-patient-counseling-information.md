@@ -27,4 +27,4 @@ Manufactured For: Antares Pharma, Inc. Ewing, NJ 08628
 
 XYOSTED is a trademark of Antares Pharma, Inc.
 
-©2019 Antares Pharma, Inc. All rights reserved
+©2022 Antares Pharma, Inc. All rights reserved
