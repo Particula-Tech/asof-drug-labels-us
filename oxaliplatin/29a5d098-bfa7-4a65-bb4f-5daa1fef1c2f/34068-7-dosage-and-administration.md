@@ -17,15 +17,16 @@ Administer leucovorin 200 mg/m2 as an intravenous infusion over 120 minutes, fol
 
 Refer to the prescribing information for fluorouracil and leucovorin for additional information.
 
-## 2.2 Dosage Modifications for Adverse Reactions
+## 2.2 Dose Modifications for Adverse Reactions
 
-Prolongation of infusion time for oxaliplatin injection from 2 hours to 6 hours may mitigate acute toxicities, such as non-life threatening infusion-related reactions.
+Prolongation of infusion time for oxaliplatin injection from 2 hours to 6 hours may mitigate acute toxicities, such as non-life-threatening infusion-related reactions.
 
 Permanently discontinue oxaliplatin injection for any of the following:
 
 - Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 - Posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.4)]
-- Confirmed interstitial lung disease or pulmonary fibrosis [see Warnings and Precautions (5.5)] Rhabdomyolysis [see Warnings and Precautions (5.8)]
+- Confirmed interstitial lung disease or pulmonary fibrosis [see Warnings and Precautions (5.5)]
+- Rhabdomyolysis [see Warnings and Precautions (5.8)]
 
 Refer to the fluorouracil and leucovorin prescribing information for dosage modifications for adverse reactions.
 
@@ -59,7 +60,7 @@ Table 2: Dosage Modifications for Advanced Colorectal Cancer
 | Grade 3-4 thrombocytopenia |  |  |
 | Gastrointestinal Adverse Reactions [see Adverse Reactions (6.1)] | Grade 3-4 | After recovery, reduce oxaliplatin injection dose to 65 mg/m2 along with a dose reduction of fluorouracil to 300 mg/m2 as an intravenous bolus and 500 mg/m2 as a 22-hour continuous infusion. |
 
-## 2.3 Dosage Modifications for Renal Impairment
+## 2.3 Dose Modifications for Patients with Renal Impairment
 
 In patients with severe renal impairment (creatinine clearance [CLcr] less than 30 mL/min, calculated by the Cockcroft-Gault equation), reduce the oxaliplatin injection dose to 65 mg/m2 [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 

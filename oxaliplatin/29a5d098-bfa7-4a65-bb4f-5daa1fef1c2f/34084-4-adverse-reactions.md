@@ -24,7 +24,7 @@ Adjuvant Treatment
 
 The safety of oxaliplatin in combination with fluorouracil (FU)/leucovorin (LV) was evaluated in patients with stage II or III colon cancer, who had undergone complete resection of the primary tumor in the adjuvant treatment trial [see Clinical Studies (14.1)].
 
-Fatal adverse reactions in patients who received oxaliplatin in the combination arm included sepsis/neutropenic sepsis (n=3), intracerebral hemorrhage (n=2) and eosinophilic pneumonia (n=1).
+Fatal adverse reactions in patients who received oxaliplatin in the combination arm included sepsis/neutropenic sepsis (n=3), intracerebral hemorrhage (n=2), and eosinophilic pneumonia (n=1).
 
 Thromboembolic events occurred in 6% (grade 3-4, 1.2%) of patients in the oxaliplatin arm.
 
@@ -38,7 +38,7 @@ Tables 5, 6, and 7 summarize the adverse reactions reported in patients with col
 
 Table 5: Adverse Reactions Reported in Patients with Colon Cancer Receiving Adjuvant Treatment (greater than or equal to 5% of all patients and with greater than or equal to 1% grade 3-4)
 
-| Adverse Reaction * | Oxaliplatin + FU/LV N=1108 |  | FU/LV N=1111 |  |
+| Adverse Reaction* | Oxaliplatin + FU/LV N=1108 |  | FU/LV N=1111 |  |
 | --- | --- | --- | --- | --- |
 | All Grades | Grade 3-4 | All Grades | Grade 3-4 |  |
 |  | (%) | (%) | (%) | (%) |
@@ -66,7 +66,7 @@ Table 5: Adverse Reactions Reported in Patients with Colon Cancer Receiving Adju
 
 Table 6: Adverse Reactions Reported in Patients with Colon Cancer Receiving Adjuvant Treatment (greater than or equal to 5% of all patients but with less than 1% grade 3-4)
 
-| Adverse Reaction * | Oxaliplatin + FU/LV N=1108 | FU/LV N=1111 |
+| Adverse Reaction* | Oxaliplatin + FU/LV N=1108 | FU/LV N=1111 |
 | --- | --- | --- |
 | All Grades (%) | All Grades (%) |  |
 | Dermatology/Skin |  |  |
@@ -88,7 +88,7 @@ Table 6: Adverse Reactions Reported in Patients with Colon Cancer Receiving Adju
 | Allergy/Immunology |  |  |
 | Rhinitis | 6 | 8 |
 | * Event coded in WHO-ART dictionary |  |  |
-| † No complete alopecia was reported. |  |  |
+| † No complete alopecia was reported |  |  |
 
 In females, the following grade 3-4 adverse reactions were more frequent: diarrhea, fatigue, neutropenia, nausea, and vomiting.
 
@@ -140,7 +140,7 @@ Table 8: Adverse Reactions Reported in Patients in the Previously Untreated Adva
 | Stomatitis | 38 | 0 | 25 | 1 | 19 | 1 |
 | Anorexia | 35 | 2 | 25 | 4 | 27 | 5 |
 | Constipation | 32 | 4 | 27 | 2 | 21 | 2 |
-| Diarrhea - colostomy | 13 | 2 | 16 | 7 | 16 | 3 |
+| Diarrhea-colostomy | 13 | 2 | 16 | 7 | 16 | 3 |
 | Gastrointestinal NOS† | 5 | 2 | 4 | 2 | 3 | 2 |
 | Constitutional Symptoms/Pain/Ocular/Visual |  |  |  |  |  |  |
 | Fatigue | 70 | 7 | 58 | 11 | 66 | 16 |
@@ -217,7 +217,7 @@ Table 9: Adverse Reactions Reported in Patients in the Previously Untreated Adva
 | Hypocalcemia | 7 | 5 | 4 |
 | Elevated Creatinine | 4 | 4 | 5 |
 | * Event coded in WHO-ART dictionary |  |  |  |
-| † No complete alopecia was reported. |  |  |  |
+| † No complete alopecia was reported |  |  |  |
 | ‡ Absolute neutrophil count |  |  |  |
 
 Clinically relevant adverse reactions that occurred in greater than or equal to 2% and less than 5% of the patients in the oxaliplatin and fluorouracil/leucovorin combination arm (listed in decreasing order of frequency) were: metabolic, pneumonitis, catheter infection, vertigo, prothrombin time, pulmonary, rectal bleeding, dysuria, nail changes, chest pain, rectal pain, syncope, hypertension, hypoxia, unknown infection, bone pain, pigmentation changes, and urticaria.
@@ -236,7 +236,7 @@ Table 10: Laboratory-Related Adverse Reactions Occurring in ≥5% of Patients in
 | Increased AST* | 17 | 1 | 2 | 1 | 11 | 1 |
 | Increased Alkaline Phosphatase | 16 | 0 | 8 | 0 | 14 | 2 |
 | Hyperbilirubinemia | 6 | 1 | 3 | 1 | 3 | 2 |
-| Increased ALT † | 6 | 1 | 2 | 0 | 5 | 2 |
+| Increased ALT† | 6 | 1 | 2 | 0 | 5 | 2 |
 | * Aspartate transaminase |  |  |  |  |  |  |
 | † Alanine transaminase |  |  |  |  |  |  |
 
@@ -331,7 +331,7 @@ Table 12: Adverse Reactions Reported in Patients in the Previously Treated Advan
 | Hematuria | 6 | 0 | 4 |
 | Dysuria | 6 | 1 | 1 |
 | * Event coded in WHO-ART dictionary |  |  |  |
-| † No complete alopecia was reported. |  |  |  |
+| † No complete alopecia was reported |  |  |  |
 
 Clinically relevant adverse reactions in greater than or equal to 2% and less than 5% of the patients in the oxaliplatin and fluorouracil/leucovorin combination arm (listed in decreasing order of frequency) were: anxiety, myalgia, erythematous rash, increased sweating, conjunctivitis, weight decrease, dry mouth, rectal hemorrhage, depression, ataxia, ascites, hemorrhoids, muscle weakness, nervousness, tachycardia, abnormal micturition frequency, dry skin, pruritus, hemoptysis, purpura, vaginal hemorrhage, melena, somnolence, pneumonia, proctitis, involuntary muscle contractions, intestinal obstruction, gingivitis, tenesmus, hot flashes, enlarged abdomen, and urinary incontinence.
 
@@ -382,7 +382,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Hearing and vestibular system: deafness
 - Infections: septic shock, including fatal outcomes
 - Infusion-related reactions and hypersensitivity reactions: laryngospasm
-- Hepatic and gastrointestinal: severe diarrhea/vomiting resulting in hypokalemia, colitis (including Clostridium difficile diarrhea), metabolic acidosis, ileus, intestinal obstruction, pancreatitis, sinusoidal obstruction syndrome, perisinusoidal fibrosis which rarely may progress, esophagitis
+- Hepatic and gastrointestinal: severe diarrhea/vomiting resulting in hypokalemia, colitis (including Clostridium difficile diarrhea), metabolic acidosis, ileus, intestinal obstruction, pancreatitis, sinusoidal obstruction syndrome, perisinusoidal fibrosis which rarely may progress, focal nodular hyperplasia, esophagitis
 - Musculoskeletal and connective tissue: rhabdomyolysis, including fatal outcomes
 - Platelet, bleeding, and clotting disorders: immuno-allergic thrombocytopenia, prolonged prothrombin time and INR in patients receiving anticoagulants
 - Blood disorders: secondary leukemia

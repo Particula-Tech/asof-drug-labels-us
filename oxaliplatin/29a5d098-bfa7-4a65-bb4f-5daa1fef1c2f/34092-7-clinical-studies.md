@@ -203,23 +203,23 @@ Table 21: Efficacy Results for Previously Untreated Advanced Colorectal Cancer T
 | Survival (ITT) |  |  |  |
 | Number of deaths (%) | 155 (58.1) | 192 (72.7) | 175 (66.3) |
 | Median survival (months) | 19.4 | 14.6 | 17.6 |
-| Hazard ratio (95% CI)† | 0.65 (0.53, 0.80)* |  | - |
-| P-value | <0.0001* |  | - |
+| Hazard ratio (95% CI)* | 0.65 (0.53, 0.80)† |  | - |
+| P-value | <0.0001† |  | - |
 | TTP (ITT, investigator assessment) |  |  |  |
 | Percentage of progressors | 82.8 | 81.8 | 89.4 |
 | Median TTP (months) | 8.7 | 6.9 | 6.5 |
-| Hazard ratio (95% CI)† | 0.74 (0.61, 0.89)* |  | - |
-| P-value | 0.0014* |  | - |
+| Hazard ratio (95% CI)* | 0.74 (0.61, 0.89)† |  | - |
+| P-value | 0.0014† |  | - |
 | Response Rate (investigator assessment)‡ |  |  |  |
 | Patients with measurable disease | 210 | 212 | 215 |
 | Complete response, N (%) | 13 (6.2) | 5 (2.4) | 7 (3.3) |
 | Partial response, N (%) | 82 (39.0) | 64 (30.2) | 67 (31.2) |
 | Complete and partial response, N (%) | 95 (45.2) | 69 (32.5) | 74 (34.4) |
 | 95% CI | (38.5, 52.0) | (26.2, 38.9) | (28.1, 40.8) |
-| P-value | 0.0080* |  | - |
-| *Compared to irinotecan plus fluorouracil/leucovorin (IFL) arm. |  |  |  |
-| ‡ Based on all patients with measurable disease at baseline. |  |  |  |
-| †A hazard ratio of less than 1 favors Oxaliplatin + Infusional fluorouracil/leucovorin. |  |  |  |
+| P-value | 0.0080† |  | - |
+| *A hazard ratio of less than 1 favors Oxaliplatin + Infusional fluorouracil/leucovorin |  |  |  |
+| †Compared to irinotecan plus fluorouracil/leucovorin (IFL) arm |  |  |  |
+| ‡ Based on all patients with measurable disease at baseline |  |  |  |
 | The numbers in the response rate and TTP analysis are based on unblinded investigator assessment. |  |  |  |
 
 Figure 3: Kaplan-Meier Curves for Overall Survival in Previously Untreated Advanced Colorectal Cancer Trial
@@ -241,7 +241,7 @@ Table 22: Dosing Regimens in Refractory and Relapsed Colorectal Cancer Trial
 
 | Treatment Arm | Dose | Regimen |
 | --- | --- | --- |
-| Oxaliplatin + FU/LV (N =152) | Day 1: Oxaliplatin: 85 mg/m2 (2-hour infusion) + LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
+| Oxaliplatin + FU/LV (N=152) | Day 1: Oxaliplatin: 85 mg/m2 (2-hour infusion) + LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
 | FU/LV (N=151) | Day 1: LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
 | Oxaliplatin (N=156) | Day 1: Oxaliplatin 85 mg/m2 (2-hour infusion) | every 2 weeks |
 
