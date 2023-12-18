@@ -24,11 +24,11 @@ The major route of resistance is modification of the 23S rRNA in the 50S ribosom
 
 ### Interactions With Other Antimicrobials
 
-Antagonism exists in vitro between erythromycin and clindamycin, lincomycin, and chloramphenicol.
+Antagonism exists in vitrobetween erythromycin and clindamycin, lincomycin, and chloramphenicol.
 
 ### Antimicrobial Activity
 
-Erythromycin has been shown to be active against most isolates of the following microorganisms both in vitro and in clinical infections [see Indications and Usage (1)].
+Erythromycin has been shown to be active against most isolates of the following microorganisms both in vitroand in clinical infections [see Indications and Usage (1)].
 
 Aerobic bacteria
 
@@ -44,8 +44,8 @@ Other microorganisms:
 
 Chlamydia trachomatis Entamoeba histolytica Mycoplasma pneumoniae Treponema pallidum Ureaplasma urealyticum
 
-The following in vitro data are available, but their clinical significance is unknown.
-At least 90 percent of the following bacteria exhibit in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for erythromycin against isolates of similar genus or organism group.
+The following in vitrodata are available, but their clinical significance is unknown.
+At least 90 percent of the following bacteria exhibit in vitrominimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for erythromycin against isolates of similar genus or organism group.
 However, the efficacy of erythromycin in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
 
 Aerobic bacteria

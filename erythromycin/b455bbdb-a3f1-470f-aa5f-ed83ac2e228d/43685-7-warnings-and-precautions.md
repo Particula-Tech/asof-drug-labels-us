@@ -17,17 +17,17 @@ Elderly patients may be more susceptible to drug-associated effects on the QT in
 There have been reports suggesting that erythromycin does not reach the fetus in adequate concentration to prevent congenital syphilis.
 Infants born to women treated during pregnancy with oral erythromycin for early syphilis should be treated with an appropriate penicillin regimen.
 
-## Clostridium difficile Associated Diarrhea
+## Clostridium difficileAssociated Diarrhea
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including E.E.S., and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficileassociated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including E.E.S., and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
-C. difficile produces toxins A and B which contribute to the development of CDAD.
-Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+C. difficileproduces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficilecause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficilemay need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 ## Drug Interactions
@@ -48,13 +48,14 @@ Therefore, patients receiving concomitant lovastatin and erythromycin should be 
 
 Prescribing E.E.S. in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-Since erythromycin is principally excreted by the liver, caution should be exercised when erythromycin is administered to patients with impaired hepatic function (see CLINICAL PHARMACOLOGY and WARNINGS sections).
+Since erythromycin is principally excreted by the liver, caution should be exercised when erythromycin is administered to patients with impaired hepatic function (see CLINICAL PHARMACOLOGYand WARNINGSsections).
 
 Exacerbation of symptoms of myasthenia gravis and new onset of symptoms of myasthenic syndrome have been reported in patients receiving erythromycin therapy.
 
 There have been reports of infantile hypertrophic pyloric stenosis (IHPS) occurring in infants following erythromycin therapy.
 In one cohort of 157 newborns who were given erythromycin for pertussis prophylaxis, seven neonates (5%) developed symptoms of non-bilious vomiting or irritability with feeding and were subsequently diagnosed as having IHPS requiring surgical pyloromyotomy.
-A possible dose-response effect was described with an absolute risk of IHPS of 5.1% for infants who took erythromycin for 8 to 14 days and 10% for infants who took erythromycin for 15 to 21 days.2 Since erythromycin may be used in the treatment of conditions in infants which are associated with significant mortality or morbidity (such as pertussis or neonatal Chlamydia trachomatis infections), the benefit of erythromycin therapy needs to be weighed against the potential risk of developing IHPS.
+A possible dose-response effect was described with an absolute risk of IHPS of 5.1% for infants who took erythromycin for 8 to 14 days and 10% for infants who took erythromycin for 15 to 21 days.
+2Since erythromycin may be used in the treatment of conditions in infants which are associated with significant mortality or morbidity (such as pertussis or neonatal Chlamydia trachomatisinfections), the benefit of erythromycin therapy needs to be weighed against the potential risk of developing IHPS.
 Parents should be informed to contact their physician if vomiting or irritability with feeding occurs.
 
 Prolonged or repeated use of erythromycin may result in an overgrowth of nonsusceptible bacteria or fungi.
@@ -132,7 +133,7 @@ Concomitant administration of erythromycin with cisapride, pimozide, astemizole,
 In addition, there have been reports of interactions of erythromycin with drugs not thought to be metabolized by CYP3A, including hexobarbital, phenytoin, and valproate.
 
 Erythromycin has been reported to significantly alter the metabolism of the nonsedating antihistamines terfenadine and astemizole when taken concomitantly.
-Rare cases of serious cardiovascular adverse events, including electrocardiographic QT/QTc interval prolongation, cardiac arrest, torsades de pointes, and other ventricular arrhythmias have been observed (see CONTRAINDICATIONS).
+Rare cases of serious cardiovascular adverse events, including electrocardiographic QT/QT cinterval prolongation, cardiac arrest, torsades de pointes, and other ventricular arrhythmias have been observed (see CONTRAINDICATIONS).
 In addition, deaths have been reported rarely with concomitant administration of terfenadine and erythromycin.
 
 There have been post-marketing reports of drug interactions when erythromycin is co-administered with cisapride, resulting in QT prolongation, cardiac arrhythmias, ventricular tachycardia, ventricular fibrillation, and torsades de pointes, most likely due to inhibition of hepatic metabolism of cisapride by erythromycin.
@@ -175,17 +176,17 @@ Caution should be exercised when erythromycin is administered to a nursing woman
 
 ## Pediatric Use
 
-See INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION sections.
+See INDICATIONS AND USAGEand DOSAGE AND ADMINISTRATIONsections.
 
 ## Geriatric Use
 
-Elderly patients, particularly those with reduced renal or hepatic function, may be at increased risk for developing erythromycin-induced hearing loss (see ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
+Elderly patients, particularly those with reduced renal or hepatic function, may be at increased risk for developing erythromycin-induced hearing loss (see ADVERSE REACTIONSand DOSAGE AND ADMINISTRATION).
 
 Elderly patients may be more susceptible to the development of torsades de pointes arrhythmias than younger patients (see WARNINGS).
 
 Elderly patients may experience increased effects of oral anticoagulant therapy while undergoing treatment with erythromycin (see PRECAUTIONS – Drug Interactions).
 
-E.E.S.® Granules contains 25.9 mg (1.1 mEq) of sodium per individual dose.
+E.E.S. ®Granules contains 25.9 mg (1.1 mEq) of sodium per individual dose.
 
 The geriatric population may respond with a blunted natriuresis to salt loading.
 This may be clinically important with regard to such diseases as congestive heart failure.

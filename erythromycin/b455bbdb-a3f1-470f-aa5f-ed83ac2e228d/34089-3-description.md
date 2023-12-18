@@ -1,11 +1,11 @@
 # DESCRIPTION
 
-Erythromycin is produced by a strain of Saccharopolyspora erythraea (formerly Streptomyces erythraeus) and belongs to the macrolide group of antibiotics.
+Erythromycin is produced by a strain of Saccharopolyspora erythraea(formerly Streptomyces erythraeus) and belongs to the macrolide group of antibiotics.
 It is basic and readily forms salts with acids.
 The base, the stearate salt, and the esters are poorly soluble in water.
 Erythromycin ethylsuccinate is an ester of erythromycin suitable for oral administration.
 Erythromycin ethylsuccinate is known chemically as erythromycin 2'-(ethylsuccinate).
-The molecular formula is C43H75NO16 and the molecular weight is 862.06.
+The molecular formula is C 43H 75NO 16and the molecular weight is 862.06.
 The structural formula is:
 
 E.E.S.
@@ -33,7 +33,7 @@ E.E.S.
 Granules: Citric acid, FD&C Red No. 3, magnesium aluminum silicate, sodium carboxymethylcellulose, sodium citrate, sucrose and artificial flavor.
 
 E.E.S.
-400 film-coated tablets: confectioner's sugar (contains corn starch), corn starch, FD&C Red No. 40, magnesium stearate, polacrilin potassium, sodium citrate and Opadry® Pink 321A140035 (consists of the following ingredients: D&C Red #30, D&C Yellow #10, glycerol monocaprylocaprate, Macrogol (PEG) Polyvinyl Alcohol Graft Copolymer, polyvinyl alcohol partially hydrolyzed, talc and titanium dioxide.
+400 film-coated tablets: confectioner's sugar (contains corn starch), corn starch, FD&C Red No. 40, magnesium stearate, polacrilin potassium, sodium citrate and Opadry ®Pink 321A140035 (consists of the following ingredients: D&C Red #30, D&C Yellow #10, glycerol monocaprylocaprate, Macrogol (PEG) Polyvinyl Alcohol Graft Copolymer, polyvinyl alcohol partially hydrolyzed, talc and titanium dioxide.
 
 E.E.S.
 200 Liquid: FD&C Red No. 40, methylparaben, polysorbate 60, propylparaben, sodium citrate, sucrose, water, xanthan gum and natural and artificial flavors.

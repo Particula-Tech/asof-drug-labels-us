@@ -1,9 +1,8 @@
 # PRINCIPAL DISPLAY PANEL - 400 mg Tablet Bottle Label
 
-NDC 24338-100-03 30 Tablets
+NDC24338-100-03 30 Tablets
 
-E.E.S.
-400® Film-coated Tablets
+E.E.S.400 ® Film-coated Tablets
 
 ERYTHROMYCIN ETHYLSUCCINATE TABLETS, USP
 
@@ -15,9 +14,9 @@ arbor® PHARMACEUTICALS, LLC
 
 # PRINCIPAL DISPLAY PANEL - 100 mL Bottle Label
 
-NDC 24338-134-02 100 mL (when mixed) For Oral Suspension
+NDC24338-134-02 100 mL(when mixed) For Oral Suspension
 
-E.E.S.® Granules
+E.E.S.®Granules
 
 ERYTHROMYCIN ETHYLSUCCINATE FOR ORAL SUSPENSION, USP
 
@@ -29,9 +28,9 @@ arbor® PHARMACEUTICALS, INC.
 
 # PRINCIPAL DISPLAY PANEL - 5 mL Bottle Label
 
-NDC 24338-136-10 200 mL (when mixed) For Oral Suspension
+NDC24338-136-10 200 mL(when mixed) For Oral Suspension
 
-E.E.S.® Granules
+E.E.S.®Granules
 
 ERYTHROMYCIN ETHYLSUCCINATE FOR ORAL SUSPENSION, USP
 
