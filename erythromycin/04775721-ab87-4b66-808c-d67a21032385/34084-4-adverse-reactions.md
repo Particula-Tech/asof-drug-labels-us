@@ -3,7 +3,7 @@
 The most frequent side effects of oral erythromycin preparations are gastrointestinal and are dose-related.
 They include nausea, vomiting, abdominal pain, diarrhea and anorexia.
 Symptoms of hepatitis, hepatic dysfunction and/or abnormal liver function test results may occur.
-(See WARNINGS section.)
+(See WARNINGSsection.)
 
 Onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment.
 (See WARNINGS.)

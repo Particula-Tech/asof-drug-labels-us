@@ -14,13 +14,13 @@ The drug is excreted in human milk.
 
 ### Mechanism of Action
 
-Erythromycin acts by inhibition of protein synthesis by binding 50 S ribosomal subunits of susceptible organisms.
+Erythromycin acts by inhibition of protein synthesis by binding 50 Sribosomal subunits of susceptible organisms.
 It does not affect nucleic acid synthesis.
-Antagonism has been demonstrated in vitro between erythromycin and clindamycin, lincomycin, and chloramphenicol.
+Antagonism has been demonstrated in vitrobetween erythromycin and clindamycin, lincomycin, and chloramphenicol.
 
 ### Resistance
 
-Many strains of Haemophilus influenzae are resistant to erythromycin alone but are susceptible to erythromycin and sulfonamides used concomitantly.
+Many strains of Haemophilus influenzaeare resistant to erythromycin alone but are susceptible to erythromycin and sulfonamides used concomitantly.
 
 ### Interactions With Other Antimicrobials
 
@@ -28,14 +28,14 @@ Staphylococci resistant to erythromycin may emerge during a course of therapy.
 
 ### Antimicrobial Activity
 
-Erythromycin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
+Erythromycin has been shown to be active against most strains of the following microorganisms, both in vitroand in clinical infections as described in the INDICATIONS AND USAGEsection.
 
 Gram-positive Organisms:
 
 - Corynebacterium diphtheriae
 - Corynebacterium minutissimum
 - Listeria monocytogenes
-- Staphylococcus aureus (resistant organisms may emerge during treatment)
+- Staphylococcus aureus(resistant organisms may emerge during treatment)
 - Streptococcus pneumoniae
 - Streptococcus pyogenes
 
@@ -53,9 +53,9 @@ Other Microorganisms:
 - Treponema pallidum
 - Ureaplasma urealyticum
 
-The following in vitro data are available.
+The following in vitrodata are available.
 
-Erythromycin exhibits in vitro minimal inhibitory concentrations (MIC's) of 0.5 µg/mL or less against most (≥ 90%) strains of the following microorganisms; however, the safety and effectiveness of erythromycin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
+Erythromycin exhibits in vitrominimal inhibitory concentrations (MIC's) of 0.5 µg/mL or less against most (≥ 90%) strains of the following microorganisms; however, the safety and effectiveness of erythromycin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
 
 Gram-positive Organisms:
 

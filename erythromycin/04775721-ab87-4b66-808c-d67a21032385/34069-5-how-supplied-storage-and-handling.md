@@ -1,8 +1,8 @@
 # HOW SUPPLIED
 
-Ery-Ped 200 (erythromycin ethylsuccinate for oral suspension, USP) is supplied in bottles of 100 mL (NDC 24338-132-13)
+Ery-Ped 200 (erythromycin ethylsuccinate for oral suspension, USP) is supplied in bottles of 100 mL (NDC24338-132-13)
 
-Ery-Ped 400 (erythromycin ethylsuccinate for oral suspension, USP) is supplied in bottles of 100 mL (NDC 24338-130-13)
+Ery-Ped 400 (erythromycin ethylsuccinate for oral suspension, USP) is supplied in bottles of 100 mL (NDC24338-130-13)
 
 ## Recommended Storage
 

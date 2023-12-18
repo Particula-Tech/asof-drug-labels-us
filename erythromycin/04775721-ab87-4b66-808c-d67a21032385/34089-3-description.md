@@ -1,11 +1,11 @@
 # DESCRIPTION
 
-Erythromycin is produced by a strain of Saccharopolyspora erythraea (formerly Streptomyces erythraeus) and belongs to the macrolide group of antibiotics.
+Erythromycin is produced by a strain of Saccharopolyspora erythraea(formerly Streptomyces erythraeus) and belongs to the macrolide group of antibiotics.
 It is basic and readily forms salts with acids.
 The base, the stearate salt, and the esters are poorly soluble in water.
 Erythromycin ethylsuccinate is an ester of erythromycin suitable for oral administration.
 Erythromycin ethylsuccinate is known chemically as erythromycin 2'-(ethyl succinate).
-The molecular formula is C43H75NO16 and the molecular weight is 862.06.
+The molecular formula is C 43H 75NO 16and the molecular weight is 862.06.
 The structural formula is:
 
 Ery-Ped 200 (erythromycin ethylsuccinate for oral suspension) when reconstituted with water, forms a suspension containing erythromycin ethylsuccinate equivalent to 200 mg erythromycin per 5 mL (teaspoonful) or 100 mg per 2.5 mL (dropperful) with an appealing fruit flavor.

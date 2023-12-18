@@ -19,11 +19,11 @@ Infants born to women treated during pregnancy with oral erythromycin for early 
 
 ## Clostridium difficile Associated Diarrhea
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Ery-Ped, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficileassociated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Ery-Ped, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
-C. difficile produces toxins A and B which contribute to the development of CDAD.
-Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+C. difficileproduces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficilecause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
@@ -49,13 +49,14 @@ Therefore, patients receiving concomitant lovastatin and erythromycin should be 
 Prescribing Ery-Ped in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 Since erythromycin is principally excreted by the liver, caution should be exercised when erythromycin is administered to patients with impaired hepatic function.
-(See CLINICAL PHARMACOLOGY and WARNINGS sections.)
+(See CLINICAL PHARMACOLOGYand WARNINGSsections.)
 
 Exacerbation of symptoms of myasthenia gravis and new onset of symptoms of myasthenic syndrome has been reported in patients receiving erythromycin therapy.
 
 There have been reports of infantile hypertrophic pyloric stenosis (IHPS) occurring in infants following erythromycin therapy.
 In one cohort of 157 newborns who were given erythromycin for pertussis prophylaxis, seven neonates (5%) developed symptoms of non-bilious vomiting or irritability with feeding and were subsequently diagnosed as having IHPS requiring surgical pyloromyotomy.
-A possible dose-response effect was described with an absolute risk of IHPS of 5.1% for infants who took erythromycin for 8-14 days and 10% for infants who took erythromycin for 15-21 days.2 Since erythromycin may be used in the treatment of conditions in infants which are associated with significant mortality or morbidity (such as pertussis or neonatal Chlamydia trachomatis infections), the benefit of erythromycin therapy needs to be weighed against the potential risk of developing IHPS.
+A possible dose-response effect was described with an absolute risk of IHPS of 5.1% for infants who took erythromycin for 8-14 days and 10% for infants who took erythromycin for 15-21 days.
+2Since erythromycin may be used in the treatment of conditions in infants which are associated with significant mortality or morbidity (such as pertussis or neonatal Chlamydia trachomatisinfections), the benefit of erythromycin therapy needs to be weighed against the potential risk of developing IHPS.
 Parents should be informed to contact their physician if vomiting or irritability with feeding occurs.
 
 Prolonged or repeated use of erythromycin may result in an overgrowth of nonsusceptible bacteria or fungi.
@@ -129,7 +130,7 @@ Concomitant administration of erythromycin with cisapride, pimozide, astemizole,
 In addition, there have been reports of interactions of erythromycin with drugs not thought to be metabolized by CYP3A, including hexobarbital, phenytoin, and valproate.
 
 Erythromycin has been reported to significantly alter the metabolism of the nonsedating antihistamines terfenadine and astemizole when taken concomitantly.
-Rare cases of serious cardiovascular adverse events, including electrocardiographic QT/QTc interval prolongation, cardiac arrest, torsades de pointes, and other ventricular arrhythmias have been observed.
+Rare cases of serious cardiovascular adverse events, including electrocardiographic QT/QT cinterval prolongation, cardiac arrest, torsades de pointes, and other ventricular arrhythmias have been observed.
 (See CONTRAINDICATIONS.)
 In addition, deaths have been reported rarely with concomitant administration of terfenadine and erythromycin.
 
@@ -173,12 +174,12 @@ Caution should be exercised when erythromycin is administered to a nursing woman
 
 ## Pediatric Use
 
-See INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION sections.
+See INDICATIONS AND USAGEand DOSAGE AND ADMINISTRATIONsections.
 
 ## Geriatric Use
 
 Elderly patients, particularly those with reduced renal or hepatic function, may be at increased risk for developing erythromycin-induced hearing loss.
-(See ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
+(See ADVERSE REACTIONSand DOSAGE AND ADMINISTRATION).
 
 Elderly patients may be more susceptible to development of torsades de pointes arrhythmias than younger patients.
 (See WARNINGS).

@@ -33,7 +33,7 @@ For adult dosage calculation, use a ratio of 400 mg of erythromycin activity as 
 In the treatment of streptococcal infections, a therapeutic dosage of erythromycin ethylsuccinate should be administered for at least 10 days.
 In continuous prophylaxis against recurrences of streptococcal infections in persons with a history of rheumatic heart disease, the usual dosage is 400 mg twice a day.
 
-For treatment of urethritis due to C. trachomatis or U. urealyticum
+For treatment of urethritis due to C. trachomatisor U. urealyticum
 
 800 mg three times a day for 7 days.
 

@@ -1,8 +1,8 @@
 # PRINCIPAL DISPLAY PANEL - 200 mg per 5 mL Bottle Label
 
-NDC 24338-132-13 100 mL For Oral Suspension (when mixed)
+NDC24338-132-13 100 mL For Oral Suspension (when mixed)
 
-EryPed® 200
+EryPed®200
 
 ERYTHROMYCIN ETHYLSUCCINATE FOR ORAL SUSPENSION, USP
 
@@ -16,9 +16,9 @@ arbor® PHARMACEUTICALS, INC.
 
 # PRINCIPAL DISPLAY PANEL - 400 mg per 5 mL Bottle Label
 
-NDC 24338-130-13 100 mL For Oral Suspension (when mixed)
+NDC24338-130-13 100 mL For Oral Suspension (when mixed)
 
-EryPed® 400
+EryPed®400
 
 ERYTHROMYCIN ETHYLSUCCINATE FOR ORAL SUSPENSION, USP
 
