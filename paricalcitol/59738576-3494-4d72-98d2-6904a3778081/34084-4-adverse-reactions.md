@@ -62,12 +62,9 @@ Adverse Reactions by Body System Occurring in ≥ 2% of Subjects in the Paricalc
 | Vascular Disorders |  |  |  |  |
 | Hypertension | 7 | (7%) | 4 | (4%) |
 | Hypotension | 5 | (5%) | 3 | (3%) |
+| a. Includes only events more common in the paricalcitol treatment group. |  |  |  |  |
 
-a. Includes only events more common in the paricalcitol treatment group.
-
-Additional Adverse Reactions
-
-The following additional adverse reactions occurred in <2% of the paricalcitol-treated adult patients in the above double-blind, placebo-controlled clinical trial.
+Additional Adverse Reactions The following additional adverse reactions occurred in <2% of the paricalcitol-treated patients in the above double-blind, placebo-controlled clinical trial.
 
 Gastrointestinal Disorders: Dry mouth
 
@@ -75,10 +72,47 @@ Investigations: Hepatic enzyme abnormal
 
 Nervous System Disorders: Dysgeusia
 
-Skin and Subcutaneous Tissue Disorders: Urticaria Pediatric use information for patients 10 to 16 years of age is approved for AbbVie Inc.’s Zemplar (paricalcitol) capsules.
-However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Skin and Subcutaneous Tissue Disorders: Urticaria
 
-CKD Stage 5 Adults
+Pediatric patients 10 to 16 years of age
+
+The safety of paricalcitol capsules has been evaluated in one multicenter clinical study involving CKD Stages 3 and 4 patients ages 10 to 16 years.
+A 12-week double-blind, placebo-controlled phase was followed by an open-label phase during which all patients received paricalcitol capsules.
+
+During the 12-week blinded phase, a total of 18 patients received paricalcitol capsules and 18 patients received placebo.
+Adverse events occurring more frequently in the paricalcitol capsules group than in the placebo group are presented in Table 4.
+
+Table 4.
+Adverse Reactions by Body System Occurring in the Double-Blind, Placebo-Controlled, CKD Stages 3 and 4 Study in Patients Ages 10 to 16 Years
+
+|  | Number (%) of Subjects |  |  |  |
+| --- | --- | --- | --- | --- |
+| Adverse Eventa | Paricalcitol Capsules (n = 18) |  | Placebo (n = 18) |  |
+| Overall | 7 | (39%) | 16 | (89%) |
+| Gastrointestinal Disorders |  |  |  |  |
+| Nausea | 1 | (6%) | 0 | (0%) |
+| Infections and Infestations |  |  |  |  |
+| Conjunctivitis | 1 | (6%) | 0 | (0%) |
+| Rhinitis | 3 | (17%) | 0 | (0%) |
+| Renal and Urinary Disorders |  |  |  |  |
+| Micturition Urgency | 1 | (6%) | 0 | (0%) |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| Asthma | 1 | (6%) | 0 | (0%) |
+| a. Includes only events more common in the paricalcitol treatment group. |  |  |  |  |
+
+Additional Adverse Reactions
+
+The following adverse reactions have occurred in paricalcitol capsules-treated patients:
+
+Gastrointestinal Disorders: Abdominal pain, constipation, vomiting
+
+Metabolism and Nutrition Disorders: Hypercalcemia and hyperphosphatemia
+
+Nervous System Disorders: Headache
+
+CKD Stage 5
+
+Adults
 
 The safety of paricalcitol capsules has been evaluated in one 12-week, double-blind, placebo-controlled, multicenter clinical study involving 88 CKD Stage 5 patients.
 Sixty-one patients received paricalcitol capsules and 27 patients received placebo.
@@ -117,8 +151,7 @@ Adverse Reactions by Body System Occurring in ≥ 2% of Subjects in the Paricalc
 | Insomnia | 3 | (5%) | 0 | (0%) |
 | Renal and Urinary Disorders |  |  |  |  |
 | Renal Failure Chronic | 2 | (3%) | 0 | (0%) |
-
-a. Includes only events more common in the paricalcitol treatment group.
+| a. Includes only events more common in the paricalcitol treatment group. |  |  |  |  |
 
 Additional Adverse Reactions
 
@@ -130,8 +163,19 @@ Metabolism and Nutrition Disorders: Decreased appetite, hypercalcemia, hypocalce
 
 Reproductive System and Breast Disorders: Breast tenderness
 
-Skin and Subcutaneous Tissue Disorders: Acne Pediatric use information for patients 10 to 16 years of age is approved for AbbVie Inc.’s Zemplar (paricalcitol) capsules.
-However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Skin and Subcutaneous Tissue Disorders:Acne
+
+Pediatric patients 10 to 16 years of age
+
+The safety of paricalcitol capsules has been evaluated in one 12-week, open-label, single-arm, multicenter clinical studies involving 13 CKD Stage 5 patients ages 10 to 16 years of age receiving peritoneal dialysis or hemodialysis.
+
+The following adverse reactions were reported:
+
+Gastrointestinal Disorders: Abdominal pain, diarrhea, nausea, vomiting
+
+Metabolism and Nutrition Disorders: Hypercalcemia, hyperphosphatemia
+
+Three of 13 patients (23%) had hypercalcemia defined as at least 2 consecutive serum calcium values >10.2 mg/dL (2.55 mmol/L).
 
 ## 6.2 Postmarketing Experience
 

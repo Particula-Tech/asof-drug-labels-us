@@ -36,11 +36,43 @@ If a further dose reduction is required, the drug should be withheld as needed a
 
 Initial Dose Administer the dose of paricalcitol capsules orally three times a week, no more frequently than every other day based upon the following formula: Dose (micrograms) = baseline iPTH (pg/mL) divided by 80 Treat patients only after their baseline serum calcium has been adjusted to 9.5 mg/dL or lower to minimize the risk of hypercalcemia [see Clinical Pharmacology (12.2) and Clinical Studies (14.2)].
 Dose Titration Individualize the dose of paricalcitol capsules based on iPTH, serum calcium and phosphorus levels.
-Titrate paricalcitol capsules dose based on the following formula: Dose (micrograms) = most recent iPTH level (pg/ml) divided by 80 If serum calcium is elevated, the dose should be decreased by 2 to 4 micrograms.
+Titrate paricalcitol capsules dose based on the following formula: Dose (micrograms) = most recent iPTH level (pg/mL) divided by 80 If serum calcium is elevated, the dose should be decreased by 2 to 4 micrograms.
 As iPTH approaches the target range, small, individualized dose adjustments may be necessary in order to achieve a stable iPTH.
 In situations where monitoring of iPTH, Ca or P occurs less frequently than once per week, a more modest initial and dose titration ratio (e.g., iPTH divided by 100) may be warranted.
-Pediatric use information for patients 10 to 16 years of age is approved for AbbVie Inc.’s Zemplar (paricalcitol) capsules.
-However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+## 2.3 Pediatric Patients (Ages 10 to 16 Years)
+
+CKD Stages 3 and 4
+
+Initial Dose
+
+Administer paricalcitol 1 mcg capsule orally three times a week, no more frequently than every other day.
+
+Dose Titration
+
+Individualize and titrate paricalcitol capsules dose based on iPTH, serum calcium and phosphorus levels to maintain an iPTH level within target range.
+
+Every 4 weeks, each administered paricalcitol capsules dose may be increased in 1 mcg increments, maintaining the three times per week regimen (e.g., increase from 1 mcg three times per week to 2 mcg three times per week).
+At any time, each administered dose may be decreased by 1 mcg.
+Paricalcitol capsules may be stopped if the patient requires reduction while receiving 1 mcg three times per week, resuming when appropriate.
+
+CKD Stage 5
+
+Initial Dose
+
+Administer the dose of paricalcitol capsules orally three times a week, no more frequently than every other day based upon the following formula:
+
+Dose* (micrograms) = baseline iPTH (pg/mL) divided by 120
+
+* Round down to the nearest whole number
+
+Dose Titration
+
+Subsequent dosing should be individualized and based on iPTH, serum calcium and phosphorus levels to maintain an iPTH level within target range.
+
+Every 4 weeks, each administered paricalcitol capsules dose may be increased in 1 mcg increments, maintaining the three times per week regimen (e.g., increase from 1 mcg three times per week to 2 mcg three times per week).
+At any time, each administered dose may be decreased by 2 mcg.
+Paricalcitol capsules may be stopped if the patient requires reduction while receiving 2 mcg three times per week or 1 mcg three times per week, resuming when appropriate.
 
 ## 2.4 Monitoring
 

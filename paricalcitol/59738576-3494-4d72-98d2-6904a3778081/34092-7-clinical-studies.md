@@ -50,8 +50,30 @@ Mean Changes from Baseline to Final Treatment Visit in Serum iPTH, Bone Specific
 | Mean Final Treatment Value | 4.3 | 4.3 |
 | Mean Change from Baseline (SE) | +0.3 (0.08) | +0.3 (0.08) |
 
-Pediatric use information for patients 10 to 16 years of age is approved for AbbVie Inc.’s Zemplar (paricalcitol) capsules.
-However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric patients 10 to 16 years of age
+
+The safety and efficacy of paricalcitol capsules were evaluated in a 12-week, double-blind, placebo-controlled, randomized, multicenter study in pediatric patients ages 10 to 16 years with CKD Stages 3 and 4.
+A total of 18 patients received paricalcitol capsules and 18 patients received placebo during the blinded phase of the study.
+The mean age of the patients was 13.6 years, 69% were male, 86% were Caucasian, and 8% were Asian.
+The initial dose of paricalcitol capsules was 1 mcg three times a week.
+Serum iPTH, calcium, and phosphorus levels were monitored every 2 to 4 weeks with a goal to maintain levels within target ranges: iPTH 35 to 70 pg/mL for CKD stage 3, iPTH 70 to 100 pg/mL for CKD stage 4, calcium < 10.2 mg/dL, phosphorous < 5.8 mg/dL.
+Starting at Treatment Week 4 and every 4 weeks thereafter, doses may have been increased in 1 mcg increments three times a week (e.g., increase from 1 mcg three times per week to 2 mcg three times per week) based upon safety observations and blood chemistry evaluations.
+Each administered dose could be decreased in 1 mcg increments three times a week, or held if the patient was receiving a 1 mcg dose, as appropriate at any time.
+The average cumulative weekly dose of paricalcitol capsules was 4 mcg/week during the 12 week blinded treatment period.
+
+The primary efficacy endpoint, the proportion of Stage 3 and 4 patients achieving two consecutive ≥ 30% reductions from baseline in iPTH levels, was statistically significant during the 12-week blinded phase.
+Results are shown in Table 10.
+
+Table 10.
+Changes in iPTH from Baseline in the CKD Stages 3 and 4 Pediatric Study
+
+| Phase/Treatment | Two Consecutive ≥ 30% Reductions From Baseline in iPTH Levelsa |
+| --- | --- |
+| Blinded Phase |  |
+| Placebo | 0/18 (0%) |
+| Paricalcitol Capsules | 5/18 (28%)* |
+| * p < 0.05 compared to placebo |  |
+| a. The analysis treats 3 patients on paricalcitol and 1 patient on placebo with unknown response status as non-responders. |  |
 
 ## 14.2 Chronic Kidney Disease Stage 5
 

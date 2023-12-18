@@ -28,9 +28,7 @@ The predicted incidence of hypercalcemia is 12.4% (95% CI: 11.7% to 13%) [see Cl
 
 ## 12.3 Pharmacokinetics
 
-Absorption
-
-The mean absolute bioavailability of paricalcitol capsules under low-fat fed condition ranged from 72% to 86% in healthy adult volunteers, CKD Stage 5 patients on HD, and CKD Stage 5 patients on PD.
+Absorption The mean absolute bioavailability of paricalcitol capsules under low-fat fed condition ranged from 72% to 86% in healthy adult volunteers, CKD Stage 5 patients on HD, and CKD Stage 5 patients on PD.
 A food effect study in healthy adult volunteers indicated that the Cmax and AUC0-∞ were unchanged when paricalcitol was administered with a high fat meal compared to fasting.
 Food delayed Tmax by about 2 hours.
 The AUC0-∞ of paricalcitol increased proportionally over the dose range of 0.06 to 0.48 mcg/kg in healthy adult volunteers.
@@ -78,8 +76,20 @@ The pharmacokinetics of paricalcitol has not been investigated in geriatric pati
 
 Pediatric
 
-Pediatric use information for patients 10 to 16 years of age is approved for AbbVie Inc.’s Zemplar (paricalcitol) capsules.
-However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Paricalcitol Cmax, AUC, and t1/2 values were similar between Stage 3 and Stage 4 CKD pediatric patients 10 to 16 years of age.
+Population pharmacokinetic analysis shows that the pharmacokinetics of paricalcitol in Stage 5 CKD pediatric patients appear to be similar to those observed in Stage 3 and Stage 4 pediatric patients.
+
+Table 8.
+Paricalcitol Capsules Pharmacokinetic Parameters (mean ± SD) in CKD Stages 3 and 4 Patients 10 to 16 Years of Age
+
+| Pharmacokinetic Parameter (units) | CKD Stage 3 n = 6 | CKD Stage 4 N = 5 |
+| --- | --- | --- |
+| Cmax (ng/mL) | 0.12 ± 0.06 | 0.13 ± 0.05 |
+| AUC∞ (ng•h/mL) | 2.63 ± 0.76 | 3.2 ± 0.99 |
+| CL/F (L/h) | 1.23 ± 0.38 | 1.02 ± 0.35 |
+| V/F (L) | 27.78 ± 18.60 | 24.36 ± 5.92 |
+| t1/2 (h) | 15.0 ± 6.1 | 17.5 ± 5.9 |
+| * Three 1 mcg paricalcitol capsules were given to CKD Stage 3 or 4 patients. |  |  |
 
 Gender
 
@@ -101,7 +111,6 @@ Drug Interactions
 
 An in vitro study indicates that paricalcitol is neither an inhibitor of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 or CYP3A nor an inducer of CYP2B6, CYP2C9 or CYP3A.
 Hence, paricalcitol is neither expected to inhibit nor induce the clearance of drugs metabolized by these enzymes.
-
 Omeprazole
 
 The effect of omeprazole (40 mg capsule), a strong inhibitor of CYP2C19, on paricalcitol (four 4 mcg capsules) pharmacokinetics was investigated in a single dose, crossover study in healthy subjects.

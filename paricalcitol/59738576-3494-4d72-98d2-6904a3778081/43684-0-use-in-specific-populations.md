@@ -35,9 +35,14 @@ Exposure of the pups to [3H] paricalcitol through milk was confirmed by the pres
 
 ## 8.4 Pediatric Use
 
+The safety and effectiveness of paricalcitol capsules have been established in pediatric patients 10 to 16 years of age for the prevention and treatment of secondary hyperparathyroidism associated with Stage 3, 4, and 5 CKD.
+
+Use of paricalcitol capsules in this age group is supported by evidence from adequate and well controlled studies in adults with CKD, a 12-week double-blind placebo-controlled randomized multicenter study in 36 pediatric patients 10 to 16 years of age with CKD Stages 3 and 4, and safety data from a 12-week open-label single-arm multicenter study in 13 pediatric patients 10 to 16 years of age with CKD Stage 5 receiving peritoneal dialysis or hemodialysis.
+The pharmacokinetics of paricalcitol in Stage 5 CKD pediatric patients appear to be similar to those observed in Stage 3 and 4 pediatric patients [see Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
+
+Adverse reactions reported in these pediatric studies are consistent with the known safety profile of paricalcitol capsules and with what has been reported in adult clinical studies [see Adverse Reactions (6.1)].
+
 Safety and effectiveness of paricalcitol capsules in pediatric patients under the age of 10 years have not been established.
-Pediatric use information for patients 10 to 16 years of age is approved for AbbVie Inc.’s Zemplar (paricalcitol) capsules.
-However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 
