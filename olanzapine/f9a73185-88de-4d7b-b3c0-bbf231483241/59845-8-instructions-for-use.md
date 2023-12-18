@@ -51,7 +51,7 @@
 | 4.8 | Engage the needle safety device. |  |  |  |  |  |  |  |
 | 4.9 | Dispose of the vials, needles, and syringe appropriately after injection. The vial is for single-dose only. |  |  |  |  |  |  |  |
 | Zyprexa® Relprevv® is a registered trademark of Eli Lilly and Company. |  |  |  |  |  |  |  |  |
-| Copyright © 2009, 2021, Eli Lilly and Company. All rights reserved. |  |  |  |  |  |  |  |  |
+| Copyright © 2009, 2021 Eli Lilly and Company. All rights reserved. |  |  |  |  |  |  |  |  |
 | Literature revised: Feb 26, 2021 |  |  |  |  |  |  |  |  |
 | ZYPR-0003-IFU-20210226 |  |  |  |  |  |  |  |  |
 | Smiths Medical Jelco® Hypodermic Needle-Pro® Needle With Needle Protection Device |  |  |  |  |  |  |  |  |
