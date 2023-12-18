@@ -35,5 +35,5 @@ Infertility
 
 Manufactured by: Tolmar, Fort Collins, CO 80526 ©2023 Tolmar
 
-04005921 Rev.
-6 09/23
+04006512 Rev.
+1 07/23
