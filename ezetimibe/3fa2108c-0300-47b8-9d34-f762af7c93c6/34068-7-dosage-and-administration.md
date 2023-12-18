@@ -2,7 +2,7 @@
 
 ## 2.1 Recommended Dosage
 
-The recommended dosage of NEXLIZET, in combination with maximally tolerated statin therapy, is one tablet orally once daily.
+The recommended dosage of NEXLIZET, in combination with statin therapy, is one tablet orally once daily.
 One tablet of NEXLIZET contains 180 mg of bempedoic acid and 10 mg of ezetimibe.
 
 Swallow the tablet whole.
