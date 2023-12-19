@@ -8,19 +8,25 @@ Advise patients, their families and caregivers to look for the emergence of suic
 
 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of escitalopram with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines and St. John's Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see Warnings and Precautions (5.2)].
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of escitalopram with other serotonergic drugs including triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines and St. John's Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) Instruct patients to contact their health care provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [see Warnings and Precautions (5.2), Drug Interactions (7)].
+
+Discontinuation Syndrome
+
+Advise patients not to abruptly discontinue escitalopram and to discuss any tapering regimen with their healthcare provider.
+Inform patients that adverse reactions can occur when escitalopram is discontinued [see Warnings and Precautions (5.3)].
 
 Activation of Mania or Hypomania
 
 Advise patients and their caregivers to observe for signs of activation of mania/hypomania and instruct them to report such symptoms to the healthcare provider [see Warnings and Precautions (5.5)].
 
-Abnormal Bleeding
+Increased Risk of Bleeding
 
-Patients should be cautioned about the concomitant use of escitalopram and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.7)].
+Inform patients about the concomitant use of escitalopram with NSAIDs, aspirin, warfarin, other antiplatelet drugs, or other anticoagulants because the combined use has been associated with an increased risk of bleeding.
+Advise patients to inform their healthcare providers if they are taking or planning to take any prescription or over-the-counter medications that increase the risk of bleeding [see Warnings and Precautions (5.7)].
 
 Angle Closure Glaucoma
 
-Patients should be advised that taking escitalopram can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
+Advise patients that taking escitalopram can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
 Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.9)].
@@ -34,10 +40,6 @@ Concomitant Medications
 
 Since escitalopram is the active isomer of racemic citalopram (Celexa), the two agents should not be coadministered.
 Patients should be advised to inform their physician if they are taking, or plan to take, any prescription or over-the-counter drugs, as there is a potential for interactions.
-
-Continuing the Therapy Prescribed
-
-While patients may notice improvement with escitalopram tablets therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
 
 Interference with Psychomotor Performance
 
@@ -59,15 +61,6 @@ Lactation
 
 Advise breastfeeding women using escitalopram tablets to monitor infants for excess sedation, restlessness, agitation, poor feeding and poor weight gain and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
 
-Need for Comprehensive Treatment Program
-
-Escitalopram tablets is indicated as an integral part of a total treatment program for MDD that may include other measures (psychological, educational, social) for patients with this syndrome.
-Drug treatment may not be indicated for all adolescents with this syndrome.
-Safety and effectiveness of escitalopram tablets in MDD has not been established in pediatric patients less than 12 years of age.
-Antidepressants are not intended for use in the adolescent who exhibits symptoms secondary to environmental factors and/or other primary psychiatric disorders.
-Appropriate educational placement is essential and psychosocial intervention is often helpful.
-When remedial measures alone are insufficient, the decision to prescribe antidepressant medication will depend upon the physician's assessment of the chronicity and severity of the patient's symptoms.
-
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
@@ -84,6 +77,4 @@ Goa 403 722
 
 INDIA
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Revised: March 2022 ID#: 269215
+Revised: November 2023 ID#: XXXXX

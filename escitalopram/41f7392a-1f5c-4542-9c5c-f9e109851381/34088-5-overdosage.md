@@ -11,4 +11,4 @@ Prolonged cardiac monitoring is recommended in Escitalopram overdosage ingestion
 
 Gastrointestinal decontamination with activated charcoal should be considered in patients who present early after a Escitalopram overdose.
 
-Consider contacting a poison center (1-800-221-2222) or a medical toxicologist for overdosage management recommendations.
+Consider contacting a poison center (1-800-221-2222) or a medical toxicologist for additional overdosage management recommendations.
