@@ -203,16 +203,16 @@ Table 5 - Non-Hematologic Adverse Reactions in Breast Cancer Patients Previously
 | NA = not available |  |  |  |
 
 In the three-arm monotherapy trial, TAX313, which compared docetaxel 60 mg/m2, 75 mg/m2 and 100 mg/m2 in advanced breast cancer, grade 3/4 or severe adverse reactions occurred in 49.0% of patients treated with docetaxel 60 mg/m2 compared to 55.3% and 65.9% treated with 75 mg/m2 and 100 mg/m2 respectively.
-Discontinuation due to adverse reactions was reported in 5.3% of patients treated with 60 mg/m2 versus 6.9% and 16.5% for patients treated at 75 mg/m2 and 100 mg/m2 respectively.
-Deaths within 30 days of last treatment occurred in 4.0% of patients treated with 60 mg/m2 compared to 5.3% and 1.6% for patients treated at 75 mg/m2 and 100 mg/m2 respectively.
+Discontinuation due to adverse reactions was reported in 5.3% of patients treated with 60 mg/m2 versus 6.9% and 16.5% for patients treated at 75 mg/m2 and 100 mg/m2, respectively.
+Deaths within 30 days of last treatment occurred in 4.0% of patients treated with 60 mg/m2 compared to 5.3% and 1.6% for patients treated at 75 mg/m2 and 100 mg/m2, respectively.
 
-The following adverse reactions were associated with increasing docetaxel doses: fluid retention (26%, 38%, and 46% at 60 mg/m2, 75 mg/m2, and 100 mg/m2 respectively), thrombocytopenia (7%, 11% and 12% respectively), neutropenia (92%, 94%, and 97% respectively), febrile neutropenia (5%, 7%, and 14% respectively), treatment-related grade 3/4 infection (2%, 3%, and 7% respectively) and anemia (87%, 94%, and 97% respectively).
+The following adverse reactions were associated with increasing docetaxel doses: fluid retention (26%, 38%, and 46% at 60 mg/m2, 75 mg/m2, and 100 mg/m2, respectively), thrombocytopenia (7%, 11% and 12%, respectively), neutropenia (92%, 94%, and 97% respectively), febrile neutropenia (5%, 7%, and 14%, respectively), treatment-related grade 3/4 infection (2%, 3%, and 7%, respectively) and anemia (87%, 94%, and 97%, respectively).
 
 Combination therapy with docetaxel in the adjuvant treatment of breast cancer
 
-The following table presents treatment emergent adverse reactions observed in 744 patients, who were treated with docetaxel 75 mg/m2 every 3 weeks in combination with doxorubicin and cyclophosphamide (see Table 6).
+The following table presents treatment -emergent adverse reactions observed in 744 patients, who were treated with docetaxel 75 mg/m2 every 3 weeks in combination with doxorubicin and cyclophosphamide (see Table 6).
 
-Table 6 - Clinically Important Treatment Emergent Adverse Reactions Regardless of Causal Relationship in Patients Receiving Docetaxel in Combination with Doxorubicin and Cyclophosphamide (TAX316)
+Table 6 - Clinically Important Treatment -Emergent Adverse Reactions Regardless of Causal Relationship in Patients Receiving Docetaxel in Combination with Doxorubicin and Cyclophosphamide (TAX316)
 
 |  | Docetaxel 75 mg/m2+ Doxorubicin 50 mg/m2+ Cyclophosphamide 500mg/m2 (TAC)n=744% |  | Fluorouracil 500 mg/m2+ Doxorubicin 50 mg/m2+ Cyclophosphamide 500 mg/m2 (FAC)n=736% |  |
 | --- | --- | --- | --- | --- |
@@ -255,7 +255,7 @@ Table 6 - Clinically Important Treatment Emergent Adverse Reactions Regardless o
 | Lacrimation disorder | 11 | 0 | 7 | 0 |
 | Conjunctivitis | 5 | 0 | 7 | 0 |
 
-Of the 744 patients treated with TAC, 36.3% experienced severe treatment emergent adverse reactions compared to 26.6% of the 736 patients treated with FAC.
+Of the 744 patients treated with TAC, 36.3% experienced severe treatment -emergent adverse reactions compared to 26.6% of the 736 patients treated with FAC.
 Dose reductions due to hematologic toxicity occurred in 1% of cycles in the TAC arm versus 0.1% of cycles in the FAC arm.
 Six percent of patients treated with TAC discontinued treatment due to adverse reactions, compared to 1.1% treated with FAC; fever in the absence of infection and allergy being the most common reasons for withdrawal among TAC-treated patients.
 Two patients died in each arm within 30 days of their last study treatment; 1 death per arm was attributed to study drugs.
@@ -263,7 +263,7 @@ Two patients died in each arm within 30 days of their last study treatment; 1 de
 Fever and Infection
 
 During the treatment period, fever in the absence of infection was seen in 46.5% of TAC-treated patients and in 17.1% of FAC-treated patients.
-Grade 3/4 fever in the absence of infection was seen in 1.3% and 0% of TAC- and FAC-treated patients respectively.
+Grade ¾ fever in the absence of infection was seen in 1.3% and 0% of TAC- and FAC-treated patients respectively.
 Infection was seen in 39.4% of TAC-treated patients compared to 36.3% of FAC-treated patients.
 Grade 3/4 infection was seen in 3.9% and 2.2% of TAC-treated and FAC-treated patients respectively.
 There were no septic deaths in either treatment arm during the treatment period.
@@ -327,7 +327,7 @@ Docetaxel 75 mg/m2: Treatment-emergent adverse drug reactions are shown in Table
 Included in this table are safety data for a total of 176 patients with non-small cell lung carcinoma and a history of prior treatment with platinum-based chemotherapy who were treated in two randomized, controlled trials.
 These reactions were described using NCI Common Toxicity Criteria regardless of relationship to study treatment, except for the hematologic toxicities or where otherwise noted.
 
-Table 7 - Treatment Emergent Adverse Reactions Regardless of Relationship to Treatment in Patients Receiving Docetaxel as Monotherapy for Non-Small Cell Lung Cancer Previously Treated with Platinum-Based Chemotherapy*
+Table 7 - Treatment -Emergent Adverse Reactions Regardless of Relationship to Treatment in Patients Receiving Docetaxel as Monotherapy for Non-Small Cell Lung Cancer Previously Treated with Platinum-Based Chemotherapy*
 
 | Adverse Reaction | Docetaxel75 mg/m2n=176% | Best Supportive Caren=49% | Vinorelbine/ Ifosfamiden=119% |
 | --- | --- | --- | --- |
@@ -602,9 +602,9 @@ Body as a whole: diffuse pain, chest pain, radiation recall phenomenon, injectio
 Cardiovascular: atrial fibrillation, deep vein thrombosis, ECG abnormalities, thrombophlebitis, pulmonary embolism, syncope, tachycardia, myocardial infarction.
 Ventricular arrhythmia, including ventricular tachycardia, in patients treated with docetaxel in combination regimens including doxorubicin, 5-fluorouracil and/or cyclophosphamide, may be associated with fatal outcome.
 
-Cutaneous: cutaneous lupus erythematosus, bullous eruptions such as erythema multiforme and severe cutaneous adverse reactions (SCARs) such as Stevens-Johnson syndrome, toxic epidermal necrolysis, and acute generalized exanthematous pustulosis, scleroderma-like changes (usually preceded by peripheral lymphedema), severe palmar-plantar erythrodysesthesia and permanent alopecia.
+Cutaneous: cutaneous lupus erythematosus, bullous eruptions such as erythema multiforme and severe cutaneous adverse reactions (SCARs) such as Stevens-Johnson syndrome, toxic epidermal necrolysis, and acute generalized exanthematous pustulosis, scleroderma-like changes (usually preceded by peripheral lymphedema), severe palmar-plantar erythrodysesthesia, and permanent alopecia.
 
-Gastrointestinal: enterocolitis, including colitis, ischemic colitis, and neutropenic enterocolitis, which may be fatal.
+Gastrointestinal:enterocolitis, including colitis, ischemic colitis, and neutropenic enterocolitis, which may be fatal.
 Abdominal pain, anorexia, constipation, duodenal ulcer, esophagitis, gastrointestinal hemorrhage, gastrointestinal perforation, intestinal obstruction, ileus, and dehydration as a consequence of gastrointestinal events.
 
 Hearing: ototoxicity, hearing disorders and/or hearing loss, including during use with other ototoxic drugs.

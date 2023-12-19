@@ -85,7 +85,7 @@ Patients developing peripheral edema may be treated with standard measures, e.g.
 
 ## 5.7 Second Primary Malignancies
 
-Second primary malignancies, notably acute myeloid leukemia (AML), myelodysplastic syndrome (MDS), Non-Hodgkin’s Lymphoma (NHL), and renal cancer, have been reported in patients treated with docetaxel-containing regimens.
+Second primary malignancies, notably acute myeloid leukemia (AML), myelodysplastic syndrome (MDS), non-Hodgkin’s lymphoma (NHL), and renal cancer, have been reported in patients treated with docetaxel-containing regimens.
 These adverse reactions may occur several months or years after docetaxel-containing therapy.
 
 Treatment-related AML or MDS has occurred in patients given anthracyclines and/or cyclophosphamide, including use in adjuvant therapy for breast cancer.
@@ -132,8 +132,8 @@ In animal reproduction studies, administration of docetaxel to pregnant rats and
 
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
 Verify pregnancy status in females of reproductive potential prior to initiating docetaxel.
-Advise females of reproductive potential to use effective contraception during treatment and for 6 months after the last dose of Docetaxel Injection.
-Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of Docetaxel Injection [see Use in Specific Populations (8.1, 8.3)].
+Advise females of reproductive potential to use effective contraception during treatment and for 2 months after the last dose of Docetaxel Injection.
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after the last dose of Docetaxel Injection [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.13 Alcohol Content
 

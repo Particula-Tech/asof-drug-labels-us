@@ -36,6 +36,8 @@ Because of the potential for serious adverse reactions in a breastfed child, adv
 
 ## 8.3 Females and Males of Reproductive Potential
 
+Based on findings in animals, Docetaxel Injection can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+
 Pregnancy Testing
 
 Verify pregnancy status in females of reproductive potential prior to initiating Docetaxel Injection.
@@ -44,12 +46,11 @@ Contraception
 
 Females
 
-Docetaxel can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
-Advise females of reproductive potential to use effective contraception during treatment and for 6 months after the last dose of Docetaxel Injection.
+Based on genetic toxicity findings, advise females of reproductive potential to use effective contraception during treatment and for 2 months after the last dose of Docetaxel Injection.
 
 Males
 
-Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of Docetaxel Injection.
+Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after the last dose of Docetaxel Injection.
 
 Infertility
 
@@ -107,7 +108,7 @@ When docetaxel was combined with carboplatin for the treatment of chemotherapy-n
 Prostate Cancer
 
 Of the 333 patients treated with docetaxel every three weeks plus prednisone in the prostate cancer study (TAX327), 209 patients were 65 years of age or greater and 68 patients were older than 75 years.
-In patients treated with docetaxel every three weeks, the following treatment emergent adverse reactions occurred at rates ≥10% higher in patients 65 years of age or greater compared to younger patients: anemia (71% vs. 59%), infection (37% vs. 24%), nail changes (34% vs. 23%), anorexia (21% vs. 10%), weight loss (15% vs. 5%) respectively.
+In patients treated with docetaxel every three weeks, the following treatment -emergent adverse reactions occurred at rates ≥10% higher in patients 65 years of age or greater compared to younger patients: anemia (71% vs. 59%), infection (37% vs. 24%), nail changes (34% vs. 23%), anorexia (21% vs. 10%), weight loss (15% vs. 5%), respectively.
 
 Breast Cancer
 
