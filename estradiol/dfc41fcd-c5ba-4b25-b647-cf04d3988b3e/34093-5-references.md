@@ -33,8 +33,6 @@
 
 Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
-© 2022 Allergan.
+© 2023 AbbVie.
 All rights reserved.
-Allergan® and its design are trademarks of Allergan, Inc. ESTRACE® is a registered trademark of Allergan Pharmaceuticals International Limited.
-
-v3.0USPI3754
+ESTRACE and its design are trademarks of Allergan Therapeutics LLC, an AbbVie company.

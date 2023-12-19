@@ -2,7 +2,7 @@
 
 ESTRACE (estradiol vaginal cream USP 0.01%).
 
-N 0430-3754-14: Tube containing 1 ½ oz (42.5 g) with a calibrated plastic applicator for delivery of 1, 2, 3, or 4 g. Smooth semi solid cream.
+NDC 0430-3754-14: Tube containing 1 ½ oz (42.5 g) with a calibrated plastic applicator for delivery of 1, 2, 3, or 4 g. Smooth semi solid cream.
 White or off-white.
 
 Store at room temperature 20° to 25°C (59° to 77°F).
