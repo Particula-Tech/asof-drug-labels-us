@@ -4,6 +4,7 @@ The following clinically significant adverse reactions are described elsewhere i
 
 - Infections [see Warnings and Precautions (5.1)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.2)]
+- Infusion-Related Reactions [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -44,8 +45,15 @@ The open-label extension of Study 2 included some patients who switched from efg
 The most common adverse reactions (reported in at least 10% of VYVGART HYTRULO-treated patients) were injection site reactions and headache.
 
 In Study 2, injection site reactions occurred in 38% of patients receiving VYVGART HYTRULO.
-These were injection site rash, erythema, pruritis, bruising, pain, and urticaria.
+These were injection site rash, erythema, pruritus, bruising, pain, and urticaria.
 
-In the Study 2 and its open-label extension (n = 168), all injection site reactions were mild to moderate in severity and did not lead to treatment discontinuation.
+In Study 2 and its open-label extension (n = 168), all injection site reactions were mild to moderate in severity and did not lead to treatment discontinuation.
 The majority occurred within 24 hours after administration and resolved spontaneously.
 Most injection site reactions occurred during the first treatment cycle, and the incidence decreased with each subsequent cycle.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of efgartigimod alfa products.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Immune System Disorders: Hypersensitivity reactions including anaphylaxis and hypotension, and infusion-related reactions [see Warnings and Precautions (5.2 5.3)].

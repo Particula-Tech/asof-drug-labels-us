@@ -19,8 +19,22 @@ Evaluate the need to administer age-appropriate vaccines according to immunizati
 
 ## 5.2 Hypersensitivity Reactions
 
-Hypersensitivity reactions, including rash, angioedema, and dyspnea were observed in patients treated with VYVGART HYTRULO and efgartigimod alfa-fcab.
+In clinical trials, hypersensitivity reactions, including rash, angioedema, and dyspnea were observed in patients treated with VYVGART HYTRULO or intravenous efgartigimod alfa-fcab.
 Urticaria was also observed in patients treated with VYVGART HYTRULO.
-In clinical trials, hypersensitivity reactions were mild or moderate, occurred within one hour to three weeks of administration, and did not lead to treatment discontinuation.
+Hypersensitivity reactions were mild or moderate, occurred within one hour to three weeks of administration, and did not lead to treatment discontinuation.
+
+Anaphylaxis and hypotension leading to syncope have been reported in postmarketing experience with intravenous efgartigimod alfa-fcab.
+Anaphylaxis and hypotension occurred during or within an hour of administration and led to infusion discontinuation and in some cases to permanent treatment discontinuation.
+
 Healthcare professionals should monitor for clinical signs and symptoms of hypersensitivity reactions for at least 30 minutes after administration [see Dosage and Administration (2.4)].
 If a hypersensitivity reaction occurs, the healthcare professional should institute appropriate measures if needed or the patient should seek medical attention.
+VYVGART HYTRULO is contraindicated in patients with a history of serious hypersensitivity to efgartigimod alfa products, to hyaluronidase, or to any of the excipients of VYVGART HYTRULO [see Contraindications (4)].
+
+## 5.3 Infusion-Related Reactions
+
+Infusion-related reactions have been reported with intravenous efgartigimod alfa-fcab in postmarketing experience.
+The most frequent symptoms and signs were hypertension, chills, shivering, and thoracic, abdominal, and back pain.
+Infusion-related reactions occurred during or within an hour of administration and led to infusion discontinuation.
+If a severe infusion-related reaction occurs, initiate appropriate therapy.
+Consider the risks and benefits of readministering VYVGART HYTRULO following a severe infusion-related reaction.
+If a mild to moderate infusion-related reaction occurs, patients may be rechallenged with close clinical observation, slower infusion rates, and pre-medications.

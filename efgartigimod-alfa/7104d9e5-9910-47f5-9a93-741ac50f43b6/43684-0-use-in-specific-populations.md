@@ -35,9 +35,9 @@ Efgartigimod alfa:
 
 Hyaluronidase:
 
-- - In a study in which hyaluronidase (recombinant human) was administered by subcutaneous injection to pregnant mice throughout organogenesis, increased embryofetal mortality and decreased fetal body weights were observed at the highest doses tested.
+- - In a study in which hyaluronidase (human recombinant) was administered by subcutaneous injection to pregnant mice throughout organogenesis, increased embryofetal mortality and decreased fetal body weights were observed at the highest doses tested.
   The no-effect dose for adverse effects on embryofetal development in the mouse was approximately 1800 times the dose of hyaluronidase at the recommended human dose (RHD) of VYVGART HYTRULO (1,008 mg efgartigimod alfa and 11,200 U hyaluronidase), on a U/kg basis.
-- - There were no adverse effects on pre- and postnatal development following subcutaneous administration of hyaluronidase (recombinant human) to mice throughout gestation and lactation at doses up to 5,000 times the dose of hyaluronidase at the RHD of VYVGART HYTRULO, on a U/kg basis.
+- - There were no adverse effects on pre- and postnatal development following subcutaneous administration of hyaluronidase (human recombinant) to mice throughout gestation and lactation at doses up to 5,000 times the dose of hyaluronidase at the RHD of VYVGART HYTRULO, on a U/kg basis.
 
 ## 8.2 Lactation
 
