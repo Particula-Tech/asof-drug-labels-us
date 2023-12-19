@@ -75,4 +75,4 @@ Manufactured by: Inventia Healthcare Limited, F1-F1/1-F75/1, Additional Ambernat
 
 Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-10307 Rev 08/22 Revised: August 2022
+10307 Rev 06/23 Revised: June 2023
