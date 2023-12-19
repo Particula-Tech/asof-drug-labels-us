@@ -37,6 +37,7 @@ During the double-blind period, patients were permitted to take ibuprofen (200 m
 Sixty-seven percent of patients treated with BUTRANS 20 mcg/hour and 58% of patients treated with BUTRANS 5 mcg/hour completed the 12-week treatment.
 Of the 219 patients randomized to BUTRANS 20 mcg/hour, 11% discontinued due to lack of efficacy and 13% due to adverse events.
 Of the 221 patients randomized to BUTRANS 5 mcg/hour, 24% discontinued due to lack of efficacy and 6% due to adverse events.
+
 Of the patients who were able to be randomized in the double-blind period, the mean pain (SE) NRS scores were 6.4 (0.08) and 6.5 (0.08) at screening and were 2.8 (0.08) and 2.9 (0.08) at pre-randomization (beginning of Double-Blind Period) for the BUTRANS 5 mcg/hour and BUTRANS 20 mcg/hour, respectively.
 
 The score for average pain over the last 24 hours at Week 12 was statistically significantly lower for subjects treated with BUTRANS 20 mcg/hour compared to subjects treated with BUTRANS 5 mcg/hour.

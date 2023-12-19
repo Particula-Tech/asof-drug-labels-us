@@ -6,52 +6,61 @@ BUTRANS contains buprenorphine, a Schedule III controlled substance.
 
 ## 9.2 Abuse
 
-BUTRANS contains buprenorphine, a Schedule III controlled substance with an abuse potential similar to other Schedule III opioids.
-BUTRANS can be abused and is subject to misuse, addiction and criminal diversion [see Warnings and Precautions (5.1)].
-The high drug content in extended-release formulations adds to the risk of adverse outcomes from abuse and misuse.
+BUTRANS contains buprenorphine, a substance with high potential for misuse and abuse, which can lead to the development of substance use disorder, including addiction [see Warnings and Precautions (5.1)].
 
-All patients treated with opioids, including BUTRANS, require careful monitoring for signs of abuse and addiction, since use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
+Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a healthcare provider or for whom it was not prescribed.
 
-Prescription drug abuse is the intentional non-therapeutic use of a prescription drug, even once, for its rewarding psychological or physiological effects.
+Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
 
-Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that develop after repeated substance use and includes: a strong desire to take the drug, difficulties in controlling its use, persisting in its use despite harmful consequences, a higher priority given to drug use than to other activities and obligations, increased tolerance, and sometimes a physical withdrawal.
+Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
+
+Misuse and abuse of BUTRANS increases risk of overdose, which may lead to central nervous system and respiratory depression, hypotension, seizures, and death.
+The risk is increased with concurrent abuse of BUTRANS with alcohol and/or other CNS depressants.
+Abuse of and addiction to opioids in some individuals may not be accompanied by concurrent tolerance and symptoms of physical dependence.
+In addition, abuse of opioids can occur in the absence of addiction.
+
+All patients treated with opioids require careful and frequent reevaluation for signs of misuse, abuse, and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
+Patients at high risk of BUTRANS abuse include those with a history of prolonged use of any opioid, including products containing buprenorphine, those with a history of drug or alcohol abuse, or those who use BUTRANS in combination with other abused drugs.
 
 “Drug-seeking” behavior is very common in persons with substance use disorders.
-Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated “loss” of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare providers(s).
-“Doctor shopping” (visiting multiple prescribers to obtain additional prescriptions) is common among drug abusers and people suffering from untreated addiction.
-Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with poor pain control.
+Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated “loss” of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare provider(s).
+“Doctor shopping” (visiting multiple prescribers to obtain additional prescriptions) is common among people who abuse drugs and people with substance use disorder.
+Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with inadequate pain control.
 
-Abuse and addiction are separate and distinct from physical dependence and tolerance.
-Healthcare providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
-In addition, abuse of opioids can occur in the absence of true addiction.
-
-BUTRANS, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
+BUTRANS, like other opioids, can be diverted for nonmedical use into illicit channels of distribution.
 Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests, as required by state and federal law, is strongly advised.
 
-Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
+Proper assessment of the patient, proper prescribing practices, periodic reevaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
-Risks Specific to the Abuse of BUTRANS BUTRANS is intended for transdermal use only.
+Risks Specific to the Abuse of BUTRANS
+
 Abuse of BUTRANS poses a risk of overdose and death.
-This risk is increased with concurrent abuse of BUTRANS with alcohol and other substances including other opioids and benzodiazepines [see Warnings and Precautions (5.4) and Drug Interactions (7)].
+This risk is increased with the concurrent use of BUTRANS with alcohol and/or other substances including other opioids and benzodiazepines [see Warnings and Precautions (5.1, 5.3), Drug Interactions (7)].
+
+BUTRANS is approved for transdermal use only.
+
 Intentional compromise of the transdermal delivery system will result in the uncontrolled delivery of buprenorphine and pose a significant risk to the abuser that could result in overdose and death [see Warnings and Precautions (5.1)].
 Abuse may occur by applying the transdermal system in the absence of legitimate purpose, or by chewing, swallowing, snorting, or injecting buprenorphine extracted from the transdermal system.
+
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
 
 ## 9.3 Dependence
 
-Both tolerance and physical dependence can develop during chronic opioid therapy.
-Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
-Tolerance may occur to both the desired and undesired effects of drugs, and may develop at different rates for different effects.
+Both tolerance and physical dependence can develop during use of opioid therapy.
 
-Physical dependence is a physiological state in which the body adapts to the drug after a period of regular exposure, resulting in withdrawal symptoms after abrupt discontinuation or a significant dosage reduction of a drug.
-Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), or mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine).
-Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
+Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
+
+Physical dependence is a state that develops as a result of a physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
+
+Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
+Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued use.
 
 Do not abruptly discontinue BUTRANS in a patient physically dependent on opioids.
 Rapid tapering of BUTRANS in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+
 When discontinuing BUTRANS, gradually taper the dosage using a patient-specific plan that considers the following: the dose of BUTRANS the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
 To improve the likelihood of a successful taper and minimize withdrawal symptoms, it is important that the opioid tapering schedule is agreed upon by the patient.
-In patients taking opioids for a long duration at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.5), Warnings and Precautions (5.14)].
+In patients taking opioids for an extended period of time at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.1), Warnings and Precautions (5.19)].
 
 Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1)].

@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-BUTRANS Transdermal System is supplied in cartons containing 4 individually-packaged systems and a pouch containing 4 Patch-Disposal Units.
+BUTRANS Transdermal System is supplied in cartons containing 4 individually packaged systems and a pouch containing 4 Patch-Disposal Units.
 
 BUTRANS (buprenorphine) 5 mcg/hour Transdermal Systems are square, beige-colored adhesive patches measuring 45 mm by 45 mm.
 Each system is printed in blue with the BUTRANS logo and 5 mcg/hr and are supplied in a 4-count carton (NDC 59011-750-04).
