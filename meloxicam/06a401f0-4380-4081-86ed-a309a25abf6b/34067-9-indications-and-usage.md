@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Osteoarthritis (OA)
+## 1.1 Osteoarthritis (OA
 
 Meloxicam tablets USP are indicated for relief of the signs and symptoms of osteoarthritis [see Clinical Studies (14.1)].
 
