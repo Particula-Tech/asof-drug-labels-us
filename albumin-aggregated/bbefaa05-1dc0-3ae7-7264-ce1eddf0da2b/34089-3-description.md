@@ -1,48 +1,60 @@
-# DRAXIMAGE® M AA Kit for the Preparation of Technetium Tc 99m Albumin Aggregated Injection DIAGNOSTIC - For Intravenous Use DESCRIPTION
+# 11 DESCRIPTION
 
-The kit consists of reaction vials which contain the sterile, non-pyrogenic, non-radioactive ingredients necessary to produce Technetium Tc 99m Albumin Aggregated Injection for diagnostic use by intravenous injection.
+## 11.1 Product Characteristics
 
-Each 10 mL reaction vial contains 2.5 mg of albumin aggregated, 5 mg of human serum albumin, 0.06 mg (minimum) stannous chloride (maximum stannous and stannic chloride 0.11 mg) and 1.2 mg of sodium chloride; the contents are in a lyophilized form under an atmosphere of nitrogen.
-Sodium hydroxide or hydrochloric acid has been used for pH adjustment.
-No bacteriostatic preservative is present.
-
-The human serum albumin was non-reactive when tested for Hepatitis B Surface Antigen (HBsAg), antibodies to Human Immunodeficiency Virus (HIV-1/HIV-2), antibody to Hepatitis C Virus (anti-HCV) and Antigen to Human Immunodeficiency Virus (HIV-1).
-The aggregated particles are formed by denaturation of the albumin in a heating and aggregation process.
-Each vial contains 3 to 8 million particles.
+DRAXIMAGE MAA contains albumin aggregated obtained by fractionating material (source blood, plasma, serum, or placentas) from healthy human donors.
+The macroaggregated albumin (MAA) particles are formed by denaturation of albumin human in a heating and aggregation process.
+Each vial contains 3,000,000 to 8,000,000 particles.
 By light microscopy, more than 90% of the particles are between 10 and 70 micrometers, while the typical average size is 20 to 40 micrometers; none is greater than 150 micrometers.
 
-Technetium Tc 99m Albumin Aggregated Injection for intravenous use is in its final dosage form when a sterile isotonic sodium pertechnetate solution is added to the vial.
-No less than 90% of the pertechnetate Tc-99m added to a reaction vial is bound to aggregate at preparation time and remains bound throughout the usage lifetime of the preparation (See Directions For Preparation).
+DRAXIMAGE MAA (kit for the preparation of technetium Tc 99m albumin aggregated) injection provides a sterile, non-pyrogenic, non-radioactive, white lyophilized powder supplied in a multiple-dose reaction vial, sealed under an atmosphere of nitrogen, for radiolabeling with Sodium Pertechnetate Tc 99m Injection to prepare Technetium Tc 99m Albumin Aggregated Injection, a radioactive diagnostic agent, for intravenous or intraperitoneal use.
 
-## PHYSICAL CHARACTERISTICS
+Each reaction vial contains 2.5 mg of albumin aggregated, albumin human (5 mg), stannous chloride (0.06 mg minimum; 0.11 mg maximum stannous and stannic chloride) and sodium chloride (1.2 mg).
+Sodium hydroxide or hydrochloric acid has been added for pH adjustment.
+The pH is 5.2 to 6.
+It contains no preservative.
 
-Technetium Tc-99m decays by isomeric transition with a physical half-life of 6.02 hours.
-The principal photon that is useful for detection and imaging studies is listed in Table 1.
+## 11.2 Physical Characteristics
 
-Table 1 - Principal Radiation Emission Data
+Technetium-99m decays by isomeric transition with a physical half-life of 6.02 hours.
+The principal photon that is useful for detection and imaging studies is listed in Table 5.
 
-| Radiation | Mean %/Disintegration | Mean Energy (keV) |
+Table 5.
+Principal Radiation Emission Data for Technetium-99m
+
+| Radiation | Mean % per Disintegration | Mean Energy (keV) |
 | --- | --- | --- |
 | Gamma | 89.07 | 140.5 |
 
-EXTERNAL RADIATION
+## 11.3 External Radiation
 
-The specific gamma ray constant for technetium Tc-99m is 0.78 R/mCi-hr at 1 cm.
-
-The first half value layer is 0.017 cm of lead.
-A range of values for the relative attenuation of the radiation resulting from the interposition of various thicknesses of lead is shown in Table 2.
+The specific gamma ray constant for technetium-99m is 0.78 R/mCi-hr at 1 cm.
+The first half value layer is 0.017 cm of lead (Pb).
+A range of values for the relative attenuation of the radiation resulting from the interposition of various thicknesses of lead is shown in Table 6.
 For example, the use of 0.25 cm thickness of lead will attenuate the radiation emitted by a factor of about 1,000.
 
-Table 2 - Radiation Attenuation by Lead (Pb) Shielding
+Table 6.
+Radiation Attenuation by Lead Shielding
 
 | Shield Thickness (Pb) cm | Coefficient of Attenuation |
 | --- | --- |
-| 0.0170.080.160.250.33 | 0.510-110-210-310-4 |
+| 0.017 | 0.5 |
+| 0.08 | 10-1 |
+| 0.16 | 10-2 |
+| 0.25 | 10-3 |
+| 0.33 | 10-4 |
 
-To correct for physical decay of this radionuclide, the fractions that remain at selected intervals after the time of calibration are shown in Table 3.
+To correct for physical decay of this radionuclide, the fractions that remain at selected intervals after the time of calibration are shown in Table 7.
 
-Table 3 - Physical Decay Chart:Tc-99m half-life 6.02 hours
+Table 7.
+Physical Decay Chart for Technetium-99m, half-life 6.02 hours
 
-| Hours | FractionRemaining | Hours | FractionRemaining |
+| Hours | Fraction Remaining | Hours | Fraction Remaining |
 | --- | --- | --- | --- |
-| 0 Calibration Time1234 | 1.0000.8910.7940.7080.631 | 5681012 | 0.5620.5010.3980.3160.251 |
+| 0* | 1.000 | 5 | 0.562 |
+| 1 | 0.891 | 6 | 0.501 |
+| 2 | 0.794 | 8 | 0.398 |
+| 3 | 0.708 | 10 | 0.316 |
+| 4 | 0.631 | 12 | 0.251 |
+
+*Calibration time

@@ -1,5 +1,6 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Technetium Tc 99m Albumin Aggregated Injection should not be administered to patients with severe pulmonary hypertension.
+DRAXIMAGE MAA is contraindicated in patients with:
 
-The use of Technetium Tc 99m Albumin Aggregated Injection is contraindicated in persons with a history of hypersensitivity reactions to products containing human serum albumin.
+- Severe pulmonary hypertension [see Warnings and Precautions (5.1)].
+- A history of hypersensitivity to albumin human.Reactions have included anaphylaxis[see Warnings and Precautions (5.2)].

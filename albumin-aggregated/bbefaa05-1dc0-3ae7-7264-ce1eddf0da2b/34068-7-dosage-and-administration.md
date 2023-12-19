@@ -1,78 +1,180 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-The recommended intravenous dose range for the average (70 kg) ADULT patient for lung imaging is 37 to 148 megabecquerels (1 to 4 millicuries) of Technetium Tc 99m Albumin Aggregated Injection after reconstitution with oxidant-free Sodium Pertechnetate Tc 99m Injection.
+## 2.1 Radiation Safety – Drug Handling
 
-The suggested intraperitoneal dosage range used in the average patient (70 kg) for peritoneovenous (LeVeen) shunt patency evaluation is 37 to 111 megabecquerels (1 to 3 millicuries).
-Adequate measures should be taken to assure uniform mixing with peritoneal fluid.
-Serial images of both the shunt and target organ should be obtained and correlated with other clinical findings.
-Alternatively, the drug may be administered by percutaneous transtubal injection.
-The suggested percutaneous transtubal (efferent limb) dosage range for the average patient (70 kg) is 12 to 37 megabecquerels (0.3 to 1 millicurie) in a volume not to exceed 0.5 mL.
+After radiolabeling of DRAXIMAGE MAA, the vial contains Technetium Tc 99m Albumin Aggregated Injection.
+Handle Technetium Tc 99m Albumin Aggregated Injection with appropriate safety measures to minimize radiation exposure [see Warnings and Precautions (5.4)].
+Use waterproof gloves, effective radiation shielding, and other appropriate safety measures when preparing and handling Technetium Tc 99m Albumin Aggregated Injection.
 
-The recommended number of particles per single injection is 200,000 to 700,000 with the suggested number being approximately 350,000.
-Depending on the activity added and volume of the final reconstituted product, the volume of the dose may vary from 0.2 to 1.9 mL.
+Radiopharmaceuticals should be used by or under the control of healthcare providers who are qualified by specific training and experience in the safe use and handling of radionuclides, and whose experience and training have been approved by the appropriate governmental agency authorized to license the use of radionuclides.
 
-The number of particles available per dose of Technetium Tc 99m Albumin Aggregated Injection will vary depending on the physical decay of the technetium Tc-99m that has occurred.
+## 2.2 Patient Preparation
+
+Instruct patients to drink a sufficient amount of water to ensure adequate hydration prior to administration of Technetium Tc 99m Albumin Aggregated Injection and to continue to drink and void frequently following administration to reduce radiation exposure [see Warnings and Precautions (5.4)].
+
+## 2.3 Recommended Dosage for Lung Perfusion Scintigraphy
+
+Adult Patients
+
+The recommended activity for lung perfusion scintigraphy in adult patients is 37 MBq to 148 MBq (1 mCi to 4 mCi) by intravenous injection.
+
+The number of particles per single injection should be 200,000 to 700,000 with the recommended number being approximately 350,000.
+Depending on the activity added and volume of the final radiolabeled product, the volume of the dose may vary from 0.2 mL to 1.9 mL.
+
+The number of particles available per dose of Technetium Tc 99m Albumin Aggregated Injection will vary depending on the physical decay of the technetium-99m that has occurred.
 The number of particles in any dose and volume to be administered may be calculated as follows:
+
+Va = D and P = Va x N
+
+C x Fr VTc
 
 Where:
 
-VTc = volume of solution added to reaction vial D = desired dose to be administered in MBq (mCi) C = concentration at calibration time of sodium pertechnetate solution to be added to the reaction vial in MBq/mL (mCi/mL) Va = volume to be administered in mL P = number of particles in dose to be administered Fr = fraction of technetium Tc-99m remaining after the time of calibration (see Table 3) N = number of particles per vial.
+Va = Volume to be administered in mL
+
+D = Desired activity to be administered in MBq (mCi)
+
+C = Concentration at calibration time of Sodium Pertechnetate Tc 99m Injection to be added to the reaction vial in MBq/mL (mCi/mL)
+
+Fr = Fraction of technetium-99m remaining after the time of calibration from Table 7[see Description (11.3)]
+
+P = Number of particles in dose to be administered
+
+Va = Volume to be administered in mL
+
+VTc = Volume of Sodium Pertechnetate Tc 99m Injection added to reaction vial in mL
+
+N = Number of particles per vial.
 The number of particles per vial for each lot is shipped with the product.
 
-In PEDIATRIC patients, the suggested intravenous dose to be employed for perfusion lung imaging is in the range of 0.925 to 1.85 MBq per kilogram (25 to 50 μCi/kg) of body weight; a usual dose is 1.11 MBq per kilogram (30 μCi/kg), except in newborns, in whom the administered dose should be 7.4 to 18.5 MBq (200 to 500 μCi).
-Not less than the minimum dose of 7.4 MBq (200 μCi) should be employed for this procedure.
-The number of particles will vary with age and weight of the pediatric patient as indicated in Table 5.
+Pediatric Patients Aged 4 Weeks and Older
 
-Parenteral drug products should be visually inspected for particulate matter and discoloration prior to administration whenever solution and container permit.
+The recommended activity for lung perfusion scintigraphy in pediatric patients aged 4 weeks and older by intravenous injection is based on body weight and ranges from 0.925 MBq/kg to 1.85 MBq/kg (0.025 mCi/kg to 0.05 mCi/kg).
+The minimum recommended activity for lung perfusion scintigraphy in this age group is 7.4 MBq (0.2 mCi).
 
-The patient dose should be measured by a suitable radioactivity calibration system immediately prior to administration.
-Mix the contents of the vial by gentle inversion just prior to withdrawing a patient dose.
+The number of particles will vary with age and body weight of the pediatric patient.
+Particle numbers administered in four different age and weight categories are provided in Table 1.
 
-Mix the contents of the syringe just before injection.
-If blood is drawn into the syringe, any unnecessary delay prior to injection may lead to clot formation.
-For optimum results and because of rapid lung clearance of the radiopharmaceutical, it is suggested that the patient be positioned under the imaging apparatus before administration.
-Slow injection is recommended.
-Lung imaging may begin immediately after intravenous injection of the radiopharmaceutical.
-Due to high kidney uptake, imaging later than one-half hour after administration will yield poor results.
+Table 1.
+Particle Numbers Administered in Four Different Age and Weight Categories of Pediatric Patients Receiving Maximum Recommended Activity of Technetium Tc 99m Albumin Aggregated Injection for Lung Perfusion Scintigraphy
 
-RADIATION DOSIMETRY
+| Age | 15 years |  | 10 years |  |  | 5 years |  | 1 year |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Weight (kg) | 55 |  | 33.5 |  |  | 20.3 |  | 12.1 |  |
+| Maximum recommended activity | MBq | mCi | MBq |  | mCi | MBq | mCi | MBq | mCi |
+| 103.6 | 2.8 | 62.9 | 1.7 |  | 37 | 1 | 22.2 | 0.6 |  |
+| Range of particles administered | 200,000 to 700,000 |  | 200,000 to 300,000 |  |  | 200,000 to 300,000 |  | 50,000 to 150,000 |  |
 
-The estimated absorbed radiation doses1 to an average ADULT patient (70 kg) from an intravenous injection of 148 MBq (4 mCi) of Technetium Tc 99m Albumin Aggregated Injection are shown in Table 4.
+Pediatric Patients Aged Less Than 4 Weeks (Neonates)
 
-Table 4 - Absorbed Radiation Doses
+The recommended activity for lung perfusion scintigraphy in neonates by intravenous injection is 7.4 MBq to 18.5 MBq (0.2 mCi to 0.5 mCi).
+The number of particles in neonates for lung perfusion scintigraphy ranges from 10,000 to 50,000.
+Use the lowest possible number of particles for neonates.
 
-| Organs | mGy/148 MBq | rad/4 mCi |
+## 2.4 Recommended Dosage for Peritoneovenous Shunt Scintigraphy in Adults
+
+The recommended activity for peritoneovenous shunt scintigraphy in adult patients is 37 MBq to 111 MBq (1 mCi to 3 mCi) by intraperitoneal injection.
+The number of particles per single injection should be 200,000 to 700,000 with the recommended number being approximately 350,000.
+Depending on the activity added and volume of the final radiolabeled product, the volume of the dose may vary from 0.2 mL to 1.9 mL.
+For calculation of the number of particles to be administered, see Recommended Dosage for Lung Perfusion Scintigraphy in Adult Patients [see Dosage and Administration (2.3)].
+Assure uniform mixing with peritoneal fluid.
+
+Alternatively, administer the drug by percutaneous transtubal injection.
+The recommended activity for percutaneous transtubal (efferent limb) administration in adult patients is 12 MBq to 37 MBq (0.3 mCi to 1 mCi) in a volume not to exceed 0.5 mL.
+
+## 2.5 Directions for Drug Preparation and Handling
+
+Procedural Precautions
+
+- Before radiolabeling, the contents of the kit are not radioactive.
+  Contents of the vials are intended only for use in the preparation of Technetium Tc 99m Albumin Aggregated Injection and are NOT to be administered directly to the patient.
+  After the Sodium Pertechnetate Tc 99m Injection is added, maintain adequate shielding of the radiolabeled product.
+- Use aseptic procedures throughout and take precautions to minimize radiation exposure by use of suitable shielding.
+- Wear waterproof gloves during the preparation procedure.
+- Before radiolabeling a vial, inspect the vial for cracks and/or a melted plug or any other indication that the integrity of the vacuum seal has been lost.
+- Use only oxidant-free Sodium Pertechnetate Tc 99m Injection to maintain the stannous ion in the reduced state.
+
+Procedure for the Preparation of Technetium Tc 99m Albumin Aggregated Injection
+
+1. Remove the protective cap from a reaction vial and swab the rubber septum with either an alcohol swab or a suitable bacteriostatic agent to disinfect the surface.
+2. Place the vial in a suitable lead vial shield which has a fitted cap.
+3. The maximum activity of Sodium Pertechnetate Tc 99m Injection to be added to a reaction vial varies with the number of particles per vial and is shown in Table 2.
+   The number of particles per vial for each lot is shipped with the product.
+   Calculate the amount of radioactivity per vial required to maintain the number of particles per dose within a recommended range while taking into account administered activity, radioactive decay and the number of patients [see Dosage and Administration (2.3,2.4)].
+   Other calculations for radiolabeling are permitted provided that the patient dose remains within the recommended range.
+   Table 2.
+   Maximum Activity of Sodium Pertechnetate Tc 99m Injection to be Added Based on Vial Particle NumberParticles per vial Maximum Activity of Sodium Pertechnetate Tc 99m Injection to be added per vial 3 million to 4 million 3.7 GBq (100 mCi) 5 million 4.44 GBq (120 mCi) 6 million to 8 million 6.85 GBq (185 mCi)
+4. Using a shielded syringe, add the calculated amount of Sodium Pertechnetate Tc 99m Injection to the reaction vial aseptically.
+5. Place the lead cap on the vial shield and mix the contents of the shielded vial by repeated gentle inversion until all the material is suspended.
+   Do not shake to avoid formation of foam.
+   To ensure maximum tagging, allow the preparation to stand for 15 minutes after mixing.
+6. Using proper shielding, visually inspect the vial to ensure that the suspension is free of foreign matter before proceeding.
+   Do not administer if foreign particulates are found in the preparation.
+7. Assay the product in a suitable dose calibrator, record the radioassay information on the label with radiation warning symbol, and attach it to the vial shield.
+8. No less than 90% of the sodium pertechnetate Tc 99m added to the reaction vial is bound to albumin aggregated at the time of preparation and remain bound throughout the usage lifetime of the preparation.
+
+Storage and Handling of Technetium Tc 99m Albumin Aggregated Injection
+
+- Store the radiolabeled product in the lead vial shield with cap in place during its in-use shelf life.
+  Store the radiolabeled product refrigerated at 2 ºC to 8 ºC (36 ºF to 46 ºF) when not in use and use within 12 hours from the time of radiolabeling depending on the number of particles per vial, the activity added at radiolabeling and the final dose to be administered to the patient [see Dosage and Administration (2.3,2.4)].
+- Technetium Tc 99m Albumin Aggregated Injection is physically unstable and consequently the particles settle with time.
+  Failure to agitate the vial adequately before administration may result in non-uniform distribution of radioactive particles.
+- Do not use if clumping of the contents is observed.
+- Since the vials are sealed under an atmosphere of nitrogen to prevent oxidation of the complex, do not vent the vials.
+  If repeated withdrawals are made from the vial, minimize replacement of the contents with air.
+- Dispose unused Technetium Tc 99m Albumin Aggregated Injection in compliance with appropriate regulations.
+
+## 2.6 Administration and Imaging Instructions
+
+- Position the patient under the imaging apparatus before administration of Technetium Tc 99m Albumin Aggregated Injection because of rapid lung clearance of technetium Tc 99m albumin aggregated.
+- Using proper shielding, visually inspect for foreign particulate matter and discoloration prior to administration.
+  Do not administer if foreign particulates are found in the preparation.
+- Mix the contents of the vial by gentle inversion just prior to withdrawing a patient dose.
+- Withdraw the patient dose aseptically using a sterile needle (18 gauge to 21 gauge) and a shielded syringe.
+- Measure the patient dose by a suitable radioactivity calibration system immediately prior to administration.
+- Mix the contents of the syringe just before injection.
+- Slow injection is recommended.
+- If blood is drawn into the syringe, any unnecessary delay prior to injection may lead to clot formation.
+- Begin lung imaging immediately after intravenous administration of Technetium Tc 99m Albumin Aggregated Injection.
+  Due to high kidney uptake, imaging later than one-half hour after administration is not recommended.
+- For peritoneovenous shunt imaging, obtain serial images of both the shunt and target organ.
+
+## 2.7 Radiation Dosimetry
+
+Intravenous Administration
+
+Estimated radiation absorbed doses from intravenous administration are shown in Table 3.
+
+Table 3.
+Estimated Radiation Absorbed Doses From Intravenous Administration of Technetium Tc 99m Albumin Aggregated Injection for Lung Perfusion Scintigraphy
+
+| Absorbed Dose per Activity Administered (microGy/MBq) |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Organs | Adults | 15 years | 10 years | 5 years | 1 year | Neonates |
+| Total body | 4.05 | 3.96 | 7.63 | 8.38 | 13.5 | 32.4 |
+| Lungs | 59.5 | 74.3 | 138 | 157 | 297 | 1027 |
+| Liver | 4.86 | 11.6 | 28.6 | 16.8 | 27 | 75.7 |
+| Spleen | 4.59 | *-- | -- | -- | -- | -- |
+| Kidneys | 2.97 | -- | -- | -- | -- | -- |
+| Bladder Wall 2 hour void 4.8 hour void No voiding intervals | 8.11 14.9 -- | -- -- 39.6 | -- 62 -- | -- 83.8 -- | 67.6 -- -- | 114 -- -- |
+| Testes 2 hour void 4.8 hour void No voiding intervals | 1.62 1.76 -- | -- -- 3.47 | -- -- 3.18 | -- -- 5.14 | -- -- 5.86 | -- -- 16.8 |
+| Ovaries 2 hour void 4.8 hour void No voiding intervals | 2.03 2.3 -- | -- -- 3.96 | -- -- 7 | -- -- 5.14 | -- -- 9.01 | -- -- 20.5 |
+
+*--: Not available
+
+Intraperitoneal Administration
+
+Estimated radiation absorbed doses from intraperitoneal administration are shown in Table 4.
+
+Table 4.
+Estimated Radiation Absorbed Doses From Intraperitoneal Administration of Technetium Tc 99m Albumin Aggregated Injection for Peritoneovenous Shunt Scintigraphy in Adults
+
+| Absorbed Dose per Activity Administered (microGy/MBq) |  |  |
 | --- | --- | --- |
-| Total bodyLungsLiverSpleenKidneysBladder Wall 2 hr. void 4.8 hr. voidTestes 2 hr. void 4.8 hr. voidOvaries 2 hr. void 4.8 hr. void | 0.68.80.720.680.44 1.22.2 0.240.26 0.30.34 | 0.060.880.0720.0680.044 0.120.22 0.0240.026 0.030.034 |
-| 1 Method of calculation: “S” Absorbed Dose per Unit Cumulated Activity for Selected Radionuclides and Organs, MIRD Pamphlet No. 11 (1975). |  |  |
+| Organs | Shunt Patency (Open) | Shunt Patency (Closed) |
+| Lung | 62.2 | 15.1 |
+| Ovaries or Testes | 1.62 to 2.7 | 15.1 |
+| Organ in the Peritoneal Cavity | *-- | 15.1 |
+| Total Body | 3.24 | 5.14 |
 
-In PEDIATRIC patients, the radiation absorbed doses using the maximum recommended dose for lung imaging are based on 1.85 MBq (50 μCi) per kilogram of body weight [except in the newborn where the maximum recommended dose of 18.5 MBq (500 μCi) is used] and are shown in Table 5, which lists the maximum dose for pediatric patients from newborn to adults.
-Note the recommendations regarding number of particles to be administered.
-
-Table 6 represents the absorbed radiation dose resulting from the intraperitoneal administration of 111 megabecquerels (3 millicuries) of Technetium Tc 99m Albumin Aggregated.
-
-Table 5 - Pediatric Radiation Dose from Tc 99m MAA for Lung Imaging*
-
-| Age | Newborn |  | 1 year |  | 5 years |  | 10 years |  | 15 years |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Weight (kg) | 3.5 |  | 12.1 |  | 20.3 |  | 33.5 |  | 55 |  |
-| Max. recommended dose in megabecquerels and millicuries | MBq 18.5 | mCi 0.5 | MBq 22.2 | mCi 0.6 | MBq 37 | mCi 1 | MBq 62.9 | mCi 1.7 | MBq 103.6 | mCi 2.8 |
-| Range of particles administered | 10,000 to 50,000 |  | 50,000 to 150,000 |  | 200,000 to 300,000 |  | 200,000 to 300,000 |  | 200,000 to 700,000 |  |
-| Absorbed radiation dose in milligray and rad for the maximum dose | mGy | rad | mGy | rad | mGy | rad | mGy | rad | mGy | rad |
-| ORGANSTotal bodyLungsLiverBladder wallOvariesTestes | 0.6191.42.10.380.31 | 0.061.90.140.21(1)0.0380.031 | 0.36.60.61.50.20.13 | 0.030.660.060.15(1)0.020.013 | 0.315.80.623.10.190.19 | 0.0310.580.0620.31(2)0.0190.019 | 0.488.71.83.90.440.2 | 0.0480.870.180.39(2)0.0440.02 | 0.417.71.24.10.410.36 | 0.0410.770.120.410.0410.036 |
-| (1) 2 hour voiding interval (2) 4.8 hour voiding interval |  |  |  |  |  |  |  |  |  |  |
-
-*Assumptions: 1.
-Used biologic data from Kaul et al., Berlin, 1973.
-2.
-For the newborn, 1-year old, and 5-year old, the “S” values calculated from the preliminary phantoms of ORNL were used.
-The 10-year old, 15-year old and adult “S” values were taken from Henrichs et al., Berlin, 1980.
-
-Table 6 - Absorbed Radiation Doses*
-
-| Organs | Shunt Patency (Open) |  | Shunt Patency (Closed) |  |
-| --- | --- | --- | --- | --- |
-|  | mGy | rad | mGy | rad |
-| LungOvaries & TestesOrgans in the peritoneal cavityTotal body | 6.90.18to 0.3-0.36 | 0.690.018to 0.03-0.036 | 1.681.68 1.680.57 | 0.1680.168 0.1680.057 |
-
-*Assumptions: Calculations for the absorbed radiation dose are based upon an effective half-time of 3 hours for the open shunt and 6.02 hours for the closed shunt and an even distribution of the radiopharmaceutical in the peritoneal cavity with no biological clearance.
+*--: Not available
