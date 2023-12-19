@@ -1,4 +1,4 @@
-# WARNING: TOXIC DEATHS, HEPATOTOXICITY, NEUTROPENIA, HYPERSENSITIVITY REACTIONS, AND FLUID RETENTION
+# WARNING: TOXIC DEATHS, HEPATOTOXICITY, NEUTROPENIA, HYPERSENSITIVITY REACTIONS, and FLUID RETENTION
 
 Treatment-related mortality associated with docetaxel is increased in patients with abnormal liver function, in patients receiving higher doses, and in patients with non-small cell lung carcinoma and a history of prior treatment with platinum-based chemotherapy who receive docetaxel as a single agent at a dose of 100 mg/m2[see Warnings and Precautions (5.1)].
 

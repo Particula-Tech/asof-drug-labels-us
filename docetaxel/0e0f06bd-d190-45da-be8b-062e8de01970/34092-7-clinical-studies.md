@@ -52,10 +52,10 @@ Single Arm Studies
 
 Docetaxel at a dose of 100 mg/m2 was studied in six single arm studies involving a total of 309 patients with metastatic breast cancer in whom previous chemotherapy had failed.
 Among these, 190 patients had anthracycline-resistant breast cancer, defined as progression during an anthracycline-containing chemotherapy regimen for metastatic disease, or relapse during an anthracycline-containing adjuvant regimen.
-In anthracycline-resistant patients, the overall response rate was 37.9% (72/190; 95% C.I.: 31.0-44.8) and the complete response rate was 2.1%.
+In anthracycline-resistant patients, the overall response rate was 37.9% (72/190; 95% CI: 31.0-44.8) and the complete response rate was 2.1%.
 
 Docetaxel was also studied in three single arm Japanese studies at a dose of 60 mg/m2, in 174 patients who had received prior chemotherapy for locally advanced or metastatic breast cancer.
-Among 26 patients whose best response to an anthracycline had been progression, the response rate was 34.6% (95% C.I.: 17.2-55.7), similar to the response rate in single arm studies of 100 mg/m2.
+Among 26 patients whose best response to an anthracycline had been progression, the response rate was 34.6% (95% CI: 17.2-55.7), similar to the response rate in single arm studies of 100 mg/m2.
 
 ## 14.2 Adjuvant Treatment of Breast Cancer
 
@@ -140,7 +140,7 @@ Patients treated with docetaxel at a dose of 75 mg/m2 experienced no deteriorati
 
 Combination Therapy with Docetaxel for Chemotherapy-Naive NSCLC
 
-In a randomized controlled trial (TAX326), 1218 patients with unresectable stage IIIB or IV NSCLC and no prior chemotherapy were randomized to receive one of three treatments: docetaxel 75 mg/m2 as a 1 hour infusion immediately followed by cisplatin 75 mg/m2 over 30 to 60 minutes every 3 weeks; vinorelbine 25 mg/m2 administered over 6 to 10 minutes on days 1, 8, 15, 22 followed by cisplatin 100 mg/m2 administered on day 1 of cycles repeated every 4 weeks; or a combination of docetaxel and carboplatin.
+In a randomized controlled trial (TAX326), 1218 patients with unresectable stage IIIB or IV NSCLC and no prior chemotherapy were randomized to receive one of three treatments: docetaxel 75 mg/m2 as a 1 -hour infusion immediately followed by cisplatin 75 mg/m2 over 30 to 60 minutes every 3 weeks; vinorelbine 25 mg/m2 administered over 6 to 10 minutes on days 1, 8, 15, 22 followed by cisplatin 100 mg/m2 administered on day 1 of cycles repeated every 4 -weeks; or a combination of docetaxel and carboplatin.
 
 The primary efficacy endpoint was overall survival.
 Treatment with docetaxel+cisplatin did not result in a statistically significantly superior survival compared to vinorelbine+cisplatin (see table below).
@@ -166,7 +166,7 @@ Table 17 - Response and TTP Analysis of Docetaxel in Combination Therapy for Che
 | Endpoint | Docetaxel +Cisplatin | Vinorelbine+Cisplatin | p-value |
 | --- | --- | --- | --- |
 | Objective Response Rate(95% CI)Adjusted for multiple comparisons. | 31.6% (26.5%, 36.8%) | 24.4% (19.8%, 29.2%) | Not Significant |
-| Median Time to ProgressionKaplan-Meier estimates.(95% CI) | 21.4 weeks (19.3, 24.6) | 22.1 weeks (18.1,25.6) | Not Significant |
+| Median Time to ProgressionKaplan-Meier estimates.(95% CI) | 21.4 weeks (19.3, 24.6) | 22.1 weeks (18.1, 25.6) | Not Significant |
 
 ## 14.4 Castration-Resistant Prostate Cancer
 
@@ -193,7 +193,7 @@ Efficacy results for the docetaxel every 3-week arm versus the control arm are s
 | 95% CI | (17.0-21.2) | (14.4-18.6) |
 | Hazard ratio | 0.761 | - |
 | 95% CI | (0.619-0.936) | - |
-| p-valueStratified log rank test. Threshold for statistical significance = 0.0175 because of 3 arms. | 0.0094 | - |
+| p-valueStratified log -rank test. Threshold for statistical significance = 0.0175 because of 3 arms. | 0.0094 | - |
 
 Figure 5 - TAX327 Survival K-M Curves
 
@@ -280,9 +280,9 @@ The cycles were repeated every 3 weeks for 3 cycles.
 All patients in both treatment arms who did not have progressive disease were to receive 7 weeks of chemoradiotherapy (CRT) following induction chemotherapy 3 to 8 weeks after the start of the last cycle.
 During radiotherapy, carboplatin (AUC 1.5) was given weekly as a one-hour intravenous infusion for a maximum of 7 doses.
 Radiation was delivered with megavoltage equipment using once daily fractionation (2 Gy per day, 5 days per week for 7 weeks for a total dose of 70-72 Gy).
-Surgery on the primary site of disease and/or neck could be considered at anytime following completion of CRT.
+Surgery on the primary site of disease and/or neck could be considered at any time following completion of CRT.
 
-The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p=0.0058) with the docetaxel injection-containing regimen compared to PF (median OS: 70.6 versus 30.1 months respectively, hazard ratio [HR]=0.70, 95% confidence interval [CI]= 0.54 to 0.90).
+The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p=0.0058) with the docetaxel injection-containing regimen compared to PF (median OS: 70.6 vs 30.1 months, respectively, hazard ratio [HR]=0.70, 95% confidence interval [CI]= 0.54 to 0.90).
 Overall survival results are presented in Table 21 and Figure 10.
 
 1. Table 21 - Efficacy of Docetaxel Injection in the Induction Treatment of Patients with Locally Advanced SCCHN (Intent-to-Treat Analysis)
@@ -291,6 +291,6 @@ Overall survival results are presented in Table 21 and Figure 10.
 | --- | --- | --- |
 | Median overall survival (months) (95% CI) | 70.6 (49.0-NE) | 30.1 (20.9-51.5) |
 | Hazard ratio: (95% CI) un-adjusted log-rank testp-value | 0.70(0.54-0.90) 0.0058 |  |
-| A Hazard ratio of less than 1 favors docetaxel injection+cisplatin+fluorouracil NE - not estimable |  |  |
+| A Hazard ratio of less than 1 favors docetaxel injection+cisplatin+fluorouracil. NE - not estimable. |  |  |
 
 Figure 10 - TAX324 Overall Survival K-M Curve

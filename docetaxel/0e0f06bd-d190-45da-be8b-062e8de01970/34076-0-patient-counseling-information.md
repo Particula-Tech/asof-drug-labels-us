@@ -63,8 +63,8 @@ Embryo-Fetal Toxicity
 Docetaxel Injection can cause fetal harm.
 Advise patients to inform their healthcare provider of a known or suspected pregnancy.
 Advise patients to avoid becoming pregnant while receiving this drug.
-Advise female patients of reproductive potential to use effective contraceptives during treatment and for 6 months after the last dose of Docetaxel Injection.
-Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of Docetaxel Injection [see Warnings and Precautions (5.12), and Use in Specific Populations (8.1, 8.3)].
+Advise female patients of reproductive potential to use effective contraceptives during treatment and for 2 months after the last dose of Docetaxel Injection.
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after the last dose of Docetaxel Injection [see Warnings and Precautions (5.12), and Use in Specific Populations (8.1, 8.3)].
 
 Lactation
 
@@ -92,16 +92,8 @@ Drug Interactions
 
 Inform patients about the risk of drug interactions and the importance of providing a list of prescription and non-prescription drugs to their healthcare provider [see Drug Interactions (7)].
 
-Manufactured by: FAREVA Unterach GmbH
+Manufactured by FAREVA Unterach GmbH for
 
-Mondseestraße 11, 4866 Unterach, Austria
-
-Distributed by:
-
-Baxter Healthcare Corporation
-
-Deerfield, IL 60015 USA
+Sandoz Inc., Princeton, NJ 08540
 
 Baxter is a registered trademark of Baxter International Inc.
-
-46290115-01

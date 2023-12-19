@@ -36,6 +36,8 @@ Because of the potential for serious adverse reactions in a breastfed child, adv
 
 ## 8.3 Females and Males of Reproductive Potential
 
+Based on findings in animals, Docetaxel Injection can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+
 Pregnancy Testing
 
 Verify pregnancy status in females of reproductive potential prior to initiating Docetaxel Injection.
@@ -44,12 +46,11 @@ Contraception
 
 Females
 
-Docetaxel can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
-Advise females of reproductive potential to use effective contraception during treatment and for 6 months after the last dose of Docetaxel Injection.
+Based on genetic toxicity findings, advise females of reproductive potential to use effective contraception during treatment and for 2 months after the last dose of Docetaxel Injection.
 
 Males
 
-Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of Docetaxel Injection.
+Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after the last dose of Docetaxel Injection.
 
 Infertility
 
@@ -83,10 +84,10 @@ One patient out of 50 in the TCF group (2%) had a complete response while none o
 Pharmacokinetics
 
 Pharmacokinetic parameters for docetaxel were determined in 2 pediatric solid tumor trials.
-Following docetaxel administration at 55 mg/m2 to 235 mg/m2 in a 1-hour intravenous infusion every 3 weeks in 25 patients aged 1 to 20 years (median 11 years), docetaxel clearance was 17.3±10.9 L/h/m2.
+Following docetaxel administration at 55 mg/m2 to 235 mg/m2 in a 1-hour intravenous infusion every 3 -weeks in 25 patients aged 1 to 20 years (median 11 years), docetaxel clearance was 17.3±10.9 L/h/m2.
 
 Docetaxel was administered in combination with cisplatin and 5-fluorouracil (TCF), at dose levels of 75 mg/m2 in a 1-hour intravenous infusion day 1 in 28 patients aged 10 to 21 years (median 16 years, 17 patients were older than 16).
-Docetaxel clearance was 17.9±8.75 L/h/m2, corresponding to an AUC of 4.20±2.57 µg·h/mL.
+Docetaxel clearance was 17.9±8.75 L/h/m2, corresponding to an AUC of 4.20±2.57 µg•h/mL.
 
 In summary, the body surface area adjusted clearance of docetaxel monotherapy and TCF combination in children were comparable to those in adults [see Clinical Pharmacology (12.3)].
 
@@ -107,7 +108,7 @@ When docetaxel was combined with carboplatin for the treatment of chemotherapy-n
 Prostate Cancer
 
 Of the 333 patients treated with docetaxel every three weeks plus prednisone in the prostate cancer study (TAX327), 209 patients were 65 years of age or greater and 68 patients were older than 75 years.
-In patients treated with docetaxel every three weeks, the following treatment emergent adverse reactions occurred at rates ≥10% higher in patients 65 years of age or greater compared to younger patients: anemia (71% vs. 59%), infection (37% vs. 24%), nail changes (34% vs. 23%), anorexia (21% vs. 10%), weight loss (15% vs. 5%) respectively.
+In patients treated with docetaxel every three weeks, the following treatment -emergent adverse reactions occurred at rates ≥10% higher in patients 65 years of age or greater compared to younger patients: anemia (71% vs. 59%), infection (37% vs. 24%), nail changes (34% vs. 23%), anorexia (21% vs. 10%), weight loss (15% vs. 5%), respectively.
 
 Breast Cancer
 
