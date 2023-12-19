@@ -30,15 +30,20 @@ The vaginal delivery of estrogens circumvents first-pass metabolism.
 
 In a single-center, randomized, open-label, multiple-dose study conducted in 29 patients, Vagifem 10 mcg demonstrated a mean estradiol (E2) Cave at Day 83 of 5.5 pg/mL after 12 weeks of treatment (see Table 2).
 
-Table 2: Arithmetic Means of Estradiol (E2), Estrone (E1), and Estrone Sulfate (E1S) PK Parameters Following Multiple DosesPatients received vaginal inserts as a once daily intravaginal treatment for the first 2 weeks and a twice weekly intravaginal maintenance for the following 10 weeks. of Vagifem 10 mcg
+Table 2: Arithmetic Means of Estradiol (E2), Estrone (E1), and Estrone Sulfate (E1S) PK Parameters Following Multiple Dosesa of Vagifem 10 mcg
 
-| Uncorrected for baseline, N=29 |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | E2 |  |  | E1 |  |  | E1S |  |  |
-|  | AUC0-24(h.pg/mL) | Cave (0-24)(pg/mL) | %CV CV: Coefficient of Variance for both AUC0-24 and Cave(0-24) | AUC0-24(h.pg/mL) | Cave (0-24)(pg/mL) | %CV | AUC0-24(h.pg/mL) | Cave (0-24)(pg/mL) | %CV |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | AUC0-24(h.pg/mL) | Cave (0-24) (pg/mL) | %CVb | AUC0-24(h.pg/mL) | Cave (0-24) (pg/mL) | %CVb | AUC0-24 (h.pg/mL) | Cave (0-24) (pg/mL) | %CVb |
 | Day 1 | 242.08 | 10.09 | 33.02 | 485.21 | 20.22 | 44.86 | 5158.32 | 214.93 | 53.57 |
 | Day 14 | 176.49 | 7.35 | 43.69 | 496.14 | 20.67 | 30.88 | 6323.41 | 263.48 | 50.07 |
 | Day 83 | 132.04 | 5.50 | 59.69 | 411.08 | 17.13 | 39.58 | 3804.65 | 158.53 | 49.76 |
+
+a Patients received vaginal inserts as a once daily intravaginal treatment for the first 2 weeks and a twice weekly intravaginal
+
+maintenance for the following 10 weeks.
+
+b CV: Coefficient of Variance for both AUC0-24 and Cave(0-24)
 
 Distribution
 

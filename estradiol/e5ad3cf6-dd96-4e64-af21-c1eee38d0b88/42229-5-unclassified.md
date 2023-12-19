@@ -1,59 +1,62 @@
 # INSTRUCTIONS FOR USE Vagifem (Va-juh-fem) (estradiol vaginal insert)
 
-Read this Patient Information before you start using Vagifem and read what you get each time you refill your Vagifem prescription.
+Read this Instructions for Use before you start using Vagifem and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
 
-Step 1: Tear off a single applicator.
+How should I use Vagifem?
 
-Step 2: Separate the plastic wrap and remove the applicator from the plastic wrap as shown in Figure A.
+- •Vagifem is an insert for use only in the vagina.
+  Do not take by mouth.
+- •Wash and dry your hands well before handling Vagifem.
 
-If after opening the package you see that the insert has come out of the applicator but has not fallen out of the package, carefully put it back into the applicator for insertion.
-Please keep your hands clean and dry while handling the insert.
+Step 1: Tear off 1 applicator.
 
-Step 3: Hold the applicator so that the finger of one hand can press the applicator plunger as shown in Figure B.
+Step 2: Pull apart the plastic wrap and remove the applicator (see Figure A).
 
-Step 4: Next select the best position for vaginal insertion of Vagifem (estradiol vaginal inserts) that is most comfortable for you.
-See suggested reclining Figure C or standing Figure D position illustrated below:
+If after opening the package you see that the Vagifem insert has come out of the applicator but has not fallen out of the package, carefully put the insert back into the applicator for insertion.
 
-Step 5: Using the other hand, guide the applicator gently and comfortably through the vaginal opening (see Figures C and D above).
-If prior to insertion the insert falls out of the applicator, throw the insert and applicator away and use a new insert-filled applicator.
+Step 3: Hold the applicator between your thumb and middle finger.
+Leave your index (pointer) finger free to press the applicator plunger (see Figure B).
 
-Step 6: The applicator should be inserted (without forcing) as far as comfortably possible, or until half of the applicator is inside your vagina, whichever is less.
+Step 4: Select the best position for vaginal insertion of Vagifem (estradiol vaginal inserts) that is most comfortable for you.
+For insertion in the lying down position, see Figure C. For insertion in the standing position, see Figure D.
 
-Step 7: Once the insert-filled applicator has been inserted, gently press the plunger until the plunger is fully depressed.
-This will eject the insert inside your vagina where it will dissolve slowly over several hours.
+Step 5: Gently insert the end of the applicator into your vagina as far as it will comfortably go or until half of the applicator is inside your vagina, whichever is less.
+Do not use force.
+If the insert falls out of the applicator before insertion, throw away (dispose of) the insert and applicator.
+Get a new applicator.
 
-Step 8: After depressing the plunger, gently remove the applicator and dispose of it the same way you would a plastic tampon applicator.
-The applicator is of no further use and should be discarded properly.
+Step 6: While holding the applicator in place, gently press the applicator plunger with your index (pointer) finger until it stops, to release the insert into your vagina.
+The insert will dissolve.
+
+Step 7: Gently remove the applicator from your vagina and throw away (dispose of) after use.
 Insertion may be done at any time of the day.
 It is advisable to use the same time daily for all applications of Vagifem (estradiol vaginal inserts).
-If you have any questions, please consult your healthcare provider or pharmacist.
+If you have any questions, please ask your healthcare provider or pharmacist.
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+How should I store Vagifem?
+
+• Store Vagifem at room temperature between 68⁰F to 77⁰F (20⁰C to 25⁰C).
+
+• Do not refrigerate.
+
+Keep Vagifem and all medicines out of the reach of children.
 
 Manufactured by:
 
 Novo Nordisk A/S
 
-DK-2880 Bagsværd, Denmark
+DK-2880 Bagsvaerd, Denmark
 
 Vagifem® is a registered trademark owned by Novo Nordisk Health Care AG.
 
-Patent Information:
+Patent Information: https://www.novonordisk-us.com/products/product-patents.html
 
-http://novonordisk-us.com/products/product-patents.html
+© 2015-2023 Novo Nordisk
 
-© 2022 Novo Nordisk
-
-For information contact:
-
-1. Novo Nordisk Inc.
-
-Plainsboro, NJ 08536
-
-1-800-727-6500 (Se habla español)
+For more information contact: Novo Nordisk Inc., Plainsboro, NJ 08536, 1-800-727-6500 (Se habla español)
 
 www.novonordisk-us.com
 
-Revised: 09/2022
+1. This Instructions for Use has been approved by the U.S. Food and Drug Administration.Revised: 12/2023
