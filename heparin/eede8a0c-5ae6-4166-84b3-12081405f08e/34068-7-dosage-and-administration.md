@@ -4,19 +4,20 @@
 
 Confirm the selection of the correct formulation and strength prior to administration of the drug.
 
-Do not use HEPARIN SODIUM IN 5% DEXTROSE INJECTION as a “catheter lock flush” product.
+This product should be administered by intravenous infusion.
+
+Do not use Heparin Sodium in 5% Dextrose Injection as a “catheter lock flush” product.
 
 Do not admix with other drugs.
+
+Discard unused portion.
 
 Do not use plastic containers in series connection.
 
 This product should not be infused under pressure.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-
-Do not administer unless the solution is clear and container is undamaged.
-
-Discard unused portion
+Use only if solution is clear and container and seals are intact.
 
 To Open Tear outer wrap and remove solution container.
 
@@ -38,10 +39,10 @@ Warning: Do not use flexible container in series connections.
 
 ## 2.2 Laboratory Monitoring for Efficacy and Safety
 
-The dosage of heparin sodium should be adjusted according to the patient's coagulation test results.
-When heparin is given by continuous intravenous infusion, the coagulation time should be determined approximately every 4 hours in the early stages of treatment.
-When the drug is administered intermittently by intravenous injection, coagulation tests should be performed before each injection during the early stages of treatment and at appropriate intervals thereafter.
-Dosage is considered adequate when the activated partial thromboplastin time (APTT) is 1.5 to 2 times normal or when the whole blood clotting time is elevated approximately 2.5 to 3 times the control value.
+Adjust the dosage of heparin sodium according to the patient's coagulation test results.
+When heparin is given by continuous intravenous infusion, determine the coagulation time approximately every 4 hours in the early stages of treatment.
+When the drug is administered intermittently by intravenous injection, perform coagulation tests before each injection during the early stages of treatment and at appropriate intervals thereafter.
+Dosage is considered adequate when the activated partial thromboplastin time (APTT) is 1.5 to 2 times the normal or when the whole blood clotting time is elevated approximately 2.5 to 3 times the control value.
 
 Periodic platelet counts, hematocrits, and tests for occult blood in stool are recommended during the entire course of heparin therapy.
 
@@ -55,19 +56,19 @@ Table 1: Recommended Adult Full-Dose Heparin Regimens for Therapeutic Anticoagul
 | Method of Administration | Frequency | Recommended DoseBased on 150 lb. (68 kg) patient. |
 | --- | --- | --- |
 | Intermittent Intravenous Injection | Initial Dose | 10,000 Units, either undiluted or in 50 to 100 mL of 5% Dextrose Injection |
-| Every 4 to 6 hours | 5,000 to 10,000 Units, either undiluted or in 50 to 100 mL of 5% Dextrose Injection |  |
+| Subsequent Doses | 5,000 to 10,000 Units every 4 to 6 hours, either undiluted or in 50 to 100 mL of 5% Dextrose Injection |  |
 | Continuous Intravenous Infusion | Initial Dose | 5,000 Units by intravenous injection |
-| Continuous | 20,000 to 40,000 Units/24 hours in 1000 mL of 5% Dextrose Injection |  |
+| Continuous | 20,000 to 40,000 Units every 24 hours in 1,000 mL of 5% Dextrose Injection |  |
 
 ## 2.4 Pediatric Use
 
-There are no adequate and well controlled studies on heparin use in pediatric patients.
+There are no adequate and well-controlled studies on heparin use in pediatric patients.
 Pediatric dosing recommendations are based on clinical experience.
 In general, the following dosage schedule may be used as a guideline in pediatric patients:
 
-| Initial Dose | 75 to 100 units/kg (intravenous bolus over 10 minutes) |
+| Initial Dose | 75 units/kg to 100 units/kg (intravenous bolus over 10 minutes) |
 | --- | --- |
-| Maintenance Dose | Infants: 25 to 30 units/kg/hour; Infants < 2 months have the highest requirements (average 28 units/kg/hour) Children > 1 year of age: 18 to 20 units/kg/hour; Older children may require less heparin, similar to weight-adjusted adult dosage |
+| Maintenance Dose | Infants: 25 units/kg/hour to 30 units/kg/hour; Infants < 2 months have the highest requirements (average 28 units/kg/hour) Children > 1 year of age: 18 units/kg/hour to 20 units/kg/hour; Older children may require less heparin, similar to weight-adjusted adult dosage |
 | Monitoring | Adjust heparin to maintain APTT of 60 to 85 seconds, assuming this reflects an anti-Factor Xa level of 0.35 to 0.70. |
 
 ## 2.5 Cardiovascular Surgery
@@ -78,7 +79,7 @@ Frequently, a dose of 300 units per kilogram is used for procedures estimated to
 ## 2.6 Converting to Warfarin
 
 To ensure continuous anticoagulation when converting from heparin sodium to warfarin, continue full heparin therapy for several days until the INR (prothrombin time) has reached a stable therapeutic range.
-Heparin therapy may then be discontinued without tapering [see Drug Interactions (7.4)].
+Heparin therapy may then be discontinued without tapering [see Drug Interactions (7.1)].
 
 ## 2.7 Converting to Oral Anticoagulants other than Warfarin
 

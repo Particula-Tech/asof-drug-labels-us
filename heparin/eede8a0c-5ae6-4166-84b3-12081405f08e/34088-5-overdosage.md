@@ -1,10 +1,12 @@
 # 10 OVERDOSAGE
 
+An overdose requires immediate medical attention and treatment.
+
 Symptoms
 
 Bleeding is the chief sign of heparin overdosage.
-Nosebleeds, blood in urine or tarry stools may be noted as the first sign of bleeding.
-Easy bruising or petechial formations may precede frank bleeding.
+Easy bruising, petechial formations, nosebleeds, blood in urine or tarry stools may be the first signs or symptoms of a heparin overdose.
+In the event of symptomatic heparin overdose, consider stopping heparin infusion.
 
 Treatment
 
@@ -14,9 +16,12 @@ When clinical circumstances (bleeding) require reversal of heparinization, prota
 No more than 50 mg should be administered, very slowly, in any 10 minute period.
 Each mg of protamine sulfate neutralizes approximately 100 USP Heparin Units.
 The amount of protamine required decreases over time as heparin is metabolized.
-Although the metabolism of heparin is complex, it may, for the purpose of choosing a protamine dose, be assumed to have a half-life of about 1/2 hour after intravenous injection.
+Although the metabolism of heparin is complex, it may, for the purpose of choosing a protamine dose, be assumed to have a half-life of about 30 minutes after intravenous injection.
 
-Administration of protamine sulfate can cause severe hypotensive and anaphylactoid reactions.
-Because fatal reactions often resembling anaphylaxis have been reported, the drug should be given only when resuscitation techniques and treatment of anaphylactoid shock are readily available.
+Ideally, the dose required to neutralize the action of heparin should be guided by blood coagulation tests or calculated from a protamine neutralization test.
 
-For additional information the labeling of Protamine Sulfate Injection, USP products should be consulted.
+Because fatal reactions often resembling anaphylaxis have been reported, protamine sulfate should be given only when resuscitation techniques and treatment of anaphylactoid shock are readily available.
+
+Blood or plasma transfusions may be necessary; these dilute but do not neutralize heparin.
+
+For additional information, consult the prescribing information for Protamine Sulfate Injection, USP.
