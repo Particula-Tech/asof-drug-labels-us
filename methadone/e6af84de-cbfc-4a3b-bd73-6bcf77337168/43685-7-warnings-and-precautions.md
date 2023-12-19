@@ -25,7 +25,7 @@ To further reduce the risk of respiratory depression, consider the following:
   Follow induction directions closely to avoid inadvertent overdose [see Dosage and Administration (2.5)].
 - •Proper dosing and titration are essential and methadone should be overseen only by healthcare professionals who are knowledgeable in the pharmacokinetics and pharmacodynamics of methadone.
 
-Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Patient CounselingInformation (17)].
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Patient Counseling Information (17)].
 
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
@@ -35,13 +35,13 @@ Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
 Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
 Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with DISKETS Dispersible Tablets.
-Also consider prescribing naloxone if the patient hashousehold members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.3)].
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.3)].
 
 Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with DISKETS Dispersible Tablets itself [see Overdosage (10)].
 
 Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
 Educate patients and caregivers on how to recognize respiratory depression and, if naloxone is prescribed, how to treat with naloxone.
-Emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered[see Patient Counseling Information (17)].
+Emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see Patient Counseling Information (17)].
 
 ## 5.2 Managing Risks From Concomitant Use of Benzodiazepines or Other CNS Depressants with Methadone
 
@@ -64,7 +64,7 @@ For patients in methadone treatment, benzodiazepines are not the treatment of ch
 Before co-prescribing benzodiazepines, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments to address anxiety or insomnia.
 Ensure that other healthcare providers prescribing benzodiazepines or other CNS depressants are aware of the patient’s methadone treatment and coordinate care to minimize the risks associated with concomitant use.
 
-If concomitant use is warranted, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, as is recommended for all patients in methadone treatment for opioid use disorder[see Warnings and Precautions (5.1)].
+If concomitant use is warranted, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, as is recommended for all patients in methadone treatment for opioid use disorder [see Warnings and Precautions (5.1)].
 
 In addition, take measures to confirm that patients are taking the medications prescribed and not diverting or supplementing with illicit drugs.
 Toxicology screening should test for prescribed and illicit benzodiazepines [see Drug Interactions (7)].
@@ -155,7 +155,7 @@ The information available does not identify any particular opioids as being more
 ## 5.11 Severe Hypotension
 
 Methadone may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
-There is an increased risk in patients whose ability to maintain normal blood pressure is compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g. phenothiazines or general anesthetics) [see DrugInteractions (7)].
+There is an increased risk in patients whose ability to maintain normal blood pressure is compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g. phenothiazines or general anesthetics) [see Drug Interactions (7)].
 Monitor these patients for signs of hypotension after initiating or titrating the dosage of DISKETS Dispersible Tablets.
 In patients with circulatory shock, DISKETS may cause vasodilation that can further reduce cardiac output and blood pressure.
 Avoid the use of DISKETS in patients with circulatory shock.
@@ -194,6 +194,13 @@ Do not abruptly discontinue DISKETS Dispersible Tablets [see Drug Abuse and Depe
 DISKETS Dispersible Tablets may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of DISKETS Dispersible Tablets and know how they will react to the medication [see Patient Counseling Information (17)].
 
-## 5.17 Laboratory Test Interactions
+## 5.17 Hypoglycemia
+
+Cases of methadone-associated hypoglycemia have been reported, some resulting in hospitalization.
+In many cases, patients had predisposing risk factors (e.g., diabetes).
+The relationship between methadone and hypoglycemia is not fully understood but may be dose dependent.
+If hypoglycemia is suspected, monitor blood glucose levels, and manage the patient as clinically appropriate.
+
+## 5.18 Laboratory Test Interactions
 
 False positive urine drug screens for methadone have been reported for several drugs including diphenhydramine, doxylamine, clomipramine, chlorpromazine, thioridazine, quetiapine, and verapamil.
