@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA211757"
+  ],
+  "inn": "cyclophosphamide",
+  "labeler": "XGen Pharmaceuticals DJB, Inc.",
+  "package_ndcs": [
+    "39822-0250-1",
+    "39822-0255-1",
+    "39822-0260-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "cyclophosphamide",
+      "name": "CYCLOPHOSPHAMIDE"
+    }
+  ],
+  "setid": "02e64046-687d-449e-e063-6294a90a6c32",
+  "source": "dailymed"
+}
