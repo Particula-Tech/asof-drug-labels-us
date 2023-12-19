@@ -2,17 +2,17 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
+Risk Summary Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
 Available data with HYSINGLA ER in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
 In animal reproduction studies with hydrocodone in rats and rabbits no embryotoxicity or teratogenicity was observed.
 However, reduced pup survival rates, reduced fetal/pup body weights, and delayed ossification were observed at doses causing maternal toxicity.
 In all of the studies conducted, the exposures in animals were less than the human exposure [see Data].
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Clinical Considerations Fetal/neonatal adverse reactions Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Clinical Considerations Fetal/neonatal adverse reactions Use of opioid analgesics for extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
 Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
@@ -43,15 +43,15 @@ Withdrawal symptoms can occur in breastfed infants when maternal administration 
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Infertility Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
-It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2)].
+Infertility Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
+It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of HYSINGLA ER in pediatric patients have not been established.
 
 HYSINGLA ER gradually forms a viscous hydrogel (i.e., a gelatinous mass) when exposed to water or other fluids.
-Pediatric patients may be at increased risk of esophageal obstruction, dysphagia, and choking because of a smaller gastrointestinal lumen if they ingest HYSINGLA ER [see Warnings and Precautions (5.12)]
+Pediatric patients may be at increased risk of esophageal obstruction, dysphagia, and choking because of a smaller gastrointestinal lumen if they ingest HYSINGLA ER [see Warnings and Precautions (5.13)].
 
 ## 8.5 Geriatric Use
 
@@ -62,21 +62,21 @@ In clinical trials with appropriate initiation of therapy and dose titration, no
 In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of HYSINGLA ER slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.3)].
+Titrate the dosage of HYSINGLA ER slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.8)].
 
 Hydrocodone is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
 
 ## 8.6 Hepatic Impairment
 
 No adjustment in starting dose with HYSINGLA ER is required in patients with mild or moderate hepatic impairment.
 Patients with severe hepatic impairment may have higher plasma concentrations than those with normal hepatic function [see Clinical Pharmacology (12.3)].
 Therefore, a dosage reduction is recommended for these patients [see Dosage and Administration (2.5)].
-Monitor closely for respiratory depression, sedation, and hypotension.
+Regularly evaluate closely for respiratory depression, sedation, and hypotension.
 
 ## 8.7 Renal Impairment
 
 No dose adjustment is needed in patients with mild renal impairment.
 Patients with moderate or severe renal impairment or end stage renal disease have higher plasma concentrations than those with normal renal function [see Clinical Pharmacology (12.3)].
 Therefore, a dosage reduction is recommended for these patients [see Dosage and Administration (2.6)].
-Monitor closely for respiratory depression, sedation, and hypotension.
+Regularly evaluate closely for respiratory depression, sedation, and hypotension.

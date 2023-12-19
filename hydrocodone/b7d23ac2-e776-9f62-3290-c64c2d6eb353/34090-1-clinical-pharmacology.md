@@ -15,7 +15,7 @@ However, specific CNS opioid receptors for endogenous compounds with opioid-like
 Cardiac Electrophysiology QTc interval prolongation was studied in a double-blind, placebo- and positive-controlled 3-treatment parallel-group, dose-escalating study of HYSINGLA ER in 196 healthy subjects.
 QTc interval prolongation was observed following HYSINGLA ER 160 mg per day.
 The maximum mean (90% upper confidence bound) difference in the QTc interval between HYSINGLA ER and placebo (after baseline-correction) at steady state was 6 (9) milliseconds, 7 (10) milliseconds, and 10 (13) milliseconds at HYSINGLA ER doses of 80 mg, 120 mg and 160 mg respectively.
-For clinical implications of the prolonged QTc interval, see Warnings and Precautions (5.10).
+For clinical implications of the prolonged QTc interval, [see Warnings and Precautions (5.11)].
 
 Effects on the Central Nervous System Hydrocodone produces respiratory depression by direct action on brainstem respiratory centers.
 The respiratory depression involves a reduction in the responsiveness of the brain stem respiratory centers to both increases in carbon dioxide tension and electrical stimulation.
@@ -34,14 +34,14 @@ Effects on the Cardiovascular System Hydrocodone produces peripheral vasodilatio
 Effects on the Endocrine System Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
 
 Effects on the Immune System Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
-Concentration—Efficacy Relationships The minimum effective analgesic concentration will vary widely among patients who have been previously treated with potent agonist opioids.
+Concentration—Efficacy Relationships The minimum effective analgesic concentration will vary widely among patients especially among patients who have been previously treated with opioid agonists.
 The minimum effective analgesic concentration of hydrocodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.4)].
 
 Concentration—Adverse Experience Relationships There is a relationship between increasing hydrocodone plasma concentration and increasing frequency of adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
@@ -121,7 +121,7 @@ Renal Impairment After a single dose of 60 mg HYSINGLA ER in subjects (8 each) w
 Mean hydrocodone AUC values were 754, 942, 1222, 1220, and 932 ng.hr/mL for subjects with normal renal function, mild, moderate or severe renal impairment and ESRD with dialysis, respectively.
 Hydrocodone Cmax values were 14%, 23%, 11% and -13% and AUC values were 13%, 61%, 57% and 4% higher in patients with mild, moderate or severe renal impairment or end stage renal disease with dialysis, respectively [see Use in Specific Populations (8.7)].
 
-Drug Interaction Studies CYP3A4 Co-administration of HYSINGLA ER (20 mg single dose) and CYP3A4 inhibitor ketoconazole (200 mg BID for 6 days) increased mean hydrocodone AUC and Cmax by 135% and 78%, respectively [see Warnings and Precautions (5.5) and Drug Interactions (7)].
+Drug Interaction Studies CYP3A4 Co-administration of HYSINGLA ER (20 mg single dose) and CYP3A4 inhibitor ketoconazole (200 mg BID for 6 days) increased mean hydrocodone AUC and Cmax by 135% and 78%, respectively [see Warnings and Precautions (5.6) and Drug Interactions (7)].
 
 CYP2D6 The 90% confidence interval (CI) of the geometric means for hydrocodone AUCinf (98 to 115%), AUCt (98 to 115%), and Cmax (93 to 121%) values were within the range of 80 to 125% when a single dose of HYSINGLA ER 20 mg was co-administered with CYP2D6 inhibitor paroxetine (20 mg treatment each morning for 12 days).
 No differences in systemic exposure of hydrocodone were observed in the presence of paroxetine.

@@ -18,4 +18,4 @@ Store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) [se
 
 Dispense in tight, light-resistant container, as defined by the USP.
 
-Store HYSINGLA ER securely and dispose of properly [see Patient Counseling Information (17)].
+Store HYSINGLA ER securely and dispose of properly.

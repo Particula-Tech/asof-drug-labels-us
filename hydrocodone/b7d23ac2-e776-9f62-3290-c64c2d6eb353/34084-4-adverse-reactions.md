@@ -3,14 +3,15 @@
 The following serious adverse reactions are described elsewhere in the labeling:
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
-- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- Interactions with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.3)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
-- Interactions with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.6)]
-- Adrenal Insufficiency [see Warnings and Precautions (5.8)]
-- Severe Hypotension [see Warnings and Precautions (5.9)]
-- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.12, 5.13)]
-- Seizures [see Warnings and Precautions (5.14)]
-- Withdrawal [see Warnings and Precautions (5.15)]
+- Opioid-Induced Hyperalgesia and Allodynia [see Warnings and Precautions (5.7)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.9)]
+- Severe Hypotension [see Warnings and Precautions (5.10)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.13, 5.14)]
+- Seizures [see Warnings and Precautions (5.15)]
+- Withdrawal [see Warnings and Precautions (5.16)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -73,4 +74,9 @@ Adrenal insufficiency: Cases of adrenal insufficiency have been reported with op
 
 Anaphylaxis: Anaphylaxis has been reported with ingredients contained in HYSINGLA ER.
 
-Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+Androgen deficiency: Cases of androgen deficiency have occurred with use of opioids for an extended period of time [see Clinical Pharmacology (12.2)].
+
+Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see Warnings and Precautions (5.7)].
+
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking opioids.
+Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).
