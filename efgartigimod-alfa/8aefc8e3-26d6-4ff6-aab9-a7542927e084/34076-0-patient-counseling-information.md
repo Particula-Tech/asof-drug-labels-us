@@ -8,5 +8,9 @@ Administration of live or live-attenuated vaccines is not recommended during tre
 
 Hypersensitivity Reactions
 
-Inform patients about the signs and symptoms of hypersensitivity reactions.
-Advise patients to contact their healthcare provider immediately for signs or symptoms of hypersensitivity reactions [see Warnings and Precautions (5.2)].
+Inform patients that hypersensitivity reactions, including angioedema and anaphylaxis, have occurred in patients who were treated with VYVGART.
+Inform patients about the signs and symptoms of these reactions, and advise patients to contact their healthcare provider immediately if these occur [see Warnings and Precautions (5.2)].
+
+Infusion-Related Reactions
+
+Advise patients of the potential risk of infusion-related reactions, which can include hypertension, chills, shivering, and chest, abdominal, and back pain [see Warnings and Precautions (5.3)].

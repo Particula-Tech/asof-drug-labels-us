@@ -11,7 +11,7 @@ Study 1 enrolled patients who met the following criteria at screening:
 
 A total of 167 patients were enrolled in Study 1 and were randomized to receive either VYVGART 10 mg/kg (1200 mg for those weighing 120 kg or more) (n=84) or placebo (n=83).
 Baseline characteristics were similar between treatment groups.
-Patients had a median age of 46 years at screening (range: 19 to 81 years) and a median time since diagnosis of 9 years.
+Patients had a median age of 46 years at screening (range: 19 to 81 years) and a median time since diagnosis of 7 years.
 Seventy-one percent were female, and 84% were White.
 Median MG-ADL total score was 9, and median Quantitative Myasthenia Gravis (QMG) total score was 16.
 The majority of patients (n=65 for VYVGART; n=64 for placebo) were positive for AChR antibodies.

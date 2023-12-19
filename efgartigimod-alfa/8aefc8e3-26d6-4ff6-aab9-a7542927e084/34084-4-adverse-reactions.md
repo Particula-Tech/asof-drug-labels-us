@@ -4,6 +4,7 @@ The following clinically significant adverse reactions are described elsewhere i
 
 - Infections [see Warnings and Precautions (5.1)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.2)]
+- Infusion-Related Reactions [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -32,7 +33,14 @@ Table 1: Adverse Reactions in ≥ 5% of Patients Treated with VYVGART and More F
 | ParaesthesiaParaesthesia includes oral hypoesthesia, hypoesthesia, and hyperesthesia. | 7 | 5 |
 | Myalgia | 6 | 1 |
 
-## 6.2 Immunogenicity
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of VYVGART.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Immune System Disorders: Hypersensitivity reactions including anaphylaxis and hypotension, and infusion-related reactions [see Warnings and Precautions (5.2, 5.3)].
+
+## 6.3 Immunogenicity
 
 As with all therapeutic proteins, there is potential for immunogenicity.
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.

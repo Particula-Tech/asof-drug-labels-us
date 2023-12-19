@@ -19,7 +19,21 @@ Evaluate the need to administer age-appropriate vaccines according to immunizati
 
 ## 5.2 Hypersensitivity Reactions
 
-Hypersensitivity reactions, including rash, angioedema, and dyspnea were observed in VYVGART-treated patients.
-In clinical trials, hypersensitivity reactions were mild or moderate, occurred within one hour to three weeks of administration, and did not lead to treatment discontinuation.
-Monitor patients during administration and for 1 hour thereafter for clinical signs and symptoms of hypersensitivity reactions [see Dosage and Administration (2.3)].
-If a hypersensitivity reaction occurs during administration, discontinue VYVGART infusion and institute appropriate supportive measures if needed.
+In clinical trials, hypersensitivity reactions, including rash, angioedema, and dyspnea were observed in VYVGART-treated patients.
+Hypersensitivity reactions were mild or moderate, occurred within one hour to three weeks of administration, and did not lead to treatment discontinuation.
+
+Anaphylaxis and hypotension leading to syncope have been reported in postmarketing experience with VYVGART.
+Anaphylaxis and hypotension occurred during or within an hour of administration and led to infusion discontinuation and in some cases to permanent treatment discontinuation.
+
+Monitor patients during administration and for 1 hour thereafter for clinical signs and symptoms of hypersensitivity reactions.
+If a hypersensitivity reaction occurs, the healthcare professional should institute appropriate measures if needed or the patient should seek medical attention.
+VYVGART is contraindicated in patients with a history of serious hypersensitivity to efgartigimod alfa products or to any of the excipients of VYVGART [see Contraindications (4)].
+
+## 5.3 Infusion-Related Reactions
+
+Infusion-related reactions have been reported with VYVGART in postmarketing experience.
+The most frequent symptoms and signs were hypertension, chills, shivering, and thoracic, abdominal, and back pain.
+Infusion-related reactions occurred during or within an hour of administration and led to infusion discontinuation.
+If a severe infusion-related reaction occurs during administration, discontinue VYVGART infusion and initiate appropriate therapy.
+Consider the risks and benefits of readministering VYVGART following a severe infusion-related reaction.
+If a mild to moderate infusion-related reaction occurs, patients may be rechallenged with close clinical observation, slower infusion rates, and pre-medications.
