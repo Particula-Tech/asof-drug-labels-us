@@ -1,3 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-Heparin Sodium Injection in 0.9% Sodium Chloride at the concentration of 2 USP units/mL is indicated as an anticoagulant to maintain catheter patency.
+Heparin Sodium in 0.9% Sodium Chloride Injection at the concentration of 2 USP units/mL is indicated as an anticoagulant to maintain catheter patency.

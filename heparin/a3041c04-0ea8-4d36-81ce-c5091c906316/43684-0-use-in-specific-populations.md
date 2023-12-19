@@ -14,8 +14,6 @@ In the U.S. general population, the estimated background risk of major birth def
 
 ### Data
 
-​
-
 #### Human Data
 
 The maternal and fetal outcomes associated with uses of heparin via various dosing methods and administration routes during pregnancy have been investigated in numerous studies.

@@ -14,12 +14,13 @@ Heparin-Induced Thrombocytopenia
 
 Inform patients of the risk of heparin-induced thrombocytopenia (HIT).
 HIT may progress to the development of venous and arterial thromboses, a condition known as heparin-induced thrombocytopenia and thrombosis (HITT).
-HIT (With or Without Thrombosis) can occur up to several weeks after the discontinuation of heparin therapy [see Warnings and Precautions (5.3)].
+HIT or HITT can occur up to several weeks after the discontinuation of heparin therapy [see Warnings and Precautions (5.3 and 5.4)].
 
 Hypersensitivity
 
 Inform patients that generalized hypersensitivity reactions have been reported.
+Necrosis of the skin has been reported at the site of subcutaneous injection of heparin [see Warnings and Precautions (5.5), Adverse Reactions (6.1)].
 
 Other Medications
 
-Because of the risk of hemorrhage, advise patients to inform their physicians and dentists of all medications they are taking, including non-prescription medications, and before starting any new medication [see Drug Interactions (7.1)].
+Because of the risk of hemorrhage, advise patients to inform their physicians and dentists of all medications they are taking, including non-prescription medications, and before starting any new medication [see Drug Interactions (7)].

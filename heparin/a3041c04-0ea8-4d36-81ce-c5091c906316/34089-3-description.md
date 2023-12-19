@@ -5,11 +5,11 @@ It is composed of polymers of alternating derivations of alpha-L-iduronic acid 2
 
 Structure of Heparin Sodium (representative subunits):
 
-Heparin Sodium 1,000 USP units per 500 mL (2 USP units per mL) in 0.9% Sodium Chloride Injection is a sterile, nonpyrogenic solution prepared from Heparin Sodium USP (derived from porcine intestinal mucosa and standardized for use as an anticoagulant) in 0.9% Sodium Chloride Injection.
+Heparin Sodium in 0.9% Sodium Chloride Injection is a sterile, single-dose, clear, nonpyrogenic solution prepared from Heparin Sodium USP (derived from porcine intestinal mucosa and standardized for use as an anticoagulant) in 0.9% Sodium Chloride Injection.
 It is to be administered by intravenous injection.
 The potency is determined by a biological assay using a USP reference standard based on units of heparin activity per milligram.
 
-Each 100 mL contains 0.43 g Dibasic Sodium Phosphate•7H2O USP and 0.037 g Citric Acid Anhydrous USP as a buffer system, 0.9 g Sodium Chloride USP, and Water for Injection USP qs.
+Each 100 mL contains 200 USP Units Heparin Sodium, 0.43 g Dibasic Sodium Phosphate•7H2O USP and 0.037 g Citric Acid Anhydrous USP as a buffer system, 0.9 g Sodium Chloride USP, and Water for Injection USP qs.
 
 pH: 7.0 (6.8-7.2); Calculated Osmolarity: 360 mOsmol/liter
 
