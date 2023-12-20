@@ -6,4 +6,4 @@ Bottles of 100 are supplied with child-resistant closures (NDC 0591-3220-01).
 
 Store below 30°C (86°F); and dispense in a tight container.
 
-Store Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules securely and dispose of properly [see Patient Counseling Information (17)].
+Store Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules securely and dispose of properly.

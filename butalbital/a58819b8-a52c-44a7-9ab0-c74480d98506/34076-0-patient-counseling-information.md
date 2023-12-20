@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Storage and Disposal
 
-Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.3), Drug Abuse and Dependence (9.2)].
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.2), Drug Abuse and Dependence (9.2)].
 Inform patients that leaving Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules unsecured can pose a deadly risk to others in the home.
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
@@ -14,7 +14,7 @@ If no take back programs or DEA-registered collectors are available, instruct pa
 - Mix Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules (do not crush) with an unpalatable substance such as dirt, cat litter, or used coffee grounds;
 - Place the mixture in a container such as a sealed plastic bag;
 - Throw the container in the household trash;
-- Delete all personal information on the prescription label of the empty bottle
+- Remove all personal information on the prescription label of the empty bottle
 
 Inform patients that they can visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
 
@@ -27,12 +27,20 @@ Life-Threatening Respiratory Depression
 
 Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules or when the dosage is increased, and that it can occur even at recommended dosages.
 
-Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.3)].
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.2)].
+
+Accidental Ingestion
+
+Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
+
+Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants (Including Alcohol)
+
+Inform patients and caregivers that potentially fatal additive effects may occur if Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
 Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules.
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
 
 Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
 
@@ -45,35 +53,26 @@ If naloxone is prescribed, also advise patients and caregivers:
 - To read the Patient Information (or other educational material) that will come with their naloxone.
   Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
-Accidental Ingestion
-
-Inform patients that accidental ingestion, especially in children, may result in respiratory depression or death[see Warnings and Precautions (5.3)].
-
-Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants (Including Alcohol)
-
-Inform patients and caregivers that potentially fatal additive effects may occur if Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.4), Drug Interactions (7)].
-
 Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-threatening Respiratory Depression in Children
 
 Advise caregivers that Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are contraindicated in all children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy.
-Advise caregivers of children 12-18 years of age receiving codeine to monitor for signs of respiratory depression [see Warnings and Precautions (5.5)].
+Advise caregivers of children 12-18 years of age receiving codeine to watch for signs of respiratory depression [see Warnings and Precautions (5.6)].
+
+Hyperalgesia and Allodynia
+
+Inform patients and caregivers not to increase opioid dosage without first consulting a clinician.
+Advise patients to seek medical attention if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings and Precautions (5.9), Adverse Reactions (6)].
 
 Serotonin Syndrome
 
-Inform patients that opioids could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
+Inform patients that opioids could cause a rare but potentially life-threatening condition called serotonin syndrome resulting from concomitant administration of serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
-Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications [see Drug Interactions (7)].
+Instruct patients to inform their healthcare providers if they are taking, or plan to take serotonergic medications [see Drug Interactions (7)].
 
 MAOI Interaction
 
 Inform patients not to take Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules while using any drugs that inhibit monoamine oxidase.
 Patients should not start MAOIs while taking Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules [see Drug Interactions (7)].
-
-Adrenal Insufficiency
-
-Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
-Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
-Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.11)].
 
 Important Administration Instructions
 
@@ -84,12 +83,27 @@ Instruct patients how to properly take Butalbital, Acetaminophen, Caffeine, and 
 
 Important Discontinuation Instructions
 
-In order to avoid developing withdrawal symptoms, instruct patients not to discontinue Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
+
+Risks of Driving and Operating Heavy Machinery
+
+Inform patients that Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.19)].
+
+Constipation
+
+Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6)].
+
+Adrenal Insufficiency
+
+Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
+Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.12)].
 
 Severe Hypotension
 
 Inform patients that Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules may cause orthostatic hypotension and syncope.
-Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.12)].
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.13)].
 
 Anaphylaxis
 
@@ -100,7 +114,7 @@ Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that prolonged use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.6), Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 
@@ -112,23 +126,11 @@ Advise women that breastfeeding is not recommended during treatment with Butalbi
 
 Infertility
 
-Inform patients that chronic use of opioids may cause reduced fertility.
+Inform patients that use of opioids for an extended period of time may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6)].
 
-Risks of Driving and Operating Heavy Machinery
+Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-Inform patients that Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.17)].
+Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054
 
-Constipation
-
-Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6)].
-
-Distributed By: Actavis Pharma, Inc.
-
-Parsippany, NJ 07054
-
-©2020 Teva Pharmaceuticals USA, Inc. All rights reserved.
-
-Rev.
-03/2021
+©2023 Teva Pharmaceuticals USA, Inc.

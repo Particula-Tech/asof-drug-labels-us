@@ -4,8 +4,10 @@
 
 Risk Summary
 
-Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.6)].
+Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
 Available data with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
+There are risks to the mother and infant associated with use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules for an extended period of time during pregnancy (see Clinical Considerations).
+
 Animal reproduction studies have not been conducted with the combination of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules or with butalbital alone.
 In animal reproduction studies, codeine administration during organogenesis has been shown to produce delayed ossification in the offspring of mice at 2.8 times maximum recommended human dose (MRHD) of 180 mg/day, embryolethal and fetotoxic effects in the offspring of rats and hamsters at approximately 4 to 6 times the MRHD, and cranial malformations/cranioschisis in the offspring of hamsters between 2 and 8 times the MRHD.
 Reproductive and developmental studies in rats and mice from the published literature identified adverse events at clinically relevant doses with acetaminophen.
@@ -16,17 +18,17 @@ A reduction in number of litters of the parental mating pair was observed as wel
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to20%, respectively.
 
 Clinical Considerations
 
 Fetal/Neonatal Adverse Reactions
 
-Prolonged use of opioid analgesics during pregnancy for medical or non-medical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Use of opioid analgesics for an extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
-Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.6)].
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
 
 Labor or Delivery
 
@@ -93,10 +95,10 @@ Risk Summary
 Codeine and its active metabolite, morphine, are present in human milk.
 There are published studies and cases that have reported excessive sedation, respiratory depression, and death in infants exposed to codeine via breast milk.
 Women who are ultra-rapid metabolizers of codeine achieve higher than expected serum levels of morphine, potentially leading to higher levels of morphine in breast milk that can be dangerous in their breastfed infants.
-In women with normal codeine metabolism (normal CYP2D6 activity), the amount of codeine secreted into human milk is low and dose-dependent.
+In women with normal codeine metabolism (normal CYP2D6 activity), the amount of codeine secreted into human milk is low and dose dependent.
 
 There is no information on the effects of the codeine on milk production.
-Because of the potential for serious adverse reactions, including excess sedation, respiratory depression, and death in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules [see Warnings and Precautions (5.5)].
+Because of the potential for serious adverse reactions, including excess sedation, respiratory depression, and death in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules [see Warnings and Precautions (5.6)].
 
 Acetaminophen is present in human milk in small quantities after oral administration.
 Based on data from more than 15 nursing mothers, the calculated infant daily dose of acetaminophen is approximately 1 to 2% of the maternal dose.
@@ -114,7 +116,7 @@ Withdrawal symptoms can occur in breastfed infants when maternal administration 
 
 Infertility
 
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6), Clinical Pharmacology (12.2), Nonclinical Pharmacology (13.1)].
 
 Published literature indicates that acetaminophen affects sperm development in mice with consequent reduction in litter size in a multigeneration study [see Nonclinical Toxicology (13.1)].
@@ -123,7 +125,7 @@ Published literature indicates that acetaminophen affects sperm development in m
 
 The safety and effectiveness of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in pediatric patients have not been established.
 
-Life-threatening respiratory depression and deaths have occurred in children who received codeine [see Warnings and Precautions (5.5)].
+Life-threatening respiratory depression and deaths have occurred in children who received codeine [see Warnings and Precautions (5.6)].
 In most of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and many of the children had evidence of being ultra-rapid metabolizers of codeine (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6 or high morphine concentrations).
 Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of codeine.
 Because of the risk of life-threatening respiratory depression and death:
@@ -131,7 +133,7 @@ Because of the risk of life-threatening respiratory depression and death:
 - Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are contraindicated for all children younger than 12 years of age [see Contraindications (4)].
 - Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
 - Avoid the use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine unless the benefits outweigh the risks.
-  Risk factors include conditions associated with hypoventilation, such as post-operative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression [see Warnings and Precautions (5.5)].
+  Risk factors include conditions associated with hypoventilation, such as post-operative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression [see Warnings and Precautions (5.6)].
 
 ## 8.5 Geriatric Use
 
@@ -145,20 +147,20 @@ Because elderly patients are more likely to have decreased renal function, care 
 Elderly patients (aged 65 years or older) may have increased sensitivity to Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules.
 In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
-Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules slowly in geriatric patients and monitor closely for signs of respiratory depression [see Warnings and Precautions (5.9)].
+Respiratory depression is the chief risk for elderly patients treated with opioids and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
+Titrate the dosage of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules slowly in geriatric patients and frequently reevaluate the patient for signs of respiratory depression [see Warnings and Precautions (5.10)].
 
 Components of this product are known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
 
 ## 8.6 Hepatic Impairment
 
 No formal studies have been conducted in patients with hepatic impairment so the pharmacokinetics of butalbital, codeine, and acetaminophen in this patient population are unknown.
-Start these patients cautiously with lower doses of codeine sulfate or with longer dosing intervals and titrate slowly while carefully monitoring for side effects.
+Start these patients cautiously with lower doses of codeine sulfate or with longer dosing intervals and titrate slowly while regularly evaluating for side effects.
 
 ## 8.7 Renal Impairment
 
 Codeine pharmacokinetics may be altered in patients with renal failure.
 Clearance may be decreased and the metabolites may accumulate to much higher plasma levels in patients with renal failure as compared to patients with normal renal function.
-Start these patients cautiously with lower doses of codeine sulfate or with longer dosing intervals and titrate slowly while carefully monitoring for side effects.
-In patients with renal disease, monitor effects of therapy with serial renal function tests.
+Start these patients cautiously with lower doses of codeine sulfate or with longer dosing intervals and titrate slowly while carefully regularly evaluating for side effects.
+In patients with renal disease, regularly evaluate effects of therapy with serial renal function tests.
