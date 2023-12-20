@@ -39,7 +39,7 @@ Effects on the Endocrine System
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6)].
 
 Effects on the Immune System
@@ -48,12 +48,12 @@ Opioids have been shown to have a variety of effects on components of the immune
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
-Concentration–Efficacy Relationships
+Concentration-Efficacy Relationships
 
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of methadone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.2,2.5)].
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with extended-release agonist opioids.
+The minimum effective analgesic concentration of methadone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.2, 2.5)].
 
-Concentration–Adverse Reaction Relationships
+Concentration-Adverse Reaction Relationships
 
 There is a relationship between increasing methadone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
 In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.2, 2.4, 2.5)].
@@ -94,9 +94,9 @@ Although antiretroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonav
 Cytochrome P450 Inducers: The following drug interactions were reported following co-administration of methadone with known inducers of cytochrome P450 enzymes:
 
 - Rifampin: In patients well-stabilized on methadone, concomitant administration of rifampin resulted in a marked reduction in serum methadone levels and a concurrent appearance of withdrawal symptoms.
-- Phenytoin: In a pharmacokinetic study with patients on methadone maintenance therapy, phenytoin administration (250 mg twice daily initially for 1 day followed by 300 mg daily for 3 to 4 days) resulted in an approximately 50% reduction in methadone exposure and withdrawal symptoms occurred concurrently.
+- Phenytoin:In a pharmacokinetic study with patients on methadone maintenance therapy, phenytoin administration (250 mg twice daily initially for 1 day followed by 300 mg daily for 3 to 4 days) resulted in an approximately 50% reduction in methadone exposure and withdrawal symptoms occurred concurrently.
   Upon discontinuation of phenytoin, the incidence of withdrawal symptoms decreased and methadone exposure increased to a level comparable to that prior to phenytoin administration.
-- St. John’s Wort, Phenobarbital, Carbamazepine: Administration of methadone with other CYP3A4 inducers may result in withdrawal symptoms.
+- St. John’s Wort, Phenobarbital, Carbamazepine:Administration of methadone with other CYP3A4 inducers may result in withdrawal symptoms.
 
 Cytochrome P450 Inhibitors:
 
@@ -111,6 +111,6 @@ Antiretroviral Drugs: Although antiretroviral drugs such as efavirenz, nelfinavi
 
 - Abacavir, Amprenavir, Darunavir+Ritonavir, Efavirenz, Nelfinavir, Nevirapine, Ritonavir, Telaprevir, Lopinavir+Ritonavir, Saquinavir+Ritonavir, Tipranavir+Ritonavir Combination:
 - Co-administration of these anti-retroviral agents resulted in increased clearance or decreased plasma levels of methadone [see Drug Interactions (7)].
-- Didanosine and Stavudine: Methadone decreased the AUC and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
+- Didanosine and Stavudine:Methadone decreased the AUC and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
   Methadone disposition was not substantially altered [see Drug Interactions (7)].
-- Zidovudine: Methadone increased the AUC of zidovudine which could result in toxic effects [see Drug Interactions (7)].
+- Zidovudine:Methadone increased the AUC of zidovudine which could result in toxic effects [see Drug Interactions (7)].

@@ -27,24 +27,24 @@ Discuss the availability of naloxone for the emergency treatment of opioid overd
 
 For Patients Being Treated for Pain
 
-- Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
-  The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
+1. Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+   The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
 
 For Patients Being Treated for Opioid Addiction
 
-- Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose.
-  Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with Methadone Hydrochloride Tablets itself.
+1. Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose.
+   Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with Methadone Hydrochloride Tablets itself.
 
 Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
-If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see Warnings and Precautions (5.3), Patient Counseling Information (17)].
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see Warnings and Precautions (5.2), Patient Counseling Information (17)].
 
 Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Patient Counseling Information (17)].
 
 ## 2.4 Methadone Hydrochloride Tablets for Management of Pain
 
-Important Dosage and Administration Information
+Important Dosage and Administration Instructions
 
-Methadone Hydrochloride Tablets should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
+Methadone Hydrochloride Tablets should be prescribed only by healthcare professionals who are knowledgeable about the use of extended-release/long-acting opioids and how to mitigate the associated risks.
 
 Consider the following important factors that differentiate methadone from other opioid analgesics:
 
@@ -54,16 +54,17 @@ Consider the following important factors that differentiate methadone from other
 - •With repeated dosing, the potency of methadone increases due to systemic accumulation.
 - •Steady-state plasma concentrations and full analgesic effects are not attained until at least 3 to 5 days on a dose, and may take longer in some patients.
 
-Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
+Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see Warnings and Precautions (5)].
+Because the risk of overdose increases as opioid doses increases, reserve titration to higher doses of Methadone Hydrochloride Tablets for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
 
-Initiate the dosing regimen for each patient individually, taking into account the patient’s severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
+Initiate the dosing regimen for each patient individually, taking into account the patient’s underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 
-Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with Methadone Hydrochloride Tablets and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
+Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with Methadone Hydrochloride Tablets.
+Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5)].
 
 Use of Methadone Hydrochloride Tablets as the First Opioid Analgesic: Initiate treatment with Methadone Hydrochloride Tablets with 2.5 mg orally every 8 to 12 hours.
 
-Conversion from Other Oral Opioids to Methadone Hydrochloride Tablets: Discontinue all other around-the-clock opioid drugs when Methadone Hydrochloride Tablets therapy is initiated.
-Deaths have occurred in opioid-tolerant patients during conversion to methadone.
+Conversion from Other Oral Opioids to Methadone Hydrochloride Tablets: When Methadone Hydrochloride Tablets therapy is initiated, discontinue all other opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
 
 The potency of methadone relative to other opioid analgesics is nonlinear and increases with increasing dose.
 Table 1 provides an estimated conversion factor for use when converting patients from another opioid to methadone.
@@ -127,9 +128,9 @@ Conversion from Parenteral Methadone to Methadone Hydrochloride Tablets: Use a c
 ## 2.5 Titration and Maintenance of Therapy for Pain
 
 Individually titrate Methadone Hydrochloride Tablets to a dose that provides adequate analgesia and minimizes adverse reactions.
-Continually reevaluate patients receiving Methadone Hydrochloride Tablets to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
+Continually reevaluate patients receiving Methadone Hydrochloride Tablets to assess the maintenance of pain control, signs and symptoms of opioid withdrawal, and other adverse reactions, as well as reassess for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1, 5.16)].
 Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
-During chronic therapy, periodically reassess the continued need for the use of opioid analgesics.
+During use of opioid therapy for an extended period of time, periodically reassess the continued need for the use of opioid analgesics.
 
 Patients who experience breakthrough pain may require a dose increase of Methadone Hydrochloride Tablets, or may need rescue medication with an appropriate dose of an immediate-release analgesic.
 If the level of pain increases after dosage stabilization, attempt to identify the source of increased pain before increasing the Methadone Hydrochloride Tablets dosage.
@@ -138,8 +139,8 @@ Because of individual variability in the pharmacokinetic profile (i.e., terminal
 However, because of this high variability, some patients may require substantially longer periods between dose increases (up to 12 days).
 Monitor patients closely for the development of potentially life-threatening adverse reactions (e.g., CNS and respiratory depression).
 
-If unacceptable opioid-related adverse reactions are observed, the subsequent doses may be reduced and/or the dosing interval adjusted (i.e., every 8 hours or every 12 hours).
-Adjust the dose to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
+If after increasing the dosage, unacceptable opioid-related adverse reactions are observed (including an increase in pain after dosage increase), consider reducing the dosage [see Warnings and Precautions (5)].
+Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
 ## 2.6 Safe Reduction or Discontinuation of Methadone Hydrochloride Tablets for Pain
 
@@ -148,7 +149,7 @@ Rapid discontinuation of opioid analgesics in patients who are physically depend
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
-When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking Methadone Hydrochloride Tablets, there are a variety of factors that should be considered, including the dose of Methadone Hydrochloride Tablets the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
+When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking Methadone Hydrochloride Tablets, there are a variety of factors that should be considered, including the total daily dose of opioid (including Methadone Hydrochloride Tablets) the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
 It is important to ensure ongoing care of the patient and to agree on an appropriate tapering schedule and follow-up plan so that patient and provider goals and expectations are clear and realistic.
 When opioid analgesics are being discontinued due to a suspected substance use disorder, evaluate and treat the patient, or refer for evaluation and treatment of the substance use disorder.
 Treatment should include evidence-based approaches, such as medication assisted treatment of opioid use disorder.
@@ -164,10 +165,10 @@ Reassess the patient frequently to manage pain and withdrawal symptoms, should t
 Common withdrawal symptoms include restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 If withdrawal symptoms arise, it may be necessary to pause the taper for a period of time or raise the dose of the opioid analgesic to the previous dose, and then proceed with a slower taper.
-In addition, monitor patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
+In addition, evaluate patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
 
-When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
-A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.15), Drug Abuse and Dependence (9.3)].
+When managing patients taking opioid analgesics, particularly those who have been treated for an extended period of time, and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
+A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.16), Drug Abuse and Dependence (9.3)].
 
 ## 2.7 Induction/Initial Dosing for Detoxification and Maintenance Treatment of Opioid Addiction
 
