@@ -71,12 +71,12 @@ Following oral administration of a given dose of morphine, the amount ultimately
 Because of pre-systemic elimination (i.e., metabolism in the gut wall and liver) only about 40% of the administered dose reaches the central compartment.
 
 The oral bioavailability of morphine is approximately 20 to 40%.
-When morphine sulfate is given on a fixed dosing regimen, steady-state is achieved in about a day.
+When morphine sulfateis given on a fixed dosing regimen, steady-state is achieved in about a day.
 
 Food Effect
 
 The effect of food upon the systemic bioavailability of morphine sulfate has not been systematically evaluated for all strengths.
-One study, conducted with the 30 mg morphine sulfate extended-release tablets, showed no significant differences in Cmax and AUC (0-24h) values, whether the tablet was taken while fasting or with a high-fat breakfast.
+One study, conducted with the 30 mg morphine sulfateextended-releasetablets, showed no significant differences in Cmax and AUC (0-24h) values, whether the tablet was taken while fasting or with a high-fat breakfast.
 
 Distribution
 

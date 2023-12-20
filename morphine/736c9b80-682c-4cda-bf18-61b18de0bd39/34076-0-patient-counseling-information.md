@@ -19,7 +19,7 @@ Instruct patients not to share morphine sulfate extended-release tablets with ot
 Life-Threatening Respiratory Depression
 
 Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting morphine sulfate extended-release tablets or when the dosage is increased, and that it can occur even at recommended dosages.
-Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.3)].
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [seeWarnings and Precautions (5.3)].
 
 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
@@ -32,10 +32,10 @@ Explain to patients and caregivers that naloxone’s effects are temporary, and 
 
 If naloxone is prescribed, also advise patients and caregivers:
 
-1. • How to treat with naloxone in the event of an opioid overdose
-2. • To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
-3. • To read the Patient Information (or other educational material) that will come with their naloxone.
-   Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
+- How to treat with naloxone in the event of an opioid overdose
+- · To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
+- To read the Patient Information (or other educational material) that will come with their naloxone.
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Accidental Ingestion
 
@@ -43,7 +43,7 @@ Inform patients that accidental ingestion, especially by children, may result in
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if morphine sulfate extended-release tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.5), Drug Interactions (7)].
+Inform patients and caregivers that potentially fatal additive effects may occur if morphine sulfate extended-release tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider[see Warnings and Precautions (5.5), Drug Interactions (7)].
 
 Serotonin Syndrome
 
@@ -66,9 +66,9 @@ Important Administration Instructions
 
 Instruct patients how to properly take morphine sulfate extended-release tablets, including the following:
 
-- •Swallow morphine sulfate extended-release tablets whole [see Dosage and Administration (2.1)]
-- •Do not crush, chew, or dissolve the tablets [see Dosage and Administration (2.1)]
-- •Use morphine sulfate extended-release tablets exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see Warnings and Precautions (5.3)]
+- Swallow morphine sulfate extended-release tablets whole [see Dosage and Administration (2.1)]
+- Do not crush, chew, or dissolve the tablets [see Dosage and Administration (2.1)]
+- Use morphine sulfate extended-release tablets exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see Warnings and Precautions (5.3)]
 
 Important Discontinuation Instructions
 
@@ -77,7 +77,7 @@ In order to avoid developing withdrawal symptoms, instruct patients not to disco
 Hypotension
 
 Inform patients that morphine sulfate extended-release tablets may cause orthostatic hypotension and syncope.
-Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.9)].
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position)[see Warnings and Precautions (5.9)].
 
 Anaphylaxis
 
@@ -88,7 +88,7 @@ Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that prolonged use of morphine sulfate extended-release tablets during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that use of morphine sulfate extended-release tablets for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 
@@ -100,7 +100,7 @@ Advise patients that breastfeeding is not recommended during treatment with morp
 
 Infertility
 
-Inform patients that chronic use of opioids may cause reduced fertility.
+Inform patients that use of opioids for an extended period of time may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [Use in Specific Populations (8.3)].
 
 Driving or Operating Heavy Machinery
@@ -126,4 +126,4 @@ Sun Pharmaceutical Industries, Inc.
 
 Cranbury, NJ 08512
 
-1. March 2021 FDA-10
+September 2023 FDA-11

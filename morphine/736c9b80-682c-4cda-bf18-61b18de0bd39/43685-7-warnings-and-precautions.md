@@ -4,12 +4,12 @@
 
 Morphine sulfate extended-release tablets contain morphine, a Schedule II controlled substance.
 As an opioid, morphine sulfate exposes its users to the risks of addiction, abuse, and misuse.
-Because extended-release products such as morphine sulfate deliver the opioid over an extended period of time, there is a greater risk for overdose and death due to the larger amount of morphine present [see Drug Abuse and Dependence (9)].
+Because extended-release products such as morphine sulfatedeliver the opioid over an extended period of time, there is a greater risk for overdose and death due to the larger amount of morphine present [see Drug Abuse and Dependence (9)].
 
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed morphine sulfate.
 Addiction can occur at recommended doses and if the drug is misused or abused.
 
-Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing morphine sulfate, and monitor all patients receiving morphine sulfate for development of these behaviors and conditions.
+Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing morphine sulfate, and monitor all patients receiving morphine sulfate for development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as morphine sulfate, but use in such patients necessitates intensive counseling about the risks of proper use of morphine sulfate along with intensive monitoring for signs of addiction, abuse, and misuse.
@@ -17,9 +17,9 @@ Consider prescribing naloxone for the emergency treatment of opioid overdose [se
 
 Abuse or misuse of morphine sulfate extended-release tablets by crushing, chewing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of morphine and can result in overdose and death [see Overdosage (10)].
 
-Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
+Opioids are sought for nonmedical use and are subject to diversion from legitimate prescribed use.
 Consider these risks when prescribing or dispensing morphine sulfate.
-Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on careful storage of the drug during the course of treatment and proper disposal of unused drug.
 Contact local state professional licensing board or state-controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
 ## 5.2 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
@@ -28,11 +28,11 @@ To ensure that the benefits of opioid analgesics outweigh the risks of addiction
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
 Healthcare providers are strongly encouraged to do all of the following:
 
-- •Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers Involved in the Management or Support of Patients with Pain.
-- •Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
+- Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers Involved in the Management or Support of Patients with Pain.
+- Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
   The Patient Counseling Guide (PCG) can be obtained at this link: http://www.fda.gov/OpioidAnalgesicREMSPCG.
-- •Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
-- •Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
+- Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
+- Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
 
 To obtain further information on the opioid analgesic REMS and for a list of accredited REMS CME/CE, call 1-800-503-0784, or log on to www.opioidanalgesicrems.com.
 The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
@@ -56,7 +56,7 @@ Educate patients and caregivers on how to recognize respiratory depression and e
 
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration(2.6)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.6)].
 
 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose:
 
@@ -79,19 +79,15 @@ Advise pregnant women using opioids for a prolonged period of the risk of neonat
 
 ## 5.5 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of morphine sulfate with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of morphine sulfate with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
-
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
 Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
-
 If the decision is made to prescribe a benzodiazepine or other CNS depressant concomitantly with an opioid analgesic, prescribe the lowest effective dosages and minimum durations of concomitant use.
 In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Follow patients closely for signs and symptoms of respiratory depression and sedation.
-
 If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
-
 Advise both patients and caregivers about the risks of respiratory depression and sedation when morphine sulfate is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
 Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7), Patient Counseling Information (17)].
@@ -126,7 +122,7 @@ The information available does not identify any particular opioids as being more
 
 Morphine sulfate may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
 There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7)].
-Monitor these patients for signs of hypotension after initiating or titrating the dosage of morphine sulfate.
+Monitor these patients for signs of hypotension after initiating or titrating the dosage of morphinesulfate.
 In patients with circulatory shock, morphine sulfate may cause vasodilation that can further reduce cardiac output and blood pressure.
 Avoid the use of morphine sulfate in patients with circulatory shock.
 

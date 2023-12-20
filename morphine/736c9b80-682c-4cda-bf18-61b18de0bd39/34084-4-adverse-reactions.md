@@ -2,21 +2,21 @@
 
 The following serious adverse reactions are described, or described in greater detail, in other sections:
 
-- •Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
-- •Life-Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
-- •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
-- •Interactions with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.5)]
-- •Adrenal Insufficiency [see Warnings and Precautions (5.8)]
-- •Severe Hypotension [see Warnings and Precautions (5.9)]
-- •Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.11)]
-- •Seizures [see Warnings and Precautions (5.12)]
-- •Withdrawal [see Warnings and Precautions (5.13)]
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
+- Interactions with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.5)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.8)]
+- Severe Hypotension [see Warnings and Precautions (5.9)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.11)]
+- Seizures [see Warnings and Precautions (5.12)]
+- Withdrawal [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Morphine sulfate may increase the risk of serious adverse reactions such as those observed with other opioid analgesics, including respiratory depression, apnea, respiratory arrest, circulatory depression, hypotension, or shock [see Overdosage (10)].
+Morphine sulfate may increase the risk of serious adverse reactions such as those observed with other opioid analgesics, including respiratory depression, apnea, respiratory arrest, circulatory depression, hypotension, or shock [seeOverdosage (10)].
 
 Most Frequently Observed Reactions
 
@@ -26,33 +26,33 @@ Some of these effects seem to be more prominent in ambulatory patients and in th
 
 Less Frequently Observed Reactions
 
-Cardiovascular disorders: tachycardia, bradycardia, palpitations
+Cardiovascular disorders:tachycardia, bradycardia, palpitations
 
-Eye disorders: visual impairment, vision blurred, diplopia, miosis
+Eye disorders:visual impairment, vision blurred, diplopia, miosis
 
-Gastrointestinal disorders: dry mouth, diarrhea, abdominal pain, constipation, dyspepsia
+Gastrointestinal disorders:dry mouth, diarrhea, abdominal pain, constipation, dyspepsia
 
-General disorders and administration site conditions: chills, feeling abnormal, edema, edema peripheral, weakness
+General disorders and administration site conditions:chills, feeling abnormal, edema, edema peripheral, weakness
 
-Hepatobiliary disorders: biliary colic
+Hepatobiliary disorders:biliary colic
 
 Metabolism and nutrition disorders: anorexia
 
-Musculoskeletal and connective tissue disorders: muscle rigidity, muscle twitching
+Musculoskeletal and connective tissue disorders:muscle rigidity, muscle twitching
 
-Nervous system disorders: presyncope, syncope, headache, tremor, uncoordinated muscle movements, convulsion, intracranial pressure increased, taste alteration, paresthesia, nystagmus
+Nervous system disorders:presyncope, syncope, headache, tremor, uncoordinated muscle movements, convulsion, intracranial pressure increased, taste alteration, paresthesia, nystagmus
 
-Psychiatric disorders: agitation, mood altered, anxiety, depression, abnormal dreams, hallucination, disorientation, insomnia
+Psychiatric disorders:agitation, mood altered, anxiety, depression, abnormal dreams, hallucination, disorientation, insomnia
 
-Renal and urinary disorders: urinary retention, urinary hesitation, antidiuretic effects
+Renal and urinary disorders:urinary retention, urinary hesitation, antidiuretic effects
 
 Reproductive system and breast disorders: reduced libido and/or potency
 
-Respiratory, thoracic and mediastinal disorders: laryngospasm
+Respiratory, thoracic and mediastinal disorders:laryngospasm
 
-Skin and subcutaneous tissue disorders: pruritus, urticaria, rash
+Skin and subcutaneous tissue disorders:pruritus, urticaria, rash
 
-Vascular disorders: flushing, hypotension, hypertension
+Vascular disorders:flushing, hypotension, hypertension
 
 ## 6.2 Post-Marketing Experience
 

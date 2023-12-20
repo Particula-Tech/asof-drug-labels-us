@@ -1,65 +1,69 @@
-# PACKAGE LABEL. PRINCIPAL DISPLAY PANEL
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC 63304-450-03 CII
+NDC 63304-450-01
 
 MORPHINE SULFATE EXTENDED-RELEASE TABLETS
 
 15 mg
 
-ATTENTION DISPENSER: Dispense the accompanying Medication Guide to each patient upon dispensing*
+PHARMACIST: Dispense with Medication Guide to each patient.
 
-1. Rx only ohm®
+Rx only
 
 100 Tablets
 
-NDC 63304-451-03 CII
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 63304-451-01
 
 MORPHINE SULFATE EXTENDED-RELEASE TABLETS
 
 30 mg
 
-ATTENTION DISPENSER: Dispense the accompanying Medication Guide to each patient upon dispensing*
+PHARMACIST: Dispense with Medication Guide to each patient.
 
-1. Rx only ohm®
+Rx only
 
 100 Tablets
 
-NDC 63304-758-03 CII
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 63304-758-01
 
 MORPHINE SULFATE EXTENDED-RELEASE TABLETS
 
 60 mg
 
-ATTENTION DISPENSER: Dispense the accompanying Medication Guide to each patient upon dispensing*
+PHARMACIST: Dispense with Medication Guide to each patient.
 
-1. Rx only ohm®
+Rx only
 
 100 Tablets
 
-NDC 63304-452-03 CII
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 63304-452-01
 
 MORPHINE SULFATE EXTENDED-RELEASE TABLETS
 
 100 mg
 
-ATTENTION DISPENSER: Dispense the accompanying Medication Guide to each patient upon dispensing*
+PHARMACIST: Dispense with Medication Guide to each patient.
 
-1. Rx only ohm®
+Rx only
 
 100 Tablets
 
-For Use In Opioid-Tolerant Patients Only
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC 63304-453-03 CII
+NDC 63304-453-01
 
 MORPHINE SULFATE EXTENDED-RELEASE TABLETS
 
 200 mg
 
-ATTENTION DISPENSER: Dispense the accompanying Medication Guide to each patient upon dispensing*
+PHARMACIST: Dispense with Medication Guide to each patient.
 
-1. Rx only ohm®
+Rx only
 
 100 Tablets
-
-For Use In Opioid-Tolerant Patients Only

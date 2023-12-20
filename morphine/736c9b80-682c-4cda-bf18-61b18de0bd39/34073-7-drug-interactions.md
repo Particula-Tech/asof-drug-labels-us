@@ -23,18 +23,18 @@ Table 1: Clinically Significant Drug Interactions with morphine sulfate
 | Examples: | butorphanol, nalbuphine, pentazocine, buprenorphine |
 | Muscle Relaxants |  |
 | Clinical Impact: | Morphine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
-| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of morphine sulfate and/or the muscle relaxant as necessary. Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3, 5.5)] |
+| Intervention: | Evaluate patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of morphine sulfate and/or the muscle relaxant as necessary. Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3, 5.5)] |
 | Examples: | Cyclobenzaprine, metaxalone |
 | Cimetidine |  |
 | Clinical Impact: | The concomitant use of cimetidine can potentiate morphine effects and increase risk of hypotension, respiratory depression, profound sedation, coma, and death. |
-| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of morphine sulfate and/or cimetidine as necessary. |
+| Intervention: | Evaluate patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of morphine sulfate and/or cimetidine as necessary. |
 | Diuretics |  |
 | Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
-| Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
+| Intervention: | Evaluate patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
 | Anticholinergic Drugs |  |
 | Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
-| Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when morphine sulfate is used concomitantly with anticholinergic drugs. |
+| Intervention: | Evaluate patients for signs of urinary retention or reduced gastric motility when morphine sulfate is used concomitantly with anticholinergic drugs. |
 | P-Glycoprotein (P-gp) Inhibitors |  |
 | Clinical Impact: | The concomitant use of PGP-inhibitors can increase the exposure to morphine by about two-fold and can increase risk of hypotension, respiratory depression, profound sedation, coma, and death. |
-| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of morphine sulfate and/or the PGP-inhibitor as necessary. |
+| Intervention: | Evaluate patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of morphine sulfate and/or the PGP-inhibitor as necessary. |
 | Example: | Quinidine |
