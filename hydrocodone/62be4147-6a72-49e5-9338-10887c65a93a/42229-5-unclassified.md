@@ -8,9 +8,9 @@ These effects could be more pronounced with concomitant use of Hydrocodone Bitar
 After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the hydrocodone plasma concentration will decrease [see CLINICAL PHARMACOLOGY], resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to Hydrocodone Bitartrate and Acetaminophen Tablets.
 
 If concomitant use is necessary, consider dosage reduction of Hydrocodone Bitartrate and Acetaminophen Tablets until stable drug effects are achieved.
-Follow patients for respiratory depression and sedation at frequent intervals.
+Evaluate patients at frequent intervals for respiratory depression and sedation.
 If a CYP3A4 inhibitor is discontinued, consider increasing the Hydrocodone Bitartrate and Acetaminophen Tablets dosage until stable drug effects are achieved.
-Follow for signs or symptoms of opioid withdrawal.
+Evaluate for signs of opioid withdrawal.
 
 Inducers of CYP3A4
 
@@ -19,8 +19,8 @@ The concomitant use of Hydrocodone Bitartrate and Acetaminophen Tablets and CYP3
 After stopping a CYP3A4 inducer, as the effects of the inducer decline, the hydrocodone plasma concentration will increase [see CLINICAL PHARMACOLOGY], which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression.
 
 If concomitant use is necessary, consider increasing the Hydrocodone Bitartrate and Acetaminophen Tablets dosage until stable drug effects are achieved.
-Follow the patient for signs and symptoms of opioid withdrawal.
-If a CYP3A4 inducer is discontinued, consider Hydrocodone Bitartrate and Acetaminophen Tablets dosage reduction and follow for signs of respiratory depression.
+Evaluate the patient for signs and symptoms of opioid withdrawal.
+If a CYP3A4 inducer is discontinued, consider Hydrocodone Bitartrate and Acetaminophen Tablets dosage reduction and evaluate patients at frequent intervals for signs of respiratory depression and sedation.
 
 Benzodiazepines and Other CNS Depressants
 
@@ -28,14 +28,14 @@ Due to additive pharmacologic effect, the concomitant use of benzodiazepines and
 
 Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 Limit dosages and durations to the minimum required.
-Follow patients closely for signs of respiratory depression and sedation.
+Inform patients and caregivers of this potential interaction, educate them on the signs and symptoms of respiratory depression (including sedation).
 If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see WARNINGS].
 
 Serotonergic Drugs
 
 The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system, such as selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), and monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue), has resulted in serotonin syndrome [see PRECAUTIONS; Information for Patients].
 
-If concomitant use is warranted, carefully follow the patient, particularly during treatment initiation and dose adjustment.
+If concomitant use is warranted, frequently evaluate the patient, particularly during treatment initiation and dose adjustment.
 Discontinue Hydrocodone Bitartrate and Acetaminophen Tablets if serotonin syndrome is suspected.
 
 Monoamine Oxidase Inhibitors (MAOIs)
@@ -56,20 +56,20 @@ Muscle Relaxants
 
 Hydrocodone Bitartrate and Acetaminophen Tablets may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
 
-If concomitant use is warranted, monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of Hydrocodone Bitartrate and Acetaminophen Tablets and/or the muscle relaxant as necessary.
-Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider prescribing naloxone for the emergency treatment of opioid overdose [see WARNINGS].
+Because respiratory depression may be greater than otherwise expected, decrease the dosage of Hydrocodone Bitartrate and Acetaminophen Tablets and/or the muscle relaxant as necessary.
+Due to the risk of respiratory depression with concomitant use of muscle relaxants and opioids, consider prescribing naloxone for the emergency treatment of opioid overdose [see WARNINGS].
 
 Diuretics
 
 Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone.
 
-If concomitant use is warranted, follow patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed.
+Evaluate patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed.
 
 Anticholinergic Drugs
 
 The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
 
-If concomitant use is warranted, follow patients for signs and symptoms of urinary retention or reduced gastric motility when Hydrocodone Bitartrate and Acetaminophen Tablets are used concomitantly with anticholinergic drugs.
+Evaluate patients for signs of urinary retention or reduced gastric motility when Hydrocodone Bitartrate and Acetaminophen Tablets are used concomitantly with anticholinergic drugs.
 
 ## Drug/Laboratory Test Interactions
 
@@ -103,7 +103,7 @@ The clinical significance of these findings is not known.
 
 Infertility
 
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see ADVERSE REACTIONS].
 
 ## Pregnancy
@@ -117,7 +117,7 @@ Hydrocodone Bitartrate and Acetaminophen Tablets should be used during pregnancy
 
 Fetal/Neonatal Adverse Reactions
 
-Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Use of opioid analgesics for an extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity, abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
@@ -151,7 +151,7 @@ Elderly patients (aged 65 years or older) may have increased sensitivity to Hydr
 In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of Hydrocodone Bitartrate and Acetaminophen Tablets slowly in geriatric patients and follow closely for signs of central nervous system and respiratory depression [see WARNINGS].
+Titrate the dosage of Hydrocodone Bitartrate and Acetaminophen Tablets slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see WARNINGS].
 
 Hydrocodone and acetaminophen are known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

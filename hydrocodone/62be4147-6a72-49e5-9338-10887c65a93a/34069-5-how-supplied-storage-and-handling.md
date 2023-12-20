@@ -4,7 +4,7 @@ Hydrocodone Bitartrate and Acetaminophen Tablets, USP, 5 mg/325 mg, are supplied
 Each tablet contains 5 mg hydrocodone bitartrate, USP and 325 mg acetaminophen, USP.
 They are available as follows:
 
-Bottles of 100: NDC 53746-109-01 Bottles of 500: NDC 53746-109-05 Bottles of 1000: NDC 53746-109-10
+Bottles of 100: NDC 53746-109-01 Bottles of 500: NDC 53746-109-05 Bottles of 1,000: NDC 53746-109-10
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
@@ -14,9 +14,7 @@ A Schedule II Narcotic DEA Order Form Required.
 
 Store Hydrocodone Bitartrate and Acetaminophen Tablets securely and dispose of properly [see PRECAUTIONS; Information for Patients].
 
-Manufactured by: Amneal Pharmaceuticals of NY LLC Brookhaven, NY 11719
+Manufactured by: Amneal Pharmaceuticals of NY, LLC Brookhaven, NY 11719
 
 Rev.
-09-2021-13
-
-Dispense with Medication Guide available at: documents.amneal.com/mg/hydro-apap-5-325.pdf
+12-2023-14
