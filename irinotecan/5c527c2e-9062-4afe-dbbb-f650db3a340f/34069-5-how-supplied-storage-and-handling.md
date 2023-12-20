@@ -2,10 +2,10 @@
 
 Irinotecan Hydrochloride Injection, USP is available as a sterile, pale yellow, clear, aqueous solution in a vial packaged within a carton in the following packaging configurations:
 
-- Single-dose amber glass vials:
-  - NDC 61703-349-16, 40 mg/2 mL (20 mg/mL)
-  - NDC 61703-349-09, 100 mg/5 mL (20 mg/mL)
-  - NDC 61703-349-36, 500 mg/25 mL (20 mg/mL)
+- •Single-dose amber glass vials:
+  - oNDC 61703-349-16, 40 mg/2 mL (20 mg/mL)
+  - oNDC 61703-349-09, 100 mg/5 mL (20 mg/mL)
+  - oNDC 61703-349-36, 500 mg/25 mL (20 mg/mL)
 
 Store at 20° to 25°C (68° to 77°F).
 See USP Controlled Room Temperature (excursions permitted to 15° to 30°C (59° to 86°F)).

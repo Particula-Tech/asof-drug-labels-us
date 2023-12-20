@@ -82,8 +82,7 @@ Study 1: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events
 | Hypotension | 5.8 | 1.3 | 2.3 | 0.5 | 5.8 | 1.7 |
 | Thromboembolic eventsIncludes angina pectoris, arterial thrombosis, cerebral infarct, cerebrovascular accident, deep thrombophlebitis, embolus lower extremity, heart arrest, myocardial infarct, myocardial ischemia, peripheral vascular disorder, pulmonary embolus, sudden death, thrombophlebitis, thrombosis, vascular disorder. | 9.3 | -- | 11.4 | -- | 5.4 | -- |
 
-Table 6.
-Study 2: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events in Combination TherapiesSeverity of adverse events based on NCI CTC (version 1.0)
+Table 6.Study 2: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events in Combination TherapiesSeverity of adverse events based on NCI CTC (version 1.0)
 
 | Grades 1–4 | Grades 3&4 | Grades 1–4 | Grades 3&4 |  |
 | --- | --- | --- | --- | --- |
