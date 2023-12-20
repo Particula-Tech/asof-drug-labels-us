@@ -2,7 +2,7 @@
 
 Codeine Sulfate Tablets, USP
 
-15 mg tablet:supplied as white to off-white biconvex tablets with “15” debossed on the scored side and “54 613” debossed on the other side.
+15 mg tablet: supplied as white to off-white biconvex tablets with “15” debossed on the scored side and “54 613” debossed on the other side.
 
 NDC 0054-0243-24: 10 x 10 Unit-Dose
 
@@ -28,4 +28,4 @@ Dispense in a tight, light-resistant container as defined in the USP/NF.
 Blisters are not child-resistant.
 Use child-resistant closure if dispensing to outpatient.
 
-Store Codeine Sulfate Tablets securely and dispose of properly [see Patient Counseling Information (17)].
+Store Codeine Sulfate Tablets securely and dispose of properly.
