@@ -13,4 +13,4 @@ Contains
 Active: fluorometholone 0.25%.
 Preservative: benzalkonium chloride 0.005%.
 Inactives: edetate disodium; polysorbate 80; polyvinyl alcohol 1.4%; purified water; sodium chloride; sodium phosphate, dibasic; sodium phosphate, monobasic; and sodium hydroxide to adjust pH.
-FML FORTE suspension is formulated with a pH from 6.2 to 7.5.
+FML FORTE® suspension is formulated with a pH from 6.2 to 7.5.
