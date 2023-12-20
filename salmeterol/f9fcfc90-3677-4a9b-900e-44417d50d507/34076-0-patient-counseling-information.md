@@ -69,12 +69,14 @@ Risks Associated with Beta-agonist Therapy
 
 Inform patients of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
 
+The listed brands are trademarks of their respective owners.
+
 Distributed by:
 
 Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50000859/02
+C50001155/02
 
-Revised August 2021
+Revised September 2022

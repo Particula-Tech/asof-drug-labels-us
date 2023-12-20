@@ -1,12 +1,15 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Fluticasone Propionate and Salmeterol Inhalation Powder USP
+Fluticasone Propionate and Salmeterol Inhalation Powder, USP
 
 100 mcg/50 mcg is supplied as a disposable gray plastic inhaler containing a foil blister strip with 60 blisters.
 The inhaler is packaged in a plastic-coated, moisture-protective foil pouch (NDC 0054-0326-56).
 
 250 mcg/50 mcg is supplied as a disposable gray plastic inhaler containing a foil blister strip with 60 blisters.
 The inhaler is packaged in a plastic-coated, moisture-protective foil pouch (NDC 0054-0327-56).
+
+500 mcg/50 mcg is supplied as a disposable gray plastic inhaler containing a foil blister strip with 60 blisters.
+The inhaler is packaged in a plastic-coated, moisture-protective foil pouch (NDC 0054-0328-56).
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]

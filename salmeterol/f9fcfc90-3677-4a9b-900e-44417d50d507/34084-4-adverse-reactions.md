@@ -27,7 +27,7 @@ The average duration of exposure was 60 to 79 days in the active treatment group
 
 Table 2: Adverse Reactions with Fluticasone Propionate and Salmeterol Inhalation Powder with ≥3% Incidence and More Common than Placebo in Adult and Adolescent Subjects with Asthma
 
-| Adverse Event | FluticasonePropionate and SalmeterolInhalationPowder100 mcg/50 mcg(n = 92)% | Fluticasone Propionate and SalmeterolInhalation Powder250 mcg/50 mcg(n = 84)% | Fluticasone Propionate100 mcg(n = 90)% | Fluticasone Propionate250 mcg(n = 84)% | Salmeterol 50 mcg(n = 180)% | Placebo(n = 175)% |
+| Adverse Event | FluticasonePropionate and SalmeterolInhalationPowder100 mcg/50 mcg(n = 92)% | Fluticasone Propionate and SalmeterolInhalation Powder250 mcg/50 mcg(n = 84)% | Fluticasone Propionate100 mcg(n = 90)% | Fluticasone Propionate250 mcg(n = 84)% | Salmeterol 50 mcg(n = 180)% | Placebo (n = 175)% |
 | --- | --- | --- | --- | --- | --- | --- |
 | Ear, Nose, and Throat |  |  |  |  |  |  |
 | Upper Respiratory Tract Infection | 27 | 21 | 29 | 25 | 19 | 14 |
@@ -80,7 +80,7 @@ The incidence of adverse reactions in the 6-month trial is shown in Table 3.
 
 Table 3: Overall Adverse Reactions with Fluticasone Propionate and Salmeterol Inhalation Powder 250 mcg/50 mcg with ≥3% Incidence in Subjects with Chronic Obstructive Pulmonary Disease Associated with Chronic Bronchitis
 
-| Adverse Event | Fluticasone Propionate and Salmeterol Inhalation Powder 250 mcg/50 mcg(n = 178)% | Fluticasone Propionate250 mcg(n = 183)% | Salmeterol50 mcg(n = 177)% | Placebo(n = 185)% |
+| Adverse Event | Fluticasone Propionate and Salmeterol Inhalation Powder 250 mcg/50 mcg(n = 178)% | Fluticasone Propionate250 mcg(n = 183)% | Salmeterol50 mcg(n = 177)% | Placebo (n = 185)% |
 | --- | --- | --- | --- | --- |
 | Ear, Nose, and Throat Candidiasis - Mouth/Throat Throat Irritation Hoarseness/Dysphonia Sinusitis | 10853 | 6538 | 34<15 | 1703 |
 | Lower Respiratory Viral Respiratory Infections | 6 | 4 | 3 | 3 |

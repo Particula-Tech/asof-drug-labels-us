@@ -20,7 +20,7 @@ As shown in Table 4, statistically significantly fewer subjects receiving flutic
 
 Table 4: Percent of Subjects Withdrawn due to Worsening Asthma in Subjects Previously Treated with Either Inhaled Corticosteroids or Salmeterol (Trial 1)
 
-| Fluticasone Propionate and Salmeterol Inhalation Powder 100 mcg/50 mcg(n = 87) | Fluticasone Propionate 100 mcg(n = 85) | Salmeterol50 mcg(n = 86) | Placebo (n = 77) |
+| Fluticasone Propionate and Salmeterol Inhalation Powder 100 mcg/50 mcg(n = 87) | Fluticasone Propionate 100 mcg(n = 85) | Salmeterol50 mcg(n = 86) | Placebo(n = 77) |
 | --- | --- | --- | --- |
 | 3% | 11% | 35% | 49% |
 
@@ -100,7 +100,7 @@ Table 6: Serious Asthma-Related Events in the 26-Week Trials 4 and 5
 
 |  | Adult and Adolescent Subjects Aged 12 Years and Older (Trial 4) |  | Pediatric Subjects Aged 4 to 11 Years (Trial 5) |  |
 | --- | --- | --- | --- | --- |
-|  | Fluticasone Propionate and Salmeterol Inhalation Powder (n = 5,834) | Fluticasone Propionate Inhalation Powder(n = 5,845) | Fluticasone Propionate and Salmeterol Inhalation Powder (n = 3, 107) | Fluticasone Propionate Inhalation Powder (n = 3, 101) |
+|  | Fluticasone Propionate and Salmeterol Inhalation Powder (n = 5,834) | Fluticasone Propionate Inhalation Powder(n = 5,845) | Fluticasone Propionate and Salmeterol Inhalation Powder (n = 3,107) | Fluticasone Propionate Inhalation Powder (n = 3,101) |
 | Serious asthma-related event (hospitalization, endotracheal intubation, and death)Number of subjects with event that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug treatment, whichever date was later. Subjects can have one or more events, but only the first event was counted for analysis. A blinded adjudication committee determined whether events were asthma related. | 34 (0.6%) | 33 (0.6%) | 27 (0.9%) | 21 (0.7%) |
 | Hazard ratio (fluticasone propionate and salmeterol/fluticasone propionate) | 1.03 (0.64-1.66)The hazard ratio for time to first event was based on a Cox proportional hazards model with a single covariate of treatment (fluticasone propionate and salmeterol vs. fluticasone propionate) and baseline hazards stratified by incoming asthma medication/asthma control status. If the resulting upper 95% CI estimate for the relative risk was <2.0 (Trial 4) or <2.7 (Trial 5), then non-inferiority was concluded. |  | 1.29 (0.73-2.27) |  |
 | Asthma-related death | 0 | 0 | 0 | 0 |
