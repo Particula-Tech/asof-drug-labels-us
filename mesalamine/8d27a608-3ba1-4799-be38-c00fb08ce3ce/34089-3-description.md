@@ -6,7 +6,7 @@ The structural formula of mesalamine is:
 
 Molecular Weight: 153.14
 
-Molecular Formula: C7H7NO3
+Molecular Formula: C 7H 7NO 3
 
 Each mesalamine extended-release capsule contains granules composed of mesalamine in a polymer matrix with an enteric coating that dissolves at pH 6 and above.
 

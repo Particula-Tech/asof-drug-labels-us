@@ -67,4 +67,4 @@ In general, consider the greater frequency of decreased hepatic, renal, or cardi
 Mesalamine is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Evaluate renal function in all patients prior to initiation and periodically while on mesalamine extended-release capsules therapy.
 Monitor patients with known renal impairment or history of renal disease or taking nephrotoxic drugs for decreased renal function and mesalamine-related adverse reactions.
-Discontinue mesalamine extended-release capsules if renal function deteriorates while on therapy [see Warningsand Precautions (5.1), Adverse Reactions (6.2), Drug Interactions (7.2)].
+Discontinue mesalamine extended-release capsules if renal function deteriorates while on therapy [seeWarnings and Precautions (5.1), Adverse Reactions (6.2), Drug Interactions (7.2)].

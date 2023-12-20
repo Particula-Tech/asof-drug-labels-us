@@ -3,7 +3,7 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Dietary mesalamine was not carcinogenic in rats at doses as high as 480 mg/kg/day, or in mice at 2,000 mg/kg/day.
-These doses are about 2.6 and 5.4 times the recommended human dose of granulated mesalamine capsules of 1.5 g/day (30 mg/kg if 50 kg body weight assumed or 1,110 mg/m2), respectively, based on body surface area.
+These doses are about 2.6 and 5.4 times the recommended human dose of granulated mesalamine capsules of 1.5 g/day (30 mg/kg if 50 kg body weight assumed or 1,110 mg/m 2), respectively, based on body surface area.
 
 Mesalamine was negative in the Ames test, the mouse lymphoma cell (L5178Y/TK+/-) forward mutation test, the sister chromatid exchange assay in the Chinese hamster bone marrow test, and the mouse bone marrow micronucleus test.
 

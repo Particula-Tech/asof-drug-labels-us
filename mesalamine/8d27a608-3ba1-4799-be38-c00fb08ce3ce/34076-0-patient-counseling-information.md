@@ -4,11 +4,14 @@ Administration
 
 Instruct patients:
 
-- •Swallow the capsules whole.
+- Swallow the capsules whole.
   Do not cut, break, crush or chew the capsules.
-- •Avoid co-administration of mesalamine extended-release capsules with antacids.
-- •Drink an adequate amount of fluids.
-- •Mesalamine extended-release capsules can be taken without regard to meals [see Dosage and Administration (2)].
+- Avoid co-administration of mesalamine extended-release capsules with antacids.
+- Drink an adequate amount of fluids.
+- Mesalamine extended-release capsules can be taken without regard to meals [see Dosage and Administration (2)].
+- Urine may become discolored reddish-brown while taking mesalamine extended-release capsules when it comes in contact with surfaces or water treated with hypochlorite-containing bleach.
+  If discolored urine is observed, advise patients to observe their urine flow.
+  Report to the healthcare provider only if urine is discolored on leaving the body, before contact with any surface or water (e.g., in the toilet).
 
 Renal Impairment
 
@@ -55,6 +58,6 @@ Parsippany, NJ 07054
 Patented.
 See https://patents.salix.com/ for US patent information.
 
-© 2022 Bausch Health Companies Inc. or its affiliates
+© 2023 Bausch Health Companies Inc. or its affiliates
 
-9731403 20005208
+9731404 20005432
