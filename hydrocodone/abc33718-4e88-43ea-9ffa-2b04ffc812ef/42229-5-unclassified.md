@@ -8,9 +8,9 @@ These effects could be more pronounced with concomitant use of hydrocodone bitar
 After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the hydrocodone plasma concentration will decrease (see CLINICAL PHARMACOLOGY: Pharmacokinetics), resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to hydrocodone bitartrate and ibuprofen.
 
 If concomitant use is necessary, consider dosage reduction of hydrocodone bitartrate and ibuprofen until stable drug effects are achieved.
-Monitor patients for respiratory depression and sedation at frequent intervals.
-If a CYP3A4 inhibitor is discontinued, consider a dosage increase of hydrocodone bitartrate and ibuprofen until stable drug effects are achieved.
-Monitor for signs of opioid withdrawal.
+Evaluate patients at frequent intervals for respiratory depression and sedation.
+If a CYP3A4 inhibitor is discontinued, consider increasing the hydrocodone bitartrate and ibuprofen dosage until stable drug effects are achieved.
+Assess for signs of opioid withdrawal.
 
 CYP3A4 Inducers
 
@@ -19,8 +19,8 @@ The concomitant use of hydrocodone bitartrate and ibuprofen and CYP3A4 inducers,
 After stopping a CYP3A4 inducer, as the effects of the inducer decline, the hydrocodone plasma concentration will increase (see CLINICAL PHARMACOLOGY: Pharmacokinetics), which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression.
 
 If concomitant use is necessary, consider a dosage increase of hydrocodone bitartrate and ibuprofen until stable drug effects are achieved.
-Monitor for signs of opioid withdrawal.
-If a CYP3A4 inducer is discontinued, consider hydrocodone bitartrate and ibuprofen dosage reduction and monitor for signs of respiratory depression.
+Evaluate for signs of opioid withdrawal.
+If a CYP3A4 inducer is discontinued, consider hydrocodone bitartrate and ibuprofen dosage reduction and evaluate patients at frequent intervals for signs of respiratory depression and sedation.
 
 Benzodiazepines and Other Central Nervous System (CNS) Depressants
 
@@ -28,7 +28,7 @@ Due to additive pharmacologic effect, the concomitant use of benzodiazepines or 
 
 Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 Limit dosages and durations to the minimum required.
-Follow patients closely for signs of respiratory depression and sedation.
+Inform patients and caregivers of this potential interaction, educate them on the signs and symptoms of respiratory depression (including sedation).
 If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose (see WARNINGS).
 
 Serotonergic Drugs
@@ -36,7 +36,7 @@ Serotonergic Drugs
 | Serotonergic Drugs |  |
 | --- | --- |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
-| Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue hydrocodone bitartrate and ibuprofen if serotonin syndrome is suspected. |
+| Intervention: | If concomitant use is warranted, frequently evaluate the patient, particularly during treatment initiation and dose adjustment. Discontinue hydrocodone bitartrate and ibuprofen if serotonin syndrome is suspected. |
 | Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e. cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
 
 Monoamine Oxidase Inhibitors (MAOIs)
@@ -57,14 +57,14 @@ Muscle Relaxants
 
 Hydrocodone, as well as other opioid analgesics, may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
 
-If concomitant use is warranted, monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of hydrocodone bitartrate and ibuprofen and/or the muscle relaxant as necessary.
+Because respiratory depression may be greater than otherwise expected decrease the dosage of hydrocodone bitartrate and ibuprofen and/or the muscle relaxant as necessary.
 Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider prescribing naloxone for the emergency treatment of opioid overdose (see WARNINGS).
 
-Anticholinergics
+Anticholinergic Drugs
 
 The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
 
-Monitor patients for signs of urinary retention or reduced gastric motility when hydrocodone bitartrate and ibuprofen is used concomitantly with anticholinergic drugs.
+Evaluate patients for signs of urinary retention or reduced gastric motility when hydrocodone bitartrate and ibuprofen is used concomitantly with anticholinergic drugs.
 
 Drugs That Interfere With Hemostasis
 
@@ -74,7 +74,7 @@ The concomitant use of ibuprofen and anticoagulants have an increased risk of se
 Serotonin release by platelets plays an important role in hemostasis.
 Case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the risk of bleeding more than an NSAID alone.
 
-Monitor patients with concomitant use of hydrocodone bitartrate and ibuprofen with anticoagulants (e.g., warfarin), antiplatelet agents (e.g., aspirin), SSRIs, and SNRIs for signs of bleeding (see WARNINGS: Hematologic Toxicity).
+Evaluate patients with concomitant use of hydrocodone bitartrate and ibuprofen with anticoagulants (e.g., warfarin), antiplatelet agents (e.g., aspirin), SSRIs, and SNRIs for signs of bleeding (see WARNINGS: Hematologic Toxicity).
 
 Aspirin
 
@@ -95,7 +95,7 @@ NSAIDs may diminish the antihypertensive effect of angiotensin converting enzyme
 
 During concomitant use of hydrocodone bitartrate and ibuprofen and ACE-inhibitors, ARBs, or beta-blockers, monitor blood pressure to ensure that the desired blood pressure is obtained.
 In patients who are elderly, volume-depleted (including those on diuretic therapy), or have renal impairment, co-administration of an NSAID with ACE inhibitors or ARBs may result in deterioration of renal function, including possible acute renal failure.
-Monitor for signs of worsening renal function (see WARNINGS: Renal Toxicity and Hyperkalemia).
+Evaluate for signs of worsening renal function (see WARNINGS: Renal Toxicity and Hyperkalemia).
 These effects are usually reversible.
 
 When these drugs are administered concomitantly, patients should be adequately hydrated.
@@ -107,6 +107,8 @@ Clinical studies, as well as post-marketing observations, showed that NSAIDs red
 This effect has been attributed to the NSAID inhibition of renal prostaglandin synthesis.
 
 During concomitant use of hydrocodone bitartrate and ibuprofen with diuretics, observe patients for signs of worsening renal function, in addition to assuring diuretic efficacy including antihypertensive effects (see WARNINGS: Renal Toxicity and Hyperkalemia).
+
+Evaluate patients for signs for diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed.
 
 Digoxin
 
@@ -120,19 +122,19 @@ NSAIDs have produced elevations in plasma lithium concentration and reductions i
 The mean minimum lithium concentration increased 15%, and the renal clearance decreased by approximately 20%.
 This effect has been attributed to NSAID inhibition of renal prostaglandin synthesis.
 
-During concomitant use of hydrocodone bitartrate and ibuprofen and lithium, monitor patients for signs of lithium toxicity.
+During concomitant use of hydrocodone bitartrate and ibuprofen and lithium, evaluate patients for signs of lithium toxicity.
 
 Methotrexate
 
 Concomitant use of NSAIDs and methotrexate may increase the risk for methotrexate toxicity (e.g., neutropenia, thrombocytopenia, renal dysfunction).
 
-During concomitant use of hydrocodone bitartrate and ibuprofen and methotrexate, monitor patients for methotrexate toxicity.
+During concomitant use of hydrocodone bitartrate and ibuprofen and methotrexate, evaluate patients for methotrexate toxicity.
 
 Cyclosporine
 
 Concomitant use of hydrocodone bitartrate and ibuprofen and cyclosporine may increase cyclosporine’s nephrotoxicity.
 
-During concomitant use of hydrocodone bitartrate and ibuprofen and cyclosporine, monitor patients for signs of worsening renal function.
+During concomitant use of hydrocodone bitartrate and ibuprofen and cyclosporine, evaluate patients for signs of worsening renal function.
 
 NSAIDs and Salicylates
 
@@ -175,7 +177,7 @@ Based on the mechanism of action, the use of prostaglandin-mediated NSAIDs, incl
 Small studies in women treated with NSAIDs have also shown a reversible delay in ovulation.
 Consider withdrawal of NSAID-containing products, including hydrocodone bitartrate and ibuprofen, in women who have difficulties conceiving or who are undergoing investigation of infertility.
 
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible (see ADVERSE REACTIONS: Postmarketing Experience).
 
 ## Pregnancy
@@ -200,7 +202,7 @@ There are no animal reproductive and developmental toxicology studies with hydro
 In published animal reproduction studies testing ibuprofen alone, there were no clear developmental effects at doses up to 1.2 times the maximum recommended human dose (MRHD) in the rabbit and 1.8 times in the MRHD rat when dosed throughout gestation.
 In contrast, an increase in membranous ventricular septal defects was reported in rats treated on Gestation Days 9 & 10 with 3 times the MRHD.
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
-In animal studies, administration of prostaglandin synthesis inhibitors such as ibuprofen, resulted in increased pre- and post-implantation loss.).
+In animal studies, administration of prostaglandin synthesis inhibitors such as ibuprofen, resulted in increased pre- and post-implantation loss.
 Prostaglandins also have been shown to have an important role in fetal kidney development.
 In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
 
@@ -222,7 +224,7 @@ If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limi
 If hydrocodone bitartrate and ibuprofen treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
 If oligohydramnios occurs, discontinue hydrocodone bitartrate and ibuprofen and follow up according to clinical practice (see WARNINGS: Fetal Toxicity).
 
-Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Use of opioid analgesics for an extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high-pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
@@ -310,7 +312,7 @@ However, elderly patients are at greater risk for NSAID-associated serious cardi
 In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy (see WARNINGS: Cardiovascular Thrombotic Events, Gastrointestinal Bleeding, Ulceration, and Perforation, Renal Toxicity and Hyperkalemia).
 
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of hydrocodone bitartrate and ibuprofen slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression (see WARNINGS: Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients).
+Titrate the dosage of hydrocodone bitartrate and ibuprofen slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression (see WARNINGS).
 
 Both hydrocodone and ibuprofen are known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

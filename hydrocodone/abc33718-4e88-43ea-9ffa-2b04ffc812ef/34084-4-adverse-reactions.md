@@ -23,6 +23,7 @@ The following adverse reactions are described below and elsewhere in the labelin
 - Premature Closure of Fetal Ductus Arteriosus
 - Hematologic Toxicity
 - Aseptic Meningitis
+- Opioid-Induced Hyperalgesia and Allodynia (see WARNINGS)
 
 ## Clinical Trials Experience
 
@@ -131,6 +132,11 @@ Adrenal insufficiency: Cases of adrenal insufficiency have been reported with op
 
 Anaphylaxis: Anaphylaxis has been reported with ingredients contained in hydrocodone bitartrate and ibuprofen.
 
-Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids (see CLINICAL PHARMACOLOGY: Pharmacodynamics).
+Androgen deficiency: Cases of androgen deficiency have occurred with use of opioids for an extended period of time (see CLINICAL PHARMACOLOGY: Pharmacodynamics).
+
+Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration (see WARNINGS).
+
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking opioids.
+Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).
 
 To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

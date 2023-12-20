@@ -2,14 +2,19 @@
 
 Important Dosage and Administration Instructions
 
-Carefully consider the potential benefits and risks of hydrocodone bitartrate and ibuprofen tablets and other treatment options before deciding to use hydrocodone bitartrate and ibuprofen tablets.
-Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals (see WARNINGS: Cardiovascular Thrombotic Events, Gastrointestinal Bleeding, Ulceration, and Perforation).
+Hydrocodone bitartrate and ibuprofen tablets should be prescribed only by healthcare professionals who are knowledgeable about the use of opioids and how to mitigate the associated risks.
 
-Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse (see WARNINGS: Addiction, Abuse, and Misuse).
+Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals (see WARNINGS).
+Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of hydrocodone bitartrate and ibuprofen tablets for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
 
-Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with hydrocodone bitartrate and ibuprofen tablets and adjust the dosage accordingly (see WARNINGS: Life-Threatening Respiratory Depression).
+Many acute pain conditions (e.g., the pain that occurs with a number of surgical procedures or acute musculoskeletal injuries) require no more than a few days of an opioid analgesic.
+Clinical guidelines on opioid prescribing for some acute pain conditions are available.
 
-After observing the response to initial therapy with hydrocodone bitartrate and ibuprofen tablets, the dose and frequency should be adjusted to suit an individual patient's needs.
+There is variability in the opioid analgesic dose and duration needed to adequately manage pain due both to the cause of pain and to individual patient factors.
+Initiate the dosing regimen for each patient individually, taking into account the patient’s underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse (see WARNINGS).
+
+Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with hydrocodone bitartrate and ibuprofen tablets.
+Consider this risk when selecting an initial dose and when making dose adjustments (see WARNINGS).
 
 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
@@ -24,9 +29,11 @@ Consider prescribing naloxone when the patient has household members (including 
 
 Initial Dosage
 
-For the short-term (generally less than 10 days) management of acute pain, the recommended dose of hydrocodone bitartrate and ibuprofen tablets is one tablet every 4 to 6 hours, as necessary.
+Use of Hydrocodone Bitartrate and Ibuprofen Tablets as the First Opioid Analgesic
+
+Initiate treatment with hydrocodone bitartrate and ibuprofen tablets at a dose of one tablet every 4 to 6 hours as needed for pain, at the lowest dose necessary to achieve adequate analgesia.
+Titrate the dose based upon the individual patient’s response to their initial dose of hydrocodone bitartrate and ibuprofen tablets.
 Dosage should not exceed 5 tablets in a 24-hour period.
-It should be kept in mind that tolerance to hydrocodone can develop with continued use and that the incidence of untoward effects is dose related.
 
 The lowest effective dose or the longest dosing interval should be sought for each patient (see WARNINGS), especially in the elderly.
 After observing the initial response to therapy with hydrocodone bitartrate and ibuprofen tablets, the dose and frequency of dosing should be adjusted to suit the individual patient's need, without exceeding the total daily dose recommended.
@@ -34,11 +41,11 @@ After observing the initial response to therapy with hydrocodone bitartrate and 
 Titration and Maintenance of Therapy
 
 Individually titrate hydrocodone bitartrate and ibuprofen tablets to a dose that provides adequate analgesia and minimizes adverse reactions.
-Continually reevaluate patients receiving hydrocodone bitartrate and ibuprofen tablets to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse (see WARNINGS: Addiction, Abuse, and Misuse).
+Continually reevaluate patients receiving hydrocodone bitartrate and ibuprofen tablets to assess the maintenance of pain control, signs and symptoms of opioid withdrawal, and other adverse reactions, as well as reassessing for the development of addiction, abuse, or misuse (see WARNINGS).
 Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 
 If the level of pain increases after dosage stabilization, attempt to identify the source of increased pain before increasing the hydrocodone bitartrate and ibuprofen tablets dosage.
-If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
+If after increasing the dosage, unacceptable opioid-related adverse reactions are observed (including an increase in pain after dosage increase), consider reducing the dosage (see WARNINGS).
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
 Safe Reduction or Discontinuation of Hydrocodone Bitartrate and Ibuprofen Tablets
@@ -64,7 +71,7 @@ Reassess the patient frequently to manage pain and withdrawal symptoms, should t
 Common withdrawal symptoms include restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 If withdrawal symptoms arise, it may be necessary to pause the taper for a period of time or raise the dose of the opioid analgesic to the previous dose, and then proceed with a slower taper.
-In addition, monitor patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
+In addition, evaluate patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
 
-When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
+When managing patients taking opioid analgesics, particularly those who have been treated for an extended period of time and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
 A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic (see WARNINGS: Withdrawal, DRUG ABUSE AND DEPENDENCE).

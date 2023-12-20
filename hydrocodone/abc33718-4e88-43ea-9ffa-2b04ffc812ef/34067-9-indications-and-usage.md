@@ -8,7 +8,9 @@ Carefully consider the potential benefits and risks of hydrocodone bitartrate an
 Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals (see WARNINGS: Cardiovascular Thrombotic Events, Gastrointestinal Bleeding, Ulceration, and Perforation).
 Do not use hydrocodone bitartrate and ibuprofen tablets for the treatment of conditions such as osteoarthritis or rheumatoid arthritis.
 
-Because of the risks of addiction, abuse, and misuse with opioids, even at recommended doses (see WARNINGS: Addiction, Abuse, and Misuse), reserve hydrocodone bitartrate and ibuprofen tablets for use in patients for whom alternative treatment options (e.g., non-opioid analgesics):
+Because of the risks of addiction, abuse, and misuse with opioids, which can occur at any dosage or duration (see WARNINGS), reserve hydrocodone bitartrate and ibuprofen tablets for use in patients for whom alternative treatment options (e.g., non-opioid analgesics):
 
 - Have not been tolerated, or are not expected to be tolerated,
 - Have not provided adequate analgesia, or are not expected to provide adequate analgesia
+
+Hydrocodone bitartrate and ibuprofen tablets should not be used for an extended period of time unless the pain remains severe enough to require an opioid analgesic and for which alternative treatment options continue to be inadequate.
