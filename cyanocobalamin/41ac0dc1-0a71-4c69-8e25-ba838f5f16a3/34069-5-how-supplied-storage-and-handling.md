@@ -35,3 +35,13 @@ Code No.: KR/DRUGS/KTK/28/289/97
 ST-CYC/P/05
 
 Revised: 09/2020
+
+Made in India
+
+Made in India
+
+Neutral Code No: TN/DRUGS/616/1996
+
+ST-CYC-MPPL/P/00
+
+Revised: 10/2022
