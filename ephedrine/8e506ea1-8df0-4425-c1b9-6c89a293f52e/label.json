@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA213536"
+  ],
+  "inn": "ephedrine",
+  "labeler": "Dr. Reddy's Laboratories Inc",
+  "package_ndcs": [
+    "43598-181-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ephedrine hydrochloride",
+      "name": "REZIPRES"
+    }
+  ],
+  "setid": "8e506ea1-8df0-4425-c1b9-6c89a293f52e",
+  "source": "dailymed"
+}
