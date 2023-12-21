@@ -21,7 +21,7 @@ Employment of a corticosteroid medication in the treatment of patients with a hi
 
 ## General
 
-The initial prescription and renewal of the medication order beyond 20 milliliters of FML suspension should be made by a physician only after examination of the patient with the aid of magnification, such as slit lamp biomicroscopy and, where appropriate, fluorescein staining.
+The initial prescription and renewal of the medication order beyond 20 milliliters of FML® suspension should be made by a physician only after examination of the patient with the aid of magnification, such as slit lamp biomicroscopy and, where appropriate, fluorescein staining.
 If signs and symptoms fail to improve after two days, the patient should be re-evaluated.
 
 As fungal infections of the cornea are particularly prone to develop coincidentally with long-term local corticosteroid applications, fungal invasion should be suspected in any persistent corneal ulceration where a corticosteroid has been used or is in use.
@@ -39,8 +39,8 @@ The use of this bottle by more than one person may spread infection.
 Keep bottle tightly closed when not in use.
 Keep out of the reach of children.
 
-The preservative in FML suspension, benzalkonium chloride, may be absorbed by soft contact lenses.
-Patients wearing soft contact lenses should be instructed to wait at least 15 minutes after instilling FML suspension to insert soft contact lenses.
+The preservative in FML® suspension, benzalkonium chloride, may be absorbed by soft contact lenses.
+Patients wearing soft contact lenses should be instructed to wait at least 15 minutes after instilling FML® suspension to insert soft contact lenses.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

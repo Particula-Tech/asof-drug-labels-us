@@ -11,5 +11,5 @@ The development of secondary ocular infection (bacterial, fungal and viral) has 
 Fungal and viral infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids.
 The possibility of fungal invasion should be considered in any persistent corneal ulceration where steroid treatment has been used (see WARNINGS).
 
-Transient burning and stinging upon instillation and other minor symptoms of ocular irritation have been reported with the use of FML suspension.
+Transient burning and stinging upon instillation and other minor symptoms of ocular irritation have been reported with the use of FML® suspension.
 Other adverse events reported with the use of fluorometholone include: allergic reactions; foreign body sensation; erythema of eyelid; eyelid edema/eye swelling; eye discharge; eye pain; eye pruritus; lacrimation increased; rash; taste perversion; visual disturbance (blurry vision); and visual field defect.
