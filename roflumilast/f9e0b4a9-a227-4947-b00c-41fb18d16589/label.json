@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA217242"
+  ],
+  "inn": "roflumilast",
+  "labeler": "Arcutis Biotherapeutics, Inc.",
+  "package_ndcs": [
+    "80610-430-60"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "roflumilast",
+      "name": "ZORYVE"
+    }
+  ],
+  "setid": "f9e0b4a9-a227-4947-b00c-41fb18d16589",
+  "source": "dailymed"
+}
