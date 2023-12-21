@@ -18,22 +18,21 @@ EXP DMMMYYYY
 
 # PRINCIPAL DISPLAY PANEL - 10 Ampule Carton Label
 
-2 mL Single-dose 10 Ampuls
+10 x 2 mL Single-dose ampules
 
 Rx only NDC 0409-3613-01 Contains 10 of NDC 0409-3613-11
 
 STERILE HYPERBARIC SOLUTION FOR SPINAL ANESTHESIA BUPIVACAINE SPINAL Bupivacaine HCl 0.75% 15 mg/2 mL (7.5 mg/mL) in Dextrose 8.25% Injection, USP
 
-Each mL contains 7.5 mg bupivacaine hydrochloride (anhydrous) and 82.5 mg dextrose (anhydrous).
-The pH of this solution is adjusted to between 4.0 and 6.5 with NaOH or HCl.
-The speciﬁc gravity is between 1.030 and 1.035 at 25°C and 1.03 at 37°C.
-Usual dosage: See insert.
-Store at 20 to 25°C (68 to 77°F); excursions permitted between 15° to 30°C (59° to 86°F).
+Each mL contains 7.5 mg bupivacaine hydrochloride (anhydrous) (equivalent to 7.9 mg of bupivacaine hydrochloride monohydrate), 82.5 mg dextrose (anhydrous) as baricity agent, and sodium hydroxide and hydrochloric acid as pH adjusters in water for injection. pH is between 4.0 and 6.5.
+
+Recommended Dosage: See prescribing information.
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C to 30°C (59°F to 86°F).
 [See USP Controlled Room Temperature.]
 
-RL–7880
+PAA203877
 
-LOT ##–###–AA EXP DMMMYYYY
+LOT AA#### EXP DMMMYYYY
 
 MADE IN SWITZERLAND Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
