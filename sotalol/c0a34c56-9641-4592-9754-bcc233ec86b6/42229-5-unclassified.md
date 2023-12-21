@@ -1,4 +1,4 @@
-# Patient Information
+# Dispense with Patient Information available at: www.epic-pharma.com/patientinfo/Sotalol-HCl-Tablets.pdf Patient Information
 
 ## Sotalol Hydrochloride Tablets, USP (AF)
 
