@@ -40,7 +40,7 @@ Clinical reports and animal research suggest that cardiovascular changes are mor
 
 ## 12.3 Pharmacokinetics
 
-The instillation of ZYNRELEF into the surgical site results in systemic plasma levels of bupivacaine and meloxicam for up to the duration as described in Table 7.
+The instillation of ZYNRELEF into the surgical site results in systemic plasma levels of bupivacaine and meloxicam for up to the duration as described in Table 6 for soft tissue surgical procedures and Table 7 for orthopedic surgical procedures.
 Systemic plasma levels of bupivacaine or meloxicam following application of ZYNRELEF do not correlate with local efficacy.
 
 Absorption
@@ -49,32 +49,55 @@ The rate of systemic absorption of bupivacaine or meloxicam from ZYNRELEF is dep
 
 Pharmacokinetic parameters of bupivacaine and meloxicam after single dose administration by instillation of ZYNRELEF were evaluated following multiple surgical procedures.
 
-Descriptive statistics of pharmacokinetic parameters of representative ZYNRELEF doses are provided in Table 7.
+Descriptive statistics of pharmacokinetic parameters of representative ZYNRELEF doses are provided in Table 6 for soft tissue surgical procedures and Table 7 for orthopedic surgical procedures.
+
+Table 6.
+Summary of Pharmacokinetic Parameters for Bupivacaine and Meloxicam After Single Dose Administration of ZYNRELEF by Instillation for Soft Tissue Surgical Procedures
+
+| Active Ingredient | Parameter | Herniorrhaphy: 300 mg/9 mg ZYNRELEF (N=16) | Abdominoplasty: 400 mg/12 mg ZYNRELEF (N=22) | Augmentation Mammoplasty: 400 mg/12 mg ZYNRELEF (N=49) | Cesarean Section: 400 mg/12 mg ZYNRELEF (N=11) |
+| --- | --- | --- | --- | --- | --- |
+| Bupivacaine | Cmax (ng/mL) | 271 (147) | 382 (149) | 710 (246) | 291 (70) |
+| Tmax (h) | 18 (3, 30) | 31 (20, 54) | 3.6 (1.3, 35) | 24 (1.1, 48) |  |
+| AUC(0-t) AUC(0-t): 0 to 120 h post-dose for herniorrhaphy, augmentation mammoplasty, and Cesarean section; 0 to 144 h post-dose for abdominoplasty. (h×ng/mL) | 15174 (8545) | 24411 (10072) | 27363 (9227) | 17923 (5069) |  |
+| AUC(inf) (h×ng/mL) | 15524 (8921) | 24930 (10105) | 31072 (17998) | 17983 (5065) |  |
+| t½ (h) | 16 (9) | 20 (8) | 25 (20) | 10 (2) |  |
+| C72h (ng/mL) | 96 (75) | 202 (118) | 149 (68) N=48; | 127 (56) |  |
+| C96h (ng/mL) | 37 (43) | 86 (52) N=21; | NS | 27 (16) |  |
+| C144h (ng/mL) | NS | 16 (11) | NS | 0.8 (1.0) N=10 |  |
+| Meloxicam | Cmax (ng/mL) | 225 (96) | 116 (62) | 527 (149) | 114 (49) |
+| Tmax (h) | 54 (24, 96) | 24 (4.0, 72) | 20 (5.6, 49) | 60 (8.5, 73) |  |
+| AUC(0-t) (h×ng/mL) | 18721 (7923) | 7924 (4197) | 30499 (9460) | 9710 (4560) |  |
+| AUC(inf) (h×ng/mL) | NR | 8304 (4422) | 41809 (38414) | 9778 (4592) |  |
+| t½ (h) | NR | 21 (9) | 42 (70) | 21 (9) |  |
+| C72h (ng/mL) | 197 (95) | 70 (44) | 214 (105) | 86 (43) |  |
+| C96h (ng/mL) | 146 (86) | 33 (25) | NS | 48 (32) |  |
+| C144h (ng/mL) | NS | 7.1 (10) | NS | 11 (12) |  |
+| Note: Arithmetic mean (standard deviation) except Tmax where it is median (min, max). Doses of ZYNRELEF are shown as bupivacaine dose (mg)/meloxicam dose (mg). |  |  |  |  |  |
+| NS = not sampled; NR= not reported, since the terminal elimination phase was not adequately characterized in sufficient number of patients. |  |  |  |  |  |
 
 Table 7.
-Summary of Pharmacokinetic Parameters for Bupivacaine and Meloxicam After Single Dose Administration of ZYNRELEF by Instillation
+Summary of Pharmacokinetic Parameters for Bupivacaine and Meloxicam After Single Dose Administration of ZYNRELEF by Instillation for Orthopedic Surgical Procedures
 
-| (N=17) | (N=16) | (N=53) |  |  |
-| --- | --- | --- | --- | --- |
-| Active Ingredient | Parameter | Bunionectomy: 60 mg/1.8 mg ZYNRELEF | Herniorrhaphy: 300 mg/9 mg ZYNRELEF | Total Knee Arthroplasty: 400 mg/12 mg ZYNRELEF |
-| Bupivacaine | Cmax (ng/mL) | 54 (33) | 271 (147) | 695 (411) |
-| Tmax (h) | 3.0 (1.6, 24) | 18 (3, 30) | 21 (4, 59) |  |
-| AUC(0-t) AUC(0-t): 0 to 120 h post-dose for bunionectomy and herniorrhaphy; 0 to 144 h post-dose for total knee arthroplasty. (h×ng/mL) | 1681 (1154) | 15174 (8545) | 35890 (28400) |  |
-| AUC(inf) (h×ng/mL) | 1718 (1211) | 15524 (8921) | 38173 (29400) N=50; |  |
-| t½ (h) | 15 (8) | 16 (9) | 17 (7) |  |
-| C72h (ng/mL) | 5.0 (5.3) | 96 (75) | 227 (283) |  |
-| C96h (ng/mL) | 1.7 (2.9) N=16; | 37 (43) | NS |  |
-| C144h (ng/mL) | NS | NS | 5.3 (21) N=32; |  |
-| Meloxicam | Cmax (ng/mL) | 26 (14) e | 225 (96) | 275 (134) |
-| Tmax (h) | 18 (8, 60) | 54 (24, 96) | 36 (12, 72) |  |
-| AUC(0-t) (h×ng/mL) | 1621 (927) | 18721 (7923) | 19525 (12259) |  |
-| AUC(inf) (h×ng/mL) | 2079 (1631) | NR | 25673 (17666) N=35; |  |
-| t½ (h) | 33 (36) | NR | 42 (37) |  |
-| C72h (ng/mL) | 13 (9) | 197 (95) | 202 (120) |  |
-| C96h (ng/mL) | 7.7 (5.8) N=15; | 146 (86) | NS |  |
-| C144h (ng/mL) | NS | NS | 28 (37) N=28 |  |
-| Note: Arithmetic mean (standard deviation) except Tmax where it is median (min, max). Doses of ZYNRELEF are shown as bupivacaine dose (mg)/meloxicam dose (mg). |  |  |  |  |
-| NS = not sampled; NR= not reported, since the terminal elimination phase was not adequately characterized in sufficient number of patients. |  |  |  |  |
+| Active Ingredient | Parameter | Bunionectomy: 60 mg/1.8 mg ZYNRELEF (N=17) | Total Knee Arthroplasty: 400 mg/12 mg ZYNRELEF (N=53) | Total Shoulder Arthroplasty: 400 mg/12 mg ZYNRELEF (N=20) | 1-Level Spinal Surgery: 92 mg/2.8 mg ZYNRELEF (N=13) | 2- or 3-Level Spinal Surgery: 191 mg/5.7 mg ZYNRELEF (N=13) |
+| --- | --- | --- | --- | --- | --- | --- |
+| Bupivacaine | Cmax (ng/mL) | 54 (33) | 695 (411) | 372 (165) | 95 (105) | 163 (67) |
+| Tmax (h) | 3.0 (1.6, 24) | 21 (4, 59) | 20 (1.8, 48) | 23 (1.9, 38) | 24 (4.1, 69) |  |
+| AUC(0-t) AUC(0-t): 0 to 120 h post-dose for bunionectomy and lumbar spinal decompression; 0 to 144 h post-dose for total knee arthroplasty and total shoulder arthroplasty. (h×ng/mL) | 1681 (1154) | 35889 (28399) | 21132 (12331) | 4467 (4977) | 8488 (4086) |  |
+| AUC(inf) (h×ng/mL) | 1718 (1211) | 38173 (29401) N=50; | 21193 (12329) | 5535 (6091) N=12; | 8659 (4288) N=11; |  |
+| t½ (h) | 15 (8) | 17 (7) | 10 (3) | 25 (25) | 14 (5) |  |
+| C72h (ng/mL) | 5.0 (5.3) | 227 (283) | 145 (117) | 34 (48) | 61 (49) |  |
+| C96h (ng/mL) | 1.7 (2.9) N=16 | NS | 30 (32) | 5.2 (7.3) | 24 (27) |  |
+| C144h (ng/mL) | NS | 5.3 (21) N=32; | 1.1 (2.2) N=19; | NS | NS |  |
+| Meloxicam | Cmax (ng/mL) | 26 (14) | 275 (134) | 248 (125) N=18; | 53 (41) N=13; | 90 (36) |
+| Tmax (h) | 18 (8, 60) | 36 (12, 72) | 57 (12, 72) | 18 (12, 72) | 43 (23, 69) |  |
+| AUC(0-t) (h×ng/mL) | 1621 (927) | 19525 (12259) | 22292 (12250) | 3556 (2665) | 6269 (3133) |  |
+| AUC(inf) (h×ng/mL) | 2079 (1631) | 25673 (17666) N=35; | 24133 (15285) N=17; | 3826 (3890) | 8265 (5874) N=10; |  |
+| t½ (h) | 33 (36) | 42 (37) | 29 (11) | 35 (15) | 38 (22) |  |
+| C72h (ng/mL) | 13 (9) | 202 (120) | 228 (131) | 44 (44) | 69 (37) |  |
+| C96h (ng/mL) | 7.7 (5.8) N=15; | NS | 158 (126) | 21 (23) | 43 (28) |  |
+| C144h (ng/mL) | NS | 28 (37) N=28 | 52 (56) | NS | NS |  |
+| Note: Arithmetic mean (standard deviation) except Tmax where it is median (min, max). Doses of ZYNRELEF are shown as bupivacaine dose (mg)/meloxicam dose (mg). For spinal surgery, ZYNRELEF mean doses for single-level and multilevel surgeries are shown; individual doses ranged from 45 mg/1.4 mg to 248 mg/7.4 mg. |  |  |  |  |  |  |
+| NS = not sampled. |  |  |  |  |  |  |
 
 Distribution
 
@@ -111,8 +134,7 @@ Bupivacaine
 
 Amide-type local anesthetics such as bupivacaine are metabolized primarily in the liver via conjugation with glucuronic acid.
 Pipecoloxylidine is the major metabolite of bupivacaine.
-The elimination of drug from tissue distribution depends largely upon the ability of plasma protein binding sites in the circulation to carry it to the liver where it is metabolized.
-[see Use in Specific Populations (8.6)].
+The elimination of drug from tissue distribution depends largely upon the ability of plasma protein binding sites in the circulation to carry it to the liver where it is metabolized [see Use in Specific Populations (8.6)].
 
 Meloxicam
 
@@ -133,7 +155,7 @@ Urinary excretion is affected by urinary perfusion and factors affecting urinary
 Only 6% of bupivacaine is excreted unchanged in the urine.
 
 When administered in recommended doses and concentrations, bupivacaine HCl does not ordinarily produce irritation or tissue damage.
-The mean apparent terminal half-life (t1/2) for bupivacaine from ZYNRELEF is approximately 14 to15 hours.
+The mean apparent terminal half-life (t1/2) for bupivacaine from ZYNRELEF is approximately 10 to 25 hours.
 
 Meloxicam
 
@@ -143,7 +165,7 @@ The extent of the urinary excretion was confirmed for unlabeled multiple 7.5 mg 
 There is significant biliary and/or enteral secretion of the drug.
 This was demonstrated when oral administration of cholestyramine following a single IV dose of meloxicam decreased the AUC of meloxicam by 50%.
 
-The mean apparent terminal half-life (t1/2) for meloxicam from ZYNRELEF is approximately 22 to 25 hours.
+The mean apparent terminal half-life (t1/2) for meloxicam from ZYNRELEF is approximately 21 to 42 hours.
 
 Specific Populations
 
@@ -192,7 +214,7 @@ Drug Interaction Studies
 
 Aspirin: When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
 The clinical significance of this interaction is not known.
-See Table 6 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].
+See Table 5 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].
 
 Cholestyramine: Pretreatment for four days with cholestyramine significantly increased the clearance of oral meloxicam by 50%.
 This resulted in a decrease in t1/2, from 19.2 hours to 12.5 hours, and a 35% reduction in AUC.

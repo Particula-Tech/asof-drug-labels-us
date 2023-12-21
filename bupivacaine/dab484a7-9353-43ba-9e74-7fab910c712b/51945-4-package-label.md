@@ -4,17 +4,9 @@ ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
 400 mg bupivacaine and 12 mg meloxicam Each mL contains 29.25 mg bupivacaine and 0.88 mg meloxicam
 
-Single-Dose Application For Soft Tissue or Periarticular Instillation Use
+Single-Dose Application For Instillation Use
 
-Refer to Instructions for Use
-
-See Prescribing Information for Dosage, Preparation, and Administration
-
-Do Not Substitute Components
-
-Use only the supplied components in this kit for preparation
-
-Do not remove crimp seal
+Refer to Instructions for Use See Prescribing Information for Dosage, Preparation, and Administration Do Not Substitute Components Use only the supplied components in this kit for preparation Do not remove crimp seal
 
 NDC 47426-301-02
 
@@ -40,23 +32,15 @@ Vial Contents: 14 mL* Withdraw 14 mL to deliver 13.5 mL
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL - 10.5 mL Vial Carton kit
+# PRINCIPAL DISPLAY PANEL - 10.5 mL Vial Carton Kit
 
-ZYNRELEF™ (bupivacaine and meloxicam) extended-release solution
+ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
 300 mg bupivacaine and 9 mg meloxicam Each mL contains 29.25 mg bupivacaine and 0.88 mg meloxicam
 
-Single-Dose Application For Soft Tissue or Periarticular Instillation Use
+Single-Dose Application For Instillation Use
 
-Refer to Instructions for Use
-
-See Prescribing Information for Dosage, Preparation, and Administration
-
-Do Not Substitute Components
-
-Use only the supplied components in this kit for preparation
-
-Do not remove crimp seal
+Refer to Instructions for Use See Prescribing Information for Dosage, Preparation, and Administration Do Not Substitute Components Use only the supplied components in this kit for preparation Do not remove crimp seal
 
 NDC 47426-302-02
 
@@ -73,9 +57,9 @@ Each Kit Contains:
 Vial Contents Sterile Vial exterior NOT STERILE
 
 - One sterile vented vial spike
-- Two sterile 12 mL Luer Lock syringes
-- Two sterile Luer lock applicators
-- Two sterile syringe tip caps
+- One sterile 12 mL Luer Lock syringe
+- One sterile Luer lock applicator
+- One sterile syringe tip cap
 - Instructions for Use and Prescribing Information
 
 Vial Contents: 10.5 mL* Withdraw 10.5 mL to deliver 10.2 mL
@@ -88,17 +72,9 @@ ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
 200 mg bupivacaine and 6 mg meloxicam Each mL contains 29.25 mg bupivacaine and 0.88 mg meloxicam
 
-Single-Dose Application For Soft Tissue or Periarticular Instillation Use
+Single-Dose Application For Instillation Use
 
-Refer to Instructions for Use
-
-See Prescribing Information for Dosage, Preparation, and Administration
-
-Do Not Substitute Components
-
-Use only the supplied components in this kit for preparation
-
-Do not remove crimp seal
+Refer to Instructions for Use See Prescribing Information for Dosage, Preparation, and Administration Do Not Substitute Components Use only the supplied components in this kit for preparation Do not remove crimp seal
 
 NDC 47426-303-01
 
@@ -126,21 +102,13 @@ Rx Only
 
 # PRINCIPAL DISPLAY PANEL - 2.3 mL Vial Carton Kit
 
-ZYNRELEF™ (bupivacaine and meloxicam) extended-release solution
+ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
 60 mg bupivacaine and 1.8 mg meloxicam Each mL contains 29.25 mg bupivacaine and 0.88 mg meloxicam
 
-Single-Dose Application For Soft Tissue or Periarticular Instillation Use
+Single-Dose Application For Instillation Use
 
-Refer to Instructions for Use
-
-See Prescribing Information for Dosage, Preparation, and Administration
-
-Do Not Substitute Components
-
-Use only the supplied components in this kit for preparation
-
-Do not remove crimp seal
+Refer to Instructions for Use See Prescribing Information for Dosage, Preparation, and Administration Do Not Substitute Components Use only the supplied components in this kit for preparation Do not remove crimp seal
 
 NDC 47426-304-01
 

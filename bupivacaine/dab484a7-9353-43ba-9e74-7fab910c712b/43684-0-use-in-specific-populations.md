@@ -103,7 +103,7 @@ Reproduction studies have not been conducted with ZYNRELEF.
 
 Bupivacaine
 
-Bupivacaine hydrochloride was administered subcutaneously to rats at doses of 4.4, 13.3, and 40 mg/kg and to rabbits at doses of 1.3, 5.8, and 22.2 mg/kg during the period of organogenesis (implantation to closure of the hard palate).
+Bupivacaine HCl was administered subcutaneously to rats at doses of 4.4, 13.3, and 40 mg/kg and to rabbits at doses of 1.3, 5.8, and 22.2 mg/kg during the period of organogenesis (implantation to closure of the hard palate).
 The high doses are comparable to the daily MRHD of 400 mg on a mg/m2 (BSA) basis.
 No embryo-fetal effects were observed in rats at the high dose which caused increased maternal lethality.
 An increase in embryo-fetal deaths was observed in rabbits at the high dose in the absence of maternal toxicity with the fetal No Observed Adverse Effect Level representing approximately 0.3 times the MRHD on a BSA basis.
@@ -124,8 +124,12 @@ Oral administration of meloxicam to pregnant rats during late gestation through 
 
 Risk Summary
 
+Low levels of bupivacaine and meloxicam have been detected in the milk of lactating women after administration of ZYNRELEF.
+In a clinical study in lactating women receiving postpartum administration of ZYNRELEF up to 400 mg bupivacaine/12 mg meloxicam following Cesarean section, bupivacaine and meloxicam were detected in breast milk at peak concentrations approximately 14% and 3%, respectively, of those in maternal plasma.
+The estimated average infant dose of bupivacaine and meloxicam from breast milk (assuming mean milk consumption of 200 mL/kg/day) would be 0.01 mg/kg and 0.001 mg/kg, respectively, which on a mg/kg basis would be approximately 0.3% and 1.0% of the maternal dose, respectively [see Data].
+The study did not evaluate the effects of ZYNRELEF on milk production or the effects of ZYNRELEF exposure on the breastfed infant.
+
 Limited published literature reports that bupivacaine and its primary metabolite, pipecoloxylidine (PPX), are present in human milk at low levels.
-There are no human data available on whether meloxicam is present in human milk.
 There is no available information on effects of bupivacaine or meloxicam in the breastfed infant or effects of the drugs on milk production.
 
 Clinical Considerations
@@ -134,10 +138,14 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Data
 
-Animal Data
+Human Data
 
-Following administration of ZYNRELEF to lactating pigs, bupivacaine and meloxicam were detected in milk, but only bupivacaine was detected in the plasma of piglets allowed to suckle milk from the treated animals.
-Meloxicam was present in the milk of lactating rats at concentrations higher than those in plasma.
+A clinical study in 25 lactating women who underwent a planned Cesarean section and had chosen prospectively not to breastfeed their newborn was conducted to characterize the pharmacokinetics of bupivacaine and meloxicam in expressed breast milk and plasma following postpartum administration of ZYNRELEF up to 400 mg/12 mg.
+Bupivacaine and meloxicam were detected in milk at peak concentrations approximately 14% and 3%, respectively, of concentrations in maternal plasma.
+Assuming a standardized milk consumption of 200 mL/kg/day, the mean estimated infant oral dose was 0.01 mg/kg of bupivacaine and 0.001 mg/kg of meloxicam, which on a mg/kg basis would be approximately 0.3% and 1.0%, respectively, of the maternal dose.
+Last measurable concentrations in breast milk were at 6 days post-dose for bupivacaine and 8 days post-dose for meloxicam.
+The study did not evaluate the effects of ZYNRELEF on milk production.
+Infants did not receive breast milk obtained following ZYNRELEF administration; therefore, the effects of ZYNRELEF on the breastfed infant were not evaluated.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -162,8 +170,8 @@ Safety and effectiveness of ZYNRELEF in pediatric patients has not been establis
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients undergoing various surgical procedures who were exposed to ZYNRELEF in clinical studies (N=1067), 136 patients (12.7%) were ≥ 65 years old, while 30 (2.8%) were ≥75 years old.
-No overall differences in safety or efficacy were observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+Of the total number of patients undergoing various surgical procedures who were exposed to ZYNRELEF in clinical studies (N=1627), 288 patients (17.7%) were ≥ 65 years old, while 83 (5.1%) were ≥75 years old.
+No overall differences in safety or efficacy were observed between elderly patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions, although the applicability of this to a single administration of low-dose meloxicam in ZYNRELEF is uncertain [see Warnings and Precautions (5.1, 5.2, 5.8)].
 

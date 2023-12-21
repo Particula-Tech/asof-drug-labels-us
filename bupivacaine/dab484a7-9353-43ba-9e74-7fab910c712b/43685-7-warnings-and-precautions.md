@@ -51,7 +51,7 @@ Strategies to Minimize the GI Risks in NSAID-treated Patients
 
 - Use the recommended dose for each indicated surgical procedure.
 - Avoid administration of analgesic doses of more than one NSAID at a time.
-  If additional NSAID medication is indicated in the post-operative period, monitor patients for signs and symptoms of NSAID-related GI adverse reactions.
+  If additional NSAID medication is indicated in the postoperative period, monitor patients for signs and symptoms of NSAID-related GI adverse reactions.
 - Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of bleeding.
   For such patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
 - Remain alert for signs and symptoms of GI ulceration and bleeding following treatment with ZYNRELEF.
@@ -157,7 +157,6 @@ Currently, there is no effective treatment for chondrolysis; patients who have e
 ## 5.11 Methemoglobinemia
 
 Cases of methemoglobinemia have been reported in association with local anesthetic use.
-
 Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
 If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
 

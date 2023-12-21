@@ -9,9 +9,9 @@ The toxic effects of local anesthetics are additive.
 Avoid additional use of local anesthetics within 96 hours following administration of ZYNRELEF.
 If co-administration cannot be avoided, monitor patients for neurologic and cardiovascular effects related to local anesthetic systemic toxicity [see Dosage and Administration (2.1), Warnings and Precautions (5.1) and Overdosage (10)].
 
-Patients who are administered local anesthetics may be at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics (Table 5).
+Patients who are administered local anesthetics may be at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics (Table 4).
 
-Table 5.
+Table 4.
 Examples of Drugs Associated with Methemoglobinemia
 
 | Class | Examples |
@@ -26,9 +26,9 @@ Examples of Drugs Associated with Methemoglobinemia
 
 ## 7.2 Meloxicam Drug Interactions
 
-See Table 6 for clinically significant drug interactions with meloxicam.
+See Table 5 for clinically significant drug interactions with meloxicam.
 
-Table 6.
+Table 5.
 Clinically Significant Drug Interactions with Meloxicam
 
 | Drugs that Interfere with Hemostasis |  |
@@ -58,7 +58,7 @@ Clinically Significant Drug Interactions with Meloxicam
 | Intervention: | During concomitant use of ZYNRELEF and cyclosporine, monitor patients for signs of worsening renal function. |
 | NSAIDs and Salicylates |  |
 | Clinical Impact: | Concomitant use of meloxicam with other NSAIDs or salicylates (e.g., diflunisal, salsalate) increases the risk of GI toxicity [see Warnings and Precautions (5.2)]. |
-| Intervention: | If additional NSAID or salicylate medication is indicated in the post-operative period, monitor patients for signs and symptoms of GI toxicity [see Clinical Pharmacology (12.3)]. |
+| Intervention: | If additional NSAID or salicylate medication is indicated in the postoperative period, monitor patients for signs and symptoms of GI toxicity [see Clinical Pharmacology (12.3)]. |
 | Pemetrexed |  |
 | Clinical Impact: | Concomitant use of NSAIDs and pemetrexed may increase the risk of pemetrexed-associated myelosuppression, renal, and GI toxicity (see the pemetrexed prescribing information). |
 | Intervention: | During concomitant use of ZYNRELEF and pemetrexed, in patients with renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for myelosuppression, renal and GI toxicity. Patients taking meloxicam should interrupt dosing for at least five days before, the day of, and two days following pemetrexed administration. In patients with creatinine clearance below 45 mL/min, the concomitant administration of meloxicam with pemetrexed is not recommended. |
