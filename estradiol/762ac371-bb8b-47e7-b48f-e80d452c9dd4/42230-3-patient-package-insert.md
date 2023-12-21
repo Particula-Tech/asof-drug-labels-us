@@ -28,6 +28,7 @@ EstroGel is used after menopause to:
 When the estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden intense feelings of heat and sweating (“hot flashes” or “hot flushes”).
 In some women, the symptoms are mild, and they will not need to use estrogens.
 In other women, symptoms can be more severe.
+You and your healthcare provider should talk regularly about whether you still need treatment with EstroGel.
 
 - Treat moderate to severe menopausal changes in and around the vagina You and your healthcare provider should talk regularly about whether you still need treatment with EstroGel to control these problems.
   If you use EstroGel only to treat your menopausal changes in and around your vagina, talk with your healthcare provider about whether a topical vaginal product would be better for you.
@@ -40,7 +41,7 @@ Do not start using EstroGel if you:
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
 
 - have been diagnosed with a bleeding disorder
-- currently have or have had certain cancers Estrogen may increase the chance of getting certain types of cancer, including cancer of the breast or uterus (womb).
+- currently have or have had certain cancers Estrogen may increase the chance of getting certain types of cancer, including cancer of the breast or uterus.
   If you have or have had cancer, talk with your healthcare provider about whether you should use EstroGel.
 
 - had a stroke or heart attack
@@ -76,7 +77,7 @@ For detailed instructions, see the step-by-step instructions for using EstroGel 
 - EstroGel is for skin use only.
 - EstroGel contains alcohol, which is flammable.
   Avoid fire, flame or smoking until EstroGel has dried.
-- You and your healthcare provider should talk regularly (for example, every 3 to 6 months) about the dose you are using and whether you still need treatment with EstroGel.
+- You and your healthcare provider should talk regularly (for example, every 3 to 6 months) about the dose you are taking and whether you still need treatment with EstroGel.
 
 What are the possible side effects of EstroGel?
 
@@ -102,7 +103,6 @@ Serious, but less common side effects include:
 - cancer changes of endometriosis
 - enlargement of benign tumors of the uterus ("fibroids")
 - worsening of swelling of face and tongue (angioedema) in women with a history of angioedema
-- changes in laboratory test results such as bleeding time and high blood sugar
 
 Call your healthcare provider right away if you get any of the following warning signs or any other unusual symptoms that concern you:
 
@@ -111,7 +111,6 @@ Call your healthcare provider right away if you get any of the following warning
 - changes in vision or speech
 - sudden new severe headaches
 - severe pains in your chest or legs with or without shortness of breath, weakness and fatigue
-- swelling of face, lips, and tongue with or without red, itchy bumps
 
 Common side effects of EstroGel include:
 
@@ -126,7 +125,7 @@ Common side effects of EstroGel include:
 These are not all of the possible side effects of EstroGel.
 For more information, ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effects that bother you or do not go away.
-You may report side effects to FDA at 1-800-FDA 1088 or to ASCEND Therapeutics® US, LLC at 1‑877-204-1013.
+You may report side effects to ASCEND Therapeutics ® US, LLC at 1‑877-204-1013 or to FDA at 1-800-FDA-1088.
 What can I do to lower my chances of a serious side effect with EstroGel?
 
 - Talk with your healthcare provider regularly about whether you should continue using EstroGel.
@@ -145,7 +144,7 @@ How should I store EstroGel?
 Keep EstroGel and all medicines out of the reach of children.
 General information about the safe and effective use of EstroGel
 
-Medicines are sometimes prescribed for conditions that are not mentioned in Patient Information leaflets.
+Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 Do not use EstroGel for conditions for which it was not prescribed.
 Do not give EstroGel to other people, even if they have the same symptoms you have.
 It may harm them.
@@ -244,18 +243,18 @@ This Patient Information and Instructions for Use has been approved by the U.S. 
 
 Manufactured for:
 
-ASCEND Therapeutics® US, LLC
+ASCEND Therapeutics ® US, LLC
 
-Morristown, NJ 07960
+Herndon, VA 20170
 
 By DPT Laboratories Ltd.
 
 San Antonio, TX 78215
 
-141309Rev082023
+141263Rev112021
 
-Utilizes EHG® Technology
+Utilizes EHG ® Technology
 
-©2023 ASCEND Therapeutics® US, LLC
+©2021 ASCEND Therapeutics ® US, LLC
 
-Revised: 08/2023
+Revised: 11/2021

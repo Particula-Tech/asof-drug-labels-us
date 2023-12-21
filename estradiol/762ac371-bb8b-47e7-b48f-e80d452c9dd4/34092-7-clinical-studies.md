@@ -13,8 +13,8 @@ Table 2 Mean Change from Baseline in the Number and Severity of Hot Flushes per 
 | --- | --- | --- | --- | --- |
 |  | Placebon=73 | EstroGel 0.06%1.25 gn=72 | Placebon=73 | EstroGel 0.06%1.25 gn=72 |
 | BaselineMean (SD) | 11.01 (5.66) | 10.33 (3.07) | 2.30 (0.24) | 2.36 (0.29) |
-| Week 4Primary timepoint.Mean (SD)Mean change from baseline (SD)Diff. vs placeboP value P values from Elteren’s nonparametric test. | 5.95 (5.17)-5.06 (4.91) | 4.43 (4.13)-5.91 (3.68)0.850.019 Statistically significantly different from placebo. | 2.00 (0.63)-0.31 (0.62) | 1.73 (0.73)-0.63 (0.71)0.320.005 |
-| Week 12Mean (SD)Mean change from baseline (SD)Diff. vs placeboP value | 5.17 (6.52)-5.84 (4.52) | 2.79 (3.70)-7.55 (3.52)1.710.043 | 1.76 (0.84)-0.54 (0.84) | 1.33 (0.97)-1.03 (0.94)0.49<0.001 |
+| Week 4Primary timepoint.Mean (SD)Mean change from baseline (SD)Diff. vs placeboP value P values from Elteren’s nonparametric test. | 5.95 (5.17) -5.06 (4.91) | 4.43 (4.13) -5.91 (3.68)0.850.019 Statistically significantly different from placebo. | 2.00 (0.63) -0.31 (0.62) | 1.73 (0.73) -0.63 (0.71)0.320.005 |
+| Week 12Mean (SD)Mean change from baseline (SD)Diff. vs placeboP value | 5.17 (6.52) -5.84 (4.52) | 2.79 (3.70) -7.55 (3.52)1.710.043 | 1.76 (0.84) -0.54 (0.84) | 1.33 (0.97) -1.03 (0.94)0.49<0.001 |
 
 ## 14.2 Effects on Vulvar and Vaginal Atrophy in Postmenopausal Women
 
@@ -62,7 +62,8 @@ No overall difference for primary CHD events (nonfatal MI, silent MI, and CHD de
 See Table 3.
 
 Centrally adjudicated results for stroke events from the estrogen-alone substudy, after an average follow-up of 7.1 years, reported no significant difference in the distribution of stroke subtype or severity, including fatal strokes, in women receiving estrogen-alone compared to placebo.
-Estrogen-alone therapy increased the risk of ischemic stroke, and this excess risk was present in all subgroups of women examined.10
+Estrogen-alone therapy increased the risk of ischemic stroke, and this excess risk was present in all subgroups of women examined.
+10 See Table 3.
 
 Timing of initiation of estrogen-alone therapy relative to the start of menopause may affect the overall risk benefit profile.
 The WHI estrogen-alone substudy stratified by age showed in women 50 to 59 years of age a non-significant trend toward reduced risk for CHD [hazard ratio (HR) 0.63 (95 percent CI, 0.36-1.09)] and overall mortality [HR 0.71 (95 percent CI, 0.46-1.11)].

@@ -58,7 +58,7 @@ The reported endometrial cancer risk among unopposed estrogen users is about 2- 
 Most studies show no significant increased risk associated with use of estrogens for less than 1 year.
 The greatest risk appears to be associated with prolonged use, with increased risks of 15- to 24- fold for 5 to 10 years or more, and this risk has been shown to persist for at least 8 to 15 years after estrogen therapy is discontinued.
 
-Clinical surveillance of all women using estrogen-alone or estrogen plus progestogen therapy is important.
+Clinical surveillance of all women using estrogen-alone or estrogen plus progestin therapy is important.
 Perform adequate diagnostic measures, including directed or random endometrial sampling when indicated, to rule out malignancy in postmenopausal women with undiagnosed persistent or recurring abnormal genital bleeding with unknown etiology.
 
 There is no evidence that the use of natural estrogens results in a different endometrial risk profile than synthetic estrogens of equivalent estrogen dose.
@@ -82,12 +82,12 @@ Other prognostic factors, such as histologic subtype, grade and hormone receptor
 Consistent with the WHI clinical trial, observational studies have also reported an increased risk of breast cancer with estrogen plus progestin therapy, and a smaller increased risk for estrogen-alone therapy, after several years of use.
 The risk increased with duration of use, and appeared to return to baseline over about 5 years after stopping treatment (only the observational studies have substantial data on risk after stopping).
 Observational studies also suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to estrogen-alone therapy.
-These studies have not generally found significant variation in the risk of breast cancer among different estrogen plus progestin combinations, doses, or routes of administration.
+However, these studies have not generally found significant variation in the risk of breast cancer among different estrogen plus progestin combinations, doses, or routes of administration.
 
-The use of estrogen-alone and estrogen plus progestin therapy has been reported to result in an increase in abnormal mammograms requiring further evaluation.
+The use of estrogen-alone and estrogen plus progestin has been reported to result in an increase in abnormal mammograms requiring further evaluation.
 
-Have all women receive yearly breast examinations by a healthcare provider and perform monthly breast self-examinations.
-In addition, base the scheduling of mammography examinations on patient age, risk factors, and prior mammogram results.
+All women should receive yearly breast examinations by a healthcare provider and perform monthly breast self-examinations.
+In addition, mammography examinations should be scheduled based on patient age, risk factors, and prior mammogram results.
 
 Ovarian Cancer
 
@@ -153,7 +153,7 @@ Discontinue EstroGel if pancreatitis occurs.
 
 ## 5.10 Hepatic Impairment and/or Past History of Cholestatic Jaundice
 
-Estrogens may be poorly metabolized in women with hepatic impairment.
+Estrogens may be poorly metabolized in women with impaired liver function.
 Exercise caution in any woman with a history of cholestatic jaundice associated with past estrogen use or with pregnancy.
 In the case of recurrence of cholestatic jaundice, discontinue EstroGel.
 
@@ -188,7 +188,7 @@ Consider whether the benefits of estrogen therapy, including EstroGel, outweigh 
 ## 5.16 Exacerbation of Other Conditions
 
 Estrogen therapy, including EstroGel, may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migraine, porphyria, systemic lupus erythematosus, and hepatic hemangiomas.
-Consider whether the benefits of estrogen therapy outweigh the risks in women with such conditions.
+Consider whether the benefits of estrogen therapy outweigh the risks in women with these conditions.
 
 ## 5.17 Alcohol-based Gels are Flammable
 
@@ -200,7 +200,7 @@ Use of moisturizing lotion one hour after application of EstroGel significantly 
 
 ## 5.19 Laboratory Tests
 
-Serum follicle stimulating hormone (FSH) and estradiol levels are not useful in the management of postmenopausal women with moderate to severe vasomotor symptoms and moderate to severe symptoms of vulvar and vaginal atrophy.
+Serum follicle stimulating hormone (FSH) and estradiol levels have not been shown to be useful in the management of postmenopausal women with moderate to severe vasomotor symptoms and moderate to severe symptoms of vulvar and vaginal atrophy.
 
 ## 5.20 Drug-Laboratory Test Interactions
 

@@ -10,7 +10,7 @@ After menopause, most endogenous estrogen is produced by conversion of androsten
 Thus, estrone and the sulfate‑conjugated form, estrone sulfate, are the most abundant circulating estrogens in postmenopausal women.
 
 Estrogens act through binding to nuclear receptors in estrogen-responsive tissues.
-To date, 2 estrogen receptors have been identified.
+To date, two estrogen receptors have been identified.
 These vary in proportion from tissue to tissue.
 
 Circulating estrogens modulate the pituitary secretion of the gonadotropins, luteinizing hormone (LH) and FSH through a negative feedback mechanism.
