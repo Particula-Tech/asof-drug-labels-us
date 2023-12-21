@@ -30,7 +30,7 @@
 | Medicines are sometimes prescribed for purposes other than those listed in the Medication Guide. Do not use COTEMPLA XR-ODT for a condition for which it was not prescribed. Do not give COTEMPLA XR-ODT to other people, even if they have the same condition. It may harm them and it is against the law. You can ask your healthcare provider or pharmacist for information about COTEMPLA XR-ODT that is written for healthcare professionals. |  |  |  |
 | What are the ingredients in COTEMPLA XR-ODT? |  |  |  |
 | Active Ingredient: Methylphenidate |  |  |  |
-| Inactive Ingredients: Mannitol, Fructose, Microcrystalline Cellulose, Crospovidone, Methacrylic Acid, Polystyrene Sulfonate, Citric Acid, Colloidal Silicon Dioxide, Grape Flavor, Natural Masking Type Powder, Triethyl Citrate, Magnesium Stearate, Ethylcellulose, Sucralose, Lake Blend Purple, and Polyethylene Glycol |  |  |  |
+| Inactive Ingredients: Mannitol, Fructose, Microcrystalline Cellulose, Crospovidone, Methacrylic Acid, Polystyrene Sulfonate, Citric Acid, Colloidal Silicon Dioxide, Grape Flavor, Natural Masking Type Powder, Triethyl Citrate, Magnesium Stearate, Ethylcellulose, Sucralose, Lake Blend Purple, and Polyethylene Glycol 3350 |  |  |  |
 | Manufactured for Neos Therapeutics Brands, LLC, Grand Prairie, TX 75050 |  |  |  |
 | For more information go to https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.COTEMPLAXRODT.com&c=E,1,uJnpRo76RJYGQDo8GMW8zCnFW9Wn0k16nND89VJMYg7anbFT-Thnek2P1Uts7soE5kxS-99rv0KJLMK4Fi0tUhQLe2IT7HZHVjJZmOQANFuP3n-FX1c,&typo=1 or call 1-888-319-1789 |  |  |  |
 | COTEMPLA XR-ODT is registered in the US Patent and Trademark Office © 2014 Neos Therapeutics, Inc. |  |  |  |

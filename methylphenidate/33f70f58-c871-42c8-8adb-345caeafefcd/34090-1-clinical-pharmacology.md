@@ -15,6 +15,21 @@ Methylphenidate is thought to block the reuptake of norepinephrine and dopamine 
 
 After oral administration of COTEMPLA XR-ODT, circulation levels of l- methylphenidate (MPH) were about 2% of total MPH.
 
+Elimination
+
+Plasma methylphenidate concentrations decline monophasically following oral administration of COTEMPLA XR-ODT.
+The mean plasma terminal elimination half-life of methylphenidate was about 4 hours in healthy volunteers following a single 51.8 mg dose administration.
+
+Metabolism
+
+In humans, methylphenidate is metabolized primarily via deesterification to alpha-phenyl-piperidine acetic acid (ritalinic acid).
+The metabolite has little or no pharmacological activity.
+
+Excretion
+
+After oral dosing of radiolabeled methylphenidate in humans, about 90% of the radioactivity was recovered in urine.
+The main primary metabolite was PPAA, accounting for approximately 80% of the dose.
+
 Absorption
 
 Following a single dose of 51.8 mg (2×25.9 mg daily) COTEMPLA XR-ODT in healthy adult subjects under fasted conditions, plasma methylphenidate (MPH) reached maximal concentration (C max) at a median time of 5 hours after dosing.
@@ -32,21 +47,6 @@ Effect of Alcohol
 There is no in vivo study conducted for the effect of alcohol on drug exposure.
 An in vitro dissolution study showed alcohol-induced dose dumping potential in the presence of 40% alcohol.
 Dose dumping was not observed in the presence of lower alcohol concentrations.
-
-Elimination
-
-Plasma methylphenidate concentrations decline monophasically following oral administration of COTEMPLA XR-ODT.
-The mean plasma terminal elimination half-life of methylphenidate was about 4 hours in healthy volunteers following a single 51.8 mg dose administration.
-
-Metabolism
-
-In humans, methylphenidate is metabolized primarily via deesterification to alpha-phenyl-piperidine acetic acid (ritalinic acid).
-The metabolite has little or no pharmacological activity.
-
-Excretion
-
-After oral dosing of radiolabeled methylphenidate in humans, about 90% of the radioactivity was recovered in urine.
-The main primary metabolite was PPAA, accounting for approximately 80% of the dose.
 
 Specific Populations
 

@@ -46,7 +46,9 @@ Cotempla XR-ODT™CII Methylphenidate Extended-Release Orally Disintegrating Tab
 
 Do not crush or chew tablets
 
-Each tablet contains 25.9 mg of methylphenidate (equivalent to that in a 30 mg strength methylphenidate hydrochloride product)
+Each tablet contains 25.9 mg of methylphenidate
+
+(equivalent to that in a 30 mg strength methylphenidate hydrochloride product)
 
 25.9 mg
 

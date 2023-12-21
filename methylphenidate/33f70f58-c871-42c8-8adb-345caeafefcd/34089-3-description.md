@@ -15,4 +15,4 @@ C 14H 19NO 2 Mol.
 Wt.
 233.31
 
-COTEMPLA XR-ODT also contains the following inactive ingredients: Mannitol, Fructose, Microcrystalline Cellulose, Crospovidone, Methacrylic Acid, Polystyrene Sulfonate, Citric Acid, Colloidal Silicon Dioxide, Grape Flavor, Natural Masking Type Powder, Triethyl Citrate, Magnesium Stearate, Ethylcellulose, Sucralose, Lake Blend Purple, and Polyethylene Glycol.
+COTEMPLA XR-ODT also contains the following inactive ingredients: Mannitol, Fructose, Microcrystalline Cellulose, Crospovidone, Methacrylic Acid, Polystyrene Sulfonate, Citric Acid, Colloidal Silicon Dioxide, Grape Flavor, Natural Masking Type Powder, Triethyl Citrate, Magnesium Stearate, Ethylcellulose, Sucralose, Lake Blend Purple, and Polyethylene Glycol 3350.
