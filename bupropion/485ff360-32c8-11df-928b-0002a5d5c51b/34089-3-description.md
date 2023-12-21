@@ -7,7 +7,7 @@ Naltrexone differs in structure from oxymorphone in that the methyl group on the
 Naltrexone HCl is also related to the potent opioid antagonist, naloxone, or n-allylnoroxymorphone.
 
 Naltrexone HCl has the chemical name of morphinan-6-one, 17-(cyclopropylmethyl)-4,5-epoxy-3,14-dihydroxy-, hydrochloride, (5α)-.
-The empirical formula is C20H23NO4•HCl and the molecular weight is 377.86.
+The empirical formula is C20H23NO4∙HCl and the molecular weight is 377.86.
 The structural formula is:
 
 Naltrexone HCl is a white to yellowish, crystalline compound.
@@ -17,7 +17,7 @@ Bupropion HCl is an antidepressant of the aminoketone class.
 Bupropion HCl closely resembles the structure of diethylpropion.
 It is designated as (±)-1-(3 chlorophenyl)-2-[(1,1-dimethylethyl)amino]-1-propranone hydrochloride.
 It is related to phenylethylamines.
-The empirical formula is C13H18ClNO•HCl and the molecular weight is 276.2.
+The empirical formula is C13H18ClNO∙HCl and the molecular weight is 276.2.
 The structural formula is:
 
 Bupropion HCl powder is white, crystalline, and highly soluble in water.

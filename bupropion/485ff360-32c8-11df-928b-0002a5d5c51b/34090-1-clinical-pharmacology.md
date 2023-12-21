@@ -128,7 +128,11 @@ The following information is available for individual components.
 In a study of seven patients with end-stage renal disease requiring dialysis, peak plasma concentrations of naltrexone were elevated at least 6-fold compared to healthy subjects.
 An inter-trial comparison between normal subjects and patients with end-stage renal failure demonstrated that the bupropion Cmax and AUC values were comparable in the two groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8-fold increase, respectively, in AUC for patients with end-stage renal failure.
 
-Drug Interactions In Vitro Assessment of Drug Interactions At therapeutically relevant concentrations, naltrexone and 6-beta-naltrexol are not major inhibitors of CYP isoforms CYP1A2, CYP2B6, CYP2C8, CYP2E1, CYP2C9, CYP2C19, CYP2D6 or CYP3A4.
+Drug Interactions
+
+In Vitro Assessment of Drug Interactions
+
+At therapeutically relevant concentrations, naltrexone and 6-beta-naltrexol are not major inhibitors of CYP isoforms CYP1A2, CYP2B6, CYP2C8, CYP2E1, CYP2C9, CYP2C19, CYP2D6 or CYP3A4.
 Both naltrexone and 6-beta-naltrexol are not major inducers of CYP isoforms CYP1A2, CYP2B6, or CYP3A4.
 
 Bupropion and its metabolites (hydroxybupropion, erythrohydrobupropion, threohydrobupropion) are inhibitors of CYP2D6.
@@ -145,9 +149,9 @@ In addition, drug interaction between bupropion, a component of CONTRAVE, and CY
 Table 4.
 Effect of Naltrexone/Bupropion Coadministration on Systemic Exposure of Other Drugs
 
-| Naltrexone/Bupropion Dosage | Coadministered Drug |  |
-| --- | --- | --- |
 | Name and Dose Regimens | Change in Systemic Exposure |  |
+| --- | --- | --- |
+| Naltrexone/Bupropion Dosage | Coadministered Drug |  |
 | Initiate the following drugs at the lower end of the dose range during concomitant use with CONTRAVE [see Drug Interactions 7]: |  |  |
 | Bupropion 150 mg twice daily for 10 days | Desipramine 50 mg single dose | ↑5-fold AUC, ↑2-fold Cmax |
 | Bupropion 300 mg (as XL) once daily for 14 days | Citalopram 40 mg once daily for 14 days | ↑40% AUC, ↑30% Cmax |
@@ -171,9 +175,9 @@ While not systematically studied, carbamazepine, phenobarbital, or phenytoin may
 Table 5.
 Effect of Coadministered Drugs on Systemic Exposure of Naltrexone/Bupropion
 
-| Name and Dose Regimens | Coadministered Drug |  |
-| --- | --- | --- |
 | CONTRAVE Components | Change in Systemic Exposure |  |
+| --- | --- | --- |
+| Name and Dose Regimens | Coadministered Drug |  |
 | Do not exceed one tablet twice daily dose of CONTRAVE with the following drugs: |  |  |
 | Ticlopidine 250 mg twice daily for 4 days | Bupropion Hydroxybupropion | ↑85% AUC, ↑38% Cmax ↓84% AUC, ↓78% Cmax |
 | Clopidogrel 75 mg once daily for 4 days | Bupropion Hydroxybupropion | ↑60% AUC, ↑40% Cmax ↓52% AUC, ↓50% Cmax |
@@ -188,10 +192,9 @@ Effect of Coadministered Drugs on Systemic Exposure of Naltrexone/Bupropion
 | Nifedipine 90 mg single dose | Naltrexone 6-beta naltrexol Bupropion Hydroxybupropion Threohydrobupropion Erythrohydrobupropion | ↑24% AUC, ↑58% Cmax No Effect No Effect on AUC, ↑22% Cmax No Effect No Effect No Effect |
 | Prasugrel 10 mg once daily for 6 days | Bupropion Hydroxybupropion | ↑18% AUC, ↑14% Cmax ↓24%AUC, ↓32% Cmax |
 | Use CONTRAVE with caution with the following drugs: |  |  |
-| Glyburide 6 mg single dose* | Naltrexone 6-beta naltrexol Bupropion Hydroxybupropion Threohydrobupropion Erythrohydrobupropion | ↑2-fold AUC, ↑2-fold Cmax No Effect ↑36% AUC, ↑18% Cmax ↑22% AUC, ↑21% Cmax No Effect on AUC, ↑15% Cmax No Effect |
+| Glyburide 6 mg single doseResults were confounded by the food-effect due to oral glucose coadministered with the treatment. | Naltrexone 6-beta naltrexol Bupropion Hydroxybupropion Threohydrobupropion Erythrohydrobupropion | ↑2-fold AUC, ↑2-fold Cmax No Effect ↑36% AUC, ↑18% Cmax ↑22% AUC, ↑21% Cmax No Effect on AUC, ↑15% Cmax No Effect |
 | Avoid concomitant use of CONTRAVE with following drugs: |  |  |
 | Ritonavir 100 mg twice daily for 17 days | Bupropion Hydroxybupropion Threohydrobupropion Erythrohydrobupropion | ↓22% AUC, ↓21 % Cmax ↓23% AUC, No Effect on Cmax ↓38% AUC, ↓39 % Cmax ↓48% AUC, ↓28 % Cmax |
 | 600 mg twice daily for 8 days | Bupropion Hydroxybupropion Threohydrobupropion Erythrohydrobupropion | ↓66% AUC, ↓62% Cmax ↓78% AUC, ↓42 % Cmax ↓50% AUC, ↓58% Cmax ↓68% AUC, ↓48 % Cmax |
 | Lopinavir/Ritonavir 400 mg/100 mg twice daily for 14 days | Bupropion Hydroxybupropion | ↓57% AUC, ↓57% Cmax ↓50% AUC, ↓31% Cmax |
 | Efavirenz 600 mg once daily for 2 weeks | Bupropion Hydroxybupropion | ↓55% AUC, ↓34% Cmax No Effect on AUC, ↑50% Cmax |
-| *Results were confounded by the food-effect due to oral glucose coadministered with the treatment. |  |  |
