@@ -11,4 +11,4 @@ C 9H 13N MW 135.21
 
 ADZENYS XR-ODT is an extended-release orally disintegrating tablet containing 50% immediate-release and 50% delayed-release amphetamine for once daily dosing.
 
-ADZENYS XR-ODT also contains the following inactive ingredients: Mannitol, Crospovidone, Microcrystalline Cellulose, Methacrylic Acid, Sodium Polystyrene Sulfonate, Citric Acid, Fructose, Orange Flavor, Colloidal Silicon Dioxide, Triethyl Citrate, Sucralose, Lake Blend Orange, Magnesium Stearate, and Polyethylene Glycol.
+ADZENYS XR-ODT also contains the following inactive ingredients: Mannitol, Crospovidone, Microcrystalline Cellulose, Methacrylic Acid, Sodium Polystyrene Sulfonate, Citric Acid, Fructose, Orange Flavor, Colloidal Silicon Dioxide, Triethyl Citrate, Sucralose, Lake Blend Orange, Magnesium Stearate, and Polyethylene Glycol 3350.
