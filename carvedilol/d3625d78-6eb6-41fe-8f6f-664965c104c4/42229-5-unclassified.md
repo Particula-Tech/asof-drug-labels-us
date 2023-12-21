@@ -1,0 +1,5 @@
+Manufactured for: Waylis Therapeutics LLC Wixom, MI 48393
+
+October 2023
+
+PHARMACIST—DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT

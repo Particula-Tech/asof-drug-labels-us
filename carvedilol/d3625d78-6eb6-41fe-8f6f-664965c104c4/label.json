@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA022012"
+  ],
+  "inn": "carvedilol",
+  "labeler": "Waylis Therapeutics LLC",
+  "package_ndcs": [
+    "80725-383-13",
+    "80725-385-13",
+    "80725-387-13",
+    "80725-388-13"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "carvedilol phosphate",
+      "name": "Coreg CR"
+    }
+  ],
+  "setid": "d3625d78-6eb6-41fe-8f6f-664965c104c4",
+  "source": "dailymed"
+}
