@@ -12,7 +12,7 @@ No evidence of carcinogenicity was noted in a rat 2-year carcinogenicity study t
 Mutagenesis
 
 Tramadol was mutagenic in the presence of metabolic activation in the mouse lymphoma assay.
-Tramadol was not mutagenic in the in vitro bacterial reverse mutation assay using Salmonella and E. coli (Ames), the mouse lymphoma assay in the absence of metabolic activation, the in vitro chromosomal aberration assay, or the in vivo micronucleus assay in bone marrow.
+Tramadol was not mutagenic in the in vitrobacterial reverse mutation assay using Salmonellaand E. coli(Ames), the mouse lymphoma assay in the absence of metabolic activation, the in vitrochromosomal aberration assay, or the in vivomicronucleus assay in bone marrow.
 
 Impairment of Fertility
 

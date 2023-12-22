@@ -3,18 +3,19 @@
 The following serious adverse reactions are described, or described in greater detail, in other sections:
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.2)]
-- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.4)]
-- Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children [see Warnings and Precautions (5.5)]
-- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.6)]
-- Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.8)]
-- Serotonin Syndrome [see Warnings and Precautions (5.9)]
-- Seizures [see Warnings and Precautions (5.10)]
-- Suicide [see Warnings and Precautions (5.11)]
-- Adrenal Insufficiency [see Warnings and Precautions (5.12)]
-- Severe Hypotension [see Warnings and Precautions (5.14)]
-- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.16)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.17)]
-- Withdrawal [see Warnings and Precautions (5.18)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
+- Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.4)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.5)]
+- Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children [see Warnings and Precautions (5.7)]
+- Opioid-Induced Hyperalgesia and Allodynia [see Warnings and Precautions (5.9)]
+- Serotonin Syndrome [see Warnings and Precautions (5.10)]
+- Seizures [see Warnings and Precautions (5.11)]
+- Suicide [see Warnings and Precautions (5.12)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.14)]
+- Severe Hypotension [see Warnings and Precautions (5.15)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.17)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.18)]
+- Withdrawal [see Warnings and Precautions (5.19)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -108,20 +109,23 @@ Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening 
 
 Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
-Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+Androgen deficiency: Cases of androgen deficiency have occurred with use of opioids for an extended period of time.
+[see Clinical Pharmacology (12.2)].
 
-QT prolongation/torsade de pointes: Cases of QT prolongation and/or torsade de pointes have been reported with tramadol use.
+QT prolongation/torsade de pointes: Cases of QT prolongation and/or torsade de pointeshave been reported with tramadol use.
 Many of these cases were reported in patients taking another drug labeled for QT prolongation, in patients with a risk factor for QT prolongation (e.g., hypokalemia), or in the overdose setting.
 
-Eye disorders – mydriasis
+Eye disorders– mydriasis
 
 Metabolism and nutrition disorders
 
-Hyponatremia: Cases of severe hyponatremia and/or SIADH have been reported in patients taking tramadol, most often in females over the age of 65, and within the first week of therapy [see Warnings and Precautions (5.20)].
+Hyponatremia: Cases of severe hyponatremia and/or SIADH have been reported in patients taking tramadol, most often in females over the age of 65, and within the first week of therapy [see Warnings and Precautions (5.21)].
 
 Hypoglycemia: Cases of hypoglycemia have been reported in patients taking tramadol.
-Most reports were in patients with predisposing risk factors, including diabetes or renal insufficiency, or in elderly patients [see Warnings and Precautions (5.21)].
+Most reports were in patients with predisposing risk factors, including diabetes or renal insufficiency, or in elderly patients [see Warnings and Precautions (5.22)].
 
-Nervous system disorders – movement disorder, speech disorder
+Nervous system disorders– movement disorder, speech disorder
 
-Psychiatric disorders – delirium
+Psychiatric disorders– delirium
+
+Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see Warnings and Precautions (5.9)].

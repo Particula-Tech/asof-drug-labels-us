@@ -43,26 +43,26 @@ At a 600 mg/day dose (1.5-fold the maximum immediate-release daily dose), the st
 Effects on the Endocrine System
 
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans.
-They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon [see Warnings and Precautions (5.12); Adverse Reactions (6)].
+They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon [see Warnings and Precautions (5.14); Adverse Reactions (6)].
 
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6)].
 
 Effects on the Immune System
 
-Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.
+Opioids have been shown to have a variety of effects on components of the immune system in in vitroand animal models.
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration–Efficacy Relationships
 
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent opioid agonists.
-The minimum effective analgesic concentration of tramadol for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome and/or the development of analgesic tolerance [see Dosage and Administration (2)].
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
+The minimum effective analgesic concentration of tramadol for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.4)].
 
 Concentration–Adverse Reaction Relationships
 
 There is a relationship between increasing tramadol plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -72,7 +72,7 @@ Linear pharmacokinetics have been observed following multiple doses of 50 and 10
 
 Absorption
 
-Table 3 shows the mean plasma concentrations of tramadol and M1 pharmacokinetic parameters following a single-dose administration of 50 mg QDOLO and 50 mg immediate-release tramadol tablet under fasted conditions in healthy adult subjects.
+Table 3shows the mean plasma concentrations of tramadol and M1 pharmacokinetic parameters following a single-dose administration of 50 mg QDOLO and 50 mg immediate-release tramadol tablet under fasted conditions in healthy adult subjects.
 
 Table 3: Summary of Tramadol and M1 Pharmacokinetic Parameters Following Single Dose Administration Under Fasted Condition in Healthy Adult Subjects
 
@@ -80,24 +80,24 @@ Table 3: Summary of Tramadol and M1 Pharmacokinetic Parameters Following Single 
 | --- | --- | --- | --- | --- |
 | Tramadol |  | M1 |  |  |
 | Mean ± SD | Mean ± SD | Mean ± SD | Mean ± SD |  |
-| T maxmedian (min – max) (hr) | 1.5 (0.50 2.50) | 1.5 (0.75 3.0) | 2.0 (0.50 5.00) | 2.25 (1.25 10.00) |
-| C max (ng/mL) | 180.20 ± 33.81 | 173.51 ± 29.59 | 47.77 ± 19.06 | 46.14 ± 18.28 |
-| AUC 0-t (hr*ng/mL) | 1623.93 ± 502.43 | 1681.64 ± 578.06 | 624.12 ± 205.58 | 624.10 ± 199.82 |
-| AUC 0-inf (hr*ng/mL) | 1658.31 ± 525.97 | 1721.47 ± 624.72 | 638.95 ± 207.13 | 639.26 ± 198.04 |
-| t 1/2 (hr) | 7.65 ± 1.63 | 7.61 ± 1.82 | 7.94 ± 1.65 | 8.06 ± 2.11 |
+| T maxmedian (min – max)(hr) | 1.5 (0.50 2.50) | 1.5 (0.75 3.0) | 2.0 (0.50 5.00) | 2.25 (1.25 10.00) |
+| C max(ng/mL) | 180.20 ± 33.81 | 173.51 ± 29.59 | 47.77 ± 19.06 | 46.14 ± 18.28 |
+| AUC 0-t(hr*ng/mL) | 1623.93 ± 502.43 | 1681.64 ± 578.06 | 624.12 ± 205.58 | 624.10 ± 199.82 |
+| AUC 0-inf(hr*ng/mL) | 1658.31 ± 525.97 | 1721.47 ± 624.72 | 638.95 ± 207.13 | 639.26 ± 198.04 |
+| t 1/2(hr) | 7.65 ± 1.63 | 7.61 ± 1.82 | 7.94 ± 1.65 | 8.06 ± 2.11 |
 
 The mean absolute bioavailability of a 100 mg oral dose is approximately 75%.
 The mean peak plasma concentration of racemic tramadol and M1 occurs at two and three hours, respectively, after administration in healthy adults.
 In general, both enantiomers of tramadol and M1 follow a parallel time course in the body following single and multiple doses although small differences (~ 10%) exist in the absolute amount of each enantiomer present.
 
 Steady-state plasma concentrations of both tramadol and M1 are achieved within two days with four-times-per-day dosing.
-There is no evidence of self-induction (see Figure 1 and Table 4 below).
+There is no evidence of self-induction (see Figure 1and Table 4below).
 
 Figure 1: Mean Tramadol and M1 Plasma Concentration Profiles after a Single 100 mg Oral Dose and after Twenty-Nine 100 mg Oral Doses of Tramadol HCl given four times per day.
 
 Table 4: Mean (%CV) Pharmacokinetic Parameters for Racemic Tramadol and M1 Metabolite
 
-| Population/Dosage Regimen SD = Single dose, MD = Multiple dose, p.o.= Oral administration, i.v.= Intravenous administration, q.i.d. = Four times daily | Parent Drug/ Metabolite | Peak Conc.(ng/mL) | Time to Peak (hrs) | Clearance/F b F represents the oral bioavailability of tramadol (mL/min/Kg) | t 1/2 (hrs) |
+| Population/Dosage Regimen SD = Single dose, MD = Multiple dose, p.o.= Oral administration, i.v.= Intravenous administration, q.i.d. = Four times daily | Parent Drug/ Metabolite | Peak Conc.(ng/mL) | Time to Peak (hrs) | Clearance/F b F represents the oral bioavailability of tramadol(mL/min/Kg) | t 1/2(hrs) |
 | --- | --- | --- | --- | --- | --- |
 | Healthy Adults, 100 mg qid, MD p.o. | Tramadol M1 | 592 (30) 110 (29) | 2.3 (61) 2.4 (46) | 5.90 (25) Not applicable | 6.7 (15) 7.0 (14) |
 | Healthy Adults, 100 mg SD p.o. | Tramadol M1 | 308 (25) 55.0 (36) | 1.6 (63) 3.0 (51) | 8.50 (31) | 5.6 (20) 6.7 (16) |
@@ -130,15 +130,15 @@ Approximately 30% of the dose is excreted in the urine as unchanged drug, wherea
 The remainder is excreted either as unidentified or as unextractable metabolites.
 The major metabolic pathways appear to be N- and O-demethylation and glucuronidation or sulfation in the liver.
 One metabolite (O-desmethyltramadol, denoted M1) is pharmacologically active in animal models.
-Formation of M1 is dependent on CYP2D6 and as such is subject to inhibition, which may affect the therapeutic response [Warnings and Precautions (5.5); Drug Interactions (7)].
+Formation of M1 is dependent on CYP2D6 and as such is subject to inhibition, which may affect the therapeutic response [Warnings and Precautions (5.7); Drug Interactions (7)].
 
 Approximately 7% of the population has reduced activity of the CYP2D6 isoenzyme of cytochrome P-450.
 These individuals are "poor metabolizers" of debrisoquine, dextromethorphan, tricyclic antidepressants, among other drugs.
 Based on a population PK analysis of Phase I studies in healthy subjects, concentrations of tramadol were approximately 20% higher in "poor metabolizers" versus "extensive metabolizers", while M1 concentrations were 40% lower.
 Concomitant therapy with inhibitors of CYP2D6 such as fluoxetine, paroxetine and quinidine could result in significant drug interactions.
-In vitro drug interaction studies in human liver microsomes indicate that inhibitors of CYP2D6 such as fluoxetine and its metabolite norfluoxetine, amitriptyline and quinidine inhibit the metabolism of tramadol to various degrees, suggesting that concomitant administration of these compounds could result in increases in tramadol concentrations and decreased concentrations of M1.
+In vitrodrug interaction studies in human liver microsomes indicate that inhibitors of CYP2D6 such as fluoxetine and its metabolite norfluoxetine, amitriptyline and quinidine inhibit the metabolism of tramadol to various degrees, suggesting that concomitant administration of these compounds could result in increases in tramadol concentrations and decreased concentrations of M1.
 The full pharmacological impact of these alterations in terms of either efficacy or safety is unknown.
-Concomitant use of serotonin re-uptake inhibitors and MAO inhibitors may enhance the risk of adverse events, including seizure and serotonin syndrome [see Warnings and Precautions (5.9), Drug Interactions (7)].
+Concomitant use of serotonin re-uptake inhibitors and MAO inhibitors may enhance the risk of adverse events, including seizure and serotonin syndrome [see Warnings and Precautions (5.10), Drug Interactions (7)].
 
 Excretion
 

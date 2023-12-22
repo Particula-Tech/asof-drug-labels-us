@@ -2,7 +2,7 @@
 
 Clinical Presentation
 
-Acute overdosage with QDOLO can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, QT prolongation, hypotension, partial or complete airway obstruction, atypical snoring, seizures, and death.
+Acute overdosage with tramadol can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, QT prolongation, hypotension, partial or complete airway obstruction, atypical snoring, seizures, and death.
 Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations.
 
 Deaths due to overdose have been reported with abuse and misuse of tramadol [see Warnings and Precautions (5.2), Drug Abuse and Dependence (9.2)].

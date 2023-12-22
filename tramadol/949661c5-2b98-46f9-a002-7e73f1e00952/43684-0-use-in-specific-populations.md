@@ -4,8 +4,8 @@
 
 Risk Summary
 
-Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome.
-Available data with tramadol hydrochloride in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage or adverse maternal outcomes.
+Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.5)].
+Available data with QDOLO in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage or adverse maternal outcomes.
 There are adverse outcomes reported with fetal exposure to opioid analgesics (see Clinical Considerations).
 
 In animal reproduction studies, tramadol administration during organogenesis decreased fetal weights and reduced ossification in mice, rats, and rabbits at 1.4, 0.6, and 3.6 times the maximum recommended human daily dosage (MRHD).
@@ -13,19 +13,19 @@ In a pre- and post-natal development study, tramadol decreased pup body weight a
 In a published study, tramadol caused structural abnormalities in the brains of fetuses when administered to female Sprague Dawley rats from Gestation Days 10-21 at a dose comparable to the MRHD [see Data].
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
 Fetal/Neonatal Adverse Reactions
 
-Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in respiratory depression and physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Use of opioid analgesics for an extended period of time during pregnancy for medical or nonmedical purposes can result in respiratory depression and physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
 Neonatal opioid withdrawal syndrome can present as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
-Observe newborns for symptoms and signs of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.6)].
+Observe newborns for symptoms and signs of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.5)].
 
 Neonatal seizures, neonatal withdrawal syndrome, fetal death and still birth have been reported during postmarketing.
 
@@ -48,7 +48,7 @@ Data
 Animal Data
 
 Tramadol has been shown to be embryotoxic and fetotoxic in mice, (120 mg/kg), rats (25 mg/kg) and rabbits (75 mg/kg) at maternally toxic dosages, but did not cause malformations at these dose levels.
-These doses on a mg/m 2 basis are 1.4, 0.6, and 3.6 times the maximum recommended human daily dosage (MRHD) for mouse, rat and rabbit, respectively.
+These doses on a mg/m 2basis are 1.4, 0.6, and 3.6 times the maximum recommended human daily dosage (MRHD) for mouse, rat and rabbit, respectively.
 
 No drug-related malformations were observed in progeny of mice (up to 140 mg/kg), rats (up to 80 mg/kg) or rabbits (up to 300 mg/kg) treated with tramadol by various routes.
 Embryo and fetal toxicity consisted primarily of decreased fetal weights, decreased skeletal ossification and increased supernumerary ribs at maternally toxic dose levels.
@@ -71,7 +71,7 @@ The M1 metabolite is more potent than tramadol in mu opioid receptor binding [se
 Published studies have reported tramadol and M1 in colostrum with administration of tramadol to nursing mothers in the early post-partum period.
 Women who are ultra-rapid metabolizers of tramadol may have higher than expected serum levels of M1, potentially leading to higher levels of M1 in breast milk that can be dangerous in their breastfed infants.
 In women with normal tramadol metabolism, the amount of tramadol secreted into human milk is low and dose-dependent.
-Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with QDOLO [see Warnings and Precautions (5.5, 5.6)].
+Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with QDOLO [see Warnings and Precautions (5.3, 5.5)].
 
 Clinical Considerations
 
@@ -86,7 +86,7 @@ Following a single IV 100 mg dose of tramadol, the cumulative excretion in breas
 
 Infertility
 
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2)].
 
 Published studies in adult male rodents report that tramadol, at clinically relevant doses, can produce adverse effects on male reproductive hormones and tissues [See Nonclinical Toxicology (13.1)].
@@ -95,16 +95,15 @@ Published studies in adult male rodents report that tramadol, at clinically rele
 
 The safety and effectiveness of tramadol in pediatric patients have not been established.
 
-Life-threatening respiratory depression and death have occurred in children who received tramadol [see Warnings and Precautions (5.5)].
+Life-threatening respiratory depression and death have occurred in children who received tramadol [see Warnings and Precautions (5.3)].
 In some of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and one of the children had evidence of being an ultra-rapid metabolizer of tramadol (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6).
 Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of tramadol.
 Because of the risk of life-threatening respiratory depression and death:
 
 - QDOLO is contraindicated for all children younger than 12 years of age [see Contraindications (4)].
 - QDOLO is contraindicated for postoperative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
-
-Avoid the use of QDOLO in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
-Risk factors include conditions associated with hypoventilation such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
+- Avoid the use of QDOLO in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
+  Risk factors include conditions associated with hypoventilation such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
 
 ## 8.5 Geriatric Use
 
@@ -115,11 +114,11 @@ In studies including geriatric patients, treatment-limiting adverse events were 
 Specifically, 30% of those over 75 years of age had gastrointestinal treatment-limiting adverse events compared to 17% of those under 65 years of age.
 Constipation resulted in discontinuation of treatment in 10% of those over 75.
 
-Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of QDOLO slowly in geriatric patients starting at the low end of the dosing range and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.13)].
+Respiratory depression is the chief risk for elderly patients treated with opioids and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
+Titrate the dosage of QDOLO slowly in geriatric patients starting at the low end of the dosing range and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.13)].
 
 Tramadol is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
 
 ## 8.6 Renal and Hepatic Impairment
 
