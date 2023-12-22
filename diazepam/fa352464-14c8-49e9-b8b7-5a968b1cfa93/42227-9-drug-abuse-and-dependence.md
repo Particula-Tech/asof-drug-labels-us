@@ -43,7 +43,7 @@ Protracted withdrawal syndrome associated with benzodiazepines is characterized 
 Protracted withdrawal symptoms may last weeks to more than 12 months.
 As a result, there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for which the benzodiazepine was being used.
 
-### Tolerance
+#### Tolerance
 
 Tolerance to Diazepam injection may develop after use more frequently than recommended.
 Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).

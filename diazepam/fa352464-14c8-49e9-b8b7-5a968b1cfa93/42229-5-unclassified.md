@@ -2,8 +2,8 @@ Rx Only
 
 Office of the Surgeon General U.S. Army Medical Research and Development Command (MCMR-RCQ-HR) Fort Detrick Frederick, Maryland 21702-5012
 
-Manufactured by: Meridian Medical Technologies®, LLC St. Louis, MO 63146
+Manufactured by: Meridian Medical Technologies, LLC
 
-Revision: 7/2022
+Revision: 1/2023
 
-0002202
+0001966

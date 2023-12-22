@@ -14,7 +14,7 @@ Advise both patients and caregivers about the risks of respiratory depression an
 ## Abuse, Misuse, and Addiction
 
 The use of benzodiazepines, including Diazepam injection, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
-Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death (see DRUG ABUSE AND DEPENDENCE: Abuse).
+Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, that is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death (see DRUG ABUSE AND DEPENDENCE: Abuse).
 
 Before prescribing Diazepam injection and throughout treatment, assess each patient's risk for abuse, misuse, and addiction.
 Use of Diazepam injection, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of Diazepam injection along with monitoring for signs and symptoms of abuse, misuse, and addiction.
@@ -52,15 +52,10 @@ As is true of most CNS-acting drugs, patients receiving diazepam should be cauti
 
 Tonic status epilepticus has been precipitated in patients treated with I.V. diazepam for petit mal status or petit mal variant status.
 
-## Usage in Pregnancy
+## Neonatal Sedation and Withdrawal Syndrome
 
-An increased risk of congenital malformations associated with the use of minor tranquilizers (diazepam, meprobamate and chlordiazepoxide) during the first trimester of pregnancy has been suggested in several studies.
-Because use of these drugs is rarely a matter of urgency, their use during this period should almost always be avoided.
-The possibility that a woman of childbearing potential may be pregnant at the time of institution of therapy should be considered.
-Patients should be advised that if they become pregnant during therapy or intend to become pregnant they should communicate with their physicians about the desirability of discontinuing the drug.
-
-In humans, measurable amounts of diazepam were found in maternal and cord blood, indicating placental transfer of the drug.
-Until additional information is available, diazepam injection is not recommended for obstetrical use.
+Use of Diazepam injection late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (see PRECAUTIONS: Pregnancy).
+Monitor neonates exposed to Diazepam injection during pregnancy or labor for signs of sedation and monitor neonates exposed to Diazepam injection during pregnancy for signs of withdrawal; manage these neonates accordingly.
 
 ## Pediatric Use
 
@@ -81,7 +76,7 @@ Limit dosage and duration of concomitant use of benzodiazepines and opioids, and
 
 ### Concomitant Use with Other Psychotropic Agents or Anticonvulsant Drugs
 
-If diazepam is to be combined with other psychotropic agents or anticonvulsant drugs, careful consideration should be given to the pharmacology of the agents to be employed - particularly with known compounds which may potentiate the action of diazepam, such as phenothiazines, narcotics, barbiturates, MAO inhibitors and other antidepressants.
+If diazepam is to be combined with other psychotropic agents or anticonvulsant drugs, careful consideration should be given to the pharmacology of the agents to be employed particularly with known compounds which may potentiate the action of diazepam, such as phenothiazines, narcotics, barbiturates, MAO inhibitors and other antidepressants.
 In highly anxious patients with evidence of accompanying depression, particularly those who may have suicidal tendencies, protective measures may be necessary.
 The usual precautions in treating patients with impaired hepatic function should be observed.
 Metabolites of diazepam are excreted by the kidney; to avoid their excess accumulation, caution should be exercised in the administration to patients with compromised kidney function.
@@ -90,6 +85,64 @@ Metabolites of diazepam are excreted by the kidney; to avoid their excess accumu
 
 The clearance of diazepam and certain other benzodiazepines can be delayed in association with Tagamet (cimetidine) administration.
 The clinical significance of this is unclear.
+
+## Pregnancy
+
+### Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to AEDs, such as Diazepam injection, during pregnancy.
+Healthcare providers are encouraged to recommend that pregnant women taking Diazepam injection enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling 1-888- 233- 2334 or online at http://www.aedpregnancyregistry.org/.
+
+### Risk Summary
+
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome, and Clinical Considerations).
+Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Human Data).
+
+In animal studies, administration of diazepam during the organogenesis period of pregnancy resulted in increased incidences of fetal malformations at doses greater than those used clinically.
+Data for diazepam and other benzodiazepines suggest the possibility of increased neuronal cell death and long-term effects on neurobehavioral and immunological function based on findings in animals following prenatal or early postnatal exposure at clinically relevant doses (see Animal Data).
+
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+### Clinical Considerations
+
+#### Fetal/Neonatal Adverse Reactions
+
+Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia, and sedation in neonates.
+Monitor neonates exposed to Diazepam injection during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
+Monitor neonates exposed to Diazepam injection during pregnancy for signs of withdrawal.
+Manage these neonates accordingly (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome).
+
+### Data
+
+#### Human Data
+
+Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects.
+
+Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted.
+In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings.
+
+#### Animal Data
+
+Diazepam has been shown to produce increased incidences of fetal malformations in mice and hamsters when given orally at single doses of 100 mg/kg or greater (approximately 8 times the maximum recommended human dose [1 mg/kg/day] or greater on a mg/m2 basis).
+Cleft palate and exencephaly are the most common and consistently reported malformations produced in these species by administration of high, maternally-toxic doses of diazepam during organogenesis.
+
+In published animal studies, administration of benzodiazepines or other drugs that enhance GABAergic neurotransmission to neonatal rats has been reported to result in widespread apoptotic neurodegeneration in the developing brain at plasma concentration relevant for seizure control in humans.
+The window of vulnerability to these changes in rats (postnatal days 0-14) includes a period of brain development that takes place during the third trimester of pregnancy in humans.
+
+## Nursing Mothers
+
+### Risk Summary
+
+Diazepam is present in breastmilk.
+There are reports of sedation, poor feeding and poor weight gain in infants exposed to benzodiazepines through breast milk.
+There are no data on the effects of diazepam on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Diazepam injection and any potential adverse effects on the breastfed infant from Diazepam injection or from the underlying maternal condition.
+
+### Clinical Considerations
+
+Infants exposed to Diazepam injection through breast milk should be monitored for sedation, poor feeding and poor weight gain.
 
 ## Administration Considerations
 
@@ -101,10 +154,6 @@ The cumulative maximum dose of diazepam should not exceed 30 mg; the interval be
 Diazepam is not recommended for maintenance, and once seizures are brought under control, consideration should be given to the administration of agents useful in longer term control of seizures.
 
 Since an increase in cough reflex and laryngospasm may occur with peroral endoscopic procedures, the use of a topical anesthetic agent and the availability of necessary countermeasures are recommended.
-
-### Use During Pregnancy
-
-Until additional information is available, injectable diazepam is not recommended for obstetrical use.
 
 ### Hypotension and Muscular Weakness
 

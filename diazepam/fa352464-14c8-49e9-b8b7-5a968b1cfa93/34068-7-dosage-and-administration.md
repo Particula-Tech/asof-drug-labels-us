@@ -69,20 +69,4 @@ Usual Adult Dosage: 10 mg, I.M.
 ### General
 
 Once the acute symptomatology has been properly controlled with diazepam injection, the patient may be placed on oral therapy with diazepam if further treatment is required.
-
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever the solution and container permit.
-
-### Management of Overdosage
-
-Manifestations of diazepam overdosage include somnolence, confusion, coma and diminished reflexes.
-Respiration, pulse and blood pressure should be monitored as in all cases of drug overdosage, although, in general, these effects have been minimal.
-General supportive measures should be employed, along with intravenous fluids, and an adequate airway maintained.
-Hypotension may be combated by the use of norepinephrine or metaraminol.
-Dialysis is of limited value.
-
-Flumazenil, a specific benzodiazepine receptor antagonist, is indicated for the complete or partial reversal of the sedative effects of benzodiazapine and may be used in situations when an overdose with a benzodiazepine is known or suspected.
-Prior to the administration of flumazenil, necessary measures should be instituted to secure airways, ventilation, and intravenous access.
-Flumazenil is intended as an adjunct to, not as a substitute for, proper management of benzodiazepine overdose.
-Patients treated with flumazenil should be monitored for resedation, respiratory depression, and other residual benzodiazepine effects for an appropriate period after treatment.
-The prescriber should be aware of a risk of seizure in association with flumazenil treatment, particularly in long term benzodiazepine users and in cyclic antidepressant overdosage.
-The complete flumazenil package insert including CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS should be consulted prior to use.
