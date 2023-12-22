@@ -37,7 +37,7 @@ Effects on the Endocrine System
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
 
 Effects on the Immune System
@@ -48,8 +48,8 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration—Efficacy Relationships
 
-The minimum effective analgesic concentration will vary widely among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of hydrocodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome and/or potential development of analgesic tolerance [see Dosage and Administration (2.1, 2.4)].
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
+The minimum effective analgesic concentration of hydrocodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.4)].
 
 Concentration—Adverse Experience Relationships
 
@@ -118,7 +118,7 @@ Drug Interaction Studies
 Interactions with Alcohol
 
 The rate of absorption of hydrocodone bitartrate extended-release capsules 50 mg was affected by co-administration with 40% alcohol in the fasted state, as exhibited by an increase in peak hydrocodone concentrations (on average 2.4-fold increase with maximum increase of 3.9-fold in one subject) and a decrease in the time to peak concentrations.
-The extent of absorption was increased on average 1.2-fold with maximum increase of 1.7-fold in one subject with 40% alcohol [see Warnings and Precautions (5.6)].
+The extent of absorption was increased on average 1.2-fold with maximum increase of 1.7-fold in one subject with 40% alcohol [see Warnings and Precautions (5.3)].
 
 Cytochrome P450 Enzymes
 
@@ -128,4 +128,4 @@ N-demethylation of hydrocodone to form norhydrocodone is attributed to CYP3A4 an
 CYP3A4 Inhibitors and Inducers
 
 An increase in CYP3A4 activity by initiation of CYP3A4 inhibiting drugs or discontinuation of CYP3A4 inducing drugs could alter the metabolic profile of hydrocodone causing a slowing of hydrocodone clearance, and lead to elevated hydrocodone concentrations and effects, which could be more pronounced with concomitant use of cytochrome P450 CYP3A4 inhibitors.
-Initiation of a CYP3A4 inducing drug can lower hydrocodone plasma levels and may induce an opioid-withdrawal syndrome [see Warnings and Precautions (5.5) and Drug Interactions (7)].
+Initiation of a CYP3A4 inducing drug can lower hydrocodone plasma levels and may induce an opioid-withdrawal syndrome [see Warnings and Precautions (5.6) and Drug Interactions (7)].

@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
+Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
 There are no studies of hydrocodone bitartrate extended-release capsules use in pregnant women.
 Rats administered oral hydrocodone during gestation and lactation showed increases in stillborn pups and decreases in pup survival at doses equivalent to the human dose of 100 mg/day.
 Reduced nursing behavior and decreased body weights were observed at 2 times the human dose.
@@ -21,10 +21,10 @@ Clinical Considerations
 
 Fetal/neonatal adverse reactions
 
-Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the newborn and neonatal opioid withdrawal syndrome shortly after birth.
+Use of opioid analgesics for an extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 Observe newborns for symptoms of neonatal opioid withdrawal syndrome, such as poor feeding, diarrhea, irritability, tremor, rigidity, and seizures, and manage accordingly [see Warnings and Precautions (5.4)].
 
-#### Labor or Delivery
+Labor or Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
 An opioid antagonist such as naloxone must be available for reversal of opioid induced respiratory depression in the neonate.
@@ -67,7 +67,7 @@ Withdrawal symptoms can occur in breastfed infants when maternal administration 
 
 Infertility
 
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible.
 
 In rat fertility studies, no effects on male fertility were observed with hydrocodone at doses equivalent to 10 times the human dose of 100 mg/day, however, decreases in the weight of male reproductive organs were observed in all treated groups at doses equivalent to 2.4 times the human dose of 100 mg/day and above.
@@ -86,19 +86,19 @@ Elderly patients (aged 65 years or older) may have increased sensitivity to hydr
 In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of the concomitant disease or other drug therapy.
 
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of hydrocodone bitartrate extended-release capsules slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.7)].
+Titrate the dosage of hydrocodone bitartrate extended-release capsules slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.8)].
 
-Hydrocodone is known to be substantially secreted by the kidney and the risk adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Hydrocodone is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
 
 ## 8.6 Hepatic Impairment
 
 No adjustment in starting dose with hydrocodone bitartrate extended-release capsules is required in patients with mild or moderate hepatic impairment.
 Patients with severe hepatic impairment may have higher plasma concentrations than those with normal hepatic function [see Clinical Pharmacology (12.3)].
 Therefore, a dosage reduction is recommended for patients with severe hepatic impairment [see Dosage and Administration (2.5)].
-Monitor patients with severe hepatic impairment closely for respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
+Regularly evaluate patients with severe hepatic impairment for respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
 Patients with renal impairment have higher plasma concentrations than those with normal function.
-Use a low initial dose of hydrocodone bitartrate extended-release capsules in patients with renal impairment and monitor closely for respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
+Use a low initial dose of hydrocodone bitartrate extended-release capsules in patients with renal impairment and regularly evaluate for respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
