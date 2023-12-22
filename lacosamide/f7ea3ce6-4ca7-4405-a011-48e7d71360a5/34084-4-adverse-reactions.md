@@ -96,36 +96,15 @@ Other Adverse Reactions
 The following is a list of adverse reactions reported by patients treated with lacosamide in all clinical trials in adult patients, including controlled trials and long-term open-label extension trials.
 Adverse reactions addressed in other tables or sections are not listed here.
 
-Blood and lymphatic system disorders: neutropenia, anemia
-
-Cardiac disorders: palpitations
-
-Ear and labyrinth disorders: tinnitus
-
-Gastrointestinal disorders: constipation, dyspepsia, dry mouth, oral hypoaesthesia
-
-General disorders and administration site conditions: irritability, pyrexia, feeling drunk
-
-Injury, poisoning, and procedural complications: fall
-
-Musculoskeletal and connective tissue disorders: muscle spasms
-
-Nervous system disorders: paresthesia, cognitive disorder, hypoaesthesia, dysarthria, disturbance in attention, cerebellar syndrome
-
-Psychiatric disorders: confusional state, mood altered, depressed mood
+Blood and lymphatic system disorders: neutropenia, anemia Cardiac disorders: palpitations Ear and labyrinth disorders: tinnitus Gastrointestinal disorders: constipation, dyspepsia, dry mouth, oral hypoaesthesia General disorders and administration site conditions: irritability, pyrexia, feeling drunk Injury, poisoning, and procedural complications: fall Musculoskeletal and connective tissue disorders: muscle spasms Nervous system disorders: paresthesia, cognitive disorder, hypoaesthesia, dysarthria, disturbance in attention, cerebellar syndrome Psychiatric disorders: confusional state, mood altered, depressed mood
 
 Additional pediatric use information is approved for UCB, Inc.'s VIMPAT ® (lacosamide) tablets.
-However, due to UCB, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+However, due to UCB, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of lacosamide.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and lymphatic system disorders: Agranulocytosis
-
-Psychiatric disorders: Aggression, agitation, hallucination, insomnia, psychotic disorder
-
-Skin and subcutaneous tissue disorders: Angioedema, rash, urticaria, Stevens-Johnson syndrome, toxic epidermal necrolysis.
-
+Blood and lymphatic system disorders: Agranulocytosis Psychiatric disorders: Aggression, agitation, hallucination, insomnia, psychotic disorder Skin and subcutaneous tissue disorders: Angioedema, rash, urticaria, Stevens-Johnson syndrome, toxic epidermal necrolysis.
 Neurologic disorders: Dyskinesia, new or worsening seizures

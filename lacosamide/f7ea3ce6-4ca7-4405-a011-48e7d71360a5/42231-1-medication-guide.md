@@ -1,6 +1,4 @@
-# MEDICATION GUIDE
-
-Lacosamide (la-KOE-sa-mide) film coated tablet, for oral use, CV
+# MEDICATION GUIDE Lacosamide (la-KOE-sa-mide) film coated tablet, for oral use, CV
 
 Dispense with Medication Guide available at: www.bpirx.com/products/patientinformation
 
@@ -17,27 +15,28 @@ Stopping seizure medicine suddenly in a patient who has epilepsy can cause seizu
 
 Lacosamide tablets can cause serious side effects, including:
 
-- 1.Like other antiepileptic drugs, lacosamide tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-  Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+1. 1.Like other antiepileptic drugs, lacosamide tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+   Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
 |  | thoughts about suicide or dyingattempt to commit suicidenew or worse depressionnew or worse anxietyfeeling agitated or restlesspanic attacks | trouble sleeping (insomnia)new or worse irritabilityacting aggressive, being angry, or violentacting on dangerous impulsesan extreme increase in activity and talking (mania)other unusual changes in behavior or mood |
 | --- | --- | --- |
-|  | How can I watch for early symptoms of suicidal thoughts and actions? Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.Keep all follow-up visits with your healthcare provider as scheduled.Call your healthcare provider between visits as needed, especially if you are worried about symptoms.Suicidal thoughts or actions can be caused by things other than medicines. If you have suicidal thoughts or actions, your healthcare provider may check for other causes. |  |
+|  | How can I watch for early symptoms of suicidal thoughts and actions? |  |
+|  | Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.Keep all follow-up visits with your healthcare provider as scheduled.Call your healthcare provider between visits as needed, especially if you are worried about symptoms.Suicidal thoughts or actions can be caused by things other than medicines. If you have suicidal thoughts or actions, your healthcare provider may check for other causes. |  |
 
-- 2.Lacosamide tablets may cause you to feel dizzy, have double vision, feel sleepy, or have problems with coordination and walking.
-  Do not drive, operate heavy machinery, or do other dangerous activities until you know how lacosamide tablets affect you.
-- 3.Lacosamide tablets may cause you to have an irregular heartbeat or may cause you to faint.
-  In rare cases, cardiac arrest has been reported.
-  Call your healthcare provider right away if you:
+1. 2.Lacosamide tablets may cause you to feel dizzy, have double vision, feel sleepy, or have problems with coordination and walking.
+   Do not drive, operate heavy machinery, or do other dangerous activities until you know how lacosamide tablets affect you.
+2. 3.Lacosamide tablets may cause you to have an irregular heartbeat or may cause you to faint.
+   In rare cases, cardiac arrest has been reported.
+   Call your healthcare provider right away if you:
 
 |  | have a fast, slow, or pounding heartbeat or feel your heart skip a beathave shortness of breathhave chest pain | feel lightheadedfainted or if you feel like you are going to faint |
 | --- | --- | --- |
 |  | If you have fainted or feel like you are going to faint you should lay down with your legs raised. |  |
 
-- 4.Lacosamide tablets are a federally controlled substance (CV) because it can be abused or lead to drug dependence.
-  Keep your lacosamide tablets in a safe place, to protect them from theft.
-  Never give your lacosamide tablets to anyone else, because it may harm them.
-  Selling or giving away this medicine is against the law.
+1. 4.Lacosamide tablets are a federally controlled substance (CV) because it can be abused or lead to drug dependence.
+   Keep your lacosamide tablets in a safe place, to protect them from theft.
+   Never give your lacosamide tablets to anyone else, because it may harm them.
+   Selling or giving away this medicine is against the law.
 
 What are lacosamide tablets?
 
@@ -100,7 +99,10 @@ What are the possible side effects of lacosamide tablets?
 Lacosamide tablets may cause other serious side effects including:
 
 - A serious allergic reaction that may affect your skin or other parts of your body such as your liver or blood cells.
-  Call your healthcare provider right away if you have: a skin rash, hivesfever or swollen glands that do not go awayshortness of breathtiredness (fatigue) swelling of the legsyellowing of the skin or whites of the eyesdark urine
+  Call your healthcare provider right away if you have:
+
+|  | a skin rash, hivesfever or swollen glands that do not go awayshortness of breathtiredness (fatigue) | swelling of the legsyellowing of the skin or whites of the eyesdark urine |
+| --- | --- | --- |
 
 The most common side effects of lacosamide tablets include:
 
@@ -144,7 +146,7 @@ Tablet inactive ingredients: colloidal silicon dioxide, crospovidone, hydroxypro
 - 200 mg tablets: FD&C Blue #2 / indigo carmine aluminum lake
 
 Additional pediatric use information is approved for UCB, Inc.'s VIMPAT ® (lacosamide) tablets.
-However, due to UCB, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+However, due to UCB, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
 
 Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA
 
@@ -154,4 +156,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Trademarks are the property of their respective owners.
 
-Revised: 5/2023
+Revised: 11/2023

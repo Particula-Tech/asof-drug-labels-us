@@ -35,3 +35,5 @@ This registry is collecting information about the safety of AEDs during pregnanc
 Lactation
 
 Advise breastfeeding women using lacosamide to monitor infants for excess sleepiness and to seek medical care if they notice this sign [see Use in Specific Populations (8.2)].
+
+Dispense with Medication Guide available at: www.bpirx.com/products/patientinformation

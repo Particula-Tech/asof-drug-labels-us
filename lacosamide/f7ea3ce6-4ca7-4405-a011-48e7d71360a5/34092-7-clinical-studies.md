@@ -47,7 +47,4 @@ A positive value on the Y-axis indicates an improvement from baseline (i.e., a d
 Thus, in a display of this type, a curve for an effective treatment is shifted to the left of the curve for placebo.
 The proportion of patients achieving any particular level of reduction in seizure frequency was consistently higher for the lacosamide groups, compared to the placebo group.
 For example, 40% of patients randomized to lacosamide (400 mg/day) experienced a 50% or greater reduction in seizure frequency, compared to 23% of patients randomized to placebo.
-Patients with an increase in seizure frequency >100% are represented on the Y- axis as equal to or greater than -100%.
-
-Additional pediatric use information is approved for UCB, Inc.'s VIMPAT ® (lacosamide) tablets.
-However, due to UCB, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Patients with an increase in seizure frequency >100% are represented on the Y-axis as equal to or greater than -100%.

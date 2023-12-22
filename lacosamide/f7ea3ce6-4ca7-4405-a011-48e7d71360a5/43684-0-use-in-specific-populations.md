@@ -9,7 +9,7 @@ Encourage women who are taking lacosamide during pregnancy to enroll in the Nort
 
 Risk Summary
 
-Available data from the North American Antiepileptic Drug (NAAED) pregnancy registry, a prospective cohort study, case reports, and a case series with lacosamide use in pregnant women are insufficient to identify a drug-associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes.
+Available data from the North American Antiepileptic Drug (NAAED) pregnancy registry, a prospective cohort study, case reports, and a case series with lacosamide use in pregnant women are insufficient to identify a drug associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes.
 Lacosamide produced developmental toxicity (increased embryofetal and perinatal mortality, growth deficit) in rats following administration during pregnancy.
 Developmental neurotoxicity was observed in rats following administration during a period of postnatal development corresponding to the third trimester of human pregnancy.
 These effects were observed at doses associated with clinically relevant plasma exposures (see Data).
@@ -69,7 +69,7 @@ Administration of lacosamide to rats during the neonatal and juvenile periods of
 The no-effect dose for developmental neurotoxicity in rats was associated with a plasma lacosamide exposure (AUC) less than that in humans at the maximum recommended human dose of 400 mg/day.
 
 Additional pediatric use information is approved for UCB, Inc.'s VIMPAT ® (lacosamide) tablets.
-However, due to UCB, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+However, due to UCB, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 
@@ -81,7 +81,7 @@ In elderly patients, dose titration should be performed with caution, usually st
 ## 8.6 Renal Impairment
 
 No dose adjustment is necessary in patients with mild to moderate renal impairment (CLCR ≥30 mL/min).
-In patients with severe renal impairment (CLCR <30 mL/min as estimated by the Cockcroft-Gault equation for adults; CLCR <30 mL/min/1.73m2 as estimated by the Schwartz equation for pediatric patients) and in those with end-stage renal disease, a reduction of 25% of the maximum dosage is recommended [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+In patients with severe renal impairment (CLCR <30 mL/min as estimated by the Cockcroft-Gault equation for adults; CLCR less than 30 mL/min/1.73m2 as estimated by the Schwartz equation for pediatric patients) and in those with end-stage renal disease, a reduction of 25% of the maximum dosage is recommended [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
 In all patients with renal impairment, dose initiation and titration should be based on clinical response and tolerability.
 
@@ -91,8 +91,7 @@ Dosage supplementation of up to 50% following hemodialysis should be considered.
 ## 8.7 Hepatic Impairment
 
 For adult and pediatric patients with mild to moderate hepatic impairment, a reduction of 25% of the maximum dosage is recommended.
-Patients with mild to moderate hepatic impairment should be observed closely for adverse reactions, and dose initiation and titration should be based on clinical response and tolerability.
-[see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
+Patients with mild to moderate hepatic impairment should be observed closely for adverse reactions, and dose initiation and titration should be based on clinical response and tolerability [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
 
 The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impairment.
 Lacosamide use is not recommended in patients with severe hepatic impairment.
