@@ -40,7 +40,7 @@ There are no data available for patients with severe hepatic impairment (total b
 
 Patients with renal impairment
 
-Based on a population pharmacokinetic analysis which included patients with mild (CLCR 50–80 mL/min, n=549), moderate (CLCR 30–50 mL/min, n=96), and severe renal impairment (CLCR <30 mL/min, n=5), there was no clinically important effect of creatinine clearance on the clearance of free ziv-aflibercept.
+Based on a population pharmacokinetic analysis which included patients with mild (CLCR 50–80 mL/min, n=549), moderate (CLCR 30–50 mL/min, n=96), and severe renal impairment (CLCR<30 mL/min, n=5), there was no clinically important effect of creatinine clearance on the clearance of free ziv-aflibercept.
 
 Drug Interaction Studies
 

@@ -104,4 +104,4 @@ Symptoms usually resolve or improve within days, although some patients have exp
 Based on findings from animal studies and its mechanism of action, ZALTRAP can cause fetal harm when administered to pregnant women.
 Administration of ziv-aflibercept during the period of organogenesis was embryotoxic and teratogenic in rabbits at exposure levels approximately 0.3 times the human exposure at the 4 mg per kg dose.
 Advise pregnant women of the potential risk to a fetus.
-Advise females of reproductive potential to use effective contraception during treatment with ZALTRAP and for 1 month following the last dose [see Use in Specific Populations (8.1, 8.3)].
+Advise females of reproductive potential to use effective contraception during treatment with ZALTRAP and for 3 months following the last dose [see Use in Specific Populations (8.1, 8.3)].

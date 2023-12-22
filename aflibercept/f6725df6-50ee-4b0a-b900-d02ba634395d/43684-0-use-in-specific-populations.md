@@ -26,17 +26,19 @@ Because of the potential for serious adverse reactions in breastfed infants, adv
 
 ## 8.3 Females and Males of Reproductive Potential
 
+ZALTRAP can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+
 Pregnancy Testing
 
-Verify the pregnancy status in females of reproductive potential prior to initiating ZALTRAP.
+Verify the pregnancy status in females of reproductive potential prior to initiating ZALTRAP [see Use in Specific Populations (8.1)].
 
 Contraception
 
-Based on data from animal studies and its mechanism of action, ZALTRAP can cause fetal harm when administered to pregnant women [see Use in Specific Populations (8.1)].
-
 Females
 
-Advise female patients of reproductive potential to use effective contraception during treatment with ZALTRAP and for 1 month following the last dose.
+Based on data from animal studies and its mechanism of action, ZALTRAP can cause fetal harm when administered to pregnant women [see Use in Specific Populations (8.1)].
+
+Advise female patients of reproductive potential to use effective contraception during treatment with ZALTRAP and for 3 months following the last dose.
 
 Infertility
 

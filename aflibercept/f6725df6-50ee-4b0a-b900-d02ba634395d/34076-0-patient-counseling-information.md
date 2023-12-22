@@ -40,11 +40,11 @@ Posterior Reversible Leukoencephalopathy Syndrome
 
 Embryo-Fetal Toxicity
 
-Advise pregnant women and females of reproductive potential:
+Advise females of reproductive potential:
 
 - of the potential risk to a fetus.
   Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.11), Use in Specific Populations (8.1)].
-- to use effective contraception during treatment with ZALTRAP and for 1 month following the last dose [see Use in Specific Populations (8.3)].
+- to use effective contraception during treatment with ZALTRAP and for 3 months following the last dose [see Use in Specific Populations (8.3)].
 
 Lactation
 
