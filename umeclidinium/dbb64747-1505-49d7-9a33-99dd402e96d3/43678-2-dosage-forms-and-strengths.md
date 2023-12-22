@@ -1,4 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Inhalation powder: Disposable light grey and light green plastic inhaler containing a foil blister strip of powder intended for oral inhalation only.
-Each blister contains umeclidinium 62.5 mcg.
+Inhalation powder: 62.5 mcg umeclidinium per actuation.

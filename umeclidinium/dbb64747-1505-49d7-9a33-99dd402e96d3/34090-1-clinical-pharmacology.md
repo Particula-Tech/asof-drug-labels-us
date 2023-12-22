@@ -14,7 +14,7 @@ The bronchodilation following inhalation of umeclidinium is predominantly a site
 
 Cardiac Electrophysiology
 
-QTc interval prolongation was studied in a double-blind, multiple-dose, placebo- and positive-controlled, crossover trial in 86 healthy subjects.
+QTc interval prolongation was studied in a double-blind, multiple-dose, placebo- and positive-controlled, crossover study in 86 healthy subjects.
 Following repeat doses of umeclidinium 500 mcg once daily (8 times the recommended dosage) for 10 days, umeclidinium does not prolong QTc to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
@@ -26,21 +26,19 @@ Absorption
 Umeclidinium plasma levels may not predict therapeutic effect.
 Following inhaled administration of umeclidinium in healthy subjects, Cmax occurred at 5 to 15 minutes.
 Umeclidinium is mostly absorbed from the lung after inhaled doses with minimum contribution from oral absorption.
-Following repeat dosing of inhaled INCRUSE ELLIPTA, steady state was achieved within 14 days with 1.8-fold accumulation.
+Following repeat dosing of inhaled INCRUSE ELLIPTA, steady state was achieved within 14 days with up to 1.8-fold accumulation.
 
 Distribution
 
 Following intravenous administration to healthy subjects, the mean volume of distribution was 86 L. In vitro plasma protein binding in human plasma was on average 89%.
 
-Metabolism
+Elimination
 
-In vitro data showed that umeclidinium is primarily metabolized by the enzyme cytochrome P450 2D6 (CYP2D6) and is a substrate for the P-glycoprotein (P-gp) transporter.
+Metabolism: In vitro data showed that umeclidinium is primarily metabolized by the enzyme cytochrome P450 2D6 (CYP2D6) and is a substrate for the P-glycoprotein (P-gp) transporter.
 The primary metabolic routes for umeclidinium are oxidative (hydroxylation, O-dealkylation) followed by conjugation (e.g., glucuronidation), resulting in a range of metabolites with either reduced pharmacological activity or for which the pharmacological activity has not been established.
 Systemic exposure to the metabolites is low.
 
-Elimination
-
-The effective half-life after once-daily inhaled dosing is 11 hours.
+Excretion: The effective half-life after once-daily orally inhaled dosing is 11 hours.
 Following intravenous dosing with radiolabeled umeclidinium, mass balance showed 58% of the radiolabel in the feces and 22% in the urine.
 The excretion of the drug-related material in the feces following intravenous dosing indicated elimination in the bile.
 Following oral dosing to healthy male subjects, radiolabel recovered in feces was 92% of the total dose and that in urine was <1% of the total dose, suggesting negligible oral absorption.

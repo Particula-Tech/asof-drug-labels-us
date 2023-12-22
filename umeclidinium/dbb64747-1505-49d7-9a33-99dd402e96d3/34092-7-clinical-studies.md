@@ -34,7 +34,7 @@ Day 7
 Lung Function
 
 The clinical development program for INCRUSE ELLIPTA included 2 randomized, double‑blind, placebo-controlled, parallel-group trials in subjects with COPD designed to evaluate the efficacy of INCRUSE ELLIPTA on lung function.
-Trial 1 (NCT #01313650) was a 24-week placebo‑controlled trial, and Trial 2 (NCT #01387230) was a 12-week placebo‑controlled trial.
+Trial 1 (NCT01313650) was a 24-week placebo‑controlled trial, and Trial 2 (NCT01387230) was a 12-week placebo‑controlled trial.
 These trials treated subjects that had a clinical diagnosis of COPD, were 40 years of age or older, had a history of smoking ≥10 pack-years, had a post-albuterol FEV1 ≤70% of predicted normal values, had a ratio of FEV1/FVC of <0.7, and had a Modified Medical Research Council (mMRC) score ≥2.
 Subjects in Trial 1 had a mean age of 63 years and an average smoking history of 46 pack-years, with 50% identified as current smokers.
 At screening, the mean postbronchodilator percent predicted FEV1 was 47% (range: 13% to 74%), the mean postbronchodilator FEV1/FVC ratio was 0.47 (range: 0.20 to 0.74), and the mean percent reversibility was 15% (range: -35% to 109%).
@@ -86,7 +86,7 @@ Baseline FEV1 was measured while subjects were on background ICS/LABA.
 
 Combination with Fluticasone Furoate + Vilanterol
 
-Trial 4 (NCT #01957163) and Trial 5 (NCT #02119286) randomized subjects to INCRUSE ELLIPTA 62.5 mcg + FF/VI 100 mcg/25 mcg administered once daily or placebo + FF/VI 100 mcg/25 mcg administered once daily.
+Trial 4 (NCT01957163) and Trial 5 (NCT02119286) randomized subjects to INCRUSE ELLIPTA 62.5 mcg + FF/VI 100 mcg/25 mcg administered once daily or placebo + FF/VI 100 mcg/25 mcg administered once daily.
 Trial population demographics and results for Trials 4 and 5 were similar; therefore, only Trial 4 results are presented below.
 
 Subjects in Trial 4 across all treatment arms had a mean age of 64 years and an average smoking history of 50 pack-years, with 42% identified as current smokers.
@@ -108,7 +108,7 @@ Least Squares Mean Change from Baseline in Trough FEV1 (mL) at Day 85 in the Int
 
 Combination with Fluticasone Propionate + Salmeterol
 
-Trial 6 (NCT #01772134) and Trial 7 (NCT #01772147) randomized subjects to INCRUSE ELLIPTA 62.5 mcg + FP/SAL 250 mcg/50 mcg or placebo + FP/SAL 250 mcg/50 mcg.
+Trial 6 (NCT01772134) and Trial 7 (NCT01772147) randomized subjects to INCRUSE ELLIPTA 62.5 mcg + FP/SAL 250 mcg/50 mcg or placebo + FP/SAL 250 mcg/50 mcg.
 The treatments with INCRUSE ELLIPTA and placebo were administered once daily, while the FP/SAL treatment was administered twice daily.
 Trial population demographics and results for Trials 6 and 7 were similar; therefore, only Trial 6 results are presented below.
 
@@ -131,7 +131,7 @@ Least Squares Mean Change from Baseline in Trough FEV1 (mL) at Day 85 in the Int
 
 Exacerbations
 
-In Trial 8 (NCT #02164513), a total of 10,355 subjects with COPD with a history of 1 or more moderate or severe exacerbations in the prior 12 months were randomized (2:2:1) to receive fluticasone furoate/umeclidinium/vilanterol 100 mcg/62.5 mcg/25 mcg (n = 4,151), fluticasone furoate/vilanterol 100 mcg/25 mcg (n = 4,133), or umeclidinium/vilanterol 62.5 mcg/25 mcg (n = 2,070) administered once daily in a 12-month trial.
+In Trial 8 (NCT02164513), a total of 10,355 subjects with COPD with a history of 1 or more moderate or severe exacerbations in the prior 12 months were randomized (2:2:1) to receive fluticasone furoate/umeclidinium/vilanterol 100 mcg/62.5 mcg/25 mcg (n = 4,151), fluticasone furoate/vilanterol 100 mcg/25 mcg (n = 4,133), or umeclidinium/vilanterol 62.5 mcg/25 mcg (n = 2,070) administered once daily in a 12-month trial.
 The population demographics across all treatments were: mean age of 65 years, 77% white, 66% male, and an average smoking history of 46.6 pack-years, with 35% identified as current smokers.
 At trial entry, the most common COPD medications were ICS + anticholinergic + LABA (34%), ICS + LABA (26%), anticholinergic + LABA (8%), and anticholinergic (7%).
 The mean postbronchodilator percent predicted FEV1 was 46% (standard deviation: 15%), the mean postbronchodilator FEV1/FVC ratio was 0.47 (standard deviation: 0.12), and the mean percent reversibility was 10% (range: -59% to 125%).

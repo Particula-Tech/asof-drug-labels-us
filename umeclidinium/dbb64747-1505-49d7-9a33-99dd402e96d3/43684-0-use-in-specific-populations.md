@@ -33,8 +33,8 @@ Subcutaneous administration of umeclidinium to lactating rats at greater than or
 
 ## 8.4 Pediatric Use
 
-INCRUSE ELLIPTA is not indicated for use in children.
-The safety and efficacy in pediatric patients have not been established.
+The safety and effectiveness of INCRUSE ELLIPTA have not been established in pediatric patients.
+INCRUSE ELLIPTA is not indicated for use in pediatric patients.
 
 ## 8.5 Geriatric Use
 
