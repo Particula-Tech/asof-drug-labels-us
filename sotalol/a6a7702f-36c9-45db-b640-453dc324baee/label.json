@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "NDA019865"
+  ],
+  "inn": "sotalol",
+  "labeler": "Legacy Pharma USA, Inc.",
+  "package_ndcs": [
+    "83107-005-10",
+    "83107-006-10",
+    "83107-007-10",
+    "83107-008-60",
+    "83107-009-60",
+    "83107-010-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sotalol hydrochloride",
+      "name": "BETAPACE"
+    },
+    {
+      "form": "TABLET",
+      "generic": "sotalol hydrochloride",
+      "name": "BETAPACE AF"
+    }
+  ],
+  "setid": "a6a7702f-36c9-45db-b640-453dc324baee",
+  "source": "dailymed"
+}
