@@ -11,21 +11,34 @@ The exposure-response relationship and time course of pharmacodynamic response f
 
 ## 12.3 Pharmacokinetics
 
+Following oral administration, the whole blood concentration of hydroxychloroquine at steady state is dose proportional over a dose range from 200 mg daily to 400 mg daily of PLAQUENIL in rheumatoid arthritis and lupus patients.
+
 Absorption Following a single 200 mg oral dose of PLAQUENIL to healthy male volunteers, whole blood hydroxychloroquine Cmax was 129.6 ng/mL (plasma Cmax was 50.3 ng/mL) with Tmax of 3.3 hours (plasma Tmax 3.7 hours).
-Following a single oral PLAQUENIL dose of 200 mg, the mean fraction of the dose absorbed was 0.74 (compared to administration of 155 mg of hydroxychloroquine intravenous infusion).
 Peak blood concentrations of metabolites were observed at the same time as peak levels of hydroxychloroquine.
-After administration of single 155 mg and 310 mg intravenous doses, peak blood concentrations ranged from 1161 ng/mL to 2436 ng/mL (mean 1918 ng/mL) following the 155 mg infusion and 6 months following the 310 mg infusion.
-Pharmacokinetic parameters were not significantly different over the therapeutic dose range of 155 mg and 310 mg indicating linear kinetics.
+Mean absolute oral bioavailability is 79% (SD: 12%) in fasting conditions.
+
+Peak blood concentrations ranged from 1161 ng/mL to 2436 ng/mL (mean 1918 ng/mL) following a single dose of 155 mg intravenous infusion and from 2290 ng/mL to 4211 ng/mL (mean 3312 ng/mL) following a single dose of 310 mg intravenous infusion in healthy subjects.
+Pharmacokinetic parameters were not significantly different over the therapeutic dose range of 155 mg and 310 mg, indicating linear kinetics.
+
 In patients with rheumatoid arthritis, there was large variability as to the fraction of the dose absorbed (i.e.
 30 to 100%), and mean hydroxychloroquine levels were significantly higher in patients with less disease activity.
-Distribution PLAQUENIL is extensively distributed to tissues.
-Elimination A half-life of 123.5 days in plasma were observed following a single 200 mg oral PLAQUENIL dose to healthy male volunteers.
-Urine hydroxychloroquine levels were still detectable after 3 months with approximately 10% of the dose excreted as the parent drug.
-Results following a single dose of a 200 mg tablet versus i.v. infusion (155 mg), demonstrated a half-life of about 40 days and a large volume of distribution.
-Following chronic oral administration of hydroxychloroquine, the absorption half-life was approximately 3 to 4 hours and the terminal half-life ranged from 40 to 50 days.
+
+Distribution PLAQUENIL is extensively distributed to tissues and has a large volume of distribution.
+Approximately 50% of hydroxychloroquine is bound to plasma proteins.
+
 Metabolism Significant levels of three metabolites, desethylhydroxychloroquine (DHCQ), desethylchloroquine (DCQ), and bidesethylhydroxychloroquine (BDCQ) were found in plasma and blood, with DHCQ being the major metabolite.
-Excretion Renal clearance in patients with rheumatoid arthritis treated with PLAQUENIL for at least 6 months was similar to that in single dose studies in healthy volunteers, suggesting that no change in clearance occurred with chronic dosing.
-Renal clearance of unchanged drug was approximately 16% to 30%.
+In vitro, hydroxychloroquine is metabolized mainly by CYP2C8, CYP3A4 and CYP2D6 as well as by FMO-1 and MAO-A.
+
+Elimination/Excretion Renal clearance in patients with rheumatoid arthritis treated with PLAQUENIL for at least 6 months was similar to that in single dose studies in healthy volunteers, suggesting that no change in clearance occurred with chronic dosing.
+Renal clearance of unchanged hydroxychloroquine was approximately 16% to 30% of the dose after oral and IV administration.
+Results following a single oral dose of a 200 mg tablet demonstrated a half life of hydroxychloroquine about 40 days in whole blood.
+Following chronic oral administration of hydroxychloroquine, the absorption half-life of hydroxychloroquine was approximately 3 to 4 hours and the terminal half-life ranged from 40 to 50 days in whole blood.
+The effective half-life of hydroxychloroquine is likely to be shorter and steady state is achieved by 6 weeks following 400 mg daily oral administration in rheumatoid arthritis patients.
+
+Drug Interaction Studies In vitro study suggested that hydroxychloroquine has a potential to inhibit CYP2D6, CYP3A4, P-glycoproteins (P-gp), MATE1 and MATE2-K.
+
+In vitro study suggested that hydroxychloroquine has no significant potential to inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and the main transporters OATP1B1, OATP1B3, OAT1, OAT3, OCT1, and OCT2.
+In vitro, hydroxychloroquine has no significant potential to induce CYP1A2, CYP2B6 and CYP3A4.
 
 ## 12.4 Microbiology
 

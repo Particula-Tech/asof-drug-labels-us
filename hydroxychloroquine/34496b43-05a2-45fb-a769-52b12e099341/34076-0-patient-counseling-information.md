@@ -1,13 +1,18 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Important Administration Instructions Advise the patient to take PLAQUENIL with food or milk and not to crush or divide the tablet.
-Cardiomyopathy and Ventricular Arrhythmias Inform the patient that serious cardiac effects, life-threatening and fatal cases have been reported with use of PLAQUENIL Advise patients to seek medical attention immediately if they experience any symptoms of heart rhythm changes including fast or irregular heartbeat, lightheadedness, dizziness, or syncope [see Warnings and Precautions (5.1)].
+Cardiomyopathy and Ventricular Arrhythmias Inform the patient that serious cardiac effects, life-threatening and fatal cases have been reported with use of PLAQUENIL.
+Advise patients to seek medical attention immediately if they experience any symptoms of heart rhythm changes including fast or irregular heartbeat, lightheadedness, dizziness, or syncope [see Warnings and Precautions (5.1)].
 Retinal Toxicity Inform the patient that irreversible retinal damage has been observed in some patients with the use of PLAQUENIL.
 Advise patients of the importance of the ophthalmology visits for monitoring their eyes.
 Instruct patients to seek medical attention promptly if they experience decreased vision or decreased dark adaptation [see Warnings and Precautions (5.2)].
 Serious Skin Reactions Inform the patient that severe, life-threatening skin reactions have been reported with the use of PLAQUENIL.
 Advise the patient to seek medical attention immediately if experiencing any of the following signs and symptoms: blisters on the skin, eyes, lips or in the mouth, itching or burning, with or without fever [see Warnings and Precautions (5.3)].
-Skeletal Muscle Myopathy or Neuropathy Inform the patient that muscle weakness and atrophy has been reported with PLAQUENIL use Advise patients to report to the physician symptoms of muscle weakness [see Warnings and Precautions (5.8)].
+Hepatotoxicity Associated with Porphyria Cutanea Tarda Inform the patient that liver toxicity has been reported in when PLAQUENIL was used in patients with porphyria cutanea tarda.
+In some cases, PCT was diagnosed only after the occurrence of liver injury, when PLAQUENIL was prescribed for an approved indication.
+Advise the patient to seek medical attention if experiencing fatigue, rash, nausea, dark urine, or jaundice [see Warnings and Precautions (5.5)].
+Skeletal Muscle Myopathy or Neuropathy Inform the patient that muscle weakness and atrophy has been reported with PLAQUENIL use.
+Advise patients to report to the physician symptoms of muscle weakness [see Warnings and Precautions (5.8)].
 Neuropsychiatric Reactions Including Suicidality Alert patients to seek medical attention immediately if they experience new or worsening depression, suicidal thoughts, or other mood changes [see Warnings and Precautions (5.9)].
 Hypoglycemia Inform the patient that PLAQUENIL has been associated with severe hypoglycemia.
 Advise the patient to monitor blood sugar levels if possible and to seek medical attention if experiencing any of the signs and symptoms of hypoglycemia such as sweating, shakiness, weakness, dizziness, tachycardia, nausea, blurred vision, confusion, fainting, or loss of consciousness [see Warnings and Precautions (5.10)].
