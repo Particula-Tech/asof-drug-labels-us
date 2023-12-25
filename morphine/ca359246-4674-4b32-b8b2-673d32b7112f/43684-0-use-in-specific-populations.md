@@ -4,14 +4,14 @@
 
 Risk Summary
 
-Prolonged use of opioid analgesics during pregnancy can cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.5)].
+Use of opioid analgesics for an extended period of time during pregnancy can cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.5)].
 There are no available data with Morphine Sulfate Oral Solution in pregnant women to inform a drug-associated risk for major birth defects and miscarriage.
 Published studies with morphine use during pregnancy have not reported a clear association with morphine and major birth defects (see Human Data).
 In published animal reproduction studies, morphine administered subcutaneously during the early gestational period produced neural tube defects (i.e., exencephaly and cranioschisis) at 5 and 16 times the human daily dose of 60 mg based on body surface area (HDD) in hamsters and mice, respectively, lower fetal body weight and increased incidence of abortion at 0.4 times the HDD in the rabbit, growth retardation at 6 times the HDD in the rat, and axial skeletal fusion and cryptorchidism at 16 times the HDD in the mouse.
 Administration of morphine sulfate to pregnant rats during organogenesis and through lactation resulted in cyanosis, hypothermia, decreased brain weights, pup mortality, decreased pup body weights, and adverse effects on reproductive tissues at 3 to 4 times the HDD; and long-term neurochemical changes in the brain of offspring which correlate with altered behavioral responses that persist through adulthood at exposures comparable to and less than the HDD (see Animal Data).
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
@@ -19,7 +19,7 @@ Clinical Considerations
 
 Fetal/Neonatal Adverse Reactions
 
-Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Use of opioid analgesics for an extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
@@ -70,7 +70,7 @@ These studies were conducted with morphine treatment usually in the range of 4 t
 
 Additionally, delayed sexual maturation and decreased sexual behaviors in female offspring at 20 mg/kg/day (3.2 times the HDD), and decreased plasma and testicular levels of luteinizing hormone and testosterone, decreased testes weights, seminiferous tubule shrinkage, germinal cell aplasia, and decreased spermatogenesis in male offspring were also observed at 20 mg/kg/day (3.2 times the HDD).
 Decreased litter size and viability were observed in the offspring of male rats that were intraperitoneally administered morphine sulfate for 1 day prior to mating at 25 mg/kg/day (4.1 times the HDD) and mated to untreated females.
-Decreased viability and body weight and/or movement deficits in both first and second generation offspring were reported when male mice were treated for 5 days with escalating doses of 120 to 240 mg/kg/day morphine sulfate (9.7 to 19.5 times the HDD) or when female mice treated with escalating doses of 60 to 240 mg/kg/day (4.9 to 19.5 times the HDD) followed by a 5-day treatment-free recovery period prior to mating.
+Decreased viability and body weight and/or movement deficits in both first- and second- generation offspring were reported when male mice were treated for 5 days with escalating doses of 120 to 240 mg/kg/day morphine sulfate (9.7 to 19.5 times the HDD) or when female mice treated with escalating doses of 60 to 240 mg/kg/day (4.9 to 19.5 times the HDD) followed by a 5-day treatment-free recovery period prior to mating.
 Similar multigenerational findings were also seen in female rats pre-gestationally treated with escalating doses of 10 to 22 mg/kg/day morphine (1.6 to 3.6 times the HDD).
 
 ## 8.2 Lactation
@@ -93,7 +93,7 @@ Withdrawal symptoms can occur in breastfed infants when maternal administration 
 
 Infertility
 
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6) and Clinical Pharmacology (12.2)].
 In published animal studies, morphine administration adversely effected fertility and reproductive endpoints in male rats and prolonged estrus cycle in female rats [see Nonclinical Toxicology (13)].
 
@@ -103,13 +103,13 @@ The safety and effectiveness of Morphine Sulfate Oral Solution (2 mg/mL and 4 mg
 Use of Morphine Sulfate Oral Solution in this age group is supported by clinical evidence in adults and supportive data from an open-label, safety and pharmacokinetic study in pediatric patients 2 through 17 years of age with post-operative acute pain.
 Patients were excluded if they had used opioids for more than 7 days within the previous 30 days prior to surgery or had received opioids in any form in the previous 7 days prior to surgery.
 Initial dosing was approximately 0.15 mg/kg to 0.3 mg/kg.
-Pharmacokinetic modeling and simulation indicate that an initial dose of 0.3 mg/kg in pediatric patients 2 years of age and older is expected to produce a maximum systemic exposure (Cmax) similar to that achieved after single dose administration of 10 mg Morphine Oral Solution to adults [see Clinical Pharmacology (12.3)].
+Pharmacokinetic modeling and simulation indicate that an initial dose of 0.3 mg/kg in pediatric patients 2 years of age and older is expected to produce a maximum systemic exposure (Cmax) similar to that achieved after single dose administration of 10 mg Morphine Sulfate Oral Solution to adults [see Clinical Pharmacology (12.3)].
 Safety data were available in 81 patients who received single and multiple doses (63 patients aged 2 to 17 years received Morphine Sulfate Oral Solution; 18 patients aged 12 to 17 years received Morphine Sulfate Tablets).
 The median duration of treatment was 20 hours (range 4 hours to 36 hours).
 Opioid and non-opioid rescue analgesics were allowed.
 The safety profile in pediatric patients consisted primarily of opioid-related adverse reactions and is similar to that observed in adults [see Adverse Reactions (6)].
 
-The safety and effectiveness of Morphine Sulfate Oral Solution (2 mg/mL and 4 mg/mL) have not been established for the management of pediatric patients 2 to 17 years of age with chronic pain severe enough to require an opioid analgesic when alternative treatment are inadequate.
+The safety and effectiveness of Morphine Sulfate Oral Solution (2 mg/mL and 4 mg/mL) have not been established for the management of pediatric patients 2 to 17 years of age with chronic pain severe enough to require an opioid analgesic when alternative treatments are inadequate.
 
 The safety and effectiveness of Morphine Sulfate Oral Solution (2 mg/mL and 4 mg/mL) have not been established in pediatric patients less than 2 years of age.
 
@@ -120,18 +120,18 @@ The safety and effectiveness of Morphine Sulfate Oral Solution 20 mg/mL have not
 Elderly patients (aged 65 years or older) may have increased sensitivity to morphine.
 In general, use caution when selecting a dose for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
-Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of Morphine Sulfate Oral Solution slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.7)].
+Respiratory depression is the chief risk for elderly patients treated with opioids and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
+Titrate the dosage of Morphine Sulfate Oral Solution slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.8)].
 
 Morphine is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
 
 ## 8.6 Hepatic Impairment
 
 Morphine pharmacokinetics have been reported to be significantly altered in patients with cirrhosis.
-Start these patients with a lower than usual dosage of Morphine Sulfate Oral Solution and titrate slowly while monitoring for signs of respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
+Start these patients with a lower than usual dosage of Morphine Sulfate Oral Solution and titrate slowly while regularly evaluating for signs of respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
 Morphine pharmacokinetics are altered in patients with renal failure.
-Start these patients with a lower than usual dosage of Morphine Sulfate Oral Solution and titrate slowly while monitoring for signs of respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
+Start these patients with a lower than usual dosage of Morphine Sulfate Oral Solution and titrate slowly while regularly evaluating for signs of respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].

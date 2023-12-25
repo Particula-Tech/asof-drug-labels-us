@@ -45,4 +45,4 @@ For more information, please call 1-800-962-8364.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration
 
-C50001154/01 Revised July 2021
+C50001154/02 Revised December 2023

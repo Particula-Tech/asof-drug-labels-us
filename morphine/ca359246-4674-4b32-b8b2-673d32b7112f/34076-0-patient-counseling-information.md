@@ -4,8 +4,8 @@ Advise the patients or caregivers to read the FDA-approved patient labeling (Med
 
 Storage and Disposal
 
-Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Morphine Sulfate Oral Solution securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.4, 5.14) and Drug Abuse and Dependence (9.2)].
-Inform patients that leaving Morphine Sulfate Oral Solution unsecured can pose a deadly risk to others in the home.
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Morphine Sulfate Oral Solution securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
+Inform patients that leaving Morphine Sulfate Oral Solution unsecured can pose a deadly risk to others in the home [see Warnings and Precautions (5.1, 5.2, 5.3) and Drug Abuse and Dependence (9.2)].
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
 Expired, unwanted, or unused Morphine Sulfate Oral Solution should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
@@ -13,10 +13,12 @@ Inform patients that they can visit www.fda.gov/drugdisposal for a complete list
 
 Medication Errors
 
-- •Advise patients that Morphine Sulfate Oral Solution is available in three concentrations: 2 mg/mL, 4 mg/mL, and 20 mg/mL.
-  Inform patients about which concentration they have been prescribed and provide detailed instruction on how to measure and take the correct dose of Morphine Sulfate Oral Solution.
-- •If the prescribed concentration is changed, instruct patients on how to correctly measure the new dose to avoid errors which could result in accidental overdose and death.
-- •Instruct patients to never use household teaspoons or tablespoons to measure Morphine Sulfate Oral Solution [see Warnings and Precautions (5.1)].
+Instruct patients and caregivers how to measure and take or administer the correct dose of Morphine Sulfate Oral Solution, and to always use a graduated oral syringe when measuring Morphine Sulfate Oral Solution to correctly measure the prescribed amount of medication [see Dosage and Administration (2.1), Warnings and Precautions (5.1)].
+
+Advise patients and caregivers that Morphine Sulfate Oral Solution is available in three concentrations: 2 mg/mL, 4 mg/mL, and 20 mg/mL.
+Inform patients and caregivers about which concentration they have been prescribed and provide detailed instruction on how to measure and take or administer the correct dose of Morphine Sulfate Oral Solution, and to always use a graduated oral syringe when administering Morphine Sulfate Oral Solution to ensure that the dose is measured and administered accurately.
+
+If the prescribed concentration is changed, instruct patients and caregivers on how to correctly measure the new dose to avoid errors which could result in accidental overdose and death.
 
 Addiction, Abuse, and Misuse
 
@@ -27,12 +29,20 @@ Life-Threatening Respiratory Depression
 
 Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting Morphine Sulfate Oral Solution or when the dosage is increased, and that it can occur even at recommended dosages.
 
-Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.4)].
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.3)].
+
+Accidental Ingestion
+
+Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
+
+Interactions with Benzodiazepines and Other CNS Depressants
+
+Inform patients and caregivers that potentially fatal additive effects may occur if Morphine Sulfate Oral Solution is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.4) and Drug Interactions (7)].
 
 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
 Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with Morphine Sulfate Oral Solution.
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.3) and Warnings and Precautions (5.4)].
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.3) and Warnings and Precautions (5.3)].
 
 Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
 
@@ -43,58 +53,62 @@ If naloxone is prescribed, also advise patients and caregivers:
 - •How to treat with naloxone in the event of an opioid overdose
 - •To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
 - •To read the Patient Information (or other educational material) that will come with their naloxone.
-  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
-
-Accidental Ingestion
-
-Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.4)].
-
-Interactions with Benzodiazepines and Other CNS Depressants
-
-Inform patients and caregivers that potentially fatal additive effects may occur if Morphine Sulfate Oral Solution is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.6) and Drug Interactions (7)].
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.Hyperalgesia and AllodyniaInform patients and caregivers not to increase opioid dosage without first consulting a clinician.
+  Advise patients to seek medical attention if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings and Precautions (5.7), Adverse Reactions (6)].
 
 Serotonin Syndrome
 
-Inform patients that opioids could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
+Inform patients that opioids could cause a rare but potentially life-threatening condition called serotonin syndrome resulting from concomitant administration of serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
 Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications [see Drug Interactions (7)].
 
 MAOI Interaction
 
 Inform patients not to take Morphine Sulfate Oral Solution while using any drugs that inhibit monoamine oxidase.
-Patients should not start MAOIs while taking Morphine Sulfate Oral Solution [see Warnings and Precautions (5.8) and Drug Interactions (7)].
-
-Adrenal Insufficiency
-
-Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
-Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
-Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.9)].
+Patients should not start MAOIs while taking Morphine Sulfate Oral Solution [see Warnings and Precautions (5.9) and Drug Interactions (7)].
 
 Important Administration Instructions
 
-- •Instruct patients how to properly take Morphine Sulfate Oral Solution.
-- •Advise patients not to adjust the dose of Morphine Sulfate Oral Solution without consulting with a physician or other healthcare professional.
-- •Advise patients to never use household teaspoons or tablespoons to measure Morphine Sulfate Oral Solution.
+Instruct patients how to properly take Morphine Sulfate Oral Solution [see Dosage and Administration (2), Warnings and Precautions (5.1)].
+
+- •Strongly advise patients and caregivers to always use a graduated oral syringe when administering Morphine Sulfate Oral Solution to correctly measure the prescribed amount of medication [see Warnings and Precautions (5.1)].
+- •Instruct patients and caregivers to never use household teaspoons or tablespoons to measure Morphine Sulfate Oral Solution.
+- •Advise patients and caregivers not to adjust the dose of Morphine Sulfate Oral Solution without consulting with a physician or other healthcare professional.
 
 Morphine Sulfate Oral Solution 20 mg/mL
 
-- •Inform patients that the 20 mg/mL formulation is only for adult patients who are already receiving opioid-therapy and have demonstrated opioid-tolerance.
+- •Inform patients that the 20 mg/mL formulation is only for adult patients who are already receiving opioid-therapy and have demonstrated opioid tolerance.
   Use of this formulation may cause fatal respiratory depression when administered to patients who have not had previous exposure to opioids [see Indications and Usage (1), Dosage and Administration (2.1)].
-- •Instruct patients how to measure and take the correct dose of Morphine Oral Solution 20 mg/mL using the enclosed calibrated oral syringe when measuring the prescribed amount of medication [see Dosage and Administration (2.1, 2.4), Warnings and Precautions (5.1)].
+- •Instruct patients and caregivers how to measure and take or administer the correct dose of Morphine Oral Solution 20 mg/mL using the enclosed graduated oral syringe when measuring the prescribed amount of medication [see Dosage and Administration (2.1, 2.4), Warnings and Precautions (5.1)].
 
 Morphine Sulfate Oral Solution 2 mg/mL and 4 mg/mL
 
-- •Strongly advise patients to always use a graduated oral syringe with metric units of measurements (i.e., mL) to correctly measure the prescribed amount of medication.
+- •Strongly advise patients and caregivers to always use a graduated oral syringe with metric units of measurements (i.e., mL) to correctly measure the prescribed amount of medication.
   Inform patients that oral syringes may be obtained from their pharmacy [see Warnings and Precautions (5.1)].
 
 Important Discontinuation Instructions
 
 In order to avoid developing withdrawal symptoms, instruct patients not to discontinue Morphine Sulfate Oral Solution without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.6)].
 
+Driving or Operating Heavy Machinery
+
+Inform patients that Morphine Sulfate Oral Solution may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.16)].
+
+Constipation
+
+Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6)].
+
+Adrenal Insufficiency
+
+Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
+Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.10)].
+
 Hypotension
 
 Inform patients that Morphine Sulfate Oral Solution may cause orthostatic hypotension and syncope.
-Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.10)].
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.11)].
 
 Anaphylaxis
 
@@ -105,7 +119,7 @@ Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that prolonged use of Morphine Sulfate Oral Solution during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.5) and Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that use of Morphine Sulfate Oral Solution for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.5) and Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 
@@ -113,23 +127,14 @@ Inform female patients of reproductive potential that Morphine Sulfate Oral Solu
 
 Lactation
 
-Advise nursing mothers to monitor infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
+Advise nursing mothers to carefully observe infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
 Instruct nursing mothers to seek immediate medical care if they notice these signs [see Use in Specific Populations (8.2)].
 
 Infertility
 
-Inform patients that chronic use of opioids may cause reduced fertility.
+Inform patients that use of opioids for an extended period of time may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
-
-Driving or Operating Heavy Machinery
-
-Inform patients that Morphine Sulfate Oral Solution may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.15)].
-
-Constipation
-
-Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6)].
 
 Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-C50001154/01 Revised July 2021
+C50001154/02 Revised December 2023
