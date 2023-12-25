@@ -4,7 +4,7 @@ NDC 72990-103-10
 
 Rx Only
 
-DEFENCATHTM
+DEFENCATH®
 
 Taurolidine and Heparin Catheter Lock Solution
 
@@ -18,7 +18,7 @@ Derived from Porcine Intestinal Mucosa
 
 For Instillation in Central Venous Catheters Not for systemic administration Do not use as a catheter lock flush
 
-*See prescribing information for Defencath for information about the limited population.
+*See prescribing information for DEFENCATH for information about the limited population.
 
 Contains 10 Single-dose vials.
 Discard unused portion.
@@ -31,7 +31,7 @@ NDC 72990-103-03
 
 Rx Only
 
-DEFENCATHTM
+DEFENCATH®
 
 Taurolidine and Heparin Catheter Lock Solution
 
@@ -45,7 +45,7 @@ For Instillation in Central Venous Catheters Not for systemic administration Do 
 
 Store at 20°C to 25°C (68°F to 77°F)
 
-3 mL Fill Single-Dose Vial - Discard Unused Portion
+3 mL Fill Single-Dose Vial Discard Unused Portion
 
 # PRINCIPAL DISPLAY PANEL
 
