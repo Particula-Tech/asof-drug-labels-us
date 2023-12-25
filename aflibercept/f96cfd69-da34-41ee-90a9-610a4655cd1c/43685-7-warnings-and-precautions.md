@@ -1,10 +1,10 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Endophthalmitis and Retinal Detachments
+## 5.1 Endophthalmitis, Retinal Detachments, and Retinal Vasculitis with or without Occlusion
 
-Intravitreal injections, including those with EYLEA, have been associated with endophthalmitis and retinal detachments [see Adverse Reactions (6.1)].
+Intravitreal injections, including those with EYLEA, have been associated with endophthalmitis and retinal detachments [see Adverse Reactions (6.1)] and, more rarely, retinal vasculitis with or without occlusion [see Adverse Reactions (6.2)].
 Proper aseptic injection technique must always be used when administering EYLEA.
-Patients and/or caregivers should be instructed to report any signs and/or symptoms suggestive of endophthalmitis or retinal detachment without delay and should be managed appropriately [see Dosage and Administration (2.4) and Patient Counseling Information (17)].
+Patients and/or caregivers should be instructed to report any signs and/or symptoms suggestive of endophthalmitis, retinal detachment, or retinal vasculitis without delay and should be managed appropriately [see Dosage and Administration (2.4) and Patient Counseling Information (17)].
 
 ## 5.2 Increase in Intraocular Pressure
 

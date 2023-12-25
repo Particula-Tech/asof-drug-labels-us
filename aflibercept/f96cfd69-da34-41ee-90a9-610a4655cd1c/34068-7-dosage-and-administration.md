@@ -18,7 +18,7 @@ EYLEA is available packaged as follows:
 
 ## 2.2 Preparation for Administration – Pre-filled Syringe
 
-The EYLEA pre-filled glass syringe is sterile and for single use only.
+The EYLEA pre-filled glass syringe is sterile and for one-time use in one eye only.
 Do not use the EYLEA pre-filled syringe for the treatment of ROP.
 
 The pre-filled syringe should be inspected visually prior to administration.
@@ -82,7 +82,7 @@ To eliminate all bubbles and to expel excess drug, slowly depress the plunger ro
 | --- | --- |
 
 7.
-The pre-filled syringe is for single use only.
+The pre-filled syringe is for one-time use in one eye only.
 After injection any unused product must be discarded.
 
 ## 2.3 Preparation for Administration - Vial
@@ -90,7 +90,7 @@ After injection any unused product must be discarded.
 EYLEA should be inspected visually prior to administration.
 If particulates, cloudiness, or discoloration are visible, the vial must not be used.
 
-The glass vial is for single use only.
+The glass vial is for one-time use in one eye only.
 
 Use aseptic technique to carry out the following preparation steps:
 
@@ -147,7 +147,7 @@ After injection, any unused product must be discarded.
 
 ## 2.5 Neovascular (Wet) Age-Related Macular Degeneration (AMD)
 
-The recommended dose for EYLEA is 2 mg (0.05 mL or 50 microliters) administered by intravitreal injection every 4 weeks (approximately every 28 days, monthly) for the first 12 weeks (3 months), followed by 2 mg (0.05 mL) via intravitreal injection once every 8 weeks (2 months).
+The recommended dose for EYLEA is 2 mg (0.05 mL of 40 mg/mL solution) administered by intravitreal injection every 4 weeks (approximately every 28 days, monthly) for the first 12 weeks (3 months), followed by 2 mg (0.05 mL of 40 mg/mL solution) via intravitreal injection once every 8 weeks (2 months).
 Although EYLEA may be dosed as frequently as 2 mg every 4 weeks (approximately every 25 days, monthly), additional efficacy was not demonstrated in most patients when EYLEA was dosed every 4 weeks compared to every 8 weeks [see Clinical Studies (14.1)].
 Some patients may need every 4 week (monthly) dosing after the first 12 weeks (3 months).
 Although not as effective as the recommended every 8 week dosing regimen, patients may also be treated with one dose every 12 weeks after one year of effective therapy.
@@ -155,17 +155,17 @@ Patients should be assessed regularly.
 
 ## 2.6 Macular Edema Following Retinal Vein Occlusion (RVO)
 
-The recommended dose for EYLEA is 2 mg (0.05 mL or 50 microliters) administered by intravitreal injection once every 4 weeks (approximately every 25 days, monthly) [see Clinical Studies (14.2), (14.3)].
+The recommended dose for EYLEA is 2 mg (0.05 mL of 40 mg/mL solution) administered by intravitreal injection once every 4 weeks (approximately every 25 days, monthly) [see Clinical Studies (14.2), (14.3)].
 
 ## 2.7 Diabetic Macular Edema (DME)
 
-The recommended dose for EYLEA is 2 mg (0.05 mL or 50 microliters) administered by intravitreal injection every 4 weeks (approximately every 28 days, monthly) for the first 5 injections, followed by 2 mg (0.05 mL) via intravitreal injection once every 8 weeks (2 months).
+The recommended dose for EYLEA is 2 mg (0.05 mL of 40 mg/mL solution) administered by intravitreal injection every 4 weeks (approximately every 28 days, monthly) for the first 5 injections, followed by 2 mg (0.05 mL of 40 mg/mL solution) via intravitreal injection once every 8 weeks (2 months).
 Although EYLEA may be dosed as frequently as 2 mg every 4 weeks (approximately every 25 days, monthly), additional efficacy was not demonstrated in most patients when EYLEA was dosed every 4 weeks compared to every 8 weeks [see Clinical Studies (14.4)].
 Some patients may need every 4 week (monthly) dosing after the first 20 weeks (5 months).
 
 ## 2.8 Diabetic Retinopathy (DR)
 
-The recommended dose for EYLEA is 2 mg (0.05 mL or 50 microliters) administered by intravitreal injection every 4 weeks (approximately every 28 days, monthly) for the first 5 injections, followed by 2 mg (0.05 mL) via intravitreal injection once every 8 weeks (2 months).
+The recommended dose for EYLEA is 2 mg (0.05 mL of 40 mg/mL solution) administered by intravitreal injection every 4 weeks (approximately every 28 days, monthly) for the first 5 injections, followed by 2 mg (0.05 mL of 40 mg/mL solution) via intravitreal injection once every 8 weeks (2 months).
 Although EYLEA may be dosed as frequently as 2 mg every 4 weeks (approximately every 25 days, monthly), additional efficacy was not demonstrated in most patients when EYLEA was dosed every 4 weeks compared to every 8 weeks [see Clinical Studies (14.5)].
 Some patients may need every 4 week (monthly) dosing after the first 20 weeks (5 months).
 
@@ -173,7 +173,7 @@ Some patients may need every 4 week (monthly) dosing after the first 20 weeks (5
 
 Recommended Dosage
 
-The recommended dose for EYLEA is 0.4 mg (0.01 mL or 10 microliters) administered by intravitreal injection.
+The recommended dose for EYLEA is 0.4 mg (0.01 mL or 10 microliters of 40 mg/mL solution) administered by intravitreal injection.
 Treatment is initiated with a single injection per eligible eye and may be given bilaterally on the same day.
 Injections may be repeated in each eye.
 The treatment interval between doses injected into the same eye should be at least 10 days [see Clinical Pharmacology (12.3) and Clinical Studies (14.6)].
