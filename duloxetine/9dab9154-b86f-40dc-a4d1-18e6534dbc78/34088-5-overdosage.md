@@ -2,7 +2,7 @@
 
 ## 10.1 Signs and Symptoms
 
-In postmarketing experience, fatal outcomes have been reported for acute duloxetine overdoses, primarily with mixed overdoses, but also with duloxetine only, including 1000 mg of duloxetine delayed-release capsules (approximately 8.3 times the maximum recommended dosage).
+In postmarketing experience, fatal outcomes have been reported for acute duloxetine overdoses, primarily with mixed overdoses, but also with duloxetine only, including 1,000 mg of duloxetine delayed-release capsules (approximately 8.3 times the maximum recommended dosage).
 Signs and symptoms of overdose (duloxetine alone or with mixed drugs) included somnolence, coma, serotonin syndrome, seizures, syncope, tachycardia, hypotension, hypertension, and vomiting.
 
 ## 10.2 Management of Overdose

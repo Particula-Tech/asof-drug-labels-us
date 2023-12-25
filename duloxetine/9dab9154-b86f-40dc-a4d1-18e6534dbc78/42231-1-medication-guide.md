@@ -1,6 +1,6 @@
 Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-Medication Guide Duloxetine (doo lox' e teen) Delayed-Release Capsules
+MEDICATION GUIDE Duloxetine (doo lox' e teen) Delayed-Release Capsules
 
 Read this Medication Guide before you start taking duloxetine delayed-release capsules and each time you get a refill.
 There may be new information.
@@ -115,7 +115,7 @@ Especially tell your healthcare provider if you take:
 
 - triptans used to treat migraine headache
 - medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs or MAOIs
-- tramadol and fentanyl
+- tramadol, fentanyl, meperidine, methadone, or other opioids
 - amphetamines
 - cimetidine
 - the antibiotics ciprofloxacin, enoxacin
@@ -308,20 +308,20 @@ This Medication Guide summarizes the most important information about duloxetine
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about duloxetine delayed-release capsules that is written for healthcare professionals.
 
-For more information about duloxetine delayed-release capsules call Teva at 1-888-838-2872.
+For more information call Teva at 1-888-838-2872.
 
 What are the ingredients in duloxetine delayed-release capsules?
 
 Active ingredient: duloxetine hydrochloride
 
-Inactive ingredients: ammonium hydroxide, black iron oxide, gelatin, hydroxypropyl cellulose, hypromellose, hypromellose phthalate, potassium hydroxide, propylene glycol, shellac, sugar spheres (which contain sucrose and corn starch), talc, titanium dioxide, and triethyl citrate.
+Inactive ingredients: black iron oxide, gelatin, hydroxypropyl cellulose, hypromellose, hypromellose phthalate, potassium hydroxide, propylene glycol, shellac, strong ammonia solution, sugar spheres (which contain sucrose and corn starch), talc, titanium dioxide, and triethyl citrate.
 The 20 mg and 30 mg capsules also contain FD&C Blue #1 Aluminum Lake.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Brands listed are trademarks of their respective owners.
+Brands listed are the trademarks of their respective owners.
 
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-D 9/2021
+E 8/2023

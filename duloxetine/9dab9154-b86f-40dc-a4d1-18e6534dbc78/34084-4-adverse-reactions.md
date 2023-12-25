@@ -29,7 +29,7 @@ Adverse Reactions in Adults
 
 Adult Clinical Trial Database
 
-The data described below reflect exposure to duloxetine delayed-release capsules in placebo-controlled adult trials for MDD (N=3779), GAD (N=1018), OA (N=503), CLBP (N=600), DPNP (N=906), and FM (N=1294).
+The data described below reflect exposure to duloxetine delayed-release capsules in placebo-controlled adult trials for MDD (N=3,779), GAD (N=1,018), OA (N=503), CLBP (N=600), DPNP (N=906), and FM (N=1,294).
 The age range in this pooled population was 17 to 89 years of age.
 In this pooled population, 66%, 61%, 61%, 43%, and 94% of adult patients were female; and 82%, 73%, 85%, 74%, and 86% of adult patients were Caucasian in the MDD, GAD, OA and CLBP, DPNP, and FM populations, respectively.
 Most patients received duloxetine delayed-release dosages of a total of 60 to 120 mg per day [see Clinical Studies (14)].
@@ -39,12 +39,12 @@ Adverse Reactions Leading to Treatment Discontinuation in Adult Placebo-Controll
 
 Major Depressive Disorder
 
-Approximately 8.4% (319/3779) of the duloxetine delayed-release capsule-treated patients in placebo-controlled adult trials for MDD discontinued treatment due to an adverse reaction, compared with 4.6% (117/2536) of placebo-treated patients.
+Approximately 8.4% (319/3,779) of the duloxetine delayed-release capsule-treated patients in placebo-controlled adult trials for MDD discontinued treatment due to an adverse reaction, compared with 4.6% (117/2,536) of placebo-treated patients.
 Nausea (duloxetine delayed-release capsules 1.1%, placebo 0.4%) was the only adverse reaction reported as a reason for discontinuation and considered to be drug-related (i.e., discontinuation occurring in at least 1% of the duloxetine delayed-release capsule-treated patients and at a rate of at least twice that of placebo-treated patients).
 
 Generalized Anxiety Disorder
 
-Approximately 13.7% (139/1018) of the duloxetine delayed-release capsule-treated patients in placebo-controlled adult trials for GAD discontinued treatment due to an adverse reaction, compared with 5% (38/767) for placebo-treated patients.
+Approximately 13.7% (139/1,018) of the duloxetine delayed-release capsule-treated patients in placebo-controlled adult trials for GAD discontinued treatment due to an adverse reaction, compared with 5% (38/767) for placebo-treated patients.
 Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine delayed-release capsules 3.3%, placebo 0.4%), and dizziness (duloxetine delayed-release capsules 1.3%, placebo 0.4%).
 
 Diabetic Peripheral Neuropathic Pain
@@ -54,7 +54,7 @@ Common adverse reactions reported as a reason for discontinuation and considered
 
 Fibromyalgia
 
-Approximately 17.5% (227/1294) of the duloxetine delayed-release capsule-treated patients in 3- to 6-month placebo-controlled adult trials for FM discontinued treatment due to an adverse reaction, compared with 10.1% (96/955) for placebo-treated patients.
+Approximately 17.5% (227/1,294) of the duloxetine delayed-release capsule-treated patients in 3- to 6-month placebo-controlled adult trials for FM discontinued treatment due to an adverse reaction, compared with 10.1% (96/955) for placebo-treated patients.
 Adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine delayed-release capsules 2.0%, placebo 0.5%), headache (duloxetine delayed-release capsules 1.2%, placebo 0.3%), somnolence (duloxetine delayed-release capsules 1.1%, placebo 0%), and fatigue (duloxetine delayed-release capsules 1.1%, placebo 0.1%).
 
 Chronic Pain due to Osteoarthritis
@@ -85,7 +85,7 @@ Table 2: Adverse Reactions: Incidence of 5% or More and Greater than Placebo in 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
 | Adverse Reaction | Duloxetine Delayed-Release Capsules | Placebo |
-|  | (N=8100) | (N=5655) |
+|  | (N=8,100) | (N=5,655) |
 | Nauseac | 23 | 8 |
 | Headache | 14 | 12 |
 | Dry mouth | 13 | 5 |
@@ -114,7 +114,7 @@ Table 3: Adverse Reactions: Incidence of 2% or More and Greater than Placebo in 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
 | System Organ Class / Adverse Reaction | Duloxetine Delayed-Release Capsules | Placebo |
-|  | (N=4797) | (N=3303) |
+|  | (N=4,797) | (N=3,303) |
 | Cardiac Disorders |  |  |
 | Palpitations | 2 | 1 |
 | Eye Disorders |  |  |
@@ -168,7 +168,7 @@ Table 4: Adverse Reactions: Incidence of 2% or More and Greater than Placebo in 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
 | System Organ Class / Adverse Reaction | Duloxetine Delayed-Release Capsules | Placebo |
-|  | (N=3303) | (N=2352) |
+|  | (N=3,303) | (N=2,352) |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 23 | 7 |
 | Dry Mouthb | 11 | 3 |
@@ -266,10 +266,10 @@ Other Adverse Reactions Observed During the Clinical Trial Evaluation of Duloxet
 
 Following is a list of adverse reactions reported by patients treated with duloxetine delayed-release capsules in clinical adult trials.
 In clinical trials of all approved adult populations, 34,756 patients were treated with duloxetine delayed-release capsules.
-Of these, 27% (9337) took duloxetine delayed-release capsules for at least 6 months, and 12% (4317) took duloxetine delayed-release capsules for at least one year.
+Of these, 27% (9,337) took duloxetine delayed-release capsules for at least 6 months, and 12% (4,317) took duloxetine delayed-release capsules for at least one year.
 The following listing is not intended to include reactions (1) already listed in previous tables or elsewhere in labeling, (2) for which a drug cause was remote, (3) which were so general as to be uninformative, (4) which were not considered to have significant clinical implications, or (5) which occurred at a rate equal to or less than placebo.
 
-Reactions are categorized by body system according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients.
+Reactions are categorized by body system according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1,000 patients; rare reactions are those occurring in fewer than 1/1,000 patients.
 
 - Cardiac Disorders - Frequent: palpitations; Infrequent: myocardial infarction, tachycardia, and Takotsubo cardiomyopathy.
 - Ear and Labyrinth Disorders - Frequent: vertigo; Infrequent: ear pain and tinnitus.
@@ -293,15 +293,15 @@ Adverse Reactions Observed in Placebo-Controlled Clinical Trials in Pediatric Pa
 
 Pediatric Clinical Trial Database
 
-The data described below reflect exposure to duloxetine delayed-release capsules in pediatric patients aged 7 to 18 years of age from two 10-week, placebo-controlled trials in patients with MDD (Studies MDD-6 and MDD-7) and one 10-week placebo-controlled trial in GAD (Study GAD-6).
+The data described below reflect exposure to duloxetine delayed-release capsules (N=567) in pediatric patients aged 7 to 18 years of age from two 10-week, placebo-controlled trials in patients with MDD (N=341) (Studies MDD-6 and MDD-7), one 10-week placebo-controlled trial in GAD (N=135) (Study GAD-6), and a 13-week trial in fibromyalgia (N=91).
 Duloxetine delayed-release capsules are not approved for the treatment of MDD in pediatric patients [see Use in Specific Populations (8.4)].
 Of the duloxetine delayed-release capsule-treated patients in these studies, 36% were 7 to 11 years of age (64% were between 12 to 18 years old), 55% were female, and 69% were Caucasian.
 Patients received 30 to 120 mg of duloxetine delayed-release capsules per day during placebo-controlled acute treatment studies.
-In the pediatric MDD and GAD trials up to 40 weeks long, there were duloxetine delayed-release capsules-treated pediatric patients aged 7 to 17 years of age (most patients received 30-120 mg per day) – 35% were 7 to 11 years of age (65% were 12 to 17 years old) and 56% were female.
+In the pediatric MDD, GAD, and fibromyalgia trials up to 40 weeks long, there were 988 duloxetine delayed-release capsules-treated pediatric patients aged 7 to 17 years of age (most patients received 30 to 120 mg per day) – 35% were 7 to 11 years of age (65% were 12 to 17 years old) and 56% were female.
 
 Most Common Adverse Reactions in Pediatric Trials
 
-The most common adverse reactions (≥5% in duloxetine delayed-release capsule-treated patients and at least twice the incidence of placebo-treated patients) in pooled pediatric populations (MDD and GAD) were decreased weight, decreased appetite, nausea, vomiting, fatigue, and diarrhea.
+The most common adverse reactions (≥5% in duloxetine delayed-release capsule-treated patients and at least twice the incidence of placebo-treated patients) in all pooled pediatric populations (MDD, GAD, and fibromyalgia) were decreased weight, decreased appetite, nausea, vomiting, fatigue, and diarrhea.
 
 Adverse Reactions in Pediatric Patients Aged 7 to 17 Years Old with MDD and GAD
 
@@ -360,8 +360,24 @@ In studies up to 9 months, duloxetine delayed-release capsule-treated pediatric 
 While height increase was observed during these studies, a mean decrease of 1% in height percentile was observed (decrease of 2% in patients 7 to 11 years of age and increase of 0.3% in patients 12 to 17 years of age).
 Weight and height should be monitored regularly in pediatric patients treated with duloxetine delayed-release capsules [see Use in Specific Populations (8.4)].
 
-Pediatric use information for patients ages 13 to 17 years with fibromyalgia is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Adverse Reactions in Pediatric Patients Aged 13 to 17 Years Old with Fibromyalgia
+
+Table 7 provides the incidence of adverse reactions in a fibromyalgia pediatric placebo-controlled trial (Study FM-4) that occurred in greater than 5% of patients treated with duloxetine delayed-release capsules and with an incidence greater than patients treated with placebo [see Clinical Studies (14.5)].
+
+| Table 7: Adverse Reactions: Incidence of 5% or More and Greater than Placebo in a 13-week Placebo-Controlled Trial in Pediatric Patients 13 to 17 Years Old with Fibromyalgia (Study FM-4)a |  |  |
+| --- | --- | --- |
+|  | Duloxetine Delayed-Release Capsules(N=91) | Placebo(N=93) |
+| Nausea | 25% | 15% |
+| Decreased appetite | 15% | 3% |
+| Vomiting | 15% | 5% |
+| Decreased weightb | 15% | 5% |
+| Headache | 14% | 11% |
+| Nasopharyngitis | 9% | 2% |
+| Somnolence | 9% | 3% |
+| Upper respiratory tract infection | 7% | 2% |
+| Viral gastroenteritis | 5% | 0% |
+| Fatigue | 5% | 2% |
+| a The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. b Frequency based on weight measurement meeting potentially clinically significant threshold of ≥3.5% weight loss (N=89 duloxetine delayed-release capsules; N=92 Placebo). |  |  |
 
 ## 6.2 Postmarketing Experience
 

@@ -6,7 +6,7 @@ Patients with major depressive disorder (MDD), both adult and pediatric, may exp
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
 
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
@@ -14,17 +14,17 @@ The pooled analyses of placebo-controlled trials in adults with MDD or other psy
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk of differences (drug vs placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 1.
 
 Table 1
 
-| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
+| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
-| 18-24 | 5 additional cases |
+| 18 to 24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
-| 25-64 | 1 fewer case |
+| 25 to 64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric duloxetine delayed-release capsules trials.
@@ -66,7 +66,7 @@ Other postmarketing reports indicate that elevated transaminases, bilirubin, and
 Duloxetine delayed-release capsules increased the risk of elevation of serum transaminase levels in development program clinical trials.
 Liver transaminase elevations resulted in the discontinuation of 0.3% (92/34,756) of duloxetine delayed-release capsule-treated patients.
 In most patients, the median time to detection of the transaminase elevation was about two months.
-In adult placebo-controlled trials, for patients with normal and abnormal baseline ALT values, elevation of ALT >3 times the ULN occurred in 1.25% (144/11,496) of duloxetine delayed-release capsule-treated patients compared to 0.45% (39/8716) of placebo-treated patients.
+In adult placebo-controlled trials, for patients with normal and abnormal baseline ALT values, elevation of ALT >3 times the ULN occurred in 1.25% (144/11,496) of duloxetine delayed-release capsule-treated patients compared to 0.45% (39/8,716) of placebo-treated patients.
 In adult placebo-controlled studies using a fixed dose design, there was evidence of a duloxetine delayed-release dose response relationship for ALT and AST elevation of >3 times the ULN and >5 times the ULN, respectively.
 
 Because it is possible that duloxetine delayed-release capsules and alcohol may interact to cause liver injury or that duloxetine delayed-release capsules may aggravate pre-existing liver disease, duloxetine delayed-release capsules should not be prescribed to patients with substantial alcohol use or evidence of chronic liver disease.
@@ -88,20 +88,20 @@ Falls with serious consequences including fractures and hospitalizations have be
 
 ## 5.4 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including duloxetine delayed-release capsules, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Serotonin-norepinephrine reuptake inhibitors (SNRIs), including duloxetine delayed-release capsules, can precipitate serotonin syndrome, a potentially life-threatening condition.
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, meperidine, methadone, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs, [see Contraindications (4), Drug Interactions (7.13)].
+Serotonin syndrome can also occur when these drugs are used alone.
 
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Patients should be monitored for the emergence of serotonin syndrome.
+Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
-The concomitant use of duloxetine delayed-release capsules with MAOI antidepressants is contraindicated.
-Duloxetine delayed-release capsules should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
-All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
-No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
-There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking duloxetine delayed-release capsules.
-Duloxetine delayed-release capsules should be discontinued before initiating treatment with the MAOI [see Dosage and Administration (2.9, 2.10) and Contraindications (4)].
+The concomitant use of duloxetine delayed-release capsules with MAOIs is contraindicated.
+In addition, do not initiate duloxetine delayed-release capsules in a patient being treated with MAOIs such as linezolid or intravenous methylene blue.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection).
+If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking duloxetine delayed-release capsules, discontinue duloxetine delayed-release capsules before initiating treatment with the MAOI [see Contraindications (4) and Drug Interactions (7.13)].
 
-If concomitant use of duloxetine delayed-release capsules with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
-Treatment with duloxetine delayed-release capsules and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Monitor all patients taking duloxetine delayed-release capsules for the emergence of serotonin syndrome.
+Discontinue treatment with duloxetine delayed-release capsules and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
+If concomitant use of duloxetine delayed-release capsules with other serotonergic drugs is clinically warranted, inform patients of the increased risk for serotonin syndrome and monitor for symptoms.
 
 ## 5.5 Increased Risk of Bleeding
 
@@ -111,7 +111,7 @@ A post-marketing study showed a higher incidence of postpartum hemorrhage in mot
 Other bleeding events related to SSRI and SNRI use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), warfarin, and other anti-coagulants may add to this risk.
 
-Inform patients about the risk of bleeding associated with the concomitant use of duloxetine delayed-release capsules and NSAIDs, aspirin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
+Inform patients about the risk of increased bleeding associated with the concomitant use of duloxetine delayed-release capsules and NSAIDs, aspirin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
 
 ## 5.6 Severe Skin Reactions
 
@@ -136,7 +136,7 @@ Subsequently, the healthcare provider may continue decreasing the dose but at a 
 
 ## 5.8 Activation of Mania/Hypomania
 
-In adult placebo-controlled trials in patients with MDD, activation of mania or hypomania was reported in 0.1% (4/3779) of duloxetine delayed-release capsule-treated patients and 0.04% (1/2536) of placebo-treated patients.
+In adult placebo-controlled trials in patients with MDD, activation of mania or hypomania was reported in 0.1% (4/3,779) of duloxetine delayed-release capsule-treated patients and 0.04% (1/2,536) of placebo-treated patients.
 No activation of mania or hypomania was reported in DPNP, GAD, fibromyalgia, or chronic musculoskeletal pain placebo-controlled trials.
 Activation of mania or hypomania has been reported in a small proportion of patients with mood disorders who were treated with other marketed drugs effective in the treatment of major depressive disorder.
 As with these other agents, duloxetine delayed-release capsules should be used cautiously in patients with a history of mania.
@@ -148,7 +148,7 @@ The pupillary dilation that occurs following use of many antidepressant drugs in
 ## 5.10 Seizures
 
 Duloxetine delayed-release capsules have not been systematically evaluated in patients with a seizure disorder, and such patients were excluded from clinical studies.
-In adult placebo-controlled clinical trials, seizures/convulsions occurred in 0.02% (3/12,722) of patients treated with duloxetine delayed-release capsules and 0.01% (1/9513) of patients treated with placebo.
+In adult placebo-controlled clinical trials, seizures/convulsions occurred in 0.02% (3/12,722) of patients treated with duloxetine delayed-release capsules and 0.01% (1/9,513) of patients treated with placebo.
 Duloxetine delayed-release capsules should be prescribed with care in patients with a history of a seizure disorder.
 
 ## 5.11 Increases in Blood Pressure

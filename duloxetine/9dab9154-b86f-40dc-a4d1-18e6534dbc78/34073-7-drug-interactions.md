@@ -21,7 +21,7 @@ Concomitant administration of duloxetine 40 mg twice daily with fluvoxamine 100 
 Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
 Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are co-administered with warfarin.
-Concomitant administration of warfarin (2-9 mg once daily) under steady state conditions with duloxetine 60 or 120 mg once daily for up to 14 days in healthy subjects (n=15) did not significantly change INR from baseline (mean INR changes ranged from 0.05 to +0.07).
+Concomitant administration of warfarin (2 to 9 mg once daily) under steady state conditions with duloxetine 60 or 120 mg once daily for up to 14 days in healthy subjects (n=15) did not significantly change INR from baseline (mean INR changes ranged from 0.05 to +0.07).
 The total warfarin (protein bound plus free drug) pharmacokinetics (AUCτ,ss, Cmax,ss or tmax,ss) for both R- and S-warfarin were not altered by duloxetine.
 Because of the potential effect of duloxetine on platelets, patients receiving warfarin therapy should be carefully monitored when duloxetine is initiated or discontinued [see Warnings and Precautions (5.5)].
 
@@ -46,7 +46,7 @@ It is unknown whether the concomitant administration of proton pump inhibitors a
 
 In vitro drug interaction studies demonstrate that duloxetine does not induce CYP1A2 activity.
 Therefore, an increase in the metabolism of CYP1A2 substrates (e.g., theophylline, caffeine) resulting from induction is not anticipated, although clinical studies of induction have not been performed.
-Duloxetine is an inhibitor of the CYP1A2 isoform in in vitro studies, and in two clinical studies the average (90% confidence interval) increase in theophylline AUC was 7% (1%-15%) and 20% (13%-27%) when co-administered with duloxetine (60 mg twice daily).
+Duloxetine is an inhibitor of the CYP1A2 isoform in in vitro studies, and in two clinical studies the average (90% confidence interval) increase in theophylline AUC was 7% (1% to 15%) and 20% (13% to 27%) when co-administered with duloxetine (60 mg twice daily).
 
 ## 7.9 Drugs Metabolized by CYP2D6
 
@@ -72,9 +72,11 @@ Inhibition of the metabolism of CYP2C19 substrates is therefore not anticipated,
 
 [See Dosage and Administration (2.9, 2.10), Contraindications (4), and Warnings and Precautions (5.4)].
 
-## 7.14 Serotonergic Drugs
+## 7.14 Other Serotonergic Drugs
 
-[See Dosage and Administration (2.9, 2.10), Contraindications (4), and Warnings and Precautions (5.4)].
+The concomitant use of serotonergic drugs (including other SNRIs, SSRIs, triptans, tricyclic antidepressants, opioids, lithium, buspirone, amphetamines, tryptophan, and St. John's Wort) with duloxetine delayed-release capsules increases the risk of serotonin syndrome.
+Monitor patients for signs and symptoms of serotonin syndrome, particularly during treatment initiation and dosage increases.
+If serotonin syndrome occurs, consider discontinuation of duloxetine delayed-release capsules and/or concomitant serotonergic drugs [see Warnings and Precautions (5.4)].
 
 ## 7.15 Alcohol
 
@@ -90,4 +92,4 @@ Substantial intercurrent ethanol use was present in each of these cases, and thi
 ## 7.17 Drugs Highly Bound to Plasma Protein
 
 Because duloxetine is highly bound to plasma protein, administration of duloxetine delayed-release capsules to a patient taking another drug that is highly protein bound may cause increased free concentrations of the other drug, potentially resulting in adverse reactions.
-However, co-administration of duloxetine (60 or 120 mg) with warfarin (2-9 mg), a highly protein-bound drug, did not result in significant changes in INR and in the pharmacokinetics of either total S-or total R-warfarin (protein bound plus free drug) [see Drug Interactions (7.4)].
+However, co-administration of duloxetine (60 or 120 mg) with warfarin (2 to 9 mg), a highly protein-bound drug, did not result in significant changes in INR and in the pharmacokinetics of either total S-or total R-warfarin (protein bound plus free drug) [see Drug Interactions (7.4)].

@@ -26,7 +26,7 @@ It is not known if these adverse maternal and fetal outcomes are a direct result
 
 Maternal Adverse Reactions
 
-Use of duloxetine in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.5)].
+Use of duloxetine delayed-release capsules in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.5)].
 
 Fetal/Neonatal Adverse Reaction
 
@@ -38,7 +38,7 @@ It should be noted that, in some cases, the clinical picture is consistent with 
 
 Data Human Data
 
-Data from a postmarketing retrospective claims-based cohort study found an increased risk for postpartum hemorrhage among 955 pregnant women exposed to duloxetine in the last month of pregnancy compared to 4,128,460 unexposed pregnant women (adjusted relative risk: 1.53; 95% CI: 1.08-2.18).
+Data from a postmarketing retrospective claims-based cohort study found an increased risk for postpartum hemorrhage among 955 pregnant women exposed to duloxetine in the last month of pregnancy compared to 4,128,460 unexposed pregnant women (adjusted relative risk: 1.53; 95% CI: 1.08 to 2.18).
 The same study did not find a clinically meaningful increase in the risk for major birth defects in the comparison of 2532 women exposed to duloxetine in the first trimester of pregnancy to 1,284,827 unexposed women after adjusting for several confounders.
 Methodologic limitations include possible residual confounding, misclassification of exposure and outcomes, lack of direct measures of disease severity, and lack of information about alcohol use, nutrition, and over-the-counter medication exposures.
 
@@ -77,7 +77,7 @@ The presence of duloxetine hydrochloride metabolites in breast milk was not exam
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of duloxetine delayed-release capsules have been established for treatment of generalized anxiety disorder (GAD) in patients 7 to 17 years of age.
+The safety and effectiveness of duloxetine delayed-release capsules have been established for treatment of generalized anxiety disorder (GAD) in patients 7 to 17 years of age and for treatment of juvenile fibromyalgia syndrome in patients 13 to 17 years of age.
 The safety and effectiveness of duloxetine delayed-release capsules have not been established in pediatric patients with major depressive disorder (MDD), diabetic peripheral neuropathic pain, or chronic musculoskeletal pain.
 
 Antidepressants increased the risk of suicidal thoughts and behavior in pediatric patients.
@@ -92,8 +92,12 @@ Duloxetine delayed-release capsules demonstrated superiority over placebo as mea
 
 The safety and effectiveness of duloxetine delayed-release capsules for the treatment of GAD in pediatric patients less than 7 years of age have not been established.
 
-Pediatric use information for patients ages 13 to 17 years with fibromyalgia is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Fibromyalgia
+
+Use of duloxetine delayed-release capsules for treatment of fibromyalgia in patients 13 to 17 years of age is supported by a 13-week placebo-controlled trial in 184 patients with juvenile fibromyalgia syndrome (Study FM-4).
+Duloxetine delayed-release capsules showed improvement over placebo on the primary endpoint, change from baseline to end-of-treatment on the Brief Pain Inventory (BPI) – Modified Short Form: Adolescent Version 24-hour average pain severity rating [see Clinical Studies (14.5)].
+
+The safety and effectiveness of duloxetine delayed-release capsules for the treatment of fibromyalgia in patients less than 13 years of age have not been established.
 
 Major Depressive Disorder
 
@@ -114,7 +118,7 @@ These effects were observed at the high dose of 45 mg/kg/day (2 times the MRHD, 
 Geriatric Exposure in Premarketing Clinical Trials of Duloxetine Delayed-Release Capsules
 
 - Of the 2,418 patients in MDD trials, 6% (143) were 65 years of age or over.
-- Of the 1041 patients in CLBP trials, 21% (221) were 65 years of age or over.
+- Of the 1,041 patients in CLBP trials, 21% (221) were 65 years of age or over.
 - Of the 487 patients in OA trials, 41% (197) were 65 years of age or over.
 - Of the 1,074 patients in the DPNP trials, 33% (357) were 65 years of age or over.
 - Of the 1,761 patients in FM trials, 8% (140) were 65 years of age or over.
@@ -160,4 +164,4 @@ Limited data are available on the effects of duloxetine in patients with end-sta
 After a single 60 mg dose of duloxetine, Cmax and AUC values were approximately 100% greater in patients with ESRD receiving chronic intermittent hemodialysis than in subjects with normal renal function.
 The elimination half-life, however, was similar in both groups.
 The AUCs of the major circulating metabolites, 4-hydroxy duloxetine glucuronide and 5-hydroxy, 6-methoxy duloxetine sulfate, largely excreted in urine, were approximately 7- to 9-fold higher and would be expected to increase further with multiple dosing.
-Population PK analyses suggest that mild to moderate degrees of renal impairment (estimated CrCl 30-80 mL/min) have no significant effect on duloxetine apparent clearance [see Dosage and Administration (2.7) and Warnings and Precautions (5.14)].
+Population PK analyses suggest that mild to moderate degrees of renal impairment (estimated CrCl 30 to 80 mL/min) have no significant effect on duloxetine apparent clearance [see Dosage and Administration (2.7) and Warnings and Precautions (5.14)].
