@@ -51,7 +51,7 @@ Patients should not start MAOIs while taking METHADOSE [see Drug Interactions (7
 
 Adrenal Insufficiency Inform patients that METHADOSE could cause adrenal insufficiency, a potentially life-threatening condition.
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
-Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings ad Precautions (5.10)].
+Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.10)].
 
 Anaphylaxis Inform patients that anaphylaxis has been reported with ingredients contained in METHADOSE.
 Advise patients how to recognize such a reaction and when to seek medical attention [see Adverse Reactions (6)].
@@ -68,9 +68,12 @@ It is not known whether these effects on fertility are reversible [see Use in Sp
 
 Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
+Hypoglycemia Inform patients that methadone may cause hypoglycemia.
+Instruct patients how to recognize the symptoms of low blood glucose and to contact their health care provider if these symptoms occur [see Warnings and Precautions (5.17)].
+
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
 
-© 2022 Mallinckrodt.
+© 2023 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA Made in USA
 

@@ -187,6 +187,13 @@ Do not abruptly discontinue METHADOSE [see Drug Abuse and Dependence (9.3)].
 METHADOSE may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of METHADOSE and know how they will react to the medication [see Patient Counseling Information (17)].
 
-## 5.17 Laboratory Test Interactions
+## 5.17 Hypoglycemia
+
+Cases of methadone-associated hypoglycemia have been reported, some resulting in hospitalization.
+In many cases, patients had predisposing risk factors (e.g., diabetes).
+The relationship between methadone and hypoglycemia is not fully understood but may be dose dependent.
+If hypoglycemia is suspected, monitor blood glucose levels, and manage the patient as clinically appropriate.
+
+## 5.18 Laboratory Test Interactions
 
 False positive urine drug screens for methadone have been reported for several drugs including diphenhydramine, doxylamine, clomipramine, chlorpromazine, thioridazine, quetiapine, and verapamil.
