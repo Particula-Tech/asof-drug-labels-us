@@ -237,6 +237,8 @@ NDC 0069-0331-01
 
 Abrilada™ (adalimumab-afzb) Injection
 
+Citrate-free
+
 10 mg/0.2 mL
 
 One Single-Dose Prefilled Syringe For Subcutaneous Injection Only No preservative
@@ -247,7 +249,7 @@ Pfizer
 
 Manufactured by Pfizer Inc New York, NY 10017 US License No. 2001 Return to pharmacy if dose tray seal is broken or missing.
 
-19-4166-09
+ABPFSLD69-1
 
 Do not use beyond the expiration date on the container.
 
@@ -266,8 +268,6 @@ Dosage: See Prescribing Information.
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0069-0347-02
 
-Rx only
-
 Abrilada™ (adalimumab-afzb) Injection
 
 Two Single-Dose Prefilled Syringes For Subcutaneous Injection Only
@@ -275,18 +275,20 @@ Two Single-Dose Prefilled Syringes For Subcutaneous Injection Only
 This carton contains:
 
 - •2 Prefilled Syringes
-- •2 Alcohol Swabs
+- •2 Alcohol Preps
 - •1 Instructions for Use
 - •1 Medication Guide
-- •1 Prescribing Leaflet
+- •1 Package Insert
 
 Do not shake
 
 Keep out of reach of children
 
+Citrate-free Rx only
+
 10 mg/0.2 mL
 
-Two Single-Dose Prefilled Syringes
+Two Single-Dose Prefilled Syringes 29 Gauge Needle
 
 ▼ To Open
 
@@ -309,6 +311,8 @@ Rx only
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 NDC 0069-0319-01
+
+Citrate-free
 
 Abrilada™ (adalimumab-afzb) Injection
 
