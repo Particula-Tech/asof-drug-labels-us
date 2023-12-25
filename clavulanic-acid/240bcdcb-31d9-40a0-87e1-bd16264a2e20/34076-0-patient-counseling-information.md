@@ -28,9 +28,9 @@ Discard any unused medicine.
 
 CLINITEST® is a registered trademark of Miles, Inc.
 
-Distributed by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 USA
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Manufactured by: HIKMA Pharmaceuticals P.O.
+Manufactured by: Hikma Pharmaceuticals P.O.
 Box 182400 Amman 11118 - Jordan
 
-Revised October 2022
+2INAMXVS Revised July 2023
