@@ -108,12 +108,6 @@ Baxter Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA
 
-CODE: 2G3551 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
-(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX
-
-CODE: 2G3551 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
-(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX 07-06-77-861
-
 NDC 0338-3552-48
 
 Vancomycin Injection, USP in 5% Dextrose
@@ -217,12 +211,6 @@ Cautions: Do not add supplementary medication or additives.
 Baxter Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA
-
-CODE: 2G3552 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
-(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX
-
-CODE: 2G3552 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
-(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX 07-06-77-864
 
 Container Label
 
@@ -332,12 +320,6 @@ Baxter Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA
 
-CODE: 2G3580 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
-(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX
-
-CODE: 2G3580 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
-(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX 07-06-77-862
-
 NDC 0338-3581-01
 
 Vancomycin Injection, USP in 0.9% Sodium Chloride
@@ -441,12 +423,6 @@ Cautions: Do not add supplementary medication or additives.
 Baxter Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA
-
-CODE: 2G3590 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
-(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX
-
-CODE: 2G3590 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
-(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX 07-06-77-865
 
 Container Label
 
@@ -554,12 +530,6 @@ Baxter Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA
 
-CODE: 2G3591 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
-(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX
-
-CODE: 2G3591 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
-(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX 07-06-77-863
-
 Container Label
 
 NDC 0338-3583-01
@@ -665,9 +635,3 @@ Cautions: Do not add supplementary medication or additives.
 Baxter Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA
-
-CODE: 2G3592 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
-(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX
-
-CODE: 2G3592 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: ######### FOR PLACEMENT ONLY.
-(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX 07-06-77-866
