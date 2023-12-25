@@ -4,8 +4,8 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Storage and Disposal:
 
-Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store ROXYBOND securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.3, 5.13), Drug Abuse and Dependence (9.2)].
-Inform patients that leaving ROXYBOND unsecured can pose a deadly risk to others in the home.
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store ROXYBOND securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
+Inform patients that leaving ROXYBOND unsecured can pose a deadly risk to others in the home [see Warnings and Precautions (5.1, 5.2), Drug Abuse and Dependence (9.2)].
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
 Expired, unwanted, or unused ROXYBOND should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
@@ -19,12 +19,21 @@ Instruct patients not to share ROXYBOND with others and to take steps to protect
 Life-Threatening Respiratory Depression
 
 Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting ROXYBOND or when the dosage is increased, and that it can occur even at recommended dosages.
-Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.3)].
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.2), Overdosage (10)].
+
+Accidental Ingestion
+
+Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
+
+Interactions with Benzodiazepines and Other CNS Depressants
+
+Inform patients and caregivers that potentially fatal additive effects may occur if ROXYBOND is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
 Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with ROXYBOND.
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
 
 Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
 
@@ -32,20 +41,15 @@ Explain to patients and caregivers that naloxone's effects are temporary, and th
 
 If naloxone is prescribed, also advise patients and caregivers:
 
-How to treat with naloxone in the event of an opioid overdose
+- How to treat with naloxone in the event of an opioid overdose
+- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency.
+- To read the Patient Information (or other educational material) that will come with their naloxone.
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
-To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency.
+Hyperalgesia and Allodynia
 
-To read the Patient Information (or other educational material) that will come with their naloxone.
-Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
-
-Accidental Ingestion
-
-Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
-
-Interactions with Benzodiazepines and Other CNS Depressants
-
-Inform patients and caregivers that potentially fatal additive effects may occur if ROXYBOND is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.6), Drug Interactions (7)].
+Inform patients and caregivers not to increase opioid dosage without first consulting a clinician.
+Advise patients to seek medical attention if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings and Precautions (5.7), Adverse Reactions (6.2)].
 
 Serotonin Syndrome
 
@@ -58,27 +62,38 @@ MAOI Interaction
 Inform patients to avoid taking ROXYBOND while using any drugs that inhibit monoamine oxidase.
 Patients should not start MAOIs while taking ROXYBOND [see Drug Interactions (7)].
 
-Adrenal Insufficiency
-
-Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
-Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness and low blood pressure.
-Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.8)].
-
 Important Administration Instructions
 
 Instruct patients how to properly take ROXYBOND.
-Patients should be advised not to adjust the dose of ROXYBOND without consulting the prescribing healthcare provider [see Dosage and Administration (2), Warnings and Precautions (5.13)].
+Patients should be advised not to adjust the dose of ROXYBOND without consulting the prescribing healthcare provider [see Dosage and Administration (2), Warnings and Precautions (5.14)].
 
 Inform patients taking ROXYBOND that the medicine is absorbed by the body and the part of the tablet that contains inactive ingredients is eliminated from the body; patients may notice something that looks like a tablet in their stool.
 
 Important Discontinuation Instructions
 
-In order to avoid developing withdrawal symptoms, instruct patients not to discontinue ROXYBOND without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue ROXYBOND without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
+
+Driving or Operating Machinery
+
+Inform patients that ROXYBOND may impair the ability to perform potentially hazardous activities such as driving a car or operating dangerous machinery.
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.15)].
+
+Constipation
+
+Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
+
+Healthcare professionals can telephone Protega Pharmaceuticals Inc. (1-844-798-3610) for information on this product.
+
+Adrenal Insufficiency
+
+Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
+Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness and low blood pressure.
+Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.9)].
 
 Hypotension
 
 Inform patients that ROXYBOND may cause orthostatic hypotension and syncope.
-Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from sitting or lying position) [see Warnings and Precautions (5.9)].
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from sitting or lying position) [see Warnings and Precautions (5.10)].
 
 Anaphylaxis
 
@@ -87,37 +102,21 @@ Advise patients how to recognize such a reaction and when to seek medical attent
 
 Pregnancy
 
-Neonatal Opioid Withdrawal Syndrome
-
-Inform female patients of reproductive potential that prolonged use of ROXYBOND during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
-
-Embryo-Fetal Toxicity
-
-Inform female patients of reproductive potential that ROXYBOND can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+- Neonatal Opioid Withdrawal SyndromeInform female patients of reproductive potential that use of ROXYBOND for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+- Embryo-Fetal ToxicityInform female patients of reproductive potential that ROXYBOND can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Advise nursing mothers to monitor infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
+Advise nursing mothers to carefully observe infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
 Instruct nursing mothers to seek immediate medical care if they notice these signs [see Use in Specific Populations (8.2)].
 
 Infertility
 
-Inform patients that chronic use of opioids may cause reduced fertility.
+Inform patients that use of opioids for an extended period of time may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
-Driving or Operating Machinery
+Manufactured for: Protega Pharmaceuticals Inc. Princeton, NJ 08540
 
-Inform patients that ROXYBOND may impair the ability to perform potentially hazardous activities such as driving a car or operating dangerous machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.14)].
+(C) 2023, Protega Pharmaceuticals Inc.
 
-Constipation
-
-Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.1)].
-
-Healthcare professionals can telephone Protega Pharmaceuticals LLC (1-844-798-3610) for information on this product.
-
-Manufactured for: Protega Pharmaceuticals LLC Princeton, NJ 08540
-
-(C)2022, Protega Pharmaceuticals LLC
-
-rev 02/2022 GK-425
+rev 12/2023 GK-425

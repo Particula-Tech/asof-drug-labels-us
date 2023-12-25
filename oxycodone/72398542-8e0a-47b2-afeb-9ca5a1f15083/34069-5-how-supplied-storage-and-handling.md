@@ -14,4 +14,4 @@ Protect from moisture.
 
 Store at controlled room temperature, 20°C to 25°C (68°F to 77°F), with excursions to 15°C to 30°C (59°F to 86°F).
 
-Store ROXYBOND securely and dispose of properly [see Patient Counseling Information (17)].
+Store ROXYBOND securely and dispose of properly.
