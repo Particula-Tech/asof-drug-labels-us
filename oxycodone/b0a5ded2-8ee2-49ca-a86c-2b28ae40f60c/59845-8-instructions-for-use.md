@@ -1,4 +1,4 @@
-Instructions for Use XTAMPZA® ER (ex tamp' zah ee ar) (oxycodone) extended-release capsules, CII
+# Instructions for Use XTAMPZA® ER (ex tamp' zah ee ar) (oxycodone) extended-release capsules, CII
 
 Always take XTAMPZA ER with approximately the same amount of food.
 If you cannot swallow XTAMPZA ER capsules, tell your healthcare provider.
@@ -14,9 +14,7 @@ XTAMPZA ER can be opened and the contents inside the capsule can be sprinkled on
 
 XTAMPZA ER capsule contents can also be sprinkled into a cup and then put directly into the mouth.
 
-Giving XTAMPZA ER through a nasogastric or gastrostomy tube:
-
-Use water, milk, or a liquid nutritional supplement to flush the tube when giving XTAMPZA ER.
+Giving XTAMPZA ER through a nasogastric or gastrostomy tube: Use water, milk, or a liquid nutritional supplement to flush the tube when giving XTAMPZA ER.
 
 | Step 1: | Flush the nasogastric or gastrostomy tube with liquid. |
 | --- | --- |
@@ -25,4 +23,6 @@ Use water, milk, or a liquid nutritional supplement to flush the tube when givin
 | Step 4: | Flush the tube two more times, each time with 10 mL of liquid, to ensure that none of the contents of the capsule are left in the tube. |
 
 This Instruction for Use has been approved by the U.S. Food and Drug Administration.
-Issued: December 2016
+Issued: DECEMBER 2023
+
+Collegium® PHARMACEUTICAL

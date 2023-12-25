@@ -6,36 +6,38 @@ XTAMPZA ER contains oxycodone, a Schedule II controlled substance.
 
 ## 9.2 Abuse
 
-XTAMPZA ER contains oxycodone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydromorphone, methadone, morphine, and oxymorphone.
-XTAMPZA ER can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
+XTAMPZA ER contains oxycodone, a substance with high potential for misuse and abuse, which can lead to the development of substance use disorder, including addiction [see Warnings and Precautions (5.1)].
 
-The high drug content in extended-release formulations adds to the risk of adverse outcomes from abuse and misuse.
+Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a healthcare provider or for whom it was not prescribed.
 
-All patients treated with opioids require careful monitoring for signs of abuse and addiction, since use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
+Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
 
-Prescription drug abuse is the intentional non-therapeutic use of a prescription drug, even once, for its rewarding psychological or physiological effects.
+Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
 
-Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that develop after repeated substance use and includes: a strong desire to take the drug, difficulties in controlling its use, persisting in its use despite harmful consequences, a higher priority given to drug use than to other activities and obligations, increased tolerance, and sometimes a physical withdrawal.
+Misuse and abuse of XTAMPZA ER increases risk of overdose, which may lead to central nervous system and respiratory depression, hypotension, seizures, and death.
+The risk is increased with concurrent abuse of XTAMPZA ER with alcohol and/or other CNS depressants.
+Abuse of and addiction to opioids in some individuals may not be accompanied by concurrent tolerance and symptoms of physical dependence.
+In addition, abuse of opioids can occur in the absence of addiction.
 
-"Drug-seeking" behavior is very common to persons with substance use disorders.
-Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated "loss" of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other healthcare provider(s).
-"Doctor shopping" (visiting multiple prescribers to obtain additional prescriptions) is common among drug abusers and people suffering from untreated addiction.
-Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with poor pain control.
+All patients treated with opioids require careful and frequent reevaluation for signs of misuse, abuse, and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
+Patients at high risk of XTAMPZA ER abuse include those with a history of prolonged use of any opioid, including products containing buprenorphine, those with a history of drug or alcohol abuse, or those who use XTAMPZA ER in combination with other abused drugs.
 
-Abuse and addiction are separate and distinct from physical dependence and tolerance.
-Healthcare providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
-In addition, abuse of opioids can occur in the absence of true addiction.
+"Drug-seeking" behavior is very common in persons with substance use disorders.
+Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated "loss" of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare provider(s).
+"Doctor shopping" (visiting multiple prescribers to obtain additional prescriptions) is common among people who abuse drugs and people with substance use disorder.
+Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with inadequate pain control.
 
-XTAMPZA ER, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
-Careful recordkeeping of prescribing information, including quantity, frequency, and renewal requests as required by state and federal law, is strongly advised.
+XTAMPZA ER, like other opioids, can be diverted for nonmedical use into illicit channels of distribution.
+Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests, as required by state and federal law, is strongly advised.
 
 Proper assessment of the patient, proper prescribing practices, periodic reevaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
 Risks Specific to Abuse of XTAMPZA ER
 
-XTAMPZA ER is for oral use only.
 Abuse of XTAMPZA ER poses a risk of overdose and death.
-The risk is increased with concurrent use of XTAMPZA ER with alcohol and other central nervous system depressants.
+The risk is increased with concurrent use of XTAMPZA ER with alcohol and/or other CNS depressants [see Warnings and Precautions (5.1, 5.3), Drug Interactions (7)].
+
+XTAMPZA ER is approved for oral use only.
 
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
 
@@ -81,8 +83,8 @@ Table 3: Oxycodone Pharmacokinetic Parameters, Administration of Manipulated and
 | Chewed XTAMPZA ER Capsule Contents (fed) | 55.6 (10.9) | 4.5 (2.5-8) | 559 (113) |
 | Immediate-Release Oxycodone Solution (fasted) | 115 (27.3) | 0.75 (0.5-2) | 489 (80.2) |
 |  | Oral Pharmacokinetic Study 2 |  |  |
-| Intact XTAMPZA ER Capsules (fed) | 67.5 (17.6) | 3.5 (1.25–6.0) | 581 (138) |
-| Crushed XTAMPZA ER Capsule Contents (fed) | 62.9 (12.6) | 4.0 (2.0–7.0) | 597 (149) |
+| Intact XTAMPZA ER Capsules (fed) | 67.5 (17.6) | 3.5 (1.25-6.0) | 581 (138) |
+| Crushed XTAMPZA ER Capsule Contents (fed) | 62.9 (12.6) | 4.0 (2.0-7.0) | 597 (149) |
 | Intact reformulated OXYCONTIN (oxycodone hydrochloride) extended-release tablets (fed) | 64.9 (13.8) | 5.0 (2.0-10.0) | 611 (145) |
 | Crushed reformulated OXYCONTIN (oxycodone hydrochloride) extended-release tablets (fed) | 78.4 (12.9) | 1.75 (0.5-5.0) | 587 (132) |
 | Crushed Immediate-Release Oxycodone Tablets (fed) | 79.4 (17.1) | 1.75 (0.5-4.0) | 561 (146) |
@@ -164,7 +166,7 @@ The Y-axis represents the percent of subjects attaining a percent reduction in d
 Approximately 92% (n = 33) of subjects had some reduction in drug liking with XTAMPZA ER relative to crushed immediate-release oxycodone HCl.
 Approximately 78% (n = 28) of subjects had a reduction of at least 30% in drug liking with XTAMPZA ER compared to crushed immediate-release oxycodone HCl, and approximately 58% (n = 21) of subjects had a reduction of at least 50% in drug liking with XTAMPZA ER compared to crushed immediate-release oxycodone HCl.
 
-Figure 1: Percent Reduction Profiles for Emax of Drug Liking VAS for Crushed XTAMPZA ER vs. Crushed Immediate-release Oxycodone, N=36 Following Intranasal Administration.
+Figure 1: Percent Reduction Profiles for Emax of Drug Liking VAS for Crushed XTAMPZA ER vs. Crushed Immediate-release Oxycodone, N=36 Following Intranasal Administration
 
 Summary
 
@@ -178,17 +180,18 @@ Additional data, including epidemiological data, when available, may provide fur
 Accordingly, this section may be updated in the future as appropriate.
 
 XTAMPZA ER contains oxycodone, an opioid agonist and Schedule II controlled substance with an abuse liability similar to other opioid agonists, legal or illicit, including fentanyl, hydromorphone, methadone, morphine, and oxymorphone.
-XTAMPZA ER can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1) and Drug Abuse and Dependence (9.1)].
+XTAMPZA ER can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1) and Drug Abuse and Dependence (9.3)].
 
 ## 9.3 Dependence
 
-Both tolerance and physical dependence can develop during chronic opioid therapy.
-Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
-Tolerance may occur to both the desired and undesired effects of drugs, and may develop at different rates for different effects.
+Both tolerance and physical dependence can develop during use of opioid therapy.
 
-Physical dependence is a physiological state in which the body adapts to the drug after a period of regular exposure, resulting in withdrawal symptoms after abrupt discontinuation or a significant dosage reduction of a drug.
-Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
-Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
+Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
+
+Physical dependence is a state that develops as a result of a physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
+
+Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
+Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued use.
 
 Do not abruptly discontinue XTAMPZA ER in a patient physically dependent on opioids.
 Rapid tapering of XTAMPZA ER in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
@@ -196,6 +199,6 @@ Rapid discontinuation has also been associated with attempts to find other sourc
 
 When discontinuing XTAMPZA ER, gradually taper the dosage using a patient-specific plan that considers the following: the dose of XTAMPZA ER the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
 To improve the likelihood of a successful taper and minimize withdrawal symptoms, it is important that the opioid tapering schedule is agreed upon by the patient.
-In patients taking opioids for a long duration at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.6), Warnings and Precautions (5.13)].
+In patients taking opioids for an extended period of time at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.6), Warnings and Precautions (5.14)].
 
-Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms [see Use in Specific Populations (8.1)].
+Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1)].

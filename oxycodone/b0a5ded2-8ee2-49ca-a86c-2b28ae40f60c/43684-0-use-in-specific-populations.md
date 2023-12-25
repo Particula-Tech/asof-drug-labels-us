@@ -4,22 +4,22 @@
 
 Risk Summary
 
-Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
+Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
 There are no available data with XTAMPZA ER in pregnant women to inform a drug-associated risk for major birth defects and miscarriage.
 In animal reproduction studies, there was no embryo-fetal toxicity when oxycodone hydrochloride was orally administered to rats and rabbits, during the period of organogenesis, at doses 1.3 to 40 times the adult human dose of 60 mg/day, respectively.
 In a pre- and postnatal toxicity study, when oxycodone was orally administered to rats, there was transiently decreased pup body weight during lactation and the early post-weaning period at the dose equivalent to an adult dose of 160 mg/day.
 In several published studies, treatment of pregnant rats with oxycodone hydrochloride at clinically relevant doses and below resulted in neurobehavioral effects in offspring [see Data].
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
 Fetal/neonatal adverse reactions
 
-Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Use of opioid analgesics for an extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high-pitched cry, tremor, vomiting, diarrhea and failure to gain weight.
 The onset, duration of use, and severity of neonatal opioid withdrawal syndrome may vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
@@ -57,15 +57,15 @@ Because of the potential for serious adverse reactions, including excess sedatio
 
 Clinical Considerations
 
-Infants exposed to XTAMPZA ER through breast milk should be monitored for excess sedation and respiratory depression.
+Monitor infants exposed to XTAMPZA ER through breast milk for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
 
 Infertility
 
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
-It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2)].
+Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
+It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -80,8 +80,8 @@ In this clinical trial with appropriate initiation of therapy and dose titration
 Thus, the usual doses and dosing intervals may be appropriate for elderly patients.
 Use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, concomitant disease, and use of other drug therapy.
 
-Respiratory depression is the chief risk in elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of XTAMPZA ER slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.6, 5.7)].
+Respiratory depression is the chief risk in elderly patients treated with opioids and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
+Titrate the dosage of XTAMPZA ER slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.8)].
 
 ## 8.6 Hepatic Impairment
 
