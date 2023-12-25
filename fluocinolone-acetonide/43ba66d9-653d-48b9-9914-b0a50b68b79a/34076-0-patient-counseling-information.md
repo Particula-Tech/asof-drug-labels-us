@@ -23,4 +23,3 @@ Advise patients not to drive or use machines until this has been resolved.
 Manufactured by:
 
 EyePoint Pharmaceuticals US, Inc. 480 Pleasant Street Watertown, MA 02472 USA Patented.
-See https://eyepointpharma.com/patent-notification/
