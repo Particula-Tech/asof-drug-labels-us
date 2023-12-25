@@ -81,7 +81,7 @@ The mean half-life of abiraterone is prolonged to approximately 18 hours in subj
 
 In another trial, the pharmacokinetics of abiraterone were examined in subjects with baseline severe (N=8) hepatic impairment (Child-Pugh Class C) and in 8 healthy control subjects with normal hepatic function.
 The systemic exposure (AUC) of abiraterone increased by approximately 7-fold in subjects with severe baseline hepatic impairment compared to subjects with normal hepatic function.
-In addition, the mean protein binding was found to be lower in the severe hepatic impairment group compared to the normal hepatic function group, which resulted in a two-fold increase in the fraction of free drug in patients with severe hepatic impairment
+In addition, the mean protein binding was found to be lower in the severe hepatic impairment group compared to the normal hepatic function group, which resulted in a two-fold increase in the fraction of free drug in patients with severe hepatic impairment.
 
 Patients with Renal Impairment
 
@@ -114,4 +114,4 @@ Cytochrome P450 (CYP) Enzymes: Abiraterone is a substrate of CYP3A4 and has the 
 
 Transporter Systems: In vitro studies show that at clinically relevant concentrations, abiraterone acetate and abiraterone are not substrates of P-glycoprotein (P-gp) and that abiraterone acetate is an inhibitor of P-gp.
 In vitro, abiraterone and its major metabolites were shown to inhibit the hepatic uptake transporter OATP1B1.
-There are no clinical data available to confirm transporter based interaction
+There are no clinical data available to confirm transporter based interaction.

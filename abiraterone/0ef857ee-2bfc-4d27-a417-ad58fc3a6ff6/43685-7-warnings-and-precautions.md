@@ -15,7 +15,7 @@ Grades 3-4 fluid retention occurred in 1% of patients each arm [see Adverse Reac
 Closely monitor patients whose underlying medical conditions might be compromised by increases in blood pressure, hypokalemia or fluid retention, such as those with heart failure, recent myocardial infarction, cardiovascular disease, or ventricular arrhythmia.
 In postmarketing experience, QT prolongation and Torsades de Pointes have been observed in patients who develop hypokalemia while taking abiraterone acetate.
 
-The safety of abiraterone acetate in patients with left ventricular ejection fraction <50% or New York Heart Association (NYHA) Class III or IV heart failure (in COU-AA-301) or NYHA Class II to IV heart failure (in COU-AA-302 and LATITUDE) has not been established because these patients were excluded from these randomized clinical trials [see Clinical Studies (14)].
+The safety of abiraterone acetate in patients with left ventricular ejection fraction <50% or New York Heart Association (NYHA) Class III or IV heart failure (in COU-AA-301) or NYHA Class II to IV heart failure (in COU-AA-302 and LATITUDE) has not been established because these patients were excluded from these randomized clinical trials [seeClinical Studies (14)].
 
 ## 5.2 Adrenocortical Insufficiency
 

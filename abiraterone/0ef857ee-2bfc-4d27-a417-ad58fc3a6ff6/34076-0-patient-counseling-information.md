@@ -52,6 +52,10 @@ Infertility
 
 Distributed by: CivicaScript, LLC Lehi, Utah 84043
 
-Manufactured by: The Arab Pharmaceuticals Manufacturing Company Sahab - Jordan
+Manufactured by: Arab Pharmaceuticals Manufacturing PSC
 
-2INBAIC-E Revised April 2022
+PO Box 41
+
+Sahab - Jordan
+
+2INABI250TC-E Revised: November 2023

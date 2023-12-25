@@ -61,11 +61,11 @@ Abiraterone acetate tablets may cause serious side effects including:
 
 Tell your healthcare provider if you get any of the following symptoms:
 
-| •dizziness | •confusion |
+| odizziness | oconfusion |
 | --- | --- |
-| •fast or irregular heartbeats | • muscle weakness |
-| •feel faint or lightheaded | • pain in your legs |
-| •headache | • swelling in your legs or feet |
+| ofast or irregular heartbeats | o muscle weakness |
+| ofeel faint or lightheaded | o pain in your legs |
+| oheadache | o swelling in your legs or feet |
 
 - •Adrenal problems may happen if you stop taking prednisone, get an infection, or are under stress.
 - •Severe liver problems.
@@ -112,7 +112,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store abiraterone acetate tablets?
 
-Store abiraterone acetate tablets at room temperature between 68oF to 77oF (20oC to 25oC).
+- •Store abiraterone acetate tablets at room temperature between 68oF to 77oF (20oC to 25oC).
 
 Keep abiraterone acetate tablets and all medicines out of the reach of children.
 
@@ -135,6 +135,8 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Distributed by: CivicaScript, LLC Lehi, Utah 84043
 
-Manufactured by: The Arab Pharmaceuticals Manufacturing Company Sahab - Jordan
+Manufactured by: Arab Pharmaceuticals Manufacturing PSC
 
-2INBAIMC-E Revised April 2022
+PO Box 41 Sahab - Jordan
+
+2INABI250TMC-E Revised: November 2023
