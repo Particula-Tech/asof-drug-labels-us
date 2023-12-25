@@ -13,6 +13,7 @@ The following serious adverse reactions are described, or described in greater d
 - •Gastrointestinal Adverse Reactions (see WARNINGS)
 - •Seizures (see WARNINGS)
 - •Withdrawal (see WARNINGS)
+- •Hypoglycemia (see WARNINGS)
 
 The following adverse reactions associated with the use of methadone were identified in clinical studies or post-marketing reports.
 Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -54,4 +55,8 @@ Adrenal Insufficiency: Cases of adrenal insufficiency have been reported with op
 
 Anaphylaxis: Anaphylaxis has been reported with ingredients contained in Methadone Hydrochloride Injection.
 
-Androgen Deficiency: Cases of androgen deficiency have occurred with chronic use of opioids.
+Androgen Deficiency: Cases of androgen deficiency have occurred with use of opioids for an extended period of time.
+
+Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration (see WARNINGS).
+
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking methadone (see WARNINGS).

@@ -23,13 +23,17 @@ Consider the following important factors that differentiate methadone from other
   Population-based equianalgesic conversion ratios between methadone and other opioids are not accurate when applied to individuals.
 - •The duration of analgesic action of methadone is 4 to 8 hours (based on single-dose studies) but the plasma elimination half-life is 8 to 59 hours.
 - •With repeated dosing, the potency of methadone increases due to systemic accumulation.
-- •Steady-state plasma concentrations, and full analgesic effects, are not attained until at least 3 to 5 days on a dose, and may take longer in some patients.
+- •Steady-state plasma concentrations, and full analgesic effects, are not attained until at least 3 to 5 days on a dose and may take longer in some patients.
 
-Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals (see WARNINGS).
+Methadone Hydrochloride Injection should be prescribed only by healthcare professionals who are knowledgeable about the use of extended-release/long-acting opioids and how to mitigate the associated risks.
 
-Initiate the dosing regimen for each patient individually, taking into account the patient’s severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse (see WARNINGS).
+Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals (see WARNINGS).
+Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of Methadone Hydrochloride Injection for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
 
-Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with Methadone Hydrochloride Injection and adjust the dosage accordingly (see WARNINGS).
+Initiate the dosing regimen for each patient individually, taking into account the patient’s underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse (see WARNINGS).
+
+Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with Methadone Hydrochloride Injection.
+Consider this risk when selecting an initial dose and when making dose adjustments (see WARNINGS).
 
 Methadone Hydrochloride Injection multiple-dose vials may be administered intravenously, subcutaneously or intramuscularly.
 The absorption of subcutaneous and intramuscular methadone has not been well characterized and appears to be unpredictable.

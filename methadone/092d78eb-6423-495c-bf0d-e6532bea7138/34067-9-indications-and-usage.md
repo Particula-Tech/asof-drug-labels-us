@@ -1,9 +1,9 @@
 # INDICATIONS AND USAGE
 
-1. 1.For the management of pain severe enough to require an opioid analgesic and for which alternative treatment options are inadequate.
-   Limitations of Use Because of the risks of addiction, abuse, and misuse with opioids, even at recommended doses (see WARNINGS: Addiction, Abuse, and Misuse) reserve Methadone Hydrochloride Injection for use in patients for whom alternative treatment options [e.g., non-opioid analgesics or opioid combination products]:
-   1. •Have not been tolerated, or are not expected to be tolerated,
-   2. •Have not provided adequate analgesia, or are not expected to provide adequate analgesia.
+1. 1.Methadone Hydrochloride Injection is indicated for the management of severe and persistent pain that requires an extended treatment period with a daily opioid analgesic and for which alternative treatment options are inadequate.
+   Limitations of Use
+   1. •Because of the risks of addiction, abuse, and misuse with opioids, which can occur at any dosage or duration, and because of the greater risks of overdose and death with extended-release/long-acting opioid formulations, (see WARNINGS) reserve Methadone Hydrochloride Injection for use in patients for whom alternative treatment options (e.g., nonopioid analgesics or immediate-release opioids) are ineffective, not tolerated, or would be otherwise inadequate to provide sufficient management of pain.
+   2. •Methadone Hydrochloride Injection is not indicated as an as-needed (prn) analgesic.
 2. 2.For use in temporary treatment of opioid dependence in patients unable to take oral medication.
    Limitations of Use
    1. •Injectable methadone products are not approved for the outpatient treatment of opioid dependence.
