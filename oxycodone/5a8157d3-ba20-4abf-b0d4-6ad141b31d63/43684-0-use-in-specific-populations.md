@@ -2,16 +2,16 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
-Available data with ROXICODONE in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
+Risk Summary Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
+Available data with ROXICODONE in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage or adverse maternal outcomes.
 Animal reproduction studies with oral administrations of oxycodone HCl in rats and rabbits during the period of organogenesis at doses 2.6 and 8.1 times, respectively, the human dose of 60 mg/day did not reveal evidence of teratogenicity or embryo-fetal toxicity.
 In several published studies, treatment of pregnant rats with oxycodone at clinically relevant doses and below, resulted in neurobehavioral effects in offspring [see Data].
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+In the U.S. general population, the background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Clinical Considerations Fetal/Neonatal Adverse Reactions Prolonged use of opioid analgesics during pregnancy for medical or non-medical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Clinical Considerations Fetal/Neonatal Adverse Reactions Use of opioid analgesics for an extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
 Neonatal opioid withdrawal syndrome presents irritability, hyperactivity, and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid use, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
@@ -38,12 +38,12 @@ Lactation studies have not been conducted with ROXICODONE, and no information is
 
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ROXICODONE and any potential adverse effects on the breastfed infant from ROXICODONE or from the underlying maternal condition.
 
-Clinical Considerations Infants exposed to ROXICODONE through breast milk should be monitored for excess sedation and respiratory depression.
+Clinical Considerations Monitor infants exposed to ROXICODONE through breast milk for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped or when breastfeeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Infertility Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+Infertility Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2)].
 
 ## 8.4 Pediatric Use
@@ -59,19 +59,19 @@ Elderly patients (aged 65 years or older) may have increased sensitivity to oxyc
 In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of ROXICODONE slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.7)].
+Titrate the dosage of ROXICODONE slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.2)].
 
 Oxycodone is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
 
 ## 8.6 Hepatic Impairment
 
 Because oxycodone is extensively metabolized in the liver, its clearance may decrease in patients with hepatic impairment.
 Initiate therapy in these patients with a lower than usual dosage of ROXICODONE and titrate carefully.
-Monitor closely for adverse events such as respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
+Regularly evaluate for adverse events such as respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
 Because oxycodone is known to be substantially excreted by the kidney, its clearance may decrease in patients with renal impairment.
 Initiate therapy with a lower than usual dosage of ROXICODONE and titrate carefully.
-Monitor closely for adverse events such as respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
+Regularly evaluate for adverse events such as respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
