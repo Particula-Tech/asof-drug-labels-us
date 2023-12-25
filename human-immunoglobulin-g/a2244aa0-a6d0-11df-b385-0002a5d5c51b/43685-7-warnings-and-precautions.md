@@ -2,7 +2,7 @@
 
 ## 5.1 Thrombosis
 
-Thrombosis may occur following treatment with immune globulin (IGIV) products, including BIVIGAM.
+Thrombosis may occur following treatment with immune globulin products (IGIV), including BIVIGAM.
 4,5,6 Risk factors may include: advanced age, prolonged immobilization, hypercoagulable conditions, history of venous or arterial thrombosis, use of estrogens, indwelling central vascular catheters, hyperviscosity and cardiovascular risk factors.
 Thrombosis may occur in the absence of known risk factors
 
@@ -25,16 +25,15 @@ BIVIGAM is contraindicated in IgA deficient patients with antibodies against IgA
 
 Acute renal dysfunction/failure, osmotic nephrosis, and death 1,2 may occur upon use of human IGIV products.
 Ensure that patients are not volume depleted before administering BIVIGAM.
-Periodic monitoring of renal function and urine output is particularly important in patients judged to be at increased risk of developing acute renal failure.
-2 Assess renal function, including measurement of blood urea nitrogen (BUN) and serum creatinine, before the initial infusion of BIVIGAM and at appropriate intervals thereafter.
+Periodic monitoring of renal function and urine output is particularly important in patients judged to be at increased risk of developing acute renal failure 2.
+Assess renal function, including measurement of blood urea nitrogen (BUN) and serum creatinine, before the initial infusion of BIVIGAM and at appropriate intervals thereafter.
 If renal function deteriorates, consider discontinuing BIVIGAM (see Patient Counseling Information [17.1]).
 In patients who are at risk of developing renal dysfunction, because of pre-existing renal insufficiency or predisposition to acute renal failure (such as diabetes mellitus, hypovolemia, overweight, use of concomitant nephrotoxic medicinal products or age of >65 years), administer BIVIGAM at the minimum infusion rate practicable (see Dosage and Administration [2.3]).
 
 ## 5.4 Hyperproteinemia, Increased Serum Viscosity, and Hyponatremia
 
 Hyperproteinemia, increased serum viscosity, and hyponatremia may occur in patients receiving IGIV therapy, including BIVIGAM.
-It is critical to clinically distinguish true hyponatremia from a pseudohyponatremia that is associated with or causally related to hyperproteinemia with concomitant decreased calculated serum osmolality or elevated osmolar gap, because treatment aimed at decreasing serum free water in patients with pseudohyponatremia may lead to volume depletion, a further increase in serum viscosity, and a possible predisposition to thrombotic events.
-3
+It is critical to clinically distinguish true hyponatremia from a pseudohyponatremia that is associated with or causally related to hyperproteinemia with concomitant decreased calculated serum osmolality or elevated osmolar gap, because treatment aimed at decreasing serum free water in patients with pseudohyponatremia may lead to volume depletion, a further increase in serum viscosity, and a possible predisposition to thrombotic events 3.
 
 ## 5.5 Aseptic Meningitis Syndrome (AMS)
 
@@ -60,7 +59,7 @@ If transfusion is indicated for patients who develop hemolysis with clinically c
 
 ## 5.7 Transfusion-Related Acute Lung Injury (TRALI)
 
-Noncardiogenic pulmonary edema may occur in patients following IGIV treatment 14including BIVIGAM.
+Noncardiogenic pulmonary edema may occur in patients following IGIV treatment 14 including BIVIGAM.
 TRALI is characterized by severe respiratory distress, pulmonary edema, hypoxemia, normal left ventricular function, and fever.
 Symptoms typically appear within 1 to 6 hours following treatment.
 

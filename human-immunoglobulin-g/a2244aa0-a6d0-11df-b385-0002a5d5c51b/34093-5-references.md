@@ -40,14 +40,9 @@
 16. Salisbury D, Ramsay M, Noakes K, eds.
     Immunisation against infectious disease.
     The Stationery Office (TSO), London: UK Department of Health; 2009:426.
-17. Hammarstrom L, Smith CIE.
-    Placental transfer of intravenous immunoglobulin.
-    Lancet 1986; 1:681.
-18. Sidiropoulos D, Herrmann U, Morell A, von Muralt G, Barandun S. Transplacental passage of intravenous immunoglobulin in the last trimester of pregnancy.
-    J Pediatr 1986; 109:505-508.
-19. Skvaril F. Qualitative and quantitative aspects of IgG subclasses in i.v. immunoglobulin preparations.
+17. Skvaril F. Qualitative and quantitative aspects of IgG subclasses in i.v. immunoglobulin preparations.
     In: Nydegger UE, ed.
     Immunotherapy.
     London: Academic Press; 1981:118-122.
-20. French M. Serum IgG subclasses in normal adults.
+18. French M. Serum IgG subclasses in normal adults.
     Monogr Allergy 1986, 19:100-107.

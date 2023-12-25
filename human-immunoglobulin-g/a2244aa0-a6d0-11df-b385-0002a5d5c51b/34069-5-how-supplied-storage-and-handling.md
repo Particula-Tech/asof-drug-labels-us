@@ -10,7 +10,7 @@ BIVIGAM is supplied in the following sizes:
 | 69800-6502-1 | 50mL | 5 |
 | 69800-6503-1 | 100mL | 10 |
 
-Storage Store at 2 to 8°C (36 - 46°F) for up to 36 months from date of manufacture.
+Storage Store at 2 to 8°C (36 to 46°F) for up to 36 months from date of manufacture.
 Do not freeze.
 
 Within the first 24 months of shelf-life, product may be stored up to 4 weeks at ≤ 25°C (77°F).

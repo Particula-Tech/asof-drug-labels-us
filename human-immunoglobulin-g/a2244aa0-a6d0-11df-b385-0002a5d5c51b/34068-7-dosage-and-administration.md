@@ -26,7 +26,7 @@ For Intravenous Use Only
 As there are significant differences in the half-life of IgG among patients with primary humoral immunodeficiency, the frequency and amount of immunoglobulin therapy may vary from patient to patient.
 The proper amount can be determined by monitoring clinical response.
 
-The recommended dose of BIVIGAM for replacement therapy in primary humoral immunodeficiency (PI) is 300 to 800 mg/kg body weight administered every 3 to 4 weeks.
+The recommended dose of BIVIGAM for replacement therapy in primary humoral immunodeficiency in adults and children 2 years of age and older, is 300 to 800 mg/kg body weight administered every 3 to 4 weeks.
 The dosage may be adjusted over time to achieve the desired trough levels and clinical response.
 
 BIVIGAM dose adjustments may be required in patients who fail to maintain trough total IgG concentrations of at least 500 mg/dL with a target of 600 mg/dL.

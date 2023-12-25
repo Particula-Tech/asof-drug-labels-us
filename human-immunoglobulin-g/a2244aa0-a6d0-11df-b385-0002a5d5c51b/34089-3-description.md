@@ -18,17 +18,17 @@ In compliance with current guidelines, the steps have been separately validated 
 
 Precipitation and removal of fraction III removes both enveloped and non-enveloped viruses, solvent/detergent treatment represents a virus inactivation step for enveloped viruses, and 35 nm virus filtration removes both enveloped and non-enveloped viruses by size exclusion.
 In addition to the steps above, low pH during several steps of the production process contributes to virus inactivation.
-The results of virus validation studies for BIVIGAM are shown in Table 3, expressed as log 10 reduction factors.
+The results of virus validation studies for BIVIGAM are shown in Table 4, expressed as log 10 reduction factors.
 
-Table 3: Virus Validation Data for BIVIGAM
+Table 4: Virus Removal/Inactivation (log10)
 
-|  | Virus Removal/Inactivation (log 10) |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Virus type Family | Enveloped viruses |  |  |  |  | Non-enveloped viruses |  |  |  |
-| Retro | Flavi |  |  | Herpes | Picorna | Parvo |  | Polyoma |  |
 | Step/Virus | HIV | BVDV | SinV | WNV | PRV | MEV | BPV | PPV | SV40 |
-| Precipitation and Removal of Fraction III and Depth Filtration | -- | 1.87* | -- | -- | -- | 5.29 | -- | 4.00 | 2.00* |
-| TNBP/Triton X-100 Treatment | > 4.43 | > 5.04 | > 7.11 | > 4.96 | > 4.01 | -- | -- | -- | -- |
-| 35 nm Virus Filtration | > 5.19 | > 4.88 | -- | -- | > 4.64 | <1.0 | 6.18 | < 1.0 | > 5.02 |
-| Total Clearance | > 9.62 | > 11.79 | > 7.11 | > 4.96 | > 8.65 | 5.29 | 6.18 | 4.00 | > 7.02 |
-| * without depth filtration -- not done values below 1 log 10 are considered as insignificant and are not used for total clearance; HIV, human immunodeficiency virus; BVDV, Bovine viral diarrhea virus, model virus for HCV; SinV, Sindbis virus, model virus for HCV; WNV, West Nile virus; PRV, Pseudorabies virus, model virus for herpes viruses and Hepatitis B virus; MEV, Murine encephalomyelitis virus, model virus for hepatitis A virus; BPV, Bovine parvovirus, model virus for human B19 virus; PPV, Porcine parvovirus, model virus for human B19 virus; SV40, Simian virus 40, model virus for highly resistant non-enveloped viruses |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Virus Type | Enveloped | Enveloped | Enveloped | Enveloped | Enveloped | Non-enveloped | Non-enveloped | Non-enveloped | Non-enveloped |
+| Virus Family | Retro | Flavi | Flavi | Flavi | Herpes | Picorna | Parvo | Parvo | Polyoma |
+| Precipitation and Removal of Fraction III and DepthFiltration | -- | 1.87* | -- | -- | -- | 5.29 | -- | 4.00 | 2.00* |
+| TNBP/Triton X- 100Treatment | > 4.43 | > 5.04 | > 7.11 | > 4.96 | > 4.01 | -- | -- | -- | -- |
+| 35 nm Virus Filtration | > 5.19 | > 4.88 | -- | -- | >4.64 | <1.0 | 6.18 | <1.0 | > 5.02 |
+| Total Clearance | > 9.62 | > 11.79 | > 7.11 | > 4.96 | >8.65 | 5.29 | 6.18 | 4.00 | >7.02 |
+
+* without depth filtration -- not done values below 1 log 10 are considered as insignificant and are not used for total clearance; HIV, human immunodeficiency virus; BVDV, Bovine viral diarrhea virus, model virus for HCV; SinV, Sindbis virus, model virus for HCV; WNV, West Nile virus; PRV, Pseudorabies virus, model virus for herpes viruses and Hepatitis B virus; MEV, Murine encephalomyelitis virus, model virus for hepatitis A virus; BPV, Bovine parvovirus, model virus for human B19 virus; PPV, Porcine parvovirus, model virus for human B19 virus; SV40, Simian virus 40, model virus for highly resistant non- enveloped viruses.

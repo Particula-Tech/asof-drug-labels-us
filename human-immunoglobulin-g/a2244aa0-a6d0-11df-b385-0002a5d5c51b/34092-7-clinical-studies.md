@@ -25,9 +25,9 @@ The two SBIs were cases of bacterial pneumonia.
 Thirty-three percent of subjects had days off work or school due to an infection.
 Of the 197 infections reported, 2 resulted in hospitalization.
 Results for the pediatric subjects were similar to those for the adult subjects.
-(see Table 5).
+(see Table 7).
 
-Table 5: Summary of Efficacy Results in Subjects with PI
+Table 7: Summary of Efficacy Results in Subjects with PI
 
 | Number of Subjects (ITT Population) | 58 |  |
 | --- | --- | --- |
@@ -48,4 +48,20 @@ Table 5: Summary of Efficacy Results in Subjects with PI
 | Number of subjects (%) | 2 (3.4%) |  |
 | Number of Days | 11 (0.06%) |  |
 | Days per subject per year | 0.21 |  |
-| SBI = serious bacterial infections. aPerson-years: Person-time in years with 2 decimals = (the Final Clinical Visit Date - the Day 0 date+1) / 365.25, where the final clinical visit date is defined as the specimen collection date of the final clinical visit for urinalysis, or the specimen collection date for the clinical laboratory tests at the final clinical visit and Day 0 date is the start date of the first BIVIGAM infusion. b Defined as bacterial pneumonia, bacterial meningitis, bacteremia/septicemia, osteomyelitis/septic arthritis, and visceral abscess. c The calculation of antibiotic use excludes 8 subjects who were on antibiotics throughout the study either prophylactically or for ongoing or recurrent conditions. |  |  |
+| SBI = serious bacterial infections. a Person-years: Person-time in years with 2 decimals = (the Final Clinical Visit Date - the Day 0 date+1) / 365.25, where the final clinical visit date is defined as the specimen collection date of the final clinical visit for urinalysis, or the specimen collection date for the clinical laboratory tests at the final clinical visit and Day 0 date is the start date of the first BIVIGAM infusion. b Defined as bacterial pneumonia, bacterial meningitis, bacteremia/septicemia, osteomyelitis/septic arthritis, and visceral abscess. c The calculation of antibiotic use excludes 8 subjects who were on antibiotics throughout the study either prophylactically or for ongoing or recurrent conditions. |  |  |
+
+Pediatric Only Study
+
+A prospective, open-label, single-arm, multi-center study evaluating the safety, efficacy, and PK of BIVIGAM was conducted in 16 pediatric subjects; 3 subjects ≥2 to <6, 5 subjects ≥6 to <12, and 8 subjects ≥12 to ≤16 years, with confirmed and documented clinical diagnosis of PID, including hypogammaglobulinemia or agammaglobulinemia.
+Of the 16 subjects enrolled, all (100%) were male, and the majority (80%) were white.
+
+Subjects received a BIVIGAM infusion administrated every 3 or 4 weeks (based on the dose and schedule depending on their prior treatment regimen) for approximately 5 months.
+Average BIVIGAM doses administered (all infusions, both infusion regimens combined, values rounded) ranged from 368 to 1077 mg/kg in the 2 to <6 years age group, from 312 to 693 mg/kg in the 6 to <12 years age group and from 350 to 795 mg/kg in the 12 to 16 years age group.
+
+The efficacy analysis is based on the incidence of acute serious bacterial infections (SBIs).
+SBIs encompass bacteremia/sepsis, bacterial meningitis, osteomyelitis/septic arthritis, bacterial pneumonia, or visceral abscess.
+No acute SBIs occurred during the mean observation period of 152 days, yielding a mean number of acute SBI episodes per person-year of 0.0.
+No other serious infections, or hospitalizations due to infections occurred, and no subjects required IV antibiotics during the study.
+
+Trough Total IgG levels were maintained above 500 mg/dL in all subjects throughout the study.
+There were no apparent differences in the Total IgG or subclass concentrations before the first and last infusions.

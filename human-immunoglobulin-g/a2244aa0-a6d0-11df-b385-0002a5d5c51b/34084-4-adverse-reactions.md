@@ -22,7 +22,7 @@ The total number of adverse reactions was 431 (a rate of 0.58 ARs per infusion).
 
 Table 2: Adverse Reactions (ARs) (within 72 hours after the end of a BIVIGAM infusion) in ≥5% of Subjects
 
-| ARs | No. Subjects Reporting ARs (% of Subjects) [n=63] | No. Infusions With ARs (% of Infusions) [n=746] |
+| ARs | No. Subjects Reporting ARs(% of Subjects)[n=63] | No. Infusions With ARs(% of Infusions)[n=746] |
 | --- | --- | --- |
 | Headache | 27 (43%) | 115 (15.4%) |
 | Fatigue | 15 (24%) | 59 (7.9%) |
@@ -39,7 +39,8 @@ Table 2: Adverse Reactions (ARs) (within 72 hours after the end of a BIVIGAM inf
 | Migraine | 3 (5%) | 8 (1.1%) |
 | Myalgia | 3 (5%) | 4 (0.5%) |
 | Pharyngolaryngeal Pain | 3 (5%) | 3 (0.4%) |
-| aSymptoms occurring under pre-existing fibromyalgia |  |  |
+
+a Symptoms occurring under pre-existing fibromyalgia
 
 Seven subjects (11.1%) experienced 11 serious ARs.
 Two of these were related serious ARs (vomiting and dehydration) that occurred in one subject.
@@ -52,8 +53,29 @@ During the study, no subjects showed clinical evidence of hemolytic anemia.
 No cases of transmission of viral diseases or CJD have been associated with the use of BIVIGAM.
 During the clinical trial no subjects tested positive for infection due to human immunodeficiency virus (HIV), hepatitis B virus (HBV), or hepatitis C virus (HCV).
 There was a single positive finding for parvovirus (B19 virus) during the study.
-This subject came in contact with acute B19 virus from working at a school greeting children where a child was reported to have symptomatic Fifth's disease.
+This subject came in contact with acute B19 virus from working at a school, greeting children, where a child was reported to have symptomatic Fifth's disease.
 There was no cluster (no other cases in other subjects) of B19 virus transmission with the IGIV batch concerned.
+
+Pediatric Only Study
+
+In a prospective, open-label, single-arm, multi-center study, 16 children and adolescents with PI received doses of BIVIGAM ranging from 300 to 800 mg/kg every 3-weeks (±7 days) days (actual doses ranged from 350 mg/kg to 1077 mg/kg) or 4-weeks (±7 days) (actual doses ranged from 312 mg/kg to 693 mg/kg), for up to 5 months.
+
+In this study, four subjects (25.0%) experienced a total of 9 adverse reactions.
+Adverse reactions (ARs) are those occurring during or within 72 hours after the end of an infusion.
+All ARs were of mild (3 events) or moderate severity (6 events).
+No infusion site reactions occurred during the study.
+No deaths and no treatment-related SAEs occurred during the study.
+Seven of the 96 (7.3%) BIVIGAM infusions administered were temporally associated with an adverse reaction.
+Two infusions were associated with more than one AR.
+
+Table 3: Adverse Reactions (ARs) within 72 hours after the end of a BIVIGAM Infusion
+
+| Adverse Reaction (AR) | Number of Subjects Reporting AR (n=16) | % of Subjects Reporting AR (n=16) | Number of Infusions with AR (n=96) | % of Infusions with AR (n=96) |
+| --- | --- | --- | --- | --- |
+| Fatigue | 1 | 6 | 2 | 2 |
+| Headache | 3 | 19 | 5 | 5 |
+| Nausea | 1 | 6 | 1 | 1 |
+| Rash | 1 | 6 | 1 | 1 |
 
 ## 6.2 Postmarketing Experience
 
