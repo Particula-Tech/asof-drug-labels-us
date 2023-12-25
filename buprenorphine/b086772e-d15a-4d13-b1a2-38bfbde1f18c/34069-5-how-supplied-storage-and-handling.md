@@ -12,4 +12,4 @@ Manufactured by:
 
 Reckitt Benckiser Healthcare (UK) Ltd., Hull, England, HU8 7DS Distributed by: Indivior Inc., North Chesterfield, VA 23235
 
-Revised June 2022
+Revised December 2023

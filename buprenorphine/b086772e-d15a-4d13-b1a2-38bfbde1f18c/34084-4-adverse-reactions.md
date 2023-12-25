@@ -52,4 +52,9 @@ Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening 
 
 Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
-Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see CLINICAL PHARMACOLOGY: Pharmacodynamics].
+Androgen deficiency: Cases of androgen deficiency have occurred with use of opioids for an extended period of time [see CLINICAL PHARMACOLOGY: Pharmacodynamics].
+
+Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see WARNINGS].
+
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking opioids.
+Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).
