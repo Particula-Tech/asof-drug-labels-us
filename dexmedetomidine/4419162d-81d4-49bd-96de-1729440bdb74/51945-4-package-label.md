@@ -13,11 +13,10 @@ For Intravenous Use
 
 # PRINCIPAL DISPLAY PANEL - 50 mL Bottle Tray
 
-20 Units X 50 mL Rx only NDC 0409-1454-20
+20 Units X 50 mL Rx only NDC 0409-1454-20 Contains 20 of NDC 0409-1454-01
 
 Single-dose bottle.
 Discard unused portion.
-Contains 20 of NDC 0409-1454-01
 
 Precedex™ Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
 
@@ -40,12 +39,10 @@ Precedex™ Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
 
 # PRINCIPAL DISPLAY PANEL - 20 mL Vial Carton
 
-10 units X 20 mL Rx only NDC 0409-3301-10
+10 units X 20 mL Rx only NDC 0409-3301-10 Contains 10 of NDC 0409-3301-01
 
 Single-dose vial.
 Discard unused portion.
-Contains 10 of NDC 0409-3301-01
-
 Precedex™ Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
 
 80 mcg/20 mL (4 mcg/mL)
@@ -69,7 +66,7 @@ For Intravenous Use
 
 # PRINCIPAL DISPLAY PANEL - 100 mL Bottle Tray
 
-10 Units X 100 mL Rx only NDC 0409-1174-10
+10 Units X 100 mL Rx only NDC 0409-1174-10 Contains 10 of NDC 0409-1174-01
 
 Single-dose bottle.
 Discard unused portion.
