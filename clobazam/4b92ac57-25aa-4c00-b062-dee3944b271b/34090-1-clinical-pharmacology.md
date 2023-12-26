@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The exact mechanism of action for clobazam, a 1,5-benzodiazepine, is not fully understood but is thought to involve potentiation of GABAergic neurotransmission resulting from binding at the benzodiazepine site of the GABA A receptor.
+The exact mechanism of action for clobazam, a 1,5-benzodiazepine, is not fully understood but is thought to involve potentiation of GABAergic neurotransmission resulting from binding at the benzodiazepine site of the GABA Areceptor.
 
 ## 12.2 Pharmacodynamics
 
@@ -24,22 +24,22 @@ Absorption
 Clobazam is rapidly and extensively absorbed following oral administration.
 The time to peak concentrations (T max) of clobazam tablets under fasted conditions ranged from 0.5 hour to 4 hours after single- or multiple-dose administrations.
 The relative bioavailability of clobazam tablets compared to an oral solution is approximately 100%.
-After single dose administration of the oral suspension under fasted conditions, the T max ranged from 0.5 hour to 2 hours.
-Based on exposure (C max and AUC) of clobazam, clobazam tablets and suspension were shown to have similar bioavailability under fasted conditions.
+After single dose administration of the oral suspension under fasted conditions, the T maxranged from 0.5 hour to 2 hours.
+Based on exposure (C maxand AUC) of clobazam, clobazam tablets and suspension were shown to have similar bioavailability under fasted conditions.
 The administration of clobazam tablets with food or when crushed in applesauce does not affect absorption.
 Although not studied, the oral bioavailability of the oral suspension is unlikely to be affected under fed conditions.
 
 Distribution
 
 Clobazam is lipophilic and distributes rapidly throughout the body.
-The apparent volume of distribution at steady state was approximately 100 L. The in vitro plasma protein binding of clobazam and N-desmethylclobazam is approximately 80% to 90% and 70%, respectively.
+The apparent volume of distribution at steady state was approximately 100 L. The in vitroplasma protein binding of clobazam and N-desmethylclobazam is approximately 80% to 90% and 70%, respectively.
 
 Metabolism and Excretion
 
 Clobazam is extensively metabolized in the liver, with approximately 2% of the dose recovered in urine and 1% in feces as unchanged drug.
 The major metabolic pathway of clobazam involves N-demethylation, primarily by CYP3A4 and to a lesser extent by CYP2C19 and CYP2B6.
 N-desmethylclobazam, an active metabolite, is the major circulating metabolite in humans, and at therapeutic doses, plasma concentrations are 3 times to 5 times higher than those of the parent compound.
-Based on animal and in vitro receptor binding data, estimates of the relative potency of N-desmethylclobazam compared to parent compound range from 1/5 to equal potency.
+Based on animal and in vitroreceptor binding data, estimates of the relative potency of N-desmethylclobazam compared to parent compound range from 1/5 to equal potency.
 N-desmethylclobazam is extensively metabolized, mainly by CYP2C19.
 N-desmethylclobazam and its metabolites comprise ~94% of the total drug-related components in urine.
 Following a single oral dose of radiolabeled drug, approximately 11% of the dose was excreted in the feces and approximately 82% was excreted in the urine.
@@ -65,14 +65,14 @@ Population pharmacokinetic analyses including Caucasian (75%), African American 
 Renal Impairment
 
 The effect of renal impairment on the pharmacokinetics of clobazam was evaluated in patients with mild (creatinine clearance [CL CR] > 50 mL/min to 80 mL/min; N = 6) and moderate (CL CR = 30 mL/min to 50 mL/min; N = 6) renal dysfunction, with matching healthy controls (N = 6), following administration of multiple doses of clobazam 20 mg/day.
-There were insignificant changes in C max (3% to 24%) and AUC (≤ 13%) for clobazam or N-desmethylclobazam in patients with mild or moderate renal impairment compared to patients with normal renal function.
+There were insignificant changes in C max(3% to 24%) and AUC (≤ 13%) for clobazam or N-desmethylclobazam in patients with mild or moderate renal impairment compared to patients with normal renal function.
 Patients with severe renal impairment or ESRD were not included in this study.
 
 Hepatic Impairment
 
 There are limited data to characterize the effect of hepatic impairment on the pharmacokinetics of clobazam.
 In a small study, the pharmacokinetics of a 20 mg single oral dose of clobazam in 9 patients with liver impairment were compared to healthy controls (N = 6).
-The C max and the mean plasma clearance of clobazam, as well as the C max of N-desmethylclobazam, showed no significant change compared to the healthy controls.
+The C maxand the mean plasma clearance of clobazam, as well as the C maxof N-desmethylclobazam, showed no significant change compared to the healthy controls.
 The AUC values of N-desmethylclobazam in these patients were not available.
 Adjust dosage in patients with hepatic impairment [see Dosage and Administration (2.7)].
 
@@ -95,10 +95,10 @@ Potential for Clobazam to Affect Other Drugs
 
 The effect of repeated 40 mg once-daily doses of clobazam on the pharmacokinetic profiles of single-dose dextromethorphan (CYP2D6 substrate), midazolam (CYP3A4 substrate), caffeine (CYP1A2 substrate), and tolbutamide (CYP2C9 substrate), was studied when these probe substrates were given as a drug cocktail (N = 18).
 
-Clobazam increased AUC and C max of dextromethorphan by 90% and 59%, respectively, reflecting its inhibition of CYP2D6 in vivo.
+Clobazam increased AUC and C maxof dextromethorphan by 90% and 59%, respectively, reflecting its inhibition of CYP2D6 in vivo.
 Drugs metabolized by CYP2D6 may require dose adjustment when used with clobazam.
 
-Clobazam decreased the AUC and C max of midazolam by 27% and 24%, respectively, and increased the AUC and C max of the metabolite 1-hydroxymidazolam by 4-fold and 2-fold, respectively.
+Clobazam decreased the AUC and C maxof midazolam by 27% and 24%, respectively, and increased the AUC and C maxof the metabolite 1-hydroxymidazolam by 4-fold and 2-fold, respectively.
 This level of induction does not call for dosage adjustment of drugs that are primarily metabolized by CYP3A4 when used concomitantly with clobazam.
 Some hormonal contraceptives are metabolized by CYP3A4 and their effectiveness may be diminished when given with clobazam [see Drug Interactions (7.3)].
 Repeated clobazam doses had no effect on caffeine and tolbutamide.
@@ -107,7 +107,7 @@ A population pharmacokinetic analysis indicated clobazam did not affect the expo
 
 Potential for Other Drugs to Affect Clobazam
 
-Co-administration of ketoconazole (a strong CYP3A4 inhibitor) 400 mg once-daily for 5 days increased clobazam AUC by 54%, with an insignificant effect on clobazam C max. There was no significant change in AUC and C max of N-desmethylclobazam (N = 18).
+Co-administration of ketoconazole (a strong CYP3A4 inhibitor) 400 mg once-daily for 5 days increased clobazam AUC by 54%, with an insignificant effect on clobazam C max. There was no significant change in AUC and C maxof N-desmethylclobazam (N = 18).
 
 Strong (e.g., fluconazole, fluvoxamine, ticlopidine) and moderate (e.g., omeprazole) inhibitors of CYP2C19 may result in up to a 5-fold increase in exposure to N-desmethylclobazam, the active metabolite of clobazam, based on extrapolation from pharmacogenomic data [see Clinical Pharmacology (12.5)].
 Dosage adjustment of clobazam may be necessary when co-administered with strong or moderate CYP2C19 inhibitors [see Drug Interactions (7.4)].
@@ -121,7 +121,7 @@ Alcohol may have additive CNS depressant effects when taken with clobazam [see W
 ## 12.5 Pharmacogenomics
 
 The polymorphic CYP2C19 is the main enzyme that metabolizes the pharmacologically active N-desmethylclobazam.
-Compared to CYP2C19 extensive metabolizers, N-desmethylclobazam AUC and C max are approximately 3 times to 5 times higher in poor metabolizers (e.g., subjects with *2/*2 genotype) and 2 times higher in intermediate metabolizers (e.g., subjects with *1/*2 genotype).
+Compared to CYP2C19 extensive metabolizers, N-desmethylclobazam AUC and C maxare approximately 3 times to 5 times higher in poor metabolizers (e.g., subjects with *2/*2 genotype) and 2 times higher in intermediate metabolizers (e.g., subjects with *1/*2 genotype).
 The prevalence of CYP2C19 poor metabolism differs depending on racial/ethnic background.
 Dosage in patients who are known CYP2C19 poor metabolizers may need to be adjusted [see Dosage and Administration (2.5)].
 

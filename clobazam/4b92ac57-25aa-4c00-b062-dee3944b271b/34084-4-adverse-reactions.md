@@ -9,6 +9,7 @@ Clinically significant adverse reactions that appear in other sections of the la
 - Somnolence or Sedation [see Warnings and Precautions (5.5)]
 - Serious Dermatological Reactions [see Contraindications (4), Warnings and Precautions (5.6)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.7)]
+- Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -69,22 +70,22 @@ Adverse Reactions Reported for ≥ 5% of Patients and More Frequently than Place
 These reactions are reported voluntarily from a population of uncertain size; therefore, it is not possible to estimate their frequency or establish a causal relationship to drug exposure.
 Adverse reactions are categorized by system organ class.
 
-Blood Disorders: Anemia, eosinophilia, leukopenia, thrombocytopenia
+Blood Disorders:Anemia, eosinophilia, leukopenia, thrombocytopenia
 
-Eye Disorders: Diplopia, vision blurred
+Eye Disorders:Diplopia, vision blurred
 
-Gastrointestinal Disorders: Abdominal distention
+Gastrointestinal Disorders:Abdominal distention
 
-General Disorders and Administration Site Conditions: Hypothermia
+General Disorders and Administration Site Conditions:Hypothermia
 
-Investigations: Hepatic enzyme increased
+Investigations:Hepatic enzyme increased
 
-Musculoskeletal: Muscle spasms
+Musculoskeletal:Muscle spasms
 
-Psychiatric Disorders: Agitation, anxiety, apathy, confusional state, depression, delirium, delusion, hallucination
+Psychiatric Disorders:Agitation, anxiety, apathy, confusional state, depression, delirium, delusion, hallucination
 
-Renal and Urinary Disorders: Urinary retention
+Renal and Urinary Disorders:Urinary retention
 
-Respiratory Disorders: Aspiration, respiratory depression
+Respiratory Disorders:Aspiration, respiratory depression
 
-Skin and Subcutaneous Tissue Disorders: Rash, urticaria, angioedema, and facial and lip edema
+Skin and Subcutaneous Tissue Disorders:Rash, urticaria, angioedema, and facial and lip edema

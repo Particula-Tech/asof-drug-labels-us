@@ -3,7 +3,7 @@
 ## 7.1 Opioids
 
 The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
-Benzodiazepines interact at GABA A sites, and opioids interact primarily at mu receptors.
+Benzodiazepines interact at GABA Asites, and opioids interact primarily at mu receptors.
 When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
 Limit dosage and duration of concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression and sedation [see Warnings and Precautions (5.1)].
 

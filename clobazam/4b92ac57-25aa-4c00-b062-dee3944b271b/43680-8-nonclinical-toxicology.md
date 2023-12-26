@@ -12,9 +12,9 @@ The low dose, not associated with an increase in tumors, was associated with pla
 
 Mutagenesis
 
-Clobazam and the major active metabolite, N-desmethylclobazam, were negative for genotoxicity, based on data from a battery of in vitro (bacteria reverse mutation, mammalian clastogenicity) and in vivo (mouse micronucleus) assays.
+Clobazam and the major active metabolite, N-desmethylclobazam, were negative for genotoxicity, based on data from a battery of in vitro(bacteria reverse mutation, mammalian clastogenicity) and in vivo(mouse micronucleus) assays.
 
 Impairment of Fertility
 
-In a fertility study in which clobazam (50 mg/kg/day, 350 mg/kg/day, or 750 mg/kg/day, corresponding to 12 times, 84 times and 181 times the oral Maximum Recommended Human Dose, MRHD, of 40 mg/day based on mg/m 2 body surface) was orally administered to male and female rats prior to and during mating and continuing in females to gestation day 6, increases in abnormal sperm and pre-implantation loss were observed at the highest dose tested.
+In a fertility study in which clobazam (50 mg/kg/day, 350 mg/kg/day, or 750 mg/kg/day, corresponding to 12 times, 84 times and 181 times the oral Maximum Recommended Human Dose, MRHD, of 40 mg/day based on mg/m 2body surface) was orally administered to male and female rats prior to and during mating and continuing in females to gestation day 6, increases in abnormal sperm and pre-implantation loss were observed at the highest dose tested.
 The no-effect level for fertility and early embryonic development in rats was associated with plasma exposures (AUC) for clobazam and its major active metabolite, N-desmethylclobazam, less than those in humans at the maximum recommended human dose of 40 mg/day.

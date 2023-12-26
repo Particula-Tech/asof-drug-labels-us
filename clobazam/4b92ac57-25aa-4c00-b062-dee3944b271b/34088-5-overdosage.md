@@ -1,15 +1,17 @@
 # 10 OVERDOSAGE
 
-## 10.1 Signs and Symptoms of Overdosage
+Overdosage of benzodiazepines is characterized by central nervous system depression ranging from drowsiness to coma.
+In mild to moderate cases, symptoms can include drowsiness, confusion, dysarthria, lethargy, hypnotic state, diminished reflexes, ataxia, and hypotonia.
+Rarely, paradoxical or disinhibitory reactions (including agitation, irritability, impulsivity, violent behavior, confusion, restlessness, excitement, and talkativeness) may occur.
+In severe overdosage cases, patients may develop respiratory depression and coma.
+Overdosage of benzodiazepines in combination with other CNS depressants (including alcohol and opioids) may be fatal [see Warnings and Precautions (5.2)].
+Markedly abnormal (lowered or elevated) blood pressure, heart rate, or respiratory rate raise the concern that additional drugs and/or alcohol are involved in the overdosage.
 
-Overdose and intoxication with benzodiazepines, including clobazam, may lead to CNS depression, associated with drowsiness, confusion and lethargy, possibly progressing to ataxia, respiratory depression, hypotension, and, rarely, coma or death.
-The risk of a fatal outcome is increased in cases of combined poisoning with other CNS depressants, including opioids and alcohol.
+In managing benzodiazepine overdosage, employ general supportive measures, including intravenous fluids and airway maintenance.
+Flumazenil, a specific benzodiazepine receptor antagonist indicated for the complete or partial reversal of the sedative effects of benzodiazepines in the management of benzodiazepine overdosage, can lead to withdrawal and adverse reactions, including seizures, particularly in the context of mixed overdosage with drugs that increase seizure risk (e.g., tricyclic and tetracyclic antidepressants) and in patients with long-term benzodiazepine use and physical dependency.
+The risk of withdrawal seizures with flumazenil may be increased in patients with epilepsy.
+Flumazenil is contraindicated in patients who have received a benzodiazepine for control of a potentially life-threatening condition (e.g., status epilepticus).
+If the decision is made to use flumazenil, it should be used as an adjunct to, not as a substitute for, supportive management of benzodiazepine overdosage.
+See the flumazenil injection Prescribing Information.
 
-## 10.2 Management of Overdosage
-
-The management of clobazam overdose may include gastric lavage and/or administration of activated charcoal, intravenous fluid replenishment, early control of airway and general supportive measures, in addition to monitoring level of consciousness and vital signs.
-Hypotension can be treated by replenishment with plasma substitutes and, if necessary, with sympathomimetic agents.
-
-The efficacy of supplementary administration of physostigmine (a cholinergic agent) or of flumazenil (a benzodiazepine antagonist) in clobazam overdose has not been assessed.
-The administration of flumazenil in cases of benzodiazepine overdose can lead to withdrawal and adverse reactions.
-Its use in patients with epilepsy is typically not recommended.
+Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations.
