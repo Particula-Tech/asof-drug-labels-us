@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 Reactions to ropivacaine are characteristic of those associated with other amide-type local anesthetics.
 A major cause of adverse reactions to this group of drugs may be associated with excessive plasma levels, which may be due to overdosage, unintentional intravascular injection or slow metabolic degradation.
@@ -6,12 +6,14 @@ A major cause of adverse reactions to this group of drugs may be associated with
 The reported adverse events are derived from clinical studies conducted in the U.S. and other countries.
 The reference drug was usually bupivacaine.
 The studies used a variety of premedications, sedatives, and surgical procedures of varying length.
-A total of 3,988 patients have been exposed to ropivacaine hydrochloride at concentrations up to 1% in clinical trials.
+A total of 3,988 patients have been exposed to Ropivacaine Hydrochloride at concentrations up to 1% in clinical trials.
 Each patient was counted once for each type of adverse event.
 
-Incidence ≥5%
+Because clinical trials are conducted under widely conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-For the indications of epidural administration in surgery, cesarean section, postoperative pain management, peripheral nerve block, and local infiltration, the following treatment-emergent adverse events were reported with an incidence of ≥5% in all clinical studies (N=3988): hypotension (37%), nausea (24.8%), vomiting (11.6%), bradycardia (9.3%), fever (9.2%), pain (8%), postoperative complications (7.1%), anemia (6.1%), paresthesia (5.6%), headache (5.1%), pruritus (5.1%), and back pain (5%).
+Incidence ≥ 5%
+
+For the indications of epidural administration in surgery, cesarean section, postoperative pain management, peripheral nerve block, and local infiltration, the following treatment-emergent adverse events were reported with an incidence of ≥ 5% in all clinical studies (N=3988): hypotension (37%), nausea (24.8%), vomiting (11.6%), bradycardia (9.3%), fever (9.2%), pain (8%), postoperative complications (7.1%), anemia (6.1%), paresthesia (5.6%), headache (5.1%), pruritus (5.1%), and back pain (5%).
 
 Incidence 1 to 5%
 
@@ -19,13 +21,13 @@ Urinary retention, dizziness, rigors, hypertension, tachycardia, anxiety, oligur
 
 Incidence in Controlled Clinical Trials
 
-The reported adverse events are derived from controlled clinical studies with ropivacaine hydrochloride (concentrations ranged from 0.125% to 1% for ropivacaine hydrochloride and 0.25% to 0.75% for bupivacaine) in the U.S. and other countries involving 3,094 patients.
-Table 3A and 3B list adverse events (number and percentage) that occurred in at least 1% of ropivacaine hydrochloride- -treated patients in these studies.
-The majority of patients receiving concentrations higher than 5 mg/mL (0.5%) were treated with ropivacaine hydrochloride.
+The reported adverse events are derived from controlled clinical studies with Ropivacaine Hydrochloride (concentrations ranged from 0.125% to 1% Ropivacaine Hydrochloride and 0.25% to 0.75% for bupivacaine) in the U.S. and other countries involving 3,094 patients.
+Table 2 and Table 3 list adverse events (number and percentage) that occurred in at least 1% of Ropivacaine Hydrochloride-treated patients in these studies.
+The majority of patients receiving concentrations higher than 5 mg/mL (0.5%) were treated with Ropivacaine Hydrochloride.
 
-Table 3A: Adverse Events Reported in ≥1% of Adult Patients Receiving Regional or Local Anesthesia (Surgery, Labor, Cesarean Section, Postoperative Pain Management, Peripheral Nerve Block and Local Infiltration)
+1. Table 2 Adverse Events Reported in ≥1% of Adult Patients Receiving Regional or Local Anesthesia (Surgery, Labor, Cesarean Section, Postoperative Pain Management, Peripheral Nerve Block and Local Infiltration)
 
-| Adverse Reaction | Ropivacaine hydrochloridetotal N=1661 |  | Bupivacaine totalN=1433 |  |
+| Adverse Reaction | Ropivacaine Hydrochloridetotal N=1661 |  | Bupivacainetotal N=1433 |  |
 | --- | --- | --- | --- | --- |
 | N | % | N | % |  |
 | Hypotension | 536 | (32.3) | 408 | (28.5) |
@@ -48,11 +50,11 @@ Table 3A: Adverse Events Reported in ≥1% of Adult Patients Receiving Regional 
 | Breast disorder, breast-feeding | 21 | (1.3) | 12 | (0.8) |
 | Rhinitis | 18 | (1.1) | 13 | (0.9) |
 
-Table 3B: Adverse Events Reported in ≥1% of Fetuses or Neonates of Mothers Who Received Regional Anesthesia (Cesarean Section and Labor Studies)
+1. Table 3 Adverse Events Reported in ≥1% of Fetuses or Neonates of Mothers Who Received Regional Anesthesia (Cesarean Section and Labor Studies)
 
-| Adverse Reaction | Ropivacaine hydrochloridetotal N=639 |  | Bupivacainetotal N=573 |  |
+| Adverse Reaction | Ropivacaine Hydrochloridetotal N=639 |  | Bupivacainetotal N=573 |  |
 | --- | --- | --- | --- | --- |
-| N | (%) | N | (%) |  |
+| N | % | N | % |  |
 | Fetal bradycardia | 77 | (12.1) | 68 | (11.9) |
 | Neonatal jaundice | 49 | (7.7) | 47 | (8.2) |
 | Neonatal complication-NOS | 42 | (6.6) | 38 | (6.6) |
@@ -67,7 +69,7 @@ Table 3B: Adverse Events Reported in ≥1% of Fetuses or Neonates of Mothers Who
 
 Incidence <1%
 
-The following adverse events were reported during the ropivacaine hydrochloride clinical program in more than one patient (N=3988), occurred at an overall incidence of <1%, and were considered relevant:
+The following adverse events were reported during the Ropivacaine Hydrochloride clinical program in more than one patient (N=3988), occurred at an overall incidence of <1%, and were considered relevant:
 
 Application Site Reactions - injection site pain
 
@@ -99,21 +101,21 @@ Respiratory System - bronchospasm, coughing
 
 Skin Disorders - rash, urticaria
 
-Urinary System Disorders - urinary incontinence, micturition disorder Vascular - deep vein thrombosis, phlebitis, pulmonary embolism Vision - vision abnormalities
+Urinary System Disorders - urinary incontinence, micturition disorder
 
 Vascular - deep vein thrombosis, phlebitis, pulmonary embolism
 
 Vision - vision abnormalities
 
-For the indication epidural anesthesia for surgery, the 15 most common adverse events were compared between different concentrations of ropivacaine hydrochloride and bupivacaine.
-Table 4 is based on data from trials in the U.S. and other countries where ropivacaine hydrochloride was administered as an epidural anesthetic for surgery.
+For the indication epidural anesthesia for surgery, the 15 most common adverse events were compared between different concentrations of Ropivacaine Hydrochloride and bupivacaine.
+Table 4 is based on data from trials in the U.S. and other countries where Ropivacaine Hydrochloride was administered as an epidural anesthetic for surgery.
 
-Table 4: Common Events (Epidural Administration)
+Table 4 Common Events (Epidural Administration)
 
-| N | (%) | N | (%) | N | (%) | N | (%) | N | (%) |  |
+| Adverse Reaction | Ropivacaine Hydrochloride |  |  |  |  |  | Bupivacaine |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Reaction | Ropivacaine hydrochloride |  |  |  |  |  | Bupivacaine |  |  |  |
-| 5 mg/mL total N=256 |  | 7.5 mg/mL total N=297 |  | 10 mg/mL total N=207 |  | 5 mg/mL total N=236 |  | 7.5 mg/mL total N=174 |  |  |
+| 5 mg/mLtotal N=256 |  | 7.5 mg/mLtotal N=297 |  | 10 mg/mLtotal N=207 |  | 5 mg/mLtotal N=236 |  | 7.5 mg/mLtotal N=174 |  |  |
+| N | (%) | N | (%) | N | (%) | N | (%) | N | (%) |  |
 | hypotension | 99 | (38.7) | 146 | (49.2) | 113 | (54.6) | 91 | (38.6) | 89 | (51.1) |
 | nausea | 34 | (13.3) | 68 | (22.9) |  |  | 41 | (17.4) | 36 | (20.7) |
 | bradycardia | 29 | (11.3) | 58 | (19.5) | 40 | (19.3) | 32 | (13.6) | 25 | (14.4) |
@@ -122,23 +124,27 @@ Table 4: Common Events (Epidural Administration)
 | headache | 12 | (4.7) | 20 | (6.7) | 16 | (7.7) | 13 | (5.5) | 9 | (5.2) |
 | fever | 8 | (3.1) | 5 | (1.7) | 18 | (8.7) | 11 | (4.7) |  |  |
 | chills | 6 | (2.3) | 7 | (2.4) | 6 | (2.9) | 4 | (1.7) | 3 | (1.7) |
-| urinaryretention | 5 | (2) | 8 | (2.7) | 10 | (4.8) | 10 | (4.2) |  |  |
+| urinary retention | 5 | (2) | 8 | (2.7) | 10 | (4.8) | 10 | (4.2) |  |  |
 | paresthesia | 5 | (2) | 10 | (3.4) | 5 | (2.4) | 7 | (3) |  |  |
 | pruritus |  |  | 14 | (4.7) | 3 | (1.4) |  |  | 7 | (4) |
 
 Using data from the same studies, the number (%) of patients experiencing hypotension is displayed by patient age, drug and concentration in Table 5.
-In Table 6, the adverse events for ropivacaine hydrochloride are broken down by gender.
+In Table 6, the adverse events for Ropivacaine Hydrochloride are broken down by gender.
 
-Table 5: Effects of Age on Hypotension (Epidural Administration) Total N: Ropivacaine hydrochloride = 760, bupivacaine = 410
+Table 5 Effects of Age on Hypotension (Epidural Administration)
 
-| AGE | Ropivacaine hydrochloride |  |  |  |  |  | Bupivacaine |  |  |  |
+1. Total N: Ropivacaine Hydrochloride = 760, Bupivacaine = 410
+
+| AGE | Ropivacaine Hydrochloride |  |  |  |  |  | Bupivacaine |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5 mg/mL |  | 7.5 mg/mL |  | 10 mg/mL |  | 5 mg/mL |  | 7.5 mg/mL |  |  |
 | N | (%) | N | (%) | N | (%) | N | (%) | N | (%) |  |
 | < 65 | 68 | (32.2) | 99 | (43.2) | 87 | (51.5) | 64 | (33.5) | 73 | (48.3) |
 | ≥ 65 | 31 | (68.9) | 47 | (69.1) | 26 | (68.4) | 27 | (60) | 16 | (69.6) |
 
-Table 6: Most Common Adverse Events by Gender (Epidural Administration) Total N: Females = 405, Males = 355
+Table 6 Most Common Adverse Events by Gender (Epidural Administration)
+
+1. Total N: Females = 405, Males = 355
 
 | Adverse Reaction | Female |  | Male |  |
 | --- | --- | --- | --- | --- |
@@ -162,13 +168,13 @@ Systemic Reactions
 
 The most commonly encountered acute adverse experiences that demand immediate countermeasures are related to the central nervous system and the cardiovascular system.
 These adverse experiences are generally dose-related and due to high plasma levels that may result from overdosage, rapid absorption from the injection site, diminished tolerance or from unintentional intravascular injection of the local anesthetic solution.
-In addition to systemic dose-related toxicity, unintentional subarachnoid injection of drug during the intended performance of lumbar epidural block or nerve blocks near the vertebral column (especially in the head and neck region) may result in underventilation or apnea (“Total or High Spinal”).
+In addition to systemic dose-related toxicity, unintentional subarachnoid injection of drug during the intended performance of lumbar epidural block or nerve blocks near the vertebral column (especially in the head and neck region) may result in underventilation or apnea ("Total or High Spinal").
 Also, hypotension due to loss of sympathetic tone and respiratory paralysis or underventilation due to cephalad extension of the motor level of anesthesia may occur.
 This may lead to secondary cardiac arrest if untreated.
 Factors influencing plasma protein binding, such as acidosis, systemic diseases that alter protein production or competition with other drugs for protein binding sites, may diminish individual tolerance.
 
-Epidural administration of ropivacaine hydrochloride has, in some cases, as with other local anesthetics, been associated with transient increases in temperature to >38.5°C.
-This occurred more frequently at doses of ropivacaine hydrochloride >16 mg/h.
+Epidural administration of Ropivacaine Hydrochloride has, in some cases, as with other local anesthetics, been associated with transient increases in temperature to > 38.5°C.
+This occurred more frequently at doses of Ropivacaine Hydrochloride > 16 mg/h.
 
 Neurologic Reactions
 
@@ -187,19 +193,19 @@ During lumbar epidural block, occasional unintentional penetration of the subara
 Subsequent adverse effects may depend partially on the amount of drug administered intrathecally as well as the physiological and physical effects of a dural puncture.
 These observations may include spinal block of varying magnitude (including high or total spinal block), hypotension secondary to spinal block, urinary retention, loss of bladder and bowel control (fecal and urinary incontinence), and loss of perineal sensation and sexual function.
 Signs and symptoms of subarachnoid block typically start within 2 to 3 minutes of injection.
-Doses of 15 and 22.5 mg of ropivacaine hydrochloride resulted in sensory levels as high as T5 and T4, respectively.
+Doses of 15 and 22.5 mg of Ropivacaine Hydrochloride resulted in sensory levels as high as T5 and T4, respectively.
 Analgesia started in the sacral dermatomes in 2 to 3 minutes and extended to the T10 level in 10 to 13 minutes and lasted for approximately 2 hours.
 Other neurological effects following unintentional subarachnoid administration during epidural anesthesia may include persistent anesthesia, paresthesia, weakness, paralysis of the lower extremities, and loss of sphincter control; all of which may have slow, incomplete or no recovery.
-Headache, septic meningitis, meningismus, slowing of labor, increased incidence of forceps delivery, or cranial nerve palsies due to traction on nerves from loss of cerebrospinal fluid have been reported (see DOSAGE AND ADMINISTRATIONdiscussion of Lumbar Epidural Block).
+Headache, septic meningitis, meningismus, slowing of labor, increased incidence of forceps delivery, or cranial nerve palsies due to traction on nerves from loss of cerebrospinal fluid have been reported [see Dosage and Administration (2.1)].
 A high spinal is characterized by paralysis of the arms, loss of consciousness, respiratory paralysis and bradycardia.
 
 Cardiovascular System Reactions
 
-High doses or unintentional intravascular injection may lead to high plasma levels and related depression of the myocardium, decreased cardiac output, heart block, hypotension, bradycardia, ventricular arrhythmias, including ventricular tachycardia and ventricular fibrillation, and possibly cardiac arrest (see WARNINGS, PRECAUTIONS, and OVERDOSAGE).
+High doses or unintentional intravascular injection may lead to high plasma levels and related depression of the myocardium, decreased cardiac output, heart block, hypotension, bradycardia, ventricular arrhythmias, including ventricular tachycardia and ventricular fibrillation, and possibly cardiac arrest [see Warnings and Precautions (5.2) and Overdosage (10)].
 
 Allergic Reactions
 
-Allergic type reactions are rare and may occur as a result of sensitivity to the local anesthetic (see WARNINGS).
+Allergic type reactions are rare and may occur as a result of sensitivity to the local anesthetic [see Warnings and Precautions (5.1)].
 These reactions are characterized by signs such as urticaria, pruritus, erythema, angioneurotic edema (including laryngeal edema), tachycardia, sneezing, nausea, vomiting, dizziness, syncope, excessive sweating, elevated temperature, and possibly, anaphylactoid symptomatology (including severe hypotension).
 Cross-sensitivity among members of the amide-type local anesthetic group has been reported.
 The usefulness of screening for sensitivity has not been definitively established.
