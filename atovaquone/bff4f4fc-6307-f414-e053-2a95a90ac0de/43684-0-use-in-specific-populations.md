@@ -14,11 +14,11 @@ In the U.S. general population, the background risk of major birth defects and m
 
 Clinical Considerations
 
-Disease-Associated Maternal and/or Embryo/Fetal Risk: Pregnant women with HIV who are infected with PCP are at increased risk of severe illness and maternal death associated with PCP compared with non-pregnant women.
+Disease-Associated Maternal and/or Embryo/Fetal Risk:Pregnant women with HIV who are infected with PCP are at increased risk of severe illness and maternal death associated with PCP compared with non-pregnant women.
 
 Data
 
-Animal Data: Atovaquone administered in oral doses of 250 mg, 500 mg, and 1,000 mg/kg/day to pregnant rats during organogenesis (Gestation Day [GD] 6 to GD15) did not cause maternal or embryo-fetal toxicity at doses up to 1,000 mg/kg/day corresponding to maternal plasma concentrations approximately 3 times the estimated human exposure during the treatment of PCP based on steady-state plasma concentrations.
+Animal Data:Atovaquone administered in oral doses of 250 mg, 500 mg, and 1,000 mg/kg/day to pregnant rats during organogenesis (Gestation Day [GD] 6 to GD15) did not cause maternal or embryo-fetal toxicity at doses up to 1,000 mg/kg/day corresponding to maternal plasma concentrations approximately 3 times the estimated human exposure during the treatment of PCP based on steady-state plasma concentrations.
 In pregnant rabbits, atovaquone administered in oral doses of 300 mg, 600 mg, and 1,200 mg/kg/day during organogenesis (GD6 to GD18) caused decreased fetal body length at a maternally toxic dose of 1,200 mg/kg/day corresponding to a plasma concentration that is approximately 0.5 times the estimated human exposure based on steady-state plasma concentrations.
 In a pre-and post-natal study in rats, atovaquone administered in oral doses of 250 mg, 500 mg, and 1,000 mg/kg/day from GD15 until Lactation Day (LD) 20 did not impair the growth or developmental effects in first generation offspring at doses up to 1,000 mg/kg/day corresponding to approximately 3 times the estimated human exposure based on steady-state plasma concentrations during the treatment of PCP.
 Atovaquone crossed the placenta and was present in fetal rat and rabbit tissue.
@@ -47,15 +47,15 @@ The average steady-state plasma atovaquone concentrations in the 24 subjects wit
 Table 5.
 Average Steady-State Plasma Atovaquone Concentrations in Pediatric Subjects
 
-| Age | Dose of Atovaquone Oral Suspension |  |  |
+| Age | Dose ofAtovaquone OralSuspension |  |  |
 | --- | --- | --- | --- |
 | 10 mg/kg | 30 mg/kg | 45 mg/kg |  |
-| Average C ss in mcg/mL (mean ± SD) |  |  |  |
+| Average C ssin mcg/mL (mean ± SD) |  |  |  |
 | 1 month to 3 months | 5.9 (n = 1) | 27.8 ± 5.8 (n = 4) | _ |
 | > 3 months to 24 months | 5.7 ± 5.1 (n = 4) | 9.8 ± 3.2 (n = 4) | 15.4 ± 6.6 (n = 4) |
 | > 2 years to 13 years | 16.8 ± 6.4 (n = 4) | 37.1 ± 10.9 (n = 3) | _ |
 
-C ss = Concentration at steady state.
+C ss= Concentration at steady state.
 
 ## 8.5 Geriatric Use
 

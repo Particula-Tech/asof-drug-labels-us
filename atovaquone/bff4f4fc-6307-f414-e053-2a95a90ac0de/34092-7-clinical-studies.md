@@ -2,14 +2,14 @@
 
 ## 14.1 Prevention of PCP
 
-The indication for prevention of PCP is based on the results of 2 clinical trials comparing atovaquone oral suspension with dapsone or aerosolized pentamidine in HIV-1-infected adolescent (aged 13 years to 18 years) and adult subjects at risk of PCP (CD4 count < 200 cells/mm 3 or a prior episode of PCP) and unable to tolerate TMP-SMX.
+The indication for prevention of PCP is based on the results of 2 clinical trials comparing atovaquone oral suspension with dapsone or aerosolized pentamidine in HIV-1-infected adolescent (aged 13 years to 18 years) and adult subjects at risk of PCP (CD4 count < 200 cells/mm 3or a prior episode of PCP) and unable to tolerate TMP-SMX.
 
 Dapsone Comparative Trial
 
 This open-label trial enrolled 1,057 subjects, randomized to receive atovaquone oral suspension 1,500 mg once daily (n = 536) or dapsone 100 mg once daily (n = 521).
 The majority of subjects were white (64%), male (88%), and receiving prophylaxis for PCP at randomization (73%); the mean age was 38 years.
 Median follow-up was 24 months.
-Subjects randomized to the dapsone arm who were seropositive for Toxoplasma gondii and had a CD4 count < 100 cells/mm 3 also received pyrimethamine and folinic acid.
+Subjects randomized to the dapsone arm who were seropositive for Toxoplasma gondiiand had a CD4 count < 100 cells/mm 3also received pyrimethamine and folinic acid.
 PCP event rates are shown in Table 7.
 Mortality rates were similar.
 
@@ -25,7 +25,7 @@ Confirmed or Presumed/Probable PCP Events (As-Treated Analysis) a
 
 | Assessment | Trial 1 |  | Trial 2 |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Atovaquone Oral Suspension 1,500 mg/day (n = 527) | Dapsone 100 mg/day (n = 510) | Atovaquone Oral Suspension 750 mg/day (n = 188) | Atovaquone Oral Suspension 1,500 mg/day (n = 172) | Aerosolized Pentamidine 300 mg/month (n = 169) |  |
+| Atovaquone OralSuspension 1,500 mg/day (n = 527) | Dapsone 100 mg/day(n = 510) | Atovaquone OralSuspension 750 mg/day (n = 188) | Atovaquone OralSuspension 1,500 mg/day(n = 172) | Aerosolized Pentamidine 300 mg/month(n = 169) |  |
 | % | 15 | 19 | 23 | 18 | 17 |
 | Relative Risk b (CI) c | 0.77 (0.57, 1.04) |  | 1.47 (0.86, 2.50) | 1.14 (0.63, 2.06) |  |
 
@@ -37,10 +37,10 @@ An analysis of all PCP events (intent-to-treat analysis) for both trials showed 
 
 ## 14.2 Treatment of PCP
 
-The indication for treatment of mild-to-moderate PCP is based on the results of 2 efficacy trials: a randomized, double-blind trial comparing atovaquone tablets with TMP-SMX in subjects with HIV/AIDS and mild-to-moderate PCP (defined in the protocol as [(A-a)DO 2] ≤ 45 mm Hg and PaO 2 ≥ 60 mm Hg on room air) and a randomized open-label trial comparing atovaquone tablets with IV pentamidine isethionate in subjects with mild-to-moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
+The indication for treatment of mild-to-moderate PCP is based on the results of 2 efficacy trials: a randomized, double-blind trial comparing atovaquone tablets with TMP-SMX in subjects with HIV/AIDS and mild-to-moderate PCP (defined in the protocol as [(A-a)DO 2] ≤ 45 mm Hg and PaO 2≥ 60 mm Hg on room air) and a randomized open-label trial comparing atovaquone tablets with IV pentamidine isethionate in subjects with mild-to-moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
 Both trials were conducted with the tablet formulation using 750 mg 3 times daily.
 Results from these efficacy trials established a relationship between plasma atovaquone concentrations and successful outcome.
-Successful outcome was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy [see Clinical Pharmacology (12.2)].
+Successful outcome was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy [seeClinical Pharmacology (12.2)].
 
 TMP-SMX Comparative Trial
 
@@ -55,9 +55,9 @@ Therapy success was defined as improvement in clinical and respiratory measures 
 Improvement in clinical and respiratory measures was assessed using a composite of parameters that included oral body temperature, respiratory rate, severity scores for cough, dyspnea, and chest pain/tightness.
 Therapy failures included lack of response, treatment discontinuation due to an adverse experience, and unevaluable.
 
-There was a significant difference (P = 0.03) in mortality rates between the treatment groups favoring TMP-SMX.
+There was a significant difference (P= 0.03) in mortality rates between the treatment groups favoring TMP-SMX.
 Among the 322 subjects with confirmed PCP, 13 of 160 (8%) subjects treated with atovaquone and 4 of 162 (2.5%) subjects receiving TMP-SMX died during the 21‑day treatment course or 8-week follow-up period.
-In the intent-to-treat analysis for all 408 randomized subjects, there were 16 (8%) deaths among subjects treated with atovaquone and 7 (3.4%) deaths among subjects treated with TMP-SMX (P = 0.051).
+In the intent-to-treat analysis for all 408 randomized subjects, there were 16 (8%) deaths among subjects treated with atovaquone and 7 (3.4%) deaths among subjects treated with TMP-SMX (P= 0.051).
 Of the 13 subjects with confirmed PCP and treated with atovaquone who died, 4 died of PCP and 5 died with a combination of bacterial infections and PCP; bacterial infections did not appear to be a factor in any of the 4 deaths among TMP-SMX–treated subjects.
 
 A correlation between plasma atovaquone concentrations and death demonstrated that subjects with lower plasma concentrations were more likely to die.

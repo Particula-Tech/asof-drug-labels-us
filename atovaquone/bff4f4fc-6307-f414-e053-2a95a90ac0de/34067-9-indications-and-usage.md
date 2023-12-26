@@ -1,10 +1,10 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Prevention of Pneumocystis jirovecii Pneumonia
+## 1.1 Prevention of Pneumocystis jiroveciiPneumonia
 
-Atovaquone oral suspension is indicated for the prevention of Pneumocystis jirovecii pneumonia (PCP) in adults and adolescents (aged 13 years and older) who cannot tolerate trimethoprim-sulfamethoxazole (TMP-SMX).
+Atovaquone oral suspension is indicated for the prevention of Pneumocystis jiroveciipneumonia (PCP) in adults and adolescents (aged 13 years and older) who cannot tolerate trimethoprim-sulfamethoxazole (TMP-SMX).
 
-## 1.2 Treatment of Mild-to-Moderate Pneumocystis jirovecii Pneumonia
+## 1.2 Treatment of Mild-to-Moderate Pneumocystis jiroveciiPneumonia
 
 Atovaquone oral suspension is indicated for the acute oral treatment of mild-to-moderate PCP in adults and adolescents (aged 13 years and older) who cannot tolerate TMP-SMX.
 
