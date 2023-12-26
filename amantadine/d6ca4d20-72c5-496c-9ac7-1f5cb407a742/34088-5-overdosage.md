@@ -13,7 +13,7 @@ Seizures may be exacerbated in patients with prior history of seizure disorders.
 Hyperthermia has also been observed in cases where a drug overdose has occurred.
 
 There is no specific antidote for an overdose of amantadine hydrochloride.
-However, slowly administered intravenous physostigmine in 1 and 2 mg doses in an adult 2 at 1- to 2-hour intervals and 0.5 mg doses in a child 3 at 5- to 10-minute intervals up to a maximum of 2 mg/hour have been reported to be effective in the control of central nervous system toxicity caused by amantadine hydrochloride.
+However, slowly administered intravenous physostigmine in 1 and 2 mg doses in an adult 2at 1- to 2-hour intervals and 0.5 mg doses in a child 3at 5- to 10-minute intervals up to a maximum of 2 mg/hour have been reported to be effective in the control of central nervous system toxicity caused by amantadine hydrochloride.
 For acute overdosing, general supportive measures should be employed along with immediate gastric lavage or induction of emesis.
 Fluids should be forced, and if necessary, given intravenously.
 The pH of the urine has been reported to influence the excretion rate of amantadine hydrochloride.

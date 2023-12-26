@@ -10,23 +10,23 @@ Rare (less than 0.1%) occurring adverse reactions are: instances of convulsion, 
 
 ## Other adverse reactions reported during postmarketing experience with amantadine hydrochloride usage include:
 
-Nervous System/Psychiatric -coma, stupor, delirium, hypokinesia, hypertonia, delusions, aggressive behavior, paranoid reaction, manic reaction, involuntary muscle contractions, gait abnormalities, paresthesia, EEG changes, and tremor.
+Nervous System/Psychiatric-coma, stupor, delirium, hypokinesia, hypertonia, delusions, aggressive behavior, paranoid reaction, manic reaction, involuntary muscle contractions, gait abnormalities, paresthesia, EEG changes, and tremor.
 Abrupt discontinuation may also precipitate delirium, agitation, delusions, hallucinations, paranoid reaction, stupor, anxiety, depression and slurred speech;
 
-Cardiovascular --cardiac arrest, arrhythmias including malignant arrhythmias, hypotension, and tachycardia;
+Cardiovascular--cardiac arrest, arrhythmias including malignant arrhythmias, hypotension, and tachycardia;
 
-Respiratory -acute respiratory failure, pulmonary edema, and tachypnea;
+Respiratory-acute respiratory failure, pulmonary edema, and tachypnea;
 
-Gastrointestinal -dysphagia;
+Gastrointestinal-dysphagia;
 
-Hematologic -leukocytosis; agranulocytosis
+Hematologic-leukocytosis; agranulocytosis
 
-Special Senses -keratitis and mydriasis;
+Special Senses-keratitis and mydriasis;
 
-Skin and Appendages -pruritus and diaphoresis;
+Skin and Appendages-pruritus and diaphoresis;
 
-Miscellaneous -neuroleptic malignant syndrome (see WARNINGS), allergic reactions including anaphylactic reactions, edema and fever.
+Miscellaneous-neuroleptic malignant syndrome (see WARNINGS), allergic reactions including anaphylactic reactions, edema and fever.
 
-Laboratory Test -elevated: CPK, BUN, serum creatinine, alkaline phosphatase, LDH, bilirubin, GGT, SGOT, and SGPT.
+Laboratory Test-elevated: CPK, BUN, serum creatinine, alkaline phosphatase, LDH, bilirubin, GGT, SGOT, and SGPT.
 
 To report SUSPECTED ADVERSE REACTIONS, contact Bionpharma at 1-888-235-2466 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch

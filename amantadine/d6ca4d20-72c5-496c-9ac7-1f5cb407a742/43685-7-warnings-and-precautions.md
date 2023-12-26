@@ -6,7 +6,7 @@ Acute toxicity may be attributable to the anticholinergic effects of amantadine.
 Drug overdose has resulted in cardiac, respiratory, renal or central nervous system toxicity.
 Cardiac dysfunction includes arrhythmia, tachycardia and hypertension (see OVERDOSAGE).
 
-Deaths due to drug accumulation (overdose) have been reported in patients with renal impairment, who were prescribed higher than recommended doses of SYMMETREL (amantadine) for their level of renal function (see DOSAGE AND ADMINISTRATION; Dosage of Impaired Renal Function and OVERDOSAGE).
+Deaths due to drug accumulation (overdose) have been reported in patients with renal impairment, who were prescribed higher than recommended doses of SYMMETREL (amantadine) for their level of renal function (see DOSAGE AND ADMINISTRATION; Dosage of Impaired Renal Functionand OVERDOSAGE).
 
 Suicide Attempts: Suicide attempts, some of which have been fatal, have been reported in patients treated with amantadine, many of whom received short courses for influenza treatment or prophylaxis.
 The incidence of suicide attempts is not known and the pathophysiologic mechanism is not understood.
@@ -102,7 +102,8 @@ Agents with anticholinergic properties may potentiate the anticholinergic-like s
 
 Coadministration of thioridazine has been reported to worsen the tremor in elderly patients with Parkinson's disease, however, it is not known if other phenothiazines produce a similar response.
 
-Coadministration of Dyazide® (triamterene/hydrochlorothiazide) resulted in a higher plasma amantadine concentration in a 61-year-old man receiving amantadine hydrochloride 100 mg TID for Parkinson's disease.1 It is not known which of the components of Dyazide® contributed to the observation or if related drugs produce a similar response.
+Coadministration of Dyazide ®(triamterene/hydrochlorothiazide) resulted in a higher plasma amantadine concentration in a 61-year-old man receiving amantadine hydrochloride 100 mg TID for Parkinson's disease.
+1It is not known which of the components of Dyazide ®contributed to the observation or if related drugs produce a similar response.
 
 Coadministration of quinine or quinidine with amantadine was shown to reduce the renal clearance of amantadine by about 30%.
 
@@ -113,24 +114,24 @@ Trivalent inactivated influenza vaccine can be administered at any time relative
 
 ## Carcinogenesis and Mutagenesis:
 
-Long-term in vivo animal studies designed to evaluate the carcinogenic potential of amantadine hydrochloride have not been performed.
-In several in vitro assays for gene mutation, amantadine hydrochloride did not increase the number of spontaneously observed mutations in four strains of Salmonella typhimurium (Ames Test) or in a mammalian cell line (Chinese Hamster Ovary cells) when incubations were performed either with or without a liver metabolic activation extract.
-Further, there was no evidence of chromosome damage observed in an in vitro test using freshly derived and stimulated human peripheral blood lymphocytes (with and without metabolic activation) or in an in vivo mouse bone marrow micronucleus test (140 to 550 mg/kg; estimated human equivalent doses of 11.7 to 45.8 mg/kg based on body surface area conversion).
+Long-term in vivoanimal studies designed to evaluate the carcinogenic potential of amantadine hydrochloride have not been performed.
+In several in vitroassays for gene mutation, amantadine hydrochloride did not increase the number of spontaneously observed mutations in four strains of Salmonella typhimurium(Ames Test) or in a mammalian cell line (Chinese Hamster Ovary cells) when incubations were performed either with or without a liver metabolic activation extract.
+Further, there was no evidence of chromosome damage observed in an in vitrotest using freshly derived and stimulated human peripheral blood lymphocytes (with and without metabolic activation) or in an in vivomouse bone marrow micronucleus test (140 to 550 mg/kg; estimated human equivalent doses of 11.7 to 45.8 mg/kg based on body surface area conversion).
 
 ## Impairment of Fertility:
 
 The effect of amantadine on fertility has not been adequately tested, that is, in a study conducted under Good Laboratory Practice (GLP) and according to current recommended methodology.
-In a three litter, non-GLP, reproduction study in rats, amantadine hydrochloride at a dose of 32 mg/kg/day (equal to the maximum recommended human dose on a mg/m2 basis) administered to both males and females slightly impaired fertility.
-There were no effects on fertility at a dose level of 10 mg/kg/day (or 0.3 times the maximum recommended human dose on a mg/m2 basis); intermediate doses were not tested.
+In a three litter, non-GLP, reproduction study in rats, amantadine hydrochloride at a dose of 32 mg/kg/day (equal to the maximum recommended human dose on a mg/m 2basis) administered to both males and females slightly impaired fertility.
+There were no effects on fertility at a dose level of 10 mg/kg/day (or 0.3 times the maximum recommended human dose on a mg/m 2basis); intermediate doses were not tested.
 
-Failed fertility has been reported during human in vitro fertilization (IVF) when the sperm donor ingested amantadine 2 weeks prior to, and during the IVF cycle.
+Failed fertility has been reported during human in vitrofertilization (IVF) when the sperm donor ingested amantadine 2 weeks prior to, and during the IVF cycle.
 
 ## Pregnancy:
 
 Teratogenic Effects: Pregnancy Category C: The effect of amantadine on embryofetal and peri-postnatal development has not been adequately tested, that is, in studies conducted under Good Laboratory Practice (GLP) and according to current recommended methodology.
-However, in two non-GLP studies in rats in which females were dosed from 5 days prior to mating to Day 6 of gestation or on Days 7 to 14 of gestation, amantadine hydrochloride produced increases in embryonic death at an oral dose of 100 mg/kg (or 3 times the maximum recommended human dose on a mg/m 2 basis).
-In the non-GLP rat study in which females were dosed on Days 7 to 14 of gestation, there was a marked increase in severe visceral and skeletal malformations at oral doses of 50 and 100 mg/kg (or 1.5 and 3 times, respectively, the maximum recommended human dose on a mg/m2 basis).
-The no-effect dose for teratogenicity was 37 mg/kg (equal to the maximum recommended human dose on a mg/m2 basis).
+However, in two non-GLP studies in rats in which females were dosed from 5 days prior to mating to Day 6 of gestation or on Days 7 to 14 of gestation, amantadine hydrochloride produced increases in embryonic death at an oral dose of 100 mg/kg (or 3 times the maximum recommended human dose on a mg/m 2basis).
+In the non-GLP rat study in which females were dosed on Days 7 to 14 of gestation, there was a marked increase in severe visceral and skeletal malformations at oral doses of 50 and 100 mg/kg (or 1.5 and 3 times, respectively, the maximum recommended human dose on a mg/m 2basis).
+The no-effect dose for teratogenicity was 37 mg/kg (equal to the maximum recommended human dose on a mg/m 2basis).
 The safety margins reported may not accurately reflect the risk considering the questionable quality of the study on which they are based.
 There are no adequate and well-controlled studies in pregnant women.
 Human data regarding teratogenicity after maternal use of amantadine is scarce.
