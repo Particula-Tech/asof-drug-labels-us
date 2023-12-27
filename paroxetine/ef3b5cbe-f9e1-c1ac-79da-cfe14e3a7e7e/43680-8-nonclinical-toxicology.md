@@ -5,7 +5,7 @@
 Carcinogenesis
 
 Two‑year carcinogenicity studies were conducted in rodents given paroxetine in the diet at 1, 5, and 25 mg/kg/day (mice) and 1, 5, and 20 mg/kg/day (rats).
-These doses are up to 2.0 (mouse) and 3.2 (rat) times the MRHD of 75 mg on a mg/m2 basis.
+These doses are up to 2 (mouse) and 3.2 (rat) times the MRHD of 75 mg on a mg/m2 basis.
 There was a significantly greater number of male rats in the high‑dose group with reticulum cell sarcomas (1/100, 0/50, 0/50, and 4/50 for control, low-, middle-, and high‑dose groups, respectively) and a significantly increased linear trend across dose groups for the occurrence of lymphoreticular tumors in male rats.
 Female rats were not affected.
 Although there was a dose‑related increase in the number of tumors in mice, there was no drug-related increase in the number of mice with tumors.

@@ -1,11 +1,11 @@
-# 5 WARNINGS and PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Suicidal Thoughts and Behaviors in Adolescents and Young Adults
 
 In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients.
 There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk identified in young patients for most drugs studied.
 There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD.
-The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1000 patients treated are provided in Table 2.
+The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1,000 patients treated are provided in Table 2.
 
 Table 2: Risk Differences of the Number of Patients with Suicidal Thoughts and Behaviors in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients
 
@@ -61,7 +61,8 @@ If PAXIL is used during pregnancy, or if the patient becomes pregnant while taki
 
 Drugs that interfere with serotonin reuptake inhibition, including PAXIL, increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDS), other antiplatelet drugs, warfarin, and other anticoagulants may add to this risk.
-Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Use in Specific Populations (8.1)].
+Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Use in Specific Populations (8.1)].
 Bleeding events related to drugs that interfere with serotonin reuptake have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
 Inform patients about the increased risk of bleeding associated with the concomitant use of PAXIL and antiplatelet agents or anticoagulants.

@@ -47,20 +47,14 @@ Embryo-Fetal Toxicity
 Advise women of the potential risk to the fetus [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy because of the risk to the fetus.
 
-Nursing
+Lactation
 
 Advise women to notify their healthcare provider if they are breastfeeding an infant [see Use In Specific Populations (8.3)].
 
 Manufactured by: Apotex Inc. Toronto, Ontario M9L 1T9
 
-Manufactured for:
-
-Apotex Corp.
-
-Weston, FL 33326
+Manufactured for: Apotex Corp., Weston, Florida USA 33326
 
 PAXIL® are registered trademarks of the GlaxoSmithKline group of companies.
-
-All other registered trademarks are the property of their respective owners.
 
 All registered trademarks in this document are the property of their respective owners

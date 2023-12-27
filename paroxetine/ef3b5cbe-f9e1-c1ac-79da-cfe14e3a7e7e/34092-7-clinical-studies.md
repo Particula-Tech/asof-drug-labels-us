@@ -25,7 +25,7 @@ The following table provides the outcome classification by treatment group on Gl
 
 Table 10: Outcome Classification (%) on CGI-Global Improvement Item for Completers in Study 1 in Patients with OCD
 
-| Outcome Classification | Placebo(n = 74)% | PAXIL 20 mg (n = 75)% | PAXIL 40 mg(n = 66)% | PAXIL 60 mg(n = 66)% |
+| Outcome Classification | Placebo (n = 74) % | PAXIL 20 mg (n = 75) % | PAXIL 40 mg (n = 66) % | PAXIL 60 mg (n = 66) % |
 | --- | --- | --- | --- | --- |
 | Worse | 14 | 7 | 7 | 3 |
 | No Change | 44 | 35 | 22 | 19 |

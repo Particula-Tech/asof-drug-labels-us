@@ -23,7 +23,7 @@ For
   Of the 12 paroxetine-exposed infants with cardiovascular malformations, 9 had VSDs.
   This study also suggested an increased risk of overall major congenital malformations including cardiovascular defects for paroxetine (4% risk) compared to other (2% risk) antidepressants (OR 1.8; 95% confidence interval 1.2 to 2.8).
 - Two large case-control studies using separate databases, each with >9,000 birth defect cases and >4,000 controls, found that maternal use of paroxetine during the first trimester of pregnancy was associated with a 2- to 3-fold increased risk of right ventricular outflow tract obstructions.
-  In one study the OR was 2.5 (95% confidence interval, 1.0 to 6.0, 7 exposed infants) and in the other study the OR was 3.3 (95% confidence interval, 1.3 to 8.8, 6 exposed infants).
+  In one study the OR was 2.5 (95% confidence interval, 1 to 6, 7 exposed infants) and in the other study the OR was 3.3 (95% confidence interval, 1.3 to 8.8, 6 exposed infants).
 
 Other studies have found varying results as to whether there was an increased risk of overall, cardiovascular, or specific congenital malformations.
 A meta-analysis of epidemiological data over a 16-year period (1992 to 2008) on first trimester paroxetine use in pregnancy and congenital malformations included the above-noted studies in addition to others (n = 17 studies that included overall malformations and n = 14 studies that included cardiovascular malformations; n = 20 distinct studies).
@@ -63,10 +63,11 @@ This effect occurred at a dose of 1 mg/kg/day which is than the MRHD on an mg/m2
 The no‑effect dose for rat pup mortality was not determined.
 The cause of these deaths is not known.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
 Like many other drugs, paroxetine is secreted in human milk.
-Because of the potential for serious adverse reactions in nursing infants from PAXIL, a decision should be made whether to discontinue nursing infants or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for serious adverse reactions in breastfeeding children from PAXIL, a decision should be made whether to discontinue breastfeeding or to discontinue the drug, taking into account the importance of the drug to the mother.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Paxil and any potential adverse effects on the breastfed child from Paxil or from underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

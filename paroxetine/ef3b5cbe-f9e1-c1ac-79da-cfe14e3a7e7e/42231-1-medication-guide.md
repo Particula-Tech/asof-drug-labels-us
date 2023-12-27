@@ -2,11 +2,11 @@
 
 PAXIL® (PAX-il)
 
-(paroxetine hydrochloride)
+(paroxetine)
 
-Tablets
+tablets
 
-Oral Suspension
+oral suspension
 
 What is the most important information I should know about PAXIL?
 
@@ -17,31 +17,28 @@ PAXIL can cause serious side effects, including:
   PAXIL is not for use in children.
 
 - 
-  - 
-    - Depression or other mental illnesses are the most important causes of suicidal thoughts and actions.
+  - Depression or other mental illnesses are the most important causes of suicidal thoughts and actions.
 
 How can I watch for and try to prevent suicidal thoughts and actions?
 
-- 
-  - Pay close attention to any changes, especially sudden changes in mood, behavior, thoughts or feelings or if you develop suicidal thoughts or actions.
-    This is very important when an antidepressant medicine is started or when the does is changed.
-  - Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts or feelings or if you develop suicidal thoughts or actions.
-  - Keep all follow-up visits with your healthcare provider as scheduled.
-    Call your healthcare provider between visits as needed, especially if you have concerns about symptoms.
+- Pay close attention to any changes, especially sudden changes in mood, behavior, thoughts or feelings or if you develop suicidal thoughts or actions.
+  This is very important when an antidepressant medicine is started or when the does is changed.
+- Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts or feelings or if you develop suicidal thoughts or actions.
+- Keep all follow-up visits with your healthcare provider as scheduled.
+  Call your healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call your healthcare provider or get emergency medical help right away if you have any of the following symptoms, especially if they are new, worse, or worry you:
 
-- 
-  - attempts to commit suicide
-  - acting aggressive or violent
-  - new or worse depression
-  - feeling agitated, restless, angry, or irritable
-  - an increase in activity and talking more than what is normal for you
-  - acting on dangerous impulses
-  - thoughts about suicide or dying
-  - new or worse anxiety or panic attacks
-  - trouble sleeping
-  - other unusual changes in behavior or mood
+- attempts to commit suicide
+- acting aggressive or violent
+- new or worse depression
+- feeling agitated, restless, angry, or irritable
+- an increase in activity and talking more than what is normal for you
+- acting on dangerous impulses
+- thoughts about suicide or dying
+- new or worse anxiety or panic attacks
+- trouble sleeping
+- other unusual changes in behavior or mood
 
 What is PAXIL?
 
@@ -104,7 +101,7 @@ Especially tell your healthcare provider if you take:
 - medicines that can affect blood clotting such as aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), warfarin
 - diuretics
 - tamoxifen
-- medicines used to treat mood, anxiety, psychotic, or thought disorders, including selective serontonin reuptake (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs)
+- medicines used to treat mood, anxiety, psychotic, or thought disorders, including selective serotonin reuptake (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs)
 
 Ask your healthcare provider if you are not sure if you are taking any of these medicines.
 Your healthcare provider can tell you if it is safe to take PAXIL with your other medicines.
@@ -196,31 +193,28 @@ PAXIL can cause serious side effects, including:
 
 In more severe or more sudden cases, signs and symptoms include:
 
-- 
-  - seeing or hearing things that are not real (hallucinations)
-  - fainting
-  - seizures
-  - coma
-  - stopping breathing (respiratory arrest)
+- seeing or hearing things that are not real (hallucinations)
+- fainting
+- seizures
+- coma
+- stopping breathing (respiratory arrest)
 - Abnormal bleeding.
   Taking PAXIL with aspirin, NSAIDs, or blood thinners may increase this risk.
   Tell your healthcare provider about any unusual bleeding or bruising.
-- Bone fractures
+- Bone fractures.
 - Sexual problems (dysfunction).
   Taking selective serotonin reuptake inhibitors (SSRIs), including PAXIL, may cause sexual problems.
 
 Symptoms in males may include:
 
-- 
-  - Delayed ejaculation or inability to have an ejaculation
-  - Decreased sex drive
-  - Problems getting or keeping an erection
+- Delayed ejaculation or inability to have an ejaculation
+- Decreased sex drive
+- Problems getting or keeping an erection
 
 Symptoms in females may include:
 
-- 
-  - Decreased sex drive
-  - Delayed orgasm or inability to have an orgasm
+- Decreased sex drive
+- Delayed orgasm or inability to have an orgasm
 
 Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with PAXIL.
 There may be treatments your healthcare provider can suggest.
@@ -273,9 +267,9 @@ Tablets: dibasic calcium phosphate dihydrate, hypromellose, magnesium stearate, 
 
 Oral suspension: citric acid (anhydrous), FD&C yellow No. 6, flavorings, glycerin, methylparaben, microcrystalline cellulose and carboxymethylcellulose sodium, polacrilin potassium, propylene glycol, propylparaben, purified water, saccharin sodium, simethicone emulsion and sodium citrate (dihydrate)
 
-Manufactured by: Apotex Inc.Toronto, Ontario, Canada M9L 1T9
+Manufactured by: Apotex Inc.,Toronto, Ontario, Canada M9L 1T9
 
-Manufactured for: Apotex Corp. Weston, Florida USA 33326
+Manufactured for: Apotex Corp.: Weston, Florida USA 33326
 
 PAXIL® and PAXIL CR® are registered trademarks of the GlaxoSmithKline group of companies.
 
@@ -285,4 +279,4 @@ For more information about PAXIL call 1-800-706-5575.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 8/2023
+Revised: 12/2023

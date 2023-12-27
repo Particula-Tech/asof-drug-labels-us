@@ -83,7 +83,7 @@ Table 4 presents the adverse reactions that occurred at an incidence of 1% or mo
 
 Table 4: Adverse Reactions (≥1% of PAXIL-Treated Patients and Greater than Placebo) in 6-Week Clinical Trials for MDD
 
-| Body System/Adverse Reaction | PAXIL(n = 421)% | Placebo(n = 421)% |
+| Body System/ Adverse Reaction | PAXIL (n = 421) % | Placebo (n = 421) % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Headache | 18 | 17 |
@@ -171,7 +171,7 @@ Adverse Reactions (≥2% of PAXIL-Treated Patients and Greater than Placebo) in 
 | Constipation | 16 | 6 | 8 | 5 | 5 | 2 |
 | Diarrhea | 10 | 10 | 12 | 7 | 9 | 6 |
 | Decreased Appetite | 9 | 3 | 7 | 3 | 8 | 2 |
-| Dyspepsia | --- | --- | --- | --- |  | 2 |
+| Dyspepsia | --- | --- | --- | --- | 4 | 2 |
 | Flatulence | --- | --- | --- | --- | 4 | 2 |
 | Increased Appetite | 4 | 3 | 2 | 1 | --- | --- |
 | Vomiting | --- | --- | --- | --- | 2 | 1 |
@@ -209,7 +209,9 @@ Adverse Reactions (≥2% of PAXIL-Treated Patients and Greater than Placebo) in 
 
 a. Percentage corrected for gender.
 
-Adverse Reactions in Patients with GAD and PTSD Table 6 presents adverse reactions that occurred at a frequency of 2% or more in clinical trials in patients with GAD and PTSD.
+Adverse Reactions in Patients with GAD and PTSD
+
+Table 6 presents adverse reactions that occurred at a frequency of 2% or more in clinical trials in patients with GAD and PTSD.
 
 Table 6.
 Adverse Reactions (≥2% of PAXIL-Treated Patients and Greater than Placebo) in 8- to 12-Week Clinical Trials for GAD and PTSDa
@@ -219,7 +221,7 @@ Adverse Reactions (≥2% of PAXIL-Treated Patients and Greater than Placebo) in 
 | PAXIL (n = 735) % | Placebo (n = 529) % | PAXIL (n = 576) % | Placebo (n = 504) % |  |
 | Body as a Whole |  |  |  |  |
 | Asthenia | 14 | 6 | 12 | 4 |
-| Headache | 17 | 14 | --- | --- |
+| Headache | 7 | 14 | --- | --- |
 | Infection | 6 | 3 | 5 | 4 |
 | Abdominal Pain |  |  | 4 | 3 |
 | Trauma |  |  | 6 | 5 |
@@ -239,7 +241,7 @@ Adverse Reactions (≥2% of PAXIL-Treated Patients and Greater than Placebo) in 
 | Insomnia | 11 | 8 | 12 | 11 |
 | Somnolence | 15 | 5 | 16 | 5 |
 | Dizziness | 6 | 5 | 6 | 5 |
-| Tremor | 5 | 1 | 4 | 1 |
+| Tremor | 5 | 5 | 1 | 4 |
 | Nervousness | 4 | 3 | --- | --- |
 | Libido Decreased | 9 | 2 | 5 | 2 |
 | Abnormal Dreams |  |  | 3 |  |
