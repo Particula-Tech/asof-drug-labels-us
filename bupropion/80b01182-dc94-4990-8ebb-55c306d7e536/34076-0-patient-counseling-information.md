@@ -67,5 +67,4 @@ Instruct patients to swallow FORFIVO XL tablets whole so that the release rate i
 Instruct patients that FORFIVO XL tablets should not be chewed, divided, or crushed.
 FORFIVO XL may be taken with or without food.
 
-FORFIVO XL is a registered trademark of IntelGenX Corporation.
-All other products/brand names are trademarks of their respective owners.
+FORFIVO XL is a registered trademark of TWi Pharmaceuticals, Inc. All other products/brand names are trademarks of their respective owners.
