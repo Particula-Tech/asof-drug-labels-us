@@ -262,7 +262,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 02/2022
+Revised: 04/2023
 
 Dispense with medication guide available at:
 
