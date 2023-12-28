@@ -11,4 +11,4 @@ Dispense in a tight, light-resistant container as defined in USP/NF.
 Manufactured for: Bionpharma Inc., 600 Alexander Road, Princeton, NJ 08540, USA
 
 Rev.
-04/2016
+05/2020
