@@ -21,7 +21,7 @@ Posterior Reversible Encephalopathy Syndrome Advise patients to immediately repo
 Inform patients that delayed treatment could lead to permanent neurological sequelae [see Warnings and Precautions (5.6)].
 Respiratory Effects Advise patients that they should contact their physician if they experience new onset or worsening of dyspnea [see Warnings and Precautions (5.7)].
 Fetal Risk • Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
-Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1, 8.3)]. • Advise female patients of reproductive potential to use effective contraception during treatment with fingolimod capsules and for two months after the final dose [see Use in Specific Populations (8.3)].
+Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.8)and Use in Specific Populations (8.1, 8.3)]. • Advise female patients of reproductive potential to use effective contraception during treatment with fingolimod capsules and for 2 months after the final dose [see Use in Specific Populations (8.3)].
 Severe Increase in Disability After Stopping Fingolimod Capsules Inform patients that severe increase in disability has been reported after discontinuation of fingolimod capsules.
 Advise patients to contact their physician if they develop worsening symptoms of MS following discontinuation of fingolimod capsules [see Warnings and Precautions (5.9)].
 Malignancies Advise patients that basal cell carcinoma and melanoma are associated with use of fingolimod capsules.
@@ -29,10 +29,12 @@ Advise patients that any suspicious skin lesions should be promptly evaluated.
 Advise patients to limit exposure to sunlight and ultraviolet light by wearing protective clothing and using a sunscreen with a high protection factor.
 Inform patients that lymphoma has also occurred in patients receiving fingolimod capsules [see Warnings and Precautions (5.12)].
 Persistence of Fingolimod Capsules Effects After Drug Discontinuation Advise patients that fingolimod capsules remains in the blood and continues to have effects, including decreased blood lymphocyte counts, for up to 2 months following the last dose [see Warnings and Precautions (5.13)].
-Hypersensitivity Reactions Advise patients that fingolimod capsules may cause hypersensitivity reactions including rash, urticaria, and angioedema.
+Hypersensitivity Reactions Advise patients that fingolimod capsules may cause hypersensitivity reactions, including rash, urticaria, and angioedema.
 Advise patients to contact their physician if they have any symptoms associated with hypersensitivity [see Warnings and Precautions (5.14)].
 Pregnancy Instruct patients that if they are pregnant or plan to become pregnant while taking fingolimod capsules they should inform their physician.
 
-Manufactured for: Camber Pharmaceuticals, Inc., Piscataway, NJ 08854 Manufactured by:
+Manufactured for: Camber Pharmaceuticals, Inc., Piscataway, NJ 08854
 
-HETEROTM Hetero Labs Limited Jeedimetla, Hyderabad - 500 055, India Revised: 07/2022 2068697
+Manufactured by:
+
+HETERO TM Hetero Labs Limited Jeedimetla, Hyderabad - 500 055, India Revised: 09/2023

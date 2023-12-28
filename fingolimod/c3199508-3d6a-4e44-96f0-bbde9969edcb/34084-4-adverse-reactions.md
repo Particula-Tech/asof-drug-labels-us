@@ -13,9 +13,9 @@ In all clinical studies, including uncontrolled extension studies, the exposure 
 In placebo-controlled trials, the most frequent adverse reactions (incidence ≥10% and greater than placebo) for fingolimod 0.5 mg were headache, liver transaminase elevation, diarrhea, cough, influenza, sinusitis, back pain, abdominal pain, and pain in extremity.
 Adverse events that led to treatment discontinuation and occurred in more than 1% of patients taking fingolimod 0.5 mg, were serum transaminase elevations (4.7% compared to 1% on placebo) and basal cell carcinoma (1% compared to 0.5% on placebo).
 Table 1 lists adverse reactions in clinical studies in adults that occurred in ≥ 1% of fingolimod-treated patients and ≥ 1% higher rate than for placebo.
-Table 1: Adverse Reactions Reported in Adult Studies 1 and 3 (Occurring in ≥1% of Patients and Reported for Fingolimod 0.5 mg at ≥1% Higher Rate than for Placebo)
+Table 1: Adverse Reactions Reported in Adult Studies 1 and 3 (Occurring in ≥1% of Patients and Reported for Fingolimod 0.5 mg at ≥1% Higher Rate Than for Placebo)
 
-| Adverse Drug Reactions | Fingolimod Capsules0.5 mg N=783 % | Placebo N=773 % |
+| Adverse drug reactions | Fingolimod 0.5 mg N=783 % | Placebo N=773 % |
 | --- | --- | --- |
 | Infections |  |  |
 | Influenza | 11 | 8 |
@@ -23,7 +23,7 @@ Table 1: Adverse Reactions Reported in Adult Studies 1 and 3 (Occurring in ≥1%
 | Bronchitis | 8 | 5 |
 | Herpes zoster | 2 | 1 |
 | Tinea versicolor | 2 | <1 |
-| Cardiac Disorders |  |  |
+| Cardiac disorders |  |  |
 | Bradycardia | 3 | 1 |
 | Nervous system disorders |  |  |
 | Headache | 25 | 24 |
@@ -32,7 +32,7 @@ Table 1: Adverse Reactions Reported in Adult Studies 1 and 3 (Occurring in ≥1%
 | Nausea | 13 | 12 |
 | Diarrhea | 13 | 10 |
 | Abdominal pain | 11 | 10 |
-| General disorders and administration site conditions |  |  |
+| General disorders and administration-site conditions |  |  |
 | Asthenia | 2 | 1 |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Back pain | 10 | 9 |
@@ -42,7 +42,7 @@ Table 1: Adverse Reactions Reported in Adult Studies 1 and 3 (Occurring in ≥1%
 | Actinic keratosis | 2 | 1 |
 | Investigations |  |  |
 | Liver transaminase elevations | 15 | 4 |
-| (ALT/GGTAST) |  |  |
+| (ALT/GGT/AST) |  |  |
 | Blood triglycerides increased | 3 | 1 |
 | Respiratory, thoracic, and mediastinal disorders |  |  |
 | Cough | 12 | 11 |
@@ -54,14 +54,15 @@ Table 1: Adverse Reactions Reported in Adult Studies 1 and 3 (Occurring in ≥1%
 | Blood and lymphatic system disorders |  |  |
 | Lymphopenia | 7 | <1 |
 | Leukopenia | 2 | <1 |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |
+| Neoplasms benign, malignant, and unspecified (including cysts and polyps) |  |  |
 | Skin papilloma | 3 | 2 |
 | Basal cell carcinoma | 2 | 1 |
 
-Adverse reactions of seizure, dizziness, pneumonia, eczema, and pruritus were also reported in Studies 1 and 3, but did not meet the reporting rate criteria for inclusion in Table 1 (difference was less than 1%).
+Abbreviations: ALT, alanine transaminase; AST, aspartate transferase; GGT, gamma-glutamyl transferase.
 
+Adverse reactions of seizure, dizziness, pneumonia, eczema, and pruritus were also reported in Studies 1 and 3, but did not meet the reporting rate criteria for inclusion in Table 1 (difference was less than 1%).
 Adverse reactions with fingolimod 0.5 mg in Study 2, the 1-year active-controlled (versus interferon beta-1a) study were generally similar to those in Studies 1 and 3.
-Vascular Events Vascular events, including ischemic and hemorrhagic strokes, and peripheral arterial occlusive disease were reported in premarketing clinical trials in patients who received fingolimod doses (1.25 to 5 mg) higher than recommended for use in MS. Similar events have been reported with fingolimod in the postmarketing setting although a causal relationship has not been established.
+Vascular Events Vascular events, including ischemic and hemorrhagic strokes, and peripheral arterial occlusive disease were reported in premarketing clinical trials in patients who received fingolimod doses (1.25 mg to 5 mg) higher than recommended for use in MS. Similar events have been reported with fingolimod in the postmarketing setting although a causal relationship has not been established.
 Seizure Cases of seizures, including status epilepticus, have been reported with the use of fingolimod in clinical trials and in the postmarketing setting in adults [see Adverse Reactions (6.2)].
 In adult clinical trials, the rate of seizures was 0.9% in fingolimod-treated patients and 0.3% in placebo-treated patients.
 It is unknown whether these events were related to the effects of multiple sclerosis alone, to fingolimod, or to a combination of both.
@@ -72,4 +73,4 @@ In the pediatric study, cases of seizures were reported in 5.6% of fingolimod-tr
 
 The following adverse reactions have been identified during postapproval use of fingolimod.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Blood and Lymphatic System Disorders: Hemolytic anemia and thrombocytopenia Hepatobiliary Disorders: Liver injury [see Warnings and Precautions(5.5)] Infections: infections including cryptococcal infections [see Warnings and Precautions (5.2)], human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer [see Warnings and Precautions (5.2)], progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.3)] Musculoskeletal and connective tissue disorders: arthralgia, myalgia Nervous system disorders: posterior reversible encephalopathy syndrome [see Warnings and Precautions (5.6)], seizures, including status epilepticus [see Adverse Reactions (6.1)] Neoplasms, benign, malignant, and unspecified (including cysts and polyps): melanoma, Merkel cell carcinoma, and cutaneous T-cell lymphoma (including mycosis fungoides) [see Warnings and Precautions (5.12)] Skin and subcutaneous tissue disorders: hypersensitivity [see Warnings and Precautions (5.14)]
+Blood and Lymphatic System Disorders:Hemolytic anemia and thrombocytopenia Hepatobiliary Disorders:Liver injury [see Warnings and Precautions (5.5)] Infections: Infections, including cryptococcal infections [see Warnings and Precautions (5.2)], human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer [see Warnings and Precautions (5.2)], progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.3)] Musculoskeletal and connective tissue disorders: Arthralgia, myalgia Nervous System Disorders: Posterior reversible encephalopathy syndrome [see Warnings and Precautions (5.6)], seizures, including status epilepticus [see Adverse Reactions (6.1)] Neoplasms, Benign, Malignant, and Unspecified (including cysts and polyps):melanoma, Merkel cell carcinoma, and cutaneous T-cell lymphoma (including mycosis fungoides) [see Warnings and Precautions (5.12)] Skin and Subcutaneous Tissue Disorders: Hypersensitivity [see Warnings and Precautions (5.14)]
