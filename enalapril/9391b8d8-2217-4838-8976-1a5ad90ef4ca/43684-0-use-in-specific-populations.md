@@ -21,8 +21,8 @@ In the unusual case that there is no appropriate alternative to therapy with dru
 Perform serial ultrasound examinations to assess the intra-amniotic environment.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydraminos may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to enalapril for hypotension, oliguria, and hyperkalemia.
-If oliguria or hypotension occurs in neonates with a history of in utero exposure to enalapril, support blood pressure and renal perfusion.
+Closely observe infants with histories of in uteroexposure to enalapril for hypotension, oliguria, and hyperkalemia.
+If oliguria or hypotension occurs in neonates with a history of in uteroexposure to enalapril, support blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and substituting for disordered renal function.
 
 ## 8.2 Lactation

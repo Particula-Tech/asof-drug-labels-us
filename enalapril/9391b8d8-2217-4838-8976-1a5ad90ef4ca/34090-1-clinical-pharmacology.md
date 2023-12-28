@@ -29,9 +29,9 @@ Effects on exercise tolerance, heart size, and severity and symptoms of heart fa
 
 The pharmacokinetics of ready-to-use enalapril maleate oral solution was shown to be bioequivalent to that of reconstituted enalapril maleate powder for oral solution under fasted conditions.
 
-Reconstituted enalapril maleate powder for oral solution was shown to be bioequivalent to Vasotec ® tablets.
+Reconstituted enalapril maleate powder for oral solution was shown to be bioequivalent to Vasotec ®tablets.
 Reconstituted enalapril maleate powder for oral solution was also evaluated under fed and fasted conditions.
-A high-fat meal reduced the C max of enalapril and enalaprilat by 46% and 36%, respectively.
+A high-fat meal reduced the C maxof enalapril and enalaprilat by 46% and 36%, respectively.
 The exposure, as measured by AUC, to enalaprilat was reduced by 23%.
 The time to peak concentrations (C max) was delayed by 20 minutes for enalapril and 62 minutes for enalaprilat.
 The trough plasma concentrations of enalapril (from 6 to 12 hours) and enalaprilat (from 16 to 36 hours) are similar between fasted and fed administrations.
@@ -57,7 +57,7 @@ The disposition of enalapril and enalaprilat in patients with renal insufficienc
 With glomerular filtration rate ≤30 mL/min, peak and trough enalaprilat levels increase, time to peak concentration increases, and time to steady state may be delayed.
 The effective half-life of enalaprilat following multiple doses of enalapril maleate is prolonged at this level of renal insufficiency.
 Enalaprilat is dialyzable at the rate of 62 mL/min.
-Administering enalapril 1 hour after hemodialysis led to a reduction of approximately 50% in the enalaprilat AUC 0-6 h compared to off dialysis days.
+Administering enalapril 1 hour after hemodialysis led to a reduction of approximately 50% in the enalaprilat AUC 0-6 hcompared to off dialysis days.
 
 Pediatric Patients
 

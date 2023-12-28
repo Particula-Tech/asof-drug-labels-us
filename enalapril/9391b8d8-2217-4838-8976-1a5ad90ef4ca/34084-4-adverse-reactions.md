@@ -27,22 +27,22 @@ Because some of these reactions were reported voluntarily from a population of u
 
 Other serious clinical adverse experiences occurring since the drug was marketed or adverse experiences occurring in 0.5 to 1.0% of patients with hypertension or heart failure in clinical trials are listed below and, within each category, are in order of decreasing severity.
 
-Cardiovascular: Cardiac arrest; myocardial infarction or cerebrovascular accident, possibly secondary to excessive hypotension in high risk patients [see Warnings and Precautions (5.3)]; pulmonary embolism and infarction; pulmonary edema; rhythm disturbances, including atrial tachycardia and bradycardia; atrial fibrillation; palpitation; Raynaud's phenomenon.
+Cardiovascular:Cardiac arrest; myocardial infarction or cerebrovascular accident, possibly secondary to excessive hypotension in high risk patients [see Warnings and Precautions (5.3)]; pulmonary embolism and infarction; pulmonary edema; rhythm disturbances, including atrial tachycardia and bradycardia; atrial fibrillation; palpitation; Raynaud's phenomenon.
 
-Digestive: Ileus, pancreatitis, melena, anorexia, dyspepsia, constipation, glossitis, stomatitis, dry mouth.
+Digestive:Ileus, pancreatitis, melena, anorexia, dyspepsia, constipation, glossitis, stomatitis, dry mouth.
 
-Hematologic: Rare cases of neutropenia, thrombocytopenia, and bone marrow depression.
+Hematologic:Rare cases of neutropenia, thrombocytopenia, and bone marrow depression.
 
-Musculoskeletal: Muscle cramps.
+Musculoskeletal:Muscle cramps.
 
-Nervous/Psychiatric: Depression, confusion, ataxia, somnolence, insomnia, nervousness, peripheral neuropathy (e.g., paresthesia, dysesthesia), dream abnormality.
+Nervous/Psychiatric:Depression, confusion, ataxia, somnolence, insomnia, nervousness, peripheral neuropathy (e.g., paresthesia, dysesthesia), dream abnormality.
 
-Respiratory: Bronchospasm, rhinorrhea, sore throat and hoarseness, asthma, upper respiratory infection, pulmonary infiltrates, eosinophilic pneumonitis.
+Respiratory:Bronchospasm, rhinorrhea, sore throat and hoarseness, asthma, upper respiratory infection, pulmonary infiltrates, eosinophilic pneumonitis.
 
-Skin: Exfoliative dermatitis, toxic epidermal necrolysis, Stevens-Johnson syndrome, pemphigus, herpes zoster, erythema multiforme, urticaria, pruritus, alopecia, flushing, diaphoresis, photosensitivity.
+Skin:Exfoliative dermatitis, toxic epidermal necrolysis, Stevens-Johnson syndrome, pemphigus, herpes zoster, erythema multiforme, urticaria, pruritus, alopecia, flushing, diaphoresis, photosensitivity.
 
-Special Senses: Blurred vision, taste alteration, anosmia, tinnitus, conjunctivitis, dry eyes, tearing.
+Special Senses:Blurred vision, taste alteration, anosmia, tinnitus, conjunctivitis, dry eyes, tearing.
 
-Urogenital: Flank pain, gynecomastia, impotence.
+Urogenital:Flank pain, gynecomastia, impotence.
 
-Miscellaneous: A symptom complex has been reported which may include some or all of the following: a positive ANA, an elevated erythrocyte sedimentation rate, arthralgia/arthritis, myalgia/myositis, fever, serositis, vasculitis, leukocytosis, eosinophilia, photosensitivity, dermatologic manifestations.
+Miscellaneous:A symptom complex has been reported which may include some or all of the following: a positive ANA, an elevated erythrocyte sedimentation rate, arthralgia/arthritis, myalgia/myositis, fever, serositis, vasculitis, leukocytosis, eosinophilia, photosensitivity, dermatologic manifestations.
