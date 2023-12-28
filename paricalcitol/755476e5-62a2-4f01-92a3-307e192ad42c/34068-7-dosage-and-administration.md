@@ -23,7 +23,7 @@ Recommended Paricalcitol Capsules Dose Titration Base upon iPTH Level
 
 |  |  | Dose Adjustment at 2 to 4 Week Intervals |  |
 | --- | --- | --- | --- |
-| iPTH Level Relative to Baseline | Paricalcitol Capsule Dose | DailyDosage | Three Times a Week Dosage* |
+| iPTH Level Relative to Baseline | ParicalcitolCapsule Dose | DailyDosage | Three Times a Week Dosage* |
 | The same, increased or decreased by less than 30% | Increase dose by | 1 mcg | 2 mcg |
 | Decreased by more than or equal to 30% and less than or equal to 60% | Maintain dose | - | - |
 | Decreased by more than 60% or iPTH less than 60 pg/mL | Decrease dose by | 1 mcg | 2 mcg |

@@ -15,8 +15,6 @@ Manufactured for
 
 Bionpharma Inc.
 
-600 Alexander Road
-
 Princeton, NJ 08540, USA
 
-May 2017
+March 2023

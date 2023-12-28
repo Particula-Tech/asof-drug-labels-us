@@ -43,19 +43,19 @@ Mean Changes from Baseline to Final Treatment Visit in Serum iPTH, Bone Specific
 
 |  | Paricalcitol Capsules | Placebo |
 | --- | --- | --- |
-| iPTH (pg/mL) | n = 104 | n = 110 |
+| iPTH(pg/mL) | n = 104 | n = 110 |
 | Mean Baseline Value | 266 | 279 |
 | Mean Final Treatment Value | 162 | 315 |
 | Mean Change from Baseline (SE) | -104 (9.2) | +35 (9.0) |
-| Bone Specific Alkaline Phosphatase (mcg/L) | n = 101 | n = 107 |
+| Bone Specific Alkaline Phosphatase(mcg/L) | n = 101 | n = 107 |
 | Mean Baseline | 17.1 | 18.8 |
 | Mean Final Treatment Value | 9.2 | 17.4 |
 | Mean Change from Baseline (SE) | -7.9 (0.76) | -1.4 (0.74) |
-| Calcium (mg/dL) | n = 104 | n = 110 |
+| Calcium(mg/dL) | n = 104 | n = 110 |
 | Mean Baseline | 9.3 | 9.4 |
 | Mean Final Treatment Value | 9.5 | 9.3 |
 | Mean Change from Baseline (SE) | +0.2 (0.04) | -0.1 (0.04) |
-| Phosphorus (mg/dL) | n = 104 | n = 110 |
+| Phosphorus(mg/dL) | n = 104 | n = 110 |
 | Mean Baseline | 4.0 | 4.0 |
 | Mean Final Treatment Value | 4.3 | 4.3 |
 | Mean Change from Baseline (SE) | +0.3 (0.08) | +0.3 (0.08) |

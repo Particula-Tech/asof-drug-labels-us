@@ -26,7 +26,7 @@ Data
 Animal Data
 
 Pregnant rats and rabbits were treated with paricalcitol by once-daily intravenous (IV) injection during the period of organogenesis (in rats, from gestation day (GD) 6 to 17; in rabbits, from GD 6 to 18).
-Rats were dosed at 0, 0.3, 1.0 or 3.0 mcg/kg/day and rabbits at 0, 0.03, 0.1 or 0.3 mcg/kg/day, representing up to 2 or 0.5 times, respectively, the maximum recommended human dose (MRHD) of 0.24 mcg/kg, based on body surface area (mg/m2).
+Rats were dosed at 0, 0.3, 1.0 or 3.0 mcg/kg/day and rabbits at 0, 0.03, 0.1 or 0.3 mcg/kg/day, representing up to 2 or 0.5 times, respectively, the maximum recommended human dose (MRHD) of 0.24 mcg/kg, based on body surface area (mg/m 2).
 Slightly decreased fetal viability was observed in both studies at the highest doses representing 2 and 0.5 times, respectively, the MRHD in the presence of maternal toxicity (decreased body weight and food consumption).
 Pregnant rats were administered paricalcitol by IV injection three times per week at doses of 0, 0.3, 3.0 or 20.0 mcg/kg/day throughout gestation, parturition and lactation (GD 6 to lactation day (LD) 20) representing exposures up to 13 times the MHRD.
 A small increase in stillbirths and pup deaths from parturition to LD 4 were observed at the high dose when compared to the control group (9.2% versus 3.3% in controls) at 13 times the MRHD, which occurred at a maternally toxic dose known to cause hypercalcemia in rats.

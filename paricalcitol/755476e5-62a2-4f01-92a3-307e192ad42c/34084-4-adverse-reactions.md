@@ -15,7 +15,7 @@ Adverse events occurring in the paricalcitol capsules group at a frequency of 2%
 Table 3.
 Adverse Reactions by Body System Occurring in ≥ 2% of Subjects in the Paricalcitol-Treated Group of Three, Double-Blind, Placebo-Controlled CKD Stages 3 and 4 Studies
 
-| Adverse Eventa | Paricalcitol Capsules(n = 107) |  | Placebo(n = 113) |  |
+| Adverse Event a | Paricalcitol Capsules(n = 107) |  | Placebo(n = 113) |  |
 | --- | --- | --- | --- | --- |
 |  | Number (%) of Subjects |  |  |  |
 | Overall | 88 | (82%) | 86 | (76%) |
@@ -68,13 +68,13 @@ Additional Adverse Reactions
 
 The following additional adverse reactions occurred in <2% of the paricalcitol-treated adult patients in the above double-blind, placebo-controlled clinical trial.
 
-Gastrointestinal Disorders: Dry mouth
+Gastrointestinal Disorders:Dry mouth
 
-Investigations: Hepatic enzyme abnormal
+Investigations:Hepatic enzyme abnormal
 
-Nervous System Disorders: Dysgeusia
+Nervous System Disorders:Dysgeusia
 
-Skin and Subcutaneous Tissue Disorders: Urticaria
+Skin and Subcutaneous Tissue Disorders:Urticaria
 
 Pediatric use information for patients 10 to 16 years of age is approved for AbbVie Inc.’s Zemplar (paricalcitol) capsules.
 However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
@@ -93,7 +93,7 @@ Adverse events occurring in the paricalcitol capsules group at a frequency of 2%
 Table 5.
 Adverse Reactions by Body System Occurring in ≥ 2% of Subjects in the Paricalcitol-Treated Group, Double-Blind, Placebo-Controlled CKD Stage 5 Study
 
-| Adverse Eventsa | Paricalcitol Capsules(n=61) |  | Placebo(n = 27) |  |
+| Adverse Events a | Paricalcitol Capsules(n=61) |  | Placebo(n = 27) |  |
 | --- | --- | --- | --- | --- |
 |  | Number (%) of Subjects |  |  |  |
 | Overall | 43 | (70%) | 19 | (70%) |
@@ -126,7 +126,7 @@ Additional Adverse Reactions
 
 The following adverse reactions occurred in <2% of the paricalcitol-treated patients in the above double-blind, placebo-controlled clinical trial.
 
-Gastrointestinal Disorders: Gastroesophageal reflux disease
+Gastrointestinal Disorders:Gastroesophageal reflux disease
 
 Metabolism and Nutrition Disorders: Decreased appetite, hypercalcemia, hypocalcemia
 
@@ -142,6 +142,6 @@ However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product 
 The following adverse reactions have been identified during post-approval use of paricalcitol capsules.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune System Disorders: Angioedema (including laryngeal edema)
+Immune System Disorders:Angioedema (including laryngeal edema)
 
-Investigations: Blood creatinine increased
+Investigations:Blood creatinine increased
