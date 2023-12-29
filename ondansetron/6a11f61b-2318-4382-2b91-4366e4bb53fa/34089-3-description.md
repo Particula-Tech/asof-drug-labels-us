@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 The active ingredient of Ondansetron Injection, USP is ondansetron hydrochloride, a selective blocking agent of the serotonin 5-HT3 receptor type.
-Its chemical name is (±) 1, 2, 3, 9­ tetrahydro-9-methyl-3-[(2-methyl-1H-imidazol-1-yl)methyl]-4H-carbazol-4-one, monohydrochloride, dihydrate.
+Its chemical name is (±) 1, 2, 3, 9‑ tetrahydro-9-methyl-3-[(2-methyl-1H-imidazol-1-yl)methyl]-4H-carbazol-4-one, monohydrochloride, dihydrate.
 It has the following structural formula:
 
 The empirical formula is C18H19N3O∙HCl∙2H2O, representing a molecular weight of 365.9 g/mol.

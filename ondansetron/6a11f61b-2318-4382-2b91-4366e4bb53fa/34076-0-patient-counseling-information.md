@@ -12,17 +12,17 @@ Patients should be instructed to tell their healthcare provider right away if th
 
 Patients should be informed that the chances of developing severe cardiac arrhythmias, such as QT prolongation and Torsade de Pointes are higher in the following people:
 
-- Patients with a personal or family history of abnormal heart rhythms, such as congenital long QT syndrome;
-- Patients who take medications, such as diuretics, which may cause electrolyte abnormalities;
-- Patients with hypokalemia or hypomagnesemia.
+- •Patients with a personal or family history of abnormal heart rhythms, such as congenital long QT syndrome;
+- •Patients who take medications, such as diuretics, which may cause electrolyte abnormalities;
+- •Patients with hypokalemia or hypomagnesemia.
 
 Ondansetron Injection should be avoided in these patients, since they may be more at risk for cardiac arrhythmias, such as QT prolongation and Torsade de Pointes [see Warnings and Precautions (5.2)].
 
 Drug Interactions
 
-- Instruct the patient to report the use of all medications, especially apomorphine, to their healthcare provider.
+- •Instruct the patient to report the use of all medications, especially apomorphine, to their healthcare provider.
   Concomitant use of apomorphine and Ondansetron Injection may cause a significant drop in blood pressure and loss of consciousness.
-- Advise patients of the possibility of serotonin syndrome with concomitant use of Ondansetron Injection and another serotonergic agent, such as medications to treat depression and migraines.
+- •Advise patients of the possibility of serotonin syndrome with concomitant use of Ondansetron Injection and another serotonergic agent, such as medications to treat depression and migraines.
   Advise patients to seek immediate medical attention if the following symptoms occur: changes in mental status, autonomic instability, neuromuscular symptoms with or without gastrointestinal symptoms [see Warnings and Precautions (5.3)].
 
 Myocardial Ischemia

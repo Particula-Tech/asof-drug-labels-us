@@ -2,11 +2,11 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
-- QT Prolongation [see Warnings and Precautions (5.2)]
-- Serotonin Syndrome [see Warnings and Precautions (5.3)]
-- Myocardial Ischemia [see Warnings and Precautions (5.4)]
-- Masking of Progressive Ileus and Gastric Distension [see Warnings and Precautions (5.5)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+- •QT Prolongation [see Warnings and Precautions (5.2)]
+- •Serotonin Syndrome [see Warnings and Precautions (5.3)]
+- •Myocardial Ischemia [see Warnings and Precautions (5.4)]
+- •Masking of Progressive Ileus and Gastric Distension [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
