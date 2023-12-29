@@ -2,7 +2,7 @@
 
 ## Strongyloidiasis
 
-The recommended dosage of ivermectin Tablets for the treatment of strongyloidiasis is a single oral dose designed to provide approximately 200 mcg of ivermectin per kg of body weight.
+The recommended dosage of ivermectin tablets for the treatment of strongyloidiasis is a single oral dose designed to provide approximately 200 mcg of ivermectin per kg of body weight.
 See Table 1 for dosage guidelines.
 Patients should take tablets on an empty stomach with water (See CLINICAL PHARMACOLOGY, Pharmacokinetics).
 In general, additional doses are not necessary.

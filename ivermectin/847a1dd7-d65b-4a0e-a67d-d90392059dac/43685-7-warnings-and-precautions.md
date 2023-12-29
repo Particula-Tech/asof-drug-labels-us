@@ -24,7 +24,7 @@ In individuals who warrant treatment with ivermectin for any reason and have had
 
 ## Information for Patients
 
-Ivermectin Tablets should be taken on an empty stomach with water (See CLINICAL PHARMACOLOGY, Pharmacokinetics).
+Ivermectin tablets should be taken on an empty stomach with water (See CLINICAL PHARMACOLOGY, Pharmacokinetics).
 
 ### Strongyloidiasis
 

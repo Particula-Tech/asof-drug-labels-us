@@ -3,7 +3,7 @@
 ## Pharmacokinetics
 
 Following oral administration of ivermectin, plasma concentrations are approximately proportional to the dose.
-In two studies, after single 12-mg doses of ivermectin in fasting healthy volunteers (representing a mean dose of 165 mcg/kg), the mean peak plasma concentrations of the major component (H2B1a) were 46.6 (±21.9) (range: 16.4 to 101.1) and 30.6 (±15.6) (range: 13.9 to 68.4) ng/mL, respectively, at approximately 4 hours after dosing.
+In two studies, after single 12-mg doses of ivermectin tablets in fasting healthy volunteers (representing a mean dose of 165 mcg/kg), the mean peak plasma concentrations of the major component (H2B1a) were 46.6 (±21.9) (range: 16.4 - 101.1) and 30.6 (±15.6) (range: 13.9 - 68.4) ng/mL, respectively, at approximately 4 hours after dosing.
 Ivermectin is metabolized in the liver, and ivermectin and/or its metabolites are excreted almost exclusively in the feces over an estimated 12 days, with less than 1% of the administered dose excreted in the urine.
 The plasma half-life of ivermectin in man is approximately 18 hours following oral administration.
 
@@ -36,7 +36,7 @@ Its activity against Strongyloides stercoralis is limited to the intestinal stag
 Two controlled clinical studies using albendazole as the comparative agent were carried out in international sites where albendazole is approved for the treatment of strongyloidiasis of the gastrointestinal tract, and three controlled studies were carried out in the U.S. and internationally using thiabendazole as the comparative agent.
 Efficacy, as measured by cure rate, was defined as the absence of larvae in at least two follow-up stool examinations 3 to 4 weeks post-therapy.
 Based on this criterion, efficacy was significantly greater for ivermectin (a single dose of 170 to 200 mcg/kg) than for albendazole (200 mg b.i.d. for 3 days).
-Ivermectin administered as a single dose of 200 mcg/kg for 1 day was as efficacious as thiabendazole administered at 25 mg/kg b.i.d. for 3 days.
+Ivermectin tablets administered as a single dose of 200 mcg/kg for 1 day was as efficacious as thiabendazole administered at 25 mg/kg b.i.d. for 3 days.
 
 Summary of Cure Rates for Ivermectin Versus Comparative Agents in the Treatment of Strongyloidiasis
 
@@ -66,8 +66,8 @@ Concentration techniques (such as using a Baermann apparatus) should be employed
 ### Onchocerciasis
 
 The evaluation of ivermectin in the treatment of onchocerciasis is based on the results of clinical studies involving 1278 patients.
-In a double-blind, placebo-controlled study involving adult patients with moderate to severe onchocercal infection, patients who received a single dose of 150 mcg/kg ivermectin experienced an 83.2% and 99.5% decrease in skin microfilariae count (geometric mean) 3 days and 3 months after the dose, respectively.
-A marked reduction of greater than 90% was maintained for up to 12 months after the single dose.
+In a double-blind, placebo-controlled study involving adult patients with moderate to severe onchocercal infection, patients who received a single dose of 150 mcg/kg ivermectin tablets experienced an 83.2% and 99.5% decrease in skin microfilariae count (geometric mean) 3 days and 3 months after the dose, respectively.
+A marked reduction of >90% was maintained for up to 12 months after the single dose.
 As with other microfilaricidal drugs, there was an increase in the microfilariae count in the anterior chamber of the eye at day 3 after treatment in some patients.
 However, at 3 and 6 months after the dose, a significantly greater percentage of patients treated with ivermectin had decreases in microfilariae count in the anterior chamber than patients treated with placebo.
 

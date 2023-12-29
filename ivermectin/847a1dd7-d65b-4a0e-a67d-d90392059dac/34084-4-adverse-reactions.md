@@ -24,7 +24,7 @@ Leukopenia and anemia were seen in one patient.
 
 ## Onchocerciasis
 
-In clinical trials involving 963 adult patients treated with 100 to 200 mcg/kg ivermectin, worsening of the following Mazzotti reactions during the first 4 days post-treatment were reported: arthralgia/synovitis (9.3%), axillary lymph node enlargement and tenderness (11.0% and 4.4%, respectively), cervical lymph node enlargement and tenderness (5.3% and 1.2%, respectively), inguinal lymph node enlargement and tenderness (12.6% and 13.9%, respectively), other lymph node enlargement and tenderness (3.0% and 1.9%, respectively), pruritus (27.5%), skin involvement including edema, papular and pustular or frank urticarial rash (22.7%), and fever (22.6%) (See WARNINGS).
+In clinical trials involving 963 adult patients treated with 100 to 200 mcg/kg ivermectin tablets, worsening of the following Mazzotti reactions during the first 4 days post-treatment were reported: arthralgia/synovitis (9.3%), axillary lymph node enlargement and tenderness (11.0% and 4.4%, respectively), cervical lymph node enlargement and tenderness (5.3% and 1.2%, respectively), inguinal lymph node enlargement and tenderness (12.6% and 13.9%, respectively), other lymph node enlargement and tenderness (3.0% and 1.9%, respectively), pruritus (27.5%), skin involvement including edema, papular and pustular or frank urticarial rash (22.7%), and fever (22.6%) (See WARNINGS).
 
 In clinical trials, ophthalmological conditions were examined in 963 adult patients before treatment, at day 3, and months 3 and 6 after treatment with 100 to 200 mcg/kg ivermectin.
 Changes observed were primarily deterioration from baseline 3 days post-treatment.
@@ -56,3 +56,5 @@ Conjunctival hemorrhage
 ### All Indications
 
 Hypotension (mainly orthostatic hypotension), worsening of bronchial asthma, toxic epidermal necrolysis, Stevens-Johnson syndrome, seizures, hepatitis, elevation of liver enzymes, and elevation of bilirubin.
+
+Neurotoxicity including alteration of consciousness of variable severity (e.g., somnolence/drowsiness, stupor, and coma), confusion, disorientation, and death (see WARNINGS).
