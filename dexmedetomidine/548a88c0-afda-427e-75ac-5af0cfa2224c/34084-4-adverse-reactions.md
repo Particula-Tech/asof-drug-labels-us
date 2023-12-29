@@ -16,7 +16,8 @@ Intensive Care Unit Sedation
 Adverse reaction information is derived from the continuous infusion trials of PRECEDEX for sedation in the Intensive Care Unit setting in which 1,007 adult patients received PRECEDEX.
 The mean total dose was 7.4 mcg/kg (range: 0.8 to 84.1), mean dose per hour was 0.5 mcg/kg/hr (range: 0.1 to 6.0) and the mean duration of infusion of 15.9 hours (range: 0.2 to 157.2).
 The population was between 17 to 88 years of age, 43% ≥65 years of age, 77% male and 93% Caucasian.
-Treatment-emergent adverse reactions occurring at an incidence of >2% are provided in Table 3.
+Treatment-emergent adverse reactions occurring at an incidence of >2% are provided in Error!
+Hyperlink reference not valid..
 The most frequent adverse reactions were hypotension, bradycardia and dry mouth [see Warnings and Precautions (5.2)].
 
 Table 3: Adverse Reactions with an Incidence >2%-Adult Intensive Care Unit Sedation Population <24 hours26 subjects in the all PRECEDEX group and 10 subjects in the randomized PRECEDEX group had exposure for greater than 24 hours.
@@ -142,7 +143,7 @@ Table 7: Adverse Reactions with an Incidence >2%—Adult Procedural Sedation Pop
 | --- | --- | --- |
 | HypotensionHypotension was defined in absolute and relative terms as Systolic blood pressure of <80 mmHg or ≤30% lower than pre-study drug infusion value, or Diastolic blood pressure of <50 mmHg. | 54% | 30% |
 | Respiratory DepressionRespiratory depression was defined in absolute and relative terms as respiratory rate (RR) <8 beats per minute or >25% decrease from baseline. | 37% | 32% |
-| BradycardiaBradycardia was defined in absolute and relative terms as <40 beats per minute or ≤30% lower than pre-study drug infusion value. Subjects in Study 2 were pretreated with glycopyrrolate 0.1 mg intravenously before receiving study drug [see Clinical Studies (14.2)]. | 14% | 4% |
+| BradycardiaBradycardia was defined in absolute and relative terms as <40 beats per minute or ≤30% lower than pre-study drug infusion value. Subjects in Study 2 were pretreated with glycopyrrolate 0.1 mg intravenously before receiving study drug [see Error! Hyperlink reference not valid.]. | 14% | 4% |
 | HypertensionHypertension was defined in absolute and relative terms as Systolic blood pressure >180 mmHg or ≥30% higher than pre-study drug infusion value or Diastolic blood pressure of >100 mmHg. | 13% | 24% |
 | TachycardiaTachycardia was defined in absolute and relative terms as >120 beats per minute or ≥30% greater than pre-study drug infusion value. | 5% | 17% |
 | Nausea | 3% | 2% |
@@ -151,20 +152,25 @@ Table 7: Adverse Reactions with an Incidence >2%—Adult Procedural Sedation Pop
 | Bradypnea | 2% | 4% |
 
 Bradycardia was defined in absolute and relative terms as <40 beats per minute or ≤30% lower than pre-study drug infusion value.
-Subjects in Study 2 were pretreated with glycopyrrolate 0.1 mg intravenously before receiving study drug [see Clinical Studies (14.2)].
+Subjects in Study 2 were pretreated with glycopyrrolate 0.1 mg intravenously before receiving study drug [see Error!
+Hyperlink reference not valid.].
 
 Pediatric Sedation for Magnetic Resonance Imaging
 
-Adverse reaction information is derived from a trial for sedation of pediatric procedural during a non‑invasive procedure [see Clinical Studies (14.2)] in which 122 pediatric patients aged 1 month to less than 17 years undergoing magnetic resonance imaging (MRI) scans received PRECEDEX.
+Adverse reaction information is derived from a trial for sedation of pediatric procedural during a non‑invasive procedure [see Error!
+Hyperlink reference not valid.] in which 122 pediatric patients aged 1 month to less than 17 years undergoing magnetic resonance imaging (MRI) scans received PRECEDEX.
 In pediatric patients 1 month to less than 2 years old, the median total dose for the PRECEDEX low, middle, and high dose treatment groups was 8.30, 18.90, and 22.75 mcg, respectively.
 The median duration of treatment ranged from 52.5 to 69 minutes across treatment groups.
 In pediatric patients 2 to less than 17 years old, the median total dose for the PRECEDEX low, middle, and high dose treatment groups was 21.30, 43.90, and 80.25 mcg, respectively.
 The median duration of treatment ranged from 56.5 to 66 minutes across treatment groups.
 
 All-causality treatment-emergent adverse reactions occurring in the combined age group of pediatric patients during the procedure at an incidence of >5% are provided in Table 8.
-The most frequent treatment-emergent adverse events were bradypnea, bradycardia, hypertension, and hypotension [see Warnings and Precautions (5.2, 5.3)].
+The most frequent treatment-emergent adverse events were bradypnea, bradycardia, hypertension, and hypotension [see Error!
+Hyperlink reference not valid., Error!
+Hyperlink reference not valid.)].
 In the combined age group and in each age group, increased incidence in bradycardia and hypertension was observed with increasing PRECEDEX dose.
-Mild transient withdrawal symptoms of emergence delirium or agitation occurred in 3 of 122 patients after discontinuation of PRECEDEX infusion [see Warnings and Precautions (5.5)].
+Mild transient withdrawal symptoms of emergence delirium or agitation occurred in 3 of 122 patients after discontinuation of PRECEDEX infusion [see Error!
+Hyperlink reference not valid.].
 All reported treatment‑emergent adverse reactions were mild to moderate in severity and the majority resolved without medical intervention.
 No subject in the study required airway intervention, including a jaw thrust or insertion of a nasal or oral airway.
 A similar profile was observed in the pediatric patients 1 month to less than 2 years old and in pediatric patients 2 to less than 17 years old.

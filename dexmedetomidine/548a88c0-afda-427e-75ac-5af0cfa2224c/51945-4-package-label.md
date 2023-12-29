@@ -41,7 +41,7 @@ For Intravenous Use
 
 # PRINCIPAL DISPLAY PANEL - 100 mL Bottle Tray
 
-10 Units X 100 mL Rx only NDC 0409-1660-10
+10 Units X 100 mL Rx only NDC 0409-1660-10 Contains 10 of NDC 0409-1660-35
 
 Single-dose bottle.
 Discard unused portion.
@@ -99,7 +99,7 @@ RL–7616
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Vial Tray
 
-2 mL Single-dose 25 Fliptop Vials Preservative-Free NDC 0409-1638-02 Contains 25 of NDC 0409-1638-32
+2 mL Single-dose Fliptop Vials Preservative-Free NDC 0409-1638-02 Contains 25 of NDC 0409-1638-32
 
 Precedex™ DEXMEDETOMIDINE HCl INJECTION Rx only
 

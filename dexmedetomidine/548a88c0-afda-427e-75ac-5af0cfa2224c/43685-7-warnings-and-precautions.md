@@ -38,7 +38,8 @@ This alone should not be considered as evidence of lack of efficacy in the absen
 Intensive Care Unit Sedation
 
 With administration up to 7 days, regardless of dose, 12 (5%) PRECEDEX adult subjects experienced at least 1 event related to withdrawal within the first 24 hours after discontinuing study drug and 7 (3%) PRECEDEX adult subjects experienced at least 1 event 24 to 48 hours after end of study drug.
-The most common events were nausea, vomiting, and agitation [see Adverse Reactions (6.1)].
+The most common events were nausea, vomiting, and agitation [see Error!
+Hyperlink reference not valid.].
 
 In adult subjects, tachycardia and hypertension requiring intervention in the 48 hours following study drug discontinuation occurred at frequencies of <5%.
 
