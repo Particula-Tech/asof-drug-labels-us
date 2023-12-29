@@ -14,8 +14,8 @@ The AUC exposure at the highest dose is estimated at 11 (males) or 26 (females) 
 
 Mutagenesis
 
-Desvenlafaxine was not mutagenic in the in vitrobacterial mutation assay (Ames test) and was not clastogenic in an in vitrochromosome aberration assay in cultured CHO cells, an in vivomouse micronucleus assay, or an in vivochromosome aberration assay in rats.
-Additionally, desvenlafaxine was not genotoxic in the in vitroCHO mammalian cell forward mutation assay and was negative in the in vitroBALB/c-3T3 mouse embryo cell transformation assay.
+Desvenlafaxine was not mutagenic in the in vitro bacterial mutation assay (Ames test) and was not clastogenic in an in vitro chromosome aberration assay in cultured CHO cells, an in vivo mouse micronucleus assay, or an in vivo chromosome aberration assay in rats.
+Additionally, desvenlafaxine was not genotoxic in the in vitro CHO mammalian cell forward mutation assay and was negative in the in vitro BALB/c-3T3 mouse embryo cell transformation assay.
 
 Impairment of Fertility
 

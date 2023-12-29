@@ -76,7 +76,7 @@ Figure 3: Effects of Desvenlafaxine on Pharmacokinetics of Other Drugs
 
 In Vitro Studies
 
-Based on in vitrodata, drugs that inhibit CYP isozymes 1A1, 1A2, 2A6, 2D6, 2C8, 2C9, 2C19, and 2E1 are not expected to have significant impact on the pharmacokinetic profile of desvenlafaxine.
+Based on in vitro data, drugs that inhibit CYP isozymes 1A1, 1A2, 2A6, 2D6, 2C8, 2C9, 2C19, and 2E1 are not expected to have significant impact on the pharmacokinetic profile of desvenlafaxine.
 
 Desvenlafaxine does not inhibit CYP1A2, 2A6, 2C8, 2C9, 2C19 CYP2D6, or CYP3A4 isozymes.
 Desvenlafaxine does not induce CYP3A4 either.

@@ -9,6 +9,8 @@ Healthcare providers are encouraged to register patients by calling the National
 
 Risk Summary
 
+Based on data from published observational studies, exposure to SNRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions (5.4) and Clinical Considerations].
+
 There are no published studies on desvenlafaxine in pregnant women; however published epidemiologic studies of pregnant women exposed to venlafaxine, the parent compound, have not reported a clear association with adverse developmental outcomes (see Data).
 There are risks associated with untreated depression in pregnancy and with exposure to SNRIs and SSRIs, including desvenlafaxine, during pregnancy (see Clinical Considerations).
 
@@ -27,7 +29,7 @@ A prospective longitudinal study of 201 women with a history of major depression
 
 Maternal Adverse Reactions
 
-Exposure to SNRIs in mid to late pregnancy may increase the risk for preeclampsia, and exposure to SNRIs near delivery may increase the risk for postpartum hemorrhage.
+Exposure to desvenlafaxine in mid to late pregnancy may increase the risk for preeclampsia, and exposure to desvenlafaxine in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.4)].
 
 Fetal/Neonatal Adverse Reactions
 
@@ -126,7 +128,7 @@ SSRIs and SNRIs, including desvenlafaxine, have been associated with cases of cl
 
 ## 8.6 Renal Impairment
 
-Adjust the maximum recommended dosage in patients with moderate or severe renal impairment (CL Cr15 to 50 mL/min, C-G), or end-stage renal disease (CL Cr<15 mL/min, C-G) [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+Adjust the maximum recommended dosage in patients with moderate or severe renal impairment (CL Cr 15 to 50 mL/min, C-G), or end-stage renal disease (CL Cr <15 mL/min, C-G) [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

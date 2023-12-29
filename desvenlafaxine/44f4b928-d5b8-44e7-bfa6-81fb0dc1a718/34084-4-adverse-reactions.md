@@ -111,14 +111,14 @@ Other Adverse Reactions Observed in Premarketing and Postmarketing Clinical Stud
 
 Other infrequent adverse reactions, not described elsewhere in the label, occurring at an incidence of <2% in MDD patients treated with desvenlafaxine were:
 
-Cardiac disorders– Tachycardia.
-General disorders and administration site conditions– Asthenia.
-Investigations– Weight increased, liver function test abnormal, blood prolactin increased.
-Musculoskeletal and connective tissue disorders– Musculoskeletal stiffness.
-Nervous system disorders–Syncope, convulsion, dystonia.
-Psychiatric disorders– Depersonalization, bruxism.
-Renal and urinary disorders– Urinary retention.
-Skin and subcutaneous tissue disorders– Rash, alopecia, photosensitivity reaction, angioedema.
+Cardiac disorders – Tachycardia.
+General disorders and administration site conditions – Asthenia.
+Investigations – Weight increased, liver function test abnormal, blood prolactin increased.
+Musculoskeletal and connective tissue disorders – Musculoskeletal stiffness.
+Nervous system disorders –Syncope, convulsion, dystonia.
+Psychiatric disorders – Depersonalization, bruxism.
+Renal and urinary disorders – Urinary retention.
+Skin and subcutaneous tissue disorders – Rash, alopecia, photosensitivity reaction, angioedema.
 
 In clinical studies, there were uncommon reports of ischemic cardiac adverse reactions, including myocardial ischemia, myocardial infarction, and coronary occlusion requiring revascularization; these patients had multiple underlying cardiac risk factors.
 More patients experienced these events during desvenlafaxine treatment as compared to placebo.
@@ -140,11 +140,9 @@ Table 4: Incidence (%) of Patients with Lipid Abnormalities of Potential Clinica
 | --- | --- | --- | --- | --- | --- |
 |  | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |
 | Total Cholesterol | 2 | 3 | 4 | 4 | 10 |
-| *(Increase of ≥50 mg/dl and an absolute value of |  |  |  |  |  |
-| ≥261 mg/dl) |  |  |  |  |  |
+| *(Increase of ≥50 mg/dl and an absolute value of ≥261 mg/dl) |  |  |  |  |  |
 | LDL Cholesterol | 0 | 1 | 0 | 1 | 2 |
-| *(Increase ≥50 mg/dl and an absolute value of |  |  |  |  |  |
-| ≥190 mg/dl) |  |  |  |  |  |
+| *(Increase ≥50 mg/dl and an absolute value of ≥190 mg/dl) |  |  |  |  |  |
 | Triglycerides, fasting | 3 | 2 | 1 | 4 | 6 |
 | *(Fasting: ≥327 mg/dl) |  |  |  |  |  |
 
@@ -199,4 +197,4 @@ In the pre-marketing short-term, placebo-controlled clinical studies with doses 
 The following adverse reaction has been identified during post-approval use of desvenlafaxine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Skin and subcutaneous tissue disorders– Stevens-Johnson syndrome Gastrointestinal disorders– Pancreatitis acute Cardiovascular system– Takotsubo cardiomyopathy
+Skin and subcutaneous tissue disorders– Stevens-Johnson syndrome Gastrointestinal disorders– Pancreatitis acute Cardiovascular system – Takotsubo cardiomyopathy Respiratory, thoracic and mediastinal disorders– Anosmia, hyposmia
