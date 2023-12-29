@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA218010"
+  ],
+  "inn": "travoprost",
+  "labeler": "Glaukos Corporation",
+  "package_ndcs": [
+    "25357-100-01"
+  ],
+  "products": [
+    {
+      "form": "IMPLANT",
+      "generic": "travoprost intracameral",
+      "name": "iDose TR"
+    }
+  ],
+  "setid": "92f6d3e2-8328-47df-972c-23008f4a1c1c",
+  "source": "dailymed"
+}
