@@ -93,3 +93,6 @@ Some cases have required debridement and antibiotic treatment.
 The likelihood of serious injection site reactions may be increased with inadvertent intramuscular or intradermal administration.
 
 Insufficient dosing: Cases of drug withdrawal reactions consistent with insufficient drug dosing have been reported, often occurring at or after two weeks of treatment initiation and resolving upon dose increase.
+
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking opiods.
+Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).

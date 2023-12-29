@@ -2,7 +2,7 @@ Carton - Single-dose Prefilled Syringe Kit - 8 mg Weekly Dose - BRIXADI
 
 PRINCIPAL DISPLAY PANEL
 
-Brixadi™ (buprenorphine) extended-release injection for subcutaneous use CIII WEEKLY
+Brixadi® (buprenorphine) extended-release injection for subcutaneous use CIII WEEKLY
 
 For Subcutaneous Use Only
 
@@ -23,11 +23,11 @@ For Healthcare Provider Administration Only.
 Do Not Dispense to Patient.
 
 Attention: Dispense the enclosed Medication Giude to each patient.
-Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispose of BRIXADI™ syringes per facility procedure for a Schedule III drug product, and per applicable federal, state, and local regulations.
+Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispose of BRIXADI® syringes per facility procedure for a Schedule III drug product, and per applicable federal, state, and local regulations.
 Once-weekly subcutaneous injection for treatment of opiod use disorder.
 For questions, call 1-833-274-9234.
 
-05/23 126980
+05/23
 
 NDC 58284-208-01
 
@@ -35,7 +35,7 @@ Carton - Single-dose Prefilled Syringe Kit - 16 mg Weekly Dose - BRIXADI
 
 PRINCIPAL DISPLAY PANEL
 
-Brixadi™ (buprenorphine) extended-release injection for subcutaneous use CIII WEEKLY
+Brixadi® (buprenorphine) extended-release injection for subcutaneous use CIII WEEKLY
 
 For Subcutaneous Use Only
 
@@ -56,11 +56,11 @@ For Healthcare Provider Administration Only.
 Do Not Dispense to Patient.
 
 Attention: Dispense the enclosed Medication Giude to each patient.
-Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispose of BRIXADI™ syringes per facility procedure for a Schedule III drug product, and per applicable federal, state, and local regulations.
+Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispose of BRIXADI® syringes per facility procedure for a Schedule III drug product, and per applicable federal, state, and local regulations.
 Once-weekly subcutaneous injection for treatment of opiod use disorder.
 For questions, call 1-833-274-9234.
 
-05/23 126981
+05/23
 
 NDC 58284-216-01
 
@@ -68,7 +68,7 @@ Carton - Single-dose Prefilled Syringe Kit - 24 mg Weekly Dose - BRIXADI
 
 PRINCIPAL DISPLAY PANEL
 
-Brixadi™ (buprenorphine) extended-release injection for subcutaneous use CIII WEEKLY
+Brixadi® (buprenorphine) extended-release injection for subcutaneous use CIII WEEKLY
 
 For Subcutaneous Use Only
 
@@ -89,11 +89,11 @@ For Healthcare Provider Administration Only.
 Do Not Dispense to Patient.
 
 Attention: Dispense the enclosed Medication Giude to each patient.
-Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispose of BRIXADI™ syringes per facility procedure for a Schedule III drug product, and per applicable federal, state, and local regulations.
+Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispose of BRIXADI® syringes per facility procedure for a Schedule III drug product, and per applicable federal, state, and local regulations.
 Once-weekly subcutaneous injection for treatment of opiod use disorder.
 For questions, call 1-833-274-9234.
 
-05/23 126982
+05/23
 
 NDC 58284-224-01
 
@@ -101,7 +101,7 @@ Carton - Single-dose Prefilled Syringe Kit - 32 mg Weekly Dose - BRIXADI
 
 PRINCIPAL DISPLAY PANEL
 
-Brixadi™ (buprenorphine) extended-release injection for subcutaneous use CIII WEEKLY
+Brixadi® (buprenorphine) extended-release injection for subcutaneous use CIII WEEKLY
 
 For Subcutaneous Use Only
 
@@ -122,11 +122,11 @@ For Healthcare Provider Administration Only.
 Do Not Dispense to Patient.
 
 Attention: Dispense the enclosed Medication Giude to each patient.
-Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispose of BRIXADI™ syringes per facility procedure for a Schedule III drug product, and per applicable federal, state, and local regulations.
+Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispose of BRIXADI® syringes per facility procedure for a Schedule III drug product, and per applicable federal, state, and local regulations.
 Once-weekly subcutaneous injection for treatment of opiod use disorder.
 For questions, call 1-833-274-9234.
 
-05/23 126983
+05/23
 
 NDC 58284-232-01
 
@@ -134,7 +134,7 @@ Carton - Single-dose Prefilled Syringe Kit - 64 mg Monthly Dose - BRIXADI
 
 PRINCIPAL DISPLAY PANEL
 
-Brixadi™ (buprenorphine) extended-release injection for subcutaneous use CIII MONTHLY
+Brixadi® (buprenorphine) extended-release injection for subcutaneous use CIII MONTHLY
 
 For Subcutaneous Use Only
 
@@ -155,11 +155,11 @@ For Healthcare Provider Administration Only.
 Do Not Dispense to Patient.
 
 Attention: Dispense the enclosed Medication Giude to each patient.
-Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispose of BRIXADI™ syringes per facility procedure for a Schedule III drug product, and per applicable federal, state, and local regulations.
+Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispose of BRIXADI® syringes per facility procedure for a Schedule III drug product, and per applicable federal, state, and local regulations.
 Once-monthly subcutaneous injection for treatment of opiod use disorder.
 For questions, call 1-833-274-9234.
 
-05/23 126984
+05/23
 
 NDC 58284-264-01
 
@@ -167,7 +167,7 @@ Carton - Single-dose Prefilled Syringe Kit - 96 mg Monthly Dose - BRIXADI
 
 PRINCIPAL DISPLAY PANEL
 
-Brixadi™ (buprenorphine) extended-release injection for subcutaneous use CIII MONTHLY
+Brixadi® (buprenorphine) extended-release injection for subcutaneous use CIII MONTHLY
 
 For Subcutaneous Use Only
 
@@ -188,11 +188,11 @@ For Healthcare Provider Administration Only.
 Do Not Dispense to Patient.
 
 Attention: Dispense the enclosed Medication Giude to each patient.
-Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispose of BRIXADI™ syringes per facility procedure for a Schedule III drug product, and per applicable federal, state, and local regulations.
+Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispose of BRIXADI® syringes per facility procedure for a Schedule III drug product, and per applicable federal, state, and local regulations.
 Once-monthly subcutaneous injection for treatment of opiod use disorder.
 For questions, call 1-833-274-9234.
 
-05/23 126985
+05/23
 
 NDC 58284-296-01
 
@@ -200,7 +200,7 @@ Carton - Single-dose Prefilled Syringe Kit - 128 mg Monthly Dose - BRIXADI
 
 PRINCIPAL DISPLAY PANEL
 
-Brixadi™ (buprenorphine) extended-release injection for subcutaneous use CIII MONTHLY
+Brixadi® (buprenorphine) extended-release injection for subcutaneous use CIII MONTHLY
 
 For Subcutaneous Use Only
 
@@ -221,10 +221,10 @@ For Healthcare Provider Administration Only.
 Do Not Dispense to Patient.
 
 Attention: Dispense the enclosed Medication Giude to each patient.
-Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispose of BRIXADI™ syringes per facility procedure for a Schedule III drug product, and per applicable federal, state, and local regulations.
+Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispose of BRIXADI® syringes per facility procedure for a Schedule III drug product, and per applicable federal, state, and local regulations.
 Once-monthly subcutaneous injection for treatment of opiod use disorder.
 For questions, call 1-833-274-9234.
 
-05/23 126986
+05/23
 
 NDC 58284-228-01

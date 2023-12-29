@@ -2,7 +2,7 @@
 
 Clinical Presentation
 
-The manifestations of acute buprenorphine overdose include pinpoint pupils, sedation, hypotension, respiratory depression, and death.
+The manifestations of acute buprenorphine overdose include pinpoint pupils, sedation, hypotension, hypoglycemia, respiratory depression, and death.
 
 Treatment of Overdose
 

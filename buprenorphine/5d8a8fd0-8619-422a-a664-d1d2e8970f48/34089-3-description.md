@@ -7,8 +7,10 @@ The active ingredient in BRIXADI is buprenorphine free base, a partial opioid ag
 
 BRIXADI is provided in multiple doses with two durations (weekly and monthly).
 
-- BRIXADI (weekly; 8, 16, 24, 32 mg) consists of 50 mg/mL buprenorphine base, 10% w/w anhydrous ethanol and soybean phosphatidylcholine/glycerol dioleate in a weight ratio 50/50 to final volume.
-- BRIXADI (monthly; 64, 96, 128 mg) consists of 356 mg/mL buprenorphine base, 30% w/w N-methyl pyrrolidine and soybean phosphatidylcholine/glycerol dioleate in weight ratio 40/60 to final volume.
+- BRIXADI (weekly; 8, 16, 24, 32 mg) consists of 50 mg/mL buprenorphine.
+  The inactive ingredients include dehydrated alcohol (12% v/v), glycerol dioleate (43% v/v), and soybean phosphatidylcholine (41% w/v).
+- BRIXADI (monthly; 64, 96, 128 mg) consists of 356 mg/mL buprenorphine.
+  The inactive ingredients include glycerol dioleate (24% v/v), methylpyrrolidone (31% v/v), and soybean phosphatidylcholine (15% w/v).
 
 Upon injection, BRIXADI spontaneously transforms from a low viscous solution to a liquid crystalline gel that encapsulates buprenorphine and releases it at a steady rate as the depot biodegrades.
 
