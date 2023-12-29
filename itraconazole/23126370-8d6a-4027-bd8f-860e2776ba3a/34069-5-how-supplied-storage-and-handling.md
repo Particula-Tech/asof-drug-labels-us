@@ -1,8 +1,6 @@
 # HOW SUPPLIED
 
-Itraconazole capsules are supplied as follows: 100 mg:
-
-Blue opaque cap/pink transparent body size “0” hard gelatin capsules having imprinting “A” on cap with black ink and “175” on body with black ink filled with white to off-white pellets.
+Itraconazole capsules are supplied as follows: 100 mg: Blue opaque cap/pink transparent body size “0” hard gelatin capsules having imprinting “A” on cap with black ink and “175” on body with black ink filled with white to off-white pellets.
 
 NDC 62332-204-30 Bottle of 30 Capsules NDC 62332-204-90 Bottle of 90 Capsules NDC 62332-204-71 Bottle of 500 Capsules NDC 62332-204-10 Unit Dose Capsules of 100 (Blisters of 10) NDC 62332-204-04 7 Blister Packs x 4 Capsules Each (7 Day Treatment Pack)
 
@@ -18,4 +16,4 @@ Manufactured for: Alembic Pharmaceuticals, Inc.
 
 Bedminster, NJ 07921, USA
 
-Revised: 12/2022
+Revised: 11/2023

@@ -101,7 +101,7 @@ Post-marketing Experience
 Adverse drug reactions that have been first identified during post-marketing experience with itraconazole(all formulations) are listed in the table below.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
 
-Table 6: Postmarketing Reports of Adverse Drug Reactions
+Table 6: Post-marketing Reports of Adverse Drug Reactions
 
 | Blood and Lymphatic System Disorders: | Leukopenia, neutropenia, thrombocytopenia |
 | --- | --- |
