@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA209501"
+  ],
+  "inn": "pregabalin",
+  "labeler": "Viatris Specialty LLC",
+  "package_ndcs": [
+    "58151-245-93",
+    "58151-246-93",
+    "58151-247-93"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "pregabalin",
+      "name": "Lyrica CR"
+    }
+  ],
+  "setid": "f280bbd8-2af2-444a-bd96-e409337ca6dd",
+  "source": "dailymed"
+}
