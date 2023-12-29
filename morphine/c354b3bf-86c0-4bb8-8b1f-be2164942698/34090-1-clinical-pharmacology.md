@@ -42,7 +42,7 @@ Effects on the Endocrine System
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reaction (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
 
 Effects on the Immune System
@@ -53,7 +53,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration-Efficacy Relationships
 
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
 The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)]
 
 Concentration–Adverse Reaction Relationships
@@ -68,7 +68,7 @@ Absorption
 MS CONTIN is an extended-release tablet containing morphine sulfate.
 Morphine is released from MS CONTIN somewhat more slowly than from immediate-release oral preparations.
 Following oral administration of a given dose of morphine, the amount ultimately absorbed is essentially the same whether the source is MS CONTIN or an immediate-release formulation.
-Because of pre-systemic elimination (i.e., metabolism in the gut wall and liver) only about 40% of the administered dose reaches the central compartment.
+Because of pre- systemic elimination (i.e., metabolism in the gut wall and liver) only about 40% of the administered dose reaches the central compartment.
 
 The oral bioavailability of morphine is approximately 20 to 40%.
 When MS CONTIN is given on a fixed dosing regimen, steady-state is achieved in about a day.
