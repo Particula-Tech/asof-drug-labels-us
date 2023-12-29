@@ -11,7 +11,7 @@ Because the use of INFUMORPH exposes patients and other users to the risks of op
 
 Life-Threatening Respiratory Depression
 
-Serious, life-threatening, or fatal respiratory depression may occur with use of INFUMORPH, especially during initiation or following a dose increase.
+Serious, life-threatening, or fatal respiratory depression may occur with use of INFUMORPH, especially during initiation or following a dosage increase.
 To reduce the risk of respiratory depression, proper dosing and titration of INFUMORPH are essential [see Warnings and Precautions (5.3)].
 
 Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
@@ -19,7 +19,7 @@ Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
 Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death.
 Reserve concomitant prescribing of INFUMORPH and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate [see Warnings and Precautions (5.4), Drug Interactions (7)].
 
-Neonatal Opioid Withdrawal Syndrome
+Neonatal Opioid Withdrawal Syndrome (NOWS)
 
-If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life-threatening if not recognized and treated.
+If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life threatening if not recognized and treated.
 Ensure that management by neonatology experts will be available at delivery [see Warnings and Precautions (5.5)].

@@ -9,37 +9,28 @@ INFUMORPH should be administered by or under the direction of a physician experi
 - Because epidural administration has been associated with less potential for immediate or late adverse effects than intrathecal administration, the epidural route should be used whenever possible.
 - For safety reasons, it is recommended that administration of INFUMORPH 200 and 500 (10 and 25 mg/mL, respectively) by the intrathecal route be limited to the lumbar area.
 - INFUMORPH 200 and 500 (10 and 25 mg/mL, respectively) should not be used for single-dose neuraxial injection because lower doses can be more reliably administered with the standard preparation of DURAMORPH (0.5 and 1 mg/mL).
-
-Candidates for neuraxial administration of INFUMORPH in a continuous microinfusion device should be hospitalized to provide for adequate patient monitoring during assessment of response to single doses of intrathecal or epidural morphine.
-Hospitalization should be maintained for several days after surgery involving the infusion device for additional monitoring and adjustment of daily dosage.
-The facility must be equipped with resuscitative equipment, oxygen, naloxone injection and other resuscitative drugs.
-
-A period of observation appropriate to the clinical situation should follow each refill or manipulation of the drug reservoir.
-Before discharge, the patient and attendant(s) should receive instruction in the proper home care of the device and insertion site and in the recognition and practical treatment of an overdose of neuraxial morphine.
-
-Familiarization with the continuous microinfusion device is essential.
-The desired amount of morphine should be withdrawn from the ampul through a microfilter.
-To minimize risk from glass or other particles, the product must be filtered through a 5 µ (or smaller) microfilter before injecting into the microinfusion device.
-If dilution is required, 0.9% Sodium Chloride Injection is recommended.
-
-Reservoir filling must be performed by fully trained and qualified personnel, following the directions provided by the device manufacturer.
-Care should be taken in selecting the proper refill frequency to prevent depletion of the reservoir, which would result in exacerbation of severe pain, onset of opioid withdrawal symptoms, and/or reflux of cerebrospinal fluid into some devices.
-Strict aseptic technique is required to avoid bacterial contamination and serious infection.
-Extreme care must be taken to ensure that the needle is properly inserted into the filling port of the device before attempting to refill the reservoir.
-Injecting the solution into the tissue around the device or (in the case of devices that have more than one port) attempting to inject the refill dose into the direct injection port will result in a large, clinically significant, overdosage to the patient.
-
-Safety and Handling Instructions:
-
-INFUMORPH is supplied in sealed ampuls.
-Accidental dermal exposure should be treated by the removal of any contaminated clothing and rinsing the affected area with water.
-
-Inspect parenteral drug products for particulate matter before opening the amber ampul and again for color after removing contents from the ampul.
-Do not use if the solution in the unopened ampul contains a precipitate which does not disappear upon shaking.
-After removal, do not use unless the solution is colorless or pale yellow.
-
-INFUMORPH is intended for single-use only.
-Protect from light, discard any unused portion.
-Do not heat-sterilize.
+  Candidates for neuraxial administration of INFUMORPH in a continuous microinfusion device should be hospitalized to provide for adequate patient monitoring during assessment of response to single doses of intrathecal or epidural morphine.
+  Hospitalization should be maintained for several days after surgery involving the infusion device for additional monitoring and adjustment of daily dosage.
+  The facility must be equipped with resuscitative equipment, oxygen, naloxone injection and other resuscitative drugs.
+  A period of observation appropriate to the clinical situation should follow each refill or manipulation of the drug reservoir.
+  Before discharge, the patient and attendant(s) should receive instruction in the proper home care of the device and insertion site and in the recognition and practical treatment of an overdose of neuraxial morphine.
+  Familiarization with the continuous microinfusion device is essential.
+  The desired amount of morphine should be withdrawn from the ampul through a microfilter.
+  To minimize risk from glass or other particles, the product must be filtered through a 5 μ (or smaller) microfilter before injecting into the microinfusion device.
+  If dilution is required, 0.9% Sodium Chloride Injection is recommended.
+  Reservoir filling must be performed by fully trained and qualified personnel, following the directions provided by the device manufacturer.
+  Care should be taken in selecting the proper refill frequency to prevent depletion of the reservoir, which would result in exacerbation of severe pain, onset of opioid withdrawal symptoms, and/or reflux of cerebrospinal fluid into some devices.
+  Strict aseptic technique is required to avoid bacterial contamination and serious infection.
+  Extreme care must be taken to ensure that the needle is properly inserted into the filling port of the device before attempting to refill the reservoir.
+  Injecting the solution into the tissue around the device or (in the case of devices that have more than one port) attempting to inject the refill dose into the direct injection port will result in a large, clinically significant, overdosage to the patient.
+  Safety and Handling Instructions: INFUMORPH is supplied in sealed ampuls.
+  Accidental dermal exposure should be treated by the removal of any contaminated clothing and rinsing the affected area with water.
+  Inspect parenteral drug products for particulate matter before opening the amber ampul and again for color after removing contents from the ampul.
+  Do not use if the solution in the unopened ampul contains a precipitate which does not disappear upon shaking.
+  After removal, do not use unless the solution is colorless or pale yellow.
+  INFUMORPH is intended for single-use only.
+  Protect from light, discard any unused portion.
+  Do not heat-sterilize.
 
 ## 2.2 Initial Dosage
 
@@ -70,10 +61,13 @@ The upper daily dosage limit for each patient must be individualized.
 ## 2.5 Titration and Maintenance of Therapy
 
 Individually titrate INFUMORPH to a dose that provides adequate analgesia and minimizes adverse reactions.
-Continually reevaluate patients receiving INFUMORPH to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.3)].
+Continually reevaluate patients receiving INFUMORPH to assess the maintenance of pain control, signs and symptoms for opioid withdrawal, and other adverse reactions, as well as to reassess for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.3, 5.16)].
 Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 
 If the level of pain increases after dosage stabilization, attempt to identify the source of the increased pain before increasing the INFUMORPH dosage.
+If after increasing the dosage, unacceptable opioid related adverse reactions are observed (including an increase in pain after a dosage increase), consider reducing the dosage [see Warnings and Precautions (5)].
+Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
+
 Limited experience with continuous intrathecal infusion of morphine has shown that the daily doses have to be increased over time.
 Although the rate of increase, over time, in the dose required to sustain analgesia is highly variable, an estimate of the expected rate of increase is shown in the following Figure.
 
@@ -86,4 +80,4 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 
 When a patient who has been taking INFUMORPH regularly and may be physically dependent or no longer requires therapy with INFUMORPH, taper the dose gradually while monitoring carefully for signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not stop INFUMORPH abruptly in a physically-dependent patient [see Warnings and Precautions (5.15), Drug Abuse and Dependence (9.3)].
+Do not stop INFUMORPH abruptly in a physically dependent patient [see Warnings and Precautions (5.15), Drug Abuse and Dependence (9.3)].

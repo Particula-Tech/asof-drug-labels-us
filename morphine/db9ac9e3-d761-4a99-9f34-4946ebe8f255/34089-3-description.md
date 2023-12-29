@@ -3,7 +3,7 @@
 INFUMORPH (preservative-free morphine sulfate sterile solution) is an opioid agonist, available as a sterile, nonpyrogenic, isobaric, high potency solution of morphine sulfate in strengths of 10 mg or 25 mg morphine sulfate per mL, free of antioxidants, preservatives or other potentially neurotoxic additives.
 INFUMORPH is intended for use in continuous microinfusion devices for intraspinal administration in the management of pain.
 Morphine is the most important alkaloid of opium and is a phenanthrene derivative.
-It is available as the sulfate salt, chemically identified as 7,8-Didehydro-4,5-epoxy-17-methyl-(5α,6α)-morphinan-3,6-diol sulfate (2:1) (salt), pentahydrate, with the following structural formula:
+It is available as the sulfate salt, chemically identified as 7,8-Didehydro-4,5- epoxy-17- methyl-(5α,6α)-morphinan-3,6-diol sulfate (2:1) (salt), pentahydrate, with the following structural formula:
 
 (C17H19NO3)2 • H2SO4 • 5H2O Molecular Weight is 758.83
 
