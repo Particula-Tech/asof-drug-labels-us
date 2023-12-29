@@ -6,7 +6,7 @@ Control of pain by neuraxial opioid delivery is always accompanied by considerab
 The task of treating these patients must be undertaken by experienced clinical teams, well-versed in patient selection, evolving technology and emerging standards of care.
 
 In the case of epidural or intrathecal administration, DURAMORPH should be administered by or under the direction of a physician experienced in the techniques and familiar with the patient management problems associated with epidural or intrathecal drug administration.
-The physician should be familiar with patient conditions (such as infection at the injection site, bleeding diathesis, anticoagulant therapy, etc.) which call for special evaluation of the benefit versus risk potential.
+The physician should be familiar with patient conditions (such as infection at the injection site, bleeding diathesis, anticoagulant therapy, etc.) which call infection at the injection site, bleeding diathesis, anticoagulant therapy, etc.) which call for special evaluation of the benefit versus risk potential.
 
 Because epidural administration has been associated with less potential for immediate or late adverse effects than intrathecal administration, the epidural route should be used whenever possible.
 
@@ -19,15 +19,31 @@ The facility must be equipped to resuscitate patients with severe opiate overdos
 
 Parenteral administration of narcotics in patients receiving epidural or intrathecal morphine may result in overdosage.
 
-## 5.2 Life-Threatening Respiratory Depression
+## 5.2 Addiction, Abuse, and Misuse
 
-Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
+DURAMORPH contains morphine, a Schedule II controlled substance.
+As an opioid, DURAMORPH exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
+
+Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed DURAMORPH.
+Addiction can occur at recommended dosages and if the drug is misused or abused.
+
+Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing DURAMORPH, and monitor all patients receiving DURAMORPH for the development of these behaviors and conditions.
+Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
+The potential for these risks should not, however, prevent the proper management of pain in any given patient.
+Patients at increased risk may be prescribed opioids such as DURAMORPH but use in such patients necessitates intensive counseling about the risks and proper use of DURAMORPH along with intensive monitoring for signs of addiction, abuse, and misuse.
+
+Opioids are sought for nonmedical use and are subject to diversion from legitimate prescribed use.
+Consider these risks when prescribing or dispensing DURAMORPH.
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity.
+Contact local state professional licensing board or state-controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
+
+## 5.3 Life-Threatening Respiratory Depression
+
+Serious, life threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-
 Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
-Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
-
-While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of DURAMORPH, the risk is greatest during the initiation of therapy or following a dosage increase.
+Carbon dioxide (CO) retention from opioid induced respiratory depression can exacerbate the sedating effects of opioids.
+While serious, life threatening, or fatal respiratory depression can occur at any time during the use of DURAMORPH, the risk is greatest during the initiation of therapy or following a dosage increase.
 This respiratory depression and/or respiratory arrest may be severe and could require intervention.
 
 - Because of delay in maximum CNS effect with intravenously administered drug (30 min), rapid administration may result in overdosing.
@@ -43,52 +59,30 @@ To reduce the risk of respiratory depression, proper dosing and titration of DUR
 Overestimating the DURAMORPH dosage can result in a fatal overdose with the first dose.
 
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
-Opioid use increases the risk of CSA in a dose-dependent fashion.
+Opioid use increases the risk of CSA in a dose dependent fashion.
 In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.6)]
 
-## 5.3 Addiction, Abuse, and Misuse
+## 5.4 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-DURAMORPH contains morphine, a Schedule II controlled substance.
-As an opioid, DURAMORPH exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
-
-Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed DURAMORPH.
-Addiction can occur at recommended dosages and if the drug is misused or abused.
-
-Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing DURAMORPH, and monitor all patients receiving DURAMORPH for the development of these behaviors and conditions.
-Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
-The potential for these risks should not, however, prevent the proper management of pain in any given patient.
-Patients at increased risk may be prescribed opioids such as DURAMORPH, but use in such patients necessitates intensive counseling about the risks and proper use of DURAMORPH along with intensive monitoring for signs of addiction, abuse, and misuse.
-
-Opioids are sought by drug users and people with addiction disorders and are subject to criminal diversion.
-Consider these risks when prescribing or dispensing DURAMORPH.
-Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity.
-Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
-
-## 5.4 Neonatal Opioid Withdrawal Syndrome
-
-Prolonged use of DURAMORPH during pregnancy can result in withdrawal in the neonate.
-Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
-Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
-Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1)].
-
-## 5.5 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
-
-Profound sedation, respiratory depression, coma, and death may result from concomitant use of DURAMORPH with benzodiazepines or other CNS depressants, (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Profound sedation, respiratory depression, coma, and death may result from concomitant use of DURAMORPH with benzodiazepines and/or other CNS depressants, including alcohol (e.g., nonbenzodiazepine sedatives/ hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Use of neuroleptics in conjunction with neuraxial morphine may increase the risk of respiratory depression.
 
-Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug related mortality compared to use of opioid analgesics alone.
 Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
 
 If the decision is made to prescribe a benzodiazepine or other CNS depressant concomitantly with an opioid analgesic, prescribe the lowest effective dosages and minimum durations of concomitant use.
 In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
-Follow patients closely for signs and symptoms of respiratory depression and sedation.
+Monitor patients closely for signs and symptoms of respiratory depression and sedation.
 
-Advise both patients and caregivers about the risks of respiratory depression and sedation when DURAMORPH is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
-Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
-Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7)].
+## 5.5 Neonatal Opioid Withdrawal Syndrome
+
+Prolonged use of DURAMORPH during pregnancy can result in withdrawal in the neonate.
+Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life threatening if not recognized and treated and requires management according to protocols developed by neonatology experts.
+Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
+Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that management by neonatology experts will be available at delivery [see Use in Specific Populations (8.1)].
 
 ## 5.6 Risk of Tolerance and Myoclonic Activity
 
@@ -102,33 +96,45 @@ The upper daily dosage limit for each patient during continuing treatment must b
 
 Rapid intravenous administration may result in chest wall rigidity.
 
-## 5.8 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
+## 5.8 Opioid-Induced Hyperalgesia and Allodynia
+
+Opioid Induced Hyperalgesia (OIH) occurs when an opioid analgesic paradoxically causes an increase in pain, or an increase in sensitivity to pain.
+This condition differs from tolerance, which is the need for increasing doses of opioids to maintain a defined effect [see Dependence (9.3)].
+Symptoms of OIH include (but may not be limited to) increased levels of pain upon opioid dosage increase, decreased levels of pain upon opioid dosage decrease, or pain from ordinarily nonpainful stimuli (allodynia).
+These symptoms may suggest OIH only if there is no evidence of underlying disease progression, opioid tolerance, opioid withdrawal, or addictive behavior.
+
+Cases of OIH have been reported, both with short-term and longer-term use of opioid analgesics.
+Though the mechanism of OIH is not fully understood, multiple biochemical pathways have been implicated.
+Medical literature suggests a strong biologic plausibility between opioid analgesics and OIH and allodynia.
+If a patient is suspected to be experiencing OIH, carefully consider appropriately decreasing the dose of the current opioid analgesic or opioid rotation (safely switching the patient to a different opioid moiety) [see Dosage and Administration (2.6), Warnings and Precautions (5.16)].
+
+## 5.9 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
 The use of DURAMORPH in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease: Patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended doses of DURAMORPH [see Warnings and Precautions (5.2)].
+Patients with Chronic Pulmonary Disease: Patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended doses of DURAMORPH [see Warnings and Precautions (5.3)].
 
-Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
+Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.3)].
 
-Monitor such patients closely, particularly when initiating and titrating DURAMORPH and when DURAMORPH is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2)].
+Monitor such patients closely, particularly when initiating and titrating DURAMORPH and when DURAMORPH is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.3, 5.4), Drug Interactions (7)].
 Alternatively, consider the use of non-opioid analgesics in these patients.
 
-## 5.9 Interaction with Monoamine Oxidase Inhibitors
+## 5.10 Interaction with Monoamine Oxidase Inhibitors
 
 Monoamine oxidase inhibitors (MAOIs) may potentiate the effects of morphine, including respiratory depression, coma, and confusion.
 DURAMORPH should not be used in patients taking MAOIs or within 14 days of stopping such treatment [see Drug Interactions (7)].
 
-## 5.10 Adrenal Insufficiency
+## 5.11 Adrenal Insufficiency
 
 Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
-Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+Presentation of adrenal insufficiency may include nonspecific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
 If adrenal insufficiency is suspected, confirm the diagnosis with diagnostic testing as soon as possible.
 If adrenal insufficiency is diagnosed, treat with physiologic replacement doses of corticosteroids.
 Wean the patient off of the opioid to allow adrenal function to recover and continue corticosteroid treatment until adrenal function recovers.
 Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
 The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
 
-## 5.11 Severe Hypotension
+## 5.12 Severe Hypotension
 
 DURAMORPH may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
 There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7)].
@@ -136,7 +142,7 @@ Monitor these patients for signs of hypotension after initiating or titrating th
 In patients with circulatory shock, DURAMORPH may cause vasodilation that can further reduce cardiac output and blood pressure.
 Avoid the use of DURAMORPH in patients with circulatory shock.
 
-## 5.12 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
+## 5.13 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
 In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), DURAMORPH may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
 Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with DURAMORPH.
@@ -148,34 +154,29 @@ Clinicians should maintain a high index of suspicion for adverse drug reactions 
 Opioids may also obscure the clinical course in a patient with a head injury.
 Avoid the use of DURAMORPH in patients with impaired consciousness or coma.
 
-## 5.13 Risks of Use in Patients with Gastrointestinal Conditions
+## 5.14 Risks of Use in Patients with Gastrointestinal Conditions
 
 DURAMORPH is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
 
 The morphine in DURAMORPH may cause spasm of the sphincter of Oddi.
 Opioids may cause increases in serum amylase.
-Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+Monitor patients with biliary tract disease, including acute pancreatitis for worsening symptoms.
 As significant morphine is released into the systemic circulation from neuraxial administration, the ensuing smooth muscle hypertonicity may result in biliary colic.
 
-## 5.14 Risk of Seizures
+## 5.15 Risk of Seizures
 
 The morphine in DURAMORPH may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical setting associated with seizures.
 Monitor patients with a history of seizure disorders for worsened seizure control during DURAMORPH therapy.
 
 Excitation of the central nervous system, resulting in convulsions, may accompany high doses of morphine given intravenously.
 
-## 5.15 Withdrawal
+## 5.16 Withdrawal
 
 Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including DURAMORPH.
-In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 When discontinuing DURAMORPH, gradually taper the dosage [see Dosage and Administration (2.6)].
 Do not abruptly discontinue DURAMORPH [see Drug Abuse and Dependence (9.3)].
-
-## 5.16 Risks of Driving and Operating Machinery
-
-DURAMORPH may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
-Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of DURAMORPH and know how they will react to the medication.
 
 ## 5.17 Risks of Use in Patients with Urinary System Disorders
 
