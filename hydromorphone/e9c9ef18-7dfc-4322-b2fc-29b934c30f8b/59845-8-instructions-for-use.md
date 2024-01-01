@@ -1,10 +1,21 @@
 # INSTRUCTIONS FOR USE
 
-Instructions for using the Carpuject™ Syringe are available with the reusable Carpuject™ Holder, List 2049-02.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to ‎‎‎administration, whenever solution and container permit.
+Do not use if color is darker than pale yellow, if it ‎‎is ‎discolored in any other way, or if it contains a precipitate.‎
 
-Carpuject™ Single-dose cartridges are to be used ONLY with Carpuject™ Holders, List 2049-02.
+Instructions for use - Carpuject™ Single-dose Cartridge
 
-To Use iSecure™ Syringe
+Carpuject™ Single-dose cartridges with Luer Lock are packaged in a Slim-Pak™ tamper detection ‎package.
+Note that a needle is not included.‎
+
+Before use, read all instructions for using the Carpuject™ Syringe, which are contained in the product insert for the reusable Carpuject™ Holder.
+
+Carpuject™ Single-dose cartridges are to be used ONLY with Carpuject™ Holders.
+
+NOTE: To prevent needlestick injuries, do not recap, purposely bend, or break by hand used ‎needles.
+Do ‎not recap, purposely bend, or break by hand blunt Cannulas.‎
+
+Instructions for use - iSecure™ Single-dose Syringe
 
 | 1.Remove green tamper evident band in a clockwise motion. |  |
 | --- | --- |

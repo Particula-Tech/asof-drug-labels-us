@@ -4,13 +4,14 @@ The following serious adverse reactions are described, or described in greater d
 
 - •Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
 - •Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
-- •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
-- •Interactions with CNS Benzodiazepines and Other Depressants [see Warnings and Precautions (5.4)]
-- •Adrenal Insufficiency [see Warnings and Precautions (5.6)]
-- •Severe Hypotension [see Warnings and Precautions (5.7)]
-- •Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.9)]
-- •Seizures [see Warnings and Precautions (5.10)]
-- •Withdrawal [see Warnings and Precautions (5.11)]
+- •Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.3)]
+- •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
+- •Opioid-Induced Hyperalgesia and Allodynia [see Warnings and Precautions (5.5)]‎
+- •Adrenal Insufficiency [see Warnings and Precautions (5.7)]
+- •Severe Hypotension [see Warnings and Precautions (5.8)]
+- •Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.10)]
+- •Seizures [see Warnings and Precautions (5.11)]
+- •Withdrawal [see Warnings and Precautions (5.12)]
 
 The following adverse reactions associated with the use of hydromorphone were identified in clinical studies or postmarketing reports.
 Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -52,4 +53,10 @@ Adrenal insufficiency: Cases of adrenal insufficiency have been reported with op
 
 Anaphylaxis: Anaphylaxis has been reported with ingredients contained in Hydromorphone Hydrochloride Injection.
 
-Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids.
+Androgen deficiency: Cases of androgen deficiency have occurred with use of opioids for an extended period of time.
+
+Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been ‎reported with opioid therapy of any duration.
+[see Warnings and Precautions ‎‎(5.5)]‎.
+
+Hypoglycemia: Cases of hypoglycemia have been reported in patients ‎taking opioids.
+Most reports were in patients with at least one ‎predisposing risk factor (e.g., diabetes).‎
