@@ -101,79 +101,79 @@ The most common non-hematologic Grade 3 or 4 adverse reactions (≥5%) were fati
 
 Table 3: Non-Hematologic Adverse Reactions Occurring in at Least 5% of NHL Patients Treated with Bendamustine Hydrochloride by System Organ Class and Preferred Term (N=176)
 
-| Body System | Number (%) of patients* |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Reaction | All Grades | Grade 3/4 |  |  |  |  |  |  |  |  |  |  |
-| Total number of patients with at least 1 adverse reaction | 176 (100) | 94 (53) |  |  |  |  |  |  |  |  |  |  |
-| Cardiac Disorders |  |  |  |  |  |  |  |  |  |  |  |  |
-| Tachycardia | 13 (7) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Gastrointestinal disorders |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nausea | 132 (75) | 7 (4) |  |  |  |  |  |  |  |  |  |  |
-| Vomiting | 71 (40) | 5 (3) |  |  |  |  |  |  |  |  |  |  |
-| Diarrhea | 65 (37) | 6 (3) |  |  |  |  |  |  |  |  |  |  |
-| Constipation | 51 (29) | 1 (<1) |  |  |  |  |  |  |  |  |  |  |
-| Stomatitis | 27 (15) | 1 (<1) |  |  |  |  |  |  |  |  |  |  |
-| Abdominal pain | 22 (13) | 2 (1) |  |  |  |  |  |  |  |  |  |  |
-| Dyspepsia | 20 (11) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Gastroesophageal reflux disease | 18 (10) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Dry mouth | 15 (9) | 1 (<1) |  |  |  |  |  |  |  |  |  |  |
-| Abdominal pain upper | 8 (5) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Abdominal distension | 8 (5) | 0 |  |  |  |  |  |  |  |  |  |  |
-| General disorders and administration site conditions |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fatigue | 101 (57) | 19 (11) |  |  |  |  |  |  |  |  |  |  |
-| Pyrexia | 59 (34) | 3 (2) |  |  |  |  |  |  |  |  |  |  |
-| Chills | 24 (14) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Edema peripheral | 23 (13) | 1 (<1) |  |  |  |  |  |  |  |  |  |  |
-| Asthenia | 19 (11) | 4 (2) |  |  |  |  |  |  |  |  |  |  |
-| Chest pain | 11 (6) | 1 (<1) |  |  |  |  |  |  |  |  |  |  |
-| Infusion site pain | 11 (6) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Pain | 10 (6) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Catheter site pain | 8 (5) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Infections and infestations |  |  |  |  |  |  |  |  |  |  |  |  |
-| Herpes zoster | 18 (10) | 5 (3) |  |  |  |  |  |  |  |  |  |  |
-| Upper respiratory tract infection | 18 (10) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Urinary tract infection | 17 (10) | 4 (2) |  |  |  |  |  |  |  |  |  |  |
-| Sinusitis | 15 (9) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Pneumonia | 14 (8) | 9 (5) |  |  |  |  |  |  |  |  |  |  |
-| Febrile neutropenia | 11 (6) | 11 (6) |  |  |  |  |  |  |  |  |  |  |
-| Oral candidiasis | 11 (6) | 2 (1) |  |  |  |  |  |  |  |  |  |  |
-| Nasopharyngitis | 11 (6) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Investigations |  |  |  |  |  |  |  |  |  |  |  |  |
-| Weight decreased | 31 (18) | 3 (2) |  |  |  |  |  |  |  |  |  |  |
-| Metabolism and nutrition disorders |  |  |  |  |  |  |  |  |  |  |  |  |
-| Anorexia | 40 (23) | 3 (2) |  |  |  |  |  |  |  |  |  |  |
-| Dehydration | 24 (14) | 8 (5) |  |  |  |  |  |  |  |  |  |  |
-| Decreased appetite | 22 (13) | 1 (<1) |  |  |  |  |  |  |  |  |  |  |
-| Hypokalemia | 15 (9) | 9 (5) |  |  |  |  |  |  |  |  |  |  |
-| Musculoskeletal and connective tissue disorders |  |  |  |  |  |  |  |  |  |  |  |  |
-| Back pain | 25 (14) | 5 (3) |  |  |  |  |  |  |  |  |  |  |
-| Arthralgia | 11 (6) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Pain in extremity | 8 (5) | 2 (1) |  |  |  |  |  |  |  |  |  |  |
-| Bone pain | 8 (5) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Nervous system disorders |  |  |  |  |  |  |  |  |  |  |  |  |
-| Headache | 36 (21) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Dizziness | 25 (14) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Dysgeusia | 13 (7) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Psychiatric disorder |  |  |  |  |  |  |  |  |  |  |  |  |
-| Insomnia | 23 (13) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Anxiety | 14 (8) | 1 (<1) |  |  |  |  |  |  |  |  |  |  |
-| Depression | 10 (6) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |  |  |  |  |  |  |
-| Cough | 38 (22) | 1 (<1) |  |  |  |  |  |  |  |  |  |  |
-| Dyspnea | 28 (16) | 3 (2) |  |  |  |  |  |  |  |  |  |  |
-| Pharyngolaryngeal pain | 14 (8) | 1 (<1) |  |  |  |  |  |  |  |  |  |  |
-| Wheezing | 8 (5) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Nasal congestion | 8 (5) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Skin and subcutaneous tissue disorders |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rash | 28 (16) | 1 (<1) |  |  |  |  |  |  |  |  |  |  |
-| Pruritus | 11 (6) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Dry skin | 9 (5) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Night sweats | 9 (5) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Hyperhidrosis | 8 (5) | 0 |  |  |  |  |  |  |  |  |  |  |
-| Vascular disorders |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypotension | 10 (6) | 2 (1) |  |  |  |  |  |  |  |  |  |  |
-| *Patients may have reported more than 1 adverse reaction. |  |  |  |  |  |  |  |  |  |  |  |  |
-| NOTE: Patients counted only once in each preferred term category and once in each system organ class category |  |  |  |  |  |  |  |  |  |  |  |  |
+| Body System | Number (%) of patients* |  |
+| --- | --- | --- |
+| Adverse Reaction | All Grades | Grade 3/4 |
+| Total number of patients with at least 1 adverse reaction | 176 (100) | 94 (53) |
+| Cardiac Disorders |  |  |
+| Tachycardia | 13 (7) | 0 |
+| Gastrointestinal disorders |  |  |
+| Nausea | 132 (75) | 7 (4) |
+| Vomiting | 71 (40) | 5 (3) |
+| Diarrhea | 65 (37) | 6 (3) |
+| Constipation | 51 (29) | 1 (<1) |
+| Stomatitis | 27 (15) | 1 (<1) |
+| Abdominal pain | 22 (13) | 2 (1) |
+| Dyspepsia | 20 (11) | 0 |
+| Gastroesophageal reflux disease | 18 (10) | 0 |
+| Dry mouth | 15 (9) | 1 (<1) |
+| Abdominal pain upper | 8 (5) | 0 |
+| Abdominal distension | 8 (5) | 0 |
+| General disorders and administration site conditions |  |  |
+| Fatigue | 101 (57) | 19 (11) |
+| Pyrexia | 59 (34) | 3 (2) |
+| Chills | 24 (14) | 0 |
+| Edema peripheral | 23 (13) | 1 (<1) |
+| Asthenia | 19 (11) | 4 (2) |
+| Chest pain | 11 (6) | 1 (<1) |
+| Infusion site pain | 11 (6) | 0 |
+| Pain | 10 (6) | 0 |
+| Catheter site pain | 8 (5) | 0 |
+| Infections and infestations |  |  |
+| Herpes zoster | 18 (10) | 5 (3) |
+| Upper respiratory tract infection | 18 (10) | 0 |
+| Urinary tract infection | 17 (10) | 4 (2) |
+| Sinusitis | 15 (9) | 0 |
+| Pneumonia | 14 (8) | 9 (5) |
+| Febrile neutropenia | 11 (6) | 11 (6) |
+| Oral candidiasis | 11 (6) | 2 (1) |
+| Nasopharyngitis | 11 (6) | 0 |
+| Investigations |  |  |
+| Weight decreased | 31 (18) | 3 (2) |
+| Metabolism and nutrition disorders |  |  |
+| Anorexia | 40 (23) | 3 (2) |
+| Dehydration | 24 (14) | 8 (5) |
+| Decreased appetite | 22 (13) | 1 (<1) |
+| Hypokalemia | 15 (9) | 9 (5) |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Back pain | 25 (14) | 5 (3) |
+| Arthralgia | 11 (6) | 0 |
+| Pain in extremity | 8 (5) | 2 (1) |
+| Bone pain | 8 (5) | 0 |
+| Nervous system disorders |  |  |
+| Headache | 36 (21) | 0 |
+| Dizziness | 25 (14) | 0 |
+| Dysgeusia | 13 (7) | 0 |
+| Psychiatric disorder |  |  |
+| Insomnia | 23 (13) | 0 |
+| Anxiety | 14 (8) | 1 (<1) |
+| Depression | 10 (6) | 0 |
+| Respiratory, thoracic and mediastinal disorders |  |  |
+| Cough | 38 (22) | 1 (<1) |
+| Dyspnea | 28 (16) | 3 (2) |
+| Pharyngolaryngeal pain | 14 (8) | 1 (<1) |
+| Wheezing | 8 (5) | 0 |
+| Nasal congestion | 8 (5) | 0 |
+| Skin and subcutaneous tissue disorders |  |  |
+| Rash | 28 (16) | 1 (<1) |
+| Pruritus | 11 (6) | 0 |
+| Dry skin | 9 (5) | 0 |
+| Night sweats | 9 (5) | 0 |
+| Hyperhidrosis | 8 (5) | 0 |
+| Vascular disorders |  |  |
+| Hypotension | 10 (6) | 2 (1) |
+| *Patients may have reported more than 1 adverse reaction. |  |  |
+| NOTE: Patients counted only once in each preferred term category and once in each system organ class category |  |  |
 
 Hematologic toxicities, based on laboratory values and CTC grade, in NHL patients treated in both single arm studies combined are described in Table 4.
 Clinically important chemistry laboratory values that were new or worsened from baseline and occurred in >1% of patients at Grade 3 or 4, in NHL patients treated in both single arm studies combined were hyperglycemia (3%), elevated creatinine (2%), hyponatremia (2%), and hypocalcemia (2%).
