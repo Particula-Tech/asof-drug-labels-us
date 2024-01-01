@@ -2,35 +2,34 @@
 
 ## 2.1 Important Dosage and Administration Instructions
 
-Morphine Sulfate Injection is for intravenous use only.
-It is not for intrathecal or epidural use.
-
-Do not inject directly.
-Morphine Sulfate Injection is intended for continuous intravenous infusion only, after dilution in large volume parenteral solutions [see Dosage and Administration (2.5)].
-
-Dosing errors can result in accidental overdose and death.
-Avoid dosing errors that may result from confusion between mg and mL and confusion with morphine injections of different concentrations when prescribing, dispensing, and administering Morphine Sulfate Injection.
-Ensure that the dose is communicated and dispensed accurately.
-
-Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
-
-Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
-
-Monitor patients closely for respiratory depression, especially within the first 24–72 hours of initiating therapy and following dosage increases with Morphine Sulfate Injection and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
-
-Administration of Morphine Sulfate Injection should be limited to use by those familiar with the management of respiratory depression.
-Morphine must be injected slowly; rapid intravenous administration may result in chest wall rigidity.
-
-Inspect Morphine Sulfate Injection for particulate matter and discoloration prior to administration.
-Do not use if color is darker than pale yellow, if it is discolored in any other way, or if it contains a precipitate.
+- •Morphine Sulfate Injection is for intravenous use only.
+  It is not for intrathecal or epidural use.
+- •Do not inject directly.
+  Morphine Sulfate Injection is intended for continuous intravenous infusion only, after dilution in large volume parenteral solutions [see Dosage and Administration (2.5)].
+- •Dosing errors can result in accidental overdose and death.
+  Avoid dosing errors that may result from confusion between mg and mL and confusion with morphine injections of different concentrations when prescribing, dispensing, and administering Morphine Sulfate Injection.
+  Ensure that the dose is communicated and dispensed accurately.
+- •Morphine Sulfate Injection should be prescribed only by healthcare ‎professionals who are ‎knowledgeable about the use of opioids and how ‎to mitigate the associated risks.‎
+- •Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see Warnings and Precautions (5)].
+  Because the risk of overdose increases as opioid doses ‎increase, reserve titration to higher doses of ‎Morphine Sulfate Injection for ‎patients in whom lower doses are insufficiently effective and in whom ‎the ‎expected benefits of using a higher dose opioid clearly outweigh the ‎substantial risks.‎
+- •Many acute pain conditions (e.g., the pain that occurs with a number ‎of surgical procedures or acute ‎musculoskeletal injuries) require no ‎more than a few days of an opioid analgesic.
+  Clinical guidelines on ‎‎opioid prescribing for some acute pain conditions are available.‎
+- •There is variability in the opioid analgesic dose and duration needed to ‎adequately manage pain due ‎both to the cause of pain and to ‎individual patient factors. ‎Initiate the dosing regimen for each patient individually, taking into account the patient's underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
+- •Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with Morphine Sulfate Injection.
+  Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5.2)].
+- •Morphine must be injected slowly; rapid intravenous administration may result in chest wall rigidity.
+- •Inspect Morphine Sulfate Injection for particulate matter and discoloration prior to administration.
+  Do not use if color is darker than pale yellow, if it is discolored in any other way, or if it contains a precipitate.
 
 ## 2.2 Initial Dosage
 
 Continuous Intravenous Infusion
 
+Use the lowest dose necessary to achieve adequate analgesia.‎
+
 Adults
 
-The usual starting dosage for infusion in adults is 0.02 mg/kg/hour to 0.1 mg/kg/hour as needed.
+Adults: Initiate treatment in a dosing range of 0.02 mg/kg/hour to 0.1 mg/kg/hour as needed.
 The dosage should be titrated according to the patient's response [see Dosage and Administration (2.3)].
 
 For opioid-naïve patients, a maximum dosing rate should not exceed 10 mg/hour.
@@ -41,14 +40,14 @@ Pediatric patients
 
 Patients 1 to less than 17 years old:
 
-The usual starting dosage for intravenous infusion in patients 1 to less than 17 years old is as follows:
+Initiate intravenous infusion in patients 1 to less than 17 years old is as follows:
 
 - •Less than 50 kg body weight: 20 mcg/kg/hour to 30 mcg/kg/hour (0.02 mg/kg/hour to 0.03 mg/kg/hour)
 - •Greater than or equal to 50 kg body weight: 1,500 mcg/hour (1.5 mg/hour)
 
 Patients less than 1 year old, including neonates:
 
-- •Initial infusion rates in neonates range from 0.005 mg/kg/hour to 0.01 mg/kg/hour.
+- •Initiate treatment in a dosing range of 0.005 mg/kg/hour to 0.01 mg/kg/hour.
 - •Cardiorespiratory function should be monitored in patients less than 3 months of age.
   The infusion rate should be adjusted based on clinical signs of inadequate pain relief and/or increased somnolence.
 - •For premature infants and former premature infants with chronic lung disease and up to 5 to 6 months of age, careful monitoring for depressed hypoxic drive is required following opioid administration.
@@ -58,9 +57,9 @@ For opioid-tolerant patients, including patients with a high analgesic requireme
 
 ## 2.3 Titration and Maintenance of Therapy
 
-Individually titrate Morphine Sulfate Injection to a dosage that provides adequate analgesia and minimizes adverse reactions.
-Continually reevaluate patients receiving Morphine Sulfate Injection to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
-If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
+Titrate the dose based upon the individual patient’s response to their initial dose ‎of Morphine Sulfate ‎Injection.‎ Individually titrate Morphine Sulfate Injection to a dosage that provides adequate analgesia and minimizes adverse reactions.
+Continually reevaluate patients receiving Morphine Sulfate Injection to assess the maintenance of pain control, signs and symptoms of opioid withdrawal, and other adverse reactions, as well to reassess for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1, 5.14)].
+If after increasing the dosage, unacceptable opioid‑related adverse reactions are observed, ‎(including an increase in pain after dosage increase)‎,‎ consider reducing the dosage ‎[see Warnings and Precautions (5)]‎.
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
 Pediatric patients
@@ -78,7 +77,7 @@ The maintenance dosage in pediatric patients should be adjusted based on individ
 
 When a patient who has been taking Morphine Sulfate Injection regularly and may be physically dependent no longer requires therapy with Morphine Sulfate Injection, taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue Morphine Sulfate Injection in a physically-dependent patient [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].
+Do not abruptly discontinue Morphine Sulfate Injection in a physically-dependent patient [see Warnings and Precautions (5.14), Drug Abuse and Dependence (9.3)].
 
 ## 2.5 Preparation of Solutions for Infusion
 

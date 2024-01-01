@@ -21,7 +21,7 @@ No formal nonclinical studies to assess the potential of morphine to impair fert
 Several nonclinical studies from the literature have demonstrated adverse effects on male fertility in the rat from exposure to morphine.
 One study in which male rats were administered morphine sulfate subcutaneously prior to mating (up to 30 mg/kg twice daily) and during mating (20 mg/kg twice daily) with untreated females, a number of adverse reproductive effects including reduction in total pregnancies and higher incidence of pseudopregnancies at 20 mg/kg/day (3.2 times the HDD) were reported.
 
-Studies from the literature have also reported changes in hormonal levels in male rats (i.e. testosterone, luteinizing hormone) following treatment with morphine at 10 mg/kg/day or greater (1.6 times the HDD).
+Studies from the literature have also reported changes in hormonal levels in male rats (i.e., testosterone, luteinizing hormone) following treatment with morphine at 10 mg/kg/day or greater (1.6 times the HDD).
 
 Female rats that were administered morphine sulfate intraperitoneally prior to mating exhibited prolonged estrous cycles at 10 mg/kg/day (1.6 times the HDD).
 
