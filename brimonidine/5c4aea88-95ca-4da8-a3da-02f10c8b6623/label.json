@@ -1,10 +1,14 @@
 {
   "application_numbers": [
-    "NDA021262"
+    "NDA021262",
+    "NDA021770"
   ],
   "inn": "brimonidine",
   "labeler": "Pacific Pharma, Inc.",
   "package_ndcs": [
+    "82182-321-05",
+    "82182-321-10",
+    "82182-321-15",
     "82182-773-05",
     "82182-773-10",
     "82182-773-15"

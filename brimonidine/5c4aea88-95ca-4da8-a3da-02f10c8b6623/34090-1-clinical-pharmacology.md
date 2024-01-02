@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Brimonidine tartrate ophthalmic solution 0.15% is a relatively selective alpha-2 adrenergic receptor agonist with a peak ocular hypotensive effect occurring at two hours post-dosing.
+Brimonidine tartrate ophthalmic solution 0.1% and 0.15% is a relatively selective alpha-2 adrenergic receptor agonist with a peak ocular hypotensive effect occurring at two hours post-dosing.
 
 Fluorophotometric studies in animals and humans suggest that brimonidine tartrate has a dual mechanism of action by reducing aqueous humor production and increasing uveoscleral outflow.
 
