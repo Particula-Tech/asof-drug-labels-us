@@ -8,6 +8,8 @@ Implementation of more effective accounting procedures and measures to restrict 
 
 How Supplied
 
+Hydromorphone Hydrochloride Injection is supplied as a sterile solution in single‑dose NexJectTM prefilled syringes for intravenous, intramuscular, and subcutaneous administration, and available as follows:
+
 | Unit of Sale | Concentration (per total volume) |
 | --- | --- |
 | NDC 0409-1805-01Clamshell of 100.5 mL fill in 1.5 mL NexJect™ Single-dose Prefilled Syringe with Luer Lock | 0.25 mg/0.5 mL |
@@ -15,6 +17,8 @@ How Supplied
 | NDC 0409-1283-37 Clamshell of 10 1 mL fill in 1.5 mL NexJect™ Single-dose Prefilled Syringe with Luer Lock | 1 mg/mL |
 | NDC 0409-1312-36 Clamshell of 10 1 mL fill in 1.5 mL NexJect™ Single-dose Prefilled Syringe with Luer Lock | 2 mg/mL |
 | NDC 0409-1380-01 Clamshell of 10 1 mL fill in 1.5 mL NexJect™ Single-dose Prefilled Syringe with Luer Lock | 4 mg/mL |
+
+Note that a needle is not included.
 
 PROTECT FROM LIGHT
 

@@ -1,13 +1,17 @@
 # INSTRUCTIONS FOR USE
 
-To Use NexJect™ Syringe
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to ‎‎‎administration, whenever solution and container permit.
+Do not use if color is darker than pale yellow, if it ‎‎is ‎discolored in any other way, or if it contains a precipitate.‎
+
+NexJect™ Single-dose Prefilled Syringe
 
 Instructions for use – NexJect Prefilled Syringe
 
-NOTE: To prevent needlestick injuries, needles and blunt cannulas should not be recapped, purposely bent, or broken by hand.
+NOTE: To prevent needlestick injuries, do not be recap, purposely bend, or break by hand used ‎needles.
+Do not recap, purposely bend, or break by ‎hand blunt Cannulas.
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1382-2.0
+LAB-1382-3.0
 
-Revised: 6/2022
+Revised: 12/2023
