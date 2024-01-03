@@ -10,11 +10,13 @@ Solifenacin succinate tablets can be administered with or without food.
 
 ## 2.2 Dosing Recommendations in Patients with Renal Impairment
 
-Do not exceed 5 mg once daily in patients with severe renal impairment (CLcr <30 mL/min/1.73 m2) [see Use in Specific Populations (8.6)].
+Do not exceed 5 mg once daily in patients with severe renal impairment (CLcr <30 mL/min/1.73 m2) [see Use in Specific Populations (Error!
+Hyperlink reference not valid.)].
 
 ## 2.3 Dosing Recommendations in Patients with Hepatic Impairment
 
-Do not exceed 5 mg once daily in patients with moderate hepatic impairment (Child-Pugh B). Do not use of solifenacin succinate tablets in patients with severe hepatic impairment (Child-Pugh C) [see Use in Specific Populations (8.7)].
+Do not exceed 5 mg once daily in patients with moderate hepatic impairment (Child-Pugh B). Do not use of solifenacin succinate tablets in patients with severe hepatic impairment (Child-Pugh C) [see Use in Specific Populations (Error!
+Hyperlink reference not valid.)].
 
 ## 2.4 Dosing Recommendations in Patients Taking CYP3A4 Inhibitors
 

@@ -71,10 +71,10 @@ Solifenacin succinate tablets may cause serious side effects including:
 
 - •Serious allergic reaction.
   Stop taking solifenacin succinate tablets and get medical help right away if you have:
-  - •hives, skin rash or swelling
-  - •severe itching
-  - •swelling of your face, mouth or tongue
-  - •trouble breathing
+  - ohives, skin rash or swelling
+  - osevere itching
+  - oswelling of your face, mouth or tongue
+  - otrouble breathing
 
 The most common side effects of solifenacin succinate tablets include:
 
@@ -87,11 +87,11 @@ The most common side effects of solifenacin succinate tablets include:
 - •dry skin due to decreased sweating.
   Heat exhaustion or heat stroke can happen due to decreased sweating when solifenacin succinate tablets are used in hot environments.
   Symptoms may include:
-  - •decreased sweating
-  - •dizziness
-  - •tiredness
-  - •nausea
-  - •increase in body temperature
+  - odecreased sweating
+  - odizziness
+  - otiredness
+  - onausea
+  - oincrease in body temperature
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 

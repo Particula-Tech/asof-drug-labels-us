@@ -74,15 +74,18 @@ Specific Populations
 
 Geriatric Patients
 
-Multiple dose studies of solifenacin succinate in geriatric volunteers (65 to 80 years) showed that Cmax, AUC and t1/2 values of solifenacin were 20 to 25% higher compared to the younger adult volunteers (18 to 55 years) [see Use in Specific Populations (8.5)].
+Multiple dose studies of solifenacin succinate in geriatric volunteers (65 to 80 years) showed that Cmax, AUC and t1/2 values of solifenacin were 20 to 25% higher compared to the younger adult volunteers (18 to 55 years) [Error!
+Hyperlink reference not valid.].
 
 Patients with Renal Impairment
 
-In studies with solifenacin succinate 10 mg, there was a 2.1-fold increase in AUC and a 1.6-fold increase in t1/2 of solifenacin in patients with severe renal impairment compared to subjects with normal renal function [see Use in Specific Populations (8.6)].
+In studies with solifenacin succinate 10 mg, there was a 2.1-fold increase in AUC and a 1.6-fold increase in t1/2 of solifenacin in patients with severe renal impairment compared to subjects with normal renal function [Error!
+Hyperlink reference not valid.].
 
 Patients with Hepatic Impairment
 
-In studies with solifenacin succinate 10 mg, there was a 2-fold increase in the t1/2 and a 35% increase in AUC of solifenacin in patients with moderate hepatic impairment compared to subjects with normal hepatic function [see Use in Specific Populations (8.7)].
+In studies with solifenacin succinate 10 mg, there was a 2-fold increase in the t1/2 and a 35% increase in AUC of solifenacin in patients with moderate hepatic impairment compared to subjects with normal hepatic function [Error!
+Hyperlink reference not valid.].
 Solifenacin succinate has not been studied in patients with severe hepatic impairment.
 
 Drug Interaction Studies
