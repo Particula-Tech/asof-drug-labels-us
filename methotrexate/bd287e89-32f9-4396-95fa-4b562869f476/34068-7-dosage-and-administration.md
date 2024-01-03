@@ -3,13 +3,13 @@
 ## 2.1 Important Dosage and Safety Information
 
 - •Use only preservative-free Methotrexate Injection for treatment of neonates or low-birth weight infants and for intrathecal use.
-  Do not use benzyl alcohol-containing formulations for high-dose regimens unless immediate treatment is required and preservative-free formulations are not available [see Warnings and Precautions (5.3) and Use in Specific Populations (8.4)].
+  Do not use benzyl alcohol-containing formulations for high-dose regimens unless immediate treatment is required and preservative-free formulations are not available [seeWarnings and Precautions (5.3) and Use in Specific Populations (8.4)].
 - •Verify pregnancy status in females of reproductive potential before starting Methotrexate Injection [see Contraindications (4) and Warnings and Precautions (5.1)].
 - •For patients switching between a methotrexate product administered orally and Methotrexate Injection, consider potential differences in bioavailability.
 
 ## 2.2 Recommended Monitoring and Concomitant Therapies for Intermediate- and High-Dose Regimens
 
-To decrease the risk of severe adverse reactions [see Warnings and Precautions (5)]:
+To decrease the risk of severe adverse reactions [seeWarnings and Precautions (5)]:
 
 - •Administer leucovorin rescue in patients receiving Methotrexate Injection doses of 500 mg/m2 or greater (e.g., high-dose).
 - •Consider leucovorin rescue for patients receiving Methotrexate Injection doses between 100 mg/m2 to less than 500 mg/m2 (e.g., intermediate-dose).
@@ -22,13 +22,13 @@ Refer to the leucovorin Prescribing Information for additional information.
   - oAdminister intravenous fluids starting before the first dose and continuing throughout treatment to maintain adequate hydration and urine output
   - oAlkalinize urine starting before the first dose and continuing throughout treatment to maintain a urinary pH of 7 or higher
   - oMonitor methotrexate concentrations at least daily and adjust hydration and leucovorin dosing as needed
-- •Administer glucarpidase in patients who have toxic plasma methotrexate concentrations (>1 micromole per liter) and delayed methotrexate clearance due to impaired renal function (refer to the glucarpidase Prescribing Information for additional information)
+- •Administer glucarpidase in patients who have toxic plasma methotrexate concentrations (>1 micromole per liter) and delayed methotrexate clearance due to impaired renal function (refer to the glucarpidase Prescribing Information for additional information).
 
 ## 2.3 Recommended Dosage for Acute Lymphoblastic Leukemia
 
 Methotrexate Injection is used as part of a multi-drug regimen.
 The recommended dosage varies from 10 to 5,000 mg/m2 intravenously.
-For high-dose Methotrexate Injection regimens, use leucovorin rescue in accordance with high-dose methotrexate regimen guidelines [see Dosage and Administration (2.2)].
+For high-dose Methotrexate Injection regimens, use leucovorin rescue in accordance with high-dose methotrexate regimen guidelines [seeDosage and Administration (2.2)].
 Lower doses (e.g., 20 to 30 mg/m2/week) may be used intramuscularly.
 Individualize the dose and schedule of Methotrexate Injection based on disease state, patient risk category, concurrent drugs used, phase of treatment, and response to treatment.
 
@@ -59,7 +59,7 @@ When used as a single-agent, recommended dosages include 8,000 mg/m2 intravenous
 
 As part of a combination chemotherapy regimen, a recommended dosage of Methotrexate Injection is 1,000 mg/m2 or 3,000 mg/m2 as an intravenous infusion over 24 hours followed by leucovorin rescue in accordance with high-dose methotrexate regimen guidelines [see Dosage and Administration (2.2)].
 
-For central nervous system-directed therapy, a recommended dosage of Methotrexate Injection is 8,000 mg/m2 as an intravenous infusion over 4 hours as a single-agent or in combination with immunochemotherapy at doses ranging from 3,000 mg/m2 to 8,000 mg/m2 followed by leucovorin rescue in accordance with high-dose methotrexate regimen guidelines [see Dosage and Administration (2.2)].
+For central nervous system-directed therapy, a recommended dosage of Methotrexate Injection is 8,000 mg/m2 as an intravenous infusion over 4 hours as a single-agent or in combination with immunochemotherapy at doses ranging from 3,000 mg/m2 to 8,000 mg/m2 followed by leucovorin rescue in accordance with high-dose methotrexate regimen guidelines [seeDosage and Administration (2.2)].
 
 For intrathecal Methotrexate Injection (preservative-free), the recommended dose is based on age [see Dosage and Administration (2.4)].
 The frequency of administration varies based on whether it is being used for treatment or prophylaxis, and other factors.
@@ -92,7 +92,7 @@ Dosages of more than 20 mg once weekly result in an increased risk of serious ad
 
 When responses are observed, the majority occurred between 3 and 6 weeks from initiation of treatment; however, responses have occurred up to 12 weeks after treatment initiation.
 
-Administer folic acid or folinic acid to reduce the risk of methotrexate adverse reactions [see Warnings and Precautions (5.12)].
+Administer folic acid or folinic acid to reduce the risk of methotrexate adverse reactions [seeWarnings and Precautions (5.12)].
 
 ## 2.11 Recommended Dosage for Polyarticular Juvenile Idiopathic Arthritis
 
@@ -100,7 +100,7 @@ The recommended starting dosage of Methotrexate Injection is 10 mg/m2 once weekl
 Dosages over 30 mg/ m2 per week may result in an increased risk of serious adverse reactions, including myelosuppression.
 When responses are observed, the majority occurred between 3 and 6 weeks from initiation of treatment; however, responses have occurred up to 12 weeks after treatment initiation.
 
-Administer folic acid or folinic acid to reduce the risk of methotrexate adverse reactions [see Warnings and Precautions (5.12)].
+Administer folic acid or folinic acid to reduce the risk of methotrexate adverse reactions [seeWarnings and Precautions (5.12)].
 
 ## 2.12 Recommended Dosage for Psoriasis
 
@@ -109,7 +109,7 @@ The recommended dosage of Methotrexate Injection is 10 mg to 25 mg intramuscular
 Adjust the dose gradually to achieve optimal clinical response; do not exceed 25 mg per week.
 Once optimal clinical response has been achieved, reduce the dosage to the lowest possible dosing regimen.
 
-Administer folic acid or folinic acid to reduce the risk of methotrexate adverse reactions [see Warnings and Precautions (5.12)].
+Administer folic acid or folinic acid to reduce the risk of methotrexate adverse reactions [seeWarnings and Precautions (5.12)].
 
 ## 2.13 Dosage Modifications for Adverse Reactions
 
@@ -145,14 +145,13 @@ With Preservative (multiple-dose vial)
 - •Visually inspect product for particulate matter and discoloration prior to administration.
   Discard if particulate matter or discoloration is observed.
 
-Preservative-free (single-dose vial)
+#### Preservative-free (single-dose vial)
 
 Methotrexate Injection preservative-free may be administered by intramuscular, intravenous, subcutaneous, or intrathecal injection.
 
-- •Use only preservative-free Methotrexate Injection for treatment of neonates or low-birth weight infants and for intrathecal use [see Warning and Precautions (5.3) and Use in Specific Populations (8.4)].
+- •Use only preservative-free Methotrexate Injection for treatment of neonates or low‑birth weight infants and for intrathecal use [see Warning and Precautions (5.3) and Use in Specific Populations (8.4)].
 - •Use preservative-free Methotrexate Injection for high-dose regimens unless immediate treatment is required, and preservative-free formulations are not available [see Warning and Precautions (5.3) and Use in Specific Populations (8.4)].
-- •Preservative-free Methotrexate Injection may be further diluted immediately before use with preservative-free 0.9% Sodium Chloride Injection, USP.
-  For the treatment or prophylaxis of meningeal leukemia, dilute the solution to a concentration of 1 mg/mL in 0.9% Sodium Chloride Injection, USP.
-  Discard unused portion.
+- •Preservative-free Methotrexate Injection may be further diluted before use with preservative‑free 0.9% Sodium Chloride Injection, USP.
+  Diluted product should be used within 4 hours when stored at room temperature (20°C to 25°C) or 24 hours when stored under refrigeration (2°C to 8°C).
 - •Visually inspect for particulate matter and discoloration prior to administration.
   Discard if particulate matter or discoloration is observed.

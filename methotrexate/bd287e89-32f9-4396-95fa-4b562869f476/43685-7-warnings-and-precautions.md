@@ -6,15 +6,14 @@ Based on published reports and its mechanism of action, methotrexate can cause e
 
 Methotrexate Injection is contraindicated for use in pregnant women with non-neoplastic diseases.
 Advise pregnant women with neoplastic diseases of the potential risk to a fetus.
-The preservative benzyl alcohol can cross the placenta; when possible, use the preservative-free formulation when Methotrexate Injection is needed during pregnancy to treat a neoplastic disease [see Warnings and Precautions (5.3)].
+The preservative benzyl alcohol can cross the placenta; when possible, use the preservative-free formulation when Methotrexate Injection is needed during pregnancy to treat a neoplastic disease [seeWarnings and Precautions (5.3)].
 
 Advise females of reproductive potential to use effective contraception during Methotrexate Injection treatment and for 6 months after the final dose.
 Advise males with female partners of reproductive potential to use effective contraception during Methotrexate Injection treatment and for 3 months after the final dose [see Contraindications (4) and Use in Specific Populations (8.1, 8.3, 8.4)].
 
 ## 5.2 Hypersensitivity Reactions
 
-Hypersensitivity reactions, including anaphylaxis, can occur with methotrexate [see Error!
-Hyperlink reference not valid.]If signs or symptoms of anaphylaxis or any other serious hypersensitivity reaction occurs, immediately discontinue Methotrexate Injection and institute appropriate therapy [see Contraindications (4)].
+Hypersensitivity reactions, including anaphylaxis, can occur with methotrexate [seeAdverse Reactions (6.1)] If signs or symptoms of anaphylaxis or any other serious hypersensitivity reaction occurs, immediately discontinue Methotrexate Injection and institute appropriate therapy [seeContraindications (4)].
 
 ## 5.3 Risks of Serious Adverse Reactions due to Benzyl Alcohol-Preservative
 
@@ -61,10 +60,10 @@ Monitor renal function and withhold or discontinue methotrexate as needed for se
 
 For patients receiving high-dose regimens, follow recommendations to decrease the risk of renal injury and mitigate renal toxicity [see Dosage and Administration (2.2)].
 
-Patients with impaired renal function are at increased risk for methotrexate toxicity [see Use in Specific Populations (8.6)].
+Patients with impaired renal function are at increased risk for methotrexate toxicity [seeUse in Specific Populations (8.6)].
 
 Consider administration of glucarpidase in patients with toxic plasma methotrexate concentrations (>1 micromole per liter) and delayed clearance due to impaired renal function.
-[see Dosage and Administration (2.2)].
+[seeDosage and Administration (2.2)].
 
 ## 5.7 Hepatotoxicity
 
@@ -107,7 +106,7 @@ Avoid the intrathecal use of Methotrexate Injection that contains the preservati
 
 ## 5.9 Gastrointestinal Toxicity
 
-Methotrexate can cause diarrhea, vomiting, stomatitis, hemorrhagic enteritis and fatal intestinal perforation [see Adverse Reactions (6.1)].Patients with peptic ulcer disease or ulcerative colitis are at a greater risk of developing severe gastrointestinal adverse reactions.
+Methotrexate can cause diarrhea, vomiting, stomatitis, hemorrhagic enteritis and fatal intestinal perforation [seeAdverse Reactions (6.1)].Patients with peptic ulcer disease or ulcerative colitis are at a greater risk of developing severe gastrointestinal adverse reactions.
 
 Withhold or discontinue Methotrexate Injection for severe gastrointestinal toxicity, and institute appropriate supportive care as needed.
 
@@ -169,7 +168,7 @@ Discuss the risk of effects on reproduction with female and male patients of rep
 ## 5.17 Increased Risk of Adverse Reactions Due to Third Space Accumulation
 
 Methotrexate can exit slowly from third space accumulations resulting in prolonged terminal plasma half-life and toxicity.
-Evacuate significant third-space accumulations prior to Methotrexate Injection administration [see Clinical Pharmacology (12.3)].
+Evacuate significant third space accumulations prior to Methotrexate Injection administration [see Clinical Pharmacology (12.3)].
 
 ## 5.18 Increased Risk of Soft Tissue and Bone Toxicity with Concomitant Radiotherapy
 
