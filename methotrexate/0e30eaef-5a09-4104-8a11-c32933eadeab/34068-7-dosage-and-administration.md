@@ -16,10 +16,10 @@ To decrease the risk of severe adverse reactions [see Warnings and Precautions (
   Refer to the leucovorin Prescribing Information for additional information.
 - •For high-dose Methotrexate Injection regimens, follow the supportive care and monitoring instructions below.
   Also consider for patients receiving intermediate-dose Methotrexate Injection regimens.
-  - oMonitor serum creatinine, electrolytes, at baseline and at least daily during therapy
-  - oAdminister intravenous fluids starting before the first dose and continuing throughout treatment to maintain adequate hydration and urine output
-  - oAlkalinize urine starting before the first dose and continuing throughout treatment to maintain a urinary pH of 7 or higher
-  - oMonitor methotrexate concentrations at least daily and adjust hydration and leucovorin dosing as needed
+- •Monitor serum creatinine, electrolytes, at baseline and at least daily during therapy
+- •Administer intravenous fluids starting before the first dose and continuing throughout treatment to maintain adequate hydration and urine output
+- •Alkalinize urine starting before the first dose and continuing throughout treatment to maintain a urinary pH of 7 or higher
+- •Monitor methotrexate concentrations at least daily and adjust hydration and leucovorin dosing as needed
 - •Administer glucarpidase in patients who have toxic plasma methotrexate concentrations (>1 micromole per liter) and delayed methotrexate clearance due to impaired renal function (refer to the glucarpidase Prescribing Information for additional information)
 
 ## 2.3 Recommended Dosage for Acute Lymphoblastic Leukemia
@@ -143,14 +143,13 @@ With Preservative (multiple-dose vial)
 - •Visually inspect product for particulate matter and discoloration prior to administration.
   Discard if particulate matter or discoloration is observed.
 
-Preservative-free (single-dose vial)
+### Preservative-free (single-dose vial)
 
 Methotrexate Injection preservative-free may be administered by intramuscular, intravenous, subcutaneous, or intrathecal injection.
 
-- •Use only preservative-free Methotrexate Injection for treatment of neonates or low-birth weight infants and for intrathecal use [see Warning and Precautions (5.3) and Use in Specific Populations (8.4)].
+- •Use only preservative-free Methotrexate Injection for treatment of neonates or low‑birth weight infants and for intrathecal use [see Warning and Precautions (5.3) and Use in Specific Populations (8.4)].
 - •Use preservative-free Methotrexate Injection for high-dose regimens unless immediate treatment is required, and preservative-free formulations are not available [see Warning and Precautions (5.3) and Use in Specific Populations (8.4)].
-- •Preservative-free Methotrexate Injection may be further diluted immediately before use with preservative-free 0.9% Sodium Chloride Injection, USP.
-  For the treatment or prophylaxis of meningeal leukemia, dilute the solution to a concentration of 1 mg/mL in 0.9% Sodium Chloride Injection, USP.
-  Discard unused portion.
+- •Preservative-free Methotrexate Injection may be further diluted before use with preservative‑free 0.9% Sodium Chloride Injection, USP.
+  Diluted product should be used within 4 hours when stored at room temperature (20°C to 25°C) or 24 hours when stored under refrigeration (2°C to 8°C).
 - •Visually inspect for particulate matter and discoloration prior to administration.
   Discard if particulate matter or discoloration is observed.

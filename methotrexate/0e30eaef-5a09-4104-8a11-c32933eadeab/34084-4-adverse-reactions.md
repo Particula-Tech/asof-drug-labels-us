@@ -82,3 +82,5 @@ Reproductive disorders: Defective oogenesis or spermatogenesis, loss of libido, 
 Respiratory disorders: Pulmonary fibrosis, respiratory failure, chronic interstitial obstructive pulmonary disease, pleuritic pain and thickening, alveolitis
 
 Skin disorders: Toxic epidermal necrolysis, Stevens-Johnson syndrome, exfoliative dermatitis, skin necrosis, and erythema multiforme, erythematous rashes, pruritus, alopecia, skin ulceration, accelerated nodulosis, urticaria, pigmentary changes, ecchymosis, telangiectasia, photosensitivity, acne, furunculosis
+
+General disorders and administration site conditions: Injection site necrosis, injection site reaction
