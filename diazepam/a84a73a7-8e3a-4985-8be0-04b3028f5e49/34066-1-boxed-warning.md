@@ -3,10 +3,10 @@
 - Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death.
   Reserve concomitant prescribing of these drugs for patients for whom alternative treatment options are inadequate.
   Limit dosages and durations to the minimum required.
-  Follow patients for signs and symptoms of respiratory depression and sedation (see WARNINGSand PRECAUTIONS).
+  Follow patients for signs and symptoms of respiratory depression and sedation (seeWARNINGSand PRECAUTIONS).
 - The use of benzodiazepines, including DIASTAT, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose or death.
   Abuse and misuse of benzodiazepines commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes.
-  Before prescribing DIASTAT and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (see WARNINGS).
+  Before prescribing DIASTAT and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (seeWARNINGS).
 - The continued use of benzodiazepines may lead to clinically significant physical dependence.
   The risks of dependence and withdrawal increase with longer treatment duration and higher daily dose.
   Although DIASTAT is indicated only for intermittent use (see INDICATIONS AND USAGEand DOSAGE AND ADMINISTRATION), if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction of DIASTAT may precipitate acute withdrawal reactions, which can be life-threatening.
