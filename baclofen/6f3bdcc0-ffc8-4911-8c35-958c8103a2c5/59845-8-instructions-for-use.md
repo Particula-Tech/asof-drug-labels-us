@@ -4,36 +4,34 @@ For use with Medtronic ® SynchroMed Implantable Programmable Infusion Pumps
 
 Instructions for Use
 
-Rx Only
+The Lioresal® Intrathecal (baclofen injection) Drug Preparation Kit is used for kit models 8561, 8562, 8564, 8565 and 8566 to draw the drug from the ampule(s).
+The appropriate ampule(s) is/are placed within the corresponding kit.
 
-DESCRIPTION
-
-The Amneal Drug Preparation Kit is used to draw the drug from the ampule(s).
-
-| Model 8561, 8562, and 8564 kits contain:–20-mL syringe–Syringe label–Syringe cap–Filter Straw ® tube–Plastic bag–Two gauze pads | Model 8565 and 8566 kits contain:–Two 20-mL syringes–Two syringe labels–Two syringe caps–Two Filter Straw ® tubes–Plastic bag–Two gauze pads |
-| --- | --- |
+In addition, each kit contains: -Syringe cap(s) -Filter Straw® tube(s) -Ampule opener(s) -Syringe label(s) -Plastic bag -Four gauze pads -20 mL syringe -Lioresal® Intrathecal (baclofen injection) prescribing information -Drug Preparation Kit Instructions for Use
 
 INDICATIONS
 
-The Amneal Drug Preparation Kit is intended for use with Medtronic SynchroMed implantable programmable infusion pumps.
-It is not for use with the Medtronic MiniMed ® infusion pumps.
-
-Refer to the Lioresal ® Intrathecal (baclofen injection) drug prescribing information for indications, contraindications, warnings, precautions, dosage and administration information, and screening procedures.
+The Lioresal® Intrathecal (baclofen injection) Drug Preparation Kit is intended for use with Medtronic SynchroMed implantable programmable infusion pumps.
+It is not for use with the Medtronic MiniMed® infusion pumps.
+Refer to the Lioresal® lntrathecal (baclofen injection) drug Prescribing Information for indications, contraindications, warnings, precautions, dosage and administration information, and screening procedures.
 
 CONTRAINDICATIONS
 
-Refer to the contraindications listed in the appropriate pump technical manual, refill kit instructions for use, and drug labeling.
+Refer to the contraindications listed in the appropriate pump technical manual, 856X refill kit instructions for use, and drug labeling.
 
 PRECAUTIONS
 
 If dilution of the drug is required, refer to the drug labeling for proper diluent and procedures.
 
-For emergency procedures, refer to the instructions for use that are packaged with the refill kit.
+For emergency procedures, refer to the Refill Kit 856X Instructions For Use that are packaged with the refill kit.
 
 STERILIZATION
 
 All components of the Drug Preparation Kit are sterile.
-Should sterility be in question, discard and use comparable sterile components.
+Do not resterilize.
+Should sterility be in question, discard and use a new kit.
+The outside of the ampule is sterile.
+If sterile technique is broken, the contents of the ampule are still sterile.
 
 INSTRUCTIONS FOR USE
 
@@ -41,49 +39,62 @@ Use sterile technique throughout the procedure to prevent contamination of the c
 
 Note: The drug ampule is not sterile.
 
-1.Remove the drug ampule from the box.
+1.
+Remove the drug ampule from the box.
+Confirm drug ampule concentration prior to drug administration.
 
-2.Break open the ampule as follows: Note: The entire neck of the ampule is scored Note: Use gauze pads to hold the top of the ampule when opening.
+2.
+Open the ampule as follows: Note: The entire neck of the ampule is scored.
+An ampule opener has been provided to ease the opening of the ampule; always exercise caution when opening a glass ampule Note: If the ampule opener is not used, use gauze pads to hold the top of the ampule when opening.
 
-a. Hold the ampule in one hand (Figure 1).
 Figure 1.
-Hold ampule
 
-b. Using the thumb and forefinger of your other hand, apply pressure and break open the ampule neck (Figure 2).
+a. Hold the ampule in one hand and place opener (fins first) over the neck until it rests on the base portion of the ampule.
+Grasp opener with forefinger and thumb while holding the ampule base.
+Hold ampule upright and snap.
+Dispose of opener and ampule top to prevent potential contamination (Figure 1).
+
+3.
+Assemble the syringe and Filter Straw® tube (Figure 2), making sure the syringe connection is snug to avoid leakage.
+
 Figure 2.
-Apply pressure with thumb and forefinger
-
-3.Assemble the syringe and Filter Straw® tube (Figure 3), making sure the syringe/tube connection is snug to avoid leakage.
-
-Figure 3.
 Assemble syringe and Filter Straw® tube
 
-4.Withdraw the drug from the ampule(s) (Figure 4).
+4.Withdraw the drug from the ampule(s) (Figure 3).
 
-Figure 4.
+Figure 3.
 Withdraw drug from ampule
 
 5.Remove the Filter Straw® tube from the syringe.
+Appropriately discard Filter Straw® tube.
 
 6.Purge the air from the syringe.
 
-7.Attach the syringe cap, making sure the cap is snug to avoid leakage.
+7.
+If drug syringe is to be transferred prior to procedure a syringe cap has been provided.
+Attach the syringe cap, making sure the cap is snug to avoid leakage.
 
-8.Fill in the syringe label with the patient's name, drug name, drug concentration, and date.
+8.
+For convenience, a syringe label has been provided to capture patient's name, drug name, drug concentration, and date.
 
-9.Peel the backing from the label and attach the label to the syringe, making sure not to cover the volume indicators on the syringe (Figure 5).
+9.
+Peel the backing from the label and attach the label to the syringe, making sure not to cover the volume indicators on the syringe (Figure 4).
 
-Figure 5.
+Figure 4.
 Syringe with cap and label
 
 10.
 If the drug needs to be transported, place the syringe(s) in the plastic bag.
 
 11.
-If applicable, repeat steps 1 – 10 with the second syringe, Filter Straw® tube, syringe cap, and syringe label supplied in the Model 8565 and 8566 kits.
+If applicable, repeat steps 1 – 10 with the second syringe, Filter Straw® tube, syringe cap, and syringe label supplied in the Model 8562, 8565 and 8566 kits.
 
 12.
-Refer to the refill kit Instructions for Use for pump refill instructions.
+Refer to the 856X refill kit Instructions for Use for pump refill instructions.
+
+Note: Purge air from syringe prior to drug administration.
+
+Rx Only
 
 Medtronic® and MiniMed® are trademarks of Medtronic® and are registered in the U.S. and possibly other countries.
 
@@ -96,7 +107,7 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-08-2022-00
+03-2023-00
 
 Amneal Refill Kit 856X for use with Medtronic SynchroMed® Implantable Programmable Infusion Pumps
 
@@ -169,19 +180,21 @@ To view, download, print, or order the manual, go to www.medtronic.com/manual or
 Introduction
 
 These instructions include only the procedure for refilling the pump reservoir with Lioresal Intrathecal (baclofen injection).
-Refer to the appropriate pump technical manual for implanting instructions.
+Refer to the appropriate technical manuals, provided by the manufacturer for instructions on implanting and/or programming of the pump.
 
 Package contents
 
 The Model 856X Refill Kit contains the following sterile components that are not made with natural rubber latex:
 
-- 20-mL syringe
-- Extension set with a clamp
-- Template
-- 0.2-micron filter
 - Two 22-gauge noncoring needles
-- Fenestrated drape
-- Accessories (povidone iodine swabs, two gauze pads, alcohol pads, gloves)
+- Extension set with a clamp
+- 0.2-micron filter
+- 20-mL syringe
+- Template
+- Fenestrated drape with adhesive strips
+- Accessories (adhesive bandage, sharps plug, four gauze pads, two alcohol wipes, gloves, povidone iodine swab sticks)
+- Refill Kit Instructions for Use
+- Sterile drape
 
 Indications
 
@@ -382,11 +395,18 @@ All components of the kit are sterile.
 Do not resterilize.
 Should sterility of the kit be in question, discard and use a new kit.
 
+Note: The outside of the ampule is sterile.
+If sterile technique is broken, the contents of the ampule are still sterile.
+
 Preliminary procedures
 
-1. Gather the following sterile equipment:
+1. Open the Lioresal Refill Kit
+2. Prepare the sterile field.
+   The sterile drape can be used to prepare the sterile field.
+3. Gather the following sterile equipment:
 
-- Syringe(s) containing prescribed fluid
+- Drug prep kit containing correct concentration and volume of Lioresal Intrathecal (baclofen injections)
+- Sterile drape
 
 From the refill kit:
 
@@ -394,24 +414,21 @@ From the refill kit:
 - Extension set with a clamp
 - Template
 - 0.2-micron filter
-- 22-gauge noncoring needle
-- Fenestrated drape
-- Cleansing agent
-- Alcohol pads
-- Sterile gloves (not made with natural rubber latex)
-
-Locally supplied:
-
+- Two 22-gauge noncoring needle (2", 1.5")
+- Fenestrated drape with adhesive strips
+- Two alcohol wipes
+- Latex-free sterile gloves
 - Adhesive bandage, optional
+- *Note: the sharps plug should remain in the kit tray to receive the used sharps, if desired
 
-2.
+4.
 Refer to the drug labeling for indications, contraindications, warnings, precautions, dosage and administration information, and screening procedures.
 
-3.
+5.
 Prepare the programmer for use.
 Refer to the appropriate programming guide for instructions.
 
-4.
+6.
 Confirm the:
 
 - pump model
@@ -805,8 +822,11 @@ Equipment
 If you have difficulty identifying the pump features, you may seek assistance from another clinician.
 If deemed necessary by the clinician, x-ray and fluoroscopy can be used to assist in locating or determining the orientation of the pump.
 
-1. Prepare the injection site by cleansing the area using an antiseptic agent.
-2. Gently insert the 22-gauge noncoring needle into the center of the reservoir fill port until the needle touches the bottom of the reservoir fill port (Figure 6).
+3.
+Prepare the injection site by cleansing the area using an antiseptic agent.
+
+4.
+Gently insert the 22-gauge noncoring needle into the center of the reservoir fill port until the needle touches the bottom of the reservoir fill port (Figure 6).
 
 During proper needle insertion, you will feel the needle:
 
@@ -888,4 +908,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-08-2022-00
+03-2023-00
