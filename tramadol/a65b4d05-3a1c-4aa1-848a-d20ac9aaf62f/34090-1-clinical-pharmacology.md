@@ -50,7 +50,7 @@ Effects on the Endocrine System
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
 
 Effects on the Immune System
@@ -61,7 +61,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration–Efficacy Relationships
 
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
 The minimum effective analgesic concentration of tramadol for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.4)].
 
 Concentration–Adverse Reaction Relationships
@@ -190,11 +190,11 @@ Coadministration of quinidine, a selective inhibitor of CYP2D6, with tramadol ER
 The clinical consequences of these findings are unknown.
 
 To evaluate the effect of tramadol, a CYP2D6 substrate on quinidine, an in vitro drug interaction study in human liver microsomes was conducted.
-The results from this study indicate that tramadol has no effect on quinidine metabolism [see Warnings and Precautions (5.1, 5.6), Drug Interactions (7)].
+The results from this study indicate that tramadol has no effect on quinidine metabolism [see Warnings and Precautions (5.1, 5.7), Drug Interactions (7)].
 
 CYP3A4 Inhibitors and Inducers
 
-Since tramadol is also metabolized by CYP3A4, administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or CYP3A4 inducers, such as rifampin and St. John's Wort, with CONZIP may affect the metabolism of tramadol leading to altered tramadol exposure [see Warnings and Precautions (5.1, 5.6), Drug Interactions (7)].
+Since tramadol is also metabolized by CYP3A4, administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or CYP3A4 inducers, such as rifampin and St. John's Wort, with CONZIP may affect the metabolism of tramadol leading to altered tramadol exposure [see Warnings and Precautions (5.1, 5.7), Drug Interactions (7)].
 
 Cimetidine
 

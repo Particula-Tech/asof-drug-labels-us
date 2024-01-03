@@ -4,25 +4,25 @@
 
 Risk Summary
 
-Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.5)].
+Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
 Available data with CONZIP in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
 
 In animal reproduction studies, tramadol administration during organogenesis decreased fetal weights and reduced ossification in mice, rats, and rabbits at 1.4, 0.6, and 3.6 times the maximum recommended human daily dosage (MRHD).
 Tramadol decreased pup body weight and increased pup mortality at 1.2 and 1.9 times the MRHD [see Data].
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
 Fetal/Neonatal Adverse Reactions
 
-Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Use of opioid analgesics for an extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
-Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.5)].
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
 
 Neonatal seizures, neonatal withdrawal syndrome, fetal death and still birth have been reported with tramadol during post-approval use of tramadol immediate-release products.
 
@@ -44,7 +44,7 @@ Data
 
 Animal Data
 
-Tramadol has been shown to be embryotoxic and fetotoxic in mice, (120 mg/kg), rats (25 mg/kg) and rabbits (75 mg/kg) at maternally toxic dosages, but was not teratogenic at these dose levels.
+Tramadol has been shown to be embryotoxic and fetotoxic in mice, (120 mg/kg), rats (25 mg/kg) and rabbits (75 mg/kg) at maternally toxic dosages but was not teratogenic at these dose levels.
 These doses on a mg/m2 basis are 1.9, 0.8, and 4.9 times the maximum recommended human daily dosage (MRHD) for mouse, rat and rabbit, respectively.
 
 No drug-related teratogenic effects were observed in progeny of mice (up to 140 mg/kg), rats (up to 80 mg/kg) or rabbits (up to 300 mg/kg) treated with tramadol by various routes.
@@ -67,12 +67,12 @@ There is no information on the effects of the drug on the breastfed infant or th
 The M1 metabolite is more potent than tramadol in mu-opioid receptor binding [see Clinical Pharmacology (12.1)].
 Published studies have reported tramadol and M1 in colostrum with administration of tramadol to nursing mothers in the early post-partum period.
 Women who are ultra-rapid metabolizers of tramadol may have higher than expected serum levels of M1, potentially leading to higher levels of M1 in breast milk that can be dangerous in their breastfed infants.
-In women with normal tramadol metabolism, the amount of tramadol secreted into human milk is low and dose-dependent.
+In women with normal tramadol metabolism, the amount of tramadol secreted into human milk is low and dose dependent.
 Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with CONZIP.
 
 Clinical Considerations
 
-If infants are exposed to CONZIP through breast milk, they should be monitored for excess sedation and respiratory depression.
+Monitor infants exposed to CONZIP through breast milk for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
 
 Data
@@ -83,14 +83,14 @@ Following a single IV 100 mg dose of tramadol, the cumulative excretion in breas
 
 Infertility
 
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of CONZIP in pediatric patients have not been established.
 
-Life-threatening respiratory depression and death have occurred in children who received tramadol [see Warnings and Precautions (5.4)].
+Life-threatening respiratory depression and death have occurred in children who received tramadol [see Warnings and Precautions (5.6)].
 In some of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and one of the children had evidence of being an ultra-rapid metabolizer of tramadol (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6).
 Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of tramadol.
 Because of the risk of life-threatening respiratory depression and death:
@@ -98,7 +98,7 @@ Because of the risk of life-threatening respiratory depression and death:
 - CONZIP is contraindicated for all children younger than 12 years of age [see Contraindications (4)].
 - CONZIP is contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
 - Avoid the use of CONZIP in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
-  Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression [see Warnings and Precautions (5.4)].
+  Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression [see Warnings and Precautions (5.6)].
 
 ## 8.5 Geriatric Use
 
@@ -107,11 +107,11 @@ Of those subjects, two hundred and forty were 75 years of age and older.
 In general, higher incidence rates of adverse events were observed for patients older than 65 years of age compared with patients 65 years and younger, particularly for the following adverse events: nausea, constipation, somnolence, dizziness, dry mouth, vomiting, asthenia, pruritus, anorexia, sweating, fatigue, weakness, postural hypotension and dyspepsia.
 For this reason, CONZIP should be used with great caution in patients older than 75 years of age [see Dosage and Administration (2.3)].
 
-Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of CONZIP slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.3)].
+Respiratory depression is the chief risk for elderly patients treated with opioids and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
+Titrate the dosage of CONZIP slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.12)].
 
 Tramadol is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
 
 ## 8.6 Hepatic Impairment
 
