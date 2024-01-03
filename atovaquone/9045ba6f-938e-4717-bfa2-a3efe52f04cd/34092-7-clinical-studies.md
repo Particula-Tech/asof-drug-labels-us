@@ -21,7 +21,7 @@ Median follow-up was 11.3 months.
 The results of the PCP event rates appear in Table 7.
 Mortality rates were similar among the groups.
 
-Table 7.
+Table 6.
 Confirmed or Presumed/Probable PCP Events (As-Treated Analysis)a
 
 | Assessment | Trial 1 |  | Trial 2 |  |  |
@@ -43,7 +43,8 @@ An analysis of all PCP events (intent-to-treat analysis) for both trials showed 
 The indication for treatment of mild‑to‑moderate PCP is based on the results of two efficacy trials: a randomized, double‑blind trial comparing atovaquone tablets with TMP‑SMX in subjects with HIV/AIDS and mild‑to‑moderate PCP (defined in the protocol as [(A‑a)DO2] ≤45 mm Hg and PaO2 ≥60 mm Hg on room air) and a randomized open-label trial comparing atovaquone tablets with IV pentamidine isethionate in subjects with mild‑to‑moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
 Both trials were conducted with the tablet formulation using 750 mg three times daily.
 Results from these efficacy trials established a relationship between plasma atovaquone concentrations and successful outcome.
-Successful outcome was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy [see Clinical Pharmacology (12.2)].
+Successful outcome was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy [see Clinical Pharmacology (Error!
+Hyperlink reference not valid.)].
 
 TMP‑SMX Comparative Trial
 
@@ -69,7 +70,7 @@ However, only 1 (2%) of the 49 subjects with Day 4 plasma atovaquone concentrati
 
 Sixty-two percent of subjects on atovaquone and 64% of subjects on TMP‑SMX were classified as protocol-defined therapy successes (Table 8).
 
-Table 8.
+Table 7.
 Outcome of Treatment for PCP-Positive Subjects Enrolled in the TMP-SMX Comparative Trial
 
 | Outcome of Therapya | Number of Subjects (%) |  |  |  |
@@ -105,7 +106,7 @@ Among subjects for whom Day 4 plasma atovaquone concentrations were available, 3
 However, only 2 of 21 (9%) subjects with Day 4 plasma concentrations ≥5 mcg/mL died.
 The therapeutic outcomes for the 134 subjects who received trial medication in this trial are presented in Table 9.
 
-Table 9.
+Table 8.
 Outcome of Treatment for PCP-Positive Subjects (%) Enrolled in the Pentamidine Comparative Trial
 
 | Outcome of Therapy | Primary Treatment |  |  |  | Salvage Treatment |  |  |  |
