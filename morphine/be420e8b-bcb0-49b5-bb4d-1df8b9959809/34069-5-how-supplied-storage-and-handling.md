@@ -15,7 +15,8 @@ Morphine Sulfate Injection, USP is supplied as a sterile solution in single-dose
 | NDC 0409-1893-23Clamshell of 10 1 mL fill in 1.5 mL NexJect™ Single-dose Prefilled Syringe with Luer Lock | 10 mg/mL |
 
 Carpuject™ Single-dose cartridges with Luer Lock are packaged in a Slim-Pak™ tamper detection package.
-Note that a needle is not included.
+
+Note that a needle is not included with Carpuject™ Single-dose cartridges and Nexject‎™ Single-dose Prefilled Syringes.
 
 Store at 20°C to 25°C (68°F to 77°F) [See USP Controlled Room Temperature] until ready to use.
 PROTECT FROM LIGHT.

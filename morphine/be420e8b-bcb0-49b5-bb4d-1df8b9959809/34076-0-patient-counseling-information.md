@@ -1,5 +1,18 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Addiction, Abuse, and Misuse
+
+Inform patients that the use of Morphine Sulfate Injection, even when taken as recommended, can result ‎in addiction, abuse, and misuse, which can lead to overdose and death [see Warnings and Precautions ‎‎(5.1)].
+Instruct patients not to share Morphine Sulfate Injection with others and to take steps to protect ‎Morphine Sulfate Injection from theft or misuse.‎
+
+Life-Threatening Respiratory Depression
+
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is ‎greatest when starting Morphine Sulfate Injection or when the dosage is increased, and that it can occur ‎even at recommended dosages [see Warnings and Precautions (5.2)]. ‎
+
+Hyperalgesia and Allodynia
+
+Advise patients to inform their healthcare provider if they ‎experience symptoms of hyperalgesia, including worsening pain, increased ‎sensitivity to pain, or new pain [see Warnings and Precautions (5.6); ‎Adverse Reactions (6)].‎
+
 Serotonin Syndrome
 
 Opioids can cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
