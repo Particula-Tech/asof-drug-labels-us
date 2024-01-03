@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Mesalamine Rectal Suspension Enema for rectal administration is an off-white to tan colored suspension.
+Mesalamine Rectal Suspension, USP Enema for rectal administration is an off-white to tan colored suspension.
 Each disposable enema bottle contains 4.0 grams of mesalamine in 60 mL aqueous suspension.
 Enema bottles are supplied in boxed, foil-wrapped trays as follows:
 
@@ -30,18 +30,16 @@ Slight darkening will not affect potency, however, enemas with dark brown conten
 NOTE: Mesalamine rectal suspension enema will cause staining of direct contact surfaces, including but not limited to fabrics, flooring, painted surfaces, marble, granite, vinyl, and enamel.
 Take care in choosing a suitable location for administration of this product.
 
-For more information call Padagis at 1-866-634-9120.
+For more information call Padagis® at 1-866-634-9120.
 
 Rx Only
 
-Manufactured By Padagis
+Manufactured by Padagis®
 
 Yeruham, Israel
 
-Distributed By Padagis
+www.padagis.com
 
-Allegan, MI 49010 • www.padagis.com
+Rev 11-23
 
-Rev 12-22
-
-2N900 RC J12
+2N900 RC PH13

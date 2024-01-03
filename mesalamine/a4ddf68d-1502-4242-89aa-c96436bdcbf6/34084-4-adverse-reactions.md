@@ -1,4 +1,4 @@
-# To report SUSPECTED ADVERSE REACTIONS, contact Padagis at 1-866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+# To report SUSPECTED ADVERSE REACTIONS, contact Padagis® at 1-866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 # ADVERSE REACTIONS
 
@@ -17,12 +17,12 @@ ADVERSE REACTIONS OCCURRING IN MORE THAN 0.1% OF MESALAMINE RECTAL SUSPENSION EN
 | Gas/Flatulence | 50 | 6.13 | 5 | 3.91 |
 | Nausea | 47 | 5.77 | 12 | 9.38 |
 | Flu | 43 | 5.28 | 1 | 0.78 |
-| Tired/Week/Malaise/Fatigue | 28 | 3.44 | 8 | 6.25 |
+| Tired/Weak/Malaise/Fatigue | 28 | 3.44 | 8 | 6.25 |
 | Fever | 26 | 3.19 | 0 | 0.00 |
 | Rash/Spots | 23 | 2.82 | 4 | 3.12 |
 | Cold/Sore Throat | 19 | 2.33 | 9 | 7.03 |
 | Diarrhea | 17 | 2.09 | 5 | 3.91 |
-| Leg/joint Pain | 17 | 2.09 | 1 | 0.78 |
+| Leg/Joint Pain | 17 | 2.09 | 1 | 0.78 |
 | Dizziness | 15 | 1.84 | 3 | 2.34 |
 | Bloating | 12 | 1.47 | 2 | 1.56 |
 | Back Pain | 11 | 1.35 | 1 | 0.78 |
@@ -51,3 +51,12 @@ Postmarketing cases of severe cutaneous adverse reactions (SJS/TEN, DRESS, and A
 Mild hair loss characterized by "more hair in the comb" but no withdrawal from clinical trials has been observed in 7 of 815 mesalamine patients but none of the placebo-treated patients.
 In the literature there are at least six additional patients with mild hair loss who received either mesalamine or sulfasalazine.
 Retreatment is not always associated with repeated hair loss.
+
+## Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of mesalamine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Renal Disorders
+
+- •Urine discoloration occurring ex-vivo caused by contact of mesalamine including inactive metabolite, with surfaces or water treated with hypochlorite-containing bleach (see PRECAUTIONS: Information for Patients).

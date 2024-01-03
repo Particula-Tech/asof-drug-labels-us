@@ -62,6 +62,14 @@ Cases of nephrolithiasis have been reported with the use of mesalamine, includin
 Mesalamine-containing stones are radiotransparent and undetectable by standard radiography or computed tomography (CT).
 Ensure adequate hydration during treatment.
 
+## Information for Patients
+
+Urine Discoloration
+
+Advise patients that urine may become discolored reddish-brown while taking mesalamine rectal suspension enema when it comes in contact with surfaces or water treated with hypochlorite-containing bleach.
+If discolored urine is observed, advise patients to observe their urine flow.
+Report to the healthcare provider only if urine is discolored on leaving the body, before contact with any surface or water (e.g., in the toilet).
+
 ## Interference with Laboratory Tests
 
 Use of mesalamine may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection because of the similarity in the chromatograms of normetanephrine and mesalamine’s main metabolite, N-acetyl-5-aminosalicylic acid (N-Ac-5-ASA).

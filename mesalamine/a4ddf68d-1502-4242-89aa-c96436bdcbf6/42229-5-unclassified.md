@@ -39,14 +39,12 @@ Take care in choosing a suitable location for administration of this product.
 
 Rx Only
 
-Manufactured By Padagis
+Manufactured by Padagis®
 
 Yeruham, Israel
 
-Distributed By Padagis
+www.padagis.com
 
-Allegan, MI 49010 • www.padagis.com
+Rev 11-23
 
-Rev 12-22
-
-2N900 RC J12
+2N900 RC PH13
