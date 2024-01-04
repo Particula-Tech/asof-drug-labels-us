@@ -10,6 +10,7 @@ However, there is little experience with high doses (>1000 mg twice daily) or ex
 ## 5.2 Renal Failure
 
 Acute renal failure has been observed in some patients with severe renal impairment (creatinine clearance [CrCL] <30 mL/min) while taking ranolazine.
-If acute renal failure develops (e.g., marked increase in serum creatinine associated with an increase in blood urea nitrogen [BUN]), discontinue ranolazine and treat appropriately [see Use in Specific Populations (8.7)].
+If acute renal failure develops (e.g., marked increase in serum creatinine associated with an increase in blood urea nitrogen [BUN]), discontinue ranolazine and treat appropriately [see Error!
+Hyperlink reference not valid.].
 
 Monitor renal function after initiation and periodically in patients with moderate to severe renal impairment (CrCL <60 mL/min) for increases in serum creatinine accompanied by an increase in BUN.

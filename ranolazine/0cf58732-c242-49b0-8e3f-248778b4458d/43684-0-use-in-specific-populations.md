@@ -5,7 +5,8 @@
 Risk Summary
 
 There are no available data on ranolazine use in pregnant women to inform any drug-associated risks.
-Studies in rats and rabbits showed no evidence of fetal harm at exposures 4 times the maximum recommended human dose (MRHD) (see Data).
+Studies in rats and rabbits showed no evidence of fetal harm at exposures 4 times the maximum recommended human dose (MRHD) (see Error!
+Hyperlink reference not valid.).
 
 In the U.S. general population, the estimated background risk of major birth defects and of miscarriage of clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
@@ -51,7 +52,8 @@ This increase was not enough to account for the 3-fold increase in QT prolongati
 
 A pharmacokinetic study of ranolazine in subjects with severe renal impairment (CrCL <30 mL/min) was stopped when 2 of 4 subjects developed acute renal failure after receiving ranolazine extended-release tablets 500 mg twice daily for 5 days (lead-in phase) followed by 1000 mg twice a day (1 dose in one subject and 11 doses in the other).
 Increases in creatinine, BUN, and potassium were observed in 3 subjects during the 500 mg lead-in phase.
-One subject required hemodialysis, while the other 2 subjects improved upon drug discontinuation [see Warnings and Precautions (5.2)].
+One subject required hemodialysis, while the other 2 subjects improved upon drug discontinuation [see Error!
+Hyperlink reference not valid.].
 Monitor renal function periodically in patients with moderate to severe renal impairment.
 Discontinue ranolazine extended-release tablets if acute renal failure develops.
 

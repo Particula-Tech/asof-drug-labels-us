@@ -51,7 +51,9 @@ Laboratory Abnormalities:
 Ranolazine produces elevations of serum creatinine by 0.1 mg/dL, regardless of previous renal function, likely because of inhibition of creatinine’s tubular secretion.
 In general, the elevation has a rapid onset, shows no signs of progression during long-term therapy, is reversible after discontinuation of ranolazine, and is not accompanied by changes in BUN.
 In healthy volunteers, ranolazine extended-release tablets 1000 mg twice daily had no effect upon the glomerular filtration rate.
-More marked and progressive increases in serum creatinine, associated with increases in BUN or potassium, indicating acute renal failure, have been reported after initiation of ranolazine in patients with severe renal impairment [see Warnings and Precautions (5.2), Use in Specific Populations (8.7)].
+More marked and progressive increases in serum creatinine, associated with increases in BUN or potassium, indicating acute renal failure, have been reported after initiation of ranolazine in patients with severe renal impairment [see Error!
+Hyperlink reference not valid., Error!
+Hyperlink reference not valid.].
 
 ## 6.2 Postmarketing Experience
 
