@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
+Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
 There are no adequate and well-controlled studies of BELBUCA or buprenorphine in pregnant women.
 Limited published data on use of buprenorphine, the active ingredient in BELBUCA, in pregnancy, have not shown an increased risk of major malformations.
 Reproductive and developmental studies in rats and rabbits identified adverse events at approximately 2 times the maximum recommended human dose (MRHD) of 1.8 mg/day of BELBUCA.
@@ -14,15 +14,15 @@ No clear teratogenic effects were seen when buprenorphine was administered durin
 However, increases in skeletal abnormalities were noted in rats and rabbits administered buprenorphine daily during organogenesis at doses approximately 5.4 and 10.8 times the MRHD of 1.8 mg/day of buprenorphine, respectively.
 In a few studies, some events such as acephalus and omphalocele were also observed but these findings were not clearly treatment-related [see Data].
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
 Adverse outcomes in pregnancy can occur regardless of the health of the mother or the use of medications.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
 Fetal/Neonatal Adverse Reactions
 
-Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Use of opioid analgesics for an extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
 Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
@@ -89,8 +89,8 @@ No adverse reactions were observed in the infants in these two studies.
 
 Infertility
 
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
-It is not known whether these effects on fertility are reversible [see Clinical Pharmacology (12.2), Nonclinical Toxicology (13.1)].
+Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
+It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -105,10 +105,12 @@ The incidences of selected BELBUCA-related adverse effects were higher in older 
 No notable differences in pharmacokinetics were observed from population pharmacokinetic analysis in subjects aged 65 and older compared to younger subjects.
 Other reported clinical experience with buprenorphine has not identified differences in responses between the elderly and younger patients.
 Although specific dose adjustments on the basis of advanced age are not required for pharmacokinetic reasons, use caution in the elderly population to ensure safe use.
-Titrate the dosage of BELBUCA slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.6), Clinical Pharmacology (12.3)].
+
+Respiratory depression is the chief risk for elderly patients treated with opioids and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
+Titrate the dosage of BELBUCA slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.7), Clinical Pharmacology (12.3)].
 
 Buprenorphine is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
 
 ## 8.6 Hepatic Impairment
 
@@ -118,6 +120,6 @@ The effects of hepatic impairment on the pharmacokinetics of buprenorphine were 
 Buprenorphine is extensively metabolized in the liver and buprenorphine plasma levels were found to be higher and the half-life was found to be longer in subjects with moderate and severe hepatic impairment, but not in subjects with mild hepatic impairment.
 
 Given that increased buprenorphine plasma levels are associated with a greater risk of toxicity and overdose, a dosage reduction in patients with severe hepatic impairment (i.e., Child-Pugh C) is recommended [see Dosage and Administration (2.6)].
-Monitor patients with severe hepatic impairment for signs and symptoms of overdose.
-A dosage reduction in patients with moderate hepatic impairment (Child-Pugh B) is not needed; however, monitor these patients for signs and symptoms of toxicity or overdose.
-A dosage reduction in patients with mild hepatic impairment (Child-Pugh A) is not needed [see Dosage and Administration (2.6), Warnings and Precautions (5.11), Clinical Pharmacology (12.3)].
+Regularly evaluate patients with severe hepatic impairment for signs and symptoms of overdose.
+A dosage reduction in patients with moderate hepatic impairment (Child-Pugh B) is not needed; however, regularly evaluate these patients for signs and symptoms of toxicity or overdose.
+A dosage reduction in patients with mild hepatic impairment (Child-Pugh A) is not needed [see Dosage and Administration (2.6), Warnings and Precautions (5.19), Clinical Pharmacology (12.3)].

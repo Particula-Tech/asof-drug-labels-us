@@ -42,7 +42,7 @@ Effects on the Endocrine System
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
 
 Effects on the Immune System
@@ -53,7 +53,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration–Efficacy Relationships
 
-The minimum effective analgesic concentration varies widely among patients, especially among patients who have been previously treated with potent agonist opioids.
+The minimum effective analgesic concentration varies widely among patients, especially among patients who have been previously treated with opioid agonists.
 The minimum effective analgesic concentration of buprenorphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.4)].
 
 Concentration–Adverse Reaction Relationships
@@ -141,7 +141,7 @@ The disposition of buprenorphine in patients with hepatic impairment was compare
 In subjects with mild hepatic impairment, the changes in mean Cmax, AUC0-last, and half-life values of buprenorphine were not clinically significant.
 No dose adjustment is needed in patients with mild hepatic impairment.
 
-For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of buprenorphine were increased (Table 8) [see Dosage and Administration (2.6), Warnings and Precautions (5.11), Use in Specific Populations (8.6)].
+For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of buprenorphine were increased (Table 8) [see Dosage and Administration (2.6), Warnings and Precautions (5.19), Use in Specific Populations (8.6)].
 
 Table 8: Changes in Pharmacokinetic Parameters in Subjects with Moderate and Severe Hepatic Impairment
 
@@ -156,4 +156,4 @@ Table 8: Changes in Pharmacokinetic Parameters in Subjects with Moderate and Sev
 
 Oral Mucositis
 
-In an open-label pharmacokinetic study in 6 cancer patients with Grade 3 mucositis, buprenorphine was absorbed more rapidly from BELBUCA resulting in a higher Cmax (~79%) and AUC (~56%) compared to age- and gender-matched healthy control subjects [see Dosage and Administration (2.7), Warnings and Precautions (5.18)].
+In an open-label pharmacokinetic study in 6 cancer patients with Grade 3 mucositis, buprenorphine was absorbed more rapidly from BELBUCA resulting in a higher Cmax (~79%) and AUC (~56%) compared to age- and gender-matched healthy control subjects [see Dosage and Administration (2.7), Warnings and Precautions (5.20)].

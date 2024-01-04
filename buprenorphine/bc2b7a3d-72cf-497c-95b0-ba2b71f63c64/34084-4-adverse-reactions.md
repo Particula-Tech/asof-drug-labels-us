@@ -3,16 +3,17 @@
 The following serious adverse reactions described elsewhere in the labeling include:
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
-- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.3)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
-- Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.5)]
-- Adrenal Insufficiency [see Warnings and Precautions (5.7)]
-- Severe Hypotension [see Warnings and Precautions (5.8)]
-- Hepatotoxicity [see Warnings and Precautions (5.10)]
-- QTc Prolongation [see Warnings and Precautions (5.13)]
-- Anaphylactic/Allergic Reactions [see Warnings and Precautions (5.14)]
-- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.16)]
-- Seizures [see Warnings and Precautions (5.17)]
+- Opioid-Induced Hyperalgesia and Allodynia [see Warnings and Precautions (5.6)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.8)]
+- Severe Hypotension [see Warnings and Precautions (5.9)]
+- Hepatotoxicity [see Warnings and Precautions (5.11)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.12)]
+- Seizures [see Warnings and Precautions (5.13)]
+- QTc Prolongation [see Warnings and Precautions (5.15)]
+- Anaphylactic/Allergic Reactions [see Warnings and Precautions (5.16)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -110,6 +111,12 @@ Adrenal insufficiency: Cases of adrenal insufficiency have been reported with op
 
 Anaphylaxis: Anaphylaxis has been reported with ingredients contained in BELBUCA.
 
-Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+Androgen deficiency: Cases of androgen deficiency have occurred with use of opioids for an extended period of time.
+[see Clinical Pharmacology (12.2)].
+
+Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see Warnings and Precautions (5.6)].
 
 Local reactions: dental decay (including caries, tooth fracture, and tooth loss).
+
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking opioids.
+Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).

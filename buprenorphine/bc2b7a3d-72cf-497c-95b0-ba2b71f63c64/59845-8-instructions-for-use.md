@@ -38,12 +38,14 @@ Use BELBUCA buccal film as follows:
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-For more information call BioDelivery Sciences International, Inc. at 1-800-469-0261.
+For more information call Collegium Pharmaceutical, Inc. at 855-331-5615.
 
-Manufactured for: BioDelivery Sciences International, Inc., Raleigh, NC 27612
+Manufactured for:
 
-BELBUCA is a trademark of BioDelivery Sciences International, Inc.
+Collegium Pharmaceutical, Inc., Stoughton, MA 02072
 
-©2021 BioDelivery Sciences International, Inc. All rights reserved.
+BELBUCA is a trademark of BioDelivery Sciences International, Inc., a wholly owned subsidiary of Collegium Pharmaceutical, Inc.
 
-BEL-001-MG-Jun2022
+©2023 BioDelivery Sciences International, Inc. All rights reserved.
+
+BEL-001-MG-Dec2023
