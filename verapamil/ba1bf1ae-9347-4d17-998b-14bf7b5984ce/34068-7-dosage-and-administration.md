@@ -10,8 +10,8 @@ The antihypertensive effects of verapamil hydrochloride extended-release tablets
 
 If adequate response is not obtained with 180 mg of verapamil hydrochloride extended-release tablets, the dose may be titrated upward in the following manner:
 
-1. a)240 mg each morning,
-2. b)180 mg each morning plus 180 mg each evening; or 240 mg each morning plus 120 mg each evening,
-3. c)240 mg every 12 hours.
+1. 1.240 mg each morning,
+2. 2.180 mg each morning plus 180 mg each evening; or 240 mg each morning plus 120 mg each evening,
+3. 3.240 mg every 12 hours.
 
 When switching from immediate-release verapamil hydrochloride tablets to verapamil hydrochloride extended-release tablets, the total daily dose in milligrams may remain the same.

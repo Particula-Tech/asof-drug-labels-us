@@ -6,8 +6,8 @@ The tablets are designed for sustained release of the drug in the gastrointestin
 
 The structural formula of verapamil HCl, USP is given below:
 
-1. C27H38N2O4·HCl M.W.
-   491.06 g/mol
+- C27H38N2O4·HCl M.W.
+  491.06 g/mol
 
 Benzeneacetonitrile, α-[3-[[2-(3,4-dimethoxyphenyl)-ethyl]methylamino]propyl]-3,4-dimethoxy-α-(1-methylethyl) hydrochloride
 
