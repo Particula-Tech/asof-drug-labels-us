@@ -20,11 +20,11 @@ Table 6: Summary of drug-drug interactions of rufinamide with other antiepilepti
 | Primidone | Not Investigated | Decrease by 25 to 46% c), d) Independent of dose or concentration of primidone |
 | Benzodiazepinese) | Not Investigated | No Effect |
 
-1. a) Predictions are based on rufinamide concentrations at the maximum recommended dose of rufinamide.
-2. b) Maximum changes predicted to be in pediatric patients and in adult patients who achieve significantly higher levels of rufinamide, as the effect of rufinamide on these AEDs is concentration-dependent.
-3. c) Larger effects in pediatric patients at high doses/concentrations of AEDs.
-4. d) Phenobarbital, primidone and phenytoin were treated as a single covariate (phenobarbital-type inducers) to examine the effect of these agents on rufinamide clearance.
-5. e) All compounds of the benzodiazepine class were pooled to examine for ‘class effect’ on rufinamide clearance.
+- a) Predictions are based on rufinamide concentrations at the maximum recommended dose of rufinamide.
+- b) Maximum changes predicted to be in pediatric patients and in adult patients who achieve significantly higher levels of rufinamide, as the effect of rufinamide on these AEDs is concentration-dependent.
+- c) Larger effects in pediatric patients at high doses/concentrations of AEDs.
+- d) Phenobarbital, primidone and phenytoin were treated as a single covariate (phenobarbital-type inducers) to examine the effect of these agents on rufinamide clearance.
+- e) All compounds of the benzodiazepine class were pooled to examine for ‘class effect’ on rufinamide clearance.
 
 Phenytoin: The decrease in clearance of phenytoin estimated at typical levels of rufinamide (Cavss 15 mcg/mL) is predicted to increase plasma levels of phenytoin by 7 to 21%.
 As phenytoin is known to have non-linear pharmacokinetics (clearance becomes saturated at higher doses), it is possible that exposure will be greater than the model prediction.

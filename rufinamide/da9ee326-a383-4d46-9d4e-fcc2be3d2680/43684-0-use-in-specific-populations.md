@@ -50,13 +50,16 @@ Infertility
 The effect of rufinamide on fertility in humans has not been established.
 Oral administration of rufinamide (20, 60, 200, and 600 mg/kg/day) to male and female rats prior to mating, during mating, and during early gestation (females only) resulted in the impairment of fertility at all dose levels tested.
 The no-effect dose was not established.
-The plasma exposure level at 20 mg/kg was approximately 0.2 times the human plasma AUC at the MRHD [see Nonclinical Toxicology (13.1)].
+The plasma exposure level at 20 mg/kg was approximately 0.2 times the human plasma AUC at the MRHD [see Nonclinical Toxicology (Error!
+Hyperlink reference not valid.)].
 
 ## 8.4 Pediatric Use
 
 Safety and effectiveness have been established in pediatric patients 1 to 17 years of age.
 The effectiveness of rufinamide in pediatric patients 4 years of age and older was based upon an adequate and well-controlled trial of rufinamide that included both adults and pediatric patients, 4 years of age and older, with Lennox Gastaut Syndrome.
-The effectiveness in patients 1 to less than 4 years was based upon a bridging pharmacokinetic and safety study [see Dosage and Administration (2.1), Adverse Reactions (6.1), and Clinical Studies (14)].
+The effectiveness in patients 1 to less than 4 years was based upon a bridging pharmacokinetic and safety study [see Dosage and Administration (2.1), Adverse Reactions (Error!
+Hyperlink reference not valid.), and Clinical Studies (Error!
+Hyperlink reference not valid.)].
 The pharmacokinetics of rufinamide in the pediatric patients, ages 1 to less than 4 years of age is similar to children older than 4 years of age and adults [see Clinical Pharmacology (12.3)].
 
 Safety and effectiveness in pediatric patients below the age of 1 year has not been established.

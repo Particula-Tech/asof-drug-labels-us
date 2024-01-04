@@ -22,7 +22,8 @@ Advise patients to notify their physician if they experience a rash associated w
 Drug Interactions
 
 - •Inform female patients of childbearing age that the concurrent use of rufinamide with hormonal contraceptives may render this method of contraception less effective.
-  Recommend patients use additional non-hormonal forms of contraception when using rufinamide [see Drug Interactions (7.3) and Use in Specific Populations (8.3)].
+  Recommend patients use additional non-hormonal forms of contraception when using rufinamide [see Drug Interactions (7.3) and Use in Specific Populations (Error!
+  Hyperlink reference not valid.)].
 - •Inform patients that alcohol in combination with rufinamide may cause additive central nervous system effects.
 
 Pregnancy
