@@ -16,7 +16,7 @@ The most common adverse reaction reported in patients who received MEC in pooled
 Across these 4 studies there were 1412 patients treated with the aprepitant regimen during Cycle 1 of chemotherapy and 1099 of these patients continued into the Multiple-Cycle extension for up to 6 cycles of chemotherapy.
 The most common adverse reactions reported in patients who received HEC and MEC in pooled Studies 1, 2, 3 and 4 are listed in Table 5.
 
-Table 5: Most Common Adverse Reactions in Patients Receiving HEC and MEC from a Pooled Analysis of HEC and MEC Studies*
+Table 3: Most Common Adverse Reactions in Patients Receiving HEC and MEC from a Pooled Analysis of HEC and MEC Studies*
 
 |  | Aprepitant, ondansetron, and dexamethasone† (N=1412) | Ondansetron and dexamethasone‡ (N=1396) |
 | --- | --- | --- |
@@ -38,7 +38,7 @@ Table 5: Most Common Adverse Reactions in Patients Receiving HEC and MEC from a 
 
 In a pooled analysis of the HEC and MEC studies, less common adverse reactions reported in patients treated with the aprepitant regimen are listed in Table 6.
 
-Table 6: Less Common Adverse Reactions in Aprepitant-Treated Patients from a Pooled Analysis of HEC and MEC Studies*
+Table 4: Less Common Adverse Reactions in Aprepitant-Treated Patients from a Pooled Analysis of HEC and MEC Studies*
 
 | Infection and Infestations | oral candidiasis, pharyngitis |
 | --- | --- |
@@ -103,7 +103,7 @@ There were 564 patients treated with aprepitant and 538 patients treated with on
 
 The most common adverse reactions reported in patients treated with aprepitant for PONV in pooled Studies 7 and 8 are listed in Table 8.
 
-Table 8: Most Common Adverse Reactions in Aprepitant-Treated Patients in a Pooled Analysis of PONV Studies*
+Table 5: Most Common Adverse Reactions in Aprepitant-Treated Patients in a Pooled Analysis of PONV Studies*
 
 |  | Aprepitant 40 mg (N = 564) | Ondansetron (N = 538) |
 | --- | --- | --- |
@@ -114,7 +114,7 @@ Table 8: Most Common Adverse Reactions in Aprepitant-Treated Patients in a Poole
 
 In a pooled analysis of PONV studies, less common adverse reactions reported in patients treated with aprepitant are listed in Table 9.
 
-Table 9: Less Common Adverse Reactions in Aprepitant-Treated Patients in a Pooled Analysis of PONV Studies*
+Table 6: Less Common Adverse Reactions in Aprepitant-Treated Patients in a Pooled Analysis of PONV Studies*
 
 | Infections and Infestations | postoperative infection |
 | --- | --- |

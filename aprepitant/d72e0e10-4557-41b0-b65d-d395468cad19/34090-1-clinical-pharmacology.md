@@ -75,7 +75,8 @@ Geriatric Patients
 
 Following oral administration of a single 125 mg dose of aprepitant on Day 1 and 80 mg once daily on Days 2 through 5 (2 additional days of dosing compared to the recommended duration), the AUC0-24hr of aprepitant was 21% higher on Day 1 and 36% higher on Day 5 in elderly (65 years and older) relative to younger adults.
 The Cmax was 10% higher on Day 1 and 24% higher on Day 5 in elderly relative to younger adults.
-These differences are not considered clinically meaningful [see Use in Specific Populations (8.5)].
+These differences are not considered clinically meaningful [see Use in Specific Populations (Error!
+Hyperlink reference not valid.)].
 
 Pediatric Patients
 
@@ -129,7 +130,7 @@ Effects of Aprepitant on the Pharmacokinetics of Other Drugs
 
 CYP3A4 substrates (i.e., midazolam): Interactions between aprepitant and coadministered midazolam are listed in Table 12 (increase is indicated as "↑", decrease as "↓", no change as "↔").
 
-Table 12: Pharmacokinetic Interaction Data for Aprepitant and Coadministered Midazolam
+Table 9: Pharmacokinetic Interaction Data for Aprepitant and Coadministered Midazolam
 
 | Dosage of Aprepitant | Dosage of Midazolam | Observed Drug Interactions |
 | --- | --- | --- |

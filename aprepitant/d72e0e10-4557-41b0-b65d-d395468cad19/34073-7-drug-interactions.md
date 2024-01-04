@@ -10,7 +10,7 @@ Aprepitant acts as a weak inhibitor when administered as a single 40 mg dose and
 Some substrates of CYP3A4 are contraindicated with aprepitant [see Contraindications (4)].
 Dosage adjustment of some CYP3A4 and CYP2C9 substrates may be warranted, as shown in Table 10.
 
-Table 10: Effects of Aprepitant on the Pharmacokinetics of Other Drugs
+Table 7: Effects of Aprepitant on the Pharmacokinetics of Other Drugs
 
 | CYP3A4 Substrates |  |
 | --- | --- |
@@ -48,7 +48,7 @@ Table 10: Effects of Aprepitant on the Pharmacokinetics of Other Drugs
 Aprepitant is a CYP3A4 substrate [see Clinical Pharmacology (12.3)].
 Co-administration of aprepitant with drugs that are inhibitors or inducers of CYP3A4 may result in increased or decreased plasma concentrations of aprepitant, respectively, as shown in Table 11.
 
-Table 11: Effects of Other Drugs on Pharmacokinetics of Aprepitant
+Table 8: Effects of Other Drugs on Pharmacokinetics of Aprepitant
 
 | Moderate to Strong CYP3A4 Inhibitors |  |
 | --- | --- |
