@@ -22,18 +22,4 @@ Females of Reproductive Age:
 
 Inform females that treatment with metformin hydrochloride tablets may result in ovulation in some premenopausal anovulatory women which may lead to unintended pregnancy [see Use in Specific Populations (8.3)].
 
-Distributed by:
-
-Aurobindo Pharma USA, Inc.
-
-279 Princeton-Hightstown Road
-
-East Windsor, NJ 08520
-
-Manufactured by:
-
-Aurobindo Pharma Limited
-
-Hyderabad-500 038, India
-
-Revised: 07/2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 07/2018
