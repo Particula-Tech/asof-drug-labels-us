@@ -3,7 +3,8 @@
 ## Lithium Toxicity
 
 The toxic concentrations for lithium (≥1.5 mEq/L) are close to the therapeutic range (0.8 to 1.2 mEq/L).
-Some patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations that are considered within the therapeutic range (see BOXED WARNINGandDOSAGE AND ADMINISTRATION).
+Some patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations that are considered within the therapeutic range (see Error!
+Hyperlink reference not valid.andDOSAGE AND ADMINISTRATION).
 Lithium may take up to 24 hours to distribute into brain tissue, so occurrence of acute toxicity symptoms may be delayed.
 
 Neurological signs of lithium toxicity range from mild neurological adverse reactions such as fine tremor, lightheadedness, lack of coordination, and weakness; to moderate manifestations like giddiness, apathy, drowsiness, hyperreflexia, muscle twitching, ataxia, blurred vision, tinnitus, and slurred speech; and severe manifestations such as clonus, confusion, seizure, coma, and death.
