@@ -84,7 +84,7 @@ For patients with symptomatic gallstones, surgery offers the advantage of immedi
 About 5% of cholecystectomized patients have residual symptoms or retained common duct stones.
 The spectrum of surgical risk varies as a function of age and the presence of disease other than cholelithiasis.
 
-Mortality Rates for Cholecystectomy in the U.S. (National Halothane Study, JAMA 1966; 197:775-8) 27,600 Cholecystectomies (Smoothed Rates) Deaths/1000 Operations***
+Mortality Rates for Cholecystectomy in the U.S. (National Halothane Study, JAMA 1966; 197:775-8) 27,600 Cholecystectomies (Smoothed Rates) Deaths/1,000 Operations***
 
 |  | Age (Yrs) | Cholecystectomy | Cholecystectomy + Common Duct Exploration |
 | --- | --- | --- | --- |

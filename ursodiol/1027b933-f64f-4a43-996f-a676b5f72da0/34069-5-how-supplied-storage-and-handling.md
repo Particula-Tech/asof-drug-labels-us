@@ -10,7 +10,7 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Dispense in a tight container as defined in USP.
 
-Keep this and all medications out of reach of children.
+Keep this and all medications out of the reach of children.
 
 Manufactured by: Amneal Pharmaceuticals Pvt.
 Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA
@@ -18,4 +18,4 @@ Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-11-2018-01
+11-2023-02

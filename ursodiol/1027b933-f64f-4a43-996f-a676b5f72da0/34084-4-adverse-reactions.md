@@ -8,7 +8,7 @@ GALLSTONE DISSOLUTION
 
 | N | (%) | N | (%) |  |
 | --- | --- | --- | --- | --- |
-|  | Ursodiol8 mg/kg/day to 10 mg/kg/day(N = 155) |  | Placebo(N = 159) |  |
+|  | Ursodiol 8 mg/kg/day to 10 mg/kg/day(N = 155) |  | Placebo(N = 159) |  |
 | Body as a Whole |  |  |  |  |
 | AllergyChest PainFatigueInfection Viral | 8 5 7 30 | (5.2)(3.2)(4.5)(19.4) | 7 10 8 41 | (4.4)(6.3)(5.0)(25.8) |
 | Digestive System |  |  |  |  |
@@ -24,7 +24,7 @@ GALLSTONE DISSOLUTION
 
 GALLSTONE PREVENTION
 
-|  | Ursodiol, 600 mg(N = 322) |  | Placebo(N = 325) |  |
+|  | Ursodiol600 mg(N = 322) |  | Placebo(N = 325) |  |
 | --- | --- | --- | --- | --- |
 | N | (%) | N | (%) |  |
 | Body as a Whole |  |  |  |  |
@@ -41,5 +41,12 @@ GALLSTONE PREVENTION
 | Alopecia | 17 | (5.3) | 8 | (2.5) |
 | Urogenital System |  |  |  |  |
 | Dysmenorrhea | 18 | (5.6) | 19 | (5.8) |
+
+Post-marketing Experience
+
+The following adverse reactions, presented by system organ class in alphabetical order, have been identified during post-approval use of ursodiol.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Gastrointestinal disorders: enteroliths (bezoars)
 
 To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
