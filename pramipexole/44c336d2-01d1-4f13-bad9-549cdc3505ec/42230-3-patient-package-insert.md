@@ -81,16 +81,16 @@ Pramipexole dihydrochloride tablets may cause serious side effects, including:
 
 - •falling asleep during normal daily activities.
   Pramipexole dihydrochloride tablets may cause you to fall asleep while you are doing daily activities such as driving, talking with other people, or eating.
-  - •Some people taking the medicine in pramipexole dihydrochloride tablets have had car accidents because they fell asleep while driving.
-  - •Some patients did not feel sleepy before they fell asleep while driving.
+  - oSome people taking the medicine in pramipexole dihydrochloride tablets have had car accidents because they fell asleep while driving.
+  - oSome patients did not feel sleepy before they fell asleep while driving.
     You could fall asleep without any warning.
 - Tell your doctor right away if you fall asleep while you are doing activities such as talking, eating, driving, or if you feel sleepier than normal for you.
 - •low blood pressure when you sit or stand up quickly.
   You may have:
-  - •dizziness
-  - •nausea
-  - •fainting
-  - •sweating
+  - odizziness
+  - onausea
+  - ofainting
+  - osweating
 - Sit and stand up slowly after you have been sitting or lying down.
 - •unusual urges.
   Some people who take certain medicines to treat Parkinson’s disease or RLS, including pramipexole dihydrochloride tablets, have reported problems, such as gambling, compulsive eating, compulsive buying, and increased sex drive.
@@ -106,16 +106,16 @@ Pramipexole dihydrochloride tablets may cause serious side effects, including:
 - •withdrawal symptoms. pramipexole dihydrochloride tablets is a dopamine agonist medicine.
   Dopamine agonist medicines, including pramipexole dihydrochloride tablets, can cause withdrawal symptoms as your dose is slowly lowered (tapered) or when treatment with pramipexole dihydrochloride tablets is stopped.
   Tell your doctor right away if you get any of the following withdrawal symptoms:
-  - fever
-  - confusion
-  - severe muscle stiffness
-  - feeling like you do not care about things you usually care about (apathy)
-  - anxiety
-  - depression
-  - fatigue
-  - insomnia
-  - sweating
-  - pain
+- fever
+- confusion
+- severe muscle stiffness
+- feeling like you do not care about things you usually care about (apathy)
+- anxiety
+- depression
+- fatigue
+- insomnia
+- sweating
+- pain
 
 After you have stopped taking pramipexole dihydrochloride tablets, your doctor may need to restart you at a low dose of pramipexole dihydrochloride tablets if you get severe withdrawal symptoms.
 

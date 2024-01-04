@@ -18,7 +18,8 @@ Sedating Effects
 Alert patients to the potential sedating effects associated with pramipexole dihydrochloride tablets, including somnolence and the possibility of falling asleep while engaged in activities of daily living.
 Since somnolence is a frequent adverse reaction with potentially serious consequences, patients should neither drive a car nor engage in other potentially dangerous activities until they have gained sufficient experience with pramipexole dihydrochloride tablets to gauge whether or not it affects their mental and/or motor performance adversely.
 Advise patients that if increased somnolence or new episodes of falling asleep during activities of daily living (e.g., conversations or eating) are experienced at any time during treatment, they should not drive or participate in potentially dangerous activities until they have contacted their physician.
-Because of possible additive effects, advise caution when patients are taking other sedating medications or alcohol in combination with pramipexole dihydrochloride tablets and when taking concomitant medications that increase plasma levels of pramipexole (e.g., cimetidine) [see Warnings and Precautions (5.1)].
+Because of possible additive effects, advise caution when patients are taking other sedating medications or alcohol in combination with pramipexole dihydrochloride tablets and when taking concomitant medications that increase plasma levels of pramipexole (e.g., cimetidine) [see Warnings and Precautions (Error!
+Hyperlink reference not valid.)].
 
 Postural (Orthostatic) Hypotension
 

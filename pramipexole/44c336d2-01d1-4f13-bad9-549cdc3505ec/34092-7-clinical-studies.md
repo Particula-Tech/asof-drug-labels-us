@@ -82,7 +82,7 @@ The mean improvement from baseline on the IRLS Scale total score and the percent
 All treatment groups reached statistically significant superiority compared to placebo for both endpoints.
 There was no clear evidence of a dose-response across the 3 randomized dose groups.
 
-1. Table 8 Mean Changes from Baseline to Week 12 in IRLS Score and CGI-I (Study 1)
+- Table 8 Mean Changes from Baseline to Week 12 in IRLS Score and CGI-I (Study 1)
 
 |  | Pramipexole Dihydrochloride0.25 mg | Pramipexole Dihydrochloride0.5 mg | Pramipexole Dihydrochloride0.75 mg | Pramipexole DihydrochlorideTotal | Placebo |
 | --- | --- | --- | --- | --- | --- |
@@ -114,7 +114,7 @@ The mean improvement from baseline on the IRLS Scale total score and the percent
 In this study, the 0.125 mg dose group was not significantly different from placebo.
 On average, the 0.5 mg dose group performed better than the 0.25 mg dose group, but there was no difference between the 0.5 mg and 0.75 mg dose groups.
 
-1. Table 9 Mean Changes from Baseline to Week 3 in IRLS Score and CGI-I (Study 4)
+- Table 9 Mean Changes from Baseline to Week 3 in IRLS Score and CGI-I (Study 4)
 
 |  | Pramipexole Dihydrochloride0.125 mg | Pramipexole Dihydrochloride0.25 mg | Pramipexole Dihydrochloride0.5 mg | Pramipexole Dihydrochloride0.75 mg | Pramipexole DihydrochlorideTotal | Placebo |
 | --- | --- | --- | --- | --- | --- | --- |

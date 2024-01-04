@@ -68,7 +68,8 @@ Reducing the dose or discontinuing pramipexole dihydrochloride has been reported
 
 ## 5.7 Renal Impairment
 
-Since pramipexole is eliminated through the kidneys, caution should be exercised when prescribing pramipexole dihydrochloride tablets to patients with renal impairment [see Dosage and Administration (2.3), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+Since pramipexole is eliminated through the kidneys, caution should be exercised when prescribing pramipexole dihydrochloride tablets to patients with renal impairment [see Dosage and Administration (Error!
+Hyperlink reference not valid.), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 ## 5.8 Rhabdomyolysis
 

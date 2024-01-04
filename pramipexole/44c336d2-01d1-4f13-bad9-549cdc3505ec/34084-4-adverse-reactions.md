@@ -10,7 +10,8 @@ The following adverse reactions are discussed in greater detail in other section
 - •Postural Deformity [see Warnings and Precautions (5.6)]
 - •Rhabdomyolysis [see Warnings and Precautions (5.8)]
 - •Retinal Pathology [see Warnings and Precautions (5.9)]
-- •Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.10)]
+- •Events Reported with Dopaminergic Therapy [see Warnings and Precautions (Error!
+  Hyperlink reference not valid.)]
 - •Withdrawal Symptoms [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
@@ -36,7 +37,7 @@ The adverse reactions most commonly causing discontinuation of treatment were re
 Adverse-reaction Incidence in Controlled Clinical Studies in Early Parkinson's Disease: Table 4 lists adverse reactions that occurred in the double-blind, placebo-controlled studies in early Parkinson's disease that were reported by ≥1% of patients treated with pramipexole dihydrochloride tablets and were numerically more frequent than in the placebo group.
 In these studies, patients did not receive concomitant levodopa.
 
-1. Table 4 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride in Early Parkinson’s Disease
+- Table 4 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride in Early Parkinson’s Disease
 
 | Body System/Adverse Reaction | Pramipexole Dihydrochloride(N=388)% | Placebo(N=235)% |
 | --- | --- | --- |
@@ -86,7 +87,7 @@ The reactions most commonly causing discontinuation of treatment were related to
 Adverse-reaction Incidence in Controlled Clinical Studies in Advanced Parkinson's Disease: Table 5 lists adverse reactions that occurred in the double-blind, placebo-controlled studies in advanced Parkinson's disease that were reported by ≥1% of patients treated with pramipexole dihydrochloride tablets and were numerically more frequent than in the placebo group.
 In these studies, pramipexole dihydrochloride tablets or placebo was administered to patients who were also receiving concomitant levodopa.
 
-1. Table 5 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride in Advanced Parkinson’s Disease
+- Table 5 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride in Advanced Parkinson’s Disease
 
 | Body System/Adverse Reaction | Pramipexole Dihydrochloride(N=260)% | Placebo(N=264)% |
 | --- | --- | --- |
@@ -155,7 +156,7 @@ The adverse reaction most commonly causing discontinuation of treatment was naus
 
 Table 6 lists reactions that occurred in three double-blind, placebo-controlled studies in RLS patients that were reported by ≥2% of patients treated with pramipexole dihydrochloride tablets and were numerically more frequent than in the placebo group.
 
-1. Table 6 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride in Restless Legs Syndrome
+- Table 6 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride in Restless Legs Syndrome
 
 | Body System/Adverse Reaction | Pramipexole Dihydrochloride0.125 to 0.75 mg/day (N=575)% | Placebo(N=223)% |
 | --- | --- | --- |
@@ -174,7 +175,7 @@ Table 6 lists reactions that occurred in three double-blind, placebo-controlled 
 
 Table 7 summarizes data for adverse reactions that appeared to be dose related in the 12-week fixed dose study.
 
-1. Table 7 Dose-Related Adverse Reactions in a 12-Week Double-Blind, Placebo-Controlled Fixed Dose Study in Restless Legs Syndrome (Occurring in ≥5% of all Patients in the Treatment Phase)
+- Table 7 Dose-Related Adverse Reactions in a 12-Week Double-Blind, Placebo-Controlled Fixed Dose Study in Restless Legs Syndrome (Occurring in ≥5% of all Patients in the Treatment Phase)
 
 | Body System/Adverse Reaction | Pramipexole Dihydrochloride0.25 mg (N=88)% | Pramipexole Dihydrochloride0.5 mg(N=80)% | Pramipexole Dihydrochloride0.75 mg (N=90)% | Placebo(N=86)% |
 | --- | --- | --- | --- | --- |

@@ -18,7 +18,7 @@ Bottles of 90 with child-resistant closure NDC 68462-332-90 Bottles of 500 with 
 
 0.75 mg: oval, white, flat beveled uncoated tablets engraved with ‘PX’ and ‘5’ on one side and plain on the other side.
 
-1. Bottles of 90 with child-resistant closure NDC 68462-627-90 Bottles of 500 NDC 68462-627-05
+- Bottles of 90 with child-resistant closure NDC 68462-627-90 Bottles of 500 NDC 68462-627-05
 
 1 mg: oval, white, flat beveled tablets engraved with ‘PX’ and ‘3’ on either side of a break line on one side and a break line on the other side.
 
