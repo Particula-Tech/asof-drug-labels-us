@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA202293"
+  ],
+  "inn": "dapagliflozin",
+  "labeler": "PRASCO, LLC",
+  "package_ndcs": [
+    "66993-456-30",
+    "66993-457-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "dapagliflozin",
+      "name": "DAPAGLIFLOZIN"
+    }
+  ],
+  "setid": "3aba33aa-f8c6-4b10-85c8-dfa14578d07c",
+  "source": "dailymed"
+}
