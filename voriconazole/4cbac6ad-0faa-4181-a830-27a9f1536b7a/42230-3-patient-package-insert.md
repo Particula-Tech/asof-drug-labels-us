@@ -97,7 +97,7 @@ Photosensitivity reactions may also increase your risk of:
 
 - •faster skin aging from the sun
 - •skin cancer
-- NaNCall your healthcare provider right away if you get a new skin rash or your skin rash gets worse.
+- •Call your healthcare provider right away if you get a new skin rash or your skin rash gets worse.
 
 | •fever | •sweating | •feels like your heart is beating fast (tachycardia) |
 | --- | --- | --- |
@@ -115,8 +115,8 @@ Photosensitivity reactions may also increase your risk of:
 - •blistering or peeling of your skin
 - •trouble swallowing or breathing
 - •adrenal gland problems:
-  - •Voriconazole tablets may cause reduced adrenal function (adrenal insufficiency).
-  - •Voriconazole tablets may cause overactive adrenal function (Cushing’s syndrome) when voriconazole is used at the same time with corticosteroids.
+  - oVoriconazole tablets may cause reduced adrenal function (adrenal insufficiency).
+  - oVoriconazole tablets may cause overactive adrenal function (Cushing’s syndrome) when voriconazole is used at the same time with corticosteroids.
 - Symptoms of adrenal insufficiency include:
 
 | •feeling tired | • lack of energy | •weakness |

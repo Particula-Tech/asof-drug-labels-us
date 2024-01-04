@@ -320,7 +320,7 @@ A higher frequency of clinically significant liver laboratory abnormalities, irr
 The incidence of bilirubin elevation was comparable between adult and pediatric patients.
 The incidence of hepatic abnormalities in pediatric patients is shown in Table 9.
 
-Table 9: Incidence of Hepatic Abnormalities among Pediatric Subjects
+Table 3: Incidence of Hepatic Abnormalities among Pediatric Subjects
 
 |  | Criteria | n/N (%) |
 | --- | --- | --- |
