@@ -87,7 +87,7 @@ How should I take rizatriptan benzoate orally disintegrating tablets?
 - •Take rizatriptan benzoate orally disintegrating tablets exactly as your doctor tells you to take it.
 - •Your doctor will tell you how much rizatriptan benzoate orally disintegrating tablets to take and when to take it.
 - •To take rizatriptan benzoate orally disintegrating tablets:
-- oLeave rizatriptan benzoate orally disintegrating tablets in the package it comes in until you are ready to take it.
+- •Leave rizatriptan benzoate orally disintegrating tablets in the package it comes in until you are ready to take it.
   When you are ready to take it:
 - •Remove the blister from the foil pouch.
   Do not push the rizatriptan benzoate orally disintegrating tablet through the blister.
@@ -95,9 +95,9 @@ How should I take rizatriptan benzoate orally disintegrating tablets?
   The tablet will dissolve and be swallowed with your saliva.
   No liquid is needed to take the orally disintegrating tablet.
 - •If your headache comes back after your first rizatriptan benzoate orally disintegrating tablets dose:
-- oFor adults: a second dose may be taken 2 hours after the first dose.
+- •For adults: a second dose may be taken 2 hours after the first dose.
   Do not take more than 30 mg of rizatriptan benzoate orally disintegrating tablets in a 24-hour period (for example, do not take more than three 10 mg tablets in a 24-hour period).
-- oFor children 6 to 17 years of age: It is not known if taking more than 1 dose of rizatriptan benzoate orally disintegrating tablets in 24 hours is safe and effective.
+- •For children 6 to 17 years of age: It is not known if taking more than 1 dose of rizatriptan benzoate orally disintegrating tablets in 24 hours is safe and effective.
   Talk to your doctor about what to do if your headache does not go away or comes back.
 - •If you take too much rizatriptan benzoate, call your doctor or go to the nearest hospital emergency room right away.
 
