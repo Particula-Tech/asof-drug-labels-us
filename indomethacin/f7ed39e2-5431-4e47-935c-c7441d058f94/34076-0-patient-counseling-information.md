@@ -24,20 +24,24 @@ Advise patients to be alert for the symptoms of congestive heart failure includi
 Anaphylactic Reactions
 
 Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
-Instruct patients to seek immediate emergency help if these occur [see Contraindications (4) and Warnings and Precautions (5.7)].
+Instruct patients to seek immediate emergency help if these occur [see Contraindications (Error!
+Hyperlink reference not valid.) and Warnings and Precautions (5.7)].
 
 Serious Skin Reactions, including DRESS
 
-Advise patients to stop taking indomethacin capsules immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9, 5.10)].
+Advise patients to stop taking indomethacin capsules immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9, Error!
+Hyperlink reference not valid.)].
 
 Female Fertility
 
-Advise females of reproductive potential who desire pregnancy that NSAIDs, including indomethacin capsules, may be associated with a reversible delay in ovulation [see Use in Specific Populations (8.3)].
+Advise females of reproductive potential who desire pregnancy that NSAIDs, including indomethacin capsules, may be associated with a reversible delay in ovulation [see Use in Specific Populations (Error!
+Hyperlink reference not valid.)].
 
 Fetal Toxicity
 
 Inform pregnant women to avoid use of indomethacin capsules and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
-If treatment with indomethacin capsules is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours [see Warnings and Precautions (5.11) and Use in Specific Populations (8.1)].
+If treatment with indomethacin capsules is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours [see Warnings and Precautions (5.11) and Use in Specific Populations Error!
+Hyperlink reference not valid.)].
 
 Avoid Concomitant Use of NSAIDs
 
