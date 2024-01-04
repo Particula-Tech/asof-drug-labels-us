@@ -42,8 +42,6 @@ The B-cell counts returned to normal levels, and immunologic function was restor
 
 ## 8.2 Lactation
 
-Risk Summary
-
 There are limited data on the presence of rituximab in human milk, and the effect on the breastfed child, and there are no data on the effect on milk production.
 Rituximab is detected in the milk of lactating cynomolgus monkeys, and maternal IgG is present in human breast milk.
 Rituximab has also been reported to be excreted at low concentrations in human breast milk.
@@ -65,7 +63,7 @@ Advise females of reproductive potential to use effective contraception during t
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of rituximab products have not been established in pediatric patients with NHL, CLL or RA.
+The safety and effectiveness of RUXIENCE have not been established in pediatric patients with NHL, CLL or RA.
 
 Rituximab was not studied in pediatric patients with polyarticular juvenile idiopathic arthritis (PJIA) due to concerns regarding the potential for prolonged immunosuppression as a result of B-cell depletion in the developing juvenile immune system.
 
@@ -94,7 +92,7 @@ In exploratory analyses defined by age, there was no observed benefit from the a
 Patients 70 years or older received lower dose intensity of fludarabine and cyclophosphamide compared to younger patients, regardless of the addition of rituximab.
 In CLL Study 1, the dose intensity of rituximab was similar in older and younger patients, however in CLL Study 2 older patients received a lower dose intensity of rituximab.
 
-The incidence of Grade 3 and 4 adverse reactions was higher among patients receiving R-FC who were 70 years or older compared to younger patients for neutropenia [44% vs. 31% (CLL Study 1); 56% vs. 39% (CLL Study 2)], febrile neutropenia [16% vs. 6% (NHL Study 10 (NCT00719472)], anemia [5% vs. 2% (CLL Study 1); 21% vs. 10% (CLL Study 2)], thrombocytopenia [19% vs. 8% (CLL Study 2)], pancytopenia [7% vs. 2% (CLL Study 1); 7% vs. 2% (CLL Study 2)], and infections [30% vs. 14% (CLL Study 2)].
+The incidence of Grade 3 and 4 adverse reactions was higher among patients receiving R-FC who were 70 years or older compared to younger patients for neutropenia [44% vs. 31% (CLL Study 1); 56% vs. 39% (CLL Study 2)], febrile neutropenia [16% vs. 6% (NHL Study 10 (NCT00719472))], anemia [5% vs. 2% (CLL Study 1); 21% vs. 10% (CLL Study 2)], thrombocytopenia [19% vs. 8% (CLL Study 2)], pancytopenia [7% vs. 2% (CLL Study 1); 7% vs. 2% (CLL Study 2)], and infections [30% vs. 14% (CLL Study 2)].
 
 Rheumatoid Arthritis
 

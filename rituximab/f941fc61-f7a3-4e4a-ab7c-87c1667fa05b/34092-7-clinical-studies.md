@@ -7,7 +7,7 @@ The safety and effectiveness of rituximab in relapsed, refractory CD20+ NHL were
 NHL Study 1
 
 A multicenter, open-label, single-arm study was conducted in 166 patients with relapsed or refractory, low-grade or follicular, B-cell NHL who received 375 mg/m2 of rituximab given as an intravenous infusion weekly for 4 doses.
-Patients with tumor masses >10 cm or with >5,000 lymphocytes/µL in the peripheral blood were excluded from the study.
+Patients with tumor masses greater than 10 cm or with greater than 5,000 lymphocytes/µL in the peripheral blood were excluded from the study.
 
 Results are summarized in Table 5.
 The median time to onset of response was 50 days.
@@ -27,7 +27,7 @@ Results are summarized in Table 5.
 
 Bulky Disease
 
-In pooled data from studies 1 and 3, 39 patients with bulky (single lesion >10 cm in diameter) and relapsed or refractory, low-grade NHL received rituximab 375 mg/m2 weekly for 4 doses.
+In pooled data from studies 1 and 3, 39 patients with bulky (single lesion greater than 10 cm in diameter) and relapsed or refractory, low-grade NHL received rituximab 375 mg/m2 weekly for 4 doses.
 Results are summarized in Table 5.
 
 Table 5 Summary of Rituximab NHL Efficacy Data by Schedule and Clinical Setting
@@ -47,7 +47,7 @@ NHL Study 4
 A total of 322 patients with previously untreated follicular NHL were randomized (1:1) to receive up to eight 3-week cycles of CVP chemotherapy alone (CVP) or in combination with rituximab 375 mg/m2 on Day 1 of each cycle (R-CVP) in an open-label, multicenter study.
 The main outcome measure of the study was progression-free survival (PFS) defined as the time from randomization to the first of progression, relapse, or death.
 
-Twenty-six percent of the study population was >60 years of age, 99% had Stage III or IV disease, and 50% had an International Prognostic Index (IPI) score ≥2.
+Twenty-six percent of the study population was greater than 60 years of age, 99% had Stage III or IV disease, and 50% had an International Prognostic Index (IPI) score greater than or equal to 2.
 The results for PFS as determined by a blinded, independent assessment of progression are presented in Table 6.
 The point estimates may be influenced by the presence of informative censoring.
 The PFS results based on investigator assessment of progression were similar to those obtained by the independent review assessment.
@@ -67,10 +67,10 @@ Patients were randomized to rituximab as single-agent maintenance therapy, 375 m
 Rituximab was initiated at 8 weeks following completion of chemotherapy.
 The main outcome measure of the study was progression-free survival (PFS), defined as the time from randomization in the maintenance/observation phase to progression, relapse, or death, as determined by independent review.
 
-Of the randomized patients, 40% were ≥60 years of age, 70% had Stage IV disease, 96% had ECOG performance status (PS) 0–1, and 42% had FLIPI scores of 3–5.
+Of the randomized patients, 40% were greater than or equal to 60 years of age, 70% had Stage IV disease, 96% had ECOG performance status (PS) 0–1, and 42% had FLIPI scores of 3–5.
 Prior to randomization to maintenance therapy, patients had received R-CHOP (75%), R-CVP (22%), or R-FCM (3%); 71% had a complete or unconfirmed complete response and 28% had a partial response.
 
-PFS was longer in patients randomized to rituximab as single agent maintenance therapy (HR: 0.54, 95% CI: 0.42, 0.70).
+PFS was longer in patients randomized to rituximab as single-agent maintenance therapy (HR: 0.54, 95% CI: 0.42, 0.70).
 The PFS results based on investigator assessment of progression were similar to those obtained by the independent review assessment.
 
 | Figure 1 Kaplan-Meier Plot of IRC Assessed PFS in NHL Study 5 |
@@ -81,7 +81,7 @@ NHL Study 6
 A total of 322 patients with previously untreated low-grade, B-cell NHL who did not progress after 6 or 8 cycles of CVP chemotherapy were enrolled in an open-label, multicenter, randomized trial.
 Patients were randomized (1:1) to receive rituximab, 375 mg/m2 intravenous infusion, once weekly for 4 doses every 6 months for up to 16 doses or no further therapeutic intervention.
 The main outcome measure of the study was progression-free survival defined as the time from randomization to progression, relapse, or death.
-Thirty-seven percent of the study population was >60 years of age, 99% had Stage III or IV disease, and 63% had an IPI score ≥2.
+Thirty-seven percent of the study population was greater than 60 years of age, 99% had Stage III or IV disease, and 63% had an IPI score greater than or equal to 2.
 
 There was a reduction in the risk of progression, relapse, or death (hazard ratio estimate in the range of 0.36 to 0.49) for patients randomized to rituximab as compared to those who received no additional treatment.
 
@@ -92,14 +92,14 @@ Patients with previously untreated diffuse large B-cell NHL received rituximab i
 
 NHL Study 7
 
-A total of 632 patients age ≥60 years with DLBCL (including primary mediastinal B-cell lymphoma) were randomized in a 1:1 ratio to treatment with CHOP or R-CHOP.
+A total of 632 patients age greater than or equal to 60 years with DLBCL (including primary mediastinal B‑cell lymphoma) were randomized in a 1:1 ratio to treatment with CHOP or R-CHOP.
 Patients received 6 or 8 cycles of CHOP, each cycle lasting 21 days.
 All patients in the R-CHOP arm received 4 doses of rituximab 375 mg/m2 on Days –7 and –3 (prior to Cycle 1) and 48–72 hours prior to Cycles 3 and 5.
 Patients who received 8 cycles of CHOP also received rituximab prior to Cycle 7.
-The main outcome measure of the study was progression-free survival, defined as the time from randomization to the first of progression, relapse, or death.
+The main outcome measure of the study was progression‑free survival, defined as the time from randomization to the first of progression, relapse, or death.
 Responding patients underwent a second randomization to receive rituximab or no further therapy.
 
-Among all enrolled patients, 62% had centrally confirmed DLBCL histology, 73% had Stage III–IV disease, 56% had IPI scores ≥2, 86% had ECOG performance status of <2, 57% had elevated LDH levels, and 30% had two or more extranodal disease sites involved.
+Among all enrolled patients, 62% had centrally confirmed DLBCL histology, 73% had Stage III–IV disease, 56% had IPI scores greater than or equal to 2, 86% had ECOG performance status of less than 2, 57% had elevated LDH levels, and 30% had two or more extranodal disease sites involved.
 Efficacy results are presented in Table 7.
 These results reflect a statistical approach which allows for an evaluation of rituximab administered in the induction setting that excludes any potential impact of rituximab given after the second randomization.
 
@@ -107,17 +107,17 @@ Analysis of results after the second randomization in NHL Study 7 demonstrates t
 
 NHL Study 8
 
-A total of 399 patients with DLBCL, age ≥60 years, were randomized in a 1:1 ratio to receive CHOP or R-CHOP.
+A total of 399 patients with DLBCL, age greater than or equal to 60 years, were randomized in a 1:1 ratio to receive CHOP or R-CHOP.
 All patients received up to eight 3-week cycles of CHOP induction; patients in the R-CHOP arm received rituximab 375 mg/m2 on Day 1 of each cycle.
 The main outcome measure of the study was event-free survival, defined as the time from randomization to relapse, progression, change in therapy, or death from any cause.
-Among all enrolled patients, 80% had Stage III or IV disease, 60% of patients had an age-adjusted IPI ≥2, 80% had ECOG performance status scores <2, 66% had elevated LDH levels, and 52% had extranodal involvement in at least two sites.
+Among all enrolled patients, 80% had Stage III or IV disease, 60% of patients had an age-adjusted IPI greater than or equal to 2, 80% had ECOG performance status scores less than 2, 66% had elevated LDH levels, and 52% had extranodal involvement in at least two sites.
 Efficacy results are presented in Table 7.
 
 NHL Study 9
 
 A total of 823 patients with DLBCL, aged 18–60 years, were randomized in a 1:1 ratio to receive an anthracycline-containing chemotherapy regimen alone or in combination with rituximab.
 The main outcome measure of the study was time to treatment failure, defined as time from randomization to the earliest of progressive disease, failure to achieve a complete response, relapse, or death.
-Among all enrolled patients, 28% had Stage III–IV disease, 100% had IPI scores of ≤1, 99% had ECOG performance status of <2, 29% had elevated LDH levels, 49% had bulky disease, and 34% had extranodal involvement.
+Among all enrolled patients, 28% had Stage III–IV disease, 100% had IPI scores of less than or equal to 1, 99% had ECOG performance status of less than 2, 29% had elevated LDH levels, 49% had bulky disease, and 34% had extranodal involvement.
 Efficacy results are presented in Table 7.
 
 Table 7 Efficacy Results in NHL Studies 7, 8, and 9
@@ -135,11 +135,11 @@ In NHL Study 8, overall survival estimates at 5 years were 58% vs. 46% for R-CHO
 
 ## 14.4 Ninety-Minute Infusions in Previously Untreated Follicular NHL and DLBCL
 
-In NHL Study 10, a total of 363 patients with previously untreated follicular NHL (n=113) or DLBCL (n=250) were evaluated in a prospective, open-label, multi-center, single-arm trial for the safety of 90-minute rituximab infusions.
+In NHL Study 10, a total of 363 patients with previously untreated follicular NHL (n=113) or DLBCL (n=250) were evaluated in a prospective, open-label, multicenter, single-arm trial for the safety of 90-minute rituximab infusions.
 Patients with follicular NHL received rituximab 375 mg/m2 plus CVP chemotherapy.
 Patients with DLBCL received rituximab 375 mg/m2 plus CHOP chemotherapy.
 Patients with clinically significant cardiovascular disease were excluded from the study.
-Patients were eligible for a 90-minute infusion at Cycle 2 if they did not experience a Grade 3–4 infusion-related adverse event with Cycle 1 and had a circulating lymphocyte count ≤5,000/mm3 before Cycle 2.
+Patients were eligible for a 90-minute infusion at Cycle 2 if they did not experience a Grade 3–4 infusion-related adverse event with Cycle 1 and had a circulating lymphocyte count less than or equal to 5,000/mm3 before Cycle 2.
 All patients were pre-medicated with acetaminophen and an antihistamine and received the glucocorticoid component of their chemotherapy prior to rituximab infusion.
 The main outcome measure was the development of Grade 3–4 infusion-related reactions on the day of, or day after, the 90-minute infusion at Cycle 2 [see Adverse Reactions (6.1)].
 
@@ -179,13 +179,13 @@ The results of exploratory subset analyses in elderly patients are presented in 
 
 Table 9 Efficacy Results in CLL Studies 1 and 2 in Subgroups Defined by AgeFrom exploratory analyses.
 
-| Number of Patients | Hazard Ratio for PFS (95% CI) | Number of Patients | Hazard Ratio for PFS (95% CI) |  |
-| --- | --- | --- | --- | --- |
-| Age subgroup | CLL Study 1 |  | CLL Study 2 |  |
-| Age <65 yrs | 572 | 0.52 (0.39, 0.70) | 313 | 0.61 (0.45, 0.84) |
-| Age ≥65 yrs | 245 | 0.62 (0.39, 0.99) | 233 | 0.99 (0.70, 1.40) |
-| Age <70 yrs | 736 | 0.51 (0.39, 0.67) | 438 | 0.67 (0.51, 0.87) |
-| Age ≥70 yrs | 81 | 1.17 (0.51, 2.66) | 108 | 1.22 (0.73, 2.04) |
+| Number of Patients | Hazard Ratio for PFS (95% CI) |  | Number of Patients | Hazard Ratio for PFS (95% CI) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Age subgroup | CLL Study 1 |  | CLL Study 2 |  |  |  |
+| Age less than 65 yrs | 572 | 0.52 (0.39, 0.70) | 313 |  |  | 0.61 (0.45, 0.84) |
+| Age greater than or equal to 65 yrs | 245 | 0.62 (0.39, 0.99) | 233 |  |  | 0.99 (0.70, 1.40) |
+| Age less than 70 yrs | 736 | 0.51 (0.39, 0.67) | 438 |  |  | 0.67 (0.51, 0.87) |
+| Age greater than or equal to 70 yrs | 81 | 1.17 (0.51, 2.66) | 108 |  |  | 1.22 (0.73, 2.04) |
 
 ## 14.6 Rheumatoid Arthritis (RA)
 
@@ -195,7 +195,7 @@ The efficacy and safety of rituximab were evaluated in two randomized, double-bl
 Patients were 18 years of age or older, diagnosed with active RA according to American College of Rheumatology (ACR) criteria, and had at least 8 swollen and 8 tender joints.
 
 In RA Study 1 (NCT00468546), patients were randomized to receive either rituximab 2 × 1,000 mg + MTX or placebo + MTX for 24 weeks.
-Further courses of rituximab 2 × 1,000 mg + MTX were administered in an open-label extension study at a frequency determined by clinical evaluation, but no sooner than 16 weeks after the preceding course of rituximab.
+Further courses of rituximab 2 × 1,000 mg + MTX were administered in an open‑label extension study at a frequency determined by clinical evaluation, but no sooner than 16 weeks after the preceding course of rituximab.
 In addition to the intravenous premedication, glucocorticoids were administered orally on a tapering schedule from baseline through Day 14.
 The proportions of patients achieving ACR 20, 50, and 70 responses at Week 24 of the placebo-controlled period are shown in Table 10.
 
@@ -205,7 +205,7 @@ The proportions of patients achieving ACR 20, 50, and 70 responses at Week 24, b
 
 Table 10 ACR Responses in RA Study 1 and RA Study 2 (Percent of Patients) (Modified Intent-to-Treat Population)
 
-| Response | Placebo + MTX n=201 | Rituximab + MTX n=298 | Treatment Difference (Rituximab – Placebo)For RA Study 1, weighted difference stratified by region (US, rest of the world) and Rheumatoid Factor (RF) status (positive >20 IU/mL, negative <20 IU/mL) at baseline; For RA Study 2, weighted difference stratified by RF status at baseline and ≥20% improvement from baseline in both SJC and TJC at Week 24 (Yes/No). (95% CI) |  | Response | Placebo + MTX Retreatment n=157 | Rituximab + MTX Retreatment n=318 | Treatment Difference (Rituximab – Placebo)In RA Study 2, all patients received a first course of rituximab 2 × 1,000 mg. Patients who experienced ongoing disease activity were randomized to receive a second course of either rituximab 2 × 1,000 mg + MTX or Placebo + MTX at or after Week 24.,Since all patients received a first course of rituximab, no comparison between Placebo + MTX and rituximab + MTX is made at Week 24., (95% CI) |
+| Response | Placebo + MTX n=201 | Rituximab + MTX n=298 | Treatment Difference (Rituximab – Placebo) (95% CI) |  | Response | Placebo + MTX Retreatment n=157 | Rituximab + MTX Retreatment n=318 | Treatment Difference (Rituximab – Placebo)In RA Study 2, all patients received a first course of rituximab 2 × 1,000 mg. Patients who experienced ongoing disease activity were randomized to receive a second course of either rituximab 2 × 1,000 mg + MTX or Placebo + MTX at or after Week 24.Since all patients received a first course of rituximab, no comparison between Placebo + MTX and rituximab + MTX is made at Week 24.For RA Study 1, weighted difference stratified by region (US, rest of the world) and Rheumatoid Factor (RF) status (positive greater than 20 IU/mL, negative less than 20 IU/mL) at baseline; For RA Study 2, weighted difference stratified by RF status at baseline and greater than or equal to 20% improvement from baseline in both SJC and TJC at Week 24 (Yes/No). (95% CI) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Inadequate Response to TNF Antagonists |  |  |  |  |  |  |  |  |
 | RA Study 1 24 Week Placebo-Controlled (Week 24) |  |  |  |  | RA Study 2 Placebo-Controlled Retreatment (Week 24 and Week 48) |  |  |  |
@@ -232,7 +232,7 @@ Table 11 Components of ACR Response at Week 24 in RA Study 1 (Modified Intent-to
 | Physician Global AssessmentVisual Analog Scale: 0=best, 100=worst. | 71.0 | 69.0 | 71.0 | 36.0 |
 | Patient Global Assessment | 73.0 | 68.0 | 71.0 | 41.0 |
 | Pain | 68.0 | 68.0 | 67.0 | 38.5 |
-| Disability Index (HAQ)Disability Index of the Health Assessment Questionnaire: 0=best, 3=worst | 2.0 | 1.9 | 1.9 | 1.5 |
+| Disability Index (HAQ)Disability Index of the Health Assessment Questionnaire: 0=best, 3=worst. | 2.0 | 1.9 | 1.9 | 1.5 |
 | CRP (mg/dL) | 2.4 | 2.5 | 2.6 | 0.9 |
 
 The time course of ACR 20 response for RA Study 1 is shown in Figure 2.
@@ -290,18 +290,18 @@ These improvements were maintained at 48 weeks.
 
 Table 13 Improvement from Baseline in Health Assessment Questionnaire Disability Index (HAQ-DI) at Week 24 in RA Study 4
 
-|  | Placebo + MTX n=172 | Rituximab 2 × 1,000 mg + MTX n=170 | Treatment Difference (Rituximab - Placebo)Adjusted difference stratified by region (US, rest of the world) and Rheumatoid Factor (RF) status (positive ≥20 IU/mL, negative <20 IU/mL) at baseline. (95% CI) |
+|  | Placebo + MTX n=172 | Rituximab 2 × 1,000 mg + MTX n=170 | Treatment Difference (Rituximab - Placebo)Adjusted difference stratified by region (US, rest of the world) and Rheumatoid Factor (RF) status (positive greater than or equal to 20 IU/mL, negative less than 20 IU/mL) at baseline. (95% CI) |
 | --- | --- | --- | --- |
 | Mean Improvement from Baseline | 0.19 | 0.42 | 0.23 (0.11, 0.34) |
-| Percent of patients with "Improved" score (Change from Baseline ≥ MCID)Minimal Clinically Important Difference: MCID for HAQ=0.22. | 48% | 58% | 11% (0%, 21%) |
+| Percent of patients with "Improved" score (Change from Baseline greater than or equal to MCID)Minimal Clinically Important Difference: MCID for HAQ=0.22. | 48% | 58% | 11% (0%, 21%) |
 
 ## 14.7 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
 Induction Treatment of Adult Patients with Active Disease (GPA/MPA Study 1)
 
-A total of 197 patients with active, severe GPA and MPA (two forms of ANCA Associated Vasculitides) were treated in a randomized, double-blind, active-controlled multicenter, non-inferiority study, conducted in two phases – a 6 month remission induction phase and a 12 month remission maintenance phase.
+A total of 197 patients with active, severe GPA and MPA (two forms of ANCA‑Associated Vasculitides) were treated in a randomized, double-blind, active-controlled multicenter, non-inferiority study, conducted in two phases – a 6 month remission induction phase and a 12 month remission maintenance phase.
 Patients were 15 years of age or older, diagnosed with GPA (75% of patients) or MPA (24% of patients) according to the Chapel Hill Consensus conference criteria (1% of the patients had unknown vasculitis type).
-All patients had active disease, with a Birmingham Vasculitis Activity Score for Granulomatosis with Polyangiitis (BVAS/GPA) ≥3, and their disease was severe, with at least one major item on the BVAS/GPA.
+All patients had active disease, with a Birmingham Vasculitis Activity Score for Granulomatosis with Polyangiitis (BVAS/GPA) greater than or equal to 3, and their disease was severe, with at least one major item on the BVAS/GPA.
 Ninety-six (49%) of patients had new disease and 101 (51%) of patients had relapsing disease.
 
 Patients in both arms received 1,000 mg of pulse intravenous methylprednisolone per day for 1 to 3 days within 14 days prior to initial infusion.
@@ -319,9 +319,9 @@ Table 14 Percentage of Patients with GPA/MPA Who Achieved Complete Remission at 
 |  | Rituximab (n=99) | Cyclophosphamide (n=98) | Treatment Difference (Rituximab – Cyclophosphamide) |
 | --- | --- | --- | --- |
 | Rate | 64% | 53% | 11% |
-| 95.1%The 95.1% confidence level reflects an additional 0.001 alpha to account for an interim efficacy analysis. CI | (54%, 73%) | (43%, 63%) | (-3%, 24%)Non-inferiority was demonstrated because the lower bound was higher than the prespecified non-inferiority margin (-3% >-20%). |
+| 95.1%The 95.1% confidence level reflects an additional 0.001 alpha to account for an interim efficacy analysis. CI | (54%, 73%) | (43%, 63%) | (-3%, 24%)Non-inferiority was demonstrated because the lower bound was higher than the prespecified non-inferiority margin (-3% greater than -20%). |
 
-Complete Remission (CR) at 12 and 18 months
+Complete Remission (CR) at 12 and 18 Months
 
 In the rituximab group, 44% of patients achieved CR at 6 and 12 months, and 38% of patients achieved CR at 6, 12, and 18 months.
 In patients treated with cyclophosphamide (followed by azathioprine for maintenance of CR), 38% of patients achieved CR at 6 and 12 months, and 31% of patients achieved CR at 6, 12, and 18 months.
@@ -332,7 +332,7 @@ Based upon investigator judgment, 15 patients received a second course of rituxi
 
 Follow up Treatment of Adult Patients with GPA/MPA who have achieved disease control with other Immunosuppressant (GPA/MPA Study 2)
 
-A total of 115 patients (86 with GPA, 24 with MPA, and 5 with renal-limited ANCA-associated vasculitis) in disease remission were randomized to receive azathioprine (58 patients) or non-U.S.-licensed rituximab (57 patients) in this open-label, prospective, multi-center, randomized, active-controlled study.
+A total of 115 patients (86 with GPA, 24 with MPA, and 5 with renal-limited ANCA-associated vasculitis) in disease remission were randomized to receive azathioprine (58 patients) or non-U.S.-licensed rituximab (57 patients) in this open-label, prospective, multicenter, randomized, active-controlled study.
 Eligible patients were 21 years and older and had either newly diagnosed (80%) or relapsing disease (20%).
 A majority of the patients were ANCA-positive.
 Remission of active disease was achieved using a combination of glucocorticoids and cyclophosphamide.
@@ -352,4 +352,4 @@ The observed cumulative incidence rate of first major relapse during the 28 mont
 
 | Figure 3 Cumulative Incidence Over Time of First Major Relapse in Patients with GPA/MPA |
 | --- |
-| Patients were censored at the last follow-up dates if they had no event |
+| Patients were censored at the last follow up dates if they had no event. |

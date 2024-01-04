@@ -8,10 +8,10 @@ Rituximab product-induced infusion-related reactions and sequelae include urtica
 
 Premedicate patients with an antihistamine and acetaminophen prior to dosing.
 For RA, GPA and MPA patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
-Institute medical management (e.g. glucocorticoids, epinephrine, bronchodilators, or oxygen) for infusion-related reactions as needed.
+Institute medical management (e.g., glucocorticoids, epinephrine, bronchodilators, or oxygen) for infusion-related reactions as needed.
 Depending on the severity of the infusion-related reaction and the required interventions, temporarily or permanently discontinue RUXIENCE.
 Resume infusion at a minimum 50% reduction in rate after symptoms have resolved.
-Closely monitor the following patients: those with pre-existing cardiac or pulmonary conditions, those who experienced prior cardiopulmonary adverse reactions, and those with high numbers of circulating malignant cells (≥25,000/mm3) [see Warnings and Precautions (5.7), Adverse Reactions (6.1)].
+Closely monitor the following patients: those with pre-existing cardiac or pulmonary conditions, those who experienced prior cardiopulmonary adverse reactions, and those with high numbers of circulating malignant cells (greater than or equal to 25,000/mm3) [see Warnings and Precautions (5.7), Adverse Reactions (6.1)].
 
 ## 5.2 Severe Mucocutaneous Reactions
 
@@ -56,7 +56,7 @@ Discontinue RUXIENCE and consider discontinuation or reduction of any concomitan
 ## 5.5 Tumor Lysis Syndrome (TLS)
 
 Acute renal failure, hyperkalemia, hypocalcemia, hyperuricemia, or hyperphosphatemia from tumor lysis, sometimes fatal, can occur within 12–24 hours after the first infusion of rituximab products in patients with NHL.
-A high number of circulating malignant cells (≥25,000/mm3) or high tumor burden, confers a greater risk of TLS.
+A high number of circulating malignant cells (greater than or equal to 25,000/mm3) or high tumor burden, confers a greater risk of TLS.
 
 Administer aggressive intravenous hydration and anti-hyperuricemic therapy in patients at high risk for TLS.
 Correct electrolyte abnormalities, monitor renal function and fluid balance, and administer supportive care, including dialysis as indicated [see Warnings and Precautions (5.8)].
@@ -64,8 +64,8 @@ Correct electrolyte abnormalities, monitor renal function and fluid balance, and
 ## 5.6 Infections
 
 Serious, including fatal, bacterial, fungal, and new or reactivated viral infections can occur during and following the completion of rituximab product-based therapy.
-Infections have been reported in some patients with prolonged hypogammaglobulinemia (defined as hypogammaglobulinemia >11 months after rituximab exposure).
-New or reactivated viral infections included cytomegalovirus, herpes simplex virus, parvovirus B19, varicella zoster virus, West Nile virus, and hepatitis B and C. Discontinue RUXIENCE for serious infections and institute appropriate anti-infective therapy [see Adverse Reactions (6.1)].
+Infections have been reported in some patients with prolonged hypogammaglobulinemia (defined as hypogammaglobulinemia greater than 11 months after rituximab exposure).
+New or reactivated viral infections included cytomegalovirus, herpes simplex virus, parvovirus B19, varicella zoster virus, West Nile virus, and hepatitis B and C. Discontinue RUXIENCE for serious infections and institute appropriate anti-infective therapy [see Adverse Reactions (6.1, 6.3)].
 RUXIENCE is not recommended for use in patients with severe, active infections.
 
 ## 5.7 Cardiovascular Adverse Reactions
@@ -112,7 +112,7 @@ Advise females of reproductive potential to use effective contraception while re
 
 ## 5.12 Concomitant Use with Other Biologic Agents and DMARDS other than Methotrexate in RA, GPA and MPA
 
-Limited data are available on the safety of the use of biologic agents or disease modifying antirheumatic drugs (DMARDs) other than methotrexate in RA patients exhibiting peripheral B-cell depletion following treatment with rituximab.
+Limited data are available on the safety of the use of biologic agents or disease modifying anti-rheumatic drugs (DMARDs) other than methotrexate in RA patients exhibiting peripheral B-cell depletion following treatment with rituximab.
 Observe patients closely for signs of infection if biologic agents and/or DMARDs are used concomitantly.
 Use of concomitant immunosuppressants other than corticosteroids has not been studied in GPA or MPA patients exhibiting peripheral B-cell depletion following treatment with rituximab products.
 

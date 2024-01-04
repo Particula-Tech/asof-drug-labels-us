@@ -21,7 +21,7 @@ There were sustained and statistically significant reductions in both IgM and Ig
 
 Rheumatoid Arthritis
 
-In RA patients, treatment with rituximab-induced depletion of peripheral B-lymphocytes, with the majority of patients demonstrating near complete depletion (CD19 counts below the lower limit of quantification, 20 cells/µl) within 2 weeks after receiving the first dose of rituximab.
+In RA patients, treatment with rituximab-induced depletion of peripheral B-lymphocytes, with the majority of patients demonstrating near complete depletion (CD19 counts below the lower limit of quantification, 20 cells/µL) within 2 weeks after receiving the first dose of rituximab.
 The majority of patients showed peripheral B-cell depletion for at least 6 months.
 A small proportion of patients (~4%) had prolonged peripheral B-cell depletion lasting more than 3 years after a single course of treatment.
 
@@ -35,8 +35,8 @@ Treatment with rituximab in patients with RA was associated with reduction of ce
 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis
 
 In GPA and MPA patients in GPA/MPA Study 1, peripheral blood CD19 B-cells depleted to less than 10 cells/μL following the first two infusions of rituximab, and remained at that level in most (84%) patients through Month 6.
-By Month 12, the majority of patients (81%) showed signs of B-cell return with counts >10 cells/μL.
-By Month 18, most patients (87%) had counts >10 cells/μL.
+By Month 12, the majority of patients (81%) showed signs of B-cell return with counts greater than 10 cells/μL.
+By Month 18, most patients (87%) had counts greater than 10 cells/μL.
 
 In GPA/MPA Study 2 where patients received non-U.S.-licensed rituximab as two 500 mg intravenous infusions separated by two weeks, followed by a 500 mg intravenous infusion at Month 6, 12, and 18, 70% (30 out of 43) of the rituximab-treated patients with CD19+ peripheral B cells evaluated post-baseline had undetectable CD19+ peripheral B cells at Month 24.
 At Month 24, all 37 patients with evaluable baseline CD19+ peripheral B cells and Month 24 measurements had lower CD19+ B cells relative to baseline.
@@ -88,7 +88,7 @@ However, further dose adjustment based on gender or anti-drug antibody status is
 
 Specific Populations
 
-The pharmacokinetics of rituximab products have not been studied in children and adolescents with NHL, CLL or RA.
+The clearance and volume of distribution of rituximab increased with increasing body surface area (BSA).
 
 No formal studies were conducted to examine the effects of either renal or hepatic impairment on the pharmacokinetics of rituximab products.
 
