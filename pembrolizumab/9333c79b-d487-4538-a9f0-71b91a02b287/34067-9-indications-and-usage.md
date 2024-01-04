@@ -44,12 +44,9 @@ KEYTRUDA is indicated for the treatment of adult and pediatric patients with ref
 
 Limitations of Use: KEYTRUDA is not recommended for treatment of patients with PMBCL who require urgent cytoreductive therapy.
 
-## 1.6 Urothelial Carcinoma
+## 1.6 Urothelial Cancer
 
-KEYTRUDA, in combination with enfortumab vedotin, is indicated for the treatment of adult patients with locally advanced or metastatic urothelial carcinoma who are not eligible for cisplatin-containing chemotherapy.
-
-This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.6)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+KEYTRUDA, in combination with enfortumab vedotin, is indicated for the treatment of adult patients with locally advanced or metastatic urothelial cancer.
 
 KEYTRUDA, as a single agent, is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma:
 
