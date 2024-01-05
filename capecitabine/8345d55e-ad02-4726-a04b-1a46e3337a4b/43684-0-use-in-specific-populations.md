@@ -6,7 +6,7 @@ Risk Summary
 
 Based on findings in animal reproduction studies and its mechanism of action [see Clinical Pharmacology (12.1)], capecitabine can cause fetal harm when administered to a pregnant woman.
 Available human data with capecitabine use in pregnant women is not sufficient to inform the drug-associated risk.
-In animal reproduction studies, administration of capecitabine to pregnant animals during the period of organogenesis caused embryolethality and teratogenicity in mice and embryolethality in monkeys at 0.2 and 0.6 times the exposure (AUC) in patients receiving the recommended dose of 1,250 mg/m 2 twice daily, respectively (see Data).
+In animal reproduction studies, administration of capecitabine to pregnant animals during the period of organogenesis caused embryolethality and teratogenicity in mice and embryolethality in monkeys at 0.2 and 0.6 times the exposure (AUC) in patients receiving the recommended dose of 1,250 mg/m 2twice daily, respectively (see Data).
 Advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.

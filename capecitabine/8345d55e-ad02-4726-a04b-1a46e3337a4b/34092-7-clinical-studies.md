@@ -10,7 +10,7 @@ The efficacy of capecitabine was evaluated in X-ACT (NCT00009737), a multicenter
 Eligible patients were between 18 and 75 years of age with histologically-confirmed Dukes’ Stage C colon cancer with at least one positive lymph node and to have undergone (within 8 weeks prior to randomization) complete resection of the primary tumor without macroscopic or microscopic evidence of remaining tumor.
 Patients were also required to have no prior cytotoxic chemotherapy or immunotherapy (except steroids) and have an ECOG performance status of 0 or 1 (KPS >70%), ANC >1.5x10 9/L, platelets >100x10 9/L, serum creatinine < 1.5 ULN, total bilirubin < 1.5 ULN, AST/ALT < 2.5 ULN and CEA within normal limits at time of randomization.
 
-Patients (n=1987) were randomized to capecitabine 1,250 mg/m 2 orally twice daily for the first 14 days of a 21-day cycle for a total of 8 cycles or fluorouracil 425 mg/m 2 and leucovorin 20 mg/m 2 intravenously on days 1 to 5 of each 28-day cycle for a total of 6 cycles.
+Patients (n=1987) were randomized to capecitabine 1,250 mg/m 2orally twice daily for the first 14 days of a 21-day cycle for a total of 8 cycles or fluorouracil 425 mg/m 2and leucovorin 20 mg/m 2intravenously on days 1 to 5 of each 28-day cycle for a total of 6 cycles.
 The capecitabine dose was reduced in patients with baseline CLcr of 30 to 50 mL/min.
 The major efficacy outcome measure was disease-free survival (DFS).
 
@@ -72,7 +72,7 @@ Metastatic Colorectal Cancer
 
 The efficacy of capecitabine as a single agent was evaluated in two open-label, multicenter, randomized, controlled clinical trials (Study SO14695 and Study SO14796).
 Eligible patients received first-line treatment for metastatic colorectal cancer.
-Patients were randomized to capecitabine 1,250 mg/m 2 twice daily for first 14 days of a 21-day cycle or leucovorin 20 mg/m 2 intravenously followed by fluorouracil 425 mg/m 2 as an intravenous bolus on days 1 to 5 of each 28-day cycle.
+Patients were randomized to capecitabine 1,250 mg/m 2twice daily for first 14 days of a 21-day cycle or leucovorin 20 mg/m 2intravenously followed by fluorouracil 425 mg/m 2as an intravenous bolus on days 1 to 5 of each 28-day cycle.
 
 The efficacy outcome measures were overall survival, time to progression and response rate (complete plus partial responses).
 Responses were defined by the World Health Organization criteria and submitted to a blinded independent review committee (IRC).
@@ -152,7 +152,7 @@ In Combination With Docetaxel
 
 The efficacy of capecitabine in combination with docetaxel was evaluated in an open-label, multicenter, randomized trial (Study SO14999).
 Eligible patients had metastatic breast cancer resistant to, or recurring during or after an anthracycline-containing therapy, or relapsing during or recurring within 2 years of completing an anthracycline-containing adjuvant therapy were enrolled.
-Patients were randomized to capecitabine 1,250 mg/m 2 twice daily for the first 14 days of a 21-day cycle and docetaxel 75 mg/m 2 as a 1-hour intravenous infusion on day 1 of day of a 21- day cycle or docetaxel 100 mg/m 2 as a 1-hour intravenous infusion on day 1 of a 21-day cycle.
+Patients were randomized to capecitabine 1,250 mg/m 2twice daily for the first 14 days of a 21-day cycle and docetaxel 75 mg/m 2as a 1-hour intravenous infusion on day 1 of day of a 21- day cycle or docetaxel 100 mg/m 2as a 1-hour intravenous infusion on day 1 of a 21-day cycle.
 The efficacy outcome measures were time to disease progression, overall survival, and response rate.
 
 Patient demographics are provided in Table 14.
@@ -202,7 +202,7 @@ Table 15 Efficacy Results in Metastatic Breast Cancer (Study SO14999)
 | Hazard Ratio | 0.775 |  |
 | p-value | 0.0126 |  |
 | Response Rate 1 | 32% | 22% |
-| 1 The response rate reported represents a reconciliation of the investigator and IRC assessments performed by the sponsor according to a predefined algorithm. |  |  |
+| 1The response rate reported represents a reconciliation of the investigator and IRC assessments performed by the sponsor according to a predefined algorithm. |  |  |
 
 Figure 4 Kaplan-Meier Estimates for Time to Disease Progression in Metastatic Breast Cancer (Study SO14999)
 
@@ -211,9 +211,9 @@ Figure 5 Kaplan-Meier Estimates of Survival in Metastatic Breast Cancer (Study S
 Single Agent
 
 The efficacy of capecitabine as a single agent was evaluated in an open-label single-arm trial (Study SO14697).
-Eligible patients had metastatic breast cancer resistant to both paclitaxel and an anthracycline-containing chemotherapy regimen or resistant to paclitaxel and for whom further anthracycline therapy is not indicated (e.g., patients who have received cumulative doses of 400 mg/m 2 of doxorubicin or doxorubicin equivalents).
+Eligible patients had metastatic breast cancer resistant to both paclitaxel and an anthracycline-containing chemotherapy regimen or resistant to paclitaxel and for whom further anthracycline therapy is not indicated (e.g., patients who have received cumulative doses of 400 mg/m 2of doxorubicin or doxorubicin equivalents).
 Resistance was defined as progressive disease while on treatment, with or without an initial response, or relapse within 6 months of completing treatment with an anthracycline-containing adjuvant chemotherapy regimen.
-Patients received capecitabine 1,255 mg/m 2 orally twice daily for first 14-days of a 21-day treatment cycle.
+Patients received capecitabine 1,255 mg/m 2orally twice daily for first 14-days of a 21-day treatment cycle.
 The major efficacy outcome measure was tumor response rate in patients with measurable disease, with response defined as a ≥50% decrease in sum of the products of the perpendicular diameters of bidimensionally measurable disease for at least 1 month.
 
 The baseline demographics are shown in Table 16.

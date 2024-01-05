@@ -12,17 +12,17 @@ Monitor INR more frequently and adjust the dose of the vitamin K antagonist as a
 
 ## 5.2 Serious Adverse Reactions from Dihydropyrimidine Dehydrogenase (DPD) Deficiency
 
-Patients with certain homozygous or compound heterozygous variants in the DPYD gene known to result in complete or near complete absence of DPD activity (complete DPD deficiency) are at increased risk for acute early-onset toxicity and serious, including fatal, adverse reactions due to capecitabine (e.g., mucositis, diarrhea, neutropenia, and neurotoxicity).
+Patients with certain homozygous or compound heterozygous variants in the DPYDgene known to result in complete or near complete absence of DPD activity (complete DPD deficiency) are at increased risk for acute early-onset toxicity and serious, including fatal, adverse reactions due to capecitabine (e.g., mucositis, diarrhea, neutropenia, and neurotoxicity).
 Patients with partial DPD activity (partial DPD deficiency) may also have increased risk of serious, including fatal, adverse reactions.
 
-Capecitabine is not recommended for use in patients known to have certain homozygous or compound heterozygous DPYD variants that result in complete DPD deficiency.
+Capecitabine is not recommended for use in patients known to have certain homozygous or compound heterozygous DPYDvariants that result in complete DPD deficiency.
 
 Withhold or permanently discontinue capecitabine based on clinical assessment of the onset, duration, and severity of the observed adverse reactions in patients with evidence of acute early- onset or unusually severe reactions, which may indicate complete DPD deficiency.
 No capecitabine dose has been proven safe for patients with complete DPD deficiency.
 There are insufficient data to recommend a specific dose in patients with partial DPD deficiency.
 
-Consider testing for genetic variants of DPYD prior to initiating capecitabine to reduce the risk of serious adverse reactions if the patient’s clinical status permits and based on clinical judgement [see Clinical Pharmacology (12.5)].
-Serious adverse reactions may still occur even if no DPYD variants are identified.
+Consider testing for genetic variants of DPYDprior to initiating capecitabine to reduce the risk of serious adverse reactions if the patient’s clinical status permits and based on clinical judgement [see Clinical Pharmacology (12.5)].
+Serious adverse reactions may still occur even if no DPYDvariants are identified.
 
 An FDA-authorized test for the detection of genetic variants of DPYD to identify patients at risk of serious adverse reactions due to increased systemic exposure to capecitabine is not currently available.
 Currently available tests used to identify DPYD variants may vary in accuracy and design (e.g., which DPYD variant(s) they identify).
@@ -114,7 +114,7 @@ Patients with Grade 3 to 4 hyperbilirubinemia may resume treatment once the even
 
 Based on findings from animal reproduction studies and its mechanism of action, capecitabine can cause fetal harm when administered to a pregnant woman.
 Insufficient data is available on capecitabine use in pregnant women to evaluate a drug-associated risk.
-In animal reproduction studies, administration of capecitabine to pregnant animals during the period of organogenesis caused embryolethality and teratogenicity in mice and embryolethality in monkeys at 0.2 and 0.6 times the human exposure (AUC) in patients who received a dosage of 1,250 mg/m 2 twice daily, respectively.
+In animal reproduction studies, administration of capecitabine to pregnant animals during the period of organogenesis caused embryolethality and teratogenicity in mice and embryolethality in monkeys at 0.2 and 0.6 times the human exposure (AUC) in patients who received a dosage of 1,250 mg/m 2twice daily, respectively.
 
 Advise pregnant women of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception during treatment with capecitabine and for 6 months following the last dose.

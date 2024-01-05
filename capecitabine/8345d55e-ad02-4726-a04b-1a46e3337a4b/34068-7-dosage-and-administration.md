@@ -4,27 +4,27 @@
 
 Adjuvant Treatment of Colon Cancer Single Agent
 
-The recommended dosage of capecitabine tablets are 1,250 mg/m 2 orally twice daily for the first 14 days of each 21-day cycle for a maximum of 8 cycles.
+The recommended dosage of capecitabine tablets are 1,250 mg/m 2orally twice daily for the first 14 days of each 21-day cycle for a maximum of 8 cycles.
 
 In Combination with Oxaliplatin-Containing Regimens
 
-The recommended dosage of capecitabine tablets are 1,000 mg/m 2 orally twice daily for the first 14 days of each 21-day cycle for a maximum of 8 cycles in combination with oxaliplatin 130 mg/m 2 administered intravenously on day 1 of each cycle.
+The recommended dosage of capecitabine tablets are 1,000 mg/m 2orally twice daily for the first 14 days of each 21-day cycle for a maximum of 8 cycles in combination with oxaliplatin 130 mg/m 2administered intravenously on day 1 of each cycle.
 
 Refer to the oxaliplatin prescribing information for additional dosing information as appropriate.
 
 Perioperative Treatment of Rectal Cancer
 
-The recommended dosage of capecitabine is 825 mg/m 2 orally twice daily when administered with concomitant radiation therapy and 1,250 mg/m 2 orally twice daily when administered without radiation therapy as part of a peri-operative combination regimen.
+The recommended dosage of capecitabine is 825 mg/m 2orally twice daily when administered with concomitant radiation therapy and 1,250 mg/m 2orally twice daily when administered without radiation therapy as part of a peri-operative combination regimen.
 
 Unresectable or Metastatic Colorectal Cancer
 
 Single Agent
 
-The recommended dosage of capecitabine tablets are 1,250 mg/m 2 orally twice daily for the first 14 days of a 21-day cycle until disease progression or unacceptable toxicity.
+The recommended dosage of capecitabine tablets are 1,250 mg/m 2orally twice daily for the first 14 days of a 21-day cycle until disease progression or unacceptable toxicity.
 
 In Combination with Oxaliplatin
 
-The recommended dosage of capecitabine tablets are 1,000 mg/m 2 orally twice daily for the first 14 days of each 21-day cycle until disease progression or unacceptable toxicity in combination with oxaliplatin 130 mg/m 2 administered intravenously on day 1 of each cycle.
+The recommended dosage of capecitabine tablets are 1,000 mg/m 2orally twice daily for the first 14 days of each 21-day cycle until disease progression or unacceptable toxicity in combination with oxaliplatin 130 mg/m 2administered intravenously on day 1 of each cycle.
 
 Refer to the Prescribing Information for oxaliplatin for additional dosing information as appropriate.
 
@@ -34,12 +34,12 @@ Advanced or Metastatic Breast Cancer
 
 Single Agent
 
-The recommended dosage of capecitabine tablets are 1,000 mg/m 2 or 1,250 mg/m 2 orally twice daily for the first 14 days of a 21-day cycle until disease progression or unacceptable toxicity.
+The recommended dosage of capecitabine tablets are 1,000 mg/m 2or 1,250 mg/m 2orally twice daily for the first 14 days of a 21-day cycle until disease progression or unacceptable toxicity.
 Individualize the dose and dosing schedule of capecitabine tablets based on patient risk factors and adverse reactions.
 
 In Combination with Docetaxel
 
-The recommended dosage of capecitabine tablets are 1,000 mg/m 2 or 1,250 mg/m 2 orally twice daily for the first 14 days of a 21-day cycle until disease progression or unacceptable toxicity in combination with docetaxel 75 mg/m 2 administered intravenously on day 1 of each cycle.
+The recommended dosage of capecitabine tablets are 1,000 mg/m 2or 1,250 mg/m 2orally twice daily for the first 14 days of a 21-day cycle until disease progression or unacceptable toxicity in combination with docetaxel 75 mg/m 2administered intravenously on day 1 of each cycle.
 
 Refer to the Prescribing Information for docetaxel for additional dosing information as appropriate.
 
@@ -47,20 +47,20 @@ Refer to the Prescribing Information for docetaxel for additional dosing informa
 
 The recommended dosage of capecitabine tablets for unresectable or metastatic gastric, esophageal, or gastroesophageal junction cancer is:
 
-- 625 mg/m 2 orally twice daily on days 1 to 21 of each 21-day cycle for a maximum of 8 cycles in combination with platinum-containing chemotherapy.
+- 625 mg/m 2orally twice daily on days 1 to 21 of each 21-day cycle for a maximum of 8 cycles in combination with platinum-containing chemotherapy.
 
 OR
 
-- 850 mg/m2 or 1,000 mg/m 2 orally twice daily for the first 14 days of each 21-day cycle until disease progression or unacceptable toxicity in combination with oxaliplatin 130 mg/m 2 administered intravenously on day 1 of each cycle.
+- 850 mg/m2 or 1,000 mg/m 2orally twice daily for the first 14 days of each 21-day cycle until disease progression or unacceptable toxicity in combination with oxaliplatin 130 mg/m 2administered intravenously on day 1 of each cycle.
   Individualize the dose and dosing schedule of capecitabine tablets based on patient risk factors and adverse reactions.
 
-The recommended dosage of capecitabine tablets for HER2-overexpressing metastatic gastric or gastroesophageal junction adenocarcinoma is 1,000 mg/m 2 orally twice daily for the first 14 days of each 21-day cycle until disease progression or unacceptable toxicity in combination with cisplatin and trastuzumab.
+The recommended dosage of capecitabine tablets for HER2-overexpressing metastatic gastric or gastroesophageal junction adenocarcinoma is 1,000 mg/m 2orally twice daily for the first 14 days of each 21-day cycle until disease progression or unacceptable toxicity in combination with cisplatin and trastuzumab.
 
 Refer to the Prescribing Information for agents used in combination for additional dosing information as appropriate.
 
 ## 2.4 Recommended Dosage for Pancreatic Cancer
 
-The recommended dosage of capecitabine tablets are 830 mg/m 2 orally twice daily for the first 21 days of each 28-day cycle until disease progression, unacceptable toxicity, or for a maximum 6 cycles in combination with gemcitabine 1,000 mg/m 2 administered intravenously on days 1, 8, and 15 of each cycle.
+The recommended dosage of capecitabine tablets are 830 mg/m 2orally twice daily for the first 21 days of each 28-day cycle until disease progression, unacceptable toxicity, or for a maximum 6 cycles in combination with gemcitabine 1,000 mg/m 2administered intravenously on days 1, 8, and 15 of each cycle.
 
 Refer to Prescribing Information for gemcitabine for additional dosing information as appropriate.
 

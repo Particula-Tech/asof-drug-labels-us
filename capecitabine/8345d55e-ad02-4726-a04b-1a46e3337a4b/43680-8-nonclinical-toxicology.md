@@ -3,8 +3,8 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Adequate studies investigating the carcinogenic potential of capecitabine have not been conducted.
-Capecitabine was not mutagenic in vitro to bacteria (Ames test) or mammalian cells (Chinese hamster V79/HPRT gene mutation assay).
-Capecitabine was clastogenic in vitro to human peripheral blood lymphocytes but not clastogenic in vivo to mouse bone marrow (micronucleus test).
+Capecitabine was not mutagenic in vitroto bacteria (Ames test) or mammalian cells (Chinese hamster V79/HPRT gene mutation assay).
+Capecitabine was clastogenic in vitro to human peripheral blood lymphocytes but not clastogenic in vivoto mouse bone marrow (micronucleus test).
 Fluorouracil causes mutations in bacteria and yeast.
 Fluorouracil also causes chromosomal abnormalities in the mouse micronucleus test in vivo.
 

@@ -20,7 +20,7 @@ Adjuvant Treatment of Colon Cancer
 Single Agent
 
 The safety of capecitabine as a single agent was evaluated in patients with Stage III colon cancer in X-ACT [see Clinical Studies (14.1)].
-Patients received capecitabine 1,250 mg/m 2 orally twice daily for the first 14 days of a 21-day cycle (N = 995) or leucovorin 20 mg/m 2 intravenously followed by fluorouracil 425 mg/m 2 as an intravenous bolus on days 1 to 5 of each 28-day cycle (N = 974).
+Patients received capecitabine 1,250 mg/m 2orally twice daily for the first 14 days of a 21-day cycle (N = 995) or leucovorin 20 mg/m 2intravenously followed by fluorouracil 425 mg/m 2as an intravenous bolus on days 1 to 5 of each 28-day cycle (N = 974).
 Among patients who received capecitabine, the median duration of treatment was 5.4 months.
 
 Deaths due to all causes occurred in 0.8% of patients who received capecitabine on study or within 28 days of receiving study drug.
@@ -50,17 +50,17 @@ Table 2 Adverse Reactions (≥ 10%) in Patients Who Received Capecitabine for Ad
 
 Clinically relevant adverse reactions in <10% of patients are presented below:
 
-Eye: conjunctivitis
+Eye:conjunctivitis
 
-Gastrointestinal: constipation, upper abdominal pain, dyspepsia
+Gastrointestinal:constipation, upper abdominal pain, dyspepsia
 
-General: pyrexia
+General:pyrexia
 
-Metabolism and Nutrition: anorexia
+Metabolism and Nutrition:anorexia
 
-Nervous System: dizziness, dysgeusia, headache
+Nervous System:dizziness, dysgeusia, headache
 
-Skin & Subcutaneous Tissue: rash, alopecia, erythema
+Skin & Subcutaneous Tissue:rash, alopecia, erythema
 
 Table 3 Grade 3 or 4 Laboratory Abnormalities (>1%) in Patients Who Received Capecitabine as a Single Agent for Adjuvant Treatment of Colon Cancer in X- ACT
 
@@ -91,7 +91,7 @@ Metastatic Colorectal Cancer
 
 Single Agent
 
-The safety of capecitabine as a single agent was evaluated in a pooled metastatic colorectal cancer population (Study SO14695 and Study SO14796) [see Clinical Studies (14.1)] Patients received capecitabine 1,250 mg/m 2 orally twice a day for the first 14 days of a 21-day cycle (N = 596) or leucovorin 20 mg/m 2 intravenously followed by fluorouracil 425 mg/m 2 as an intravenous bolus on days 1 to 5 of each 28-day cycle (N = 593).
+The safety of capecitabine as a single agent was evaluated in a pooled metastatic colorectal cancer population (Study SO14695 and Study SO14796) [see Clinical Studies (14.1)] Patients received capecitabine 1,250 mg/m 2orally twice a day for the first 14 days of a 21-day cycle (N = 596) or leucovorin 20 mg/m 2intravenously followed by fluorouracil 425 mg/m 2as an intravenous bolus on days 1 to 5 of each 28-day cycle (N = 593).
 Among the patients who received capecitabine, the median duration of treatment was 4.6 months.
 
 Deaths due to all causes occurred in 8% of patients who received capecitabine on study or within 28 days of receiving study drug.
@@ -144,27 +144,27 @@ Table 4 Adverse Reactions (>10%) in Patients Who Received Capecitabine in Pooled
 
 Clinically relevant adverse reactions in < 10% of patients are presented below:
 
-Eye: abnormal vision
+Eye:abnormal vision
 
-Gastrointestinal: upper gastrointestinal tract inflammatory disorders, gastrointestinal hemorrhage, ileus
+Gastrointestinal:upper gastrointestinal tract inflammatory disorders, gastrointestinal hemorrhage, ileus
 
-General: chest pain
+General:chest pain
 
-Infections: viral
+Infections:viral
 
-Metabolism and Nutrition: dehydration
+Metabolism and Nutrition:dehydration
 
-Musculoskeletal: arthralgia
+Musculoskeletal:arthralgia
 
-Nervous System: dizziness (excluding vertigo), insomnia, taste disturbance
+Nervous System:dizziness (excluding vertigo), insomnia, taste disturbance
 
-Psychiatric: mood alteration, depression
+Psychiatric:mood alteration, depression
 
-Respiratory, Thoracic, and Mediastinal: cough, pharyngeal disorder
+Respiratory, Thoracic, and Mediastinal:cough, pharyngeal disorder
 
-Skin and Subcutaneous Tissue: skin discoloration, alopecia
+Skin and Subcutaneous Tissue:skin discoloration, alopecia
 
-Vascular: venous thrombosis
+Vascular:venous thrombosis
 
 In Combination with Oxaliplatin
 
@@ -176,7 +176,7 @@ Metastatic Breast Cancer
 In Combination with Docetaxel
 
 The safety of capecitabine in combination with docetaxel was evaluated in patients with metastatic breast cancer in Study SO14999 [see Clinical Studies (14.2)].
-Patients received capecitabine 1,250 mg/m 2 orally twice daily for the first 14 days of a 21-day cycle with docetaxel 75 mg/m 2 as 1- hour intravenous infusion on day 1 of each 21-day cycle for at least 6 weeks or docetaxel 100 mg/m 2 as a 1-hour intravenous infusion on day 1 of each 21-day cycle for at least 6 weeks.
+Patients received capecitabine 1,250 mg/m 2orally twice daily for the first 14 days of a 21-day cycle with docetaxel 75 mg/m 2as 1- hour intravenous infusion on day 1 of each 21-day cycle for at least 6 weeks or docetaxel 100 mg/m 2as a 1-hour intravenous infusion on day 1 of each 21-day cycle for at least 6 weeks.
 Among patients who received capecitabine, the mean duration of treatment was 4.2 months.
 
 Permanent discontinuation due to an adverse reaction occurred in 26% of patients who received capecitabine.
@@ -237,37 +237,37 @@ Table 5 Adverse Reactions (≥10%) in Patients Who Received Capecitabine with Do
 
 Clinically relevant adverse reactions in <10% of patients are presented below:
 
-Blood and Lymphatic System: agranulocytosis, prothrombin decreased
+Blood and Lymphatic System:agranulocytosis, prothrombin decreased
 
-Cardiac: supraventricular tachycardia
+Cardiac:supraventricular tachycardia
 
-Eye: conjunctivitis, eye irritation
+Eye:conjunctivitis, eye irritation
 
-Gastrointestinal: ileus, necrotizing enterocolitis, esophageal ulcer, hemorrhagic diarrhea, dry mouth
+Gastrointestinal:ileus, necrotizing enterocolitis, esophageal ulcer, hemorrhagic diarrhea, dry mouth
 
-General: chest pain (non-cardiac), lethargy, pain, influenza-like illness
+General:chest pain (non-cardiac), lethargy, pain, influenza-like illness
 
-Hepatobiliary: jaundice, abnormal liver function tests, hepatic failure, hepatic coma, hepatotoxicity
+Hepatobiliary:jaundice, abnormal liver function tests, hepatic failure, hepatic coma, hepatotoxicity
 
-Immune System: hypersensitivity
+Immune System:hypersensitivity
 
-Infection: hypoesthesia, neutropenic sepsis, sepsis, bronchopneumonia, oral candidiasis, urinary tract infection
+Infection:hypoesthesia, neutropenic sepsis, sepsis, bronchopneumonia, oral candidiasis, urinary tract infection
 
-Metabolism and Nutrition: weight decreased
+Metabolism and Nutrition:weight decreased
 
-Musculoskeletal and Connective Tissue: bone pain
+Musculoskeletal and Connective Tissue:bone pain
 
-Nervous System: insomnia, peripheral neuropathy, ataxia, syncope, taste loss, polyneuropathy, migraine
+Nervous System:insomnia, peripheral neuropathy, ataxia, syncope, taste loss, polyneuropathy, migraine
 
-Psychiatric: depression
+Psychiatric:depression
 
-Renal and Urinary: renal failure
+Renal and Urinary:renal failure
 
-Respiratory, Thoracic and Mediastinal: upper respiratory tract infection, pleural effusion, epistaxis, rhinorrhea
+Respiratory, Thoracic and Mediastinal:upper respiratory tract infection, pleural effusion, epistaxis, rhinorrhea
 
-Skin and Subcutaneous Tissue: pruritis, rash erythematous, dermatitis, nail discoloration, onycholysis
+Skin and Subcutaneous Tissue:pruritis, rash erythematous, dermatitis, nail discoloration, onycholysis
 
-Vascular: lymphedema, hypotension, venous phlebitis and thrombophlebitis, postural hypotension, flushing
+Vascular:lymphedema, hypotension, venous phlebitis and thrombophlebitis, postural hypotension, flushing
 
 Table 6 summarizes the laboratory abnormalities in this trial.
 
@@ -287,7 +287,7 @@ Table 6 Laboratory Abnormalities (≥20%) in Patients Who Received Capecitabine 
 
 Single Agent
 
-The safety of capecitabine as a single agent was evaluated in patients with metastatic breast cancer in Study SO14697 [see Clinical Studies (14.2)] Patients received capecitabine 1,250 mg/m 2 orally twice daily for the first 14 days of a 21-day cycle.
+The safety of capecitabine as a single agent was evaluated in patients with metastatic breast cancer in Study SO14697 [see Clinical Studies (14.2)] Patients received capecitabine 1,250 mg/m 2orally twice daily for the first 14 days of a 21-day cycle.
 The mean duration of treatment was 3.7 months.
 
 Permanent discontinuation due to an adverse reaction or intercurrent illness occurred in 8% of patients.
@@ -334,39 +334,39 @@ Pooled Safety Population
 
 Clinically relevant adverse reactions in <10% of patients who received capecitabine as a single agent are presented below.
 
-Blood & Lymphatic System: leukopenia, coagulation disorder, bone marrow depression, pancytopenia
+Blood & Lymphatic System:leukopenia, coagulation disorder, bone marrow depression, pancytopenia
 
-Cardiac: tachycardia, bradycardia, atrial fibrillation, myocarditis, edema
+Cardiac:tachycardia, bradycardia, atrial fibrillation, myocarditis, edema
 
-Ear: vertigo
+Ear:vertigo
 
-Eye: conjunctivitis
+Eye:conjunctivitis
 
-Gastrointestinal: abdominal distension, dysphagia, proctalgia, gastric ulcer, ileus, gastroenteritis, dyspepsia
+Gastrointestinal:abdominal distension, dysphagia, proctalgia, gastric ulcer, ileus, gastroenteritis, dyspepsia
 
-General: chest pain, influenza-like illness, hot flushes, pain, thirst, fibrosis, hemorrhage, edema, pain in limb
+General:chest pain, influenza-like illness, hot flushes, pain, thirst, fibrosis, hemorrhage, edema, pain in limb
 
-Hepatobiliary: hepatic fibrosis, hepatitis, cholestatic hepatitis, abnormal liver function tests
+Hepatobiliary:hepatic fibrosis, hepatitis, cholestatic hepatitis, abnormal liver function tests
 
-Immune System: drug hypersensitivity
+Immune System:drug hypersensitivity
 
-Infections: bronchitis, pneumonia, keratoconjunctivitis, sepsis, fungal infections
+Infections:bronchitis, pneumonia, keratoconjunctivitis, sepsis, fungal infections
 
-Metabolism and Nutrition: cachexia, hypertriglyceridemia, hypokalemia, hypomagnesemia, dehydration
+Metabolism and Nutrition:cachexia, hypertriglyceridemia, hypokalemia, hypomagnesemia, dehydration
 
-Musculoskeletal and Connective Tissue: myalgia, arthritis, muscle weakness
+Musculoskeletal and Connective Tissue:myalgia, arthritis, muscle weakness
 
-Nervous System: insomnia, ataxia, tremor, dysphasia, encephalopathy, dysarthria, impaired balance, headache, dizziness
+Nervous System:insomnia, ataxia, tremor, dysphasia, encephalopathy, dysarthria, impaired balance, headache, dizziness
 
-Psychiatric: depression, confusion
+Psychiatric:depression, confusion
 
-Renal and Urinary: renal impairment
+Renal and Urinary:renal impairment
 
-Respiratory, Mediastinal and Thoracic: cough, epistaxis, respiratory distress, dyspnea
+Respiratory, Mediastinal and Thoracic:cough, epistaxis, respiratory distress, dyspnea
 
-Skin and Subcutaneous Tissue: nail disorder, sweating increased, photosensitivity reaction, skin ulceration, pruritus, radiation recall syndrome
+Skin and Subcutaneous Tissue:nail disorder, sweating increased, photosensitivity reaction, skin ulceration, pruritus, radiation recall syndrome
 
-Vascular: hypotension, hypertension, lymphedema, pulmonary embolism
+Vascular:hypotension, hypertension, lymphedema, pulmonary embolism
 
 Unresectable or Metastatic Gastric, Esophageal, or Gastroesophageal Junction Cancer
 
@@ -386,14 +386,14 @@ The safety of capecitabine for the adjuvant treatment of adults with pancreatic 
 The following adverse reactions have been identified during post-approval use of capecitabine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Eye: lacrimal duct stenosis, corneal disorders including keratitis
+Eye:lacrimal duct stenosis, corneal disorders including keratitis
 
-Hepatobiliary: hepatic failure
+Hepatobiliary:hepatic failure
 
-Immune System Disorders: angioedema
+Immune System Disorders:angioedema
 
-Nervous System: toxic leukoencephalopathy
+Nervous System:toxic leukoencephalopathy
 
-Renal & Urinary: acute renal failure secondary to dehydration including fatal outcome
+Renal & Urinary:acute renal failure secondary to dehydration including fatal outcome
 
 Skin & Subcutaneous Tissue:cutaneous lupus erythematosus, severe skin reactions such as Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis (TEN), persistent or severe PPES can eventually lead to loss of fingerprints

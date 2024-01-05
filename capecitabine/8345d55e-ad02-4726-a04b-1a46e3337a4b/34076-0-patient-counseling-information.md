@@ -10,8 +10,8 @@ Advise these patients to immediately contact their healthcare provider if signs 
 
 Serious Adverse Reactions from Dihydropyrimidine Dehydrogenase (DPD) Deficiency
 
-Inform patients of the potential for serious and life-threatening adverse reactions due to DPD deficiency and discuss with your patient whether they should be tested for genetic variants of DPYD that are associated with an increased risk of serious adverse reactions from the use of capecitabine.
-Advise patients to immediately contact their healthcare provider if symptoms of severe mucositis, diarrhea, neutropenia, and neurotoxicity occur [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.5)].
+Inform patients of the potential for serious and life-threatening adverse reactions due to DPD deficiency and discuss with your patient whether they should be tested for genetic variants of DPYDthat are associated with an increased risk of serious adverse reactions from the use of capecitabine.
+Advise patients to immediately contact their healthcare provider if symptoms of severe mucositis, diarrhea, neutropenia, and neurotoxicity occur [see Warnings and Precautions (5.2)and Clinical Pharmacology (12.5)].
 
 Cardiotoxicity
 
@@ -90,10 +90,10 @@ Drug interactions
 Instruct patients not to take products containing folic acid or folate analog products (e.g., leucovorin, levoleucovorin) unless directed to do so by their healthcare provider.
 Advise patients to inform their healthcare provider of all prescription or nonprescription medications, vitamins or herbal products [see Drug Interactions (7.1, 7.2, 7.3)].
 
-Manufactured For: Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad –380054, INDIA.
 
-10 0209 4 6022776
+10 0209 5 6025925
 
-Issued March 2023
+Issued October 2023
