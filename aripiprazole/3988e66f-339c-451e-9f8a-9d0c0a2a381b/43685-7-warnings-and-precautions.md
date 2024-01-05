@@ -27,6 +27,7 @@ Suicide is a known risk of depression and certain other psychiatric disorders, a
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
 Pooled analyses of short-term, placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24 years) with MDD and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24 years; there was a reduction with antidepressants compared to placebo in adults aged 65 years and older.
+
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, Obsessive Compulsive Disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4,400 patients.
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
@@ -39,8 +40,11 @@ Table 5:
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 | --- | --- |
 |  | Increases Compared to Placebo |
-| <1818 to 24 | 14 additional cases5 additional casesDecreases Compared to Placebo |
-| 25 to 64≥65 | 1 fewer case6 fewer cases |
+| <18 | 14 additional cases |
+| 18 to 24 | 5 additional cases |
+|  | Decreases Compared to Placebo |
+| 25 to 64 | 1 fewer case |
+| 65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.

@@ -152,7 +152,7 @@ Table 18: Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjunct
 | Insomnia | 8 | 4 |  |  |
 | Anxiety | 4 | 1 |  |  |
 | Restlessness | 2 | 1 |  |  |
-| *Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. † Lithium or Valproate |  |  |  |  |
+| *Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo.† Lithium or Valproate |  |  |  |  |
 
 Pediatric Patients (13 to 17 years) with Schizophrenia
 
@@ -346,7 +346,7 @@ Table 23: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials 
 | Extrapyramidal Disorder | 2 | 0 |
 | Psychiatric Disorders |  |  |
 | RestlessnessInsomnia | 128 | 22 |
-| *Adverse reactions reported by at least 2% of patients treated with adjunctive aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. †Antidepressant Therapy |  |  |
+| *Adverse reactions reported by at least 2% of patients treated with adjunctive aripiprazole, except adverse reactions which had an incidence equal to or less than placebo.†Antidepressant Therapy |  |  |
 
 Dose-Related Adverse Reactions
 
