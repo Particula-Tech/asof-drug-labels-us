@@ -1,6 +1,6 @@
 # CONTRAINDICATIONS
 
-Clonazepam is contraindicated in patients with the following conditions:
+Clonazepam tablets are contraindicated in patients with the following conditions:
 
 - History of sensitivity to benzodiazepines
 - Clinical or biochemical evidence of significant liver disease

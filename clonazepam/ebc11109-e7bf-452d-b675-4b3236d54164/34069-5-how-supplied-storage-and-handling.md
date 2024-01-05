@@ -24,10 +24,10 @@ They are supplied as follows:
 Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
 [See USP Controlled Room Temperature].
 
-Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad -380 054, India.
 
-10 0533 4 6023293
+10 0533 5 6025625
 
-Issued April 2023
+Issued October 2023

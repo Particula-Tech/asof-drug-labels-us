@@ -1,41 +1,41 @@
 # ADVERSE REACTIONS
 
-The adverse experiences for clonazepam are provided separately for patients with seizure disorders and with panic disorder.
+The adverse experiences for clonazepam tablets are provided separately for patients with seizure disorders and with panic disorder.
 
 Seizure Disorders:
 
-The most frequently occurring side effects of clonazepam are referable to CNS depression.
+The most frequently occurring side effects of clonazepam tablets are referable to CNS depression.
 Experience in treatment of seizures has shown that drowsiness has occurred in approximately 50% of patients and ataxia in approximately 30%.
 In some cases, these may diminish with time; behavior problems have been noted in approximately 25% of patients.
-Others, listed by system, including those identified during postapproval use of clonazepam are:
+Others, listed by system, including those identified during postapproval use of clonazepam tablets are:
 
-Cardiovascular: Palpitations
+Cardiovascular:Palpitations
 
-Dermatologic: Hair loss, hirsutism, skin rash, ankle and facial edema
+Dermatologic:Hair loss, hirsutism, skin rash, ankle and facial edema
 
-Gastrointestinal: Anorexia, coated tongue, constipation, diarrhea, dry mouth, encopresis, gastritis, increased appetite, nausea, sore gums
+Gastrointestinal:Anorexia, coated tongue, constipation, diarrhea, dry mouth, encopresis, gastritis, increased appetite, nausea, sore gums
 
-Genitourinary: Dysuria, enuresis, nocturia, urinary retention
+Genitourinary:Dysuria, enuresis, nocturia, urinary retention
 
-Hematopoietic: Anemia, leukopenia, thrombocytopenia, eosinophilia
+Hematopoietic:Anemia, leukopenia, thrombocytopenia, eosinophilia
 
-Hepatic: Hepatomegaly, transient elevations of serum transaminases and alkaline phosphatase
+Hepatic:Hepatomegaly, transient elevations of serum transaminases and alkaline phosphatase
 
-Musculoskeletal: Muscle weakness, pains
+Musculoskeletal:Muscle weakness, pains
 
-Miscellaneous: Dehydration, general deterioration, fever, lymphadenopathy, weight loss or gain
+Miscellaneous:Dehydration, general deterioration, fever, lymphadenopathy, weight loss or gain
 
-Neurologic: Abnormal eye movements, aphonia, choreiform movements, coma, diplopia, dysarthria, dysdiadochokinesis, ‘‘glassy-eyed’’ appearance, headache, hemiparesis, hypotonia, nystagmus, respiratory depression, slurred speech, tremor, vertigo
+Neurologic:Abnormal eye movements, aphonia, choreiform movements, coma, diplopia, dysarthria, dysdiadochokinesis, ‘‘glassy-eyed’’ appearance, headache, hemiparesis, hypotonia, nystagmus, respiratory depression, slurred speech, tremor, vertigo
 
-Psychiatric: Confusion, depression, amnesia, hysteria, increased libido, insomnia, psychosis (the behavior effects are more likely to occur in patients with a history of psychiatric disturbances).
+Psychiatric:Confusion, depression, amnesia, hysteria, increased libido, insomnia, psychosis (the behavior effects are more likely to occur in patients with a history of psychiatric disturbances).
 
 The following paradoxical reactions have been observed: irritability, aggression, agitation, nervousness, hostility, anxiety, sleep disturbances, nightmares, abnormal dreams, hallucinations.
 
-Respiratory: Chest congestion, rhinorrhea, shortness of breath, hypersecretion in upper respiratory passages
+Respiratory:Chest congestion, rhinorrhea, shortness of breath, hypersecretion in upper respiratory passages
 
 Panic Disorder:
 
-Adverse events during exposure to clonazepam were obtained by spontaneous report and recorded by clinical investigators using terminology of their own choosing.
+Adverse events during exposure to clonazepam tablets were obtained by spontaneous report and recorded by clinical investigators using terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of events into a smaller number of standardized event categories.
 In the tables and tabulations that follow, CIGY dictionary terminology has been used to classify reported adverse events, except in certain cases in which redundant terms were collapsed into more meaningful terms, as noted below.
 
@@ -46,12 +46,12 @@ Adverse Findings Observed in Short-Term, Placebo-Controlled Trials:
 
 Adverse Events Associated with Discontinuation of Treatment:
 
-Overall, the incidence of discontinuation due to adverse events was 17% in clonazepam compared to 9% for placebo in the combined data of two 6- to 9-week trials.
-The most common events (≥ 1%) associated with discontinuation and a dropout rate twice or greater for clonazepam than that of placebo included the following:
+Overall, the incidence of discontinuation due to adverse events was 17% in clonazepam tablets compared to 9% for placebo in the combined data of two 6- to 9-week trials.
+The most common events (≥ 1%) associated with discontinuation and a dropout rate twice or greater for clonazepam tablets than that of placebo included the following:
 
 Table 2 Most Common Adverse Events (≥ 1%) Associated with Discontinuation of Treatment
 
-| Adverse Event | Clonazepam (N = 574) | Placebo (N = 294) |
+| Adverse Event | Clonazepam Tablets (N = 574) | Placebo (N = 294) |
 | --- | --- | --- |
 | Somnolence | 7% | 1% |
 | Depression | 4% | 1% |
@@ -60,21 +60,21 @@ Table 2 Most Common Adverse Events (≥ 1%) Associated with Discontinuation of T
 | Ataxia | 1% | 0% |
 | Intellectual Ability Reduced | 1% | 0% |
 
-Adverse Events Occurring at an Incidence of 1% or More among Clonazepam-Treated Patients:
+Adverse Events Occurring at an Incidence of 1% or More among Clonazepam Tablets-Treated Patients:
 
 Table 3 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred during acute therapy of panic disorder from a pool of two 6- to 9-week trials.
-Events reported in 1% or more of patients treated with clonazepam (doses ranging from 0.5 to 4 mg/day) and for which the incidence was greater than that in placebo-treated patients are included.
+Events reported in 1% or more of patients treated with clonazepam tablets (doses ranging from 0.5 to 4 mg/day) and for which the incidence was greater than that in placebo-treated patients are included.
 
 The prescriber should be aware that the figures in Table 3 cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side effect incidence in the population studied.
 
 Table 3.
-Treatment-Emergent Adverse Event Incidence in 6- to 9- Week Placebo-Controlled Clinical Trials Events reported by at least 1% of patients treated with clonazepam and for which the incidence was greater than that for placebo.
+Treatment-Emergent Adverse Event Incidence in 6- to 9- Week Placebo-Controlled Clinical Trials Events reported by at least 1% of patients treated with clonazepam tablets and for which the incidence was greater than that for placebo.
 
 | Clonazepam Maximum Daily Dose |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Event by Body System | < 1 mg n = 96 % | 1- < 2 mg n = 129 % | 2- < 3 mg n = 113 % | ≥ 3 mg n = 235 % | All Clonazepam Groups N = 574 % | Placebo N = 294 % |
+| Adverse Event by Body System | < 1 mg n = 96 % | 1- < 2 mg n = 129 % | 2- < 3 mg n = 113 % | ≥ 3 mg n = 235 % | All Clonazepam Tablets Groups N = 574 % | Placebo N = 294 % |
 | Central & Peripheral Nervous System |  |  |  |  |  |  |
 | Somnolence Indicates that the p-value for the dose-trend test (Cochran-Mantel-Haenszel) for adverse event incidence was ≤ 0.10. | 26 | 35 | 50 | 36 | 37 | 10 |
 | Dizziness | 5 | 5 | 12 | 8 | 8 | 4 |
@@ -123,7 +123,7 @@ Treatment-Emergent Adverse Event Incidence in 6- to 9- Week Placebo-Controlled C
 Commonly Observed Adverse Events:
 
 Table 4.
-Incidence of Most Commonly Observed Adverse Events Treatment-emergent events for which the incidence in the clonazepam patients was ≥ 5% and at least twice that in the placebo patients. in Acute Therapy in Pool of 6- to 9- Week Trials
+Incidence of Most Commonly Observed Adverse Events Treatment-emergent events for which the incidence in the clonazepam patients was ≥ 5% and at least twice that in the placebo patients.in Acute Therapy in Pool of 6- to 9- Week Trials
 
 | Adverse Event | Clonazepam (N = 574) | Placebo (n = 294) |
 | --- | --- | --- |
@@ -134,53 +134,53 @@ Incidence of Most Commonly Observed Adverse Events Treatment-emergent events for
 
 Treatment-Emergent Depressive Symptoms:
 
-In the pool of two short-term placebo-controlled trials, adverse events classified under the preferred term “depression” were reported in 7% of clonazepam-treated patients compared to 1% of placebo-treated patients, without any clear pattern of dose relatedness.
-In these same trials, adverse events classified under the preferred term “depression” were reported as leading to discontinuation in 4% of clonazepam-treated patients compared to 1% of placebo-treated patients.
-While these findings are noteworthy, Hamilton Depression Rating Scale (HAM-D) data collected in these trials revealed a larger decline in HAM-D scores in the clonazepam group than the placebo group suggesting that clonazepam-treated patients were not experiencing a worsening or emergence of clinical depression.
+In the pool of two short-term placebo-controlled trials, adverse events classified under the preferred term “depression” were reported in 7% of clonazepam tablets-treated patients compared to 1% of placebo-treated patients, without any clear pattern of dose relatedness.
+In these same trials, adverse events classified under the preferred term “depression” were reported as leading to discontinuation in 4% of clonazepam tablets-treated patients compared to 1% of placebo-treated patients.
+While these findings are noteworthy, Hamilton Depression Rating Scale (HAM-D) data collected in these trials revealed a larger decline in HAM-D scores in the clonazepam group than the placebo group suggesting that clonazepam tablets-treated patients were not experiencing a worsening or emergence of clinical depression.
 
-Other Adverse Events Observed During the Premarketing Evaluation of Clonazepam in Panic Disorder:
+Other Adverse Events Observed During the Premarketing Evaluation of Clonazepam Tablets in Panic Disorder:
 
-Following is a list of modified CIGY terms that reflect treatment-emergent adverse events reported by patients treated with clonazepam at multiple doses during clinical trials.
+Following is a list of modified CIGY terms that reflect treatment-emergent adverse events reported by patients treated with clonazepam tablets at multiple doses during clinical trials.
 All reported events are included except those already listed in Table 3 or elsewhere in labeling, those events for which a drug cause was remote, those event terms which were so general as to be uninformative, and events reported only once and which did not have a substantial probability of being acutely life-threatening.
-It is important to emphasize that, although the events occurred during treatment with clonazepam, they were not necessarily caused by it.
+It is important to emphasize that, although the events occurred during treatment with clonazepam tablets, they were not necessarily caused by it.
 
 Events are further categorized by body system and listed in order of decreasing frequency.
 These adverse events were reported infrequently, which is defined as occurring in 1/100 to 1/1000 patients.
 
-Body as a Whole: weight increase, accident, weight decrease, wound, edema, fever, shivering, abrasions, ankle edema, edema foot, edema periorbital, injury, malaise, pain, cellulitis, inflammation localized
+Body as a Whole:weight increase, accident, weight decrease, wound, edema, fever, shivering, abrasions, ankle edema, edema foot, edema periorbital, injury, malaise, pain, cellulitis, inflammation localized
 
-Cardiovascular Disorders: chest pain, hypotension postural
+Cardiovascular Disorders:chest pain, hypotension postural
 
-Central and Peripheral Nervous System Disorders: migraine, paresthesia, drunkenness, feeling of enuresis, paresis, tremor, burning skin, falling, head fullness, hoarseness, hyperactivity, hypoesthesia, tongue thick, twitching
+Central and Peripheral Nervous System Disorders:migraine, paresthesia, drunkenness, feeling of enuresis, paresis, tremor, burning skin, falling, head fullness, hoarseness, hyperactivity, hypoesthesia, tongue thick, twitching
 
-Gastrointestinal System Disorders: abdominal discomfort, gastrointestinal inflammation, stomach upset, toothache, flatulence, pyrosis, saliva increased, tooth disorder, bowel movements frequent, pain pelvic, dyspepsia, hemorrhoids
+Gastrointestinal System Disorders:abdominal discomfort, gastrointestinal inflammation, stomach upset, toothache, flatulence, pyrosis, saliva increased, tooth disorder, bowel movements frequent, pain pelvic, dyspepsia, hemorrhoids
 
-Hearing and Vestibular Disorders: vertigo, otitis, earache, motion sickness
+Hearing and Vestibular Disorders:vertigo, otitis, earache, motion sickness
 
-Heart Rate and Rhythm Disorders: palpitation
+Heart Rate and Rhythm Disorders:palpitation
 
-Metabolic and Nutritional Disorders: thirst, gout
+Metabolic and Nutritional Disorders:thirst, gout
 
-Musculoskeletal System Disorders: back pain, fracture traumatic, sprains and strains, pain leg, pain nape, cramps muscle, cramps leg, pain ankle, pain shoulder, tendinitis, arthralgia, hypertonia, lumbago, pain feet, pain jaw, pain knee, swelling knee
+Musculoskeletal System Disorders:back pain, fracture traumatic, sprains and strains, pain leg, pain nape, cramps muscle, cramps leg, pain ankle, pain shoulder, tendinitis, arthralgia, hypertonia, lumbago, pain feet, pain jaw, pain knee, swelling knee
 
-Platelet, Bleeding and Clotting Disorders: bleeding dermal
+Platelet, Bleeding and Clotting Disorders:bleeding dermal
 
-Psychiatric Disorders: insomnia, organic disinhibition, anxiety, depersonalization, dreaming excessive, libido loss, appetite increased, libido increased, reactions decreased, aggression, apathy, disturbance in attention, excitement, anger, hunger abnormal, illusion, nightmares, sleep disorder, suicide ideation, yawning
+Psychiatric Disorders:insomnia, organic disinhibition, anxiety, depersonalization, dreaming excessive, libido loss, appetite increased, libido increased, reactions decreased, aggression, apathy, disturbance in attention, excitement, anger, hunger abnormal, illusion, nightmares, sleep disorder, suicide ideation, yawning
 
-Reproductive Disorders, Female: breast pain, menstrual irregularity
+Reproductive Disorders, Female:breast pain, menstrual irregularity
 
-Reproductive Disorders, Male: ejaculation decreased
+Reproductive Disorders, Male:ejaculation decreased
 
-Resistance Mechanism Disorders: infection mycotic, infection viral, infection streptococcal, herpes simplex infection, infectious mononucleosis, moniliasis
+Resistance Mechanism Disorders:infection mycotic, infection viral, infection streptococcal, herpes simplex infection, infectious mononucleosis, moniliasis
 
-Respiratory System Disorders: sneezing excessive, asthmatic attack, dyspnea, nosebleed, pneumonia, pleurisy
+Respiratory System Disorders:sneezing excessive, asthmatic attack, dyspnea, nosebleed, pneumonia, pleurisy
 
-Skin and Appendages Disorders: acne flare, alopecia, xeroderma, dermatitis contact, flushing, pruritus, pustular reaction, skin burns, skin disorder
+Skin and Appendages Disorders:acne flare, alopecia, xeroderma, dermatitis contact, flushing, pruritus, pustular reaction, skin burns, skin disorder
 
-Special Senses Other, Disorders: taste loss
+Special Senses Other, Disorders:taste loss
 
-Urinary System Disorders: dysuria, cystitis, polyuria, urinary incontinence, bladder dysfunction, urinary retention, urinary tract bleeding, urine discoloration
+Urinary System Disorders:dysuria, cystitis, polyuria, urinary incontinence, bladder dysfunction, urinary retention, urinary tract bleeding, urine discoloration
 
-Vascular (Extracardiac) Disorders: thrombophlebitis leg
+Vascular (Extracardiac) Disorders:thrombophlebitis leg
 
-Vision Disorders: eye irritation, visual disturbance, diplopia, eye twitching, styes, visual field defect, xerophthalmia
+Vision Disorders:eye irritation, visual disturbance, diplopia, eye twitching, styes, visual field defect, xerophthalmia

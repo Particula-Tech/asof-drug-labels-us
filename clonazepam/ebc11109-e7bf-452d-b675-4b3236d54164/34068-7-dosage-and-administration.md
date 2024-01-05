@@ -6,7 +6,7 @@ The tablets should be administered with water by swallowing the tablet whole.
 Seizure Disorders:
 
 The use of multiple anticonvulsants may result in an increase of CNS depressant adverse effects.
-This should be considered before adding clonazepam to an existing anticonvulsant regimen.
+This should be considered before adding clonazepam tablets to an existing anticonvulsant regimen.
 
 Adults:
 
@@ -17,7 +17,7 @@ Maximum recommended daily dose is 20 mg.
 
 Pediatric Patients:
 
-Clonazepam is administered orally.
+Clonazepam tablets are administered orally.
 In order to minimize drowsiness, the initial dose for infants and children (up to 10 years of age or 30 kg of body weight) should be between 0.01 and 0.03 mg/kg/day but not to exceed 0.05 mg/kg/day given in two or three divided doses.
 Dosage should be increased by no more than 0.25 mg to 0.5 mg every third day until a daily maintenance dose of 0.1 to 0.2 mg/kg of body weight has been reached, unless seizures are controlled or side effects preclude further increase.
 Whenever possible, the daily dose should be divided into three equal doses.
@@ -25,8 +25,8 @@ If doses are not equally divided, the largest dose should be given before retiri
 
 Geriatric Patients:
 
-There is no clinical trial experience with clonazepam in seizure disorder patients 65 years of age and older.
-In general, elderly patients should be started on low doses of clonazepam and observed closely (see PRECAUTIONS: Geriatric Use).
+There is no clinical trial experience with clonazepam tablets in seizure disorder patients 65 years of age and older.
+In general, elderly patients should be started on low doses of clonazepam tablets and observed closely (see PRECAUTIONS: Geriatric Use).
 
 Panic Disorder:
 
@@ -42,19 +42,19 @@ To reduce the inconvenience of somnolence, administration of one dose at bedtime
 Treatment should be discontinued gradually, with a decrease of 0.125 mg twice daily every 3 days, until the drug is completely withdrawn.
 
 There is no body of evidence available to answer the question of how long the patient treated with clonazepam should remain on it.
-Therefore, the physician who elects to use clonazepam for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
+Therefore, the physician who elects to use clonazepam tablets for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
 
 Pediatric Patients:
 
-There is no clinical trial experience with clonazepam in panic disorder patients under 18 years of age.
+There is no clinical trial experience with clonazepam tablets in panic disorder patients under 18 years of age.
 
 Geriatric Patients:
 
-There is no clinical trial experience with clonazepam in panic disorder patients 65 years of age and older.
-In general, elderly patients should be started on low doses of clonazepam and observed closely (see PRECAUTIONS: Geriatric Use).
+There is no clinical trial experience with clonazepam tablets in panic disorder patients 65 years of age and older.
+In general, elderly patients should be started on low doses of clonazepam tablets and observed closely (see PRECAUTIONS: Geriatric Use).
 
-Discontinuation or Dosage Reduction of Clonazepam:
+Discontinuation or Dosage Reduction of Clonazepam Tablets:
 
-To reduce the risk of withdrawal reactions, increased seizure frequency, and status epilepticus, use a gradual taper to discontinue clonazepam or reduce the dosage.
+To reduce the risk of withdrawal reactions, increased seizure frequency, and status epilepticus, use a gradual taper to discontinue clonazepam tablets or reduce the dosage.
 If a patient develops withdrawal reactions, consider pausing the taper or increasing the dosage to the previous tapered dosage level.
-Subsequently decrease the dosage more slowly (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE: Dependence).
+Subsequently decrease the dosage more slowly (see WARNINGS: Dependence and Withdrawal Reactionsand DRUG ABUSE AND DEPENDENCE: Dependence).

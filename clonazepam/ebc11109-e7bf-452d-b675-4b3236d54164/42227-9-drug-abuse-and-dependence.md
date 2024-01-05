@@ -1,8 +1,8 @@
 # DRUG ABUSE AND DEPENDENCE
 
-Controlled Substance: Clonazepam tablets contains clonazepam, a Schedule IV controlled substance.
+Controlled Substance:Clonazepam tablets contains clonazepam, a Schedule IV controlled substance.
 
-Abuse: Clonazepam is a benzodiazepine and a CNS depressant with a potential for abuse and addiction.
+Abuse:Clonazepam tablets are a benzodiazepine and a CNS depressant with a potential for abuse and addiction.
 Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
 Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed.
 Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
@@ -21,12 +21,12 @@ Dependence:
 
 Physical Dependence:
 
-Clonazepam may produce physical dependence from continued therapy.
+Clonazepam tablets may produce physical dependence from continued therapy.
 Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
 Abrupt discontinuation or rapid dosage reduction of benzodiazepines or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
 Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use (see WARNINGS: Dependence and Withdrawal Reactions).
 
-To reduce the risk of withdrawal reactions, use a gradual taper to discontinue clonazepam or reduce the dosage (see DOSAGE AND ADMINISTRATION: Discontinuation or Dosage Reduction of clonazepam and WARNINGS: Dependence and Withdrawal Reactions).
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue clonazepam tablets or reduce the dosage (see DOSAGE AND ADMINISTRATION: Discontinuation or Dosage Reduction of clonazepam tabletsand WARNINGS: Dependence and Withdrawal Reactions).
 
 Acute Withdrawal Signs and Symptoms
 
@@ -39,9 +39,9 @@ Protracted withdrawal syndrome associated with benzodiazepines is characterized 
 Protracted withdrawal symptoms may last weeks to more than 12 months.
 As a result, there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for which the benzodiazepine was being used.
 
-Tolerance Tolerance to clonazepam may develop from continued therapy.
+Tolerance Tolerance to clonazepam tablets may develop from continued therapy.
 Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
-Tolerance to the therapeutic effect of clonazepam may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines.
+Tolerance to the therapeutic effect of clonazepam tablets may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines.
 
 Following the short-term treatment of patients with panic disorder in Studies 1 and 2 (see CLINICAL PHARMACOLOGY: Clinical Trials), patients were gradually withdrawn during a 7-week downward-titration (discontinuance) period.
 Overall, the discontinuance period was associated with good tolerability and a very modest clinical deterioration, without evidence of a significant rebound phenomenon.
