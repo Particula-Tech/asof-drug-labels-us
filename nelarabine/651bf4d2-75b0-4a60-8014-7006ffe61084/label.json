@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA212605"
+  ],
+  "inn": "nelarabine",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-233-01",
+    "68083-233-06"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "nelarabine",
+      "name": "Nelarabine"
+    }
+  ],
+  "setid": "651bf4d2-75b0-4a60-8014-7006ffe61084",
+  "source": "dailymed"
+}
