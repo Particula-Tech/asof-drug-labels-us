@@ -5,15 +5,16 @@ The following clinically significant adverse reactions are discussed in greater 
 - Splenic Rupture [see Warnings and Precautions (5.1)]
 - Acute Respiratory Distress Syndrome [see Warnings and Precautions (5.2)]
 - Serious Allergic Reactions [see Warnings and Precautions (5.3)]
-- Use in Patients with Sickle Cell Disorders [see Warnings and Precautions (5.4)]
-- Glomerulonephritis [see Warnings and Precautions (5.5)]
-- Leukocytosis [see Warnings and Precautions (5.6)]
-- Thrombocytopenia [see Warnings and Precautions (5.7)]
-- Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
-- Potential for Tumor Growth Stimulatory Effects on Malignant Cells [see Warnings and Precautions (5.9)]
-- Myelodysplastic syndrome [see Warnings and Precautions (5.10)]
-- Acute myeloid leukemia [see Warnings and Precautions (5.10)]
-- Aortitis [see Warnings and Precautions (5.11)]
+- Allergies to Acrylics [see Warnings and Precautions (5.4)]
+- Use in Patients with Sickle Cell Disorders [see Warnings and Precautions (5.5)]
+- Glomerulonephritis [see Warnings and Precautions (5.6)]
+- Leukocytosis [see Warnings and Precautions (5.7)]
+- Thrombocytopenia [see Warnings and Precautions (5.8)]
+- Capillary Leak Syndrome [see Warnings and Precautions (5.9)]
+- Potential for Tumor Growth Stimulatory Effects on Malignant Cells [see Warnings and Precautions (5.10)]
+- Myelodysplastic syndrome [see Warnings and Precautions (5.11)]
+- Acute myeloid leukemia [see Warnings and Precautions (5.11)]
+- Aortitis [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -48,10 +49,8 @@ No complications attributable to leukocytosis were reported in clinical studies.
 
 ## 6.2 Immunogenicity
 
-As with all therapeutic proteins, there is a potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other pegfilgrastim products may be misleading.
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of pegfilgrastim or of other pegfilgrastim products.
 
 Binding antibodies to pegfilgrastim were detected using a BIAcore assay.
 The approximate limit of detection for this assay is 500 ng/mL.
@@ -67,13 +66,15 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Splenic rupture and splenomegaly (enlarged spleen) [see Warnings and Precautions (5.1)]
 - Acute respiratory distress syndrome (ARDS) [see Warnings and Precautions (5.2)]
 - Allergic reactions/hypersensitivity, including anaphylaxis, skin rash, urticaria, generalized erythema and flushing [see Warnings and Precautions (5.3)]
-- Sickle cell crisis [see Warnings and Precautions (5.4)]
-- Glomerulonephritis [see Warnings and Precautions (5.5)]
-- Leukocytosis [see Warnings and Precautions (5.6)]
-- Thrombocytopenia [see Warnings and Precautions (5.7)]
-- Capillary leak syndrome [see Warnings and Precautions (5.8)]
+- Sickle cell crisis [see Warnings and Precautions (5.5)]
+- Glomerulonephritis [see Warnings and Precautions (5.6)]
+- Leukocytosis [see Warnings and Precautions (5.7)]
+- Thrombocytopenia [see Warnings and Precautions (5.8)]
+- Capillary leak syndrome [see Warnings and Precautions (5.9)]
 - Injection site reactions
 - Sweet’s syndrome (acute febrile neutrophilic dermatosis), cutaneous vasculitis
-- Myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) in patients with breast and lung cancer receiving chemotherapy and/or radiotherapy [see Warnings and Precautions (5.10)]
-- Aortitis [see Warnings and Precautions (5.11)]
+- Application site reactions (including events such as application site hemorrhage, application site pain, application site discomfort, application site bruise, and application site erythema) have been reported with the use of the on-body-injector for UDENYCA.
+- Contact dermatitis and local skin reactions such as rash, pruritus, and urticaria have been reported with the use of the on-body-injector for UDENYCA, possibly indicating a hypersensitivity reaction to the adhesive.
+- Myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) in patients with breast and lung cancer receiving chemotherapy and/or radiotherapy [see Warnings and Precautions (5.11)]
+- Aortitis [see Warnings and Precautions (5.13)]
 - Alveolar hemorrhage

@@ -33,3 +33,19 @@ Do not shake.
 Discard UDENYCA stored at room temperature for more than 48 hours.
 Avoid freezing; if frozen, thaw in the refrigerator before administration.
 Discard UDENYCA if frozen more than once.
+
+UDENYCA ONBODY
+
+UDENYCA ONBODY is provided in a carton containing one sterile prefilled syringe and one sterile on-body injector (OBI) for UDENYCA (NDC 70114-130-01).
+
+The UDENYCA injection single-dose prefilled syringe contains 0.67 mL of a clear, colorless solution that delivers 6 mg/0.6 mL of pegfilgrastim-cbqv when used with the OBI for UDENYCA.
+The prefilled syringe is supplied with a 29-gauge, 1/2-inch needle.
+The syringe does not bear graduation marks and is only to be used with the OBI for UDENYCA.
+
+The needle cap of the prefilled syringe is not made with natural rubber latex.
+
+Store UDENYCA ONBODY in the refrigerator at 2°C to 8°C (36°F to 46°F) until 30 minutes prior to use.
+Because the OBI for UDENYCA is at room temperature during the period of use, UDENYCA ONBODY should not be held at room temperature longer than 12 hours prior to use.
+Discard UDENYCA ONBODY if stored at room temperature for more than 12 hours.
+
+Do not use the OBI for UDENYCA if its packaging has been previously opened.

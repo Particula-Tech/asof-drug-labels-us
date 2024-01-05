@@ -18,6 +18,7 @@ In addition to numbers of neutrophils, body weight appeared to be a factor.
 Patients with higher body weights experienced higher systemic exposure to pegfilgrastim after receiving a dose normalized for body weight.
 A large variability in the pharmacokinetics of pegfilgrastim was observed.
 The half-life of pegfilgrastim ranged from 15 to 80 hours after subcutaneous injection.
+In healthy volunteers, the pharmacokinetics of pegfilgrastim were comparable when delivered subcutaneously via a manual prefilled syringe versus via the on-body-injector (OBI) for UDENYCA.
 
 Specific Populations
 
@@ -35,7 +36,7 @@ The terminal elimination half-lives of the corresponding age groups were 30.1 (Â
 
 Patients Acutely Exposed to Myelosuppressive Doses of Radiation
 
-The pharmacokinetics of pegfilgrastim products is not available in patients acutely exposed to myelosuppressive doses of radiation.
+The pharmacokinetics of pegfilgrastim is not available in patients acutely exposed to myelosuppressive doses of radiation.
 Based on limited pharmacokinetic data in irradiated non-human primates, the area under the concentration-time curve (AUC), reflecting the exposure to pegfilgrastim in non-human primates following a 300 mcg/kg dose of pegfilgrastim, appears to be greater than in humans receiving a 6 mg dose.
 Results from population modeling and simulation indicate that two 6 mg doses of pegfilgrastim administered one week apart in adults result in clinically relevant effects on duration of grade 3 and 4 neutropenia.
-In addition, weight based dosing in pediatric patients weighing less than 45 kg [see Dosage and Administration, Section 2.3, Table 1] provides exposures comparable to those in adults receiving two 6 mg doses one week apart.
+In addition, weight-based dosing in pediatric patients weighing less than 45 kg [see Dosage and Administration, Section 2.3, Table 1] provides exposures comparable to those in adults receiving two 6 mg doses one week apart.
