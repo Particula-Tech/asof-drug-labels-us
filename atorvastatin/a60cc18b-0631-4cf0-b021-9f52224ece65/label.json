@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA020702"
+  ],
+  "inn": "atorvastatin",
+  "labeler": "Viatris Specialty LLC",
+  "package_ndcs": [
+    "58151-155-77",
+    "58151-156-77",
+    "58151-157-77",
+    "58151-158-77"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "atorvastatin calcium",
+      "name": "Lipitor"
+    }
+  ],
+  "setid": "a60cc18b-0631-4cf0-b021-9f52224ece65",
+  "source": "dailymed"
+}
