@@ -135,9 +135,9 @@ Place this day label strip on the tablet blister over the area that has the days
 ## IF YOU ARE LATE OR MISS TAKING YOUR POPS
 
 - •If you are more than 3 hours late or you miss one or more POPs:
-  - •TAKE a missed pill as soon as you remember that you missed it,
-  - •THEN go back to taking POPs at your regular time.
-  - •BUT be sure to use a backup method (such as condom and/or spermicide) every time you have sex for the next 48 hours.
+  - oTAKE a missed pill as soon as you remember that you missed it,
+  - oTHEN go back to taking POPs at your regular time.
+  - oBUT be sure to use a backup method (such as condom and/or spermicide) every time you have sex for the next 48 hours.
 - •If you are not sure what to do about the pills you have missed, keep taking POPs and use a backup method until you can talk to your doctor or clinic.
 
 ## IF YOU ARE BREASTFEEDING
