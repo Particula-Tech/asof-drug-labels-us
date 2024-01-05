@@ -30,7 +30,7 @@ Consider changing the therapeutic regimen, including possibly discontinuing paro
 ## 5.2 Serotonin Syndrome
 
 SSRIs, including paroxetine tablets, can precipitate serotonin syndrome, a potentially life-threatening condition.
-The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)].
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, meperidine, methadone, tryptophan, buspirone, amphetamines and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)].
 Serotonin syndrome can also occur when these drugs are used alone.
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -62,6 +62,7 @@ If paroxetine tablets are used during pregnancy, or if the patient becomes pregn
 Drugs that interfere with serotonin reuptake inhibition, including paroxetine tablets, increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDS), other antiplatelet drugs, warfarin, and other anticoagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Use in Specific Populations (8.1)].
 Bleeding events related to drugs that interfere with serotonin reuptake have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
 Inform patients about the increased risk of bleeding associated with the concomitant use of paroxetine tablets and antiplatelet agents or anticoagulants.
@@ -125,6 +126,7 @@ There are multiple possible causes for this observation, and it is unknown to wh
 Use of SSRIs, including paroxetine tablets, may cause symptoms of sexual dysfunction [see Adverse Reactions (6.1)].
 In male patients, SSRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
 In female patients, SSRI use may result in decreased libido and delayed or absent orgasm.
+
 It is important for prescribers to inquire about sexual function prior to initiation of paroxetine tablets and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
 When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
 Discuss potential management strategies to support patients in making informed decisions about treatment.

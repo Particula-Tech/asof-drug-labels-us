@@ -7,7 +7,7 @@ In these studies, paroxetine tablets were shown to be statistically significantl
 Paroxetine tablets were statistically significantly better than placebo in improvement of the HDRS sub-factor scores, including the depressed mood item, sleep disturbance factor, and anxiety factor.
 
 Long-term efficacy of paroxetine tablets for treatment of MDD in outpatients was demonstrated in a randomized withdrawal study.
-Patients who responded to paroxetine tablets (HDRS total score <8) during an initial 8-week open-label treatment phase were then randomized to continue paroxetine tablets or placebo, for up to 1 year.
+Patients who responded to paroxetine tablets (HDRS total score < 8) during an initial 8-week open-label treatment phase were then randomized to continue paroxetine tablets or placebo, for up to 1 year.
 Patients treated with paroxetine tablets demonstrated a statistically significant lower relapse rate during the withdrawal phase (15%) compared to those on placebo (39%).
 Effectiveness was similar for male and female patients.
 

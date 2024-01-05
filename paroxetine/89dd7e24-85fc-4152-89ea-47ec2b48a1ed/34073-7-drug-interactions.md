@@ -15,7 +15,7 @@ Table 9: Clinically Significant Drug Interactions with Paroxetine Tablets
 | Other Serotonergic Drugs |  |
 | Clinical Impact | The concomitant use of serotonergic drugs with paroxetine tablets increases the risk of serotonin syndrome. |
 | Intervention | Monitor patients for signs and symptoms of serotonin syndrome, particularly during treatment initiation and dosage increases. If serotonin syndrome occurs, consider discontinuation of paroxetine tablets and/or concomitant serotonergic drugs [see Warnings and Precautions (5.2)]. |
-| Examples | other SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John’s Wort |
+| Examples | other SSRIs, SNRIs, triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, and St. John’s Wort |
 | Drugs that Interfere with Hemostasis (antiplatelet agents and anticoagulants) |  |
 | Clinical Impact | The concurrent use of an antiplatelet agent or anticoagulant with paroxetine tablets may potentiate the risk of bleeding. |
 | Intervention | Inform patients of the increased risk of bleeding associated with the concomitant use of paroxetine tablets and antiplatelet agents and anticoagulants. For patients taking warfarin, carefully monitor the international normalized ratio [see Warnings and Precautions (5.5)]. |
@@ -32,5 +32,5 @@ Table 9: Clinically Significant Drug Interactions with Paroxetine Tablets
 | Clinical Impact | Concomitant use of tamoxifen with paroxetine tablets may lead to reduced plasma concentrations of the active metabolite (endoxifen) and reduced efficacy of tamoxifen |
 | Intervention | Consider use of an alternative antidepressant with little or no CYP2D6 inhibition [see Warnings and Precautions (5.11)]. |
 | Fosamprenavir/Ritonavir |  |
-| Clinical Impact | Co-administration of fosamprenavir/ritonavir with paroxetine tablets significantly decreased plasma levels of paroxetine tablets. |
+| Clinical Impact | Co-administration of fosamprenavir/ritonavir with paroxetine tablets significantly decreased plasma levels of paroxetine. |
 | Intervention | Any dose adjustment should be guided by clinical effect (tolerability and efficacy). |

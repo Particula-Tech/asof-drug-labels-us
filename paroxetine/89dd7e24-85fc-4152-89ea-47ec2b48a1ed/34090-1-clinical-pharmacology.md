@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of paroxetine tablets in the treatment of MDD, SAD, OCD\, PD, GAD, and PTSD is unknown, but is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from inhibition of neuronal reuptake of serotonin (5-hydroxy-tryptamine, 5-HT).
+The mechanism of action of paroxetine tablets in the treatment of MDD, SAD, OCD, PD, GAD, and PTSD is unknown, but is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from inhibition of neuronal reuptake of serotonin (5-hydroxy-tryptamine, 5-HT).
 
 ## 12.2 Pharmacodynamics
 

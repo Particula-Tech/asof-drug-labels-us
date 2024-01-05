@@ -143,7 +143,7 @@ Table 4: Adverse Reactions (≥ 1% of Paroxetine Tablets-Treated Patients and Gr
 
 ### Adverse Reactions in Patients with OCD, PD, and SAD
 
-Table 5 presents adverse reactions that occurred at a frequency of 2% or more in clinical trials in patients with OCD, PD, and SAD.
+Table 5 presents adverse reactions that occurred at a frequency of 2% or more in clinical trial patients with OCD, PD, and SAD.
 
 Table 5.
 Adverse Reactions (≥ 2% of Paroxetine Tablets-Treated Patients and Greater than Placebo) in 10 to 12-Week Clinical Trials for OCD, PD, and SAD
@@ -211,7 +211,7 @@ Adverse Reactions (≥ 2% of Paroxetine Tablets-Treated Patients and Greater tha
 Table 6 presents adverse reactions that occurred at a frequency of 2% or more in clinical trials in patients with GAD and PTSD.
 
 Table 6.
-Adverse Reactions (≥ 2% of Paroxetine Tablets-Treated Patients and Greater than Placebo) in 8 to 12 Week Clinical Trials for GAD and PTSDa
+Adverse Reactions (≥ 2% of Paroxetine Tablets-Treated Patients and Greater than Placebo) in 8- to 12-Week Clinical Trials for GAD and PTSDa
 
 | Body System/Preferred Term | Generalized Anxiety Disorder |  | Posttraumatic Stress Disorder |  |
 | --- | --- | --- | --- | --- |
@@ -238,7 +238,7 @@ Adverse Reactions (≥ 2% of Paroxetine Tablets-Treated Patients and Greater tha
 | Insomnia | 11 | 8 | 12 | 11 |
 | Somnolence | 15 | 5 | 16 | 5 |
 | Dizziness | 6 | 5 | 6 | 5 |
-| Tremor | 5 | 5 | 1 | 4 |
+| Tremor | 5 | 1 | 4 | 1 |
 | Nervousness | 4 | 3 | - | - |
 | Libido Decreased | 9 | 2 | 5 | 2 |
 | Abnormal Dreams |  |  | 3 |  |
@@ -372,5 +372,5 @@ Urogenital System: Infrequent: Amenorrhea, breast pain, cystitis, dysuria, hemat
 The following reactions have been identified during post approval use of paroxetine tablets.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Acute pancreatitis, elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction), Guillain-Barré syndrome, Stevens-Johnson syndrome, toxic epidermal necrolysis, syndrome of inappropriate ADH secretion, prolactinemia and galactorrhea; extrapyramidal symptoms which have included akathisia, bradykinesia, cogwheel rigidity, oculogyric crisis which has been associated with concomitant use of pimozide; status epilepticus, acute renal failure, pulmonary hypertension, allergic alveolitis, anaphylaxis, eclampsia, laryngismus, optic neuritis, porphyria, restless legs syndrome (RLS), ventricular fibrillation, ventricular tachycardia (including torsade de pointes), hemolytic anemia, events related to impaired hematopoiesis (including aplastic anemia, pancytopenia, bone marrow aplasia, and agranulocytosis), vasculitic syndromes (such as Henoch-Schönlein purpura), and premature births in pregnant women.
+Acute pancreatitis, elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction), Guillain-Barré syndrome, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), syndrome of inappropriate ADH secretion, prolactinemia and galactorrhea; extrapyramidal symptoms which have included akathisia, bradykinesia, cogwheel rigidity, oculogyric crisis which has been associated with concomitant use of pimozide; status epilepticus, acute renal failure, pulmonary hypertension, allergic alveolitis, anosmia, hyposmia, anaphylaxis, eclampsia, laryngismus, optic neuritis, porphyria, restless legs syndrome (RLS), ventricular fibrillation, ventricular tachycardia (including torsade de pointes), hemolytic anemia, events related to impaired hematopoiesis (including aplastic anemia, pancytopenia, bone marrow aplasia, and agranulocytosis), vasculitic syndromes (such as Henoch-Schönlein purpura), and premature births in pregnant women.
 There has been a case report of severe hypotension when paroxetine tablets were added to chronic metoprolol treatment.
