@@ -8,13 +8,15 @@ XYOSTED is available in the following strengths and configurations.
 
 - XYOSTED (testosterone enanthate) injection, USP, 50 mg/0.5 mL
   - Carton of 4 autoinjectors NDC 54436-250-04
-    - Autoinjector NDC 54436-250-02
+  - Autoinjector NDC 54436-250-02
 - XYOSTED (testosterone enanthate) injection, USP, 75 mg/0.5 mL
   - Carton of 4 autoinjectors NDC 54436-275-04
-    - Autoinjector NDC 54436-275-02
+  - Carton of 1 autoinjector NDC 54436-275-05
+  - Autoinjector NDC 54436-275-02
 - XYOSTED (testosterone enanthate) injection, USP, 100 mg/0.5 mL
   - Carton of 4 autoinjectors NDC 54436-200-04
-    - Autoinjector NDC 54436-200-02
+  - Carton of 1 autoinjector NDC 54436-200-05
+  - Autoinjector NDC 54436-200-02
 
 Before use, each autoinjector should be visually inspected.
 XYOSTED should be clear to light yellow in color and free of visible particles.
