@@ -2,30 +2,35 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- •Abuse and Dependence [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)]
-- •Known hypersensitivity to methylphenidate or other ingredients of dexmethylphenidate hydrochloride tablets [see Contraindications (4)]
-- •Hypertensive crisis with Concomitant Use of Monoamine Oxidase Inhibitors [see Contraindications (4), Drug Interactions (7.1)]
-- •Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
-- •Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
-- •Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
-- •Priapism [see Warnings and Precautions (5.5)]
-- •Peripheral Vasculopathy, Including Raynaud’s phenomenon [see Warnings and Precautions (5.6)]
-- •Long-term Suppression of Growth [see Warnings and Precautions (5.7)]
+- Abuse, Misuse, and Addiction [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)]
+
+- Known hypersensitivity to methylphenidate or other ingredients of dexmethylphenidate hydrochloride tablets [see Contraindications (4)]
+- Hypertensive crisis with Concomitant Use of Monoamine Oxidase Inhibitors [see Contraindications (4), Drug Interactions (7.1)]
+- Risks to Patients with Serious Cardiac Disease [see Warnings and Precautions (5.2)]
+- Increased Blood Pressure and Heart Rate [see Warnings and Precautions (5.3)]
+- Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
+- Priapism [see Warnings and Precautions (5.5)]
+- Peripheral Vasculopathy, Including Raynaud’s phenomenon [see Warnings and Precautions (5.6)]
+- Long-term Suppression of Growth in Pediatric Patients [see Warnings and Precautions (5.7)]
+
+- Acute Angle Closure Glaucoma [see Warnings and Precautions (5.8)]
+- Increased Intraocular Pressure and Glaucoma [see Warnings and Precautions (5.9)]
+- Motor and Verbal Tics, and Worsening of Tourette’s Syndrome [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Clinical Trials Experience with Dexmethylphenidate Hydrochloride Tablets in Pediatric Patients with ADHD The safety data in this section is based on data related to dexmethylphenidate hydrochloride tablets exposure during the premarketing development program in a total of 696 participants in clinical trials (684 patients, 12 healthy adult subjects).
+Adverse Reactions in Studies with Dexmethylphenidate Hydrochloride Tablets in Pediatric Patients with ADHD with Dexmethylphenidate Hydrochloride Tablets in Pediatric Patients with ADHD The safety data in this section is based on data related to dexmethylphenidate hydrochloride tablets exposure during the premarketing development program in a total of 696 participants in clinical trials (684 patients, 12 healthy adult subjects).
 These participants received dexmethylphenidate hydrochloride tablets 5, 10, or 20 mg/day.
 The 684 ADHD patients (ages 6 to 17 years) were evaluated in 2 controlled clinical studies, 2 clinical pharmacology studies, and 2 open-label long-term safety studies.
 
-Most Common Adverse Reactions (incidence of greater than or equal to 5% and at least twice placebo): abdominal pain, fever, anorexia, and nausea
+Most Common Adverse Reactions(incidence of greater than or equal to 5% and at least twice placebo): abdominal pain, fever, anorexia, and nausea
 
-Adverse Reactions Leading to Discontinuation: Overall, 50 of 684 (7.3%) pediatric patients treated with dexmethylphenidate hydrochloride tablets experienced an adverse reaction that resulted in discontinuation.
+Adverse Reactions Leading to Discontinuation:Overall, 50 of 684 (7.3%) pediatric patients treated with dexmethylphenidate hydrochloride tablets experienced an adverse reaction that resulted in discontinuation.
 The most common reasons for discontinuation were twitching (described as motor or vocal tics), anorexia, insomnia, and tachycardia (approximately 1% each).
 
-Table 1 enumerates adverse reactions for two, placebo-controlled, parallel group studies in pediatric patients with ADHD taking dexmethylphenidate hydrochloride tablets doses of 5, 10, and 20 mg/day.
+Table 1enumerates adverse reactions for two, placebo-controlled, parallel group studies in pediatric patients with ADHD taking dexmethylphenidate hydrochloride tablets doses of 5, 10, and 20 mg/day.
 The table includes only those reactions that occurred in patients treated with dexmethylphenidate hydrochloride tablets for which the incidence was at least 5% and twice the incidence among placebo-treated patients.
 
 Table 1: Common Adverse Reactions in Pediatric Patients (6 to 17 years of age) with ADHD
@@ -44,69 +49,69 @@ Abbreviation: ADHD, attention deficit hyperactivity disorder.
 The following additional adverse reactions have been identified during postapproval use of dexmethylphenidate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Musculoskeletal: rhabdomyolysis
+Musculoskeletal:rhabdomyolysis
 
-Immune System Disorders: hypersensitivity reactions, such as angioedema, anaphylactic reactions
+Immune System Disorders:hypersensitivity reactions, such as angioedema, anaphylactic reactions
 
 Adverse Reactions Reported with All Methylphenidate Hydrochloride and Dexmethylphenidate Hydrochloride Formulations The following adverse reactions associated with the use of all methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations were identified in clinical trials, spontaneous reports, and literature.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
 
-Infections and Infestations: nasopharyngitis
+Infections and Infestations:nasopharyngitis
 
-Blood and the Lymphatic System Disorders: leukopenia, thrombocytopenia, anemia
+Blood and the Lymphatic System Disorders:leukopenia, thrombocytopenia, anemia
 
-Immune System Disorders: hypersensitivity reactions, including angioedema and anaphylaxis
+Immune System Disorders:hypersensitivity reactions, including angioedema and anaphylaxis
 
-Metabolism and Nutrition Disorders: decreased appetite, reduced weight gain, and suppression of growth during prolonged use in pediatric patients
+Metabolism and Nutrition Disorders:decreased appetite, reduced weight gain, and suppression of growth during prolonged use in pediatric patients
 
-Psychiatric Disorders: insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood
+Psychiatric Disorders:insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood, depression
 
-Nervous System Disorders: headache, dizziness, tremor, dyskinesia, including choreoatheetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages, and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
+Nervous System Disorders:headache, dizziness, tremor, dyskinesia, including choreoatheetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages, and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
 
-Eye Disorders: blurred vision, difficulties in visual accommodation
+Eye Disorders:blurred vision, difficulties in visual accommodation
 
-Cardiac Disorders: tachycardia, palpitations, increased blood pressure, arrhythmias, angina pectoris
+Cardiac Disorders:tachycardia, palpitations, increased blood pressure, arrhythmias, angina pectoris
 
-Respiratory, Thoracic, and Mediastinal Disorders: cough
+Respiratory, Thoracic, and Mediastinal Disorders:cough
 
-Gastrointestinal Disorders: dry mouth, nausea, vomiting, abdominal pain, dyspepsia
+Gastrointestinal Disorders:dry mouth, nausea, vomiting, abdominal pain, dyspepsia
 
-Hepatobiliary Disorders: abnormal liver function, ranging from transaminase elevation to severe hepatic injury
+Hepatobiliary Disorders:abnormal liver function, ranging from transaminase elevation to severe hepatic injury
 
-Skin and Subcutaneous Tissue Disorders: hyperhidrosis, pruritus, urticaria, exfoliative dermatitis, scalp hair loss, erythema multiforme rash, thrombocytopenic purpura
+Skin and Subcutaneous Tissue Disorders:hyperhidrosis, pruritus, urticaria, exfoliative dermatitis, scalp hair loss, erythema multiforme rash, thrombocytopenic purpura
 
-Musculoskeletal and Connective Tissue Disorders: arthralgia, muscle cramps, rhabdomyolysis
+Musculoskeletal and Connective Tissue Disorders:arthralgia, muscle cramps, rhabdomyolysis, trismus
 
-Investigations: weight loss (adult ADHD patients)
+Investigations:weight loss (adult ADHD patients)
 
 Additional Adverse Reactions Reported with Other Methylphenidate-Containing Products The list below shows adverse reactions not listed with methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations that have been reported with other methylphenidate products based on clinical trials data and post-marketing spontaneous reports.
 
-Blood and Lymphatic Disorders: pancytopenia
+Blood and Lymphatic Disorders:pancytopenia
 
-Immune System Disorders: hypersensitivity reactions, such as auricular swelling
+Immune System Disorders:hypersensitivity reactions, such as auricular swelling
 
 Psychiatric Disorders: affect lability, mania, disorientation, libido changes
 
-Nervous System Disorders: migraine
+Nervous System Disorders: migraine, motor and verbal Tics
 
-Eye Disorders: diplopia, mydriasis
+Eye Disorders: diplopia, increased intraocular pressure, mydriasis
 
-Cardiac Disorders: sudden cardiac death, myocardial infarction, bradycardia, extrasystole, supraventricular tachycardia, ventricular extrasystole
+Cardiac Disorders:sudden cardiac death, myocardial infarction, bradycardia, extrasystole, supraventricular tachycardia, ventricular extrasystole
 
-Vascular Disorders: peripheral coldness, Raynaud's phenomenon
+Vascular Disorders:peripheral coldness, Raynaud's phenomenon
 
-Respiratory, Thoracic, and Mediastinal Disorders: pharyngolaryngeal pain, dyspnea
+Respiratory, Thoracic, and Mediastinal Disorders:pharyngolaryngeal pain, dyspnea
 
-Gastrointestinal Disorders: diarrhea, constipation
+Gastrointestinal Disorders:diarrhea, constipation
 
-Skin and Subcutaneous Tissue Disorders: angioneurotic edema, erythema, fixed drug eruption
+Skin and Subcutaneous Tissue Disorders:angioneurotic edema, erythema, fixed drug eruption
 
-Musculoskeletal, Connective Tissue, and Bone Disorders: myalgia, muscle twitching
+Musculoskeletal, Connective Tissue, and Bone Disorders:myalgia, muscle twitching
 
-Renal and Urinary Disorders: hematuria
+Renal and Urinary Disorders:hematuria
 
-Reproductive System and Breast Disorders: gynecomastia
+Reproductive System and Breast Disorders:gynecomastia
 
-General Disorders: fatigue
+General Disorders:fatigue
 
-Urogenital Disorders: priapism
+Urogenital Disorders:priapism

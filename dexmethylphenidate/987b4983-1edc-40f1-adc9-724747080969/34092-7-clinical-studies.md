@@ -12,10 +12,10 @@ Patients treated with dexmethylphenidate hydrochloride tablets showed a statisti
 
 Table 3: Summary of Efficacy Results from ADHD Acute-Phase Study in Pediatric Patients (6-17 years) (Study 1)
 
-| Study Number | Treatment Group | Primary Efficacy Measure: Teacher SNAP-ADHD Total Scorea |  |
+| Study Number | Treatment Group | Primary Efficacy Measure: Teacher SNAP-ADHD Total Score a |  |
 | --- | --- | --- | --- |
 | Mean Baseline Score (SD) | Mean Change from Baseline Week 4 Score (SD) |  |  |
-| Study 1 | Dexmethylphenidate Hydrochloride Tablets5-20 mg/dayb (n = 44) | 1.4 (0.7) (n = 42) | - 0.7 (0.7) (n = 42) |
+| Study 1 | Dexmethylphenidate Hydrochloride Tablets5-20 mg/day b(n = 44) | 1.4 (0.7) (n = 42) | - 0.7 (0.7) (n = 42) |
 | Placebo (n = 42) | 1.6 (0.7) (n = 41) | - 0.2 (0.7) (n = 39) |  |
 
 Abbreviations: ADHD, attention deficit hyperactivity disorder; SD, standard deviation; SNAP; swanson, Nolan and Pelham; n, number of patients available at the assessment time point.
@@ -31,9 +31,9 @@ Patients continued on dexmethylphenidate hydrochloride tablets showed a statisti
 
 Table 4: Summary of Efficacy Results from ADHD Randomized Withdrawal Study in Pediatric Patients (6-17 years) (Study 2)
 
-| Study Number | Treatment Group | Primary Efficacy Measure: Proportion of Treatment Failurea |  |
+| Study Number | Treatment Group | Primary Efficacy Measure: Proportion of Treatment Failure a |  |
 | --- | --- | --- | --- |
 | Number of Treatment Failures/Number of Randomized Patients | Percentage |  |  |
-| Study 2 | Dexmethylphenidate Hydrochloride Tablets5-20 mg/dayb | 6/35 | 17.1% |
+| Study 2 | Dexmethylphenidate Hydrochloride Tablets5-20 mg/day b | 6/35 | 17.1% |
 | Placebo | 25/40 | 62.5% |  |
-| Abbreviation: ADHD, attention deficit hyperactivity disorder. aOne patient did not have the value at Visit 10 and hence not included in this analysis. bStatistically significantly different from placebo. |  |  |  |
+| Abbreviation: ADHD, attention deficit hyperactivity disorder.aOne patient did not have the value at Visit 10 and hence not included in this analysis. bStatistically significantly different from placebo. |  |  |  |

@@ -21,7 +21,7 @@ Absorption Dexmethylphenidate hydrochloride is readily absorbed following oral a
 In patients with ADHD, plasma dexmethylphenidate concentrations increase rapidly, reaching a maximum in the fasted state at about 1 to 1.5 hours postdose.
 No differences in the pharmacokinetics of dexmethylphenidate hydrochloride tablets were noted following single and repeated twice daily dosing, thus indicating no significant drug accumulation in children with ADHD.
 
-After single dose administration of dexmethylphenidate hydrochloride tablets to pediatric patients, dexmethylphenidate exposure (Cmax and AUC0-inf) showed dose-proportional increase in the range of 2.5 mg to 10 mg.
+After single dose administration of dexmethylphenidate hydrochloride tablets to pediatric patients, dexmethylphenidate exposure (C maxand AUC 0-inf) showed dose-proportional increase in the range of 2.5 mg to 10 mg.
 Comparable plasma dexmethylphenidate levels were achieved following single dl-threo-methylphenidate HCl doses given as capsules in twice the total mg amount (equimolar with respect to dexmethylphenidate hydrochloride tablets).
 
 Approximately 90% of the dose is absorbed after oral administration of radiolabeled racemic methylphenidate.
@@ -42,7 +42,7 @@ Metabolism
 
 In humans, dexmethylphenidate is metabolized primarily via de-esterification to d-α-phenyl-piperidine acetic acid (also known as d-ritalinic acid).
 This metabolite has little or no pharmacological activity.
-There is little or no in vivo interconversion to the l-threo-enantiomer.
+There is little or no in vivointerconversion to the l-threo-enantiomer.
 
 Excretion
 
@@ -66,7 +66,7 @@ There is insufficient experience with the use of dexmethylphenidate hydrochlorid
 Pediatric Patients
 
 The pharmacokinetics of dexmethylphenidate after dexmethylphenidate hydrochloride tablets administration have not been studied in children less than 6 years of age.
-When single doses of dexmethylphenidate hydrochloride tablets were given to children between the ages of 6 to 12 years and healthy adult volunteers, Cmax of dexmethylphenidate was similar, however, pediatric patients showed somewhat lower AUCs compared to the adults.
+When single doses of dexmethylphenidate hydrochloride tablets were given to children between the ages of 6 to 12 years and healthy adult volunteers, C maxof dexmethylphenidate was similar, however, pediatric patients showed somewhat lower AUCs compared to the adults.
 
 Patients with Renal Impairment There is no experience with the use of dexmethylphenidate hydrochloride tablets in patients with renal impairment.
 Since renal clearance is not an important route of methylphenidate clearance, renal impairment is expected to have little effect on the pharmacokinetics of dexmethylphenidate hydrochloride tablets.
