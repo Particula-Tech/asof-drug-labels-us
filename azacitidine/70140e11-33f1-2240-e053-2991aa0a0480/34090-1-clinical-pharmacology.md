@@ -16,7 +16,7 @@ However, due to Celgene Corporation's marketing exclusivity rights, this drug pr
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of azacitidine were studied in 6 adult patients with MDS following a single 75 mg/m 2 subcutaneous dose and a single 75 mg/m 2 intravenous dose.
+The pharmacokinetics of azacitidine were studied in 6 adult patients with MDS following a single 75 mg/m 2subcutaneous dose and a single 75 mg/m 2intravenous dose.
 
 Absorption
 
@@ -26,7 +26,7 @@ Distribution
 
 The bioavailability of subcutaneous azacitidine relative to intravenous azacitidine is approximately 89%, based on area under the curve.
 Mean volume of distribution following intravenous dosing is 76 ± 26 L. Mean apparent subcutaneous clearance is 167 ± 49 L/hour and mean half-life after subcutaneous administration is 41 ± 8 minutes.
-The AUC and Cmax of subcutaneous administration of azacitidine in 21 patients with cancer were approximately dose proportional within the 25 to 100 mg/m 2 dose range.
+The AUC and Cmax of subcutaneous administration of azacitidine in 21 patients with cancer were approximately dose proportional within the 25 to 100 mg/m 2dose range.
 Multiple dosing at the recommended dose-regimen does not result in drug with intravenous or subcutaneous administration.
 
 Elimination
@@ -64,10 +64,10 @@ No formal clinical drug interaction studies with azacitidine have been conducted
 
 In vitro Studies
 
-Cytochrome P450 (CYP) Enzymes: An in vitro study at azacitidine concentrations up to 100 μM (IV C max = 10.6 μM) in human liver microsomes indicated that azacitidine does not cause any inhibition of CYP isoforms CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A4, or CYP2E1 at clinically achievable concentrations.
+Cytochrome P450 (CYP) Enzymes:An in vitro study at azacitidine concentrations up to 100 μM (IV C max= 10.6 μM) in human liver microsomes indicated that azacitidine does not cause any inhibition of CYP isoforms CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A4, or CYP2E1 at clinically achievable concentrations.
 
-In vitro studies with human cultured hepatocytes indicate that azacitidine at concentrations of 1.0 μM to 100 μM does not induce CYP 1A2, 2C19, or 3A4/5.
+In vitrostudies with human cultured hepatocytes indicate that azacitidine at concentrations of 1.0 μM to 100 μM does not induce CYP 1A2, 2C19, or 3A4/5.
 
-Transporter Systems: An in vitro study with LLC-PK1 cells expressing P-glycoprotein (P-gp) indicated that azacitidine is not a substrate or inhibitor of P-gp.
+Transporter Systems:An in vitro study with LLC-PK1 cells expressing P-glycoprotein (P-gp) indicated that azacitidine is not a substrate or inhibitor of P-gp.
 
 Azacitidine does not inhibit, breast cancer resistance protein (BCRP), organic anion transporters (OAT) OAT1 and OAT3, organic anion transporting polypeptides (OATP) OATP1B1 and OATP1B3, or organic cation transporter (OCT) OCT2 at clinically relevant concentrations.

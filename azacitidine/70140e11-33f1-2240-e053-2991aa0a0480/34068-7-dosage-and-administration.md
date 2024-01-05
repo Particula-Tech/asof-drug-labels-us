@@ -7,7 +7,7 @@ The indications and dosing regimen for Azacitidine for injection differ from tha
 
 ## 2.2 First Treatment Cycle for Adults
 
-The recommended starting dose for the first treatment cycle, for all patients regardless of baseline hematology laboratory values, is 75 mg/m 2 subcutaneously or intravenously, daily for 7 days.
+The recommended starting dose for the first treatment cycle, for all patients regardless of baseline hematology laboratory values, is 75 mg/m 2subcutaneously or intravenously, daily for 7 days.
 Premedicate patients for nausea and vomiting.
 
 Obtain complete blood counts, liver chemistries and serum creatinine prior to the first dose.
@@ -15,7 +15,7 @@ Obtain complete blood counts, liver chemistries and serum creatinine prior to th
 ## 2.3 Subsequent Treatment Cycles for Adults
 
 Repeat cycles every 4 weeks.
-The dose may be increased to 100 mg/m 2 if no beneficial effect is seen after 2 treatment cycles and if no toxicity other than nausea and vomiting has occurred.
+The dose may be increased to 100 mg/m 2if no beneficial effect is seen after 2 treatment cycles and if no toxicity other than nausea and vomiting has occurred.
 It is recommended that patients be treated for a minimum of 4 to 6 cycles.
 However, complete or partial response may require additional treatment cycles.
 Treatment may be continued as long as the patient continues to benefit.
@@ -80,11 +80,11 @@ The suspension will be cloudy.
 Do not filter the suspension after reconstitution.
 Doing so could remove the active substance.
 
-Preparation for Immediate Subcutaneous Administration: For doses requiring more than 1 vial, divide the dose equally between the syringes (e.g., dose 150 mg = 6 mL, 2 syringes with 3 mL in each syringe) and inject into two separate sites.
+Preparation for Immediate Subcutaneous Administration:For doses requiring more than 1 vial, divide the dose equally between the syringes (e.g., dose 150 mg = 6 mL, 2 syringes with 3 mL in each syringe) and inject into two separate sites.
 Due to retention in the vial and needle, it may not be feasible to withdraw all of the suspension from the vial.
 The product may be held at room temperature for up to 1 hour, but must be administered within 1 hour after reconstitution.
 
-Preparation for Delayed Subcutaneous Administration: The reconstituted product may be kept in the vial or drawn into a syringe.
+Preparation for Delayed Subcutaneous Administration:The reconstituted product may be kept in the vial or drawn into a syringe.
 For doses requiring more than 1 vial, divide the dose equally between the syringes (e.g., dose 150 mg = 6 mL, 2 syringes with 3 mL in each syringe) and inject into two separate sites.
 Due to retention in the vial and needle, it may not be feasible to withdraw all of the suspension from the vial.
 The product must be refrigerated immediately.
@@ -102,7 +102,7 @@ Azacitidine for injection suspension is administered subcutaneously.
 Rotate sites for each injection (thigh, abdomen, or upper arm).
 New injections should be given at least one inch from an old site and never into areas where the site is tender, bruised, red, or hard.
 
-Table 2 Suspension Stability: Storage timelines based on the temperature of the diluent for suspension stability storage:
+Table 2 Suspension Stability:Storage timelines based on the temperature of the diluent for suspension stability storage:
 
 Table 2.
 Suspension Stability Storage timelines

@@ -9,8 +9,8 @@ Supportive care allowed in this study included blood transfusion products, antib
 The use of hematopoietic growth factors was prohibited.
 Baseline patient and disease characteristics are summarized in Table 6; the 2 groups were similar.
 
-Azacitidine for injection was administered at a subcutaneous dose of 75 mg/m 2 daily for 7 days every 4 weeks.
-The dose was increased to 100 mg/m 2 if no beneficial effect was seen after 2 treatment cycles.
+Azacitidine for injection was administered at a subcutaneous dose of 75 mg/m 2daily for 7 days every 4 weeks.
+The dose was increased to 100 mg/m 2if no beneficial effect was seen after 2 treatment cycles.
 The dose was decreased and/or delayed based on hematologic response or evidence of renal toxicity.
 Patients in the observation arm were allowed by protocol to cross over to Azacitidine for injection if they had increases in bone marrow blasts, decreases in hemoglobin, increases in red cell transfusion requirements, or decreases in platelets, or if they required a platelet transfusion or developed a clinical infection requiring treatment with antibiotics.
 For purposes of assessing efficacy, the primary endpoint was response rate (as defined in Table 7).
@@ -64,7 +64,7 @@ Response Criteria
 The overall response rate (CR + PR) of 15.7% in Azacitidine for injection-treated patients without AML (16.2% for all Azacitidine for injection randomized patients including AML) was statistically significantly higher than the response rate of 0% in the observation group (p<0.0001) (Table 8).
 The majority of patients who achieved either CR or PR had either 2 or 3 cell line abnormalities at baseline (79%; 11/14) and had elevated bone marrow blasts or were transfusion dependent at baseline.
 Patients responding to Azacitidine for injection had a decrease in bone marrow blasts percentage, or an increase in platelets, hemoglobin or WBC.
-Greater than 90% of the responders initially demonstrated these changes by the 5 th treatment cycle.
+Greater than 90% of the responders initially demonstrated these changes by the 5 thtreatment cycle.
 All patients who had been transfusion dependent became transfusion independent during PR or CR.
 The mean and median duration of clinical response of PR or better was estimated as 512 and 330 days, respectively; 75% of the responding patients were still in PR or better at completion of treatment.
 Response occurred in all MDS subtypes as well as in patients with adjudicated baseline diagnosis of AML.
@@ -104,14 +104,14 @@ At baseline, 95% of the patients were higher risk by FAB classification: RAEB (5
 By IPSS classification, 87% were higher risk: Int-2 (41%), High (47%).
 At baseline, 32% of patients met WHO criteria for AML.
 
-Azacitidine was administered subcutaneously at a dose of 75 mg/m 2 daily for 7 consecutive days every 28 days (which constituted one cycle of therapy).
+Azacitidine was administered subcutaneously at a dose of 75 mg/m 2daily for 7 consecutive days every 28 days (which constituted one cycle of therapy).
 Patients continued treatment until disease progression, relapse after response, or unacceptable toxicity.
 Azacitidine patients were treated for a median of 9 cycles (range 1 to 39), BSC only patients for a median of 7 cycles (range 1 to 26), low dose cytarabine patients for a median of 4.5 cycles (range 1 to 15), and chemotherapy with cytarabine and anthracycline patients for a median of 1 cycle (range 1 to 3, i.e. induction plus 1 or 2 consolidation cycles).
 
 In the Intent-to-Treat analysis, patients treated with azacitidine demonstrated a statistically significant difference in overall survival as compared to patients treated with CCR (median survival of 24.5 months vs. 15.0 months; stratified log-rank p=0.0001).
 The hazard ratio describing this treatment effect was 0.58 (95% CI: 0.43, 0.77).
 
-Kaplan-Meier Curve of Time to Death from Any Cause: (Intent-to-Treat Population)
+Kaplan-Meier Curve of Time to Death from Any Cause:(Intent-to-Treat Population)
 
 Key: AZA = azacitidine; CCR = conventional care regimens; CI = confidence interval; HR = Hazard Ratio
 

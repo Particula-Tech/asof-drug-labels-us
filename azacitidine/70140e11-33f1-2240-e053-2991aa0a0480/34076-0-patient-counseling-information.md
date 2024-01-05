@@ -24,17 +24,7 @@ Infertility
 
 Advise males and females that Azacitidine for injection may impair fertility [see Use in Specific Populations (8.3) and Nonclinical Toxicology(13.1)].
 
-Manufactured For:
-
-Accord Healthcare, Inc.,
-
-1009, Slater Road,
-
-Suite 210-B
-
-Durham, NC 27703,
-
-USA.
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Dive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By:
 
@@ -42,6 +32,6 @@ Intas Pharmaceuticals Limited,
 
 Ahmedabad – 380 054, India
 
-10 6505 0 6021771
+10 6505 1 6026033
 
-Issued: November 2022
+Issued: October 2023
