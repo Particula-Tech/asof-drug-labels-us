@@ -2,11 +2,19 @@
 
 ## Important Dosage and Administration Instructions
 
-Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals (see WARNINGS).
+Acetaminophen and codeine phosphate tablets should be prescribed only by healthcare professionals who are knowledgeable about the use of opioids and how to mitigate the associated risks.
 
-Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse (see WARNINGS).
+Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see Warnings].
+Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of acetaminophen and codeine phosphate tablets for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
 
-Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with acetaminophen and codeine phosphate tablets and adjust the dosage accordingly (see WARNINGS).
+Many acute pain conditions (e.g., the pain that occurs with a number of surgical procedures or acute musculoskeletal injuries) require no more than a few days of an opioid analgesic.
+Clinical guidelines on opioid prescribing for some acute pain conditions are available.
+
+There is variability in the opioid analgesic dose and duration needed to adequately manage pain due both to the cause of pain and to individual patient factors.
+Initiate the dosing regimen for each patient individually, taking into account the patient’s underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse (see WARNINGS).
+
+Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with acetaminophen and codeine phosphate tablets.
+Consider this risk when selecting an initial dose and when making dose adjustments (see WARNINGS).
 
 ## Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
@@ -21,11 +29,8 @@ Consider prescribing naloxone when the patient has household members (including 
 
 ## Initial Dosage
 
-Initiating Treatment with Acetaminophen and Codeine Phosphate Tablets
-
-Dosage should be adjusted according to severity of pain and response of the patient.
-However, it should be kept in mind that tolerance to codeine can develop with continued use and that the incidence of untoward effects is dose related.
-Adult doses of codeine higher than 60 mg are associated with an increased incidence of adverse reactions and are not associated with greater efficacy.
+Use of Acetaminophen and Codeine Phosphate Tablets as the First Opioid Analgesic Initiate treatment with acetaminophen and codeine phosphate tablets in a dosing range of 300 mg to 600 mg of acetaminophen and 30 mg to 60 mg of codeine phosphate every 4 hours as needed for pain, at the lowest dose necessary to achieve adequate analgesia.
+Titrate the dose based upon the individual patient’s response to their initial dose of acetaminophen and codeine phosphate tablets.
 
 The usual adult dosage is: Acetaminophen and Codeine Phosphate Tablets (codeine 15 mg and acetaminophen 300 mg): Take 1 to 2 tablets every 4 hours as needed for pain.
 
@@ -50,11 +55,11 @@ It is safer to underestimate a patient’s 24-hour acetaminophen and codeine pho
 ## Titration and Maintenance of Therapy
 
 Individually titrate acetaminophen and codeine phosphate tablets to a dose that provides adequate analgesia and minimizes adverse reactions.
-Continually reevaluate patients receiving acetaminophen and codeine phosphate tablets to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse (see WARNINGS).
+Continually reevaluate patients receiving acetaminophen and codeine phosphate tablets to assess the maintenance of pain control, signs and symptoms of opioid withdrawal, and other adverse reactions, as well as reassessing for the development of addiction, abuse, or misuse (see WARNINGS).
 Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 
 If the level of pain increases after dosage stabilization, attempt to identify the source of increased pain before increasing the acetaminophen and codeine phosphate tablets dosage.
-If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
+If after increasing the dosage, unacceptable opioid-related adverse reactions are observed (including an increase in pain after dosage increase), consider reducing the dosage (see WARNINGS).
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
 ## Safe Reduction or Discontinuation of Acetaminophen and Codeine Phosphate Tablets
@@ -64,7 +69,7 @@ Rapid discontinuation of opioid analgesics in patients who are physically depend
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
-When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking acetaminophen and codeine phosphate tablets, there are a variety of factors that should be considered, including the dose of acetaminophen and codeine phosphate tablets the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
+When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking acetaminophen and codeine phosphate tablets, there are a variety of factors that should be considered, including the total daily dose of opioid (including acetaminophen and codeine phosphate tablets) the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
 It is important to ensure ongoing care of the patient and to agree on an appropriate tapering schedule and follow-up plan so that patient and provider goals and expectations are clear and realistic.
 When opioid analgesics are being discontinued due to a suspected substance use disorder, evaluate and treat the patient, or refer for evaluation and treatment of the substance use disorder.
 Treatment should include evidence-based approaches, such as medication assisted treatment of opioid use disorder.
@@ -80,7 +85,7 @@ Reassess the patient frequently to manage pain and withdrawal symptoms, should t
 Common withdrawal symptoms include restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 If withdrawal symptoms arise, it may be necessary to pause the taper for a period of time or raise the dose of the opioid analgesic to the previous dose, and then proceed with a slower taper.
-In addition, monitor patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
+In addition, evaluate patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
 
-When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
+When managing patients taking opioid analgesics, particularly those who have been treated an extended period of time, and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
 A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic (see WARNINGS, Withdrawal and DRUG ABUSE AND DEPENDENCE).

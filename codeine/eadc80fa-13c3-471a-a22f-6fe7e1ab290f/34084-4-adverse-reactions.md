@@ -7,6 +7,7 @@ The following serious adverse reactions are described, or described in greater d
 - Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory Depression in Children (see WARNINGS)
 - Neonatal Opioid Withdrawal Syndrome (see WARNINGS)
 - Interactions with CNS Depressants (see WARNINGS)
+- Opioid-Induced Hyperalgesia and Allodynia (see WARNINGS)
 - Severe Hypotension (see WARNINGS)
 - Gastrointestinal Adverse Reactions (see WARNINGS)
 - Seizures (see WARNINGS)
@@ -34,4 +35,7 @@ Skin and Appendages: rash, sweating, urticarial.
 - Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
 - Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 - Anaphylaxis: Anaphylaxis has been reported with ingredients contained in acetaminophen and codeine phosphate tablets.
-- Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids (see CLINICAL PHARMACOLOGY).
+- Androgen deficiency: Cases of androgen deficiency have occurred with use of opioids for an extended period of time (see CLINICAL PHARMACOLOGY).
+- Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration (see WARNINGS).
+- Hypoglycemia: Cases of hypoglycemia have been reported in patients taking opioids.
+  Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).
