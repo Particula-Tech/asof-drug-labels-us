@@ -22,7 +22,7 @@ Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) 
 
 Diazepam Rectal GelRectal Delivery System
 
-INSTRUCTIONS FOR CAREGIVERS UPON RECEIPTFROM PHARMACY
+INSTRUCTIONS FOR CAREGIVERSUPON RECEIPTFROM PHARMACY
 
 - Remove the syringe from the case.
 - Confirm the dose prescribed by your doctor is visible and if known, is correct.
@@ -45,5 +45,5 @@ Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
 
 © 2023 Bausch Health Companies Inc. or its affiliates
 
-9570804 Rev.
-1/2023
+9570805 Rev.
+07/2023

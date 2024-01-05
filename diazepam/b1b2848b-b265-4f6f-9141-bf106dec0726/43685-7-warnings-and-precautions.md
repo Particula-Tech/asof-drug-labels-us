@@ -76,14 +76,18 @@ Interference With Cognitive and Motor Performance:Because benzodiazepines have t
 
 Advise pregnant females that use of diazepam rectal gel late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS: Neonatal Sedation and Withdrawal Syndromeand PRECAUTIONS: Pregnancy).
 Instruct patients to inform their healthcare provider if they are pregnant.
+
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant while taking diazepam rectal gel.
 The registry is collecting information about the safety of antiepileptic drugs during pregnancy (see PRECAUTIONS: Pregnancy).
+
 Lactation Counsel patients that diazepam, the active ingredient in diazepam rectal gel, is present in breast milk.
 Instruct patients to inform their healthcare provider if they are breastfeeding or plan to breastfeed.
 Instruct breastfeeding patients who take diazepam rectal gel to monitor their infants for excessive sedation, poor feeding and poor weight gain, and to seek medical attention if they notice these signs (see PRECAUTIONS: Nursing Mothers).
+
 Concomitant Medication Although diazepam rectal gel is indicated for use solely on an intermittent basis, the potential for a synergistic CNS-depressant effect when used simultaneously with alcohol or other CNS-depressants must be considered by the prescribing physician, and appropriate recommendations made to the patient and/or caregiver.
 Drug Interactions There have been no clinical studies or reports in literature to evaluate the interaction of rectally administered diazepam with other drugs.
 As with all drugs, the potential for interaction by a variety of mechanisms is a possibility.
+
 Effect of Concomitant Use of Benzodiazepines and Opioids: The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
 Benzodiazepines interact at GABA Asites, and opioids interact primarily at mu receptors.
 When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.

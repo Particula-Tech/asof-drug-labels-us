@@ -1,6 +1,4 @@
-ADMINISTRATION AND DISPOSAL INSTRUCTIONS
-
-Diazepam Rectal Gel and Diazepam Rectal Gel Rectal Delivery System C-IV
+ADMINISTRATION AND DISPOSAL INSTRUCTIONS Diazepam Rectal Gel and Diazepam Rectal Gel Delivery System C-IV
 
 IMPORTANT
 
@@ -43,7 +41,8 @@ To know what responses to expect:
 
 If you have any questions or feel unsure about using the treatment, CALL THE DOCTORbefore using Diazepam Rectal Gel.
 
-When to treat.Based on the doctor’s directions or prescription.Your doctor may prescribe a second dose of diazepam rectal gel.
+When to treat.Based on the doctor’s directions or prescription.
+Your doctor may prescribe a second dose of diazepam rectal gel.
 If a second dose is needed, give it 4 hours to 12 hours after the first dose.
 
 ________________________________________________________
@@ -97,10 +96,10 @@ Stay with the person for 4 hours and make notes on the following:
 
 ADMINISTRATION AND DISPOSAL INSTRUCTIONS
 
-Diazepam Rectal Gel and Diazepam Rectal Gel Delivery System CIV
+CIV Diazepam Rectal Gel and Diazepam Rectal Gel Delivery System
 
 Distributed by: Oceanside Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
 
 © 2023 Bausch Health Companies Inc. or its affiliates
 
-Revised: 01/2023 9570804
+Revised: 07/2023 9570805

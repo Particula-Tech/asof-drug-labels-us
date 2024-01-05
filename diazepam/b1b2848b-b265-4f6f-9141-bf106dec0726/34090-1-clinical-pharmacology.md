@@ -19,6 +19,8 @@ The volume of distribution of diazepam rectal gel is calculated to be approximat
 The mean elimination half-life of diazepam and desmethyldiazepam following administration of a 15 mg dose of diazepam rectal gel was found to be about 46 hours (CV=43%) and 71 hours (CV=37%), respectively.
 Both diazepam and its major active metabolite desmethyldiazepam bind extensively to plasma proteins (95-98%).
 
+FIGURE 1:Plasma Concentrations of Diazepam and Desmethyldiazepam Following Diazepam Rectal Gel or IV Diazepam
+
 Metabolism and Elimination:It has been reported in the literature that diazepam is extensively metabolized to one major active metabolite (desmethyldiazepam) and two minor active metabolites, 3-hydroxydiazepam (temazepam) and 3-hydroxy-N-diazepam (oxazepam) in plasma.
 At therapeutic doses, desmethyldiazepam is found in plasma at concentrations equivalent to those of diazepam while oxazepam and temazepam are not usually detectable.
 The metabolism of diazepam is primarily hepatic and involves demethylation (involving primarily CYP2C19 and CYP3A4) and 3-hydroxylation (involving primarily CYP3A4), followed by glucuronidation.
@@ -64,7 +66,11 @@ The median seizure frequency for the diazepam rectal gel treated group was zero 
 All three categories of the global assessment (seizure frequency, seizure severity, and “overall”) were also found to be statistically significant in favor of diazepam rectal gel (p < 0.0001).
 The following histogram displays the results for the “overall” category of the global assessment.
 
+FIGURE 2: Caregiver Overall Global Assessment of the Efficacy of Diazepam Rectal Gel
+
 Patients treated with diazepam rectal gel experienced prolonged time-to-next-seizure compared to placebo (p = 0.0002) as shown in the following graph.
+
+FIGURE 3: Kaplan-Meier Survival Analysis of Time-to-Next-Seizure — First Study
 
 In addition, 62% of patients treated with diazepam rectal gel were seizure-free during the observation period compared to 20% of placebo patients.
 

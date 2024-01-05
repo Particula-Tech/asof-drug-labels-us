@@ -2,7 +2,7 @@
 
 Controlled Substance:Diazepam rectal gel contains diazepam, a Schedule IV controlled substance.
 
-Abuse:Diazepam rectal gel is a benzodiazepine and a CNS depressant with a potential for abuse and addiction.
+Abuse: Diazepam rectal gel is a benzodiazepine and a CNS depressant with a potential for abuse and addiction.
 Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
 Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed.
 Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
@@ -35,8 +35,9 @@ More severe acute withdrawal signs and symptoms, including life-threatening reac
 
 Protracted Withdrawal Syndrome
 
-- Protracted withdrawal syndrome associated with benzodiazepines is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal.
-  Protracted withdrawal symptoms may last weeks to more than 12 months.As a result, there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for which the benzodiazepine was being used.
+Protracted withdrawal syndrome associated with benzodiazepines is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal.
+Protracted withdrawal symptoms may last weeks to more than 12 months.
+As a result, there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for which the benzodiazepine was being used.
 
 Tolerance
 

@@ -59,13 +59,13 @@ All of the events listed below occurred in at least 1% of the 573 individuals ex
 All reported events are included except those already listed above, events unlikely to be drug-related, and those too general to be informative.
 Events are included without regard to determination of a causal relationship to diazepam.
 
-BODY AS A WHOLE:Asthenia
+BODY AS A WHOLE: Asthenia
 
 CARDIOVASCULAR:Hypotension, vasodilatation
 
 NERVOUS:Agitation, confusion, convulsion, dysarthria, emotional lability, speech disorder, thinking abnormal, vertigo
 
-RESPIRATORY:Hiccup
+RESPIRATORY: Hiccup
 
 The following infrequent adverse events were not seen with diazepam rectal gel but have been reported previously with diazepam use: depression, slurred speech, syncope, constipation, changes in libido, urinary retention, bradycardia, cardiovascular collapse, nystagmus, urticaria, neutropenia and jaundice.
 
