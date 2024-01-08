@@ -50,7 +50,7 @@ Absorption
 
 Atazanavir is rapidly absorbed with a Tmax of approximately 2.5 hours.
 Atazanavir demonstrates nonlinear pharmacokinetics with greater than dose-proportional increases in AUC and Cmax values over the dose range of 200 to 800 mg once daily.
-Steady state is achieved between Days 4 and 8, with an accumulation of approximately 2.3 fold.
+Steady state is achieved between Days 4 and 8, with an accumulation of approximately 2.3-fold.
 
 Food Effect
 
@@ -280,7 +280,7 @@ The most common protease substitutions to develop in the viral isolates of subje
 Other substitutions that developed on atazanavir with ritonavir treatment including E34K/A/Q, G48V, I84V, N88S/D/T, and L90M occurred in less than 10% of subject isolates.
 Generally, if multiple PI resistance substitutions were present in the HIV-1 virus of the subject at baseline, atazanavir resistance developed through substitutions associated with resistance to other PIs and could include the development of the I50L substitution.
 The I50L substitution has been detected in treatment-experienced subjects experiencing virologic failure after long-term treatment.
-Protease cleavage site changes also emerged on atazanavir treatment but their presence did not correlate with the level of atazanavir resistance.
+Protease cleavage site changes also emerged on atazanavir treatment, but their presence did not correlate with the level of atazanavir resistance.
 
 Cross-Resistance
 
@@ -294,7 +294,7 @@ In treatment-experienced subjects, PI-resistant viral isolates that developed th
 Baseline Genotype/Phenotype and Virologic Outcome Analyses
 
 Genotypic and/or phenotypic analysis of baseline virus may aid in determining atazanavir susceptibility before initiation of atazanavir with ritonavir therapy.
-An association between virologic response at 48 weeks and the number and type of primary PI resistance-associated substitutions detected in baseline HIV-1 isolates from antiretroviral-experienced subjects receiving atazanavir with ritonavir once daily or lopinavir/ritonavir (fixed-dose product) twice daily in Study AI424-045 is shown in Table 24.
+An association between virologic response at 48 weeks and the number and type of primary PI resistance-associated substitutions detected in baseline HIV-1 isolates from antiretroviral-experienced subjects receiving atazanavir with ritonavir once daily or lopinavir / ritonavir (fixed-dose product) twice daily in Study AI424-045 is shown in Table 24.
 
 Overall, both the number and type of baseline PI substitutions affected response rates in treatment-experienced subjects.
 In the atazanavir with ritonavir group, subjects had lower response rates when 3 or more baseline PI substitutions, including a substitution at position 36, 71, 77, 82, or 90, were present compared to subjects with 1 to 2 PI substitutions, including one of these substitutions.

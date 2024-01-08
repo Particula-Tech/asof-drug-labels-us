@@ -20,7 +20,7 @@ Inform patients that asymptomatic elevations in indirect bilirubin have occurred
 This may be accompanied by yellowing of the skin or whites of the eyes and alternative antiretroviral therapy may be considered if the patient has cosmetic concerns [see Warnings and Precautions (5.8)].
 Chronic Kidney Disease Inform patients that treatment with atazanavir may lead to the development of chronic kidney disease, and to maintain adequate hydration while taking atazanavir [see Warnings and Precautions (5.5)].
 Nephrolithiasis and Cholelithiasis Inform patients that kidney stones and/or gallstones have been reported with atazanavir use.
-Some patients with kidney stones and/or gallstones required hospitalization for additional management and some had complications.
+Some patients with kidney stones and/or gallstones required hospitalization for additional management, and some had complications.
 Discontinuation of atazanavir may be necessary as part of the medical management of these adverse events [see Warnings and Precautions (5.6)].
 
 Drug Interactions
@@ -44,6 +44,6 @@ Pregnancy
 Inform pregnant patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in pregnant patients exposed to atazanavir during pregnancy.
 Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry [see Use in Specific Populations (8.1)].
 Lactation Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk.
-Atazanavir can also be passed to the baby in breast milk and it is not known whether it could harm the baby [see Use in Specific Populations (8.2)].
+Atazanavir can also be passed to the baby in breast milk, and it is not known whether it could harm the baby [see Use in Specific Populations (8.2)].
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 01/2023
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 01/2024

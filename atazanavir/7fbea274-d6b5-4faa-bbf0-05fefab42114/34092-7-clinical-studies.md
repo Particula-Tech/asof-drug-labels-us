@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Adult Patients without Prior Antiretroviral Therapy
+## 14.1 Adult Subjects without Prior Antiretroviral Therapy
 
 Study AI424-138: a 96-week study comparing the antiviral efficacy and safety of either atazanavir or lopinavir/ritonavir, each in combination with fixed-dose tenofovir DF-emtricitabine in treatment-naive subjects with HIV-1 infection.
 Study AI424-138 (NCT00272779) was a 96-week, open-label, randomized, multicenter study, comparing atazanavir (300 mg once daily) with ritonavir (100 mg once daily) to lopinavir/ritonavir (400/100 mg twice daily as fixed-dose product), each in combination with the fixed-dose product, tenofovir DF/emtricitabine (300/200 mg once daily), in 878 antiretroviral treatment-naive subjects.
@@ -70,7 +70,7 @@ Table 28: Outcomes of Randomized Treatment Through Week 48 in Treatment-Naive Ad
 
 Through 48 weeks of therapy, the mean increase from baseline in CD4+ cell count was 234 cells/mm3 for the atazanavir 400 mg arm and 211 cells/mm3 for the nelfinavir arm.
 
-## 14.2 Adult Patients with Prior Antiretroviral Therapy
+## 14.2 Adult Subjects with Prior Antiretroviral Therapy
 
 Study AI424-045: Atazanavir once daily with ritonavir once daily compared to atazanavir once daily and saquinavir (soft gelatin capsules) once daily, and compared to lopinavir/ritonavir twice daily, each in combination with tenofovir DF and one NRTI.
 Study AI424-045 (NCT00035932): was a randomized, multicenter trial comparing atazanavir (300 mg once daily) with ritonavir (100 mg once daily) to atazanavir (400 mg once daily) with saquinavir soft gelatin capsules (1200 mg once daily), and to lopinavir/ritonavir (400/100 mg twice daily as fixed-dose product), each in combination with tenofovir DF and one NRTI, in 347 (of 358 randomized) subjects who experienced virologic failure on highly active antiretroviral therapy regimens containing PIs, NNRTIs, and NRTIs.

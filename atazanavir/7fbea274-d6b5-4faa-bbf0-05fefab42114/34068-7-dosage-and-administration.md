@@ -69,7 +69,7 @@ Table 4: Recommended Dosage of Atazanavir Capsules and Ritonavir in Pregnant Pat
 | Treatment-Naive and Treatment-Experienced |  |  |
 | Recommended Regimen | 300 mg | 100 mg |
 | Treatment-Experienced During the Second or Third Trimester When Coadministered with either H2RA or Tenofovir DFb |  |  |
-| In combination with EITHER H2RA OR tenofovir | 400 mg | 100 mg |
+| In combination with EITHER H2RA OR tenofovir DF | 400 mg | 100 mg |
 | a See Drug Interactions (7) for instructions concerning coadministration of acid-reducing medications (e.g., H2RA or PPIs), and other antiretroviral drugs (e.g., efavirenz, tenofovir DF, and didanosine). b Atazanavir capsules are not recommended for treatment-experienced pregnant patients during the second and third trimester taking atazanavir capsules with BOTH tenofovir DF and H2RA. |  |  |
 
 ## 2.7 Dosage in Patients with Renal Impairment

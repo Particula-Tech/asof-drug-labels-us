@@ -37,7 +37,7 @@ In patients with progressive kidney disease, discontinuation of atazanavir may b
 ## 5.6 Nephrolithiasis and Cholelithiasis
 
 Cases of nephrolithiasis and/or cholelithiasis have been reported during postmarketing surveillance in patients with HIV-1 infection receiving atazanavir therapy.
-Some patients required hospitalization for additional management and some had complications.
+Some patients required hospitalization for additional management, and some had complications.
 Because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made.
 If signs or symptoms of nephrolithiasis and/or cholelithiasis occur, temporary interruption or discontinuation of therapy may be considered [see Adverse Reactions (6.2)].
 
@@ -49,7 +49,7 @@ These interactions may lead to:
 
 - clinically significant adverse reactions potentially leading to severe, life-threatening, or fatal events from greater exposures of concomitant medications.
 - clinically significant adverse reactions from greater exposures of atazanavir with ritonavir.
-- loss of therapeutic effect of atazanavir with ritonavir and possible development of resistance.
+- loss of therapeutic effect (virologic response) of atazanavir with ritonavir and possible development of resistance.
 
 See Table 16 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
 Consider the potential for drug interactions prior to and during therapy containing atazanavir with ritonavir; and monitor for the adverse reactions associated with concomitant medications [see Contraindications (4) and Drug Interactions (7)].
@@ -74,7 +74,7 @@ Because these events have been reported voluntarily during clinical practice, es
 ## 5.10 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including atazanavir.
-During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jiroveci pneumonia, or tuberculosis), which may necessitate further evaluation and treatment.
+During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia, or tuberculosis), which may necessitate further evaluation and treatment.
 
 Autoimmune disorders (such as Graves’ disease, polymyositis, Guillain-Barré syndrome, and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
@@ -87,7 +87,7 @@ A causal relationship has not been established.
 ## 5.12 Hemophilia
 
 There have been reports of increased bleeding, including spontaneous skin hematomas and hemarthrosis, in patients with hemophilia type A and B treated with protease inhibitors.
-In some patients additional factor VIII was given.
+In some patients, additional factor VIII was given.
 In more than half of the reported cases, treatment with protease inhibitors was continued or reintroduced.
 A causal relationship between protease inhibitor therapy and these events has not been established.
 

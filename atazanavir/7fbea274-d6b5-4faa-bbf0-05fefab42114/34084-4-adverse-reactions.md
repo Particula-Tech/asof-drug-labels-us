@@ -201,7 +201,7 @@ ALT levels >5 times ULN developed in 10% (6/60) of the subjects administered ata
 AST levels >5 times ULN developed in 10% (6/60) of the subjects administered atazanavir with ritonavir and none (0/50) of the subjects treated with lopinavir/ritonavir.
 
 In Study AI424-045, 20 subjects administered atazanavir 300 mg with ritonavir 100 mg once daily, and 18 subjects treated with lopinavir/ritonavir 400 mg/100 mg twice daily (as fixed-dose product), were seropositive for hepatitis B and/or C at study entry.
-ALT levels >5 times ULN developed in 25% (5/20) of the subjects administered atazanavir with ritonavir and 6% (1/18) of the subjects treated with lopinavir/ritonavir-treated.
+ALT levels >5 times ULN developed in 25% (5/20) of the subjects administered atazanavir with ritonavir and 6% (1/18) of the subjects treated with lopinavir/ritonavir treated.
 AST levels >5 times ULN developed in 10% (2/20) of the subjects administered atazanavir with ritonavir and 6% (1/18) of the subjects treated with lopinavir/ritonavir.
 
 In Studies AI424-008 and AI424-034, 74 subjects treated with atazanavir 400 mg once daily, 58 who received efavirenz, and 12 who received nelfinavir were seropositive for hepatitis B and/or C at study entry.

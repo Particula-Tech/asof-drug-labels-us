@@ -24,8 +24,11 @@ Do not take atazanavir capsules if you:
   Atazanavir capsules may cause serious or life-threatening side effects, or death when used with these medicines:
   - alfuzosin
   - amiodarone (when atazanavir capsules are used with ritonavir)
+  - apalutamide
+  - carbamazepine
   - cisapride
   - elbasvir and grazoprevir
+  - encorafenib
   - ergot medicines including:
     - dihydroergotamine
     - ergonovine
@@ -34,11 +37,14 @@ Do not take atazanavir capsules if you:
   - glecaprevir and pibrentasvir
   - indinavir
   - irinotecan
+  - ivosidenib
   - lurasidone (when atazanavir capsules are used with ritonavir)
   - lomitapide
   - lovastatin
   - midazolam, when taken by mouth for sedation
   - nevirapine
+  - phenobarbital
+  - phenytoin
   - pimozide
   - quinidine (when atazanavir capsules are used with ritonavir)
   - rifampin
@@ -56,19 +62,19 @@ Before taking atazanavir capsules, tell your healthcare provider about all of yo
 - have diabetes
 - have hemophilia
 - are pregnant or plan to become pregnant.
-- Atazanavir capsules must be taken with ritonavir during pregnancy.
-- Hormonal forms of birth control, such as injections, vaginal rings or implants, contraceptive patch, and some birth control pills may not work during treatment with atazanavir capsules.
-  Talk to your healthcare provider about forms of birth control that may be used during treatment with atazanavir capsules.
-- Pregnancy Exposure Registry.
-  There is a pregnancy exposure registry for people who take atazanavir capsules during pregnancy.
-  The purpose of this registry is to collect information about the health of you and your baby.
-  Talk to your healthcare provider about how you can take part in this registry.
-- After your baby is born, tell your healthcare provider if your baby’s skin or the white part of their eyes turns yellow.
+  - Atazanavir capsules must be taken with ritonavir during pregnancy.
+  - Hormonal forms of birth control, such as injections, vaginal rings or implants, contraceptive patch, and some birth control pills may not work during treatment with atazanavir capsules.
+    Talk to your healthcare provider about forms of birth control that may be used during treatment with atazanavir capsules.
+  - Pregnancy Exposure Registry.
+    There is a pregnancy exposure registry for people who take atazanavir capsules during pregnancy.
+    The purpose of this registry is to collect information about the health of you and your baby.
+    Talk to your healthcare provider about how you can take part in this registry.
+  - After your baby is born, tell your healthcare provider if your baby’s skin or the white part of their eyes turns yellow.
 - are breastfeeding or plan to breastfeed.
   Do not breastfeed if you are taking atazanavir capsules.
-- You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
-  Atazanavir can pass into your breast milk.
-- Talk to your healthcare provider about the best way to feed your baby.
+  - You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
+    Atazanavir can pass into your breast milk.
+  - Talk to your healthcare provider about the best way to feed your baby.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -209,4 +215,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 01/2023
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 01/2024
