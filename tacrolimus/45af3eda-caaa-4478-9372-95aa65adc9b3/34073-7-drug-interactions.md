@@ -25,3 +25,9 @@ Table 15: Effects of Other Drugs/Substances on TacrolimusTacrolimus dosage adjus
 
 The pharmacokinetics of tacrolimus may be impacted by changes in liver function during DAA therapy, related to clearance of HCV virus.
 Close monitoring and potential dose adjustment of tacrolimus capsules is warranted to ensure continued efficacy and safety [see Dosage and Administration (2.2, 2.6)].
+
+## 7.3 Cannabidiol
+
+The blood levels of tacrolimus may increase upon concomitant use with cannabidiol.
+When cannabidiol and tacrolimus are co-administered, closely monitor for an increase in tacrolimus blood levels and for adverse reactions suggestive of tacrolimus toxicity.
+A dose reduction of tacrolimus should be considered as needed when tacrolimus is co-administered with cannabidiol [see Dosage and Administration (2.2, 2.6) and Warnings and Precautions (5.17)].
