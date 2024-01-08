@@ -1,11 +1,9 @@
 # BOXED WARNING
 
 Congestive Heart Failure, Cardiac Effects and Drug Interactions: If signs or symptoms of congestive heart failure occur during administration of itraconazole oral solution, continued itraconazole use should be reassessed.
-When itraconazole was administered intravenously to dogs and healthy human volunteers, negative inotropic effects were seen (see CONTRAINDICATIONS, WARNINGS, PRECAUTIONS).
+When itraconazole was administered intravenously to dogs and healthy human volunteers, negative inotropic effects were seen (see CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions, ADVERSE REACTIONS: Post-marketing Experience, and CLINICAL PHARMACOLOGY: Special Populations for more information).
 
-Drug Interactions, ADVERSE REACTIONS: Post-marketing Experience, and CLINICAL PHARMACOLOGY: Special Populations for more information.
-
-Drug Interactions: Co-administration of the following drugs are contraindicated with itraconazole oral solution: methadone, disopyramide, dofetilide, dronedarone, quinidine, isavuconazole, ergot alkaloids (such as dihydroergotamine, ergometrine (ergonovine), ergotamine, methylergometrine (methylergonovine)), irinotecan, lurasidone, oral midazolam, pimozide, triazolam, felodipine, nisoldipine, ivabradine, ranolazine, eplerenone, cisapride, naloxegol, lomitapide, lovastatin, simvastatin, avanafil, ticagrelor.
+Drug Interactions: Co-administration of the following drugs are contraindicated with itraconazole oral solution: methadone, disopyramide, dofetilide, dronedarone, quinidine, isavuconazole, ergot alkaloids (such as dihydroergotamine, ergometrine (ergonovine), ergotamine, methylergometrine (methylergonovine), irinotecan, lurasidone, oral midazolam, pimozide, triazolam, felodipine, nisoldipine, ivabradine, ranolazine, eplerenone, cisapride, naloxegol, lomitapide, lovastatin, simvastatin, avanafil, ticagrelor, finerenone, voclosporin.
 In addition, co-administration with colchicine, fesoterodine and solifenacin is contraindicated in subjects with varying degrees of renal or hepatic impairment, and co-administration with eliglustat is contraindicated in subjects that are poor or intermediate metabolizers of CYP2D6 and in subjects taking strong or moderate CYP2D6 inhibitors.
 Co-administration with venetoclax is contraindicated in patients with chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL) during the dose initiation and ramp-up phase of venetoclax (see PRECAUTIONS: Drug Interactions Section for specific examples).
 Co-administration with itraconazole can cause elevated plasma concentrations of these drugs and may increase or prolong both the pharmacologic effects and/or adverse reactions to these drugs.

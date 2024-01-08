@@ -34,7 +34,7 @@ Concomitant administration of itraconazole and felodipine or nisoldipine is cont
 
 Cases of CHF, peripheral edema, and pulmonary edema have been reported in the post-marketing period among patients being treated for onychomycosis and/or systemic fungal infections (see CONTRAINDICATIONS, CLINICAL PHARMACOLOGY: Special Populations, PRECAUTIONS: Drug Interactions, and ADVERSE REACTIONS: Post-marketing Experience for more information).
 
-## Interaction potential:
+## Interaction Potential:
 
 Itraconazole has a potential for clinically important drug interactions.
 Co-administration of specific drugs with itraconazole may result in changes in efficacy of itraconazole and/or the co-administered drug, life-threatening effects and/or sudden death.
@@ -145,12 +145,13 @@ Table 1: Drug Interactions with Itraconazole that Affect Concomitant Drug Concen
 | Artemether-lumefantrineQuininea |  | Monitor for adverse reactions. |
 | Antimigraine Drugs |  |  |
 | Ergot alkaloids (e.g., dihydroergotamine, ergotamine) |  | Contraindicated during and 2 weeks after itraconazole treatment. |
-| Eletriptan |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary |
+| Eletriptan |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Antineoplastics |  |  |
 | Irinotecan |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | Venetoclax |  | Contraindicated during the dose initiation and ramp-up phase in patients with CLL/SLL. Refer to the venetoclax prescribing information for dosing and safety monitoring instructions. |
-| AxitinibBosutinibCabazitaxelCabozantinibCeritinibCobimetinibaCrizotinibDabrafenibDasatinib | DocetaxelIbrutinibLapatinibNilotinibOlaparibaPazopanibSunitinibTrabectedin Trastuzumab-emtansineVinca alkaloids | Not recommended during and 2 weeks after itraconazole treatment. |
-| Talazopariba | Refer to the talazoparib prescribing information for dosing instructions if concomitant use cannot be avoided. |  |
+| Mobocertiniba |  | Avoid use during and 2 weeks after itraconazole treatment. |
+| AxitinibBosutinibCabazitaxelCabozantinibCeritinibCobimetinibaCrizotinibDabrafenibDasatinib | DocetaxelIbrutinibLapatinibNilotinibOlaparibaPazopanibSunitinibTrabectedin Trastuzumab-emtansineVinca alkaloids | Avoid use during and 2 weeks after itraconazole treatment. |
+| EntrectinibaPemigatinibaTalazopariba | Refer to the entrectinib, pemigatinib and talazoparib prescribing information for dosing instructions if concomitant use cannot be avoided. |  |
 | Glasdegib | Refer to the glasdegib prescribing information for safety monitoring if concomitant use cannot be avoided. |  |
 | BortezomibBrentuximab-vedotinBusulfanErlotinibGefitinibaIdelalisibImatinibIxabepilone | Nintedanib Panobinostat PonatinibRuxolitinib SonidegibTretinoin (oral)Vandetaniba | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For idelalisib: see also Table 2. |
 | Antipsychotics, Anxiolytics and Hypnotics |  |  |
@@ -173,12 +174,13 @@ Table 1: Drug Interactions with Itraconazole that Affect Concomitant Drug Concen
 | Contraceptives* |  |  |
 | DienogestUlipristal |  | Monitor for adverse reactions. |
 | Diuretics |  |  |
-| Eplerenone |  | Contraindicated during and 2 weeks after itraconazole treatment. |
+| EplerenoneEplerenone |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | Gastrointestinal Drugs |  |  |
 | CisaprideNaloxegol |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | AprepitantLoperamidea |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Netupitant |  | Monitor for adverse reactions. |
 | Immunosuppressants |  |  |
+| Voclosporin |  | Contraindicated during and for 2 weeks after itraconazole treatment. |
 | EverolimusSirolimusTemsirolimus (IV) |  | Not recommended during and 2 weeks after itraconazole treatment. |
 | Budesonide(inhalation)aBudesonide (non-inhalation)Ciclesonide(inhalation)Cyclosporine (IV)aCyclosporine (non-IV)Dexamethasonea | Fluticasone (inhalation)aFluticasone (nasal) MethylprednisoloneaTacrolimus (IV)aTacrolimus (oral) | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Lipid-Lowering Drugs |  |  |
@@ -230,8 +232,7 @@ Refer to the approved product labeling to become familiar with the interaction p
 
 Although many of the clinical drug interactions in Table 2 below are based on information with a similar azole antifungal, ketoconazole, these interactions are expected to occur with itraconazole.
 
-Table 2.
-Drug Interactions with Other Drugs that Affect Itraconazole Concentrations
+Table 2: Drug Interactions with Other Drugs that Affect Itraconazole Concentrations
 
 | Concomitant Drug Within Class |  | Prevention or Management |  |  |
 | --- | --- | --- | --- | --- |
@@ -272,7 +273,7 @@ These sarcomas may have been a consequence of hypercholesterolemia, which is a r
 Female rats treated with 50 mg/kg/day (6.25 times the MRHD) had an increased incidence of squamous cell carcinoma of the lung (2/50) as compared to the untreated group.
 Although the occurrence of squamous cell carcinoma in the lung is extremely uncommon in untreated rats, the increase in this study was not statistically significant.
 
-Itraconazole produced no mutagenic effects when assayed in DNA repair test (unscheduled DNA synthesis) in primary rat hepatocytes, in Ames tests with Salmonella typhimurium (6 strains) and Escherichia coli, in the mouse lymphoma gene mutation tests, in a sex-linked recessive lethal mutation (Drosophila melanogaster) test, in chromosome aberration tests in human lymphocytes, in a cell transformation test with C3H/10T½ C18 mouse embryo fibroblasts cells, in a dominant lethal mutation test in male and female mice, and in micronucleus tests in mice and rats.
+Itraconazole produced no mutagenic effects when assayed in DNA repair test (unscheduled DNA synthesis) in primary rat hepatocytes, in Ames tests with Salmonella typhimurium (6 strains) and Escherichia coli, in the mouse lymphoma gene mutation tests, in a sex-linked recessive lethal mutation (Drosophila melanogaster) test, in chromosome aberration tests in human lymphocytes, in a cell transformation test with C3H/10T1/2;;; C18 mouse embryo fibroblasts cells, in a dominant lethal mutation test in male and female mice, and in micronucleus tests in mice and rats.
 
 Itraconazole did not affect the fertility of male or female rats treated orally with dosage levels of up to 40 mg/kg/day (5 times the MRHD), even though parental toxicity was present at this dosage level.
 More severe signs of parental toxicity, including death, were present in the next higher dosage level, 160 mg/kg/day (20 times the MRHD).
@@ -298,7 +299,7 @@ HP-β-CD has no antifertile effect, and is not mutagenic.
 
 ## Pregnancy:
 
-Teratogenic effects.
+Teratogenic Effects:
 
 Itraconazole was found to cause a dose-related increase in maternal toxicity, embryotoxicity, and teratogenicity in rats at dosage levels of approximately 40 to 160 mg/kg/day (5 to 20 times the MRHD), and in mice at dosage levels of approximately 80 mg/kg/day (10 times the MRHD).
 Itraconazole has been shown to cross the placenta in a rat model.
