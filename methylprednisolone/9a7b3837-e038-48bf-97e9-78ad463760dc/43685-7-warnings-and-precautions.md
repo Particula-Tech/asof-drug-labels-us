@@ -48,7 +48,7 @@ This type of relative insufficiency may persist for months after discontinuation
 
 ## Infections
 
-General
+### General
 
 Persons who are on corticosteroids are more susceptible to infections than are healthy individuals.
 There may be decreased resistance and inability to localize infection when corticosteroids are used.
@@ -59,39 +59,39 @@ With increasing doses of corticosteroids, the rate of occurrence of infectious c
 Do not use intra-articularly, intrabursally, or for intratendinous administration for local effect in the presence of an acute infection.
 Corticosteroids may mask some signs of infection and new infections may appear during their use.
 
-Fungal Infections
+### Fungal Infections
 
 Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control drug interactions.
 There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions, Amphotericin B injection and potassium-depleting agents).
 
-Special Pathogens
+### Special Pathogens
 
 Latent disease may be activated or there may be an exacerbation of intercurrent infections due to pathogens, including those caused by Amoeba, Candida, Cryptococcus, Mycobacterium, Nocardia, Pneumocystis, and Toxoplasma.
 
 It is recommended that latent amebiasis or active amebiasis be ruled out before initiating corticosteroid therapy in any patient who has spent time in the tropics or in any patient with unexplained diarrhea.
 
 Similarly, corticosteroids should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
-In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
+In such patients, corticosteroid‑induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
 
 Corticosteroids should not be used in cerebral malaria.
 There is currently no evidence of benefit from steroids in this condition.
 
-Tuberculosis
+### Tuberculosis
 
 The use of corticosteroids in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen.
 
 If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary, as reactivation of the disease may occur.
-During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
+During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis
 
-Vaccinations
+### Vaccinations
 
 Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
 Killed or inactivated vaccines may be administered.
 However, the response to such vaccines cannot be predicted.
 
-Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy (e.g., for Addison's disease).
+Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy (e.g., for Addison’s disease).
 
-Viral Infections
+### Viral Infections
 
 Chicken pox and measles can have a more serious or even fatal course in pediatric and adult patients on corticosteroids.
 In pediatric and adult patients who have not had these diseases, particular care should be taken to avoid exposure.
@@ -179,6 +179,11 @@ If steroid therapy is continued long-term, intraocular pressure should be monito
 
 Corticosteroids should be used cautiously in patients with ocular herpes simplex for fear of corneal perforation.
 
+## Tumor Lysis Syndrome
+
+In post marketing experience tumor lysis syndrome (TLS) has been reported in patients with malignancies, including hematological malignancies and solid tumors, following the use of systemic corticosteroids alone or in combination with other chemotherapeutic agents.
+Patients at high risk of TLS, such as patients with tumors that have a high proliferative rate, high tumor burden and high sensitivity to cytotoxic agents, should be monitored closely and appropriate precautions should be taken.
+
 ## Information for the Patient
 
 Patients should be warned not to discontinue the use of corticosteroids abruptly or without medical supervision, to advise any medical attendants that they are taking corticosteroids and to seek medical advice at once should they develop a fever or other signs of infection.
@@ -238,7 +243,9 @@ Steroids may increase or decrease motility and number of spermatozoa in some pat
 
 Corticosteroids have been shown to impair fertility in male rats.
 
-## Pregnancy: Teratogenic Effects
+## Pregnancy
+
+### TeratogenicEffects
 
 Corticosteroids have been shown to be teratogenic in many species when given in doses equivalent to the human dose.
 Animal studies in which corticosteroids have been given to pregnant mice, rats, and rabbits have yielded an increased incidence of cleft palate in the offspring.
