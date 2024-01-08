@@ -12,9 +12,3 @@ Patients' caregivers should be informed that like other NSAIDS, Ibuprofen Lysine
 Administration
 
 Patients' caregivers should be informed that the infants' skin and tissues should be monitored as leakage from administration may be irritating to tissue.
-
-Manufactured by: Alcami Carolinas Corporation, Charleston, SC 29405, U.S.A.
-
-For: Prasco Laboratories, Mason, OH 45040, U.S.A.
-
-Revised: 03/2021

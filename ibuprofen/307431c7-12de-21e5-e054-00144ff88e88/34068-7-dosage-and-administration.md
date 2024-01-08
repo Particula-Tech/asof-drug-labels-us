@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-2.1 Recommended Dose
+## 2.1 Recommended Dose
 
 A course of therapy is three doses of Ibuprofen Lysine administered intravenously (administration via an umbilical arterial line has not been evaluated).
 An initial dose of 10 mg per kilogram is followed by two doses of 5 mg per kilogram each, after 24 and 48 hours.
@@ -9,7 +9,7 @@ If anuria or marked oliguria (urinary output <0.6 mL/kg/hr) is evident at the sc
 If the ductus arteriosus closes or is significantly reduced in size after completion of the first course of Ibuprofen Lysine, no further doses are necessary.
 If during continued medical management the ductus arteriosus fails to close or reopens, then a second course of Ibuprofen Lysine, alternative pharmacological therapy, or surgery may be necessary.
 
-2.2 Directions for Use
+## 2.2 Directions for Use
 
 For intravenous administration only.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
