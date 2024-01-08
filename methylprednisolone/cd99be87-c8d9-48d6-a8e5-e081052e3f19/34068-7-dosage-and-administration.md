@@ -70,9 +70,9 @@ When these substances or their derivatives are injected intramuscularly or into 
 
 DIRECTIONS FOR USING THE ACT-O-VIAL SYSTEM
 
-1. Press down on plastic activator to force diluent into the lower compartment.
-2. Gently agitate to effect solution.
-3. Remove plastic tab covering center of stopper.
-4. Sterilize top of stopper with a suitable germicide.
-5. Insert needle squarely through center of stopper until tip is just visible.
+1. 1.Press down on plastic activator to force diluent into the lower compartment.
+2. 2.Gently agitate to effect solution.
+3. 3.Remove plastic tab covering center of stopper.
+4. 4.Sterilize top of stopper with a suitable germicide.
+5. 5.Insert needle squarely through center of stopper until tip is just visible.
    Invert vial and withdraw dose.
