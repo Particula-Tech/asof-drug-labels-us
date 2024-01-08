@@ -35,7 +35,7 @@ An event was considered treatment-emergent if it occurred for the first time or 
 
 Pediatric Patients
 
-Adverse reaction information for pediatric patients was collected in double-blind placebo-controlled studies in 576 pediatric patients 6 to 17 years of age, (286 escitalopram oxalate, 290 placebo) with major depressive disorder and in 273 pediatric patients 7 to 17 years of age (137 escitalopram oxalate, 136 placebo) with generalized anxiety disorder.
+Adverse reaction information for pediatric patients was collected in double-blind placebo-controlled studies in 576 pediatric patients 6 to 17 years of age, (286 escitalopram oxalate, 290 placebo) with major depressive disorder.
 
 The safety and effectiveness of escitalopram oxalate have not been established in pediatric patients less than 12 years of age with MDD or less than 7 years of age with GAD.
 
@@ -65,11 +65,6 @@ Adults
 
 Among the 429 GAD patients who received escitalopram oxalate 10 to 20 mg/day in placebo-controlled trials, 8% discontinued treatment due to an adverse event, as compared to 4% of 427 patients receiving placebo.
 Adverse reactions that were associated with the discontinuation of at least 1% of patients treated with escitalopram oxalate, and for which the rate was at least twice the placebo rate, were nausea (2%), insomnia (1%), and fatigue (1%).
-
-Pediatric Patients
-
-Adverse reactions in pediatric patients 7 to 17 years were associated with discontinuation of 2.9% of 137 patients receiving escitalopram oxalate and 1.5% of 136 patients receiving placebo.
-The most common adverse reaction (incidence at least 1% for escitalopram oxalate and greater than placebo) associated with discontinuation was activation syndrome (1% escitalopram oxalate, 0% placebo), intentional self injury (1% escitalopram oxalate, 0% placebo), epistaxis (1% escitalopram oxalate, 0% placebo), and nausea (1% escitalopram oxalate, 0% placebo).
 
 Incidence of Adverse Reactions in Placebo-Controlled Clinical Trials
 
@@ -168,11 +163,6 @@ Reactions included are those occurring in 2% or more of patients treated with es
 | Anorgasmia3 | 6% | < 1% |
 | Menstrual Disorder | 2% | 1% |
 | 1Primarily ejaculatory delay.2Denominator used was for males only (N=182 escitalopram oxalate; N=195 placebo).3Denominator used was for females only (N=247 escitalopram oxalate; N=232 placebo). |  |  |
-
-Pediatric Patients
-
-The overall profile of adverse reactions in pediatric patients 7 to 17 years in generalized anxiety disorder was generally similar to that seen in adult studies, as shown in Table 3.
-However, the following adverse reactions (excluding those which appear in Table 3) were reported at an incidence of at least 2% for escitalopram oxalate and greater than placebo: dizziness (3% escitalopram oxalate and 2% placebo), nasopharyngitis (3% escitalopram oxalate and 1% placebo), abdominal discomfort (3% escitalopram oxalate and 1% placebo), anxiety (3% escitalopram oxalate and 1% placebo), irritability (2% escitalopram oxalate and 1% placebo), and anger (2% escitalopram oxalate and 0% placebo).
 
 Dose Dependency of Adverse Reactions
 
@@ -281,6 +271,9 @@ Special Senses: vision blurred, tinnitus.
 
 Urinary System Disorders: urinary frequency, urinary tract infection.
 
+Additional pediatric use information is approved for AbbVie Inc.’s LEXAPRO (escitalopram) oral solution.
+However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+
 ## 6.2 Post-Marketing Experience
 
 Adverse Reactions Reported Subsequent to the Marketing of Escitalopram
@@ -322,8 +315,8 @@ Renal and Urinary Disorders: acute renal failure, dysuria, urinary retention.
 
 Reproductive System and Breast Disorders: menorrhagia, priapism.
 
-Respiratory, Thoracic and Mediastinal Disorders: dyspnea, epistaxis, pulmonary embolism, pulmonary hypertension of the newborn.
+Respiratory, Thoracic and Mediastinal Disorders: anosmia, dyspnea, epistaxis, pulmonary embolism, hyposmia, pulmonary hypertension of the newborn.
 
-Skin and Subcutaneous Tissue Disorders: alopecia, angioedema, dermatitis, ecchymosis, erythema multiforme, photosensitivity reaction, Stevens Johnson Syndrome, toxic epidermal necrolysis, urticaria.
+Skin and Subcutaneous Tissue Disorders: alopecia, angioedema, dermatitis, drug reaction with eosinophilia and systemic symptoms (DRESS), ecchymosis, erythema multiforme, photosensitivity reaction, Stevens Johnson Syndrome, toxic epidermal necrolysis, urticaria.
 
 Vascular Disorders: deep vein thrombosis, flushing, hypertensive crisis, hypotension, orthostatic hypotension, phlebitis, thrombosis.

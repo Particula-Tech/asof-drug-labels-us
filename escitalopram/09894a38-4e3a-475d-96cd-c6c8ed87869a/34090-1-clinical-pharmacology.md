@@ -58,8 +58,6 @@ Specific Populations
 
 Pediatric Patients
 
-Pediatric patients 7 to 11 years of age: Based on population PK simulations, following multiple dosing of 20 mg/day escitalopram, steady-state Cmax and AUCtau of escitalopram were increased by 93% and 86%, respectively in pediatric patients with GAD 7 to 11 years of age compared to adults.
-
 Pediatric patients 12 to 17 years of age: In a single dose study of 10 mg escitalopram, AUC of escitalopram decreased by 19%, and Cmax increased by 26% in healthy pediatric subjects 12 to 17 years of age compared to adults.
 Following multiple dosing of 40 mg/day citalopram, escitalopram elimination half-life, steady-state Cmax and AUC were similar in pediatric patients 12 to 17 years of age with MDD compared to adults [see Use in Specific Populations (8.4)].
 
@@ -141,3 +139,6 @@ Warfarin
 Administration of 40 mg/day racemic citalopram for 21 days did not affect the pharmacokinetics of warfarin, a CYP3A4 substrate.
 Prothrombin time was increased by 5%.
 The clinical significance of these findings is unknown.
+
+Additional pediatric use information is approved for AbbVie Inc.’s LEXAPRO (escitalopram) oral solution.
+However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
