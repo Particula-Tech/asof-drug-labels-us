@@ -88,4 +88,4 @@ Storing your SIKLOS tablets:
 Keep SIKLOS and all medicines out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised 12/2021
+Revised 11/2023

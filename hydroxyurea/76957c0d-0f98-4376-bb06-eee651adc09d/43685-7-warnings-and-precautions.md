@@ -66,6 +66,10 @@ Prophylactic administration of folic acid is recommended.
 
 Interference with Uric Acid, Urea, or Lactic Acid Assays is possible, rendering falsely elevated results of these in patients treated with hydroxyurea [see Drug Interactions (7.3)].
 
+Hydroxyurea may falsely elevate sensor glucose results from certain continuous glucose monitoring (CGM) systems and may lead to hypoglycemia if sensor glucose results are relied upon to dose insulin.
+
+If a patient using a CGM is to be prescribed hydroxyurea, consult with the CGM prescriber about alternative glucose monitoring methods.
+
 ## 5.9 Hemolytic Anemia
 
 Cases of hemolytic anemia in patients treated with hydroxyurea for myeloproliferative diseases have been reported [see Adverse Reactions (6.1)].
