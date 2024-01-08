@@ -1,15 +1,15 @@
 GVOKE® is a trademark of Xeris Pharmaceuticals, Inc.
 
-Manufactured for Xeris Pharmaceuticals, Inc. by Pyramid Laboratories Inc., Costa Mesa, CA 92626
+Distributed by Xeris Pharmaceuticals, Inc.
 
 For information contact:
 
 Xeris Pharmaceuticals, Inc.
 
-180 North LaSalle Street, Suite 1600, Chicago, IL 60601
+1375 W Fulton St., Suite 1300, Chicago IL 60607
 
 1-877-XERIS-37 (1-877-937-4737)
 
 www.xerispharma.com
 
-© 2021 Xeris Pharmaceuticals
+© 2023 Xeris Pharmaceuticals, Inc.

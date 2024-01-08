@@ -4,6 +4,4 @@
 
 # 1 mg Pre-Filled Syringe
 
-# 0.5 mg Pre-Filled Syringe
-
 # 1 mg Vial and Syringe Kit

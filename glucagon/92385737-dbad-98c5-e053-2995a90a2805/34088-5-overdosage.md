@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 If overdosage occurs, the patient may experience nausea, vomiting, inhibition of GI tract motility, increase in blood pressure, and pulse rate.
 In case of suspected overdosing, serum potassium may decrease and should be monitored and corrected if needed.

@@ -1,11 +1,11 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-12.1 Mechanism of Action
+## 12.1 Mechanism of Action
 
 Glucagon increases blood glucose concentration by activating hepatic glucagon receptors, thereby stimulating glycogen breakdown and release of glucose from the liver.
 Hepatic stores of glycogen are necessary for glucagon to produce an antihypoglycemic effect.
 
-12.2 Pharmacodynamics
+## 12.2 Pharmacodynamics
 
 After administration of 1 mg GVOKE in adult patients with diabetes, the mean maximum glucose increase from baseline was 176 mg/dL.
 
@@ -15,9 +15,7 @@ In pediatric patients with type 1 diabetes (2 to less than 18 years), the mean m
 
 Figure 2: Mean (± SEM) Plasma Glucose vs. Time from GVOKE Injection in Pediatric Subjects with Type 1 Diabetes Mellitus
 
-​
-
-12.3 Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 Absorption
 

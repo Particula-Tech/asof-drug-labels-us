@@ -1,6 +1,6 @@
-# USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
-8.1 Pregnancy
+## 8.1 Pregnancy
 
 Risk Summary
 
@@ -17,21 +17,21 @@ Animal Data
 
 In pregnant rats given animal sourced glucagon twice-daily by injection at doses up to 2 mg/kg (up to 40 times the human dose based on body surface area extrapolation, mg/m2) during the period of organogenesis, there was no evidence of increased malformations or embryofetal lethality.
 
-8.2 Lactation
+## 8.2 Lactation
 
 Risk Summary
 
 There is no information available on the presence of glucagon in human or animal milk, the effects of the drug on the breastfed infant, or the effects of the drug on milk production.
 However, glucagon is a peptide and would be expected to be broken down to its constituent amino acids in the infant's digestive tract and is therefore, unlikely to cause harm to an exposed infant.
 
-8.4 Pediatric Use
+## 8.4 Pediatric Use
 
 The safety and effectiveness of GVOKE for the treatment of severe hypoglycemia in patients with diabetes have been established in pediatric patients ages 2 years and above.
 Use of GVOKE for this indication is supported by evidence from a study in 31 pediatric patients ages 2 and older with type 1 diabetes mellitus [see Clinical Studies (14.2)].
 
 The safety and effectiveness of GVOKE have not been established in pediatric patients younger than 2 years of age.
 
-8.5 Geriatric Use
+## 8.5 Geriatric Use
 
 Clinical studies of GVOKE did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Limited clinical trial experience has not identified differences in responses between the elderly and younger patients.

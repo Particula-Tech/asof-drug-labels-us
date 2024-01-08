@@ -1,130 +1,25 @@
 # Gvoke Kit Patient Package Insert
 
-PATIENT INFORMATION
-
-GVOKE® (Gee-voke)
-
-(glucagon)
-
-injection, for subcutaneous use
-
-What is GVOKE?
-
-GVOKE is a prescription medicine used to treat very low blood sugar (severe hypoglycemia) in people with diabetes aged 2 years and older.
-It is not known if GVOKE is safe and effective in children under 2 years of age.
-
-Do not use GVOKE if you:
-
-have a tumor in the gland on top of your kidneys (adrenal gland) called pheochromocytoma. have a tumor in your pancreas called insulinoma. are allergic to glucagon or any of the ingredients in GVOKE.
-See the end of this Patient Information leaflet for a complete list of ingredients in GVOKE.
-
-Before using GVOKE, tell your healthcare provider about all of your medical conditions, including if you:
-
-• have adrenal gland problems.
-
-• have a tumor in your pancreas.
-
-• have not had food or water for a long time (prolonged fasting or starvation).
-
-• have low blood sugar that does not go away (chronic hypoglycemia).
-
-• are pregnant or plan to become pregnant.
-
-• are breastfeeding or plan to breastfeed.
-It is not known if GVOKE passes into your breast milk.
-You and your healthcare provider should decide if you can use GVOKE while breastfeeding.
-
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-GVOKE may affect the way other medicines work, and other medicines may affect how GVOKE works.
-Know the medicines you take.
-Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
-
-How should I use GVOKE?
-
-Read the detailed Instructions for Use that comes with GVOKE.
-Use GVOKE exactly how your healthcare provider tells you to use it.
-Make sure your relatives, close friends, and caregivers know where you store GVOKE and how to use it the right way before you need their help.
-Act quickly.
-Having very low blood sugar for a period of time may be harmful.
-Your healthcare provider will tell you how and when to use GVOKE.
-After giving GVOKE, your caregiver should call for emergency medical help right away.
-When you are able to safely swallow food or drink, your caregiver should give you a fast-acting source of sugar (such as a regular soft drink or fruit juice) and a long-acting source of sugar (such as crackers and cheese or a meat sandwich).
-If you do not respond to treatment after 15 minutes, your caregiver may give you another dose, if available.
-
-Tell your healthcare provider each time you use GVOKE.
-Low blood sugar may happen again after receiving an injection of GVOKE.
-Your diabetes medicine may need to be changed.
-
-What are the possible side effects of GVOKE?
-
-GVOKE may cause serious side effects, including:
-
-High blood pressure.
-GVOKE can cause high blood pressure in certain people with tumors in their adrenal glands.
-Low blood sugar.
-GVOKE can cause low blood sugar in people with certain tumors in their pancreas called insulinomas by making too much insulin in their bodies.
-Signs and symptoms of low blood sugar may include:
-
-o sweating o blurred vision o abnormal behavior
-
-o drowsiness o hunger o lightheadedness
-
-o dizziness o slurred speech o unsteady movement
-
-o sleep disturbances o restlessness o inability to concentrate
-
-o irregular heartbeat o depressed mood o personality changes
-
-o anxiety o tingling in the hands, feet, lips, or tongue o headache
-
-o tremor o irritability
-
-Serious allergic reaction.
-Call your healthcare provider or get medical help right away if you have a serious allergic reaction including:
-
-rash difficulty breathing
-
-low blood pressure
-
-The most common side effects of GVOKE in adults include:
-
-nausea swelling at the injection site vomiting headache
-
-The most common side effects of GVOKE in children include:
-
-nausea high blood sugar abdominal pain pain or redness at the injection site low blood sugar vomitting headache itching
-
-These are not all the possible side effects of GVOKE.
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-How should I store GVOKE?
-
-Store GVOKE in the original sealed foil pouch until time of use.
-Store at room temperature between 68°F to 77°F (20° C to 25°C).
-Do not refrigerate or freeze.
-
-Keep GVOKE and all medicines out of the reach of children.
-
-General information about the safe and effective use of GVOKE.
-
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-Do not use GVOKE for a condition for which it was not prescribed.
-Do not give GVOKE to other people, even if they have the same symptoms that you have.
-It may harm them.
-You can ask your pharmacist or healthcare provider for information about GVOKE that is written for health professionals.
-
-What are the ingredients in GVOKE?
-
-Active ingredient: glucagon.
-
-Inactive ingredients: trehalose dihydrate NF, sulfuric acid NF, mannitol USP (kit only), and dimethyl sulfoxide.
-
-Distributed by: Xeris Pharmaceuticals, Inc., Chicago, IL
-
-Manufactured by: Pyramid Laboratories, Inc., Costa Mesa, CA
-
-For more information go to www.gvokeglucagon.com or call 1-877-937-4737.
+| PATIENT INFORMATION |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| GVOKE® (Gee-voke)(glucagon)injection, for subcutaneous use |  |  |  |  |  |
+| What is GVOKE? |  |  |  |  |  |
+| •GVOKE is a prescription medicine used to treat very low blood sugar (severe hypoglycemia) in people with diabetes aged 2 years and older. •It is not known if GVOKE is safe and effective in children under 2 years of age. |  |  |  |  |  |
+| Do not use GVOKE if you: •have a tumor in the gland on top of your kidneys (adrenal gland) called pheochromocytoma.•have a tumor in your pancreas called insulinoma.•are allergic to glucagon or any of the ingredients in GVOKE. See the end of this Patient Information leaflet for a complete list of ingredients in GVOKE. |  |  |  |  |  |
+| Before using GVOKE, tell your healthcare provider about all of your medical conditions, including if you: •have adrenal gland problems.•have a tumor in your pancreas.•have not had food or water for a long time (prolonged fasting or starvation).•have low blood sugar that does not go away (chronic hypoglycemia).•are pregnant or plan to become pregnant.•are breastfeeding or plan to breastfeed. It is not known if GVOKE passes into your breast milk. You and your healthcare provider should decide if you can use GVOKE while breastfeeding. Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. GVOKE may affect the way other medicines work, and other medicines may affect how GVOKE works. Know the medicines you take. Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine. |  |  |  |  |  |
+| How should I use GVOKE? •Read the detailed Instructions for Use that comes with GVOKE.•Use GVOKE exactly how your healthcare provider tells you to use it.•Make sure your relatives, close friends, and caregivers know where you store GVOKE and how to use it the right way before you need their help.•Act quickly. Having very low blood sugar for a period of time may be harmful.•Your healthcare provider will tell you how and when to use GVOKE.•After giving GVOKE, your caregiver should call for emergency medical help right away.•When you are able to safely swallow food or drink, your caregiver should give you a fast-acting source of sugar (such as a regular soft drink or fruit juice) and a long-acting source of sugar (such as crackers and cheese or a meat sandwich).•If you do not respond to treatment after 15 minutes, your caregiver may give you another dose, if available. Tell your healthcare provider each time you use GVOKE. Low blood sugar may happen again after receiving an injection of GVOKE. Your diabetes medicine may need to be changed. |  |  |  |  |  |
+| What are the possible side effects of GVOKE?GVOKE may cause serious side effects, including: •High blood pressure. GVOKE can cause high blood pressure in certain people with tumors in their adrenal glands.•Low blood sugar. GVOKE can cause low blood sugar in people with certain tumors in their pancreas called insulinomas by making too much insulin in their bodies. Signs and symptoms of low blood sugar may include: |  |  |  |  |  |
+| osweatingodrowsinessodizzinessosleep disturbancesoirregular heartbeatoanxietyotremor |  | oblurred visionohungeroslurred speechorestlessnessodepressed moodotingling in the hands, feet, lips, or tongueoirritability |  | oabnormal behaviorolightheadednessounsteady movementoinability to concentrateopersonality changesoheadache |  |
+| •Serious allergic reaction. Call your healthcare provider or get medical help right away if you have a serious allergic reaction including: |  |  |  |  |  |
+| orash |  | odifficulty breathing |  | olow blood pressure |  |
+| The most common side effects of GVOKE in adults include: |  |  |  |  |  |
+| •nausea•vomiting |  |  | •swelling at the injection site•headache |  |  |
+| The most common side effects of GVOKE in children include: |  |  |  |  |  |
+| onauseaolow blood sugar | ohigh blood sugarovomiting |  | oabdominal painoheadache |  | opain or redness at the injection siteoitching |
+| These are not all the possible side effects of GVOKE. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |  |  |
+| How should I store GVOKE? •Store GVOKE in the original container until time of use.•Store at room temperature between 68°F to 77°F (20° C to 25°C).•Do not refrigerate or freeze. Keep GVOKE and all medicines out of the reach of children. |  |  |  |  |  |
+| General information about the safe and effective use of GVOKE.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use GVOKE for a condition for which it was not prescribed. Do not give GVOKE to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about GVOKE that is written for health professionals. |  |  |  |  |  |
+| What are the ingredients in GVOKE?Active ingredient: glucagon.Inactive ingredients: trehalose dihydrate NF, 1N sulfuric acid, mannitol USP (kit only) in 205 mg dimethyl sulfoxide.Distributed by: Xeris Pharmaceuticals, Inc., Chicago, ILFor more information go to www.gvokeglucagon.com or call 1-877-937-4737. |  |  |  |  |  |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Issued: 08/2021
+Issued: 05/2023
