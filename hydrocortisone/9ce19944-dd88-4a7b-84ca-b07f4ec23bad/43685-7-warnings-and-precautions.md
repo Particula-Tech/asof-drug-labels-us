@@ -71,6 +71,9 @@ Since complications of treatment with glucocorticoids are dependent on the size 
 Pheochromocytoma crisis, which can be fatal, has been reported after administration of systemic corticosteroids.
 In patients with suspected pheochromocytoma, consider the risk of pheochromocytoma crisis prior to administering corticosteroids.
 
+In post marketing experience tumor lysis syndrome (TLS) has been reported in patients with malignancies, including hematological malignancies and solid tumors, following the use of systemic corticosteroids alone or in combination with other chemotherapeutic agents.
+Patients at high risk of TLS, such as patients with tumors that have a high proliferative rate, high tumor burden and high sensitivity to cytotoxic agents, should be monitored closely and appropriate precautions should be taken.
+
 ## Drug Interactions
 
 The pharmacokinetic interactions listed below are potentially clinically important.
