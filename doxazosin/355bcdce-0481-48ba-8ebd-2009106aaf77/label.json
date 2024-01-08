@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021269"
+  ],
+  "inn": "doxazosin",
+  "labeler": "Viatris Specialty LLC",
+  "package_ndcs": [
+    "58151-078-93",
+    "58151-079-93"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "doxazosin mesylate",
+      "name": "Cardura"
+    }
+  ],
+  "setid": "355bcdce-0481-48ba-8ebd-2009106aaf77",
+  "source": "dailymed"
+}
