@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA211741"
+  ],
+  "inn": "droxidopa",
+  "labeler": "MAJOR PHARMACEUTICALS",
+  "package_ndcs": [
+    "0904-7392-89",
+    "0904-7393-89",
+    "0904-7394-89"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "droxidopa",
+      "name": "Droxidopa"
+    }
+  ],
+  "setid": "04b1f69d-ebba-43b9-8ecd-4f6be7c8a0a0",
+  "source": "dailymed"
+}
