@@ -22,7 +22,7 @@ All corticosteroids increase calcium excretion.
 
 Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
 Killed or inactivated vaccines may be administered to patients receiving immunosuppressive doses of corticosteroids; however, the response to such vaccines may be diminished.
-Indicated immunization procedures may be undertaken in patients receiving nonimmunosuppressive doses of corticosteroids.
+Indicated immunization procedures may be undertaken in patients receiving non immunosuppressive doses of corticosteroids.
 
 The use of MEDROL Tablets in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen.
 
@@ -39,7 +39,7 @@ If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG)
 (See the respective package inserts for complete VZIG and IG prescribing information.)
 If chicken pox develops, treatment with antiviral agents may be considered.
 Similarly, corticosteroids should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
-In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
+In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia
 
 # PRECAUTIONS
 
@@ -72,6 +72,9 @@ The studies do show that relatively high doses of corticosteroids are necessary 
 (See DOSAGE AND ADMINISTRATION.)
 
 Since complications of treatment with glucocorticoids are dependent on the size of the dose and the duration of treatment, a risk/benefit decision must be made in each individual case as to dose and duration of treatment and as to whether daily or intermittent therapy should be used.
+
+In post marketing experience tumor lysis syndrome (TLS) has been reported in patients with malignancies, including hematological malignancies and solid tumors, following the use of systemic corticosteroids alone or in combination with other chemotherapeutic agents.
+Patients at high risk of TLS, such as patients with tumors that have a high proliferative rate, high tumor burden and high sensitivity to cytotoxic agents, should be monitored closely and appropriate precautions should be taken.
 
 ## DRUG INTERACTIONS
 
