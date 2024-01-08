@@ -4,11 +4,11 @@
 
 Adults
 
-The three de novo kidney transplantation studies compared two dose levels of oral mycophenolate mofetil (1 g twice daily and 1.5 g twice daily) with azathioprine (2 studies) or placebo (1 study) to prevent acute rejection episodes.
+The three de novokidney transplantation studies compared two dose levels of oral mycophenolate mofetil (1 g twice daily and 1.5 g twice daily) with azathioprine (2 studies) or placebo (1 study) to prevent acute rejection episodes.
 One of the two studies with azathioprine (AZA) control arm also included anti-thymocyte globulin (ATGAM ®) induction therapy.
 The geographic location of the investigational sites of these studies are included in Table 13.
 
-In all three de novo kidney transplantation studies, the primary efficacy endpoint was the proportion of patients in each treatment group who experienced treatment failure within the first 6 months after transplantation.
+In all three de novokidney transplantation studies, the primary efficacy endpoint was the proportion of patients in each treatment group who experienced treatment failure within the first 6 months after transplantation.
 Treatment failure was defined as biopsy-proven acute rejection on treatment or the occurrence of death, graft loss or early termination from the study for any reason without prior biopsy-proven rejection.
 
 Mycophenolate mofetil, in combination with corticosteroids and cyclosporine, reduced (statistically significant at 0.05 level) the incidence of treatment failure within the first 6 months following transplantation (Table 13).
@@ -52,7 +52,7 @@ Table 14 De Novo Kidney Transplantation Studies Cumulative Incidence of Combined
 
 Pediatrics - De Novo Kidney transplantation PK Study with Long Term Follow-Up
 
-One open-label, safety and pharmacokinetic study of mycophenolate mofetil oral suspension 600 mg/m 2 twice daily (up to 1 g twice daily) in combination with cyclosporine and corticosteroids was performed at centers in the United States (9), Europe (5) and Australia (1) in 100 pediatric patients (3 months to 18 years of age) for the prevention of renal allograft rejection.
+One open-label, safety and pharmacokinetic study of mycophenolate mofetil oral suspension 600 mg/m 2twice daily (up to 1 g twice daily) in combination with cyclosporine and corticosteroids was performed at centers in the United States (9), Europe (5) and Australia (1) in 100 pediatric patients (3 months to 18 years of age) for the prevention of renal allograft rejection.
 Mycophenolate mofetil was well tolerated in pediatric patients [see Adverse Reactions (6.1)], and the pharmacokinetics profile was similar to that seen in adult patients dosed with 1 g twice daily mycophenolate mofetil capsules [see Clinical Pharmacology (12.3)].
 The rate of biopsy-proven rejection was similar across the age groups (3 months to <6 years, 6 years to <12 years, 12 years to 18 years).
 The overall biopsy-proven rejection rate at 6 months was comparable to adults.
@@ -60,9 +60,9 @@ The combined incidence of graft loss (5%) and patient death (2%) at 12 months po
 
 ## 14.2 Heart Transplantation
 
-A double-blind, randomized, comparative, parallel-group, multicenter study in primary de novo heart transplant recipients was performed at centers in the United States (20), in Canada (1), in Europe (5) and in Australia (2).
+A double-blind, randomized, comparative, parallel-group, multicenter study in primary de novoheart transplant recipients was performed at centers in the United States (20), in Canada (1), in Europe (5) and in Australia (2).
 The total number of patients enrolled (ITT population) was 650; 72 never received study drug and 578 received study drug (Safety Population).
-Patients received mycophenolate mofetil 1.5 g twice daily (n=289) or AZA 1.5 to 3 mg/kg/day (n=289), in combination with cyclosporine (Sandimmune ® or Neoral ®) and corticosteroids as maintenance immunosuppressive therapy.
+Patients received mycophenolate mofetil 1.5 g twice daily (n=289) or AZA 1.5 to 3 mg/kg/day (n=289), in combination with cyclosporine (Sandimmune ®or Neoral ®) and corticosteroids as maintenance immunosuppressive therapy.
 The two primary efficacy endpoints were: (1) the proportion of patients who, after transplantation, had at least one endomyocardial biopsy-proven rejection with hemodynamic compromise, or were re-transplanted or died, within the first 6 months, and (2) the proportion of patients who died or were re-transplanted during the first 12 months following transplantation.
 Patients who prematurely discontinued treatment were followed for the occurrence of allograft rejection for up to 6 months and for the occurrence of death for 1 year.
 

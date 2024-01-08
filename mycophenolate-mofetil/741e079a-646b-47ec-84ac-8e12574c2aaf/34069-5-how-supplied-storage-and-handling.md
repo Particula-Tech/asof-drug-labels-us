@@ -2,7 +2,7 @@
 
 ## 16.1 Handling and Disposal
 
-Mycophenolate mofetil (MMF) has demonstrated teratogenic effects in humans [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+Mycophenolate mofetil (MMF) has demonstrated teratogenic effects in humans [see Warnings and Precautions (5.1)and Use in Specific Populations (8.1)].
 Mycophenolate mofetil tablets should not be crushed and mycophenolate mofetil capsules should not be opened or crushed.
 Wearing disposable gloves is recommended during reconstitution and when wiping the outer surface of the bottle/cap and the table after reconstitution.
 Avoid inhalation or direct contact with skin or mucous membranes of the powder contained in mycophenolate mofetil capsules.

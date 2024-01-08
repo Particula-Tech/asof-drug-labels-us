@@ -9,7 +9,7 @@ The highest dose was 0.035 times the recommended clinical dose in kidney transpl
 While these animal doses were lower than those given to patients, they were maximal in those species and were considered adequate to evaluate the potential for human risk [see Warnings and Precautions (5.2)].
 
 The genotoxic potential of MMF was determined in five assays.
-MMF was genotoxic in the mouse lymphoma/thymidine kinase assay and the in vivo mouse micronucleus assay.
+MMF was genotoxic in the mouse lymphoma/thymidine kinase assay and the in vivomouse micronucleus assay.
 MMF was not genotoxic in the bacterial mutation assay, the yeast mitotic gene conversion assay or the Chinese hamster ovary cell chromosomal aberration assay.
 
 MMF had no effect on fertility of male rats at oral doses up to 20 mg/kg/day.

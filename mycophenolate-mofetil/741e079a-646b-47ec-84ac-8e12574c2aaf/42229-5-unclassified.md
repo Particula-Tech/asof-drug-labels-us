@@ -1,5 +1,5 @@
-Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad – 380 054, India.
 
-10 0357 3 6021435 Issued Januaray 2023
+10 0357 4 6025149 Issued October 2023
