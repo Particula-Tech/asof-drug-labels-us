@@ -78,11 +78,11 @@ Inform patients to report symptoms of tiredness, swelling, and/or shortness of b
 Inform patients that tacrolimus capsules can interfere with the usual response to immunizations and that they should avoid live vaccines.
 [see Warnings and Precautions (5.14)].
 
-Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By: Intas Pharmaceuticals Limited, Plot No: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382210.
 India.
 
-10 0108 7 6020911
+10 0108 8 6026035
 
-Issued December 2022
+Issued December 2023

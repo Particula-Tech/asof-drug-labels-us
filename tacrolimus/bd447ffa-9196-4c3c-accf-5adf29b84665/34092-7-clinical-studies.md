@@ -27,7 +27,7 @@ Patients randomized to tacrolimus/MMF were more likely to develop diarrhea and d
 Table 20.
 Estimated Creatinine Clearance at 12 Months (Study 1)
 
-| Group | eCL cr [mL/min] at Month 12 1 |  |  |  |  |
+| Group | eCL cr[mL/min] at Month 12 1 |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | N | MEAN | SD | MEDIAN | Treatment Difference with Group C (99.2% CI 2) |
 | (A) CsA/MMF/CS | 390 | 56.5 | 25.8 | 56.9 | -8.6 (-13.7, -3.7) |
@@ -53,7 +53,7 @@ Incidence of BPAR, Graft Loss, Death, or Loss to Follow-up at 12 Months (Study 1
 | Key: Group A = CsA/MMF/CS, B = CsA/MMF/CS/Daclizumab, C = Tac/MMF/CS/Daclizumab, and D = Siro/MMF/CS/Daclizumab |  |  |  |  |
 | Adjusted for multiple (6) pairwise comparisons using Bonferroni corrections. |  |  |  |  |
 
-The protocol-specified target tacrolimus trough concentrations (C trough, Tac) were 3 to 7 ng/mL; however, the observed median C troughs, Tac approximated 7 ng/mL throughout the 12-month trial (Table 22).
+The protocol-specified target tacrolimus trough concentrations (C trough, Tac) were 3 to 7 ng/mL; however, the observed median C troughs, Tacapproximated 7 ng/mL throughout the 12-month trial (Table 22).
 Approximately 80% of patients maintained tacrolimus whole blood concentrations between 4 to 11 ng/mL through 1 year post-transplant.
 
 Table 22.
@@ -65,10 +65,10 @@ Tacrolimus Whole Blood Trough Concentration Range (Study 1)
 | Day 90 (N = 351) | 6.8 (4.1 to 10.7) |  |  |  |
 | Day 180 (N = 355) | 6.5 (4.0 to 9.6) |  |  |  |
 | Day 365 (N = 346) | 6.5 (3.8 to 10.0) |  |  |  |
-| 10 to 90 th Percentile: range of C trough,Tac that excludes lowest 10% and highest 10% of C trough,Tac |  |  |  |  |
+| 10 to 90 thPercentile: range of C trough,Tacthat excludes lowest 10% and highest 10% of C trough,Tac |  |  |  |  |
 
-The protocol-specified target cyclosporine trough concentrations (C trough, CsA) for Group B were 50 to 100 ng/mL; however, the observed median C troughs, CsA approximated 100 ng/mL throughout the 12-month trial.
-The protocol-specified target C troughs, CsA for Group A were 150 to 300 ng/mL for the first 3 months and 100 to 200 ng/mL from month 4 to month 12; the observed median C troughs, CsA approximated 225 ng/mL for the first 3 months and 140 ng/mL from month 4 to month 12.
+The protocol-specified target cyclosporine trough concentrations (C trough, CsA) for Group B were 50 to 100 ng/mL; however, the observed median C troughs, CsAapproximated 100 ng/mL throughout the 12-month trial.
+The protocol-specified target C troughs, CsAfor Group A were 150 to 300 ng/mL for the first 3 months and 100 to 200 ng/mL from month 4 to month 12; the observed median C troughs, CsAapproximated 225 ng/mL for the first 3 months and 140 ng/mL from month 4 to month 12.
 
 While patients in all groups started MMF at 1 gram twice daily, the MMF dose was reduced to less than 2 g per day in 63% of patients in the tacrolimus treatment arm by month 12 (Table 23); approximately 50% of these MMF dose reductions were due to adverse reactions.
 By comparison, the MMF dose was reduced to less than 2 g per day in 49% and 45% of patients in the two cyclosporine arms (Group A and Group B, respectively), by month 12 and approximately 40% of MMF dose reductions were due to adverse reactions.
@@ -106,7 +106,7 @@ Incidence of BPAR, Graft Loss, Death, or Loss to Follow-up at 12 Months (Study 2
 | 95% confidence interval calculated using Fisher's Exact Test. |  |  |
 
 The protocol-specified target tacrolimus whole blood trough concentrations (C trough, Tac) in Study 2 were 7 to 16 ng/mL for the first three months and 5 to 15 ng/mL thereafter.
-The observed median C troughs, Tac approximated 10 ng/mL during the first three months and 8 ng/mL from month 4 to month 12 (Table 25).
+The observed median C troughs, Tacapproximated 10 ng/mL during the first three months and 8 ng/mL from month 4 to month 12 (Table 25).
 Approximately 80% of patients maintained tacrolimus whole blood trough concentrations between 6 to 16 ng/mL during months 1 through 3 and, then, between 5 to 12 ng/mL from month 4 through 1 year.
 
 Table 25.
@@ -119,10 +119,10 @@ Tacrolimus Whole Blood Trough Concentration Range (Study 2)
 | Day 120 (N = 176) | 8.3 (4.6 to 13.3) |
 | Day 180 (N = 171) | 7.8 (5.5 to 13.2) |
 | Day 365 (N = 178) | 7.1 (4.2 to 12.4) |
-| 10 to 90th Percentile: range of C trough,Tac that excludes lowest 10% and highest 10% of C trough,Tac |  |
+| 10 to 90th Percentile: range of C trough,Tacthat excludes lowest 10% and highest 10% of C trough,Tac |  |
 
 The protocol-specified target cyclosporine whole blood concentrations (C trough, CsA) were 125 to 400 ng/mL for the first three months, and 100 to 300 ng/mL thereafter.
-The observed median C troughs, CsA approximated 280 ng/mL during the first three months and 190 ng/mL from month 4 to month 12.
+The observed median C troughs, CsAapproximated 280 ng/mL during the first three months and 190 ng/mL from month 4 to month 12.
 
 Patients in both groups started MMF at 1 gram twice daily.
 The MMF dose was reduced to less than 2 grams per day by month 12 in 62% of patients in the tacrolimus/MMF group (Table 26) and in 47% of patients in the cyclosporine/MMF group.

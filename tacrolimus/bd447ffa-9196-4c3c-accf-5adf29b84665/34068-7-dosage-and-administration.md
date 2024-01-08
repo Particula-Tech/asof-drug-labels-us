@@ -62,7 +62,7 @@ Dosage should be titrated based on clinical assessments of rejection and tolerab
 Tacrolimus dosages lower than the recommended initial dosage may be sufficient as maintenance therapy.
 Adjunct therapy with adrenal corticosteroids is recommended early post-transplant.
 
-The data in kidney transplant patients indicate that the African-American patients required a higher dose to attain comparable trough concentrations compared to Caucasian patients (Table 2) [see Use in Specific Populations (8.8) and Clinical Pharmacology (12.3)].
+The data in kidney transplant patients indicate that the African-American patients required a higher dose to attain comparable trough concentrations compared to Caucasian patients (Table 2) [see Use in Specific Populations (8.8)and Clinical Pharmacology (12.3)].
 
 Table 2.
 Comparative Dose and Trough Concentrations Based on Race

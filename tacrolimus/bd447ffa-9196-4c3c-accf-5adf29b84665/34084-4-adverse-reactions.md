@@ -265,16 +265,16 @@ In a U.S. trial, the incidence of adverse reactions was based on 331 heart trans
 The trial population had a mean age of 53 years (range 18 to 75); the distribution was 78% male, and the composition was White (83%), African-American (13%) and Other (4%).
 
 Only selected targeted treatment-emergent adverse reactions were collected in the U.S. heart transplantation trial.
-Those reactions that were reported at a rate of 15% or greater in patients treated with tacrolimus and MMF include the following: any target adverse reactions (99%), hypertension (89%), hyperglycemia requiring antihyperglycemic therapy (70%), hypertriglyceridemia (65%), anemia (hemoglobin < 10.0 g/dL) (65%), fasting blood glucose > 140 mg/dL (on two separate occasions) (61%), hypercholesterolemia (57%), hyperlipidemia (34%), WBCs < 3000 cells/mcL (34%), serious bacterial infections (30%), magnesium < 1.2 mEq/L (24%), platelet count < 75,000 cells/mcL (19%), and other opportunistic infections (15%).
+Those reactions that were reported at a rate of 15% or greater in patients treated with tacrolimus and MMF include the following: any target adverse reactions (99%), hypertension (89%), hyperglycemia requiring antihyperglycemic therapy (70%),hypertriglyceridemia (65%), anemia (hemoglobin < 10.0 g/dL) (65%), fasting blood glucose > 140 mg/dL (on two separate occasions) (61%), hypercholesterolemia (57%), hyperlipidemia (34%), WBCs < 3000 cells/mcL (34%), serious bacterial infections (30%), magnesium < 1.2 mEq/L (24%), platelet count < 75,000 cells/mcL (19%), and other opportunistic infections (15%).
 
-Other targeted treatment-emergent adverse reactions in tacrolimus-treated patients occurred at a rate of less than 15%, and include the following: Cushingoid features, impaired wound healing, hyperkalemia, Candida infection, and CMV infection/syndrome.
+Other targeted treatment-emergent adverse reactions in tacrolimus-treated patients occurred at a rate of less than 15%, and include the following: Cushingoid features, impaired wound healing, hyperkalemia, Candidainfection, and CMV infection/syndrome.
 Other less frequently observed adverse reactions in heart transplantation patients are described under the subsection “Less Frequently Reported Adverse Reactions (> 3% and < 15%) in Liver, Kidney and Heart Transplant Studies.”
 
 New Onset Diabetes After Transplant
 
 Kidney Transplantation
 
-New Onset Diabetes After Transplant (NODAT) is defined as a composite of fasting plasma glucose ≥ 126 mg/dL, HbA 1C ≥ 6%, insulin use ≥ 30 days, or oral hypoglycemic use.
+New Onset Diabetes After Transplant (NODAT) is defined as a composite of fasting plasma glucose ≥ 126 mg/dL, HbA 1C≥ 6%, insulin use ≥ 30 days, or oral hypoglycemic use.
 In a trial in kidney transplant patients (Study 2), NODAT was observed in 75% in the tacrolimus-treated and 61% in the NEORAL-treated patients without pre-transplant history of diabetes mellitus (Table 10) [see Clinical Studies (14.1)].
 
 Table 10.
@@ -285,7 +285,7 @@ Incidence of New Onset Diabetes After Transplant at 1 year in Kidney Transplant 
 | Tacrolimus/MMF (n = 212) | NEORAL/MMF (n = 212) |  |
 | NODAT | 112/150 (75%) | 93/152 (61%) |
 | Fasting Plasma Glucose ≥ 126 mg/dL | 96/150 (64%) | 80/152 (53%) |
-| HbA 1c ≥ 6% | 59/150 (39%) | 28/152 (18%) |
+| HbA 1c≥ 6% | 59/150 (39%) | 28/152 (18%) |
 | Insulin Use ≥ 30 days | 9/150 (6%) | 4/152 (3%) |
 | Oral Hypoglycemic Use | 15/150 (10%) | 5/152 (3%) |
 
@@ -302,10 +302,10 @@ Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 2 Years in Kid
 | Status of PTDM 1 | Tacrolimus/AZA | CsA/AZA |
 | --- | --- | --- |
 | Patients without pre-transplant history of diabetes mellitus | 151 | 151 |
-| New onset PTDM 1, 1 st Year | 30/151 (20%) | 6/151 (4%) |
+| New onset PTDM 1, 1 stYear | 30/151 (20%) | 6/151 (4%) |
 | Still insulin-dependent at one year in those without prior history of diabetes | 25/151 (17%) | 5/151 (3%) |
-| New onset PTDM 1 post 1 year | 1 | 0 |
-| Patients with PTDM 1 at 2 years | 16/151 (11%) | 5/151 (3%) |
+| New onset PTDM 1post 1 year | 1 | 0 |
+| Patients with PTDM 1at 2 years | 16/151 (11%) | 5/151 (3%) |
 | Use of insulin for 30 or more consecutive days, with < 5-day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. |  |  |
 
 Table 12.

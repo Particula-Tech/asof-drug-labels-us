@@ -19,7 +19,7 @@ The implications of these carcinogenicity studies to the human condition are lim
 
 ### Mutagenesis
 
-No evidence of genotoxicity was seen in bacterial (Salmonella and E. coli) or mammalian (Chinese hamster lung-derived cells) in vitro assays of mutagenicity, the in vitro CHO/HGPRT assay of mutagenicity, or in vivo clastogenicity assays performed in mice; tacrolimus did not cause unscheduled DNA synthesis in rodent hepatocytes.
+No evidence of genotoxicity was seen in bacterial (Salmonellaand E. coli) or mammalian (Chinese hamster lung-derived cells) in vitroassays of mutagenicity, the in vitroCHO/HGPRT assay of mutagenicity, or in vivoclastogenicity assays performed in mice; tacrolimus did not cause unscheduled DNA synthesis in rodent hepatocytes.
 
 ### Impairment of Fertility
 

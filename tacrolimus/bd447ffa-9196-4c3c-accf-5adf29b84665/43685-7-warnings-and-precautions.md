@@ -85,7 +85,7 @@ Monitor patients for anaphylaxis when using the intravenous route of administrat
 
 Tacrolimus is not recommended for use with sirolimus:
 
-- The use of sirolimus with tacrolimus in studies of de novo liver transplant patients was associated with an excess mortality, graft loss, and hepatic artery thrombosis (HAT), and is not recommended.
+- The use of sirolimus with tacrolimus in studies of de novoliver transplant patients was associated with an excess mortality, graft loss, and hepatic artery thrombosis (HAT), and is not recommended.
 - The use of sirolimus (2 mg per day) with tacrolimus in heart transplant patients in a U.S. trial was associated with increased risk of renal function impairment, wound healing complications, and insulin-dependent post-transplant diabetes mellitus, and is not recommended [see Clinical Studies (14.3)].
 - The use of sirolimus with tacrolimus may increase the risk of thrombotic microangiopathy [see Warnings and Precautions (5.16)].
 
@@ -135,3 +135,8 @@ These risk factors may, either alone or combined, contribute to the risk of TMA.
 
 In patients with signs and symptoms of TMA, consider tacrolimus as a risk factor.
 Concurrent use of tacrolimus and mTOR inhibitors may contribute to the risk of TMA.
+
+## 5.17 Cannabidiol Drug Interactions
+
+When cannabidiol and tacrolimus are co-administered, closely monitor for an increase in tacrolimus blood levels and for adverse reactions suggestive of tacrolimus toxicity.
+A dose reduction of tacrolimus should be considered as needed when tacrolimus is co-administered with cannabidiol [see Dosage and Administration (2.2, 2.6)and Drug Interactions (7.3)].
