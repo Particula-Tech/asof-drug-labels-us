@@ -10,7 +10,7 @@ When discontinuing therapy [see Dosing and Administration (2)] or switching betw
 Patients with moderate to severe hepatic impairment (Child-Pugh Class B and C respectively) could be at an increased risk of hypercorticism and adrenal axis suppression due to an increased systemic exposure of oral budesonide.
 Avoid use in patients with severe hepatic impairment (Child-Pugh Class C). Monitor for increased signs and/or symptoms of hypercorticism in patients with moderate hepatic impairment (Child-Pugh Class B) [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
-## 5.2 Risks of Immunosupression
+## 5.2 Risks of Immunosuppression
 
 Patients who are on drugs that suppress the immune system are more susceptible to infection than healthy individuals.
 Chickenpox and measles, for example, can have a more serious or even fatal course in susceptible patients or patients on immunosuppressant doses of corticosteroids.

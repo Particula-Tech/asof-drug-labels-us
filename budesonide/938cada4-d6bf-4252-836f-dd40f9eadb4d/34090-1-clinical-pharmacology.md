@@ -57,7 +57,7 @@ Pharmacokinetics of budesonide was similar between males and females.
 
 Hepatic Impairment
 
-Subjects with moderate hepatic impairment (Child-Pugh class B) had 3.5 times the budesonide AUC compared with healthy volunteers while subjects with mild hepatic impairment (Child-Pugh class A) had approximately 40% higher budesonide AUC compared with healthy volunteers.
+Subjects with moderate hepatic impairment (Child-Pugh class B) had 3.5 times the budesonide AUC compared with healthy volunteers while subjects with mild hepatic impairment (Child-Pugh class A) had approximately 1.4 times the budesonide AUC compared with healthy volunteers.
 
 Patients with severe hepatic impairment (Child-Pugh Class C) have not been studied.
 

@@ -13,7 +13,7 @@ Advise patients that TARPEYO delayed release capsules should be swallowed whole 
 
 Advise patients to avoid the consumption of grapefruit juice for the duration of their TARPEYO therapy [See Drug Interactions (7.1)].
 
-TARPEYO is a trademark of Calliditas Therapeutics AB, or its affiliates.
+TARPEYO is a registered trademark of Calliditas Therapeutics AB, or its affiliates.
 
 © 2021 Calliditas Therapeutics AB (publ)
 
