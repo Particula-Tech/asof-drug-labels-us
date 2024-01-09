@@ -27,7 +27,7 @@ Fetal/Neonatal Adverse Reactions
 
 Amphetamines, such as lisdexamfetamine dimesylate, cause vasoconstriction and thereby may decrease placental perfusion.
 In addition, amphetamines can stimulate uterine contractions increasing the risk of premature delivery.
-Infants born to amphetaminedependent mothers have an increased risk of premature delivery and low birth weight.
+Infants born to amphetamine-dependent mothers have an increased risk of premature delivery and low birth weight.
 
 Monitor infants born to mothers taking amphetamines for symptoms of withdrawal such as feeding difficulties, irritability, agitation, and excessive drowsiness.
 
@@ -74,7 +74,7 @@ With the same lisdexamfetamine dimesylate capsules dose, mean steady state expos
 
 BED
 
-Safety and effectiveness of lisdexamfetamine dimesylate capsules have not been established in patients less than 18 years of age.
+Safety and effectiveness of lisdexamfetamine dimesylate capsules have not been established in pediatric patients with BED less than 18 years of age.
 
 Growth Suppression
 

@@ -2,33 +2,27 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Controlled Substance Status/High Potential for Abuse and Dependence
+Abuse, Misuse, and Addiction
 
-Advise patients that lisdexamfetamine dimesylate capsules are a controlled substance and it can be abused and lead to dependence and not to give lisdexamfetamine dimesylate capsules to anyone else [see Drug Abuse and Dependence (9.1, 9.2, and 9.3)].
-Advise patients to store lisdexamfetamine dimesylate capsules in a safe place, preferably locked, to prevent abuse.
-Advise patients to dispose of remaining, unused, or expired lisdexamfetamine dimesylate capsules by a medicine take-back program.
+Educate patients and their families about the risks of abuse, misuse, and addiction of lisdexamfetamine dimesylate capsules, which can lead to overdose and death, and proper disposal of any unused drug [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2), Overdosage (10)].
+Advise patients to store lisdexamfetamine dimesylate capsules in a safe place, preferably locked, and instruct patients to not give lisdexamfetamine dimesylate capsules to anyone else.
 
-Serious Cardiovascular Risks
+Risks to Patients with Serious Cardiac Disease
 
-Advise patients that there is a potential serious cardiovascular risk including sudden death, myocardial infarction, stroke, and hypertension with lisdexamfetamine dimesylate capsules use.
-Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
+Advise patients that there are potential risks to patients with serious cardiac disease, including sudden death, with lisdexamfetamine dimesylate capsules use.
+Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, orother symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
 
-Hypertension and Tachycardia
+Increased Blood Pressure and Heart Rate
 
 Instruct patients that lisdexamfetamine dimesylate capsules can cause elevations of their blood pressure and pulse rate and they should be monitored for such effects.
 
-Psychiatric Risks
+Psychiatric Adverse Reactions
 
 Advise patients that lisdexamfetamine dimesylate capsules at recommended doses may cause psychotic or manic symptoms even in patients without prior history of psychotic symptoms or mania [see Warnings and Precautions (5.4)].
 
-Suppression of Growth
+Long-Term Suppression of Growth in Pediatric
 
-Advise patients that lisdexamfetamine dimesylate capsules may cause slowing of growth including weight loss [see Warnings and Precautions (5.5)].
-
-Impairment in Ability to Operate Machinery or Vehicles
-
-Advise patients that lisdexamfetamine dimesylate capsules may impair their ability to engage in potentially dangerous activities such as operating machinery or vehicles.
-Instruct patients to find out how lisdexamfetamine dimesylate capsules will affect them before engaging in potentially dangerous activities [see Adverse Reactions (6.1, 6.2)].
+PatientsAdvise patients that lisdexamfetamine dimesylate capsules may cause slowing of growth including weight loss [see Warnings and Precautions (5.5)].
 
 Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]
 
@@ -45,6 +39,15 @@ Advise patients to contact their healthcare provider or report to the emergency 
 Concomitant Medications
 
 Advise patients to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs because there is a potential for interactions [see Drug Interactions (7.1)].
+
+Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
+
+Advise patients that motor and verbal tics and worsening of Tourette’s Syndrome may occur during treatment with lisdexamfetamine dimesylate capsules.
+Instruct patients to notify their healthcare provider if emergence of new tics or worsening of tics or Tourette’s syndrome occurs [see Warnings and Precautions (5.8)].
+
+Pregnancy Registry
+
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to lisdexamfetamine dimesylate capsules during pregnancy [see Use in Specific Populations (8.1)].
 
 Pregnancy
 

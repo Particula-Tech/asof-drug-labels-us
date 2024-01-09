@@ -1,15 +1,15 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Pre-treatment Screening
+## 2.1 Pretreatment Screening
 
-Prior to treating patients with CNS stimulants, including lisdexamfetamine dimesylate capsules, assess for the presence of cardiac disease (e.g., a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
+Prior to treating patients with lisdexamfetamine dimesylate capsules, assess:
 
-To reduce the abuse of CNS stimulants including lisdexamfetamine dimesylate capsules, assess the risk of abuse, prior to prescribing.
-After prescribing, keep careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and re-evaluate the need for lisdexamfetamine dimesylate capsules use [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9)].
+- for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
+- the family history and clinically evaluate patients for motor or verbal tics or Tourette’s syndrome before initiating lisdexamfetamine dimesylate capsules [see Warnings and Precautions(5.8)].
 
-## 2.2 General Instructions for Use
+## 2.2 General Administration Information
 
-Take lisdexamfetamine dimesylate capsule by mouth in the morning with or without food; avoid afternoon doses because of the potential for insomnia.
+Take lisdexamfetamine dimesylate capsule orally in the morning with or without food; avoid afternoon doses because of the potential for insomnia.
 Lisdexamfetamine dimesylate capsules may be administered in one of the following ways:
 
 Information for lisdexamfetamine dimesylate capsules:

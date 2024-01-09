@@ -6,4 +6,4 @@ Distributed by: Alvogen, Inc. Morristown, NJ 07960 USA
 
 Product of USA
 
-PI562-00 Revised: 06/2022
+Revised: 10/2023 PI562-01
