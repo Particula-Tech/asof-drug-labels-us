@@ -1,42 +1,38 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Use with Anakinra or Abatacept
+## 7.1 Other Biological Products
 
-An increased risk of serious infections was seen in clinical studies of other TNFα-blocking agents used in combination with anakinra or abatacept, with no added clinical benefit.
-Because of the nature of the adverse reactions seen with these combinations with TNF-blocker therapy, similar toxicities may also result from the combination of anakinra or abatacept with other TNFα-blocking agents.
-Therefore, the combination of RENFLEXIS and anakinra or abatacept is not recommended [see Warnings and Precautions (5.10 and 5.11)].
+The combination of RENFLEXIS with other biological products used to treat the same conditions as RENFLEXIS is not recommended [see Warnings and Precautions (5.10)].
 
-## 7.2 Use with Tocilizumab
+An increased risk of serious infections was seen in clinical studies of other TNF blockers used in combination with anakinra or abatacept, with no added clinical benefit.
+Because of the nature of the adverse reactions seen with these combinations with TNF blocker therapy, similar toxicities may also result from the combination of anakinra or abatacept with other TNF blockers.
+Therefore, the combination of RENFLEXIS and anakinra or abatacept is not recommended [see Warnings and Precautions (5.10)].
 
-The use of tocilizumab in combination with biological DMARDs such as TNF antagonists, including RENFLEXIS, should be avoided because of the possibility of increased immunosuppression and increased risk of infection.
+The concomitant use of tocilizumab with biological DMARDs such as TNF antagonists, including RENFLEXIS, should be avoided because of the possibility of increased immunosuppression and increased risk of infection.
 
-## 7.3 Use with Other Biological Therapeutics
+## 7.2 Methotrexate and Other Concomitant Medications
 
-The combination of RENFLEXIS with other biological therapeutics used to treat the same conditions as RENFLEXIS is not recommended [see Warnings and Precautions (5.12)].
-
-## 7.4 Methotrexate (MTX) and Other Concomitant Medications
-
-Specific drug interaction studies, including interactions with MTX, have not been conducted.
-The majority of patients in rheumatoid arthritis or Crohn's disease clinical studies received one or more concomitant medications.
-In rheumatoid arthritis, concomitant medications besides MTX were nonsteroidal anti-inflammatory agents (NSAIDs), folic acid, corticosteroids and/or narcotics.
-Concomitant Crohn's disease medications were antibiotics, antivirals, corticosteroids, 6-MP/AZA and aminosalicylates.
-In psoriatic arthritis clinical trials, concomitant medications included MTX in approximately half of the patients as well as NSAIDs, folic acid and corticosteroids.
+Specific drug interaction studies, including interactions with methotrexate (MTX), have not been conducted.
+The majority of patients in RA or CD clinical studies received one or more concomitant medications.
+In RA, concomitant medications besides MTX were nonsteroidal anti-inflammatory agents (NSAIDs), folic acid, corticosteroids and/or narcotics.
+Concomitant CD medications were antibiotics, antivirals, corticosteroids, 6-MP/AZA and aminosalicylates.
+In PsA clinical trials, concomitant medications included MTX in approximately half of the patients as well as NSAIDs, folic acid and corticosteroids.
 Concomitant MTX use may decrease the incidence of anti-drug antibody production and increase infliximab product concentrations.
 
-## 7.5 Immunosuppressants
+## 7.3 Immunosuppressants
 
-Patients with Crohn's disease who received immunosuppressants tended to experience fewer infusion reactions compared to patients on no immunosuppressants [see Adverse Reactions (6.1)].
-Serum infliximab concentrations appeared to be unaffected by baseline use of medications for the treatment of Crohn's disease including corticosteroids, antibiotics (metronidazole or ciprofloxacin) and aminosalicylates.
+Patients with CD who received immunosuppressants tended to experience fewer infusion reactions compared to patients on no immunosuppressants [see Adverse Reactions (6.1)].
+Serum infliximab concentrations appeared to be unaffected by baseline use of medications for the treatment of CD including corticosteroids, antibiotics (metronidazole or ciprofloxacin) and aminosalicylates.
 
-## 7.6 Cytochrome P450 Substrates
+## 7.4 Cytochrome P450 Substrates
 
 The formation of CYP450 enzymes may be suppressed by increased levels of cytokines (e.g., TNFα, IL-1, IL-6, IL-10, IFN) during chronic inflammation.
 Therefore, it is expected that for a molecule that antagonizes cytokine activity, such as infliximab products, the formation of CYP450 enzymes could be normalized.
 Upon initiation or discontinuation of RENFLEXIS in patients being treated with CYP450 substrates with a narrow therapeutic index, monitoring of the effect (e.g., warfarin) or drug concentration (e.g., cyclosporine or theophylline) is recommended and the individual dose of the drug product may be adjusted as needed.
 
-## 7.7 Live Vaccines/Therapeutic Infectious Agents
+## 7.5 Live Vaccines/Therapeutic Infectious Agents
 
 It is recommended that live vaccines not be given concurrently with RENFLEXIS.
-It is also recommended that live vaccines not be given to infants after in utero exposure to infliximab products for at least 6 months following birth [see Warnings and Precautions (5.15)].
+It is also recommended that live vaccines not be given to infants after in utero exposure to infliximab products for at least 6 months following birth [see Warnings and Precautions (5.13)].
 
-It is recommended that therapeutic infectious agents not be given concurrently with RENFLEXIS [see Warnings and Precautions (5.15)].
+It is recommended that therapeutic infectious agents not be given concurrently with RENFLEXIS [see Warnings and Precautions (5.13)].

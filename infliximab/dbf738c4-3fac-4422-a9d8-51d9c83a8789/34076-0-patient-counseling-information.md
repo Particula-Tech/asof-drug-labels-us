@@ -1,18 +1,44 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide)
+Advise the patient or their caregiver to read the FDA-approved patient labeling (Medication Guide).
 
 Patients or their caregivers should be advised of the potential benefits and risks of RENFLEXIS.
-Physicians should instruct their patients to read the Medication Guide before starting RENFLEXIS therapy and to reread it each time they receive an infusion.
-It is important that the patient's overall health be assessed at each treatment visit and that any questions resulting from the patient's or their caregiver's reading of the Medication Guide be discussed.
+Healthcare providers should instruct their patients or their caregivers to read the Medication Guide before starting RENFLEXIS therapy and to reread it each time they receive an infusion.
 
-Immunosuppression
+Infections
 
-Inform patients that RENFLEXIS may lower the ability of their immune system to fight infections.
-Instruct patients of the importance of contacting their doctors if they develop any symptoms of an infection, including tuberculosis and reactivation of hepatitis B virus infections.
-Patients should be counseled about the risk of lymphoma and other malignancies while receiving RENFLEXIS.
+Inform patients that RENFLEXIS increases the risk for developing serious infections.
+Instruct patients of the importance of contacting their healthcare provider if they develop any symptoms of an infection, including tuberculosis, invasive fungal infections, and reactivation of hepatitis B virus infections [see Warnings and Precautions (5.1, 5.3)].
 
-Other Medical Conditions
+Malignancies
 
-Advise patients to report any signs of new or worsening medical conditions such as heart disease, neurological disease, or autoimmune disorders.
-Advise patients to report any symptoms of a cytopenia such as bruising, bleeding or persistent fever.
+Malignancies have been reported among children, adolescents and young adults who received treatment with TNF blockers.
+Patients should be counseled about the risk of lymphoma and other malignancies while receiving RENFLEXIS [see Warnings and Precautions (5.2)].
+
+Hepatotoxicity
+
+Instruct patients to seek medical attention if they develop signs or symptoms of hepatotoxicity (e.g., jaundice) [see Warnings and Precautions (5.4)].
+
+Heart Failure
+
+Instruct patients to seek medical attention and consult their prescriber if they develop signs or symptoms of heart failure [see Contraindications (4) and Warnings and Precautions (5.5)].
+
+Hematologic Reactions
+
+Instruct patients to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias or infection (e.g., persistent fever) while on RENFLEXIS [see Warnings and Precautions (5.6)].
+
+Hypersensitivity
+
+Advise patients to seek immediate medical attention if they experience any symptoms of serious hypersensitivity reactions [see Warnings and Precautions (5.7)].
+
+Cardiovascular and Cerebrovascular Reactions During and After Infusion
+
+Advise patients to seek immediate medical attention if they develop any new or worsening symptoms of cardiovascular and cerebrovascular reactions which have been reported during and within 24 hours of initiation of RENFLEXIS infusion [see Warnings and Precautions (5.8)].
+
+Neurologic Reactions
+
+Advise patients to seek medical attention if they develop signs or symptoms of neurologic reactions [see Warnings and Precautions (5.9)].
+
+Live Vaccines/Therapeutic Infectious Agents
+
+Instruct RENFLEXIS-treated patients to avoid receiving live vaccines or therapeutic infectious agents [see Warnings and Precautions (5.13)].

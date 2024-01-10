@@ -1,91 +1,90 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Crohn's Disease
+## 2.1 Dosage in Adult Crohn's Disease
 
-The recommended dose of RENFLEXIS is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks thereafter for the treatment of adults with moderately to severely active Crohn's disease or fistulizing Crohn's disease.
-For adult patients who respond and then lose their response, consideration may be given to treatment with 10 mg/kg.
+The recommended dosage of RENFLEXIS is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks thereafter for the treatment of adults with moderately to severely active CD or fistulizing CD.
+For adult patients who respond and then lose their response, consideration may be given to treatment with 10 mg/kg every 8 weeks.
 Patients who do not respond by Week 14 are unlikely to respond with continued dosing and consideration should be given to discontinue RENFLEXIS in these patients.
 
-## 2.2 Pediatric Crohn's Disease
+## 2.2 Dosage in Pediatric Crohn's Disease
 
-The recommended dose of RENFLEXIS for pediatric patients 6 years and older with moderately to severely active Crohn's disease is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks.
+The recommended dosage of RENFLEXIS for pediatric patients 6 years and older with moderately to severely active CD is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks.
 
-## 2.3 Ulcerative Colitis
+## 2.3 Dosage in Adult Ulcerative Colitis
 
-The recommended dose of RENFLEXIS is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks thereafter for the treatment of adult patients with moderately to severely active ulcerative colitis.
+The recommended dosage of RENFLEXIS is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks thereafter for the treatment of adult patients with moderately to severely active UC.
 
-## 2.4 Pediatric Ulcerative Colitis
+## 2.4 Dosage in Pediatric Ulcerative Colitis
 
-The recommended dose of RENFLEXIS for pediatric patients 6 years and older with moderately to severely active ulcerative colitis is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks.
+The recommended dosage of RENFLEXIS for pediatric patients 6 years and older with moderately to severely active UC is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks.
 
-## 2.5 Rheumatoid Arthritis
+## 2.5 Dosage in Rheumatoid Arthritis
 
-The recommended dose of RENFLEXIS is 3 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 3 mg/kg every 8 weeks thereafter for the treatment of moderately to severely active rheumatoid arthritis.
+The recommended dosage of RENFLEXIS is 3 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 3 mg/kg every 8 weeks thereafter for the treatment of moderately to severely active RA.
 RENFLEXIS should be given in combination with methotrexate.
-For patients who have an incomplete response, consideration may be given to adjusting the dose up to 10 mg/kg or treating as often as every 4 weeks bearing in mind that risk of serious infections is increased at higher doses [see Adverse Reactions (6.1)].
+For patients who have an incomplete response, consideration may be given to adjusting the dosage up to 10 mg/kg every 8 weeks or treating as often as every 4 weeks bearing in mind that risk of serious infections is increased at higher doses per infusion or more frequent dosing [see Adverse Reactions (6.1)].
 
-## 2.6 Ankylosing Spondylitis
+## 2.6 Dosage in Ankylosing Spondylitis
 
-The recommended dose of RENFLEXIS is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 6 weeks thereafter for the treatment of active ankylosing spondylitis.
+The recommended dosage of RENFLEXIS is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 6 weeks thereafter for the treatment of active AS.
 
-## 2.7 Psoriatic Arthritis
+## 2.7 Dosage in Psoriatic Arthritis
 
-The recommended dose of RENFLEXIS is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks thereafter for the treatment of psoriatic arthritis.
+The recommended dosage of RENFLEXIS is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks thereafter for the treatment of PsA.
 RENFLEXIS can be used with or without methotrexate.
 
-## 2.8 Plaque Psoriasis
+## 2.8 Dosage in Plaque Psoriasis
 
-The recommended dose of RENFLEXIS is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks thereafter for the treatment of chronic severe (i.e., extensive and/or disabling) plaque psoriasis.
+The recommended dosage of RENFLEXIS in adult patients is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks thereafter for the treatment of chronic severe (i.e., extensive and/or disabling) Ps.
 
-## 2.9 Monitoring to Assess Safety
+## 2.9 Assessment for Latent and Active Tuberculosis
 
 Prior to initiating RENFLEXIS and periodically during therapy, patients should be evaluated for active tuberculosis and tested for latent infection [see Warnings and Precautions (5.1)].
 
 ## 2.10 Administration Instructions Regarding Infusion Reactions
 
-Adverse effects during administration of infliximab products have included flu-like symptoms, headache, dyspnea, hypotension, transient fever, chills, gastrointestinal symptoms, and skin rashes.
-Anaphylaxis might occur at any time during RENFLEXIS infusion.
-Approximately 20% of patients in all clinical trials of infliximab experienced an infusion reaction compared with 10% of placebo-treated patients [see Adverse Reactions (6.1)].
-Prior to infusion with RENFLEXIS, premedication may be administered at the physician's discretion.
-Premedication could include antihistamines (anti-H1 +/- anti-H2), acetaminophen and/or corticosteroids.
+Prior to treatment, ensure appropriate personnel and medication are available to treat reactions (e.g., hypersensitivity, other reactions) that occur during infusion and shortly after infusion.
+Prior to infusion with RENFLEXIS, patients may be premedicated with histamine-1 receptor antagonists, histamine-2 receptor antagonists, acetaminophen, and/or corticosteroids [see Warnings and Precautions (5.7)].
 
-During infusion, mild to moderate infusion reactions may improve following slowing or suspension of the infusion, and upon resolution of the reaction, reinitiation at a lower infusion rate and/or therapeutic administration of antihistamines, acetaminophen, and/or corticosteroids.
-For patients that do not tolerate the infusion following these interventions, RENFLEXIS should be discontinued.
+For mild to moderate reactions during the infusion, consider slowing or stopping the infusion.
+Upon resolution of these reactions, may reinitiate at a lower infusion rate and/or with histamine-1 receptor antagonists, histamine-2 receptor antagonists, acetaminophen, and/or corticosteroids.
+Discontinue the infusion if the mild to moderate reactions reoccur.
 
-During or following infusion, patients who have severe infusion-related hypersensitivity reactions should be discontinued from further RENFLEXIS treatment.
-The management of severe infusion reactions should be dictated by the signs and symptoms of the reaction.
-Appropriate personnel and medication should be available to treat anaphylaxis if it occurs.
+Discontinue the infusion if severe hypersensitivity reactions occur during the infusion.
 
-## 2.11 General Considerations and Instructions for Preparation and Administration
+## 2.11 Reconstitution, Dilution, and Administration Instructions
 
-RENFLEXIS is intended for use under the guidance and supervision of a physician.
-The reconstituted infusion solution should be prepared by a trained medical professional using aseptic technique by the following procedure:
+RENFLEXIS is intended for use under the guidance and supervision of a healthcare provider.
+The supplied lyophilized powder must be reconstituted and diluted prior to administration.
+The infusion solution should be prepared and administered by a trained medical professional using aseptic technique by the following procedure:
 
 1. Calculate the dose, total volume of reconstituted RENFLEXIS solution required and the number of RENFLEXIS vials needed.
-   Each RENFLEXIS vial contains 100 mg of the infliximab-abda antibody.
-2. Reconstitute each RENFLEXIS vial with 10 mL of Sterile Water for Injection, USP, using a syringe equipped with a 21-gauge or smaller needle as follows: Remove the flip-top from the vial and wipe the top with an alcohol swab.
-   Insert the syringe needle into the vial through the center of the rubber stopper and direct the stream of Sterile Water for Injection, USP, to the glass wall of the vial.
-   Gently swirl the solution by rotating the vial to dissolve the lyophilized powder.
-   Avoid prolonged or vigorous agitation.
-   DO NOT SHAKE.
-   Foaming of the solution on reconstitution is not unusual.
-   Allow the reconstituted solution to stand for 5 minutes.
-   The reconstituted solution concentration is 10 mg/mL.
-   The solution should be colorless to light yellow and opalescent, and the solution may develop a few translucent particles as infliximab-abda is a protein.
-   Do not use if the lyophilized cake has not fully dissolved or if opaque particles, discoloration, or other foreign particles are present.
-3. Dilute the total volume of the reconstituted RENFLEXIS solution dose to 250 mL with sterile 0.9% Sodium Chloride Injection, USP, by withdrawing a volume equal to the volume of reconstituted RENFLEXIS from the 0.9% Sodium Chloride Injection, USP, 250 mL bottle or bag.
-   Do not dilute the reconstituted RENFLEXIS solution with any other diluent.
-   Slowly add the total volume of reconstituted RENFLEXIS solution to the 250 mL infusion bottle or bag.
-   Gently mix.
-   The resulting infusion concentration should range between 0.4 mg/mL and 4 mg/mL.
+   More than one vial may be needed for a full dose.
+2. Reconstitute each 100 mg RENFLEXIS vial with 10 mL of Sterile Water for Injection, USP, to obtain a concentration of 10 mg/mL, using a syringe equipped with a 21-gauge or smaller needle as follows:
+   - Remove the flip-top from the vial and wipe the top with an alcohol swab.
+   - Insert the syringe needle into the vial through the center of the rubber stopper and direct the stream of Sterile Water for Injection, USP, to the glass wall of the vial.
+     Gently swirl the solution by rotating the vial to dissolve the lyophilized powder, which has a cake-like appearance.
+     Avoid prolonged or vigorous agitation.
+     DO NOT SHAKE.
+     Foaming of the solution on reconstitution is not unusual.
+   - Allow the reconstituted solution to stand for 5 minutes.
+     Visually inspect the reconstituted solution for particulate matter and discoloration.
+     The reconstituted solution should be colorless to light yellow and opalescent, and the solution may develop a few translucent particles as infliximab-abda is a protein.
+     Do not use if the lyophilized powder has not fully dissolved or if opaque particles, discoloration, or other foreign particles are present.
+     Do not store unused reconstituted RENFLEXIS solution.
+3. Dilute the total volume of the reconstituted RENFLEXIS solution to 250 mLFor volumes greater than 250 mL, either use a larger infusion bag (e.g.
+   500 mL) or multiple 250 mL infusion bags to ensure that the concentration of the infusion solution does not exceed 4 mg/mL. with sterile 0.9% Sodium Chloride Injection, USP, (do not dilute with any other diluent) as follows:
+   - Withdraw a volume from the 0.9% Sodium Chloride Injection, USP, 250 mL bottle or bag equal to the total volume of reconstituted RENFLEXIS required for a dose.
+     Slowly add the total volume of reconstituted RENFLEXIS solution from the vial(s) to the 250 mL infusion bottle or bag.
+   - Discard any unused portion of the reconstituted REFLEXIS solution remaining in the vial(s).
+   - Gently invert the bag to mix the solution.
+     The resulting infusion concentration should range between 0.4 mg/mL (minimum recommended concentration) and 4 mg/mL (maximum recommended concentration) of infliximab-abda.
 4. The RENFLEXIS infusion should begin within 4 hours of reconstitution and dilution.
-   The infusion must be administered over a period of not less than 2 hours and must use an infusion set with an in-line, sterile, non-pyrogenic, low-protein-binding filter (pore size of 1.2 μm or less).
-   - The diluted RENFLEXIS solution may be stored at room temperature at 25 ºC (77ºF) for up to 4 hours, including reconstitution and dilution time.
-   - If needed, the diluted RENFLEXIS solution may be stored refrigerated at 2ºC to 8ºC (36ºF to 46ºF) for up to 34 days.
-     After removal from refrigeration, the diluted solution may be stored at room temperature at up to 25ºC (77ºF) for an additional 6 hours.
-5. The vials do not contain antibacterial preservatives.
-   Therefore, any unused portion of the infusion solution should not be stored for reuse.
-6. No physical biochemical compatibility studies have been conducted to evaluate the coadministration of RENFLEXIS with other agents.
-   RENFLEXIS should not be infused concomitantly in the same intravenous line with other agents.
-7. Parenteral drug products should be inspected visually before and after reconstitution for particulate matter and discoloration prior to administration, whenever solution and container permit.
-   If visibly opaque particles, discoloration or other foreign particulates are observed, the solution should not be used.
+   The infusion must be administered intravenously for at least 2 hours with an infusion set with an in-line, sterile, non-pyrogenic, low-protein-binding filter (pore size of 1.2 μm or less).
+   - The diluted RENFLEXIS solution may be stored at room temperature at 25 °C (77°F) for up to 4 hours, including reconstitution and dilution time.
+   - If needed, the diluted RENFLEXIS solution may be stored refrigerated at 2°C to 8°C (36°F to 46°F) for up to 34 days.
+     After removal from refrigeration, the diluted solution may be stored at room temperature at up to 25°C (77°F) for an additional 6 hours.
+5. Given that the vials do not contain antibacterial preservatives, discard any unused portion of the infusion solution (do not store for reuse).
+
+No physical biochemical compatibility studies have been conducted to evaluate the coadministration of RENFLEXIS with other agents.
+RENFLEXIS should not be infused concomitantly in the same intravenous line with other agents.

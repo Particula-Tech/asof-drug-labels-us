@@ -11,7 +11,8 @@ Reported infections include:
 
 - Active tuberculosis, including reactivation of latent tuberculosis.
   Patients with tuberculosis have frequently presented with disseminated or extrapulmonary disease.
-  Patients should be tested for latent tuberculosis before RENFLEXIS use and during therapy.1,2 Treatment for latent infection should be initiated prior to RENFLEXIS use.
+  Patients should be tested for latent tuberculosis before RENFLEXIS use and during therapy.
+  Treatment for latent infection should be initiated prior to RENFLEXIS use.
 - Invasive fungal infections, including histoplasmosis, coccidioidomycosis, candidiasis, aspergillosis, blastomycosis, and pneumocystosis.
   Patients with histoplasmosis or other invasive fungal infections may present with disseminated, rather than localized, disease.
   Antigen and antibody testing for histoplasmosis may be negative in some patients with active infection.
@@ -28,5 +29,5 @@ Lymphoma and other malignancies, some fatal, have been reported in children and 
 
 Postmarketing cases of hepatosplenic T-cell lymphoma (HSTCL), a rare type of T-cell lymphoma, have been reported in patients treated with TNF blockers including infliximab products.
 These cases have had a very aggressive disease course and have been fatal.
-Almost all patients had received treatment with azathioprine or 6-mercaptopurine concomitantly with a TNF-blocker at or prior to diagnosis.
+Almost all patients had received treatment with azathioprine or 6-mercaptopurine concomitantly with a TNF blocker at or prior to diagnosis.
 The majority of reported cases have occurred in patients with Crohn's disease or ulcerative colitis and most were in adolescent and young adult males.
