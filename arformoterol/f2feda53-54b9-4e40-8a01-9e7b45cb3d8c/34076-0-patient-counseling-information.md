@@ -101,7 +101,7 @@ Place the mouthpiece in your mouth (Figure 6) (or put on the face mask) and turn
 
 7.Breathe as calmly, deeply, and evenly as possible until no more mist is formed in the nebulizer reservoir.
 It takes about 5 to 10 minutes for each treatment.
-8.Clean the nebulizer (see manufacturer's instructions).
+8.Clean the nebulizer (see manufacturer's instructions)..
 
 Rx Only
 
