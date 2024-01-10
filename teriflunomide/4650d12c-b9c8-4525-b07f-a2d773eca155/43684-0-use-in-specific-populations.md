@@ -2,11 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
-
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to AUBAGIO during pregnancy.
-Healthcare providers and patients are encouraged to report pregnancies by calling 1-800-745-4447, option 2.
-
 Risk Summary
 
 AUBAGIO is contraindicated for use in pregnant women and females of reproductive potential not using effective contraception because of the potential for fetal harm based on animal data [see Contraindications (4) and Warnings and Precautions (5.2)].
@@ -17,6 +12,9 @@ There are no human data pertaining to exposures later in the first trimester or 
 
 In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%–4% and 15%–20%, respectively.
 The background risk of major birth defects and miscarriage in the indicated population is unknown.
+
+There is a pregnancy surveillance program for AUBAGIO.
+If AUBAGIO exposure occurs during pregnancy, healthcare providers and patients are encouraged to report pregnancies by calling 1-800-745-4447, option 2.
 
 Clinical Considerations
 
