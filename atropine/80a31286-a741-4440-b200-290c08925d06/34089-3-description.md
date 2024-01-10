@@ -6,9 +6,7 @@ It is administered parenterally by intravenous injection.
 Each milliliter (mL) contains 0.1 mg (adult strength) of atropine sulfate monohydrate equivalent to 0.083 mg (adult strength) of atropine, and sodium chloride, 9 mg.
 May contain sodium hydroxide and/or sulfuric acid for pH adjustment.
 
-0.308 mOsmol/mL (calc.).
-
-pH 3.0 to 6.5.
+0.308 mOsmol/mL (calc.). pH 3.0 to 6.5.
 
 Sodium chloride added to render the solution isotonic for injection of the active ingredient is present in amounts insufficient to affect serum electrolyte balance of sodium (Na+) and chloride (Cl-) ions.
 
@@ -21,4 +19,4 @@ It has the following structural formula:
 
 Atropine, a naturally occurring belladonna alkaloid, is a racemic mixture of equal parts of d- and 1-hyocyamine, whose activity is due almost entirely to the levo isomer of the drug.
 
-Sodium Chloride, USP is chemically designated NaCl, a white crystalline powder freely soluble in water.
+Sodium chloride, USP is chemically designated NaCl, a white crystalline powder freely soluble in water.

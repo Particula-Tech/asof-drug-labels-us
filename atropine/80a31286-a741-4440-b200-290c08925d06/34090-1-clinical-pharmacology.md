@@ -29,19 +29,19 @@ Systemic doses slightly raise systolic and lower diastolic pressures and can pro
 Such doses also slightly increase cardiac output and decrease central venous pressure.
 Occasionally, therapeutic doses dilate cutaneous blood vessels, particularly in the “blush” area (atropine flush) and may cause atropine “fever” due to suppression of sweat gland activity in infants and small children.
 
-The effects of intravenous atropine on heart rate (maximum heart rate) and saliva flow (minimum flow) after intravenous administration (rapid, constant infusion over 3 min.) are delayed by 7 to 8 minutes after drug administration and both effects are non-linearly related to the amount of drug in the peripheral compartment.
+The effects of intravenous atropine on heart rate (maximum heart rate) and saliva flow (minimum flow) after intravenous administration (rapid, constant infusion over 3 minutes) are delayed by 7 to 8 minutes after drug administration and both effects are non-linearly related to the amount of drug in the peripheral compartment.
 Changes in plasma atropine levels following intramuscular administration (0.5 mg to 4 mg doses) and heart rate are closely overlapped but the time course of the changes in atropine levels and behavioral impairment indicates that pharmacokinetics is not the primary rate-limiting mechanism for the central nervous system effect of atropine.
 
 ## 12.3 Pharmacokinetics
 
 Atropine disappears rapidly from the blood following injection and is distributed throughout the body.
 Exercise, both prior to and immediately following intramuscular administration of atropine, significantly increases the absorption of atropine due to increased perfusion in the muscle and significantly decreases the clearance of atropine.
-The pharmacokinetics of atropine is nonlinear after intravenous administration of 0.5 to 4 mg.
+The pharmacokinetics of atropine is nonlinear after intravenous administration of 0.5 mg to 4 mg.
 Atropine’s plasma protein binding is about 44% and saturable in the 2 mcg/mL to 20 mcg/mL concentration range.
-Atropine readily crosses the placental barrier and enters the fetal circulation, but is not found in amniotic fluid.
+Atropine readily crosses the placental barrier and enters the fetal circulation but is not found in amniotic fluid.
 Much of the drug is destroyed by enzymatic hydrolysis, particularly in the liver; from 13% to 50% is excreted unchanged in the urine.
 Traces are found in various secretions, including milk.
-The major metabolites of atropine are noratropine, atropin-n-oxide, tropine, and tropic acid.
+The major metabolites of atropine are noratropine, atropin-n-oxide, tropine and tropic acid.
 The metabolism of atropine is inhibited by organophosphate pesticides.
 
 Specific Populations
