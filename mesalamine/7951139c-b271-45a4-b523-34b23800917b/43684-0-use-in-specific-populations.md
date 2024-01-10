@@ -66,11 +66,11 @@ Reports from uncontrolled clinical studies and postmarketing reporting systems s
 
 who were 65 years or older compared to younger patients taking mesalamine-containing products such as APRISO.
 Monitor complete blood cell counts and platelet counts in elderly patients during treatment with APRISO.
-In general, consider the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in elderly patients when prescribing APRISO [see Use in Specific Populations(8.6)].
+In general, consider the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in elderly patients when prescribing APRISO [seeUse in Specific Populations(8.6)].
 
 ## 8.6 Renal Impairment
 
 Mesalamine is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Evaluate renal function in all patients prior to initiation and periodically while on APRISO therapy.
 Monitor patients with known renal impairment or history of renal disease or taking nephrotoxic drugs for decreased renal function and mesalamine-related adverse reactions.
-Discontinue APRISO if renal function deteriorates while on therapy [see Warnings and Precautions(5.1), Adverse Reactions (6.2), Drug Interactions (7.2)].
+Discontinue APRISO if renal function deteriorates while on therapy [seeWarnings and Precautions(5.1), Adverse Reactions (6.2), Drug Interactions (7.2)].

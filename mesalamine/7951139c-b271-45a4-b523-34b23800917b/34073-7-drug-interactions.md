@@ -7,7 +7,7 @@ Because the dissolution of the coating of the granules in APRISO capsules depend
 ## 7.2 Nephrotoxic Agents, Including Non-Steroidal Anti-Inflammatory Drugs
 
 The concurrent use of mesalamine with known nephrotoxic agents, including non-steroidal anti-inflammatory drugs (NSAIDs) may increase the risk of nephrotoxicity.
-Monitor patients taking nephrotoxic drugs for changes in renal function and mesalamine-related adverse reactions [see Warnings and Precautions(5.1)].
+Monitor patients taking nephrotoxic drugs for changes in renal function and mesalamine-related adverse reactions [seeWarnings and Precautions(5.1)].
 
 ## 7.3 Azathioprine or 6-Mercaptopurine
 

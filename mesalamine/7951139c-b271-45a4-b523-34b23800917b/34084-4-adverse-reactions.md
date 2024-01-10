@@ -7,8 +7,8 @@ The following clinically significant adverse reactions are described elsewhere i
 - Hypersensitivity Reactions [see Warnings and Precautions(5.3)]
 - Hepatic Failure [see Warnings and Precautions(5.4)]
 - Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
-- Photosensitivity [see Warnings and Precautions(5.6)]
-- Nephrolithiasis [see Warnings and Precautions(5.7)]
+- Photosensitivity [seeWarnings and Precautions(5.6)]
+- Nephrolithiasis [seeWarnings and Precautions(5.7)]
 - Risks in Patients with Phenylketonuria [seeWarnings and Precautions(5.8)]
 
 ## 6.1 Clinical Trials Experience
@@ -59,7 +59,7 @@ Because many of these reactions are reported voluntarily from a population of un
 
 Body as a Whole: lupus-like syndrome, drug fever
 
-Cardiovascular: pericarditis, pericardial effusion, myocarditis [see Warnings and Precautions(5.3)]
+Cardiovascular: pericarditis, pericardial effusion, myocarditis [seeWarnings and Precautions(5.3)]
 
 Gastrointestinal: pancreatitis, cholecystitis, gastritis, gastroenteritis, gastrointestinal bleeding, perforated peptic ulcer
 
@@ -71,7 +71,7 @@ Nervous System: intracranial hypertension
 
 Neurological/Psychiatric: peripheral neuropathy, Guillain-Barré syndrome, transverse myelitis
 
-Renal and Urinary: nephrogenic diabetes insipidus, interstitial nephritis, renal failure, minimal change disease, nephrolithiasis [see Warnings and Precautions(5.1, 5.7)]
+Renal and Urinary: nephrogenic diabetes insipidus, interstitial nephritis, renal failure, minimal change disease, nephrolithiasis [seeWarnings and Precautions(5.1, 5.7)]
 
 - Urine discoloration occurring ex-vivo caused by contact of mesalamine, including inactive metabolite, with surfaces or water treated with hypochlorite-containing bleach.
 
