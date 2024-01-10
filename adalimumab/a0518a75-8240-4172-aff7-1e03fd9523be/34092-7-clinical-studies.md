@@ -456,12 +456,12 @@ Efficacy Results at 16 Weeks in Study Ps-I Number of Subjects (%)
 Table 18.
 Efficacy Results at 16 Weeks in Study Ps-II Number of Subjects (%)
 
-|  | Adalimumab 40 mg every other week | Placebo |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | N = 99 | N = 48 |  |  |  |
-| PGA: Clear or minimalClear = no plaque elevation, no scale, plus or minus hyperpigmentation or diffuse pink or red coloration | 70 (71%) | 5 (10%) |  |  |  |
-| PASI 75 | 77 (78%) | 9 (19%) |  |  |  |
-| Minimal = possible but difficult to ascertain whether there is slight elevation of plaque above normal skin, plus or minus surface dryness with some white coloration, plus or minus up to red coloration |  |  |  |  |  |
+|  | Adalimumab 40 mg every other week | Placebo |
+| --- | --- | --- |
+|  | N = 99 | N = 48 |
+| PGA: Clear or minimalClear = no plaque elevation, no scale, plus or minus hyperpigmentation or diffuse pink or red coloration | 70 (71%) | 5 (10%) |
+| PASI 75 | 77 (78%) | 9 (19%) |
+| Minimal = possible but difficult to ascertain whether there is slight elevation of plaque above normal skin, plus or minus surface dryness with some white coloration, plus or minus up to red coloration |  |  |
 
 Additionally, in Study Ps-I, subjects on adalimumab who maintained a PASI 75 were re-randomized to adalimumab (N = 250) or placebo (N = 240) at Week 33.
 After 52 weeks of treatment with adalimumab, more subjects on adalimumab maintained efficacy when compared to subjects who were re-randomized to placebo based on maintenance of PGA of “clear” or “minimal” disease (68% vs. 28%) or a PASI 75 (79% vs. 43%).
