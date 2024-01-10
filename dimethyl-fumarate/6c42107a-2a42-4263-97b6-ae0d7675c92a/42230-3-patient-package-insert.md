@@ -1,5 +1,3 @@
-# SPL PATIENT PACKAGE INSERT
-
 Patient Information
 
 Dimethyl Fumarate (dye meth' il fue' ma rate)
@@ -58,24 +56,73 @@ Dimethyl fumarate may cause serious side effects including:
   Your doctor should do blood tests to check your liver function before you start taking dimethyl fumarate delayed-release capsules and during treatment if needed.
   Tell your doctor right away if you get any of these symptoms of a liver problem during treatment.
 
-○ severe tiredness
-
-○ loss of appetite
-
-○ pain on the right side of your stomach
-
-○ have dark or brown (tea color) urine
-
-○ yellowing of your skin or the white part of your eyes
+- severe tiredness
+- loss of appetite
+- pain on the right side of your stomach
+- have dark or brown (tea color) urine
+- yellowing of your skin or the white part of your eyes
 
 - herpes zoster infections (shingles), including central nervous system infections
 - other serious infections
+- serious gastrointestinal problems, including bleeding, ulcers, blockage, and tears (perforation) of the stomach or intestines.
+  Tell your healthcare provider right away if you have any of these symptoms during treatment:
+  - Stomach-area pain that does not go away
+  - Bright red or black stools (that look like tar)
+  - Severe vomiting
+  - Severe diarrhea
+  - Coughing up blood or blood clots
+  - Vomiting blood or your vomit looks like “coffee grounds”
 
 The most common side effects of dimethyl fumarate include:
 
 - flushing, redness, itching, or rash
-- nausea, vomiting, diarrhea, stomach pain, or indigestion
+- nausea, vomiting, diarrhea, stomach pain, or indigestion.
+  These events can be serious in some patients (see “dimethyl fumarate delayed-release capsules may cause serious side effects including,” above).
 - Flushing and stomach problems are the most common reactions, especially at the start of therapy, and may decrease over time.
   Taking dimethyl fumarate delayed-release capsules with food may help reduce flushing.
   Call your doctor if you have any of these symptoms and they bother you or do not go away.
   Ask your doctor if taking aspirin before taking dimethyl fumarate delayed-release capsules may reduce flushing.
+
+These are not all the possible side effects of dimethyl fumarate delayed-release capsules.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+For more information go to dailymed.nlm.nih.gov.
+
+General Information about the safe and effective use of dimethyl fumarate delayed-release capsules
+
+- Medicines are sometimes prescribed for purposes other than those listed in this Patient Information.
+  Do not use dimethyl fumarate delayed-release capsules for a condition for which it was not prescribed.
+  Do not give dimethyl fumarate delayed-release capsules to other people, even if they have the same symptoms that you have.
+  It may harm them.
+- If you would like more information, talk to your doctor or pharmacist.
+  You can ask your doctor or pharmacist for information about dimethyl fumarate delayed-release capsules that is written for healthcare professionals.
+
+What are the ingredients in dimethyl fumarate delayed-release capsules?
+
+Active ingredient: dimethyl fumarate
+
+Inactive ingredients: silicified microcrystalline cellulose, croscarmellose sodium, colloidal silicon dioxide, magnesium stearate, methacrylic acid and methyl methacrylate copolymer, triethyl citrate, iso propyl alcohol, methacrylic acid and ethyl acrylate copolymer dispersion, talc, simethicon emulsion, sodium lauryl sulphate and polysorbate 80.
+
+Capsule Shell: gelatin, titanium dioxide, FD&C blue 1, yellow iron oxide, black iron oxide, shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution and potassium hydroxide.
+
+Manufactured by:
+
+MSN Laboratories Private Limited,
+
+Telangana 509 228,
+
+India.
+
+Manufactured for:
+
+Cipla USA, Inc.
+
+1 0 Independence Boulevard, Suite 300
+
+Warren, NJ 07059
+
+www.ciplausa.com or call 1-866-604-3268
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+Revised: 12/2023
