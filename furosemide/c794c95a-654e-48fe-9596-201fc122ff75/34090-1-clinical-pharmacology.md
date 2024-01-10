@@ -1,30 +1,48 @@
-# CLINICAL PHARMACOLOGY:
+# 12 CLINICAL PHARMACOLOGY
 
-Investigations into the mode of action of furosemide have utilized micropuncture studies in rats, stop flow experiments in dogs and various clearance studies in both humans and experimental animals.
-It has been demonstrated that furosemide inhibits primarily the reabsorption of sodium and chloride not only in the proximal and distal tubules but also in the loop of Henle.
-The high degree of efficacy is largely due to the unique site of action.
+## 12.1 Mechanism of Action
+
+Furosemide inhibits primarily the reabsorption of sodium and chloride not only in the proximal and distal tubules but also in the loop of Henle.
+The high degree of efficacy is largely due to this unique site of action.
 The action on the distal tubule is independent of any inhibitory effect on carbonic anhydrase and aldosterone.
 
-Recent evidence suggests that furosemide glucuronide is the only or at least the major biotransformation product of furosemide in man.
+## 12.2 Pharmacodynamics
+
+The onset of diuresis following intravenous administration is within 5 minutes and somewhat later after intramuscular administration.
+The peak effect occurs within the first half hour.
+The duration of diuretic effect is approximately 2 hours.
+
+## 12.3 Pharmacokinetics
+
+Distribution
+
 Furosemide is extensively bound to plasma proteins, mainly to albumin.
+
 Plasma concentrations ranging from 1 to 400 mcg/mL are 91 to 99% bound in healthy individuals.
 The unbound fraction averages 2.3 to 4.1% at therapeutic concentrations.
 
-The onset of diuresis following IV administration is within five minutes and somewhat later after IM administration.
-The peak effect occurs within the first half hour.
-The duration of diuretic effect is approximately two hours.
+Elimination
 
-In fasted normal men, the mean bioavailability of furosemide from tablets and oral solution is 64% and 60%, respectively, of that from an intravenous injection of the drug.
-Although furosemide is more rapidly absorbed from the oral solution (50 minutes) than from the tablet (87 minutes), peak plasma levels and area under the plasma concentration-time curves do not differ significantly.
-Peak plasma concentrations increase with increasing dose but times-to-peak do not differ among doses.
-The terminal half-life of furosemide is approximately two hours.
+The terminal half-life of furosemide is approximately 2 hours.
 
-Significantly more furosemide is excreted in urine following the IV injection than after the tablet or oral solution.
-There are no significant differences between the two oral formulations in the amount of unchanged drug excreted in urine.
+Metabolism
 
-## Geriatric Population
+Recent evidence suggests that furosemide glucuronide is the only or at least the major biotransformation product of furosemide in man.
+
+Excretion
+
+Significantly more furosemide is excreted in urine following the intravenous injection than after the tablet or oral solution.
+
+Specific Populations
+
+Geriatric Patients
 
 Furosemide binding to albumin may be reduced in elderly patients.
 Furosemide is predominantly excreted unchanged in the urine.
 The renal clearance of furosemide after intravenous administration in older healthy male subjects (60 to 70 years of age) is statistically significantly smaller than in younger healthy male subjects (20 to 35 years of age).
-The initial diuretic effect of furosemide in older subjects is decreased relative to younger subjects (see PRECAUTIONS, Geriatric Use).
+The initial diuretic effect of furosemide in older subjects is decreased relative to younger subjects [see Use in Specific Populations (8.5)].
+
+Patients with Renal Impairment
+
+One study in six subjects demonstrated that the combination of furosemide and acetylsalicylic acid temporarily reduced creatinine clearance in patients with chronic renal insufficiency.
+There are case reports of patients who developed increased BUN, serum creatinine and serum potassium levels, and weight gain when furosemide was used in conjunction with NSAIDs.

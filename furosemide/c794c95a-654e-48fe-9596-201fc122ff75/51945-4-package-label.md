@@ -1,5 +1,7 @@
 # PACKAGE LABEL – PRINCIPAL DISPLAY – Furosemide 2 mL Single Dose Vial Label
 
+NDC 63323-280-01 28002
+
 Furosemide Injection, USP
 
 20 mg per 2 mL (10 mg per mL)
@@ -10,7 +12,7 @@ Preservative free.
 
 Discard unused portion.
 
-Protect from light
+Protect from light.
 
 2 mL Single Dose Vial
 
