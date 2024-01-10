@@ -68,7 +68,7 @@ At this point, the treatment is finished.
 7.
 Discard the formoterol fumarate inhalation solution container and top after use.
 8.
-Clean the nebulizer (see manufacturer’s instructions).
+Clean the nebulizer (see manufacturer’s instructions)..
 
 Rx Only
 
