@@ -1,8 +1,15 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Dilaudid 0.5 mL Single-Dose Syringe Label
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Dilaudid 0.5 mL Single-Dose Syringe Label For SC, IM, or slow IV use.
+For SC, IM, or slow IV use.
 0.5 mL Single-Dose.
-Rx only Dilaudid® CII HYDROmorphone HCl Injection, USP
+
+Rx only
+
+Dilaudid® CII
+
+HYDROmorphone HCl
+
+Injection, USP
 
 0.5 mg/0.5 mL
 
@@ -17,10 +24,10 @@ Do NOT dilute for IV push.
 Do NOT place syringe on a Sterile Field.
 10 x 0.5 mL single-dose prefilled syringes Discard unused portion.
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Dilaudid 1mL Single-Dose Syringe Label
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Dilaudid 1 mL Single-Dose Syringe Label
 
 For SC, IM, or slow IV use.
-1mL Single-Dose.
+1 mL Single-Dose.
 
 Rx only
 
@@ -66,10 +73,10 @@ Do NOT place syringe on a Sterile Field.
 
 Discard unused portion.
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Dilaudid 1mL Single-Dose Syringe Label
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Dilaudid 1 mL Single-Dose Syringe Label
 
 For SC, IM, or slow IV use.
-1mL Single-Dose.
+1 mL Single-Dose.
 
 Rx only
 
@@ -115,9 +122,18 @@ Do NOT place syringe on a Sterile Field.
 
 Discard unused portion.
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Dilaudid 1mL Single-Dose Syringe Label For SC, IM, or slow IV use.
-1mL Single-Dose.
-Rx only Dilaudid® CII HYDROmorphone HCl Injection, USP
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Dilaudid 1 mL Single-Dose Syringe Label
+
+For SC, IM, or slow IV use.
+1 mL Single-Dose.
+
+Rx only
+
+Dilaudid® CII
+
+HYDROmorphone HCl
+
+Injection, USP
 
 2 mg/mL
 
