@@ -2,7 +2,7 @@
 
 ## 4.1 Pregnancy
 
-Isotretinoin capsules are contraindicated in pregnancy [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+Isotretinoin capsules are contraindicated in pregnancy [see Warnings and Precautions (5.1)and Use in Specific Populations (8.1)].
 
 ## 4.2 Hypersensitivity
 

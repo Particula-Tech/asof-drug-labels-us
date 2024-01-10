@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Embryo-Fetal Toxicity
 
-There is an extremely high risk of severe birth defects when isotretinoin capsules are used in pregnancy [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+There is an extremely high risk of severe birth defects when isotretinoin capsules are used in pregnancy [see Warnings and Precautions (5.1)and Use in Specific Populations (8.1)].
 Instruct patients who can become pregnant that they must not be pregnant during or up to one month after isotretinoin capsules therapy.
 Instruct patients to not donate blood during isotretinoin capsules therapy and for 1 month following discontinuation to avoid blood donation to a pregnant patient.
 
@@ -14,10 +14,10 @@ Isotretinoin capsules are available only through a restricted program called iPL
 Inform patients who can become pregnant of the following notable requirements.
 These patients must:
 
-- •Sign an informed consent form to be enrolled in the program
-- •Comply with the pregnancy testing and contraception requirements [see Use in Specific Populations (8.3)]
-- •Demonstrate comprehension of the safe-use conditions of the program every month
-- •Obtain the prescription within 7 days of the pregnancy test collection
+- Sign an informed consent form to be enrolled in the program
+- Comply with the pregnancy testing and contraception requirements [see Use in Specific Populations (8.3)]
+- Demonstrate comprehension of the safe-use conditions of the program every month
+- Obtain the prescription within 7 days of the pregnancy test collection
 
 Inform patients who cannot become pregnant of the following notable requirements.
 These patients must sign an informed consent form to enroll in the program and they must obtain the prescription within 30 days of the office visit.
@@ -57,8 +57,8 @@ Musculoskeletal Abnormalities
 
 Inform patients that:
 
-- •There have been reports of osteoporosis and fractures and that isotretinoin may have a negative effect on bone mineral density [see Warnings and Precautions (5.12)].
-- •Isotretinoin use has been associated with musculoskeletal abnormalities (e.g., arthralgia, back pain) [see Warnings and Precautions (5.12)].
+- There have been reports of osteoporosis and fractures and that isotretinoin may have a negative effect on bone mineral density [see Warnings and Precautions (5.12)].
+- Isotretinoin use has been associated with musculoskeletal abnormalities (e.g., arthralgia, back pain) [see Warnings and Precautions (5.12)].
 
 Inform adolescents and their families that isotretinoin use in adolescents who participated in sports with repetitive impact increase their risk of spondylolisthesis or hip growth plate injuries [see Warnings and Precautions (5.12)].
 Inform pediatric patients and their caregivers that pediatric patients treated with isotretinoin capsules developed back pain including severe back pain, and arthralgias including severe arthralgias [see Use in Specific Populations (8.4)].
@@ -83,10 +83,10 @@ Additional Instructions
 
 Inform patients:
 
-- •To not share isotretinoin capsules with anyone else because of the risk of birth defects and other serious adverse reactions.
-- •That transient exacerbation (flare) of acne has been seen, generally during the initial period of therapy.
-- •That wax epilation and skin resurfacing procedures (such as dermabrasion, laser) should be avoided during isotretinoin capsules therapy and for at least 6 months thereafter due to the possibility of scarring.
-- •To avoid prolonged exposure to UV rays or sunlight.
+- To not share isotretinoin capsules with anyone else because of the risk of birth defects and other serious adverse reactions.
+- That transient exacerbation (flare) of acne has been seen, generally during the initial period of therapy.
+- That wax epilation and skin resurfacing procedures (such as dermabrasion, laser) should be avoided during isotretinoin capsules therapy and for at least 6 months thereafter due to the possibility of scarring.
+- To avoid prolonged exposure to UV rays or sunlight.
 
 Manufactured by:
 

@@ -7,9 +7,9 @@ The incidence of adrenal medullary hyperplasia was also increased at the higher 
 The relatively high level of spontaneous pheochromocytomas occurring in the male Fischer 344 rat makes it an equivocal model for study of this tumor; therefore, the relevance of this tumor to humans is uncertain.
 
 The Ames test was conducted with isotretinoin in two laboratories.
-The results of the tests in one laboratory were negative, while in the second laboratory, a weakly positive response (less than 1.6 times background) was noted in S. typhimurium TA100 when the assay was conducted with metabolic activation.
+The results of the tests in one laboratory were negative, while in the second laboratory, a weakly positive response (less than 1.6 times background) was noted in S. typhimuriumTA100 when the assay was conducted with metabolic activation.
 No dose response effect was seen, and all other strains were negative.
-Additionally, other tests designed to assess genotoxicity (Chinese hamster cell assay, mouse micronucleus test, S. cerevisiae D7 assay, in vitro clastogenesis assay with human-derived lymphocytes, and unscheduled DNA synthesis assay) were all negative.
+Additionally, other tests designed to assess genotoxicity (Chinese hamster cell assay, mouse micronucleus test, S. cerevisiaeD7 assay, in vitro clastogenesis assay with human-derived lymphocytes, and unscheduled DNA synthesis assay) were all negative.
 
 In rats, no adverse effects on gonadal function, fertility, conception rate, gestation or parturition were observed at oral dosages of isotretinoin of 2, 8, or 32 mg/kg/day (0.3, 1.3, or 5.3 times the recommended clinical isotretinoin capsules dosage of 1 mg/kg/day after normalization for total body surface area).
 

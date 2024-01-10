@@ -4,20 +4,20 @@
 
 The recommended dosage of:
 
-- •Isotretinoin capsules is 0.5 to 1 mg/kg/day given in two divided doses with or without meals for 15 to 20 weeks (see Table 1).
+- Isotretinoin capsules is 0.5 to 1 mg/kg/daygiven in two divided doses with or without meals for 15 to 20 weeks (see Table 1).
 
 To decrease the risk of esophageal irritation, instruct patients to swallow the capsules with a full glass of liquid.
 During treatment, the dosage may be adjusted according to response of the disease and/or adverse reactions, some of which may be dose-related.
-Adult patients whose disease is very severe with scarring or is primarily manifested on the trunk may require dosage adjustments up to 2 mg/kg/day for isotretinoin capsules in divided doses, as tolerated.
+Adult patients whose disease is very severe with scarring or is primarily manifested on the trunk may require dosage adjustments up to 2 mg/kg/day for isotretinoin capsulesin divided doses, as tolerated.
 
-The safety and effectiveness of once daily dosing with isotretinoin capsules has not been established and is not recommended.
+The safety and effectiveness of once daily dosing with isotretinoin capsules has not been established and is notrecommended.
 
 If a dose of isotretinoin capsules is missed, just skip that dose.
 Do not take two doses of isotretinoin capsules at the same time.
 
-Table 1: Isotretinoin Capsules Daily Dosage by Body Weight1
+Table 1: Isotretinoin Capsules Daily Dosage by Body Weight 1
 
-| BodyWeight | Total Daily Dosage (mg)1 |  |  |
+| BodyWeight | Total Daily Dosage (mg) 1 |  |  |
 | --- | --- | --- | --- |
 | 0.5 mg/kg | 1 mg/kg | 2 mg/kg |  |
 | 40 kg | 20 | 40 | 80 |
@@ -28,7 +28,7 @@ Table 1: Isotretinoin Capsules Daily Dosage by Body Weight1
 | 90 kg | 45 | 90 | 180 |
 | 100 kg | 50 | 100 | 200 |
 
-1 Administer in two divided doses with or without meals
+1Administer in two divided doses with or without meals
 
 ## 2.2 Duration of Use
 
@@ -46,6 +46,6 @@ The effect of long-term use of isotretinoin capsules on bone loss is unknown [se
 
 The following laboratory testing must be completed prior to isotretinoin capsules use:
 
-- •Pregnancy testing: Ensure patient is not pregnant prior to administering isotretinoin capsules [see Contraindications (4) and Use in Specific Populations (8.1, 8.3)]
-- •A fasting lipid profile including triglycerides [see Warnings and Precautions (5.8, 5.15)].
-- •Liver function tests [see Warnings and Precautions (5.10, 5.15)].
+- Pregnancy testing: Ensure patient is not pregnant prior to administering isotretinoin capsules [see Contraindications (4)and Use in Specific Populations (8.1, 8.3)]
+- A fasting lipid profile including triglycerides [see Warnings and Precautions (5.8, 5.15)].
+- Liver function tests [see Warnings and Precautions (5.10, 5.15)].

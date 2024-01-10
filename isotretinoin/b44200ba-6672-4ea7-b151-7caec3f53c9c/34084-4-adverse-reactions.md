@@ -2,18 +2,18 @@
 
 The following adverse reactions with isotretinoin capsules or other isotretinoin capsule products are described in more detail in other sections of the labeling:
 
-- •Embryo-Fetal Toxicity [see Warnings and Precautions (5.1)]
-- •Psychiatric Disorders [see Warnings and Precautions (5.4)]
-- •Intracranial Hypertension (Pseudotumor Cerebri) [see Warnings and Precautions (5.5)]
-- •Serious Skin Reactions [see Warnings and Precautions (5.6)]
-- •Pancreatitis [see Warnings and Precautions (5.7)]
-- •Lipid Abnormalities [see Warnings and Precautions (5.8)]
-- •Hearing Impairment [see Warnings and Precautions (5.9)]
-- •Hepatotoxicity [see Warnings and Precautions (5.10)]
-- •Inflammatory Bowel Disease [see Warnings and Precautions (5.11)]
-- •Musculoskeletal Abnormalities [see Warnings and Precautions (5.12)]
-- •Ocular Abnormalities [see Warnings and Precautions (5.13)]
-- •Hypersensitivity Reactions [see Warnings and Precautions (5.14)]
+- Embryo-Fetal Toxicity [see Warnings and Precautions (5.1)]
+- Psychiatric Disorders [see Warnings and Precautions (5.4)]
+- Intracranial Hypertension (Pseudotumor Cerebri) [see Warnings and Precautions (5.5)]
+- Serious Skin Reactions [see Warnings and Precautions (5.6)]
+- Pancreatitis [see Warnings and Precautions (5.7)]
+- Lipid Abnormalities [see Warnings and Precautions (5.8)]
+- Hearing Impairment [see Warnings and Precautions (5.9)]
+- Hepatotoxicity [see Warnings and Precautions (5.10)]
+- Inflammatory Bowel Disease [see Warnings and Precautions (5.11)]
+- Musculoskeletal Abnormalities [see Warnings and Precautions (5.12)]
+- Ocular Abnormalities [see Warnings and Precautions (5.13)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.14)]
 
 The following adverse reactions associated with the use of isotretinoin capsules were identified in clinical studies or postmarketing reports.
 Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

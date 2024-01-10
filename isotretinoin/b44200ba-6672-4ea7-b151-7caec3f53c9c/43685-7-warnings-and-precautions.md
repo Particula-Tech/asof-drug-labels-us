@@ -21,21 +21,21 @@ Isotretinoin capsules are available only through a restricted program under a RE
 Isotretinoin capsules are available only through a restricted program under a REMS called the iPLEDGE REMS because of the risk of embryo-fetal toxicity [see Warnings and Precautions (5.1)].
 Notable requirements of the iPLEDGE REMS include the following:
 
-- •Prescribers must be certified with the program and comply with the following requirements:
-  - •Determine reproductive status of all patients prior to initiating treatment
-  - •Provide contraception counseling to patients who can get pregnant prior to and during treatment, or refer patients who can get pregnant to an expert for such counseling
-  - •Provide scheduled pregnancy testing, and verify and document the negative pregnancy test result prior to writing each prescription, for no more than a 30-day supply
-- •Patients who can become pregnant must be enrolled by signing an informed consent form and must comply with the following requirements
-  - •Comply with the pregnancy testing and contraception requirements [see Use in Specific Populations (8.3)]
-  - •Demonstrate comprehension of the safe-use conditions of the program every month
-  - •Obtain the prescription within 7 days of the pregnancy test collection
-- •Patients who cannot become pregnant must be enrolled by signing an informed consent form and must obtain the prescription within 30 days of the office visit
-- •Pharmacies that dispense isotretinoin capsules must be certified by being registered and activated in the program, must only dispense to patients who are authorized to receive isotretinoin capsules, and comply with the following requirements:
-  - •Only dispense a maximum of a 30-day supply with a Medication Guide.
-  - •Do not dispense refills.
+- Prescribers must be certified with the program and comply with the following requirements:
+  - Determine reproductive status of all patients prior to initiating treatment
+  - Provide contraception counseling to patients who can get pregnant prior to and during treatment, or refer patients who can get pregnant to an expert for such counseling
+  - Provide scheduled pregnancy testing, and verify and document the negative pregnancy test result prior to writing each prescription, for no more than a 30-day supply
+- Patients who can become pregnant must be enrolled by signing an informed consent form and must comply with the following requirements
+  - Comply with the pregnancy testing and contraception requirements [see Use in Specific Populations (8.3)]
+  - Demonstrate comprehension of the safe-use conditions of the program every month
+  - Obtain the prescription within 7 days of the pregnancy test collection
+- Patients who cannot become pregnant must be enrolled by signing an informed consent form and must obtain the prescription within 30 days of the office visit
+- Pharmacies that dispense isotretinoin capsules must be certified by being registered and activated in the program, must only dispense to patients who are authorized to receive isotretinoin capsules, and comply with the following requirements:
+  - Only dispense a maximum of a 30-day supply with a Medication Guide.
+  - Do not dispense refills.
     Dispense only with a new prescription and a new authorization from the program.
-  - •Return isotretinoin capsules to inventory if patients do not obtain the prescription by the “Do Not Dispense To After” date
-- •Wholesalers and distributors must be registered with the program and must only distribute to certified pharmacies.
+  - Return isotretinoin capsules to inventory if patients do not obtain the prescription by the “ Do Not Dispense To After” date
+- Wholesalers and distributors must be registered with the program and must only distribute to certified pharmacies.
 
 Further information, including a list of qualified pharmacies and distributors, is available at www.ipledgeprogram.com or 1-866-495-0654.
 

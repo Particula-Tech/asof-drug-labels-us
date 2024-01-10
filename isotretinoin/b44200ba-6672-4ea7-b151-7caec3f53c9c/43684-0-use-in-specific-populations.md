@@ -42,8 +42,8 @@ Pregnancy Testing
 Isotretinoin capsules must only be prescribed to patients who are known not to be pregnant as confirmed by a negative CLIA-certified laboratory conducted pregnancy test.
 Patients who can become pregnant must have had two negative urine or serum pregnancy tests with a sensitivity of at least 25 mIU/mL before receiving the initial isotretinoin capsules prescription (the interval between the two tests must be at least 19 days).
 
-- •The first test (a screening test) is obtained by the prescriber when the decision is made to prescribe isotretinoin capsules therapy.
-- •The second pregnancy test (a confirmation test) is performed after the patient has used 2 forms of contraception for 1 month and during the first 5 days of the menstrual period immediately preceding the beginning of isotretinoin capsules therapy (for patients with regular menstrual cycles) or immediately preceding the beginning of isotretinoin capsules therapy (for patients with amenorrhea, irregular cycles, or using a contraceptive method that precludes withdrawal bleeding).
+- The first test (a screening test) is obtained by the prescriber when the decision is made to prescribe isotretinoin capsules therapy.
+- The second pregnancy test (a confirmation test) is performed after the patient has used 2 forms of contraception for 1 month and during the first 5 days of the menstrual period immediately preceding the beginning of isotretinoin capsules therapy (for patients with regular menstrual cycles) or immediately preceding the beginning of isotretinoin capsules therapy (for patients with amenorrhea, irregular cycles, or using a contraceptive method that precludes withdrawal bleeding).
 
 A pregnancy test must be repeated each month, in a CLIA-certified laboratory prior to the patient receiving each prescription.
 A pregnancy test must also be completed at the end of the entire course of isotretinoin capsules therapy and 1 month after the discontinuation of isotretinoin capsules.
@@ -56,11 +56,11 @@ Micro-dosed progesterone preparations (“minipills” that do not contain an es
 
 | Primary forms | Secondary forms |
 | --- | --- |
-| •Tubal sterilization | Barrier: |
-| •Male vasectomy | •male latex condom with or without spermicide |
-| •Intrauterine device | •diaphragm with spermicide |
-| •Hormonal (combination oral contraceptives, vaginal systems, vaginal inserts, transdermal systems, injections, or implants) | •cervical cap with spermicide |
-| Other: •Vaginal sponge (contains spermicide) |  |
+| Tubal sterilization | Barrier: |
+| Male vasectomy | male latex condom with or without spermicide |
+| Intrauterine device | diaphragm with spermicide |
+| Hormonal (combination oral contraceptives, vaginal systems, vaginal inserts, transdermal systems, injections, or implants) | cervical cap with spermicide |
+| Other: Vaginal sponge (contains spermicide) |  |
 
 Any birth control method can fail.
 There have been reports of pregnancy from patients who have used combination oral contraceptives, as well as contraceptive vaginal systems, vaginal inserts, transdermal systems, and injections; these pregnancies occurred while taking isotretinoin.
@@ -77,15 +77,15 @@ Pregnancies have been reported by users of combined hormonal contraceptives who 
 
 If the patient has unprotected sexual contact with a partner that could result in pregnancy at any time 1 month before, during, or 1 month after therapy, the patient must:
 
-1. a.Stop taking isotretinoin capsules immediately, if on therapy
-2. b.Have a pregnancy test at least 19 days after the last act of unprotected sexual contact with a partner that could result in pregnancy
-3. c.Start using 2 forms of contraception simultaneously again for 1 month before resuming isotretinoin capsules therapy
-4. d.Have a second pregnancy test after using 2 forms of contraception for 1 month.
+1. Stop taking isotretinoin capsules immediately, if on therapy
+2. Have a pregnancy test at least 19 days after the last act of unprotected sexual contact with a partner that could result in pregnancy
+3. Start using 2 forms of contraception simultaneously again for 1 month before resuming isotretinoin capsules therapy
+4. Have a second pregnancy test after using 2 forms of contraception for 1 month.
 
 Infertility
 
 In a trial of female acne patients (n = 79) receiving another isotretinoin capsule product, the mean total ovarian volume, the total antral follicle count and mean anti-Mullerian hormone decreased at the end of the treatment (sixth month).
-However, the values returned to normal at the 18th month (12 months after the end of treatment).
+However, the values returned to normal at the 18 thmonth (12 months after the end of treatment).
 There were no statistically significant changes in terms of follicle-stimulating hormone and luteinizing hormone, both at the end of the treatment and 12 months after the end of treatment.
 Although the results suggest that possible deteriorative effects of isotretinoin on ovarian reserve may be reversible, the study has important methodological limitations, including a small sample size, lack of a control group, and lack of generalizability.
 
