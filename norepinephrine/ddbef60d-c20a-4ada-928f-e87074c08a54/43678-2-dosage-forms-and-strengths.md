@@ -2,8 +2,8 @@
 
 Injection:
 
-Norepinephrine in 0.9% sodium chloride is a clear, colorless premixed solution in 250 mL single-dose container as:
+Norepinephrine Bitartrate in Sodium Chloride is a clear, colorless solution, available as:
 
-- •4 mg equivalent of norepinephrine (16 mcg per mL)
-- •8 mg equivalent of norepinephrine (32 mcg per mL)
-- •16 mg equivalent of norepinephrine (64 mcg per mL)
+- •4 mg/250 mL (16 mcg per mL) of norepinephrine (free base), single-dose bags
+- •8 mg/250 mL (32 mcg per mL) of norepinephrine (free base), single-dose bags
+- •16 mg/250 mL (64 mcg per mL) of norepinephrine (free base), single-dose bags

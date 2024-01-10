@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Norepinephrine Bitartrate in Sodium Chloride Injection is filled in 250 mL Nexcel bags as:
+Norepinephrine Bitartrate in Sodium Chloride Injection is filled in 250 mL transparent intravenous Nexcel bags as:
 
 | NDC Configuration | Packaging Configuration | Total Norepinephrine Bitartrate |
 | --- | --- | --- |
@@ -11,8 +11,11 @@ Norepinephrine Bitartrate in Sodium Chloride Injection is filled in 250 mL Nexce
 | 44567-642-01 | 1 single-dose bag | 16 mg per 250 mL (64 mcg per mL) |
 | 44567-642-10 | 10 bags per carton |  |
 
-Each filled bag is packed in an overwrap with a transparent band and oxygen scavenger and oxygen indicator placed inside the overwrapping to prevent deterioration of drug product.
+Each filled bag is packed in an overwrap with a transparent band and oxygen absorber and oxygen indicator placed inside the overwrapping to prevent deterioration of drug product.
 Product should be used within 7 days of removal from overwrap.
+
+Do not use the product if the oxygen indicator has changed color to green or blue before opening the overwrap.
+Normal color is yellow or orange.
 
 Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature] in the original carton to protect from light.
 Do not freeze.
