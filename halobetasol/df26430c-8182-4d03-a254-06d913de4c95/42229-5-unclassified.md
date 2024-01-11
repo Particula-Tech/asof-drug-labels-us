@@ -3,18 +3,16 @@ Not for Ophthalmic Use.
 
 Rx Only
 
-Made in Israel
-
-Manufactured by Perrigo
+Manufactured By Padagis®
 
 Yeruham, Israel
 
-Distributed By Perrigo
+Distributed By Padagis®
 
-Allegan MI 49010
+Allegan, MI 49010
 
-www.perrigo.com
+www.padagis.com
 
-Rev 11-15
+Rev 12-22
 
-: 4C600 RC J3
+4C600 RC J4

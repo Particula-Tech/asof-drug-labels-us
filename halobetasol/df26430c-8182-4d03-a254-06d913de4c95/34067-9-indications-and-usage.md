@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Halobetasol propionate cream, 0.05% is a super-high potency corticosteroid indictated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.
+Halobetasol propionate cream, 0.05% is a super-high potency corticosteroid indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.
 Treatment beyond two consecutive weeks is not recommended, and the total dosage should not exceed 50 g/week because of the potential for the drug to suppress the hypothalamic-pituitary-adrenal (HPA) axis.
 
 Use in children under 12 years of age is not recommended.
