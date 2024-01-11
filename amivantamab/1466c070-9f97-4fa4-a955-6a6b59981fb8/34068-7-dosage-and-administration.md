@@ -12,7 +12,7 @@ The recommended doses of RYBREVANT, based on baseline body weight, are provided 
 
 Table 1: Recommended Dose of RYBREVANT Based on Baseline Body Weight
 
-| Body Weight at BaselineDose adjustments not required for subsequent body weight changes. | Recommended Dose | Number of 350 mg/7 mL RYBREVANT Vials |
+| Body Weight at Baseline Dose adjustments not required for subsequent body weight changes. | Recommended Dose | Number of 350 mg/7 mL RYBREVANT Vials |
 | --- | --- | --- |
 | Less than 80 kg | 1050 mg | 3 |
 | Greater than or equal to 80 kg | 1400 mg | 4 |
@@ -38,11 +38,11 @@ Table 3: Premedications
 
 | Medication | Dose | Route of Administration | Dosing Window Prior to RYBREVANT Administration |
 | --- | --- | --- | --- |
-| AntihistamineRequired at all doses. | Diphenhydramine (25 to 50 mg) or equivalent | Intravenous | 15 to 30 minutes |
+| Antihistamine Required at all doses. | Diphenhydramine (25 to 50 mg) or equivalent | Intravenous | 15 to 30 minutes |
 | Oral | 30 to 60 minutes |  |  |
 | Antipyretic | Acetaminophen (650 to 1,000 mg) | Intravenous | 15 to 30 minutes |
 | Oral | 30 to 60 minutes |  |  |
-| GlucocorticoidRequired at initial dose (Week 1, Days 1 and 2); optional for subsequent doses. | Dexamethasone (10 mg) or Methylprednisolone (40 mg) or equivalent | Intravenous | 45 to 60 minutes |
+| Glucocorticoid Required at initial dose (Week 1, Days 1 and 2); optional for subsequent doses. | Dexamethasone (10 mg) or Methylprednisolone (40 mg) or equivalent | Intravenous | 45 to 60 minutes |
 
 Administer both antihistamine and antipyretic prior to all infusions.
 Glucocorticoid administration required for Week 1, Days 1 and 2 doses only and as necessary for subsequent infusions.
@@ -53,7 +53,7 @@ The recommended RYBREVANT dose reductions for adverse reactions (see Table 5) ar
 
 Table 4: RYBREVANT Dose Reductions for Adverse Reactions
 
-| Body Weight at Baseline | Initial Dose | 1st Dose Reduction | 2nd Dose Reduction | 3rd Dose Reduction |
+| Body Weight at Baseline | Initial Dose | 1 stDose Reduction | 2 ndDose Reduction | 3 rdDose Reduction |
 | --- | --- | --- | --- | --- |
 | Less than 80 kg | 1050 mg | 700 mg | 350 mg | Discontinue RYBREVANT |
 | Greater than or equal to 80 kg | 1400 mg | 1050 mg | 700 mg |  |
@@ -64,8 +64,8 @@ Table 5: Recommended RYBREVANT Dosage Modifications for Adverse Reactions
 
 | Adverse Reaction | Severity | Dosage Modifications |
 | --- | --- | --- |
-| Infusion-related reactions (IRR) [see Warnings and Precautions (5.1)] | Grade 1 to 2 | Interrupt RYBREVANT infusion if IRR is suspected and monitor patient until reaction symptoms resolve.Resume the infusion at 50% of the infusion rate at which the reaction occurred.If there are no additional symptoms after 30 minutes, the infusion rate may be escalated (see Table 6).Include corticosteroid with premedications for subsequent dose (see Table 3). |
-| Grade 3 | Interrupt RYBREVANT infusion and administer supportive care medications. Monitor patient until reaction symptoms resolve. Resume the infusion at 50% of the infusion rate at which the reaction occurred.If there are no additional symptoms after 30 minutes, the infusion rate may be escalated (see Table 6). Include corticosteroid with premedications for subsequent dose (see Table 3). For recurrent Grade 3, permanently discontinue RYBREVANT. |  |
+| Infusion-related reactions (IRR) [see Warnings and Precautions (5.1)] | Grade 1 to 2 | Interrupt RYBREVANT infusion if IRR is suspected and monitor patient until reaction symptoms resolve.Resume the infusion at 50% of the infusion rate at which the reaction occurred.If there are no additional symptoms after 30 minutes, the infusion rate may be escalated (see Table 6). Include corticosteroid with premedications for subsequent dose (see Table 3). |
+| Grade 3 | Interrupt RYBREVANT infusion and administer supportive care medications. Monitor patient until reaction symptoms resolve.Resume the infusion at 50% of the infusion rate at which the reaction occurred.If there are no additional symptoms after 30 minutes, the infusion rate may be escalated (see Table 6). Include corticosteroid with premedications for subsequent dose (see Table 3). For recurrent Grade 3, permanently discontinue RYBREVANT. |  |
 | Grade 4 | Permanently discontinue RYBREVANT. |  |
 | Interstitial Lung Disease (ILD)/pneumonitis [see Warnings and Precautions (5.2)] | Any Grade | Withhold RYBREVANT if ILD/pneumonitis is suspected.Permanently discontinue RYBREVANT if ILD/pneumonitis is confirmed. |
 | Dermatologic Adverse Reactions (including dermatitis acneiform, pruritus, dry skin) [see Warnings and Precautions (5.3)] | Grade 2 | Initiate supportive care management.Reassess after 2 weeks; if rash does not improve, consider dose reduction. |
@@ -82,7 +82,7 @@ Dilute and prepare RYBREVANT for intravenous infusion before administration.
 - Check that the RYBREVANT solution is colorless to pale yellow.
   Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
   Do not use if discoloration or visible particles are present.
-- Determine the dose required (either 1050 mg or 1400 mg) and number of RYBREVANT vials needed based on patient's baseline weight [see Dosage and Administration (2.2)].
+- Determine the dose required (either 1050 mg or 1400 mg) and number of RYBREVANT vials needed based on patient's baseline weight [seeDosage and Administration (2.2)].
   Each vial of RYBREVANT contains 350 mg of amivantamab-vmjw.
 - Withdraw and then discard a volume of either 5% dextrose solution or 0.9% sodium chloride solution from the 250 mL infusion bag equal to the volume of RYBREVANT to be added (i.e., discard 7 mL diluent from the infusion bag for each RYBREVANT vial).
   Only use infusion bags made of polyvinylchloride (PVC), polypropylene (PP), polyethylene (PE), or polyolefin blend (PP+PE).
@@ -117,7 +117,7 @@ Table 6: Infusion Rates for RYBREVANT Administration
 | Week 2 | 1050 mg | 85 mL/hr |  |
 | Week 3 | 1050 mg | 125 mL/hr |  |
 | Week 4 | 1050 mg | 125 mL/hr |  |
-| Subsequent weeksStarting at Week 5, patients are dosed every 2 weeks. | 1050 mg | 125 mL/hr |  |
+| Subsequent weeks Starting at Week 5, patients are dosed every 2 weeks. | 1050 mg | 125 mL/hr |  |
 | 1400 mg Dose |  |  |  |
 | Week | Dose (per 250 mL bag) | Initial Infusion Rate | Subsequent Infusion Rate |
 | Week 1 (split dose infusion) |  |  |  |

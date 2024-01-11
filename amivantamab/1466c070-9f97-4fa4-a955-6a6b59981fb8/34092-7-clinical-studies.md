@@ -5,7 +5,7 @@ The study included patients with locally advanced or metastatic NSCLC with EGFR 
 Patients with untreated brain metastases and patients with a history of ILD requiring treatment with prolonged steroids or other immunosuppressive agents within the last 2 years were not eligible for the study.
 
 In the efficacy population, EGFR exon 20 insertion mutation status was determined by prospective local testing using tissue (94%) and/or plasma (6%) samples.
-Of the 81 patients with EGFR exon 20 insertion mutations identified by local testing, plasma samples from 78/81 (96%) patients were tested retrospectively using Guardant360® CDx, identifying 62/78 (79%) samples with an EGFR exon 20 insertion mutation; 16/78 (21%) samples did not have an EGFR exon 20 insertion mutation identified.
+Of the 81 patients with EGFR exon 20 insertion mutations identified by local testing, plasma samples from 78/81 (96%) patients were tested retrospectively using Guardant360 ®CDx, identifying 62/78 (79%) samples with an EGFR exon 20 insertion mutation; 16/78 (21%) samples did not have an EGFR exon 20 insertion mutation identified.
 
 Patients received RYBREVANT at 1050 mg (for patient baseline body weight < 80 kg) or 1400 mg (for patient baseline body weight ≥80 kg) once weekly for 4 weeks, then every 2 weeks thereafter until disease progression or unacceptable toxicity.
 The major efficacy outcome measure was overall response rate (ORR) according to Response Evaluation Criteria in Solid Tumors (RECIST v1.1) as evaluated by Blinded Independent Central Review (BICR).
@@ -22,7 +22,7 @@ Table 9: Efficacy Results for CHRYSALIS
 
 |  | Prior Platinum-based Chemotherapy Treated (N=81) |
 | --- | --- |
-| Overall Response Rate (95% CI) | 40% (29%, 51%) |
+| Overall Response Rate(95% CI) | 40% (29%, 51%) |
 | Complete response (CR) | 3.7% |
 | Partial response (PR) | 36% |
 | Duration of Response (DOR) |  |

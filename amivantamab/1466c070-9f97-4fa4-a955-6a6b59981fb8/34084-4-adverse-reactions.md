@@ -46,37 +46,37 @@ Table 7: Adverse Reactions (≥ 10%) in Patients with NSCLC with Exon 20 Inserti
 | --- | --- | --- |
 | Adverse Reactions | RYBREVANT (N=129) |  |
 | Skin and subcutaneous tissue disorders |  |  |
-| RashRash: acne, dermatitis, dermatitis acneiform, eczema, eczema asteatotic, palmar-plantar erythrodysesthesia syndrome, perineal rash, rash, rash erythematous, rash maculo-papular, rash papular, rash vesicular, skin exfoliation, toxic epidermal necrolysis | 84 | 3.9 |
+| Rash Rash: acne, dermatitis, dermatitis acneiform, eczema, eczema asteatotic, palmar-plantar erythrodysesthesia syndrome, perineal rash, rash, rash erythematous, rash maculo-papular, rash papular, rash vesicular, skin exfoliation, toxic epidermal necrolysis | 84 | 3.9 |
 | Pruritus | 18 | 0 |
 | Dry skin | 14 | 0 |
 | General disorders and administration site conditions |  |  |
 | Infusion related reaction | 64 | 3.1 |
-| FatigueFatigue: asthenia, fatigue | 33 | 2.3 |
-| EdemaEdema: eyelid edema, face edema, generalized edema, lip edema, edema, edema peripheral, periorbital edema, peripheral swelling | 27 | 0.8 |
+| Fatigue Fatigue: asthenia, fatigue | 33 | 2.3 |
+| Edema Edema: eyelid edema, face edema, generalized edema, lip edema, edema, edema peripheral, periorbital edema, peripheral swelling | 27 | 0.8 |
 | Pyrexia | 13 | 0 |
 | Infections and infestations |  |  |
 | Paronychia | 50 | 3.1 |
-| PneumoniaPneumonia: atypical pneumonia, lower respiratory tract infection, pneumonia, pneumonia aspiration, and pulmonary sepsis | 10 | 0.8 |
+| Pneumonia Pneumonia: atypical pneumonia, lower respiratory tract infection, pneumonia, pneumonia aspiration, and pulmonary sepsis | 10 | 0.8 |
 | Musculoskeletal and connective tissue disorders |  |  |
-| Musculoskeletal painMusculoskeletal pain: arthralgia, arthritis, back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, musculoskeletal pain, myalgia, neck pain, non-cardiac chest pain, pain in extremity, spinal pain | 47 | 0 |
+| Musculoskeletal pain Musculoskeletal pain: arthralgia, arthritis, back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, musculoskeletal pain, myalgia, neck pain, non-cardiac chest pain, pain in extremity, spinal pain | 47 | 0 |
 | Respiratory, thoracic and mediastinal disorders |  |  |
-| DyspneaDyspnea: dyspnea, dyspnea exertional | 37 | 2.3 |
-| CoughCough: cough, productive cough, upper airway cough syndrome | 25 | 0 |
+| Dyspnea Dyspnea: dyspnea, dyspnea exertional | 37 | 2.3 |
+| Cough Cough: cough, productive cough, upper airway cough syndrome | 25 | 0 |
 | Gastrointestinal disorders |  |  |
 | Nausea | 36 | 0 |
-| StomatitisStomatitis: aphthous ulcer, cheilitis, glossitis, mouth ulceration, mucosal inflammation, pharyngeal inflammation, stomatitis | 26 | 0.8 |
+| Stomatitis Stomatitis: aphthous ulcer, cheilitis, glossitis, mouth ulceration, mucosal inflammation, pharyngeal inflammation, stomatitis | 26 | 0.8 |
 | Constipation | 23 | 0 |
 | Vomiting | 22 | 0 |
 | Diarrhea | 16 | 3.1 |
-| Abdominal PainAbdominal pain: abdominal discomfort, abdominal pain, abdominal pain lower, abdominal pain upper, and epigastric discomfort | 11 | 0.8 |
+| Abdominal Pain Abdominal pain: abdominal discomfort, abdominal pain, abdominal pain lower, abdominal pain upper, and epigastric discomfort | 11 | 0.8 |
 | Vascular disorders |  |  |
-| HemorrhageHemorrhage: epistaxis, gingival bleeding, hematuria, hemoptysis, hemorrhage, mouth hemorrhage, mucosal hemorrhage | 19 | 0 |
+| Hemorrhage Hemorrhage: epistaxis, gingival bleeding, hematuria, hemoptysis, hemorrhage, mouth hemorrhage, mucosal hemorrhage | 19 | 0 |
 | Metabolism and nutrition disorders |  |  |
 | Decreased appetite | 15 | 0 |
 | Nervous system disorders |  |  |
-| Peripheral neuropathyPeripheral neuropathy: hypoesthesia, neuralgia, paresthesia, peripheral sensory neuropathy | 13 | 0 |
+| Peripheral neuropathy Peripheral neuropathy: hypoesthesia, neuralgia, paresthesia, peripheral sensory neuropathy | 13 | 0 |
 | Dizziness | 12 | 0.8 |
-| HeadacheHeadache: headache, migraine | 10 | 0.8 |
+| Headache Headache: headache, migraine | 10 | 0.8 |
 
 Clinically relevant adverse reactions in <10% of patients who received RYBREVANT included ocular toxicity, ILD/pneumonitis, and toxic epidermal necrolysis (TEN).
 
@@ -86,7 +86,7 @@ Table 8: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline i
 
 | All Grades (%) | Grades 3 or 4 (%) |  |
 | --- | --- | --- |
-| Laboratory Abnormality | RYBREVANTThe denominator used to calculate the rate was 126 based on the number of patients with a baseline value and at least one post-treatment value. (N=129) |  |
+| Laboratory Abnormality | RYBREVANT The denominator used to calculate the rate was 126 based on the number of patients with a baseline value and at least one post-treatment value. (N=129) |  |
 | Chemistry |  |  |
 | Decreased albumin | 79 | 8 |
 | Increased glucose | 56 | 4 |

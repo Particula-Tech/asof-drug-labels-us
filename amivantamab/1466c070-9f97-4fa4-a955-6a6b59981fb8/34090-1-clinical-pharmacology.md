@@ -4,7 +4,7 @@
 
 Amivantamab-vmjw is a bispecific antibody that binds to the extracellular domains of EGFR and MET.
 
-In in vitro and in vivo studies amivantamab-vmjw was able to disrupt EGFR and MET signaling functions through blocking ligand binding and, in exon 20 insertion mutation models, degradation of EGFR and MET.
+In in vitroand in vivostudies amivantamab-vmjw was able to disrupt EGFR and MET signaling functions through blocking ligand binding and, in exon 20 insertion mutation models, degradation of EGFR and MET.
 The presence of EGFR and MET on the surface of tumor cells also allows for targeting of these cells for destruction by immune effector cells, such as natural killer cells and macrophages, through antibody-dependent cellular cytotoxicity (ADCC) and trogocytosis mechanisms, respectively.
 
 ## 12.2 Pharmacodynamics
@@ -14,7 +14,7 @@ The exposure-response relationship and time-course of pharmacodynamic response o
 ## 12.3 Pharmacokinetics
 
 Amivantamab-vmjw exposures increased proportionally over a dosage range from 350 to 1750 mg (0.25 to 1.25 times the maximum approved recommended dosage).
-Steady state of amivantamab-vmjw concentrations was achieved by the 9th infusion.
+Steady state of amivantamab-vmjw concentrations was achieved by the 9 thinfusion.
 The accumulation ratio at steady state was 2.4.
 
 Distribution

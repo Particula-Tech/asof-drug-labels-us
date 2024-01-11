@@ -2,7 +2,7 @@
 
 How Supplied
 
-RYBREVANT® (amivantamab-vmjw) injection is a sterile, preservative-free, colorless to pale yellow solution for intravenous infusion.
+RYBREVANT ®(amivantamab-vmjw) injection is a sterile, preservative-free, colorless to pale yellow solution for intravenous infusion.
 Each single-dose vial contains 350 mg/7 mL (50 mg/mL) RYBREVANT.
 Each vial is individually packed in a single carton.
 (NDC 57894-501-01).

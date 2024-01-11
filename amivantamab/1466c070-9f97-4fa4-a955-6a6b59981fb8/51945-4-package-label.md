@@ -2,7 +2,7 @@
 
 NDC 57894-501-01
 
-Rybrevant® (amivantamab-vmjw) Injection
+Rybrevant ® (amivantamab-vmjw) Injection
 
 350 mg/7 mL (50 mg/mL)
 
