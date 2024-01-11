@@ -6,17 +6,9 @@ After passage to the liver, some of the drug enters the general circulation, whi
 In the general circulation, it is distributed widely to the tissue, but is taken up in highest concentrations by the kidneys, where amounts have been found 72 hours after ingestion, long after it has disappeared from other tissues.
 The drug is excreted unchanged in the urine.
 
-Manufactured for:
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan Pharmaceuticals Inc.
-
-Morgantown, WV 26505 U.S.A.
-
-Manufactured by:
-
-Mylan Laboratories Limited
-
-Hyderabad — 500 096, India
+Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
 75068931
 

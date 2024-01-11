@@ -8,7 +8,7 @@ Rx only 100 Tablets
 
 Each tablet contains: Chlorthalidone, USP 25 mg
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
@@ -29,7 +29,9 @@ Dispense in a tight, light-resistant container as defined in the USP using a chi
 
 Keep container tightly closed.
 
-RMXA0222A
+Code No.: MH/DRUGS/AD/089
+
+RMXA0222A1
 
 # PRINCIPAL DISPLAY PANEL - 50 mg
 
@@ -41,7 +43,7 @@ Rx only 100 Tablets
 
 Each tablet contains: Chlorthalidone, USP 50 mg
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
@@ -58,8 +60,10 @@ Made in India
 
 Mylan.com
 
+RMXA0213A1
+
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
 Keep container tightly closed.
 
-RMXA0213A
+Code No.: MH/DRUGS/AD/089
