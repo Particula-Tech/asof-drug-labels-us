@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA205394"
+  ],
+  "inn": "rizatriptan",
+  "labeler": "Gensco Laboratories LLC",
+  "package_ndcs": [
+    "35781-0600-1",
+    "35781-0600-8"
+  ],
+  "products": [
+    {
+      "form": "FILM",
+      "generic": "rizatriptan benzoate",
+      "name": "RIZAFILM"
+    }
+  ],
+  "setid": "fa32794e-d26d-e0bf-e053-6294a90abb0e",
+  "source": "dailymed"
+}
