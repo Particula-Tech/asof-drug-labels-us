@@ -27,8 +27,6 @@ Administration Instruction
 
 Instruct patients or caregivers to perform the first self-injected dose under the supervision and guidance of a qualified healthcare professional for training in preparation and administration of SKYRIZI, including choosing anatomical sites for administration, and proper subcutaneous injection technique [see Instructions for Use].
 
-If using SKYRIZI 75 mg/0.83 mL, instruct patients or caregivers to administer two 75 mg single-dose syringes to achieve the full 150 mg dose of SKYRIZI [see Instructions for Use].
-
 If using SKYRIZI 90 mg/mL, a healthcare professional must administer two 90 mg single-dose syringes to achieve the full 180 mg maintenance dose or four 90 mg single-dose syringes to achieve the full 360 mg maintenance dose of SKYRIZI for Crohn’s disease.
 
 Instruct patients or caregivers in the technique of pen or syringe disposal [see Instructions for Use].
@@ -39,4 +37,4 @@ Advise patients that there is a pregnancy registry that monitors pregnancy outco
 
 Manufactured by: AbbVie Inc. North Chicago, IL 60064, USA
 
-US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2023 AbbVie Inc. 20071775 R2 05/2023
+US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2024 AbbVie Inc. 20082655 1/2024

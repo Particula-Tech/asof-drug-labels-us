@@ -18,6 +18,8 @@ the enclosed Medication Guide.
 
 This entire carton is dispensed as a unit.
 
+AREA FOR PHARMACY LABEL
+
 www.SKYRIZI.com
 
 Rx only
@@ -30,25 +32,23 @@ One 1 mL Single-Dose Prefilled Syringe
 
 Skyrizi® 150 mg/mL
 
-risankizumab-rzaa Injection
+risankizumab-rzaa
+
+injection
 
 FOR SUBCUTANEOUS USE ONLY
 
 Return to pharmacy if carton perforations are broken.
 
-ATTENTION PHARMACIST:
-
-Each patient is required to receive
-
-the enclosed Medication Guide.
-
 This entire carton is dispensed as a unit.
+
+AREA FOR PHARMACY LABEL
 
 www.SKYRIZI.com
 
 Rx only
 
-abbvie
+Abbvie
 
 NDC 0074-1070-01
 
@@ -274,18 +274,28 @@ SKYRIZI.com
 
 Rx Only
 
-abbvie
+Abbvie
 
 NDC 0074-7032-01
 
-Skyrizi®
+Skyrizi® 90 mg/mL
 
-Risankizumab-rzaa
+risankizumab-rzaa
 
 Injection
 
-90 mg/mL
-
 For Subcutaneous Use Only
 
+FOR HEALTHCARE PROVIDER ADMINISTRATION ONLY
+
+FOR A 350 MG DOES,
+
+FOUR 90 MG SYRINGES ARE REQUIRED,
+
+INJECT ALL 4 SYRINGES FOR A FULL DOSE
+
+www.SKYRIZI.com
+
 Rx Only
+
+abbvie

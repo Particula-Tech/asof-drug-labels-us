@@ -3,12 +3,6 @@
 Risankizumab-rzaa, an interleukin-23 (IL-23) antagonist, is a humanized immunoglobulin G1 (IgG1) monoclonal antibody.
 Risankizumab-rzaa is produced by recombinant DNA technology in Chinese hamster ovary cells and has an approximate molecular weight of 149 kDa.
 
-SKYRIZI (risankizumab-rzaa) injection 75 mg/0.83 mL prefilled syringe for subcutaneous use
-
-Each SKYRIZI prefilled syringe contains a sterile, preservative-free, colorless to slightly yellow, and clear to slightly opalescent solution.
-Each syringe delivers 75 mg of risankizumab-rzaa, and the inactive ingredients polysorbate 20 (0.17 mg), sodium succinate (0.53 mg), sorbitol (34 mg), succinic acid (0.049 mg), and Water for Injection, USP.
-The pH is 6.2.
-
 SKYRIZI (risankizumab-rzaa) injection 90 mg/mL prefilled syringe for subcutaneous use
 
 Each SKYRIZI prefilled syringe contains a sterile, preservative-free, colorless to slightly yellow, and clear to slightly opalescent solution.
