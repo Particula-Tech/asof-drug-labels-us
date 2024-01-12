@@ -25,8 +25,7 @@ NALOXONE HYDROCHLORIDE Injection, USP Rx only
 0.4 mg/mL
 
 Protect from light.
-Store at 20 to 25°C (68 to 77°F).
-[See USP Controlled Room Temperature.]
+For Intravenous, Intramuscular, or Subcutaneous Use
 
 Hospira
 
@@ -34,16 +33,12 @@ Hospira
 
 10 mL Multiple-dose
 
-NALOXONE HCl Inj., USP 4 mg/10 mL (0.4 mg/mL)
+NALOXONE HCl Injection, USP 4 mg/10 mL (0.4 mg/mL)
 
 Protect from light.
 For I.V., I.M. or S.C. use.
 
 Dist. by Hospira, Inc., Lake Forest, IL 60045 USA
-
-LOT ##–###–AA
-
-EXP DMMMYYYY
 
 # PRINCIPAL DISPLAY PANEL - 10 mL Vial Carton
 
