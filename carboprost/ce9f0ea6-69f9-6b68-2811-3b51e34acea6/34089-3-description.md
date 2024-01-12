@@ -1,5 +1,7 @@
 # DESCRIPTION
 
+Sterile
+
 Carboprost tromethamine injection, USP an oxytocic, contains the tromethamine salt of the (15S)­15 methyl analogue of naturally occurring prostaglandin F2α in a solution suitable for intramuscular injection.
 Carboprost tromethamine injection, USP is the established name for the active ingredient carboprost tromethamine, USP.
 Four other chemical names are:

@@ -3,8 +3,10 @@
     "ANDA211941"
   ],
   "inn": "carboprost",
-  "labeler": "Dr. Reddys Laboratories Inc.",
+  "labeler": "Dr. Reddy's Laboratories Inc.",
   "package_ndcs": [
+    "43598-179-10",
+    "43598-179-11",
     "43598-698-11",
     "43598-698-58"
   ],

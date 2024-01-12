@@ -2,7 +2,7 @@
 
 ## 1. Abortion and Indications 14
 
-An initial dose of 1 mL of carboprost tromethamine injection sterile solution (containing the equivalent of 250 micrograms of carboprost) is to be administered deep in the muscle with a tuberculin syringe.
+An initial dose of 1 mL of carboprost tromethamine injection sterile solution (containing the equivalent of 250 micrograms of carboprost) is to be administered deep in the muscle.
 Subsequent doses of 250 micrograms should be administered at 1½ to 3½ hour intervals depending on uterine response.
 
 An optional test dose of 100 micrograms (0.4 mL) may be administered initially.

@@ -1,7 +1,7 @@
 # CONTRAINDICATIONS
 
 1.
-Hypersensitivity (including anaphylaxis and angioedema) to carboprost tromethamine injection Sterile Solution [see ADVERSE REACTIONS, Post-marketing Experience]
+Hypersensitivity (including anaphylaxis and angioedema) to carboprost tromethamine injection sterile solution [see ADVERSE REACTIONS, Post-marketing Experience]
 
 2.
 Acute pelvic inflammatory disease

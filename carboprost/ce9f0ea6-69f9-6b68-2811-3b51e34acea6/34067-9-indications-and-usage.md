@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Carboprost tromethamine, USP is indicated for aborting pregnancy between the 13th and 20th weeks of gestation as calculated from the first day of the last normal menstrual period and in the following conditions related to second trimester abortion:
+Carboprost tromethamine injection, USP is indicated for aborting pregnancy between the 13th and 20th weeks of gestation as calculated from the first day of the last normal menstrual period and in the following conditions related to second trimester abortion:
 
 1.
 Failure of expulsion of the fetus during the course of treatment by another method;
