@@ -186,12 +186,12 @@ In patients with normal renal function, these effects have been attributed to a 
 
 Anaphylactic reactions may occur in patients without known prior exposure to either component of TREXIMET.
 Such reactions can be life-threatening or fatal.
-In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens although anaphylactic reactions with naproxen have occurred in patient without known hypersensitivity to naproxen or to patients with aspirin sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.17)].
+In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens although anaphylactic reactions with naproxen have occurred in patient without known hypersensitivity to naproxen or to patients with aspirin sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.18)].
 TREXIMET should not be given to patients with the aspirin triad.
 This symptom complex typically occurs in patients with asthma who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs [see Contraindications (4)].
 
 TREXIMET is contraindicated in patients with a history of hypersensitivity reaction to sumatriptan, naproxen, or any other component of TREXIMET.
-Naproxen has been associated with anaphylactic reactions in patients without known hypersensitivity to naproxen and in patients with aspirin-sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.17)].
+Naproxen has been associated with anaphylactic reactions in patients without known hypersensitivity to naproxen and in patients with aspirin-sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.18)].
 Seek emergency help if an anaphylactic reaction occurs.
 
 ## 5.14 Serious Skin Reactions

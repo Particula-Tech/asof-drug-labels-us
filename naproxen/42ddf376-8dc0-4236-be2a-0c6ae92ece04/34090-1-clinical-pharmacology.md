@@ -18,6 +18,13 @@ Because naproxen is an inhibitor of prostaglandin synthesis, its mode of action 
 
 ## 12.2 Pharmacodynamics
 
+In a healthy volunteer study, 10 days of concomitant administration of naproxen 220 mg once-daily with low-dose immediate-release aspirin (81 mg) showed an interaction with the antiplatelet activity of aspirin as measured by % serum thromboxane B2 inhibition at 24 hours following the day 10 dose [98.7% (aspirin alone) vs 93.1% (naproxen and aspirin)].
+The interaction was observed even following discontinuation of naproxen on day 11 (while aspirin dose was continued) but normalized by day 13.
+In the same study, the interaction was greater when naproxen was administered 30 minutes prior to aspirin [98.7% vs 87.7%] and minimal when aspirin was administered 30 minutes prior to naproxen [98.7% vs 95.4%].
+
+Following administration of naproxen 220 mg twice-daily with low-dose immediate–release aspirin (first naproxen dose given 30 minutes prior to aspirin), the interaction was minimal at 24 h following day 10 dose [98.7% vs 95.7%].
+However, the interaction was more prominent after discontinuation of naproxen (washout) on day 11 [98.7% vs 84.3%] and did not normalize completely by day 13 [98.5% vs 90.7%] [see Drug Interactions (7.1)].
+
 Blood Pressure
 
 In a randomized, double-blind, parallel group, active control trial, TREXIMET 85/500 mg administered intermittently over 6 months did not increase blood pressure in a normotensive adult population (n = 122).
@@ -70,7 +77,7 @@ The plasma half-life of the naproxen anion in humans is approximately 19 hours.
 The corresponding half-lives of both metabolites and conjugates of naproxen are shorter than 12 hours, and their rates of excretion have been found to coincide closely with the rate of naproxen disappearance from the plasma.
 In patients with renal failure, metabolites may accumulate.
 
-Special Populations
+Specific Populations
 
 Geriatrics
 

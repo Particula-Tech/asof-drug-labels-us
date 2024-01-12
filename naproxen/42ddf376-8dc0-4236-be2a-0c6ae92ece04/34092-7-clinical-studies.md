@@ -59,7 +59,7 @@ Percentage of Pediatric Patients 12 to 17 Years of Age with 2-Hour Pain-Free Res
 
 | Endpoint | TREXIMET 10/60 mg (n = 96) | TREXIMET 30/180 mg (n = 97) | TREXIMET 85/500 mg (n = 152) | Placebo (n = 145) |
 | --- | --- | --- | --- | --- |
-| 2-Hour Pain Relief | 29%P<0.01 versus placebo. | 27% | 24% | 10% |
+| 2-Hour Pain Free | 29%P<0.01 versus placebo. | 27% | 24% | 10% |
 
 The percentage of pediatric patients who remained pain free without use of other medications 2 through 24 hours postdose was significantly greater after administration of a single dose of TREXIMET 85/500 mg compared with placebo.
 A greater percentage of pediatric patients who received a single dose of 10/60 mg or 30/180 mg remained pain free 2 through 24 hours postdose compared with placebo.
