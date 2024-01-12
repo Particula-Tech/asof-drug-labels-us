@@ -3,13 +3,13 @@
 ## 12.1 Mechanism of Action
 
 The mechanism of action of lurasidone in the treatment of schizophrenia and bipolar depression is unclear.
-However, its efficacy in schizophrenia and bipolar depression could be mediated through a combination of central dopamine D 2 and serotonin Type 2 (5HT 2A) receptor antagonism.
+However, its efficacy in schizophrenia and bipolar depression could be mediated through a combination of central dopamine D2 and serotonin Type 2 (5HT2A) receptor antagonism.
 
 ## 12.2 Pharmacodynamics
 
-Lurasidone is an antagonist with high affinity binding at the dopamine D 2 receptors (Ki of 1 nM) and the serotonin 5-HT 2A (Ki of 0.5 nM) and 5-HT 7 (Ki of 0.5 nM) receptors.
-It also binds with moderate affinity to the human α 2C adrenergic receptors (Ki of 11 nM), is a partial agonist at serotonin 5-HT 1A (Ki of 6.4 nM) receptors, and is an antagonist at the α 2A adrenergic receptors (Ki of 41 nM).
-Lurasidone exhibits little or no affinity for histamine H 1 and muscarinic M 1 receptors (IC 50> 1,000 nM).
+Lurasidone is an antagonist with high affinity binding at the dopamine D2 receptors (Ki of 1 nM) and the serotonin 5-HT2A (Ki of 0.5 nM) and 5-HT7 (Ki of 0.5 nM) receptors.
+It also binds with moderate affinity to the human α2C adrenergic receptors (Ki of 11 nM), is a partial agonist at serotonin 5-HT1A (Ki of 6.4 nM) receptors, and is an antagonist at the α2A adrenergic receptors (Ki of 41 nM).
+Lurasidone exhibits little or no affinity for histamine H1 and muscarinic M1 receptors (IC50> 1,000 nM).
 
 ECG Changes
 

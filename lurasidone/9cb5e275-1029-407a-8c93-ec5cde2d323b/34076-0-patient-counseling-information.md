@@ -62,4 +62,4 @@ Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8086603 Revised July 2022
+8093909 Revised: August 2023
