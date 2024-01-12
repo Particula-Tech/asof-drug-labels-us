@@ -114,7 +114,7 @@ The results are summarized in the following table.
 |  | Valsartan vs. Captopril(N=4,909) (N=4,909) |  |  | Valsartan + Captopril vs. Captopril(N=4,885) (N=4,909) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | No. of Deaths Valsartan/Captopril | Hazard Ratio CI | p-value | No. of Deaths Comb/ Captopril | Hazard Ratio CI | p-value |
-| All-cause mortality | 979 (19.9%) /958 (19.5%) | 1.001 (0.902, 1.111) | 0.98 | 941 (19.3%)/958 (19.5%) | 0.984 (0.886, 1.093) | 0.73 |
+| All-cause mortality | 979 (19.9%) /958 (19.5%) | 1.001(0.902, 1.111) | 0.98 | 941 (19.3%)/958 (19.5%) | 0.984 (0.886, 1.093) | 0.73 |
 | CV mortality | 827 (16.8%) /830 (16.9%) | 0.976 (0.875, 1.090) |  |  |  |  |
 | CV mortality, hospitalization for HF, and recurrent non-fatal MI | 1,529 (31.1%) /1,567 (31.9%) | 0.955 (0.881, 1.035) |  |  |  |  |
 

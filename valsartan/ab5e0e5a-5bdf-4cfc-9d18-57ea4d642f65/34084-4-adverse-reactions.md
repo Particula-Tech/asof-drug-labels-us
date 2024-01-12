@@ -59,7 +59,7 @@ Post-Myocardial Infarction
 The table shows the percentage of patients discontinued in the valsartan and captopril-treated groups in the VALsartan In Acute myocardial iNfarcTion trial (VALIANT) with a rate of at least 0.5% in either of the treatment groups.
 Discontinuations due to renal dysfunction occurred in 1.1% of valsartan-treated patients and 0.8% of captopril-treated patients.
 
-|  | Valsartan (n=4,885) | Captopril(n=4,879) |
+|  | Valsartan(n=4,885) | Captopril(n=4,879) |
 | --- | --- | --- |
 | Discontinuation for adverse reaction | 5.8% | 7.7% |
 | Adverse reactions |  |  |
@@ -85,18 +85,18 @@ However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rig
 The following additional adverse reactions have been reported in postmarketing use of valsartan tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity: Angioedema has been reported.
+Hypersensitivity:Angioedema has been reported.
 Some of these patients previously experienced angioedema with other drugs, including ACE inhibitors.
 Valsartan tablets should not be re-administered to patients who have had angioedema.
 
-Digestive: Elevated liver enzymes and very rare reports of hepatitis
+Digestive:Elevated liver enzymes and very rare reports of hepatitis
 
 Musculoskeletal: Rhabdomyolysis
 
-Renal: Impaired renal function, renal failure
+Renal:Impaired renal function, renal failure
 
-Dermatologic: Alopecia, bullous dermatitis
+Dermatologic:Alopecia, bullous dermatitis
 
-Blood and Lymphatic: Thrombocytopenia
+Blood and Lymphatic:Thrombocytopenia
 
-Vascular: Vasculitis
+Vascular:Vasculitis

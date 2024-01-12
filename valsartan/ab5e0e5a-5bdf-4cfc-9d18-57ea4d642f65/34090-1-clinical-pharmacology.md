@@ -4,13 +4,13 @@
 
 Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II).
 Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium.
-Valsartan tablets block the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland.
+Valsartan tablets block the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1receptor in many tissues, such as vascular smooth muscle and the adrenal gland.
 Its action is therefore independent of the pathways for angiotensin II synthesis.
 
-There is also an AT2 receptor found in many tissues, but AT2 is not known to be associated with cardiovascular homeostasis.
-Valsartan has much greater affinity (about 20,000-fold) for the AT1 receptor than for the AT2 receptor.
-The increased plasma levels of angiotensin II following AT1 receptor blockade with valsartan may stimulate the unblocked AT2 receptor.
-The primary metabolite of valsartan is essentially inactive with an affinity for the AT1 receptor about one-200th (1/200th) that of valsartan itself.
+There is also an AT 2receptor found in many tissues, but AT 2is not known to be associated with cardiovascular homeostasis.
+Valsartan has much greater affinity (about 20,000-fold) for the AT 1receptor than for the AT 2receptor.
+The increased plasma levels of angiotensin II following AT 1receptor blockade with valsartan may stimulate the unblocked AT 2receptor.
+The primary metabolite of valsartan is essentially inactive with an affinity for the AT 1receptor about one-200 th(1/200 th) that of valsartan itself.
 
 Blockade of the renin-angiotensin system with ACE inhibitors, which inhibit the biosynthesis of angiotensin II from angiotensin I, is widely used in the treatment of hypertension.
 ACE inhibitors also inhibit the degradation of bradykinin, a reaction also catalyzed by ACE.
@@ -41,16 +41,16 @@ In healthy volunteers, valsartan peak plasma concentration is reached 2 to 4 hou
 Valsartan shows bi-exponential decay kinetics following intravenous administration, with an average elimination half-life of about 6 hours.
 Absolute bioavailability for valsartan tablets is about 25% (range 10% to 35%).
 The bioavailability of the suspension [see Dosage and Administration (2.2)] is 1.6 times as great as with the tablet.
-AUC and Cmax values of valsartan increase approximately linearly with increasing dose over the clinical dosing range (80-320 mg).
+AUC and C maxvalues of valsartan increase approximately linearly with increasing dose over the clinical dosing range (80-320 mg).
 Valsartan does not accumulate appreciably in plasma following repeated administration of 200 mg once daily.
 
 In heart failure patients, the average time to peak plasma concentration and elimination half-life of valsartan are similar to those observed in healthy volunteers.
 The average accumulation factor is about 1.7 in heart failure patients following repeated administration of 160 mg twice daily.
-AUC and Cmax values of valsartan increase linearly and are almost proportional with increasing dose from 40 to 160 mg twice a day.
+AUC and C maxvalues of valsartan increase linearly and are almost proportional with increasing dose from 40 to 160 mg twice a day.
 
 Effect of Food
 
-With the tablet, food decreases the exposure (as measured by AUC) to valsartan by about 40% and peak plasma concentration (Cmax) by about 50%.
+With the tablet, food decreases the exposure (as measured by AUC) to valsartan by about 40% and peak plasma concentration (C max) by about 50%.
 
 Valsartan tablets can be administered with or without food.
 

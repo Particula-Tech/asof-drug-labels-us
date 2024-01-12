@@ -38,7 +38,7 @@ Data
 
 Animal Data
 
-No teratogenic effects were observed when valsartan was administered to pregnant mice and rats at oral doses of up to 600 mg/kg/day (9 and 18 times the maximum recommended human dose (MRHD) on a mg/m2 basis) and to pregnant rabbits at oral doses of up to 10 mg/kg/day.
+No teratogenic effects were observed when valsartan was administered to pregnant mice and rats at oral doses of up to 600 mg/kg/day (9 and 18 times the maximum recommended human dose (MRHD) on a mg/m 2basis) and to pregnant rabbits at oral doses of up to 10 mg/kg/day.
 
 In rats, oral valsartan administered at maternally toxic doses (600 mg/kg/day) during organogenesis or late gestation and lactation, resulted in decreased fetal and pup weight, pup survival and delayed developmental milestones.
 In rabbits administered maternally toxic doses of 5 and 10 mg/kg/day, fetotoxicity was observed.
@@ -65,7 +65,7 @@ In children and adolescents with hypertension where underlying renal abnormaliti
 Use of valsartan tablets is not recommended in children less than 1 year of age [see Nonclinical Toxicology (13.2)].
 It is not known whether post-natal use of valsartan, before maturation of renal function is complete, has a long-term deleterious effect on the kidney.
 
-No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2.
+No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m 2.
 
 Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's Diovan (valsartan) tablets.
 However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
@@ -83,8 +83,8 @@ There were no notable differences in efficacy or safety between older and younge
 
 ## 8.6 Renal Impairment
 
-Safety and effectiveness of valsartan tablets in patients with severe renal impairment (glomerular filtration rate less than 30 mL/min/1.73 m2) have not been established.
-No dose adjustment is required in patients with mild (glomerular filtration rate 60 to 90 mL/min/1.73 m2) or moderate (glomerular filtration rate 30 to 60 mL/min/1.73 m2) renal impairment.
+Safety and effectiveness of valsartan tablets in patients with severe renal impairment (glomerular filtration rate less than 30 mL/min/1.73 m 2) have not been established.
+No dose adjustment is required in patients with mild (glomerular filtration rate 60 to 90 mL/min/1.73 m 2) or moderate (glomerular filtration rate 30 to 60 mL/min/1.73 m 2) renal impairment.
 
 ## 8.7 Hepatic Impairment
 

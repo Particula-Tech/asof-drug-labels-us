@@ -8,19 +8,19 @@ The systemic exposure to valsartan (AUC) is 60% higher with the suspension compa
 
 Use of the oral suspension is recommended:
 
-- •in patients ≥6 years of age who cannot swallow tablets and
-- •in pediatric patients for whom the calculated dose (mg/kg) does not correspond to the available tablet strengths of valsartan tablets.
+- in patients ≥6 years of age who cannot swallow tablets and
+- in pediatric patients for whom the calculated dose (mg/kg) does not correspond to the available tablet strengths of valsartan tablets.
 
 When switching between suspension and tablets, the dose of valsartan may need to be adjusted.
 
 Preparation of Suspension (for 160 mL of a 4 mg/mL suspension)
 
-- •Add 80 mL of Ora-Plus®* oral suspending vehicle to an amber glass bottle containing 8 valsartan 80 mg tablets and shake for a minimum of 2 minutes.
-- •Allow the suspension to stand for a minimum of 1 hour.
-- •After the standing time, shake the suspension for a minimum of 1 additional minute.
-- •Add 80 mL of Ora-Sweet SF®* oral sweetening vehicle to the bottle and shake the suspension for at least 10 seconds to disperse the ingredients.
-- •The suspension is homogenous and can be stored for either up to 30 days at room temperature (below 30°C/86°F) or up to 75 days at refrigerated conditions (2°C to 8°C/35°F to 46°F) in the glass bottle with a child-resistant screw-cap closure.
-- •Shake the bottle well (at least 10 seconds) prior to dispensing the suspension.
+- Add 80 mL of Ora-Plus ®* oral suspending vehicle to an amber glass bottle containing 8 valsartan 80 mg tablets and shake for a minimum of 2 minutes.
+- Allow the suspension to stand for a minimum of 1 hour.
+- After the standing time, shake the suspension for a minimum of 1 additional minute.
+- Add 80 mL of Ora-Sweet SF ®* oral sweetening vehicle to the bottle and shake the suspension for at least 10 seconds to disperse the ingredients.
+- The suspension is homogenous and can be stored for either up to 30 days at room temperature (below 30°C/86°F) or up to 75 days at refrigerated conditions (2°C to 8°C/35°F to 46°F) in the glass bottle with a child-resistant screw-cap closure.
+- Shake the bottle well (at least 10 seconds) prior to dispensing the suspension.
 - *Ora-Sweet SF® and Ora-Plus® are registered trademarks of Paddock Laboratories, Inc.
 
 Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's Diovan (valsartan) tablets.
@@ -44,7 +44,7 @@ The usual recommended starting dose is 1 mg/kg once daily (up to 40 mg total).
 A higher starting dose of 2 mg/kg may be considered in selected cases when a greater reduction of blood pressure is needed.
 The dosage should be adjusted according to blood pressure response and tolerability, up to a maximum dose of 4 mg/kg once daily (maximum daily dose 160 mg).
 
-No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2 [see Use in Specific Populations (8.4)].
+No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m 2[see Use in Specific Populations (8.4)].
 
 Use of valsartan tablets is not recommended in children less than 1 year of age [see Adverse Reactions (6.1), Pediatric Use in Specific Populations (8.4), Nonclinical Toxicology (13.2)].
 
