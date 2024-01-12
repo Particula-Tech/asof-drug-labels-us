@@ -29,12 +29,12 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Continued abuse of testosterone and other anabolic steroids, leading to addiction is characterized by the following behaviors:
 
-- Taking greater dosages than prescribed
-- Continued drug use despite medical and social problems due to drug use
-- Spending significant time to obtain the drug when supplies of the drug are interrupted
-- Giving a higher priority to drug use than other obligations
-- Having difficulty in discontinuing the drug despite desires and attempts to do so
-- Experiencing withdrawal symptoms upon abrupt discontinuation of use
+- •Taking greater dosages than prescribed
+- •Continued drug use despite medical and social problems due to drug use
+- •Spending significant time to obtain the drug when supplies of the drug are interrupted
+- •Giving a higher priority to drug use than other obligations
+- •Having difficulty in discontinuing the drug despite desires and attempts to do so
+- •Experiencing withdrawal symptoms upon abrupt discontinuation of use
 
 Physical dependence is characterized by withdrawal symptoms after abrupt drug discontinuation or a significant dose reduction of a drug.
 Individuals taking supratherapeutic doses of testosterone may experience withdrawal symptoms lasting for weeks or months which include depressed mood, major depression, fatigue, craving, restlessness, irritability, anorexia, insomnia, decreased libido and hypogonadotropic hypogonadism.
