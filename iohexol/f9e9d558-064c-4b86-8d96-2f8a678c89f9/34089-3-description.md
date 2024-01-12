@@ -32,7 +32,7 @@ OMNIPAQUE injection and OMNIPAQUE oral solution have the following physical prop
 
 |  |  |  | 20°C | 37°C | 37°C |
 | --- | --- | --- | --- | --- | --- |
-| Presentation | Concentration (mg iodine/mL) | Osmolality By vapor-pressure osmometry. (mOsmol/kg water) | Absolute Viscosity (cP) |  | Specific Gravity |
+| Presentation | Concentration (mg iodine/mL) | OsmolalityBy vapor-pressure osmometry. (mOsmol/kg water) | Absolute Viscosity (cP) |  | Specific Gravity |
 | OMNIPAQUE 140 | 140 | 322 | 2.3 | 1.5 | 1.164 |
 | OMNIPAQUE 180 | 180 | 408 | 3.1 | 2.0 | 1.209 |
 | OMNIPAQUE 240 | 240 | 520 | 5.8 | 3.4 | 1.280 |

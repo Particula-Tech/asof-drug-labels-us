@@ -5,16 +5,16 @@
 | Volume/Concentration | Configuration | NDC |
 | --- | --- | --- |
 | OMNIPAQUE 240 (240 mg iodine/mL) – Boxes of 10 |  |  |
-| 50 mL | + PLUSPAK™ (polymer bottle) | 0407-1412-38 |
+| 50 mL | +PLUSPAK™ (polymer bottle) | 0407-1412-38 |
 | OMNIPAQUE 300 (300 mg iodine/mL) – Boxes of 10 |  |  |
-| 50 mL | + PLUSPAK™ (polymer bottle) | 0407-1413-86 |
-| 100 mL | + PLUSPAK™ (polymer bottle) | 0407-1413-87 |
+| 50 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-86 |
+| 100 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-87 |
 | 150 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-88 |
 | OMNIPAQUE 350 (350 mg iodine/mL) – Boxes of 10 |  |  |
-| 50 mL | + PLUSPAK™ (polymer bottle), | 0407-1414-82 |
+| 50 mL | +PLUSPAK™ (polymer bottle), | 0407-1414-82 |
 | 100 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-84 |
 | 125 mL fill in 200 mL | bottle with hanger | 0407-1414-85 |
-| 125 mL fill in 200 mL | + PLUSPAK™ (polymer bottle) | 0407-1414-83 |
+| 125 mL fill in 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-83 |
 | 150 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-86 |
 | 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-87 |
 
@@ -22,7 +22,7 @@ The container closure system components (bottle, vial, stopper and cap) of OMNIP
 
 ## 16.2 Storage and Handling
 
-Protect OMNIPAQUE glass vials and bottles and + PLUSPAK™ polymer bottles from light.
+Protect OMNIPAQUE glass vials and bottles and +PLUSPAK™ polymer bottles from light.
 Do not freeze.
 Discard any product that is inadvertently frozen, as freezing may compromise the closure integrity of the immediate container.
 
