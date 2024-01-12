@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA216348"
+  ],
+  "inn": "fluorometholone",
+  "labeler": "Amneal Pharmaceuticals NY LLC",
+  "package_ndcs": [
+    "60219-1585-3",
+    "60219-1586-6"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "fluorometholone",
+      "name": "fluorometholone ophthalmic suspension"
+    }
+  ],
+  "setid": "e7988a3b-e432-4d42-a8d2-63ca017e6a01",
+  "source": "dailymed"
+}
