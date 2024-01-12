@@ -4,10 +4,10 @@ Each mL of CLEOCIN PHOSPHATE Sterile Solution contains clindamycin phosphate equ
 When necessary, pH is adjusted with sodium hydroxide and/or hydrochloric acid.
 CLEOCIN PHOSPHATE is available in the following packages:
 
-|  | 25-2 mL vials | NDC 0009-0302-25 |
+|  | 25-2 mL vials | NDC 0009-0302-25 - Discontinued |
 | --- | --- | --- |
-|  | 25-4 mL vials | NDC 0009-0602-25 |
-|  | 25-6 mL vials | NDC 0009-0901-25 |
+|  | 25-4 mL vials | NDC 0009-0602-25 - Discontinued |
+|  | 25-6 mL vials | NDC 0009-0901-25 - Discontinued |
 
 Store at controlled room temperature 20° to 25°C (68° to 77°F) [see USP].
 

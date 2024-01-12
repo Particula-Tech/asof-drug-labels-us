@@ -23,10 +23,9 @@ Such use could result in air embolism due to residual air being drawn from the p
 3. 3.Attach administration set.
    Refer to complete directions accompanying set.
 
-This product's labeling may have been updated.
-For the most recent prescribing information, please visit www.pfizer.com.
+For Medical Information about CLEOCIN PHOSPHATE, please visit www.pfizermedinfo.com or call 1-800-438-1985.
 
-Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc. New York, NY 10017
+Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc. New York, NY 10001
 
 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
@@ -34,4 +33,4 @@ CLEOCIN PHOSPHATE IV Solution in GALAXY plastic containers is manufactured for P
 
 Galaxy is a registered trademark of Baxter International Inc.
 
-LAB-0696-17.0 Revised: 5/2022
+LAB-0696-18.0 Revised: 01/2024
