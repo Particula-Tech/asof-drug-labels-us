@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Tobramycin Ophthalmic Solution USP, 0.3% is a sterile topical ophthalmic antibiotic formulation prepared specifically for topical therapy of external ophthalmic infections.
+Tobramycin ophthalmic solution USP, 0.3% is a sterile topical ophthalmic antibiotic formulation prepared specifically for topical therapy of external ophthalmic infections.
 
 Each mL contains:
 
@@ -9,7 +9,7 @@ Inactives: boric acid, sodium sulfate, sodium chloride, tyloxapol and purified w
 Sodium hydroxide and/or sulfuric acid (to adjust pH).
 Tobramycin ophthalmic solution, 0.3% has a pH range between 7.0 and 8.0.
 
-Preservative Added: benzalkonium chloride 0.1 mg (0.01%).
+Preservative: benzalkonium chloride 0.1 mg (0.01%).
 
 Tobramycin is a water-soluble aminoglycoside antibiotic active against a wide variety of gram-negative and gram-positive ophthalmic pathogens.
 

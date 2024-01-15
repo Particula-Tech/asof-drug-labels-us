@@ -13,6 +13,7 @@ If a sensitivity reaction to tobramycin ophthalmic solution, 0.3% occurs, discon
 
 As with other antibiotic preparations, prolonged use may result in overgrowth of nonsusceptible organisms, including fungi.
 If superinfection occurs, appropriate therapy should be initiated.
+
 Cross-sensitivity to other aminoglycoside antibiotics may occur; if hypersensitivity develops with this product, discontinue use and institute appropriate therapy.
 Patients should be advised not to wear contact lenses if they have signs and symptoms of bacterial ocular infection.
 
