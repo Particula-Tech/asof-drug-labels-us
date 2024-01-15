@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA203168"
+  ],
+  "inn": "bromfenac",
+  "labeler": "Bausch & Lomb Americas Inc.",
+  "package_ndcs": [
+    "82260-602-03"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "bromfenac sodium",
+      "name": "bromfenac ophthalmic solution"
+    }
+  ],
+  "setid": "246e2110-6a2d-4e22-8e37-72d80796b9af",
+  "source": "dailymed"
+}
