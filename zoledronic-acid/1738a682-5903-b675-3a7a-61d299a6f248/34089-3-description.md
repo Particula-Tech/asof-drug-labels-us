@@ -10,6 +10,6 @@ The pH of a 0.7% aqueous solution of zoledronic acid is between 1.5 and 2.5.
 
 Zoledronic acid injection is available in 5 mL vials as a sterile liquid solution for dilution prior to intravenous infusion.
 
-Each 5 mL solution for dilution prior to intravenous infusion vial contains 4.264 mg zoledronic acid monohydrate, corresponding to 4 mg zoledronic acid on an anhydrous basis, 220 mg of mannitol, USP, water for injection, and 24 mg of sodium citrate, USP.
+Each 5 mL solution for dilution prior to intravenous infusion vial contains 4.264 mg zoledronic acid monohydrate, USP corresponding to 4 mg zoledronic acid on an anhydrous basis, 220 mg of mannitol, USP, water for injection, and 24 mg of sodium citrate, USP.
 
 Inactive Ingredients: mannitol, USP, as bulking agent, sodium citrate, USP, as buffering agent and water for injection as vehicle.

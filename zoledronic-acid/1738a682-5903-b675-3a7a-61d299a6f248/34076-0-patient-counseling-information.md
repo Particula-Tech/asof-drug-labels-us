@@ -59,4 +59,4 @@ By: Dr. Reddy’s Laboratories Ltd.
 At D.P.
 Pally - 500 043 INDIA
 
-Revised: 0820
+Revised: 10/2023
