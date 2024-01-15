@@ -10,7 +10,6 @@ In the eye, this inhibitory action of acetazolamide decreases the secretion of a
 Evidence seems to indicate that acetazolamide has utility as an adjuvant in the treatment of certain dysfunctions of the central nervous system (e.g., epilepsy).
 Inhibition of carbonic anhydrase in this area appears to retard abnormal, paroxysmal, excessive discharge from central nervous system neurons.
 The diuretic effect of acetazolamide is due to its action in the kidney on the reversible reaction involving hydration of carbon dioxide and dehydration of carbonic acid.
-
-The result is renal loss of HCO 3ion, which carries out sodium, water, and potassium.
+The result is renal loss of HCO 3 ion, which carries out sodium, water, and potassium.
 Alkalinization of the urine and promotion of diuresis are thus effected.
 Alteration in ammonia metabolism occurs due to increased reabsorption of ammonia by the renal tubules as a result of urinary alkalinization.

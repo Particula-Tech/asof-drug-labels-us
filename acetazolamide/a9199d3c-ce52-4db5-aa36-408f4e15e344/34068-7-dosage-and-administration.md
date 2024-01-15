@@ -3,14 +3,14 @@
 ## Preparation and Storage of Parenteral Solution
 
 Each 500 mg vial containing sterile acetazolamide sodium should be reconstituted with at least 5 mL of Sterile Water for Injection prior to use.
-Reconstituted solutions retain their physical and chemical properties for 3 days under refrigeration at 2°-8°C (36°-46°F), or 12 hours at room temperature 20°-25°C (68°-77°F).
-Contains no preservative.
+Reconstituted solutions retain their physical and chemical properties for 3 days under refrigeration at 2°- 8°C (36°- 46°F), or 12 hours at room temperature 20°- 25°C (68°- 77°F).
+CONTAINS NO PRESERVATIVE.
 The direct intravenous route of administration is preferred.
 Intramuscular administration is not recommended.
 
 ## Glaucoma
 
-Acetazolamide should be used as an adjunct to the usual therapy.
+Acetazolamide for Injection should be used as an adjunct to the usual therapy.
 The dosage employed in the treatment of chronic simple (open-angle) glaucoma ranges from 250 mg to 1 g of acetazolamide per 24 hours, usually in divided doses for amounts over 250 mg.
 It has usually been found that a dosage in excess of 1 g per 24 hours does not produce an increased effect.
 In all cases, the dosage should be adjusted with careful individual attention both to symptomatology and ocular tension.
@@ -24,31 +24,36 @@ A complementary effect has been noted when acetazolamide has been used in conjun
 ## Epilepsy
 
 It is not clearly known whether the beneficial effects observed in epilepsy are due to direct inhibition of carbonic anhydrase in the central nervous system or whether they are due to the slight degree of acidosis produced by the divided dosage.
-The best results to date have been seen in petit mal in children.
-Good results, however, have been seen in patients, both in children and adult, in other types of seizures such as grand mal, mixed seizure patterns, myoclonic jerk patterns, etc. The suggested total daily dose is 8 to 30 mg per kg in divided doses.
+The best results to date have been seen in petit mal in pediatric patients.
+Good results, however, have been seen in patients, both in pediatric patients and adult, in other types of seizures such as grand mal, mixed seizure patterns, myoclonic jerk patterns, etc. The suggested total daily dose is 8 to 30 mg per kg in divided doses.
 Although some patients respond to a low dose, the optimum range appears to be from 375 to 1000 mg daily.
 However, some investigators feel that daily doses in excess of 1 g do not produce any better results than a 1 g dose.
-When acetazolamide is given in combination with other anticonvulsants, it is suggested that the starting dose should be 250 mg once daily in addition to the existing medications.
+When Acetazolamide for injection is given in combination with other anticonvulsants, it is suggested that the starting dose should be 250 mg once daily in addition to the existing medications.
 This can be increased to levels as indicated above.
-
-The change from other medications to acetazolamide should be gradual and in accordance with usual practice in epilepsy therapy.
+The change from other medications to Acetazolamide for injection should be gradual and in accordance with usual practice in epilepsy therapy.
 
 ## Congestive Heart Failure
 
 For diuresis in congestive heart failure, the starting dose is usually 250 to 375 mg once daily in the morning (5 mg/kg).
 If, after an initial response, the patient fails to continue to lose edema fluid, do not increase the dose but allow for kidney recovery by skipping medication for a day.
-
-Acetazolamide yields best diuretic results when given on alternate days, or for two days alternating with a day of rest.
+Acetazolamide for injection yields best diuretic results when given on alternate days, or for two days alternating with a day of rest.
 
 Failures in therapy may be due to overdosage or too frequent dosage.
-The use of acetazolamide does not eliminate the need for other therapy such as digitalis, bed rest, and salt restriction.
+The use of Acetazolamide for injection does not eliminate the need for other therapy such as digitalis, bed rest, and salt restriction.
 
 ## Drug-Induced Edema
 
-Recommended dosage is 250 to 375 mg of acetazolamide once a day for one or two days, alternating with a day of rest.
+Recommended dosage is 250 to 375 mg of Acetazolamide for injection once a day for one or two days, alternating with a day of rest.
 
-## Note
+## Note:
 
 The dosage recommendations for glaucoma and epilepsy differ considerably from those for congestive heart failure, since the first two conditions are not dependent upon carbonic anhydrase inhibition in the kidney which requires intermittent dosage if it is to recover from inhibitory effect of the therapeutic agent.
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+## Interference with Laboratory Tests
+
+Sulfonamides may give false negative or decreased values for urinary phenolsulfonphthalein and phenol red elimination values for urinary protein, serum non-protein and for serum uric acid.
+
+Acetazolamide for injection may produce an increased level of crystals in the urine.
+
+Acetazolamide interferes with the HPLC method of assay for theophylline.
+Interference with the theophylline assay by acetazolamide depends on the solvent used in the extraction; acetazolamide may not interfere with other assay methods for theophylline.
