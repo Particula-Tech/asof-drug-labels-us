@@ -18,7 +18,8 @@ Urinary glucose excretion persists for 3 days after discontinuing FARXIGA [see C
 
 Consider ketone monitoring in patients with type 1 diabetes mellitus and consider ketone monitoring in others at risk for ketoacidosis if indicated by the clinical situation.
 Assess for ketoacidosis regardless of presenting blood glucose levels in patients who present with signs and symptoms consistent with severe metabolic acidosis.
-If ketoacidosis is suspected, discontinue FARXIGA, promptly evaluate, and treat ketoacidosis, if confirmed.Monitor patients for resolution of ketoacidosis before restarting FARXIGA.
+If ketoacidosis is suspected, discontinue FARXIGA, promptly evaluate, and treat ketoacidosis, if confirmed.
+Monitor patients for resolution of ketoacidosis before restarting FARXIGA.
 
 Withhold FARXIGA, if possible, in temporary clinical situations that could predispose patients to ketoacidosis.
 Resume FARXIGA when the patient is clinically stable and has resumed oral intake [see Dosage and Administration (2.3)].

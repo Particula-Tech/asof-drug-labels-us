@@ -18,7 +18,7 @@ Table 1: Recommended Dosage
 | eGFR 45 or greater | To improve glycemic control, the recommended starting dose is 5 mg orally once daily. Dose can be increased to 10 mg orally once daily for additional glycemic controlFARXIGA is not recommended for use to improve glycemic control in adults with type 2 diabetes mellitus with an eGFR less than 45 mL/min/1.73 m2. FARXIGA is likely to be ineffective in this setting based upon its mechanism of action..For all other indications, the recommended starting dose is 10 mg orally once daily. |
 | eGFR 25 to less than 45 | 10 mg orally once daily. |
 | eGFR less than 25 | Initiation is not recommended; however, patients may continue 10 mg orally once daily to reduce the risk of eGFR decline, ESKD, CV death and hHF. |
-| hHF: hospitalization for heart failure, CV: Cardiovascular, ESKD: End Stage Kidney Disease |  |
+| hHF: hospitalization for heart failure, CV: Cardiovascular, ESKD: End Stage Kidney Disease. |  |
 
 ## 2.3 Temporary Interruption for Surgery
 
