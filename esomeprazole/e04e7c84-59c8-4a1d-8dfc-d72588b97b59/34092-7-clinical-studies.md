@@ -37,8 +37,7 @@ Table 12: Sustained ResolutionDefined as 7 consecutive days with no heartburn re
 | 551 | Omeprazole 20 mg | 65.5% | 73.1% |  |  |
 | 4 | 1187 | Esomeprazole magnesium delayed-release capsules 40 mg | 67.6% | 75.1% | p < 0.001 |
 | 1188 | Omeprazole 20 mg | 62.5% | 70.8% |  |  |
-
-1. N.S. = not significant (p > 0.05)
+| N.S. = not significant (p > 0.05) |  |  |  |  |  |
 
 In these four studies, the range of median days to the start of sustained resolution (defined as 7 consecutive days with no heartburn) was 5 days for esomeprazole magnesium delayed-release capsules 40 mg, 7 to 8 days for esomeprazole magnesium delayed-release capsules 20 mg and 7 to 9 days for omeprazole 20 mg.
 
@@ -134,7 +133,7 @@ See Table 15.
 
 Table 15: Adequate Acid Suppression at Final Visit by Dosage Regimen in Adult Patients with Pathological Hypersecretory Conditions
 
-| Esomeprazole Magnesium Delayed-Release Capsule Dose at the Month 12 Visit | BAO Under Adequate Control at the Month 12 Visit (N = 20)One patient was not evaluated. |
+| Esomeprazole Magnesium Delayed-Release Capsule dose at the Month 12 visit | BAO under adequate control at the Month 12 visit (N = 20)One patient was not evaluated. |
 | --- | --- |
 | 40 mg twice daily | 13/15 |
 | 80 mg twice daily | 4/4 |

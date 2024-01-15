@@ -104,7 +104,7 @@ Immune System: anaphylactic reaction/shock, systemic lupus erythematosus;
 
 Infections and Infestations: GI candidiasis, Clostridium difficile-associated diarrhea;
 
-Metabolism and Nutritional Disorders: hypomagnesemia (may lead to hypocalcemia and/or hypokalemia) [see Warnings and Precautions (5.9)];
+Metabolism and nutritional disorders: hypomagnesemia (may lead to hypocalcemia and/or hypokalemia) [see Warnings and Precautions (5.9)];
 
 Musculoskeletal and Connective Tissue: muscular weakness, myalgia, bone fracture;
 
@@ -114,7 +114,7 @@ Psychiatric: aggression, agitation, depression, hallucination;
 
 Renal and Urinary: interstitial nephritis;
 
-Reproductive System and Breast: gynecomastia;
+Reproductive System and Breast: gynecomastia, erectile dysfunction;
 
 Respiratory, Thoracic, and Mediastinal: bronchospasm;
 

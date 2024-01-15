@@ -13,5 +13,5 @@ At pH 6.8 (buffer), the half-life of the magnesium salt is about 19 hours at 25Â
 
 Esomeprazole magnesium is supplied in delayed-release capsules.
 Each esomeprazole magnesium delayed-release capsule contains 20 mg of esomeprazole (equivalent to 22.25 mg esomeprazole magnesium) or 40 mg of esomeprazole (equivalent to 44.50 mg esomeprazole magnesium) in the form of enteric-coated pellets with the following inactive ingredients: crospovidone, hydroxypropyl cellulose, mannitol, methacrylic acid-ethyl acrylate copolymer dispersion, sucrose, sugar spheres (corn starch and sucrose), talc, titanium dioxide and triethyl citrate.
-The capsule shells have the following inactive ingredients: gelatin and titanium dioxide.
+The capsule shells have the following inactive ingredients: gelatin and titanium dioxide, and may contain sodium lauryl sulfate.
 The imprinting ink contains black iron oxide, potassium hydroxide, propylene glycol, shellac and strong ammonia solution.
