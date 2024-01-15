@@ -18,7 +18,6 @@ Information for Patients Patients using DIFFERIN Gel should receive the followin
    Avoid application of DIFFERIN Gel to areas with increased risk for potential ingestion by or ocular exposure to the breastfeeding child.
    [See Use in Specific Populations, Lactation (8.2)]
 
-Marketed by: GALDERMA LABORATORIES, L.P.
-Dallas, TX 75201 USA Made in Canada.
-All trademarks are the property of their respective owners.
-P52321-1
+Marketed by: GALDERMA LABORATORIES, L.P., Dallas, TX 75201 USA Manufactured by:G Production Inc., Baie d’Urfé, QC, H9X 3S4 Canada Made in Canada.
+GALDERMA is a registered trademark.
+P52321-X
