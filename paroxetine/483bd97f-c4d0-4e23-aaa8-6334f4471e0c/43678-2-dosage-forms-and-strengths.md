@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-PAXIL CR is supplied as an enteric-coated, controlled-release, round tablet as follows:
+PAXIL CR is supplied as a round extended-release tablet as follows:
 
 12.5-mg yellow, round tablets, (One face is plain and the other is engraved with "12.5")
 

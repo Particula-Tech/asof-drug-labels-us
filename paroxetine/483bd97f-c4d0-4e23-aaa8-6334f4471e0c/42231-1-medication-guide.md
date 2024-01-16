@@ -237,7 +237,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store PAXIL CR?
 
-- Store PAXIL CR at or below 25°C (77°F); [see USP].
+- Store PAXIL CR at room temperature between 68°F to 77°F (20°C to 25°C).
 
 Keep PAXIL CR and all medicines out of the reach of children.
 
@@ -277,6 +277,6 @@ For more information about PAXIL CR call 1-800-706-5575.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-08/2023
+01/2024
 
 - 
