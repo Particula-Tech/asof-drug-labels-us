@@ -243,7 +243,7 @@ VARENICLINE TABLETS
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: October 2022
+Revised: April 2023
 
 Rev.
-3
+4

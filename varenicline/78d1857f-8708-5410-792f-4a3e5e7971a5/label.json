@@ -5,12 +5,21 @@
   "inn": "varenicline",
   "labeler": "Apotex Corp",
   "package_ndcs": [
+    "60505-3606-1",
+    "60505-3607-1",
     "60505-3613-2",
     "60505-3613-5",
     "60505-3614-2",
-    "60505-3614-5"
+    "60505-3614-4",
+    "60505-3614-5",
+    "60505-3615-4"
   ],
   "products": [
+    {
+      "form": "KIT",
+      "generic": "varenicline",
+      "name": "VARENICLINE"
+    },
     {
       "form": "TABLET, FILM COATED",
       "generic": "varenicline",

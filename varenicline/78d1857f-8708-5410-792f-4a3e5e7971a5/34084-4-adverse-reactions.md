@@ -34,7 +34,7 @@ MedDRA High Level Group Terms (HLGT) reported in ≥ 5% of patients in the varen
 Closely related Preferred Terms such as ‘Insomnia’, ‘Initial insomnia’, ‘Middle insomnia’, ‘Early morning awakening’ were grouped, but individual patients reporting two or more grouped events are only counted once.
 
 Table 1.
-Common Treatment Emergent AEs (%) in the Fixed-Dose, Placebo-Controlled Studies (HLGTs > 5% of patients in the 1 mg BID Varenicline Tablet Group and More Commonly than Placebo and PT ≥ 1% in the 1 mg BID Varenicline Tablet Group, and 1 mg BID Varenicline Tablet at Least 0.5% More than Placebo)
+Common Treatment Emergent AEs (%) in the Fixed-Dose, Placebo-Controlled Studies (HLGTs ≥ 5% of patients in the 1 mg BID Varenicline Tablet Group and More Commonly than Placebo and PT ≥ 1% in the 1 mg BID Varenicline Tablet Group, and 1 mg BID Varenicline Tablet at Least 0.5% More than Placebo)
 
 | SYSTEM ORGAN CLASS High Level Group Term Preferred Term | Varenicline Tablets 0.5 mg BIDN=129 | Varenicline Tablets 1 mg BIDN=821 | PlaceboN=805 |
 | --- | --- | --- | --- |
@@ -131,7 +131,7 @@ Rare: hyperlipidemia, hypokalemia.
 
 Musculoskeletal and Connective Tissue Disorders.
 Frequent: arthralgia, back pain, myalgia.
-Infrequent: arthritis, muscle cramp, musculoskeletal pain..
+Infrequent: arthritis, muscle cramp, musculoskeletal pain.
 Rare: myositis, osteoporosis.
 
 Nervous System Disorders.
@@ -164,7 +164,7 @@ Vascular Disorders.
 Infrequent: hot flush.
 Rare: thrombosis.
 
-Varenicline tablets has also been studied in postmarketing trials including (1) a trial conducted in patients with chronic obstructive pulmonary disease (COPD), (2) a trial conducted in generally healthy patients (similar to those in the premarketing studies) in which they were allowed to select a quit date between days 8 and 35 of treatment (“alternative quit date instruction trial”), (3) a trial conducted in patients who did not succeed in stopping smoking during prior varenicline tablet therapy, or who relapsed after treatment (“re-treatment trial”), (4) a trial conducted in patients with stable cardiovascular disease, (5) a trial conducted in patients with stable schizophrenia or schizoaffective disorder, (6) a trial conducted in patients with major depressive disorder, (7) a postmarketing neuropsychiatric safety outcome trial in patients without or with a history of psychiatric disorder, (8) a non-treatment extension of the postmarketing neuropsychiatric safety outcome trial that assessed CV safety, (9) a trial in patients who were not able or willing to quit abruptly and who were instructed to quit gradually (“gradual approach to quitting smoking trial”).
+Varenicline tablets have also been studied in postmarketing trials including (1) a trial conducted in patients with chronic obstructive pulmonary disease (COPD), (2) a trial conducted in generally healthy patients (similar to those in the premarketing studies) in which they were allowed to select a quit date between days 8 and 35 of treatment (“alternative quit date instruction trial”), (3) a trial conducted in patients who did not succeed in stopping smoking during prior varenicline tablet therapy, or who relapsed after treatment (“re-treatment trial”), (4) a trial conducted in patients with stable cardiovascular disease, (5) a trial conducted in patients with stable schizophrenia or schizoaffective disorder, (6) a trial conducted in patients with major depressive disorder, (7) a postmarketing neuropsychiatric safety outcome trial in patients without or with a history of psychiatric disorder, (8) a non-treatment extension of the postmarketing neuropsychiatric safety outcome trial that assessed CV safety, (9) a trial in patients who were not able or willing to quit abruptly and who were instructed to quit gradually (“gradual approach to quitting smoking trial”).
 
 Adverse events in the trial of patients with COPD (1), in the alternative quit date instruction trial (2), and in the gradual approach to quitting smoking trial (9) were similar to those observed in premarketing studies.
 In the re-treatment trial (3), the profile of common adverse events was similar to that previously reported, but, in addition, varenicline-treated patients also commonly reported diarrhea (6% vs. 4% in placebo-treated patients), depressed mood disorders and disturbances (6% vs. 1%), and other mood disorders and disturbances (5% vs. 2%).

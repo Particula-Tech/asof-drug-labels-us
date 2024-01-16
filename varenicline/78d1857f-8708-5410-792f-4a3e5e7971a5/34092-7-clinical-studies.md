@@ -45,7 +45,7 @@ In addition, 29% of the varenicline tablets group were continuously abstinent fr
 
 Study 4 and Study 5
 
-These identical double-blind studies compared varenicline tablets 2 mg per day, bupropion sustained-release (SR) 150 mg twice daily, and placebo.
+These identical double-blind studies compared varenicline tablets 2 mg per day, bupropion sustained release (SR) 150 mg twice daily, and placebo.
 Patients were treated for 12 weeks and then were followed for 40 weeks post-treatment.
 The varenicline dosage of 1 mg twice daily was achieved using a titration of 0.5 mg once daily for the initial 3 days followed by 0.5 mg twice daily for the next 4 days.
 The bupropion SR dosage of 150 mg twice daily was achieved using a 3-day titration of 150 mg once daily.
@@ -138,7 +138,7 @@ BID = twice daily
 
 ## 14.7 Subjects with Chronic Obstructive Pulmonary Disease
 
-Varenicline tablets was evaluated in a randomized, double-blind, placebo-controlled study of subjects aged ≥ 35 years with mild-to-moderate COPD with post-bronchodilator FEV1/FVC <70% and FEV1 ≥ 50% of predicted normal value.
+Varenicline tablets were evaluated in a randomized, double-blind, placebo-controlled study of subjects aged ≥ 35 years with mild-to-moderate COPD with post-bronchodilator FEV1/FVC <70% and FEV1 ≥ 50% of predicted normal value.
 Subjects were randomized to varenicline tablets 1 mg twice daily (N=223) or placebo (N=237) for a treatment of 12 weeks and then were followed for 40 weeks post-treatment.
 Subjects treated with varenicline tablets had a superior rate of CO-confirmed abstinence during weeks 9 through 12 (41%) compared to subjects treated with placebo (9%) and from week 9 through 52 (19%) compared to subjects treated with placebo (6%).
 

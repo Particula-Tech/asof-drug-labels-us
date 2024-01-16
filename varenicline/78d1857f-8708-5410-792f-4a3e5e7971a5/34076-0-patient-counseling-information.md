@@ -39,7 +39,7 @@ Provide patients with educational materials and necessary counseling to support 
 Neuropsychiatric Adverse Events
 
 Inform patients that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking varenicline tablets.
-Instruct patients to discontinue varenicline tablets and contact a healthcare professional if they experience such symptoms [seeWarnings and Precautions (5.1), Adverse Reactions (6.2)].
+Instruct patients to discontinue varenicline tablets and contact a healthcare professional if they experience such symptoms [see Warnings and Precautions (5.1), Adverse Reactions (6.2)].
 
 History of Psychiatric Illness
 
@@ -104,4 +104,4 @@ VARENICLINE TABLETS
 | Canada M9L 1T9 | Florida 33326 |
 
 Rev.
-3
+4
