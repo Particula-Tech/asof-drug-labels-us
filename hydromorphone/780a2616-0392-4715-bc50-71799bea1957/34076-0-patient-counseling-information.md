@@ -4,8 +4,8 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Storage and Disposal
 
-Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store hydromorphone hydrochloride extended-release tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.5), Drug Abuse and Dependence (9.2)].
-Inform patients that leaving hydromorphone hydrochloride extended-release tablets unsecured can pose a deadly risk to others in the home.
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store hydromorphone hydrochloride extended-release tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
+Inform patients that leaving hydromorphone hydrochloride extended-release tablets unsecured can pose a deadly risk to others in the home [see Warnings and Precautions (5.1, 5.5), Drug Abuse and Dependence (9.2)].
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
 Expired, unwanted, or unused hydromorphone hydrochloride extended-release tablets should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
@@ -22,6 +22,14 @@ Inform patients of the risk of life-threatening respiratory depression, includin
 
 Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.2)].
 
+Accidental Ingestion
+
+Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
+
+Interactions with Benzodiazepines and Other CNS Depressants
+
+Inform patients and caregivers that potentially fatal additive effects may occur if hydromorphone hydrochloride extended-release tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
+
 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
 Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with hydromorphone hydrochloride extended-release tablets.
@@ -37,14 +45,6 @@ If naloxone is prescribed, also advise patients and caregivers:
 - •To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
 - •To read the Patient Information (or other educational material) that will come with their naloxone.
   Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
-
-Accidental Ingestion
-
-Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
-
-Interactions with Benzodiazepines and Other CNS Depressants
-
-Inform patients and caregivers that potentially fatal additive effects may occur if hydromorphone hydrochloride extended-release tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
 Hyperalgesia and Allodynia
 
@@ -126,13 +126,13 @@ Infertility
 Inform patients that use of opioids for an extended period of time may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
-Manufactured By
-
-Padagis
+Manufactured by Padagis
 
 Minneapolis, MN 55427
 
-Rev 09/23 1B500 RC PH17 2204828
+www.padagis.com
+
+Rev 01-24 1B500 RC PH18 2204851
 
 PHARMACIST: Dispense a separate Medication Guide to each patient.
 Dispense with Medication Guide available at www.padagis.com/medguide/HDMRTabs

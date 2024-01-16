@@ -4,7 +4,7 @@
 
 To avoid medication errors, prescribers and pharmacists must be aware that hydromorphone is available as both immediate-release 8 mg tablets and extended-release 8 mg tablets.
 
-Hydromorphone hydrochloride extended-release tablets should be prescribed only by healthcare professionals who are knowledgeable about the use of extended-release opioids and how to mitigate the associated risks.
+Hydromorphone hydrochloride extended-release tablets should be prescribed only by healthcare professionals who are knowledgeable about the use of extended-release/long-acting opioids and how to mitigate the associated risks.
 
 Due to the risk of respiratory depression, hydromorphone hydrochloride extended-release tablets are only indicated for use in patients who are already opioid-tolerant.
 Discontinue or taper all other extended-release opioids when beginning hydromorphone hydrochloride extended-release tablet therapy.

@@ -6,7 +6,7 @@ Because the use of hydromorphone hydrochloride extended-release tablets exposes 
 
 Life-Threatening Respiratory Depression
 
-Serious, life-threatening, or fatal respiratory depression may occur with use of hydromorphone hydrochloride extended-release tablets, especially during initiation or following a dose increase.
+Serious, life-threatening, or fatal respiratory depression may occur with use of hydromorphone hydrochloride extended-release tablets, especially during initiation or following a dosage increase.
 To reduce the risk of respiratory depression, proper dosing and titration of hydromorphone hydrochloride extended-release tablets are essential.
 Instruct patients to swallow hydromorphone hydrochloride extended-release tablets whole; crushing, chewing, or dissolving hydromorphone hydrochloride extended-release tablets can cause rapid release and absorption of a potentially fatal dose of hydromorphone [see Warnings and Precautions (5.2)].
 

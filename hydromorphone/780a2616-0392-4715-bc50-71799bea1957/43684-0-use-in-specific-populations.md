@@ -92,12 +92,12 @@ Respiratory depression is the chief risk for elderly patients treated with opioi
 Titrate the dosage of hydromorphone hydrochloride extended-release tablets slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.2)].
 
 Hydromorphone is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
 
 ## 8.6 Hepatic Impairment
 
 In a study that used a single 4 mg oral dose of immediate-release hydromorphone tablets, four-fold increases in plasma levels of hydromorphone (Cmax and AUC0-∞) were observed in patients with moderate hepatic impairment (Child-Pugh Group B). Start patients with moderate hepatic impairment on 25% of the hydromorphone hydrochloride extended-release tablets dose that would be used in patients with normal hepatic function.
-Closely monitor patients with moderate hepatic impairment for respiratory and central nervous system depression during initiation of therapy with hydromorphone hydrochloride extended-release tablets and during dose titration.
+Regularly evaluate patients with moderate hepatic impairment for respiratory and central nervous system depression during initiation of therapy with hydromorphone hydrochloride extended-release tablets and during dose titration.
 The pharmacokinetics of hydromorphone in severe hepatic impairment patients have not been studied.
 As further increases in Cmax and AUC0-∞ of hydromorphone in this group are expected, use of alternate analgesics is recommended [see Dosage and Administration (2.6)].
 
@@ -106,5 +106,5 @@ As further increases in Cmax and AUC0-∞ of hydromorphone in this group are exp
 Administration of a single 4 mg dose of immediate-release hydromorphone tablets resulted in two-fold and four-fold increases in plasma levels of hydromorphone (Cmax and AUC0-48h) in moderate (CLcr = 40 to 60 mL/min) and severe (CLcr < 30 mL/min) impairment, respectively.
 In addition, in patients with severe renal impairment hydromorphone appeared to be more slowly eliminated with longer terminal elimination half-life.
 Start patients with moderate renal impairment on 50% and patients with severe renal impairment on 25% of the hydromorphone hydrochloride extended-release tablets dose that would be prescribed for patients with normal renal function.
-Closely monitor patients with renal impairment for respiratory and central nervous system depression during initiation of therapy with hydromorphone hydrochloride extended-release tablets and during dose titration.
+Regularly evaluate patients with renal impairment for respiratory and central nervous system depression during initiation of therapy with hydromorphone hydrochloride extended-release tablets and during dose titration.
 As hydromorphone hydrochloride extended-release tablets are only intended for once daily administration, consider use of an alternate analgesic that may permit more flexibility with the dosing interval in patients with severe renal impairment [see Dosage and Administration (2.7)].
