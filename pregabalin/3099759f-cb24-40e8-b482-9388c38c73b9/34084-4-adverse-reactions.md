@@ -289,7 +289,7 @@ Adverse Reaction Incidence in Controlled Trials in Neuropathic Pain Associated w
 
 | % | % |  |
 | --- | --- | --- |
-| System Organ Class Preferred term | PGB* (N=182) | Placebo (N=174) |
+| System Organ ClassPreferred term | PGB* (N=182) | Placebo (N=174) |
 | Ear and labyrinth disorders |  |  |
 | Vertigo | 2.7 | 1.1 |
 | Eye disorders |  |  |
