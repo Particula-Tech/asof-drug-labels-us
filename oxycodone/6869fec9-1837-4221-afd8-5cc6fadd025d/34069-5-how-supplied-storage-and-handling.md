@@ -20,11 +20,12 @@ NDC# 64950-353-01: Prefilled Oral Dispenser, 10 mg per 0.5 mL
 
 NDC# 64950-353-02: Prefilled Oral Dispenser, 20 mg per mL
 
-NDC# 64950-353-51: Case contains 50 prefilled oral dispensers of 10 mg/0.5 mL (NDC# 64950-353-01), packaged in 10 pouches of 5 prefilled oral dispensers each (NDC# 64950-353-91)
+NDC# 64950-353-51: Case contains 50 prefilled oral dispensers of 10 mg/0.5 mL (NDC # 64950-353-01), packaged in 10 pouches of 5 prefilled oral dispensers each (NDC# 64950-353-91)
 
 NDC# 64950-353-52: Case contains 50 prefilled oral dispensers of 20 mg/mL (NDC# 64950-353-02), packaged in 10 pouches of 5 prefilled oral dispensers each (NDC# 64950-353-92)
 
 Store at Controlled Room Temperature, 25°C (77°F); excursions are permitted to 15° - 30°C (59° - 86°F).
+
 PROTECT from MOISTURE and LIGHT.
 
-Store Oxycodone Hydrochloride Oral Solution securely and dispose of properly [see Patient Counseling Information (17)].
+Store Oxycodone Hydrochloride Oral Solution securely and dispose of properly.

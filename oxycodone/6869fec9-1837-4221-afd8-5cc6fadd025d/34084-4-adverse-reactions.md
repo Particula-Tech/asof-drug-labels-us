@@ -3,14 +3,15 @@
 The following serious adverse reactions are described, or described in greater detail, in other sections:
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.2)]
-- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.4)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
+- Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.4)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.5)]
-- Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.7)]
-- Adrenal Insufficiency [see Warnings and Precautions (5.9)]
-- Severe Hypotension [see Warnings and Precautions (5.10)]
-- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.12)]
-- Seizures [see Warnings and Precautions (5.13)]
-- Withdrawal [see Warnings and Precautions (5.14)]
+- Opioid-Induced Hyperalgesia and Allodynia [see Warnings and Precautions (5.8)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.10)]
+- Severe Hypotension [see Warnings and Precautions (5.11)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.13)]
+- Seizures [see Warnings and Precautions (5.14)]
+- Withdrawal [see Warnings and Precautions (5.15)]
 
 The following adverse reactions associated with the use of oxycodone were identified in clinical studies or postmarketing reports.
 Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -54,4 +55,9 @@ Adrenal insufficiency: Cases of adrenal insufficiency have been reported with op
 
 Anaphylaxis: Anaphylaxis has been reported with ingredients contained in Oxycodone Hydrochloride Oral Solution.
 
-Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+Androgen deficiency: Cases of androgen deficiency have occurred with use of opioids for an extended period of time [see Clinical Pharmacology (12.2)].
+
+Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see Warnings and Precautions (5.8)].
+
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking opioids.
+Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).
