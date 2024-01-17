@@ -35,14 +35,14 @@ Manifestations of histamine release and/or peripheral vasodilation may include p
 Effects on the Endocrine System Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans (see ADVERSE REACTIONS).
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as symptoms as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as symptoms as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date (see ADVERSE REACTIONS).
 
 Effects on the Immune System Opioids have been shown to have a variety of effects on components of the immune system.
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
-Concentration-Efficacy Relationships The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
+Concentration-Efficacy Relationships The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with extended-release agonist opioids.
 The minimum effective analgesic concentration of hydrocodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance (see DOSAGE AND ADMINISTRATION).
 
 Concentration-Adverse Reaction Relationships There is a relationship between increasing hydrocodone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
