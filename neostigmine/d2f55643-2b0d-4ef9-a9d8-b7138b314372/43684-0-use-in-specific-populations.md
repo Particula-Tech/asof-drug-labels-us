@@ -4,38 +4,34 @@
 
 Risk Summary
 
-There are no adequate or well-controlled studies of BLOXIVERZ in pregnant women.
-It is not known whether BLOXIVERZ can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity.
-The incidence of malformations in human pregnancies has not been established for neostigmine as the data are limited.
+Published studies and case reports over several decades about the use of neostigmine products, including neostigmine methylsulfate, in pregnant women have not identified any drug-associated risk for major birth defects and miscarriage.
+However, most of the available data are based on studies with exposure that occurred at the time of caesarean section or labor and delivery.
+These studies have not identified an adverse effect on maternal or infant outcomes.
+In animal reproduction studies, no adverse developmental effects were observed after administration of neostigmine methylsulfate to pregnant rats and rabbits during organogenesis with doses up to 0.1 and 0.2 times, respectively, the maximum recommended human dose (MRHD) of 5mg/60kg/person/day based on body surface area (mg/m2).
 
-No adverse effects were noted in rats or rabbits treated with human equivalent doses of neostigmine methylsulfate doses up to 8.1 and 13 mcg/kg/day, respectively, during organogenesis (0.1 to 0.2-times the maximum recommended human dose of 5 mg/60 kg person/day based on body surface area comparisons).
-
-Anticholinesterase drugs, including neostigmine may cause uterine irritability and induce premature labor when administered to pregnant women near term.
-
-The estimated background risk for major birth defects and miscarriage for the indicated population is unknown.
-All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in the clinically recognized pregnancies is 2-4% and 15-20% respectively.
-
-BLOXIVERZ should be given to a pregnant woman only if clearly needed.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in the clinically recognized pregnancies is 2 to 4% and 15 to 20% respectively.
 
 Data
 
 Animal Data
 
-In embryofetal development studies, rats and rabbits were administered neostigmine methylsulfate at human equivalent doses (HED, on a mg/m 2 basis) of 1.6, 4 and 8.1 mcg/kg/day and 3.2, 8.1, and 13 mcg/kg/day, respectively, during the period of organogenesis (Gestation Days 6 through 17 for rats and Gestation Days 6 through 18 for rabbits).
+In embryofetal development studies, rats and rabbits were administered neostigmine methylsulfate at human equivalent doses (HED, on a mg/m2 basis) of 1.6, 4 and 8.1 mcg/kg/day and 3.2, 8.1, and 13 mcg/kg/day, respectively, during the period of organogenesis (Gestation Days 6 through 17 for rats and Gestation Days 6 through 18 for rabbits).
 There was no evidence for a teratogenic effect in rats and rabbits up to HED 8.1 and 13 mcg/kg/day, which are approximately 0.097 times and 0.16 times the MRHD of 5 mg/60 kg, respectively in the presence of minimal maternal toxicity (tremors, ataxia, and prostration).
 The studies resulted in exposures in the animals well below predicted exposures in humans.
 
 In a pre- and postnatal development study in rats, neostigmine methylsulfate was administered to pregnant female rats at human equivalent doses (HED) of 1.6, 4 and 8.1 mcg/kg/day from Day 6 of gestation through Day 20 of lactation, with weaning on Day 21.
-There were no adverse effects on physical development, behavior, learning ability, or fertility in the offspring at HED doses up to 8.1 mcg/kg/day which is 0.097 times the MRHD of 5 mg/60 kg on a mg/m 2 basis in the presence of minimal maternal toxicity (tremors, ataxia, and prostration).
+There were no adverse effects on physical development, behavior, learning ability, or fertility in the offspring at HED doses up to 8.1 mcg/kg/day which is 0.097 times the MRHD of 5 mg/60 kg on a mg/m2 basis in the presence of minimal maternal toxicity (tremors, ataxia, and prostration).
 The studies resulted in exposures in the animals well below predicted exposures in humans.
 
 ## 8.2 Lactation
 
 Risk Summary
 
-There are no data on the presence of neostigmine methylsulfate in either human or animal milk, the effects on the breastfed infant, or the effects on milk production.
-The developmental and health benefits of breast feeding should be considered along with the mother’s clinical need for neostigmine methylsulfate and any potential adverse effects on the breastfed child from neostigmine methysulfate or from the underlying maternal condition.
+Published data from case reports are insufficient to determine the presence of neostigmine methylsulfate in human milk or the effects on the breastfed infant.
+There is no information on the effects of neostigmine on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for BLOXIVERZ and any potential adverse effects on the breastfed infant from BLOXIVERZ or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

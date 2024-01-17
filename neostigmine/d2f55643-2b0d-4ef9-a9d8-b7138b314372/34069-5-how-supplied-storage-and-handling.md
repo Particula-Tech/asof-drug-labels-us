@@ -6,6 +6,7 @@ BLOXIVERZ (Neostigmine Methylsulfate Injection, USP) is available in the followi
 | --- | --- | --- |
 | 51754-1210-3 | 0.5 mg/mL | 10 mL multiple-dose vials (supplied in packages of 10) |
 | 51754-1220-3 | 1 mg/mL | 10 mL multiple-dose vials (supplied in packages of 10) |
+| 51754-1200-3 | 1 mg/mL | 5 mL single-dose prefilled syringe (supplied in packages of 10) |
 
 The vial stopper is not made with natural rubber latex.
 
