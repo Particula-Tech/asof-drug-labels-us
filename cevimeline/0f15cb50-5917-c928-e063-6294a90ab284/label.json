@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA218290"
+  ],
+  "inn": "cevimeline",
+  "labeler": "Bionpharma Inc",
+  "package_ndcs": [
+    "69452-316-20"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "cevimeline hydrochloride",
+      "name": "CEVIMELINE"
+    }
+  ],
+  "setid": "0f15cb50-5917-c928-e063-6294a90ab284",
+  "source": "dailymed"
+}
