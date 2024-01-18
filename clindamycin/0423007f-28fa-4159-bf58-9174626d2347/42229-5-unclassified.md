@@ -22,7 +22,7 @@ Important Information
 
 How do I store XACIATO?
 
-- Store XACIATO gel at room temperature between 68°F to 77°F (20°C to 25°C).
+- Store XACIATO gel at room temperature between 68ºF to 77ºF (20ºC to 25ºC).
 - Do not store in the refrigerator or freezer.
 
 Store XACIATO gel and all medicines out of the reach of children.
@@ -38,5 +38,11 @@ Store XACIATO gel and all medicines out of the reach of children.
 | Step 7. Remove the empty applicator from your vagina. |  |
 | Step 8. Place the used applicator and tube in the container box and throw away (dispose of) in your household trash. |  |
 
+Distributed by: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA
+
+For patent information: www.organon.com/our-solutions/patent/ © 2023 Organon group of companies.
+All rights reserved.
+For more information, go to www.xaciato.com or call 1-844-674-3200 usifu-og9423-gl-2312r000
+
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: 06/2022
+Revised: 12/2023
