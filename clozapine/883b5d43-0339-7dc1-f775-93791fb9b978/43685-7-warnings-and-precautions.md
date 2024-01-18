@@ -30,7 +30,7 @@ Clozapine Tablets Treatment Recommendations Based on Absolute Neutrophil Count (
 
 | ANC Level | Clozapine Tablets Treatment Recommendations | ANC Monitoring |
 | --- | --- | --- |
-| Normal range(≥ 1500/μL) | •Initiate treatment•If treatment interrupted: -< 30 days, continue monitoring as before-≥ 30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
+| Normal range(≥ 1500/μL) | 1.Initiate treatment2.If treatment interrupted: < 30 days, continue monitoring as before ≥ 30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
 | •Discontinuation for reasons other than neutropenia | •See Section 2.4 |  |
 | Mild Neutropenia(1000 to 1499/μL)Confirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours | •Continue treatment | •Three times weekly until ANC ≥ 1500/μL•Once ANC ≥ 1500/μL, return to patient’s last “Normal Range” ANC monitoring intervalIf clinically appropriate |
 | Moderate Neutropenia(500 to 999/µL) | •Recommend hematology consultation•Interrupt treatment for suspected clozapine induced neutropenia•Resume treatment once ANC ≥ 1000/µL | •Daily until ANC ≥ 1000/µL, then•Three times weekly until ANC ≥ 1500/µL •Once ANC ≥ 1500/µL, check ANC weekly for 4 weeks, then return to patient’s last “Normal Range” ANC monitoring interval |
@@ -54,7 +54,7 @@ Patients with Benign Ethnic Neutropenia (BEN); Clozapine Tablets Treatment Recom
 
 | ANC Level | Treatment Recommendations | ANC Monitoring |
 | --- | --- | --- |
-| Normal BEN Range(Established ANC baseline ≥ 1000/µL) | •Obtain at least two baseline ANC levels before initiating treatment•If treatment interrupted -< 30 days, continue monitoring as before-≥ 30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
+| Normal BEN Range(Established ANC baseline ≥ 1000/µL) | 1.Obtain at least two baseline ANC levels before initiating treatment2.If treatment interrupted < 30 days, continue monitoring as before ≥ 30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
 | •Discontinuation of treatment for reasons other than neutropenia | •See Section 2.4 |  |
 | BENNeutropenia500 to 999/µLConfirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours | •Recommend hematology consultation•Continue treatment | •Three times weekly until ANC ≥ 1000/µL or ≥ patient’s known baseline•Once ANC ≥ 1000/µL or at patient’s known baseline, check ANC weekly for 4 weeks, then return to patient’s last “Normal BEN Range” ANC monitoring interval.If clinically appropriate |
 | BEN Severe Neutropenialess than 500/µL | •Recommend hematology consultation•Interrupt treatment for suspected clozapine-induced neutropenia•Do not rechallenge unless prescriber determines benefits outweigh risks | •Daily until ANC ≥ 500/µL, then•Three times weekly until ANC ≥ patient’s baseline •If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥ 1000/µL or at patient’s baseline |
