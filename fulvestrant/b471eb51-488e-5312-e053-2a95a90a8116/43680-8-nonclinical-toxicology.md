@@ -6,14 +6,14 @@ Two-year carcinogenesis studies were conducted in rats and mice.
 Positive findings were observed in both species.
 Rats were treated at intramuscular doses of 15 mg/kg/30 days, 10 mg/rat/30 days and 10 mg/rat/15 days.
 
-These doses correspond to 0.9-, 1.5-, and 3-fold (in females) and 0.8-, 0.8-, and 2-fold (in males) the systemic exposure [AUC 0-30 days] achieved in women receiving the recommended dose of 500 mg/month.
+These doses correspond to 0.9-, 1.5-, and 3-fold (in females) and 0.8-, 0.8-, and 2-fold (in males) the systemic exposure [AUC 0-30days] achieved in women receiving the recommended dose of 500 mg/month.
 An increased incidence of benign ovarian granulosa cell tumors and testicular Leydig cell tumors was evident, in females dosed at 10 mg/rat/15 days and males dosed at 15 mg/rat/30 days, respectively.
 Mice were treated at oral doses of 0, 20, 150, and 500 mg/kg/day.
 These doses correspond to 0-, 0.8-, 8.4-, and 18-fold (in females) and 0.8-, 7.1-, and 11.9- fold (in males), the systemic exposure (AUC 0-30 days) achieved in women receiving the recommended dose of 500 mg/month.
 There was an increased incidence of sex cord stromal tumors (both benign and malignant) in the ovary of mice at doses of 150 and 500 mg/kg/day.
 Induction of such tumors is consistent with the pharmacology-related endocrine feedback alterations in gonadotropin levels caused by an antiestrogen.
 
-Fulvestrant was not mutagenic or clastogenic in multiple in vitro tests with and without the addition of a mammalian liver metabolic activation factor (bacterial mutation assay in strains of Salmonella typhimurium and Escherichia coli, in vitro cytogenetics study in human lymphocytes, mammalian cell mutation assay in mouse lymphoma cells and in vivo micronucleus test in rat).
+Fulvestrant was not mutagenic or clastogenic in multiple in vitrotests with and without the addition of a mammalian liver metabolic activation factor (bacterial mutation assay in strains of Salmonella typhimurium and Escherichia coli, in vitrocytogenetics study in human lymphocytes, mammalian cell mutation assay in mouse lymphoma cells and in vivomicronucleus test in rat).
 
 In female rats, fulvestrant administered at doses ≥ 0.01 mg/kg/day (0.6% the human recommended dose based on body surface area [BSA in mg/m 2]), for 2 weeks prior to and for 1 week following mating, caused a reduction in fertility and embryonic survival.
 No adverse effects on female fertility and embryonic survival were evident in female animals dosed at 0.001 mg/kg/day (0.06% the human dose based on BSA in mg/m 2).

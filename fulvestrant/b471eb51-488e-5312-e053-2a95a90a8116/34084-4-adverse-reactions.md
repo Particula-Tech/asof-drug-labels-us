@@ -5,7 +5,7 @@ The following adverse reactions are discussed in more detail in other sections o
 - Risk of Bleeding [see Warnings and Precautions (5.1)]
 - Increased Exposure in Patients with Hepatic Impairment [see Warnings and Precautions (5.2)]
 - Injection Site Reaction [see Warnings and Precautions (5.3)]
-- Embryo-Fetal Toxicity [see Warnings and Precautions (5.4)]
+- Embryo-Fetal Toxicity [seeWarnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -22,10 +22,10 @@ Table 1 lists adverse reactions reported with an incidence of 5% or greater, reg
 
 Table 1: Adverse Reactions in CONFIRM (≥5% in Either Treatment Group)
 
-| Adverse Reactions | Fulvestrant 500 mg N=361% | Fulvestrant 250 mgN=374% |
+| Adverse Reactions | Fulvestrant 500 mgN=361% | Fulvestrant 250 mgN=374% |
 | --- | --- | --- |
 | Body as a Whole |  |  |
-| Injection Site Pain 1 | 12 | 9 |
+| Injection Site Pain Including more severe injection site related sciatica, neuralgia, neuropathic pain, and peripheral neuropathy. | 12 | 9 |
 | Headache | 8 | 7 |
 | Back Pain | 8 | 11 |
 | Fatigue | 8 | 6 |

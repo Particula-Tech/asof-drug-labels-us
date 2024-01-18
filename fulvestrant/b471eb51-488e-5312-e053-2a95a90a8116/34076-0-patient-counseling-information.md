@@ -11,7 +11,7 @@ Risk of Bleeding:
 Embryo-Fetal Toxicity:
 
 - Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception during treatment with Fulvestrant injection and for one year after the last dose.
-  Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.4) and Use in Specific Populations (8.1),(8.3)].
+  Advise females to inform their healthcare provider of a known or suspected pregnancy [seeWarnings and Precautions (5.4)and Use in Specific Populations (8.1),(8.3)].
 
 Lactation:
 
@@ -23,20 +23,10 @@ When Fulvestrant injection is used in combination with palbociclib, abemaciclib,
 
 Manufactured For:
 
-Accord Healthcare, Inc.,
-
-1009, Slater Road,
-
-Suite 210-B,
-
-Durham, NC 27703,
-
-USA.
+Accord Healthcare, Inc., Raleigh, NC 27617.
 
 Manufactured By:
 
-Intas Pharmaceuticals Limited,
+Intas Pharmaceuticals Limited, Ahmedabad-380 054, India.
 
-Ahmedabad-380 054, India.
-
-10 2433 1 6006931
+10 2433 2 6023855

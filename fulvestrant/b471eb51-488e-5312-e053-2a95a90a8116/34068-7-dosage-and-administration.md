@@ -32,7 +32,7 @@ Hepatic Impairment:
 
 A dose of 250 mg is recommended for patients with moderate hepatic impairment (Child-Pugh class B) to be administered intramuscularly into the buttock (gluteal area) slowly (1 - 2 minutes) as one 5 mL injection on Days 1, 15, 29, and once monthly thereafter.
 
-Fulvestrant injection has not been evaluated in patients with severe hepatic impairment (Child-Pugh class C) [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
+Fulvestrant injection has not been evaluated in patients with severe hepatic impairment (Child-Pugh class C) [see Warnings and Precautions (5.2)and Use in Specific Populations (8.6)].
 
 Combination Therapy
 
@@ -44,7 +44,7 @@ Refer to the Full Prescribing Information of co-administered palbociclib, abemac
 
 Administer the injection according to the local guidelines for performing large volume intramuscular injections.
 
-NOTE: Due to the proximity of the underlying sciatic nerve, caution should be taken if administering Fulvestrant injection at the dorsogluteal injection site [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
+NOTE: Due to the proximity of the underlying sciatic nerve, caution should be taken if administering Fulvestrant injection at the dorsogluteal injection site [see Warnings and Precautions (5.3)and Adverse Reactions (6.1)].
 
 The proper method of administration of Fulvestrant injection for intramuscular use is described in the following instructions.
 
@@ -96,7 +96,7 @@ For the 2 x 5 mL syringe package, the contents of both syringes must be injected
 
 SAFETYGLIDE™ INSTRUCTIONS FROM BECTON DICKINSON
 
-SafetyGlide ™ is a trademark of Becton Dickinson and Company.
+SafetyGlide ™is a trademark of Becton Dickinson and Company.
 
 Important Administration Information
 

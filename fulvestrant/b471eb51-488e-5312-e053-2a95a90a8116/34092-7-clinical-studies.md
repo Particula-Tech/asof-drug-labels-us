@@ -24,7 +24,7 @@ Approximately 55% of patients had visceral disease.
 
 Results of CONFIRM are summarized in Table 12.
 The efficacy of Fulvestrant 500 mg was compared to that of Fulvestrant 250 mg.
-Figure 6 shows a Kaplan-Meier plot of the Progression Free Survival (PFS) data after a minimum follow-up duration of 18 months demonstrating statistically significant superiority of Fulvestrant 500 mg vs. Fulvestrant 250 mg.
+Figure 6 shows a Kaplan-Meier plot of the Progression Free Survival (PFS) data after a minimum follow-up duration of 18 months demonstrating statistically significant superiority of Fulvestrant 500 mg vs.Fulvestrant 250 mg.
 In the initial Overall Survival (OS) analysis after a minimum follow-up duration of 18 months, there was no statistically significant difference in OS between the two treatment groups.
 After a minimum follow-up duration of 50 months, an updated OS analysis was performed.
 Figure 7 shows a Kaplan-Meier plot of the updated OS data.
@@ -34,9 +34,9 @@ Table 12: Efficacy Results in CONFIRM (Intent-To-Treat (ITT) Population)
 | Endpoint | Fulvestrant 500 mg(N=362) | Fulvestrant 250 mg(N=374) |
 | --- | --- | --- |
 | PFSPFS (Progression Free Survival) = the time between randomization and the earliest of progression or death from any cause. Minimum follow-up duration of 18 months.Median (months) | 6.5 | 5.4 |
-| Hazard Ratio Hazard Ratio <1 favors Fulvestrant 500 mg. (95% CI CI=Confidence Interval) | 0.80 (0.68-0.94) |  |
+| Hazard Ratio Hazard Ratio <1 favors Fulvestrant 500 mg.(95% CI CI=Confidence Interval) | 0.80 (0.68-0.94) |  |
 | p-value | 0.006 |  |
-| OSOS=Overall Survival Updated Analysis Minimum follow up duration of 50 months. (% patients who died) | 261 (72.1%) | 293 (78.3%) |
+| OSOS=Overall SurvivalUpdated Analysis Minimum follow up duration of 50 months. (% patients who died) | 261 (72.1%) | 293 (78.3%) |
 | Median OS (months) | 26.4 | 22.3 |
 | Hazard Ratio (95% CI) Not statistically significant as no adjustments were made for multiplicity. | 0.81 (0.69-0.96) |  |
 | ORRORR (Objective Response Rate), as defined as number (%) of patients with complete response or partial response, was analyzed in the evaluable patients with measurable disease at baseline (fulvestrant 500 mg N=240; fulvestrant 250 mg N=261). Minimum follow-up duration of 18 months.(95% CI) | 13.8% (9.7%, 18.8%)(33/240) | 14.6% (10.5%, 19.4%)(38/261) |
@@ -96,7 +96,7 @@ The median age of study participants was 64 years.
 Patients with ER-/PgR-or unknown tumors were required to have demonstrated a prior response to endocrine therapy.
 Sites of metastases occurred as follows: visceral only 18.2%; viscera – liver involvement 23.0%; lung involvement 28.1%; bone only 19.7%; soft tissue only 5.2%; skin and soft tissue 18.7%.
 
-In both trials, eligible patients with measurable and/or evaluable disease were randomized to receive either Fulvestrant 250 mg intramuscularly once a month (28 days + 3 days) or anastrozole 1 mg orally once a day.
+In both trials, eligible patients with measurable and/or evaluable disease were randomized to receive either Fulvestrant 250 mg intramuscularly once a month (28 days +3 days) or anastrozole 1 mg orally once a day.
 All patients were assessed monthly for the first three months and every three months thereafter.
 Study 0021 was a double-blind, randomized trial in 400 postmenopausal women.
 Study 0020 was an open-label, randomized trial conducted in 451 postmenopausal women.
@@ -114,14 +114,14 @@ Table 14: Efficacy Results in Studies 0020 and 0021 (Objective Response Rate (OR
 | --- | --- | --- | --- | --- |
 |  | Study 0021 (Double-Blind) |  | Study 0020 (Open-Label) |  |
 |  | Fulvestrant | Anastrozole | Fulvestrant | Anastrozole |
-| Objective Tumor Response Number (%) of subjects with CR CR = Complete Response + PR PR = Partial Response | 35 (17.0) | 33 (17.0) | 45 (20.3) | 34 (14.9) |
-| % Difference in TumorResponse Rate (FAS FAS = Fulvestrant —ANA ANA = anastrozole) 2–sided 95.4% CI CI = Confidence Interval | 0.0 (-6.3, 8.9) |  | 5.4 (-1.4, 14.8) |  |
+| Objective Tumor Response Number (%) of subjectswith CR CR = Complete Response+ PR PR = Partial Response | 35 (17.0) | 33 (17.0) | 45 (20.3) | 34 (14.9) |
+| % Difference in TumorResponse Rate(FAS FAS = Fulvestrant—ANA ANA = anastrozole) 2–sided 95.4% CI CI = Confidence Interval | 0.0 (-6.3, 8.9) |  | 5.4 (-1.4, 14.8) |  |
 | Time to Progression (TTP)Median TTP (days) | 165 | 103 | 166 | 156 |
-| Hazard Ratio Hazard Ratio <1 favors Fulvestrant2-sided 95.4% CI | 0.9 (0.7, 1.1) |  | 1.0 (0.8, 1.2) |  |
+| Hazard Ratio Hazard Ratio <1 favors Fulvestrant2-sided 95.4% CI | 0.9(0.7, 1.1) |  | 1.0(0.8, 1.2) |  |
 | Stable Disease for ≥ 24 weeks (%) | 26.7 | 19.1 | 24.3 | 30.1 |
 | Overall Survival (OS) |  |  |  |  |
-| Died n (%)Median Survival (days) | 152 (73.8%) 844 | 149 (76.8%) 913 | 167 (75.2%) 803 | 173 (75.5%) 736 |
-| Hazard Ratio (2-sided 95% CI) | 0.98 (0.78, 1.24) |  | 0.97 (0.78, 1.21) |  |
+| Died n (%)Median Survival (days) | 152 (73.8%)844 | 149 (76.8%)913 | 167 (75.2%)803 | 173 (75.5%)736 |
+| Hazard Ratio (2-sided 95% CI) | 0.98(0.78, 1.24) |  | 0.97(0.78, 1.21) |  |
 
 Combination Therapy
 
@@ -156,24 +156,18 @@ Table 15: Efficacy Results in PALOMA-3 (Investigator Assessment, ITT Population)
 | Progression-Free Survival for ITT | N=347 | N=174 |
 | Number of PFS Events (%) | 145 (41.8%) | 114 (65.5%) |
 | Median PFS (months) (95% CI) | 9.5 (9.2-11.0) | 4.6 (3.5-5.6) |
-| Hazard Ratio (95% CI) and p-value | 0.461 (0.360-0.591) p <0.0001 |  |
+| Hazard Ratio (95% CI) and p-value | 0.461 (0.360-0.591)p <0.0001 |  |
 | Objective Response for Patients with Measurable Disease | N=267 | N=138 |
-| Objective response rate 1 (%, 95% CI) | 24.6 (19.6-30.2) | 10.9 (6.2-17.3) |
+| Objective response rate 1(%, 95% CI) | 24.6 (19.6-30.2) | 10.9 (6.2-17.3) |
 | Overall Survival for ITT population | N=347 | N=174 |
 | Number of OS events (%) | 201 (57.9) | 109 (62.6) |
 | Median OS (months) (95% CI) | 34.9 (28.8, 40.0) | 28.0 (23.6, 34.6) |
 | Hazard Ratio (95% CI) and p-value | 0.814 (0.644, 1.029), p=0.0857 2,3 |  |
 
 N=number of patients; PFS=progression-free survival; CI=confidence interval; ITT=Intent-to-Treat; OS=overall survival.
-
-1.
-Responses are based on confirmed responses.
-
-2.
-Not statistically significant at the pre-specified 2-sided alpha level of 0.047.
-
-3.
-2-sided p-value from the log-rank test stratified by the presence of visceral metastases and sensitivity to prior endocrine therapy per randomization.
+1.Responses are based on confirmed responses.
+2.Not statistically significant at the pre-specified 2-sided alpha level of 0.047.
+3.2-sided p-value from the log-rank test stratified by the presence of visceral metastases and sensitivity to prior endocrine therapy per randomization.
 
 Figure 9 Kaplan-Meier Plot of Progression-Free Survival (Investigator Assessment, ITT Population) – PALOMA-3
 
@@ -212,7 +206,7 @@ Table 16: Efficacy Results in MONARCH 2 (Intent-to-Treat Population)
 | Hazard ratio (95% CI) 1 | 0.757 (0.606, 0.945) |  |
 | p-value 1 | p=0.0137 |  |
 | Objective Response for Patients with Measurable Disease | N=318 | N=164 |
-| Objective response rate 3 (n, %) | 153 (48.1) | 35 (21.3) |
+| Objective response rate 3(n, %) | 153 (48.1) | 35 (21.3) |
 | 95% CI | 42.6, 53.6 | 15.1, 27.6 |
 | Abbreviations: CI = confidence interval, OS=overall survival. 1. Stratified by disease site (visceral metastases vs. bone-only metastases vs. other) and endocrine therapy resistance (primary resistance vs. secondary resistance) 2. Data from a pre-specified interim analysis (77% of the number of events needed for the planned final analysis) with the p-value compared with the allocated alpha of 0.021. 3. Complete response + partial response. |  |  |
 
@@ -234,7 +228,7 @@ Patients enrolled in this study had a median age of 63 years (range 31 to 89).
 Of the patients enrolled, 47% were 65 years and older, including 14% age 75 years and older.
 The patients enrolled were primarily Caucasian (85%), Asian (9%), and Black (0.7%).
 Nearly all patients (99.7%) had an ECOG performance status of 0 or 1.
-First- and second-line patients were enrolled in this study (of which 19% had de novo metastatic disease).
+First- and second-line patients were enrolled in this study (of which 19% had de novometastatic disease).
 Forty-three percent (43%) of patients had received chemotherapy in the adjuvant vs. 13% in the neoadjuvant setting and 59% had received endocrine therapy in the adjuvant vs. 1% in the neoadjuvant setting prior to study entry.
 Twenty-one percent (21%) of patients had bone-only disease and 61% had visceral disease.
 Demographics and baseline disease characteristics were balanced and comparable between study arms.

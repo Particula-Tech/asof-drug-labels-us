@@ -86,7 +86,7 @@ The pharmacokinetics of fulvestrant was characterized using a population pharmac
 Pharmacokinetic data from 294 postmenopausal women with breast cancer who received 125 or 250 mg monthly dosing regimen were also included in the analysis.
 
 In these pediatric patients receiving 4 mg/kg monthly intramuscular dose of fulvestrant, the geometric mean (SD) CL/F was 444 (165) mL/min which was 32% lower than adults.
-The geometric mean (SD) steady state trough concentration (C min,ss) and AUC ss was 4.19 (0.87) ng/mL and 3680 (1020) ng*hr/mL, respectively.
+The geometric mean (SD) steady state trough concentration (C min,ss) and AUC sswas 4.19 (0.87) ng/mL and 3680 (1020) ng*hr/mL, respectively.
 
 ## 8.5 Geriatric Use
 
@@ -102,7 +102,7 @@ In subjects with moderate hepatic impairment (Child-Pugh class B), the average A
 AUC was positively correlated with total bilirubin concentration (p = 0.012).
 Fulvestrant injection has not been studied in patients with severe hepatic impairment (Child-Pugh class C).
 
-A dose of Fulvestrant injection 250 mg is recommended in patients with moderate hepatic impairment (Child-Pugh class B) [see Dosage and Administration (2.2) and Warnings and Precautions (5.2)].
+A dose of Fulvestrant injection 250 mg is recommended in patients with moderate hepatic impairment (Child-Pugh class B) [see Dosage and Administration (2.2)and Warnings and Precautions (5.2)].
 
 ## 8.7 Renal Impairment
 
