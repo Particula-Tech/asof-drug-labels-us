@@ -6,22 +6,22 @@ Myasthenic crisis due to an increase in the severity of the disease is also acco
 Such differentiation is extremely important, since increases in doses of pyridostigmine bromide or other drugs of this class in the presence of cholinergic crisis or of a refractory or “insensitive” state could have grave consequences.
 Osserman and Genkins1 indicate that the differential diagnosis of the two types of crisis may require the use of Tensilon® (edrophonium chloride) as well as clinical judgment.
 The treatment of the two conditions obviously differs radically.
-Whereas the presence of myasthenic crisis suggests the need for more intensive anticholinesterase therapy, the diagnosis of cholinergic crisis, according to Osserman and Genkins1, calls for the prompt withdrawal of all drugs of this type.
+Whereas the presence of myasthenic crisis suggests the need for more intensive anticholinesterase therapy, the diagnosis of cholinergic crisis, according to Osserman and Genkins,1 calls for the prompt withdrawal of all drugs of this type.
 The immediate use of atropine in cholinergic crisis is also recommended.
 
 Atropine may also be used to abolish or obtund gastrointestinal side effects or other muscarinic reactions; but such use, by masking signs of overdosage, can lead to inadvertent induction of cholinergic crisis.
 
 For detailed information on the management of patients with myasthenia gravis, the physician is referred to one of the excellent reviews such as those by Osserman and Genkins2, Grob3 or Schwab4,5.
 
-# PRECAUTIONS
+Usage in Pregnancy
+
+The safety of pyridostigmine bromide during pregnancy or lactation in humans has not been established.
+Therefore, use of pyridostigmine bromide in women who may become pregnant requires weighing the drug’s potential benefits against its possible hazards to mother and child.
+
+# PRECAUTION
 
 Pyridostigmine is mainly excreted unchanged by the kidney6,7,8.
 Therefore, lower doses may be required in patients with renal disease, and treatment should be based on titration of drug dosage to effect6,7.
-
-Pregnancy
-
-The safety of pyridostigmine bromide during pregnancy or lactation in humans has not been established.
-Therefore, use of pyridostigmine bromide in women who may become pregnant requires weighing the drug's potential benefits against its possible hazards to mother and child.
 
 Pediatric Use
 

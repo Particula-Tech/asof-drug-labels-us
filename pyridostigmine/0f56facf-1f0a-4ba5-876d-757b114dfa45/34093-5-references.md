@@ -48,20 +48,12 @@ Breyer-Pfaff U, Maier U, Brinkmann AM, Schumm F. Pyridostigmine kinetics in heal
 Clin Pharmacol Ther.
 1985; 5:495-501.
 
-Manufactured by:
+All trademarks are the property of their respective owners.
 
-Amneal Pharmaceuticals Pvt.
-Ltd.
+Manufactured by: Amneal Pharmaceuticals Pvt.
+Ltd. Ahmedabad 382220, INDIA
 
-Ahmedabad 382220, INDIA
-
-Distributed by:
-
-Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
-
-Product of Italy
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-05-2019-01
+11-2023-02

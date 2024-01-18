@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Pyridostigmine Bromide Tablets USP, 60 mg - Each white to off white, round, flat-faced tablet is debossed with "G3511" on one side and quadrisect on the other side.
+Pyridostigmine Bromide Tablets USP, 60 mg are white to off white, flat-faced, round tablets debossed with "G” and “3511" on one side and double-scored on the other side.
 
 They are available as follows:
 
