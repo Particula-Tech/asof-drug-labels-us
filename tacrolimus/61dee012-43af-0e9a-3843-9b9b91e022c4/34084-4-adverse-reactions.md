@@ -81,7 +81,7 @@ Kidney Transplantation: Adverse Reactions Occurring in ≥ 10% of Patients Treat
 | Leukopenia | 13% | 10% | 10% |
 | Edema Peripheral | 11% | 12% | 13% |
 | Hyperlipidemia | 10% | 15% | 13% |
-| Key: Group A = CsA/MMF/CS, B = CsA/MMF/CS/Daclizumab, C=Tac/MMF/CS/Daclizumab CsA = Cyclosporine, CS = Corticosteroids, Tac = Tacrolimus, MMF = mycophenolate mofetil |  |  |  |
+| Key: Group A = CsA/MMF/CS, B = CsA/MMF/CS/Daclizumab, C = Tac/MMF/CS/Daclizumab CsA = Cyclosporine, CS = Corticosteroids, Tac = Tacrolimus, MMF = mycophenolate mofetil |  |  |  |
 
 In the U.S. trial (Study 2) with tacrolimus-based immunosuppression in conjunction with MMF and corticosteroids, 424 kidney transplant patients received tacrolimus (n=212) or cyclosporine (n=212) in combination with MMF 1 gram twice daily, basiliximab induction, and corticosteroids.
 The trial population had a mean age of 48 years (range 17 to 77); the distribution was 63% male, and the composition was White (74%), African-American (20%), Asian (3%), and Other (3%).
@@ -151,9 +151,7 @@ Liver Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treate
 
 |  | U.S. TRIAL |  | EUROPEAN TRIAL |  |
 | --- | --- | --- | --- | --- |
-|  | Tacrolimus | Cyclosporine/ | Tacrolimus | Cyclosporine/ |
-|  | (N=250) | AZA | (N=264) | AZA |
-|  |  | (N=250) |  | (N=265) |
+| Tacrolimus (N=250) | Cyclosporine/AZA (N=250) | Tacrolimus (N=264) | Cyclosporine/AZA (N=265) |  |
 | Nervous System |  |  |  |  |
 | Headache | 64% | 60% | 37% | 26% |
 | Insomnia | 64% | 68% | 32% | 23% |
@@ -207,7 +205,7 @@ The incidence of adverse reactions was determined based on two trials in primary
 In a trial conducted in Europe, 314 patients received a regimen of antibody induction, corticosteroids, and azathioprine (AZA) in combination with tacrolimus (n=157) or cyclosporine (n=157) for 18 months.
 The trial population had a mean age of 51 years (range 18 to 65); the distribution was 82% male, and the composition was White (96%), Black (3%), and Other (1%).
 
-The most common adverse reactions (≥15%) observed in tacrolimus-treated heart transplant patients are: abnormal renal function, hypertension, diabetes mellitus, CMV infection, tremor, hyperglycemia, leukopenia, infection, anemia, bronchitis, pericardial effusion, urinary tract infection, and hyperlipemia.
+The most common adverse reactions (≥ 15%) observed in tacrolimus-treated heart transplant patients are: abnormal renal function, hypertension, diabetes mellitus, CMV infection, tremor, hyperglycemia, leukopenia, infection, anemia, bronchitis, pericardial effusion, urinary tract infection, and hyperlipemia.
 Based on reported adverse reaction terms related to decreased renal function, nephrotoxicity was reported in approximately 59% of heart transplantation patients in the European trial.
 
 Adverse reactions in heart transplant patients in the European trial are presented below:
@@ -235,7 +233,7 @@ Heart Transplantation: Adverse Reactions Occurring in ≥15% of Patients Treated
 | Urinary Tract Infection | 16% | 12% |
 | Respiratory System |  |  |
 | Bronchitis | 17% | 18% |
-| Nervous System |  |  |
+| NervousSystem |  |  |
 | Tremor | 15% | 6% |
 
 In the European trial, the cyclosporine trough concentrations were above the pre-defined target range (i.e., 100 to 200 ng/mL) at Day 122 and beyond in 32% to 68% of the patients in the cyclosporine treatment arm, whereas the tacrolimus trough concentrations were within the pre-defined target range (i.e., 5 to 15 ng/mL) in 74% to 86% of the patients in the tacrolimus treatment arm.
@@ -247,13 +245,13 @@ Only selected targeted treatment-emergent adverse reactions were collected in th
 Those reactions that were reported at a rate of 15% or greater in patients treated with tacrolimus and MMF include the following: any target adverse reactions (99%), hypertension (89%), hyperglycemia requiring antihyperglycemic therapy (70%), hypertriglyceridemia (65%), anemia (hemoglobin <10 g/dL) (65%), fasting blood glucose >140 mg/dL (on two separate occasions) (61%), hypercholesterolemia (57%), hyperlipidemia (34%), WBCs <3,000 cells/mcL (34%), serious bacterial infections (30%), magnesium <1.2 mEq/L (24%), platelet count <75,000 cells/mcL (19%), and other opportunistic infections (15%).
 
 Other targeted treatment-emergent adverse reactions in tacrolimus-treated patients occurred at a rate of less than 15%, and include the following: Cushingoid features, impaired wound healing, hyperkalemia, Candida infection, and CMV infection/syndrome.
-Other less frequently observed adverse reactions in heart transplantation patients are described under the subsection “Less Frequently Reported Adverse Reactions (>3% and < 15%) in Liver, Kidney and Heart Transplant Studies.”
+Other less frequently observed adverse reactions in heart transplantation patients are described under the subsection “Less Frequently Reported Adverse Reactions (> 3% and < 15%) in Liver, Kidney and Heart Transplant Studies.”
 
 New Onset Diabetes After Transplant
 
 Kidney Transplantation
 
-New Onset Diabetes After Transplant (NODAT) is defined as a composite of fasting plasma glucose ≥126 mg/dL, HbA1C ≥6%, insulin use ≥30 days, or oral hypoglycemic use.
+New Onset Diabetes After Transplant (NODAT) is defined as a composite of fasting plasma glucose ≥126 mg/dL, HbA1C ≥ 6%, insulin use ≥ 30 days, or oral hypoglycemic use.
 In a trial in kidney transplant patients (Study 2), NODAT was observed in 75% in the tacrolimus-treated and 61% in the NEORAL-treated patients without pre-transplant history of diabetes mellitus (Table 10) [see Clinical Studies (14.1)].
 
 Table 10.
@@ -329,12 +327,12 @@ Hyperglycemia, defined as two fasting plasma glucose levels ≥126 mg/dL, was re
 Table 14.
 Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Heart Transplant Recipients
 
-| Status of PTDM* | U.S. Trial | European Trial |  |  |
+| Status of PTDM* | U.S. Trial |  | European Trial |  |
 | --- | --- | --- | --- | --- |
-|  | Tacrolimus /MMF | Cyclosporine/MMF | Tacrolimus/ AZA | Cyclosporine/AZA |
+|  | Tacrolimus/ MMF | Cyclosporine/MMF | Tacrolimus/ AZA | Cyclosporine/ AZA |
 | Patients at risk† | 75 | 83 | 132 | 138 |
 | New Onset PTDM* | 10 (13%) | 6 (7%) | 29 (22%) | 5 (4%) |
-| Patients still on insulin at 1 year‡ | 7 (9%) | 1 (1%) | 24 (18%) | 4 (3%) |
+| Patients still on insulin at 1 year ‡ | 7 (9%) | 1 (1%) | 24 (18%) | 4 (3%) |
 
 * Use of insulin for 30 or more consecutive days without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus.
 
@@ -357,8 +355,8 @@ The following adverse reactions were reported in either liver, kidney, and/or he
 - Miscellaneous: Abdomen enlarged, abscess, accidental injury, allergic reaction, cellulitis, chills, fall, flu syndrome, generalized edema, hernia, mobility decreased, peritonitis, photosensitivity reaction, sepsis, temperature intolerance, ulcer
 - Musculoskeletal: Arthralgia, cramps, generalized spasm, leg cramps, myalgia, myasthenia, osteoporosis
 - Respiratory: Asthma, emphysema, hiccups, lung function decreased, pharyngitis, pneumonia, pneumothorax, pulmonary edema, rhinitis, sinusitis, voice alteration
-- Skin: Acne, alopecia, exfoliative dermatitis, fungal dermatitis, herpes simplex, herpes zoster, hirsutism, neoplasm skin benign, skin discoloration, skin ulcer, sweating Lung Transplantation Adverse reactions in lung transplant patients were similar to those in kidney, liver, or heart transplant patients treated with tacrolimus [see Adverse Reactions (6.2)].Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
-  However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+- Skin: Acne, alopecia, exfoliative dermatitis, fungal dermatitis, herpes simplex, herpes zoster, hirsutism, neoplasm skin benign, skin discoloration, skin ulcer, sweating Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
+  However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information
 
 ## 6.2 Postmarketing Experience
 
@@ -379,6 +377,4 @@ Other reactions include:
 - Respiratory: Acute respiratory distress syndrome, interstitial lung disease, lung infiltration, respiratory distress, respiratory failure
 - Skin: Stevens-Johnson syndrome, toxic epidermal necrolysis
 - Special Senses: Blindness, optic neuropathy, blindness cortical, hearing loss including deafness, photophobia
-- Urogenital: Acute renal failure, cystitis hemorrhagic, hemolytic-uremic syndrome Postmarketing Adverse Reactions in Lung Transplantation Based on U.S. Scientific Registry of Transplant Recipients (SRTR) data, published clinical trials, and postmarketing reports, the safety profile for lung transplant patients treated with tacrolimus is consistent with the safety profile in kidney, liver, and heart transplant patients treated with tacrolimus.
-  The primary adverse reactions described include renal dysfunction, infection, diabetes, gastrointestinal disturbances (e.g., diarrhea), hypertension, and neurological events (e.g., tremor).
-  As expected, lung transplant patients have a higher incidence of pulmonary complications (e.g., pneumonia, bronchiolitis obliterans syndrome) than other solid organ transplant patients, which is in part due to the underlying disease and to the nature of the transplanted organ.
+- Urogenital: Acute renal failure, cystitis hemorrhagic, hemolytic-uremic syndrome

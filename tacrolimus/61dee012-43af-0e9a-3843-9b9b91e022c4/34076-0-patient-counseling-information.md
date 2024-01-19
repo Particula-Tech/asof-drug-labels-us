@@ -8,7 +8,7 @@ Advise the patient or caregiver to:
 
 - Inspect their tacrolimus medicine when they receive a new prescription and before taking it.
   If the appearance of the capsule is not the same as usual, or if dosage instructions have changed, advise patients to contact their healthcare provider as soon as possible to make sure that they have the right medicine.
-  Other tacrolimus products cannot be substituted for tacrolimus.
+  Other tacrolimus products cannot be substituted for tacrolimus capsules.
 - Take tacrolimus at the same 12 hour intervals every day to achieve consistent blood concentrations.
 - Take tacrolimus consistently either with or without food because the presence and composition of food decreases the bioavailability of tacrolimus.
 - Not to eat grapefruit or drink grapefruit juice in combination with tacrolimus [see Drug Interactions (7.2)].
@@ -20,7 +20,7 @@ Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wear
 
 ## 17.3 Increased Risk of Infection
 
-Inform patients they are at increased risk of developing a variety of infections, including opportunistic infections, due to immunosuppression and to contact their physician if they develop any symptoms of infection such as fever, sweats or chills, cough or flu-like symptoms, muscle aches, or warm, red, painful areas on the skin [see Warnings and Precautions(5.2)].
+Inform patients they are at increased risk of developing a variety of infections, including opportunistic infections, due to immunosuppression and to contact their physician if they develop any symptoms of infection such as fever, sweats or chills, cough or flu-like symptoms, muscle aches, or warm, red, painful areas on the skin [see Warnings and Precautions (5.2)].
 
 ## 17.4 New Onset Diabetes After Transplant
 
@@ -87,4 +87,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 11/2022
+Revised: 11/2023

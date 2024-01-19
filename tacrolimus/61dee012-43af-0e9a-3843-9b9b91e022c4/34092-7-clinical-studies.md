@@ -128,7 +128,7 @@ Tacrolimus Whole Blood Trough Concentration Range (Study 2)
 | Day 60 (N=179) | 9.2 (5.9 to 15.3) |
 | Day 120 (N=176) | 8.3 (4.6 to 13.3) |
 | Day 180 (N=171) | 7.8 (5.5 to 13.2) |
-| Day 365 (N=178) | (4.2 to 12.4) |
+| Day 365 (N=178) | 7.1 (4.2 to 12.4) |
 
 *10 to 90th Percentile: range of Ctrough,Tac that excludes lowest 10% and highest 10% of Ctrough, Tac.
 
@@ -191,13 +191,6 @@ In a 3-arm trial conducted in the U.S., 331 patients received corticosteroids an
 In the European trial, patient/graft survival at 18 months post-transplant was similar between treatment arms, 92% in the tacrolimus group and 90% in the cyclosporine group.
 In the U.S. trial, patient and graft survival at 12 months was similar with 93% survival in the tacrolimus plus MMF group and 86% survival in the cyclosporine modified plus MMF group.
 In the European trial, the cyclosporine trough concentrations were above the pre-defined target range (i.e., 100 to 200 ng/mL) at Day 122 and beyond in 32% to 68% of the patients in the cyclosporine treatment arm, whereas the tacrolimus trough concentrations were within the pre-defined target range (i.e., 5 to 15 ng/mL) in 74% to 86% of the patients in the tacrolimus treatment arm.
-Data from this European trial indicate that from 1 week to 3 months post-transplant, approximately 80% of patients maintained trough concentrations between 8 to 20 ng/mL and, from 3 months through 18 months post-transplant, approximately 80% of patients maintained trough concentrations between 6 to18 ng/mL.
+Data from this European trial indicate that from 1 week to 3 months post-transplant, approximately 80% of patients maintained trough concentrations between 8 to 20 ng/mL and, from 3 months through 18 months post-transplant, approximately 80% of patients maintained trough concentrations between 6 to 18 ng/mL.
 
-The U.S. trial contained a third arm of a combination regimen of sirolimus, 2 mg per day, and full-dose tacrolimus; however, this regimen was associated with increased risk of wound-healing complications, renal function impairment, and insulin-dependent post-transplant diabetes mellitus, and is not recommended [see Warnings and Precautions (5.10)]..
-
-## 14.4 Lung Transplantation
-
-The efficacy and safety of tacrolimus-based immunosuppression in primary lung transplantation were assessed in a non­interventional (observational) study using data from the U.S. Scientific Registry of Transplant Recipients (SRTR).
-The study analyzed outcomes based on discharge immunosuppression treatment regimen in recipients of a primary lung transplant between 1999 and 2017 who were alive at the time of discharge.
-In adult patients receiving tacrolimus immediate-release products in combination with MMF (n=15,478) or tacrolimus immediate-release products in combination with AZA (n=4,263), the one-year graft survival estimates from time of discharge were 90.9% and 90.8%, respectively.
-In pediatric patients receiving tacrolimus immediate-release products in combination with MMF (n= 450) or tacrolimus immediate-release products in combination with AZA (n=72), the one-year graft survival estimates from time of discharge were 91.7% and 84.7%, respectively.
+The U.S. trial contained a third arm of a combination regimen of sirolimus, 2 mg per day, and full-dose tacrolimus; however, this regimen was associated with increased risk of wound-healing complications, renal function impairment, and insulin-dependent post-transplant diabetes mellitus, and is not recommended [see Warnings and Precautions (5.10)].

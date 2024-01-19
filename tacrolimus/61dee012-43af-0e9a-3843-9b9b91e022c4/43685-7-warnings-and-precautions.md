@@ -26,7 +26,7 @@ Serious viral infections reported include:
 
 Monitor for the development of infection and adjust the immunosuppressive regimen to balance the risk of rejection with the risk of infection [see Adverse Reactions (6.1, 6.2)].
 
-## 5.3 Not Interchangeable With Extended-Release Tacrolimus Products-Medication Errors
+## 5.3 Not Interchangeable with Extended-Release Tacrolimus Products-Medication Errors
 
 Medication errors, including substitution and dispensing errors, between tacrolimus immediate-release products and tacrolimus extended-release products were reported outside the U.S. This led to serious adverse reactions, including graft rejection, or other adverse reactions due to under-or overexposure to tacrolimus.
 Tacrolimus is not interchangeable or substitutable for tacrolimus extended-release products.
@@ -35,12 +35,12 @@ Instruct patients and caregivers to recognize the appearance of tacrolimus dosag
 
 ## 5.4 New Onset Diabetes After Transplant
 
-Tacrolimus was shown to cause new onset diabetes mellitus in clinical trials of kidney, liver, heart, or lung transplantation.
+Tacrolimus was shown to cause new onset diabetes mellitus in clinical trials of kidney, liver or heart transplantation.
 New onset diabetes after transplantation may be reversible in some patients.
 African-American and Hispanic kidney transplant patients are at an increased risk.
 Blood glucose concentrations should be monitored closely in patients using tacrolimus [see Adverse Reactions (6.1)].
 
-## 5.5 Nephrotoxicity due to Tacrolimus and Drug Interactions
+## 5.5 Nephrotoxicity due to Tacrolimus capsules and Drug Interactions
 
 Tacrolimus, like other calcineurin inhibitors, can cause acute or chronic nephrotoxicity. in transplant patients due to its vasoconstrictive effect on renal vasculature, toxic tubulopathy and tubular-interstitial effects.
 Nephrotoxicity was reported in clinical trials [see Adverse Reactions (6.1)].
@@ -54,7 +54,7 @@ When tacrolimus is used concurrently with other known nephrotoxic drugs, monitor
 ## 5.6 Neurotoxicity
 
 Tacrolimus may cause a spectrum of neurotoxicities.
-The most severe neurotoxicities include posterior reversible encephalopathy syndrome (PRES), delirium, seizure and coma; others include tremors, paresthesias, headache, mental status changes, and changes in motor and sensory functions [see Adverse Reactions (6.1, 6.2)].
+The most severe neurotoxicities include posterior reversible encephalopathy syndrome (PRES), delirium, seizure and coma; others include tremors, paresthesias, headache, mental status changes, and changes in motor and sensory functions[see Adverse Reactions (6.1, 6.2)].
 As symptoms may be associated with tacrolimus whole blood trough concentrations at or above the recommended range, monitor for neurologic symptoms and consider dosage reduction or discontinuation of tacrolimus if neurotoxicity occurs.
 
 ## 5.7 Hyperkalemia
@@ -125,6 +125,13 @@ If PRCA is diagnosed, discontinuation of tacrolimus should be considered [see Ad
 
 Cases of thrombotic microangiopathy (TMA), including hemolytic uremic syndrome (HUS) and thrombotic thrombocytopenic purpura (TTP), have been reported in patients treated with tacrolimus capsules.
 TMA may have a multifactorial etiology.
-Risk factors for TMA that can occur in transplant patients include, for example, severe infections, graft-versus­host disease (GVHD), Human Leukocyte Antigen (HLA) mismatch, the use of calcineurin inhibitors and mammalian target of rapamycin (mTOR) inhibitors.
-These risk factors may, either alone or combined, contribute to the risk of TMA.In patients with signs and symptoms of TMA, consider tacrolimus as a risk factor.
+Risk factors for TMA that can occur in transplant patients include, for example, severe infections, graft-versus-host disease (GVHD), Human Leukocyte Antigen (HLA) mismatch, the use of calcineurin inhibitors and mammalian target of rapamycin (mTOR) inhibitors.
+These risk factors may, either alone or combined, contribute to the risk of TMA.
+
+In patients with signs and symptoms of TMA, consider tacrolimus as a risk factor.
 Concurrent use of tacrolimus and mTOR inhibitors may contribute to the risk of TMA.
+
+## 5.17 Cannabidiol Drug Interactions
+
+When cannabidiol and tacrolimus are co-administered, closely monitor for an increase in tacrolimus blood levels and for adverse reactions suggestive of tacrolimus toxicity.
+A dose reduction of tacrolimus should be considered as needed when tacrolimus is co-administered with cannabidiol [see Dosage and Administration (2.2, 2.6) and Drug Interactions (7.3)].
