@@ -6,7 +6,7 @@ Because the use of tramadol hydrochloride extended-release tablets exposes patie
 
 Life-Threatening Respiratory Depression
 
-Serious, life-threatening, or fatal respiratory depression may occur with use of tramadol hydrochloride extended-release tablets, especially during initiation or following a dosage increase.
+Serious, life-threatening, or fatal respiratory depression may occur with use of tramadol hydrochloride extended-release tablets, especially during initiation or following a dose increase.
 To reduce the risk of respiratory depression, proper dosing and titration of tramadol hydrochloride extended-release tablets are essential [see Warnings].
 Instruct patients to swallow tramadol hydrochloride extended-release tablets whole to avoid exposure to a potentially fatal dose of tramadol.
 

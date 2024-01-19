@@ -58,7 +58,7 @@ When taking tramadol hydrochloride extended-release tablets:
 - Do not change your dose.
   Take tramadol hydrochloride extended-release tablets exactly as prescribed by your healthcare provider.
   Use the lowest dose possible for the shortest time needed.
-- Take your prescribed dose once a day at the same time every day as needed for pain.
+- Take your prescribed dose once a day at the same time every day.
   Do not take more than your prescribed dose.
   If you miss a dose, take your next dose at your usual time.
 - Swallow tramadol hydrochloride extended-release tablets whole.
@@ -109,4 +109,4 @@ Halol-Baroda Highway,
 Halol-389 350, Gujarat, India.
 
 ISS.
-01/2024
+12/2023

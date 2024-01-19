@@ -51,11 +51,11 @@ Educate patients and caregivers on how to recognize respiratory depression and e
 Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of other CNS depressants, a history of opioid use disorder, or prior opioid overdose.
 The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
 Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
-If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see DOSAGE AND ADMINISTRATION; Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose, WARNINGS; Addiction, Abuse, and Misuse, Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants, PRECAUTIONS; Information for Patients, OVERDOSAGE].
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see WARNINGS; Addiction, Abuse, and Misuse, Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants, PRECAUTIONS; Information for Patients].
 
 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of tramadol hydrochloride extended-release tablets with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of tramadol hydrochloride extended-release tablets with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
@@ -67,6 +67,10 @@ If an opioid analgesic is initiated in a patient already taking a benzodiazepine
 Inform patients and caregivers of this potential interaction, educate them on the signs and symptoms of respiratory depression (including sedation).
 
 If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see WARNINGS; Life-Threatening Respiratory Depression, DOSAGE and ADMINISTRATION; Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose].
+
+Advise both patients and caregivers about the risks of respiratory depression and sedation when tramadol hydrochloride extended-release tablets are used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
+Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see PRECAUTIONS; Information for Patients, Drug Interactions].
 
 Neonatal Opioid Withdrawal Syndrome
 
@@ -280,8 +284,8 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Storage and Disposal
 
-Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store tramadol hydrochloride extended-release tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
-Inform patients that leaving tramadol hydrochloride extended-release tablets unsecured can pose a deadly risk to others in the home [see WARNINGS, DRUG ABUSE and DEPENDENCE].
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store tramadol hydrochloride extended-release tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see WARNINGS, DRUG ABUSE and DEPENDENCE].
+Inform patients that leaving tramadol hydrochloride extended-release tablets unsecured can pose a deadly risk to others in the home.
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
 Inform patients that medicine take-back options are the preferred way to safely dispose of most types of unneeded medicines.
@@ -297,12 +301,17 @@ Inform patients that they can visit www.fda.gov/drugdisposal for additional info
 Addiction, Abuse, and Misuse
 
 Inform patients that the use of tramadol hydrochloride extended-release tablets, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death [see WARNINGS].
+Instruct patients not to share tramadol hydrochloride extended-release tablets with others and to take steps to protect tramadol hydrochloride extended-release tablets from theft or misuse.
 
 Life-Threatening Respiratory Depression
 
 Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting tramadol hydrochloride extended-release tablets or when the dosage is increased, and that it can occur even at recommended dosages.
 
 Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see WARNINGS; Life Threatening Respiratory Depression].
+
+Accidental Ingestion
+
+Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see WARNINGS].
 
 Interactions with Benzodiazepines or Other CNS Depressants
 
@@ -331,13 +340,14 @@ Advise caregivers of children ages 12 to 18 years of age receiving tramadol hydr
 
 Hyperalgesia and Allodynia
 
-Advise patients to inform their healthcare professional if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings; Adverse Reactions].
+Inform patients and caregivers not to increase opioid dosage without first consulting a clinician.
+Advise patients to seek medical attention if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings; Adverse Reactions].
 
 Serotonin Syndrome
 
 Inform patients that opioids could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
-Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop after discharge from the hospital.
-Instruct patients to inform their healthcare provider if they are taking, or plan to take serotonergic medications [see WARNINGS, DRUG INTERACTIONS].
+Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
+Instruct patients to inform their healthcare provider if they are taking, or plan to take serotonergic medications [see WARNINGS].
 
 Seizures
 
@@ -627,7 +637,7 @@ Respiratory depression is the chief risk for elderly patients treated with opioi
 Titrate the dosage of tramadol hydrochloride extended-release tablets slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings].
 
 Tramadol is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
 ## Hyponatremia
 

@@ -143,8 +143,8 @@ The risk is increased with concurrent use of tramadol hydrochloride extended-rel
 Abuse of and addiction to opioids in some individuals may not be accompanied by concurrent tolerance and symptoms of physical dependence.
 In addition, abuse of opioids can occur in the absence of addiction.
 
-All patients treated with opioids require careful and frequent reevaluation for signs of misuse, abuse, and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
-Patients at high risk of tramadol hydrochloride extended-release tablets abuse include those with a history of prolonged use of any opioid, including products containing tramadol, those with a history of drug or alcohol abuse, or those who use tramadol hydrochloride extended-release tablets in combination with other abused drugs.
+All patients treated with opioids require careful and frequent re-evaluation for signs of misuse, abuse, and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
+Patients at high risk of tramadol hydrochloride extended-release tablets abuse include those with a history of prolonged use of any opioids, including products containing tramadol, those with a history of drug or alcohol abuse, or those who use tramadol hydrochloride extended-release tablets in combination with other abused drugs.
 
 “Drug-seeking” behavior is very common in persons with substance use disorders.
 Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated “loss” of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare provider(s).
