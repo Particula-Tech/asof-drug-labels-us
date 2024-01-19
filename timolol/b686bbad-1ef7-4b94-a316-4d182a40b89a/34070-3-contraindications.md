@@ -2,7 +2,7 @@
 
 ## 4.1 Asthma, COPD
 
-Timolol Maleate Ophthalmic Solution 0.5% is contraindicated in patients with bronchial asthma; a history of bronchial asthma; severe chronic obstructive pulmonary disease [see Warnings and Precautions (5.1, 5.3)].
+Timolol Maleate Ophthalmic Solution 0.5% is contraindicated in patients with bronchial asthma; a history of bronchial asthma; severe chronic obstructive pulmonary disease [see Warnings and Precautions(5.1, 5.3)].
 
 ## 4.2 Sinus Bradycardia, AV Block, Cardiac Failure, Cardiogenic Shock
 

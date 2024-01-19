@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Timolol maleate is a beta1 and beta2 (non-selective) adrenergic receptor blocking agent that does not have significant intrinsic sympathomimetic, direct myocardial depressant, or local anesthetic (membrane-stabilizing) activity.
+Timolol maleate is a beta 1and beta 2(non-selective) adrenergic receptor blocking agent that does not have significant intrinsic sympathomimetic, direct myocardial depressant, or local anesthetic (membrane-stabilizing) activity.
 Beta-adrenergic receptor blockade reduces cardiac output in both healthy subjects and patients with heart disease.
 In patients with severe impairment of myocardial function, beta-adrenergic receptor blockade may inhibit the stimulatory effect of the sympathetic nervous system necessary to maintain adequate cardiac function.
 

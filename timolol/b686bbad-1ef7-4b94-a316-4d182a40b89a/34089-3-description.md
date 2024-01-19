@@ -4,7 +4,7 @@ Timolol Maleate Ophthalmic Solution 0.5% is a non-selective beta-adrenergic rece
 Its chemical name is (-)-1-(tert-butylamino)-3-[(4-morpholino-1,2,5-thiadiazol-3-yl)oxy]-2-propanol maleate (1:1) (salt).
 Timolol maleate possesses an asymmetric carbon atom in its structure and is provided as the levo-isomer.
 
-Its molecular formula is C13H24N4O3S-C4H4O4 and its structural formula is:
+Its molecular formula is C 13H 24N 4O 3S-C 4H 4O 4and its structural formula is:
 
 Timolol maleate has a molecular weight of 432.49.
 It is a white, odorless, crystalline powder which is soluble in water, methanol, and alcohol.
