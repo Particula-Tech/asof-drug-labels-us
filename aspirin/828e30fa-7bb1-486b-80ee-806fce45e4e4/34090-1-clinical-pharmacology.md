@@ -26,7 +26,7 @@ Codeine causes miosis, even in total darkness.
 Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar findings).
 Marked mydriasis rather than miosis may be seen due to hypoxia in overdose situations.
 
-Aspirin works by inhibiting the body’s production of prostaglandins, including prostaglandins involved in inflammation.
+Aspirin works by inhibiting the body's production of prostaglandins, including prostaglandins involved in inflammation.
 Prostaglandins cause pain sensations by stimulating muscle contractions and dilating blood vessels throughout the body.
 In the CNS, aspirin works on the hypothalamus heat-regulating center to reduce fever, however, other mechanisms may be involved.
 
@@ -57,7 +57,7 @@ Effects on the Endocrine System
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
 
 Effects on the Immune System
@@ -68,13 +68,13 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration–Efficacy Relationships
 
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of codeine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.2)].
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonist.
+The minimum effective analgesic concentration of codeine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
 
 Concentration–Adverse Reaction Relationships
 
 There is a relationship between increasing codeine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.3, 0)].
 
 ## 12.3 Pharmacokinetics
 
@@ -170,7 +170,7 @@ Elimination
 
 Elimination of butalbital is primarily via the kidney (59% to 88% of the dose) as unchanged drug or metabolites.
 The plasma half-life is about 35 hours.
-Urinary excretion products included parent drug (about 3.6% of the dose), 5-isobutyl-5-(2,3-dihydroxypropyl) barbituric acid (about 24% of the dose), 5-allyl-5(3-hydroxy2-methyl-1-propyl) barbituric acid (about 4.8% of the dose), products with the barbituric acid ring hydrolyzed with excretion of urea (about 14% of the dose), as well as unidentified materials.
+Urinary excretion products included parent drug (about 3.6% of the dose), 5-isobutyl-5-(2,3-dihydroxypropyl) barbituric acid (about 24% of the dose), 5-allyl-5(3-hydroxy-2-methyl-1-propyl) barbituric acid (about 4.8% of the dose), products with the barbituric acid ring hydrolyzed with excretion of urea (about 14% of the dose), as well as unidentified materials.
 Of the material excreted in the urine, 32% was conjugated.
 
 Caffeine
