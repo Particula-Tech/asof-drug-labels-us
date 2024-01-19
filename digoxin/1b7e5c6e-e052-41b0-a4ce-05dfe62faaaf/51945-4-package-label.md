@@ -1,5 +1,15 @@
-# PACKAGE/LABEL DISPLAY PANEL
+# Package/Label Display Panel
 
-Digoxin Oral Solution USP, 60 mL
+Digoxin Oral Solution USP, 0.05 mg/mL 60 mL – Folding Carton
 
-0054-0057-46, Rx only
+Rx only
+
+NDC 0054-0057-46
+
+# Package/Label Display Panel
+
+Digoxin Oral Solution USP, 0.05 mg/mL 60 mL – Bottle Label
+
+Rx only
+
+NDC 0054-0057-46

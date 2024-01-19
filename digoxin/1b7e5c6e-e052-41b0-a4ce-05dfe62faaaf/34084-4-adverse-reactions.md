@@ -12,7 +12,7 @@ In adults, high doses of digoxin may produce a variety of electrocardiographic c
 Prophylactic use of a cardiac pacemaker may be considered if the risk of heart block is considered unacceptable.
 
 In pediatric patients, the use of digoxin may produce arrhythmias.
-The most common are conduction disturbances or supraventricular tachycarrhythmias, such as atrial tachycardia (with or without block) and junctional (nodal) tachycardia.
+The most common are conduction disturbances or supraventricular tachyarrhythmias, such as atrial tachycardia (with or without block) and junctional (nodal) tachycardia.
 Ventricular arrhythmias are less common.
 Sinus bradycardia may be a sign of impending digoxin intoxication, especially in infants, even in the absence of first-degree heart block.
 Any arrhythmias or alteration in cardiac conduction that develops in a child taking digoxin should initially be assumed to be a consequence of digoxin intoxication.

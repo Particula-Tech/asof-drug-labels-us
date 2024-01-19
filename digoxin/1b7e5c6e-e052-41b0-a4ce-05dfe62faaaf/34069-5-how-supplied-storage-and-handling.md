@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Digoxin Oral Solution USP
+Digoxin Oral Solution, USP
 
 0.05 mg (50 mcg) per 1 mL is supplied as a (lime-flavored) clear, colorless solution.
 

@@ -41,10 +41,10 @@ Acute Overdose
 
 Patients who have intentionally or accidently ingested massive doses of digoxin should receive activated charcoal orally or by nasogastric tube regardless of the time since ingestion since digoxin recirculates to the intestine by enterohepatic circulation.
 In addition to cardiac monitoring, digoxin should be temporarily discontinued until the adverse reaction resolves.
-Factors that may be contributing to the adverse reactions should also be corrected [seeWarnings and Precautions (5)].
+Factors that may be contributing to the adverse reactions should also be corrected [see Warnings and Precautions (5)].
 In particular, hypokalemia and hypomagnesemia should be corrected.
 Digoxin is not effectively removed from the body by dialysis because of its large extravascular volume of distribution.
-Life threatening arrhythmias (ventricular tachycardia, ventricular fibrillation, high degree A-V block, bradyarrhythma, sinus arrest) or hyperkalemia requires administration of Digoxin Immune Fab (DIGIBIND®, DIGIFAB®).
+Life threatening arrhythmias (ventricular tachycardia, ventricular fibrillation, high degree A-V block, bradyarrhythmia, sinus arrest) or hyperkalemia requires administration of Digoxin Immune Fab (DIGIBIND®, DIGIFAB®).
 Digoxin Immune Fab has been shown to be 80% to 90% effective in reversing signs and symptoms of digoxin toxicity.
 Bradycardia and heart block caused by digoxin are parasympathetically mediated and respond to atropine.
 A temporary cardiac pacemaker may also be used.

@@ -19,12 +19,12 @@ Patients receiving digoxin should be given the following instructions by the phy
   For doses less than 0.1 mL, provide another measuring syringe to the patient for accurate dosing, since the provided calibrated oral syringe is not appropriate to measure doses less than 0.1 mL.
 - •Instruct women of childbearing potential who become or are planning to become pregnant to consult a physician prior to initiation or continuing therapy with digoxin.
 
-Distr. by: West-Ward
+Distributed by: Hikma
 
-Pharmaceuticals Corp.
+Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724
+Berkeley Heights, NJ 07922
 
-10001143/12
+C50000480/01
 
-Revised June 2018
+Revised August 2023

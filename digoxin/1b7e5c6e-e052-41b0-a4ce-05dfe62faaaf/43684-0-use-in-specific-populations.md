@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects (Pregnancy Category C)
+Teratogenic Effects
 
 Animal reproduction studies have not been conducted with digoxin.
 It is also not known whether digoxin can cause fetal harm when administered to pregnant women or can affect reproductive capacity.
