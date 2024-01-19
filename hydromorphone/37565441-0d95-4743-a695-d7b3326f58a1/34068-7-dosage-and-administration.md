@@ -6,22 +6,34 @@ Ensure accuracy when prescribing, dispensing, and administering hydromorphone hy
 Ensure the proper dose is communicated and dispensed.
 When writing prescriptions, include both the total dose in mg and the total dose in volume.
 
-Instruct patients to obtain a calibrated measuring cup/syringe for administering hydromorphone hydrochloride oral solution to ensure that the dose is measured and administered accurately.
+Instruct patients and caregivers on how to accurately measure and take or administer the correct dose of hydromorphone hydrochloride oral solution.
 
-Do not use household teaspoons or tablespoons to measure hydromorphone hydrochloride oral solution, as using a tablespoon instead of a teaspoon could lead to overdosage [see Warnings and Precautions (5.1)].
+Strongly advise patients and caregivers to always use a graduated oral syringe or measuring cup, with metric units of measurements (i.e., mL), to correctly measure the prescribed amount of medication.
 
-- Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
-- Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.2)].
-- Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets and adjust the dosage accordingly [see Warnings and Precautions (5.4)].
+Inform patients and caregivers that oral dosing devices may be obtained from their pharmacy and to never use household teaspoons or tablespoons to measure hydromorphone hydrochloride oral solution.
+
+- Hydromorphone hydrochloride oral solution and hydromorphone hydrochloride tablets should be prescribed only by healthcare professionals who are knowledgeable about the use of opioids and how to mitigate the associated risks.
+- Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see Warnings and Precautions (5)].
+  Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of hydromorphone hydrochloride oral solution and hydromorphone hydrochloride tablets for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
+- Many acute pain conditions (e.g., the pain that occurs with a number of surgical procedures or acute musculoskeletal injuries) require no more than a few days of an opioid analgesic.
+  Clinical guidelines on opioid prescribing for some acute pain conditions are available.
+- There is variability in the opioid analgesic dose and duration needed to adequately manage pain due both to the cause of pain and to individual patient factors.
+  Initiate the dosing regimen for each patient individually, taking into account the patient's underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.2)].
+- Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with hydromorphone hydrochloride oral solutions and hydromorphone hydrochloride tablets.
+  Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (2.1, 5)].
+- Initiate treatment with hydromorphone hydrochloride oral solution in a dosing range of 2.5 mL to 10 mL, 2.5 mg to 10 mg, every 3 to 6 hours as needed for pain, and at the lowest dose necessary to achieve adequate analgesia.
+  Titrate the dose based upon the individual patient's response to their initial dose of hydromorphone hydrochloride oral solution [see Dosage and Administration (2) and Warnings and Precautions (5)].
+- Initiate treatment with hydromorphone hydrochloride tablets in a dosing range of 2 mg to 4 mg, orally, every 4 to 6 hours as needed for pain, and at the lowest dose necessary to achieve adequate analgesia.
+  Titrate the dose based upon the individual patient's response to their initial dose of hydromorphone hydrochloride tablets [see Dosage and Administration (2) and Warnings and Precautions (5)].
 
 ## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets [see Warnings and Precautions (5.4), Patient Counseling Information (17)].
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets [see Warnings and Precautions (5.3)].
 
 Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
 
 Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
-The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.2, 5.4, 5.6)].
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.2, 5.3, 5.4)].
 
 Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
 
@@ -31,11 +43,13 @@ Initiating Treatment with Hydromorphone Hydrochloride Oral Solution or Hydromorp
 
 Hydromorphone Hydrochloride Oral Solution
 
-Initiate treatment with hydromorphone hydrochloride oral solution in a dosing range of one-half (2.5 mL) to two teaspoonsful (10 mL), 2.5 mg to 10 mg, every 3 to 6 hours as needed for pain.
+Initiate treatment with hydromorphone hydrochloride oral solution in a dosing range of 2.5 mL to 10 mL, 2.5 mg to 10 mg, every 3 to 6 hours as needed for pain, and at the lowest dose necessary to achieve adequate analgesia.
+Titrate the dose based upon the individual patient's response to their initial dose of hydromorphone hydrochloride oral solution.
 
 Hydromorphone Hydrochloride Tablets
 
-Initiate treatment with hydromorphone hydrochloride tablets in a dosing range of 2 mg to 4 mg, orally, every 4 to 6 hours.
+Initiate treatment with hydromorphone hydrochloride tablets in a dosing range of 2 mg to 4 mg, orally, every 4 to 6 hours as needed for pain, and at the lowest dose necessary to achieve adequate analgesia.
+Titrate the dose based upon the individual patient's response to their initial dose of hydromorphone hydrochloride tablets.
 
 Conversion from Other Opioids to Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets
 
@@ -48,7 +62,7 @@ The dose of hydromorphone hydrochloride can be gradually adjusted until adequate
 
 Conversion from Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets to Extended-Release Hydromorphone Hydrochloride
 
-The relative bioavailability of hydromorphone hydrochloride oral solution and hydromorphone hydrochloride tablets compared to extended-release hydromorphone hydrochloride is unknown, so conversion to extended-release tablets must be accompanied by close observation for signs of excessive sedation and respiratory depression.
+The relative bioavailability of hydromorphone hydrochloride oral solution and hydromorphone hydrochloride tablets compared to extended-release hydromorphone is unknown, so conversion to extended-release hydromorphone may lead to increased risk of excessive sedation and respiratory depression.
 
 ## 2.4 Dosage Modifications in Patients with Hepatic Impairment
 
@@ -61,24 +75,23 @@ Initiate treatment with one-fourth to one-half the usual hydromorphone hydrochlo
 ## 2.6 Titration and Maintenance of Therapy
 
 Individually titrate hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets to a dose that provides adequate analgesia and minimizes adverse reactions.
-Continually reevaluate patients receiving hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.2].
+Continually reevaluate patients receiving hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets to assess the maintenance of pain control, signs and symptoms of opioid withdrawal, and other adverse reactions, as well as to reassess for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.2, 5.14)].
 Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 
 If the level of pain increases after dosage stabilization, attempt to identify the source of increased pain before increasing the hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets dosage.
-If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
+If after increasing the dosage, unacceptable opioid-related adverse reactions are observed (including an increase in pain after a dosage increase), consider reducing the dosage [see Warnings and Precautions (5)].
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-For chronic pain, doses should be administered around-the-clock.
 A supplemental dose of 5 to 15% of the total daily usage may be administered every two hours on an as-needed basis.
 
 ## 2.7 Safe Reduction or Discontinuation of Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets
 
-Do not abruptly discontinue hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets in patients who may be physically dependent on opioids.
+Do not abruptly discontinue hydromorphone hydrochloride oral solution and hydromorphone hydrochloride tablets in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
-When a decision has been made to decrease the dose or discontinue therapy in an opioid dependent patient taking hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets, there are a variety of factors that should be considered, including the dose of hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
+When a decision has been made to decrease the dose or discontinue therapy in an opioid dependent patient taking hydromorphone hydrochloride oral solution and hydromorphone hydrochloride tablets, there are a variety of factors that should be considered, including the total daily dose of opioid (including hydromorphone hydrochloride oral solution and hydromorphone hydrochloride tablets) the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
 It is important to ensure ongoing care of the patient and to agree on an appropriate tapering schedule and follow-up plan so that patient and provider goals and expectations are clear and realistic.
 When opioid analgesics are being discontinued due to a suspected substance use disorder, evaluate and treat the patient, or refer for evaluation and treatment of the substance use disorder.
 Treatment should include evidence-based approaches, such as medication assisted treatment of opioid use disorder.
@@ -86,7 +99,7 @@ Complex patients with co-morbid pain and substance use disorders may benefit fro
 
 There are no standard opioid tapering schedules that are suitable for all patients.
 Good clinical practice dictates a patient-specific plan to taper the dose of the opioid gradually.
-For patients on hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets who are physically opioid-dependent, initiate the taper by a small enough increment (e.g., no greater than 10% to 25% of the total daily dose) to avoid withdrawal symptoms, and proceed with dose-lowering at an interval of every 2 to 4 weeks.
+For patients on hydromorphone hydrochloride oral solution and hydromorphone hydrochloride tablets who are physically opioid-dependent, initiate the taper by a small enough increment (e.g., no greater than 10% to 25% of the total daily dose) to avoid withdrawal symptoms, and proceed with dose-lowering at an interval of every 2 to 4 weeks.
 Patients who have been taking opioids for briefer periods of time may tolerate a more rapid taper.
 
 It may be necessary to provide the patient with lower dosage strengths to accomplish a successful taper.
@@ -94,7 +107,7 @@ Reassess the patient frequently to manage pain and withdrawal symptoms, should t
 Common withdrawal symptoms include restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 If withdrawal symptoms arise, it may be necessary to pause the taper for a period of time or raise the dose of the opioid analgesic to the previous dose, and then proceed with a slower taper.
-In addition, monitor patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
+In addition, evaluate patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
 
-When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
-A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].
+When managing patients taking opioid analgesics, particularly those who have been treated for an extended period of time, and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
+A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.14), Drug Abuse and Dependence (9.3)].
