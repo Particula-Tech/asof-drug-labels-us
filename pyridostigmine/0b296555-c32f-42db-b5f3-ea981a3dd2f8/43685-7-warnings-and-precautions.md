@@ -2,10 +2,9 @@
 
 ## 5.1 Stopping Pyridostigmine Bromide and Using Atropine and 2-PAM in the Event of Soman Exposure
 
-See Dosage and Administration (2) and Boxed Caution statement (at beginning of Full Prescribing Information).
+See Dosage and Administration (2)and Boxed Cautionstatement (at beginning of Full Prescribing Information).
 
-- -Pyridostigmine bromide pretreatment offers no benefit against the nerve agent soman unless the nerve agent antidotes atropine and pralidoxime (2-PAM) are administered once symptoms of poisoning appear.
-  Pyridostigmine should be discontinued at the first sign of nerve agent poisoning (runny nose; watery eyes; small, pinpoint pupils; eye pain; blurred vision; drooling and excessive sweating; cough; chest tightness; rapid breathing; diarrhea; increased urination; confusion; drowsiness; weakness; headache; nausea, vomiting, and/or abdominal pain; slow or fast heart rate; and/or abnormally low or high blood pressure) because it may exacerbate the effects of a sub-lethal exposure to soman.
+- Pyridostigmine bromide pretreatment offers no benefit against the nerve agent soman unless the nerve agent antidotes atropine and pralidoxime (2-PAM) are administered once symptoms of poisoning appear.Pyridostigmine should be discontinued at the first sign of nerve agent poisoning (runny nose; watery eyes; small, pinpoint pupils; eye pain; blurred vision; drooling and excessive sweating; cough; chest tightness; rapid breathing; diarrhea; increased urination; confusion; drowsiness; weakness; headache; nausea, vomiting, and/or abdominal pain; slow or fast heart rate; and/or abnormally low or high blood pressure) because it may exacerbate the effects of a sub-lethal exposure to soman.
 
 ## 5.2 Individuals at Increased Risk of Anticholinergic Adverse Reactions
 

@@ -13,7 +13,7 @@ Pyridostigmine bromide was not mutagenic in an in vitro bacterial reverse mutati
 
 Impairment of Fertility
 
-Pyridostigmine bromide did not impair fertility in male and female rats given oral doses of up to 45 mg/kg/day (5 times the recommended human daily dose of 90 mg on a mg/m2 basis) beginning at 10 (males) or 2 (females) weeks prior to mating.
+Pyridostigmine bromide did not impair fertility in male and female rats given oral doses of up to 45 mg/kg/day (5 times the recommended human daily dose of 90 mg on a mg/m 2basis) beginning at 10 (males) or 2 (females) weeks prior to mating.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

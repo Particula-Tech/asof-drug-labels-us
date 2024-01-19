@@ -37,12 +37,12 @@ Table 1 Incidence of Adverse Reactions ≥ 2%
 
 Other less common adverse reactions seen during controlled and uncontrolled clinical trials for pyridostigmine include the following:
 
-- Pulmonary: Exacerbation of acute bronchitis and asthma
-- Cardiovascular: Elevated blood pressure, decreased heart rate (4-6 beats per minute), chest tightness
-- Eyes: Change in vision, eye pain
-- Neurologic: Headache, hypertonia, difficulty in concentrating, confusion, disturbed sleep, tingling of extremities, numbness of the tongue
-- Skin: Increased sweating, rash, alopecia
-- Digestive: Vomiting, borborygmi, nausea, bloating, flatulence
-- General: Warm sensation, lethargy/drowsiness, depressed mood
+- Pulmonary:Exacerbation of acute bronchitis and asthma
+- Cardiovascular:Elevated blood pressure, decreased heart rate (4-6 beats per minute), chest tightness
+- Eyes:Change in vision, eye pain
+- Neurologic:Headache, hypertonia, difficulty in concentrating, confusion, disturbed sleep, tingling of extremities, numbness of the tongue
+- Skin:Increased sweating, rash, alopecia
+- Digestive:Vomiting, borborygmi, nausea, bloating, flatulence
+- General:Warm sensation, lethargy/drowsiness, depressed mood
 
 During safety studies at the recommended dosage, there were two reports of loss of consciousness, one of which also included urinary and fecal incontinence, stiffness of the upper torso and arms, post-syncopal skin pallor, post-syncopal confusion, and post-syncopal weakness (suggesting a seizure event).
