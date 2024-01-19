@@ -1,3 +1,3 @@
-Distributed By: MainPointe Pharmaceuticals, LLC Louisville, KY, 40202
+Distributed By: MainPointe Pharmaceuticals, LLC Louisville, KY, 40206
 
-NXG Rev 02/18
+7184-0000-99-OS Rev 12/2023
