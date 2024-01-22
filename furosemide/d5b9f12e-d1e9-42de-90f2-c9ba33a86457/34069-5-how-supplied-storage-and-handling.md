@@ -24,15 +24,12 @@ Ltd. Parenteral Unit Ahmedabad 382213, INDIA
 
 or
 
-Puniska Healthcare Pvt.
-Ltd.
-
-(A Subsidiary of Amneal Pharmaceuticals Pvt.
-Ltd.)
+Amneal Pharmaceuticals Pvt.
+Ltd. Parenteral Unit
 
 Ahmedabad 382110, INDIA
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-07-2023-04
+10-2023-05
