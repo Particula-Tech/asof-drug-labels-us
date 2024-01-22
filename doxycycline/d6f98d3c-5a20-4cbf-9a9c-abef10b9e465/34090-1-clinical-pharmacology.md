@@ -31,7 +31,7 @@ Cross resistance with other tetracyclines is common.
 
 ### Antimicrobial Activity
 
-Doxycycline has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section of the package insert for VIBRAMYCIN.
+Doxycycline has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section of the package insert for Vibramycin.
 
 ### Gram-Negative Bacteria
 

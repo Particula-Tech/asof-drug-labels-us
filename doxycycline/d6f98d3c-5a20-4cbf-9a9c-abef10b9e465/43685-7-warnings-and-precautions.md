@@ -1,10 +1,11 @@
 # WARNINGS
 
-The use of drugs of the tetracycline class during tooth development (last half of pregnancy, infancy and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown).This adverse reaction is more common during long-term use of the drugs, but it has been observed following repeated short-term courses.
+The use of drugs of the tetracycline class during tooth development (last half of pregnancy, infancy and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown).
+This adverse reaction is more common during long-term use of the drugs, but it has been observed following repeated short-term courses.
 Enamel hypoplasia has also been reported.
 Use doxycycline in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies.
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Vibramycin, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Vibramycin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.

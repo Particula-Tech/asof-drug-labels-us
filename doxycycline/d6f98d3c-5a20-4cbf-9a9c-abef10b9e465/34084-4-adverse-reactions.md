@@ -13,8 +13,7 @@ Rare instances of esophagitis and esophageal ulcerations have been reported in p
 Most of these patients took medications immediately before going to bed.
 (See DOSAGE AND ADMINISTRATION.)
 
-Skin: toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme, skin hyperpigmentation, maculopapular and erythematous rashes.
-Exfoliative dermatitis has been reported but is uncommon.
+Skin: toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme, fixed eruption, skin hyperpigmentation, maculopapular and erythematous rashes.Exfoliative dermatitis has been reported but is uncommon.
 Photosensitivity is discussed above.
 (See WARNINGS.)
 
