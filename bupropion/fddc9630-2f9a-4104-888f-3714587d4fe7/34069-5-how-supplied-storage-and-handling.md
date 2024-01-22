@@ -1,7 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Bupropion Hydrochloride Extended-release Tablets USP (XL), 150 mg are yellow, oval, film-coated tablets, debossed with “681” on one side and plain on the other side.
-They are available as:
+Bupropion Hydrochloride Extended-release Tablets USP (XL), 150 mg are supplied as yellow, oval, film-coated tablets, debossed with “681” on one side and plain on the other side.
+
+They are available as below:
 
 Bottles of 30: NDC 0115-6811-08 Bottles of 90: NDC 0115-6811-10 Bottles of 500: NDC 0115-6811-02
 
