@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA061147"
+  ],
+  "inn": "tetracycline",
+  "labeler": "Pharmaka Generics Inc.",
+  "package_ndcs": [
+    "82644-087-60",
+    "82644-870-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "tetracycline hydrochloride",
+      "name": "Tetracycline Hydrochloride"
+    }
+  ],
+  "setid": "c522c860-84ce-4c61-ab72-077de73195df",
+  "source": "dailymed"
+}
