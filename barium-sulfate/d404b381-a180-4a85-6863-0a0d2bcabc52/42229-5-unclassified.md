@@ -6,4 +6,4 @@ For Bracco Diagnostics Inc. Monroe Township, NJ 08831
 
 VARIBAR is a registered trademark of E-Z-EM, Inc.
 
-March 2018
+October 2023
