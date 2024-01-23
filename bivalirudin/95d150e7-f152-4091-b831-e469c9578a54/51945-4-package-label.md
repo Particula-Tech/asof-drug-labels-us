@@ -29,6 +29,6 @@ Made in India
 
 Code No.: KR/DRUGS/KTK/28/384/2009
 
-MI:256:10C:R5
+MI:256:10C:R6
 
 Mylan.com
