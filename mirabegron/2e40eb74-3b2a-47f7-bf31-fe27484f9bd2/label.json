@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA209488"
+  ],
+  "inn": "mirabegron",
+  "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+  "package_ndcs": [
+    "70710-1159-1",
+    "70710-1159-3",
+    "70710-1159-9",
+    "70710-1160-1",
+    "70710-1160-3",
+    "70710-1160-9"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "mirabegron",
+      "name": "Mirabegron"
+    }
+  ],
+  "setid": "2e40eb74-3b2a-47f7-bf31-fe27484f9bd2",
+  "source": "dailymed"
+}
