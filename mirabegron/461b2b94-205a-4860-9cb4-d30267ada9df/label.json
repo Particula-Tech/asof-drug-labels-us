@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA209488"
+  ],
+  "inn": "mirabegron",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "70771-1752-1",
+    "70771-1752-3",
+    "70771-1752-9",
+    "70771-1753-1",
+    "70771-1753-3",
+    "70771-1753-9"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "mirabegron",
+      "name": "Mirabegron"
+    }
+  ],
+  "setid": "461b2b94-205a-4860-9cb4-d30267ada9df",
+  "source": "dailymed"
+}
