@@ -8,6 +8,7 @@ Provided as: 12 x 250 mL bottles (NDC 32909-121-07)
 
 16.2 Storage and Handling
 
-Store at USP controlled room temperature 20 to 25°C (68 to 77° F). Protect from freezing.
+Store at USP controlled room temperature 20°C to 25°C (68°F to 77°F).
+Protect from freezing.
 
-Once opened, VARIBAR THIN HONEY may be used for up to 21 days when stored at USP controlled room temperature, 20 to 25°C (68 to 77° F).
+Once opened, VARIBAR THIN HONEY may be used for up to 21 days when stored at USP controlled room temperature, 20°C to 25°C (68°F to 77°F).
