@@ -45,4 +45,4 @@ USA
 
 BRONCHITOL® is a registered trademark of Pharmaxis Ltd
 
-CTBR-001-1120-01-SPL
+CTBR-001-1120-01-SPL-1
