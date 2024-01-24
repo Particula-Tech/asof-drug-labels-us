@@ -1,3 +1,4 @@
-# CONTRAINDICATIONS:
+# 4 CONTRAINDICATIONS
 
-Furosemide is contraindicated in patients with anuria and in patients with a history of hypersensitivity to furosemide.
+- Furosemide Injection is contraindicated in patients with anuria.
+- Furosemide Injection is contraindicated in patients with a history of hypersensitivity to furosemide.

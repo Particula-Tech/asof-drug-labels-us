@@ -1,14 +1,9 @@
-# INDICATIONS AND USAGE:
+# 1 INDICATIONS AND USAGE
 
-Parenteral therapy should be reserved for patients unable to take oral medication or for patients in emergency clinical situations.
+## 1.1 Edema
 
-## Edema
+Furosemide Injection is indicated in adults and pediatric patients for the treatment of edema associated with heart failure, cirrhosis of the liver, and renal disease, including the nephrotic syndrome.
 
-Furosemide is indicated in adults and pediatric patients for the treatment of edema associated with congestive heart failure, cirrhosis of the liver and renal disease, including the nephrotic syndrome.
-Furosemide is particularly useful when an agent with greater diuretic potential is desired.
+## 1.2 Acute Pulmonary Edema
 
-Furosemide is indicated as adjunctive therapy in acute pulmonary edema.
-The IV administration of furosemide is indicated when a rapid onset of diuresis is desired, e.g., in acute pulmonary edema.
-
-If gastrointestinal absorption is impaired or oral medication is not practical for any reason, furosemide is indicated by the IM or IV route.
-Parenteral use should be replaced with oral furosemide as soon as practical.
+Furosemide Injection is indicated as adjunctive therapy in acute pulmonary edema.

@@ -1,81 +1,25 @@
-# ADVERSE REACTIONS:
+# 6 ADVERSE REACTIONS
 
-To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+The following adverse reactions are described elsewhere in the labeling:
+
+- Fluid, Electrolyte, and Metabolic Abnormalities [see Warnings and Precautions (5.1)]
+- Ototoxicity [see Warnings and Precautions (5.3)]
+
+The following adverse reactions associated with the use of furosemide were identified in clinical studies or postmarketing reports.
+Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Adverse reactions are categorized below by organ system and listed by decreasing severity.
 
-Gastrointestinal System Reactions
+Gastrointestinal System Reactions: pancreatitis, jaundice (intrahepatic cholestatic jaundice), increased liver enzymes, anorexia, oral and gastric irritation, cramping, diarrhea, constipation, nausea, vomiting.
 
-1. Hepatic encephalopathy in patients with hepatocellular insufficiency
-2. Pancreatitis
-3. Jaundice (intrahepatic cholestatic jaundice)
-4. Increased liver enzymes
-5. Anorexia
-6. Oral and gastric irritation
-7. Cramping
-8. Diarrhea
-9. Constipation
-10. Nausea
-11. Vomiting
+Systemic Hypersensitivity Reactions: severe anaphylactic or anaphylactoid reactions (e.g., with shock), systemic vasculitis, interstitial nephritis, necrotizing angiitis.
 
-Systemic Hypersensitivity Reactions
+Central Nervous System Reactions: tinnitus and hearing loss, paresthesias, vertigo, dizziness, headache, blurred vision, xanthopsia.
 
-1. Severe anaphylactic or anaphylactoid reactions (e.g., with shock)
-2. Systemic vasculitis
-3. Interstitial nephritis
-4. Necrotizing angiitis
+Hematologic Reactions: aplastic anemia, thrombocytopenia, agranulocytosis, hemolytic anemia, leukopenia, anemia, eosinophilia.
 
-Central Nervous System Reactions
+Dermatologic-Hypersensitivity Reactions: toxic epidermal necrolysis, Stevens-Johnson Syndrome, erythema multiforme, drug rash with eosinophilia and systemic symptoms, acute generalized exanthematous pustulosis, exfoliative dermatitis, bullous pemphigoid, purpura, photosensitivity, rash.
 
-1. Tinnitus and hearing loss
-2. Paresthesias
-3. Vertigo
-4. Dizziness
-5. Headache
-6. Blurred vision
-7. Xanthopsia
+Cardiovascular Reactions: orthostatic hypotension, increase in cholesterol and triglyceride serum levels.
 
-Hematologic Reactions
-
-1. Aplastic anemia
-2. Thrombocytopenia
-3. Agranulocytosis
-4. Hemolytic anemia
-5. Leukopenia
-6. Anemia
-7. Eosinophilia
-
-Dermatologic-Hypersensitivity Reactions
-
-1. Toxic epidermal necrolysis
-2. Stevens-Johnson Syndrome
-3. Erythema multiforme
-4. Drug rash with eosinophilia and systemic symptoms
-5. Acute generalized exanthematous pustulosis
-6. Exfoliative dermatitis
-7. Bullous pemphigoid
-8. Purpura
-9. Photosensitivity
-10. Rash
-11. Pruritus
-12. Urticaria
-
-Cardiovascular Reactions
-
-1. Orthostatic hypotension may occur and be aggravated by alcohol, barbiturates or narcotics
-2. Increase in cholesterol and triglyceride serum levels
-
-Other Reactions
-
-1. Hyperglycemia
-2. Glycosuria
-3. Hyperuricemia
-4. Muscle spasm
-5. Weakness
-6. Restlessness
-7. Urinary bladder spasm
-8. Thrombophlebitis
-9. Transient injection site pain following intramuscular injection
-10. Fever
-
-Whenever adverse reactions are moderate or severe, furosemide dosage should be reduced or therapy withdrawn.
+Other Reactions: glycosuria, muscle spasm, weakness, restlessness, urinary bladder spasm, thrombophlebitis, transient injection site pain following intramuscular injection, fever.

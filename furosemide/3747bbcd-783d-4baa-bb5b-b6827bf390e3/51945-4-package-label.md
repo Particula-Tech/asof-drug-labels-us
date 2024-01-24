@@ -16,7 +16,7 @@ Preservative free.
 
 Discard unused portion.
 
-Protect from light
+Protect from light.
 
 2 mL Single Dose Vial Rx only
 
