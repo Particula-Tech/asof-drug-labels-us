@@ -158,7 +158,7 @@ Monotherapy Treatment for Epilepsy
 
 Pediatric Patients 2 Years of Age and Older
 
-The safety and effectiveness of topiramate extended-release capsules as monotherapy for the treatment of partial-onset seizures or primary generalized tonic-clonic seizures have been established in pediatric patients aged 2 years and older [see Adverse Reactions (6.1), Clinical Studies (14.1)].
+The safety and effectiveness of topiramate extended-release capsules as monotherapy for the treatment of partial-onset seizures or primary generalized tonic-clonic seizures have been established in pediatric patients aged 2 years and older and is based on controlled trials with immediate-release topiramate [see Adverse Reactions (6.1), Clinical Studies (14.1)].
 
 A one-year, active-controlled, open-label study with blinded assessments of bone mineral density (BMD) and growth in pediatric patients 4 to 15 years of age, including 63 patients with recent or new onset of epilepsy, was conducted to assess effects of immediate-release topiramate (N=28, 6 to 15 years of age) versus levetiracetam (N=35, 4 to 15 years of age) monotherapy on bone mineralization and on height and weight, which reflect growth.
 Effects on bone mineralization were evaluated via dual-energy X-ray absorptiometry and blood markers.
@@ -215,7 +215,7 @@ Abnormally decreased results were observed with topiramate vs placebo treatment 
 
 Notable changes (increases and decreases) from baseline in systolic blood pressure, diastolic blood pressure, and pulse were observed occurred more commonly in pediatric patients treated with topiramate compared to pediatric patients treated with placebo [see Clinical Pharmacology (12.2)].
 
-Pediatric Patients Below the Age of 12 Years of Age
+Pediatric Patients Below the Age of 12 Years
 
 Safety and effectiveness in pediatric patients below the age of 12 years have not been established for the preventive treatment of migraine.
 

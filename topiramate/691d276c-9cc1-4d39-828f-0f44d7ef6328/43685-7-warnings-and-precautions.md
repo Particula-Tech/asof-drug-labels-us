@@ -26,7 +26,7 @@ Decreased sweating and an elevation in body temperature above normal characteriz
 Some of the cases were reported after exposure to elevated environmental temperatures.
 
 The majority of the reports have been in pediatric patients.
-Patients, (especially pediatric patients) treated with topiramate extended-release should be monitored closely for evidence of decreased sweating and increased body temperature, especially in hot weather.
+Patients (especially pediatric patients) treated with topiramate extended-release should be monitored closely for evidence of decreased sweating and increased body temperature, especially in hot weather.
 Caution should be used when topiramate extended-release capsules are prescribed with other drugs that predispose patients to heat-related disorders; these drugs include, but are not limited to, other carbonic anhydrase inhibitors and drugs with anticholinergic activity.
 
 ## 5.4 Metabolic Acidosis
