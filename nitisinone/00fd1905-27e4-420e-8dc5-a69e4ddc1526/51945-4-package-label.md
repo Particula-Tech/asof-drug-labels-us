@@ -13,7 +13,7 @@ Store at room temperature between 20°C to 25°C (68°F to 77°F), excursions pe
 
 Rx only 60 tablets
 
-Principal Display Panel - Bottle Label
+Principal Display Panel – 2 mg Bottle Label
 
 NDC 70709-002-60
 
@@ -25,7 +25,7 @@ For Oral Use
 
 Store at room temperature between 20°C to 25°C (68°F to 77°F).
 
-Rx only CYCLE PHARMA 60 tablets
+Rx only 60 tablets
 
 Principal Display Panel - 5 mg Carton Label
 
@@ -42,7 +42,7 @@ Store at room temperature between 20°C to 25°C (68°F to 77°F), excursions pe
 
 Rx only 60 tablets
 
-Principal Display Panel - Bottle Label
+Principal Display Panel – 5 mg Bottle Label
 
 NDC 70709-005-60
 
@@ -54,7 +54,7 @@ For Oral Use
 
 Store at room temperature between 20°C to 25°C (68°F to 77°F).
 
-Rx only CYCLE PHARMA 60 tablets
+Rx only 60 tablets
 
 Principal Display Panel - 10 mg Carton Label
 
@@ -71,7 +71,7 @@ Store at room temperature between 20°C to 25°C (68°F to 77°F), excursions pe
 
 Rx only 60 tablets
 
-Principal Display Panel - Bottle Label
+Principal Display Panel – 10 mg Bottle Label
 
 NDC 70709-000-60
 
@@ -83,4 +83,4 @@ For Oral Use
 
 Store at room temperature between 20°C to 25°C (68°F to 77°F).
 
-Rx only CYCLE PHARMA 60 tablets
+Rx only 60 tablets

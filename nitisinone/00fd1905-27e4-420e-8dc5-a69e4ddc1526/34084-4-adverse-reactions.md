@@ -1,8 +1,10 @@
 # 6 ADVERSE REACTIONS
 
+Serious and or clinically significant adverse reactions described elsewhere in labeling include: Ocular Symptoms, Developmental Delay and Hyperkeratotic Plaques Due To Elevated Plasma Tyrosine Levels Due to Elevated Plasma Tyrosine Levels, [see Warnings and Precautions (5.1)] Leukopenia and Severe Thrombocytopenia [see Warnings and Precautions (5.2)]
+
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The safety of NITYR has been established based on studies of another oral formulation of nitisinone in patients with HT-1 [see Clinical Studies (14)].
 Below is a display of the adverse reactions of nitisinone in these studies.

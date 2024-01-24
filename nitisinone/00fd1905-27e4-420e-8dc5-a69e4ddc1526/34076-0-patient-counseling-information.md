@@ -2,16 +2,21 @@
 
 Advise the patient to read the FDA-approved patient labeling (Instructions for Use).
 
-Administration
+Dosage and Administration Instructions
 
-- Maintain dietary restriction of tyrosine and phenylalanine.
-- Take with or without food.
-- For patients, including pediatric patients, who have difficulty swallowing the intact tablets, the tablets can be disintegrated in water and administered using an oral syringe.
-  If patients can swallow semi-solid foods, the tablets can also be crushed and mixed with applesauce.
-  See Instructions for Use for preparation and administration instructions.
-- Store NITYR in the container that it is dispensed in and keep the container tightly closed [see How Supplied/Storage and Handling (16)].
+Advise the patient or caregiver to:
 
-Elevated Plasma Tyrosine Levels, Ocular Symptoms, Developmental Delay and Hyperkeratotic Plaques
+- Combine NITYR with dietary restriction of tyrosine and phenylalanine.
+- Take NITYR with or without food.
+- Disintegrate the tablet(s) in water if patient has difficulty swallowing intact tablet(s), or if patient can swallow semi-solid foods, crush the tablet(s) and mix with applesauce.
 
-- Inform patients that inadequate dietary restriction may be associated with ocular signs and symptoms, intellectual disability and developmental delay, and painful hyperkeratotic plaques on the soles and palms.
-  Advise patients and caregivers of the need to maintain dietary restriction of tyrosine and phenylalanine and to report any unexplained ocular, neurologic, or other symptoms promptly to their healthcare provider [see Warnings and Precautions (5.1)].
+[see Dosage and Administration (2)]
+
+How Supplied/Storage and Handling
+
+Advise the patient or caregiver to store NITYR in the container that it is dispensed in and keep the container tightly closed [see How Supplied/Storage and Handling (16)].
+
+Ocular Symptoms, Developmental Delay and Hyperkeratotic Plaques Due to Elevated Plasma Tyrosine Levels
+
+Advise the patient or caregiver that inadequate dietary restriction may be associated with ocular signs and symptoms, intellectual disability and developmental delay, and painful hyperkeratotic plaques on the soles and palms.
+Additionally, advise the patient or caregiver of the need to maintain dietary restriction of tyrosine and phenylalanine and to report any unexplained ocular, neurologic, or other symptoms promptly to their healthcare provider [see Warnings and Precautions (5.1)].

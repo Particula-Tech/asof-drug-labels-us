@@ -38,7 +38,7 @@ Geometric Mean Pharmacokinetic Parameters in Healthy Subjects Following a Single
 | Single 10 mg NITYR Tablet fasted (n=23) | 1278 [780 to 1649] | 3.5[1.0 to 4.0] | 77874 [42335 to 104211] |
 | * presented as median [range] |  |  |  |
 
-Food effect: In a food effect study, a high-fat and high-calorie breakfast (973.6 cal distributed in carbohydrate 250.1 cal, proteins 157 cal, fat 566.5 cal) did not significantly affect the total exposure (AUC0-120h) and Cmax of nitisinone following single oral administration of 10 mg NITYR.
+Effect of Food: In a food effect study, a high-fat and high-calorie breakfast (973.6 cal distributed in carbohydrate 250.1 cal, proteins 157 cal, fat 566.5 cal) did not significantly affect the total exposure (AUC0-120h) and Cmax of nitisinone following single oral administration of 10 mg NITYR.
 The median Tmax was delayed to 6 hours under fed conditions [see Dosage and Administration (2.2)].
 
 Distribution In vitro binding of nitisinone to human plasma proteins is greater than 95% at 50 micromolar concentration.
@@ -55,7 +55,8 @@ Drug Interaction Studies Nitisinone does not inhibit CYP2D6.
 Nitisinone is a moderate inhibitor of CYP2C9, and a weak inducer of CYP2E1 (TABLE 4).
 Nitisinone is an inhibitor of OAT1/3 (TABLE 4).
 
-TABLE 4 Percent Change in AUC0-∞ and Cmax for Co-administered Drugs in the Presence of nitisinone in 18 Healthy Subjects
+TABLE 4.
+Percent Change in AUC0-∞ and Cmax for Co-administered Drugs in the Presence of Nitisinone in 18 Healthy Subjects
 
 | Co-administered Drug a | Dose of Co-administered Drug (Route of Administration) | Effect of Nitisinone on the Pharmacokinetics of Co-administered Drug b |  |
 | --- | --- | --- | --- |

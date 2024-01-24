@@ -5,7 +5,7 @@ Below is a display of the results of these studies.
 
 The efficacy and safety of nitisinone in patients with HT-1 was evaluated in one open-label, uncontrolled study of 207 patients with HT-1, ages 0 to 22 years at enrollment (median age 9 months).
 Patients were diagnosed with HT-1 by the presence of succinylacetone in the urine or plasma.
-All patients were treated with nitisinone at a starting dose of 0.3 to 0.5 mg/kg twice daily, and the dose was increased in some patients to 1 mg/kg twice daily based on weight, liver and kidney function tests, platelet count, serum amino acids, urinary phenolic acid, plasma and urine succinylacetone, erythrocyte PBG- synthase, and urine 5-ALA.
+All patients were treated with nitisinone at a starting dose of 0.3 to 0.5 mg/kg orally twice daily, and the dose was increased in some patients to 1 mg/kg twice daily based on weight, liver and kidney function tests, platelet count, serum amino acids, urinary phenolic acid, plasma and urine succinylacetone, erythrocyte PBG- synthase, and urine 5-ALA.
 The median duration of treatment was 22 months (range less than 1 month to 80 months).
 Efficacy was assessed by comparison of survival and incidence of liver transplant to historical controls.
 
@@ -23,7 +23,5 @@ An assessment of porphyria-like crises was performed because these events are co
 Urinary alpha-1-microglobulin, a proposed marker of proximal tubular dysfunction, was measured in 100 patients at baseline.
 The overall median pretreatment level was 4.3 grams/mol creatinine.
 After one year of treatment in a subgroup of patients (N=100), overall median alpha-1-microglobulin decreased by 1.5 grams/mol creatinine.
-In patients 24 months of age and younger in whom multiple values were available (N=65), median alpha-1-microglobulin levels decreased from 5 to 3 grams/mol creatinine (reference value for age less than or equal to12 grams/mol creatinine).
+In patients 24 months of age and younger in whom multiple values were available (N=65), median alpha-1-microglobulin levels decreased from 5 to 3 grams/mol creatinine (reference value for age less than or equal to 12 grams/mol creatinine).
 In patients older than 24 months in whom multiple values were available (N=35), median alpha-1-microglobulin levels decreased from 2.8 to 2 grams/mol creatinine (reference for age less than or equal to 6 grams/mol creatinine).
-
-The long term effect of nitisinone on hepatic function was not assessed.

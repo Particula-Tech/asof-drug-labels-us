@@ -6,7 +6,7 @@ Risk Summary Limited available data with nitisinone use in pregnant women are no
 Animal reproduction studies have been conducted for nitisinone.
 In these studies, nitisinone was administered to mice and rabbits during organogenesis with oral doses of nitisinone up to 20 and 8-times respectively, the recommended initial dose of 1 mg/kg/day.
 In mice, nitisinone caused incomplete skeletal ossification of fetal bones and decreased pup survival at doses 0.4 times the recommended initial dose, and increased gestational length at doses 4 times the recommended initial dose.
-In rabbits, nitisinone caused maternal toxicity and incomplete skeletal ossification of fetal bones at doses 1.6 times the recommended initial dose [see Data].
+In rabbits, nitisinone caused maternal toxicity and incomplete skeletal ossification of fetal bones at doses 1.6 times the recommended initial dose (see Data).
 
 The background risk of major birth defects and miscarriage for the indicated population are unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
@@ -25,11 +25,11 @@ The development and health benefits of breastfeeding should be considered along 
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of nitisinone have been established in pediatric patients for the treatment of HT-1 in combination with dietary restriction of tyrosine and phenylalanine.
-Use of NITYR in pediatric patients is supported by evidence from one open-label, uncontrolled clinical study conducted with another oral formulation of nitisinone in 207 patients with HT-1 ages 0 to 22 years (median age 9 months) [see Clinical Studies (14)].
+The safety and effectiveness of nitisinone have been established for the treatment of HT-1 in combination with dietary restriction of tyrosine and phenylalanine in pediatric patients.
+Use of NITYR for this indication is supported by evidence from one open-label, uncontrolled clinical study conducted with another oral formulation of nitisinone in 207 patients with HT-1 ages 0 to 22 years (median age 9 months) [see Clinical Studies (14)].
 
 ## 8.5 Geriatric Use
 
-Clinical studies of nitisinone did not include any subjects aged 65 and over.
+Clinical studies of nitisinone did not include any subjects aged 65 and over to determine whether they respond differently from younger subjects.
 No pharmacokinetic studies of nitisinone have been performed in geriatric patients.
-In general, dose selection for an elderly patient should be cautious reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and concomitant disease or other drug therapy in this patient population.
+In general, dose selection for an elderly patient should be cautious reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in this patient population.
