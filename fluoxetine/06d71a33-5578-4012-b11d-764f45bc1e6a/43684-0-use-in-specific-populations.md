@@ -7,7 +7,11 @@ When using fluoxetine and olanzapine in combination, also refer to the Use in Sp
 Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
 Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
 
-Risk Summary Available data from published epidemiologic studies and postmarketing reports over several decades have not established an increased risk of major birth defects or miscarriage.
+Risk Summary
+
+Based on data from published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions (5.7) and Clinical Considerations].
+
+Available data from published epidemiologic studies and postmarketing reports over several decades have not established an increased risk of major birth defects or miscarriage.
 Some studies have reported an increased incidence of cardiovascular malformations; however, these studies results do not establish a causal relationship (see Data).
 There are risks associated with untreated depression in pregnancy and risks of persistent pulmonary hypertension of the newborn (PPHN) (see Data) and poor neonatal adaptation with exposure to selective serotonin reuptake inhibitors (SSRIs), including fluoxetine, during pregnancy (see Clinical Considerations).
 
@@ -21,6 +25,8 @@ In the US general population, the estimated background risk of major birth defec
 Clinical Considerations Disease-associated maternal and/or embryo/fetal risk Women who discontinue antidepressants during pregnancy are more likely to experience a relapse of major depression than women who continue antidepressants.
 This finding is from a prospective, longitudinal study that followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants at the beginning of pregnancy.
 Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
+
+Maternal Adverse Reactions Use of fluoxetine in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.7)].
 
 Fetal/Neonatal adverse reactions Neonates exposed to fluoxetine and other SSRI or SNRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
@@ -36,7 +42,7 @@ Methodologic limitations of these observational studies include possible exposur
 However, these studies cannot definitely establish or exclude any drug-associated risk during pregnancy.
 
 Exposure to SSRIs, particularly later in pregnancy, may have an increased risk for PPHN.
-PPHN occurs in 1 to 2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
+PPHN occurs in 1 to 2 per 1000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
 
 Animal Data — In embryofetal development studies in rats and rabbits, there was no evidence of malformations or developmental variations following administration of fluoxetine at doses up to 12.5 and 15 mg/kg/day, respectively (1.6 and 3.9 times, respectively, the MRHD of 60 mg given to adolescents on a mg/m2 basis) throughout organogenesis.
 However, in rat reproduction studies, an increase in stillborn pups, a decrease in pup weight, and an increase in pup deaths during the first 7 days postpartum occurred following maternal exposure to 12 mg/kg/day (1.5 times the MRHD given to adolescents on a mg/m2 basis) during gestation or 7.5 mg/kg/day (0.97 time the MRHD given to adolescents on a mg/m2 basis) during gestation and lactation.
@@ -100,7 +106,7 @@ Safety and effectiveness of fluoxetine and olanzapine in combination in patients
 
 ## 8.5 Geriatric Use
 
-U.S. fluoxetine clinical trials included 687 patients ≥65 years of age and 93 patients ≥75 years of age.
+US fluoxetine clinical trials included 687 patients ≥65 years of age and 93 patients ≥75 years of age.
 The efficacy in geriatric patients has been established [see Clinical Studies (14.1)].
 For pharmacokinetic information in geriatric patients, [see Clinical Pharmacology (12.4)].
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.

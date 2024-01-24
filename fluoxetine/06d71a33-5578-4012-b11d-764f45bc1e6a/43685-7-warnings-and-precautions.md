@@ -51,25 +51,24 @@ It should be noted that fluoxetine is approved in the pediatric population for M
 
 ## 5.2 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including fluoxetine, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Selective serotonin reuptake inhibitors (SSRIs), including fluoxetine, can precipitate serotonin syndrome, a potentially life-threatening condition.
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, meperidine, methadone, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)].
+Serotonin syndrome can also occur when these drugs are used alone.
 
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Patients should be monitored for the emergence of serotonin syndrome.
+Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
-The concomitant use of fluoxetine with MAOIs intended to treat psychiatric disorders is contraindicated.
-Fluoxetine should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
-All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
-No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
-There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking fluoxetine.
-Fluoxetine should be discontinued before initiating treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration (2.9, 2.10)].
+The concomitant use of fluoxetine with MAOIs is contraindicated.
+In addition, do not initiate fluoxetine in a patient being treated with MAOIs such as linezolid or intravenous methylene blue.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection).
+If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking fluoxetine, discontinue fluoxetine before initiating treatment with the MAOI [see Contraindications (4) and Drug Interactions (7.1)].
 
-If concomitant use of fluoxetine with other serotonergic drugs, i.e., triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
-
-Treatment with fluoxetine and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Monitor all patients taking fluoxetine for the emergence of serotonin syndrome.
+Discontinue treatment with fluoxetine and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
+If concomitant use of fluoxetine with other serotonergic drugs is clinically warranted, inform patients of the increased risk for serotonin syndrome and monitor for symptoms.
 
 ## 5.3 Allergic Reactions and Rash
 
-In U.S. fluoxetine clinical trials, 7% of 10,782 patients developed various types of rashes and/or urticaria.
+In US fluoxetine clinical trials, 7% of 10,782 patients developed various types of rashes and/or urticaria.
 Among the cases of rash and/or urticaria reported in premarketing clinical trials, almost a third were withdrawn from treatment because of the rash and/or systemic signs or symptoms associated with the rash.
 Clinical findings reported in association with rash include fever, leukocytosis, arthralgias, edema, carpal tunnel syndrome, respiratory distress, lymphadenopathy, proteinuria, and mild transaminase elevation.
 Most patients improved promptly with discontinuation of fluoxetine and/or adjunctive treatment with antihistamines or steroids, and all patients experiencing these reactions were reported to recover completely.
@@ -100,18 +99,18 @@ However, prior to initiating treatment with an antidepressant, patients with dep
 It should be noted that fluoxetine and olanzapine in combination is approved for the acute treatment of depressive episodes associated with Bipolar I Disorder [see Warnings and Precautions section of the package insert for Symbyax®].
 Fluoxetine monotherapy is not indicated for the treatment of depressive episodes associated with Bipolar I Disorder.
 
-In U.S. placebo-controlled clinical trials for Major Depressive Disorder, mania/hypomania was reported in 0.1% of patients treated with fluoxetine and 0.1% of patients treated with placebo.
+In US placebo-controlled clinical trials for Major Depressive Disorder, mania/hypomania was reported in 0.1% of patients treated with fluoxetine and 0.1% of patients treated with placebo.
 Activation of mania/hypomania has also been reported in a small proportion of patients with Major Affective Disorder treated with other marketed drugs effective in the treatment of Major Depressive Disorder [see Use in Specific Populations (8.4)].
 
-In U.S. placebo-controlled clinical trials for OCD, mania/hypomania was reported in 0.8% of patients treated with fluoxetine and no patients treated with placebo.
-No patients reported mania/hypomania in U.S. placebo-controlled clinical trials for bulimia.
-In U.S. fluoxetine clinical trials, 0.7% of 10,782 patients reported mania/hypomania [see Use in Specific Populations (8.4)].
+In US placebo-controlled clinical trials for OCD, mania/hypomania was reported in 0.8% of patients treated with fluoxetine and no patients treated with placebo.
+No patients reported mania/hypomania in US placebo-controlled clinical trials for bulimia.
+In US fluoxetine clinical trials, 0.7% of 10,782 patients reported mania/hypomania [see Use in Specific Populations (8.4)].
 
 ## 5.5 Seizures
 
-In U.S. placebo-controlled clinical trials for Major Depressive Disorder, convulsions (or reactions described as possibly having been seizures) were reported in 0.1% of patients treated with fluoxetine and 0.2% of patients treated with placebo.
-No patients reported convulsions in U.S. placebo-controlled clinical trials for either OCD or bulimia.
-In U.S. fluoxetine clinical trials, 0.2% of 10,782 patients reported convulsions.
+In US placebo-controlled clinical trials for Major Depressive Disorder, convulsions (or reactions described as possibly having been seizures) were reported in 0.1% of patients treated with fluoxetine and 0.2% of patients treated with placebo.
+No patients reported convulsions in US placebo-controlled clinical trials for either OCD or bulimia.
+In US fluoxetine clinical trials, 0.2% of 10,782 patients reported convulsions.
 The percentage appears to be similar to that associated with other marketed drugs effective in the treatment of Major Depressive Disorder.
 Fluoxetine should be introduced with care in patients with a history of seizures.
 
@@ -119,25 +118,26 @@ Fluoxetine should be introduced with care in patients with a history of seizures
 
 Significant weight loss, especially in underweight depressed or bulimic patients, may be an undesirable result of treatment with fluoxetine.
 
-In U.S. placebo-controlled clinical trials for Major Depressive Disorder, 11% of patients treated with fluoxetine and 2% of patients treated with placebo reported anorexia (decreased appetite).
+In US placebo-controlled clinical trials for Major Depressive Disorder, 11% of patients treated with fluoxetine and 2% of patients treated with placebo reported anorexia (decreased appetite).
 Weight loss was reported in 1.4% of patients treated with fluoxetine and in 0.5% of patients treated with placebo.
 However, only rarely have patients discontinued treatment with fluoxetine because of anorexia or weight loss [see Use in Specific Populations (8.4)].
 
-In U.S. placebo-controlled clinical trials for OCD, 17% of patients treated with fluoxetine and 10% of patients treated with placebo reported anorexia (decreased appetite).
+In US placebo-controlled clinical trials for OCD, 17% of patients treated with fluoxetine and 10% of patients treated with placebo reported anorexia (decreased appetite).
 One patient discontinued treatment with fluoxetine because of anorexia [see Use in Specific Populations (8.4)].
 
-In U.S. placebo-controlled clinical trials for Bulimia Nervosa, 8% of patients treated with fluoxetine 60 mg and 4% of patients treated with placebo reported anorexia (decreased appetite).
+In US placebo-controlled clinical trials for Bulimia Nervosa, 8% of patients treated with fluoxetine 60 mg and 4% of patients treated with placebo reported anorexia (decreased appetite).
 Patients treated with fluoxetine 60 mg on average lost 0.45 kg compared with a gain of 0.16 kg by patients treated with placebo in the 16-week double-blind trial.
 Weight change should be monitored during therapy.
 
-## 5.7 Abnormal Bleeding
+## 5.7 Increased Risk of Bleeding
 
 SNRIs and SSRIs, including fluoxetine, may increase the risk of bleeding reactions.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Use in Specific Populations (8.1)].
 Bleeding reactions related to SNRIs and SSRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
-Patients should be cautioned about the risk of bleeding associated with the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
+Patients should be cautioned about the increased risk of bleeding associated with the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
 
 ## 5.8 Angle-Closure Glaucoma
 
@@ -157,15 +157,15 @@ More severe and/or acute cases have been associated with hallucination, syncope,
 
 ## 5.10 Anxiety and Insomnia
 
-In U.S. placebo-controlled clinical trials for Major Depressive Disorder, 12% to 16% of patients treated with fluoxetine and 7% to 9% of patients treated with placebo reported anxiety, nervousness, or insomnia.
+In US placebo-controlled clinical trials for Major Depressive Disorder, 12% to 16% of patients treated with fluoxetine and 7% to 9% of patients treated with placebo reported anxiety, nervousness, or insomnia.
 
-In U.S. placebo-controlled clinical trials for OCD, insomnia was reported in 28% of patients treated with fluoxetine and in 22% of patients treated with placebo.
+In US placebo-controlled clinical trials for OCD, insomnia was reported in 28% of patients treated with fluoxetine and in 22% of patients treated with placebo.
 Anxiety was reported in 14% of patients treated with fluoxetine and in 7% of patients treated with placebo.
 
-In U.S. placebo-controlled clinical trials for Bulimia Nervosa, insomnia was reported in 33% of patients treated with fluoxetine 60 mg, and 13% of patients treated with placebo.
+In US placebo-controlled clinical trials for Bulimia Nervosa, insomnia was reported in 33% of patients treated with fluoxetine 60 mg, and 13% of patients treated with placebo.
 Anxiety and nervousness were reported, respectively, in 15% and 11% of patients treated with fluoxetine 60 mg and in 9% and 5% of patients treated with placebo.
 
-Among the most common adverse reactions associated with discontinuation (incidence at least twice that for placebo and at least 1% for fluoxetine in clinical trials collecting only a primary reaction associated with discontinuation) in U.S. placebo-controlled fluoxetine clinical trials were anxiety (2% in OCD), insomnia (1% in combined indications and 2% in bulimia), and nervousness (1% in Major Depressive Disorder) [see Table 5].
+Among the most common adverse reactions associated with discontinuation (incidence at least twice that for placebo and at least 1% for fluoxetine in clinical trials collecting only a primary reaction associated with discontinuation) in US placebo-controlled fluoxetine clinical trials were anxiety (2% in OCD), insomnia (1% in combined indications and 2% in bulimia), and nervousness (1% in Major Depressive Disorder) [see Table 5].
 
 ## 5.11 QT Prolongation
 

@@ -189,7 +189,7 @@ Before starting fluoxetine capsules, tell your healthcare provider if you:
   - Triptans used to treat migraine headache
   - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics
   - Amphetamines
-  - Tramadol and fentanyl
+  - Tramadol, fentanyl, meperidine, methadone, or other opioids
   - Over-the-counter supplements such as tryptophan or St. John's Wort
   - Electroconvulsive therapy (ECT)
 - have liver problems
@@ -280,7 +280,7 @@ YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
 
 How should I store fluoxetine capsules?
 
-- Store fluoxetine capsules at room temperature between 20° to 25°C (68° to 77°F).
+- Store fluoxetine capsules at room temperature between 68° to 77°F (20° to 25°C).
 - Keep fluoxetine capsules away from light.
 - Keep fluoxetine capsules bottle closed tightly.
 
@@ -312,4 +312,4 @@ Brands listed are the trademarks of their respective owners.
 Manufactured In Czech Republic By: Teva Czech Industries, s.r.o., Opava-Komarov, Czech Republic Manufactured For: Teva Pharmaceuticals, Parsippany, NJ 07054
 
 Rev.
-L 4/2022
+M 8/2023
