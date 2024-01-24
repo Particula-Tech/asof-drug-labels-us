@@ -15,7 +15,7 @@ Patients received treatment until radiographic disease progression or unacceptab
 Tumor assessments were performed every 8 weeks for the first 18 months and every 12 weeks thereafter.
 
 The median age of patients was 63 years (range, 25 to 92).
-Most patients were women (99.8%) and most patients were white (66%), followed by Asian (22%), Other/Unknown (10%), black or African American (1.4%), and American Indian or Alaskan Native (0.9%).
+Most patients were women (99.8%), and most patients were white (66%), followed by Asian (22%), Other/Unknown (10%), black or African American (1.4%), and American Indian or Alaskan Native (0.9%).
 Baseline ECOG performance status was 0 (68%) or 1 (32%).
 
 Patient demographics for those with PIK3CA-mutated tumors were generally representative of the broader study population.
@@ -38,13 +38,13 @@ Table 8: Efficacy Results in SOLAR-1 (Per Investigator Assessment of Patients wi
 
 |  | PIQRAY plus fulvestrant | Placebo plus fulvestrant |
 | --- | --- | --- |
-| Progression-free Survival | N = 169 | N = 172 |
+| Progression-free survival | N = 169 | N = 172 |
 | Number of PFS events – n (%) | 103 (61) | 129 (75) |
 | Median PFS months (95% CI) | 11.0 (7.5, 14.5) | 5.7 (3.7, 7.4) |
 | Hazard ratio (95% CI) | 0.65 (0.50, 0.85) |  |
 | p-value1 | 0.0013 |  |
-| Overall Response Rate | N = 126 | N = 136 |
+| Overall response rate | N = 126 | N = 136 |
 | ORR2 (95% CI) | 35.7 (27.4, 44.7) | 16.2 (10.4, 23.5) |
-| Abbreviation: CI, confidence interval. 1p-value obtained from the two sided stratified log-rank test, stratified by prior CDK4/6 inhibitor usage and presence of lung/liver metastases. P-value was compared to prespecified Haybittle-Peto efficacy boundary (two-sided p ≤ 0.0398). 2ORR = percentage of patients with confirmed Complete Response or Partial Response with measurable disease at baseline. |  |  |
+| Abbreviation: CI, confidence interval. 1p-value obtained from the two-sided stratified log-rank test, stratified by prior CDK4/6 inhibitor usage and presence of lung/liver metastases. P-value was compared to prespecified Haybittle-Peto efficacy boundary (two-sided p ≤ 0.0398). 2ORR = percentage of patients with confirmed complete response or partial response with measurable disease at baseline. |  |  |
 
 Figure 1: Progression Free Survival in SOLAR-1 (Per Investigator Assessment of Patients with a PIK3CA Tumor Mutation)

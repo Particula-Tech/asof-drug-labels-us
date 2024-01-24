@@ -68,7 +68,8 @@ Coadministration of the H2 receptor antagonist ranitidine in combination with a 
 In the presence of a low-fat low-calorie meal, AUC was decreased on average by 21% and Cmax by 36% with ranitidine.
 Under the fasted state, AUC was decreased on average by 30% and Cmax by 51% with ranitidine.
 
-CYP3A4 Substrates: No clinically significant differences in pharmacokinetics of everolimus (a substrate of CYP3A4 and P-gp) were observed when coadministered with alpelisib.
+CYP3A4, CYP2C8, CYP2C9, CYP2C19 and CYP2B6 Substrates: Coadministration of repeated doses of alpelisib 300 mg with a single-dose of sensitive substrates of CYP3A4 (midazolam), CYP2C8 (repaglinide), CYP2C9 (warfarin), CYP2C19 (omeprazole) and CYP2B6 (bupropion), administered as a cocktail did not show clinically significant pharmacokinetic interactions.
+No clinically significant differences in pharmacokinetics of everolimus (a substrate of CYP3A4 and P-gp) were observed when coadministered with alpelisib.
 
 Effect of CYP3A4 Inducers on Alpelisib: Coadministration of repeat doses of rifampin (a strong CYP3A4 inducer) with a single 300 mg dose of alpelisib decreased alpelisib Cmax by 38% and AUC by 57%, respectively.
 Coadministration of rifampin with repeat doses of 300 mg alpelisib decreased alpelisib Cmax by 59% and AUC by 74%, respectively.
@@ -80,8 +81,6 @@ Coadministration of repeat doses of ketoconazole (a strong CYP3A4 inhibitor) wit
 Coadministration of repeat doses of efavirenz (a moderate CYP3A4 inducer) with a single 300 mg dose of alpelisib is expected to decrease alpelisib AUC by 30% or less.
 
 In Vitro Studies
-
-Effect of Alpelisib on CYP Enzymes: Alpelisib inhibits CYP3A4 in a time-dependent manner and induces CYP2B6, CYP2C9 and CYP3A4.
 
 Effect of Transporter on Alpelisib: Alpelisib is a substrate of BCRP.
 

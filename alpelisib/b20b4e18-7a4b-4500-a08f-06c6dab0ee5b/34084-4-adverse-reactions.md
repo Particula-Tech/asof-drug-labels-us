@@ -27,11 +27,11 @@ Serious adverse reactions in > 2% of patients receiving PIQRAY plus fulvestrant 
 Osteonecrosis of the jaw (ONJ) was reported in 4.2% of patients (12/284) in the PIQRAY plus fulvestrant arm compared to 1.4% of patients (4/287) in the placebo arm.
 All patients experiencing ONJ had prior or concomitant bisphosphonates or RANK-ligand inhibitor administration.
 
-Among patients receiving PIQRAY plus fulvestrant, 4.6% permanently discontinued both PIQRAY and fulvestrant and 21% permanently discontinued PIQRAY alone, due to ARs.
-The most frequent ARs leading to treatment discontinuation of PIQRAY in > 2% patients receiving PIQRAY plus fulvestrant were hyperglycemia (6%), rash (4.2%), diarrhea (2.8%), and fatigue (2.5%).
+Among patients receiving PIQRAY plus fulvestrant, 4.6% permanently discontinued both PIQRAY and fulvestrant and 21% permanently discontinued PIQRAY alone, due to adverse reactions.
+The most frequent adverse reactions leading to treatment discontinuation of PIQRAY in > 2% patients receiving PIQRAY plus fulvestrant were hyperglycemia (6%), rash (4.2%), diarrhea (2.8%), and fatigue (2.5%).
 
-Dose reductions due to ARs occurred in 55% of patients receiving PIQRAY plus fulvestrant.
-The most frequent ARs leading to dose reduction in > 2% patients receiving PIQRAY plus fulvestrant were hyperglycemia (29%), rash (9%), diarrhea (6%), stomatitis (3.5%), and mucosal inflammation (2.1%).
+Dose reductions due to adverse reactions occurred in 55% of patients receiving PIQRAY plus fulvestrant.
+The most frequent adverse reactions leading to dose reduction in > 2% patients receiving PIQRAY plus fulvestrant were hyperglycemia (29%), rash (9%), diarrhea (6%), stomatitis (3.5%), and mucosal inflammation (2.1%).
 
 The most common adverse reactions, including laboratory abnormalities (all grades, incidence ≥ 20%) were glucose increased, creatinine increased, diarrhea, rash, lymphocyte count decreased, gamma-glutamyl transferase (GGT) increased, nausea, alanine aminotransferase (ALT) increased, fatigue, hemoglobin decreased, lipase increased, decreased appetite, stomatitis, vomiting, weight decreased, calcium decreased, glucose decreased, activated partial thromboplastin time (aPTT) prolonged, and alopecia.
 
@@ -73,7 +73,7 @@ Table 6: Adverse Reactions Occurring in ≥ 10% and ≥ 2% Higher than Placebo A
 | Grading according to CTCAE Version 4.03. 1Stomatitis: including stomatitis, aphthous ulcer and mouth ulceration. 2Abdominal pain: abdominal pain, abdominal pain upper, abdominal pain lower. 3Fatigue: including fatigue, asthenia. 4Mucosal dryness: including dry mouth, mucosal dryness, vulvovaginal dryness. 5Urinary tract infection: including UTI and single case of urosepsis. 6Dysgeusia: including dysgeusia, ageusia, hypogeusia. 7Rash: including rash, rash maculo-papular, rash macular, rash generalized, rash papular, rash pruritic. 8Dry skin: including dry skin, skin fissures, xerosis, xeroderma. *No Grade 4 adverse reactions were reported. |  |  |  |  |
 
 Among the patients with Grade 2 or 3 rash, the median time to first onset of Grade 2 or 3 rash was 12 days.
-A subgroup of 86 patients received prophylaxis, including antihistamines, prior to onset of rash.
+A subgroup of 86 patients received premedication, including antihistamines, prior to onset of rash.
 In these patients, rash was reported less frequently than in the overall population, for all grades rash (27% vs 54%), Grade 3 rash (12% vs 20%) and rash leading to permanent discontinuation of PIQRAY (3.5% vs 4.2%).
 Of the 153 patients who experienced rash, 141 had resolution of the rash.
 
@@ -81,18 +81,18 @@ Table 7: Laboratory Abnormalities Occurring in ≥ 10% of Patients in SOLAR-1
 
 |  | PIQRAY plus fulvestrant N = 284 |  | Placebo plus fulvestrant N = 287 |  |
 | --- | --- | --- | --- | --- |
-| Laboratory Abnormality | All Grades | Grade 3-4 | All Grades | Grade 3-4 |
+| Laboratory abnormality | All Grades | Grade 3-4 | All Grades | Grade 3-4 |
 |  | % | % | % | % |
 | Hematological parameters |  |  |  |  |
 | Lymphocyte count decreased | 52 | 8 | 40 | 4.5* |
 | Hemoglobin decreased | 42 | 4.2* | 29 | 1* |
-| Activated Partial Thromboplastin Time (aPTT) prolonged | 21 | 0.7* | 16 | 0.3* |
+| Activated partial thromboplastin time (aPTT) prolonged | 21 | 0.7* | 16 | 0.3* |
 | Platelet count decreased | 14 | 1.1 | 6 | 0* |
 | Biochemical parameters |  |  |  |  |
 | Glucose increased1 | 79 | 39 | 34 | 1 |
 | Creatinine increased | 67 | 2.8* | 25 | 0.7* |
-| Gamma Glutamyl Transferase (GGT) increased | 52 | 11 | 44 | 10 |
-| Alanine Aminotransferase (ALT) increased | 44 | 3.5 | 34 | 2.4* |
+| Gamma glutamyl transferase (GGT) increased | 52 | 11 | 44 | 10 |
+| Alanine aminotransferase (ALT) increased | 44 | 3.5 | 34 | 2.4* |
 | Lipase increased | 42 | 7 | 25 | 6 |
 | Calcium (corrected) decreased | 27 | 2.1 | 20 | 1.4 |
 | Glucose decreased | 26 | 0.4 | 14 | 0* |
@@ -101,10 +101,32 @@ Table 7: Laboratory Abnormalities Occurring in ≥ 10% of Patients in SOLAR-1
 | Magnesium decreased | 11 | 0.4* | 4.2 | 0* |
 | 1Glucose increase is an expected laboratory abnormality of PI3K inhibition. *No Grade 4 laboratory abnormalities were reported. |  |  |  |  |
 
+Metformin Premedication for Hyperglycemia Adverse Reactions
+
+The safety of PIQRAY and endocrine therapy with metformin premedication was evaluated in METALLICA (NCT04300790), a single-arm, two-cohort study in 68 patients with HR-positive, HER2-negative advanced breast cancer harboring PIK3CA mutation(s).
+The majority of patients (93%) received fulvestrant as endocrine therapy during the study.
+Cohort A enrolled patients with normal glycemic status (FPG < 100 mg/dl [< 5.6 mmol/L] and HbA1c < 5.7%) and Cohort B enrolled patients with impaired glycemic status (FPG 100–140 mg/dL [5.6–7.8 mmol/L] or HbA1c 5.7%–6.4%).
+
+Metformin was administered beginning 7 days prior to treatment with PIQRAY.
+On Day 1 to Day 3, metformin 500 mg twice daily was administered orally and then increased up to 1,000 mg twice daily based on tolerability.
+
+Hyperglycemia adverse reactions occurred in 33% (16/48) and 70% (14/20 patients) in Cohort A and Cohort B, respectively.
+Grade 3-4 hyperglycemia occurred in 2.1% (1/48) of patients in Cohort A and 15% (3/20) of patients in Cohort B. The incidence of nausea, vomiting, and diarrhea adverse reactions, including Grade 3 diarrhea, increases with metformin premedication [see Warnings and Precautions (5.3)].
+
+Serious adverse reactions occurred in 22% of patients in the METALLICA study and serious adverse reactions ≥ 2% included diarrhea (3%), rash (3%) and vomiting (3%).
+
+The most common Grade 3-4 adverse reactions (≥ 5%) were rash (16%), diarrhea (13%), and hyperglycemia (6%).
+
+Permanent discontinuation of PIQRAY due to adverse reactions in the METALLICA study occurred in 19% of patients, and dose modification or interruption of PIQRAY due to adverse reactions occurred in 56% of patients, of which 28% were dose reductions.
+
+The most common adverse reactions (≥ 30%) in the METALLICA study were diarrhea (68%), nausea (68%), fatigue (46%), hyperglycemia (44%), rash (38%), and vomiting (34%).
+
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of PIQRAY.
+The following adverse reactions have been identified during post approval use of PIQRAY.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Eye disorders: Uveitis
 
 Gastrointestinal disorders: Colitis
 

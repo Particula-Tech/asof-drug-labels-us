@@ -28,18 +28,18 @@ Refer to the Full Prescribing Information for fulvestrant.
 
 ## 2.3 Dose Modifications for Adverse Reactions
 
-The recommended dose modifications for adverse reactions (ARs) are listed in Table 1.
+The recommended dose modifications for adverse reactions are listed in Table 1.
 
 Table 1: PIQRAY Dose Reduction Guidelines for Adverse Reactions1
 
-| PIQRAY Dose Level | Dose and Schedule | Number and Strength of Tablets |
+| PIQRAY dose level | Dose and schedule | Number and strength of tablets |
 | --- | --- | --- |
 | Starting dose | 300 mg once daily | Two 150 mg tablets |
 | First-dose reduction | 250 mg once daily | One 200 mg tablet and one 50 mg tablet |
 | Second-dose reduction | 200 mg once daily2 | One 200 mg tablet |
 | 1Only one dose reduction is permitted for pancreatitis. 2If further dose reduction below 200 mg once daily is required, discontinue PIQRAY. |  |  |
 
-Tables 2, 3, 4, and 5 summarize recommendations for dose interruption, reduction, or discontinuation of PIQRAY in the management of specific ARs.
+Tables 2, 3, 4, and 5 summarize recommendations for dose interruption, reduction, or discontinuation of PIQRAY in the management of specific adverse reactions.
 
 Cutaneous Adverse Reactions
 
@@ -60,6 +60,9 @@ Table 2: Dose Modification and Management for Rash and Severe Cutaneous Adverse 
 Hyperglycemia
 
 Before initiating treatment with PIQRAY, test fasting plasma glucose (FPG), HbA1c, and optimize blood glucose.
+
+Consider premedication with metformin prior to the initiation of PIQRAY in combination with fulvestrant based on patient risk factors for hyperglycemia, gastrointestinal tolerability, and clinical situation [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
+
 After initiating treatment with PIQRAY, monitor fasting glucose (FPG or fasting blood glucose) at least once every week for the first 2 weeks, then at least once every 4 weeks, and as clinically indicated.
 Monitor HbA1c every 3 months and as clinically indicated.
 In patients with risk factors for hyperglycemia, monitor fasting glucose more closely and as clinically indicated [see Warnings and Precautions (5.3)].
@@ -68,7 +71,7 @@ Table 3: Dose Modification and Management for Hyperglycemia
 
 | [see Warnings and Precautions (5.3)] |  |
 | --- | --- |
-| Fasting Plasma Glucose (FPG)/Fasting Blood Glucose Values1 | Recommendation |
+| Fasting plasma glucose (FPG)/Fasting blood glucose values1 | Recommendation |
 | Dose modifications and management should only be based on fasting glucose values (FPG or fasting blood glucose). |  |
 | Grade 1 Fasting glucose > ULN -160 mg/dL or > ULN -8.9 mmol/L | No PIQRAY dose adjustment required. Initiate or intensify anti-hyperglycemic treatment2. |
 | Grade 2 Fasting glucose > 160-250 mg/dL or > 8.9-13.9 mmol/L | No PIQRAY dose adjustment required. Initiate or intensify anti-hyperglycemic treatment2. If fasting glucose does not decrease to ≤ 160 mg/dL or 8.9 mmol/L within 21 days under appropriate anti-hyperglycemic treatment2,3, reduce PIQRAY dose by 1 dose level and follow fasting glucose value specific recommendations. |

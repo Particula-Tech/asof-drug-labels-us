@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL
 
 NDC 0078-0708-02
 
@@ -17,13 +17,13 @@ Swallow tablets whole.
 DO NOT chew, crush, or split tablets.
 See prescribing information for complete dosage information.
 
-28-Day Supply
+28-Day Supply (56 Tablets)
 
-Contains: Two 14-day blister packs each containing 28 tablets
+Contains: Two 14-day blister packs each containing 28 tablets (56 tablets total)
 
 NOVARTIS
 
-PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL
 
 NDC 0078-0715-02
 
@@ -42,9 +42,9 @@ Swallow tablets whole.
 DO NOT chew, crush, or split tablets.
 See prescribing information for complete dosage information.
 
-28-Day Supply
+28-Day Supply (56 Tablets)
 
-Contains: Two 14-day blister packs each containing 28 tablets:
+Contains: Two 14-day blister packs each containing 28 tablets (56 tablets total)
 
 200 mg 14 tablets per pack
 
@@ -52,7 +52,7 @@ Contains: Two 14-day blister packs each containing 28 tablets:
 
 NOVARTIS
 
-PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL
 
 NDC 0078-0701-84
 

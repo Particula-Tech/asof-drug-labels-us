@@ -59,6 +59,9 @@ Patients with a medical history of controlled Type 2 diabetes were included.
 Patients with a history of diabetes mellitus may require intensified hyperglycemic treatment.
 Closely monitor patients with diabetes.
 
+Consider premedication with metformin prior to the initiation of PIQRAY in combination with fulvestrant based on patient risk factors for hyperglycemia, gastrointestinal tolerability, and clinical situation.
+In the METALLICA study, use of metformin starting 7 days prior to the initiation of PIQRAY appeared to decrease the incidence and severity of hyperglycemia events, but increased the incidence and severity of nausea, vomiting, and diarrhea adverse reactions [see Adverse Reactions (6.1)].
+
 Based on the severity of the hyperglycemia, PIQRAY may require dose interruption, reduction, or discontinuation as described in Table 3 [see Dosage and Administration (2.3)].
 
 Advise patients of the signs and symptoms of hyperglycemia (e.g., excessive thirst, urinating more often than usual or higher amount of urine than usual, or increased appetite with weight loss).
