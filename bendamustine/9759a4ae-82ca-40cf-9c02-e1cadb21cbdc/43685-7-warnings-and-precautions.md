@@ -15,7 +15,7 @@ Prior to the initiation of the next cycle of therapy, the ANC should be ≥ 1 x 
 
 ## 5.2 Infections
 
-Infection, including pneumonia, sepsis, septic shock, hepatitis and death has occurred in adult and pediatric patients in clinical trials and in postmarketing reports for bendamustine hydrochloride [see Adverse Reactions (6.1)].
+Infection, including pneumonia, sepsis, septic shock, hepatitis and death has occurred in adult and pediatric patients in clinical trials and in postmarketing reports for bendamustine hydrochloride [see Adverse Reactions (6.1, 6.2)].
 Patients with myelosuppression following treatment with bendamustine hydrochloride are more susceptible to infections.
 Advise patients with myelosuppression following BELRAPZO treatment to contact a physician immediately if they have symptoms or signs of infection.
 
@@ -52,7 +52,7 @@ However, there may be an increased risk of severe skin toxicity when bendamustin
 
 ## 5.6 Skin Reactions
 
-Fatal and serious skin reactions have been reported with bendamustine hydrochloride treatment in clinical trials and postmarketing safety reports, including toxic skin reactions [Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS), bullous exanthema, and rash [see Adverse Reactions (6.1) and (6.2)].
+Fatal and serious skin reactions have been reported with bendamustine hydrochloride treatment in clinical trials and postmarketing safety reports, including toxic skin reactions [Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS), bullous exanthema, and rash [see Adverse Reactions (6.1 and 6.2)].
 Events occurred when bendamustine hydrochloride was given as a single agent and in combination with other anticancer agents or allopurinol.
 
 Where skin reactions occur, they may be progressive and increase in severity with further treatment.
@@ -61,7 +61,7 @@ If skin reactions are severe or progressive, withhold or discontinue BELRAPZO.
 
 ## 5.7 Hepatotoxicity
 
-Fatal and serious cases of liver injury have been reported with bendamustine hydrochloride injection.
+Fatal and serious cases of liver injury have been reported with bendamustine hydrochloride injection [see Adverse Reactions (6.1)].
 Combination therapy, progressive disease or reactivation of hepatitis B were confounding factors in some patients.
 [see Warnings and Precautions (5.2)] Most cases were reported within the first three months of starting therapy.
 Monitor liver chemistry tests prior to and during BELRAPZO therapy.

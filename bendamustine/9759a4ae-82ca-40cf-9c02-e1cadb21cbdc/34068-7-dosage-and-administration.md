@@ -17,13 +17,9 @@ Consider dosage re-escalation in subsequent cycles at the discretion of the trea
 
 ## 2.2 Dosing Instructions for NHL
 
-Recommended Dosage:
+Recommended Dosage: The recommended dosage is 120 mg/m2 administered intravenously over 60 minutes on Days 1 and 2 of a 21-day cycle, up to 8 cycles.
 
-The recommended dosage is 120 mg/m2 administered intravenously over 60 minutes on Days 1 and 2 of a 21-day cycle, up to 8 cycles.
-
-Dose Delays, Dosage Modifications and Reinitiation of Therapy for NHL:
-
-Delay BELRAPZO administration in the event of a Grade 4 hematologic toxicity or clinically significant greater or equal to Grade 2 non-hematologic toxicity.
+Dose Delays, Dosage Modifications and Reinitiation of Therapy for NHL: Delay BELRAPZO administration in the event of a Grade 4 hematologic toxicity or clinically significant greater or equal to Grade 2 non-hematologic toxicity.
 Once non-hematologic toxicity has recovered to ≤ Grade 1 and/or the blood counts have improved [Absolute Neutrophil Count (ANC) ≥ 1 x 109/L, platelets ≥ 75 x 109/L], reinitiate BELRAPZO at the discretion of the treating physician.
 In addition, consider dose reduction.
 [see Warnings and Precautions (5.1)]
@@ -47,10 +43,7 @@ Do not use the product if solid or particulate matter is observed after reaching
 
 Intravenous Infusion
 
-Aseptically withdraw the volume needed for the required dose from the 25 mg/mL solution as per Table A below and immediately transfer to a 500 mL infusion bag of one of the following diluents:
-
-- 0.9% Sodium Chloride Injection, USP; or
-- 2.5% Dextrose/0.45% Sodium Chloride Injection, USP.
+Aseptically withdraw the volume needed for the required dose from the 25 mg/mL solution as per Table A below and immediately transfer to a 500 mL infusion bag of one of the following diluents: - 0.9% Sodium Chloride Injection, USP; or - 2.5% Dextrose/0.45% Sodium Chloride Injection, USP.
 
 The resulting final concentration of bendamustine HCl in the infusion bag should be within 0.05 to 0.7 mg/mL.
 After transferring, thoroughly mix the contents of the infusion bag.

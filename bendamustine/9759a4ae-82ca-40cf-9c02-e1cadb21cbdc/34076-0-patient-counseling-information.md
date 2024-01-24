@@ -30,20 +30,14 @@ Patients should report diarrhea to the physician so that symptomatic treatment m
 
 Non-melanoma Skin Cancer (NMSC) Advise patients to undergo regular skin cancer screenings, and to report any suspicious skin changes to their healthcare provider [see Warnings and Precautions (5.8)]
 
-Embryo-Fetal Toxicity
-
-Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+Embryo-Fetal Toxicity Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
 Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.10), Use in Specific Populations (8.1, 8.3), and Nonclinical Toxicology (13.1)].
 Advise female patients of reproductive potential to use effective contraception during treatment with BELRAPZO and for 6 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
 Advise males with female partners of reproductive potential to use effective contraception during treatment with BELRAPZO and for 3 months after the last dose [see Use in Specific Populations (8.3), and Nonclinical Toxicology (13.1)].
 
-Lactation
+Lactation Advise females not to breastfeed during treatment with BELRAPZO and for 1 week after the last dose [see Use in Specific Populations (8.2)].
 
-Advise females not to breastfeed during treatment with BELRAPZO and for 1 week after the last dose [see Use in Specific Populations (8.2)].
-
-Infertility
-
-Advise males of reproductive potential that BELRAPZO may impair fertility [see Use in Specific Populations (8.3)].
+Infertility Advise males of reproductive potential that BELRAPZO may impair fertility [see Use in Specific Populations (8.3)].
 
 Marketed by Eagle Pharmaceuticals, Inc. 50 Tice Boulevard, Suite 315 Woodcliff Lake, NJ
 
