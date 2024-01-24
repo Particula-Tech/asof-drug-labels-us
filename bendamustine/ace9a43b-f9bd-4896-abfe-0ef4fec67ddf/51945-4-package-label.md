@@ -28,7 +28,7 @@ Must be diluted prior to administration.
 
 For Intravenous Infusion Only
 
-Store in refrigerator, 2® to 8®C (36® to 46 ®F).
+Store in refrigerator, 2° to 8°C (36° to 46 °F).
 Retain in original carton until time of use to protect from light.
 See package insert for dosing and dilution information.
 
@@ -64,7 +64,7 @@ Must be diluted prior to administration.
 
 For Intravenous Infusion Only
 
-Store in refrigerator, 2® to 8®C (36® to 46 ®F).
+Store in refrigerator, 2° to 8°C (36° to 46 °F).
 Retain in original carton until time of use to protect from light.
 See package insert for dosing and dilution information.
 

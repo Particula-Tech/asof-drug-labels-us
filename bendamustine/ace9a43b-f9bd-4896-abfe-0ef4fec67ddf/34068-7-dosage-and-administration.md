@@ -2,13 +2,9 @@
 
 ## 2.1 Dosing Instructions for CLL
 
-Recommended Dosage:
+Recommended Dosage: The recommended dosage is 100 mg/m2 administered intravenously over 10 minutes on Days 1 and 2 of a 28-day cycle, up to 6 cycles.
 
-The recommended dosage is 100 mg/m2 administered intravenously over 10 minutes on Days 1 and 2 of a 28-day cycle, up to 6 cycles.
-
-Dose Delays, Dosage Modifications and Reinitiation of Therapy for CLL:
-
-Delay BENDEKA administration in the event of Grade 4 hematologic toxicity or clinically significant greater than or equal to Grade 2 non-hematologic toxicity.
+Dose Delays, Dosage Modifications and Reinitiation of Therapy for CLL: Delay BENDEKA administration in the event of Grade 4 hematologic toxicity or clinically significant greater than or equal to Grade 2 non-hematologic toxicity.
 Once non-hematologic toxicity has recovered to less than or equal to Grade 1 and/or the blood counts have improved [Absolute Neutrophil Count (ANC) greater than or equal to 1 x 109/L, platelets greater than or equal to 75 x 109/L], reinitiate BENDEKA (bendamustine hydrochloride) injection at the discretion of the treating physician.
 In addition, consider dose reduction.
 [see Warnings and Precautions (5.1)]
@@ -21,13 +17,9 @@ Consider dosage re-escalation in subsequent cycles at the discretion of the trea
 
 ## 2.2 Dosing Instructions for NHL
 
-Recommended Dosage:
+Recommended Dosage: The recommended dose is 120 mg/m2 administered intravenously over 10 minutes on Days 1 and 2 of a 21-day cycle, up to 8 cycles.
 
-The recommended dose is 120 mg/m2 administered intravenously over 10 minutes on Days 1 and 2 of a 21-day cycle, up to 8 cycles.
-
-Dose Delays, Dosage Modifications and Reinitiation of Therapy for NHL:
-
-Delay BENDEKA administration in the event of a Grade 4 hematologic toxicity or clinically significant greater than or equal to Grade 2 non-hematologic toxicity.
+Dose Delays, Dosage Modifications and Reinitiation of Therapy for NHL: Delay BENDEKA administration in the event of a Grade 4 hematologic toxicity or clinically significant greater than or equal to Grade 2 non-hematologic toxicity.
 Once non-hematologic toxicity has recovered to less than or equal to Grade 1 and/or the blood counts have improved [Absolute Neutrophil Count (ANC) greater than or equal to 1 x 109/L, platelets greater than or equal to 75 x 109/L], reinitiate BENDEKA at the discretion of the treating physician.
 In addition, consider dose reduction.
 [see Warnings and Precautions (5.1)]

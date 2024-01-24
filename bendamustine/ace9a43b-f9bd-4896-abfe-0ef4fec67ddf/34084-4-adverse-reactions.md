@@ -2,15 +2,15 @@
 
 The following clinically significant adverse reactions have been associated with bendamustine hydrochloride in clinical trials and are discussed in greater detail in other sections of the prescribing information.
 
-- Myelosuppression [see (Warnings and Precautions 5.1)]
-- Infections [see (Warnings and Precautions 5.2)]
-- Progressive Multifocal Leukoencephalopathy [see (Warnings and Precautions 5.3)]
-- Anaphylaxis and Infusion Reactions[see (Warnings and Precautions 5.4)]
-- Tumor Lysis Syndrome [see (Warnings and Precautions 5.5)]
-- Skin Reactions [see (Warnings and Precautions 5.6)]
-- Hepatotoxicity [see (Warnings and Precautions 5.7)]
-- Other Malignancies [see (Warnings and Precautions 5.8)]
-- Extravasation Injury [see (Warnings and Precautions 5.9)]
+- Myelosuppression [see Warnings and Precautions (5.1)]
+- Infections [see Warnings and Precautions (5.2)]
+- Progressive Multifocal Leukoencephalopathy [see Warnings and Precautions (5.3)]
+- Anaphylaxis and Infusion Reactions[see Warnings and Precautions (5.4)]
+- Tumor Lysis Syndrome [see Warnings and Precautions (5.5)]
+- Skin Reactions [see Warnings and Precautions (5.6)]
+- Hepatotoxicity [see Warnings and Precautions (5.7)]
+- Other Malignancies [see Warnings and Precautions (5.8)]
+- Extravasation Injury [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -224,6 +224,8 @@ General disorders and administration site conditions: Injection site reactions (
 Immune system disorders: Anaphylaxis.
 
 Infections and infestations: Pneumocystis jirovecii pneumonia, progressive multifocal leukoencephalopathy (PML).
+
+Renal and urinary disorders: Nephrogenic diabetes insipidus (NDI).
 
 Respiratory, thoracic and mediastinal disorders: Pneumonitis.
 
