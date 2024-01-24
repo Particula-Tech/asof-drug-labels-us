@@ -48,7 +48,7 @@ Embryo-Fetal Toxicity
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
 Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.10), Use in Specific Populations (8.1, 8.3), and Nonclinical Toxicology (13.1)].
 Advise female patients of reproductive potential to use effective contraception during treatment with bendamustine hydrochloride injection and for 6 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
-Advise males with female partners of reproductive potential to use effective contraception during treatment with bendamustine hydrochloride injection and for at 3 months after the last dose [see Use in Specific Populations (8.3), and Nonclinical Toxicology (13.1)].
+Advise males with female partners of reproductive potential to use effective contraception during treatment with bendamustine hydrochloride injection and for 3 months after the last dose [see Use in Specific Populations (8.3), and Nonclinical Toxicology (13.1)].
 
 Lactation
 
@@ -58,7 +58,11 @@ Infertility
 
 Advise males of reproductive potential that bendamustine hydrochloride injection may impair fertility [see Use in Specific Populations (8.3)].
 
-| Manufactured by: |  | Manufactured for: |
-| --- | --- | --- |
-| MSN Laboratories Private Limited, India |  | Apotex Corp. |
-| ML No. 5/MN/TS/2014/F/G |  | Weston, Florida 33326 |
+| Manufactured by: | Manufactured for: |
+| --- | --- |
+| MSN Laboratories Private Limited, India | Apotex Corp. |
+| ML No. 5/MN/TS/2014/F/G | Weston, Florida 33326 |
+
+January 2024
+
+Rev 1

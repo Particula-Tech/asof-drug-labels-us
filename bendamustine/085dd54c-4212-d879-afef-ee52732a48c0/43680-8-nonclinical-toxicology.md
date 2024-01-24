@@ -11,4 +11,4 @@ In a reverse bacterial mutation assay (Ames assay), bendamustine was shown to in
 Bendamustine was clastogenic in human lymphocytes in vitro, and in rat bone marrow cells in vivo (increase in micronucleated polychromatic erythrocytes) from 37.5 mg/m2 (the lowest dose tested, approximately 0.3 times the MRHD).
 
 Bendamustine induced morphologic abnormalities in spermatozoa in mice.
-Following tail vein injection of bendamustine at 120 mg/m2 or a saline control on days 1 and 2 for a total of three weeks, the number of spermatozoa with morphologic abnormalities was 16% higher in the bendamustine-treated group as compared to the saline control group.
+Following tail vein injection of bendamustine at 120 mg/m2 or a saline control on days 1 and 2 for a total of 3 weeks, the number of spermatozoa with morphologic abnormalities was 16% higher in the bendamustine-treated group as compared to the saline control group.

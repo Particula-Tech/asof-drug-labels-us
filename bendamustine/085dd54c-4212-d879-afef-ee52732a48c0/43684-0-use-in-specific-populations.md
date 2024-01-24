@@ -10,7 +10,7 @@ Advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Data
 
@@ -61,17 +61,17 @@ The long-term effects of bendamustine hydrochloride injection on male fertility,
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
+
 Safety, pharmacokinetics and efficacy were assessed in a single open-label trial (NCT01088984) in patients aged 1 to 19 years with relapsed or refractory acute leukemia, including 27 patients with acute lymphocytic leukemia (ALL) and 16 patients with acute myeloid leukemia (AML).
 Bendamustine hydrochloride was administered as an intravenous infusion over 60 minutes on Days 1 and 2 of each 21-day cycle.
-There was no treatment response (CR+ CRp) in any patient The safety profile in these patients was consistent with that seen in adults, and no new safety signals were identified.
+There was no treatment response (CR+ CRp) in any patient.
+The safety profile in these patients was consistent with that seen in adults, and no new safety signals were identified.
 
 The pharmacokinetics of bendamustine in 43 patients, aged 1 to 19 years (median age of 10 years) were within range of values previously observed in adults given the same dose based on body surface area.
 
 ## 8.5 Geriatric Use
 
 No overall differences in safety were observed between patients ≥65 years of age and younger patients.
-Efficacy was lower in patients 65 and over with CLL receiving bendamustine hydrochloride based upon an overall response rate of 47% for patients 65 and over and 70% for younger patients.
-Progression free survival was also longer in younger patients with CLL receiving bendamustine hydrochloride (19 months vs. 12 months).
 No overall differences in efficacy in patients with non-Hodgkin Lymphoma were observed between geriatric patients and younger patients.
 
 ## 8.6 Renal Impairment

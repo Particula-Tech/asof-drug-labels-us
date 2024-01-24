@@ -28,7 +28,7 @@ The dose proportionality of bendamustine has not been studied.
 
 Distribution
 
-The protein binding of bendamustine ranged from 94 to 96% and was concentration independent from 1 to 50 mcg/mL.
+The protein binding of bendamustine ranged from 94% to 96% and was concentration independent from 1 to 50 mcg/mL.
 The blood to plasma concentration ratios in human blood ranged from 0.84 to 0.86 over a concentration range of 10 to 100 mcg/mL.
 
 The mean steady-state volume of distribution (Vss) of bendamustine was approximately 20 to 25 L.

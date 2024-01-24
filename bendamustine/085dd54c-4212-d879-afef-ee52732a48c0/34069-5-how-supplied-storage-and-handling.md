@@ -18,5 +18,5 @@ NDC 60505-6228-0: 100 mg/4 mL (25 mg/mL).
 
 Storage
 
-Store Bendamustine hydrochloride injection in refrigerator, 2ºC to 8ºC (36ºF to 46ºF).
+Store bendamustine hydrochloride injection in refrigerator, 2ºC to 8ºC (36ºF to 46ºF).
 Retain in original carton until contents are used to protect from light.

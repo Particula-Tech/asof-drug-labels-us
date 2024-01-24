@@ -1,24 +1,5 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosing Instructions for CLL
-
-Recommended Dosage:
-
-The recommended dosage is 100 mg/m2 administered intravenously over 30 minutes on Days 1 and 2 of a 28-day cycle, up to 6 cycles.
-
-Dose Delays, Dosage Modifications and Reinitiation of Therapy for CLL:
-
-Delay bendamustine hydrochloride injection administration in the event of Grade 4 hematologic toxicity or clinically significant ≥ Grade 2 non-hematologic toxicity.
-Once non-hematologic toxicity has recovered to less than or equal to Grade 1 and/or the blood counts have improved [Absolute Neutrophil Count (ANC) ≥ 1 x 109/L, platelets ≥ 75 x 109/L], reinitiate bendamustine hydrochloride injection at the discretion of the treating physician.
-In addition, consider dose reduction.
-[see Warnings and Precautions (5.1)]
-
-Dosage modifications for hematologic toxicity: for Grade 3 or greater toxicity, reduce the dose to 50 mg/m2 on Days 1 and 2 of each cycle; if Grade 3 or greater toxicity recurs, reduce the dose to 25 mg/m2 on Days 1 and 2 of each cycle.
-
-Dosage modifications for non-hematologic toxicity: for clinically significant Grade 3 or greater toxicity, reduce the dose to 50 mg/m2 on Days 1 and 2 of each cycle.
-
-Consider dosage re-escalation in subsequent cycles at the discretion of the treating physician.
-
 ## 2.2 Dosing Instructions for NHL
 
 Recommended Dosage:
@@ -27,7 +8,7 @@ The recommended dosage is 120 mg/m2 administered intravenously over 60 minutes o
 
 Dose Delays, Dosage Modifications and Reinitiation of Therapy for NHL:
 
-Delay bendamustine hydrochloride injection administration in the event of a Grade 4 hematologic toxicity or clinically significant greater than or equal to Grade 2 non-hematologic toxicity.
+Delay bendamustine hydrochloride injection administration in the event of a Grade 4 hematologic toxicity or clinically significant greater or equal to Grade 2 non-hematologic toxicity.
 Once non-hematologic toxicity has recovered to ≤ Grade 1 and/or the blood counts have improved [Absolute Neutrophil Count (ANC) ≥ 1 x 109/L, platelets ≥ 75 x 109/L], reinitiate bendamustine hydrochloride injection at the discretion of the treating physician.
 In addition, consider dose reduction.
 [see Warnings and Precautions (5.1)]
@@ -63,7 +44,7 @@ The admixture should be a clear and colorless to slightly yellow solution.
 Use either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, for dilution, as outlined above.
 No other diluents have been shown to be compatible.
 
-Table A: Volume (mL) of Bendamustine Hydrochloride Injection required for diluation into 500 mL of 0.9% Sodium Chloride Injection, USP, or 0.45% Sodiun Chloride/2.5% Dextrose Injection, USP for a given dose (mg/m2) and Body Surface Area (m2)
+Table A: Volume (mL) of Bendamustine Hydrochloride Injection required for dilution into 500 mL of 0.9% Sodium Chloride Injection, USP, or 0.45% Sodium Chloride/2.5% Dextrose Injection, USP for a given dose (mg/m2) and Body Surface Area (m2)
 
 | Body Surface Area (m2) | Volume of Bendamustine Hydrochloride Injection to withdraw (mL) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |

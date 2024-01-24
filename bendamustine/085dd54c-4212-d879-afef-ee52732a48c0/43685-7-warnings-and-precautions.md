@@ -2,7 +2,7 @@
 
 ## 5.1 Myelosuppression
 
-Bendamustine hydrochloride caused severe myelosuppression (Grade 3 to -4) in 98% of patients in the two NHL studies [Adverse Reactions (6.1)].
+Bendamustine hydrochloride caused severe myelosuppression (Grade 3 to 4) in 98% of patients in the two NHL studies [Adverse Reactions (6.1)].
 Three patients (2%) died from myelosuppression-related adverse reactions; one each from neutropenic sepsis, diffuse alveolar hemorrhage with Grade 3 thrombocytopenia, and pneumonia from an opportunistic infection (CMV).
 
 Bendamustine hydrochloride injection causes myelosuppression.
@@ -11,7 +11,7 @@ In the clinical trials, blood counts were monitored every week initially.
 Hematologic nadirs were observed predominantly in the third week of therapy.
 Myelosuppression may require dose delays and/or subsequent dose reductions if recovery to the recommended values has not occurred by the first day of the next scheduled cycle.
 Prior to the initiation of the next cycle of therapy, the ANC should be ≥ 1 x 109/L and the platelet count should be ≥ 75 x 109/L.
-[see Dosage and Administration (2.1) and (2.2)].
+[see Dosage and Administration (2.2)].
 
 ## 5.2 Infections
 
@@ -51,7 +51,7 @@ However, there may be an increased risk of severe skin toxicity when bendamustin
 
 ## 5.6 Skin Reactions
 
-Fatal and serious skin reactions have been reported with bendamustine hydrochloride treatment in clinical trials and postmarketing safety reports, including toxic skin reactions [Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS)], bullous exanthema, and rash [see Adverse Reactions (6.1 and 6.2)].
+Fatal and serious skin reactions have been reported with bendamustine hydrochloride treatment in clinical trials and postmarketing safety reports, including toxic skin reactions [Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS), bullous exanthema, and rash [see Adverse Reactions (6.1 and 6.2)].
 Events occurred when bendamustine hydrochloride was given as a single agent and in combination with other anticancer agents or allopurinol.
 
 Where skin reactions occur, they may be progressive and increase in severity with further treatment.
