@@ -3,12 +3,11 @@
 Methadone hydrochloride tablets are indicated for the:
 
 1.
-Management of pain severe enough to require daily, around-the-clock, long-term opioid treatment and for which alternative treatment options are inadequate.
+Management of severe and persistent pain that requires an extended treatment period with daily opioid analgesic and for which alternative treatment options are inadequate.
 
 Limitations of Use
 
-- Because of the risks of addiction, abuse, and misuse with opioids, even at recommended doses, and because of the greater risks of overdose and death with long-acting opioids [see Warnings and Precautions (5.1)], reserve methadone hydrochloride tablets for use in patients for whom alternative analgesic treatment options (e.g., non-opioid analgesics or immediate-release opioid analgesics) are ineffective, not tolerated, or would be otherwise inadequate to provide sufficient management of pain.
-
+- Because of the risks of addiction, abuse, and misuse with opioids, which can occur at any dosage or duration [see Warnings and Precautions (5.1)], reserve methadone hydrochloride tablets for use in patients for whom alternative analgesic treatment options (e.g., non-opioid analgesics or immediate-release opioid analgesics) are ineffective, not tolerated, or would be otherwise inadequate to provide sufficient management of pain.
 - Methadone hydrochloride tablets are not indicated as an as-needed (prn) analgesic.
 
 2.
