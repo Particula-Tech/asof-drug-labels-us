@@ -1,4 +1,4 @@
-# 6ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The pattern of adverse effects seen with dicylomine is mostly related to its pharmacological actions at muscarinic receptors [see Clinical Pharmacology (12)].
 They are a consequence of the inhibitory effect on muscarinic receptors within the autonomic nervous system.
@@ -6,7 +6,7 @@ These effects are dose-related and are usually reversible when treatment is disc
 
 The most serious adverse reactions reported with dicyclomine hydrochloride include cardiovascular and central nervous system symptoms [see Warnings and Precautions (5.2, 5.3)].
 
-## 6.1Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -31,7 +31,7 @@ Nine percent (9%) of patients were discontinued from BENTYL because of one or mo
 In 41% of the patients with side effects, side effects disappeared or were tolerated at the 160 mg daily dose without reduction.
 A dose reduction from 160 mg daily to an average daily dose of 90 mg was required in 46% of the patients with side effects who then continued to experience a favorable clinical response; their side effects either disappeared or were tolerated.
 
-## 6.2Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions, presented by system organ class in alphabetical order, have been identified during post approval use of BENTYL.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -50,7 +50,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Cases of thrombosis, thrombophlebitis and injection site reactions such as local pain, edema, skin color change and even reflex sympathetic dystrophy syndrome have been reported following Inadvertent IV injection of BENTYL.
 
-## 6.3Adverse Reactions Reported with Similar Drugs with Anticholinergic/Antispasmodic Action
+## 6.3 Adverse Reactions Reported with Similar Drugs with Anticholinergic/Antispasmodic Action
 
 Gastrointestinal: anorexia
 

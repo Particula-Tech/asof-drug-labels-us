@@ -1,4 +1,4 @@
-# 11DESCRIPTION
+# 11 DESCRIPTION
 
 BENTYL is an antispasmodic and anticholinergic (antimuscarinic) agent available in the following dosage form:
 

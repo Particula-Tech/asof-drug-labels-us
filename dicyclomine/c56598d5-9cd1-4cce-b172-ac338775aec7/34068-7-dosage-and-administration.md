@@ -1,8 +1,8 @@
-# 2DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 Dosage must be adjusted to individual patient needs.
 
-## 2.1Intramuscular Dosage and Administration in Adults
+## 2.1 Intramuscular Dosage and Administration in Adults
 
 BENTYL Intramuscular Injection must be administered via intramuscular route only.
 Do not administer by any other route.
@@ -13,7 +13,7 @@ The intramuscular injection is to be used only for 1 or 2 days when the patient 
 
 Intramuscular injection is about twice as bioavailable as oral dosage forms.
 
-## 2.2Preparation for Intramuscular Administration
+## 2.2 Preparation for Intramuscular Administration
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 

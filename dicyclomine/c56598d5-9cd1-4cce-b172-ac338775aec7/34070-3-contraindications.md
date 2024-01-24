@@ -1,4 +1,4 @@
-# 4CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 BENTYL is contraindicated in infants less than 6 months of age [see Use in Specific Populations (8.4)], nursing mothers [see Use in Specific Populations (8.3)], and in patients with:
 

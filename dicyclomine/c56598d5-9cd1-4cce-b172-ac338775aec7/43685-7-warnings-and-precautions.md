@@ -1,18 +1,18 @@
-# 5WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
-## 5.1Inadvertent Intravenous Administration
+## 5.1 Inadvertent Intravenous Administration
 
 BENTYL solution is for intramuscular administration only.
 Do not administer by any other route.
 Inadvertent intravenous administration may result in thrombosis, thrombophlebitis, and injection site reactions such as pain, edema, skin color change, and reflex sympathetic dystrophy syndrome [see Adverse Reactions (6.2)].
 
-## 5.2Cardiovascular Conditions
+## 5.2 Cardiovascular Conditions
 
 Dicyclomine hydrochloride needs to be used with caution in conditions characterized by tachyarrhythmia such as thyrotoxicosis, congestive heart failure and in cardiac surgery, where they may further accelerate the heart rate.
 Investigate any tachycardia before administration of dicyclomine hydrochloride.
 Care is required in patients with coronary heart disease, as ischemia and infarction may be worsened, and in patients with hypertension [see Adverse Reactions (6.3)].
 
-## 5.3Peripheral and Central Nervous System
+## 5.3 Peripheral and Central Nervous System
 
 The peripheral effects of dicyclomine hydrochloride are a consequence of their inhibitory effect on muscarinic receptors of the autonomic nervous system.
 They include dryness of the mouth with difficulty in swallowing and talking, thirst, reduced bronchial secretions, dilatation of the pupils (mydriasis) with loss of accommodation (cycloplegia) and photophobia, flushing and dryness of the skin, transient bradycardia followed by tachycardia, with palpitations and arrhythmias, and difficulty in micturition, as well as reduction in the tone and motility of the gastrointestinal tract leading to constipation [see Adverse Reactions (6)].
@@ -30,12 +30,12 @@ These CNS signs and symptoms usually resolve within 12 to 24 hours after discont
 BENTYL may produce drowsiness, dizziness or blurred vision.
 The patient should be warned not to engage in activities requiring mental alertness, such as operating a motor vehicle or other machinery or performing hazardous work while taking BENTYL.
 
-## 5.4Myasthenia Gravis
+## 5.4 Myasthenia Gravis
 
 With overdosage, a curare-like action may occur (i.e., neuromuscular blockade leading to muscular weakness and possible paralysis).
 It should not be given to patients with myasthenia gravis except to reduce adverse muscarinic effects of an anticholinesterase [see Contraindications (4)].
 
-## 5.5Intestinal Obstruction
+## 5.5 Intestinal Obstruction
 
 Diarrhea may be an early symptom of incomplete intestinal obstruction, especially in patients with ileostomy or colostomy.
 In this instance, treatment with this drug would be inappropriate and possibly harmful [see Contraindications (4)].
@@ -43,24 +43,24 @@ In this instance, treatment with this drug would be inappropriate and possibly h
 Rarely development of Ogilvie’s syndrome (colonic pseudo-obstruction) has been reported.
 Ogilvie’s syndrome is a clinical disorder with signs, symptoms, and radiographic appearance of an acute large bowel obstruction but with no evidence of distal colonic obstruction.
 
-## 5.6Toxic Dilatation of Intestinemegacolon
+## 5.6 Toxic Dilatation of Intestinemegacolon
 
 Toxic dilatation of intestine and intestinal perforation is possible when anticholinergic agents are administered in patients with Salmonella dysentery.
 
-## 5.7Ulcerative Colitis
+## 5.7 Ulcerative Colitis
 
 Caution should be taken in patients with ulcerative colitis.
 Large doses may suppress intestinal motility to the point of producing a paralytic ileus and the use of this drug may precipitate or aggravate the serious complication of toxic megacolon [see Adverse Reactions (6.3)].
 BENTYL is contraindicated in patients with severe ulcerative colitis [see Contraindications (4)].
 
-## 5.8Prostatic Hypertrophy
+## 5.8 Prostatic Hypertrophy
 
 BENTYL should be used with caution in patients with known or suspected prostatic enlargement, in whom prostatic enlargement may lead to urinary retention [see Adverse Reactions (6.3)].
 
-## 5.9Hepatic and Renal Disease
+## 5.9 Hepatic and Renal Disease
 
 BENTYL should be used with caution in patients with known hepatic and renal impairment.
 
-## 5.10Geriatric Population
+## 5.10 Geriatric Population
 
 Dicyclomine hydrochloride should be used with caution in elderly who may be more susceptible to its adverse effects.

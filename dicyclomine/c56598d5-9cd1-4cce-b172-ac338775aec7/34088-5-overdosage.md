@@ -1,4 +1,4 @@
-# 10OVERDOSAGE
+# 10 OVERDOSAGE
 
 In case of an overdose, patients should contact a physician, poison control center (1-800-222-1222), or emergency room.
 
