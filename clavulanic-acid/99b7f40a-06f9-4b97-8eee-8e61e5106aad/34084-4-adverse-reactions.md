@@ -64,10 +64,10 @@ There have been reports of increased prothrombin time in patients receiving amox
 
 Central Nervous System
 
-Agitation, anxiety, behavioral changes, aseptic meningitis, confusion, convulsions, dizziness, insomnia, and reversible hyperactivity have been reported rarely.
+Agitation, anxiety, behavioral changes, aseptic meningitis, confusion, convulsions, dizziness, insomnia, and reversible hyperactivity have been reported.
 
 Miscellaneous
 
-Tooth discoloration (brown, yellow, or gray staining) has been rarely reported.
+Tooth discoloration (brown, yellow, or gray staining) has been reported.
 Most reports occurred in pediatric patients.
 Discoloration was reduced or eliminated with brushing or dental cleaning in most cases.
