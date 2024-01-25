@@ -39,37 +39,37 @@ Adverse Experiences Reported in Pediatric Patients Aged 6 to 11 Years in Placebo
 The following events were observed infrequently (less than 2%), in either 3982 adults and children 12 years and older or in 659 pediatric patients aged 6 to 11 years who received cetirizine hydrochloride in U.S. trials, including an open adult study of six months duration.
 A causal relationship of these infrequent events with cetirizine hydrochloride administration has not been established.
 
-Autonomic Nervous System: anorexia, flushing, increased salivation, urinary retention.
+Autonomic Nervous System:anorexia, flushing, increased salivation, urinary retention.
 
-Cardiovascular: cardiac failure, hypertension, palpitation, tachycardia.
+Cardiovascular:cardiac failure, hypertension, palpitation, tachycardia.
 
-Central and Peripheral Nervous Systems: abnormal coordination, ataxia, confusion, dysphonia, hyperesthesia, hyperkinesia, hypertonia, hypoesthesia, leg cramps, migraine, myelitis, paralysis, paresthesia, ptosis, syncope, tremor, twitching, vertigo, visual field defect.
+Central and Peripheral Nervous Systems:abnormal coordination, ataxia, confusion, dysphonia, hyperesthesia, hyperkinesia, hypertonia, hypoesthesia, leg cramps, migraine, myelitis, paralysis, paresthesia, ptosis, syncope, tremor, twitching, vertigo, visual field defect.
 
-Gastrointestinal: abnormal hepatic function, aggravated tooth caries, constipation, dyspepsia, eructation, flatulence, gastritis, hemorrhoids, increased appetite, melena, rectal hemorrhage, stomatitis including ulcerative stomatitis, tongue discoloration, tongue edema.
+Gastrointestinal:abnormal hepatic function, aggravated tooth caries, constipation, dyspepsia, eructation, flatulence, gastritis, hemorrhoids, increased appetite, melena, rectal hemorrhage, stomatitis including ulcerative stomatitis, tongue discoloration, tongue edema.
 
-Genitourinary: cystitis, dysuria, hematuria, micturition frequency, polyuria, urinary incontinence, urinary tract infection.
+Genitourinary:cystitis, dysuria, hematuria, micturition frequency, polyuria, urinary incontinence, urinary tract infection.
 
-Hearing and Vestibular: deafness, earache, ototoxicity, tinnitus.
+Hearing and Vestibular:deafness, earache, ototoxicity, tinnitus.
 
-Metabolic/Nutritional: dehydration, diabetes mellitus, thirst.
+Metabolic/Nutritional:dehydration, diabetes mellitus, thirst.
 
-Musculoskeletal: arthralgia, arthritis, arthrosis, muscle weakness, myalgia.
+Musculoskeletal:arthralgia, arthritis, arthrosis, muscle weakness, myalgia.
 
-Psychiatric: abnormal thinking, agitation, amnesia, anxiety, decreased libido, depersonalization, depression, emotional lability, euphoria, impaired concentration, insomnia, nervousness, paroniria, sleep disorder.
+Psychiatric:abnormal thinking, agitation, amnesia, anxiety, decreased libido, depersonalization, depression, emotional lability, euphoria, impaired concentration, insomnia, nervousness, paroniria, sleep disorder.
 
-Respiratory System: bronchitis, dyspnea, hyperventilation, increased sputum, pneumonia, respiratory disorder, rhinitis, sinusitis, upper respiratory tract infection.
+Respiratory System:bronchitis, dyspnea, hyperventilation, increased sputum, pneumonia, respiratory disorder, rhinitis, sinusitis, upper respiratory tract infection.
 
-Reproductive: dysmenorrhea, female breast pain, intermenstrual bleeding, leukorrhea, menorrhagia, vaginitis.
+Reproductive:dysmenorrhea, female breast pain, intermenstrual bleeding, leukorrhea, menorrhagia, vaginitis.
 
-Reticuloendothelial: lymphadenopathy.
+Reticuloendothelial:lymphadenopathy.
 
-Skin: acne, alopecia, angioedema, bullous eruption, dermatitis, dry skin, eczema, erythematous rash, furunculosis, hyperkeratosis, hypertrichosis, increased sweating, maculopapular rash, photosensitivity reaction, photosensitivity toxic reaction, pruritus, purpura, rash, seborrhea, skin disorder, skin nodule, urticaria.
+Skin:acne, alopecia, angioedema, bullous eruption, dermatitis, dry skin, eczema, erythematous rash, furunculosis, hyperkeratosis, hypertrichosis, increased sweating, maculopapular rash, photosensitivity reaction, photosensitivity toxic reaction, pruritus, purpura, rash, seborrhea, skin disorder, skin nodule, urticaria.
 
-Special Senses: parosmia, taste loss, taste perversion.
+Special Senses:parosmia, taste loss, taste perversion.
 
-Vision: blindness, conjunctivitis, eye pain, glaucoma, loss of accommodation, ocular hemorrhage, xerophthalmia.
+Vision:blindness, conjunctivitis, eye pain, glaucoma, loss of accommodation, ocular hemorrhage, xerophthalmia.
 
-Body as a Whole: accidental injury, asthenia, back pain, chest pain, enlarged abdomen, face edema, fever, generalized edema, hot flashes, increased weight, leg edema, malaise, nasal polyp, pain, pallor, periorbital edema, peripheral edema, rigors.
+Body as a Whole:accidental injury, asthenia, back pain, chest pain, enlarged abdomen, face edema, fever, generalized edema, hot flashes, increased weight, leg edema, malaise, nasal polyp, pain, pallor, periorbital edema, peripheral edema, rigors.
 
 Occasional instances of transient, reversible hepatic transaminase elevations have occurred during cetirizine therapy.
 Hepatitis with significant transaminase elevation and elevated bilirubin in association with the use of cetirizine hydrochloride has been reported.
