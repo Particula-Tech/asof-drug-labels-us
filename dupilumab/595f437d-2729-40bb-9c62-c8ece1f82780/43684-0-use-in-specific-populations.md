@@ -46,19 +46,22 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Atopic Dermatitis
 
-The safety and effectiveness of DUPIXENT have been established in pediatric patients 6 months of age and older with moderate-to-severe AD [see Clinical Studies (14.1)].
+The safety and effectiveness of DUPIXENT have been established in pediatric patients 6 months of age and older with moderate-to-severe AD, whose disease is not adequately controlled with topical prescription therapies or when those therapies are not advisable [see Clinical Studies (14.1)].
 
 Use of DUPIXENT in this age group is supported by data from the following clinical trials:
 
-- AD-1526 which included 251 pediatric subjects 12 to 17 years of age with moderate-to-severe AD treated with DUPIXENT
-- AD-1652 which included 367 pediatric subjects 6 to 11 years of age with severe AD treated with DUPIXENT + TCS
-- AD-1539 which included 161 pediatric subjects 6 months to 5 years of age with moderate-to-severe AD treated with DUPIXENT + TCS
-- AD-1434, an open-label extension study that enrolled 275 pediatric subjects 12 to 17 years of age treated with DUPIXENT, 368 pediatric subjects 6 to 11 years of age treated with DUPIXENT ± TCS, and 180 pediatric subjects 6 months to 5 years of age treated with DUPIXENT ± TCS
+- AD-1526 which included 251 pediatric subjects 12 to 17 years of age with moderate-to-severe AD.
+  Of the 251 subjects, 82 were treated with DUPIXENT 200 mg Q2W (<60 kg) or 300 mg Q2W (≥60 kg) and 85 were treated with matching placebo
+- AD-1652 which included 367 pediatric subjects 6 to 11 years of age with severe AD.
+  Of the 367 subjects, 120 were treated with DUPIXENT 300 mg Q4W + TCS (15 to <30 kg) or 200 mg Q2W + TCS (≥30 kg) and 123 were treated with matching placebo + TCS
+- AD-1539 which included 162 pediatric subjects 6 months to 5 years of age with moderate-to-severe AD.
+  Of the 162 subjects, 83 were treated with DUPIXENT 200 mg Q4W + TCS (5 to <15 kg) or 300 mg Q4W + TCS (15 to <30 kg) and 79 subjects were assigned to be treated with matching placebo + TCS
+- AD-1434, an open-label extension study that enrolled 275 pediatric subjects 12 to 17 years of age treated with DUPIXENT ± TCS, 368 pediatric subjects 6 to 11 years of age treated with DUPIXENT ± TCS, and 180 pediatric subjects 6 months to 5 years of age treated with DUPIXENT ± TCS
+- Liberty-AD-HAFT which included 27 pediatric subjects 12 to 17 years of age with atopic dermatitis with moderate-to-severe hand and/or foot involvement treated with DUPIXENT (N=14) or matching placebo (N=13)
 
 The safety and effectiveness were generally consistent between pediatric and adult patients [see Adverse Reactions (6.1) and Clinical Studies (14.1)].
 In addition, hand-foot-and-mouth disease was reported in 9 (5%) pediatric subjects and skin papilloma was reported in 4 (2%) pediatric subjects 6 months to 5 years of age treated with DUPIXENT ± TCS in AD-1434.
-These cases did not lead to study drug discontinuation.
-[see Adverse Reactions (6.1)].
+These cases did not lead to study drug discontinuation [see Adverse Reactions (6.1)].
 
 Safety and effectiveness in pediatric patients younger than 6 months of age with AD have not been established.
 
@@ -106,7 +109,7 @@ Safety and effectiveness in pediatric patients younger than 18 years of age with
 
 ## 8.5 Geriatric Use
 
-Of the 1472 subjects with AD exposed to DUPIXENT in a dose-ranging study and placebo-controlled trials, 67 subjects were 65 years or older.
+Of the 1539 subjects with AD exposed to DUPIXENT in a dose-ranging study and placebo-controlled trials, 70 subjects were 65 years or older.
 Clinical trials of DUPIXENT in AD did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects [see Clinical Pharmacology (12.3)].
 
 Of the 1977 subjects with asthma exposed to DUPIXENT, a total of 240 subjects were 65 years or older.

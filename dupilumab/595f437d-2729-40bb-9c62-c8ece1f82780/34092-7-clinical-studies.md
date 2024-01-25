@@ -158,11 +158,39 @@ Table 14: Efficacy Results of DUPIXENT with Concomitant TCS in AD-1539 at Week 1
 
 |  | (N=83) | (N=79) |  |
 | --- | --- | --- | --- |
-|  | DUPIXENT + TCS 200 mg (5 to <15kg) or 300 mg (15 to <30 kg) Q4WAt Day 1, subjects received 200 mg (5 to <15kg) or 300 mg (15 to <30 kg) of DUPIXENT. | Placebo + TCS | Difference vs. Placebo (95 % CI) |
+|  | DUPIXENT + TCS 200 mg (5 to <15 kg) or 300 mg (15 to <30 kg) Q4WAt Day 1, subjects received 200 mg (5 to <15 kg) or 300 mg (15 to <30 kg) of DUPIXENT. | Placebo + TCS | Difference vs. Placebo (95 % CI) |
 | IGA 0 or 1 Responder was defined as a subject with an IGA 0 or 1 ("clear" or "almost clear").,Subjects who received rescue treatment (63% and 19% in the placebo and DUPIXENT arms, respectively) or with missing data were considered as non-responders. | 28% | 4% | 24% (13%, 34%) |
 | EASI-75 | 53% | 11% | 42% (29%, 55%) |
 | EASI-90 | 25% | 3% | 23% (12%, 33%) |
 | Worst Scratch/Itch NRS (≥4-point improvement) | 48% | 9% | 39% (26%, 52%) |
+| CI = confidence interval |  |  |  |
+
+Atopic Dermatitis with Hand and/or Foot Involvement
+
+The efficacy and safety of DUPIXENT was evaluated in a 16-week, multicenter, randomized, double-blind, parallel-group, placebo-controlled trial (Liberty-AD-HAFT; NCT04417894) in 133 adult and pediatric subjects 12 to 17 years of age with atopic dermatitis with moderate-to-severe hand and/or foot involvement, defined by an established diagnosis of atopic dermatitis and screening to rule out irritant and allergic contact dermatitis through history and appropriate patch testing, and by an IGA (hand and foot) score ≥3 (scale of 0 to 4) and a hand and foot Peak Pruritus Numeric Rating Scale (NRS) score for maximum itch intensity ≥4 (scale of 0 to 10).
+Fifty-three (53) percent (N=70/133) of the subjects also had moderate-to-severe AD outside of the hands or feet (IGA global ≥3).
+Eligible subjects had previous inadequate response or intolerance to treatment of hand and/or foot dermatitis with topical AD medications.
+In this trial 67 subjects received DUPIXENT, and 66 subjects received placebo.
+DUPIXENT-treated subjects received the recommended dosage based on their age and body weight [see Dosage and Administration (2.2)].
+Subjects were not allowed concomitant use of topical treatments for AD on the hands and feet during the trial, but were allowed the use of topical treatments for AD on other parts of the body with certain restrictions.
+
+In Liberty-AD-HAFT, 38% of subjects were male, 80% were White, 13% were Asian, and 5% were Black or African American.
+For ethnicity, 4% were identified as Hispanic or Latino and 96% were identified as not Hispanic or Latino.
+Seventy-two (72) percent (N=96/133) of subjects had a baseline IGA (hand and foot) score of 3 (atopic dermatitis with moderate hand and/or foot involvement), and 28% (N=37/133) of subjects had a baseline IGA (hand and foot) score of 4 (atopic dermatitis with severe hand and/or foot involvement).
+The baseline weekly averaged hand and foot Peak Pruritus NRS score was 7.1.
+
+The primary endpoint was the proportion of subjects with an IGA hand and foot score of 0 (clear) or 1 (almost clear) at Week 16.
+The key secondary endpoint was reduction of itch as measured by the hand and foot Peak Pruritus NRS (≥4-point improvement).
+
+The efficacy results at Week 16 for Liberty-AD-HAFT are presented in Table 15.
+
+Table 15: Efficacy Results of DUPIXENT in Liberty-AD-HAFT at Week 16 (FAS)Full Analysis Set (FAS) includes all subjects randomized. in Adult and Pediatric Subjects 12 to 17 Years of Age with AD with Moderate-to-Severe Hand and/or Foot Involvement
+
+|  | (N=67) | (N=66) |  |
+| --- | --- | --- | --- |
+|  | DUPIXENT 200/300 mg Q2WdAdults received a loading dose of DUPIXENT 600 mg SC followed by 300 mg SC Q2W. Pediatric subjects 12 to 17 years of age received a loading dose of DUPIXENT 600 mg SC followed by 300 mg SC Q2W (for body weight ≥60 kg) or a loading dose of DUPIXENT 400 mg SC followed by 200 mg SC Q2W (for body weight <60 kg). | Placebo | Difference vs. Placebo (95 % CI) |
+| IGA (hand and foot) 0 or 1Responder was defined as a subject with an IGA 0 or 1 ("clear" or "almost clear").,Subjects who received rescue treatment (21% and 3% in the placebo and DUPIXENT arms, respectively) or with missing data were considered as non-responders. | 40% | 17% | 24% (9%, 38%) |
+| Improvement (reduction) of weekly averaged hand and foot Peak Pruritus NRS ≥4 | 52% | 14% | 39% (24%, 53%) |
 | CI = confidence interval |  |  |  |
 
 ## 14.2 Asthma
@@ -201,9 +229,9 @@ Subjects continued to receive their existing asthma medicine during the study; h
 The primary endpoint was the percent reduction of oral corticosteroid dose at Weeks 20 to 24 compared with the baseline dose, while maintaining asthma control in the overall population (unrestricted by minimum baseline blood eosinophils count).
 Additional secondary endpoints included the annualized rate of severe exacerbation events during treatment period and responder rate in the ACQ-5 and AQLQ(S) scores.
 
-The demographics and baseline characteristics of these 3 trials are provided in Table 15 below.
+The demographics and baseline characteristics of these 3 trials are provided in Table 16 below.
 
-Table 15: Demographics and Baseline Characteristics of Asthma Trials
+Table 16: Demographics and Baseline Characteristics of Asthma Trials
 
 | Parameter | DRI12544 (N=776) | QUEST (N=1902) | VENTURE (N=210) |
 | --- | --- | --- | --- |
@@ -229,7 +257,7 @@ DRI12544 and QUEST evaluated the frequency of severe asthma exacerbations define
 In the primary analysis population (subjects with baseline blood eosinophil count of ≥300 cells/mcL in DRI12544 and the overall population in QUEST), subjects receiving either DUPIXENT 200 mg or 300 mg Q2W had significant reductions in the rate of asthma exacerbations compared to placebo.
 In the overall population in QUEST, the rate of severe exacerbations was 0.46 and 0.52 for DUPIXENT 200 mg Q2W and 300 mg Q2W, respectively, compared to matched placebo rates of 0.87 and 0.97.
 The rate ratio of severe exacerbations compared to placebo was 0.52 (95% CI: 0.41, 0.66) and 0.54 (95% CI: 0.43, 0.68) for DUPIXENT 200 mg Q2W and 300 mg Q2W, respectively.
-Results in subjects with baseline blood eosinophil counts ≥300 cells/mcL in DRI12544 and QUEST are shown in Table 16.
+Results in subjects with baseline blood eosinophil counts ≥300 cells/mcL in DRI12544 and QUEST are shown in Table 17.
 
 Response rates by baseline blood eosinophils and baseline FeNO for QUEST are shown for the overall population in Figure 4 and Figure 5, respectively.
 Elevation of FeNO can be a marker of the eosinophilic asthma phenotype when supported by clinical data.
@@ -239,7 +267,7 @@ In subjects with baseline blood eosinophil count <150 cells/mcL and FeNO <25 ppb
 
 In QUEST, the estimated rate ratio of exacerbations leading to hospitalizations and/or emergency room visits versus placebo was 0.53 (95% CI: 0.28, 1.03) and 0.74 (95% CI: 0.32, 1.70) with DUPIXENT 200 mg or 300 mg Q2W, respectively.
 
-Table 16: Rate of Severe Exacerbations in DRI12544 and QUEST
+Table 17: Rate of Severe Exacerbations in DRI12544 and QUEST
 
 | N | Rate (95% CI) | Rate Ratio (95% CI) |  |  |
 | --- | --- | --- | --- | --- |
@@ -266,7 +294,7 @@ Lung Function
 Significant increases in pre-bronchodilator FEV1 were observed at Week 12 for DRI12544 and QUEST in the primary analysis populations (subjects with baseline blood eosinophil count of ≥300 cells/mcL in DRI12544 and the overall population in QUEST).
 In the overall population in QUEST, the FEV1 LS mean change from baseline was 0.32 L (21%) and 0.34 L (23%) for DUPIXENT 200 mg Q2W and 300 mg Q2W, respectively, compared to matched placebo means of 0.18 L (12%) and 0.21 L (14%).
 The mean treatment difference versus placebo was 0.14 L (95% CI: 0.08, 0.19) and 0.13 L (95% CI: 0.08, 0.18) for DUPIXENT 200 mg Q2W and 300 mg Q2W, respectively.
-Results in subjects with baseline blood eosinophil counts ≥300 cells/mcL in DRI12544 and QUEST are shown in Table 17.
+Results in subjects with baseline blood eosinophil counts ≥300 cells/mcL in DRI12544 and QUEST are shown in Table 18.
 
 Improvements in FEV1 by baseline blood eosinophils and baseline FeNO for QUEST are shown in Figure 7 and 8, respectively.
 Subgroup analysis of DRI12544 and QUEST demonstrated greater improvement in subjects with higher baseline blood eosinophils (≥150 cells/mcL) or FeNO (≥25 ppb).
@@ -274,7 +302,7 @@ In subjects with baseline blood eosinophil count <150 cells/mcL and FeNO <25 ppb
 
 Mean changes in FEV1 over time in QUEST are shown in Figure 9.
 
-Table 17: Mean Change from Baseline and Difference vs Placebo in Pre-Bronchodilator FEV1 at Week 12 in Subjects with Moderate-to-Severe Asthma (DRI12544 and QUEST)
+Table 18: Mean Change from Baseline and Difference vs Placebo in Pre-Bronchodilator FEV1 at Week 12 in Subjects with Moderate-to-Severe Asthma (DRI12544 and QUEST)
 
 | N | LS Mean Change from baseline L (%) | LS Mean Difference vs. placebo (95% CI) |  |  |
 | --- | --- | --- | --- | --- |
@@ -328,9 +356,9 @@ Severe asthma exacerbations were defined as deterioration of asthma requiring th
 The key secondary endpoint was the change from baseline in pre-bronchodilator FEV1 percent predicted at Week 12.
 Additional secondary endpoints included mean change from baseline and responder rates in the ACQ-7-IA (Asthma Control Questionnaire-7-Interviewer Administered) and PAQLQ(S)-IA (Pediatric Asthma Quality of Life Questionnaire with Standardized Activities Interviewer Administered) scores.
 
-The demographics and baseline characteristics for VOYAGE are provided in Table 18 below.
+The demographics and baseline characteristics for VOYAGE are provided in Table 19 below.
 
-Table 18: Demographics and Baseline Characteristics for VOYAGE
+Table 19: Demographics and Baseline Characteristics for VOYAGE
 
 | Parameter | VOYAGE (N=408) |
 | --- | --- |
@@ -357,9 +385,9 @@ In subjects with baseline blood eosinophil count <150 cells/mcL and FeNO <20 ppb
 Significant improvements in percent predicted pre-bronchodilator FEV1 were observed at Week 12.
 Significant improvements in percent predicted FEV1 were observed as early as Week 2 and were maintained through Week 52 in VOYAGE (Figure 10).
 
-The efficacy results for VOYAGE are presented in Table 19.
+The efficacy results for VOYAGE are presented in Table 20.
 
-Table 19: Efficacy Results of DUPIXENT in VOYAGE
+Table 20: Efficacy Results of DUPIXENT in VOYAGE
 
 | Treatment | EOS ≥300 cells/mcLThis reflects the prespecified primary analysis population for VOYAGE in the United States. |  |  |
 | --- | --- | --- | --- |
@@ -403,9 +431,9 @@ SNOT-22 includes 22 items assessing symptoms and symptom impact associated with 
 SNOT-22 had a 2 week recall period.
 In the pooled efficacy results, the reduction in the proportion of subjects rescued with systemic corticosteroids and/or sino-nasal surgery (up to Week 52) were evaluated.
 
-The demographics and baseline characteristics of these 2 trials are provided in Table 20 below.
+The demographics and baseline characteristics of these 2 trials are provided in Table 21 below.
 
-Table 20: Demographics and Baseline Characteristics of CRSwNP Trials
+Table 21: Demographics and Baseline Characteristics of CRSwNP Trials
 
 | Parameter | SINUS-24 (N=276) | SINUS-52 (N=448) |
 | --- | --- | --- |
@@ -428,9 +456,9 @@ Table 20: Demographics and Baseline Characteristics of CRSwNP Trials
 
 Clinical Response (SINUS-24 and SINUS-52)
 
-The results for primary endpoints in CRSwNP studies are presented in Table 21.
+The results for primary endpoints in CRSwNP studies are presented in Table 22.
 
-Table 21: Results of the Primary Endpoints in CRSwNP Trials
+Table 22: Results of the Primary Endpoints in CRSwNP Trials
 
 | Scores | Baseline mean | LS mean change | Baseline mean | LS mean change |  | Baseline mean | LS mean change | Baseline mean | LS mean change |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -489,9 +517,9 @@ Demographics and baseline characteristics were similar in Parts A and B. A total
 
 The coprimary efficacy endpoints in Parts A and B were the (1) proportion of subjects achieving histological remission defined as peak esophageal intraepithelial eosinophil count of ≤6 eos/hpf at Week 24; and (2) the absolute change in the subject-reported DSQ score from baseline to Week 24.
 
-Efficacy results for Parts A and B are presented in Table 22.
+Efficacy results for Parts A and B are presented in Table 23.
 
-Table 22: Efficacy Results of DUPIXENT at Week 24 in Subjects 12 Years of Age and Older with EoE (Parts A and B)
+Table 23: Efficacy Results of DUPIXENT at Week 24 in Subjects 12 Years of Age and Older with EoE (Parts A and B)
 
 |  | N = 42 | N = 39 |  | N = 80 | N = 79 |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -523,14 +551,14 @@ The Investigator's Global Assessment for Prurigo Nodularis-Stage (IGA PN-S) is a
 
 Efficacy was assessed with the proportion of subjects with improvement (reduction) in WI-NRS by ≥4 points, the proportion of subjects with IGA PN-S 0 or 1 (the equivalent of 0-5 nodules), and the proportion of subjects who achieved a response in both WI-NRS and IGA PN-S per the criteria described above.
 
-The efficacy results for PRIME and PRIME2 are presented in Table 23 and Figures 14, 15 and 16.
+The efficacy results for PRIME and PRIME2 are presented in Table 24 and Figures 14, 15 and 16.
 
-Table 23: Efficacy Results of DUPIXENT in PRIME and PRIME2
+Table 24: Efficacy Results of DUPIXENT in PRIME and PRIME2
 
 |  | Placebo (N=76) | DUPIXENT 300 mg Q2W (N=75) | Difference (95% CI) for DUPIXENT vs. Placebo | Placebo (N=82) | DUPIXENT 300 mg Q2W (N=78) | Difference (95% CI) for DUPIXENT vs. Placebo |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | PRIME |  |  | PRIME2 |  |  |
-| Proportion of subjects with both an improvement (reduction) in WI-NRS by ≥4 points from baseline to Week 24 and an IGA PN-S 0 or 1 at Week 24 Subjects who received rescue treatment earlier or had missing data were considered as non-responders. | 9.2% | 38.7% | 29.6% (16.4, 42.8) | 8.5% | 32.1% | 25.5% (13.1, 37.9) |
+| Proportion of subjects with both an improvement (reduction) in WI-NRS by ≥4 points from baseline to Week 24 and an IGA PN-S 0 or 1 at Week 24Subjects who received rescue treatment earlier or had missing data were considered as non-responders. | 9.2% | 38.7% | 29.6% (16.4, 42.8) | 8.5% | 32.1% | 25.5% (13.1, 37.9) |
 | Proportion of subjects with improvement (reduction) in WI-NRS by ≥4 points from baseline at Week 24 | 18.4% | 60.0% | 42.7% (27.8, 57.7) | 19.5% | 57.7% | 42.6% (29.1, 56.1) |
 | Proportion of subjects with IGA PN-S 0 or 1 at Week 24 | 18.4% | 48.0% | 28.3% (13.4, 43.2) | 15.9% | 44.9% | 30.8% (16.4, 45.2) |
 | Proportion of subjects with improvement (reduction) in WI-NRS by ≥4 points from baseline at Week 12 | 15.8%Not adjusted for multiplicity in PRIME. | 44.0% | 29.2% (14.5, 43.8) | 22.0% | 37.2% | 16.8% (2.3, 31.2) |

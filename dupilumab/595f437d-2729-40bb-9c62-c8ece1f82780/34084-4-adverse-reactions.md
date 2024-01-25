@@ -86,6 +86,13 @@ The long-term safety profile of DUPIXENT ± TCS observed in pediatric subjects 6
 In addition, hand-foot-and-mouth disease was reported in 9 (5%) pediatric subjects and skin papilloma was reported in 4 (2%) pediatric subjects treated with DUPIXENT ± TCS.
 These cases did not lead to study drug discontinuation [see Use in Specific Populations (8.4)].
 
+Atopic Dermatitis with Hand and/or Foot Involvement
+
+The safety of DUPIXENT was assessed in a 16-week, multicenter, randomized, double-blind, parallel-group, placebo-controlled trial (Liberty-AD-HAFT) in 133 adult and pediatric subjects 12 to 17 years of age with atopic dermatitis with moderate-to-severe hand and/or foot involvement [see Clinical Studies (14)].
+In this trial 67 subjects received DUPIXENT, and 66 subjects received placebo.
+DUPIXENT-treated subjects received the recommended dosage based on their age and body weight [see Dosage and Administration (2.3)].
+The safety profile of DUPIXENT in these subjects through Week 16 was consistent with the safety profile from studies in adult and pediatric subjects 6 months of age and older with moderate-to-severe AD.
+
 Asthma
 
 Adults and Pediatric Subjects 12 Years of Age and Older with Asthma

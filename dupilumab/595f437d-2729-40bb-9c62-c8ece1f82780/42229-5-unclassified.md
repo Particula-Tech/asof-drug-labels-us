@@ -16,5 +16,5 @@ For patent information: www.dupixent-patents.com
 
 DUPIXENT® is a registered trademark of Sanofi Biotechnology
 
-© 2023 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
+© 2024 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
 All rights reserved.
