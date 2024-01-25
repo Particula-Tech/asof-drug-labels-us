@@ -46,10 +46,10 @@ Table 1: Adverse Reactions Occurring in 3% or More in Women with Heavy Menstrual
 
 | Adverse Reaction | MYFEMBREE (N = 254) % | Placebo (N = 256) % |
 | --- | --- | --- |
-| Vasomotor symptomsIncludes hot flush, hyperhidrosis, or night sweats. | 10.6 | 6.6 |
-| Abnormal uterine bleedingIncludes menorrhagia, metrorrhagia, vaginal hemorrhage, polymenorrhea, and menstruation irregular. | 6.3 | 1.2 |
+| Vasomotor symptoms Includes hot flush, hyperhidrosis, or night sweats. | 10.6 | 6.6 |
+| Abnormal uterine bleeding Includes menorrhagia, metrorrhagia, vaginal hemorrhage, polymenorrhea, and menstruation irregular. | 6.3 | 1.2 |
 | Alopecia | 3.5 | 0.8 |
-| Libido decreasedIncludes libido decreased and loss of libido. | 3.1 | 0.4 |
+| Libido decreased Includes libido decreased and loss of libido. | 3.1 | 0.4 |
 
 In Study L1, more women experienced the adverse reaction of new or worsening hypertension with MYFEMBREE as compared to placebo (7.0% vs. 0.8%).
 
@@ -78,7 +78,7 @@ In the open-label extension trial, Study L3, women received an additional 28 wee
 Women from Study L3 showed continued bone loss at Months 6 and 12 when treated with up to 52 weeks of MYFEMBREE.
 The least squares mean percent changes from baseline in lumbar spine BMD at Months 6 and 12 are presented below in Table 3.
 
-Table 3: Mean Percent Change (On-Treatment) from BaselineBaseline and Month 6 assessments include only those participants from Studies L1 and L2 who participated in Study L3. in Lumbar Spine BMD at Month 6 and Month 12 for MYFEMBREE-Treated Women with Heavy Menstrual Bleeding Associated with Uterine Fibroids in Study L3
+Table 3: Mean Percent Change (On-Treatment) from Baseline Baseline and Month 6 assessments include only those participants from Studies L1 and L2 who participated in Study L3.in Lumbar Spine BMD at Month 6 and Month 12 for MYFEMBREE-Treated Women with Heavy Menstrual Bleeding Associated with Uterine Fibroids in Study L3
 
 | Month 6 | Month 12 |  |
 | --- | --- | --- |
@@ -149,13 +149,13 @@ Table 4: Adverse Reactions Occurring in 3% or More of Women with Moderate to Sev
 | Adverse Reaction | MYFEMBREE (N = 418) % | Placebo (N = 416) % |
 | --- | --- | --- |
 | Headache | 33.0 | 26.4 |
-| Vasomotor symptomsIncludes hot flush, hyperhidrosis, night sweats, and flushing. | 13.2 | 7.2 |
-| Mood disordersIncludes affect lability, affective disorder, anxiety, depressed mood, depression, emotional distress, generalized anxiety disorder, irritability, mixed anxiety and depressive disorder, mood altered, mood swings, and suicidal ideation. | 9.1 | 7.2 |
-| Abnormal uterine bleedingIncludes menorrhagia, metrorrhagia, vaginal hemorrhage, uterine hemorrhage, polymenorrhea, and menstruation irregular. | 6.7 | 4.6 |
+| Vasomotor symptoms Includes hot flush, hyperhidrosis, night sweats, and flushing. | 13.2 | 7.2 |
+| Mood disorders Includes affect lability, affective disorder, anxiety, depressed mood, depression, emotional distress, generalized anxiety disorder, irritability, mixed anxiety and depressive disorder, mood altered, mood swings, and suicidal ideation. | 9.1 | 7.2 |
+| Abnormal uterine bleeding Includes menorrhagia, metrorrhagia, vaginal hemorrhage, uterine hemorrhage, polymenorrhea, and menstruation irregular. | 6.7 | 4.6 |
 | Nausea | 6.0 | 4.1 |
 | Toothache | 5.5 | 2.4 |
 | Back pain | 4.8 | 2.9 |
-| Decreased sexual desire and arousalIncludes libido decreased, libido disorder, and female sexual arousal disorder. | 4.3 | 1.2 |
+| Decreased sexual desire and arousal Includes libido decreased, libido disorder, and female sexual arousal disorder. | 4.3 | 1.2 |
 | Arthralgia | 3.6 | 2.2 |
 | Fatigue | 3.1 | 2.4 |
 | Dizziness | 3.1 | 1.2 |
@@ -185,7 +185,7 @@ In the open-label extension, Study S3, women received an additional 28 weeks of 
 In Study S3, the decline in BMD was similar after 6 months and 12 months of treatment.
 The least squares mean percent changes from baseline in lumbar spine BMD at Month 6 and Month 12 for women treated with MYFEMBREE in Studies S1 and S2 and then continued MYFEMBREE for an additional 28 weeks in Study S3 are presented below in Table 6.
 
-Table 6: Mean Percent Change (On-Treatment) from BaselineBaseline and Month 6 assessments include only those participants from Studies S1 and S2 who also participated in Study S3. in Lumbar Spine BMD at Month 6 and Month 12 for Women with Moderate to Severe Pain Associated with Endometriosis Treated with MYFEMBREE in Study S3
+Table 6: Mean Percent Change (On-Treatment) from Baseline Baseline and Month 6 assessments include only those participants from Studies S1 and S2 who also participated in Study S3.in Lumbar Spine BMD at Month 6 and Month 12 for Women with Moderate to Severe Pain Associated with Endometriosis Treated with MYFEMBREE in Study S3
 
 | Month 6 | Month 12 |  |
 | --- | --- | --- |
@@ -232,8 +232,8 @@ Among women with normal HDL at baseline (≥ 60 mg/dL), declines to 40 to < 60 m
 The following adverse reactions have been identified during post-approval use of MYFEMBREE, as well as post-approval use of relugolix monotherapy outside of the United States.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune system disorders: anaphylactoid reaction
+Immune system disorders:anaphylactoid reaction
 
-Skin and subcutaneous tissue disorders: drug eruption, angioedema, urticaria
+Skin and subcutaneous tissue disorders:drug eruption, angioedema, urticaria
 
-Neoplasms (benign, malignant, and unspecified): uterine leiomyoma degeneration
+Neoplasms (benign, malignant, and unspecified):uterine leiomyoma degeneration

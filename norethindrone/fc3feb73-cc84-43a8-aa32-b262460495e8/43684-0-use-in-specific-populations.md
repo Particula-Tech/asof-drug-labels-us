@@ -9,9 +9,9 @@ Pregnant females exposed to MYFEMBREE and healthcare providers are encouraged to
 
 Risk Summary
 
-MYFEMBREE is contraindicated in pregnancy [see Contraindications (4) and Warnings and Precautions (5.9)].
+MYFEMBREE is contraindicated in pregnancy [see Contraindications (4)and Warnings and Precautions (5.9)].
 Based on findings from animal studies and its mechanism of action, MYFEMBREE may cause early pregnancy loss.
-Discontinue MYFEMBREE if pregnancy occurs during treatment [see Warnings and Precautions (5.9) and Clinical Pharmacology (12.1)].
+Discontinue MYFEMBREE if pregnancy occurs during treatment [see Warnings and Precautions (5.9)and Clinical Pharmacology (12.1)].
 
 The limited human data with the use of MYFEMBREE in pregnant women are insufficient to evaluate for a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes [see Data].
 
@@ -69,7 +69,7 @@ Pregnancy Testing
 
 MYFEMBREE may delay the ability to recognize pregnancy because it may reduce the intensity, duration, and amount of menstrual bleeding [see Warnings and Precautions (5.8)].
 Exclude pregnancy before initiating treatment with MYFEMBREE.
-Perform pregnancy testing if pregnancy is suspected during treatment with MYFEMBREE and discontinue treatment if pregnancy is confirmed [see Contraindications (4) and Warnings and Precautions (5.8)].
+Perform pregnancy testing if pregnancy is suspected during treatment with MYFEMBREE and discontinue treatment if pregnancy is confirmed [see Contraindications (4)and Warnings and Precautions (5.8)].
 
 Contraception
 

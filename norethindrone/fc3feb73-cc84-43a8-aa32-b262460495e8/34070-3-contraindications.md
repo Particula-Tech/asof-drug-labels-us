@@ -2,7 +2,7 @@
 
 MYFEMBREE is contraindicated in women:
 
-- With a high risk of arterial, venous thrombotic, or thromboembolic disorders [see Boxed Warning and Warnings and Precautions (5.1)].
+- With a high risk of arterial, venous thrombotic, or thromboembolic disorders [see Boxed Warningand Warnings and Precautions (5.1)].
   Examples include women over 35 years of age who smoke and women who are known to have:
   - current or history of deep vein thrombosis or pulmonary embolism
   - vascular disease (e.g., cerebrovascular disease, coronary artery disease, peripheral vascular disease)
@@ -11,7 +11,7 @@ MYFEMBREE is contraindicated in women:
   - uncontrolled hypertension
   - headaches with focal neurological symptoms or migraine headaches with aura if over 35 years of age
 - Who are pregnant.
-  Exposure to MYFEMBREE early in pregnancy may increase the risk of early pregnancy loss [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
+  Exposure to MYFEMBREE early in pregnancy may increase the risk of early pregnancy loss [see Warnings and Precautions (5.9)and Use in Specific Populations (8.1)].
 - With known osteoporosis, because of the risk of further bone loss [see Warnings and Precautions (5.2)].
 - With current or history of breast cancer or other hormone-sensitive malignancies, and with increased risk for hormone-sensitive malignancies [see Warnings and Precautions (5.3)].
 - With known hepatic impairment or disease [see Warnings and Precautions (5.5)].

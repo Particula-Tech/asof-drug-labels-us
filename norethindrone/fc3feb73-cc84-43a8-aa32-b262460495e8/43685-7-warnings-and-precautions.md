@@ -56,7 +56,7 @@ All women who reported suicidal ideation had a history of depression and/or anxi
 
 Contraindication in Patients with Hepatic Impairment
 
-MYFEMBREE is contraindicated in patients with known hepatic impairment or disease [see Contraindications (4) and Use in Specific Populations (8.6)].
+MYFEMBREE is contraindicated in patients with known hepatic impairment or disease [see Contraindications (4)and Use in Specific Populations (8.6)].
 Steroid hormones may be poorly metabolized in patients with impaired liver function [see Clinical Pharmacology (12.3)].
 
 Transaminase Elevations
@@ -119,8 +119,7 @@ Whether the hair loss is reversible is unknown [see Adverse Reactions (6.1)].
 More frequent monitoring in MYFEMBREE-treated women with prediabetes and diabetes may be necessary.
 MYFEMBREE may decrease glucose tolerance and result in increased blood glucose concentrations.
 
-Monitor lipid levels and consider discontinuing MYFEMBREE if hypercholesterolemia or hypertriglyceridemia worsens.
-In women with pre-existing hypertriglyceridemia, estrogen therapy may be associated with elevations in triglycerides levels leading to pancreatitis.
+Monitor lipid levels and consider discontinuing MYFEMBREE if hypercholesterolemia or hypertriglyceridemia worsens.In women with pre-existing hypertriglyceridemia, estrogen therapy may be associated with elevations in triglycerides levels leading to pancreatitis.
 Use of MYFEMBREE is associated with increases in total cholesterol and low-density lipoprotein cholesterol (LDL-C) [see Adverse Reactions (6.1)].
 
 ## 5.13 Effect on Other Laboratory Results

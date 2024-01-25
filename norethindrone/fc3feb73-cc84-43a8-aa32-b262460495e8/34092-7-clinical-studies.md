@@ -2,12 +2,12 @@
 
 ## 14.1 Heavy Menstrual Bleeding Associated with Uterine Fibroids
 
-The efficacy and safety of MYFEMBREE were evaluated in two replicate, 24-week, multinational, randomized, double-blind, placebo-controlled studies in a total of 768 premenopausal women with heavy menstrual bleeding associated with uterine fibroids in Study L1 (NCT03049735) and Study L2 (NCT03103087).
+The efficacy and safety of MYFEMBREE were evaluated in two replicate, 24-week, multinational, randomized, double-blind, placebo-controlled studies in a total of 768 premenopausal women with heavy menstrual bleeding associated with uterine fibroids in Study L1 (NCT03049735)and Study L2 (NCT03103087).
 
 For study inclusion, women had to have uterine fibroids confirmed by ultrasound examination in which at least one fibroid met at least one of the following criteria:
 
-1. a. Subserosal, intramural, or < 50% intracavitary submucosal fibroid with a diameter ≥ 2 cm, or
-2. b. Multiple small fibroids with a total uterine volume of ≥ 130cm3.
+1. Subserosal, intramural, or < 50% intracavitary submucosal fibroid with a diameter ≥ 2 cm, or
+2. Multiple small fibroids with a total uterine volume of ≥ 130cm 3.
 
 Women also had to have menstrual blood loss (MBL) volume of ≥ 80 mL per cycle for two menstrual cycles or ≥ 160 mL during one cycle quantified by the alkaline hematin method from menstrual products collected during baseline menstrual cycles to be included in the studies.
 Women with hemoglobin < 8.0 g/dL were excluded from the study.
@@ -22,10 +22,10 @@ Key secondary endpoints were related to amenorrhea, MBL volume, and change in he
 
 A total of 768 women were randomized and treated in Studies L1 and L2 (741 women in the efficacy population used for these studies).
 Of the 741 women, 247 received treatment with MYFEMBREE (122 and 125 in Studies L1 and L2, respectively), 252 received treatment with relugolix followed by MYFEMBREE (125 and 127 in Studies L1 and L2, respectively), and 242 received placebo (113 and 129 in Studies L1 and L2, respectively).
-The median age of women included in the efficacy analysis was 43 years (19 - 51 years), and mean body mass index was 31.6 kg/m2.
+The median age of women included in the efficacy analysis was 43 years (19 - 51 years), and mean body mass index was 31.6 kg/m 2.
 Approximately 53% of study participants were Black, 41% were White, and 6% were of other races.
 Across studies at baseline, mean (± standard deviation) MBL volume at baseline was 231 mL (± 156).
-Baseline uterine size in Studies L1 and L2 ranged from normal to greater than 28 weeks gestation size (47 - 2625 cm3).
+Baseline uterine size in Studies L1 and L2 ranged from normal to greater than 28 weeks gestation size (47 - 2625 cm 3).
 
 Menstrual Blood Loss
 
@@ -95,13 +95,13 @@ The first co-primary endpoint was a responder analysis where a responder was def
 The second co-primary endpoint was a responder analysis where a responder was defined as a woman who achieved a reduction from baseline in non-menstrual pelvic pain (NMPP) NRS score of at least 2.1 points over the last 35 days of treatment, without an increase in analgesic use (nonsteroidal anti-inflammatory drug or opioid) for pain associated with endometriosis.
 
 In Study S1, a total of 424 women were included in the efficacy population (212 received MYFEMBREE; 212 received placebo).
-The median age of the efficacy population was 34 years and the mean body mass index was 26 kg/m2.
+The median age of the efficacy population was 34 years and the mean body mass index was 26 kg/m 2.
 Approximately 92% were White, 6% were Black, and 7% were of Hispanic or Latino descent.
 A total of 19% were from the United States and/or Canada.
 At baseline, 29% of women used an opioid rescue analgesic for moderate to severe pain associated with endometriosis.
 
 In Study S2, a total of 405 women were included in the efficacy population (205 received MYFEMBREE; 200 received placebo).
-The median age of the efficacy population was 34 years and the mean body mass index was 26 kg/m2.
+The median age of the efficacy population was 34 years and the mean body mass index was 26 kg/m 2.
 Approximately 90% were White, 6% were Black, and 17% were of Hispanic or Latino descent.
 A total of 24% were from United States and none were from Canada.
 At baseline, 48% of women used an opioid rescue analgesic for moderate to severe pain associated with endometriosis.
