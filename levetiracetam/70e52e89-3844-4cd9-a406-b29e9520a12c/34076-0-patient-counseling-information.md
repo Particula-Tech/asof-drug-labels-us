@@ -26,4 +26,4 @@ Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: InfoRLife SA Campascio, Switzerland
 
-HQ:LEVETIJ:R10 L52USLEVET11
+HQ:LEVETIJ:R11 L52USLEVET12

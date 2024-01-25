@@ -2,7 +2,7 @@
 
 ## 2.1 General Information – Administration
 
-Levetiracetam in Sodium Chloride Injection is for intravenous use only.
+Levetiracetam in Sodium Chloride Injection is for intravenous infusion only.
 It is available in three different concentrations single-dose 100 mL bag, each containing a different total dosage of levetiracetam: 500 mg (5 mg/mL), 1000 mg (10 mg/mL), or 1500 mg (15 mg/mL).
 
 A single-dose 100 mL bag should be administered intravenously over a 15-minute IV infusion period.
@@ -56,11 +56,11 @@ Table 1: Dosing Adjustment Regimen for Adult Patients with Impaired Renal Functi
 
 | Group | Creatinine Clearance (mL/min) | Dosage (mg) | Frequency |
 | --- | --- | --- | --- |
-| Normal | > 80 | 500 to 1,500 | Every 12 hours |
-| Mild | 50 – 80 | 500 to 1,000 | Every 12 hours |
-| Moderate | 30 – 50 | 250 to 750 | Every 12 hours |
-| Severe | < 30 | 250 to 500 | Every 12 hours |
-| ESRD patients using dialysis | ---- | 500 to 1,000 | Following dialysis, a 250 to 500 mg supplemental dose is recommended.Every 24 hours |
+| Normal | greater than 80 | 500 to 1,500 | Every 12 hours |
+| Mild | 50 to 80 | 500 to 1,000 | Every 12 hours |
+| Moderate | 30 to 50 | 250 to 750 | Every 12 hours |
+| Severe | less than 30 | 250 to 500 | Every 12 hours |
+| ESRD patients using dialysis | ---- | 500 to 1,000 | Following dialysis, a 250 mg to 500 mg supplemental dose is recommended.Every 24 hours |
 
 For doses (e.g.
 250 mg and 750 mg) not achievable with the available product strengths, using aseptic technique, withdraw the appropriate dose (see Table 1) from an intact commercial bag and place the measured dose in a separate empty, sterile infusion bag.
@@ -70,7 +70,7 @@ Do not store or reuse.
 
 ## 2.6 Compatibility With Other Antiepileptic Drugs
 
-Levetiracetam in Sodium Chloride Injection is found to be physically compatible and chemically stable for at least 24 hours when mixed with lorazepam, diazepam, and valproate sodium and stored at controlled room temperature 15° to 30°C (59° to 86°F).
+Levetiracetam in Sodium Chloride Injection is found to be physically compatible and chemically stable for at least 24 hours when mixed with lorazepam, diazepam, and valproate sodium and stored at controlled room temperature 15°C to 30°C (59°F to 86°F).
 
 There are no data to support the physical compatibility of levetiracetam injection with antiepileptic drugs that are not listed above.
 
