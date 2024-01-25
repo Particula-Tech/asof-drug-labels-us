@@ -32,6 +32,16 @@ Rx only
 
 Amneal Pharmaceuticals LLC
 
+NDC 70121-1732-3
+
+Ropivacaine Hydrochloride Injection USP, 2 mg/mL
+
+Rx only
+
+12 x 100 mL Carton Label
+
+Amneal Pharmaceuticals LLC
+
 NDC 70121-1734-1
 
 Ropivacaine Hydrochloride Injection USP, 5 mg/mL
@@ -59,5 +69,15 @@ Ropivacaine Hydrochloride Injection USP, 2 mg/mL
 Rx only
 
 10 x 100 mL Carton Label
+
+Amneal Pharmaceuticals LLC
+
+NDC 70121-1734-3
+
+Ropivacaine Hydrochloride Injection USP, 2 mg/mL
+
+Rx only
+
+12 x 100 mL Carton Label
 
 Amneal Pharmaceuticals LLC

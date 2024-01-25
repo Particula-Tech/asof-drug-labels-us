@@ -197,7 +197,7 @@ A high spinal is characterized by paralysis of the arms, loss of consciousness, 
 
 Cardiovascular System Reactions
 
-High doses or unintentional intravascular injection may lead to high plasma levels and related depression of the myocardium, decreased cardiac output, heart block, hypotension, bradycardia, ventricular arrhythmias, including ventricular tachycardia and ventricular fibrillation, and possibly cardiac arrest [see Warnings and Precautions (5.2) and Overdosage (10)].
+High doses or unintentional intravascular injection may lead to high plasma levels and related depression of the myocardium, decreased cardiac output, heart block, hypotension, bradycardia, ventricular arrhythmias, including ventricular tachycardia and ventricular fibrillation, and possibly cardiac arrest [seeWarnings and Precautions (5.2) and Overdosage (10)].
 
 Allergic Reactions
 
