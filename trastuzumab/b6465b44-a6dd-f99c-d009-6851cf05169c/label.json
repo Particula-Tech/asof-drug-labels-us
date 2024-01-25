@@ -14,12 +14,12 @@
   "products": [
     {
       "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
-      "generic": "trastuzumab",
+      "generic": "trastuzumab-dkst",
       "name": "OGIVRI"
     },
     {
       "form": "KIT",
-      "generic": "trastuzumab",
+      "generic": "trastuzumab-dkst",
       "name": "OGIVRI"
     }
   ],
