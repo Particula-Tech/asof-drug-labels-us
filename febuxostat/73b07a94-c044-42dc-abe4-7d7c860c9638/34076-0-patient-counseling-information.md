@@ -6,16 +6,17 @@ CV Death
 
 Inform patients that gout patients with established CV disease treated with febuxostat tablets had a higher rate of CV death compared to those treated with allopurinol in a CV outcomes study.
 Inform all patients of the higher rate of CV death with febuxostat tablets compared to allopurinol.
-Instruct all patients (those with and without CV disease) to be alert for the development of signs and symptoms of CV events [see Warnings and Precautions (5.1)].
+Alert all patients (those with and without CV disease) for the development of signs and symptoms of CV events and to seek medical care promptly should they occur [see Warnings and Precautions (5.1)].
 
 Gout Flares
 
-Inform patients that after initiation of febuxostat tablets there was an increased frequency of gout flares.
+Inform patients that after initiation of febuxostat tablets an increase in gout flares can occur and that is not reason to stop taking the medication.
 Instruct patients that it is recommended to initiate and continue gout prophylaxis therapy for six months while taking febuxostat tablets [see Warnings and Precautions (5.2)].
 
 Hepatic Effects
 
-Inform patients that hepatic effects have occurred in patients treated with febuxostat tablets and instruct them to inform their healthcare provider if they experience liver injury symptoms [see Warnings and Precautions (5.3)].
+Inform patients that hepatic effects, including fatal ones, have occurred in patients treated with febuxostat tablets.
+Instruct them to inform their healthcare provider if they experience liver injury symptoms [see Warnings and Precautions (5.3)].
 
 Serious Skin Reactions
 
@@ -34,7 +35,10 @@ Manufactured by:
 
 Sunshine Lake Pharma Co., Ltd.
 
-Northern Industry Road 1#, Song Shan Lake, DongGuan, GuangDong Province, 523808, P.R.
-China
+No. 1, Northern Industry Road,
 
-Revised: 5/2021
+Northern Industry Park of Song Shan Lake,
+
+DongGuan, GuangDong, 523808,China
+
+Revised: 01/2024 L7265A

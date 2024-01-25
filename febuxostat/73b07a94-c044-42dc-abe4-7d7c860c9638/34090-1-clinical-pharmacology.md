@@ -9,10 +9,10 @@ Febuxostat tablets are not expected to inhibit other enzymes involved in purine 
 
 Effect on Uric Acid and Xanthine Concentrations
 
-In healthy patients, febuxostat tablets resulted in a dose dependent decrease in 24 hour mean serum uric acid concentrations and an increase in 24 hour mean serum xanthine concentrations.
+In healthy patients, febuxostat tablets resulted in a dose dependent decrease in 24-hour mean serum uric acid concentrations and an increase in 24-hour mean serum xanthine concentrations.
 In addition, there was a decrease in the total daily urinary uric acid excretion.
 Also, there was an increase in total daily urinary xanthine excretion.
-Percent reduction in 24 hour mean serum uric acid concentrations was between 40% and 55% at the exposure levels of 40 mg and 80 mg daily doses.
+Percent reduction in 24-hour mean serum uric acid concentrations was between 40% and 55% at the exposure levels of 40 mg and 80 mg daily doses.
 
 Effect on Cardiac Repolarization
 
@@ -30,15 +30,15 @@ Absorption
 
 The absorption of radiolabeled febuxostat following oral dose administration was estimated to be at least 49% (based on total radioactivity recovered in urine).
 Maximum plasma concentrations of febuxostat occurred between 1 and 1.5 hours postdose.
-After multiple oral 40 mg and 80 mg once daily doses, C max is approximately 1.6 ± 0.6 mcg/mL (N=30), and 2.6 ± 1.7 mcg/mL (N=227), respectively.
+After multiple oral 40 mg and 80 mg once daily doses, C maxis approximately 1.6 ± 0.6 mcg/mL (N=30), and 2.6 ± 1.7 mcg/mL (N=227), respectively.
 Absolute bioavailability of the febuxostat tablet has not been studied.
 
-Following multiple 80 mg once daily doses with a high fat meal, there was a 49% decrease in C max and an 18% decrease in AUC, respectively.
+Following multiple 80 mg once daily doses with a high fat meal, there was a 49% decrease in C maxand an 18% decrease in AUC, respectively.
 However, no clinically significant change in the percent decrease in serum uric acid concentration was observed (58% fed vs 51% fasting).
 Thus, febuxostat tablets may be taken without regard to food.
 
-Concomitant ingestion of an antacid containing magnesium hydroxide and aluminum hydroxide with an 80 mg single dose of febuxostat tablets has been shown to delay absorption of febuxostat (approximately one hour) and to cause a 31% decrease in C max and a 15% decrease in AUC ∞.
-As AUC rather than C max was related to drug effect, change observed in AUC was not considered clinically significant.
+Concomitant ingestion of an antacid containing magnesium hydroxide and aluminum hydroxide with an 80 mg single dose of febuxostat tablets has been shown to delay absorption of febuxostat (approximately one hour) and to cause a 31% decrease in C maxand a 15% decrease in AUC ∞.
+As AUC rather than C maxwas related to drug effect, change observed in AUC was not considered clinically significant.
 Therefore, febuxostat tablets may be taken without regard to antacid use.
 
 Distribution
@@ -66,16 +66,16 @@ Specific Populations
 
 Geriatric Patients
 
-The C max and AUC of febuxostat and its metabolites following multiple oral doses of febuxostat tablets in geriatric patients (≥ 65 years) were similar to those in younger patients (18 to 40 years).
+The C maxand AUC of febuxostat and its metabolites following multiple oral doses of febuxostat tablets in geriatric patients (≥ 65 years) were similar to those in younger patients (18 to 40 years).
 In addition, the percent decrease in serum uric acid concentration was similar between elderly and younger patients.
 No dose adjustment is necessary in geriatric patients [see Use in Specific Populations (8.5)].
 
 Patients with Renal Impairment
 
-In a dedicated phase I pharmacokinetics study, following multiple 80 mg doses of febuxostat tablets in healthy patients with mild (Cl cr 50 to 80 mL/min), moderate (Cl cr 30 to 49 mL/min) or severe renal impairment (Cl cr 10 to 29 mL/min), the C max of febuxostat did not change relative to patients with normal renal function (Cl cr greater than 80 mL/min).
+In a dedicated phase I pharmacokinetics study, following multiple 80 mg doses of febuxostat tablets in healthy patients with mild (Cl cr50 to 80 mL/min), moderate (Cl cr30 to 49 mL/min) or severe renal impairment (Cl cr10 to 29 mL/min), the C maxof febuxostat did not change relative to patients with normal renal function (Cl crgreater than 80 mL/min).
 AUC and half-life of febuxostat increased in patients with renal impairment in comparison to patients with normal renal function, but values were similar among three renal impairment groups.
 Mean febuxostat AUC values were up to 1.8 times higher in patients with renal impairment compared to those with normal renal function.
-Mean C max and AUC values for three active metabolites increased up to two and four-fold, respectively.
+Mean C maxand AUC values for three active metabolites increased up to two and four-fold, respectively.
 However, the percent decrease in serum uric acid concentration for patients with renal impairment was comparable to those with normal renal function (58% in normal renal function group and 55% in the severe renal function group).
 
 Based on population pharmacokinetic analysis, following multiple 40 mg or 80 mg doses of febuxostat tablets, the mean oral clearance (CL/F) values of febuxostat in patients with gout and mild (n=334), moderate (n=232) or severe (n=34) renal impairment were decreased by 14%, 34%, and 48%, respectively, compared to patients with normal (n=89) renal function.
@@ -85,15 +85,15 @@ Febuxostat tablets have not been studied in end stage renal impairment patients 
 
 Patients with Hepatic Impairment
 
-Following multiple 80 mg doses of febuxostat tablets in patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment, an average of 20% to 30% increase was observed for both C max and AUC 24 (total and unbound) in hepatic impairment groups compared to patients with normal hepatic function.
+Following multiple 80 mg doses of febuxostat tablets in patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment, an average of 20% to 30% increase was observed for both C maxand AUC 24(total and unbound) in hepatic impairment groups compared to patients with normal hepatic function.
 In addition, the percent decrease in serum uric acid concentration was comparable between different hepatic groups (62% in healthy group, 49% in mild hepatic impairment group, and 48% in moderate hepatic impairment group).
 No dose adjustment is necessary in patients with mild or moderate hepatic impairment.
 No studies have been conducted in patients with severe hepatic impairment (Child-Pugh Class C); caution should be exercised in those patients [see Use in Specific Populations (8.7)].
 
 Male and Female Patients
 
-Following multiple oral doses of febuxostat tablets, the C max and AUC 24 of febuxostat were 30% and 14% higher in females than in males, respectively.
-However, weight-corrected C max and AUC were similar between the genders.
+Following multiple oral doses of febuxostat tablets, the C maxand AUC 24of febuxostat were 30% and 14% higher in females than in males, respectively.
+However, weight-corrected C maxand AUC were similar between the genders.
 In addition, the percent decrease in serum uric acid concentrations was similar between genders.
 No dose adjustment is necessary based on gender.
 
@@ -111,17 +111,18 @@ Febuxostat is an XO inhibitor.
 A drug-drug interaction study evaluating the effect of febuxostat tablets upon the pharmacokinetics of theophylline (an XO substrate) in healthy patients showed that coadministration of febuxostat with theophylline resulted in an approximately 400-fold increase in the amount of 1-methylxanthine, one of the major metabolites of theophylline, excreted in the urine.
 Since the long-term safety of exposure to 1-methylxanthine in humans is unknown, use with caution when coadministering febuxostat with theophylline.
 
-Drug interaction studies of febuxostat tablets with other drugs that are metabolized by XO (e.g., mercaptopurine and azathioprine) have not been conducted.
-Inhibition of XO by febuxostat tablets may cause increased plasma concentrations of these drugs leading to toxicity.
-Febuxostat tablets are contraindicated in patients being treated with azathioprine or mercaptopurine [see Contraindications (4) and Drug Interactions (7)].
+A drug interaction study of febuxostat tablets and azathioprine has been conducted [see Drug Interactions (7)].
+Inhibition of XO by febuxostat tablets caused increased plasma concentrations of 6-mercaptopurine, a metabolite of azathioprine, which may lead to toxicity.
+Drug interaction studies of febuxostat tablets with other drugs that are metabolized by XO (e.g., mercaptopurine) have not been conducted.
+Febuxostat tablets are contraindicated in patients being treated with azathioprine or mercaptopurine [see Contraindications (4)and Drug Interactions (7)].
 
 Azathioprine and mercaptopurine undergo metabolism via three major metabolic pathways, one of which is mediated by XO.
-Although febuxostat tablets drug interaction studies with azathioprine and mercaptopurine have not been conducted, concomitant administration of allopurinol [a xanthine oxidase inhibitor] with azathioprine or mercaptopurine has been reported to substantially increase plasma concentrations of these drugs.
-Because febuxostat tablet is a xanthine oxidase inhibitor, it could inhibit the XO-mediated metabolism of azathioprine and mercaptopurine leading to increased plasma concentrations of azathioprine or mercaptopurine that could result in severe toxicity.
+Concomitant administration of allopurinol [a xanthine oxidase inhibitor] with azathioprine or mercaptopurine has been reported to substantially increase plasma concentrations of these drugs.
+Because febuxostat tablet is a xanthine oxidase inhibitor, it could inhibit the XO-mediated metabolism of mercaptopurine leading to increased plasma concentrations of mercaptopurine that could result in severe toxicity.
 
 P450 Substrate Drugs
 
-In vitro studies have shown that febuxostat does not inhibit P450 enzymes CYP1A2, 2C9, 2C19, 2D6, or 3A4 and it also does not induce CYP1A2, 2B6, 2C9, 2C19, or 3A4 at clinically relevant concentrations.
+In vitrostudies have shown that febuxostat does not inhibit P450 enzymes CYP1A2, 2C9, 2C19, 2D6, or 3A4 and it also does not induce CYP1A2, 2B6, 2C9, 2C19, or 3A4 at clinically relevant concentrations.
 As such, pharmacokinetic interactions between febuxostat tablets and drugs metabolized by these CYP enzymes are unlikely.
 
 Effect of Other Drugs on Febuxostat Tablets
@@ -135,7 +136,7 @@ In Vivo Drug Interaction Studies
 Theophylline
 
 No dose adjustment is necessary for theophylline when coadministered with febuxostat tablets.
-Administration of febuxostat tablets (80 mg once daily) with theophylline resulted in an increase of 6% in C max and 6.5% in AUC of theophylline.
+Administration of febuxostat tablets (80 mg once daily) with theophylline resulted in an increase of 6% in C maxand 6.5% in AUC of theophylline.
 These changes were not considered statistically significant.
 However, the study also showed an approximately 400-fold increase in the amount of 1-methylxanthine (one of the major theophylline metabolites) excreted in urine as a result of XO inhibition by febuxostat tablets.
 The safety of long-term exposure to 1-methylxanthine has not been evaluated.
@@ -144,26 +145,26 @@ This should be taken into consideration when deciding to coadminister febuxostat
 Colchicine
 
 No dose adjustment is necessary for either febuxostat tablets or colchicine when the two drugs are coadministered.
-Administration of febuxostat tablets (40 mg once daily) with colchicine (0.6 mg twice daily) resulted in an increase of 12% in C max and 7% in AUC 24 of febuxostat.
-In addition, administration of colchicine (0.6 mg twice daily) with febuxostat tablets (120 mg daily) resulted in a less than 11% change in C max or AUC of colchicine for both AM and PM doses.
+Administration of febuxostat tablets (40 mg once daily) with colchicine (0.6 mg twice daily) resulted in an increase of 12% in C maxand 7% in AUC 24of febuxostat.
+In addition, administration of colchicine (0.6 mg twice daily) with febuxostat tablets (120 mg daily) resulted in a less than 11% change in C maxor AUC of colchicine for both AM and PM doses.
 These changes were not considered clinically significant.
 
 Naproxen
 
 No dose adjustment is necessary for febuxostat tablets or naproxen when the two drugs are coadministered.
-Administration of febuxostat tablets (80 mg once daily) with naproxen (500 mg twice daily) resulted in a 28% increase in C max and a 40% increase in AUC of febuxostat.
+Administration of febuxostat tablets (80 mg once daily) with naproxen (500 mg twice daily) resulted in a 28% increase in C maxand a 40% increase in AUC of febuxostat.
 The increases were not considered clinically significant.
-In addition, there were no significant changes in the C max or AUC of naproxen (less than 2%).
+In addition, there were no significant changes in the C maxor AUC of naproxen (less than 2%).
 
 Indomethacin
 
 No dose adjustment is necessary for either febuxostat tablets or indomethacin when these two drugs are coadministered.
-Administration of febuxostat tablets (80 mg once daily) with indomethacin (50 mg twice daily) did not result in any significant changes in C max or AUC of febuxostat or indomethacin (less than 7%).
+Administration of febuxostat tablets (80 mg once daily) with indomethacin (50 mg twice daily) did not result in any significant changes in C maxor AUC of febuxostat or indomethacin (less than 7%).
 
 Hydrochlorothiazide
 
 No dose adjustment is necessary for febuxostat tablets when coadministered with hydrochlorothiazide.
-Administration of febuxostat tablets (80 mg) with hydrochlorothiazide (50 mg) did not result in any clinically significant changes in C max or AUC of febuxostat (less than 4%), and serum uric acid concentrations were not substantially affected.
+Administration of febuxostat tablets (80 mg) with hydrochlorothiazide (50 mg) did not result in any clinically significant changes in C maxor AUC of febuxostat (less than 4%), and serum uric acid concentrations were not substantially affected.
 
 Warfarin
 
@@ -174,5 +175,5 @@ INR and Factor VII activity were also not affected by the coadministration of fe
 Desipramine
 
 Coadministration of drugs that are CYP2D6 substrates (such as desipramine) with febuxostat tablets are not expected to require dose adjustment.
-Febuxostat was shown to be a weak inhibitor of CYP2D6 in vitro and in vivo.
-Administration of febuxostat tablets (120 mg once daily) with desipramine (25 mg) resulted in an increase in C max (16%) and AUC (22%) of desipramine, which was associated with a 17% decrease in the 2-hydroxydesipramine to desipramine metabolic ratio (based on AUC).
+Febuxostat was shown to be a weak inhibitor of CYP2D6 in vitroand in vivo.
+Administration of febuxostat tablets (120 mg once daily) with desipramine (25 mg) resulted in an increase in C max(16%) and AUC (22%) of desipramine, which was associated with a 17% decrease in the 2-hydroxydesipramine to desipramine metabolic ratio (based on AUC).

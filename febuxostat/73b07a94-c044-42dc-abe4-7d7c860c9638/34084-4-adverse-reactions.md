@@ -41,61 +41,61 @@ Less Common Adverse Reactions
 In clinical studies the following adverse reactions occurred in less than 1% of patients and in more than one subject treated with doses ranging from 40 mg to 240 mg of febuxostat tablets.
 This list also includes adverse reactions (less than 1% of patients) associated with organ systems from Warnings and Precautions.
 
-Blood and Lymphatic System Disorders: anemia, idiopathic thrombocytopenic purpura, leukocytosis/leukopenia, neutropenia, pancytopenia, splenomegaly, thrombocytopenia.
+Blood and Lymphatic System Disorders:anemia, idiopathic thrombocytopenic purpura, leukocytosis/leukopenia, neutropenia, pancytopenia, splenomegaly, thrombocytopenia.
 
-Cardiac Disorders: angina pectoris, atrial fibrillation/flutter, cardiac murmur, ECG abnormal, palpitations, sinus bradycardia, tachycardia.
+Cardiac Disorders:angina pectoris, atrial fibrillation/flutter, cardiac murmur, ECG abnormal, palpitations, sinus bradycardia, tachycardia.
 
-Ear and Labyrinth Disorders: deafness, tinnitus, vertigo.
+Ear and Labyrinth Disorders:deafness, tinnitus, vertigo.
 
-Eye Disorders: vision blurred.
+Eye Disorders:vision blurred.
 
-Gastrointestinal Disorders: abdominal distention, abdominal pain, constipation, dry mouth, dyspepsia, flatulence, frequent stools, gastritis, gastroesophageal reflux disease, gastrointestinal discomfort, gingival pain, haematemesis, hyperchlorhydria, hematochezia, mouth ulceration, pancreatitis, peptic ulcer, vomiting.
+Gastrointestinal Disorders:abdominal distention, abdominal pain, constipation, dry mouth, dyspepsia, flatulence, frequent stools, gastritis, gastroesophageal reflux disease, gastrointestinal discomfort, gingival pain,hematemesis, hyperchlorhydria, hematochezia, mouth ulceration, pancreatitis, peptic ulcer, vomiting.
 
-General Disorders and Administration Site Conditions: asthenia, chest pain/discomfort, edema, fatigue, feeling abnormal, gait disturbance, influenza-like symptoms, mass, pain, thirst.
+General Disorders and Administration Site Conditions:asthenia, chest pain/discomfort, edema, fatigue, feeling abnormal, gait disturbance, influenza-like symptoms, mass, pain, thirst.
 
-Hepatobiliary Disorders: cholelithiasis/cholecystitis, hepatic steatosis, hepatitis, hepatomegaly.
+Hepatobiliary Disorders:cholelithiasis/cholecystitis, hepatic steatosis, hepatitis, hepatomegaly.
 
-Immune System Disorder: hypersensitivity.
+Immune System Disorder:hypersensitivity.
 
-Infections and Infestations: herpes zoster.
+Infections and Infestations:herpes zoster.
 
-Procedural Complications: contusion.
+Procedural Complications:contusion.
 
-Metabolism and Nutrition Disorders: anorexia, appetite decreased/increased, dehydration, diabetes mellitus, hypercholesterolemia, hyperglycemia, hyperlipidemia, hypertriglyceridemia, hypokalemia, weight decreased/increased.
+Metabolism and Nutrition Disorders:anorexia, appetite decreased/increased, dehydration, diabetes mellitus, hypercholesterolemia, hyperglycemia, hyperlipidemia, hypertriglyceridemia, hypokalemia, weight decreased/increased.
 
-Musculoskeletal and Connective Tissue Disorders: arthritis, joint stiffness, joint swelling, muscle spasms/twitching/tightness/weakness, musculoskeletal pain/stiffness, myalgia.
+Musculoskeletal and Connective Tissue Disorders:arthritis, joint stiffness, joint swelling, muscle spasms/twitching/tightness/weakness, musculoskeletal pain/stiffness, myalgia.
 
-Nervous System Disorders: altered taste, balance disorder, cerebrovascular accident, Guillain-Barré syndrome, headache, hemiparesis, hypoesthesia, hyposmia, lacunar infarction, lethargy, mental impairment, migraine, paresthesia, somnolence, transient ischemic attack, tremor.
+Nervous System Disorders:altered taste, balance disorder, cerebrovascular accident, Guillain-Barré syndrome, headache, hemiparesis, hypoesthesia, hyposmia, lacunar infarction, lethargy, mental impairment, migraine, paresthesia, somnolence, transient ischemic attack, tremor.
 
-Psychiatric Disorders: agitation, anxiety, depression, insomnia, irritability, libido decreased, nervousness, panic attack, personality change.
+Psychiatric Disorders:agitation, anxiety, depression, insomnia, irritability, libido decreased, nervousness, panic attack, personality change.
 
-Renal and Urinary Disorders: hematuria, nephrolithiasis, pollakiuria, proteinuria, renal failure, renal insufficiency, urgency, incontinence.
+Renal and Urinary Disorders:hematuria, nephrolithiasis, pollakiuria, proteinuria, renal failure, renal insufficiency, urgency, incontinence.
 
-Reproductive System and Breast Changes: breast pain, erectile dysfunction, gynecomastia.
+Reproductive System and Breast Changes:breast pain, erectile dysfunction, gynecomastia.
 
-Respiratory, Thoracic and Mediastinal Disorders: bronchitis, cough, dyspnea, epistaxis, nasal dryness, paranasal sinus hypersecretion, pharyngeal edema, respiratory tract congestion, sneezing, throat irritation, upper respiratory tract infection.
+Respiratory, Thoracic and Mediastinal Disorders:bronchitis, cough, dyspnea, epistaxis, nasal dryness, paranasal sinus hypersecretion, pharyngeal edema, respiratory tract congestion, sneezing, throat irritation, upper respiratory tract infection.
 
-Skin and Subcutaneous Tissue Disorders: alopecia, angio-edema, dermatitis, dermographism, ecchymosis, eczema, hair color changes, hair growth abnormal, hyperhidrosis, peeling skin, petechiae, photosensitivity, pruritus, purpura, skin discoloration/altered pigmentation, skin lesion, skin odor abnormal, urticaria.
+Skin and Subcutaneous Tissue Disorders:alopecia,angio-edema, dermatitis, dermographism, ecchymosis, eczema, hair color changes, hair growth abnormal, hyperhidrosis,peeling skin, petechiae, photosensitivity, pruritus, purpura, skin discoloration/altered pigmentation, skin lesion, skin odor abnormal, urticaria.
 
-Vascular Disorders: flushing, hot flush, hypertension, hypotension.
+Vascular Disorders:flushing, hot flush, hypertension, hypotension.
 
-Laboratory Parameters: activated partial thromboplastin time prolonged, creatine increased, bicarbonate decreased, sodium increased, EEG abnormal, glucose increased, cholesterol increased, triglycerides increased, amylase increased, potassium increased, TSH increased, platelet count decreased, hematocrit decreased, hemoglobin decreased, MCV increased, RBC decreased, creatinine increased, blood urea increased, BUN/creatinine ratio increased, creatine phosphokinase (CPK) increased, alkaline phosphatase increased, LDH increased, PSA increased, urine output increased/decreased, lymphocyte count decreased, neutrophil count decreased, WBC increased/decreased, coagulation test abnormal, low density lipoprotein (LDL) increased, prothrombin time prolonged, urinary casts, urine positive for white blood cells and protein.
+Laboratory Parameters:activated partial thromboplastin time prolonged, creatine increased, bicarbonate decreased, sodium increased, EEG abnormal, glucose increased, cholesterol increased, triglycerides increased, amylase increased, potassium increased, TSH increased, platelet count decreased, hematocrit decreased, hemoglobin decreased, MCV increased, RBC decreased, creatinine increased, blood urea increased, BUN/creatinine ratio increased, creatine phosphokinase (CPK) increased, alkaline phosphatase increased, LDH increased, PSA increased, urine output increased/decreased, lymphocyte count decreased, neutrophil count decreased, WBC increased/decreased, coagulation test abnormal, low density lipoprotein (LDL) increased, prothrombin time prolonged, urinary casts, urine positive for white blood cells and protein.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of febuxostat tablets.
+The following adverse reactions have been identified during post approval use of febuxostat tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic System Disorders: agranulocytosis, eosinophilia.
+Blood and Lymphatic System Disorders:agranulocytosis, eosinophilia.
 
-Hepatobiliary Disorders: hepatic failure (some fatal), jaundice, serious cases of abnormal liver function test results, liver disorder.
+Hepatobiliary Disorders:hepatic failure (some fatal), jaundice, serious cases of abnormal liver function test results, liver disorder.
 
-Immune System Disorders: anaphylaxis, anaphylactic reaction.
+Immune System Disorders:anaphylaxis, anaphylactic reaction.
 
-Musculoskeletal and Connective Tissue Disorders: rhabdomyolysis.
+Musculoskeletal and Connective Tissue Disorders:rhabdomyolysis.
 
-Psychiatric Disorders: psychotic behavior including aggressive thoughts.
+Psychiatric Disorders:psychotic behavior including aggressive thoughts.
 
-Renal and Urinary Disorders: tubulointerstitial nephritis.
+Renal and Urinary Disorders:tubulointerstitial nephritis.
 
-Skin and Subcutaneous Tissue Disorders: generalized rash, Stevens-Johnson Syndrome, hypersensitivity skin reactions, erythema multiforme, drug reaction with eosinophilia and systemic symptoms, toxic epidermal necrolysis.
+Skin and Subcutaneous Tissue Disorders:generalized rash, Stevens-Johnson Syndrome, hypersensitivity skin reactions, erythema multiforme, drug reaction with eosinophilia and systemic symptoms, toxic epidermal necrolysis.

@@ -47,12 +47,12 @@ Safety and effectiveness of febuxostat tablets in pediatric patients have not be
 No dose adjustment is necessary in elderly patients.
 Of the total number of patients in Studies 1, 2, and 3 (clinical studies of febuxostat tablets in the treatment of gout) [see Clinical Studies (14.1)], 16% were 65 and over, while 4% were 75 and over.
 Comparing patients in different age groups, no clinically significant differences in safety or effectiveness were observed but greater sensitivity of some older individuals cannot be ruled out.
-The C max and AUC 24 of febuxostat following multiple oral doses of febuxostat tablets in geriatric patients (≥ 65 years) were similar to those in younger patients (18 to 40 years) [see Clinical Pharmacology (12.3)].
+The C maxand AUC 24of febuxostat following multiple oral doses of febuxostat tablets in geriatric patients (≥ 65 years) were similar to those in younger patients (18 to 40 years) [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-No dose adjustment is necessary in patients with mild to moderate renal impairment (Cl cr 30 to 89 mL/min).
-For patients with severe renal impairment (Cl cr 15 to 29 mL/min), the recommended dosage of febuxostat tablets is limited to 40 mg once daily [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+No dose adjustment is necessary in patients with mild to moderate renal impairment (Cl cr30 to 89 mL/min).
+For patients with severe renal impairment (Cl cr15 to 29 mL/min), the recommended dosage of febuxostat tablets is limited to 40 mg once daily [see Dosage and Administration (2.2)and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
