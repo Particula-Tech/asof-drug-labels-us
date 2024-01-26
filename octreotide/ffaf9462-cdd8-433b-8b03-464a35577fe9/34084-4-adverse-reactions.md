@@ -1,79 +1,41 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Gallbladder Abnormalities
+## 6.1 Clinical Trials Experience
 
-Gallbladder abnormalities, especially stones and/or biliary sludge, frequently develop in patients on chronic octreotide acetate injection therapy (see WARNINGS).
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-## Cardiac
+Gallbladder Abnormalities Gallbladder abnormalities, especially stones and/or biliary sludge, frequently develop in patients on chronic octreotide acetate injection therapy [see Warnings and Precautions (5.1)].
+In clinical trials (primarily patients with acromegaly or psoriasis), the incidence of biliary tract abnormalities was 63% (27% gallstones, 24% sludge without stones, 12% biliary duct dilatation).
+The incidence of stones or sludge in patients who received octreotide acetate injection for 12 months or longer was 52%.
+Less than 2% of patients treated with octreotide acetate injection for 1 month or less developed gallstones.
 
-In acromegalics, sinus bradycardia (< 50 bpm) developed in 25%; conduction abnormalities occurred in 10% and arrhythmias developed in 9% of patients during octreotide acetate therapy (see PRECAUTIONS - General).
+Cardiac In acromegalics, sinus bradycardia (< 50 bpm) developed in 25%; conduction abnormalities occurred in 10% and arrhythmias developed in 9% of patients during octreotide acetate injection therapy [see Warnings and Precautions (5.1)].
 
-## Gastrointestinal
-
-Diarrhea, loose stools, nausea, and abdominal discomfort were each seen in 34% to 61% of acromegalic patients in U.S. studies although only 2.6% of the patients discontinued therapy due to these symptoms.
-These symptoms were seen in 5% to 10% of patients with other disorders.
+Gastrointestinal Diarrhea, loose stools, nausea, and abdominal discomfort were each seen in 34% to 61% of acromegalic patients in U.S. studies.
+2.6% of the patients discontinued therapy due to these symptoms.
+These symptoms were seen in 5% to 10% of patients with carcinoid tumors and VIPomas.
 
 The frequency of these symptoms was not dose related, but diarrhea and abdominal discomfort generally resolved more quickly in patients treated with 300 mcg/day than in those treated with 750 mcg/day.
 Vomiting, flatulence, abnormal stools, abdominal distention, and constipation were each seen in less than 10% of patients.
 
 In rare instances, gastrointestinal side effects may resemble acute intestinal obstruction, with progressive abdominal distension, severe epigastric pain, abdominal tenderness, and guarding.
 
-## Hypo/Hyperglycemia
-
-Hypoglycemia and hyperglycemia occurred in 3% and 16% of acromegalic patients, respectively, but only in about 1.5% of other patients.
+Hypo/Hyperglycemia Hypoglycemia and hyperglycemia occurred in 3% and 16% of acromegalic patients, respectively, but only in about 1.5% of other patients.
 Symptoms of hypoglycemia were noted in approximately 2% of patients.
 
-## Hypothyroidism
-
-In acromegalics, biochemical hypothyroidism alone occurred in 12% while goiter occurred in 6% during octreotide acetate therapy (see PRECAUTIONS - General).
+Hypothyroidism In acromegalics, biochemical hypothyroidism alone occurred in 12% while goiter occurred in 8% and 4% required initiation of thyroid replacement therapy during octreotide acetate injection therapy [see Warnings and Precautions (5.4)].
 In patients without acromegaly, hypothyroidism has only been reported in several isolated patients and goiter has not been reported.
 
-## Other Adverse Events
+Other Adverse Events Pain on injection was reported in 7.7%, headache in 6%, and dizziness in 5%.
+Pancreatitis was also observed [see Warnings and Precautions (5.2)].
 
-Pain on injection was reported in 7.7%, headache in 6% and dizziness in 5%.
-Pancreatitis was also observed (see WARNINGS and PRECAUTIONS).
+Other Adverse Events 1% to 4% Other events, each observed in 1% to 4% of patients, included fatigue, weakness, pruritus, joint pain, backache, urinary tract infection, cold symptoms, flu symptoms, injection site hematoma, bruise, edema, flushing, blurred vision, pollakiuria, fat malabsorption, hair loss, visual disturbance, and depression.
 
-## Other Adverse Events 1% to 4%
+Anaphylactoid reactions, including anaphylactic shock, have been reported in several patients receiving octreotide acetate injection.
 
-Other events (relationship to drug not established), each observed in 1% to 4% of patients, included fatigue, weakness, pruritus, joint pain, backache, urinary tract infection, cold symptoms, flu symptoms, injection site hematoma, bruise, edema, flushing, blurred vision, pollakiuria, fat malabsorption, hair loss, visual disturbance, and depression.
+## 6.2 Postmarketing Experience
 
-## Other Adverse Events Less Than 1%
-
-Events reported in less than 1% of patients and for which relationship to octreotide acetate injection is not established are listed:
-
-Gastrointestinal (GI): hepatitis, jaundice, increase in liver enzymes, GI bleeding, hemorrhoids, appendicitis, gastric/peptic ulcer, gallbladder polyp;
-
-Integumentary: rash, cellulitis, petechiae, urticaria, basal cell carcinoma;
-
-Musculoskeletal: arthritis, joint effusion, muscle pain, Raynaud's phenomenon;
-
-Cardiovascular: chest pain, shortness of breath, thrombophlebitis, ischemia, congestive heart failure, hypertension, hypertensive reaction, palpitations, orthostatic BP decrease, tachycardia;
-
-CNS: anxiety, libido decrease, syncope, tremor, seizure, vertigo, Bell's Palsy, paranoia, pituitary apoplexy, increased intraocular pressure, amnesia, hearing loss, neuritis;
-
-Respiratory: pneumonia, pulmonary nodule, status asthmaticus;
-
-Endocrine: galactorrhea, hypoadrenalism, diabetes insipidus, gynecomastia, amenorrhea, polymenorrhea, oligomenorrhea, vaginitis;
-
-Urogenital: nephrolithiasis, hematuria;
-
-Hematologic: anemia, iron deficiency, epistaxis;
-
-Miscellaneous: otitis, allergic reaction, increased CK, weight loss.
-
-Evaluation of 20 patients treated for at least 6 months has failed to demonstrate titers of antibodies exceeding background levels.
-However, antibody titers to octreotide acetate were subsequently reported in 3 patients and resulted in prolonged duration of drug action in 2 patients.
-Anaphylactoid reactions, including anaphylactic shock, have been reported in several patients receiving octreotide acetate.
-
-## Postmarketing Experience
-
-The following adverse reactions have been identified during the postapproval use of octreotide acetate.
+The following adverse reactions have been identified during postapproval use of octreotide acetate Injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hepatobiliary: cholelithiasis, cholecystitis, cholangitis and pancreatitis, which have sometimes required cholecystectomy
-
-Gastrointestinal: intestinal obstruction
-
-Hematologic: thrombocytopenia
-
-To report SUSPECTED ADVERSE REACTIONS, contact Avet Pharmaceuticals Inc. at 1-866-901-DRUG (3784) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+Hepatobiliary: cholelithiasis, cholecystitis, cholangitis and pancreatitis, which have sometimes required cholecystectomy Gastrointestinal: intestinal obstruction Hematologic: thrombocytopenia
