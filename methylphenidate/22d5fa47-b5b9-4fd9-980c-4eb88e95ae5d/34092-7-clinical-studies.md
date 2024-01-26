@@ -3,7 +3,7 @@
 The efficacy of RELEXXII for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in pediatric patients (6 to 17 years) and adult patients is based upon adequate and well-controlled studies of another formulation of methylphenidate hydrochloride extended-release tablets (referred to as “methylphenidate hydrochloride extended-release tablets” in the section below).
 The results of these adequate and well-controlled studies are presented below.
 
-Methylphenidate hydrochloride extended-release tablets was demonstrated to be effective in the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in four randomized, double-blind, placebo-controlled studies in pediatric patients 6 to 17 years and two double-blind placebo-controlled studies in adults who met the Diagnostic and Statistical Manual 4 thedition (DSM-IV) criteria for ADHD.
+Methylphenidate hydrochloride extended-release tablets was demonstrated to be effective in the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in four randomized, double-blind, placebo-controlled studies in pediatric patients 6 to 17 years and two double-blind placebo-controlled studies in adults who met the Diagnostic and Statistical Manual 4th edition (DSM-IV) criteria for ADHD.
 
 Pediatric Patients 6 to 12 Years
 
@@ -25,7 +25,7 @@ In Studies 1 and 2, symptoms of ADHD were evaluated by laboratory schoolteachers
 The combined results from these two studies demonstrated statistically significant improvements in attention and behavior in patients treated with methylphenidate hydrochloride extended-release tablets versus placebo that were maintained through 12 hours after dosing.
 Figure 3 presents the laboratory schoolteacher SKAMP ratings for methylphenidate hydrochloride extended-release tablets and placebo.
 
-Figure 3:Laboratory School Teacher SKAMP Ratings: Mean (SEM) of Combined Attention (Studies 1 and 2)
+Figure 3: Laboratory School Teacher SKAMP Ratings: Mean (SEM) of Combined Attention (Studies 1 and 2)
 
 Pediatric Patients 13 to 17 years
 

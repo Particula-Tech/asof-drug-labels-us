@@ -5,6 +5,7 @@
   "inn": "methylphenidate",
   "labeler": "Vertical Pharmaceuticals, LLC",
   "package_ndcs": [
+    "68025-084-30",
     "68025-088-10",
     "68025-088-30",
     "68025-089-10",
@@ -17,12 +18,7 @@
   "products": [
     {
       "form": "TABLET, EXTENDED RELEASE",
-      "generic": "methylphenidate hydrochloride extended-release",
-      "name": "RELEXXII"
-    },
-    {
-      "form": "TABLET, EXTENDED RELEASE",
-      "generic": "methylphyenidate hydrochloride extended-release",
+      "generic": "methylphenidate hydrochloride",
       "name": "RELEXXII"
     }
   ],

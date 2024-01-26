@@ -2,7 +2,7 @@
 
 How Supplied
 
-RELEXXII ®(methylphenidate hydrochloride extended-release tablets) are available as:
+RELEXXII® (methylphenidate hydrochloride extended-release tablets) are available as:
 
 - 18 mg yellow tablets with “TL706” imprinted in black ink
   - NDC 68025-095-10 in 100-count bottle

@@ -66,18 +66,18 @@ Adverse Reactions Reported by ≥1% of Pediatric Patients (6 to 17 years) Treate
 | Nervous System Disorders |  |  |
 | Dizziness | 1.9 | 0 |
 | Psychiatric Disorders |  |  |
-| Insomnia * | 2.8 | 0.3 |
+| Insomnia* | 2.8 | 0.3 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |
 | Cough | 1.9 | 0.9 |
 | Oropharyngeal pain | 1.2 | 0.9 |
-| *Terms of Initial insomnia (methylphenidate hydrochloride extended-release tablets =0.6%) and Insomnia (methylphenidate hydrochloride extended-release tablets =2.2%) are combined into Insomnia. |  |  |
+| * Terms of Initial insomnia (methylphenidate hydrochloride extended-release tablets =0.6%) and Insomnia (methylphenidate hydrochloride extended-release tablets =2.2%) are combined into Insomnia. |  |  |
 
 Adults
 
 Table 5 lists the adverse reactions reported in 1% or more of adults treated with another formulation of methylphenidate hydrochloride extended-release tablets in two placebo-controlled, double-blind clinical trials.
 
 Table 5.
-Adverse Reactions Reported by ≥1% of Adults Treated with Another Formulation of Methylphenidate Hydrochloride Extended-release Tablets in Two Placebo-Controlled, Double-Blind Clinical Trials *
+Adverse Reactions Reported by ≥1% of Adults Treated with Another Formulation of Methylphenidate Hydrochloride Extended-release Tablets in Two Placebo-Controlled, Double-Blind Clinical Trials*
 
 | System/Organ Class Adverse Reaction | Another Formulation of Methylphenidate Hydrochloride Extended-release Tablets (n=415) % | Placebo (n=212) % |
 | --- | --- | --- |
@@ -131,7 +131,7 @@ Adverse Reactions Reported by ≥1% of Adults Treated with Another Formulation o
 | Oropharyngeal pain | 1.7 | 1.4 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Hyperhidrosis | 5.1 | 0.9 |
-| *Included doses up to 108 mg (1.5 times the maximum recommended dosage of RELEXXII). |  |  |
+| * Included doses up to 108 mg (1.5 times the maximum recommended dosage of RELEXXII). |  |  |
 
 Adverse Reactions Observed in Clinical Trials with Another Formulation of Methylphenidate Hydrochloride Extended-release Tablets
 
