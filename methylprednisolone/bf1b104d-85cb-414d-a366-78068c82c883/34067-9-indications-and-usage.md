@@ -24,7 +24,7 @@ Ophthalmic Diseases: Sympathetic opthalmia, temporal arteritis, uveitis, ocular 
 
 Renal Diseases: To induce diuresis or remission of proteinuria in idiopathic nephrotic syndrome, or that due to lupus erythematosus.
 
-Respiratory Diseases: Berylliosis,, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy, idiopathic eosinophilic pneumonias, symptomatic sarcoidosis.
+Respiratory Diseases: Berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy, idiopathic eosinophilic pneumonias, symptomatic sarcoidosis.
 
 Rheumatic Disorders: As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in acute gouty arthritis; acute rheumatic carditis; ankylosing spondylitis; psoriatic arthritis; rheumatoid arthritis, including juvenile rheumatoid arthritis (selected cases may require low-dose maintenance therapy).
 For the treatment of dermatomyositis, polymyositis, and systemic lupus erythematosus.
