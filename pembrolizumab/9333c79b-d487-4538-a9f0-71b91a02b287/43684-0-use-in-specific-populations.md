@@ -79,3 +79,6 @@ The incidence of fatal adverse reactions was 4% in patients younger than 75 and 
 
 Of the 432 patients randomized to KEYTRUDA in combination with axitinib in the KEYNOTE-426 trial, 40% were 65 years or older.
 No overall difference in safety or efficacy was reported between patients who were ≥65 years of age and younger.
+
+Of 292 adult patients with FIGO 2014 Stage III-IVA cervical cancer who were treated with KEYTRUDA in combination with CRT in KEYNOTE-A18, 42 (14%) were 65 years and over.
+No overall differences in safety or efficacy were observed between elderly and younger patients.
