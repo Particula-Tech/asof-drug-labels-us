@@ -8,6 +8,8 @@
 - Advise patients to not interrupt or discontinue sotalol hydrochloride tablets without their physician’s advice, that they should get their prescription for sotalol filled and refilled on time, so they do not interrupt treatment [see Dosage and Administration (2)].
 - Advise patients to not start taking other medications without first discussing new medications with their healthcare provider.
 - Advise patients to avoid taking sotalol hydrochloride tablets within two hours of taking antacids that contain aluminum oxide or magnesium hydroxide [see Drug Interactions (7.7)].
+- Inform patients or caregivers that there is a risk of hypoglycemia when sotalol hydrochloride tablets are given to patients who are fasting or who are vomiting.
+  Inform patients to notify their healthcare provider if they experience symptoms of hypoglycemia [see Warnings and Precautions (5.7)].
 
 Lactation
 
@@ -21,4 +23,4 @@ Opava-Komarov, Czech Republic
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-O 1/2023
+P 12/2023
