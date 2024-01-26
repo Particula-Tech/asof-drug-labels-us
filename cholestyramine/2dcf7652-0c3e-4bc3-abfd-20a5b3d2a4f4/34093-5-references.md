@@ -21,7 +21,7 @@
 
 Manufactured by:
 
-Cadila Healthcare Ltd.
+Zydus Lifesciences Ltd.,
 
 Baddi, India
 
@@ -31,4 +31,4 @@ Zydus Pharmaceuticals USA Inc.
 
 Pennington, NJ 08534
 
-Rev.: 09/17
+Rev.: 11/22
