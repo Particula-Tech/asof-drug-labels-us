@@ -43,8 +43,8 @@ Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Drugs
 | Clinical Impact | Decreased warfarin exposure and prolongation of prothrombin time (INR) [see Warnings and Precautions (5.4), Clinical Pharmacology (12.3)]. |
 | Intervention | In patients on chronic warfarin therapy, monitor the prothrombin time (INR) in the 2-week period, particularly at 7 to 10 days, following administration of fosaprepitant with each chemotherapy cycle. |
 | Other |  |
-| 5-HT3 Antagonists |  |
-| Clinical Impact | No change in the exposure of the 5-HT3 antagonist [see Clinical Pharmacology (12.3)]. |
+| 5-HT 3Antagonists |  |
+| Clinical Impact | No change in the exposure of the 5-HT 3antagonist [see Clinical Pharmacology (12.3)]. |
 | Intervention | No dosage adjustment needed |
 | Examples | ondansetron, granisetron, dolasetron |
 
@@ -61,7 +61,7 @@ Effects of Other Drugs on Pharmacokinetics of Fosaprepitant/Aprepitant
 | --- | --- |
 | Clinical Impact | Significantly increased exposure of aprepitant may increase the risk of adverse reactions associated with fosaprepitant [see Adverse Reactions (6.1), Clinical Pharmacology (12.3)]. |
 | Intervention | Avoid concomitant use of fosaprepitant |
-| Examples | Moderate inhibitor: diltiazem Strong inhibitors:ketoconazole, itraconazole, nefazodone, troleandomycin, clarithromycin, ritonavir, nelfinavir |
+| Examples | Moderate inhibitor: diltiazem Strong inhibitors: ketoconazole, itraconazole, nefazodone, troleandomycin, clarithromycin, ritonavir, nelfinavir |
 | Strong CYP3A4 Inducers |  |
 | Clinical Impact | Substantially decreased exposure of aprepitant in patients chronically taking a strong CYP3A4 inducer may decrease the efficacy of fosaprepitant [see Clinical Pharmacology (12.3)]. |
 | Intervention | Avoid concomitant use of fosaprepitant |

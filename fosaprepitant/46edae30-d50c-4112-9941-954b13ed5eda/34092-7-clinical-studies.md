@@ -2,7 +2,7 @@
 
 ## 14.1 Prevention of Nausea and Vomiting Associated with HEC in Adults
 
-In a randomized, parallel, double-blind, active-controlled study, fosaprepitant for injection 150 mg as a single intravenous infusion (N=1147) was compared to a 3-day oral aprepitant regimen (N=1175) in patients receiving a HEC regimen that included cisplatin (≥70 mg/m2).
+In a randomized, parallel, double-blind, active-controlled study, fosaprepitant for injection 150 mg as a single intravenous infusion (N=1147) was compared to a 3-day oral aprepitant regimen (N=1175) in patients receiving a HEC regimen that included cisplatin (≥70 mg/m 2).
 All patients in both groups received dexamethasone and ondansetron (see Table 11).
 Patient demographics were similar between the two treatment groups.
 Of the total 2322 patients, 63% were men, 56% White, 26% Asian, 3% American Indian/Alaska Native, 2% Black, 13% Multi-Racial, and 33% Hispanic/Latino ethnicity.
@@ -17,12 +17,12 @@ Treatment Regimens in Adult HEC Trial*
 | --- | --- | --- | --- | --- |
 | Fosaprepitant Regimen |  |  |  |  |
 | Fosaprepitant for injection | 150 mg intravenously over 20 to 30 minutes approximately 30 minutes prior to chemotherapy | none | none | none |
-| Oral dexamethasone† | 12 mg | 8 mg | 8 mg twice daily | 8 mg twice daily |
-| Ondansetron | Ondansetron‡ | none | none | none |
+| Oral dexamethasone † | 12 mg | 8 mg | 8 mg twice daily | 8 mg twice daily |
+| Ondansetron | Ondansetron ‡ | none | none | none |
 | Oral aprepitant Regimen |  |  |  |  |
 | Aaprepitant capsules | 125 mg | 80 mg | 80 mg | none |
-| Oral dexamethasone§ | 12 mg | 8 mg | 8 mg | 8 mg |
-| Ondansetron | Ondansetron‡ | none | none | none |
+| Oral dexamethasone § | 12 mg | 8 mg | 8 mg | 8 mg |
+| Ondansetron | Ondansetron ‡ | none | none | none |
 
 *Fosaprepitant for injection placebo, fosaprepitant capsules placebo and dexamethasone placebo (in the evenings on Days 3 and 4) were used to maintain blinding.
 
@@ -46,16 +46,16 @@ Table 12
 
 Percent of Adult Patients Receiving HEC Responding by Treatment Group and Phase — Cycle 1
 
-| ENDPOINTS | Fosaprepitant for Injection Regimen(N = 1106)*% | Oral Aprepitant Regimen(N = 1134)*% | Difference†(95% CI) |
+| ENDPOINTS | Fosaprepitant for Injection Regimen(N = 1106)*% | Oral Aprepitant Regimen(N = 1134)*% | Difference †(95% CI) |
 | --- | --- | --- | --- |
 | PRIMARY ENDPOINT |  |  |  |
-| Complete Response‡ |  |  |  |
-| Overall§ | 71.9 | 72.3 | -0.4 (-4.1, 3.3) |
+| Complete Response ‡ |  |  |  |
+| Overall § | 71.9 | 72.3 | -0.4 (-4.1, 3.3) |
 | SECONDARY ENDPOINTS |  |  |  |
-| Complete Response‡ |  |  |  |
-| Delayed phase¶ | 74.3 | 74.2 | 0.1 (-3.5, 3.7) |
+| Complete Response ‡ |  |  |  |
+| Delayed phase ¶ | 74.3 | 74.2 | 0.1 (-3.5, 3.7) |
 | No Vomiting |  |  |  |
-| Overall§ | 72.9 | 74.6 | -1.7 (-5.3, 2.0) |
+| Overall § | 72.9 | 74.6 | -1.7 (-5.3, 2.0) |
 
 *N: Number of patients included in the primary analysis of complete response.
 
@@ -83,11 +83,11 @@ Treatment Regimens in Adult MEC Trial*
 | --- | --- | --- | --- |
 | Fosaprepitant Regimen |  |  |  |
 | Fosaprepitant for Injection | 150 mg intravenously over 20 to 30 minutes approximately 30 minutes prior to chemotherapy | none | none |
-| Oral Dexamethasone† | 12 mg | none | none |
-| Oral Ondansetron‡ | 8 mg for 2 doses | none | none |
+| Oral Dexamethasone † | 12 mg | none | none |
+| Oral Ondansetron ‡ | 8 mg for 2 doses | none | none |
 | Standard Therapy |  |  |  |
 | Oral Dexamethasone | 20 mg | none | none |
-| Oral Ondansetron‡ | 8 mg for 2 doses | 8 mg twice daily | 8 mg twice daily |
+| Oral Ondansetron ‡ | 8 mg for 2 doses | 8 mg twice daily | 8 mg twice daily |
 
 *Fosaprepitant for injection placebo and dexamethasone placebo (on Day 1) were used to maintain blinding.
 
@@ -103,11 +103,11 @@ Table 14
 
 Percent of Adult Patients Receiving MEC Responding by Treatment Group
 
-| ENDPOINTS | Fosaprepitant for Injection Regimen(N = 502)*% | Standard Therapy Regimen (N = 498)* % | P-Value | Treatment Difference (95% CI) |
+| ENDPOINTS | Fosaprepitant for Injection Regimen(N = 502)*% | Standard Therapy Regimen(N = 498)* % | P-Value | Treatment Difference (95% CI) |
 | --- | --- | --- | --- | --- |
 | PRIMARY ENDPOINT |  |  |  |  |
-| Complete Response† |  |  |  |  |
-| Delayed phase‡ | 78.9 | 68.5 | <0.001 | 10.4 (5.1, 15.9) |
+| Complete Response † |  |  |  |  |
+| Delayed phase ‡ | 78.9 | 68.5 | <0.001 | 10.4 (5.1, 15.9) |
 
 *N: Number of patients included in the intention to treat population.
 

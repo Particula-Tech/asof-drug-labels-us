@@ -4,10 +4,10 @@
 
 Fosaprepitant, a prodrug of aprepitant, is a weak inhibitor of CYP3A4, and aprepitant is a substrate, inhibitor, and inducer of CYP3A4.
 
-- •Use of fosaprepitant with other drugs that are CYP3A4 substrates, may result in increased plasma concentration of the concomitant drug.
-  - oUse of pimozide with fosaprepitant is contraindicated due to the risk of significantly increased plasma concentrations of pimozide, potentially resulting in prolongation of the QT interval, a known adverse reaction of pimozide [see Contraindications (4)].
-- •Use of fosaprepitant with strong or moderate CYP3A4 inhibitors (e.g., ketoconazole, diltiazem) may increase plasma concentrations of aprepitant and result in an increased risk of adverse reactions related to fosaprepitant.
-- •Use of fosaprepitant with strong CYP3A4 inducers (e.g., rifampin) may result in a reduction in aprepitant plasma concentrations and decreased efficacy of fosaprepitant.
+- Use of fosaprepitant with other drugs that are CYP3A4 substrates, may result in increased plasma concentration of the concomitant drug.
+  - Use of pimozide with fosaprepitant is contraindicated due to the risk of significantly increased plasma concentrations of pimozide, potentially resulting in prolongation of the QT interval, a known adverse reaction of pimozide [see Contraindications (4)].
+- Use of fosaprepitant with strong or moderate CYP3A4 inhibitors (e.g., ketoconazole, diltiazem) may increase plasma concentrations of aprepitant and result in an increased risk of adverse reactions related to fosaprepitant.
+- Use of fosaprepitant with strong CYP3A4 inducers (e.g., rifampin) may result in a reduction in aprepitant plasma concentrations and decreased efficacy of fosaprepitant.
 
 See Table 7 and Table 8 for a listing of potentially significant drug interactions [see Drug Interactions (7.1, 7.2)].
 

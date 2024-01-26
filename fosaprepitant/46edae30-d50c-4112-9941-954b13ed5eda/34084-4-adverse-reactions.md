@@ -2,8 +2,8 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- •Hypersensitivity Reactions [see Warnings and Precautions (5.2)]
-- •Infusion Site Reactions [see Warnings and Precautions (5.3)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.2)]
+- Infusion Site Reactions [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -20,7 +20,7 @@ Table 6
 
 Most Common Adverse Reactions in Patients Receiving MEC*
 
-|  | Fosaprepitant for injection, ondansetron, and dexamethasone†(N=504) | Ondansetron and dexamethasone‡(N=497) |
+|  | Fosaprepitant for injection, ondansetron, and dexamethasone †(N=504) | Ondansetron and dexamethasone ‡(N=497) |
 | --- | --- | --- |
 | fatigue | 15% | 13% |
 | diarrhea | 13% | 11% |
@@ -52,7 +52,7 @@ Because fosaprepitant is converted to aprepitant, those adverse reactions associ
 See the full prescribing information for aprepitant capsules for complete safety information regarding studies performed with oral aprepitant capsules.
 
 Pediatric use information is approved for Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.’s Emend (fosaprepitant) for injection.
-However, due to Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+However, due to Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.��s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 6.2 Postmarketing Experience
 
@@ -63,4 +63,4 @@ Skin and subcutaneous tissue disorders: pruritus, rash, urticaria, Stevens-Johns
 
 Immune system disorders: hypersensitivity reactions including anaphylaxis and anaphylactic shock [see Contraindications (4), Warnings and Precautions (5.2)].
 
-Nervous system disorders: ifosfamide-induced neurotoxicity reported after fosaprepitant and ifosfamide coadministration.
+Nervous system disorders:ifosfamide-induced neurotoxicity reported after fosaprepitant and ifosfamide coadministration.
