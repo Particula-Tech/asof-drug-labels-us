@@ -50,7 +50,7 @@ The cSSSI pediatric trial was a single prospective multi-center, randomized, com
 A total of 396 pediatric patients aged 1 to 17 years with cSSSI caused by Gram positive pathogens were enrolled into the study.
 Patients known to have bacteremia, osteomyelitis, endocarditis, and pneumonia at baseline were excluded.
 Patients were enrolled in a stepwise approach into four age groups and given age-dependent doses of daptomycin for injection once daily for up to 14 days.
-The different age groups and doses evaluated were as follows: Adolescents (12 to 17 years) treated with 5 mg/kg of daptomycin for injection (n=113), Children (7 to 11 years) treated with 7 mg/kg of daptomycin for injection (n=113), Children (2 to 6 years) treated with 9 mg/kg of daptomycin for injection (n=125) and Infants (1 to < 2 years) treated with 10 mg/kg (n= 45).
+The different age groups and doses evaluated were as follows: Adolescents (12 to 17 years) treated with 5 mg/kg of daptomycin for injection (n=113), Children (7 to 11 years) treated with 7 mg/kg of daptomycin for injection (n=113), Children (2 to 6 years) treated with 9 mg/kg of daptomycin for injection (n=125) and Infants (1 to <2 years) treated with 10 mg/kg (n= 45).
 
 Patients were randomized 2:1 to receive daptomycin for injection or a standard of care (SOC) comparator, which included intravenous therapy with either vancomycin, clindamycin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin, or cloxacillin).
 Patients could switch to oral therapy after clinical improvement was demonstrated (no minimum IV dosing was required).
@@ -61,7 +61,7 @@ Investigator observed outcomes were verified in a blinded fashion.
 Of the 396 subjects randomized in the study, 389 subjects were treated with daptomycin for injection or comparator and included in the ITT population.
 Of these, 257 subjects were randomized to the daptomycin for injection group and 132 subjects were randomized to the comparator group.
 Approximately 95% of subjects switched to oral therapy.
-The mean day of switch was day 4,and ranged from day 1 to day 14.
+The mean day of switch was day 4, and ranged from day 1 to day 14.
 The clinical success rates determined at 7-14 days after last dose of therapy (IV and oral) (TOC visit) were 88% (227/257) for daptomycin for injection and 86% (114/132) for comparator.
 
 ## 14.2 S. aureus Bacteremia/Endocarditis
@@ -69,7 +69,7 @@ The clinical success rates determined at 7-14 days after last dose of therapy (I
 Adults with S. aureus Bacteremia/Endocarditis
 
 The efficacy of daptomycin for injection in the treatment of adult patients with S. aureus bacteremia was demonstrated in a randomized, controlled, multinational, multicenter, open-label trial.
-In this trial, adult patients with at least one positive blood culture for S. aureus obtained within 2 calendar days prior to the first dose of study drug and irrespective of source were enrolled and randomized to either daptomycin forinjection (6 mg/kg IV every 24h) or standard of care [an anti-staphylococcal semi-synthetic penicillin 2 g IV q4h (nafcillin, oxacillin, cloxacillin, or flucloxacillin) or vancomycin 1 g IV q12h, each with initial gentamicin 1 mg/kg IV every 8 hours for first 4 days].
+In this trial, adult patients with at least one positive blood culture for S. aureus obtained within 2 calendar days prior to the first dose of study drug and irrespective of source were enrolled and randomized to either daptomycin for injection (6 mg/kg IV every 24h) or standard of care [an anti-staphylococcal semi-synthetic penicillin 2 g IV q4h (nafcillin, oxacillin, cloxacillin, or flucloxacillin) or vancomycin 1 g IV q12h, each with initial gentamicin 1 mg/kg IV every 8 hours for first 4 days].
 Of the patients in the comparator group, 93% received initial gentamicin for a median of 4 days, compared with 1 patient (<1%) in the daptomycin for injection group.
 Patients with prosthetic heart valves, intravascular foreign material that was not planned for removal within 4 days after the first dose of study medication, severe neutropenia, known osteomyelitis, polymicrobial bloodstream infections, creatinine clearance <30 mL/min, and pneumonia were excluded.
 

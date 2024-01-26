@@ -52,7 +52,7 @@ Monitor for neuropathy and consider discontinuation.
 
 Avoid use of Daptomycin for Injection in pediatric patients younger than 12 months due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs with intravenous daptomycin [see Nonclinical Toxicology (13.2)].
 
-## 5.8 Clostridioides difficile – Associated Diarrhea
+## 5.8 Clostridioides difficile–Associated Diarrhea
 
 Clostridioides difficile–associated diarrhea (CDAD) has been reported with the use of nearly all systemic antibacterial agents, including daptomycin for injection, and may range in severity from mild diarrhea to fatal colitis [see Adverse Reactions (6.2)].
 Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of C. difficile.

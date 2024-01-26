@@ -56,7 +56,7 @@ Adult Patients:
 
 No dosage adjustment is required in adult patients with creatinine clearance (CLCR) greater than or equal to 30 mL/min.
 The recommended dosage regimen for Daptomycin for Injection in adult patients with CLCR less than 30 mL/min, including adult patients on hemodialysis or continuous ambulatory peritoneal dialysis (CAPD), is 4 mg/kg (cSSSI) or 6 mg/kg (S. aureus bloodstream infections) once every 48 hours (Table 3).
-When possible, Daptomycin for Injection should be administered following the completion of hemodialysis on hemodialysis days [see Warnings and Precautions (5.2, 5.10), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+When possible, Daptomycin for Injection should be administered following the completion of hemodialysis, on hemodialysis days [see Warnings and Precautions (5.2, 5.10), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 Table 3: Recommended Dosage of Daptomycin for Injection in Adult Patients
 
@@ -64,7 +64,7 @@ Table 3: Recommended Dosage of Daptomycin for Injection in Adult Patients
 | --- | --- | --- |
 | Creatinine Clearance (CLCR) | Dosage Regimen in Adults |  |
 | Greater than or equal to 30 mL/min | 4 mg/kg once every 24 hours | 6 mg/kg once every 24 hours |
-| Less than 30 mL/min, including hemodialysis and CAPD | 4 mg/kg once every 48 hoursWhen possible, administer Daptomycin for Injection following the completion of hemodialysis on hemodialysis days. | 6 mg/kg once every 48 hours |
+| Less than 30 mL/min, including hemodialysis and CAPD | 4 mg/kg once every 48 hoursWhen possible, administer Daptomycin for Injection following the completion of hemodialysis, on hemodialysis days. | 6 mg/kg once every 48 hours |
 
 Pediatric Patients:
 
@@ -73,12 +73,12 @@ The dosage regimen for Daptomycin for Injection in pediatric patients with renal
 ## 2.7 Preparation and Administration of Daptomycin for Injection
 
 There are other formulations of daptomycin that have differences concerning reconstitution and storage.
-Carefully follow the reconstitution and storage procedures described in thislabeling.
+Carefully follow the reconstitution and storage procedures described in this labeling.
 
 Reconstitution of Daptomycin for Injection Vial
 
 Daptomycin for Injection is supplied in single-dose vials, each containing 350 mg daptomycin as a sterile, lyophilized powder.
-The contents of a Daptomycin for Injection vial should be reconstituted, using aseptic technique, to 50 mg/mL as follows:
+The contents of a Daptomycin for Injection vial should be reconstituted with 0.9% sodium chloride injection, using aseptic technique, to 50 mg/mL as follows:
 
 1. To minimize foaming, AVOID vigorous agitation or shaking of the vial during or after reconstitution.
 2. Remove the polypropylene flip-off cap from the Daptomycin for Injection vial to expose the central portion of the rubber stopper.
@@ -87,8 +87,8 @@ The contents of a Daptomycin for Injection vial should be reconstituted, using a
 4. Slowly transfer 7 mL of 0.9% sodium chloride injection through the center of the rubber stopper into the Daptomycin for Injection vial, pointing the transfer needle toward the wall of the vial.
    It is recommended that a beveled sterile transfer needle that is 21 gauge or smaller in diameter, or a needleless device is used, pointing the transfer needle toward the wall of the vial.
 5. Ensure that all of the Daptomycin for Injection powder is wetted by gently rotating the vial.
-   1. Allow the wetted product to stand undisturbed for 10 minutes.
-   2. Gently rotate or swirl the vial contents for a few minutes, as needed, to obtain a completely reconstituted solution.
+   1. a. Allow the wetted product to stand undisturbed for 10 minutes.
+   2. b. Gently rotate or swirl the vial contents for a few minutes, as needed, to obtain a completely reconstituted solution.
 
 Administration Instructions
 
@@ -128,16 +128,18 @@ Stability studies have shown that the reconstituted solution is stable in the vi
 The diluted solution is stable in the infusion bag for 12 hours at room temperature and 48 hours if stored under refrigeration.
 The combined storage time (reconstituted solution in vial and diluted solution in infusion bag) should not exceed 12 hours at room temperature or 48 hours under refrigeration.
 
-## 2.8 Compatible Intravenous Solutions
+## 2.8 Compatible Intravenous Solution for Reconstitution and Dilution
 
-Daptomycin for Injection is compatible with 0.9% sodium chloride injection and Lactated Ringer's injection.
+Daptomycin for Injection is compatible with 0.9% sodium chloride injection for reconstitution.
+
+Reconstituted Daptomycin for injection can only be diluted with 0.9% sodium chloride injection.
 
 ## 2.9 Incompatibilities
 
 Daptomycin for injection is not compatible with dextrose-containing diluents.
 
 Daptomycin for Injection should not be used in conjunction with ReadyMED® elastomeric infusion pumps.
-Stability studies of daptomycin for injection solutions stored in ReadyMED® elastomeric infusion pumps identified an impurity (2-mercaptobenzothiazole) leaching from this pump system into the daptomycin for iInjection solution.
+Stability studies of daptomycin for injection solutions stored in ReadyMED® elastomeric infusion pumps identified an impurity (2-mercaptobenzothiazole) leaching from this pump system into the daptomycin for injection solution.
 
 Because only limited data are available on the compatibility of daptomycin for injection with other IV substances, additives and other medications should not be added to Daptomycin for Injection single-dose vials or infusion bags, or infused simultaneously with Daptomycin for Injection through the same IV line.
 If the same IV line is used for sequential infusion of different drugs, the line should be flushed with a compatible intravenous solution before and after infusion with Daptomycin for Injection.
