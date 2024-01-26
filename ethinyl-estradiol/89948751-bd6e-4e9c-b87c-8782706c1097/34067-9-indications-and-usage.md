@@ -9,13 +9,13 @@ Correct and consistent use of methods can result in lower failure rates.
 
 TABLE I: LOWEST EXPECTED AND TYPICAL FAILURE RATES DURING THE FIRST YEAR OF CONTINUOUS USE OF A METHOD
 
-| % of Women Experiencing an Unintended Pregnancy in the First Year of Continuous Use |  |  |
+| % Of Women Experiencing an Unintended Pregnancy in the First Year of Continuous Use |  |  |
 | --- | --- | --- |
-| Method | Lowest Expected* | Typical** |
+| Method | Lowest ExpectedThe authors' best guess of the percentage of women expected to experience an accidental pregnancy among couples who initiate a method (not necessarily for the first time) and who use it consistently and correctly during the first year if they do not stop for any other reason. | TypicalThis term represents "typical" couples who initiate use of a method (not necessarily for the first time), who experience an accidental pregnancy during the first year if they do not stop use for any other reason. |
 | (No contraception) | (85) | (85) |
 | Oral contraceptives |  | 3 |
-| combined | 0.1 | N/A *** |
-| progestin only | 0.5 | N/A *** |
+| Combined | 0.1 | N/A N/A - Data not available. |
+| progestin only | 0.5 | N/A |
 | Diaphragm with spermicidal cream or jelly | 6 | 20 |
 | Spermicides alone (foam, creams, gels, vaginal suppositories and vaginal film) | 6 | 26 |
 | Vaginal Sponge |  |  |
@@ -24,7 +24,7 @@ TABLE I: LOWEST EXPECTED AND TYPICAL FAILURE RATES DURING THE FIRST YEAR OF CONT
 | Implant | 0.05 | 0.05 |
 | Injection: depot medroxyprogesterone acetate | 0.3 | 0.3 |
 | IUD |  |  |
-| progesterone T | 1.5 | 2 |
+| progesterone T | 1.5 | 2.0 |
 | copper T 380A | 0.6 | 0.8 |
 | LNg 20 | 0.1 | 0.1 |
 | Condom without spermicides |  |  |
@@ -33,15 +33,8 @@ TABLE I: LOWEST EXPECTED AND TYPICAL FAILURE RATES DURING THE FIRST YEAR OF CONT
 | Cervical Cap with spermicidal cream or jelly |  |  |
 | nulliparous | 9 | 20 |
 | parous | 26 | 40 |
-| Periodic abstinence (all methods) | 1 to 9 | 25 |
+| Periodic abstinence (all methods) | 1-9 | 25 |
 | Withdrawal | 4 | 19 |
 | Female sterilization | 0.5 | 0.5 |
-| Male sterilization | 0.1 | 0.15 |
-
-Adapted from RA Hatcher et al, Reference 7.
-
-* The authors' best guess of the percentage of women expected to experience an accidental pregnancy among couples who initiate a method (not necessarily for the first time) and who use it consistently and correctly during the first year if they do not stop for any other reason.
-
-** This term represents "typical" couples who initiate use of a method (not necessarily for the first time), who experience an accidental pregnancy during the first year if they do not stop use for any other reason.
-
-***N/A - Data not available.
+| Male sterilization | 0.10 | 0.15 |
+| Adapted from RA Hatcher et al, Reference 7. |  |  |

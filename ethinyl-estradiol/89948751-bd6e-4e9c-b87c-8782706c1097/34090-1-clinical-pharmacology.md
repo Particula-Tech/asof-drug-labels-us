@@ -3,21 +3,21 @@
 Combination oral contraceptives act by suppression of gonadotropins.
 Although the primary mechanism of this action is inhibition of ovulation, other alterations include changes in the cervical mucus (which increase the difficulty of sperm entry into the uterus) and the endometrium (which reduce the likelihood of implantation).
 
-Pharmacokinetics
+## Pharmacokinetics
 
 The pharmacokinetics of norethindrone acetate and ethinyl estradiol tablets have not been characterized; however, the following pharmacokinetic information regarding norethindrone acetate and ethinyl estradiol is taken from the literature.
 
-Absorption
+### Absorption
 
 Norethindrone acetate appears to be completely and rapidly deacetylated to norethindrone after oral administration, since the disposition of norethindrone acetate is indistinguishable from that of orally administered norethindrone (1).
-Norethindrone acetate and ethinyl estradiol are subject to first-pass metabolism after oral dosing, resulting in an absolute bioavailability of approximately 64% for norethindrone and 43% for ethinyl estradiol (1 to 3).
+Norethindrone acetate and ethinyl estradiol are subject to first-pass metabolism after oral dosing, resulting in an absolute bioavailability of approximately 64% for norethindrone and 43% for ethinyl estradiol (1-3).
 
-Distribution
+### Distribution
 
-Volume of distribution of norethindrone and ethinyl estradiol ranges from 2 to 4 L/kg (1 to 3).
+Volume of distribution of norethindrone and ethinyl estradiol ranges from 2 to 4 L/kg (1-3).
 Plasma protein binding of both steroids is extensive (greater than 95%); norethindrone binds to both albumin and sex hormone binding globulin, whereas ethinyl estradiol binds only to albumin (4).
 
-Metabolism
+### Metabolism
 
 Norethindrone undergoes extensive biotransformation, primarily via reduction, followed by sulfate and glucuronide conjugation.
 The majority of metabolites in the circulation are sulfates, with glucuronides accounting for most of the urinary metabolites (5).
@@ -28,28 +28,28 @@ The primary oxidative metabolite is 2-hydroxy ethinyl estradiol, formed by the C
 Part of the first-pass metabolism of ethinyl estradiol is believed to occur in gastrointestinal mucosa.
 Ethinyl estradiol may undergo enterohepatic circulation (6).
 
-Excretion
+### Excretion
 
-Norethindrone and ethinyl estradiol are excreted in both urine and feces, primarily as metabolites (5,6).
-Plasma clearance values for norethindrone and ethinyl estradiol are similar (approximately 0.4 L/hr/kg) (1 to 3).
+Norethindrone and ethinyl estradiol are excreted in both urine and feces, primarily as metabolites (5, 6).
+Plasma clearance values for norethindrone and ethinyl estradiol are similar (approximately 0.4 L/hr/kg) (1-3).
 
-Special Population
+## Special Population
 
-Race:
+### Race
 
 The effect of race on the disposition of norethindrone acetate and ethinyl estradiol tablets has not been evaluated.
 
-Renal Insufficiency
+### Renal Insufficiency
 
 The effect of renal disease on the disposition of norethindrone acetate and ethinyl estradiol tablets has not been evaluated.
 In premenopausal women with chronic renal failure undergoing peritoneal dialysis who received multiple doses of an oral contraceptive containing ethinyl estradiol and norethindrone, plasma ethinyl estradiol concentrations were higher and norethindrone concentrations were unchanged compared to concentrations in premenopausal women with normal renal function.
 
-Hepatic Insufficiency
+### Hepatic Insufficiency
 
 The effect of hepatic disease on the disposition of norethindrone acetate and ethinyl estradiol tablets has not been evaluated.
 However, ethinyl estradiol and norethindrone may be poorly metabolized in patients with impaired liver function.
 
-Drug-Drug Interactions
+### Drug-Drug Interactions
 
 Numerous drug-drug interactions have been reported for oral contraceptives.
 A summary of these is found under PRECAUTIONS, Drug Interactions.
