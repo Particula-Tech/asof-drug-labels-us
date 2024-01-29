@@ -5,7 +5,14 @@ If applicable, inform patient, family member, or caregiver that certain medical 
 Manufactured by: Amneal Pharmaceuticals Pvt.
 Ltd. Parenteral Unit Ahmedabad 382213, INDIA
 
+Or
+
+Amneal Pharmaceuticals Pvt.
+Ltd. Parenteral Unit
+
+Ahmedabad 382110, INDIA
+
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-12-2019-01
+11-2023-03
