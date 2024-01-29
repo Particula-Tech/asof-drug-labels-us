@@ -1,4 +1,4 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12 Clinical Pharmacology
 
 ## 12.1 Mechanism of Action
 
@@ -17,7 +17,7 @@ Hyaluronidase facilitates dispersion, provided local interstitial pressure is ad
 Such an impulse is normally initiated by injected solutions.
 The rate and extent of dispersion and absorption is proportionate to the amount of hyaluronidase and the volume of solution.
 
-The reconstitution of the dermal barrier removed by intradermal injection of hyaluronidase (20, 2, 0.2, 0.02, and 0.002 U/mL) to adult humans indicated that at 24 hours the restoration of the barrier is incomplete and inversely related to the dosage of hyaluronidase; at 48 hours, the barrier is completely restored in all treated areas.
+The reconstitution of the dermal barrier removed by intradermal injection of hyaluronidase (20, 2, 0.2, 0.02, and 0.002 USP units/mL) to adult humans indicated that at 24 hours the restoration of the barrier is incomplete and inversely related to the dosage of hyaluronidase; at 48 hours, the barrier is completely restored in all treated areas.
 
 Results from an experimental study, in humans, on the influence of hyaluronidase in bone repair support the conclusion that hyaluronidase alone, in the usual clinical dosage, does not deter bone healing.
 

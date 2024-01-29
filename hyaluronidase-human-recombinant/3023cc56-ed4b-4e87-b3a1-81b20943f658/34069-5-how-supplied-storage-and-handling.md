@@ -1,11 +1,12 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16 How Supplied/Storage and Handling
 
-HYLENEX recombinant is supplied sterile as 150 USP units of nonpreserved recombinant human hyaluronidase per mL in a single-use glass vial.
+HYLENEX recombinant (hyaluronidase) injection is supplied sterile clear and colorless solution as 150 USP units of nonpreserved hyaluronidase per mL in a single-dose glass vial.
+Discard unused portion.
 
 HYLENEX recombinant is supplied in the following packaging:
 
-1 mL Single Dose Vial (NDC 18657-117-01) available in boxes of 4 (NDC 18657-117-04)
+1 mL single-dose vial (NDC 18657-117-01) available in boxes of 4 (NDC 18657-117-04)
 
-Store unopened in a refrigerator at 2° to 8°C (36° to 46° F).
+Store unopened in a refrigerator at 2°C to 8°C (36°F to 46°F).
 
 DO NOT FREEZE.

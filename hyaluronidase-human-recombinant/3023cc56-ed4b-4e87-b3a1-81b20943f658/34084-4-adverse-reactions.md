@@ -1,4 +1,4 @@
-# 6 ADVERSE REACTIONS
+# 6. Adverse Reactions
 
 The following adverse reactions have been identified during post-approval use of hyaluronidase products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

@@ -1,3 +1,3 @@
-# 3 DOSAGE FORMS AND STRENGTHS
+# 3. Dosage Forms and Strengths
 
-150 USP units/mL single dose vials
+Injection: 150 USP units/mL as a clear and colorless solution in a single-dose vial.

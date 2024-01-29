@@ -1,11 +1,11 @@
-# PRINCIPAL DISPLAY PANEL - 1 mL Vial Carton
+# PRINCIPAL DISPLAY PANEL - 4 Vial Carton
 
-NDC 18657-117-04
+4 x 1 mL NDC 18657-117-04
 
-Hylenex® recombinant 4 x 1 mL (hyaluronidase human injection)
+Hylenex® recombinant (hyaluronidase) injection
 
 150 USP units/mL NOT FOR IV USE REFRIGERATE
 
 Rx only
 
-Single Dose Vials HALOZYME THERAPEUTICS
+Single Dose Vial Discard Unused Portion HALOZYME, INC.

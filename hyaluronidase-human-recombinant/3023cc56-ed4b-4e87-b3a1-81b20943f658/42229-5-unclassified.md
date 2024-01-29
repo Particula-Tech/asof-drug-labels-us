@@ -1,10 +1,8 @@
-Hylenex, the Hylenex logo and Halozyme Therapeutics are trademarks of Halozyme, Inc.
+Hylenex and the Hylenex logo are trademarks of Halozyme, Inc.
 
-U.S. Patent Nos. 7,767,429, 8,202,517, 8,431,124 and 8,431,380
+Patents: https://halozyme.com/
 
-Manufactured for and Marketed by: Halozyme Therapeutics, Inc., San Diego, CA 92121
-
-For Product Inquiry: 1 855 495-3639
+Manufactured for and marketed by: Halozyme, Inc., San Diego, CA 92130 Distributed by: Antares Pharma, Inc. Ewing, NJ 08628 US license 2187 For Product Inquiry: 1 855 495-3639
 
 Rev.
-February 2016 LBL301-05
+01/2024 LBL301-06

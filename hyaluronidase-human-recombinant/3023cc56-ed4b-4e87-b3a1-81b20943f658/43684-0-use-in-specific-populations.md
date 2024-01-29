@@ -1,27 +1,35 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8. Use in Specific Populations
 
-## 8.1 Pregnancy
+## 8.1. Pregnancy
 
-Pregnancy Category C. In an embryo-fetal study, mice have been dosed daily by subcutaneous injection with recombinant human hyaluronidase at dose levels up to 2,200,000 U/kg.
-The study found no evidence of teratogenicity.
-Reduced fetal weight and increased numbers of fetal resorptions were observed, with no effects found at a daily dose of 360,000 U/kg, which represents several orders of magnitude over the suggested human dose range of 50-300 U of HYLENEX recombinant (0.8-5 U/kg in a 60 kg subject).
+Risk Summary
 
-In a pre- and postnatal development study, mice have been dosed daily by subcutaneous injection with recombinant human hyaluronidase at dose levels up to 1,100,000 U/kg.
+There are no adequate and well-controlled studies of HYLENEX recombinant administration in pregnant women to inform a drug-associated risk.
+Subcutaneous administration of HYLENEX recombinant to pregnant mice throughout organogenesis did not produce teratogenic effects at clinically relevant doses.
+Administration of HYLENEX recombinant to mice in a pre-/postnatal study did not produce adverse effects on offspring at clinically relevant doses.
+
+Human Data
+
+Limited available data with HYLENEX recombinant in pregnant women have not identified any potential risks.
+
+Animal Data
+
+In an embryofetal development study, subcutaneous administration of hyaluronidase to pregnant mice throughout organogenesis produced reduced fetal weight and increased numbers of fetal resorptions at daily doses greater or equal to 3 mg/kg (approximately 360,000 USP units/kg).
+No malformations were produced at any dose up to approximately 18 mg/kg (approximately 2,200,000 USP units/kg).
+These doses are several orders of magnitude greater than the maximum recommended human dose (5 USP units/kg).
+
+In a pre- and postnatal development study, mice were dosed daily by subcutaneous injection with hyaluronidase at dose levels up to 9 mg/kg (approximately 1,100,000 USP units/kg).
 The study found no adverse effects on sexual maturation, learning and memory of offspring, or their ability to produce another generation of offspring.
 
-It is also not known whether HYLENEX recombinant can cause fetal harm when administered to a pregnant woman.
-HYLENEX recombinant should be given to a pregnant woman only if clearly needed.
+## 8.2. Lactation
 
-## 8.2 Labor and Delivery
+Risk Summary
 
-Administration of hyaluronidase during labor was reported to cause no complications: no increase in blood loss or differences in cervical trauma were observed.
+There is no information regarding the presence of HYLENEX recombinant in human milk, the effects on the breastfed infants, or the effects on milk production to inform risk of HYLENEX recombinant to an infant during lactation.
 
-## 8.3 Nursing Mothers
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for HYLENEX recombinant.
 
-It is not known whether hyaluronidase is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when hyaluronidase is administered to a nursing woman.
-
-## 8.4 Pediatric Use
+## 8.4. Pediatric Use
 
 Clinical hydration requirements for children can be achieved through administration of subcutaneous fluids facilitated with HYLENEX recombinant.
 
@@ -33,6 +41,6 @@ For premature infants or during the neonatal period, the daily dosage should not
 
 During subcutaneous fluid administration, special care must be taken in pediatric patients to avoid over hydration by controlling the rate and total volume of the infusion [see Dosage and Administration (2.1)].
 
-## 8.5 Geriatric Use
+## 8.5. Geriatric Use
 
 No overall differences in safety or effectiveness have been observed between elderly and younger adult patients.

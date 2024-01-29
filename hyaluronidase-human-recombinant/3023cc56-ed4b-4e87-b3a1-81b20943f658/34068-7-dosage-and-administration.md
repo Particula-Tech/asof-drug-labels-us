@@ -1,23 +1,20 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2. Dosage and administration
 
-## 2.1 Important Administration Instructions
+## 2.1. Important Administration Instructions
 
 HYLENEX recombinant should not be administered intravenously.
 Its effects relative to dispersion and absorption of other drugs are not produced when it is administered intravenously because the enzyme is rapidly inactivated.
 
 HYLENEX recombinant may be administered for infiltration use, interstitial use, intramuscular use, intraocular use, peribulbar use, retrobulbar use, soft tissue use or subcutaneous use.
-
 Visually inspect parenteral drug products for particulate matter and discoloration prior to administration.
 
-Always use aseptic precautions.
+## 2.2. Subcutaneous Fluid Administration
+
 Lightly pinch the skin up into a small mound and insert the needle/catheter into the subcutaneous space.
+Inject 150 USP units of HYLENEX recombinant prior to start of subcutaneous fluid administration to facilitate absorption of up to 1,000 mL or more of solution.
 Inject HYLENEX recombinant through the catheter hub or injection port closest to the needle/catheter.
 Begin administration of solution.
 Solution should start in readily.
-
-## 2.2 Subcutaneous Fluid Administration
-
-Inject 150 U of HYLENEX recombinant prior to start of subcutaneous fluid administration to facilitate absorption of up to 1,000 mL or more of solution.
 As with all parenteral fluid therapy, observe effect closely, with the same precautions for restoring fluid and electrolyte balance as in intravenous injections.
 The dose, the rate of injection, and the type of solution (saline, glucose, Ringer's, etc.) must be adjusted carefully to the individual patient.
 When solutions devoid of inorganic electrolytes are administered subcutaneously, hypovolemia may occur.
@@ -29,11 +26,11 @@ The dosage of subcutaneous fluids administered is dependent upon the age, weight
 The rate and volume of subcutaneous fluid administration should not exceed those employed for intravenous infusion.
 For premature infants or during the neonatal period, the daily dosage should not exceed 25 mL/kg and the rate of administration should not be greater than 2 mL per minute.
 
-## 2.3 Dispersion and Absorption of Injected Drugs
+## 2.3. Dispersion and Absorption of Injected Drugs
 
-Hylenex can be used to enhance the dispersion and absorption of other injected or subcutaneously infused drugs by pre-administration of HYLENEX recombinant or by adding 50-300 U, most typically 150 U hyaluronidase, to the injection solution prior to infiltration use, interstitial use, intramuscular use, intraocular use, retrobulbar use, soft tissue use or subcutaneous use.
+Hylenex can be used to enhance the dispersion and absorption of other injected or subcutaneously infused drugs by pre-administration of HYLENEX recombinant or by adding 50 units to 300 units, most typically 150 USP units hyaluronidase, to the injection solution prior to infiltration use, interstitial use, intramuscular use, intraocular use, retrobulbar use, soft tissue use or subcutaneous use.
 
-## 2.4 Subcutaneous Urography
+## 2.4. Subcutaneous Urography
 
 The subcutaneous route of administration of urographic contrast media may be considered when intravenous administration cannot be successfully accomplished, particularly in infants and small children.
-With the patient prone, inject 75 U of HYLENEX recombinant subcutaneously over each scapula, followed by injection of the contrast medium at the same sites.
+With the patient prone, inject 75 USP units of HYLENEX recombinant subcutaneously over each scapula, followed by injection of the contrast medium at the same sites.
