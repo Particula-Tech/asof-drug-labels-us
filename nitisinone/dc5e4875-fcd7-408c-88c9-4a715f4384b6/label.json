@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA216201"
+  ],
+  "inn": "nitisinone",
+  "labeler": "Eton Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "71863-119-60",
+    "71863-120-60",
+    "71863-121-60",
+    "71863-122-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nitisinone",
+      "name": "Nitisinone"
+    }
+  ],
+  "setid": "dc5e4875-fcd7-408c-88c9-4a715f4384b6",
+  "source": "dailymed"
+}
