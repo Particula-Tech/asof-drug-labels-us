@@ -1,4 +1,4 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY - Neostigmine 10 mL Vial Label
+PACKAGE LABEL - PRINCIPAL DISPLAY – Neostigmine 10 mL Single Dose Vial Label
 
 NDC 65219-811-01 RF410510
 

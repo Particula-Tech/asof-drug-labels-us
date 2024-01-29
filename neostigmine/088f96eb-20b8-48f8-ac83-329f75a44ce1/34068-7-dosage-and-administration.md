@@ -12,7 +12,7 @@
   Additional, carefully adjusted bolus doses are administered according to the patient’s response.
 - An anticholinergic agent (e.g., atropine or glycopyrrolate) should be administered prior to or concomitantly with Neostigmine Methylsulfate Injection [see Dosage and Administration (2.4), Warnings and Precautions (5.5)].
 - TOF monitoring alone should not be relied upon to determine the adequacy of reversal of neuromuscular blockade.
-  Satisfactory recovery should be judged by the patient’s ability to maintain a patent airway, adequacy of ventilation, and skeletal muscle tone.
+  Satisfactory recovery should be judged by the patient's ability to maintain a patent airway, adequacy of ventilation, and skeletal muscle tone.
 
 ## 2.2 Recommended Dosage in Adults
 
