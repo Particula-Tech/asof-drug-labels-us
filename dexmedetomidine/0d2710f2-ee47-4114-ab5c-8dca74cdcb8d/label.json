@@ -12,14 +12,14 @@
   ],
   "products": [
     {
-      "form": "INJECTION",
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
       "generic": "dexmedetomidine hydrochloride",
       "name": "Dexmedetomidine Hydrochloride"
     },
     {
-      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "form": "INJECTION",
       "generic": "dexmedetomidine hydrochloride",
-      "name": "Dexmedetomidine Hydrochloride"
+      "name": "Dexmedetomidine Hydrochloride in Dextrose"
     }
   ],
   "setid": "0d2710f2-ee47-4114-ab5c-8dca74cdcb8d",

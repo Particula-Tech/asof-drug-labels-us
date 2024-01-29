@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-1. NDC 44567-600-04
+NDC 44567-600-04
 
 Dexmedetomidine HCl Injection
 
@@ -10,7 +10,7 @@ Rx only WG Critical Care
 
 # PRINCIPAL DISPLAY PANEL
 
-1. NDC 44567-601-04
+NDC 44567-601-04
 
 Dexmedetomidine HCl Injection
 
