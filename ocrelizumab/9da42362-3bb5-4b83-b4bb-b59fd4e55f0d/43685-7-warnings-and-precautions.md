@@ -12,7 +12,7 @@ Inform patients that infusion reactions can occur up to 24 hours after the infus
 Reducing the Risk of Infusion Reactions and Managing Infusion Reactions
 
 Administer pre-medication (e.g., methylprednisolone or an equivalent corticosteroid, and an antihistamine) to reduce the frequency and severity of infusion reactions.
-The addition of an antipyretic (e.g., acetaminophen) may also be considered [see Dosage and Administration (2.3)].
+The addition of an antipyretic (e.g., acetaminophen) may also be considered [see Dosage and Administration (2.2)].
 
 Management recommendations for infusion reactions depend on the type and severity of the reaction [see Dosage and Administration (2.5)].
 For life-threatening infusion reactions, immediately and permanently stop OCREVUS and administer appropriate supportive treatment.
@@ -20,11 +20,16 @@ For less severe infusion reactions, management may involve temporarily stopping 
 
 ## 5.2 Infections
 
+Serious, including life-threatening or fatal, bacterial, viral, parasitic and fungal infections have been reported in patients receiving OCREVUS.
+An increased risk of infections (including serious and fatal bacterial, fungal, and new or reactivated viral infections) has been observed in patients during and following completion of treatment with anti-CD20 B-cell depleting therapies.
+
 A higher proportion of OCREVUS-treated patients experienced infections compared to patients taking REBIF or placebo.
 In RMS trials, 58% of OCREVUS-treated patients experienced one or more infections compared to 52% of REBIF-treated patients.
 In the PPMS trial, 70% of OCREVUS-treated patients experienced one or more infections compared to 68% of patients on placebo.
 OCREVUS increased the risk for upper respiratory tract infections, lower respiratory tract infections, skin infections, and herpes-related infections [see Adverse Reactions (6.1)].
-OCREVUS was not associated with an increased risk of serious infections in MS patients.
+
+OCREVUS was not associated with an increased risk of serious infections in MS patients in controlled trials.
+
 Delay OCREVUS administration in patients with an active infection until the infection is resolved.
 
 Respiratory Tract Infections

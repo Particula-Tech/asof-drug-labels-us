@@ -5,7 +5,7 @@
 | OCREVUS can cause serious side effects, including: Infusion reactions: Infusion reactions are a common side effect of OCREVUS, which can be serious and may require you to be hospitalized. You will be monitored during your infusion and for at least 1 hour after each infusion of OCREVUS for signs and symptoms of an infusion reaction. Tell your healthcare provider or nurse if you get any of these symptoms: |  |  |  |  |  |  |  |
 |  | itchy skinrash hivestirednesscoughing or wheezing |  | trouble breathingthroat irritation or pain feeling faint fever redness on your face (flushing) |  | nauseaheadacheswelling of the throat dizziness |  | shortness of breath fatiguefast heart beat |
 |  | These infusion reactions can happen for up to 24 hours after your infusion. It is important that you call your healthcare provider right away if you get any of the signs or symptoms listed above after each infusion. If you get infusion reactions, your healthcare provider may need to stop or slow down the rate of your infusion. |  |  |  |  |  |  |
-| Infection: OCREVUS increases your risk of getting upper respiratory tract infections, lower respiratory tract infections, skin infections, and herpes infections. Infections are a common side effect, which can be serious. Tell your healthcare provider if you have an infection or have any of the following signs of infection including fever, chills, or a cough that does not go away. Signs of herpes infection include: |  |  |  |  |  |  |  |
+| Infection: Infections are a common side effect. OCREVUS increases your risk of getting upper respiratory tract infections, lower respiratory tract infections, skin infections, and herpes infections. Serious infections can happen with OCREVUS, which can be life-threatening or cause death. Tell your healthcare provider if you have an infection or have any of the following signs of infection including fever, chills, a cough that does not go away, or painful urination. Signs of herpes infection include: |  |  |  |  |  |  |  |
 |  |  | cold soresshingles |  | genital soresskin rash |  | painitching |  |
 | Signs of a more serious herpes infection include: |  |  |  |  |  |  |  |
 |  |  | changes in visioneye redness or eye pain |  | severe or persistent headachestiff neck |  | confusion |  |
@@ -32,4 +32,4 @@
 | Manufactured by: Genentech, Inc., A Member of the Roche Group, 1 DNA Way, South San Francisco, CA 94080-4990 |  |  |  |  |  |  |  |
 | U.S. License No. 1048 |  |  |  |  |  |  |  |
 | For more information, go to www.OCREVUS.com or call 1-844-627-3887. |  |  |  |  |  |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration |  |  |  |  |  |  | Revised: 8/2022 |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration |  |  |  |  |  |  | Revised: 1/2024 |

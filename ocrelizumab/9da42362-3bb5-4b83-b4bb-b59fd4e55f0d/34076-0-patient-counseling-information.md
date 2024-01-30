@@ -10,7 +10,7 @@ Advise patients to contact their healthcare provider immediately for signs or sy
 Infection
 
 Advise patients to contact their healthcare provider for any signs of infection during treatment or after the last dose [see Clinical Pharmacology (12.2)].
-Signs include fever, chills, constant cough, or signs of herpes such as cold sore, shingles, or genital sores [see Warnings and Precautions (5.2)].
+Signs include fever, chills, constant cough, dysuria, or signs of herpes such as cold sore, shingles, or genital sores [see Warnings and Precautions (5.2)].
 
 Advise patients that OCREVUS may cause reactivation of hepatitis B infection and that monitoring will be required if they are at risk [see Warnings and Precautions (5.2)].
 

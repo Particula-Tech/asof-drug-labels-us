@@ -66,14 +66,14 @@ Severe Infusion Reactions
 
 Immediately interrupt the infusion and administer appropriate supportive treatment, as necessary [see Warnings and Precautions (5.1)].
 Restart the infusion only after all symptoms have resolved.
-When restarting, begin at half of the infusion rate at the time of onset of the infusion reaction [see Dosage and Administration (2.2)].
-If this rate is tolerated, increase the rate as described in Table 1.
+When restarting, begin at half of the infusion rate at the time of onset of the infusion reaction.
+If this rate is tolerated, increase the rate as described in Table 1 [see Dosage and Administration (2.3)].
 This change in rate will increase the total duration of the infusion but not the total dose.
 
 Mild to Moderate Infusion Reactions
 
 Reduce the infusion rate to half the rate at the onset of the infusion reaction and maintain the reduced rate for at least 30 minutes [see Warnings and Precautions (5.1)].
-If this rate is tolerated, increase the rate as described in Table 1.
+If this rate is tolerated, increase the rate as described in Table 1 [see Dosage and Administration (2.3)].
 This change in rate will increase the total duration of the infusion but not the total dose.
 
 ## 2.6 Preparation and Storage of the Dilute Solution for Infusion

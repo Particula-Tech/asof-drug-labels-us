@@ -103,6 +103,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Gastrointestinal Disorders: Immune-mediated colitis [see Warnings and Precautions (5.6)]
 
-Infections and Infestations: Serious herpes infections [see Warnings and Precautions (5.2)] and progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.3)]
+Infections and Infestations: Serious herpes infections [see Warnings and Precautions (5.2)], progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.3)], and babesiosis
 
 Skin: Pyoderma gangrenosum
