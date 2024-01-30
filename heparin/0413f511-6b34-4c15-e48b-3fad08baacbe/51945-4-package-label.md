@@ -164,7 +164,7 @@ Rx ONLY
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-HOSPIRA
+Hospira
 
 # PRINCIPAL DISPLAY PANEL - 250 mL Bag Label - 7650
 
@@ -181,7 +181,7 @@ Additives should not be made to this solution.
 Single dose container.
 Discard unused portion.
 For Intravenous Use only.
-Inspect bag by squeezing firmly.
+Check for minute leaks.
 If leaks are found, discard.
 Store at 20℃ to 25℃ (68℉ to 77℉).
 [See USP Controlled Room Temperature.]
@@ -193,7 +193,7 @@ Rx ONLY
 
 5 PP
 
-HOSPIRA
+Hospira
 
 # PRINCIPAL DISPLAY PANEL - 250 mL Bag Label - 0012
 
@@ -210,7 +210,7 @@ Additives should not be made to this solution.
 Single dose container.
 Discard unused portion.
 For Intravenous Use only.
-Inspect bag by squeezing firmly.
+Check for minute leaks.
 If leaks are found, discard.
 Store at 20℃ to 25℃ (68℉ to 77℉).
 [See USP Controlled Room Temperature.]
@@ -222,4 +222,4 @@ Rx ONLY
 
 5 PP
 
-HOSPIRA
+Hospira
