@@ -10,4 +10,4 @@ For Oral Use Only
 
 250 mL
 
-Distributed by: arbor PHARMACEUTICALS, LLC Atlanta, GA 30328
+Distributed by: azurity® pharmaceuticals Woburn, MA 01801 USA

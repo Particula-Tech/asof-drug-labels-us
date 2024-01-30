@@ -1,22 +1,23 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Digoxin
+## 7.1 Antiarrhythmics and Other QT Prolonging Drugs
 
-Proarrhythmic events were more common in sotalol treated patients also receiving digoxin; it is not clear whether this represents an interaction or is related to the presence of heart failure, a known risk factor for proarrhythmia, in the patients receiving digoxin.
+Discontinue Class I or Class III antiarrhythmic agents for at least three half-lives prior to dosing with sotalol.
+Class Ia antiarrhythmic drugs such as disopyramide, quinidine and procainamide and other Class III drugs (for example, amiodarone) are not recommended as concomitant therapy with sotalol because of their potential to prolong refractoriness [see Warnings and Precautions (5.1)].
 
-## 7.2 Calcium-Blocking Drugs
+## 7.2 Negative Chronotropes
 
-Sotalol and calcium blocking drugs can be expected to have additive effects on atrioventricular conduction, ventricular function, and blood pressure.
+Digitalis glycosides, diltiazem, verapamil, and beta-blockers slow atrioventricular conduction and decrease heart rate.
+Concomitant use with negative chronotropes can increase the risk of bradycardia or hypotension.
 
 ## 7.3 Catecholamine-Depleting Agents
 
 Concomitant use of catecholamine-depleting drugs, such as reserpine and guanethidine, with a beta-blocker may produce an excessive reduction of resting sympathetic nervous tone.
-Monitor such patients for hypotension and marked bradycardia which may produce syncope.
+Monitor such patients for hypotension and/or marked bradycardia which may produce syncope.
 
-## 7.4 Insulin and Oral Antidiabetic Agents
+## 7.4 Insulin and Oral Antidiabetics
 
-Hyperglycemia may occur, and the dosage of insulin or antidiabetic drugs may require adjustment.
-Symptoms of hypoglycemia may be masked.
+Hyperglycemia may occur, and the dosage of insulin or antidiabetic drugs may require adjustment [see Warnings and Precautions 5.7]
 
 ## 7.5 Beta-2-Receptor Stimulants
 
@@ -24,17 +25,13 @@ Beta-agonists such as albuterol, terbutaline and isoproterenol may have to be ad
 
 ## 7.6 Clonidine
 
-Beta-blocking drugs may potentiate the rebound hypertension sometimes observed after discontinuation of clonidine.
+Concomitant use with sotalol increases the risk of bradycardia and AV block.
+Because beta-blockers may potentiate the rebound hypertension sometimes observed after clonidine discontinuation, withdraw sotalol several days before the gradual withdrawal of clonidine to reduce the risk of rebound hypertension.
 
-## 7.7 Drugs that Prolong QT Interval and Antiarrhythmic Agents
+## 7.7 Antacids
 
-Sotalol has not been studied with other drugs that prolong the QT interval such as antiarrhythmics, some phenothiazines, tricyclic antidepressants, certain oral macrolides and certain quinolone antibiotics.
-Class I or Class III antiarrhythmic agents should be withheld for at least three half-lives prior to dosing with sotalol.
-In clinical trials, sotalol was not administered to patients previously treated with oral amiodarone for >1 month in the previous three months.
-Class Ia antiarrhythmic drugs such as disopyramide, quinidine and procainamide and other Class III drugs (e.g., amiodarone) are not recommended as concomitant therapy with sotalol because of their potential to prolong refractoriness [see Warnings and Precautions (5.1)].
-There is only limited experience with the concomitant use of Class Ib or Ic antiarrhythmics.
+Avoid administration of oral sotalol within 2 hours of antacids containing aluminum oxide and magnesium hydroxide.
 
-## 7.8 Antacids
+## 7.8 Drug/Laboratory Test Interactions
 
-Administration of oral sotalol within 2 hours of antacids containing aluminum oxide and magnesium hydroxide should be avoided because it may result in a reduction in Cmax and AUC of 26% and 20%, respectively, and consequently in a 25% reduction in the bradycardic effect at rest.
-Administration of the antacid two hours after oral sotalol has no effect on the pharmacokinetics or pharmacodynamics of sotalol.
+The presence of sotalol in the urine may result in falsely elevated levels of urinary metanephrine when measured by flourimetric or photometric methods.

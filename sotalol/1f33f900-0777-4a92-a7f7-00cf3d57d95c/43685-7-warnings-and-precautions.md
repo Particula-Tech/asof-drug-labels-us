@@ -2,85 +2,64 @@
 
 ## 5.1 QT Prolongation and Proarrhythmia
 
-Ventricular arrhythmias
+SOTYLIZE can cause serious and potentially fatal ventricular arrhythmias such as sustained VT/VF, primarily Torsade de Pointes (TdP) type ventricular tachycardia, a polymorphic ventricular tachycardia associated with QT interval prolongation.
+Factors such as reduced creatinine clearance, female sex, higher doses, reduced heart rate, and history of sustained VT/VF or heart failure increases the risk of TdP.
+The risk of TdP can be reduced by adjustment of the sotalol dose according to creatinine clearance and by monitoring the ECG for excessive increases in the QT interval [see Dosage and Administration (2.1)].
 
-SOTYLIZE can cause serious ventricular arrhythmias, primarily Torsade de Pointes (TdP) type ventricular tachycardia, a polymorphic ventricular tachycardia associated with QT interval prolongation.
-QT interval prolongation is directly related to the concentration of sotalol.
-Factors such as reduced creatinine clearance, gender (female) and larger doses increase the risk of TdP.
-The risk of TdP can be reduced by adjustment of the sotalol dose according to creatinine clearance and by monitoring the ECG for excessive increases in the QT interval [see Dosage and Administration (2)].
-
-Use with Drugs that Prolong QT Interval and Antiarrhythmic Agents
-
-The use of SOTYLIZE in conjunction with other drugs that prolong the QT interval has not been studied and is not recommended.
-Such drugs include many antiarrhythmics, some phenothiazines, tricyclic antidepressants, certain oral macrolides and certain quinolone antibiotics.
-Class I or Class III antiarrhythmic agents should be withheld for at least three half-lives prior to dosing with sotalol.
-In clinical trials, sotalol was not administered to patients previously treated with oral amiodarone for >1 month in the previous three months.
-Class Ia antiarrhythmic drugs, such as disopyramide, quinidine and procainamide and other Class III drugs (e.g., amiodarone) are not recommended as concomitant therapy with sotalol because of their potential to prolong refractoriness.
-There is only limited experience with the concomitant use of Class Ib or Ic antiarrhythmics.
-
-## 5.2 Bradycardia/Heart Block
-
-In studies of oral sotalol, the incidence of bradycardia (as determined by the investigators) in the supraventricular arrhythmia population treated with oral sotalol was 13%, and led to discontinuation in 2.4% of patients.
-Bradycardia itself increases the risk of Torsade de Pointes, so carefully monitor patients receiving concomitant digoxin.
-
-## 5.3 Sick Sinus Syndrome
-
-In general, SOTYLIZE is not recommended in patients with sick sinus syndrome associated with symptomatic arrhythmias, because it may cause sinus bradycardia, sinus pauses or sinus arrest.
-In patients with AFIB and sinus node dysfunction, sotalol increases the risk of Torsade de Pointes, especially after cardioversion.
-Sotalol augments bradycardia following cardioversion.
-Patients with AFIB/AFL associated with the sick sinus syndrome may be treated with sotalol if they have an implanted pacemaker for control of bradycardia symptoms.
-
-## 5.4 Hypotension
-
-Sotalol produces significant reductions in both systolic and diastolic blood pressures and may result in hypotension, including decompensated heart failure.
-Monitor hemodynamics in patients with marginal cardiac compensation.
-
-## 5.5 Recent Acute MI
-
-Oral sotalol has been used in a controlled trial following an acute myocardial infarction without evidence of increased mortality [see Clinical Studies (14.3)].
-Although specific studies of its use in treating atrial arrhythmias after infarction have not been conducted, the usual precautions regarding heart failure, avoidance of hypokalemia, bradycardia or prolonged QT interval apply.
-Experience in the use of sotalol to treat ventricular arrhythmias in the early phase of recovery from acute MI is limited.
-In the first 2 weeks post-MI, careful dose titration is especially important, particularly in patients with markedly impaired ventricular function.
-
-## 5.6 Abrupt Withdrawal
-
-Hypersensitivity to catecholamines has been observed in patients withdrawn from beta-blocker therapy.
-Occasional cases of exacerbation of angina pectoris, arrhythmias and, in some cases, myocardial infarction have been reported after abrupt discontinuation of beta-blocker therapy.
-Therefore, when discontinuing chronically administered sotalol, particularly in patients with ischemic heart disease, carefully monitor the patient and consider the temporary use of an alternate beta-blocker if appropriate.
-If possible, the dosage of sotalol should be gradually reduced over a period of one to two weeks.
-If angina or acute coronary insufficiency develops, appropriate therapy should be instituted promptly.
-Patients should be warned against interruption or discontinuation of therapy without the physician's advice.
-Because coronary artery disease is common and may be unrecognized in patients receiving sotalol, abrupt discontinuation in patients with arrhythmias may unmask latent coronary insufficiency.
-
-## 5.7 Electrolyte Disturbances
-
-SOTYLIZE should not be used in patients with hypokalemia or hypomagnesemia prior to correction of imbalance, as these conditions increase the potential for Torsade de Pointes.
+Correct hypokalemia or hypomagnesemia prior to initiating SOTYLIZE, as these conditions can exaggerate the degree of QT prolongation, and increase the potential for Torsade de Pointes.
 Special attention should be given to electrolyte and acid-base balance in patients experiencing severe or prolonged diarrhea or patients receiving concomitant diuretic drugs.
 
-## 5.8 Renal Impairment
+Proarrhythmic events must be anticipated not only on initiating therapy, but with every upward dose adjustment [see Dosage and Administration (2.1)].
 
-Sotalol is eliminated principally via the kidneys through glomerular filtration and to a small degree by tubular secretion.
-There is a direct relationship between renal function, as measured by serum creatinine or creatinine clearance, and the elimination rate of sotalol [see Dosage and Administration (2)].
+Avoid use with other drugs known to cause QT prolongation [see Drug Interactions (7.1)].
 
-## 5.9 Non-Allergic Bronchospasm
+## 5.2 Bradycardia/Heart Block/Sick Sinus Syndrome
 
-Patients with bronchospastic diseases should in general not receive beta-blockers.
-If SOTYLIZE is to be administered, use the smallest effective dose, to minimize inhibition of bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta2 receptors.
+Sinus bradycardia (heart rate less than 50 bpm) occurred in 13% of patients receiving sotalol in clinical trials, and led to discontinuation in about 3% of patients.
+Bradycardia itself increases the risk of Torsade de Pointes.
+Sinus pause, sinus arrest and sinus node dysfunction occur in less than 1% of patients.
+The incidence of 2nd- or 3rd-degree AV block is approximately 1%.
 
-## 5.10 Diabetes
+SOTYLIZE is contraindicated in patients with sick sinus syndrome because it may cause sinus bradycardia, sinus pauses or sinus arrest.
 
-Beta-blockade may mask some important premonitory signs of acute hypoglycemia (e.g., tachycardia) in patients with diabetes (especially labile diabetes) or with a history of episodes of spontaneous hypoglycemia.
+## 5.3 Hypotension
 
-## 5.11 Thyrotoxicosis
+Sotalol produces significant reductions in both systolic and diastolic blood pressures and may result in hypotension.
+Monitor hemodynamics in patients with marginal cardiac compensation.
 
-Beta-blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
-Avoid abrupt withdrawal of SOTYLIZE which might exacerbate symptoms of hyperthyroidism, including thyroid storm.
+## 5.4 Heart Failure
 
-## 5.12 Anaphylaxis
+New onset or worsening heart failure may occur during initiation or uptitration of sotalol because of its beta-blocking effects.
+Monitor for signs and symptoms of heart failure and discontinue treatment if symptoms occur.
+
+## 5.5 Cardiac Ischemia after Abrupt Discontinuation
+
+Following abrupt cessation of therapy with beta-adrenergic blockers, exacerbations of angina pectoris and myocardial infarction may occur.
+When discontinuing chronically administered SOTYLIZE, particularly in patients with ischemic heart disease, gradually reduce the dosage over a period of 1 to 2 weeks, if possible, and monitor the patient.
+If angina markedly worsens or acute coronary ischemia develops, treat appropriately and consider use of an alternative beta-blocker.
+Warn patients not to interrupt therapy without their physician's advice.
+Because coronary artery disease is common, but may be unrecognized, the abrupt discontinuation of sotalol may unmask latent coronary insufficiency.
+
+## 5.6 Bronchospasm
+
+Patients with bronchospastic diseases (for example chronic bronchitis and emphysema) should not receive beta-blockers.
+If SOTYLIZE is to be administered, use the smallest effective dose, to minimize inhibition of bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta-2-receptors.
+
+## 5.7 Diabetes
+
+Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting).
+Monitor blood sugar, as appropriate.
+
+## 5.8 Thyroid Abnormalities
+
+Avoid abrupt withdrawal of beta-blockers in patients with thyroid disease because it may lead to an exacerbation of symptoms of hyperthyroidism, including thyroid storm.
+Beta-blockers may mask certain clinical signs (for example, tachycardia) of hyperthyroidism.
+
+## 5.9 Anaphylaxis
 
 While taking beta-blockers, patients with a history of anaphylactic reaction to a variety of allergens may have a more severe reaction on repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat the allergic reaction.
 
-## 5.13 Major Surgery
+## 5.10 Major Surgery
 
 Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.

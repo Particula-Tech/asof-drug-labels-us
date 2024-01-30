@@ -1,7 +1,9 @@
 # WARNING: LIFE-THREATENING PROARRHYTHMIA
 
-To minimize the risk of induced arrhythmia, patients initiated or re-initiated on oral sotalol, and patients who are converted from intravenous sotalol to oral administration should be hospitalized in a facility that can provide cardiac resuscitation, continuous electrocardiographic monitoring and calculations of creatinine clearance.
+To minimize the risk of drug-induced arrhythmia, initiate or re-initiate oral sotalol in a facility that can provide cardiac resuscitation and continuous electrocardiographic monitoring.
 
-- Sotalol can cause life-threatening ventricular tachycardia associated with QT interval prolongation.
-- Do not initiate sotalol therapy if the baseline QTc is longer than 450 ms. If the QT interval prolongs to 500 ms or greater, the dose must be reduced, the interval between doses prolonged, or the drug discontinued.
-- Adjust the dosing interval based on creatinine clearance.
+Sotalol can cause life-threatening ventricular tachycardia associated with QT interval prolongation.
+
+If the QT interval prolongs to 500 msec or greater, reduce the dose, lengthen the dosing interval, or discontinue the drug.
+
+Calculate creatinine clearance to determine appropriate dosing [see Dosage and Administration (2.5)].

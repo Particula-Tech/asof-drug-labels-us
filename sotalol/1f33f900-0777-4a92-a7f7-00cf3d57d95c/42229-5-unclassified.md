@@ -1,13 +1,13 @@
 Rx Only
 
-Manufactured for: arbor PHARMACEUTICALS, LLC Atlanta, GA 30328
+Manufactured for: azurity® pharmaceuticals Woburn, MA 01801
 
 Manufactured by: Patheon Inc. Whitby Region Operations 111 Consumers Drive Whitby, ON L1N 5Z5 Canada
 
-Distributed by: Arbor Pharmaceuticals, LLC, Atlanta, GA 30328
+Patent: https://azurity.com/patents
 
-SOTYLIZE® is a registered trademark of Arbor Pharmaceuticals, LLC
+Distributed by: Azurity Pharmaceuticals, Inc. Woburn, MA 01801
 
-© 2015 Arbor Pharmaceuticals, LLC
+SOTYLIZE® is a registered trademark of Azurity Pharmaceuticals, Inc.
 
-SOT-PI-02
+PN: SOT-PI-04
