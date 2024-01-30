@@ -2,9 +2,9 @@
 
 ## 5.1 Orthostasis
 
-The signs and symptoms of orthostasis (postural hypotension, dizziness, and vertigo) were detected more frequently in Tamsulosin hydrochloride capsule-treated patients than in placebo recipients.
+The signs and symptoms of orthostasis (postural hypotension, dizziness, and vertigo) were detected more frequently in tamsulosin hydrochloride capsule-treated patients than in placebo recipients.
 As with other alpha adrenergic blocking agents there is a potential risk of syncope [see Adverse Reactions (6.1)].
-Patients beginning treatment with Tamsulosin hydrochloride capsules should be cautioned to avoid situations in which injury could result should syncope occur.
+Patients beginning treatment with tamsulosin hydrochloride capsules should be cautioned to avoid situations in which injury could result should syncope occur.
 
 ## 5.2 Drug Interactions
 
@@ -16,7 +16,7 @@ Tamsulosin hydrochloride capsules should be used with caution in combination wit
 
 Tamsulosin hydrochloride capsules should not be used in combination with other alpha adrenergic blocking agents [see Drug Interactions (7.2)and Clinical Pharmacology (12.3)].
 
-Caution is advised when alpha adrenergic blocking agents including tamsulosin hydrochloride are coadministered with PDE5 inhibitors.
+Caution is advised when alpha adrenergic blocking agents including tamsulosin hydrochloride are co-administered with PDE5 inhibitors.
 Alpha-adrenergic blockers and PDE5 inhibitors are both vasodilators that can lower blood pressure.
 Concomitant use of these two drug classes can potentially cause symptomatic hypotension [see Drug Interactions (7.3)and Clinical Pharmacology (12.3)].
 
@@ -24,7 +24,7 @@ Caution should be exercised with concomitant administration of warfarin and tams
 
 ## 5.3 Priapism
 
-Rarely (probably less than 1 in 50,000 patients), tamsulosin, like other alpha 1 antagonists, has been associated with priapism (persistent painful penile erection unrelated to sexual activity).
+Rarely (probably less than 1 in 50,000 patients), tamsulosin, like other alpha 1antagonists, has been associated with priapism (persistent painful penile erection unrelated to sexual activity).
 Because this condition can lead to permanent impotence if not properly treated, patients must be advised about the seriousness of the condition.
 
 ## 5.4 Screening for Prostate Cancer

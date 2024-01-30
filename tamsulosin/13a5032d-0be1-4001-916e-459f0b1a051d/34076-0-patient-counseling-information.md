@@ -8,7 +8,7 @@ Advise the patient about the possible occurrence of symptoms related to postural
 
 • Drug Interactions
 
-Advise the patient that tamsulosin hydrochloride should not be used in combination with strong inhibitors of CYP3A4 [see Warnings and Precautions (5.2)and Drug Interactions (7.1)].
+Advise the patient that tamsulosin hydrochloride should not be used in combination with strong inhibitors of CYP3A4 [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
 
 • Priapism
 
@@ -27,4 +27,17 @@ Advise the patient when considering cataract or glaucoma surgery to tell their o
 
 Advise the patient that tamsulosin hydrochloride capsules should not be crushed, chewed or opened [see Dosage and Administration (2)].
 
-FDA-approved Patient Labeling
+FDA-approved Patient Labeling Patient labeling is provided at the end of this prescribing information.
+
+Manufactured by: Rottendorf Pharma GmbH Ennigerloh, Germany Made in Germany
+
+or
+
+Synthon Hispania, S.L.
+Barcelona, Spain Made in Spain
+
+Manufactured for: Synthon Pharmaceuticals, Inc.
+
+Revised: 01/2024
+
+PI-4010-10 (PPI-4013-10)

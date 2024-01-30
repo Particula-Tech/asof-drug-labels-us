@@ -6,21 +6,21 @@ Strong and Moderate Inhibitors of CYP3A4 or CYP2D6
 
 Tamsulosin is extensively metabolized, mainly by CYP3A4 and CYP2D6.
 
-Concomitant treatment with ketoconazole (a strong inhibitor of CYP3A4) resulted in an increase in the C max and AUC of tamsulosin by a factor of 2.2 and 2.8, respectively [see Warnings and Precautions (5.2)and Clinical Pharmacology (12.3)].
-The effects of concomitant administration of a moderate CYP3A4 inhibitor (e.g., erythromycin) on the pharmacokinetics of tamsulosin hydrochloride capsules have not been evaluated [see Warnings and Precautions (5.2)and Clinical Pharmacology (12.3)].
+Concomitant treatment with ketoconazole (a strong inhibitor of CYP3A4) resulted in an increase in the C max and AUC of tamsulosin by a factor of 2.2 and 2.8, respectively [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+The effects of concomitant administration of a moderate CYP3A4 inhibitor (e.g., erythromycin) on the pharmacokinetics of tamsulosin hydrochloride capsules have not been evaluated [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 
-Concomitant treatment with paroxetine (a strong inhibitor of CYP2D6) resulted in an increase in the C max and AUC of tamsulosin by a factor of 1.3 and 1.6, respectively [see Warnings and Precautions (5.2)and Clinical Pharmacology (12.3)].
+Concomitant treatment with paroxetine (a strong inhibitor of CYP2D6) resulted in an increase in the C max and AUC of tamsulosin by a factor of 1.3 and 1.6, respectively [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 A similar increase in exposure is expected in CYP2D6 poor metabolizers (PM) as compared to extensive metabolizers (EM).
-Since CYP2D6 PMs cannot be readily identified and the potential for significant increase in tamsulosin exposure exists when tamsulosin hydrochloride capsules 0.4 mg is co-administered with strong CYP3A4 inhibitors in CYP2D6 PMs, tamsulosin hydrochloride capsules 0.4 mg should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) [see Warnings and Precautions (5.2)and Clinical Pharmacology (12.3)].
+Since CYP2D6 PMs cannot be readily identified and the potential for significant increase in tamsulosin exposure exists when tamsulosin hydrochloride capsules 0.4 mg are co-administered with strong CYP3A4 inhibitors in CYP2D6 PMs, tamsulosin hydrochloride capsules 0.4 mg should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 
-The effects of concomitant administration of a moderate CYP2D6 inhibitor (e.g., terbinafine) on the pharmacokinetics of tamsulosin hydrochloride capsules have not been evaluated [see Warnings and Precautions (5.2)and Clinical Pharmacology (12.3)].
+The effects of concomitant administration of a moderate CYP2D6 inhibitor (e.g., terbinafine) on the pharmacokinetics of tamsulosin hydrochloride capsules have not been evaluated [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 
 The effects of co-administration of both a CYP3A4 and a CYP2D6 inhibitor with tamsulosin hydrochloride capsules have not been evaluated.
-However, there is a potential for significant increase in tamsulosin exposure when tamsulosin hydrochloride capsules 0.4 mg are co-administered with a combination of both CYP3A4 and CYP2D6 inhibitors [see Warnings and Precautions (5.2)and Clinical Pharmacology (12.3)].
+However, there is a potential for significant increase in tamsulosin exposure when tamsulosin hydrochloride capsules 0.4 mg are co-administered with a combination of both CYP3A4 and CYP2D6 inhibitors [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 
 Cimetidine
 
-Treatment with cimetidine resulted in a significant decrease (26%) in the clearance of tamsulosin hydrochloride, which resulted in a moderate increase in tamsulosin hydrochloride AUC (44%) [see Warnings and Precautions (5.2)and Clinical Pharmacology (12.3)].
+Treatment with cimetidine resulted in a significant decrease (26%) in the clearance of tamsulosin hydrochloride, which resulted in a moderate increase in tamsulosin hydrochloride AUC (44%) [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 
 ## 7.2 Other Alpha Adrenergic Blocking Agents
 
@@ -28,7 +28,7 @@ The pharmacokinetic and pharmacodynamic interactions between tamsulosin hydrochl
 
 ## 7.3 PDE5 Inhibitors
 
-Caution is advised when alpha adrenergic blocking agents including tamsulosin hydrochloride capsules are coadministered with PDE5 inhibitors.
+Caution is advised when alpha adrenergic blocking agents including tamsulosin hydrochloride capsules are co-administered with PDE5 inhibitors.
 Alpha-adrenergic blockers and PDE5 inhibitors are both vasodilators that can lower blood pressure.
 Concomitant use of these two drug classes can potentially cause symptomatic hypotension [see Warnings and Precautions (5.2)and Clinical Pharmacology (12.3)].
 
@@ -49,4 +49,4 @@ Dosage adjustments are not necessary when a tamsulosin hydrochloride capsule is 
 ## 7.7 Furosemide
 
 Tamsulosin hydrochloride capsules had no effect on the pharmacodynamics (excretion of electrolytes) of furosemide.
-While furosemide produced an 11% to 12% reduction in tamsulosin hydrochloride C max and AUC, these changes are expected to be clinically insignificant and do not require adjustment of the Tamsulosin hydrochloride capsules dosage [see Clinical Pharmacology (12.3)].
+While furosemide produced an 11% to 12% reduction in tamsulosin hydrochloride C maxand AUC, these changes are expected to be clinically insignificant and do not require adjustment of the tamsulosin hydrochloride capsules dosage [see Clinical Pharmacology (12.3)].

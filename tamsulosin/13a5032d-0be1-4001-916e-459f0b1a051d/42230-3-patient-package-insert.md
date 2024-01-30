@@ -60,26 +60,27 @@ What are the possible side effects of tamsulosin hydrochloride capsules?
 Possible side effects of tamsulosin hydrochloride capsules may include:
 
 - Decreased blood pressure when changing positions.Tamsulosin hydrochloride capsules may cause a sudden drop in blood pressure upon standing, especially after the first dose or when changing doses.
-  Change positions slowly from lying down to sitting up or from a sitting to a standing position until you learn how you react to tamsulosin hydrochloride capsules.
+  Symptoms may include:Change positions slowly from lying down to sitting up or from a sitting to a standing position until you learn how you react to tamsulosin hydrochloride capsules.
   If you begin to feel dizzy, sit or lie down until you feel better.
   If the symptoms are severe or do not improve, call your doctor.
-  - Symptoms may include:
-    - fainting
-    - dizziness
-    - lightheadedness
+  - fainting
+  - dizziness
+  - lightheadedness
+
 - Allergic reactions.Make your doctor aware of any allergic reactions you may experience while taking tamsulosin hydrochloride capsules.
-  - Allergic reactions may include:
-    - rash
-    - itching
-    - hives
-  - Rare and more serious allergic reactions may also occur.
-    Get medical help right away if you have any of the following reactions:
-    - swelling of face, tongue, or throat
-    - difficulty breathing
-    - blistering of the skin
+  Allergic reactions may include:Rare and more serious allergic reactions may also occur.
+  Get medical help right away if you have any of the following reactions:
+  - rash
+  - itching
+  - hives
+  - swelling of face, tongue, or throat
+  - difficulty breathing
+  - blistering of the skin
+
 - A painful erection that will not go away.Tamsulosin hydrochloride capsules can cause a painful erection (priapism), which cannot be relieved by having sex.
   If this happens, get medical help right away.
   If priapism is not treated, you may not be able to get an erection in the future.
+
 - Eye problems during cataract or glaucoma surgery.
   During cataract or glaucoma surgery, a conditioncalled intraoperative floppy iris syndrome (IFIS) can happen if you take or have taken tamsulosin hydrochloride capsules.
   If you need to have cataract or glaucoma surgery, be sure to tell your surgeon if you take or have taken tamsulosin hydrochloride capsules.
@@ -138,10 +139,10 @@ Manufactured by: Rottendorf Pharma GmbH Ennigerloh, Germany Made in Germany
 or
 
 Synthon Hispania, S.L.
-Barcelona, Spain Made in Spainy
+Barcelona, Spain Made in Spain
 
 Manufactured for: Synthon Pharmaceuticals, Inc.
 
-Revised: 11/2023
+Revised: 01/2024
 
-PPI-4013-9
+PPI-4013-10
