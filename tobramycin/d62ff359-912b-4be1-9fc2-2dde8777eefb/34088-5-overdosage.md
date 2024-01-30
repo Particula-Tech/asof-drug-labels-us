@@ -10,9 +10,10 @@ If tobramycin were ingested, toxicity would be less likely because aminoglycosid
 
 ## 10.2 Treatment
 
-In all cases of suspected overdosage, call your Regional Poison Control Center or the National Poison Control center at 1-800-222-1222 or www.poison.org to obtain the most up-to-date information about the treatment of overdose.
+In all cases of suspected overdosage with Tobramycin for Injection, call your Regional Poison Control Center or the National Poison Control center at 1-800-222-1222 or www.poison.org to obtain the most up-to-date information about the treatment of overdose.
 This recommendation is made because, in general, information regarding the treatment of overdosage may change more rapidly than the package insert.
 
-Management of tobramycin overdosage is symptomatic and supportive.
+Management of Tobramycin for Injection overdosage is symptomatic and supportive.
 Maintain airway, provide adequate hydration and monitor renal function, serum electrolytes, and tobramycin concentrations until the serum tobramycin level falls below 2 mcg/mL.
+
 Tobramycin is removed by hemodialysis.

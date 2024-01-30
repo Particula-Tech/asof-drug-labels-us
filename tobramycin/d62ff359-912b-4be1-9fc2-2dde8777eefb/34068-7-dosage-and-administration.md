@@ -32,8 +32,9 @@ To prevent increased toxicity due to excessive serum concentrations, dosage shou
 
 Table 1 DOSAGE SCHEDULE GUIDE FOR ADULTS WITH NORMAL RENAL FUNCTION (Dosage at 8-Hour Intervals)
 
-| For Patient Weighing kg lb |  | Usual Dose for Serious Infections 1 mg/kg Every 8 hours (h) (Total, 3 mg/kg/day) |  |
+| For Patient Weighing |  | Usual Dose for Serious Infections 1 mg/kg Every 8 hours (h) |  |
 | --- | --- | --- | --- |
+| kg | lb | (Total, 3 mg/kg/day) |  |
 |  |  | mg/dose | mL/dose* |
 |  |  | q8h |  |
 | 120 | 264 | 120 mg | 3 mL |
@@ -54,8 +55,9 @@ Table 1 DOSAGE SCHEDULE GUIDE FOR ADULTS WITH NORMAL RENAL FUNCTION (Dosage at 8
 | 45 | 99 | 45 mg | 1.1 mL |
 | 40 | 88 | 40 mg | 1 mL |
 
-| For Patient Weighing kg lb |  | Maximum Dose for Life- Threatening Infections (Reduce as soon as possible) 1.66 mg/kg Every 8 hours (Total, 5 mg/kg/day) |  |
+| For Patient Weighing |  | Maximum Dose for Life- Threatening Infections (Reduce as soon as possible) 1.66 mg/kg Every 8 hours |  |
 | --- | --- | --- | --- |
+| kg | lb | (Total, 5 mg/kg/day) |  |
 |  |  | mg/dose | mL/dose* |
 |  |  | Every 8h |  |
 | 120 | 264 | 200 mg | 5 mL |
@@ -83,13 +85,13 @@ Pediatric Patients (Greater than 1 Week of Age):
 
 6 to 7.5 mg/kg/day administered in 3 or 4 equally divided doses (2 to 2.5 mg/kg every 8 hours or 1.5 to 1.9 mg/kg every 6 hours).
 
-Premature or Full Term Neonates (1 Week of Age or Less):
+Premature or Full-Term Neonates (1 Week of Age or Less):
 
 Up to 4 mg/kg/day may be administered in 2 equal doses every 12 hours.
 
 ## 2.4 Duration of Treatment for Adult and Pediatric Patients
 
-The usual duration of treatment for adult and pediatric patients is 7 to10 days.
+The usual duration of treatment for adult and pediatric patients is 7 to 10 days.
 A longer course of therapy may be necessary in complicated infections.
 In such cases, monitoring of renal, auditory, and vestibular functions is advised, because neurotoxicity is more likely to occur when treatment is extended longer than 10 days.
 
@@ -100,7 +102,7 @@ An initial dosing regimen of 10 mg/kg/day in 4 equally divided doses is suggeste
 The serum concentrations of tobramycin should be monitored during treatment due to wide inter-patient variability.
 
 Similarly, altered pharmacokinetics may result in reduced serum concentrations in patients with extensive burns.
-Monitoring tobramycin serum concentration in these patients is especially important as a basis for determination of appropriate dosage [see Dosage and Administration (2.9].
+Monitoring tobramycin serum concentration in these patients is especially important as a basis for determination of appropriate dosage [see Dosage and Administration (2.9)].
 
 ## 2.6 Dosage for Patients with Renal Impairment
 
@@ -124,15 +126,14 @@ The appropriate dose may be calculated by using the patient's estimated lean bod
 
 ## 2.8 Instructions for Preparation and Intravenous Administration
 
-Tobramycin is supplied as a dry powder in a pharmacy bulk package vial that contains the equivalent of 1.2 g of tobramycin.
+Tobramycin for Injection is supplied as a dry powder in a pharmacy bulk package vial that contains the equivalent of 1.2 g of tobramycin.
 The contents of the vial must be reconstituted and diluted prior to intravenous administration as follows:
 
 - Reconstitute the contents of the pharmacy bulk package vial aseptically with 30 mL of Sterile Water for Injection, USP to provide a reconstituted solution containing 40 mg of tobramycin per mL.
 - Dilute the reconstituted pharmacy bulk vial prior to intravenous administration by adding a specified volume of the reconstituted solution to 50 to 100 mL (for adult doses) of diluent (0.9% Sodium Chloride Injection or 5% Dextrose Injection) for each patient.
   For pediatric patients, the volume of diluent should be proportionately less than for adults.
 - After penetration, entire contents of pharmacy bulk vial should be dispensed within 24 hours.
-- Visually inspect for particulate matter and discoloration prior to administration
-- The diluted solution should be intravenously infused over a period of 20 to 60 minutes.
+- Visually inspect for particulate matter and discoloration prior to administration The diluted solution should be intravenously infused over a period of 20 to 60 minutes.
   Intravenous infusion periods of less than 20 minutes are not recommended because peak serum concentrations may exceed 12 mcg/mL [see Dosage and Administration (2.9)].
 
 ## 2.9 Measurement of Serum Concentrations of Tobramycin
@@ -140,7 +141,7 @@ The contents of the vial must be reconstituted and diluted prior to intravenous 
 Measure peak and trough serum tobramycin concentrations periodically during therapy to assure adequate concentrations and to avoid potentially toxic concentrations in all patients, especially in patients with renal impairment [see Dosage and Administration (2.6)].
 Avoid peak serum concentrations above 12 mcg/mL.
 Rising trough concentrations (above 2 mcg/mL) may indicate tissue accumulation.
-Such accumulation may result in ototoxicity and nephrotoxicity [Warnings and Precautions (5.1, 5.2].
+Such accumulation may result in ototoxicity and nephrotoxicity [Warnings and Precautions (5.1, 5.2)].
 
 A useful guideline is to measure serum concentrations after 2 or 3 doses, so that the dosage could be adjusted if necessary, and at 3- to 4-day intervals during therapy.
 In the event of changing renal function, obtain more frequent serum tobramycin concentrations and adjust the dosage or dosage interval according to the guidelines provided [see Dosage and Administration (2.6)].

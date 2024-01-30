@@ -12,6 +12,8 @@ Reduce the dose or discontinue treatment if renal impairment occurs.
 
 ## 5.2 Ototoxicity
 
+Ototoxicity with use of Tobramycin for Injection
+
 Tobramycin for Injection can cause both auditory and vestibular eighth nerve damage.
 The auditory changes are irreversible, are usually bilateral, and may be partial or total.
 Symptoms of ototoxicity can include dizziness, vertigo, tinnitus, roaring in the ears and hearing loss.
@@ -21,13 +23,19 @@ To decrease the risk of ototoxicity, use as short a duration of therapy as clini
 Monitor patients for signs and symptoms of auditory or vestibular toxicity and consider serial audiograms in high-risk patients.
 Discontinue tobramycin in patients with evidence of auditory or vestibular toxicity.
 
+Risk of Ototoxicity Due to Mitochondrial DNA Variants
+
+Cases of ototoxicity with aminoglycosides have been observed in patients with certain variants in the mitochondrially encoded 12S rRNA gene (MT-RNR1), particularly the m.1555A>G variant.
+Ototoxicity occurred in some patients even when their aminoglycoside serum levels were within the recommended range.
+Mitochondrial DNA variants are present in less than 1% of the general US population, and the proportion of the variant carriers who may develop ototoxicity as well as the severity of ototoxicity is unknown.
+In case of known maternal history of ototoxicity due to aminoglycoside use or a known mitochondrial DNA variant in the patient, consider alternative treatments other than aminoglycosides unless the increased risk of permanent hearing loss is outweighed by the severity of infection and lack of safe and effective alternative therapies.
+
 ## 5.3 Embryo-Fetal Toxicity
 
 Aminoglycosides, including Tobramycin for Injection, can cause fetal harm when administered to a pregnant woman.
 Aminoglycosides cross the placenta.
-Streptomycin has been associated with several reports of total, irreversible, bilateral congenital deafness in pediatric patients whose mothers received streptomycin during pregnancy.
-Apprise patients of potential hazard to the fetus if Tobramycin for Injection is used during pregnancy or if the patient becomes pregnant while taking Tobramycin for Injection.
-[see Use in Specific Populations (8.1)].
+Streptomycin, another aminoglycoside, has been associated with several reports of total, irreversible, bilateral congenital deafness in pediatric patients whose mothers received streptomycin during pregnancy.
+Apprise patients of potential hazard to the fetus if Tobramycin for Injection is used during pregnancy or if the patient becomes pregnant while taking Tobramycin for Injection [see Use in Specific Populations (8.1)].
 
 ## 5.4 Allergic Reactions
 
@@ -41,7 +49,6 @@ A history of hypersensitivity to other aminoglycosides is a contraindication to 
 Neuromuscular blockade with respiratory paralysis and respiratory failure may occur following administration of aminoglycosides.
 Neuromuscular blockade, respiratory failure, and prolonged respiratory paralysis may occur more commonly and be more severe in patients with myasthenia gravis or Parkinson's disease and in patients concomitantly receiving neuromuscular blocking agents such as succinylcholine.
 If neuromuscular blockade occurs following the administration of Tobramycin for Injection, it may be reversed by the administration of calcium salts but mechanical assistance may be necessary.
-
 Other manifestations of neurotoxicity may include numbness, skin tingling, muscle twitching, and convulsions.
 
 ## 5.6 Clostridioides difficile-Associated Diarrhea (CDAD)
@@ -64,7 +71,7 @@ Prescribing Tobramycin for Injection, USP in the absence of a proven or strongly
 ## 5.8 Macular Necrosis
 
 Tobramycin for Injection is not approved for intraocular and/or subconjunctival use.
-Macular necrosis has been reported following intraocular and/ or subconjunctival administration of aminoglycosides, including tobramycin,
+Macular necrosis has been reported following intraocular and/ or subconjunctival administration of aminoglycosides, including tobramycin.
 
 ## 5.9 Inactivation by Beta-Lactam Antibacterials
 

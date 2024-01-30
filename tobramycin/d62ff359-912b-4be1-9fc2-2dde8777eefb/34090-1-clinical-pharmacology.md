@@ -9,14 +9,14 @@ Tobramycin sulfate is an aminoglycoside antibacterial drug [see Microbiology (12
 In patients with normal renal function, except neonates, tobramycin administered every 8 hours does not accumulate in serum.
 The serum elimination half-life in patients with normal renal function is 2 hours.
 However, in patients with renal impairment and in neonates, serum concentrations of the antibacterial are usually higher and can be measured for longer periods of time than in adults with normal renal function.
-Thus, the dosage of tobramycin for patients with renal impairment and neonates must be adjusted accordingly [see Dosage and Administration (2.3, 2.6)].
+Thus, the dosage of Tobramycin for Injection for patients with renal impairment and neonates must be adjusted accordingly [see Dosage and Administration (2.3, 2.6)].
 
 Absorption
 
 Following intramuscular administration, peak serum concentrations of tobramycin occur between 30 and 90 minutes.
 Following an intramuscular dose of 1 mg/kg of body weight, maximum serum concentrations reach about 4 mcg/mL, and measurable concentrations persist for as long as 8 hours.
 Therapeutic serum concentrations are generally considered to range from 4 to 6 mcg/mL.
-When tobramycin is administered by intravenous infusion over a 1-hour period, the serum concentrations are similar to those obtained by intramuscular administration.
+When Tobramycin for Injection is administered by intravenous infusion over a 1-hour period, the serum concentrations are similar to those obtained by intramuscular administration.
 Tobramycin is poorly absorbed from the gastrointestinal tract.
 
 Distribution
@@ -49,33 +49,25 @@ Probenecid does not affect the renal tubular transport of tobramycin.
 
 Mechanism of Action
 
-Tobramycin is an aminoglycoside that inhibits protein synthesis by binding irreversibly to the aminoacyl site (A) of the 16S RNA within the bacterial 30S ribosomal subunit.
-Tobramycin enters the bacterial cell by an aerobic energy-dependent mechanism to penetrate the bacterial inner cell membrane.
-The effect of this action is two fold (i) it makes the ribosome unavailable for translation into mRNA and (ii) it causes the production of nonsense proteins because of misreading of the genetic code.
-Tobramycin is bactericidal to susceptible bacteria.
+Tobramycin is an aminoglycoside that inhibits protein synthesis by binding to the aminoacyl site (A) of the 16S RNA within the bacterial 30S ribosomal subunit.
+Tobramycin is bactericidal against susceptible bacteria.
 
 Resistance
 
-Resistance to tobramycin can occur by any of the following known mechanisms.
-The most common mechanism of resistance and the one that generates the greatest level of resistance, results from the structural modification of the antibiotic by specific methyltransferase enzymes expressed in resistant organisms.
-This modification prevents the antibiotic from binding to its target site on the ribosome.
-A second mechanism of resistance is associated with drug concentration in the bacterial cell.
-Tobramycin is a hydrophilic antibiotic and its efficacy is concentration – dependent.
-The action by some bacteria results in a decrease in permeability of the cell membrane and leads to a decrease in the uptake of the drug by the bacteria.
-The third known mechanism of resistance is caused by mutations in the 16S rRNA of the 30S subunit of the ribosome which prevents the binding of the antibiotic to the target site and stops the bactericidal activity.
-The fourth mechanism is efflux of the antibiotic from the bacterial cell.
+Resistance to aminoglycosides includes production of aminoglycoside modifying enzymes (AMEs), alteration of the ribosomal target through production of 16S rRNA methyltransferases, up-regulation of efflux pumps and reduced permeability into bacterial cell due to loss of outer membrane porins.
+Aminoglycosides are generally not active against most gram-positive organisms, including Streptococcus pyogenes, Streptococcus pneumoniae, and enterococci.
+Cross-resistance between aminoglycosides may occur.
 
-Interaction with Other Antibacterial Drugs
+Interaction with Other Antimicrobials
 
 In vitro studies have shown that an aminoglycoside combined with an antibacterial that interferes with cell-wall synthesis, such as penicillin, results in a synergistic bactericidal effect in some isolates of Enterococcus faecalis.
 This combination is not synergistic against other closely related organisms, e.g., Enterococcus faecium.
 Species-level identification of enterococci alone cannot be used to predict susceptibility.
 Susceptibility testing and tests for antibacterial synergism must be performed.
-Cross-resistance between aminoglycosides may occur.
 
 Antimicrobial Activity
 
-Tobramycin has been shown to be active against most isolates of the following organisms both in vitro and in clinical infections [see Indications and Usage (1)]:
+Tobramycin has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections [see Indications and Usage (1)]:
 
 Gram-positive bacteria
 

@@ -11,3 +11,5 @@ Tobramycin sulfate is O-3-amino-3-deoxy-α-D-glucopyranosyl-(1→4)-O-[2,6-diami
 The molecular weight is 1425.42 g/mol.
 The molecular weight of the free base is 467.51 g/mol.
 The structural formula of tobramycin, free base, is as follows:
+
+Figure 2: Tobramycin Structure

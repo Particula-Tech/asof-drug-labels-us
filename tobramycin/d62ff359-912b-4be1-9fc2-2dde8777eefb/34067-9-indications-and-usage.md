@@ -1,7 +1,5 @@
 # 1 INDICATIONS AND USAGE
 
-Tobramycin for Injection, is an aminoglycoside antibacterial indicated for the treatment of serious bacterial infections caused by susceptible isolates of the designated bacteria in the diseases listed below:
-
 ## 1.1 Septicemia
 
 Tobramycin for Injection is indicated for the treatment of septicemia caused by susceptible isolates of P. aeruginosa, E. coli, and Klebsiella spp., in adult and pediatric patients.
