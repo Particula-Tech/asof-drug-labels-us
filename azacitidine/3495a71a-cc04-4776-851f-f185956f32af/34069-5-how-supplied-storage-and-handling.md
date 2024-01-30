@@ -12,4 +12,3 @@ Handling and Disposal
 
 VIDAZA is a hazardous drug.
 Follow applicable special handling and disposal procedures.
-1

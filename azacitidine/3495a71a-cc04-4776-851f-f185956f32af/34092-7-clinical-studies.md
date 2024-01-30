@@ -19,7 +19,8 @@ Of the 191 patients included in the study, independent review (adjudicated diagn
 These patients were excluded from the primary analysis of response rate, although they were included in an intent-to-treat (ITT) analysis of all patients randomized.
 Approximately 55% of the patients randomized to observation crossed over to receive VIDAZA treatment.
 
-1. Table 6 Baseline Demographics and Disease Characteristics
+Table 6.
+Baseline Demographics and Disease Characteristics
 
 |  | VIDAZA (N=99) | Observation (N=92) |
 | --- | --- | --- |
@@ -46,9 +47,9 @@ Approximately 55% of the patients randomized to observation crossed over to rece
 | Any transfusion product | 70 (70.7) | 59 (64.1) |
 | Blood cells, packed human | 66 (66.7) | 55 (59.8) |
 | Platelets, human blood | 15 (15.2) | 12 (13.0) |
-| Hetastarch | 0(0.0) | 1(1.1) |
-| Plasma protein fraction | 1(1.0) | 0(0.0) |
-| Other | 2(2.0) | 2(2.2) |
+| Hetastarch | 0 (0.0) | 1 (1.1) |
+| Plasma protein fraction | 1 (1.0) | 0 (0.0) |
+| Other | 2 (2.0) | 2 (2.2) |
 
 Table 7.
 Response Criteria

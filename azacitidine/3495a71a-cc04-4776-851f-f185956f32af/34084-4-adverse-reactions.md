@@ -111,60 +111,60 @@ It is important to note that duration of exposure was longer for the VIDAZA-trea
 Table 4 presents adverse reactions occurring in at least 5% of patients treated with VIDAZA in Study 4.
 Similar to Studies 1 and 2 described above, duration of exposure to treatment with VIDAZA was longer (mean 12.2 months) compared with best supportive care (mean 7.5 months).
 
-| System Organ Class Preferred Terma | VIDAZA (N=175) | Best Supportive Care Only (N=102) | VIDAZA (N=175) | Best Supportive Care Only (N=102) |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Table 4: Most Frequently Observed Adverse Reactions (≥ 5% in the VIDAZA Treated Patients and the Percentage with NCI CTC Grade 3/4 Reactions; Study 4) |  |  |  |  |  |  |  |
-|  | Number (%) of Patients |  |  |  |  |  |  |
-|  | Any Grade |  | Grade 3/4 |  |  |  |  |
-| Blood and lymphatic system disorders |  |  |  |  |  |  |  |
-| Anemia | 90 (51) | 45 (44) | 24 (14) | 9 (9) |  |  |  |
-| Febrile neutropenia | 24 (14) | 10 (10) | 22 (13) | 7 (7) |  |  |  |
-| Leukopenia | 32 (18) | 2 (2) | 26 (15) | 1 (1) |  |  |  |
-| Neutropenia | 115 (66) | 29 (28) | 107 (61) | 22 (22) |  |  |  |
-| Thrombocytopenia | 122 (70) | 35 (34) | 102 (58) | 29 (28) |  |  |  |
-| Gastrointestinal disorders |  |  |  |  |  |  |  |
-| Abdominal pain | 22 (13) | 7 (7) | 7 (4) | 0 |  |  |  |
-| Constipation | 88 (50) | 8 (8) | 2 (1) | 0 |  |  |  |
-| Dyspepsia | 10 (6) | 2 (2) | 0 | 0 |  |  |  |
-| Nausea | 84 (48) | 12 (12) | 3 (2) | 0 |  |  |  |
-| Vomiting | 47 (27) | 7 (7) | 0 | 0 |  |  |  |
-| General disorders and administration site conditions |  |  |  |  |  |  |  |
-| Fatigue | 42 (24) | 12 (12) | 6 (3) | 2 (2) |  |  |  |
-| Injection site bruising | 9 (5) | 0 | 0 | 0 |  |  |  |
-| Injection site erythema | 75 (43) | 0 | 0 | 0 |  |  |  |
-| Injection site hematoma | 11 (6) | 0 | 0 | 0 |  |  |  |
-| Injection site induration | 9 (5) | 0 | 0 | 0 |  |  |  |
-| Injection site pain | 33 (19) | 0 | 0 | 0 |  |  |  |
-| Injection site rash | 10 (6) | 0 | 0 | 0 |  |  |  |
-| Injection site reaction | 51 (29) | 0 | 1 (1) | 0 |  |  |  |
-| Pyrexia | 53 (30) | 18 (18) | 8 (5) | 1 (1) |  |  |  |
-| Infections and infestations |  |  |  |  |  |  |  |
-| Rhinitis | 10 (6) | 1 (1) | 0 | 0 |  |  |  |
-| Upper respiratory tract infection | 16 (9) | 4 (4) | 3 (2) | 0 |  |  |  |
-| Urinary tract infection | 15 (9) | 3 (3) | 3 (2) | 0 |  |  |  |
-| Investigations |  |  |  |  |  |  |  |
-| Weight decreased | 14 (8) | 0 | 1 (1) | 0 |  |  |  |
-| Metabolism and nutrition disorders |  |  |  |  |  |  |  |
-| Hypokalemia | 11 (6) | 3 (3) | 3 (2) | 3 (3) |  |  |  |
-| Nervous system disorders |  |  |  |  |  |  |  |
-| Lethargy | 13 (7) | 2 (2) | 0 | 1 (1) |  |  |  |
-| Psychiatric disorders |  |  |  |  |  |  |  |
-| Anxiety | 9 (5) | 1 (1) | 0 | 0 |  |  |  |
-| Insomnia | 15 (9) | 3 (3) | 0 | 0 |  |  |  |
-| Renal and urinary disorders |  |  |  |  |  |  |  |
-| Hematuria | 11 (6) | 2 (2) | 4 (2) | 1 (1) |  |  |  |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |  |
-| Dyspnea | 26 (15) | 5 (5) | 6 (3) | 2 (2) |  |  |  |
-| Dyspnea exertional | 9 (5) | 1 (1) | 0 | 0 |  |  |  |
-| Pharyngolaryngeal pain | 11 (6) | 3 (3) | 0 | 0 |  |  |  |
-| Skin and subcutaneous tissue disorders |  |  |  |  |  |  |  |
-| Erythema | 13 (7) | 3 (3) | 0 | 0 |  |  |  |
-| Petechiae | 20 (11) | 4 (4) | 2 (1) | 0 |  |  |  |
-| Pruritus | 21 (12) | 2 (2) | 0 | 0 |  |  |  |
-| Rash | 18 (10) | 1 (1) | 0 | 0 |  |  |  |
-| Vascular disorders |  |  |  |  |  |  |  |
-| Hypertension | 15 (9) | 4 (4) | 2 (1) | 2 (2) |  |  |  |
-| a Multiple reports of the same preferred term from a patient were only counted once within each treatment. |  |  |  |  |  |  |  |
+| System Organ Class Preferred Terma | VIDAZA (N=175) | Best Supportive Care Only (N=102) | VIDAZA (N=175) | Best Supportive Care Only (N=102) |
+| --- | --- | --- | --- | --- |
+| Table 4: Most Frequently Observed Adverse Reactions (≥ 5% in the VIDAZA Treated Patients and the Percentage with NCI CTC Grade 3/4 Reactions; Study 4) |  |  |  |  |
+|  | Number (%) of Patients |  |  |  |
+|  | Any Grade |  | Grade 3/4 |  |
+| Blood and lymphatic system disorders |  |  |  |  |
+| Anemia | 90 (51) | 45 (44) | 24 (14) | 9 (9) |
+| Febrile neutropenia | 24 (14) | 10 (10) | 22 (13) | 7 (7) |
+| Leukopenia | 32 (18) | 2 (2) | 26 (15) | 1 (1) |
+| Neutropenia | 115 (66) | 29 (28) | 107 (61) | 22 (22) |
+| Thrombocytopenia | 122 (70) | 35 (34) | 102 (58) | 29 (28) |
+| Gastrointestinal disorders |  |  |  |  |
+| Abdominal pain | 22 (13) | 7 (7) | 7 (4) | 0 |
+| Constipation | 88 (50) | 8 (8) | 2 (1) | 0 |
+| Dyspepsia | 10 (6) | 2 (2) | 0 | 0 |
+| Nausea | 84 (48) | 12 (12) | 3 (2) | 0 |
+| Vomiting | 47 (27) | 7 (7) | 0 | 0 |
+| General disorders and administration site conditions |  |  |  |  |
+| Fatigue | 42 (24) | 12 (12) | 6 (3) | 2 (2) |
+| Injection site bruising | 9 (5) | 0 | 0 | 0 |
+| Injection site erythema | 75 (43) | 0 | 0 | 0 |
+| Injection site hematoma | 11 (6) | 0 | 0 | 0 |
+| Injection site induration | 9 (5) | 0 | 0 | 0 |
+| Injection site pain | 33 (19) | 0 | 0 | 0 |
+| Injection site rash | 10 (6) | 0 | 0 | 0 |
+| Injection site reaction | 51 (29) | 0 | 1 (1) | 0 |
+| Pyrexia | 53 (30) | 18 (18) | 8 (5) | 1 (1) |
+| Infections and infestations |  |  |  |  |
+| Rhinitis | 10 (6) | 1 (1) | 0 | 0 |
+| Upper respiratory tract infection | 16 (9) | 4 (4) | 3 (2) | 0 |
+| Urinary tract infection | 15 (9) | 3 (3) | 3 (2) | 0 |
+| Investigations |  |  |  |  |
+| Weight decreased | 14 (8) | 0 | 1 (1) | 0 |
+| Metabolism and nutrition disorders |  |  |  |  |
+| Hypokalemia | 11 (6) | 3 (3) | 3 (2) | 3 (3) |
+| Nervous system disorders |  |  |  |  |
+| Lethargy | 13 (7) | 2 (2) | 0 | 1 (1) |
+| Psychiatric disorders |  |  |  |  |
+| Anxiety | 9 (5) | 1 (1) | 0 | 0 |
+| Insomnia | 15 (9) | 3 (3) | 0 | 0 |
+| Renal and urinary disorders |  |  |  |  |
+| Hematuria | 11 (6) | 2 (2) | 4 (2) | 1 (1) |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
+| Dyspnea | 26 (15) | 5 (5) | 6 (3) | 2 (2) |
+| Dyspnea exertional | 9 (5) | 1 (1) | 0 | 0 |
+| Pharyngolaryngeal pain | 11 (6) | 3 (3) | 0 | 0 |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
+| Erythema | 13 (7) | 3 (3) | 0 | 0 |
+| Petechiae | 20 (11) | 4 (4) | 2 (1) | 0 |
+| Pruritus | 21 (12) | 2 (2) | 0 | 0 |
+| Rash | 18 (10) | 1 (1) | 0 | 0 |
+| Vascular disorders |  |  |  |  |
+| Hypertension | 15 (9) | 4 (4) | 2 (1) | 2 (2) |
+| a Multiple reports of the same preferred term from a patient were only counted once within each treatment. |  |  |  |  |
 
 In Studies 1, 2 and 4 with subcutaneous administration of VIDAZA, adverse reactions of neutropenia, thrombocytopenia, anemia, nausea, vomiting, diarrhea, constipation, and injection site erythema/reaction tended to increase in incidence with higher doses of VIDAZA.
 Adverse reactions that tended to be more pronounced during the first 1 to 2 cycles of subcutaneous treatment compared with later cycles included thrombocytopenia, neutropenia, anemia, nausea, vomiting, injection site erythema/pain/bruising/reaction, constipation, petechiae, dizziness, anxiety, hypokalemia, and insomnia.
@@ -288,10 +288,11 @@ The following adverse reactions have been identified during postmarketing use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - ‑Interstitial lung disease
-- ‑ Tumor lysis syndrome
-- ‑ Injection site necrosis
-- ‑ Sweet's syndrome (acute febrile neutrophilic dermatosis)
-- ‑ Necrotizing fasciitis (including fatal cases)
-- ‑ Differentiation syndrome
+- ‑Tumor lysis syndrome
+- ‑Injection site necrosis
+- ‑Sweet’s syndrome (acute febrile neutrophilic dermatosis)
+- ‑Necrotizing fasciitis (including fatal cases)
+- ‑Differentiation syndrome
 - ‑Pericardial effusion
 - ‑Pericarditis
+- ‑Cutaneous vasculitis

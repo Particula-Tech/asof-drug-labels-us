@@ -3,7 +3,7 @@
 ## 2.1 Important Administration Information
 
 Do not substitute VIDAZA for oral azacitidine.
-The indications and dosing regimen for VIDAZA differ from that of oral azacitidine [see Warnings and Precautions (5.1)]
+The indications and dosing regimen for VIDAZA differ from that of oral azacitidine [see Warnings and Precautions (5.1)].
 
 ## 2.2 First Treatment Cycle for Adults
 
@@ -80,7 +80,6 @@ Because elderly patients are more likely to have decreased renal function, selec
 
 VIDAZA is a hazardous drug.
 Follow applicable special handling and disposal procedures.
-1
 
 The VIDAZA vial is single-dose and does not contain any preservatives.
 Discard unused portions of each vial properly [see How Supplied/Storage and Handling (16)].
