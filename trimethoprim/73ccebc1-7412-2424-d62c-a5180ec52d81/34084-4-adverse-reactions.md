@@ -1,0 +1,38 @@
+# ADVERSE REACTIONS
+
+The adverse effects encountered most often with trimethoprim were rash and pruritus.
+
+To report SUSPECTED ADVERSE EVENTS, contact Dr. Reddy’s Laboratories Inc, at 1-888-375-3784 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch for voluntary reporting of adverse reactions.
+
+## Dermatologic
+
+Rash, pruritus, and phototoxic skin eruptions.
+At the recommended dosage regimens of 100 mg b.i.d. or 200 mg q.d., each for 10 days, the incidence of rash is 2.9% to 6.7%.
+In clinical studies which employed high doses of trimethoprim, an elevated incidence of rash was noted.
+These rashes were maculopapular, morbilliform, pruritic, and generally mild to moderate, appearing 7 to 14 days after the initiation of therapy.
+
+## Hypersensitivity
+
+Rare reports of exfoliative dermatitis, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (Lyell Syndrome), and anaphylaxis have been received.
+
+## Gastrointestinal
+
+Epigastric distress, nausea, vomiting, and glossitis.
+Elevation of serum transaminase and bilirubin has been noted, but the significance of this finding is unknown.
+Cholestatic jaundice has been rarely reported.
+
+## Hematologic
+
+Thrombocytopenia, leukopenia, neutropenia, megaloblastic anemia, and methemoglobinemia.
+
+## Metabolic
+
+Hyperkalemia, hyponatremia.
+
+## Neurologic
+
+Aseptic meningitis has been rarely reported.
+
+## Miscellaneous
+
+Fever, and increases in BUN and serum creatinine levels.

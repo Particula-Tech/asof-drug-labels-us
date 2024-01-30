@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA018679"
+  ],
+  "inn": "trimethoprim",
+  "labeler": "Dr. Reddy's Labratories Inc.",
+  "package_ndcs": [
+    "75907-043-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "trimethoprim",
+      "name": "Trimethoprim"
+    }
+  ],
+  "setid": "73ccebc1-7412-2424-d62c-a5180ec52d81",
+  "source": "dailymed"
+}
