@@ -7,15 +7,15 @@ One study in low back pain and one study in osteoarthritis did not show a statis
 12-Week Study in Opioid-Naïve Patients with Chronic Low Back Pain
 
 A total of 1,024 patients with chronic low back pain who were suboptimally responsive to their non-opioid therapy entered an open-label, dose-titration period for up to four weeks.
-Patients initiated therapy with three days of treatment with buprenorphine transdermal system 5 mcg/hour.
+Patients initiated therapy with three days of treatment with Buprenorphine transdermal system 5 mcg/hour.
 After three days, if adverse events were tolerated, the dose was increased to buprenorphine transdermal system 10 mcg/hour.
-If adverse effects were tolerated but adequate analgesia was not reached, the dose was increased to buprenorphine transdermal system 20 mcg/hour for an additional 10 -12 days.
-Patients who achieved adequate analgesia and tolerable adverse effects on buprenorphine transdermal system, 10 or 20 mcg/hour, were then randomized to remain on their titrated dose of buprenorphine transdermal system or matching placebo.
+If adverse effects were tolerated but adequate analgesia was not reached, the dose was increased to buprenorphine transdermal system 20 mcg/hour for an additional 10 to 12 days.
+Patients who achieved adequate analgesia and tolerable adverse effects on buprenorphine transdermal system 10 or 20 mcg/hour were then randomized to remain on their titrated dose of buprenorphine transdermal system or matching placebo.
 Fifty-three percent of the patients who entered the open-label titration period were able to titrate to a tolerable and effective dose and were randomized into a 12-week, double-blind treatment period.
 Twenty-three percent of patients discontinued due to an adverse event from the open-label titration period and 14% discontinued due to lack of a therapeutic effect.
 The remaining 10% of patients were dropped due to various administrative reasons.
 
-During the first seven days of double-blind treatment, patients were allowed up to two tablets per day of immediate-release oxycodone 5 mg as supplemental analgesia to minimize opioid withdrawal symptoms in patients randomized to placebo.
+During the first seven days of double-blind treatment patients were allowed up to two tablets per day of immediate-release oxycodone 5 mg as supplemental analgesia to minimize opioid withdrawal symptoms in patients randomized to placebo.
 Thereafter, the supplemental analgesia was limited to either acetaminophen 500 mg or ibuprofen 200 mg at a maximum of four tablets per day.
 Sixty-six percent of the patients treated with buprenorphine transdermal system completed the 12-week treatment compared to 70% of the patients treated with placebo.
 Of the 256 patients randomized to buprenorphine transdermal system, 9% discontinued due to lack of efficacy and 16% due to adverse events.
@@ -30,7 +30,7 @@ Figure 3: Percent Reduction in Pain Intensity
 
 12-Week Study in Opioid-Experienced Patients with Chronic Low Back Pain
 
-One thousand one hundred and sixty (1,160) patients on chronic opioid therapy (total daily dose 30 -80 mg morphine equivalent) entered an open-label, dose-titration period with buprenorphine transdermal system for up to 3 weeks, following taper of prior opioids.
+One thousand one hundred and sixty (1,160) patients on chronic opioid therapy (total daily dose 30 to 80 mg morphine equivalent) entered an open-label, dose-titration period with buprenorphine transdermal system for up to 3 weeks, following taper of prior opioids.
 Patients initiated therapy with buprenorphine transdermal system 10 mcg/hour for three days.
 After three days, if the patient tolerated the adverse effects, the dose was increased to buprenorphine transdermal system 20 mcg/hour for up to 18 days.
 Patients with adequate analgesia and tolerable adverse effects on buprenorphine transdermal system 20 mcg/hour were randomized to remain on buprenorphine transdermal system 20 mcg/hour or were switched to a low-dose control (buprenorphine transdermal system 5 mcg/hour) or an active control.
@@ -42,7 +42,7 @@ Sixty-seven percent of patients treated with buprenorphine transdermal system 20
 Of the 219 patients randomized to buprenorphine transdermal system 20 mcg/hour, 11% discontinued due to lack of efficacy and 13% due to adverse events.
 Of the 221 patients randomized to buprenorphine transdermal system 5 mcg/hour, 24% discontinued due to lack of efficacy and 6% due to adverse events.
 
-Of the patients who were able to be randomized in the double-blind period, the mean pain (SE) NRS scores were 6.4 (0.08) and 6.5 (0.08) at screening and were 2.8 (0.08) and 2.9 (0.08) at pre-randomization (beginning of Double-Blind Period) for the buprenorphine transdermal system 5 mcg/hour and buprenorphine transdermal system 20 mcg/hour, respectively.
+Of the patients who were able to be randomized in the double-blind period, the mean pain (SE) NRS scores were 6.4 (0.08) and 6.5 (0.08) at screening and were 2.8 (0.08) and 2.9 (0.08) at pre- randomization (beginning of Double-Blind Period) for the buprenorphine transdermal system 5 mcg/hour and buprenorphine transdermal system 20 mcg/hour, respectively.
 
 The score for average pain over the last 24 hours at Week 12 was statistically significantly lower for subjects treated with buprenorphine transdermal system 20 mcg/hour compared to subjects treated with buprenorphine transdermal system 5 mcg/hour.
 A higher proportion of buprenorphine transdermal system 20 mcg/hour patients (49%) had at least a 30% reduction in pain score from screening to study endpoint when compared to buprenorphine transdermal system 5 mcg/hour patients (33%).

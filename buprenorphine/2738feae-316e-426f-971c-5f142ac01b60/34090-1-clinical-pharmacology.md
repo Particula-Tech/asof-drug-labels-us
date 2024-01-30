@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Buprenorphine is a partial agonist at the mu-opioid receptor and an antagonist at the kappa-opioid receptors, an agonist at delta-opioid receptors, and a partial agonist at ORL-1 (nociceptin) receptors.
+Buprenorphine is a partial agonist at the mu-opioid receptor and an antagonist at the kappa- opioid receptors, an agonist at delta-opioid receptors, and a partial agonist at ORL-1 (nociceptin) receptors.
 The contributions of these actions to its analgesic profile are unclear.
 
 ## 12.2 Pharmacodynamics
@@ -21,7 +21,7 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Buprenorphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone is increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid- induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
 
 Effects on the Cardiovascular System
 
@@ -32,17 +32,17 @@ Effects on Cardiac Electrophysiology
 
 The effect of buprenorphine transdermal system 10 mcg/hour and 2 × buprenorphine transdermal system 20 mcg/hour on QTc interval was evaluated in a double-blind (buprenorphine transdermal system vs. placebo), randomized, placebo and active-controlled (moxifloxacin 400 mg, open label), parallel-group, dose-escalating, single-dose study in 132 healthy male and female subjects aged 18 to 55 years.
 The dose escalation sequence for buprenorphine transdermal system during the titration period was: buprenorphine transdermal system 5 mcg/hour for 3 days, then buprenorphine transdermal system 10 mcg/hour for 3 days, then buprenorphine transdermal system 20 mcg/hour for 3 days, then 2 × buprenorphine transdermal system 20 mcg/hour for 4 days.
-The QTc evaluation was performed during the third day of buprenorphine transdermal system 10 mcg/hour and the fourth day of 2 × buprenorphine transdermal system 20 mcg/hour when the plasma levels of buprenorphine were at steady state for the corresponding doses [see Warnings and Precautions (5.12)].
+The QTc evaluation was performed during the third day of buprenorphine transdermal system 10 mcg/hour and the fourth day of 2 × buprenorphine transdermal system 20 mcg/hour when the plasma levels of buprenorphine were at steady state for the corresponding doses [see Warnings and Precautions (5.17)].
 
 There was no clinically meaningful effect on mean QTc with a buprenorphine transdermal system dose of 10 mcg/hour.
-A buprenorphine transdermal system dose of 40 mcg/hour (given as two 20 mcg/hour buprenorphine transdermal systems) prolonged mean QTc by a maximum of 9.2 (90% CI: 5.2 -13.3) msec across the 13 assessment time points.
+A buprenorphine transdermal system dose of 40 mcg/hour (given as two 20 mcg/hour buprenorphine transdermal systems) prolonged mean QTc by a maximum of 9.2 (90% CI: 5.2 to 13.3) msec across the 13 assessment time points.
 
 Effects on the Endocrine System
 
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
 
 Effects on the Immune System
@@ -53,7 +53,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration–Efficacy Relationships
 
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
 The minimum effective analgesic concentration of buprenorphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.4)].
 
 Concentration–Adverse Reaction Relationships
@@ -97,22 +97,22 @@ The reapplication of buprenorphine transdermal system 10 mcg/hour after various 
 
 Effects of Heat
 
-In a study of healthy subjects, application of a heating pad directly on the buprenorphine transdermal system 10 mcg/hour caused a 26% -55% increase in blood concentrations of buprenorphine.
+In a study of healthy subjects, application of a heating pad directly on the buprenorphine transdermal system 10 mcg/hour system caused a 26% to 55% increase in blood concentrations of buprenorphine.
 Concentrations returned to normal within 5 hours after the heat was removed.
-For this reason, instruct patients not to apply heating pads directly to the buprenorphine transdermal system during system wear [see Warnings and Precautions (5.15)].
+For this reason, instruct patients not to apply heating pads directly to the buprenorphine transdermal system during system wear [see Warnings and Precautions (5.6)].
 
 Fever may increase the permeability of the skin, leading to increased buprenorphine concentrations during buprenorphine transdermal system treatment.
 As a result, febrile patients are at increased risk for the possibility of buprenorphine transdermal system-related reactions during treatment with buprenorphine transdermal system.
-Monitor patients with febrile illness for adverse effects and consider dose adjustment [see Warnings and Precautions (5.16)].
+Monitor patients with febrile illness for adverse effects and consider dose adjustment [see Warnings and Precautions (5.7)].
 In a crossover study of healthy subjects receiving endotoxin or placebo challenge during buprenorphine transdermal system 10 mcg/hour wear, the AUC and Cmax were similar despite a physiologic response of mild fever to endotoxin.
 
 Distribution
 
-Buprenorphine is approximately 96% bound to plasma proteins, mainly to alpha- and beta-globulin.
+Buprenorphine is approximately 96% bound to plasma proteins, mainly to alpha- and beta- globulin.
 
 Studies of IV buprenorphine have shown a large volume of distribution (approximately 430 L), implying extensive distribution of buprenorphine.
 
-CSF buprenorphine concentrations appear to be approximately 15 -25% of concurrent plasma concentrations.
+CSF buprenorphine concentrations appear to be approximately 15 to 25% of concurrent plasma concentrations.
 
 Elimination
 
@@ -120,7 +120,7 @@ Metabolism
 
 Buprenorphine metabolism in the skin following buprenorphine transdermal system application is negligible.
 
-Buprenorphine primarily undergoes N-dealkylation by CYP3A4 to norbuprenorphine and glucuronidation by UGT-isoenzymes (mainly UGT1A1 and 2B7) to buprenorphine 3β-O-glucuronide.
+Buprenorphine primarily undergoes N-dealkylation by CYP3A4 to norbuprenorphine and glucuronidation by UGT-isoenzymes (mainly UGT1A1 and 2B7) to buprenorphine 3β-O- glucuronide.
 Norbuprenorphine, the major metabolite, is also glucuronidated (mainly UGT1A3) prior to excretion.
 
 Norbuprenorphine is the only known active metabolite of buprenorphine.
@@ -134,7 +134,8 @@ Following intramuscular administration of 2 mcg/kg dose of buprenorphine, approx
 Approximately 27% was excreted in urine.
 
 Following transdermal application, buprenorphine is eliminated via hepatic metabolism, with subsequent biliary excretion and renal excretion of soluble metabolites.
-After removal of buprenorphine transdermal system, mean buprenorphine concentrations decrease approximately 50% within 10 -24 hours, followed by decline with an apparent terminal half-life of approximately 26 hours.
+After removal of buprenorphine transdermal system, mean buprenorphine concentrations decrease approximately 50% within 10 to 24 hours, followed by decline with an apparent terminal half-life of approximately 26 hours.
+
 Since metabolism and excretion of buprenorphine occur mainly via hepatic elimination, reductions in hepatic blood flow induced by some general anesthetics (e.g., halothane) and other drugs may result in a decreased rate of hepatic elimination of the drug, leading to increased plasma concentrations.
 
 The total clearance of buprenorphine is approximately 55 L/hour in postoperative patients.
@@ -143,7 +144,7 @@ Drug Interaction Studies
 
 Effect of CYP3A4 inhibitors
 
-In a drug-drug interaction study, buprenorphine transdermal system 10 mcg/hour (single dose × 7 days) was co-administered with 200 mg ketoconazole, a strong CYP3A4 inhibitor or ketoconazole placebo twice daily for 11 days and the pharmacokinetics of buprenorphine and its metabolites were evaluated.
+In a drug-drug interaction study, buprenorphine transdermal system 10 mcg/hour (single dose × 7 days) was co- administered with 200 mg ketoconazole, a strong CYP3A4 inhibitor or ketoconazole placebo twice daily for 11 days and the pharmacokinetics of buprenorphine and its metabolites were evaluated.
 Plasma buprenorphine concentrations did not accumulate during co-medication with ketoconazole 200 mg twice daily.
 Based on the results from this study, metabolism during therapy with buprenorphine transdermal system is not expected to be affected by co-administration of CYP3A4 inhibitors [see Drug Interactions (7)].
 
@@ -178,8 +179,7 @@ Hepatic Impairment
 The pharmacokinetics of buprenorphine following an IV infusion of 0.3 mg of buprenorphine were compared in 8 patients with mild impairment (Child-Pugh A), 4 patients with moderate impairment (Child-Pugh B) and 12 subjects with normal hepatic function.
 Buprenorphine and norbuprenorphine exposure did not increase in the mild and moderate hepatic impairment patients.
 
-Buprenorphine transdermal system has not been evaluated in patients with severe (Child-Pugh C) hepatic impairment.
-[see Warnings and Precautions (5.10), Use in Specific Populations (8.6)].
+Buprenorphine transdermal system has not been evaluated in patients with severe (Child-Pugh C) hepatic impairment [see Warnings and Precautions (5.14), Use in Specific Populations (8.6)].
 
 Renal Impairment
 
@@ -189,4 +189,4 @@ In an independent study, the effect of impaired renal function on buprenorphine 
 It was found that plasma buprenorphine concentrations were similar in patients with normal renal function and in patients with impaired renal function or renal failure.
 In a separate investigation of the effect of intermittent hemodialysis on buprenorphine plasma concentrations in chronic pain patients with end-stage renal disease who were treated with a transdermal buprenorphine product (marketed outside the US) up to 70 mcg/hour, no significant differences in buprenorphine plasma concentrations before or after hemodialysis were observed.
 
-No notable relationship was observed between estimated creatinine clearance rates and steady-state buprenorphine concentrations among patients during buprenorphine transdermal system therapy.
+No notable relationship was observed between estimated creatinine clearance rates and steady- state buprenorphine concentrations among patients during buprenorphine transdermal system therapy.

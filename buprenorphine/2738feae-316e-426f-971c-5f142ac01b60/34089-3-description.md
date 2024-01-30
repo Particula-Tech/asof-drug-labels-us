@@ -10,7 +10,7 @@ The pKa is 8.5 and the melting point is about 217°C.
 
 System Components and Structure
 
-Five different strengths of Buprenorphine Transdermal System are available: 5, 7.5, 10, 15, and 20 mcg/hour (Table 6).
+Five different strengths of buprenorphine transdermal system are available: 5, 7.5, 10, 15, and 20 mcg/hour (Table 6).
 The proportion of buprenorphine mixed in the adhesive matrix is the same in each of the five strengths.
 The amount of buprenorphine released from each system per hour is proportional to the active surface area of the system.
 The skin is the limiting barrier to diffusion from the system into the bloodstream.
@@ -25,11 +25,11 @@ Table 6: Buprenorphine Transdermal System Product Specifications
 | Buprenorphine Transdermal System 15 | 18.75 | 15 |
 | Buprenorphine Transdermal System 20 | 25 | 20 |
 
-Buprenorphine Transdermal System is a rectangular or square, beige-colored system consisting of a protective liner and functional layers.
-Proceeding from the outer surface toward the surface adhering to the skin, the layers are (1) a beige-colored web backing layer; (2) an adhesive rim without buprenorphine; (3) a separating layer over the buprenorphine-containing adhesive matrix; (4) the buprenorphine-containing adhesive matrix; and (5) a peel-off release liner.
+Buprenorphine transdermal system is a rectangular or square, beige-colored system consisting of a protective liner and functional layers.
+Proceeding from the outer surface toward the surface adhering to the skin, the layers are (1) a beige-colored web backing layer; (2) an adhesive rim without buprenorphine; (3) a separating layer over the buprenorphine-containing adhesive matrix; (4) the buprenorphine- containing adhesive matrix; and (5) a peel-off release liner.
 Before use, the release liner covering the adhesive layer is removed and discarded.
 
 Figure 1: Cross-Section Diagram of Buprenorphine Transdermal System (not to scale).
 
-The active ingredient in Buprenorphine Transdermal System is buprenorphine.
+The active ingredient in buprenorphine transdermal system is buprenorphine.
 The inactive ingredients in each system are: levulinic acid, oleyl oleate, povidone, and polyacrylate cross-linked with aluminum.
