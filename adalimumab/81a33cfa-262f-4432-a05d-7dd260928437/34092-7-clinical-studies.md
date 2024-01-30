@@ -31,7 +31,8 @@ Clinical Response
 
 The percent of adalimumab-treated patients achieving ACR 20, 50, and 70 responses in Studies RA-II and III are shown in Table 3.
 
-Table 3.ACR Responses in Studies RA-II and RA-III (Percent of Patients)
+Table 3.
+ACR Responses in Studies RA-II and RA-III (Percent of Patients)
 
 | Response | Study RA-II Monotherapy (26 weeks) |  |  | Study RA-III Methotrexate Combination (24 and 52 weeks) |  |
 | --- | --- | --- | --- | --- | --- |
@@ -53,7 +54,8 @@ ACR response rates and improvement in all components of ACR response were mainta
 Over the 2 years in Study RA-III, 20% of adalimumab patients receiving 40 mg every other week achieved a major clinical response, defined as maintenance of an ACR 70 response over a 6-month period.
 ACR responses were maintained in similar proportions of patients for up to 5 years with continuous adalimumab treatment in the open-label portion of Study RA-III.
 
-Table 4.Components of ACR Response in Studies RA-II and RA-III
+Table 4.
+Components of ACR Response in Studies RA-II and RA-III
 
 | Parameter (median) | Study RA-II |  |  |  | Study RA-III |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -72,15 +74,16 @@ The time course of ACR 20 response for Study RA-III is shown in Figure 1.
 In Study RA-III, 85% of patients with ACR 20 responses at Week 24 maintained the response at 52 weeks.
 The time course of ACR 20 response for Study RA-I and Study RA-II were similar.
 
-- Figure 1.
-  Study RA-III ACR 20 Responses Over 52 Weeks
+Figure 1.
+Study RA-III ACR 20 Responses Over 52 Weeks
 
 In Study RA-IV, 53% of patients treated with adalimumab 40 mg every other week plus standard of care had an ACR 20 response at Week 24 compared to 35% on placebo plus standard of care (p<0.001).
 No unique adverse reactions related to the combination of adalimumab and other DMARDs were observed.
 
 In Study RA-V with MTX naïve patients with recent onset RA, the combination treatment with adalimumab plus MTX led to greater percentages of patients achieving ACR responses than either MTX monotherapy or adalimumab monotherapy at Week 52 and responses were sustained at Week 104 (see Table 5).
 
-Table 5.ACR Response in Study RA-V (Percent of Patients)
+Table 5.
+ACR Response in Study RA-V (Percent of Patients)
 
 | Response | MTXp<0.05, adalimumab/MTX vs. MTX for ACR 20; p<0.001, adalimumab/MTX vs. MTX for ACR 50 and 70, and Major Clinical Response. N=257 | Adalimumabp<0.001, adalimumab/MTX vs. adalimumab. N=274 | Adalimumab/MTX N=268 |
 | --- | --- | --- | --- |
@@ -104,7 +107,8 @@ At baseline, the median TSS was approximately 55 in the placebo and 40 mg every 
 The results are shown in Table 6.
 Adalimumab/MTX treated patients demonstrated less radiographic progression than patients receiving MTX alone at 52 weeks.
 
-Table 6.Radiographic Mean Changes Over 12 Months in Study RA-III
+Table 6.
+Radiographic Mean Changes Over 12 Months in Study RA-III
 
 |  | Placebo/MTX | Adalimumab/MTX 40 mg Every Other Week | Placebo/MTX Adalimumab/MTX (95% Confidence Interval95% confidence intervals for the differences in change scores between MTX and adalimumab.) | P-valueBased on rank analysis. |
 | --- | --- | --- | --- | --- |
@@ -198,7 +202,8 @@ At 24 weeks, the proportions of patients achieving a 75% or 90% improvement in t
 PASI responses were apparent in some patients at the time of the first visit (two weeks).
 Responses were similar in patients who were or were not receiving concomitant MTX therapy at baseline.
 
-Table 8.ACR Response in Study PsA-I (Percent of Patients)
+Table 8.
+ACR Response in Study PsA-I (Percent of Patients)
 
 |  | Placebo N=162 | Adalimumabp<0.001 for all comparisons between adalimumab and placebo. N=151 |
 | --- | --- | --- |
@@ -209,7 +214,8 @@ Table 8.ACR Response in Study PsA-I (Percent of Patients)
 | ACR70 |  |  |
 | Week 12 Week 24 | 1%1% | 20%23% |
 
-Table 9.Components of Disease Activity in Study PsA-I
+Table 9.
+Components of Disease Activity in Study PsA-I
 
 |  | Placebo N=162 |  | Adalimumabp<0.001 for adalimumab vs. placebo comparisons based on median changes. N=151 |  |
 | --- | --- | --- | --- | --- |
@@ -232,7 +238,8 @@ A modified Total Sharp Score (mTSS), which included distal interphalangeal joint
 
 Adalimumab-treated patients demonstrated greater inhibition of radiographic progression compared to placebo-treated patients and this effect was maintained at 48 weeks (see Table 10).
 
-Table 10.Change in Modified Total Sharp Score in Psoriatic Arthritis
+Table 10.
+Change in Modified Total Sharp Score in Psoriatic Arthritis
 
 |  | Placebo N=141 | Adalimumab N=133 |  |
 | --- | --- | --- | --- |
@@ -257,15 +264,16 @@ Improvement in measures of disease activity was first observed at Week 2 and mai
 
 Responses of patients with total spinal ankylosis (n=11) were similar to those without total ankylosis.
 
-- Figure 2.
-  ASAS 20 Response By Visit, Study AS-I
+Figure 2.
+ASAS 20 Response By Visit, Study AS-I
 
 At 12 weeks, the ASAS 20/50/70 responses were achieved by 58%, 38%, and 23%, respectively, of patients receiving adalimumab, compared to 21%, 10%, and 5% respectively, of patients receiving placebo (p<0.001).
 Similar responses were seen at Week 24 and were sustained in patients receiving open-label adalimumab for up to 52 weeks.
 
 A greater proportion of patients treated with adalimumab (22%) achieved a low level of disease activity at 24 weeks (defined as a value <20 [on a scale of 0 to 100 mm] in each of the four ASAS response parameters) compared to patients treated with placebo (6%).
 
-Table 11.Components of Ankylosing Spondylitis Disease Activity
+Table 11.
+Components of Ankylosing Spondylitis Disease Activity
 
 |  | Placebo N=107 |  | Adalimumab N=208 |  |
 | --- | --- | --- | --- | --- |
@@ -310,7 +318,8 @@ Induction of Clinical Remission
 
 A greater percentage of the patients treated with 160/80 mg adalimumab achieved induction of clinical remission versus placebo at Week 4 regardless of whether the patients were TNF blocker naïve (CD-I), or had lost response to or were intolerant to infliximab (CD-II) (see Table 12).
 
-Table 12.Induction of Clinical Remission in Studies CD-I and CD-II (Percent of Patients)
+Table 12.
+Induction of Clinical Remission in Studies CD-I and CD-II (Percent of Patients)
 
 |  | CD-I |  | CD-II |  |
 | --- | --- | --- | --- | --- |
@@ -326,7 +335,8 @@ In Study CD-III at Week 4, 58% (499/854) of patients were in clinical response a
 At Weeks 26 and 56, greater proportions of patients who were in clinical response at Week 4 achieved clinical remission in the adalimumab 40 mg every other week maintenance group compared to patients in the placebo maintenance group (see Table 13).
 The group that received adalimumab therapy every week did not demonstrate significantly higher remission rates compared to the group that received adalimumab every other week.
 
-Table 13.Maintenance of Clinical Remission in CD-III (Percent of Patients)
+Table 13.
+Maintenance of Clinical Remission in CD-III (Percent of Patients)
 
 |  | Placebo N=170 | 40 mg Adalimumab Every Other Week N=172 |
 | --- | --- | --- |
@@ -373,7 +383,8 @@ At both Weeks 26 and 52, the proportion of patients in clinical remission and cl
 The recommended maintenance regimen is 20 mg every other week for patients weighing <40 kg and 40 mg every other week for patients weighing ≥40 kg.
 Every week dosing is not the recommended maintenance dosing regimen [see Dosage and Administration (2.3)].
 
-Table 14.Clinical Remission and Clinical Response in Study PCD-I
+Table 14.
+Clinical Remission and Clinical Response in Study PCD-I
 
 |  | Low Maintenance DoseThe low maintenance dose was 20 mg every other week for patients weighing ≥40 kg and 10 mg every other week for patients weighing <40 kg. (20 or 10 mg Every Other Week) N=95 | High Maintenance DoseThe high maintenance dose was 40 mg every other week for patients weighing ≥ 40 kg and 20 mg every other week for patients weighing <40 kg. (40 or 20 mg Every Other Week) N=93 |
 | --- | --- | --- |
@@ -408,7 +419,8 @@ Corticosteroid taper was permitted starting at Week 8.
 In both Studies UC-I and UC-II, a greater percentage of the patients treated with 160/80 mg of adalimumab compared to patients treated with placebo achieved induction of clinical remission.
 In Study UC-II, a greater percentage of the patients treated with 160/80 mg of adalimumab compared to patients treated with placebo achieved sustained clinical remission (clinical remission at both Weeks 8 and 52) (Table 15).
 
-Table 15.Induction of Clinical Remission in Studies UC-I and UC-II and Sustained Clinical Remission in Study UC-II (Percent of Patients)
+Table 15.
+Induction of Clinical Remission in Studies UC-I and UC-II and Sustained Clinical Remission in Study UC-II (Percent of Patients)
 
 |  | Study UC-I |  |  | Study UC-II |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -443,14 +455,16 @@ Studies Ps-I and II evaluated the proportion of subjects who achieved "clear" or
 
 Additionally, Study Ps-I evaluated the proportion of subjects who maintained a PGA of "clear" or "minimal" disease or a PASI 75 response after Week 33 and on or before Week 52.
 
-Table 16.Efficacy Results at 16 Weeks in Study Ps-I Number of Subjects (%)
+Table 16.
+Efficacy Results at 16 Weeks in Study Ps-I Number of Subjects (%)
 
 |  | Adalimumab 40 mg Every Other Week N=814 | Placebo N=398 |
 | --- | --- | --- |
 | PGA: Clear or minimalClear=no plaque elevation, no scale, plus or minus hyperpigmentation or diffuse pink or red coloration. Minimal=possible but difficult to ascertain whether there is slight elevation of plaque above normal skin, plus or minus surface dryness with some white coloration, plus or minus up to red coloration. | 506 (62%) | 17 (4%) |
 | PASI 75 | 578 (71%) | 26 (7%) |
 
-Table 17.Efficacy Results at 16 Weeks in Study Ps-II Number of Subjects (%)
+Table 17.
+Efficacy Results at 16 Weeks in Study Ps-II Number of Subjects (%)
 
 |  | Adalimumab 40 mg Every Other Week N=99 | Placebo N=48 |
 | --- | --- | --- |
@@ -474,7 +488,8 @@ This study evaluated the proportion of subjects who achieved "clear" or "minimal
 At Week 26, a higher proportion of subjects in the adalimumab group than in the placebo group achieved the PGA-F endpoint.
 Furthermore, a higher proportion of subjects in the adalimumab group than in the placebo group achieved mNAPSI 75 at Week 26 (see Table 18).
 
-Table 18.Efficacy Results at 26 Weeks
+Table 18.
+Efficacy Results at 26 Weeks
 
 | Endpoint | Adalimumab 40 mg Every Other WeekSubjects received 80 mg of adalimumab at Week 0, followed by 40 mg every other week starting at Week 1. N=109 | Placebo N=108 |
 | --- | --- | --- |

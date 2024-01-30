@@ -47,7 +47,6 @@ Two weeks later (Day 29) continue with a dosage of 40 mg every other week.
 
 Discontinue ABRILADA in adult patients without evidence of clinical remission by eight weeks (Day 57) of therapy.
 Aminosalicylates and/or corticosteroids may be continued during treatment with ABRILADA.
-
 Azathioprine and 6-mercaptopurine (6-MP) [see Warnings and Precautions (5.2)] may be continued during treatment with ABRILADA if necessary.
 
 ## 2.5 Plaque Psoriasis or Adult Uveitis

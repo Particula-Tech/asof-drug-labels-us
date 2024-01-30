@@ -72,7 +72,8 @@ Most patients received 40 mg adalimumab every other week [see Clinical Studies (
 Table 1 summarizes reactions reported at a rate of at least 5% in patients treated with adalimumab 40 mg every other week compared to placebo and with an incidence higher than placebo.
 In Study RA-III, the types and frequencies of adverse reactions in the second year open-label extension were similar to those observed in the one-year double-blind portion.
 
-Table 1.Adverse Reactions Reported by ≥5% of Patients Treated with Adalimumab During Placebo-Controlled Period of Pooled RA Studies (Studies RA-I, RA-II, RA-III, and RA-IV)
+Table 1.
+Adverse Reactions Reported by ≥5% of Patients Treated with Adalimumab During Placebo-Controlled Period of Pooled RA Studies (Studies RA-I, RA-II, RA-III, and RA-IV)
 
 | Adverse Reaction (Preferred Term) | Adalimumab 40 mg Subcutaneous Every Other Week (N=705) | Placebo (N=690) |
 | --- | --- | --- |
@@ -205,7 +206,8 @@ With the ELISA, antibodies to adalimumab could be detected only when serum adali
 The ECL assay can detect anti-adalimumab antibody titers independent of adalimumab concentrations in the serum samples.
 The incidence of anti-adalimumab antibody (AAA) development in patients treated with adalimumab are presented in Table 2.
 
-Table 2.Anti-Adalimumab Antibody Development Determined by ELISA and ECL Assay in Patients Treated with Adalimumab
+Table 2.
+Anti-Adalimumab Antibody Development Determined by ELISA and ECL Assay in Patients Treated with Adalimumab
 
 | Indications |  | Study Duration | Anti-Adalimumab Antibody Incidence by ELISA (n/N) |  | Anti-Adalimumab Antibody Incidence by ECL Assay (n/N) |
 | --- | --- | --- | --- | --- | --- |
