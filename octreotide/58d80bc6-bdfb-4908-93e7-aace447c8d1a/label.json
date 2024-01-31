@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208232"
+  ],
+  "inn": "octreotide",
+  "labeler": "Chiesi USA, Inc.",
+  "package_ndcs": [
+    "10122-550-28"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "octreotide",
+      "name": "Mycapssa"
+    }
+  ],
+  "setid": "58d80bc6-bdfb-4908-93e7-aace447c8d1a",
+  "source": "dailymed"
+}
