@@ -107,8 +107,7 @@ The efficacy and safety of canagliflozin for glycemic control were evaluated in 
 These patients had less overall glycemic efficacy, and patients treated with canagliflozin 300 mg per day had increases in serum potassium, which were transient and similar by the end of study.
 Patients with renal impairment using canagliflozin for glycemic control may also be more likely to experience hypotension and may be at higher risk for acute kidney injury [see Warnings and Precautions (5.4)].
 
-Efficacy and safety studies with canagliflozin did not enroll patients with ESKD on dialysis or patients with an eGFR less than 30 mL/min/1.73 m 2.
-[see Clinical Pharmacology (12.3)].
+Efficacy and safety studies with canagliflozin did not enroll patients with ESKD on dialysis or patients with an eGFR less than 30 mL/min/1.73 m 2[see Clinical Pharmacology (12.3)].
 
 Metformin HCl
 

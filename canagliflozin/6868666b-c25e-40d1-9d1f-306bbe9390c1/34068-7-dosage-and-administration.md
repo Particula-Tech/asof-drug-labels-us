@@ -23,8 +23,7 @@ Individualize the starting dose of INVOKAMET or INVOKAMET XR based on the patien
 Table 1 presents the recommended starting dosage of INVOKAMET and INVOKAMET XR based on the patient's current regimen.
 For the available strengths of the canagliflozin and metformin components in INVOKAMET and INVOKAMET XR, see Dosage Forms and Strengths (3).
 
-Table 1.
-Recommended Starting Dosage Based on the Patient's Current Regimen
+Table 1: Recommended Starting Dosage Based on the Patient's Current Regimen
 
 | Current Regimen | INVOKAMET Recommended Dosage Administered as one tablet, orally, twice daily with meals | INVOKAMET XR Recommended Dosage Administered as two tablets, orally, once daily with the morning meal |
 | --- | --- | --- |
@@ -48,7 +47,7 @@ Canagliflozin may be increased to the maximum recommended dosage of 300 mg once 
 - Initiation of INVOKAMET or INVOKAMET XR is not recommended in patients with an eGFR less than 45 mL/min/1.73 m 2, due to the metformin component.
 - Table 2 provides dosage recommendations for patients with renal impairment, based on eGFR [see Use in Specific Populations (8.6)and Clinical Studies (14.3)].
 
-Table 2 Recommended Dosage in Patients with Renal Impairment
+Table 2: Recommended Dosage in Patients with Renal Impairment
 
 | Estimated Glomerular Filtration Rate [eGFR (mL/min/1.73 m 2)] | Recommended Dosage |
 | --- | --- |

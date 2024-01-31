@@ -68,6 +68,10 @@ Bone Fracture
 Inform patients that bone fractures have been reported in patients taking canagliflozin.
 Provide them with information on factors that may contribute to fracture risk [see Warnings and Precautions (5.10)].
 
+Vitamin B 12Deficiency
+
+Inform patients about importance of regular hematological parameters while receiving INVOKAMET or INVOKAMET XR [see Warnings and Precautions (5.11)].
+
 Laboratory Tests
 
 Inform patients that they will test positive for glucose in their urine while on INVOKAMET or INVOKAMET XR [see Drug Interactions (7)].

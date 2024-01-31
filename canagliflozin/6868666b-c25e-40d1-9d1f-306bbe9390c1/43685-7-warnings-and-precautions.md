@@ -58,12 +58,12 @@ INVOKAMET or INVOKAMET XR is not indicated for glycemic control in patients with
 Type 2 diabetes mellitus and pancreatic disorders (e.g., history of pancreatitis or pancreatic surgery) are also risk factors for ketoacidosis.
 There have been postmarketing reports of fatal events of ketoacidosis in patients with type 2 diabetes mellitus using SGLT2 inhibitors, including INVOKAMET or INVOKAMET XR.
 
-Precipitating conditions for diabetic ketoacidosis or other ketoacidosis include acute febrile illness, reduced caloric intake, ketogenic diet, surgery, insulin dose reduction, volume depletion, and alcohol abuse.
+Precipitating conditions for diabetic ketoacidosis or other ketoacidosis include under-insulinization due to insulin dose reduction or missed insulin doses, acute febrile illness, reduced caloric intake, ketogenic diet, surgery, volume depletion, and alcohol abuse.
 
 Signs and symptoms are consistent with dehydration and severe metabolic acidosis and include nausea, vomiting, abdominal pain, generalized malaise, and shortness of breath.
 Blood glucose levels at presentation may be below those typically expected for diabetic ketoacidosis (e.g., less than 250 mg/dL).
 Ketoacidosis and glucosuria may persist longer than typically expected.
-Urinary glucose excretion persists for 3 days after discontinuing INVOKAMET or INVOKAMET XR [see Clinical Pharmacology (12.2)]; however, there have been postmarketing reports of ketoacidosis and glucosuria lasting greater than 6 days and some up to 2 weeks after discontinuation of SGLT2 inhibitors.
+Urinary glucose excretion persists for 3 days after discontinuing INVOKAMET or INVOKAMET XR [see Clinical Pharmacology (12.2)]; however, there have been postmarketing reports of ketoacidosis and/or glucosuria lasting greater than 6 days and some up to 2 weeks after discontinuation of SGLT2 inhibitors.
 
 Consider ketone monitoring in patients at risk for ketoacidosis if indicated by the clinical situation.
 Assess for ketoacidosis regardless of presenting blood glucose levels in patients who present with signs and symptoms consistent with severe metabolic acidosis.
@@ -87,7 +87,6 @@ Some patients had multiple amputations, some involving both lower limbs.
 Lower limb infections, gangrene, and diabetic foot ulcers were the most common precipitating medical events leading to the need for an amputation.
 The risk of amputation was highest in patients with a baseline history of prior amputation, peripheral vascular disease, and neuropathy.
 
-Before initiating INVOKAMET or INVOKAMET XR, consider factors in the patient history that may predispose to the need for amputations, such as a history of prior amputation, peripheral vascular disease, neuropathy and diabetic foot ulcers.
 Counsel patients about the importance of routine preventative foot care.
 Monitor patients receiving INVOKAMET or INVOKAMET XR for signs and symptoms of infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and discontinue INVOKAMET or INVOKAMET XR if these complications occur.
 

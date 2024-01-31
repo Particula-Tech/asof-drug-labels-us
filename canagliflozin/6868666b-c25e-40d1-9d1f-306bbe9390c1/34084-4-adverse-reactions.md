@@ -192,7 +192,7 @@ Metformin HCl
 
 The most common adverse reactions (5% or greater incidence) due to initiation of metformin HCl are diarrhea, nausea, vomiting, flatulence, asthenia, indigestion, abdominal discomfort, and headache.
 
-Long-term treatment with metformin HCl has been associated with a decrease in vitamin B 12, which may result in clinically significant vitamin B 12deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.11)].
+In metformin clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B 12levels was observed in approximately 7% of patients.
 
 Laboratory and Imaging Tests
 
@@ -238,7 +238,7 @@ The placebo-adjusted change at the distal forearm for patients randomized to can
 
 ## 6.2 Postmarketing Experience
 
-Additional adverse reactions have been identified during post-approval use of canagliflozin.
+Additional adverse reactions have been identified during post-approval use of canagliflozin and/or metformin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Canagliflozin
