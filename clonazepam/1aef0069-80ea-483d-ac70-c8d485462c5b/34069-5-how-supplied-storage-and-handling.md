@@ -14,10 +14,10 @@ Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [S
 
 Rx only
 
-Manufactured by:
+Dist by:
 
-PAR PHARMACEUTICAL
+Par Pharmaceutical
 
-Chestnut Ridge, NY 10977
+Cranbury, NJ 08512 U.S.A.
 
 Revised:11/2022

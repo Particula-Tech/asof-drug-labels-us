@@ -195,14 +195,14 @@ Inactive ingredients:
   - 1 mg tablets contain aspartame, crospovidone, magnesium stearate, mannitol, silicon dioxide, sorbitol, sodium lauryl sulfate and talc
   - 2 mg tablets contain aspartame, crospovidone, magnesium stearate, mannitol, silicon dioxide, sorbitol, sodium lauryl sulfate and talc
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+This Medication Guide has been approved by the U.S. Food and Drug Administration.\
 
-Manufactured by:
+Dist by:
 
-PAR PHARMACEUTICAL
+Par Pharmaceutical
 
-Chestnut Ridge, NY 10977
+Cranbury, NJ 08512 U.S.A.
 
 For additional copies of this Medication Guide, visit www.parpharm.com or call 1-800-828-9393
 
-Revised: 08/2022
+Revised: 11/2022
