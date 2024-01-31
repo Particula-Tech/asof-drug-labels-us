@@ -1,5 +1,7 @@
 # Principal Display Panel
 
+NDC 45802-966-94
+
 Rx Only
 
 Erythromycin Topical Gel USP, 2%
