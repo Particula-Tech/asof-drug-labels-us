@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA210942"
+  ],
+  "inn": "colchicine",
+  "labeler": "Scilex Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "69557-222-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "colchicine",
+      "name": "Gloperba"
+    }
+  ],
+  "setid": "467cd83f-d695-4040-9434-10e80b4271da",
+  "source": "dailymed"
+}
