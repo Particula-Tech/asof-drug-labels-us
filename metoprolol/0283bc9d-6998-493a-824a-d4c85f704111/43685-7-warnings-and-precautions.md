@@ -37,6 +37,7 @@ Chronically administered beta-blocking therapy should not be routinely withdrawn
 
 Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting).
 If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment.
+Beta-blockers may ask some of the manifestations of hypoglycemia, particularly tachycardia.
 
 ## 5.7 Thyrotoxicosis
 
