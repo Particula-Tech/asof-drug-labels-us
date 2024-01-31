@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA075562"
+  ],
+  "inn": "ipratropium",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-830-84"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "ipratropium bromide",
+      "name": "Ipratropium Bromide"
+    }
+  ],
+  "setid": "1e3d4faa-cf6e-460b-b1e0-fcc8094505fa",
+  "source": "dailymed"
+}
