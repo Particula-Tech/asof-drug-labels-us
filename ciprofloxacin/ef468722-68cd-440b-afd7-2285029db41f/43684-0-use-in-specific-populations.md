@@ -82,6 +82,12 @@ Efficacy studies of ciprofloxacin could not be conducted in humans with pneumoni
 Therefore, approval of this indication was based on an efficacy study conducted in animals.
 The risk-benefit assessment indicates that administration of ciprofloxacin to pediatric patients is appropriate [see Indications and Usage (1.8), Dosage and Administration (2.2) and Clinical Studies (14.3)].
 
+## 8.6 Renal Impairment
+
+Ciprofloxacin is eliminated primarily by renal excretion; however, the drug is also metabolized and partially cleared through the biliary system of the liver and through the intestine.
+These alternative pathways of drug elimination appear to compensate for the reduced renal excretion in patients with renal impairment.
+Nonetheless, some modification of dosage is recommended, particularly for patients with severe renal dysfunction [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+
 ## 8.5 Geriatric Use
 
 Geriatric patients are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as ciprofloxacin.
@@ -98,12 +104,6 @@ However, since some older individuals experience reduced renal function by virtu
 
 In general, elderly patients may be more susceptible to drug-associated effects on the QT interval.
 Therefore, precaution should be taken when using ciprofloxacin with concomitant drugs that can result in prolongation of the QT interval (for example, class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (for example, known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.12)].
-
-## 8.6 Renal Impairment
-
-Ciprofloxacin is eliminated primarily by renal excretion; however, the drug is also metabolized and partially cleared through the biliary system of the liver and through the intestine.
-These alternative pathways of drug elimination appear to compensate for the reduced renal excretion in patients with renal impairment.
-Nonetheless, some modification of dosage is recommended, particularly for patients with severe renal dysfunction [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
-Serious Adverse Reactions Advise patients to stop taking ciprofloxacin tablets if they experience an adverse reaction and to call their healthcare provider for advice on completing the full course of treatment with another antibacterial drug.
+Serious Adverse ReactionsAdvise patients to stop taking ciprofloxacin tablets if they experience an adverse reaction and to call their healthcare provider for advice on completing the full course of treatment with another antibacterial drug.
 Inform patients of the following serious adverse reactions that have been associated with ciprofloxacin tablets or other fluoroquinolone use:
 
 - Disabling and potentially irreversible serious adverse reactions that may occur together: Inform patients that disabling and potentially irreversible serious adverse reactions, including tendinitis and tendon rupture, peripheral neuropathies, and central nervous system effects, have been associated with use of ciprofloxacin tablets and may occur together in the same patient.
@@ -76,8 +76,14 @@ Drug Interactions Oral Antidiabetic Agents Inform patients that hypoglycemia has
 
 Anthrax and Plague Studies Inform patients given ciprofloxacin for these conditions that efficacy studies could not be conducted in humans for feasibility reasons.
 Therefore, approval for these conditions was based on efficacy studies conducted in animals.
-Pharmacist: Dispense with Medication Guide available at: www.risingpharma.com/Medguides/ciprofloxacin-tablets.pdf Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.), Mumbai 400 030, India.
-Rx only Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
+Pharmacist: Dispense with Medication Guide available at: www.risingpharma.com/Medguides/ciprofloxacin-tablets.pdf Manufactured by:Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.), Mumbai 400 030, India.
+Rx only
 
-132754 Revised: Jan.
-2022 Dispense with Medication Guide available at: www.risingpharma.com/Medguides/ciprofloxacin-tablets.pdf
+Distributed by:
+
+Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
+
+137849
+
+Revised: Oct.
+2023 Dispense with Medication Guide available at: www.risingpharma.com/Medguides/ciprofloxacin-tablets.pdf

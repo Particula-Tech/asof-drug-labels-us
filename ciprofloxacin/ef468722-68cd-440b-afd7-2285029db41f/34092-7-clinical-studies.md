@@ -10,7 +10,7 @@ The primary objective of the study was to assess musculoskeletal and neurologica
 Patients were evaluated for clinical success and bacteriological eradication of the baseline organism(s) with no new infection or superinfection at 5 to 9 days post-therapy (Test of Cure or TOC).
 The Per Protocol population had a causative organism(s) with protocol specified colony count(s) at baseline, no protocol violation, and no premature discontinuation or loss to follow-up (among other criteria).
 
-The clinical success and bacteriologic eradication rates in the Per Protocol population were similar between ciprofloxacin and the comparator group as shown below.
+The clinical success and bacteriologic eradication rates in the Per Protocol population were similar between ciprofloxacinand the comparator group as shown below.
 
 | Table 15: Clinical Success and Bacteriologic Eradication at Test of Cure (5 to 9 Days Post-Therapy) |  |  |
 | --- | --- | --- |
@@ -35,7 +35,7 @@ The mean peak serum concentration achieved at steady-state in human adults recei
 The mean trough serum concentration at steady-state for both of these regimens is 0.2 mcg/mL.
 In a study of 10 pediatric patients between 6 and 16 years of age, the mean peak plasma concentration achieved is 8.3 mcg/mL and trough concentrations range from 0.09 mcg/mL to 0.26 mcg/mL, following two 30-minute intravenous infusions of 10 mg/kg administered 12 hours apart.
 After the second intravenous infusion patients switched to 15 mg/kg orally every 12 hours achieve a mean peak concentration of 3.6 mcg/mL after the initial oral dose.
-Long-term safety data, including effects on cartilage, following the administration of ciprofloxacin to pediatric patients are limited.
+Long-term safety data, including effects on cartilage, following the administration of ciprofloxacinto pediatric patients are limited.
 Ciprofloxacin serum concentrations achieved in humans serve as a surrogate endpoint reasonably likely to predict clinical benefit and provide the basis for this indication.1
 
 A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose of 11 LD50 (~5.5 x 105 spores (range 5 -30 LD50) of B. anthracis was conducted.
@@ -45,10 +45,10 @@ Mean steady-state trough concentrations at 12 hours post-dose ranged from 0.12 m
 The one ciprofloxacin-treated animal that died of anthrax did so following the 30-day drug administration period.7
 
 More than 9300 persons were recommended to complete a minimum of 60 days of antibacterial prophylaxis against possible inhalational exposure to B. anthracis during 2001.
-Ciprofloxacin was recommended to most of those individuals for all or part of the prophylaxis regimen.
+Ciprofloxacinwas recommended to most of those individuals for all or part of the prophylaxis regimen.
 Some persons were also given anthrax vaccine or were switched to alternative antibacterial drugs.
-No one who received ciprofloxacin or other therapies as prophylactic treatment subsequently developed inhalational anthrax.
-The number of persons who received ciprofloxacin as all or part of their post-exposure prophylaxis regimen is unknown.
+No one who received ciprofloxacinor other therapies as prophylactic treatment subsequently developed inhalational anthrax.
+The number of persons who received ciprofloxacinas all or part of their post-exposure prophylaxis regimen is unknown.
 
 ## 14.3 Plague
 

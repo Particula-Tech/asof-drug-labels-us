@@ -3,17 +3,12 @@
     "ANDA076639"
   ],
   "inn": "ciprofloxacin",
-  "labeler": "Rising Pharmaceuticals, Inc.",
+  "labeler": "Rising Pharma Holdings, Inc.",
   "package_ndcs": [
-    "16571-411-05",
     "16571-411-10",
-    "16571-411-50",
-    "16571-412-05",
     "16571-412-10",
     "16571-412-50",
-    "16571-413-05",
-    "16571-413-10",
-    "16571-413-50"
+    "16571-413-05"
   ],
   "products": [
     {

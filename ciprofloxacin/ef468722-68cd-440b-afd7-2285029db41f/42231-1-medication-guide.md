@@ -323,12 +323,13 @@ What are the ingredients in ciprofloxacin tablets?
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Trademarks are the property of their respective owner.
-Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.), Mumbai 400 030, India Rx only Distributed by:
+Manufactured by:Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.), Mumbai 400 030, India Rx only Distributed by:
 
 Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
 
 For more information, call 1-844-874-7464.
-132754
 
-Revised: Jan.
-2022
+137849
+
+Revised: Oct.
+2023
