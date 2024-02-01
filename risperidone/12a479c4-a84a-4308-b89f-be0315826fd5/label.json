@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA077543"
+  ],
+  "inn": "risperidone",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-600-60",
+    "62135-601-60",
+    "62135-602-60",
+    "62135-603-60",
+    "62135-604-60",
+    "62135-605-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "risperidone",
+      "name": "Risperidone"
+    }
+  ],
+  "setid": "12a479c4-a84a-4308-b89f-be0315826fd5",
+  "source": "dailymed"
+}
