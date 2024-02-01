@@ -6,9 +6,9 @@ Use caution when nebivolol is co-administered with CYP2D6 inhibitors (quinidine,
 
 ## 7.2 Hypotensive Agents
 
-Do not use nebivolol tablets with other β-blockers.
+Do not use nebivolol with other β-blockers.
 Closely monitor patients receiving catecholamine-depleting drugs, such as reserpine or guanethidine, because the added β-blocking action of nebivolol may produce excessive reduction of sympathetic activity.
-In patients who are receiving nebivolol tablets and clonidine, discontinue nebivolol tablets for several days before the gradual tapering of clonidine.
+In patients who are receiving nebivolol and clonidine, discontinue nebivolol for several days before the gradual tapering of clonidine.
 
 ## 7.3 Digitalis Glycosides
 

@@ -9,17 +9,17 @@ The patient experienced hyperhydrosis, pallor, depressed level of consciousness,
 The patient recovered.
 Because of extensive drug binding to plasma proteins, hemodialysis is not expected to enhance nebivolol clearance.
 If overdose occurs, provide general supportive and specific symptomatic treatment.
-Based on expected pharmacologic actions and recommendations for other β-blockers, consider the following general measures, including stopping nebivolol, when clinically warranted: Bradycardia: Administer IV atropine.
+Based on expected pharmacologic actions and recommendations for other β-blockers, consider the following general measures, including stopping nebivolol, when clinically warranted: Bradycardia:Administer IV atropine.
 If the response is inadequate, isoproterenol or another agent with positive chronotropic properties may be given cautiously.
 Under some circumstances, transthoracic or transvenous pacemaker placement may be necessary.
-Hypotension: Administer IV fluids and vasopressors.
+Hypotension:Administer IV fluids and vasopressors.
 Intravenous glucagon may be useful.
-Heart Block (second or third degree): Monitor and treat with isoproterenol infusion.
+Heart Block (second or third degree):Monitor and treat with isoproterenol infusion.
 Under some circumstances, transthoracic or transvenous pacemaker placement may be necessary.
-Congestive Heart Failure: Initiate therapy with digitalis glycoside and diuretics.
+Congestive Heart Failure:Initiate therapy with digitalis glycoside and diuretics.
 In certain cases, consider the use of inotropic and vasodilating agents.
-Bronchospasm: Administer bronchodilator therapy such as a short acting inhaled β 2-agonist and/or aminophylline.
-Hypoglycemia: Administer IV glucose.
+Bronchospasm:Administer bronchodilator therapy such as a short acting inhaled β 2-agonist and/or aminophylline.
+Hypoglycemia:Administer IV glucose.
 Repeated doses of IV glucose or possibly glucagon may be required.
 Supportive measures should continue until clinical stability is achieved.
 The half-life of low doses of nebivolol is 12 to 19 hours.

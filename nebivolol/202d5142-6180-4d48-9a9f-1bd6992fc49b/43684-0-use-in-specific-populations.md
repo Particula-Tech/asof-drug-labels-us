@@ -13,7 +13,7 @@ Hypertension increases the fetal risk for intrauterine growth restriction and in
 Pregnant women with hypertension should be carefully monitored and managed accordingly.
 Fetal/Neonatal adverse reactions Neonates of women with hypertension, who are treated with beta-blockers during the third trimester of pregnancy, may be at increased risk for hypotension, bradycardia, hypoglycemia, and respiratory depression.
 Observe newborns for symptoms of hypotension, bradycardia, hypoglycemia and respiratory depression and manage accordingly.
-Data Animal Data Nebivolol was shown to increase embryo-fetal and perinatal lethality in rats at approximately 1.2 times the MRHD or 40 mg/day on a mg/m 2 basis.
+Data Animal Data Nebivolol was shown to increase embryo-fetal and perinatal lethality in rats at approximately 1.2 times the MRHD or 40 mg/day on a mg/m 2basis.
 Decreased pup body weights occurred at 1.25 and 2.5 mg/kg in rats, when exposed during the perinatal period (late gestation, parturition and lactation).
 At 5 mg/kg and higher doses (1.2 times the MRHD), prolonged gestation, dystocia and reduced maternal care were produced with corresponding increases in late fetal deaths and stillbirths and decreased birth weight, live litter size and pup survival.
 These events occurred only when nebivolol was given during the perinatal period (late gestation, parturition and lactation).
@@ -46,4 +46,4 @@ No overall differences in efficacy or in the incidence of adverse events were ob
 ## 8.6 Heart Failure
 
 In a placebo-controlled trial of 2,128 patients (1,067 nebivolol tablets, 1,061 placebo) over 70 years of age with chronic heart failure receiving a maximum dose of 10 mg per day for a median of 20 months, no worsening of heart failure was reported with nebivolol compared to placebo.
-However, if heart failure worsens consider discontinuation of nebivolol tablets.
+However, if heart failure worsens consider discontinuation of nebivolol.

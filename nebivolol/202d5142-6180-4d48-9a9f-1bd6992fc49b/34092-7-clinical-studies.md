@@ -8,10 +8,12 @@ The three monotherapy trials included a total of 2,016 patients (1,811 nebivolol
 Patients received either nebivolol tablets or placebo once daily for twelve weeks.
 Two of these monotherapy trials (Studies 1 and 2) studied 1,716 patients in the general hypertensive population with a mean age of 54 years, 55% males, 26% non-Caucasians, 7% diabetics and 6% genotyped as PMs.
 The third monotherapy trial (Study 3) studied 300 Black patients with a mean age of 51 years, 45% males, 14% diabetics, and 3% as PMs.
-Placebo-subtracted blood pressure reductions by dose for each study are presented in Table 2.
+Placebo-subtracted blood pressure reductions by dose for each study are presented in
+
+Table 2.
 Most studies showed increasing response to doses above 5 mg.
 Table 2.
-Placebo-Subtracted Least-Square Mean Reductions in Trough Sitting Systolic/Diastolic Blood Pressure (SiSBP/SiDBP mmHg) by Dose in Studies with Once Daily Nebivolol Tablets
+Placebo-Subtracted Least-Square Mean Reductions in Trough Sitting Systolic/Diastolic Blood Pressure (SiSBP/SiDBP mmHg) by Dose in Studies with Once Daily Nebivolol
 
 |  | Nebivolol dose (mg) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -27,4 +29,4 @@ Nebivolol tablets, 5 mg to 20 mg, administered once daily concomitantly with sta
 Effectiveness was similar in subgroups analyzed by age and sex.
 Effectiveness was established in Blacks, but as monotherapy the magnitude of effect was somewhat less than in Caucasians.
 The blood pressure lowering effect of nebivolol was seen within two weeks of treatment and was maintained over the 24-hour dosing interval.
-There are no trials of nebivolol tablets demonstrating reductions in cardiovascular risk in patients with hypertension, but at least one pharmacologically similar drug has demonstrated such benefits.
+There are no trials of nebivolol demonstrating reductions in cardiovascular risk in patients with hypertension, but at least one pharmacologically similar drug has demonstrated such benefits.
