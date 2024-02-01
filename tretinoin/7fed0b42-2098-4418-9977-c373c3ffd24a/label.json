@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020438"
+  ],
+  "inn": "tretinoin",
+  "labeler": "H2-Pharma, LLC",
+  "package_ndcs": [
+    "61269-750-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tretinoin",
+      "name": "Vesanoid"
+    }
+  ],
+  "setid": "7fed0b42-2098-4418-9977-c373c3ffd24a",
+  "source": "dailymed"
+}
