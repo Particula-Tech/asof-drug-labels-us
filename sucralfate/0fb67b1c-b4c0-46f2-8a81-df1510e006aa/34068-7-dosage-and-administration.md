@@ -10,4 +10,4 @@ While healing with sucralfate may occur during the first week or two, treatment 
 Elderly: In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy (See PRECAUTIONS, Geriatric Use).
 
 Call your doctor for medical advice about side effects.
-You may report side effects to Allergan USA, Inc. at 1-800-678-1605 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+You may report side effects to AbbVie, Inc at 1-800-678-1605 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

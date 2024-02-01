@@ -10,15 +10,13 @@ Store at controlled room temperature 20-25°C (68-77°F) [see USP].
 Rx Only
 
 Prescribing Information rev.
-Jan 2023
+Jun 2023
 
-Distributed by: Allergan USA, Inc. Madison, NJ 07940
+Distributed by: AbbVie, Inc. North Chicago, IL 60064
 
-CARAFATE® is a registered trademark of Aptalis Pharma Canada ULC, an Allergan affiliate.
+CARAFATE and its design are trademarks of Aptalis Pharma Canada ULC, an AbbVie company.
 
-® 2023 Allergan.
+© 2023 AbbVie.
 All rights reserved.
 
-Allergan® and its design are trademarks of Allergan, Inc.
-
-v2.0USPI0170
+v2.1USPI0170
