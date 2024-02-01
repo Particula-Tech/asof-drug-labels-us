@@ -37,7 +37,7 @@ For the purpose of comparison, the following is the equivalent milligram dosage 
 These dose relationships apply only to oral or intravenous administration of these compounds.
 When these substances or their derivatives are injected intramuscularly or into joint spaces, their relative properties may be greatly altered.
 
-## Preparation of Solutions
+## Preparation of Solutions:
 
 ### 100 mg Plain
 

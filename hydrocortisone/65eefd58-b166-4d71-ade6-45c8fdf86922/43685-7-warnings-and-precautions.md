@@ -7,7 +7,7 @@ Specific events reported include, but are not limited to, spinal cord infarction
 These serious neurologic events have been reported with and without use of fluoroscopy.
 The safety and effectiveness of epidural administration of corticosteroids have not been established, and corticosteroids are not approved for this use.
 
-## General
+## General:
 
 Injection of SOLU-CORTEF may result in dermal and/or subdermal changes forming depressions in the skin at the injection site.
 In order to minimize the incidence of dermal and subdermal atrophy, care must be exercised not to exceed recommended doses in injections.
@@ -20,7 +20,7 @@ Increased dosage of rapidly acting corticosteroids is indicated in patients on c
 Results from one multicenter, randomized, placebo-controlled study with methylprednisolone hemisuccinate, an IV corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
 High doses of systemic corticosteroids, including SOLU-CORTEF, should not be used for the treatment of traumatic brain injury.
 
-## Cardio-renal
+## Cardio-renal:
 
 Average and large doses of corticosteroids can cause elevation of blood pressure, salt and water retention, and increased excretion of potassium.
 These effects are less likely to occur with the synthetic derivatives except when used in large doses.
@@ -29,7 +29,7 @@ All corticosteroids increase calcium excretion.
 
 Literature reports suggest an apparent association between use of corticosteroids and left ventricular free wall rupture after a recent myocardial infarction; therefore, therapy with corticosteroids should be used with great caution in these patients.
 
-## Endocrine
+## Endocrine:
 
 Hypothalamic-pituitary adrenal (HPA) axis suppression, Cushing's syndrome, and hyperglycemia.
 Monitor patients for these conditions with chronic use.
@@ -39,7 +39,7 @@ This type of relative insufficiency may persist for months after discontinuation
 
 ## Infections
 
-### General
+### General:
 
 Patients who are on corticosteroids are more susceptible to infections than are healthy individuals.
 There may be decreased resistance and inability to localize infection when corticosteroids are used.
@@ -50,12 +50,12 @@ With increasing doses of corticosteroids, the rate of occurrence of infectious c
 Corticosteroids may also mask some signs of current infection.
 Do not use intra-articularly, intrabursally, or for intratendinous administration for local effect in the presence of acute local infection.
 
-### Fungal infections
+### Fungal infections:
 
 Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control drug reactions.
 There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions, Amphotericin B injection and potassium-depleting agents).
 
-### Special pathogens
+### Special pathogens:
 
 Latent disease may be activated or there may be an exacerbation of intercurrent infections due to pathogens, including those caused by Amoeba, Candida, Cryptococcus, Mycobacterium, Nocardia, Pneumocystis, and Toxoplasma.
 
@@ -67,21 +67,21 @@ In such patients, corticosteroid-induced immunosuppression may lead to Strongylo
 Corticosteroids should not be used in cerebral malaria.
 There is currently no evidence of benefit from steroids in this condition.
 
-### Tuberculosis
+### Tuberculosis:
 
 The use of corticosteroids in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen.
 
 If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur.
 During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
 
-### Vaccination
+### Vaccination:
 
 Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
 Killed or inactivated vaccines may be administered.
 However, the response to such vaccines cannot be predicted.
 Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy (e.g., for Addison's disease).
 
-### Viral infections
+### Viral infections:
 
 Chicken pox and measles can have a more serious or even fatal course in pediatric and adult patients on corticosteroids.
 In pediatric and adult patients who have not had these diseases, particular care should be taken to avoid exposure.
@@ -91,11 +91,11 @@ If exposed to measles, prophylaxis with immunoglobulin (IG) may be indicated.
 (See the respective package inserts for complete VZIG and IG prescribing information.)
 If chicken pox develops, treatment with antiviral agents should be considered.
 
-### Neurologic
+### Neurologic:
 
 Reports of severe medical events have been associated with the intrathecal route of administration (see ADVERSE REACTIONS, Neurologic/Psychiatric).
 
-### Ophthalmic
+### Ophthalmic:
 
 Use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to bacteria, fungi, or viruses.
 The use of oral corticosteroids is not recommended in the treatment of optic neuritis and may lead to an increase in the risk of new episodes.
@@ -104,7 +104,7 @@ Corticosteroids should not be used in active ocular herpes simplex.
 
 # PRECAUTIONS
 
-## General
+## General:
 
 The lowest possible dose of corticosteroid should be used to control the condition under treatment.
 When reduction in dosage is possible, the reduction should be gradual.
@@ -114,25 +114,25 @@ Since complications of treatment with glucocorticoids are dependent on the size 
 Kaposi's sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
 Discontinuation of corticosteroids may result in clinical improvement.
 
-## Cardio-renal
+## Cardio-renal:
 
 As sodium retention with resultant edema and potassium loss may occur in patients receiving corticosteroids, these agents should be used with caution in patients with congestive heart failure, hypertension, or renal insufficiency.
 
-## Endocrine
+## Endocrine:
 
 Drug-induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
 This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
 Metabolic clearance of corticosteroids is decreased in hypothyroid patients and increased in hyperthyroid patients.
 Changes in thyroid status of the patient may necessitate adjustment in dosage.
 
-## Gastrointestinal
+## Gastrointestinal:
 
 Steroids should be used with caution in active or latent peptic ulcers, diverticulitis, fresh intestinal anastomoses, and non-specific ulcerative colitis, since they may increase the risk of a perforation.
 Signs of peritoneal irritation following gastrointestinal perforation in patients receiving corticosteroids may be minimal or absent.
 
 There is an enhanced effect due to decreased metabolism of corticosteroids in patients with cirrhosis.
 
-## Musculoskeletal
+## Musculoskeletal:
 
 Corticosteroids decrease bone formation and increase bone resorption both through their effect on calcium regulation (e.g., decreasing absorption and increasing excretion) and inhibition of osteoblast function.
 This, together with a decrease in the protein matrix of the bone secondary to an increase in protein catabolism, and reduced sex hormone production, may lead to inhibition of bone growth in pediatric patients and the development of osteoporosis at any age.
@@ -140,7 +140,7 @@ Special consideration should be given to patients at increased risk of osteoporo
 
 Local injection of a steroid into a previously infected site is not usually recommended.
 
-## Neurologic-psychiatric
+## Neurologic-psychiatric:
 
 An acute myopathy has been observed with the use of high doses of corticosteroids, most often occurring in patients with disorders of neuromuscular transmission (e.g., myasthenia gravis), or in patients receiving concomitant therapy with neuromuscular blocking drugs (e.g., pancuronium).
 This acute myopathy is generalized, may involve ocular and respiratory muscles, and may result in quadriparesis.
@@ -150,27 +150,29 @@ Clinical improvement or recovery after stopping corticosteroids may require week
 Psychic derangements may appear when corticosteroids are used, ranging from euphoria, insomnia, mood swings, personality changes, and severe depression to frank psychotic manifestations.
 Also, existing emotional instability or psychotic tendencies may be aggravated by corticosteroids.
 
-## Ophthalmic
+## Ophthalmic:
 
 Intraocular pressure may become elevated in some individuals.
 If steroid therapy is continued for more than 6 weeks, intraocular pressure should be monitored.
 
-## Other
+## Other:
 
 Pheochromocytoma crisis, which can be fatal, has been reported after administration of systemic corticosteroids.
 In patients with suspected pheochromocytoma, consider the risk of pheochromocytoma crisis prior to administering corticosteroids.
 
+### Tumor Lysis Syndrome:
+
 In post marketing experience tumor lysis syndrome (TLS) has been reported in patients with malignancies, including hematological malignancies and solid tumors, following the use of systemic corticosteroids alone or in combination with other chemotherapeutic agents.
 Patients at high risk of TLS, such as patients with tumors that have a high proliferative rate, high tumor burden and high sensitivity to cytotoxic agents, should be monitored closely and appropriate precautions should be taken.
 
-## Information for Patients
+## Information for Patients:
 
 Patients should be warned not to discontinue the use of corticosteroids abruptly or without medical supervision, to advise any medical attendants that they are taking corticosteroids, and to seek medical advice at once should they develop fever or other signs of infection.
 
 Persons who are on corticosteroids should be warned to avoid exposure to chicken pox or measles.
 Patients should also be advised that if they are exposed, medical advice should be sought without delay.
 
-## Drug Interactions
+## Drug Interactions:
 
 Aminoglutethimide: Aminoglutethimide may lead to a loss of corticosteroid-induced adrenal suppression.
 
@@ -214,7 +216,7 @@ Vaccines: Patients on prolonged corticosteroid therapy may exhibit a diminished 
 Corticosteroids may also potentiate the replication of some organisms contained in live attenuated vaccines.
 Routine administration of vaccines or toxoids should be deferred until corticosteroid therapy is discontinued if possible (see WARNINGS: Infections, Vaccination).
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 No adequate studies have been conducted in animals to determine whether corticosteroids have a potential for carcinogenesis or mutagenesis.
 
@@ -222,7 +224,7 @@ Steroids may increase or decrease motility and number of spermatozoa in some pat
 
 Corticosteroids have been shown to impair fertility in male rats.
 
-## Pregnancy
+## Pregnancy:
 
 ### Teratogenic Effects
 
@@ -232,12 +234,12 @@ There are no adequate and well-controlled studies in pregnant women.
 Corticosteroids should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Infants born to mothers who have received corticosteroids during pregnancy should be carefully observed for signs of hypoadrenalism.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
 Because of the potential for serious adverse reactions in nursing infants from corticosteroids, a decision should be made whether to continue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
-## Pediatric Use
+## Pediatric Use:
 
 The efficacy and safety of corticosteroids in the pediatric population are based on the well-established course of effect of corticosteroids, which is similar in pediatric and adult populations.
 Published studies provide evidence of efficacy and safety in pediatric patients for the treatment of nephrotic syndrome (>2 years of age) and aggressive lymphomas and leukemias (>1 month of age).
@@ -253,7 +255,7 @@ In order to minimize the potential growth effects of corticosteroids, pediatric 
 
 Hypertrophic cardiomyopathy was reported after administration of hydrocortisone to prematurely born infants, therefore appropriate diagnostic evaluation and monitoring of cardiac function and structure should be performed.
 
-## Geriatric Use
+## Geriatric Use:
 
 Clinical studies did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
