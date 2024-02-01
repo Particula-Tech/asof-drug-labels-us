@@ -11,12 +11,12 @@ Protect from light.
 Use carton to protect contents from light until used.
 
 This product’s label may have been updated.
-For current full prescribing information, please visit www.perrigo.com.
+For current full prescribing information, please visit www.padagis.com.
 
 Manufactured By Grand River Aseptic Manufacturing Grand Rapids, MI 49504
 
-Manufactured For Perrigo® Minneapolis, MN 55427
+Distributed By Padagis Minneapolis, MN 55427 www.padagis.com
 
-2R800 RC J8
+2R800 RC J9
 
-Rev 07-21
+Rev 12-21

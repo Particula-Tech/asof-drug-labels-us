@@ -1,12 +1,10 @@
 # PRINCIPAL DISPLAY PANEL - Carton
 
-Rx Only
-
 NDC 0574-0820-01
 
-Testosterone Cypionate Injection, USP
+Rx Only
 
-CIII
+Testosterone Cypionate Injection, USP CIII
 
 200 mg/mL
 

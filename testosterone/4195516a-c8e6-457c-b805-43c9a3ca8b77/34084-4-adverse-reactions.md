@@ -7,7 +7,7 @@ Oligospermia may occur at high dosages.
 
 Skin and appendages:Hirsutism, male pattern of baldness, seborrhea, and acne.
 
-Cardiovascular Disorders:myocardial infarction, stroke
+Cardiovascular Disorders:myocardial infarction, stroke.
 
 Fluid and electrolyte disturbances:Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates.
 
@@ -19,10 +19,10 @@ Nervous system: Increased or decreased libido, headache, anxiety, depression, an
 
 Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions.
 
-Vascular Disorders: Venous thromboembolism.
+Vascular disorders: Venous thromboembolism.
 
 Special senses: Rare cases of central serous chorioretinopathy (CSCR).
 
 Miscellaneous:Inflammation and pain at the site of intramuscular injection.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Perrigo at 1-866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Padagis at 1-866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

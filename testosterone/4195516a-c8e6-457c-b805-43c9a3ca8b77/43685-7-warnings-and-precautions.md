@@ -24,7 +24,7 @@ However, testosterone levels may be in the normal or subnormal range in men abus
 Counsel patients concerning the serious adverse reactions associated with abuse of testosterone and anabolic androgenic steroids.
 Conversely, consider the possibility of testosterone and anabolic androgenic steroid abuse in suspected patients who present with serious cardiovascular or psychiatric adverse events.
 
-Edema, with or without congestive heart failure, may be a serious complication in patients with preexisting cardiac, renal or hepatic disease.
+Edema, with or without congestive heart failure, may be a serious complication in patients with pre-existing cardiac, renal or hepatic disease.
 
 Gynecomastia may develop and occasionally persists in patients being treated for hypogonadism.
 
@@ -45,7 +45,7 @@ Because of the potential risk of serious adverse health effects, this drug shoul
 
 # PRECAUTIONS
 
-## General:
+## General
 
 Patients with benign prostatic hypertrophy may develop acute urethral obstruction.
 Priapism or excessive sexual stimulation may develop.
@@ -56,17 +56,17 @@ Testosterone cypionate should not be used interchangeably with testosterone prop
 
 Testosterone cypionate is not for intravenous use.
 
-## Information for patients:
+## Information for patients
 
 Patients should be instructed to report any of the following: nausea, vomiting, changes in skin color, ankle swelling, too frequent or persistent erections of the penis.
 
-## Laboratory tests:
+## Laboratory tests
 
 Hemoglobin and hematocrit levels (to detect polycythemia) should be checked periodically in patients receiving long-term androgen administration.
 
 Serum cholesterol may increase during androgen therapy.
 
-## Drug interactions:
+## Drug interactions
 
 Androgens may increase sensitivity to oral anticoagulants.
 Dosage of the anticoagulant may require reduction in order to maintain satisfactory therapeutic hypoprothrombinemia.
@@ -75,30 +75,30 @@ Concurrent administration of oxyphenbutazone and androgens may result in elevate
 
 In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements.
 
-## Drug/Laboratory test interferences:
+## Drug/Laboratory test Interferences
 
 Androgens may decrease levels of thyroxine-binding globulin, resulting in decreased total T4 serum levels and increased resin uptake of T3 and T4.
 Free thyroid hormone levels remain unchanged, however, and there is no clinical evidence of thyroid dysfunction.
 
-## Carcinogenesis:
+## Carcinogenesis
 
-### Animal data.
+Animal data
 
 Testosterone has been tested by subcutaneous injection and implantation in mice and rats.
 The implant induced cervical-uterine tumors in mice, which metastasized in some cases.
 There is suggestive evidence that injection of testosterone into some strains of female mice increases their susceptibility to hepatoma.
-Testosterone is also known to increase the number of tumors and decrease the degree of differentiation of chemically-induced carcinomas of the liver in rats.
+Testosterone is also known to increase the number of tumors and decrease the degree of differentiation of chemically induced carcinomas of the liver in rats.
 
-### Human data.
+Human data
 
 There are rare reports of hepatocellular carcinoma in patients receiving long-term therapy with androgens in high doses.
 Withdrawal of the drugs did not lead to regression of the tumors in all cases.
 
 Geriatric patients treated with androgens may be at an increased risk of developing prostatic hypertrophy and prostatic carcinoma although conclusive evidence to support this concept is lacking.
 
-## Pregnancy:
+## Pregnancy
 
-### Teratogenic Effects.
+Teratogenic Effects.
 
 The use of testosterone in women who are pregnant is contraindicated.
 Testosterone is teratogenic and may cause fetal harm.
@@ -107,10 +107,10 @@ Testosterone is known to cause virilization of the female fetus when administrat
 Benzyl alcohol can cross the placenta.
 See WARNINGS.
 
-## Nursing mothers:
+## Nursing mothers
 
 Testosterone cypionate is not recommended for use in nursing mothers.
 
-## Pediatric use:
+## Pediatric use
 
 Safety and effectiveness in pediatric patients below the age of 12 years have not been established.
