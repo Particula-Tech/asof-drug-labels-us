@@ -49,7 +49,7 @@ Blister Storage:
 | Tyvaso DPI Presentation | Refrigerated storage 2°C to 8°C (36°F to 46°F) | Room temperature storage 20°C to 25°C (68°F to 77°F), excursions permitted 15°C to 30°C (59°F to 86°F) |
 | --- | --- | --- |
 | Storage |  |  |
-| Sealed (Unopened) Blister Cards or Strips | May be stored until the expiration date printed on the blisters. | Must be used within 5 weeks. |
+| Sealed (Unopened) Blister Cards or Strips | May be stored until the expiration date printed on the blisters. | Must be used within 8 weeks. |
 | Opened Blister Strips | Do not put a blister card or strip back into the refrigerator after being opened or stored at room temperature. | Must be used within 3 days. |
 
 Inhaler Storage:

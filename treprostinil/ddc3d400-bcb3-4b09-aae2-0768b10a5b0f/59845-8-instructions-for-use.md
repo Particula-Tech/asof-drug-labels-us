@@ -1,6 +1,6 @@
 Instructions for Use
 
-TYVASO [tī-vā'-sō] DPI™ (treprostinil) Inhalation Powder For oral inhalation only
+TYVASO [tī-vā'-sō] DPI® (treprostinil) Inhalation Powder For oral inhalation only
 
 | Table of Contents |  |
 | --- | --- |
@@ -35,7 +35,7 @@ Storing TYVASO DPI Inhalers and Cartridges
 
 | Storing TYVASO DPI Inhalers | Storing Unopened Blister Cards and Strips |  |  |  | Storing Opened Blister Strips |
 | --- | --- | --- | --- | --- | --- |
-| Store TYVASO DPI Inhalers, with the mouthpiece on, in a clean, dry place at room temperature between 68°F to 77°F (20°C to 25°C), such as a drawer or medicine cabinet (see Figure E). Inhalers may be stored in the refrigerator between 36°F to 46°F (2°C to 8°C), but should be left out at room temperature for 10 minutes before use. | Store unopened blister cards and strips in a clean, dry place at room temperature, such as a drawer or medicine cabinet. You can store in the carrying case when using outside your home or traveling (see Figure F). Do not use after 5 weeks if stored at room temperature. Unopened blister cards and strips may also be stored in the refrigerator (see Figure G). |  |  | Figure F | Store opened blister strips in a clean, dry place at room temperature (see Figure H), such as a drawer or medicine cabinet. Opened blister strips must be used within 3 days. Do not put a blister strip back into the refrigerator after being opened or stored at room temperature. |
+| Store TYVASO DPI Inhalers, with the mouthpiece on, in a clean, dry place at room temperature between 68°F to 77°F (20°C to 25°C), such as a drawer or medicine cabinet (see Figure E). Inhalers may be stored in the refrigerator between 36°F to 46°F (2°C to 8°C), but should be left out at room temperature for 10 minutes before use. | Store unopened blister cards and strips in a clean, dry place at room temperature, such as a drawer or medicine cabinet. You can store in the carrying case when using outside your home or traveling (see Figure F). Do not use after 8 weeks if stored at room temperature. Unopened blister cards and strips may also be stored in the refrigerator (see Figure G). |  |  | Figure F | Store opened blister strips in a clean, dry place at room temperature (see Figure H), such as a drawer or medicine cabinet. Opened blister strips must be used within 3 days. Do not put a blister strip back into the refrigerator after being opened or stored at room temperature. |
 | Do not leave or store cartridges in the inhaler. Keep out of the reach of children. | Do not use after the Expiration Date has passed. |  |  |  | Figure H |
 | Figure E |  | Important: If refrigerated, cartridges and inhaler should be left out at room temperature for 10 minutes before use. |  | Figure G |  |
 |  | ROOM TEMPERATURE | 10 mins. |  |  |  |
@@ -117,9 +117,9 @@ Inhaling Multiple Cartridges of TYVASO DPI
 For further questions and information, or to report a problem with your device or any side effects with your TYVASO DPI, please call 1-877-UNITHER (1-877-864-8437).
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Issued: May 2022
+Revised: November 2023
 
-TYVASO DPI™ is a trademark of United Therapeutics Corporation.
+TYVASO DPI® is a registered trademark of United Therapeutics Corporation.
 
 Patents: www.tyvasodpi.com/patent
 
@@ -127,4 +127,4 @@ Distributed by: United Therapeutics Corporation Research Triangle Park, NC 27709
 
 Manufactured by: MannKind Corporation Danbury, CT 06810 USA
 
-05/2022 30-1311-006-01
+11/2023 30-1311-006-02
