@@ -46,6 +46,7 @@ Important:
 - •Throw away (dispose of) the used ZARXIO prefilled syringe right away after use.
   Do not re-use a ZARXIO prefilled syringe.
   See “How should I dispose of used ZARXIO prefilled syringes?” at the end of this Instructions for Use.
+- •Do not use if the syringe has been dropped onto a hard surface or dropped after removing the needle cap.
 
 How should I store ZARXIO?
 
@@ -200,7 +201,6 @@ Figure J
 
 1. Step 15.
    Hold the ZARXIO prefilled syringe as shown (see Figure K). Slowly press down on the plunger as far as it will go so that the plunger head is completely between the needle guard wings.
-   Keep the plunger pressed fully down while you hold the syringe in place for 5 seconds.
 
 Figure K
 
@@ -258,4 +258,4 @@ Sandoz GmbH, Langkampfen, Austria,
 
 Product of Austria
 
-Revised: 09/2022
+Revised: 01/2024
