@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA210134"
+  ],
+  "inn": "glucagon",
+  "labeler": "Amphastar Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0548-8351-01",
+    "0548-8352-01"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "glucagon",
+      "name": "Baqsimi"
+    }
+  ],
+  "setid": "f1f5df9b-872f-44e5-a18f-f0b68e7e9254",
+  "source": "dailymed"
+}
