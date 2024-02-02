@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019183"
+  ],
+  "inn": "sucralfate",
+  "labeler": "Pacific Pharma, Inc.",
+  "package_ndcs": [
+    "82182-106-14"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "sucralfate",
+      "name": "Sucralfate"
+    }
+  ],
+  "setid": "7407c58e-766f-4e93-a1bb-c77892ae0174",
+  "source": "dailymed"
+}
