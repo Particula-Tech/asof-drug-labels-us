@@ -33,8 +33,8 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects in clinical studies of immediate-release carbidopa-levodopa tablets (i.e., Sinemet®), almost half of the patients were older than age 65 years, and few were age 75 years and over.
+Of the total number of subjects in clinical studies of immediate-release carbidopa-levodopa tablets (i.e., Sinemet ®), almost half of the patients were older than age 65 years, and few were age 75 years and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, but greater sensitivity of some older individuals to adverse drug reactions such as hallucinations cannot be ruled out.
 
-The systemic exposure of levodopa was increased in elderly subjects compared to young subjects [see Clinical Pharmacology (12.3)].
+The systemic exposure of levodopa was increased in elderly subjects compared to young subjects [seeClinical Pharmacology (12.3)].
 There is no specific dosing recommendation based upon clinical pharmacology data as carbidopa/levodopa is titrated as tolerated for clinical effect.

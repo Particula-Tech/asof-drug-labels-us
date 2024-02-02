@@ -18,7 +18,7 @@ There is insufficient information to establish that dose reduction will eliminat
 
 A symptom complex that resembles neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in dopaminergic therapy.
 Avoid sudden discontinuation or rapid dose reduction in patients taking DHIVY.
-If the decision is made to discontinue DHIVY, the dose should be tapered to reduce the risk of hyperpyrexia and confusion [see Dosage and Administration (2.2)].
+If the decision is made to discontinue DHIVY, the dose should be tapered to reduce the risk of hyperpyrexia and confusion [seeDosage and Administration (2.2)].
 
 ## 5.3 Cardiovascular Ischemic Events
 
@@ -33,7 +33,7 @@ Hallucinations may be accompanied by confusion, sleep disorder (insomnia), and e
 Abnormal thinking and behavior may present with one or more symptoms, including paranoid ideation, delusions, hallucinations, confusion, psychotic-like behavior, disorientation, aggressive behavior, agitation, and delirium.
 
 Patients with a major psychotic disorder should not be treated with DHIVY, because of the risk of exacerbating psychosis.
-In addition, medications that antagonize the effects of dopamine used to treat psychosis may exacerbate the symptoms of Parkinson’s disease and may decrease the effectiveness of DHIVY [see Drug Interactions (7.2)].
+In addition, medications that antagonize the effects of dopamine used to treat psychosis may exacerbate the symptoms of Parkinson’s disease and may decrease the effectiveness of DHIVY [seeDrug Interactions (7.2)].
 
 ## 5.5 Impulse Control/Compulsive Behaviors
 

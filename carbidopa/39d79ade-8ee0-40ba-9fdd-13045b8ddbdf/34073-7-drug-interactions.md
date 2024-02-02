@@ -2,15 +2,15 @@
 
 ## 7.1 Monoamine Oxidase (MAO) Inhibitors
 
-The use of nonselective MAO inhibitors with DHIVY is contraindicated [see Contraindications (4)].
+The use of nonselective MAO inhibitors with DHIVY is contraindicated [seeContraindications (4)].
 Discontinue use of any nonselective MAO inhibitors at least two weeks prior to initiating DHIVY.
 
 DHIVY may be administered concomitantly with the manufacturer's recommended dose of selective MAO-B inhibitors (e.g., rasagiline or selegiline HCl).
 Concomitant therapy with selegiline and carbidopa/levodopa may be associated with severe orthostatic hypotension not attributable to carbidopa/levodopa alone.
 
-## 7.2 Dopamine D2 Receptor Antagonists and Isoniazid
+## 7.2 Dopamine D 2Receptor Antagonists and Isoniazid
 
-Dopamine D2 receptor antagonists (e.g., phenothiazines, butyrophenones, risperidone) and isoniazid may reduce the effectiveness of levodopa.
+Dopamine D 2receptor antagonists (e.g., phenothiazines, butyrophenones, risperidone) and isoniazid may reduce the effectiveness of levodopa.
 Monitor patients taking these drugs with DHIVY for worsening Parkinson’s symptoms.
 
 ## 7.3 Iron Salts

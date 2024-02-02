@@ -20,7 +20,7 @@ Maintain patients on the lowest dosage required to achieve symptomatic control a
 ## 2.2 Discontinuation of DHIVY
 
 Avoid sudden discontinuation or rapid dose reduction of DHIVY.
-The daily dosage of DHIVY should be tapered at the time of treatment discontinuation [see Warnings and Precautions (5.2)].
+The daily dosage of DHIVY should be tapered at the time of treatment discontinuation [seeWarnings and Precautions (5.2)].
 
 If general anesthesia is required, DHIVY may be continued as long as the patient is permitted to take fluids and medication by mouth.
 If therapy is interrupted temporarily, the patient should be observed for symptoms resembling neuroleptic malignant syndrome, and the usual daily dosage may be administered as soon as the patient is able to take oral medication.
