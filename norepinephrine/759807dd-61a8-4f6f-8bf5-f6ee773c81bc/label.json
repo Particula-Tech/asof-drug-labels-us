@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA214628"
+  ],
+  "inn": "norepinephrine",
+  "labeler": "Long Grove Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "81298-9655-1",
+    "81298-9655-3",
+    "81298-9658-1",
+    "81298-9658-3",
+    "81298-9659-1",
+    "81298-9659-3"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "norepinephrine bitartrate",
+      "name": "Norepinephrine"
+    }
+  ],
+  "setid": "759807dd-61a8-4f6f-8bf5-f6ee773c81bc",
+  "source": "dailymed"
+}
