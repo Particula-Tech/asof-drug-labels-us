@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA078060"
+  ],
+  "inn": "sulfamethoxazole",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-897-18",
+    "62135-897-90",
+    "62135-898-18",
+    "62135-898-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sulfamethoxazole and trimethoprim",
+      "name": "Sulfamethoxazole and Trimethoprim"
+    }
+  ],
+  "setid": "e4a7572f-b372-40eb-963f-919ac100b7a8",
+  "source": "dailymed"
+}
