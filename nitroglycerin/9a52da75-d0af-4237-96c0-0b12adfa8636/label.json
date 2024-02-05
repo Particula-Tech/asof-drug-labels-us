@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA021134"
+  ],
+  "inn": "nitroglycerin",
+  "labeler": "Viatris Specialty LLC",
+  "package_ndcs": [
+    "58151-309-01",
+    "58151-310-01",
+    "58151-310-52",
+    "58151-310-94",
+    "58151-311-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "nitroglycerin",
+      "name": "Nitrostat"
+    }
+  ],
+  "setid": "9a52da75-d0af-4237-96c0-0b12adfa8636",
+  "source": "dailymed"
+}
