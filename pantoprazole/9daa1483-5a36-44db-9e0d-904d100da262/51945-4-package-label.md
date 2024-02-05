@@ -1,5 +1,5 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Pantoprazole Sodium Delayed-Release Tablets, USP 20 mg container Label:
+pantoprazole soduim delayed release tablets 20 mg 90s count
 
-Pantoprazole Sodium Delayed-Release Tablets, USP 40 mg container Label:
+pantoprazole soduim delayed release tablets 40 mg 90s count

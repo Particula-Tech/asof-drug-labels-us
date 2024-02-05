@@ -15,7 +15,7 @@ In a 24-month carcinogenicity study, B6C3F1 mice were treated orally with doses 
 In the liver, treatment with 150 mg/kg/day produced increased incidences of hepatocellular adenomas and carcinomas in female mice.
 Treatment with 5 to 150 mg/kg/day also produced gastric-fundic ECL cell hyperplasia.
 A 26-week p53 +/- transgenic mouse carcinogenicity study was not positive.
-Pantoprazole was positive in the in vitro human lymphocyte chromosomal aberration assays, in one of two mouse micronucleus tests for clastogenic effects, and in the in vitro Chinese hamster ovarian cell/HGPRT forward mutation assay for mutagenic effects.
-Equivocal results were observed in the in vivo rat liver DNA covalent binding assay.
-Pantoprazole was negative in the in vitro Ames mutation assay, the in vitro unscheduled DNA synthesis (UDS) assay with rat hepatocytes, the in vitro AS52/GPT mammalian cell-forward gene mutation assay, the in vitro thymidine kinase mutation test with mouse lymphoma L5178Y cells, and the in vivo rat bone marrow cell chromosomal aberration assay.
+Pantoprazole was positive in the in vitrohuman lymphocyte chromosomal aberration assays, in one of two mouse micronucleus tests for clastogenic effects, and in the in vitroChinese hamster ovarian cell/HGPRT forward mutation assay for mutagenic effects.
+Equivocal results were observed in the in vivorat liver DNA covalent binding assay.
+Pantoprazole was negative in the in vitroAmes mutation assay, the in vitrounscheduled DNA synthesis (UDS) assay with rat hepatocytes, the in vitroAS52/GPT mammalian cell-forward gene mutation assay, the in vitrothymidine kinase mutation test with mouse lymphoma L5178Y cells, and the in vivorat bone marrow cell chromosomal aberration assay.
 There were no effects on fertility or reproductive performance when pantoprazole was given at oral doses up to 500 mg/kg/day in male rats (98 times the recommended human dose based on body surface area) and 450 mg/kg/day in female rats (88 times the recommended human dose based on body surface area).

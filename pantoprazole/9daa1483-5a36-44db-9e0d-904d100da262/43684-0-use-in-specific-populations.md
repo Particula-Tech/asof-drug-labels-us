@@ -7,7 +7,7 @@ In animal reproduction studies, no evidence of adverse development outcomes was 
 Reproduction studies have been performed in rats at oral doses up to 450 mg/kg/day (about 88 times the recommended human dose) and rabbits at oral doses up to 40 mg/kg/day (about 16 times the recommended human dose) with administration of pantoprazole during organogenesis in pregnant animals and have revealed no evidence of harm to the fetus due to pantoprazole in this study (see Data).
 A pre-and postnatal development toxicity study in rats with additional endpoints to evaluate the effect on bone development was performed with pantoprazole sodium.
 Oral pantoprazole doses of 5, 15, and 30 mg/kg/day (approximately 1, 3, and 6 times the human dose of 40 mg/day) were administered to pregnant females from gestation day (GD) 6 through lactation day (LD) 21.
-Changes in bone morphology were observed in pups exposed to pantoprazole in utero and through milk during the period of lactation as well as by oral dosing from postnatal day (PND) 4 through PND 21 [see Use in Specific Populations (8.4)].
+Changes in bone morphology were observed in pups exposed to pantoprazole in uteroand through milk during the period of lactation as well as by oral dosing from postnatal day (PND) 4 through PND 21 [see Use in Specific Populations (8.4)].
 There were no drug-related findings in maternal animals.
 Advise pregnant women of the potential risk of fetal harm.
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -34,8 +34,7 @@ Changes in bone parameters were partially reversible following a recovery period
 ## 8.2 Lactation
 
 Risk Summary Pantoprazole has been detected in breast milk of a nursing mother after a single 40 mg oral dose of pantoprazole.
-There were no effects on the breastfed infant (see Data).
-There are no data on pantoprazole effects on milk production.
+There were no effects on the breastfed infant (see Data).There are no data on pantoprazole effects on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for pantoprazole sodium and any potential adverse effects on the breastfed child from pantoprazole or from the underlying maternal condition.
 Data The breast milk of a 42-year-old woman receiving 40 mg of oral pantoprazole, at 10 months postpartum, was studied for 24 hours, to demonstrate low levels of pantoprazole present in the breast milk.
 Pantoprazole was detectable in milk only 2 and 4 hours after the dose with milk levels of approximately 36 mcg/L and 24 mcg/L, respectively.

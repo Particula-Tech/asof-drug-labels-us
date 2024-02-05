@@ -13,9 +13,9 @@ Patients may present with varying signs and symptoms from symptomatic hypersensi
 In reported case series, some patients were diagnosed on biopsy and in the absence of extra-renal manifestations (e.g., fever, rash or arthralgia).
 Discontinue pantoprazole sodium delayed-release tablets and evaluate patients with suspected acute TIN [see Contraindications (4)].
 
-## 5.3 Clostridium difficile- Associated Diarrhea
+## 5.3 Clostridium difficile-Associated Diarrhea
 
-Published observational studies suggest that PPI therapy like pantoprazole sodium may be associated with an increased risk of Clostridium difficile associated diarrhea, especially in hospitalized patients.
+Published observational studies suggest that PPI therapy like pantoprazole sodium may be associated with an increased risk of Clostridium difficileassociated diarrhea, especially in hospitalized patients.
 This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 
