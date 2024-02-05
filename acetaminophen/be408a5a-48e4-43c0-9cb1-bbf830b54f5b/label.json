@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA215320"
+  ],
+  "inn": "acetaminophen",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0143-9150-01",
+    "0143-9150-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "acetaminophen and ibuprofen injection",
+      "name": "COMBOGESIC IV"
+    }
+  ],
+  "setid": "be408a5a-48e4-43c0-9cb1-bbf830b54f5b",
+  "source": "dailymed"
+}
