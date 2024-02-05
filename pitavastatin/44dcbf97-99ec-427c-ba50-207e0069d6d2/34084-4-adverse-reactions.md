@@ -65,10 +65,11 @@ Because these reactions are reported voluntarily from a population of uncertain 
 4. Immune system disorders: angioedema, immune-mediated necrotizing myopathy associated with statin use
 5. Metabolism and nutrition disorders: increases in HbA1c, fasting serum glucose levels
 6. Musculoskeletal and connective tissue disorders: muscle spasms, myopathy, rhabdomyolysis
-7. Nervous system disorders: hypoesthesia, peripheral neuropathy
-8. Psychiatric disorders: insomnia, depression.
+7. Nervous system disorders: hypoesthesia, peripheral neuropathy.
+   There have been rare reports of new onset or exacerbation of myasthenia gravis, including ocular myasthenia, and reports of recurrence when the same or a different statin was administered.
    Rare reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
    Cognitive impairment was generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
+8. Psychiatric disorders: insomnia, depression
 9. Reproductive system and breast disorders: erectile dysfunction
 10. Respiratory, thoracic and mediastinal disorders: interstitial lung disease
 11. Skin and subcutaneous tissue disorders: lichen planus
