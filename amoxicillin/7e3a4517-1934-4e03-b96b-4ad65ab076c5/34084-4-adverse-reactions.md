@@ -4,7 +4,8 @@ The following are discussed in more detail in other sections of the labeling:
 
 - Anaphylactic reactions [see Warnings and Precautions (5.1)]
 - Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.2)]
-- Clostridioides difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.3)]
+- Drug-Induced Enterocolitis Syndrome (DIES) [see Warnings and Precautions (5.3)]
+- Clostridioides difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -22,12 +23,12 @@ These events have been chosen for inclusion due to a combination of their seriou
 
 - Infections and Infestations: Mucocutaneous candidiasis.
 
-- Gastrointestinal: Black hairy tongue, and hemorrhagic/pseudomembranous colitis.
-  Onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment [see Warnings and Precautions (5.3)].
+- Gastrointestinal: Drug-induced enterocolitis syndrome (DIES), black hairy tongue, and hemorrhagic/pseudomembranous colitis.
+  Onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment [see Warnings and Precautions (5.4)].
 
 - Immune: Hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock), angioedema, serum sickness-like reactions (urticaria or skin rash accompanied by arthritis, arthralgia, myalgia, and frequently fever), hypersensitivity vasculitis [see Warnings and Precautions (5.1)].
 
-- Skin and Appendages: Rashes, pruritus, urticaria, erythema multiforme, SJS, TEN, DRESS, AGEP, exfoliative dermatitis [see Warnings and Precautions (5.2)].
+- Skin and Appendages: Rashes, pruritus, urticaria, erythema multiforme, SJS, TEN, DRESS, AGEP, exfoliative dermatitis, and linear IgA bullous dermatosis.
 
 - Liver: A moderate rise in AST and/or ALT has been noted, but the significance of this finding is unknown.
   Hepatic dysfunction including cholestatic jaundice, hepatic cholestasis and acute cytolytic hepatitis have been reported.
