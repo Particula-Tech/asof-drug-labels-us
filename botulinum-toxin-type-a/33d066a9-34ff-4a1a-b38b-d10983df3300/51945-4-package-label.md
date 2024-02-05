@@ -1,9 +1,13 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0023-1145-01 Onabotulinumtoxin A BOTOX for injection 100 Units/Vial
+NDC 0023-1145-01 OnabotulinumtoxinA BOTOX® for injection 100 Units/vial
+
+abbvie
 
 # PRINCIPAL DISPLAY PANEL
 
 NDC 0023-3921-02
 
-Onabotulinumtoxin A BOTOX for injection 200 Units/Vial
+OnabotulinumtoxinA BOTOX® for injection 200 Units/vial
+
+abbvie
