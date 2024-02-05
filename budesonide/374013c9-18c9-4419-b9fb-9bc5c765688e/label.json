@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA078202"
+  ],
+  "inn": "budesonide",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-822-84",
+    "62135-823-84"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "budesonide",
+      "name": "Budesonide"
+    }
+  ],
+  "setid": "374013c9-18c9-4419-b9fb-9bc5c765688e",
+  "source": "dailymed"
+}

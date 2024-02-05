@@ -1,0 +1,8 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Inhibitors of Cytochrome P4503A4
+
+The main route of metabolism of corticosteroids, including budesonide, is via cytochrome P450 (CYP) isoenzyme 3A4 (CYP3A4).
+After oral administration of ketoconazole, a strong inhibitor of CYP3A4, the mean plasma concentration of orally administered budesonide increased.
+Concomitant administration of a CYP3A4 inhibitor may inhibit the metabolism of, and increase the systemic exposure to, budesonide.
+Caution should be exercised when considering the coadministration of budesonide inhalation suspension with long-term ketoconazole and other known strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) [see Warnings and Precautions (5.12)and Clinical Pharmacology (12.3)].
