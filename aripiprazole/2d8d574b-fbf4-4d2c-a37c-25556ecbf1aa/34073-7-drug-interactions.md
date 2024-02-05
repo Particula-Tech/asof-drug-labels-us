@@ -4,7 +4,7 @@
 
 Table 25: Clinically Important Drug Interactions with Aripiprazole:
 
-| Concomitant Drug Name or Drug Class | Clinical Rationale | Clinical Recommendation |
+| Concomitant Drug Name or DrugClass | Clinical Rationale | ClinicalRecommendation |
 | --- | --- | --- |
 | Strong CYP3A4 Inhibitors (e.g., itraconazole, clarithromycin) or strong CYP2D6 inhibitors (e.g., quinidine, fluoxetine, paroxetine) | The concomitant use of aripiprazole with strong CYP 3A4 or CYP2D6 inhibitors increased the exposure of aripiprazole compared to the use of aripiprazole alone [see ClinicalPharmacology (12.3)]. | With concomitant use of aripiprazole with a strong CYP3A4 inhibitor or CYP2D6 inhibitor, reduce the aripiprazole dosage [see Dosageand Administration(2.7)]. |
 | Strong CYP3A4 Inducers (e.g., carbamazepine, rifampin) | The concomitant use of aripiprazole and carbamazepine decreased the exposure of aripiprazole compared to the use of aripiprazole alone [see Clinical Pharmacology (12.3)]. | With concomitant use of aripiprazole with a strong CYP3A4 inducer, consider increasing the aripiprazole dosage [see Dosage and Administration(2.7)]. |

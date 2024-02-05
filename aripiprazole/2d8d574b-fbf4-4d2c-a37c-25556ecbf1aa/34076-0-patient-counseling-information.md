@@ -1,11 +1,11 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
-
 Discuss the following issues with patients prescribed aripiprazole tablets: Clinical Worsening of Depression and Suicide Risk Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
-Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Warnings and Precautions (5.3)].
+Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication[see Warnings and Precautions (5.3)].
+
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with aripiprazole tablets and should counsel them in its appropriate use.
 A patient Medication Guide including information about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for aripiprazole tablets.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
@@ -19,11 +19,7 @@ Heat Exposure and Dehydration Patients should be advised regarding appropriate c
 Pregnancy Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with aripiprazole.
 Advise patients that aripiprazole may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
 Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to Aripiprazole during pregnancy [see Use in Specific Populations (8.1)].
-
 Manufactured by:
 
-Manufactured for: Camber Pharmaceuticals, Inc., Piscataway, NJ 08854
-
-By: HETERO TM Hetero Labs Limited, Unit V, Polepally, Jadcherla, Mahabubnagar - 509 301, India.
-
+Manufactured for: Camber Pharmaceuticals, Inc., Piscataway, NJ 08854 By: HETERO TM Hetero Labs Limited, Unit V, Polepally, Jadcherla, Mahabubnagar - 509 301, India.
 Revised: 05/2023

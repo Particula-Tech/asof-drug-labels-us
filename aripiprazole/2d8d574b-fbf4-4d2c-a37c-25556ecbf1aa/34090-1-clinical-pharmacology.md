@@ -3,16 +3,16 @@
 ## 12.1 Mechanism of Action
 
 The mechanism of action of aripiprazole in schizophrenia is unclear.
-However, the efficacy of aripiprazole in the listed indications could be mediated through a combination of partial agonist activity at D 2 and 5-HT 1A receptors and antagonist activity at 5-HT 2A receptors.
+However, the efficacy of aripiprazole in the listed indications could be mediated through a combination of partial agonist activity at D 2and 5-HT 1Areceptors and antagonist activity at 5-HT 2Areceptors.
 
 ## 12.2 Pharmacodynamics
 
-Aripiprazole exhibits high affinity for dopamine D 2 and D 3, serotonin 5-HT 1A and 5-HT 2A receptors (K i values of 0.34 nM, 0.8 nM, 1.7 nM, and 3.4 nM, respectively), moderate affinity for dopamine D 4, serotonin 5-HT 2C and 5-HT 7, alpha 1-adrenergic and histamine H 1 receptors (K i values of 44 nM, 15 nM, 39 nM, 57 nM, and 61 nM, respectively), and moderate affinity for the serotonin reuptake site (K i=98 nM).
+Aripiprazole exhibits high affinity for dopamine D 2and D 3, serotonin 5-HT 1Aand 5-HT 2Areceptors (K ivalues of 0.34 nM, 0.8 nM, 1.7 nM, and 3.4 nM, respectively), moderate affinity for dopamine D 4, serotonin 5-HT 2Cand 5-HT 7,alpha 1-adrenergic and histamine H 1receptors (K ivalues of 44 nM, 15 nM, 39 nM, 57 nM, and 61 nM, respectively), and moderate affinity for the serotonin reuptake site (K i=98 nM).
 Aripiprazole has no appreciable affinity for cholinergic muscarinic receptors (IC 50>1000 nM).
 
 ## 12.3 Pharmacokinetics
 
-Aripiprazole activity is presumably primarily due to the parent drug, aripiprazole, and to a lesser extent, to its major metabolite, dehydro-aripiprazole, which has been shown to have affinities for D 2 receptors similar to the parent drug and represents 40% of the parent drug exposure in plasma.
+Aripiprazole activity is presumably primarily due to the parent drug, aripiprazole, and to a lesser extent, to its major metabolite, dehydro-aripiprazole, which has been shown to have affinities for D 2receptors similar to the parent drug and represents 40% of the parent drug exposure in plasma.
 The mean elimination half-lives are about 75 hours and 94 hours for aripiprazole and dehydro-aripiprazole, respectively.
 Steady-state concentrations are attained within 14 days of dosing for both active moieties.
 Aripiprazole accumulation is predictable from single-dose pharmacokinetics.
@@ -21,19 +21,19 @@ Elimination of aripiprazole is mainly through hepatic metabolism involving two P
 For CYP2D6 poor metabolizers, the mean elimination half-life for aripiprazole is about 146 hours.
 Oral administration Absorption Tablet: Aripiprazole is well absorbed after administration of the tablet, with peak plasma concentrations occurring within 3 hours to 5 hours; the absolute oral bioavailability of the tablet formulation is 87%.
 Aripiprazole can be administered with or without food.
-Administration of a 15 mg aripiprazole tablet with a standard high-fat meal did not significantly affect the C max or AUC of aripiprazole or its active metabolite, dehydro-aripiprazole, but delayed T max by 3 hours for aripiprazole and 12 hours for dehydro-aripiprazole.
+Administration of a 15 mg aripiprazole tablet with a standard high-fat meal did not significantly affect the C maxor AUC of aripiprazole or its active metabolite, dehydro-aripiprazole, but delayed T maxby 3 hours for aripiprazole and 12 hours for dehydro-aripiprazole.
 Distribution The steady-state volume of distribution of aripiprazole following intravenous administration is high (404 L or 4.9 L/kg), indicating extensive extravascular distribution.
 At therapeutic concentrations, aripiprazole and its major metabolite are greater than 99% bound to serum proteins, primarily to albumin.
 In healthy human volunteers administered 0.5 to 30 mg/day aripiprazole for 14 days, there was dose-dependent D2 receptor occupancy indicating brain penetration of aripiprazole in humans.
 Elimination Metabolism Aripiprazole is metabolized primarily by three biotransformation pathways: dehydrogenation, hydroxylation, and N-dealkylation.
-Based on in vitro studies, CYP3A4 and CYP2D6 enzymes are responsible for dehydrogenation and hydroxylation of aripiprazole, and N-dealkylation is catalyzed by CYP3A4.
+Based on in vitrostudies, CYP3A4 and CYP2D6 enzymes are responsible for dehydrogenation and hydroxylation of aripiprazole, and N-dealkylation is catalyzed by CYP3A4.
 Aripiprazole is the predominant drug moiety in the systemic circulation.
 At steady-state, dehydro-aripiprazole, the active metabolite, represents about 40% of aripiprazole AUC in plasma.
 Excretion Following a single oral dose of [14C]-labeled aripiprazole, approximately 25% and 55% of the administered radioactivity was recovered in the urine and feces, respectively.
 Less than 1% of unchanged aripiprazole was excreted in the urine and approximately 18% of the oral dose was recovered unchanged in the feces.
 Drug Interaction Studies Effect of other drugs on the exposures of aripiprazole and dehydro-aripiprazole are summarized in Figure 1 and Figure 2, respectively.
-Based on simulation, a 4.5fold increase in mean C max and AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
-A 3fold increase in mean C max and AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
+Based on simulation, a 4.5fold increase in mean C maxand AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
+A 3fold increase in mean C maxand AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
 
 Figure 1: The Effect of Other Drugs on Aripiprazole Pharmacokinetics
 

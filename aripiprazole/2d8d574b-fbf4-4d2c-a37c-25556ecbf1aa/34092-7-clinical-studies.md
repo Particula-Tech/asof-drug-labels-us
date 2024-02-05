@@ -53,12 +53,12 @@ Table 26: Schizophrenia Studies
 | Study 4 | Aripiprazole Tablets (2 mg/day) Aripiprazole Tablets (5 mg/day) Aripiprazole Tablets (10 mg/day) † Placebo | 90.7(14.5) 92.0 (12.6) 90.0 (11.9) 90.8 (13.3) | -8.2 (1.90) -10.6(1.93) -11.3 (1.88) -5.3 (1.97) | -2.9 (-8.29, 2.47) -5.2 (-10.7, 0.19) -5.9 (-11.3, -0.58) -- |
 | Study 6 (Pediatric, 13 to 17 Years) | Aripiprazole Tablets (10 mg/day) † Aripiprazole Tablets (30 mg/day) † Placebo | 93.6 (15.7) 94.0 (16.1) 94.6 (15.6) | -26.7(1.91) -28.6(1.92) -21.2(1.93) | -5.5 (-10.7, -0.21) -7.4 (-12.7, -2.13) -- |
 
-SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. * Difference (drug minus placebo) in least-squares mean change from baseline. † Doses statistically significantly superior to placebo.
+SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. *Difference (drug minus placebo) in least-squares mean change from baseline. †Doses statistically significantly superior to placebo.
 Figure 6: Kaplan-Meier Estimation of Cumulative Proportion of Patients with Relapse (Schizophrenia Study 5)
 
 ## 14.2 Bipolar Disorder
 
-Additional pediatric use information is approved for Otsuka America Pharmaceutical, Inc.’s ABILIFY ® (aripiprazole) product.
+Additional pediatric use information is approved for Otsuka America Pharmaceutical, Inc.’s ABILIFY ®(aripiprazole) product.
 However, due to Otsuka America Pharmaceutical, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 Maintenance Treatment of Bipolar I Disorder Monotherapy Maintenance Therapy
 

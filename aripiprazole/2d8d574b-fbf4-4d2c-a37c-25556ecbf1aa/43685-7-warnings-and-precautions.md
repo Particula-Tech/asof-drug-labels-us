@@ -126,7 +126,7 @@ In an analysis of two placebo-controlled trials in pediatric and adolescent pati
 Table 8 shows the proportion of patients with changes in fasting glucose levels from the pooled adolescent schizophrenia and another indication (median exposure of 42 to 43 days).
 Table 8: Changes in Fasting Glucose from Placebo-Controlled Trials in Pediatric and Adolescent Patients
 
-| Category Change (at least once) from Baseline | Indication | Treatment Arm | n/N | % |
+| Category Change (at least once) from Baseline | Indication | TreatmentArm | n/N | % |
 | --- | --- | --- | --- | --- |
 | Fasting Glucose Normal to High (<100 mg/dL to ≥126 mg/dL) | Pooled Schizophrenia and another indication | Aripiprazole Tablets | 2/236 | 0.8 |
 | Placebo | 2/110 | 1.8 |  |  |

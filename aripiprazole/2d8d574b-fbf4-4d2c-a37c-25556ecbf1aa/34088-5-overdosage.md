@@ -18,6 +18,6 @@ No specific information is available on the treatment of overdose with aripipraz
 An electrocardiogram should be obtained in case of overdosage and if QT interval prolongation is present, cardiac monitoring should be instituted.
 Otherwise, management of overdose should concentrate on supportive therapy, maintaining an adequate airway, oxygenation and ventilation, and management of symptoms.
 Close medical supervision and monitoring should continue until the patient recovers.
-Charcoal: In the event of an overdose of aripiprazole, an early charcoal administration may be useful in partially preventing the absorption of aripiprazole.
-Administration of 50 g of activated charcoal, one hour after a single 15 mg oral dose of aripiprazole, decreased the mean AUC and C max of aripiprazole by 50%.
-Hemodialysis: Although there is no information on the effect of hemodialysis in treating an overdose with aripiprazole, hemodialysis is unlikely to be useful in overdose management since aripiprazole is highly bound to plasma proteins.
+Charcoal:In the event of an overdose of aripiprazole, an early charcoal administration may be useful in partially preventing the absorption of aripiprazole.
+Administration of 50 g of activated charcoal, one hour after a single 15 mg oral dose of aripiprazole, decreased the mean AUC and C maxof aripiprazole by 50%.
+Hemodialysis:Although there is no information on the effect of hemodialysis in treating an overdose with aripiprazole, hemodialysis is unlikely to be useful in overdose management since aripiprazole is highly bound to plasma proteins.

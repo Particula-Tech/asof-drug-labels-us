@@ -7,8 +7,8 @@ Healthcare providers are encouraged to register patients by contacting the Natio
 Risk Summary Neonates exposed to antipsychotic drugs, including aripiprazole, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
 Overall available data from published epidemiologic studies of pregnant women exposed to aripiprazole have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 There are risks to the mother associated with untreated schizophrenia, and with exposure to antipsychotics, including aripiprazole, during pregnancy (see Clinical Considerations).
-In animal reproduction studies, oral and intravenous aripiprazole administration during organogenesis in rats and/or rabbits at doses 10 and 19 times, respectively, the maximum recommended human dose (MRHD) of 30 mg/day based on mg/m 2 body surface area, produced fetal death, decreased fetal weight, undescended testicles, delayed skeletal ossification, skeletal abnormalities, and diaphragmatic hernia.
-Oral and intravenous aripiprazole administration during the pre- and post-natal period in rats at doses 10 times the MRHD based on mg/m 2 body surface area, produced prolonged gestation, stillbirths, decreased pup weight, and decreased pup survival (see Data).
+In animal reproduction studies, oral and intravenous aripiprazole administration during organogenesis in rats and/or rabbits at doses 10 and 19 times, respectively, the maximum recommended human dose (MRHD) of 30 mg/day based on mg/m 2body surface area, produced fetal death, decreased fetal weight, undescended testicles, delayed skeletal ossification, skeletal abnormalities, and diaphragmatic hernia.
+Oral and intravenous aripiprazole administration during the pre- and post-natal period in rats at doses 10 times the MRHD based on mg/m 2body surface area, produced prolonged gestation, stillbirths, decreased pup weight, and decreased pup survival (see Data).
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
@@ -26,16 +26,16 @@ Data Human data Published data from observational studies, birth registries, and
 A retrospective study from a Medicaid database of 9258 women exposed to antipsychotics during pregnancy did not indicate an overall increased risk for major birth defects.
 Animal Data In animal studies, aripiprazole demonstrated developmental toxicity, including possible teratogenic effects in rats and rabbits.
 
-In pregnant rats treated orally with aripiprazole during organogenesis at doses of 3, 10, and 30 mg/kg/day, which are approximately 1, 3 and 10 times the MRHD of 30 mg/day based on mg/m 2 body surface area, a slight prolongation of gestation and delay in fetal development, as evidenced by decreased fetal weight and undescended testes, were observed at 10 times the MRHD.
+In pregnant rats treated orally with aripiprazole during organogenesis at doses of 3, 10, and 30 mg/kg/day, which are approximately 1, 3 and 10 times the MRHD of 30 mg/day based on mg/m 2body surface area, a slight prolongation of gestation and delay in fetal development, as evidenced by decreased fetal weight and undescended testes, were observed at 10 times the MRHD.
 Delayed skeletal ossification was observed at 3 and 10 times the MRHD.
 Delivered offspring had increased incidences of hepatodiaphragmatic nodules and diaphragmatic hernia were observed at 10 times the MRHD (the other dose groups were not examined for these findings).
 Postnatally, delayed vaginal opening was seen at 3 and 10 times the MRHD.
 Impaired reproductive performance (decreased fertility rate, corpora lutea, implants, live fetuses, and increased post-implantation loss, likely mediated through effects on female offspring) were observed at 10 times the MRHD; however, there was no evidence to suggest that these developmental effects were secondary to maternal toxicity.
 
-In pregnant rabbits treated orally with aripiprazole during organogenesis at doses of 10, 30, and 100 mg/kg/day which are 6, 19, and 65 times the MRHD of 30 mg/day based on mg/m 2 body surface area, decreased maternal food consumption, and increased abortions as well as increased fetal mortality were observed at 65 times the MRHD.
+In pregnant rabbits treated orally with aripiprazole during organogenesis at doses of 10, 30, and 100 mg/kg/day which are 6, 19, and 65 times the MRHD of 30 mg/day based on mg/m 2body surface area, decreased maternal food consumption, and increased abortions as well as increased fetal mortality were observed at 65 times the MRHD.
 Decreased fetal weight and increased incidence of fused sternebrae were observed at 19 and 65 times the MRHD.
 
-In rats treated orally with aripiprazole peri- and postnatally from gestation Day 17 through postpartum Day 21 at doses of 3, 10, and 30 mg/kg/day which are 1, 3, and 10 times the MRHD of 30 mg/day based on mg/m 2 body surface area slight maternal toxicity and slightly prolonged gestation were observed at 10 times the MRHD.
+In rats treated orally with aripiprazole peri- and postnatally from gestation Day 17 through postpartum Day 21 at doses of 3, 10, and 30 mg/kg/day which are 1, 3, and 10 times the MRHD of 30 mg/day based on mg/m 2body surface area slight maternal toxicity and slightly prolonged gestation were observed at 10 times the MRHD.
 An increase in stillbirths and, decreases in pup weight (persisting into adulthood) and survival were also seen at this dose.
 
 ## 8.2 Lactation
@@ -50,10 +50,8 @@ The pharmacokinetics of aripiprazole and dehydro-aripiprazole in pediatric patie
 
 Schizophrenia
 
-Safety and effectiveness in pediatric patients with schizophrenia were established in a 6 week, placebo-controlled clinical trial in 202 pediatric patients aged 13 to 17 years [see Dosage and Administration (2.1), Adverse Reactions (6.1), and Clinical Studies (14.1)].
-Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
-Tourette’s Disorder Safety and effectiveness of aripiprazole in pediatric patients with Tourette’s Disorder were established in one 8 week (aged 7 to 17 years) and one 10 week trial (aged 6 to 18 years) in 194 pediatric patients [see Dosage and Administration (2.5), Adverse Reactions (6.1), and Clinical Studies (14.5)].
-Maintenance efficacy in pediatric patients has not been systematically evaluated.
+Safety and effectiveness in pediatric patients with schizophrenia were established in a 6 week, placebo-controlled clinical trial in 202 pediatric patients aged 13 to 17 years [see Dosage and Administration (2.1), Adverse Reactions (6.1), and Clinical Studies (14.1)].Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
+Tourette’s Disorder Safety and effectiveness of aripiprazole in pediatric patients with Tourette’s Disorder were established in one 8 week (aged 7 to 17 years) and one 10 week trial (aged 6 to 18 years) in 194 pediatric patients [see Dosage and Administration (2.5), Adverse Reactions (6.1), and Clinical Studies (14.5)].Maintenance efficacy in pediatric patients has not been systematically evaluated.
 Juvenile Animal Studies Aripiprazole in juvenile rats caused mortality, CNS clinical signs, impaired memory and learning, and delayed sexual maturation when administered at oral doses of 10, 20, 40 mg/kg/day from weaning (21 days old) through maturity (80 days old).
 At 40 mg/kg/day, mortality, decreased activity, splayed hind limbs, hunched posture, ataxia, tremors and other CNS signs were observed in both genders.
 In addition, delayed sexual maturation was observed in males.
