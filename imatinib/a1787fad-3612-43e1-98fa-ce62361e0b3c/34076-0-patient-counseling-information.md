@@ -29,6 +29,6 @@ Therefore, caution patients about driving a car or operating machinery [see Warn
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Manufactured by: Auro PR Inc. RD 156 Caguas West Industrial Park, Lot 24 Caguas, PR 00725 U.S.A.
+Manufactured by: Haupt Pharma Amareg GmbH Donaustaufer Strasse 378 Regensburg, Bayern, 93055, Germany
 
-Revised: 11/2022 IMAT:RX2
+Revised: 1/2023 HPT:IMAT:R2

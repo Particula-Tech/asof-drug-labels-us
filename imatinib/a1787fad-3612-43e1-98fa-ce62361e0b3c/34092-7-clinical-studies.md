@@ -87,15 +87,15 @@ Twelve patients in the imatinib mesylate tablets arm progressed to either accele
 
 Table 19: Efficacy (MMR and CCyR) of Imatinib Mesylate Tablets Compared to Nilotinib in Newly Diagnosed Ph+ CML-CP
 
-|  | Imatinib Mesylate Tablets400 mgonce daily | Nilotinib300 mgtwice daily |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | N = 283 | N = 282 |  |  |  |
-| MMR at 12 months (95% CI) | 22% (17.6, 27.6) | 44% (38.4, 50.3) |  |  |  |
-| P-ValueCMH test stratified by Sokal risk group. | < 0.0001 |  |  |  |  |
-| CCyRCCyR: 0% Ph+ metaphases. Cytogenetic responses were based on the percentage of Ph-positive metaphases among greater than or equal to 20 metaphase cells in each bone marrow sample. by 12 months (95% CI) | 65% (59.2, 70.6) | 80% (75.0, 84.6) |  |  |  |
-| MMR at 24 months (95% CI) | 38% (31.8, 43.4) | 62% (55.8, 67.4) |  |  |  |
-| CCyR by 24 months (95% CI) | 77% (71.7, 81.8) | 87% (82.4, 90.6) |  |  |  |
-| Abbreviations: CCyR, complete cytogenetic response; MMR, major molecular response; Ph+ CML-CP, Philadelphia chromosome positive chronic myeloid leukemia-chronic phase. |  |  |  |  |  |
+|  | Imatinib Mesylate Tablets400 mgonce daily | Nilotinib300 mgtwice daily |
+| --- | --- | --- |
+|  | N = 283 | N = 282 |
+| MMR at 12 months (95% CI) | 22% (17.6, 27.6) | 44% (38.4, 50.3) |
+| P-ValueCMH test stratified by Sokal risk group. | < 0.0001 |  |
+| CCyRCCyR: 0% Ph+ metaphases. Cytogenetic responses were based on the percentage of Ph-positive metaphases among greater than or equal to 20 metaphase cells in each bone marrow sample. by 12 months (95% CI) | 65% (59.2, 70.6) | 80% (75.0, 84.6) |
+| MMR at 24 months (95% CI) | 38% (31.8, 43.4) | 62% (55.8, 67.4) |
+| CCyR by 24 months (95% CI) | 77% (71.7, 81.8) | 87% (82.4, 90.6) |
+| Abbreviations: CCyR, complete cytogenetic response; MMR, major molecular response; Ph+ CML-CP, Philadelphia chromosome positive chronic myeloid leukemia-chronic phase. |  |  |
 
 By 60 months, MMR was achieved by 60% of patients on imatinib mesylate tablets and 77% of patients on nilotinib.
 

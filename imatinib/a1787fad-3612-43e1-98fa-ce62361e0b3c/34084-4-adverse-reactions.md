@@ -77,92 +77,92 @@ Table 2: Adverse Reactions Regardless of Relationship to Study Drug Reported in 
 
 Table 3: Most Frequently Reported Non-Hematologic Adverse Reactions (regardless of relationship to study drug) in Patients With Newly Diagnosed Ph+ CML-CP in the Imatinib Mesylate versus Nilotinib Study (greater than or equal to 10% in imatinib mesylate tablets 400 mg once daily or nilotinib 300 mg twice daily groups) 60-Month AnalysisExcluding laboratory abnormalities.
 
-| Body System and Preferred Term |  | Patients With Newly Diagnosed Ph+ CML-CP |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Imatinib Mesylate Tablets400 mgonce dailyN = 280 | Nilotinib300 mgtwice dailyN = 279 | ImatinibMesylate Tablets400 mgonce dailyN = 280 | Nilotinib300 mgtwice dailyN = 279 |  |  |  |  |  |  |  |
-| All Grades (%) |  | CTC GradesNCI Common Terminology Criteria for Adverse Events, version 3.0.3/4 (%) |  |  |  |  |  |  |  |  |
-| Skin and subcutaneous tissue disorders | Rash | 19 | 38 | 2 | < 1 |  |  |  |  |  |
-| Pruritus | 7 | 21 | 0 | < 1 |  |  |  |  |  |  |
-| Alopecia | 7 | 13 | 0 | 0 |  |  |  |  |  |  |
-| Dry skin | 6 | 12 | 0 | 0 |  |  |  |  |  |  |
-| Gastrointestinal disorders | Nausea | 41 | 22 | 2 | 2 |  |  |  |  |  |
-| Constipation | 8 | 20 | 0 | < 1 |  |  |  |  |  |  |
-| Diarrhea | 46 | 19 | 4 | 1 |  |  |  |  |  |  |
-| Vomiting | 27 | 15 | < 1 | < 1 |  |  |  |  |  |  |
-| Abdominal pain upper | 14 | 18 | < 1 | 1 |  |  |  |  |  |  |
-| Abdominal pain | 12 | 15 | 0 | 2 |  |  |  |  |  |  |
-| Dyspepsia | 12 | 10 | 0 | 0 |  |  |  |  |  |  |
-| Nervous system disorders | Headache | 23 | 32 | < 1 | 3 |  |  |  |  |  |
-| Dizziness | 11 | 12 | < 1 | < 1 |  |  |  |  |  |  |
-| General disorders and administration-site conditions | Fatigue | 20 | 23 | 1 | 1 |  |  |  |  |  |
-| Pyrexia | 13 | 14 | 0 | < 1 |  |  |  |  |  |  |
-| Asthenia | 12 | 14 | 0 | < 1 |  |  |  |  |  |  |
-| Peripheral edema | 20 | 9 | 0 | < 1 |  |  |  |  |  |  |
-| Face edema | 14 | < 1 | < 1 | 0 |  |  |  |  |  |  |
-| Musculoskeletal and connective tissue disorders | Myalgia | 19 | 19 | < 1 | < 1 |  |  |  |  |  |
-| Arthralgia | 17 | 22 | < 1 | < 1 |  |  |  |  |  |  |
-| Muscle spasms | 34 | 12 | 1 | 0 |  |  |  |  |  |  |
-| Pain in extremity | 16 | 15 | < 1 | < 1 |  |  |  |  |  |  |
-| Back pain | 17 | 19 | 1 | 1 |  |  |  |  |  |  |
-| Respiratory, thoracic and mediastinal disorders | Cough | 13 | 17 | 0 | 0 |  |  |  |  |  |
-| Oropharyngeal pain | 6 | 12 | 0 | 0 |  |  |  |  |  |  |
-| Dyspnea | 6 | 11 | < 1 | 2 |  |  |  |  |  |  |
-| Infections and infestations | Nasopharyngitis | 21 | 27 | 0 | 0 |  |  |  |  |  |
-| Upper respiratory tract infection | 14 | 17 | 0 | < 1 |  |  |  |  |  |  |
-| Influenza | 9 | 13 | 0 | 0 |  |  |  |  |  |  |
-| Gastroenteritis | 10 | 7 | < 1 | 0 |  |  |  |  |  |  |
-| Eye disorders | Eyelid edema | 19 | 1 | < 1 | 0 |  |  |  |  |  |
-| Periorbital edema | 15 | < 1 | 0 | 0 |  |  |  |  |  |  |
-| Psychiatric disorders | Insomnia | 9 | 11 | 0 | 0 |  |  |  |  |  |
-| Vascular disorder | Hypertension | 4 | 10 | < 1 | 1 |  |  |  |  |  |
-| Abbreviation: Ph+ CML-CP, Philadelphia chromosome positive chronic myeloid leukemia-chronic phase. |  |  |  |  |  |  |  |  |  |  |
+| Body System and Preferred Term |  | Patients With Newly Diagnosed Ph+ CML-CP |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Imatinib Mesylate Tablets400 mgonce dailyN = 280 | Nilotinib300 mgtwice dailyN = 279 | ImatinibMesylate Tablets400 mgonce dailyN = 280 | Nilotinib300 mgtwice dailyN = 279 |  |  |
+| All Grades (%) |  | CTC GradesNCI Common Terminology Criteria for Adverse Events, version 3.0.3/4 (%) |  |  |  |
+| Skin and subcutaneous tissue disorders | Rash | 19 | 38 | 2 | < 1 |
+| Pruritus | 7 | 21 | 0 | < 1 |  |
+| Alopecia | 7 | 13 | 0 | 0 |  |
+| Dry skin | 6 | 12 | 0 | 0 |  |
+| Gastrointestinal disorders | Nausea | 41 | 22 | 2 | 2 |
+| Constipation | 8 | 20 | 0 | < 1 |  |
+| Diarrhea | 46 | 19 | 4 | 1 |  |
+| Vomiting | 27 | 15 | < 1 | < 1 |  |
+| Abdominal pain upper | 14 | 18 | < 1 | 1 |  |
+| Abdominal pain | 12 | 15 | 0 | 2 |  |
+| Dyspepsia | 12 | 10 | 0 | 0 |  |
+| Nervous system disorders | Headache | 23 | 32 | < 1 | 3 |
+| Dizziness | 11 | 12 | < 1 | < 1 |  |
+| General disorders and administration-site conditions | Fatigue | 20 | 23 | 1 | 1 |
+| Pyrexia | 13 | 14 | 0 | < 1 |  |
+| Asthenia | 12 | 14 | 0 | < 1 |  |
+| Peripheral edema | 20 | 9 | 0 | < 1 |  |
+| Face edema | 14 | < 1 | < 1 | 0 |  |
+| Musculoskeletal and connective tissue disorders | Myalgia | 19 | 19 | < 1 | < 1 |
+| Arthralgia | 17 | 22 | < 1 | < 1 |  |
+| Muscle spasms | 34 | 12 | 1 | 0 |  |
+| Pain in extremity | 16 | 15 | < 1 | < 1 |  |
+| Back pain | 17 | 19 | 1 | 1 |  |
+| Respiratory, thoracic and mediastinal disorders | Cough | 13 | 17 | 0 | 0 |
+| Oropharyngeal pain | 6 | 12 | 0 | 0 |  |
+| Dyspnea | 6 | 11 | < 1 | 2 |  |
+| Infections and infestations | Nasopharyngitis | 21 | 27 | 0 | 0 |
+| Upper respiratory tract infection | 14 | 17 | 0 | < 1 |  |
+| Influenza | 9 | 13 | 0 | 0 |  |
+| Gastroenteritis | 10 | 7 | < 1 | 0 |  |
+| Eye disorders | Eyelid edema | 19 | 1 | < 1 | 0 |
+| Periorbital edema | 15 | < 1 | 0 | 0 |  |
+| Psychiatric disorders | Insomnia | 9 | 11 | 0 | 0 |
+| Vascular disorder | Hypertension | 4 | 10 | < 1 | 1 |
+| Abbreviation: Ph+ CML-CP, Philadelphia chromosome positive chronic myeloid leukemia-chronic phase. |  |  |  |  |  |
 
 Table 4: Adverse Reactions Regardless of Relationship to Study Drug Reported in Other CML Clinical Trials (greater than or equal to 10% of all patients in any trial)(All adverse reactions occurring in greater than or equal to 10% of patients are listed regardless of suspected relationship to treatment.)
 
-|  | Myeloid Blast Crisis(n = 260)% |  | Accelerated Phase(n = 235)% |  | Chronic Phase, IFN Failure(n = 532)% |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Preferred Term | All Grades | Grade 3/4 | All Grades | Grade 3/4 | All Grades | Grade 3/4 |  |  |  |  |  |  |  |  |  |  |  |
-| Fluid Retention | 72 | 11 | 76 | 6 | 69 | 4 |  |  |  |  |  |  |  |  |  |  |  |
-| -- Superficial edema | 66 | 6 | 74 | 3 | 67 | 2 |  |  |  |  |  |  |  |  |  |  |  |
-| -- Other fluid retention reactions(Other fluid retention reactions include pleural effusion, ascites, pulmonary edema, pericardial effusion, anasarca, edema aggravated, and fluid retention not otherwise specified.) | 22 | 6 | 15 | 4 | 7 | 2 |  |  |  |  |  |  |  |  |  |  |  |
-| Nausea | 71 | 5 | 73 | 5 | 63 | 3 |  |  |  |  |  |  |  |  |  |  |  |
-| Muscle cramps | 28 | 1 | 47 | 0.4 | 62 | 2 |  |  |  |  |  |  |  |  |  |  |  |
-| Vomiting | 54 | 4 | 58 | 3 | 36 | 2 |  |  |  |  |  |  |  |  |  |  |  |
-| Diarrhea | 43 | 4 | 57 | 5 | 48 | 3 |  |  |  |  |  |  |  |  |  |  |  |
-| Hemorrhage | 53 | 19 | 49 | 11 | 30 | 2 |  |  |  |  |  |  |  |  |  |  |  |
-| -- CNS hemorrhage | 9 | 7 | 3 | 3 | 2 | 1 |  |  |  |  |  |  |  |  |  |  |  |
-| -- GI hemorrhage | 8 | 4 | 6 | 5 | 2 | 0.4 |  |  |  |  |  |  |  |  |  |  |  |
-| Musculoskeletal pain | 42 | 9 | 49 | 9 | 38 | 2 |  |  |  |  |  |  |  |  |  |  |  |
-| Fatigue | 30 | 4 | 46 | 4 | 48 | 1 |  |  |  |  |  |  |  |  |  |  |  |
-| Skin rash | 36 | 5 | 47 | 5 | 47 | 3 |  |  |  |  |  |  |  |  |  |  |  |
-| Pyrexia | 41 | 7 | 41 | 8 | 21 | 2 |  |  |  |  |  |  |  |  |  |  |  |
-| Arthralgia | 25 | 5 | 34 | 6 | 40 | 1 |  |  |  |  |  |  |  |  |  |  |  |
-| Headache | 27 | 5 | 32 | 2 | 36 | 0.6 |  |  |  |  |  |  |  |  |  |  |  |
-| Abdominal pain | 30 | 6 | 33 | 4 | 32 | 1 |  |  |  |  |  |  |  |  |  |  |  |
-| Weight increased | 5 | 1 | 17 | 5 | 32 | 7 |  |  |  |  |  |  |  |  |  |  |  |
-| Cough | 14 | 0.8 | 27 | 0.9 | 20 | 0 |  |  |  |  |  |  |  |  |  |  |  |
-| Dyspepsia | 12 | 0 | 22 | 0 | 27 | 0 |  |  |  |  |  |  |  |  |  |  |  |
-| Myalgia | 9 | 0 | 24 | 2 | 27 | 0.2 |  |  |  |  |  |  |  |  |  |  |  |
-| Nasopharyngitis | 10 | 0 | 17 | 0 | 22 | 0.2 |  |  |  |  |  |  |  |  |  |  |  |
-| Asthenia | 18 | 5 | 21 | 5 | 15 | 0.2 |  |  |  |  |  |  |  |  |  |  |  |
-| Dyspnea | 15 | 4 | 21 | 7 | 12 | 0.9 |  |  |  |  |  |  |  |  |  |  |  |
-| Upper respiratory tract infection | 3 | 0 | 12 | 0.4 | 19 | 0 |  |  |  |  |  |  |  |  |  |  |  |
-| Anorexia | 14 | 2 | 17 | 2 | 7 | 0 |  |  |  |  |  |  |  |  |  |  |  |
-| Night sweats | 13 | 0.8 | 17 | 1 | 14 | 0.2 |  |  |  |  |  |  |  |  |  |  |  |
-| Constipation | 16 | 2 | 16 | 0.9 | 9 | 0.4 |  |  |  |  |  |  |  |  |  |  |  |
-| Dizziness | 12 | 0.4 | 13 | 0 | 16 | 0.2 |  |  |  |  |  |  |  |  |  |  |  |
-| Pharyngitis | 10 | 0 | 12 | 0 | 15 | 0 |  |  |  |  |  |  |  |  |  |  |  |
-| Insomnia | 10 | 0 | 14 | 0 | 14 | 0.2 |  |  |  |  |  |  |  |  |  |  |  |
-| Pruritus | 8 | 1 | 14 | 0.9 | 14 | 0.8 |  |  |  |  |  |  |  |  |  |  |  |
-| Hypokalemia | 13 | 4 | 9 | 2 | 6 | 0.8 |  |  |  |  |  |  |  |  |  |  |  |
-| Pneumonia | 13 | 7 | 10 | 7 | 4 | 1 |  |  |  |  |  |  |  |  |  |  |  |
-| Anxiety | 8 | 0.8 | 12 | 0 | 8 | 0.4 |  |  |  |  |  |  |  |  |  |  |  |
-| Liver toxicity | 10 | 5 | 12 | 6 | 6 | 3 |  |  |  |  |  |  |  |  |  |  |  |
-| Rigors | 10 | 0 | 12 | 0.4 | 10 | 0 |  |  |  |  |  |  |  |  |  |  |  |
-| Chest pain | 7 | 2 | 10 | 0.4 | 11 | 0.8 |  |  |  |  |  |  |  |  |  |  |  |
-| Influenza | 0.8 | 0.4 | 6 | 0 | 11 | 0.2 |  |  |  |  |  |  |  |  |  |  |  |
-| Sinusitis | 4 | 0.4 | 11 | 0.4 | 9 | 0.4 |  |  |  |  |  |  |  |  |  |  |  |
-| Abbreviations: CML, chronic myeloid leukemia; IFN, Interferon-alpha. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Myeloid Blast Crisis(n = 260)% |  | Accelerated Phase(n = 235)% |  | Chronic Phase, IFN Failure(n = 532)% |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Preferred Term | All Grades | Grade 3/4 | All Grades | Grade 3/4 | All Grades | Grade 3/4 |
+| Fluid Retention | 72 | 11 | 76 | 6 | 69 | 4 |
+| -- Superficial edema | 66 | 6 | 74 | 3 | 67 | 2 |
+| -- Other fluid retention reactions(Other fluid retention reactions include pleural effusion, ascites, pulmonary edema, pericardial effusion, anasarca, edema aggravated, and fluid retention not otherwise specified.) | 22 | 6 | 15 | 4 | 7 | 2 |
+| Nausea | 71 | 5 | 73 | 5 | 63 | 3 |
+| Muscle cramps | 28 | 1 | 47 | 0.4 | 62 | 2 |
+| Vomiting | 54 | 4 | 58 | 3 | 36 | 2 |
+| Diarrhea | 43 | 4 | 57 | 5 | 48 | 3 |
+| Hemorrhage | 53 | 19 | 49 | 11 | 30 | 2 |
+| -- CNS hemorrhage | 9 | 7 | 3 | 3 | 2 | 1 |
+| -- GI hemorrhage | 8 | 4 | 6 | 5 | 2 | 0.4 |
+| Musculoskeletal pain | 42 | 9 | 49 | 9 | 38 | 2 |
+| Fatigue | 30 | 4 | 46 | 4 | 48 | 1 |
+| Skin rash | 36 | 5 | 47 | 5 | 47 | 3 |
+| Pyrexia | 41 | 7 | 41 | 8 | 21 | 2 |
+| Arthralgia | 25 | 5 | 34 | 6 | 40 | 1 |
+| Headache | 27 | 5 | 32 | 2 | 36 | 0.6 |
+| Abdominal pain | 30 | 6 | 33 | 4 | 32 | 1 |
+| Weight increased | 5 | 1 | 17 | 5 | 32 | 7 |
+| Cough | 14 | 0.8 | 27 | 0.9 | 20 | 0 |
+| Dyspepsia | 12 | 0 | 22 | 0 | 27 | 0 |
+| Myalgia | 9 | 0 | 24 | 2 | 27 | 0.2 |
+| Nasopharyngitis | 10 | 0 | 17 | 0 | 22 | 0.2 |
+| Asthenia | 18 | 5 | 21 | 5 | 15 | 0.2 |
+| Dyspnea | 15 | 4 | 21 | 7 | 12 | 0.9 |
+| Upper respiratory tract infection | 3 | 0 | 12 | 0.4 | 19 | 0 |
+| Anorexia | 14 | 2 | 17 | 2 | 7 | 0 |
+| Night sweats | 13 | 0.8 | 17 | 1 | 14 | 0.2 |
+| Constipation | 16 | 2 | 16 | 0.9 | 9 | 0.4 |
+| Dizziness | 12 | 0.4 | 13 | 0 | 16 | 0.2 |
+| Pharyngitis | 10 | 0 | 12 | 0 | 15 | 0 |
+| Insomnia | 10 | 0 | 14 | 0 | 14 | 0.2 |
+| Pruritus | 8 | 1 | 14 | 0.9 | 14 | 0.8 |
+| Hypokalemia | 13 | 4 | 9 | 2 | 6 | 0.8 |
+| Pneumonia | 13 | 7 | 10 | 7 | 4 | 1 |
+| Anxiety | 8 | 0.8 | 12 | 0 | 8 | 0.4 |
+| Liver toxicity | 10 | 5 | 12 | 6 | 6 | 3 |
+| Rigors | 10 | 0 | 12 | 0.4 | 10 | 0 |
+| Chest pain | 7 | 2 | 10 | 0.4 | 11 | 0.8 |
+| Influenza | 0.8 | 0.4 | 6 | 0 | 11 | 0.2 |
+| Sinusitis | 4 | 0.4 | 11 | 0.4 | 9 | 0.4 |
+| Abbreviations: CML, chronic myeloid leukemia; IFN, Interferon-alpha. |  |  |  |  |  |  |
 
 ### Hematologic and Biochemistry Laboratory Abnormalities
 
@@ -194,44 +194,44 @@ Table 5: Laboratory Abnormalities in Newly Diagnosed CML Clinical Trial (imatini
 Table 6: Percent Incidence of Clinically Relevant Grade 3/4NCI Common Terminology Criteria for Adverse Events, version 3.0.
 Laboratory Abnormalities in the Newly Diagnosed CML Clinical Trial (imatinib mesylate versus nilotinib)
 
-|  | Imatinib Mesylate Tablets 400 mgonce dailyN = 280(%) | Nilotinib 300 mgtwice dailyN = 279(%) |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Hematologic Parameters |  |  |  |  |  |  |  |
-| Thrombocytopenia | 9 | 10 |  |  |  |  |  |
-| Neutropenia | 22 | 12 |  |  |  |  |  |
-| Anemia | 6 | 4 |  |  |  |  |  |
-| Biochemistry Parameters |  |  |  |  |  |  |  |
-| Elevated lipase | 4 | 9 |  |  |  |  |  |
-| Hyperglycemia | < 1 | 7 |  |  |  |  |  |
-| Hypophosphatemia | 10 | 8 |  |  |  |  |  |
-| Elevated bilirubin (total) | < 1 | 4 |  |  |  |  |  |
-| Elevated SGPT (ALT) | 3 | 4 |  |  |  |  |  |
-| Hyperkalemia | 1 | 2 |  |  |  |  |  |
-| Hyponatremia | < 1 | 1 |  |  |  |  |  |
-| Hypokalemia | 2 | < 1 |  |  |  |  |  |
-| Elevated SGOT (AST) | 1 | 1 |  |  |  |  |  |
-| Decreased albumin | < 1 | 0 |  |  |  |  |  |
-| Hypocalcemia | < 1 | < 1 |  |  |  |  |  |
-| Elevated alkaline phosphatase | < 1 | 0 |  |  |  |  |  |
-| Elevated creatinine | < 1 | 0 |  |  |  |  |  |
-| Abbreviations: CML, chronic myeloid leukemia; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT). |  |  |  |  |  |  |  |
+|  | Imatinib Mesylate Tablets 400 mgonce dailyN = 280(%) | Nilotinib 300 mgtwice dailyN = 279(%) |
+| --- | --- | --- |
+| Hematologic Parameters |  |  |
+| Thrombocytopenia | 9 | 10 |
+| Neutropenia | 22 | 12 |
+| Anemia | 6 | 4 |
+| Biochemistry Parameters |  |  |
+| Elevated lipase | 4 | 9 |
+| Hyperglycemia | < 1 | 7 |
+| Hypophosphatemia | 10 | 8 |
+| Elevated bilirubin (total) | < 1 | 4 |
+| Elevated SGPT (ALT) | 3 | 4 |
+| Hyperkalemia | 1 | 2 |
+| Hyponatremia | < 1 | 1 |
+| Hypokalemia | 2 | < 1 |
+| Elevated SGOT (AST) | 1 | 1 |
+| Decreased albumin | < 1 | 0 |
+| Hypocalcemia | < 1 | < 1 |
+| Elevated alkaline phosphatase | < 1 | 0 |
+| Elevated creatinine | < 1 | 0 |
+| Abbreviations: CML, chronic myeloid leukemia; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT). |  |  |
 
 Table 7: Laboratory Abnormalities in Other CML Clinical Trials
 
-|  | Myeloid Blast Crisis(n = 260)600 mg n = 223400 mg n = 37% |  | Accelerated Phase(n = 235)600 mg n = 158400 mg n = 77% |  | Chronic Phase, IFN Failure(n = 532)400 mg% |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CTC Grades(CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5-1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10-50 x 109/L, Grade 4 less than 10 x 109/L), anemia (hemoglobin greater than or equal to 65-80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3-6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3-10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase (Grade 3 greater than 5-20 x ULN, Grade 4 greater than 20 x ULN), elevated SGOT or SGPT (Grade 3 greater than 5-20 x ULN, Grade 4 greater than 20 x ULN).) | Grade 3 | Grade 4 | Grade 3 | Grade 4 | Grade 3 | Grade 4 |  |  |  |  |  |  |  |  |
-| Hematology Parameters |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| -- Neutropenia | 16 | 48 | 23 | 36 | 27 | 9 |  |  |  |  |  |  |  |  |
-| -- Thrombocytopenia | 30 | 33 | 31 | 13 | 21 | < 1 |  |  |  |  |  |  |  |  |
-| -- Anemia | 42 | 11 | 34 | 7 | 6 | 1 |  |  |  |  |  |  |  |  |
-| Biochemistry Parameters |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| -- Elevated creatinine | 1.5 | 0 | 1.3 | 0 | 0.2 | 0 |  |  |  |  |  |  |  |  |
-| -- Elevated bilirubin | 3.8 | 0 | 2.1 | 0 | 0.6 | 0 |  |  |  |  |  |  |  |  |
-| -- Elevated alkaline phosphatase | 4.6 | 0 | 5.5 | 0.4 | 0.2 | 0 |  |  |  |  |  |  |  |  |
-| -- Elevated SGOT (AST) | 1.9 | 0 | 3.0 | 0 | 2.3 | 0 |  |  |  |  |  |  |  |  |
-| -- Elevated SGPT (ALT) | 2.3 | 0.4 | 4.3 | 0 | 2.1 | 0 |  |  |  |  |  |  |  |  |
-| Abbreviations: CML, chronic myeloid leukemia; CTC, common terminology criteria; IFN, Interferon-alpha; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Myeloid Blast Crisis(n = 260)600 mg n = 223400 mg n = 37% |  | Accelerated Phase(n = 235)600 mg n = 158400 mg n = 77% |  | Chronic Phase, IFN Failure(n = 532)400 mg% |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| CTC Grades(CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5-1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10-50 x 109/L, Grade 4 less than 10 x 109/L), anemia (hemoglobin greater than or equal to 65-80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3-6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3-10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase (Grade 3 greater than 5-20 x ULN, Grade 4 greater than 20 x ULN), elevated SGOT or SGPT (Grade 3 greater than 5-20 x ULN, Grade 4 greater than 20 x ULN).) | Grade 3 | Grade 4 | Grade 3 | Grade 4 | Grade 3 | Grade 4 |
+| Hematology Parameters |  |  |  |  |  |  |
+| -- Neutropenia | 16 | 48 | 23 | 36 | 27 | 9 |
+| -- Thrombocytopenia | 30 | 33 | 31 | 13 | 21 | < 1 |
+| -- Anemia | 42 | 11 | 34 | 7 | 6 | 1 |
+| Biochemistry Parameters |  |  |  |  |  |  |
+| -- Elevated creatinine | 1.5 | 0 | 1.3 | 0 | 0.2 | 0 |
+| -- Elevated bilirubin | 3.8 | 0 | 2.1 | 0 | 0.6 | 0 |
+| -- Elevated alkaline phosphatase | 4.6 | 0 | 5.5 | 0.4 | 0.2 | 0 |
+| -- Elevated SGOT (AST) | 1.9 | 0 | 3.0 | 0 | 2.3 | 0 |
+| -- Elevated SGPT (ALT) | 2.3 | 0.4 | 4.3 | 0 | 2.1 | 0 |
+| Abbreviations: CML, chronic myeloid leukemia; CTC, common terminology criteria; IFN, Interferon-alpha; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT). |  |  |  |  |  |  |
 
 ### Hepatotoxicity
 
@@ -356,16 +356,16 @@ Clinically relevant or severe laboratory abnormalities in the 12 patients treate
 
 Table 11: Laboratory Abnormalities Reported in DFSP Patients in the Phase 2 Study
 
-| CTC Grades(CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5-1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10-50 x 109/L, Grade 4 less than 10 x 109/L), anemia (Grade 3 greater than or equal to 65-80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3-6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN).) | N = 12 |  |  |  |
-| --- | --- | --- | --- | --- |
-| Grade 3% | Grade 4% |  |  |  |
-| Hematology Parameters |  |  |  |  |
-| -- Anemia | 17 | 0 |  |  |
-| -- Thrombocytopenia | 17 | 0 |  |  |
-| -- Neutropenia | 0 | 8 |  |  |
-| Biochemistry Parameters |  |  |  |  |
-| -- Elevated Creatinine | 0 | 8 |  |  |
-| Abbreviation: CTC, common terminology criteria. |  |  |  |  |
+| CTC Grades(CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5-1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10-50 x 109/L, Grade 4 less than 10 x 109/L), anemia (Grade 3 greater than or equal to 65-80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3-6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN).) | N = 12 |  |
+| --- | --- | --- |
+| Grade 3% | Grade 4% |  |
+| Hematology Parameters |  |  |
+| -- Anemia | 17 | 0 |
+| -- Thrombocytopenia | 17 | 0 |
+| -- Neutropenia | 0 | 8 |
+| Biochemistry Parameters |  |  |
+| -- Elevated Creatinine | 0 | 8 |
+| Abbreviation: CTC, common terminology criteria. |  |  |
 
 ### Gastrointestinal Stromal Tumors
 
@@ -430,21 +430,21 @@ Severe abnormal laboratory values reported in the Phase 2 GIST trial are present
 
 Table 13: Laboratory Abnormalities in the Phase 2 Unresectable and/or Malignant Metastatic GIST Trial
 
-| CTC GradesCTC Grades: neutropenia (Grade 3 greater than or equal to 0.5-1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10-50 x 109/L, Grade 4 less than 10 x 109/L), anemia (Grade 3 greater than or equal to 65-80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3-6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3-10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase, SGOT or SGPT (Grade 3 greater than 5-20 x ULN, Grade 4 greater than 20 x ULN), albumin (Grade 3 less than 20 g/L). | 400 mg(n = 73)% |  | 600 mg(n = 74)% |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Grade 3 | Grade 4 | Grade 3 | Grade 4 |  |  |  |  |  |  |
-| Hematology Parameters |  |  |  |  |  |  |  |  |  |
-| − Anemia | 3 | 0 | 8 | 1 |  |  |  |  |  |
-| − Thrombocytopenia | 0 | 0 | 1 | 0 |  |  |  |  |  |
-| − Neutropenia | 7 | 3 | 8 | 3 |  |  |  |  |  |
-| Biochemistry Parameters |  |  |  |  |  |  |  |  |  |
-| − Elevated creatinine | 0 | 0 | 3 | 0 |  |  |  |  |  |
-| − Reduced albumin | 3 | 0 | 4 | 0 |  |  |  |  |  |
-| − Elevated bilirubin | 1 | 0 | 1 | 3 |  |  |  |  |  |
-| − Elevated alkaline phosphatase | 0 | 0 | 3 | 0 |  |  |  |  |  |
-| − Elevated SGOT (AST) | 4 | 0 | 3 | 3 |  |  |  |  |  |
-| − Elevated SGPT (ALT) | 6 | 0 | 7 | 1 |  |  |  |  |  |
-| Abbreviations: CTC, common terminology criteria; GIST, gastrointestinal stromal tumors; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT). |  |  |  |  |  |  |  |  |  |
+| CTC GradesCTC Grades: neutropenia (Grade 3 greater than or equal to 0.5-1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10-50 x 109/L, Grade 4 less than 10 x 109/L), anemia (Grade 3 greater than or equal to 65-80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3-6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3-10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase, SGOT or SGPT (Grade 3 greater than 5-20 x ULN, Grade 4 greater than 20 x ULN), albumin (Grade 3 less than 20 g/L). | 400 mg(n = 73)% |  | 600 mg(n = 74)% |  |
+| --- | --- | --- | --- | --- |
+| Grade 3 | Grade 4 | Grade 3 | Grade 4 |  |
+| Hematology Parameters |  |  |  |  |
+| − Anemia | 3 | 0 | 8 | 1 |
+| − Thrombocytopenia | 0 | 0 | 1 | 0 |
+| − Neutropenia | 7 | 3 | 8 | 3 |
+| Biochemistry Parameters |  |  |  |  |
+| − Elevated creatinine | 0 | 0 | 3 | 0 |
+| − Reduced albumin | 3 | 0 | 4 | 0 |
+| − Elevated bilirubin | 1 | 0 | 1 | 3 |
+| − Elevated alkaline phosphatase | 0 | 0 | 3 | 0 |
+| − Elevated SGOT (AST) | 4 | 0 | 3 | 3 |
+| − Elevated SGPT (ALT) | 6 | 0 | 7 | 1 |
+| Abbreviations: CTC, common terminology criteria; GIST, gastrointestinal stromal tumors; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT). |  |  |  |  |
 
 ### Adjuvant Treatment of GIST
 
@@ -520,61 +520,61 @@ A patient with multiple occurrences of an adverse reaction is counted only once 
 
 Table 15: Adverse Reactions Regardless of Relationship to Study Drug by Preferred Term All Grades and 3/4 Grades (greater than or equal to 5% of imatinib mesylate-treated patients) Study 2(All adverse reactions occurring in greater than or equal to 5% of patients are listed regardless of suspected relationship to treatment.)
 
-| Preferred Term | All CTC Grades |  | CTC Grades 3 and Above |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Imatinib Mesylate 12 Months(N = 194)% | Imatinib Mesylate 36 Months(N = 198)% | Imatinib Mesylate 12 Months(N = 194)% | Imatinib Mesylate 36 Months(N = 198)% |  |  |  |  |  |  |
-| Patients with at least one AE | 99.0 | 100.0 | 20.1 | 32.8 |  |  |  |  |  |
-| Hemoglobin decreased | 72.2 | 80.3 | 0.5 | 0.5 |  |  |  |  |  |
-| Periorbital edema | 59.3 | 74.2 | 0.5 | 1.0 |  |  |  |  |  |
-| Blood lactate dehydrogenase increased | 43.3 | 60.1 | 0 | 0 |  |  |  |  |  |
-| Diarrhea | 43.8 | 54.0 | 0.5 | 2.0 |  |  |  |  |  |
-| Nausea | 44.8 | 51.0 | 1.5 | 0.5 |  |  |  |  |  |
-| Muscle spasms | 30.9 | 49.0 | 0.5 | 1.0 |  |  |  |  |  |
-| Fatigue | 48.5 | 48.5 | 1.0 | 0.5 |  |  |  |  |  |
-| White blood cell count decreased | 34.5 | 47.0 | 2.1 | 3.0 |  |  |  |  |  |
-| Pain | 25.8 | 45.5 | 1.0 | 3.0 |  |  |  |  |  |
-| Blood creatinine increased | 30.4 | 44.4 | 0 | 0 |  |  |  |  |  |
-| Peripheral edema | 33.0 | 40.9 | 0.5 | 1.0 |  |  |  |  |  |
-| Dermatitis | 29.4 | 38.9 | 2.1 | 1.5 |  |  |  |  |  |
-| Aspartate aminotransferase increased | 30.9 | 37.9 | 1.5 | 3.0 |  |  |  |  |  |
-| Alanine aminotransferase increased | 28.9 | 34.3 | 2.1 | 3.0 |  |  |  |  |  |
-| Neutrophil count decreased | 24.2 | 33.3 | 4.6 | 5.1 |  |  |  |  |  |
-| Hypoproteinemia | 23.7 | 31.8 | 0 | 0 |  |  |  |  |  |
-| Infection | 13.9 | 27.8 | 1.5 | 2.5 |  |  |  |  |  |
-| Weight increased | 13.4 | 26.8 | 0 | 0.5 |  |  |  |  |  |
-| Pruritus | 12.9 | 25.8 | 0 | 0 |  |  |  |  |  |
-| Flatulence | 19.1 | 24.7 | 1.0 | 0.5 |  |  |  |  |  |
-| Vomiting | 10.8 | 22.2 | 0.5 | 1.0 |  |  |  |  |  |
-| Dyspepsia | 17.5 | 21.7 | 0.5 | 1.0 |  |  |  |  |  |
-| Hypoalbuminemia | 11.9 | 21.2 | 0 | 0 |  |  |  |  |  |
-| Edema | 10.8 | 19.7 | 0 | 0.5 |  |  |  |  |  |
-| Abdominal distension | 11.9 | 19.2 | 0.5 | 0 |  |  |  |  |  |
-| Headache | 8.2 | 18.2 | 0 | 0 |  |  |  |  |  |
-| Lacrimation increased | 18.0 | 17.7 | 0 | 0 |  |  |  |  |  |
-| Arthralgia | 8.8 | 17.2 | 0 | 1.0 |  |  |  |  |  |
-| Blood alkaline phosphatase increased | 10.8 | 16.7 | 0 | 0.5 |  |  |  |  |  |
-| Dyspnea | 6.2 | 16.2 | 0.5 | 1.5 |  |  |  |  |  |
-| Myalgia | 9.3 | 15.2 | 0 | 1.0 |  |  |  |  |  |
-| Platelet count decreased | 11.3 | 14.1 | 0 | 0 |  |  |  |  |  |
-| Blood bilirubin increased | 11.3 | 13.1 | 0 | 0 |  |  |  |  |  |
-| Dysgeusia | 9.3 | 12.6 | 0 | 0 |  |  |  |  |  |
-| Paresthesia | 5.2 | 12.1 | 0 | 0.5 |  |  |  |  |  |
-| Vision blurred | 10.8 | 11.1 | 1.0 | 0.5 |  |  |  |  |  |
-| Alopecia | 11.3 | 10.6 | 0 | 0 |  |  |  |  |  |
-| Decreased appetite | 9.8 | 10.1 | 0 | 0 |  |  |  |  |  |
-| Constipation | 8.8 | 9.6 | 0 | 0 |  |  |  |  |  |
-| Pyrexia | 6.2 | 9.6 | 0 | 0 |  |  |  |  |  |
-| Depression | 3.1 | 8.1 | 0 | 0 |  |  |  |  |  |
-| Abdominal pain | 2.6 | 7.6 | 0 | 0 |  |  |  |  |  |
-| Conjunctivitis | 5.2 | 7.6 | 0 | 0 |  |  |  |  |  |
-| Photosensitivity reaction | 3.6 | 7.1 | 0 | 0 |  |  |  |  |  |
-| Dizziness | 4.6 | 6.6 | 0.5 | 0 |  |  |  |  |  |
-| Hemorrhage | 3.1 | 6.6 | 0 | 0 |  |  |  |  |  |
-| Dry skin | 6.7 | 6.1 | 0.5 | 0 |  |  |  |  |  |
-| Nasopharyngitis | 1.0 | 6.1 | 0 | 0.5 |  |  |  |  |  |
-| Palpitations | 5.2 | 5.1 | 0 | 0 |  |  |  |  |  |
-| Abbreviations: AE, adverse event; CTC, common terminology criteria. |  |  |  |  |  |  |  |  |  |
-| A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category. |  |  |  |  |  |  |  |  |  |
+| Preferred Term | All CTC Grades |  | CTC Grades 3 and Above |  |
+| --- | --- | --- | --- | --- |
+| Imatinib Mesylate 12 Months(N = 194)% | Imatinib Mesylate 36 Months(N = 198)% | Imatinib Mesylate 12 Months(N = 194)% | Imatinib Mesylate 36 Months(N = 198)% |  |
+| Patients with at least one AE | 99.0 | 100.0 | 20.1 | 32.8 |
+| Hemoglobin decreased | 72.2 | 80.3 | 0.5 | 0.5 |
+| Periorbital edema | 59.3 | 74.2 | 0.5 | 1.0 |
+| Blood lactate dehydrogenase increased | 43.3 | 60.1 | 0 | 0 |
+| Diarrhea | 43.8 | 54.0 | 0.5 | 2.0 |
+| Nausea | 44.8 | 51.0 | 1.5 | 0.5 |
+| Muscle spasms | 30.9 | 49.0 | 0.5 | 1.0 |
+| Fatigue | 48.5 | 48.5 | 1.0 | 0.5 |
+| White blood cell count decreased | 34.5 | 47.0 | 2.1 | 3.0 |
+| Pain | 25.8 | 45.5 | 1.0 | 3.0 |
+| Blood creatinine increased | 30.4 | 44.4 | 0 | 0 |
+| Peripheral edema | 33.0 | 40.9 | 0.5 | 1.0 |
+| Dermatitis | 29.4 | 38.9 | 2.1 | 1.5 |
+| Aspartate aminotransferase increased | 30.9 | 37.9 | 1.5 | 3.0 |
+| Alanine aminotransferase increased | 28.9 | 34.3 | 2.1 | 3.0 |
+| Neutrophil count decreased | 24.2 | 33.3 | 4.6 | 5.1 |
+| Hypoproteinemia | 23.7 | 31.8 | 0 | 0 |
+| Infection | 13.9 | 27.8 | 1.5 | 2.5 |
+| Weight increased | 13.4 | 26.8 | 0 | 0.5 |
+| Pruritus | 12.9 | 25.8 | 0 | 0 |
+| Flatulence | 19.1 | 24.7 | 1.0 | 0.5 |
+| Vomiting | 10.8 | 22.2 | 0.5 | 1.0 |
+| Dyspepsia | 17.5 | 21.7 | 0.5 | 1.0 |
+| Hypoalbuminemia | 11.9 | 21.2 | 0 | 0 |
+| Edema | 10.8 | 19.7 | 0 | 0.5 |
+| Abdominal distension | 11.9 | 19.2 | 0.5 | 0 |
+| Headache | 8.2 | 18.2 | 0 | 0 |
+| Lacrimation increased | 18.0 | 17.7 | 0 | 0 |
+| Arthralgia | 8.8 | 17.2 | 0 | 1.0 |
+| Blood alkaline phosphatase increased | 10.8 | 16.7 | 0 | 0.5 |
+| Dyspnea | 6.2 | 16.2 | 0.5 | 1.5 |
+| Myalgia | 9.3 | 15.2 | 0 | 1.0 |
+| Platelet count decreased | 11.3 | 14.1 | 0 | 0 |
+| Blood bilirubin increased | 11.3 | 13.1 | 0 | 0 |
+| Dysgeusia | 9.3 | 12.6 | 0 | 0 |
+| Paresthesia | 5.2 | 12.1 | 0 | 0.5 |
+| Vision blurred | 10.8 | 11.1 | 1.0 | 0.5 |
+| Alopecia | 11.3 | 10.6 | 0 | 0 |
+| Decreased appetite | 9.8 | 10.1 | 0 | 0 |
+| Constipation | 8.8 | 9.6 | 0 | 0 |
+| Pyrexia | 6.2 | 9.6 | 0 | 0 |
+| Depression | 3.1 | 8.1 | 0 | 0 |
+| Abdominal pain | 2.6 | 7.6 | 0 | 0 |
+| Conjunctivitis | 5.2 | 7.6 | 0 | 0 |
+| Photosensitivity reaction | 3.6 | 7.1 | 0 | 0 |
+| Dizziness | 4.6 | 6.6 | 0.5 | 0 |
+| Hemorrhage | 3.1 | 6.6 | 0 | 0 |
+| Dry skin | 6.7 | 6.1 | 0.5 | 0 |
+| Nasopharyngitis | 1.0 | 6.1 | 0 | 0.5 |
+| Palpitations | 5.2 | 5.1 | 0 | 0 |
+| Abbreviations: AE, adverse event; CTC, common terminology criteria. |  |  |  |  |
+| A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category. |  |  |  |  |
 
 ### Adverse Reactions from Multiple Clinical Trials
 

@@ -23,11 +23,11 @@ Usual Dosage: See accompanying prescribing information.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Made in Puerto Rico
+Made in Germany
 
-Mylan.com
+RHPT2245MM
 
-RM2245MM2
+51751973-12/22
 
 # PRINCIPAL DISPLAY PANEL – 400 mg
 
@@ -54,8 +54,6 @@ Usual Dosage: See accompanying prescribing information.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Made in Puerto Rico
+Made in Germany
 
-Mylan.com
-
-RM2246H2
+RHPT2246H 51751974-12/22
