@@ -6,18 +6,23 @@ Pregnancy must be ruled out prior to administration of Prolia.
 Perform pregnancy testing in all females of reproductive potential prior to administration of Prolia.
 Based on findings in animals, Prolia can cause fetal harm when administered to pregnant women [see Use in Specific Populations (8.1, 8.3)].
 
-## 2.2 Recommended Dosage
+## 2.2 Laboratory Testing in Patients with Advanced Chronic Kidney Disease Prior to Initiation of Prolia
+
+In patients with advanced chronic kidney disease [i.e., estimated glomerular filtration rate (eGFR) <30 mL/min/1.73 m2], including dialysis-dependent patients, evaluate for the presence of chronic kidney disease mineral and bone disorder (CKD-MBD) with intact parathyroid hormone (iPTH), serum calcium, 25(OH) vitamin D, and 1,25 (OH)2 vitamin D prior to decisions regarding Prolia treatment.
+Consider also assessing bone turnover status (serum markers of bone turnover or bone biopsy) to evaluate the underlying bone disease that may be present [see Warnings and Precautions (5.1)].
+
+## 2.3 Recommended Dosage
 
 Prolia should be administered by a healthcare professional.
 
 The recommended dose of Prolia is 60 mg administered as a single subcutaneous injection once every 6 months.
 Administer Prolia via subcutaneous injection in the upper arm, the upper thigh, or the abdomen.
-All patients should receive calcium 1000 mg daily and at least 400 IU vitamin D daily [see Warnings and Precautions (5.3)].
+All patients should receive calcium 1000 mg daily and at least 400 IU vitamin D daily [see Warnings and Precautions (5.1)].
 
 If a dose of Prolia is missed, administer the injection as soon as the patient is available.
 Thereafter, schedule injections every 6 months from the date of the last injection.
 
-## 2.3 Preparation and Administration
+## 2.4 Preparation and Administration
 
 Visually inspect Prolia for particulate matter and discoloration prior to administration whenever solution and container permit.
 Prolia is a clear, colorless to pale yellow solution that may contain trace amounts of translucent to white proteinaceous particles.

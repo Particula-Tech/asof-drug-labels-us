@@ -71,7 +71,7 @@ Juvenile Animal Toxicity Data
 
 Treatment with Prolia may impair long-bone growth in children with open growth plates and may inhibit eruption of dentition.
 In neonatal rats, inhibition of RANKL (the target of Prolia therapy) with a construct of osteoprotegerin bound to Fc (OPG-Fc) at doses ≤ 10 mg/kg was associated with inhibition of bone growth and tooth eruption.
-Adolescent primates treated with denosumab at doses 10 and 50 times (10 and 50 mg/kg dose) higher than the recommended human dose of 60 mg administered every 6 months, based on body weight (mg/kg), had abnormal growth plates, considered to be consistent with the pharmacological activity of denosumab [see Animal Toxicology and/or Pharmacology (13.2)].
+Adolescent primates treated with denosumab at doses 10 and 50 times (10 and 50 mg/kg dose) higher than the recommended human dose of 60 mg administered every 6 months, based on body weight (mg/kg), had abnormal growth plates, considered to be consistent with the pharmacological activity of denosumab [see Nonclinical Toxicology (13.2)].
 
 Cynomolgus monkeys exposed in utero to denosumab exhibited bone abnormalities, an absence of axillary, inguinal, mandibular, and mesenteric lymph nodes, reduced hematopoiesis, tooth malalignment, and decreased neonatal growth.
 Some bone abnormalities recovered once exposure was ceased following birth; however, axillary and inguinal lymph nodes remained absent 6 months post-birth [see Use in Specific Populations (8.1)].
@@ -87,10 +87,13 @@ No overall differences in safety or efficacy were observed between these patient
 
 No dose adjustment is necessary in patients with renal impairment.
 
-In clinical studies, patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis were at greater risk of developing hypocalcemia.
-Consider the benefit-risk profile when administering Prolia to patients with severe renal impairment or receiving dialysis.
-Clinical monitoring of calcium and mineral levels (phosphorus and magnesium) is highly recommended.
-Adequate intake of calcium and vitamin D is important in patients with severe renal impairment or receiving dialysis [see Warnings and Precautions (5.3), Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
+Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported postmarketing.
+In clinical studies, patients with advanced chronic kidney disease (i.e., eGFR < 30 mL/min/1.73 m2), including dialysis-dependent patients, were at greater risk of developing hypocalcemia.
+The presence of underlying chronic kidney disease-mineral bone disorder (CKD-MBD, renal osteodystrophy) markedly increases the risk of hypocalcemia.
+Concomitant use of calcimimetic drugs may also worsen hypocalcemia risk.
+Consider the benefits and risks to the patient when administering Prolia to patients with advanced chronic kidney disease.
+Monitor calcium and mineral levels (phosphorus and magnesium).
+Adequate intake of calcium and vitamin D is important in patients with advanced chronic kidney disease including dialysis-dependent patients [see Dosage and Administration (2.2),Warnings and Precautions (5.1), Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

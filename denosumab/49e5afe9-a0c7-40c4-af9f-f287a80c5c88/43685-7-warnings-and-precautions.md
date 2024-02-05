@@ -1,29 +1,37 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Drug Products with Same Active Ingredient
+## 5.1 Severe Hypocalcemia and Mineral Metabolism Changes
+
+Prolia can cause severe hypocalcemia and fatal cases have been reported.
+Pre-existing hypocalcemia must be corrected prior to initiating therapy with Prolia.
+Adequately supplement all patients with calcium and vitamin D [see Dosage and Administration (2.1), Contraindications (4), and Adverse Reactions (6.1)].
+
+In patients without advanced chronic kidney disease who are predisposed to hypocalcemia and disturbances of mineral metabolism (e.g. history of hypoparathyroidism, thyroid surgery, parathyroid surgery, malabsorption syndromes, excision of small intestine, treatment with other calcium-lowering drugs), assess serum calcium and mineral levels (phosphorus and magnesium) 10 to14 days after Prolia injection.
+In some postmarketing cases, hypocalcemia persisted for weeks or months and required frequent monitoring and intravenous and/or oral calcium replacement, with or without vitamin D.
+
+Patients with Advanced Chronic Kidney Disease
+
+Patients with advanced chronic kidney disease [i.e., eGFR <30 mL/min/1.73 m2] including dialysis-dependent patients are at greater risk for severe hypocalcemia following Prolia administration.
+Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported.
+The presence of underlying chronic kidney disease-mineral bone disorder (CKD-MBD, renal osteodystrophy) markedly increases the risk of hypocalcemia.
+Concomitant use of calcimimetic drugs may also worsen hypocalcemia risk.
+
+To minimize the risk of hypocalcemia in patients with advanced chronic kidney disease, evaluate for the presence of chronic kidney disease mineral and bone disorder with intact parathyroid hormone (iPTH), serum calcium, 25(OH) vitamin D, and 1,25(OH)2 vitamin D prior to decisions regarding Prolia treatment.
+Consider also assessing bone turnover status (serum markers of bone turnover or bone biopsy) to evaluate the underlying bone disease that may be present.
+Monitor serum calcium weekly for the first month after Prolia administration and monthly thereafter.
+Instruct all patients with advanced chronic kidney disease, including those who are dialysis-dependent, about the symptoms of hypocalcemia and the importance of maintaining serum calcium levels with adequate calcium and activated vitamin D supplementation.
+Treatment with Prolia in these patients should be supervised by a healthcare provider who is experienced in diagnosis and management of CKD-MBD.
+
+## 5.2 Drug Products with Same Active Ingredient
 
 Prolia contains the same active ingredient (denosumab) found in Xgeva.
 Patients receiving Prolia should not receive Xgeva.
 
-## 5.2 Hypersensitivity
+## 5.3 Hypersensitivity
 
 Clinically significant hypersensitivity including anaphylaxis has been reported with Prolia.
 Symptoms have included hypotension, dyspnea, throat tightness, facial and upper airway edema, pruritus, and urticaria.
 If an anaphylactic or other clinically significant allergic reaction occurs, initiate appropriate therapy and discontinue further use of Prolia [see Contraindications (4), Adverse Reactions (6.2)].
-
-## 5.3 Hypocalcemia and Mineral Metabolism
-
-Hypocalcemia may be exacerbated by the use of Prolia.
-Pre-existing hypocalcemia must be corrected prior to initiating therapy with Prolia.
-In patients predisposed to hypocalcemia and disturbances of mineral metabolism (e.g. history of hypoparathyroidism, thyroid surgery, parathyroid surgery, malabsorption syndromes, excision of small intestine, severe renal impairment [creatinine clearance < 30 mL/min] or receiving dialysis, treatment with other calcium-lowering drugs), clinical monitoring of calcium and mineral levels (phosphorus and magnesium) is highly recommended within 14 days of Prolia injection.
-In some postmarketing cases, hypocalcemia persisted for weeks or months and required frequent monitoring and intravenous and/or oral calcium replacement, with or without vitamin D.
-
-Hypocalcemia following Prolia administration is a significant risk in patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis.
-These patients may also develop marked elevations of serum parathyroid hormone (PTH).
-Concomitant use of calcimimetic drugs may worsen hypocalcemia risk and serum calcium should be closely monitored.
-Instruct all patients with severe renal impairment, including those receiving dialysis, about the symptoms of hypocalcemia and the importance of maintaining calcium levels with adequate calcium and vitamin D supplementation.
-
-Adequately supplement all patients with calcium and vitamin D [see Dosage and Administration (2.1), Contraindications (4), Adverse Reactions (6.1) and Patient Counseling Information (17)].
 
 ## 5.4 Osteonecrosis of the Jaw
 
@@ -104,4 +112,4 @@ Monitor patients for these consequences.
 
 Prolia is not approved for use in pediatric patients.
 Hypercalcemia has been reported in pediatric patients with osteogenesis imperfecta treated with denosumab products, including Prolia.
-Some cases required hospitalization [see Pediatric Use (8.4)].
+Some cases required hospitalization [see Use in Specific Populations (8.4)].

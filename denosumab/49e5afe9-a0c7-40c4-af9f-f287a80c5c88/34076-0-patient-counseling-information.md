@@ -2,19 +2,25 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
+Hypocalcemia
+
+Advise the patient to adequately supplement with calcium and vitamin D and instruct them on the importance of maintaining serum calcium levels while receiving Prolia [see Warnings and Precautions (5.1), Use in Specific Populations (8.6)].
+Advise patients to seek prompt medical attention if they develop signs or symptoms of hypocalcemia.
+
+Severe Hypocalcemia in Patients with Advanced Chronic Kidney Disease
+
+Advise patients with advanced chronic kidney disease, including those who are dialysis-dependent, about the symptoms of hypocalcemia and the importance of maintaining serum calcium levels with adequate calcium and activated vitamin D supplementation.
+Advise these patients to have their serum calcium measured weekly for the first month after Prolia administration and monthly thereafter.
+[see Dosage and Administration (2.2), Warnings and Precautions (5.1), Use in Specific Populations (8.6)]
+
 Drug Products with Same Active Ingredient
 
-Advise patients that denosumab is also marketed as Xgeva, and if taking Prolia, they should not receive Xgeva [see Warnings and Precautions (5.1)].
+Advise patients that denosumab is also marketed as Xgeva, and if taking Prolia, they should not receive Xgeva [see Warnings and Precautions (5.2)].
 
 Hypersensitivity
 
 Advise patients to seek prompt medical attention if signs or symptoms of hypersensitivity reactions occur.
-Advise patients who have had signs or symptoms of systemic hypersensitivity reactions that they should not receive denosumab (Prolia or Xgeva) [see Warnings and Precautions (5.2), Contraindications (4)].
-
-Hypocalcemia
-
-Advise the patient to adequately supplement with calcium and vitamin D and instruct them on the importance of maintaining serum calcium levels while receiving Prolia [see Warnings and Precautions (5.3), Use in Specific Populations (8.6)].
-Advise patients to seek prompt medical attention if they develop signs or symptoms of hypocalcemia.
+Advise patients who have had signs or symptoms of systemic hypersensitivity reactions that they should not receive denosumab (Prolia or Xgeva) [see Warnings and Precautions (5.3), Contraindications (4)].
 
 Osteonecrosis of the Jaw
 

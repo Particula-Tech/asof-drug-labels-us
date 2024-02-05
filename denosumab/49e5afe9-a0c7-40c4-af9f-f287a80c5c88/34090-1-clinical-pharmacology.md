@@ -14,7 +14,7 @@ At the end of each dosing interval, CTX reductions were partially attenuated fro
 These effects were sustained with continued treatment.
 Upon reinitiation, the degree of inhibition of CTX by Prolia was similar to that observed in patients initiating Prolia treatment.
 
-Consistent with the physiological coupling of bone formation and resorption in skeletal remodeling, subsequent reductions in bone formation markers (i.e. osteocalcin and procollagen type 1 N-terminal peptide [P1NP]) were observed starting 1 month after the first dose of Prolia.
+Consistent with the physiological coupling of bone formation and resorption in skeletal remodeling, subsequent reductions in bone formation markers (i.e., osteocalcin and procollagen type 1 N-terminal peptide [P1NP]) were observed starting 1 month after the first dose of Prolia.
 After discontinuation of Prolia therapy, markers of bone resorption increased to levels 40% to 60% above pretreatment values but returned to baseline levels within 12 months.
 
 ## 12.3 Pharmacokinetics

@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are discussed below and also elsewhere in the labeling:
 
-- Hypocalcemia [see Warnings and Precautions (5.3)]
+- Hypocalcemia [see Warnings and Precautions (5.1)]
 - Serious Infections [see Warnings and Precautions (5.7)]
 - Dermatologic Adverse Reactions [see Warnings and Precautions (5.8)]
 - Osteonecrosis of the Jaw [see Warnings and Precautions (5.4)]
@@ -247,7 +247,7 @@ Because postmarketing reactions are reported voluntarily from a population of un
 The following adverse reactions have been identified during post approval use of Prolia:
 
 - Drug-related hypersensitivity reactions: anaphylaxis, rash, urticaria, facial swelling, and erythema
-- Hypocalcemia: severe symptomatic hypocalcemia
+- Hypocalcemia: severe symptomatic hypocalcemia resulting in hospitalization, life-threatening events, and fatal cases
 - Musculoskeletal pain, including severe cases
 - Parathyroid hormone (PTH): Marked elevation in serum PTH in patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis
 - Multiple vertebral fractures following discontinuation of Prolia
