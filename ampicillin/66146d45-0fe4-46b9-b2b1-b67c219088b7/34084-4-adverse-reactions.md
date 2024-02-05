@@ -6,6 +6,7 @@ The following adverse reactions have been reported as associated with the use of
 (These reactions are usually associated with oral dosage forms.)
 Hypersensitivity Reactions Skin rashes and urticaria have been reported frequently.
 A few cases of exfoliative dermatitis and erythema multiforme have been reported.
+Linear IgA bullous dermatosis has been reported.
 Anaphylaxis is the most serious reaction experienced and has usually been associated with the parenteral dosage form.
 Note: Urticaria, other skin rashes, and serum sickness-like reactions may be controlled with antihistamines and, if necessary, systemic corticosteroids.
 Whenever such reactions occur, ampicillin should be discontinued, unless, in the opinion of the physician, the condition being treated is life-threatening and amenable only to ampicillin therapy.
