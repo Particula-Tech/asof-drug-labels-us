@@ -133,7 +133,7 @@ Before you take carbamazepine tablets, tell your healthcare provider if you:
   Carbamazepine tablets may harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking carbamazepine tablets.
   You and your healthcare provider should decide if you should take carbamazepine while you are pregnant.
-  - If you become pregnant while taking carbamazepine tablets, USP, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+  - If you become pregnant while taking carbamazepine tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
     The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
     You can enroll in this registry by calling 1-888-233-2334.
 - are breastfeeding or plan to breastfeed.
@@ -205,7 +205,7 @@ Tell your healthcare provider if you have any side effect that bothers you or th
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA­-1088.
 
-How should I store carbamazepine tablets, USP?
+How should I store carbamazepine tablets?
 
 - Do not store above 30°C (86°F).
   - Keep carbamazepine tablets dry.
@@ -219,15 +219,15 @@ Do not use carbamazepine tablets for a condition for which it was not prescribed
 Do not give carbamazepine tablets to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-This Medication Guide summarizes the most important information about carbamazepine tablets, USP.
+This Medication Guide summarizes the most important information about carbamazepine tablets.
 If you would like more information, talk with your healthcare provider.
-You can ask your pharmacist or healthcare provider for the full prescribing information about carbamazepine tablets, USP that is written for health professionals.
+You can ask your pharmacist or healthcare provider for the full prescribing information about carbamazepine tablets that is written for health professionals.
 
 For more information, contact Apotex Corp., Drug safety at 1-800-706-5575
 
 What are the ingredients in carbamazepine tablets?
 
-Active ingredient: carbamazepine USP
+Active ingredient: carbamazepine
 
 Inactive ingredients: croscarmellose sodium, magnesium stearate, and microcrystalline cellulose.
 

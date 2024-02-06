@@ -16,17 +16,17 @@ Though clinical activity for the epoxide has been postulated, the significance o
 
 ## Pharmacokinetics
 
-In clinical studies, carbamazepine suspension, conventional tablets, and extended-release tablets delivered equivalent amounts of drug to the systemic circulation.
+In clinical studies, tegretol suspension, conventional tablets, and XR tablets delivered equivalent amounts of drug to the systemic circulation.
 However, the suspension was absorbed somewhat faster, and the extended-release tablet slightly slower, than the conventional tablet.
 The bioavailability of the extended-release tablet was 89% compared to suspension.
 Following a twice a day dosage regimen, the suspension provides higher peak levels and lower trough levels than those obtained from the conventional tablet for the same dosage regimen.
-On the other hand, following a three times a day dosage regimen, carbamazepine suspension affords steady-state plasma levels comparable to carbamazepine tablets given twice a day when administered at the same total mg daily dose.
+On the other hand, following a three times a day dosage regimen, tegretol suspension affords steady-state plasma levels comparable to carbamazepine tablets given twice a day when administered at the same total mg daily dose.
 Following a twice a day dosage regimen, carbamazepine extended-release tablets afford steady-state plasma levels comparable to conventional carbamazepine tablets given four times a day, when administered at the same total mg daily dose.
 Carbamazepine in blood is 76% bound to plasma proteins.
 Plasma levels of carbamazepine are variable and may range from 0.5 to 25 mcg/mL, with no apparent relationship to the daily intake of the drug.
 Usual adult therapeutic levels are between 4 and 12 mcg/mL.
 In polytherapy, the concentration of carbamazepine and concomitant drugs may be increased or decreased during therapy, and drug effects may be altered (see PRECAUTIONS, Drug Interactions).
-Following chronic oral administration of suspension, plasma levels peak at approximately 1.5 hours compared to 4 to 5 hours after administration of conventional carbamazepine tablets, and 3 to 12 hours after administration of carbamazepine extended-release tablets.
+Following chronic oral administration of suspension, plasma levels peak at approximately 1.5 hours compared to 4 to 5 hours after administration of conventional carbamazepine tablets, and 3 to 12 hours after administration of tegretol XR tablets.
 The CSF/serum ratio is 0.22, similar to the 24% unbound carbamazepine in serum.
 Because carbamazepine induces its own metabolism, the half-life is also variable.
 Autoinduction is completed after 3 to 5 weeks of a fixed dosing regimen.

@@ -179,11 +179,11 @@ This syndrome consists of a cholestatic process with a variable clinical course 
 Some, but not all, cases are associated with features that overlap with other immunoallergenic syndromes, such as multiorgan hypersensitivity (DRESS syndrome) and serious dermatologic reactions.
 As an example there has been a report of vanishing bile duct syndrome associated with Stevens-Johnson syndrome and in another case an association with fever and eosinophilia.
 
-Since a given dose of carbamazepine suspension will produce higher peak levels than the same dose given as the tablet, it is recommended that patients given the suspension be started on lower doses and increased slowly to avoid unwanted side effects (see DOSAGE AND ADMINISTRATION).
+Since a given dose of tegretol suspension will produce higher peak levels than the same dose given as the tablet, it is recommended that patients given the suspension be started on lower doses and increased slowly to avoid unwanted side effects (see DOSAGE AND ADMINISTRATION).
 
 ## Information for Patients
 
-Patients should be informed of the availability of a Medication Guide and they should be instructed to read the Medication Guide before taking carbamazepine tablets, USP.
+Patients should be informed of the availability of a Medication Guide and they should be instructed to read the Medication Guide before taking carbamazepine tablets.
 
 Patients should be made aware of the early toxic signs and symptoms of a potential hematologic problem, as well as dermatologic, hypersensitivity or hepatic reactions.
 These symptoms may include, but are not limited to, fever, sore throat, rash, ulcers in the mouth, easy bruising, lymphadenopathy and petechial or purpuric hemorrhage, and in the case of liver reactions, anorexia, nausea/vomiting, or jaundice.
@@ -236,9 +236,9 @@ Interference with some pregnancy tests has been reported.
 
 ## Drug Interactions
 
-There has been a report of a patient who passed an orange rubbery precipitate in his stool the day after ingesting carbamazepine suspension immediately followed by Thorazine®* solution.
-Subsequent testing has shown that mixing carbamazepine suspension and chlorpromazine solution (both generic and brand name) as well as carbamazepine suspension and liquid Mellaril®, resulted in the occurrence of this precipitate.
-Because the extent to which this occurs with other liquid medications is not known, carbamazepine suspension should not be administered simultaneously with other liquid medicinal agents or diluents (see DOSAGE AND ADMINISTRATION).
+There has been a report of a patient who passed an orange rubbery precipitate in his stool the day after ingesting tegretol suspension immediately followed by Thorazine®* solution.
+Subsequent testing has shown that mixing tegretol suspension and tegretol solution (both generic and brand name) as well as carbamazepine suspension and liquid Mellaril®, resulted in the occurrence of this precipitate.
+Because the extent to which this occurs with other liquid medications is not known, tegretol suspension should not be administered simultaneously with other liquid medicinal agents or diluents (see DOSAGE AND ADMINISTRATION).
 
 Clinically meaningful drug interactions have occurred with concomitant medications and include (but are not limited to) the following:
 
