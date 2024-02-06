@@ -7,11 +7,21 @@ For patients using an oral medication where a reduction in the bioavailability o
 Advise patients to report new onset or worsening of existing constipation or bloody stools promptly to their physician [see Warnings and Precautions (5.1)].
 
 Trademarks are the property of their respective owners.
+Manufactured by:
 
-Manufactured by: Amneal Pharmaceuticals Pvt.
+Amneal Pharmaceuticals Pvt.
 Ltd. Ahmedabad 382220, INDIA
 
-Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
+Or
+
+Amneal Pharmaceuticals Pvt.
+Ltd.
+
+Oral Solid Dosage Unit
+
+Ahmedabad 382213, INDIA Distributed by:
+
+Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-06-2023-03
+11-2023-04

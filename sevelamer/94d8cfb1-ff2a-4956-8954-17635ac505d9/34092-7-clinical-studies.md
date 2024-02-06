@@ -92,7 +92,7 @@ One hundred and forty-three patients on peritoneal dialysis who were hyperphosph
 Average daily sevelamer hydrochloride dose at the end of treatment was 5.9 g (range 0.8 to 14.3 g). Thirteen patients (14%) in the sevelamer group and 9 patients (20%) in the active-control group discontinued, mostly for gastrointestinal adverse reactions.
 There were statistically significant changes in serum phosphorus (p<0.001) for sevelamer hydrochloride (-1.6 mg/dL from baseline of 7.5 mg/dL), similar to the active control.
 
-## 14.7 Once-Daily versus Three–Times-Per-Day Dosing
+## 14.7 Once-Daily versus Three-Times-Per-Day Dosing
 
 Stage 5 CKD patients on hemodialysis with a serum phosphate level of > 5.5 mg/dL after washout from baseline therapies were randomized in a 2:1 ratio to receive either sevelamer carbonate powder once daily (N=144) or sevelamer hydrochloride as a tablet with the dose divided three times per day (N=73) for 24 weeks.
 The initial dose for the two groups was 4.8 g/day.
