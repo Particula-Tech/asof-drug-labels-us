@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 2 mL Vial Label
 
-2 mL Single-use vial NDC 0409-3414-18
+2 mL Single-dose vial NDC 0409-3414-18
 
 Metoclopramide Inj., USP 10 mg/2 mL (5 mg/mL)
 
@@ -17,7 +17,7 @@ Hospira
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Vial Tray
 
-25 x 2 mL Single-use vials NDC 0409-3414-01 Contains 25 of NDC 0409-3414-18
+25 x 2 mL Single-dose vials NDC 0409-3414-01 Contains 25 of NDC 0409-3414-18
 
 Rx only
 
