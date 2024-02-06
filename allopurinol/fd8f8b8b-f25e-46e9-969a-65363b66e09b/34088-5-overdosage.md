@@ -1,11 +1,4 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Massive overdosing or acute poisoning by allopurinol has not been reported.
-
-In mice, the 50% lethal dose (LD50) is 160 mg/kg given intraperitoneally (IP) with deaths delayed up to 5 days and 700 mg/kg orally (PO) (approximately 140 times the usual human dose) with deaths delayed up to 3 days.
-In rats, the acute LD50 is 750 mg/kg IP and 6000 mg/kg PO (approximately 1200 times the human dose).
-
-In the management of overdosage there is no specific antidote for allopurinol.
-There has been no clinical experience in the management of a patient who has taken massive amounts of allopurinol.
-
-Both allopurinol and oxipurinol are dialyzable; however, the usefulness of hemodialysis or peritoneal dialysis in the management of an overdose of allopurinol is unknown.
+In the management of overdosage there is no specific antidote for allopurinol tablets.
+Both allopurinol and oxipurinol are dialyzable; however, the usefulness of hemodialysis or peritoneal dialysis in the management of an overdose of allopurinol tablets is unknown.
