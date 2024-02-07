@@ -1,4 +1,4 @@
-# Instructions for Use
+# INSTRUCTIONS FOR USE
 
 AIRDUO® RESPICLICK® (ayr´due oh res-pē-klik) (fluticasone propionate and salmeterol) inhalation powder 55 mcg/14 mcg
 

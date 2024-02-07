@@ -22,7 +22,7 @@ Table 2 displays the incidence of most common adverse reactions in pooled Trials
 
 Table 2: Adverse Reactions with ≥3% Incidence with AIRDUO RESPICLICK, and More Common than Placebo in Subjects with Asthma (Trials 1 and 2)
 
-| Adverse Reaction | Fluticasone Propionate MDPI 55 mcg (n=129)% | Fluticasone Propionate MDPI 113 mcg (n=274)% | Fluticasone Propionate MDPI232 mcg (n=146)% | AIRDUO RESPICLICK 55 mcg/14 mcg (n=128)% | AIRDUO RESPICLICK 113 mcg/14 mcg (n=269)% | AIRDUO RESPICLICK 232 mcg/14 mcg (n=145)% | Placebo (n=273)% |
+| Adverse Reaction | Fluticasone Propionate MDPI55 mcg (n=129)% | Fluticasone Propionate MDPI113 mcg (n=274)% | Fluticasone Propionate MDPI232 mcg (n=146)% | AIRDUO RESPICLICK 55 mcg/14 mcg (n=128)% | AIRDUO RESPICLICK 113 mcg/14 mcg (n=269)% | AIRDUO RESPICLICK 232 mcg/14 mcg (n=145)% | Placebo (n=273)% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Nasopharyngitis | 5.4 | 5.8 | 4.8 | 8.6 | 4.8 | 6.9 | 4.4 |
 | Oral candidiasis* | 3.1 | 2.9 | 4.8 | 1.6 | 2.2 | 3.4 | 0.7 |
