@@ -372,10 +372,10 @@ The parts of the DUPIXENT Pre-filled Pen are shown below:
 | C3. Press down ➜ Watch Window turn fully yellow ➜ Then count to 5 |  |  |
 | Press and hold the DUPIXENT Pre-filled Pen firmly against the skin until you cannot see the Yellow Needle Cover. There will be a "click" when the injection starts, andThe Window will start to turn yellow.Keep pressing the DUPIXENT Pre-filled Pen against the skin. | Keep pressing the DUPIXENT Pre-filled Pen against the skin and watch the window: The Window will turn completely yellow, andYou will hear a 2nd "click".Keep pressing the DUPIXENT Pre-filled Pen against the skin. | Keep pressing the DUPIXENT Pre-filled Pen against the skin and count to 5 to make sure you get your full dose. |
 
-| C4. Remove |  |  |
-| --- | --- | --- |
-| Pinching of the skin is not needed for adults and children aged 12 years and older. |  |  |
-| After you have completed the injection pull straight up to remove DUPIXENT Pre-filled Pen from the skin. The Yellow Needle Cover will cover the needle. If you see any blood at the site, lightly dab a cotton ball or gauze pad. Do not rub the skin after the injection. If the Window does not turn completely Yellow, or if it looks like medicine is still coming out of the pen, you may not have received a full dose. Dispose of (throw away) the pen and contact your healthcare provider right away. Do not give a second dose without speaking to your healthcare provider. |  |  |
+| C4. Remove |  |
+| --- | --- |
+| Pinching of the skin is not needed for adults and children aged 12 years and older. |  |
+| After you have completed the injection pull straight up to remove DUPIXENT Pre-filled Pen from the skin. The Yellow Needle Cover will cover the needle. If you see any blood at the site, lightly dab a cotton ball or gauze pad. Do not rub the skin after the injection. If the Window does not turn completely Yellow, or if it looks like medicine is still coming out of the pen, you may not have received a full dose. Dispose of (throw away) the pen and contact your healthcare provider right away. Do not give a second dose without speaking to your healthcare provider. |  |
 
 | D. Dispose of used DUPIXENT Pre-filled Pen |  |
 | --- | --- |

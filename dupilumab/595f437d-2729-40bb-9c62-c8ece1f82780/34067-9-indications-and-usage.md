@@ -19,7 +19,7 @@ DUPIXENT is indicated as an add-on maintenance treatment in adult patients with 
 
 ## 1.4 Eosinophilic Esophagitis
 
-DUPIXENT is indicated for the treatment of adult and pediatric patients aged 12 years and older, weighing at least 40 kg, with eosinophilic esophagitis (EoE).
+DUPIXENT is indicated for the treatment of adult and pediatric patients aged 1 year and older, weighing at least 15 kg, with eosinophilic esophagitis (EoE).
 
 ## 1.5 Prurigo Nodularis
 

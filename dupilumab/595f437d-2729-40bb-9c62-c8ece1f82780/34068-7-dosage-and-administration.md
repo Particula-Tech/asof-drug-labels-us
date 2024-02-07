@@ -80,7 +80,7 @@ Table 3: Dosage of DUPIXENT in Adult and Pediatric Patients 12 Years and Older w
 | Initial Loading Dose | Subsequent Dosage |
 | --- | --- |
 | 400 mg (two 200 mg injections) | 200 mg every 2 weeks (Q2W) |
-| or |  |
+| Or |  |
 | 600 mg (two 300 mg injections) | 300 mg every 2 weeks (Q2W) |
 | Dosage for patients with oral corticosteroid-dependent asthma or with co-morbid moderate-to-severe atopic dermatitis or adults with co-morbid chronic rhinosinusitis with nasal polyposis |  |
 | 600 mg (two 300 mg injections) | 300 mg every 2 weeks (Q2W) |
@@ -104,7 +104,15 @@ The recommended dosage of DUPIXENT for adult patients is 300 mg given every othe
 
 ## 2.6 Recommended Dosage for Eosinophilic Esophagitis
 
-The recommended dosage of DUPIXENT for adult and pediatric patients 12 years of age and older, weighing at least 40 kg, is 300 mg given every week (QW).
+The recommended dosage of DUPIXENT for adult and pediatric patients 1 year of age and older, weighing at least 15 kg, is specified in Table 5.
+
+Table 5: Dosage of DUPIXENT in Adult and Pediatric Patients 1 Year of Age and Older with Eosinophilic Esophagitis
+
+| Body Weight | Recommended Dosage |
+| --- | --- |
+| 15 to less than 30 kg | 200 mg every other week (Q2W) |
+| 30 to less than 40 kg | 300 mg every other week (Q2W) |
+| 40 kg or more | 300 mg every week (QW) |
 
 ## 2.7 Recommended Dosage for Prurigo Nodularis
 

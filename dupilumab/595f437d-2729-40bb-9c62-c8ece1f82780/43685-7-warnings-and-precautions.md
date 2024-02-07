@@ -3,7 +3,7 @@
 ## 5.1 Hypersensitivity
 
 Hypersensitivity reactions, including anaphylaxis, serum sickness or serum sickness-like reactions, angioedema, generalized urticaria, rash, erythema nodosum, and erythema multiforme have been reported.
-If a clinically significant hypersensitivity reaction occurs, institute appropriate therapy and discontinue DUPIXENT [see Adverse Reactions (6.1, 6.2, 6.3)].
+If a clinically significant hypersensitivity reaction occurs, institute appropriate therapy and discontinue DUPIXENT [see Adverse Reactions (6.1, 6.2) and Clinical Pharmacology (12.6)].
 
 ## 5.2 Conjunctivitis and Keratitis
 
@@ -13,12 +13,12 @@ Conjunctivitis and keratitis occurred more frequently in AD subjects who receive
 Conjunctivitis was the most frequently reported eye disorder.
 Most subjects with conjunctivitis or keratitis recovered or were recovering during the treatment period [see Adverse Reactions (6.1)].
 
+Among subjects with asthma, the frequencies of conjunctivitis and keratitis were similar between DUPIXENT and placebo [see Adverse Reactions (6.1)].
+
 In subjects with CRSwNP, the frequency of conjunctivitis was 2% in the DUPIXENT group compared to 1% in the placebo group in the 24-week safety pool; these subjects recovered.
 There were no cases of keratitis reported in the CRSwNP development program [see Adverse Reactions (6.1)].
 
-Among subjects with asthma, the frequencies of conjunctivitis and keratitis were similar between DUPIXENT and placebo [see Adverse Reactions (6.1)].
-
-Among subjects with EoE, the frequency of conjunctivitis and keratitis was 0% and 0% in the DUPIXENT group and 2% and 0% in the placebo group, respectively [see Adverse Reactions (6.1)].
+Among subjects with EoE, there were no reports of conjunctivitis and keratitis in the DUPIXENT group in placebo-controlled trials [see Adverse Reactions (6.1)].
 
 In subjects with PN, the frequency of conjunctivitis was 4% in the DUPIXENT group compared to 1% in the placebo group; these subjects recovered or were recovering during the treatment period.
 There were no cases of keratitis reported in the PN development program [see Adverse Reactions (6.1)].
@@ -26,7 +26,7 @@ There were no cases of keratitis reported in the PN development program [see Adv
 Conjunctivitis and keratitis adverse events have also been reported with DUPIXENT in postmarketing settings, predominantly in AD patients.
 Some patients reported visual disturbances (e.g., blurred vision) associated with conjunctivitis or keratitis.
 
-Advise patients to report new onset or worsening eye symptoms to their healthcare provider.
+Advise patients or their caregivers to report new onset or worsening eye symptoms to their healthcare provider.
 Consider ophthalmological examination for patients who develop conjunctivitis that does not resolve following standard treatment or signs and symptoms suggestive of keratitis, as appropriate [see Adverse Reactions (6.1)].
 
 ## 5.3 Eosinophilic Conditions
@@ -69,7 +69,7 @@ It is unknown if DUPIXENT will influence the immune response against helminth in
 
 Treat patients with pre-existing helminth infections before initiating therapy with DUPIXENT.
 If patients become infected while receiving treatment with DUPIXENT and do not respond to anti-helminth treatment, discontinue treatment with DUPIXENT until the infection resolves.
-Adverse reactions of helminth infections (5 cases of enterobiasis and 1 case of ascariasis) were reported in pediatric patients 6 to 11 years old who participated in the pediatric asthma development program [see Adverse Reactions (6.1)].
+Adverse reactions of helminth infections (5 cases of enterobiasis and 1 case of ascariasis) were reported in pediatric subjects 6 to 11 years old who participated in the pediatric asthma development program [see Adverse Reactions (6.1)].
 
 ## 5.9 Vaccinations
 

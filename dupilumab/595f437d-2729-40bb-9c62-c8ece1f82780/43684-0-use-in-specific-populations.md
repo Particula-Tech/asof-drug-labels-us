@@ -97,11 +97,11 @@ Safety and effectiveness in pediatric patients younger than 18 years of age with
 
 EoE
 
-The safety and effectiveness of DUPIXENT for the treatment of EoE have been established in pediatric patients 12 years of age and older, weighing at least 40 kg.
-Use of DUPIXENT in this population is supported by an adequate and well-controlled study in adults (Parts A and B) which included 72 pediatric patients 12 to 17 years of age, weighing at least 40 kg, and additional pharmacokinetic data.
-The safety and effectiveness in adults and pediatric patients were similar [see Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.4)].
+The safety and effectiveness of DUPIXENT for the treatment of EoE have been established in pediatric subjects 1 year of age and older, weighing at least 15 kg.
+Use of DUPIXENT in this population is supported by an adequate well-controlled study in adults and 72 pediatric subjects 12 to 17 years of age (Study EoE-1), a clinical study in 61 pediatric subjects 1 to 11 years of age (Study EoE-2), and pharmacokinetic data in adult and pediatric subjects 1 to 17 years of age.
+The safety of DUPIXENT in pediatric subjects 1 to 17 years of age was similar to adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.4)].
 
-The safety and effectiveness of DUPIXENT for the treatment of EoE in pediatric patients less than 12 years of age and weighing less than 40 kg have not been established.
+Safety and effectiveness in pediatric patients younger than 1 year of age, or weighing less than 15 kg, with EoE have not been established.
 
 Prurigo Nodularis
 

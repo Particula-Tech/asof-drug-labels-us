@@ -37,7 +37,7 @@ Absorption
 
 Following an initial subcutaneous (SC) dose of 600 mg, 400 mg, or 300 mg, dupilumab reached peak mean ± SD concentrations (Cmax) of 70.1±24.1 mcg/mL, 41.8±12.4 mcg/mL, or 30.5±9.39 mcg/mL, respectively, by approximately 1 week post dose.
 Steady-state concentrations were achieved by Week 16 following the administration of 600 mg starting dose and 300 mg dose either weekly or Q2W, or 400 mg starting dose and 200 mg dose Q2W, or 300 mg Q2W without a loading dose.
-Across clinical trials, the mean ± SD steady-state trough concentrations ranged from 60.3±35.1 mcg/mL to 80.2±35.3 mcg/mL for 300 mg administered Q2W, from 173±75.9 mcg/mL to 195±71.7 mcg/mL for 300 mg administered weekly, and from 29.2±18.7 to 36.5±22.2 mg/L for 200 mg administered Q2W.
+Across clinical trials, the mean ± SD steady-state trough concentrations ranged from 60.3±35.1 mcg/mL to 80.2±35.3 mcg/mL for 300 mg administered Q2W, from 173±75.9 mcg/mL to 195±71.7 mcg/mL for 300 mg administered weekly, and from 29.2±18.7 to 36.5±22.2 mcg/mL for 200 mg administered Q2W.
 
 The bioavailability of dupilumab following a SC dose is similar between AD, asthma, CRSwNP, EoE, and PN subjects, ranging between 61% and 64%.
 
@@ -61,17 +61,17 @@ Weight
 
 Dupilumab trough concentrations were lower in subjects with higher body weight.
 
-Age
-
-Based on population pharmacokinetic analysis, age did not affect dupilumab clearance in adults and in pediatric subjects 6 to 17 years of age.
-In pediatric subjects 6 months to 5 years of age, clearance increased with age.
-
 Immunogenicity
 
 Development of antibodies to dupilumab was associated with lower serum dupilumab concentrations.
 A few subjects who had high antibody titers also had no detectable serum dupilumab concentrations.
 
 Specific Populations
+
+Age
+
+Based on population pharmacokinetic analysis, age did not affect dupilumab clearance in adults and in pediatric subjects 6 to 17 years of age.
+In pediatric subjects 6 months to 5 years of age, clearance increased with age.
 
 Geriatric Patients
 
@@ -98,8 +98,14 @@ Simulation of a 300 mg Q4W subcutaneous dose in pediatric subjects 6 to 11 years
 
 Eosinophilic Esophagitis
 
-In a clinical study (Parts A and B), dupilumab pharmacokinetics were investigated in 35 pediatric subjects 12 to 17 years of age, weighing at least 40 kg, with EoE, receiving 300 mg QW.
-The mean ± SD steady-state trough concentration of dupilumab was 227 ± 95.3 mcg/mL.
+In Study EoE-1, dupilumab pharmacokinetics were investigated in 35 pediatric subjects 12 to 17 years of age, weighing at least 40 kg, with EoE, receiving 300 mg QW.
+The mean ± SD steady-state trough concentration of dupilumab was 227±95.3 mcg/mL.
+
+In Study EoE-2 Part A, dupilumab pharmacokinetics were investigated in 20 pediatric subjects 1 to 11 years of age with EoE receiving the following weight-based dosing regimens: ≥15 to <30 kg (200 mg Q2W) and ≥30 to <40 kg (300 mg Q2W).
+At Week 16, the mean ± SD steady-state trough concentration of dupilumab was 174±66.2 mcg/mL.
+
+The systemic exposure in pediatric subjects 1 to 11 years of age with a body weight ≥40 kg receiving 300 mg QW is expected to be comparable to adult and pediatric subjects 12 years and older with a body weight ≥40 kg.
+The systemic exposure in pediatric subjects 12 to 17 years of age with a body weight <40 kg receiving 300 mg Q2W is expected to be comparable to pediatric subjects 6 to 11 years of age.
 
 Drug Interaction Studies
 
@@ -111,3 +117,40 @@ Cytochrome P450 Substrates
 The effects of dupilumab on the pharmacokinetics of midazolam (metabolized by CYP3A4), warfarin (metabolized by CYP2C9), omeprazole (metabolized by CYP2C19), metoprolol (metabolized by CYP2D6), and caffeine (metabolized by CYP1A2) were evaluated in a study with 12-13 evaluable subjects with AD (a SC loading dose of 600 mg followed by 300 mg SC weekly for six weeks).
 No clinically significant changes in AUC were observed.
 The largest effect was observed for metoprolol (CYP2D6) with an increase in AUC of 29%.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of DUPIXENT or of other dupilumab products.
+
+Atopic Dermatitis
+
+Approximately 6% of subjects with AD who received DUPIXENT 300 mg Q2W for 52 weeks developed antibodies to DUPIXENT; approximately 2% exhibited persistent ADA responses, and approximately 1% had neutralizing antibodies.
+Similar results were observed in pediatric subjects 6 months to 11 years of age with AD who received either DUPIXENT 200 mg Q2W, 200 mg Q4W, or 300 mg Q4W.
+
+Approximately 16% of pediatric subjects 12 to 17 years of age with AD who received DUPIXENT 300 mg or 200 mg Q2W for 16 weeks developed antibodies to DUPIXENT; approximately 3% exhibited persistent ADA responses, and approximately 5% had neutralizing antibodies.
+
+Asthma
+
+Approximately 5% of subjects with asthma who received DUPIXENT 300 mg Q2W for 52 weeks developed antibodies to DUPIXENT; approximately 2% exhibited persistent ADA responses, and approximately 2% had neutralizing antibodies.
+Similar results were observed in pediatric subjects 6 to 11 years of age with asthma who received either DUPIXENT 100 mg Q2W or 200 mg Q2W up to 52 weeks.
+
+Approximately 9% of subjects with asthma who received DUPIXENT 200 mg Q2W for 52 weeks developed antibodies to DUPIXENT; approximately 4% exhibited persistent ADA responses, and approximately 4% had neutralizing antibodies.
+
+Chronic Rhinosinusitis with Nasal Polyposis
+
+Approximately 5% of subjects with CRSwNP who received DUPIXENT 300 mg Q2W for 52 weeks developed antibodies to DUPIXENT; approximately 2% exhibited persistent ADA responses, and approximately 3% had neutralizing antibodies.
+
+Eosinophilic Esophagitis
+
+Approximately 1% of subjects with EoE who received DUPIXENT 300 mg QW for 52 weeks developed antibodies to DUPIXENT; no subjects exhibited persistent ADA responses or had neutralizing antibodies.
+Similar results were observed in pediatric subjects 1 to 11 years of age with EoE administered either DUPIXENT 200 mg Q2W or 300 mg Q2W for 52 weeks.
+
+Prurigo Nodularis
+
+Approximately 8% of subjects with PN who received DUPIXENT 300 mg Q2W for 24 weeks developed antibodies to DUPIXENT; approximately 1% exhibited persistent ADA responses, and approximately 3% had neutralizing antibodies.
+
+The antibody titers detected in subjects who received DUPIXENT were mostly low.
+In subjects who received DUPIXENT, development of high titer antibodies to DUPIXENT was associated with lower serum dupilumab concentrations [see Clinical Pharmacology (12.3)].
+
+Two adult subjects with AD who experienced high titer antibody responses developed serum sickness or serum sickness-like reactions during DUPIXENT therapy [see Warnings and Precautions (5.1)].

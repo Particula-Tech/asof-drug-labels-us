@@ -5,6 +5,7 @@ The following clinically significant adverse reactions are described elsewhere i
 - Hypersensitivity [see Warnings and Precautions (5.1)]
 - Conjunctivitis and Keratitis [see Warnings and Precautions (5.2)]
 - Arthralgia [see Warnings and Precautions (5.7)]
+- Parasitic (Helminth) Infections [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -27,9 +28,9 @@ The safety data in AD-1225 reflect exposure to DUPIXENT 200 mg QW, 300 mg QW and
 Weeks 0 to 16 (SOLO 1, SOLO 2, CHRONOS, and AD-1021)
 
 In DUPIXENT monotherapy trials (SOLO 1, SOLO 2, and AD-1021) through Week 16, the proportion of subjects who discontinued treatment because of adverse events was 1.9% in both the DUPIXENT 300 mg Q2W and placebo groups.
-Table 5 summarizes the adverse reactions that occurred at a rate of at least 1% in the DUPIXENT 300 mg Q2W monotherapy groups, and in the DUPIXENT + TCS group, all at a higher rate than in their respective comparator groups during the first 16 weeks of treatment.
+Table 6 summarizes the adverse reactions that occurred at a rate of at least 1% in the DUPIXENT 300 mg Q2W monotherapy groups, and in the DUPIXENT + TCS group, all at a higher rate than in their respective comparator groups during the first 16 weeks of treatment.
 
-Table 5: Adverse Reactions Occurring in ≥1% of the DUPIXENT Monotherapy Group or the DUPIXENT + TCS Group in the Atopic Dermatitis Trials through Week 16
+Table 6: Adverse Reactions Occurring in ≥1% of the DUPIXENT Monotherapy Group or the DUPIXENT + TCS Group in the Atopic Dermatitis Trials through Week 16
 
 | N=529 n (%) | N=517 n (%) | N=110 n (%) | N=315 n (%) |  |
 | --- | --- | --- | --- | --- |
@@ -105,9 +106,9 @@ DUPIXENT 200 mg or 300 mg was administered subcutaneously Q2W, following an init
 
 In DRI12544 and QUEST, the proportion of subjects who discontinued treatment due to adverse events was 4% of the placebo group, 3% of the DUPIXENT 200 mg Q2W group, and 6% of the DUPIXENT 300 mg Q2W group.
 
-Table 6 summarizes the adverse reactions that occurred at a rate of at least 1% in subjects treated with DUPIXENT and at a higher rate than in their respective comparator groups in DRI12544 and QUEST.
+Table 7 summarizes the adverse reactions that occurred at a rate of at least 1% in subjects treated with DUPIXENT and at a higher rate than in their respective comparator groups in DRI12544 and QUEST.
 
-Table 6: Adverse Reactions Occurring in ≥1% of the DUPIXENT Groups in DRI12544 and QUEST and Greater than Placebo (6 Month Safety Pool)
+Table 7: Adverse Reactions Occurring in ≥1% of the DUPIXENT Groups in DRI12544 and QUEST and Greater than Placebo (6 Month Safety Pool)
 
 | N=779 n (%) | N=788 n (%) | N=792 n (%) |  |
 | --- | --- | --- | --- |
@@ -115,7 +116,7 @@ Table 6: Adverse Reactions Occurring in ≥1% of the DUPIXENT Groups in DRI12544
 | DUPIXENT 200 mg Q2W | DUPIXENT 300 mg Q2W | Placebo |  |
 | Injection site reactionsInjection site reactions cluster includes erythema, edema, pruritus, pain, and inflammation. | 111 (14%) | 144 (18%) | 50 (6%) |
 | Oropharyngeal pain | 13 (2%) | 19 (2%) | 7 (1%) |
-| EosinophiliaEosinophilia = blood eosinophils ≥3,000 cells/mcL, or deemed by the investigator to be an adverse event. None met the criteria for serious eosinophilic conditions [see Warnings and Precautions (5.3)]. | 17 (2%) | 16 (2%) | 2 (<1%) |
+| EosinophiliaEosinophilia = blood eosinophils ≥3,000 cells/mcL or deemed by the investigator to be an adverse event. None met the criteria for serious eosinophilic conditions [see Warnings and Precautions (5.3)]. | 17 (2%) | 16 (2%) | 2 (<1%) |
 
 Injection site reactions were most common with the loading (initial) dose.
 
@@ -137,9 +138,9 @@ The safety pool consisted of data from the first 24 weeks of treatment from both
 
 In the safety pool, the proportion of subjects who discontinued treatment due to adverse events was 5% of the placebo group and 2% of the DUPIXENT 300 mg Q2W group.
 
-Table 7 summarizes the adverse reactions that occurred at a rate of at least 1% in subjects treated with DUPIXENT and at a higher rate than in their respective comparator group in SINUS-24 and SINUS-52.
+Table 8 summarizes the adverse reactions that occurred at a rate of at least 1% in subjects treated with DUPIXENT and at a higher rate than in their respective comparator group in SINUS-24 and SINUS-52.
 
-Table 7: Adverse Reactions Occurring in ≥1% of the DUPIXENT Group in SINUS-24 and SINUS-52 and Greater than Placebo (24-Week Safety Pool)
+Table 8: Adverse Reactions Occurring in ≥1% of the DUPIXENT Group in SINUS-24 and SINUS-52 and Greater than Placebo (24-Week Safety Pool)
 
 | N=440 n (%) | N=282 n (%) |  |
 | --- | --- | --- |
@@ -157,23 +158,33 @@ The safety profile of DUPIXENT through Week 52 was generally consistent with the
 
 Eosinophilic Esophagitis
 
-A total of 239 adult and pediatric subjects 12 to 17 years of age, weighing at least 40 kg, with EoE were evaluated in a randomized, double-blind, parallel-group, multicenter, placebo-controlled trial, including two 24-week treatment periods (Parts A and B) and received either DUPIXENT 300 mg QW or placebo [see Clinical Studies (14.4)].
+Adults and Pediatric Subjects 12 Years of Age and Older with EoE
+
+A total of 239 adult and pediatric subjects 12 years of age and older, weighing at least 40 kg, with EoE were evaluated in a randomized, double-blind, parallel-group, multicenter, placebo-controlled trial, including two 24-week treatment periods (Study EoE-1 Parts A and B) and received either DUPIXENT 300 mg QW or placebo[see Clinical Studies (14.4)].
 
 The proportion of subjects who discontinued treatment due to adverse events was 2% of the placebo group and 2% of the DUPIXENT 300 mg QW group.
 
-Table 8 summarizes the adverse reactions that occurred at a rate of at least 2% in subjects treated with DUPIXENT and at a higher rate than in their respective comparator group in Parts A and B.
+Table 9 summarizes the adverse reactions that occurred at a rate of at least 2% in subjects treated with DUPIXENT and at a higher rate than in their respective comparator group in Parts A and B.
 
-Table 8: Adverse Reactions Occurring in ≥2% of Patients with EoE Treated with DUPIXENT in a Placebo Controlled Trial (Parts A and B; 24-Week Safety Pool)
+Table 9: Adverse Reactions Occurring in ≥2% of Adult and Pediatric Subjects 12 Years of Age and Older with EoE Treated with DUPIXENT in a Placebo-Controlled Trial (Study EoE-1 Parts A and B; 24-Week Safety Pool)
 
 | Adverse Reaction | DUPIXENT 300 mg QW N=122 n (%) | Placebo N=117 n (%) |
 | --- | --- | --- |
-|  | Parts A and B |  |
+|  | Study EoE-1 Parts A and B |  |
 | Injection site reactionsInjection site reactions are composed of several terms including, but not limited to, injection site swelling, pain, and bruising. | 46 (38%) | 39 (33%) |
 | Upper respiratory tract infectionsUpper respiratory tract infections are composed of several terms including, but not limited to, COVID-19, sinusitis, and upper respiratory tract infection. | 22 (18%) | 12 (10%) |
 | Arthralgia | 3 (2%) | 1 (1%) |
 | Herpes viral infectionsHerpes viral infections are composed of oral herpes and herpes simplex. | 3 (2%) | 1 (1%) |
 
 The safety profile of DUPIXENT in 72 pediatric subjects 12 to 17 years of age, weighing at least 40 kg, and adults in Parts A and B was similar.
+
+Pediatric Subjects 1 to 11 Years of Age, Weighing at least 15 kg, with EoE
+
+A total of 61 pediatric subjects 1 to 11 years of age, weighing at least 15 kg, with EoE were evaluated in a randomized, blinded, parallel-group, multicenter trial, including an initial 16-week placebo-controlled treatment period (Study EoE-2 Part A) and a 36-week extended active treatment period (Study EoE-2 Part B). Subjects in Part A received a weight-based dosing regimen of DUPIXENT or placebo [see Clinical Studies (14.4)].
+All subjects in Part B completed Part A and received active treatment with weight-based dosing regimens of DUPIXENT in Part B (N=47).
+
+The safety profile of DUPIXENT through Week 16 of Study EoE-2 Part A was generally similar to the safety profile in adult and pediatric subjects 12 years of age and older with EoE.
+In Part B, a helminth infection was reported in one DUPIXENT-treated subject.
 
 Prurigo Nodularis
 
@@ -183,11 +194,11 @@ The safety pool included data from the 24-week treatment and 12-week follow-up p
 The proportion of subjects who discontinued treatment due to adverse events was 3% of the placebo group and 0% of the DUPIXENT 300 mg Q2W group.
 
 The safety population had a mean age of 49 years; 65% of subjects were female, 56% were White, 34% were Asian, and 6% were Black or African American.
-Subjects with co-morbid conditions included 43% of subjects with a history of atopy (defined as having a medical history of AD, allergic rhinitis/ rhinoconjunctivitis, asthma, or food allergy), 8% of subjects with a history of hypothyroidism and 9% of subjects with a history of diabetes mellitus type 2.
+Subjects with co-morbid conditions included 43% of subjects with a history of atopy (defined as having a medical history of AD, allergic rhinitis/rhinoconjunctivitis, asthma, or food allergy), 8% of subjects with a history of hypothyroidism and 9% of subjects with a history of diabetes mellitus type 2.
 
-Table 9 summarizes the adverse reactions that occurred at a rate of at least 2% in subjects treated with DUPIXENT and at a higher rate than in their respective comparator group in PRIME and PRIME2.
+Table 10 summarizes the adverse reactions that occurred at a rate of at least 2% in subjects treated with DUPIXENT and at a higher rate than in their respective comparator group in PRIME and PRIME2.
 
-Table 9: Adverse Reactions Occurring in ≥2% of the DUPIXENT Group in PRIME and PRIME2 and Greater than Placebo
+Table 10: Adverse Reactions Occurring in ≥2% of the DUPIXENT Group in PRIME and PRIME2 and Greater than Placebo
 
 | N=152 n (%) | N=157 n (%) |  |
 | --- | --- | --- |
@@ -222,7 +233,8 @@ In subjects with CRSwNP, the frequency of conjunctivitis was 2% in the DUPIXENT 
 In the 52-week CRSwNP study (SINUS-52), the frequency of conjunctivitis was 3% in the DUPIXENT subjects and 1% in the placebo subjects; all of these subjects recovered.
 There were no cases of keratitis reported in the CRSwNP development program [see Warnings and Precautions (5.2)].
 
-Among subjects with EoE, the frequency of conjunctivitis and keratitis was 0% and 0% in the DUPIXENT group and 2% and 0% in the placebo group, respectively.
+Among subjects with EoE, there were no reports of conjunctivitis and keratitis in the DUPIXENT group in placebo-controlled trials [see Warnings and Precautions (5.2)].
+In the 36-week active treatment extension period of Study EoE-2 Part B, conjunctivitis was reported in 4% of DUPIXENT-treated pediatric subjects with EoE.
 
 Among subjects with PN, the frequency of conjunctivitis was 4% in the DUPIXENT group compared to 1% in the placebo group; all of these subjects recovered or were recovering during the treatment period.
 There were no cases of keratitis reported in the PN development program [see Warnings and Precautions (5.2)].
@@ -243,12 +255,11 @@ Among subjects with PN, herpes zoster and ophthalmic herpes zoster were each rep
 Hypersensitivity Reactions
 
 Hypersensitivity reactions were reported in <1% of DUPIXENT-treated subjects.
-These included anaphylaxis, serum sickness or serum sickness-like reactions, generalized urticaria, rash, erythema nodosum, and erythema multiforme [see Contraindications (4), Warnings and Precautions (5.1), and Adverse Reactions (6.2)].
+These included anaphylaxis, serum sickness or serum sickness-like reactions, generalized urticaria, rash, erythema nodosum, and erythema multiforme [see Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.6)].
 
 Eosinophils
 
 DUPIXENT-treated subjects with AD, asthma, and CRSwNP had a greater initial increase from baseline in blood eosinophil count compared to subjects treated with placebo.
-An increase from baseline in blood eosinophil count was not observed in subjects with EoE treated with DUPIXENT as compared to placebo.
 In adult subjects with AD (SOLO 1, SOLO 2, and AD-1021), the mean and median increases in blood eosinophils from baseline to Week 4 were 100 and 0 cells/mcL, respectively.
 In pediatric subjects <6 years old with AD, the mean and median increases from baseline to week 4 were 478 and 90 cells/mcL, respectively.
 
@@ -256,6 +267,9 @@ In adult and pediatric subjects 12 years of age and older with asthma (DRI12544 
 In subjects 6 to 11 years of age with asthma (VOYAGE), the mean and median increases in blood eosinophils from baseline to Week 12 were 124 and 0 cells/mcL, respectively.
 
 In adult subjects with CRSwNP (SINUS-24 and SINUS-52), the mean and median increases in blood eosinophils from baseline to Week 16 were 150 and 50 cells/mcL, respectively.
+
+An increase from baseline in blood eosinophil count was not observed in adult and pediatric subjects 12 years of age and older with EoE treated with DUPIXENT as compared to placebo (Study EoE-1).
+In pediatric subjects 1 to 11 years of age with EoE (Study EoE-2 Part A), blood eosinophil counts were generally consistent with those observed in Study EoE-1.
 
 In subjects with PN (PRIME and PRIME2), the mean and median decrease in blood eosinophils from baseline to Week 4 were 9 and 10 cells/mcL, respectively.
 
@@ -275,47 +289,9 @@ In the 1-year placebo-controlled trial in subjects with AD (CHRONOS), cardiovasc
 In the 24-week placebo-controlled trial in subjects with CRSwNP (SINUS-24), cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) were reported in 1 (0.7%) of the DUPIXENT group and 0 (0.0%) of the placebo group.
 In the 1-year placebo-controlled trial in subjects with CRSwNP (SINUS-52), there were no cases of cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) reported in any treatment arm.
 
-In the 24-week placebo-controlled trial in subjects with EoE (Parts A and B), there were no cases of cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) reported in any treatment arm.
+In the 24-week placebo-controlled trial in subjects with EoE (Study EoE-1 Parts A and B), there were no cases of cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) reported in any treatment arm.
 
-## 6.2 Immunogenicity
-
-As with all therapeutic proteins, there is a potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to dupilumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
-
-Atopic Dermatitis
-
-Approximately 6% of subjects with AD who received DUPIXENT 300 mg Q2W for 52 weeks developed antibodies to DUPIXENT; approximately 2% exhibited persistent ADA responses, and approximately 1% had neutralizing antibodies.
-Similar results were observed in pediatric subjects 6 months to 11 years of age with AD who received either DUPIXENT 200 mg Q2W, 200 mg Q4W, or 300 mg Q4W.
-
-Approximately 16% of pediatric subjects 12 to 17 years of age with AD who received DUPIXENT 300 mg or 200 mg Q2W for 16 weeks developed antibodies to DUPIXENT; approximately 3% exhibited persistent ADA responses, and approximately 5% had neutralizing antibodies.
-
-Asthma
-
-Approximately 5% of subjects with asthma who received DUPIXENT 300 mg Q2W for 52 weeks developed antibodies to DUPIXENT; approximately 2% exhibited persistent ADA responses, and approximately 2% had neutralizing antibodies.
-Similar results were observed in pediatric subjects 6 to 11 years of age with asthma who received either DUPIXENT 100 mg Q2W or 200 mg Q2W up to 52 weeks.
-
-Approximately 9% of subjects with asthma who received DUPIXENT 200 mg Q2W for 52 weeks developed antibodies to DUPIXENT; approximately 4% exhibited persistent ADA responses, and approximately 4% had neutralizing antibodies.
-
-Chronic Rhinosinusitis with Nasal Polyposis
-
-Approximately 5% of subjects with CRSwNP who received DUPIXENT 300 mg Q2W for 52 weeks developed antibodies to DUPIXENT; approximately 2% exhibited persistent ADA responses, and approximately 3% had neutralizing antibodies.
-
-Eosinophilic Esophagitis
-
-Approximately 1% of subjects with EoE who received DUPIXENT 300 mg QW for 24 weeks developed antibodies to DUPIXENT.
-
-Prurigo Nodularis
-
-Approximately 8% of subjects with PN who received DUPIXENT 300 mg Q2W for 24 weeks developed antibodies to DUPIXENT; approximately 1% exhibited persistent ADA responses, and approximately 3% had neutralizing antibodies.
-
-The antibody titers detected in subjects who received DUPIXENT were mostly low.
-In subjects who received DUPIXENT, development of high titer antibodies to DUPIXENT was associated with lower serum dupilumab concentrations [see Clinical Pharmacology (12.3)].
-
-Two adult subjects with AD who experienced high titer antibody responses developed serum sickness or serum sickness-like reactions during DUPIXENT therapy [see Warnings and Precautions (5.1)].
-
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of DUPIXENT.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
