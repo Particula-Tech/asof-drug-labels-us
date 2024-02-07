@@ -33,8 +33,8 @@ The terminal half-life (t1/2) is 22 days (32%).
 
 Specific Populations
 
-The following factors had no clinically important effect on the CL of pembrolizumab: age (range: 15 to 94 years), sex, race (89% White), renal impairment (eGFR ≥ 15 mL/min/1.73 m2), mild hepatic impairment (total bilirubin ≤ upper limit of normal (ULN) and AST > ULN or total bilirubin between 1 and 1.5 times ULN and any AST), or tumor burden.
-The impact of moderate or severe hepatic impairment on the pharmacokinetics of pembrolizumab is unknown.
+The following factors had no clinically important effect on the CL of pembrolizumab: age (range: 15 to 94 years), sex, race (89% White), renal impairment (eGFR ≥15 mL/min/1.73 m2), mild to moderate hepatic impairment (total bilirubin ≤3 times ULN and any AST), or tumor burden.
+The impact of severe hepatic impairment (total bilirubin >3 times ULN and any AST) on the pharmacokinetics of pembrolizumab is unknown.
 
 Pediatric Patients: Pembrolizumab concentrations with weight-based dosing at 2 mg/kg every 3 weeks in pediatric patients (10 months to 17 years) are comparable to those of adults at the same dose.
 

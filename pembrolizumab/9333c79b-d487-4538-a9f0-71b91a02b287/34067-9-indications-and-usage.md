@@ -89,10 +89,7 @@ KEYTRUDA, as a single agent, is indicated for the treatment of patients with rec
 
 ## 1.12 Hepatocellular Carcinoma
 
-KEYTRUDA is indicated for the treatment of patients with hepatocellular carcinoma (HCC) who have been previously treated with sorafenib.
-
-This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.12)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+KEYTRUDA is indicated for the treatment of patients with hepatocellular carcinoma (HCC) secondary to hepatitis B who have received prior systemic therapy other than a PD-1/PD-L1-containing regimen.
 
 ## 1.13 Biliary Tract Cancer
 
