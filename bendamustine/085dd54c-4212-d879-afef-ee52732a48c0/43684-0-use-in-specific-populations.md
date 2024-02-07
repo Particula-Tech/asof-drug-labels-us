@@ -14,9 +14,9 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Data
 
-Animal Data
+Animal data
 
-Bendamustine hydrochloride was intraperitoneally administered once to mice from 210 mg/m2 (approximately 1.8 times the MRHD) during organogenesis and caused an increase in resorptions, skeletal and visceral malformations (exencephaly, cleft palates, accessory rib, and spinal deformities), and decreased fetal body weights.
+Bendamustine hydrochloride was intraperitoneally administered once to mice from 210 mg/m2 (approximately 1.8 times the MRHD) during organogenesis and caused an increase in resorptions, skeletal and visceral malformations (exencephaly, cleft palates, accessory rib, and spinal deformities) and decreased fetal body weights.
 This dose did not appear to be maternally toxic and lower doses were not evaluated.
 Repeat intraperitoneal administration of bendamustine hydrochloride in mice on gestation days 7 to 11 resulted in an increase in resorptions from 75 mg/m2 (approximately 0.6 times the MRHD) and an increase in abnormalities from 112.5 mg/m2 (approximately 0.9 times the MRHD), similar to those seen after a single intraperitoneal administration.
 
@@ -28,7 +28,7 @@ A significant increase in external (effect on tail, head, and herniation of exte
 Risk Summary
 
 There are no data on the presence of bendamustine hydrochloride or its metabolites in either human or animal milk, the effects on the breastfed child, or the effects on milk production.
-Because of the potential for serious adverse reactions in the breastfed child, advise women not to breastfeed during treatment with bendamustine hydrochloride injection, and for 1 week after the last dose.
+Because of the potential for serious adverse reactions in the breastfed child, advise patients that breastfeeding is not recommended during treatment with bendamustine hydrochloride injection, and for 1 week after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -52,7 +52,7 @@ Infertility
 
 Based on findings from clinical studies, bendamustine hydrochloride injection may impair male fertility.
 Impaired spermatogenesis, azoospermia, and total germinal aplasia have been reported in male patients treated with alkylating agents, especially in combination with other drugs.
-In some instances spermatogenesis may return in patients in remission, but this may occur only several years after intensive chemotherapy has been discontinued.
+In some instances, spermatogenesis may return in patients in remission, but this may occur only several years after intensive chemotherapy has been discontinued.
 Advise patients of the potential risk to their reproductive capacities.
 
 Based on findings from animal studies, bendamustine hydrochloride injection may impair male fertility due to an increase in morphologically abnormal spermatozoa.

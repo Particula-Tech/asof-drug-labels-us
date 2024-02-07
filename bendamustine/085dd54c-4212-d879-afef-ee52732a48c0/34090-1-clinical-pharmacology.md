@@ -16,7 +16,7 @@ Based on the pharmacokinetics/pharmacodynamics analyses of data from adult NHL p
 Cardiac Electrophysiology
 
 The effect of bendamustine on the QTc interval was evaluated in 53 patients with indolent NHL and mantle cell lymphoma on Day 1 of Cycle 1 after administration of rituximab at 375 mg/m2 intravenous infusion followed by a 30-minute intravenous infusion of bendamustine at 90 mg/m2/day.
-No mean changes greater than 20 milliseconds were detected up to one-hour post-infusion.
+No mean changes greater than 20 milliseconds were detected up to one hour post infusion.
 The potential for delayed effects on the QT interval after one hour was not evaluated.
 
 ## 12.3 Pharmacokinetics
@@ -36,7 +36,7 @@ The mean steady-state volume of distribution (Vss) of bendamustine was approxima
 Elimination
 
 After a single intravenous dose of 120 mg/m2 of bendamustine over 1 hour, the intermediate half-life (t½) of the parent compound is approximately 40 minutes.
-The mean terminal elimination t½ of two active metabolites, γhydroxybendamustine (M3) and N-desmethylbendamustine (M4) are approximately 3 hours and 30 minutes, respectively.
+The mean terminal elimination t½ of two active metabolites, γ-hydroxybendamustine (M3) and N-desmethylbendamustine (M4) are approximately 3 hours and 30 minutes, respectively.
 Bendamustine clearance in humans is approximately 700 mL/min.
 
 Metabolism

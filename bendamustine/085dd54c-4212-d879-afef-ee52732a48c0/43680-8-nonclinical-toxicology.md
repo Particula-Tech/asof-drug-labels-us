@@ -3,7 +3,7 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Bendamustine was carcinogenic in mice.
-After intraperitoneal injections at 37.5 mg/m2/day (the lowest dose tested, approximately 0.3 times the maximum recommended human dose [MRHD])) and 75 mg/m2/day (approximately 0.6 times the MRHD) for 4 days, peritoneal sarcomas in female AB/jena mice were produced.
+After intraperitoneal injections at 37.5 mg/m2/day (the lowest dose tested, approximately 0.3 times the maximum recommended human dose [MRHD]) and 75 mg/m2/day (approximately 0.6 times the MRHD) for 4 days, peritoneal sarcomas in female AB/jena mice were produced.
 Oral administration at 187.5 mg/m2/day (the only dose tested, approximately 1.6 times the MRHD) for 4 days induced mammary carcinomas and pulmonary adenomas.
 
 Bendamustine is a mutagen and clastogen.

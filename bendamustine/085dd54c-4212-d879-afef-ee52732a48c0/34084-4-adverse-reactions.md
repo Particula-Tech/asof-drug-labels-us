@@ -35,7 +35,7 @@ Table 3: Non-Hematologic Adverse Reactions Occurring in at Least 5% of NHL Patie
 | Total number of patients with at least 1 adverse reaction | 176 (100) | 94 (53) |
 | Cardiac disorders |  |  |
 | Tachycardia | 13 (7) | 0 |
-| Gastrointestinal disorders |  |  |
+| Gastrointestinal Disorders |  |  |
 | Nausea | 132 (75) | 7 (4) |
 | Vomiting | 71 (40) | 5 (3) |
 | Diarrhea | 65 (37) | 6 (3) |
@@ -82,7 +82,7 @@ Table 3: Non-Hematologic Adverse Reactions Occurring in at Least 5% of NHL Patie
 | Headache | 36 (21) | 0 |
 | Dizziness | 25 (14) | 0 |
 | Dysgeusia | 13 (7) | 0 |
-| Psychiatric disorders |  |  |
+| Psychiatric disorder |  |  |
 | Insomnia | 23 (13) | 0 |
 | Anxiety | 14 (8) | 1 (<1) |
 | Depression | 10 (6) | 0 |
@@ -121,7 +121,7 @@ Table 4: Incidence of Hematology Laboratory Abnormalities in Patients Who Receiv
 
 In both studies, serious adverse reactions, regardless of causality, were reported in 37% of patients receiving bendamustine hydrochloride.
 The most common serious adverse reactions occurring in ≥5% of patients were febrile neutropenia and pneumonia.
-Other important serious adverse reactions reported in clinical trials and/or postmarketing experience were acute renal failure, cardiac failure, hypersensitivity, skin reactions, pulmonary fibrosis, and myelodysplastic syndrome.
+Other important serious adverse reactions reported in clinical trials and/or post-marketing experience were acute renal failure, cardiac failure, hypersensitivity, skin reactions, pulmonary fibrosis, and myelodysplastic syndrome.
 
 Serious drug-related adverse reactions reported in clinical trials included myelosuppression, infection, pneumonia, tumor lysis syndrome and infusion reactions.
 Adverse reactions occurring less frequently but possibly related to bendamustine hydrochloride treatment were hemolysis, dysgeusia/taste disorder, atypical pneumonia, sepsis, herpes zoster, erythema, dermatitis, and skin necrosis.
@@ -140,6 +140,8 @@ General disorders and administration site conditions: Injection site reactions (
 Immune system disorders: Anaphylaxis
 
 Infections and infestations: Pneumocystis jirovecii pneumonia, progressive multifocal leukoencephalopathy (PML)
+
+Renal and urinary disorders: Nephrogenic diabetes insipidus (NDI)
 
 Respiratory, thoracic and mediastinal disorders: Pneumonitis
 

@@ -61,8 +61,8 @@ Advise males of reproductive potential that bendamustine hydrochloride injection
 | Manufactured by: | Manufactured for: |
 | --- | --- |
 | MSN Laboratories Private Limited, India | Apotex Corp. |
-| ML No. 5/MN/TS/2014/F/G | Weston, Florida 33326 |
+| ML No. 5/MN/TS/2014/F/G | Weston, Florida USA 33326 |
 
-January 2024
+Revised: February 2024
 
-Rev 1
+Rev 2

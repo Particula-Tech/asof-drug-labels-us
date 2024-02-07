@@ -2,7 +2,7 @@
 
 ## 5.1 Myelosuppression
 
-Bendamustine hydrochloride caused severe myelosuppression (Grade 3 to 4) in 98% of patients in the two NHL studies [Adverse Reactions (6.1)].
+Bendamustine hydrochloride caused severe myelosuppression (Grade 3 to 4) in 98% of patients in the two NHL studies [see Adverse Reactions (6.1)].
 Three patients (2%) died from myelosuppression-related adverse reactions; one each from neutropenic sepsis, diffuse alveolar hemorrhage with Grade 3 thrombocytopenia, and pneumonia from an opportunistic infection (CMV).
 
 Bendamustine hydrochloride injection causes myelosuppression.
@@ -15,7 +15,7 @@ Prior to the initiation of the next cycle of therapy, the ANC should be ≥ 1 x 
 
 ## 5.2 Infections
 
-Infection, including pneumonia, sepsis, septic shock, hepatitis and death has occurred in adult and pediatric patients in clinical trials and in postmarketing reports for bendamustine hydrochloride [see Adverse Reactions (6.1)].
+Infection, including pneumonia, sepsis, septic shock, hepatitis and death has occurred in adult and pediatric patients in clinical trials and in postmarketing reports for bendamustine hydrochloride [see Adverse Reactions (6.1, 6.2)].
 Patients with myelosuppression following treatment with bendamustine hydrochloride are more susceptible to infections.
 Advise patients with myelosuppression following bendamustine hydrochloride injection treatment to contact a physician immediately if they have symptoms or signs of infection.
 
@@ -43,7 +43,7 @@ Consider discontinuation for Grade 3 infusion reactions as clinically appropriat
 
 ## 5.5 Tumor Lysis Syndrome
 
-Tumor lysis syndrome associated with bendamustine hydrochloride has occurred in patients in clinical trials and in postmarketing reports [see Adverse Reactions (6.1)].
+Tumor lysis syndrome associated with bendamustine hydrochloride has occurred in patients in clinical trials and in post-marketing reports [see Adverse Reactions (6.1)].
 The onset tends to be within the first treatment cycle of bendamustine hydrochloride and, without intervention, may lead to acute renal failure and death.
 Preventive measures include vigorous hydration and close monitoring of blood chemistry, particularly potassium and uric acid levels.
 Allopurinol has also been used during the beginning of bendamustine hydrochloride therapy.
@@ -60,7 +60,7 @@ If skin reactions are severe or progressive, withhold or discontinue bendamustin
 
 ## 5.7 Hepatotoxicity
 
-Fatal and serious cases of liver injury have been reported with bendamustine hydrochloride.
+Fatal and serious cases of liver injury have been reported with bendamustine hydrochloride injection [see Adverse Reactions (6.1)].
 Combination therapy, progressive disease or reactivation of hepatitis B were confounding factors in some patients [see Warnings and Precautions (5.2)].
 Most cases were reported within the first three months of starting therapy.
 Monitor liver chemistry tests prior to and during bendamustine hydrochloride injection therapy.
@@ -83,4 +83,4 @@ Based on findings from animal reproduction studies and the drug’s mechanism of
 Single intraperitoneal doses of bendamustine (that approximated the maximum recommended human dose based on body surface area) to pregnant mice and rats during organogenesis caused adverse developmental outcomes, including an increase in resorptions, skeletal and visceral malformations, and decreased fetal body weights.
 Advise pregnant women of the potential risk to a fetus.
 Advise females of reproductive potential to use an effective method of contraception during treatment with bendamustine hydrochloride injection and for 6 months after the last dose.
-Advise males with female partners of reproductive potential to use effective contraception during treatment with bendamustine hydrochloride injection and for 3 months after the last dose [see Use in Specific Populations (8.1, 8.3) and Clinical Pharmacology (12.1)]
+Advise males with female partners of reproductive potential to use effective contraception during treatment with bendamustine hydrochloride injection and for 3 months after the last dose [see Use in Specific Populations (8.1, 8.3) and Clinical Pharmacology (12.1)].
