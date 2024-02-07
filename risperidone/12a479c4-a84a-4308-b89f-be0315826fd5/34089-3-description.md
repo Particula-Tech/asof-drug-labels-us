@@ -11,4 +11,4 @@ It is practically insoluble in water, freely soluble in methylene chloride, and 
 Risperidone Tablets, USP are available in 0.25 mg (light orange), 0.5 mg (orange), 1 mg (white), 2 mg (white), 3 mg (white), and 4 mg (white) strengths.
 
 Each tablet for oral administration contains the following inactive ingredients: corn starch, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, sodium starch glycolate and titanium dioxide.
-In addition the 0.25 mg and 0.5 mg also contains FD&C yellow #6; the 1 mg, 2 mg, 3 mg and 4 mg contains purified water.
+In addition the 0.25 mg and 0.5 mg also contain FD&C yellow #6.

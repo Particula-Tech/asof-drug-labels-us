@@ -68,6 +68,6 @@ The effects on fertility are reversible [see Use in Specific Populations (8.3)].
 Manufactured for: Chartwell RX, LLC Congers, NY 10920
 
 Rev.
-12/2023
+02/2024
 
 L71710
