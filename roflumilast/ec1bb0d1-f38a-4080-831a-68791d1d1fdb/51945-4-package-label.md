@@ -2,7 +2,7 @@
 
 NDC 80610-130-60
 
-ZORYVE™ (roflumilast) cream 0.3%
+ZORYVE® (roflumilast) cream 0.3%
 
 For Topical Use Only Not for oral, ophthalmic, or intravaginal use
 

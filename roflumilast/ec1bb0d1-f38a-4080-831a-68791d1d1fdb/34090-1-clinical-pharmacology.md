@@ -65,7 +65,7 @@ Drug Interaction Studies
 
 Clinical Studies
 
-Since a major step in roflumilast metabolism is the N-oxidation of roflumilast to roflumilast N-oxide by CYP3A4 and CYP1A2, drug interaction studies were performed with oral roflumilast and systemic inhibitors of CYP3A4 and CYP1A2 [see Drug Interactions (7.1)].
+Since a major step in roflumilast metabolism is the N-oxidation of roflumilast to roflumilast N-oxide by CYP3A4 and CYP1A2, drug interaction studies were performed with oral roflumilast and systemic inhibitors of CYP3A4 and CYP1A2 [see Drug Interactions (7)].
 
 Erythromycin: In an open-label crossover study in 16 healthy volunteers, the co-administration of CYP3A4 inhibitor erythromycin (500 mg 3 times daily for 13 days) with a single oral dose of 500 mcg roflumilast resulted in 40% and 70% increase in Cmax and AUC for roflumilast, respectively, and a 34% decrease and a 4% increase in Cmax and AUC for roflumilast N-oxide, respectively.
 
@@ -77,9 +77,6 @@ Enoxacin: In an open-label crossover study in 16 healthy volunteers, the co-admi
 Roflumilast N-oxide Cmax was decreased by 14% while roflumilast N-oxide AUC was increased by 23%.
 
 Cimetidine: In an open-label crossover study in 16 healthy volunteers, the co-administration of a dual CYP 3A4/1A2 inhibitor cimetidine (400 mg twice daily for 7 days) with a single oral dose of 500 mcg roflumilast resulted in a 46% and 85% increase in roflumilast Cmax and AUC; and a 4% decrease in Cmax and 27% increase in AUC for roflumilast N-oxide, respectively.
-
-Oral contraceptives containing gestodene and ethinyl estradiol: In an open-label crossover study in 20 healthy adult volunteers, co-administration of a single oral dose of roflumilast with repeated doses of a fixed combination oral contraceptive containing 0.075 mg gestodene and 0.03 mg ethinyl estradiol to steady state caused a 38% increase and 12% decrease in Cmax of roflumilast and roflumilast N-oxide, respectively.
-Roflumilast and roflumilast N-oxide AUCs were increased by 51% and 14%, respectively.
 
 In Vitro Studies
 

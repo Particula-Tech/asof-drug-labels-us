@@ -5,10 +5,10 @@
 Risk Summary
 
 There are insufficient data available on the use of ZORYVE cream in pregnant women to inform a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
-In animal reproduction studies, roflumilast administered orally to pregnant rats and rabbits during the period of organogenesis produced no fetal structural abnormalities at doses up to 9 and 8 times the maximum recommended human dose (MRHD), respectively.
-Roflumilast induced post-implantation loss in rats at oral doses greater than or equal to 3 times the MRHD.
-Roflumilast induced stillbirth and decreased pup viability in mice at oral doses 5 and 15 times the MRHD, respectively.
-Roflumilast has been shown to adversely affect pup post-natal development when dams were treated with an oral dose 15 times the MRHD during pregnancy and lactation periods in mice (see Data).
+In animal reproduction studies, roflumilast administered orally to pregnant rats and rabbits during the period of organogenesis produced no fetal structural abnormalities at doses up to 36 and 31 times the maximum recommended human dose (MRHD), respectively.
+Roflumilast induced post-implantation loss in rats at oral doses greater than or equal to 12 times the MRHD.
+Roflumilast induced stillbirth and decreased pup viability in mice at oral doses 19 and 59 times the MRHD, respectively.
+Roflumilast has been shown to adversely affect pup post-natal development when dams were treated with an oral dose 59 times the MRHD during pregnancy and lactation periods in mice (see Data).
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
@@ -24,22 +24,22 @@ Data
 
 Animal data
 
-In an embryo-fetal development study, pregnant rats were dosed orally during the period of organogenesis with up to 1.8 mg/kg/day roflumilast (9 times the MRHD on a mg/m2 basis).
+In an embryo-fetal development study, pregnant rats were dosed orally during the period of organogenesis with up to 1.8 mg/kg/day roflumilast (36 times the MRHD on a mg/m2 basis).
 No evidence of structural abnormalities or effects on survival rates were observed.
-Roflumilast did not affect embryo-fetal development at a maternal oral dose of 0.2 mg/kg/day (equivalent to the MRHD on a mg/m2 basis).
+Roflumilast did not affect embryo-fetal development at a maternal oral dose of 0.2 mg/kg/day (4 times the MRHD on a mg/m2 basis).
 
 In a fertility and embryo-fetal development study, male rats were dosed orally with up to 1.8 mg/kg/day roflumilast for 10 weeks and females for 2 weeks prior to pairing and throughout the organogenesis period.
-Roflumilast induced pre- and post-implantation loss at maternal oral doses greater than or equal to 0.6 mg/kg/day (3 times the MRHD on a mg/m2 basis).
-Roflumilast did not cause fetal structural abnormalities at maternal oral doses up to 1.8 mg/kg/day (9 times the MRHD on a mg/m2 basis).
+Roflumilast induced pre- and post-implantation loss at maternal oral doses greater than or equal to 0.6 mg/kg/day (12 times the MRHD on a mg/m2 basis).
+Roflumilast did not cause fetal structural abnormalities at maternal oral doses up to 1.8 mg/kg/day (35 times the MRHD on a mg/m2 basis).
 
 In an embryo-fetal development study in rabbits, pregnant does were dosed orally with 0.8 mg/kg/day roflumilast during the period of organogenesis.
-Roflumilast did not cause fetal structural abnormalities at the maternal oral doses of 0.8 mg/kg/day (8 times the MRHD on a mg/m2 basis).
+Roflumilast did not cause fetal structural abnormalities at the maternal oral doses of 0.8 mg/kg/day (31 times the MRHD on a mg/m2 basis).
 
 In pre- and post-natal developmental studies in mice, dams were dosed orally with up to 12 mg/kg/day roflumilast during the period of organogenesis and lactation.
-Roflumilast induced stillbirth and decreased pup viability at maternal oral doses greater than 2 mg/kg/day and 6 mg/kg/day, respectively (5 and 15 times the MRHD on a mg/m2 basis, respectively).
-Roflumilast induced delivery retardation in pregnant mice at maternal oral doses greater than 2 mg/kg/day (5 times the MRHD on a mg/m2 basis).
-Roflumilast decreased pup rearing frequencies at a maternal oral dose of 6 mg/kg/day during pregnancy and lactation (15 times the MRHD on a mg/m2 basis).
-Roflumilast also decreased survival and forelimb grip reflex and delayed pinna detachment in mouse pups at a maternal oral dose of 12 mg/kg/day (29 times the MRHD on a mg/m2 basis).
+Roflumilast induced stillbirth and decreased pup viability at maternal oral doses greater than 2 mg/kg/day and 6 mg/kg/day, respectively (19 and 59 times the MRHD on a mg/m2 basis, respectively).
+Roflumilast induced delivery retardation in pregnant mice at maternal oral doses greater than 2 mg/kg/day (19 times the MRHD on a mg/m2 basis).
+Roflumilast decreased pup rearing frequencies at a maternal oral dose of 6 mg/kg/day during pregnancy and lactation (59 times the MRHD on a mg/m2 basis).
+Roflumilast also decreased survival and forelimb grip reflex and delayed pinna detachment in mouse pups at a maternal oral dose of 12 mg/kg/day (116 times the MRHD on a mg/m2 basis).
 
 ## 8.2 Lactation
 
@@ -69,7 +69,7 @@ The safety and effectiveness of ZORYVE cream for the treatment of plaque psorias
 Use of ZORYVE cream in pediatric patients 6 to less than 18 years of age is supported by data from two 8-week, vehicle-controlled safety and efficacy trials which included 18 pediatric subjects 6 to 17 years of age, of whom 11 received ZORYVE cream.
 Use of ZORYVE cream in pediatric patients 12 to 17 years of age is also supported by data from open-label trials of 2 and 24 weeks duration which included 18 pediatric subjects 12 to 17 years of age treated with ZORYVE cream.
 Use of ZORYVE cream in pediatric patients 6 to less than 12 years of age is also supported by data from one 4-week, open-label, safety and pharmacokinetic (PK) study which included 20 pediatric subjects 6 to less than 12 years of age.
-The adverse reaction profile in subjects 6 to less than 18 years of age was consistent with that observed in adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
+The adverse reaction profile in subjects 6 to less than 18 years of age was consistent with that observed in adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14)].
 
 The safety and effectiveness of ZORYVE cream in pediatric patients below the age of 6 years have not been established.
 
@@ -84,4 +84,4 @@ Based on available data for roflumilast, no adjustment of dosage in geriatric pa
 
 Oral roflumilast 250 mcg once daily for 14 days was studied in subjects with hepatic impairment.
 The systemic exposure of roflumilast and roflumilast N-oxide were increased in subjects with moderate (Child-Pugh B) hepatic impairment.
-ZORYVE cream is contraindicated in patients with moderate to severe liver impairment (Child-Pugh B or C). No dosage adjustment is needed in patients with mild (Child-Pugh A) hepatic impairment [see Contraindications (4) and Clinical Pharmacology (12.3)].
+ZORYVE cream is contraindicated in patients with moderate to severe liver impairment (Child-Pugh B or C). No dosage adjustment is needed in patients with mild (Child-Pugh A) hepatic impairment [see Contraindications (4), Clinical Pharmacology (12.3)].
