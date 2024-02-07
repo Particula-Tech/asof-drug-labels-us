@@ -20,9 +20,11 @@ Baseline WHO performance status was 0 (64%) or 1 (36%); 31% had stage IB, 35% II
 With regard to EGFR mutation status, 55% were exon 19 deletions and 45% were exon 21 L858R mutations.
 The majority (60%) of patients received adjuvant chemotherapy prior to randomization (27% IB; 70% II, 79% IIIA).
 
-ADAURA demonstrated a statistically significant and clinically meaningful difference in DFS for patients treated with TAGRISSO compared to patients treated with placebo.
-Overall survival (OS) data were not mature at the time of the DFS analysis with 27% of the 94 deaths required for the final analysis of OS in patients with stage II-IIIA disease.
-Efficacy results from ADAURA are summarized in Table 8 and Figure 1, respectively.
+ADAURA demonstrated a statistically significant difference in DFS for patients treated with TAGRISSO compared to patients treated with placebo.
+The final analysis of OS demonstrated a statistically significant improvement in OS for patients treated with TAGRISSO compared to patients treated with placebo.
+Median OS was not reached in either arm.
+In the overall population (IB-IIIA), the median follow-up time was 61.5 months in both treatment arms.
+Efficacy results from ADAURA are summarized in Table 8 and Figures 1 and 2, respectively.
 
 Table 8.
 Efficacy Results in ADAURA according to Investigator Assessment
@@ -30,16 +32,24 @@ Efficacy Results in ADAURA according to Investigator Assessment
 |  | STAGE II-IIIA POPULATION |  | STAGE IB-IIIA POPULATION |  |
 | --- | --- | --- | --- | --- |
 | Efficacy Parameter | TAGRISSO (N=233) | PLACEBO (N=237) | TAGRISSO (N=339) | PLACEBO (N=343) |
+| Disease-Free Survival (DFS) |  |  |  |  |
 | DFS events (%) | 26 (11) | 130 (55) | 37 (11) | 159 (46) |
 | Recurrent disease (%) | 26 (11) | 129 (54) | 37 (11) | 157 (46) |
 | Deaths (%) | 0 | 1 (0.4) | 0 | 2 (0.6) |
 | Median DFS, months (95% CI) | NR (38.8, NE) | 19.6 (16.6, 24.5) | NR (NE, NE) | 27.5 (22.0, 35.0) |
 | Hazard ratio (95% CI)Stratified by race (Asian vs non-Asian), mutation status (Ex19del vs L858R), and pTNM stagingPike estimator | 0.17 (0.12, 0.23) |  | 0.20 (0.15, 0.27) |  |
 | p-valueStratified log-rank test | <0.0001 |  | <0.0001 |  |
-| DFS results based on investigator assessmentCI=Confidence Interval; NE=Not Estimable; NR=Not Reached |  |  |  |  |
+| Overall Survival (OS) |  |  |  |  |
+| Number of deaths (%) | 35 (15) | 65 (27) | 42 (12) | 82 (24) |
+| Hazard Ratio (95% CI) | 0.49 (0.33, 0.73) |  | 0.49 (0.34, 0.70) |  |
+| p-value | 0.0004 |  | <0.0001 |  |
+| DFS results based on investigator assessment.CI=Confidence Interval; NE=Not Estimable; NR=Not Reached |  |  |  |  |
 
 Figure 1.
-Kaplan-Meier curve of disease-free survival (overall population) by Investigator Assessment in ADAURA
+Kaplan-Meier Curves of Disease-Free Survival (Overall Population) by Investigator Assessment in ADAURA
+
+Figure 2.
+Kaplan-Meier Curves of Overall Survival (Overall Population) in ADAURA
 
 In an exploratory analysis of site(s) of relapse, the proportion of patients with CNS involvement at the time of disease recurrence was 5 patients (1.5%) on the TAGRISSO arm and 34 patients (10%) on the placebo arm.
 
@@ -64,9 +74,8 @@ EGFR mutation status was confirmed centrally using the cobas® EGFR Mutation Tes
 At the time of the final data cut-off, of those randomized to TAGRISSO and to investigator’s choice erlotinib or gefitinib arm, 133 (48%) and 180 (65%) patients had received at least one subsequent treatment, respectively.
 Out of the 180 patients randomized to erlotinib or gefitinib who received subsequent treatment, 85 (47%) patients received TAGRISSO as first subsequent therapy.
 
-FLAURA demonstrated a statistically significant improvement in PFS for patients randomized to TAGRISSO as compared to erlotinib or gefitinib (see Table 9 and Figure 2).
-The final analysis of overall survival demonstrated a statistically significant improvement in overall survival in patients randomized to TAGRISSO compared to erlotinib or gefitinib.
-(see Table 9 and Figure 3).
+FLAURA demonstrated a statistically significant improvement in PFS for patients randomized to TAGRISSO as compared to erlotinib or gefitinib (see Table 9 and Figure 3).
+The final analysis of overall survival demonstrated a statistically significant improvement in overall survival in patients randomized to TAGRISSO compared to erlotinib or gefitinib (see Table 9 and Figure 4).
 
 Table 9.
 Efficacy Results in FLAURA according to Investigator Assessment
@@ -92,12 +101,12 @@ Efficacy Results in FLAURA according to Investigator Assessment
 | Duration of Response (DoR) |  |  |
 | Median in months (95% CI) | 17.6 (13.8, 22.0) | 9.6 (8.3, 11.1) |
 
-Figure 2.
+Figure 3.
 Kaplan-Meier Curves of PFS by Investigator Assessment in FLAURA
 
 In a supportive analysis of PFS according to blinded independent central review, median PFS was 17.7 months in the TAGRISSO arm compared to 9.7 months in the EGFR TKI comparator arm (HR=0.45; 95% CI: 0.36, 0.57).
 
-Figure 3.
+Figure 4.
 Kaplan-Meier Curves of Overall Survival in FLAURA
 
 Of 556 patients, 200 patients (36%) had baseline brain scans reviewed by BICR; this included 106 patients in the TAGRISSO arm and 94 patients in the investigator choice of EGFR TKI arm.
@@ -136,7 +145,7 @@ The baseline demographic and disease characteristics of the overall trial popula
 Fifty-four percent (54%) of patients had extra-thoracic visceral metastases, including 34% with central nervous system (CNS) metastases (including 11% with measurable CNS metastases) and 23% with liver metastases.
 Forty-two percent (42%) of patients had metastatic bone disease.
 
-In AURA3, there was a statistically significant improvement in PFS in the patients randomized to TAGRISSO compared to chemotherapy (see Table 11 and Figure 4).
+In AURA3, there was a statistically significant improvement in PFS in the patients randomized to TAGRISSO compared to chemotherapy (see Table 11 and Figure 5).
 No statistically significant difference was observed between the treatment arms at final OS analysis.
 At the time of the final OS analysis, 99 patients (71%) randomized to chemotherapy had crossed over to TAGRISSO treatment.
 
@@ -165,7 +174,7 @@ Efficacy Results According to Investigator Assessment in AURA3
 | Duration of Response (DoR) |  |  |  |
 | Median in months (95% CI) | 11.0 (8.6, 12.6) |  | 4.2 (3.0, 5.9) |
 
-Figure 4.
+Figure 5.
 Kaplan-Meier Curves of PFS by Investigator Assessment in AURA3
 
 In a supportive analysis of PFS according to blinded independent central review, median PFS was 11 months in the TAGRISSO arm compared to 4.2 months in the chemotherapy arm (HR 0.28; 95% CI: 0.20, 0.38).

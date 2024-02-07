@@ -54,4 +54,4 @@ Distributed by: AstraZeneca Pharmaceuticals LP Wilmington, DE 19850
 
 TAGRISSO is a registered trademark of the AstraZeneca group of companies.
 
-©AstraZeneca 2023
+©AstraZeneca 2024

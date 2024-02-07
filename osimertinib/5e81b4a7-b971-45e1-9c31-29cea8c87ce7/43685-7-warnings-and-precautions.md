@@ -5,7 +5,7 @@
 Interstitial lung disease (ILD)/pneumonitis occurred in 3.8% of the 1479 TAGRISSO-treated patients; 0.3% of cases were fatal.
 
 Withhold TAGRISSO and promptly investigate for ILD in patients who present with worsening of respiratory symptoms which may be indicative of ILD (e.g., dyspnea, cough and fever).
-Permanently discontinue TAGRISSO if ILD/pneumonitis is confirmed [see Dosage and Administration (2.4) and Adverse Reactions (6.1)].
+Permanently discontinue TAGRISSO if ILD/pneumonitis is confirmed [see Dosage and Administration (2.5) and Adverse Reactions (6.1)].
 
 ## 5.2 QTc Interval Prolongation
 
@@ -15,7 +15,7 @@ No QTc-related arrhythmias were reported.
 
 Clinical trials of TAGRISSO did not enroll patients with baseline QTc of > 470 msec.
 Conduct periodic monitoring with ECGs and electrolytes in patients with congenital long QTc syndrome, congestive heart failure, electrolyte abnormalities, or those who are taking medications known to prolong the QTc interval.
-Permanently discontinue TAGRISSO in patients who develop QTc interval prolongation with signs/symptoms of life-threatening arrhythmia [see Dosage and Administration (2.4)].
+Permanently discontinue TAGRISSO in patients who develop QTc interval prolongation with signs/symptoms of life-threatening arrhythmia [see Dosage and Administration (2.5)].
 
 ## 5.3 Cardiomyopathy
 
@@ -26,7 +26,7 @@ In the ADAURA study, 1.5% (5/325) of patients treated with TAGRISSO experienced 
 
 Conduct cardiac monitoring, including assessment of LVEF at baseline and during treatment, in patients with cardiac risk factors.
 Assess LVEF in patients who develop relevant cardiac signs or symptoms during treatment.
-For symptomatic congestive heart failure, permanently discontinue TAGRISSO [see Dosage and Administration (2.4)].
+For symptomatic congestive heart failure, permanently discontinue TAGRISSO [see Dosage and Administration (2.5)].
 
 ## 5.4 Keratitis
 
@@ -50,7 +50,7 @@ Aplastic anemia has been reported in patients treated with TAGRISSO in clinical 
 Some cases had a fatal outcome.
 Inform patients of the signs and symptoms of aplastic anemia including but not limited to, new or persistent fevers, bruising, bleeding, and pallor.
 If aplastic anemia is suspected, withhold TAGRISSO and obtain a hematology consultation.
-If aplastic anemia is confirmed, permanently discontinue TAGRISSO [see Dosage and Administration (2.4)].
+If aplastic anemia is confirmed, permanently discontinue TAGRISSO [see Dosage and Administration (2.5)].
 
 Perform complete blood count with differential before starting TAGRISSO, periodically throughout treatment, and more frequently if indicated.
 

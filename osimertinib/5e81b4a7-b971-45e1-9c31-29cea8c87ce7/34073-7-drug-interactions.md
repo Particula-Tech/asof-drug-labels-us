@@ -8,7 +8,7 @@ Co-administering TAGRISSO with a strong CYP3A4 inducer decreased the exposure of
 Decreased osimertinib exposure may lead to reduced efficacy.
 
 Avoid co-administering TAGRISSO with strong CYP3A inducers.
-Increase the TAGRISSO dosage when co-administering with a strong CYP3A4 inducer if concurrent use is unavoidable [see Dosage and Administration (2.4)].
+Increase the TAGRISSO dosage when co-administering with a strong CYP3A4 inducer if concurrent use is unavoidable [see Dosage and Administration (2.5)].
 No dose adjustments are required when TAGRISSO is used with moderate and/or weak CYP3A inducers.
 
 ## 7.2 Effect of Osimertinib on Other Drugs

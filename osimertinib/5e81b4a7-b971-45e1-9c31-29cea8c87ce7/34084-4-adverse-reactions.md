@@ -52,7 +52,7 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in ADAURANC
 | Dry skinIncludes dry skin, skin fissures, xerosis, eczema, xeroderma. | 29 | 0.3 | 7 | 0 |
 | PruritusIncludes pruritus, pruritus generalized, eyelid pruritus. | 19 | 0 | 9 | 0 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
-| CoughIncludes cough, productive cough, upper-airway cough syndrome. | 19 | 0 | 19 | 0 |
+| CoughIncludes cough, productive cough, upper-airway cough syndrome | 19 | 0 | 19 | 0 |
 | Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
 | Musculoskeletal PainIncludes arthralgia, arthritis, back pain, bone pain, musculoskeletal chest pain, musculoskeletal pain, myalgia, neck pain, non-cardiac chest pain, pain in extremity, and spinal pain. | 18 | 0.3 | 25 | 0.3 |
 | Infection and Infestation Disorders |  |  |  |  |
@@ -60,7 +60,7 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in ADAURANC
 | Upper respiratory tract infection | 13 | 0.6 | 10 | 0 |
 | Urinary Tract InfectionIncludes cystitis, urinary tract infection, and urinary tract infection bacterial. | 10 | 0.3 | 7 | 0 |
 | General Disorders and Administration Site Conditions |  |  |  |  |
-| FatigueIncludes asthenia, fatigue. | 13 | 0.6 | 9 | 0.3 |
+| FatigueIncludes asthenia, fatigue | 13 | 0.6 | 9 | 0.3 |
 | Nervous System Disorders |  |  |  |  |
 | DizzinessIncludes dizziness, vertigo, and vertigo positional. | 10 | 0 | 9 | 0 |
 | Metabolism and Nutrition Disorders |  |  |  |  |
@@ -187,7 +187,7 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in AURA3NCI
 | Gastrointestinal Disorders |  |  |  |  |  |
 | Diarrhea | 41 | 1.1 |  | 11 | 1.5 |
 | Nausea | 16 | 0.7 |  | 49 | 3.7 |
-| StomatitisIncludes stomatitis and mouth ulceration. | 19 | 0 |  | 15 | 1.5 |
+| StomatitisIncludes stomatitis and mouth ulceration | 19 | 0 |  | 15 | 1.5 |
 | Constipation | 14 | 0 |  | 35 | 0 |
 | Vomiting | 11 | 0.4 |  | 20 | 2.2 |
 | Skin Disorders |  |  |  |  |  |
