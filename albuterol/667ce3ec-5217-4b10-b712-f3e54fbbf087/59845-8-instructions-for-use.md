@@ -1,4 +1,4 @@
-# Instructions for Use
+# INSTRUCTIONS FOR USE
 
 ProAir® Digihaler® (prō´ār di´ji haye´´ler)
 
@@ -42,13 +42,15 @@ IMPORTANT:
 - In general, the technique for administering ProAir Digihaler to children is similar to that for adults.
   Children should use ProAir Digihaler under adult supervision, as instructed by the patient’s physician.
 - Do not use a spacer or volume holding chamber with ProAir Digihaler.
-  ProAir Digihaler does not need priming.Using your ProAir Digihaler inhaler:Important: Make sure the red cap is closed before you start using your inhaler.
+  ProAir Digihaler does not need priming.
+  Using your ProAir Digihaler inhaler:Important: Make sure the red cap is closed before you start using your inhaler.
   Step 1.
   Open
 
 - Hold the inhaler upright and open the red cap fully until you feel and hear a “click”.
   See Figure C.
-- Each time you open the red cap and it “clicks”, a dose of ProAir Digihaler is ready to be inhaled.Figure C Remember:
+- Each time you open the red cap and it “clicks”, a dose of ProAir Digihaler is ready to be inhaled.
+  Figure C Remember:
 - For the correct use of ProAir Digihaler, hold the inhaler upright as you open the red cap.
   See Figure D.
 - Do not hold the inhaler in any other way as you open the red cap.
@@ -68,7 +70,8 @@ IMPORTANT:
 - Remove the inhaler from your mouth.
 - Hold your breath for about 10 seconds or for as long as you comfortably can.
 - Your ProAir Digihaler Inhaler delivers your dose of medicine as a very fine powder that you may or may not taste or feel.
-  Do not take an extra dose from the inhaler even if you do not taste or feel the medicine.Step 3.
+  Do not take an extra dose from the inhaler even if you do not taste or feel the medicine.
+  Step 3.
   CloseFigure H
 
 - Close the red cap firmly over the mouthpiece.

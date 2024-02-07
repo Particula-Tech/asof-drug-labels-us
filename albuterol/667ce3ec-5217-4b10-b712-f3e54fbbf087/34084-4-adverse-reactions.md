@@ -17,7 +17,7 @@ Adults and Adolescents 12 years of Age and Older: The adverse reaction informati
 
 Table 1: Adverse Reactions Experienced by Greater Than or Equal to 1.0% of Adult and Adolescent Patients in the Albuterol sulfate MDPI Group and Greater Than Placebo in three 12-Week Clinical Trials1
 
-| Albuterol sulfate MDPI 180 mcg QIDN=321 | PlaceboN=333 |  |
+| Albuterol sulfate MDPI 180 mcg QIDN=321 | Placebo N=333 |  |
 | --- | --- | --- |
 | Preferred Term | Number (%) of patients |  |
 | Back pain | 6 (2%) | 4 (1%) |
