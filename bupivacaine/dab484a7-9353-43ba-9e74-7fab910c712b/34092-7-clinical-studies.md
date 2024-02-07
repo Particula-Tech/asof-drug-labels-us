@@ -1,13 +1,9 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of ZYNRELEF was confirmed in 3 double-blind, controlled studies in patients undergoing bunionectomy (Study 1), unilateral open inguinal herniorrhaphy (Study 2), and total knee arthroplasty (Study 3) [see Clinical Studies (14.1)].
-Enhanced efficacy was observed with ZYNRELEF as part of a non-opioid multimodal analgesic regimen in 4 open-label, uncontrolled studies conducted in the same surgical procedures and using the same doses as the confirmatory studies [see Clinical Studies (14.2)].
-ZYNRELEF was also evaluated in patients undergoing abdominoplasty, Cesarean section, augmentation mammoplasty, total shoulder arthroplasty, and 1- to 3-level lumbar spinal surgery.
-In these studies, patients received ZYNRELEF by instillation at specified doses up to 400 mg/12 mg.
+The efficacy of ZYNRELEF was established in 3 double-blind, controlled studies in patients undergoing bunionectomy (Study 1), unilateral open inguinal herniorrhaphy (Study 2), and total knee arthroplasty (Study 3).
+Refer to 12.2 for additional supportive pharmacodynamic data for ZYNRELEF [see Pharmacodynamics (12.2)].
 
-Based on the efficacy of ZYNRELEF and the pharmacokinetic profiles across the surgical procedures with varied characteristics, such as anatomic location, tissue type, length and depth of surgical area, and vascularity, the pharmacokinetic profile and effectiveness of ZYNRELEF are not expected to be clinically significantly different when ZYNRELEF is administered at an appropriate dose in other soft tissue and orthopedic surgical procedures [see Dosage and Administration (2.4), Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
-
-## 14.1 Studies Confirming Efficacy of ZYNRELEF
+Based on the extrapolation of efficacy of ZYNRELEF across the 3 double-blind, controlled studies in patients undergoing bunionectomy, unilateral open inguinal herniorrhaphy, and total knee arthroplasty, and the pharmacokinetic profiles across surgical procedures with varied characteristics, such as anatomic location, tissue type, length and depth of surgical area, and vascularity, the pharmacokinetic profile and effectiveness of ZYNRELEF are not expected to be clinically significantly different when ZYNRELEF is administered at an appropriate dose in other soft tissue and orthopedic surgical procedures [see Dosage and Administration (2.4), Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 
 Study 1
 
@@ -60,14 +56,3 @@ There were two patients who did not receive opioid analgesia over 72 hours; one 
 
 Figure 3.
 Mean Pain Intensity at Rest Over 72 Hours for STUDY 3 (Total Knee Arthroplasty)
-
-## 14.2 Studies Supporting Use of ZYNRELEF in a Non-opioid Multimodal Analgesic Regimen
-
-ZYNRELEF was evaluated as part of a postoperative multimodal analgesic regimen that included an NSAID (ibuprofen or celecoxib) and acetaminophen in 473 patients, including 3 multi-center, open-label, uncontrolled studies in 61 patients undergoing bunionectomy, in 63 patients undergoing open inguinal herniorrhaphy, and in 86 patients undergoing total knee arthroplasty.
-Postsurgical opioid analgesia use was assessed through discharge at 72 hours in all 3 studies, and from discharge through Day 28 for bunionectomy and herniorrhaphy, and from discharge through Day 11 for total knee arthroplasty.
-The proportion of patients who did not receive opioid analgesia postsurgery through to discharge was 77% for bunionectomy, 90% for herniorrhaphy, and 16% for total knee arthroplasty.
-Of these, 100% of bunionectomy patients, 91% of herniorrhaphy patients, and 93% of total knee arthroplasty patients did not take an opioid analgesic after discharge.
-
-An additional open-label, uncontrolled study in 210 patients undergoing open inguinal herniorrhaphy evaluated ZYNRELEF as part of a scheduled postoperative multimodal analgesic regimen that included ibuprofen and acetaminophen.
-Postsurgical opioid analgesia use was assessed through discharge at 2 to 3 hours postsurgery and from discharge through Day 15.
-The proportion of patients who did not receive an opioid prescription at or following discharge was 92% and the proportion who did not take an opioid analgesic after discharge was 96%.

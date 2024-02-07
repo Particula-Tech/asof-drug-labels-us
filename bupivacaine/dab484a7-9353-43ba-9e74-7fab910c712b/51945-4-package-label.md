@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 14 mL Vial Carton Kit
+# PRINCIPAL DISPLAY PANEL - Kit Carton - 14 mL
 
 ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
@@ -6,7 +6,15 @@ ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
 Single-Dose Application For Instillation Use
 
-Refer to Instructions for Use See Prescribing Information for Dosage, Preparation, and Administration Do Not Substitute Components Use only the supplied components in this kit for preparation Do not remove crimp seal
+Refer to Instructions for Use
+
+See Prescribing Information for Dosage, Preparation, and Administration
+
+Do Not Substitute Components
+
+Use only the supplied components in this kit for preparation
+
+Do NOT remove crimp seal
 
 NDC 47426-301-02
 
@@ -32,7 +40,7 @@ Vial Contents: 14 mL* Withdraw 14 mL to deliver 13.5 mL
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL - 10.5 mL Vial Carton Kit
+# PRINCIPAL DISPLAY PANEL - Kit Carton - 10.5 mL
 
 ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
@@ -40,7 +48,15 @@ ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
 Single-Dose Application For Instillation Use
 
-Refer to Instructions for Use See Prescribing Information for Dosage, Preparation, and Administration Do Not Substitute Components Use only the supplied components in this kit for preparation Do not remove crimp seal
+Refer to Instructions for Use
+
+See Prescribing Information for Dosage, Preparation, and Administration
+
+Do Not Substitute Components
+
+Use only the supplied components in this kit for preparation
+
+Do NOT remove crimp seal
 
 NDC 47426-302-02
 
@@ -66,7 +82,7 @@ Vial Contents: 10.5 mL* Withdraw 10.5 mL to deliver 10.2 mL
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL - 7 mL Vial Carton Kit
+# PRINCIPAL DISPLAY PANEL - Kit Carton - 7 mL
 
 ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
@@ -74,7 +90,15 @@ ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
 Single-Dose Application For Instillation Use
 
-Refer to Instructions for Use See Prescribing Information for Dosage, Preparation, and Administration Do Not Substitute Components Use only the supplied components in this kit for preparation Do not remove crimp seal
+Refer to Instructions for Use
+
+See Prescribing Information for Dosage, Preparation, and Administration
+
+Do Not Substitute Components
+
+Use only the supplied components in this kit for preparation
+
+Do NOT remove crimp seal
 
 NDC 47426-303-01
 
@@ -100,7 +124,7 @@ Vial Contents: 7 mL* Withdraw 7 mL to deliver 6.7 mL
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL - 2.3 mL Vial Carton Kit
+# PRINCIPAL DISPLAY PANEL - Kit Carton - 2.3 mL
 
 ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
@@ -108,7 +132,15 @@ ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
 Single-Dose Application For Instillation Use
 
-Refer to Instructions for Use See Prescribing Information for Dosage, Preparation, and Administration Do Not Substitute Components Use only the supplied components in this kit for preparation Do not remove crimp seal
+Refer to Instructions for Use
+
+See Prescribing Information for Dosage, Preparation, and Administration
+
+Do Not Substitute Components
+
+Use only the supplied components in this kit for preparation
+
+Do NOT remove crimp seal
 
 NDC 47426-304-01
 
@@ -130,6 +162,6 @@ Vial Contents Sterile Vial exterior NOT STERILE
 - One sterile syringe tip cap
 - Instructions for Use and Prescribing Information
 
-Vial Contents: 2.3 mL* Withdraw 2.3 mL to deliver 2.0 mL
+Vial Contents: 2.3 mL* Withdraw 2.3 mL to deliver 2 mL
 
 Rx Only

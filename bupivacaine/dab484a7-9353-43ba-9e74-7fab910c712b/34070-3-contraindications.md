@@ -2,7 +2,7 @@
 
 ZYNRELEF is contraindicated in:
 
-- Patients with a known hypersensitivity (e.g., anaphylactic reactions and serious skin reactions) to any local anesthetic agent of the amide-type, NSAIDs, or to any of the other components of ZYNRELEF [see Warnings and Precautions (5.9, 5.13)].
+- Patients with a known hypersensitivity (e.g., anaphylactic reactions and serious skin reactions) to any local anesthetic agent of the amide-type, NSAIDs, or to any of the other components of ZYNRELEF [see Warnings and Precautions (5.9, 5.14)].
 - Patients with a history of asthma, urticaria, or other allergic-type reactions after taking aspirin or other NSAIDs.
   Severe, sometimes fatal, anaphylactic reactions to NSAIDs have been reported in such patients [see Warnings and Precautions (5.9)].
 - Patients undergoing obstetrical paracervical block anesthesia.

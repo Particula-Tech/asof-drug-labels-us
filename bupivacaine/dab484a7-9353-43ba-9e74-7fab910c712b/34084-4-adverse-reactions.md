@@ -10,13 +10,13 @@ The following serious adverse reactions have been associated with bupivacaine HC
 - Heart Failure and Edema [see Warnings and Precautions (5.7)]
 - Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.8)]
 - Anaphylactic Reactions [see Warnings and Precautions (5.9)]
-- Chondrolysis [see Warnings and Precautions (5.10)]
-- Methemoglobinemia [see Warnings and Precautions (5.11)]
-- Exacerbation of Asthma Related to Aspirin Sensitivity [see Warnings and Precautions (5.12)]
-- Serious Skin Reactions [see Warnings and Precautions (5.13)]
-- Drug Reaction with Eosinophilia and Systemic Toxicity (DRESS) [see Warnings and Precautions (5.14)]
-- Fetal Toxicity [see Warnings and Precautions (5.15)]
-- Hematologic Toxicity [see Warnings and Precautions (5.16)]
+- Chondrolysis [see Warnings and Precautions (5.11)]
+- Methemoglobinemia [see Warnings and Precautions (5.12)]
+- Exacerbation of Asthma Related to Aspirin Sensitivity [see Warnings and Precautions (5.13)]
+- Serious Skin Reactions [see Warnings and Precautions (5.14)]
+- Drug Reaction with Eosinophilia and Systemic Toxicity (DRESS) [see Warnings and Precautions (5.15)]
+- Fetal Toxicity [see Warnings and Precautions (5.16)]
+- Hematologic Toxicity [see Warnings and Precautions (5.17)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -33,10 +33,11 @@ The most common adverse reactions (incidence greater than or equal to 5% and hig
 The safety of ZYNRELEF as part of a scheduled, non-opioid multimodal analgesic regimen including 1 or more other NSAIDs has been evaluated in a total of 473 patients undergoing soft tissue procedures or orthopedic procedures.
 NSAIDs included ibuprofen, ketorolac, and celecoxib.
 In these studies, the most common adverse reactions (incidence of greater than or equal to 2%) potentially associated with NSAIDs were pruritus and postoperative anemia.
+Rare but clinically serious NSAID-related adverse events, including peptic ulcer hemorrhage, gastritis requiring hospitalization, hematemesis and melena, gastrointestinal hemorrhage, and increased hepatic enzymes, were observed in subjects with predisposing risk factors (i.e., concomitant comorbidities and/or on concomitant medications such as anticoagulant and/or antiplatelet medications) that increased the risk for NSAID-related gastrointestinal toxicity.
 
-Adverse Reactions Reported in Efficacy Confirming Clinical Studies
+Adverse Reactions Reported in Phase 3 and 2b Placebo-controlled Trials
 
-Three randomized, bupivacaine-controlled and saline placebo-controlled studies were conducted in patients undergoing bunionectomy (STUDY 1, Table 1), open inguinal herniorrhaphy (STUDY 2, Table 2), and total knee arthroplasty (STUDY 3, Table 3).
+Three randomized, bupivacaine-controlled and saline placebo-controlled studies were conducted in patients undergoing bunionectomy (STUDY 1, Table 1 and Table 2), open inguinal herniorrhaphy (STUDY 2, Table 3), and total knee arthroplasty (STUDY 3, Table 4).
 The bunionectomy procedures in STUDY 1 were performed under regional anesthesia, a lidocaine Mayo block, and intravenous sedation.
 The herniorrhaphy procedures in STUDY 2 were performed under general anesthesia.
 The total knee arthroplasty procedures in STUDY 3 were performed under either general or spinal anesthesia.
@@ -60,9 +61,21 @@ In STUDY 1, bone healing was assessed by X-ray on Days 28 and 42.
 There was no clinically meaningful difference in bone healing between treatment groups.
 A total of 4 subjects had delayed bone healing: 1 in the ZYNRELEF group, 1 in the saline placebo group, and 2 in the bupivacaine HCl group.
 
-The local inflammatory adverse events in the ZYNRELEF group occurring with incidences greater than or equal to 2% and less than 5%, and higher than in either control group, are incision site cellulitis, wound dehiscence, and incision site infection.
+The incidence of local inflammatory adverse events was higher in the ZYNRELEF group than in either control group (Table 2).
 
 Table 2.
+Incidence of Local Inflammatory Adverse Events with ZYNRELEF in Study 1 (Bunionectomy) Occurring with ≥2% Incidence and Higher than with Saline Placebo
+
+|  | Saline Placebo (N=101), % | Bupivacaine HCl 50 mg (N=154), % | ZYNRELEF 60 mg/1.8 mg (N=157), % |
+| --- | --- | --- | --- |
+| Incision site edema | 13 | 14 | 17 |
+| Incision site erythema | 8 | 12 | 13 |
+| Impaired healing | 1 | 4 | 6 |
+| Incision site cellulitis | 1 | 1 | 4 |
+| Wound dehiscence | 2 | 1 | 4 |
+| Incision site infection | 0 | 1 | 3 |
+
+Table 3.
 Adverse Reactions with ZYNRELEF in Study 2 (Herniorrhaphy) Occurring with ≥5% Incidence and Higher than with Saline Placebo
 
 | Preferred Term | Saline Placebo (N=82), % | Bupivacaine HCl 75 mg (N=173), % | ZYNRELEF 300 mg/9 mg (N=163), % |
@@ -72,7 +85,7 @@ Adverse Reactions with ZYNRELEF in Study 2 (Herniorrhaphy) Occurring with ≥5% 
 | Dysgeusia | 4 | 12 | 9 |
 | Skin odor abnormalAll TEAEs of skin odor abnormal were recorded at a single site. | 1 | 1 | 8 |
 
-Table 3.
+Table 4.
 Adverse Reactions with ZYNRELEF in Study 3 (Total Knee Arthroplasty) Occurring with ≥5% Incidence and Higher than with Saline Placebo
 
 | Preferred Term | Saline Placebo (N=53), % | Bupivacaine HCl 125 mg (N=55), % | ZYNRELEF 400 mg/12 mg (N=58), % |

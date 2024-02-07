@@ -21,6 +21,11 @@ Because meloxicam is an inhibitor of prostaglandin synthesis, its mode of action
 
 ## 12.2 Pharmacodynamics
 
+Additional pharmacodynamic data in clinical studies
+
+Additional pharmacodynamic data for ZYNRELEF was evaluated in patients undergoing abdominoplasty, Cesarean section, total shoulder arthroplasty, and 1- to 3-level lumbar spinal surgery.
+Refer to Dosage and Administration for specific doses used for each study [see Dosage and Administration (2.4)].
+
 Contribution of Meloxicam and Bupivacaine to Activity of ZYNRELEF
 
 The contribution of each active ingredient in ZYNRELEF was demonstrated in Phase 2 double-blind, randomized, active- and placebo-controlled clinical studies in subjects undergoing herniorrhaphy or bunionectomy, utilizing ZYNRELEF and formulations of meloxicam alone or bupivacaine alone in the ZYNRELEF vehicle.
@@ -40,7 +45,7 @@ Clinical reports and animal research suggest that cardiovascular changes are mor
 
 ## 12.3 Pharmacokinetics
 
-The instillation of ZYNRELEF into the surgical site results in systemic plasma levels of bupivacaine and meloxicam for up to the duration as described in Table 6 for soft tissue surgical procedures and Table 7 for orthopedic surgical procedures.
+The instillation of ZYNRELEF into the surgical site results in systemic plasma levels of bupivacaine and meloxicam for up to the duration as described in Table 7 for soft tissue surgical procedures and Table 8 for orthopedic surgical procedures.
 Systemic plasma levels of bupivacaine or meloxicam following application of ZYNRELEF do not correlate with local efficacy.
 
 Absorption
@@ -49,9 +54,9 @@ The rate of systemic absorption of bupivacaine or meloxicam from ZYNRELEF is dep
 
 Pharmacokinetic parameters of bupivacaine and meloxicam after single dose administration by instillation of ZYNRELEF were evaluated following multiple surgical procedures.
 
-Descriptive statistics of pharmacokinetic parameters of representative ZYNRELEF doses are provided in Table 6 for soft tissue surgical procedures and Table 7 for orthopedic surgical procedures.
+Descriptive statistics of pharmacokinetic parameters of representative ZYNRELEF doses are provided in Table 7 for soft tissue surgical procedures and Table 8 for orthopedic surgical procedures.
 
-Table 6.
+Table 7.
 Summary of Pharmacokinetic Parameters for Bupivacaine and Meloxicam After Single Dose Administration of ZYNRELEF by Instillation for Soft Tissue Surgical Procedures
 
 | Active Ingredient | Parameter | Herniorrhaphy: 300 mg/9 mg ZYNRELEF (N=16) | Abdominoplasty: 400 mg/12 mg ZYNRELEF (N=22) | Augmentation Mammoplasty: 400 mg/12 mg ZYNRELEF (N=49) | Cesarean Section: 400 mg/12 mg ZYNRELEF (N=11) |
@@ -75,7 +80,7 @@ Summary of Pharmacokinetic Parameters for Bupivacaine and Meloxicam After Single
 | Note: Arithmetic mean (standard deviation) except Tmax where it is median (min, max). Doses of ZYNRELEF are shown as bupivacaine dose (mg)/meloxicam dose (mg). |  |  |  |  |  |
 | NS = not sampled; NR= not reported, since the terminal elimination phase was not adequately characterized in sufficient number of patients. |  |  |  |  |  |
 
-Table 7.
+Table 8.
 Summary of Pharmacokinetic Parameters for Bupivacaine and Meloxicam After Single Dose Administration of ZYNRELEF by Instillation for Orthopedic Surgical Procedures
 
 | Active Ingredient | Parameter | Bunionectomy: 60 mg/1.8 mg ZYNRELEF (N=17) | Total Knee Arthroplasty: 400 mg/12 mg ZYNRELEF (N=53) | Total Shoulder Arthroplasty: 400 mg/12 mg ZYNRELEF (N=20) | 1-Level Spinal Surgery: 92 mg/2.8 mg ZYNRELEF (N=13) | 2- or 3-Level Spinal Surgery: 191 mg/5.7 mg ZYNRELEF (N=13) |
@@ -86,7 +91,7 @@ Summary of Pharmacokinetic Parameters for Bupivacaine and Meloxicam After Single
 | AUC(inf) (h×ng/mL) | 1718 (1211) | 38173 (29401) N=50; | 21193 (12329) | 5535 (6091) N=12; | 8659 (4288) N=11; |  |
 | t½ (h) | 15 (8) | 17 (7) | 10 (3) | 25 (25) | 14 (5) |  |
 | C72h (ng/mL) | 5.0 (5.3) | 227 (283) | 145 (117) | 34 (48) | 61 (49) |  |
-| C96h (ng/mL) | 1.7 (2.9) N=16 | NS | 30 (32) | 5.2 (7.3) | 24 (27) |  |
+| C96h (ng/mL) | 1.7 (2.9) N=16; | NS | 30 (32) | 5.2 (7.3) | 24 (27) |  |
 | C144h (ng/mL) | NS | 5.3 (21) N=32; | 1.1 (2.2) N=19; | NS | NS |  |
 | Meloxicam | Cmax (ng/mL) | 26 (14) | 275 (134) | 248 (125) N=18; | 53 (41) N=13; | 90 (36) |
 | Tmax (h) | 18 (8, 60) | 36 (12, 72) | 57 (12, 72) | 18 (12, 72) | 43 (23, 69) |  |
@@ -214,7 +219,7 @@ Drug Interaction Studies
 
 Aspirin: When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
 The clinical significance of this interaction is not known.
-See Table 5 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].
+See Table 6 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].
 
 Cholestyramine: Pretreatment for four days with cholestyramine significantly increased the clearance of oral meloxicam by 50%.
 This resulted in a decrease in t1/2, from 19.2 hours to 12.5 hours, and a 35% reduction in AUC.

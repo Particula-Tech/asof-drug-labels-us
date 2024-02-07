@@ -2,15 +2,22 @@
 
 ## 2.1 Important Dosage and Administration Information
 
+ADMINISTER ZYNRELEF VIA INSTILLATION ONLY.
+
+- ZYNRELEF should not be administered via the following routes.
+  - –Epidural
+  - –Intrathecal
+  - –Intravascular
+  - –Intra-articular [see Warnings and Precautions (5.10), Nonclinical Toxicology (13.2)]
+  - –Regional nerve blocks
+  - –Pre-incisional or pre-procedural locoregional anesthetic techniques.
 - ZYNRELEF is intended for single-dose administration only.
-- As there is a potential risk of severe, life-threatening adverse reactions associated with the administration of bupivacaine, ZYNRELEF should be administered in a setting where trained personnel and equipment are available to promptly treat patients who show evidence of neurologic or cardiac toxicity.
+- As there is a potential risk of severe, life-threatening adverse reactions associated with the administration of bupivacaine, ZYNRELEF should be administered in a setting where trained personnel and equipment are available to promptly treat patients who show evidence of neurologic or cardiac toxicity [see Overdosage (10)].
 - The toxic effects of local anesthetics are additive.
   Avoid additional use of local anesthetics within 96 hours following administration of ZYNRELEF.
 - Avoid intravascular administration of ZYNRELEF.
   Convulsions and cardiac arrest have occurred following accidental intravascular injection of bupivacaine and other amide-containing products.
-- Limit exposure to articular cartilage due to the potential risk of chondrolysis [see Warnings and Precautions (5.10)].
-- The safety of concomitant administration of ZYNRELEF and other NSAID medications as part of a multimodal analgesic regimen has been evaluated and there was no increase in NSAID-related toxicity [see Adverse Reactions (6.1)].
-  If additional NSAID medication is indicated in the postoperative period, monitor patients for signs and symptoms of NSAID toxicity [see Warnings and Precautions (5.2)].
+- Limit exposure to articular cartilage due to the potential risk of chondrolysis [see Warnings and Precautions (5.11)].
 - ZYNRELEF is a viscous solution supplied as a kit consisting of a single-dose glass vial, and the following sterile components: Luer Lock syringe(s), a vented vial spike, Luer Lock cone-shaped applicator(s), and syringe tip cap(s).
   ZYNRELEF should only be prepared and administered with the components provided in the ZYNRELEF kit.
   See the ZYNRELEF Instructions for Use included in the kit for complete administration instructions with illustrations.
@@ -26,12 +33,6 @@
   Minimize administration of ZYNRELEF near the incision line and wipe off excess ZYNRELEF from the skin prior to suturing.
   Three (3) or more knots ending in a multi-throw knot (e.g., a Surgeon's knot) are recommended with monofilament sutures.
   Braided or barbed sutures are recommended, especially for closure of deeper layers.
-- ZYNRELEF should not be administered via the following routes.
-  - –Epidural
-  - –Intrathecal
-  - –Intravascular or intra-articular
-  - –Regional nerve blocks
-  - –Pre-incisional or pre-procedural locoregional anesthetic techniques.
 
 ## 2.2 Preparation Instructions
 
@@ -43,7 +44,7 @@
 4. Invert to allow product to fill the vial neck and push air into vial.
    Withdraw dose of ZYNRELEF into syringe.
    (The dose volume takes into account the potential residual volume in the components.)
-   Nominal Dose of Bupivacaine / Meloxicam (mg/mg)Number of Syringes and LLAsLLA: Luer lock cone-shaped applicator Per DoseVolume to be Withdrawn (mL)60 / 1.812.3 (using 3 mL syringe provided)200 / 617 (using 12 mL syringe provided)300 / 9110.5 (using 12 mL syringe provided)400 / 12214 (using two 12 mL syringes provided, 7 mL ZYNRELEF per syringe)
+   Nominal Dose of Bupivacaine / MeloxicamNumber of Syringes and LLAsLLA: Luer lock cone-shaped applicator Per DoseVolume to be Withdrawn60 mg/ 1.8 mg12.3 mL (using 3 mL syringe provided)200 mg / 6 mg17 mL (using 12 mL syringe provided)300 mg/ 9 mg110.5 mL (using 12 mL syringe provided)400 mg/ 12 mg214 mL (using two 12 mL syringes provided, 7 mL ZYNRELEF per syringe)
 5. Repeat steps 1-3 for more than one syringe.
 6. Prepare product immediately prior to use and apply syringe tip cap until product delivery.
 
@@ -55,9 +56,9 @@ Before administration, remove the syringe tip cap and attach the Luer lock cone-
    - For soft tissue procedures, apply ZYNRELEF into the wound prior to closure of each layer within the surgical space.
      - –For abdominal procedures, apply after closure of the peritoneum (if applicable) and avoid administration below the peritoneum.
    - In general for orthopedic procedures, apply ZYNRELEF into the wound and on the periosteum from the proximal to the distal ends of the wound (i.e., beyond the boney repair).
-   - For joint arthroplasty, apply ZYNRELEF directly into the joint capsule, onto the periosteum, and the antero-, medial-, and lateral tissues (if applicable), after placement of the component(s).
-   - For spinal procedures, apply ZYNRELEF after closure of the paraspinal musculature and again after closure of the subcutaneous fascia.
-     ZYNRELEF must not be applied to the dura or spinal cord.
+     - –For total joint arthroplasty, apply ZYNRELEF directly into the joint capsule, onto the periosteum, and the antero-, medial-, and lateral tissues (if applicable), after placement of the component(s).
+     - –For spinal procedures, apply ZYNRELEF after closure of the paraspinal musculature and again after closure of the subcutaneous fascia.
+       ZYNRELEF must not be applied to the dura or spinal cord.
 2. Only apply ZYNRELEF to the tissue layers below the skin incision and not directly onto the subdermal layer or the skin.
    Minimize administration of ZYNRELEF near the incision line.
 3. Use only the amount necessary to coat the tissues, such that ZYNRELEF does not leak from the surgical wound after closure.
@@ -68,13 +69,13 @@ Before administration, remove the syringe tip cap and attach the Luer lock cone-
 As a general guidance in selecting the proper dosing of ZYNRELEF, the following examples of dosing are provided:
 
 - For soft tissue surgical procedures, such as:
-  - –open inguinal herniorrhaphy: up to 10.5 mL to deliver 300 mg of bupivacaine and 9 mg of meloxicam [see Clinical Studies (14.1)];
+  - –open inguinal herniorrhaphy: up to 10.5 mL to deliver 300 mg of bupivacaine and 9 mg of meloxicam [see Clinical Studies (14)];
   - –abdominoplasty: up to 14 mL to deliver 400 mg of bupivacaine and 12 mg of meloxicam [see Clinical Studies (14)];
   - –Cesarean section: up to 14 mL to deliver 400 mg of bupivacaine and 12 mg of meloxicam [see Clinical Studies (14)];
   - –augmentation mammoplasty: up to 7 mL per side to deliver total of 400 mg of bupivacaine and 12 mg of meloxicam [see Clinical Studies (14)].
 - For orthopedic surgical procedures, such as:
-  - –bunionectomy: up to 2.3 mL to deliver 60 mg of bupivacaine and 1.8 mg of meloxicam [see Clinical Studies (14.1)];
-  - –total knee arthroplasty: up to 14 mL to deliver 400 mg of bupivacaine and 12 mg of meloxicam [see Clinical Studies (14.1)];
+  - –bunionectomy: up to 2.3 mL to deliver 60 mg of bupivacaine and 1.8 mg of meloxicam [see Clinical Studies (14)];
+  - –total knee arthroplasty: up to 14 mL to deliver 400 mg of bupivacaine and 12 mg of meloxicam [see Clinical Studies (14)];
   - –total shoulder arthroplasty: up to 14 mL to deliver 400 mg of bupivacaine and 12 mg of meloxicam [see Clinical Studies (14)];
   - –1- to 3-level spinal surgery: up to 7 mL to deliver 200 mg bupivacaine and 6 mg meloxicam [see Clinical Studies (14)].
 

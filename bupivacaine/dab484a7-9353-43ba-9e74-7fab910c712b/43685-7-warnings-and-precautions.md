@@ -144,7 +144,12 @@ Meloxicam, contained in ZYNRELEF, has been associated with anaphylactic reaction
 
 Seek emergency help if an anaphylactic reaction occurs.
 
-## 5.10 Chondrolysis
+## 5.10 Risk of Joint Cartilage Necrosis with Unapproved Intra-articular Use
+
+The safety and effectiveness of intra-articular use of ZYNRELEF in orthopedic surgical procedures other than for foot and ankle procedures have not been established, and ZYNRELEF is not approved for use via other intra-articular administration routes.
+Animal studies evaluating the effects of ZYNRELEF following intra-articular administration in the knee joint demonstrated cartilage necrosis and degeneration [see Nonclinical Toxicology (13.2)].
+
+## 5.11 Chondrolysis
 
 Limit exposure to articular cartilage due to the potential risk of chondrolysis.
 
@@ -154,25 +159,25 @@ There is insufficient information to determine whether shorter infusion periods 
 The time of onset of symptoms, such as joint pain, stiffness, and loss of motion can be variable, but may begin as early as the 2nd month after surgery.
 Currently, there is no effective treatment for chondrolysis; patients who have experienced chondrolysis have required additional diagnostic and therapeutic procedures and some required arthroplasty or shoulder replacement.
 
-## 5.11 Methemoglobinemia
+## 5.12 Methemoglobinemia
 
 Cases of methemoglobinemia have been reported in association with local anesthetic use.
 Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
 If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
-
 Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.
+
 Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious central nervous system and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
 Discontinue any oxidizing agents.
 Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
 A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
 
-## 5.12 Exacerbation of Asthma Related to Aspirin Sensitivity
+## 5.13 Exacerbation of Asthma Related to Aspirin Sensitivity
 
 A subpopulation of patients with asthma may have aspirin-sensitive asthma, which may include: chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
 Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, NSAIDs are contraindicated in patients with this form of aspirin sensitivity [see Contraindications (4)].
 When ZYNRELEF is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for exacerbation of asthma symptoms.
 
-## 5.13 Serious Skin Reactions
+## 5.14 Serious Skin Reactions
 
 NSAIDs, including meloxicam, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
@@ -180,7 +185,7 @@ Inform patients about the signs and symptoms of serious skin reactions.
 
 ZYNRELEF is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
-## 5.14 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+## 5.15 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as ZYNRELEF.
 Some of these events have been fatal or life-threatening.
@@ -192,7 +197,7 @@ Because this disorder is variable in its presentation, other organ systems not n
 It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
 If such signs or symptoms are present, evaluate the patient immediately and treat as clinically indicated.
 
-## 5.15 Fetal Toxicity
+## 5.16 Fetal Toxicity
 
 Premature Closure of Fetal Ductus Arteriosus
 
@@ -211,7 +216,7 @@ If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, l
 Because meloxicam can be detected in plasma beyond 48 hours after administration of ZYNRELEF, consider ultrasound monitoring for oligohydramnios.
 If oligohydramnios occurs, follow up according to clinical practice [see Use in Specific Populations (8.1)].
 
-## 5.16 Hematologic Toxicity
+## 5.17 Hematologic Toxicity
 
 Anemia has occurred in NSAID-treated patients.
 This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis.
@@ -221,6 +226,6 @@ NSAIDs, including meloxicam, may increase the risk of bleeding events.
 Co-morbid conditions such as coagulation disorders or concomitant use of warfarin, other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
 Monitor these patients for signs of bleeding [see Drug Interactions (7)].
 
-## 5.17 Masking of Inflammation and Fever
+## 5.18 Masking of Inflammation and Fever
 
 The pharmacological activity of ZYNRELEF in reducing inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting infections.

@@ -9,9 +9,9 @@ The toxic effects of local anesthetics are additive.
 Avoid additional use of local anesthetics within 96 hours following administration of ZYNRELEF.
 If co-administration cannot be avoided, monitor patients for neurologic and cardiovascular effects related to local anesthetic systemic toxicity [see Dosage and Administration (2.1), Warnings and Precautions (5.1) and Overdosage (10)].
 
-Patients who are administered local anesthetics may be at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics (Table 4).
+Patients who are administered local anesthetics may be at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics (Table 5).
 
-Table 4.
+Table 5.
 Examples of Drugs Associated with Methemoglobinemia
 
 | Class | Examples |
@@ -26,15 +26,15 @@ Examples of Drugs Associated with Methemoglobinemia
 
 ## 7.2 Meloxicam Drug Interactions
 
-See Table 5 for clinically significant drug interactions with meloxicam.
+See Table 6 for clinically significant drug interactions with meloxicam.
 
-Table 5.
+Table 6.
 Clinically Significant Drug Interactions with Meloxicam
 
 | Drugs that Interfere with Hemostasis |  |
 | --- | --- |
 | Clinical Impact: | Meloxicam and anticoagulants such as warfarin have a synergistic effect on bleeding. The concomitant use of meloxicam and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone. Serotonin release by platelets plays an important role in hemostasis. Case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the risk of bleeding more than an NSAID alone. |
-| Intervention: | Monitor patients with concomitant use of ZYNRELEF with anticoagulants (e.g., warfarin), antiplatelet agents (e.g., aspirin), selective serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) for signs of bleeding [see Warnings and Precautions (5.16)]. |
+| Intervention: | Monitor patients with concomitant use of ZYNRELEF with anticoagulants (e.g., warfarin), antiplatelet agents (e.g., aspirin), selective serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) for signs of bleeding [see Warnings and Precautions (5.17)]. |
 | Aspirin |  |
 | Clinical Impact: | In a clinical study, the concomitant use of an NSAID and aspirin was associated with a significantly increased incidence of GI adverse reactions as compared to use of the NSAID alone [see Warnings and Precautions (5.2)]. |
 | Intervention: | If aspirin is indicated in the postoperative period, monitor patients for signs and symptoms of GI bleeding [see Clinical Pharmacology (12.3)]. |

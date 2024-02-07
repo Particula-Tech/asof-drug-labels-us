@@ -4,4 +4,4 @@ Patent: https://www.herontx.com/patents/
 
 ZYNRELEF® is a registered trademark of Heron Therapeutics, Inc.
 
-Copyright © 2021 - 2022 Heron Therapeutics, Inc. All rights reserved.
+Copyright © 2021 - 2024 Heron Therapeutics, Inc. All rights reserved.

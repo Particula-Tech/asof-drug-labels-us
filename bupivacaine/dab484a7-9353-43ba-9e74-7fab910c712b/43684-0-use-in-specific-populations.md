@@ -18,7 +18,7 @@ Based on animal data, pregnant women should be advised of the potential risks to
 Meloxicam
 
 Use of NSAIDs, including ZYNRELEF, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
-Because of these risks, limit dose and duration of ZYNRELEF use between about 20 and 30 weeks of gestation, and avoid ZYNRELEF use at about 30 weeks of gestation and later in pregnancy (see Clinical Considerations, Data).
+Because of these risks, limit dose and duration of ZYNRELEF use between about 20 and 30 weeks of gestation and avoid ZYNRELEF use at about 30 weeks of gestation and later in pregnancy (see Clinical Considerations, Data).
 
 Premature Closure of Fetal Ductus Arteriosus
 
@@ -124,28 +124,18 @@ Oral administration of meloxicam to pregnant rats during late gestation through 
 
 Risk Summary
 
-Low levels of bupivacaine and meloxicam have been detected in the milk of lactating women after administration of ZYNRELEF.
-In a clinical study in lactating women receiving postpartum administration of ZYNRELEF up to 400 mg bupivacaine/12 mg meloxicam following Cesarean section, bupivacaine and meloxicam were detected in breast milk at peak concentrations approximately 14% and 3%, respectively, of those in maternal plasma.
-The estimated average infant dose of bupivacaine and meloxicam from breast milk (assuming mean milk consumption of 200 mL/kg/day) would be 0.01 mg/kg and 0.001 mg/kg, respectively, which on a mg/kg basis would be approximately 0.3% and 1.0% of the maternal dose, respectively [see Data].
-The study did not evaluate the effects of ZYNRELEF on milk production or the effects of ZYNRELEF exposure on the breastfed infant.
-
 Limited published literature reports that bupivacaine and its primary metabolite, pipecoloxylidine (PPX), are present in human milk at low levels.
+There are no human data available on whether meloxicam is present in human milk.
 There is no available information on effects of bupivacaine or meloxicam in the breastfed infant or effects of the drugs on milk production.
-
-Clinical Considerations
 
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ZYNRELEF and any potential adverse effects on the breastfed infant from ZYNRELEF or from the underlying maternal condition.
 
 Data
 
-Human Data
+Animal Data
 
-A clinical study in 25 lactating women who underwent a planned Cesarean section and had chosen prospectively not to breastfeed their newborn was conducted to characterize the pharmacokinetics of bupivacaine and meloxicam in expressed breast milk and plasma following postpartum administration of ZYNRELEF up to 400 mg/12 mg.
-Bupivacaine and meloxicam were detected in milk at peak concentrations approximately 14% and 3%, respectively, of concentrations in maternal plasma.
-Assuming a standardized milk consumption of 200 mL/kg/day, the mean estimated infant oral dose was 0.01 mg/kg of bupivacaine and 0.001 mg/kg of meloxicam, which on a mg/kg basis would be approximately 0.3% and 1.0%, respectively, of the maternal dose.
-Last measurable concentrations in breast milk were at 6 days post-dose for bupivacaine and 8 days post-dose for meloxicam.
-The study did not evaluate the effects of ZYNRELEF on milk production.
-Infants did not receive breast milk obtained following ZYNRELEF administration; therefore, the effects of ZYNRELEF on the breastfed infant were not evaluated.
+Following administration of ZYNRELEF to lactating pigs, bupivacaine and meloxicam were detected in milk, but only bupivacaine was detected in the plasma of piglets allowed to suckle milk from the treated animals.
+Meloxicam was present in the milk of lactating rats at concentrations higher than those in plasma.
 
 ## 8.3 Females and Males of Reproductive Potential
 

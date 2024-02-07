@@ -36,3 +36,8 @@ Meloxicam did not impair male and female fertility in rats at oral doses up to 9
 
 In a published study, oral administration of 1 mg/kg (0.8 times the MRHD) meloxicam to male rats for 35 days resulted in decreased sperm count and motility and histopathological evidence of testicular degeneration.
 The clinical relevance of these findings is unknown.
+
+## 13.2 Animal Toxicology and/or Pharmacology
+
+Necrosis and degeneration of cartilage and chondrocytes were observed following intra-articular injection of a single dose of ZYNRELEF in the knee joint of rabbits.
+Cartilage degeneration was also observed following intra-articular injection of a single dose of ZYNRELEF in the knee joints of dogs.
