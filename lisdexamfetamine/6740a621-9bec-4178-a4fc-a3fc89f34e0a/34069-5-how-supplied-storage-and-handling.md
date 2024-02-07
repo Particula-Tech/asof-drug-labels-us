@@ -2,6 +2,8 @@
 
 ## 16.1 How Supplied
 
+Lisdexamfetamine dimesylate capsules 10 mg: pink opaque body/pink opaque cap (imprinted with 54 566) Bottle of 100, NDC 0054-0660-25
+
 Lisdexamfetamine dimesylate capsules 20 mg: ivory body/ivory cap (imprinted with 54 990) Bottle of 30, NDC 0054-0370-13; Bottle of 100, NDC 0054-0370-25
 
 Lisdexamfetamine dimesylate capsules 30 mg: white body/orange cap (imprinted with 54 682) Bottle of 30, NDC 0054-0371-13; Bottle of 100, NDC 0054-0371-25

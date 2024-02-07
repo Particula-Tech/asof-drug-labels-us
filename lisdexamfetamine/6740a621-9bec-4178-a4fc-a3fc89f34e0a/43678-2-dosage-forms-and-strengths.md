@@ -1,5 +1,7 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
+Lisdexamfetamine dimesylate capsules 10 mg: pink opaque body/pink opaque cap (imprinted with 54 566)
+
 Lisdexamfetamine dimesylate capsules 20 mg: ivory body/ivory cap (imprinted with 54 990)
 
 Lisdexamfetamine dimesylate capsules 30 mg: white body/orange cap (imprinted with 54 682)

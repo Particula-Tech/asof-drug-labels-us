@@ -2,10 +2,14 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Abuse, Misuse, and Addiction: Educate patients and their families about the risks of abuse, misuse, and addiction of lisdexamfetamine dimesylate, which can lead to overdose and death, and proper disposal of any unused drug [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2), Overdosage (10)].
-Advise patients to store lisdexamfetamine dimesylate in a safe place, preferably locked, and instruct patients to not give lisdexamfetamine dimesylate to anyone else.
+Abuse, Misuse, and Addiction: Educate patients and their families about the risks of abuse, misuse, and addiction of
 
-Risks to Patients with Serious Cardiac Disease: Advise patients that there are potential risks to patients with serious cardiac disease, including sudden death, with lisdexamfetamine dimesylate use.
+lisdexamfetamine dimesylate capsules, which can lead to overdose and death, and proper disposal of any unused drug
+
+[see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2), Overdosage (10)].
+Advise patients to store lisdexamfetamine dimesylate capsules in a safe place, preferably locked, and instruct patients to not give lisdexamfetamine dimesylate capsules to anyone else.
+
+Risks to Patients with Serious Cardiac Disease: Advise patients that there are potential risks to patients with serious cardiac disease, including sudden death, with lisdexamfetamine dimesylate capsules use.
 Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
 
 Increased Blood Pressure and Heart Rate: Instruct patients that lisdexamfetamine dimesylate can cause elevations of their blood pressure and pulse rate and they should be monitored for such effects.
@@ -36,7 +40,7 @@ women exposed to lisdexamfetamine dimesylate during pregnancy [see Use in Specif
 Pregnancy: Advise patients of the potential fetal effects from the use of lisdexamfetamine dimesylate during pregnancy.
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with lisdexamfetamine dimesylate [see Use in Specific Populations (8.1)].
 
-Lactation:Advise women not to breastfeed if they are taking lisdexamfetamine dimesylate [see Use in Specific Populations (8.2)].
+Lactation: Advise women not to breastfeed if they are taking lisdexamfetamine dimesylate [see Use in Specific Populations (8.2)].
 
 Administration Instructions
 
@@ -49,6 +53,6 @@ Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50001173/03
+C50001173/04
 
-Revised October 2023
+Revised January 2024

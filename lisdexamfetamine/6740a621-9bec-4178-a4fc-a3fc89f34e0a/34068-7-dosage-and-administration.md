@@ -4,8 +4,8 @@
 
 Prior to treating patients with lisdexamfetamine dimesylate capsules, assess:
 
-- •for the presence of cardiac disease (i. e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
-- •the family history and clinically evaluate patients for motor or verbal tics or Tourette’s syndrome before initiating lisdexamfetamine dimesylate capsules [see Warnings and Precautions (5.8)].
+- •for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
+- •the family history and clinically evaluate patients for motor or verbal tics or Tourette’s syndrome before initiating lisdexamfetamine dimesylate capsules[see Warnings and Precautions (5.8)].
 
 ## 2.2 General Administration Information
 
@@ -21,7 +21,7 @@ Information for lisdexamfetamine dimesylate capsules:
   Consume the entire mixture immediately.
   It should not be stored.
   The active ingredient dissolves completely once dispersed; however, a film containing the inactive ingredients may remain in the glass or container once the mixture is consumed.
-  Do not take anything less than one capsule per day.
+- Do not take anything less than one capsule per day.
   A single dose should not be divided.
 
 ## 2.3 Dosage for Treatment of ADHD
@@ -38,7 +38,8 @@ Discontinue lisdexamfetamine dimesylate if binge eating does not improve.
 ## 2.5 Dosage in Patients with Renal Impairment
 
 In patients with severe renal impairment (GFR 15 to < 30 mL/min/1.73 m2), the maximum dosage should not exceed 50 mg once daily.
-In patients with end stage renal disease (ESRD, GFR < 15 mL/min/1.73 m2), the maximum recommended dosage is 30 mg once daily [see Use in Specific Populations (8.6)].
+In patients with end stage renal disease (ESRD, GFR < 15 mL/min/1.73 m2), the maximum recommended dosage is 30 mg once daily [see Use in Specific Populations (Error!
+Hyperlink reference not valid.)].
 
 ## 2.6 Dosage Modifications due to Drug Interactions
 

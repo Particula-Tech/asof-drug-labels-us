@@ -38,7 +38,7 @@ Lisdexamfetamine dimesylate showed significantly greater efficacy than placebo.
 The placebo-adjusted mean reduction from baseline in the ADHD-RS-IV total score was 18.6.
 Subjects on lisdexamfetamine dimesylate also showed greater improvement on the Clinical Global Impression-Improvement (CGI-I) rating scale compared to subjects on placebo (Study 5 in Table 6).
 
-Pediatric Patients Ages 6 to 17 Years: Maintenance Treatment in ADHD:Maintenance of Efficacy Study (Study 6) - A double-blind, placebo-controlled, randomized withdrawal study was conducted in pediatric patients ages 6 to 17 years (N=276) who met the diagnosis of ADHD (DSM-IV criteria).
+Pediatric Patients Ages 6 to 17 Years: Maintenance Treatment in ADHD: Maintenance of Efficacy Study (Study 6) - A double-blind, placebo-controlled, randomized withdrawal study was conducted in pediatric patients ages 6 to 17 years (N=276) who met the diagnosis of ADHD (DSM-IV criteria).
 A total of 276 patients were enrolled into the study, 236 patients participated in Study 5 and 40 subjects directly enrolled.
 Subjects were treated with open-label lisdexamfetamine dimesylate for at least 26 weeks prior to being assessed for entry into the randomized withdrawal period.
 Eligible patients had to demonstrate treatment response as defined by CGI-S <3 and Total Score on the ADHD-RS ≤22.
@@ -83,7 +83,7 @@ Pediatric Patients (Ages 6 to 17) and Adults with ADHD
 | --- | --- | --- | --- | --- | --- |
 | Study 1 (6 -12 years) | ADHD-RS-IV | lisdexamfetamine dimesylate (30 mg/day)Doses statistically significantly superior to placebo. | 43.2 (6.7) | -21.8 (1.6) | -15.6 (-19.9, -11.2) |
 |  |  | lisdexamfetamine dimesylate (50 mg/day) | 43.3 (6.7) | -23.4 (1.6) | -17.2 (-21.5, -12.9) |
-|  |  | lisdexamfetamine dimesylate (70 mg/day) | 45.1(6.8) | -26.7 (1.5) | -20.5 (-24.8, -16.2) |
+|  |  | lisdexamfetamine dimesylate (70 mg/day) | 45.1 (6.8) | -26.7 (1.5) | -20.5 (-24.8, -16.2) |
 |  |  | Placebo | 42.4 (7.1) | -6.2 (1.6) | -- |
 | Study 2 (6 -12 years) | Average SKAMP-DS | lisdexamfetamine dimesylate (30, 50 or 70 mg/day) | --b | 0.8 (0.1)d | -0.9 (-1.1, -0.7) |
 |  |  | Placebo | --b | 1.7 (0.1)d | -- |
