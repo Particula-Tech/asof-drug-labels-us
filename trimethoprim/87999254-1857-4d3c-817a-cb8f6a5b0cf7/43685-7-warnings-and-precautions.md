@@ -1,3 +1,9 @@
+# WARNINGS
+
+NOT FOR INJECTION INTO THE EYE.
+If a sensitivity reaction to polymyxin B sulfate and trimethoprim ophthalmic solution occurs, discontinue use.
+Polymyxin B sulfate and trimethoprim ophthalmic solution is not indicated for the prophylaxis or treatment of ophthalmia neonatorum.
+
 # PRECAUTIONS
 
 ## General
