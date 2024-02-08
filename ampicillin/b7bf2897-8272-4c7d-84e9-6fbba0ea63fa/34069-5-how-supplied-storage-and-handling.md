@@ -17,4 +17,4 @@ The vial stopper is not made with natural rubber latex.
 Clinitest is a registered trademark of Miles, Inc. Clinistix is a registered trademark of Bayer Corporation.
 Tes-Tape is a registered trademark of Eli Lilly Company.
 Distributed by: Eugia US LLC 279 Princeton-Hightstown Rd.
-E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad – 500032 India Revised: December 2022
+E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad – 500032 India Revised: January 2024
