@@ -14,7 +14,7 @@ Keep this and all medication out of the reach of children.
 
 Manufactured In India By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-B 3/2021
+C 12/2023
