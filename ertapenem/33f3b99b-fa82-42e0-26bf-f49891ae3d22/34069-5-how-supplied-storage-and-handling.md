@@ -6,7 +6,7 @@ INVANZ is supplied as a sterile lyophilized powder in single-dose vials containi
 
 1 g ertapenem equivalent
 
-NDC 0006-3843-71 in trays of 10 vials.
+NDC 0006-3843-71 in packages of 10 vials.
 
 ## 16.2 Storage and Handling
 
