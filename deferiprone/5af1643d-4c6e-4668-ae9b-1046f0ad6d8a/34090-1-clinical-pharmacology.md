@@ -15,9 +15,9 @@ At the maximum approved recommended dose, deferiprone does not prolong the QT in
 
 ## 12.3 Pharmacokinetics
 
-Deferiprone Tablets (three times a day), 500 mg
+Deferiprone Tablets (three times a day), 1,000 mg and 500 mg
 
-The mean Cmax and AUC of deferiprone was 20 mcg/mL and 50 mcg∙h/mL, respectively, in healthy subjects.
+The mean C maxand AUC of deferiprone was 20 mcg/mL and 50 mcg∙h/mL, respectively, in healthy subjects.
 The dose proportionality of deferiprone over the approved recommended dosage range is unknown.
 
 Absorption
@@ -36,7 +36,7 @@ The elimination half-life of deferiprone is approximately 2 hours.
 Metabolism
 
 Deferiprone is metabolized primarily by UGT1A6.
-The major metabolite of deferiprone is the 3-O-glucuronide, which lacks iron binding capability.
+The major metabolite of deferiprone is the 3- O-glucuronide, which lacks iron binding capability.
 
 Excretion
 
@@ -44,13 +44,13 @@ Following oral administration, 75% to 90% of the administered dose was recovered
 
 Specific Populations
 
-No clinically significant differences in the pharmacokinetics of deferiprone were observed based on sex, race/ethnicity, body weight, mild to severe (eGFR 15 to 89 mL/min/1.73 m2) renal impairment, or mild (Child Pugh Class A) to moderate (Child Pugh Class B) hepatic impairment.
+No clinically significant differences in the pharmacokinetics of deferiprone were observed based on sex, race/ethnicity, body weight, mild to severe (eGFR 15 to 89 mL/min/1.73 m 2) renal impairment, or mild (Child Pugh Class A) to moderate (Child Pugh Class B) hepatic impairment.
 The effect of age, including geriatric or pediatric populations, end stage renal disease or severe (Child Pugh Class C) hepatic impairment on the pharmacokinetics of deferiprone is unknown.
 
 Drug Interaction Studies
 
 In Vitro Studies
 
-UGTIA6 Inhibitors: Phenylbutazone (UGT1A6 inhibitor) decreased glucuronidation of deferiprone by up to 78%.
+UGTIA6 Inhibitors:Phenylbutazone (UGT1A6 inhibitor) decreased glucuronidation of deferiprone by up to 78%.
 
-Polyvalent Cations: Deferiprone has the potential to bind polyvalent cations (e.g., iron, aluminum, and zinc).
+Polyvalent Cations:Deferiprone has the potential to bind polyvalent cations (e.g., iron, aluminum, and zinc).

@@ -8,7 +8,7 @@ Measure the absolute neutrophil count (ANC) before starting deferiprone therapy 
 
 Reduction in the frequency of ANC monitoring should be considered on an individual patient basis, according to the health care provider's assessment of the patient's understanding of the risk minimization measures required during therapy.
 
-Interrupt deferiprone therapy if neutropenia develops (ANC < 1.5 × 109/L).
+Interrupt deferiprone therapy if neutropenia develops (ANC < 1.5 × 10 9/L).
 
 Interrupt deferiprone if infection develops and monitor the ANC frequently.
 
@@ -31,7 +31,7 @@ For neutropenia (ANC < 1.5 × 109/L and > 0.5 × 109/L):
 
 Instruct the patient to immediately discontinue deferiprone and all other medications with a potential to cause neutropenia.
 
-Obtain a complete blood cell (CBC) count, including a white blood cell (WBC) count corrected for the presence of nucleated red blood cells, an absolute neutrophil count (ANC), and a platelet count daily until recovery (ANC ≥ 1.5 × 109/L).
+Obtain a complete blood cell (CBC) count, including a white blood cell (WBC) count corrected for the presence of nucleated red blood cells, an absolute neutrophil count (ANC), and a platelet count daily until recovery (ANC ≥ 1.5 × 10 9/L).
 
 ## 5.2 Liver Enzyme Elevations
 
