@@ -25,9 +25,7 @@ Dispense the Enclosed Medication Guide to Each Patient
 3 blister packs.
 Each pack contains 10 tablets.
 
-Open
-
-Here
+Open Here
 
 # PRINCIPAL DISPLAY PANEL – 7 mg
 
@@ -56,9 +54,7 @@ Dispense the Enclosed Medication Guide to Each Patient
 3 blister packs.
 Each pack contains 10 tablets.
 
-Open
-
-Here
+Open Here
 
 # PRINCIPAL DISPLAY PANEL – 14 mg
 
@@ -87,9 +83,7 @@ Dispense the Enclosed Medication Guide to Each Patient
 3 blister packs.
 Each pack contains 10 tablets.
 
-Open
-
-Here
+Open Here
 
 # PRINCIPAL DISPLAY PANEL – 3 mg Bottle
 

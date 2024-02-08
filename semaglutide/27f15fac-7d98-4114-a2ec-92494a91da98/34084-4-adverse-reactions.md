@@ -78,7 +78,7 @@ Table 2 summarizes the incidence of hypoglycemia by various definitions in the p
 Table 2.
 Hypoglycemia Adverse Reactions in Placebo-Controlled Trials In Patients with Type 2 Diabetes Mellitus
 
-|  | Placebo | RYBELSUS 7 mg | RYBELSUS 14 mg |
+|  | Placebo | RYBELSUS7 mg | RYBELSUS14 mg |
 | --- | --- | --- | --- |
 | Monotherapy |  |  |  |
 | (26 weeks) | N=178 | N=175 | N=175 |
@@ -93,7 +93,7 @@ Hypoglycemia Adverse Reactions in Placebo-Controlled Trials In Patients with Typ
 | Severe* | 1% | 0% | 1% |
 | Plasma glucose<54 mg/dL | 32% | 26% | 30% |
 
-*“Severe” hypoglycemia adverse reactions are episodes requiring the assistance of another person.
+* “Severe” hypoglycemia adverse reactions are episodes requiring the assistance of another person.
 
 Hypoglycemia was more frequent when RYBELSUS was used in combination with insulin secretagogues (e.g., sulfonylureas) or insulin.
 
@@ -122,3 +122,5 @@ Gastrointestinal: ileus
 Hypersensitivity: anaphylaxis, angioedema, rash, urticaria
 
 Hepatobiliary: cholecystitis, cholelithiasis requiring cholecystectomy
+
+Nervous system disorders:dizziness, dysgeusia

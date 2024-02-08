@@ -5,7 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 Risk of Thyroid C-cell Tumors
 
 Inform patients that semaglutide causes thyroid C-cell tumors in rodents and that the human relevance of this finding has not been determined.
-Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia, or dyspnea) to their physician [see Boxed Warning and Warnings and Precautions (5.1)].
+Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia, or dyspnea) to their physician [see Boxed Warning, Warnings and Precautions (5.1)].
 
 Pancreatitis
 
@@ -65,10 +65,10 @@ Plainsboro, NJ 08536
 
 1-833-457-7455
 
-Version: 5
+Version: 6
 
 RYBELSUS ® and OZEMPIC® are registered trademarks of Novo Nordisk A/S.
 
-PATENT INFORMATION: http://www.novonordisk-us.com/products/product-patents.html
+PATENT INFORMATION: https://www.novonordisk-us.com/products/product-patents.html
 
-© 2023 Novo Nordisk
+© 2024 Novo Nordisk

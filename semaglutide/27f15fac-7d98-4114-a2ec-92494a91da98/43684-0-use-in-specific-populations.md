@@ -13,8 +13,8 @@ In pregnant rats administered semaglutide during organogenesis, embryofetal mort
 In rabbits and cynomolgus monkeys administered semaglutide during organogenesis, early pregnancy losses and structural abnormalities were observed at exposure below the MRHD (rabbit) and ≥10-fold the MRHD (monkey).
 These findings coincided with a marked maternal body weight loss in both animal species (see Data).
 
-The estimated background risk of major birth defects is 6–10% in women with pre-gestational diabetes with an HbA1c >7 and has been reported to be as high as 20–25% in women with a HbA1c >10.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+The estimated background risk of major birth defects is 6 to 10% in women with pre-gestational diabetes with an HbA1c >7 and has been reported to be as high as 20 to 25% in women with a HbA1c >10.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
@@ -59,9 +59,9 @@ Because of the unknown potential for serious adverse reactions in the breastfed 
 
 Data
 
-In lactating rats, semaglutide was detected in milk at levels 3-12 fold lower than in maternal plasma.
+In lactating rats, semaglutide was detected in milk at levels 3- to 12-fold lower than in maternal plasma.
 SNAC and/or its metabolites were detected in milk of lactating rats following a single maternal administration on lactation day 10.
-Mean levels of SNAC and/or its metabolites in milk were approximately 2-12 fold higher than in maternal plasma.
+Mean levels of SNAC and/or its metabolites in milk were approximately 2- to 12-fold higher than in maternal plasma.
 
 ## 8.3 Females and Males of Reproductive Potential
 

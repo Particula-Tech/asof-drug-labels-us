@@ -34,7 +34,7 @@ Results at Week 26 in a Trial of RYBELSUS as Monotherapy in Adult Patients with 
 | Baseline (mean) | 160 | 162 | 158 |
 | Change at week 26b | -3 | -28 | -33 |
 
-aThe intent-to-treat population includes all randomized patients.
+a The intent-to-treat population includes all randomized patients.
 At week 26, the primary HbA1c endpoint was missing for 5.6%, 8.6% and 8.6% of patients randomized to placebo, RYBELSUS 7 mg and RYBELSUS 14 mg, respectively.
 Missing data were imputed by a pattern mixture model using multiple imputation (MI).
 Pattern was defined by randomized treatment and treatment status at week 26.
@@ -42,7 +42,7 @@ During the trial, additional anti-diabetic medication was initiated as an add on
 
 b Estimated using an ANCOVA model based on data irrespectively of discontinuation of trial product or initiation of rescue medication adjusted for baseline value and region.
 
-cp<0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity.
+c p<0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity.
 
 The mean baseline body weight was 88.6 kg, 89.0 kg and 88.1 kg in the placebo, RYBELSUS 7 mg, and RYBELSUS 14 mg arms, respectively.
 The mean changes from baseline to week 26 were -1.4 kg, -2.3 kg and -3.7 kg in the placebo, RYBELSUS 7 mg, and RYBELSUS 14 mg arms, respectively.
@@ -74,15 +74,15 @@ Results at Week 26 in a Trial of RYBELSUS Compared to Empagliflozin in Adult Pat
 | Baseline (mean) | 172 | 174 |
 | Change at week 26b | -36 | -36 |
 
-aThe intent-to-treat population includes all randomized patients.
+a The intent-to-treat population includes all randomized patients.
 At week 26, the primary HbA1c endpoint was missing for 4.6% and 3.7% of patients randomized to RYBELSUS 14 mg and empagliflozin 25 mg, respectively.
 Missing data were imputed by a pattern mixture model using multiple imputation (MI).
 Pattern was defined by randomized treatment and treatment status at week 26.
 During the trial, additional anti-diabetic medication was initiated as an add on to randomized treatment by 1.9% and 1.2% of patients randomized to RYBELSUS 14 mg and empagliflozin 25 mg, respectively.
 
-bEstimated using an ANCOVA based on data irrespectively of discontinuation of trial product or initiation of rescue medication adjusted for baseline value and region.
+b Estimated using an ANCOVA based on data irrespectively of discontinuation of trial product or initiation of rescue medication adjusted for baseline value and region.
 
-cp<0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity.
+c p<0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity.
 
 The mean baseline body weight was 91.9 kg and 91.3 kg in the RYBELSUS 14 mg and empagliflozin 25 mg arms, respectively.
 The mean changes from baseline to week 26 were -3.8 kg and -3.7 kg in the RYBELSUS 14 mg and empagliflozin 25 mg arms, respectively.
@@ -112,15 +112,15 @@ Results at Week 26 in a Trial of RYBELSUS Compared to Sitagliptin 100 mg Once Da
 | Baseline (mean) | 170 | 168 | 172 |
 | Change at week 26b | -21 | -31 | -15 |
 
-aThe intent-to-treat population includes all randomized patients.
+a The intent-to-treat population includes all randomized patients.
 At week 26, the primary HbA1c endpoint was missing for 5.8%, 6.2% and 4.5% of patients randomized to RYBELSUS 7 mg, RYBELSUS 14 mg and sitagliptin 100 mg, respectively.
 Missing values were imputed by a pattern mixture model using multiple imputation (MI).
 Pattern was defined by randomized treatment and treatment status at week 26.
 During the trial, additional anti-diabetic medication was initiated as an add on to randomized treatment by 2.4%, 1.1% and 2.8% of patients randomized to RYBELSUS 7 mg, RYBELSUS 14 mg and sitagliptin 100 mg, respectively.
 
-bEstimated using an ANCOVA based on data irrespectively of discontinuation of trial product or initiation of rescue medication adjusted for baseline value, background medication and region.
+b Estimated using an ANCOVA based on data irrespectively of discontinuation of trial product or initiation of rescue medication adjusted for baseline value, background medication and region.
 
-cp<0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity.
+c p<0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity.
 
 The mean baseline body weight was 91.3 kg, 91.2 kg and 90.9 kg in the RYBELSUS 7 mg, RYBELSUS 14 mg and sitagliptin 100 mg arms, respectively.
 The mean changes from baseline to week 26 were -2.2 kg, -3.1 kg and -0.6 kg in the RYBELSUS 7 mg, RYBELSUS 14 mg and sitagliptin 100 mg arms, respectively.
@@ -152,15 +152,15 @@ Results at Week 26 in a Trial of RYBELSUS Compared to Liraglutide and Placebo in
 | Baseline (mean) | 167 | 168 | 167 |
 | Change at week 26b | -7 | -34 | -36 |
 
-aThe intent-to-treat population includes all randomized patients.
+a The intent-to-treat population includes all randomized patients.
 At week 26, the primary HbA1c endpoint was missing for 5.6%, 4.2% and 2.5% of patients randomized to placebo, liraglutide 1.8 mg and RYBELSUS 14 mg, respectively.
 Missing values were imputed by a pattern mixture model using multiple imputation (MI).
 Pattern was defined by randomized treatment and treatment status at week 26.
 During the trial, additional anti-diabetic medication was initiated as an add on to randomized treatment by 7.7%, 3.2% and 3.5% of patients randomized to placebo, liraglutide 1.8 mg and RYBELSUS 14 mg respectively.
 
-bEstimated using an ANCOVA based on data irrespectively of discontinuation of trial product or initiation of rescue medication adjusted for baseline value, background medication and region.
+b Estimated using an ANCOVA based on data irrespectively of discontinuation of trial product or initiation of rescue medication adjusted for baseline value, background medication and region.
 
-cp<0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity.
+c p<0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity.
 
 The mean baseline body weight was 93.2 kg, 95.5 kg and 92.9 kg in the placebo, liraglutide 1.8 mg, and RYBELSUS 14 mg arms, respectively.
 The mean changes from baseline to week 26 were -0.5 kg, -3.1 kg and -4.4 kg in the placebo, liraglutide 1.8 mg, and RYBELSUS 14 mg arms, respectively.
@@ -169,7 +169,7 @@ The difference from liraglutide 1.8 mg for RYBELSUS 14 mg was -1.2 (-1.9, -0.6).
 
 Combination in patients with Type 2 Diabetes Mellitus and Moderate Renal Impairment with Metformin alone, Sulfonylurea alone, Basal Insulin alone, or Metformin in Combination with either Sulfonylurea or Basal Insulin
 
-In a 26-week, double-blind trial (NCT02827708), 324 adult patients with moderate renal impairment (eGFRCKD-EPI 30−59 mL/min/1.73 m2) were randomized to RYBELSUS 14 mg or placebo once daily.
+In a 26-week, double-blind trial (NCT02827708), 324 adult patients with moderate renal impairment (eGFRCKD-EPI 30−59 mL/min/1.73m2) were randomized to RYBELSUS 14 mg or placebo once daily.
 RYBELSUS was added to the patient’s stable pre-trial antidiabetic regimen.
 The insulin dose was reduced by 20% at randomization for patients on basal insulin.
 Dose reduction of insulin and sulfonylurea was allowed in case of hypoglycemia; up titration of insulin was allowed but not beyond the pre-trial dose.
@@ -177,14 +177,14 @@ Dose reduction of insulin and sulfonylurea was allowed in case of hypoglycemia; 
 Patients had a mean age of 70 years and 48% were men.
 The mean duration of type 2 diabetes was 14 years, and the mean BMI was 32 kg/m2.
 Overall, 96% were White, 4% were Black or African American, and 0.3% were Asian; 6.5% identified as Hispanic or Latino ethnicity.
-39.5% of patients had an eGFR value of 30 to 44 mL/min/1.73 m2.
+39.5% of patients had an eGFR value of 30 to 44 mL/min/1.73m2.
 
 Treatment with RYBELSUS 14 mg once daily for 26 weeks resulted in a statistically significant reduction in HbA1c from baseline compared to placebo (see Table 7).
 
 Table 7.
 Results at Week 26 in a Trial of RYBELSUS Compared to Placebo in Patients with Moderate Renal Impairment
 
-|  | Placebo | RYBELSUS 14 mg |
+|  | Placebo | RYBELSUS14 mg |
 | --- | --- | --- |
 | Intent-to-Treat (ITT) Population (N)a | 161 | 163 |
 | HbA1c (%) |  |  |
@@ -196,15 +196,15 @@ Results at Week 26 in a Trial of RYBELSUS Compared to Placebo in Patients with M
 | Baseline (mean) | 164 | 164 |
 | Change at week 26b | -7 | -28 |
 
-aThe intent-to-treat population includes all randomized patients including patients on rescue medication.
+a The intent-to-treat population includes all randomized patients including patients on rescue medication.
 At week 26, the primary HbA1c endpoint was missing for 3.7% and 5.5% of patients randomized to placebo and RYBELSUS 14 mg, respectively.
 Missing values were imputed by a pattern mixture model using multiple imputation (MI).
 Pattern was defined by randomized treatment and treatment status at week 26.
 During the trial, additional anti-diabetic medication was initiated as an add on to randomized treatment by 10% and 4.3% of patients randomized to placebo and RYBELSUS 14 mg, respectively.
 
-bEstimated using an ANCOVA based on data irrespectively of discontinuation of trial product or initiation of rescue medication adjusted for baseline value, background medication, renal status and region.
+b Estimated using an ANCOVA based on data irrespectively of discontinuation of trial product or initiation of rescue medication adjusted for baseline value, background medication, renal status and region.
 
-cp<0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity.
+c p<0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity.
 
 The mean baseline body weight was 90.4 kg and 91.3 kg in the placebo and RYBELSUS 14 mg arms, respectively.
 The mean changes from baseline to week 26 were -0.9 kg and -3.4 kg in the placebo and RYBELSUS 14 mg arms, respectively.
@@ -237,15 +237,15 @@ Results at Week 26 in a Trial of RYBELSUS Compared to Placebo in Adult Patients 
 | Baseline (mean) | 150 | 153 | 150 |
 | Change at week 26b | 5 | -20 | -24 |
 
-aThe intent-to-treat population includes all randomized patients.
+a The intent-to-treat population includes all randomized patients.
 At week 26, the primary HbA1c endpoint was missing for 4.3%, 4.4%, and 4.4% of patients randomized to placebo, RYBELSUS 7 mg and RYBELSUS 14 mg, respectively.
 Missing values were imputed by a pattern mixture model using multiple imputation (MI).
 Pattern was defined by randomized treatment and treatment status at week 26.
 During the trial, additional anti-diabetic medication was initiated as an add on to randomized treatment by 4.9%, 1.1 % and 2.2% of patients randomized to placebo, RYBELSUS 7 mg and RYBELSUS 14 mg, respectively.
 
-bEstimated using an ANCOVA based on data irrespectively of discontinuation of trial product or initiation of rescue medication adjusted for baseline value, background medication and region.
+b Estimated using an ANCOVA based on data irrespectively of discontinuation of trial product or initiation of rescue medication adjusted for baseline value, background medication and region.
 
-cp<0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity.
+c p<0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity.
 
 The mean baseline body weight was 86.0 kg, 87.1 kg and 84.6 kg in the placebo, RYBELSUS 7 mg, and RYBELSUS 14 mg arms, respectively.
 The mean changes from baseline to week 26 were -0.4 kg, -2.4 kg and -3.7 kg in the placebo, RYBELSUS 7 mg, and RYBELSUS 14 mg arms, respectively.
@@ -255,7 +255,7 @@ The difference from placebo (95% CI) for RYBELSUS 7 mg was -2.0 kg (-3.0, -1.0),
 
 PIONEER 6 (NCT02692716) was a multi-center, multi-national, placebo-controlled, double-blind trial.
 In this trial, 3,183 adult patients with inadequately controlled type 2 diabetes and atherosclerotic cardiovascular disease were randomized to RYBELSUS 14 mg once daily or placebo for a median observation time of 16 months.
-The trial compared the risk of a Major Adverse Cardiovascular Event (MACE) between RYBELSUS 14 mg and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and cardiovascular disease.
+The trial compared the risk of a major adverse cardiovascular event (MACE) between RYBELSUS 14 mg and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and cardiovascular disease.
 The primary endpoint, MACE, was the time to first occurrence of a three-part composite outcome which included cardiovascular death, non-fatal myocardial infarction and non-fatal stroke.
 
 Patients eligible to enter the trial were 50 years of age or older and had established, stable, cardiovascular, cerebrovascular, peripheral artery disease, chronic kidney disease or NYHA class II and III heart failure or were 60 years of age or older and had other specified risk factors for cardiovascular disease.

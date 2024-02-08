@@ -8,7 +8,7 @@ A statistically significant increase in thyroid C-cell adenomas and a numerical 
 1. In a 2-year carcinogenicity study in Sprague Dawley rats, subcutaneous doses of 0.0025, 0.01, 0.025 and 0.1 mg/kg/day were administered (below quantification, 0.8-, 1.8- and 11-fold the exposure at the MRHD).
    A statistically significant increase in thyroid C-cell adenomas was observed in males and females at all dose levels, and a statistically significant increase in thyroid C-cell carcinomas was observed in males at ≥0.01 mg/kg/day, at clinically relevant exposures.
 
-Human relevance of thyroid C-cell tumors in rats is unknown and could not be determined by clinical studies or nonclinical studies [see Boxed Warning and Warnings and Precautions (5.1)].
+Human relevance of thyroid C-cell tumors in rats is unknown and could not be determined by clinical studies or nonclinical studies [see Boxed Warning, Warnings and Precautions (5.1)].
 
 Semaglutide was not mutagenic or clastogenic in a standard battery of genotoxicity tests (bacterial mutagenicity (Ames), human lymphocyte chromosome aberration, rat bone marrow micronucleus).
 
@@ -23,4 +23,4 @@ These effects were likely an adaptive response secondary to the pharmacological 
 Increase in lactate levels and decrease in glucose levels in the plasma and cerebrospinal fluid (CSF) were observed in mechanistic studies with SNAC in rats.
 Small but statistically significant increases in lactate levels (up to 2-fold) were observed in a few animals at approximately the clinical exposure.
 At higher exposures these findings were associated with moderate to marked adverse clinical signs (lethargy, abnormal respiration, ataxia, and reduced activity, body tone and reflexes) and marked decreases in plasma and CSF glucose levels.
-These findings are consistent with inhibition of cellular respiration and lead to mortality at SNAC concentrations >100-times the clinical Cmax.
+These findings are consistent with inhibition of cellular respiration and lead to mortality at SNAC concentrations ≥100-times the clinical Cmax.

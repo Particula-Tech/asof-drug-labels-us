@@ -12,7 +12,7 @@ RYBELSUS tablets are available as follows:
 
 Storage and Handling
 
-Store at 68° to 77°F (20 to 25°C); excursions permitted to 59° to 86°F (15° to 30°C) [see USP Controlled Room Temperature].
+Store at 68° to 77°F (20° to 25°C); excursions permitted to 59° to 86°F (15° to 30°C) [see USP Controlled Room Temperature].
 Store and dispense in the original bottle.
 
 Store tablet in the original bottle until use to protect tablets from moisture.
