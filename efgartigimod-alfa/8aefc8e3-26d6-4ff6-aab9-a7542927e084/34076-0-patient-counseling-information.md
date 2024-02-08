@@ -1,5 +1,10 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Pregnancy Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to VYVGART during pregnancy.
+Encourage participation and advise patients about how they may enroll in the registry [see Use In Specific Populations (8.1)].
+
 Infections
 
 Instruct patients to communicate any history of infections to the healthcare provider and to contact their healthcare provider if they develop any symptoms of an infection.
