@@ -17,7 +17,7 @@ Recovery of HPA axis function is generally prompt upon discontinuation of topica
 Infrequently, signs and symptoms of glucocorticosteroid insufficiency may occur requiring supplemental systemic corticosteroids.
 For information on systemic supplementation, see prescribing information for those products.
 
-Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios (see PRECAUTIONS:Pediatric Use_RefIDUSE).
+Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios (see PRECAUTIONS: Pediatric Use).
 
 If irritation develops, halobetasol propionate ointment, 0.05% should be discontinued and appropriate therapy instituted.
 Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation as with most topical products not containing corticosteroids.
@@ -51,15 +51,13 @@ Long-term animal studies have not been performed to evaluate the carcinogenic po
 Positive mutagenicity effects were observed in two genotoxicity assays.
 Halobetasol propionate was positive in a Chinese hamster micronucleus test, and in a mouse lymphoma gene mutation assay in vitro.
 
-Studies in the rat following oral administration at dose levels up to 50 µg/kg/day indicated no impairment of fertility or general reproductive performance.
+Studies in the rat following oral administration at dose levels up to 50 mcg/kg/day indicated no impairment of fertility or general reproductive performance.
 
 In other genotoxicity testing, halobetasol propionate was not found to be genotoxic in the Ames/Salmonella assay, in the sister chromatid exchange test in somatic cells of the Chinese hamster, in chromosome aberration studies of germinal and somatic cells of rodents, and in a mammalian spot test to determine point mutations.
 
 ## Pregnancy
 
-### Teratogenic effects:
-
-#### Pregnancy Catergory C:
+Teratogenic effects: Pregnancy Category C:
 
 Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
@@ -82,7 +80,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## Pediatric Use
 
-Safety and effectiveness of halobetasol propionate ointment, 0.05% in pedriatric patients have not been established and use in pediatric patients under 12 is not recommended.
+Safety and effectiveness of halobetasol propionate ointment, 0.05% in pediatric patients have not been established and use in pediatric patients under 12 is not recommended.
 Because of a higher ratio of skin surface area to body mass, pediatric patients are at a greater risk than adults of HPA suppression and Cushing's syndrome when they are treated with topical corticosteroids.
 They are therefore also at greater risk of adrenal insufficiency during or after withdrawal of treatment.
 Adverse effects including striae have been reported with inappropriate use of topical corticosteroids in infants and children.
