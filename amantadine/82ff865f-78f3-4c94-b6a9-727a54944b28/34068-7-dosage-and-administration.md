@@ -26,11 +26,11 @@ The initial and maximum recommended daily dosage of GOCOVRI for patients with re
 
 | Creatinine Clearance | Dosage |
 | --- | --- |
-| Mild renal impairment (60 to 89 mL/min/1.73 m2) | Initial dosage: 137 mg once daily at bedtime. After one week, increase to recommended dosage of 274 mg once daily at bedtime. |
-| Moderate renal impairment (30 to 59 mL/min/1.73 m2) | Initial dosage: 68.5 mg once daily at bedtime Maximum recommended dosage: 137 mg once daily at bedtime1 |
-| Severe renal impairment (15 to 29 mL/min/1.73 m2) | 68.5 mg once daily at bedtime |
-| End Stage Renal Disease (below 15 mL/min/1.73 m2) | Contraindicated |
-| 1 Increase, if needed, after one week of the initial dosage |  |
+| Mild renal impairment (60 to 89 mL/min/1.73 m 2) | Initial dosage: 137 mg once daily at bedtime. After one week, increase to recommended dosage of 274 mg once daily at bedtime. |
+| Moderate renal impairment (30 to 59 mL/min/1.73 m 2) | Initial dosage: 68.5 mg once daily at bedtime Maximum recommended dosage: 137 mg once daily at bedtime 1 |
+| Severe renal impairment (15 to 29 mL/min/1.73 m 2) | 68.5 mg once daily at bedtime |
+| End Stage Renal Disease (below 15 mL/min/1.73 m 2) | Contraindicated |
+| 1Increase, if needed, after one week of the initial dosage |  |
 
 ## 2.4 Discontinuation and Missed Dose
 

@@ -20,9 +20,9 @@ The pharmacokinetics of amantadine from 68.5 mg, 137 mg, and 274 mg of GOCOVRI a
 
 Absorption
 
-After a single dose bedtime administration of GOCOVRI, the median Tmax for plasma amantadine was around 12 hours (range 6-20 hours).
+After a single dose bedtime administration of GOCOVRI, the median T maxfor plasma amantadine was around 12 hours (range 6-20 hours).
 The steady-state concentrations of GOCOVRI were achieved 4 days after the dose initiation.
-The steady-state total exposures (AUC0-tau) were 20-30% higher than after single dose, suggesting an accumulation ratio of 1.2-1.3.
+The steady-state total exposures (AUC 0-tau) were 20-30% higher than after single dose, suggesting an accumulation ratio of 1.2-1.3.
 
 Effect of Food
 
@@ -62,11 +62,11 @@ The renal clearance of amantadine is significantly lower in adult patients with 
 Since the renal pathway is a major elimination pathway, impairment in renal function can result in significant accumulation in the plasma, warranting dose adjustment.
 The impact of renal impairment on dose adjustment was not investigated in a dedicated study.
 
-Based on PK simulations, the range of the total exposures (AUC0-tau) in subjects with normal renal function (creatinine clearance >90 mL/min/1.73 m2) or mild renal impairment (creatinine clearance between 60 and 89 mL/min/1.73 m2) were comparable for the same dosing regimen.
-However, patients with moderate renal impairment (creatinine clearance between 30 and 59 mL/min/1.73 m2) had higher exposures relative to patients with normal renal function or mild renal impairment.
-Severe renal impairment (creatinine clearance between 15 and 29 mL/min/1.73 m2) resulted in even higher total exposures.
+Based on PK simulations, the range of the total exposures (AUC 0-tau) in subjects with normal renal function (creatinine clearance >90 mL/min/1.73 m 2) or mild renal impairment (creatinine clearance between 60 and 89 mL/min/1.73 m 2) were comparable for the same dosing regimen.
+However, patients with moderate renal impairment (creatinine clearance between 30 and 59 mL/min/1.73 m 2) had higher exposures relative to patients with normal renal function or mild renal impairment.
+Severe renal impairment (creatinine clearance between 15 and 29 mL/min/1.73 m 2) resulted in even higher total exposures.
 Dosage adjustment is recommended in patients with moderate and severe renal impairment [see Use in Special Populations (8.6) and Dosage and Administration (2.3)].
-GOCOVRI is contraindicated in patients with end stage renal disease (creatinine clearance less than 15 mL/min/1.73 m2).
+GOCOVRI is contraindicated in patients with end stage renal disease (creatinine clearance less than 15 mL/min/1.73 m 2).
 
 Amantadine is inefficiently removed by hemodialysis.
 

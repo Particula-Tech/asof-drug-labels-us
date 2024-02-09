@@ -18,13 +18,13 @@ Animal Data
 The effects of amantadine on development have not been tested in studies conducted in animals using currently recommended methodology; however, developmental toxicity studies of amantadine have been reported in the published literature.
 
 In mice, oral administration of amantadine (0, 10, or 40 mg/kg/day) to pregnant animals during organogenesis (gestation days 7-12) resulted in embryolethality and reduced fetal body weight at the highest dose tested, which was associated with maternal toxicity.
-The no-effect dose for developmental toxicity in mice (10 mg/kg/day) is less than the recommended human dose (RHD) of 274 mg/day, based on body surface area (mg/m2).
+The no-effect dose for developmental toxicity in mice (10 mg/kg/day) is less than the recommended human dose (RHD) of 274 mg/day, based on body surface area (mg/m 2).
 
 In rats, oral administration of amantadine (0, 40 or 120 mg/kg/day) to pregnant animals during organogenesis (gestation days 7-12) resulted in embryolethality and reduced fetal body weight at the highest dose.
-The no-effect dose for developmental toxicity in this study (40 mg/kg/day) is approximately equal to the RHD on a mg/m2 basis.
+The no-effect dose for developmental toxicity in this study (40 mg/kg/day) is approximately equal to the RHD on a mg/m 2basis.
 
 In another study in pregnant rats, oral administration of amantadine during organogenesis (gestation days 7-14) resulted in an increase in visceral and skeletal malformations at oral doses of 50 and 100 mg/kg/day.
-The no-effect dose for teratogenicity in this study (37 mg/kg/day) is approximately equal to the RHD on a mg/m2 basis.
+The no-effect dose for teratogenicity in this study (37 mg/kg/day) is approximately equal to the RHD on a mg/m 2basis.
 
 Evaluation of parturition, lactation, and post-natal development in a limited number of litters from the mouse and rat studies described above revealed reductions in live litter size and pup weights at birth at 40 mg/kg/day in mice and 120 mg/kg/day in rats.
 
@@ -62,10 +62,10 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 ## 8.6. Renal Impairment
 
-GOCOVRI is contraindicated for use in patients with end-stage renal disease (creatinine clearance values lower than 15 mL/min/1.73 m2).
+GOCOVRI is contraindicated for use in patients with end-stage renal disease (creatinine clearance values lower than 15 mL/min/1.73 m 2).
 
-For patients with moderate renal impairment (creatinine clearance between 30 and 59 mL/min/1.73 m2), a 50% dose reduction of GOCOVRI dosage to a starting daily dose of 68.5 mg daily at bedtime for a week, to a maximum dosage of 137 mg daily at bedtime is recommended.
+For patients with moderate renal impairment (creatinine clearance between 30 and 59 mL/min/1.73 m 2), a 50% dose reduction of GOCOVRI dosage to a starting daily dose of 68.5 mg daily at bedtime for a week, to a maximum dosage of 137 mg daily at bedtime is recommended.
 
-For patients with severe renal impairment (creatinine clearance between 15 and 29 mL/min/1.73 m2), a daily dose of 68.5 mg at bedtime is the recommended initial and maximum dosage [see Dosage and Administration (2.3)].
+For patients with severe renal impairment (creatinine clearance between 15 and 29 mL/min/1.73 m 2), a daily dose of 68.5 mg at bedtime is the recommended initial and maximum dosage [see Dosage and Administration (2.3)].
 
 Creatinine clearance values are estimated by the Modification of Diet in Renal Disease (MDRD) method.

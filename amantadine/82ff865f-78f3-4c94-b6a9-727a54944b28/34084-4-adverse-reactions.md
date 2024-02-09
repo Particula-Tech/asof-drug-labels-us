@@ -33,8 +33,8 @@ Table 1: Adverse Reactions Reported for ≥ 3% of Patients Treated with 274 mg G
 | Adverse Reactions | GOCOVRI 274 mg N=100 % | Placebo N=98 % |
 | --- | --- | --- |
 | Psychiatric disorders |  |  |
-| Hallucinationsa | 21 | 3 |
-| Anxietyb | 7 | 3 |
+| Hallucinations a | 21 | 3 |
+| Anxiety b | 7 | 3 |
 | Insomnia | 7 | 2 |
 | Depression/Depressed mood | 6 | 1 |
 | Abnormal dreams | 4 | 2 |
@@ -62,7 +62,7 @@ Table 1: Adverse Reactions Reported for ≥ 3% of Patients Treated with 274 mg G
 | Metabolism and nutrition disorders |  |  |
 | Decreased appetite | 6 | 1 |
 | Vascular disorders |  |  |
-| Orthostatic hypotensionc | 13 | 1 |
+| Orthostatic hypotension c | 13 | 1 |
 | Eye disorders |  |  |
 | Blurred vision | 4 | 1 |
 | Cataract | 3 | 1 |
@@ -71,7 +71,7 @@ Table 1: Adverse Reactions Reported for ≥ 3% of Patients Treated with 274 mg G
 | Joint swelling | 3 | 0 |
 | Muscle spasms | 3 | 0 |
 | Reproductive system and breast disorders |  |  |
-| Benign prostatic hyperplasiad | 6 | 2 |
+| Benign prostatic hyperplasia d | 6 | 2 |
 | Respiratory, thoracic and mediastinal disorders |  |  |
 | Cough | 3 | 0 |
 | a=Includes visual hallucinations and auditory hallucinations b=Includes anxiety and generalized anxiety c=Includes orthostatic hypotension, postural dizziness, syncope, presyncope, and hypotension d=The denominator is all male patients in the safety population randomized to GOCOVRI (n=54) or placebo (n=57) |  |  |
