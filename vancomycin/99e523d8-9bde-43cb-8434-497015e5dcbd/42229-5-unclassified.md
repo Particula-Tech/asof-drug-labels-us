@@ -2,8 +2,6 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA
 
-Baxter and Galaxy are registered trademarks of Baxter International Inc.
+Baxter and Galaxy are trademarks of Baxter International Inc. or its subsidiaries.
 
-07-19-02-665
-
-Revised: January 2021
+071907613 Revised: January 2024

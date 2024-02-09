@@ -34,7 +34,7 @@ Baxter and Galaxy are trademarks of Baxter International Inc. Baxter Healthcare 
 
 07-34-74-761
 
-Carton Labels
+Carton Label
 
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 Product should not be thawed by immersion in water baths or by microware irradiation.
@@ -635,3 +635,157 @@ Cautions: Do not add supplementary medication or additives.
 Baxter Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA
+
+NDC 0338-0122-04
+
+1.25 g
+
+Vancomycin Injection, USP in 5% Dextrose
+
+1.25 g per 250 mL (5 mg/mL)
+
+For Intravenous Infusion Only Rx Only
+
+Single-Dose GALAXY Container Sterile Discard Unused Portion
+
+Each 100 mL contains: Vancomycin Hydrochloride, USP equivalent to 500 mg vancomycin with approx. 5 g Dextrose Hydrous, USP in Water for Injection, USP.
+Dosage: See prescribing information.
+
+Store frozen at or below -20°C /-4°F.
+
+Thaw at room temperature 20-25°C (68 - 77°F) or under refrigeration 2-8°C (36 - 46°F) and store thawed solution as follows:
+
+– Refrigerated Storage: Use within 30 days – Room Temperature Storage: Use within 72 hours
+
+Do not force thaw.
+Do not refreeze the thawed solution.
+Do not add supplemental medication or additives.
+
+Code 2G3557
+
+Baxter Logo
+
+Baxter and Galaxy are trademarks of Baxter International Inc. or its subsidiaries.
+Baxter Healthcare Corporation, Deerfield, IL 60015 USA
+
+07-34-00-1841
+
+*UPC-A BAR CODE POSITION ONLY
+
+309440495057
+
+Store frozen at or below -20°C /-4°F.
+Thaw at room temperature 20°C to 25°C (68°F to 77°F) or under refrigeration 2°C to 8°C (36°F to 46°F) and store thawed solution as follows:
+
+– Refrigerated Storage: Use within 30 days – Room Temperature Storage: Use within 72 hours
+
+Do not force thaw.
+Do not refreeze the thawed solution Handle frozen product containers with care.
+Product containers may be fragile in the frozen state.
+
+07-04-00-0961
+
+1.25 g
+
+Vancomycin Injection, USP in 5% Dextrose
+
+1.25 g per 250 mL (5 mg/mL)
+
+For Intravenous Infusion Only.
+
+Contains 2 units of Single-Dose bags.
+Each bag contains 250 mL.
+Store at or below -20°C/-4°F.
+
+Rx Only
+
+NDC 0338-0122-04 Code 2G3557
+
+*FOR BAR CODE POSITION ONLY (01)00000000000000
+
+GALAXY Container Sterile
+
+Each 100 mL contains: Vancomycin Hydrochloride, USP equivalent to 500 mg vancomycin with approx. 5 g Dextrose Hydrous, USP in Water for Injection, USP.
+
+Dosage: See prescribing information.
+Do not add supplementary medication or additives.
+
+Baxter Logo
+
+Baxter and Galaxy are trademarks of Baxter International Inc. or its subsidiaries.
+Baxter Healthcare Corporation, Deerfield, IL 60015 USA
+
+NDC 0338-0124-04
+
+1.5 g
+
+Vancomycin Injection, USP in 5% Dextrose
+
+1.5 g per 300 mL (5 mg/mL)
+
+For Intravenous Infusion Only Rx Only Single-Dose GALAXY Container Sterile
+
+Each 100 mL contains: Vancomycin Hydrochloride, USP equivalent to 500 mg vancomycin with approx. 5 g Dextrose Hydrous, USP in Water for Injection, USP.
+Dosage: See prescribing information.
+
+Store frozen at or below -20°C /-4°F.
+
+Thaw at room temperature 20°C to 25°C (68°F to 77°F) or under refrigeration 2°C to 8°C (36°F to 46°F) and store thawed solution as follows:
+
+– Refrigerated Storage: Use within 30 days – Room Temperature Storage: Use within 72 hours
+
+Do not force thaw.
+Do not refreeze the thawed solution.
+Do not add supplemental medication or additives.
+
+Baxter Logo
+
+Baxter and Galaxy are trademarks of Baxter International Inc. or its subsidiaries.
+Baxter Healthcare Corporation, Deerfield, IL 60015 USA
+
+Code 2G3558 07-34-00-1842
+
+*UPC-A BAR CODE POSITION ONLY
+
+309440495057
+
+Store frozen at or below -20°C /-4°F.
+Thaw at room temperature 20°C to 25°C (68°F to 77°F) or under refrigeration 2°C to 8°C (36°F to 46°F) and store thawed solution as follows:
+
+– Refrigerated Storage: Use within 30 days – Room Temperature Storage: Use within 72 hours
+
+Do not force thaw.
+Do not refreeze the thawed solution Handle frozen product containers with care.
+Product containers may be fragile in the frozen state.
+
+07-04-00-0962
+
+1.5 g
+
+Vancomycin Injection, USP in 5% Dextrose
+
+1.5 g per 300 mL (5 mg/mL)
+
+For Intravenous Infusion Only.
+
+Contains 2 units of Single-Dose bags.
+Each bag contains 300 mL.
+Store at or below -20°C/-4°F.
+
+Rx Only
+
+NDC 0338-0124-04 Code 2G3558
+
+*FOR BAR CODE POSITION ONLY (01)00000000000000
+
+GALAXY Container Sterile
+
+Each 100 mL contains: Vancomycin Hydrochloride, USP equivalent to 500 mg vancomycin with approx. 5 g Dextrose Hydrous, USP in Water for Injection, USP.
+
+Dosage: See prescribing information.
+Do not add supplementary medication or additives.
+
+Baxter Logo
+
+Baxter and Galaxy are trademarks of Baxter International Inc. or its subsidiaries.
+Baxter Healthcare Corporation, Deerfield, IL 60015 USA

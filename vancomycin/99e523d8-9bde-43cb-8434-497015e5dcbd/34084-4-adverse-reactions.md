@@ -3,7 +3,7 @@
 ## Infusion-Related Events
 
 During or soon after rapid infusion of vancomycin, patients may develop anaphylactoid reactions, including hypotension (see ANIMAL PHARMACOLOGY), wheezing, dyspnea, urticaria, or pruritus.
-Rapid infusion may also cause flushing of the upper body (“red neck”) or pain and muscle spasm of the chest and back.
+Rapid infusion may also cause flushing of the upper body (“vancomycin infusion reaction”) or pain and muscle spasm of the chest and back.
 These reactions usually resolve within 20 minutes but may persist for several hours.
 Such events are infrequent if vancomycin is given by a slow infusion over 60 minutes.
 In studies of normal volunteers, infusion-related events did not occur when vancomycin was administered at a rate of 10 mg/min or less.

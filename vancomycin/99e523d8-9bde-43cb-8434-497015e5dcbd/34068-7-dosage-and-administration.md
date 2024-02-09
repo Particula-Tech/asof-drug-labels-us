@@ -1,8 +1,8 @@
 # DOSAGE AND ADMINISTRATION
 
-Vancomycin Injection, USP in the GALAXY plastic container (PL 2040) is intended for intravenous use only.
+Vancomycin Injection, USP in the GALAXY plastic container is intended for intravenous use only.
 
-Vancomycin in the GALAXY Container (PL 2040 Plastic) is not to be administered orally.
+Vancomycin in the GALAXY Container is not to be administered orally.
 An infusion rate of 10 mg/min or less is associated with fewer infusion-related events (see ADVERSE REACTIONS).
 Infusion related events may occur, however, at any rate or concentration.
 
@@ -74,9 +74,9 @@ The safety and efficacy of vancomycin administration by the intrathecal (intralu
 
 Intermittent infusion is the recommended method of administration.
 
-## Directions for use of Vancomycin Injection, USP in GALAXY plastic container (PL 2040)
+## Directions for use of Vancomycin Injection, USP in GALAXY plastic container
 
-Vancomycin Injection, USP in GALAXY plastic container (PL 2040) is for intravenous administration only.
+Vancomycin Injection, USP in GALAXY plastic container is for intravenous administration only.
 
 ### Storage
 
@@ -96,7 +96,7 @@ Store in a freezer capable of maintaining a temperature at or below -20°C (-4°
    Potency is not affected.
    Agitate after solution has reached room temperature.
    If after visual inspection the solution remains cloudy or if an insoluble precipitate is noted or if any seals are not intact, the container should be discarded.
-5. 5.The thawed solution in GALAXY plastic container (PL 2040) remains chemically stable for 72 hours at room temperature (25°C/77°F) or for 30 days when stored under refrigeration (5°C/41°F).
+5. 5.The thawed solution in GALAXY plastic container remains chemically stable for 72 hours at room temperature (25°C/77°F) or for 30 days when stored under refrigeration (5°C/41°F).
 6. 6.Do not refreeze thawed antibiotics.
 
 ### Preparation for Intravenous Administration:

@@ -29,9 +29,9 @@ Discontinue Vancomycin Injection at the first appearance of signs and symptoms o
 
 Dosage of vancomycin must be adjusted for patients with renal dysfunction (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
-## Clostridium Difficile Associated Diarrhea (CDAD)
+## Clostridioides Difficile Associated Diarrhea (CDAD)
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Vancomycin Injection, USP, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Vancomycin Injection, USP, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.

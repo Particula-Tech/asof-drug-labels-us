@@ -5,6 +5,8 @@
   "inn": "vancomycin",
   "labeler": "Baxter Healthcare Corporation",
   "package_ndcs": [
+    "0338-0122-04",
+    "0338-0124-04",
     "0338-3551-48",
     "0338-3552-48",
     "0338-3580-48",
