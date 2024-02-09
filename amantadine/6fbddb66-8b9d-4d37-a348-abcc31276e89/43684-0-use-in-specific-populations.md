@@ -18,13 +18,13 @@ Animal Data
 The effects of amantadine on development have not been tested in studies conducted in animals using currently recommended methodology; however, developmental toxicity studies of amantadine have been reported in the published literature.
 
 In mice, oral administration of amantadine (0, 10, or 40 mg/kg/day) to pregnant animals during organogenesis (gestation days 7-12) resulted in embryolethality and reduced fetal body weight at the highest dose tested, which was associated with maternal toxicity.
-The no-effect dose for developmental toxicity in mice (10 mg/kg/day) is less than the maximum recommended human dose (MRHD) of 322 mg/day, based on body surface area (mg/m2).
+The no-effect dose for developmental toxicity in mice (10 mg/kg/day) is less than the maximum recommended human dose (MRHD) of 322 mg/day, based on body surface area (mg/m 2).
 
 In rats, oral administration of amantadine (0, 40 or 120 mg/kg/day) to pregnant animals during organogenesis (gestation days 7-12) resulted in embryolethality and reduced fetal body weight at the highest dose.
-The no-effect dose for developmental toxicity in this study (40 mg/kg/day) is similar to the MRHD on a mg/m2 basis.
+The no-effect dose for developmental toxicity in this study (40 mg/kg/day) is similar to the MRHD on a mg/m 2basis.
 
 In another study in pregnant rats, oral administration of amantadine during organogenesis (gestation days 7-14) resulted in an increase in visceral and skeletal malformations at oral doses of 50 and 100 mg/kg/day.
-The no-effect dose for teratogenicity in this study (37 mg/kg/day) is similar to the MRHD on a mg/m2 basis.
+The no-effect dose for teratogenicity in this study (37 mg/kg/day) is similar to the MRHD on a mg/m 2basis.
 
 Evaluation of parturition, lactation, and post-natal development in a limited number of litters from the mouse and rat studies described above revealed reductions in live litter size and pup weights at birth at 40 mg/kg/day in mice and 120 mg/kg/day in rats.
 
@@ -51,9 +51,9 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 Because amantadine is mainly excreted in the urine, it accumulates in the plasma and in the body when renal function declines [see Clinical Pharmacology (12.3)].
 
-OSMOLEX ER is contraindicated for use in patients with end-stage renal disease (creatinine clearance below 15 mL/min/1.73 m2).
+OSMOLEX ER is contraindicated for use in patients with end-stage renal disease (creatinine clearance below 15 mL/min/1.73 m 2).
 
 For patients with moderate or severe renal impairment, a reduction in dosing frequency is required.
-Closely monitor these patients (creatinine clearance 15 to less than 60 mL/min/1.73 m2) if prescribed the maximum daily dosage of 322 mg [see Dosage and Administration (2.3)].
+Closely monitor these patients (creatinine clearance 15 to less than 60 mL/min/1.73 m 2) if prescribed the maximum daily dosage of 322 mg [see Dosage and Administration (2.3)].
 
 Also, closely monitor patients with any degree of renal impairment for adverse reactions and potential changes in renal function, which may necessitate further dosage reduction.

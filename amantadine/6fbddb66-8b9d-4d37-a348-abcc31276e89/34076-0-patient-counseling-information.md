@@ -41,4 +41,4 @@ Drug Interactions
 
 Certain medications can cause an interaction with OSMOLEX ER.
 Advise patients and/or caregivers to inform their healthcare provider of all the medicines the patient is taking, including over-the-counter medicines, dietary supplements, and herbal products.
-Inform patients that live influenza vaccines and consumption of alcohol are not recommended during treatment with OSMOLEX ER [see Drug Interactions (7.1, 7.2, 7.3, 7.4)].
+Inform patients that live influenza vaccines and consumption of alcohol are not recommended during treatment with OSMOLEX ER [see Drug Interactions (7.1, 7.2,7.3,7.4)].

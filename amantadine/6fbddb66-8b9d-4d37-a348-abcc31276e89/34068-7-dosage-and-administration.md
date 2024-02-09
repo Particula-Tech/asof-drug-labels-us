@@ -21,7 +21,7 @@ There are no modifications for the recommended initial and maximum dosage in pat
 
 Table 1: Recommended Titration and Frequency of OSMOLEX ER Dosing in Patients with Renal Impairment
 
-| Renal Function/Estimated GFR (mL/min/1.73 m2)* | Minimum Titration Interval | Frequency of Dosing Regimen |
+| Renal Function/Estimated GFR (mL/min/1.73 m 2) * | Minimum Titration Interval | Frequency of Dosing Regimen |
 | --- | --- | --- |
 | Mild renal impairment (60 to 89) | Increase every week | One dose every 24 hours |
 | Moderate renal impairment (30 to 59) | Increase every 3 weeks | One dose every 48 hours |
