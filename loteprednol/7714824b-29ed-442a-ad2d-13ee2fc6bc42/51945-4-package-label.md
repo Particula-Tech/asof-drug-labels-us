@@ -1,0 +1,13 @@
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 82260-361-05
+
+Loteprednol Etabonate Ophthalmic Suspension, 0.2% Sterile FOR TOPICAL OPHTHALMIC USE ONLY Rx only
+
+5 mL
+
+BAUSCH + LOMB
+
+9610702
+
+MA35307

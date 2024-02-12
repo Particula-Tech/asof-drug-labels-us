@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020803"
+  ],
+  "inn": "loteprednol",
+  "labeler": "Bausch & Lomb Americas Inc.",
+  "package_ndcs": [
+    "82260-361-05"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "loteprednol etabonate",
+      "name": "loteprednol etabonate"
+    }
+  ],
+  "setid": "7714824b-29ed-442a-ad2d-13ee2fc6bc42",
+  "source": "dailymed"
+}
