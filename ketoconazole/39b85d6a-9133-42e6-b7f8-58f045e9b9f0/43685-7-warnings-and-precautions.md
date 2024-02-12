@@ -13,7 +13,7 @@ Hepatitis (1:10,000 reported incidence) and, at high doses, lowered testosterone
 
 A long-term feeding study in Swiss Albino mice and in Wistar rats showed no evidence of oncogenic activity.
 The dominant lethal mutation test in male and female mice revealed that single oral doses of ketoconazole as high as 80 mg/kg produced no mutation in any stage of germ cell development.
-The Ames' salmonella microsomal activator assay was also negative.
+The Ames' salmonellamicrosomal activator assay was also negative.
 
 ## Pregnancy
 

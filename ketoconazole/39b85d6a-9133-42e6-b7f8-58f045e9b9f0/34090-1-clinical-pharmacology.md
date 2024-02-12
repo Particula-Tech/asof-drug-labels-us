@@ -8,11 +8,10 @@ Two dermal irritancy studies, a human sensitization test, a phototoxicity study 
 
 ## Microbiology
 
-Ketoconazole is a broad spectrum synthetic antifungal agent which inhibits the in vitro growth of the following common dermatophytes and yeasts by altering the permeability of the cell membrane: dermatophytes: Trichophyton rubrum, T. mentagrophytes, T. tonsurans, Microsporum canis, M. audouini, M. gypseum and Epidermophyton floccosum; yeasts: Candida albicans, Malassezia ovale (Pityrosporum ovale) and C. tropicalis; and the organism responsible for tinea versicolor, Malassezia furfur (Pityrosporum orbiculare).
-Only those organisms listed in the INDICATIONS AND USAGE section have been proven to be clinically affected.
+Ketoconazole is a broad spectrum synthetic antifungal agent which inhibits the in vitrogrowth of the following common dermatophytes and yeasts by altering the permeability of the cell membrane: dermatophytes: Trichophyton rubrum, T. mentagrophytes, T. tonsurans, Microsporum canis, M. audouini, M. gypseumand Epidermophyton floccosum; yeasts: Candida albicans, Malassezia ovale (Pityrosporum ovale)and C. tropicalis;and the organism responsible for tinea versicolor, Malassezia furfur (Pityrosporum orbiculare).Only those organisms listed in the INDICATIONS AND USAGEsection have been proven to be clinically affected.
 Development of resistance to ketoconazole has not been reported.
 
 ## Mode of Action
 
-In vitro studies suggest that ketoconazole impairs the synthesis of ergosterol, which is a vital component of fungal cell membranes.
+In vitrostudies suggest that ketoconazole impairs the synthesis of ergosterol, which is a vital component of fungal cell membranes.
 It is postulated that the therapeutic effect of ketoconazole in seborrheic dermatitis is due to the reduction of M. ovale, but this has not been proven.
