@@ -1,0 +1,37 @@
+{
+  "application_numbers": [
+    "NDA021446",
+    "NDA022488"
+  ],
+  "inn": "pregabalin",
+  "labeler": "Viatris Specialty LLC",
+  "package_ndcs": [
+    "58151-236-77",
+    "58151-237-77",
+    "58151-237-88",
+    "58151-238-77",
+    "58151-238-88",
+    "58151-239-77",
+    "58151-239-88",
+    "58151-240-77",
+    "58151-240-88",
+    "58151-241-77",
+    "58151-242-77",
+    "58151-243-77",
+    "58151-244-35"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "pregabalin",
+      "name": "Lyrica"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "pregabalin",
+      "name": "Lyrica"
+    }
+  ],
+  "setid": "d4734e7d-5079-455e-8ff5-8f4539c998a9",
+  "source": "dailymed"
+}
