@@ -23,6 +23,8 @@ ELIGARD 22.5 mg Following a single injection of ELIGARD 22.5 mg for 3-month admi
 
 ELIGARD 30 mg Following a single injection of ELIGARD 30 mg for 4-month administration in patients, the mean peak plasma concentration was 150 ng/mL (Cmax) at 3.3 hours; at the end of the 16 week dosing interval the mean concentration declined to 0.1 ng/mL.
 
+ELIGARD 45 mg Following a single injection of ELIGARD 45 mg for 6-month administration in patients, the mean peak plasma concentration was 82 ng/mL at 4.5 hours (Cmax); at the end of the 24 week dosing interval the mean concentration declined to 0.2 ng/mL.
+
 There was no evidence of significant accumulation during repeated dosing.
 
 Distribution The mean steady-state volume of distribution of leuprolide following intravenous bolus administration to healthy male volunteers was 27 L. In vitro binding to human plasma proteins ranged from 43% to 49%.
@@ -42,12 +44,12 @@ Race In patients studied, mean serum leuprolide concentrations were similar rega
 Refer to Table 6 for distribution of study patients by race.
 
 Table 6.
-Race Characterization of ELIGARD Study Patients
+Race Characterization of ELIGARD Study Patients (n)
 
-| Race | ELIGARD 7.5 mg | ELIGARD 22.5 mg | ELIGARD 30 mg |
-| --- | --- | --- | --- |
-| White | 26 | 19 | 18 |
-| Black | - | 4 | 4 |
-| Hispanic | 2 | 2 | 2 |
+| Race | ELIGARD 7.5 mg | ELIGARD 22.5 mg | ELIGARD 30 mg | ELIGARD 45 mg |
+| --- | --- | --- | --- | --- |
+| White | 26 | 19 | 18 | 17 |
+| Black | - | 4 | 4 | 7 |
+| Hispanic | 2 | 2 | 2 | 3 |
 
 Renal and Hepatic Insufficiency The pharmacokinetics of ELIGARD in hepatically and renally impaired patients have not been determined.

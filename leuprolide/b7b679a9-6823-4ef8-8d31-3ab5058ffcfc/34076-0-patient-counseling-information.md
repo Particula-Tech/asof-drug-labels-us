@@ -8,7 +8,7 @@ Tumor Flare
 
 - Inform patients that ELIGARD can cause tumor flare during the first weeks of treatment.
   Inform patients that the increase in testosterone can cause an increase in urinary symptoms or pain.
-  Advise patients to contact their healthcare provider if uretral obstruction, spinal cord compression, paralysis, or new or worsened symptoms occur after beginning ELIGARD treatment [see Warnings and Precautions (5.1)].
+  Advise patients to contact their healthcare provider if ureteral obstruction, spinal cord compression, paralysis, or new or worsened symptoms occur after beginning ELIGARD treatment [see Warnings and Precautions (5.1)].
 
 Hyperglycemia and Diabetes
 
@@ -33,7 +33,7 @@ Infertility
 
 - Inform patients that ELIGARD may cause infertility [see Use In Specific Populations (8.3)].
 
-Manufactured by: Tolmar, Fort Collins, CO 80526 ©2023 Tolmar
+Manufactured by: Tolmar, Fort Collins, CO 80526 ©2024 Tolmar
 
 04006512 Rev.
-1 07/23
+3 01/2024

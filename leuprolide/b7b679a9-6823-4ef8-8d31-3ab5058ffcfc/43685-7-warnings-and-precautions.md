@@ -3,6 +3,7 @@
 ## 5.1 Tumor Flare
 
 ELIGARD 7.5 mg, 22.5 mg, and 30 mg like other GnRH agonists, causes a transient increase in serum concentrations of testosterone during the first week of treatment.
+ELIGARD 45 mg causes a transient increase in serum concentrations of testosterone during the first two weeks of treatment.
 Patients may experience worsening of symptoms or onset of new signs and symptoms during the first few weeks of treatment, including bone pain, neuropathy, hematuria, or bladder outlet obstruction.
 
 Cases of ureteral obstruction and/or spinal cord compression, which may contribute to paralysis with or without fatal complications, have been observed in the treatment of advanced prostate cancer using GnRH agonists.
@@ -24,11 +25,13 @@ Castrate levels were generally maintained for the duration of treatment with ELI
 
 Once castrate levels were achieved with ELIGARD 30 mg, most (86/89) patients remained suppressed throughout the study.
 
+Once castrate levels were achieved with ELIGARD 45 mg, one patient (< 1%) experienced a breakthrough, with testosterone levels > 50 ng/dL.
+
 Results of testosterone determinations are dependent on assay methodology.
 It is advisable to be aware of the type and precision of the assay methodology to make appropriate clinical and therapeutic decisions.
 
-Drug/Laboratory Test Interactions: Therapy with leuprolide acetate results in suppression of the pituitary-gonadal system.
-Results of diagnostic tests of pituitary gonadotropic and gonadal functions conducted during and after leuprolide therapy may be affected.
+Drug/Laboratory Test Interactions: Therapy with ELIGARD results in suppression of the pituitary-gonadal system.
+Results of diagnostic tests of pituitary gonadotropic and gonadal functions conducted during and after ELIGARD therapy may be affected.
 
 ## 5.3 Hyperglycemia and Diabetes
 
@@ -58,6 +61,6 @@ Patients receiving a GnRH agonist who experience convulsion should be managed ac
 
 ## 5.7 Embryo-Fetal Toxicity
 
-Based on findings in animal studies and mechanism of action, leuprolide acetate may cause fetal harm when administered to a pregnant woman.
+Based on findings in animal studies and mechanism of action, ELIGARD may cause fetal harm when administered to a pregnant woman.
 In animal developmental and reproductive studies, major fetal abnormalities were observed after administration of leuprolide acetate throughout gestation in rats.
 Advise pregnant patients and females of reproductive potential of the potential risk to the fetus [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1)].

@@ -2,7 +2,7 @@
 
 How Supplied
 
-ELIGARD is supplied as a single-dose two syringe-mixing system with a sterile safety needle and cap.
+ELIGARD is supplied as a single-dose, two syringe-mixing system with a sterile safety needle and cap.
 ELIGARD is available as follows (Table 10):
 
 Table 10.
@@ -13,6 +13,7 @@ ELIGARD Product Presentations
 | 7.5 mg | 62935-756-80 | Light tan to tan, clear, viscous solution | White to off white powder | Light tan to tan |
 | 22.5 mg | 62935-227-10 | Colorless to pale yellow, clear viscous solution | White to off white powder | Colorless to pale yellow |
 | 30 mg | 62935-306-40 | Colorless to pale yellow, clear viscous solution | White to off white powder | Colorless to pale yellow |
+| 45 mg | 62935-461-50 | Colorless to pale yellow, clear viscous solution | White to off white powder | Colorless to pale yellow |
 
 Storage
 

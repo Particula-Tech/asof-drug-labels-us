@@ -2,13 +2,15 @@
   "application_numbers": [
     "NDA021343",
     "NDA021379",
-    "NDA021488"
+    "NDA021488",
+    "NDA021731"
   ],
   "inn": "leuprolide",
   "labeler": "TOLMAR Inc.",
   "package_ndcs": [
     "62935-227-10",
     "62935-306-40",
+    "62935-461-50",
     "62935-756-80"
   ],
   "products": [
