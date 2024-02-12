@@ -150,7 +150,7 @@ Important information
 Support
 
 - For instructions on setting up the App, go to www.AirDuoDigihaler.com or call Teva at 1-888-603-0788.
-- If you have any questions about AirDuo Digihaler or how to use your inhaler, go to www.AirDuoDigihaler.com, or call 1-888-603-0788.
+- If you have any questions about AirDuo Digihaler or how to use your inhaler, go to www.AirDuoDigihaler.com or call 1-888-603-0788.
 
 This device complies with part 15 of the FCC Rules.
 Operation is subject to the following two conditions: (1) This device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation.
