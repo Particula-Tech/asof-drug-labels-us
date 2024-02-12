@@ -59,11 +59,11 @@ Other Information
 ZILXI should be applied exactly as directed.
 ZILXI may stain fabric.
 
-Manufactured by: ASM Aerosol-Service AG, Mohlin, Switzerland Manufactured for: Journey Medical Corporation, Scottsdale, AZ 85258 Product of Portugal or Switzerland
+Manufactured by: ASM Aerosol-Service AG, Mohlin, Switzerland Manufactured for: Journey Medical Corporation, Scottsdale, AZ 85258 Product of Portugal or Italy
 
-ZIL-P01-R00
+ZIL-P01-R01
 
 ZILXI is a registered trademark of Journey Medical Corporation.
 All other trademarks are the properties of their respective owners.
-Copyright © 2022, Journey Medical Corporation.
+Copyright © 2023, Journey Medical Corporation.
 All rights reserved.
