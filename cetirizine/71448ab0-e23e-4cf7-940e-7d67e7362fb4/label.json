@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA078412"
+  ],
+  "inn": "cetirizine",
+  "labeler": "PAI Holdings, LLC",
+  "package_ndcs": [
+    "0121-0874-16"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "cetirizine hydrochloride",
+      "name": "Cetirizine Hydrochloride"
+    }
+  ],
+  "setid": "71448ab0-e23e-4cf7-940e-7d67e7362fb4",
+  "source": "dailymed"
+}
