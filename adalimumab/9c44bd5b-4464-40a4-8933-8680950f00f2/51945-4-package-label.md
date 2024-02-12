@@ -106,7 +106,7 @@ Rx Only
 
 AMGEN®
 
-# PRINCIPAL DISPLAY PANEL - 10 mg Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 10 mg/0.2 mL Syringe Carton
 
 AMGEN®
 
@@ -133,7 +133,7 @@ Do not use if carton seal is broken
 
 Not made with natural rubber latex
 
-For Use in Pediatric Patients 15 kg to < 30 kg
+For Use in Pediatric Patients 10 kg to < 15 kg
 
 Refrigerate until ready to use
 
