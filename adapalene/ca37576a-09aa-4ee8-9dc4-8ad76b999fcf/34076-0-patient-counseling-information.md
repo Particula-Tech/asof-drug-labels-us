@@ -16,5 +16,4 @@ Patients using Adapalene Gel, 0.3% should receive the following information and 
 7. Contact the doctor if skin rash, pruritus, hives, chest pain, edema, and shortness of breath occurs, as these may be signs of allergy or hypersensitivity.
 8. This product is for external use only.
 9. Lactation: Use Adapalene Gel, 0.3% on the smallest area of skin and for the shortest duration possible while breastfeeding.
-   Avoid application of Adapalene Gel, 0.3% to areas with increased risk for potential ingestion by or ocular exposure to the breastfeeding child.
-   [see Use in Specific Populations, Lactation (8.2)]
+   Avoid application of Adapalene Gel, 0.3% to areas with increased risk for potential ingestion by or ocular exposure to the breastfeeding child [see Use in Specific Populations, Lactation (8.2)].

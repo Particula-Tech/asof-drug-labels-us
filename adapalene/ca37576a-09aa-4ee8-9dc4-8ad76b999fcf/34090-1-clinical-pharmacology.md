@@ -13,9 +13,9 @@ Clinical pharmacodynamic studies have not been conducted for Adapalene Gel, 0.3%
 ## 12.3 Pharmacokinetics
 
 Systemic exposure of adapalene following topical application of Adapalene Gel, 0.3% was evaluated in a clinical trial.
-Sixteen acne subjects were treated once daily for 10 days with 2 grams of Adapalene Gel, 0.3% applied to the face, chest and back, corresponding to approximately 2 mg/cm2.
-Fifteen subjects had quantifiable (LOQ = 0.1 ng/mL) adapalene levels resulting in a mean Cmax of 0.553 ± 0.466 ng/mL on Day 10 of treatment.
-The mean AUC0-24hr was 8.37 ± 8.46 ng.h/mL as determined in 15 of the 16 subjects on Day 10.
+Sixteen acne subjects were treated once daily for 10 days with 2 grams of Adapalene Gel, 0.3% applied to the face, chest and back, corresponding to approximately 2 mg/cm 2.
+Fifteen subjects had quantifiable (LOQ = 0.1 ng/mL) adapalene levels resulting in a mean C maxof 0.553 ± 0.466 ng/mL on Day 10 of treatment.
+The mean AUC 0-24hrwas 8.37 ± 8.46 ng∙h/mL as determined in 15 of the 16 subjects on Day 10.
 The terminal apparent half-life, determined in 15 of 16 subjects, ranged from 7 to 51 hours, with a mean of 17.2 ± 10.2 hours.
 Adapalene was rapidly cleared from plasma and was not detected 72 hours after the last application for all but one subject.
 Exposure of potential circulating metabolites of adapalene was not measured.

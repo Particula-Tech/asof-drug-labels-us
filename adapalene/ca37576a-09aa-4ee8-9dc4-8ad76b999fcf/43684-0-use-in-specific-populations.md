@@ -15,11 +15,11 @@ Data
 
 Animal Data
 
-No malformations were observed in rats treated with oral adapalene doses of 0.15 to 5 mg/kg/day, up to 8 times the MRHD based on a mg/m2 comparison.
-However, malformations were observed in rats and rabbits when treated with oral doses of ≥ 25 mg/kg/day adapalene (40 and 81 times the MRHD, respectively, based on a mg/m2 comparison).
+No malformations were observed in rats treated with oral adapalene doses of 0.15 to 5 mg/kg/day, up to 8 times the MRHD based on a mg/m 2comparison.
+However, malformations were observed in rats and rabbits when treated with oral doses of ≥ 25 mg/kg/day adapalene (40 and 81 times the MRHD, respectively, based on a mg/m 2comparison).
 Findings included cleft palate, microphthalmia, encephalocele, and skeletal abnormalities in rats and umbilical hernia, exophthalmos, and kidney and skeletal abnormalities in rabbits.
 
-Dermal adapalene embryofetal development studies in rats and rabbits at doses up to 6 mg/kg/day (9.7 and 19.5 times the MRHD, respectively, based on a mg/m2comparison) exhibited no fetotoxicity and only minimal increases in skeletal variations (supernumerary ribs in both species and delayed ossification in rabbits).
+Dermal adapalene embryofetal development studies in rats and rabbits at doses up to 6 mg/kg/day (9.7 and 19.5 times the MRHD, respectively, based on a mg/m 2comparison) exhibited no fetotoxicity and only minimal increases in skeletal variations (supernumerary ribs in both species and delayed ossification in rabbits).
 
 ## 8.2 Lactation
 
@@ -29,7 +29,7 @@ There are no data on the presence of topical adapalene gel or its metabolite in 
 In animal studies, adapalene is present in rat milk with oral administration of the drug.
 When a drug is present in animal milk, it is likely that the drug will be present in human milk.
 It is possible that topical administration of large amounts of adapalene could result in sufficient systemic absorption to produce detectable quantities in human milk (see Clinical Considerations).
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Adapalene Gel, 0.3% and any potential adverse effects on the breastfed child from Adapalene Gel, or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Adapalene Gel, 0.3% and any potential adverse effects on the breastfed child from Adapalene Gel, 0.3%, or from the underlying maternal condition.
 
 Clinical Considerations
 
