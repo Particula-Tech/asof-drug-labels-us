@@ -1,22 +1,24 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information)
+Advise women to read the FDA-approved patient labeling (Patient Information)
 
-## 17.1 Abnormal Vaginal Bleeding
+Vaginal Bleeding
 
-Inform postmenopausal women of the importance of reporting abnormal vaginal bleeding to their healthcare provider as soon as possible [see Warnings and Precautions (5.2)].
+Inform postmenopausal women to report any vaginal bleeding to their healthcare provider as soon as possible [see Warnings and Precautions (5.2)].
 
-## 17.2 Possible Serious Adverse Reactions with Estrogen Plus Progestin Therapy
+Possible Serious Adverse Reactions with Estrogen Plus Progestogen Therapy
 
-Inform postmenopausal women of possible serious adverse reactions of estrogen plus progestin therapy including Cardiovascular Disorders, Malignant Neoplasms, and Probable Dementia [see Warnings and Precautions (5.1, 5.2, 5.3)].
+Inform postmenopausal women of possible serious adverse reactions of estrogen plus progestogen therapy including Cardiovascular Disorders, Malignant Neoplasms, and Probable Dementia [see Warnings and Precautions (5.1, 5.2, 5.3)].
 
-## 17.3 Possible Less Serious but Common Adverse Reactions with Estrogen Plus Progestin Therapy
+Possible Common Adverse Reactions with Estrogen Plus Progestogen Therapy
 
-Inform postmenopausal women of possible less serious but common adverse reactions of estrogen plus progestin therapy such as headache, breast pain and tenderness, nausea and vomiting.
+Inform postmenopausal women of possible less serious but common adverse reactions of estrogen plus progestogen therapy such as headache, breast pain and tenderness, nausea and vomiting.
 
-TEVA PHARMACEUTICALS USA, INC.
+Manufactured For:
 
-North Wales, PA 19454
+Teva Pharmaceuticals
+
+Parsippany, NJ 07054
 
 Rev.
-C 2/2016
+D 11/2023

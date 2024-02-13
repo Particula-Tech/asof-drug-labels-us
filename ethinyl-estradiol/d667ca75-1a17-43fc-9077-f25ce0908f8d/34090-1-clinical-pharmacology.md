@@ -24,7 +24,8 @@ Progestins produce similar endometrial changes to those of the naturally occurri
 
 ## 12.2 Pharmacodynamics
 
-Currently, there is no pharmacodynamic data known for Jinteli.
+Generally, a serum estrogen concentration does not predict an individual woman’s therapeutic response to Jinteli nor her risk for adverse outcomes.
+Likewise, exposure comparisons across different estrogen products to infer efficacy or safety for the individual woman may not be valid.
 
 ## 12.3 Pharmacokinetics
 
@@ -45,22 +46,25 @@ It can be explained by higher SHBG concentrations.
 Mean steady-state plasma concentrations of ethinyl estradiol for the Jinteli 0.5/2.5 tablets and Jinteli 1/5 tablets are proportional to dose, but there is a less than proportional increase in steady-state concentrations for the NA/EE 1/10 tablet.
 
 Figure 1.
-Mean Steady-State (Day 87) Plasma Norethindrone and Ethinyl Estradiol
+Mean Steady-State (Day 87) Plasma Norethindrone and Ethinyl Estradiol Concentrations Following Continuous Oral Administration of 1 mg NA/10 mcg EE Tablets
 
-Concentrations Following Continuous Oral Administration of 1 mg NA/10 mcg EE Tablets
+Table 2.
+Mean (SD) Single-Dose (Day 1) and Steady-State (Day 87) Pharmacokinetic Parameters† Following Administration of 1 mg NA/10 mcg EE Tablets
 
-| Table 2. Mean (SD) Single-Dose (Day 1) and Steady-State (Day 87) Pharmacokinetic ParametersCmax = Maximum plasma concentration; tmax = time of Cmax; AUC (0 to 24) = Area under the plasma concentration-time curve over the dosing interval; and CL/F = Apparent oral clearance; t1/2 = Elimination half-lifeFollowing Administration of 1 mg NA/10 mcg EE Tablets |  |  |  |  |  |
+|  | Cmax | tmax | AUC(0-24) | CL/F | t1/2 |
 | --- | --- | --- | --- | --- | --- |
-|  | Cmax | tmax | AUC (0 to 24) | CL/F | t1/2 |
-| NORETHINDRONE | ng/mL | hr | ng·hr/mL | mL/min | hr |
-| Day 1Day 87 | 6.0 (3.3)10.7 (3.6) | 1.8 (0.8)1.8 (0.8) | 29.7 (16.5)81.8 (36.7) | 588 (416)226 (139) | 10.3 (3.7)13.3 (4.5) |
-| ETHINYL ESTRADIOL | pg/mL | hr | pg·hr/mL | mL/min | hr |
-| Day 1Day 87 | 33.5 (13.7)38.3 (11.9) | 2.2 (1.0)1.8 (0.7) | 339 (113)471 (132) | NDND = Not determined383 (119) | ND23.9 (7.1) |
+| NORETHINDRONE | ng/mL | hr | ng•hr/mL | mL/min | hr |
+| Day 1 | 6.0 (3.3) | 1.8 (0.8) | 29.7 (16.5) | 588 (416) | 10.3 (3.7) |
+| Day 87 | 10.7 (3.6) | 1.8 (0.8) | 81.8 (36.7) | 226 (139) | 13.3 (4.5) |
+| ETHINYL ESTRADIOL | pg/mL | hr | pg•hr/mL | mL/min | hr |
+| Day 1 | 33.5 (13.7) | 2.2 (1.0) | 339 (113) | ND‡ | ND‡ |
+| Day 87 | 38.3 (11.9) | 1.8 (0.7) | 471 (132) | 383 (119) | 23.9 (7.1) |
+| † Cmax = Maximum plasma concentration; tmax = time of Cmax; AUC(0-24) = Area under the plasma concentration-time curve over the dosing interval; and CL/F = Apparent oral clearance; t1/2 = Elimination half-life‡ ND = Not determined |  |  |  |  |  |
 
 Based on a population pharmacokinetic analysis, average steady-state concentrations (Css) of norethindrone and ethinyl estradiol for Jinteli 1/5 tablets are estimated to be 2.6 ng/mL and 11.4 pg/mL, respectively.
 Css values of norethindrone and ethinyl estradiol for Jinteli 0.5/2.5 tablets are estimated to be 1.1 ng/mL and 5.4 ng/mL, respectively.
 
-The pharmacokinetics of norethindrone acetate and ethinyl estradiol were not affected by age, (age range 40 to 62 years), in the postmenopausal population studied.
+The pharmacokinetics of ethinyl estradiol and norethindrone acetate were not affected by age, (age range 40 to 62 years), in the postmenopausal population studied.
 
 Distribution
 
@@ -97,7 +101,3 @@ Estradiol, estrone, and estriol are excreted in the urine along with glucuronide
 Norethindrone and ethinyl estradiol are excreted in both urine and feces, primarily as metabolites.
 Plasma clearance values for norethindrone and ethinyl estradiol are similar (approximately 0.4 L/hr/kg).
 Steady-state elimination half-lives of norethindrone and ethinyl estradiol following administration of 1 mg NA/10 mcg EE tablets are approximately 13 hours and 24 hours, respectively.
-
-Use in Specific Populations
-
-No pharmacokinetic studies were conducted in specific populations, including women with renal or hepatic impairment.

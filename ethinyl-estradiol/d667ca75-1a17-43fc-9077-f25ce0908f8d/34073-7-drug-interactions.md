@@ -1,18 +1,12 @@
 # 7 DRUG INTERACTIONS
 
-No drug-drug interaction studies have been conducted for Jinteli.
+In vitro and in vivo studies have shown that estrogens are metabolized partially by cytochrome P450 3A4 (CYP3A4).
+Therefore, inducers or inhibitors of CYP3A4 may affect estrogen and progestin drug metabolism.
+Inducers of CYP3A4 such as St. John’s wort (Hypericum perforatum) preparations, phenobarbital, carbamazepine and rifampin may decrease the plasma concentration of estrogens and progestins, possibly resulting in a decrease in therapeutic effects and/or changes in the uterine bleeding profile.
+Inhibitors of CYP3A4 such as erythromycin, clarithromycin, ketoconazole, itraconazole, ritonavir and grapefruit juice may increase the plasma concentration of the estrogen or the progestin or both and may result in adverse reactions.
 
-## 7.1 Effect of Other Drugs on Combined Hormonal Products
-
-Substances decreasing or increasing the plasma concentration of estrogen: In vitro and in vivo studies have shown that estrogens are metabolized partially by cytochrome P450 3A4 (CYP3A4).
-Therefore, inducers or inhibitors of CYP3A4 may affect estrogen drug metabolism.
-Inducers of CYP3A4 such as St. John’s wort (Hypericum perforatum) preparations, phenobarbital, carbamazepine and rifampin may decrease the plasma concentration of estrogens, possibly resulting in a decrease in therapeutic effects and/or changes in the uterine bleeding profile.
-Inhibitors of CYP3A4 such as erythromycin, clarithromycin, ketoconazole, itraconazole, ritonavir and grapefruit juice may increase the plasma concentration of estrogens and may result in side effects.
-Co-administration of atorvastatin and certain hormonal products containing ethinyl estradiol increase AUC values for ethinyl estradiol approximately 20 percent.
+Coadministration of atorvastatin and certain hormonal products containing ethinyl estradiol increase AUC values for ethinyl estradiol approximately 20 percent.
 Ascorbic acid and acetaminophen may increase the plasma ethinyl estradiol concentration, possibly by inhibition of conjugation.
 
-## 7.2 Effect of Combined Hormonal Products on Other Drugs
-
-Combination hormonal products containing some synthetic estrogens (for example, ethinyl estradiol) may inhibit the metabolism of other compounds.
 Combination hormonal products have been shown to significantly decrease the plasma concentration of lamotrigine likely due to induction of lamotrigine glucuronidation.
 This may reduce seizure control; therefore, dosage adjustments of lamotrigine may be necessary.

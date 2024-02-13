@@ -9,15 +9,23 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adverse reactions reported by ≥5 percent of subjects in controlled clinical studies of Jinteli are shown in Table 1.
+Adverse reactions reported by ≥ 5 percent of women in controlled clinical studies of Jinteli are shown in Table 1.
 
-| Table 1. Associated Adverse Reactions Reported by ≥5 Percent of Subjects by Body SystemThe total number of subjects for each body system may be less than the number of subjects with AEs in that body system because a subject may have had more than one AE per body system |  |  |  |
+Table 1.
+Associated Adverse Reactions Reported by ≥ 5 Percent of Women by Body System*
+
+| BODY SYSTEM/Adverse Reaction | Number (Percent) of Subjects |  |  |
 | --- | --- | --- | --- |
-| BODY SYSTEM/ Adverse Reaction | Number (Percent) of Subjects |  |  |
-| Placebo N = 247 | Jinteli 0.5/2.5 N = 244 | Jinteli 1/5 N = 258 |  |
-| BODY AS A WHOLE Edema – Generalized Headache | 23 (12.8)10 (4.0)12 (4.9) | 30 (16.9)12 (4.9)14 (5.7) | 30 (15.7)11 (43)16 (6.2) |
-| DIGESTIVE SYSTEM Abdominal Pain | 8 (4.4)3 (1.2) | 17 (9.6)13 (5.3) | 25 (13.1)14 (6.8) |
-| UROGENITAL SYSTEM Breast Pain | 20 (11.1)9 (3.6) | 34 (19.2)22 (9.0) | 45 (23.6)20 (7.8) |
+| Placebo | Jinteli 0.5/2.5 | Jinteli 1/5 |  |
+| N = 247 | N = 244 | N = 258 |  |
+| BODY AS A WHOLE | 23 (12.8) | 30 (16.9) | 30 (15.7) |
+| Edema - Generalized | 10 (4.0) | 12 (4.9) | 11 (4.3) |
+| Headache | 12 (4.9) | 14 (5.7) | 16 (6.2) |
+| DIGESTIVE SYSTEM | 8 (4.4) | 17 (9.6) | 25 (13.1) |
+| Abdominal Pain | 3 (1.2) | 13 (5.3) | 14 (6.8) |
+| UROGENITAL SYSTEM | 20 (11.1) | 34 (19.2) | 45 (23.6) |
+| Breast Pain | 9 (3.6) | 22 (9.0) | 20 (7.8) |
+| * The total number of women for each body system may be less than the number of women with AEs in that body system because a woman may have had more than one AE per body system |  |  |  |
 
 ## 6.2 Postmarketing Experience
 
