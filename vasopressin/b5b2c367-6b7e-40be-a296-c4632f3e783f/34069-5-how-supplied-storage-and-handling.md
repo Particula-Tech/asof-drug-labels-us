@@ -10,7 +10,9 @@ Vasopressin in Sodium Chloride Injection is supplied as a clear, practically col
 Store in the refrigerator (2°C to 8°C [36°F to 46°F]).
 Protect from freezing.
 
-Use within 72 hours once taken out of refrigerated condition.
+If needed, Vasopressin in Sodium Chloride Injection may be stored at room temperature up to 25°C (77°F) for up to 6 months.
+Discard after 6 months if stored at room temperature or until the expiration date printed on the carton and container label, whichever is earlier.
+Once stored at room temperature, do not place back in the refrigerator.
 
 The drug product must be stored in its light protective carton during storage.
 
@@ -22,6 +24,6 @@ Deerfield, IL 60015 USA
 
 Printed in USA
 
-07-19-04-793
+07-19-06-884
 
 Baxter and Galaxy are trademarks of Baxter International Inc.

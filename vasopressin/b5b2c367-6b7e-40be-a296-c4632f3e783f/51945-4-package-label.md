@@ -14,7 +14,8 @@ Dosage: See prescribing information.
 
 Store refrigerated (2°C to 8°C [36°F to 46°F]).
 
-Use within 72 hours once taken out of the refrigerated condition.
+If needed, product may be stored at room temperature up to 25°C (77°F) for up to 6 months.
+Discard after 6 months if stored at room temperature.
 
 Protect from light.
 Protect from freezing.
@@ -25,7 +26,7 @@ Code 2G3498
 
 BaxterLogo Baxter Healthcare Corporation, Deerfield, IL 60015 USA
 
-Product of USA 07-34-00-1681
+Product of USA 07-34-00-2001
 
 BAR CODE POSITION ONLY UPCA-A
 
@@ -45,7 +46,8 @@ Dosage: See prescribing information.
 
 Store refrigerated (2°C to 8°C [36°F to 46°F]).
 
-Use within 72 hours once taken out of the refrigerated condition.
+If needed, product may be stored at room temperature up to 25°C (77°F) for up to 6 months.
+Discard after 6 months if stored at room temperature.
 
 Protect from light.
 Protect from freezing.
@@ -56,7 +58,7 @@ Code 2G3499
 
 Baxter Logo Baxter Healthcare Corporation, Deerfield, IL 60015 USA
 
-Product of USA 07-34-00-1682
+Product of USA 07-34-00-2002
 
 BAR CODE POSITION ONLY UPCA-A
 
@@ -64,7 +66,8 @@ XXXXXXXXXXXX
 
 Store refrigerated (2°C to 8°C [36°F to 46°F]).
 
-Use within 72 hours once taken out of the refrigerated condition.
+If needed, product may be stored at room temperature up to 25°C (77°F) for up to 6 months.
+Discard after 6 months if stored at room temperature.
 
 The drug product must be stored in its light protective carton during storage.
 Protect from freezing.
@@ -86,7 +89,8 @@ Rx only
 
 Store refrigerated (2°C to 8°C [36°F to 46°F]).
 
-Use within 72 hours once taken out of the refrigerated condition.
+If needed, product may be stored at room temperature up to 25°C (77°F) for up to 6 months.
+Discard after 6 months if stored at room temperature.
 
 The drug product must be stored in its light protective carton during storage.
 Protect from freezing.
@@ -117,7 +121,7 @@ Dosage: See prescribing information.
 
 Baxter Healthcare Corporation,Deerfield, IL 60015 USA
 
-07-04-00-0841
+07-04-00-1121
 
 NDC 0338-9640-12 Code 2G3498
 
@@ -130,11 +134,12 @@ Dosage: See prescribing information.
 
 Baxter Healthcare Corporation,Deerfield, IL 60015 USA
 
-07-04-00-0841
+07-04-00-1121
 
 Store refrigerated (2°C to 8°C [36°F to 46°F]).
 
-Use within 72 hours once taken out of the refrigerated condition.
+If needed, product may be stored at room temperature up to 25°C (77°F) for up to 6 months.
+Discard after 6 months if stored at room temperature.
 
 The drug product must be stored in its light protective carton during storage.
 Protect from freezing.
@@ -156,7 +161,8 @@ Rx only
 
 Store refrigerated (2°C to 8°C [36°F to 46°F]).
 
-Use within 72 hours once taken out of the refrigerated condition.
+If needed, product may be stored at room temperature up to 25°C (77°F) for up to 6 months.
+Discard after 6 months if stored at room temperature.
 
 The drug product must be stored in its light protective carton during storage.
 Protect from freezing.
@@ -168,7 +174,7 @@ Vasopressin in 0.9% Sodium Chloride Injection 40 units per 100 mL(0.4 units/mL)
 Contains: 6 x 100 mL Single-Dose bags.
 Each bag contains 100 mL.
 
-Baxter Logo
+BaxterLogo
 
 Rx only
 
@@ -187,7 +193,7 @@ Dosage: See prescribing information.
 
 Baxter Healthcare Corporation,Deerfield, IL 60015 USA
 
-07-04-00-0842
+07-04-00-1122
 
 NDC 0338-9647-12 Code 2G3499
 
@@ -200,4 +206,4 @@ Dosage: See prescribing information.
 
 Baxter Healthcare Corporation,Deerfield, IL 60015 USA
 
-07-04-00-0842
+07-04-00-1122
