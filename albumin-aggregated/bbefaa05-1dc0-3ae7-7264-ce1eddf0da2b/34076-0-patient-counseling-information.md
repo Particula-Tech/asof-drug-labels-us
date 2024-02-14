@@ -2,11 +2,11 @@
 
 Adequate Hydration
 
-Instruct patients to drink a sufficient amount of water to ensure adequate hydration before their imaging and urge them to drink and urinate as often as possible during the first hours following the administration of Technetium Tc 99m Aggregated Albumin Injection, in order to reduce radiation exposure [see Dosage and Administration (2.2)].
+Instruct patients to drink a sufficient amount of water to ensure adequate hydration before their imaging and urge them to drink and urinate as often as possible during the first hours following the administration of Technetium Tc 99m Aggregated Albumin Injection, in order to reduce radiation exposure[see Dosage and Administration (2.2)].
 
 Pregnancy
 
-Advise pregnant women of the risk of fetal exposure to radiation doses if they undergo aradionucleotide procedure [see Use in Specific Populations (8.1)].
+Advise pregnant women of the risk of fetal exposure to radiation doses if they undergo a radionucleotide procedure [see Use in Specific Populations (8.1)].
 
 Lactation
 

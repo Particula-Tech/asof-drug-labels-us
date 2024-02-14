@@ -9,7 +9,7 @@ DRAXIMAGE MAA is contraindicated in patients with severe pulmonary hypertension 
 
 Serious hypersensitivity reactions including anaphylaxis have been reported in patients treated with products containing albumin human, including DRAXIMAGE MAA [see Adverse Reactions (6)].
 Obtain a history of allergy or hypersensitivity reactions.
-DRAXIMAGE MAA is contraindicated in patients with a history of hypersensitivity to albumin human[see Contraindications (4)].
+DRAXIMAGE MAA is contraindicated in patients with a history of hypersensitivity to albumin human [see Contraindications (4)].
 Have emergency resuscitation equipment and trained personnel available prior to administration of Technetium Tc 99m Albumin Aggregated Injection.
 Monitor all patients for signs or symptoms of hypersensitivity reactions.
 
@@ -23,4 +23,4 @@ Administer the lowest possible number of particles of Technetium Tc 99m Albumin 
 Technetium Tc 99m albumin aggregated contributes to a patient’s overall long-term cumulative radiation exposure.
 Long-term cumulative radiation exposure is associated with an increased risk for cancer.
 Ensure safe handling to minimize radiation exposure to the patient and healthcare providers.
-Advise patients to hydrate before and after administration and to void frequently after administration[see Dosage and Administration (2.2)].
+Advise patients to hydrate before and after administration and to void frequently after administration [see Dosage and Administration (2.2)].
