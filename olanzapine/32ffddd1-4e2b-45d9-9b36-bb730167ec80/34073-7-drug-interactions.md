@@ -50,3 +50,10 @@ The opioid should be administered by properly trained individual(s), and the pat
 In non-emergency situations, if a LYBALVI-treated patient is expected to require opioid treatment (e.g., for analgesia during or after an elective surgical procedure) discontinue LYBALVI at least 5 days before opioid treatment and start olanzapine or another antipsychotic, if needed.
 
 Given that LYBALVI contains samidorphan, an opioid antagonist, opioid treatment may be less effective or ineffective shortly after LYBALVI discontinuation because of the presence of samidorphan.
+
+## 7.4 Interference with Laboratory Tests
+
+Interference with Laboratory Tests for Opioid Detection
+
+Because LYBALVI contains samidorphan, an opioid antagonist, LYBALVI may be cross-reactive with urinary immunoassay methods used for detecting opioids, resulting in false positive results.
+Use an alternative analytical technique (e.g., chromatographic methods) to confirm positive opioid urine drug screen results [see Contraindications (4) and Warnings and Precautions (5.19)].

@@ -83,7 +83,7 @@ Advise patients to take LYBALVI once daily and not split or combine tablets [see
 
 Distributed by: Alkermes, Inc. Waltham, MA 02451
 
-©2023 Alkermes, Inc. All rights reserved.
+©2024 Alkermes, Inc. All rights reserved.
 
 ALKERMES® is a registered trademark of Alkermes, Inc. LYBALVI® is a registered trademark of Alkermes Pharma Ireland Limited, used by Alkermes, Inc., under license.
 

@@ -115,7 +115,7 @@ For patients with diseases, conditions, or medications that could exacerbate the
 
 ## 5.11 Leukopenia, Neutropenia, and Agranulocytosis
 
-Leukopenia and neutropenia have been reported during treatment with antipsychotic agents, including LYBALVI [see Adverse Reactions (6.1)].
+Leukopenia and neutropenia have been reported during treatment with antipsychotic agents, including LYBALVI [see Adverse Reactions (6)].
 Agranulocytosis (including fatal cases) has been reported with other agents in this class.
 
 Possible risk factors for leukopenia and neutropenia include pre-existing low white blood cell count (WBC) or absolute neutrophil count (ANC) and history of drug-induced leukopenia or neutropenia.
@@ -174,3 +174,8 @@ In the 24-week, olanzapine-controlled study, shifts from normal to high prolacti
 ## 5.18 Risks Associated with Combination Treatment with Lithium or Valproate
 
 If LYBALVI is administered with lithium or valproate, refer to the lithium or valproate Prescribing Information for a description of the risks for these products including, but not limited to, the warnings and precautions for lithium or valproate [see Contraindications (4)].
+
+## 5.19 Interference with Laboratory Tests for Opioid Detection
+
+LYBALVI may cause false positive results with urinary immunoassay methods used for detecting opioids.
+Use an alternative analytical technique (e.g., chromatographic methods) to confirm positive opioid urine drug screen results [see Contraindications (4) and Drug Interactions (7.4)].
