@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA208070"
+  ],
+  "inn": "dabigatran-etexilate",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-4347-2",
+    "60505-4347-6",
+    "60505-4348-2",
+    "60505-4348-6",
+    "60505-4349-2",
+    "60505-4349-6"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "dabigatran etexilate",
+      "name": "dabigatran etexilate"
+    }
+  ],
+  "setid": "dd47a015-ff90-d7a7-8dcb-4e6e31a68071",
+  "source": "dailymed"
+}
