@@ -13,4 +13,4 @@ The chemical structure is:
 
 Each film-coated tablet for oral administration contains 5 mg of chlordiazepoxide and 14 mg of amitriptyline hydrochloride equivalent to 12.5 mg of amitriptyline or 10 mg of chlordiazepoxide and 27.98 mg of amitriptyline hydrochloride equivalent to 25 mg of amitriptyline.
 Each tablet contains the following inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hydroxypropyl cellulose, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, pregelatinized starch (corn), sodium lauryl sulfate and titanium dioxide.
-In addition, the 5 mg/12.5 mg tablets also contain D&C Yellow No. 10 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake and FD&C Yellow No. 6 Aluminum Lake and the 10 mg/25 mg tablets also contain calcium sulfate and talc.
+In addition, the 5 mg/12.5 mg tablets also contain D&C Yellow No. 10 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake and FD&C Yellow No. 6 Aluminum Lake and the 10 mg/25 mg tablets also contain polydextrose and triacetin.
