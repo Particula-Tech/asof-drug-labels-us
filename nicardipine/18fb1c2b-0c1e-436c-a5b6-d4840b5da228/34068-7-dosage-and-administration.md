@@ -30,7 +30,7 @@ Dextrose (5%) Injection, USP Dextrose (5%) and Sodium Chloride (0.45%) Injection
 
 Nicardipine hydrochloride is not compatible with Sodium Bicarbonate (5%) Injection, USP or Lactated Ringer’s Injection, USP.
 
-Flexible Containers
+Single Dose Containers
 
 Dilution is not required for Nicardipine Hydrochloride in 0.9% Sodium Chloride Injection.
 
@@ -43,6 +43,8 @@ Protect from light until ready to use.
 
 Do not use plastic containers in series connections.
 Such use could result in air embolism due to residual air being drawn from the primary container before the administration of the fluid from the secondary container is complete.
+
+Discard Unused Portion
 
 Preparation for administration
 
