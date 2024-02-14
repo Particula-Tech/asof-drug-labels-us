@@ -3,9 +3,9 @@
 ## 2.1 Important Dosage and Administration Instructions
 
 - OMNIPAQUE 140, 180, 240, 300 and 350 are indicated for intravascular, oral, rectal, intraarticular, and body cavity administration.
-  OMNIPAQUE 180, 240, and 300 are indicated for intrathecal administration [see Boxed Warning, Contraindications (4), and Warnings and Precautions (5.1)].
+  OMNIPAQUE 180, 240, and 300 are indicated for intrathecal administration [seeBoxed Warning,Contraindications (4), and Warnings and Precautions (5.1)].
 - Use sterile technique for all handling and administration of OMNIPAQUE for intravascular, intrathecal, intraarticular, and body cavity administration.
-- OMNIPAQUE oral solution 9 and 12 are indicated for oral use only [see Contraindications (4) and Warnings and Precautions (5.2)].
+- OMNIPAQUE oral solution 9 and 12 are indicated for oral use only [seeContraindications (4)and Warnings and Precautions (5.2)].
 - Do not use if tamper-evident ring is broken or missing.
 - OMNIPAQUE injection may be administered at either body (37°C, 98.6°F) or room temperature (20° to 25°C, 68° to 77°F).
 - Inspect OMNIPAQUE injection for particulate matter or discoloration before administration, whenever solution and container permit.
@@ -14,8 +14,8 @@
 - Use the lowest dose necessary to obtain adequate visualization.
 - Individualize the volume, strength, and rate of administration of OMNIPAQUE injection.
   Consider factors such as age, body weight, vessel size, blood flow rate within the vessel, anticipated pathology, degree and extent of opacification required, structures or area to be examined, disease processes affecting the patient, and equipment and technique to be employed.
-- Avoid extravasation when administering OMNIPAQUE injection intravascularly, especially in patients with severe arterial or venous disease [see Warnings and Precautions (5.6)].
-- Hydrate patients before and after intravascular administration of OMNIPAQUE injection [see Warnings and Precautions (5.4)].
+- Avoid extravasation when administering OMNIPAQUE injection intravascularly, especially in patients with severe arterial or venous disease [seeWarnings and Precautions (5.6)].
+- Hydrate patients before and after intravascular administration of OMNIPAQUE injection [seeWarnings and Precautions (5.4)].
 - Each bottle of OMNIPAQUE injection and oral solution is intended for one procedure only.
   Discard any unused portion.
 
@@ -57,7 +57,7 @@ TABLE 3 ANGIOCARDIOGRAPHIC PROCEDURES
 
 | PATIENT POPULATION | CONCENTRATION (mg iodine/mL) | VOLUME (mL) |
 | --- | --- | --- |
-| Adults | OMNIPAQUE 350 | VENTRICULOGRAPHY The recommended single dose is 40 mL (Range of 30 mL to 60 mL) May be combined with selective coronary arteriography SELECTIVE CORONARY ARTERIOGRAPHY The recommended single dose is 5 mL (Range of 3 mL to 14 mL) Doses may be repeated as necessary. Maximum volume with multiple injections should not exceed 250 mL. |
+| Adults | OMNIPAQUE 350 | VENTRICULOGRAPHY The recommended single dose is 40 mL (Range of 30 mL to 60 mL)May be combined with selective coronary arteriography SELECTIVE CORONARY ARTERIOGRAPHY The recommended single dose is 5 mL (Range of 3 mL to 14 mL) Doses may be repeated as necessary. Maximum volume with multiple injections should not exceed 250 mL. |
 | Pediatrics | OMNIPAQUE 300 | VENTRICULOGRAPHY The recommended single dose is 1.75 mL/kg (Range of 1.5 mL/kg to 2 mL/kg) May be repeated as necessary Maximum dose with multiple injections should not exceed 6 mL/kg up to a total volume of 291 mL. |
 | OMNIPAQUE 350 | VENTRICULOGRAPHY Recommended single dose is 1.25 mL/kg (Range of 1 mL/kg to 1.5 mL/kg). May be repeated as necessary Maximum dose with multiple injections should not exceed 5 mL/kg up to a total volume of 250 mL. PULMONARY ANGIOGRAPHY (PULMONARY ARTERIOGRAPHY AND/OR PULMONARY VENOGRAPHY) The recommended single dose is 1 mL/kg. |  |
 
@@ -117,7 +117,7 @@ TABLE 10 DIGITAL SUBTRACTION ANGIOGRAPHY HEAD, NECK, ABDOMINAL, RENAL AND PERIPH
 
 TABLE 11 CT SCANNING OF THE HEAD AND BODY
 
-| PATIENT POPULATION | CONCENTRATION (mg iodine/mL) | VOLUMEOMNIPAQUE may be used with an automated contrast injection system or contrast management system cleared for use with OMNIPAQUE [see Dosage and Administration (2.8)]. See device labeling for device indications, additional information, and instructions for use. (mL) |
+| PATIENT POPULATION | CONCENTRATION (mg iodine/mL) | VOLUME OMNIPAQUE may be used with an automated contrast injection system or contrast management system cleared for use with OMNIPAQUE [see Dosage and Administration (2.8)]. See device labeling for device indications, additional information, and instructions for use. (mL) |
 | --- | --- | --- |
 | Adults | OMNIPAQUE 240, 300 and 350 | Head and body imaging by rapid injection CT Imaging – Head: 70 mL to 150 mL of OMNIPAQUE 30080 mL of OMNIPAQUE 350 CT Imaging – Body: 50 mL to 200 mL of OMNIPAQUE 30060 mL to 100 mL of OMNIPAQUE 350 Head imaging by infusion CT Imaging – Head: 120 mL to 250 mL of OMNIPAQUE 240 |
 | Pediatrics | OMNIPAQUE 240 and 300 | CT Imaging – Head and Body: 1 mL/kg to 2 mL/kg (with maximum = 3 mL/kg)Maximum single dose = 116 mL |
@@ -128,7 +128,7 @@ Oral and Rectal Administration – Undiluted OMNIPAQUE Injection for Radiographi
 
 TABLE 12 DOSING FOR RADIOGRAPHIC EXAMINATION OF THE GI TRACT
 
-| PATIENT POPULATION | CONCENTRATION (mg iodine/mL) | ORAL VOLUME (mL) | RECTAL VOLUMEWhen given rectally, larger volumes may be used. (mL) |
+| PATIENT POPULATION | CONCENTRATION (mg iodine/mL) | ORAL VOLUME (mL) | RECTAL VOLUME When given rectally, larger volumes may be used. (mL) |
 | --- | --- | --- | --- |
 | Adults | OMNIPAQUE 350 | The recommended dose is 50 mL to 100 mL | - |
 | Pediatrics | OMNIPAQUE 180, 240 and 300 | The recommended dose is 5 mL to 100 mL | The recommended dose is 5 mL to 100 mL |
@@ -139,17 +139,16 @@ TABLE 12 DOSING FOR RADIOGRAPHIC EXAMINATION OF THE GI TRACT
 
 ## 2.5 Oral Dosage and Administration in Conjunction with Intravenous Administration
 
-See Table 16 for concurrent intravenous dosing.
+See Table 16for concurrent intravenous dosing.
 
 Oral Administration of Diluted OMNIPAQUE Injection in Conjunction with Intravenous Administration of OMNIPAQUE Injection for CT of the Abdomen
 
-TABLE 13 DOSING OF DILUTEDDilutions of OMNIPAQUE should be prepared just prior to use and any unused portion discarded after the procedure.
-OMNIPAQUE INJECTION FOR ORAL ADMINISTRATION
+TABLE 13 DOSING OF DILUTED Dilutions of OMNIPAQUE should be prepared just prior to use and any unused portion discarded after the procedure.OMNIPAQUE INJECTION FOR ORAL ADMINISTRATION
 
 | PATIENT POPULATION | ORAL CONCENTRATION (mg iodine/mL) | ORAL VOLUME (mL) | ADMINISTRATION INSTRUCTIONS |
 | --- | --- | --- | --- |
-| Adults | OMNIPAQUE 240, 300 and 350 DILUTED to 6 to 12 mg iodine/mL (See Table 14 below) | Recommended oral dose is: 500 mL to 1,000 mL | Smaller administered volumes can be given if the iodine concentration in final diluted product is increased (See Table 14 below) The oral dosage may be given all at once or over a period of up to 45 minutes if there is difficulty in consuming the required volume. |
-| Pediatrics | OMNIPAQUE 240, 300 and 350 DILUTED to 9 to 21 mg iodine/mL (See Table 14 below) | Recommended oral dose is: 180 mL to 750 mL Do not exceed an oral dose of 5 grams iodine for patients less than 3 years old. Do not exceed an oral dose of 10 grams iodine for patients 3 to 18 years old. | Smaller administered volumes can be given if the iodine concentration in final diluted product is increased (See Table 14 below) The oral dosage may be given all at once or over a period of up to 45 minutes if there is difficulty in consuming the required volume. |
+| Adults | OMNIPAQUE 240, 300 and 350 DILUTED to 6 to 12 mg iodine/mL (See Table 14below) | Recommended oral dose is: 500 mL to 1,000 mL | Smaller administered volumes can be given if the iodine concentration in final diluted product is increased (See Table 14below) The oral dosage may be given all at once or over a period of up to 45 minutes if there is difficulty in consuming the required volume. |
+| Pediatrics | OMNIPAQUE 240, 300 and 350 DILUTED to 9 to 21 mg iodine/mL (See Table 14below) | Recommended oral dose is: 180 mL to 750 mL Do not exceed an oral dose of 5 grams iodine for patients less than 3 years old. Do not exceed an oral dose of 10 grams iodine for patients 3 to 18 years old. | Smaller administered volumes can be given if the iodine concentration in final diluted product is increased (See Table 14below) The oral dosage may be given all at once or over a period of up to 45 minutes if there is difficulty in consuming the required volume. |
 
 TABLE 14 PROCEDURE FOR PREPARATION OF DILUTED OMNIPAQUE INJECTION FOR ORAL ADMINISTRATION
 
@@ -187,7 +186,7 @@ TABLE 17 ARTHROGRAPHY
 
 | PATIENT POPULATION | LOCATION | CONCENTRATION (mg iodine/mL) | VOLUME (mL) | DOUBLE CONTRAST/SINGLE CONTRAST |
 | --- | --- | --- | --- | --- |
-| Adults | KneePassive or active manipulation is used to disperse the medium throughout the joint space. | OMNIPAQUE 240 | 5 to 15 | Lower volumes recommended for double-contrast examinations; higher volumes recommended for single-contrast examinations. |
+| Adults | Knee Passive or active manipulation is used to disperse the medium throughout the joint space. | OMNIPAQUE 240 | 5 to 15 | Lower volumes recommended for double-contrast examinations; higher volumes recommended for single-contrast examinations. |
 | OMNIPAQUE 300 | 5 to 15 |  |  |  |
 | OMNIPAQUE 350 | 5 to 10 |  |  |  |
 | Adults | Shoulder | OMNIPAQUE 240 | 3 |  |
@@ -222,10 +221,9 @@ TABLE 21 VOIDING CYSTOURETHROGRAPHY (VCU) (CAN BE PERFORMED IN CONJUNCTION WITH 
 
 | PATIENT POPULATION | CONCENTRATION (mg iodine/mL) | VOLUME (mL) |
 | --- | --- | --- |
-| Pediatrics | The concentration may vary depending upon the patient's size and age and with the technique and equipment used. OMNIPAQUE injection may be diluted with Sterile Water for Injection. (See Table 22 below). | OMNIPAQUE injection may be diluted, utilizing aseptic technique, with Sterile Water for Injection to a concentration of 50 mg iodine/mL to 100 mg iodine/mL for voiding cystourethrography. Range: 50 mL to 300 mL of DILUTED OMNIPAQUE at a concentration of 100 mg iodine/mL50 mL to 600 mL of DILUTED OMNIPAQUE at a concentration of 50 mg iodine/mL. |
+| Pediatrics | The concentration may vary depending upon the patient's size and age and with the technique and equipment used. OMNIPAQUE injection may be diluted with Sterile Water for Injection. (See Table 22below). | OMNIPAQUE injection may be diluted, utilizing aseptic technique, with Sterile Water for Injection to a concentration of 50 mg iodine/mL to 100 mg iodine/mL for voiding cystourethrography. Range: 50 mL to 300 mL of DILUTED OMNIPAQUE at a concentration of 100 mg iodine/mL50 mL to 600 mL of DILUTED OMNIPAQUE at a concentration of 50 mg iodine/mL. |
 
-TABLE 22 PROCEDURE FOR PREPARATION OF DILUTEDDilutions of OMNIPAQUE should be prepared just prior to use and any unused portion discarded after the procedure.
-OMNIPAQUE INJECTION FOR VCU
+TABLE 22 PROCEDURE FOR PREPARATION OF DILUTED Dilutions of OMNIPAQUE should be prepared just prior to use and any unused portion discarded after the procedure.OMNIPAQUE INJECTION FOR VCU
 
 | Final Iodine Concentration of Diluted Contrast Agent (mg iodine/mL) | Volume of OMNIPAQUE 240 (mL) | Volume of Sterile Water for Injection (mL) | Volume of OMNIPAQUE 300 (mL) | Volume of Sterile Water for Injection (mL) | Volume of OMNIPAQUE 350 (mL) | Volume of Sterile Water for Injection (mL) |
 | --- | --- | --- | --- | --- | --- | --- |

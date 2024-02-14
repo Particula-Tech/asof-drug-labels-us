@@ -49,7 +49,7 @@ The safety and effectiveness of OMNIPAQUE 240 and 300 have not been established 
 
 Intravascular Use
 
-Angiocardiography (Ventriculography, Pulmonary Arteriography, Venography, and Studies of the Collateral Arteries) and Aortography
+Angiocardiography(Ventriculography, Pulmonary Arteriography, Venography, and Studies of the Collateral Arteries) and Aortography
 
 The safety and effectiveness of OMNIPAQUE 300 have been established in pediatric patients from birth to 17 years of age for angiocardiography (ventriculography) and of OMNIPAQUE 350 in pediatric patients from birth to 17 years of age for angiocardiography (ventriculography, pulmonary arteriography, venography, and studies of the collateral arteries) and aortography.
 Use of OMNIPAQUE 300 and 350 is supported by controlled clinical studies in adults for angiocardiography and aortography, in addition to controlled clinical studies in pediatric patients undergoing angiocardiography, including aortography.
@@ -104,7 +104,7 @@ Pediatric patients at higher risk of experiencing adverse events during contrast
 
 Thyroid function tests indicative of thyroid dysfunction, characterized by hypothyroidism or transient thyroid suppression have been reported following iodinated contrast media administration in pediatric patients, including term and preterm neonates.
 Some patients were treated for hypothyroidism.
-Monitor pediatric patients 0 to 3 years of age closely, particularly those with one or more potential risk factors, for thyroid dysfunction [see Warnings and Precautions (5.9) and Adverse Reactions (6.2)].
+After exposure to iodinated contrast media, individualize thyroid function monitoring in pediatric patients 0 to 3 years of age based on underlying risk factors, especially in term and preterm neonates [see Warnings and Precautions (5.9)and Adverse Reactions (6.2)].
 
 ## 8.5 Geriatric Use
 

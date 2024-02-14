@@ -32,7 +32,7 @@ OMNIPAQUE injection and OMNIPAQUE oral solution have the following physical prop
 
 |  |  |  | 20°C | 37°C | 37°C |
 | --- | --- | --- | --- | --- | --- |
-| Presentation | Concentration (mg iodine/mL) | OsmolalityBy vapor-pressure osmometry. (mOsmol/kg water) | Absolute Viscosity (cP) |  | Specific Gravity |
+| Presentation | Concentration (mg iodine/mL) | Osmolality By vapor-pressure osmometry. (mOsmol/kg water) | Absolute Viscosity (cP) |  | Specific Gravity |
 | OMNIPAQUE 140 | 140 | 322 | 2.3 | 1.5 | 1.164 |
 | OMNIPAQUE 180 | 180 | 408 | 3.1 | 2.0 | 1.209 |
 | OMNIPAQUE 240 | 240 | 520 | 5.8 | 3.4 | 1.280 |
@@ -43,4 +43,4 @@ OMNIPAQUE injection and OMNIPAQUE oral solution have the following physical prop
 
 OMNIPAQUE 140, OMNIPAQUE 180, OMNIPAQUE 240, OMNIPAQUE 300, and OMNIPAQUE 350 have osmolalities from approximately 1.1 to 3.0 times that of plasma (285 mOsmol/kg water) or cerebrospinal fluid (301 mOsmol/kg water) as shown in the above table and are hypertonic under conditions of use.
 
-OMNIPAQUE oral solution 9 and OMNIPAQUE oral solution 12 are hypotonic under conditions of use (see table above).
+OMNIPAQUE oral solution 9 and OMNIPAQUE oral solution 12 are hypotonic under conditions of use (see tableabove).
