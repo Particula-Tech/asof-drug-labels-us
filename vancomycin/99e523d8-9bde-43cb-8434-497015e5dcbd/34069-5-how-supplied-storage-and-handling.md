@@ -1,6 +1,6 @@
 # HOW SUPPLIED/STORAGE AND HANDLING
 
-Vancomycin Injection, USP is supplied as a frozen, iso-osmotic, premixed solution in a 100 mL, 150 mL, 200 mL, 250 mL, or 300 mL single-dose GALAXY plastic container in the following vancomycin doses in 5% Dextrose or 0.9% Sodium Chloride:
+Vancomycin Injection, USP is supplied as a frozen, iso-osmotic, premixed solution in a 100 mL, 200 mL or 250 mL single-dose GALAXY plastic container in the following vancomycin doses in 5% Dextrose or 0.9% Sodium Chloride:
 
 | Vancomycin Injection, USP in 5% Dextrose |  |  |
 | --- | --- | --- |

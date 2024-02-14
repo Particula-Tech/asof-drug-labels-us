@@ -653,7 +653,7 @@ Dosage: See prescribing information.
 
 Store frozen at or below -20°C /-4°F.
 
-Thaw at room temperature 20-25°C (68 - 77°F) or under refrigeration 2-8°C (36 - 46°F) and store thawed solution as follows:
+Thaw at room temperature 20°C to 25°C (68°F to 77°F) or under refrigeration 2°C to 8°C (36°F to 46°F) and store thawed solution as follows:
 
 – Refrigerated Storage: Use within 30 days – Room Temperature Storage: Use within 72 hours
 
@@ -723,7 +723,7 @@ Vancomycin Injection, USP in 5% Dextrose
 
 1.5 g per 300 mL (5 mg/mL)
 
-For Intravenous Infusion Only Rx Only Single-Dose GALAXY Container Sterile
+For Intravenous Infusion Only Rx Only Single-Dose GALAXY Container Sterile Discard Unused Portion
 
 Each 100 mL contains: Vancomycin Hydrochloride, USP equivalent to 500 mg vancomycin with approx. 5 g Dextrose Hydrous, USP in Water for Injection, USP.
 Dosage: See prescribing information.
