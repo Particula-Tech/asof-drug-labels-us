@@ -8,7 +8,7 @@ The molecular formula is C20H22BrFN2O and its molecular weight is 405.35.
 Citalopram hydrobromide, USP occurs as a white to almost white, crystalline powder.
 Citalopram hydrobromide is sparingly soluble in water and soluble in ethanol.
 
-Citalopram tablets are for oral administration and are available as film-coated oval tablets.
+Citalopram tablets are for oral administration and are available as film-coated round tablets.
 The strengths reflect citalopram base equivalent content.
 The 10 mg, 20 mg, and 40 mg strength tablets contain 12.5 mg, 25 mg, and 50 mg of citalopram hydrobromide, respectively.
 The 20 mg and 40 mg tablets are scored.
