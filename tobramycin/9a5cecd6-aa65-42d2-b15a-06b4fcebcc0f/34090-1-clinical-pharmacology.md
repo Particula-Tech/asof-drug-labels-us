@@ -1,49 +1,79 @@
-# CLINICAL PHARMACOLOGY:
+# 12 CLINICAL PHARMACOLOGY
 
-Tobramycin is rapidly absorbed following intramuscular administration.
-Peak serum concentrations of tobramycin occur between 30 and 90 minutes after intramuscular administration.
-Following an intramuscular dose of 1 mg/kg of body weight, maximum serum concentrations reach about 4 mcg/mL, and measurable levels persist for as long as 8 hours.
-Therapeutic serum levels are generally considered to range from 4 to 6 mcg/mL.
-When tobramycin is administered by intravenous infusion over a 1-hour period, the serum concentrations are similar to those obtained by intramuscular administration.
+## 12.1 Mechanism of Action
+
+Tobramycin sulfate is an aminoglycoside antibacterial drug [see Microbiology (12.4)].
+
+## 12.3 Pharmacokinetics
+
+In patients with normal renal function, except neonates, tobramycin administered every 8 hours does not accumulate in serum.
+The serum elimination half-life in patients with normal renal function is 2 hours.
+However, in patients with renal impairment and in neonates, serum concentrations of the antibacterial are usually higher and can be measured for longer periods of time than in adults with normal renal function.
+Thus, the dosage of Tobramycin for Injection for patients with renal impairment and neonates must be adjusted accordingly [see Dosage and Administration (2.3, 2.6)].
+
+Absorption
+
+Following intramuscular administration, peak serum concentrations of tobramycin occur between 30 and 90 minutes.
+Following an intramuscular dose of 1 mg/kg of body weight, maximum serum concentrations reach about 4 mcg/mL, and measurable concentrations persist for as long as 8 hours.
+Therapeutic serum concentrations are generally considered to range from 4 to 6 mcg/mL.
+When Tobramycin for Injection is administered by intravenous infusion over a 1-hour period, the serum concentrations are similar to those obtained by intramuscular administration.
 Tobramycin is poorly absorbed from the gastrointestinal tract.
 
-In patients with normal renal function, except neonates, tobramycin administered every 8 hours does not accumulate in the serum.
-However, in those patients with reduced renal function and in neonates, the serum concentration of the antibiotic is usually higher and can be measured for longer periods of time than in normal adults.
-Dosage for such patients must, therefore, be adjusted accordingly (see DOSAGE AND ADMINISTRATION).
+Distribution
 
-Following parenteral administration, little, if any, metabolic transformation occurs, and tobramycin is eliminated almost exclusively by glomerular filtration.
-Renal clearance is similar to that of endogenous creatinine.
-Ultrafiltration studies demonstrate that practically no serum protein binding occurs.
-In patients with normal renal function, up to 84% of the dose is recoverable from the urine in 8 hours and up to 93% in 24 hours.
+Based on ultrafiltration studies, practically no serum protein binding of tobramycin occurs.
+
+Tobramycin can be detected in tissues and body fluids after parenteral administration.
+Concentrations of tobramycin in bile and stools ordinarily have been low, which suggests minimal biliary excretion.
+The concentration of tobramycin in cerebrospinal fluid following parenteral administration is low, and concentrations are dependent on dose, rate of penetration, and degree of meningeal inflammation.
+Tobramycin has also been detected in sputum, peritoneal fluid, synovial fluid, and abscess fluids, and it crosses the placental membranes.
+Concentrations in the renal cortex are several times higher than serum concentrations.
+
+Metabolism
+
+Following parenteral administration, minimal, metabolic transformation occurs, and tobramycin is eliminated almost exclusively by glomerular filtration.
+
+Excretion
 
 Peak urine concentrations ranging from 75 to 100 mcg/mL have been observed following the intramuscular injection of a single dose of 1 mg/kg.
 After several days of treatment, the amount of tobramycin excreted in the urine approaches the daily dose administered.
-When renal function is impaired, excretion of tobramycin is slowed, and accumulation of the drug may cause toxic blood levels.
+Renal clearance is similar to that of endogenous creatinine.
+In patients with normal renal function, up to 84% of the dose is recoverable from the urine in 8 hours and up to 93% in 24 hours.
+When renal function is impaired, excretion of tobramycin is slowed, and accumulation of the drug may cause toxic blood concentrations.
 
-The serum half-life in normal individuals is 2 hours.
-An inverse relationship exists between serum half-life and creatinine clearance, and the dosage schedule should be adjusted according to the degree of renal impairment (see DOSAGE AND ADMINISTRATION).
-In patients undergoing dialysis, 25% to 70% of the administered dose may be removed, depending on the duration and type of dialysis.
-
-Tobramycin can be detected in tissues and body fluids after parenteral administration.
-Concentrations in bile and stools ordinarily have been low, which suggests minimum biliary excretion.
-Tobramycin has appeared in low concentration in the cerebrospinal fluid following parenteral administration, and concentrations are dependent on dose, rate of penetration, and degree of meningeal inflammation.
-It has also been found in sputum, peritoneal fluid, synovial fluid, and abscess fluids, and it crosses the placental membranes.
-Concentrations in the renal cortex are several times higher than the usual serum levels.
+Drug Interactions
 
 Probenecid does not affect the renal tubular transport of tobramycin.
 
-## Microbiology
+## 12.4 Microbiology
 
-Tobramycin acts by inhibiting synthesis of protein in bacterial cells.
-In vitro tests demonstrate that tobramycin is bactericidal.
+Mechanism of Action
 
-Tobramycin has been shown to be active against most strains of the following organisms both in vitro and in clinical infections as described in INDICATIONS AND USAGE section:
+Tobramycin is an aminoglycoside that inhibits protein synthesis by binding to the aminoacyl site (A) of the 16S RNA within the bacterial 30S ribosomal subunit.
+Tobramycin is bactericidal against susceptible bacteria.
 
-Aerobic Gram-positive microorganisms
+Resistance
+
+Resistance to aminoglycosides includes production of aminoglycoside modifying enzymes (AMEs), alteration of the ribosomal target through production of 16S rRNA methyltransferases, up-regulation of efflux pumps and reduced permeability into bacterial cell due to loss of outer membrane porins.
+Aminoglycosides are generally not active against most gram-positive organisms, including Streptococcus pyogenes, Streptococcus pneumoniae, and enterococci.
+Cross-resistance between aminoglycosides may occur.
+
+Interaction with Other Antimicrobials
+
+In vitro studies have shown that an aminoglycoside combined with an antibacterial that interferes with cell-wall synthesis, such as penicillin, results in a synergistic bactericidal effect in some isolates of Enterococcus faecalis.
+This combination is not synergistic against other closely related organisms, e.g., Enterococcus faecium.
+Species-level identification of enterococci alone cannot be used to predict susceptibility.
+Susceptibility testing and tests for antibacterial synergism must be performed.
+
+Antimicrobial Activity
+
+Tobramycin has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections [see Indications and Usage (1)]:
+
+Gram-positive bacteria
 
 Staphylococcus aureus
 
-Aerobic Gram-negative microorganisms
+Gram-negative bacteria
 
 Citrobacter species
 
@@ -65,64 +95,6 @@ Providencia species
 
 Serratia species
 
-Aminoglycosides have a low order of activity against most gram-positive organisms, including Streptococcus pyogenes, Streptococcus pneumoniae, and enterococci.
+Susceptibility Testing
 
-Although most strains of enterococci demonstrate in vitro resistance, some strains in this group are susceptible.
-In vitro studies have shown that an aminoglycoside combined with an antibiotic that interferes with cell-wall synthesis affects some enterococcal strains synergistically.
-The combination of penicillin G and tobramycin results in a synergistic bactericidal effect in vitro against certain strains of Enterococcus faecalis.
-However, this combination is not synergistic against other closely related organisms, e.g., Enterococcus faecium.
-Speciation of enterococci alone cannot be used to predict susceptibility.
-Susceptibility testing and tests for antibiotic synergism are emphasized.
-
-Cross-resistance between aminoglycosides may occur.
-
-## Susceptibility Tests
-
-Diffusion Techniques
-
-Quantitative methods that require measurement of zone diameters give the most precise estimates of susceptibility of bacteria to antimicrobial agents.
-One such procedure is the National Committee for Clinical Laboratory Standards (NCCLS)-approved procedure.
-1 This method has been recommended for use with disks to test susceptibility to tobramycin.
-Interpretation involves correlation of the diameters obtained in the disk test with minimum inhibitory concentrations (MIC) for tobramycin.
-
-Reports from the laboratory giving results of the standard single-disk susceptibility test with a 10 mcg tobramycin disk should be interpreted according to the following criteria:
-
-| Zone Diameter (mm) | Interpretation |
-| --- | --- |
-| ≥15 | (S) Susceptible |
-| 13 to 14 | (I) Intermediate |
-| ≤12 | (R) Resistant |
-
-A report of “Susceptible” indicates that the pathogen is likely to be inhibited by generally achievable blood levels.
-A report of “Intermediate” suggests that the organism would be susceptible if high dosage is used or if the infection is confined to tissues and fluids in which high antimicrobial levels are obtained.
-A report of “Resistant” indicates that achievable concentrations are unlikely to be inhibitory and other therapy should be selected.
-
-Standardized procedures require the use of laboratory control organisms.
-The 10 mcg tobramycin disk should give the following zone diameters:
-
-| Organism | Zone Diameter (mm) |
-| --- | --- |
-| E. coli ATCC 25922 | 18 to 26 |
-| P. aeruginosa ATCC 27853 | 19 to 25 |
-| S. aureus ATCC 25923 | 19 to 29 |
-
-Dilution Techniques
-
-Broth and agar dilution methods, such as those recommended by the NCCLS 2, may be used to determine MICs of tobramycin.
-MIC test results should be interpreted according to the following criteria:
-
-| MIC (mcg/mL) | Interpretation |
-| --- | --- |
-| ≤4 | (S) Susceptible |
-| 8 | (I) Intermediate |
-| ≥16 | (R) Resistant |
-
-As with standard diffusion methods, dilution procedures require the use of laboratory control organisms.
-Tobramycin laboratory reagent should give the following MIC values:
-
-| Organism | MIC Range (mcg/mL) |
-| --- | --- |
-| E. faecalis ATCC 29212 | 8 to 32 |
-| E. coli ATCC 25922 | 0.25 to 1 |
-| P. aeruginosa ATCC 27853 | 0.25 to 1 |
-| S. aureus ATCC 29213 | 0.12 to 1 |
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

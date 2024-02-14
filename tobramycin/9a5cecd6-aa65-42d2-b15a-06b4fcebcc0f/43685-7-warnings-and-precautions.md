@@ -1,100 +1,79 @@
-# WARNINGS:
+# 5 WARNINGS AND PRECAUTIONS
 
-See WARNINGS box above.
+## 5.1 Nephrotoxicity
 
-Serious allergic reactions including anaphylaxis and dermatologic reactions including exfoliative dermatitis, toxic epidermal necrolysis, erythema multiforme, and Stevens-Johnson Syndrome have been reported rarely in patients on tobramycin therapy.
-Although rare, fatalities have been reported (see CONTRAINDICATIONS).
+Systemic exposure to Tobramycin for Injection and other aminoglycosides can cause nephrotoxicity, primarily manifested as acute tubular necrosis.
+Signs of nephrotoxicity include rising blood urea nitrogen (BUN) and creatinine (Cr), decreased urinary output, and sodium, potassium, bicarbonate, magnesium, phosphate and calcium urinary losses.
+Aminoglycoside-induced nephrotoxicity may occur during therapy but may not become apparent until the first few days after cessation of therapy and usually is reversible.
+The risk for nephrotoxicity increases with tobramycin accumulation (indicated by rising trough levels above 2 mcg/mL), excessive peak concentrations (above 12 mcg/mL), total cumulative dose, advanced age, volume depletion, concurrent or sequential use of other nephrotoxic drugs and in patients with diabetes.
+Monitor serum tobramycin concentrations in all patients and avoid peak levels above 12 mcg/mL and trough levels above 2 mcg/mL [see Dosage and Administration (2.9)].
+Monitor renal function, serum electrolytes, potassium, sodium, magnesium, calcium and phosphate, urine output and urinalysis during therapy in all patients.
+Reduce the dose or discontinue treatment if renal impairment occurs.
 
-If an allergic reaction occurs, the drug should be discontinued and appropriate therapy instituted.
+## 5.2 Ototoxicity
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Tobramycin for Injection, USP, and may range in severity from mild diarrhea to fatal colitis.
+Ototoxicity with use of Tobramycin for Injection
+
+Tobramycin for Injection can cause both auditory and vestibular eighth nerve damage.
+The auditory changes are irreversible, are usually bilateral, and may be partial or total.
+Symptoms of ototoxicity can include dizziness, vertigo, tinnitus, roaring in the ears and hearing loss.
+Ototoxicity symptoms may manifest during therapy or after tobramycin has been discontinued.
+The risk of ototoxicity increases with higher peak and trough serum tobramycin concentrations, in patients who receive high doses or prolonged or prior treatment with tobramycin or other aminoglycosides, in patients with renal impairment, patients receiving with other nephrotoxic or ototoxic drugs and in the extremes of age.
+To decrease the risk of ototoxicity, use as short a duration of therapy as clinically appropriate, adequately hydrate patients, limit the use of other ototoxic drugs, and closely monitor tobramycin concentrations during therapy [see Dosage and Administration (2.9)].
+Monitor patients for signs and symptoms of auditory or vestibular toxicity and consider serial audiograms in high-risk patients.
+Discontinue tobramycin in patients with evidence of auditory or vestibular toxicity.
+
+Risk of Ototoxicity Due to Mitochondrial DNA Variants
+
+Cases of ototoxicity with aminoglycosides have been observed in patients with certain variants in the mitochondrially encoded 12S rRNA gene (MT-RNR1), particularly the m.1555A>G variant.
+Ototoxicity occurred in some patients even when their aminoglycoside serum levels were within the recommended range.
+Mitochondrial DNA variants are present in less than 1% of the general US population, and the proportion of the variant carriers who may develop ototoxicity as well as the severity of ototoxicity is unknown.
+In case of known maternal history of ototoxicity due to aminoglycoside use or a known mitochondrial DNA variant in the patient, consider alternative treatments other than aminoglycosides unless the increased risk of permanent hearing loss is outweighed by the severity of infection and lack of safe and effective alternative therapies.
+
+## 5.3 Embryo-Fetal Toxicity
+
+Aminoglycosides, including Tobramycin for Injection, can cause fetal harm when administered to a pregnant woman.
+Aminoglycosides cross the placenta.
+Streptomycin, another aminoglycoside, has been associated with several reports of total, irreversible, bilateral congenital deafness in pediatric patients whose mothers received streptomycin during pregnancy.
+Apprise patients of potential hazard to the fetus if Tobramycin for Injection is used during pregnancy or if the patient becomes pregnant while taking Tobramycin for Injection [see Use in Specific Populations (8.1)].
+
+## 5.4 Allergic Reactions
+
+Serious and fatal allergic reactions including anaphylaxis and dermatologic reactions including exfoliative dermatitis, toxic epidermal necrolysis, erythema multiforme, and Stevens-Johnson Syndrome have been reported in patients on tobramycin therapy [see Contraindications (4) and Adverse Reactions (6)].
+
+If an allergic reaction occurs, discontinue Tobramycin for Injection and institute appropriate therapy.
+A history of hypersensitivity to other aminoglycosides is a contraindication to the use of Tobramycin for Injection, because cross-allergenicity among aminoglycosides has been demonstrated [see Contraindications (4)].
+
+## 5.5 Neuromuscular Blockade and Other Neurologic Adverse Reactions
+
+Neuromuscular blockade with respiratory paralysis and respiratory failure may occur following administration of aminoglycosides.
+Neuromuscular blockade, respiratory failure, and prolonged respiratory paralysis may occur more commonly and be more severe in patients with myasthenia gravis or Parkinson's disease and in patients concomitantly receiving neuromuscular blocking agents such as succinylcholine.
+If neuromuscular blockade occurs following the administration of Tobramycin for Injection, it may be reversed by the administration of calcium salts but mechanical assistance may be necessary.
+Other manifestations of neurotoxicity may include numbness, skin tingling, muscle twitching, and convulsions.
+
+## 5.6 Clostridioides difficile-Associated Diarrhea (CDAD)
+
+Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Tobramycin for Injection, USP, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
-Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
-CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antibacterial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibacterial use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
-Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+If CDAD is suspected or confirmed, ongoing antibacterial use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-# PRECAUTIONS:
+## 5.7 Risk of Development of Drug-Resistant Bacteria
 
-Serum and urine specimens for examination should be collected during therapy, as recommended in the WARNINGS box.
-Serum calcium, magnesium, and sodium should be monitored.
+Prescribing Tobramycin for Injection, USP in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-Peak and trough serum levels should be measured periodically during therapy.
-Prolonged concentrations above 12 mcg/mL should be avoided.
-Rising trough levels (above 2 mcg/mL) may indicate tissue accumulation.
-Such accumulation, advanced age, and cumulative dosage may contribute to ototoxicity and nephrotoxicity.
-It is particularly important to monitor serum levels closely in patients with known renal impairment.
+## 5.8 Macular Necrosis
 
-A useful guideline would be to perform serum level assays after 2 or 3 doses, so that the dosage could be adjusted if necessary, and at 3- to 4-day intervals during therapy.
-In the event of changing renal function, more frequent serum levels should be obtained and the dosage or dosage interval adjusted according to the guidelines provided in DOSAGE AND ADMINISTRATION.
+Tobramycin for Injection is not approved for intraocular and/or subconjunctival use.
+Macular necrosis has been reported following intraocular and/ or subconjunctival administration of aminoglycosides, including tobramycin.
 
-In order to measure the peak level, a serum sample should be drawn about 30 minutes following intravenous infusion or 1 hour after an intramuscular injection.
-Trough levels are measured by obtaining serum samples at 8 hours or just prior to the next dose of tobramycin.
-These suggested time intervals are intended only as guidelines and may vary according to institutional practices.
-It is important, however, that there be consistency within the individual patient program unless computerized pharmacokinetic dosing programs are available in the institution.
-These serum-level assays may be especially useful for monitoring the treatment of severely ill patients with changing renal function or of those infected with less susceptible organisms or those receiving maximum dosage.
+## 5.9 Inactivation by Beta-Lactam Antibacterials
 
-Neuromuscular blockade and respiratory paralysis have been reported in cats receiving very high doses of tobramycin (40 mg/kg).
-The possibility of prolonged or secondary apnea should be considered if tobramycin is administered to anesthetized patients who are also receiving neuromuscular blocking agents, such as succinylcholine, tubocurarine, or decamethonium, or to patients receiving massive transfusions of citrated blood.
-If neuromuscular blockade occurs, it may be reversed by the administration of calcium salts.
-
-Cross-allergenicity among aminoglycosides has been demonstrated.
-
-In patients with extensive burns or cystic fibrosis, altered pharmacokinetics may result in reduced serum concentrations of aminoglycosides.
-In such patients treated with tobramycin, measurement of serum concentration is especially important as a basis for determination of appropriate dosage.
-
-Elderly patients may have reduced renal function that may not be evident in the results of routine screening tests, such as BUN or serum creatinine.
-A creatinine clearance determination may be more useful.
-Monitoring of renal function during treatment with aminoglycosides is particularly important in such patients.
-
-An increased incidence of nephrotoxicity has been reported following concomitant administration of aminoglycoside antibiotics and cephalosporins.
-
-Aminoglycosides should be used with caution in patients with muscular disorders, such as myasthenia gravis or parkinsonism, since these drugs may aggravate muscle weakness because of their potential curare-like effect on neuromuscular function.
-
-Aminoglycosides may be absorbed in significant quantities from body surfaces after local irrigation or application and may cause neurotoxicity and nephrotoxicity.
-
-Aminoglycosides have not been approved for intraocular and/or subconjunctival use.
-Physicians are advised that macular necrosis has been reported following administration of aminoglycosides, including tobramycin, by these routes.
-
-See WARNINGS box regarding concurrent use of potent diuretics and concurrent and sequential use of other neurotoxic or nephrotoxic drugs.
-
-The inactivation of tobramycin and other aminoglycosides by β-lactam-type antibiotics (penicillins or cephalosporins) has been demonstrated in vitro and in patients with severe renal impairment.
+The inactivation of tobramycin and other aminoglycosides by ß-lactam-type antibacterials (penicillins, cephalosporins) has been demonstrated in vitro and in patients with severe renal impairment.
 Such inactivation has not been found in patients with normal renal function who have been given the drugs by separate routes of administration.
-
-Therapy with tobramycin may result in overgrowth of nonsusceptible organisms.
-If overgrowth of nonsusceptible organisms occurs, appropriate therapy should be initiated.
-
-## Information for Patients
-
-Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
-Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
-If this occurs, patients should contact their physician as soon as possible.
-
-## Pregnancy Category D
-
-Aminoglycosides can cause fetal harm when administered to a pregnant woman.
-Aminoglycoside antibiotics cross the placenta, and there have been several reports of total irreversible bilateral congenital deafness in children whose mothers received streptomycin during pregnancy.
-Serious side effects to mother, fetus, or newborn have not been reported in the treatment of pregnant women with other aminoglycosides.
-If tobramycin is used during pregnancy or if the patient becomes pregnant while taking tobramycin, she should be apprised of the potential hazard to the fetus.
-
-## Pediatric Use
-
-See INDICATIONS AND USAGEand DOSAGE AND ADMINISTRATION.
-
-## Geriatric Use
-
-Elderly patients may be at a higher risk of developing nephrotoxicity and ototoxicity while receiving tobramycin (see WARNINGS, PRECAUTIONS, and OVERDOSAGE).
-Other factors that may contribute to nephrotoxicity and ototoxicity are rising trough levels, excessive peak concentrations, dehydration, concomitant use of other neurotoxic or nephrotoxic drugs, and cumulative dose.
-Peak and trough serum levels should be measured periodically during therapy to assure adequate levels and to avoid potentially toxic levels (see WARNINGS and PRECAUTIONS).
-
-Tobramycin is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Dose reduction is required for patients with impaired renal function (see DOSAGE AND ADMINISTRATION).
-Elderly patients may have reduced renal function that may not be evident in the results of routine screening tests, such as BUN or serum creatinine.
-A creatinine clearance determination may be more useful.
-Monitoring of renal function during treatment with aminoglycosides is particularly important in the elderly (see PRECAUTIONS).
-
-This product does not contain sodium.

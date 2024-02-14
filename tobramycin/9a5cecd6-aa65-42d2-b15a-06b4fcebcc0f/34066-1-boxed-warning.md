@@ -1,33 +1,29 @@
-WARNINGS
+# WARNING: NEPHROTOXICITY, OTOTOXICITY AND EMBRYO-FETAL TOXICITY
 
-Patients treated with tobramycin and other aminoglycosides should be under close clinical observation, because these drugs have an inherent potential for causing ototoxicity and nephrotoxicity.
+Nephrotoxicity
 
-Neurotoxicity, manifested as both auditory and vestibular ototoxicity, can occur.
-The auditory changes are irreversible, are usually bilateral, and may be partial or total.
-Eighth-nerve impairment and nephrotoxicity may develop, primarily in patients having preexisting renal damage and in those with normal renal function to whom aminoglycosides are administered for longer periods or in higher doses than those recommended.
-Other manifestations of neurotoxicity may include numbness, skin tingling, muscle twitching, and convulsions.
-The risk of aminoglycoside-induced hearing loss increases with the degree of exposure to either high peak or high trough serum concentrations.
-Patients who develop cochlear damage may not have symptoms during therapy to warn them of eighth-nerve toxicity, and partial or total irreversible bilateral deafness may continue to develop after the drug has been discontinued.
+Tobramycin for Injection can result in acute kidney injury, including acute renal failure.
+Risk factors that may contribute to nephrotoxicity include tobramycin accumulation (increasing serum trough levels), high peak concentrations (above 12 mcg/mL), total cumulative dose, advanced age, volume depletion and concurrent or sequential use of other nephrotoxic drugs.
+Avoid concurrent or sequential use of other potentially nephrotoxic drugs.
+Monitor serum tobramycin levels and renal function in all patients during drug treatment.
+Reduce the dose or discontinue the Tobramycin for Injection if renal impairment occurs [see Warnings and Precautions (5.1)].
 
-Rarely, nephrotoxicity may not become apparent until the first few days after cessation of therapy.
-Aminoglycoside-induced nephrotoxicity usually is reversible.
+Ototoxicity
 
-Renal and eighth-nerve function should be closely monitored in patients with known or suspected renal impairment and also in those whose renal function is initially normal but who develop signs of renal dysfunction during therapy.
-Peak and trough serum concentrations of aminoglycosides should be monitored periodically during therapy to assure adequate levels and to avoid potentially toxic levels.
-Prolonged serum concentrations above 12 mcg/mL should be avoided.
-Rising trough levels (above 2 mcg/mL) may indicate tissue accumulation.
-Such accumulation, excessive peak concentrations, advanced age, and cumulative dose may contribute to ototoxicity and nephrotoxicity (see PRECAUTIONS).
-Urine should be examined for decreased specific gravity and increased excretion of protein, cells, and casts.
-Blood urea nitrogen, serum creatinine, and creatinine clearance should be measured periodically.
-When feasible, it is recommended that serial audiograms be obtained in patients old enough to be tested, particularly high-risk patients.
-Evidence of impairment of renal, vestibular, or auditory function requires discontinuation of the drug or dosage adjustment.
+Tobramycin for Injection can cause irreversible auditory and vestibular toxicity that may continue to develop after the drug has been discontinued.
+Risk factors include high serum concentrations, prolonged therapy, renal impairment, concurrent and sequential use of other nephrotoxic or ototoxic drugs (e.g. aminoglycosides), and extremes of age.
+Avoid concurrent or sequential use with other potentially ototoxic drugs.
+Monitor for signs and symptoms of auditory and vestibular toxicity.
+Reduce the dose or discontinue the Tobramycin for Injection if renal impairment occurs.
+Discontinue the Tobramycin for Injection if ototoxicity occurs.
+[see Warnings and Precautions (5.2)].
 
-Tobramycin should be used with caution in premature and neonatal infants because of their renal immaturity and the resulting prolongation of serum half-life of the drug.
+Neuromuscular Blockade
 
-Concurrent and sequential use of other neurotoxic and/or nephrotoxic antibiotics, particularly other aminoglycosides (e.g., amikacin, streptomycin, neomycin, kanamycin, gentamicin, and paromomycin), cephaloridine, viomycin, polymyxin B, colistin, cisplatin, and vancomycin, should be avoided.
-Other factors that may increase patient risk are advanced age and dehydration.
+Aminoglycosides have been associated with neuromuscular blockade.
+During therapy with Tobramycin for Injection, monitor for adverse reactions associated with neuromuscular blockade, particularly in high-risk patients, such as patients with underlying neuromuscular disorders (including myasthenia gravis) or in patients concomitantly receiving neuromuscular blocking agents [see Warnings and Precautions (5.5)].
 
-Aminoglycosides should not be given concurrently with potent diuretics, such as ethacrynic acid and furosemide.
-Some diuretics themselves cause ototoxicity, and intravenously administered diuretics enhance aminoglycoside toxicity by altering antibiotic concentrations in serum and tissue.
+Embryo-Fetal Toxicity
 
-Aminoglycosides can cause fetal harm when administered to a pregnant woman (see PRECAUTIONS).
+Tobramycin and other aminoglycosides can cause fetal harm when administered to a pregnant woman.
+If Tobramycin for Injection is used during pregnancy or if the patient becomes pregnant while taking tobramycin, apprise the patient of the potential hazard to the fetus [see Warnings and Precautions (5.3) and Use in Specific Populations (8.1)].

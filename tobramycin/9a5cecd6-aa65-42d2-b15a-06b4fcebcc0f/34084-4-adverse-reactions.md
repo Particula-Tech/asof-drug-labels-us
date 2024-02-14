@@ -1,20 +1,28 @@
-# ADVERSE REACTIONS:
+# 6 ADVERSE REACTIONS
 
-## Neurotoxicity
+The following serious adverse reactions are described below and elsewhere in the labeling:
 
-Adverse effects on both the vestibular and auditory branches of the eighth nerve have been noted, especially in patients receiving high doses or prolonged therapy, in those given previous courses of therapy with an ototoxin, and in cases of dehydration.
-Symptoms include dizziness, vertigo, tinnitus, roaring in the ears, and hearing loss.
-Hearing loss is usually irreversible and is manifested initially by diminution of high-tone acuity.
-Tobramycin and gentamicin sulfates closely parallel each other in regard to ototoxic potential.
+- Nephrotoxicity [see Boxed Warning and Warnings and Precautions (5.1)]
+- Ototoxicity [see Boxed Warning and Warnings and Precautions (5.2)]
+- Embryo-Fetal Toxicity [see Boxed Warning and Warnings and Precautions (5.3)]
+- Allergic Reactions [see Warnings and Precautions (5.4)]
+- Neuromuscular Blockade [see Warnings and Precautions (5.5)]
 
-## Nephrotoxicity
+The following adverse reactions associated with the use of Tobramycin for Injection were identified in clinical studies or postmarketing reports.
+Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Renal function changes, as shown by rising BUN, NPN, and serum creatinine and by oliguria, cylindruria, and increased proteinuria, have been reported, especially in patients with a history of renal impairment who are treated for longer periods or with higher doses than those recommended.
-Adverse renal effects can occur in patients with initially normal renal function.
+Blood and Lymphatic System Disorders: anemia, granulocytopenia, leukopenia, leukocytosis, eosinophilia and thrombocytopenia
 
-Clinical studies and studies in experimental animals have been conducted to compare the nephrotoxic potential of tobramycin and gentamicin.
-In some of the clinical studies and in the animal studies, tobramycin caused nephrotoxicity significantly less frequently than gentamicin.
-In some other clinical studies, no significant difference in the incidence of nephrotoxicity between tobramycin and gentamicin was found.
+Ear and Labyrinth Disorders: Tinnitus, hearing loss, vertigo
 
-Other reported adverse reactions possibly related to tobramycin include anemia, granulocytopenia, and thrombocytopenia; and fever, rash, exfoliative dermatitis, itching, urticaria, nausea, vomiting, diarrhea, headache, lethargy, pain at the injection site, mental confusion, and disorientation.
-Laboratory abnormalities possibly related to tobramycin include increased serum transaminases (AST, ALT); increased serum LDH and bilirubin; decreased serum calcium, magnesium, sodium, and potassium; and leukopenia, leukocytosis, and eosinophilia.
+Gastrointestinal Disorders: nausea, vomiting, diarrhea
+
+General Disorders and Administration Site Conditions: fever, lethargy, pain at the injection site
+
+Immune system disorders: Anaphylaxis, hypersensitivity reactions
+
+Laboratory Investigations: elevated blood urea nitrogen, elevated serum creatinine, hyponatremia, hypokalemia, hypomagnesemia, hypocalcemia, hypophosphatemia, urinary casts, increased serum transaminases (AST, ALT); increased serum LDH and bilirubin
+
+Nervous System Disorders: headache, numbness, paresthesia, muscle twitching, convulsions, mental confusion, and disorientation
+
+Skin and Subcutaneous Tissue Disorders: rash, itching, urticaria
