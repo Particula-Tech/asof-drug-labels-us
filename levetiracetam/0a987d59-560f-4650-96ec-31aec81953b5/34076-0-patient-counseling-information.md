@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Psychiatric Reactions and Changes in Behavior: Advise patients that levetiracetam tablets may cause changes in behavior (e.g., aggression, agitation, anger, anxiety, apathy, depression, hostility, and irritability) and psychotic symptoms [see Warnings and Precautions (5.1)].
+Psychiatric Reactions and Changes in Behavior: Advise patients that levetiracetam tablets may cause changes in behavior (e.g. aggression, agitation, anger, anxiety, apathy, depression, hostility, and irritability) and psychotic symptoms [see Warnings and Precautions (5.1)].
 
 Suicidal Behavior and Ideation: Counsel patients, their caregivers, and/or families that antiepileptic drugs (AEDs), including levetiracetam tablets, may increase the risk of suicidal thoughts and behavior and advise patients to be alert for the emergence or worsening of symptoms of depression; unusual changes in mood or behavior; or suicidal thoughts, behavior, or thoughts about self-harm.
 Advise patients, their caregivers, and/or families to immediately report behaviors of concern to a healthcare provider [see Warnings and Precautions (5.2)].

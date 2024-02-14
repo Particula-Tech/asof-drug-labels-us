@@ -20,6 +20,10 @@
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 11/2020 LVTC:RX2
+Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
+
+750XXXXX
+
+Revised: 1/2024 MXA:LVTC:RX

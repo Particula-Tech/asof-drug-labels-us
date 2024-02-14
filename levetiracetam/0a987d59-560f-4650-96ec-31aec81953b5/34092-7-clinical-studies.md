@@ -69,7 +69,7 @@ Table 12: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Se
 
 The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 3.
 
-### Effectiveness in Partial-Onset Seizures in Pediatric Patients 4 Years to 16 Years of Age
+### Effectiveness in Partial-Onset Seizures in Pediatric Patients 4 to 16 Years of Age
 
 The effectiveness of levetiracetam tablets for the treatment of partial-onset seizures in pediatric patients was established in one multicenter, randomized double-blind, placebo-controlled study (Study 4), conducted at 60 sites in North America, in pediatric patients 4 to 16 years of age with partial seizures uncontrolled by standard antiepileptic drugs (AEDs).
 Eligible patients on a stable dose of 1-2 AEDs, who still experienced at least 4 partial-onset seizures during the 4 weeks prior to screening, as well as at least 4 partial-onset seizures in each of the two 4-week baseline periods, were randomized to receive either levetiracetam tablets or placebo.

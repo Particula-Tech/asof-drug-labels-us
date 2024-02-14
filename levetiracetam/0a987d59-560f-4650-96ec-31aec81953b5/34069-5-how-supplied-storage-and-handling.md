@@ -2,14 +2,7 @@
 
 ## 16.1 How Supplied
 
-Levetiracetam Tablets, USP are available containing 250 mg, 500 mg, 750 mg or 1000 mg of levetiracetam, USP.
-
-The 250 mg tablets are white, film-coated, round, scored tablets debossed with M above the score and 613 below the score on one side of the tablet and blank on the other side.
-They are available as follows:
-
-NDC 0378-5613-78 bottles of 120 tablets
-
-NDC 0378-5613-05 bottles of 500 tablets
+Levetiracetam Tablets, USP are available containing 500 mg, 750 mg or 1000 mg of levetiracetam, USP.
 
 The 500 mg tablets are white, film-coated, modified capsule-shaped, scored tablets debossed with M to the left of the score and 615 to the right of the score on one side of the tablet and blank on the other side.
 They are available as follows:

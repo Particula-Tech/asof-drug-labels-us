@@ -1,36 +1,3 @@
-# PRINCIPAL DISPLAY PANEL – 250 mg
-
-NDC 0378-5613-78
-
-Levetiracetam Tablets, USP 250 mg
-
-PHARMACIST: Dispense the accompanying Medication Guide to each patient.
-
-Rx only 120 Tablets
-
-Each film-coated tablet contains: Levetiracetam, USP 250 mg
-
-Usual Dosage: See accompanying prescribing information.
-
-Keep this and all medication out of the reach of children.
-
-Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature.]
-
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
-
-Made in India
-
-Mylan.com
-
-RMXA5613DA
-
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Keep container tightly closed.
-
-Code No.: MH/DRUGS/AD/089
-
 # PRINCIPAL DISPLAY PANEL – 500 mg
 
 NDC 0378-5615-78

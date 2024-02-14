@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Levetiracetam is an antiepileptic drug available as 250 mg (white), 500 mg (white), 750 mg (white) or 1000 mg (white) tablets for oral administration.
+Levetiracetam is an antiepileptic drug available as 500 mg (white), 750 mg (white) and 1000 mg (white) tablets for oral administration.
 
 The chemical name of levetiracetam, a single enantiomer, is (-)-(S)-α-Ethyl-2-oxo-1-pyrrolidineacetamide, its molecular formula is C8H14N2O2 and its molecular weight is 170.21.
 Levetiracetam is chemically unrelated to existing antiepileptic drugs (AEDs).
@@ -14,4 +14,4 @@ It is freely soluble in chloroform (65.3 g/100 mL) and in methanol (53.6 g/100 m
 Levetiracetam tablets, USP contain the labeled amount of levetiracetam.
 Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, povidone, sodium lauryl sulfate, titanium dioxide and triacetin.
 
-Levetiracetam Tablets USP, 250 mg, 500 mg, 750 mg and 1000 mg Meet USP Dissolution Test 2.
+Meets USP Dissolution Test 2.
