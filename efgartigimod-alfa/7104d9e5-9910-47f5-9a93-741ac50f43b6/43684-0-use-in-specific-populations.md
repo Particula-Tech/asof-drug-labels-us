@@ -2,6 +2,11 @@
 
 ## 8.1 Pregnancy
 
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to VYVGART HYTRULO during pregnancy.
+Healthcare providers and patients may call 1-855-272-6524 or go to https://www.Vyvgartpregnancy.com to enroll in or to obtain information about the registry.
+
 Risk Summary
 
 There are no available data on the use of VYVGART HYTRULO or efgartigimod alfa containing products during pregnancy.

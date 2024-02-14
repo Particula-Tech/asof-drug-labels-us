@@ -8,4 +8,4 @@ Distributed by:
 
 argenx US, Inc. 33 Arch Street Boston, MA 02110
 
-VYVGART HYTRULO is a trademark of argenx BV. © 2023 argenx BV
+VYVGART HYTRULO is a trademark of argenx BV. © 2024 argenx BV
