@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA216963"
+  ],
+  "inn": "vasopressin",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-520-10",
+    "68083-520-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "vasopressin",
+      "name": "Vasopressin"
+    }
+  ],
+  "setid": "971f9b1c-6094-4f80-920b-cb5d7e62950a",
+  "source": "dailymed"
+}
