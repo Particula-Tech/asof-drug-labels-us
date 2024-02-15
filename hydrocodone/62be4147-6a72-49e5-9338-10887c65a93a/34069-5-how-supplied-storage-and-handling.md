@@ -17,4 +17,4 @@ Store Hydrocodone Bitartrate and Acetaminophen Tablets securely and dispose of p
 Manufactured by: Amneal Pharmaceuticals of NY, LLC Brookhaven, NY 11719
 
 Rev.
-12-2023-14
+01-2024-14

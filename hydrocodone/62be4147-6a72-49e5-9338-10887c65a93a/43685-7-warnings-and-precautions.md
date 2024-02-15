@@ -48,11 +48,11 @@ Educate patients and caregivers on how to recognize respiratory depression and e
 Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of other CNS depressants, a history of opioid use disorder, or prior opioid overdose.
 The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
 Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
-If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see WARNINGS, Addiction, Abuse, and Misuse, and Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants; PRECAUTIONS, Information for Patients/Caregivers].
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see WARNINGS, Addiction, Abuse, and Misuse, and Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants; PRECAUTIONS, Information for Patients/Caregivers; OVERDOSAGE].
 
 ## Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Hydrocodone Bitartrate and Acetaminophen Tablets with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Hydrocodone Bitartrate and Acetaminophen Tablets with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
@@ -210,8 +210,8 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Storage and Disposal
 
-Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Hydrocodone Bitartrate and Acetaminophen Tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see WARNINGS, DRUG ABUSE AND DEPENDENCE].
-Inform patients that leaving Hydrocodone Bitartrate and Acetaminophen Tablets unsecured can pose a deadly risk to others in the home.
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Hydrocodone Bitartrate and Acetaminophen Tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
+Inform patients that leaving Hydrocodone Bitartrate and Acetaminophen Tablets unsecured can pose a deadly risk to others in the home [see WARNINGS, DRUG ABUSE AND DEPENDENCE].
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
 Expired, unwanted, or unused Hydrocodone Bitartrate and Acetaminophen Tablets should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.

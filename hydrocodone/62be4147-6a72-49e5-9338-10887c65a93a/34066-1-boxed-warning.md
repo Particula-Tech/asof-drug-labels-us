@@ -6,7 +6,7 @@ Because the use of Hydrocodone Bitartrate and Acetaminophen Tablets exposes pati
 
 Life-Threatening Respiratory Depression
 
-Serious, life-threatening, or fatal respiratory depression may occur with use of Hydrocodone Bitartrate and Acetaminophen Tablets, especially during initiation or following a dose increase.
+Serious, life-threatening, or fatal respiratory depression may occur with use of Hydrocodone Bitartrate and Acetaminophen Tablets, especially during initiation or following a dosage increase.
 To reduce the risk of respiratory depression, proper dosing and titration of Hydrocodone Bitartrate and Acetaminophen Tablets are essential [see WARNINGS].
 
 Accidental Ingestion
