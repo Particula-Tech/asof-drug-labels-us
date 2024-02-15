@@ -14,7 +14,7 @@ A Schedule II Narcotic DEA Order Form Required.
 
 Store Hydrocodone Bitartrate and Acetaminophen Tablets securely and dispose of properly [see PRECAUTIONS; Information for Patients].
 
-Manufactured by: Amneal Pharmaceuticals of NY LLC Brookhaven, NY 11719
+Manufactured by: Amneal Pharmaceuticals of NY, LLC Brookhaven, NY 11719
 
 Rev.
-10-2021-13 Dispense with Medication Guide available at: documents.amneal.com/mg/hydro-apap-10-325.pdf
+01-2024-17

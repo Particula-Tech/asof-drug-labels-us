@@ -1,34 +1,31 @@
-WARNING: ADDICTION, ABUSE, AND MISUSE; RISK EVALUATION AND MITIGATION STRATEGY (REMS); LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; NEONATAL OPIOID WITHDRAWAL SYNDROME; CYTOCHROME P450 3A4 INTERACTION; HEPATOTOXICITY; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
+WARNING: SERIOUS AND LIFE-THREATENING RISKS FROM USE OF HYDROCODONE BITARTRATE AND ACETAMINOPHEN TABLETS
 
 Addiction, Abuse, and Misuse
 
-Hydrocodone Bitartrate and Acetaminophen Tablets expose patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
-Assess each patient’s risk prior to prescribing Hydrocodone Bitartrate and Acetaminophen Tablets, and monitor all patients regularly for the development of these behaviors and conditions [see WARNINGS].
-
-Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
-
-To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a REMS for these products [see WARNINGS].
-Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
-Healthcare providers are strongly encouraged to
-
-- complete a REMS-compliant education program.
-- counsel patients and/or their caregivers, with every prescription, on safe use, serious risks, storage, and disposal of these products.
-- emphasize to patients and their caregivers the importance of reading the Medication Guide every time it is provided by their pharmacist.
-- consider other tools to improve patient, household, and community safety.
+Because the use of Hydrocodone Bitartrate and Acetaminophen Tablets exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death, assess each patient’s risk prior to prescribing and reassess all patients regularly for the development of these behaviors and conditions [see WARNINGS].
 
 Life-Threatening Respiratory Depression
 
-Serious, life-threatening, or fatal respiratory depression may occur with use of Hydrocodone Bitartrate and Acetaminophen Tablets.
-Monitor for respiratory depression, especially during initiation of Hydrocodone Bitartrate and Acetaminophen Tablets or following a dose increase [see WARNINGS].
+Serious, life-threatening, or fatal respiratory depression may occur with use of Hydrocodone Bitartrate and Acetaminophen Tablets, especially during initiation or following a dosage increase.
+To reduce the risk of respiratory depression, proper dosing and titration of Hydrocodone Bitartrate and Acetaminophen Tablets are essential [see WARNINGS].
 
 Accidental Ingestion
 
-Accidental ingestion of Hydrocodone Bitartrate and Acetaminophen Tablets, especially by children, can result in a fatal overdose of Hydrocodone Bitartrate and Acetaminophen Tablets [see WARNINGS].
+Accidental ingestion of even one dose of Hydrocodone Bitartrate and Acetaminophen Tablets, especially by children, can result in a fatal overdose of hydrocodone [see WARNINGS].
 
-Neonatal Opioid Withdrawal Syndrome
+Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
 
-Prolonged use of Hydrocodone Bitartrate and Acetaminophen Tablets during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
-If opioid use is required for a prolonged period in a pregnant woman, advise the patient of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see WARNINGS].
+Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death.
+Reserve concomitant prescribing of Hydrocodone Bitartrate and Acetaminophen Tablets and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate [see WARNINGS; PRECAUTIONS; Drug Interactions].
+
+Neonatal Opioid Withdrawal Syndrome (NOWS)
+
+If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life-threatening if not recognized and treated.
+Ensure that management by neonatology experts will be available at delivery [see WARNINGS].
+
+Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
+
+Healthcare providers are strongly encouraged to complete a REMS-compliant education program and to counsel patients and caregivers on serious risks, safe use, and the importance of reading the Medication Guide with each prescription [see WARNINGS].
 
 Cytochrome P450 3A4 Interaction
 
@@ -40,11 +37,3 @@ Hepatotoxicity
 
 Acetaminophen has been associated with cases of acute liver failure, at times resulting in liver transplant and death.
 Most of the cases of liver injury are associated with the use of acetaminophen at doses that exceed 4,000 milligrams per day, and often involve more than one acetaminophen-containing product [see WARNINGS, OVERDOSAGE].
-
-Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
-
-Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death [see WARNINGS, PRECAUTIONS; Drug Interactions]
-
-- Reserve concomitant prescribing of Hydrocodone Bitartrate and Acetaminophen Tablets and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate.
-- Limit dosages and durations to the minimum required.
-- Follow patients for signs and symptoms of respiratory depression and sedation.
