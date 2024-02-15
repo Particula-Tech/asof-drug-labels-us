@@ -65,7 +65,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration-Efficacy Relationships
 
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with extended-release agonist opioids.
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
 The minimum effective analgesic concentration of hydrocodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance (see DOSAGE AND ADMINISTRATION).
 
 Concentration-Adverse Reaction Relationships

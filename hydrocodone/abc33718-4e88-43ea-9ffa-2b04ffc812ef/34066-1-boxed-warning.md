@@ -6,7 +6,7 @@ Because the use of hydrocodone bitartrate and ibuprofen exposes patients and oth
 
 Life-Threatening Respiratory Depression
 
-Serious, life-threatening, or fatal respiratory depression may occur with use of hydrocodone bitartrate and ibuprofen, especially during initiation or following a dose increase.
+Serious, life-threatening, or fatal respiratory depression may occur with use of hydrocodone bitartrate and ibuprofen, especially during initiation or following a dosage increase.
 To reduce the risk of respiratory depression, proper dosing and titration of hydrocodone bitartrate and ibuprofen are essential (see WARNINGS).
 
 Accidental Ingestion

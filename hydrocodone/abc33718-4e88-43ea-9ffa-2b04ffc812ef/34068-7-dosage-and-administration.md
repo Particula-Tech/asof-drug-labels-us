@@ -31,7 +31,7 @@ Initial Dosage
 
 Use of Hydrocodone Bitartrate and Ibuprofen Tablets as the First Opioid Analgesic
 
-Initiate treatment with hydrocodone bitartrate and ibuprofen tablets at a dose of one tablet every 4 to 6 hours as needed for pain, at the lowest dose necessary to achieve adequate analgesia.
+Initiate treatment with hydrocodone bitartrate and ibuprofen tablets in a dosing range of one tablet every 4 to 6 hours as needed for pain, at the lowest dose necessary to achieve adequate analgesia.
 Titrate the dose based upon the individual patient’s response to their initial dose of hydrocodone bitartrate and ibuprofen tablets.
 Dosage should not exceed 5 tablets in a 24-hour period.
 

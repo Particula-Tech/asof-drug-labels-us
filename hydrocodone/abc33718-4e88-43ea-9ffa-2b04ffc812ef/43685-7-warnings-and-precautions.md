@@ -43,7 +43,7 @@ In patients who present with CSA, consider decreasing the opioid dosage using be
 
 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of hydrocodone bitartrate and ibuprofen with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of hydrocodone bitartrate and ibuprofen with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
@@ -109,10 +109,10 @@ Discuss the availability of naloxone for the emergency treatment of opioid overd
 Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
 Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered (see PRECAUTIONS, Information for Patients/Caregivers).
 
-Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of other CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
 The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
 Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
-If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone (see WARNINGS, Addiction, Abuse, and Misuse, and Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants; PRECAUTIONS, Information for Patients/Caregivers).
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone (see WARNINGS, Addiction, Abuse, and Misuse, and Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants; PRECAUTIONS, Information for Patients/Caregivers, OVERDOSAGE).
 
 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
@@ -371,8 +371,8 @@ Patients, families, or their caregivers should be informed of the following info
 1.
 Storage and Disposal
 
-Because of the risks associated with accidental ingestion, misuse and abuse, advise patients to store hydrocodone bitartrate and ibuprofen tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home (see WARNINGS, DRUG ABUSE AND DEPENDENCE).
-Inform patients that leaving hydrocodone bitartrate and ibuprofen tablets unsecured can pose a deadly risk to others in the home.
+Because of the risks associated with accidental ingestion, misuse and abuse, advise patients to store hydrocodone bitartrate and ibuprofen tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
+Inform patients that leaving hydrocodone bitartrate and ibuprofen tablets unsecured can pose a deadly risk to others in the home (see WARNINGS, DRUG ABUSE AND DEPENDENCE).
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
 Expired, unwanted, or unused hydrocodone bitartrate and ibuprofen tablets should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
@@ -389,7 +389,7 @@ Life-Threatening Respiratory Depression
 
 Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting hydrocodone bitartrate and ibuprofen or when the dosage is increased, and that it can occur even at recommended dosages.
 
-Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose (see WARNINGS, Life Threatening Respiratory Depression).
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose (see WARNINGS, Life-Threatening Respiratory Depression).
 
 4.
 Accidental Ingestion
