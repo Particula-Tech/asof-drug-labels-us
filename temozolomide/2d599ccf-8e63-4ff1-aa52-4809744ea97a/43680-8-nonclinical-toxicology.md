@@ -12,9 +12,9 @@ In a reverse bacterial mutagenesis assay (Ames assay), temozolomide increased re
 Temozolomide was clastogenic in human lymphocytes in the presence and absence of metabolic activation.
 
 Temozolomide impairs male fertility.
-Temozolomide caused syncytial cells/immature sperm formation at doses 50 and 125 mg/m 2 (0.25 and 0.63 times the human dose of 200 mg/m 2) in rats and dogs, respectively, and testicular atrophy in dogs at 125 mg/m 2.
+Temozolomide caused syncytial cells/immature sperm formation at doses of 50 and 125 mg/m 2(0.25 and 0.63 times the human dose of 200 mg/m 2) in rats and dogs, respectively, and testicular atrophy in dogs at 125 mg/m 2.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Toxicology studies in rats and dogs identified a low incidence of hemorrhage, degeneration, and necrosis of the retina at temozolomide doses equal to or greater than 125 mg/m 2 (0.63 times the human dose of 200 mg/m 2).
+Toxicology studies in rats and dogs identified a low incidence of hemorrhage, degeneration, and necrosis of the retina at temozolomide doses equal to or greater than 125 mg/m 2(0.63 times the human dose of 200 mg/m 2).
 These changes were most commonly seen at doses where mortality was observed.
