@@ -6,8 +6,7 @@ Risk Summary
 
 Based on mechanism of action and findings in animal studies, spironolactone may affect sex differentiation of the male during embryogenesis (see Data).
 Rat embryofetal studies report feminization of male fetuses and endocrine dysfunction in females exposed to spironolactone in utero.
-Limited available data from published case reports and case series did not demonstrate an association of major malformations or other adverse pregnancy outcomes with spironolactone.
-There are risks to the mother and fetus associated with heart failure, cirrhosis and poorly controlled hypertension during pregnancy (see Clinical Considerations).
+Limited available data from published case reports and case series did not demonstrate an association of major malformations or other adverse pregnancy outcomes with spironolactone.There are risks to the mother and fetus associated with heart failure, cirrhosis and poorly controlled hypertension during pregnancy (see Clinical Considerations).
 Because of the potential risk to the male fetus due to anti-androgenic properties of spironolactone and animal data, avoid spironolactone in pregnant women or advise a pregnant woman of the potential risk to a male fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -68,7 +67,7 @@ Monitor potassium closely.
 ## 8.7 Use in Hepatic Impairment
 
 Spironolactone can cause sudden alterations of fluid and electrolyte balance which may precipitate impaired neurological function, worsening hepatic encephalopathy and coma in patients with hepatic disease with cirrhosis and ascites.
-In these patients, initiate Spironolactone in the hospital [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+In these patients, initiate Spironolactone in the hospital [see Dosage and Administration (2.4)and Clinical Pharmacology (12.3)].
 
 Clearance of spironolactone and its metabolites is reduced in patients with cirrhosis.
-In patients with cirrhosis, start with lowest initial dose and titrate slowly [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+In patients with cirrhosis, start with lowest initial dose and titrate slowly [see Dosage and Administration (2.4)and Clinical Pharmacology (12.3)].

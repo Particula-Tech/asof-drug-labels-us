@@ -3,7 +3,7 @@
 ## 7.1 Drugs and Supplements Increasing Serum Potassium
 
 Concomitant administration of spironolactone with potassium supplementation or drugs that can increase potassium may lead to severe hyperkalemia.
-In general, discontinue potassium supplementation in heart failure patients who start spironolactone [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+In general, discontinue potassium supplementation in heart failure patients who start spironolactone [see Warnings and Precautions (5.1)and Clinical Pharmacology (12.3)].
 Check serum potassium levels when ACE inhibitor or ARB therapy is altered in patients receiving spironolactone.
 
 Examples of drugs that can increase potassium include:

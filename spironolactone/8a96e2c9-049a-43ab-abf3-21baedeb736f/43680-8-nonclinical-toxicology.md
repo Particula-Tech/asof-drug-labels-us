@@ -12,9 +12,7 @@ There was also a statistically significant increase in benign uterine endometria
 Mutagenesis
 
 Neither spironolactone nor potassium canrenoate produced mutagenic effects in tests using bacteria or yeast.
-In the absence of metabolic activation, neither spironolactone nor potassium canrenoate has been shown to be mutagenic in mammalian tests in vitro.
-In the presence of metabolic activation, spironolactone has been reported to be negative in some mammalian mutagenicity tests in vitro and inconclusive (but slightly positive) for mutagenicity in other mammalian tests in vitro.
-In the presence of metabolic activation, potassium canrenoate has been reported to test positive for mutagenicity in some mammalian tests in vitro, inconclusive in others, and negative in still others.
+In the absence of metabolic activation, neither spironolactone nor potassium canrenoate has been shown to be mutagenic in mammalian tests in vitro.In the presence of metabolic activation, spironolactone has been reported to be negative in some mammalian mutagenicity tests in vitroand inconclusive (but slightly positive) for mutagenicity in other mammalian tests in vitro.In the presence of metabolic activation, potassium canrenoate has been reported to test positive for mutagenicity in some mammalian tests in vitro,inconclusive in others, and negative in still others.
 
 Impairment of Fertility
 
