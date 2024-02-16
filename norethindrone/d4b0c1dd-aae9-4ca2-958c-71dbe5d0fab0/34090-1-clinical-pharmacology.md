@@ -55,7 +55,7 @@ PHARMACOKINETIC PARAMETERS AFTER ADMINISTRATION OF 1 TABLET OF ACTIVELLA 1 MG/0.
 | Estradiolc (E2) |  |  |
 | AUC0-t (pg/mL*h) | 766.5 (48) | 697.3 (53) |
 | Cmax (pg/mL) | 26.8 (36) | 26.5 (37) |
-| tmax(h): median (range) | 6.0 (0.5-16.0) | 6.5 (0.5-16.0) |
+| tmax (h): median (range) | 6.0 (0.5-16.0) | 6.5 (0.5-16.0) |
 | t1/2(h)d | 14.0e (29) | 14.5f (27) |
 | Estronec (E1) |  |  |
 | AUC0-t (pg/mL*h) | 4469.1 (48) | 4506.4 (44) |

@@ -13,7 +13,7 @@ Adverse reactions reported with Activella 1 mg/0.5 mg by investigators during cl
 
 TABLE 1
 
-ALL TREATMENT-EMERGENT ADVERSE REACTIONS REGARDLESS OF RELATIONSHIP REPORTED AT A FREQUENCY OF ³ 5 PERCENT WITH ACTIVELLA 1 MG/0.5 MG
+ALL TREATMENT-EMERGENT ADVERSE REACTIONS REGARDLESS OF RELATIONSHIP REPORTED AT A FREQUENCY OF ≥ 5 PERCENT WITH ACTIVELLA 1 MG/0.5 MG
 
 |  | EndometrialHyperplasia Study(12-Months) |  | VasomotorSymptoms Study(3-Months) |  | OsteoporosisStudy(2-Years) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -51,7 +51,7 @@ Adverse reactions reported with Activella 0.5 mg/0.1 mg by investigators during 
 
 TABLE 2
 
-ALL TREATMENT-EMERGENT ADVERSE REACTIONS REGARDLESS OF RELATIONSHIP REPORTED AT A FREQUENCY OF ³ 5 PERCENT WITH ACTIVELLA 0.5 MG/0.1 MG
+ALL TREATMENT-EMERGENT ADVERSE REACTIONS REGARDLESS OF RELATIONSHIP REPORTED AT A FREQUENCY OF ⊃; 5 PERCENT WITH ACTIVELLA 0.5 MG/0.1 MG
 
 |  | Activella0.5 mg/0.1 mg | Placebo |
 | --- | --- | --- |
