@@ -22,7 +22,7 @@ Two patients in the Tasigna arm progressed to either accelerated phase or blast 
 
 Table 11: Efficacy (MMR and CCyR) of Tasigna Compared to imatinib in Adult Newly Diagnosed Ph+ CML-CP (ENESTnd)
 
-|  | Tasigna 300 mg Twice Daily | imatinib 400 mg Once Daily |
+|  | Tasigna 300 mg twice daily | imatinib 400 mg once daily |
 | --- | --- | --- |
 |  | N = 282 | N = 283 |
 | MMR at 12 months (95% CI) | 44% (38.4, 50.3) | 22% (17.6, 27.6) |
@@ -60,16 +60,16 @@ Median durations of response had not been reached at the time of data analysis.
 
 Table 12: Efficacy of Tasigna in Adult Resistant or Intolerant Ph+ CML-CP and CML-AP (Study A2101)
 
-| Cytogenetic Response Rate (Unconfirmed) (%)a |  |
+| Cytogenetic response rate (unconfirmed) (%)a |  |
 | --- | --- |
-|  | Chronic Phase (n = 321) |
-| Major (95% CI) | 51% (46%–57%) |
-| Complete (95% CI) | 37% (32%–42%) |
-| Partial (95% CI) | 15% (11%–19%) |
-|  | Accelerated Phase (n = 137) |
-| Hematologic Response Rate (Confirmed) (95% CI)b | 39% (31%–48%) |
-| Complete Hematologic Response Rate (95% CI) | 30% (22%–38%) |
-| No Evidence of Leukemia (95% CI) | 9% (5%–16%) |
+|  | Chronic phase (n = 321) |
+| Major (95% CI) | 51% (46% – 57%) |
+| Complete (95% CI) | 37% (32% – 42%) |
+| Partial (95% CI) | 15% (11% – 19%) |
+|  | Accelerated phase (n = 137) |
+| Hematologic response rate (confirmed) (95% CI)b | 39% (31% – 48%) |
+| Complete hematologic response rate (95% CI) | 30% (22% – 38%) |
+| No evidence of leukemia (95% CI) | 9% (5% – 16%) |
 | aCytogenetic response criteria: Complete (0% Ph+ metaphases) or partial (1% to 35%). Cytogenetic responses were based on the percentage of Ph-positive metaphases among greater than or equal to 20 metaphase cells in each bone marrow sample. bHematologic response = CHR + NEL (all responses confirmed after 4 weeks). |  |
 
 CHR (CML-CP): WBC less than 10 x 109/L, platelets less than 450,000/mm3, no blasts or promyelocytes in peripheral blood, less than 5% myelocytes + metamyelocytes in bone marrow, less than 20% basophils in peripheral blood, and no extramedullary involvement.
@@ -123,9 +123,9 @@ Among the 91 patients who discontinued the TFR phase due to loss of MMR, 88 pati
 By the 96-week data cut-off, of the 88 patients who restarted treatment due to loss of MMR in the TFR phase, 87 patients (98.9%) patients regained MMR (one patient discontinued study permanently due to subject decision after 7.1 weeks of retreatment without regaining MMR) and 81 patients (92.0%) regained MR4.5 by the time of the cut-off date.
 The cumulative rate of MMR and MR4.5 regained at 24 weeks since treatment reinitiation was 97.7% (86/88 patients) and 86.4% (76/88 patients), respectively.
 
-Table 13: Efficacy Results for ENESTfreedom
+Table 13: Efficacy Results for ENEST Freedom
 
-| Patients Who Entered the Treatment Free Remission (TFR) Phase (Full Analysis Set, N = 190) |  |  |  |
+| Patients who entered the treatment free remission (TFR) phase (full analysis Set, N = 190) |  |  |  |
 | --- | --- | --- | --- |
 |  | Patients in TFR phase1 at the specified time point |  | Loss of MMR2 by the specified time point |
 |  | % | 95% CI | % |
@@ -164,7 +164,7 @@ The cumulative rate of MR4 and MR4.5 regained by 48-weeks since treatment reinit
 
 Table 14: Efficacy Results for ENESTop
 
-| Patients Who Entered the Treatment Free Remission (TFR) Phase (Full Analysis Set, N = 126) |  |  |  |
+| Patients who entered the treatment free remission (TFR) phase (full analysis set, N = 126) |  |  |  |
 | --- | --- | --- | --- |
 |  | Patients in TFR phase1 at the specified time point |  | Loss of MMR or confirmed loss of MR42 by the specified time point |
 |  | % | 95% CI | % |

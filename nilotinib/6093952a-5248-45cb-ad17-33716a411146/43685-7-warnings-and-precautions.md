@@ -10,7 +10,7 @@ Myelosuppression was generally reversible and usually managed by withholding Tas
 
 Tasigna has been shown to prolong cardiac ventricular repolarization as measured by the QT interval on the surface electrocardiogram (ECG) in a concentration-dependent manner [see Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
 Prolongation of the QT interval can result in a type of ventricular tachycardia called torsade de pointes, which may result in syncope, seizure, and/or death.
-Electrocardiograms should be performed at baseline, 7 days after initiation of Tasigna, and periodically as clinically indicated and following dose adjustments [see Dosage and Administration (2.4) and Warnings and Precautions (5.12)].
+Electrocardiograms should be performed at baseline, 7 days after initiation of Tasigna, and periodically as clinically indicated and following dose adjustments [see Dosage and Administration (2.4), Warnings and Precautions (5.12)].
 
 Tasigna should not be used in patients who have hypokalemia, hypomagnesemia, or long QT syndrome.
 Before initiating Tasigna and periodically, test electrolyte, calcium, and magnesium blood levels.

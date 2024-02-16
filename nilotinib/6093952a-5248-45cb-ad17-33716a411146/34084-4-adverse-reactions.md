@@ -63,7 +63,7 @@ Table 7: Most Frequently Reported Non-Hematologic Adverse Reactions (Regardless 
 
 |  |  | Patients With Newly Diagnosed Ph+ CML-CP |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  | Tasigna 300 mg Twice Daily | imatinib 400 mg Once Daily | Tasigna 300 mg Twice Daily | imatinib 400 mg Once Daily |
+|  |  | Tasigna 300 mg twice daily | imatinib 400 mg once daily | Tasigna 300 mg twice daily | imatinib 400 mg once daily |
 |  |  | N = 279 | N = 280 | N = 279 | N = 280 |
 | Body System and Adverse Reaction |  | All Grades (%) |  | CTC Gradesb 3/4 (%) |  |
 | Skin and subcutaneous tissue disorders | Rash | 38 | 19 | < 1 | 2 |
@@ -147,16 +147,16 @@ Table 9 shows the percentage of adult patients experiencing treatment-emergent G
 
 Table 9: Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormalities
 
-|  | Patient Population |  |  |  |
+|  | Patient population |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Newly Diagnosed Adult Ph+ CML-CP |  | Resistant or Intolerant Adult Ph+ |  |
+|  | Newly diagnosed adult Ph+ CML-CP |  | Resistant or intolerant adult Ph+ |  |
 |  |  |  | CML-CP | CML-AP |
-|  | Tasigna 300 mg Twice Daily N = 279 (%) | imatinib 400 mg Once Daily N = 280 (%) | Tasigna 400 mg Twice Daily N = 321 (%) | Tasigna 400 mg Twice Daily N = 137 (%) |
-| Hematologic Parameters |  |  |  |  |
+|  | Tasigna 300 mg twice daily N = 279 (%) | imatinib 400 mg once daily N = 280 (%) | Tasigna 400 mg twice daily N = 321 (%) | Tasigna 400 mg twice daily N = 137 (%) |
+| Hematologic parameters |  |  |  |  |
 | Thrombocytopenia | 10 | 9 | 301 | 423 |
 | Neutropenia | 12 | 22 | 312 | 424 |
 | Anemia | 4 | 6 | 11 | 27 |
-| Biochemistry Parameters |  |  |  |  |
+| Biochemistry parameters |  |  |  |  |
 | Elevated lipase | 9 | 4 | 18 | 18 |
 | Hyperglycemia | 7 | < 1 | 12 | 6 |
 | Hypophosphatemia | 8 | 10 | 17 | 15 |
@@ -197,7 +197,7 @@ Table 10: Musculoskeletal Symptoms Occurring Upon Treatment Discontinuation in t
 |  |  |  | All Grades | Grade 3/4 |  | All Grades | Grade 3/4 | All Grades | Grade 3/4 | All Grades | Grade 3/4 |
 | Newly Diagnosed | 190 | 76 weeks | 28% | 1% | 100 | 17% | 0% | 34% | 2% | 9% | 0% |
 | Previously treated with imatinib | 126 | 99 weeks | 45% | 2% | 73 | 14% | 0% | 48% | 3% | 15% | 1% |
-| Abbreviations: CML-CP, chronic myeloid leukemia-chronic phase; Ph+, Philadelphia chromosome positive;TFR, treatment-free remission. |  |  |  |  |  |  |  |  |  |  |  |
+| Abbreviations: CML-CP, chronic myeloid leukemia-chronic phase; Ph+, Philadelphia chromosome positive; TFR, treatment-free remission. |  |  |  |  |  |  |  |  |  |  |  |
 
 Additional Data From Clinical Trials
 
@@ -326,3 +326,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Blood and Lymphatic System Disorders: thrombotic microangiopathy
 
 Nervous System Disorders: facial paralysis
+
+Musculoskeletal and Connective Tissue Disorders: osteonecrosis
