@@ -1,56 +1,25 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information).
+Advise the patient to read the FDA-Approved Patient Labeling (Patient Information).
 
-Patients should be advised to adhere to their National Cholesterol Education Program (NCEP)-recommended diet, a regular exercise program, and periodic testing of a fasting lipid panel.
+Inform patients that ezetimibe tablets may cause liver enzyme elevations [see Warnings and Precautions (5.2)].
 
-## 17.1 Muscle Pain
+Muscle Pain Advise patients that ezetimibe tablets may cause myopathy and rhabdomyolysis.
+Inform patients that the risk is also increased when taking certain types of medication and they should discuss all medication, both prescription and over the counter, with their healthcare provider.
+Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever [see Warnings and Precautions (5.3),and Drug Interactions (7)].
 
-All patients starting therapy with ezetimibe should be advised of the risk of myopathy and told to report promptly any unexplained muscle pain, tenderness or weakness.
-The risk of this occurring is increased when taking certain types of medication.
-Patients should discuss all medication, both prescription and over-the-counter, with their physician.
+Pregnancy Advise patients to inform their healthcare provider of a known or suspected pregnancy to discuss if ezetimibe tablets should be discontinued [see Use in Specific Populations (8.1)].
 
-## 17.2 Liver Enzymes
+Breastfeeding Advise patients who have a lipid disorder and are breastfeeding to discuss the options with their healthcare provider [see Use in Specific Populations (8.2)].
 
-Liver tests should be performed when ezetimibe is added to statin therapy and according to statin recommendations.
+Missed Dose Instruct patients to take ezetimibe tablets only as prescribed.
+If a dose is missed, it should be taken as soon as possible.
+Advise patients not to double their next dose.
 
-## 17.3 Pregnancy
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
-Women of childbearing age should be advised to use an effective method of birth control to prevent pregnancy while using ezetimibe added to statin therapy.
-Discuss future pregnancy plans with your patients, and discuss when to stop combination ezetimibe and statin therapy if they are trying to conceive.
-Patients should be advised that if they become pregnant they should stop taking combination ezetimibe and statin therapy and call their healthcare professional.
+Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village - Matoda, Bavla Road, Ta. - Sanand, Dist. - Ahmedabad - 382 210, INDIA.
 
-## 17.4 Breastfeeding
+10 2599 1 6026788
 
-Women who are breastfeeding should be advised to not use ezetimibe added to statin therapy.
-Patients who have a lipid disorder and are breastfeeding should be advised to discuss the options with their healthcare professionals.
-
-Manufactured For:
-
-Accord Healthcare, Inc.,
-
-1009, Slater Road,
-
-Suite 210-B,
-
-Durham, NC 27703,
-
-USA.
-
-Manufactured By:
-
-Intas Pharmaceuticals Limited,
-
-Plot No.: 457, 458,
-
-Village - Matoda,
-
-Bavla Road, Ta. - Sanand,
-
-Dist. - Ahmedabad - 382 210,
-
-INDIA.
-
-10 2599 0 679671
-
-Issued November 2018
+Issued January 2024

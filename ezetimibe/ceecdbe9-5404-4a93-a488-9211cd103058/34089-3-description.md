@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
-Ezetimibe is in a class of lipid-lowering compounds that selectively inhibits the intestinal absorption of cholesterol and related phytosterols.
-The chemical name of ezetimibe is 1-(4-fluorophenyl)-3(R)-[3-(4-fluorophenyl)-3(S)-hydroxypropyl]-4(S)-(4-hydroxyphenyl)-2-azetidinone.
+Ezetimibe is a dietary cholesterol absorption inhibitor.
+The chemical name of ezetimibe is 1-(4- fluorophenyl)-3(R)-[3-(4-fluorophenyl)-3(S)-hydroxypropyl]-4(S)-(4-hydroxyphenyl)-2-azetidinone.
 The empirical formula is C 24H 21F 2NO 3.
 Its molecular weight is 409.4 and its structural formula is:
 

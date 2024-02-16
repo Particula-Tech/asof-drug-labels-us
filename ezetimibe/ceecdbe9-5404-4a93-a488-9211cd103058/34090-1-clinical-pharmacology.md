@@ -3,60 +3,50 @@
 ## 12.1 Mechanism of Action
 
 Ezetimibe reduces blood cholesterol by inhibiting the absorption of cholesterol by the small intestine.
-In a 2-week clinical study in 18 hypercholesterolemic patients, ezetimibe inhibited intestinal cholesterol absorption by 54%, compared with placebo.
-Ezetimibe had no clinically meaningful effect on the plasma concentrations of the fat-soluble vitamins A, D, and E (in a study of 113 patients), and did not impair adrenocortical steroid hormone production (in a study of 118 patients).
 
-The cholesterol content of the liver is derived predominantly from three sources.
-The liver can synthesize cholesterol, take up cholesterol from the blood from circulating lipoproteins, or take up cholesterol absorbed by the small intestine.
-Intestinal cholesterol is derived primarily from cholesterol secreted in the bile and from dietary cholesterol.
-
-Ezetimibe has a mechanism of action that differs from those of other classes of cholesterol-reducing compounds (statins, bile acid sequestrants [resins], fibric acid derivatives, and plant stanols).
 The molecular target of ezetimibe has been shown to be the sterol transporter, Niemann-Pick C1-Like 1 (NPC1L1), which is involved in the intestinal uptake of cholesterol and phytosterols.
-
-Ezetimibe does not inhibit cholesterol synthesis in the liver, or increase bile acid excretion.
-Instead, ezetimibe localizes at the brush border of the small intestine and inhibits the absorption of cholesterol, leading to a decrease in the delivery of intestinal cholesterol to the liver.
-This causes a reduction of hepatic cholesterol stores and an increase in clearance of cholesterol from the blood; this distinct mechanism is complementary to that of statins and of fenofibrate [see Clinical Studies (14.1)].
+Ezetimibe localizes at the brush border of the small intestine and inhibits the absorption of cholesterol, leading to a decrease in the delivery of intestinal cholesterol to the liver.
+This causes a reduction of hepatic cholesterol stores and an increase in LDL receptors, resulting in clearance of cholesterol from the blood.
 
 ## 12.2 Pharmacodynamics
 
-Clinical studies have demonstrated that elevated levels of total-C, LDL-C and Apo B, the major protein constituent of LDL, promote human atherosclerosis.
-In addition, decreased levels of HDL-C are associated with the development of atherosclerosis.
-Epidemiologic studies have established that cardiovascular morbidity and mortality vary directly with the level of total-C and LDL-C and inversely with the level of HDL-C.
-Like LDL, cholesterol-enriched triglyceride-rich lipoproteins, including very-low-density lipoproteins (VLDL), intermediate-density lipoproteins (IDL), and remnants, can also promote atherosclerosis.
-The independent effect of raising HDL-C or lowering TG on the risk of coronary and cardiovascular morbidity and mortality has not been determined.
+Ezetimibe reduces total cholesterol (total-C), LDL-C, apolipoprotein (Apo) B, and non-high-density lipoprotein cholesterol (non-HDL-C) in patients with hyperlipidemia.
 
-Ezetimibe reduces total-C, LDL-C, Apo B, non-HDL-C, and TG, and increases HDL-C in patients with hyperlipidemia.
-Administration of ezetimibe with a statin is effective in improving serum total-C, LDL-C, Apo B, non-HDL-C, TG, and HDL-C beyond either treatment alone.
-Administration of ezetimibe with fenofibrate is effective in improving serum total-C, LDL-C, Apo B, and non-HDL-C in patients with mixed hyperlipidemia as compared to either treatment alone.
-The effects of ezetimibe given either alone or in addition to a statin or fenofibrate on cardiovascular morbidity and mortality have not been established.
+In a 2-week clinical trial in 18 hypercholesterolemic patients, ezetimibe inhibited intestinal cholesterol absorption by 54%, compared with placebo.
+Ezetimibe had no clinically meaningful effect on the plasma concentrations of the fat-soluble vitamins A, D, and E (in a trial of 113 patients) and did not impair adrenocortical steroid hormone production (in a trial of 118 patients).
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
 After oral administration, ezetimibe is absorbed and extensively conjugated to a pharmacologically active phenolic glucuronide (ezetimibe-glucuronide).
-After a single 10-mg dose of ezetimibe to fasted adults, mean ezetimibe peak plasma concentrations (C max) of 3.4 to 5.5 ng/mL were attained within 4 to 12 hours (T max). Ezetimibe-glucuronide mean C max values of 45 to 71 ng/mL were achieved between 1 and 2 hours (T max). There was no substantial deviation from dose proportionality between 5 and 20 mg.
+After a single 10-mg dose of ezetimibe to fasted adults, mean ezetimibe peak plasma concentrations (C max) of 3.4 to 5.5 ng/mL were attained within 4 to 12 hours (T max).
+
+Ezetimibe-glucuronide mean C maxvalues of 45 to 71 ng/mL were achieved between 1 and 2 hours (T max). There was no substantial deviation from dose proportionality between 5 and 20 mg.
 The absolute bioavailability of ezetimibe cannot be determined, as the compound is virtually insoluble in aqueous media suitable for injection.
 
-Effect of Food on Oral Absorption
+Effect of Food
 
 Concomitant food administration (high-fat or non-fat meals) had no effect on the extent of absorption of ezetimibe when administered as ezetimibe 10-mg tablets.
-The C max value of ezetimibe was increased by 38% with consumption of high-fat meals.
-Ezetimibe tablets can be administered with or without food.
+The C maxvalue of ezetimibe was increased by 38% with consumption of high-fat meals.
 
 Distribution
 
 Ezetimibe and ezetimibe-glucuronide are highly bound (>90%) to human plasma proteins.
 
-Metabolism and Excretion
+Elimination
+
+Metabolism
 
 Ezetimibe is primarily metabolized in the small intestine and liver via glucuronide conjugation (a phase II reaction) with subsequent biliary and renal excretion.
 Minimal oxidative metabolism (a phase I reaction) has been observed in all species evaluated.
-
 In humans, ezetimibe is rapidly metabolized to ezetimibe-glucuronide.
 Ezetimibe and ezetimibe-glucuronide are the major drug-derived compounds detected in plasma, constituting approximately 10 to 20% and 80 to 90% of the total drug in plasma, respectively.
+
 Both ezetimibe and ezetimibe-glucuronide are eliminated from plasma with a half-life of approximately 22 hours for both ezetimibe and ezetimibe-glucuronide.
 Plasma concentration-time profiles exhibit multiple peaks, suggesting enterohepatic recycling.
+
+Excretion
 
 Following oral administration of 14C-ezetimibe (20 mg) to human subjects, total ezetimibe (ezetimibe + ezetimibe-glucuronide) accounted for approximately 93% of the total radioactivity in plasma.
 After 48 hours, there were no detectable levels of radioactivity in the plasma.
@@ -66,25 +56,23 @@ Ezetimibe was the major component in feces and accounted for 69% of the administ
 
 Specific Populations
 
-Geriatric Patients: In a multiple-dose study with ezetimibe given 10 mg once daily for 10 days, plasma concentrations for total ezetimibe were about 2-fold higher in older (≥65 years) healthy subjects compared to younger subjects.
+Geriatric Patients In a multiple-dose trial with ezetimibe given 10 mg once daily for 10 days, plasma concentrations for total ezetimibe were about 2-fold higher in older (≥65 years) healthy subjects compared to younger subjects.
+However, the difference in plasma concentrations is not clinically meaningful.
 
-Pediatric Patients: [See Use in Specific Populations (8.4).]
+Gender In a multiple-dose trial with ezetimibe given 10 mg once daily for 10 days, plasma concentrations for total ezetimibe were slightly higher (<20%) in females than in males.
 
-Gender: In a multiple-dose study with ezetimibe given 10 mg once daily for 10 days, plasma concentrations for total ezetimibe were slightly higher (<20%) in women than in men.
+Race Based on a meta-analysis of multiple-dose pharmacokinetic studies, there were no pharmacokinetic differences between Black and White subjects.
+Studies in Asian subjects indicated that the pharmacokinetics of ezetimibe were similar to those seen in White subjects.
 
-Race: Based on a meta-analysis of multiple-dose pharmacokinetic studies, there were no pharmacokinetic differences between Black and Caucasian subjects.
-Studies in Asian subjects indicated that the pharmacokinetics of ezetimibe were similar to those seen in Caucasian subjects.
+Renal Impairment After a single 10-mg dose of ezetimibe in patients with severe renal disease (n=8; mean CrCl ≤30 mL/min/1.73 m 2), the mean AUC values for total ezetimibe, ezetimibe-glucuronide, and ezetimibe were increased approximately 1.5-fold, compared to healthy subjects (n=9).
 
-Hepatic Impairment: After a single 10-mg dose of ezetimibe, the mean AUC for total ezetimibe was increased approximately 1.7-fold in patients with mild hepatic impairment (Child-Pugh score 5 to 6), compared to healthy subjects.
-The mean AUC values for total ezetimibe and ezetimibe were increased approximately 3- to 4-fold and 5- to 6-fold, respectively, in patients with moderate (Child-Pugh score 7 to 9) or severe hepatic impairment (Child-Pugh score 10 to 15).
-In a 14-day, multiple-dose study (10 mg daily) in patients with moderate hepatic impairment, the mean AUC values for total ezetimibe and ezetimibe were increased approximately 4-fold on Day 1 and Day 14 compared to healthy subjects.
-Due to the unknown effects of the increased exposure to ezetimibe in patients with moderate or severe hepatic impairment, ezetimibe is not recommended in these patients [see Warnings and Precautions (5.4)].
+Hepatic Impairment After a single 10-mg dose of ezetimibe, the mean AUC for total ezetimibe was increased approximately 1.7-fold in patients with mild hepatic impairment (Child-Pugh score 5 to 6), compared to healthy subjects.
+The mean AUC values for total ezetimibe and ezetimibe were increased approximately 3- to 4-fold and 5- to 6-fold, respectively, in patients with moderate (Child-Pugh score 7 to 9) or severe hepatic impairment (Child- Pugh score 10 to 15).
+In a 14-day, multiple-dose trial (10 mg daily) in patients with moderate hepatic impairment, the mean AUC values for total ezetimibe and ezetimibe were increased approximately 4-fold on Day 1 and Day 14 compared to healthy subjects [see Use in Specific Populations (8.7)].
 
-Renal Impairment: After a single 10-mg dose of ezetimibe in patients with severe renal disease (n=8; mean CrCl ≤30 mL/min/1.73 m 2), the mean AUC values for total ezetimibe, ezetimibe-glucuronide, and ezetimibe were increased approximately 1.5-fold, compared to healthy subjects (n=9).
+Drug Interactions
 
-Drug Interactions [See also Drug Interactions (7)]
-
-Ezetimibe had no significant effect on a series of probe drugs (caffeine, dextromethorphan, tolbutamide, and IV midazolam) known to be metabolized by cytochrome P450 (1A2, 2D6, 2C8/9 and 3A4) in a "cocktail" study of twelve healthy adult males.
+Ezetimibe had no significant effect on a series of probe drugs (caffeine, dextromethorphan, tolbutamide, and IV midazolam) known to be metabolized by cytochrome P450 (1A2, 2D6, 2C8/9 and 3A4) in a “cocktail” trial of twelve healthy adult males.
 This indicates that ezetimibe is neither an inhibitor nor an inducer of these cytochrome P450 isozymes, and it is unlikely that ezetimibe will affect the metabolism of drugs that are metabolized by these enzymes.
 
 TABLE 4: Effect of Coadministered Drugs on Total Ezetimibe
@@ -108,7 +96,7 @@ TABLE 4: Effect of Coadministered Drugs on Total Ezetimibe
 
 TABLE 5: Effect of Ezetimibe Coadministration on Systemic Exposure to Other Drugs
 
-| Coadministered Drug and its Dosage Regimen | Ezetimibe Dosage Regimen | Change in AUC of Coadministered Drug | Change in C max of Coadministered Drug |
+| Coadministered Drug and its Dosage Regimen | Ezetimibe Dosage Regimen | Change in AUC of Coadministered Drug | Change in C maxof Coadministered Drug |
 | --- | --- | --- | --- |
 | Warfarin, 25-mg single dose on Day 7 | 10 mg QD, 11 days | ↓2% (R-warfarin) ↓4% (S-warfarin) | ↑3% (R-warfarin) ↑1% (S-warfarin) |
 | Digoxin, 0.5-mg single dose | 10 mg QD, 8 days | ↑2% | ↓7% |
