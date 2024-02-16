@@ -18,7 +18,7 @@ If this drug is used during pregnancy, or if a patient becomes pregnant while re
 ## 8.3 Nursing Mothers
 
 Rats excrete high concentrations of topotecan into milk.
-Lactating female rats given 4.72 mg/m 2 IV (about three times the clinical dose of 1.5 mg/m 2) excreted topotecan into milk at concentrations up to 48-fold higher than those in plasma.
+Lactating female rats given 4.72 mg/m 2IV (about three times the clinical dose of 1.5 mg/m 2) excreted topotecan into milk at concentrations up to 48-fold higher than those in plasma.
 It is not known whether the drug is excreted in human milk.
 Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from Topotecan Injection, discontinue breastfeeding when women are receiving Topotecan Injection.
 
@@ -40,7 +40,7 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 ## 8.6 Renal Impairment
 
-No dosage adjustment of Topotecan Injection appears to be required for patients with mild renal impairment (Cl cr 40 to 60 mL/min.).
-Dosage reduction is recommended for patients with moderate renal impairment (Cl cr 20 to 39 mL/min.).
+No dosage adjustment of Topotecan Injection appears to be required for patients with mild renal impairment (Cl cr40 to 60 mL/min.).
+Dosage reduction is recommended for patients with moderate renal impairment (Cl cr20 to 39 mL/min.).
 Insufficient data are available in patients with severe renal impairment to provide a dosage recommendation for Topotecan Injection.
 [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].

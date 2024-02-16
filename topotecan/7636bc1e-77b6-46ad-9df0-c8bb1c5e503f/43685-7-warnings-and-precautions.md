@@ -29,7 +29,7 @@ Anemia
 
 Monitoring of Bone Marrow Function
 
-Administer Topotecan Injection only in patients with adequate bone marrow reserves, including baseline neutrophil count of at least 1,500 cells/mm 3 and platelet count at least 100,000/mm 3.
+Administer Topotecan Injection only in patients with adequate bone marrow reserves, including baseline neutrophil count of at least 1,500 cells/mm 3and platelet count at least 100,000/mm 3.
 
 Monitor peripheral blood counts frequently during treatment with Topotecan Injection.
 Do not treat patients with subsequent courses of Topotecan Injection until neutrophils recover to >1,000 cells/mm 3, platelets recover to >100,000 cells/mm 3, and hemoglobin levels recover to 9 g/dL (with transfusion if necessary).Severe myelotoxicity has been reported when Topotecan Injection is used in combination with cisplatin [see Drug Interactions (7)]

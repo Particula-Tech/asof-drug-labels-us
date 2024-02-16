@@ -15,7 +15,7 @@ When topotecan is administered at a dose of 1.5 mg/m 2/day for 5 days, an 80% to
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of topotecan have been evaluated in cancer patients following doses of 0.5 to 1.5 mg/m 2 administered as a 30-minute infusion.
+The pharmacokinetics of topotecan have been evaluated in cancer patients following doses of 0.5 to 1.5 mg/m 2administered as a 30-minute infusion.
 Topotecan exhibits multiexponential pharmacokinetics with a terminal half-life of 2 to 3 hours.
 Total exposure (AUC) is approximately dose-proportional.
 
@@ -23,7 +23,7 @@ Distribution:Binding of topotecan to plasma proteins is about 35%.
 
 Metabolism:Topotecan undergoes a reversible pH dependent hydrolysis of its lactone moiety; it is the lactone form that is pharmacologically active.
 At pH ≤ 4, the lactone is exclusively present, whereas the ring-opened hydroxy-acid form predominates at physiologic pH.
-In vitro studies in human liver microsomes indicate topotecan is metabolized to an N-demethylated metabolite.
+In vitrostudies in human liver microsomes indicate topotecan is metabolized to an N-demethylated metabolite.
 The mean metabolite:parent AUC ratio was about 3% for total topotecan and topotecan lactone following IV administration.
 
 Excretion:Renal clearance is an important determinant of topotecan elimination.
@@ -42,7 +42,7 @@ Decreased renal clearance, which is common in the elderly, is a more important d
 Effect of Race:The effect of race on topotecan pharmacokinetics has not been studied.
 
 Effect of Renal Impairment:In patients with mild renal impairment (creatinine clearance of 40 to 60 mL/min.), topotecan plasma clearance was decreased to about 67% of the value in patients with normal renal function.
-In patients with moderate renal impairment (Cl cr of 20 to 39 mL/min.), topotecan plasma clearance was reduced to about 34% of the value in control patients, with an increase in half-life.
+In patients with moderate renal impairment (Cl crof 20 to 39 mL/min.), topotecan plasma clearance was reduced to about 34% of the value in control patients, with an increase in half-life.
 Mean half-life, estimated in 3 renally impaired patients, was about 5.0 hours.
 Dosage adjustment is recommended for these patients [see Dosage and Administration (2.3)].
 
@@ -51,9 +51,9 @@ Topotecan half-life increased slightly, from 2.0 hours to 2.5 hours, but these h
 
 Drug Interactions:Pharmacokinetic studies of the interaction of topotecan with concomitantly administered medications have not been formally investigated.
 
-In vitro inhibition studies using marker substrates known to be metabolized by human P450 CYP1A2, CYP2A6, CYP2C8/9, CYP2C19, CYP2D6, CYP2E, CYP3A, or CYP4A or dihydropyrimidine dehydrogenase indicate that the activities of these enzymes were not altered by topotecan.
+In vitroinhibition studies using marker substrates known to be metabolized by human P450 CYP1A2, CYP2A6, CYP2C8/9, CYP2C19, CYP2D6, CYP2E, CYP3A, or CYP4A or dihydropyrimidine dehydrogenase indicate that the activities of these enzymes were not altered by topotecan.
 Enzyme inhibition by topotecan has not been evaluated in vivo.
 
 Cisplatin:No pharmacokinetic data are available following topotecan (0.75 mg/m 2/day for 3 consecutive days) and cisplatin (50 mg/m 2/day on day 1) in patients with cervical cancer.
 Myelosuppression was more severe when topotecan was given in combination with cisplatin.
-[see Drug Interactions (7)].
+[see Drug Interactions(7)].

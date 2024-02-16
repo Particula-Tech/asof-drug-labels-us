@@ -3,9 +3,9 @@
 Topotecan is a semi-synthetic derivative of camptothecin and is an anti-tumor drug with topoisomerase I-inhibitory activity.
 
 The chemical name for topotecan free base is (S)-10-[(dimethylamino)methyl]-4-ethyl-4,9-dihydroxy-1 H-pyrano[3’,4’:6,7]indolizino[1,2- b]quinoline-3,14-(4 H,12 H)-dione.
-It has the molecular formula C 23H 23N 3O 5 and a molecular weight of 421.45.
+It has the molecular formula C 23H 23N 3O 5and a molecular weight of 421.45.
 
-Topotecan has three pKa values: pKa 1 = 10.50 corresponding to the benzyldimethylamino group, pKa 2 = 6.99 corresponding to the phenol group and pKa 3 = 0.60 corresponding to the quinoline group.
+Topotecan has three pKa values: pKa 1= 10.50 corresponding to the benzyldimethylamino group, pKa 2= 6.99 corresponding to the phenol group and pKa 3= 0.60 corresponding to the quinoline group.
 
 As formulated in Topotecan Injection, topotecan has the following structural formula:
 

@@ -8,7 +8,7 @@ Topotecan was mutagenic to L5178Y mouse lymphoma cells and clastogenic to cultur
 It was also clastogenic to mouse bone marrow.
 Topotecan did not cause mutations in bacterial cells.
 
-Topotecan given to female rats prior to mating at a dose of 1.4 mg/m 2 IV (about equal to the clinical dose of 1.5 mg/m 2) caused superovulation possibly related to inhibition of follicular atresia.
+Topotecan given to female rats prior to mating at a dose of 1.4 mg/m 2IV (about equal to the clinical dose of 1.5 mg/m 2) caused superovulation possibly related to inhibition of follicular atresia.
 This dose given to pregnant female rats also caused increased pre-implantation loss.
-Studies in dogs given 0.4 mg/m 2 IV (about 1/4th the clinical dose of 1.5 mg/m 2) of topotecan daily for a month suggest that treatment may cause an increase in the incidence of multinucleated spermatogonial giant cells in the testes.
+Studies in dogs given 0.4 mg/m 2IV (about 1/4th the clinical dose of 1.5 mg/m 2) of topotecan daily for a month suggest that treatment may cause an increase in the incidence of multinucleated spermatogonial giant cells in the testes.
 Topotecan may impair fertility in women and men.

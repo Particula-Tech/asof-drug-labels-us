@@ -7,17 +7,17 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Small Cell Lung Cancer
 
 Data in the following section are based on the combined experiences of the 879 patients studied, including 426 patients with small cell lung cancer treated with topotecan.
-Table 1 lists the principle hematologic adverse reactions and Table 2 lists non-hematologic adverse reactions occurring in at least 15% of patients.
+Table 1lists the principle hematologic adverse reactions and Table 2lists non-hematologic adverse reactions occurring in at least 15% of patients.
 
 Table 1.
 Hematologic Adverse Reactions Experienced in ≥15% of Patients, Including 426 Patients With Small Cell Lung Cancer, Receiving Topotecan
 
 | Hematologic Adverse Reaction | Patients(n=879)% Incidence |
 | --- | --- |
-| Neutropenia <1,500 cells/mm 3 <500 cells/mm 3 | 9778 |
-| Leukopenia <3,000 cells/mm 3 <1,000 cells/mm 3 | 9732 |
-| Thrombocytopenia <75,000/mm 3 <25,000/mm 3 | 6927 |
-| Anemia <10 g/dL <8 g/dL | 8937 |
+| Neutropenia<1,500 cells/mm 3<500 cells/mm 3 | 9778 |
+| Leukopenia<3,000 cells/mm 3<1,000 cells/mm 3 | 9732 |
+| Thrombocytopenia<75,000/mm 3<25,000/mm 3 | 6927 |
+| Anemia<10 g/dL<8 g/dL | 8937 |
 
 Table 2.
 Non-hematologic Adverse Reactions Experienced by ≥15% of 879 Patients, Including 426 Patients With Small Cell Lung Cancer, Receiving Topotecan
@@ -54,11 +54,11 @@ NA = Not applicable
 
 NR = Not reported separately
 
-a Does not include Grade 1 sepsis or pyrexia
+aDoes not include Grade 1 sepsis or pyrexia
 
-b Rash also includes pruritus, rash erythematous, urticaria, dermatitis, bullous eruption, and maculopapular rash.
+bRash also includes pruritus, rash erythematous, urticaria, dermatitis, bullous eruption, and maculopapular rash.
 
-c Pain includes body pain, back pain, and skeletal pain.
+cPain includes body pain, back pain, and skeletal pain.
 
 Nervous System Disorders
 
@@ -70,41 +70,41 @@ Grade 1 transient elevations in hepatic enzymes occurred in 8% of patients.
 Greater elevations, grade 3/4, occurred in 4%.
 Grade 3/4 elevated bilirubin occurred in <2% of patients.
 
-Table 3 shows the grade 3/4 hematologic and major non-hematologic adverse reactions in the topotecan/CAV comparator trial in small cell lung cancer.
+Table 3shows the grade 3/4 hematologic and major non-hematologic adverse reactions in the topotecan/CAV comparator trial in small cell lung cancer.
 
 Table 3.
 Adverse Reactions Experienced by ≥5% of Small Cell Lung Cancer Patients Randomized to Receive Topotecan or CAV
 
-| Adverse Reaction | Topotecan (n=107) | CAV(n=104) |
+| Adverse Reaction | Topotecan(n=107) | CAV(n=104) |
 | --- | --- | --- |
 | Hematologic Grade 3/4 | % | % |
-| Grade 4 neutropenia (<500 cells/mm 3) | 70 | 72 |
-| Grade 3/4 anemia (Hgb <8 g dL) | 42 | 20 |
-| Grade 4 thrombocytopenia (<25,000 plts/mm 3) | 29 | 5 |
+| Grade 4 neutropenia(<500 cells/mm 3) | 70 | 72 |
+| Grade 3/4 anemia(Hgb <8 g dL) | 42 | 20 |
+| Grade 4 thrombocytopenia(<25,000 plts/mm 3) | 29 | 5 |
 | Pyrexia/Grade 4 neutropenia | 28 | 26 |
 | Non-hematologic Grade 3/4 | % | % |
-| Infections and infestations Documented sepsis a | 5 | 5 |
-| Respiratory, thoracic, and mediastinal disorders Dyspnea | 9 | 14 |
+| Infections and infestationsDocumented sepsis a | 5 | 5 |
+| Respiratory, thoracic, and mediastinal disordersDyspnea | 9 | 14 |
 | Pneumonia | 8 | 6 |
-| Gastrointestinal disorders Abdominal pain | 6 | 4 |
+| Gastrointestinal disordersAbdominal pain | 6 | 4 |
 | Nausea | 8 | 6 |
-| General disorders and administrative site conditions Fatigue | 6 | 10 |
+| General disorders and administrative site conditionsFatigue | 6 | 10 |
 | Asthenia | 9 | 7 |
 | Pain b | 5 | 7 |
 
-a Death related to sepsis occurred in 3% of patients receiving topotecan, and in 1% of patients receiving CAV
+aDeath related to sepsis occurred in 3% of patients receiving topotecan, and in 1% of patients receiving CAV
 
-b Pain includes body pain, skeletal pain, and back pain.
+bPain includes body pain, skeletal pain, and back pain.
 
 Cervical Cancer
 
 In the comparative trial with Topotecan Injection plus cisplatin versus cisplatin in patients with cervical cancer, the most common dose-limiting adverse reaction was myelosuppression.
-Table 4 shows the hematologic adverse reactions and Table 5 shows the non-hematologic adverse reactions in patients with cervical cancer.
+Table 4shows the hematologic adverse reactions and Table 5shows the non-hematologic adverse reactions in patients with cervical cancer.
 
 Table 4.
 Hematologic Adverse Reactions in Patients with Cervical Cancer Treated with Topotecan Injection Plus Cisplatin or Cisplatin Monotherapy a
 
-| Hematologic Adverse Reaction | Topotecan Injection Plus Cisplatin (n = 140) | Cisplatin(n = 144) |
+| Hematologic Adverse Reaction | Topotecan Injection Plus Cisplatin(n = 140) | Cisplatin(n = 144) |
 | --- | --- | --- |
 | Anemia |  |  |
 | All grades (Hgb <12 g/dL) | 131 (94%) | 130 (90%) |
@@ -123,7 +123,7 @@ Hematologic Adverse Reactions in Patients with Cervical Cancer Treated with Topo
 | Grade 3 (<50,000 to 10,000 cells/mm 3) | 36 (26%) | 5 (3%) |
 | Grade 4 (<10,000 cells/mm 3) | 10 (7%) | 0 (0%) |
 
-a Includes patients who were eligible and treated.
+aIncludes patients who were eligible and treated.
 
 Table 5.
 Non-hematologic Adverse Reactions Experienced by ≥ 5% of Patients with Cervical Cancer Treated with Topotecan Injection Plus Cisplatin or Cisplatin Monotherapy a
@@ -161,17 +161,17 @@ Non-hematologic Adverse Reactions Experienced by ≥ 5% of Patients with Cervica
 
 Data were collected using NCI Common Toxicity Criteria, v. 2.0.
 
-a Includes patients who were eligible and treated.
+aIncludes patients who were eligible and treated.
 
-b Grades 1 through 4 only.
+bGrades 1 through 4 only.
 There were 3 patients who experienced grade 5 deaths with investigator-designated attribution.
 One was a grade 5 hemorrhage in which the drug-related thrombocytopenia aggravated the event.
 A second patient experienced bowel obstruction, cardiac arrest, pleural effusion and respiratory failure which were not treatment related but probably aggravated by treatment.
 A third patient experienced a pulmonary embolism and adult respiratory distress syndrome, the latter was indirectly treatment-related.
 
-c Constitutional includes fatigue (lethargy, malaise, asthenia), fever (in the absence of neutropenia), rigors, chills, sweating, and weight gain or loss.
+cConstitutional includes fatigue (lethargy, malaise, asthenia), fever (in the absence of neutropenia), rigors, chills, sweating, and weight gain or loss.
 
-d Pain includes abdominal pain or cramping, arthralgia, bone pain, chest pain (non-cardiac and non-pleuritic), dysmenorrhea, dyspareunia, earache, headache, hepatic pain, myalgia, neuropathic pain, pain due to radiation, pelvic pain, pleuritic pain, rectal or perirectal pain, and tumor pain.
+dPain includes abdominal pain or cramping, arthralgia, bone pain, chest pain (non-cardiac and non-pleuritic), dysmenorrhea, dyspareunia, earache, headache, hepatic pain, myalgia, neuropathic pain, pain due to radiation, pelvic pain, pleuritic pain, rectal or perirectal pain, and tumor pain.
 
 ## 6.2 Postmarketing Experience
 

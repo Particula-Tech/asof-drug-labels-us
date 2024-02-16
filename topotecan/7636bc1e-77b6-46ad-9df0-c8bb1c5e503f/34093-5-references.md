@@ -18,4 +18,4 @@ Am J Health-Syst Pharm.
 Polovich M, White JM, Kelleher LO (eds.)
 2005.
 Chemotherapy and Biotherapy Guidelines and Recommendations for Practice.
-(2 nd ed) Pittsburgh, PA: Oncology Nursing Society.
+(2 nded) Pittsburgh, PA: Oncology Nursing Society.

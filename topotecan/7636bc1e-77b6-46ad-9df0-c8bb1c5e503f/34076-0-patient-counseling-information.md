@@ -17,10 +17,10 @@ If these symptoms occur, caution should be observed when driving or operating ma
 
 Rx only
 
-Manufactured for: Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Manufactured for: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured by: Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210, INDIA.
 
-10 2913 0 636383
+10 7121 0 6027367
 
-Issued April 2017
+Issued December 2023
