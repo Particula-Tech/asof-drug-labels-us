@@ -117,7 +117,7 @@ Itraconazole is an inhibitor of the drug transporters P-glycoprotein and breast 
 Consequently, SPORANOX ®has the potential to interact with many concomitant drugs resulting in either increased or sometimes decreased concentrations of the concomitant drugs.
 Increased concentrations may increase the risk of adverse reactions associated with the concomitant drug which can be severe or life-threatening in some cases (e.g., QT prolongation, Torsade de Pointes, respiratory depression, hepatic adverse reactions, hypersensitivity reactions, myelosuppression, hypotension, seizures, angioedema, atrial fibrillation, bradycardia, priapism).
 Reduced concentrations of concomitant drugs may reduce their efficacy.
-Table 1 lists examples of drugs that may have their concentrations affected by itraconazole, but is not a comprehensive list.
+Table 1 lists examples of drugs that may have their concentrations affected by itraconazole, but it is not a comprehensive list.
 
 Refer to the approved product labeling to become familiar with the interaction pathways, risk potential, and specific actions to be taken with regards to each concomitant drug prior to initiating therapy with SPORANOX ®.
 
@@ -125,7 +125,7 @@ Although many of the clinical drug interactions in Table 1 are based on informat
 
 Table 1: Drug Interactions with SPORANOX ®that Affect Concomitant Drug Concentrations
 
-| Concomitant Drug Within Class |  | Prevention or Management |
+| Examples of Concomitant Drugs Within Class |  | Prevention or Management |
 | --- | --- | --- |
 | Drug Interactions with SPORANOX®that Increase Concomitant Drug Concentrations and May Increase Risk of Adverse Reactions Associated with the Concomitant Drug |  |  |
 | Alpha Blockers |  |  |
@@ -198,7 +198,7 @@ Table 1: Drug Interactions with SPORANOX ®that Affect Concomitant Drug Concentr
 | Budesonide (inhalation) Budesonide (non-inhalation) Ciclesonide (inhalation) Cyclosporine (IV) Cyclosporine (non-IV) Dexamethasone | Fluticasone (inhalation) Fluticasone (nasal) Methylprednisolone Tacrolimus (IV) Tacrolimus (oral) | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Lipid-Lowering Drugs |  |  |
 | Lomitapide Lovastatin Simvastatin |  | Contraindicated during and 2 weeks after SPORANOX ®treatment. |
-| Atorvastatin |  | Monitor for drug adverse reactions. Concomitant drug dose reduction may be necessary.. |
+| Atorvastatin |  | Monitor for drug adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Respiratory Drugs |  |  |
 | Salmeterol |  | Not recommended during and 2 weeks after SPORANOX ®treatment. |
 | SSRIs, Tricyclics and Related Antidepressants |  |  |
@@ -214,6 +214,7 @@ Table 1: Drug Interactions with SPORANOX ®that Affect Concomitant Drug Concentr
 | Eliglustat |  | CYP2D6 EMs EMs: extensive metabolizers; IMs: intermediate metabolizers, PMs: poor metabolizerstaking a strong or moderate CYP2D6 inhibitor, CYP2D6 IMs, or CYP2D6 PMs: Contraindicated during and 2 weeks after SPORANOX ®treatment. CYP2D6 EMs not taking a strong or moderate CYP2D6 inhibitor: Monitor for adverse reactions. Eliglustat dose reduction may be necessary. |
 | Lumacaftor/Ivacaftor |  | Not recommended 2 weeks before, during, and 2 weeks after SPORANOX ®treatment. |
 | Alitretinoin (oral) Cabergoline Cannabinoids Cinacalcet Galantamine Ivacaftor |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
+| Valbenazine |  | Concomitant drug dose reduction is necessary. Refer to the valbenazine prescribing information for dosing instructions. |
 | Vasopressin Receptor Antagonists |  |  |
 | Conivaptan Tolvaptan |  | Not recommended during and 2 weeks after SPORANOX ®treatment. |
 | Drug Interactions with SPORANOX ®that Decrease Concomitant Drug Concentrations and May Reduce Efficacy of the Concomitant Drug |  |  |
@@ -239,7 +240,7 @@ Although many of the clinical drug interactions in Table 2 are based on informat
 
 Table 2: Drug Interactions with Other Drugs that Affect SPORANOX ®Concentrations
 
-| Concomitant Drug Within Class | Prevention or Management |
+| Examples of Concomitant Drugs Within Class | Prevention or Management |
 | --- | --- |
 | Drug Interactions with Other Drugs that Increase SPORANOX®Concentrations and May Increase Risk of Adverse Reactions Associated with SPORANOX ® |  |
 | Antibacterials |  |
@@ -260,7 +261,7 @@ Table 2: Drug Interactions with Other Drugs that Affect SPORANOX ®Concentration
 | Antivirals |  |
 | Efavirenz Nevirapine | Not recommended 2 weeks before and during SPORANOX ®treatment. |
 | Gastrointestinal Drugs |  |
-| Drugs that reduce gastric acidity e.g. acid neutralizing medicines such as aluminum hydroxide, or acid secretion suppressors such as H 2- receptor antagonists and proton pump inhibitors. | Use with caution. Administer acid neutralizing medicines at least 2 hours before or 2 hours after the intake of SPORANOX ®capsules |
+| Drugs that reduce gastric acidity e.g. acid neutralizing medicines such as aluminum hydroxide, or acid secretion suppressors such as H 2- receptor antagonists and proton pump inhibitors. | Use with caution. Administer acid neutralizing medicines at least 2 hours before or 2 hours after the intake of SPORANOX ®capsules. |
 | Miscellaneous Drugs and Other Substances |  |
 | Lumacaftor/Ivacaftor | Not recommended 2 weeks before, during, and 2 weeks after SPORANOX ®treatment. |
 
@@ -270,22 +271,22 @@ Interaction studies have only been performed in adults.
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
-Itraconazole showed no evidence of carcinogenicity potential in mice treated orally for 23 months at dosage levels up to 80 mg/kg/day (approximately 10 times the maximum recommended human dose [MRHD]).
-Male rats treated with 25 mg/kg/day (3.1 times the MRHD) had a slightly increased incidence of soft tissue sarcoma.
+Itraconazole showed no evidence of carcinogenicity potential in mice treated orally for 23 months at dosage levels up to 80 mg/kg/day (approximately 1 time the maximum recommended human dose [MRHD] of 400 mg/day based on body surface area comparisons).
+Male rats treated with 25 mg/kg/day (0.6 times the MRHD based on body surface area comparisons) had a slightly increased incidence of soft tissue sarcoma.
 These sarcomas may have been a consequence of hypercholesterolemia, which is a response of rats, but not dogs or humans, to chronic itraconazole administration.
-Female rats treated with 50 mg/kg/day (6.25 times the MRHD) had an increased incidence of squamous cell carcinoma of the lung (2/50) as compared to the untreated group.
+Female rats treated with 50 mg/kg/day (1.2 times the MRHD based on body surface area comparisons) had an increased incidence of squamous cell carcinoma of the lung (2/50) as compared to the untreated group.
 Although the occurrence of squamous cell carcinoma in the lung is extremely uncommon in untreated rats, the increase in this study was not statistically significant.
 
 Itraconazole produced no mutagenic effects when assayed in DNA repair test (unscheduled DNA synthesis) in primary rat hepatocytes, in Ames tests with Salmonella typhimurium(6 strains) and Escherichia coli, in the mouse lymphoma gene mutation tests, in a sex-linked recessive lethal mutation (Drosophila melanogaster) test, in chromosome aberration tests in human lymphocytes, in a cell transformation test with C3H/10T½ C18 mouse embryo fibroblasts cells, in a dominant lethal mutation test in male and female mice, and in micronucleus tests in mice and rats.
 
-Itraconazole did not affect the fertility of male or female rats treated orally with dosage levels of up to 40 mg/kg/day (5 times the MRHD), even though parental toxicity was present at this dosage level.
-More severe signs of parental toxicity, including death, were present in the next higher dosage level, 160 mg/kg/day (20 times the MRHD).
+Itraconazole did not affect the fertility of male or female rats treated orally with dosage levels of up to 40 mg/kg/day (1 time the MRHD based on body surface area comparisons), even though parental toxicity was present at this dosage level.
+More severe signs of parental toxicity, including death, were present in the next higher dosage level, 160 mg/kg/day (4 times the MRHD based on body surface area comparisons).
 
 ## Pregnancy
 
 ### Teratogenic Effects
 
-Itraconazole was found to cause a dose-related increase in maternal toxicity, embryotoxicity, and teratogenicity in rats at dosage levels of approximately 40–160 mg/kg/day (5–20 times the MRHD), and in mice at dosage levels of approximately 80 mg/kg/day (10 times the MRHD).
+Itraconazole was found to cause a dose-related increase in maternal toxicity, embryotoxicity, and teratogenicity in rats at dosage levels of approximately 40–160 mg/kg/day (1-4 times the MRHD based on body surface area comparisons), and in mice at dosage levels of approximately 80 mg/kg/day (1 time the MRHD based on body surface area comparisons).
 Itraconazole has been shown to cross the placenta in a rat model.
 In rats, the teratogenicity consisted of major skeletal defects; in mice, it consisted of encephaloceles and/or macroglossia.
 
@@ -309,9 +310,9 @@ The U.S. Public Health Service Centers for Disease Control and Prevention advise
 The efficacy and safety of SPORANOX ®have not been established in pediatric patients.
 
 The long-term effects of itraconazole on bone growth in children are unknown.
-In three toxicology studies using rats, itraconazole induced bone defects at dosage levels as low as 20 mg/kg/day (2.5 times the MRHD).
+In three toxicology studies using rats, itraconazole induced bone defects at dosage levels as low as 20 mg/kg/day (0.5 times the MRHD of 400 mg based on body surface area comparisons).
 The induced defects included reduced bone plate activity, thinning of the zona compacta of the large bones, and increased bone fragility.
-At a dosage level of 80 mg/kg/day (10 times the MRHD) over 1 year or 160 mg/kg/day (20 times the MRHD) for 6 months, itraconazole induced small tooth pulp with hypocellular appearance in some rats.
+At a dosage level of 80 mg/kg/day (2 times the MRHD based on body surface area comparisons) over 1 year or 160 mg/kg/day (4 times the MRHD based on body surface area comparisons) for 6 months, itraconazole induced small tooth pulp with hypocellular appearance in some rats.
 
 ## Geriatric Use
 
