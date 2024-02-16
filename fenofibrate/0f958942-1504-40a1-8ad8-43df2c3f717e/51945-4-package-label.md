@@ -23,7 +23,7 @@ Made in India
 
 Mylan.com
 
-RMX3065MM2
+RMX3065MM3
 
 Do not accept if seal over bottle opening is broken or missing.
 
@@ -58,7 +58,7 @@ Made in India
 
 Mylan.com
 
-RMX3066MM2
+RMX3066MM3
 
 Do not accept if seal over bottle opening is broken or missing.
 
