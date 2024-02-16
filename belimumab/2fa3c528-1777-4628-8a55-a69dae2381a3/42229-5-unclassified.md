@@ -8,9 +8,9 @@ Distributed by GlaxoSmithKline
 
 Durham, NC 27701
 
-©2023 GSK group of companies or its licensor.
+©2024 GSK group of companies or its licensor.
 
-BNL:18PI
+BNL:19PI
 
 DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT.
 

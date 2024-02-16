@@ -13,7 +13,8 @@ Progressive Multifocal Leukoencephalopathy (PML)
 Cases of JC virus-associated PML resulting in neurological deficits, including fatal cases, have been reported in patients with SLE receiving immunosuppressants, including BENLYSTA.
 Risk factors for PML include treatment with immunosuppressant therapies and impairment of immune function.
 Consider the diagnosis of PML in any patient presenting with new-onset or deteriorating neurological signs and symptoms and consult with a neurologist or other appropriate specialist as clinically indicated.
-In patients with confirmed PML, discontinue immunosuppressant therapy, including BENLYSTA.
+In patients with suspected PML, immunosuppressant therapy, including BENLYSTA, must be suspended until PML has been excluded.
+If PML is confirmed, immunosuppressant therapy, including BENLYSTA, must be discontinued.
 
 ## 5.2 Hypersensitivity Reactions, including Anaphylaxis
 

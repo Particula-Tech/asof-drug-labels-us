@@ -33,16 +33,16 @@ Reconstitution Instructions for Intravenous Use:
 1. 1.Remove the vial of BENLYSTA from the refrigerator and allow to stand for 10 to 15 minutes for the vial to reach room temperature.
 2. 2.Reconstitute the BENLYSTA powder with Sterile Water for Injection, USP, as follows.
    The reconstituted solution will contain a concentration of 80 mg/mL belimumab.
-   1. •Reconstitute the 120-mg vial with 1.5 mL Sterile Water for Injection, USP.
-   2. •Reconstitute the 400-mg vial with 4.8 mL Sterile Water for Injection, USP.
-3. 3.The stream of sterile water should be directed toward the side of the vial to minimize foaming.
+3. •Reconstitute the 120-mg vial with 1.5 mL Sterile Water for Injection, USP.
+4. •Reconstitute the 400-mg vial with 4.8 mL Sterile Water for Injection, USP.
+5. 3.The stream of sterile water should be directed toward the side of the vial to minimize foaming.
    Gently swirl the vial for 60 seconds.
    Allow the vial to sit at room temperature during reconstitution, gently swirling the vial for 60 seconds every 5 minutes until the powder is dissolved.
    Do not shake.
    Reconstitution is typically complete within 10 to 15 minutes after the sterile water has been added, but it may take up to 30 minutes.
    Protect the reconstituted solution from sunlight.
-4. 4.If a mechanical reconstitution device (swirler) is used to reconstitute BENLYSTA, it should not exceed 500 rpm and the vial swirled for no longer than 30 minutes.
-5. 5.Once reconstitution is complete, the solution should be opalescent and colorless to pale yellow, and without particles.
+6. 4.If a mechanical reconstitution device (swirler) is used to reconstitute BENLYSTA, it should not exceed 500 rpm and the vial swirled for no longer than 30 minutes.
+7. 5.Once reconstitution is complete, the solution should be opalescent and colorless to pale yellow, and without particles.
    Small air bubbles, however, are expected and acceptable.
 
 Dilution Instructions for Intravenous Use:
