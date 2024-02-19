@@ -2,7 +2,7 @@
 
 Advise patients to read the FDA-approved patient labeling (Medication Guide).
 
-Storage and Disposal
+## Storage and Disposal
 
 Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store buprenorphine sublingual tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.4), Drug Abuse and Dependence (9.2)].
 Inform patients that leaving buprenorphine sublingual tablets unsecured can pose a deadly risk to others in the home.
@@ -11,7 +11,9 @@ Advise patients and caregivers that when medicines are no longer needed, they sh
 Expired, unwanted, or unused buprenorphine sublingual tablets should be disposed of by flushing the unused medication down the toilet, if a drug take-back option is not readily available.
 Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
 
-Safe Use Before initiating treatment with buprenorphine sublingual tablets, explain the points listed below to caregivers and patients.
+## Safe Use
+
+Before initiating treatment with buprenorphine sublingual tablets, explain the points listed below to caregivers and patients.
 Instruct patients to read the Medication Guide each time buprenorphine sublingual tablets are dispensed because new information may be available.
 
 - Inform patients and caregivers that potentially fatal additive effects may occur if buprenorphine sublingual tablets are used with benzodiazepines or other CNS depressants, including alcohol.
@@ -76,4 +78,4 @@ Dispense with Medication Guide available at: www.tevausa.com/medguides
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-H 4/2023
+J 1/2024

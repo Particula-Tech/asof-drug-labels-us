@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Buprenorphine sublingual tablets are uncoated oval orange tablets, imprinted with a logo on one side and a numeric imprint on the other side.
+Buprenorphine sublingual tablets are uncoated orange oval tablets, imprinted with a logo on one side and a numeric imprint on the other side.
 The tablets contain buprenorphine HCl, USP and are available in two dosage strengths, 2 mg buprenorphine and 8 mg buprenorphine (as the free base).
 Each tablet also contains citric acid anhydrous, crospovidone, FD&C Yellow #6 HT Aluminum Lake, lactose monohydrate, magnesium stearate, mannitol, pregelatinized starch (maize), povidone, sodium citrate dihydrate.
 
