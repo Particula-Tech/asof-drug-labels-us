@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA213976"
+  ],
+  "inn": "budesonide",
+  "labeler": "TAKEDA PHARMACEUTICALS AMERICA, INC.",
+  "package_ndcs": [
+    "64764-105-00",
+    "64764-105-01",
+    "64764-105-10",
+    "64764-105-60"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "budesonide",
+      "name": "Eohilia"
+    }
+  ],
+  "setid": "56f2023a-69b2-4470-b4ad-af7ec1be527a",
+  "source": "dailymed"
+}
