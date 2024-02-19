@@ -47,14 +47,13 @@ No important new adverse effects attributable to buprenorphine hydrochloride wer
 
 ## Postmarketing Experience
 
-### Serotonin syndrome
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
 
-Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
-### Adrenal insufficiency
+Androgen deficiency: Cases of androgen deficiency have occurred with use of opioids for an extended period of time [see CLINICAL PHARMACOLOGY: Pharmacodynamics].
 
-Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see WARNINGS].
 
-### Androgen deficiency
-
-Cases of androgen deficiency have occurred with chronic use of opioids [see CLINICAL PHARMACOLOGY: Pharmacodynamics].
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking opioids.
+Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).
