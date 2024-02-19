@@ -2,18 +2,18 @@
 
 ## 2.1 Important Administration Instructions
 
-If a dose of cefazolin injection is required that does not equal 1 gram or 2 grams, this product is not recommended for use and as an alternative formulation of cefazolin should be considered.
+If a dose of Cefazolin in Dextrose Injection is required that does not equal 1 gram or 2 grams, this product is not recommended for use and as an alternative formulation of cefazolin should be considered.
 
-Administer cefazolin injection intravenously over approximately 30 minutes.
+Administer Cefazolin in Dextrose Injection intravenously over approximately 30 minutes.
 
 ## 2.2 Dosage for the Treatment of Infections
 
 Dosage for the Treatment of Infections in Adults with Creatinine Clearance (CLcr) Equal to 55 mL/min or Greater
 
 The recommended adult dosages for the treatment of infections [see Indications and Usage (1.1 to 1.8)] are outlined in Table 1 below.
-Administer cefazolin injection intravenously over approximately 30 minutes.
+Administer Cefazolin in Dextrose Injection intravenously over approximately 30 minutes.
 
-Table 1: Recommended Dosing Schedule in Adult Patients with CLcr Greater Than or Equal To 55 mL/minIf a dose of cefazolin Injection is required that does not equal 1 gram or 2 grams, this product is not recommended for use and an alternative formulation of cefazolin should be considered..
+Table 1: Recommended Dosing Schedule in Adult Patients with CLcr Greater Than or Equal To 55 mL/minIf a dose of Cefazolin in Dextrose Injection is required that does not equal 1 gram or 2 grams, this product is not recommended for use and an alternative formulation of cefazolin should be considered..
 
 | Site and Type of Infection | Dose | Frequency |
 | --- | --- | --- |
@@ -26,9 +26,9 @@ Table 1: Recommended Dosing Schedule in Adult Patients with CLcr Greater Than or
 Dosage for the Treatment of Infections in Pediatric Patients with CLcr Equal to 70 mL/min or Greater
 
 The recommended pediatric dosages for the treatment of infections [see Indications and Usage (1.1 to 1.8)] are outlined in Table 2 below.
-Administer cefazolin injection intravenously over approximately 30 minutes.
+Administer Cefazolin in Dextrose Injection intravenously over approximately 30 minutes.
 
-If a dose of cefazolin injection is required that does not equal 1 gram or 2 grams, this product is not recommended for use and an alternative formulation of cefazolin should be considered [see Use in Specific Populations (8.4)].
+If a dose of Cefazolin in Dextrose Injection is required that does not equal 1 gram or 2 grams, this product is not recommended for use and an alternative formulation of cefazolin should be considered [see Use in Specific Populations (8.4)].
 
 Table 2: Recommended Dosage in Pediatric Patients with CLcr 70 mL/min or greater for Treatment of Infections [see Indications and Usage (1.1 to 1.8)]
 
@@ -39,26 +39,44 @@ Table 2: Recommended Dosage in Pediatric Patients with CLcr 70 mL/min or greater
 
 ## 2.3 Dosage for Perioperative Prophylaxis
 
-- Dosage for Perioperative Prophylaxis in Adults with CLcr Equal to 55 mL/min or Greater
-- To prevent postoperative infection in contaminated or potentially contaminated surgery, recommended dosages are described in Table 3 below.
+Dosage for Perioperative Prophylaxis in Adults with CLcr Equal to 55 mL/min or Greater
 
-Table 3: Recommended Dosage for Perioperative Prophylaxis in Adults with CLcr of 55 mL/min or Greater
+To prevent postoperative infection in contaminated or potentially contaminated surgery, recommended dosages are described in Table 3 below.
+
+Table 3: Recommended Dosage for Perioperative Prophylaxis in Adults with Clcr of 55 mL/min or Greater
 
 | Dose administered ½ hour to 1 hour prior to the start of surgery | Additional dose during lengthy operative procedures (e.g., 2 hours or more) | Dose for 24 hours postoperatively |
 | --- | --- | --- |
 | 1 g 2 g | 500 mg to 1 g | 500 mg to 1 g every 6 hours to 8 hours |
 
-- If a dose of cefazolin injection is required that does not equal 1 gram or 2 grams, this product is not recommended and an alternative formulation of cefazolin should be considered.
-- It is important that (i) the preoperative dose be given just prior (1/2 hour to 1 hour) to the start of surgery so that adequate antibacterial concentrations are present in the serum and tissues at the time of initial surgical incision; and (ii) cefazolin be administered, if necessary, at appropriate intervals during surgery to provide sufficient concentrations of the antibacterial drug at the anticipated moments of greatest exposure to infective organisms.
-- The perioperative prophylactic administration of cefazolin should usually be discontinued within a 24-hour period after the surgical procedure.
-  In surgery where the occurrence of infection may be particularly devastating (e.g., open-heart surgery and prosthetic arthroplasty), the prophylactic administration of cefazolin may be continued for 3 to 5 days following the completion of surgery.
-- Additional pediatric use information is approved for B. Braun Medical Inc.'s CEFAZOLIN FOR INJECTION AND DEXTROSE INJECTION.
-  However, due to B. Braun Medical Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
+If a dose of Cefazolin in Dextrose Injection is required that does not equal 1 gram or 2 grams, this product is not recommended, and an alternative formulation of cefazolin should be considered.
+
+It is important that (i) the preoperative dose be given just prior (1/2 hour to 1 hour) to the start of surgery so that adequate antibacterial concentrations are present in the serum and tissues at the time of initial surgical incision; and (ii) cefazolin be administered, if necessary, at appropriate intervals during surgery to provide sufficient concentrations of the antibacterial drug at the anticipated moments of greatest exposure to infective organisms.
+
+The perioperative prophylactic administration of cefazolin should usually be discontinued within a 24-hour period after the surgical procedure.
+In surgery where the occurrence of infection may be particularly devastating (e.g., open-heart surgery and prosthetic arthroplasty), the prophylactic administration of cefazolin may be continued for 3 to 5 days following the completion of surgery.
+
+Dosage for Perioperative Prophylaxis in Pediatric Patients Aged 10 to 17 Years Old with CLcr 70 mL/min or Greater
+
+To prevent postoperative infection in contaminated or potentially contaminated surgery, recommended doses are described in Table 4 below.
+
+Table 4: Recommended Dosage for Perioperative Prophylaxis in Pediatric with CLcr 70 mL/min or greater Aged 10 to 17 years OldIf a dose of Cefazolin in Dextrose Injection is required that does not equal 1 gram or 2 grams, this product is not recommended for use and an alternative formulation of cefazolin should be considered
+
+| Body weight (kg) | Dose administered ½ hour to 1 hour prior to start of surgery | Additional dose during lengthy operative procedures (e.g., 2 hours or more) | Dose for 24 hours postoperatively |
+| --- | --- | --- | --- |
+| Less than 50 kg | 1 g | 500 mg to 1 g | 500 mg to 1 g every 6 hours to 8 hours |
+| Greater than or equal to 50 kg | 2 g |  |  |
+
+It is important that (i) the preoperative dose be given just prior (1/2 hour to 1 hour) to the start of surgery so that adequate antibacterial concentrations are present in the serum and tissues at the time of initial surgical incision; and (ii) cefazolin be administered, if necessary, at appropriate intervals during surgery to provide sufficient concentrations of the antibacterial drug at the anticipated moments of greatest exposure to infective organisms.
+
+The administration of Cefazolin in Dextrose Injection for perioperative prophylaxis should usually be discontinued within a 24-hour period after the surgical procedure.
+In surgery where the occurrence of infection may be particularly devastating the administration of Cefazolin in Dextrose Injection for perioperative prophylaxis may be continued for 3 days to 5 days following the completion of surgery.
 
 ## 2.4 Dosage Recommendations in Adult and Pediatric Patients with Renal Impairment
 
-- Dosage Recommendations in Adult Patients with CLcr less than 55 mL/min
-- The dosage recommendation for cefazolin injection in adult patients with renal impairment (CLcr less than 55 mL/min) is outlined in Table 5 below.
+Dosage Recommendations in Adult Patients with CLcr less than 55 mL/min
+
+The dosage recommendation for Cefazolin in Dextrose Injection in adult patients with renal impairment (CLcr less than 55 mL/min) is outlined in Table 5 below.
 
 Table 5: Dosage Recommendation for Adult Patients with CLcr less than 55 mL/min
 
@@ -70,9 +88,9 @@ Table 5: Dosage Recommendation for Adult Patients with CLcr less than 55 mL/min
 
 Dosage Recommendations in Pediatric Patients with CLcr less than 70 mL/min
 
-- The dosage recommendation for cefazolin injection in pediatric patients with renal impairment (CLcr less than 70 mL/min) is outlined in Table 6 below.
+The dosage recommendation for Cefazolin in Dextrose Injection in pediatric patients with renal impairment (CLcr less than 70 mL/min) is outlined in Table 6 below.
 
-Table 6: Recommended Dosage in Pediatric Patients with CLcr less than 70 mL/min
+Table 6: Recommended Dosage in Pediatric Patients with CLcr less than 70 mL/minIf a dose of Cefazolin in Dextrose Injection is required that does not equal 1 gram or 2 grams, this product is not recommended for use and an alternative formulation of cefazolin should be considered.
 
 | Creatinine Clearance | Recommended Dosage |
 | --- | --- |
@@ -80,9 +98,9 @@ Table 6: Recommended Dosage in Pediatric Patients with CLcr less than 70 mL/min
 | 20 to 40 mL/min | 25% of the normal daily dose given in equally divided doses every 12 hours |
 | 5 to 20 mL/min | 10% of the normal daily dose every 24 hours |
 
-*If a dose of cefazolin injection is required that does not equal 1 gram or 2 grams, this product is not recommended for use and an alternative formulation of cefazolin should be considered.
+1. 1.If a dose of Cefazolin in Dextrose Injection is required that does not equal 1 gram or 2 grams, this product is not recommended for use and an alternative formulation of cefazolin should be considered.
 
-## 2.5 Preparation for Use of Cefazolin Injection
+## 2.5 Preparation for Use of Cefazolin in Dextrose Injection
 
 Thawing of Plastic Container
 

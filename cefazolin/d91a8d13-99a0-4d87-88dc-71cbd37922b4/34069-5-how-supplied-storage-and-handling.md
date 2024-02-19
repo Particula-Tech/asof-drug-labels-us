@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-- Cefazolin injection is supplied as a premixed frozen iso-osmotic solution in 50 mL or 100 mL single-dose GALAXY plastic containers as follows:
+- Cefazolin in Dextrose Injection is supplied as a premixed frozen iso-osmotic solution in 50 mL or 100 mL single-dose GALAXY plastic containers as follows:
 
 | Code | Product Description | NDC Number |
 | --- | --- | --- |

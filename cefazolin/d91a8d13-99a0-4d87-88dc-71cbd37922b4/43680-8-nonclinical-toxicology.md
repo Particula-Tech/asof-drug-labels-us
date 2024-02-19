@@ -4,7 +4,7 @@
 
 Carcinogenicity and Mutagenesis
 
-Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of cefazolin injection have not been performed.
+Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of Cefazolin in Dextrose Injection have not been performed.
 
 Impairment of Fertility
 
