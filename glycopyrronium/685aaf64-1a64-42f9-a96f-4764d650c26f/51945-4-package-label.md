@@ -1,6 +1,6 @@
 PACKAGE LABEL - PRINCIPAL DISPLAY – Glycopyrrolate Injection, USP 3 mL Syringe Label
 
-3 ml Single-Dose Prefilled Syringe.
+3 mL Single-Dose Prefilled Syringe.
 For IM or IV Use.
 Rx only
 
