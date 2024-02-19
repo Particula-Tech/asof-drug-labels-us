@@ -2,7 +2,7 @@
 
 ## 7.1 Strong CYP3A4 Inducers
 
-Following administration of non-liposomal irinotecan (i.e., irinotecan HCl), exposure to irinotecan or its active metabolite, SN-38, is substantially reduced in adult and pediatric patients concomitantly receiving the CYP3A4 enzyme-inducing anticonvulsants phenytoin and strong CYP3A4 inducers.
+Following administration of non-liposomal irinotecan (i.e., irinotecan HCl) substantially, exposure to irinotecan or its active metabolite, SN-38, is substantially reduced in adult and pediatric patients concomitantly receiving the CYP3A4 enzyme-inducing anticonvulsants phenytoin and strong CYP3A4 inducers.
 Avoid the use of strong CYP3A4 inducers (e.g., rifampin, phenytoin, carbamazepine, rifabutin, rifapentine, phenobarbital, St. John's wort) if possible.
 Substitute non-enzyme inducing therapies at least 2 weeks prior to initiation of ONIVYDE therapy [see Clinical Pharmacology (12.3)].
 

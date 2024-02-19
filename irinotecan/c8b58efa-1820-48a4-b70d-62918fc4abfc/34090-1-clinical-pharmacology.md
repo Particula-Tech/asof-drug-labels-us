@@ -9,29 +9,27 @@ In mice bearing human tumor xenografts, irinotecan liposome administered at irin
 
 ## 12.3 Pharmacokinetics
 
-The plasma pharmacokinetics of total irinotecan and total SN-38 were evaluated in patients with cancer who received ONIVYDE, as a single agent or as part of combination chemotherapy, at doses between 50 and 155 mg/m2 and 353 patients with cancer using population pharmacokinetic analysis.
+The plasma pharmacokinetics of total irinotecan and total SN-38 were evaluated in patients with cancer who received ONIVYDE, as a single agent or as part of combination chemotherapy, at doses between 35 mg/m2 and 155 mg/m2 and concentration proportional to dose was observed.
 
-The pharmacokinetic parameters of total irinotecan and total SN-38 following the administration of ONIVYDE 70 mg/m2 as a single agent or part of combination chemotherapy are presented in Table 4.
+The pharmacokinetic parameters of total irinotecan and total SN-38 following the administration of ONIVYDE 70 mg/m2 as a single agent or part of combination chemotherapy are presented in Table 7.
 
-Table 4: Summary of Mean (±Standard Deviation) Total Irinotecan and Total SN-38
+Table 7 Summary of Geometric Mean (CV) Total Irinotecan and Total SN-38
 
-| Cmax [µg/mL] (n=25) | AUC0-∞ [h∙µg/mL] (n=23) | t1/2 [h] (n=23) | CL [L/h] (n=23) | Vd [L] (n=23) | Cmax [ng/mL] (n=25) | AUC0-∞ [h∙ng/mL] (n=13) | t1/2 [h] (n=13) |  |
+|  | Cmax [µg/mL] | AUCSS [day∙µg/mL] | t1/2 [day] | V [L] | Cmax [ng/mL] | AUCSS [day∙ng/mL] | V [L] |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Dose (mg/m2) | Total Irinotecan |  |  |  |  | Total SN-38 |  |  |
-| 70 | 37.2 (8.8) | 1364 (1048) | 25.8 (15.7) | 0.20 (0.17) | 4.1 (1.5) | 5.4 (3.4) | 620 (329) | 67.8 (44.5) |
-| Cmax: Maximum plasma concentration |  |  |  |  |  |  |  |  |
-| AUC0-∞: Area under the plasma concentration curve extrapolated to time infinity |  |  |  |  |  |  |  |  |
-| t½: Terminal elimination half-life |  |  |  |  |  |  |  |  |
-| CL: Clearance |  |  |  |  |  |  |  |  |
-| Vd: Volume of distribution |  |  |  |  |  |  |  |  |
-
-Over the dose range of 50 to 155 mg/m2, the Cmax and AUC of total irinotecan increases with dose.
-Additionally, the Cmax of total SN-38 increases proportionally with dose; however, the AUC of total SN-38 increases less than proportionally with dose.
+| Dose (mg/m2) | Descriptive Statistics | Total Irinotecan |  |  |  | Total SN-38 |  |  |
+| 50 | Geometric Mean | 25.1 | 37.8 | 1.93 | 3.63 | 2.09 | 12.1 | 3.46 |
+| CV (%) | 18.5 | 73.6 | 14 | 33.5 | 42.1 | 46.6 | 35.5 |  |
+| 70 | Geometric Mean | 30.8 | 50.4 | 1.87 | 4.23 | 2.64 | 14.7 | 4.06 |
+| CV (%) | 19.7 | 75.3 | 26.4 | 28.1 | 64.5 | 58 | 29.4 |  |
+| AUCSS: Area under the plasma concentration curve at steady-state |  |  |  |  |  |  |  |  |
+| t1/2: Terminal elimination half-life |  |  |  |  |  |  |  |  |
+| V: Volume of distribution |  |  |  |  |  |  |  |  |
 
 Distribution
 
-Direct measurement of irinotecan liposome showed that 95% of irinotecan remains liposome-encapsulated, and the ratios between total and encapsulated forms did not change with time from 0 to 169.5 hours post-dose.
-The mean volume of distribution is summarized in Table 4.
+Direct measurement of irinotecan liposome showed that 95% of irinotecan remains liposome -encapsulated, and the ratios between total and encapsulated forms did not change with time from 0 to 170 hours post-dose.
+The mean volume of distribution is summarized in Table 7.
 
 Plasma protein binding is <0.44% of the total irinotecan in ONIVYDE.
 
@@ -40,9 +38,9 @@ Elimination
 Metabolism
 
 The metabolism of irinotecan liposome has not been evaluated.
-Irinotecan is subject to extensive metabolic conversion by various enzyme systems, including esterases to form the active metabolite SN-38, and UGT1A1 mediating glucuronidation of SN-38 to form the inactive glucuronide metabolite SN-38G.
+Irinotecan is subject to extensive metabolic conversion by various enzyme systems, including carboxylesterases to form the active metabolite SN-38, and UGT1A1 mediating glucuronidation of SN-38 to form the inactive glucuronide metabolite SN-38G.
 Irinotecan can also undergo CYP3A4-mediated oxidative metabolism to several inactive oxidation products, one of which can be hydrolyzed by carboxylesterase to release SN-38.
-In the population pharmacokinetic analysis using the results of a subset with UGT1A1*28 genotypic testing, in which the analysis adjusted for the lower dose administered to patients homozygous for the UGT1A1*28 allele, patients homozygous (N=14) and non-homozygous (N=244) for this allele had total SN-38 average steady-state concentrations of 1.06 and 0.95 ng/mL, respectively.
+In the population PK analysis of irinotecan liposome, UGT1A1*28 7/7 homozygous status (10.6%) had no effect on SN-38 clearance compared with patients not homozygous for UGT1A1*28 7/7.
 
 Excretion
 
@@ -52,32 +50,33 @@ The cumulative biliary and urinary excretion of irinotecan and its metabolites (
 
 Specific Populations
 
-Age, Gender, and Renal Impairment:
+Age, Sex, Ethnicity, Renal and Hepatic Impairment:
 
-The population pharmacokinetic analysis suggests that age (28 to 87 years) had no clinically meaningful effect on the exposure of irinotecan and SN-38.
+The population pharmacokinetic analyses suggest that age (20 to 87 years) and BSA (1.15 to 2.88 m2) had no clinically meaningful effect on the exposure of irinotecan and SN-38.
 
-The population pharmacokinetic analysis suggests that gender (196 males and 157 females) had no clinically meaningful effect on the exposure of irinotecan and SN-38 after adjusting for body surface area (BSA).
-
-In a population pharmacokinetic analysis, mild-to-moderate renal impairment had no effect on the exposure of total SN-38 after adjusting for BSA.
-The analysis included 68 patients with moderate (CLcr 30 - 59 mL/min) renal impairment, 147 patients with mild (CLcr 60 - 89 mL/min) renal impairment, and 135 patients with normal renal function (CLcr > 90 mL/min).
-There was insufficient data in patients with severe renal impairment (CLcr < 30 mL/min) to assess its effect on pharmacokinetics.
-
-Ethnicity: The population pharmacokinetic analysis suggests that Asians (East Asians, N=150) have 56% lower total irinotecan average steady state concentration and 8% higher total SN-38 average steady state concentration than Whites (N=182).
-
-Hepatic Impairment: The pharmacokinetics of irinotecan liposome have not been studied in patients with hepatic impairment.
-In a population pharmacokinetic analysis, patients with baseline bilirubin concentrations of 1-2 mg/dL (N=19) had average steady state concentrations for total SN-38 that were increased by 37% compared to patients with baseline bilirubin concentrations of <1 mg/dL (N=329); however, there was no effect of elevated ALT/AST concentrations on total SN-38 concentrations.
-No data are available in patients with bilirubin >2 mg/dL.
+Irinotecan and SN-38 AUC in female patients were 28% and 32% higher, respectively, than those in male patients.
+Irinotecan AUC in patients of Asian ethnicity were 32% lower than that in non-Asian patients.
+The exposures of irinotecan and SN-38 in patients with mild or moderate renal impairment were comparable to patients with normal renal function after adjusting for BSA.
+The exposures of irinotecan and SN-38 in patients with mild hepatic impairment (based on NCI score) were comparable to patients with normal hepatic function.
+There was insufficient data in patients with severe renal impairment (CLcr < 30 mL/min) or in patients with moderate and severe hepatic impairment to assess their effects on the exposures of irinotecan and SN-38.
+Increased AST/ALT had no effect on irinotecan clearance; however, increased bilirubin level was associated with lower SN‑38 clearance.
+SN-38 AUC was increased by 32% in patients with bilirubin level of 1.14 mg/dL (95th of the overall population) compared with that of median bilirubin level of 0.44 mg/dL.
+No data are available in patients with bilirubin >2.8 mg/dL.
 
 Drug Interactions
 
 In a population pharmacokinetic analysis, the pharmacokinetics of total irinotecan and total SN-38 were not altered by the co-administration of fluorouracil/leucovorin.
+In Study MM‑398‑07‑02‑03 and NAPOLI-3, irinotecan AUC was decreased by 33% and SN-38 Cmax increased by 23% following co-administration with oxaliplatin.
 
-Following administration of irinotecan HCl, dexamethasone, a moderate CYP3A4 inducer, does not alter the pharmacokinetics of irinotecan.
+Following administration of irinotecan HCl, dexamethasone (moderate CYP3A4 inducer) does not alter the pharmacokinetics of irinotecan.
 
 In vitro studies indicate that irinotecan, SN-38 and another metabolite, aminopentane carboxylic acid (APC), do not inhibit cytochrome P-450 isozymes.
 
 ## 12.5 Pharmacogenomics
 
 Individuals who are homozygous for the UGT1A1*28 allele are at increased risk for neutropenia from irinotecan HCl.
-In Study 1, patients homozygous for the UGT1A1*28 allele (N=7) initiated ONIVYDE at a reduced dose of 50 mg/m2 in combination with 5-FU/LV.
+In NAPOLI-1, patients homozygous for the UGT1A1*28 allele (N=7) initiated ONIVYDE at a reduced dose of 50 mg/m2 in combination with FU/LV.
 The frequency of Grade 3 or 4 neutropenia in these patients [2 of 7 (28.6%)] was similar to the frequency in patients not homozygous for the UGT1A1*28 allele who received a starting dose of ONIVYDE of 70 mg/m2 [30 of 110 (27.3%)].
+In NAPOLI-3, patients homozygous for the UGT1A1*28 allele (N = 39) initiated ONIVYDE at the same starting dose of 50 mg/m2 as patients not homozygous for the UGT1A1*28 allele (N = 328).
+The frequency of Grade 3 or 4 neutropenia was 23% in patients homozygous for the UGT1A1*28 allele and 13% in patients not homozygous for the UGT1A1*28 allele.
+The frequency of dose reduction of ONIVYDE due to treatment-emergent adverse effects was 59% versus 51% in patients homozygous versus non-homozygous for the UGT1A1*28 allele.

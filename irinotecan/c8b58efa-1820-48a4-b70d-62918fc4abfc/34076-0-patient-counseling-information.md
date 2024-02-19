@@ -9,7 +9,8 @@ Instruct patients to contact their healthcare provider immediately if experienci
 
 Severe Diarrhea
 
-Inform patients of the risk of severe diarrhea.
+Inform patients of the risk of severe and life-threatening diarrhea.
+Advise patients to stop lactose-containing products, maintain hydration, and eat frequent small meals with a low-fat diet.
 Advise patients to contact their healthcare provider if they experience persistent vomiting or diarrhea; black or bloody stools; or symptoms of dehydration such as lightheadedness, dizziness, or faintness [see Warnings and Precautions (5.2)].
 
 Interstitial Lung Disease
@@ -31,3 +32,5 @@ Contraception: Advise male patients with female partners of reproductive potenti
 Lactation
 
 Advise women not to breastfeed during treatment with ONIVYDE and for one month after the last dose [see Use in Special Populations (8.2)].
+
+Manufactured for: Ipsen Biopharmaceuticals, Inc. Cambridge, MA 02142 ONIVYDE is a registered trademark of Ipsen Biopharm Ltd.

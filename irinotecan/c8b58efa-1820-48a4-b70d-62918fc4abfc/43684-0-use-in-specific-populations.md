@@ -55,5 +55,5 @@ Safety and effectiveness of ONIVYDE have not been established in pediatric patie
 
 ## 8.5 Geriatric Use
 
-Of the 264 patients who received ONIVYDE as a single agent or in combination with 5-FU and leucovorin in Study 1, 49% were ≥ 65 years old and 13% were ≥ 75 years old.
+Of the 634 patients who received ONIVYDE as a single agent, in combination with FU and leucovorin or in combination with oxaliplatin, FU and leucovorin in NAPOLI-1 and NAPOLI 3, 49% were ≥ 65 years old and 10% were ≥ 75 years old.
 No overall differences in safety and effectiveness were observed between these patients and younger patients.
