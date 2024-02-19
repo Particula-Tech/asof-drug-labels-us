@@ -36,16 +36,21 @@ Table 1: Adverse Reactions in Study 1 and 2 reported for dimethyl fumarate delay
 | Erythema | 5 | 1 |
 | Dyspepsia | 5 | 3 |
 | Aspartate aminotransferase increased | 4 | 2 |
-| Lymphopenia | 2 | less than 1 |
+| Lymphopenia | 2 | Less than 1 |
 
-Gastrointestinal Dimethyl fumarate delayed-release capsules caused GI events (e.g., nausea, vomiting, diarrhea, abdominal pain, and dyspepsia).
+Gastrointestinal
+
+Dimethyl fumarate delayed-release capsules caused GI events (e.g., nausea, vomiting, diarrhea, abdominal pain, and dyspepsia).
 The incidence of GI events was higher early in the course of treatment (primarily in month 1) and usually decreased over time in patients treated with dimethyl fumarate delayed-release capsules compared with placebo.
 Four percent (4%) of patients treated with dimethyl fumarate delayed-release capsules and less than 1% of placebo patients discontinued due to gastrointestinal events.
 The incidence of serious GI events was 1% in patients treated with dimethyl fumarate delayed-release capsules.
+
 Hepatic Transaminases An increased incidence of elevations of hepatic transaminases in patients treated with dimethyl fumarate delayed-release capsules was seen primarily during the first six months of treatment, and most patients with elevations had levels less than 3 times the upper limit of normal (ULN) during controlled trials.
+
 Elevations of alanine aminotransferase and aspartate aminotransferase to ≥ 3 times the ULN occurred in a small number of patients treated with both dimethyl fumarate delayed-release capsules and placebo and were balanced between groups.
 There were no elevations in transaminases ≥ 3 times the ULN with concomitant elevations in total bilirubin greater than 2 times the ULN.
 Discontinuations due to elevated hepatic transaminases were less than 1% and were similar in patients treated with dimethyl fumarate delayed-release capsules or placebo.
+
 Eosinophilia A transient increase in mean eosinophil counts was seen during the first 2 months of therapy.
 
 ## 6.2 Post Marketing Experience
@@ -53,6 +58,6 @@ Eosinophilia A transient increase in mean eosinophil counts was seen during the 
 The following adverse reaction has been identified during post-approval use of dimethyl fumarate delayed-release capsules.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal Disorders: Acute pancreatitis
+Gastrointestinal Disorders: Acute Pancreatitis
 
 Hepatobiliary Disorders: Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin greater than 2 times ULN) [see Warnings and Precautions (5.5)] Infections and Infestations: Herpes zoster infection and other serious opportunistic infections [see Warnings and Precautions (5.3)] Respiratory, Thoracic, and Mediastinal Disorders: Rhinorrhea Skin and Subcutaneous: Alopecia

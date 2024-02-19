@@ -17,8 +17,10 @@ The patient was also not taking any immunosuppressive or immunomodulatory medica
 
 PML has also occurred in the postmarketing setting in the presence of lymphopenia (less than 0.9x109/L).
 While the role of lymphopenia in these cases is uncertain, the PML cases have occurred predominantly in patients with lymphocyte counts less than 0.8x109/L persisting for more than 6 months.
+
 At the first sign or symptom suggestive of PML, withhold dimethyl fumarate delayed-release capsules and perform an appropriate diagnostic evaluation.
 Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
+
 MRI findings may be apparent before clinical signs or symptoms.
 Cases of PML, diagnosed based on MRI findings and the detection of JCV DNA in the cerebrospinal fluid in the absence of clinical signs or symptoms specific to PML, have been reported in patients treated with other MS medications associated with PML.
 Many of these patients subsequently became symptomatic with PML.
@@ -48,8 +50,18 @@ Four weeks after stopping dimethyl fumarate delayed-release capsules, mean lymph
 Six percent (6%) of dimethyl fumarate delayed-release capsules patients and less than 1% of placebo patients experienced lymphocyte counts less than 0.5x109/L (lower limit of normal 0.91x109/L).
 The incidence of infections (60% vs 58%) and serious infections (2% vs 2%) was similar in patients treated with dimethyl fumarate delayed-release capsules or placebo, respectively.
 There was no increased incidence of serious infections observed in patients with lymphocyte counts less than 0.8x109/L or ≤0.5x109/L in controlled trials, although one patient in an extension study developed PML in the setting of prolonged lymphopenia (lymphocyte counts predominantly less than 0.5x109/L for 3.5 years) [see Warnings and Precautions (5.2)].
-In controlled and uncontrolled clinical trials, 2% of patients experienced lymphocyte counts less than 0.5x109/L for at least six months, and in this group the majority of lymphocyte counts remained less than 0.5x109/L with continued therapy.
+
+In controlled and uncontrolled clinical trials, 2% of patients experienced prolonged, severe lymphopenia, (defined as lymphocyte counts less than 0.5 x 109/L for at least six months);in this group of patients, the majority of lymphocyte counts remained less than 0.5x109/L with continued therapy.
+In these patients with prolonged, severe lymphopenia, the median time for lymphocyte counts to return to normal after discontinuing dimethyl fumarate delayed-release capsules was 96.0 weeks.
+
+In these controlled and uncontrolled clinical studies, among patients who did not experience prolonged, severe lymphopenia during treatment, the median times for lymphocyte counts to return to normal after discontinuing dimethyl fumarate delayed-release capsules were as follows:
+
+- 4.3 weeks in patients with mild lymphopenia (lymphocyte count ≥0.8x109/L) at discontinuation,
+- 10.0 weeks in patients with moderate lymphopenia (lymphocyte count 0.5 to <0.8x109/L) at discontinuation, and
+- 16.7 weeks in patients with severe lymphopenia (lymphocyte count <0.5x109/L) at discontinuation.
+
 Dimethyl fumarate delayed-release capsules has not been studied in patients with pre-existing low lymphocyte counts.
+
 Obtain a CBC, including lymphocyte count, before initiating treatment with dimethyl fumarate delayed-release capsules, 6 months after starting treatment, and then every 6 to 12 months thereafter, and as clinically indicated.
 Consider interruption of dimethyl fumarate delayed-release capsules in patients with lymphocyte counts less than 0.5 x 109/L persisting for more than six months.
 Given the potential for delayed recovery of lymphocyte counts, continue to obtain lymphocyte counts until their recovery if dimethyl fumarate delayed-release capsules is discontinued or interrupted due to lymphopenia.

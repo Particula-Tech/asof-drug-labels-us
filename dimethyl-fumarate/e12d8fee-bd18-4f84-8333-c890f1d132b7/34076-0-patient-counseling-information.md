@@ -35,6 +35,6 @@ Pregnancy
 Instruct patients that if they are pregnant or plan to become pregnant while taking dimethyl fumarate delayed-release capsules they should inform their physician.
 
 Manufactured by: Alkem Laboratories Ltd., INDIA.
-Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054 Revised: October, 2022
+Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054
 
-PT2832-03
+Revised: May, 2023

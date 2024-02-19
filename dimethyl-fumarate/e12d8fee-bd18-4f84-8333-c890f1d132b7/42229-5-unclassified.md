@@ -76,8 +76,9 @@ Active ingredient: dimethyl fumarate Inactive ingredients: colloidal silicon dio
 Capsule Shell: gelatin, titanium dioxide, FD&C blue 2 and iron oxide yellow.
 The imprinting ink contains following ingredients: shellac, propylene glycol, strong ammonia solution, black iron oxide, potassium hydroxide, purified water.
 Manufactured by: Alkem Laboratories Ltd., INDIA.
-Distributed by: Ascend Laboratories, LLC, Parsippany, NJ 07054 For more information, call 1-877-ASC-RX01 (877272-7901).
+Distributed by: Ascend Laboratories, LLC, Parsippany, NJ 07054 For more information, call 1-877-272-7901.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: October, 2022
 
-PT2833-03
+Revised: May, 2023
+
+PT2832-04/PT2833-04

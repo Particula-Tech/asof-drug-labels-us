@@ -1,21 +1,27 @@
 # 14 CLINICAL STUDIES
 
-The efficacy and safety of dimethyl fumarate delayed- release capsules were demonstrated in two studies (Studies 1 and 2) that evaluated dimethyl fumarate delayed- release capsules taken either twice or three times a day in patients with relapsing-remitting multiple sclerosis (RRMS).
+The efficacy and safety of dimethyl fumarate delayed-release capsules were demonstrated in two studies (Studies 1 and 2) that evaluated dimethyl fumarate delayed-release capsules taken either twice or three times a day in patients with relapsing-remitting multiple sclerosis (RRMS).
 The starting dose for dimethyl fumarate delayed-release capsules was 120 mg twice or three times a day for the first 7 days, followed by an increase to 240 mg twice or three times a day.
 Both studies included patients who had experienced at least 1 relapse over the year preceding the trial or had a brain Magnetic Resonance Imaging (MRI) scan demonstrating at least one gadolinium-enhancing (Gd+) lesion within 6 weeks of randomization.
 The Expanded Disability Status Scale (EDSS) was also assessed and patients could have scores ranging from 0 to 5.
 Neurological evaluations were performed at baseline, every 3 months, and at the time of suspected relapse.
 MRI evaluations were performed at baseline, month 6, and year 1 and 2 in a subset of patients (44% in Study 1 and 48% in Study 2).
-Study 1: Placebo-Controlled Trial in RRMS Study 1 was a 2-year randomized, double-blind, placebo-controlled study in 1234 patients with RRMS.
+
+Study 1: Placebo-Controlled Trial in RRMS
+
+Study 1 was a 2-year randomized, double-blind, placebo-controlled study in 1,234 patients with RRMS.
 The primary endpoint was the proportion of patients relapsed at 2 years.
 Additional endpoints at 2 years included the number of new or newly enlarging T2 hyperintense lesions, number of new T1 hypointense lesions, number of Gd+ lesions, annualized relapse rate (ARR), and time to confirmed disability progression.
 Confirmed disability progression was defined as at least a 1 point increase from baseline EDSS (1.5 point increase for patients with baseline EDSS of 0) sustained for 12 weeks.
-Patients were randomized to receive dimethyl fumarate delayed- release capsules 240 mg twice a day (n=410), dimethyl fumarate delayed- release capsules 240 mg three times a day (n=416), or placebo (n=408) for up to 2 years.
+
+Patients were randomized to receive dimethyl fumarate delayed-release capsules 240 mg twice a day (n=410), dimethyl fumarate delayed-release capsules 240 mg three times a day (n=416), or placebo (n=408) for up to 2 years.
 The median age was 39 years, median time since diagnosis was 4 years, and median EDSS score at baseline was 2.
 The median time on study drug for all treatment arms was 96 weeks.
-The percentages of patients who completed 96 weeks on study drug per treatment group were 69% for patients assigned to dimethyl fumarate delayed- release capsules 240 mg twice a day, 69% for patients assigned to dimethyl fumarate delayed- release capsules 240 mg three times a day and 65% for patients assigned to placebo groups.
-Dimethyl fumarate delayed- release capsules had a statistically significant effect on all of the endpoints described above and the 240 mg three times daily dose showed no additional benefit over the dimethyl fumarate delayed-release capsules 240 mg twice daily dose.
+The percentages of patients who completed 96 weeks on study drug per treatment group were 69% for patients assigned to dimethyl fumarate delayed-release capsules 240 mg twice a day, 69% for patients assigned to dimethyl fumarate delayed-release capsules 240 mg three times a day and 65% for patients assigned to placebo groups.
+
+Dimethyl fumarate delayed-release capsules had a statistically significant effect on all of the endpoints described above and the 240 mg three times daily dose showed no additional benefit over the dimethyl fumarate delayed-release capsules 240 mg twice daily dose.
 The results for this study (240 mg twice a day vs. placebo) are shown in Table 2 and Figure 1.
+
 Table 2: Clinical and MRI Results of Study 1
 
 |  | Dimethyl fumarate delayed-release capsules 240 mg BID | Placebo | P-value |
