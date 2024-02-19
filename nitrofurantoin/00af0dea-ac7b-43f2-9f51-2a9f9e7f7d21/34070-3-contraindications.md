@@ -1,10 +1,3 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Anuria, oliguria, or significant impairment of renal function (creatinine clearance under 60 mL per minute or clinically significant elevated serum creatinine) are contraindications.
-Treatment of this type of patient carries an increased risk of toxicity because of impaired excretion of the drug.
-
-Because of the possibility of hemolytic anemia due to immature erythrocyte enzyme systems (glutathione instability), the drug is contraindicated in pregnant patients at term (38-42 weeks gestation), during labor and delivery, or when the onset of labor is imminent.
-For the same reason, the drug is contraindicated in neonates under one month of age.
-
-Furadantin is contraindicated in patients with a previous history of cholestatic jaundice/hepatic dysfunction associated with nitrofurantoin.
-Furadantin is also contraindicated in those patients with known hypersensitivity to nitrofurantoin.
+FURADANTIN is contraindicated in: • patients with known hypersensitivity to nitrofurantoin [see Warnings and Precautions (5.1)]. • patients with a previous history of cholestatic jaundice/hepatic dysfunction associated with nitrofurantoin [see Warnings and Precautions (5.3)]. • patients who have anuria, oliguria, or significant impairment of renal function (creatinine clearance under 60 mL per minute or clinically significant elevated serum creatinine) due to an increased risk of toxicity resulting from impaired excretion of the drug [see Warnings and Precautions (5.4)]. • pregnant patients at term (38 weeks to 42 weeks gestation), during labor and delivery, or when the onset of labor is imminent and in pediatric patients younger than 1 month of age because of the possibility of hemolytic anemia due to immature erythrocyte enzyme systems (glutathione instability) [see Warnings and Precautions (5.5) and Use in Specific Populations (8.1 and 8.4)].
