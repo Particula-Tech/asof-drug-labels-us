@@ -7,6 +7,5 @@ Hypersensitivity Reactions Inform patients that tranexamic acid may cause hypers
 Visual Disturbances Inform patients that tranexamic acid can cause visual disturbance and that they should report any eye symptoms or change in their vision to their healthcare provider and to follow-up with an ophthalmologist for a complete ophthalmologic evaluation, including dilated retinal examination of the retina [see Warnings and Precautions (5.5)].
 Risk of Driving and Operating Machinery Inform patients that tranexamic acid may cause dizziness, and that the patient should be cautioned about driving, operating machinery, or performing hazardous tasks while taking tranexamic acid [see Warnings and Precautions (5.6)].
 This product's labeling may have been updated.
-For the most recent prescribing information, please visit www.auromedics.com.
-Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
+For the most recent prescribing information, please visit eugiaus.com Distributed by: Eugia US LLC 279 Princeton-Hightstown Rd.
 E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad - 500032 India
