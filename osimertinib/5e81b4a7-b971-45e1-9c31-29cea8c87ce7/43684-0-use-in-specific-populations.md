@@ -30,7 +30,7 @@ Because of the potential for serious adverse reactions in breastfed infants from
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Based on animal data, TAGRISSO can cause malformations, embryo lethality, and postnatal death at doses resulting in exposures 1.5 times or less the human exposure at the clinical dose of 80 mg daily[see Use in Specific Populations (8.1)].
+Based on animal data, TAGRISSO can cause malformations, embryo lethality, and postnatal death at doses resulting in exposures 1.5 times or less the human exposure at the clinical dose of 80 mg daily [see Use in Specific Populations (8.1)].
 
 Pregnancy Testing
 
@@ -58,9 +58,17 @@ The safety and effectiveness of TAGRISSO in pediatric patients have not been est
 
 ## 8.5 Geriatric Use
 
-Forty-three percent (43%) of the 1479 patients in ADAURA (n=337), FLAURA (n=279), AURA3 (n=279), AURA Extension (n=201), AURA2 (n=210), and AURA1, (n=173) were 65 years of age and older.
-No overall differences in effectiveness were observed based on age.
-Exploratory analysis suggests a higher incidence of Grade 3 and 4 adverse reactions (35% vs 27%) and more frequent dose modifications for adverse reactions (32% vs 21%) in patients 65 years or older as compared to those younger than 65 years.
+Monotherapy
+
+Of the 1813 patients with EGFR exon 19 deletion or exon 21 L858R mutation-positive NSCLC who were treated with TAGRISSO monotherapy, 770 patients were ≥65 years and 207 patients were ≥75 years of age [see Adverse Reactions (6.1)].
+Exploratory analysis suggests a higher incidence of Grade 3 or higher adverse reactions (43% vs 33%) and more frequent dosage modifications for adverse reactions (34% vs 23%) in patients 65 years or older as compared to those younger than 65 years.
+No overall differences in safety or effectiveness were observed between patients 65 years or older and younger patients.
+
+TAGRISSO in Combination with Pemetrexed and Platinum-based Chemotherapy
+
+Of the 276 patients with EGFR exon 19 deletion or exon 21 L858R mutation-positive, locally advanced or metastatic NSCLC treated with TAGRISSO in combination with pemetrexed and platinum-based chemotherapy, 104 patients were ≥65 years and 23 patients were ≥75 years of age [see Adverse Reactions (6.1)].
+Exploratory analysis suggests a higher incidence of Grade 3 or higher adverse reactions (68% vs 61%) and more frequent dosage modifications for adverse reactions (55% vs 43%) in patients 65 years or older as compared to those younger than 65 years.
+Clinical studies of TAGRISSO in combination with pemetrexed and platinum-based chemotherapy did not include sufficient numbers of patients age 65 and over to determine whether they respond differently from younger patients.
 
 ## 8.6 Renal Impairment
 

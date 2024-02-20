@@ -14,15 +14,16 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data in the Warnings and Precautions section reflect exposure to TAGRISSO in 1479 patients with EGFR mutation-positive NSCLC who received TAGRISSO at the recommended dose of 80 mg once daily in three randomized, controlled trials [ADAURA (n=337), FLAURA (n=279), and AURA3 (n=279)], two single arm trials [AURA Extension (n=201) and AURA2 (n=210)], and one dose-finding study, AURA1 (n=173) [see Warnings and Precautions (5)].
-Among 1479 patients who received TAGRISSO, 81% were exposed for 6 months or longer and 60% were exposed for greater than one year.
-In this pooled safety population, the most common adverse reactions in ≥20% of 1479 patients who received TAGRISSO were diarrhea (47%), rash (45%), musculoskeletal pain (36%), nail toxicity (33%), dry skin (32%), stomatitis (26%), fatigue (21%), and cough (20%).
-The most common laboratory abnormalities in ≥20% of 1479 patients who received TAGRISSO were leukopenia (65%), lymphopenia (62%), thrombocytopenia (53%), anemia (47%), and neutropenia (33%).
+The data in the WARNINGS AND PRECAUTIONS section reflect exposure to TAGRISSO in 1813 patients with EGFR mutation-positive NSCLC who received TAGRISSO monotherapy at the recommended dose of 80 mg once daily in four randomized, controlled trials [ADAURA (n=337), FLAURA (n=338), FLAURA2 (monotherapy arm; n=275), and AURA3 (n=279)], two single arm trials [AURA Extension (n=201) and AURA2 (n=210)], and one dose-finding study, AURA1 (n=173) [see WARNINGS AND PRECAUTIONS (5)].
+Among 1813 patients who received TAGRISSO monotherapy, 82% were exposed for 6 months or longer and 67% were exposed for greater than one year.
+In this pooled safety population, the most common adverse reactions in ≥20% of 1813 patients who received TAGRISSO monotherapy were diarrhea (47%), rash (46%), musculoskeletal pain (38%), nail toxicity (34%), dry skin (32%), stomatitis (24%), and fatigue (21%).
+The most common laboratory abnormalities in ≥20% of 1813 patients who received TAGRISSO monotherapy were leukopenia (65%), lymphopenia (64%), thrombocytopenia (53%), anemia (52%), and neutropenia (36%).
 
-The data described below reflect exposure to TAGRISSO (80 mg daily) in 337 patients with EGFR mutation-positive resectable NSCLC, and 558 patients with EGFR mutation-positive metastatic NSCLC in three randomized, controlled trials [ADAURA (n=337), FLAURA (n=279), and AURA3 (n=279)].
+The data described below reflect exposure to TAGRISSO (80 mg daily) in 337 patients with EGFR mutation-positive resectable NSCLC, and 833 patients with EGFR mutation-positive locally advanced or metastatic NSCLC in four randomized, controlled trials [ADAURA (n=337), FLAURA (n=279), FLAURA2 (monotherapy arm; n=275), and AURA3 (n=279)].
+The data also reflect exposure to TAGRISSO at the recommended dose of 80 mg daily given in combination with pemetrexed and platinum-based chemotherapy in 276 patients with EGFR mutation-positive locally advanced or metastatic NSCLC in one randomized controlled trial [FLAURA2 (n=276)].
 Patients with a history of interstitial lung disease, drug induced interstitial disease or radiation pneumonitis that required steroid treatment, serious arrhythmia or baseline QTc interval greater than 470 msec on electrocardiogram were excluded from enrollment in these studies.
 
-Adjuvant Treatment of EGFR Mutation-Positive NSCLC
+Adjuvant Treatment of EGFR Mutation-Positive NSCLC - Monotherapy
 
 The safety of TAGRISSO was evaluated in ADAURA, a randomized, double-blind, placebo-controlled trial for the adjuvant treatment of patients with EGFR exon 19 deletions or exon 21 L858R mutation-positive NSCLC who had complete tumor resection, with or without prior adjuvant chemotherapy.
 At time of DFS analysis, the median duration of exposure to TAGRISSO was 22.5 months.
@@ -34,9 +35,9 @@ The most frequent adverse reactions leading to dose reductions or interruptions 
 Adverse reactions leading to permanent discontinuation occurred in 11% of patients treated with TAGRISSO.
 The most frequent adverse reactions leading to discontinuation of TAGRISSO were interstitial lung disease (2.7%), and rash (1.2%).
 
-Tables 2 and 3 summarize common adverse reactions and laboratory abnormalities which occurred in ADAURA.
+Tables 3 and 4 summarize common adverse reactions and laboratory abnormalities which occurred in ADAURA.
 
-Table 2.
+Table 3.
 Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in ADAURANCI CTCAE v4.0.
 
 | All Grades (%) | Grade 3 or higherAll events were grade 3. (%) | All Grades (%) | Grade 3 or higher (%) |  |
@@ -52,7 +53,7 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in ADAURANC
 | Dry skinIncludes dry skin, skin fissures, xerosis, eczema, xeroderma. | 29 | 0.3 | 7 | 0 |
 | PruritusIncludes pruritus, pruritus generalized, eyelid pruritus. | 19 | 0 | 9 | 0 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
-| CoughIncludes cough, productive cough, upper-airway cough syndrome | 19 | 0 | 19 | 0 |
+| CoughIncludes cough, productive cough, upper-airway cough syndrome. | 19 | 0 | 19 | 0 |
 | Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
 | Musculoskeletal PainIncludes arthralgia, arthritis, back pain, bone pain, musculoskeletal chest pain, musculoskeletal pain, myalgia, neck pain, non-cardiac chest pain, pain in extremity, and spinal pain. | 18 | 0.3 | 25 | 0.3 |
 | Infection and Infestation Disorders |  |  |  |  |
@@ -60,21 +61,21 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in ADAURANC
 | Upper respiratory tract infection | 13 | 0.6 | 10 | 0 |
 | Urinary Tract InfectionIncludes cystitis, urinary tract infection, and urinary tract infection bacterial. | 10 | 0.3 | 7 | 0 |
 | General Disorders and Administration Site Conditions |  |  |  |  |
-| FatigueIncludes asthenia, fatigue | 13 | 0.6 | 9 | 0.3 |
+| FatigueIncludes asthenia, fatigue. | 13 | 0.6 | 9 | 0.3 |
 | Nervous System Disorders |  |  |  |  |
 | DizzinessIncludes dizziness, vertigo, and vertigo positional. | 10 | 0 | 9 | 0 |
 | Metabolism and Nutrition Disorders |  |  |  |  |
 | Decreased appetite | 13 | 0.6 | 3.8 | 0 |
 
 Clinically relevant adverse reactions in ADAURA in <10% of patients receiving TAGRISSO were alopecia (6%), epistaxis (6%), interstitial lung disease (3%), palmar-plantar erythrodysesthesia syndrome (1.8%), urticaria (1.5%), keratitis (0.6%), QTc interval prolongation (0.6%), and erythema multiforme (0.3%).
-QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500msec.
+QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500 msec.
 
-Table 3.
+Table 4.
 Laboratory Abnormalities Worsening from Baseline in ≥20% of Patients in ADAURA
 
 | All Grades (%) | Grade 3 or Grade 4 (%) | All Grades (%) | Grade 3 or Grade 4 (%) |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Laboratory AbnormalityNCI CTCAE v4.0Based on the number of patients with available follow-up laboratory data | TAGRISSO (N=337) |  | PLACEBO (N=343) |  |  |
+| Laboratory AbnormalityNCI CTCAE v4.0Based on the number of patients with available follow-up laboratory data. | TAGRISSO (N=337) |  | PLACEBO (N=343) |  |  |
 | Hematology |  |  |  |  |  |
 | Leukopenia | 54 | 0 | 25 |  | 0 |
 | Thrombocytopenia | 47 | 0 | 7 |  | 0.3 |
@@ -88,9 +89,9 @@ Laboratory Abnormalities Worsening from Baseline in ≥20% of Patients in ADAURA
 
 Laboratory abnormalities in ADAURA that occurred in <20% of patients receiving TAGRISSO was increased blood creatinine (10%).
 
-Previously Untreated EGFR Mutation-Positive Metastatic Non-Small Cell Lung Cancer
+Previously Untreated EGFR Mutation-Positive Metastatic Non-Small Cell Lung Cancer - Monotherapy
 
-The safety of TAGRISSO was evaluated in FLAURA, a multicenter international double-blind randomized (1:1) active controlled trial conducted in 556 patients with EGFR exon 19 deletion or exon 21 L858R mutation-positive, unresectable or metastatic NSCLC who had not received previous systemic treatment for advanced disease.
+The safety of TAGRISSO was evaluated in FLAURA, a multicenter international double-blind randomized (1:1) active‑controlled trial conducted in 556 patients with EGFR exon 19 deletion or exon 21 L858R mutation-positive, unresectable or metastatic NSCLC who had not received previous systemic treatment for advanced disease.
 The median duration of exposure to TAGRISSO was 16.2 months.
 
 Serious adverse reactions were reported in 4% of patients treated with TAGRISSO; the most common serious adverse reactions (≥1%) were pneumonia (2.9%), ILD/pneumonitis (2.1%), and pulmonary embolism (1.8%).
@@ -99,9 +100,9 @@ The most frequent adverse reactions leading to dose reductions or interruptions 
 Adverse reactions leading to permanent discontinuation occurred in 13% of patients treated with TAGRISSO.
 The most frequent adverse reaction leading to discontinuation of TAGRISSO was ILD/pneumonitis (3.9%).
 
-Tables 4 and 5 summarize common adverse reactions and laboratory abnormalities which occurred in FLAURA.
+Tables 5 and 6 summarize common adverse reactions and laboratory abnormalities which occurred in FLAURA.
 
-Table 4.
+Table 5.
 Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in FLAURANCI CTCAE v4.0
 
 | Adverse Reaction | TAGRISSO(N=279) |  | EGFR TKI comparator(gefitinib or erlotinib)(N=277) |  |
@@ -134,12 +135,12 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in FLAURANC
 | Upper Respiratory Tract Infection | 10 | 0 | 7 | 0 |
 
 Clinically relevant adverse reactions in FLAURA in <10% of patients receiving TAGRISSO were alopecia (7%), epistaxis (6%), interstitial lung disease (3.9%), urticaria (2.2%), palmar-plantar erythrodysesthesia syndrome (1.4%), QTc interval prolongation (1.1%), and keratitis (0.4%).
-QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500msec.
+QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500 msec.
 
-Table 5.
+Table 6.
 Laboratory Abnormalities Worsening from Baseline in ≥20% of Patients in FLAURA
 
-| Laboratory AbnormalityNCI CTCAE v4.0Each test incidence, except for hyperglycemia, is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO range: 267 - 273 and EGFR TKI comparator range: 256 - 268) | TAGRISSO(N=279) |  | EGFR TKI comparator(gefitinib or erlotinib)(N=277) |  |
+| Laboratory AbnormalityNCI CTCAE v4.0Each test incidence, except for hyperglycemia, is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO range: 267 - 273 and EGFR TKI comparator range: 256 - 268). | TAGRISSO(N=279) |  | EGFR TKI comparator(gefitinib or erlotinib)(N=277) |  |
 | --- | --- | --- | --- | --- |
 | All Grades(%) | Grade 3 or Grade 4(%) | All Grades(%) | Grade 3or Grade 4(%) |  |
 | Hematology |  |  |  |  |
@@ -148,7 +149,7 @@ Laboratory Abnormalities Worsening from Baseline in ≥20% of Patients in FLAURA
 | Thrombocytopenia | 51 | 0.7 | 12 | 0.4 |
 | Neutropenia | 41 | 3 | 10 | 0 |
 | Chemistry |  |  |  |  |
-| HyperglycemiaHyperglycemia is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: TAGRISSO (179) and EGFR comparator (191) | 37 | 0 | 31 | 0.5 |
+| HyperglycemiaHyperglycemia is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: TAGRISSO (179) and EGFR comparator (191). | 37 | 0 | 31 | 0.5 |
 | Hypermagnesemia | 30 | 0.7 | 11 | 0.4 |
 | Hyponatremia | 26 | 1.1 | 27 | 1.5 |
 | Increased AST | 22 | 1.1 | 43 | 4.1 |
@@ -158,7 +159,58 @@ Laboratory Abnormalities Worsening from Baseline in ≥20% of Patients in FLAURA
 
 Clinically relevant laboratory abnormalities in FLAURA that occurred in <20% of patients receiving TAGRISSO was increased blood creatinine (9%).
 
-Previously Treated EGFR T790M Mutation-Positive Metastatic Non-Small Cell Lung Cancer
+Previously Untreated EGFR Mutation-Positive Locally Advanced or Metastatic Non-Small Cell Lung Cancer – TAGRISSO in Combination with Pemetrexed and Platinum-based Chemotherapy
+
+The safety of TAGRISSO in combination with pemetrexed and platinum-based chemotherapy was evaluated in FLAURA2, a multicenter international open-label, randomized (1:1), active-controlled trial conducted in 557 patients with EGFR exon 19 deletion or exon 21 L858R mutation-positive, locally advanced or metastatic NSCLC who had not received previous systemic treatment for advanced disease.
+The median duration of exposure to TAGRISSO in combination with pemetrexed and platinum-based chemotherapy was 22.3 months and the median duration of exposure to TAGRISSO monotherapy was 19.3 months.
+
+Serious adverse reactions were reported in 38% of patients treated with TAGRISSO in combination with pemetrexed and platinum-based chemotherapy; the most frequently reported serious adverse reactions (≥2%) in the combination arm were anemia (3.3%), COVID-19 (2.5%), pneumonia (2.5%), febrile neutropenia (2.2%), thrombocytopenia (2.2%), and pulmonary embolism (2.2%).
+Fatal adverse reactions occurred in 7% of patients who received TAGRISSO in combination with pemetrexed and platinum-based chemotherapy including pulmonary embolism (1.1%), pneumonia (1.1%) and cardiomyopathy (1.1%).
+
+Dosage interruptions of TAGRISSO, when given with pemetrexed and platinum-based chemotherapy, due to an adverse reaction occurred in 44% of patients.
+Adverse reactions which required dosage interruption in ≥ 2% of patients included anemia (4.7%), neutropenia (4.3%), diarrhea (3.6%), febrile neutropenia (3.3%) and thrombocytopenia (2.9%).
+
+Permanent discontinuation of TAGRISSO when given in combination with pemetrexed and platinum-based chemotherapy due to an adverse reaction occurred in 11% of patients.
+Adverse reactions which resulted in permanent discontinuation of TAGRISSO in ≥1% of patients included ILD/pneumonitis (2.9%), pneumonia (1.4%), and decreased ejection fraction (1.1%).
+
+Adverse reactions leading to dose reduction of TAGRISSO occurred in 10% of patients treated with TAGRISSO in combination with pemetrexed and platinum-based chemotherapy.
+The most frequently reported adverse reactions leading to dose reduction of TAGRISSO in the combination arm in ≥1% of patients were diarrhea (1.1%) and rash (1.1%).
+
+Tables 7 and 8 summarize common adverse reactions and laboratory abnormalities which occurred in FLAURA2.
+
+Table 7.
+Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in FLAURA2NCI CTCAE v5.0
+
+| Any Grade (%) | Grade 3 or higher (%) | Any Grade (%) | Grade 3 or higher (%) |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | TAGRISSO with Pemetrexed and Platinum-based Chemotherapy (N=276) |  | TAGRISSO (N=275) |  |
+| Gastrointestinal Disorders |  |  |  |  |
+| Diarrhea | 43 | 2.9 | 41 | 0.4 |
+| StomatitisIncludes stomatitis and mouth ulceration. | 31 | 0.4 | 21 | 0.4 |
+| Skin Disorders |  |  |  |  |
+| RashIncludes rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pustular, rash pruritic, rash vesicular, rash follicular, erythema, folliculitis, acne, dermatitis, dermatitis acneiform, drug eruption, skin erosion, pustule. | 49 | 2.5 | 44 | 1.5 |
+| Nail toxicityIncludes nail bed disorder, nail bed inflammation, nail bed infection, nail discoloration, nail pigmentation, nail disorder, nail toxicity, nail dystrophy, nail infection, nail ridging, onychalgia, onychoclasis, onycholysis, onychomadesis, onychomalacia, paronychia. | 27 | 0.7 | 32 | 0.4 |
+| Dry skinIncludes dry skin, skin fissures, xerosis, eczema, xeroderma. | 24 | 0 | 31 | 0 |
+| PruritusIncludes pruritus, eyelid pruritus. | 8 | 0 | 11 | 0 |
+
+Clinically relevant adverse reactions in FLAURA2 in <10% of patients receiving TAGRISSO in combination with pemetrexed and platinum-based chemotherapy were alopecia (9%), epistaxis (7%), palmar-plantar erythrodysesthesia syndrome (5%), interstitial lung disease (3.3%), QTc interval prolongation (1.8%), erythema multiforme (1.4%), urticaria (1.4%), and keratitis (0.7%).
+QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500 msec.
+
+Table 8.
+Laboratory Abnormalities Worsening from Baseline in ≥20% of Patients in FLAURA2NCI CTCAE v5.0Findings based on test results presented as CTCAE grade shifts.
+
+| All Grades (%) | Grade 3 or Grade 4 (%) | All Grades (%) | Grade 3 or Grade 4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Laboratory AbnormalityEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO with pemetrexed and platinum-based chemotherapy arm: 275 and TAGRISSO monotherapy arm: 275). | TAGRISSO with Pemetrexed and Platinum-based Chemotherapy (N=276) |  | TAGRISSO (N=275) |  |
+| Hematology |  |  |  |  |
+| Leukopenia | 88 | 20 | 53 | 3.3 |
+| Thrombocytopenia | 85 | 16 | 44 | 1.8 |
+| Neutropenia | 85 | 36 | 40 | 4.7 |
+| Lymphopenia | 78 | 16 | 55 | 7 |
+| Chemistry |  |  |  |  |
+| Blood creatinine increased | 22 | 0.4 | 8 | 0 |
+
+Previously Treated EGFR T790M Mutation-Positive Metastatic Non-Small Cell Lung Cancer – Monotherapy
 
 The safety of TAGRISSO was evaluated in AURA3, a multicenter international open label randomized (2:1) controlled trial conducted in 419 patients with unresectable or metastatic EGFR T790M mutation-positive NSCLC who had progressive disease following first line EGFR TKI treatment.
 A total of 279 patients received TAGRISSO 80 mg orally once daily until intolerance to therapy, disease progression, or investigator determination that the patient was no longer benefiting from treatment.
@@ -176,9 +228,9 @@ The most frequent adverse reactions leading to dose reductions or interruptions 
 Adverse reactions resulting in permanent discontinuation of TAGRISSO occurred in 7% of patients treated with TAGRISSO.
 The most frequent adverse reaction leading to discontinuation of TAGRISSO was ILD/pneumonitis (3%).
 
-Tables 6 and 7 summarize common adverse reactions and laboratory abnormalities which occurred in TAGRISSO-treated patients in AURA3.
+Tables 9 and 10 summarize common adverse reactions and laboratory abnormalities which occurred in TAGRISSO-treated patients in AURA3.
 
-Table 6.
+Table 9.
 Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in AURA3NCI CTCAE v4.0.
 
 | Adverse Reaction | TAGRISSO(N=279) |  |  | Chemotherapy(Pemetrexed/Cisplatin orPemetrexed/Carboplatin)(N=136) |  |
@@ -187,7 +239,7 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in AURA3NCI
 | Gastrointestinal Disorders |  |  |  |  |  |
 | Diarrhea | 41 | 1.1 |  | 11 | 1.5 |
 | Nausea | 16 | 0.7 |  | 49 | 3.7 |
-| StomatitisIncludes stomatitis and mouth ulceration | 19 | 0 |  | 15 | 1.5 |
+| StomatitisIncludes stomatitis and mouth ulceration. | 19 | 0 |  | 15 | 1.5 |
 | Constipation | 14 | 0 |  | 35 | 0 |
 | Vomiting | 11 | 0.4 |  | 20 | 2.2 |
 | Skin Disorders |  |  |  |  |  |
@@ -205,9 +257,9 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in AURA3NCI
 | Back pain | 10 |  | 0.4 | 9 | 0.7 |
 
 Clinically relevant adverse reactions in AURA3 in <10% of patients receiving TAGRISSO were epistaxis (5%), interstitial lung disease (3.9%), alopecia (3.6%), urticaria (2.9%), palmar-plantar erythrodysesthesia syndrome (1.8%), QTc interval prolongation (1.4%), keratitis (1.1%), and erythema multiforme (0.7%).
-QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500msec.
+QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500 msec.
 
-Table 7.
+Table 10.
 Laboratory Abnormalities Worsening from Baseline in ≥20% of Patients in AURA3
 
 | Laboratory AbnormalityNCI CTCAE v4.0Each test incidence, except for hyperglycemia, is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 279, Chemotherapy comparator 131) | TAGRISSO(N=279) |  | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin)(N=131) |  |  |

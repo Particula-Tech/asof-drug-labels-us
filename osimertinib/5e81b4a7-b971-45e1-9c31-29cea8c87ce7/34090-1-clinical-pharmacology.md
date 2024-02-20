@@ -28,6 +28,8 @@ The area under the plasma concentration-time curve (AUC) and maximal plasma conc
 Administration of TAGRISSO orally once daily resulted in approximately 3-fold accumulation with steady-state exposures achieved after 15 days of dosing.
 At steady state, the Cmax to Cmin (minimal concentration) ratio was 1.6-fold.
 
+The pharmacokinetics in patients treated with osimertinib in combination with pemetrexed and platinum-based chemotherapy are similar to those in patients treated with osimertinib monotherapy.
+
 Absorption
 
 The median time to Cmax of osimertinib was 6 hours (range 3-24 hours).
