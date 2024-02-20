@@ -88,8 +88,12 @@ Single and multiple-dose pharmacokinetics of varenicline have been investigated 
 Steady-state systemic exposure in adolescent patients of bodyweight >55 kg, as assessed by AUC (0-24), was comparable to that noted for the same doses in the adult population.
 When 0.5 mg BID was given, steady-state daily exposure of varenicline was, on average, higher (by approximately 40%) in adolescent patients with bodyweight ≤ 55 kg compared to that noted in the adult population.
 
-Additional information describing a clinical study in which efficacy was not demonstrated in pediatric patients is approved for Pfizer Inc.’s Chantix (varenicline) tablets.
-However, due to Pfizer Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+The efficacy and safety of varenicline was evaluated in a randomized, double-blind, placebo-controlled study of 312 patients aged 12 to 19 years, who smoked an average of at least 5 cigarettes per day during the 30 days prior to recruitment, had a score of at least 4 on the Fagerstrom Test for Nicotine Dependence scale, and at least one previous failed quit attempt.
+Patients were stratified by age (12 to 16 years of age, n = 216 and 17 to 19 years of age, n = 96) and by body weight (≤55 kg and >55 kg).
+Patients were randomized to one of two doses of varenicline, adjusted by weight to provide plasma levels in the efficacious range (based on adult studies) and placebo.
+Patients received treatment for 12 weeks, followed by a non-treatment period of 40 weeks, along with age-appropriate counseling throughout the study.
+Results from this study showed that varenicline, at either dose studied, did not improve continuous abstinence rates at weeks 9 through 12 of treatment compared with placebo in subjects 12 to 19 years of age.
+The varenicline safety profile in this study was consistent with that observed in adult studies.
 
 ## 8.5 Geriatric Use
 

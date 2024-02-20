@@ -89,4 +89,6 @@ Pregnancy and Lactation
 Patients who are pregnant or breastfeeding or planning to become pregnant should be advised of: the risks of smoking to a pregnant mother and her developing baby, the potential risks of varenicline use during pregnancy and breastfeeding, and the benefits of smoking cessation with and without varenicline.
 Advise breastfeeding women to monitor the infant for seizures and vomiting [see Use in Specific Populations (8.1 and 8.2)].
 
-Chantix is a registered trade mark of Pfizer Inc.
+Brands listed are the trademarks of their respective owners.
+
+Dispense with Medication Guide available at: www.parpharm.com

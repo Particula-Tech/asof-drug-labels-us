@@ -224,6 +224,8 @@ In addition to these, the 1 mg tablet film coating includes FD&C blue #2/indigo 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+Dispense with Medication Guide available at: www.parpharm.com
+
 Dist. by:
 
 Par Pharmaceutical
@@ -242,6 +244,6 @@ Mfg.
 Lic.
 No.: TN00002121
 
-OS155-01-74-01
+OS155-01-74-04
 
-Issued: 06/2021
+Revised:01/2024
