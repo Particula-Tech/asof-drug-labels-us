@@ -2,6 +2,8 @@
 
 The following important adverse reactions are described elsewhere in labeling: • Anaphylaxis and Angioedema [see Warnings and Precautions (5.1)] • Progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.2)] • Herpes Zoster and Other Serious Opportunistic Infections [see Warnings and Precautions (5.3)] • Lymphopenia [see Warnings and Precautions (5.4)] • Liver Injury [see Warnings and Precautions (5.5)] • Flushing [see Warnings and Precautions (5.6)]
 
+• Serious Gastrointestinal Reactions [see Warnings and Precautions (5.7)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
@@ -12,7 +14,7 @@ The adverse reactions presented in the table below are based on safety informati
 The most common adverse reactions (incidence ≥10% and ≥2% more than placebo) for dimethyl fumarate delayed-release capsules were flushing, abdominal pain, diarrhea, and nausea.
 Table 1: Adverse Reactions in Study 1 and 2 reported for Dimethyl Fumarate Delayed-Release Capsules 240 mg BID at ≥ 2% higher incidence than placebo
 
-|  | Dimethyl Fumarate Delayed-Release Capsules N=769 % | Placebo N=771 % |
+|  | Dimethyl Fumarate Delayed-ReleaseCapsules N=769 % | Placebo N=771 % |
 | --- | --- | --- |
 | Flushing | 40 | 6 |
 | Abdominal pain | 18 | 10 |
@@ -30,7 +32,7 @@ Table 1: Adverse Reactions in Study 1 and 2 reported for Dimethyl Fumarate Delay
 Gastrointestinal Dimethyl fumarate delayed-release capsules caused GI events (e.g., nausea, vomiting, diarrhea, abdominal pain, and dyspepsia).
 The incidence of GI events was higher early in the course of treatment (primarily in month 1) and usually decreased over time in patients treated with dimethyl fumarate delayed-release capsules compared with placebo.
 Four percent (4%) of patients treated with dimethyl fumarate delayed-release capsules and less than 1% of placebo patients discontinued due to gastrointestinal events.
-The incidence of serious GI events was 1% in patients treated with dimethyl fumarate delayed-release capsules.
+The incidence of serious GI events was 1% in clinical trial patients treated with dimethyl fumarate delayed-release capsules; these events, none of which were fatal, included vomiting (0.3%) and abdominal pain (0.3%).
 Hepatic Transaminases An increased incidence of elevations of hepatic transaminases in patients treated with dimethyl fumarate delayed-release capsules was seen primarily during the first six months of treatment, and most patients with elevations had levels < 3 times the upper limit of normal (ULN) during controlled trials.
 Elevations of alanine aminotransferase and aspartate aminotransferase to ≥ 3 times the ULN occurred in a small number of patients treated with both dimethyl fumarate delayed-release capsules and placebo and were balanced between groups.
 There were no elevations in transaminases ≥ 3 times the ULN with concomitant elevations in total bilirubin > 2 times the ULN.
@@ -39,6 +41,6 @@ Eosinophilia A transient increase in mean eosinophil counts was seen during the 
 
 ## 6.2 Post Marketing Experience
 
-The following adverse reaction has been identified during post-approval use of dimethyl fumarate delayed-release capsules.
+The following adverse reactions have been identified during post-approval use of dimethyl fumarate delayed-release capsules.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Gastrointestinal Disorders: Acute Pancreatitis Hepatobiliary Disorders: Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN) [see Warnings and Precautions (5.5)] Infections and Infestations: Herpes zoster infection and other serious opportunistic infections [see Warnings and Precautions (5.3)] Respiratory, Thoracic, and Mediastinal Disorders: Rhinorrhea Skin and Subcutaneous: Alopecia
+Gastrointestinal Disorders: Acute Pancreatitis; Gastrointestinal perforation, ulceration, obstruction, and hemorrhage [see Warnings and Precautions (5.7)] Hepatobiliary Disorders: Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN) [see Warnings and Precautions (5.5)] Infections and Infestations: Herpes zoster infection and other serious opportunistic infections [see Warnings and Precautions (5.3)] Respiratory, Thoracic, and Mediastinal Disorders: Rhinorrhea Skin and Subcutaneous: Alopecia

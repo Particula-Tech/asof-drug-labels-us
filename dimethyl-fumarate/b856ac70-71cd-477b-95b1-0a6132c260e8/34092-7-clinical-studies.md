@@ -18,7 +18,7 @@ Dimethyl fumarate delayed-release capsules had a statistically significant effec
 The results for this study (240 mg twice a day vs. placebo) are shown in Table 2 and Figure 1.
 Table 2: Clinical and MRI Results of Study 1
 
-|  | Dimethyl Fumarate Delayed-Release Capsules 240 mg BID | Placebo | P-value |
+|  | Dimethyl Fumarate Delayed-ReleaseCapsules 240 mg BID | Placebo | P-value |
 | --- | --- | --- | --- |
 | Clinical Endpoints | N=410 | N=408 |  |
 | Proportion relapsing (primary endpoint) Relative risk reduction | 27% 49% | 46% | <0.0001 |
@@ -47,7 +47,7 @@ The dimethyl fumarate delayed-release capsules 240 mg three times daily dose res
 The results for this study (240 mg twice a day vs. placebo) are shown in Table 3.
 Table 3: Clinical and MRI Results of Study 2
 
-|  | Dimethyl Fumarate Delayed-Release Capsules 240 mg BID | Placebo | P-value |
+|  | Dimethyl Fumarate Delayed-ReleaseCapsules 240 mg BID | Placebo | P-value |
 | --- | --- | --- | --- |
 | Clinical Endpoints | N=359 | N=363 |  |
 | Annualized relapse rate Relative reduction | 0.224 44% | 0.401 | <0.0001 |

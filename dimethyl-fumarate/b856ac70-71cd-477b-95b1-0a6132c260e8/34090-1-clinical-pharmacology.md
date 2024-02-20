@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The mechanism by which dimethyl fumarate (DMF) exerts its therapeutic effect in multiple sclerosis is unknown.
-DMF and the metabolite, monomethyl fumarate (MMF), have been shown to activate the Nuclear factor (erythroid-derived 2)-like 2 (Nrf2) pathway in vitro and in vivo in animals and humans.
+DMF and the metabolite, monomethyl fumarate (MMF), have been shown to activate the Nuclear factor (erythroid-derived 2)-like 2 (Nrf2) pathway in vitroand in vivoin animals and humans.
 The Nrf2 pathway is involved in the cellular response to oxidative stress.
 MMF has been identified as a nicotinic acid receptor agonist in vitro.
 
@@ -17,18 +17,18 @@ After oral administration of dimethyl fumarate delayed-release capsules, dimethy
 Dimethyl fumarate is not quantifiable in plasma following oral administration of dimethyl fumarate delayed-release capsules.
 Therefore, all pharmacokinetic analyses related to dimethyl fumarate delayed-release capsules were performed with plasma MMF concentrations.
 Pharmacokinetic data were obtained in subjects with multiple sclerosis and healthy volunteers.
-Absorption The median T max of MMF is 2 to 2.5 hours.
+Absorption The median T maxof MMF is 2 to 2.5 hours.
 The peak plasma concentration (C max) and overall exposure (AUC) increased approximately dose proportionally in the dose range studied (120 mg to 360 mg).
-Following administration of dimethyl fumarate delayed-release capsules 240 mg twice a day with food, the mean C max of MMF was 1.87 mg/L and AUC was 8.21 mg.hr/L in MS patients.
-A high-fat, high-calorie meal did not affect the AUC of MMF but decreased its C max by 40%.
-The T max was delayed from 2.0 hours to 5.5 hours.
+Following administration of dimethyl fumarate delayed-release capsules 240 mg twice a day with food, the mean C maxof MMF was 1.87 mg/L and AUC was 8.21 mg.hr/L in MS patients.
+A high-fat, high-calorie meal did not affect the AUC of MMF but decreased its C maxby 40%.
+The T maxwas delayed from 2.0 hours to 5.5 hours.
 In this study, the incidence of flushing was reduced by approximately 25% in the fed state.
 Distribution The apparent volume of distribution of MMF varies between 53 and 73 L in healthy subjects.
 Human plasma protein binding of MMF is 27 to 45% and independent of concentration.
 Metabolism In humans, dimethyl fumarate is extensively metabolized by esterases, which are ubiquitous in the gastrointestinal tract, blood, and tissues, before it reaches the systemic circulation.
 Further metabolism of MMF occurs through the tricarboxylic acid (TCA) cycle, with no involvement of the cytochrome P450 (CYP) system.
 MMF, fumaric and citric acid, and glucose are the major metabolites in plasma.
-Elimination Exhalation of CO 2 is the primary route of elimination, accounting for approximately 60% of the dimethyl fumarate delayed-release capsules dose.
+Elimination Exhalation of CO 2is the primary route of elimination, accounting for approximately 60% of the dimethyl fumarate delayed-release capsules dose.
 Renal and fecal elimination are minor routes of elimination, accounting for 16% and 1% of the dose respectively.
 Trace amounts of unchanged MMF were present in urine.
 The terminal half-life of MMF is approximately 1 hour and no circulating MMF is present at 24 hours in the majority of individuals.
@@ -36,7 +36,7 @@ Accumulation of MMF does not occur with multiple doses of dimethyl fumarate dela
 Specific Populations Body weight, gender, and age do not require dosage adjustment.
 No studies have been conducted in subjects with hepatic or renal impairment.
 However, neither condition would be expected to affect exposure to MMF and therefore no dosage adjustment is necessary.
-Drug Interaction Studies No potential drug interactions with dimethyl fumarate or MMF were identified in in vitro CYP inhibition and induction studies, or in P-glycoprotein studies.
+Drug Interaction Studies No potential drug interactions with dimethyl fumarate or MMF were identified in in vitroCYP inhibition and induction studies, or in P-glycoprotein studies.
 Single doses of interferon beta-1a or glatiramer acetate did not alter the pharmacokinetics of MMF.
 Aspirin, when administered approximately 30 minutes before dimethyl fumarate delayed-release capsules, did not alter the pharmacokinetics of MMF.
 Oral Contraceptives The coadministration of dimethyl fumarate with a combined oral contraceptive (norelgestromin and ethinyl estradiol) did not elicit any relevant effects in oral contraceptives exposure.
