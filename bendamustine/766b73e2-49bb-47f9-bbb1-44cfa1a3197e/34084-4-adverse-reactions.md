@@ -211,6 +211,8 @@ Immune system disorders: Anaphylaxis
 
 Infections and infestations: Pneumocystis jirovecii pneumonia, progressive multifocal leukoencephalopathy (PML)
 
+Renal and urinary disorders: Nephrogenic diabetes insipidus (NDI)
+
 Respiratory, thoracic and mediastinal disorders: Pneumonitis
 
 Skin and subcutaneous tissue disorders: Drug reaction with eosinophilia and systemic symptoms (DRESS), non-melanoma skin cancer (NMSC), Stevens-Johnson syndrome (SJS), Toxic epidermal necrolysis (TEN).
