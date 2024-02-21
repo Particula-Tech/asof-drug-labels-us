@@ -1,4 +1,4 @@
-# Patient Information
+# PATIENT INFORMATION
 
 ELESTRIN® (el-LES-strin) (estradiol gel)
 

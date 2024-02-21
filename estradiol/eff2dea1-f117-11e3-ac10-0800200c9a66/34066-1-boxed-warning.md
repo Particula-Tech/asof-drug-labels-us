@@ -2,13 +2,13 @@
 
 Estrogen-Alone Therapy
 
-Endometrial Cancer
+1. Endometrial Cancer
 
 There is an increased risk of endometrial cancer in a woman with a uterus who uses unopposed estrogens.
 Adding a progestin to estrogen therapy has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer.
 Perform adequate diagnostic measures, including directed or random endometrial sampling when indicated, to rule out malignancy in postmenopausal women with undiagnosed, persistent or recurring abnormal genital bleeding [see Warnings and Precautions (5.2)].
 
-Cardiovascular Disorders and Probable Dementia
+1. Cardiovascular Disorders and Probable Dementia
 
 Do not use estrogen-alone therapy for the prevention of cardiovascular disease or dementia [see Warnings and Precautions (5.1, 5.3), and Clinical Studies (14.2, 14.3)].
 
@@ -26,7 +26,7 @@ Prescribe estrogens with or without progestins at the lowest effective doses and
 
 Estrogen Plus Progestin Therapy
 
-Cardiovascular Disorders and Probable Dementia
+1. Cardiovascular Disorders and Probable Dementia
 
 Do not use estrogen plus progestin therapy for the prevention of cardiovascular disease or dementia [see Warnings and Precautions (5.1, 5.3), and Clinical Studies (14.2, 14.3)].
 
@@ -35,7 +35,7 @@ The WHI estrogen plus progestin substudy reported increased risks of DVT, pulmon
 The WHIMS estrogen plus progestin ancillary study of the WHI reported an increased risk of developing probable dementia in postmenopausal women 65 years of age or older during 4 years of treatment with daily CE (0.625 mg) combined with MPA (2.5 mg), relative to placebo.
 It is unknown whether this finding applies to younger postmenopausal women [see Warnings and Precautions (5.3), Use in Specific Populations (8.5), and Clinical Studies (14.3)].
 
-Breast Cancer
+1. Breast Cancer
 
 The WHI estrogen plus progestin substudy also demonstrated an increased risk of invasive breast cancer [see Warnings and Precautions (5.2), and Clinical Studies (14.2)].
 

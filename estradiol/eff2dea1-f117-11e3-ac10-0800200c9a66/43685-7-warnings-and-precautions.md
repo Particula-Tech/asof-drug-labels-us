@@ -83,7 +83,8 @@ Metastatic disease was rare with no apparent difference between the two groups.
 Other prognostic factors such as histologic subtype, grade and hormone receptor status did not differ between the groups.6 [see Clinical Studies (14.2)].
 
 Consistent with the WHI clinical trial, observational studies have also reported an increased risk of breast cancer with estrogen plus progestin therapy, and a smaller increase in the risk for breast cancer with estrogen-alone therapy, after several years of use.
-The risk increased with duration of use and appeared to return to baseline in about 5 years after stopping treatment (only the observational studies have substantial data on risk after stopping).
+One large meta-analysis of prospective cohort studies reported increased risks that were dependent upon duration of use and could last up to > 10 years after discontinuation of estrogen plus progestin therapy and estrogen-alone therapy.
+Extension of WHI trials also demonstrated increased breast cancer risk associated with estrogen plus progestin therapy.
 Observational studies also suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to estrogen-alone therapy.
 These studies have not generally found significant variation in the risk of breast cancer among different estrogen plus progestin combinations, doses, or routes of administration.
 

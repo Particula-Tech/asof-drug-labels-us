@@ -1,4 +1,4 @@
-# Instructions For Use
+# INSTRUCTIONS FOR USE
 
 ELESTRIN® (el-LES-strin) (estradiol gel)
 
@@ -42,9 +42,9 @@ Inactive ingredients: purified water, ethanol, propylene glycol, diethylene glyc
 
 ELESTRIN is a registered trademark of Meda Pharma S.A.R.L., a Viatris Company.
 
-Distributed by: MEDA Pharmaceuticals Inc. 1000 Mylan Blvd Canonsburg, PA 15317
+Distributed by: MEDA Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 
-©2023 Viatris Inc.
+© 2024 Viatris Inc.
 
 Rev.
-7/2023 IN-0480-07 141307-0723
+02/2024 IN-0480-XX1 140893
