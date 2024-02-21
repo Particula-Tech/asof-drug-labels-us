@@ -38,11 +38,11 @@ Pregnancy Advise patients to notify their healthcare provider if they become pre
 
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to trazodone during pregnancy [see Use in Special Populations (8.1)].
 
-Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B Durham, NC 27703, USA.
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 5 to 14, Pharmez, Nr.
 Village Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 213, India.
 
-51 2487 1 718000
+51 2487 2 733836
 
-Issued November 2018
+Issued February 2024

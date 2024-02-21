@@ -187,15 +187,15 @@ Active ingredient: trazodone hydrochloride, USP
 
 Inactive ingredients: colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, pregelatinized starch (maize) and sodium starch glycolate.
 
+Medication guide available at www.accordhealthcare.us/medication-guides.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication guide available at www.accordhealthcare.us/medication-guides
-
-Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B Durham, NC 27703, USA.
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 5 to 14, Pharmez, Nr.
 Village Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 213, India.
 
-51 2487 1 718000
+51 2487 2 733836
 
-Issued November 2018
+Issued February 2024
