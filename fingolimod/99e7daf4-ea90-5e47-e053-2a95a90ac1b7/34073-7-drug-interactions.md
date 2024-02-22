@@ -25,7 +25,7 @@ When switching from drugs with prolonged immune effects, such as natalizumab, te
 
 ## 7.5 Drugs That Slow Heart Rate or Atrioventricular Conduction (e.g., beta blockers or diltiazem)
 
-Experience with fingolimod in patients receiving concurrent therapy with drugs that slow the heart rate or AV conduction (e.g., beta blockers, digoxin, or heart rate-slowing calcium channel blockers such as diltiazem or verapamil) is limited.
+Experience with fingolimod in patients receiving concurrent therapy with drugs that slow the heart rate or AV conduction (e.g., beta blockers, digoxin, or heart rate-slowing calcium channel blockers, such as diltiazem or verapamil) is limited.
 Because initiation of fingolimod treatment may result in an additional decrease in heart rate, concomitant use of these drugs during fingolimod initiation may be associated with severe bradycardia or heart block.
 Seek advice from the physician prescribing these drugs regarding the possibility to switch to drugs that do not slow the heart rate or atrioventricular conduction before initiating fingolimod.
 Patients who cannot switch should have overnight continuous ECG monitoring after the first dose [see Dosage and Administration (2.4), Warnings and Precautions (5.1)].

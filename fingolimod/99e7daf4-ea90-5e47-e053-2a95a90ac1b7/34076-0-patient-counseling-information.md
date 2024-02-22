@@ -47,7 +47,7 @@ Fetal Risk
 
 - Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
   Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1, 8.3)].
-- Advise female patients of reproductive potential to use effective contraception during treatment with fingolimod and for two months after the final dose [see Use in Specific Populations (8.3)].
+- Advise female patients of reproductive potential to use effective contraception during treatment with fingolimod and for 2 months after the final dose [see Use in Specific Populations (8.3)].
 
 Severe Increase in Disability After Stopping Fingolimod
 
@@ -67,7 +67,7 @@ Advise patients that fingolimod remains in the blood and continues to have effec
 
 Hypersensitivity Reactions
 
-Advise patients that fingolimod may cause hypersensitivity reactions including rash, urticaria, and angioedema.
+Advise patients that fingolimod may cause hypersensitivity reactions, including rash, urticaria, and angioedema.
 Advise patients to contact their physician if they have any symptoms associated with hypersensitivity [see Warnings and Precautions (5.14)].
 
 Pregnancy
@@ -78,10 +78,11 @@ Manufactured by:
 
 Sunshine Lake Pharma Co., Ltd.
 
-GuangDong Province 523808,
+No. 1, Northern Industry Road,
 
-P.R.
-China
+Northern Industry Park of Song Shan Lake,
+
+Dongguan, Guangdong 523808, China.
 
 Distributed by:
 
@@ -89,4 +90,4 @@ Rising Pharmaceuticals, Inc.
 
 East Brunswick, NJ 08816
 
-October 2022 5362
+January 2024 5363

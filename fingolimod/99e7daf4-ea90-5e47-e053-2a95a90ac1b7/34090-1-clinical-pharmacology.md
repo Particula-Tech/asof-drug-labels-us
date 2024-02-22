@@ -48,7 +48,7 @@ In the first study, the immunogenicity of keyhole limpet hemocyanin (KLH) and pn
 Compared to placebo, antigen-specific IgM titers were decreased by 91% and 25% in response to KLH and PPV-23, respectively, in subjects on fingolimod 0.5 mg.
 Similarly, IgG titers were decreased by 45% and 50%, in response to KLH and PPV-23, respectively, in subjects on fingolimod 0.5 mg daily compared to placebo.
 The responder rate for fingolimod 0.5 mg as measured by the number of subjects with a > 4-fold increase in KLH IgG was comparable to placebo and 25% lower for PPV-23 IgG, while the number of subjects with a > 4-fold increase in KLH and PPV-23 IgM was 75% and 40% lower, respectively, compared to placebo.
-The capacity to mount a skin delayed-type hypersensitivity reaction to Candida and tetanus toxoid was decreased by approximately 30% in subjects on fingolimod 0.5 mg daily, compared to placebo.
+The capacity to mount a skin delayed-type hypersensitivity reaction to Candidaand tetanus toxoid was decreased by approximately 30% in subjects on fingolimod 0.5 mg daily, compared to placebo.
 Immunologic responses were further decreased with fingolimod 1.25 mg (a dose higher than recommended in MS) [see Warnings and Precautions (5.2)].
 
 In the second study, the immunogenicity of Northern hemisphere seasonal influenza and tetanus toxoid vaccination was assessed in a 12-week steady-state, randomized, placebo-controlled study of fingolimod 0.5 mg in adult multiple sclerosis patients (n = 136).
@@ -68,10 +68,10 @@ Fingolimod 1.25 mg was associated with a 5-fold increase in the use of rescue sh
 
 Absorption
 
-The T max of fingolimod is 12-16 hours.
+The T maxof fingolimod is 12-16 hours.
 The apparent absolute oral bioavailability is 93%.
 
-Food intake does not alter C max or (AUC) of fingolimod or fingolimod-phosphate.
+Food intake does not alter C maxor (AUC) of fingolimod or fingolimod-phosphate.
 Therefore, fingolimod may be taken without regard to meals.
 
 Steady-state blood concentrations are reached within 1 to 2 months following once-daily administration and steady-state levels are approximately 10-fold greater than with the initial dose.
@@ -90,7 +90,7 @@ Metabolism
 The biotransformation of fingolimod in humans occurs by 3 main pathways: by reversible stereoselective phosphorylation to the pharmacologically active (S)-enantiomer of fingolimod-phosphate, by oxidative biotransformation catalyzed mainly by the cytochrome P450 4F2 (CYP4F2) and possibly other CYP4F isoenzymes with subsequent fatty acid-like degradation to inactive metabolites, and by formation of pharmacologically inactive non-polar ceramide analogs of fingolimod.
 
 Inhibitors or inducers of CYP4F2 and possibly other CYP4F isozymes might alter the exposure of fingolimod or fingolimod-phosphate.
-In vitro studies in hepatocytes indicated that CYP3A4 may contribute to fingolimod metabolism in the case of strong induction of CYP3A4.
+In vitrostudies in hepatocytes indicated that CYP3A4 may contribute to fingolimod metabolism in the case of strong induction of CYP3A4.
 
 Following single oral administration of [14C] fingolimod, the major fingolimod-related components in blood, as judged from their contribution to the AUC up to 816 hours post-dose of total radiolabeled components, are fingolimod itself (23.3%), fingolimod-phosphate (10.3%), and inactive metabolites [M3 carboxylic acid metabolite (8.3%), M29 ceramide metabolite (8.9%), and M30 ceramide metabolite (7.3%)].
 
@@ -123,7 +123,7 @@ The effects of race on fingolimod and fingolimod-phosphate pharmacokinetics cann
 
 Renal Impairment
 
-In adult patients with severe renal impairment, fingolimod C max and AUC are increased by 32% and 43%, respectively, and fingolimod-phosphate C max and AUC are increased by 25% and 14%, respectively, with no change in apparent elimination half-life.
+In adult patients with severe renal impairment, fingolimod C maxand AUC are increased by 32% and 43%, respectively, and fingolimod-phosphate C maxand AUC are increased by 25% and 14%, respectively, with no change in apparent elimination half-life.
 Based on these findings, the fingolimod 0.5 mg dose is appropriate for use in adult patients with renal impairment.
 Fingolimod 0.25 mg and 0.5 mg are appropriate for use in pediatric patients with renal impairment.
 The systemic exposure of 2 metabolites (M2 and M3) is increased by 3- and 13-fold, respectively.
@@ -133,8 +133,8 @@ A study in patients with mild or moderate renal impairment has not been conducte
 
 Hepatic Impairment
 
-In subjects with mild, moderate, or severe hepatic impairment (Child-Pugh class A, B, and C), no change in fingolimod C max was observed, but fingolimod AUC 0-∞ was increased respectively by 12%, 44%, and 103%.
-In patients with severe hepatic impairment (Child-Pugh class C), fingolimod-phosphate C max was decreased by 22% and AUC 0-96 hours was decreased by 29%.
+In subjects with mild, moderate, or severe hepatic impairment (Child-Pugh class A, B, and C), no change in fingolimod C maxwas observed, but fingolimod AUC 0-∞was increased respectively by 12%, 44%, and 103%.
+In patients with severe hepatic impairment (Child-Pugh class C), fingolimod-phosphate C maxwas decreased by 22% and AUC 0-96 hourswas decreased by 29%.
 The pharmacokinetics of fingolimod-phosphate was not evaluated in patients with mild or moderate hepatic impairment.
 The apparent elimination half-life of fingolimod is unchanged in subjects with mild hepatic impairment, but is prolonged by about 50% in patients with moderate or severe hepatic impairment.
 
@@ -159,7 +159,7 @@ The clinical impact of this potential decrease is unknown.
 
 Potential of Fingolimod and Fingolimod-phosphate to Inhibit the Metabolism of Comedications
 
-In vitro inhibition studies using pooled human liver microsomes and specific metabolic probe substrates demonstrate that fingolimod has little or no capacity to inhibit the activity of the following CYP enzymes: CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, CYP3A4/5, or CYP4A9/11 (fingolimod only), and similarly fingolimod-phosphate has little or no capacity to inhibit the activity of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, or CYP3A4 at concentrations up to 3 orders of magnitude of therapeutic concentrations.
+In vitroinhibition studies using pooled human liver microsomes and specific metabolic probe substrates demonstrate that fingolimod has little or no capacity to inhibit the activity of the following CYP enzymes: CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, CYP3A4/5, or CYP4A9/11 (fingolimod only), and similarly fingolimod-phosphate has little or no capacity to inhibit the activity of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, or CYP3A4 at concentrations up to 3 orders of magnitude of therapeutic concentrations.
 Therefore, fingolimod and fingolimod-phosphate are unlikely to reduce the clearance of drugs that are mainly cleared through metabolism by the major CYP isoenzymes described above.
 
 Potential of Fingolimod and Fingolimod-phosphate to Induce its Own and/or the Metabolism of Comedications
@@ -168,11 +168,11 @@ Fingolimod was examined for its potential to induce human CYP3A4, CYP1A2, CYP4F2
 Fingolimod did not induce mRNA or activity of the different CYP enzymes and MDR1 with respect to the vehicle control; therefore, no clinically relevant induction of the tested CYP enzymes or MDR1 by fingolimod are expected at therapeutic concentrations.
 Fingolimod-phosphate was also examined for its potential to induce mRNA and/or activity of human CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP3A, CYP4F2, CYP4F3B, and CYP4F12.
 Fingolimod-phosphate is not expected to have clinically significant induction effects on these enzymes at therapeutic doses of fingolimod.
-In vitro experiments did not provide an indication of CYP induction by fingolimod-phosphate.
+In vitroexperiments did not provide an indication of CYP induction by fingolimod-phosphate.
 
 Transporters
 
-Based on in vitro data, fingolimod as well as fingolimod-phosphate are not expected to inhibit the uptake of comedications and/or biologics transported by the organic anion transporting polypeptides OATP1B1, OATP1B3, or the sodium taurocholate co-transporting polypeptide (NTCP).
+Based on in vitrodata, fingolimod as well as fingolimod-phosphate are not expected to inhibit the uptake of comedications and/or biologics transported by the organic anion transporting polypeptides OATP1B1, OATP1B3, or the sodium taurocholate co-transporting polypeptide (NTCP).
 Similarly, they are not expected to inhibit the efflux of comedications and/or biologics transported by the breast cancer resistance protein (BCRP), the bile salt export pump (BSEP), the multidrug resistance-associated protein 2 (MRP2), or P-glycoprotein (P-gp) at therapeutic concentrations.
 
 Oral Contraceptives

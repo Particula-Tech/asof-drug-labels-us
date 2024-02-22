@@ -13,7 +13,7 @@ The most common fetal visceral malformations in rats were persistent truncus art
 The receptor affected by fingolimod (sphingosine 1-phosphate receptor) is known to be involved in vascular formation during embryogenesis (see Data).
 Advise pregnant women of the potential risk to a fetus.
 
-In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%-20%, respectively.
+In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
 Clinical Considerations
@@ -27,12 +27,12 @@ Data
 
 Animal Data
 
-When fingolimod was orally administered to pregnant rats during the period of organogenesis (0, 0.03, 0.1, and 0.3 mg/kg/day or 0, 1, 3, and 10 mg/kg/day), increased incidences of fetal malformations and embryofetal deaths were observed at all but the lowest dose tested (0.03 mg/kg/day), which is less than the recommended human dose (RHD) on a mg/m 2 basis.
+When fingolimod was orally administered to pregnant rats during the period of organogenesis (0, 0.03, 0.1, and 0.3 mg/kg/day or 0, 1, 3, and 10 mg/kg/day), increased incidences of fetal malformations and embryofetal deaths were observed at all but the lowest dose tested (0.03 mg/kg/day), which is less than the recommended human dose (RHD) on a mg/m 2basis.
 Oral administration to pregnant rabbits during organogenesis (0, 0.5, 1.5, and 5 mg/kg/day) resulted in increased incidences of embryofetal mortality and fetal growth retardation at the mid and high doses.
-The no-effect dose for these effects in rabbits (0.5 mg/kg/day) is approximately 20 times the RHD on a mg/m 2 basis.
+The no-effect dose for these effects in rabbits (0.5 mg/kg/day) is approximately 20 times the RHD on a mg/m 2basis.
 
 When fingolimod was orally administered to female rats during pregnancy and lactation (0, 0.05, 0.15, and 0.5 mg/kg/day), pup survival was decreased at all doses and a neurobehavioral (learning) deficit was seen in offspring at the high dose.
-The low-effect dose of 0.05 mg/kg/day is similar to the RHD on a mg/m 2 basis.
+The low-effect dose of 0.05 mg/kg/day is similar to the RHD on a mg/m 2basis.
 
 ## 8.2 Lactation
 
