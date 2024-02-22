@@ -1,30 +1,15 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Myopathy/Rhabdomyolysis
+## 5.1 Myopathy and Rhabdomyolysis
 
-Simvastatin occasionally causes myopathy manifested as muscle pain, tenderness or weakness with creatine kinase above ten times the upper limit of normal (ULN).
-Myopathy sometimes takes the form of rhabdomyolysis with or without acute renal failure secondary to myoglobinuria, and rare fatalities have occurred.
-The risk of myopathy is increased by elevated plasma levels of simvastatin and simvastatin acid.
-Predisposing factors for myopathy include advanced age (≥65 years), female gender, uncontrolled hypothyroidism, and renal impairment.
-Chinese patients may be at increased risk for myopathy [see Use in Specific Populations (8.8)].
+VYTORIN may cause myopathy and rhabdomyolysis.
+Acute kidney injury secondary to myoglobinuria and rare fatalities have occurred as a result of rhabdomyolysis in patients treated with statins, including VYTORIN.
 
-The risk of myopathy, including rhabdomyolysis, is dose related.
-In a clinical trial database in which 41,413 patients were treated with simvastatin, 24,747 (approximately 60%) of whom were enrolled in studies with a median follow-up of at least 4 years, the incidence of myopathy was approximately 0.03% and 0.08% at 20 and 40 mg/day, respectively.
-The incidence of myopathy with 80 mg (0.61%) was disproportionately higher than that observed at the lower doses.
-In these trials, patients were carefully monitored and some interacting medicinal products were excluded.
+In clinical trials of 24,747 simvastatin-treated patients with a median follow-up of 4 years, the incidence of myopathy, defined as unexplained muscle weakness, pain, or tenderness accompanied by creatinine kinase (CK) increases greater than ten times the upper limit of normal (10 X ULN), were approximately 0.03%, 0.08%, and 0.61% in patients treated with simvastatin 20 mg, 40 mg, and 80 mg daily, respectively.
+In another clinical trial of 12,064 simvastatin-treated patients (with a history of myocardial infarction) with a mean follow-up of 6.7 years, the incidences of myopathy in patients taking simvastatin 20 mg and 80 mg daily were approximately 0.02% and 0.9%, respectively.
+The incidences of rhabdomyolysis (defined as myopathy with a CK >40 X ULN) in patients taking simvastatin 20 mg and 80 mg daily were approximately 0% and 0.4%, respectively [see Adverse Reactions (6.1)].
 
-In a clinical trial in which 12,064 patients with a history of myocardial infarction were treated with simvastatin (mean follow-up 6.7 years), the incidence of myopathy (defined as unexplained muscle weakness or pain with a serum creatine kinase [CK] >10 times upper limit of normal [ULN]) in patients on 80 mg/day was approximately 0.9% compared with 0.02% for patients on 20 mg/day.
-The incidence of rhabdomyolysis (defined as myopathy with a CK >40 times ULN) in patients on 80 mg/day was approximately 0.4% compared with 0% for patients on 20 mg/day.
-The incidence of myopathy, including rhabdomyolysis, was highest during the first year and then notably decreased during the subsequent years of treatment.
-In this trial, patients were carefully monitored and some interacting medicinal products were excluded.
-
-The risk of myopathy, including rhabdomyolysis, is greater in patients on simvastatin 80 mg compared with other statin therapies with similar or greater LDL-C-lowering efficacy and compared with lower doses of simvastatin.
-Therefore, the 10/80-mg dose of VYTORIN should be used only in patients who have been taking VYTORIN 10/80 mg chronically (e.g., for 12 months or more) without evidence of muscle toxicity [see Dosage and Administration, Restricted Dosing for 10/80 mg (2.2)].
-If, however, a patient who is currently tolerating the 10/80-mg dose of VYTORIN needs to be initiated on an interacting drug that is contraindicated or is associated with a dose cap for simvastatin, that patient should be switched to an alternative statin or statin-based regimen with less potential for the drug-drug interaction.
-Patients should be advised of the increased risk of myopathy, including rhabdomyolysis, and to report promptly any unexplained muscle pain, tenderness or weakness.
-If symptoms occur, treatment should be discontinued immediately [see Warnings and Precautions (5.2)].
-
-In the Study of Heart and Renal Protection (SHARP), 9270 patients with chronic kidney disease were allocated to receive VYTORIN 10/20 mg daily (n=4650) or placebo (n=4620).
+In the Trial of Heart and Renal Protection (SHARP), 9270 patients with chronic kidney disease were allocated to receive VYTORIN 10/20 mg daily (n=4650) or placebo (n=4620).
 During a median follow-up period of 4.9 years, the incidence of myopathy (defined as unexplained muscle weakness or pain with a serum creatine kinase [CK] >10 times upper limit of normal [ULN]) was 0.2% for VYTORIN and 0.1% for placebo: the incidence of rhabdomyolysis (defined as myopathy with a CK > 40 times ULN) was 0.09% for VYTORIN and 0.02% for placebo.
 
 In postmarketing experience with ezetimibe, cases of myopathy and rhabdomyolysis have been reported.
@@ -32,81 +17,61 @@ Most patients who developed rhabdomyolysis were taking a statin prior to initiat
 However, rhabdomyolysis has been reported with ezetimibe monotherapy and with the addition of ezetimibe to agents known to be associated with increased risk of rhabdomyolysis, such as fibric acid derivatives.
 VYTORIN and a fenofibrate, if taking concomitantly, should both be immediately discontinued if myopathy is diagnosed or suspected.
 
-All patients starting therapy with VYTORIN or whose dose of VYTORIN is being increased should be advised of the risk of myopathy, including rhabdomyolysis, and told to report promptly any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing VYTORIN.
-VYTORIN therapy should be discontinued immediately if myopathy is diagnosed or suspected.
-In most cases, muscle symptoms and CK increases resolved when simvastatin treatment was promptly discontinued.
-Periodic CK determinations may be considered in patients starting therapy with VYTORIN or whose dose is being increased, but there is no assurance that such monitoring will prevent myopathy.
+Risk Factors for Myopathy
 
-Many of the patients who have developed rhabdomyolysis on therapy with simvastatin have had complicated medical histories, including renal insufficiency usually as a consequence of long-standing diabetes mellitus.
-Such patients taking VYTORIN merit closer monitoring.
+Risk factors for myopathy include age 65 years or greater, uncontrolled hypothyroidism, renal impairment, concomitant use with certain other drugs (including other lipid-lowering therapies), and higher VYTORIN dosage; Chinese patients on VYTORIN may be at higher risk for myopathy [see Contraindications (4), Drug Interactions (7.1), and Use in Specific Populations (8.8)].
+The risk of myopathy is increased by elevated plasma levels of simvastatin and simvastatin acid.
+The risk is also greater in patients taking VYTORIN 80 mg daily compared with patients taking lower VYTORIN dosages and compared with patients using other statins with similar or greater LDL-C-lowering efficacy [see Adverse Reactions (6.1)].
 
-VYTORIN therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.
-VYTORIN therapy should also be temporarily withheld in any patient experiencing an acute or serious condition predisposing to the development of renal failure secondary to rhabdomyolysis, e.g., sepsis; hypotension; major surgery; trauma; severe metabolic, endocrine, or electrolyte disorders; or uncontrolled epilepsy.
+Steps to Prevent or Reduce the Risk of Myopathy and Rhabdomyolysis
 
-Drug Interactions
+The concomitant use of strong CYP3A4 inhibitors with VYTORIN is contraindicated.
+If short-term treatment with strong CYP3A4 inhibitors is required, temporarily suspend VYTORIN during the duration of strong CYP3A4 inhibitor treatment.
+The concomitant use of VYTORIN with gemfibrozil, cyclosporine, or danazol is also contraindicated [see Contraindications (4) and Drug Interactions (7.1)].
 
-The risk of myopathy and rhabdomyolysis is increased by elevated plasma levels of simvastatin and simvastatin acid.
-Simvastatin is metabolized by the cytochrome P450 isoform 3A4.
-Certain drugs that inhibit this metabolic pathway can raise the plasma levels of simvastatin and may increase the risk of myopathy.
-These include itraconazole, ketoconazole, posaconazole, and voriconazole, the macrolide antibiotics erythromycin and clarithromycin, and the ketolide antibiotic telithromycin, HIV protease inhibitors, boceprevir, telaprevir, the antidepressant nefazodone, cobicistat-containing products, or grapefruit juice.
-[See Clinical Pharmacology (12.3).]
-Combination of these drugs with VYTORIN is contraindicated.
-If short-term treatment with strong CYP3A4 inhibitors is unavoidable, therapy with VYTORIN must be suspended during the course of treatment [see Contraindications (4) and Drug Interactions (7)].
+VYTORIN dosage modifications are recommended for patients taking lomitapide, verapamil, diltiazem, dronedarone, amiodarone, amlodipine or ranolazine [see Dosage and Administration (2.5)].
+VYTORIN use should be temporarily suspended in patients taking daptomycin.
+Lipid modifying doses (≥1 gram/day) of niacin, fibrates, colchicine, and grapefruit juice may also increase the risk of myopathy and rhabdomyolysis [see Drug Interactions (7.1)].
 
-The combined use of VYTORIN with gemfibrozil, cyclosporine, or danazol is contraindicated [see Contraindications (4) and Drug Interactions (7.1 and 7.2)].
+Use the 80 mg daily dosage of VYTORIN only in patients who have been taking simvastatin 80 mg daily chronically without evidence of muscle toxicity [see Dosage and Administration (2.1)].
+If patients treated with VYTORIN 80 mg are prescribed an interacting drug that increases the risk for myopathy and rhabdomyolysis, switch to an alternate statin [see Drug Interactions (7.1)].
 
-Caution should be used when prescribing fenofibrates with VYTORIN, as these agents can cause myopathy when given alone and the risk is increased when they are coadministered [see Drug Interactions (7.2, 7.7)].
+Discontinue VYTORIN if markedly elevated CK levels occur or if myopathy is either diagnosed or suspected.
+Muscle symptoms and CK increases may resolve if VYTORIN is discontinued.
+Temporarily discontinue VYTORIN in patients experiencing an acute or serious condition at high risk of developing renal failure secondary to rhabdomyolysis, e.g., sepsis; shock; severe hypovolemia; major surgery; trauma; severe metabolic, endocrine, or electrolyte disorders; or uncontrolled epilepsy.
 
-Cases of myopathy, including rhabdomyolysis, have been reported with simvastatin coadministered with colchicine, and caution should be exercised when prescribing VYTORIN with colchicine [see Drug Interactions (7.9)].
-
-The benefits of the combined use of VYTORIN with the following drugs should be carefully weighed against the potential risks of combinations: other lipid-lowering drugs (fenofibrates or, for patients with HoFH, lomitapide), amiodarone, dronedarone, verapamil, diltiazem, amlodipine, or ranolazine [see Dosage and Administration (2.4), Drug Interactions (7.3)].
-
-Cases of myopathy, including rhabdomyolysis, have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products [see Drug Interactions (7.4)].
-
-Cases of rhabdomyolysis have been reported with VYTORIN administered with daptomycin.
-Temporarily suspend VYTORIN in patients taking daptomycin [see Drug Interactions (7.10)].
-
-Prescribing recommendations for interacting agents are summarized in Table 1 [see also Dosage and Administration (2.3, 2.4), Drug Interactions (7), and Clinical Pharmacology (12.3)].
-
-Table 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
-
-| Interacting Agents | Prescribing Recommendations |
-| --- | --- |
-| Strong CYP3A4 Inhibitors, e.g.: Itraconazole Ketoconazole Posaconazole Voriconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors Boceprevir Telaprevir Nefazodone Cobicistat-containing products Gemfibrozil Cyclosporine Danazol | Contraindicated with VYTORIN |
-| Niacin (≥1 g/day) | For Chinese patients, not recommended with VYTORIN |
-| Verapamil Diltiazem Dronedarone | Do not exceed 10/10 mg VYTORIN daily |
-| Amiodarone Amlodipine Ranolazine | Do not exceed 10/20 mg VYTORIN daily |
-| Lomitapide | For patients with HoFH, do not exceed 10/20 mg VYTORIN dailyFor patients with HoFH who have been taking 80 mg simvastatin chronically (e.g., for 12 months or more) without evidence of muscle toxicity, do not exceed 10/40 mg VYTORIN when taking lomitapide. |
-| Daptomycin | Temporarily suspend VYTORIN |
-| Grapefruit juice | Avoid grapefruit juice |
+Inform patients of the risk of myopathy and rhabdomyolysis when starting or increasing the VYTORIN dosage and advise patients receiving VYTORIN 80 mg of the increased risk of myopathy and rhabdomyolysis.
+Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness, particularly if accompanied by malaise or fever.
 
 ## 5.2 Immune-Mediated Necrotizing Myopathy
 
-There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
-IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; positive anti-HMG CoA reductase antibody; muscle biopsy showing necrotizing myopathy; and improvement with immunosuppressive agents.
+There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use, including reports of recurrence when the same or a different statin was administered.
+IMNM is characterized by proximal muscle weakness and elevated serum creatine kinase that persist despite discontinuation of statin treatment; positive anti-HMG CoA reductase antibody; muscle biopsy showing necrotizing myopathy without significant inflammation; and improvement with immunosuppressive agents.
 Additional neuromuscular and serologic testing may be necessary.
 Treatment with immunosuppressive agents may be required.
-Consider risk of IMNM carefully prior to initiation of a different statin.
-If therapy is initiated with a different statin, monitor for signs and symptoms of IMNM.
+Discontinue VYTORIN if IMNM is suspected.
 
-## 5.3 Liver Enzymes
+## 5.3 Hepatic Dysfunction
 
-In three placebo-controlled, 12-week trials, the incidence of consecutive elevations (≥3 × ULN) in serum transaminases was 1.7% overall for patients treated with VYTORIN and appeared to be dose-related with an incidence of 2.6% for patients treated with VYTORIN 10/80.
-In controlled long-term (48-week) extensions, which included both newly-treated and previously-treated patients, the incidence of consecutive elevations (≥3 × ULN) in serum transaminases was 1.8% overall and 3.6% for patients treated with VYTORIN 10/80.
+Increases in serum transaminases have been reported with use of VYTORIN [see Adverse Reactions (6.1)].
+In most cases, these changes appeared soon after initiation, were transient, were not accompanied by symptoms, and resolved or improved on continued therapy or after a brief interruption in therapy.
+Marked persistent increases of hepatic transaminases have also occurred with VYTORIN.
+There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including VYTORIN.
+
+In three placebo-controlled, 12-week trials, the incidence of consecutive elevations (≥3 X ULN) in serum transaminases was 1.7% overall for patients treated with VYTORIN and appeared to be dose-related with an incidence of 2.6% for patients treated with VYTORIN 10/80.
+In controlled long-term (48-week) extensions, which included both newly-treated and previously-treated patients, the incidence of consecutive elevations (≥3 X ULN) in serum transaminases was 1.8% overall and 3.6% for patients treated with VYTORIN 10/80.
 These elevations in transaminases were generally asymptomatic, not associated with cholestasis, and returned to baseline after discontinuation of therapy or with continued treatment.
 
 In SHARP, 9270 patients with chronic kidney disease were allocated to receive VYTORIN 10/20 mg daily (n=4650), or placebo (n=4620).
-During a median follow-up period of 4.9 years, the incidence of consecutive elevations of transaminases (>3 × ULN) was 0.7% for VYTORIN and 0.6% for placebo.
+During a median follow-up period of 4.9 years, the incidence of consecutive elevations of transaminases (>3 X ULN) was 0.7% for VYTORIN and 0.6% for placebo.
 
-It is recommended that liver function tests be performed before the initiation of treatment with VYTORIN, and thereafter when clinically indicated.
-There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including simvastatin.
-If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with VYTORIN, promptly interrupt therapy.
-If an alternate etiology is not found do not restart VYTORIN.
-Note that ALT may emanate from muscle, therefore ALT rising with CK may indicate myopathy [see Warnings and Precautions (5.1)].
+Patients who consume substantial quantities of alcohol and/or have a history of liver disease may be at increased risk for hepatic injury.
 
-VYTORIN should be used with caution in patients who consume substantial quantities of alcohol and/or have a past history of liver disease.
-Active liver diseases or unexplained persistent transaminase elevations are contraindications to the use of VYTORIN.
+Consider liver enzyme testing before VYTORIN initiation and when clinically indicated thereafter.
+VYTORIN is contraindicated in patients with acute liver failure or decompensated cirrhosis [see Contraindications (4)].
+If serious hepatic injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs, promptly discontinue VYTORIN.
 
-## 5.4 Endocrine Function
+## 5.4 Increases in HBA1c and Fasting Serum Glucose Levels
 
-Increases in HbA1c and fasting serum glucose levels have been reported with HMG-CoA reductase inhibitors, including simvastatin.
+Increases in HbA1c and fasting serum glucose levels have been reported with statins, including VYTORIN.
+Optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices.

@@ -2,18 +2,8 @@
 
 VYTORIN is contraindicated in the following conditions:
 
-- Concomitant administration of strong CYP3A4 inhibitors (e.g., itraconazole, ketoconazole, posaconazole, voriconazole, HIV protease inhibitors, boceprevir, telaprevir, erythromycin, clarithromycin, telithromycin, nefazodone, and cobicistat-containing products) [see Warnings and Precautions (5.1)].
-- Concomitant administration of gemfibrozil, cyclosporine, or danazol [see Warnings and Precautions (5.1)].
-- Hypersensitivity to any component of this medication [see Adverse Reactions (6.2)].
-- Active liver disease or unexplained persistent elevations in hepatic transaminase levels [see Warnings and Precautions (5.3)].
-- Women who are pregnant or may become pregnant.
-  Serum cholesterol and triglycerides increase during normal pregnancy, and cholesterol or cholesterol derivatives are essential for fetal development.
-  Because HMG-CoA reductase inhibitors (statins), such as simvastatin, decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol, VYTORIN may cause fetal harm when administered to a pregnant woman.
-  Atherosclerosis is a chronic process and the discontinuation of lipid-lowering drugs during pregnancy should have little impact on the outcome of long-term therapy of primary hypercholesterolemia.
-  There are no adequate and well-controlled studies of VYTORIN use during pregnancy; however, in rare reports congenital anomalies were observed following intrauterine exposure to statins.
-  In rat and rabbit animal reproduction studies, simvastatin revealed no evidence of teratogenicity.
-  VYTORIN should be administered to women of childbearing age only when such patients are highly unlikely to conceive.
-  If the patient becomes pregnant while taking this drug, VYTORIN should be discontinued immediately and the patient should be apprised of the potential hazard to the fetus [see Use in Specific Populations (8.1)].
-- Nursing mothers.
-  It is not known whether simvastatin is excreted into human milk; however, a small amount of another drug in this class does pass into breast milk.
-  Because statins have the potential for serious adverse reactions in nursing infants, women who require VYTORIN treatment should not breastfeed their infants [see Use in Specific Populations (8.3)].
+- Concomitant use of strong CYP3A4 inhibitors (select azole anti-fungals, macrolide antibiotics, anti-viral medications, and nefazodone) [see Drug Interactions (7.1)].
+- Concomitant use of cyclosporine, danazol, or danazol [see Drug Interactions (7.1)].
+- Acute liver failure or decompensated cirrhosis [see Warnings and Precautions (5.3)].
+- Hypersensitivity to simvastatin, ezetimibe, or any excipients in VYTORIN.
+  Hypersensitivity reactions, including anaphylaxis, angioedema, and Stevens-Johnson syndrome, have been reported [see Adverse Reactions (6.2)].

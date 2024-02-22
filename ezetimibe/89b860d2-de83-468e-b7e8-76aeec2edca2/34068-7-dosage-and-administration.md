@@ -1,49 +1,39 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosing
+## 2.1 Important Dosage and Administration Information
 
-The usual dosage range is 10/10 mg/day to 10/40 mg/day.
-The recommended usual starting dose is 10/10 mg/day or 10/20 mg/day.
-VYTORIN should be taken as a single daily dose in the evening, with or without food.
-Patients who require a larger reduction in LDL-C (greater than 55%) may be started at 10/40 mg/day in the absence of moderate to severe renal impairment (estimated glomerular filtration rate less than 60 mL/min/1.73 m2).
-After initiation or titration of VYTORIN, lipid levels may be analyzed after 2 or more weeks and dosage adjusted, if needed.
+- Take VYTORIN orally once daily in the evening with or without food.
+- The maximum recommended dosage is VYTORIN 10/40 mg once daily.
+  The VYTORIN 10/80 mg daily dosage is restricted to adult patients who have been taking VYTORIN 10/80 mg daily chronically (e.g., for 12 months or more) without evidence of muscle toxicity [see Warnings and Precautions (5.1)].
+- For patients that require a high-intensity statin or are unable to achieve their LDL-C goal receiving VYTORIN 10/40 mg daily, prescribe alternative LDL-C-lowering treatment.
+- If as dose is missed, take the missed dose as soon as possible.
+  Do not double the next dose.
+- Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating VYTORIN, and adjust the dosage if necessary.
 
-## 2.2 Restricted Dosing for 10/80 mg
+## 2.2 Recommended Dosage in Adult Patients
 
-Due to the increased risk of myopathy, including rhabdomyolysis, particularly during the first year of treatment, use of the 10/80-mg dose of VYTORIN should be restricted to patients who have been taking VYTORIN 10/80 mg chronically (e.g., for 12 months or more) without evidence of muscle toxicity [see Warnings and Precautions (5.1)].
+The recommended dosage range of VYTORIN 10/10 mg to 10/40 mg once a day.
 
-Patients who are currently tolerating the 10/80-mg dose of VYTORIN who need to be initiated on an interacting drug that is contraindicated or is associated with a dose cap for simvastatin should be switched to an alternative statin or statin-based regimen with less potential for the drug-drug interaction.
+## 2.3 Recommended Dosage in Pediatric Patients10 Years of Age and Older with HeFH
 
-Due to the increased risk of myopathy, including rhabdomyolysis, associated with the 10/80-mg dose of VYTORIN, patients unable to achieve their LDL-C goal utilizing the 10/40-mg dose of VYTORIN should not be titrated to the 10/80-mg dose, but should be placed on alternative LDL-C-lowering treatment(s) that provides greater LDL-C lowering.
+The recommended dosage range of VYTORIN 10/10 mg to 10/40 mg once a day.
 
-## 2.3 Coadministration with Other Drugs
+## 2.4 Recommended Dosage in Patients with Renal Impairment
 
-Patients taking Verapamil, Diltiazem, or Dronedarone
+Renal impairment is a risk factor for statin-associated myopathy.
+Doses of VYTORIN exceeding 10/20 mg should be used with caution and close monitoring in patients with moderate to severe renal impairment [see Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
 
-- The dose of VYTORIN should not exceed 10/10 mg/day [see Warnings and Precautions (5.1), Drug Interactions (7.3), and Clinical Pharmacology (12.3)].
+There are no dosage adjustment recommendations for patients with mild renal impairment.
 
-Patients taking Amiodarone, Amlodipine or Ranolazine
+## 2.5 Dosage Modifications Due to Drug Interactions
 
-- The dose of VYTORIN should not exceed 10/20 mg/day [see Warnings and Precautions (5.1), Drug Interactions (7.3), and Clinical Pharmacology (12.3)].
+Concomitant use of VYTORIN with the following drugs requires dosage modification of VYTORIN [see Warnings and Precautions (5.1) and Drug Interactions (7.1)].
 
-Patients taking Bile Acid Sequestrants
+Patients taking Lomitapide Reduce the dosage of VYTORIN by 50%.
+Do not exceed VYTORIN 10/20 mg once daily (or 10/40 mg once daily for patients who have previously taken VYTORIN 10/80 mg daily chronically while taking lomitapide) [see Dosage and Administration (2.1)].
 
-- Dosing of VYTORIN should occur either greater than or equal to 2 hours before or greater than or equal to 4 hours after administration of a bile acid sequestrant [see Drug Interactions (7.5)].
+Patients taking Verapamil, Diltiazem, or Dronedarone Do not exceed VYTORIN 10/10 mg once daily.
 
-## 2.4 Patients with Homozygous Familial Hypercholesterolemia
+Patients taking Amiodarone, Amlodipine, or Ranolazine Do not exceed VYTORIN 10/20 mg once daily.
 
-The recommended dosage for patients with homozygous familial hypercholesterolemia is VYTORIN 10/40 mg/day in the evening [see Dosage and Administration, Restricted Dosing for 10/80 mg (2.2)].
-VYTORIN should be used as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) in these patients or if such treatments are unavailable.
-
-Simvastatin exposure is approximately doubled with concomitant use of lomitapide; therefore, the dose of VYTORIN should be reduced by 50% if initiating lomitapide.
-VYTORIN dosage should not exceed 10/20 mg/day (or 10/40 mg/day for patients who have previously taken simvastatin 80 mg/day chronically, e.g., for 12 months or more, without evidence of muscle toxicity) while taking lomitapide.
-
-## 2.5 Patients with Renal Impairment/Chronic Kidney Disease
-
-In patients with mild renal impairment (estimated GFR greater than or equal to 60 mL/min/1.73 m2), no dosage adjustment is necessary.
-In patients with chronic kidney disease and estimated glomerular filtration rate less than 60 mL/min/1.73 m2, the dose of VYTORIN is 10/20 mg/day in the evening.
-In such patients, higher doses should be used with caution and close monitoring [see Warnings and Precautions (5.1); Clinical Pharmacology (12.3)].
-
-## 2.6 Geriatric Patients
-
-No dosage adjustment is necessary in geriatric patients [see Clinical Pharmacology (12.3)].
+Patients taking Bile Acid Sequestrants In patients taking a bile acid sequestrant, administer VYTORIN at least 2 hours before or 4 hours after the bile acid sequestrant.
