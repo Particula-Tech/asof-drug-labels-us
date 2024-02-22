@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE
+# INDICATIONS
 
 Diazepam tablets are indicated for the management of anxiety disorders or for the short-term relief of the symptoms of anxiety.
 Anxiety or tension associated with the stress of everyday life usually does not require treatment with an anxiolytic.

@@ -17,7 +17,7 @@ This results in an average decrease in Cmax of 20% in addition to a 27% decrease
 
 Diazepam and its metabolites are highly bound to plasma proteins (diazepam 98%).
 Diazepam and its metabolites cross the blood-brain and placental barriers and are also found in breast milk in concentrations approximately one tenth of those in maternal plasma (days 3 to 9 post-partum).
-In young healthy males, the volume of distribution at steady-state is 0.8 to 1 L/kg.
+In young healthy males, the volume of distribution at steady-state is 0.8 to 1.0 L/kg.
 The decline in the plasma concentration-time profile after oral administration is biphasic.
 The initial distribution phase has a half-life of approximately 1 hour, although it may range up to >3 hours.
 
@@ -59,7 +59,7 @@ Reported changes in free drug may be due to significant decreases in plasma prot
 ### Hepatic Insufficiency
 
 In mild and moderate cirrhosis, average half-life is increased.
-The average increase has been variously reported from 2- fold to 5-fold, with individual half-lives over 500 hours reported.
+The average increase has been variously reported from 2-fold to 5-fold, with individual half-lives over 500 hours reported.
 There is also an increase in volume of distribution, and average clearance decreases by almost half.
 Mean half-life is also prolonged with hepatic fibrosis to 90 hours (range 66 to 104 hours), with chronic active hepatitis to 60 hours (range 26 to 76 hours), and with acute viral hepatitis to 74 hours (range 49 to 129).
 In chronic active hepatitis, clearance is decreased by almost half.
