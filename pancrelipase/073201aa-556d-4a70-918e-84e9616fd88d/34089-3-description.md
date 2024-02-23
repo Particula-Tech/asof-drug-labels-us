@@ -2,9 +2,7 @@
 
 Pancrelipase is a pancreatic enzyme preparation consisting of a combination of lipases, proteases, and amylases and is an extract derived from porcine pancreatic glands.
 
-CREON (pancrelipase)
-
-delayed-release capsules are for oral administration and include a two-piece shell containing tan-colored enteric-coated spheres (0.71 mm to 1.60 mm in diameter) available as follows:
+CREON (pancrelipase) delayed-release capsules are for oral administration and include a two-piece shell containing tan-colored enteric-coated spheres (0.71 mm to 1.60 mm in diameter) available as follows:
 
 3,000 USP units of lipase; 9,500 USP units of protease; and 15,000 USP units of amylase delayed-release capsules with shells that contain hypromellose and titanium dioxide, and that also may contain carrageenan and potassium chloride.
 

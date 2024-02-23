@@ -67,13 +67,7 @@ Postmarketing data from this formulation of CREON have been available since 2009
 The following adverse reactions have been identified during post approval use of this formulation of CREON.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal disorders (including abdominal pain, diarrhea,
-
-flatulence, constipation and nausea), skin disorders (including pruritus,
-
-urticaria and rash), blurred vision, myalgia, muscle spasm, and asymptomatic elevations of liver
-
-enzymes have been reported with this formulation of CREON.
+Gastrointestinal disorders (including abdominal pain, diarrhea, flatulence, constipation and nausea), skin disorders (including pruritus, urticaria and rash), blurred vision, myalgia, muscle spasm, and asymptomatic elevations of liver enzymes have been reported with this formulation of CREON.
 
 Delayed- and immediate-release pancreatic enzyme products with different formulations of the same active ingredient (pancrelipase) have been used for the treatment of patients with exocrine pancreatic insufficiency due to cystic fibrosis and other conditions, such as chronic pancreatitis.
 The long-term safety profile of these products has been described in the medical literature.
