@@ -43,7 +43,7 @@ The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute val
 
 Manifestations of acute or chronic metabolic acidosis may include hyperventilation, nonspecific symptoms such as fatigue and anorexia, or more severe sequelae including cardiac arrhythmias or stupor.
 Chronic, untreated metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis and may also result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fractures [see Warnings and Precautions (5.9, 5.13)].
-A one-year, active-controlled study of pediatric patients treated with immediate-release topiramate demonstrated that topiramate decreased lumbar spine bone mineral density and that this lumbar spine bone mineral density decrease was correlated (using change from baseline for lumbar spine Z score at final visit versus lowest post-treatment serum bicarbonate) with decreased serum bicarbonate, a reflection of metabolic acidosis [see Warnings and Precautions (5.9), Use in Specific Populations(8.4)].
+A one-year, active-controlled study of pediatric patients treated with immediate-release topiramate demonstrated that topiramate decreased lumbar spine bone mineral density and that this lumbar spine bone mineral density decrease was correlated (using change from baseline for lumbar spine Z score at final visit versus lowest post-treatment serum bicarbonate) with decreased serum bicarbonate, a reflection of metabolic acidosis [see Warnings and Precautions (5.9), Use in Specific Populations (8.4)].
 Chronic metabolic acidosis in pediatric patients may also reduce growth rates, which may decrease the maximal height achieved.
 Long-term, open-label treatment of pediatric patients 1 to 24 months old with intractable partial epilepsy, for up to 1 year, showed reductions from baseline in length, weight, and head circumference compared to age and sex-matched normative data, although these patients with epilepsy are likely to have different growth rates than normal 1 to 24-month old patients.
 Reductions in length and weight were correlated to the degree of acidosis [see Use in Specific Populations (8.4)].
@@ -138,7 +138,7 @@ Mean change from baseline in certain CANTAB tests suggests that topiramate treat
 ## 5.7 Fetal Toxicity
 
 QUDEXY XR can cause fetal harm when administered to a pregnant woman.
-Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk of major congenital malformation, including but not limited to cleft lip and/or cleft palate (oral clefts) and of being small for gestational age (SGA).
+Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk of major congenital malformation, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being small for gestational age (SGA).
 When multiple species of pregnant animals received topiramate at clinically relevant doses, structural malformations, including craniofacial defects, and reduced fetal weights occurred in offspring [see Use in Specific Populations (8.1)].
 
 Consider the benefits and risks of QUDEXY XR when administering this drug in women of childbearing potential, particularly when QUDEXY XR is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
@@ -153,7 +153,7 @@ In situations where rapid withdrawal of QUDEXY XR is medically required, appropr
 ## 5.9 Decrease in Bone Mineral Density
 
 Results of a one-year active-controlled study in pediatric patients (N=63) demonstrated negative effects of immediate-release topiramate monotherapy on bone mineral acquisition via statistically significant decreases in bone mineral density (BMD) measured in lumbar spine and in total body less head [see Use in Specific Populations (8.4)].
-Twenty one-percent of immediate-release topiramate-treated patients experienced clinically important reductions in BMD (Z score change from baseline of -0.5 or greater) compared to 0 patients in the control group.
+Twenty-one percent of immediate-release topiramate-treated patients experienced clinically important reductions in BMD (Z score change from baseline of -0.5 or greater) compared to 0 patients in the control group.
 Although decreases in BMD occurred across all pediatric age subgroups, patients 6 to 9 years of age were most commonly affected.
 The sample size and study duration were too small to determine if fracture risk is increased.
 Decreased BMD in the lumbar spine was correlated with decreased serum bicarbonate, which commonly occurs with topiramate treatment and reflects metabolic acidosis, a known cause of increased bone resorption [see Warnings and Precautions (5.4)].

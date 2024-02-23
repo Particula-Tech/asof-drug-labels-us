@@ -156,9 +156,9 @@ It is not possible to know whether this mortality rate is related to immediate-r
 
 Monotherapy Treatment Epilepsy
 
-Patients Patients 2 Years of Age and Older
+Pediatric Patients 2 Years of Age and Older
 
-The safety and effectiveness of QUDEXY XR as monotherapy for the treatment of partial-onset seizures or primary generalized tonic-clonic seizures have been established in pediatric patients aged 2 years and older [see Adverse Reactions (6.1), Clinical Studies (14.1)].
+The safety and effectiveness of QUDEXY XR as monotherapy for the treatment of partial-onset seizures or primary generalized tonic-clonic seizures have been established in pediatric patients aged 2 years and older and is based on controlled trials with immediate-release topiramate [see Adverse Reactions (6.1), Clinical Studies (14.1)].
 
 A one-year, active-controlled, open-label study with blinded assessments of bone mineral density (BMD) and growth in pediatric patients 4 to 15 years of age, including 63 patients with recent or new onset of epilepsy, was conducted to assess effects of immediate-release topiramate (N=28, 6 to 15 years of age) versus levetiracetam (N=35, 4 to 15 years of age) monotherapy on bone mineralization and on height and weight, which reflect growth.
 Effects on bone mineralization were evaluated via dual-energy X-ray absorptiometry and blood markers.

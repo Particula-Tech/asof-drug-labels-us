@@ -177,7 +177,7 @@ Table 6: Most Common Adverse Reactions in Pooled Placebo-Controlled, Adjunctive 
 
 In controlled clinical trials in adults, 11% of patients receiving immediate-release topiramate 200 to 400 mg/day as adjunctive therapy discontinued due to adverse reactions.
 This rate appeared to increase at dosages above 400 mg/day.
-Adverse reactions associated with discontinuing therapy included somnolence, dizziness, anxiety, difficulty with concentration or attention, fatigue and paresthesia.
+Adverse reactions associated with discontinuing therapy included somnolence, dizziness, anxiety, difficulty with concentration or attention, fatigue, and paresthesia.
 
 Pediatric Patients 2 to 15 Years of Age
 

@@ -18,10 +18,10 @@ Patients should be monitored for the appearance or worsening of metabolic acidos
 Concomitant administration of topiramate and alcohol or other CNS depressant drugs has not been evaluated in clinical studies.
 Because of the potential of topiramate to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse reactions, QUDEXY XR should be used with extreme caution if used in combination with alcohol and other CNS depressants.
 
-## 7.4 Oral Contraceptives
+## 7.4 Contraceptives
 
-The possibility of decreased contraceptive efficacy and increased breakthrough bleeding may occur in patients taking combination oral contraceptive products with QUDEXY XR.
-Patients taking estrogen-containing contraceptives should be asked to report any change in their bleeding patterns.
+The possibility of decreased contraceptive efficacy and increased breakthrough bleeding may occur in patients taking combination contraceptive products with QUDEXY XR.
+Patients taking estrogen-containing or progestin-only contraceptives should be asked to report any change in their bleeding patterns.
 Contraceptive efficacy can be decreased even in the absence of breakthrough bleeding [see Clinical Pharmacology (12.3)].
 
 ## 7.5 Hydrochlorothiazide (HCTZ)
