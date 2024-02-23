@@ -30,7 +30,7 @@ Adults
 The adverse reactions reported below are specific to the clinical trials with TREXIMET 85/500 mg.
 See also the full prescribing information for naproxen and sumatriptan products.
 
-Table 1 lists adverse reactions that occurred in 2 placebo controlled clinical trials (Study 1 and 2) in adult patients who received 1 dose of study drug.
+Table 1 lists adverse reactions that occurred in 2 placebo-controlled clinical trials (Study 1 and 2) in adult patients who received 1 dose of study drug.
 Only adverse reactions that occurred at a frequency of 2% or more in any group treated with TREXIMET 85/500 mg and that occurred at a frequency greater than the placebo group are included in Table 1.
 
 Table 1.

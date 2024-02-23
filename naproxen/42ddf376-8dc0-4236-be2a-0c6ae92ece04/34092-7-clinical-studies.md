@@ -23,7 +23,7 @@ Percentage of Adult Patients with 2-Hour Pain Relief and Sustained Pain Free Fol
 | Study 1 | 65%P<0.05 versus placebo and sumatriptan. n = 364 | 55% n = 361 | 44% n = 356 | 28% n = 360 |
 | Study 2 | 57% n = 362 | 50% n = 362 | 43% n = 364 | 29% n = 382 |
 | Sustained Pain Free (2-24 Hours) |  |  |  |  |
-| Study 1 | 25%P<0.01 versus placebo, sumatriptan, and naproxen sodium. n = 364 | 16% n = 361 | 10% n = 356 | 8% n = 360 |
+| Study 1 | 25%P <0.01 versus placebo, sumatriptan, and naproxen sodium. n = 364 | 16% n = 361 | 10% n = 356 | 8% n = 360 |
 | Study 2 | 23% n = 362 | 14% n = 362 | 10% n = 364 | 7% n = 382 |
 
 The percentage of patients achieving initial headache pain relief within 2 hours following treatment with TREXIMET 85/500 mg is shown in Figure 1.
@@ -37,7 +37,7 @@ The estimated probability of taking a rescue medication over the first 24 hours 
 | Figure 2. Estimated Probability of Adults Taking a Rescue Medication over the 24 Hours following the First DoseKaplan-Meier plot based on data obtained in the 2 clinical controlled trials providing evidence of efficacy with patients not using additional treatments censored to 24 hours. Plot also includes patients who had no response to the initial dose. No rescue medication was allowed within 2 hours postdose. |
 | --- |
 
-TREXIMET 85/500 mg was more effective than placebo regardless of the presence of aura; duration of headache prior to treatment; gender, age, or weight of the subject; or concomitant use of oral contraceptives or common migraine prophylactic drugs (e.g., beta blockers, anti epileptic drugs, tricyclic antidepressants).
+TREXIMET 85/500 mg was more effective than placebo regardless of the presence of aura; duration of headache prior to treatment; gender, age, or weight of the subject; or concomitant use of oral contraceptives or common migraine prophylactic drugs (e.g., beta-blockers, anti-epileptic drugs, tricyclic antidepressants).
 
 ## 14.2 Pediatric Patients 12 to 17 Years of Age
 

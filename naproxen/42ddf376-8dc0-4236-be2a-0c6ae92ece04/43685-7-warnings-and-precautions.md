@@ -4,7 +4,7 @@
 
 The use of TREXIMET is contraindicated in patients with ischemic or vasospastic coronary artery disease (CAD) and in the setting of coronary artery bypass graft (CABG) surgery due to increased risk of serious cardiovascular events with sumatriptan and NSAIDS [see Contraindications (4)].
 
-Cardiovascular Events With Sumatriptan
+Cardiovascular Events with Sumatriptan
 
 There have been rare reports of serious cardiac adverse reactions, including acute myocardial infarction, occurring within a few hours following administration of sumatriptan.
 Some of these reactions occurred in patients without known CAD.
@@ -96,7 +96,7 @@ TREXIMET is contraindicated in patients with a history of stroke or TIA [see Con
 
 ## 5.6 Other Vasospasm Reactions
 
-Sumatriptan may cause non-coronary vasospastic reactions, such as peripheral vascular ischemia, gastrointestinal vascular ischemia and infarction (presenting with abdominal pain and bloody diarrhea), splenic infarction, and Raynaud's syndrome.
+Sumatriptan may cause non-coronary vasospastic reactions, such as peripheral vascular ischemia, gastrointestinal vascular ischemia and infarction (presenting with abdominal pain and bloody diarrhea), splenic infarction, and Raynaud′s syndrome.
 In patients who experience symptoms or signs suggestive of non-coronary vasospasm reaction following the use of any 5-HT1 agonist, rule out a vasospastic reaction before receiving additional TREXIMET.
 
 Reports of transient and permanent blindness and significant partial vision loss have been reported with the use of 5-HT1 agonists.

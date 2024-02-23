@@ -107,7 +107,7 @@ The highest no-effect dose was 50 mg/kg/day, or approximately 3 times the MRHD o
 In offspring of pregnant rats treated orally with sumatriptan during organogenesis, there was a decrease in pup survival.
 The highest no-effect dose for this effect was 60 mg/kg/day, or approximately 3 times the MRHD on a mg/m2 basis.
 Oral treatment of pregnant rats with sumatriptan during the latter part of gestation and throughout lactation resulted in a decrease in pup survival.
-The highest no-effect dose for this finding was 100 mg/ kg/day, or approximately 6 times the MRHD on a mg/m2 basis.
+The highest no-effect dose for this finding was 100 mg/kg/day, or approximately 6 times the MRHD on a mg/m2 basis.
 
 In reproduction studies of naproxen in rats (20 mg/kg/day), rabbits (20 mg/kg/day, and mice (170 mg/kg/day, no evidence of impaired fertility or harm to the fetus was observed.
 The doses tested in rats, rabbits, and mice were less (≤0.8 times) the MRHD, based on body surface area (mg/m2) comparisons.

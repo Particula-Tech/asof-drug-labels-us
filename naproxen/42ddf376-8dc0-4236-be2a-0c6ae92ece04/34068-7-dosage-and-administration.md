@@ -2,7 +2,8 @@
 
 ## 2.1 Dosage in Adults
 
-The recommended dosage for adults is 1 tablet ofTREXIMET 85/500 mg.TREXIMET 85/500 mg contains a dose of sumatriptan higher than the lowest effective dose.
+The recommended dosage for adults is 1 tablet of TREXIMET 85/500 mg.
+TREXIMET 85/500 mg contains a dose of sumatriptan higher than the lowest effective dose.
 The choice of the dose of sumatriptan, and of the use of a fixed combination such as in TREXIMET 85/500 mg should be made on an individual basis, weighing the possible benefit of a higher dose of sumatriptan with the potential for a greater risk of adverse reactions.
 
 The maximum recommended dosage in a 24-hour period is 2 tablets, taken at least 2 hours apart.
