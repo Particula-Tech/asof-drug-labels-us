@@ -66,7 +66,7 @@ Table 5: Clinical Trials of Onychomycosis of the Fingernail: Adverse Events Lead
 
 | Adverse Event | Incidence (%) Itraconazole (N=37) |
 | --- | --- |
-| Rash/ Pruritus | 3 |
+| Rash/Pruritus | 3 |
 | Hypertriglyceridemia | 3 |
 
 The following adverse events occurred with an incidence of greater than or equal to 1% (N=37): headache: 8%; pruritus, nausea, rhinitis: 5%; rash, bursitis, anxiety, depression, constipation, abdominal pain, dyspepsia, ulcerative stomatitis, gingivitis, hypertriglyceridemia, sinusitis, fatigue, malaise, pain, injury: 3%.
@@ -121,7 +121,7 @@ Table 6: Post-marketing Reports of Adverse Drug Reactions
 | General Disorders and Administration Site Conditions: | Peripheral edema |
 | Investigations: | Blood creatine phosphokinase increased |
 
-There is limited information on the use of itraconazoleduring pregnancy.
+There is limited information on the use of itraconazole during pregnancy.
 Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during post-marketing experience.
-A causal relationship with itraconazolehas not been established.
+A causal relationship with itraconazole has not been established.
 (See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Drug Interactions for more information.)
