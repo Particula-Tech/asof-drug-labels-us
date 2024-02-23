@@ -23,7 +23,7 @@ Pitavastatin was absorbed in the small intestine but very little in the colon.
 
 Effect of Food Administration of pitavastatin with a high fat meal (50% fat content) decreases pitavastatin Cmax by 43% but does not significantly reduce pitavastatin AUC.
 
-Distribution Pitavastatin is more than 99% protein bound in human plasma, mainly to albumin and alpha 1-acid glycoprotein, and the mean volume of distribution is approximately 148 L. Association of pitavastatin and/or its metabolites with the blood cells is minimal.
+Distribution Pitavastatin is more than 99% protein bound in human plasma, mainly to albumin and alpha 1-acid glycoprotein, and the mean volume of distribution is approximately 148 L.
 
 Elimination Metabolism The principal route of pitavastatin metabolism is glucuronidation via liver uridine 5'-diphosphate glucuronosyltransferase (UGT) with subsequent formation of pitavastatin lactone.
 There is only minimal metabolism by the cytochrome P450 system.
@@ -33,40 +33,45 @@ The major metabolite in human plasma is the lactone which is formed via an ester
 Excretion A mean of 15% of radioactivity of orally administered, single 32 mg 14C-labeled pitavastatin dose was excreted in urine, whereas a mean of 79% of the dose was excreted in feces within 7 days.
 The mean plasma elimination half-life is approximately 12 hours.
 
-Specific Populations Racial or Ethnic Groups In pharmacokinetic studies pitavastatin Cmax and AUC were 21 and 5% lower, respectively in Black or African American healthy volunteers compared with those of Caucasian healthy volunteers.
-In pharmacokinetic comparison between Caucasian volunteers and Japanese volunteers, there were no significant differences in Cmax and AUC.
+Specific Populations Geriatric Patients In a pharmacokinetic study which compared healthy young and geriatric (≥65 years) volunteers, pitavastatin Cmax and AUC were 10 and 30% higher, respectively, in the geriatric patients [see Use in Specific Populations (8.5)].
 
-Male and Female Patients In a pharmacokinetic study which compared healthy male and female volunteers, pitavastatin Cmax and AUC were 60 and 54% higher, respectively in females.
+Pediatric Patients Pediatric use information is approved for Kowa Co Ltd LIVALO (pitavastatin) tablets.
+However, due to Kowa Co Ltd marketing exclusivity rights, this drug product is not labeled with that information.
 
-Geriatric Patients In a pharmacokinetic study which compared healthy young and geriatric (≥ 65 years) volunteers, pitavastatin Cmax and AUC were 10 and 30% higher, respectively, in the geriatric patients [see Use in Specific Populations (8.5)]
+Male and Female Patients In a pharmacokinetic study, which compared healthy male and female volunteers, pitavastatin Cmax and AUC were 60 and 54% higher, respectively in females.
 
-Pediatric Patients Pediatric use information is approved for Kowa Co Ltd’s LIVALO (pitavastatin) tablets.
-However, due to Kowa Co Ltd’s marketing exclusivity rights, this drug product is not labeled with that information.
+Racial or Ethnic Groups In pharmacokinetic studies pitavastatin Cmax and AUC were 21 and 5% lower, respectively in Black or African American healthy volunteers compared with those of White healthy volunteers.
+In pharmacokinetic comparison between Whitevolunteers and Japanese volunteers, there were no significant differences in Cmax and AUC.
 
 Patients with Renal Impairment
 
-In patients with moderate renal impairment (estimated glomerular filtration rate of 30 mL/min/1.73 m2 to 59 mL/min/1.73 m2) and end stage renal disease receiving hemodialysis, pitavastatin AUC0-inf is 102% and 86% higher than those of healthy volunteers, respectively, while pitavastatin Cmax is 60% and 40% higher than those of healthy volunteers, respectively.
+In adult patients with moderate renal impairment (estimated glomerular filtration rate of 30 mL/min/1.73 m2 to 59 mL/min/1.73 m2) and end stage renal disease receiving hemodialysis, pitavastatin AUC0-inf is 102% and 86% higher than those of healthy volunteers, respectively, while pitavastatin Cmax is 60% and 40% higher than those of healthy volunteers, respectively.
 Patients received hemodialysis immediately before pitavastatin dosing and did not undergo hemodialysis during the pharmacokinetic study.
 Hemodialysis patients have 33% and 36% increases in the mean unbound fraction of pitavastatin as compared to healthy volunteers and patients with moderate renal impairment, respectively [see Use in Specific Populations (8.6)].
 
-In another pharmacokinetic study, patients with severe renal impairment (estimated glomerular filtration rate 15 mL/min/1.73 m2 to 29 mL/min/1.73 m2) not receiving hemodialysis were administered a single dose of pitavastatin 4 mg.
+In another pharmacokinetic study, adult patients with severe renal impairment (estimated glomerular filtration rate 15 mL/min/1.73 m2 to 29 mL/min/1.73 m2) not receiving hemodialysis were administered a single dose of pitavastatin 4 mg.
 The AUC0-inf and the Cmax were 36% and 18% higher, respectively, compared with those of healthy volunteers.
 For both patients with severe renal impairment and healthy volunteers, the mean percentage of protein-unbound pitavastatin was approximately 0.6% [see Use in Specific Populations (8.6)].
 
 The effect of mild renal impairment on pitavastatin exposure has not been studied.
 
-Patients with Hepatic Impairment The disposition of pitavastatin was compared in healthy volunteers and patients with various degrees of hepatic impairment.
+Patients with Hepatic Impairment
+
+The disposition of pitavastatin was compared in healthy volunteers and patients with various degrees of hepatic impairment.
 Pitavastatin Cmax and AUCinf in patients with moderate hepatic impairment (Child-Pugh B disease) was 2.7-fold and 3.8-fold higher, respectively as compared to health volunteers.
 In patients with mild hepatic impairment (Child-Pugh A disease), pitavastatin Cmax and AUCinf were 30% and 60% higher as compared to healthy volunteers.
 Mean pitavastatin half-life for moderate hepatic impairment, mild hepatic impairment, and healthy were 15, 10, and 8 hours, respectively [see Contraindications (4), Warnings and Precautions (5.3)].
 
 Drug Interaction Studies
 
-Warfarin The steady-state pharmacodynamics (international normalized ratio [INR] and prothrombin time [PT]) and pharmacokinetics of warfarin in healthy volunteers were unaffected by the coadministration of pitavastatin 4 mg daily.
+Warfarin
+
+The steady-state pharmacodynamics (international normalized ratio [INR] and prothrombin time [PT]) and pharmacokinetics of warfarin in healthy volunteers were unaffected by the coadministration of pitavastatin 4 mg daily.
 
 Table 3 presents the effect of coadministered drugs on pitavastatin systemic exposure:
 
-Table 3 Effect of Coadministered Drugs on Pitavastatin Systemic Exposure
+Table 3.
+Effect of Coadministered Drugs on Pitavastatin Systemic Exposure
 
 | Coadministered drug | Dosage regimen | Change in AUC* | Change in C max* |
 | --- | --- | --- | --- |
@@ -90,7 +95,8 @@ Table 3 Effect of Coadministered Drugs on Pitavastatin Systemic Exposure
 
 Table 4 presents the effect of pitavastatin coadministration on systemic exposure of other drugs:
 
-Table 4 Effect of Pitavastatin Coadministration on Systemic Exposure to Other Drugs
+Table 4.
+Effect of Pitavastatin Coadministration on Systemic Exposure to Other Drugs
 
 | Coadministered drug | Dose regimen |  | Change in AUC* | Change in C max * |
 | --- | --- | --- | --- | --- |

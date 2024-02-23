@@ -11,12 +11,10 @@ The following serious adverse reactions are discussed in other sections of the l
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of one drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-Adverse Reactions in Adults with Primary Hyperlipidemia and Mixed Dyslipidemia
-
-In 10 controlled clinical studies and 4 subsequent open-label extension studies, 3,291 adult patients with primary hyperlipidemia or mixed dyslipidemia were administered pitavastatin 1 mg to 4 mg daily.
+Adverse Reactions in Adults with Primary Hyperlipidemia In 10 controlled clinical studies and 4 subsequent open-label extension studies, 3,291 adult patients with primary hyperlipidemia were administered pitavastatin 1 mg to 4 mg daily.
 The mean continuous exposure of pitavastatin (1 mg to 4 mg) was 36.7 weeks (median 51.1 weeks).
-The mean age of the patients was 60.9 years (range; 18 years – 89 years) and the gender distribution was 48% males and 52% females.
-Approximately 93% of the patients were Caucasian, 7% were Asian/Indian, 0.2% were African American and 0.3% were Hispanic and other.
+The mean age of the patients was 60.9 years (range; 18 years – 89 years) and 52% females.
+Approximately 93% of the patients were White 7% were Asian/Indian, 0.2% were African American and 0.3% were Hispanic and other.
 
 In controlled clinical studies and their open-label extensions, 3.9% (1 mg), 3.3% (2 mg), and 3.7% (4 mg) of pitavastatin-treated patients were discontinued due to adverse reactions.
 The most common adverse reactions that led to treatment discontinuation were: elevated creatine phosphokinase (0.6% on 4 mg) and myalgia (0.5% on 4 mg).
@@ -29,10 +27,10 @@ Adverse Reactions (≥ 2% and ≥ placebo) in Adult Patients with Primary Hyperl
 
 | Adverse Reactions | Placebo N=208% | Pitavastatin 1 mg N=309% | Pitavastatin 2 mg N=951% | Pitavastatin 4 mg N=1540% |
 | --- | --- | --- | --- | --- |
-| Back Pain | 2.9 | 3.9 | 1.8 | 1.4 |
+| Myalgia | 1.4 | 1.9 | 2.8 | 3.1 |
 | Constipation | 1.9 | 3.6 | 1.5 | 2.2 |
 | Diarrhea | 1.9 | 2.6 | 1.5 | 1.9 |
-| Myalgia | 1.4 | 1.9 | 2.8 | 3.1 |
+| Back pain | 2.9 | 3.9 | 1.8 | 1.4 |
 | Pain in extremity | 1.9 | 2.3 | 0.6 | 0.9 |
 
 Other adverse reactions reported from clinical studies were arthralgia, headache, influenza, and nasopharyngitis.
@@ -70,12 +68,14 @@ Metabolism and nutrition disorders: increases in HbA1c, fasting serum glucose le
 
 Musculoskeletal and connective tissue disorders: muscle spasms, myopathy, rhabdomyolysis
 
-Nervous system disorders: hypoesthesia, peripheral neuropathy
+Nervous system disorders: hypoesthesia, peripheral neuropathy, rare reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
+Cognitive impairment was generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
+There have been rare reports of new-onset or exacerbation of myasthenia gravis, including ocular myasthenia, and reports of recurrence when the same or a different statin was administered.
 
 Psychiatric disorders: insomnia, depression.
-Rare reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
-Cognitive impairment was generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
 
 Reproductive system and breast disorders: erectile dysfunction
 
 Respiratory, thoracic and mediastinal disorders: interstitial lung disease
+
+Skin and subcutaneous tissue disorders: lichen planus

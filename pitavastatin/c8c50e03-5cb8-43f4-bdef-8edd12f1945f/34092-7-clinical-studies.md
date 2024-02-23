@@ -1,10 +1,8 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Primary Hyperlipidemia or Mixed Dyslipidemia in Adult Patients
+Primary Hyperlipidemia in Adults Study with Atorvastatin (Study 301)
 
-Active-Controlled Study with Atorvastatin (Study 301)
-
-Pitavastatin was compared with Atorvastatin Calcium Tablets (referred to as atorvastatin) in a randomized, multicenter, double-blind, double-dummy, active-controlled, non-inferiority study of 817 adult patients with primary hyperlipidemia or mixed dyslipidemia.
+Pitavastatin was compared with atorvastatin calcium tablets (referred to as atorvastatin) in a randomized, multicenter, double-blind, double-dummy, active-controlled, non-inferiority study of 817 adult patients with primary hyperlipidemia or mixed dyslipidemia.
 Patients entered a 6- to 8-week wash-out/dietary lead-in period and then were randomized to a 12-week treatment with either pitavastatin or atorvastatin (Table 5).
 Non-inferiority of pitavastatin to a given dose of atorvastatin was considered to be demonstrated if the lower bound of the 95% CI for the mean treatment difference was greater than -6% for the mean percent change in LDL-C.
 
@@ -12,7 +10,8 @@ Lipid results are shown in Table 5.
 For the percent change from baseline to endpoint in LDL-C, pitavastatin was non-inferior to atorvastatin for the two pairwise comparisons: pitavastatin 2 mg vs. atorvastatin 10 mg and pitavastatin 4 mg vs. atorvastatin 20 mg.
 Mean treatment differences (95% CI) were 0% (-3%, 3%) and 1% (2%, 4%), respectively.
 
-Table 5 Lipid Response by Dose of Pitavastatin and Atorvastatin in Adult Patients with Primary Hyperlipidemia or Mixed Dyslipidemia in Study 301 (Mean % Change from Baseline at Week 12)
+Table 5.
+Lipid Response by Dose of Pitavastatin and Atorvastatin in Adult Patients with Primary Hyperlipidemia or Mixed Dyslipidemia in Study 301 (Mean % Change from Baseline at Week 12)
 
 | Treatment | N | LDL-C | Apo-B | TC | TG | HDL-C | non-HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -21,17 +20,18 @@ Table 5 Lipid Response by Dose of Pitavastatin and Atorvastatin in Adult Patient
 | Atorvastatin 10 mg daily | 102 | -38 | -29 | -28 | -18 | 3 | -35 |
 | Atorvastatin 20 mg daily | 102 | -44 | -36 | -33 | -22 | 2 | -41 |
 
-Active-Controlled Study with Simvastatin (Study 302)
+Study with Simvastatin (Study 302)
 
-Pitavastatin was compared with Simvastatin Tablets (referred to as simvastatin) in a randomized, multicenter, double-blind, double-dummy, active-controlled, non-inferiority study of 843 adult patients with primary hyperlipidemia or mixed dyslipidemia.
-Patients entered a 6 to 8-week wash-out/dietary lead-in period and then were randomized to a 12-week treatment with either pitavastatin or simvastatin (Table 6).
+Pitavastatin was compared with simvastatin tablets (referred to as simvastatin) in a randomized, multicenter, double-blind, double-dummy, active-controlled, non-inferiority study of 843 adult patients with primary hyperlipidemia or mixed dyslipidemia.
+Patients entered a 6- to 8-week wash-out/dietary lead-in period and then were randomized to a 12-week treatment with either pitavastatin or simvastatin (Table 6).
 Non-inferiority of pitavastatin to a given dose of simvastatin was considered to be demonstrated if the lower bound of the 95% CI for the mean treatment difference was greater than -6% for the mean percent change in LDL-C.
 
 Lipid results are shown in Table 6.
 For the percent change from baseline to endpoint in LDL-C, pitavastatin was non-inferior to simvastatin for the two pairwise comparisons: pitavastatin 2 mg vs. simvastatin 20 mg and pitavastatin 4 mg vs. simvastatin 40 mg.
 Mean treatment differences (95% CI) were 4% (1%, 7%) and 1% (-2%, 4%), respectively.
 
-Table 6 Lipid Response by Dose of Pitavastatin and Simvastatin in Adult Patients with Primary Hyperlipidemia or Mixed Dyslipidemia in Study 302 (Mean % Change from Baseline at Week 12)
+Table 6.
+Lipid Response by Dose of Pitavastatin and Simvastatin in Adult Patients with Primary Hyperlipidemia or Mixed Dyslipidemia in Study 302 (Mean % Change from Baseline at Week 12)
 
 | Treatment | N | LDL-C | Apo-B | TC | TG | HDL-C | non-HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -40,9 +40,9 @@ Table 6 Lipid Response by Dose of Pitavastatin and Simvastatin in Adult Patients
 | Simvastatin 20 mg daily | 107 | -35 | -27 | -25 | -16 | 6 | -32 |
 | Simvastatin 40 mg daily | 110 | -43 | -34 | -31 | -16 | 7 | -39 |
 
-Active-Controlled Study with Pravastatin in Geriatric Patients (Study 306)
+Study with Pravastatin in Geriatric Patients (Study 306)
 
-Pitavastatin was compared with Pravastatin Sodium Tablets (referred to as pravastatin) in a randomized, multicenter, double-blind, double-dummy, parallel group, active-controlled non-inferiority study of 942 geriatric patients (≥ 65 years) with primary hyperlipidemia or mixed dyslipidemia.
+Pitavastatin was compared with pravastatin sodium tablets (referred to as pravastatin) in a randomized, multicenter, double-blind, double-dummy, parallel group, active-controlled non-inferiority study of 942 geriatric patients (≥ 65 years) with primary hyperlipidemia or mixed dyslipidemia.
 Patients entered a 6- to 8-week wash-out/dietary lead-in period, and then were randomized to a once daily dose of pitavastatin or pravastatin for 12 weeks (Table 7).
 Non-inferiority of pitavastatin to a given dose of pravastatin was assumed if the lower bound of the 95% CI for the treatment difference was greater than -6% for the mean percent change in LDL-C.
 
@@ -50,7 +50,8 @@ Lipid results are shown in Table 7.
 Pitavastatin significantly reduced LDL-C compared to pravastatin as demonstrated by the following pairwise dose comparisons: pitavastatin 1 mg vs. pravastatin 10 mg, pitavastatin 2 mg vs. pravastatin 20 mg and pitavastatin 4 mg vs. pravastatin 40 mg.
 Mean treatment differences (95% CI) were 9% (6%, 12%), 10% (7%, 13%) and 10% (7%, 13%), respectively.
 
-Table 7 Lipid Response by Dose of Pitavastatin and Pravastatin in Geriatric Patients with Primary Hyperlipidemia or Mixed Dyslipidemia in Study 306 (Mean % Change from Baseline at Week 12)
+Table 7.
+Lipid Response by Dose of Pitavastatin and Pravastatin in Geriatric Patients with Primary Hyperlipidemia or Mixed Dyslipidemia in Study 306 (Mean % Change from Baseline at Week 12)
 
 | Treatment | N | LDL-C | Apo-B | TC | TG | HDL-C | non-HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -61,9 +62,9 @@ Table 7 Lipid Response by Dose of Pitavastatin and Pravastatin in Geriatric Pati
 | Pravastatin 20 mg daily | 96 | -29 | -22 | -21 | -11 | -1 | -27 |
 | Pravastatin 40 mg daily | 102 | -34 | -28 | -24 | -15 | 1 | -32 |
 
-Active-Controlled Study with Simvastatin in Patients with ≥ 2 Risk Factors for Coronary Heart Disease (Study 304)
+Study with Simvastatin in Patients with ≥ 2 Risk Factors for Coronary Heart Disease (Study 304)
 
-Pitavastatin was compared with Simvastatin Tablets (referred to as simvastatin) in a randomized, multicenter, double-blind, double-dummy, active-controlled, non-inferiority study of 351 adult patients with primary hyperlipidemia or mixed dyslipidemia with ≥ 2 risk factors for coronary heart disease.
+Pitavastatin was compared with simvastatin tablets (referred to as simvastatin) in a randomized, multicenter, double-blind, double-dummy, active-controlled, non-inferiority study of 351 adult patients with primary hyperlipidemia or mixed dyslipidemia with ≥ 2 risk factors for coronary heart disease.
 After a 6- to 8-week wash-out/dietary lead-in period, patients were randomized to a 12-week treatment with either pitavastatin or simvastatin (Table 8).
 Non-inferiority of pitavastatin to simvastatin was considered to be demonstrated if the lower bound of the 95% CI for the mean treatment difference was greater than -6% for the mean percent change in LDL-C.
 
@@ -71,17 +72,18 @@ Lipid results are shown in Table 8.
 Pitavastatin 4 mg was non-inferior to simvastatin 40 mg for percent change from baseline to endpoint in LDL-C.
 The mean treatment difference (95% CI) was 0% (-2%, 3%).
 
-Table 8 Lipid Response by Dose of Pitavastatin and Simvastatin in Adult Patients with Primary Hyperlipidemia or Mixed Dyslipidemia with ≥ 2 Risk Factors for Coronary Heart Disease in Study 304 (Mean % Change from Baseline at Week 12)
+Table 8.
+Lipid Response by Dose of Pitavastatin and Simvastatin in Adult Patients with Primary Hyperlipidemia or Mixed Dyslipidemia with ≥ 2 Risk Factors for Coronary Heart Disease in Study 304 (Mean % Change from Baseline at Week 12)
 
 | Treatment | N | LDL-C | Apo-B | TC | TG | HDL-C | non-HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Pitavastatin 4 mg daily | 233 | -44 | -34 | -31 | -20 | 7 | -40 |
 | Simvastatin 40 mg daily | 118 | -44 | -34 | -31 | -15 | 5 | -39 |
 
-Active- Controlled Study with Atorvastatin in Patients with Type 2 Diabetes Mellitus (Study 305)
+Study with Atorvastatin in Patients with Type 2 Diabetes Mellitus (Study 305)
 
-Pitavastatin was compared with Atorvastatin Calcium Tablets (referred to as atorvastatin) in a randomized, multicenter, double-blind, double-dummy, parallel group, active-controlled, non-inferiority study of 410 adult patients with type 2 diabetes mellitus and mixed dyslipidemia.
-Patients entered a 6 to 8 week wash-out/dietary lead-in period and were randomized to a once daily dose of pitavastatin or atorvastatin for 12 weeks.
+Pitavastatin was compared with atorvastatin calcium tablets (referred to as atorvastatin) in a randomized, multicenter, double-blind, double-dummy, parallel group, active-controlled, non-inferiority study of 410 adult patients with type 2 diabetes mellitus and mixed dyslipidemia.
+Patients entered a 6- to 8- week wash-out/dietary lead-in period and were randomized to a once daily dose of pitavastatin or atorvastatin for 12 weeks.
 Non-inferiority of pitavastatin was considered to be demonstrated if the lower bound of the 95% CI for the mean treatment difference was greater than -6% for the mean percent change in LDL-C.
 
 Lipid results are shown in Table 9.
@@ -89,7 +91,8 @@ The treatment difference (95% CI) for LDL-C percent change from baseline was -2%
 The two treatment groups were not statistically different on LDL-C.
 However, the lower limit of the CI was -6.2%, slightly exceeding the -6% non-inferiority limit The study failed to demonstrate that pitavastatin was not significantly different than atorvastatin in lowering LDL-C in patients with type 2 diabetes mellitus and mixed dyslipidemia.
 
-Table 9 Lipid Response by Dose of Pitavastatin and Atorvastatin in Patients with Type 2 Diabetes Mellitus and Mixed Dyslipidemia in Study 305 (Mean % Change from Baseline at Week 12)
+Table 9.
+Lipid Response by Dose of Pitavastatin and Atorvastatin in Patients with Type 2 Diabetes Mellitus and Mixed Dyslipidemia in Study 305 (Mean % Change from Baseline at Week 12)
 
 | Treatment | N | LDL-C | Apo-B | TC | TG | HDL-C | non-HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -98,7 +101,8 @@ Table 9 Lipid Response by Dose of Pitavastatin and Atorvastatin in Patients with
 
 The treatment differences in efficacy in LDL-C change from baseline between pitavastatin and active controls (i.e., atorvastatin, simvastatin, or pravastatin) in the in the active-controlled studies described above are summarized in Figure 1.
 
-Figure 1 Treatment Difference in Adjusted Mean Percent Change in LDL-C between Pitavastatin and the Comparator (Atorvastatin, Simvastatin, or Pravastatin)
+Figure 1.
+Treatment Difference in Adjusted Mean Percent Change in LDL-C between Pitavastatin and the Comparator (Atorvastatin, Simvastatin, or Pravastatin)
 
 NL=non-inferiority limit.
 

@@ -1,7 +1,5 @@
 # 7 DRUG INTERACTIONS
 
-Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with ZYPITAMAG
-
 Table 2 includes a list of drugs that increase the risk of myopathy and rhabdomyolysis when administered concomitantly with ZYPITAMAG and instructions for preventing or managing drug interactions [see Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
 
 Table 2.
