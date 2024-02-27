@@ -153,7 +153,7 @@ Aminoglutethimide: Aminoglutethimide may diminish adrenal suppression by cortico
 Amphotericin B injection and potassium-depleting agents: When corticosteroids are administered concomitantly with potassium-depleting agents (e.g., amphotericin B, diuretics), patients should be observed closely for development of hypokalemia.
 In addition, there have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure.
 
-Antibiotics: Macrolide antibiotics have been reported to cause a significant decrease in corticosteroid clearance (see Drug Interactions, CYP 3A4 Inducers,CYP 3A4 Inhibitors, and CYP 3A4 Substrates).
+Antibiotics: Macrolide antibiotics have been reported to cause a significant decrease in corticosteroid clearance (see Drug Interactions: CYP 3A4 Inducers, CYP 3A4 Inhibitors, and CYP 3A4 Substrates).
 
 Anticholinesterases: Concomitant use of anticholinesterase agents and corticosteroids may produce severe weakness in patients with myasthenia gravis.
 If possible, anticholinesterase agents should be withdrawn at least 24 hours before initiating corticosteroid therapy.
@@ -213,7 +213,7 @@ Steroids may increase or decrease motility and number of spermatozoa in some pat
 
 ## Pregnancy
 
-Teratogenic Effects: Pregnancy Category C: Corticosteroids have been shown to be teratogenic in many species when given in doses equivalent to the human dose.
+Teratogenic Effects: Corticosteroids have been shown to be teratogenic in many species when given in doses equivalent to the human dose.
 Animal studies in which corticosteroids have been given to pregnant mice, rats, and rabbits have yielded an increased incidence of cleft palate in the offspring.
 There are no adequate and well-controlled studies in pregnant women.
 Corticosteroids should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.

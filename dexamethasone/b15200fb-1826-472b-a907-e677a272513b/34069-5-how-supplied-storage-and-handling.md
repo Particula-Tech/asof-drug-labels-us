@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Dexamethasone Tablets USP
+Dexamethasone Tablets, USP
 
 0.5 mg tablets are supplied as a light yellow, flat tablet with beveled edges, scored on one side and product identification “54 299” debossed on the other side.
 
@@ -26,8 +26,6 @@ NDC 0054-8181-25: 10x10 Unit-Dose
 
 NDC 0054-4182-25: Bottle of 100 Tablets
 
-NDC 0054-4182-31: Bottle of 1,000 Tablets
-
 2 mg tablets are supplied as a white, flat tablet with beveled edges, scored on one side and product identification “54 662” debossed on the other side.
 
 NDC 0054-8176-25: 10x10 Unit-Dose
@@ -52,7 +50,7 @@ Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 Dispense in a tight light-resistant, child-resistant container as defined in the USP/NF.
 
-Dexamethasone Oral Solution USP
+Dexamethasone Oral Solution, USP
 
 0.5 mg per 5 mL oral solution is supplied as a (cherry brandy flavored) clear colorless solution.
 
@@ -66,7 +64,7 @@ Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 Dispense in a tight light-resistant, child-resistant container as defined in the USP/NF.
 
-Dexamethasone Oral Solution USP Intensol™ (Concentrate)
+Dexamethasone Oral Solution, USP Intensol™ (Concentrate)
 
 1 mg per mL oral solution is supplied as a clear colorless solution.
 
@@ -81,6 +79,4 @@ Do not use if solution contains a precipitate.
 Dispense only in this bottle and only with the calibrated oral syringe provided.
 Discard opened bottle after 90 days.
 
-Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 4047401//pre8/dm/only
-
-Revised June 2020
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922 C5000comb/01 Revised July 2023
