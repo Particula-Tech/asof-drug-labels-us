@@ -5,22 +5,21 @@ In patients with acute myocardial infarction, cardiac failure which is not promp
 In Patients Without a History of Cardiac Failure Continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure.
 At the first sign or symptom of impending cardiac failure, patients should be treated appropriately according to currently recommended guidelines, and the response observed closely.
 If cardiac failure continues despite adequate treatment, atenolol should be withdrawn.
-(See DOSAGE AND ADMNISTRATION.)
+(See DOSAGE AND ADMINISTRATION.)
 
 | Cessation of Therapy with Atenolol Patients with coronary artery disease, who are being treated with atenolol, should be advised against abrupt discontinuation of therapy. Severe exacerbation of angina and the occurrence of myocardial infarction and ventricular arrhythmias have been reported in angina patients following the abrupt discontinuation of therapy with beta-blockers. The last two complications may occur with or without preceding exacerbation of the angina pectoris. As with other beta-blockers, when discontinuation of atenolol is planned, the patients should be carefully observed and advised to limit physical activity to a minimum. If the angina worsens or acute coronary insufficiency develops, it is recommended that atenolol be promptly reinstituted, at least temporarily. Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue atenolol therapy abruptly even in patients treated only for hypertension. (See DOSAGE AND ADMINISTRATION.) |
 | --- |
 
 Concomitant Use of Calcium Channel Blockers Bradycardia and heart block can occur and the left ventricular end diastolic pressure can rise when beta-blockers are administered with verapamil or diltiazem.
-Patients with preexisting conduction abnormalities or left ventricular dysfunction are particularly susceptible.
+Patients with pre-existing conduction abnormalities or left ventricular dysfunction are particularly susceptible.
 (See PRECAUTIONS.)
 Bronchospastic Diseases PATIENTS WITH BRONCHOSPASTIC DISEASE SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS.
 Because of its relative beta1 selectivity, however, atenolol may be used with caution in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment.
 Since beta1 selectivity is not absolute, the lowest possible dose of atenolol should be used with therapy initiated at 50 mg and a beta2-stimulating agent (bronchodilator) should be made available.
 If dosage must be increased, dividing the dose should be considered in order to achieve lower peak blood levels.
 Major Surgery Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
-Diabetes and Hypoglycemia Atenolol should be used with caution in diabetic patients if a beta-blocking agent is required.
-Beta-blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
-At recommended doses atenolol does not potentiate insulin-induced hypoglycemia and, unlike nonselective beta-blockers, does not delay recovery of blood glucose to normal levels.
+Hypoglycemia Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting).
+If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment.
 Thyrotoxicosis Beta-adrenergic blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
 Abrupt withdrawal of beta-blockade might precipitate a thyroid storm; therefore, patients suspected of developing thyrotoxicosis from whom atenolol therapy is to be withdrawn should be monitored closely.
 (See DOSAGE AND ADMINISTRATION.)
@@ -48,6 +47,13 @@ Atenolol may aggravate peripheral arterial circulatory disorders.
 Impaired Renal Function The drug should be used with caution in patients with impaired renal function.
 (See DOSAGE AND ADMINISTRATION.)
 
+## Information for Patients
+
+Hypoglycemia
+
+Inform patients or caregivers that there is a risk of hypoglycemia when atenolol is given to patients who are fasting or who are vomiting.
+Monitor for symptoms of hypoglycemia.
+
 ## Drug Interactions
 
 Catecholamine-depleting drugs (e.g., reserpine) may have an additive effect when given with beta-blocking agents.
@@ -70,23 +76,23 @@ Concomitant use can increase the risk of bradycardia.
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Two long-term (maximum dosing duration of 18 or 24 months) rat studies and one long-term (maximum dosing duration of 18 months) mouse study, each employing dose levels as high as 300 mg/kg/day or 150 times the maximum recommended human antihypertensive dose,* did not indicate a carcinogenic potential of atenolol.
-A third (24 month) rat study, employing doses of 500 and 1,500 mg/kg/day (250 and 750 times the maximum recommended human antihypertensive dose*) resulted in increased incidences of benign adrenal medullary tumors in males and females, mammary fibroadenomas in females, and anterior pituitary adenomas and thyroid parafollicular cell carcinomas in males.
+A third (24 month) rat study, employing doses of 500 mg/kg/day and 1,500 mg/kg/day (250 and 750 times the maximum recommended human antihypertensive dose*) resulted in increased incidences of benign adrenal medullary tumors in males and females, mammary fibroadenomas in females, and anterior pituitary adenomas and thyroid parafollicular cell carcinomas in males.
 No evidence of a mutagenic potential of atenolol was uncovered in the dominant lethal test (mouse), in vivo cytogenetics test (Chinese hamster) or Ames test (S typhimurium).
 Fertility of male or female rats (evaluated at dose levels as high as 200 mg/kg/day or 100 times the maximum recommended human dose*) was unaffected by atenolol administration.
 Animal Toxicology Chronic studies employing oral atenolol performed in animals have revealed the occurrence of vacuolation of epithelial cells of Brunner's glands in the duodenum of both male and female dogs at all tested dose levels of atenolol (starting at 15 mg/kg/day or 7.5 times the maximum recommended human antihypertensive dose*) and increased incidence of atrial degeneration of hearts of male rats at 300 but not 150 mg atenolol/kg/day (150 and 75 times the maximum recommended human antihypertensive dose,* respectively). *Based on the maximum dose of 100 mg/day in a 50 kg patient.
 
-## Usage in Pregnancy
+## Pregnancy
 
-Pregnancy Category D See WARNINGS - Pregnancy and Fetal Injury.
+See WARNINGS - Pregnancy and Fetal Injury.
 
 ## Nursing Mothers
 
 Atenolol is excreted in human breast milk at a ratio of 1.5 to 6.8 when compared to the concentration in plasma.
 Caution should be exercised when atenolol is administered to a nursing woman.
-Clinically significant bradycardia has been reported in breast-fed infants.
+Clinically significant bradycardia has been reported in breastfed infants.
 Premature infants, or infants with impaired renal function, may be more likely to develop adverse effects.
 Neonates born to mothers who are receiving atenolol at parturition or breastfeeding may be at risk for hypoglycemia and bradycardia.
-Caution should be exercised when atenolol is administered during pregnancy or to a woman who is breastfeeding (see WARNINGS, Pregnancy and Fetal Injury).
+Caution should be exercised when atenolol is administered during pregnancy or to a woman who is breastfeeding (See WARNINGS, Pregnancy and Fetal Injury).
 
 ## Pediatric Use
 
@@ -98,6 +104,6 @@ Hypertension and Angina Pectoris Due to Coronary Atherosclerosis Clinical studie
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 Acute Myocardial Infarction Of the 8,037 patients with suspected acute myocardial infarction randomized to atenolol in the ISIS-1 trial (See CLINICAL PHARMACOLOGY), 33% (2,644) were 65 years of age and older.
-It was not possible to identify significant differences in efficacy and safety between older and younger patients; however, elderly patients with systolic blood pressure <120 mmHg seemed less likely to benefit (see INDICATIONS AND USAGE).
+It was not possible to identify significant differences in efficacy and safety between older and younger patients; however, elderly patients with systolic blood pressure < 120 mmHg seemed less likely to benefit (See INDICATIONS AND USAGE).
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 Evaluation of patients with hypertension or myocardial infarction should always include assessment of renal function.

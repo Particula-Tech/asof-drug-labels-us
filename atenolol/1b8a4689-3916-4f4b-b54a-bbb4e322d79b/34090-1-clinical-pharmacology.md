@@ -8,7 +8,7 @@ Peak blood levels are reached between two (2) and four (4) hours after ingestion
 Unlike propranolol or metoprolol, but like nadolol, atenolol undergoes little or no metabolism by the liver, and the absorbed portion is eliminated primarily by renal excretion.
 Over 85% of an intravenous dose is excreted in urine within 24 hours compared with approximately 50% for an oral dose.
 Atenolol also differs from propranolol in that only a small amount (6% to 16%) is bound to proteins in the plasma.
-This kinetic profile results in relatively consistent plasma drug levels with about a fourfold interpatient variation.
+This kinetic profile results in relatively consistent plasma drug levels with about a 4-fold interpatient variation.
 The elimination half-life of oral atenolol is approximately 6 to 7 hours, and there is no alteration of the kinetic profile of the drug by chronic administration.
 Following intravenous administration, peak plasma levels are reached within 5 minutes.
 Declines from peak levels are rapid (5- to 10-fold) during the first 7 hours; thereafter, plasma levels decay with a half-life similar to that of orally administered drug.
@@ -30,7 +30,7 @@ Conduction in the AV node is also prolonged.
 Atenolol is devoid of membrane stabilizing activity, and increasing the dose well beyond that producing beta-blockade does not further depress myocardial contractility.
 Several studies have demonstrated a moderate (approximately 10%) increase in stroke volume at rest and during exercise.
 In controlled clinical trials, atenolol, given as a single daily oral dose, was an effective antihypertensive agent providing 24-hour reduction of blood pressure.
-Atenolol has been studied in combination with thiazide-type diuretics, and the blood pressure effects of the combination are approximately additive.
+Atenolol has been studied in combination with thiazide type diuretics, and the blood pressure effects of the combination are approximately additive.
 Atenolol is also compatible with methyldopa, hydralazine, and prazosin, each combination resulting in a larger fall in blood pressure than with the single agents.
 The dose range of atenolol is narrow and increasing the dose beyond 100 mg once daily is not associated with increased antihypertensive effect.
 The mechanisms of the antihypertensive effects of beta-blocking agents have not been established.
@@ -42,7 +42,7 @@ In a multicenter clinical trial (ISIS-1) conducted in 16,027 patients with suspe
 Patients with a heart rate of < 50 bpm or systolic blood pressure < 100 mmHg, or with other contraindications to beta-blockade were excluded.
 Thirty-eight percent of each group were treated within 4 hours of onset of pain.
 The mean time from onset of pain to entry was 5 ± 2.7 hours in both groups.
-Patients in the atenolol group were to receive atenolol I.V. injection 5 to 10 mg given over 5 minutes plus atenolol tablets 50 mg every 12 hours orally on the first study day (the first oral dose administered about 15 minutes after the IV dose) followed by either atenolol tablets 100 mg once daily or atenolol tablets 50 mg twice daily on days 2 to 7.
+Patients in the atenolol group were to receive atenolol I.V. injection 5 mg to 10 mg given over 5 minutes plus atenolol tablets 50 mg every 12 hours orally on the first study day (the first oral dose administered about 15 minutes after the I.V. dose) followed by either atenolol tablets 100 mg once daily or atenolol tablets 50 mg twice daily on days 2 to 7.
 The groups were similar in demographic and medical history characteristics and in electrocardiographic evidence of myocardial infarction, bundle branch block, and first degree atrioventricular block at entry.
 During the treatment period (days 0 to 7), the vascular mortality rates were 3.89% in the atenolol group (313 deaths) and 4.57% in the control group (365 deaths).
 This absolute difference in rates, 0.68%, is statistically significant at the P < 0.05 level.

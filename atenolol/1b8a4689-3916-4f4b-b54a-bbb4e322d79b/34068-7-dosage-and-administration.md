@@ -9,7 +9,7 @@ Angina Pectoris The initial dose of atenolol is 50 mg given as one tablet a day.
 If an optimal response is not achieved within one week, the dosage should be increased to atenolol 100 mg given as one tablet a day.
 Some patients may require a dosage of 200 mg once a day for optimal effect.
 Twenty-four hour control with once daily dosing is achieved by giving doses larger than necessary to achieve an immediate maximum effect.
-The maximum early effect on exercise tolerance occurs with doses of 50 to 100 mg, but at these doses the effect at 24 hours is attenuated, averaging about 50% to 75% of that observed with once a day oral doses of 200 mg.
+The maximum early effect on exercise tolerance occurs with doses of 50 mg to 100 mg, but at these doses the effect at 24 hours is attenuated, averaging about 50% to 75% of that observed with once a day oral doses of 200 mg.
 Acute Myocardial Infarction In patients with definite or suspected acute myocardial infarction, treatment with atenolol I.V. injection should be initiated as soon as possible after the patient's arrival in the hospital and after eligibility is established.
 Such treatment should be initiated in a coronary care or similar unit immediately after the patient's hemodynamic condition has stabilized.
 Treatment should begin with the intravenous administration of 5 mg atenolol over 5 minutes followed by another 5 mg intravenous injection 10 minutes later.
@@ -20,7 +20,7 @@ In patients who tolerate the full intravenous dose (10 mg), atenolol tablets 50 
 Thereafter, atenolol can be given orally either 100 mg once daily or 50 mg twice a day for a further 6 to 9 days or until discharge from the hospital.
 If bradycardia or hypotension requiring treatment or any other untoward effects occur, atenolol should be discontinued.
 (See full prescribing information prior to initiating therapy with atenolol tablets.)
-Data from other beta-blocker trials suggest that if there is any question concerning the use of IV beta-blocker or clinical estimate that there is a contraindication, the IV beta-blocker may be eliminated and patients fulfilling the safety criteria may be given atenolol tablets 50 mg twice daily or 100 mg once a day for at least seven days (if the IV dosing is excluded).
+Data from other beta-blocker trials suggest that if there is any question concerning the use of I.V. beta-blocker or clinical estimate that there is a contraindication, the I.V. beta-blocker may be eliminated and patients fulfilling the safety criteria may be given atenolol tablets 50 mg twice daily or 100 mg once a day for at least seven days (if the I.V. dosing is excluded).
 Although the demonstration of efficacy of atenolol is based entirely on data from the first seven postinfarction days, data from other beta-blocker trials suggest that treatment with beta-blockers that are effective in the postinfarction setting may be continued for one to three years if there are no contraindications.
 Atenolol is an additional treatment to standard coronary care unit therapy.
 Elderly Patients or Patients with Renal Impairment Atenolol is excreted by the kidneys; consequently dosage should be adjusted in cases of severe impairment of renal function.
@@ -28,7 +28,7 @@ In general, dose selection for an elderly patient should be cautious, usually st
 Evaluation of patients with hypertension or myocardial infarction should always include assessment of renal function.
 Atenolol excretion would be expected to decrease with advancing age.
 No significant accumulation of atenolol occurs until creatinine clearance falls below 35 mL/min/1.73 m2.
-Accumulation of atenolol and prolongation of its half-life were studied in subjects with creatinine clearance between 5 and 105 mL/min.
+Accumulation of atenolol and prolongation of its half-life were studied in subjects with creatinine clearance between 5 mL/min and 105 mL/min.
 Peak plasma levels were significantly increased in subjects with creatinine clearances below 30 mL/min.
 The following maximum oral dosages are recommended for elderly, renally-impaired patients and for patients with renal impairment due to other causes:
 

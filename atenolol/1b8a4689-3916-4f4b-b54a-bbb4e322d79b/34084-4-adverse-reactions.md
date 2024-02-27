@@ -5,7 +5,7 @@ The frequency estimates in the following table were derived from controlled stud
 The reported frequency of elicited adverse effects was higher for both atenolol and placebo-treated patients than when these reactions were volunteered.
 Where frequency of adverse effects of atenolol and placebo is similar, causal relationship to atenolol is uncertain.
 
-|  | Volunteered (U.S. Studies) |  | Total - Volunteered and Elicited (Foreign+U.S. Studies) |  |
+|  | Volunteered (U.S. Studies) |  | Total - Volunteered and Elicited (Foreign + U.S. Studies) |  |
 | --- | --- | --- | --- | --- |
 | Atenolol (n=164) % | Placebo (n=206) % | Atenolol (n=399) % | Placebo (n=407) % |  |
 | CARDIOVASCULAR |  |  |  |  |
@@ -16,7 +16,7 @@ Where frequency of adverse effects of atenolol and placebo is similar, causal re
 | CENTRAL NERVOUS SYSTEM/NEUROMUSCULAR |  |  |  |  |
 | Dizziness | 4 | 1 | 13 | 6 |
 | Vertigo | 2 | 0.5 | 2 | 0.2 |
-| Lightheadedness | 1 | 0 | 3 | 0.7 |
+| Light-headedness | 1 | 0 | 3 | 0.7 |
 | Tiredness | 0.6 | 0.5 | 26 | 13 |
 | Fatigue | 3 | 1 | 6 | 5 |
 | Lethargy | 1 | 0 | 3 | 0.7 |
@@ -26,7 +26,7 @@ Where frequency of adverse effects of atenolol and placebo is similar, causal re
 | GASTROINTESTINAL |  |  |  |  |
 | Diarrhea | 2 | 0 | 3 | 2 |
 | Nausea | 4 | 1 | 3 | 1 |
-| RESPIRATORY (see WARNINGS) |  |  |  |  |
+| RESPIRATORY (See WARNINGS) |  |  |  |  |
 | Wheeziness | 0 | 0 | 3 | 3 |
 | Dyspnea | 0.6 | 1 | 6 | 4 |
 
@@ -63,7 +63,7 @@ In the subsequent International Study of Infarct Survival (ISIS-1) including ove
 
 |  | Reasons for Reduced Dosage |  |  |  |
 | --- | --- | --- | --- | --- |
-| IV Atenolol Reduced Dose (< 5 mg)* |  | Oral Partial Dose |  |  |
+| I.V. Atenolol Reduced Dose (< 5 mg)* |  | Oral Partial Dose |  |  |
 | Hypotension/Bradycardia | 105 | (1.3%) | 1168 | (14.5%) |
 | Cardiogenic Shock | 4 | (.04%) | 35 | (.44%) |
 | Reinfarction | 0 | (0%) | 5 | (.06%) |
@@ -86,6 +86,7 @@ Miscellaneous: There have been reports of skin rashes and/or dry eyes associated
 The reported incidence is small, and in most cases, the symptoms have cleared when treatment was withdrawn.
 Discontinuance of the drug should be considered if any such reaction is not otherwise explicable.
 Patients should be closely monitored following cessation of therapy.
-(See DOSAGE AND ADMINISTRATION.)
+(See DOSAGE AND ADMINISTRATION).
 The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been reported with atenolol.
 Furthermore, a number of patients who had previously demonstrated established practolol reactions were transferred to atenolol therapy with subsequent resolution or quiescence of the reaction.
+To report SUSPECTED ADVERSE REACTIONS, contact Aurobindo Pharma USA, Inc. at 1-866-850-2876 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch for voluntary reporting of adverse reactions.
