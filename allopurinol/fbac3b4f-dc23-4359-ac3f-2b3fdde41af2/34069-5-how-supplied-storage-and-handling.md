@@ -1,16 +1,17 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED
 
-100 mg (white) scored, flat-faced beveled edge round tablets debossed with "2083/V".
-They are supplied as follows:
+How Supplied
 
-- Bottles of 100: 0603-2115-21
-- Bottles of 1000: 0603-2115-32
+Allopurinol Tablets, USP are available in two tablet strengths with functional scoring and package sizes as listed in Table 4.
 
-300 mg (orange) scored, round tablets debossed with "2084/V".
-They are supplied as follows:
+Table 4: Allopurinol Tablets Presentations
 
-- Bottles of 100: 0603-2116-21
-- Bottles of 500: 0603-2116-28
-- Bottles of 1000: 0603-2116-32
+| Tablet Strength | Tablet Description | Package Sizes (NDC) |
+| --- | --- | --- |
+| 100 mg | White, round, flat face, beveled edge tablets. The upper layer is bisected and debossed with “2083/V”. The lower layer is plain. | Bottles of 100 with child-resistant cap: 0603-2115-21 Bottles of 1000: 0603-2115-32 |
+| 300 mg | Orange, round and biconvex tablets. The upper layer is bisected and debossed with “2084/V”. The lower layer is plain. | Bottles of 100 with child-resistant cap: 0603-2116-21Bottles of 500: 0603-2116-28 Bottles of 1000: 0603-2116-32 |
 
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Storage and Handling
+
+Store at 20°C to 25°C (USP Controlled Room Temperature) (68°F to 77°F) in a dry place.
+Dispense in a tight container as defined in the USP.
