@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208088"
+  ],
+  "inn": "testosterone",
+  "labeler": "Verity Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "74676-0112-2"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "testosterone undecanoate",
+      "name": "Tlando"
+    }
+  ],
+  "setid": "4b0b92e9-6d3c-a0e5-e1c7-342999f72580",
+  "source": "dailymed"
+}
