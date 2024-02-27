@@ -23,7 +23,7 @@ Progestins with estrogens should be prescribed at the lowest effective doses and
 
 What is the most important information I should know about PROVERA (a progestin hormone)?
 
-- Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia (decline in brain function).
-- Using estrogens with progestins may increase your chance of getting heart attacks, strokes, breast cancer, and blood clots.
-- Using estrogens with progestins may increase your chance of getting dementia, based on a study of women age 65 years or older.
-- You and your healthcare provider should talk regularly about whether you still need treatment with PROVERA.
+- • Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia (decline in brain function).
+- • Using estrogens with progestins may increase your chance of getting heart attacks, strokes, breast cancer, and blood clots.
+- • Using estrogens with progestins may increase your chance of getting dementia, based on a study of women age 65 years or older.
+- •You and your healthcare provider should talk regularly about whether you still need treatment with PROVERA.

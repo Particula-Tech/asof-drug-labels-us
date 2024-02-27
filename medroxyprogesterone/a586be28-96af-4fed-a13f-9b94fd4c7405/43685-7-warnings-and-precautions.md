@@ -42,9 +42,10 @@ If feasible, estrogens plus progestins should be discontinued at least 4 to 6 we
 
 ### a. Breast Cancer
 
-The most important randomized clinical trial providing information about breast cancer in estrogen plus progestin users is the WHI substudy of daily CE (0.625 mg) plus MPA (2.5 mg).
-After a mean follow-up of 5.6 years, the estrogen plus progestin substudy reported an increased risk of invasive breast cancer in women who took daily CE plus MPA.
+The WHI substudy of daily CE (0.625 mg)-alone provided information about breast cancer in estrogen-alone users.
+In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE-alone was not associated with an increased risk of invasive breast cancer [relative risk (RR) 0.80] compared to placebo (see CLINICAL STUDIES).
 
+After a mean follow-up of 5.6 years, the estrogen plus progestin substudy reported an increased risk of invasive breast cancer in women who took daily CE plus MPA.
 In this substudy, prior use of estrogen-alone or estrogen plus progestin therapy was reported by 26 percent of the women.
 The relative risk of invasive breast cancer was 1.24, and the absolute risk was 41 versus 33 cases per 10,000 women-years, for CE plus MPA compared with placebo.
 Among women who reported prior use of hormone therapy, the relative risk of invasive breast cancer was 1.86, and the absolute risk was 46 versus 25 cases per 10,000 women-years, for CE plus MPA compared with placebo.
@@ -54,12 +55,15 @@ Metastatic disease was rare with no apparent difference between the two groups.
 Other prognostic factors such as histologic subtype, grade, and hormone receptor status did not differ between the groups.
 (See CLINICAL STUDIES.)
 
-Consistent with the WHI clinical trial, observational studies have also reported an increased risk of breast cancer for estrogen plus progestin therapy, and a smaller risk for estrogen-alone therapy, after several years of use.
-The risk increased with duration of use, and appeared to return to baseline over about 5 years after stopping treatment (only the observational studies have substantial data on risk after stopping).
+Consistent with the WHI clinical trials, observational studies have also reported an increased risk of breast cancer for estrogen plus progestin therapy, and a smaller, increased risk for estrogen-alone therapy, after several years of use.
+One large meta-analysis of prospective cohort studies reported increased risks that were dependent upon duration of use and could last up to >10 years after discontinuation of estrogen plus progestin therapy and estrogen-alone therapy.
+Extension of the WHI trials also demonstrated increased breast cancer risk associated with estrogen plus progestin therapy.
 Observational studies also suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to estrogen-alone therapy.
+
 However, these studies have not found significant variation in the risk of breast cancer among different estrogen plus progestin combinations, or routes of administration.
 
-The use of estrogen plus progestin has been reported to result in an increase in abnormal mammograms requiring further evaluation.
+The use of estrogen-alone and estrogen plus progestin has been reported to result in an increase in abnormal mammograms requiring further evaluation.
+
 All women should receive yearly breast examinations by a healthcare provider and perform monthly breast self-examinations.
 In addition, mammography examinations should be scheduled based on patient age, risk factors, and prior mammogram results.
 
@@ -159,15 +163,15 @@ Inform the patient of the importance of reporting exposure to PROVERA in early p
 
 The following laboratory results may be altered by the use of estrogen plus progestin therapy:
 
-1. Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of anti-factor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
-2. Increased thyroid-binding globulin (TBG) levels leading to increased circulating total thyroid hormone levels as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay, T3 resin uptake is decreased, reflecting the elevated TBG.
+1. 1.Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of anti-factor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
+2. 2.Increased thyroid-binding globulin (TBG) levels leading to increased circulating total thyroid hormone levels as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay, T3 resin uptake is decreased, reflecting the elevated TBG.
    Free T4 and free T3 concentrations are unaltered.
    Women on thyroid replacement therapy may require higher doses of thyroid hormone.
-3. Other binding proteins may be elevated in serum, for example, corticosteroid binding globulin (CBG), sex hormone binding globulin (SHBG) leading to increased circulating corticosteroid and sex steroids, respectively.
+3. 3.Other binding proteins may be elevated in serum, for example, corticosteroid binding globulin (CBG), sex hormone binding globulin (SHBG) leading to increased circulating corticosteroid and sex steroids, respectively.
    Free hormone concentrations, such as testosterone and estradiol, may be decreased.
    Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
-4. Increased plasma high-density lipoprotein (HDL) and HDL2 cholesterol subfraction concentrations, reduced low-density lipoprotein (LDL) cholesterol concentration, increased triglycerides levels.
-5. Impaired glucose tolerance.
+4. 4.Increased plasma high-density lipoprotein (HDL) and HDL2 cholesterol subfraction concentrations, reduced low-density lipoprotein (LDL) cholesterol concentration, increased triglycerides levels.
+5. 5.Impaired glucose tolerance.
 
 ## D. Carcinogenesis, Mutagenesis, Impairment of Fertility
 
