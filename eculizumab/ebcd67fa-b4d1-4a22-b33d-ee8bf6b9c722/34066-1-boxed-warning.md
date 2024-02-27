@@ -1,14 +1,13 @@
 # WARNING: SERIOUS MENINGOCOCCAL INFECTIONS
 
-Life-threatening and fatal meningococcal infections have occurred in patients treated with Soliris.
-Meningococcal infection may become rapidly life-threatening or fatal if not recognized and treated early [see Warnings and Precautions (5.1)].
+SOLIRIS, a complement inhibitor, increases the risk of serious infections caused by Neisseria meningitidis [see Warnings and Precautions (5.1)].
+Life-threatening and fatal meningococcal infections have occurred in patients treated with complement inhibitors.
+These infections may become rapidly life-threatening or fatal if not recognized and treated early.
 
-- Comply with the most current Advisory Committee on Immunization Practices (ACIP) recommendations for meningococcal vaccination in patients with complement deficiencies.
-- Immunize patients with meningococcal vaccines at least 2 weeks prior to administering the first dose of Soliris, unless the risks of delaying Soliris therapy outweigh the risk of developing a meningococcal infection.
-  [See Warnings and Precautions (5.1) for additional guidance on the management of the risk of meningococcal infection].
-- Vaccination reduces, but does not eliminate, the risk of meningococcal infections.
-  Monitor patients for early signs of meningococcal infections and evaluate immediately if infection is suspected.
+- Complete or update vaccination for meningococcal bacteria (for serogroups A, C, W, Y, and B) at least 2 weeks prior to the first dose of SOLIRIS, unless the risks of delaying therapy with SOLIRIS outweigh the risk of developing a serious infection.
+  Comply with the most current Advisory Committee on Immunization Practices (ACIP) recommendations for vaccinations against meningococcal bacteria in patients receiving a complement inhibitor.
+  See Warnings and Precautions (5.1) for additional guidance on the management of the risk of serious infections caused by meningococcal bacteria.
+- Patients receiving SOLIRIS are at increased risk for invasive disease caused by Neisseria meningitidis, even if they develop antibodies following vaccination.
+  Monitor patients for early signs and symptoms of serious meningococcal infections and evaluate immediately if infection is suspected.
 
-Soliris is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS).
-Under the Soliris REMS, prescribers must enroll in the program [see Warnings and Precautions (5.1)].
-Enrollment in the Soliris REMS program and additional information are available by telephone: 1-888-SOLIRIS (1-888-765-4747) or at www.solirisrems.com.
+Because of the risk of serious meningococcal infections, SOLIRIS is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called SOLIRIS REMS [see Warnings and Precautions (5.2)].

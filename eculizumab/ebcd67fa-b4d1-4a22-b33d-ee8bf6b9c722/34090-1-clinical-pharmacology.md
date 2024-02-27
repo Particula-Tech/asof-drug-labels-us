@@ -2,9 +2,9 @@
 
 ## 12.1 Mechanism of Action
 
-Eculizumab, the active ingredient in Soliris, is a monoclonal antibody that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a and C5b and preventing the generation of the terminal complement complex C5b-9.
+Eculizumab, the active ingredient in SOLIRIS, is a monoclonal antibody that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a and C5b and preventing the generation of the terminal complement complex C5b-9.
 
-Soliris inhibits terminal complement-mediated intravascular hemolysis in PNH patients and complement-mediated thrombotic microangiopathy (TMA) in patients with aHUS.
+SOLIRIS inhibits terminal complement-mediated intravascular hemolysis in PNH patients and complement-mediated thrombotic microangiopathy (TMA) in patients with aHUS.
 
 The precise mechanism by which eculizumab exerts its therapeutic effect in gMG patients is unknown, but is presumed to involve reduction of terminal complement complex C5b-9 deposition at the neuromuscular junction.
 
@@ -12,7 +12,7 @@ The precise mechanism by which eculizumab exerts its therapeutic effect in NMOSD
 
 ## 12.2 Pharmacodynamics
 
-In the placebo-controlled clinical study (PNH Study 1), Soliris when administered as recommended reduced serum LDH levels from 2200 ± 1034 U/L (mean ± SD) at baseline to 700 ± 388 U/L by week one and maintained the effect through the end of the study at week 26 (327 ± 433 U/L) in patients with PNH.
+In the placebo-controlled clinical study (PNH Study 1), SOLIRIS when administered as recommended reduced serum LDH levels from 2200 ± 1034 U/L (mean ± SD) at baseline to 700 ± 388 U/L by week one and maintained the effect through the end of the study at week 26 (327 ± 433 U/L) in patients with PNH.
 In the single arm clinical study (PNH Study 2), the effect was maintained through week 52 [see Clinical Studies (14)].
 
 In patients with PNH, aHUS, gMG, and NMOSD, free C5 concentrations of < 0.5 mcg/mL was correlated with complete blockade of terminal complement activity.
@@ -35,7 +35,7 @@ Elimination
 
 The half-life of eculizumab was approximately 270 h to 414 h.
 
-Plasma exchange or infusion increased the clearance of eculizumab by approximately 250-fold and reduced the half-life to 1.26 h. Supplemental dosing is recommended when Soliris is administered to patients receiving plasma exchange or infusion [see Dosage and Administration (2.5)].
+Plasma exchange or infusion increased the clearance of eculizumab by approximately 250-fold and reduced the half-life to 1.26 h. Supplemental dosing is recommended when SOLIRIS is administered to patients receiving plasma exchange or infusion [see Dosage and Administration (2.5)].
 
 Specific Populations
 

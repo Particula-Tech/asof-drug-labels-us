@@ -3,16 +3,16 @@
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - Serious Meningococcal Infections [see Warnings and Precautions (5.1)]
-- Other Infections [see Warnings and Precautions (5.2)]
-- Monitoring Disease Manifestations after Soliris Discontinuation [see Warnings and Precautions (5.3)]
-- Thrombosis Prevention and Management [see Warnings and Precautions (5.4)]
-- Infusion-Related Reactions [see Warnings and Precautions (5.5)]
+- Other Infections [see Warnings and Precautions (5.3)]
+- Monitoring Disease Manifestations after SOLIRIS Discontinuation [see Warnings and Precautions (5.4)]
+- Thrombosis Prevention and Management [see Warnings and Precautions (5.5)]
+- Infusion-Related Reactions [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Meningococcal infections are the most important adverse reactions experienced by patients receiving Soliris.
+Meningococcal infections are the most important adverse reactions experienced by patients receiving SOLIRIS.
 In PNH clinical studies, two patients experienced meningococcal sepsis.
 Both patients had previously received a meningococcal vaccine.
 In clinical studies among patients without PNH, meningococcal meningitis occurred in one unvaccinated patient.
@@ -20,17 +20,17 @@ Meningococcal sepsis occurred in one previously vaccinated patient enrolled in t
 
 PNH
 
-The data described below reflect exposure to Soliris in 196 adult patients with PNH, age 18-85, of whom 55% were female.
+The data described below reflect exposure to SOLIRIS in 196 adult patients with PNH, age 18-85, of whom 55% were female.
 All had signs or symptoms of intravascular hemolysis.
-Soliris was studied in a placebo-controlled clinical study (PNH Study 1, in which 43 patients received Soliris and 44, placebo); a single arm clinical study (PNH Study 2); and a long term extension study (E05-001).
+SOLIRIS was studied in a placebo-controlled clinical study (PNH Study 1, in which 43 patients received SOLIRIS and 44, placebo); a single arm clinical study (PNH Study 2); and a long term extension study (E05-001).
 182 patients were exposed for greater than one year.
-All patients received the recommended Soliris dose regimen.
+All patients received the recommended SOLIRIS dose regimen.
 
-Table 4 summarizes the adverse reactions that occurred at a numerically higher rate in the Soliris group than the placebo group and at a rate of 5% or more among patients treated with Soliris.
+Table 4 summarizes the adverse reactions that occurred at a numerically higher rate in the SOLIRIS group than the placebo group and at a rate of 5% or more among patients treated with SOLIRIS.
 
-Table 4: Adverse Reactions Reported in 5% or More of Soliris Treated Patients with PNH and Greater than Placebo in the Controlled Clinical Study
+Table 4: Adverse Reactions Reported in 5% or More of SOLIRIS Treated Patients with PNH and Greater than Placebo in the Controlled Clinical Study
 
-| Reaction | Soliris (N=43) N (%) | Placebo (N=44) N (%) |
+| Reaction | SOLIRIS (N=43) N (%) | Placebo (N=44) N (%) |
 | --- | --- | --- |
 | Headache | 19 (44) | 12 (27) |
 | Nasopharyngitis | 10 (23) | 8 (18) |
@@ -46,20 +46,20 @@ Table 4: Adverse Reactions Reported in 5% or More of Soliris Treated Patients wi
 | Pain in extremity | 3 (7) | 1 (2) |
 | Influenza-like illness | 2 (5) | 1 (2) |
 
-In the placebo-controlled clinical study, serious adverse reactions occurred among 4 (9%) patients receiving Soliris and 9 (21%) patients receiving placebo.
+In the placebo-controlled clinical study, serious adverse reactions occurred among 4 (9%) patients receiving SOLIRIS and 9 (21%) patients receiving placebo.
 The serious reactions included infections and progression of PNH.
-No deaths occurred in the study and no patients receiving Soliris experienced a thrombotic event; one thrombotic event occurred in a patient receiving placebo.
+No deaths occurred in the study and no patients receiving SOLIRIS experienced a thrombotic event; one thrombotic event occurred in a patient receiving placebo.
 
-Among 193 patients with PNH treated with Soliris in the single arm, clinical study or the follow-up study, the adverse reactions were similar to those reported in the placebo-controlled clinical study.
+Among 193 patients with PNH treated with SOLIRIS in the single arm, clinical study or the follow-up study, the adverse reactions were similar to those reported in the placebo-controlled clinical study.
 Serious adverse reactions occurred among 16% of the patients in these studies.
 The most common serious adverse reactions were: viral infection (2%), headache (2%), anemia (2%), and pyrexia (2%).
 
 aHUS
 
-The safety of Soliris therapy in patients with aHUS was evaluated in four prospective, single-arm studies, three in adult and adolescent patients (Studies C08-002A/B, C08-003A/B, and C10-004), one in pediatric and adolescent patients (Study C10-003), and one retrospective study (Study C09-001r).
+The safety of SOLIRIS therapy in patients with aHUS was evaluated in four prospective, single-arm studies, three in adult and adolescent patients (Studies C08-002A/B, C08-003A/B, and C10-004), one in pediatric and adolescent patients (Study C10-003), and one retrospective study (Study C09-001r).
 
 The data described below were derived from 78 adult and adolescent patients with aHUS in Studies C08-002A/B, C08-003A/B and C10-004.
-All patients received the recommended dosage of Soliris.
+All patients received the recommended dosage of SOLIRIS.
 Median exposure was 67 weeks (range: 2-145 weeks).
 Table 5 summarizes all adverse events reported in at least 10% of patients in Studies C08-002A/B, C08-003A/B and C10-004 combined.
 
@@ -112,10 +112,10 @@ Table 5: Per Patient Incidence of Adverse Events in 10% or More Adult and Adoles
 
 In Studies C08-002A/B, C08-003A/B and C10-004 combined, 60% (47/78) of patients experienced a serious adverse event (SAE).
 The most commonly reported SAEs were infections (24%), hypertension (5%), chronic renal failure (5%), and renal impairment (5%).
-Five patients discontinued Soliris due to adverse events; three due to worsening renal function, one due to new diagnosis of Systemic Lupus Erythematosus, and one due to meningococcal meningitis.
+Five patients discontinued SOLIRIS due to adverse events; three due to worsening renal function, one due to new diagnosis of Systemic Lupus Erythematosus, and one due to meningococcal meningitis.
 
 Study C10-003 included 22 pediatric and adolescent patients, of which 18 patients were less than 12 years of age.
-All patients received the recommended dosage of Soliris.
+All patients received the recommended dosage of SOLIRIS.
 Median exposure was 44 weeks (range: 1 dose-87 weeks).
 
 Table 6 summarizes all adverse events reported in at least 10% of patients enrolled in Study C10-003.
@@ -153,11 +153,11 @@ Table 6: Per Patient Incidence of Adverse Reactions in 10% or More Patients Enro
 
 In Study C10-003, 59% (13/22) of patients experienced a serious adverse event (SAE).
 The most commonly reported SAEs were hypertension (9%), viral gastroenteritis (9%), pyrexia (9%), and upper respiratory infection (9%).
-One patient discontinued Soliris due to an adverse event (severe agitation).
+One patient discontinued SOLIRIS due to an adverse event (severe agitation).
 
 Analysis of retrospectively collected adverse event data from pediatric and adult patients enrolled in Study C09-001r (N=30) revealed a safety profile that was similar to that which was observed in the two prospective studies.
 Study C09-001r included 19 pediatric patients less than 18 years of age.
-Overall, the safety of Soliris in pediatric patients with aHUS enrolled in Study C09-001r appeared similar to that observed in adult patients.
+Overall, the safety of SOLIRIS in pediatric patients with aHUS enrolled in Study C09-001r appeared similar to that observed in adult patients.
 The most common (≥15%) adverse events occurring in pediatric patients are presented in Table 7.
 
 Table 7: Adverse Reactions Occurring in at Least 15% of Patients Less than 18 Years of Age Enrolled in Study C09-001r
@@ -180,13 +180,13 @@ Table 7: Adverse Reactions Occurring in at Least 15% of Patients Less than 18 Ye
 
 Generalized Myasthenia Gravis (gMG)
 
-In a 26-week placebo-controlled trial evaluating the effect of Soliris for the treatment of gMG (gMG Study 1), 62 patients received Soliris at the recommended dosage regimen and 63 patients received placebo [see Clinical Studies (14.3)].
+In a 26-week placebo-controlled trial evaluating the effect of SOLIRIS for the treatment of gMG (gMG Study 1), 62 patients received SOLIRIS at the recommended dosage regimen and 63 patients received placebo [see Clinical Studies (14.3)].
 Patients were 19 to 79 years of age, and 66% were female.
-Table 8 displays the most common adverse reactions from gMG Study 1 that occurred in ≥5% of Soliris-treated patients and at a greater frequency than on placebo.
+Table 8 displays the most common adverse reactions from gMG Study 1 that occurred in ≥5% of SOLIRIS-treated patients and at a greater frequency than on placebo.
 
-Table 8: Adverse Reactions Reported in 5% or More of Soliris-Treated Patients in gMG Study 1 and at a Greater Frequency than in Placebo-Treated Patients
+Table 8: Adverse Reactions Reported in 5% or More of SOLIRIS-Treated Patients in gMG Study 1 and at a Greater Frequency than in Placebo-Treated Patients
 
-|  | Soliris (N=62) N (%) | Placebo (N=63) N (%) |
+|  | SOLIRIS (N=62) N (%) | Placebo (N=63) N (%) |
 | --- | --- | --- |
 | Gastrointestinal Disorders |  |  |
 | Abdominal pain | 5 (8) | 3 (5) |
@@ -200,17 +200,17 @@ Table 8: Adverse Reactions Reported in 5% or More of Soliris-Treated Patients in
 | Musculoskeletal and Connective Tissue Disorders |  |  |
 | Musculoskeletal pain | 9 (15) | 5 (8) |
 
-The most common adverse reactions (≥10%) that occurred in Soliris-treated patients in the long-term extension to gMG Study 1, Study ECU-MG-302, and that are not included in Table 8 were headache (26%), nasopharyngitis (24%), diarrhea (15%), arthralgia (12%), upper respiratory tract infection (11%), and nausea (10%).
+The most common adverse reactions (≥10%) that occurred in SOLIRIS-treated patients in the long-term extension to gMG Study 1, Study ECU-MG-302, and that are not included in Table 8 were headache (26%), nasopharyngitis (24%), diarrhea (15%), arthralgia (12%), upper respiratory tract infection (11%), and nausea (10%).
 
 Neuromyelitis Optica Spectrum Disorder (NMOSD)
 
-In a placebo-controlled trial evaluating the effect of Soliris for the treatment of NMOSD (NMOSD Study 1), 96 patients received Soliris at the recommended dosage regimen and 47 patients received placebo [see Clinical Studies (14.4)].
+In a placebo-controlled trial evaluating the effect of SOLIRIS for the treatment of NMOSD (NMOSD Study 1), 96 patients received SOLIRIS at the recommended dosage regimen and 47 patients received placebo [see Clinical Studies (14.4)].
 Patients were 19 to 75 years of age (mean 44 years of age), and 91% were female.
-Table 9 displays the most common adverse reactions from NMOSD Study 1 that occurred in ≥5% of Soliris-treated patients and at a greater frequency than on placebo.
+Table 9 displays the most common adverse reactions from NMOSD Study 1 that occurred in ≥5% of SOLIRIS-treated patients and at a greater frequency than on placebo.
 
-Table 9: Adverse Reactions Reported in 5% or More of Soliris-Treated Patients in NMOSD Study 1 and at a Greater Frequency than in Placebo-Treated Patients
+Table 9: Adverse Reactions Reported in 5% or More of SOLIRIS-Treated Patients in NMOSD Study 1 and at a Greater Frequency than in Placebo-Treated Patients
 
-|  | Soliris (N=96) N (%) | Placebo (N=47) N (%) |
+|  | SOLIRIS (N=96) N (%) | Placebo (N=47) N (%) |
 | --- | --- | --- |
 | Events/Patients | 1295/88 | 617/45 |
 | Blood and lymphatic system disorders |  |  |
@@ -258,11 +258,11 @@ The detection of antibody formation is highly dependent on the sensitivity and s
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to eculizumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
 
-The immunogenicity of Soliris has been evaluated using two different immunoassays for the detection of anti-eculizumab antibodies: a direct enzyme-linked immunosorbent assay (ELISA) using the Fab fragment of eculizumab as target was used for the PNH indication; and an electro-chemiluminescence (ECL) bridging assay using the eculizumab whole molecule as target was used for the aHUS, gMG, and NMOSD indications, as well as for additional patients with PNH.
-In the PNH population, antibodies to Soliris were detected in 3/196 (2%) patients using the ELISA assay and in 5/161 (3%) patients using the ECL assay.
-In the aHUS population, antibodies to Soliris were detected in 3/100 (3%) patients using the ECL assay.
-None of the 62 patients with gMG had antibodies to Soliris detected following the 26-week active treatment.
-Two of the 96 (2%) Soliris-treated patients with NMOSD had antibodies to Soliris detected during the entire treatment period.
+The immunogenicity of SOLIRIS has been evaluated using two different immunoassays for the detection of anti-eculizumab antibodies: a direct enzyme-linked immunosorbent assay (ELISA) using the Fab fragment of eculizumab as target was used for the PNH indication; and an electro-chemiluminescence (ECL) bridging assay using the eculizumab whole molecule as target was used for the aHUS, gMG, and NMOSD indications, as well as for additional patients with PNH.
+In the PNH population, antibodies to SOLIRIS were detected in 3/196 (2%) patients using the ELISA assay and in 5/161 (3%) patients using the ECL assay.
+In the aHUS population, antibodies to SOLIRIS were detected in 3/100 (3%) patients using the ECL assay.
+None of the 62 patients with gMG had antibodies to SOLIRIS detected following the 26-week active treatment.
+Two of the 96 (2%) SOLIRIS-treated patients with NMOSD had antibodies to SOLIRIS detected during the entire treatment period.
 
 An ECL based neutralizing assay with a low sensitivity of 2 mcg/mL was performed to detect neutralizing antibodies for the 5 patients with PNH, the 3 patients with aHUS, and the 2 patients with NMOSD with anti-eculizumab antibody positive samples using the ECL assay.
 Two of 161 patients with PNH (1.2%) and 1 of 100 patients with aHUS (1%), and none of the 96 patients with NMOSD had low positive values for neutralizing antibodies.
@@ -271,7 +271,7 @@ No apparent correlation of antibody development to clinical response was observe
 
 ## 6.3 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of Soliris.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to Soliris exposure.
+The following adverse reactions have been identified during post-approval use of SOLIRIS.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to SOLIRIS exposure.
 
 Fatal or serious infections: Neisseria gonorrhoeae, Neisseria meningitidis, Neisseria sicca/subflava, Neisseria spp unspecified
