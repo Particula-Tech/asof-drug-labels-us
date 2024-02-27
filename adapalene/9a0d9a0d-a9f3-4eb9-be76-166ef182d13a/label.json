@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021753"
+  ],
+  "inn": "adapalene",
+  "labeler": "Mayne Pharma Commercial LLC.",
+  "package_ndcs": [
+    "68308-666-25",
+    "68308-666-45"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "adapalene",
+      "name": "ADAPALENE"
+    }
+  ],
+  "setid": "9a0d9a0d-a9f3-4eb9-be76-166ef182d13a",
+  "source": "dailymed"
+}
