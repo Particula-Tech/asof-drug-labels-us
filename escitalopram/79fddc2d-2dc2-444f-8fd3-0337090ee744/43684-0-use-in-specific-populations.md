@@ -5,13 +5,9 @@
 Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
 Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clnical-and-research-programs/pregnancyregistry/antidepressants/
 
-Risk Summary
-
-Based on data from published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions (5.7) and Clinical Considerations].
+Risk Summary Based on data from published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions (5.7) and Clinical Considerations].
 Available data from published epidemiologic studies and postmarketing reports have not established an increased risk of major birth defects or miscarriage.
-There are risks of persistent pulmonary hypertension of the newborn (PPHN) (see Data) and poor neonatal adaptation (see Clinical Considerations) with exposure to selective serotonin reuptake inhibitors (SSRIs), including
-
-escitalopram oral solution, during pregnancy.
+There are risks of persistent pulmonary hypertension of the newborn (PPHN) (see Data) and poor neonatal adaptation (see Clinical Considerations) with exposure to selective serotonin reuptake inhibitors (SSRIs), including escitalopram oral solution, during pregnancy.
 There are risks associated with untreated depression in pregnancy (see Clinical Considerations).
 In animal reproduction studies, both escitalopram and racemic citalopram have been shown to have adverse effects on embryo/fetal and postnatal development, including fetal structural abnormalities, when administered at doses greater than human therapeutic doses (see Data).
 
@@ -71,21 +67,56 @@ A study of 8 nursing mothers on escitalopram with daily doses of 10 to 20 mg/day
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of escitalopram oral solution have been established in adolescents (12 to 17 years of age) for the treatment of major depressive disorder [see Clinical Studies (14.1)].
-Although maintenance efficacy in adolescent patients with major depressive disorder has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of escitalopram pharmacokinetic parameters in adults and adolescent patients.
-The safety and effectiveness of escitalopram oral solution have not been established in pediatric (younger than 12 years of age) patients with major depressive disorder.
-In a 24-week, open- label safety study in 118 children (aged 7 to 11 years) who had major depressive disorder, the safety findings were consistent with the known safety and tolerability profile for escitalopram oral solution.
-Safety and effectiveness of escitalopram oral solution has not been established in pediatric patients less than 18 years of age with Generalized Anxiety Disorder.
+Major Depressive Disorder
+
+The safety and effectiveness of escitalopram oral solution for the treatment of major depressive disorder have been established in pediatric patients 12 years of age and older.
+Use of escitalopram oral solution for this indication is supported by evidence from adequate and well-controlled studies in adults with additional evidence from an 8-week, flexible-dose, placebo-controlled study that compared escitalopram oral solution 10 mg to 20 mg once daily to placebo in pediatric patients 12 to 17 years of age with major depressive disorder [see Clinical Studies (14.1)].
+The safety of escitalopram oral solution was similar to adult patients with MDD [see Adverse Reactions (6.1)].
+
+The safety and effectiveness of escitalopram oral solution for the treatment of major depressive disorder have not been established in pediatric patients younger than 12 years of age.
+In a 24-week, open- label safety study in 118 pediatric patient (aged 7 to 11 years) who had major depressive disorder, the safety findings were consistent with the known safety and tolerability profile for escitalopram oral solution.
+
+Generalized Anxiety Disorder
+
+The safety and effectiveness of escitalopram oral solution for the treatment of generalized anxiety disorder have not been established in pediatric patients younger than 7 years of age.
+
+Antidepressants increase the risk of suicidal thoughts and behaviors in pediatric patients [see Warnings and Precautions (5.1)].
 Decreased appetite and weight loss have been observed in association with the use of SSRIs.
 Consequently, regular monitoring of weight and growth should be performed in children and adolescents treated with an SSRI such as escitalopram oral solution.
 
+Juvenile Animal Toxicity Data
+
+In a juvenile animal study, male and female rats were administered escitalopram at 5, 40, or 80 mg/kg/day by oral gavage from postnatal day (PND) 21 to PND 69.
+A delay in sexual maturation was observed in both males and females at ≥ 40 mg/kg/day with a No Observed Adverse Effect Level (NOAEL) of 5 mg/kg/day.
+This NOAEL was associated with plasma AUC levels less than those measured at the maximum recommended dose (MRHD) in pediatrics (20 mg).
+However, there was no effect on reproductive function.
+Increased motor activity (both ambulatory and fine movements) was observed in females prior to daily dosing at ≥ 40 mg/kg/day (3.5 times the MRHD based on AUC levels).
+A reversible disruption of learning and memory function was observed in males at 80 mg/kg/day with a NOAEL of 40 mg/kg/day, which was associated with an AUC level 3.5 times those measured at the MRHD in pediatrics.
+There was no effect on learning and memory function in treated female rats.
+
+Additional pediatric use information is approved for AbbVie Inc.’s LEXAPRO (escitalopram) oral solution.
+However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+
 ## 8.5 Geriatric Use
 
-Approximately 6% of the 1144 patients receiving escitalopram in controlled trials of escitalopram oral solution in major depressive disorder and GAD were 60 years of age or older; elderly patients in these trials received daily doses of escitalopram oral solution between 10 and 20 mg.
+Approximately 69 patients (6%) of the 1,144 patients receiving escitalopram in controlled trials of escitalopram oral solution in major depressive disorder and GAD were 60 years of age or older [see Clinical Studies (14.1, 14.2)].
 The number of elderly patients in these trials was insufficient to adequately assess for possible differential efficacy and safety measures on the basis of age.
 Nevertheless, greater sensitivity of some elderly individuals to effects of escitalopram oral solution cannot be ruled out.
-SSRIs and SNRIs, including escitalopram oral solution, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.6)].
-In two pharmacokinetic studies, escitalopram half-life was increased by approximately 50% in elderly subjects as compared to young subjects and Cmax was unchanged [see Clinical Pharmacology (12.3)].
-10 mg/day is the recommended dose for elderly patients [see Dosage and Administration (2.3)].
-Of 4422 patients in clinical studies of racemic citalopram, 1357 were 60 and over, 1034 were 65 and over, and 457 were 75 and over.
-No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but again, greater sensitivity of some elderly individuals cannot be ruled out.
+
+In two pharmacokinetic studies, escitalopram half-life was increased by approximately 50% in subjects 65 years and older as compared to young subjects and Cmax was unchanged [see Clinical Pharmacology (12.3)].
+The recommended dosage of escitalopram oral solution for elderly patients is 10 mg daily [see Dosage and Administration (2.5)].
+
+SSRIs, including escitalopram oral solution, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse reaction [see Warnings and Precautions (5.6)].
+
+Of 4,422 patients in clinical studies of racemic citalopram, 1,357 were 60 and over, 1,034 were 65 and over, and 457 were 75 and over.
+No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the geriatric and younger patients, but again, greater sensitivity of some elderly individuals cannot be ruled out.
+
+## 8.6 Hepatic Impairment
+
+Increased citalopram exposure occurs in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
+The recommended dosage of escitalopram oral solution in patients with hepatic impairment is 10 mg daily [see Dosage and Administration (2.5)].
+
+## 8.7 Renal Impairment
+
+Pharmacokinetics of escitalopram oral solution in patients with a creatinine clearance less than 20 mL/minute has not been evaluated.
+No dosage adjustment is necessary for patients with mild or moderate renal impairment [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].

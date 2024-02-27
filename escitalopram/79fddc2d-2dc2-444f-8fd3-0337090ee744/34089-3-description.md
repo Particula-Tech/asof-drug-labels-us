@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Escitalopram oral solution, USP contains escitalopram oxalate USP, an orally administered selective serotonin reuptake inhibitor (SSRI).
+Escitalopram oral solution, USP contains escitalopram a selective serotonin reuptake inhibitor (SSRI), present as escitalopram oxalate salt.
 Escitalopram is the pure S- enantiomer (single isomer) of the racemic bicyclic phthalane derivative citalopram.
 Escitalopram oxalate is designated S-(+)-1-[3(dimethyl-amino)propyl]-1-(p-fluorophenyl)-5-phthalancarbonitrile oxalate with the following structural formula:
 
