@@ -52,5 +52,5 @@
 | • | Replace the small white cap on the dropper immediately after use. |
 | This Instructions for Use has been approved by the U.S. Food and Drug Administration. |  |
 | Manufactured by: Baccinex SA, 2822 Courroux, Switzerland |  |
-| Manufactured for: Recordati Rare Diseases Inc., Lebanon, NJ 08833, U.S.A. |  |
+| Manufactured for: Recordati Rare Diseases Inc., Bridgewater, NJ 08807, U.S.A. |  |
 | Approved: 08/2020 |  |

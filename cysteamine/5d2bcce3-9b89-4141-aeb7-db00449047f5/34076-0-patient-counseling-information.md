@@ -41,7 +41,7 @@ If the patient misses an instillation, instruct the patient to administer a dose
 
 Manufactured by: Baccinex SA, 2822 Courroux, Switzerland
 
-Manufactured for: Recordati Rare Diseases Inc., Lebanon, NJ 08833, U.S.A.
+Manufactured for: Recordati Rare Diseases Inc., Bridgewater, NJ 08807, U.S.A.
 
 This product label may have been updated.
 For the most recent prescribing information, please visit www.recordatirarediseases.com/us.
