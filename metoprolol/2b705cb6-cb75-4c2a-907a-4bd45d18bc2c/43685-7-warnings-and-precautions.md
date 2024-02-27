@@ -37,13 +37,14 @@ Chronically administered beta-blocking therapy should not be routinely withdrawn
 
 Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting).
 If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment.
+Beta-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia.
 
 ## 5.7 Thyrotoxicosis
 
 Beta-adrenergic blockade may mask certain clinical signs of hyperthyroidism, such as tachycardia.
 Abrupt withdrawal of beta-blockade may precipitate a thyroid storm.
 
-## 5.8 Risk of Anaphylactic Reactions
+## 5.8 Risk of Anaphylactic Reaction
 
 While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.

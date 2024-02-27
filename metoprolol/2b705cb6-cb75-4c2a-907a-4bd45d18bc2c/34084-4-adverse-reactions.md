@@ -52,7 +52,8 @@ In a randomized comparison of metoprolol and placebo in the setting of acute MI 
 
 ## 6.2 Post-Marketing Experience
 
-The following adverse reactions have been identified during post approval use of drug X. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse reactions have been identified during post approval use of metoprolol.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Central Nervous System: Reversible mental depression progressing to catatonia; an acute reversible syndrome characterized by disorientation for time and place, short-term memory loss, emotional lability, slightly clouded sensorium, and decreased performance on neuropsychometrics.
 
