@@ -12,12 +12,12 @@
 4. 4.Curb JD, et al. Venous Thrombosis and Conjugated Equine Estrogen in Women Without a Uterus.
    Arch Int Med.
    2006;166:772–780.
-5. 5.Chlebowski RT, et al. Influence of Estrogen Plus Progestin on Breast Cancer and Mammography in Healthy Postmenopausal Women.
+5. 5.Stefanick ML, et al. Effects of Conjugated Equine Estrogens on Breast Cancer and Mammography Screening in Postmenopausal Women With Hysterectomy.
+   JAMA.
+   2006;295:1647-1657.
+6. 6.Chlebowski RT, et al. Influence of Estrogen Plus Progestin on Breast Cancer and Mammography in Healthy Postmenopausal Women.
    JAMA.
    2003;289:3234–3253.
-6. 6.Stefanick ML, et al. Effects of Conjugated Equine Estrogens on Breast Cancer and Mammography Screening in Postmenopausal Women With Hysterectomy.
-   JAMA.
-   2006;295:1647–1657.
 7. 7.Anderson GL, et al. Effects of Estrogen Plus Progestin on Gynecologic Cancers and Associated Diagnostic Procedures.
    JAMA.
    2003;290:1739–1748.

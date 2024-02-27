@@ -188,4 +188,4 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (5
 | This product's label may have been updated. For current package insert and further product information, please visit www.pfizer.com. |
 | --- |
 
-LAB-0504-9.0 Revised May 2019
+LAB-0504-10.0 Revised February 2024

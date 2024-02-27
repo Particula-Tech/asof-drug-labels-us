@@ -51,7 +51,9 @@ If feasible, estrogens should be discontinued at least 4 to 6 weeks before surge
 
 Breast Cancer
 
-The most important randomized clinical trial providing information about breast cancer in estrogen plus progestin users is the WHI substudy of daily CE (0.625 mg) plus MPA (2.5 mg).
+The WHI substudy of daily CE (0.625 mg)-alone provided information about breast cancer in estrogen-alone users.
+In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE (0.625 mg)-alone was not associated with an increased risk of invasive breast cancer [relative risk (RR) 0.80]5 [see Clinical Studies (14.6)].
+
 After a mean follow-up of 5.6 years, the estrogen plus progestin substudy reported an increased risk of invasive breast cancer in women who took daily CE plus MPA.
 In this substudy, prior use of estrogen-alone or estrogen plus progestin therapy was reported by 26 percent of the women.
 The relative risk of invasive breast cancer was 1.24, and the absolute risk was 41 versus 33 cases per 10,000 women-years, for CE plus MPA compared with placebo.
@@ -59,14 +61,11 @@ Among women who reported prior use of hormone therapy, the relative risk of inva
 Among women who reported no prior use of hormone therapy, the relative risk of invasive breast cancer was 1.09, and the absolute risk was 40 versus 36 cases per 10,000 women-years, for CE plus MPA compared with placebo.
 In the same substudy, invasive breast cancers were larger, were more likely to be node positive, and were diagnosed at a more advanced stage in the CE (0.625 mg) plus MPA (2.5 mg) group compared with the placebo group.
 Metastatic disease was rare, with no apparent difference between the two groups.
-Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups5 [see Clinical Studies (14.6)].
+Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups6 [see Clinical Studies (14.6)].
 
-The most important randomized clinical trial providing information about breast cancer in estrogen-alone users is the WHI substudy of daily CE (0.625 mg)-alone.
-In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE (0.625 mg)-alone was not associated with an increased risk of invasive breast cancer [relative risk (RR) 0.80]6 [see Clinical Studies (14.6)].
-
-Consistent with the WHI clinical trials, observational studies have also reported an increased risk of breast cancer for estrogen plus progestin therapy, and a smaller increased risk for estrogen-alone therapy, after several years of use.
-The risk increased with duration of use, and appeared to return to baseline over about 5 years after stopping treatment (only the observational studies have substantial data on risk after stopping).
-Observational studies also suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to estrogen-alone therapy.
+Consistent with the WHI clinical trials, observational studies have also reported an increased risk of breast cancer for estrogen plus progestin therapy and a smaller increased risk for estrogen-alone therapy, after several years of use.
+One large meta-analysis of prospective cohort studies reported increased risks that were dependent upon duration of use and could last up to > 10 years after discontinuation of estrogen plus progestin therapy and estrogen-alone therapy.
+Extension of the WHI trials also demonstrated increased breast cancer risk associated with estrogen plus progestin therapy.Observational studies also suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to the risk with estrogen-alone therapy.
 However, these studies have not found significant variation in the risk of breast cancer among different estrogen plus progestin combinations, doses, or routes of administration.
 
 The use of estrogen-alone and estrogen plus progestin has been reported to result in an increase in abnormal mammograms requiring further evaluation.
