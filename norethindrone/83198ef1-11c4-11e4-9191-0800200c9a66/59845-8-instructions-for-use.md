@@ -68,6 +68,6 @@ Distributed by: Noven Therapeutics, LLC Miami, FL 33186
 
 For more information call 1-800-455-8070 or visit www.combipatch.com.
 
-© 2004, 2014, 2015 Noven Pharmaceuticals, Inc.
+© 2024 Noven Pharmaceuticals, Inc.
 
-102538-4 12/2021
+102538-5 02/2024

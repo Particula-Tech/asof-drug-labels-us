@@ -20,7 +20,6 @@ The WHI estrogen plus progestin substudy demonstrated an increased risk of invas
 (See CLINICAL STUDIES and WARNINGS, Malignant Neoplasms, Breast Cancer).
 
 In the absence of comparable data, these risks should be assumed to be similar for other doses of CE and MPA, and other combinations and dosage forms of estrogens and progestins.
-
 Estrogens with or without progestins should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.
 
 Estrogen-Alone Therapy
@@ -30,7 +29,7 @@ Endometrial Cancer
 There is an increased risk of endometrial cancer in a woman with a uterus who uses unopposed estrogens.
 Adding a progestin to estrogen therapy has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer.
 Adequate diagnostic measures, including directed or random endometrial sampling when indicated, should be undertaken to rule out malignancy in postmenopausal women with undiagnosed persistent or recurring abnormal genital bleeding.
-(See WARNINGS, Malignant Neoplasms, Endometrial Cancer).
+(SeeWARNINGS, Malignant Neoplasms, Endometrial Cancer).
 
 Cardiovascular Disorders and Probable Dementia
 
@@ -44,5 +43,4 @@ It is unknown whether this finding applies to younger postmenopausal women.
 (See CLINICAL STUDIES and WARNINGS, Probable Dementia and PRECAUTIONS, Geriatric Use).
 
 In the absence of comparable data, these risks should be assumed to be similar for other doses of CE and other dosage forms of estrogens.
-
 Estrogens with or without progestins should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.

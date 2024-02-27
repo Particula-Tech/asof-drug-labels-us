@@ -58,44 +58,26 @@ If feasible, estrogens should be discontinued at least 4 to 6 weeks before surge
 
 a. Breast Cancer
 
-The most important randomized clinical trial providing information about breast cancer in estrogen plus progestin users is the WHI substudy of daily CE (0.625 mg) plus MPA (2.5 mg).
-After a mean follow-up of 5.6 years, the estrogen plus progestin substudy reported an increased risk of invasive breast cancer in women who took daily CE plus MPA.
+The WHI substudy of daily CE (0.625 mg)-alone provided information about breast cancer in estrogen-alone users.
+In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE-alone was not associated with an increased risk of invasive breast cancer (relative risk [RR] 0.80)5 [see CLINICAL STUDIES].
+After a mean follow-up of 5.6 years, the WHI substudy of daily CE (0.625 mg) plus MPA (2.5 mg) reported an increased risk of invasive breast cancer in women who took daily CE plus MPA compared to placebo.
 In this substudy, prior use of estrogen-alone or estrogen plus progestin therapy was reported by 26 percent of the women.
 The relative risk of invasive breast cancer was 1.24, and the absolute risk was 41 versus 33 cases per 10,000 women-years, for CE plus MPA compared with placebo.
 Among women who reported prior use of hormone therapy, the relative risk of invasive breast cancer was 1.86, and the absolute risk was 46 versus 25 cases per 10,000 women-years, for CE plus MPA compared with placebo.
 Among women who reported no prior use of hormone therapy, the relative risk of invasive breast cancer was 1.09, and the absolute risk was 40 versus 36 cases per 10,000 women-years for CE plus MPA compared with placebo.
 In the same substudy, invasive breast cancers were larger, were more likely to be node positive, and were diagnosed at a more advanced stage in the CE (0.625 mg) plus MPA (2.5 mg) group compared with the placebo group.
-Metastatic disease was rare, with no apparent difference between the 2 groups.
-Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups.
-(See) The most important randomized clinical trial providing information about breast cancer in estrogen plus progestin users is the WHI substudy of daily CE (0.625 mg) plus MPA (2.5 mg).
-After a mean follow-up of 5.6 years, the estrogen plus progestin substudy reported an increased risk of invasive breast cancer in women who took daily CE plus MPA.
-In this substudy, prior use of estrogen-alone or estrogen plus progestin therapy was reported by 26 percent of the women.
-The relative risk of invasive breast cancer was 1.24, and the absolute risk was 41 versus 33 cases per 10,000 women-years, for CE plus MPA compared with placebo.
-6 Among women who reported prior use of hormone therapy, the relative risk of invasive breast cancer was 1.86, and the absolute risk was 46 versus 25 cases per 10,000 women-years, for CE plus MPA compared with placebo.
-Among women who reported no prior use of hormone therapy, the relative risk of invasive breast cancer was 1.09, and the absolute risk was 40 versus 36 cases per 10,000 women-years for CE plus MPA compared with placebo.
-In the same substudy, invasive breast cancers were larger, were more likely to be node positive, and were diagnosed at a more advanced stage in the CE (0.625 mg) plus MPA (2.5 mg) group compared with the placebo group.
-Metastatic disease was rare, with no apparent difference between the 2 groups.
-Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups.
-5 (See CLINICAL STUDIES)
-
-The most important randomized clinical trial providing information about breast cancer in estrogen-alone users is the WHI substudy of CE (0.625)-alone.
-In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE-alone was not associated with an increased risk of invasive breast cancer (relative risk [RR] 0.80).
-(See) The most important randomized clinical trial providing information about breast cancer in estrogen-alone users is the WHI substudy of CE (0.625)-alone.
-In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE-alone was not associated with an increased risk of invasive breast cancer (relative risk [RR] 0.80).
-6 (See CLINICAL STUDIES)
+Metastatic disease was rare, with no apparent difference between the two groups.
+Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups [see CLINICAL STUDIES].
 
 Consistent with the WHI clinical trial, observational studies have also reported an increased risk of breast cancer for estrogen plus progestin therapy, and a smaller increased risk for estrogen-alone therapy, after several years of use.
-The risk increased with duration of use, and appeared to return to baseline over about 5 years after stopping treatment (only the observational studies have substantial data on risk after stopping).
-Observational studies also suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to estrogen-alone therapy.
-However, these studies have not found significant variation in the risk of breast cancer among different estrogen plus progestin combinations, doses, or routes of administration.Consistent with the WHI clinical trial, observational studies have also reported an increased risk of breast cancer for estrogen plus progestin therapy, and a smaller increased risk for estrogen-alone therapy, after several years of use.
-The risk increased with duration of use, and appeared to return to baseline over about 5 years after stopping treatment (only the observational studies have substantial data on risk after stopping).
+One large meta-analysis of prospective cohort studies reported increased risks that were dependent upon duration of use and could last up to >10 years after discontinuation of estrogen plus progestin therapy and estrogen-alone therapy.
+Extension of the WHI trials also demonstrated increased breast cancer risk associated with estrogen plus progestin therapy.
 Observational studies also suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to estrogen-alone therapy.
 However, these studies have not found significant variation in the risk of breast cancer among different estrogen plus progestin combinations, doses, or routes of administration.
 
-The use of estrogen-alone and estrogen plus progestin has been reported to result in an increase in abnormal mammograms requiring further evaluation.The use of estrogen-alone and estrogen plus progestin has been reported to result in an increase in abnormal mammograms requiring further evaluation.
+The use of estrogen-alone and estrogen plus progestin has been reported to result in an increase in abnormal mammograms requiring further evaluation.
 
 All women should receive yearly breast examinations by a healthcare provider and perform monthly breast self-examinations.
-In addition, mammography examinations should be scheduled based on patient age, risk factors, and prior mammogram results.All women should receive yearly breast examinations by a healthcare provider and perform monthly breast self-examinations.
 In addition, mammography examinations should be scheduled based on patient age, risk factors, and prior mammogram results.
 
 b. Endometrial Cancer
@@ -103,15 +85,8 @@ b. Endometrial Cancer
 An increased risk of endometrial cancer has been reported with the use of unopposed estrogen therapy in a woman with a uterus.
 The reported endometrial cancer risk among users of unopposed estrogen is about 2 to 12 times greater than in nonusers, and appears dependent on duration of treatment and on estrogen dose.
 Most studies show no significant increased risk associated with the use of estrogens for less than 1 year.
-The greatest risk appears associated with prolonged use with increased risks of 15- to 24-fold for 5 to 10 years or more and this risk has been shown to persist for at least 8 to 15 years after estrogen therapy is discontinued.An increased risk of endometrial cancer has been reported with the use of unopposed estrogen therapy in a woman with a uterus.
-The reported endometrial cancer risk among users of unopposed estrogen is about 2 to 12 times greater than in nonusers, and appears dependent on duration of treatment and on estrogen dose.
-Most studies show no significant increased risk associated with the use of estrogens for less than 1 year.
 The greatest risk appears associated with prolonged use with increased risks of 15- to 24-fold for 5 to 10 years or more and this risk has been shown to persist for at least 8 to 15 years after estrogen therapy is discontinued.
 
-Clinical surveillance of all women using estrogen-alone or estrogen plus progestin therapy is important.
-Adequate diagnostic measures, including directed or random endometrial sampling when indicated, should be undertaken to rule out malignancy in postmenopausal women with undiagnosed persistent or recurring abnormal genital bleeding.
-There is no evidence that the use of natural estrogens results in a different endometrial risk profile than synthetic estrogens of equivalent estrogen dose.
-Adding a progestin to estrogen therapy has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer.
 Clinical surveillance of all women using estrogen-alone or estrogen plus progestin therapy is important.
 Adequate diagnostic measures, including directed or random endometrial sampling when indicated, should be undertaken to rule out malignancy in postmenopausal women with undiagnosed persistent or recurring abnormal genital bleeding.
 There is no evidence that the use of natural estrogens results in a different endometrial risk profile than synthetic estrogens of equivalent estrogen dose.
@@ -121,11 +96,7 @@ c. Ovarian Cancer
 
 The WHI estrogen plus progestin substudy reported a statistically nonsignificant increased risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE plus MPA versus placebo was 1.58 (95 percent CI 0.77 to 3.24).
-The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.
-The WHI estrogen plus progestin substudy reported a statistically nonsignificant increased risk of ovarian cancer.
-After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE plus MPA versus placebo was 1.58 (95 percent CI 0.77 to 3.24).
-The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.
-7
+The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7
 
 A meta-analysis of 17 prospective and 35 retrospective epidemiology studies found that women who used hormonal therapy for menopausal symptoms had an increased risk for ovarian cancer.
 The primary analysis, using case-control comparisons, included 12,110 cancer cases from the 17 prospective studies.
@@ -139,18 +110,15 @@ In the WHIMS estrogen plus progestin ancillary substudy of WHI, a population of 
 
 After an average follow-up of 4 years, 40 women in the CE plus MPA group and 21 women in the placebo group were diagnosed with probable dementia.
 The relative risk for CE plus MPA versus placebo was 2.05 (95 percent CI, 1.21 to 3.48).
-The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years.
-8 (See CLINICAL STUDIES and PRECAUTIONS, Geriatric Use)
+The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years.8 (See CLINICAL STUDIES and PRECAUTIONS, Geriatric Use)
 
 In the WHIMS estrogen-alone ancillary study of WHI, a population of 2,947 hysterectomized women 65 to 79 years of age was randomized to daily CE (0.625 mg)-alone or placebo.
 After an average follow-up of 5.2 years, 28 women in the estrogen-alone group and 19 women in the placebo group were diagnosed with probable dementia.
 The relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent CI, 0.83 to 2.66).
-The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years.
-8 (See CLINICAL STUDIES and PRECAUTIONS, Geriatric Use)
+The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years.8 (See CLINICAL STUDIES and PRECAUTIONS, Geriatric Use)
 
 When data from the 2 populations in the WHIMS estrogen-alone and estrogen plus progestin ancillary studies were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19 to 2.60).
-Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women.
-8 (See PRECAUTIONS, Geriatric Use)
+Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women.8 (See PRECAUTIONS, Geriatric Use)
 
 ## 4. Gallbladder Disease
 
@@ -214,7 +182,7 @@ For women with a history of cholestatic jaundice associated with past estrogen u
 Hypothyroidism
 
 Estrogen administration leads to increased thyroid-binding globulin (TBG) levels.
-Women with normal thyroid function can compensate for the increased TBG by making more thyroid hormone, thus maintaining free T 4 and T 3 serum concentrations in the normal range.
+Women with normal thyroid function can compensate for the increased TBG by making more thyroid hormone, thus maintaining free T4 and T3 serum concentrations in the normal range.
 Women dependent on thyroid hormone replacement therapy who are also receiving estrogens may require increased doses of their thyroid replacement therapy.
 These women should have their thyroid function monitored in order to maintain their free thyroid hormone levels in an acceptable range.
 
@@ -256,9 +224,9 @@ Laboratory parameters may be useful in guiding dosage for the treatment of hypoe
 Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex; and beta-thromboglobulin; decreased levels of anti-factor Xa and antithrombin III; decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
 
 2.
-Increased TBG leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T 4 levels (by column or by radioimmunoassay) or T 3 levels by radioimmunoassay.
+Increased TBG leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
 T 3 resin uptake is decreased, reflecting the elevated TBG.
-Free T 4 and free T 3 concentrations are unaltered.
+Free T4 and free T3 concentrations are unaltered.
 Women on thyroid replacement therapy may require higher doses of thyroid hormone.
 
 3.

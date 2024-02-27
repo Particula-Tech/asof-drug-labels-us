@@ -4,7 +4,7 @@ Effects on Vasomotor Symptoms
 
 In 2 clinical trials designed to assess the degree of relief of moderate to severe vasomotor symptoms in postmenopausal women (n=332), CombiPatch was administered for 3 28-day cycles in Continuous Combined or Continuous Sequential treatment regimens versus placebo.
 In the Continuous Combined regimen, CombiPatch was applied throughout the 3 cycles, replacing the system twice weekly.
-In the Continuous Sequential regimen, an estradiol-only transdermal system (Vivelle ® 0.05 mg) was applied twice weekly during the first 14 days of a 28-day cycle; CombiPatch was applied for the remaining 14 days of the cycle and replaced twice weekly, as well.
+In the Continuous Sequential regimen, an estradiol-only transdermal system (Vivelle® 0.05 mg) was applied twice weekly during the first 14 days of a 28-day cycle; CombiPatch was applied for the remaining 14 days of the cycle and replaced twice weekly, as well.
 The mean number of hot flushes at baseline were 10 to 11 per day and 11 to 12 per day in the Continuous Combined and Continuous Sequential regimen trials, respectively.
 The mean number and intensity of daily hot flushes (intent-to-treat population) was significantly reduced from baseline to endpoint with either the Continuous Combined or Continuous Sequential administration of CombiPatch at all doses as compared to placebo (intent-to-treat population).
 (See Tables 3 and 4)
@@ -14,9 +14,9 @@ Adjusted Mean Change in the Number of Hot Flushes and Daily Intensity of Hot Flu
 
 |  | CombiPatch Continuous Combined |  | Placebo |
 | --- | --- | --- | --- |
-| Adjusted Mean Change from Baseline 1 | 0.05/0.14 mg per day 2 n=57 | 0.05/0.25 mg per day 2 n=52 | n=51 |
-| Number of Hot Flushes 3 | -9.3 5 | -8.9 5 | -6.2 |
-| Daily Intensity of Hot Flushes 3,4 | -4.6 5,6 | -5.0 5 | -2.8 7 |
+| Adjusted Mean Change from Baseline1 | 0.05/0.14 mg per day2 n=57 | 0.05/0.25 mg per day2 n=52 | n=51 |
+| Number of Hot Flushes3 | -9.35 | -8.95 | -6.2 |
+| Daily Intensity of Hot Flushes3,4 | -4.65,6 | -5.05 | -2.87 |
 | 1Means were adjusted for imbalance among treatment groups and investigators (least squares mean from ANOVA). 2Represents the milligrams of estradiol/NETA delivered daily by each system. 3Population represents those patients who had baseline and endpoint observations. 4The intensity of hot flushes was evaluated on a scale of 0 to 9 (none=0, mild=1-3, moderate= 4-6, severe=7-9). 5P-value versus placebo = <0.001. 6Total number of patients with available data is 56. 7Total number of patients with available data is 50. |  |  |  |
 
 Table 4.
@@ -24,9 +24,9 @@ Adjusted Mean Change in the Number of Hot Flushes and Daily Intensity of Hot Flu
 
 |  | CombiPatch® Continuous Combined |  | Placebo |
 | --- | --- | --- | --- |
-| Adjusted Mean Change from Baseline 1 | 0.05/0.14 mg per day 2 n=54 | 0.05/0.25 mg per day 2 n=59 | n=53 |
-| Number of Hot Flushes 3 | -9.3 5 | -9.5 5 | -5.5 |
-| Daily Intensity of Hot Flushes 3,4 | -4.4 5 | -4.5 5 | -2.1 |
+| Adjusted Mean Change from Baseline1 | 0.05/0.14 mg per day2 n=54 | 0.05/0.25 mg per day2 n=59 | n=53 |
+| Number of Hot Flushes3 | -9.35 | -9.55 | -5.5 |
+| Daily Intensity of Hot Flushes3,4 | -4.45 | -4.55 | -2.1 |
 | 1Means were adjusted for imbalance among treatment groups and investigators (least squares mean from ANOVA). 2Represents the milligrams of estradiol/NETA delivered daily by each system. 3Population represents those patients who had baseline and endpoint observations. 4The intensity of hot flushes was evaluated on a scale of 0 to 9 (none=0, mild=1-3, moderate= 4-6, severe=7-9). 5P-value versus placebo = <0.001. |  |  |  |
 
 Effects on the Endometrium
@@ -47,9 +47,9 @@ Incidence of Endometrial Hyperplasia in a Continuous Combined CombiPatch Regimen
 
 |  | CombiPatch Continuous Combined |  | Vivelle Continuous |
 | --- | --- | --- | --- |
-|  | 0.05/0.14 mg per day 1 | 0.05/0.25 mg per day 1 | 0.05 mg per day |
-| Number of Patients with Biopsies 2 | 123 | 98 | 103 |
-| Number (%) of Patients with Hyperplasia | 1 (<1%) 3 | 1 (1%) 3,4 | 39 (38%) 5 |
+|  | 0.05/0.14 mg per day1 | 0.05/0.25 mg per day1 | 0.05 mg per day |
+| Number of Patients with Biopsies2 | 123 | 98 | 103 |
+| Number (%) of Patients with Hyperplasia | 1 (<1%)3 | 1 (1%)3,4 | 39 (38%)5 |
 | 1Represents milligrams of estradiol/NETA delivered daily by each system. 2Biopsy after 12 cycles of treatment or hyperplasia before cycle 12. 3Comparison of continuous combined regimen versus estradiol-only patch was significant (p <0.001). 4This patient had hyperplasia at baseline. 5One of 39 patients had hyperplasia in an endometrial polyp. |  |  |  |
 
 Table 6.
@@ -57,9 +57,9 @@ Incidence of Endometrial Hyperplasia in a Continuous Sequential CombiPatch Regim
 
 |  | CombiPatch Continuous Sequential |  | Vivelle Continuous |
 | --- | --- | --- | --- |
-|  | 0.05/0.14 mg per day 1 | 0.05/0.25 mg per day 1 | 0.05 mg per day |
-| Number of Patients with Biopsies 2 | 117 | 114 | 115 |
-| Number (%) of Patients with Hyperplasia | 1 (<1%) 3,4 | 1 (<1%) 3,5 | 23 (20%) |
+|  | 0.05/0.14 mg per day1 | 0.05/0.25 mg per day1 | 0.05 mg per day |
+| Number of Patients with Biopsies2 | 117 | 114 | 115 |
+| Number (%) of Patients with Hyperplasia | 1 (<1%)3,4 | 1 (<1%)3,5 | 23 (20%) |
 | 1Represents milligrams of estradiol/NETA delivered daily by each system. 2Biopsy after 12 cycles of treatment or hyperplasia before cycle 12. 3Comparison of continuous sequential regimen versus estradiol-only patch was significant (p <0.001). 4This patient had hyperplasia at baseline. 5This patient had hyperplasia in an endometrial polyp. |  |  |  |
 
 Effects on Uterine Bleeding or Spotting
@@ -93,9 +93,9 @@ Results of the estrogen plus progestin substudy, which included 16,608 women (av
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
 
 Table 7.
-Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 Years a,b
+Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 Yearsa,b
 
-| Event | Relative Risk CE/MPA vs. Placebo (95% nCI c) | CE/MPA n=8,506 | Placebo n=8,102 |
+| Event | Relative Risk CE/MPA vs. Placebo (95% nCIc) | CE/MPA n=8,506 | Placebo n=8,102 |
 | --- | --- | --- | --- |
 |  |  | Absolute Risk per 10,000 Women-Years |  |
 | CHD events | 1.23 (0.99–1.53) | 41 | 34 |
@@ -103,18 +103,18 @@ Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI a
 | CHD death | 1.10 (0.70–1.75) | 8 | 8 |
 | All strokes | 1.31 (1.03–1.68) | 33 | 25 |
 | Ischemic stroke | 1.44 (1.09–1.90) | 26 | 18 |
-| Deep vein thrombosis d | 1.95 (1.43–2.67) | 26 | 13 |
+| Deep vein thrombosisd | 1.95 (1.43–2.67) | 26 | 13 |
 | Pulmonary embolism | 2.13 (1.45–3.11) | 18 | 8 |
-| Invasive breast cancer e | 1.24 (1.01–1.54) | 41 | 33 |
+| Invasive breast cancere | 1.24 (1.01–1.54) | 41 | 33 |
 | Colorectal cancer | 0.61 (0.42–0.87) | 10 | 16 |
-| Endometrial cancer d | 0.81 (0.48–1.36) | 6 | 7 |
-| Cervical cancer d | 1.44 (0.47–4.42) | 2 | 1 |
+| Endometrial cancerd | 0.81 (0.48–1.36) | 6 | 7 |
+| Cervical cancerd | 1.44 (0.47–4.42) | 2 | 1 |
 | Hip fracture | 0.67 (0.47–0.96) | 11 | 16 |
-| Vertebral fractures d | 0.65 (0.46–0.92) | 11 | 17 |
-| Lower arm/wrist fractures d | 0.71 (0.59–0.85) | 44 | 62 |
-| Total fractures d | 0.76 (0.69–0.83) | 152 | 199 |
-| Overall mortality f | 1.00 (0.83–1.19) | 52 | 52 |
-| Global Index g | 1.13 (1.02–1.25) | 184 | 165 |
+| Vertebral fracturesd | 0.65 (0.46–0.92) | 11 | 17 |
+| Lower arm/wrist fracturesd | 0.71 (0.59–0.85) | 44 | 62 |
+| Total fracturesd | 0.76 (0.69–0.83) | 152 | 199 |
+| Overall mortalityf | 1.00 (0.83–1.19) | 52 | 52 |
+| Global Indexg | 1.13 (1.02–1.25) | 184 | 165 |
 | aAdapted from numerous WHI publications. WHI publications can be viewed at www.nhlbi.nih.gov/whi. bResults are based on centrally adjudicated data. cNominal confidence intervals (CI) unadjusted for multiple looks and multiple comparisons. dNot included in “global index”. eIncludes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer. fAll deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease. gA subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
 
 Timing of the initiation of estrogen plus progestin therapy relative to the start of menopause may affect the overall risk benefit profile.
@@ -135,29 +135,28 @@ Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHI a
 | CHD events c | 0.95 (0.78–1.16) | 54 | 57 |
 | Nonfatal MIc | 0.91 (0.73–1.14) | 40 | 43 |
 | CHD deathc | 1.01 (0.71–1.43) | 16 | 16 |
-| All strokes c | 1.33 (1.05–1.68) | 45 | 33 |
+| All strokesc | 1.33 (1.05–1.68) | 45 | 33 |
 | Ischemic strokec | 1.55 (1.19–2.01) | 38 | 25 |
-| Deep vein thrombosis c,d | 1.47 (1.06–2.06) | 23 | 15 |
-| Pulmonary embolism c | 1.37 (0.90–2.07) | 14 | 10 |
-| Invasive breast cancer c | 0.80 (0.62–1.04) | 28 | 34 |
-| Colorectal cancer e | 1.08 (0.75–1.55) | 17 | 16 |
-| Hip fracture c | 0.65 (0.45–0.94) | 12 | 19 |
-| Vertebral fractures c,d | 0.64 (0.44–0.93) | 11 | 18 |
-| Lower arm/wrist fractures c,d | 0.58 (0.47–0.72) | 35 | 59 |
-| Total fractures c,d | 0.71 (0.64–0.80) | 144 | 197 |
-| Death due to other causes e,f | 1.08 (0.88–1.32) | 53 | 50 |
-| Overall mortality c,d | 1.04 (0.88–1.22) | 79 | 75 |
-| Global Index g | 1.02 (0.92–1.13) | 206 | 201 |
+| Deep vein thrombosisc,d | 1.47 (1.06–2.06) | 23 | 15 |
+| Pulmonary embolismc | 1.37 (0.90–2.07) | 14 | 10 |
+| Invasive breast cancerc | 0.80 (0.62–1.04) | 28 | 34 |
+| Colorectal cancere | 1.08 (0.75–1.55) | 17 | 16 |
+| Hip fracturec | 0.65 (0.45–0.94) | 12 | 19 |
+| Vertebral fracturesc,d | 0.64 (0.44–0.93) | 11 | 18 |
+| Lower arm/wrist fracturesc,d | 0.58 (0.47–0.72) | 35 | 59 |
+| Total fracturesc,d | 0.71 (0.64–0.80) | 144 | 197 |
+| Death due to other causese,f | 1.08 (0.88–1.32) | 53 | 50 |
+| Overall mortalityc,d | 1.04 (0.88–1.22) | 79 | 75 |
+| Global Indexg | 1.02 (0.92–1.13) | 206 | 201 |
 | aAdapted from numerous WHI publications. WHI publications can be viewed at www.nhlbi.nih.gov/whi. bNominal CI unadjusted for multiple looks and multiple comparisons. cResults are based on centrally adjudicated data for an average follow-up of 7.1 years. dNot included in “global index”. eResults are based on an average follow-up of 6.8 years. fAll deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease. gA subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
 
-For those outcomes included in the WHI “global index” that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was 7 fewer hip fractures 9.
-The absolute excess risk of events included in the “global index” was a nonsignificant 5 events per 10,000 women-years.
+For those outcomes included in the WHI “global index” that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was 7 fewer hip fractures.9 The absolute excess risk of events included in the “global index” was a nonsignificant 5 events per 10,000 women-years.
 There was no difference between the groups in terms of all-cause mortality.
 
 No overall difference for primary CHD events (nonfatal MI, silent MI and CHD death) and invasive breast cancer incidence in women receiving CE-alone compared with placebo was reported in final centrally adjudicated results from the estrogen-alone substudy, after an average follow-up of 7.1 years (see Table 8).
 
 Centrally adjudicated results for stroke events from the estrogen-alone substudy, after an average follow-up of 7.1 years, reported no significant difference in distribution of stroke subtype or severity, including fatal strokes, in women receiving CE-alone compared to placebo.
-Estrogen-alone increased the risk for ischemic stroke, and this excess was present in all subgroups of women examined 10 (see Table 8).
+Estrogen-alone increased the risk for ischemic stroke, and this excess was present in all subgroups of women examined.10 (see Table 8).
 
 Timing of the initiation of estrogen therapy relative to the start of menopause may affect the overall risk benefit profile.
 The WHI estrogen-alone substudy stratified by age showed in women 50 to 59 years of age, a nonsignificant trend toward reduced risk for CHD [HR 0.63 (95 percent, CI 0.36 to 1.09)] and overall mortality [HR 0.71 (95 percent CI, 0.46 to 1.11)].

@@ -22,28 +22,28 @@ The first day of this bleeding would be an appropriate time to begin CombiPatch 
 Therapeutic Regimens
 
 Combination estrogen plus progestin regimens are indicated for women with an intact uterus.
-Two CombiPatch (estradiol/NETA) transdermal delivery systems are available: 0.05 mg estradiol with 0.14 mg NETA per day (9 cm 2) and 0.05 mg estradiol with 0.25 mg NETA per day (16 cm 2).
+Two CombiPatch (estradiol/NETA) transdermal delivery systems are available: 0.05 mg estradiol with 0.14 mg NETA per day (9 cm2) and 0.05 mg estradiol with 0.25 mg NETA per day (16 cm2).
 The lowest effective dose should be used.
 For all regimens, women should be reevaluated at 3- to 6-month intervals to determine if changes in hormone therapy or if continued hormone therapy is appropriate.
 
 Continuous Combined Regimen
 
-CombiPatch 0.05 mg estradiol/0.14 mg NETA per day (9 cm 2) matrix transdermal system is used for continuous uninterrupted treatment applied twice weekly on the lower abdomen.
+CombiPatch 0.05 mg estradiol/0.14 mg NETA per day (9 cm2) matrix transdermal system is used for continuous uninterrupted treatment applied twice weekly on the lower abdomen.
 A new system should be applied to the skin every 3 to 4 days (twice weekly) during a 28-day cycle.
 
-Additionally, a dose of 0.05 mg estradiol/0.25 mg NETA (16 cm 2 system) is available if a greater progestin dose is desired.
+Additionally, a dose of 0.05 mg estradiol/0.25 mg NETA (16 cm2 system) is available if a greater progestin dose is desired.
 Irregular bleeding may occur particularly in the first six months, but generally decreases with time, and often to an amenorrheic state.
 
 Continuous Sequential Regimen
 
 CombiPatch can be applied as a sequential regimen in combination with an estradiol-only transdermal delivery system.
 
-In this treatment regimen, a 0.05 mg per day (nominal delivery rate) estradiol transdermal system (Vivelle-Dot ®) is worn for the first 14 days of a 28-day cycle, replacing the system every 3 to 4 days (twice weekly) according to product directions.
+In this treatment regimen, a 0.05 mg per day (nominal delivery rate) estradiol transdermal system (Vivelle-Dot®) is worn for the first 14 days of a 28-day cycle, replacing the system every 3 to 4 days (twice weekly) according to product directions.
 
-For the remaining 14 days of the 28-day cycle, CombiPatch 0.05 mg estradiol/0.14 mg NETA per day (9 cm 2) transdermal system should be worn continuously on the lower abdomen.
+For the remaining 14 days of the 28-day cycle, CombiPatch 0.05 mg estradiol/0.14 mg NETA per day (9 cm2) transdermal system should be worn continuously on the lower abdomen.
 The CombiPatch system should be replaced every 3 to 4 days (twice weekly) during this 14-day period in the 28-day cycle.
 
-Additionally, a dose of 0.05 mg estradiol/0.25 mg NETA (16 cm 2 system) is available if a greater progestin dose is desired.
+Additionally, a dose of 0.05 mg estradiol/0.25 mg NETA (16 cm2 system) is available if a greater progestin dose is desired.
 Women should be advised that monthly withdrawal bleeding often occurs.
 
 Application of the System
