@@ -2,23 +2,23 @@
 
 ## 16.1 How Supplied
 
-MINIVELLE (estradiol transdermal system), 0.025 mg per day - each 1.65 cm 2 system contains 0.41 mg of estradiol USP for nominal* delivery of 0.025 mg of estradiol per day.
+MINIVELLE (estradiol transdermal system), 0.025 mg per day - each 1.65 cm2 system contains 0.41 mg of estradiol USP for nominal* delivery of 0.025 mg of estradiol per day.
 
 Patient Calendar Pack of 8 Systems…………………………………..NDC 68968-6625-8
 
-MINIVELLE (estradiol transdermal system), 0.0375 mg per day - each 2.48 cm 2 system contains 0.62 mg of estradiol USP for nominal* delivery of 0.0375 mg of estradiol per day.
+MINIVELLE (estradiol transdermal system), 0.0375 mg per day - each 2.48 cm2 system contains 0.62 mg of estradiol USP for nominal* delivery of 0.0375 mg of estradiol per day.
 
 Patient Calendar Pack of 8 Systems…………………………………..NDC 68968-6637-8
 
-MINIVELLE (estradiol transdermal system), 0.05 mg per day - each 3.3 cm 2 system contains 0.83 mg of estradiol USP for nominal* delivery of 0.05 mg of estradiol per day.
+MINIVELLE (estradiol transdermal system), 0.05 mg per day - each 3.3 cm2 system contains 0.83 mg of estradiol USP for nominal* delivery of 0.05 mg of estradiol per day.
 
 Patient Calendar Pack of 8 Systems………………………………….NDC 68968-6650-8
 
-MINIVELLE (estradiol transdermal system), 0.075 mg per day - each 4.95 cm 2 system contains 1.24 mg of estradiol USP for nominal* delivery of 0.075 mg of estradiol per day.
+MINIVELLE (estradiol transdermal system), 0.075 mg per day - each 4.95 cm2 system contains 1.24 mg of estradiol USP for nominal* delivery of 0.075 mg of estradiol per day.
 
 Patient Calendar Pack of 8 Systems………………………………….NDC 68968-6675-8
 
-MINIVELLE (estradiol transdermal system), 0.1 mg per day - each 6.6 cm 2 system contains 1.65mg of estradiol USP for nominal* delivery of 0.1 mg of estradiol per day.
+MINIVELLE (estradiol transdermal system), 0.1 mg per day - each 6.6 cm2 system contains 1.65 mg of estradiol USP for nominal* delivery of 0.1 mg of estradiol per day.
 
 Patient Calendar Pack of 8 Systems………………………………….NDC 68968-6610-8
 

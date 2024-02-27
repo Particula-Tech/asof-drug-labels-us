@@ -8,7 +8,7 @@ Inform postmenopausal women to report unusual vaginal bleeding to their healthca
 
 Possible Serious Adverse Reactions with Estrogen–Alone Therapy
 
-Inform postmenopausal women of possible serious adverse reactions of estrogen-alone therapy including Cardiovascular Disorders, Malignant Neoplasms, and Probable Dementia [see Warnings and Precautions (5.1, 5.2, 5.3)].
+Inform postmenopausal women of possible serious adverse reactions of estrogen-alone therapy including Cardiovascular Disorders, Malignant Neoplasms, and Probable Dementia [see Warning and Precautions (5.1, 5.2, 5.3)].
 
 Possible Common Adverse Reactions with Estrogen–Alone Therapy
 

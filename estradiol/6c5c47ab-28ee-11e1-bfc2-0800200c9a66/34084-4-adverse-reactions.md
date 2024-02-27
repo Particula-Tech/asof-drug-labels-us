@@ -10,7 +10,7 @@ The following serious adverse reactions are discussed elsewhere in labeling:
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 There were no clinical trials conducted with MINIVELLE.
-MINIVELLE is bioequivalent to Vivelle ®.
+MINIVELLE is bioequivalent to Vivelle®.
 The following adverse reactions are reported with Vivelle therapy:
 
 Table 1: Summary of Most Frequently Reported Adverse Reactions (Vivelle versus Placebo) Regardless of Relationship Reported at a Frequency ≥5 Percent
@@ -63,7 +63,7 @@ Three subjects (2.2 percent) reported mild discomfort while wearing MINIVELLE (N
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been identified during post-approval use of Minivelle.
+The following adverse reactions have been identified during post-approval use of MINIVELLE.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Breast
@@ -84,7 +84,7 @@ Application site reactions, erythema, rash, hyperhidrosis, pruritis, urticaria
 
 Central Nervous System
 
-Dizziness, paresthesia, migraine, mood swings,emotional disorder, irritability, nervousness
+Dizziness, paresthesia, migraine, mood swings, emotional disorder, irritability, nervousness
 
 Miscellaneous
 

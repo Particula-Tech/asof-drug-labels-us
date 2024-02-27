@@ -25,12 +25,12 @@ Likewise, exposure comparisons across different estrogen products to infer effic
 
 Absorption
 
-In a single-dose, two way-crossover clinical study conducted in 96 healthy, non-smoking postmenopausal women under fed condition, MINIVELLE (0.1 mg per day) was bioequivalent to Vivelle (0.1 mg per day) based on estradiol exposure (AUC 0-84) and estradiol peak concentration (C max) following a single-dose on the lower abdomen for 84 hours.
+In a single-dose, two way-crossover clinical study conducted in 96 healthy, non-smoking postmenopausal women under fed condition, MINIVELLE (0.1 mg per day) was bioequivalent to Vivelle (0.1 mg per day) based on estradiol exposure (AUC0-84) and estradiol peak concentration (Cmax) following a single-dose on the lower abdomen for 84 hours.
 
 Estradiol pharmacokinetics were characterized in a separate open-label, single-center, randomized, single-dose, three-way crossover study conducted in 36 healthy, non-smoking postmenopausal women (aged 40 to 65 years).
 MINIVELLE transdermal systems delivering nominal estradiol of approximately 0.025 mg, 0.05 mg, and 0.1 mg per day were applied to the lower abdomen under fed state in a crossover fashion for 84 hours.
 The mean estradiol pharmacokinetics parameters are summarized in Table 2.
-AUC and C max are dose proportional from 0.025 mg to 0.1 mg per day.
+AUC and Cmax are dose proportional from 0.025 mg to 0.1 mg per day.
 
 Table 2: Mean (SD) Serum Pharmacokinetic Parameters of Baseline-Uncorrected Estradiol following a Single Dose of MINIVELLE (N=36)
 
@@ -64,7 +64,7 @@ In postmenopausal women a significant portion of the circulating estrogens exist
 Excretion
 
 Estradiol, estrone and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
-The mean half-life values of estradiol calculated from treatment groups in the bioequivalence study and dose-proportionality study after dosing with the MINIVELLE ranged from 6.2 to 7.9 hours.
+The mean half-life values of estradiol calculated from treatment groups in the bioequivalence study and dose-proportionality study after dosing with MINIVELLE ranged from 6.2 to 7.9 hours.
 After removal of the transdermal systems, serum concentrations of estradiol and estrone returned to baseline concentrations within 24 hours.
 
 Adhesion and Adhesive Residue
@@ -73,6 +73,6 @@ Based on combined data from bioequivalence and dose proportionality studies cons
 One woman had a complete detachment during the wear period.
 Approximately 65 percent of the transdermal systems evaluated in these studies were with MINIVELLE 0.1 mg per day (6.6 cm 2 active surface area).
 
-After removal of MINIVELLE, subjects had either no adhesive residue (score of 0) or light adhesive residue (score of 1).
+After removal of MINIVELLE, women had either no adhesive residue (score of 0) or light adhesive residue (score of 1).
 No woman had medium adhesive residue.
 Of the 208 MINIVELLE observations, 54 percent had light adhesive residue and 46 percent had no adhesive residue.

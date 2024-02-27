@@ -1,13 +1,13 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Effects on Vasomotor Symptoms
+## 14.1 Effects on Vasomotor Symptoms in Postmenopausal Women
 
 There have been no efficacy and safety trials conducted with MINIVELLE.
 In a pharmacokinetic study, MINIVELLE was shown to be bioequivalent to Vivelle.
 
-In two controlled clinical trials with Vivelle, in a total of 356 subjects, the 0.075 and 0.1 mg doses were superior to placebo in relieving vasomotor symptoms at Weeks 4, 8 and 12 of treatment.
-In these studies, the 0.0375 and 0.05 mg doses did not differ from placebo at Week 4, therefore, a third 12-week placebo-controlled study in 255 subjects was performed with Vivelle to establish the efficacy of the lowest dose of 0.0375 mg.
-The baseline mean daily number of hot flushes in these 255 subjects was 11.5.
+In two controlled clinical trials with Vivelle, in a total of 356 women, the 0.075 and 0.1 mg doses were superior to placebo in relieving vasomotor symptoms at Weeks 4, 8 and 12 of treatment.
+In these studies, the 0.0375 and 0.05 mg doses did not differ from placebo at Week 4, therefore, a third 12-week placebo-controlled study in 255 women was performed with Vivelle to establish the efficacy of the lowest dose of 0.0375 mg.
+The baseline mean daily number of hot flushes in these 255 women was 11.5.
 Results at Weeks 4, 8, and 12 of treatment are shown in Figure 2.
 
 Figure 2: Mean (SD) change from baseline in mean daily number of hot flushes for Vivelle 0.0375 mg versus Placebo in a 12 week trial.
@@ -20,13 +20,13 @@ There have been no bone efficacy and safety trials conducted with MINIVELLE.
 In a pharmacokinetic study, MINIVELLE was shown to be bioequivalent to Vivelle.
 
 Efficacy and safety of Vivelle in the prevention of postmenopausal osteoporosis have been studied in a 2-year double-blind, randomized, placebo-controlled, parallel group study.
-A total of 261 hysterectomized (161) and non-hysterectomized (100), surgically or naturally menopausal women (within 5 years of menopause), with no evidence of osteoporosis (lumbar spine bone mineral density within 2 standard deviations of average peak bone mass, i.e., ≥0.0827 g/cm 2) were enrolled in this study; 194 patients were randomized to one of the four doses of Vivelle (0.1, 0.05, 0.0375, or 0.025 mg/day) and 67 patients to placebo.
+A total of 261 hysterectomized (161) and non-hysterectomized (100), surgically or naturally menopausal women (within 5 years of menopause), with no evidence of osteoporosis (lumbar spine bone mineral density within 2 standard deviations of average peak bone mass, i.e., ≥0.0827 g/cm2) were enrolled in this study; 194 women were randomized to one of the four doses of Vivelle (0.1, 0.05, 0.0375, or 0.025 mg/day) and 67 women to placebo.
 Over 2 years, study systems were applied to the buttock or the abdomen twice a week.
 Non-hysterectomized women received oral medroxyprogesterone acetate (2.5 mg/day) throughout the study.
 
 The study population comprised naturally (82 percent) or surgically (18 percent) menopausal, hysterectomized (61 percent) or non-hysterectomized (39 percent) women with a mean age of 52.0 years (range 27 to 62 years); the mean duration of menopause was 31.7 months (range 2 to 72 months).
-Two hundred thirty-two (89 percent) randomized subjects (173 on active drug, 59 on placebo) contributed data to the analysis of percent change from baseline in bone mineral density (BMD) of the AP lumbar spine, the primary efficacy variable.
-Patients were given supplemental dietary calcium (100 mg elemental calcium/day) but no supplemental vitamin D. There was an increase in BMD of the AP lumbar spine in all Vivelle dose groups; in contrast to this, a decrease in AP lumbar spine BMD was observed in placebo patients.
+Two hundred thirty-two (89 percent) randomized women (173 on active drug, 59 on placebo) contributed data to the analysis of percent change from baseline in bone mineral density (BMD) of the AP lumbar spine, the primary efficacy variable.
+Women were given supplemental dietary calcium (100 mg elemental calcium/day) but no supplemental vitamin D. There was an increase in BMD of the AP lumbar spine in all Vivelle dose groups; in contrast to this, a decrease in AP lumbar spine BMD was observed in placebo patients.
 All Vivelle doses were significantly superior to placebo (p<0.05) at all time points with the exception of Vivelle 0.05 mg/day at 6 months.
 The highest dose of Vivelle was superior to the three lower doses.
 There were no statistically significant differences in pairwise comparisons among the three lower doses (See Figure 3).
@@ -35,7 +35,7 @@ Figure 3: Bone mineral density – AP Lumbar spine
 
 Least squares means of percentage change from baseline
 
-All randomized patients with at least one post-baseline assessment available with last post-baseline observation carried forward
+All randomized women with at least one post-baseline assessment available with last post-baseline observation carried forward
 
 Analysis of percent change from baseline in femoral neck BMD, a secondary efficacy outcome variable, showed qualitatively similar results; all doses of Vivelle were significantly superior to placebo (p<0.05) at 24 months.
 The highest Vivelle dose was superior to placebo at all time points.
@@ -46,7 +46,7 @@ Figure 4: Bone mineral density - Femoral neck
 
 Least squares means of percentage change from baseline
 
-All randomized patients with at least one post-baseline assessment available with last post-baseline observation carried forward
+All randomized women with at least one post-baseline assessment available with last post-baseline observation carried forward
 
 ## 14.3 Women's Health Initiative Studies
 
@@ -106,7 +106,7 @@ The absolute excess risk of events included in the “global index” was 19 per
 
 For those outcomes included in the WHI “global index” that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women-years in the group treated with CE plus MPA were 7 more CHD events, 8 more strokes, 10 more PEs, and 8 more invasive breast cancers, while the absolute risk reduction per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
 
-Results of the CE plus MPA substudy, which included 16,608 women (average 63 years of age, range 50 to 79; 83.9 percent White, 6.8 percent Black, 5.4 percent Hispanic, 3.9 percent Other) are presented in Table 4..
+Results of the CE plus MPA substudy, which included 16,608 women (average 63 years of age, range 50 to 79; 83.9 percent White, 6.8 percent Black, 5.4 percent Hispanic, 3.9 percent Other) are presented in Table 4.
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
 
 Table 4: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 Years a,b

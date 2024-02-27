@@ -1,6 +1,6 @@
-Instructions for Use
+INSTRUCTIONS FOR USE
 
-MINIVELLE ® (MIN-ee-vell)
+MINIVELLE® (MIN-ee-vell)
 
 (estradiol transdermal system)
 
@@ -68,14 +68,8 @@ Step 6: Throwing away your used patch.
 - To throw away the patch, fold the sticky side of the patch together, place it in a sturdy child-proof container, and place this container in the trash.
   Used patches should not be flushed in the toilet
 
-This Patient Information and Instructions for Use have been approved by the U.S Food and Drug Administration.
+This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
 Manufactured by: Noven Pharmaceuticals Inc. Miami, FL 33186
 
-Approved 10/2021
-
-Vivelle® is a registered trademark of Novartis Corporation.
-
-Minivelle® is a registered trademark of Noven Therapeutics, LLC.
-
-102455-4
+Approved (02/2024)
