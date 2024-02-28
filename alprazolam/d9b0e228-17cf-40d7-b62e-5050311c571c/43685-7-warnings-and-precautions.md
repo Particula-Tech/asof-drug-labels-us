@@ -16,7 +16,7 @@ Advise patients not to drive or operate heavy machinery until the effects of con
 ## 5.2 Abuse, Misuse, and Addiction
 
 The use of benzodiazepines, including alprazolam, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
-Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death [see Drug Abuse and Dependence (9.2)].
+Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death [see Drug Abuse and Dependence (9.2)].
 
 Before prescribing alprazolam and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (e.g., using a standardized screening tool).
 Use of alprazolam, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of alprazolam along with monitoring for signs and symptoms of abuse, misuse, and addiction.
