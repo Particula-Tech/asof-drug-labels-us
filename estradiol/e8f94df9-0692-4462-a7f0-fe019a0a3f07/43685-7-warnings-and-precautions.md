@@ -14,8 +14,7 @@ Risk factors for arterial vascular disease (e.g., hypertension, diabetes mellitu
 ### a. Coronary heart disease and stroke
 
 In the Women's Health Initiative (WHI) study, an increase in the number of myocardial infarctions and strokes has been observed in women receiving CE compared to placebo.
-These observations are preliminary.
-(See CLINICAL PHARMACOLOGY, Clinical Studies).
+These observations are preliminary [see CLINICAL PHARMACOLOGY, Clinical Studies].
 
 In the CE/MPA substudy of WHI, an increased risk of coronary heart disease (CHD) events (defined as non-fatal myocardial infarction and CHD death) was observed in women receiving CE/MPA compared to women receiving placebo (37 vs. 30 per 10,000 women-years).
 The increase in risk was observed in year one and persisted.
@@ -35,8 +34,7 @@ Large doses of estrogen (5 mg conjugated estrogens per day), comparable to those
 ### b. Venous thromboembolism (VTE)
 
 In the Women's Health Initiative (WHI) study, an increase in VTE has been observed in women receiving CE compared to placebo.
-These observations are preliminary.
-(See CLINICAL PHARMACOLOGY, Clinical Studies.)
+These observations are preliminary [see CLINICAL PHARMACOLOGY, Clinical Studies].
 
 In the CE/MPA substudy of WHI, a 2-fold greater rate of VTE, including deep venous thrombosis and pulmonary embolism, was observed in women receiving CE/MPA compared to women receiving placebo.
 The rate of VTE was 34 per 10,000 women-years in the CE/MPA group compared to 16 per 10,000 women-years in the placebo group.
@@ -60,23 +58,22 @@ Adding a progestin to estrogen therapy has been shown to reduce the risk of endo
 
 ### b. Breast cancer
 
-The use of estrogens and progestins by postmenopausal women has been reported to increase the risk of breast cancer.
-The most important randomized clinical trial providing information about this issue is the Women's Health Initiative (WHI) substudy of CE/MPA (see CLINICAL PHARMACOLOGY, Clinical Studies).
-The results from observational studies are generally consistent with those of the WHI clinical trial and report no significant variation in the risk of breast cancer among different estrogens or progestins, doses, or routes of administration.
+The WHI substudy of daily CE (0.625 mg)-alone provided information about breast cancer in estrogen-alone users.
+In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE-alone was not associated with an increased risk of invasive breast cancer (relative risk [RR] 0.80).
 
-The CE/MPA substudy of WHI reported an increased risk of breast cancer in women who took CE/MPA for a mean follow-up of 5.6 years.
-Observational studies have also reported an increased risk for estrogen/progestin combination hormone therapy, and a smaller increased risk for estrogen alone therapy, after several years of use.
-In the WHI trial and from observational studies, the excess risk increased with duration of use.
-From observational studies, the risk appeared to return to baseline in about five years after stopping treatment.
-In addition, observational studies suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen/progestin combination therapy as compared to estrogen alone therapy.
+After a mean follow-up of 5.6 years, the WHI substudy of daily CE (0.625 mg) plus MPA (2.5 mg) reported an increased risk of invasive breast cancer in women who took daily CE plus MPA compared to placebo.
+In this substudy, prior use of estrogen-alone or estrogen plus progestin therapy was reported by 26 percent of the women.
+The relative risk of invasive breast cancer was 1.24, and the absolute risk was 41 versus 33 cases per 10,000 women-years, for CE plus MPA compared with placebo.
+Among women who reported prior use of hormone therapy, the relative risk of invasive breast cancer was 1.86, and the absolute risk was 46 versus 25 cases per 10,000 women-years, for CE plus MPA compared with placebo.6 Among women who reported no prior use of hormone therapy, the relative risk of invasive breast cancer was 1.09, and the absolute risk was 40 versus 36 cases per 10,000 women-years for CE plus MPA compared with placebo.
+In the same substudy, invasive breast cancers were larger, were more likely to be node positive, and were diagnosed at a more advanced stage in the CE (0.625 mg) plus MPA (2.5 mg) group compared with the placebo group.
+Metastatic disease was rare, with no apparent difference between the two groups.
+Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups [see CLINICAL STUDIES].
 
-In the CE/MPA substudy, 26% of the women reported prior use of estrogen alone and/or estrogen/progestin combination therapy.
-After a mean follow-up of 5.6 years during the clinical trial, the overall relative risk of invasive breast cancer was 1.24 (95% confidence interval 1.01-1.54), and the overall absolute risk was 41 vs. 33 cases per 10,000 women-years, for CE/MPA compared with placebo.
-Among women who reported prior use of hormone therapy, the relative risk of invasive breast cancer was 1.86, and the absolute risk was 46 vs. 25 cases per 10,000 women-years, for CE/MPA compared with placebo.
-Among women who reported no prior use of hormone therapy, the relative risk of invasive breast cancer was 1.09, and the absolute risk was 40 vs. 36 cases per 10,000 women-years for CE/MPA compared with placebo.
-In the same substudy, invasive breast cancers were larger and diagnosed at a more advanced stage in the CE/MPA group compared with the placebo group.
-Metastatic disease was rare with no apparent difference between the two groups.
-Other prognostic factors such as histologic subtype, grade and hormone receptor status did not differ between the groups.
+Consistent with the Women’s Health Initiative (WHI clinical trials), observational studies have also reported an increased risk of breast cancer for estrogen plus progestin therapy and a smaller, but still increased risk, for estrogen-alone therapy after several years of use.
+One large meta-analysis of prospective cohort studies reported increased risks that were dependent upon duration of use and could last up to >10 years after discontinuation of estrogen plus progestin therapy and estrogen-alone therapy.
+Extension of the WHI trials also demonstrated increased breast cancer risk associated with estrogen plus progestin therapy.
+Observational studies also suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to the risk with estrogen-alone therapy.
+However, these studies have not found significant variation in the risk of breast cancer among different estrogen plus progestin combinations, doses, or routes of administration.
 
 The use of estrogen plus progestin has been reported to result in an increase in abnormal mammograms requiring further evaluation.
 All women should receive yearly breast examinations by a healthcare provider and perform monthly breast self-examinations.
@@ -100,8 +97,7 @@ In the Women's Health Initiative Memory Study (WHIMS), 4,532 generally healthy p
 After an average follow-up of 4 years, 40 women being treated with CE/MPA (1.8%, n = 2,229) and 21 women in the placebo group (0.9%, n = 2,303) received diagnoses of probable dementia.
 The relative risk for CE/MPA versus placebo was 2.05 (95% confidence interval 1.21 – 3.48), and was similar for women with and without histories of menopausal hormone use before WHIMS.
 The absolute risk of probable dementia for CE/MPA versus placebo was 45 versus 22 cases per 10,000 women-years, and the absolute excess risk for CE/MPA was 23 cases per 10,000 women-years.
-It is unknown whether these findings apply to younger postmenopausal women.
-(See CLINICAL PHARMACOLOGY, Clinical Studies and PRECAUTIONS, Geriatric Use).
+It is unknown whether these findings apply to younger postmenopausal women [see CLINICAL PHARMACOLOGY, Clinical Studies and PRECAUTIONS, Geriatric Use].
 
 It is unknown whether these findings apply to estrogen alone therapy.
 
@@ -193,34 +189,38 @@ Estrogen administration should be initiated at the lowest dose approved for the 
 
 ## D. Drug/Laboratory Test Interactions
 
-1.Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of antifactor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
+1.
+Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of antifactor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
 
-2.Increased thyroid-binding globulin (TBG) levels leading to increased circulating total thyroid hormone levels as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
+2.
+Increased thyroid-binding globulin (TBG) levels leading to increased circulating total thyroid hormone levels as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
 T3 resin uptake is decreased, reflecting the elevated TBG.
 Free T4 and free T3 concentrations are unaltered.
 Patients on thyroid replacement therapy may require higher doses of thyroid hormone.
 
-3.Other binding proteins may be elevated in serum (i.e., corticosteroid binding globulin (CBG), sex hormone binding globulin (SHBG)) leading to increased total circulating corticosteroids and sex steroids, respectively.
+3.
+Other binding proteins may be elevated in serum (i.e., corticosteroid binding globulin (CBG), sex hormone bind- ing globulin (SHBG)) leading to increased total circulating corticosteroids and sex steroids, respectively.
 Free hormone concentrations may be decreased.
 Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
 
-4.Increased plasma HDL and HDL2 cholesterol subfraction concentrations, reduced LDL cholesterol concentration, increased triglycerides levels.
+4.
+Increased plasma HDL and HDL2 cholesterol subfraction concentrations, reduced LDL cholesterol concentrations, increased triglycerides levels.
 
-5.Impaired glucose tolerance.
+5.
+Impaired glucose tolerance.
 
-6.Reduced response to metyrapone test.
+6.
+Reduced response to metyrapone test.
 
 ## E. Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
-Long-term continuous administration of estrogen, with and without progestin, in women with and without a uterus, has shown an increased risk of endometrial cancer, breast cancer, and ovarian cancer.
-(See BOXED WARNINGS, WARNINGS and PRECAUTIONS).
+Long-term continuous administration of estrogen, with and without progestin, in women with and without a uterus, has shown an increased risk of endometrial cancer, breast cancer, and ovarian cancer [see BOXED WARNINGS, WARNINGS and PRECAUTIONS].
 
 Long-term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, cervix, vagina, testis, and liver.
 
 ## F. Pregnancy
 
-DELESTROGEN should not be used during pregnancy.
-(See CONTRAINDICATIONS).
+DELESTROGEN should not be used during pregnancy [see CONTRAINDICATIONS].
 
 ## G. Nursing Mothers
 
@@ -242,7 +242,6 @@ In the Women's Health Initiative Memory Study, including 4,532 women 65 years of
 Most women (80%) had no prior hormone therapy use.
 Women treated with conjugated estrogens plus medroxyprogesterone acetate were reported to have a two-fold increase in the risk of developing probable dementia.
 Alzheimer's disease was the most common classification of probable dementia in both the conjugated estrogens plus medroxyprogesterone acetate group and the placebo group.
-Ninety percent of the cases of probable dementia occurred in the 54% of the women that were older than 70.
-(See WARNINGS, Dementia).
+Ninety percent of the cases of probable dementia occurred in the 54% of the women that were older than 70 [see WARNINGS, Dementia].
 
 It is unknown whether these findings apply to estrogen alone therapy.

@@ -3,14 +3,14 @@
 When estrogen is prescribed for a postmenopausal woman with a uterus, progestin should also be initiated to reduce the risk of endometrial cancer.
 A woman without a uterus does not need progestin.
 Use of estrogen, alone or in combination with a progestin, should be with the lowest effective dose and for the shortest duration consistent with treatment goals and risks for the individual woman.
-Patients should be reevaluated periodically as clinically appropriate (e.g., 3-month to 6-month intervals) to determine if treatment is still necessary (See BOXED WARNINGS and WARNINGS).
+Patients should be reevaluated periodically as clinically appropriate (e.g., 3-month to 6-month intervals) to determine if treatment is still necessary [see BOXED WARNINGS and WARNINGS].
 For women who have a uterus, adequate diagnostic measures, such as endometrial sampling, when indicated, should be undertaken to rule out malignancy in cases of undiagnosed persistent or recurring abnormal vaginal bleeding.
 
-Care should be taken to inject deeply into the upper, outer quadrant of the gluteal muscle following the usual precautions for intramuscular administration.
-By virtue of the low viscosity of the vehicles, the various preparations of DELESTROGEN (estradiol valerate injection, USP) may be administered with a small gauge needle (i.e., 20 Gauge × 1 ½ inches long).
+Care should be taken to inject deeply into the upper, outer quadrant of the gluteal muscle following the usual pre- cautions for intramuscular administration.
+By virtue of the low viscosity of the vehicles, the various preparations of DELESTROGEN (estradiol valerate injection, USP) may be administered with a small gauge needle (i.e., 20 Gauge x 1 1/2 inches long).
 Since the 40 mg potency provides a high concentration in a small volume, particular care should be observed to administer the full dose.
 
-DELESTROGEN should be visually inspected for particulate matter and color prior to administration; the solution is clear, colorless to pale yellow.
+DELESTROGEN should be visually inspected for particulate matter and color prior to administration; the solution is clear, colorless to yellow.
 Storage at low temperatures may result in the separation of some crystalline material which redissolves readily on warming.
 
 Note: A dry needle and syringe should be used.

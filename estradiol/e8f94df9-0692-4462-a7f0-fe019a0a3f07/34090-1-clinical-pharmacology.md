@@ -66,30 +66,39 @@ The CE/MPA substudy was stopped early because, according to the predefined stopp
 Results of the CE/MPA substudy, which included 16,608 women (average age of 63 years, range 50 to 79; 83.9% White, 6.5% Black, 5.5% Hispanic), after an average follow-up of 5.2 years are presented in Table 1 below:
 
 Table 1.
-RELATIVE AND ABSOLUTE RISK SEEN IN THE CE/MPA SUBSTUDY OF WHI*
+RELATIVE AND ABSOLUTE RISK SEEN IN THE CE/MPS SUBSTUDY OF WHIa
 
 | Absolute Risk per 10,000 Person-years |  |  |  |
 | --- | --- | --- | --- |
-| Event† | Relative Risk CE/MPA vs placebo at 5.2 Years (95% CI‡) | Placebo n = 8102 | CE/MPA n = 8506 |
+| Eventc | Relative Risk CE/MPA vs placebo at 5.2 Years (95% CI*) | Placebo n = 8102 | CE/MPA n = 8506 |
 | CHD events | 1.29 (1.02-1.63) | 30 | 37 |
 | Non-fatal MI | 1.32 (1.02-1.72) | 23 | 30 |
 | CHD death | 1.18 (0.70-1.97) | 6 | 7 |
-| Invasive breast cancer§ | 1.26 (1.00-1.59) | 30 | 38 |
+| Invasive breast cancerb | 1.26 (1.00-1.59) | 30 | 38 |
 | Stroke | 1.41 (1.07-1.85) | 21 | 29 |
 | Pulmonary embolism | 2.13 (1.39-3.25) | 8 | 16 |
 | Colorectal cancer | 0.63 (0.43-0.92) | 16 | 10 |
 | Endometrial cancer | 0.83 (0.47-1.47) | 6 | 5 |
 | Hip fracture | 0.66 (0.45-0.98) | 15 | 10 |
-| Death due to causes other than the events above | 0.92 (0.74-1.14) | 40 | 37 |
-| Global Index† | 1.15 (1.03-1.28) | 151 | 170 |
-| Deep vein thrombosis¶ | 2.07 (1.49-2.87) | 13 | 26 |
-| Vertebral fractures¶ | 0.66 (0.44-0.98) | 15 | 9 |
-| Other osteoporotic fractures¶ | 0.77 (0.69-0.86) | 170 | 131 |
+| Death due to cause other than the events above | 0.92 (0.74-1.14) | 40 | 37 |
+| Global Indexc | 1.15 (1.03-1.28) | 151 | 170 |
+| Deep vein thrombosisd | 2.07 (1.49-2.87) | 13 | 26 |
+| Vertebral fracturesd | 0.66 (0.44-0.98) | 15 | 9 |
+| Other osteoporotic fracturesd | 0.77 (0.69-0.86) | 170 | 131 |
+
+a adapted from JAMA, 2002; 288:321-333
+
+b includes metastatic and non-metastatic breast cancer with the exception of in situ breast cancer
+
+c a subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes
+
+d not included in Global Index
+
+* nominal confidence intervals unadjusted for multiple looks and multiple comparisons
 
 For those outcomes included in the "global index," the absolute excess risks per 10,000 women-years in the group treated with CE/MPA were 7 more CHD events, 8 more strokes, 8 more PEs, and 8 more invasive breast cancers, while absolute risk reductions per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
 The absolute excess risk of events included in the "global index" was 19 per 10,000 women-years.
-There was no difference between the groups in terms of all-cause mortality.
-(See BOXED WARNING, WARNINGS, and PRECAUTIONS).
+There was no difference between the groups in terms of all-cause mortality [see BOXED WARNING, WARNINGS, and PRECAUTIONS].
 
 ### Women's Health Initiative Memory Study
 
@@ -98,5 +107,4 @@ The Women's Health Initiative Memory Study (WHIMS), a substudy of WHI, enrolled 
 After an average follow-up of 4 years, 40 women in the estrogen/progestin group (45 per 10,000 women-years) and 21 in the placebo group (22 per 10,000 women-years) were diagnosed with probable dementia.
 The relative risk of probable dementia in the hormone therapy group was 2.05 (95% CI, 1.21 to 3.48) compared to placebo.
 Differences between groups became apparent in the first year of treatment.
-It is unknown whether these findings apply to younger postmenopausal women.
-(See BOXED WARNING and WARNINGS, Dementia).
+It is unknown whether these findings apply to younger postmenopausal women [see BOXED WARNING and WARNINGS, Dementia].
