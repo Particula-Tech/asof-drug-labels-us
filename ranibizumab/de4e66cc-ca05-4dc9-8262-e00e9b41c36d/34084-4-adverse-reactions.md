@@ -11,7 +11,7 @@ The following adverse reactions are discussed in greater detail in other section
 
 Serious adverse reactions related to the injection procedure have occurred in < 0.1% of intravitreal injections, including endophthalmitis [see Warnings and Precautions (5.1)], rhegmatogenous retinal detachment, and iatrogenic traumatic cataract.
 
-## 6.2 Clinical Studies Experience
+## 6.2 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 

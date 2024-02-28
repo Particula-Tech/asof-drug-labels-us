@@ -31,7 +31,7 @@ LUCENTIS 0.3 mg (0.05 mL of 6 mg/mL solution) is recommended to be administered 
 ## 2.5 Myopic Choroidal Neovascularization (mCNV)
 
 LUCENTIS 0.5 mg (0.05 mL of 10 mg/mL LUCENTIS solution) is recommended to be initially administered by intravitreal injection once a month (approximately 28 days) for up to 3 months.
-Patients may be retreated if needed [(see Clinical Studies (14.5)].
+Patients may be retreated if needed [see Clinical Studies (14.5)].
 
 ## 2.6 Preparation for Administration
 
