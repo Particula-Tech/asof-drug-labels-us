@@ -18,7 +18,7 @@ By: IPR Pharmaceuticals, Inc.
 
 Canóvanas, PR 00729
 
-Product of Belgium
+Product of Switzerland
 
 AstraZeneca
 
@@ -42,7 +42,7 @@ By: IPR Pharmaceuticals, Inc.
 
 Canóvanas, PR 00729
 
-Product of Belgium
+Product of Switzerland
 
 AstraZeneca
 
@@ -66,7 +66,7 @@ By: IPR Pharmaceuticals, Inc.
 
 Canóvanas, PR 00729
 
-Product of Belgium
+Product of Switzerland
 
 AstraZeneca
 
@@ -90,6 +90,6 @@ By: IPR Pharmaceuticals Inc
 
 Canóvanas, PR 00729
 
-Product of Belgium
+Product of Switzerland
 
 AstraZeneca
