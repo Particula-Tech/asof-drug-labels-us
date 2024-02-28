@@ -2,29 +2,37 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Atazanavir sulfate capsules are not a cure for HIV infection.
-Advise patients to remain under the care of a healthcare provider while using atazanavir sulfate capsules.
+Atazanavir capsules are not a cure for HIV-1 infection.
+Advise patients to remain under the care of a healthcare provider while using atazanavir capsules.
 
-Cardiac Conduction Abnormalities Inform patients that atazanavir may produce changes in the electrocardiogram (e.g., PR prolongation).
+Cardiac Conduction Abnormalities
+
+Inform patients that atazanavir may produce changes in the electrocardiogram (eg, PR prolongation).
 Tell patients to consult their healthcare provider if they are experiencing symptoms such as dizziness or lightheadedness [see Warnings and Precautions (5.1)].
 
-Severe Skin Reaction Inform patients that there have been reports of severe skin reactions (e.g., Stevens-Johnson syndrome, erythema multiforme, and toxic skin eruptions) with atazanavir sulfate capsules use.
-Advise patients that if signs or symptoms of severe skin reactions or hypersensitivity reactions develop, they must discontinue atazanavir sulfate capsules and seek medical evaluation immediately [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
+Severe Skin Reaction
+
+Inform patients that there have been reports of severe skin reactions (eg, Stevens-Johnson syndrome, erythema multiforme, and toxic skin eruptions) with atazanavir capsules use.
+Advise patients that if signs or symptoms of severe skin reactions or hypersensitivity reactions develop, they must discontinue atazanavir capsules and seek medical evaluation immediately [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
 Hyperbilirubinemia
 
-Inform patients that asymptomatic elevations in indirect bilirubin have occurred in patients receiving atazanavir sulfate capsules.
+Inform patients that asymptomatic elevations in indirect bilirubin have occurred in patients receiving atazanavir capsules.
 This may be accompanied by yellowing of the skin or whites of the eyes and alternative antiretroviral therapy may be considered if the patient has cosmetic concerns [see Warnings and Precautions (5.8)].
 
 Chronic Kidney Disease
 
-Inform patients that treatment with atazanavir sulfate capsules may lead to the development of chronic kidney disease, and to maintain adequate hydration while taking atazanavir sulfate capsules [see Warnings and Precautions (5.5)].
+Inform patients that treatment with atazanavir capsules may lead to the development of chronic kidney disease, and to maintain adequate hydration while taking atazanavir capsules [see Warnings and Precautions (5.5)].
 
-Nephrolithiasis and Cholelithiasis Inform patients that kidney stones and/or gallstones have been reported with atazanavir sulfate use.
-Some patients with kidney stones and/or gallstones required hospitalization for additional management and some had complications.
-Discontinuation of atazanavir sulfate capsules may be necessary as part of the medical management of these adverse events [see Warnings and Precautions (5.6)].
+Nephrolithiasis and Cholelithiasis
 
-Drug Interactions Atazanavir sulfate capsules may lead to significant interaction with some drugs; therefore, advise patients to report the use of any other prescription, nonprescription medication, or herbal products, particularly St. John’s wort, to their healthcare provider prior to use [see Contraindications (4), Warnings and Precautions (5.7)].
+Inform patients that kidney stones and/or gallstones have been reported with atazanavir capsules use.
+Some patients with kidney stones and/or gallstones required hospitalization for additional management, and some had complications.
+Discontinuation of atazanavir capsules may be necessary as part of the medical management of these adverse events [see Warnings and Precautions (5.6)].
+
+Drug Interactions
+
+Atazanavir capsules may lead to significant interaction with some drugs; therefore, advise patients to report the use of any other prescription, nonprescription medication, or herbal products, particularly St. John’s wort, to their healthcare provider prior to use [see Contraindications (4), Warnings and Precautions (5.7)].
 
 Immune Reconstitution Syndrome
 
@@ -36,30 +44,29 @@ Inform patients that redistribution or accumulation of body fat may occur in pat
 
 Dosing Instructions
 
-Advise patients to take atazanavir sulfate capsules with food every day and take other concomitant antiretroviral therapy as prescribed.
-Atazanavir sulfate capsules must always be used in combination with other antiretroviral drugs.
+Advise patients to take atazanavir capsules with food every day and take other concomitant antiretroviral therapy as prescribed.
+Atazanavir capsules must always be used in combination with other antiretroviral drugs.
 Advise patients that they should not alter the dose or discontinue therapy without consulting with their healthcare provider.
-Tell patients if a dose of atazanavir sulfate capsules is missed, they should take the dose as soon as possible and then return to their normal schedule; however, if a dose is skipped the patient should not double the next dose.
+Tell patients if a dose of atazanavir capsules is missed, they should take the dose as soon as possible and then return to their normal schedule; however, if a dose is skipped the patient should not double the next dose.
 
-Pregnancy Inform pregnant patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atazanavir sulfate capsules during pregnancy.
+Pregnancy
+
+Inform pregnant patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in pregnant patients exposed to atazanavir during pregnancy.
 Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry [see Use in Specific Populations (8.1)].
 
-Lactation Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk.
-Atazanavir can also be passed to the baby in breast milk and it is not known whether it could harm the baby [see Use in Specific Populations (8.2)].
+Lactation
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
+Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk.
+Atazanavir can also be passed to the baby in breast milk, and it is not known whether it could harm the baby [see Use in Specific Populations (8.2)].
 
-Manufactured In Croatia By:
+Brands listed are the trademarks of their respective owners.
 
-Pliva Hrvatska d.o.o.
+Dispense with Patient Package Insert available at: www.tevausa.com/PatientPI
 
+Manufactured In Croatia By: Pliva Hrvatska d.o.o.
 Zagreb, Croatia
 
-Manufactured For:
-
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-D 5/2018
+E 12/2023

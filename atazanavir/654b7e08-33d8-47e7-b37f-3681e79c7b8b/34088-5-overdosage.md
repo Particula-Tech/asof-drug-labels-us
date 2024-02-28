@@ -1,13 +1,13 @@
 # 10 OVERDOSAGE
 
-Human experience of acute overdose with atazanavir sulfate is limited.
-Single doses up to 1200 mg (three times the 400 mg maximum recommended dose) have been taken by healthy volunteers without symptomatic untoward effects.
-A single self-administered overdose of 29.2 g of atazanavir sulfate in an HIV-infected patient (73 times the 400-mg recommended dose) was associated with asymptomatic bifascicular block and PR interval prolongation.
+Human experience of acute overdose with atazanavir is limited.
+Single doses up to 1200 mg (three times the 400 mg maximum recommended dose) have been taken by healthy subjects without symptomatic untoward effects.
+A single self-administered overdose of 29.2 g of atazanavir in a patient with HIV-1 infection (73 times the 400 mg recommended dose) was associated with asymptomatic bifascicular block and PR interval prolongation.
 These events resolved spontaneously.
-At atazanavir sulfate doses resulting in high atazanavir exposures, jaundice due to indirect (unconjugated) hyperbilirubinemia (without associated liver function test changes) or PR interval prolongation may be observed [see Warnings and Precautions (5.1, 5.8) and Clinical Pharmacology (12.2)].
+At atazanavir doses resulting in high atazanavir exposures, jaundice due to indirect (unconjugated) hyperbilirubinemia (without associated liver function test changes) or PR interval prolongation may be observed [see Warnings and Precautions (5.1, 5.8) and Clinical Pharmacology (12.2)].
 
-Treatment of overdosage with atazanavir sulfate should consist of general supportive measures, including monitoring of vital signs and ECG, and observations of the patient’s clinical status.
+Treatment of overdosage with atazanavir should consist of general supportive measures, including monitoring of vital signs and ECG, and observations of the patient’s clinical status.
 If indicated, elimination of unabsorbed atazanavir should be achieved by emesis or gastric lavage.
 Administration of activated charcoal may also be used to aid removal of unabsorbed drug.
-There is no specific antidote for overdose with atazanavir sulfate.
+There is no specific antidote for overdose with atazanavir.
 Since atazanavir is extensively metabolized by the liver and is highly protein bound, dialysis is unlikely to be beneficial in significant removal of this medicine.

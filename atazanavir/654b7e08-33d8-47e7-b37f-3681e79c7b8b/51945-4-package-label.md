@@ -2,70 +2,46 @@
 
 NDC 0093-5526-06
 
-Atazanavir Sulfate
+Atazanavir Capsules
 
-Capsules, 150 mg*
+150 mg
 
-PHARMACIST: PLEASE DISPENSE WITH ATTACHED
+Note to pharmacist: Do not cover ALERT box with pharmacy label.
 
-PATIENT INFORMATION LEAFLET
+ALERT: Find out about medicines that should NOT be taken with atazanavir capsules.
 
 Rx only
 
-Note to pharmacist: Do not cover ALERT box with
-
-pharmacy label.
-
-ALERT: Find out about medicines that should NOT
-
-be taken with atazanavir sulfate capsules.
-
-60 CAPSULES
+60 Capsules
 
 # Package/Label Display Panel
 
 NDC 0093-5527-06
 
-Atazanavir Sulfate
+Atazanavir Capsules
 
-Capsules, 200 mg*
+200 mg
 
-PHARMACIST: PLEASE DISPENSE WITH ATTACHED
+Note to pharmacist: Do not cover ALERT box with pharmacy label.
 
-PATIENT INFORMATION LEAFLET
+ALERT: Find out about medicines that should NOT be taken with atazanavir capsules.
 
 Rx only
 
-Note to pharmacist: Do not cover ALERT box with
-
-pharmacy label.
-
-ALERT: Find out about medicines that should NOT
-
-be taken with atazanavir sulfate capsules.
-
-60 CAPSULES
+60 Capsules
 
 # Package/Label Display Panel
 
 NDC 0093-5528-56
 
-Atazanavir Sulfate
+Atazanavir Capsules
 
-Capsules, 300 mg*
+300 mg
 
-PHARMACIST: PLEASE DISPENSE WITH ATTACHED
+Note to pharmacist: Do not cover ALERT box with pharmacy label.
 
-PATIENT INFORMATION LEAFLET
+ALERT: Find out about medicines that should NOT be taken with atazanavir capsules.
 
 Rx only
 
-Note to pharmacist: Do not cover ALERT box with
-
-pharmacy label.
-
-ALERT: Find out about medicines that should NOT
-
-be taken with atazanavir sulfate capsules.
-
-30 CAPSULES
+30 Capsules
