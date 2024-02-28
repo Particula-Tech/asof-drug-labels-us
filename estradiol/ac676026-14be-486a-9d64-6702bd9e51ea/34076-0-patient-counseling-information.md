@@ -22,7 +22,9 @@ Distributed By: Allergan USA, Inc.
 
 Madison, NJ 07940
 
-11/2023 Alora® is a registered trademark of Allergan Sales, LLC.
+12/2023 Alora® is a registered trademark of Allergan Sales, LLC.
 
 ©2023 Allergan.
 All rights reserved.
+
+V3.0USPI5885
