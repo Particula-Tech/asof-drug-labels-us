@@ -56,7 +56,7 @@ Made in India
 
 Mylan.com
 
-RMX2351H3
+RMX2351H4
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 

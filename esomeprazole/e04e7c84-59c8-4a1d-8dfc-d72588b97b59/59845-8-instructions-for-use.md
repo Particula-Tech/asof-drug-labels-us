@@ -26,6 +26,6 @@ Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
 Revised: 11/2023
 
-750XXXXX
+75100442
 
 MX:ESOME:R8m/MX:MG:ESOME:R5m
