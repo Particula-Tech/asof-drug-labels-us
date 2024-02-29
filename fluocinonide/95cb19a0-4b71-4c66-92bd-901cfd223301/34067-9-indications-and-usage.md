@@ -2,7 +2,7 @@
 
 ## 1.1 Indications
 
-VANOS® (fluocinonide) Cream, 0.1% is indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid responsive dermatoses in patients 12 years of age or older [see Use in Specific Populations (8.4)].
+VANOS ®(fluocinonide) Cream, 0.1% is indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid responsive dermatoses in patients 12 years of age or older [see Use in Specific Populations (8.4)].
 
 ## 1.2 Limitation of Use
 

@@ -34,7 +34,7 @@ They are therefore also at greater risk of adrenal insufficiency during or after
 Adverse effects including striae have been reported with inappropriate use of topical corticosteroids in infants and children.
 
 HPA-axis suppression, Cushing’s syndrome, linear growth retardation, delayed weight gain, and intracranial hypertension have been reported in children receiving topical corticosteroids.
-Manifestations of adrenal suppression in children include low plasma cortisol levels and absence of response to cosyntropin (ACTH1-24) stimulation.
+Manifestations of adrenal suppression in children include low plasma cortisol levels and absence of response to cosyntropin (ACTH 1-24) stimulation.
 Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema.
 
 ## 8.5 Geriatric Use

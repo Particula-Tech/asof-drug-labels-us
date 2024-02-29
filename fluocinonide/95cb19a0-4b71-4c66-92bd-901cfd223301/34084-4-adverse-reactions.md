@@ -22,9 +22,9 @@ Safety in patients 12 to 17 years of age was similar to that observed in adults.
 
 The following adverse reactions have been identified during postapproval use of VANOS Cream:
 
-- Administration Site Conditions: discoloration, erythema, irritation, pruritus, swelling, pain, and condition aggravated.
-- Immune System Disorders: hypersensitivity.
-- Nervous System Disorders: headache and dizziness.
-- Skin and Subcutaneous Tissue Disorders: acne, dry skin, rash, skin exfoliation, and skin tightness.
+- Administration Site Conditions:discoloration, erythema, irritation, pruritus, swelling, pain, and condition aggravated.
+- Immune System Disorders:hypersensitivity.
+- Nervous System Disorders:headache and dizziness.
+- Skin and Subcutaneous Tissue Disorders:acne, dry skin, rash, skin exfoliation, and skin tightness.
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

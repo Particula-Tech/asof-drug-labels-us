@@ -10,13 +10,13 @@ Table 2: Plaque-type Psoriasis in Adults
 |  | VANOS Cream, once daily (n=107) | Vehicle, once daily (n=54) | VANOS Cream, twice daily (n=107) | Vehicle, twice daily (n=55) |
 | --- | --- | --- | --- | --- |
 | Subjects cleared | 0 (0) | 0 (0) | 6 (6%) | 0 (0) |
-| Subjects achieving treatment successCleared or almost cleared | 19 (18%) | 4 (7%) | 33 (31%) | 3 (5%) |
+| Subjects achieving treatment success Cleared or almost cleared | 19 (18%) | 4 (7%) | 33 (31%) | 3 (5%) |
 
 Table 3: Atopic Dermatitis in Adults
 
 |  | VANOS Cream, once daily (n=109) | Vehicle, once daily (n=50) | VANOS Cream, twice daily (n=102) | Vehicle, twice daily (n=52) |
 | --- | --- | --- | --- | --- |
 | Subjects cleared | 11 (10%) | 0 (0) | 17 (17%) | 0 (0) |
-| Subjects achieving treatment successCleared or almost cleared | 64 (59%) | 6 (12%) | 58 (57%) | 10 (19%) |
+| Subjects achieving treatment success Cleared or almost cleared | 64 (59%) | 6 (12%) | 58 (57%) | 10 (19%) |
 
 No efficacy studies have been conducted to compare VANOS (fluocinonide) Cream, 0.1% with any other topical corticosteroid product, including fluocinonide cream 0.05%.

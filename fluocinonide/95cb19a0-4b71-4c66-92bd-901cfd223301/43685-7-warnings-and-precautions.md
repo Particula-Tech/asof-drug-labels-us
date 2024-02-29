@@ -6,7 +6,7 @@ Systemic absorption of topical corticosteroids, including VANOS Cream, can produ
 This may occur during treatment or upon withdrawal of the topical corticosteroid.
 In addition, the use of VANOS Cream for longer than 2 weeks may suppress the immune system [see Nonclinical Toxicology (13.1)].
 
-HPA-axis suppression has been observed with VANOS Cream, 0.1% applied once or twice daily in 2 out of 18 adult patients with plaque-type psoriasis, 1 out of 31 adult patients with atopic dermatitis, and 4 out of 123 pediatric patients with atopic dermatitis [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.2)].
+HPA-axis suppression has been observed with VANOS Cream, 0.1% applied once or twice daily in 2 out of 18 adult patients with plaque-type psoriasis, 1 out of 31 adult patients with atopic dermatitis, and 4 out of 123 pediatric patients with atopic dermatitis [see Use in Specific Populations (8.4)and Clinical Pharmacology (12.2)].
 
 Because of the potential for systemic absorption, use of topical corticosteroids, including VANOS Cream, may require that patients be periodically evaluated for HPA-axis suppression.
 Factors that predispose a patient using a topical corticosteroid to HPA-axis suppression include the use of more potent steroids, use over large surface areas, use over prolonged periods, use under occlusion, use on an altered skin barrier, and use in patients with liver failure.

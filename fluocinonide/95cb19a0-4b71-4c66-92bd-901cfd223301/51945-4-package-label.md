@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 120 g Tube Carton
 
-NDC 99207-525-10
+NDC99207-525-10
 
 Vanos® (fluocinonide) Cream, 0.1%
 
