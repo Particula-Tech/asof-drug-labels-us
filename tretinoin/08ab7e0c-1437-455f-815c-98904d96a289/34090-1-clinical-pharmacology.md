@@ -12,6 +12,6 @@ Additionally, tretinoin stimulates mitotic activity and increased turnover of fo
 
 Tretinoin is a metabolite of Vitamin A metabolism in man.
 Percutaneous absorption, as determined by the cumulative excretion of radiolabeled drug into urine and feces, was assessed in 44 healthy men and women after single and repeated daily applications of 500 mg of a 0.1% tretinoin gel formulation.
-Estimates of in vivo bioavailability, mean (SD)%, following both single and multiple daily applications, for a period of 28 days with the 0.1% gel, were 0.82 (0.11)% and 1.41 (0.54)%, respectively.
-The plasma concentrations of tretinoin and its metabolites, 13-cis-retinoic acid, all-trans-4-oxo-retinoic acid, and 13-cis-4-oxo-retinoic acid, generally ranged from 1 to 3 ng/mL and were essentially unaltered after either single or multiple daily applications of Retin-A Micro (tretinoin) Gel microsphere, 0.1%, relative to baseline levels.
+Estimates of in vivobioavailability, mean (SD)%, following both single and multiple daily applications, for a period of 28 days with the 0.1% gel, were 0.82 (0.11)% and 1.41 (0.54)%, respectively.
+The plasma concentrations of tretinoin and its metabolites, 13- cis-retinoic acid, all- trans-4-oxo-retinoic acid, and 13- cis-4-oxo-retinoic acid, generally ranged from 1 to 3 ng/mL and were essentially unaltered after either single or multiple daily applications of Retin-A Micro (tretinoin) Gel microsphere, 0.1%, relative to baseline levels.
 Clinical pharmacokinetic studies have not been performed with Retin-A Micro (tretinoin) Gel microsphere, 0.08%, 0.06% and 0.04%.
