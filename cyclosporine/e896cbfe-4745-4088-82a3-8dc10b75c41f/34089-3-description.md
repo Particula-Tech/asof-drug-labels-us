@@ -9,11 +9,11 @@ Chemically, cyclosporine is designated as [R-[R*,R*-(E)]]-cyclic-(L-alanyl-D-ala
 
 Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]) are available in 25 mg and 100 mg strengths.
 
-## Each 25 mg capsule contains
+Each 25 mg capsule contains
 
 cyclosporine, 25 mg, alcohol, USP, absolute, 12.8% v/v (10.1% wt/vol.).
 
-## Each 100 mg capsule contains
+Each 100 mg capsule contains
 
 cyclosporine, 100 mg, alcohol, USP, absolute, 12.8% v/v (10.1% wt/vol.).
 
