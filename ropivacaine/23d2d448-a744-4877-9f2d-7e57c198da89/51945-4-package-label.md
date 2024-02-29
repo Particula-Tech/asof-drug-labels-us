@@ -776,9 +776,9 @@ Naropin®
 
 (2 mg per mL)
 
-For Infiltration and Epidural
+For Infiltration, Nerve Block, and
 
-Administration Only
+Epidural Administration Only
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 100 mL Bag Shipper Label
 
@@ -791,6 +791,8 @@ Naropin®
 200 mg/100 mL (2 mg/mL)
 
 Rx only
+
+For Infiltration, Nerve Block, and Epidural Administration Only.
 
 NDC 63323-285-61
 
@@ -808,9 +810,9 @@ Naropin®
 
 (2 mg per mL)
 
-For Infiltration and Epidural
+For Infiltration, Nerve Block, and
 
-Administration Only
+Epidural Administration Only
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 200 mL Bag Shipper Label
 
@@ -823,5 +825,7 @@ Naropin®
 400 mg/200 mL (2 mg/mL)
 
 Rx only
+
+For Infiltration, Nerve Block, and Epidural Administration Only.
 
 NDC 63323-285-63

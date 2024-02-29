@@ -1,74 +1,13 @@
-# CLINICAL PHARMACOLOGY:
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## 12.1 Mechanism of Action
 
 Ropivacaine is a member of the amino amide class of local anesthetics and is supplied as the pure S-(-)-enantiomer.
 Local anesthetics block the generation and the conduction of nerve impulses, presumably by increasing the threshold for electrical excitation in the nerve, by slowing the propagation of the nerve impulse, and by reducing the rate of rise of the action potential.
 In general, the progression of anesthesia is related to the diameter, myelination and conduction velocity of affected nerve fibers.
 Clinically, the order of loss of nerve function is as follows: (1) pain, (2) temperature, (3) touch, (4) proprioception, and (5) skeletal muscle tone.
 
-## Pharmacokinetics:
-
-## Absorption
-
-The systemic concentration of ropivacaine is dependent on the total dose and concentration of drug administered, the route of administration, the patient's hemodynamic/circulatory condition, and the vascularity of the administration site.
-
-From the epidural space, ropivacaine shows complete and biphasic absorption.
-The half-lives of the 2 phases, (mean ± SD) are 14 ± 7 minutes and 4.2 ± 0.9 h, respectively.
-The slow absorption is the rate limiting factor in the elimination of ropivacaine that explains why the terminal half-life is longer after epidural than after intravenous administration.
-Ropivacaine shows dose-proportionality up to the highest intravenous dose studied, 80 mg, corresponding to a mean ± SD peak plasma concentration of 1.9 ± 0.3 mcg/mL.
-
-Table 1 Pharmacokinetic (plasma concentration-time) data from clinical trials
-
-| Route | Epidural Infusion* |  | Epidural Infusion* | Epidural Block† | Epidural Block† | Plexus Block‡ | IV Infusion§ |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Dose (mg) | 1493 ± 10 | 2075 ± 206 | 1217 ± 277 | 150 | 187.5 | 300 | 40 |
-| N | 12 | 12 | 11 | 8 | 8 | 10 | 12 |
-| Cmax (mg/L) | 2.4 ± 1¶ | 2.8 ± 0.5¶ | 2.3 ± 1.1¶ | 1.1 ± 0.2 | 1.6 ± 0.6 | 2.3 ± 0.8 | 1.2 ± 0.2# |
-| Tmax (min) | n/a♠ | n/a | n/a | 43 ± 14 | 34 ± 9 | 54 ± 22 | n/a |
-| AUC0- (mg.h/L) | 135.5 ± 50 | 145 ± 34 | 161 ± 90 | 7.2 ± 2 | 11.3 ± 4 | 13 ± 3.3 | 1.8 ± 0.6 |
-| CL (L/h) | 11.03 | 13.7 | n/a | 5.5 ± 2 | 5 ± 2.6 | n/a | 21.2 ± 7 |
-| t1/2 (hr) ♥ | 5 ± 2.5 | 5.7 ± 3 | 6 ± 3 | 5.7 ± 2 | 7.1 ± 3 | 6.8 ± 3.2 | 1.9 ± 0.5 |
-| * Continuous 72 hour epidural infusion after an epidural block with 5 or 10 mg/mL. |  |  |  |  |  |  |  |
-| † Epidural anesthesia with 7.5 mg/mL (0.75%) for cesarean delivery. |  |  |  |  |  |  |  |
-| ‡ Brachial plexus block with 7.5 mg/mL (0.75%) ropivacaine. |  |  |  |  |  |  |  |
-| § 20 minute IV infusion to volunteers (40 mg). |  |  |  |  |  |  |  |
-| ¶ Cmax measured at the end of infusion (i.e., at 72 hr). |  |  |  |  |  |  |  |
-| # Cmax measured at the end of infusion (i.e., at 20 minutes). |  |  |  |  |  |  |  |
-| ♠ n/a=not applicable |  |  |  |  |  |  |  |
-| ♥ t½ is the true terminal elimination half-life. On the other hand, t½ follows absorption-dependent elimination (flip-flop) after non-intravenous administration. |  |  |  |  |  |  |  |
-
-In some patients after a 300 mg dose for brachial plexus block, free plasma concentrations of ropivacaine may approach the threshold for CNS toxicity (see PRECAUTIONS).
-At a dose of greater than 300 mg, for local infiltration, the terminal half-life may be longer (>30 hours).
-
-## Distribution
-
-After intravascular infusion, ropivacaine has a steady-state volume of distribution of 41 ± 7 liters.
-Ropivacaine is 94% protein bound, mainly to α1-acid glycoprotein.
-An increase in total plasma concentrations during continuous epidural infusion has been observed, related to a postoperative increase of α1-acid glycoprotein.
-Variations in unbound, i.e., pharmacologically active, concentrations have been less than in total plasma concentration.
-Ropivacaine readily crosses the placenta and equilibrium in regard to unbound concentration will be rapidly reached (see PRECAUTIONS, Labor and Delivery).
-
-## Metabolism
-
-Ropivacaine is extensively metabolized in the liver, predominantly by aromatic hydroxylation mediated by cytochrome P4501A to 3-hydroxy ropivacaine.
-After a single IV dose approximately 37% of the total dose is excreted in the urine as both free and conjugated 3-hydroxy ropivacaine.
-Low concentrations of 3-hydroxy ropivacaine have been found in the plasma.
-Urinary excretion of the 4-hydroxy ropivacaine, and both the 3-hydroxy N-de-alkylated (3-OH-PPX) and 4-hydroxy N-de-alkylated (4-OH-PPX) metabolites account for less than 3% of the dose.
-An additional metabolite, 2-hydroxy-methyl-ropivacaine, has been identified but not quantified in the urine.
-The N-de-alkylated metabolite of ropivacaine (PPX) and 3-OH-ropivacaine are the major metabolites excreted in the urine during epidural infusion.
-Total PPX concentration in the plasma was about half as that of total ropivacaine; however, mean unbound concentrations of PPX were about 7 to 9 times higher than that of unbound ropivacaine following continuous epidural infusion up to 72 hours.
-Unbound PPX, 3-hydroxy and 4-hydroxy ropivacaine, have a pharmacological activity in animal models less than that of ropivacaine.
-There is no evidence of in vivo racemization in urine of ropivacaine.
-
-## Elimination
-
-The kidney is the main excretory organ for most local anesthetic metabolites.
-In total, 86% of the ropivacaine dose is excreted in the urine after intravenous administration of which only 1% relates to unchanged drug.
-After intravenous administration ropivacaine has a mean ± SD total plasma clearance of 387 ± 107 mL/min, an unbound plasma clearance of 7.2 ± 1.6 L/min, and a renal clearance of 1 mL/min.
-The mean ± SD terminal half-life is 1.8 ± 0.7 h after intravascular administration and 4.2 ± 1 h after epidural administration (see Absorption).
-
-## Pharmacodynamics
+## 12.2 Pharmacodynamics
 
 Studies in humans have demonstrated that, unlike most other local anesthetics, the presence of epinephrine has no major effect on either the time of onset or the duration of action of ropivacaine.
 Likewise, addition of epinephrine to ropivacaine has no effect on limiting systemic absorption of ropivacaine.
@@ -95,106 +34,68 @@ In one study, the upper level of analgesia increased with age, the maximum decre
 However, no pharmacokinetic differences were observed between elderly and younger patients.
 
 In non-clinical pharmacology studies comparing ropivacaine and bupivacaine in several animal species, the cardiac toxicity of ropivacaine was less than that of bupivacaine, although both were considerably more toxic than lidocaine.
+
 Arrhythmogenic and cardio-depressant effects were seen in animals at significantly higher doses of ropivacaine than bupivacaine.
 The incidence of successful resuscitation was not significantly different between the ropivacaine and bupivacaine groups.
 
-## Clinical Trials
+## 12.3 Pharmacokinetics
 
-Ropivacaine was studied as a local anesthetic both for surgical anesthesia and for acute pain management (see DOSAGE AND ADMINISTRATION).
+Absorption
 
-The onset, depth and duration of sensory block are, in general, similar to bupivacaine.
-However, the depth and duration of motor block, in general, are less than that with bupivacaine.
+The systemic concentration of ropivacaine is dependent on the total dose and concentration of drug administered, the route of administration, the patient's hemodynamic/circulatory condition, and the vascularity of the administration site.
 
-## Epidural Administration In Surgery
+From the epidural space, ropivacaine shows complete and biphasic absorption.
+The half-lives of the 2 phases, (mean ± SD) are 14 ± 7 minutes and 4.2 ± 0.9 h, respectively.
+The slow absorption is the rate limiting factor in the elimination of ropivacaine that explains why the terminal half-life is longer after epidural than after intravenous administration.
 
-There were 25 clinical studies performed in 900 patients to evaluate Naropin epidural injection for general surgery.
-Naropin was used in doses ranging from 75 to 250 mg.
-In doses of 100 to 200 mg, the median (1st to 3rd quartile) onset time to achieve a T10 sensory block was 10 (5 to 13) minutes and the median (1st to 3rd quartile) duration at the T10 level was 4 (3 to 5) hours (see DOSAGE AND ADMINISTRATION).
-Higher doses produced a more profound block with a greater duration of effect.
+Ropivacaine shows dose-proportionality up to the highest intravenous dose studied, 80 mg, corresponding to a mean ± SD peak plasma concentration of 1.9 ± 0.3 mcg/mL.
 
-## Epidural Administration In Cesarean Section
+Table 7 Pharmacokinetic (Plasma Concentration-Time) Data From Clinical Trials
 
-A total of 12 studies were performed with epidural administration of Naropin for cesarean section.
-Eight of these studies involved 218 patients using the concentration of 5 mg/mL (0.5%) in doses up to 150 mg.
-Median onset measured at T6 ranged from 11 to 26 minutes.
-Median duration of sensory block at T6 ranged from 1.7 to 3.2 h, and duration of motor block ranged from 1.4 to 2.9 h. Naropin provided adequate muscle relaxation for surgery in all cases.
+| Route | Epidural Infusion* |  | Epidural Infusion* | Epidural Block† | Epidural Block† | Plexus Block‡ | IV Infusion§ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Dose (mg) | 1493 ± 10 | 2075 ± 206 | 1217 ± 277 | 150 | 187.5 | 300 | 40 |
+| N | 12 | 12 | 11 | 8 | 8 | 10 | 12 |
+| Cmax (mg/L) | 2.4 ± 1¶ | 2.8 ± 0.5¶ | 2.3 ± 1.1¶ | 1.1 ± 0.2 | 1.6 ± 0.6 | 2.3 ± 0.8 | 1.2 ± 0.2# |
+| Tmax (min) | n/a♠ | n/a | n/a | 43 ± 14 | 34 ± 9 | 54 ± 22 | n/a |
+| AUC0- (mg.h/L) | 135.5 ± 50 | 145 ± 34 | 161 ± 90 | 7.2 ± 2 | 11.3 ± 4 | 13 ± 3.3 | 1.8 ± 0.6 |
+| CL (L/h) | 11.03 | 13.7 | n/a | 5.5 ± 2 | 5 ± 2.6 | n/a | 21.2 ± 7 |
+| t1/2 (hr) ♥ | 5 ± 2.5 | 5.7 ± 3 | 6 ± 3 | 5.7 ± 2 | 7.1 ± 3 | 6.8 ± 3.2 | 1.9 ± 0.5 |
+| * Continuous 72 hour epidural infusion after an epidural block with 5 or 10 mg/mL. |  |  |  |  |  |  |  |
+| † Epidural anesthesia with 7.5 mg/mL (0.75%) for cesarean delivery. |  |  |  |  |  |  |  |
+| ‡ Brachial plexus block with 7.5 mg/mL (0.75%) ropivacaine. |  |  |  |  |  |  |  |
+| § 20 minute IV infusion to volunteers (40 mg). |  |  |  |  |  |  |  |
+| ¶ Cmax measured at the end of infusion (i.e., at 72 hr). |  |  |  |  |  |  |  |
+| # Cmax measured at the end of infusion (i.e., at 20 minutes). |  |  |  |  |  |  |  |
+| ♠ n/a=not applicable |  |  |  |  |  |  |  |
+| ♥ t½ is the true terminal elimination half-life. On the other hand, t½ follows absorption dependent elimination (flip-flop) after non-intravenous administration. |  |  |  |  |  |  |  |
 
-In addition, 4 active controlled studies for cesarean section were performed in 264 patients at a concentration of 7.5 mg/mL (0.75%) in doses up to 187.5 mg.
-Median onset measured at T6 ranged from 4 to 15 minutes.
-Seventy-seven to 96% of Naropin-exposed patients reported no pain at delivery.
-Some patients received other anesthetic, analgesic, or sedative modalities during the course of the operative procedure.
+In some patients after a 300 mg dose for brachial plexus block, free plasma concentrations of ropivacaine may approach the threshold for CNS toxicity [see Warnings and Precautions (5.7)].
+At a dose of greater than 300 mg, for local infiltration, the terminal half-life may be longer (>30 hours).
 
-## Epidural Administration In Labor And Delivery
+Distribution
 
-A total of 9 double-blind clinical studies, involving 240 patients were performed to evaluate Naropin for epidural block for management of labor pain.
-When administered in doses up to 278 mg as intermittent injections or as a continuous infusion, Naropin produced adequate pain relief.
+After intravascular infusion, ropivacaine has a steady-state volume of distribution of 41 ± 7 liters.
+Ropivacaine is 94% protein bound, mainly to α1-acid glycoprotein.
+An increase in total plasma concentrations during continuous epidural infusion has been observed, related to a postoperative increase of α1-acid glycoprotein.
+Variations in unbound, i.e., pharmacologically active, concentrations have been less than in total plasma concentration.
+Ropivacaine readily crosses the placenta and equilibrium in regard to unbound concentration will be rapidly reached [see Warnings and Precautions (5) and Use in Specific Population (8.1)].
 
-A prospective meta-analysis on 6 of these studies provided detailed evaluation of the delivered newborns and showed no difference in clinical outcomes compared to bupivacaine.
-There were significantly fewer instrumental deliveries in mothers receiving ropivacaine as compared to bupivacaine.
+Metabolism
 
-Table 2 LABOR AND DELIVERY META-ANALYSIS: MODE OF DELIVERY
+Ropivacaine is extensively metabolized in the liver, predominantly by aromatic hydroxylation mediated by cytochrome P4501A to 3-hydroxy ropivacaine.
+After a single IV dose approximately 37% of the total dose is excreted in the urine as both free and conjugated 3-hydroxy ropivacaine.
+Low concentrations of 3-hydroxy ropivacaine have been found in the plasma.
+Urinary excretion of the 4 hydroxy ropivacaine, and both the 3-hydroxy N de alkylated (3-OH-PPX) and 4-hydroxy N-de-alkylated (4-OH-PPX) metabolites account for less than 3% of the dose.
+An additional metabolite, 2-hydroxy-methyl- ropivacaine, has been identified but not quantified in the urine.
+The N-de-alkylated metabolite of ropivacaine (PPX) and 3- OH-ropivacaine are the major metabolites excreted in the urine during epidural infusion.
+Total PPX concentration in the plasma was about half as that of total ropivacaine; however, mean unbound concentrations of PPX were about 7 to 9 times higher than that of unbound ropivacaine following continuous epidural infusion up to 72 hours.
+Unbound PPX, 3-hydroxy and 4-hydroxy ropivacaine, have a pharmacological activity in animal models less than that of ropivacaine.
+There is no evidence of in vivo racemization in urine of ropivacaine.
 
-| Delivery Mode | Naropin n=199 |  | Bupivacaine n=188 |  |
-| --- | --- | --- | --- | --- |
-|  | n | % | n | % |
-| Spontaneous Vertex | 116 | 58 | 92 | 49 |
-| Vacuum Extractor | 26 |  | 33 |  |
-|  |  | }27* |  | }40 |
-| Forceps | 28 |  | 42 |  |
-| Cesarean Section | 29 | 15 | 21 | 11 |
-| *p=0.004 versus bupivacaine |  |  |  |  |
+Elimination
 
-## Epidural Administration In Postoperative Pain Management
-
-There were 8 clinical studies performed in 382 patients to evaluate Naropin 2 mg/mL (0.2%) for postoperative pain management after upper and lower abdominal surgery and after orthopedic surgery.
-The studies utilized intravascular morphine via PCA as a rescue medication and quantified as an efficacy variable.
-
-Epidural anesthesia with Naropin 5 mg/mL, (0.5%) was used intraoperatively for each of these procedures prior to initiation of postoperative Naropin.
-The incidence and intensity of the motor block were dependent on the dose rate of Naropin and the site of injection.
-Cumulative doses of up to 770 mg of ropivacaine were administered over 24 hours (intraoperative block plus postoperative continuous infusion).
-The overall quality of pain relief, as judged by the patients, in the ropivacaine groups was rated as good or excellent (73% to 100%).
-The frequency of motor block was greatest at 4 hours and decreased during the infusion period in all groups.
-At least 80% of patients in the upper and lower abdominal studies and 42% in the orthopedic studies had no motor block at the end of the 21-hour infusion period.
-Sensory block was also dose rate-dependent and a decrease in spread was observed during the infusion period.
-
-A double-blind, randomized, clinical trial compared lumbar epidural infusion of Naropin (n=26) and bupivacaine (n=26) at 2 mg/mL (8 mL/h), for 24 hours after knee replacement.
-In this study, the pain scores were higher in the Naropin group, but the incidence and the intensity of motor block were lower.
-
-Continuous epidural infusion of Naropin 2 mg/mL (0.2%) during up to 72 hours for postoperative pain management after major abdominal surgery was studied in 2 multicenter, double-blind studies.
-A total of 391 patients received a low thoracic epidural catheter, and Naropin 7.5 mg/L (0.75%) was given for surgery, in combination with GA.
-Postoperatively, Naropin 2 mg/mL (0.2%), 4 to 14 mL/h, alone or with fentanyl 1, 2, or 4 mcg/mL was infused through the epidural catheter and adjusted according to the patient's needs.
-These studies support the use of Naropin 2 mg/mL (0.2%) for epidural infusion at 6 to 14 mL/h (12 to 28 mg) for up to 72 hours and demonstrated adequate analgesia with only slight and nonprogressive motor block in cases of moderate to severe postoperative pain.
-
-Clinical studies with 2 mg/mL (0.2%) Naropin have demonstrated that infusion rates of 6 to 14 mL (12 to 28 mg) per hour provide adequate analgesia with nonprogressive motor block in cases of moderate to severe postoperative pain.
-In these studies, this technique resulted in a significant reduction in patients' morphine rescue dose requirement.
-Clinical experience supports the use of Naropin epidural infusions for up to 72 hours.
-
-## Peripheral Nerve Block
-
-Naropin, 5 mg/mL (0.5%), was evaluated for its ability to provide anesthesia for surgery using the techniques of Peripheral Nerve Block.
-There were 13 studies performed including a series of 4 pharmacodynamic and pharmacokinetic studies performed on minor nerve blocks.
-From these, 235 Naropin-treated patients were evaluable for efficacy.
-Naropin was used in doses up to 275 mg.
-When used for brachial plexus block, onset depended on technique used.
-Supraclavicular blocks were consistently more successful than axillary blocks.
-The median onset of sensory block (anesthesia) produced by ropivacaine 0.5% via axillary block ranged from 10 minutes (medial brachial cutaneous nerve) to 45 minutes (musculocutaneous nerve).
-Median duration ranged from 3.7 hours (medial brachial cutaneous nerve) to 8.7 hours (ulnar nerve).
-The 5 mg/mL (0.5%) Naropin solution gave success rates from 56% to 86% for axillary blocks, compared with 92% for supraclavicular blocks.
-
-In addition, Naropin, 7.5 mg/mL (0.75%), was evaluated in 99 Naropin-treated patients, in 2 double-blind studies, performed to provide anesthesia for surgery using the techniques of Brachial Plexus Block.
-Naropin 7.5 mg/mL was compared to bupivacaine 5 mg/mL.
-In 1 study, patients underwent axillary brachial plexus block using injections of 40 mL (300 mg) of Naropin, 7.5 mg/mL (0.75%) or 40 mL injections of bupivacaine, 5 mg/mL (200 mg).
-In a second study, patients underwent subclavian perivascular brachial plexus block using 30 mL (225 mg) of Naropin, 7.5 mg/mL (0.75%) or 30 mL of bupivacaine 5 mg/mL (150 mg).
-There was no significant difference between the Naropin and bupivacaine groups in either study with regard to onset of anesthesia, duration of sensory blockade, or duration of anesthesia.
-
-The median duration of anesthesia varied between 11.4 and 14.4 hours with both techniques.
-In one study, using the axillary technique, the quality of analgesia and muscle relaxation in the Naropin group was judged to be significantly superior to bupivacaine by both investigator and surgeon.
-However, using the subclavian perivascular technique, no statistically significant difference was found in the quality of analgesia and muscle relaxation as judged by both the investigator and surgeon.
-The use of Naropin 7.5 mg/mL for block of the brachial plexus via either the subclavian perivascular approach using 30 mL (225 mg) or via the axillary approach using 40 mL (300 mg) both provided effective and reliable anesthesia.
-
-## Local Infiltration
-
-A total of 7 clinical studies were performed to evaluate the local infiltration of Naropin to produce anesthesia for surgery and analgesia in postoperative pain management.
-In these studies 297 patients who received Naropin in doses up to 200 mg (concentrations up to 5 mg/mL, 0.5%) were evaluable for efficacy.
-With infiltration of 100 to 200 mg Naropin, the time to first request for analgesic was 2 to 6 hours.
-When compared to placebo, Naropin produced lower pain scores and a reduction of analgesic consumption.
+The kidney is the main excretory organ for most local anesthetic metabolites.
+In total, 86% of the ropivacaine dose is excreted in the urine after intravenous administration of which only 1% relates to unchanged drug.
+After intravenous administration ropivacaine has a mean ± SD total plasma clearance of 387 ± 107 mL/min, an unbound plasma clearance of 7.2 ± 1.6 L/min, and a renal clearance of 1 mL/min.
+The mean ± SD terminal half-life is 1.8 ± 0.7 h after intravascular administration and 4.2 ± 1 h after epidural administration.
