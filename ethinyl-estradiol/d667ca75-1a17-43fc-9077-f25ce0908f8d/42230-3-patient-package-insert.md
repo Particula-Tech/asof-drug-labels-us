@@ -27,8 +27,17 @@ Jinteli is used after menopause to:
   In some women the symptoms are mild, and they will not need to take estrogens.
   In other women, symptoms can be more severe.
 - Help reduce your chances of getting osteoporosis (thin weak bones)If you use Jinteli only to prevent osteoporosis from menopause, talk with your healthcare provider about whether a different treatment or medicine without estrogens might be better for you.
-  You and your healthcare provider should talk regularly about whether you still need treatment with Jinteli.Who should not use Jinteli?Do not use Jinteli if you have had your uterus (womb) removed (hysterectomy).Jinteli contains a progestogen to decrease the chance of getting cancer of the uterus (womb).
-  If you do not have a uterus, you do not need a progestogen and you should not use Jinteli.Do not start using Jinteli if you:
+  You and your healthcare provider should talk regularly about whether you still need treatment with Jinteli.
+
+Who should not use Jinteli?
+
+Do not use Jinteli if you have had your uterus (womb) removed (hysterectomy).
+
+Jinteli contains a progestogen to decrease the chance of getting cancer of the uterus (womb).
+If you do not have a uterus, you do not need a progestogen and you should not use Jinteli.
+
+Do not start using Jinteli if you:
+
 - have any unusual vaginal bleeding.Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
 - have been diagnosed with a bleeding disorder.
@@ -38,7 +47,10 @@ Jinteli is used after menopause to:
 - had a stroke or heart attack
 - currently have or have had blood clots
 - currently have or have had liver problems
-- are allergic to Jinteli or any of its ingredients.See the list of ingredients in Jinteli at the end of this leaflet.Before you use Jinteli, tell your healthcare provider about all of your medical conditions, including if you:
+- are allergic to Jinteli or any of its ingredients.See the list of ingredients in Jinteli at the end of this leaflet.
+
+Before you use Jinteli, tell your healthcare provider about all of your medical conditions, including if you:
+
 - have any unusual vaginal bleedingVaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
 - have any other medical conditions that may become worse while you are using norethindrone acetate and ethinyl estradiol tablets.Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), or problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
@@ -47,11 +59,16 @@ Jinteli is used after menopause to:
 - are pregnant or think you may be pregnant.
   Jinteli is not for pregnant women.
 
-- are breastfeedingThe hormones in Jinteli can pass into your breast milk.Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-  Some medicines may affect how Jinteli works.
-  Some other medicines and food products may increase or decrease the concentrations of the hormones in Jinteli in the blood.
-  Jinteli may also affect how your other medicines work.
-  Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get new medicine.How should I use Jinteli?
+- are breastfeedingThe hormones in Jinteli can pass into your breast milk.
+
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Some medicines may affect how Jinteli works.
+Some other medicines and food products may increase or decrease the concentrations of the hormones in Jinteli in the blood.
+Jinteli may also affect how your other medicines work.
+Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get new medicine.
+
+How should I use Jinteli?
+
 - Take Jinteli exactly as your healthcare provider tells you to take it.
 - Take 1 Jinteli tablet at the same time each day.
 - You and your healthcare provider should talk regularly (every 3 to 6 months) about the dose you are taking and whether or not you still need treatment with Jinteli.
@@ -106,7 +123,11 @@ What can I do to lower my chances of a serious side effect with Jinteli?
 - Have a pelvic exam, breast exam and mammogram (breast x-ray) every year unless your healthcare provider tells you something else.
 - If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram (breast x-ray), you may need to have breast exams more often.
 - If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or use tobacco, you may have a higher chance for getting heart disease.
-  Ask your healthcare provider for ways to lower your chances of getting heart disease.How should I store Jinteli?
+
+Ask your healthcare provider for ways to lower your chances of getting heart disease.
+
+How should I store Jinteli?
+
 - Store Jinteli at room temperature between 68°F to 77°F (20°C to 25°C).
 
 Keep Jinteli out of the reach of children.
