@@ -21,7 +21,7 @@ Itraconazole is rapidly absorbed after administration of the oral solution.
 Peak plasma concentrations of itraconazole are reached within 2.5 hours following administration of the oral solution under fasting conditions.
 The observed absolute bioavailability of itraconazole under fed conditions is about 55% and increases by 30% when the oral solution is taken in fasting conditions.
 Itraconazole exposure is greater with the oral solution than with the capsule formulation when the same dose of drug is given.
-(see WARNINGS)
+(see WARNINGS.)
 
 #### Distribution
 
@@ -44,12 +44,12 @@ Itraconazole is excreted mainly as inactive metabolites in urine (35%) and in fe
 Renal excretion of itraconazole and the active metabolite hydroxy-itraconazole account for less than 1% of an intravenous dose.
 Based on an oral radiolabeled dose, fecal excretion of unchanged drug ranges from 3% to 18% of the dose.
 
-## Special Populations
+### Special Populations
 
-### Renal Impairment
+#### Renal Impairment
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
-A pharmacokinetic study using a single 200-mg oral dose of itraconazole was conducted in three groups of patients with renal impairment (uremia: n = 7; hemodialysis: n = 7; and continuous ambulatory peritoneal dialysis: n = 5).
+A pharmacokinetic study using a single 200 mg oral dose of itraconazole was conducted in three groups of patients with renal impairment (uremia: n = 7; hemodialysis: n = 7; and continuous ambulatory peritoneal dialysis: n = 5).
 In uremic subjects with a mean creatinine clearance of 13 mL/min.×1.73 m 2, the exposure, based on AUC, was slightly reduced compared with normal population parameters.
 This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (T max, C max, and AUC 0–8h).
 Plasma concentration-versus-time profiles showed wide intersubject variation in all three groups.
@@ -61,23 +61,23 @@ Data are not available in renally impaired patients during long-term use of itra
 Dialysis has no effect on the half-life or clearance of itraconazole or hydroxy-itraconazole.
 (See PRECAUTIONSand DOSAGE AND ADMINISTRATION.)
 
-### Hepatic Impairment
+#### Hepatic Impairment
 
 Itraconazole is predominantly metabolized in the liver.
-A pharmacokinetic study was conducted in 6 healthy and 12 cirrhotic subjects who were administered a single 100-mg dose of itraconazole as capsule.
+A pharmacokinetic study was conducted in 6 healthy and 12 cirrhotic subjects who were administered a single 100 mg dose of itraconazole as capsule.
 A statistically significant reduction in mean C max(47%) and a twofold increase in the elimination half-life (37 ± 17 hours vs. 16 ± 5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
 However, overall exposure to itraconazole, based on AUC, was similar in cirrhotic patients and in healthy subjects.
 Data are not available in cirrhotic patients during long-term use of itraconazole.
 (See CONTRAINDICATIONS, PRECAUTIONS: Drug Interactionsand DOSAGE AND ADMINISTRATION.)
 
-### Decreased Cardiac Contractility
+#### Decreased Cardiac Contractility
 
 When itraconazole was administered intravenously to anesthetized dogs, a dose-related negative inotropic effect was documented.
 In a healthy volunteer study of itraconazole intravenous infusion, transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
 If signs or symptoms of congestive heart failure appear during administration of SPORANOX ®Oral Solution, monitor carefully and consider other treatment alternatives which may include discontinuation of SPORANOX ®Oral Solution administration.
 (See BOXED WARNING, CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactionsand ADVERSE REACTIONS: Post-marketing Experiencefor more information.)
 
-### Cystic Fibrosis
+#### Cystic Fibrosis
 
 Seventeen cystic fibrosis patients, ages 7 to 28 years old, were administered itraconazole oral solution 2.5 mg/kg b.i.d. for 14 days in a pharmacokinetic study.
 Sixteen patients completed the study.
@@ -85,7 +85,7 @@ Steady state trough concentrations >250 ng/mL were achieved in 6 out of 11 patie
 Large variability was observed in the pharmacokinetic data (%CV for trough concentrations = 98% and 70% for ≥16 and <16 years, respectively; %CV for AUC = 75% and 58% for ≥16 and <16 years, respectively).
 If a patient with cystic fibrosis does not respond to SPORANOX ®Oral Solution, consideration should be given to switching to alternative therapy.
 
-### Hydroxypropyl-β-Cyclodextrin
+#### Hydroxypropyl-β-Cyclodextrin
 
 The oral bioavailability of hydroxypropyl-β-cyclodextrin given as a solubilizer of itraconazole in oral solution is on average lower than 0.5% and is similar to that of hydroxypropyl-β-cyclodextrin alone.
 This low oral bioavailability of hydroxypropyl-β-cyclodextrin is not modified by the presence of food and is similar after single and repeated administrations.
