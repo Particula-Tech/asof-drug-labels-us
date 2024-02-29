@@ -36,6 +36,4 @@ Padagis
 
 Allegan, MI 49010
 
-6X200 RC J5
-
-Rev 8/2023
+Rev 12/2023

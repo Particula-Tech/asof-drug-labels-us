@@ -16,7 +16,7 @@ Prime the Evamist container by spraying 3 sprays with the cover on before applyi
 Hold the container upright and vertical for spraying.
 
 Apply one, two or three sprays each morning to adjacent, non-overlapping areas on the inner surface of the forearm, starting near the elbow.
-Allowed the sprays to dry for approximately 2 minutes before covering the site with clothing.
+Allow the sprays to dry for approximately 2 minutes before covering the site with clothing.
 Do not wash the application site for at least one hour.
 Application of Evamist to other skin surfaces has not been adequately studied.
 Evamist should not be applied to skin surfaces other than the forearm.

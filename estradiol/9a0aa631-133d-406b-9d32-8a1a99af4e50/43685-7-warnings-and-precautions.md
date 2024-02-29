@@ -4,7 +4,7 @@
 
 Increased risks of stroke and DVT are reported with estrogen-alone therapy.
 Increased risks of PE, DVT, stroke, and MI are reported with estrogen plus progestin therapy.
-Should any of these occur or be suspected, estrogen with or without progestin therapy should be discontinued
+Should any of these occur or be suspected, estrogen with or without progestin therapy should be discontinued.
 
 Immediately discontinue estrogen with or without progestogen therapy if any of these occur or are suspected.
 
@@ -18,19 +18,19 @@ Immediately discontinue estrogen-alone therapy if a stroke occurs or is suspecte
 
 Subgroup analyses of women 50 to 59 years of age suggest no increased risk of stroke for those women receiving CE (0.625 mg)-alone versus those receiving placebo (18 versus 21 per 10,000 women-years).1
 
-The WHI estrogen plus progestin substudy reported a statistically significant increased risk of stroke in women 50 to 79 years of age receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women in the same age group receiving placebo (33 versus 25 strokes per 10,000 women- years, respectively) [see Clinical Studies (14.2)].
+The WHI estrogen plus progestin substudy reported a statistically significant increased risk of stroke in women 50 to 79 years of age receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women in the same age group receiving placebo (33 versus 25 strokes per 10,000 women-years, respectively) [see Clinical Studies (14.2)].
 The increase in risk was demonstrated after the first year and persisted.1 Immediately discontinue estrogen plus progestogen therapy if a stroke occurs or is suspected.
 
 Coronary Heart Disease
 
 The WHI estrogen-alone substudy reported no overall effect on coronary heart disease (CHD) events (defined as non-fatal MI, silent MI, or CHD death) in women receiving estrogen-alone compared to placebo2[see Clinical Studies (14.2)].
 
-Subgroup analysis of women 50 to 59 years of age, who were less than 10 years since menopause, suggest a reduction (not statistically significant) of CHD events in those women receiving daily CE (0.635 mg)-alone compared to placebo) (8 versus 16 per 10,000 women-years).1
+Subgroup analysis of women 50 to 59 years of age, who were less than 10 years since menopause, suggest a reduction (not statistically significant) of CHD events in those women receiving daily CE (0.635 mg)-alone compared to placebo) (8 versus 16 per 10,000 women-years)1.
 
 The WHI estrogen plus progestin substudy reported an increased risk (not statistically significant) of CHD events in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (41 versus 34 per 10,000 women-years)1.
 An increase in relative risk was demonstrated in year 1, and a trend toward decreasing relative risk was reported in years 2 through 5 [see Clinical Studies (14.2)].
 
-In postmenopausal women with documented heart disease (n = 2,763), average 66.7 years of age, in a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estrogen/Progestin Replacement Study; HERS), treatment with daily CE (0.625 mg) plus MPA (2.5 mg) demonstrated no cardiovascular benefit.
+In postmenopausal women with documented heart disease (n = 2,763), average 66.7 years of age, in a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estrogen/Progestin Replacement Study; (HERS), treatment with daily CE (0.625 mg) plus MPA (2.5 mg) demonstrated no cardiovascular benefit.
 During an average follow-up of 4.1 years, treatment with CE plus MPA did not reduce the overall rate of CHD events in postmenopausal women with established CHD.
 There were more CHD events in the CE plus MPA-treated group than in the placebo group in year 1, but not during the subsequent years.
 Two thousand, three hundred and twenty-one (2,321) women from the original HERS trial agreed to participate in an open label extension of the original HERS, HERS II.
@@ -79,7 +79,8 @@ Metastatic disease was rare, with no apparent difference between the two groups.
 Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups6[see Clinical Studies (14.2)].
 
 Consistent with the WHI clinical trials, observational studies have also reported an increased risk of breast cancer with estrogen plus progestin therapy, and a smaller increase in the risk for breast cancer with estrogen-alone therapy, after several years of use.
-The risk increased with duration of use, and appeared to return to baseline over about 5 years after stopping treatment (only the observational studies have substantial data on risk after stopping).
+One large meta-analysis of prospective cohort studies reported increased risks that were dependent upon duration of use and could last up to >10 years after discontinuation of estrogen plus progestin therapy and estrogen-alone therapy.
+Extension of the WHI trials also demonstrated increased breast cancer risk associated with estrogen plus progestin therapy.
 Observational studies also suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to estrogen-alone therapy.
 These studies have not generally found significant variation in the risk of breast cancer among different estrogen plus progestin combinations, doses, or routes of administration.
 
@@ -105,15 +106,15 @@ The exact duration of hormone therapy use associated with an increased risk of o
 In the WHI Memory Study (WHIMS) estrogen-alone ancillary study, a population of 2,947 hysterectomized women 65 to 79 years of age was randomized to daily CE (0.625 mg)-alone or placebo.
 After an average follow-up of 5.2 years, 28 women in the estrogen-alone group and 19 women in the placebo group were diagnosed with probable dementia.
 The relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent CI, 0.83-2.66).
-The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women years8[see Use in Specific Populations (8.5) and Clinical Studies (14.3)].
+The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years8[see Use in Specific Populations (8.5) and Clinical Studies (14.3)].
 
 In the WHIMS estrogen plus progestin ancillary study, a population of 4,532 postmenopausal women 65 to 79 years of age was randomized to daily CE (0.625 mg) plus MPA (2.5 mg) or placebo.
 After an average follow-up of 4 years, 40 women in the CE plus MPA group and 21 women in the placebo group were diagnosed with probable dementia.
 The relative risk of probable dementia for CE plus MPA versus placebo was 2.05 (95 percent CI, 1.21-3.48).
-The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years8[see Use in Specific Populations (8.5), and Clinical Studies (14.3)].
+The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years8[see Use in Specific Populations (8.5) and Clinical Studies (14.3)].
 
 When data from the two populations in the WHIMS estrogen-alone and estrogen plus progestin ancillary studies were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19-2.60).
-Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women8[see Use in Specific Populations (8.5), and Clinical Studies (14.3)].
+Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women8[see Use in Specific Populations (8.5) and Clinical Studies (14.3)].
 
 ## 5.4 Unintentional Secondary Exposure to Estrogen
 
@@ -124,7 +125,7 @@ Unexpected changes in breast tissue or other signs of abnormal sexual developmen
 The physician should identify the cause of abnormal sexual development in the child.
 If unexpected breast development or changes are determined to be the result of unintentional exposure to Evamist, the physician should counsel the woman on the appropriate use and handling of Evamist when around children.
 Women should cover the Evamist application site with clothing if another person may come into contact with the site.
-Discontinue Evamist if conditions for safe use cannot be met [see Patient Counseling Information].
+Discontinue Evamist if conditions for safe use cannot be met [see Patient Counseling Information (17)].
 
 ## 5.5 Gallbladder Disease
 

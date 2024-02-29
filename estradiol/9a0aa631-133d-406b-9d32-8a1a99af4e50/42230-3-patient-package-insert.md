@@ -25,7 +25,7 @@ EVAMIST spray is used after menopause to:
   This drop in body estrogen levels causes the “change of life” or menopause (the end of monthly menstrual periods).
   Sometimes, both ovaries are removed during an operation before natural menopause takes place.
   The sudden drop in estrogen levels causes “surgical menopause.”
-- When estrogen levels begin dropping, some women get very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden intense feelings of heat and sweating (“hot flashes” or “hot flushes”).
+- When the estrogen levels begin dropping, some women get very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden intense feelings of heat and sweating (“hot flashes” or “hot flushes”).
   In some women, the symptoms are mild, and they will not need to use estrogens.
   In other women, symptoms can be more severe.
   You and your healthcare provider should talk regularly about whether you still need treatment with EVAMIST.
@@ -148,7 +148,7 @@ Common side effects of EVAMIST include:
 Tell your healthcare provider if you have any side effects that bother you or do not go away.
 These are not all the possible side effects of EVAMIST.
 Call your doctor for medical advice about side effects.
-You may also report side effects to Padagis at 1-866-634-9120 or to FDA at 1-800-FDA-1088.
+You may also report side effects to Padagis® at 1-866-634-9120 or to FDA at 1-800-FDA-1088.
 
 What can I do to lower my chances of a serious side effect with EVAMIST?
 
@@ -158,7 +158,7 @@ What can I do to lower my chances of a serious side effect with EVAMIST?
 - •See your healthcare provider right away if you get vaginal bleeding while using EVAMIST.
 - •Have a pelvic exam, breast exam, and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
 - •If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
-- •If you have high blood pressure, high cholesterol (fat in the blood), diabetes, weight, or if you use tobacco, you may have a higher chance of getting heart disease.
+- •If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have a higher chance of getting heart disease.
 
 Ask your healthcare provider for ways to lower your chances of getting heart disease.
 
@@ -179,7 +179,7 @@ It may harm them.
 
 You can ask your pharmacist or healthcare provider for information about EVAMIST that is written for health professionals.
 
-For more information, go to www.Evamist.com or call Padagis at 1-866-634-9120.
+For more information, go to www.Evamist.com or call Padagis® at 1-866-634-9120.
 
 What are the ingredients in EVAMIST?
 
