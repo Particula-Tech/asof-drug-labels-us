@@ -13,7 +13,7 @@ Consider the potential for food or drug interactions and adjust the administrati
 ## 5.2 Cardiac Adverse Reactions in the Elderly and in Patients with Underlying Cardiovascular Disease
 
 Over-treatment with levothyroxine may cause an increase in heart rate, cardiac wall thickness, and cardiac contractility and may precipitate angina or arrhythmias, particularly in patients with cardiovascular disease and in elderly patients.
-Initiate SYNTHROID therapy in this population at lower doses than those recommended in younger individuals or in patients without cardiac disease [see Dosage and Administration (2.3), Use in Specific Populations (8.5)].
+Initiate SYNTHROID therapy in this population at lower doses than those recommended in younger individuals or in patients without cardiac disease [see Dosage and Administration (2.3) and Use in Specific Populations (8.5)].
 
 Monitor for cardiac arrhythmias during surgical procedures in patients with coronary artery disease receiving suppressive SYNTHROID therapy.
 Monitor patients receiving concomitant SYNTHROID and sympathomimetic agents for signs and symptoms of coronary insufficiency.

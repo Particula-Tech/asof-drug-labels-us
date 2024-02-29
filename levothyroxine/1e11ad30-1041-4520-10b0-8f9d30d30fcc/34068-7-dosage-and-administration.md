@@ -6,7 +6,7 @@ Administer SYNTHROID as a single daily dose, on an empty stomach, one-half to on
 
 Administer SYNTHROID at least 4 hours before or after drugs known to interfere with SYNTHROID absorption [see Drug Interactions (7.1)].
 
-Evaluate the need for dosage adjustments when regularly administering within one hour of certain foods that may affect SYNTHROID absorption [see Dosage and Administration (2.2 and 2.3), Drug Interactions (7.9) and Clinical Pharmacology (12.3)].
+Evaluate the need for dosage adjustments when regularly administering within one hour of certain foods that may affect SYNTHROID absorption [see Dosage and Administration (2.2 and 2.3), Drug Interactions (7.9), and Clinical Pharmacology (12.3)].
 
 Administer SYNTHROID to pediatric patients who cannot swallow intact tablets by crushing the tablet, suspending the freshly crushed tablet in a small amount (5 to 10 mL) of water and immediately administering the suspension by spoon or dropper.
 Ensure the patient ingests the full amount of the suspension.
@@ -22,6 +22,9 @@ For adult patients with primary hypothyroidism, titrate until the patient is cli
 
 For secondary or tertiary hypothyroidism, serum TSH is not a reliable measure of SYNTHROID dosage adequacy and should not be used to monitor therapy.
 Use the serum free-T4 level to titrate SYNTHROID dosing until the patient is clinically euthyroid and the serum free-T4 level is restored to the upper half of the normal range [see Dosage and Administration (2.3)].
+
+Inquire whether patients are taking biotin or biotin-containing supplements.
+If so, advise them to stop biotin supplementation at least 2 days before assessing TSH and/or T4 levels [see Dosage and Administration (2.4) and Drug Interactions (7.10)].
 
 The peak therapeutic effect of a given dose of SYNTHROID may not be attained for 4 to 6 weeks.
 
@@ -95,6 +98,10 @@ The SYNTHROID dosage is based on the target level of TSH suppression for the sta
 ## 2.4 Monitoring TSH and/or Thyroxine (T4) Levels
 
 Assess the adequacy of therapy by periodic assessment of laboratory tests and clinical evaluation.
+
+Biotin supplementation may interfere with immunoassays for TSH, T4, and T3, resulting in erroneous thyroid hormone test results.
+Stop biotin and biotin-containing supplements for at least 2 days before assessing TSH and/or T4 levels [see Drug Interactions (7.10)].
+
 Persistent clinical and laboratory evidence of hypothyroidism despite an apparent adequate replacement dose of SYNTHROID may be evidence of inadequate absorption, poor compliance, drug interactions, or a combination of these factors.
 
 Adults

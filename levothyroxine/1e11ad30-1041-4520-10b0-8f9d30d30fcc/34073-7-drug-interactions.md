@@ -90,8 +90,15 @@ Grapefruit juice may delay the absorption of levothyroxine and reduce its bioava
 
 ## 7.10 Drug-Laboratory Test Interactions
 
+Thyroxine-binding Globulin (TBG)
+
 Consider changes in TBG concentration when interpreting T4 and T3 values.
 Measure and evaluate unbound (free) hormone and/or determine the free-T4 index (FT4I) in this circumstance.
 Pregnancy, infectious hepatitis, estrogens, estrogen-containing oral contraceptives, and acute intermittent porphyria increase TBG concentration.
 Nephrosis, severe hypoproteinemia, severe liver disease, acromegaly, androgens, and corticosteroids decrease TBG concentration.
 Familial hyper- or hypo-thyroxine binding globulinemias have been described, with the incidence of TBG deficiency approximating 1 in 9000.
+
+Biotin
+
+Biotin supplementation is known to interfere with thyroid hormone immunoassays that are based on a biotin and streptavidin interaction, which may result in erroneous thyroid hormone test results.
+Stop biotin and biotin-containing supplements for at least 2 days prior to thyroid testing.

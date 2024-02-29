@@ -17,6 +17,7 @@ Important Information
   Generally, replacement therapy is to be taken for life.
 - Inform patients that SYNTHROID should not be used as a primary or adjunctive therapy in a weight control program.
 - Instruct patients to notify their healthcare provider if they are taking any other medications, including prescription and over-the-counter preparations.
+- Instruct patients to discontinue biotin or any biotin-containing supplements for at least 2 days before thyroid function testing is conducted.
 - Instruct patients to notify their physician of any other medical conditions they may have, particularly heart disease, diabetes, clotting disorders, and adrenal or pituitary gland problems, as the dose of medications used to control these other conditions may need to be adjusted while they are taking SYNTHROID.
   If they have diabetes, instruct patients to monitor their blood and/or urinary glucose levels as directed by their physician and immediately report any changes to their physician.
   If patients are taking anticoagulants, their clotting status should be checked frequently.
@@ -27,10 +28,12 @@ Adverse Reactions
 - Instruct patients to notify their healthcare provider if they experience any of the following symptoms: rapid or irregular heartbeat, chest pain, shortness of breath, leg cramps, headache, nervousness, irritability, sleeplessness, tremors, change in appetite, weight gain or loss, vomiting, diarrhea, excessive sweating, heat intolerance, fever, changes in menstrual periods, hives or skin rash, or any other unusual medical event.
 - Inform patients that partial hair loss may occur rarely during the first few months of SYNTHROID therapy, but this is usually temporary.
 
-© 2022 AbbVie Inc.
+© 2024 AbbVie Inc. All rights reserved.
+
+SYNTHROID and its design are trademarks of AbbVie Inc.
 
 AbbVie Inc.
 
-North Chicago, IL 60064, U.S.A.
+North Chicago, IL 60064 U.S.A.
 
-20075189 October 2022
+20083657
