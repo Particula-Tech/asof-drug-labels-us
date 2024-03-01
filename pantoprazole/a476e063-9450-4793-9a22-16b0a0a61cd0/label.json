@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA217512"
+  ],
+  "inn": "pantoprazole",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "0338-9644-12",
+    "0338-9646-24",
+    "0338-9648-12"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "pantoprzaole sodium in 0.9% sodium cloride",
+      "name": "PANTOPRAZOLE SODIUM"
+    }
+  ],
+  "setid": "a476e063-9450-4793-9a22-16b0a0a61cd0",
+  "source": "dailymed"
+}
