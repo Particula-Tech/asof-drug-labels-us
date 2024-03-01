@@ -6,7 +6,7 @@ Administration of Nitisinone Capsules
 
 - Maintain dietary restriction of tyrosine and phenylalanine when taking nitisinone.
 - Capsules: Take at least one hour before, or two hours after a meal.
-  For patients who have difficulty swallowing the capsules, the capsules may be opened and the contents suspended in a small amount of water, formula or apple sauce immediately before use.
+  For patients who have difficulty swallowing the capsules, the capsules may be opened and the contents suspended in a small amount of water, formula or applesauce immediately before use.
 
 Elevated Plasma Tyrosine Levels, Ocular Symptoms, Developmental Delay and Hyperkeratotic Plaques
 

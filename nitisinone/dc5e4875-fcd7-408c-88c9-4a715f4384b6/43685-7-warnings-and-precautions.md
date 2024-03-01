@@ -10,12 +10,12 @@ Maintain plasma tyrosine levels below 500 micromol/L.
 Inadequate restriction of tyrosine and phenylalanine intake can lead to elevations in plasma tyrosine levels and levels greater than 500 micromol/L may lead to the following:
 
 - Ocular signs and symptoms including corneal ulcers, corneal opacities, keratitis, conjunctivitis, eye pain, and photophobia have been reported in patients treated with nitisinone [see Adverse Reactions (6.1)].
-  In a clinical study in a non HT-1 population without dietary restriction and reported tyrosine levels >500 micromol/l both symptomatic and asymptomatic keratopathies have been observed.
+  In a clinical study in a non HT-1 population without dietary restriction and reported tyrosine levels >500 micromol/L both symptomatic and asymptomatic keratopathies have been observed.
   Therefore, perform a baseline ophthalmologic examination including slit-lamp examination prior to initiating nitisinone treatment and regularly thereafter.
-  Patients who develop photophobia, eye pain, or signs of inflammation such as redness, swelling, or burning of the eyes or tyrosine levels are > 500 micromol/L during treatment with Nitisinone Capsules should undergo slit- lamp reexamination and immediate measurement of the plasma tyrosine concentration.
+  Patients who develop photophobia, eye pain, or signs of inflammation such as redness, swelling, or burning of the eyes or tyrosine levels are > 500 micromol/L during treatment with Nitisinone Capsules should undergo slit-lamp reexamination and immediate measurement of the plasma tyrosine concentration.
 - Variable degrees of intellectual disability and developmental delay.
   In patients treated with nitisinone who exhibit an abrupt change in neurologic status, perform a clinical laboratory assessment including plasma tyrosine levels.
-- Painful hyperkeratotic plaques on the soles and palms
+- Painful hyperkeratotic plaques on the soles and palms.
 
 In patients with HT-1 treated with dietary restrictions and nitisinone who develop elevated plasma tyrosine levels, assess dietary tyrosine and phenylalanine intake.
 

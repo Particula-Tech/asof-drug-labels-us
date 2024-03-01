@@ -5,7 +5,7 @@
 Nitisinone is a competitive inhibitor of 4-hydroxyphenyl-pyruvate dioxygenase, an enzyme upstream of fumarylacetoacetate hydrolase (FAH) in the tyrosine catabolic pathway.
 By inhibiting the normal catabolism of tyrosine in patients with HT-1, nitisinone prevents the accumulation of the catabolic intermediates maleylacetoacetate and fumarylacetoacetate.
 In patients with HT-1, these catabolic intermediates are converted to the toxic metabolites succinylacetone and succinylacetoacetate, which are responsible for the observed liver and kidney toxicity.
-Succinylacetone can also inhibit the porphyrin synthesis pathway leading to the accumulation of 5- aminolevulinate, a neurotoxin responsible for the porphyric crises characteristic of HT-1.
+Succinylacetone can also inhibit the porphyrin synthesis pathway leading to the accumulation of 5-aminolevulinate, a neurotoxin responsible for the porphyric crises characteristic of HT-1.
 
 ## 12.2. Pharmacodynamics
 
@@ -16,7 +16,7 @@ The probability of recurrence of abnormal values of urine succinylacetone was 1%
 In 87% (150/172) of patients whose plasma succinylacetone was measured, the plasma succinylacetone concentration decreased to less than 0.1 micromol/L, the lower limit of quantitation.
 The median time to normalization of plasma succinylacetone was 3.9 months.
 
-In another study, comparing two dosing regimens, succinylacetone was measured in urine and/or blood in 16 patients with HT-1 aged 5 years to 24 years.
+In another study comparing two dosing regimens, succinylacetone was measured in urine and/or blood in 16 patients with HT-1 aged 5 years to 24 years.
 All study patients were on a stable nitisinone daily dosage (0.4 mg/kg/day to 1 mg/kg/day) during both study dosing regimens.
 After at least 4 weeks of twice daily dosing with nitisinone, both the urine and/or blood succinylacetone concentrations were below the limit of quantitation for the assay.
 Patients were then switched to once daily dosing with the same total daily dosage of nitisinone and blood and/or urine succinylacetone concentrations remained undetectable when measured following at least 4 weeks of treatment with once daily dosing.
@@ -40,7 +40,7 @@ TABLE 3 Nitisinone Arithmetic Mean (CV%) Pharmacokinetic Parameters in Healthy S
 | --- | --- | --- | --- |
 | Nitisinone Capsule (n=12) | 10.5 (26) | 3.5 [0.8 to 8.0] | 406 (13) |
 
-TABLE 4 Nitisinone Arithmetic Mean (CV%) Pharmacokinetic Parameters in Healthy Subjects Following Repeated Once Daily Administration of 80 mg Nitisinone Under Fasting Conditions.
+TABLE 4 Nitisinone Arithmetic Mean (CV%) Pharmacokinetic Parameters in Healthy Subjects Following Repeated Once Daily Administration of 80 mg Nitisinone Under Fasting Conditions
 
 | Treatment | [CV%] | [range] | [range] | [range] |
 | --- | --- | --- | --- | --- |

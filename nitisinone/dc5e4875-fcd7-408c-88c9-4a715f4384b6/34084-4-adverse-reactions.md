@@ -16,8 +16,8 @@ Six patients had thrombocytopenia, three of which had platelet counts 30,000/mic
 In 4 patients with thrombocytopenia, platelet counts gradually returned to normal (duration up to 47 days) without change in nitisinone dose.
 No patients developed infections or bleeding as a result of the episodes of leukopenia and thrombocytopenia.
 
-Patients with HT- 1 are at increased risk of developing porphyric crises, hepatic neoplasms, and liver failure requiring liver transplantation.
-These complications of HT- 1 were observed in patients treated with nitisinone for a median of 22 months during the clinical trial (liver transplantation 13%, liver failure 7%, malignant hepatic neoplasms 5%, benign hepatic neoplasms 3%, porphyria 1%).
+Patients with HT-1 are at increased risk of developing porphyric crises, hepatic neoplasms, and liver failure requiring liver transplantation.
+These complications of HT-1 were observed in patients treated with nitisinone for a median of 22 months during the clinical trial (liver transplantation 13%, liver failure 7%, malignant hepatic neoplasms 5%, benign hepatic neoplasms 3%, porphyria 1%).
 
 The most common adverse reactions reported in the clinical trial are summarized in Table 1.
 

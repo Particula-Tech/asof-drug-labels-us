@@ -6,4 +6,4 @@ After a washout period of 14 days, the mean value of plasma tyrosine was still 8
 Fasted follow-up samples obtained from volunteers several weeks later showed tyrosine values back to normal.
 There were no reports of changes in vital signs or laboratory data of any clinical significance.
 One patient reported sensitivity to sunlight.
-Hyper- tyrosinemia has been reported with nitisinone treatment [see Warnings and Precautions (5.1)].
+Hyper-tyrosinemia has been reported with nitisinone treatment [see Warnings and Precautions (5.1)].
