@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "BLA761358"
+  ],
+  "inn": "infliximab",
+  "labeler": "CELLTRION USA Inc.",
+  "package_ndcs": [
+    "72606-025-01",
+    "72606-025-02",
+    "72606-025-03",
+    "72606-025-04",
+    "72606-025-05",
+    "72606-025-06",
+    "72606-025-08",
+    "72606-025-09",
+    "72606-025-10",
+    "72606-025-11",
+    "72606-025-12",
+    "72606-047-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "infliximab-dyyb",
+      "name": "ZYMFENTRA"
+    }
+  ],
+  "setid": "93a193ab-9f96-4da6-aa7c-31212e81879a",
+  "source": "dailymed"
+}
