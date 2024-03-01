@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 Advise the patients and caregivers to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
@@ -46,6 +46,6 @@ Distributed and Marketed by: Pharmacyclics LLC South San Francisco, CA 94080 USA
 
 Patent http://www.imbruvica.com IMBRUVICA® is a registered trademark owned by Pharmacyclics LLC
 
-© Pharmacyclics LLC 2023 © Janssen Biotech, Inc. 2023
+© Pharmacyclics LLC 2024 © Janssen Biotech, Inc. 2024
 
-20076427
+20080492

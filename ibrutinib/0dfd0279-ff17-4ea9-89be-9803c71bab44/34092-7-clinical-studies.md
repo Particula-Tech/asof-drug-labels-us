@@ -1,6 +1,6 @@
-# 14 CLINICAL STUDIES
+# 14CLINICAL STUDIES
 
-## 14.1 Chronic Lymphocytic Leukemia / Small Lymphocytic Lymphoma
+## 14.1Chronic Lymphocytic Leukemia / Small Lymphocytic Lymphoma
 
 The safety and efficacy of IMBRUVICA in patients with CLL/SLL were demonstrated in one uncontrolled trial and five randomized, controlled trials.
 
@@ -337,7 +337,7 @@ Median overall survival was not reached for either treatment arm.
 With an overall follow-up of 63 months, 9 (12%) patients on IMBRUVICA + R and 10 (13.3%) patients on placebo + R had died.
 Forty-seven percent of patients randomized to the placebo + R arm crossed over to receive IMBRUVICA.
 
-## 14.3 Chronic Graft versus Host Disease
+## 14.3Chronic Graft versus Host Disease
 
 Study 1129
 

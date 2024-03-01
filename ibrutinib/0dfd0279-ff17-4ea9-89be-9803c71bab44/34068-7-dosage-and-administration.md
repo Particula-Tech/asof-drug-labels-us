@@ -1,4 +1,4 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2DOSAGE AND ADMINISTRATION
 
 ## 2.1 Recommended Dosage
 
@@ -28,8 +28,8 @@ Table 1: Recommended dosage based on body surface area (BSA) for patients 1 to l
 | > 0.6 to 0.7 | - | 2.2 mL |
 | > 0.7 to 0.8 | 210 mg | 2.6 mL |
 | > 0.8 to 0.9 | 210 mg | 2.9 mL |
-| > 0.9 to 1.0 | 210 mg | 3.3 mL |
-| > 1.0 to 1.1 | 280 mg | 3.6 mL |
+| > 0.9 to 1 | 210 mg | 3.3 mL |
+| > 1 to 1.1 | 280 mg | 3.6 mL |
 | > 1.1 to 1.2 | 280 mg | 4 mL |
 | > 1.2 to 1.3 | 280 mg | 4.3 mL |
 | > 1.3 to 1.4 | 350 mg | 4.6 mL |
@@ -90,8 +90,8 @@ Table 3: Recommended dosage modifications based on BSA using either IMBRUVICA ca
 | > 0.6 to 0.7 | - | 1.5 mL | - | 0.7 mL |
 | > 0.7 to 0.8 | 140 mg | 1.7 mL | 70 mg | 0.9 mL |
 | > 0.8 to 0.9 | 140 mg | 1.9 mL | 70 mg | 1 mL |
-| > 0.9 to 1.0 | 140 mg | 2.2 mL | 70 mg | 1.1 mL |
-| > 1.0 to 1.1 | 140 mg | 2.4 mL | 70 mg | 1.2 mL |
+| > 0.9 to 1 | 140 mg | 2.2 mL | 70 mg | 1.1 mL |
+| > 1 to 1.1 | 140 mg | 2.4 mL | 70 mg | 1.2 mL |
 | > 1.1 to 1.2 | 210 mg | 2.6 mL | - | 1.3 mL |
 | > 1.2 to 1.3 | 210 mg | 2.9 mL | - | 1.4 mL |
 | > 1.3 to 1.4 | 210 mg | 3.1 mL | - | 1.5 mL |

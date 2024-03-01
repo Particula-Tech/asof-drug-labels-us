@@ -1,4 +1,4 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5WARNINGS AND PRECAUTIONS
 
 ## 5.1 Hemorrhage
 
@@ -24,7 +24,7 @@ Cases of progressive multifocal leukoencephalopathy (PML) and Pneumocystis jirov
 Consider prophylaxis according to standard of care in patients who are at increased risk for opportunistic infections.
 Monitor and evaluate patients for fever and infections and treat appropriately.
 
-## 5.3 Cardiac Arrhythmias, Cardiac Failure, and Sudden Death
+## 5.3Cardiac Arrhythmias, Cardiac Failure, and Sudden Death
 
 Fatal and serious cardiac arrhythmias and cardiac failure have occurred with IMBRUVICA.
 Deaths due to cardiac causes or sudden deaths occurred in 1% of 4,896 patients who received IMBRUVICA in clinical trials, including in patients who received IMBRUVICA in unapproved monotherapy or combination regimens.
@@ -38,7 +38,7 @@ Evaluate cardiac history and function at baseline, and monitor patients for card
 Obtain further evaluation (e.g., ECG, echocardiogram) as indicated for patients who develop symptoms of arrhythmia (e.g., palpitations, lightheadedness, syncope, chest pain), new onset dyspnea, or other cardiovascular concerns.
 Manage cardiac arrhythmias and cardiac failure appropriately, follow dose modification guidelines [see Dosage and Administration (2.2)], and consider the risks and benefits of continued IMBRUVICA treatment.
 
-## 5.4 Hypertension
+## 5.4Hypertension
 
 Hypertension occurred in 19% of 1,476 patients with B-cell malignancies who received IMBRUVICA in clinical trials.
 Grade 3 or greater hypertension occurred in 8% of patients [see Adverse Reactions (6.1)].
@@ -48,7 +48,7 @@ The prevalence for Grade 3 or greater hypertension was 4% (year 0-1), 7% (year 1
 
 Monitor blood pressure in patients treated with IMBRUVICA, initiate or adjust anti-hypertensive medication throughout treatment with IMBRUVICA as appropriate, and follow dosage modification guidelines for Grade 3 or higher hypertension [see Dosage and Administration (2.2)].
 
-## 5.5 Cytopenias
+## 5.5Cytopenias
 
 In 645 patients with B-cell malignancies who received IMBRUVICA as a single agent, grade 3 or 4 neutropenia occurred in 23% of patients, grade 3 or 4 thrombocytopenia in 8% and grade 3 or 4 anemia in 2.8%, based on laboratory measurements [see Adverse Reactions (6.1)].
 

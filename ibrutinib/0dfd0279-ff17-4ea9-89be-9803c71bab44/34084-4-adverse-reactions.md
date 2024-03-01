@@ -1,4 +1,4 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
@@ -132,9 +132,9 @@ The median exposure to chlorambucil was 7.1 months in RESONATE-2.
 
 Table 9: Adverse Reactions Reported in ≥ 10% of Patients in the IMBRUVICA Treated Arm in Patients with CLL/SLL in RESONATE-2
 
-|  | IMBRUVICA (N=135) |  | Chlorambucil (N=132) |  |
+| Body System Adverse Reaction | IMBRUVICA (N=135) |  | Chlorambucil (N=132) |  |
 | --- | --- | --- | --- | --- |
-| Body System Adverse Reaction | All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |
+|  | All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |
 | Gastrointestinal disorders |  |  |  |  |
 | Diarrhea | 42 | 4 | 17 | 0 |
 | Nausea | 22 | 1 | 39 | 1 |
@@ -198,9 +198,9 @@ Adverse reactions described below in Table 11 reflect exposure to IMBRUVICA + BR
 
 Table 11: Adverse Reactions Reported in ≥ 10% of Patients and ≥ 2% Greater in the IMBRUVICA Arm in Patients with CLL/SLL in HELIOS
 
-|  | IMBRUVICA + BR (N=287) |  | Placebo + BR (N=287) |  |
+| Body System Adverse Reaction | IMBRUVICA + BR (N=287) |  | Placebo + BR (N=287) |  |
 | --- | --- | --- | --- | --- |
-| Body System Adverse Reaction | All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |
+|  | All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |
 | Blood and lymphatic system disorders |  |  |  |  |
 | Neutropenia* | 66 | 61 | 60 | 56† |
 | Thrombocytopenia* | 34 | 16 | 26 | 16 |
