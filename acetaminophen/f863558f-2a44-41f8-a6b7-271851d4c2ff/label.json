@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA209471"
+  ],
+  "inn": "acetaminophen",
+  "labeler": "AFT Pharmaceuticals Ltd",
+  "package_ndcs": [
+    "72260-129-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "acetaminophen and ibuprofen",
+      "name": "Combogesic"
+    }
+  ],
+  "setid": "f863558f-2a44-41f8-a6b7-271851d4c2ff",
+  "source": "dailymed"
+}
