@@ -26,9 +26,9 @@ Recommended Dosage Adjustments During Neutrophil Recovery in Patients with Cance
 
 | Absolute Neutrophil Count | NIVESTYM Dosage Adjustment |
 | --- | --- |
-| When ANC greater than 1000/mm3 for 3 consecutive days | Reduce to 5 mcg/kg/dayIf ANC decreases to less than 1000/mm3 at any time during the 5 mcg/kg/day administration‚ increase NIVESTYM to 10 mcg/kg/day‚ and then follow the above steps. |
-| Then, if ANC remains greater than 1000/mm3 for 3 more consecutive days | Discontinue NIVESTYM |
-| Then, if ANC decreases to less than 1000/mm3 | Resume at 5 mcg/kg/day |
+| When ANC greater than 1,000/mm3 for 3 consecutive days | Reduce to 5 mcg/kg/dayIf ANC decreases to less than 1,000/mm3 at any time during the 5 mcg/kg/day administration‚ increase NIVESTYM to 10 mcg/kg/day‚ and then follow the above steps. |
+| Then, if ANC remains greater than 1,000/mm3 for 3 more consecutive days | Discontinue NIVESTYM |
+| Then, if ANC decreases to less than 1,000/mm3 | Resume at 5 mcg/kg/day |
 
 ## 2.3 Dosage in Patients Undergoing Autologous Peripheral Blood Progenitor Cell Collection and Therapy
 
@@ -70,7 +70,8 @@ Thus, the direct administration to patients requiring doses of less than 0.3 mL 
 For direct administration of doses less than 0.3 mL (180 mcg) use NIVESTYM single-dose vial.
 
 NIVESTYM is supplied in single-dose vials (for subcutaneous use or intravenous infusion) and single-dose prefilled syringes (for subcutaneous use) [see Dosage Forms and Strengths (3)].
-Prior to use‚ remove the vial or prefilled syringe from the refrigerator and allow NIVESTYM to reach room temperature for a minimum of 30 minutes and a maximum of 24 hours.
+Prior to use‚ remove the vial or prefilled syringe from the refrigerator and allow NIVESTYM to reach room temperature for a minimum of 30 minutes.
+If not used immediately, the vial or prefilled syringe may be stored at room temperature [between 20°C to 25°C (68°F to 77°F)] for up to 24 hours.
 Discard any vial or prefilled syringe left at room temperature for greater than 24 hours.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit (the solution is clear and colorless).
 Do not administer NIVESTYM if particulates or discoloration are observed.

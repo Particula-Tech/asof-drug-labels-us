@@ -54,8 +54,8 @@ The pharmacokinetics of filgrastim in pediatric patients after chemotherapy were
 In this population‚ filgrastim was well-tolerated.
 There was one report of palpable splenomegaly and one report of hepatosplenomegaly associated with filgrastim therapy; however‚ the only consistently reported adverse event was musculoskeletal pain‚ which is no different from the experience in the adult population.
 
-The safety and effectiveness of filgrastim have been established in pediatric patients with SCN [see Clinical Studies (14.5)].
-In a phase 3 study (Study 7) to assess the safety and efficacy of filgrastim in the treatment of SCN, 123 patients with a median age of 12 years (range 7 months to 76 years) were studied.
+The safety and effectiveness of NIVESTYM have been established in pediatric patients with SCN [see Clinical Studies (14.5)].
+Use of NIVESTYM for this indication is supported by NIVESTYM’s approval as a biosimilar to filgrastim and evidence from a phase 3 study (Study 7) to assess the safety and efficacy of filgrastim in the treatment of SCN where 123 patients with a median age of 12 years (range 7 months to 76 years) were studied.
 Of the 123 patients, 12 were infants (7 months to 2 years of age), 49 were children (2 to 12 years of age), and 9 were adolescents (12 to 16 years of age).
 Additional information is available from a SCN postmarketing surveillance study, which includes long-term follow-up of patients in the clinical studies and information from additional patients who entered directly into the postmarketing surveillance study.
 Of the 731 patients in the surveillance study, 429 were pediatric patients < 18 years of age (range 0.9 to 17) [see Indications and Usage (1.5), Dosage and Administration (2.5), and Clinical Studies (14.5)].

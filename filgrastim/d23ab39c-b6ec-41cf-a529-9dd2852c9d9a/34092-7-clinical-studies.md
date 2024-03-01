@@ -11,7 +11,7 @@ A total of 210 patients were evaluable for efficacy and 207 were evaluable for s
 The demographic and disease characteristics were balanced between arms with a median age of 62 (range 31 to 80) years; 64% males; 89% Caucasian; 72% extensive disease and 28% limited disease.
 
 The main efficacy endpoint was the incidence of febrile neutropenia.
-Febrile neutropenia was defined as an ANC < 1000/mm3 and temperature > 38.2°C.
+Febrile neutropenia was defined as an ANC < 1,000/mm3 and temperature > 38.2°C.
 Treatment with filgrastim resulted in a clinically and statistically significant reduction in the incidence of infection‚ as manifested by febrile neutropenia, 40% for filgrastim-treated patients and 76% for placebo-treated patients (p < 0.001).
 There were also statistically significant reductions in the incidence and overall duration of infection manifested by febrile neutropenia; the incidence, severity and duration of severe neutropenia (ANC < 500/mm3); the incidence and overall duration of hospital admissions; and the number of reported days of antibiotic use.
 
@@ -20,7 +20,7 @@ There were also statistically significant reductions in the incidence and overal
 The safety and efficacy of filgrastim to reduce the time to neutrophil recovery and the duration of fever, following induction or consolidation chemotherapy treatment of patients with acute myeloid leukemia (AML) was established in a randomized, double-blind‚ placebo-controlled‚ multi-center trial in patients with newly diagnosed, de novo AML (Study 4).
 
 In Study 4 the initial induction therapy consisted of intravenous daunorubicin days 1, 2, and 3; cytosine arabinoside days 1 to 7; and etoposide days 1 to 5.
-Patients were randomized to receive subcutaneous filgrastim (n = 259) at a dose of 5 mcg/kg/day or placebo (n = 262) from 24 hours after the last dose of chemotherapy until neutrophil recovery (ANC ≥ 1000/mm3 for 3 consecutive days or ≥ 10,000/mm3 for 1 day) or for a maximum of 35 days.
+Patients were randomized to receive subcutaneous filgrastim (n = 259) at a dose of 5 mcg/kg/day or placebo (n = 262) from 24 hours after the last dose of chemotherapy until neutrophil recovery (ANC ≥ 1,000/mm3 for 3 consecutive days or ≥ 10,000/mm3 for 1 day) or for a maximum of 35 days.
 The demographic and disease characteristics were balanced between arms with a median age of 54 (range 16 to 89) years; 54% males; initial white blood cell count (65% < 25,000/mm3 and 27% > 100,000/mm3); 29% unfavorable cytogenetics.
 
 The main efficacy endpoint was median duration of severe neutropenia defined as neutrophil count < 500/mm3.
@@ -95,8 +95,8 @@ The dose was increased incrementally to 12 mcg/kg/day divided 2 times per day if
 The main efficacy endpoint was response to filgrastim treatment.
 ANC response from baseline (< 500/mm3) was defined as follows:
 
-- •Complete response: median ANC > 1500/mm3
-- •Partial response: median ANC ≥ 500/mm3 and ≤ 1500/mm3 with a minimum increase of 100%
+- •Complete response: median ANC > 1,500/mm3
+- •Partial response: median ANC ≥ 500/mm3 and ≤ 1,500/mm3 with a minimum increase of 100%
 - •No response: median ANC < 500/mm3
 
 There were 112 of 123 patients who demonstrated a complete or partial response to filgrastim treatment.

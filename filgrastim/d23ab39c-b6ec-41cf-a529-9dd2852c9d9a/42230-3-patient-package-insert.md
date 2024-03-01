@@ -9,4 +9,5 @@
 | General information about the safe and effective use of NIVESTYM.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use NIVESTYM for a condition for which it was not prescribed. Do not give NIVESTYM to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about NIVESTYM that is written for healthcare professionals. |  |
 | What are the ingredients in NIVESTYM?Active ingredient: (filgrastim-aafi)Inactive ingredients: acetate, polysorbate 80, sodium, sorbitol, and water for Injection |  |
 | Manufactured by Hospira, Inc., a Pfizer Company, Lake Forest, IL 60045 USA US License No. 1974Distributed by Pfizer Labs, division of Pfizer Inc., New York, NY 10001 USALAB-0935-5.0 For more information go to www.pfizer.com or call 1-800-438-1985. |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration | Revised: March 2023 |
+
+This Patient Information has been approved by the U.S. Food and Drug Administration Revised: March 2023
