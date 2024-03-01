@@ -3,15 +3,17 @@
 The following serious adverse reactions are described here and elsewhere in the label:
 
 - Adrenal Crisis [see Warnings and Precautions (5.1)]
-- Infections [see Warnings and Precautions (5.2)]
+- Immunosuppression and Increased Risk of Infection with Use of a Dosage Greater Than Replacement [see Warnings and Precautions (5.2)]
 - Growth Retardation [see Warnings and Precautions (5.3)]
-- Cushing’s Syndrome Due to Use of Excessive Doses of Corticosteroids [see Warnings and Precautions (5.4)]
+- Cushing's Syndrome Due to Use of Excessive Doses of Corticosteroids [see Warnings and Precautions (5.4)]
 - Decrease in Bone Mineral Density [see Warnings and Precautions (5.5)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
 - Ophthalmic Adverse Reactions [see Warnings and Precautions (5.7)]
 - Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.8)]
+- Risk of Kaposi's Sarcoma with Use of Dosage Greater Than Replacement [see Warnings and Precautions (5.9)]
+- Vaccinations [see Warnings and Precautions (5.10)]
 
-6.1 Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -21,9 +23,10 @@ All patients received at least one dose of ALKINDI SPRINKLE.
 The age ranged from 36 days to 5.7 years at start of treatment; 8 patients were female and 10 were male; 100% were White.
 Adverse reactions that were reported in two or more patients (≥ 11%) are shown in Table 1.
 
-Table 1 Adverse Reactions Occurring in >11% of Pediatric Patients with Adrenocortical Insufficiency Treated with ALKINDI SPRINKLE for up to 29 Months
+Table 1.
+Adverse Reactions Occurring in ≥11% of Pediatric Patients with Adrenocortical Insufficiency Treated with ALKINDI SPRINKLE for up to 29 Months
 
-| Adverse Reactions | N=18 (%) |
+| Adverse Reactions | N=18 n (%) |
 | --- | --- |
 | Pyrexia | 10 (56) |
 | Gastroenteritis | 9 (50) |
@@ -42,7 +45,7 @@ Table 1 Adverse Reactions Occurring in >11% of Pediatric Patients with Adrenocor
 | Respiratory tract infection | 2 (11) |
 | Rhinitis | 2 (11) |
 
-6.2 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions seen in pediatric and adult patients associated with the use of corticosteroids were identified in the literature and from postmarketing reports.
 Because some of these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

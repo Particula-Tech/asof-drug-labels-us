@@ -1,6 +1,7 @@
 # 7 DRUG INTERACTIONS
 
-Table 2 Drug Interactions with ALKINDI SPRINKLE
+Table 2.
+Drug Interactions with ALKINDI SPRINKLE
 
 | CYP3A4 Inhibitors |  |
 | --- | --- |
