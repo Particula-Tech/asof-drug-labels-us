@@ -2,7 +2,9 @@ PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Vial Label
 
 NOT FOR LOCK FLUSH
 
-NDC 25021-400-01 Rx only
+NDC 25021-400-01
+
+Rx only
 
 HEPARIN Sodium Injection, USP
 
@@ -14,7 +16,9 @@ PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Vial Label
 
 NOT FOR LOCK FLUSH
 
-NDC 25021-402-01 Rx only
+NDC 25021-402-01
+
+Rx only
 
 HEPARIN Sodium Injection, USP
 
@@ -26,10 +30,76 @@ PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Vial Label
 
 NOT FOR LOCK FLUSH
 
-NDC 25021-403-01 Rx only
+NDC 25021-403-01
+
+Rx only
 
 HEPARIN Sodium Injection, USP
 
 10,000 USP units per mL
 
 1 mL Vial
+
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Vial Label
+
+NOT FOR LOCK FLUSH
+
+NDC 25021-400-10
+
+Rx only
+
+HEPARIN Sodium Injection, USP
+
+10,000 USP units per 10 mL
+
+1,000 USP units per mL
+
+10 mL Multi-Dose Vial
+
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Vial Label
+
+NOT FOR LOCK FLUSH
+
+NDC 25021-400-30
+
+Rx only
+
+HEPARIN Sodium Injection, USP
+
+30,000 USP units per 30 mL
+
+1,000 USP units per mL
+
+30 mL Multi-Dose Vial
+
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Vial Label
+
+NOT FOR LOCK FLUSH
+
+NDC 25021-402-10
+
+Rx only
+
+HEPARIN Sodium Injection, USP
+
+50,000 USP units per 10 mL
+
+5,000 USP units per mL
+
+10 mL Multi-Dose Vial
+
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Vial Label
+
+NOT FOR LOCK FLUSH
+
+NDC 25021-403-04
+
+Rx only
+
+HEPARIN Sodium Injection, USP
+
+40,000 USP units per 40 mL
+
+10,000 USP units per mL
+
+4 mL Multi-Dose Vial
