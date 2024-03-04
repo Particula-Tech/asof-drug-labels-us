@@ -6,7 +6,7 @@ Risk Summary
 
 Based on findings from animal studies and its mechanism of action, fulvestrant injection can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
 There are no available data in pregnant women to inform the drug-associated risk.
-In animal reproduction studies, administration of fulvestrant to pregnant rats and rabbits during organogenesis caused embryo-fetal toxicity, including skeletal malformations and fetal loss, at daily doses that were 6% and 30% of the maximum recommended human dose based on mg/m2, respectively [see Data].
+In animal reproduction studies, administration of fulvestrant to pregnant rats and rabbits during organogenesis caused embryo-fetal toxicity, including skeletal malformations and fetal loss, at daily doses that were 6% and 30% of the maximum recommended human dose based on mg/m 2, respectively [see Data].
 Advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -16,14 +16,14 @@ Data
 
 Animal Data
 
-Administration of fulvestrant to rats prior to and up to implantation caused embryonic loss at daily doses that were 0.6% of the daily maximum recommended human dose based on mg/m2.
-When fulvestrant was administered to pregnant rats during the period of organogenesis, intramuscular doses ≥0.1 mg/kg/day (6% of the human recommended dose based on mg/m2) caused effects on embryo-fetal development consistent with its antiestrogenic activity.
-Fulvestrant caused an increased incidence of fetal abnormalities in rats (tarsal flexure of the hind paw at 2 mg/kg/day; equivalent to the human dose based on mg/m2) and non-ossification of the odontoid and ventral tubercle of the first cervical vertebra at doses ≥0.1 mg/kg/day.
+Administration of fulvestrant to rats prior to and up to implantation caused embryonic loss at daily doses that were 0.6% of the daily maximum recommended human dose based on mg/m 2.
+When fulvestrant was administered to pregnant rats during the period of organogenesis, intramuscular doses ≥0.1 mg/kg/day (6% of the human recommended dose based on mg/m 2) caused effects on embryo-fetal development consistent with its antiestrogenic activity.
+Fulvestrant caused an increased incidence of fetal abnormalities in rats (tarsal flexure of the hind paw at 2 mg/kg/day; equivalent to the human dose based on mg/m 2) and non-ossification of the odontoid and ventral tubercle of the first cervical vertebra at doses ≥0.1 mg/kg/day.
 Fulvestrant administered at 2 mg/kg/day caused fetal loss.
 
-When administered to pregnant rabbits during the period of organogenesis, fulvestrant caused pregnancy loss at an intramuscular dose of 1 mg/kg/day (equivalent to the human dose based on mg/m2).
-Further, at 0.25 mg/kg/day (30% the human dose based on mg/m2), fulvestrant caused increases in placental weight and post-implantation loss in rabbits.
-Fulvestrant was associated with an increased incidence of fetal variations in rabbits (backwards displacement of the pelvic girdle, and 27 pre-sacral vertebrae at 0.25 mg/kg/day; 30% the human dose based on mg/m2) when administered during the period of organogenesis.
+When administered to pregnant rabbits during the period of organogenesis, fulvestrant caused pregnancy loss at an intramuscular dose of 1 mg/kg/day (equivalent to the human dose based on mg/m 2).
+Further, at 0.25 mg/kg/day (30% the human dose based on mg/m 2), fulvestrant caused increases in placental weight and post-implantation loss in rabbits.
+Fulvestrant was associated with an increased incidence of fetal variations in rabbits (backwards displacement of the pelvic girdle, and 27 pre-sacral vertebrae at 0.25 mg/kg/day; 30% the human dose based on mg/m 2) when administered during the period of organogenesis.
 
 ## 8.2 Lactation
 
@@ -37,7 +37,7 @@ Data
 
 Levels of fulvestrant were approximately 12-fold higher in milk than in plasma after exposure of lactating rats to a dose of 2 mg/kg.
 Drug exposure in rodent pups from fulvestrant-treated lactating dams was estimated as 10% of the administered dose.
-In a study in rats of fulvestrant at 10 mg/kg given twice or 15 mg/kg given once (less than the recommended human dose based on mg/m2) during lactation, offspring survival was slightly reduced.
+In a study in rats of fulvestrant at 10 mg/kg given twice or 15 mg/kg given once (less than the recommended human dose based on mg/m 2) during lactation, offspring survival was slightly reduced.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -86,7 +86,7 @@ The pharmacokinetics of fulvestrant was characterized using a population pharmac
 Pharmacokinetic data from 294 postmenopausal women with breast cancer who received 125 or 250 mg monthly dosing regimen were also included in the analysis.
 
 In these pediatric patients receiving 4 mg/kg monthly intramuscular dose of fulvestrant, the geometric mean (SD) CL/F was 444 (165) mL/min which was 32% lower than adults.
-The geometric mean (SD) steady state trough concentration (Cmin,ss) and AUCss was 4.19 (0.87) ng/mL and 3680 (1020) ng*hr/mL, respectively.
+The geometric mean (SD) steady state trough concentration (C min,ss) and AUC sswas 4.19 (0.87) ng/mL and 3680 (1020) ng*hr/mL, respectively.
 
 ## 8.5 Geriatric Use
 

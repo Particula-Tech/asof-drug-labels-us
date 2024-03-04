@@ -25,7 +25,7 @@ It is not known if fulvestrant injection is safe and effective in people with se
 
 Who should not receive fulvestrant injection?
 
-Do not receive fulvestrant injection if you have had an allergic reaction to fulvestrant or any of the ingredients in fulvestrant injection.
+Do not receive fulvestrant injection if youhave had an allergic reaction to fulvestrant or any of the ingredients in fulvestrant injection.
 See the end of this leaflet for a list of the ingredients in fulvestrant injection.
 
 Symptoms of an allergic reaction to fulvestrant injection may include:
@@ -51,9 +51,9 @@ Before receiving fulvestrant injection, tell your healthcare provider about all 
   Do not breastfeed during your treatment with fulvestrant injection and for one year after the final dose of fulvestrant injection.
   Talk to your healthcare provider about the best way to feed your baby during this time.
 
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, includingprescription and over-the-counter medicines, vitamins, and herbal supplements.
 Fulvestrant injection may affect the way other medicines work, and other medicines may affect how fulvestrant injection works.
-Especially tell your healthcare provider if you take a blood thinner medicine.
+Especially tell your healthcare providerif you take a blood thinner medicine.
 
 How will I receive fulvestrant injection?
 
@@ -63,15 +63,14 @@ How will I receive fulvestrant injection?
 What are the possible side effects of fulvestrant injection?
 Fulvestrant injection may cause serious side effects, including:
 
-- Injection site related nerve damage.
-  Call your healthcare provider if you develop any of the following symptoms in your legs following a fulvestrant injection:
+- Injection site related nerve damage.Call your healthcare provider if you develop any of the following symptoms in your legs following a fulvestrant injection:
   - numbness
   - tingling
   - weakness
 
 The most common side effects of fulvestrant injection include:
 
-| injection site pain nausea muscle, joint, and bone pain headache back pain tiredness pain in arms, hands, legs, or feet hot flashes | vomiting loss of appetite weakness cough shortness of breath constipation increased liver enzymes diarrhea |
+| injection site painnauseamuscle, joint, and bone painheadacheback paintirednesspain in arms, hands, legs, or feethot flashes | vomitingloss of appetiteweaknesscoughshortness of breathconstipationincreased liver enzymesdiarrhea |
 | --- | --- |
 
 Fulvestrant injection may cause fertility problems in males and females.
@@ -93,9 +92,9 @@ You can ask your pharmacist or healthcare provider for information about fulvest
 
 What are the ingredients in fulvestrant injection?
 
-Active ingredient: fulvestrant.
+Active ingredient:fulvestrant.
 
-Inactive ingredients: alcohol, benzyl alcohol, benzyl benzoate, and castor oil.
+Inactive ingredients:alcohol, benzyl alcohol, benzyl benzoate, and castor oil.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 

@@ -5,12 +5,12 @@
 Many breast cancers have estrogen receptors (ER) and the growth of these tumors can be stimulated by estrogen.
 Fulvestrant is an estrogen receptor antagonist that binds to the estrogen receptor in a competitive manner with affinity comparable to that of estradiol and downregulates the ER protein in human breast cancer cells.
 
-In vitro studies demonstrated that fulvestrant is a reversible inhibitor of the growth of tamoxifen-resistant, as well as estrogen-sensitive human breast cancer (MCF-7) cell lines.
-In in vivo tumor studies, fulvestrant delayed the establishment of tumors from xenografts of human breast cancer MCF-7 cells in nude mice.
+In vitrostudies demonstrated that fulvestrant is a reversible inhibitor of the growth of tamoxifen-resistant, as well as estrogen-sensitive human breast cancer (MCF-7) cell lines.
+In in vivotumor studies, fulvestrant delayed the establishment of tumors from xenografts of human breast cancer MCF-7 cells in nude mice.
 Fulvestrant inhibited the growth of established MCF-7 xenografts and of tamoxifen-resistant breast tumor xenografts.
 
-Fulvestrant showed no agonist-type effects in in vivo uterotrophic assays in immature or ovariectomized mice and rats.
-In in vivo studies in immature rats and ovariectomized monkeys, fulvestrant blocked the uterotrophic action of estradiol.
+Fulvestrant showed no agonist-type effects in in vivouterotrophic assays in immature or ovariectomized mice and rats.
+In in vivostudies in immature rats and ovariectomized monkeys, fulvestrant blocked the uterotrophic action of estradiol.
 In postmenopausal women, the absence of changes in plasma concentrations of FSH and LH in response to fulvestrant treatment (250 mg monthly) suggests no peripheral steroidal effects.
 
 ## 12.2 Pharmacodynamics
@@ -30,10 +30,10 @@ Table 11: Summary of Fulvestrant Pharmacokinetic Parameters [gMean (CV%)] in Pos
 
 |  |  | Cmax (ng/mL) | Cmin (ng/mL) | AUC (ng.hr/mL) |
 | --- | --- | --- | --- | --- |
-| 500 mg + AD1 | Single dose | 25.1 (35.3) | 16.3 (25.9) | 11400 (33.4) |
-| Multiple dose steady state2 | 28.0 (27.9) | 12.2 (21.7) | 13100 (23.4) |  |
-| 1. Additional 500 mg dose given on Day 15 |  |  |  |  |
-| 2. Month 3 |  |  |  |  |
+| 500 mg + AD 1 | Single dose | 25.1 (35.3) | 16.3 (25.9) | 11400 (33.4) |
+| Multiple dose steady state 2 | 28.0 (27.9) | 12.2 (21.7) | 13100 (23.4) |  |
+| 1.Additional 500 mg dose given on Day 15 |  |  |  |  |
+| 2.Month 3 |  |  |  |  |
 
 Distribution
 
@@ -48,7 +48,7 @@ Biotransformation and disposition of fulvestrant in humans have been determined 
 Metabolism of fulvestrant appears to involve combinations of a number of possible biotransformation pathways analogous to those of endogenous steroids, including oxidation, aromatic hydroxylation, conjugation with glucuronic acid and/or sulphate at the 2, 3, and 17 positions of the steroid nucleus, and oxidation of the side chain sulphoxide.
 Identified metabolites are either less active or exhibit similar activity to fulvestrant in antiestrogen models.
 
-Studies using human liver preparations and recombinant human enzymes indicate that cytochrome P-450 3A4 (CYP 3A4) is the only P-450 isoenzyme involved in the oxidation of fulvestrant; however, the relative contribution of P-450 and non-P-450 routes in vivo is unknown.
+Studies using human liver preparations and recombinant human enzymes indicate that cytochrome P-450 3A4 (CYP 3A4) is the only P-450 isoenzyme involved in the oxidation of fulvestrant; however, the relative contribution of P-450 and non-P-450 routes in vivois unknown.
 
 Excretion
 

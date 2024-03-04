@@ -24,29 +24,29 @@ Approximately 55% of patients had visceral disease.
 
 Results of CONFIRM are summarized in Table 12.
 The efficacy of fulvestrant 500 mg was compared to that of fulvestrant 250 mg.
-Figure 6 shows a Kaplan-Meier plot of the Progression Free Survival (PFS) data after a minimum follow-up duration of 18 months demonstrating statistically significant superiority of fulvestrant 500 mg vs. fulvestrant 250 mg.
+Figure 6shows a Kaplan-Meier plot of the Progression Free Survival (PFS) data after a minimum follow-up duration of 18 months demonstrating statistically significant superiority of fulvestrant 500 mg vs.fulvestrant 250 mg.
 In the initial Overall Survival (OS) analysis after a minimum follow-up duration of 18 months, there was no statistically significant difference in OS between the two treatment groups.
 After a minimum follow-up duration of 50 months, an updated OS analysis was performed.
-Figure 7 shows a Kaplan-Meier plot of the updated OS data.
+Figure 7shows a Kaplan-Meier plot of the updated OS data.
 
 Table 12: Efficacy Results in CONFIRM (Intent-To-Treat (ITT) Population)
 
 | Endpoint | Fulvestrant 500 mg N=362 | Fulvestrant 250 mg N=374 |
 | --- | --- | --- |
 | PFS1 Median (months) | 6.5 | 5.4 |
-| Hazard Ratio2 (95% CI3) | 0.80 (0.68-0.94) |  |
+| Hazard Ratio 2(95% CI 3) | 0.80 (0.68-0.94) |  |
 | p-value | 0.006 |  |
-| OS4 Updated Analysis5 (% patients who died) | 261 (72.1%) | 293 (78.3%) |
+| OS4Updated Analysis5 (% patients who died) | 261 (72.1%) | 293 (78.3%) |
 | Median OS (months) | 26.4 | 22.3 |
-| Hazard Ratio2 (95% CI3)6 | 0.81 (0.69-0.96) |  |
-| ORR7 (95% CI3) | 13.8% (9.7%, 18.8%) (33/240) | 14.6% (10.5%, 19.4%) (38/261) |
-| 1. PFS (Progression Free Survival) = the time between randomization and the earliest of progression or death from any cause. Minimum follow-up duration of 18 months. |  |  |
-| 2. Hazard Ratio <1 favors fulvestrant 500 mg. |  |  |
-| 3. CI=Confidence Interval |  |  |
-| 4. OS=Overall Survival |  |  |
-| 5. Minimum follow up duration of 50 months. |  |  |
-| 6. Not statistically significant as no adjustments were made for multiplicity. |  |  |
-| 7. ORR (Objective Response Rate), as defined as number (%) of patients with complete response or partial response, was analyzed in the evaluable patients with measurable disease at baseline (fulvestrant 500 mg N=240; fulvestrant 250 mg N=261). Minimum follow-up duration of 18 months. |  |  |
+| Hazard Ratio 2(95% CI 3) 6 | 0.81 (0.69-0.96) |  |
+| ORR7(95% CI 3) | 13.8% (9.7%, 18.8%) (33/240) | 14.6% (10.5%, 19.4%) (38/261) |
+| 1.PFS (Progression Free Survival) = the time between randomization and the earliest of progression or death from any cause. Minimum follow-up duration of 18 months. |  |  |
+| 2.Hazard Ratio <1 favors fulvestrant 500 mg. |  |  |
+| 3.CI=Confidence Interval |  |  |
+| 4.OS=Overall Survival |  |  |
+| 5.Minimum follow up duration of 50 months. |  |  |
+| 6.Not statistically significant as no adjustments were made for multiplicity. |  |  |
+| 7.ORR (Objective Response Rate), as defined as number (%) of patients with complete response or partial response, was analyzed in the evaluable patients with measurable disease at baseline (fulvestrant 500 mg N=240; fulvestrant 250 mg N=261). Minimum follow-up duration of 18 months. |  |  |
 
 Figure 6: Kaplan-Meier PFS: CONFIRM ITT Population
 
@@ -69,7 +69,7 @@ Fifty-five percent (55%) of patients had visceral metastasis at baseline.
 A total of 17% of patients had received one prior chemotherapy regimen for advanced disease; 84% of patients had measurable disease.
 Sites of metastases were as follows: musculoskeletal 59%, lymph nodes 50%, respiratory 40%, liver (including gall bladder) 18%.
 
-The efficacy results of FALCON are presented in Table 13 and Figure 8.
+The efficacy results of FALCON are presented in Table 13and Figure 8.
 
 Table 13: Efficacy Results in FALCON (Investigator Assessment, ITT Population)
 
@@ -88,7 +88,7 @@ Table 13: Efficacy Results in FALCON (Investigator Assessment, ITT Population)
 | Objective Response Rate (%, 95% CI) | 46.1% (38.9%, 53.4%) | 44.9% (37.8%, 52.1%) |
 | Median DoR (months) | 20.0 | 13.2 |
 | NR: Not reached |  |  |
-| 1. Interim OS analysis with 61% of total number of events required for the final OS analysis. |  |  |
+| 1.Interim OS analysis with 61% of total number of events required for the final OS analysis. |  |  |
 
 Figure 8: Kaplan-Meier Plot of Progression-Free Survival (Investigator Assessment, ITT Population) - FALCON
 
@@ -120,20 +120,20 @@ Table 14: Efficacy Results in Studies 0020 and 0021 (Objective Response Rate (OR
 | --- | --- | --- | --- | --- |
 |  | Fulvestrant Injection | Anastrozole | Fulvestrant Injection | Anastrozole |
 | Endpoint | 250 mg N=206 | 1 mg N=194 | 250 mg N=222 | 1 mg N=229 |
-| Objective Tumor Response Number (%) of subjects with CR1 + PR2 | 35 (17.0) | 33 (17.0) | 45 (20.3) | 34 (14.9) |
-| % Difference in Tumor Response Rate (FUL3 —ANA4) 2–sided 95.4% CI5 | 0.0 (-6.3, 8.9) |  | 5.4 (-1.4, 14.8) |  |
+| Objective Tumor Response Number (%) of subjects with CR 1+ PR 2 | 35 (17.0) | 33 (17.0) | 45 (20.3) | 34 (14.9) |
+| % Difference in Tumor Response Rate (FUL 3—ANA 4) 2–sided 95.4% CI 5 | 0.0 (-6.3, 8.9) |  | 5.4 (-1.4, 14.8) |  |
 | Time to Progression (TTP) Median TTP (days) | 165 | 103 | 166 | 156 |
-| Hazard Ratio6 2-sided 95.4% CI | 0.9 (0.7, 1.1) |  | 1.0 (0.8, 1.2) |  |
+| Hazard Ratio 6 2-sided 95.4% CI | 0.9 (0.7, 1.1) |  | 1.0 (0.8, 1.2) |  |
 | Stable Disease for ≥ 24 weeks (%) | 26.7 | 19.1 | 24.3 | 30.1 |
 | Overall Survival (OS) |  |  |  |  |
 | Died n (%) Median Survival (days) | 152 (73.8%) 844 | 149 (76.8%) 913 | 167 (75.2%) 803 | 173 (75.5%) 736 |
-| Hazard Ratio6 (2-sided 95% CI) | 0.98 (0.78, 1.24) |  | 0.97 (0.78, 1.21) |  |
-| 1. CR = Complete Response |  |  |  |  |
-| 2. PR = Partial Response |  |  |  |  |
-| 3. FUL = Fulvestrant Injection |  |  |  |  |
-| 4. ANA = Anastrozole |  |  |  |  |
-| 5. CI = Confidence Interval |  |  |  |  |
-| 6. Hazard Ratio <1 favors Fulvestrant Injection |  |  |  |  |
+| Hazard Ratio 6 (2-sided 95% CI) | 0.98 (0.78, 1.24) |  | 0.97 (0.78, 1.21) |  |
+| 1.CR = Complete Response |  |  |  |  |
+| 2.PR = Partial Response |  |  |  |  |
+| 3.FUL = Fulvestrant Injection |  |  |  |  |
+| 4.ANA = Anastrozole |  |  |  |  |
+| 5.CI = Confidence Interval |  |  |  |  |
+| 6.Hazard Ratio <1 favors Fulvestrant Injection |  |  |  |  |
 
 Combination Therapy
 
@@ -157,7 +157,7 @@ All patients had received prior systemic therapy and 75% of patients had receive
 Twenty-five percent of patients had received no prior therapy in the metastatic disease setting, 60% had visceral metastases, and 23% had bone only disease.
 
 The results from the investigator-assessed PFS and final OS data from PALOMA-3 are summarized in Table 15.
-The relevant Kaplan-Meier plots are shown in Figures 9 and 10, respectively.
+The relevant Kaplan-Meier plots are shown in Figures 9and 10, respectively.
 Consistent PFS results were observed across patient subgroups of disease site, sensitivity to prior hormonal therapy, and menopausal status.
 After a median follow-up time of 45 months, the final OS results were not statistically significant.
 
@@ -170,15 +170,15 @@ Table 15: Efficacy Results in PALOMA-3 (Investigator Assessment, ITT Population)
 | Median PFS (months) (95% CI) | 9.5 (9.2-11.0) | 4.6 (3.5-5.6) |
 | Hazard Ratio (95% CI) and p-value | 0.461 (0.360-0.591) p <0.0001 |  |
 | Objective Response for Patients with Measurable Disease | N=267 | N=138 |
-| Objective response rate1 (%, 95% CI) | 24.6 (19.6-30.2) | 10.9 (6.2-17.3) |
+| Objective response rate 1(%, 95% CI) | 24.6 (19.6-30.2) | 10.9 (6.2-17.3) |
 | Overall Survival for ITT Population | N=347 | N=174 |
 | Number of OS Events (%) | 201 (57.9) | 109 (62.6) |
 | Median OS (months) (95% CI) | 34.9 (28.8, 40.0) | 28.0 (23.6, 34.6) |
-| Hazard Ratio (95% CI) and p-value | 0.814 (0.644, 1.029), p=0.08572,3 |  |
+| Hazard Ratio (95% CI) and p-value | 0.814 (0.644, 1.029), p=0.0857 2,3 |  |
 | N=number of patients; PFS=progression-free survival; CI=confidence interval; ITT=Intent-to-Treat; OS=overall survival. |  |  |
-| 1. Responses are based on confirmed responses. |  |  |
-| 2. Not statistically significant at the pre-specified 2-sided alpha level of 0.047. |  |  |
-| 3. 2-sided p-value from the log-rank test stratified by the presence of visceral metastases and sensitivity to prior endocrine therapy per randomization. |  |  |
+| 1.Responses are based on confirmed responses. |  |  |
+| 2.Not statistically significant at the pre-specified 2-sided alpha level of 0.047. |  |  |
+| 3.2-sided p-value from the log-rank test stratified by the presence of visceral metastases and sensitivity to prior endocrine therapy per randomization. |  |  |
 
 Figure 9: Kaplan-Meier Plot of Progression-Free Survival (Investigator Assessment, ITT Population) - PALOMA-3
 
@@ -209,20 +209,20 @@ Table 16: Efficacy Results in MONARCH 2 (Intent-to-Treat Population)
 | Progression-Free Survival (Investigator Assessment) | N=446 | N=223 |
 | Number of patients with an event (n, %) | 222 (49.8) | 157 (70.4) |
 | Median (months, 95% CI) | 16.4 (14.4, 19.3) | 9.3 (7.4, 12.7) |
-| Hazard ratio (95% CI)1 | 0.553 (0.449, 0.681) |  |
-| p-value1 | p<0.0001 |  |
+| Hazard ratio (95% CI) 1 | 0.553 (0.449, 0.681) |  |
+| p-value 1 | p<0.0001 |  |
 | Overall Survival2 |  |  |
 | Number of deaths (n, %) | 211 (47.3) | 127 (57.0) |
 | Median OS in months (95% CI) | 46.7 (39.2, 52.2) | 37.3 (34.4, 43.2) |
-| Hazard ratio (95% CI)1 | 0.757 (0.606, 0.945) |  |
-| p-value1 | p=0.0137 |  |
+| Hazard ratio (95% CI) 1 | 0.757 (0.606, 0.945) |  |
+| p-value 1 | p=0.0137 |  |
 | Objective Response for Patients with Measurable Disease | N=318 | N=164 |
-| Objective response rate3 (n, %) | 153 (48.1) | 35 (21.3) |
+| Objective response rate 3(n, %) | 153 (48.1) | 35 (21.3) |
 | 95% CI | 42.6, 53.6 | 15.1, 27.6 |
 | Abbreviations: CI=confidence interval, OS=overall survival. |  |  |
-| 1. Stratified by disease site (visceral metastases vs. bone-only metastases vs. other) and endocrine therapy resistance (primary resistance vs. secondary resistance) |  |  |
-| 2. Data from a pre-specified interim analysis (77% of the number of events needed for the planned final analysis) with the p-value compared with the allocated alpha of 0.021. |  |  |
-| 3. Complete response + partial response. |  |  |
+| 1.Stratified by disease site (visceral metastases vs. bone-only metastases vs. other) and endocrine therapy resistance (primary resistance vs. secondary resistance) |  |  |
+| 2.Data from a pre-specified interim analysis (77% of the number of events needed for the planned final analysis) with the p-value compared with the allocated alpha of 0.021. |  |  |
+| 3.Complete response + partial response. |  |  |
 
 Figure 11: Kaplan-Meier Curves of Progression-Free Survival: Fulvestrant Plus Abemaciclib versus Fulvestrant Plus Placebo (MONARCH 2)
 
@@ -242,7 +242,7 @@ Patients enrolled in this study had a median age of 63 years (range 31 to 89).
 Of the patients enrolled, 47% were 65 years and older, including 14% age 75 years and older.
 The patients enrolled were primarily Caucasian (85%), Asian (9%), and Black (0.7%).
 Nearly all patients (99.7%) had an ECOG performance status of 0 or 1.
-First and second line patients were enrolled in this study (of which 19% had de novo metastatic disease).
+First and second line patients were enrolled in this study (of which 19% had de novometastatic disease).
 Forty-three percent (43%) of patients had received chemotherapy in the adjuvant vs. 13% in the neoadjuvant setting and 59% had received endocrine therapy in the adjuvant vs. 1% in the neoadjuvant setting prior to study entry.
 Twenty-one percent (21%) of patients had bone-only disease and 61% had visceral disease.
 Demographics and baseline disease characteristics were balanced and comparable between study arms.
@@ -258,17 +258,17 @@ Table 17: Efficacy Results - MONALEESA-3 (Investigator Assessment, Intent-to-Tre
 | Events (n, %) | 210 (43.4%) | 151 (62.4%) |
 | Median (months, 95% CI) | 20.5 (18.5, 23.5) | 12.8 (10.9, 16.3) |
 | Hazard Ratio (95% CI) | 0.593 (0.480 to 0.732) |  |
-| p-value1 | <0.0001 |  |
+| p-value 1 | <0.0001 |  |
 | Overall Survival | N=484 | N=242 |
 | Events (n, %) | 167 (34.5%) | 108 (44.6%) |
 | Median (months, 95% CI) | NR (42.5, NR) | 40.0 (37.0, NR) |
 | Hazard Ratio (95% CI) | 0.724 (0.568, 0.924) |  |
-| p-value1 | 0.00455 |  |
+| p-value 1 | 0.00455 |  |
 | Overall Response Rate2* | N=379 | N=181 |
 | Patients with measurable disease (95% CI) | 40.9 (35.9, 45.8) | 28.7 (22.1, 35.3) |
 | Abbreviation: NR, not reached |  |  |
-| 1. p-value is obtained from the one-sided log-rank |  |  |
-| 2. Based on confirmed responses |  |  |
+| 1.p-value is obtained from the one-sided log-rank |  |  |
+| 2.Based on confirmed responses |  |  |
 | * Investigator Assessment |  |  |
 
 Figure 13: Kaplan-Meier Progression Free Survival Curves - MONALEESA-3 (Intent-To-Treat Population, Investigator Assessment)

@@ -73,7 +73,8 @@ For each single-dose prefilled syringe:
     Figure 4
 12. After injection, immediately activate the lever arm to deploy the needle shielding by applying a single-finger stroke to the activation assisted lever arm to push the lever arm completely forward.
     Listen for a click.
-    Confirm that the needle shielding has completely covered the needle (see Figure 5).NOTE: Activate away from self and others.
+    Confirm that the needle shielding has completely covered the needle (see Figure 5).
+    NOTE: Activate away from self and others.
     Figure 5
 13. Discard the empty syringe into an approved sharps collector in accordance with applicable regulations and institutional policy.
 14. Repeat steps 1 through 13 for second syringe.
@@ -84,7 +85,7 @@ For the 2 x 5 mL syringe package, the contents of both syringes must be injected
 
 SAFETYGLIDE™ INSTRUCTIONS FROM BECTON DICKINSON
 
-SafetyGlideTM is a trademark of Becton Dickinson and Company.
+SafetyGlide TMis a trademark of Becton Dickinson and Company.
 
 Important Administration Information
 
