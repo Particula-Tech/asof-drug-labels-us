@@ -86,7 +86,7 @@ Dongguan, Guangdong 523808, China.
 
 Distributed by:
 
-Rising Pharmaceuticals, Inc.
+Rising Pharma Holdings, Inc.
 
 East Brunswick, NJ 08816
 
