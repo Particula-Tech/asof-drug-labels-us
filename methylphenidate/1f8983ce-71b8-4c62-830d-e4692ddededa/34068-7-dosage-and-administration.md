@@ -2,10 +2,10 @@
 
 ## 2.1 Pretreatment Screening
 
-Prior to initiating treatment with central nervous system (CNS) stimulants, including methylphenidate hydrochloride extended-release capsules, assess for the presence of cardiac disease (i.e., perform a careful history including family history of sudden death or ventricular arrhythmia, and physical examination) [see Warnings and Precautions (5.2)].
+Prior to treating patients with methylphenidate hydrochloride extended-release capsules, assess:
 
-Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy.
-Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically reevaluate the need for methylphenidate hydrochloride extended-release capsule use [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)].
+- •for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
+- •the family history and clinically evaluate patients for motor or verbal tics or Tourette’s syndrome before initiating methylphenidate hydrochloride extended-release capsules [see Warnings and Precautions (5.10)].
 
 ## 2.2 General Dosing Information
 
@@ -15,7 +15,7 @@ Daily dosage above 60 mg is not recommended.
 When a lower initial dose is appropriate, patients may begin treatment with 10 mg.
 
 Administer methylphenidate hydrochloride extended-release capsules orally once daily in the morning.
-Methylphenidate hydrochloride extended-release capsules may be swallowed as whole capsule or may be administered by sprinkling the capsule contents on a small amount of applesauce (see specific instructions below).
+Methylphenidate hydrochloride extended-release capsules may be swallowed as whole capsules or may be administered by sprinkling the capsule contents on a small amount of applesauce (see specific instructions below).
 Methylphenidate hydrochloride extended-release capsules and/or their contents should not be crushed, chewed, or divided.
 
 The capsules may be carefully opened and the beads sprinkled over a spoonful of applesauce.
@@ -23,24 +23,21 @@ The applesauce should not be warm because it could affect the modified release p
 The mixture of drug and applesauce should be consumed immediately in its entirety.
 The drug and applesauce mixture should not be stored for future use.
 
-Pharmacological treatment of ADHD may be needed for extended periods.
-Periodically reevaluate the long-term use of methylphenidate hydrochloride and methylphenidate hydrochloride extended-release tablets, and adjust dosage as needed.
+## 2.3 Patients Currently Using Methylphenidate Hydrochloride Tablets
 
-## 2.3 Patients Currently Using Methylphenidate Hydrochloride or Methylphenidate Hydrochloride Extended-release Tablets
+The recommended dose of methylphenidate hydrochloride extended-release capsules for patients currently taking methylphenidate hydrochloride tablets twice daily is provided below in Table 1.
 
-The recommended dose of methylphenidate hydrochloride extended-release capsules for patients currently taking methylphenidate hydrochloride tablets twice daily or methylphenidate hydrochloride extended-release tablets is provided below.
+Table 1: Recommended Dose Conversion from Methylphenidate Hydrochloride Tablets
 
-Table 1: Recommended Dose Conversion From Methylphenidate Hydrochloride or Methylphenidate Hydrochloride Extended-release Tablets
-
-| Previous Methylphenidate Hydrochloride or Methylphenidate Hydrochloride Extended-release Tablets Dose | Recommended Methylphenidate Hydrochloride Extended-release Capsule Dose |
+| Previous Methylphenidate Hydrochloride Tablets’ Dose | Recommended Methylphenidate HydrochlorideExtended-Release Capsules’ Dose |
 | --- | --- |
 | 5 mg methylphenidate hydrochloride tablets twice daily | 10 mg once daily |
-| 10 mg methylphenidate hydrochloride tablets twice daily or 20 mg methylphenidate hydrochloride extended-release tablets | 20 mg once daily |
+| 10 mg methylphenidate hydrochloride tablets twice daily | 20 mg once daily |
 | 15 mg methylphenidate hydrochloride tablets twice daily | 30 mg once daily |
-| 20 mg methylphenidate hydrochloride tablets twice daily or 40 mg methylphenidate hydrochloride extended-release tablets | 40 mg once daily |
-| 30 mg methylphenidate hydrochloride tablets twice daily or 60 mg methylphenidate hydrochloride extended-release tablets | 60 mg once daily |
+| 20 mg methylphenidate hydrochloride tablets twice daily | 40 mg once daily |
+| 30 mg methylphenidate hydrochloride tablets twice daily | 60 mg once daily |
 
-## 2.4 Switching From Other Methylphenidate Products
+## 2.4 Switching from Other Methylphenidate Products
 
 If switching from other methylphenidate products, discontinue that treatment, and titrate with methylphenidate hydrochloride extended-release capsules using the titration schedule.
 
@@ -49,7 +46,7 @@ Do not substitute for other methylphenidate products on a milligram-per-milligra
 Clinical judgment should be used when selecting the starting dose.
 Daily dosage above 60 mg is not recommended.
 
-## 2.5 Dose Reduction and Discontinuation
+## 2.5 Dosage Reduction and Discontinuation
 
 If paradoxical worsening of symptoms or other adverse reactions occur, reduce the dosage, or, if necessary, discontinue methylphenidate hydrochloride extended-release capsules.
 If improvement is not observed after appropriate dosage adjustment over a one-month period, the drug should be discontinued.

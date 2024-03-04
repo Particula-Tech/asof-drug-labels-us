@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 Carcinogenesis
 
@@ -18,7 +18,7 @@ Male and female mice were fed diets containing the same concentration of methylp
 Mutagenesis
 
 Methylphenidate was not mutagenic in the in vitro Ames reverse mutation assay, in the in vitro mouse lymphoma cell forward mutation assay, or in the in vitro chromosomal aberration assay using human lymphocytes.
-Sister chromatid exchanges and chromosome aberrations were increased, indicative of a weak clastogenic response, in an in vitro assay in cultured Chinese Hamster Ovary (CHO) cells.
+Sister chromatid exchanges and chromosome aberrations were increased, indicative of a weak clastogenic response, in an in vitro assay in cultured Chinese Hamster Ovary cells.
 Methylphenidate was negative in vivo in males and females in the mouse bone marrow micronucleus assay.
 
 Impairment of Fertility
