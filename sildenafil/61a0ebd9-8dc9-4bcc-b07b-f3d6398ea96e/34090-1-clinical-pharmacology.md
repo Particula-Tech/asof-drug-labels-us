@@ -45,6 +45,8 @@ After chronic dosing of 80 mg three times a day sildenafil to patients with PAH,
 Effects of Sildenafil on Vision At single oral doses of 100 mg and 200 mg, transient dose-related impairment of color discrimination (blue/green) was detected using the Farnsworth-Munsell 100-hue test, with peak effects near the time of peak plasma levels.
 This finding is consistent with the inhibition of PDE6, which is involved in phototransduction in the retina.
 An evaluation of visual function at doses up to 200 mg revealed no effects of sildenafil on visual acuity, intraocular pressure, or pupillometry.
+Pediatric use information is approved for Viatris Specialty LLC's, REVATIO (sildenafil) tablets.
+However, due to Viatris Specialty LLC's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 12.3 Pharmacokinetics
 
@@ -68,6 +70,11 @@ None of these factors had a significant impact on sildenafil pharmacokinetics in
 In patients with PAH, the average steady-state concentrations were 20 to 50% higher when compared to those of healthy volunteers.
 There was also a doubling of Cmin levels compared to healthy volunteers.
 Both findings suggest a lower clearance and/or a higher oral bioavailability of sildenafil in patients with PAH compared to healthy volunteers.
+
+Pediatric Patients
+
+Pediatric use information is approved for Viatris Specialty LLC's, REVATIO (sildenafil) tablets.
+However, due to Viatris Specialty LLC's marketing exclusivity rights, this drug product is not labeled with that information.
 Geriatric Patients Healthy elderly volunteers (65 years or over) had a reduced clearance of sildenafil, resulting in approximately 84% and 107% higher plasma concentrations of sildenafil and its active Ndesmethyl metabolite, respectively, compared to those seen in healthy younger volunteers (18 to 45 years).
 Due to age-differences in plasma protein binding, the corresponding increase in the AUC of free (unbound) sildenafil and its active N-desmethyl metabolite were 45% and 57%, respectively.
 Renal Impairment In volunteers with mild (CLcr = 50-80 mL/min) and moderate (CLcr = 30-49 mL/min) renal impairment, the pharmacokinetics of a single oral dose of sildenafil (50 mg) was not altered.

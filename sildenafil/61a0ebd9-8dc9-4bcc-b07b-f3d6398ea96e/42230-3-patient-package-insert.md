@@ -20,7 +20,7 @@ It is not known if sildenafil tablets will harm your unborn baby. • are breast
 Sildenafil passes into your breast milk.
 It is not known if it can harm your baby.
 Talk with your healthcare provider about the best way to feed your baby during treatment with sildenafil tablets.
-Tell your healthcare provider about all of the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all of the medicines you take, including prescription and over- the-counter medicines, vitamins, and herbal supplements.
 Sildenafil tablets and certain other medicines may affect each other and can cause side effects.
 Especially tell your healthcare provider if you take: • nitrates or guanylate cyclase stimulators.
 See “What is the most important information I should know about sildenafil tablets?”
@@ -66,7 +66,11 @@ It may harm them.
 You can ask your healthcare provider or pharmacist for information about sildenafil tablets that is written for health professionals.
 For more information call 1-888-943-3210 or 1-855-926-3384.
 What are the ingredients in sildenafil tablets?
-Active ingredients: sildenafil citrate Inactive ingredients: Sildenafil tablets: microcrystalline cellulose, dibasic calcium phosphate dihydrate, croscarmellose sodium, magnesium stearate, hypromellose, titanium dioxide, triacetin.
+Active ingredients: sildenafil citrate Inactive ingredients: Sildenafil tablets: microcrystalline cellulose, dibasic calcium phosphate dihydrate, croscarmellose sodium, magnesium stearate, hypromellose, titanium dioxide and triacetin.
+
+Pediatric use information is approved for Viatris Specialty LLC's, REVATIO (sildenafil) tablets.
+However, due to Viatris Specialty LLC's marketing exclusivity rights, this drug product is not labeled with that information.
+
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 VIAGRA® is registered trademark of Pfizer Inc. All other trademarks herein are the property of their respective owners.
-Manufactured for: Macleods Pharma USA, Inc. Princeton, NJ 08540 Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA Revised: March 2023
+Manufactured for: Macleods Pharma USA, Inc. Princeton, NJ 08540 Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA Revised: February 2024

@@ -24,6 +24,9 @@ Most Common Adverse Reactions in Patients Treated with Sildenafil Tablets 20 mg,
 
 In a placebo-controlled fixed dose titration study (PACES-1) of sildenafil (starting with recommended dose of 20 mg and increased to 40 mg and then 80 mg all three times a day) as an adjunct to intravenous epoprostenol in patients with PAH, no new safety issues were identified except for edema, which occurred in 25% of subjects in the combined sildenafil + epoprostenol group compared with 13% of subjects in the epoprostenol group [see Clinical Studies (14)].
 
+Pediatric use information is approved for Viatris Specialty LLC's, REVATIO (sildenafil) tablets.
+However, due to Viatris Specialty LLC's marketing exclusivity rights, this drug product is not labeled with that information.
+
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of sildenafil (marketed for both PAH and erectile dysfunction).
