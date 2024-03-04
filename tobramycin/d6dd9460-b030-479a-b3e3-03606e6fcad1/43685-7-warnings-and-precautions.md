@@ -22,13 +22,20 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
+## Risk of Ototoxicity Due to Mitochondrial DNA Variants
+
+Cases of ototoxicity with aminoglycosides have been observed in patients with certain variants in the mitochondrially encoded 12S rRNA gene (MT-RNR1), particularly the m.1555A>G variant.
+Ototoxicity occurred in some patients even when their aminoglycoside serum levels were within the recommended range.
+Mitochondrial DNA variants are present in less than 1% of the general US population, and the proportion of the variant carriers who may develop ototoxicity as well as the severity of ototoxicity is unknown.
+In case of known maternal history of ototoxicity due to aminoglycoside use or a known mitochondrial DNA variant in the patient, consider alternative treatments other than aminoglycosides unless the increased risk of permanent hearing loss is outweighed by the severity of infection and lack of safe and effective alternative therapies.
+
 # PRECAUTIONS:
 
 ## General
 
 Prescribing tobramycin in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-Serum and urine specimens for examination should be collected during therapy, as recommended in theWARNINGS box.
+Serum and urine specimens for examination should be collected during therapy, as recommended in the WARNINGS box.
 Serum calcium, magnesium, and sodium should be monitored.
 
 Peak and trough serum levels should be measured periodically during therapy.
@@ -68,7 +75,7 @@ Aminoglycosides may be absorbed in significant quantities from body surfaces aft
 Aminoglycosides have not been approved for intraocular and/or subconjunctival use.
 Physicians are advised that macular necrosis has been reported following administration of aminoglycosides, including tobramycin, by these routes.
 
-SeeWARNINGS box regarding concurrent use of potent diuretics and concurrent and sequential use of other neurotoxic or nephrotoxic drugs.
+See WARNINGS box regarding concurrent use of potent diuretics and concurrent and sequential use of other neurotoxic or nephrotoxic drugs.
 
 The inactivation of tobramycin and other aminoglycosides by ß-lactam-type antibiotics (penicillins or cephalosporins) has been demonstrated in vitro and in patients with severe renal impairment.
 Such inactivation has not been found in patients with normal renal function who have been given the drugs by separate routes of administration.
@@ -76,7 +83,7 @@ Such inactivation has not been found in patients with normal renal function who 
 Therapy with tobramycin may result in overgrowth of nonsusceptible organisms.
 If overgrowth of nonsusceptible organisms occurs, appropriate therapy should be initiated.
 
-## Pregnancy Category D
+## Pregnancy
 
 Aminoglycosides can cause fetal harm when administered to a pregnant woman.
 Aminoglycoside antibiotics cross the placenta, and there have been several reports of total irreversible bilateral congenital deafness in children whose mothers received streptomycin during pregnancy.

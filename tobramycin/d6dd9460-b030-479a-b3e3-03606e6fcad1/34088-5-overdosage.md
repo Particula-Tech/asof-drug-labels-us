@@ -2,8 +2,8 @@
 
 ## Signs and Symptoms
 
-The severity of the signs and symptoms following a tobramycin overdose are dependent on the dose administered, the patient’s renal function, state of hydration, and age and whether or not other medications with similar toxicities are being administered concurrently.
-Toxicity may occur in patients treated more than 10 days, in adults given more than 5 mg/kg/day, in pediatric patients given more than 7.5 mg/kg/day, or patients with reduced renal function whose dose has not been appropriately adjusted.
+The severity of the signs and symptoms following a tobramycin overdose are dependent on the dose administered, the patient's renal function, state of hydration, and age and whether or not other medications with similar toxicities are being administered concurrently.
+Toxicity may occur in patients treated more than 10 days, in adults given more than 5 mg/kg/day, children given more than 7.5 mg/kg/day, or patients with reduced renal function whose dose has not been appropriately adjusted.
 
 Nephrotoxicity following the parenteral administration of an aminoglycoside is most closely related to the area under the curve of the serum concentration versus time graph.
 Nephrotoxicity is more likely if trough blood concentrations fail to fall below 2 mcg/mL and is also proportional to the average blood concentration.
@@ -13,7 +13,7 @@ These patients may not have signs or symptoms or may experience dizziness, tinni
 Ototoxicity signs and symptoms may not begin to occur until long after the drug has been discontinued.
 
 Neuromuscular blockade or respiratory paralysis may occur following administration of many aminoglycosides.
-Neuromuscular blockade, respiratory failure, and prolonged respiratory paralysis may occur more commonly in patients with myasthenia gravis or Parkinson’s disease.
+Neuromuscular blockade, respiratory failure, and prolonged respiratory paralysis may occur more commonly in patients with myasthenia gravis or Parkinson's disease.
 Prolonged respiratory paralysis may also occur in patients receiving decamethonium, tubocurarine, or succinylcholine.
 If neuromuscular blockade occurs, it may be reversed by the administration of calcium salts but mechanical assistance may be necessary.
 

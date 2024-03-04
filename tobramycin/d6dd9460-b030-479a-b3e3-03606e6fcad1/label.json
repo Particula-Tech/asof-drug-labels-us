@@ -5,8 +5,11 @@
   "inn": "tobramycin",
   "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
+    "63323-305-01",
     "63323-305-02",
+    "63323-306-01",
     "63323-306-02",
+    "63323-306-05",
     "63323-306-30"
   ],
   "products": [

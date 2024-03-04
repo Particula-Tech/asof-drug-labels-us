@@ -2,8 +2,10 @@
 
 Tobramycin Injection, USP may be given intramuscularly or intravenously.
 Recommended dosages are the same for both routes.
-The patient’s pretreatment body weight should be obtained for calculation of correct dosage.
-It is desirable to measure both peak and trough serum concentrations (see WARNINGS box and PRECAUTIONS).
+The patient's pretreatment body weight should be obtained for calculation of correct dosage.
+It is desirable to measure both peak and trough serum concentrations
+
+(see WARNINGS box and PRECAUTIONS).
 
 ## Administration for Patients with Normal Renal Function
 
@@ -13,32 +15,53 @@ Adults with Life-Threatening Infections: Up to 5 mg/kg/day may be administered i
 The dosage should be reduced to 3 mg/kg/day as soon as clinically indicated.
 To prevent increased toxicity due to excessive blood levels, dosage should not exceed 5 mg/kg/day unless serum levels are monitored (see WARNINGS box and PRECAUTIONS).
 
-| Table 3. DOSAGE SCHEDULE GUIDE FOR TOBRAMYCIN INJECTION, USP IN ADULTS WITH NORMAL RENAL FUNCTION (Dosage at 8-Hour Intervals) |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| For Patient Weighing |  | Usual Dose for Serious Infections |  |  | Maximum Dose for Life-Threatening Infections (Reduce as soon as possible) |  |  |
-| 1 mg/kg q8h |  |  | 1.66 mg/kg q8h |  |  |  |  |
-| kg | lb | (Total, 3 mg/kg/day) |  |  | (Total, 5 mg/kg/day) |  |  |
-|  |  | mg/dose |  | mL/dose* | mg/dose |  | mL/dose* |
-|  |  |  | q8h |  |  | q8h |  |
-| 120 | 264 | 120 mg |  | 3 mL | 200 mg |  | 5 mL |
-| 115 | 253 | 115 mg |  | 2.9 mL | 191 mg |  | 4.75 mL |
-| 110 | 242 | 110 mg |  | 2.75 mL | 183 mg |  | 4.5 mL |
-| 105 | 231 | 105 mg |  | 2.6 mL | 175 mg |  | 4.4 mL |
-| 100 | 220 | 100 mg |  | 2.5 mL | 166 mg |  | 4.2 mL |
-| 95 | 209 | 95 mg |  | 2.4 mL | 158 mg |  | 4 mL |
-| 90 | 198 | 90 mg |  | 2.25 mL | 150 mg |  | 3.75 mL |
-| 85 | 187 | 85 mg |  | 2.1 mL | 141 mg |  | 3.5 mL |
-| 80 | 176 | 80 mg |  | 2 mL | 133 mg |  | 3.3 mL |
-| 75 | 165 | 75 mg |  | 1.9 mL | 125 mg |  | 3.1 mL |
-| 70 | 154 | 70 mg |  | 1.75 mL | 116 mg |  | 2.9 mL |
-| 65 | 143 | 65 mg |  | 1.6 mL | 108 mg |  | 2.7 mL |
-| 60 | 132 | 60 mg |  | 1.5 mL | 100 mg |  | 2.5 mL |
-| 55 | 121 | 55 mg |  | 1.4 mL | 91 mg |  | 2.25 mL |
-| 50 | 110 | 50 mg |  | 1.25 mL | 83 mg |  | 2.1 mL |
-| 45 | 99 | 45 mg |  | 1.1 mL | 75 mg |  | 1.9 mL |
-| 40 | 88 | 40 mg |  | 1 mL | 66 mg |  | 1.6 mL |
+Table 3.
+DOSAGE SCHEDULE GUIDE FOR TOBRAMYCIN INJECTION, USP IN ADULTS WITH NORMAL RENAL FUNCTION (Dosage at 8-Hour Intervals)
 
-*Applicable to all product forms except Tobramycin Injection, USP, 10 mg/mL(Pediatric).
+| For Patient Weighing |  | Usual Dose for Serious Infections 1 mg/kg q8h (Total, 3 mg/kg/day) |  |  |
+| --- | --- | --- | --- | --- |
+| kg | lb |  |  |  |
+|  |  | mg/dose |  | mL/dose* |
+| q8h |  |  |  |  |
+| 120 | 264 | 120 mg |  | 3 mL |
+| 115 | 253 | 115 mg |  | 2.9 mL |
+| 110 | 242 | 110 mg |  | 2.75 mL |
+| 105 | 231 | 105 mg |  | 2.6 mL |
+| 100 | 220 | 100 mg |  | 2.5 mL |
+| 95 | 209 | 95 mg |  | 2.4 mL |
+| 90 | 198 | 90 mg |  | 2.25 mL |
+| 85 | 187 | 85 mg |  | 2.1 mL |
+| 80 | 176 | 80 mg |  | 2 mL |
+| 75 | 165 | 75 mg |  | 1.9 mL |
+| 70 | 154 | 70 mg |  | 1.75 mL |
+| 65 | 143 | 65 mg |  | 1.6 mL |
+| 60 | 132 | 60 mg |  | 1.5 mL |
+| 55 | 121 | 55 mg |  | 1.4 mL |
+| 50 | 110 | 50 mg |  | 1.25 mL |
+| 45 | 99 | 45 mg |  | 1.1 mL |
+| 40 | 88 | 40 mg |  | 1 mL |
+| For Patient Weighing |  | Maximum Dose for Life- Threatening Infections (Reduce as soon as possible) 1.66 mg/kg q8h (Total, 5 mg/kg/day) |  |  |
+| kg | lb |  |  |  |
+|  |  | mg/dose |  | mL/dose* |
+| q8h |  |  |  |  |
+| 120 | 264 | 200 mg |  | 5 mL |
+| 115 | 253 | 191 mg |  | 4.75 mL |
+| 110 | 242 | 183 mg |  | 4.5 mL |
+| 105 | 231 | 175 mg |  | 4.4 mL |
+| 100 | 220 | 166 mg |  | 4.2 mL |
+| 95 | 209 | 158 mg |  | 4 mL |
+| 90 | 198 | 150 mg |  | 3.75 mL |
+| 85 | 187 | 141 mg |  | 3.5 mL |
+| 80 | 176 | 133 mg |  | 3.3 mL |
+| 75 | 165 | 125 mg |  | 3.1 mL |
+| 70 | 154 | 116 mg |  | 2.9 mL |
+| 65 | 143 | 108 mg |  | 2.7 mL |
+| 60 | 132 | 100 mg |  | 2.5 mL |
+| 55 | 121 | 91 mg |  | 2.25 mL |
+| 50 | 110 | 83 mg |  | 2.1 mL |
+| 45 | 99 | 75 mg |  | 1.9 mL |
+| 40 | 88 | 66 mg |  | 1.6 mL |
+| *Applicable to all product forms except Tobramycin Injection, USP, 10 mg/mL(Pediatric). |  |  |  |  |
 
 Pediatric Patients (Greater Than 1 Week of Age): 6 to 7.5 mg/kg/day in 3 or 4 equally divided doses (2 to 2.5 mg/kg every 8 hours or 1.5 to 1.89 mg/kg every 6 hours).
 
@@ -68,15 +91,16 @@ The dosage schedules derived from either method should be used in conjunction wi
 Neither method should be used when dialysis is being performed.
 
 Reduced Dosage at 8-hour Intervals — When the creatinine clearance rate is 70 mL or less per minute or when the serum creatinine value is known, the amount of the reduced dose can be determined by multiplying the normal dose from Table 3 by the percent of normal dose from the accompanying nomogram.
-An alternate rough guide for determining reduced dosage at 8-hour intervals (for patients whose steady-state serum creatinine values are known) is to divide the normally recommended dose by the patient's serum creatinine.
+
+An alternate rough guide for determining reduced dosage at 8-hour intervals (for patients whose steady- state serum creatinine values are known) is to divide the normally recommended dose by the patient's serum creatinine.
 
 * Scales have been adjusted to facilitate dosage calculations.
 
-Normal Dosage at Prolonged Intervals — If the creatinine clearance rate is not available and the patient’s condition is stable, a dosage frequency in hours for the dosage given in Table 3 can be determined by multiplying the patient's serum creatinine by 6.
+Normal Dosage at Prolonged Intervals — If the creatinine clearance rate is not available and the patient's condition is stable, a dosage frequency in hours for the dosage given in Table 3 can be determined by multiplying the patient's serum creatinine by 6.
 
 ## Dosage in Obese Patients
 
-The appropriate dose may be calculated by using the patient’s estimated lean body weight plus 40% of the excess as the basic weight on which to figure mg/kg.
+The appropriate dose may be calculated by using the patient's estimated lean body weight plus 40% of the excess as the basic weight on which to figure mg/kg.
 
 ## Intramuscular Administration
 

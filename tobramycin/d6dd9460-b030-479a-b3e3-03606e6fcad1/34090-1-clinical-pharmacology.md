@@ -2,6 +2,7 @@
 
 Tobramycin is rapidly absorbed following intramuscular administration.
 Peak serum concentrations of tobramycin occur between 30 and 90 minutes after intramuscular administration.
+
 Following an intramuscular dose of 1 mg/kg of body weight, maximum serum concentrations reach about 4 mcg/mL, and measurable levels persist for as long as 8 hours.
 Therapeutic serum levels are generally considered to range from 4 to 6 mcg/mL.
 When tobramycin sulfate is administered by intravenous infusion over a 1-hour period, the serum concentrations are similar to those obtained by intramuscular administration.
@@ -21,7 +22,7 @@ After several days of treatment, the amount of tobramycin excreted in the urine 
 When renal function is impaired, excretion of tobramycin sulfate is slowed, and accumulation of the drug may cause toxic blood levels.
 
 The serum half-life in normal individuals is 2 hours.
-An inverse relationship exists between serum half-life and creatinine clearance, and the dosage schedule should be adjusted according to the degree of renal impairment (see DOSAGE AND ADMINISTRATION).
+An inverse relationship exists between serum half- life and creatinine clearance, and the dosage schedule should be adjusted according to the degree of renal impairment (see DOSAGE AND ADMINISTRATION).
 In patients undergoing dialysis, 25% to 70% of the administered dose may be removed, depending on the duration and type of dialysis.
 
 Tobramycin can be detected in tissues and body fluids after parenteral administration.
@@ -34,18 +35,29 @@ Probenecid does not affect the renal tubular transport of tobramycin.
 
 ## Microbiology
 
-Tobramycin is an aminoglycoside antibiotic with activity against Gram-negative and certain Gram-positive bacteria.
-Mechanism of Action Tobramycin acts by inhibiting synthesis of protein in bacterial cells.
+Tobramycin is an aminoglycoside antibiotic with activity against Gram-positive and Gram-negative bacteria.
+
+## Mechanism of Action
+
+Tobramycin acts by inhibiting synthesis of protein in bacterial cells.
 In vitro tests demonstrate that tobramycin is bactericidal.
 
-Interactions with Other Antibiotics: Although most strains of enterococci demonstrate in vitro resistance, some strains in this group are susceptible.
+## Interactions with Other Antibiotics:
+
+Although most strains of enterococci demonstrate in vitro resistance, some strains in this group are susceptible.
 In vitro studies have shown that an aminoglycoside combined with an antibiotic that interferes with cell-wall synthesis affects some enterococcal strains synergistically.
 The combination of penicillin G and tobramycin results in a synergistic bactericidal effect in vitro against certain strains of Enterococcus faecalis.
 However, this combination is not synergistic against other closely related organisms, e.g. Enterococcus faecium.
 Speciation of enterococci alone cannot be used to predict susceptibility.
 Susceptibility testing and tests for antibiotic synergism are emphasized.
-Cross-Resistance: Cross-resistance between aminoglycosides may occur.
-Antimicrobial Activity: Tobramycin has been shown to be active against most strains of the following organisms both in vitro and in clinical infections: (see INDICATIONS AND USAGE)
+
+## Cross-Resistance:
+
+Cross-resistance between aminoglycosides may occur.
+
+## Antimicrobial Activity:
+
+Tobramycin has been shown to be active against most strains of the following organisms both in vitro and in clinical infections: (see INDICATIONS AND USAGE)
 
 Aerobic and facultative Gram-positive microorganisms
 
@@ -53,7 +65,9 @@ Staphylococcus aureus
 
 Aerobic and facultative Gram-negative microorganisms
 
-Citrobacter sp Enterobacter sp
+Citrobacter sp
+
+Enterobacter sp
 
 Escherichia coli
 

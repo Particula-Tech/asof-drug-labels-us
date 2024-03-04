@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS:
 
+To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 ## Neurotoxicity
 
 Adverse effects on both the vestibular and auditory branches of the eighth nerve have been noted, especially in patients receiving high doses or prolonged therapy, in those given previous courses of therapy with an ototoxin, and in cases of dehydration.
