@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA076522"
+  ],
+  "inn": "metronidazole",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-836-50"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "metronidazole",
+      "name": "Metronidazole"
+    }
+  ],
+  "setid": "f053ad94-d884-457c-9c35-4e0df1d26eea",
+  "source": "dailymed"
+}
