@@ -69,13 +69,21 @@ In the pivotal trial, XOLAIR-treated patients had a statistically significant re
 
 Safety and efficacy in pediatric patients with asthma below 6 years of age have not been established.
 
-Chronic Rhinosinusitis with Nasal Polyps (CRSwNP)
+Chronic Rhinosinusitis with Nasal Polyps
 
-Safety and effectiveness in pediatric patients with CRSwNP below 18 years of age have not been established.
+Safety and effectiveness in pediatric patients with chronic rhinosinusitis with nasal polyps (CRSwNP) below 18 years of age have not been established.
 
-Chronic Spontaneous Urticaria (CSU)
+IgE-Mediated Food Allergy
 
-The safety and effectiveness of XOLAIR for chronic spontaneous urticaria (CSU) have been established in pediatric patients aged 12 years and older.
+The safety and effectiveness of XOLAIR for the reduction of allergic reactions (Type I), including anaphylaxis, that may occur with accidental exposure to one or more foods have been established in pediatric patients aged 1 year and older with IgE-mediated food allergy.
+Use of XOLAIR for this indication is supported by evidence from an adequate and well-controlled study that included a total of 165 pediatric patients; 61 patients aged 1 year to less than 6 years of age and 104 patients aged 6 to less than 18 years of age.
+A significantly greater percentage of XOLAIR-treated patients compared to placebo-treated patients was able to consume a single dose of food (peanut, cashew, milk, egg) without dose- limiting symptoms [see Clinical Studies (14.3)].
+
+Safety and effectiveness in pediatric patients with IgE-mediated food allergy below 1 year of age have not been established.
+
+Chronic Spontaneous Urticaria
+
+The safety and effectiveness of XOLAIR for chronic spontaneous urticaria (CSU) who remain symptomatic despite H1 antihistamine treatment have been established in pediatric patients aged 12 years and older.
 Use of XOLAIR in this population is supported by evidence from adequate and well-controlled studies.
 Adolescent patients with CSU were evaluated in 39 patients 12 to 17 years of age (XOLAIR 29, placebo 10) included in three randomized, placebo-controlled CSU trials.
 A numerical decrease in weekly itch score was observed, and adverse reactions were similar to those reported in patients 18 years and older.
@@ -84,5 +92,5 @@ Safety and effectiveness in pediatric patients with CSU below 12 years of age ha
 
 ## 8.5 Geriatric Use
 
-In clinical studies, 134 asthma patients, 20 CRSwNP patients, and 37 CSU phase 3 study patients 65 years of age or older were treated with XOLAIR.
+In clinical studies, 134 asthma patients, 20 CRSwNP patients, 37 CSU patients and no IgE-mediated food allergy patients 65 years of age or older were treated with XOLAIR.
 Although there were no apparent age-related differences observed in these studies, the number of patients aged 65 and over is not sufficient to determine whether they respond differently from younger patients.

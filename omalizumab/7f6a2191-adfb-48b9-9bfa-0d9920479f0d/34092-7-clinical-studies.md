@@ -31,15 +31,15 @@ Patients then entered an ICS reduction phase of 12 weeks during which ICS dose r
 
 The distribution of the number of asthma exacerbations per patient in each group during a study was analyzed separately for the stable steroid and steroid-reduction periods.
 
-In both Asthma Trials 1 and 2 the number of exacerbations per patient was reduced in patients treated with XOLAIR compared with placebo (Table 9).
+In both Asthma Trials 1 and 2 the number of exacerbations per patient was reduced in patients treated with XOLAIR compared with placebo (Table 11).
 
 Measures of airflow (FEV1) and asthma symptoms were also evaluated in these trials.
 The clinical relevance of the treatment-associated differences is unknown.
-Results from the stable steroid phase Asthma Trial 1 are shown in Table 10.
-Results from the stable steroid phase of Asthma Trial 2 and the steroid reduction phases of both Asthma Trials 1 and 2 were similar to those presented in Table 10.
+Results from the stable steroid phase Asthma Trial 1 are shown in Table 12.
+Results from the stable steroid phase of Asthma Trial 2 and the steroid reduction phases of both Asthma Trials 1 and 2 were similar to those presented in Table 12.
 
-Table 9.
-Frequency of Asthma Exacerbations per Patient by Phase in Trials 1 and 2
+Table 11.
+Frequency of Asthma Exacerbations per Patient by Phase in Asthma Trials 1 and 2
 
 |  | Stable Steroid Phase (16 wks) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -58,8 +58,8 @@ Frequency of Asthma Exacerbations per Patient by Phase in Trials 1 and 2
 | p-Value | 0.004 |  | <0.001 |  |
 | Mean number exacerbations/patient | 0.2 | 0.4 | 0.2 | 0.3 |
 
-Table 10.
-Asthma Symptoms and Pulmonary Function During Stable Steroid Phase of Trial 1
+Table 12.
+Asthma Symptoms and Pulmonary Function During Stable Steroid Phase of Asthma Trial 1
 
 | Endpoint | Mean Baseline | Median Change (Baseline to Wk 16) | Mean Baseline | Median Change (Baseline to Wk 16) |
 | --- | --- | --- | --- | --- |
@@ -82,11 +82,11 @@ Patients were stratified by use of ICS-only or ICS with concomitant use of oral 
 Patients received XOLAIR for 16 weeks with an unchanged corticosteroid dose unless an acute exacerbation necessitated an increase.
 Patients then entered an ICS reduction phase of 16 weeks during which ICS or oral steroid dose reduction was attempted in a step-wise manner.
 
-The number of exacerbations in patients treated with XOLAIR was similar to that in placebo-treated patients (Table 11).
+The number of exacerbations in patients treated with XOLAIR was similar to that in placebo-treated patients (Table 13).
 The absence of an observed treatment effect may be related to differences in the patient population compared with Asthma Trials 1 and 2, study sample size, or other factors.
 
-Table 11.
-Percentage of Patients with Asthma Exacerbations by Subgroup and Phase in Trial 3
+Table 13.
+Percentage of Patients with Asthma Exacerbations by Subgroup and Phase in Asthma Trial 3
 
 |  | Stable Steroid Phase (16 wks) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -104,9 +104,9 @@ Reductions in exacerbations were not seen in patients who required oral steroids
 
 Pediatric Patients 6 to <12 Years of Age
 
-The safety and efficacy of XOLAIR in pediatric patients 6 to <12 years of age with moderate to severe asthma is based on one randomized, double-blind, placebo controlled, multi-center trial (Trial 4) and an additional supportive study (Trial 5).
+The safety and efficacy of XOLAIR in pediatric patients 6 to <12 years of age with moderate to severe asthma is based on one randomized, double-blind, placebo controlled, multi-center trial (Asthma Trial 4 [NCT00079937]) and an additional supportive study (Asthma Trial 5).
 
-Trial 4 was a 52-week study that evaluated the safety and efficacy of XOLAIR as add-on therapy in 628 pediatric patients ages 6 to <12 years with moderate to severe asthma inadequately controlled despite the use of inhaled corticosteroids (fluticasone propionate DPI ≥200 mcg/day or equivalent) with or without other controller asthma medications.
+Asthma Trial 4 was a 52-week study that evaluated the safety and efficacy of XOLAIR as add-on therapy in 628 pediatric patients ages 6 to <12 years with moderate to severe asthma inadequately controlled despite the use of inhaled corticosteroids (fluticasone propionate DPI ≥200 mcg/day or equivalent) with or without other controller asthma medications.
 Eligible patients were those with a diagnosis of asthma >1 year, a positive skin prick test to at least one perennial aeroallergen, and a history of clinical features such as daytime and/or night-time symptoms and exacerbations within the year prior to study entry.
 During the first 24 weeks of treatment, steroid doses remained constant from baseline.
 This was followed by a 28-week period during which inhaled corticosteroid adjustment was allowed.
@@ -118,15 +118,15 @@ At 24 weeks, the XOLAIR group had a statistically significantly lower rate of as
 The XOLAIR group also had a lower rate of asthma exacerbations compared to placebo over the full 52-week double-blind treatment period (0.78 vs. 1.36; rate ratio: 0.57; 95% CI: 0.45, 0.72).
 Other efficacy variables such as nocturnal symptom scores, beta-agonist use, and measures of airflow (FEV1) were not significantly different in XOLAIR-treated patients compared to placebo.
 
-Trial 5 was a 28-week randomized, double blind, placebo-controlled study that primarily evaluated safety in 334 pediatric patients, 298 of whom were 6 to <12 years of age, with moderate to severe asthma who were well-controlled with inhaled corticosteroids (beclomethasone dipropionate 168-420 mcg/day).
+Asthma Trial 5 was a 28-week randomized, double blind, placebo-controlled study that primarily evaluated safety in 334 pediatric patients, 298 of whom were 6 to <12 years of age, with moderate to severe asthma who were well-controlled with inhaled corticosteroids (beclomethasone dipropionate 168-420 mcg/day).
 A 16-week steroid treatment period was followed by a 12-week steroid dose reduction period.
 Patients treated with XOLAIR had fewer asthma exacerbations compared to placebo during both the 16-week fixed steroid treatment period (0.18 vs. 0.32; rate ratio: 0.58; 95% CI: 0.35, 0.96) and the 28-week treatment period (0.38 vs. 0.76; rate ratio: 0.50; 95% CI: 0.36, 0.71).
 
-## 14.2 Chronic Rhinosinusitis with Nasal Polyps (CRSwNP)
+## 14.2 Chronic Rhinosinusitis with Nasal Polyps
 
 Adult Patients 18 Years of Age and Older
 
-The safety and efficacy of XOLAIR was evaluated in two, randomized, multicenter, double-blind, placebo-controlled clinical trials that enrolled patients with CRSwNP with inadequate response to nasal corticosteroids (CRSwNP Trial 1, n=138; CRSwNP Trial 2, n=127).
+The safety and efficacy of XOLAIR was evaluated in two, randomized, multicenter, double-blind, placebo-controlled clinical trials (CRSwNP Trial 1 [NCT03280550] and CRSwNP Trial 2 [NCT03280537]) that enrolled patients with chronic rhinosinusitis with nasal polyps (CRSwNP) with inadequate response to nasal corticosteroids (CRSwNP Trial 1, n=138; CRSwNP Trial 2, n=127).
 Patients received XOLAIR or placebo SC every 2 or 4 weeks, with XOLAIR dosage and frequency according to Table 3, for 24 weeks followed by a 4-week follow-up period.
 All patients received background nasal mometasone therapy during both the treatment period and during a 5-week run-in period.
 Prior to randomization, patients were required to have evidence of bilateral polyps as determined by a nasal polyp score (NPS) ≥ 5 with NPS ≥ 2 in each nostril, despite use of nasal mometasone during the run-in period.
@@ -134,9 +134,9 @@ NPS was measured via endoscopy and scored (range 0-4 per nostril: 0= no polyps; 
 Patients were furthermore required to have a weekly average of nasal congestion score (NCS) > 1 prior to randomization, despite use of nasal mometasone.
 Nasal congestion was measured by a daily assessment on a 0 to 3 point severity scale (0=none, 1=mild, 2=moderate, 3=severe).
 Prior sino-nasal surgery or prior systemic corticosteroid usage were not required for inclusion in the trials and sinus CT scans were not performed to evaluate for sinus opacification.
-Demographics and baseline characteristics, including allergic comorbidities, are described in Table 12.
+Demographics and baseline characteristics, including allergic comorbidities, are described in Table 14.
 
-Table 12.
+Table 14.
 Demographics and Baseline Characteristics of CRSwNP Trials 1 and 2
 
 | Parameter | CRSwNP Trial 1 (n=138) | CRSwNP Trial 2 (n=127) |
@@ -156,13 +156,13 @@ Demographics and Baseline Characteristics of CRSwNP Trials 1 and 2
 | Aspirin exacerbated respiratory disease (%) | 20 | 35 |
 | CRSwNP= chronic rhinosinusitis with nasal polyps; SD=standard deviation; NPS=nasal polyp score; IgE = Immunoglobulin E; IU=international units. For NPS, NCS, sense of smell, post nasal drip, and runny nose, higher scores indicate greater disease severity. |  |  |
 
-The co-primary endpoints in Trials 1 and 2 were NPS and average daily NCS at Week 24.
+The co-primary endpoints in CRSwNP Trials 1 and 2 were NPS and average daily NCS at Week 24.
 In both trials, patients who received XOLAIR had a statistically significant greater improvement from baseline at Week 24 in NPS and weekly average NCS, than patients who received placebo.
-Results from CRSwNP Trials 1 and 2 are shown in Table 13.
+Results from CRSwNP Trials 1 and 2 are shown in Table 15.
 
 The greater improvements in NPS and NCS in the XOLAIR group compared to the placebo group were observed as early as the first assessment at Week 4 in both studies, as seen in Figure 1.
 
-Table 13.
+Table 15.
 Change from Baseline at Week 24 in Nasal Polyp Score and 7-day Average of Daily Nasal Congestion Score in CRSwNP Trials 1 and 2
 
 |  | Placebo | XOLAIR | Placebo | XOLAIR |
@@ -187,13 +187,13 @@ The mean NPS and NCS at each study week by treatment group is shown in Figure 1.
 
 XOLAIR had statistically significant improvements on sense of smell score compared to placebo.
 Sense of smell was measured by a daily assessment on a 0 to 3 point severity scale (0=no symptoms, 1=mild symptoms, 2=moderate symptoms, 3=severe symptoms).
-The LS mean difference for change from baseline at Week 24 in sense of smell score in XOLAIR compared to placebo was -0.3 (95% CI: -0.6, -0.1) in Trial 1 and -0.5 (95% CI: -0.7, -0.2) in Trial 2.
+The LS mean difference for change from baseline at Week 24 in sense of smell score in XOLAIR compared to placebo was -0.3 (95% CI: -0.6, -0.1) in CRSwNP Trial 1 and -0.5 (95% CI: -0.7, -0.2) in CRSwNP Trial 2.
 
 XOLAIR had statistically significant improvements on post-nasal drip compared to placebo.
-The LS mean difference for change from baseline at Week 24 in post-nasal drip score in XOLAIR compared to placebo was -0.6 (95% CI: -0.8, -0.3) in Trial 1 and -0.5 (95% CI: -0.8, -0.3) in Trial 2.
+The LS mean difference for change from baseline at Week 24 in post-nasal drip score in XOLAIR compared to placebo was -0.6 (95% CI: -0.8, -0.3) in CRSwNP Trial 1 and -0.5 (95% CI: -0.8, -0.3) in CRSwNP Trial 2.
 
 XOLAIR had statistically significant improvements on runny nose compared to placebo.
-The LS mean difference for change from baseline at Week 24 in runny nose score in XOLAIR compared to placebo was -0.4 (95% CI: -0.7, -0.2) in Trial 1 and -0.6 (95% CI: -0.9, -0.4) in Trial 2.
+The LS mean difference for change from baseline at Week 24 in runny nose score in XOLAIR compared to placebo was -0.4 (95% CI: -0.7, -0.2) in CRSwNP Trial 1 and -0.6 (95% CI: -0.9, -0.4) in CRsWNP Trial 2.
 
 In a pre-specified pooled analysis of systemic corticosteroid use during the 24-week treatment period, there was no significant reduction in systemic corticosteroid use between the treatment arms.
 The proportion of patients taking systemic corticosteroid in XOLAIR was 2.3% compared to 6.2% in placebo.
@@ -201,11 +201,55 @@ The odds-ratio of systemic corticosteroid use with XOLAIR compared to placebo wa
 
 There were no sino-nasal surgeries reported, in either placebo or XOLAIR arms, in either Trial.
 
-## 14.3 Chronic Spontaneous Urticaria (CSU)
+## 14.3 IgE-Mediated Food Allergy
+
+The safety and efficacy of XOLAIR was evaluated in a multi-center, randomized, double-blind, placebo-controlled Food Allergy (FA) trial [NCT03881696] in 168 adult patients and pediatric patients 1 year of age to less than 56 years who were allergic to peanut and at least two other foods, including milk, egg, wheat, cashew, hazelnut, or walnut (i.e., studied foods).
+The FA trial enrolled patients who experienced dose-limiting symptoms (e.g., moderate to severe skin, respiratory or gastrointestinal symptoms) to a single dose of ≤100 mg of peanut protein and ≤300 mg protein for each of the other two foods (milk, egg, wheat, cashew, hazelnut, or walnut) during the screening double-blind placebo-controlled food challenge (DBPCFC).
+Patients with a history of severe anaphylaxis (defined as neurological compromise or requiring intubation) were excluded from the study.
+Patients were randomized 2:1 to receive a subcutaneous dosage of XOLAIR or placebo based on serum total IgE level (IU/mL), measured before the start of treatment, and by body weight according to Table 4 [see Dosage and Administration (2.4)] for 16 to 20 weeks.
+After 16 to 20 weeks of treatment, each patient completed a DBPCFC consisting of placebo and each of their 3 studied foods.
+Following the DBPCFC, the first 60 patients that included 59 pediatric patients and one adult patient who completed the double-blind, placebo-controlled phase of the study could continue to receive XOLAIR in a 24 to 28 week open-label extension.
+
+Efficacy of XOLAIR is based on 165 pediatric patients who were included in the efficacy analyses provided below.
+The mean age of the pediatric patients was 8 years (age range: 1 to 17 years); 37% were less than 6 years of age, 38% were 6 to less than 12 years of age, and 25% were 12 to less than 18 years of age.
+Patient population were 56% male, 63% White, 13% Asian, 7% Black, 16% Other, and 55% of patients had a history of asthma.
+
+The primary efficacy endpoint was the percentage of patients who were able to consume a single dose of ≥600 mg of peanut protein without dose-limiting symptoms (e.g., moderate to severe skin, respiratory or gastrointestinal symptoms) during DBPCFC.
+Table 16 shows XOLAIR treatment led to a statistically higher response rate (68%) than placebo (5%).
+
+The secondary efficacy endpoints were the percentage of patients who were able to consume a single dose of ≥1000 mg of cashew, milk, or egg protein without dose-limiting symptoms during DBPCFC.
+The study met the secondary endpoints and demonstrated that XOLAIR treatment led to statistically higher response rates than placebo for all three foods.
+See Table 16 for details.
+
+Table 16.
+DBPCFC Response Rates in Pediatric Patients for Single Dose of Peanut, Cashew, Milk or Egg Protein in FA Trial
+
+| XOLAIR | Placebo |  |  |
+| --- | --- | --- | --- |
+| Food, Challenge Dose | Response RateResponse defined as consumption of a single dose of the specified amount of food without dose-limiting symptoms. (%) (n/N) |  | Treatment Difference (%) (XOLAIR-Placebo) (95% CI) |
+| Peanut, ≥600 mg | 68% (75/110) | 5% (3/55) | 63% (50%, 73%) |
+| Peanut, ≥1000 mgConsumption of a single dose of ≥1000 mg of peanut protein was an additional secondary endpoint. The key secondary efficacy endpoints were the percentage of patients who were able to consume a single dose of ≥1000 mg of cashew, milk, or egg protein. | 65% (72/110) | 0% (0/55) | 65% (56%, 74%) |
+| Cashew, ≥1000 mg | 42% (27/64) | 3% (1/30) | 39% (20%, 53%) |
+| Milk, ≥1000 mg | 66% (25/38) | 11% (2/19) | 55% (29%, 73%) |
+| Egg, ≥1000 mg | 67% (31/46) | 0% (0/19) | 67% (49%, 80%) |
+| CI = Confidence interval; DBPCFC = Double-blind placebo-controlled food challenge; n = Number of responders; N = Total number of patients receiving food, challenge dose. Notes: Subjects without an exit DBPCFC or evaluable exit DBPCFC were counted as non-responders; P-values from two-sided Fisher's exact tests were <0.0001 for all the food challenge doses. |  |  |  |
+
+Seventeen percent of XOLAIR treated patients were not able to consume >100 mg of peanut protein without moderate to severe dose-limiting symptoms.
+Eighteen, 22, and 41 percent of XOLAIR-treated patients were not able to consume >300 mg of milk, egg, or cashew protein, respectively, without moderate to severe dose-limiting symptoms.
+
+Additional secondary analyses included the percentage of patients who were able to consume at least two or all three foods during DBPCFC.
+For two foods, 71% of XOLAIR treated patients were able to consume a single dose of ≥600 mg versus 5% in the placebo group and 67% were able to consume a single dose of ≥1000 mg versus 4% in the placebo group.
+For a single dose of ≥600 mg of three foods, the response rates were 48% in the XOLAIR group versus 4% in the placebo group and for a single dose of ≥1000 mg of three foods, the response rate in the XOLAIR group was 39% while none of the placebo patients were able to consume the challenge dose without symptoms.
+
+The effectiveness of XOLAIR in adults is supported by the adequate and well-controlled trial of XOLAIR in pediatric patients, disease similarity in pediatric and adult patients, and pharmacokinetic (PK) similarity [see Clinical Pharmacology (12.3)].
+
+While efficacy cannot be established from uncontrolled, open-label studies, for 38 pediatric patients who continued XOLAIR for 24-28 weeks in an open-label extension, the percentage of patients who were able to consume ≥600 mg of peanut protein and ≥1000 mg of egg, milk, and/or cashew protein without moderate to severe dose-limiting symptoms was maintained.
+
+## 14.4 Chronic Spontaneous Urticaria
 
 Adult and Adolescent Patients 12 Years of Age and Older
 
-The safety and efficacy of XOLAIR for the treatment of CSU, previously referred to as chronic idiopathic urticaria (CIU) was assessed in two placebo-controlled, multiple-dose clinical trials of 24 weeks' duration (CSU Trial 1; n= 319) and 12 weeks' duration (CSU Trial 2; n=322).
+The safety and efficacy of XOLAIR for the treatment of chronic spontaneous urticaria (CSU), previously referred to as chronic idiopathic urticaria (CIU) was assessed in two placebo-controlled, multiple-dose clinical trials of 24 weeks' duration (CSU Trial 1; n= 319, [NCT01287117]) and 12 weeks' duration (CSU Trial 2; n=322, [NCT01292473]).
 Patients received XOLAIR 75 mg, 150 mg, or 300 mg or placebo by SC injection every 4 weeks in addition to their baseline level of H1 antihistamine therapy for 24 or 12 weeks, followed by a 16-week washout observation period.
 A total of 640 patients (165 males, 475 females) were included for the efficacy analyses.
 Most patients were white (84%) and the median age was 42 years (range 12–72).
@@ -217,11 +261,11 @@ The mean weekly itch severity scores at baseline were fairly balanced across tre
 The reported median durations of CSU at enrollment across treatment groups were between 2.5 and 3.9 years (with an overall subject-level range of 0.5 to 66.4 years).
 
 In both CSU Trials 1 and 2, patients who received XOLAIR 150 mg or 300 mg had greater decreases from baseline in weekly itch severity scores and weekly hive count scores than placebo at Week 12.
-Representative results from CSU Trial 1 are shown (Table 14); similar results were observed in CSU Trial 2.
+Representative results from CSU Trial 1 are shown (Table 17); similar results were observed in CSU Trial 2.
 The 75-mg dose did not demonstrate consistent evidence of efficacy and is not approved for use.
 
-Table 14.
-Change from Baseline to Week 12 in Weekly Itch Severity Score and Weekly Hive Count Score in CSU Trial 1 Modified intent-to-treat (mITT) population: all patients who were randomized and received at least one dose of study medication.
+Table 17.
+Change from Baseline to Week 12 in Weekly Itch Severity Score and Weekly Hive Count Score in CSU Trial 1Modified intent-to-treat (mITT) population: all patients who were randomized and received at least one dose of study medication.
 
 |  | XOLAIR 75mg | XOLAIR 150mg | XOLAIR 300mg | Placebo |
 | --- | --- | --- | --- | --- |

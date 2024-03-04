@@ -6,16 +6,25 @@ XOLAIR is indicated for adults and pediatric patients 6 years of age and older w
 
 Limitations of Use:
 
-- XOLAIR is not indicated for the relief of acute bronchospasm or status asthmaticus.
-- XOLAIR is not indicated for treatment of other allergic conditions.
+XOLAIR is not indicated for the relief of acute bronchospasm or status asthmaticus.
 
-## 1.2 Chronic Rhinosinusitis with Nasal Polyps (CRSwNP)
+## 1.2 Chronic Rhinosinusitis with Nasal Polyps
 
 XOLAIR is indicated for add-on maintenance treatment of chronic rhinosinusitis with nasal polyps (CRSwNP) in adult patients 18 years of age and older with inadequate response to nasal corticosteroids.
 
-## 1.3 Chronic Spontaneous Urticaria (CSU)
+## 1.3 IgE-Mediated Food Allergy
 
-XOLAIR is indicated for the treatment of adults and adolescents 12 years of age and older with chronic spontaneous urticaria who remain symptomatic despite H1 antihistamine treatment.
+XOLAIR is indicated for the reduction of allergic reactions (Type I), including anaphylaxis, that may occur with accidental exposure to one or more foods in adult and pediatric patients aged 1 year and older with IgE-mediated food allergy.
+
+XOLAIR is to be used in conjunction with food allergen avoidance.
+
+Limitations of Use:
+
+XOLAIR is not indicated for the emergency treatment of allergic reactions, including anaphylaxis.
+
+## 1.4 Chronic Spontaneous Urticaria
+
+XOLAIR is indicated for the treatment of adults and adolescents 12 years of age and older with chronic spontaneous urticaria (CSU) who remain symptomatic despite H1 antihistamine treatment.
 
 Limitations of Use:
 

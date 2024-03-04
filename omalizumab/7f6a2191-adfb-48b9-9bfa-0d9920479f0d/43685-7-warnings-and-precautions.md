@@ -9,18 +9,18 @@ In premarketing clinical trials in patients with asthma, anaphylaxis was reporte
 Anaphylaxis occurred with the first dose of XOLAIR in two patients and with the fourth dose in one patient.
 The time to onset of anaphylaxis was 90 minutes after administration in two patients and 2 hours after administration in one patient.
 
-A case-control study showed that, among XOLAIR users, patients with a history of anaphylaxis to foods, medications, or other causes were at increased risk of anaphylaxis associated with XOLAIR, compared to those with no prior history of anaphylaxis [see Adverse Reactions (6.1)].
+A case-control study in asthma patients showed that, among XOLAIR users, patients with a history of anaphylaxis to foods, medications, or other causes were at increased risk of anaphylaxis associated with XOLAIR, compared to those with no prior history of anaphylaxis [see Adverse Reactions (6.1)].
 
 In postmarketing spontaneous reports, the frequency of anaphylaxis attributed to XOLAIR use was estimated to be at least 0.2% of patients based on an estimated exposure of about 57,300 patients from June 2003 through December 2006.
 Anaphylaxis has occurred as early as after the first dose of XOLAIR, but also has occurred beyond one year after beginning regularly scheduled treatment.
 Approximately 60% to 70% of anaphylaxis cases have been reported to occur within the first three doses of XOLAIR, with additional cases occurring sporadically beyond the third dose.
 
 Initiate XOLAIR only in a healthcare setting equipped to manage anaphylaxis, which can be life-threatening.
-Observe patients closely for an appropriate period of time after administration of XOLAIR, taking into account the time to onset of anaphylaxis seen in premarketing clinical trials and postmarketing spontaneous reports [see Adverse Reactions (6)].
+Observe patients closely for an appropriate period of time after administration of XOLAIR, taking into account the time to onset of anaphylaxis seen in premarketing clinical trials and postmarketing spontaneous reports [see Adverse Reactions (6.1, 6.2)].
 Inform patients of the signs and symptoms of anaphylaxis, and instruct them to seek immediate medical care should signs or symptoms occur.
 
 Once XOLAIR therapy has been established, administration of XOLAIR prefilled syringe or autoinjector outside of a healthcare setting by a patient or a caregiver may be appropriate for selected patients.
-Patient selection, determined by the healthcare provider in consultation with the patient, should take into account the pattern of anaphylaxis events seen in premarketing clinical trials and postmarketing spontaneous reports, as well as individual patient risk factors (e.g., prior history of anaphylaxis), ability to recognize signs and symptoms of anaphylaxis, and ability to perform subcutaneous injections with XOLAIR prefilled syringe or autoinjector with proper technique according to the prescribed dosing regimen and Instructions for Use [see Dosage and Administration (2.5), Adverse Reactions (6)].
+Patient selection, determined by the healthcare provider in consultation with the patient, should take into account the pattern of anaphylaxis events seen in premarketing clinical trials and postmarketing spontaneous reports, as well as individual patient risk factors (e.g., prior history of anaphylaxis), ability to recognize signs and symptoms of anaphylaxis, and ability to perform subcutaneous injections with XOLAIR prefilled syringe or autoinjector with proper technique according to the prescribed dosing regimen and Instructions for Use [see Dosage and Administration (2.6), Adverse Reactions (6.1, 6.2)].
 
 Discontinue XOLAIR in patients who experience a severe hypersensitivity reaction [see Contraindications (4)].
 
@@ -32,7 +32,7 @@ The majority of patients were observed for less than 1 year.
 The impact of longer exposure to XOLAIR or use in patients at higher risk for malignancy (e.g., elderly, current smokers) is not known.
 
 In a subsequent observational study of 5007 XOLAIR-treated and 2829 non-XOLAIR-treated adolescent and adult patients with moderate to severe persistent asthma and a positive skin test reaction or in vitro reactivity to a perennial aeroallergen, patients were followed for up to 5 years.
-In this study, the incidence rates of primary malignancies (per 1000 patient years) were similar among XOLAIR-treated (12.3) and non-XOLAIR-treated patients (13.0) [see Adverse Reactions (6)].
+In this study, the incidence rates of primary malignancies (per 1000 patient years) were similar among XOLAIR-treated (12.3) and non-XOLAIR-treated patients (13.0) [see Adverse Reactions (6.1)].
 However, study limitations preclude definitively ruling out a malignancy risk with XOLAIR.
 Study limitations include: the observational study design, the bias introduced by allowing enrollment of patients previously exposed to XOLAIR (88%), enrollment of patients (56%) while a history of cancer or a premalignant condition were study exclusion criteria, and the high study discontinuation rate (44%).
 
@@ -60,7 +60,7 @@ A causal association between XOLAIR and these underlying conditions has not been
 In post-approval use, some patients have experienced a constellation of signs and symptoms including arthritis/arthralgia, rash, fever, and lymphadenopathy with an onset 1 to 5 days after the first or subsequent injections of XOLAIR.
 These signs and symptoms have recurred after additional doses in some patients.
 Although circulating immune complexes or a skin biopsy consistent with a Type III reaction were not seen with these cases, these signs and symptoms are similar to those seen in patients with serum sickness.
-Physicians should stop XOLAIR if a patient develops this constellation of signs and symptoms [see Adverse Reactions (6.3)].
+Physicians should stop XOLAIR if a patient develops this constellation of signs and symptoms [see Adverse Reactions (6.2)].
 
 ## 5.7 Parasitic (Helminth) Infection
 
@@ -75,4 +75,11 @@ Response to appropriate anti-geohelminth treatment of infection as measured by s
 
 Serum total IgE levels increase following administration of XOLAIR due to formation of XOLAIR:IgE complexes [see Clinical Pharmacology (12.2)].
 Elevated serum total IgE levels may persist for up to 1 year following discontinuation of XOLAIR.
-Do not use serum total IgE levels obtained less than 1 year following discontinuation to reassess the dosing regimen for asthma or CRSwNP patients, because these levels may not reflect steady- state free IgE levels [see Dosage and Administration (2.2, 2.3)].
+Do not use serum total IgE levels obtained less than 1 year following discontinuation to reassess the dosing regimen for asthma, CRSwNP or IgE-mediated food allergy patients, because these levels may not reflect steady-state free IgE levels [see Dosage and Administration (2.2, 2.3, 2.4)].
+
+## 5.9 Potential Medication Error Related to Emergency Treatment of Anaphylaxis
+
+XOLAIR should not be used for the emergency treatment of allergic reactions, including anaphylaxis.
+In studies to simulate use, some patients and caregivers did not understand that XOLAIR is not intended for the emergency treatment of allergic reactions, including anaphylaxis.
+The safety and effectiveness of XOLAIR for emergency treatment of allergic reactions, including anaphylaxis, have not been established.
+Instruct patients that XOLAIR is for maintenance use to reduce allergic reactions, including anaphylaxis, while avoiding food allergens.

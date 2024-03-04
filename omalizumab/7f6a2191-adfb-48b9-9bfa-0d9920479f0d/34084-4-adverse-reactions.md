@@ -18,11 +18,11 @@ Patients received XOLAIR 150 mg to 375 mg every 2 or 4 weeks or, for patients as
 The adverse reactions most frequently resulting in clinical intervention (e.g., discontinuation of XOLAIR, or the need for concomitant medication to treat an adverse reaction) were injection site reaction (45%), viral infections (23%), upper respiratory tract infection (20%), sinusitis (16%), headache (15%), and pharyngitis (11%).
 These reactions were observed at similar rates in XOLAIR-treated patients and control patients.
 
-Table 6 shows adverse reactions from four placebo-controlled asthma trials that occurred ≥1% and more frequently in adult and adolescent patients 12 years of age and older receiving XOLAIR than in those receiving placebo.
+Table 7 shows adverse reactions from four placebo-controlled asthma trials that occurred ≥1% and more frequently in adult and adolescent patients 12 years of age and older receiving XOLAIR than in those receiving placebo.
 Adverse reactions were classified using preferred terms from the International Medical Nomenclature (IMN) dictionary.
 Injection site reactions were recorded separately from the reporting of other adverse reactions.
 
-Table 6.
+Table 7.
 Adverse Reactions ≥1% More Frequent in XOLAIR-Treated Adult or Adolescent Patients 12 years of Age and Older in Four Placebo-controlled Asthma Trials
 
 | Adverse reaction | XOLAIR n=738 | Placebo n=717 |
@@ -53,7 +53,7 @@ The study found that a self-reported history of anaphylaxis to foods, medication
 Because this is a case-control study, the study cannot provide the incidence of anaphylaxis among XOLAIR users.
 From other sources, anaphylaxis to XOLAIR was observed in 0.1% of patients in clinical trials and at least 0.2% of patients based upon postmarketing reports.
 Approximately 60% to 70% of cases were reported to occur within the first three doses of XOLAIR, with additional cases occurring sporadically beyond the third dose.
-The time to onset for anaphylaxis was reported to occur within 2 hours for the majority of cases (approximately 75%) - [see Warnings and Precautions (5.1), Adverse Reactions (6.2)].
+The time to onset for anaphylaxis was reported to occur within 2 hours for the majority of cases (approximately 75%) [see Warnings and Precautions (5.1), Adverse Reactions (6.2)].
 
 Injection Site Reactions
 
@@ -76,15 +76,15 @@ The most common adverse reactions occurring at ≥3% in the pediatric patients r
 The adverse reactions most frequently resulting in clinical intervention (e.g., discontinuation of XOLAIR, or the need for concomitant medication to treat an adverse event) were bronchitis (0.2%), headache (0.2%) and urticaria (0.2%).
 These reactions were observed at similar rates in XOLAIR-treated patients and control patients.
 
-Adverse Reactions from Clinical Studies in Adult Patients with Chronic Rhinosinusitis with Nasal Polyps (CRSwNP)
+Adverse Reactions from Clinical Studies in Adult Patients with Chronic Rhinosinusitis with Nasal Polyps
 
 The data described below reflect XOLAIR exposure for 135 patients ≥ 18 years of age, exposed for six months in two placebo-controlled studies.
 The mean age of patients receiving XOLAIR was 49.7 years; 64% were male, and 94% were Caucasian.
 Patients received XOLAIR or placebo SC every 2 or 4 weeks, with dosage and frequency according to Table 3.
 All patients received background nasal mometasone therapy throughout the study.
-Table 7 lists the adverse reactions occurring in ≥3% of XOLAIR-treated patients and more frequently than in patients treated with placebo in CRSwNP Trials 1 and 2; results were pooled.
+Table 8 lists the adverse reactions occurring in ≥3% of XOLAIR-treated patients and more frequently than in patients treated with placebo in chronic rhinosinusitis with nasal polyps (CRSwNP) Trials 1 and 2; results were pooled.
 
-Table 7.
+Table 8.
 Adverse Reactions Occurring in ≥3% of XOLAIR-Treated Patients and More Frequently than in Patients Treated with Placebo in CRSwNP Trials 1 and 2
 
 | Adverse reaction | XOLAIR n=135 | Placebo n=130 |
@@ -92,7 +92,7 @@ Adverse Reactions Occurring in ≥3% of XOLAIR-Treated Patients and More Frequen
 | Gastrointestinal disorder |  |  |
 | Upper abdominal pain | 4 (3.0%) | 1 (0.8%) |
 | General disorders and administration site conditions |  |  |
-| Injection site reactionsInjection site reactions terms: 'injection site reaction', 'injection related reaction' and 'injection site pain'. All of the injection site reactions were mild to moderate severity and none resulted in study discontinuation | 7 (5.2%) | 2 (1.5%) |
+| Injection site reactionsInjection site reactions terms: 'injection site reaction', 'injection related reaction' and 'injection site pain'. All injection site reactions were mild to moderate severity and none resulted in study discontinuation. | 7 (5.2%) | 2 (1.5%) |
 | Musculoskeletal system and connective tissue disorders |  |  |
 | Arthralgia | 4 (3.0%) | 2 (1.5%) |
 | Nervous system disorders |  |  |
@@ -100,19 +100,37 @@ Adverse Reactions Occurring in ≥3% of XOLAIR-Treated Patients and More Frequen
 | Dizziness | 4 (3.0%) | 1 (0.8%) |
 | CRSwNP = Chronic Rhinosinusitis with Nasal Polyps. |  |  |
 
-Adverse Reactions from Clinical Studies in Patients with Chronic Spontaneous Urticaria (CSU)
+Adverse Reactions from a Clinical Study in Patients with IgE-Mediated Food Allergy
 
-The safety of XOLAIR for the treatment of CSU was assessed in three placebo-controlled, multiple-dose clinical trials of 12 weeks' (CSU Trial 2) and 24 weeks' duration (CSU Trials 1 and 3).
+The safety of XOLAIR in patients with IgE-mediated allergic reactions (Type I), including anaphylaxis, that may occur with accidental exposure to one or more foods, was based on data from the Food Allergy (FA) Trial, a randomized, double-blind, placebo-controlled trial in 168 patients (165 pediatric patients and 3 adults) who were allergic to peanut and at least two other foods [see Clinical Studies (14.3)].
+Patients received a dosage of XOLAIR or placebo subcutaneously every 2 or 4 weeks for 16 to 20 weeks according to the recommended dosage based on IgE level (IU/mL), measured before the start of treatment, and by body weight (kg) provided in Table 4 [see Dosage and Administration (2.4)].
+Safety data provided in Table 9 are from the primary analysis population of pediatric patients aged 1 year to 17 years.
+Safety data obtained from adults (n=3) in this trial was limited.
+Table 9 lists the adverse reactions occurring in ≥3% of XOLAIR-treated pediatric patients and more frequently than in patients treated with placebo in the FA trial.
+There were no discontinuations due to adverse reactions.
+
+Table 9.
+Adverse Reactions Occurring in ≥3% of XOLAIR-Treated Pediatric Patients 1 Year of Age and Older and More Frequently than in Patients Treated with Placebo in FA Trial
+
+| Adverse Reaction | XOLAIR n=110 | Placebo n=55 |
+| --- | --- | --- |
+| General disorders and administration site conditions |  |  |
+| Injection site reactionsInjection site reactions terms: 'injection site reaction','injection site urticaria','injection site discomfort','injection site erythema','injection site pain' and 'injection site rash'. All injection site reactions were mild to moderate severity and none resulted in study discontinuation. | 17 (15.5%) | 6 (10.9%) |
+| Pyrexia | 7 (6.4%) | 2 (3.6%) |
+
+Adverse Reactions from Clinical Studies in Patients with Chronic Spontaneous Urticaria
+
+The safety of XOLAIR for the treatment of chronic spontaneous urticaria (CSU) was assessed in three placebo-controlled, multiple-dose clinical trials of 12 weeks' (CSU Trial 2) and 24 weeks' duration (CSU Trials 1 and 3).
 In CSU Trials 1 and 2, patients received XOLAIR 75 mg, 150 mg, or 300 mg or placebo every 4 weeks in addition to their baseline level of H1 antihistamine therapy throughout the treatment period.
 In CSU Trial 3 patients were randomized to XOLAIR 300 mg or placebo every 4 weeks in addition to their baseline level of H1 antihistamine therapy.
 The data described below reflect XOLAIR exposure for 733 patients enrolled and receiving at least one dose of XOLAIR in the three clinical trials, including 684 patients exposed for 12 weeks and 427 exposed for 24 weeks.
 The mean age of patients receiving XOLAIR 300 mg was 43 years, 75% were women, and 89% were white.
 The demographic profiles for patients receiving XOLAIR 150 mg and 75 mg were similar.
 
-Table 8 shows adverse reactions that occurred in ≥2% of patients receiving XOLAIR (150 or 300 mg) and more frequently than those receiving placebo.
-Adverse reactions are pooled from Trial 2 and the first 12 weeks of Trials 1 and 3.
+Table 10 shows adverse reactions that occurred in ≥2% of patients receiving XOLAIR (150 or 300 mg) and more frequently than those receiving placebo.
+Adverse reactions are pooled from CSU Trial 2 and the first 12 weeks of CSU Trials 1 and 3.
 
-Table 8.
+Table 10.
 Adverse Reactions Occurring in ≥2% in XOLAIR-Treated Patients and More Frequently than in Patients Treated with Placebo (Day 1 to Week 12) in CSU Trials
 
 | 150mg (n=175) | 300mg (n=412) | Placebo (n=242) |  |
@@ -132,7 +150,7 @@ Adverse Reactions Occurring in ≥2% in XOLAIR-Treated Patients and More Frequen
 | Respiratory, thoracic, and mediastinal disorders |  |  |  |
 | Cough | 2 (1.1%) | 9 (2.2%) | 3 (1.2%) |
 
-Additional reactions reported during the 24-week treatment period in Trials 1 and 3 [≥2% of patients receiving XOLAIR (150 mg or 300 mg) and more frequently than those receiving placebo] included: toothache, fungal infection, urinary tract infection, myalgia, pain in extremity, musculoskeletal pain, peripheral edema, pyrexia, migraine, sinus headache, anxiety, oropharyngeal pain, asthma, urticaria, and alopecia.
+Additional reactions reported during the 24-week treatment period in CSU Trials 1 and 3 [≥2% of patients receiving XOLAIR (150 mg or 300 mg) and more frequently than those receiving placebo] included: toothache, fungal infection, urinary tract infection, myalgia, pain in extremity, musculoskeletal pain, peripheral edema, pyrexia, migraine, sinus headache, anxiety, oropharyngeal pain, asthma, urticaria, and alopecia.
 
 Injection Site Reactions in Patients with CSU
 
@@ -168,10 +186,11 @@ In an open label trial in healthy adults, in which the 300 mg/2 mL autoinjector 
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of XOLAIR in adult and adolescent patients 12 years of age and older.
+The following adverse reactions have been identified during postapproval use of XOLAIR.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Anaphylaxis: Based on spontaneous reports and an estimated exposure of about 57,300 patients from June 2003 through December 2006, the frequency of anaphylaxis attributed to XOLAIR use was estimated to be at least 0.2% of patients.
+
 Diagnostic criteria of anaphylaxis were skin or mucosal tissue involvement, and, either airway compromise, and/or reduced blood pressure with or without associated symptoms, and a temporal relationship to XOLAIR administration with no other identifiable cause.
 Signs and symptoms in these reported cases included bronchospasm, hypotension, syncope, urticaria, angioedema of the throat or tongue, dyspnea, cough, chest tightness, and/or cutaneous angioedema.
 Pulmonary involvement was reported in 89% of the cases.
