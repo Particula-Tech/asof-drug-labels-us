@@ -50,9 +50,7 @@ Stroke volume, diastolic blood pressure and pulmonary artery end diastolic press
 
 ### Absorption
 
-The estimated oral bioavailability of immediate release metoprolol is about 50% because of pre-systemic metabolism which is saturable leading to non-proportionate increase in the exposure with increased
-
-dose.
+The estimated oral bioavailability of immediate release metoprolol is about 50% because of pre-systemic metabolism which is saturable leading to non-proportionate increase in the exposure with increased dose.
 
 ### Distribution
 

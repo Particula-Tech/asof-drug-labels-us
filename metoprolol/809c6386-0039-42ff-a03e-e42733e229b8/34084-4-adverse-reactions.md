@@ -2,17 +2,17 @@
 
 The following adverse reactions are described elsewhere in labeling:
 
-• Worsening angina or myocardial infarction [see Warnings and Precautions (5)]
-
-• Worsening heart failure [see Warnings and Precautions (5)].
-
-• Worsening AV block [see Contraindications (4)].
+- •Worsening angina or myocardial infarction [see Warnings and Precautions (5)].
+- •Worsening heart failure [see Warnings and Precautions (5)].
+- •Worsening AV block [see Contraindications (4)].
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Hypertension and Angina: Most adverse effects have been mild and transient.
+Hypertension and Angina
+
+Most adverse effects have been mild and transient.
 
 Central Nervous System: Tiredness and dizziness have occurred in about 10% of patients.
 Depression has been reported in about 5 of 100 patients.
@@ -35,7 +35,9 @@ Photosensitivity and worsening of psoriasis has been reported.
 
 Miscellaneous: Peyronie’s disease, musculoskeletal pain, blurred vision, and tinnitus has been reported.
 
-Myocardial Infarction: In general, the adverse reactions observed in trials with metoprolol in MI are consistent with the hypertension and angina experience.
+Myocardial Infarction
+
+In general, the adverse reactions observed in trials with metoprolol in MI are consistent with the hypertension and angina experience.
 
 In a randomized comparison of metoprolol tartrate tablets and placebo in the setting of acute MI the following adverse reactions were reported:
 
@@ -49,14 +51,17 @@ In a randomized comparison of metoprolol tartrate tablets and placebo in the set
 
 ## 6.2 Post-Marketing Experience
 
-The following adverse reactions have been identified during post approval use of drug X. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse reactions have been identified during post approval use of metoprolol tartrate tablets.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Central Nervous System:Reversible mental depression progressing to catatonia; an acute reversible syndrome characterized by disorientation for time and place, short-term memory loss, emotional lability, slightly clouded sensorium, and decreased performance on neuropsychometrics.
+Central Nervous System: Reversible mental depression progressing to catatonia; an acute reversible syndrome characterized by disorientation for time and place, short-term memory loss, emotional lability, slightly clouded sensorium, and decreased performance on neuropsychometrics.
 
 Cardiovascular: Intensification of AV block [see Contraindications (4)].
 
-Hematologic:Agranulocytosis, nonthrombocytopenic purpura and thrombocytopenic purpura.
+Hematologic: Agranulocytosis, nonthrombocytopenic purpura and thrombocytopenic purpura.
 
-Hypersensitive Reactions:Fever combined with aching and sore throat, laryngospasm and respiratory distress.
+Hypersensitive Reactions: Fever combined with aching and sore throat, laryngospasm and respiratory distress.
 
-Laboratory Findings: Increase in blood triglycerides, elevated transaminase and decrease in High Density Lipoprotein (HDL)
+Laboratory Findings
+
+Increase in blood triglycerides, elevated transaminase and decrease in High Density Lipoprotein (HDL)

@@ -4,6 +4,7 @@
 
 Individualize the dosage of metoprolol tartrate tablets.
 Metoprolol tartrate tablets should be taken with or immediately following meals.
+
 The usual initial dosage is 100 mg daily in single or divided doses.
 Adjust dosage at weekly (or longer) intervals until optimum blood pressure reduction is achieved.
 In general, the maximum effect of any given dosage level will be apparent after 1 week of therapy.

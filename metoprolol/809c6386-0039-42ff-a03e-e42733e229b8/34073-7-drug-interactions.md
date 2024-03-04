@@ -19,7 +19,7 @@ Monitor patients closely, when the combination cannot be avoided.
 ## 7.4 Negative Chronotropes
 
 Digitalis glycosides, clonidine, diltiazem and verapamil slow atrioventricular conduction and decrease heart rate.
-Concomitant use with beta blockers can increase the risk of bradycardia.
+Concomitant use with beta-blockers can increase the risk of bradycardia.
 
-If clonidine and a beta blocker, such as metoprolol are coadministered, withdraw the beta-blocker several days before the gradual withdrawal of clonidine because beta-blockers may exacerbate the rebound hypertension that can follow the withdrawal of clonidine.
+If clonidine and a beta-blocker, such as metoprolol are coadministered, withdraw the beta-blocker several days before the gradual withdrawal of clonidine because beta-blockers may exacerbate the rebound hypertension that can follow the withdrawal of clonidine.
 If replacing clonidine by beta-blocker therapy, delay the introduction of beta-blockers for several days after clonidine administration has stopped.

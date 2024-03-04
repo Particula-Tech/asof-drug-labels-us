@@ -8,7 +8,7 @@ It is very soluble in water; freely soluble in methylene chloride, in chloroform
 
 Metoprolol tartrate tablets, USP are available as 25 mg, 37.5 mg, 50 mg, 75 mg or 100 mg tablets for oral administration containing 25 mg, 37.5 mg, 50 mg, 75 mg or 100 mg metoprolol tartrate, respectively.
 
-Inactive ingredients: anhydrous lactose, colloidal silicon dioxide, croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose,polydextrose, polyethylene glycol, povidone, sodium lauryl sulfate, titanium dioxide and triacetin.
+Inactive Ingredients: anhydrous lactose, colloidal silicon dioxide, croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, povidone, sodium lauryl sulfate, titanium dioxide and triacetin.
 The 37.5 mg tablets also contain FD&C Blue No. 2 Aluminum Lake.
 The 50 mg tablets also contain FD&C Blue No. 2 Aluminum Lake, D&C Red No. 27 Aluminum Lake and FD&C Red No. 40 Aluminum Lake.
 The 100 mg tablets also contain FD&C Blue No. 2 Aluminum Lake.

@@ -12,7 +12,7 @@ All pregnancies have a background risk of birth defect, loss, or other adverse o
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-### Clinical consideration
+### Clinical Consideration
 
 #### Disease-associated maternal and/or embryo/fetal risk
 
@@ -51,11 +51,11 @@ The estimated relative infant dosage was 0.5% to 2% of the mother's weight-adjus
 No adverse reactions of metoprolol on the breastfed infant have been identified.
 There is no information regarding the effects of metoprolol on milk production.
 
-### Clinical consideration
+### Clinical Consideration
 
 #### Monitoring for adverse reactions
 
-For a lactating woman who is a slow metabolizer of metoprolol, monitor the breastfed infant for bradycardia and other symptoms of beta blockade such as dry mouth, skin or eyes, diarrhea or constipation.
+For a lactating woman who is a slow metabolizer of metoprolol, monitor the breastfed infant for bradycardia and other symptoms of beta-blockade such as dry mouth, skin or eyes, diarrhea or constipation.
 In a report of 6 mothers taking metoprolol, none reported adverse effects in her breastfed infant.
 
 ### Data
@@ -73,7 +73,7 @@ The average relative infant dosage was 0.5% of the mother's weight-adjusted dosa
 
 ### Risk Summary
 
-Based on the published literature, beta blockers (including metoprolol) may cause erectile dysfunction and inhibit sperm motility.
+Based on the published literature, beta-blockers (including metoprolol) may cause erectile dysfunction and inhibit sperm motility.
 In animal fertility studies, metoprolol has been associated with reversible adverse effects on spermatogenesis starting at oral dose level of 3.5 mg/kg in rats, which would correspond to a dose of 34 mg/day in humans in mg/m2 equivalent, although other studies have shown no effect of metoprolol on reproductive performance in male rats.
 
 No evidence of impaired fertility due to metoprolol was observed in rats [see Nonclinical Toxicology (13.1)].

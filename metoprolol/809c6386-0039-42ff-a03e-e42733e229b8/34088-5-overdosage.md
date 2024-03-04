@@ -1,9 +1,9 @@
 # 10 OVERDOSAGE
 
-Signs and Symptoms: Overdosage of metoprolol tartrate tablets may lead to severe bradycardia, hypotension, and cardiogenic shock.
+Signs and Symptoms – Overdosage of metoprolol tartrate tablets may lead to severe bradycardia, hypotension, and cardiogenic shock.
 Clinical presentation can also include: atrioventricular block, heart failure, bronchospasm, hypoxia, impairment of consciousness/coma, nausea and vomiting.
 
-Treatment: Consider treating the patient with intensive care.
+Treatment – Consider treating the patient with intensive care.
 Patients with myocardial infarction or heart failure may be prone to significant hemodynamic instability.
 Beta-blocker overdose may result in significant resistance to resuscitation with adrenergic agents, including beta-agonists.
 On the basis of the pharmacologic actions of metoprolol, employ the following measures.

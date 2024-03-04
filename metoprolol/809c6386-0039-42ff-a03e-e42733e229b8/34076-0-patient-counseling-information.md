@@ -7,14 +7,14 @@ Patients should not interrupt or discontinue metoprolol tartrate tablets without
 Advise patients (1) to avoid operating automobiles and machinery or engaging in other tasks requiring alertness until the patient’s response to therapy with metoprolol tartrate tablets has been determined; (2) to contact the physician if any difficulty in breathing occurs; (3) to inform the physician or dentist before any type of surgery that he or she is taking metoprolol tartrate tablets.
 
 Inform patients or caregivers that there is a risk of hypoglycemia when metoprolol tartrate tablets is given to patients who are fasting or who are vomiting.
-Instruct patients or caregivers how to monitor for signs of hypoglycemia [see Warnings and Precautions (5.6)].
+Monitor for symptoms of hypoglycemia.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured in Australia by: ALPHAPHARM PTY LTD 15 Garnet Street Carole Park QLD 4300 Australia
 
-Revised: 8/2023
+Revised: 1/2024
 
-ALP:MTPL:R19
+ALP:MTPL:R20
 
-3247/3
+3247/4
