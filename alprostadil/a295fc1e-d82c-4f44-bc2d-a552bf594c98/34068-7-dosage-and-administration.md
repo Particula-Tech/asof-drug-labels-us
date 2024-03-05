@@ -17,7 +17,8 @@
 
 Erectile Dysfunction of Vasculogenic, Psychogenic, or Mixed Etiology
 
-- •Initiate dosing with 2.5 mcg of CAVERJECT intracavernosally, as recommended [see Dosage and Administration 2.4].
+- •Initiate dosing with 2.5 mcg of CAVERJECT intracavernosally, as recommended [see Error!
+  Hyperlink reference not valid.].
 - •If there is a partial response at 2.5 mcg, administer another dose of 2.5 mcg within 1 hour.
   Use a new vial for each dose of CAVERJECT.
 - •During titration, no more than 2 doses should be given within a 24-hour period.
@@ -30,7 +31,8 @@ Doses greater than 60 mcg are not recommended.
 
 Erectile Dysfunction of Pure Neurogenic Etiology (e.g., Spinal Cord Injury).
 
-- •Initiate dosing with 1.25 mcg of CAVERJECT intracavernosally, as recommended [see Dosage and Administration (2.4)]
+- •Initiate dosing with 1.25 mcg of CAVERJECT intracavernosally, as recommended [see Error!
+  Hyperlink reference not valid.]
 - •If there is a partial response at 1.25 mcg, administer another dose of 1.25 mcg within 1 hour.
   Use a new vial for each dose of CAVERJECT.
 - •If additional titration is required, administer a dose of 5 mcg at least 24 hours later.
@@ -99,7 +101,9 @@ Refer to the Patient Information and Instructions for Use in the FDA-approved pa
 - •Retract the foreskin in uncircumcised patients.
 - •Grasp the head of the penis with the thumb and forefinger and stretch it length-wise along the thigh.
 - •The site of injection is either the right or left lateral penis.
-  See Figures A and B below.
+  See Error!
+  Hyperlink reference not valid. and Error!
+  Hyperlink reference not valid. below.
 
 | Figure A | Figure B |
 | --- | --- |

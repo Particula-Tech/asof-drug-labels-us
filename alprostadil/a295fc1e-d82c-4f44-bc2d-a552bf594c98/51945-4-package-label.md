@@ -4,7 +4,7 @@ NDC 0009-3701-08
 
 Pfizer
 
-Caverject® alprostadil for injection
+Caverject® (alprostadil) for injection
 
 20 mcg
 
@@ -18,7 +18,7 @@ NDC 0009-3701-05 Contains 6 of NDC 0009-3701-08
 
 Pfizer Caverject®
 
-alprostadil for injection
+(alprostadil) for injection
 
 For Intracavernosal Use Only
 
@@ -36,7 +36,7 @@ NDC 0009-7686-01
 
 Pfizer
 
-Caverject® alprostadil for injection
+Caverject® (alprostadil) for injection
 
 40 mcg
 
@@ -50,7 +50,7 @@ NDC 0009-7686-04 Contains 6 of NDC 0009-7686-01
 
 Pfizer Caverject®
 
-alprostadil for injection
+(alprostadil) for injection
 
 For Intracavernosal Use Only
 

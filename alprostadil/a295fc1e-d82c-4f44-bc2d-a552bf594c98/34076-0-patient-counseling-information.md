@@ -5,7 +5,8 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 Dosing and Self-Administration
 
 To ensure safe and effective use of CAVERJECT, instruct and train the patient in the self-injection technique before he begins treatment with CAVERJECT, at home.
-Inform the patient the initial dose administration and dose titration will take place in the health care provider’s office [see Dosage and Administration (2.1)].
+Inform the patient the initial dose administration and dose titration will take place in the health care provider’s office [see Error!
+Hyperlink reference not valid.].
 
 Once the home dose of CAVERJECT has been established, instruct the patient not to change the dose without consulting their health care provider.
 

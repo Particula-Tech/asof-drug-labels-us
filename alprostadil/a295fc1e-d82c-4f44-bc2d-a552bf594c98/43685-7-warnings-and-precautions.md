@@ -7,7 +7,8 @@ The incidence of priapism (erections lasting more than 6 hours in duration) was 
 In the event of an erection that persists longer than 4 hours, the patient should seek immediate medical assistance.
 If priapism is not treated immediately, penile tissue damage and permanent loss of potency may result.
 
-To minimize the chances of prolonged erection or priapism, titrate CAVERJECT to the lowest effective dose [see Dosage and Administration (2.1)].
+To minimize the chances of prolonged erection or priapism, titrate CAVERJECT to the lowest effective dose [see Error!
+Hyperlink reference not valid.].
 In addition, do not use CAVERJECT in patients who have conditions that predispose them to priapism, such as sickle cell anemia or sickle cell trait, multiple myeloma, or leukemia [see Contraindications (4)].
 
 ## 5.2 Penile Fibrosis
