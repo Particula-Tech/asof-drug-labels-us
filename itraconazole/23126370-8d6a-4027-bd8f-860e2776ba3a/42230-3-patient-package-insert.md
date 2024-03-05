@@ -13,4 +13,4 @@
 | What are the ingredients in itraconazole capsules? Active ingredients: itraconazole (coated on sugar spheres composed of sucrose, starch and purified water) Inactive ingredients: hydroxypropyl methylcellulose, polyethylene glycol, gelatin, titanium dioxide, D&C Red No. 22, FD&C Blue No. 1, and D&C Red No. 28. The imprinting ink contains shellac, propylene glycol, black iron oxide, and potassium hydroxide. Medication Guide available at http://www.alembicusa.com/medicationguide.aspx or call 1-866-210-9797. Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav 389350, Gujarat, India Manufactured for: Alembic Pharmaceuticals, Inc. Bedminster, NJ 07921, USA |
 
 This patient information has been approved by the U.S. Food and Drug Administration.
-Revised: 11/2023
+Revised: 02/2024

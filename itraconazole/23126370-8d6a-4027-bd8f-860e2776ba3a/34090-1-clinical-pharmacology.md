@@ -57,7 +57,7 @@ Special Populations:
 Renal Impairment:
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
-A pharmacokinetic study using a single 200-mg oral dose of itraconazole was conducted in three groups of patients with renal impairment (uremia: n=7; hemodialysis: n=7; and continuous ambulatory peritoneal dialysis: n=5).
+A pharmacokinetic study using a single 200 mg oral dose of itraconazole was conducted in three groups of patients with renal impairment (uremia: n=7; hemodialysis: n=7; and continuous ambulatory peritoneal dialysis: n=5).
 In uremic subjects with a mean creatinine clearance of 13 mL/min. × 1.73 m2, the exposure, based on AUC, was slightly reduced compared with normal population parameters.
 This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (Tmax, Cmax, and AUC0-8h).
 Plasma concentration-versus-time profiles showed wide intersubject variation in all three groups.
@@ -70,7 +70,7 @@ Dialysis has no effect on the half-life or clearance of itraconazole or hydroxy-
 Hepatic Impairment:
 
 Itraconazole is predominantly metabolized in the liver.
-A pharmacokinetic study was conducted in 6 healthy and 12 cirrhotic subjects who were administered a single 100-mg dose of itraconazole as capsule.
+A pharmacokinetic study was conducted in 6 healthy and 12 cirrhotic subjects who were administered a single 100 mg dose of itraconazole as capsule.
 A statistically significant reduction in mean Cmax (47%) and a twofold increase in the elimination half-life (37±17 hours vs. 16±5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
 However, overall exposure to itraconazole, based on AUC, was similar in cirrhotic patients and in healthy subjects.
 Data are not available in cirrhotic patients during long-term use of itraconazole.
