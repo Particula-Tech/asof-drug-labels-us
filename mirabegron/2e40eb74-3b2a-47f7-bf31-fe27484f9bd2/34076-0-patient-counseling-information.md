@@ -35,7 +35,7 @@ If more than 12 hours have passed, the missed dose can be skipped and the next d
 
 Manufactured by:
 
-Cadila Healthcare Ltd.
+Zydus Lifesciences Ltd.,
 
 Matoda, Ahmedabad, India
 
@@ -45,4 +45,4 @@ Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Revised: 11/2021
+Revised: 07/2023

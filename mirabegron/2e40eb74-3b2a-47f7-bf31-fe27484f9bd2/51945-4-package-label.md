@@ -2,16 +2,16 @@
 
 Mirabegron extended-release tablets, 25mg
 
-NDC 70710-1159-1 in bottles of 100 tablets
+NDC 70710-1159-3 in bottles of 30 tablets
 
-100 Tablets
+30 Tablets
 
 Rx only
 
-Mirabegron extended-release tablets, 50mg
+Mirabegron extended-release tablets, 50 mg
 
-NDC 70710-1160-1 in bottles of 100 tablets
+NDC 70710-1160-3 in bottles of 30 tablets
 
-100 Tablets
+30 Tablets
 
 Rx only
