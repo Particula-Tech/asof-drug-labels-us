@@ -9,12 +9,12 @@ PRED MILD® (prednisolone acetate ophthalmic suspension, USP) 0.12% is supplied 
 Storage: Store at 15°C to 25°C (59°F to 77°F) in an upright position.
 Protect from freezing.
 
-Revised: 12/2022
+Revised: 02/2024
 
-Distributed by: Allergan USA, Inc. Madison, NJ 07940
+Distributed by: AbbVie, Inc. North Chicago, IL 60064
 
-© 2023 Allergan.
+© 2024 AbbVie.
 All rights reserved.
-All trademarks are the property of their respective owners.
+Pred Mild and its design are trademarks of Allergan, Inc., an AbbVie company.
 
-V2.0USPI174
+V3.0USPI174
