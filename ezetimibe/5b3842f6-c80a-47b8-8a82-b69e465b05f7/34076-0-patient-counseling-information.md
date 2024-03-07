@@ -8,7 +8,7 @@ Muscle Pain
 
 Advise patients that ezetimibe tablets may cause myopathy and rhabdomyolysis.
 Inform patients that the risk is also increased when taking certain types of medication and they should discuss all medication, both prescription and over the counter, with their healthcare provider.
-Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever [see Warnings and Precautions (5.3), and Drug Interactions (7)].
+Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever [see Warnings and Precautions (5.3), andDrug Interactions (7)].
 
 Pregnancy
 
@@ -16,7 +16,7 @@ Advise patients to inform their healthcare provider of a known or suspected preg
 
 Breastfeeding
 
-Advise patients who have a lipid disorder and are breastfeeding to discuss the options with their healthcare provider [see Use in Specific Populations (8.2)].
+Advise patients who have a lipid disorder and are breastfeeding to discuss the options with their healthcare provider [see Use in Specific Populations(8.2)].
 
 Missed Dose
 
@@ -36,6 +36,6 @@ Sun Pharmaceuticals Industries, Inc.
 
 Cranbury, NJ 08512
 
-August 2023 FDA-06
+March 2024 FDA-07
 
-5244236
+5249048

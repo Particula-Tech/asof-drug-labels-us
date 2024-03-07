@@ -44,7 +44,7 @@ Adverse reactions reported in ≥2% of patients treated with ezetimibe tablets +
 
 TABLE 2: Adverse Reactions Occurring ≥2% in ezetimibe tablets -treated Patients Co-administered with a Statin and at an Incidence Greater than Statin
 
-| Adverse Reaction All Statins*(%) n = 9,361 | All Statins*(%)n = 9,361 | Ezetimibe Tablets + All Statins*(%)n = 11,308 |
+| Adverse Reaction All Statins*(%)n = 9,361 | All Statins*(%)n = 9,361 | Ezetimibe Tablets + All Statins*(%)n = 11,308 |
 | --- | --- | --- |
 | Nasopharyngitis | 3.3 | 3.7 |
 | Myalgia | 2.7 | 3.2 |
@@ -70,16 +70,16 @@ Because the reactions below are reported voluntarily from a population of uncert
 
 The following additional adverse reactions have been identified during post-approval use of ezetimibe tablets:
 
-Blood Disorders: thrombocytopenia
+Blood Disorders:thrombocytopenia
 
-Gastrointestinal Disorders: abdominal pain; pancreatitis; nausea
+Gastrointestinal Disorders:abdominal pain; pancreatitis; nausea
 
-Hepatobiliary Disorders: elevations in liver transaminases; hepatitis; cholelithiasis; cholecystitis
+Hepatobiliary Disorders:elevations in liver transaminases, including elevations more than 5 X ULN; hepatitis; cholelithiasis; cholecystitis
 
-Immune System Disorders: Hypersensitivity reactions including: anaphylaxis, angioedema, rash, and urticaria
+Immune System Disorders:Hypersensitivity reactions including: anaphylaxis, angioedema, rash, and urticaria
 
-Musculoskeletal Disorders: elevated creatine phosphokinase; myopathy/rhabdomyolysis
+Musculoskeletal Disorders:elevated creatine phosphokinase; myopathy/rhabdomyolysis
 
-Nervous System Disorders: dizziness; paresthesia; depression; headache
+Nervous System Disorders:dizziness; paresthesia; depression; headache
 
-Skin and Subcutaneous Tissue Disorders: erythema multiforme
+Skin and Subcutaneous Tissue Disorders:erythema multiforme

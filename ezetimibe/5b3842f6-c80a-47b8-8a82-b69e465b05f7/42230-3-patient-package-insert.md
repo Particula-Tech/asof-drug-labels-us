@@ -50,7 +50,7 @@ o flu-like symptoms including fever, sore throat, cough, tiredness, and joint pa
 
 - with certain statins, fenofibrate, or other LDL-C lowering medicines if your healthcare provider has told you not to take them.
 
-Before you take ezetimibe tablets, tell your healthcare provider about all your medical conditions, including if you: ​
+Before you take ezetimibe tablets, tell your healthcare provider about all your medical conditions, including if you:​
 
 - have liver problems.
   Ezetimibe tablets may not be right for you.
@@ -61,7 +61,7 @@ Before you take ezetimibe tablets, tell your healthcare provider about all your 
   It is not known if ezetimibe tablets passes into your breast milk.
   You and your healthcare provider should decide the best way to feed your baby if you take ezetimibe tablets.
 
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-­counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take,including prescription and over-the-­counter medicines, vitamins, and herbal supplements.
 Talk to your healthcare provider before you start taking any new medicines.
 Taking ezetimibe tablets with certain other medicines may affect each other causing side effects.
 Ezetimibe tablets may affect the way other medicines work, and other medicines may affect how ezetimibe tablets works.
@@ -94,8 +94,7 @@ What are the possible side effects of ezetimibe tablets?
 
 Ezetimibe tablets may cause serious side effects including:
 
-- increased liver enzymes.
-  An increase in liver enzymes can happen in people taking ezetimibe tablets alone or with statins.
+- increased liver enzymes.An increase in liver enzymes can happen in people taking ezetimibe tablets alone or with statins.
   Your healthcare provider may do blood tests to check your liver before and during treatment.
   Your healthcare provider may need to change or stop your treatment with ezetimibe tablets because of an increase in liver enzymes.
 - muscle pain, tenderness, and weakness (myopathy).
@@ -141,8 +140,7 @@ How should I store ezetimibe tablets?
 - Protect from moisture.
   Keep ezetimibe tablets and all medicines out of the reach of children.
 
-General information about safe and effective use of ezetimibe tablets.
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+General information about safe and effective use of ezetimibe tablets.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use ezetimibe tablets for a condition for which it was not prescribed.
 Do not give ezetimibe tablets to other people, even if they have the same symptoms you have.
 It may harm them.
@@ -150,9 +148,9 @@ You can ask your pharmacist or healthcare provider for information about ezetimi
 
 What are the ingredients in Ezetimibe tablets?
 
-Active ingredient: ezetimibe.
+Active ingredient:ezetimibe.
 
-Inactive ingredients: Croscarmellose sodium, lactose monohydrate, magnesium stearate, povidone, pregelatinized starch (maize) and sodium lauryl sulfate.
+Inactive ingredients:Croscarmellose sodium, lactose monohydrate, magnesium stearate, povidone, pregelatinized starch (maize) and sodium lauryl sulfate.
 
 Manufactured by:
 
@@ -166,4 +164,4 @@ Sun Pharmaceuticals Industries, Inc.
 
 Cranbury, NJ 08512
 
-August 2023 FDA-06
+March 2024 FDA-07

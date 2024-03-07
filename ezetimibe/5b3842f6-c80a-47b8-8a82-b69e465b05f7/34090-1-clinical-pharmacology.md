@@ -24,13 +24,13 @@ Ezetimibe tablets had no clinically meaningful effect on the plasma concentratio
 Absorption
 
 After oral administration, ezetimibe is absorbed and extensively conjugated to a pharmacologically active phenolic glucuronide (ezetimibe-glucuronide).
-After a single 10 mg dose of ezetimibe tablets to fasted adults, mean ezetimibe peak plasma concentrations (C max) of 3.4 to 5.5 ng/mL were attained within 4 to 12 hours (T max). Ezetimibe-glucuronide mean C max values of 45 to 71 ng/mL were achieved between 1 and 2 hours (T max). There was no substantial deviation from dose proportionality between 5 and 20 mg.
+After a single 10 mg dose of ezetimibe tablets to fasted adults, mean ezetimibe peak plasma concentrations (C max) of 3.4 to 5.5 ng/mL were attained within 4 to 12 hours (T max). Ezetimibe-glucuronide mean C maxvalues of 45 to 71 ng/mL were achieved between 1 and 2 hours (T max). There was no substantial deviation from dose proportionality between 5 and 20 mg.
 The absolute bioavailability of ezetimibe cannot be determined, as the compound is virtually insoluble in aqueous media suitable for injection.
 
 Effect of Food
 
 Concomitant food administration (high-fat or non-fat meals) had no effect on the extent of absorption of ezetimibe when administered as ezetimibe 10 mg tablets.
-The C max value of ezetimibe was increased by 38% with consumption of high-fat meals.
+The C maxvalue of ezetimibe was increased by 38% with consumption of high-fat meals.
 
 Distribution
 
@@ -66,9 +66,9 @@ Gender: In a multiple-dose trial with ezetimibe given 10 mg once daily for 10 da
 Race: Based on a meta-analysis of multiple-dose pharmacokinetic studies, there were no pharmacokinetic differences between Black and White subjects.
 Studies in Asian subjects indicated that the pharmacokinetics of ezetimibe were similar to those seen in White subjects.
 
-Renal Impairment: After a single 10-mg dose of ezetimibe in patients with severe renal disease (n=8; mean CrCl ≤30 mL/min/1.73 m 2), the mean AUC values for total ezetimibe, ezetimibe-glucuronide, and ezetimibe were increased approximately 1.5-fold, compared to healthy subjects (n=9).
+Renal Impairment:After a single 10-mg dose of ezetimibe in patients with severe renal disease (n=8; mean CrCl ≤30 mL/min/1.73 m 2), the mean AUC values for total ezetimibe, ezetimibe-glucuronide, and ezetimibe were increased approximately 1.5-fold, compared to healthy subjects (n=9).
 
-Hepatic Impairment: After a single 10-mg dose of ezetimibe, the mean AUC for total ezetimibe was increased approximately 1.7-fold in patients with mild hepatic impairment (Child-Pugh score 5 to 6), compared to healthy subjects.
+Hepatic Impairment:After a single 10-mg dose of ezetimibe, the mean AUC for total ezetimibe was increased approximately 1.7-fold in patients with mild hepatic impairment (Child-Pugh score 5 to 6), compared to healthy subjects.
 The mean AUC values for total ezetimibe and ezetimibe were increased approximately 3-to 4-fold and 5-to 6-fold, respectively, in patients with moderate (Child-Pugh score 7 to 9) or severe hepatic impairment (Child-Pugh score 10 to 15).
 In a 14-day, multiple-dose trial (10 mg daily) in patients with moderate hepatic impairment, the mean AUC values for total ezetimibe and ezetimibe were increased approximately 4-fold on Day 1 and Day 14 compared to healthy subjects [see Use in Specific Populations (8.7)].
 
@@ -77,7 +77,7 @@ Drug Interactions
 Ezetimibe tablets had no significant effect on a series of probe drugs (caffeine, dextromethorphan, tolbutamide, and IV midazolam) known to be metabolized by cytochrome P450 (1A2, 2D6, 2C8/9 and 3A4) in a “cocktail” trial of twelve healthy adult males.
 This indicates that ezetimibe is neither an inhibitor nor an inducer of these cytochrome P450 isozymes, and it is unlikely that ezetimibe will affect the metabolism of drugs that are metabolized by these enzymes.
 
-TABLE 4: Effect of Co-Administered Drugs on Total Ezetimibe
+TABLE 4: Effect of Coadministered Drugs on Total Ezetimibe
 
 | Coadministered Drug and Dosing Regimen | Total Ezetimibe* |  |
 | --- | --- | --- |

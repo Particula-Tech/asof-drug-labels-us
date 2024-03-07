@@ -17,14 +17,14 @@ Data
 Animal Data
 
 In oral (gavage) embryo-fetal development studies of ezetimibe conducted in rats (gestation days 6-15) and rabbits (gestation days 7-19), there was no evidence of maternal toxicity or embryolethal effects at the doses tested (250, 500, 1,000 mg/kg/day).
-In rats, increased incidences of common fetal skeletal findings (extra pair of thoracic ribs, unossified cervical vertebral centra, shortened ribs) were observed at 1,000 mg/kg/day (~10 times the human exposure at 10 mg daily based on AUC 0-24hr for total ezetimibe).
-In rabbits treated with ezetimibe, an increased incidence of extra thoracic ribs was observed at 1,000 mg/kg/day (150 times the human exposure at 10 mg daily based on AUC 0-24hr for total ezetimibe).
+In rats, increased incidences of common fetal skeletal findings (extra pair of thoracic ribs, unossified cervical vertebral centra, shortened ribs) were observed at 1,000 mg/kg/day (~10 times the human exposure at 10 mg daily based on AUC 0-24hrfor total ezetimibe).
+In rabbits treated with ezetimibe, an increased incidence of extra thoracic ribs was observed at 1,000 mg/kg/day (150 times the human exposure at 10 mg daily based on AUC 0-24hrfor total ezetimibe).
 The animal-to-human exposure multiple for total ezetimibe at the no-observed effect level was 6 times for rat and 134 times for rabbit.
 Fetal exposure to ezetimibe (conjugated and unconjugated) was confirmed in subsequent placental transfer studies conducted using a maternal dose of 1,000 mg/kg/day.
 The fetal maternal plasma exposure ratio (total ezetimibe) was 1.5 for rats on gestation day 20 and 0.03 for rabbits on gestation day 22.
 
 The effect of ezetimibe on prenatal and postnatal development and maternal function was evaluated in pregnant rats at doses of 100, 300 or 1,000 mg/kg/day from gestation day 6 through lactation day 21.
-No maternal toxicity or adverse developmental outcomes were observed up to and including the highest dose tested (17 times the human exposure at 10 mg daily based on AUC 0-24hr for total ezetimibe).
+No maternal toxicity or adverse developmental outcomes were observed up to and including the highest dose tested (17 times the human exposure at 10 mg daily based on AUC 0-24hrfor total ezetimibe).
 
 Multiple-dose studies of ezetimibe given in combination with statins in rats and rabbits during organogenesis resulted in higher ezetimibe and statin exposures.
 Reproductive findings occurred at lower doses in combination therapy compared to monotherapy.
