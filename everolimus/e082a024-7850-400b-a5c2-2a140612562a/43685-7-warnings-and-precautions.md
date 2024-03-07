@@ -46,7 +46,7 @@ Caution should be exercised when using other drugs which are known to impair ren
 
 ## 5.7 Heart Transplantation
 
-In a clinical trial of de novo heart transplant patients, Zortress in an immunosuppressive regimen with or without induction therapy, resulted in an increased mortality often associated with serious infections within the first three months posttransplantation compared to the control regimen.
+In a clinical trial of de novo heart transplant patients, Zortress in an immunosuppressive regimen, with or without induction therapy, resulted in an increased mortality often associated with serious infections within the first three months posttransplantation compared to the control regimen.
 Use of Zortress in heart transplantation is not recommended.
 
 ## 5.8 Angioedema
@@ -89,7 +89,7 @@ Patients receiving Zortress should be monitored for proteinuria [see Adverse Rea
 
 ## 5.13 Polyoma Virus Infections
 
-Patients receiving immunosuppressants, including Zortress, are at increased risk for opportunistic infections; including polyoma virus infections.
+Patients receiving immunosuppressants, including Zortress, are at increased risk for opportunistic infections, including polyoma virus infections.
 Polyoma virus infections in transplant patients may have serious, and sometimes fatal, outcomes.
 These include polyoma virus-associated nephropathy (PVAN), mostly due to BK virus infection, and JC virus associated progressive multiple leukoencephalopathy (PML).
 PVAN has been observed in patients receiving immunosuppressants, including Zortress.
@@ -98,16 +98,16 @@ Patient monitoring may help detect patients at risk for PVAN.
 Reductions in immunosuppression should be considered for patients who develop evidence of PVAN or PML.
 Physicians should also consider the risk that reduced immunosuppression represents to the functioning allograft.
 
-## 5.14 Interaction with Strong Inhibitors and Inducers of CYP3A4
+## 5.14 Interaction With Strong Inhibitors and Inducers of CYP3A4
 
-Coadministration of Zortress with strong CYP3A4-inhibitors (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) and strong CYP3A4 inducers (e.g., rifampin, rifabutin) is not recommended without close monitoring of everolimus whole blood trough concentrations [see Drug Interactions (7)].
+Coadministration of Zortress with strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) or strong CYP3A4 inducers (e.g., rifampin, rifabutin) is not recommended without close monitoring of everolimus whole blood trough concentrations [see Drug Interactions (7)].
 
 ## 5.15 Thrombotic Microangiopathy/Thrombotic Thrombocytopenic Purpura/Hemolytic Uremic Syndrome
 
 The concomitant use of Zortress with cyclosporine may increase the risk of thrombotic microangiopathy (TMA)/thrombotic thrombocytopenic purpura (TTP)/hemolytic uremic syndrome (HUS).
 Monitor hematologic parameters [see Adverse Reactions (6.2)].
 
-## 5.16 New Onset Diabetes after Transplant
+## 5.16 New Onset Diabetes After Transplant
 
 Zortress has been shown to increase the risk of new onset diabetes mellitus after transplant.
 Blood glucose concentrations should be monitored closely in patients using Zortress.
@@ -121,18 +121,18 @@ Advise female patients of reproductive potential to avoid becoming pregnant and 
 
 ## 5.18 Male Infertility
 
-Azospermia or oligospermia may be observed [see Adverse Reactions (6.2), Nonclinical Toxicology (13.1)].
+Azoospermia or oligospermia may be observed [see Adverse Reactions (6.2), Nonclinical Toxicology (13.1)].
 Zortress is an anti-proliferative drug and affects rapidly dividing cells like the germ cells.
 
 ## 5.19 Immunizations
 
 The use of live vaccines should be avoided during treatment with Zortress; examples include (not limited to) the following: intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines.
 
-## 5.20 Interaction with Grapefruit Juice
+## 5.20 Interaction With Grapefruit Juice
 
 Grapefruit and grapefruit juice inhibit cytochrome P450 3A4 and P-gp activity and should therefore be avoided with concomitant use of Zortress and cyclosporine or tacrolimus.
 
-## 5.21 Patients with Hereditary Disorders/Other
+## 5.21 Patients With Hereditary Disorders/Other
 
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take Zortress as this may result in diarrhea and malabsorption.
 

@@ -1,11 +1,11 @@
-# WARNING: MALIGNANCIES AND SERIOUS INFECTIONS, KIDNEY GRAFT THROMBOSIS; NEPHROTOXICITY; AND MORTALITY IN HEART TRANSPLANTATION
+# WARNING: MALIGNANCIES and SERIOUS INFECTIONS; KIDNEY GRAFT THROMBOSIS; NEPHROTOXICITY; and MORTALITY IN HEART TRANSPLANTATION
 
 Malignancies and Serious Infections
 
 - Only physicians experienced in immunosuppressive therapy and management of transplant patients should prescribe Zortress.
   Patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources.
   The physician responsible for maintenance therapy should have complete information requisite for the follow-up of the patient [see Warnings and Precautions (5.1)].
-- Increased susceptibility to infection and the possible development of malignancies such as lymphoma and skin cancer may result from immunosuppression [see Warnings and Precautions (5.2, 5.3)].
+- Increased susceptibility to infection and the possible development of malignancies, such as lymphoma and skin cancer, may result from immunosuppression [see Warnings and Precautions (5.2, 5.3)].
 
 Kidney Graft Thrombosis
 

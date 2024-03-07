@@ -1,15 +1,15 @@
-# 16HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Zortress (everolimus) tablets are packed in child-resistant blisters.
 
 Table 11.
 Description of Zortress (everolimus) Tablets
 
-| Dosage Strength | 0.25 mg | 0.5 mg | 0.75 mg | 1 mg |
+| Dosage strength | 0.25 mg | 0.5 mg | 0.75 mg | 1 mg |
 | --- | --- | --- | --- | --- |
 | Appearance | White to yellowish, marbled, round, flat tablets with beveled edge |  |  |  |
 | Imprint | “C” on one side and “NVR” on the other | “CH” on one side and “NVR” on the other | “CL” on one side and “NVR” on the other | “CU” on one side and “NVR” on the other |
-| NDC Number | 0078-0417-20 | 0078-0414-20 | 0078-0415-20 | 0078-0422-20 |
+| NDC number | 0078-0417-20 | 0078-0414-20 | 0078-0415-20 | 0078-0422-20 |
 
 Each strength is available in boxes of 60 tablets (6 blister strips of 10 tablets each).
 

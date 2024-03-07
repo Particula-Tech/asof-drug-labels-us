@@ -1,4 +1,4 @@
-# 12CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -29,7 +29,7 @@ Distribution
 
 The blood-to-plasma ratio of everolimus is concentration dependent ranging from 17% to 73% over the range of 5 ng/mL to 5000 ng/mL.
 Plasma protein binding is approximately 74% in healthy subjects and in patients with moderate hepatic impairment.
-The apparent distribution volume associated with the terminal phase (Vz/F) from a single-dose pharmacokinetic study in maintenance kidney transplant patients is 342 to 107 L (range 128 to 589 L).
+The apparent distribution volume associated with the terminal phase (Vz/F) from a single-dose pharmacokinetic study in maintenance kidney transplant patients is 342 to 107 L (range: 128 to 589 L).
 
 Elimination
 
@@ -55,11 +55,11 @@ Steady-State Pharmacokinetic Parameters (mean +/- SD) Following the Administrati
 
 | Cmax | Tmax | AUC | CL/F1 | Vc/F1 | Half-life (T1/2) |
 | --- | --- | --- | --- | --- | --- |
-| 11.1 + 4.6 ng/mL | 1-2 h | 75 + 31 ng•h/mL | 8.8 L/h | 110 L | 30 ± 11h |
+| 11.1 + 4.6 ng/mL | 1-2 h | 75 + 31 ng•h/mL | 8.8 L/h | 110 L | 30 ± 11 h |
 | 1Population pharmacokinetic analysis. |  |  |  |  |  |
 
 The half-life estimates from 12 maintenance renal transplant patients who received single doses of everolimus capsules at 0.75 mg or 2.5 mg with their maintenance cyclosporine regimen indicate that the pharmacokinetics of everolimus are linear over the clinically-relevant dose range.
-Results indicate the half-life of everolimus in maintenance renal transplant patients receiving single doses of 0.75 mg or 2.5 mg Zortress during steady-state cyclosporine treatment was 30 ± 11 hours (range 19 to 53 hours).
+Results indicate the half-life of everolimus in maintenance renal transplant patients receiving single doses of 0.75 mg or 2.5 mg Zortress during steady-state cyclosporine treatment was 30 ± 11 hours (range: 19 to 53 hours).
 
 ## 12.5 Drug-Drug Interactions
 
@@ -70,7 +70,7 @@ Drug interaction studies have not been conducted with drugs other than those des
 Cyclosporine (CYP3A4/P-gp Inhibitor and CYP3A4 Substrate): Zortress should be taken concomitantly with cyclosporine in kidney transplant patients.
 Everolimus concentrations may decrease when doses of cyclosporine are reduced, unless the Zortress dose is increased [see Dosage and Administration (2.1), Drug Interactions (7.2)].
 
-In a single-dose study in healthy subjects, cyclosporine (Neoral) administered at a dose of 175 mg increased everolimus AUC by 168% (range 46% to 365%) and Cmax by 82% (range 25% to 158%) when administered with 2 mg Zortress compared with administration of Zortress alone [see Drug Interactions (7.2)].
+In a single-dose study in healthy subjects, cyclosporine (Neoral) administered at a dose of 175 mg increased everolimus AUC by 168% (range: 46% to 365%) and Cmax by 82% (range: 25% to 158%) when administered with 2 mg Zortress compared with administration of Zortress alone [see Drug Interactions (7.2)].
 
 Ketoconazole and Other Strong CYP3A4 Inhibitors: Multiple-dose administration of 200 mg ketoconazole twice daily for 5 days to 12 healthy volunteers significantly increased everolimus Cmax, AUC, and half-life by 3.9-fold, 15-fold, and 89%, respectively, when coadministered with 2 mg Zortress.
 It is recommended that strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) should not be coadministered with Zortress [see Warnings and Precautions (5.14), Drug Interactions (7.3)].
@@ -88,7 +88,7 @@ In the same study, the concomitant Zortress dose slightly increased the mean Cma
 The concomitant Zortress dose decreased the mean Cmax and AUC of pravastatin by 10% and 5%, respectively.
 No dosage adjustments are needed for concomitant administration of Zortress and atorvastatin and pravastatin [see Drug Interactions (7.6)].
 
-Midazolam (CYP3A4/5 Substrate): In 25 healthy male subjects, coadministration of a single dose of midazolam 4 mg oral solution with steady-state everolimus (10 mg daily dose for 5 days) resulted in a 25% increase in midazolam Cmax and a 30% increase in midazolam AUC; whereas, the terminal half-life of midazolam and the metabolic AUC-ratio (1-hydroxymidazolam/midazolam) were not affected [see Drug Interactions (7.9)].
+Midazolam (CYP3A4/5 Substrate): In 25 healthy male subjects, coadministration of a single dose of midazolam 4 mg oral solution with steady-state everolimus (10 mg daily dose for 5 days) resulted in a 25% increase in midazolam Cmax and a 30% increase in midazolam AUC; whereas the terminal half-life of midazolam and the metabolic AUC-ratio (1-hydroxymidazolam/midazolam) were not affected [see Drug Interactions (7.9)].
 
 Rifampin (Strong CYP3A4 and P-gp Inducer): Pretreatment of 12 healthy subjects with multiple-dose rifampin (600 mg once-daily for 8 days) followed by a single dose of 4 mg Zortress increased everolimus clearance nearly 3-fold, and decreased Cmax by 58% and AUC by 63%.
 Combination with rifampin is not recommended [see Drug Interactions (7.8)].
@@ -97,16 +97,16 @@ Combination with rifampin is not recommended [see Drug Interactions (7.8)].
 
 Hepatic Impairment
 
-Relative to the AUC of everolimus in subjects with normal hepatic function, the average AUC in 6 patients with mild hepatic impairment (Child-Pugh Class A) was 1.6-fold higher following administration of a 10 mg single-dose.
-In 2 independently studied groups of 8 and 9 patients with moderate hepatic impairment (Child-Pugh Class B) the average AUC was 2.1-fold and 3.3-fold higher following administration of a 2 mg or a 10 mg single-dose, respectively; and in 6 patients with severe hepatic impairment (Child-Pugh Class C) the average AUC was 3.6-fold higher following administration of a 10 mg single-dose.
+Relative to the AUC of everolimus in subjects with normal hepatic function, the average AUC in 6 patients with mild hepatic impairment (Child-Pugh Class A) was 1.6-fold higher following administration of a 10 mg single dose.
+In 2 independently studied groups of 8 and 9 patients with moderate hepatic impairment (Child-Pugh Class B) the average AUC was 2.1-fold and 3.3-fold higher following administration of a 2 mg or a 10 mg single dose, respectively; and in 6 patients with severe hepatic impairment (Child-Pugh Class C) the average AUC was 3.6-fold higher following administration of a 10 mg single dose.
 For patients with mild hepatic impairment (Child-Pugh Class A), the dose should be reduced by approximately one-third of the normally recommended daily dose.
-For patients with moderate or severe hepatic impairment (Child-Pugh B or C), the initial daily dose should be reduced to approximately one-half of the normally recommended daily dose.
+For patients with moderate or severe hepatic impairment (Child-Pugh Class B or C), the initial daily dose should be reduced to approximately one-half of the normally recommended daily dose.
 Further dose adjustment and/or dose titration should be made if a patient’s whole blood trough concentration of everolimus, as measured by an LC/MS/MS assay, is not within the target trough concentration range of 3 to 8 ng/mL [see Dosage and Administration (2.7)].
 
 Renal Impairment
 
 No pharmacokinetic studies in patients with renal impairment were conducted.
-Posttransplant renal function (creatinine clearance range 11 to 107 mL/min) did not affect the pharmacokinetics of everolimus, therefore, no dosage adjustments are needed in patients with renal impairment.
+Posttransplant renal function (creatinine clearance range: 11 to 107 mL/min) did not affect the pharmacokinetics of everolimus; therefore, no dosage adjustments are needed in patients with renal impairment.
 
 Geriatrics
 
@@ -142,9 +142,9 @@ In the kidney transplant clinical trial [see Clinical Studies (14.1)], the targe
 Table 5 below provides a summary of the observed cyclosporine whole blood trough concentrations during the study.
 
 Table 5.
-Cyclosporine Trough Concentrations Over 12 Months Posttransplant – Kidney Study Median Values (ng/mL) with 10th and 90th Percentiles
+Cyclosporine Trough Concentrations Over 12 Months Posttransplant – Kidney Study Median Values (ng/mL) With 10th and 90th Percentiles
 
-| Treatment Group | Visit | N | Target (ng/mL) | Median | 10th Percentile | 90th Percentile |
+| Treatment Group | Visit | N | Target (ng/mL) | Median | 10th percentile | 90th percentile |
 | --- | --- | --- | --- | --- | --- | --- |
 | Zortress 0.75 mg twice daily | Day 3 | 242 | 100-200 | 172 | 46 | 388 |
 |  | Day 7 | 265 | 100-200 | 185 | 75 | 337 |
@@ -169,16 +169,16 @@ Table 6 below provides a summary of the tacrolimus whole blood trough concentrat
 Table 6.
 Tacrolimus Trough Concentrations Over 24 Months Posttransplant – Liver Study Median Values (ng/mL) With 10th and 90th Percentiles
 
-| Treatment Group | Visit | N | Target (ng/mL) | Median | 10th Percentile | 90th Percentile |
+| Treatment Group | Visit | N | Target (ng/mL) | Median | 10th percentile | 90th percentile |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pre-dose group Zortress 1 mg twice daily (initiated at Month 1) | Week 4 | 234 | 3-5 | 9.5 | 5.8 | 14.6 |
-|  | Week 5 | 219 | 3-5 | 8.1 | 4.5 | 13.8 |
-|  | Week 6 | 233 | 3-5 | 7.0 | 4.1 | 12.0 |
-|  | Month 2 | 219 | 3-5 | 5.6 | 3.4 | 10.3 |
-|  | Month 3 | 218 | 3-5 | 5.2 | 3.1 | 9.7 |
-|  | Month 4 | 196 | 3-5 | 4.9 | 2.9 | 7.7 |
-|  | Month 5 | 195 | 3-5 | 4.8 | 2.7 | 7.3 |
-|  | Month 6 | 200 | 3-5 | 4.6 | 3.0 | 7.5 |
-|  | Month 9 | 186 | 3-5 | 4.4 | 2.9 | 8.0 |
-|  | Month 12 | 175 | 3-5 | 4.3 | 2.6 | 7.3 |
-|  | Month 24 | 109 | 3-5 | 3.8 | 2.3 | 5.5 |
+| Pre-dose group Zortress 1 mg twice daily (initiated at Month 1) | Week 4 | 234 | 3 to 5 | 9.5 | 5.8 | 14.6 |
+|  | Week 5 | 219 | 3 to 5 | 8.1 | 4.5 | 13.8 |
+|  | Week 6 | 233 | 3 to 5 | 7.0 | 4.1 | 12.0 |
+|  | Month 2 | 219 | 3 to 5 | 5.6 | 3.4 | 10.3 |
+|  | Month 3 | 218 | 3 to 5 | 5.2 | 3.1 | 9.7 |
+|  | Month 4 | 196 | 3 to 5 | 4.9 | 2.9 | 7.7 |
+|  | Month 5 | 195 | 3 to 5 | 4.8 | 2.7 | 7.3 |
+|  | Month 6 | 200 | 3 to 5 | 4.6 | 3.0 | 7.5 |
+|  | Month 9 | 186 | 3 to 5 | 4.4 | 2.9 | 8.0 |
+|  | Month 12 | 175 | 3 to 5 | 4.3 | 2.6 | 7.3 |
+|  | Month 24 | 109 | 3 to 5 | 3.8 | 2.3 | 5.5 |

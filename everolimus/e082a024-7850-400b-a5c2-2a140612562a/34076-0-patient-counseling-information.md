@@ -1,10 +1,12 @@
-# 17PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Administration
 
 Inform patients that Zortress should be taken orally twice a day approximately 12 hours apart consistently either with or without food.
 
-Inform patients to avoid grapefruit and grapefruit juice which increase blood drug concentrations of Zortress [see Warnings and Precautions (5.20)].
+Inform patients to avoid grapefruit and grapefruit juice, which increase blood drug concentrations of Zortress [see Warnings and Precautions (5.20)].
 
 Advise patients that Zortress should be used concurrently with reduced doses of cyclosporine and that any change in doses of these medications should be made under physician supervision.
 A change in the cyclosporine dose may also require a change in the dosage of Zortress.
@@ -37,20 +39,20 @@ Advise patients to seek prompt medical attention if symptoms occur [see Warnings
 
 Wound Healing Complications and Fluid Accumulation
 
-Inform patients the use of Zortress has been associated with impaired or delayed wound healing, fluid accumulation and the need for careful observation of their incision site [see Warnings and Precautions (5.9)].
+Inform patients that the use of Zortress has been associated with impaired or delayed wound healing, fluid accumulation and the need for careful observation of their incision site [see Warnings and Precautions (5.9)].
 
 Interstitial Lung Disease (ILD)/Non-Infectious Pneumonitis
 
-Inform patients the use of Zortress may increase the risk of non-infectious pneumonitis.
+Inform patients that the use of Zortress may increase the risk of non-infectious pneumonitis.
 Advise patients to seek medical attention if they develop clinical symptoms consistent with pneumonia [see Warnings and Precautions (5.10)].
 
 Hyperlipidemia
 
-Inform patients the use of Zortress has been associated with increased serum cholesterol and triglycerides that may require treatment and the need for monitoring of blood lipid concentrations [see Warnings and Precautions (5.11)].
+Inform patients that the use of Zortress has been associated with increased serum cholesterol and triglycerides that may require treatment and the need for monitoring of blood lipid concentrations [see Warnings and Precautions (5.11)].
 
 Proteinuria
 
-Inform patients the use of Zortress has been associated with an increased risk of proteinuria [see Warnings and Precautions (5.12)].
+Inform patients that the use of Zortress has been associated with an increased risk of proteinuria [see Warnings and Precautions (5.12)].
 
 Pregnancy and Lactation
 
@@ -63,7 +65,7 @@ Male and Female Fertility
 
 Inform male and female patients that Zortress may impair fertility [see Warnings and Precautions (5.18), Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology (13.1)].
 
-Medications that Interfere with Zortress
+Medications That Interfere With Zortress
 
 Some medications can increase or decrease blood concentrations of Zortress.
 Advise patients to inform their physician if they are taking any of the following: antifungals, antibiotics, antivirals, anti-epileptic medicines including carbamazepine, phenytoin and barbiturates, herbal/dietary supplements (St.
@@ -71,14 +73,14 @@ John’s Wort), cannabidiol, and/or rifampin [see Warnings and Precautions (5.14
 
 New Onset Diabetes
 
-Inform patients the use of Zortress may increase the risk of diabetes mellitus and to contact their physician if they develop symptoms [see Warnings and Precautions (5.16)].
+Inform patients that the use of Zortress may increase the risk of diabetes mellitus and to contact their physician if they develop symptoms [see Warnings and Precautions (5.16)].
 
 Immunizations
 
 Inform patients that vaccinations may be less effective while they are being treated with Zortress.
-Advise patients live vaccines should be avoided [see Warnings and Precautions (5.19)].
+Advise patients that live vaccines should be avoided [see Warnings and Precautions (5.19)].
 
-Patient with Hereditary Disorders
+Patient With Hereditary Disorders
 
 Advise patients to inform their physicians that if they have hereditary disorders of galactose intolerance (Lapp-lactase deficiency or glucose-galactose malabsorption) not to take Zortress [see Warnings and Precautions (5.21)].
 
@@ -86,4 +88,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2023-63
+T2024-12

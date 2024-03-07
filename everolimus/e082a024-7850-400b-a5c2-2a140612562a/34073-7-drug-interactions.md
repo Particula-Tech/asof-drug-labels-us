@@ -1,6 +1,6 @@
 # 7DRUG INTERACTIONS
 
-## 7.1 Interactions with Strong Inhibitors or Inducers of CYP3A4 and P-glycoprotein
+## 7.1 Interactions With Strong Inhibitors or Inducers of CYP3A4 and P-glycoprotein
 
 Everolimus is mainly metabolized by CYP3A4 in the liver and to some extent in the intestinal wall and is a substrate for the multidrug efflux pump, P-glycoprotein (P-gp).
 Therefore, absorption and subsequent elimination of systemically absorbed everolimus may be influenced by medicinal products that affect CYP3A4 and/or P-gp.
@@ -35,7 +35,7 @@ Multiple-dose verapamil administration to healthy volunteers significantly incre
 Everolimus half-life was not changed.
 If verapamil is coadministered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary [see Clinical Pharmacology (12.5)].
 
-## 7.6 Atorvastatin (CYP3A4 substrate) and Pravastatin (P-gp substrate)
+## 7.6 Atorvastatin (CYP3A4 Substrate) and Pravastatin (P-gp Substrate)
 
 Single-dose administration of Zortress with either atorvastatin or pravastatin to healthy subjects did not influence the pharmacokinetics of atorvastatin, pravastatin and everolimus, as well as total HMG-CoA reductase bioreactivity in plasma to a clinically relevant extent.
 However, these results cannot be extrapolated to other HMG-CoA reductase inhibitors.
@@ -50,7 +50,7 @@ Due to an interaction with cyclosporine, clinical studies of Zortress with cyclo
 Pretreatment of healthy subjects with multiple-dose rifampin followed by a single dose of Zortress increased everolimus clearance and decreased the everolimus Cmax and AUC estimates.
 Combination with rifampin is not recommended [see Warnings and Precautions (5.14), Clinical Pharmacology (12.5)].
 
-## 7.9 Midazolam (CYP3A4/5 substrate)
+## 7.9 Midazolam (CYP3A4/5 Substrate)
 
 Single-dose administration of midazolam to healthy volunteers following administration of multiple-dose Zortress indicated that everolimus is a weak inhibitor of CYP3A4/5.
 Dose adjustment of midazolam or other CYP3A4/5 substrates is not necessary when Zortress is coadministered with midazolam or other CYP3A4/5 substrates [see Clinical Pharmacology (12.5)].

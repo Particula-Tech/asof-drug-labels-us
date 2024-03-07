@@ -8,7 +8,7 @@ Dose adjustment is also required if the trough concentration is greater than 8 n
 
 ## 2.1 Dosage in Adult Kidney Transplant Patients
 
-An initial Zortress dose of 0.75 mg orally twice daily (1.5 mg per day) is recommended for adult kidney transplant patients in combination with reduced dose cyclosporine, administered as soon as possible after transplantation [see Dosage and Administration (2.3, 2.4), Clinical Studies (14.1)].
+An initial Zortress dose of 0.75 mg orally twice daily (1.5 mg per day) is recommended for adult kidney transplant patients in combination with reduced-dose cyclosporine, administered as soon as possible after transplantation [see Dosage and Administration (2.3, 2.4), Clinical Studies (14.1)].
 
 Oral prednisone should be initiated once oral medication is tolerated.
 Steroid doses may be further tapered on an individualized basis depending on the clinical status of patient and function of graft.
@@ -16,11 +16,11 @@ Steroid doses may be further tapered on an individualized basis depending on the
 ## 2.2 Dosage in Adult Liver Transplant Patients
 
 Start Zortress at least 30 days posttransplant.
-An initial dose of 1 mg orally twice daily (2 mg per day) is recommended for adult liver transplant patients in combination with reduced dose tacrolimus [see Dosage and Administration (2.3, 2.5), Clinical Studies (14.2)].
+An initial dose of 1 mg orally twice daily (2 mg per day) is recommended for adult liver transplant patients in combination with reduced-dose tacrolimus [see Dosage and Administration (2.3, 2.5), Clinical Studies (14.2)].
 
 Steroid doses may be further tapered on an individualized basis depending on the clinical status of patient and function of graft.
 
-## 2.3 Therapeutic Drug-Monitoring (TDM) - Everolimus
+## 2.3 Therapeutic Drug Monitoring (TDM) - Everolimus
 
 Routine everolimus whole blood therapeutic drug concentration monitoring is recommended for all patients.
 The recommended everolimus therapeutic range is 3 to 8 ng/mL [see Clinical Pharmacology (12.7)].
@@ -36,7 +36,7 @@ Because the measured everolimus whole blood trough concentrations depend on the 
 Consideration of assay results must be made with knowledge of the specific assay used.
 Therefore, communication should be maintained with the laboratory performing the assay.
 
-## 2.4 Therapeutic Drug-Monitoring (TDM) - Cyclosporine in Kidney Transplant Patients
+## 2.4 Therapeutic Drug Monitoring (TDM) - Cyclosporine in Kidney Transplant Patients
 
 Both cyclosporine doses and the target range for whole blood trough concentrations should be reduced, when given in a regimen with Zortress, in order to minimize the risk of nephrotoxicity [see Warnings and Precautions (5.6), Drug Interactions (7.2), Clinical Pharmacology (12.8)].
 
@@ -52,10 +52,10 @@ In renal transplant patients, the cyclosporine dose should be based on cyclospor
 
 In renal transplantation, there are limited data regarding dosing Zortress with reduced cyclosporine trough concentrations of 25 to 50 ng/mL after 12 months.
 Zortress has not been evaluated in clinical trials with other formulations of cyclosporine.
-Prior to dose reduction of cyclosporine, it should be ascertained that steady state everolimus whole blood trough concentration is at least 3 ng/mL.
+Prior to dose reduction of cyclosporine, it should be ascertained that steady-state everolimus whole blood trough concentration is at least 3 ng/mL.
 There is an interaction of cyclosporine on everolimus, and consequently, everolimus concentrations may decrease if cyclosporine exposure is reduced [see Drug Interactions (7.2)].
 
-## 2.5 Therapeutic Drug Monitoring (TDM) - Tacrolimus in Liver Transplant Patients
+## 2.5 Therapeutic Drug Monitoring (TDM) – Tacrolimus in Liver Transplant Patients
 
 Both tacrolimus doses and the target range for whole blood trough concentrations should be reduced, when given in a regimen with Zortress, in order to minimize the potential risk of nephrotoxicity [see Warnings and Precautions (5.6), Clinical Pharmacology (12.9)].
 
@@ -69,7 +69,7 @@ Tacrolimus is to be administered as oral capsules twice daily unless intravenous
 In liver transplant patients, the tacrolimus dose should be based on tacrolimus whole blood trough concentrations [see Clinical Pharmacology (12.9)].
 
 In liver transplantation, there are limited data regarding dosing Zortress with reduced tacrolimus trough concentrations of 3 to 5 ng/mL after 12 months.
-Prior to dose reduction of tacrolimus it should be ascertained that the steady-state everolimus whole blood trough concentration is at least 3 ng/mL.
+Prior to dose reduction of tacrolimus, it should be ascertained that the steady-state everolimus whole blood trough concentration is at least 3 ng/mL.
 Unlike the interaction between cyclosporine and everolimus, tacrolimus does not affect everolimus trough concentrations, and consequently, everolimus concentrations do not decrease if the tacrolimus exposure is reduced.
 
 ## 2.6 Administration
@@ -82,5 +82,5 @@ Administer Zortress consistently approximately 12 hours apart with or without fo
 
 Whole blood trough concentrations of everolimus should be closely monitored in patients with impaired hepatic function.
 For patients with mild hepatic impairment (Child-Pugh Class A), the initial daily dose should be reduced by approximately one-third of the normally recommended daily dose.
-For patients with moderate or severe hepatic impairment (Child-Pugh B or C), the initial daily dose should be reduced to approximately one-half of the normally recommended daily dose.
+For patients with moderate or severe hepatic impairment (Child-Pugh Class B or C), the initial daily dose should be reduced to approximately one-half of the normally recommended daily dose.
 Further dose adjustment and/or dose titration should be made if a patient’s whole blood trough concentration of everolimus, as measured by an LC/MS/MS assay, is not within the target trough concentration range of 3 to 8 ng/mL [see Clinical Pharmacology (12.6)].

@@ -5,7 +5,7 @@
 Risk Summary
 
 Based on animal studies and the mechanism of action [see Clinical Pharmacology (12.1)], Zortress can cause fetal harm when administered to a pregnant woman.
-There are limited case reports of Zortress use in pregnant women; however, these reports are insufficient to inform a drug associated risk of adverse developmental outcomes.
+There are limited case reports of Zortress use in pregnant women; however, these reports are insufficient to inform a drug-associated risk of adverse developmental outcomes.
 Reproductive studies in animals have demonstrated that everolimus was maternally toxic in rabbits and caused embryo-fetal toxicities in rats and rabbits, at exposures near or below those achieved in human transplant patients.
 Advise pregnant women of the potential risk to a fetus.
 
@@ -21,7 +21,7 @@ Everolimus administered daily to pregnant rats by oral gavage at 0.1 mg/kg (appr
 These effects occurred in the absence of maternal toxicities.
 
 Everolimus administered daily by oral gavage to pregnant rabbits during organogenesis resulted in abortions, maternal toxicity and lethality, and increased fetal resorptions.
-At these doses, exposure to everolimus (AUC) was approximately one-tenth, one-half, and one and one-half fold the exposures in humans administered the starting clinical dose, respectively.
+At these doses, exposure to everolimus (AUC) was approximately one-tenth-, one-half-, and one- and one-half-fold the exposures in humans administered the starting clinical dose, respectively.
 
 In a pre- and post-natal development study in rats, animals were dosed from implantation through lactation.
 At a dose of 0.1 mg/kg (0.6 mg/m2), there were no adverse effects on delivery and lactation or signs of maternal toxicity; however, there were reductions in body weight (up to 9% reduction) and in survival of offspring (~5%).
@@ -70,7 +70,7 @@ There is no evidence to suggest that elderly patients will require a different d
 
 Everolimus whole blood trough concentrations should be closely monitored in patients with impaired hepatic function.
 For patients with mild hepatic impairment (Child-Pugh Class A), the dose should be reduced by approximately one-third of the normally recommended daily dose.
-For patients with moderate or severe hepatic impairment (Child-Pugh B or C), the initial daily dose should be reduced to approximately half of the normally recommended daily dose.
+For patients with moderate or severe hepatic impairment (Child-Pugh Class B or C), the initial daily dose should be reduced to approximately half of the normally recommended daily dose.
 Further dose adjustment and/or dose titration should be made if a patient’s whole blood trough concentration of everolimus, as measured by an LC/MS/MS assay, is not within the target trough concentration range of 3 to 8 ng/mL [see Clinical Pharmacology (12.6)].
 
 ## 8.7 Renal Impairment
