@@ -64,7 +64,7 @@ Table 13 Mean (± SD) Tenofovir Pharmacokinetic Parameters for HIV-1-infected Pe
 | --- | --- |
 |  | 12 Years to <18 Years (N=8) |
 | Cmax (µg/mL) | 0.38 ± 0.13 |
-| AUCtau (µg•hr/mL) | 3.39 ± 1.22 |
+| Cmax (µg/mL) | 3.39 ± 1.22 |
 
 Tenofovir exposures in HBV-infected pediatric subjects (12 years to less than 18 years of age) receiving oral once-daily doses of tenofovir disoproxil fumarate 300 mg tablet were comparable to exposures achieved in HIV-1 infected adult subjects receiving identical doses.
 
@@ -109,8 +109,10 @@ No clinically significant drug interactions have been observed between tenofovir
 
 Table 15 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovira in the Presence of the Coadministered Drug
 
-| Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Tenofovir Pharmacokinetic Parametersb (90% CI) |  |  |
+| Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Tenofovir Pharmacokinetic Parametersb (90% CI) |  |  |
+| Cmax | AUC | Cmin |  |  |  |
 | Cmax | AUC | Cmin |  |  |  |
 | Atazanavirc | 400 once daily × 14 days | 33 | ↑ 14 (↑ 8 to ↑ 20) | ↑ 24 (↑ 21 to ↑ 28) | ↑ 22 (↑ 15 to ↑ 30) |
 | Atazanavir/ Ritonavirc | 300/100 once daily | 12 | ↑ 34 (↑ 20 to ↑ 51) | ↑ 37 (↑ 30 to ↑ 45) | ↑ 29 (↑ 21 to ↑ 36) |
@@ -147,8 +149,10 @@ No effect on the pharmacokinetic parameters of the following coadministered drug
 
 Table 16 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir disoproxil fumarate
 
-| Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Coadministered Drug Pharmacokinetic Parametersa (90% CI) |  |  |
+| Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Coadministered Drug Pharmacokinetic Parametersa (90% CI) |  |  |
+| Cmax | AUC | Cmin |  |  |  |
 | Cmax | AUC | Cmin |  |  |  |
 | Abacavir | 300 once | 8 | ↑ 12 (↓ 1 to ↑ 26) | ⇔ | NA |
 | Atazanavirb | 400 once daily × 14 days | 34 | ↓ 21 (↓ 27 to ↓ 14) | ↓ 25 (↓ 30 to ↓ 19) | ↓ 40 (↓ 48 to ↓ 32) |
@@ -201,14 +205,14 @@ HIV-1 isolates with reduced susceptibility to tenofovir have been selected in ce
 These viruses expressed a K65R substitution in RT and showed a 2- to 4-fold reduction in susceptibility to tenofovir.
 In addition, a K70E substitution in HIV-1 RT has been selected by tenofovir and results in low-level reduced susceptibility to tenofovir.
 
-In Trial 903 of treatment-naïve subjects (tenofovir disoproxil fumarate + 3TC + EFV versus d4T + 3TC + EFV) [see Clinical Studies (14.2)], genotypic analyses of isolates from subjects with virologic failure through Week 144 showed development of EFV and 3TC resistance-associated substitutions to occur most frequently and with no difference between the treatment arms.
+In Trial 903 of treatment-naïve subjects (tenofovir disoproxil fumarate &#43; 3TC &#43; EFV versus d4T &#43; 3TC &#43; EFV) [see Clinical Studies (14.2)], genotypic analyses of isolates from subjects with virologic failure through Week 144 showed development of EFV and 3TC resistance-associated substitutions to occur most frequently and with no difference between the treatment arms.
 The K65R substitution occurred in 8/47 (17%) of analyzed patient isolates in the tenofovir disoproxil fumarate arm and in 2/49 (4%) of analyzed patient isolates in the d4T arm.
 Of the 8 subjects whose virus developed K65R in the tenofovir disoproxil fumarate arm through 144 weeks, 7 occurred in the first 48 weeks of treatment and one at Week 96.
 One patient in the tenofovir disoproxil fumarate arm developed the K70E substitution in the virus.
 Other substitutions resulting in resistance to tenofovir disoproxil fumarate were not identified in this trial.
 
-In Trial 934 of treatment-naïve subjects (tenofovir disoproxil fumarate + FTC + EFV versus AZT/3TC + EFV) [see Clinical Studies (14.2)], genotypic analysis performed on HIV-1 isolates from all confirmed virologic failure subjects with >400 copies/mL of HIV-1 RNA at Week 144 or early discontinuation showed development of EFV resistance-associated substitutions occurred most frequently and was similar between the two treatment arms.
-The M184V substitution, associated with resistance to FTC and 3TC, was observed in 2/19 of analyzed subject isolates in the tenofovir disoproxil fumarate + FTC group and in 10/29 of analyzed subject isolates in the AZT/3TC group.
+In Trial 934 of treatment-naïve subjects (tenofovir disoproxil fumarate &#43; FTC &#43; EFV versus AZT/3TC &#43; EFV) [see Clinical Studies (14.2)], genotypic analysis performed on HIV-1 isolates from all confirmed virologic failure subjects with >400 copies/mL of HIV-1 RNA at Week 144 or early discontinuation showed development of EFV resistance-associated substitutions occurred most frequently and was similar between the two treatment arms.
+The M184V substitution, associated with resistance to FTC and 3TC, was observed in 2/19 of analyzed subject isolates in the tenofovir disoproxil fumarate &#43; FTC group and in 10/29 of analyzed subject isolates in the AZT/3TC group.
 Through 144 weeks of Trial 934, no subjects have developed a detectable K65R substitution in their HIV-1 as analyzed through standard genotypic analysis.
 
 Cross Resistance
@@ -219,7 +223,7 @@ HIV-1 isolates with this substitution also show reduced susceptibility to FTC an
 Therefore, cross resistance among these drugs may occur in patients whose virus harbors the K65R or K70E substitution.
 HIV-1 isolates from subjects (N=20) whose HIV-1 expressed a mean of three AZT-associated RT substitutions (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N), showed a 3.1-fold decrease in the susceptibility to tenofovir.
 
-In Trials 902 and 907 conducted in treatment-experienced subjects (tenofovir disoproxil fumarate + Standard Background Therapy (SBT) compared to placebo + SBT) [see Clinical Studies (14.2)], 14/304 (5%) of the tenofovir disoproxil fumarate-treated subjects with virologic failure through Week 96 had >1.4-fold (median 2.7-fold) reduced susceptibility to tenofovir.
+In Trials 902 and 907 conducted in treatment-experienced subjects (tenofovir disoproxil fumarate &#43; Standard Background Therapy (SBT) compared to placebo &#43; SBT) [see Clinical Studies (14.2)], 14/304 (5%) of the tenofovir disoproxil fumarate-treated subjects with virologic failure through Week 96 had >1.4-fold (median 2.7-fold) reduced susceptibility to tenofovir.
 Genotypic analysis of the baseline and failure isolates showed the development of the K65R substitution in the HIV-1 RT gene.
 
 The virologic response to tenofovir disoproxil fumarate therapy has been evaluated with respect to baseline viral genotype (N=222) in treatment-experienced subjects participating in Trials 902 and 907.

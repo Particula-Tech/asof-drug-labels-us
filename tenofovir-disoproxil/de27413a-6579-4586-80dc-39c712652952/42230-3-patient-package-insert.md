@@ -1,5 +1,3 @@
-# PATIENT MEDICATION INFORMATION SECTION
-
 Patient Information
 
 Tenofovir disoproxil fumarate Tablets
@@ -77,3 +75,97 @@ How should I take tenofovir disoproxil fumarate tablets?
   Missing a dose lowers the amount of medicine in your blood.
   Refill your tenofovir disoproxil fumarate prescription before you run out of medicine.
 - If you take too much tenofovir disoproxil fumarate tablet, call your local poison control center or go right away to the nearest hospital emergency room.
+
+What are the possible side effects of tenofovir disoproxil fumarate?
+
+Tenofovir disoproxil fumarate may cause serious side effects, including:
+
+- See "What is the most important information I should know about tenofovir disoproxil fumarate tablets?"
+- New or worse kidney problems, including kidney failure.
+  Your healthcare provider should do blood and urine tests to check your kidneys before you start and during treatment with tenofovir disoproxil fumarate.
+  Your healthcare provider may tell you to take tenofovir disoproxil fumarate less often, or to stop taking tenofovir disoproxil fumarate if you get new or worse kidney problems.
+- Changes in your immune system (Immune Reconstitution Syndrome) can happen when an HIV-1 infected person starts taking HIV medicines.
+  Your immune system may get stronger and begin to fight infections that have been hidden in your body for a long time.
+  Tell your healthcare provider right away if you start having new symptoms after starting your tenofovir disoproxil fumarate for the treatment of HIV-1 infection.
+- Bone problems can happen in some children or adults who take tenofovir disoproxil fumarate.
+  Bone problems include bone pain, or softening or thinning of bones, which may lead to fractures.
+  Your healthcare provider may need to do tests to check your bones or your child's bones.
+- Too much lactic acid in your blood (lactic acidosis).
+  Too much lactic acid is a serious but rare medical emergency that can lead to death.
+  Tell your healthcare provider right away if you get these symptoms: weakness or being more tired than usual, unusual muscle pain, being short of breath or fast breathing, stomach pain with nausea and vomiting, cold or blue hands and feet, feel dizzy or lightheaded, or a fast or abnormal heartbeat.
+- Severe liver problems.
+  In rare cases, severe liver problems can happen that can lead to death.
+  Tell your healthcare provider right away if you get these symptoms: skin or the white part of your eyes turns yellow, dark "tea-colored" urine, light-colored stools, loss of appetite for several days or longer, nausea, or stomach-area pain.
+
+The most common side effects in all people taking tenofovir disoproxil fumarate are:
+
+| &#9679; nausea | &#9679; pain |
+| --- | --- |
+| &#9679; rash | &#9679; depression |
+| &#9679; diarrhea | &#9679; weakness |
+| &#9679; headache |  |
+
+In some people with advanced HBV-infection, other common side effects may include:
+
+| &#9679; fever | &#9679; stomach-area pain |
+| --- | --- |
+| &#9679; itching | &#9679; dizziness |
+| &#9679; vomiting | &#9679; sleeping problems |
+
+These are not all the possible side effects of tenofovir disoproxil fumarate.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+How should I store Tenofovir disoproxil fumarate tablet?
+
+- Store tenofovir disoproxil fumarate tablet at 59°F to 86°F (15°C to 30°C).
+- Keep tenofovir disoproxil fumarate tablets in the original container
+- Keep the bottle tightly closed.
+- Do not use tenofovir disoproxil fumarate tablet if the seal over the bottle opening is broken or missing.
+
+Keep tenofovir disoproxil fumarate tablet and all medicines out of the reach of children.
+
+General information about the safe and effective use of Tenofovir disoproxil fumarate:
+
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+Do not use tenofovir disoproxil fumarate for a condition for which it was not prescribed.
+Do not give tenofovir disoproxil fumarate to other people, even if they have the same condition you have.
+It may harm them.
+You can ask your pharmacist or healthcare provider for information about tenofovir disoproxil fumarate that is written for health professionals.
+
+A vaccine is available to protect people at risk for becoming infected with HBV.
+You can ask your healthcare provider for information about this vaccine.
+
+What are the ingredients in Tenofovir disoproxil fumarate tablet?
+
+Active ingredient: tenofovir disoproxil fumarate
+
+Inactive ingredients: Lactose monohydrate, Croscarmellose sodium, Corn starch, Polysorbate 80, Microcrystalline cellulose, Magnesium stearate.
+
+Tablet Coating: Opadry II Y-30-10671-A Light blue (Lactose monohydrate, HPMC2910/Hypromellose 15cP, Titanium dioxide, Triacetin / Glycerol triacetate, FD&#38;C Blue #2/Indigo carmine Aluminum Lake).
+
+For more information, go to www.ciplausa.com or call Cipla Ltd. at 1-866-604-3268.
+
+VIREAD is a trademark of Gilead Sciences, Inc., or its related companies.
+All other trademarks referenced herein are the property of their respective owners.
+
+Manufactured by:
+
+CIPLA LTD.
+
+Verna,
+
+Goa 403 722
+
+INDIA
+
+Manufactured for:
+
+Cipla USA, Inc.
+
+10 Independence Boulevard, Suite 300
+
+Warren, NJ 07059
+
+Revised: 10/2019
