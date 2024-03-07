@@ -16,27 +16,27 @@ Dosage modifications for adverse reactions that require management different fro
 
 Table 1: Recommended Dosage Modifications for Adverse Reactions
 
-| Adverse Reaction | Severity* |  | Dose Modification |  |
-| --- | --- | --- | --- | --- |
-| Immune-Mediated Adverse Reactions [see Warnings and Precautions (5.1)] |  |  |  |  |
-| Pneumonitis | Grade 2 |  | Withholda |  |
-| Grade 3 or 4 |  | Permanently discontinue |  |  |
-| Colitis | Grade 2 or 3 |  | Withholda |  |
-| Grade 4 |  | Permanently discontinue |  |  |
-| Hepatitis | AST/ALT increases to more than 3 and up to 8 times ULNorTotal bilirubin increases to more than 1.5 and up to 3 times ULN. |  | Withholda |  |
-| AST or ALT increases to more than 8 times ULN regardless of baseline.orTotal bilirubin increases to more than 3 times ULN. |  | Permanently discontinue |  |  |
-| Endocrinopathiesb | Grade 3 or 4 |  | Withhold until clinically stable or permanently discontinue depending on severity |  |
-| Nephritis with Renal Dysfunction | Grade 2 or 3 increased blood creatinine |  | Withholda |  |
-| Grade 4 increased blood creatinine |  | Permanently discontinue |  |  |
-| Exfoliative Dermatologic Conditions | Suspected SJS, TEN, or DRESS |  | Withhold |  |
-| Confirmed SJS, TEN, or DRESS |  | Permanently discontinue |  |  |
-| Myocarditis | Grade 2, 3, or 4 |  | Permanently discontinue |  |
-| Neurological Toxicities | Grade 2 |  | Withholda |  |
-| Grade 3 or 4 |  | Permanently discontinue |  |  |
-| Other Adverse Reactions |  |  |  |  |
-| Infusion-Related Reactions[see Warnings and Precautions (5.2)] | Grade 1 or 2 |  | Interrupt or slow the rate of infusion |  |
-| Grade 3 or 4 |  | Permanently discontinue |  |  |
-| * Based on National Cancer Institute Common Terminology Criteria for Adverse Events, Version 5.0. a Resume in patients with complete or partial resolution (Grade 0 to 1) after corticosteroid taper. Permanently discontinue if no complete or partial resolution within 12 weeks of last dose or inability to reduce prednisone to 10 mg per day (or equivalent) or less within 12 weeks of initiating steroids. b Depending on clinical severity, consider withholding for Grade 2 endocrinopathy until symptom improvement with hormone replacement. Resume once acute symptoms have resolved. ALT = alanine aminotransferase, AST = aspartate aminotransferase, DRESS = Drug Rash with Eosinophilia and Systemic Symptoms, SJS = Stevens Johnson Syndrome, TEN = toxic epidermal necrolysis, ULN = upper limit normal |  |  |  |  |
+| Adverse Reaction | Severity* |  | Dose Modification |
+| --- | --- | --- | --- |
+| Immune-Mediated Adverse Reactions [see Warnings and Precautions (5.1)] |  |  |  |
+| Pneumonitis | Grade 2 |  | Withholda |
+| Grade 3 or 4 |  | Permanently discontinue |  |
+| Colitis | Grade 2 or 3 |  | Withholda |
+| Grade 4 |  | Permanently discontinue |  |
+| Hepatitis | AST/ALT increases to more than 3 and up to 8 times ULNorTotal bilirubin increases to more than 1.5 and up to 3 times ULN. |  | Withholda |
+| AST or ALT increases to more than 8 times ULN regardless of baseline.orTotal bilirubin increases to more than 3 times ULN. |  | Permanently discontinue |  |
+| Endocrinopathiesb | Grade 3 or 4 |  | Withhold until clinically stable or permanently discontinue depending on severity |
+| Nephritis with Renal Dysfunction | Grade 2 or 3 increased blood creatinine |  | Withholda |
+| Grade 4 increased blood creatinine |  | Permanently discontinue |  |
+| Exfoliative Dermatologic Conditions | Suspected SJS, TEN, or DRESS |  | Withhold |
+| Confirmed SJS, TEN, or DRESS |  | Permanently discontinue |  |
+| Myocarditis | Grade 2, 3, or 4 |  | Permanently discontinue |
+| Neurological Toxicities | Grade 2 |  | Withholda |
+| Grade 3 or 4 |  | Permanently discontinue |  |
+| Other Adverse Reactions |  |  |  |
+| Infusion-Related Reactions[see Warnings and Precautions (5.2)] | Grade 1 or 2 |  | Interrupt or slow the rate of infusion |
+| Grade 3 or 4 |  | Permanently discontinue |  |
+| * Based on National Cancer Institute Common Terminology Criteria for Adverse Events, Version 5.0. a Resume in patients with complete or partial resolution (Grade 0 to 1) after corticosteroid taper. Permanently discontinue if no complete or partial resolution within 12 weeks of last dose or inability to reduce prednisone to 10 mg per day (or equivalent) or less within 12 weeks of initiating steroids. b Depending on clinical severity, consider withholding for Grade 2 endocrinopathy until symptom improvement with hormone replacement. Resume once acute symptoms have resolved. ALT = alanine aminotransferase, AST = aspartate aminotransferase, DRESS = Drug Rash with Eosinophilia and Systemic Symptoms, SJS = Stevens Johnson Syndrome, TEN = toxic epidermal necrolysis, ULN = upper limit normal |  |  |  |
 
 ## 2.3 Preparation and Administration
 

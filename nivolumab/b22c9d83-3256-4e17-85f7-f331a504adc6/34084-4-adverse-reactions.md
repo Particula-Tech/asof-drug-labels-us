@@ -59,16 +59,16 @@ Clinically relevant adverse reactions in <15% of patients who received OPDUALAG 
 
 Table 4: Laboratory Abnormalities (≥15%) That Worsened from Baselinea in Patients Who Received OPDUALAG in RELATIVITY-047
 
-| Laboratory Abnormality | OPDUALAGa |  | Nivolumaba |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |  |  |  |  |  |
-| Chemistry |  |  |  |  |  |  |  |  |  |
-| Increased AST | 30 | 2.3 | 22 | 1.4 |  |  |  |  |  |
-| Increased ALT | 26 | 3.2 | 25 | 2 |  |  |  |  |  |
-| Decreased sodium | 24 | 1.2 | 21 | 0.6 |  |  |  |  |  |
-| Increased alkaline phosphatase | 19 | 0.6 | 17 | 0.9 |  |  |  |  |  |
-| Increased creatinine | 19 | 0 | 16 | 0 |  |  |  |  |  |
-| Hematology |  |  |  |  |  |  |  |  |  |
-| Decreased hemoglobin | 37 | 2.7 | 31 | 3.5 |  |  |  |  |  |
-| Decreased lymphocytes | 32 | 2.5 | 24 | 2.9 |  |  |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDUALAG group (range: 280 to 342 patients) and nivolumab group (range: 276 to 345 patients). |  |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | OPDUALAGa |  | Nivolumaba |  |
+| --- | --- | --- | --- | --- |
+| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |
+| Chemistry |  |  |  |  |
+| Increased AST | 30 | 2.3 | 22 | 1.4 |
+| Increased ALT | 26 | 3.2 | 25 | 2 |
+| Decreased sodium | 24 | 1.2 | 21 | 0.6 |
+| Increased alkaline phosphatase | 19 | 0.6 | 17 | 0.9 |
+| Increased creatinine | 19 | 0 | 16 | 0 |
+| Hematology |  |  |  |  |
+| Decreased hemoglobin | 37 | 2.7 | 31 | 3.5 |
+| Decreased lymphocytes | 32 | 2.5 | 24 | 2.9 |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDUALAG group (range: 280 to 342 patients) and nivolumab group (range: 276 to 345 patients). |  |  |  |  |
