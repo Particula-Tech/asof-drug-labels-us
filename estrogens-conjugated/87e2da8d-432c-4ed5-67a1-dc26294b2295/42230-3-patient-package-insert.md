@@ -115,7 +115,7 @@ Each Premarin Intravenous (conjugated estrogens, USP) for injection package prov
 |  | This product's label may have been updated. For current full prescribing information, please visit www.pfizer.com. |  |
 | --- | --- | --- |
 
-LAB-0505-5.0 Rev 12/2021
+LAB-0505-6.0 Revised 02/2024
 
 # PATIENT INFORMATION
 
@@ -233,7 +233,7 @@ The reconstituted solution is suitable for intravenous or intramuscular injectio
 
 Each Premarin Intravenous (conjugated estrogens, USP) for injection package provides 25 mg/vial of conjugated estrogens, USP, in dry form for intravenous or intramuscular use.
 
-|  | This product's label may have been updated. For current full prescribing information, please visit www.pfizer.com. |  |
+|  | This product's label may have been updated. For current full prescribing information, please visit www.pfizer.com |  |
 | --- | --- | --- |
 
 LAB-0518-4.0 Rev 12/2021
