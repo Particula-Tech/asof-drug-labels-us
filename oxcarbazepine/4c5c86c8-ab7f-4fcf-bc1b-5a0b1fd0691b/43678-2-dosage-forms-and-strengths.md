@@ -3,11 +3,11 @@
 Film-coated Tablets:
 
 - 150 mg: pale grey-green, ovaloid, slightly biconvex, scored on both sides.
-  Imprinted with T/D on one side and C/G on the other side.
+  Imprinted with “T/D” on one side and “C/G” on the other side.
 - 300 mg: yellow, ovaloid, slightly biconvex, scored on both sides.
-  Imprinted with TE/TE on one side and CG/CG on the other side.
+  Imprinted with “TE/TE” on one side and “CG/CG” on the other side.
 - 600 mg: light pink, ovaloid, slightly biconvex, scored on both sides.
-  Imprinted with TF/TF on one side and CG/CG on the other side.
+  Imprinted with “TF/TF” on one side and “CG/CG” on the other side.
 
 Oral Suspension:
 

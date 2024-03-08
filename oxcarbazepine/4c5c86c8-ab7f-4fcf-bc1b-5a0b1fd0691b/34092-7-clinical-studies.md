@@ -9,7 +9,7 @@ The effectiveness of TRILEPTAL as monotherapy for partial-onset seizures in chil
 Four randomized, controlled, double-blind, multicenter trials, conducted in a predominately adult population, demonstrated the efficacy of TRILEPTAL as monotherapy.
 Two trials compared TRILEPTAL to placebo and 2 trials used a randomized withdrawal design to compare a high dose (2400 mg) with a low dose (300 mg) of TRILEPTAL, after substituting TRILEPTAL 2400 mg/day for 1 or more AEDs.
 All doses were administered on a twice a day schedule.
-A fifth randomized, controlled, rater-blind, multicenter study, conducted in a pediatric population, failed to demonstrate a statistically significant difference between low and high dose TRILEPTAL-treatment groups.
+A fifth randomized, controlled, rater-blind, multicenter study, conducted in a pediatric population, failed to demonstrate a statistically significant difference between low- and high-dose TRILEPTAL-treatment groups.
 
 One placebo-controlled trial was conducted in 102 patients (11 to 62 years of age) with refractory partial-onset seizures who had completed an inpatient evaluation for epilepsy surgery.
 Patients had been withdrawn from all AEDs and were required to have 2 to 10 partial-onset seizures within 48 hours prior to randomization.
@@ -63,19 +63,18 @@ This comparison was statistically significant in favor of TRILEPTAL at all doses
 The number of patients randomized to each dose, the median baseline seizure rate, and the median percentage seizure rate reduction for each trial are shown in Table 8.
 It is important to note that in the high-dose group in the study in adults, over 65% of patients discontinued treatment because of adverse events; only 46 (27%) of the patients in this group completed the 28-week study [see Adverse Reactions (6)], an outcome not seen in the monotherapy studies.
 
-Table 8: Summary of Percentage Change in Partial-Onset Seizure Frequency from Baseline for Placebo-Controlled Adjunctive Therapy Trials
+Table 8: Summary of Percentage Change in Partial-Onset Seizure Frequency From Baseline for Placebo-Controlled Adjunctive Therapy Trials
 
-| Trial | Treatment Group |  |  |  |  |  |
+| Trial | Treatment group |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  | N |  | Baseline Median Seizure Rate* |  | Median % Reduction |
+|  |  | N |  | Baseline median seizure rate* |  | Median % reduction |
 | 1 (pediatrics) | TRILEPTAL | 136 |  | 12.5 |  | 34.81 |
 |  | Placebo | 128 |  | 13.1 |  | 9.4 |
 | 2 (adults) | TRILEPTAL 2400 mg/day | 174 |  | 10.0 |  | 49.91 |
 |  | TRILEPTAL 1200 mg/day | 177 |  | 9.8 |  | 40.21 |
 |  | TRILEPTAL 600 mg/day | 168 |  | 9.6 |  | 26.41 |
 |  | Placebo | 173 |  | 8.6 |  | 7.6 |
-
-1p = 0.0001. *=number of seizures per 28 days.
+| 1p = 0.0001. * = number of seizures per 28 days. |  |  |  |  |  |  |
 
 Subset analyses of the antiepileptic efficacy of TRILEPTAL with regard to gender in these trials revealed no important differences in response between men and women.
 Because there were very few patients over the age of 65 years in controlled trials, the effect of the drug in the elderly has not been adequately assessed.

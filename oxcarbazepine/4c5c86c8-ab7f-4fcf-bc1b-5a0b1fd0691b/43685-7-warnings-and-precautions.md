@@ -36,9 +36,9 @@ The reporting rate of TEN and SJS associated with TRILEPTAL use, which is genera
 Estimates of the background incidence rate for these serious skin reactions in the general population range between 0.5 to 6 cases per million-person years.
 Therefore, if a patient develops a skin reaction while taking TRILEPTAL, consideration should be given to discontinuing TRILEPTAL use and prescribing another antiepileptic medication.
 
-Association With HLAB*1502
+Association With HLA-B*1502
 
-Patients carrying the HLA-B*1502 allele may be at increased risk for SJS/TEN with Trileptal treatment.
+Patients carrying the HLA-B*1502 allele may be at increased risk for SJS/TEN with TRILEPTAL treatment.
 Human Leukocyte Antigen (HLA) allele B*1502 increases the risk for developing SJS/TEN in patients treated with carbamazepine.
 The chemical structure of TRILEPTAL is similar to that of carbamazepine.
 Available clinical evidence, and data from nonclinical studies showing a direct interaction between TRILEPTAL and HLA-B*1502 protein, suggest that the HLA-B*1502 allele may also increase the risk for SJS/TEN with TRILEPTAL.
@@ -74,7 +74,7 @@ Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo Patients With Events Per 1000 Patients | Drug Patients With Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients With Events Per 1000 Patients |
+| Indication | Placebo patients with events per 1000 patients | Drug patients with events per 1000 patients | Relative risk: incidence of events in drug patients/incidence in placebo patients | Risk difference: additional drug patients with events per 1000 patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |

@@ -18,7 +18,7 @@ Instruct patients to report symptoms of low sodium like nausea, tiredness, lack 
 Anaphylactic Reactions and Angioedema
 
 Anaphylactic reactions and angioedema may occur during treatment with TRILEPTAL.
-Advise patients to report immediately signs and symptoms suggesting angioedema (swelling of the face, eyes, lips, tongue or difficulty in swallowing or breathing) and to stop taking the drug until they have consulted with their physician [see Warnings and Precautions (5.2)].
+Advise patients to report immediately signs and symptoms suggesting angioedema (swelling of the face, eyes, lips, tongue, or difficulty in swallowing or breathing) and to stop taking the drug until they have consulted with their physician [see Warnings and Precautions (5.2)].
 
 Cross Hypersensitivity Reaction to Carbamazepine
 
@@ -59,6 +59,6 @@ Caution should be exercised if alcohol is taken in combination with TRILEPTAL, d
 Pregnancy Registry
 
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
-This registry is collecting information about the safety of antiepileptic drugs (AEDs) during pregnancy [see Use in Specific Populations (8.1)].
+This registry is collecting information about the safety of AEDs during pregnancy [see Use in Specific Populations (8.1)].
 
-T2020-66
+T2024-09

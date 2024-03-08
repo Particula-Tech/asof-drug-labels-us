@@ -47,7 +47,7 @@ The adverse reactions most commonly associated (≥ 1%) with discontinuation wer
 
 Adjunctive Therapy/Monotherapy in Pediatric Patients 1 Month to < 4 Years Old Previously Treated or Not Previously Treated with Other AEDs:
 
-The most common (≥ 5%) adverse reactions with TRILEPTAL in these patients were similar to those seen in older children and adults except for infections and infestations which were more frequently seen in these younger children.
+The most common (≥ 5%) adverse reactions with TRILEPTAL in these patients were similar to those seen in older children and adults, except for infections and infestations which were more frequently seen in these younger children.
 
 Approximately 11% of these 241 pediatric patients discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated with discontinuation were: convulsions (3.7%), status epilepticus (1.2%), and ataxia (1.2%).
@@ -61,87 +61,89 @@ Note that in some of these monotherapy studies patients who dropped out during a
 
 Table 3: Adverse Reactions in a Controlled Clinical Study of Adjunctive Therapy With TRILEPTAL in Adults
 
-|  | TRILEPTAL Dosage (mg/day) |  |  |  |
+|  | TRILEPTAL dosage (mg/day) |  |  |  |
 | --- | --- | --- | --- | --- |
-| Body System/ Adverse Reaction | TRILEPTAL 600 N = 163 % | TRILEPTAL 1200 N = 171 % | TRILEPTAL 2400 N = 126 % | Placebo N = 166 % |
-| Body as a Whole |  |  |  |  |
+| Body system/ Adverse reaction | TRILEPTAL 600 N = 163 % | TRILEPTAL 1200 N = 171 % | TRILEPTAL 2400 N = 126 % | Placebo N = 166 % |
+| Body as a whole |  |  |  |  |
 | Fatigue | 15 | 12 | 15 | 7 |
 | Asthenia | 6 | 3 | 6 | 5 |
-| Leg Edema | 2 | 1 | 2 | 1 |
-| Increased Weight | 1 | 2 | 2 | 1 |
-| Feeling Abnormal | 0 | 1 | 2 | 0 |
-| Cardiovascular System |  |  |  |  |
+| Leg edema | 2 | 1 | 2 | 1 |
+| Increased weight | 1 | 2 | 2 | 1 |
+| Feeling abnormal | 0 | 1 | 2 | 0 |
+| Cardiovascular system |  |  |  |  |
 | Hypotension | 0 | 1 | 2 | 0 |
-| Digestive System |  |  |  |  |
+| Digestive system |  |  |  |  |
 | Nausea | 15 | 25 | 29 | 10 |
 | Vomiting | 13 | 25 | 36 | 5 |
-| Abdominal Pain | 10 | 13 | 11 | 5 |
+| Abdominal pain | 10 | 13 | 11 | 5 |
 | Diarrhea | 5 | 6 | 7 | 6 |
 | Dyspepsia | 5 | 5 | 6 | 2 |
 | Constipation | 2 | 2 | 6 | 4 |
 | Gastritis | 2 | 1 | 2 | 1 |
-| Metabolic and Nutritional Disorders |  |  |  |  |
+| Metabolic and nutritional disorders |  |  |  |  |
 | Hyponatremia | 3 | 1 | 2 | 1 |
-| Musculoskeletal System |  |  |  |  |
-| Muscle Weakness | 1 | 2 | 2 | 0 |
-| Sprains and Strains | 0 | 2 | 2 | 1 |
-| Nervous System |  |  |  |  |
+| Musculoskeletal system |  |  |  |  |
+| Muscle weakness | 1 | 2 | 2 | 0 |
+| Sprains and strains | 0 | 2 | 2 | 1 |
+| Nervous system |  |  |  |  |
 | Headache | 32 | 28 | 26 | 23 |
 | Dizziness | 26 | 32 | 49 | 13 |
 | Somnolence | 20 | 28 | 36 | 12 |
 | Ataxia | 9 | 17 | 31 | 5 |
 | Nystagmus | 7 | 20 | 26 | 5 |
-| Abnormal Gait | 5 | 10 | 17 | 1 |
+| Abnormal gait | 5 | 10 | 17 | 1 |
 | Insomnia | 4 | 2 | 3 | 1 |
 | Tremor | 3 | 8 | 16 | 5 |
 | Nervousness | 2 | 4 | 2 | 1 |
 | Agitation | 1 | 1 | 2 | 1 |
-| Abnormal Coordination | 1 | 3 | 2 | 1 |
+| Abnormal coordination | 1 | 3 | 2 | 1 |
 | Abnormal EEG | 0 | 0 | 2 | 0 |
-| Speech Disorder | 1 | 1 | 3 | 0 |
+| Speech disorder | 1 | 1 | 3 | 0 |
 | Confusion | 1 | 1 | 2 | 1 |
-| Cranial Injury NOS | 1 | 0 | 2 | 1 |
+| Cranial injury NOS | 1 | 0 | 2 | 1 |
 | Dysmetria | 1 | 2 | 3 | 0 |
-| Abnormal Thinking | 0 | 2 | 4 | 0 |
-| Respiratory System |  |  |  |  |
+| Abnormal thinking | 0 | 2 | 4 | 0 |
+| Respiratory system |  |  |  |  |
 | Rhinitis | 2 | 4 | 5 | 4 |
-| Skin and Appendages |  |  |  |  |
+| Skin and appendages |  |  |  |  |
 | Acne | 1 | 2 | 2 | 0 |
-| Special Senses |  |  |  |  |
+| Special senses |  |  |  |  |
 | Diplopia | 14 | 30 | 40 | 5 |
 | Vertigo | 6 | 12 | 15 | 2 |
-| Abnormal Vision | 6 | 14 | 13 | 4 |
-| Abnormal Accommodation | 0 | 0 | 2 | 0 |
+| Abnormal vision | 6 | 14 | 13 | 4 |
+| Abnormal accommodation | 0 | 0 | 2 | 0 |
+| Abbreviations: EEG, electroencephalogram; NOS, not otherwise specified. |  |  |  |  |
 
-Table 4: Adverse Reactions in Controlled Clinical Studies of Monotherapy With TRILEPTAL in Adults Previously Treated With Other AEDs
+Table 4: Adverse Reactions in Controlled Clinical Studies of Monotherapy With TRILEPTAL in Adults Previously Treated With Other Antiepileptic Drugs
 
-| Body System/ Adverse Reaction | TRILEPTAL 2400 mg/day N = 86 % | TRILEPTAL 300 mg/day N = 86 % |
+| Body system/ Adverse reaction | TRILEPTAL dosage (mg/day) |  |
 | --- | --- | --- |
-| Body as a Whole |  |  |
+|  | TRILEPTAL 2400 mg/day N = 86 % | TRILEPTAL 300 mg/day N = 86 % |
+| Body as a whole |  |  |
 | Fatigue | 21 | 5 |
 | Fever | 3 | 0 |
 | Allergy | 2 | 0 |
-| Generalized Edema | 2 | 1 |
-| Chest Pain | 2 | 0 |
-| Digestive System |  |  |
+| Generalized edema | 2 | 1 |
+| Chest pain | 2 | 0 |
+| Digestive system |  |  |
 | Nausea | 22 | 7 |
 | Vomiting | 15 | 5 |
 | Diarrhea | 7 | 5 |
 | Dyspepsia | 6 | 1 |
 | Anorexia | 5 | 3 |
-| Abdominal Pain | 5 | 3 |
-| Dry Mouth | 3 | 0 |
-| Hemorrhage Rectum | 2 | 0 |
+| Abdominal pain | 5 | 3 |
+| Dry mouth | 3 | 0 |
+| Hemorrhage rectum | 2 | 0 |
 | Toothache | 2 | 1 |
-| Hemic and Lymphatic System |  |  |
+| Hemic and lymphatic system |  |  |
 | Lymphadenopathy | 2 | 0 |
-| Infections and Infestations |  |  |
-| Viral Infection | 7 | 5 |
+| Infections and infestations |  |  |
+| Viral infection | 7 | 5 |
 | Infection | 2 | 0 |
-| Metabolic and Nutritional Disorders |  |  |
+| Metabolic and nutritional disorders |  |  |
 | Hyponatremia | 5 | 0 |
 | Thirst | 2 | 0 |
-| Nervous System |  |  |
+| Nervous system |  |  |
 | Headache | 31 | 15 |
 | Dizziness | 28 | 8 |
 | Somnolence | 19 | 5 |
@@ -152,107 +154,109 @@ Table 4: Adverse Reactions in Controlled Clinical Studies of Monotherapy With TR
 | Insomnia | 6 | 3 |
 | Tremor | 6 | 3 |
 | Amnesia | 5 | 1 |
-| Aggravated Convulsions | 5 | 2 |
-| Emotional Lability | 3 | 2 |
+| Aggravated convulsions | 5 | 2 |
+| Emotional lability | 3 | 2 |
 | Hypoesthesia | 3 | 1 |
-| Abnormal Coordination | 2 | 1 |
+| Abnormal coordination | 2 | 1 |
 | Nystagmus | 2 | 0 |
-| Speech Disorder | 2 | 0 |
-| Respiratory System |  |  |
-| Upper Respiratory Tract Infection | 10 | 5 |
+| Speech disorder | 2 | 0 |
+| Respiratory system |  |  |
+| Upper respiratory tract infection | 10 | 5 |
 | Coughing | 5 | 0 |
 | Bronchitis | 3 | 0 |
 | Pharyngitis | 3 | 0 |
-| Skin and Appendages |  |  |
-| Hot Flushes | 2 | 1 |
+| Skin and appendages |  |  |
+| Hot flushes | 2 | 1 |
 | Purpura | 2 | 0 |
-| Special Senses |  |  |
-| Abnormal Vision | 14 | 2 |
+| Special senses |  |  |
+| Abnormal vision | 14 | 2 |
 | Diplopia | 12 | 1 |
-| Taste Perversion | 5 | 0 |
+| Taste perversion | 5 | 0 |
 | Vertigo | 3 | 0 |
 | Earache | 2 | 1 |
-| Ear Infection NOS | 2 | 0 |
-| Urogenital and Reproductive System |  |  |
-| Urinary Tract Infection | 5 | 1 |
-| Micturition Frequency | 2 | 1 |
+| Ear infection NOS | 2 | 0 |
+| Urogenital and reproductive system |  |  |
+| Urinary tract infection | 5 | 1 |
+| Micturition frequency | 2 | 1 |
 | Vaginitis | 2 | 0 |
+| Abbreviation: NOS, not otherwise specified. |  |  |
 
 Controlled Clinical Study of Monotherapy in Adults Not Previously Treated With Other AEDs
 
 Table 5 lists adverse reactions in a controlled clinical study of monotherapy in adults not previously treated with other AEDs that occurred in at least 2% of adult patients with epilepsy treated with TRILEPTAL or placebo and were numerically more common in the patients treated with TRILEPTAL.
 
-Table 5: Adverse Reactions in a Controlled Clinical Study of Monotherapy With TRILEPTAL in Adults Not Previously Treated With Other AEDs
+Table 5: Adverse Reactions in a Controlled Clinical Study of Monotherapy With TRILEPTAL in Adults Not Previously Treated With Other Antiepileptic Drugs
 
-| Body System/ Adverse Reaction | TRILEPTAL N = 55 % | Placebo N = 49 % |
+| Body system/ Adverse reaction | TRILEPTAL N = 55 % | Placebo N = 49 % |
 | --- | --- | --- |
-| Body as a Whole |  |  |
-| Falling Down NOS | 4 | 0 |
-| Digestive System |  |  |
+| Body as a whole |  |  |
+| Falling down NOS | 4 | 0 |
+| Digestive system |  |  |
 | Nausea | 16 | 12 |
 | Diarrhea | 7 | 2 |
 | Vomiting | 7 | 6 |
 | Constipation | 5 | 0 |
 | Dyspepsia | 5 | 4 |
-| Musculoskeletal System |  |  |
-| Back Pain | 4 | 2 |
-| Nervous System |  |  |
+| Musculoskeletal system |  |  |
+| Back pain | 4 | 2 |
+| Nervous system |  |  |
 | Dizziness | 22 | 6 |
 | Headache | 13 | 10 |
 | Ataxia | 5 | 0 |
 | Nervousness | 5 | 2 |
 | Amnesia | 4 | 2 |
-| Abnormal Coordination | 4 | 2 |
+| Abnormal coordination | 4 | 2 |
 | Tremor | 4 | 0 |
-| Respiratory System |  |  |
-| Upper Respiratory Tract Infection | 7 | 0 |
+| Respiratory system |  |  |
+| Upper respiratory tract infection | 7 | 0 |
 | Epistaxis | 4 | 0 |
-| Infection Chest | 4 | 0 |
+| Infection chest | 4 | 0 |
 | Sinusitis | 4 | 2 |
-| Skin and Appendages |  |  |
+| Skin and appendages |  |  |
 | Rash | 4 | 2 |
-| Special Senses |  |  |
-| Vision Abnormal | 4 | 0 |
+| Special senses |  |  |
+| Vision abnormal | 4 | 0 |
+| Abbreviation: NOS, not otherwise specified. |  |  |
 
 Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Pediatric Patients Previously Treated With Other AEDs
 
 Table 6 lists adverse reactions that occurred in at least 2% of pediatric patients with epilepsy treated with TRILEPTAL or placebo as adjunctive treatment and were numerically more common in the patients treated with TRILEPTAL.
 
-Table 6: Adverse Reactions in Controlled Clinical Studies of Adjunctive Therapy/Monotherapy With TRILEPTAL in Pediatric Patients Previously Treated With Other AEDs
+Table 6: Adverse Reactions in Controlled Clinical Studies of Adjunctive Therapy/Monotherapy With TRILEPTAL in Pediatric Patients Previously Treated With Other Antiepileptic Drugs
 
-| Body System/ Adverse Reaction | TRILEPTAL N = 171 % | Placebo N = 139 % |
+| Body system/ Adverse reaction | TRILEPTAL N = 171 % | Placebo N = 139 % |
 | --- | --- | --- |
-| Body as a Whole |  |  |
+| Body as a whole |  |  |
 | Fatigue | 13 | 9 |
 | Allergy | 2 | 0 |
 | Asthenia | 2 | 1 |
-| Digestive System |  |  |
+| Digestive system |  |  |
 | Vomiting | 33 | 14 |
 | Nausea | 19 | 5 |
 | Constipation | 4 | 1 |
 | Dyspepsia | 2 | 0 |
-| Nervous System |  |  |
+| Nervous system |  |  |
 | Headache | 31 | 19 |
 | Somnolence | 31 | 13 |
 | Dizziness | 28 | 8 |
 | Ataxia | 13 | 4 |
 | Nystagmus | 9 | 1 |
-| Emotional Lability | 8 | 4 |
-| Abnormal Gait | 8 | 3 |
+| Emotional lability | 8 | 4 |
+| Abnormal gait | 8 | 3 |
 | Tremor | 6 | 4 |
-| Speech Disorder | 3 | 1 |
-| Impaired Concentration | 2 | 1 |
+| Speech disorder | 3 | 1 |
+| Impaired concentration | 2 | 1 |
 | Convulsions | 2 | 1 |
-| Involuntary Muscle Contractions | 2 | 1 |
-| Respiratory System |  |  |
+| Involuntary muscle contractions | 2 | 1 |
+| Respiratory system |  |  |
 | Rhinitis | 10 | 9 |
 | Pneumonia | 2 | 1 |
-| Skin and Appendages |  |  |
+| Skin and appendages |  |  |
 | Bruising | 4 | 2 |
-| Increased Sweating | 3 | 0 |
-| Special Senses |  |  |
+| Increased sweating | 3 | 0 |
+| Special senses |  |  |
 | Diplopia | 17 | 1 |
-| Abnormal Vision | 13 | 1 |
+| Abnormal vision | 13 | 1 |
 | Vertigo | 2 | 0 |
 
 Other Events Observed in Association With the Administration of TRILEPTAL
@@ -314,7 +318,7 @@ Metabolism and Nutrition Disorders: hypothyroidism and syndrome of inappropriate
 
 Skin and Subcutaneous Tissue Disorders: erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis [see Warnings and Precautions (5.4)], Acute Generalized Exanthematous Pustulosis (AGEP)
 
-Musculoskeletal, Connective Tissue and Bone Disorders: There have been reports of decreased bone mineral density, osteoporosis and fractures in patients on long-term therapy with TRILEPTAL.
+Musculoskeletal, Connective Tissue and Bone Disorders: There have been reports of decreased bone mineral density, osteoporosis, and fractures in patients on long-term therapy with TRILEPTAL.
 
 Injury, Poisoning, and Procedural Complications: fall
 

@@ -6,7 +6,7 @@ Initiate TRILEPTAL with a dose of 600 mg/day, given twice a day.
 If clinically indicated, the dose may be increased by a maximum of 600 mg/day at approximately weekly intervals; the maximum recommended daily dose is 1200 mg/day.
 Daily doses above 1200 mg/day show somewhat greater effectiveness in controlled trials, but most patients were not able to tolerate the 2400 mg/day dose, primarily because of central nervous (CNS) effects.
 
-Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UGT inducers, which include certain antiepileptic drugs (AEDs) [see Drug Interactions (7.1, 7.2)].
+Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UDP-glucuronosyltransferases (UGT) inducers, which include certain antiepileptic drugs (AEDs) [see Drug Interactions (7.1, 7.2)].
 
 ## 2.2 Conversion to Monotherapy for Adults
 
@@ -24,14 +24,12 @@ Controlled trials in these patients examined the effectiveness of a 1200 mg/day 
 
 ## 2.4 Adjunctive Therapy for Pediatric Patients (Aged 2-16 Years)
 
-In pediatric patients aged 4-16 years, initiate TRILETPAL at a daily dose of 8 to 10 mg/kg generally not to exceed 600 mg/day, given twice a day.
+In pediatric patients aged 4-16 years, initiate TRILEPTAL at a daily dose of 8 to 10 mg/kg generally not to exceed 600 mg/day, given twice a day.
 The target maintenance dose of TRILEPTAL should be achieved over 2 weeks, and is dependent upon patient weight, according to the following chart:
 
-20 to 29 kg-900 mg/day
-
-29.1 to 39 kg-1200 mg/day
-
-> 39 kg-1800 mg/day
+- 20 to 29 kg-900 mg/day
+- 29.1 to 39 kg-1200 mg/day
+- 39 kg-1800 mg/day
 
 In the clinical trial, in which the intention was to reach these target doses, the median daily dose was 31 mg/kg with a range of 6 to 51 mg/kg.
 
@@ -61,9 +59,9 @@ The dose should be increased by 5 mg/kg/day every third day to the recommended d
 
 Table 1: Range of Maintenance Doses of TRILEPTAL for Pediatrics by Weight During Monotherapy
 
-|  | From | To |
+| Weight in kg | From | To |
 | --- | --- | --- |
-| Weight in kg | Dose (mg/day) | Dose (mg/day) |
+|  | Dose (mg/day) | Dose (mg/day) |
 | 20 | 600 | 900 |
 | 25 | 900 | 1200 |
 | 30 | 900 | 1200 |
