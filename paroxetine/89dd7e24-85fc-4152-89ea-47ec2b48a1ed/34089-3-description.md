@@ -12,4 +12,4 @@ Each film-coated tablet contains 10 mg, 20 mg, 30 mg or 40 mg paroxetine equival
 
 Inactive ingredients consist of dibasic calcium phosphate dihydrate, FD&C Blue No. 1 Aluminum Lake, hydroxypropyl cellulose, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, sodium lauryl sulfate, sodium starch glycolate (potato), titanium dioxide and triacetin.
 
-Paroxetine hydrochloride complies with Organic Impurities Test 1.
+Paroxetine Hydrochloride Meets USP Organic Impurities Test 1.
