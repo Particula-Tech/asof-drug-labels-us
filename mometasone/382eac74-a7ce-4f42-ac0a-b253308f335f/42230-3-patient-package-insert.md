@@ -68,14 +68,14 @@ RYALTRIS may cause serious side effects, including the following:
 
 - •nose and throat problems.
   Symptoms of nose and throat problems may include:
-  - •nosebleeds
-  - •sores (ulcers) in the nose
-  - •hole in the cartilage between your nose (nasal septal perforation).
+  - onosebleeds
+  - osores (ulcers) in the nose
+  - ohole in the cartilage between your nose (nasal septal perforation).
     Symptoms of nasal septal perforation may include:
-    - •crusting in the nose
-    - •nosebleeds
-    - •runny nose
-    - •whistling sound when you breathe
+    - ▪crusting in the nose
+    - ▪nosebleeds
+    - ▪runny nose
+    - ▪whistling sound when you breathe
 - •slow wound healing.
   You should not use RYALTRIS until your nose has healed if you have a sore in your nose, if you have had surgery on your nose, or if your nose has been injured.
 - •thrush (Candida), a certain fungal infection in your nose and throat.
@@ -149,4 +149,4 @@ Inactive ingredients: benzalkonium chloride, carboxymethyl cellulose sodium, dib
 
 For more information, go to www.RYALTRIS.com or call Hikma Specialty USA Inc. at 1‑800‑962-8364.
 
-1. This Patient Information has been approved by the U.S. Food and Drug Administration Issued: August 2023
+- This Patient Information has been approved by the U.S. Food and Drug Administration Issued: August 2023
