@@ -107,8 +107,8 @@ Pregnancy
 
 Lactation
 
-Advise nursing mothers to carefully observe infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
-Instruct nursing mothers to seek immediate medical care if they notice these signs [see Use in Specific Populations (8.2)].
+Advise breastfeeding women using ROXYBOND to carefully observe infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
+Instruct breastfeeding women to seek immediate medical care if they notice these signs [see Use in Specific Populations (8.2)].
 
 Infertility
 
@@ -117,6 +117,6 @@ It is not known whether these effects on fertility are reversible [see Use in Sp
 
 Manufactured for: Protega Pharmaceuticals Inc. Princeton, NJ 08540
 
-(C) 2023, Protega Pharmaceuticals Inc.
+(C) 2024, Protega Pharmaceuticals Inc.
 
-rev 12/2023 GK-425
+rev 01/2024 GK-425

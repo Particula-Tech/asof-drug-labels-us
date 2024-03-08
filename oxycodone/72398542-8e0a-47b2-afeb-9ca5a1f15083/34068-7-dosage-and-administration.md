@@ -27,7 +27,7 @@ Consider prescribing naloxone if the patient has household members (including ch
 
 Use of ROXYBOND as the First Opioid Analgesic
 
-Initiate treatment with ROXYBOND in a dosing range of 5 to 15 mg every 4 to 6 hours as needed for pain, and at the lowest does necessary to achieve adequate analgesia.
+Initiate treatment with ROXYBOND in a dosing range of 5 to 15 mg every 4 to 6 hours as needed for pain, and at the lowest dose necessary to achieve adequate analgesia.
 Titrate the dose based upon the individual patient's response to their initial dose of ROXYBOND.
 
 Although it is not possible to list every condition that is important to the selection of the initial dose of ROXYBOND, attention should be given to: 1) the daily dose, potency, and characteristics of any prior opioid 2) the reliability of any relative potency estimate used to calculate the dose of oxycodone needed, 3) the degree of opioid tolerance, 4) the general condition and medical status of the patient, and 5) the balance between pain control and adverse experiences.
