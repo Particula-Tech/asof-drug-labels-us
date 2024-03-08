@@ -79,4 +79,4 @@ Do not use if solution contains a precipitate.
 Dispense only in this bottle and only with the calibrated oral syringe provided.
 Discard opened bottle after 90 days.
 
-Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922 C5000comb/01 Revised July 2023
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922 C5000comb/02/k01 Revised February 2024

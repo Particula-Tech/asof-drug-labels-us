@@ -6,6 +6,85 @@ Rare instances of anaphylactoid reactions have occurred in patients receiving co
 
 Increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy subjected to any unusual stress before, during, and after the stressful situation.
 
+## Immunosuppression and Increased Risk of Infection
+
+Corticosteroids, including dexamethasone, suppress the immune system and increase the risk of infection with any pathogen, including viral, bacterial, fungal, protozoan, or helminthic pathogens.
+Corticosteroids can:
+
+- •Reduce resistance to new infections
+- •Exacerbate existing infections
+- •Increase the risk of disseminated infections
+- •Increase the risk of reactivation or exacerbation of latent infections
+- •Mask some signs of infection
+
+Corticosteroid-associated infections can be mild but can be severe and at times fatal.
+The rate of infectious complications increases with increasing corticosteroid dosages.
+
+Monitor for the development of infection and consider dexamethasone withdrawal or dosage reduction as needed.
+
+Do not administer dexamethasone by an intraarticular, intrabursal, intratendinous, or intralesional route in the presence of acute local infection.
+
+## Tuberculosis
+
+If dexamethasone is used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, reactivation of tuberculosis may occur.
+Closely monitor such patients for reactivation.
+During prolonged dexamethasone therapy, patients with latent tuberculosis or tuberculin reactivity should receive chemoprophylaxis.
+
+## Varicella Zoster and Measles Viral Infections
+
+Varicella and measles can have a serious or even fatal course in non-immune patients taking corticosteroids, including dexamethasone.
+In corticosteroid-treated patients who have not had these diseases or are non-immune, particular care should be taken to avoid exposure to varicella and measles:
+
+- •If a dexamethasone-treated patient is exposed to varicella, prophylaxis with varicella zoster immune globulin may be indicated.
+  If varicella develops, treatment with antiviral agents may be considered.
+- •If a dexamethasone-treated patient is exposed to measles, prophylaxis with immunoglobulin may be indicated.
+
+## Hepatitis B Virus Reactivation
+
+Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers treated with immunosuppressive dosages of corticosteroids, including dexamethasone.
+Reactivation can also occur infrequently in corticosteroid-treated patients who appear to have resolved hepatitis B infection.
+
+Screen patients for hepatitis B infection before initiating immunosuppressive (e.g., prolonged) treatment with dexamethasone.
+For patients who show evidence of hepatitis B infection, recommend consultation with physicians with expertise in managing hepatitis B regarding monitoring and consideration for hepatitis B antiviral therapy.
+
+## Fungal Infections
+
+Corticosteroids, including dexamethasone, may exacerbate systemic fungal infections; therefore, avoid dexamethasone use in the presence of such infections unless dexamethasone is needed to control drug reactions.
+For patients on chronic dexamethasone therapy who develop systemic fungal infections, dexamethasone withdrawal or dosage reduction is recommended.
+
+## Amebiasis
+
+Corticosteroids, including dexamethasone, may activate latent amebiasis.
+Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating dexamethasone in patients who have spent time in the tropics or patients with unexplained diarrhea.
+
+## Strongyloides Infestation
+
+Corticosteroids, including dexamethasone, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
+In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
+
+## Cerebral Malaria
+
+Avoid corticosteroids, including dexamethasone, in patients with cerebral malaria.
+
+## Vaccination
+
+Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
+Killed or inactivated vaccines may be administered.
+However, the response to such vaccines cannot be predicted.
+Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, e.g., for Addison's disease.
+
+## Ophthalmic
+
+Use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to bacteria, fungi, or viruses.
+Consider referral to an ophthalmologist for patients who develop ocular symptoms or use corticosteroid-containing products for more than 6 weeks.
+The use of oral corticosteroids is not recommended in the treatment of optic neuritis and may lead to an increase in the risk of new episodes.
+Corticosteroids should not be used in active ocular herpes simplex.
+
+## Kaposi’s Sarcoma
+
+Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
+Discontinuation of corticosteroids may result in clinical improvement of Kaposi’s sarcoma.
+
 ## Cardio-Renal
 
 Average and large doses of corticosteroids can cause elevation of blood pressure, sodium and water retention, and increased excretion of potassium.
@@ -25,64 +104,6 @@ If the patient is receiving steroids already, dosage may have to be increased.
 Metabolic clearance of corticosteroids is decreased in hypothyroid patients and increased in hyperthyroid patients.
 Changes in thyroid status of the patient may necessitate adjustment in dosage.
 
-## Infections
-
-General
-
-Patients who are on corticosteroids are more susceptible to infections than are healthy individuals.
-There may be decreased resistance and inability to localize infection when corticosteroids are used.
-Infection with any pathogen (viral, bacterial, fungal, protozoan or helminthic) in any location of the body may be associated with the use of corticosteroids alone or in combination with other immunosuppressive agents.
-These infections may be mild to severe.
-With increasing doses of corticosteroids, the rate of occurrence of infectious complications increases.
-Corticosteroids may also mask some signs of current infection.
-
-Fungal Infections
-
-Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control life-threatening drug reactions.
-There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see PRECAUTIONS: Drug Interactions: Amphotericin B injection and potassium-depleting agents).
-
-Special Pathogens
-
-Latent disease may be activated or there may be an exacerbation of intercurrent infections due to pathogens, including those caused by Amoeba, Candida, Cryptococcus, Mycobacterium, Nocardia, Pneumocystis, Toxoplasma.
-
-It is recommended that latent amebiasis or active amebiasis be ruled out before initiating corticosteroid therapy in any patient who has spent time in the tropics or any patient with unexplained diarrhea.
-
-Similarly, corticosteroids should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
-In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
-
-Corticosteroids should not be used in cerebral malaria.
-
-Tuberculosis
-
-The use of corticosteroids in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen.
-
-If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur.
-During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
-
-Vaccination
-
-Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
-Killed or inactivated vaccines may be administered.
-However, the response to such vaccines cannot be predicted.
-Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, e.g., for Addison's disease.
-
-Viral Infections
-
-Chickenpox and measles can have a more serious or even fatal course in pediatric and adult patients on corticosteroids.
-In pediatric and adult patients who have not had these diseases, particular care should be taken to avoid exposure.
-The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
-If exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
-If exposed to measles, prophylaxis with immune globulin (IG) may be indicated.
-(See the respective package inserts for VZIG and IG for complete prescribing information.)
-If chickenpox develops, treatment with antiviral agents should be considered.
-
-## Ophthalmic
-
-Use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to bacteria, fungi, or viruses.
-Consider referral to an ophthalmologist for patients who develop ocular symptoms or use corticosteroid-containing products for more than 6 weeks.
-The use of oral corticosteroids is not recommended in the treatment of optic neuritis and may lead to an increase in the risk of new episodes.
-Corticosteroids should not be used in active ocular herpes simplex.
-
 # PRECAUTIONS
 
 ## General
@@ -91,9 +112,6 @@ The lowest possible dose of corticosteroids should be used to control the condit
 When reduction in dosage is possible, the reduction should be gradual.
 
 Since complications of treatment with corticosteroids are dependent on the size of the dose and the duration of treatment, a risk/benefit decision must be made in each individual case as to dose and duration of treatment and as to whether daily or intermittent therapy should be used.
-
-Kaposi's sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
-Discontinuation of corticosteroids may result in clinical improvement.
 
 ## Cardio-Renal
 
