@@ -39,4 +39,5 @@ Keep cyclobenzaprine hydrochloride extended-release capsules and all medicines o
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Issued: May 2019
+Rev.
+11-2021-03

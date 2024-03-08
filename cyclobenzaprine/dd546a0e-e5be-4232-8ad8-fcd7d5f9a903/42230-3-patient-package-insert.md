@@ -134,8 +134,6 @@ Cyclobenzaprine hydrochloride 30 mg extended-release capsules also contain: FD&C
 
 Distributed by: Manufactured By: Amneal Pharmaceuticals LLC Adare Pharmaceuticals, Inc. Bridgewater, NJ 08807 Vandalia, OH 45377
 
-Revised: 09-2020
-
 For more information, go to www.amneal.com or call toll-free 1-877-835-5472.
 
-This Patient Information has been approved by the U.S. Food and Drug Administration Revised: September 2020
+This Patient Information has been approved by the U.S. Food and Drug Administration Revised: 11-2021-03
