@@ -14,4 +14,4 @@ Inform postmenopausal women of possible serious adverse reactions of estrogen th
 
 Inform postmenopausal women of possible less serious but common adverse reactions of estrogen therapy such as headache, breast pain and tenderness, nausea and vomiting.
 
-LAB-0467-7.0
+LAB-0467-8.0

@@ -83,7 +83,7 @@ TABLE 4: PERCENT CHANGE IN BONE MINERAL DENSITY: COMPARISON BETWEEN ACTIVE AND P
 Figure 1 shows the cumulative percentage of subjects with changes from baseline equal to or greater than the value shown on the x-axis.
 
 Figure 1.
-CUMULATIVE PERCENT OF SUBJECTS WITH CHANGES FROM BASELINE IN SPINE BMD OF GIVEN MAGNITUDE OR GREATER IN PREMARIN AND PLACEBO GROUPS
+CUMULATIVE PERCENT OF SUBJECTS WITH CHANGES FROM BASELINE IN SPINE BMD OF GIVEN MAGNITUDE OR GREATER IN PREMARIN® AND PLACEBO GROUPS
 
 The mean percent changes from baseline in L2 to L4 BMD for women who completed the bone density study are shown with standard error bars by treatment group in Figure 2.
 Significant differences between each of the PREMARIN dosage groups and placebo were found at cycles 6, 13, 19, and 26.

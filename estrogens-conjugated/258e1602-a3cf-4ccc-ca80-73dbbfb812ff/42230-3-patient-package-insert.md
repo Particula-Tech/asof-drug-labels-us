@@ -137,8 +137,8 @@ It may harm them.
 
 Keep PREMARIN out of the reach of children
 
-1. This leaflet provides a summary of the most important information about PREMARIN.
-   If you would like more information, talk with your healthcare provider or pharmacist.
+This leaflet provides a summary of the most important information about PREMARIN.
+If you would like more information, talk with your healthcare provider or pharmacist.
 
 What are the ingredients in PREMARIN?
 
@@ -162,6 +162,6 @@ Store at Controlled Room Temperature 20° – 25°C (68° – 77°F).
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0515-5.0
+LAB-0515-6.0
 
-Rev-September/2018
+Revised February/2024
