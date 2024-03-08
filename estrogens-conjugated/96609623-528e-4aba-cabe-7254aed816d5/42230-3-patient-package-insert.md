@@ -64,9 +64,8 @@ PREMARIN Vaginal Cream is a cream that you place in your vagina with the applica
 | Figure B |
 | --- |
 
-- Step 4.
+- •Step 4.
   Unscrew applicator from tube.
-
 - •Step 5.
   Lie on back with knees drawn up.
   To deliver medication, gently insert applicator deeply into vagina and press plunger downward to its original position (Figure C).
@@ -164,4 +163,4 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (5
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0519-6.0 Rev 09/2018
+LAB-0519-7.0 Rev 02/2024
