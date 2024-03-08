@@ -17,7 +17,7 @@ For administration instructions, see Dosage and Administration (2.7).
 Pediatric use information is approved for Astellas Pharma Global Development, Inc.'s MYRBETRIQ (mirabegron extended-release tablets).
 However, due to Astellas Pharma Global Development, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
 
-## 2.3 Recommended Dosage in Adult Patients with Renal or Hepatic Impairment
+## 2.4 Recommended Dosage in Adult Patients with Renal or Hepatic Impairment
 
 Dosage in Adults with Renal Impairment
 
@@ -47,7 +47,7 @@ For administration instructions, see Dosage and Administration (2.7).
 Pediatric use information is approved for Astellas Pharma Global Development, Inc.'s MYRBETRIQ (mirabegron extended-release tablets).
 However, due to Astellas Pharma Global Development, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
 
-## 2.4 Administration Instructions
+## 2.7 Administration Instructions
 
 Mirabegron extended-release tablets
 
@@ -55,7 +55,7 @@ Adult patients: Swallow mirabegron extended-release tablets whole with water.
 Do not chew, divide, or crush.
 Take with or without food.
 
-## 2.5 Missed Dose
+## 2.8 Missed Dose
 
 Instruct patients to take any missed doses as soon as they remember, unless more than 12 hours have passed since the missed dose.
 If more than 12 hours have passed, the missed dose can be skipped, and the next dose should be taken at the usual time.

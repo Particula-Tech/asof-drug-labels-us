@@ -35,8 +35,8 @@ If more than 12 hours have passed, the missed dose can be skipped and the next d
 
 Manufactured by:
 
-Cadila Healthcare Ltd.
+Zydus Lifesciences Ltd.,
 
 Matoda, Ahmedabad, India
 
-Revised: 10/2022
+Revised: 03/2024
