@@ -1,31 +1,54 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
+Advise the patient or caregiver to read the FDA-approved patient labeling (Medication Guide).
 
-## 17.1 Dosing and Administration
+Fibrosing Colonopathy
 
-- Instruct patients and caregivers that CREON should only be taken as directed by their healthcare professional.
-  Patients should be advised that the total daily dose should not exceed 10,000 lipase units/kg body weight/day unless clinically indicated.
-  This needs to be especially emphasized for patients eating multiple snacks and meals per day.
-  Patients should be informed that if a dose is missed, the next dose should be taken with the next meal or snack as directed.
-  Doses should not be doubled [see Dosage and Administration (2)].
-- Instruct patients and caregivers that CREON should always be taken with food.
-  Patients should be advised that CREON delayed-release capsules and the capsule contents must not be crushed or chewed as doing so could cause early release of enzymes and/or loss of enzymatic activity.
-  Patients should swallow the intact capsules with adequate amounts of liquid at mealtimes.
-  If necessary, the capsule contents can also be sprinkled on soft acidic foods [see Dosage and Administration (2)].
+Advise the patient or caregiver that fibrosing colonopathy has been reported with high dosages of pancreatic enzyme products, usually with use over a prolonged period of time and in pediatric patients with cystic fibrosis.
+Colonic stricture has been reported in pediatric patients less than 12 years of age.
+Advise patients and caregivers that if signs and symptoms of colon stricture formation occur (e.g., stomach area (abdominal) pain, bloating, trouble passing stool (constipation), nausea, vomiting, diarrhea) to immediately contact their healthcare provider [see Warnings and Precautions (5.1)].
 
-## 17.2 Fibrosing Colonopathy
+Hyperuricemia
 
-Advise patients and caregivers to follow dosing instructions carefully, as doses of pancreatic enzyme products exceeding 6,000 lipase units/kg of body weight per meal have been associated with colonic strictures in children below the age of 12 years [see Dosage and Administration (2)].
+Advise the patient or caregiver that hyperuricemia may occur in patients with gout or renal impairment and to contact the healthcare provider if they experience pain, stiffness, redness or swelling of their joints [see Warnings and Precautions (5.3)].
 
-## 17.3 Allergic Reactions
+Hypersensitivity Reactions
 
-Advise patients and caregivers to contact their healthcare professional immediately if allergic reactions to CREON develop [see Warnings and Precautions (5.5)].
+Inform the patient or caregiver that severe hypersensitivity reactions, including anaphylaxis, asthma, hives, and pruritus, have been reported with use of pancreatic enzyme products.
+Seek medical attention if signs or symptoms of a hypersensitivity reaction develop [see Warnings and Precautions (5.5)].
 
-© 2009-2023 AbbVie.
+Dosage
+
+Advise the patient or caregiver to take or administer CREON as prescribed, and to contact the healthcare provider if signs and symptoms of malabsorption persist [see Dosage and Administration (2.2)].
+
+Administration
+
+Instruct the patient or caregiver as follows:
+
+- Take CREON during meals and snacks.
+- Swallow capsules whole.
+- For adult and pediatric patients unable to swallow intact capsules, the capsule contents may be sprinkled on a small amount of soft acidic food with a pH of 4.5 or less (e.g., applesauce, bananas, plain Greek yogurt).
+  For pediatric patients birth to 12 months of age, CREON capsules can also be opened, and the capsule contents sprinkled directly into the infant’s mouth.
+- Consume sufficient liquids (juice, water, breast milk, or formula) and visually inspect an infant’s mouth to ensure complete swallowing of CREON capsules or capsule contents [see Warnings and Precautions (5.2)].
+- Do not crush or chew CREON capsules or capsule contents.
+- Do not mix the CREON capsule contents directly into a bottle of breast milk or formula.
+
+Storage
+
+Instruct the patient or caregiver as follows:
+
+- Keep CREON in a dry place and protect from heat.
+- After opening, keep the bottle tightly closed between uses to protect from moisture.
+- Keep CREON in the original container.
+- If there is a desiccant packet in the bottle, keep it in the bottle.
+  Do not eat or throw away the desiccant.
+
+© 2009-2024 AbbVie.
 All rights reserved.
 
 CREON® is a registered trademark of AbbVie Products LLC.
+
+Manufactured by:
 
 AbbVie Inc.
 
@@ -33,4 +56,4 @@ North Chicago, IL 60064, U.S.A.
 
 US License Number 1889
 
-20081489 October, 2023
+20082735 February, 2024

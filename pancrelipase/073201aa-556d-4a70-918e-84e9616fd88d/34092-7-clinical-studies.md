@@ -1,18 +1,22 @@
 # 14 CLINICAL STUDIES
 
-The short-term efficacy of CREON was evaluated in three studies conducted in 103 patients with exocrine pancreatic insufficiency (EPI).
-Two studies were conducted in 49 patients with EPI due to cystic fibrosis (CF); one study was conducted in 54 patients with EPI due to chronic pancreatitis or pancreatectomy.
+## 14.1 Exocrine Pancreatic Insufficiency Due to Cystic Fibrosis
 
-## 14.1 Cystic Fibrosis
+Adult and Pediatric Patients
 
-Studies 1 and 2 were randomized, double-blind, placebo-controlled, crossover studies in 49 patients, ages 7 to 43 years, with exocrine pancreatic insufficiency due to cystic fibrosis.
-Study 1 included patients aged 12 to 43 years (n = 32).
-The final analysis population was limited to 29 patients; 3 patients were excluded due to protocol deviations.
-Study 2 included patients aged 7 to 11 years (n = 17).
-The final analysis population was limited to 16 patients; 1 patient withdrew consent prior to stool collection during treatment with CREON.
-In each study, patients were randomized to receive CREON at a dose of 4,000 lipase units/g fat ingested per day or matching placebo for 5 to 6 days of treatment, followed by crossover to the alternate treatment for an additional 5 to 6 days.
+Studies 1 and 2 were randomized, double-blind, placebo-controlled, crossover studies in 49 patients, aged 7 to 43 years, with exocrine pancreatic insufficiency due to cystic fibrosis.
+
+- Study 1 included patients aged 12 to 43 years (n = 32).
+  The final analysis population was limited to 29 patients; 3 patients were excluded due to protocol deviations.
+- Study 2 included patients aged 7 to 11 years (n = 17).
+  The final analysis population was limited to 16 patients; 1 patient withdrew consent prior to stool collection during treatment with CREON.
+
+In each study, patients were randomized to receive CREON at a dose of 4,000 lipase units/g fat ingested/day or matching placebo for 5 to 6 days of treatment, followed by crossover to the alternate treatment for an additional 5 to 6 days.
 All patients consumed a high-fat diet (greater than or equal to 90 grams of fat per day, 40% of daily calories derived from fat) during the treatment periods.
 
+Coefficient of Fat Absorption Endpoint and Results
+
+The primary efficacy endpoint was the coefficient of fat absorption (CFA) in CREON and placebo treatment groups.
 The coefficient of fat absorption (CFA) was determined by a 72-hour stool collection during both treatments, when both fat excretion and fat ingestion were measured.
 Each patient's CFA during placebo treatment was used as their no-treatment CFA value.
 
@@ -23,33 +27,37 @@ In Study 2, mean CFA was 83% with CREON treatment compared to 47% with placebo t
 The mean difference in CFA was 35 percentage points in favor of CREON treatment with 95% CI: (27, 44) and p<0.001.
 
 Subgroup analyses of the CFA results in Studies 1 and 2 showed that mean change in CFA with CREON treatment was greater in patients with lower no-treatment (placebo) CFA values than in patients with higher no-treatment (placebo) CFA values.
-There were no differences in response to CREON by age or gender, with similar responses to CREON observed in male and female patients, and in younger (under 18 years of age) and older patients.
+There were no differences in response to CREON by age or biological sex, with similar responses to CREON observed in male and female patients, and in younger (under 18 years of age) and older patients.
+
+Coefficient of Nitrogen Absorption Endpoint and Results
 
 The coefficient of nitrogen absorption (CNA) was determined by a 72-hour stool collection during both treatments, when nitrogen excretion was measured and nitrogen ingestion from a controlled diet was estimated (based on the assumption that proteins contain 16% nitrogen).
 Each patient's CNA during placebo treatment was used as their no-treatment CNA value.
 
-In Study 1, mean CNA was 86% with CREON treatment compared to 49% with placebo treatment.
-The mean difference in CNA was 37 percentage points in favor of CREON treatment with 95% CI: (31, 42) and p<0.001.
+- In Study 1, mean CNA was 86% with CREON treatment compared to 49% with placebo treatment.
+  The mean difference in CNA was 37 percentage points in favor of CREON treatment with 95% CI: (31, 42) and p<0.001.
+- In Study 2, mean CNA was 80% with CREON treatment compared to 45% with placebo treatment.
+  The mean difference in CNA was 35 percentage points in favor of CREON treatment with 95% CI: (26, 45) and p<0.001.
 
-In Study 2, mean CNA was 80% with CREON treatment compared to 45% with placebo treatment.
-The mean difference in CNA was 35 percentage points in favor of CREON treatment with 95% CI: (26, 45) and p<0.001.
+## 14.2 Exocrine Pancreatic Insufficiency Due to Chronic Pancreatitis or Pancreatectomy
 
-## 14.2 Chronic Pancreatitis or Pancreatectomy
-
-A randomized, double-blind, placebo-controlled, parallel group study was conducted in 54 adult patients, ages 32 to 75 years, with EPI due to chronic pancreatitis or pancreatectomy.
+A randomized, double-blind, placebo-controlled, parallel group study was conducted in 54 adult patients, aged 32 to 75 years, with exocrine pancreatic insufficiency due to chronic pancreatitis or pancreatectomy (Study 4).
 The final analysis population was limited to 52 patients; 2 patients were excluded due to protocol violations.
 Ten patients had a history of pancreatectomy (7 were treated with CREON).
 In this study, patients received placebo for 5 days (run-in period), followed by pancreatic enzyme replacement therapy as directed by the investigator for 16 days; this was followed by randomization to CREON or matching placebo for 7 days of treatment (double-blind period).
 Only patients with CFA less than 80% in the run-in period were randomized to the double-blind period.
-The dose of CREON during the double-blind period was 72,000 lipase units per main meal (3 main meals) and 36,000 lipase units per snack (2 snacks).
-All patients consumed a high-fat diet (greater than or equal to 100 grams of fat per day) during the treatment period.
+All patients were to consume a high-fat diet (greater than or equal to 100 grams of fat/day) during the treatment period.
+The dosage of CREON during the double-blind period was 72,000 lipase units per main meal (3 main meals) and 36,000 lipase units per snack (2 snacks) [approximately 1,000 lipase units/kg/meal].
+The mean exposure to CREON during this study was 7 days in the 25 patients that received CREON.
+
+Coefficient of Fat Absorption Endpoint and Results
 
 The CFA was determined by a 72-hour stool collection during the run-in and double-blind treatment periods, when both fat excretion and fat ingestion were measured.
-The mean change in CFA from the run-in period to the end of the double-blind period in the CREON and Placebo groups is shown in Table 3.
+The mean change in CFA from the run-in period to the end of the double-blind period in the CREON and placebo groups is shown in Table 3.
 
-Table 3: Change in CFA in the Chronic Pancreatitis and Pancreatectomy Trial (Run-in Period to End of Double-Blind Period)
+Table 3: Change in Coefficient of Fat Absorption in Adults with Exocrine Pancreatic Insufficiency Due to Chronic Pancreatitis and Pancreatectomy (Study 4)
 
-|  | CREON n = 24 | Placebo n = 28 |
+|  | CREON N = 24 | Placebo N = 28 |
 | --- | --- | --- |
 | CFA [%] |  |  |
 | Run-in Period (Mean, SD) | 54 (19) | 57 (21) |

@@ -2,10 +2,17 @@
 
 ## 12.1 Mechanism of Action
 
-The pancreatic enzymes in CREON catalyze the hydrolysis of fats to monoglyceride, glycerol and free fatty acids, proteins into peptides and amino acids, and starches into dextrins and short chain sugars such as maltose and maltriose in the duodenum and proximal small intestine, thereby acting like digestive enzymes physiologically secreted by the pancreas.
+Pancreatic enzyme products contain a mixture of lipases, proteases, and amylases that catalyze the hydrolysis of fats to monoglyceride, glycerol and free fatty acids, proteins into peptides and amino acids, and starches into dextrins and short chain sugars such as maltose and maltriose in the duodenum and proximal small intestine, thereby acting like digestive enzymes physiologically secreted by the pancreas.
+
+## 12.2 Pharmacodynamics
+
+For patients consuming a high fat diet in the clinical trials, the coefficient of fat absorption (CFA) was higher in patients who received CREON compared to the placebo treatment group, indicating improved fat absorption [see Clinical Studies (14.1,14.2)].
 
 ## 12.3 Pharmacokinetics
 
-The pancreatic enzymes in CREON are enteric-coated to minimize destruction or inactivation in gastric acid.
-CREON is designed to release most of the enzymes in vivo at an approximate pH of 5.5 or greater.
-Pancreatic enzymes are not absorbed from the gastrointestinal tract in appreciable amounts.
+Following oral administration, the lipases, proteases, and amylases released from CREON are not absorbed from the gastrointestinal tract in appreciable amounts.
+
+Drug Interactions
+
+The lipases, proteases, and amylases of CREON are not substrates of CYP enzymes or transporters.
+CYP enzymes or transporters mediated drug interactions are not expected.
