@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.5)].
+Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.5)].
 There are no available data with Hydromorphone Hydrochloride in pregnant women to inform a drug-associated risk for major birth defects and miscarriage.
 
 In animal reproduction studies, reduced postnatal survival of pups, and decreased were noted following oral treatment of pregnant rats with hydromorphone during gestation and through lactation at doses 0.8 times the human daily dose of 24 mg/day (HDD), respectively.
@@ -12,13 +12,13 @@ In published studies, neural tube defects were noted following subcutaneous inje
 No malformations were noted at 4 or 40.5 times the HDD in pregnant rats or rabbits, respectively [see Data].
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
-Fetal/Neonatal Adverse Reactions: Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Fetal/Neonatal Adverse Reactions: Use of opioid analgesics for an extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
@@ -68,7 +68,7 @@ Withdrawal symptoms can occur in breastfed infants when maternal administration 
 
 Infertility
 
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
@@ -81,15 +81,15 @@ Elderly patients (aged 65 years or older) may have increased sensitivity to hydr
 In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of Hydromorphone Hydrochloride slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.7)].
+Titrate the dosage of Hydromorphone Hydrochloride slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.8)].
 
 Hydromorphone is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
 
 ## 8.6 Hepatic Impairment
 
 The pharmacokinetics of hydromorphone is affected by hepatic impairment.
-Due to increased exposure of hydromorphone, patients with hepatic impairment should be started at one-fourth to one-half the recommended starting dose depending on the degree of hepatic dysfunction and closely monitored during dose titration.
+Due to increased exposure of hydromorphone, patients with hepatic impairment should be started at one-fourth to one-half the recommended starting dose depending on the degree of hepatic dysfunction and regularly evaluated during dose titration.
 The pharmacokinetics of hydromorphone in patients with severe hepatic impairment has not been studied.
 A further increase in Cmax and AUC of hydromorphone in this group is expected and should be taken into consideration when selecting a starting dose [see Clinical Pharmacology (12.3)].
 
@@ -98,4 +98,4 @@ A further increase in Cmax and AUC of hydromorphone in this group is expected an
 The pharmacokinetics of hydromorphone is affected by renal impairment.
 In addition, in patients with severe renal impairment, hydromorphone appeared to be more slowly eliminated with a longer terminal elimination half-life.
 Start patients with renal impairment on one-fourth to one-half the usual starting dose depending on the degree of impairment.
-Patients with renal impairment should be closely monitored during dose titration [see Clinical Pharmacology (12.3)].
+Patients with renal impairment should be regularly evaluated during dose titration [see Clinical Pharmacology (12.3)].

@@ -38,7 +38,7 @@ Effects on the Endocrine System
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
 
 Effects on the Immune System
@@ -49,13 +49,13 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration–Efficacy Relationships
 
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
 The minimum effective analgesic concentration of hydromorphone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.6)].
 
 Concentration–Adverse Reaction Relationships
 
 There is a relationship between increasing hydromorphone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.2, 2.4, 2.5)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.3, 2.6)].
 
 ## 12.3 Pharmacokinetics
 
@@ -65,7 +65,7 @@ The analgesic activity of Hydromorphone Hydrochloride is due to the parent drug,
 Hydromorphone is rapidly absorbed from the gastrointestinal tract after oral administration and undergoes extensive first-pass metabolism.
 Exposure of hydromorphone (Cmax and AUC0-24) is dose-proportional at a dose range of 2 and 8 mg.
 In vivo bioavailability following single-dose administration of the 8 mg tablet is approximately 24% (coefficient of variation 21%).
-Bioequivalence between the Hydromorphone Hydrochloride 8 mg tablet and an equivalent dose of Hydromorphone Hydrochloride oral solution has been demonstrated.
+Bioequivalence between the Hydromorphone Hydrochloride 8 mg TABLET and an equivalent dose of Hydromorphone Hydrochloride Oral Solution has been demonstrated.
 
 After oral administration of Hydromorphone Hydrochloride, peak plasma hydromorphone concentrations are generally attained within ½ to 1 hour.
 
@@ -73,7 +73,7 @@ After oral administration of Hydromorphone Hydrochloride, peak plasma hydromorph
 | --- | --- | --- | --- | --- |
 | Dosage Form | Cmax(ng) | Tmax(hrs) | AUC(ng*hr/mL) | T1/2(hrs) |
 | 8 mg Tablet | 5.5 (33%) | 0.74 (34%) | 23.7 (28%) | 2.6 (18%) |
-| 8 mg Oral Solution | 5.7 (31%) | 0.73 (71%) | 24.6 (29%) | 2.8 (20%) |
+| 8 mg Oral Liquid | 5.7 (31%) | 0.73 (71%) | 24.6 (29%) | 2.8 (20%) |
 
 Food Effects: In a study conducted with a single 8 mg dose of hydromorphone (2 mg hydromorphone immediate-release tablets), food lowered Cmax by 25%, prolonged Tmax by 0.8 hour, and increased AUC by 35%.
 The effects may not be clinically relevant.
