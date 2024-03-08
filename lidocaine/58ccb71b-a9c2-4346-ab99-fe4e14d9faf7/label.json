@@ -5,15 +5,13 @@
   "inn": "lidocaine",
   "labeler": "7T Pharma LLC",
   "package_ndcs": [
-    "70645-123-12",
-    "70645-123-26",
-    "70645-123-48"
+    "70645-123-26"
   ],
   "products": [
     {
       "form": "POWDER",
       "generic": "lidocaine hydrochloride monohydrate",
-      "name": "Zingo"
+      "name": "ZINGO"
     }
   ],
   "setid": "58ccb71b-a9c2-4346-ab99-fe4e14d9faf7",
