@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208429"
+  ],
+  "inn": "imatinib",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-658-90",
+    "62135-659-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "imatinib mesylate",
+      "name": "Imatinib Mesylate"
+    }
+  ],
+  "setid": "65b4d8a6-349d-4fb1-9818-dad6b4ad4fa1",
+  "source": "dailymed"
+}
