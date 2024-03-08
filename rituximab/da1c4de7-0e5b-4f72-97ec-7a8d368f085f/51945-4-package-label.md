@@ -4,7 +4,7 @@
 
 AMGEN®
 
-RIABNI™ (rituximab-arrx) Injection
+RIABNI® (rituximab-arrx) Injection
 
 NDC 55513-224-01 Single-dose Vial Discard unused portion.
 
@@ -31,7 +31,7 @@ Rx Only
 
 AMGEN®
 
-RIABNI™ (rituximab-arrx) Injection
+RIABNI® (rituximab-arrx) Injection
 
 NDC 55513-326-01 Single-dose Vial Discard unused portion.
 
