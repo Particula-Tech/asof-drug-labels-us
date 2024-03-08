@@ -4,8 +4,8 @@
 
 LIKMEZ is indicated for the treatment of:
 
-- Symptomatic trichomoniasis caused by Trichomonas vaginalis in adult females and males when the diagnosis is confirmed by appropriate laboratory procedures.
-- Asymptomatic trichomoniasis caused by Trichomonas vaginalis in adult females when the organism is associated with endocervicitis, cervicitis, or cervical erosion.
+- Symptomatic trichomoniasis caused by Trichomonas vaginalisin adult females and males when the diagnosis is confirmed by appropriate laboratory procedures.
+- Asymptomatic trichomoniasis caused by Trichomonas vaginalisin adult females when the organism is associated with endocervicitis, cervicitis, or cervical erosion.
 
 Because trichomoniasis is a sexually transmitted disease with potentially serious sequelae, treat sexual partners of patients simultaneously to prevent re-infection.
 
@@ -18,14 +18,14 @@ In amebic liver abscess, treatment with LIKMEZ does not obviate the need for asp
 
 LIKMEZ is indicated in the treatment of the following serious infections caused by susceptible anaerobic bacteria in adults:
 
-- Intra-abdominal infections, including peritonitis, intra-abdominal abscess, and liver abscess, caused by Bacteroides species including the B. fragilis group (B. fragilis, B. ovatus, B. thetaiotaomicron, B. vulgatus), Parabacteroides distasonis, Clostridium species, Eubacterium species, Peptococcus species, and Peptostreptococcus species.
-- Skin and skin structure infections caused by Bacteroides species including the B. fragilis group, Clostridium species, Peptococcus species, Peptostreptococcus species, and Fusobacterium species.
-- Gynecologic infections, including endometritis, endomyometritis, tubo-ovarian abscess, and postsurgical vaginal cuff infection, caused by Bacteroides species including the B. fragilis group, Clostridium species, Peptococcus species, Peptostreptococcus species, and Fusobacterium species.
-- Bacterial septicemia caused by Bacteroides species including the B. fragilis group and Clostridium species.
-- Bone and joint infections, (as adjunctive therapy), caused by Bacteroides species including the B. fragilis group.
-- Central nervous system (CNS) infections, including meningitis and brain abscess, caused by Bacteroides species including the B. fragilis group.
-- Lower respiratory tract infections, including pneumonia, empyema, and lung abscess, caused by Bacteroides species including the B. fragilis group.
-- Endocarditis caused by Bacteroides species including the B. fragilis group.
+- Intra-abdominal infections, including peritonitis, intra-abdominal abscess, and liver abscess, caused by Bacteroidesspecies including the B. fragilisgroup (B. fragilis, B. ovatus, B. thetaiotaomicron, B. vulgatus), Parabacteroides distasonis, Clostridiumspecies, Eubacteriumspecies, Peptococcusspecies,and Peptostreptococcusspecies.
+- Skin and skin structure infections caused by Bacteroidesspecies including the B. fragilisgroup, Clostridiumspecies, Peptococcusspecies, Peptostreptococcusspecies, and Fusobacteriumspecies.
+- Gynecologic infections, including endometritis, endomyometritis, tubo-ovarian abscess, and postsurgical vaginal cuff infection, caused by Bacteroidesspecies including the B. fragilisgroup, Clostridiumspecies, Peptococcusspecies, Peptostreptococcusspecies, and Fusobacteriumspecies.
+- Bacterial septicemia caused by Bacteroidesspecies including the B. fragilisgroup and Clostridiumspecies.
+- Bone and joint infections, (as adjunctive therapy), caused by Bacteroidesspecies including the B. fragilisgroup.
+- Central nervous system (CNS) infections, including meningitis and brain abscess, caused by Bacteroidesspecies including the B. fragilisgroup.
+- Lower respiratory tract infections, including pneumonia, empyema, and lung abscess, caused by Bacteroidesspecies including the B. fragilisgroup.
+- Endocarditis caused by Bacteroidesspecies including the B. fragilisgroup.
 
 Indicated surgical procedures should be performed in conjunction with LIKMEZ therapy.
 In a mixed aerobic and anaerobic infection, antimicrobials appropriate for the treatment of aerobic infection should be used in addition to LIKMEZ.

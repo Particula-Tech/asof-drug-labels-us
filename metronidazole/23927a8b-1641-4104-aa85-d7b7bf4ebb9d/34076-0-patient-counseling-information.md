@@ -14,7 +14,7 @@ Instruct the patients and caregivers to:
 
 Alcohol or Products Containing Propylene Glycol
 
-Advise patients to avoid consumption of alcoholic beverages and preparations containing ethanol or propylene glycol during LIKMEZ therapy and for 3 days afterward because abdominal cramps, nausea, vomiting, headaches, and flushing may occur [see Contraindications (4.3) and Drug Interactions (7.2)].
+Advise patients to avoid consumption of alcoholic beverages and preparations containing ethanol or propylene glycol during LIKMEZ therapy and for 3 days afterward because abdominal cramps, nausea, vomiting, headaches, and flushing may occur [see Contraindications (4.3)and Drug Interactions (7.2)].
 
 Lactation
 
@@ -28,7 +28,7 @@ Advise patients to stop taking LIKMEZ and report immediately to their healthcare
 Drug Interactions
 
 Advise patients to report the use of any other medications while taking LIKMEZ.
-The administration of any of the following drugs with LIKMEZ may result in clinically significant adverse reactions or reduced effectiveness of the drug [see Contraindications (4.2) and Drug Interactions (7.1 to 7.7)]:
+The administration of any of the following drugs with LIKMEZ may result in clinically significant adverse reactions or reduced effectiveness of the drug [see Contraindications (4.2)and Drug Interactions (7.1to 7.7)]:
 
 - Disulfiram
 - Warfarin and other oral Anticoagulants

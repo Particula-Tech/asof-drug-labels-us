@@ -43,5 +43,5 @@ QT prolongation has been reported, particularly when metronidazole was administe
 
 Metronidazole may interfere with certain types of determinations of serum chemistry values, such as aspartate aminotransferase (AST, SGOT), alanine aminotransferase (ALT, SGPT), lactate dehydrogenase (LDH), triglycerides, and glucose hexokinase.
 Values of zero may be observed.
-All of the assays in which interference has been reported involve enzymatic coupling of the assay to oxidation-reduction of nicotinamide adenine dinucleotide (NAD+⇌ NADH).
+All of the assays in which interference has been reported involve enzymatic coupling of the assay to oxidation-reduction of nicotinamide adenine dinucleotide (NAD +⇌ NADH).
 Interference is due to the similarity in absorbance peaks of NADH (340 nm) and metronidazole (322 nm) at pH 7.

@@ -59,4 +59,4 @@ Monitor for LIKMEZ associated adverse reactions [see Clinical Pharmacology (12.3
 
 Patients with hepatic impairment metabolize metronidazole slowly, with resultant accumulation of metronidazole in the plasma.
 For patients with severe hepatic impairment (Child-Pugh C), reduce the dose of LIKMEZ by 50%.
-For patients with mild to moderate hepatic impairment, no dosage adjustment is needed but these patients should be monitored for LIKMEZ associated adverse reactions [see Clinical Pharmacology (12.3) and Dosage and Administration (2.4)].
+For patients with mild to moderate hepatic impairment, no dosage adjustment is needed but these patients should be monitored for LIKMEZ associated adverse reactions [see Clinical Pharmacology (12.3)and Dosage and Administration (2.4)].

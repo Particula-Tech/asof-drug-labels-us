@@ -2,7 +2,7 @@
 
 NDC 81033-066-20
 
-LIKMEZTM
+LIKMEZ TM
 
 (metronidazole) Oral Supension
 
