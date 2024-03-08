@@ -213,7 +213,7 @@ Table 6: Laboratory Abnormalities in PALOMA-3
 | Platelets decreased | 62 | 2 | 1 | 10 | 0 | 0 |
 | Aspartate aminotransferase increased | 43 | 4 | 0 | 48 | 4 | 0 |
 | Alanine aminotransferase increased | 36 | 2 | 0 | 34 | 0 | 0 |
-| N=number of patients; WBC=white blood cells |  |  |  |  |  |  |
+| N=number of patients; WBC=white blood cells. |  |  |  |  |  |  |
 
 Combination Therapy with Abemaciclib (MONARCH 2)
 
@@ -277,12 +277,12 @@ Table 7: Adverse Reactions ≥10% of Patients Receiving Fulvestrant Plus Abemaci
 | Aspartate aminotransferase increased | 12 | 2 | 0 | 7 | 3 | 0 |
 | Creatinine increased | 12 | <1 | 0 | <1 | 0 | 0 |
 | Weight decreased | 10 | <1 | 0 | 2 | <1 | 0 |
-| 1 Includes abdominal pain, abdominal pain upper, abdominal pain lower, abdominal discomfort, abdominal tenderness. |  |  |  |  |  |  |
-| 2 Includes upper respiratory tract infection, urinary tract infection, lung infection, pharyngitis, conjunctivitis, sinusitis, vaginal infection, sepsis. |  |  |  |  |  |  |
-| 3 Includes neutropenia, neutrophil count decreased. |  |  |  |  |  |  |
-| 4 Includes anemia, hematocrit decreased, hemoglobin decreased, red blood cell count decreased. |  |  |  |  |  |  |
-| 5 Includes leukopenia, white blood cell count decreased. |  |  |  |  |  |  |
-| 6 Includes platelet count decreased, thrombocytopenia. 7. Includes asthenia, fatigue. |  |  |  |  |  |  |
+| 1. Includes abdominal pain, abdominal pain upper, abdominal pain lower, abdominal discomfort, abdominal tenderness. |  |  |  |  |  |  |
+| 2. Includes upper respiratory tract infection, urinary tract infection, lung infection, pharyngitis, conjunctivitis, sinusitis, vaginal infection, sepsis. |  |  |  |  |  |  |
+| 3. Includes neutropenia, neutrophil count decreased. |  |  |  |  |  |  |
+| 4. Includes anemia, hematocrit decreased, hemoglobin decreased, red blood cell count decreased. |  |  |  |  |  |  |
+| 5. Includes leukopenia, white blood cell count decreased. |  |  |  |  |  |  |
+| 6. Includes platelet count decreased, thrombocytopenia. 7. Includes asthenia, fatigue. |  |  |  |  |  |  |
 
 Additional adverse reactions in MONARCH 2 include venous thromboembolic events (deep vein thrombosis, pulmonary embolism, cerebral venous sinus thrombosis, subclavian vein thrombosis, axillary vein thrombosis, and DVT inferior vena cava), which were reported in 5% of patients treated with fulvestrant plus abemaciclib as compared to 0.9% of patients treated with fulvestrant plus placebo.
 
@@ -323,7 +323,7 @@ Table 9: Adverse Reactions Occurring in ≥10% and ≥2% higher than Fulvestrant
 | --- | --- | --- | --- | --- | --- | --- |
 | All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |  |
 | Infections and Infestations |  |  |  |  |  |  |
-| Infections1 | 42 | 5 | o | 30 | 2 | 0 |
+| Infections1 | 42 | 5 | 0 | 30 | 2 | 0 |
 | Blood and Lymphatic System Disorders |  |  |  |  |  |  |
 | Neutropenia | 69 | 46 | 7 | 2 | 0 | 0 |
 | Leukopenia | 27 | 12 | <1 | <1 | 0 | 0 |

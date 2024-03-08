@@ -15,7 +15,6 @@ Storage:
 
 Store at 20°C to 25°C (68°F to 77°F) with excursions permitted between 15°C to 30°C (59°F to 86°F) [USP Controlled Room Temperature].
 
-Fulvestrant Injection can also be stored at refrigerated conditions: 2°C to 8°C (36°F to 46°F).
 Do not freeze.
 Do not use Fulvestrant Injection if it has been frozen.
 To protect from light, store in the original carton until time of use.
