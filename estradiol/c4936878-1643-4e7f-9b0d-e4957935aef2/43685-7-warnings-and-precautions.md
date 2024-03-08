@@ -60,27 +60,28 @@ Adding a progestin to estrogen therapy has been shown to reduce the risk of endo
 
 b. Breast cancer
 
-The use of estrogens and progestins by postmenopausal women has been reported to increase the risk of breast cancer.
-The most important randomized clinical trial providing information about this issue is the Women’s Health Initiative (WHI) substudy of CE/MPA (see CLINICAL PHARMACOLOGY, Clinical Studies).
-The results from observational studies are generally consistent with those of the WHI clinical trial and report no significant variation in the risk of breast cancer among different estrogens or progestins, doses, or routes of administration.
+The most important randomized clinical trial providing information about breast cancer in estrogen plus progestin users is the WHI substudy of daily CE (0.625 mg) plus MPA (2.5 mg).
+After a mean follow-up of 5.6 years, the estrogen plus progestin substudy reported an increased risk of invasive breast cancer in women who took daily CE plus MPA.
+In this substudy, prior use of estrogen-alone or estrogen plus progestin therapy was reported by 26 percent of the women.
+The relative risk of invasive breast cancer was 1.24, and the absolute risk was 41 versus 33 cases per 10,000 women-years, for CE plus MPA compared with placebo.
+Among women who reported prior use of hormone therapy, the relative risk of invasive breast cancer was 1.86, and the absolute risk was 46 versus 25 cases per 10,000 women-years, for CE plus MPA compared with placebo.
+Among women who reported no prior use of hormone therapy, the relative risk of invasive breast cancer was 1.09, and the absolute risk was 40 versus 36 cases per 10,000 women-years, for CE plus MPA compared with placebo.
+In the same substudy, invasive breast cancers were larger, were more likely to be node positive, and were diagnosed at a more advanced stage in the CE (0.625 mg) plus MPA (2.5 mg) group compared with the placebo group.
+Metastatic disease was rare, with no apparent difference between the two groups.
+Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups.
 
-The CE/MPA substudy of WHI reported an increased risk of breast cancer in women who took CE/MPA for a mean follow-up of 5.6 years.
-Observational studies have also reported an increased risk for estrogen/progestin combination therapy, and a smaller increased risk for estrogen alone therapy, after several years of use.
-In the WHI trial and from observational studies, the excess risk increased with duration of use.
-From observational studies, the risk appeared to return to baseline in about five years after stopping treatment.
-In addition, observational studies suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen/progestin combination therapy as compared to estrogen alone therapy.
+The most important randomized clinical trial providing information about breast cancer in estrogen-alone users is the WHI substudy of daily CE (0.625 mg)-alone.
+In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE (0.625 mg)-alone was not associated with an increased risk of invasive breast cancer [relative risk (RR) 0.80].
 
-In the CE/MPA substudy, 26% of the women reported prior use of estrogen alone and/or estrogen/progestin combination hormone therapy.
-After a mean follow-up of 5.6 years during the clinical trial, the overall relative risk of invasive breast cancer was 1.24 (95% confidence interval 1.01 to 1.54), and the overall absolute risk was 41 vs 33 cases per 10,000 women-years, for CE/MPA compared with placebo.
-Among women who reported prior use of hormone therapy, the relative risk of invasive breast cancer was 1.86, and the absolute risk was 46 vs 25 cases per 10,000 women-years, for CE/MPA compared with placebo.
-Among women who reported no prior use of hormone therapy, the relative risk of invasive breast cancer was 1.09, and the absolute risk was 40 vs 36 cases per 10,000 women-years for CE/MPA compared with placebo.
-In the same substudy, invasive breast cancers were larger and diagnosed at a more advanced stage in the CE/MPA group compared with the placebo group.
-Metastatic disease was rare with no apparent difference between the two groups.
-Other prognostic factors such as histologic subtype, grade and hormone receptor status did not differ between the groups.
+Consistent with the Women’s Health Initiative (WHI clinical trials), observational studies have also reported an increased risk of breast cancer for estrogen plus progestin therapy and a smaller, but still increased risk, for estrogen-alone therapy after several years of use.
+One large meta-analysis of prospective cohort studies reported increased risks that were dependent upon duration of use and could last up to >10 years after discontinuation of estrogen plus progestin therapy and estrogen-alone therapy.
+Extension of the WHI trials also demonstrated increased breast cancer risk associated with estrogen plus progestin therapy.
+Observational studies also suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to the risk with estrogen-alone therapy.
+However, these studies have not found significant variation in the risk of breast cancer among different estrogen plus progestin combinations, doses, or routes of administration.
 
-The use of estrogen plus progestin has been reported to result in an increase in abnormal mammograms requiring further evaluation.
+The use of estrogen-alone and estrogen plus progestin has been reported to result in an increase in abnormal mammograms requiring further evaluation.
 All women should receive yearly breast examinations by a healthcare provider and perform monthly breast self-examinations.
-In addition, mammography examinations should be scheduled based on patient age, risk factors, and prior mammogram results.
+In addition, mammography examinations should be scheduled based on patient age, risk factors and prior mammogram results.
 
 c. Ovarian cancer
 
@@ -182,16 +183,16 @@ Estrogens may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migr
 Estradiol tablets 2 mg contain FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible individuals.
 Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.
 
-#### B. Patient Information
+## B. Patient Information
 
 Physicians are advised to discuss the PATIENT INFORMATION leaflet with patients for whom they prescribe estradiol tablets.
 
-#### C. Laboratory Tests
+## C. Laboratory Tests
 
 Estrogen administration should be initiated at the lowest dose approved for the indication and then guided by clinical response rather than by serum hormone levels (e.g., estradiol, FSH).
 (See DOSAGE AND ADMINISTRATION section.)
 
-#### D. Drug/Laboratory Test Interactions
+## D. Drug/Laboratory Test Interactions
 
 1. Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of anti-factor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
 2. Increased thyroid-binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
@@ -205,25 +206,25 @@ Estrogen administration should be initiated at the lowest dose approved for the 
 5. Impaired glucose tolerance.
 6. Reduced response to metyrapone test.
 
-#### E. Carcinogenesis, Mutagenesis, Impairment of Fertility
+## E. Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term continuous administration of estrogen, with and without progestin, in women with and without a uterus, has shown an increased risk of endometrial cancer, breast cancer, and ovarian cancer.
 (See BOXED WARNINGS, WARNINGS and PRECAUTIONS.)
 
 Long term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, cervix, vagina, testis, and liver.
 
-#### F. Pregnancy
+## F. Pregnancy
 
 Estradiol tablets should not be used during pregnancy.
 (See CONTRAINDICATIONS.)
 
-#### G. Nursing Mothers
+## G. Nursing Mothers
 
 Estrogen administration to nursing mothers has been shown to decrease the quantity and quality of the milk.
 Detectable amounts of estrogens have been identified in the milk of mothers receiving this drug.
 Caution should be exercised when estradiol is administered to a nursing woman.
 
-#### H. Pediatric Use
+## H. Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
 Large and repeated doses of estrogen over an extended period of time have been shown to accelerate epiphyseal closure, resulting in short adult stature if treatment is initiated before the completion of physiologic puberty in normally developing children.
@@ -234,7 +235,7 @@ In boys, estrogen treatment may modify the normal pubertal process.
 All other physiological and adverse reactions shown to be associated with estrogen treatment of adults could potentially occur in the pediatric population, including thromboembolic disorders and growth stimulation of certain tumors.
 Therefore, estrogens should only be administered to pediatric patients when clearly indicated and the lowest effective dose should always be utilized.
 
-#### I. Geriatric Use
+## I. Geriatric Use
 
 The safety and efficacy of estradiol tablets in geriatric patients has not been established.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greatest frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.

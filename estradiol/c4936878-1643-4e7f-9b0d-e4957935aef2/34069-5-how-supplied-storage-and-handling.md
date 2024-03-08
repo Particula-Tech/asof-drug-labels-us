@@ -2,7 +2,7 @@
 
 Estradiol Tablets, USP are available as:
 
-| 0.5 mg: | White to off-white, oval, flat-faced, beveled-edge, scored tablet. Debossed with 899 / &frac12; on the scored side and stylized b on the other side, packaged in bottles of 100 (NDC 0555-0899-02). |
+| 0.5 mg: | White to off-white, oval, flat-faced, beveled-edge, scored tablet. Debossed with 899 / 1/2 on the scored side and stylized b on the other side, packaged in bottles of 100 (NDC 0555-0899-02). |
 | --- | --- |
 | 1 mg: | Light purple, oval, flat-faced, beveled-edge, scored tablet. Debossed with 886 / 1 on the scored side and stylized b on the other side, packaged in bottles of 100 (NDC 0555-0886-02) and 500 (NDC 0555-0886-04). |
 | 2 mg: | Green, oval, flat-faced, beveled-edge, scored tablet. Debossed with 887 / 2 on the scored side and stylized b on the other side, packaged in bottles of 100 (NDC 0555-0887-02) and 500 (NDC 0555-0887-04). |
@@ -16,4 +16,4 @@ Keep this and all medications out of the reach of children.
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-C 11/2022
+D 2/2024
