@@ -22,10 +22,66 @@ Literature reports suggest an apparent association between use of corticosteroid
 
 ## Endocrine
 
-Corticosteroids can produce reversible hypothalamic-pituitary adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
+Corticosteroids can produce reversible hypothalamicpituitary adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
 
 Metabolic clearance of corticosteroids is decreased in hypothyroid patients and increased in hyperthyroid patients.
 Changes in thyroid status of the patient may necessitate adjustment in dosage.
+
+## Infections
+
+### General
+
+Patients who are on corticosteroids are more susceptible to infections than are healthy individuals.
+There may be decreased resistance and inability to localize infection when corticosteroids are used.
+Infection with any pathogen (viral, bacterial, fungal, protozoan or helminthic) in any location of the body may be associated with the use of corticosteroids alone or in combination with other immunosuppressive agents.
+These infections may be mild to severe.
+With increasing doses of corticosteroids, the rate of occurrence of infectious complications increases.
+Corticosteroids may also mask some signs of current infection.
+
+### Fungal infections
+
+Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control drug reactions.
+There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see PRECAUTIONS, Drug Interactions, Amphotericin B injection and potassium-depleting agents).
+
+### Special pathogens
+
+Latent disease may be activated or there may be an exacerbation of intercurrent infections due to pathogens, including those caused by Amoeba, Candida, Cryptococcus, Mycobacterium, Nocardia, Pneumocystis, and Toxoplasma.
+
+It is recommended that latent amebiasis or active amebiasis be ruled out before initiating corticosteroid therapy in any patient who has spent time in the tropics or in any patient with unexplained diarrhea.
+
+Similarly, corticosteroids should be used with great care in patients with known or suspected Strongyloides (thread worm) infestation.
+In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
+
+Corticosteroids should not be used in cerebral malaria.
+
+### Tuberculosis
+
+If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur.
+During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
+
+### Vaccination
+
+Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
+Killed or inactivated vaccines may be administered.
+However, the response to such vaccines cannot be predicted.
+Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, e.g., for Addison's disease.
+
+### Viral infections
+
+Chickenpox and measles can have a more serious or even fatal course in pediatric and adult patients on corticosteroids.
+In pediatric and adult patients who have not had these diseases, particular care should be taken to avoid exposure.
+The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
+If exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
+If exposed to measles, prophylaxis with immunoglobulin (IG) may be indicated.
+(See the respective package inserts for complete VZIG and IG prescribing information.)
+If chickenpox develops, treatment with antiviral agents should be considered.
+
+### Ophthalmic
+
+Use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to bacteria, fungi, or viruses.
+If a patient presents with symptoms such as blurred vision or other visual disturbances, the patient should be considered for referral to an ophthalmologist for evaluation.
+The use of oral corticosteroids is not recommended in the treatment of optic neuritis and may lead to an increase in the risk of new episodes.
+Corticosteroids should not be used in active ocular herpes simplex.
 
 # PRECAUTIONS
 
@@ -85,7 +141,7 @@ If steroid therapy is continued for more than 6 weeks, intraocular pressure shou
 
 Patients should be warned not to discontinue the use of corticosteroids abruptly or without medical supervision, to advise any medical attendants that they are taking corticosteroids and to seek medical advice at once should they develop fever or other signs of infection.
 
-Persons who are on corticosteroids should be warned to avoid exposure to chicken pox or measles.
+Persons who are on corticosteroids should be warned to avoid exposure to chickenpox or measles.
 Patients should also be advised that if they are exposed, medical advice should be sought without delay.
 
 ## Drug Interactions
@@ -118,7 +174,7 @@ Estrogens, including oral contraceptives: Estrogens may decrease the hepatic met
 
 Hepatic Enzyme Inducers (e.g., barbiturates, phenytoin, carbamazepine, rifampin): Drugs which induce hepatic microsomal drug metabolizing enzyme activity may enhance the metabolism of corticosteroids and require that the dosage of the corticosteroid be increased.
 
-Ketoconazole: Ketoconazole has been reported to decrease the metabolism of certain corticosteroids by up to 60%, leading to an increased risk of corticosteroid side effects.
+Ketoconazole: Ketoconazole has been reported to decrease the metabolism of certain corticosteroids by up to 60%, leading to an increased risk of corticosteroids side effects.
 
 Nonsteroidal anti-inflammatory agents (NSAIDS): Concomitant use of aspirin (or other nonsteroidal anti-inflammatory agents) and corticosteroids increases the risk of gastrointestinal side effects.
 Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.
@@ -136,7 +192,9 @@ No adequate studies have been conducted in animals to determine whether corticos
 
 Steroids may increase or decrease motility and number of spermatozoa in some patients.
 
-## Pregnancy: Teratogenic Effects
+## Pregnancy
+
+### Teratogenic Effects
 
 Corticosteroids have been shown to be teratogenic in many species when given in doses equivalent to the human dose.
 Animal studies in which corticosteroids have been given to pregnant mice, rats, and rabbits have yielded an increased incidence of cleft palate in the offspring.
@@ -153,6 +211,6 @@ Caution should be exercised when corticosteroids are administered to a nursing w
 
 Safety and effectiveness in pediatric patients have not been established.
 
-## Geriatric use
+## Geriatric Use
 
 No overall differences in safety or effectiveness were observed between elderly subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.

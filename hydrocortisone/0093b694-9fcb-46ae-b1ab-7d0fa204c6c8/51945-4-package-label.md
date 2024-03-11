@@ -18,7 +18,7 @@ DIRECTIONS FOR USE
 |  |  | CONTAINER MUST BE HELD UPRIGHT TO OBTAIN PROPER FLOW OF MEDICATION. |  |
 | 3 Pull plunger past the fill line on the applicator barrel. |  |  |  |
 | 4 To fill applicator barrel, press down firmly on cap flanges, hold for 1 – 2 seconds and release. Pause 5 - 10 seconds to allow foam to expand in applicator barrel. Repeat until foam reaches fill line. Remove applicator from container cap. Allow some foam to remain on the applicator tip. A burst of air may come out of container with first pump. |  |  |  |
-| 5 Hold applicator firmly by barrel, making sure thumb and middle finger are positioned securely underneath and resting against barrel wings. place index finger over the plunger. Gently insert tip into anus. Once in place, push plunger to expel foam, then withdraw applicator. |  |  |  |
+| 5 Hold applicator firmly by barrel, making sure thumb and middle finger are positioned securely underneath and resting against barrel wings. Place index finger over the plunger. Gently insert tip into anus. Once in place, push plunger to expel foam, then withdraw applicator. |  |  |  |
 | 6 After each use, applicator parts should be pulled apart for thorough cleaning with warm water. The container cap and underlying tip should also be pulled apart and rinsed to help prevent buildup of foam and possible blockage. |  |  |  |
 
 Description: cortifoam® (hydrocortisone acetate) 10% rectal foam contains hydrocortisone acetate 10% in a base containing propylene glycol, emulsifying wax, polyoxyethylene-10-stearyl ether, cetyl alcohol, methylparaben, propyl-paraben, trolamine, purified water and inert propellants: isobutane and propane.

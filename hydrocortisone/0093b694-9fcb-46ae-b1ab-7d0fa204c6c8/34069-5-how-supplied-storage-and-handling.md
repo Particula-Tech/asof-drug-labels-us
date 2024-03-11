@@ -14,10 +14,10 @@ Rx only
 
 Distributed by: Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 
-©2020 Mylan Specialty L.P.
+© 2022 Mylan Specialty L.P., a Viatris Company
 
 For Medical Inquiries, call toll-free 1-877-848-6608
 
-Cortifoam is a registered trademark of Alaven Pharmaceutical LLC, a Mylan company.
+CORTIFOAM is a registered trademark of Alaven Pharmaceutical LLC, a Viatris Company.
 
-IN-683015-04 141153-0720
+IN-683015-0X
