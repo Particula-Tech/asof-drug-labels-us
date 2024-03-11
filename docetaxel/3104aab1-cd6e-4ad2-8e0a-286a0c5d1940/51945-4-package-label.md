@@ -19,9 +19,11 @@ LOT EXP
 
 20 mg/mL
 
-1 x 1 mL Single-dose vial Discard unused portion.
+1 x 1 mL
 
 NDC 0409-0366-01
+
+Single-dose vial Discard unused portion.
 
 Docetaxel Injection, USP
 
@@ -31,7 +33,7 @@ For Intravenous Use only
 
 Ready to add to infusion solution
 
-Caution: Cytotoxic Agent
+Caution: Hazardous Drug
 
 Check concentration prior to preparation.
 See package insert for complete instructions.
@@ -68,7 +70,7 @@ For Intravenous Use only
 
 Ready to add to infusion solution
 
-Caution: Cytotoxic Agent
+Caution: Hazardous Drug
 
 Check concentration prior to preparation.
 See package insert for complete instructions.
@@ -103,7 +105,7 @@ For Intravenous Use only
 
 Ready to add to infusion solution
 
-Caution: Cytotoxic Agent
+Caution: Hazardous Drug
 
 Check concentration prior to preparation.
 See package insert for complete instructions.
