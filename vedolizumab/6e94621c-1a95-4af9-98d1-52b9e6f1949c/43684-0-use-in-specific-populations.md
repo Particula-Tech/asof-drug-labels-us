@@ -2,18 +2,14 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
-
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ENTYVIO during pregnancy.
-Information about the registry can be obtained by calling 1-877-TAKEDA7 (1-877-825-3327).
-
 Risk Summary
 
-Available pharmacovigilance data, data from the ongoing pregnancy registry, and data from published case reports and cohort studies in pregnant women have not identified an ENTYVIO associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
+Available data from the Organization of Teratology Information Specialists (OTIS)/MotherToBaby ENTYVIO Pregnancy Registry, published literature and pharmacovigilance in pregnant women have not reliably identified an ENTYVIO-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes (see Data).
 There are risks to the mother and the fetus associated with inflammatory bowel disease in pregnancy (see Clinical Considerations).
+
 No fetal harm was observed in animal reproduction studies with intravenous administration of vedolizumab to rabbits and monkeys at dose levels 20 times the recommended human dosage (see Data).
 
-The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+The background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and miscarriage is 15 to 20%, respectively.
 
@@ -31,6 +27,18 @@ The clinical significance of low levels of ENTYVIO in utero-exposed infants is u
 The safety of administering live or live-attenuated vaccines in exposed infants is unknown.
 
 Data
+
+Human Data
+
+The vedolizumab pregnancy exposure registry conducted by OTIS/MotherToBaby study in the United States and Canada collected prospective observational data between 2015 and 2022 to assess the risk of major birth defects in live-born infants of women with ulcerative colitis (UC) or Crohn’s disease (CD) treated with vedolizumab during pregnancy.
+The study compared pregnant patients with UC or CD exposed to vedolizumab with pregnant patients with UC or CD treated with other biological products.
+The registry included 99 women (58 with UC, 41 with CD) treated with vedolizumab during pregnancy, and 76 women (27 with UC, 49 with CD) exposed to other biological products during pregnancy.
+
+The proportion of major birth defects among live-born infants in patients with UC or CD treated with vedolizumab and patients with UC or CD treated with other biological products was 7.4% (7/94) and 5.6% (4/71), respectively.
+Overall, there was no evidence of increased risk for major structural birth defects (adjusted RR 1.07, 95% CI: 0.33, 3.52).
+
+The methodological limitations of the registry, including small sample size and the non-randomized design, resulted in a limited ability to estimate the risk of major birth defects and other maternal and infant outcomes.
+The conclusions from the pregnancy registry were consistent with the published literature and pharmacovigilance.
 
 Animal Data
 

@@ -21,10 +21,6 @@ Liver Injury
 Inform patients that elevated transaminase levels with or without elevated bilirubin has occurred in patients who received ENTYVIO.
 Instruct patients to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice [see Warnings and Precautions (5.4)].
 
-Pregnancy
-
-Inform patients that there is a pregnancy registry to monitor pregnancy outcomes of women who are pregnant or become pregnant while exposed to ENTYVIO [see Use in Specific Populations (8.1)].
-
 Subcutaneous Dosing Technique
 
 Provide guidance to patients and caregivers on proper subcutaneous administration technique, and how to use the ENTYVIO single-dose prefilled syringe, or ENTYVIO single-dose prefilled pen correctly [see Instructions for Use].

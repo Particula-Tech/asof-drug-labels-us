@@ -17,7 +17,7 @@ ENTYVIO is not recommended in patients with active, severe infections until the 
 Consider withholding treatment in patients who develop a severe infection while on treatment with ENTYVIO.
 Exercise caution when considering the use of ENTYVIO in patients with a history of recurring severe infections.
 Consider screening for tuberculosis (TB) according to the local practice.
-For progressive multifocal leukoencephalopathy (PML), see Warnings and Precautions (5.3).
+For progressive multifocal leukoencephalopathy (PML), [see Warnings and Precautions (5.3)].
 
 ## 5.3 Progressive Multifocal Leukoencephalopathy
 

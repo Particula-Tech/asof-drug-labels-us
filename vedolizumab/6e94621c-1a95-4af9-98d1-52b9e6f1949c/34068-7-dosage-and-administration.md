@@ -9,7 +9,7 @@ Intravenous Administration for UC and CD
 - ENTYVIO should be administered by a healthcare provider prepared to manage hypersensitivity reactions including anaphylaxis, if they occur [see Warnings and Precautions (5.1)].
   Appropriate monitoring and medical support measures should be available for immediate use.
   Observe patients during infusion and until the infusion is complete.
-- Reconstitute and dilute ENTYVIO lyophilized powder prior to administration as a 30- minute intravenous infusion [see Dosage and Administration (2.4)].
+- Reconstitute and dilute ENTYVIO lyophilized powder prior to administration as a 30-minute intravenous infusion [see Dosage and Administration (2.4)].
 
 Subcutaneous Injection for UC
 

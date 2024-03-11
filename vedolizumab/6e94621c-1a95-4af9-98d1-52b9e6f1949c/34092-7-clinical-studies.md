@@ -106,7 +106,7 @@ Proportion of Patients Meeting Efficacy Endpoints at Week 52Patients must have a
 | Endpoint | PlaceboThe placebo group includes those subjects who received intravenous vedolizumab at Week 0 and Week 2 and were randomized to receive placebo from Week 6 through Week 52. | ENTYVIO 108 mg subcutaneously Every 2 WeeksStarting at Week 6 following two doses intravenous doses of ENTYVIO 300 mg administered as an intravenous infusion at Weeks 0 and 2. | EstimateEstimated treatment difference is based on the Cochran-Mantel-Haenszel method of Treatment Difference vs. Placebo (95% CI) |
 | --- | --- | --- | --- |
 | Clinical remissionClinical remission: Complete Mayo score of ≤2 points and no individual subscore >1 point at Week 52 at Week 52 |  |  |  |
-| Total Population | N=56 14% | N=106 46% | 32 (20, 45)p < 0.001 |
+| Total Population | N=56 14% | N=106 46% | 32 (20, 45)p <0.001 |
 | Prior TNF blocker failure | N=20 10% | N=40 35% |  |
 | Without prior TNF blocker failure | N=36 17% | N=66 53% |  |
 | Improvement of endoscopic appearance of the mucosa at Week 52Improvement of endoscopic appearance of the mucosa: Mayo endoscopic subscore of ≤1 point |  |  |  |
