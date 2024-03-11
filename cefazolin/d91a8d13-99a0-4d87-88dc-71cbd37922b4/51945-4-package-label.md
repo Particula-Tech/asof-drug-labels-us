@@ -15,7 +15,7 @@ Cautions: Do not add supplementary medication or additives.
 Rx only
 
 Store at or below -20°C (-4°F).
-Thaw at room temperature 20-25°C (68 - 77°F) or under refrigeration 2-8°C (36 - 46°F).
+Thaw at room temperature 20°C to 25°C (68°F to 77°F) or under refrigeration 2°C to 8°C (36°F to 46°F).
 DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
 Thawed solution is stable for 30 days under refrigeration or 48 hours at room temperature.
 Do not refreeze.
@@ -32,7 +32,7 @@ PL2040 Plastic
 
 303383503411
 
-Thaw at room temperature 20-25°C (68 - 77°F) or under refrigeration 2-8°C (36 - 41°F).
+Thaw at room temperature 20°C to 25°C (68°F to 77°F) or under refrigeration 2°C to 8°C (36°F to 41°F).
 DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
 Thawed solution is stable for 30 days under refrigeration or 48 hours at room temperature.
 Do not refreeze.
@@ -43,7 +43,7 @@ Baxter and Galaxy are registered trademarks of Baxter International Inc. PL 2040
 07-04-00-0801
 
 Cefazolin in Dextrose Injection, USP 1 g / 50 mL (20 mg / mL) Contains 12 units of Single Dose bags.
-Each bag contains 50 mL Iso-osmotic Store at or below -20°C/-4°F.
+Each bag contains 50 mL Iso-osmotic Store at or below -20°C (-4°F).
 Do not refreeze.
 
 Rx Only
@@ -78,7 +78,7 @@ Cautions: Do not add supplementary medication or additives.
 Rx only
 
 Store at or below -20°C (-4°F).
-Thaw at room temperature 20-25°C (68 - 77°F) or under refrigeration 2-8°C (36 - 46°F).
+Thaw at room temperature 20°C to 25°C (68°F to 77°F) or under refrigeration 2°C to 8°C (36°F to 46°F).
 DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
 Thawed solution is stable for 30 days under refrigeration or 48 hours at room temperature.
 Do not refreeze.
@@ -95,7 +95,7 @@ PL2040 Plastic
 
 303383508416
 
-Thaw at room temperature 20-25°C (68 - 77°F) or under refrigeration 2-8°C (36 - 41°F).
+Thaw at room temperature 20°C to 25°C (68°F to 77°F) or under refrigeration 2°C to 8°C (36 °F to 41°F).
 DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
 Thawed solution is stable for 30 days under refrigeration or 48 hours at room temperature.
 Do not refreeze.
@@ -105,7 +105,7 @@ PL 2040 Plastic 07-04-00-0802
 
 Cefazolin in Dextrose Injection, USP 2 g / 100 mL (20 mg/ mL) Contains 6 units of Single Dose bags.
 Each bag contains 100 mL.
-Iso-osmotic Store at or below -20°C/-4°F.
+Iso-osmotic Store at or below -20°C (4°F).
 Do not refreeze.
 Lot XXXXXX Exp.
 DD MMM YY
