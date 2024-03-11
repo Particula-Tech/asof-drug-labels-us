@@ -16,9 +16,9 @@ Dispense in a tight, light-resistant container.
 
 Manufactured in Slovenia
 
-by Lek Pharmaceuticals d.d.
+by Novartis Pharmaceutical Manufacturing LLC
 
 for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-July 2021
+March 2024

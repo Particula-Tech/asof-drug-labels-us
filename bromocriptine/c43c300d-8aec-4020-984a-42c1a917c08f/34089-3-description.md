@@ -9,6 +9,4 @@ The structural formula is:
 2.5 mg Tablets
 
 Each tablet for oral administration contains bromocriptine mesylate equivalent to 2.5 mg bromocriptine.
-In addition, each tablet contains the following inactive ingredients: colloidal silicon dioxide, lactose monohydrate, magnesium stearate, povidone, corn starch, maleic acid and disodium edetate.
-
-Complies with USP Dissolution Test 1.
+In addition, each tablet contains the following inactive ingredients: colloidal silicon dioxide, corn starch, disodium edetate, lactose monohydrate, magnesium stearate, maleic acid, and povidone.

@@ -16,7 +16,7 @@ It may also occur in previously untreated patients whose tumor extends into the 
 
 ## Acromegaly
 
-The most frequent adverse reactions encountered in acromegalic patients treated with bromocriptine mesylate were: nausea (18%), constipation (14%), postural/orthostatic hypotension (6%), anorexia (4%), dry mouth/nasal stuffiness (4%), indigestion/ dyspepsia (4%), digital vasospasm (3%), drowsiness/ tiredness (3%) and vomiting (2%).
+The most frequent adverse reactions encountered in acromegalic patients treated with bromocriptine mesylate were: nausea (18%), constipation (14%), postural/orthostatic hypotension (6%), anorexia (4%), dry mouth/nasal stuffiness (4%), indigestion/dyspepsia (4%), digital vasospasm (3%), drowsiness/ tiredness (3%) and vomiting (2%).
 
 Less frequent adverse reactions (less than 2%) were: gastrointestinal bleeding, dizziness, exacerbation of Raynaud's syndrome, headache and syncope.
 Rarely (less than 1 %) hair loss, alcohol potentiation, faintness, lightheadedness, arrhythmia, ventricular tachycardia, decreased sleep requirement, visual hallucinations, lassitude, shortness of breath, bradycardia, vertigo, paresthesia, sluggishness, vasovagal attack, delusional psychosis, paranoia, insomnia, heavy headedness, reduced tolerance to cold, tingling of ears, facial pallor and muscle cramps have been reported.

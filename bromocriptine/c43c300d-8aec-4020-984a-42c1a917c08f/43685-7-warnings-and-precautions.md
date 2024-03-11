@@ -28,7 +28,7 @@ Cases of acute myocardial infarction have also been reported.
 
 Although a causal relationship between bromocriptine mesylate administration and hypertension, seizures, strokes, and myocardial infarction in postpartum women has not been established, use of the drug for prevention of physiological lactation, or in patients with uncontrolled hypertension is not recommended.
 In patients being treated for hyperprolactinemia, bromocriptine mesylate should be withdrawn when pregnancy is diagnosed (see PRECAUTIONS, Hyperprolactinemic States).
-In the event that bromocriptine mesylate is reinstituted to control a rapidly expanding macroadenoma (see PRECAUTIONS, Hyperprolactinemic States) and a patient experiences a hypertensive disorder of pregnancy, the benefit of continuing bromocriptine mesylate must be weighed against the possible risk of its use during a hypertensive disorder of pregnancy.
+In the event that bromocriptine mesylate is reinstituted to control a rapidly expanding macroadenoma (see PRECAUTIONS, Hyperprolactinemic States)and a patient experiences a hypertensive disorder of pregnancy, the benefit of continuing bromocriptine mesylate must be weighed against the possible risk of its use during a hypertensive disorder of pregnancy.
 When bromocriptine mesylate is being used to treat acromegaly or Parkinson's disease in patients who subsequently become pregnant, a decision should be made as to whether the therapy continues to be medically necessary or can be withdrawn.
 If it is continued, the drug should be withdrawn in those who may experience hypertensive disorders of pregnancy (including eclampsia, preeclampsia, or pregnancy-induced hypertension) unless withdrawal of bromocriptine mesylate is considered to be medically contraindicated.
 Because of the possibility of an interaction between bromocriptine mesylate and other ergot alkaloids, the concomitant use of these medications is not recommended.
@@ -72,6 +72,7 @@ Monitoring of visual fields in patients with macroprolactinoma is therefore reco
 
 The relative efficacy of bromocriptine mesylate versus surgery in preserving visual fields is not known.
 Patients with rapidly progressive visual field loss should be evaluated by a neurosurgeon to help decide on the most appropriate therapy.
+
 Since pregnancy is often the therapeutic objective in many hyperprolactinemic patients presenting with amenorrhea/galactorrhea and hypogonadism (infertility), a careful assessment of the pituitary is essential to detect the presence of a prolactin-secreting adenoma.
 Patients not seeking pregnancy, or those harboring large adenomas, should be advised to use contraceptive measures, other than oral contraceptives, during treatment with bromocriptine mesylate.
 Since pregnancy may occur prior to reinitiation of menses, a pregnancy test is recommended at least every four weeks during the amenorrheic period, and, once menses are reinitiated, every time a patient misses a menstrual period.
@@ -172,8 +173,6 @@ In males treated with 50 mg/kg of this drug, mating and fertility were within th
 Increased perinatal loss was produced in the subgroups of dams, sacrificed on day 21 postpartum (p.p.) after mating with males treated with the highest dose (50 mg/kg).
 
 ## Pregnancy
-
-Category B
 
 Administration of 10 to 30 mg/kg of bromocriptine to 2 strains of rats on days 6 to 15 postcoitum (p.c.) as well as a single dose of 10 mg/kg on day 5 p.c. interfered with nidation.
 Three mg/kg given on days 6 to 15 were without effect on nidation, and did not produce any anomalies.

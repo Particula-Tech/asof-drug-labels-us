@@ -22,5 +22,5 @@ Bromocriptine mesylate tablets, USP therapy may permit a reduction of the mainte
 Continued efficacy of bromocriptine mesylate tablets, USP therapy during treatment of more than two years has not been established.
 
 Data are insufficient to evaluate potential benefit from treating newly diagnosed Parkinson's disease with bromocriptine mesylate tablets, USP.
-Studies have shown, however, significantly more adverse reactions (notably nausea, hallucinations, confusion and hypotension) in bromocriptine-treated patients than in levodopa/carbidopa-treated patients.
+Studies have shown, however, significantly more adverse reactions (notably nausea, hallucinations, confusion and hypotension) in bromocriptine mesylate tablets, USP-treated patients than in levodopa/carbidopa-treated patients.
 Patients unresponsive to levodopa are poor candidates for bromocriptine mesylate tablets, USP therapy.
