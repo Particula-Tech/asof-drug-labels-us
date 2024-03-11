@@ -13,9 +13,9 @@ Alogliptin is minimally dialyzable; over a three-hour hemodialysis session, appr
 Therefore, hemodialysis is unlikely to be beneficial in an overdose situation.
 It is not known if alogliptin is dialyzable by peritoneal dialysis.
 
-Metformin Hydrochloride
+Metformin HCl
 
 Metformin is dialyzable with a clearance of up to 170 mL/min under good hemodynamic conditions.
 Hemodialysis may be useful for removal of accumulated drug from patients in whom metformin overdosage is suspected.
 
-To contact the poison control center, call 1-800-222-1222.
+In the event of an overdose, contact the Poison Help Line, call (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations.

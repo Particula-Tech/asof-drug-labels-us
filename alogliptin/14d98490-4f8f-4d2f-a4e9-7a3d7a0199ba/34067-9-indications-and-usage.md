@@ -4,4 +4,4 @@ Alogliptin and metformin HCl tablets are indicated as an adjunct to diet and exe
 
 Limitations of Use
 
-Alogliptin and metformin HCl tablets should not be used in patients with type 1 diabetes mellitus.
+Alogliptin and metformin HCl tablets should not recommended for use in patients with type 1 diabetes mellitus.

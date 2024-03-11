@@ -10,7 +10,5 @@ Alogliptin and metformin HCl tablets are available in the following strengths an
 | NDC 45802-211-72 | Bottles of 60 tablets |
 | --- | --- |
 
-Storage
-
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Keep container tightly closed.

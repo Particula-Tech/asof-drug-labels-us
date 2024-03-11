@@ -6,7 +6,7 @@ Metformin-associated lactic acidosis was characterized by elevated blood lactate
 
 Risk factors for metformin-associated lactic acidosis include renal impairment, concomitant use of certain drugs (e.g., carbonic anhydrase inhibitors such as topiramate), age 65 years old or greater, having a radiological study with contrast, surgery and other procedures, hypoxic states (e.g., acute congestive heart failure), excessive alcohol intake, and hepatic impairment.
 
-Steps to reduce the risk of and manage metformin-associated lactic acidosis in these high risk groups are provided in the Full Prescribing Information [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1), Drug Interactions (7), and Use in Specific Populations (8.6, 8.7)].
+Steps to reduce the risk of and manage metformin-associated lactic acidosis in these high risk groups are provided in the Full Prescribing Information [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1), Drug Interactions (7), Use in Specific Populations (8.6, 8.7)].
 
 If metformin-associated lactic acidosis is suspected, immediately discontinue alogliptin and metformin HCl tablets and institute general supportive measures in a hospital setting.
 Prompt hemodialysis is recommended [see Warnings and Precautions (5.1)].

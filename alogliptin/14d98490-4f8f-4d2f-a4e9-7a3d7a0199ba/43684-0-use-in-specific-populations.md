@@ -6,26 +6,26 @@ Risk Summary
 
 Limited available data with alogliptin and metformin HCl tablets or alogliptin in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage.
 Published studies with metformin use during pregnancy have not reported a clear association with metformin and major birth defect or miscarriage risk [see Data].
-There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
+There are risks to the mother and fetus associated with poorly controlled diabetes mellitus in pregnancy [see Clinical Considerations].
 
 Concomitant administration of alogliptin and metformin in pregnant rats during the period of organogenesis did not cause adverse developmental effects in offspring at maternal exposures up to 28 times and two times the 25 mg and 2000 mg clinical doses, respectively [see Data].
 
-The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with a HbA1c > 7 and has been reported to be as high as 20-25% in women with HbA1c > 10.
+The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes mellitus with a HbA1c >7 and has been reported to be as high as 20-25% in women with HbA1c >10.
 The estimated background risk of miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk
+Disease-associated Maternal and/or Embryo/Fetal Risk
 
-Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
-Poorly controlled diabetes increases the fetal risk for major malformations, still birth, and macrosomia related morbidity.
+Poorly controlled diabetes mellitus in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
+Poorly controlled diabetes mellitus increases the fetal risk for major malformations, still birth, and macrosomia related morbidity.
 
 Data
 
 Human Data
 
-Published data from post-marketing studies do not report a clear association with metformin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when metformin is used during pregnancy.
+Published data from postmarketing studies do not report a clear association with metformin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when metformin is used during pregnancy.
 However, these studies cannot definitely establish the absence of any metformin-associated risk because of methodological limitations, including small sample size and inconsistent comparator groups.
 
 Animal Data
@@ -42,9 +42,9 @@ Placental transfer of alogliptin into the fetus was observed following oral dosi
 
 No adverse developmental outcomes were observed in offspring when alogliptin was administered to pregnant rats during gestation and lactation at doses up to 250 mg/kg (approximately 95 times the 25 mg clinical dose, based on AUC).
 
-Metformin Hydrochloride
+Metformin HCl
 
-Metformin hydrochloride did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits up to 600 mg/kg/day during the period of organogenesis.
+Metformin HCl did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits up to 600 mg/kg/day during the period of organogenesis.
 This represents an exposure of about two to six times a clinical dose of 2000 mg based on body surface area (mg/m2) for rats and rabbits, respectively.
 
 ## 8.2 Lactation
@@ -68,36 +68,37 @@ There is the potential for unintended pregnancy with premenopausal women as ther
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of alogliptin and metformin HCl tablets in pediatric patients have not been established.
+The safety and effectiveness of alogliptin and metformin HCl tablets have not been established in pediatric patients.
+
+Effectiveness of alogliptin was not demonstrated in a 52 week, randomized, double-blind, placebo-controlled trial (NCT02856113) in 151 pediatric patients aged 10 to 17 years with inadequately controlled type 2 diabetes mellitus.
 
 ## 8.5 Geriatric Use
 
-Alogliptin and Metformin Hydrochloride
+Alogliptin and Metformin HCl
 
 Elderly patients are more likely to have decreased renal function.
-Monitor renal function in the elderly more frequently [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Monitor renal function in the elderly more frequently [see Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
 
 Of the total number of patients (N = 2095) in clinical safety and efficacy studies, 343 (16.4%) patients were 65 years and older and 37 (1.8%) patients were 75 years and older.
 No overall differences in safety or effectiveness were observed between these patients and younger patients.
-While this and other reported clinical experiences have not identified differences in responses between the elderly and younger patients, greater sensitivity of some older individuals cannot be excluded.
 
 Alogliptin
 
-Of the total number of patients (N=9052) in clinical safety and efficacy studies treated with alogliptin, 2257 (24.9%) patients were 65 years and older and 386 (4.3%) patients were 75 years and older.
+Of the total number of patients (N=9052) in clinical safety and efficacy studies treated with alogliptin, 2,257 (24.9%) patients were 65 years and older and 386 (4.3%) patients were 75 years and older.
 No overall differences in safety or effectiveness were observed between patients 65 years and over and younger patients.
 
-Metformin Hydrochloride
+Metformin HCl
 
-Controlled studies of metformin did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger patients.
+Controlled trials of metformin did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger patients.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal and cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
-Assess renal function more frequently in elderly patients [see Contraindications (4), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Assess renal function more frequently in elderly patients [see Contraindications (4), Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
 Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
-Alogliptin and metformin HCl tablets is contraindicated in severe renal impairment, patients with an eGFR below 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Alogliptin and metformin HCl tablets are contraindicated in severe renal impairment, patients with an eGFR below 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

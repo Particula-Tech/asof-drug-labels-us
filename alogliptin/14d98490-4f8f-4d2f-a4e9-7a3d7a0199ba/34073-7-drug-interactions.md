@@ -1,10 +1,10 @@
 # 7 DRUG INTERACTIONS
 
-Metformin Hydrochloride
+Metformin HCl
 
 | Carbonic Anhydrase Inhibitors |  |
 | --- | --- |
-| Clinical Impact: | Carbonic anhydrase inhibitors frequently cause a decrease in serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis. Concomitant use of these drugs with ALOGLIPTIN WITH METFORMIN HYDROCHLORIDE TABLETS may increase the risk of lactic acidosis. |
+| Clinical Impact: | Carbonic anhydrase inhibitors frequently cause a decrease in serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis. Concomitant use of these drugs with ALOGLIPTIN WITH METFORMIN HCl TABLETS may increase the risk of lactic acidosis. |
 | Intervention: | Consider more frequent monitoring of these patients. |
 | Examples: | Topiramate, zonisamide, acetazolamide or dichlorphenamide |
 | Drugs that Reduce Metformin Clearance |  |
@@ -13,17 +13,17 @@ Metformin Hydrochloride
 | Examples: | Ranolazine, vandetanib, dolutegravir, and cimetidine |
 | Alcohol |  |
 | Clinical Impact: | Alcohol is known to potentiate the effect of metformin on lactate metabolism. |
-| Intervention: | Warn patients against excessive alcohol intake while receiving ALOGLIPTIN WITH METFORMIN HYDROCHLORIDE TABLETS. |
+| Intervention: | Warn patients against excessive alcohol intake while receiving ALOGLIPTIN WITH METFORMIN HCl TABLETS. |
 | Insulin Secretagogues and Insulin |  |
-| Clinical Impact: | Coadministration of ALOGLIPTIN WITH METFORMIN HYDROCHLORIDE TABLETS with an insulin secretagogue (e.g., sulfonylurea) or with insulin may increase the risk of hypoglycemia. |
+| Clinical Impact: | Coadministration of ALOGLIPTIN WITH METFORMIN HCl TABLETS with an insulin secretagogue (e.g., sulfonylurea) or with insulin may increase the risk of hypoglycemia. |
 | Intervention: | Patients may require a lower dose of the insulin secretagogue or insulin. |
 | Drugs Affecting Glycemic Control |  |
 | Clinical Impact: | Certain drugs tend to produce hyperglycemia and may lead to loss of glycemic control. |
-| Intervention: | When such drugs are administered to a patient receiving ALOGLIPTIN WITH METFORMIN HYDROCHLORIDE TABLETS, the patient should be closely observed for loss of blood glucose control. When such drugs are withdrawn from a patient receiving ALOGLIPTIN WITH METFORMIN HYDROCHLORIDE TABLETS, the patient should be observed closely for hypoglycemia. |
+| Intervention: | When such drugs are administered to a patient receiving ALOGLIPTIN WITH METFORMIN HCl TABLETS, the patient should be closely observed for loss of blood glucose control. When such drugs are withdrawn from a patient receiving ALOGLIPTIN WITH METFORMIN HCl TABLETS, the patient should be observed closely for hypoglycemia. |
 | Examples: | Thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blocking drugs and isoniazid |
 
 Alogliptin
 
 | Cytochrome (CYP) P450, CYP-Substrates or Inhibitors |  |
 | --- | --- |
-| Clinical Impact: | Alogliptin is primarily renally excreted. Cytochrome (CYP) P450-related metabolism is negligible. No significant drug-drug interactions were observed with the CYP-substrates or inhibitors tested or with renally excreted drugs [see Clinical Pharmacology (12.3)]. |
+| Clinical Impact: | Insulin Secretagogues and Insulin Insulin and insulin secretagogues are known to cause hypoglycemia. Coadministration of alogliptin and metformin HCl tablets with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower dosages of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.7)]. |
