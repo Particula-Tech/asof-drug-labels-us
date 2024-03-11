@@ -71,14 +71,12 @@ Doses up to 600 mg/kg/day were administered through lactation; no adverse effect
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
-
 It is not known whether BIKTARVY or all of the components of BIKTARVY are present in human breast milk, affects human milk production, or has effects on the breastfed infant.
 Based on published data, FTC has been shown to be present in human breast milk.
 BIC was detected in the plasma of nursing rat pups likely due to the presence of BIC in milk, and tenofovir has been shown to be present in the milk of lactating rats and rhesus monkeys after administration of TDF (see Data).
 It is unknown if TAF is present in animal milk.
 
-Because of the potential for 1) HIV transmission (in HIV-negative infants); 2) developing viral resistance (in HIV-positive infants); and 3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving BIKTARVY.
+Potential risks of breastfeeding include: (1) HIV-1 transmission to HIV-1 negative infants; (2) developing viral resistance in HIV-1 positive infants; and (3) adverse reactions in a breastfed infant similar to those seen in adults.
 
 Data
 
@@ -92,7 +90,10 @@ Tenofovir was excreted into the milk of lactating monkeys following a single sub
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of BIKTARVY have been established as a complete regimen for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in pediatric patients weighing at least 14 kg who have no antiretroviral treatment history or to replace the current antiretroviral regimen in those who are virologically-suppressed (HIV-1 RNA less than 50 copies per mL) on a stable antiretroviral regimen with no history of treatment failure and no known substitutions associated with resistance to the individual components of BIKTARVY [see Indications and Usage (1) and Dosage and Administration (2.2, 2.3)].
+The safety and effectiveness of BIKTARVY have been established as a complete regimen for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in pediatric patients weighing at least 14 kg:
+
+- who have no antiretroviral treatment history or
+- to replace the current antiretroviral regimen in those who are virologically-suppressed (HIV-1 RNA less than 50 copies per mL) on a stable antiretroviral regimen with no known or suspected resistance to bictegravir or tenofovir [see Indications and Usage (1), and Dosage and Administration (2.2, 2.3)].
 
 Use of BIKTARVY in pediatric patients weighing at least 14 kg is supported by the following:
 
@@ -116,14 +117,14 @@ No overall differences in safety or effectiveness were observed between elderly 
 ## 8.6 Renal Impairment
 
 The pharmacokinetics, safety, virologic and immunologic responses of FTC and TAF (components of BIKTARVY) were evaluated in a single arm, open-label trial (Trial 1825) in virologically-suppressed adults with ESRD (estimated creatinine clearance of less than 15 mL/min) on chronic hemodialysis treated with FTC+TAF in combination with elvitegravir and cobicistat as a fixed-dose combination tablet for 96 weeks (N=55).
-In an extension phase of Trial 1825, 10 virologically-suppressed subjects switched to BIKTARVY and all remained virologically suppressed for 48 weeks [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.3)].
+In an extension phase of Trial 1825, 10 virologically-suppressed subjects switched to BIKTARVY and all remained virologically suppressed for 48 weeks [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3)].
 
 No dosage adjustment of BIKTARVY is recommended in patients with estimated creatinine clearance greater than or equal to 30 mL/min, or in virologically-suppressed adults (estimated creatinine clearance below 15 mL/min) who are receiving chronic hemodialysis.
 On days of hemodialysis, administer the daily dose of BIKTARVY after completion of hemodialysis treatment [see Dosage and Administration (2.2)]
 
-BIKTARVY is not recommended in patients with estimated creatinine clearance of below 30 mL/min, by Cockcroft-Gault, or patients with ESRD (estimated creatinine clearance below 15 mL/min) who are not receiving chronic dialysis, or patients with no antiretroviral treatment history and ESRD who are receiving chronic dialysis, as the safety and/or efficacy of BIKTARVY has not been established in these populations [see Dosage and Administration (2.4), Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
+BIKTARVY is not recommended in patients with estimated creatinine clearance of below 30 mL/min, by Cockcroft-Gault, or patients with ESRD (estimated creatinine clearance below 15 mL/min) who are not receiving chronic dialysis, or patients with no antiretroviral treatment history and ESRD who are receiving chronic dialysis, as the safety and/or efficacy of BIKTARVY has not been established in these populations [see Dosage and Administration (2.4), Warnings and Precautions (5.4), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
 No dosage adjustment of BIKTARVY is recommended in patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment.
-BIKTARVY has not been studied in patients with severe hepatic impairment (Child-Pugh Class C). Therefore, BIKTARVY is not recommended for use in patients with severe hepatic impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+BIKTARVY has not been studied in patients with severe hepatic impairment (Child-Pugh Class C). Therefore, BIKTARVY is not recommended for use in patients with severe hepatic impairment [see Dosage and Administration (2.4), and Clinical Pharmacology (12.3)].

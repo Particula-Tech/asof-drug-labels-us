@@ -9,7 +9,7 @@ Advise the patient to not discontinue BIKTARVY without first informing their hea
 
 Drug Interactions
 
-BIKTARVY may interact with certain drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or non-prescription medication or herbal products including St. John's wort [see Contraindications (4) and Drug Interactions (7)].
+BIKTARVY may interact with certain drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or non-prescription medication or herbal products including St. John's wort [see Contraindications (4), and Drug Interactions (7)].
 
 Immune Reconstitution Syndrome
 
@@ -39,4 +39,4 @@ Inform patients that there is an antiretroviral pregnancy registry to monitor fe
 
 Lactation
 
-Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
+Inform individuals with HIV-1 infection that the potential risks of breastfeeding include: (1) HIV-1 transmission to HIV-1–negative infants, (2) developing viral resistance in HIV-1–positive infants, and (3) adverse reactions in a breastfed infant similar to those seen in adults [see Use in Specific Populations (8.2)].

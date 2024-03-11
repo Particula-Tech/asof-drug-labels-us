@@ -12,6 +12,7 @@ Table 12 Trials Conducted with BIKTARVY in Subjects with HIV-1 Infection
 | Trial 1490 (NCT 02607956) | BIKTARVY (320) DTG + FTC/TAF(325) | 144 + 96 (OLE) |  |
 | Trial 1844 (NCT 02603120) | Virologically-suppressedHIV-1 RNA less than 50 copies per mL. adults | BIKTARVY (282) ABC/DTG/3TC (281) | 48 |
 | Trial 1878Randomized, open-label, active controlled trial. (NCT 02603107) | BIKTARVY (290) ATV or DRV (with cobicistat or ritonavir) plus either FTC/TDF or ABC/3TC (287) | 48 |  |
+| Trial 4030 (NCT 03110380) | BIKTARVY (284 [47 with M184V/I]) DTG plus FTC/TAF (281 [34 with M184V/I]) | 48 |  |
 | Trial 1825Open-label trial. (NCT 02600819) | Virologically-suppressed adults with ESRDEnd stage renal disease (estimated creatinine clearance of less than 15 mL/min by Cockcroft-Gault method). receiving chronic hemodialysis | FTC+TAF in combination with elvitegravir and cobicistat as a fixed-dose combination (55). In an extension phase of Trial 1825, 10 virologically-suppressed subjects switched to BIKTARVY. | 48Subjects received FTC+TAF in combination with elvitegravir and cobicistat for 96 weeks, followed by an extension phase in which 10 subjects received BIKTARVY for 48 weeks. |
 | Trial 4449 (NCT 03405935) | Virologically-suppressed adults aged 65 years and over | BIKTARVY (86) | 48 |
 | Trial 1474 (cohort 1) (NCT 02881320) | Virologically-suppressed adolescents between the ages of 12 to less than 18 years (at least 35 kg) | BIKTARVY (50) | 48 |
@@ -95,6 +96,15 @@ The mean change from baseline in CD4+ count at Week 48 was -31 cells per mm3 in 
 
 In Trial 1878, treatment outcomes between treatment groups were similar across subgroups by age, sex, race, and region.
 The mean change from baseline in CD4+ count at Week 48 was 25 cells per mm3 in patients who switched to BIKTARVY and 0 cells per mm3 in patients who stayed on their baseline regimen.
+
+In Trial 4030, the efficacy and safety of switching from DTG plus either FTC/TAF or FTC/TDF to BIKTARVY (containing 50 mg of BIC, 200 mg of FTC, and 25 mg of TAF) were evaluated in a randomized, double-blind study of virologically suppressed HIV-1 infected adults.
+Subjects must have been stably suppressed (HIV-1 RNA less than 50 copies/mL) on their baseline regimen for at least 6 months (if documented or suspected NRTI resistance), or at least 3 months (if no documented or suspected NRTI resistance) prior to trial entry.
+Subjects were randomized to switch to BIKTARVY (N=284) or to continue their prior treatment regimen, DTG+ F/TAF (N=281).
+The primary endpoint was the proportion of subjects with HIV-1 RNA ≥ 50 copies/mL at Week 48.
+At Week 48 the proportion of subjects with HIV-1 RNA ≥50 copies/mL was 0.4% (1/284) in the BIKTARVY group and 1.1% (3/281) in the DTG+F/TAF group (difference -0.7% [95%CI: -2.8%, 1.0%]).
+
+Of the subjects receiving BIKTARVY, 47 had HIV-1 with pre-existing M184V or I resistance substitutions (M184M/V, M184M/I, M184V/I, M184V) in HIV-1 RT.
+Eighty-nine percent (42/47) of subjects with M184V or I remained suppressed (HIV-1 RNA < 50 copies/mL) and 11% (5/47 subjects) did not have virologic data at the Week 48 timepoint due to study drug discontinuation.
 
 In Trial 1825, an open-label single arm trial, the efficacy, safety, and pharmacokinetics of FTC and TAF (components of BIKTARVY) were evaluated in virologically-suppressed adults with ESRD (estimated creatinine clearance of less than 15 mL/min) on chronic hemodialysis treated with FTC+TAF in combination with elvitegravir and cobicistat as a fixed-dose combination tablet for 96 weeks (N=55).
 In an extension phase of Trial 1825, 10 virologically-suppressed subjects switched to BIKTARVY and all subjects remained virologically suppressed (HIV-1 RNA < 50 copies/mL) for 48 weeks.

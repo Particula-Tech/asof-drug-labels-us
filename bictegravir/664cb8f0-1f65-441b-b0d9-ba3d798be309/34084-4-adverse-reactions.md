@@ -47,8 +47,8 @@ Adverse reactions in the open-label extension phases of Trials 1489 and 1490 wer
 
 Clinical Trials in Virologically Suppressed Adults
 
-The safety of BIKTARVY in virologically-suppressed adults was based on Week 48 data from 282 subjects in a randomized, double-blind, active-controlled trial (Trial 1844) in which virologically-suppressed subjects were switched from either DTG + ABC/3TC or ABC/DTG/3TC to BIKTARVY; and Week 48 data from 290 subjects in an open-label, active-controlled trial in which virologically-suppressed subjects were switched from a regimen containing atazanavir (ATV) (given with cobicistat or ritonavir) or darunavir (DRV) (given with cobicistat or ritonavir) plus either FTC/TDF or ABC/3TC, to BIKTARVY (Trial 1878).
-Overall, the safety profile in virologically-suppressed adult subjects in Trials 1844 and 1878 was similar to that in subjects with no antiretroviral treatment history [see Clinical Studies (14.3)].
+The safety of BIKTARVY in virologically-suppressed adults was based on Week 48 data from 282 subjects in a randomized, double-blind, active-controlled trial (Trial 1844) in which virologically-suppressed subjects were switched from either DTG + ABC/3TC or ABC/DTG/3TC to BIKTARVY; Week 48 data from 290 subjects in an open-label, active-controlled trial in which virologically-suppressed subjects were switched from a regimen containing atazanavir (ATV) (given with cobicistat or ritonavir) or darunavir (DRV) (given with cobicistat or ritonavir) plus either FTC/TDF or ABC/3TC, to BIKTARVY (Trial 1878); and Week 48 data from a randomized, double-blind active-controlled trial in which 284 virologically-suppressed subjects were switched from DTG plus either FTC/TAF or FTC/TDF, to BIKTARVY (Trial 4030).
+Overall, the safety profile in virologically-suppressed adult subjects in Trials 1844, 1878, and 4030 was similar to that in subjects with no antiretroviral treatment history [see Clinical Studies (14.3)].
 
 Clinical Trial in Adults with End Stage Renal Disease (ESRD) Receiving Chronic Hemodialysis
 
@@ -56,7 +56,7 @@ The safety of FTC and TAF (components of BIKTARVY) was evaluated in a single arm
 The most commonly reported adverse reaction (adverse event assessed as causally related by investigator and all grades) was nausea (7%).
 Serious adverse events were reported in 65% of subjects and the most common serious adverse events were pneumonia (15%), fluid overload (7%), hyperkalemia (11%) and osteomyelitis (7%).
 Overall 7% of subjects permanently discontinued treatment due to an adverse event.
-In an extension phase of Trial 1825 in which 10 subjects switched to BIKTARVY for 48 weeks, the safety findings were similar to those in the initial phase of the open-label trial [see Use in Specific Populations (8.6), Clinical Studies (14.3)].
+In an extension phase of Trial 1825 in which 10 subjects switched to BIKTARVY for 48 weeks, the safety findings were similar to those in the initial phase of the open-label trial [see Use in Specific Populations (8.6), and Clinical Studies (14.3)].
 
 Laboratory Abnormalities
 
@@ -111,3 +111,7 @@ Acute renal failure, acute tubular necrosis, proximal renal tubulopathy, and Fan
 Skin and Subcutaneous Tissue Disorders
 
 Angioedema, Stevens-Johnson syndrome/toxic epidermal necrolysis, and urticaria
+
+Investigations
+
+Weight increased

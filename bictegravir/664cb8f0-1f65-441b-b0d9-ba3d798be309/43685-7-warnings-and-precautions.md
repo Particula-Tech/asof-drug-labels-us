@@ -10,7 +10,7 @@ If appropriate, anti-hepatitis B therapy may be warranted, especially in patient
 
 ## 5.2 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
 
-The concomitant use of BIKTARVY with certain other drugs may result in known or potentially significant drug interactions, some of which may lead to [see Contraindications (4) and Drug Interactions (7.5)]:
+The concomitant use of BIKTARVY with certain other drugs may result in known or potentially significant drug interactions, some of which may lead to [see Contraindications (4), and Drug Interactions (7.5)]:
 
 - Loss of therapeutic effect of BIKTARVY and possible development of resistance.
 - Possible clinically significant adverse reactions from greater exposures of concomitant drugs.
@@ -28,7 +28,7 @@ Autoimmune disorders (such as Graves' disease, polymyositis, Guillain-Barré syn
 ## 5.4 New Onset or Worsening Renal Impairment
 
 Postmarketing cases of renal impairment, including acute renal failure, proximal renal tubulopathy (PRT), and Fanconi syndrome, have been reported with TAF-containing products; while most of these cases were characterized by potential confounders that may have contributed to the reported renal events, it is also possible these factors may have predisposed patients to tenofovir-related adverse events [see Adverse Reactions (6.1, 6.2)].
-BIKTARVY is not recommended in patients with severe renal impairment (estimated creatinine clearance of 15 to below 30 mL/min), or patients with ESRD (estimated creatinine clearance below 15 mL/min) who are not receiving chronic hemodialysis, or patients with no antiretroviral treatment history and ESRD who are receiving chronic hemodialysis [see Dosage and Administration (2.4), Use in Specific Populations (8.6)].
+BIKTARVY is not recommended in patients with severe renal impairment (estimated creatinine clearance of 15 to below 30 mL/min), or patients with ESRD (estimated creatinine clearance below 15 mL/min) who are not receiving chronic hemodialysis, or patients with no antiretroviral treatment history and ESRD who are receiving chronic hemodialysis [see Dosage and Administration (2.4), and Use in Specific Populations (8.6)].
 
 Patients taking tenofovir prodrugs who have impaired renal function and those taking nephrotoxic agents including non-steroidal anti-inflammatory drugs are at increased risk of developing renal-related adverse reactions.
 

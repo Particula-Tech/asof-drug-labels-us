@@ -62,7 +62,7 @@ In a separate Phase 1 study of FTC alone, FTC exposures were increased in subjec
 The pharmacokinetics of BIC, FTC and TAF were evaluated in a subset of HIV-1 infected virologically-suppressed subjects with ESRD (estimated creatinine clearance less than 15 mL/min, by Cockcroft-Gault method) receiving chronic hemodialysis in Trial 1825.
 The pharmacokinetics of TAF were similar between healthy subjects and subjects with ESRD receiving chronic hemodialysis; increases in FTC and tenofovir exposures in subjects with ESRD were not considered clinically relevant.
 Median (minimum, maximum) BIC Ctrough values in subjects (n=7) with ESRD who received BIKTARVY were 846 ng/mL (288, 1810) compared to 2540 ng/mL (757, 6499) in subjects (N=584) with normal renal function.
-Despite significantly lower BIC Ctrough values in the virologically-suppressed ESRD population, virologic suppression was maintained [see Use in Specific Populations (8.6), Clinical Studies (14.3)].
+Despite significantly lower BIC Ctrough values in the virologically-suppressed ESRD population, virologic suppression was maintained [see Use in Specific Populations (8.6), and Clinical Studies (14.3)].
 
 Patients with Hepatic Impairment
 
@@ -200,12 +200,12 @@ Bictegravir: BIC inhibits the strand transfer activity of HIV-1 integrase (integ
 Inhibition of integrase prevents the integration of linear HIV-1 DNA into host genomic DNA, blocking the formation of the HIV-1 provirus and propagation of the virus.
 
 Emtricitabine: FTC, a synthetic nucleoside analog of cytidine, is phosphorylated by cellular enzymes to form emtricitabine 5'-triphosphate.
-Emtricitabine 5'-triphosphate inhibits the activity of the HIV-1 reverse transcriptase by competing with the natural substrate deoxycytidine 5'-triphosphate and by being incorporated into nascent viral DNA which results in chain termination.
+Emtricitabine 5'-triphosphate inhibits the activity of the HIV-1 RT by competing with the natural substrate deoxycytidine 5'-triphosphate and by being incorporated into nascent viral DNA which results in chain termination.
 Emtricitabine 5′-triphosphate is a weak inhibitor of mammalian DNA polymerases α, β, Ɛ, and mitochondrial DNA polymerase γ.
 
 Tenofovir Alafenamide: TAF is a phosphonamidate prodrug of tenofovir (2′-deoxyadenosine monophosphate analog).
 Plasma exposure to TAF allows for permeation into cells and then TAF is intracellularly converted to tenofovir through hydrolysis by cathepsin A. Tenofovir is subsequently phosphorylated by cellular kinases to the active metabolite tenofovir diphosphate.
-Tenofovir diphosphate inhibits HIV-1 replication through incorporation into viral DNA by the HIV reverse transcriptase, which results in DNA chain-termination.
+Tenofovir diphosphate inhibits HIV-1 replication through incorporation into viral DNA by the HIV RT, which results in DNA chain-termination.
 Tenofovir diphosphate is a weak inhibitor of mammalian DNA polymerases that include mitochondrial DNA polymerase γ and there is no evidence of toxicity to mitochondria in cell culture.
 
 Antiviral Activity in Cell Culture
@@ -247,8 +247,9 @@ In the final resistance analysis population, no specific amino acid substitution
 There were no treatment-emergent NRTI resistance-associated substitutions detected in the 11 evaluated treatment failure isolates.
 Phenotypic resistance analyses of failure isolates found fold-changes in drug susceptibility below the biological or clinical cutoffs for BIC, FTC, and TFV, compared to wild-type reference HIV-1.
 
-In Virologically Suppressed Adult Subjects: In 2 switch trials, Trials 1844 and 1878 [see Clinical Studies (14.3)], of virologically suppressed HIV-1 infected subjects (n=572), only one subject with virologic rebound in the resistance analysis population had IN genotypic and phenotypic data, and 2 rebounders had RT genotypic and phenotypic data.
+In Virologically Suppressed Adult Subjects: In 2 of the switch trials, Trials 1844 and 1878, of virologically suppressed HIV-1 infected subjects (n=572), only one subject with virologic rebound in the resistance analysis population had IN genotypic and phenotypic data, and 2 rebounders had RT genotypic and phenotypic data.
 No subjects had HIV-1 with treatment-emergent genotypic or phenotypic resistance to BIC, FTC, or TAF.
+In Trial 4030, no subjects receiving BIKTARVY had treatment-emergent phenotypic resistance to BIC, FTC, or TAF.
 
 In Virologically Suppressed Pediatric Subjects: In Trial 1474 [see Clinical Studies (14.4)], two of 50 subjects in cohort 1 were evaluated for the development of resistance through Week 48; no amino acid substitutions known to be associated with resistance to BIC, FTC, or TFV were detected.
 No subjects in cohort 2 or 3 met the criteria for resistance analyses through Week 24.
