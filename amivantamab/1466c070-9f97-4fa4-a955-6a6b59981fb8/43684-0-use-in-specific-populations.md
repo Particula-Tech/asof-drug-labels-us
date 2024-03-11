@@ -26,8 +26,8 @@ Human IgG1 is known to cross the placenta; therefore, amivantamab-vmjw has the p
 
 Risk Summary
 
-There are no data on the presence of amivantamab-vmjw in human milk on milk production, or its effects on the breastfed child.
-Because of the potential for serious adverse reactions from RYBREVANT in breast-fed infants, advise women not to breast-feed during treatment with RYBREVANT and for 3 months after the final dose.
+There are no data on the presence of amivantamab-vmjw in human milk, the effects on the breastfed child or on milk production.
+Because of the potential for serious adverse reactions from RYBREVANT in breast-fed children, advise women not to breast-feed during treatment with RYBREVANT and for 3 months after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -41,7 +41,7 @@ Contraception
 
 Females
 
-Advise females of reproductive potential to use effective contraception during treatment and for 3 months after the final dose of RYBREVANT.
+Advise females of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of RYBREVANT.
 
 ## 8.4 Pediatric Use
 
@@ -49,5 +49,8 @@ The safety and efficacy of RYBREVANT have not been established in pediatric pati
 
 ## 8.5 Geriatric Use
 
-Of the 129 patients treated with RYBREVANT, 41% were 65 years of age or older, and 9% were 75 years of age or older.
+Of the 151 patients with locally advanced or metastatic NSCLC treated with RYBREVANT in combination with carboplatin and pemetrexed in the PAPILLON study, 37% were ≥65 years of age and 8% were ≥75 years of age.
+
+Of the 302 patients with locally advanced or metastatic NSCLC treated with RYBREVANT as a single agent in the CHRYSALIS study, 39% were ≥65 years of age and 11% were ≥75 years of age.
+
 No clinically important differences in safety or efficacy were observed between patients who were ≥65 years of age and younger patients.
