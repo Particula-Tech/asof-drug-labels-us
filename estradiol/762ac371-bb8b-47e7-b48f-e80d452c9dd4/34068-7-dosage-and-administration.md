@@ -2,7 +2,7 @@
 
 Generally, when estrogen is prescribed for a postmenopausal woman with a uterus, consider addition of a progestogen to reduce the risk of endometrial cancer.
 Generally, a woman without a uterus does not need to use a progestogen in addition to her estrogen therapy.
-In some cases, however, hysterectomized women with a history of endometriosis may need a progestogen [see Warnings and Precautions (5.2, 5.14)].
+In some cases, however, hysterectomized women with a history of endometriosis may need a progestogen [see Warnings and Precautions(5.2, 5.14)].
 
 Use estrogen-alone, or in combination with a progestogen at the lowest effective dose and for the shortest duration consistent with treatment goals and risks for the individual woman.
 Reevaluate postmenopausal women periodically as clinically appropriate to determine if treatment is still necessary.

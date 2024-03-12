@@ -1,6 +1,6 @@
 # Patient Information
 
-EstroGel ® 0.06% (ĕs’ trə jĕl)
+EstroGel ®0.06% (ĕs’ trə jĕl)
 
 (estradiol gel)
 
@@ -19,7 +19,7 @@ What is EstroGel used for?
 
 EstroGel is used after menopause to:
 
-- Reduce moderate to severe hot flashes Estrogens are hormones made by a woman’s ovaries.
+- Reduce moderate to severe hot flashesEstrogens are hormones made by a woman’s ovaries.
   The ovaries normally stop making estrogens when a woman is between 45 and 55 years old.
   This drop in body estrogen levels causes the “change of life” or menopause (the end of monthly menstrual periods).
   Sometimes, both ovaries are removed during an operation before natural menopause takes place.
@@ -28,7 +28,6 @@ EstroGel is used after menopause to:
 When the estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden intense feelings of heat and sweating (“hot flashes” or “hot flushes”).
 In some women, the symptoms are mild, and they will not need to use estrogens.
 In other women, symptoms can be more severe.
-You and your healthcare provider should talk regularly about whether you still need treatment with EstroGel.
 
 - Treat moderate to severe menopausal changes in and around the vagina You and your healthcare provider should talk regularly about whether you still need treatment with EstroGel to control these problems.
   If you use EstroGel only to treat your menopausal changes in and around your vagina, talk with your healthcare provider about whether a topical vaginal product would be better for you.
@@ -41,7 +40,7 @@ Do not start using EstroGel if you:
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
 
 - have been diagnosed with a bleeding disorder
-- currently have or have had certain cancers Estrogen may increase the chance of getting certain types of cancer, including cancer of the breast or uterus.
+- currently have or have had certain cancersEstrogen may increase the chance of getting certain types of cancer, including cancer of the breast or uterus (womb).
   If you have or have had cancer, talk with your healthcare provider about whether you should use EstroGel.
 
 - had a stroke or heart attack
@@ -53,18 +52,18 @@ See the list of ingredients in EstroGel at the end of this leaflet.
 
 Before you use EstroGel, tell your healthcare provider about all of your medical conditions, including if you:
 
-- have any unusual vaginal bleeding Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
+- have any unusual vaginal bleedingVaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
 
-- have any other medical conditions that may become worse while you are using EstroGel Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), problems with your heart, liver, thyroid, kidneys, or high calcium levels in your blood.
+- have any other medical conditions that may become worse while you are using EstroGelYour healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), problems with your heart, liver, thyroid, kidneys, or high calcium levels in your blood.
 
-- are going to have surgery or will be on bed rest Your healthcare provider will let you know if you need to stop using EstroGel.
+- are going to have surgery or will be on bed restYour healthcare provider will let you know if you need to stop using EstroGel.
 
-- are pregnant or think you may be pregnant EstroGel is not for pregnant women.
+- are pregnant or think you may be pregnantEstroGel is not for pregnant women.
 
-- are breastfeeding The hormone in EstroGel can pass into your breast milk.
+- are breastfeedingThe hormone in EstroGel can pass into your breast milk.
 
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take,including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Some medicines may affect how EstroGel works.
 EstroGel may also affect how your other medicines work.
 Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
@@ -77,7 +76,7 @@ For detailed instructions, see the step-by-step instructions for using EstroGel 
 - EstroGel is for skin use only.
 - EstroGel contains alcohol, which is flammable.
   Avoid fire, flame or smoking until EstroGel has dried.
-- You and your healthcare provider should talk regularly (for example, every 3 to 6 months) about the dose you are taking and whether you still need treatment with EstroGel.
+- You and your healthcare provider should talk regularly (for example, every 3 to 6 months) about the dose you are using and whether you still need treatment with EstroGel.
 
 What are the possible side effects of EstroGel?
 
@@ -103,6 +102,7 @@ Serious, but less common side effects include:
 - cancer changes of endometriosis
 - enlargement of benign tumors of the uterus ("fibroids")
 - worsening of swelling of face and tongue (angioedema) in women with a history of angioedema
+- changes in laboratory test results such as bleeding time and high blood sugar
 
 Call your healthcare provider right away if you get any of the following warning signs or any other unusual symptoms that concern you:
 
@@ -111,6 +111,7 @@ Call your healthcare provider right away if you get any of the following warning
 - changes in vision or speech
 - sudden new severe headaches
 - severe pains in your chest or legs with or without shortness of breath, weakness and fatigue
+- swelling of face, lips, and tongue with or without red, itchy bumps
 
 Common side effects of EstroGel include:
 
@@ -125,7 +126,7 @@ Common side effects of EstroGel include:
 These are not all of the possible side effects of EstroGel.
 For more information, ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effects that bother you or do not go away.
-You may report side effects to ASCEND Therapeutics ® US, LLC at 1‑877-204-1013 or to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA 1088 or to ASCEND Therapeutics ®US, LLC at 1‑877-204-1013.
 What can I do to lower my chances of a serious side effect with EstroGel?
 
 - Talk with your healthcare provider regularly about whether you should continue using EstroGel.
@@ -144,22 +145,22 @@ How should I store EstroGel?
 Keep EstroGel and all medicines out of the reach of children.
 General information about the safe and effective use of EstroGel
 
-Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
+Medicines are sometimes prescribed for conditions that are not mentioned in Patient Information leaflets.
 Do not use EstroGel for conditions for which it was not prescribed.
 Do not give EstroGel to other people, even if they have the same symptoms you have.
 It may harm them.
 
 You can ask your healthcare provider or pharmacist for information about EstroGel that is written for health professionals.
 
-For more information, go to www.estrogel.com, or call ASCEND Therapeutics ® US, LLC at 1-877-204-1013.
+For more information, go to www.estrogel.com, or call ASCEND Therapeutics ®US, LLC at 1-877-204-1013.
 What are the ingredients in EstroGel?
 
-Active ingredient: estradiol
+Active ingredient:estradiol
 
-Inactive ingredients: purified water, alcohol, triethanolamine, and carbomer 934P.
+Inactive ingredients:purified water, alcohol, triethanolamine, and carbomer 934P.
 Instructions for Use
 
-EstroGel ® 0.06% (ĕs’ trə jĕl)
+EstroGel ®0.06% (ĕs’ trə jĕl)
 
 (estradiol gel)
 
@@ -178,15 +179,14 @@ EstroGel is available in a 50-gram canister.
 Step 1.
 Priming the EstroGel pump
 
-- Before using the EstroGel pump for the first time, the pump must be primed.
-  The EstroGel canister contains enough medicine to allow you to prime the pump before you use it for the first time.
+- Before using the EstroGel pump for the first time, the pump must be primed.The EstroGel canister contains enough medicine to allow you to prime the pump before you use it for the first time.
 - Remove the large cap from the canister.
   See Figure B.
 
 Figure B
 
 - Slowly push the pump all the way down 5 times.
-  Do not use any EstroGel that came out while priming.
+  Do notuse any EstroGel that came out while priming.
   Wash it down the sink to avoid accidental exposure to others.
 - After priming, the EstroGel pump is ready to use.
   One complete press of the pump will give the same amount of EstroGel each time.
@@ -216,8 +216,8 @@ Figure E
 
 Figure F
 
-- Do not apply EstroGel directly to your breasts or in and around your vagina.
-- Do not massage or rub in EstroGel.
+- Do notapply EstroGel directly to your breasts or in and around your vagina.
+- Do notmassage or rub in EstroGel.
   Allow the gel to dry for 5 minutes before you get dressed.
 
 Step 3.
@@ -225,8 +225,7 @@ After you use EstroGel
 
 - Place the small cap back on the tip of the pump.
   Place the large cap over the top of the canister.
-- Wash your hands right away with soap and water after applying EstroGel.
-  This will lower the chance that the medicine will spread from your hands to other people.
+- Wash your hands right away with soap and water after applying EstroGel.This will lower the chance that the medicine will spread from your hands to other people.
 - Do not allow others to make contact with the area of skin where you applied the gel for at least 1 hour after application.
 - EstroGel is flammable until dry.
   Let EstroGel dry before smoking or going near an open flame.
@@ -234,7 +233,7 @@ After you use EstroGel
 Step 4.
 Throwing away used EstroGel canisters
 
-- The EstroGel 50-gram canister contains enough medicine to allow for priming your canister with up to 5 full pump depressions and delivery of 30 daily doses.
+- The EstroGel 50-gram canistercontains enough medicine to allow for priming your canister with up to 5 full pump depressions and delivery of 30 daily doses.
   After you have first primed your canister and used 30 doses, you will need to throw away the canister.
   Do not use the canister for more than 30 doses even though the canister may not be completely empty.
   You may not get the correct dose.
@@ -243,18 +242,18 @@ This Patient Information and Instructions for Use has been approved by the U.S. 
 
 Manufactured for:
 
-ASCEND Therapeutics ® US, LLC
+ASCEND Therapeutics ®US, LLC
 
-Herndon, VA 20170
+Morristown, NJ 07960
 
 By DPT Laboratories Ltd.
 
 San Antonio, TX 78215
 
-141263Rev112021
+141309Rev082023
 
-Utilizes EHG ® Technology
+Utilizes EHG ®Technology
 
-©2021 ASCEND Therapeutics ® US, LLC
+©2023 ASCEND Therapeutics ®US, LLC
 
-Revised: 11/2021
+Revised: 08/2023
