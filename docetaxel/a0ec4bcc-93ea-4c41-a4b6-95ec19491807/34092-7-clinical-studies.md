@@ -30,7 +30,7 @@ Three-quarters of patients had measurable, visceral metastases.
 The primary endpoint was time to progression.
 The study results are summarized below (see Table 13).
 
-Table 13: Efficacy of Docetaxel in the Treatment of Breast Cancer Patients Previously Treated with an Alkylating-Containing Regimen (Intent-to-Treat Analysis)
+Table 12: Efficacy of Docetaxel in the Treatment of Breast Cancer Patients Previously Treated with an Alkylating-Containing Regimen (Intent-to-Treat Analysis)
 
 | Efficacy Parameter | Docetaxel(n=161) | Doxorubicin(n=165) | p-value |
 | --- | --- | --- | --- |
@@ -72,7 +72,7 @@ There will be further analysis at the time survival data mature.
 
 The following table describes the results of subgroup analyses for DFS and OS (see Table 14).
 
-Table 14: Subset Analyses-Adjuvant Breast Cancer Study
+Table 13: Subset Analyses-Adjuvant Breast Cancer Study
 
 |  |  | Disease Free Survival |  | Overall Survival |  |
 | --- | --- | --- | --- | --- | --- |
@@ -104,7 +104,7 @@ Forty percent of the patients in this study had a history of prior paclitaxel ex
 The primary endpoint was survival in both trials.
 The efficacy data for the docetaxel 75 mg/m2 arm and the comparator arms are summarized in Table 15 and Figures 3 and 4 showing the survival curves for the two studies.
 
-Table 15: Efficacy of Docetaxel in the Treatment of Non-small Cell Lung Cancer Patients Previously Treated with a Platinum-Based Chemotherapy Regimen (Intent-to-Treat Analysis)
+Table 14: Efficacy of Docetaxel in the Treatment of Non-small Cell Lung Cancer Patients Previously Treated with a Platinum-Based Chemotherapy Regimen (Intent-to-Treat Analysis)
 
 |  | TAX317 |  | TAX320 |  |
 | --- | --- | --- | --- | --- |
@@ -131,7 +131,7 @@ The 95% confidence interval of the hazard ratio (adjusted for interim analysis a
 The results of a further statistical analysis showed that at least (the lower bound of the 95% confidence interval) 62% of the known survival effect of vinorelbine when added to cisplatin (about a 2-month increase in median survival; Wozniak et al. JCO, 1998) was maintained.
 The efficacy data for the docetaxel+cisplatin arm and the comparator arm are summarized in Table 16.
 
-Table 16: Survival Analysis of Docetaxel in Combination Therapy for Chemotherapy-Naïve NSCLC
+Table 15: Survival Analysis of Docetaxel in Combination Therapy for Chemotherapy-Naïve NSCLC
 
 | Comparison | Docetaxel + Cisplatin n=408 | Vinorelbine + Cisplatin n=405 |
 | --- | --- | --- |
@@ -144,7 +144,7 @@ The second comparison in the same three-arm study, vinorelbine+cisplatin versus 
 Secondary endpoints evaluated in the trial included objective response and time to progression.
 There was no statistically significant difference between docetaxel+cisplatin and vinorelbine+cisplatin with respect to objective response and time to progression (see Table 17).
 
-Table 17: Response and TTP Analysis of Docetaxel in Combination Therapy for Chemotherapy-Naïve NSCLC
+Table 16: Response and TTP Analysis of Docetaxel in Combination Therapy for Chemotherapy-Naïve NSCLC
 
 | Endpoint | Docetaxel + Cisplatin | Vinorelbine + Cisplatin | p-value |
 | --- | --- | --- | --- |
@@ -166,7 +166,7 @@ In the docetaxel every three week arm, a statistically significant overall survi
 In the docetaxel weekly arm, no overall survival advantage was demonstrated compared to the mitoxantrone control arm.
 Efficacy results for the docetaxel every 3 week arm versus the control arm are summarized in Table 18 and Figure 5.
 
-Table 18: Efficacy of Docetaxel in the Treatment of Patients with Metastatic Castration-Resistant Prostate Cancer (Intent-to-Treat Analysis)
+Table 17: Efficacy of Docetaxel in the Treatment of Patients with Metastatic Castration-Resistant Prostate Cancer (Intent-to-Treat Analysis)
 
 |  | Docetaxel + Prednisone every 3 weeks | Mitoxantrone + Prednisone every 3 weeks |
 | --- | --- | --- |
@@ -191,7 +191,7 @@ Approximately 75% of patients had died at the time of this analysis.
 Overall survival was significantly longer (p=0.0201) in the TCF arm with a HR of 1.29 (95% CI: 1.04–1.61).
 Efficacy results are summarized in Table 19 and Figures 6 and 7.
 
-Table 19: Efficacy of Docetaxel Injection in the Treatment of Patients with Gastric Adenocarcinoma
+Table 18: Efficacy of Docetaxel Injection in the Treatment of Patients with Gastric Adenocarcinoma
 
 | Endpoint | TCF n=221 | CF n=224 |
 | --- | --- | --- |
@@ -207,8 +207,6 @@ Table 19: Efficacy of Docetaxel Injection in the Treatment of Patients with Gast
 | p-value | 0.0201 |  |
 | Overall Response Rate (CR+PR) (%) | 36.7 | 25.4 |
 | p-value | 0.0106 |  |
-
-Subgroup analyses were consistent with the overall results across age, gender and race.
 
 ## 14.6 Head and Neck Cancer
 
@@ -230,7 +228,7 @@ The primary endpoint in this study, progression-free survival (PFS), was signifi
 Median overall survival with a median follow-up of 51.2 months was also significantly longer in favor of the TPF arm compared to the PF arm (median OS: 18.6 vs. 14.2 months, respectively).
 Efficacy results are presented in Table 20 and Figures 8 and 9.
 
-Table 20: Efficacy of Docetaxel Injection in the Induction Treatment of Patients with Inoperable Locally Advanced SCCHN (Intent-to-Treat Analysis)
+Table 19: Efficacy of Docetaxel Injection in the Induction Treatment of Patients with Inoperable Locally Advanced SCCHN (Intent-to-Treat Analysis)
 
 | Endpoint | Docetaxel Injection + Cisplatin + Fluorouracil n=177 | Cisplatin + Fluorouracil n=181 |
 | --- | --- | --- |
@@ -267,7 +265,7 @@ Surgery on the primary site of disease and/or neck could be considered at anytim
 The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p = 0.0058) with the Docetaxel Injection-containing regimen compared to PF [median OS: 70.6 vs. 30.1 months, respectively, hazard ratio (HR) = 0.70, 95% confidence interval (CI) = 0.54–0.90].
 Overall survival results are presented in Table 21 and Figure 10.
 
-Table 21: Efficacy of Docetaxel Injection in the Induction Treatment of Patients with Locally Advanced SCCHN (Intent-to-Treat Analysis)
+Table 20: Efficacy of Docetaxel Injection in the Induction Treatment of Patients with Locally Advanced SCCHN (Intent-to-Treat Analysis)
 
 | Endpoint | Docetaxel Injection + Cisplatin + Fluorouracil n=255 | Cisplatin + Fluorouracil n=246 |
 | --- | --- | --- |
