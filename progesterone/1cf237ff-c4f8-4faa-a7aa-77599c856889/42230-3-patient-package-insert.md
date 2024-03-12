@@ -102,7 +102,7 @@ Less serious, but common side effects include:
 
 These are not all the possible side effects of PROMETRIUM® (progesterone, USP) Capsules.
 For more information, ask your healthcare provider or pharmacist for advice about side effects.
-You may report side effects to Virtus Pharmaceuticals, LLC at 1-888-848-3593 or to FDA at 1-800-FDA-1088.
+You may report side effects to Acertis Pharmaceuticals, LLC at 1-888-848-3593 or to FDA at 1-800-FDA-1088.
 
 What can I do to lower my chances of getting a serious side effect with PROMETRIUM Capsules?
 
@@ -151,7 +151,7 @@ Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [S
 
 Protect from excessive moisture.
 
-Distributed by: Acertis Pharmaceuticals, LLC Langhorne, PA 19047 1-888-848-3593
+Distributed by: Acertis Pharmaceuticals, LLC Manhasset, NY 11030 1-888-848-3593
 
 10226 Rev.
-05/2019
+03/2024
