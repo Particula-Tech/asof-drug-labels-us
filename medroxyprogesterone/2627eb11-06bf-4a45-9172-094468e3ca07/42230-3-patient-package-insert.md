@@ -180,4 +180,4 @@ Inactive ingredients:
 This product's label may have been updated.
 For current full prescribing information, please visit www.greenstonellc.com
 
-LAB-0147-6.0 January 2018
+LAB-0147-7.0 Revised February 2024

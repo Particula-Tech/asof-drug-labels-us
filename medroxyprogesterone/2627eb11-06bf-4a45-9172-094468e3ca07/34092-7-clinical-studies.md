@@ -83,4 +83,4 @@ The absolute risk of probable dementia for CE plus MPA versus placebo was 45 ver
 Probable dementia as defined in this study included Alzheimer's disease (AD), vascular dementia (VaD) and mixed type (having features of both AD and VaD).
 The most common classification of probable dementia in the treatment group and the placebo group was AD.
 Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women.
-(See WARNINGS, Probable Dementia and PRECAUTIONS, Geriatric Use).
+(See WARNINGS, Probable Dementia and PRECAUTIONS, Geriatric Use.)
