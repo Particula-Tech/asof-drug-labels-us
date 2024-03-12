@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "NDA019949",
+    "NDA020090"
+  ],
+  "inn": "fluconazole",
+  "labeler": "Roerig",
+  "package_ndcs": [
+    "0049-3410-30",
+    "0049-3420-30",
+    "0049-3420-41",
+    "0049-3430-30",
+    "0049-3430-41",
+    "0049-3440-19",
+    "0049-3450-19",
+    "0049-3500-79"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "fluconazole",
+      "name": "Diflucan"
+    },
+    {
+      "form": "TABLET",
+      "generic": "fluconazole",
+      "name": "Diflucan"
+    }
+  ],
+  "setid": "ff5f3ea4-42e2-4e8b-a594-a3964d2016ed",
+  "source": "dailymed"
+}

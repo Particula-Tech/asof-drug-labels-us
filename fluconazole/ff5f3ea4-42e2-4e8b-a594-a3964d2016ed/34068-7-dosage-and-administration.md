@@ -1,0 +1,165 @@
+# DOSAGE AND ADMINISTRATION
+
+## Dosage and Administration in Adults
+
+### Multiple Dose
+
+SINCE ORAL ABSORPTION IS RAPID AND ALMOST COMPLETE, THE DAILY DOSE OF DIFLUCAN (FLUCONAZOLE) IS THE SAME FOR ORAL (TABLETS AND SUSPENSION) AND INTRAVENOUS ADMINISTRATION.
+In general, a loading dose of twice the daily dose is recommended on the first day of therapy to result in plasma concentrations close to steady-state by the second day of therapy.
+
+The daily dose of DIFLUCAN for the treatment of infections other than vaginal candidiasis should be based on the infecting organism and the patient's response to therapy.
+Treatment should be continued until clinical parameters or laboratory tests indicate that active fungal infection has subsided.
+An inadequate period of treatment may lead to recurrence of active infection.
+Patients with AIDS and cryptococcal meningitis or recurrent oropharyngeal candidiasis usually require maintenance therapy to prevent relapse.
+
+#### Oropharyngeal candidiasis
+
+The recommended dosage of DIFLUCAN for oropharyngeal candidiasis is 200 mg on the first day, followed by 100 mg once daily.
+Clinical evidence of oropharyngeal candidiasis generally resolves within several days, but treatment should be continued for at least 2 weeks to decrease the likelihood of relapse.
+
+#### Esophageal candidiasis
+
+The recommended dosage of DIFLUCAN for esophageal candidiasis is 200 mg on the first day, followed by 100 mg once daily.
+Doses up to 400 mg/day may be used, based on medical judgment of the patient's response to therapy.
+Patients with esophageal candidiasis should be treated for a minimum of three weeks and for at least two weeks following resolution of symptoms.
+
+#### Systemic Candida infections
+
+For systemic Candida infections including candidemia, disseminated candidiasis, and pneumonia, optimal therapeutic dosage and duration of therapy have not been established.
+In open, noncomparative studies of small numbers of patients, doses of up to 400 mg daily have been used.
+
+#### Urinary tract infections and peritonitis
+
+For the treatment of Candida urinary tract infections and peritonitis, daily doses of 50 to 200 mg have been used in open, noncomparative studies of small numbers of patients.
+
+#### Cryptococcal meningitis
+
+The recommended dosage for treatment of acute cryptococcal meningitis is 400 mg on the first day, followed by 200 mg once daily.
+A dosage of 400 mg once daily may be used, based on medical judgment of the patient's response to therapy.
+The recommended duration of treatment for initial therapy of cryptococcal meningitis is 10 to 12 weeks after the cerebrospinal fluid becomes culture negative.
+The recommended dosage of DIFLUCAN for suppression of relapse of cryptococcal meningitis in patients with AIDS is 200 mg once daily.
+
+#### Prophylaxis in patients undergoing bone marrow transplantation
+
+The recommended DIFLUCAN daily dosage for the prevention of candidiasis in patients undergoing bone marrow transplantation is 400 mg, once daily.
+Patients who are anticipated to have severe granulocytopenia (less than 500 neutrophils cells/mm3) should start DIFLUCAN prophylaxis several days before the anticipated onset of neutropenia, and continue for 7 days after the neutrophil count rises above 1000 cells/mm3.
+
+## Dosage and Administration in Pediatric Patients
+
+### Oropharyngeal candidiasis
+
+The recommended dosage of DIFLUCAN for oropharyngeal candidiasis in pediatric patients 6 months and older is 6 mg/kg on the first day, followed by 3 mg/kg once daily.
+Treatment should be administered for at least 2 weeks to decrease the likelihood of relapse.
+
+### Esophageal candidiasis
+
+For the treatment of esophageal candidiasis, the recommended dosage of DIFLUCAN in pediatric patients 6 months and older is 6 mg/kg on the first day, followed by 3 mg/kg once daily.
+Doses up to 12 mg/kg/day may be used, based on medical judgment of the patient's response to therapy.
+Patients with esophageal candidiasis should be treated for a minimum of three weeks and for at least 2 weeks following the resolution of symptoms.
+
+### Systemic Candida infections
+
+The following dosing regimens in Table 6 are recommended for pediatric patients to achieve systemic exposures similar to adults for the treatment of systemic Candida infections, i.e. to maintain an AUC0-24 between 400-800 mg*h/L.
+
+Table 6: Recommended Dosing Regimens for the Treatment of Systemic Candida Infections in Pediatric Patients
+
+| Patient age | Dosing regimen |
+| --- | --- |
+| 3 months and older | A loading dose of 25-mg/kg on the first day (not to exceed 800 mg), followed by 12-mg/kg once daily (not to exceed 400 mg). |
+| Birth to 3 months postnatal age and gestational age 30 weeks and above | 25-mg/kg on the first day, followed by 12-mg/kg once daily |
+| Birth to 3 months postnatal age and gestational age less than 30 weeks | 25-mg/kg on the first day, followed by 9-mg/kg once daily |
+
+Patients with systemic candidiasis should be treated for a minimum of 3 weeks and for at least 2 weeks following the resolution of symptoms.
+
+Dosing in Pediatric Patients on ECMO
+
+The recommended dosage of DIFLUCAN in pediatric patients 3 months and older on ECMO is 35-mg/kg on the first day (not to exceed 800 mg) followed by 12-mg/kg once daily (not to exceed 400 mg).
+
+For patients from birth to 3 months postnatal age, and gestational age less than 30 weeks, a loading dose of 35- mg/kg on the first day followed by 9-mg/kg once daily is recommended.
+
+For patients from birth to 3 months postnatal age and gestational age 30 weeks and above, a loading dose of 35-mg/kg on the first day followed by 12-mg/kg once daily is recommended.
+
+### Cryptococcal meningitis
+
+For the treatment of acute cryptococcal meningitis, the recommended dosage is 12 mg/kg on the first day, followed by 6 mg/kg once daily.
+A dosage of 12 mg/kg once daily may be used, based on medical judgment of the patient's response to therapy.
+The recommended duration of treatment for initial therapy of cryptococcal meningitis is 10 to 12 weeks after the cerebrospinal fluid becomes culture negative.
+For suppression of relapse of cryptococcal meningitis in pediatric patients with AIDS, the recommended dose of DIFLUCAN is 6 mg/kg once daily.
+
+## Dosage In Patients With Impaired Renal Function
+
+Fluconazole is cleared primarily by renal excretion as unchanged drug.
+In patients with impaired renal function who will receive multiple doses of DIFLUCAN, an initial loading dose of 50 mg to 400 mg should be given.
+After the loading dose, the daily dose (according to indication) should be based on the following summary:
+
+| Creatinine Clearance (mL/min) | Recommended Dose (%) |
+| --- | --- |
+| >50 | 100 |
+| ≤50 (no dialysis) | 50 |
+| Hemodialysis | 100% after each hemodialysis |
+
+Patients on hemodialysis should receive 100% of the recommended dose after each hemodialysis; on non-dialysis days, patients should receive a reduced dose according to their creatinine clearance.
+
+These are suggested dose adjustments based on pharmacokinetics following administration of multiple doses.
+Further adjustment may be needed depending upon clinical condition.
+
+When serum creatinine is the only measure of renal function available, the following formula (based on sex, weight, and age of the patient) should be used to estimate the creatinine clearance in adults:
+
+| Males: | Weight (kg) × (140 – age) |  |
+| --- | --- | --- |
+|  | 72 × serum creatinine (mg/100 mL) |  |
+
+Females: 0.85 × above value
+
+Although the pharmacokinetics of fluconazole has not been studied in pediatric patients with renal insufficiency, dosage reduction in pediatric patients with renal insufficiency should parallel that recommended for adults.
+The following formula may be used to estimate creatinine clearance in pediatric patients:
+
+| K × | linear length or height (cm) |  |
+| --- | --- | --- |
+|  | serum creatinine (mg/100 mL) |  |
+
+(Where K=0.55 for pediatric patients older than 1 year and 0.45 for infants.)
+
+## Administration
+
+DIFLUCAN may be administered by intravenous infusion.
+DIFLUCAN injection has been used safely for up to fourteen days of intravenous therapy.
+The intravenous infusion of DIFLUCAN should be administered at a maximum rate of approximately 200 mg/hour, given as a continuous infusion.
+
+DIFLUCAN injections in glass and Viaflex® Plus plastic containers are intended only for intravenous administration using sterile equipment.
+
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
+
+Do not use if the solution is cloudy or precipitated or if the seal is not intact.
+
+## Directions for IV Use of DIFLUCAN in Viaflex® Plus Plastic Containers
+
+Do not remove unit from overwrap until ready for use.
+The overwrap is a moisture barrier.
+The inner bag maintains the sterility of the product.
+
+CAUTION: Do not use plastic containers in series connections.
+Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is completed.
+
+To Open
+
+Tear overwrap down side at slit and remove solution container.
+Some opacity of the plastic due to moisture absorption during the sterilization process may be observed.
+This is normal and does not affect the solution quality or safety.
+The opacity will diminish gradually.
+After removing overwrap, check for minute leaks by squeezing inner bag firmly.
+If leaks are found, discard solution as sterility may be impaired.
+
+DO NOT ADD SUPPLEMENTARY MEDICATION.
+
+Preparation for Administration:
+
+1.
+Suspend container from eyelet support.
+
+2.
+Remove plastic protector from outlet port at bottom of container.
+
+3.
+Attach administration set.
+Refer to complete directions accompanying set.
