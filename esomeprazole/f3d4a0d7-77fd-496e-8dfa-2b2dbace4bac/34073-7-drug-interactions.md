@@ -48,7 +48,7 @@ Table 3: Clinically Relevant Interactions Affecting Drugs Co-Administered with E
 | Clinical Impact: | There have been reports of false positive urine screening test for tetrahydrocannabinol (THC) in patients receiving PPIs. |
 | Intervention: | An alternative confirmatory method should be considered to verify positive results. |
 
-Table 4: Clinically Relevant Interactions Affecting Esomeprazole When Co-Administered with OtherDrugs
+Table 4: Clinically Relevant Interactions Affecting Esomeprazole When Co-Administered with Other Drugs
 
 | CYP2C19 or CYP3A4 Inducers |  |
 | --- | --- |

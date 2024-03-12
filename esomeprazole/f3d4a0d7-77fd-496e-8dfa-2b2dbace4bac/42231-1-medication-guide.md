@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Esomeprazole Magnesium Delayed-Release Capsules, USP
+Esomeprazole Magnesium Delayed-Release Capsules, USP for oral use
 
 (es ″ oh mep′ ra zole mag nee′ zee um)
 
@@ -37,9 +37,6 @@ Esomeprazole magnesium delayed-release capsules can cause serious side effects, 
   Esomeprazole magnesium is used in children and adolescents 12 to 17 years of age for:
 - 4 to 8 weeks to heal EE.
 - 4 weeks to treat heartburn and other symptoms that happen with GERD.
-  Esomeprazole magnesium is used in children 1 to 11 years of age for:
-- 8 weeks to heal EE.
-- up to 8 weeks to treat heartburn and other symptoms that happen with GERD.
   It is not known if esomeprazole magnesium is safe and effective in children under 1 month of age for the treatment of GERD with EE.
   It is not known if esomeprazole magnesium is safe and effective in children less than 1 year of age for the treatment of GERD symptoms.
   It is not known if esomeprazole magnesium is safe and effective in children to reduce the risk of stomach ulcers in children who take medicines called NSAIDs, to treat Helicobacter pylori stomach infection to lower the risk of a stomach ulcer returning, and to treat conditions where your stomach makes too much acid.
@@ -57,7 +54,8 @@ Esomeprazole magnesium delayed-release capsules can cause serious side effects, 
   Esomeprazole magnesium may pass into your breast milk.
   Talk to your doctor about the best way to feed your baby if you take esomeprazole magnesium.
   Tell your doctor about all of the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-  Especially tell your doctor if you take: clopidogrel (Plavix), methotrexate (Otrxup, Rasuvo, Trexall, XATMEP), digoxin (LANOXIN), rilpivirine (EDURANT), St. John’s Wort (Hypericum perforatum), or rifampin (Rimactane, Rifater, Rifamate) How should I take esomeprazole magnesium?
+  Especially tell your doctor if you take: clopidogrel (Plavix), methotrexate (Otrxup, Rasuvo, Trexall, XATMEP), digoxin (LANOXIN), rilpivirine (EDURANT), St. John’s Wort (Hypericum perforatum), or rifampin (Rimactane, Rifater, Rifamate).
+  How should I take esomeprazole magnesium?
 - Take esomeprazole magnesium exactly as prescribed by your doctor.
 - Do not change your dose or stop esomeprazole magnesium without talking to your doctor.
 - Take esomeprazole magnesium at least 1 hour before a meal.
@@ -137,24 +135,23 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: March, 2022
+Revised: November, 2023
 
-Instructions for Use
+Instructions for Use Esomeprazole Magnesium Delayed-Release Capsules, USP (es ″ oh mep′ ra zole mag nee′ zee um)
 
-For instructions on taking Delayed-Release Capsules, see the section of this leaflet called "How should I take esomeprazole magnesium delayed release capsules?"
-Esomeprazole magnesium delayed-release capsules may be given through a nasogastric tube (NG tube) or gastric tube, as prescribed by your doctor.
-Follow the instructions below: Esomeprazole magnesium delayed-release capsules:
+Giving esomeprazole magnesium delayed-release capsules with water through a nasogastric tube (NG tube) or gastric tube Esomeprazole magnesium delayed-release capsules:
 
 - Open the capsule and empty the granules into a 60 mL catheter tipped syringe.
   Mix with 50 mL of water.
   Use only a catheter tipped syringe to give esomeprazole magnesium through a NG tube.
 - Replace the plunger and shake the syringe well for 15 seconds.
   Hold the syringe with the tip up and check for granules in the tip.
-- Give the medicine right away.
 - Do not give the granules if they have dissolved or have broken into pieces.
 - Attach the syringe to the NG tube.
-  Give the medicine in the syringe through the NG tube into the stomach.
+  Give the medicine right away in the syringe through the NG tube into the stomach.
 - After giving the granules, flush the NG tube with more water.
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by:
 
@@ -168,6 +165,6 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: March, 2022
+Revised: November, 2023
 
-PT2444-05
+PT2444-06

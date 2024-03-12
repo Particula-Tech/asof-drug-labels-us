@@ -63,7 +63,7 @@ When rats were dosed from gestational day 7 through weaning on postnatal day 21,
 
 A pre-and postnatal development study in rats with esomeprazole strontium (using equimolar doses compared to esomeprazole magnesium study) produced similar results in dams and pups as described above.
 
-A follow up developmental toxicity study in rats with further time points to evaluate pup bone development from postnatal day 2 to adulthood was performed with esomeprazole magnesium at oral doses of 280 mg/kg/day (about 68times an oral human dose of 40 mg on a body surface area basis) where esomeprazole administration was from either gestational day 7 or gestational day 16 until parturition.
+A follow up developmental toxicity study in rats with further time points to evaluate pup bone development from postnatal day 2 to adulthood was performed with esomeprazole magnesium at oral doses of 280 mg/kg/day (about 68 times an oral human dose of 40 mg on a body surface area basis) where esomeprazole administration was from either gestational day 7 or gestational day 16 until parturition.
 When maternal administration was confined to gestation only, there were no effects on bone physeal morphology in the offspring at any age.
 
 ## 8.2 Lactation
