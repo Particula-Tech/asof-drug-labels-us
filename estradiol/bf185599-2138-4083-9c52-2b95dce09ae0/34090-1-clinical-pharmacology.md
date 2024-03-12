@@ -48,7 +48,6 @@ Figure 1: Mean Baseline-Uncorrected Estradiol Serum Concentration-Time Profiles 
 
 Distribution
 
-No specific investigation of the tissue distribution of estradiol absorbed from ESTRADIOL TRANSDERMAL SYSTEM in humans has been conducted.
 The distribution of exogenous estrogens is similar to that of endogenous estrogens.
 Estrogens are widely distributed in the body and are generally found in higher concentrations in the sex hormone target organs.
 Estrogens circulate in the blood largely bound to sex hormone-binding globulin (SHBG) and albumin.

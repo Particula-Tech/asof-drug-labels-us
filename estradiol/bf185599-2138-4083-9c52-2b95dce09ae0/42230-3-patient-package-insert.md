@@ -6,22 +6,8 @@ Read this Patient Information before you start using ESTRADIOL TRANSDERMAL SYSTE
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
 
-What is the most important information I should know about ESTRADIOL TRANSDERMAL SYSTEM (an estrogen hormone)?
-
-- Using estrogen-alone may increase your chance of getting cancer of the uterus (womb).
-- Report any unusual vaginal bleeding right away while you are using ESTRADIOL TRANSDERMAL SYSTEM.
-  Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
-  Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-- Do not use estrogen-alone to prevent heart disease, heart attacks, strokes, or dementia (decline in brain function.)
-- Using estrogen-alone may increase your chances of getting strokes or blood clots.
-- Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older.
-- Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia.
-- Using estrogens with progestogens may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots
-- Using estrogens with progestogens may increase your chance of getting dementia, based on a study of women 65 years of age or older.
-- Only one estrogen-alone product and does have been shown to increase your chances of getting strokes, blood clots, and dementia.
-  Only one estrogen with progestogen product and dose have been shown to increase your chances of getting heart attacks, strokes, breast cancer, blood clots, and dementia.
-- Because other products and doses have not been studies in the same way, it is not known how the use of ESTRADIOL TRANSDERMAL SYSTEM will affect your chances of developing these conditions.
-  You and your healthcare provider should talk regularly about whether you still need treatment with ESTRADIOL TRANSDERMAL SYSTEM.
+| What is the most important information I should know about ESTRADIOL TRANSDERMAL SYSTEM (an estrogen hormone)? Using estrogen-alone may increase your chance of getting cancer of the uterus (womb).Report any unusual vaginal bleeding right away while you are using ESTRADIOL TRANSDERMAL SYSTEM. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.Do not use estrogen-alone to prevent heart disease, heart attacks, strokes, or dementia (decline in brain function).Using estrogen-alone may increase your chances of getting strokes or blood clots.Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older.Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia.Using estrogens with progestogens may increase your chances of getting heart attacks, strokes, breast cancer, or blood clotsUsing estrogens with progestogens may increase your chance of getting dementia, based on a study of women 65 years of age or older.Only one estrogen-alone product and does have been shown to increase your chances of getting strokes, blood clots, and dementia. Only one estrogen with progestogen product and dose have been shown to increase your chances of getting heart attacks, strokes, breast cancer, blood clots, and dementia. Because other products and doses have not been studies in the same way, it is not known how the use of ESTRADIOL TRANSDERMAL SYSTEM will affect your chances of developing these conditions. You and your healthcare provider should talk regularly about whether you still need treatment with ESTRADIOL TRANSDERMAL SYSTEM. |
+| --- |
 
 What is ESTRADIOL TRANSDERMAL SYSTEM?
 
@@ -44,10 +30,7 @@ THE ESTRADIOL TRANSDERMAL SYSTEM is used after menopause to:
   If you use ESTRADIOL TRANSDERMAL SYSTEM only to prevent osteoporosis from menopause, talk with your healthcare provider about whether a different treatment or medicine without estrogens might be better for you.
   You and your healthcare provider should talk regularly about whether you should continue treatment with ESTRADIOL TRANSDERMAL SYSTEM.
 
-You and your healthcare provider should talk regularly about whether you should continue treatment with ESTRADIOL
-
 Who should not use ESTRADIOL TRANSDERMAL SYSTEM?
-
 Do not start using ESTRADIOL TRANSDERMAL SYSTEM if you:
 
 - have unusual vaginal bleeding Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
@@ -58,7 +41,6 @@ Do not start using ESTRADIOL TRANSDERMAL SYSTEM if you:
 - had a stroke or heart attack
 - currently have or have had blood clots
 - currently have or have had liver problems
-- have been diagnosed with a bleeding disorder
 - are allergic to ESTRADIOL TRANSDERMAL SYSTEM or the ingredients in it.
   See the list of ingredients in ESTRADIOL TRANSDERMAL SYSTEM at the end of this leaflet.
 
@@ -110,15 +92,15 @@ Serious, but less common side effects include:
 - heart attack
 - stroke
 - blood clots
-- dementia
 - breast cancer
 - cancer of the lining of the uterus (womb)
 - cancer of the ovary
+- dementia
 - high or low blood calcium
-- high blood pressure
-- high level of fat (triglyceride) in your blood
 - gallbladder disease
 - visual abnormalities
+- high blood pressure
+- high level of fat (triglyceride) in your blood
 - liver problems
 - changes in your thyroid hormone levels
 - fluid retention
@@ -157,9 +139,11 @@ What can I do to lower my chances of a serious side effect with ESTRADIOL TRANSD
 - Talk with your healthcare provider regularly about whether you should continue using ESTRADIOL TRANSDERMAL SYSTEM
 - If you have a uterus, talk to your healthcare provider about whether the addition of a progestogen is right for you.
   In general, the addition of a progestogen is generally recommended for a woman with a uterus to reduce the chance of getting cancer of the uterus (womb).
-- See your healthcare provider right away if you get vaginal bleeding while using ESTRADIOL TRANSDERMAL SYSTEM
-- Have a pelvic exam, breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often
-- If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances of getting heart disease Ask your healthcare provider for ways to lower your chances of getting heart disease.
+- See your healthcare provider right away if you get vaginal bleeding while using ESTRADIOL TRANSDERMAL SYSTEM.
+- Have a pelvic exam, breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
+  If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
+- If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances of getting heart disease.
+  Ask your healthcare provider for ways to lower your chances of getting heart disease.
 
 How should I store and throw away used ESTRADIOL TRANSDERMAL SYSTEM patches?
 

@@ -17,11 +17,11 @@ Immediately discontinue estrogen-alone therapy if a stroke occurs or is suspecte
 Subgroup analyses of women 50 to 59 years of age suggest no increased risk of stroke for those women receiving CE (0.625 mg)-alone versus those receiving placebo (18 versus 21 per 10,000 women-years).1
 
 In WHI estrogen plus progestin substudy reported a statistically significant increased risk of stroke in women 50 to 79 years of age receiving CE (0.625 mg) plus MPA (2.5 mg) compared to women in the same age group receiving placebo (33 versus 25 strokes per 10,000 women-years, respectively) [see Clinical Studies (14.3)].
-The increase in risk was demonstrated after the first year and persisted.1 Immediately discontinue estrogen plus progestogen therapy if a stroke occurs or is suspected.
+The increase in risk was demonstrated after the first year and persisted.1 Immediately discontinue estrogen plus progestogen therapy if a stroke occur or is suspected.
 
 Subgroup analyses of women 50 to 59 years of age suggest no increased risk of stroke for those women receiving CE (0.625 mg)-alone versus those receiving placebo (18 versus 21 per 10,000 women-years).1
 
-The WHI estrogen plus progestin substudy reported a statistically significant increased risk of stroke in women 50 to 79 years of age receiving CE (0.625 mg) plus MPA (2.5 mg) compared to women in the same age group receiving placebo (33 versus 25 strokes per 10,000 women-years, respectively) [see Clinical Studies (14.3)].
+The WHI estrogen plus progestin substudy reported a statistically significant increased risk of stroke in women 50 to 79 years of age receiving CE (0.625 mg) plus MPA (2.5 mg) compared to women in the same age group receiving placebo (33 versus 25 strokes per 10,000 women-years) [see Clinical Studies, (14.3)].
 The increase in risk was demonstrated after the first year and persisted.1 Immediately discontinue estrogen plus progestogen therapy if a stroke occurs or is suspected.
 
 Coronary Heart Disease
@@ -83,7 +83,8 @@ Metastatic disease was rare, with no apparent difference between the two groups.
 Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups⁶ [see Clinical Studies (14.3)].
 
 Consistent with the WHI clinical trial, observational studies have also reported an increased risk of breast cancer with estrogen plus progestin therapy, and a smaller increase in the risk for breast cancer with estrogen-alone therapy, after several years of use.
-The risk increased with duration of use and appeared to return to baseline over about 5 years after stopping treatment (only the observational studies have substantial data on risk after stopping).
+One large meta-analysis of prospective cohort studies reported increased risks that were dependent upon duration of use and could last up to >10 years after discontinuation of estrogen plus progestin therapy and estrogen-alone therapy.
+Extension of the WHI trials also demonstrated increased breast cancer risk associated with estrogen plus progestin therapy.
 Observational studies also suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to estrogen-alone therapy.
 These studies have not generally found significant variation in the risk of breast cancer among different estrogen plus progestin combinations, doses, or routes of administration.
 
@@ -93,7 +94,7 @@ In addition, mammography examinations should be scheduled based on patient age, 
 
 Ovarian Cancer
 
-The CE plus MPA substudy of WHI reported that estrogen plus progestin increased the risk of ovarian cancer.
+The CE plus MPA substudy of WHI reporated that estrogen plus progestin increased the risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for CE plus MPA versus placebo was 1.58 (95 percent CI, 0.77-3.24), but it was not statistically significant.
 The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7
 
@@ -115,7 +116,7 @@ In the WHIMS estrogen plus progestin ancillary study of WHI, a population of 4,5
 
 After an average follow-up of 4 years, 40 women in the CE plus MPA group and 21 women in the placebo group were diagnosed with probable dementia.
 The relative risk of probable dementia for CE plus MPA versus placebo was 2.05 (95 percent CI, 1.21-3.48).
-The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years8[see Use in Specific Populations(8.5) and Clinical Studies (14.4)].
+The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years8[see Use in Specific Populations (8.5) and Clinical Studies (14.4)].
 
 When data from the two populations in the WHIMS estrogen-alone and estrogen plus progestin ancillary studies were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19-2.60).
 Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women8 [see Use in Specific Populations (8.5) and Clinical Studies (14.4)].
@@ -154,8 +155,9 @@ Discontinue ESTRADIOL TRANSDERMAL SYSTEM treatment if pancreatitis occurs.
 
 ## 5.10 Hepatic Impairment and/or Past History of Cholestatic Jaundice
 
-Estrogens may be poorly metabolized in women with hepatic impairement Exercise caution in any woman with a history of cholestatic jaundice associated with past estrogen use or with pregnancy.
-In the case of recurrence of cholestatis jaundice, discontinue ESTRADIOL TRANSDERMAL SYSTEM.
+Estrogens may be poorly metabolized in women with hepatic impairment.
+Exercise caution in any woman with a history of cholestatic jaundice associated with past estrogen use or with pregnancy.
+In the case of recurrence of cholestatic jaundice, discontinue ESTRADIOL TRANSDERMAL SYSTEM.
 
 ## 5.11 Exacerbation of Hypothyroidism
 

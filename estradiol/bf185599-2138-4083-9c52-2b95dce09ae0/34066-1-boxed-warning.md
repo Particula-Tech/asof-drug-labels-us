@@ -1,4 +1,4 @@
-# WARNING: ENDOMETRIAL CANCER, CARDIOVASCULAR DISORDERS, BREAST CANCER, AND PROBABLE DEMENTIA
+# WARNING: ENDOMETRIAL CANCER, CARDIOVASCULAR DISORDERS, PROBABLE DEMENTIA, and BREAST CANCER
 
 Estrogen-Alone Therapy
 
@@ -15,7 +15,7 @@ The Women’s Health Initiative (WHI) estrogen-alone substudy reported increased
 The WHI Memory Study (WHIMS) estrogen-alone ancillary study of WHI reported an increased risk of developing probable dementia in postmenopausal women 65 years of age or older during 5.2 years of treatment with daily CE (0.625 mg)-alone, relative to placebo.
 It is unknown whether this finding applies to younger postmenopausal women [see Warnings and Precautions (5.3), Use in Specific Populations (8.5), and Clinical Studies (14.4)].
 
-Do not use estrogen-alone therapy for the prevention of cardiovascular disease or dementia [see Warnings and Precautions (5.1, 5.3), and Clinical Studies (14.3, 14.4].
+Do not use estrogen-alone therapy for the prevention of cardiovascular disease or dementia [see Warnings and Precautions (5.1, 5.3), and Clinical Studies (14.3, 14.4)].
 Only daily oral 0.625 mg CE was studied in the estrogen-alone substudy of the WHI.
 Therefore, the relevance of the WHI findings regarding adverse cardiovascular events and dementia to lower CE doses, other route of administration, or other estrogen-alone products is not known.
 Without such data, it is not possible to definitively exclude these risks or determine the extent of these risks for other products.

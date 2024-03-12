@@ -1,5 +1,7 @@
 # 1 INDICATIONS AND USAGE
 
+ESTRADIOL TRANSDERMAL SYSTEM is indicated for:
+
 ## 1.1 Treatment of Moderate to Severe Vasomotor Symptoms Due to Menopause
 
 ## 1.2 Prevention of Postmenopausal Osteoporosis

@@ -31,14 +31,22 @@ All Vivelle doses were significantly superior to placebo (p<0.05) at all time po
 The highest dose of Vivelle was superior to the three lower doses.
 There were no statistically significant differences in pairwise comparisons among the three lower doses (See Figure 3).
 
-Figure 3: Bone mineral density – AP Lumbar spine Least squares means of percentage change from baseline All randomized patients with at least one post-baseline assessment available with last post-baseline observation carried forward
+Figure 3: Bone mineral density – AP Lumbar spine
+
+Least squares means of percentage change from baseline
+
+All randomized women with at least one post-baseline assessment available with last post-baseline observation carried forward
 
 Analysis of percent change from baseline in femoral neck BMD, a secondary efficacy outcome variable, showed qualitatively similar results; all doses of Vivelle were significantly superior to placebo (p<0.05) at 24 months.
 The highest Vivelle dose was superior to placebo at all time points.
 A mixture of significant and non-significant results were obtained for the lower dose groups at earlier time points.
 The highest Vivelle dose was superior to the three lower doses, and there were no significant differences among the three lower doses at this skeletal site (see Figure 4).
 
-Figure 4: Bone mineral density - Femoral neck Least squares means of percentage change from baseline All randomized patients with at least one post-baseline assessment available with last post-baseline observation carried forward
+Figure 4: Bone mineral density - Femoral neck
+
+Least squares means of percentage change from baseline
+
+All randomized women with at least one post-baseline assessment available with last post-baseline observation carried forward
 
 ## 14.3 Women's Health Initiative Studies
 

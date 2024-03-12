@@ -12,8 +12,7 @@ Reevaluate postmenopausal women periodically as clinically appropriate to determ
 Start therapy with ESTRADIOL TRANSDERMAL SYSTEM 0.0375 mg per day applied to the skin twice weekly.
 Make dosage adjustments based on clinical response.
 
-Therapy should be started at the lowest effective dose and the shortest duration consistent with the treatment goals.
-Attempts to taper or discontinue the medication at 3 to 6 month intervals.
+Attempt to taper or discontinue the medication at 3 to 6 month intervals.
 
 ## 2.2 Prevention of Postmenopausal Osteoporosis due to Menopause
 
