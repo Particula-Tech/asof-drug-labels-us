@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA202598"
+  ],
+  "inn": "sildenafil",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-372-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sildenafil",
+      "name": "Sildenafil"
+    }
+  ],
+  "setid": "fcc9e04d-3507-4429-9ddd-c1fdee8acdbf",
+  "source": "dailymed"
+}

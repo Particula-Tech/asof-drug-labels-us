@@ -1,0 +1,3 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+Sildenafil Tablets, USP - NDC 62135-372-90 - 90's Bottle Label
