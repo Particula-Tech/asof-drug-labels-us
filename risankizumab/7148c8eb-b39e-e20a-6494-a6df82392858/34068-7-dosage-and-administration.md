@@ -23,16 +23,20 @@ The recommended dosage is 150 mg administered by subcutaneous injection at Week 
 
 SKYRIZI may be administered alone or in combination with non-biologic disease-modifying antirheumatic drugs (DMARDs).
 
-## 2.5 Preparation and Administration Instruction (Plaque Psoriasis and Psoriatic Arthritis)
+## 2.5 Preparation and Administration Instructions (Plaque Psoriasis and Psoriatic Arthritis)
 
-- Administer SKYRIZI 150 mg/mL prefilled pen or prefilled syringe subcutaneously.
-- Patients may self-inject SKYRIZI after training in subcutaneous injection technique.
-  Provide proper training to patients and/or caregivers on the subcutaneous injection technique of SKYRIZI.
-- Before injecting, remove the carton with SKYRIZI from the refrigerator and without removing the prefilled pen or prefilled syringe from the carton, allow SKYRIZI to reach room temperature out of direct sunlight (30 to 90 minutes for the prefilled pen and 15 to 30 minutes for the prefilled syringe).
-- Do not inject into areas where the skin is tender, bruised, erythematous, indurated or affected by psoriasis.
-  Administration of SKYRIZI in the upper, outer arm may only be performed by a healthcare professional or caregiver.
-- If a dose is missed, administer the dose as soon as possible.
-  Thereafter, resume dosing at the regular scheduled time.
+• Administer SKYRIZI 150 mg/mL prefilled pen or prefilled syringe subcutaneously.
+
+• Patients may self-inject SKYRIZI after training in subcutaneous injection technique.
+Provide proper training to patients and/or caregivers on the subcutaneous injection technique of SKYRIZI.
+
+• Before injecting, remove the carton with SKYRIZI from the refrigerator and without removing the prefilled pen or prefilled syringe from the carton, allow SKYRIZI to reach room temperature out of direct sunlight (30 to 90 minutes for the prefilled pen and 15 to 30 minutes for the prefilled syringe).
+
+• Do not inject into areas where the skin is tender, bruised, erythematous, indurated or affected by psoriasis.
+Administration of SKYRIZI in the upper, outer arm may only be performed by a healthcare professional or caregiver.
+
+• If a dose is missed, administer the dose as soon as possible.
+Thereafter, resume dosing at the regular scheduled time.
 
 The SKYRIZI “Instructions for Use” contains more detailed instructions on the preparation and administration of SKYRIZI [see Instructions for Use].
 Instruct the patient to read the Instructions for Use before administration.
@@ -68,6 +72,17 @@ Do not administer SKYRIZI diluted solution concomitantly in the same intravenous
 
 Handling and Storage of the Vial and the Diluted Solution:
 
+• Do not shake the vial or diluted solution in the infusion bag or glass bottle.
+
+• Use the prepared infusion immediately.
+If not used immediately, store the diluted SKYRIZI solution refrigerated and protected from light for up to 20 hours between 36°F to 46°F (2°C to 8°C).
+
+• Immediately after preparation or removal from refrigeration, the diluted SKYRIZI solution can be stored at room temperature at up to 77°F (25°C) (protected from sunlight) for 4 hours (cumulative time from start of dilution to start of infusion).
+
+• Exposure to indoor light is acceptable during room temperature storage and administration.
+
+• Do not freeze.
+
 Subcutaneous Maintenance Dosing Regimen:
 
 Using the single-dose 180 mg or 360 mg prefilled cartridge with On-Body Injector:
@@ -93,7 +108,8 @@ Using the 90 mg/mL prefilled syringe:
 
 • Administer each SKYRIZI 90 mg/mL prefilled syringe subcutaneously.
 
-• SKYRIZI 90 mg/mL should be prepared and administered by a healthcare professional.
+• Patients may self-inject SKYRIZI after training in subcutaneous injection technique.
+Provide proper training to patients and/or caregivers on the subcutaneous injection technique of SKYRIZI.
 
 • Before injecting, remove the carton from the refrigerator and without removing the prefilled syringes from the carton, allow SKYRIZI to reach room temperature out of direct sunlight (15 to 30 minutes).
 
@@ -106,6 +122,10 @@ Inject one prefilled syringe after the other in different anatomic locations (su
 Inject one prefilled syringe after the other in different anatomic locations (such as thighs or abdomen).
 
 • Do not inject into areas where the skin is tender, bruised, erythematous, indurated or affected by any lesions.
+Administration of SKYRIZI in the upper, outer arm may only be performed by a healthcare professional or caregiver.
 
 • If a dose is missed, administer the dose as soon as possible.
 Thereafter, resume dosing at the regular scheduled time.
+
+The SKYRIZI “Instructions for Use” contains more detailed instructions on the preparation and administration of SKYRIZI [see Instructions for Use].
+Instruct the patient to read the Instructions for Use before administration.

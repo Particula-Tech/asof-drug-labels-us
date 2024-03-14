@@ -8,8 +8,8 @@ SKYRIZI (risankizumab-rzaa) injection is supplied in the following strengths:
 | --- | --- | --- |
 | Subcutaneous Injection |  |  |
 | 150 mg/mL single-dose pen | Carton of 1 | 0074-2100-01 |
-| 90 mg/mL single-dose prefilled syringe | Carton of 2 | 0074-7034-02 |
-| 90 mg/mL single-dose prefilled syringe | Carton of 4 | 0074-7036-04 |
+| 90 mg/mL single-dose prefilled syringe | Carton of 2 | 0074-7040-02 |
+|  | Carton of 4 | 0074-7042-04 |
 | 150 mg/mL single-dose prefilled syringe | Carton of 1 | 0074-1050-01 |
 | 180 mg/1.2 mL (150 mg/mL) single-dose prefilled cartridge with on-body injector | Kit | 0074-1065-01 |
 | 360 mg/2.4 mL (150 mg/mL) single-dose prefilled cartridge with on-body injector | Kit | 0074-1070-01 |

@@ -236,7 +236,7 @@ Proportion of Subjects Meeting Efficacy Endpoints at Week 12 – Study CD-2a
 
 Onset of clinical response and clinical remission based on CDAI occurred as early as Week 4 in a greater proportion of subjects treated with the SKYRIZI 600 mg induction regimen compared to placebo.
 
-Reductions in stool frequency and abdominal pain were observed in a greater proportion of subjects treated with the SKYRIZI 600 mg induction regimen compared to placebo.
+Reductions in stool frequency and abdominal pain were observed in a greater proportion of subjects treated with the SKYRIZI 600 mg induction regimen compared to placebo at Week 12.
 
 Study CD-3
 

@@ -299,3 +299,43 @@ www.SKYRIZI.com
 Rx Only
 
 abbvie
+
+NDC 0074-7040-02
+
+2 x 90 mg/mL Single Dose Prefilled Syringes
+
+Skyrizi®
+
+90 mg/mL per syringe
+
+2 x 90 mg/mL Single-Dose Prefilled
+
+Syringes for a total 180 mg/2 mL dose
+
+risankizumab-rzaa
+
+Injection
+
+FOR SUBCUTANEOUS USE ONLY
+
+Return to pharmacy if carton perforations are broken.
+
+ATTENTION PHARMACIST:
+
+Each patient is required to receive
+
+the enclosed Medication Guide.
+
+This entire carton is dispensed as a unit.
+
+FOR A 180 MG DOSE,
+
+TWO 90 MG SYRINGES ARE REQUIRED.
+
+INJECT 2 SYRINGES FOR A FULL DOSE.
+
+www.SKYRIZI.com
+
+Rx only
+
+abbvie
