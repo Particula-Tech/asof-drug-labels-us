@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-AUVI-Q (epinephrine injection, USP) 0.3 mg, 0.15 mg and 0.1 mg is an auto-injector and a combination product containing drug and device components.
+AUVI-Q (epinephrine injection, USP) 0.3 mg, 0.15 mg and 0.1 mg is an autoinjector and a combination product containing drug and device components.
 
 AUVI-Q includes audible (electronic voice instructions, beeps) and visible (LED lights) cues for use.
 The needle automatically retracts after the injection is complete.
@@ -31,4 +31,4 @@ Epinephrine solution deteriorates rapidly on exposure to air or light, turning p
 
 AUVI-Q is not made with natural rubber latex.
 
-AUVI-Q instructional and safety systems should be thoroughly reviewed with patients and caregivers prior to use [see PATIENT COUNSELING INFORMATION (17.1)].
+AUVI-Q instructional and safety systems should be thoroughly reviewed with patients and caregivers prior to use [see Patient Counseling Information (17)].

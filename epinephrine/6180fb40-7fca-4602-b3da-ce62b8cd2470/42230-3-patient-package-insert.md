@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-AUVI-Q® (epinephrine injection) Auto-Injector For allergic emergencies (anaphylaxis)
+AUVI-Q® [Aw-Vee-Kyoo] (epinephrine injection) Auto-Injector For allergic emergencies (anaphylaxis)
 
 Read this Patient Information Leaflet before you have to use AUVI-Q and each time you get a refill.
 There may be new information.
@@ -120,9 +120,9 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store AUVI-Q?
 
 - Store AUVI-Q at 68° to 77°F (20° to 25°C).
-- Do NOT expose to extreme heat or cold.
+- Do NOT freeze.
+  Do NOT expose to extreme heat or cold.
   For example, do NOT store in your vehicle’s glove box.
-  Do not store AUVI-Q in the refrigerator or freeze.
 - Examine contents in the viewing window periodically.
   Solution should be clear.
   If the solution is discolored (pinkish color or darker than slightly yellow), cloudy or contains solid particles, replace the unit.
@@ -220,11 +220,12 @@ After the use of AUVI-Q:
 
 - The black base will lock into place.
 - The voice instruction system will say “seek emergency medical attention”, say “this AUVI-Q has been used…”, and the lights will blink red.
-- The red safety guard cannot be replaced.
+- Do not replace the red safety guard.
 - The viewing window will no longer be clear.
 - It is normal for some medicine to remain in your AUVI-Q after you have received your dose of medicine.
 - Talk to your healthcare provider about the right way to throw away your AUVI-Q.
-- AUVI-Q is a single-use auto-injector and cannot be reused.
+- AUVI-Q is a single-dose auto-injector and cannot be reused.
+  AUVI-Q must be used or properly disposed once the red safety guard is removed.
 
 Until you throw away your used AUVI-Q, the electronic voice instruction system will remind you that it has been used when the outer case is removed.
 
@@ -232,10 +233,11 @@ If you will be administering AUVI-Q to a young child or infant, ask your healthc
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Rev Nov 2017
+Rev.
+Feb 2024
 
-Manufactured for: Kaleo, Inc. Richmond, VA 23219 USA This product may be covered by one or more U.S. patents or pending patent applications.
-See www.kaleopharma.com/pat for details.
+Manufactured for: kaleo, Inc. Richmond, VA 23219 USA This product may be covered by one or more U.S. patents or pending patent applications; see www.kaleo.com for details.
+KALÉO® and AUVI-Q® are registered trademarks of kaleo, Inc. © 2024 kaleo, Inc.
 
 *For California Only: This product uses batteries containing Perchlorate Material – special handling may apply.
 See www.dtsc.ca.gov/hazardouswaste/perchlorate

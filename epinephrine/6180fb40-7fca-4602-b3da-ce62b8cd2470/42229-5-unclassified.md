@@ -20,7 +20,7 @@ If your TRAINER for AUVI-Q does not work properly call your healthcare provider 
 | --- | --- |
 | Your TRAINER for AUVI-Q Figure A |  |
 | TRAINER for AUVI-Q Top view | AUVI-Q AUVI-Q 0.3 mg is orange AUVI-Q 0.15 mg is blue AUVI-Q 0.1 mg is white and lavender |
-| TRAINER for AUVI-Q: is inside a gray outer casedoes not have a needle or medicine insidecan be reused (the red safety guard can be placed back on the base of the Trainer after use)has no expiration datehas embossed “TRAINER” on top of the device | AUVI-Q: is inside an orange (0.3 mg) or blue (0.15 mg) or white and lavender (0.1 mg) outer casecontains a needle and epinephrine medicinecannot be reused (the red safety guard cannot be placed back on the base of AUVI-Q after use)has a medicine expiration date listed on the device |
+| TRAINER for AUVI-Q: is inside a gray outer casedoes not have a needle or medicine insidecan be reused (the red safety guard can be placed back on the base of the Trainer after use)has no expiration datehas embossed “TRAINER” on top of the device | AUVI-Q: is inside an orange (0.3 mg) or blue (0.15 mg) or white and lavender (0.1 mg) outer casecontains a needle and epinephrine medicinecannot be reused (AUVI-Q must be used or properly disposed once the red safety guard is removed)has a medicine expiration date listed on the device |
 | In case of an allergic emergency, use the real AUVI-Q and not the gray Trainer. |  |
 | Who should practice using the TRAINER for AUVI-Q? Anyone who may need to help you with AUVI-Q in case of an allergic emergency: YouCaregiversFamilyFriendsCo-workersTeachersChild Care or Day Care Workers Have them practice using the Trainer and review the Patient Information Leaflet included in the packaging with each prescription of AUVI-Q. For more information and video instructions on the use of AUVI -Q, go to www.AUVI-Q.com or call 1-877-302-8847. |  |
 | Practicing with the TRAINER for AUVI-Q Practice with the TRAINER for AUVI-Q before an allergic emergency happens to make sure you are able to safely use the real AUVI-Q in an emergency. You should practice daily for the first week after you receive your TRAINER for AUVI-Q to help you feel comfortable using AUVI-Q quickly and safely. Even when you are comfortable using the Trainer, continue to practice using it often. |  |
@@ -51,9 +51,10 @@ Follow your State and local environmental regulations for disposal.
 For California Only: This product uses batteries containing Perchlorate Material - special handling may apply.
 See www.dtsc.ca.gov/hazardouswaste/perchlorate
 
-Manufactured for: Kaleo, Inc. Richmond, VA 23219 USA
+Manufactured for: kaleo, Inc. Richmond, VA 23219 USA
 
-This product may be covered by one or more U.S. patents or pending patent applications.
-See www.kaleopharma.com/pat for details.
+This product may be covered by one or more U.S. patents or pending patent applications; see www.kaleo.com for details.
+KALÉO® and AUVI-Q® are registered trademarks of kaleo, Inc. © 2024 kaleo, Inc.
 
-Rev Nov 2017
+Rev.
+Feb 2024
