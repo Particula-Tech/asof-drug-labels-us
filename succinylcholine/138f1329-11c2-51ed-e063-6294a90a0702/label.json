@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA008453"
+  ],
+  "inn": "succinylcholine",
+  "labeler": "Delpharm Boucherville Canada Inc.",
+  "package_ndcs": [
+    "82650-139-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "succinylcholine chloride",
+      "name": "ANECTINE NOV"
+    }
+  ],
+  "setid": "138f1329-11c2-51ed-e063-6294a90a0702",
+  "source": "dailymed"
+}
