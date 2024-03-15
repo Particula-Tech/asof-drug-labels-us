@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA090279"
+  ],
+  "inn": "buprenorphine",
+  "labeler": "Advagen Pharma Ltd",
+  "package_ndcs": [
+    "72888-182-30",
+    "72888-182-90",
+    "72888-183-30",
+    "72888-183-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "buprenorphine hydrochloride",
+      "name": "buprenorphine hydrochloride"
+    }
+  ],
+  "setid": "699638dd-3a53-445f-a545-d0e6eabfe1c9",
+  "source": "dailymed"
+}
