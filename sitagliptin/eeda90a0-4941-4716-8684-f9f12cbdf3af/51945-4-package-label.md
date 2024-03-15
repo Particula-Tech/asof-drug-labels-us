@@ -1,0 +1,25 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 70710-1786-6 in bottle of 60 tablets with child-resistant closure.
+
+Zituvimet
+
+(sitagliptin and metformin HCl) tablets, 50 mg/500 mg
+
+Dispense the enclosed Medication Guide to each patient.
+
+Rx only
+
+Zydus
+
+NDC 70710-1787-6 in bottle of 60 tablets with child-resistant closure.
+
+Zituvimet
+
+(sitagliptin and metformin HCl) tablets, 50 mg/1000 mg
+
+Dispense the enclosed Medication Guide to each patient.
+
+Rx only
+
+Zydus

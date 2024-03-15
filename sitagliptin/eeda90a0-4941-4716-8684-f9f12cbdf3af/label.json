@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA216743"
+  ],
+  "inn": "sitagliptin",
+  "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+  "package_ndcs": [
+    "70710-1786-6",
+    "70710-1786-8",
+    "70710-1787-6",
+    "70710-1787-8"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sitagliptin and metformin hydrochloride",
+      "name": "ZITUVIMET"
+    }
+  ],
+  "setid": "eeda90a0-4941-4716-8684-f9f12cbdf3af",
+  "source": "dailymed"
+}
