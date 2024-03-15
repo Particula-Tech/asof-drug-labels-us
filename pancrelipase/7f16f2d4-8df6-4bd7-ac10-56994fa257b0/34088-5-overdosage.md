@@ -1,8 +1,4 @@
 # 10 OVERDOSAGE
 
-In Study 1, a 10 year-old patient was administered a dose of 10,856 lipase units per kg body weight of ZENPEP for a period of one day.
-The patient did not experience any adverse events as a result of the dose increase, nor did this patient experience any adverse events during a 44-day follow-up period.
-No abnormalities from analyses of safety labs (chemistry, hematology, urinalysis or uric acid) were noted.
-
-Chronic high doses of pancreatic enzyme products have been associated with fibrosing colonopathy and colonic strictures [see Dosage and Administration (2.1) and Warnings and Precautions (5.1)].
-High doses of pancreatic enzyme products have been associated with hyperuricosuria and hyperuricemia, and should be used with caution in patients with a history of hyperuricemia, gout, or renal impairment [see Warnings and Precautions (5.3)].
+Chronic high dosages of pancreatic enzyme products have been associated with fibrosing colonopathy and colonic strictures [see Warnings and Precautions (5.1)].
+High dosages of pancreatic enzyme products have been associated with hyperuricosuria and hyperuricemia [see Warnings and Precautions (5.3)].

@@ -1,25 +1,43 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide)
+Advise the patient or caregiver to read the FDA-approved patient labeling (Medication Guide).
 
-## 17.1 Dosing and Administration
+Fibrosing Colonopathy
 
-- •Instruct patients and caregivers that ZENPEP should only be taken as directed by their healthcare professional.
-  Patients should be advised that the total daily dose should not exceed 10,000 lipase units/kg body weight per day unless clinically indicated.
-  This needs to be especially emphasized for patients eating multiple snacks and meals per day.
-  Patients should be informed that if a dose is missed, the next dose should be taken with the next meal or snack as directed.
-  Doses should not be doubled [see Dosage and Administration (2)].
-- •Instruct patients and caregivers that ZENPEP should always be taken with food.
-  Patients should be advised that ZENPEP delayed-release capsules must not be crushed or chewed as doing so could cause early release of enzymes and/or loss of enzymatic activity.
-  Patients should swallow the intact capsules with adequate amounts of liquid at mealtimes.
-  If necessary, the capsules contents can also be sprinkled on soft acidic foods [see Dosage and Administration (2)].
-- •Instruct patients to notify their healthcare professional if they are pregnant or are thinking of becoming pregnant during treatment with ZENPEP [see Use in Specific Populations (8.1)].
-- •Instruct patients and caregivers to notify the healthcare professional if the patient has a history of abnormal glucose levels before initiating treatment with ZENPEP [see Postmarketing Experience (6.2)].
+Advise the patient or caregiver that fibrosing colonopathy has been reported with high dosages of pancreatic enzyme products, usually with use over a prolonged period of time and in pediatric patients with cystic fibrosis.
+Colonic stricture has been reported in pediatric patients less than 12 years of age.
+Advise patients and caregivers that if signs and symptoms of colon stricture formation occur (e.g., stomach area (abdominal) pain, bloating, trouble passing stool (constipation), nausea, vomiting, diarrhea) to immediately contact their healthcare provider [see Warnings and Precautions (5.1)].
 
-## 17.2 Fibrosing Colonopathy
+Hyperuricemia
 
-Advise patients and caregivers to follow dosing instructions carefully, as doses of pancreatic enzyme products exceeding 6,000 lipase units/kg of body weight per meal (10,000 lipase units/kg body weight/day) have been associated with colonic strictures in children below the age of 12 years [see Dosage and Administration (2)].
+Advise the patient or caregiver that hyperuricemia may occur in patients with gout or renal impairment and to contact the healthcare provider if they experience pain, stiffness, redness or swelling of their joints [see Warnings and Precautions (5.3)].
 
-## 17.3 Allergic Reactions
+Hypersensitivity Reactions
 
-Advise patients and caregivers to contact their healthcare professional immediately if allergic reactions to ZENPEP develop [see Warnings and Precautions (5.5)].
+Inform the patient or caregiver that severe hypersensitivity reactions, including anaphylaxis asthma, hives, and pruritus, have been reported with use of pancreatic enzyme products.
+Seek medical attention if signs or symptoms of a hypersensitivity reaction develop [see Warnings and Precautions (5.5)].
+
+Dosage
+
+Advise the patient or caregiver to take ZENPEP as prescribed, and to contact the healthcare provider if signs and symptoms of malabsorption persist [see Dosage and Administration (2.2)].
+
+Administration
+
+Instruct the patient or caregiver as follows:
+
+- •Take ZENPEP with meals or snacks.
+- •Swallow capsules whole.
+- •For adult and pediatric patients who are unable to swallow intact capsules, the capsule contents may be sprinkled on a small amount of acidic soft food with a pH of 4.5 or less (e.g., commercially available preparations of applesauce, bananas, or pears).
+  For pediatric patients birth to 12 months of age, ZENPEP capsules can also be opened, and the capsule contents sprinkled directly into the infant’s mouth.
+- •Consume sufficient liquids (juice, water, breast milk, or formula) and visually inspect an infant’s mouth to ensure complete swallowing of ZENPEP capsules or capsule contents [see Warnings and Precautions (5.2)].
+- •Do not crush or chew ZENPEP capsules or capsule contents.
+- •Do not mix the ZENPEP capsule contents directly into a bottle of breast milk or formula.
+
+Storage
+
+Instruct the patient or caregiver as follows:
+
+- •Keep ZENPEP in a dry place and protect from moisture and heat.
+- •After opening, keep bottle tightly closed between uses to protect from moisture.
+
+- •The desiccant packet should not be eaten or thrown away.
