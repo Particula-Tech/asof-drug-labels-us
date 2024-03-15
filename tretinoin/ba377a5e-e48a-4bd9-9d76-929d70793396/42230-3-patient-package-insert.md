@@ -1,6 +1,6 @@
 # PATIENT INSTRUCTIONS
 
-| TRETINOIN CREAM TRETINOIN GEL | Acne TreatmentIMPORTANTRead Directions Carefully Before Using | Cream • GelFor Topical Use Only |
+| TRETINOIN CREAMTRETINOIN GEL | Acne TreatmentIMPORTANTRead Directions Carefully Before Using | Cream • GelFor Topical Use Only |
 | --- | --- | --- |
 
 THIS LEAFLET TELLS YOU ABOUT TRETINOIN ACNE TREATMENT AS PRESCRIBED BY YOUR PHYSICIAN.
@@ -11,8 +11,7 @@ IF YOU HAVE ANY QUESTIONS, BE SURE TO ASK YOUR DOCTOR.
 WARNINGS
 
 TRETINOIN GELS ARE FLAMMABLE.
-AVOID FIRE, FLAME OR SMOKING DURING USE.
-Keep out of reach of children.
+AVOID FIRE, FLAME OR SMOKING DURING USE.Keep out of reach of children.
 Keep tube tightly closed.
 Do not expose to heat or store at temperatures above 120°F (49°C).
 
@@ -49,7 +48,7 @@ If you are experiencing severe or persistent irritation, discontinue the use of 
 There have been reports that, in some patients, areas treated with tretinoin developed a temporary increase or decrease in the amount of skin pigment (color) present.
 The pigment in these areas returned to normal either when the skin was allowed to adjust to tretinoin or therapy was discontinued.
 
-Use other medication only on your physician's advice.
+Use other medications only on your physician's advice.
 Only your physician knows which other medications may be helpful during treatment and will recommend them to you if necessary.
 Follow the physician's instructions carefully.
 In addition, you should avoid preparations that may dry or irritate your skin.
@@ -84,27 +83,27 @@ AGAIN, FOLLOW INSTRUCTIONS - BE PATIENT - DON'T START AND STOP THERAPY ON YOUR O
 
 To help you use the medication correctly, keep these simple instructions in mind.
 
-- •Apply tretinoin once daily before bedtime, or as directed by your physician.
+- Apply tretinoin once daily before bedtime, or as directed by your physician.
   Your physician may advise, especially if your skin is sensitive, that you start your therapy by applying tretinoin every other night.
   First, wash with a mild soap and dry your skin gently.
   WAIT 20 TO 30 MINUTES BEFORE APPLYING MEDICATION; it is important for skin to be completely dry in order to minimize possible irritation.
-- •It is better not to use more than the amount suggested by your physician or to apply more frequently than instructed.
+- It is better not to use more than the amount suggested by your physician or to apply more frequently than instructed.
   Too much may irritate the skin, waste medication and won't give faster or better results.
-- •Keep the medication away from the corners of the nose, mouth, eyes and open wounds.
+- Keep the medication away from the corners of the nose, mouth, eyes and open wounds.
   Spread away from these areas when applying.
-- •Cream: Squeeze about a half inch or less of medication onto the fingertip.
+- Cream: Squeeze about a half inch or less of medication onto the fingertip.
   While that should be enough for your whole face, after you have some experience with the medication you may find you need slightly more or less to do the job.
   The medication should become invisible almost immediately.
   If it is still visible, you are using too much.
   Cover the affected area lightly with Tretinoin Cream by first dabbing it on your forehead, chin and both cheeks, then spreading it over the entire affected area.
   Smooth gently into the skin.
-- •Gel: Squeeze about a half inch or less of medication onto the fingertip.
+- Gel: Squeeze about a half inch or less of medication onto the fingertip.
   While that should be enough for your whole face, after you have some experience with the medication you may find you need slightly more or less to do the job.
   The medication should become invisible almost immediately.
   If it is still visible, or if dry flaking occurs from the gel within a minute or so, you are using too much.
   Cover the affected area lightly with Tretinoin Gel by first dabbing it on your forehead, chin and both cheeks, then spreading it over the entire affected area.
   Smooth gently into the skin.
-- •It is recommended that you apply a moisturizer or a moisturizer with sunscreen that will not aggravate your acne (noncomedogenic) every morning after you wash.
+- It is recommended that you apply a moisturizer or a moisturizer with sunscreen that will not aggravate your acne (noncomedogenic) every morning after you wash.
 
 WHAT TO EXPECT WITH YOUR NEW TREATMENT
 
@@ -116,12 +115,12 @@ There may be some discomfort or peeling during the early days of treatment.
 Some patients also notice that their skin begins to take on a blush.
 
 These reactions do not happen to everyone.
-If they do, it is just your skin adjusting to Tretinoin and this usually subsides within two to four weeks.
+If they do, it is just your skin adjusting to Tretinoin and this usually subsides within 2 to 4 weeks.
 These reactions can usually be minimized by following instructions carefully.
 Should the effects become excessively troublesome, consult your doctor.
 
-BY THREE TO SIX WEEKS, some patients notice an appearance of new blemishes (papules and pustules).
-At this stage it is important to continue using tretinoin.
+BY 3 TO 6 WEEKS, some patients notice an appearance of new blemishes (papules and pustules).
+At this stage it is important to continueusing tretinoin.
 
 If tretinoin is going to have a beneficial effect for you, you should notice a continued improvement in your appearance after 6 to 12 weeks of therapy.
 Don't be discouraged if you see no immediate improvement.
@@ -134,10 +133,13 @@ IF YOU HAVE QUESTIONS
 All questions of a medical nature should be taken up with your doctor.
 For more information about tretinoin, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX).
 
+Storage Conditions:Tretinoin Gel, 0.025% and 0.01%: store below 86°F.
+Tretinoin Cream, 0.1%, 0.05%, and 0.025%: store below 80°F.
+
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Manufactured by: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
+Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
 
-Revised: 12/2018 VAL:PL:TRETCG:R2
+Revised: 02/2024 VAL:PL:TRETCG:R2
 
-9631001
+9631002
