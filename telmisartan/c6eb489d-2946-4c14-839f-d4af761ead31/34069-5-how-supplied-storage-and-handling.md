@@ -6,6 +6,8 @@ Telmisartan Tablets, USP 20 mg: white to off-white circular shaped flat beveled 
 
 Bottles of 30 with child-resistant closure, NDC 68462-199-30
 
+Bottles of 90 with child-resistant closure, NDC 68462-199-90
+
 Bottles of 100, NDC 68462-199-01
 
 Carton of 30 Tablets (3 x 10 Unit-Dose), NDC 68462-199-13
@@ -16,6 +18,8 @@ Telmisartan Tablets, USP 40 mg: white to off-white capsule shaped tablets engrav
 
 Bottles of 30 with child-resistant closure, NDC 68462-200-30
 
+Bottles of 90 with child-resistant closure, NDC 68462-200-90
+
 Bottles of 100, NDC 68462-200-01
 
 Carton of 30 Tablets (3 x 10 Unit-Dose), NDC 68462-200-13
@@ -25,6 +29,8 @@ Carton of 50 Tablets (5 x 10 Unit-Dose), NDC 68462-200-82
 Telmisartan Tablets, USP 80 mg: white to off-white capsule shaped tablets engraved with a ‘G’ on one side and ‘201’ on the other side.
 
 Bottles of 30 with child-resistant closure, NDC 68462-201-30
+
+Bottles of 90 with child-resistant closure, NDC 68462-201-90
 
 Bottles of 100, NDC 68462-201-01
 
