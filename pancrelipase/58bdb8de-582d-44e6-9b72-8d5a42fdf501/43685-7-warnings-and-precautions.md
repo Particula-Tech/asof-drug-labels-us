@@ -2,38 +2,47 @@
 
 ## 5.1 Fibrosing Colonopathy
 
-Fibrosing colonopathy has been reported following treatment with different pancreatic enzyme products.5, 6 Fibrosing colonopathy is a rare, serious adverse reaction initially described in association with high-dose pancreatic enzyme use, usually over a prolonged period of time and most commonly reported in pediatric patients with cystic fibrosis.
+Fibrosing colonopathy has been reported following treatment with pancreatic enzyme products.
+Fibrosing colonopathy is a rare, serious adverse reaction initially described in association with use of high-dose pancreatic enzyme products, usually over a prolonged period of time and most commonly reported in pediatric patients with cystic fibrosis.
+Pancreatic enzyme products exceeding 6,000 lipase units/kg/meal have been associated with colonic stricture, a complication of fibrosing colonopathy, in pediatric patients less than 12 years of age.
 The underlying mechanism of fibrosing colonopathy remains unknown.
-Doses of pancreatic enzyme products exceeding 6,000 lipase units/kg of body weight per meal have been associated with colonic stricture in children less than 12 years of age.1 Patients with fibrosing colonopathy should be closely monitored because some patients may be at risk of progressing to stricture formation.
-It is uncertain whether regression of fibrosing colonopathy occurs.1 It is generally recommended, unless clinically indicated, that enzyme doses should be less than 2,500 lipase units/kg of body weight per meal (or less than 10,000 lipase units/kg of body weight per day) or less than 4,000 lipase units/g fat ingested per day [see Dosage and Administration (2.2)].
 
-Doses greater than 2,500 lipase units/kg of body weight per meal (or greater than 10,000 lipase units/kg of body weight per day) should be used with caution and only if they are documented to be effective by 3-day fecal fat measures that indicate a significantly improved coefficient of fat absorption.
-Patients receiving higher doses than 6,000 lipase units/kg of body weight per meal should be examined and the dosage either immediately decreased or titrated downward to a lower range.
+If there is a history of fibrosing colonopathy, monitor patients during treatment with VIOKACE because some patients may be at risk of progressing to colonic stricture formation.
+It is uncertain whether regression of fibrosing colonopathy occurs.
+Do not exceed the recommended dosage of either 2,500 lipase units/kg/meal, 10,000 lipase units/kg/day, or 4,000 lipase units/g fat ingested/day without further investigation.
+Higher dosages may be administered if they are documented to be effective by fecal fat measures or an improvement in signs or symptoms of malabsorption including measures of nutritional status.
+Patients receiving dosages higher than 6,000 lipase units/kg/meal should frequently monitored for symptoms of fibrosing colonopathy and the dosage decreased or titrated downward to a lower range if clinically appropriate [see Dosage and Administration (2.1)].
 
-## 5.2 Potential for Irritation to Oral Mucosa
+## 5.2 Irritation of the Oral Mucosa
 
-Care should be taken to ensure that no drug is retained in the mouth to avoid irritation of oral mucosa, and/or loss of enzyme activity.
-VIOKACE should not be crushed or chewed [see Dosage and Administration (2.1) and Patient Counseling Information (17.1)].
+Crushing or chewing VIOKACE tablets can result in irritation of the oral mucosa, and/or loss of enzyme activity.
+Instruct the patient to swallow tablets whole.
+Do not crush or chew VIOKACE tablets.
+Consume sufficient liquids immediately following administration of VIOKACE to ensure complete swallowing [see Dosage and Administration (2.3)].
 
-## 5.3 Potential for Risk of Hyperuricemia
+## 5.3 Hyperuricemia
 
-Caution should be exercised when prescribing VIOKACE to patients with gout, renal impairment, or hyperuricemia.
-Porcine-derived pancreatic enzyme products contain purines that may increase blood uric acid levels.
+Pancreatic enzyme products contain purines that may increase blood uric acid levels.
+High dosages have been associated with hyperuricosuria and hyperuricemia [see Overdosage (10)].
 
-## 5.4 Potential for Viral Exposure from the Product Source
+Consider monitoring blood uric acid levels in patients with gout, renal impairment, or hyperuricemia during treatment with VIOKACE.
+
+## 5.4 Risk of Viral Transmission
 
 VIOKACE is sourced from pancreatic tissue from pigs used for food consumption.
 Although the risk that VIOKACE will transmit an infectious agent to humans has been reduced by testing for certain viruses during manufacturing and by inactivating certain viruses during manufacturing, there is a theoretical risk for transmission of viral disease, including diseases caused by novel or unidentified viruses.
 Thus, the presence of porcine viruses that might infect humans cannot be definitely excluded.
 However, no cases of transmission of an infectious illness associated with the use of porcine pancreatic extracts have been reported.
 
-## 5.5 Allergic Reactions
+## 5.5 Hypersensitivity Reactions
 
-Caution should be exercised when administering pancrelipase to a patient with a known allergy to proteins of porcine origin.
-Rarely, severe allergic reactions including anaphylaxis, asthma, hives, and pruritus, have been reported with other pancreatic enzyme products with different formulations of the same active ingredient (pancrelipase).
-The risks and benefits of continued VIOKACE treatment in patients with severe allergy should be taken into consideration with the overall clinical needs of the patient.
+Severe hypersensitivity reactions including anaphylaxis, asthma, hives, and pruritus have been reported with pancreatic enzyme products [see Adverse Reactions (6.2)].
+If symptoms occur, initiate appropriate medical management.
+
+Monitor patients with a known hypersensitivity reaction to proteins of porcine origin for hypersensitivity reactions during treatment with VIOKACE.
+The risks and benefits of continued VIOKACE treatment in patients with severe hypersensitivity reactions should be taken into consideration with the overall clinical needs of the patient.
 
 ## 5.6 Potential for Exacerbation of Symptoms of Lactose Intolerance
 
-VIOKACE tablets contain lactose monohydrate.
+VIOKACE tablets contain lactose monohydrate [see Description (11)].
 Patients who have lactose intolerance may not be able to tolerate VIOKACE.

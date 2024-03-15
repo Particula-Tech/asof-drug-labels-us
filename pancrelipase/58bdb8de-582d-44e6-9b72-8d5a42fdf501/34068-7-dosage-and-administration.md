@@ -1,43 +1,36 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-VIOKACE is not interchangeable with any other pancrelipase product.
+## 2.1 Important Dosing Information
 
-VIOKACE is orally administered.
-Therapy should be initiated at the lowest recommended dose and gradually increased.
-The dosage of VIOKACE should be individualized based on clinical symptoms, the degree of steatorrhea present, and the fat content of the diet as described in the Limitations on Dosing below [see Dosage and Administration (2.2) and Warnings and Precautions (5.1)].
+VIOKACE is a mixture of enzymes including lipases, proteases, and amylases.
+VIOKACE dosing is based on lipase units.
 
-## 2.1 Administration
+- •Administer VIOKACE with a proton pump inhibitor.
+- •Use either an actual body weight or fat ingestion‑based dosing scheme.
+- •Start at the lowest recommended dosage and individualize the dosage based on clinical symptoms, the degree of steatorrhea present, and the fat content of the diet.
+  Changes in dosage may require an adjustment period of several days.
+- •Do not exceed 2,500 lipase units/kg/meal, 10,000 lipase units/kg/day, or 4,000 lipase units/g fat ingested/day without further investigation [see Warnings and Precautions (5.1)].
+  Higher dosages may be administered if they are documented to be effective by fecal fat measures or an improvement in signs or symptoms of malabsorption including measures of nutritional status.
+- •The total daily dosage should reflect approximately three meals plus two or three snacks per day.
+  With each snack, administer approximately half the prescribed VIOKACE dose for a meal.
+- •Do not substitute other pancreatic enzyme products for VIOKACE.
+  When switching from another pancreatic enzyme product to VIOKACE, monitor patients for clinical symptoms of exocrine pancreatic insufficiency and titrate the dosage as needed.
 
-Since VIOKACE is not enteric-coated, it should be taken in combination with a proton pump inhibitor [see Indications and Usage (1)].
+## 2.2 Recommended Dosage
 
-VIOKACE should be taken during meals or snacks, with sufficient fluid.
-Tablets should be swallowed whole.
-Do not crush or chew tablets.
-Care should be taken to ensure that no drug is retained in the mouth to avoid mucosal irritation.
+Adult Patients:
 
-## 2.2 Dosage
+The recommended oral initial starting dosage of VIOKACE is 500 lipase units/kg/meal.
 
-Dosage recommendations for pancreatic enzyme replacement therapy were published following the Cystic Fibrosis Foundation Consensus Conferences.1, 2, 3 VIOKACE should be administered in a manner consistent with the recommendations of the Conferences provided in the following paragraph.
-Only the adult dosing guidelines are shown below.
-Patients may be dosed on a fat ingestion-based or actual body weight-based dosing scheme.
+If signs and symptoms of malabsorption persist, increase the dosage.
+Titrate to a maximum of either 2,500 lipase units/kg/meal, 10,000 lipase units/kg/day, or 4,000 lipase units/grams of fat ingested/day.
 
-Additional recommendations for pancreatic enzyme therapy in patients with exocrine pancreatic insufficiency due to chronic pancreatitis or pancreatectomy are based on a clinical trial conducted in these populations.
+## 2.3 Preparation and Administration Instructions
 
-Enzyme dosing should begin with 500 lipase units/kg of body weight per meal to a maximum of 2,500 lipase units/kg of body weight per meal (or less than or equal to 10,000 lipase units/kg of body weight per day), or less than 4,000 lipase units/g fat ingested per day.
+Adult Patients:
 
-Usually, half of the prescribed VIOKACE dose for an individualized full meal should be given with each snack.
-The total daily dosage should reflect approximately three meals plus two or three snacks per day.
-
-In one clinical trial, patients received VIOKACE at a dose of 125,280 lipase units per meal while consuming 100 g of fat per day [see Clinical Studies (14)].
-Lower starting doses recommended in the literature are consistent with the 500 lipase units/kg of body weight per meal lowest starting dose recommended for adults in the Cystic Fibrosis Foundation Consensus Conferences Guidelines.1, 2, 3, 4 The initial starting dose and increases in the dose per meal should be individualized based on clinical symptoms, the degree of steatorrhea present, and the fat content of the diet.
-
-Limitations on Dosing
-
-Dosing should not exceed the recommended maximum dosage set forth by the Cystic Fibrosis Foundation Consensus Conferences Guidelines.1, 2, 3 If symptoms and signs of steatorrhea persist, the dosage may be increased by the healthcare professional.
-Patients should be instructed not to increase the dosage on their own.
-There is great inter-individual variation in response to enzymes; thus, a range of doses is recommended.
-Changes in dosage may require an adjustment period of several days.
-If doses are to exceed 2,500 lipase units/kg of body weight per meal, further investigation is warranted.
-Doses greater than 2,500 lipase units/kg of body weight per meal (or greater than 10,000 lipase units/kg of body weight per day) should be used with caution and only if they are documented to be effective by 3-day fecal fat measures that indicate a significantly improved coefficient of fat absorption.
-Doses greater than 6,000 lipase units/kg of body weight per meal have been associated with colonic stricture, indicative of fibrosing colonopathy, in children less than 12 years of age [see Warnings and Precautions (5.1)].
-Patients currently receiving higher doses than 6,000 lipase units/kg of body weight per meal should be examined and the dosage either immediately decreased or titrated downward to a lower range.
+- •Take VIOKACE with meals or snacks.
+  If a dose is missed, take the next dose with the next meal or snack.
+- •Swallow tablets whole.
+  Do not crush or chew VIOKACE tablets.
+- •Consume sufficient liquids (water) to ensure complete swallowing of VIOKACE tablets [see Warnings and Precautions (5.2)].

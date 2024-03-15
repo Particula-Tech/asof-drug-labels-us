@@ -1,13 +1,8 @@
-Distributed by: Nestlé HealthCare Nutrition, Inc. Bridgewater, NJ 08807
+Manufactured by: Viokace, LLC 1007 US Highway 202/206, Bridgewater, NJ 08807, USA
 
-Manufactured by: Confab Laboratories, Inc. St. Hubert, Canada
+US License No. 2196
 
-All trademarks are owned by Société des Produits Nestlé S.A., Vevey, Switzerland or used with permission. ©2020 Nestlé.
+Manufactured for: Aimmune Therapeutics, Inc. Bridgewater, NJ 08807, USA
 
-Revised 03/2020
-
-v1.0USPI0112
-
-73314NT10
-
-300881-03
+©2024 Nestlé.
+All trademarks are owned by Société des Produits Nestlé S.A., Vevey, Switzerland or used with permission.

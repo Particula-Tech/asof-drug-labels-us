@@ -1,21 +1,38 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-“See FDA-approved patient labeling (Medication Guide)”
+Advise the patient or caregiver to read the FDA-approved patient labeling (Medication Guide).
 
-## 17.1 Dosing and Administration
+Fibrosing Colonopathy
 
-- •Instruct patients and caregivers that VIOKACE should only be taken as directed by their doctor.
-  Patients should be advised that the total daily dose should not exceed 10,000 lipase units/kg body weight/day unless clinically indicated.
-  This needs to be especially emphasized for patients eating multiple snacks and meals per day.
-  Patients should be informed that if a dose is missed, the next dose should be taken with the next meal or snack as directed.
-  Doses should not be doubled [see Dosage and Administration (2)].
-- •Instruct patients and caregivers that VIOKACE should always be taken with food.
-  Patients should swallow the intact tablets with adequate amounts of liquid at mealtimes [see Dosage and Administration (2)].
+Advise patients that if signs and symptoms of colon stricture formation occur (e.g., stomach area (abdominal) pain, bloating, trouble passing stool (constipation), nausea, vomiting, diarrhea) to immediately contact their healthcare provider [see Warnings and Precautions (5.1)].
 
-## 17.2 Fibrosing Colonopathy
+Hyperuricemia
 
-Advise patients and caregivers to follow dosing instructions carefully, as doses of pancreatic enzyme products exceeding 6,000 lipase units/kg of body weight per meal have been associated with colonic strictures in children below the age of 12 years [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
+Advise the patient that hyperuricemia may occur in patients with gout or renal impairment and to contact the healthcare provider if they experience pain, stiffness, redness or swelling of their joints [see Warnings and Precautions (5.3)].
 
-## 17.3 Allergic Reactions
+Hypersensitivity Reactions
 
-Advise patients and caregivers to contact their healthcare professional immediately if allergic reactions to VIOKACE develop [see Warnings and Precautions (5.5)].
+Inform the patient that severe hypersensitivity reactions, including anaphylaxis asthma, hives, and pruritus, have been reported with use of pancreatic enzyme products.
+Seek medical attention if signs or symptoms of a hypersensitivity reaction develop [see Warnings and Precautions (5.5)].
+
+Dosage
+
+Advise the patient to increase take VIOKACE as prescribed, and to contact the healthcare provider if signs and symptoms of malabsorption persist [see Dosage and Administration (2.1)].
+
+Administration
+
+Instruct the patient to:
+
+- •Take VIOKACE with meals or snacks.
+- •Swallow tablets whole.
+  Do not crush or chew VIOKACE tablets.
+- •Consume sufficient liquids (water) to ensure complete swallowing of VIOKACE tablets.
+
+Storage
+
+Instruct the patient or caregiver as follows:
+
+- •Keep VIOKACE in a dry place and protect from moisture and heat.
+- •After opening, keep the container tightly closed between uses to protect from moisture.
+- •Keep VIOKACE in the original bottle.
+- •The desiccant packet should not be eaten or thrown away.
