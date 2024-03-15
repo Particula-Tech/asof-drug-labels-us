@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA008453"
+  ],
+  "inn": "succinylcholine",
+  "labeler": "Delpharm Boucherville Canada Inc.",
+  "package_ndcs": [
+    "82650-138-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "succinylcholine chloride",
+      "name": "ANECTINE CIV"
+    }
+  ],
+  "setid": "138f172a-4b99-537e-e063-6394a90a6997",
+  "source": "dailymed"
+}

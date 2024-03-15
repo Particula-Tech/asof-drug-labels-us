@@ -1,0 +1,3 @@
+# CONTRAINDICATIONS
+
+ANECTINE is contraindicated in patients with: • Known or suspected genetic susceptibility to malignant hyperthermia (see WARNINGS; Malignant Hyperthermia, CLINICAL PHARMACOLOGY; Pharmacogenomics) • Skeletal muscle myopathies • Known hypersensitivity to succinylcholine (see WARNINGS; Anaphylaxis) • After the acute phase of injury following major burns, multiple trauma, extensive denervation of the skeletal muscle, or upper neuron injury because succinylcholine administered to such individuals may result in severe hyperkalemia, which may result in cardiac arrest (see WARNINGS; Hyperkalemia)
