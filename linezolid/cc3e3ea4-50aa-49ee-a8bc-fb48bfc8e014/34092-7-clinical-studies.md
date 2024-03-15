@@ -6,7 +6,7 @@ Nosocomial Pneumonia
 
 Adult patients with clinically and radiologically documented nosocomial pneumonia were enrolled in a randomized, multi-center, double-blind trial.
 Patients were treated for 7 to 21 days.
-One group received linezolid injection 600 mg every 12 hours, and the other group received vancomycin 1 g every 12 hours intravenously.
+One group received Linezolid injection 600 mg every 12 hours, and the other group received vancomycin 1 g every 12 hours intravenously.
 Both groups received concomitant aztreonam (1 to 2 g every 8 hours intravenously), which could be continued if clinically indicated.
 There were 203 linezolid-treated and 193 vancomycin-treated patients enrolled in the study.
 One hundred twenty-two (60%) linezolid-treated patients and 103 (53%) vancomycin-treated patients were clinically evaluable.
@@ -63,7 +63,7 @@ Adult diabetic patients with clinically documented complicated skin and skin str
 One group of patients received Linezolid 600 mg every 12 hours intravenously or orally; the other group received ampicillin/sulbactam 1.5 to 3 g intravenously or amoxicillin/clavulanate 500 to 875 mg every 8 to 12 hours orally.
 In countries where ampicillin/sulbactam is not marketed, amoxicillin/clavulanate 500 mg to 2 g every 6 hours was used for the intravenous regimen.
 Patients in the comparator group could also be treated with vancomycin 1 g every 12 hours intravenously if MRSA was isolated from the foot infection.
-Patients in either treatment group who had Gram-negative bacilli isolated from the infection site could also receive aztreonam 1 to 2 g every 8 to 12 hours intravenously.
+Patients in either treatment group who had Gram-negative bacilli isolated from the infection site could also receive aztreonam 1 to 2 g every 8-12 hours intravenously.
 All patients were eligible to receive appropriate adjunctive treatment methods, such as debridement and off-loading, as typically required in the treatment of diabetic foot infections, and most patients received these treatments.
 There were 241 linezolid-treated and 120 comparator-treated patients in the intent-to-treat (ITT) study population.
 Two hundred twelve (86%) linezolid-treated patients and 105 (85%) comparator-treated patients were clinically evaluable.
@@ -108,7 +108,7 @@ Cure Rates at the Test-of-Cure Visit for ITT Adult Patients with Documented Vanc
 | Urinary tract | 12/19 (63) | 12/20 (60) |
 | Pneumonia | 2/3 (67) | 0/1 (0) |
 | Other* | 11/13 (85) | 5/13 (39) |
-| * Includes sources of infection such as hepatic abscess, biliary sepsis, necrotic gall bladder, pericolonic abscess, pancreatitis, and catheter-related infection. |  |  |
+| *Includes sources of infection such as hepatic abscess, biliary sepsis, necrotic gall bladder, pericolonic abscess, pancreatitis, and catheter-related infection. |  |  |
 
 ## 14.2 Pediatric Patients
 
@@ -118,7 +118,7 @@ A safety and efficacy study provided experience on the use of Linezolid in pedia
 Pediatric patients ranging in age from birth through 11 years with infections caused by the documented or suspected Gram-positive bacteria were enrolled in a randomized, open-label, comparator-controlled trial.
 One group of patients received Linezolid injection 10 mg/kg every 8 hours followed by Linezolid for Oral Suspension 10 mg/kg every 8 hours.
 A second group received vancomycin 10 to 15 mg/kg intravenously every 6 to 24 hours, depending on age and renal clearance.
-Patients who had confirmed VRE infections were placed in a third arm of the study and received linezolid 10 mg/kg every 8 hours intravenously and/or orally.
+Patients who had confirmed VRE infections were placed in a third arm of the study and received Linezolid 10 mg/kg every 8 hours intravenously and/or orally.
 All patients were treated for a total of 10 to 28 days and could receive concomitant Gram-negative antibacterial drugs if clinically indicated.
 In the intent-to-treat (ITT) population, there were 206 patients randomized to linezolid and 102 patients randomized to vancomycin.
 The cure rates for ITT, MITT, and clinically evaluable patients are presented in Table 16.
@@ -146,4 +146,4 @@ Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Pediatric P
 | Staphylococcus aureus | 36/38 (95) | 23/24 (96) |
 | Methicillin-resistant S. aureus | 16/17 (94) | 9/9 (100) |
 | Streptococcus pyogenes | 2/2 (100) | 1/2 (50) |
-| * Includes data from 7 patients enrolled in the open-label extension of this study. |  |  |
+| *Includes data from 7 patients enrolled in the open-label extension of this study. |  |  |

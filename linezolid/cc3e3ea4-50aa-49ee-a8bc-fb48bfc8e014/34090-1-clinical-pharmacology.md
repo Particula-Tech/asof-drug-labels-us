@@ -90,9 +90,9 @@ Pharmacokinetic Parameters of Linezolid in Pediatrics and Adults Following a Sin
 
 | Age Group | Cmax mcg/mL | Vss L/kg | AUC* mcg●h/mL | t½ hrs | CL mL/min/kg |
 | --- | --- | --- | --- | --- | --- |
-| Neonatal Patients Pre-term** < 1 week (N=9)† Full-term*** < 1 week (N=10)† Full-term*** ≥ 1 week to ≤ 28 days (N=10)† | 12.7 (30%) [9.6, 22.2] 11.5 (24%) [8.0, 18.3] 12.9 (28%) [7.7, 21.6] | 0.81 (24%) [0.43, 1.05] 0.78 (20%) [0.45, 0.96] 0.66 (29%) [0.35, 1.06] | 108 (47%) [41, 191] 55 (47%) [19, 103] 34 (21%) [23, 50] | 5.6 (46%) [2.4, 9.8] 3 (55%) [1.3, 6.1] 1.5 (17%) [1.2, 1.9] | 2 (52%) [0.9, 4] 3.8 (55%) [1.5, 8.8] 5.1 (22%) [3.3, 7.2] |
-| Infant Patients > 28 days to < 3 Months (N=12)† | 11 (27%) [7.2, 18] | 0.79 (26%) [0.42, 1.08] | 33 (26%) [17, 48] | 1.8 (28%) [1.2, 2.8] | 5.4 (32%) [3.5, 9.9] |
-| Pediatric Patients 3 months through 11 years† (N=59) | 15.1 (30%) [6.8, 36.7] | 0.69 (28%) [0.31, 1.50] | 58 (54%) [19, 153] | 2.9 (53%) [0.9, 8] | 3.8 (53%) [1, 8.5] |
+| Neonatal Patients Pre-term** < 1 week (N=9)† Full-term*** < 1 week (N=10)† Full-term*** ≥ 1 week to ≤ 28 days (N=10)† | 12.7 (30%) [9.6, 22.2] 11.5 (24%) [8.0, 18.3] 12.9 (28%) [7.7, 21.6] | 0.81 (24%) [0.43, 1.05] 0.78 (20%) [0.45, 0.96] 0.66 (29%) [0.35, 1.06] | 108 (47%) [41, 191] 55 (47%) [19, 103] 34 (21%) [23, 50] | 5.6 (46%) [2.4, 9.8] 3.0 (55%) [1.3, 6.1] 1.5 (17%) [1.2, 1.9] | 2.0 (52%) [0.9, 4.0] 3.8 (55%) [1.5, 8.8] 5.1 (22%) [3.3, 7.2] |
+| Infant Patients > 28 days to < 3 Months (N=12)† | 11.0 (27%) [7.2, 18.0] | 0.79 (26%) [0.42, 1.08] | 33 (26%) [17, 48] | 1.8 (28%) [1.2, 2.8] | 5.4 (32%) [3.5, 9.9] |
+| Pediatric Patients 3 months through 11 years† (N=59) | 15.1 (30%) [6.8, 36.7] | 0.69 (28%) [0.31, 1.50] | 58 (54%) [19, 153] | 2.9 (53%) [0.9, 8.0] | 3.8 (53%) [1.0, 8.5] |
 | Adolescent Subjects and Patients 12 through 17 years‡ (N=36) | 16.7 (24%) [9.9, 28.9] | 0.61 (15%) [0.44, 0.79] | 95 (44%) [32, 178] | 4.1 (46%) [1.3, 8.1] | 2.1 (53%) [0.9, 5.2] |
 | Adult Subjects§ (N= 29) | 12.5 (21%) [8.2, 19.3] | 0.65 (16%) [0.45, 0.84] | 91 (33%) [53, 155] | 4.9 (35%) [1.8, 8.3] | 1.7 (34%) [0.9, 3.3] |
 | * AUC = Single dose AUC0-∞ |  |  |  |  |  |
@@ -134,10 +134,10 @@ Mean (Standard Deviation) AUCs and Elimination Half-lives of Linezolid and Metab
 | t1/2, hours | 6.4 (2.2) | 6.1 (1.7) | 7.1 (3.7) |
 | METABOLITE A |  |  |  |
 | AUC0-48, mcg h/mL | 7.6 (1.9) | 11.7 (4.3) | 56.5 (30.6) |
-| t1/2, hours | 6.3 (2.1) | 6.6 (2.3) | 9 (4.6) |
+| t1/2, hours | 6.3 (2.1) | 6.6 (2.3) | 9.0 (4.6) |
 | METABOLITE B1 |  |  |  |
 | AUC0-48, mcg h/mL | 30.5 (6.2) | 51.1 (38.5) | 203 (92) |
-| t1/2, hours | 6.6 (2.7) | 9.9 (7.4) | 11 (3.9) |
+| t1/2, hours | 6.6 (2.7) | 9.9 (7.4) | 11.0 (3.9) |
 | 1 Metabolite B is the major metabolite of linezolid. |  |  |  |
 
 Table 11.
@@ -189,7 +189,7 @@ Strong CYP 3A4 Inducers
 
 Rifampin: The effect of rifampin on the pharmacokinetics of linezolid was evaluated in a study of 16 healthy adult males.
 Volunteers were administered oral linezolid 600 mg twice daily for 5 doses with and without rifampin 600 mg once daily for 8 days.
-Co-administration of rifampin with linezolid resulted in a 21% decrease in linezolid Cmax [90% CI, 15% to 27%] and a 32% decrease in linezolid AUC0-12 [90% CI, 27% to 37%].
+Co-administration of rifampin with linezolid resulted in a 21% decrease in linezolid Cmax [90% CI, 15% - 27%] and a 32% decrease in linezolid AUC0-12 [90% CI, 27% - 37%].
 The clinical significance of this interaction is unknown.
 The mechanism of this interaction is not fully understood and may be related to the induction of hepatic enzymes.
 Other strong inducers of hepatic enzymes (e.g. carbamazepine, phenytoin, phenobarbital) could cause a similar or smaller decrease in linezolid exposure.
@@ -216,7 +216,7 @@ Blood pressure was increased with both combination treatments.
 Maximum blood pressure levels were seen 2 to 3 hours after the second dose of PPA or PSE, and returned to baseline 2 to 3 hours after peak.
 The results of the PPA study follow, showing the mean (and range) maximum systolic blood pressure in mm Hg: placebo = 121 (103 to 158); linezolid alone = 120 (107 to 135); PPA alone = 125 (106 to 139); PPA with linezolid = 147 (129 to 176).
 The results from the PSE study were similar to those in the PPA study.
-The mean maximum increase in systolic blood pressure over baseline was 32 mm Hg (range: 20 to 52 mm Hg) and 38 mm Hg (range: 18 to 79 mm Hg) during co-administration of linezolid with pseudoephedrine or phenylpropanolamine, respectively.
+The mean maximum increase in systolic blood pressure over baseline was 32 mm Hg (range: 20-52 mm Hg) and 38 mm Hg (range: 18-79 mm Hg) during co-administration of linezolid with pseudoephedrine or phenylpropanolamine, respectively.
 
 Serotonergic Agents
 

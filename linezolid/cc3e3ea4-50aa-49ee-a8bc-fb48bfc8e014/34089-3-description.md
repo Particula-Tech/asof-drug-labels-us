@@ -8,5 +8,6 @@ Its molecular weight is 337.35, and its chemical structure is represented below:
 
 Linezolid injection is supplied as a ready-to-use sterile isotonic solution for intravenous infusion.
 Each mL contains 2 mg of linezolid.
-Inactive ingredients are sodium citrate, citric acid, and dextrose in an aqueous vehicle for intravenous administration.
-The sodium (Na+) content is 0.38 mg/mL (5 mEq/300 mL and 1.7 mEq/100 mL flexible plastic container). pH adjusted to 4.8 with sodium hydroxide or hydrochloric acid.
+Inactive ingredients are dextrose monohydrate 50.24 mg/mL in an aqueous vehicle for intravenous administration, sodium citrate dihydrate 1.64 mg/mL, and citric acid anhydrous 0.85 mg/mL.
+Sodium hydroxide NF and/or hydrochloric acid NF are used to adjust the pH.
+The sodium (Na+) content is 0.38 mg/mL (5 mEq/300 mL bag).

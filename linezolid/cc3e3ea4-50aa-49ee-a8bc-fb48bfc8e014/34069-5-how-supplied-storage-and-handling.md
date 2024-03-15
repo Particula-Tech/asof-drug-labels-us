@@ -10,7 +10,7 @@ The flexible plastic container is available as follows:
 | --- | --- | --- | --- |
 | 713013 | NDC 63323-713-13 Package of 10 freeflex® bags | 600 mg per 300 mL (2 mg per mL) | NDC 63323-713-03 One 300 mL freeflex® Bag |
 
-## 16.2 Storage and Handling
+## 16.4 Storage and Handling
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Protect from light.
