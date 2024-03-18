@@ -43,7 +43,7 @@ In an embryofetal development study in pregnant cynomolgus monkeys, subcutaneous
 Pharmacologically mediated, marked initial maternal body weight loss and reductions in body weight gain and food consumption coincided with the occurrence of sporadic abnormalities (vertebra, sternebra, ribs) at greater than or equal to 0.075 mg/kg twice weekly (greater than or equal to 2 times human exposure).
 
 In a pre- and postnatal development study in pregnant cynomolgus monkeys, subcutaneous doses of 0.015, 0.075, and 0.15 mg/kg twice weekly (0.2-, 1-, and 3-fold the MRHD) were administered from Gestation Day 16 to 140.
-Pharmacologically mediated marked initial maternal body weight loss and reductions in body weight gain and food consumption coincided with an increase in early pregnancy losses and led to delivery of slightly smaller offspring at greater than or equal to 0.075 mg/kg twice weekly (greater than or equal to 1 time human exposure).
+Pharmacologically mediated marked initial maternal body weight loss and reductions in body weight gain and food consumption coincided with an increase in early pregnancy losses and led to delivery of slightly smaller offspring at greater than or equal to 0.075 mg/kg twice weekly (greater than or equal to 1-time human exposure).
 
 ## 8.2 Lactation
 
@@ -56,7 +56,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Data
 
-In lactating rats, semaglutide was detected in milk at levels 3-12 fold lower than in maternal plasma.
+In lactating rats, semaglutide was detected in milk at levels 3-12-fold lower than in maternal plasma.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -64,10 +64,10 @@ Because of the potential for fetal harm, discontinue WEGOVY in patients at least
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of WEGOVY as an adjunct to a reduced calorie diet and increased physical activity for chronic weight management have been established in pediatric patients aged 12 years and older with a BMI corresponding to ≥95th percentile standardized for age and sex.
-Use of WEGOVY for this indication is supported by a 68-week, double-blind, placebo-controlled clinical trial in 201 pediatric patients aged 12 years and older with a BMI corresponding to ≥95th percentile for age and sex and from studies in adult patients with obesity [see Clinical Studies (14.2)].
+The safety and effectiveness of WEGOVY as an adjunct to a reduced calorie diet and increased physical activity for weight reduction and long-term maintenance have been established in pediatric patients aged 12 years and older with obesity.
+Use of WEGOVY for this indication is supported by a 68-week, double-blind, placebo-controlled clinical trial in 201 pediatric patients aged 12 years and older with a BMI corresponding to ≥95th percentile for age and sex and from studies in adult patients with obesity [see Clinical Studies (14.3)].
 
-Adverse reactions with WEGOVY treatment in pediatric patients aged 12 years and older were similar to those reported in adults.
+Adverse reactions with WEGOVY treatment in pediatric patients aged 12 years and older were generally similar to those reported in adults.
 Pediatric patients aged 12 years and older treated with WEGOVY had greater incidences of cholelithiasis, cholecystitis, hypotension, rash, and urticaria compared to adults treated with WEGOVY [see Adverse Reactions (6.1)].
 
 There are insufficient data in pediatric patients with type 2 diabetes treated with WEGOVY for obesity to determine if there is an increased risk of hypoglycemia with WEGOVY treatment similar to that reported in adults.
@@ -79,8 +79,11 @@ The safety and effectiveness of WEGOVY have not been established in pediatric pa
 
 ## 8.5 Geriatric Use
 
-In the WEGOVY clinical trials, 233 (9%) WEGOVY-treated patients were between 65 and 75 years of age and 23 (1%) WEGOVY-treated patients were 75 years of age and over [see Clinical Studies (14.1)].
-No overall differences in safety or effectiveness have been observed between patients 65 years of age and older and younger adult patients.
+In the WEGOVY clinical trials for weight reduction and long-term maintenance, 233 (9%) WEGOVY-treated patients were aged 65 to 75 years and 23 (1%) WEGOVY-treated patients were aged 75 years and older [see Clinical Studies (14.2)].
+In a cardiovascular outcomes trial, 2656 (30%) WEGOVY-treated patients were aged 65 to 75 years and 703 (8%) WEGOVY-treated patients were aged 75 years and older [see Clinical Studies (14.1)].
+No overall difference in effectiveness was observed between patients aged 65 years and older and younger adult patients.
+In the cardiovascular outcomes trial, patients aged 75 years and older reported more fractures of the hip and pelvis on WEGOVY than on placebo.
+Patients aged 75 years and older (WEGOVY-treated and placebo-treated) reported more serious adverse reactions overall compared to younger adult patients [see Adverse Reactions (6.1)].
 
 ## 8.6 Renal Impairment
 

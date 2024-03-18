@@ -1,182 +1,37 @@
 # Medication Guide
 
-WEGOVY® (wee-GOH-vee)
-
-(semaglutide) injection, for subcutaneous use
-
-Read this Medication Guide and Instructions for Use before you start using WEGOVY and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
-
-What is the most important information I should know about WEGOVY?
-
-WEGOVY may cause serious side effects, including:
-
-- •Possible thyroid tumors, including cancer.
-  Tell your healthcare provider if you get a lump or swelling in your neck, hoarseness, trouble swallowing, or shortness of breath.
-  These may be symptoms of thyroid cancer.
-  In studies with rodents, WEGOVY and medicines that work like WEGOVY caused thyroid tumors, including thyroid cancer.
-  It is not known if WEGOVY will cause thyroid tumors or a type of thyroid cancer called medullary thyroid carcinoma (MTC) in people.
-- •Do not use WEGOVY if you or any of your family have ever had a type of thyroid cancer called medullary thyroid carcinoma (MTC), or if you have an endocrine system condition called Multiple Endocrine Neoplasia syndrome type 2 (MEN 2).
-
-What is WEGOVY?
-
-WEGOVY is an injectable prescription medicine that may help adults and children aged 12 years and older with obesity, or some adults with excess weight (overweight) who also have weight-related medical problems to help them lose weight and keep the weight off.
-
-- •WEGOVY should be used with a reduced calorie meal plan and increased physical activity.
-- •WEGOVY contains semaglutide and should not be used with other semaglutide-containing products or other GLP-1 receptor agonist medicines.
-- •It is not known if WEGOVY is safe and effective when taken with other prescription, over-the-counter, or herbal weight loss products.
-- •It is not known if WEGOVY can be used safely in people with a history of pancreatitis.
-- •It is not known if WEGOVY is safe and effective for use in children under 12 years of age.
-
-Do not use WEGOVY if:
-
-- •you or any of your family have ever had a type of thyroid cancer called medullary thyroid carcinoma (MTC) or if you have an endocrine system condition called Multiple Endocrine Neoplasia syndrome type 2 (MEN 2).
-- •you have had a serious allergic reaction to semaglutide or any of the ingredients in WEGOVY.
-  See the end of this Medication Guide for a complete list of ingredients in WEGOVY.
-  Symptoms of a serious allergic reaction include:
-
-| oswelling of your face, lips, tongue or throat | ofainting or feeling dizzy |
-| --- | --- |
-| oproblems breathing or swallowing | overy rapid heartbeat |
-| osevere rash or itching |  |
-
-Before using WEGOVY, tell your healthcare provider if you have any other medical conditions, including if you:
-
-- •have or have had problems with your pancreas or kidneys.
-- •have type 2 diabetes and a history of diabetic retinopathy.
-- •have or have had depression or suicidal thoughts, or mental health issues.
-- •are pregnant or plan to become pregnant.
-  WEGOVY may harm your unborn baby.
-  You should stop using WEGOVY 2 months before you plan to become pregnant.
-  - oPregnancy Exposure Registry: There is a pregnancy exposure registry for women who use WEGOVY during pregnancy.
-    The purpose of this registry is to collect information about the health of you and your baby.
-    Talk to your healthcare provider about how you can take part in this registry or you may contact Novo Nordisk at 1-877-390-2760.
-- •are breastfeeding or plan to breastfeed.
-  It is not known if WEGOVY passes into your breast milk.
-  You should talk with your healthcare provider about the best way to feed your baby while using WEGOVY.
-
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-WEGOVY may affect the way some medicines work and some medicines may affect the way WEGOVY works.
-Tell your healthcare provider if you are taking other medicines to treat diabetes, including sulfonylureas or insulin.
-WEGOVY slows stomach emptying and can affect medicines that need to pass through the stomach quickly.
-
-Know the medicines you take.
-Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
-
-How should I use WEGOVY?
-
-- •Read the Instructions for Use that comes with WEGOVY.
-- •Use WEGOVY exactly as your healthcare provider tells you to.
-- •Your healthcare provider should show you how to use WEGOVY before you use it for the first time.
-- •WEGOVY is injected under the skin (subcutaneously) of your stomach (abdomen), thigh, or upper arm.
-  Do not inject WEGOVY into a muscle (intramuscularly) or vein (intravenously).
-- •Change (rotate) your injection site with each injection.
-  Do not use the same site for each injection.
-- •Use WEGOVY 1 time each week, on the same day each week, at any time of the day.
-- •Start WEGOVY with 0.25 mg per week in your first month.
-  In your second month, increase your weekly dose to 0.5 mg.
-  In the third month, increase your weekly dose to 1 mg.
-  In the fourth month, increase your weekly dose to 1.7 mg.
-  In the fifth month onwards, your healthcare provider may either maintain your dose at 1.7 mg weekly or increase your weekly dose to 2.4 mg.
-- •If you need to change the day of the week, you may do so as long as your last dose of WEGOVY was given 2 or more days before.
-- •If you miss a dose of WEGOVY and the next scheduled dose is more than 2 days away (48 hours), take the missed dose as soon as possible.
-  If you miss a dose of WEGOVY and the next schedule dose is less than 2 days away (48 hours), do not administer the dose.
-  Take your next dose on the regularly scheduled day.
-- •If you miss doses of WEGOVY for more than 2 weeks, take your next dose on the regularly scheduled day or call your healthcare provider to talk about how to restart your treatment.
-- •You can take WEGOVY with or without food.
-- •If you take too much WEGOVY, you may have severe nausea, severe vomiting and severe low blood sugar.
-  Call your healthcare provider or go to the nearest hospital emergency room right away if you experience any of these symptoms.
-
-What are the possible side effects of WEGOVY?
-
-WEGOVY may cause serious side effects, including:
-
-- •See “What is the most important information I should know about WEGOVY?”
-- •inflammation of your pancreas (pancreatitis).
-  Stop using WEGOVY and call your healthcare provider right away if you have severe pain in your stomach area (abdomen) that will not go away, with or without vomiting.
-  You may feel the pain from your abdomen to your back.
-- •gallbladder problems.
-  WEGOVY may cause gallbladder problems including gallstones.
-  Some gallbladder problems need surgery.
-  Call your healthcare provider if you have any of the following symptoms:
-
-| opain in your upper stomach (abdomen) | oyellowing of skin or eyes (jaundice) |
-| --- | --- |
-| ofever | oclay-colored stools |
-
-- •increased risk of low blood sugar (hypoglycemia) in patients with type 2 diabetes, especially those who also take medicines to treat type 2 diabetes mellitus such as sulfonylureas or insulin.
-  Low blood sugar in patients with type 2 diabetes who receive WEGOVY can be both a serious and common side effect.
-  Talk to your healthcare provider about how to recognize and treat low blood sugar.
-  You should check your blood sugar before you start taking WEGOVY and while you take WEGOVY.
-  Signs and symptoms of low blood sugar may include:
-
-| odizziness or light-headedness | osweating | oshakiness |
-| --- | --- | --- |
-| oblurred vision | oslurred speech | oweakness |
-| oanxiety | ohunger | oheadache |
-| oirritability or mood changes | oconfusion or drowsiness | ofast heartbeat |
-|  |  | ofeeling jittery |
-
-- •kidney problems (kidney failure).
-  In people who have kidney problems, diarrhea, nausea, and vomiting may cause a loss of fluids (dehydration) which may cause kidney problems to get worse.
-  It is important for you to drink fluids to help reduce your chance of dehydration.
-- •serious allergic reactions.
-  Stop using WEGOVY and get medical help right away, if you have any symptoms of a serious allergic reaction including:
-
-| oswelling of your face, lips, tongue or throat | osevere rash or itching | overy rapid heartbeat |
-| --- | --- | --- |
-| oproblems breathing or swallowing | ofainting or feeling dizzy |  |
-
-- •change in vision in people with type 2 diabetes.
-  Tell your healthcare provider if you have changes in vision during treatment with WEGOVY.
-- •increased heart rate.
-  WEGOVY can increase your heart rate while you are at rest.
-  Your healthcare provider should check your heart rate while you take WEGOVY.
-  Tell your healthcare provider if you feel your heart racing or pounding in your chest and it lasts for several minutes.
-- •depression or thoughts of suicide.
-  You should pay attention to any mental changes, especially sudden changes in your mood, behaviors, thoughts, or feelings.
-  Call your healthcare provider right away if you have any mental changes that are new, worse, or worry you.
-
-The most common side effects of WEGOVY in adults or children aged 12 years and older may include:
-
-| •nausea | •stomach (abdomen) pain | •dizziness | •stomach flu |
-| --- | --- | --- | --- |
-| •diarrhea | •headache | •feeling bloated | •heartburn |
-| •vomiting | •tiredness (fatigue) | •belching | •runny nose or sore throat |
-| •constipation | •upset stomach | •gas |  |
-
-Talk to your healthcare provider about any side effect that bothers you or does not go away.
-These are not all the possible side effects of WEGOVY.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1‑800‑FDA‑1088.
-
-General information about the safe and effective use of WEGOVY.
-
-Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use WEGOVY for a condition for which it was not prescribed.
-Do not give WEGOVY to other people, even if they have the same symptoms that you have.
-It may harm them.
-
-You can ask your pharmacist or healthcare provider for information about WEGOVY that is written for health professionals.
-
-What are the ingredients in WEGOVY?
-
-Active Ingredient: semaglutide
-
-Inactive Ingredients: disodium phosphate dihydrate, 1.42 mg; sodium chloride, 8.25 mg; water for injection; and hydrochloric acid or sodium hydroxide may be added to adjust pH.
-
-Manufactured by: Novo Nordisk A/S, DK-2880 Bagsvaerd, Denmark
-
-WEGOVY® is a registered trademark of Novo Nordisk A/S.
-
-PATENT Information: http://novonordisk-us.com/products/product-patents.html
-
-© 2023 Novo Nordisk
-
-For more information, go to startWegovy.com or call 1-833-Wegovy-1.
+| Medication GuideWEGOVY® (wee-GOH-vee)(semaglutide) injection, for subcutaneous use |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Read this Medication Guide and Instructions for Use before you start using WEGOVY and each time you get a refill. There may be new information. This information does not take the place of talking to your healthcare provider about your medical condition or your treatment. |  |  |  |  |  |
+| What is the most important information I should know about WEGOVY?WEGOVY may cause serious side effects, including: •Possible thyroid tumors, including cancer. Tell your healthcare provider if you get a lump or swelling in your neck, hoarseness, trouble swallowing, or shortness of breath. These may be symptoms of thyroid cancer. In studies with rodents, WEGOVY and medicines that work like WEGOVY caused thyroid tumors, including thyroid cancer. It is not known if WEGOVY will cause thyroid tumors or a type of thyroid cancer called medullary thyroid carcinoma (MTC) in people.•Do not use WEGOVY if you or any of your family have ever had a type of thyroid cancer called medullary thyroid carcinoma (MTC), or if you have an endocrine system condition called Multiple Endocrine Neoplasia syndrome type 2 (MEN 2). |  |  |  |  |  |
+| What is WEGOVY? •WEGOVY is an injectable prescription medicine used with a reduced calorie diet and increased physical activity: oto reduce the risk of major cardiovascular events such as death, heart attack, or stroke in adults with known heart disease and with either obesity or overweight.othat may help adults and children aged 12 years and older with obesity, or some adults with overweight who also have weight-related medical problems, to help them lose excess body weight and keep the weight off.•WEGOVY contains semaglutide and should not be used with other semaglutide-containing products or other GLP-1 receptor agonist medicines.•It is not known if WEGOVY is safe and effective for use in children under 12 years of age. |  |  |  |  |  |
+| Do not use WEGOVY if: •you or any of your family have ever had a type of thyroid cancer called medullary thyroid carcinoma (MTC) or if you have an endocrine system condition called Multiple Endocrine Neoplasia syndrome type 2 (MEN 2).•you have had a serious allergic reaction to semaglutide or any of the ingredients in WEGOVY. See the end of this Medication Guide for a complete list of ingredients in WEGOVY. Symptoms of a serious allergic reaction include: |  |  |  |  |  |
+| oswelling of your face, lips, tongue or throat |  |  | ofainting or feeling dizzy |  |  |
+| oproblems breathing or swallowing |  |  | overy rapid heartbeat |  |  |
+| osevere rash or itching |  |  |  |  |  |
+| Before using WEGOVY, tell your healthcare provider if you have any other medical conditions, including if you: •have or have had problems with your pancreas or kidneys.•have type 2 diabetes and a history of diabetic retinopathy.•have or have had depression or suicidal thoughts, or mental health issues.•are pregnant or plan to become pregnant. WEGOVY may harm your unborn baby. You should stop using WEGOVY 2 months before you plan to become pregnant. oPregnancy Exposure Registry: There is a pregnancy exposure registry for women who use WEGOVY during pregnancy. The purpose of this registry is to collect information about the health of you and your baby. Talk to your healthcare provider about how you can take part in this registry or you may contact Novo Nordisk at 1-877-390-2760. •are breastfeeding or plan to breastfeed. It is not known if WEGOVY passes into your breast milk. You should talk with your healthcare provider about the best way to feed your baby while using WEGOVY. Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. WEGOVY may affect the way some medicines work and some medicines may affect the way WEGOVY works. Tell your healthcare provider if you are taking other medicines to treat diabetes, including sulfonylureas or insulin. WEGOVY slows stomach emptying and can affect medicines that need to pass through the stomach quickly. Know the medicines you take. Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine. |  |  |  |  |  |
+| How should I use WEGOVY? •Read the Instructions for Use that comes with WEGOVY.•Use WEGOVY exactly as your healthcare provider tells you to.•Your healthcare provider should show you how to use WEGOVY before you use it for the first time.•WEGOVY is injected under the skin (subcutaneously) of your stomach (abdomen), thigh, or upper arm. Do not inject WEGOVY into a muscle (intramuscularly) or vein (intravenously).•Change (rotate) your injection site with each injection. Do not use the same site for each injection.•Use WEGOVY 1 time each week, on the same day each week, at any time of the day.•Start WEGOVY with 0.25 mg per week in your first month. In your second month, increase your weekly dose to 0.5 mg. In the third month, increase your weekly dose to 1 mg. In the fourth month, increase your weekly dose to 1.7 mg. In the fifth month onwards, your healthcare provider may either maintain your dose at 1.7 mg weekly or increase your weekly dose to 2.4 mg.•If you need to change the day of the week, you may do so as long as your last dose of WEGOVY was given 2 or more days before.•If you miss a dose of WEGOVY and the next scheduled dose is more than 2 days away (48 hours), take the missed dose as soon as possible. If you miss a dose of WEGOVY and the next schedule dose is less than 2 days away (48 hours), do not administer the dose. Take your next dose on the regularly scheduled day.•If you miss doses of WEGOVY for more than 2 weeks, take your next dose on the regularly scheduled day or call your healthcare provider to talk about how to restart your treatment.•You can take WEGOVY with or without food.•If you take too much WEGOVY, you may have severe nausea, severe vomiting and severe low blood sugar. Call your healthcare provider or go to the nearest hospital emergency room right away if you experience any of these symptoms. |  |  |  |  |  |
+| What are the possible side effects of WEGOVY?WEGOVY may cause serious side effects, including: •See “What is the most important information I should know about WEGOVY?”•inflammation of your pancreas(pancreatitis). Stop using WEGOVY and call your healthcare provider right away if you have severe pain in your stomach area (abdomen) that will not go away, with or without vomiting. You may feel the pain from your abdomen to your back.•gallbladder problems. WEGOVY may cause gallbladder problems including gallstones. Some gallbladder problems need surgery. Call your healthcare provider if you have any of the following symptoms: |  |  |  |  |  |
+| opain in your upper stomach (abdomen) |  |  | oyellowing of skin or eyes (jaundice) |  |  |
+| ofever |  |  | oclay-colored stools |  |  |
+| •increased risk of low blood sugar (hypoglycemia), especially those who also take medicines to treat diabetes mellitus such as insulin or sulfonylureas. Low blood sugar in patients with diabetes who receive WEGOVY can be a serious side effect. Talk to your healthcare provider about how to recognize and treat low blood sugar. You should check your blood sugar before you start taking WEGOVY and while you take WEGOVY. Signs and symptoms of low blood sugar may include: |  |  |  |  |  |
+| odizziness or light-headedness |  | osweating |  |  | oshakiness |
+| oblurred vision |  | oslurred speech |  |  | oweakness |
+| oanxiety |  | ohunger |  |  | oheadache |
+| oirritability or mood changes |  | oconfusion or drowsiness |  |  |  |
+| ofast heartbeat |  | ofeeling jitteryt |  |  |  |
+| •kidney problems (kidney failure). In people who have kidney problems, diarrhea, nausea, and vomiting may cause a loss of fluids (dehydration) which may cause kidney problems to get worse. It is important for you to drink fluids to help reduce your chance of dehydration.•seriousallergic reactions. Stop using WEGOVY and get medical help right away, if you have any symptoms of a serious allergic reaction including: |  |  |  |  |  |
+| oswelling of your face, lips, tongue or throat |  | osevere rash or itching |  |  | overy rapid heartbeat |
+| oproblems breathing or swallowing |  | ofainting or feeling dizzy |  |  |  |
+| •change in vision in people with type 2 diabetes. Tell your healthcare provider if you have changes in vision during treatment with WEGOVY.•increased heart rate. WEGOVY can increase your heart rate while you are at rest. Your healthcare provider should check your heart rate while you take WEGOVY. Tell your healthcare provider if you feel your heart racing or pounding in your chest and it lasts for several minutes.•depression or thoughts of suicide. You should pay attention to any mental changes, especially sudden changes in your mood, behaviors, thoughts, or feelings. Call your healthcare provider right away if you have any mental changes that are new, worse, or worry you. The most common side effects of WEGOVY in adults or children aged 12 years and older may include: |  |  |  |  |  |
+| •nausea | •stomach (abdomen) pain |  | •dizziness | •gas |  |
+| •diarrhea | •headache |  | •feeling bloated | •stomach flu |  |
+| •vomiting | •tiredness (fatigue) |  | •belching | •heartburn |  |
+| •constipation | •upset stomach |  | •low blood sugar in people with type 2 diabetes | •runny nose or sore throat |  |
+| Talk to your healthcare provider about any side effect that bothers you or does not go away. These are not all the possible side effects of WEGOVY. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1‑800‑FDA‑1088. |  |  |  |  |  |
+| General information about the safe and effective use of WEGOVY.Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use WEGOVY for a condition for which it was not prescribed. Do not give WEGOVY to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about WEGOVY that is written for health professionals. |  |  |  |  |  |
+| What are the ingredients in WEGOVY?Active Ingredient: semaglutideInactive Ingredients: disodium phosphate dihydrate, 1.42 mg; sodium chloride, 8.25 mg; water for injection; and hydrochloric acid or sodium hydroxide may be added to adjust pH. |  |  |  |  |  |
+| Manufactured by: Novo Nordisk A/S, DK-2880 Bagsvaerd, Denmark WEGOVY® is a registered trademark of Novo Nordisk A/S. PATENT Information: http://novonordisk-us.com/products/product-patents.html © 2024 Novo Nordisk For more information, go to startWegovy.com or call 1-833-Wegovy-1. |  |  |  |  |  |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Issued: 07/2023
+Revised 03/2024

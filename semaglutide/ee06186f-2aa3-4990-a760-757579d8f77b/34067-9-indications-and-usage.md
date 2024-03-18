@@ -1,14 +1,13 @@
 # 1 INDICATIONS AND USAGE
 
-WEGOVY is indicated as an adjunct to a reduced calorie diet and increased physical activity for chronic weight management in:
+WEGOVY is indicated in combination with a reduced calorie diet and increased physical activity:
 
-- •adults with an initial body mass index (BMI) of [see Dosage and Administration (2.1)]:
-  - o30 kg/m2 or greater (obesity) or
-  - o27 kg/m2 or greater (overweight) in the presence of at least one weight-related comorbid condition (e.g., hypertension, type 2 diabetes mellitus, or dyslipidemia)
-- •pediatric patients aged 12 years and older with an initial BMI at the 95th percentile or greater standardized for age and sex (obesity) [see Dosage and Administration (2.1)]
+- •to reduce the risk of major adverse cardiovascular events (cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke) in adults with established cardiovascular disease and either obesity or overweight.
+- •to reduce excess body weight and maintain weight reduction long term in:
+  - oAdults and pediatric patients aged 12 years and older with obesity
+- oAdults with overweight in the presence of at least one weight-related comorbid condition.
 
-Limitation of Use
+Limitations of Use
 
-- •WEGOVY contains semaglutide and should not be coadministered with other semaglutide-containing products or with any other GLP-1 receptor agonist.
-- •The safety and effectiveness of WEGOVY in combination with other products intended for weight loss, including prescription drugs, over-the-counter drugs, and herbal preparations, have not been established.
-- •WEGOVY has not been studied in patients with a history of pancreatitis [see Warnings and Precautions (5.2)].
+- •WEGOVY contains semaglutide.
+  Coadministration with other semaglutide-containing products or with any other GLP-1 receptor agonist is not recommended.
