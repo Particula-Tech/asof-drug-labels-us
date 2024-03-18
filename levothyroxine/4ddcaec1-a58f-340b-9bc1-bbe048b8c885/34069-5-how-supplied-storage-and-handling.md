@@ -1,6 +1,11 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Levothyroxine Sodium Tablets, in the shape of caplet are supplied as follows:
+How Supplied
+
+Levothyroxine Sodium Tablets, in the shape of caplet are supplied as follows (Table 11):
+
+Table 11.
+Levothyroxine Sodium Tablet Presentations
 
 | Strength (mcg) | Color | Tablet Markings | NDC# for bottles of 90 | NDC# for bottles of 1,000 |
 | --- | --- | --- | --- | --- |
@@ -17,7 +22,7 @@ Levothyroxine Sodium Tablets, in the shape of caplet are supplied as follows:
 | 200 mcg | Pink | "T\|4" and "200" | 47781-668-90 | 47781-668-10 |
 | 300 mcg | Green | "T\|4" and "300" | 47781-671-90 | 47781-671-10 |
 
-Storage Conditions
+Storage and Handling
 
-Store at 25°C (77°F); excursions permitted to 15° C to 30° C (59° F to 86° F) [see USP Controlled Room Temperature].
-Levothyroxine Sodium Tablets should be protected from light and moisture.
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C and 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Protect Levothyroxine Sodium Tablets from light and moisture.

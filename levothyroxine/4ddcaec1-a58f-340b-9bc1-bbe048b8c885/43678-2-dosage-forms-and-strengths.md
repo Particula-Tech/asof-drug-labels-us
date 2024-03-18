@@ -1,6 +1,9 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Levothyroxine Sodium Tablets, in the shape of caplet are available as follows:
+Levothyroxine Sodium Tablets, in the shape of caplet, are available as follows (Table 4):
+
+Table 4.
+Levothyroxine Sodium Tablets Tablet Strengths and Identifying Features
 
 | Tablet Strength | Tablet Color | Tablet Markings |
 | --- | --- | --- |

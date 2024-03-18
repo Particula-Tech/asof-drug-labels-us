@@ -2,20 +2,20 @@
 
 ## 7.1 Drugs Known to Affect Thyroid Hormone Pharmacokinetics
 
-Many drugs can exert effects on thyroid hormone pharmacokinetics and metabolism (e.g., absorption, synthesis, secretion, catabolism, protein binding, and target tissue response) and may alter the therapeutic response to Levothyroxine Sodium Tablets (see Tables 2-5 below).
+Many drugs can exert effects on thyroid hormone pharmacokinetics and metabolism (e.g., absorption, synthesis, secretion, catabolism, protein binding, and target tissue response) and may alter the therapeutic response to Levothyroxine Sodium Tablets (Tables 5 to 8).
 
-Table 2.
+Table 5.
 Drugs That May Decrease T4 Absorption (Hypothyroidism)
 
 | Drug or Drug Class | Effect |
 | --- | --- |
 | Potential impact: Concurrent use may reduce the efficacy of Levothyroxine Sodium Tablets by binding and delaying or preventing absorption, potentially resulting in hypothyroidism. |  |
-| Calcium Carbonate Ferrous Sulfate | Calcium carbonate may form an insoluble chelate with levothyroxine, and ferrous sulfate likely forms a ferric-thyroxine complex. Administer Levothyroxine Sodium Tablets at least 4 hours apart from these agents. |
+| Phosphate Binders (e.g., calcium carbonate, ferrous sulfate, sevelamer, lanthanum) | Phosphate binders may bind to levothyroxine. Administer Levothyroxine Sodium Tablets at least 4 hours apart from these agents. |
 | Orlistat | Monitor patients treated concomitantly with orlistat and Levothyroxine Sodium Tablets for changes in thyroid function. |
-| Bile Acid Sequestrants - Colesevelam - Cholestyramine - Colestipol Ion Exchange Resins - Kayexalate - Sevelamer | Bile acid sequestrants and ion exchange resins are known to decrease levothyroxine absorption. Administer Levothyroxine Sodium Tablets at least 4 hours prior to these drugs or monitor TSH levels. |
-| Other drugs: Proton Pump Inhibitors Sucralfate Antacids - Aluminum & Magnesium Hydroxides - Simethicone | Gastric acidity is an essential requirement for adequate absorption of levothyroxine. Sucralfate, antacids and proton pump inhibitors may cause hypochlorhydria, affect intragastric pH, and reduce levothyroxine absorption. Monitor patients appropriately. |
+| Bile Acid Sequestrants (e.g., colesevelam, cholestyramine, colestipol) Ion Exchange Resins (e.g., Kayexalate) | Bile acid sequestrants and ion exchange resins are known to decrease levothyroxine absorption. Administer Levothyroxine Sodium Tablets at least 4 hours prior to these drugs or monitor TSH levels. |
+| Proton Pump Inhibitors Sucralfate Antacids (e.g., aluminum & magnesium hydroxides, simethicone) | Gastric acidity is an essential requirement for adequate absorption of levothyroxine. Sucralfate, antacids and proton pump inhibitors may cause hypochlorhydria, affect intragastric pH, and reduce levothyroxine absorption. Monitor patients appropriately. |
 
-Table 3.
+Table 6.
 Drugs That May Alter T4 and Triiodothyronine (T3) Serum Transport Without Affecting Free Thyroxine (FT4) Concentration (Euthyroidism)
 
 | Drug or Drug Class | Effect |
@@ -26,7 +26,7 @@ Drugs That May Alter T4 and Triiodothyronine (T3) Serum Transport Without Affect
 | Salicylates (greater than 2 g/day) | Salicylates inhibit binding of T4 and T3 to TBG and transthyretin. An initial increase in serum FT4 is followed by return of FT4 to normal levels with sustained therapeutic serum salicylate concentrations, although total T4 levels may decrease by as much as 30%. |
 | Other drugs: Carbamazepine Furosemide (greater than 80 mg IV) Heparin Hydantoins Non-Steroidal Anti-inflammatory Drugs - Fenamates | These drugs may cause protein-binding site displacement. Furosemide has been shown to inhibit the protein binding of T4 to TBG and albumin, causing an increase free T4 fraction in serum. Furosemide competes for T4-binding sites on TBG, prealbumin, and albumin, so that a single high dose can acutely lower the total T4 level. Phenytoin and carbamazepine reduce serum protein binding of levothyroxine, and total and free T4 may be reduced by 20% to 40%, but most patients have normal serum TSH levels and are clinically euthyroid. Closely monitor thyroid hormone parameters. |
 
-Table 4.
+Table 7.
 Drugs That May Alter Hepatic Metabolism of T4 (Hypothyroidism)
 
 | Drug or Drug Class | Effect |
@@ -34,7 +34,7 @@ Drugs That May Alter Hepatic Metabolism of T4 (Hypothyroidism)
 | Potential impact: Stimulation of hepatic microsomal drug-metabolizing enzyme activity may cause increased hepatic degradation of levothyroxine, resulting in increased Levothyroxine Sodium Tablets requirements. |  |
 | Phenobarbital Rifampin | Phenobarbital has been shown to reduce the response to thyroxine. Phenobarbital increases L-thyroxine metabolism by inducing uridine 5'-diphospho-glucuronosyltransferase (UGT) and leads to a lower T4 serum levels. Changes in thyroid status may occur if barbiturates are added or withdrawn from patients being treated for hypothyroidism. Rifampin has been shown to accelerate the metabolism of levothyroxine. |
 
-Table 5.
+Table 8.
 Drugs That May Decrease Conversion of T4 to T3
 
 | Drug or Drug Class | Effect |

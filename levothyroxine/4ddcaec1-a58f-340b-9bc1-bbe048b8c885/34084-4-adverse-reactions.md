@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-Adverse reactions associated with Levothyroxine Sodium Tablets therapy are primarily those of hyperthyroidism due to therapeutic overdosage [see Warnings and Precautions (5), Overdosage (10)].
+Adverse reactions associated with Levothyroxine Sodium Tablets therapy are primarily those of hyperthyroidism due to therapeutic overdosage [see Warnings and Precautions (5) and Overdosage (10)].
 They include the following:
 
 - General: fatigue, increased appetite, weight loss, heat intolerance, fever, excessive sweating
@@ -15,10 +15,10 @@ They include the following:
 
 Seizures have been reported rarely with the institution of levothyroxine therapy.
 
-Adverse Reactions in Children
+Adverse Reactions in Pediatric Patients
 
-Pseudotumor cerebri and slipped capital femoral epiphysis have been reported in children receiving levothyroxine therapy.
-Overtreatment may result in craniosynostosis in infants and premature closure of the epiphyses in children with resultant compromised adult height.
+Pseudotumor cerebri and slipped capital femoral epiphysis have been reported in pediatric patients receiving levothyroxine therapy.
+Overtreatment may result in craniosynostosis in infants who have not undergone complete closure of the fontanelles, and in premature closure of the epiphyses in pediatric patients still experiencing growth with resultant compromised adult height.
 
 Hypersensitivity Reactions
 
