@@ -58,7 +58,7 @@ Adequate diagnostic measures, including directed or random endometrial sampling 
 
 Breast Cancer
 
-The most important randomized clinical study providing information about breast cancer in estrogen-alone users is the WHI substudy of daily conjugated estrogens (0.625 mg)-alone.
+The WHI substudy of daily conjugated estrogens (0.625 mg)-alone provided information about breast cancer in estrogen‑alone users.
 In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily conjugated estrogen (0.625 mg)-alone was not associated with an increased risk of invasive breast cancer (relative risk [RR] 0.80).
 
 The use of estrogen-alone has been reported to result in an increase in abnormal mammograms requiring further evaluation.

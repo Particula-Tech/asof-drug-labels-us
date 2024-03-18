@@ -185,6 +185,6 @@ Inactive Ingredients: calcium phosphate tribasic, hydroxypropyl cellulose, micro
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 This product's labeling may have been updated.
-For the most recent prescribing information, please visit www.pfizer.com or call 1-800-438-1985..
+For the most recent prescribing information, please visit www.pfizer.com or call 1-800-438-1985.
 
 LAB-0583-6.0 Revised December 2022

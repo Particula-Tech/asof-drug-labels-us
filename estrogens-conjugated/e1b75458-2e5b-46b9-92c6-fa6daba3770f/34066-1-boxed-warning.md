@@ -12,6 +12,6 @@
 Only daily oral 0.625 mg CE was studied in the estrogen-alone substudy of the WHI.
 Therefore, the relevance of the WHI findings regarding adverse cardiovascular events and dementia to lower CE doses, other routes of administration, or other estrogen-alone products is not known.
 Without such data, it is not possible to definitively exclude these risks or determine the extent of these risks for other products.
-Discuss with your patient the benefits and risks of estrogen-alone therapy, taking into account her individual risk profile
+Discuss with your patient the benefits and risks of estrogen-alone therapy, taking into account her individual risk profile.
 
 Estrogens should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.
