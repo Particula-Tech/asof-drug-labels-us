@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Progesterone Capsules, 100 mg and 200 mg
+Progesterone Capsules, 100 mg and 200 mg Rx only
 
 Read this PATIENT INFORMATION before you start taking progesterone capsules and read what you get each time you refill your progesterone capsules prescription.
 There may be new information.
@@ -132,7 +132,7 @@ Keep progesterone capsules out of the reach of children.
 This leaflet provides a summary of the most important information about progesterone capsules.
 If you would like more information, talk with your healthcare provider or pharmacist.
 You can ask for information about progesterone capsules that is written for health professionals.
-You can get more information by calling the toll free number 1-800-241-1643.
+You can get more information by calling the toll free number 1-888-375-3784.
 
 What are the ingredients in progesterone capsules?
 
