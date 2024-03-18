@@ -35,7 +35,7 @@ Reactions include neutropenia, which resolves after penicillin therapy is discon
 
 ## Metabolic
 
-Penicillin G Potassium, USP (1 million units contains 1.7 mEq of potassium ion) may cause serious and even fatal electrolyte disturbances, i.e., hyperkalemia, when given intravenously in large doses.
+Penicillin G Potassium for Injection, USP (1 million units contains 1.68 mEq of potassium ion) may cause serious and even fatal electrolyte disturbances, i.e., hyperkalemia, when given intravenously in large doses.
 
 ## Nervous system
 

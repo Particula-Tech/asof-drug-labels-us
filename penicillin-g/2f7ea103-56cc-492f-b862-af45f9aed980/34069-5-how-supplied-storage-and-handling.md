@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Buffered Pfizerpen® (penicillin G potassium) for Injection is available in the following package sizes, buffered with sodium citrate and citric acid to an optimum pH:
+Buffered Pfizerpen® (Penicillin G Potassium for Injection, USP) is available in the following package sizes, buffered with sodium citrate and citric acid to an optimum pH:
 
 | 10 vials per carton | 5,000,000 units each vial | NDC 0049-0420-10 |
 | --- | --- | --- |
