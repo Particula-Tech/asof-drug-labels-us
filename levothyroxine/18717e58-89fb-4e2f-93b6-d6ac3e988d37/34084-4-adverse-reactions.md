@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-Adverse reactions associated with levothyroxine sodium tablets therapy are primarily those of hyperthyroidism due to therapeutic overdosage [see Warnings and Precautions (5), Overdosage (10)].
+Adverse reactions associated with levothyroxine sodium tablets therapy are primarily those of hyperthyroidism due to therapeutic overdosage [see Warnings and Precautions (5) and Overdosage (10)].
 They include the following:
 
 - General:fatigue, increased appetite, weight loss, heat intolerance, fever, excessive sweating
