@@ -14,4 +14,4 @@ Subcutaneous ENTYVIO
 
 ENTYVIO (vedolizumab) injection is supplied as a sterile, clear to moderately opalescent, colorless to slightly yellow, preservative-free solution for subcutaneous administration.
 
-Each single-dose prefilled syringe or single-dose prefilled pen (ENTYVIO PEN) contains 108 mg vedolizumab, arginine hydrochloride (19.51 mg), citric acid monohydrate (0.2 mg), histidine (4.25 mg), histidine monohydrochloride (2.04 mg), polysorbate 80 (1.48 mg), sodium citrate dihydrate (5.17 mg) and Sterile Water for Injection, USP, at a pH of 6.5.
+Each single-dose prefilled syringe or single-dose prefilled pen (ENTYVIO PEN) contains 108 mg vedolizumab, arginine hydrochloride (17.77 mg), citric acid monohydrate (0.18 mg), histidine (3.86 mg), histidine monohydrochloride (1.86 mg), polysorbate 80 (1.35 mg), sodium citrate dihydrate (4.71 mg) and Sterile Water for Injection, USP, at a pH of 6.5.
