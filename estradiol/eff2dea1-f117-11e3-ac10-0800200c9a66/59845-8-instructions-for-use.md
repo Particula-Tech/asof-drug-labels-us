@@ -42,9 +42,7 @@ Inactive ingredients: purified water, ethanol, propylene glycol, diethylene glyc
 
 ELESTRIN is a registered trademark of Meda Pharma S.A.R.L., a Viatris Company.
 
-Distributed by: MEDA Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
-
-© 2024 Viatris Inc.
+Distributed by: MEDA Pharmaceuticals Inc. Canonsburg, PA 15317 U.S.A. © 2024 Viatris Inc.
 
 Rev.
-02/2024 IN-0480-XX1 140893
+12/2023 IN-0480-08 141343-1223
