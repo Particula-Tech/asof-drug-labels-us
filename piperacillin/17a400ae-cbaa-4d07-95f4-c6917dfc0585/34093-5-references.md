@@ -4,7 +4,3 @@
 Jensen J-US, Hein L, Lundgren B, et al. BMJ Open 2012;
 
 2:e000635. doi:10.1136.
-
-CLINITEST® is a registered trademark of Siemens Healthcare
-
-Diagnostics Inc.

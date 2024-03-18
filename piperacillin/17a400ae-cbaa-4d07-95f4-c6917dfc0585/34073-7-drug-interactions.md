@@ -15,7 +15,7 @@ In vitro inactivation
 Due to the in vitro inactivation of aminoglycosides by piperacillin, piperacillin and tazobactam for injection and aminoglycosides are recommended for separate administration.
 Piperacillin and tazobactam for injection and aminoglycosides should be reconstituted, diluted, and administered separately when concomitant therapy with aminoglycosides is indicated.
 Piperacillin and tazobactam for injection is compatible with amikacin and gentamicin for simultaneous Y-site infusion in certain diluents and at specific concentrations.
-Piperacillin and tazobactam for injection is not compatible with tobramycin for simultaneous Y-site infusion [see Dosage and Administration (2.7)].
+Piperacillin and tazobactam for injection is not compatible with tobramycin for simultaneous Y-site infusion [see Dosage and Administration (2.6)].
 
 ## 7.2 Probenecid
 
@@ -24,22 +24,22 @@ Probenecid should not be co-administered with piperacillin and tazobactam for in
 
 ## 7.3 Vancomycin
 
-Studies have detected an increased incidence of acute kidney injury in patients concomitantly administered piperacillin/tazobactam and vancomycin as compared to vancomycin alone [seeWarnings and Precautions (5.5)].
+Studies have detected an increased incidence of acute kidney injury in patients concomitantly administered piperacillin/tazobactam and vancomycin as compared to vancomycin alone [seeWarnings and Precautions (5.6)].
 
-Monitor kidney function in patients concomitantly administered with piperacillin/tazobactam and vancomycin.
+Monitor kidney function in patients concomitantly administered with piperacillin and tazobactam and vancomycin.
 
 No pharmacokinetic interactions have been noted between piperacillin/tazobactam and vancomycin.
 
 ## 7.4 Anticoagulants
 
 Coagulation parameters should be tested more frequently and monitored regularly during simultaneous administration of high doses of heparin, oral anticoagulants, or other drugs that may affect the blood coagulation system or the thrombocyte function.
-[see Warnings and Precautions (5.3)].
+[see Warnings and Precautions (5.4)].
 
 ## 7.5 Vecuronium
 
 Piperacillin when used concomitantly with vecuronium has been implicated in the prolongation of the neuromuscular blockade of vecuronium.
 Piperacillin and tazobactam for injection could produce the same phenomenon if given along with vecuronium.
-Due to their similar mechanism of action, it is expected that the neuromuscular blockade produced by any of the non-depolarizing muscle relaxants could be prolonged in the presence of piperacillin.
+Due to their similar mechanism of action, it is expected that the neuromuscular blockade produced by any of the non-depolarizing neuromuscular blockers could be prolonged in the presence of piperacillin.
 Monitor for adverse reactions related to neuromuscular blockade (see package insert for vecuronium bromide).
 
 ## 7.6 Methotrexate

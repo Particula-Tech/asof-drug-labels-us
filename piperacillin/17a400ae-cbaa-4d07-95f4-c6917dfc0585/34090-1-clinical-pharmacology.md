@@ -6,21 +6,21 @@ Piperacillin and tazobactam for injection is an antibacterial drug [see Microbio
 
 ## 12.2 Pharmacodynamics
 
-The pharmacodynamic parameter for piperacillin/tazobactam that is most predictive of clinical and microbiological efficacy is time above MIC.
+The pharmacodynamic parameter for piperacillin and tazobactam that is most predictive of clinical and microbiological efficacy is time above MIC.
 
 ## 12.3 Pharmacokinetics
 
-The mean and coefficients of variation (CV%) for the pharmacokinetic parameters of piperacillin and tazobactam after multiple intravenous doses are summarized in Table 7.
+The mean and coefficients of variation (CV%) for the pharmacokinetic parameters of piperacillin and tazobactam after multiple intravenous doses are summarized in Table 8.
 
-| Table 7. Mean (CV%) Piperacillin and Tazobactam PK Parameters Piperacillin |  |  |  |  |  |  |
+| Table 8. Mean (CV%) Piperacillin and Tazobactam PK Parameters |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Piperacillin |  |  |  |  |  |  |
-| Piperacillin/Tazobactam Dosea | Cmax mcg/mL | AUCb mcg•h/mL | CL mL/min | V L | T1/2 h | CLR mL/min |
+| Piperacillin and Tazobactam Dosea | Cmax (mcg/mL) | AUCb (mcg•h/mL) | CL (mL/min) | V (L) | T1/2 (h) | CLR (mL/min) |
 | 2.25 g | 134 | 131 (14) | 257 | 17.4 | 0.79 | -- |
 | 3.375 g | 242 | 242 (10) | 207 | 15.1 | 0.84 | 140 |
 | 4.5 g | 298 | 322 (16) | 210 | 15.4 | 0.84 | -- |
 | Tazobactam |  |  |  |  |  |  |
-| Piperacillin/Tazobactam Dosea | Cmax mcg/mL | AUCb mcg•h/mL | CL mL/min | V L | T1/2 h | CLR mL/min |
+| Piperacillin and Tazobactam Dosea | Cmax mcg/mL | AUCb mcg•h/mL | CL mL/min | V L | T1/2 h | CLR mL/min |
 | 2.25 g | 15 | 16.0 (21) | 258 | 17.0 | 0.77 | -- |
 | 3.375 g | 24 | 25.0 (8) | 251 | 14.8 | 0.68 | 166 |
 | 4.5 g | 34 | 39.8 (15) | 206 | 14.7 | 0.82 | -- |
@@ -38,9 +38,9 @@ Protein binding of the tazobactam metabolite is negligible.
 
 Piperacillin and tazobactam are widely distributed into tissues and body fluids including intestinal mucosa, gallbladder, lung, female reproductive tissues (uterus, ovary, and fallopian tube), interstitial fluid, and bile.
 Mean tissue concentrations are generally 50% to 100% of those in plasma.
-Distribution of piperacillin and tazobactam into cerebrospinal fluid is low in subjects with non-inflamed meninges, as with other penicillins (see Table 8).
+Distribution of piperacillin and tazobactam into cerebrospinal fluid is low in subjects with non-inflamed meninges, as with other penicillins (see Table 9).
 
-| Table 8. Piperacillin/Tazobactam Concentrations in Selected Tissues and Fluids after Single 4 g/0.5 g 30-min IV Infusion of Piperacillin and Tazobactam for Injection |  |  |  |  |  |  |
+| Table 9. Piperacillin/Tazobactam Concentrations in Selected Tissues and Fluids after Single 4 g/0.5 g 30-min IV Infusion of Piperacillin and Tazobactam for Injection |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tissue or Fluid | Na | Sampling periodb (h) | Mean PIP Concentration Range (mg/L) | Tissue:Plasma Range | Tazo Concentration Range (mg/L) | Tazo Tissue:Plasma Range |
 | Skin | 35 | 0.5 to 4.5 | 34.8 to 94.2 | 0.60 to 1.1 | 4.0 to 7.7 | 0.49 to 0.93 |
@@ -69,12 +69,12 @@ Specific Populations
 
 Renal Impairment
 
-After the administration of single doses of piperacillin/tazobactam to subjects with renal impairment, the half-life of piperacillin and of tazobactam increases with decreasing creatinine clearance.
+After the administration of single doses of piperacillin and tazobactam to subjects with renal impairment, the half-life of piperacillin and of tazobactam increases with decreasing creatinine clearance.
 At creatinine clearance below 20 mL/min, the increase in half-life is twofold for piperacillin and fourfold for tazobactam compared to subjects with normal renal function.
 Dosage adjustments for piperacillin and tazobactam for injection are recommended when creatinine clearance is below 40 mL/min in patients receiving the usual recommended daily dose of piperacillin and tazobactam for injection.
 See Dosage and Administration (2) for specific recommendations for the treatment of patients with renal impairment.
 
-Hemodialysis removes 30% to 40% of a piperacillin/tazobactam dose with an additional 5% of the tazobactam dose removed as the tazobactam metabolite.
+Hemodialysis removes 30% to 40% of a piperacillin and tazobactam dose with an additional 5% of the tazobactam dose removed as the tazobactam metabolite.
 Peritoneal dialysis removes approximately 6% and 21% of the piperacillin and tazobactam doses, respectively, with up to 16% of the tazobactam dose removed as the tazobactam metabolite.
 For dosage recommendations for patients undergoing hemodialysis [see Dosage and Administration (2)].
 
@@ -121,7 +121,7 @@ Tazobactam does not induce chromosomally-mediated β-lactamases at tazobactam co
 
 Antimicrobial Activity
 
-Piperacillin/tazobactam has been shown to be active against most isolates of the following microorganisms both in vitro and in clinical infections [see Indications and Usage (1)].
+Piperacillin and tazobactam has been shown to be active against most isolates of the following microorganisms both in vitro and in clinical infections [see Indications and Usage (1)].
 
 Aerobic bacteria
 
@@ -135,9 +135,9 @@ Anaerobic bacteria Bacteroides fragilis group (B. fragilis, B. ovatus, B. thetai
 
 The following in vitro data are available, but their clinical significance is unknown.
 
-At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for piperacillin/tazobactam against isolates of similar genus or organism group.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for piperacillin and tazobactam against isolates of similar genus or organism group.
 
-However, the efficacy of piperacillin/tazobactam in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
+However, the efficacy of piperacillin and tazobactam in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
 
 Aerobic bacteria Gram-positive bacteria Enterococcus faecalis (ampicillin or penicillin-susceptible isolates only) Staphylococcus epidermidis (methicillin susceptible isolates only) Streptococcus agalactiae† Streptococcus pneumoniae† (penicillin-susceptible isolates only) Streptococcus pyogenes† Viridans group streptococci†
 
