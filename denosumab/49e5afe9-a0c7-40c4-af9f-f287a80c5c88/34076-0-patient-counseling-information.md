@@ -10,8 +10,7 @@ Advise patients to seek prompt medical attention if they develop signs or sympto
 Severe Hypocalcemia in Patients with Advanced Chronic Kidney Disease
 
 Advise patients with advanced chronic kidney disease, including those who are dialysis-dependent, about the symptoms of hypocalcemia and the importance of maintaining serum calcium levels with adequate calcium and activated vitamin D supplementation.
-Advise these patients to have their serum calcium measured weekly for the first month after Prolia administration and monthly thereafter.
-[see Dosage and Administration (2.2), Warnings and Precautions (5.1), Use in Specific Populations (8.6)]
+Advise these patients to have their serum calcium measured weekly for the first month after Prolia administration and monthly thereafter [see Dosage and Administration (2.2), Warnings and Precautions (5.1), Use in Specific Populations (8.6)]
 
 Drug Products with Same Active Ingredient
 

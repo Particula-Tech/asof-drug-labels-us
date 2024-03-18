@@ -19,14 +19,21 @@ After discontinuation of Prolia therapy, markers of bone resorption increased to
 
 ## 12.3 Pharmacokinetics
 
-In a study conducted in healthy male and female volunteers (n = 73, age range: 18 to 64 years) following a single subcutaneously administered Prolia dose of 60 mg after fasting (at least for 12 hours), the mean maximum denosumab concentration (Cmax) was 6.75 mcg/mL (standard deviation [SD] = 1.89 mcg/mL).
-The median time to maximum denosumab concentration (Tmax) was 10 days (range: 3 to 21 days).
-After Cmax, serum denosumab concentrations declined over a period of 4 to 5 months with a mean half-life of 25.4 days (SD = 8.5 days; n = 46).
-The mean area-under-the-concentration-time curve up to 16 weeks (AUC0-16 weeks) of denosumab was 316 mcg∙day/mL (SD = 101 mcg∙day/mL).
+In a study conducted in healthy male and female volunteers (n = 73, age range: 18 to 64 years) following a single subcutaneously administered Prolia dose of 60 mg, the mean area-under-the-concentration-time curve up to 16 weeks (AUC0-16 weeks) of denosumab was 316 mcg∙day/mL (SD = 101 mcg∙day/mL).
+The mean maximum denosumab concentration (Cmax) was 6.75 mcg/mL (SD = 1.89 mcg/mL).
+No accumulation or change in denosumab pharmacokinetics with time is observed with multiple dosing of 60 mg subcutaneously administered once every 6 months.
 
-No accumulation or change in denosumab pharmacokinetics with time was observed upon multiple dosing of 60 mg subcutaneously administered once every 6 months.
+Absorption
 
-Prolia pharmacokinetics were not affected by the formation of binding antibodies.
+Following subcutaneous administration, the median time to maximum denosumab concentration (Tmax) was 10 days (range: 3 to 21 days).
+
+Distribution
+
+The mean volume of distribution for denosumab was 5.2 L (SD = 1.7 L).
+
+Elimination
+
+Serum denosumab concentrations declined over a period of 4 to 5 months with a mean half-life of 25.4 days (SD = 8.5 days; n = 46).
 
 A population pharmacokinetic analysis was performed to evaluate the effects of demographic characteristics.
 This analysis showed no notable differences in pharmacokinetics with age (in postmenopausal women), race, or body weight (36 to 140 kg).
@@ -62,3 +69,13 @@ Race: The pharmacokinetics of denosumab were not affected by race.
 Renal Impairment: In a study of 55 patients with varying degrees of renal function, including patients on dialysis, the degree of renal impairment had no effect on the pharmacokinetics of denosumab; thus, dose adjustment for renal impairment is not necessary.
 
 Hepatic Impairment: No clinical studies have been conducted to evaluate the effect of hepatic impairment on the pharmacokinetics of denosumab.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibody is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of Prolia or denosumab products.
+
+Using an electrochemiluminescent bridging immunoassay, less than 1% (55 out of 8113) of patients treated with Prolia for up to 5 years tested positive for binding antibodies (including pre-existing, transient, and developing antibodies).
+None of the patients tested positive for neutralizing antibodies, as was assessed using a chemiluminescent cell-based in vitro biological assay.
+
+There was no identified clinically significant effect of anti-drug antibodies on pharmacokinetics, pharmacodynamics, safety, or effectiveness of denosumab.

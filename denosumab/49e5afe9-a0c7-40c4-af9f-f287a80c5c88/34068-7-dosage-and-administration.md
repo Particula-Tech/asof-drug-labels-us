@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Information Essential to Safe Dosing or Administration
+## 2.1 Pregnancy Testing Prior to Initiation of Prolia
 
 Pregnancy must be ruled out prior to administration of Prolia.
 Perform pregnancy testing in all females of reproductive potential prior to administration of Prolia.
@@ -8,7 +8,7 @@ Based on findings in animals, Prolia can cause fetal harm when administered to p
 
 ## 2.2 Laboratory Testing in Patients with Advanced Chronic Kidney Disease Prior to Initiation of Prolia
 
-In patients with advanced chronic kidney disease [i.e., estimated glomerular filtration rate (eGFR) <30 mL/min/1.73 m2], including dialysis-dependent patients, evaluate for the presence of chronic kidney disease mineral and bone disorder (CKD-MBD) with intact parathyroid hormone (iPTH), serum calcium, 25(OH) vitamin D, and 1,25 (OH)2 vitamin D prior to decisions regarding Prolia treatment.
+In patients with advanced chronic kidney disease [i.e., estimated glomerular filtration rate (eGFR) < 30 mL/min/1.73 m2], including dialysis-dependent patients, evaluate for the presence of chronic kidney disease mineral and bone disorder (CKD-MBD) with intact parathyroid hormone (iPTH), serum calcium, 25(OH) vitamin D, and 1,25 (OH)2 vitamin D prior to decisions regarding Prolia treatment.
 Consider also assessing bone turnover status (serum markers of bone turnover or bone biopsy) to evaluate the underlying bone disease that may be present [see Warnings and Precautions (5.1)].
 
 ## 2.3 Recommended Dosage
@@ -24,7 +24,7 @@ Thereafter, schedule injections every 6 months from the date of the last injecti
 
 ## 2.4 Preparation and Administration
 
-Visually inspect Prolia for particulate matter and discoloration prior to administration whenever solution and container permit.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 Prolia is a clear, colorless to pale yellow solution that may contain trace amounts of translucent to white proteinaceous particles.
 Do not use if the solution is discolored or cloudy or if the solution contains many particles or foreign particulate matter.
 
@@ -32,7 +32,7 @@ Prior to administration, Prolia may be removed from the refrigerator and brought
 This generally takes 15 to 30 minutes.
 Do not warm Prolia in any other way [see How Supplied/Storage and Handling (16)].
 
-Instructions for Prefilled Syringe with Needle Safety Guard
+Instructions for Administration of Prolia Prefilled Syringe with Needle Safety Guard
 
 IMPORTANT: In order to minimize accidental needlesticks, the Prolia single-dose prefilled syringe will have a green safety guard; manually activate the safety guard after the injection is given.
 

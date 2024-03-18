@@ -11,7 +11,7 @@ In some postmarketing cases, hypocalcemia persisted for weeks or months and requ
 
 Patients with Advanced Chronic Kidney Disease
 
-Patients with advanced chronic kidney disease [i.e., eGFR <30 mL/min/1.73 m2] including dialysis-dependent patients are at greater risk for severe hypocalcemia following Prolia administration.
+Patients with advanced chronic kidney disease [i.e., eGFR < 30 mL/min/1.73 m2] including dialysis-dependent patients are at greater risk for severe hypocalcemia following Prolia administration.
 Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported.
 The presence of underlying chronic kidney disease-mineral bone disorder (CKD-MBD, renal osteodystrophy) markedly increases the risk of hypocalcemia.
 Concomitant use of calcimimetic drugs may also worsen hypocalcemia risk.
@@ -31,7 +31,7 @@ Patients receiving Prolia should not receive Xgeva.
 
 Clinically significant hypersensitivity including anaphylaxis has been reported with Prolia.
 Symptoms have included hypotension, dyspnea, throat tightness, facial and upper airway edema, pruritus, and urticaria.
-If an anaphylactic or other clinically significant allergic reaction occurs, initiate appropriate therapy and discontinue further use of Prolia [see Contraindications (4), Adverse Reactions (6.2)].
+If an anaphylactic or other clinically significant allergic reaction occurs, initiate appropriate therapy, and discontinue further use of Prolia [see Contraindications (4), Adverse Reactions (6.2)].
 
 ## 5.4 Osteonecrosis of the Jaw
 

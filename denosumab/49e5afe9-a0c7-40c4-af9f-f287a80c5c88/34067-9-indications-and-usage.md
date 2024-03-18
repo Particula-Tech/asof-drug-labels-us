@@ -16,7 +16,7 @@ High risk of fracture is defined as a history of osteoporotic fracture, multiple
 
 ## 1.4 Treatment of Bone Loss in Men Receiving Androgen Deprivation Therapy for Prostate Cancer
 
-Prolia is indicated as a treatment to increase bone mass in men at high risk for fracture receiving androgen deprivation therapy for nonmetastatic prostate cancer.
+Prolia is indicated as a treatment to increase bone mass in men at high risk for fracture receiving androgen deprivation therapy (ADT) for nonmetastatic prostate cancer.
 In these patients Prolia also reduced the incidence of vertebral fractures [see Clinical Studies (14.4)].
 
 ## 1.5 Treatment of Bone Loss in Women Receiving Adjuvant Aromatase Inhibitor Therapy for Breast Cancer

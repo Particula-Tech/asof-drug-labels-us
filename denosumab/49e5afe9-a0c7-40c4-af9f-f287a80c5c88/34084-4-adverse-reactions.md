@@ -20,8 +20,6 @@ Pain in extremity and musculoskeletal pain have also been reported in clinical t
 
 The most common adverse reactions leading to discontinuation of Prolia in patients with postmenopausal osteoporosis are back pain and constipation.
 
-To report Adverse Reactions with Prolia®, please call Amgen Medical Information at 1-800-772-6436, email medinfo@amgen.com, or report the event at FDA MedWatch.
-
 ## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
@@ -35,55 +33,43 @@ All women were instructed to take at least 1000 mg of calcium and 400 IU of vita
 The incidence of all-cause mortality was 2.3% (n = 90) in the placebo group and 1.8% (n = 70) in the Prolia group.
 The incidence of nonfatal serious adverse events was 24.2% in the placebo group and 25.0% in the Prolia group.
 The percentage of patients who withdrew from the study due to adverse events was 2.1% and 2.4% for the placebo and Prolia groups, respectively.
+The most common adverse reactions reported with Prolia in patients with postmenopausal osteoporosis are back pain, pain in extremity, musculoskeletal pain, hypercholesterolemia, and cystitis.
 
 Adverse reactions reported in ≥ 2% of postmenopausal women with osteoporosis and more frequently in the Prolia-treated women than in the placebo-treated women are shown in the table below.
 
 Table 1.
 Adverse Reactions Occurring in ≥ 2% of Patients with Osteoporosis and More Frequently than in Placebo-treated Patients
 
-| SYSTEM ORGAN CLASS Preferred Term | Prolia (N = 3886) n (%) | Placebo (N = 3876) n (%) |
+| Preferred Term | Prolia (N = 3886) n (%) | Placebo (N = 3876) n (%) |
 | --- | --- | --- |
-| BLOOD AND LYMPHATIC SYSTEM DISORDERS |  |  |
-| Anemia | 129 (3.3) | 107 (2.8) |
-| CARDIAC DISORDERS |  |  |
-| Angina pectoris | 101 (2.6) | 87 (2.2) |
-| Atrial fibrillation | 79 (2.0) | 77 (2.0) |
-| EAR AND LABYRINTH DISORDERS |  |  |
-| Vertigo | 195 (5.0) | 187 (4.8) |
-| GASTROINTESTINAL DISORDERS |  |  |
-| Abdominal pain upper | 129 (3.3) | 111 (2.9) |
-| Flatulence | 84 (2.2) | 53 (1.4) |
-| Gastroesophageal reflux disease | 80 (2.1) | 66 (1.7) |
-| GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS |  |  |
-| Edema peripheral | 189 (4.9) | 155 (4.0) |
-| Asthenia | 90 (2.3) | 73 (1.9) |
-| INFECTIONS AND INFESTATIONS |  |  |
-| Cystitis | 228 (5.9) | 225 (5.8) |
-| Upper respiratory tract infection | 190 (4.9) | 167 (4.3) |
-| Pneumonia | 152 (3.9) | 150 (3.9) |
-| Pharyngitis | 91 (2.3) | 78 (2.0) |
-| Herpes zoster | 79 (2.0) | 72 (1.9) |
-| METABOLISM AND NUTRITION DISORDERS |  |  |
-| Hypercholesterolemia | 280 (7.2) | 236 (6.1) |
-| MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS |  |  |
 | Back pain | 1347 (34.7) | 1340 (34.6) |
 | Pain in extremity | 453 (11.7) | 430 (11.1) |
 | Musculoskeletal pain | 297 (7.6) | 291 (7.5) |
-| Bone pain | 142 (3.7) | 117 (3.0) |
-| Myalgia | 114 (2.9) | 94 (2.4) |
-| Spinal osteoarthritis | 82 (2.1) | 64 (1.7) |
-| NERVOUS SYSTEM DISORDERS |  |  |
+| Hypercholesterolemia | 280 (7.2) | 236 (6.1) |
+| Cystitis | 228 (5.9) | 225 (5.8) |
+| Vertigo | 195 (5.0) | 187 (4.8) |
+| Upper respiratory tract infection | 190 (4.9) | 167 (4.3) |
+| Edema peripheral | 189 (4.9) | 155 (4.0) |
 | Sciatica | 178 (4.6) | 149 (3.8) |
-| PSYCHIATRIC DISORDERS |  |  |
+| Bone pain | 142 (3.7) | 117 (3.0) |
+| Abdominal pain upper | 129 (3.3) | 111 (2.9) |
+| Anemia | 129 (3.3) | 107 (2.8) |
 | Insomnia | 126 (3.2) | 122 (3.1) |
-| SKIN AND SUBCUTANEOUS TISSUE DISORDERS |  |  |
+| Myalgia | 114 (2.9) | 94 (2.4) |
+| Angina pectoris | 101 (2.6) | 87 (2.2) |
 | Rash | 96 (2.5) | 79 (2.0) |
+| Pharyngitis | 91 (2.3) | 78 (2.0) |
+| Asthenia | 90 (2.3) | 73 (1.9) |
 | Pruritus | 87 (2.2) | 82 (2.1) |
+| Flatulence | 84 (2.2) | 53 (1.4) |
+| Spinal osteoarthritis | 82 (2.1) | 64 (1.7) |
+| Gastroesophageal reflux disease | 80 (2.1) | 66 (1.7) |
+| Herpes zoster | 79 (2.0) | 72 (1.9) |
 
 Hypocalcemia
 
 Decreases in serum calcium levels to less than 8.5 mg/dL at any visit were reported in 0.4% women in the placebo group and 1.7% women in the Prolia group.
-The nadir in serum calcium level occurs at approximately day 10 after Prolia dosing in subjects with normal renal function.
+The nadir in serum calcium level occurred at approximately day 10 after Prolia dosing in subjects with normal renal function.
 
 In clinical studies, subjects with impaired renal function were more likely to have greater reductions in serum calcium levels compared to subjects with normal renal function.
 In a study of 55 subjects with varying degrees of renal function, serum calcium levels < 7.5 mg/dL or symptomatic hypocalcemia were observed in 5 subjects.
@@ -251,20 +237,8 @@ The following adverse reactions have been identified during post approval use of
 - Musculoskeletal pain, including severe cases
 - Parathyroid hormone (PTH): Marked elevation in serum PTH in patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis
 - Multiple vertebral fractures following discontinuation of Prolia
-- Cutaneous and mucosal lichenoid drug eruptions (e.g. lichen planus-like reactions)
+- Cutaneous and mucosal lichenoid drug eruptions (e.g., lichen planus-like reactions)
 - Alopecia
 - Vasculitis (e.g.
   ANCA positive vasculitis, leukocytoclastic vasculitis)
 - Drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome
-
-## 6.3 Immunogenicity
-
-Denosumab is a human monoclonal antibody.
-As with all therapeutic proteins, there is potential for immunogenicity.
-Using an electrochemiluminescent bridging immunoassay, less than 1% (55 out of 8113) of patients treated with Prolia for up to 5 years tested positive for binding antibodies (including pre-existing, transient, and developing antibodies).
-None of the patients tested positive for neutralizing antibodies, as was assessed using a chemiluminescent cell-based in vitro biological assay.
-No evidence of altered pharmacokinetic profile, toxicity profile, or clinical response was associated with binding antibody development.
-
-The incidence of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of a positive antibody (including neutralizing antibody) test result may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of antibodies to denosumab with the incidence of antibodies to other products may be misleading.
