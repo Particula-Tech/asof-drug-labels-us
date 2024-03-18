@@ -50,7 +50,18 @@ Patients should be closely monitored for signs or symptoms of SJS/TEN, especiall
 SYMPAZAN® should be discontinued at the first sign of rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered [see Contraindications (4)].
 
-## 5.7 Suicidal Behavior and Ideation
+## 5.7 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
+
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multiorgan hypersensitivity, has been reported in patients taking antiepileptic drugs, including clobazam.
+These events can be fatal or life-threatening, particularly if diagnosis and treatment do not occur as early as possible.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its expression, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, the patient should be evaluated immediately.
+SYMPAZAN should be discontinued if an alternative etiology for the signs or symptoms cannot be established [see Contraindications (4)].
+
+## 5.8 Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including SYMPAZAN®, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
@@ -69,7 +80,7 @@ Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
 | Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Indication | PlaceboPatients with Events per 1000 Patients | Drug Patients with Events per 1000 Patients | Relative Risk: Incidence of Drug Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients |
+| Indication | Placebo Patients with Events per 1000 Patients | Drug Patients with Events per 1000 Patients | Relative Risk: Incidence of Drug Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
 | Other | 1.0 | 1.8 | 1.9 | 0.9 |
@@ -81,7 +92,7 @@ Anyone considering prescribing SYMPAZAN® or any other AED must balance the risk
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
-## 5.8 Neonatal Sedation and Withdrawal Syndrome
+## 5.9 Neonatal Sedation and Withdrawal Syndrome
 
 Use of SYMPAZAN late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate [see Use in Specific Populations (8.1)].
 Monitor neonates exposed to SYMPAZAN during pregnancy or labor for signs of sedation and monitor neonates exposed to SYMPAZAN during pregnancy for signs of withdrawal; manage these neonates accordingly.

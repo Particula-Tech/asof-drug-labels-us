@@ -19,7 +19,8 @@ Benzodiazepines are often sought by individuals who abuse drugs and other substa
 The following adverse reactions have occurred with benzodiazepine abuse and/or misuse: abdominal pain, amnesia, anorexia, anxiety, aggression, ataxia, blurred vision, confusion, depression, disinhibition, disorientation, dizziness, euphoria, impaired concentration and memory, indigestion, irritability, muscle pain, slurred speech, tremors, and vertigo.
 
 The following severe adverse reactions have occurred with benzodiazepine abuse and/or misuse: delirium, paranoia, suicidal ideation and behavior, seizures, coma, breathing difficulty, and death.
-Death is more often associated with polysubstance use (especially benzodiazepines with other CNS depressants such as opioids and alcohol).The World Health Organization epidemiology database contains reports of drug abuse, misuse, and overdoses associated with clobazam.
+Death is more often associated with polysubstance use (especially benzodiazepines with other CNS depressants such as opioids and alcohol).
+The World Health Organization epidemiology database contains reports of drug abuse, misuse, and overdoses associated with clobazam.
 
 ## 9.3 Dependence
 

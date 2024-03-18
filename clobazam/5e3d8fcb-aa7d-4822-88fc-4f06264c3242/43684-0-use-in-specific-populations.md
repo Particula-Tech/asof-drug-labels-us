@@ -9,7 +9,7 @@ Healthcare providers are encouraged to recommend that pregnant women taking SYMP
 
 Risk Summary
 
-Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions (5.8) and Clinical Considerations].
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions (5.9) and Clinical Considerations].
 Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
 Administration of clobazam to pregnant rats and rabbits during the period of organogenesis or to rats throughout pregnancy and lactation resulted in developmental toxicity, including increased incidences of fetal malformations and mortality, at plasma exposures for clobazam and its major active metabolite, N-desmethylclobazam, below those expected at therapeutic doses in patients [see Animal Data].
 
@@ -26,7 +26,7 @@ Fetal/Neonatal Adverse Reactions
 Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia, and sedation in neonates.
 Monitor neonates exposed to SYMPAZAN during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
 Monitor neonates exposed to SYMPAZAN during pregnancy for signs of withdrawal.
-Manage these neonates accordingly [see Warnings and Precautions (5.8)].
+Manage these neonates accordingly [see Warnings and Precautions (5.9)].
 
 Data
 
@@ -47,7 +47,7 @@ The highest dose tested was associated with maternal toxicity (ataxia and decrea
 The low effect dose for embryofetal developmental toxicity in rabbits (10 mg/kg/day) was associated with plasma exposures for clobazam and N-desmethylclobazam lower than those in humans at the MRHD.
 
 Oral administration of clobazam (0, 50, 350, or 750 mg/kg/day) to rats throughout pregnancy and lactation resulted in increased embryofetal mortality at the high dose, decreased pup survival at the mid and high doses and alterations in offspring behavior (locomotor activity) at all doses.
-The low-effect dose for adverse effects on preand postnatal development in rats (50 mg/kg/day) was associated with plasma exposures for clobazam and Ndesmethylclobazam lower than those in humans at the MRHD.
+The low-effect dose for adverse effects on preand postnatal development in rats (50 mg/kg/day) was associated with plasma exposures for clobazam and N-desmethylclobazam lower than those in humans at the MRHD.
 
 ## 8.2 Lactation
 
@@ -67,7 +67,7 @@ Infants exposed to SYMPAZAN through breast milk should be monitored for sedation
 Data
 
 Scientific literature on clobazam use during lactation is limited.
-After short-term administration, clobazam and Ndesmethylclobazam are transferred into breast milk.
+After short-term administration, clobazam and N-desmethylclobazam are transferred into breast milk.
 
 ## 8.3 Females and Males of Reproductive Potential
 

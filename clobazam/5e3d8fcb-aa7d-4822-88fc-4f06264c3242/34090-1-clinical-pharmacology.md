@@ -35,7 +35,7 @@ Clobazam is extensively metabolized in the liver, with approximately 2% of the d
 The major metabolic pathway of clobazam involves N-demethylation, primarily by CYP3A4 and to a lesser extent by CYP2C19 and CYP2B6.
 N-desmethylclobazam, an active metabolite, is the major circulating metabolite in humans, and at therapeutic doses, plasma concentrations are 3-5 times higher than those of the parent compound.
 Based on animal and in vitro receptor binding data, estimates of the relative potency of N-desmethylclobazam compared to parent compound range from 1/5 to equal potency.
-N-desmethyl clobazam is extensively metabolized, mainly by CYP2C19.
+N-desmethylclobazam is extensively metabolized, mainly by CYP2C19.
 N-desmethylclobazam and its metabolites comprise ~94% of the total drug-related components in urine.
 Following a single oral dose of radiolabeled drug, approximately 11% of the dose was excreted in the feces and approximately 82% was excreted in the urine.
 
