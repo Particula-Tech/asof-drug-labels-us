@@ -1,30 +1,31 @@
-# 1 INDICATIONS & USAGE
+# 1 INDICATIONS AND USAGE
 
-## 1.1 Adult patients
+## 1.1 Adult Patients
 
-Cold Sores (Herpes Labialis): Valacyclovir tablets, USP are indicated for treatment of cold sores (herpes labialis).
-The efficacy of valacyclovir tablets, USP initiated after the development of clinical signs of a cold sore (e.g., papule, vesicle, or ulcer) has not been established.
-Genital Herpes: Initial Episode: Valacyclovir tablets, USP are indicated for treatment of the initial episode of genital herpes in immunocompetent adults.
-The efficacy of treatment with valacyclovir tablets, USP when initiated more than 72 hours after the onset of signs and symptoms has not been established.
-Recurrent Episodes: Valacyclovir tablets, USP are indicated for treatment of recurrent episodes of genital herpes in immunocompetent adults.
-The efficacy of treatment with valacyclovir tablets, USP when initiated more than 24 hours after the onset of signs and symptoms has not been established.
-Suppressive Therapy: Valacyclovir tablets, USP are indicated for chronic suppressive therapy of recurrent episodes of genital herpes in immunocompetent and in HIV-infected adults.
-The efficacy and safety of valacyclovir tablets, USP for the suppression of genital herpes beyond 1 year in immunocompetent patients and beyond 6 months in HIV-infected patients have not been established.
-Reduction of Transmission: Valacyclovir tablets, USP are indicated for the reduction of transmission of genital herpes in immunocompetent adults.
-The efficacy of valacyclovir tablets, USP for the reduction of transmission of genital herpes beyond 8 months in discordant couples has not been established.
-The efficacy of valacyclovir tablets, USP for the reduction of transmission of genital herpes in individuals with multiple partners and non-heterosexual couples has not been established.
+Cold Sores (Herpes Labialis) Valacyclovir tablets are indicated for treatment of cold sores (herpes labialis).
+The efficacy of valacyclovir tablets initiated after the development of clinical signs of a cold sore (e.g., papule, vesicle, or ulcer) has not been established.
+Genital Herpes
+
+Initial Episode:Valacyclovir tablets are indicated for treatment of the initial episode of genital herpes in immunocompetent adults.
+The efficacy of treatment with valacyclovir tablets when initiated more than 72 hours after the onset of signs and symptoms has not been established.
+Recurrent Episodes:Valacyclovir tablets are indicated for treatment of recurrent episodes of genital herpes in immunocompetent adults.
+The efficacy of treatment with valacyclovir tablets when initiated more than 24 hours after the onset of signs and symptoms has not been established.
+Suppressive Therapy:Valacyclovir tablets are indicated for chronic suppressive therapy of recurrent episodes of genital herpes in immunocompetent and in HIV-1-infected adults.
+The efficacy and safety of valacyclovir tablets for the suppression of genital herpes beyond 1 year in immunocompetent patients and beyond 6 months in HIV-1-infected patients have not been established.
+Reduction of Transmission:Valacyclovir tablets are indicated for the reduction of transmission of genital herpes in immunocompetent adults.
+The efficacy of valacyclovir tablets for the reduction of transmission of genital herpes beyond 8 months in discordant couples has not been established.
+The efficacy of valacyclovir tablets for the reduction of transmission of genital herpes in individuals with multiple partners and non-heterosexual couples has not been established.
 Safer sex practices should be used with suppressive therapy (see current Centers for Disease Control and Prevention [CDC] Sexually Transmitted Diseases Treatment Guidelines).
-Herpes Zoster: Valacyclovir tablets, USP are indicated for the treatment of herpes zoster (shingles) in immunocompetent adults.
-The efficacy of valacyclovir tablets, USP when initiated more than 72 hours after the onset of rash and the efficacy and safety of valacyclovir tablets, USP for treatment of disseminated herpes zoster have not been established.
+Herpes Zoster Valacyclovir tablets are indicated for the treatment of herpes zoster (shingles) in immunocompetent adults.
+The efficacy of valacyclovir tablets when initiated more than 72 hours after the onset of rash and the efficacy and safety of valacyclovir tablets for treatment of disseminated herpes zoster have not been established.
 
 ## 1.2 Pediatric Patients
 
-Cold Sores (Herpes Labialis): Valacyclovir tablets, USP are indicated for the treatment of cold sores (herpes labialis) in pediatric patients ≥12 years of age.
-The efficacy of valacyclovir tablets, USP initiated after the development of clinical signs of a cold sore (e.g., papule, vesicle, or ulcer) has not been established.
-
-Chickenpox: Valacyclovir tablets, USP are indicated for the treatment of chickenpox in immunocompetent pediatric patients 2 to <18 years of age.
-Based on efficacy data from clinical studies with oral acyclovir, treatment with valacyclovir tablets, USP should be initiated within 24 hours after the onset of rash [see Clinical Studies (14.4)].
+Cold Sores (Herpes Labialis) Valacyclovir tablets are indicated for the treatment of cold sores (herpes labialis) in pediatric patients aged greater than or equal to 12 years.
+The efficacy of valacyclovir tablets initiated after the development of clinical signs of a cold sore (e.g., papule, vesicle, or ulcer) has not been established.
+Chickenpox Valacyclovir tablets are indicated for the treatment of chickenpox in immunocompetent pediatric patients aged 2 to less than 18 years.
+Based on efficacy data from clinical trials with oral acyclovir, treatment with valacyclovir tablets should be initiated within 24 hours after the onset of rash [see Clinical Studies (14.4)].
 
 ## 1.3 Limitations of Use
 
-The efficacy and safety of valacyclovir tablets, USP have not been established in: • Immunocompromised patients other than for the suppression of genital herpes in HIV-infected patients with a CD4+ cell count ≥100 cells/mm 3. • Patients <12 years of age with cold sores (herpes labialis). • Patients <2 years of age or ≥18 years of age with chickenpox. • Patients <18 years of age with genital herpes. • Patients <18 years of age with herpes zoster. • Neonates and infants as suppressive therapy following neonatal herpes simplex virus (HSV) infection.
+The efficacy and safety of valacyclovir tablets have not been established in: • Immunocompromised patients other than for the suppression of genital herpes in HIV-1−infected patients with a CD4+ cell count greater than or equal to 100 cells/mm 3. • Patients aged less than 12 years with cold sores (herpes labialis). • Patients aged less than 2 years or greater than or equal to 18 years with chickenpox. • Patients aged less than 18 years with genital herpes. • Patients aged less than 18 years with herpes zoster. • Neonates and infants as suppressive therapy following neonatal herpes simplex virus (HSV) infection.
