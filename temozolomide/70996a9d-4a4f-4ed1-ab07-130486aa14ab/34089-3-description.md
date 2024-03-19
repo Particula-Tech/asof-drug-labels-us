@@ -21,7 +21,7 @@ Temozolomide Capsules 140 mg: lactose anhydrous, colloidal silicon dioxide, sodi
 Temozolomide Capsules 180 mg: lactose anhydrous, colloidal silicon dioxide, sodium starch glycolate, tartaric acid, and stearic acid.
 Temozolomide Capsules 250 mg: lactose anhydrous, colloidal silicon dioxide, sodium starch glycolate, tartaric acid, and stearic acid.
 
-The body of the capsules is made of gelatin, and is opaque white.
+The body of the capsules is made of gelatin and is opaque white.
 The cap is also made of gelatin, and the colors vary based on the dosage strength.
 The capsule body and cap are imprinted with pharmaceutical branding ink, which contains shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, purified water, strong ammonia solution, potassium hydroxide, and ferric oxide.
 

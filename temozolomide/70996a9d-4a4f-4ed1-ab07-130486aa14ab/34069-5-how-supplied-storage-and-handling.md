@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Temozolomide is a cytotoxic drug.
+Temozolomide is a hazardous drug.
 Follow applicable special handling and disposal procedures.1
 
 Temozolomide Capsules, USP are supplied in HDPE plastic bottles with child-resistant polypropylene caps containing the following capsule strengths:
