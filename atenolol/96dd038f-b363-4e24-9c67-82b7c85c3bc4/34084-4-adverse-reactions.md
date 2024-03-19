@@ -69,13 +69,13 @@ In the subsequent International Study of Infarct Survival (ISIS-1) including ove
 | --- | --- | --- | --- | --- |
 | IV Atenolol Reduced Dose (< 5 mg)* |  | Oral Partial Dose |  |  |
 | Hypotension/Bradycardia | 105 | (1.3%) | 1168 | (14.5%) |
-| Cardiogenic Shock | 4 | (0.04%) | 35 | (0.44%) |
-| Reinfarction | 0 | (0%) | 5 | (0.06%) |
-| Cardiac Arrest | 5 | (0.06%) | 28 | (0.34%) |
-| Heart Block (> first degree) | 5 | (0.06%) | 143 | (1.7%) |
-| Cardiac Failure | 1 | (0.01%) | 233 | (2.9%) |
-| Arrhythmias | 3 | (0.04%) | 22 | (0.27%) |
-| Bronchospasm | 1 | (0.01%) | 50 | (0.62%) |
+| Cardiogenic Shock | 4 | (.04%) | 35 | (.44%) |
+| Reinfarction | 0 | (0%) | 5 | (.06%) |
+| Cardiac Arrest | 5 | (.06%) | 28 | (.34%) |
+| Heart Block (> first degree) | 5 | (.06%) | 143 | (1.7%) |
+| Cardiac Failure | 1 | (.01%) | 233 | (2.9%) |
+| Arrhythmias | 3 | (.04%) | 22 | (.27%) |
+| Bronchospasm | 1 | (.01%) | 50 | (.62%) |
 
 *Full dosage was 10 mg and some patients received less than 10 mg but more than 5 mg.
 During postmarketing experience with atenolol, the following have been reported in temporal relationship to the use of the drug: elevated liver enzymes and/or bilirubin, hallucinations, headache, impotence, Peyronie’s disease, postural hypotension which may be associated with syncope, psoriasiform rash or exacerbation of psoriasis, psychoses, purpura, reversible alopecia, thrombocytopenia, visual disturbance, sick sinus syndrome, and dry mouth.
@@ -98,9 +98,9 @@ Other: Erythematous rash.
 Miscellaneous: There have been reports of skin rashes and/or dry eyes associated with the use of beta-adrenergic blocking drugs.
 The reported incidence is small, and in most cases, the symptoms have cleared when treatment was withdrawn.
 Discontinuance of the drug should be considered if any such reaction is not otherwise explicable.
-Patients should be closely monitored following cessation of therapy (see INDICATIONS AND USAGE).
+Patients should be closely monitored following cessation of therapy (See DOSAGE AND ADMINISTRATION).
 
 The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been reported with atenolol.
 Furthermore, a number of patients who had previously demonstrated established practolol reactions were transferred to atenolol therapy with subsequent resolution or quiescence of the reaction.
 
-To report side effects, you can call (866) 562-4597 or (800) FDA-1088.
+To report side effects, contact Rising Pharmaceuticals, Inc. at 1-866-562-4597 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

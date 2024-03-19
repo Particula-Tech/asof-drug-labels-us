@@ -1,4 +1,4 @@
-# DOSAGE & ADMINISTRATION
+# DOSAGE AND ADMINISTRATION
 
 Hypertension The initial dose of atenolol is 50 mg given as one tablet a day either alone or added to diuretic therapy.
 The full effect of this dose will usually be seen within one to two weeks.
@@ -55,7 +55,7 @@ The following maximum oral dosages are recommended for elderly, renally-impaired
 | Creatinine Clearance (mL/min/1.73 m2) | Atenolol Elimination Half-Life (h) | Maximum Dosage |
 | --- | --- | --- |
 | 15-35 | 16- 27 | 50 mg daily |
-| 15 | 27 | 25 mg daily |
+| <15 | >27 | 25 mg daily |
 
 Some renally-impaired or elderly patients being treated for hypertension may require a lower starting dose of atenolol: 25 mg given as one tablet a day.
 If this 25 mg dose is used, assessment of efficacy must be made carefully.

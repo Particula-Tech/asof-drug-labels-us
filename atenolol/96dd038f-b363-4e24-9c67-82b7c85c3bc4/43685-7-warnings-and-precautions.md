@@ -10,7 +10,7 @@ In Patients Without a History of Cardiac Failure
 
 Continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure.
 At the first sign or symptom of impending cardiac failure, patients should be treated appropriately according to currently recommended guidelines, and the response observed closely.
-If cardiac failure continues despite adequate treatment, atenolol should be withdrawn (see DOSAGE AND ADMNISTRATION).
+If cardiac failure continues despite adequate treatment, atenolol should be withdrawn (See Dosage and Administration).
 
 # PRECAUTIONS
 
@@ -22,7 +22,7 @@ Atenolol may aggravate peripheral arterial circulatory disorders.
 
 Impaired Renal Function
 
-The drug should be used with caution in patients with impaired renal function (see DOSAGE AND ADMINISTRATION).
+The drug should be used with caution in patients with impaired renal function (See Dosage and Administration).
 
 Drug Interactions
 

@@ -1,8 +1,4 @@
-# SPL Unclassified Section
-
-Concomitant Use of Calcium Channel Blockers
-
-Bradycardia and heart block can occur and the left ventricular end diastolic pressure can rise when beta-blockers are administered with verapamil or diltiazem.
+Concomitant Use of Calcium Channel Blockers Bradycardia and heart block can occur and the left ventricular end diastolic pressure can rise when beta-blockers are administered with verapamil or diltiazem.
 Patients with pre-existing conduction abnormalities or left ventricular dysfunction are particularly susceptible (see PRECAUTIONS).
 
 Bronchospastic Diseases
@@ -12,13 +8,9 @@ Because of its relative beta1 selectivity, however, atenolol may be used with ca
 Since beta1 selectivity is not absolute, the lowest possible dose of atenolol should be used with therapy initiated at 50 mg and a beta2-stimulating agent (bronchodilator) should be made available.
 If dosage must be increased, dividing the dose should be considered in order to achieve lower peak blood levels.
 
-Anesthesia and Major Surgery
+Major Surgery
 
-It is not advisable to withdraw beta-adrenoreceptor blocking drugs prior to surgery in the majority of patients.
-However, care should be taken when using anesthetic agents such as those which may depress the myocardium.
-Vagal dominance, if it occurs, may be corrected with atropine (1 to 2 mg IV).
-
-Atenolol, like other beta-blockers, is a competitive inhibitor of beta-receptor agonists and its effects on the heart can be reversed by administration of such agents: e.g., dobutamine or isoproterenol with caution (see section on OVERDOSAGE).
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
 Diabetes and Hypoglycemia
 
@@ -29,7 +21,7 @@ At recommended doses atenolol does not potentiate insulin-induced hypoglycemia a
 Thyrotoxicosis
 
 Beta-adrenergic blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
-Abrupt withdrawal of beta-blockade might precipitate a thyroid storm; therefore, patients suspected of developing thyrotoxicosis from whom atenolol therapy is to be withdrawn should be monitored closely (see DOSAGE AND ADMINISTRATION).
+Abrupt withdrawal of beta-blockade might precipitate a thyroid storm; therefore, patients suspected of developing thyrotoxicosis from whom atenolol therapy is to be withdrawn should be monitored closely (See Dosage and Administration).
 
 Untreated Pheochromocytoma
 
