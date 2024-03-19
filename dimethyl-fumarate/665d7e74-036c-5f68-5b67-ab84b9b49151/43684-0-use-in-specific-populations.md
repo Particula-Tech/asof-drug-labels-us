@@ -2,20 +2,23 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
-
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to TECFIDERA during pregnancy.
-Encourage patients to enroll by calling 1-866-810-1462 or visiting www.tecfiderapregnancyregistry.com.
-
 Risk Summary
 
-There are no adequate data on the developmental risk associated with the use of TECFIDERA in pregnant women.
-In animals, adverse effects on offspring survival, growth, sexual maturation, and neurobehavioral function were observed when dimethyl fumarate (DMF) was administered during pregnancy and lactation at clinically relevant doses [see Data].
+Available data from the TECFIDERA Pregnancy Registry, observational studies, and pharmacovigilance with dimethyl fumarate use in pregnant women have not indicated an increased risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
+Most of the reported exposures to dimethyl fumarate occurred during the first trimester of pregnancy (see Data).
+In animals, adverse effects on offspring survival, growth, sexual maturation, and neurobehavioral function were observed when dimethyl fumarate (DMF) was administered during pregnancy and lactation at clinically relevant doses (see Data).
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Data
+
+Human Data
+
+In a prospective observational TECFIDERA Pregnancy Registry (2013-2022), the rate of major birth defects among 362 live births and stillbirths from women who were exposed to dimethyl fumarate during pregnancy was 3.6% (95% CI: 1.9-6.1).
+No specific pattern of major birth defects was identified.
+Important potential study limitations include exposure misclassification, no adjustment for confounders, and lack of an internal comparator cohort.
 
 Animal Data
 

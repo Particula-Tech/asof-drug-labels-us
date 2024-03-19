@@ -49,16 +49,10 @@ Inform patients that GI events (abdominal pain, diarrhea, and nausea) are some o
 Some patients may experience more severe GI events.
 Advise patients to immediately contact their healthcare provider and discontinue TECFIDERA if they experience gastrointestinal bleeding (e.g., rectal bleeding, bloody diarrhea, hematemesis) or other serious gastrointestinal adverse events (e.g., severe abdominal pain, severe vomiting and/or diarrhea) [see Warnings and Precautions (5.7)].
 
-Pregnancy and Pregnancy Registry
-
-Instruct patients that if they are pregnant or plan to become pregnant while taking TECFIDERA they should inform their physician.
-
-Encourage patients to enroll in the TECFIDERA Pregnancy Registry if they become pregnant while taking TECFIDERA [see Use in Specific Populations (8.1)].
-
-PPI-41347-17
+PPI-41347-18
 
 Manufactured for: Biogen Inc. Cambridge, MA 02142
 
 TECFIDERA is a registered trademark of Biogen.
 
-© Biogen 2013 - 2023
+© Biogen 2013 - 2024
