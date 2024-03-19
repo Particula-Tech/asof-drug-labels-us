@@ -14,7 +14,9 @@ Protect from light
 
 NDC 0641-1397-35 Rx only
 
-chlorproMAZINE HCl Injection, USP
+chlorproMAZINE
+
+HCl Injection, USP
 
 25 mg/mL
 
@@ -38,7 +40,9 @@ Protect from light
 
 NDC 0641-1398-35 Rx only
 
-chlorproMAZINE HCl Injection, USP
+chlorproMAZINE
+
+HCl Injection, USP
 
 50 mg per 2 mL (25 mg/mL)
 
