@@ -15,4 +15,4 @@
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Revised: March 2022
+Revised: March 2024

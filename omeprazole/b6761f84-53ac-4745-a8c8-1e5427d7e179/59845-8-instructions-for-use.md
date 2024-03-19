@@ -31,5 +31,4 @@ For people who have an NG tube or gastric tube that is size 6 or larger, PRILOSE
 5. 5.Shake the syringe right away and then leave the mixture for 2 to 3 minutes to thicken.
 6. 6.Shake the syringe and inject through the NG tube or gastric tube into the stomach within 30 minutes.
 7. 7.Refill the syringe with the same amount of water you used to prepare your dose of PRILOSEC (5 mL or 15 mL of water depending on your dose).
-
-Shake the syringe and flush any remaining medicine from the NG tube or gastric tube into the stomach.
+8. 8.Shake the syringe and flush any remaining medicine from the NG tube or gastric tube into the stomach.

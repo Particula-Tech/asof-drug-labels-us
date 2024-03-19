@@ -11,7 +11,6 @@ In older patients, also consider an endoscopy.
 Acute tubulointerstitial nephritis (TIN) has been observed in patients taking PPIs and may occur at any point during PPI therapy.
 Patients may present with varying signs and symptoms from symptomatic hypersensitivity reactions to non-specific symptoms of decreased renal function (e.g., malaise, nausea, anorexia).
 In reported case series, some patients were diagnosed on biopsy and in the absence of extra-renal manifestations (e.g., fever, rash or arthralgia).
-
 Discontinue PRILOSEC and evaluate patients with suspected acute TIN [see Contraindications (4)].
 
 ## 5.3 Clostridium difficile-Associated Diarrhea
@@ -62,6 +61,7 @@ Clopidogrel is a prodrug.
 Inhibition of platelet aggregation by clopidogrel is entirely due to an active metabolite.
 The metabolism of clopidogrel to its active metabolite can be impaired by use with concomitant medications, such as omeprazole, that inhibit CYP2C19 activity.
 Concomitant use of clopidogrel with 80 mg omeprazole reduces the pharmacological activity of clopidogrel, even when administered 12 hours apart.
+
 When using PRILOSEC, consider alternative anti-platelet therapy [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
 ## 5.8 Cyanocobalamin (Vitamin B-12) Deficiency
