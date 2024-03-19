@@ -1,1 +1,1 @@
-Manufactured for: Heron Therapeutics, Inc., San Diego, CA 92121, USA Patent: https://herontx.com/patents/ CINVANTI® is a registered trademark of Heron Therapeutics, Inc. Copyright © 2017-2023 Heron Therapeutics, Inc. All rights reserved.
+Manufactured for: Heron Therapeutics, Inc., San Diego, CA 92121, USA Patent: https://herontx.com/patents/ CINVANTI® is a registered trademark of Heron Therapeutics, Inc. Copyright © 2017-2024 Heron Therapeutics, Inc. All rights reserved.
