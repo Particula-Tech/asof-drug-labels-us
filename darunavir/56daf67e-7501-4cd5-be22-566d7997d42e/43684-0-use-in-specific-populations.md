@@ -23,7 +23,7 @@ Clinical Considerations
 
 The recommended dosage in pregnant patients is darunavir 600 mg taken with ritonavir 100 mg twice daily with food.
 
-Darunavir 800 mg taken with ritonavir 100 mg once daily should only be considered in certain pregnant patients who are already on a stable darunavir 800 mg with ritonavir 100 mg once daily regimen prior to pregnancy, are virologically suppressed (HIV-1 RNA less than 50 copies per mL), and in whom a change to twice daily darunavir 600 mg with ritonavir 100 mg may compromise tolerability or compliance [see DOSAGE AND ADMINISTRATION (2.4) and CLINICAL PHARMACOLOGY (12.3)].
+Darunavir 800 mg taken with ritonavir 100 mg once daily should only be considered in certain pregnant patients who are already on a stable darunavir 800 mg with ritonavir 100 mg once daily regimen prior to pregnancy, are virologically suppressed (HIV-1 RNA less than 50 copies per mL), and in whom a change to twice daily darunavir 600 mg with ritonavir 100 mg may compromise tolerability or compliance [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
 Data
 
@@ -34,7 +34,7 @@ Eighteen subjects were enrolled in each BID and QD treatment arms.
 Twenty-nine subjects completed the trial through the postpartum period (6-12 weeks after delivery) and 7 subjects discontinued before trial completion, 5 subjects in the BID arm and 2 subjects in the QD arm.
 
 The pharmacokinetic data demonstrate that exposure to darunavir and ritonavir as part of an antiretroviral regimen was lower during pregnancy compared with postpartum (6 to 12 weeks).
-Exposure reductions during pregnancy were greater for the once daily regimen as compared to the twice daily regimen [see CLINICAL PHARMACOLOGY (12.3)].
+Exposure reductions during pregnancy were greater for the once daily regimen as compared to the twice daily regimen [see Clinical Pharmacology (12.3)].
 
 Virologic response was preserved.
 In the BID arm, the proportion of subjects with HIV-1 RNA <50 copies/mL were 39% (7/18) at baseline, 61% (11/18) through the third trimester visit, and 61% (11/18) through the 6-12 week postpartum visit.
@@ -64,7 +64,7 @@ Risk Summary
 The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV.
 There are no data on the presence of darunavir in human milk, the effects on the breastfed infant, or the effects on milk production.
 Darunavir is present in the milk of lactating rats [see DATA].
-Because of the potential for (1) HIV transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants) and (3) serious adverse reactions in a breastfed infant, instruct mothers not to breastfeed if they are receiving darunavir [see USE IN SPECIFIC POPULATIONS (8.4)].
+Because of the potential for (1) HIV transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants) and (3) serious adverse reactions in a breastfed infant, instruct mothers not to breastfeed if they are receiving darunavir [see Use in Specific Populations (8.4)].
 
 Data
 
@@ -80,22 +80,22 @@ Contraception
 
 Use of darunavir may reduce the efficacy of combined hormonal contraceptives and the progestin only pill.
 Advise patients to use an effective alternative (non-hormonal) contraceptive method or add a barrier method of contraception.
-For co-administration with drospirenone, clinical monitoring is recommended due to the potential for hyperkalemia [see DRUG INTERACTIONS (7.3)].
+For co-administration with drospirenone, clinical monitoring is recommended due to the potential for hyperkalemia [see Drug Interactions (7.3)].
 
 ## 8.4 Pediatric Use
 
-Darunavir/ritonavir is not recommended in pediatric patients below 3 years of age because of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see WARNINGS AND PRECAUTIONS (5.10), USE IN SPECIFIC POPULATIONS (8.1) and CLINICAL PHARMACOLOGY (12.3)].
+Darunavir/ritonavir is not recommended in pediatric patients below 3 years of age because of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Warnings and Precautions (5.10), Use in Specific Populations (8.1) and Clinical Pharmacology (12.3)].
 
 The safety, pharmacokinetic profile, and virologic and immunologic responses of darunavir/ritonavir administered twice daily were evaluated in treatment-experienced HIV-1 infected pediatric subjects 3 to less than 18 years of age and weighting at least 10 kg.
-These subjects were evaluated in clinical trials TMC114-C212 (80 subjects, 6 to less than 18 years of age) and TMC114-228 (21 subjects, 3 to less than 6 years of age) [see ADVERSE REACTIONS (6.1), CLINICAL PHARMACOLOGY (12.3) and CLINICAL STUDIES (14.4)].
-Frequency, type, and severity of adverse drug reactions in pediatric subjects were comparable to those observed in adults [see ADVERSE REACTIONS (6.1)].
-Refer to DOSAGE AND ADMINISTRATION (2.5) for twice-daily dosing recommendations for pediatric subjects 3 to less than 18 years of age and weighing at least 10 kg.
+These subjects were evaluated in clinical trials TMC114-C212 (80 subjects, 6 to less than 18 years of age) and TMC114-228 (21 subjects, 3 to less than 6 years of age) [see Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.4)].
+Frequency, type, and severity of adverse drug reactions in pediatric subjects were comparable to those observed in adults [see Adverse Reactions (6.1)].
+Refer to Dosage and Administration (2.5) for twice-daily dosing recommendations for pediatric subjects 3 to less than 18 years of age and weighing at least 10 kg.
 
-In clinical trial TMC114-C230, the safety, pharmacokinetic profile and virologic and immunologic responses of darunavir/ritonavir administered once daily were evaluated in treatment-naïve HIV-1 infected pediatric subjects 12 to less than 18 years of age (12 subjects) [see ADVERSE REACTIONS (6.1), CLINICAL PHARMACOLOGY (12.3) and CLINICAL STUDIES (14.4)].
-Frequency, type, and severity of adverse drug reactions in pediatric subjects were comparable to those observed in adults [see ADVERSE REACTIONS (6.1)].
+In clinical trial TMC114-C230, the safety, pharmacokinetic profile and virologic and immunologic responses of darunavir/ritonavir administered once daily were evaluated in treatment-naïve HIV-1 infected pediatric subjects 12 to less than 18 years of age (12 subjects) [see Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.4)].
+Frequency, type, and severity of adverse drug reactions in pediatric subjects were comparable to those observed in adults [see Adverse Reactions (6.1)].
 Once daily dosing recommendations for pediatric patients 3 to less than 12 years of age were derived using population pharmacokinetic modeling and simulation.
-Although a darunavir/ritonavir once daily dosing pediatric trial was not conducted in children less than 12 years of age, there is sufficient clinical safety data to support the predicted darunavir exposures for the dosing recommendations in this age group [see CLINICAL PHARMACOLOGY (12.3)].
-Please see DOSAGE AND ADMINISTRATION (2.5) for once-daily dosing recommendations for pediatric subjects 3 to less than 18 years of age and weighing at least 10 kg.
+Although a darunavir/ritonavir once daily dosing pediatric trial was not conducted in children less than 12 years of age, there is sufficient clinical safety data to support the predicted darunavir exposures for the dosing recommendations in this age group [see Clinical Pharmacology (12.3)].
+Please see Dosage and Administration (2.5) for once-daily dosing recommendations for pediatric subjects 3 to less than 18 years of age and weighing at least 10 kg.
 
 Juvenile Animal Data
 
@@ -105,16 +105,16 @@ In a 4-week rat toxicology study, when dosing was initiated on post-natal day 23
 ## 8.5 Geriatric Use
 
 Clinical studies of darunavir did not include sufficient numbers of patients aged 65 years and over to determine whether they respond differently from younger patients.
-In general, caution should be exercised in the administration and monitoring of darunavir in elderly patients, reflecting the greater frequency of decreased hepatic function, and of concomitant disease or other drug therapy [see CLINICAL PHARMACOLOGY (12.3)].
+In general, caution should be exercised in the administration and monitoring of darunavir in elderly patients, reflecting the greater frequency of decreased hepatic function, and of concomitant disease or other drug therapy [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Hepatic Impairment
 
 No dosage adjustment of darunavir/ritonavir is necessary for patients with either mild or moderate hepatic impairment.
 No pharmacokinetic or safety data are available regarding the use of darunavir/ritonavir in subjects with severe hepatic impairment.
-Therefore, darunavir/ritonavir is not recommended for use in patients with severe hepatic impairment [see DOSAGE AND ADMINISTRATION (2.6) and CLINICAL PHARMACOLOGY (12.3)].
+Therefore, darunavir/ritonavir is not recommended for use in patients with severe hepatic impairment [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
 Population pharmacokinetic analysis showed that the pharmacokinetics of darunavir were not significantly affected in HIV-infected subjects with moderate renal impairment (CrCL between 30 to 60 mL/min, n=20).
 No pharmacokinetic data are available in HIV-1-infected patients with severe renal impairment or end stage renal disease; however, because the renal clearance of darunavir is limited, a decrease in total body clearance is not expected in patients with renal impairment.
-As darunavir and ritonavir are highly bound to plasma proteins, it is unlikely that they will be significantly removed by hemodialysis or peritoneal dialysis [see CLINICAL PHARMACOLOGY (12.3)].
+As darunavir and ritonavir are highly bound to plasma proteins, it is unlikely that they will be significantly removed by hemodialysis or peritoneal dialysis [see Clinical Pharmacology (12.3)].

@@ -2,12 +2,12 @@
 
 The following adverse reactions are discussed in other sections of labeling:
 
-- Hepatotoxicity [see WARNINGS AND PRECAUTIONS (5.2)]
-- Severe Skin Reactions [see WARNINGS AND PRECAUTIONS (5.3)]
-- Diabetes Mellitus/Hyperglycemia [see WARNINGS AND PRECAUTIONS (5.6)]
-- Fat Redistribution [see WARNINGS AND PRECAUTIONS (5.7)]
-- Immune Reconstitution Syndrome [see WARNINGS AND PRECAUTIONS (5.8)]
-- Hemophilia [see WARNINGS AND PRECAUTIONS (5.9)]
+- Hepatotoxicity [see Warnings and Precautions (5.2)]
+- Severe Skin Reactions [see Warnings and Precautions (5.3)]
+- Diabetes Mellitus/Hyperglycemia [see Warnings and Precautions (5.6)]
+- Fat Redistribution [see Warnings and Precautions (5.7)]
+- Immune Reconstitution Syndrome [see Warnings and Precautions (5.8)]
+- Hemophilia [see Warnings and Precautions (5.9)]
 
 Due to the need for co-administration of darunavir with ritonavir, please refer to ritonavir prescribing information for ritonavir-associated adverse reactions.
 
@@ -225,14 +225,14 @@ The following serious ADRs of at least moderate intensity (greater than or equal
 
 Patients Co-Infected with Hepatitis B and/or Hepatitis C Virus
 
-In subjects co-infected with hepatitis B or C virus receiving darunavir/ritonavir, the incidence of adverse events and clinical chemistry abnormalities was not higher than in subjects receiving darunavir/ritonavir who were not co-infected, except for increased hepatic enzymes [see WARNINGS AND PRECAUTIONS (5.2)].
+In subjects co-infected with hepatitis B or C virus receiving darunavir/ritonavir, the incidence of adverse events and clinical chemistry abnormalities was not higher than in subjects receiving darunavir/ritonavir who were not co-infected, except for increased hepatic enzymes [see Warnings and Precautions (5.2)].
 The pharmacokinetic exposure in co-infected subjects was comparable to that in subjects without co-infection.
 
 Clinical Trials Experience: Pediatric Patients
 
 Darunavir/ritonavir has been studied in combination with other antiretroviral agents in 3 Phase 2 trials.
 TMC114-C212, in which 80 antiretroviral treatment-experienced HIV-1 infected pediatric subjects 6 to less than 18 years of age and weighing at least 20 kg were included, TMC114-C228, in which 21 antiretroviral treatment-experienced HIV-1-infected pediatric subjects 3 to less than 6 years of age and weighing at least 10 kg were included, and TMC114-C230 in which 12 antiretroviral treatment-naïve HIV-1 infected pediatric patients aged from 12 to less than 18 years and weighing at least 40 kg were included.
-The TMC114-C212 and C228 trials evaluated darunavir/ritonavir twice daily dosing and the TMC114-C230 trial evaluated darunavir/ritonavir once daily dosing [see USE IN SPECIFIC POPULATIONS (8.4) and CLINICAL STUDIES (14.4)].
+The TMC114-C212 and C228 trials evaluated darunavir/ritonavir twice daily dosing and the TMC114-C230 trial evaluated darunavir/ritonavir once daily dosing [see Use in Specific Populations (8.4) and Clinical Studies (14.4)].
 
 Frequency, type, and severity of ADRs in pediatric subjects were comparable to those observed in adults.
 
@@ -268,7 +268,7 @@ Rhabdomyolysis (associated with co-administration with HMG-CoA reductase inhibit
 
 Skin and Subcutaneous Tissue Disorders
 
-Toxic epidermal necrolysis, acute generalized exanthematous pustulosis, drug rash with eosinophilia and systemic symptoms [see WARNINGS AND PRECAUTIONS (5.3)]
+Toxic epidermal necrolysis, acute generalized exanthematous pustulosis, drug rash with eosinophilia and systemic symptoms [see Warnings and Precautions (5.3)]
 
 Renal and Urinary Disorders
 

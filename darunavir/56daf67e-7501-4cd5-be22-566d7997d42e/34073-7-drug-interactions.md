@@ -17,9 +17,9 @@ Co-administration of darunavir and ritonavir and other drugs that inhibit CYP3A,
 
 Table 10 provides dosing recommendations as a result of drug interactions with darunavir/ritonavir.
 These recommendations are based on either drug interaction studies or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of efficacy.
-The table includes examples of potentially significant interactions but is not all inclusive [see CONTRAINDICATIONS (4) and CLINICAL PHARMACOLOGY (12.3)], and therefore the label of each drug that is co-administered with darunavir/ritonavir should be consulted for information related to the route of metabolism, interaction pathways, potential risks, and specific actions to be taken with regard to co-administration.
+The table includes examples of potentially significant interactions but is not all inclusive [see Contraindications (4) and Clinical Pharmacology (12.3)], and therefore the label of each drug that is co-administered with darunavir/ritonavir should be consulted for information related to the route of metabolism, interaction pathways, potential risks, and specific actions to be taken with regard to co-administration.
 
-Table 10: Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May be Recommended Based on Drug Interaction Studies or Predicted Interaction (see CONTRAINDICATIONS (4) for a list of examples of contraindicated drugs) [see CLINICAL PHARMACOLOGY (12.3) for Magnitude of Interaction, Tables 15 and 16]
+Table 10: Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May be Recommended Based on Drug Interaction Studies or Predicted Interaction (see Contraindications (4) for a list of examples of contraindicated drugs) [see Clinical Pharmacology (12.3) for Magnitude of Interaction, Tables 15 and 16]
 
 | Concomitant Drug Class Drug Name Examples | Effect on Concentration of Darunavir Or Concomitant Drug | Clinical Comment |
 | --- | --- | --- |
@@ -95,7 +95,7 @@ Table 10: Established and Other Potentially Significant Drug Interactions: Alter
 | glecaprevir/pibrentasvir | ↑ glecaprevir ↑ pibrentasvir | Co-administration of darunavir /ritonavir with glecaprevir/pibrentasvir is not recommended |
 | Herbal product: |  |  |
 | St. John's wort (Hypericum perforatum) | ↓ darunavir | Co-administration is contraindicated due to potential for reduced plasma concentrations of darunavir, which may result in loss of therapeutic effect and development of resistance. |
-| Hormonal contraceptives: |  | Effective alternative (non-hormonal) contraceptive method or a barrier method of contraception is recommended [see USE IN SPECIFIC POPULATIONS (8.3)]. |
+| Hormonal contraceptives: |  | Effective alternative (non-hormonal) contraceptive method or a barrier method of contraception is recommended [see Use in Specific Populations (8.3)]. |
 | ethinyl estradiol, norethindrone, drospirenone | ↓ ethinyl estradiol ↓norethindrone drospirenone: effects unknown | For co-administration with drospirenone, clinical monitoring is recommended due to the potential for hyperkalemia. No data are available to make recommendations on co-administration with other hormonal contraceptives. |
 | Immunosuppressants: | ↑ immunosuppressants |  |
 | e.g. cyclosporine, tacrolimus, sirolimus |  | Therapeutic concentration monitoring of the immunosuppressive agent is recommended when co-administered with darunavir/ritonavir |

@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Darunavir is an HIV-1 antiviral drug [see MICROBIOLOGY (12.4)].
+Darunavir is an HIV-1 antiviral drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -75,7 +75,7 @@ Hepatic Impairment:
 
 Darunavir is primarily metabolized by the liver.
 The steady-state pharmacokinetic parameters of darunavir were similar after multiple dose co-administration of darunavir/ritonavir 600/100 mg twice daily to subjects with normal hepatic function (n=16), mild hepatic impairment (Child- Pugh Class A, n=8), and moderate hepatic impairment (Child-Pugh Class B, n=8).
-The effect of severe hepatic impairment on the pharmacokinetics of darunavir has not been evaluated [see DOSAGE AND ADMINISTRATION (2.6) and USE IN SPECIFIC POPULATIONS (8.6)].
+The effect of severe hepatic impairment on the pharmacokinetics of darunavir has not been evaluated [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
 
 Hepatitis B or Hepatitis C Virus Co-infection:
 
@@ -86,7 +86,7 @@ Renal Impairment:
 Results from a mass balance study with 14C- darunavir/ritonavir showed that approximately 7.7% of the administered dose of darunavir is excreted in the urine as unchanged drug.
 As darunavir and ritonavir are highly bound to plasma proteins, it is unlikely that they will be significantly removed by hemodialysis or peritoneal dialysis.
 Population pharmacokinetic analysis showed that the pharmacokinetics of darunavir were not significantly affected in HIV-1- infected subjects with moderate renal impairment (CrCL between 30 to 60 mL/min, n=20).
-There are no pharmacokinetic data available in HIV-1-infected patients with severe renal impairment or end stage renal disease [see USE IN SPECIFIC POPULATIONS (8.7)].
+There are no pharmacokinetic data available in HIV-1-infected patients with severe renal impairment or end stage renal disease [see Use in Specific Populations (8.7)].
 
 Gender:
 
@@ -99,19 +99,19 @@ Population pharmacokinetic analysis of darunavir in HIV-1-infected subjects indi
 
 Geriatric Patients:
 
-Population pharmacokinetic analysis in HIV-1-infected subjects showed that darunavir pharmacokinetics are not considerably different in the age range (18 to 75 years) evaluated in HIV-1-infected subjects (n=12, age greater than or equal to 65) [see USE IN SPECIFIC POPULATIONS (8.5)].
+Population pharmacokinetic analysis in HIV-1-infected subjects showed that darunavir pharmacokinetics are not considerably different in the age range (18 to 75 years) evaluated in HIV-1-infected subjects (n=12, age greater than or equal to 65) [see Use in Specific Populations (8.5)].
 
 Pediatric Patients:
 
 Darunavir/Ritonavir Administered Twice Daily
 
-The pharmacokinetics of darunavir in combination with ritonavir in 93 antiretroviral treatment- experienced HIV-1-infected pediatric subjects 3 to less than 18 years of age and weighing at least 10 kg showed that the administered weight-based dosages resulted in similar darunavir exposure when compared to the darunavir exposure achieved in treatment-experienced adults receiving darunavir/ritonavir 600/100 mg twice daily [see DOSAGE AND ADMINISTRATION (2.5)].
+The pharmacokinetics of darunavir in combination with ritonavir in 93 antiretroviral treatment- experienced HIV-1-infected pediatric subjects 3 to less than 18 years of age and weighing at least 10 kg showed that the administered weight-based dosages resulted in similar darunavir exposure when compared to the darunavir exposure achieved in treatment-experienced adults receiving darunavir/ritonavir 600/100 mg twice daily [see Dosage and Administration (2.5)].
 
 Darunavir/Ritonavir Administered Once Daily
 
-The pharmacokinetics of darunavir in combination with ritonavir in 12 antiretroviral treatment-naïve HIV-1-infected pediatric subjects 12 to less than 18 years of age and weighing at least 40 kg receiving darunavir/ritonavir 800/100 mg once daily resulted in similar darunavir exposures when compared to the darunavir exposure achieved in treatment-naïve adults receiving darunavir/ritonavir 800/100 mg once daily [see DOSAGE AND ADMINISTRATION (2.5)].
+The pharmacokinetics of darunavir in combination with ritonavir in 12 antiretroviral treatment-naïve HIV-1-infected pediatric subjects 12 to less than 18 years of age and weighing at least 40 kg receiving darunavir/ritonavir 800/100 mg once daily resulted in similar darunavir exposures when compared to the darunavir exposure achieved in treatment-naïve adults receiving darunavir/ritonavir 800/100 mg once daily [see Dosage and Administration (2.5)].
 
-Based on population pharmacokinetic modeling and simulation, the proposed darunavir/ritonavir once daily dosing regimens for pediatric patients 3 to less than 12 years of age is predicted to result in similar darunavir exposures when compared to the darunavir exposures achieved in treatment-naïve adults receiving darunavir/ritonavir 800/100 mg once daily [see DOSAGE AND ADMINISTRATION (2.5)].
+Based on population pharmacokinetic modeling and simulation, the proposed darunavir/ritonavir once daily dosing regimens for pediatric patients 3 to less than 12 years of age is predicted to result in similar darunavir exposures when compared to the darunavir exposures achieved in treatment-naïve adults receiving darunavir/ritonavir 800/100 mg once daily [see Dosage and Administration (2.5)].
 
 The population pharmacokinetic parameters in pediatric subjects with darunavir/ritonavir administered once or twice daily are summarized in the table below:
 
@@ -166,7 +166,7 @@ Solid vertical line: ratio of 1.0; dotted vertical lines: reference lines of 0.8
 
 Drug Interactions
 
-[See also CONTRAINDICATIONS (4), WARNINGS AND PRECAUTIONS (5.5) and DRUG INTERACTIONS (7).]
+[See also Contraindications (4), Warnings and Precautions (5.5) and Drug Interactions (7).]
 
 Darunavir co-administered with ritonavir is an inhibitor of CYP3A, CYP2D6, and P-gp.
 Co-administration of darunavir and ritonavir with drugs primarily metabolized by CYP3A and CYP2D6, or are transported by P-gp, may result in increased plasma concentrations of such drugs, which could increase or prolong their therapeutic effect and adverse events.
@@ -178,7 +178,7 @@ Co-administration of darunavir and ritonavir and other drugs that inhibit CYP3A 
 
 Drug interaction studies were performed with darunavir and other drugs likely to be co-administered and some drugs commonly used as probes for pharmacokinetic interactions.
 The effects of co-administration of darunavir on the AUC, Cmax, and Cmin values are summarized in Table 15 (effect of other drugs on darunavir) and Table 16 (effect of darunavir on other drugs).
-For information regarding clinical recommendations, see DRUG INTERACTIONS (7).
+For information regarding clinical recommendations, see Drug Interactions (7).
 
 Several interaction studies have been performed with a dose other than the recommended dose of the co-administered drug or darunavir; however, the results are applicable to the recommended dose of the co-administered drug and/or darunavir.
 

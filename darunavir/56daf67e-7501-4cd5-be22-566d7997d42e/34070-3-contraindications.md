@@ -1,7 +1,7 @@
 # 4 CONTRAINDICATIONS
 
 Co-administration of darunavir/ritonavir is contraindicated with drugs that are highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening events (narrow therapeutic index).
-Examples of these drugs and other contraindicated drugs (which may lead to reduced efficacy of darunavir) are listed below [see DRUG INTERACTIONS (7.3)].
+Examples of these drugs and other contraindicated drugs (which may lead to reduced efficacy of darunavir) are listed below [see Drug Interactions (7.3)].
 Due to the need for co-administration of darunavir with ritonavir, please refer to ritonavir prescribing information for a description of ritonavir contraindications.
 
 - Alpha 1-adrenoreceptor antagonist: alfuzosin

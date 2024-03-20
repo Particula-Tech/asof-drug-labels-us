@@ -2,14 +2,14 @@
 
 ## 2.1 Testing Prior to Initiation of darunavir/ritonavir
 
-In treatment-experienced patients, treatment history, genotypic and/or phenotypic testing is recommended to assess drug susceptibility of the HIV-1 virus [see MICROBIOLOGY (12.4)].
-Refer to DOSAGE AND ADMINISTRATION (2.3), (2.4) and (2.5) for dosing recommendations.
+In treatment-experienced patients, treatment history, genotypic and/or phenotypic testing is recommended to assess drug susceptibility of the HIV-1 virus [see Microbiology (12.4)].
+Refer to Dosage and Administration (2.3), (2.4) and (2.5) for dosing recommendations.
 
-Appropriate laboratory testing such as serum liver biochemistries should be conducted prior to initiating therapy with darunavir/ritonavir [see WARNINGS AND PRECAUTIONS (5.2)].
+Appropriate laboratory testing such as serum liver biochemistries should be conducted prior to initiating therapy with darunavir/ritonavir [see Warnings and Precautions (5.2)].
 
 ## 2.2 Monitoring During Treatment with darunavir/ritonavir
 
-Patients with underlying chronic hepatitis, cirrhosis, or in patients who have pre-treatment elevations of transaminases should be monitored for elevation in serum liver biochemistries, especially during the first several months of darunavir/ritonavir treatment [see WARNINGS and PRECAUTIONS (5.2)].
+Patients with underlying chronic hepatitis, cirrhosis, or in patients who have pre-treatment elevations of transaminases should be monitored for elevation in serum liver biochemistries, especially during the first several months of darunavir/ritonavir treatment [see Warnings and Precautions (5.2)].
 
 ## 2.3 Recommended Dosage in Adult Patients
 
@@ -56,7 +56,7 @@ If a child is unable to reliably swallow a tablet, the use of darunavir oral sus
 The recommended dose of darunavir/ritonavir for pediatric patients (3 to less than 18 years of age and weighing at least 10 kg is based on body weight (see Tables 3 and 5) and should not exceed the recommended adult dose.
 Darunavir should be taken with ritonavir and with food.
 
-The recommendations for the darunavir/ritonavir dosage regimens were based on pediatric clinical trial data and population pharmacokinetic modeling and simulation [see USE IN SPECIFIC POPULATIONS (8.4) and CLINICAL PHARMACOLOGY (12.3)].
+The recommendations for the darunavir/ritonavir dosage regimens were based on pediatric clinical trial data and population pharmacokinetic modeling and simulation [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
 
 Dosing Recommendations for Treatment-Naïve Pediatric Patients or Antiretroviral Treatment-Experienced Pediatric Patients with No Darunavir Resistance Associated Substitutions
 
@@ -90,9 +90,9 @@ Table 5:Recommended Dose for Pediatric Patients Weighing At Least 15 kg Who are 
 | Greater than or equal to 40 kg | Darunavir 600 mg with ritonavir 100 mg |
 | adarunavir resistance associated substitutions: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V and L89V |  |
 
-The use of darunavir/ritonavir in pediatric patients below 3 years of age is not recommended [see WARNINGS AND PRECAUTIONS (5.10) and USE IN SPECIFIC POPULATIONS (8.4)].
+The use of darunavir/ritonavir in pediatric patients below 3 years of age is not recommended [see Warnings and Precautions (5.10) and Use in Specific Populations (8.4)].
 
 ## 2.6 Not Recommended in Patients with Severe Hepatic Impairment
 
 No dosage adjustment is required in patients with mild or moderate hepatic impairment.
-No data are available regarding the use of darunavir/ritonavir when co-administered to subjects with severe hepatic impairment; therefore, darunavir/ritonavir is not recommended for use in patients with severe hepatic impairment [see USE IN SPECIFIC POPULATIONS (8.6) and CLINICAL PHARMACOLOGY (12.3)].
+No data are available regarding the use of darunavir/ritonavir when co-administered to subjects with severe hepatic impairment; therefore, darunavir/ritonavir is not recommended for use in patients with severe hepatic impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].

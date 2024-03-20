@@ -30,7 +30,7 @@ During post-marketing experience toxic epidermal necrolysis, drug rash with eosi
 Discontinue darunavir/ritonavir immediately if signs or symptoms of severe skin reactions develop.
 These can include but are not limited to severe rash or rash accompanied with fever, general malaise, fatigue, muscle or joint aches, blisters, oral lesions, conjunctivitis, hepatitis and/or eosinophilia.
 
-Rash (all grades, regardless of causality) occurred in 10.3% of subjects treated with darunavir/ritonavir [also see ADVERSE REACTIONS (6)].
+Rash (all grades, regardless of causality) occurred in 10.3% of subjects treated with darunavir/ritonavir [see Adverse Reactions (6)].
 Rash was mostly mild-to-moderate, often occurring within the first four weeks of treatment and resolving with continued dosing.
 The discontinuation rate due to rash in subjects using darunavir/ritonavir was 0.5%.
 
@@ -56,8 +56,8 @@ These interactions may lead to:
 - Loss of therapeutic effect of the concomitant medications from lower exposures of active metabolite(s).
 - Loss of therapeutic effect of darunavir/ritonavir and possible development of resistance from lower exposures of darunavir /ritonavir.
 
-See Table 10 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see DRUG INTERACTIONS (7)].
-Consider the potential for drug interactions prior to and during darunavir/ritonavir therapy; review concomitant medications during darunavir/ritonavir therapy; and monitor for the adverse reactions associated with the concomitant drugs [see CONTRAINDICATIONS (4) and DRUG INTERACTIONS (7)].
+See Table 10 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
+Consider the potential for drug interactions prior to and during darunavir/ritonavir therapy; review concomitant medications during darunavir/ritonavir therapy; and monitor for the adverse reactions associated with the concomitant drugs [see Contraindications (4) and Drug Interactions (7)].
 
 ## 5.6 Diabetes Mellitus/Hyperglycemia
 
@@ -89,4 +89,4 @@ A causal relationship between PI therapy and these episodes has not been establi
 
 ## 5.10 Not Recommended in Pediatric Patients Below 3 Years of Age
 
-Darunavir/ritonavir in pediatric patients below 3 years of age is not recommended in view of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see USE IN SPECIFIC POPULATIONS (8.1 and 8.4) and CLINICAL PHARMACOLOGY (12.3)].
+Darunavir/ritonavir in pediatric patients below 3 years of age is not recommended in view of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Use in Specific Populations (8.1 and 8.4) and Clinical Pharmacology (12.3)].
