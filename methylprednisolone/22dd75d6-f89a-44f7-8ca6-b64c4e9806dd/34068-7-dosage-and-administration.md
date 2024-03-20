@@ -44,27 +44,27 @@ Other corticoids, including methylprednisolone, hydrocortisone, prednisone, and 
 
 The following should be kept in mind when considering alternate day therapy:
 
-- • Basic principles and indications for corticosteroid therapy should apply.
-  The benefits of alternate day therapy should not encourage the indiscriminate use of steroids.
-- • Alternate day therapy is a therapeutic technique primarily designed for patients in whom long-term pharmacologic corticoid therapy is anticipated.
-- • In less severe disease processes in which corticoid therapy is indicated, it may be possible to initiate treatment with alternate day therapy.
-  More severe disease states usually will require daily divided high-dose therapy for initial control of the disease process.
-  The initial suppressive dose level should be continued until satisfactory clinical response is obtained, which is usually four to ten days in the case of many allergic and collagen diseases.
-  It is important to keep the period of initial suppressive dose as brief as possible, particularly when subsequent use of alternate day therapy is intended.
-- Once control has been established, two courses are available: (a) change to alternate day therapy and then gradually reduce the amount of corticoid given every other day or (b) following control of the disease process, reduce the daily dose of corticoid to the lowest effective level as rapidly as possible and then change over to an alternate day schedule.
-  Theoretically, course (a) may be preferable.
-- • Because of the advantages of alternate day therapy, it may be desirable to try patients on this form of therapy who have been on daily corticoids for long periods of time (e.g., patients with rheumatoid arthritis).
-  Since these patients may already have a suppressed HPA axis, establishing them on alternate day therapy may be difficult and not always successful.
-  However, it is recommended that regular attempts be made to change them over.
-  It may be helpful to triple or even quadruple the daily maintenance dose and administer this every other day rather than just doubling the daily dose if difficulty is encountered.
-  Once the patient is again controlled, an attempt should be made to reduce this dose to a minimum.
-- • As indicated above, certain corticosteroids, because of their prolonged suppressive effect on adrenal activity, are not recommended for alternate day therapy (e.g., dexamethasone and betamethasone).
-- • The maximal activity of the adrenal cortex is between 2 am and 8 am, and it is minimal between 4 pm and midnight.
-  Exogenous corticosteroids suppress adrenocortical activity the least, when given at the time of maximal activity (am).
-- • In using alternate day therapy, it is important, as in all therapeutic situations, to individualize and tailor the therapy to each patient.
-  Complete control of symptoms will not be possible in all patients.
-  An explanation of the benefits of alternate day therapy will help the patient to understand and tolerate the possible flare-up in symptoms which may occur in the latter part of the off-steroid day.
-  Other symptomatic therapy may be added or increased at this time if needed.
-- • In the event of an acute flare-up of the disease process, it may be necessary to return to a full suppressive daily divided corticoid dose for control.
-  Once control is again established, alternate day therapy may be reinstituted.
-- • Although many of the undesirable features of corticosteroid therapy can be minimized by alternate day therapy, as in any therapeutic situation, the physician must carefully weigh the benefit-risk ratio for each patient in whom corticoid therapy is being considered.
+1. 1) Basic principles and indications for corticosteroid therapy should apply.
+   The benefits of alternate day therapy should not encourage the indiscriminate use of steroids.
+2. 2) Alternate day therapy is a therapeutic technique primarily designed for patients in whom long-term pharmacologic corticoid therapy is anticipated.
+3. 3) In less severe disease processes in which corticoid therapy is indicated, it may be possible to initiate treatment with alternate day therapy.
+   More severe disease states usually will require daily divided high-dose therapy for initial control of the disease process.
+   The initial suppressive dose level should be continued until satisfactory clinical response is obtained, which is usually four to ten days in the case of many allergic and collagen diseases.
+   It is important to keep the period of initial suppressive dose as brief as possible, particularly when subsequent use of alternate day therapy is intended.
+4. Once control has been established, two courses are available: (a) change to alternate day therapy and then gradually reduce the amount of corticoid given every other day or (b) following control of the disease process, reduce the daily dose of corticoid to the lowest effective level as rapidly as possible and then change over to an alternate day schedule.
+   Theoretically, course (a) may be preferable.
+5. 4) Because of the advantages of alternate day therapy, it may be desirable to try patients on this form of therapy who have been on daily corticoids for long periods of time (e.g., patients with rheumatoid arthritis).
+   Since these patients may already have a suppressed HPA axis, establishing them on alternate day therapy may be difficult and not always successful.
+   However, it is recommended that regular attempts be made to change them over.
+   It may be helpful to triple or even quadruple the daily maintenance dose and administer this every other day rather than just doubling the daily dose if difficulty is encountered.
+   Once the patient is again controlled, an attempt should be made to reduce this dose to a minimum.
+6. 5) As indicated above, certain corticosteroids, because of their prolonged suppressive effect on adrenal activity, are not recommended for alternate day therapy (e.g., dexamethasone and betamethasone).
+7. 6) The maximal activity of the adrenal cortex is between 2 am and 8 am, and it is minimal between 4 pm and midnight.
+   Exogenous corticosteroids suppress adrenocortical activity the least, when given at the time of maximal activity (am).
+8. 7) In using alternate day therapy, it is important, as in all therapeutic situations, to individualize and tailor the therapy to each patient.
+   Complete control of symptoms will not be possible in all patients.
+   An explanation of the benefits of alternate day therapy will help the patient to understand and tolerate the possible flare-up in symptoms which may occur in the latter part of the off-steroid day.
+   Other symptomatic therapy may be added or increased at this time if needed.
+9. 8) In the event of an acute flare-up of the disease process, it may be necessary to return to a full suppressive daily divided corticoid dose for control.
+   Once control is again established, alternate day therapy may be reinstituted.
+10. 9) Although many of the undesirable features of corticosteroid therapy can be minimized by alternate day therapy, as in any therapeutic situation, the physician must carefully weigh the benefit-risk ratio for each patient in whom corticoid therapy is being considered.
