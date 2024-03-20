@@ -22,9 +22,9 @@ Treatment was discontinued in 1.5% of patients due to adverse clinical events an
 Clinical adverse events were reported more frequently in HIV infected patients (21%) than in non-HIV infected patients (13%); however, the patterns in HIV infected and non-HIV infected patients were similar.
 The proportions of patients discontinuing therapy due to clinical adverse events were similar in the two groups (1.5%).
 
-The following treatment-related clinical adverse events occurred at an incidence of 1% or greater in 4048 patients receiving DIFLUCAN for 7 or more days in clinical trials: nausea 3.7%, headache 1.9%, skin rash 1.8%, vomiting 1.7%, abdominal pain 1.7%, and diarrhea 1.5%
+The following treatment-related clinical adverse events occurred at an incidence of 1% or greater in 4048 patients receiving DIFLUCAN for 7 or more days in clinical trials: nausea 3.7%, headache 1.9%, skin rash 1.8%, vomiting 1.7%, abdominal pain 1.7%, and diarrhea 1.5%.
 
-## Hepato-biliary
+## Hepato-biliary:
 
 In combined clinical trials and marketing experience, there have been rare cases of serious hepatic reactions during treatment with DIFLUCAN.
 (See WARNINGS.)
@@ -36,7 +36,7 @@ In each of these cases, liver function returned to baseline on discontinuation o
 In two comparative trials evaluating the efficacy of DIFLUCAN for the suppression of relapse of cryptococcal meningitis, a statistically significant increase was observed in median AST (SGOT) levels from a baseline value of 30 IU/L to 41 IU/L in one trial and 34 IU/L to 66 IU/L in the other.
 The overall rate of serum transaminase elevations of more than 8 times the upper limit of normal was approximately 1% in fluconazole-treated patients in clinical trials.
 These elevations occurred in patients with severe underlying disease, predominantly AIDS or malignancies, most of whom were receiving multiple concomitant medications, including many known to be hepatotoxic.
-The incidence of abnormally elevated serum transaminases was greater in patients taking DIFLUCAN concomitantly with one or more of the following medications: rifampin, phenytoin, isoniazid, valproic acid, or oral sulfonylurea hypoglycemic agents
+The incidence of abnormally elevated serum transaminases was greater in patients taking DIFLUCAN concomitantly with one or more of the following medications: rifampin, phenytoin, isoniazid, valproic acid, or oral sulfonylurea hypoglycemic agents.
 
 ## Post-Marketing Experience
 
@@ -63,14 +63,14 @@ Musculoskeletal System: myalgia.
 
 Nervous System: Insomnia, paresthesia, somnolence, tremor, vertigo.
 
-Skin and Appendages: Acute generalized exanthematous pustulosis, drug eruption including fixed drug eruption, increased sweating, exfoliative skin disorders including Stevens-Johnson syndrome and toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS) (See WARNINGS), alopecia
+Skin and Appendages: Acute generalized exanthematous pustulosis, drug eruption including fixed drug eruption, increased sweating, exfoliative skin disorders including Stevens-Johnson syndrome and toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS) (See WARNINGS), alopecia.
 
-## Adverse Reactions in Children
+## Adverse Reactions in Pediatric Patients:
 
 The pattern and incidence of adverse events and laboratory abnormalities recorded during pediatric clinical trials are comparable to those seen in adults.
 
 In Phase II/III clinical trials conducted in the United States and in Europe, 577 pediatric patients, ages 1 day to 17 years were treated with DIFLUCAN at doses up to 15 mg/kg/day for up to 1,616 days.
-Thirteen percent of children experienced treatment-related adverse events.
+Thirteen percent of pediatric patients experienced treatment-related adverse events.
 The most commonly reported events were vomiting (5%), abdominal pain (3%), nausea (2%), and diarrhea (2%).
 Treatment was discontinued in 2.3% of patients due to adverse clinical events and in 1.4% of patients due to laboratory test abnormalities.
 The majority of treatment-related laboratory abnormalities were elevations of transaminases or alkaline phosphatase.
@@ -84,3 +84,14 @@ Percentage of Patients With Treatment-Related Side Effects
 | Abdominal pain | 2.8 | 1.6 |
 | Nausea | 2.3 | 1.6 |
 | Diarrhea | 2.1 | 2.2 |
+
+Clinical Trials Experience in Pediatric Patients
+
+Safety in Prophylaxis of Invasive Candida Infections in Premature infants weighing less than 750 grams at birth
+
+In a Phase 3 clinical trial of pediatric patients (premature infants weighing less than 750 grams at birth), the incidence of intestinal perforation in infants receiving DIFLUCAN prophylaxis was higher compared to infants receiving placebo (see PRECAUTIONS: Pediatric Use).
+
+Safety in Pediatric Patients Receiving ECMO
+
+A cohort of 20 pediatric patients (1 day to 17 years of age) on ECMO received DIFLUCAN in a prospective, open-label, single-center safety and PK ECMO study.
+The adverse reaction profile of DIFLUCAN in these patients was similar to that of adult and pediatric non-ECMO patients (See PRECAUTIONS: Pediatric Use).

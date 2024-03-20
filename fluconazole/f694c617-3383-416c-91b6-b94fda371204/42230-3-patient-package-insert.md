@@ -8,21 +8,23 @@
 | How should I take DIFLUCAN? •Take DIFLUCAN exactly as your healthcare provider tells you to.•Take DIFLUCAN by mouth with or without food. •If you take too much DIFLUCAN, call your healthcare provider or go to the nearest emergency room right away. |  |  |  |  |
 | What should I avoid while taking DIFLUCAN? DIFLUCAN can cause dizziness and seizures. Do not drive or operate machinery until you know how DIFLUCAN affects you. |  |  |  |  |
 | What are the possible side effects of DIFLUCAN? DIFLUCAN may cause serious side effects including: •serious liver problems. Some people with serious medical problems have developed serious liver problems that became life-threatening or caused death while taking DIFLUCAN. Sometimes these liver problems can be reversed when you stop taking DIFLUCAN. Tell your healthcare provider right away if you have symptoms of serious liver problems including: |  |  |  |  |
-|  | odark colored urineosevere skin itchingoyellowing of the skin and eyes (jaundice) | olight-colored stoolsotiredness | ovomitingoloss of appetite |  |
+|  | •dark colored urine•severe skin itching•yellowing of the skin and eyes (jaundice) | •light-colored stools•tiredness | •vomiting•loss of appetite |  |
 | •serious allergic reactions: Serious allergic reactions (anaphylaxis) have happened while taking DIFLUCAN. Stop taking DIFLUCAN, call your healthcare provider or go to the nearest hospital emergency room right away if you get any signs or symptoms of an allergic reaction including: |  |  |  |  |
-|  | oshortness of breathofeveroswelling of the eyelids | ocoughingoskin rash, hives, blisters or skin peelingoface, mouth, neck, or any other part of the body | owheezingothrobbing of the heart or earsochills |  |
+|  | •shortness of breath•fever•swelling of the eyelids | •coughing•skin rash, hives, blisters or skin peeling•face, mouth, neck, or any other part of the body | •wheezing•throbbing of the heart or ears•chills |  |
 | •serious skin problems. Some people with serious medical problems have developed serious skin problems that have caused death while taking DIFLUCAN. Tell your healthcare provider right away if you develop a rash while taking DIFLUCAN. The most common side effects of DIFLUCAN include: |  |  |  |  |
 |  | •headache•dizziness | •diarrhea•stomach pain | •nausea or upset stomach•changes in the way food tastes |  |
 | Other side effects include: •adrenal insufficiency: Some people who have taken DIFLUCAN developed adrenal insufficiency that was reversible. Tell your healthcare provider right away if you have symptoms of adrenal insufficiency including: |  |  |  |  |
-|  | olong lasting fatigue | omuscle weakness | oloss of appetite |  |
-|  | oweight loss | ostomach pain | odizziness |  |
-|  | onausea | ovomiting |  |  |
+|  | •long lasting fatigue | •muscle weakness | •loss of appetite |  |
+|  | •weight loss | •stomach pain | •dizziness |  |
+|  | •nausea | •vomiting |  |  |
 | •dizziness or seizures. |  |  |  |  |
 | These are not all the possible side effects of DIFLUCAN. Call your healthcare provider for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |  |
 | How should I store DIFLUCAN? Store DIFLUCAN tablets below 86°F (30°C). Keep DIFLUCAN and all medicines out of the reach of children. |  |  |  |  |
 | General information about the safe and effective use of DIFLUCAN. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use DIFLUCAN for a condition for which it was not prescribed. Do not give DIFLUCAN to other people, even if they have the same symptoms you have. It may harm them. You can ask your healthcare provider for information about DIFLUCAN that is written for health professionals. |  |  |  |  |
 | What are the ingredients in DIFLUCAN? Active ingredient: fluconazole Inactive ingredients: microcrystalline cellulose, dibasic calcium phosphate anhydrous, povidone, croscarmellose sodium, FD&C Red No. 40 aluminum lake dye, and magnesium stearate. |  |  |  |  |
 | For Medical Information about DIFLUCAN, please visit www.pfizermedinfo.com or call 1-800-438-1985. |  |  |  |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration |  |  |  | Revised: 01/2023 |
+| This Patient Information has been approved by the U.S. Food and Drug Administration |  |  |  | Revised: 02/2024 |
 
-LAB-0380-14.0
+LAB-0380-15
+
+.0
