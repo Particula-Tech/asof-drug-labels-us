@@ -1,72 +1,54 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosage
+## 2.1 Important Dosing Information
 
-PANCREAZE is not interchangeable with other pancrelipase products.
+PANCREAZE is a mixture of enzymes including lipases, proteases, and amylases.
+PANCREAZE dosing is based on lipase units.
 
-PANCREAZE is orally administered.
-Therapy should be initiated at the lowest recommended dose and gradually increased.
-The dosage of PANCREAZE should be individualized based on clinical symptoms, the degree of steatorrhea present, and the fat content of the diet (see Limitations on Dosing below).
+- Use either an actual body weight or fat ingestion-based dosing scheme.
+- Start at the lowest recommended dosage and individualize the dosage based on clinical symptoms, the degree of steatorrhea present, and the fat content of the diet.
+  Changes in dosage may require an adjustment period of several days.
+- Do not exceed 2,500 lipase units/kg/meal, 10,000 lipase units/kg/day, or 4,000 lipase units/g fat ingested/day in adult and pediatric patients greater than 12 months of age without further investigation [see Warnings and Precautions (5.1)].
+- The total daily dosage in adult and pediatric patients greater than 12 months of age should reflect approximately three meals plus two or three snacks per day.
+  With each snack, administer approximately half the prescribed PANCREAZE dose for a meal.
+- Do not substitute other pancreatic enzyme products for PANCREAZE.
+  When switching from another pancreatic enzyme product to PANCREAZE, monitor patients for clinical symptoms of exocrine pancreatic insufficiency and titrate the dosage as needed.
 
-Dosage recommendations for pancreatic enzyme replacement therapy were published following the Cystic Fibrosis Foundation Consensus Conferences.
-1,2,3 PANCREAZE should be administered in a manner consistent with the recommendations of the Conferences provided in the following paragraphs with one exception.
-The Conferences recommend doses of 2,000 to 4,000 lipase units in infants up to 12 months.
-PANCREAZE is available in a 2,600 lipase unit delayed-release capsule.
-The recommended dose of PANCREAZE in infants up to 12 months is 2,600 lipase units per 120 mL of formula or per breast-feeding.
-Patients may be dosed on a fat ingestion-based or actual body weight-based dosing scheme.
+## 2.2 Recommended Dosage
 
-Infants (up to 12 months)
+Adult and Pediatric Patients Greater than 12 Months of Age
 
-Infants may be given 2,600 lipase units per 120 mL of formula or per breast-feeding.
-Do not mix PANCREAZE delayed-release capsule contents directly into formula or breast milk prior to administration [see Dosage and Administration (2.2)].
+The recommended oral initial starting dosage is:
 
-Children Older than 12 Months and Younger than 4 Years
+- 500 lipase units/kg/meal for adult and pediatric patients 4 years of age and older.
+- 1,000 lipase units/kg/meal for pediatric patients greater than 12 months to less than 4 years of age.
+- If signs and symptoms of malabsorption persist, increase the dosage.
+  Titrate to either 2,500 lipase units/kg/meal, 10,000 lipase units/kg/day, or less than 4,000 lipase units/grams of fat ingested/day.
+- Higher dosages may be administered if they are documented to be effective by fecal fat measures or an improvement in signs and symptoms of malabsorption including measures of nutritional status.
 
-Enzyme dosing should begin with 1,000 lipase units/kg of body weight per meal for children less than age 4 years to a maximum of 2,500 lipase units/kg of body weight per meal (or less than or equal to 10,000 lipase units/kg of body weight per day), or less than 4,000 lipase units/g fat ingested per day.
+Pediatric Patients Birth to 12 Months of Age
 
-Children 4 Years and Older and Adults
+The recommended oral dosage is 2,600 lipase units per 120 mL of formula or per breast-feeding.
 
-Enzyme dosing should begin with 500 lipase units/kg of body weight per meal for those older than age 4 years to a maximum of 2,500 lipase units/kg of body weight per meal (or less than or equal to 10,000 lipase units/kg of body weight per day), or less than 4,000 lipase units/g fat ingested per day.
+## 2.3 Preparation and Administration Instructions
 
-Usually, half of the prescribed PANCREAZE dose for an individualized full meal should be given with each snack.
-The total daily dose should reflect approximately three meals plus two or three snacks per day.
+Instruct adult and pediatric patients greater than 12 months of age, or their caregivers, of the following:
 
-Enzyme doses expressed as lipase units/kg of body weight per meal should be decreased in older patients because they weigh more but tend to ingest less fat per kilogram of body weight.
+- Take PANCREAZE with meals or snacks.
+  If a dose is missed, take the next dose with the next meal or snack.
+- Swallow capsules whole.
+- For patients who are unable to swallow intact capsules, carefully open the capsules and sprinkle the entire contents on a small amount of acidic soft food with a pH of 4.5 or less (e.g., applesauce).
+  Consume the entire mixture immediately.
+- Do not crush or chew PANCREAZE capsules or capsule contents.
+- Consume sufficient liquids (water or juice) to ensure complete swallowing of PANCREAZE capsules [see Warnings and Precautions (5.2)].
 
-Limitations on Dosing
+Instruct caregivers of pediatric patients birth to 12 months of age of the following:
 
-Dosing should not exceed the recommended maximum dosage set forth by the Cystic Fibrosis Foundation Consensus Conferences Guidelines.
-1, 2, 3
-
-If symptoms and signs of steatorrhea persist, the dosage may be increased by a healthcare professional.
-Patients should be instructed not to increase the dosage on their own.
-There is great inter-individual variation in response to enzymes; thus, a range of doses is recommended.
-Changes in dosage may require an adjustment period of several days.
-If doses are to exceed 2,500 lipase units/kg of body weight per meal, further investigation is warranted.
-
-Doses greater than 2,500 lipase units/kg of body weight per meal (or greater than 10,000 lipase units/kg of body weight per day) should be used with caution and only if they are documented to be effective by 3-day fecal fat measures that indicate a significantly improved coefficient of fat absorption.
-Doses greater than 6,000 lipase units/kg of body weight per meal have been associated with colonic strictures, indicative of fibrosing colonopathy, in children with cystic fibrosis less than 12 years of age [see Warnings and Precautions (5.1)].
-Patients currently receiving higher doses than 6,000 lipase units/kg of body weight per meal should be examined and the dosage either immediately decreased or titrated downward to a lower range.
-
-## 2.2 Administration
-
-PANCREAZE should always be taken as prescribed by a healthcare professional.
-
-Infants (up to 12 months)
-
-PANCREAZE should be administered to infants immediately prior to each feeding, using a dosage of 2,600 lipase units per 120 mL of formula or per breast-feeding (i.e., one delayed-release capsule with 2,600 USP units of lipase).
-Contents of the delayed-release capsule may be sprinkled on small amounts of acidic soft food with a pH of 4.5 or less (e.g., applesauce) and given to the infant within 15 minutes.
-Contents of the delayed-release capsule may also be administered directly to the mouth.
-Administration should be followed by breast milk or formula.
-Contents of the delayed-release capsule should not be mixed directly into formula or breast milk as this may diminish efficacy.
-Care should be taken to ensure that PANCREAZE is not crushed or chewed or retained in the mouth, to avoid irritation of the oral mucosa.
-
-Children and Adults
-
-PANCREAZE should be taken during meals or snacks, with sufficient fluid.
-PANCREAZE delayed-release capsules and delayed-release capsule contents should not be crushed or chewed.
-Delayed-release capsules should be swallowed whole.
-
-For patients who are unable to swallow intact delayed-release capsules, the delayed-release capsules may be carefully opened and the contents sprinkled on small amounts of acidic soft food with a pH of 4.5 or less (e.g., applesauce).
-The PANCREAZE-soft food mixture should be swallowed immediately without crushing or chewing, and followed with water or juice to ensure complete ingestion.
-Care should be taken to ensure that no drug is retained in the mouth.
+- Immediately prior to each breast-feeding session or each administration of 120 mL of formula, carefully open one PANCREAZE capsule (containing 2,600 USP units of lipase) and administer the entire contents using one of the following two methods:
+  - Sprinkle on a small amount of acidic soft food with a pH of 4.5 or less (e.g., applesauce) being careful not to crush the capsule contents.
+    The entire mixture should be given to the infant immediately.
+  - Sprinkle the capsule contents directly into the infant's mouth.
+- Immediately administer additional breast milk or formula after PANCREAZE to ensure complete swallowing of the capsule contents.
+- Do not mix PANCREAZE capsule contents directly into a bottle of breast milk or formula.
+- Do not crush PANCREAZE capsule contents, and visually inspect the infant's mouth to ensure that no drug is retained in the mouth [see Warnings and Precautions (5.2)].
+- If a dose is missed, administer the next dose with the next feeding.
