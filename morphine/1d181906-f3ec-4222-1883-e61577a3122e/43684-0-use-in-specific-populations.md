@@ -4,30 +4,33 @@
 
 Risk Summary
 
-Prolonged use of opioid analgesics during pregnancy can cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
-There are no available data with preservative-free morphine sulfate injection in pregnant women to inform a drug-associated risk for major birth defects and miscarriage.
-Published studies with morphine use during pregnancy have not reported a clear association with morphine and major birth defects [see Human Data].
+Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.5)].
+Available data with preservative-free morphine sulfate injection in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
+There are adverse outcomes reported with fetal exposure to opioid analgesics (see Clinical Considerations).
+Published studies with morphine use during pregnancy have not reported a clear association with morphine and major birth defects [see Error!
+Hyperlink reference not valid.].
 In published animal reproduction studies, morphine administered subcutaneously during the early gestational period produced neural tube defects (i.e., exencephaly and cranioschisis) at 5 and 16 times the human daily dose of 60 mg based on body surface area (HDD) in hamsters and mice, respectively, lower fetal body weight and increased incidence of abortion at 0.4 times the HDD in the rabbit, growth retardation at 6 times the HDD in the rat, and axial skeletal fusion and cryptorchidism at 16 times the HDD in the mouse.
-Administration of morphine sulfate to pregnant rats during organogenesis and through lactation resulted in cyanosis, hypothermia, decreased brain weights, pup mortality, decreased pup body weights, and adverse effects on reproductive tissues at 3–4 times the HDD; and long-term neurochemical changes in the brain of offspring which correlate with altered behavioral responses that persist through adulthood at exposures comparable to and less than the HDD [see Animal Data].
+Administration of morphine sulfate to pregnant rats during organogenesis and through lactation resulted in cyanosis, hypothermia, decreased brain weights, pup mortality, decreased pup body weights, and adverse effects on reproductive tissues at 3-4 times the HDD; and long-term neurochemical changes in the brain of offspring which correlate with altered behavioral responses that persist through adulthood at exposures comparable to and less than the HDD [see Error!
+Hyperlink reference not valid.].
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
 Fetal/Neonatal Adverse Reactions
 
-Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Use of opioid analgesics for an extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
-Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.5)].
 
 Labor or Delivery
 
-Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
+Opioids cross the placenta and may produce respiratory depression and psychophysiologic effects in neonates.
 An opioid antagonist, such as naloxone, must be available for reversal of opioid induced respiratory depression in the neonate.
 Preservative-free morphine sulfate injection is not recommended for use in women during and immediately prior to labor, when use of shorter-acting analgesics or other analgesic techniques are more appropriate.
 Opioid analgesics, including preservative-free morphine sulfate injection, can prolong labor through actions that temporarily reduce the strength, duration, and frequency of uterine contractions.
@@ -39,16 +42,16 @@ Data
 Human Data
 
 The results from a population-based prospective cohort, including 70 women exposed to morphine during the first trimester of pregnancy and 448 women exposed to morphine at any time during pregnancy, indicate no increased risk for congenital malformations.
-However, these studies cannot definitely establish the absence of any risk because of methodological limitations, including small sample size and non-randomized study design.
+However, these studies cannot definitely establish the absence of any risk because of methodological limitations, including small sample size and nonrandomized study design.
 
 Animal Data
 
 Formal reproductive and developmental toxicology studies for morphine have not been conducted.
 Exposure margins for the following published study reports are based on human daily dose of 60 mg morphine using a body surface area comparison (HDD).
 
-Neural tube defects (exencephaly and cranioschisis) were noted following subcutaneous administration of morphine sulfate (35–322 mg/kg) on Gestation Day 8 to pregnant hamsters (4.7 to 43.5 times the HDD).
+Neural tube defects (exencephaly and cranioschisis) were noted following subcutaneous administration of morphine sulfate (35-322 mg/kg) on Gestation Day 8 to pregnant hamsters (4.7 to 43.5 times the HDD).
 A no adverse effect level was not defined in this study and the findings cannot be clearly attributed to maternal toxicity.
-Neural tube defects (exencephaly), axial skeletal fusions, and cryptorchidism were reported following a single subcutaneous (SC) injection of morphine sulfate to pregnant mice (100–500 mg/kg) on Gestation Day 8 or 9 at 200 mg/kg or greater (16 times the HDD) and fetal resorption at 400 mg/kg or higher (32 times the HDD).
+Neural tube defects (exencephaly), axial skeletal fusions, and cryptorchidism were reported following a single subcutaneous (SC) injection of morphine sulfate to pregnant mice (100-500 mg/kg) on Gestation Day 8 or 9 at 200 mg/kg or greater (16 times the HDD) and fetal resorption at 400 mg/kg or higher (32 times the HDD).
 No adverse effects were noted following 100 mg/kg morphine in this model (8 times the HDD).
 In one study, following continuous subcutaneous infusion of doses greater than or equal to 2.72 mg/kg to mice (0.2 times the HDD), exencephaly, hydronephrosis, intestinal hemorrhage, split supraoccipital, malformed sternebrae, and malformed xiphoid were noted.
 The effects were reduced with increasing daily dose; possibly due to rapid induction of tolerance under these infusion conditions.
@@ -60,7 +63,7 @@ In a second rat study, decreased fetal weight and increased incidences of growth
 There was no evidence of fetal malformations or maternal toxicity.
 
 An increased incidence of abortion was noted in a study in which pregnant rabbits were treated with 2.5 (0.8 times the HDD) to 10 mg/kg morphine sulfate via subcutaneous injection from Gestation Day 6 to 10.
-In a second study, decreased fetal body weights were reported following treatment of pregnant rabbits with increasing doses of morphine (10–50 mg/kg/day) during the pre-mating period and 50 mg/kg/day (16 times the HDD) throughout the gestation period.
+In a second study, decreased fetal body weights were reported following treatment of pregnant rabbits with increasing doses of morphine (10-50 mg/kg/day) during the pre-mating period and 50 mg/kg/day (16 times the HDD) throughout the gestation period.
 No overt malformations were reported in either publication; although only limited endpoints were evaluated.
 
 In published studies in rats, exposure to morphine during gestation and/or lactation periods is associated with: decreased pup viability at 12.5 mg/kg/day or greater (2 times the HDD); decreased pup body weights at 15 mg/kg/day or greater (2.4 times the HDD); decreased litter size, decreased absolute brain and cerebellar weights, cyanosis, and hypothermia at 20 mg/kg/day (3.2 times the HDD); alteration of behavioral responses (play, social-interaction) at 1 mg/kg/day or greater (0.2 times the HDD); alteration of maternal behaviors (e.g., decreased nursing and pup retrievals) in mice at 1 mg/kg or higher (0.08 times the HDD) and rats at 1.5 mg/kg/day or higher (0.2 times the HDD); and a host of behavioral abnormalities in the offspring of rats, including altered responsiveness to opioids at 4 mg/kg/day (0.7 times the HDD) or greater.
@@ -82,7 +85,7 @@ Published lactation studies report variable concentrations of morphine in breast
 However, there is insufficient information to determine the effects of morphine on the breastfed infant and the effects of morphine on milk production.
 Lactation studies have not been conducted with preservative-free morphine sulfate injection, and no information is available on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for preservative-free morphine sulfate injection and any potential adverse effects on the breastfed infant from preservative-free morphine sulfate injection or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for preservative-free morphine sulfate injection and any potential adverse effects on the breastfed infant from preservative-free morphine sulfate injection or from the underlying maternal condition.
 
 Clinical Considerations
 
@@ -93,7 +96,7 @@ Withdrawal symptoms can occur in breastfed infants when maternal administration 
 
 Infertility
 
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
 In published animal studies, morphine administration adversely effected fertility and reproductive endpoints in male rats and prolonged estrus cycle in female rats [see Nonclinical Toxicology (13)].
@@ -107,12 +110,12 @@ Adequate studies to establish the safety and effectiveness of spinal morphine in
 Elderly patients (aged 65 years or older) may have increased sensitivity to preservative-free morphine sulfate injection.
 In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
-Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of preservative-free morphine sulfate injection slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.8)].
+Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid tolerant or when opioids were co-administered with other agents that depress respiration.
+Titrate the dosage of preservative-free morphine sulfate injection slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.9)].
 
 The pharmacodynamic effects of neuraxial morphine in the elderly are more variable than in the younger population.
 Patients will vary widely in the effective initial dose, rate of development of tolerance and the frequency and magnitude of associated adverse effects as the dose is increased.
-Initial doses should be based on careful clinical observation following "test doses", after making due allowances for the effects of the patient's age and infirmity on his/her ability to clear the drug, particularly in patients receiving epidural morphine.
+Initial doses should be based on careful clinical observation following “test doses”, after making due allowances for the effects of the patient’s age and infirmity on his/her ability to clear the drug, particularly in patients receiving epidural morphine.
 
 Morphine is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

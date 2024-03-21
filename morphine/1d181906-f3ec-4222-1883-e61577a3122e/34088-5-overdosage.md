@@ -2,25 +2,24 @@
 
 Clinical Presentation
 
-Acute overdose with preservative-free morphine sulfate injection can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.
-Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations [See Clinical Pharmacology (12.2)].
+Acute overdose with morphine can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, hypoglycemia, partial or complete airway obstruction, atypical snoring, and death.
+Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations [see Clinical Pharmacology (12.2)].
 
 Treatment of Overdose
 
 In case of overdose, priorities are the reestablishment of a patent and protected airway and institution of assisted or controlled ventilation, if needed.
 Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
-Cardiac arrest or arrhythmias will require advanced life-support techniques.
+Cardiac arrest or arrhythmias will require advanced life-support measures.
 
-The opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.
+Opioid antagonists, naloxone, are specific antidotes to respiratory depression resulting from opioid overdose.
 For clinically significant respiratory or circulatory depression secondary to morphine overdose, administer an opioid antagonist.
-Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to morphine overdose.
 
 As the duration of effect of naloxone is considerably shorter than that of epidural or intrathecal morphine, repeated administration may be necessary.
 Patients should be closely observed for evidence of renarcotization.
 
 Because the duration of opioid reversal is expected to be less than the duration of action of morphine in preservative-free morphine sulfate injection, particularly with epidural or intrathecal morphine, carefully monitor the patient until spontaneous respiration is reliably reestablished.
-If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product's prescribing information.
+If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product’s prescribing information.
 
-In an individual physically dependent on opioids, administration of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome.
+In an individual physically-dependent on opioids, administration of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome.
 The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the antagonist administered.
-If a decision is made to treat serious respiratory depression in the physically dependent patient, administration of the antagonist should be initiated with care and by titration with smaller than usual doses of the antagonist.
+If a decision is made to treat serious respiratory depression in the physically-dependent patient, administration of the antagonist should be initiated with care and by titration with smaller than usual doses of the antagonist.

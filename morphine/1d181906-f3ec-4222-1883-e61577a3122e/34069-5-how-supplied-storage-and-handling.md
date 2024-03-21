@@ -16,7 +16,7 @@ Accidental dermal exposure should be treated by the removal of any contaminated 
 
 PROTECT FROM LIGHT.
 Keep stored in carton until time of use.
-Store at 20°–25°C (68°–77°F), excursions permitted to 15°–30°C (59°–86°F) [See USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F), excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
 DO NOT FREEZE.
 Preservative-free morphine sulfate injection contains no preservative or antioxidant.
 Each 10 mL vial of preservative-free morphine sulfate injection is intended for SINGLE-DOSE ONLY.

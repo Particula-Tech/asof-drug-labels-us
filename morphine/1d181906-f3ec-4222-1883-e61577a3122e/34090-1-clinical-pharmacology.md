@@ -29,7 +29,7 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Morphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
 
 Effects on the Cardiovascular System
 
@@ -38,10 +38,10 @@ Manifestations of histamine release and/or peripheral vasodilation may include p
 
 Effects on the Endocrine System
 
-Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [See Adverse Reactions (6)].
+Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6)].
 
 Effects on the Immune System
@@ -52,13 +52,14 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration – Efficacy Relationships
 
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [See Dosage and Administration (2.1)].
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
+The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.5)].
 
 Concentration – Adverse Reaction Relationships
 
 There is a relationship between increasing morphine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [See Dosage and Administration (2.1, 2.2, 2.6)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, Error!
+Hyperlink reference not valid., 2.6)].
 
 ## 12.3 Pharmacokinetics
 
@@ -88,7 +89,7 @@ Approximately 4% of the dose injected epidurally reaches the CSF.
 This corresponds to the relative minimum effective epidural and intrathecal doses of 5 mg and 0.25 mg, respectively.
 The disposition of morphine in the CSF follows a biphasic pattern, with an early half-life of 1.5 h and a late phase half-life of about 6 h. Morphine crosses the dura slowly, with an absorption half-life across the dura averaging 22 minutes.
 Maximum CSF concentrations are seen 60 to 90 minutes after injection.
-Minimum effective CSF concentrations for postoperative analgesia average 150 ng/mL (range < 1–380 ng/mL).
+Minimum effective CSF concentrations for postoperative analgesia average 150 ng/mL (range < 1-380 ng/mL).
 
 Intrathecal Administration
 
