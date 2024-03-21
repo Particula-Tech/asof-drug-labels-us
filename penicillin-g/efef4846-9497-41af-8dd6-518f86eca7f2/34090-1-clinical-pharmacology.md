@@ -28,7 +28,7 @@ Nonrenal clearance includes hepatic metabolism and, to a lesser extent, biliary 
 The latter routes become more important with renal impairment.
 
 Probenecid blocks the renal tubular secretion of penicillin.
-Therefore, the concurrent administration of probenecid prolongs the elimination of penicillin G and, consequently, increases the serum concentrations.
+Therefore, the concurrent administration of probenecid prolongs the elimination of penicillin G and, consequently, increases serum concentrations.
 
 Penicillin G is distributed to most areas of the body including lung, liver, kidney, muscle, bone and placenta.
 In the presence of inflammation, levels of penicillin in abscesses, middle ear, pleural, peritoneal and synovial fluids are sufficient to inhibit most susceptible bacteria.

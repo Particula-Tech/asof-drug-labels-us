@@ -59,7 +59,7 @@ Uremic patients with a creatinine clearance greater than 10 mL/min/1.73 m2; admi
 Additional dosage modification should be made in patients with hepatic disease and renal impairment.
 
 For most acute infections, treatment should be continued for at least 48 to 72 hours after the patient becomes asymptomatic.
-Antibiotic therapy for Group A β-hemolytic streptococcal infections should be maintained for at least 10 days to reduce the risk of rheumatic fever.
+Antibiotic therapy for Group A β-hemolytic streptococcal infections should be maintained for atleast 10 days to reduce the risk of rheumatic fever.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
@@ -77,12 +77,12 @@ The following table shows the amount of solvent required for solution of various
 
 When the required volume of solvent is greater than the capacity of the vial, the penicillin can be dissolved by first injecting only a portion of the solvent into the vial, then withdrawing the resultant solution and combining it with the remainder of the solvent in a larger sterile container.
 
-Buffered Pfizerpen (penicillin G potassium) for Injection is highly water soluble.
+Buffered Pfizerpen (Penicillin G Potassium for Injection, USP) is highly water soluble.
 It may be dissolved in small amounts of Water for Injection, or Sterile Isotonic Sodium Chloride Solution for Parenteral Use.
 All solutions should be stored in a refrigerator.
 When refrigerated, penicillin solutions may be stored for seven days without significant loss of potency.
 
-Buffered Pfizerpen for Injection may be given intramuscularly or by continuous intravenous drip for dosages of 500,000, 1,000,000, or 5,000,000 units.
+Buffered Pfizerpen for Injection may be given intramuscularly or by continuous intravenous infusion for dosages of 500,000, 1,000,000, or 5,000,000 units.
 It is also suitable for intrapleural, intraarticular, and other local instillations.
 
 THE 20,000,000 UNIT DOSAGE MAY BE ADMINISTERED BY INTRAVENOUS INFUSION ONLY.
@@ -93,9 +93,9 @@ Keep total volume of injection small.
 The intramuscular route is the preferred route of administration.
 Solutions containing up to 100,000 units of penicillin per mL of diluent may be used with a minimum of discomfort.
 Greater concentration of penicillin G per mL is physically possible and may be employed where therapy demands.
-When large dosages are required, it may be advisable to administer aqueous solutions of penicillin by means of continuous intravenous drip.
+When large dosages are required, it may be advisable to administer aqueous solutions of penicillin by means of continuous intravenous infusion.
 
-### (2) Continuous Intravenous Drip
+### (2) Continuous Intravenous Infusion
 
 Determine the volume of fluid and rate of its administration required by the patient in a 24 hour period in the usual manner for fluid therapy, and add the appropriate daily dosage of penicillin to this fluid.
 For example, if an adult patient requires 2 liters of fluid in 24 hours and a daily dosage of 10 million units of penicillin, add 5 million units to 1 liter and adjust the rate of flow so the liter will be infused in 12 hours.

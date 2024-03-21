@@ -13,9 +13,9 @@ If an allergic reaction occurs, penicillin G should be discontinued and appropri
 Severe cutaneous adverse reactions (SCAR), such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported in patients taking beta-lactam antibiotics.
 When SCAR is suspected, Penicillin G Potassium for Injection, USP should be discontinued immediately and an alternative treatment should be considered.
 
-## Clostridium difficile associated diarrhea
+## Clostridioides difficile associated diarrhea
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Penicillin G Potassium for Injection, USP, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Penicillin G Potassium for Injection, USP, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -41,7 +41,7 @@ When indicated, incision and drainage or other surgical procedures should be per
 
 Prescribing Penicillin G Potassium for Injection, USP in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-## Intramuscular Therapy
+## Intramuscular and Intravenous Therapy
 
 Care should be taken to avoid intravenous or accidental intraarterial administration, or injection into or near major peripheral nerves or blood vessels, since such injections may produce neurovascular damage.
 Particular care should be taken with IV administration because of the possibility of thrombophlebitis.
@@ -110,14 +110,14 @@ Recommended guidelines for pediatric dosages are presented in Dosage and Adminis
 
 ## Geriatric Use
 
-Clinical studies of penicillin G Injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of penicillin G injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
-Penicillin G for Injections contains 6.8 mg (0.3 mEq) of sodium per million units.
+Penicillin G Potassium for Injection, USP contains 6.8 mg (0.3 mEq) of sodium per million units.
 At the usual recommended doses of 10 to 20 million units per day patients would receive between 68 and 136 mg/day (3 and 6 mEq) of sodium per day.
 The geriatric population may respond with a blunted natriuresis to salt loading.
 This may be clinically important with regard to such diseases as congestive heart failure.
