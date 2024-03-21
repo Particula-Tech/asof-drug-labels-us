@@ -68,8 +68,12 @@ The growth of children and adolescents receiving corticosteroids should be monit
 
 ## 8.5 Geriatric Use
 
-Clinical trials of XHANCE did not include sufficient numbers of subjects aged 65 years and older to determine whether they responded differently than younger subjects.
+Clinical trials of XHANCE for Chronic Rhinosinusitis with Nasal Polyps did not include sufficient numbers of patients aged 65 years and older to determine whether they responded differently than younger patients.
 Other reported clinical experience with fluticasone administered nasally or orally inhaled has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+There were 82 patients 65 years of age and older in clinical trials for Chronic Rhinosinusitis without Nasal Polyps [see Clinical Studies (14)].
+Of the total number of XHANCE-treated patients in these studies, 51 (14%) were 65 years of age and older.
+No overall differences in safety and effectiveness of XHANCE have been observed between patients 65 years of age and older and younger adult patients.
 
 ## 8.6 Hepatic Impairment
 

@@ -35,9 +35,11 @@ In placebo-controlled clinical trials of 16 weeks duration, cataracts were repor
 Among these patients, 2 patients treated with XHANCE reported subcapsular cataracts compared with none treated with placebo.
 Eleven patients (1.2%) in uncontrolled, open-label trials of 3 to 12 months duration developed new or worsening cataracts, of which none were subcapsular.
 Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure (IOP), glaucoma, and/or cataracts.
+Consider referral to an ophthalmologist in patients who develop ocular symptoms or use XHANCE long-term.
 
 ## 5.3 Hypersensitivity Reactions Including Anaphylaxis
 
+Hypersensitivity reactions (e.g., anaphylaxis, angioedema, urticaria, contact dermatitis, rash, hypotension, and bronchospasm) have been reported after administration of fluticasone propionate.
 XHANCE is contraindicated in patients with known hypersensitivity to fluticasone propionate or any of the ingredients of XHANCE.
 Discontinue XHANCE if such reactions (e.g., anaphylaxis, angioedema, urticaria, contact dermatitis, rash, hypotension, and bronchospasm) occur [see Contraindications (4) and Adverse Reactions (6.1)].
 
@@ -82,7 +84,7 @@ Decreases in bone mineral density (BMD) have been observed with long-term oral i
 The clinical significance of small changes in BMD with regard to long-term consequences such as fracture is unknown.
 Patients with major risk factors for decreased bone mineral content, such as prolonged immobilization, family history of osteoporosis, postmenopausal status, tobacco use, advanced age, poor nutrition, or chronic use of drugs that can reduce bone mass (e.g., anticonvulsants, oral corticosteroids), should be monitored and treated with established standards of care.
 
-A 2-year trial in 160 subjects (females aged 18 to 40 years, males aged 18 to 50 years) with asthma receiving chlorofluorocarbon (CFC)-propelled fluticasone propionate inhalation aerosol 88 or 440 mcg twice daily demonstrated no statistically significant changes in BMD at any time point (24, 52, 76, and 104 weeks of double-blind treatment) as assessed by dual-energy x-ray absorptiometry at lumbar regions L1 through L4.
+A 2-year trial in 160 patients (females aged 18 to 40 years, males aged 18 to 50 years) with asthma receiving chlorofluorocarbon (CFC)-propelled fluticasone propionate inhalation aerosol 88 or 440 mcg twice daily demonstrated no statistically significant changes in BMD at any time point (24, 52, 76, and 104 weeks of double-blind treatment) as assessed by dual-energy x-ray absorptiometry at lumbar regions L1 through L4.
 
 ## 5.8 Effect on Growth
 

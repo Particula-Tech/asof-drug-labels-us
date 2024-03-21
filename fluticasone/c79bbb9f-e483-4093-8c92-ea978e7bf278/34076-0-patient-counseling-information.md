@@ -43,7 +43,7 @@ Inform patients that corticosteroids administered by oral inhalation into the lu
 Use Twice Daily for Best Effect
 
 Inform patients that they should use XHANCE on a regular basis as directed.
-XHANCE, like other corticosteroids, does not have an immediate effect on CRSwNP or symptoms.
+XHANCE, like other corticosteroids, does not have an immediate effect on CRSsNP or CRSwNP or symptoms.
 Individual patients will experience a variable time to onset and degree of symptom relief and the full benefit may not be achieved until treatment has been administered for up to 16 weeks or longer.
 Maximum benefit may not be reached for a period of months.
 Patients should not increase the prescribed dosage, but should contact their healthcare providers if symptoms do not improve or if the condition worsens.
@@ -69,7 +69,8 @@ The patient should be instructed to gently insert the tapered tip of the cone-sh
 A seal must be maintained as the patient blows into the mouthpiece and actuates the spray pump.
 
 To actuate the device, patients should be advised to push the bottle up while continuing to blow forcefully into the mouthpiece.
-Pushing the bottle up actuates the spray pump, releasing a metered dose of aerosolized medication while simultaneously allowing a “burst” of exhaled breath to pass through the device.
+Within the device is a valve that prevents the release of breath until the bottle is pushed.
+Pushing the bottle also actuates the spray pump, releasing a metered dose of aerosolized medication while simultaneously allowing a “burst” of exhaled breath to pass through the device.
 This helps deliver the medication deep into the patient’s nose.
 
 Patients should be advised not to try to inhale (e.g., “sniff”) when blowing (exhaling) into the mouthpiece.
@@ -80,4 +81,4 @@ Distributed by: OptiNose US, Inc. 1020 Stony Hill Rd Yardley, PA 19067
 
 XHANCE and OPTINOSE are registered trademarks of OptiNose, Inc.
 
-©2023, OptiNose US, Inc. All rights reserved.
+©2024, OptiNose US, Inc. All rights reserved.

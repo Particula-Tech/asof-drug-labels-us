@@ -5,7 +5,7 @@ The active component of XHANCE is fluticasone propionate, a corticosteroid, havi
 Fluticasone propionate is a white powder with a molecular weight of 500.57, and the empirical formula is C25H31F3O5S.
 It is practically insoluble in water, freely soluble in dimethylformamide, sparingly soluble in acetone and dichloromethane, and slightly soluble in 96% ethanol.
 
-XHANCE (fluticasone propionate) nasal spray, 93 mcg, for nasal administration, with an exhalation delivery system that delivers an aqueous suspension of microfine fluticasone propionate having a particle size distribution in the range of 0 to 5 microns for topical nasal administration by means of a metering, atomizing spray pump and exhaled breath.
+XHANCE (fluticasone propionate) nasal spray, 93 mcg, for nasal administration, with an Optinose exhalation delivery system that delivers an aqueous suspension of microfine fluticasone propionate having a particle size distribution in the range of 0 to 5 microns for topical nasal administration by means of a metering, atomizing spray pump and exhaled breath.
 XHANCE also contains microcrystalline cellulose and carboxymethylcellulose sodium, dextrose, benzalkonium chloride, polysorbate 80, edetate disodium dihydrate, sodium hydroxide and hydrochloric acid (to adjust pH), and purified water, and has a pH between 5 and 7.
 
 Before initial use, prime XHANCE by gently shaking and then pressing the amber glass bottle 7 times or until a fine mist appears.

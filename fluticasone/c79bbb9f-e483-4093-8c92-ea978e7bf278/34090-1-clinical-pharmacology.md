@@ -7,7 +7,7 @@ Fluticasone propionate has been shown in vitro to exhibit a binding affinity for
 Data from the McKenzie vasoconstrictor assay in man are consistent with these results.
 The clinical significance of these findings is unknown.
 
-The precise mechanism through which fluticasone propionate affects CRSwNP and associated inflammatory symptoms is not known.
+The precise mechanism through which fluticasone propionate affects CRSsNP and CRSwNP and associated inflammatory symptoms is not known.
 Corticosteroids have been shown to have a wide range of effects on multiple cell types (e.g., mast cells, eosinophils, neutrophils, macrophages, lymphocytes) and mediators (e.g., histamine, eicosanoids, leukotrienes, cytokines) involved in inflammation.
 The anti-inflammatory action of corticosteroids contributes to their efficacy.
 In 7 trials in adults, fluticasone propionate nasal spray decreased nasal mucosal eosinophils in 66% of patients (35% for placebo) and basophils in 39% of patients (28% for placebo).
