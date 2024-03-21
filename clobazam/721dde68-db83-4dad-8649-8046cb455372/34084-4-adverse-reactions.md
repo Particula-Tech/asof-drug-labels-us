@@ -2,21 +2,14 @@
 
 Clinically significant adverse reactions that appear in other sections of the labeling include the following:
 
-- Risks from Concomitant Use with Opioids [see Warnings and Precautions (5.1)]
-- Abuse, Misuse, and Addiction [see Warnings and Precautions (5.2)]
-- Dependence and Withdrawal Reactions [see Warnings and Precautions (5.3)]
-- Potentiation of Sedation from Concomitant Use with Central Nervous System Depressants [see Warnings and Precautions (5.4)]
-- Somnolence or Sedation [see Warnings and Precautions (5.5)]
-- Serious Dermatological Reactions [see Contraindications (4), Warnings and Precautions (5.6)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.7)]
-- Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.8)]
+• Risks from Concomitant Use with Opioids [see Warnings and Precautions (5.1)] • Abuse, Misuse, and Addiction [see Warnings and Precautions (5.2)] • Dependence and Withdrawal Reactions [see Warnings and Precautions (5.3)] • Potentiation of Sedation from Concomitant Use with Central Nervous System Depressants [see Warnings and Precautions (5.4)] • Somnolence or Sedation [see Warnings and Precautions (5.5)] • Serious Dermatological Reactions [see Contraindications (4), Warnings and Precautions (5.6)] • Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity [see Warnings and Precautions (5.7)] • Suicidal Behavior and Ideation [see Warnings and Precautions (5.8)] • Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 During its development for the adjunctive treatment of seizures associated with LGS, clobazam was administered to 333 healthy volunteers and 300 patients with a current or prior diagnosis of LGS, including 197 patients treated for 12 months or more.
-The conditions and duration of exposure varied greatly and included single- and multiple- dose clinical pharmacology studies in healthy volunteers and two double-blind studies in patients with LGS (Study 1 and 2) [see Clinical Studies (14)].
+The conditions and duration of exposure varied greatly and included single- and multiple- dose clinical pharmacology studies in healthy volunteers and two double-blind studies in patients with LGS (Study 1 and 2) [seeClinical Studies (14)].
 Only Study 1 included a placebo group, allowing comparison of adverse reaction rates on clobazam at several doses to placebo.
 
 Adverse Reactions Leading to Discontinuation in an LGS Placebo Controlled Clinical Trial (Study 1)
@@ -32,7 +25,7 @@ Adverse Reactions Reported for ≥5% of Patients and More Frequently than Placeb
 
 |  | Placebo N=59% | Clobazam Dose Level |  |  | All Clobazam N=179% |
 | --- | --- | --- | --- | --- | --- |
-| Low a N=58% | Medium b N=62% | High c N=59% |  |  |  |
+| Low a N=58% | Medium bN=62% | High c N=59% |  |  |  |
 | Gastrointestinal Disorders |  |  |  |  |  |
 | Vomiting | 5 | 9 | 5 | 7 | 7 |
 | Constipation | 0 | 2 | 2 | 10 | 5 |
@@ -64,33 +57,33 @@ Adverse Reactions Reported for ≥5% of Patients and More Frequently than Placeb
 | Respiratory Disorders |  |  |  |  |  |
 | Cough | 0 | 3 | 5 | 7 | 5 |
 
-a Maximum daily dose of 5 mg for ≤30 kg body weight; 10 mg for >30 kg body weight
+aMaximum daily dose of 5 mg for ≤30 kg body weight; 10 mg for >30 kg body weight
 
-b Maximum daily dose of 10 mg for ≤30 kg body weight; 20 mg for >30 kg body weight
+bMaximum daily dose of 10 mg for ≤30 kg body weight; 20 mg for >30 kg body weight
 
-c Maximum daily dose of 20 mg for ≤30 kg body weight; 40 mg for >30 kg body weight
+cMaximum daily dose of 20 mg for ≤30 kg body weight; 40 mg for >30 kg body weight
 
 ## 6.2 Postmarketing Experience
 
 These reactions are reported voluntarily from a population of uncertain size; therefore, it is not possible to estimate their frequency or establish a causal relationship to drug exposure.
 Adverse reactions are categorized by system organ class.
 
-Blood Disorders: Anemia, eosinophilia, leukopenia, thrombocytopenia
+Blood Disorders:Anemia, eosinophilia, leukopenia, thrombocytopenia
 
-Eye Disorders: Diplopia, vision blurred
+Eye Disorders:Diplopia, vision blurred
 
-Gastrointestinal Disorders: Abdominal distention
+Gastrointestinal Disorders:Abdominal distention
 
-General Disorders and Administration Site Conditions: Hypothermia
+General Disorders and Administration Site Conditions:Hypothermia
 
-Investigations: Hepatic enzyme increased
+Investigations:Hepatic enzyme increased
 
-Musculoskeletal: Muscle spasms
+Musculoskeletal:Muscle spasms
 
-Psychiatric Disorders: Agitation, anxiety, apathy, confusional state, depression, delirium, delusion, hallucination
+Psychiatric Disorders:Agitation, anxiety, apathy, confusional state, depression, delirium, delusion, hallucination
 
-Renal and Urinary Disorders: Urinary retention
+Renal and Urinary Disorders:Urinary retention
 
-Respiratory Disorders: Aspiration, respiratory depression
+Respiratory Disorders:Aspiration, respiratory depression
 
-Skin and Subcutaneous Tissue Disorders: Rash, urticaria, angioedema, and facial and lip edema
+Skin and Subcutaneous Tissue Disorders:Rash, urticaria, angioedema, and facial and lip edema

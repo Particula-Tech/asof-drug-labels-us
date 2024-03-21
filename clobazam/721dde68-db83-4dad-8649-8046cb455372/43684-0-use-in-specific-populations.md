@@ -9,7 +9,7 @@ Healthcare providers are encouraged to recommend that pregnant women taking clob
 
 Risk Summary
 
-Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions (5.8) and Clinical Considerations].
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions (5.9) and Clinical Considerations].
 Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
 
 Administration of clobazam to pregnant rats and rabbits during the period of organogenesis or to rats throughout pregnancy and lactation resulted in developmental toxicity, including increased incidences of fetal malformations and mortality, at plasma exposures for clobazam and its major active metabolite, N-desmethylclobazam, below those expected at therapeutic doses in patients [see Animal Data].
@@ -28,7 +28,7 @@ Fetal/Neonatal Adverse Reactions
 Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia, and sedation in neonates.
 Monitor neonates exposed to clobazam during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
 Monitor neonates exposed to clobazam during pregnancy for signs of withdrawal.
-Manage these neonates accordingly [see Warnings and Precautions (5.8)].
+Manage these neonates accordingly [see Warnings and Precautions (5.9)].
 
 Data
 
@@ -88,12 +88,12 @@ Clinical studies of clobazam did not include sufficient numbers of subjects aged
 However, elderly subjects appear to eliminate clobazam more slowly than younger subjects based on population pharmacokinetic analysis.
 For these reasons, the initial dose in elderly patients should be 5 mg/day.
 Patients should be titrated initially to 10 to 20 mg/day.
-Patients may be titrated further to a maximum daily dose of 40 mg if tolerated [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+Patients may be titrated further to a maximum daily dose of 40 mg if tolerated [seeDosage and Administration (2.4), Clinical Pharmacology (12.3)].
 
 ## 8.6 CYP2C19 Poor Metabolizers
 
 Concentrations of clobazam’s active metabolite, N-desmethylclobazam, are higher in CYP2C19 poor metabolizers than in extensive metabolizers.
-For this reason, dosage modification is recommended [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
+For this reason, dosage modification is recommended [seeDosage and Administration (2.5),Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
@@ -101,10 +101,10 @@ The pharmacokinetics of clobazam were evaluated in patients with mild and modera
 There were no significant differences in systemic exposure (AUC and C max) between patients with mild or moderate renal impairment and healthy subjects.
 No dose adjustment is required for patients with mild and moderate renal impairment.
 There is essentially no experience with clobazam in patients with severe renal impairment or ESRD.
-It is not known if clobazam or its active metabolite, N-desmethylclobazam, is dialyzable [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)].
+It is not known if clobazam or its active metabolite, N-desmethylclobazam, is dialyzable [seeDosage and Administration (2.6), Clinical Pharmacology (12.3)].
 
 ## 8.8 Hepatic Impairment
 
 Clobazam is hepatically metabolized; however, there are limited data to characterize the effect of hepatic impairment on the pharmacokinetics of clobazam.
 For this reason, dosage adjustment is recommended in patients with mild to moderate hepatic impairment (Child-Pugh score 5 to 9).
-There is inadequate information about metabolism of clobazam in patients with severe hepatic impairment [see Dosage and Administration (2.7), Clinical Pharmacology (12.3)].
+There is inadequate information about metabolism of clobazam in patients with severe hepatic impairment [seeDosage and Administration (2.7), Clinical Pharmacology (12.3)].

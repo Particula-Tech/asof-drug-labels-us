@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Clobazam Tablets, 10 mg are white to off-white, oval shaped tablets with a functional score line on one face and "1" and "0" debossed on the other face with an approximate dimension of 8.70 mm in length, 5.05 mm in width and 3.22 mm in thickness.
+Clobazam Tablets, 10 mg are white to off-white, oval shaped tablets with a functional score line on one face and "1" and "0" debossed on the other face.
 Each tablet contains 10 mg of clobazam.
 
 Bottles of 30 NDC 42571-315-30
@@ -15,7 +15,7 @@ Carton of (Alu-Alu blister) 100 (10 x 10) Unit-dose Tablets NDC 42571-315-11
 
 Carton of (Alu-PVC/ACLAR blister) 100 (10 x 10) Unit-dose Tablets NDC 42571-315-91
 
-Clobazam Tablets, 20 mg are white to off-white, oval shaped tablets with a functional score line on one face and "2" and "0" debossed on the other face with an approximate dimension of 11.00 mm in length, 6.40 mm in width and 4.10 mm: in thickness.
+Clobazam Tablets, 20 mg are white to off-white, oval shaped tablets with a functional score line on one face and "2" and "0" debossed on the other face.
 Each tablet contains 20 mg of clobazam.
 
 Bottles of 30 NDC 42571-316-30

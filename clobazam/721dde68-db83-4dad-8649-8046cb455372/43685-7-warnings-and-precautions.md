@@ -7,7 +7,7 @@ Because of these risks, reserve concomitant prescribing of benzodiazepines and o
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
 If a decision is made to prescribe clobazam concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
-Advise both patients and caregivers about the risks of respiratory depression and sedation when clobazam is used with opioids [see Drug Interactions (7.1)].
+Advise both patients and caregivers about the risks of respiratory depression and sedation when clobazam is used with opioids [seeDrug Interactions (7.1)].
 
 ## 5.2 Abuse, Misuse, and Addiction
 
@@ -35,7 +35,7 @@ In some cases, benzodiazepine users have developed a protracted withdrawal syndr
 
 ## 5.4 Potentiation of Sedation from Concomitant Use with Central Nervous System Depressants
 
-Since clobazam has a central nervous system (CNS) depressant effect, patients or their caregivers should be cautioned against simultaneous use with other CNS depressant drugs or alcohol, and cautioned that the effects of other CNS depressant drugs or alcohol may be potentiated [see Drug Interactions (7.2)].
+Since clobazam has a central nervous system (CNS) depressant effect, patients or their caregivers should be cautioned against simultaneous use with other CNS depressant drugs or alcohol, and cautioned that the effects of other CNS depressant drugs or alcohol may be potentiated [seeDrug Interactions (7.2)].
 
 ## 5.5 Somnolence or Sedation
 
@@ -51,9 +51,19 @@ Prescribers should caution patients against engaging in hazardous activities req
 Serious skin reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported with clobazam in both children and adults during the postmarketing period.
 Patients should be closely monitored for signs or symptoms of SJS/TEN, especially during the first 8 weeks of treatment initiation or when re-introducing therapy.
 Clobazam should be discontinued at the first sign of rash, unless the rash is clearly not drug-related.
-If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered [see Contraindications (4)].
+If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered [seeContraindications (4)].
 
-## 5.7 Suicidal Behavior and Ideation
+## 5.7 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
+
+Drug Reaction with Eosinophilia andSystemicSymptoms (DRESS), also known as multiorgan hypersensitivity, has been reported in patients taking antiepileptic drugs, including clobazam.Theseevents can be fatal or life-threatening, particularly if diagnosis and treatment do not occur as early as possible.
+DRESS typically, although notexclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling, in association with other organ system involvement, such as hepatitis,nephritis, hematological abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
+Eosinophilia is often present.
+Because thisdisorderis variable in its expression, other organ systems not noted here may be involved.
+It is important to note that early manifestations ofhypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, the patientshouldbe evaluated immediately.
+Clobazam should be discontinued if an alternative etiology for the signs or symptoms cannot be established [see Contraindications (4)].
+
+## 5.8 Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including clobazam, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
@@ -89,7 +99,7 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 5.8 Neonatal Sedation and Withdrawal Syndrome
+## 5.9 Neonatal Sedation and Withdrawal Syndrome
 
 Use of clobazam late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate [seeUse in Specific Populations (8.1)].
 Monitor neonates exposed to clobazam during pregnancy or labor for signs of sedation and monitor neonates exposed to clobazam during pregnancy for signs of withdrawal; manage these neonates accordingly.
