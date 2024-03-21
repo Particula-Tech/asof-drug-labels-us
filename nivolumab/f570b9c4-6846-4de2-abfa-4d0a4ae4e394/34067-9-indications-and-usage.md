@@ -47,9 +47,11 @@ OPDIVO is indicated for the treatment of adult patients with recurrent or metast
 
 OPDIVO is indicated for the adjuvant treatment of adult patients with urothelial carcinoma (UC) who are at high risk of recurrence after undergoing radical resection of UC [see Clinical Studies (14.9)].
 
+OPDIVO, in combination with cisplatin and gemcitabine, is indicated for the first-line treatment of adult patients with unresectable or metastatic urothelial carcinoma.
+
 OPDIVO is indicated for the treatment of adult patients with locally advanced or metastatic urothelial carcinoma who:
 
-- •have disease progression during or following platinum-containing chemotherapy
+- •have disease progression during or following platinum-containing chemotherapy.
 - •have disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy.
 
 ## 1.10 Microsatellite Instability-High or Mismatch Repair Deficient Metastatic Colorectal Cancer

@@ -59,7 +59,7 @@ Single Agent
 Of 3569 patients with melanoma, NSCLC, renal cell carcinoma, urothelial carcinoma, ESCC, and esophageal or gastroesophageal junction cancer who were randomized to single agent OPDIVO in clinical studies, 41% were 65 years and over and 10% were 75 years and over.
 No overall differences in safety or effectiveness were observed between elderly patients and younger patients [see Clinical Studies (14.1, 14.2, 14.4, 14.6, 14.9, 14.12)].
 
-In patients with cHL, recurrent head and neck SCC, or dMMR or MSI-H metastatic CRC (mCRC) who were treated with single agent OPDIVO in clinical studies did not include sufficient numbers of patients aged 65 years and over to determine whether they respond differently from younger patients [see Clinical Studies (14.7,14.8,14.10)].
+In patients with cHL, recurrent head and neck SCC, or dMMR or MSI-H metastatic CRC (mCRC) who were treated with single agent OPDIVO in clinical studies did not include sufficient numbers of patients aged 65 years and over to determine whether they respond differently from younger patients [see Clinical Studies (14.7, 14.8, 14.10)].
 
 In Combination with Ipilimumab
 
@@ -86,10 +86,18 @@ Of the 325 patients with ESCC who were randomized to OPDIVO in combination with 
 No overall difference in safety was reported between older patients and younger patients; however, there was a higher discontinuation rate due to adverse reactions in patients aged 75 years or older (38%) relative to all patients who received OPDIVO with ipilimumab (23%).
 For patients aged 75 years or older who received chemotherapy, the discontinuation rate due to adverse reactions was 33% relative to 23% for all patients [see Clinical Studies (14.12)].
 
-In Combination with Platinum-Doublet Chemotherapy
+In Combination with Platinum-Containing Chemotherapy
 
 Of the 179 patients with NSCLC who were randomized to OPDIVO in combination with platinum-doublet chemotherapy, 48% were 65 years old or older and 6% were 75 years old or older.
 No overall differences in safety or effectiveness were reported between patients older and younger than 65 years [see Clinical Studies (14.3)].
+
+Of the 1,110 patients with ESCC, GC, GEJC, or EAC who were randomized to OPDIVO in combination with fluoropyrimidine- and platinum-containing chemotherapy), 42% were 65 years or older and 10% were 75 years or older.
+No overall difference in safety was reported between elderly patients and younger patients [see Clinical Studies (14.12, 14.13)].
+
+Of the 304 patients with UC who were treated with OPDIVO in combination with gemcitabine and platinum-doublet chemotherapy, 40% were 65 years or older and 11% were 75 years or older.
+No overall differences in safety or effectiveness were observed between patients 65 years of age and over and younger patients.
+Clinical studies of OPDIVO with platinum-doublet chemotherapy did not include sufficient numbers of patients aged 75 years and over to determine whether safety and effectiveness differs compared to younger patients.
+[see Clinical Studies (14.9)].
 
 In Combination with Ipilimumab and Platinum-Doublet Chemotherapy
 
@@ -102,8 +110,3 @@ In Combination with Cabozantinib
 
 Of the 320 patients with renal cell carcinoma who were treated with OPDIVO in combination with cabozantinib, 41% were 65 years or older and 9% were 75 years or older.
 No overall difference in safety was reported between elderly patients and younger patients [see Clinical Studies (14.6)].
-
-In Combination with Fluoropyrimidine- and Platinum-Containing Chemotherapy
-
-Of the 1,110 patients with ESCC, GC, GEJC, or EAC who were randomized to OPDIVO in combination with fluoropyrimidine- and platinum-containing chemotherapy), 42% were 65 years or older and 10% were 75 years or older.
-No overall difference in safety was reported between elderly patients and younger patients [see Clinical Studies (14.12, 14.13)].

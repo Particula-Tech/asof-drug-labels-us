@@ -12,11 +12,11 @@ In murine syngeneic tumor models, dual blockade of PD-1 and CTLA-4 resulted in i
 
 ## 12.2 Pharmacodynamics
 
-There are no clinically significant exposure-response relationships for efficacy or safety for nivolumab monotherapy, and in combination with ipilimumab and/or chemotherapy, over the approved dosing regimens, regardless of cancer type.
+There are no clinically significant exposure-response relationships for efficacy or safety for nivolumab monotherapy across the approved dosing regimens, regardless of cancer type.
 
 ## 12.3 Pharmacokinetics
 
-Nivolumab pharmacokinetics (PK) was assessed using a population PK approach for both single-agent OPDIVO and OPDIVO with ipilimumab.
+Nivolumab pharmacokinetics (PK) was assessed using a population PK approach for both single agent OPDIVO and OPDIVO with ipilimumab.
 The PK of nivolumab was studied in patients over a dose range of 0.1 mg/kg to 20 mg/kg administered as a single dose or as multiple doses of OPDIVO as a 60-minute intravenous infusion every 2 or 3 weeks.
 The exposure to nivolumab increases dose proportionally over the dose range of 0.1 to 10 mg/kg administered every 2 weeks.
 The predicted exposure of nivolumab after a 30-minute infusion is comparable to that observed with a 60-minute infusion.
@@ -58,9 +58,9 @@ The observed incidence of anti-drug antibodies is highly dependent on the sensit
 Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of OPDIVO or of other nivolumab products.
 
 Anti-drug antibody and neutralizing antibody responses were monitored throughout the treatment period where the benefit to risk ratio was assessed.
-Incidence of anti-drug antibodies and neutralizing antibodies are presented in Table 49.
+Incidence of anti-drug antibodies and neutralizing antibodies are presented in Table 51.
 
-Table 49: OPDIVO Anti-Drug Antibody (ADA) and Neutralizing Antibody (NAb) Incidence
+Table 51: OPDIVO Anti-Drug Antibody (ADA) and Neutralizing Antibody (NAb) Incidence
 
 | Treatment Regimena | Indication(s) | ADA | NAbb |
 | --- | --- | --- | --- |
@@ -71,7 +71,7 @@ Table 49: OPDIVO Anti-Drug Antibody (ADA) and Neutralizing Antibody (NAb) Incide
 | OPDIVO with ipilimumab | Malignant Pleural Mesothelioma | 26% (69/269) | 2.9% (2/69) |
 | NSCLC | 37% (180/491) | 3.9% (7/180) |  |
 | OPDIVO with ipilimumab and 2 cycles of platinum‑doublet chemotherapy | NSCLC | 34% (104/308) | 8% (8/104) |
-| a Details of each treatment regimen are described in Section 14 [see Clinical Studies (14)]. b NAb incidence is reported among the subset of patients positive for ADA. c Includes unresectable or metastatic melanoma, metastatic NSCLC, advanced RCC, cHL, recurrent or metastatic SCCHN, and UC indications. ADA= treatment-emergent anti-nivolumab antibodies, NAb= neutralizing antibodies, HCC = hepatocellular carcinoma, RCC = renal cell carcinoma, CRC = colorectal cancer, NSCLC = non-small cell lung cancer. |  |  |  |
+| a Details of each treatment regimen are described in Section 14 [see Clinical Studies (14)]. b NAb incidence is reported among the subset of patients positive for ADA. c Includes unresectable or metastatic melanoma, metastatic NSCLC, advanced RCC, cHL, recurrent or metastatic SCCHN, and UC indications. ADA = treatment-emergent anti-nivolumab antibodies, NAb = neutralizing antibodies, HCC = hepatocellular carcinoma, RCC = renal cell carcinoma, CRC = colorectal cancer, NSCLC = non-small cell lung cancer. |  |  |  |
 
 Effects of Anti-Drug Antibodies
 
