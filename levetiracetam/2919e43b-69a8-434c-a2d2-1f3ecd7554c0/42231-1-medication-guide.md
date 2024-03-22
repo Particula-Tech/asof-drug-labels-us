@@ -20,7 +20,9 @@
 | Do not drive, operate machinery or do other dangerous activities until you know how KEPPRA XR affects you. KEPPRA XR may make you dizzy or sleepy. |  |  |
 | What are the possible side effects of KEPPRA XR? |  |  |
 | KEPPRA XR can cause serious side effects including: See "What is the most important information I should know about KEPPRA XR?" |  |  |
-| Call your healthcare provider right away if you have any of these symptoms: mood and behavior changes such as aggression, agitation, anger, anxiety, apathy, mood swings, depression, hostility, and irritability. A few people may get psychotic symptoms such as hallucinations (seeing or hearing things that are really not there), delusions (false or strange thoughts or beliefs) and unusual behavior.extreme sleepiness, tiredness, and weakness.allergic reactions such as swelling of the face, lips, eyes, tongue, and throat, trouble swallowing or breathing, and hives.a skin rash. Serious skin rashes can happen after you start taking KEPPRA XR. There is no way to tell if a mild rash will become a serious reaction.problems with muscle coordination (problems walking and moving). |  |  |
+| Call your healthcare provider right away if you have any of these symptoms: mood and behavior changes such as aggression, agitation, anger, anxiety, apathy, mood swings, depression, hostility, and irritability. A few people may get psychotic symptoms such as hallucinations (seeing or hearing things that are really not there), delusions (false or strange thoughts or beliefs) and unusual behavior.extreme sleepiness, tiredness, and weakness.allergic reactions such as swelling of the face, lips, eyes, tongue, and throat, trouble swallowing or breathing, and hives.a skin rash. Serious skin rashes can happen after you start taking KEPPRA XR. There is no way to tell if a mild rash will become a serious reaction.a serious allergic reaction that may affect your skin or other parts of your body such as your liver, kidneys, heart, or blood cells. This allergic reaction can be life-threatening and can cause death, particularly if it is not treated as early as possible. Call your healthcare provider right away if you have: |  |  |
+| a skin rashswelling of your facedark urine | fever or swollen glands that do not go awayshortness of breathyellowing of the skin or whites of the eyes |  |
+| problems with muscle coordination (problems walking and moving). |  |  |
 | The most common side effects seen in people who take KEPPRA XR include: |  |  |
 | sleepiness | irritability |  |
 | Tell your healthcare provider if you have any side effect that bothers you or that does not go away. |  |  |
@@ -33,6 +35,6 @@
 | KEPPRA XR tablet active ingredient: levetiracetam |  |  |
 | Inactive ingredients: colloidal anhydrous silica, hypromellose, magnesium stearate, polyethylene glycol 6000, polyvinyl alcohol-partially hydrolyzed, titanium dioxide (E171), Macrogol/PEG3350, and talc. The imprinting ink contains shellac, FD&C Red #40, n-butyl alcohol, propylene glycol, titanium dioxide, ethanol, and methanol. KEPPRA XR does not contain lactose or gluten. |  |  |
 | Distributed by UCB, Inc. Smyrna, GA 30080 |  |  |
-| KEPPRA XR is a registered trademark of the UCB Group of companies © 2023, UCB, Inc., Smyrna, GA 30080 All rights reserved. |  |  |
+| KEPPRA XR is a registered trademark of the UCB Group of companies © 2024, UCB, Inc., Smyrna, GA 30080 All rights reserved. |  |  |
 | For more information, go to www.keppraxr.com or call 1- (844) 599-CARE (2273). |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised: 8/2023 |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised: 3/2024 |

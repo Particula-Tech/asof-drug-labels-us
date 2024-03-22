@@ -26,6 +26,11 @@ Dermatological Adverse Reactions
 
 Advise patients that serious dermatological adverse reactions have occurred in patients treated with levetiracetam and instruct them to call their physician immediately if a rash develops [see Warnings and Precautions (5.5)].
 
+DRESS/Multiorgan Hypersensitivity
+
+Instruct patients and caregivers that a fever or rash associated with signs of other organ system involvement (e.g., lymphadenopathy, hepatic dysfunction) may be drug-related and should be reported to their healthcare provider immediately.
+KEPPRA XR should be discontinued immediately if a serious hypersensitivity reaction is suspected [see Warnings and Precautions (5.6)].
+
 Dosing and Administration
 
 Patients should be instructed to only take KEPPRA XR once daily and to swallow the tablets whole.
@@ -36,7 +41,7 @@ Inform patients that they should not be concerned if they occasionally notice so
 Withdrawal of KEPPRA
 
 Advise patients and caregivers not to discontinue use of KEPPRA XR without consulting with their healthcare provider.
-KEPPRA XR should normally be gradually withdrawn to reduce the potential of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.7)].
+KEPPRA XR should normally be gradually withdrawn to reduce the potential of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.8)].
 
 Pregnancy
 

@@ -87,7 +87,7 @@ Dose-normalized steady-state exposure parameters, Cmax and AUC, were comparable 
 
 Pregnancy
 
-KEPPRA XR levels may decrease during pregnancy [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
+KEPPRA XR levels may decrease during pregnancy [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
 
 Gender
 
