@@ -17,7 +17,7 @@ The background risk of major birth defects and miscarriage for the indicated pop
 
 Clinical Considerations
 
-Levetiracetam blood levels may decrease during pregnancy [see Warnings and Precautions (5.9)].
+Levetiracetam blood levels may decrease during pregnancy [see Warnings and Precautions (5.10)].
 
 Physiological changes during pregnancy may affect levetiracetam concentration.
 Decrease in levetiracetam plasma concentrations has been observed during pregnancy.

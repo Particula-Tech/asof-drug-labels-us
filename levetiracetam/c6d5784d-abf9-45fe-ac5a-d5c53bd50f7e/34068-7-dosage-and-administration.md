@@ -137,4 +137,4 @@ Table 2: Dosage Adjustment Regimen for Adult Patients with Renal Impairment
 
 ## 2.8 Discontinuation of KEPPRA
 
-Avoid abrupt withdrawal from KEPPRA in order to reduce the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.6)].
+Avoid abrupt withdrawal from KEPPRA in order to reduce the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.7)].
