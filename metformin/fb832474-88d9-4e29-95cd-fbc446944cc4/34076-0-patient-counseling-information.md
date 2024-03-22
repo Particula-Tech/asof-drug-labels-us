@@ -9,7 +9,7 @@ Advise patients to discontinue GLUMETZA immediately and to promptly notify their
 Counsel patients against excessive alcohol intake and inform patients about importance of regular testing of renal function while receiving GLUMETZA.
 Instruct patients to inform their doctor that they are taking GLUMETZA prior to any surgical or radiological procedure, as temporary discontinuation may be required [see Warnings and Precautions (5.1)].
 
-Hypoglycemia Inform patients that hypoglycemia may occur when GLUMETZA is coadministered with oral sulfonylureas and insulin.
+Hypoglycemia: Inform patients that hypoglycemia may occur when GLUMETZA is coadministered with oral sulfonylureas and insulin.
 Explain to patients receiving concomitant therapy the risks of hypoglycemia, its symptoms and treatment, and conditions that predispose to its development [see Warnings and Precautions (5.3)].
 
 Vitamin B12 Deficiency:
@@ -26,4 +26,8 @@ Inform patients that GLUMETZA must be swallowed whole and not crushed, cut, or c
 
 Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada U.S. Patent Numbers: 6,488,962; 6,723,340; 7,780,987 and 8,323,692 Glumetza is a trademark of Salix Pharmaceuticals, Inc. or its affiliates. © 2019 Salix Pharmaceuticals, Inc. or its affiliates 9618904 20002702
+Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada
+
+Patented.
+See https://patents.salix.comfor US patent information.
+Glumetza is a trademark of Salix Pharmaceuticals, Inc. or its affiliates. © 2024 Salix Pharmaceuticals, Inc. or its affiliates 9618905 20005381

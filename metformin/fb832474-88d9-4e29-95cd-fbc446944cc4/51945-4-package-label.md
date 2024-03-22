@@ -1,10 +1,8 @@
 # Package/Label Display Panel – 500 mg
 
-NDC 68012-004-50
+NDC 68012-004-50 Rx only
 
-Rx only
-
-Glumetza® (metformin hydrochloride extended-release tablets)
+Glumetza ® (metformin hydrochloride extended-release tablets)
 
 500 mg
 
@@ -16,11 +14,9 @@ Salix
 
 # Package/Label Display Panel – 500 mg
 
-NDC 68012-002-13
+NDC 68012-002-13 Rx only
 
-Rx only
-
-Glumetza® (metformin hydrochloride extended-release tablets)
+Glumetza ® (metformin hydrochloride extended-release tablets)
 
 500 mg
 
@@ -32,11 +28,9 @@ Salix
 
 # Package/Label Display Panel – 1,000 mg
 
-NDC 68012-003-16
+NDC 68012-003-16 Rx only
 
-Rx only
-
-Glumetza®
+Glumetza ®
 
 (metformin hydrochloride extended-release tablets)
 
@@ -44,6 +38,4 @@ Glumetza®
 
 ONCE DAILY
 
-90 Tablets
-
-Salix
+90 Tablets Salix

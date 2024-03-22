@@ -15,39 +15,39 @@ Educate patients and their families about the symptoms of lactic acidosis and if
 
 For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
 
-- •Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
+- Renal Impairment:The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
   The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
   Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]:
-- •Before initiating GLUMETZA, obtain an estimated glomerular filtration rate (eGFR).
-- •GLUMETZA is contraindicated in patients with an eGFR less than 30 mL/minute/1.73 m2 [see Contraindications (4)].
-- •Initiation of GLUMETZA is not recommended in patients with eGFR between 30 to 45 mL/minute/1.73 m2.
-- •Obtain an eGFR at least annually in all patients taking GLUMETZA.
+- Before initiating GLUMETZA, obtain an estimated glomerular filtration rate (eGFR).
+- GLUMETZA is contraindicated in patients with an eGFR less than 30 mL/minute/1.73 m 2[see Contraindications (4)].
+- Initiation of GLUMETZA is not recommended in patients with eGFR between 30 to 45 mL/minute/1.73 m 2.
+- Obtain an eGFR at least annually in all patients taking GLUMETZA.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
-- •In patients taking GLUMETZA whose eGFR later falls below 45 mL/minute/1.73 m2, assess the benefit and risk of continuing therapy.
-- •Drug Interactions: The concomitant use of GLUMETZA with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation [see Drug Interactions (7)].
+- In patients taking GLUMETZA whose eGFR later falls below 45 mL/minute/1.73 m 2, assess the benefit and risk of continuing therapy.
+- Drug Interactions:The concomitant use of GLUMETZA with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation [see Drug Interactions (7)].
   Therefore, consider more frequent monitoring of patients.
-- •Age 65 or Greater: The risk of metformin-associated lactic acidosis increases with the patient’s age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients.
+- Age 65 or Greater:The risk of metformin-associated lactic acidosis increases with the patient’s age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients.
   Assess renal function more frequently in elderly patients [see Use in Specific Populations (8.5)].
-- •Radiological Studies with Contrast: Administration of intravascular iodinated contrast agents in metformin-treated patients has led to an acute decrease in renal function and the occurrence of lactic acidosis.
-  Stop GLUMETZA at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/minute/1.73 m2; in patients with a history of hepatic impairment, alcoholism, or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
+- Radiological Studies with Contrast:Administration of intravascular iodinated contrast agents in metformin-treated patients has led to an acute decrease in renal function and the occurrence of lactic acidosis.
+  Stop GLUMETZA at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/minute/1.73 m 2; in patients with a history of hepatic impairment, alcoholism, or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
   Re-evaluate eGFR 48 hours after the imaging procedure, and restart GLUMETZA if renal function is stable.
-- •Surgery and Other Procedures: Withholding of food and fluids during surgical or other procedures may increase the risk for volume depletion, hypotension and renal impairment.
+- Surgery and Other Procedures:Withholding of food and fluids during surgical or other procedures may increase the risk for volume depletion, hypotension and renal impairment.
   GLUMETZA should be temporarily discontinued while patients have restricted food and fluid intake.
-- •Hypoxic States: Several of the postmarketing cases of metformin-associated lactic acidosis occurred in the setting of acute congestive heart failure (particularly when accompanied by hypoperfusion and hypoxemia).
+- Hypoxic States:Several of the postmarketing cases of metformin-associated lactic acidosis occurred in the setting of acute congestive heart failure (particularly when accompanied by hypoperfusion and hypoxemia).
   Cardiovascular collapse (shock), acute myocardial infarction, sepsis, and other conditions associated with hypoxemia have been associated with lactic acidosis and may also cause prerenal azotemia.
   When such events occur, discontinue GLUMETZA.
-- •Excessive Alcohol Intake: Alcohol potentiates the effect of metformin on lactate metabolism, and this may increase the risk of metformin-associated lactic acidosis.
+- Excessive Alcohol Intake:Alcohol potentiates the effect of metformin on lactate metabolism, and this may increase the risk of metformin-associated lactic acidosis.
   Warn patients against excessive alcohol intake while receiving GLUMETZA.
-- •Hepatic Impairment: Patients with hepatic impairment have developed cases of metformin-associated lactic acidosis.
+- Hepatic Impairment:Patients with hepatic impairment have developed cases of metformin-associated lactic acidosis.
   This may be due to impaired lactate clearance resulting in higher lactate blood levels.
   Therefore, avoid use of GLUMETZA in patients with clinical or laboratory evidence of hepatic disease.
 
-## 5.2 Vitamin B12 Deficiency
+## 5.2 Vitamin B 12Deficiency
 
-In clinical trials of 29-week duration with metformin HCl tablets, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
-Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
-Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
-Measure hematologic parameters on an annual basis and vitamin B12 at 2 to 3 year intervals in patients on GLUMETZA and manage any abnormalities [see Adverse Reactions (6.1)].
+In clinical trials of 29-week duration with metformin HCl tablets, a decrease to subnormal levels of previously normal serum vitamin B 12levels was observed in approximately 7% of patients.
+Such decrease, possibly due to interference with B 12absorption from the B 12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin or vitamin B 12supplementation.
+Certain individuals (those with inadequate vitamin B 12or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B 12levels.
+Measure hematologic parameters on an annual basis and vitamin B 12at 2 to 3 year intervals in patients on GLUMETZA and manage any abnormalities [see Adverse Reactions (6.1)].
 
 ## 5.3 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 

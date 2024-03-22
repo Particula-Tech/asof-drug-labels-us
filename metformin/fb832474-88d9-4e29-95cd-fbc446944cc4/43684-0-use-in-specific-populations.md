@@ -5,8 +5,7 @@
 Risk Summary
 
 Limited data with GLUMETZA in pregnant women are not sufficient to determine a drug-associated risk for major birth defects or miscarriage.
-Published studies with metformin use during pregnancy have not reported a clear association with metformin and major birth defect or miscarriage risk [see Data].
-There are risks to the mother and fetus associated with poorly controlled diabetes mellitus in pregnancy [see Clinical Considerations].
+Published studies with metformin use during pregnancy have not reported a clear association with metformin and major birth defect or miscarriage risk [see Data].There are risks to the mother and fetus associated with poorly controlled diabetes mellitus in pregnancy [see Clinical Considerations].
 
 No adverse developmental effects were observed when metformin was administered to pregnant Sprague Dawley rats and rabbits during the period of organogenesis at doses up to 3 and 1 times, respectively, a 2,000 mg clinical dose, based on body surface area [see Data].
 
@@ -32,8 +31,7 @@ Metformin HCl was not teratogenic or embyrolethal when administered to rats prio
 
 Risk Summary
 
-Limited published studies report that metformin is present in human milk [see Data].
-However, there is insufficient information to determine the effects of metformin on the breastfed infant and no available information on the effects of metformin on milk production.
+Limited published studies report that metformin is present in human milk [see Data].However, there is insufficient information to determine the effects of metformin on the breastfed infant and no available information on the effects of metformin on milk production.
 Therefore, the developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for GLUMETZA and any potential adverse effects on the breastfed child from GLUMETZA or from the underlying maternal condition.
 
 Data
@@ -53,18 +51,15 @@ Safety and effectiveness of GLUMETZA in pediatric patients have not been establi
 
 Clinical studies of GLUMETZA did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
-Assess renal function more frequently in elderly patients.
-[see Dosage and Administration (2.2) and Warnings and Precautions (5.1).]
+Assess renal function more frequently in elderly patients [see Dosage and Administration (2.2) and Warnings and Precautions (5.1)].
 
 ## 8.6 Renal Impairment
 
 Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
-GLUMETZA is contraindicated in severe renal impairment, patients with an estimated glomerular filtration rate (eGFR) below 30 mL/minute/1.73 m2.
-[see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3).]
+GLUMETZA is contraindicated in severe renal impairment, patients with an estimated glomerular filtration rate (eGFR) below 30 mL/minute/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
 Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis.
 
-GLUMETZA is not recommended in patients with hepatic impairment.
-[see Warnings and Precautions (5.1).]
+GLUMETZA is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.1)].
