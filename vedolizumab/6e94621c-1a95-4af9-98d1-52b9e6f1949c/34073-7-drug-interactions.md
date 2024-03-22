@@ -7,3 +7,10 @@ Because of the potential for increased risk of PML and other infections, avoid t
 ## 7.2 TNF Blockers
 
 Because of the potential for increased risk of infections, avoid the concomitant use of ENTYVIO with TNF blockers.
+
+## 7.3 CYP450 Substrates
+
+The formation of CYP450 enzymes may be suppressed by increased levels of certain cytokines (e.g., IL-6, IL-10, TNFα, IFN) during chronic inflammation.
+Therefore, use of ENTYVIO may normalize the formation of CYP450 enzymes by modulating the underlying disease.
+Upon initiation or discontinuation of ENTYVIO in patients treated with CYP450 substrates, monitor drug concentrations or other therapeutic parameters, and adjust the dosage of the CYP substrate as needed.
+See the prescribing information of specific CYP substrates.
