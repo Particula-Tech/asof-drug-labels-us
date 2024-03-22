@@ -8,12 +8,12 @@ Storage: Store at up to 25°C (77°F).
 Protect from freezing.
 Store in an upright position.
 
-Revised: 05/2020
+Revised: 02/2024
 
-Distributed by: Allergan USA, Inc. Madison, NJ 07940
+Distributed by: AbbVie, Inc. North Chicago, IL 60064
 
-© 2020 Allergan.
+© 2024 AbbVie.
 All rights reserved.
-All trademarks are the property of their respective owners.
+Pred Forte and its design are trademarks of Allergan, Inc., an AbbVie company.
 
-v1.2USPI180
+v2.0USPI180
