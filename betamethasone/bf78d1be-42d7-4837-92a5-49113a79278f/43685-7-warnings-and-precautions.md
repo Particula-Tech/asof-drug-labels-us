@@ -25,6 +25,8 @@ All corticosteroids increase calcium excretion.
 
 Literature reports suggest an apparent association between use of corticosteroids and left ventricular free wall rupture after a recent myocardial infarction; therefore, therapy with corticosteroids should be used with great caution in these patients.
 
+There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see PRECAUTIONS, Drug Interactions, Amphotericin B Injection and Potassium-Depleting Agents section).
+
 ## Endocrine
 
 Corticosteroids can produce reversible hypothalamic pituitary adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
@@ -32,56 +34,71 @@ Corticosteroids can produce reversible hypothalamic pituitary adrenal (HPA) axis
 Metabolic clearance of corticosteroids is decreased in hypothyroid patients and increased in hyperthyroid patients.
 Changes in thyroid status of the patient may necessitate adjustment in dosage.
 
-## Infections
+## Immunosuppression and Increased Risk of Infection
 
-### General
+Corticosteroids, including CELESTONE SOLUSPAN, suppress the immune system and increase the risk of infection with any pathogen, including viral, bacterial, fungal, protozoan, or helminthic pathogens.
+Corticosteroids can:
 
-Patients who are on corticosteroids are more susceptible to infections than are healthy individuals.
-There may be decreased resistance and inability to localize infection when corticosteroids are used.
-Infection with any pathogen (viral, bacterial, fungal, protozoan, or helminthic) in any location of the body may be associated with the use of corticosteroids alone or in combination with other immunosuppressive agents.
-These infections may be mild to severe.
-With increasing doses of corticosteroids, the rate of occurrence of infectious complications increases.
-Corticosteroids may also mask some signs of current infection.
+- Reduce resistance to new infections
+- Exacerbate existing infections
+- Increase the risk of disseminated infections
+- Increase the risk of reactivation or exacerbation of latent infections
+- Mask some signs of infection
 
-### Fungal Infections
+Corticosteroid-associated infections can be mild but can be severe and at times fatal.
+The rate of infectious complications increases with increasing corticosteroid dosages.
 
-Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control drug reactions.
-There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see PRECAUTIONS, Drug Interactions, Amphotericin B Injection and Potassium-Depleting Agents section).
+Monitor for the development of infection and consider CELESTONE SOLUSPAN withdrawal or dosage reduction as needed.
 
-### Special Pathogens
+Do not administer CELESTONE SOLUSPAN by an intraarticular, intrabursal, intratendinous or intralesional route in the presence of acute local infection.
 
-Latent disease may be activated or there may be an exacerbation of intercurrent infections due to pathogens, including those caused by Amoeba, Candida, Cryptococcus, Mycobacterium, Nocardia, Pneumocystis, and Toxoplasma.
+## Tuberculosis
 
-It is recommended that latent amebiasis or active amebiasis be ruled out before initiating corticosteroid therapy in any patient who has spent time in the tropics or in any patient with unexplained diarrhea.
+If CELESTONE SOLUSPAN is used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, reactivation of the disease may occur.
+During prolonged CELESTONE SOLUSPAN therapy, patients with latent tuberculosis or tuberculin reactivity should receive chemoprophylaxis.
 
-Similarly, corticosteroids should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
+## Varicella Zoster and Measles Viral Infections
+
+Varicella and measles can have a serious or even fatal course in non-immune patients taking corticosteroids, including CELESTONE SOLUSPAN.
+In corticosteroid-treated patients who have not had these diseases or are non-immune, particular care should be taken to avoid exposure to varicella and measles:
+
+- If a CELESTONE SOLUSPAN-treated patient is exposed to varicella, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
+  If varicella develops, treatment with antiviral agents may be considered.
+- If a CELESTONE SOLUSPAN-treated patient is exposed to measles, prophylaxis with immunoglobulin (IG) may be indicated.
+
+## Hepatitis B Virus Reactivation
+
+Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers treated with immunosuppressive dosages of corticosteroids, including CELESTONE SOLUSPAN.
+Reactivation can also occur infrequently in corticosteroid-treated patients who appear to have resolved hepatitis B infection.
+
+Screen patients for hepatitis B infection before initiating immunosuppressive (eg, prolonged) treatment with CELESTONE SOLUSPAN.
+For patients who show evidence of hepatitis B infection, recommend consultation with physicians with expertise in managing hepatitis B regarding monitoring and consideration for hepatitis B antiviral therapy.
+
+## Fungal Infections
+
+Corticosteroids, including CELESTONE SOLUSPAN, may exacerbate systemic fungal infections; therefore, avoid CELESTONE SOLUSPAN use in the presence of such infections unless CELESTONE SOLUSPAN is needed to control drug reactions.
+For patients on chronic CELESTONE SOLUSPAN therapy who develop systemic fungal infections, CELESTONE SOLUSPAN withdrawal or dosage reduction is recommended.
+
+## Amebiasis
+
+Corticosteroids, including CELESTONE SOLUSPAN, may activate latent amebiasis.
+Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating CELESTONE SOLUSPAN in patients who have spent time in the tropics or patients with unexplained diarrhea.
+
+## Strongyloides Infestation
+
+Corticosteroids, including CELESTONE SOLUSPAN, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
 In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
 
-Corticosteroids should not be used in cerebral malaria.
+## Cerebral Malaria
 
-### Tuberculosis
+Avoid corticosteroids, including CELESTONE SOLUSPAN, in patients with cerebral malaria.
 
-The use of corticosteroids in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen.
-
-If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur.
-During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
-
-### Vaccination
+## Vaccination
 
 Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
 Killed or inactivated vaccines may be administered.
 However, the response to such vaccines cannot be predicted.
 Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, eg, for Addison's disease.
-
-### Viral Infections
-
-Chickenpox and measles can have a more serious or even fatal course in pediatric and adult patients on corticosteroids.
-In pediatric and adult patients who have not had these diseases, particular care should be taken to avoid exposure.
-The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
-If exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
-If exposed to measles, prophylaxis with immunoglobulin (IG) may be indicated.
-(See the respective package inserts for complete VZIG and IG prescribing information.)
-If chickenpox develops, treatment with antiviral agents should be considered.
 
 ## Neurologic
 
@@ -97,6 +114,11 @@ Consider referral to an ophthalmologist for patients who develop ocular symptoms
 The use of oral corticosteroids is not recommended in the treatment of optic neuritis and may lead to an increase in the risk of new episodes.
 Corticosteroids should not be used in active ocular herpes simplex.
 
+## Kaposi’s Sarcoma
+
+Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
+Discontinuation of corticosteroids may result in clinical improvement of Kaposi’s sarcoma.
+
 # PRECAUTIONS
 
 ## General
@@ -108,9 +130,6 @@ The lowest possible dose of corticosteroid should be used to control the conditi
 When reduction in dosage is possible, the reduction should be gradual.
 
 Since complications of treatment with glucocorticoids are dependent on the size of the dose and the duration of treatment, a risk/benefit decision must be made in each individual case as to dose and duration of treatment and as to whether daily or intermittent therapy should be used.
-
-Kaposi's sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
-Discontinuation of corticosteroids may result in clinical improvement.
 
 ## Cardio-renal
 
