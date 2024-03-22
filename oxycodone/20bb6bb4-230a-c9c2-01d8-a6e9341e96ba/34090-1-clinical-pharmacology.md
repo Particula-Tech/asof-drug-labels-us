@@ -38,7 +38,7 @@ Effects on the Endocrine System
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
 
 Effects on the Immune System
@@ -49,13 +49,13 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration–Efficacy Relationships
 
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
 The minimum effective analgesic concentration of oxycodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
 
 Concentration–Adverse Reaction Relationships
 
 There is a relationship between increasing oxycodone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.3)].
 
 ## 12.3 Pharmacokinetics
 
@@ -71,7 +71,7 @@ Table 2:Pharmacokinetic Parameters (Mean±SD)
 | Oxycodone Hydrochloride 15 mg tab | 128.2±35.1 | 22.2±7.6 | 1.4±0.7 | n/a | n/a | 3.55±1.0 |
 | Oxycodone Hydrochloride Liquid Concentrate 15 mg oral solution | 130.6±34.7 | 21.1±6.1 | 1.9±1.5 | n/a | n/a | 3.71±0.8 |
 | Oxycodone Hydrochloride 30 mg tab | 268.2±60.7 | 39.3±14.0 | 2.6±3.0 | n/a | n/a | 3.85±1.3 |
-| Food-Effect, Single Dose |  |  |  |  |  |  |
+| Food Effect, Single Dose |  |  |  |  |  |  |
 | Oxycodone Hydrochloride 10 mg/10 mL oral sol’n (fasted) | 105±6.2 | 19.0±3.7 | 1.25±0.5 | n/a | n/a | 2.9±0.4 |
 | Oxycodone Hydrochloride 10 mg/10 mL oral sol’n (fed) | 133±25.2 | 17.7±3.0 | 2.54±1.2 | n/a | n/a | 3.3±0.5 |
 | Multiple-Dose Studies | AUC (72-84) |  |  |  |  |  |
