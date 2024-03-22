@@ -13,6 +13,7 @@ Hypersensitivity Reactions
 
 Skin rashes and urticaria have been reported frequently.
 A few cases of exfoliative dermatitis and erythema multiforme have been reported.
+Linear IgA bullous dermatosis has been reported.
 Anaphylaxis is the most serious reaction experienced and has usually been associated with the parenteral dosage form.
 
 Note: Urticaria, other skin rashes, and serum sickness-like reactions may be controlled with antihistamines and, if necessary, systemic corticosteroids.
@@ -28,9 +29,7 @@ Evidence indicates that glutamic oxaloacetic transaminase (GOT) is released at t
 
 Hemic and Lymphatic Systems
 
-Anemia, thrombocytopenia, thrombocytopenic
-
-purpura, eosinophilia, leukopenia, and agranulocytosis have been reported during therapy with the penicillins.
+Anemia, thrombocytopenia, thrombocytopenic purpura, eosinophilia, leukopenia, and agranulocytosis have been reported during therapy with the penicillins.
 These reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.
 
 Central Nervous System

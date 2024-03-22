@@ -5,9 +5,7 @@ Ampicillin for Injection, USP is indicated in the treatment of infections caused
 Respiratory Tract Infections caused by S. pneumoniae, Staphylococcus aureus (penicillinase and non-penicillinase producing), H. influenzae and Group A beta-hemolytic streptococci.
 
 Bacterial Meningitis caused by E. coli, Group B Streptococci, and other Gram-negative bacteria (Listeria monocytogenes, N. meningitidis).
-The addition of an aminoglycoside with ampicillin may increase its effectiveness against
-
-Gram-negative bacteria.
+The addition of an aminoglycoside with ampicillin may increase its effectiveness against Gram-negative bacteria.
 
 Septicemia and Endocarditis caused by susceptible Gram-positive organisms including Streptococcus spp., penicillin-G-susceptible staphylococci and enterococci.
 Gram-negative sepsis caused by E. coli, Proteus mirabilis and Salmonella spp. responds to ampicillin.
@@ -20,7 +18,7 @@ Gastrointestinal Infections caused by Salmonella typhi (typhoid fever), other Sa
 (dysentery) usually respond to oral or intravenous therapy.
 
 Bacteriology studies to determine the causative organisms and their susceptibility to ampicillin should be performed.
-Therapy may be instituted prior to obtaining results of susceptibilty testing.
+Therapy may be instituted prior to obtaining results of susceptibility testing.
 
 It is advisable to reserve the parenteral form of this drug for moderately severe and severe infections and for patients who are unable to take the oral forms.
 A change to oral ampicillin may be made as soon as appropriate.

@@ -7,7 +7,7 @@ Ampicillin for Injection, USP Pharmacy Bulk Package bottle, containing ampicilli
 
 Ampicillin for Injection, USP dry powder should be stored at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-To report SUSPECTED ADVERSE REACTIONS, contact WG Critical Care, LLC at 1-866-562-4708 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact WG Critical Care, LLC at 1-866-562-4708 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch for voluntary reporting of adverse reactions.
 
 Sterile, Nonpyrogenic, Preservative-free.
 
@@ -25,6 +25,4 @@ WG Critical Care, LLC
 
 Paramus, NJ 07652
 
-Made in Italy
-
-Revised May 2019
+Revised: January 2024

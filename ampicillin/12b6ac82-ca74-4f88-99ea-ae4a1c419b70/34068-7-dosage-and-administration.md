@@ -94,7 +94,7 @@ This Pharmacy Bulk Package glass bottle contains ampicillin sodium equivalent to
 It is designed for use in the pharmacy in preparing IV admixtures using aseptic technique in a laminar flow hood.
 
 a) Add 94 mL Sterile Water for Injection, USP.
-The resulting soluton will contain 100 milligrams ampicillin activity per mL, and is stable up to ONE HOUR at room temperature.
+The resulting solution will contain 100 milligrams ampicillin activity per mL, and is stable up to ONE HOUR at room temperature.
 
 b) Dilute further within ONE HOUR to a concentration of 5 mg to 10 mg per mL.
 See TABLE for suitable fluid.
