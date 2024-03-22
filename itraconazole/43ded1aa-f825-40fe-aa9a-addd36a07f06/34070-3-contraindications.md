@@ -7,11 +7,11 @@ Itraconazole oral solution should not be administered to patients with evidence 
 ## Drug Interactions:
 
 Co-administration of a number of CYP3A4 substrates are contraindicated with itraconazole.
-Plasma concentrations increase for the following drugs: levaceytlmethadol (levomethadyl), methadone, disopyramide, dofetilide, dronedarone, quinidine, isavuconazole, ergot alkaloids (such as dihydroergotamine, ergometrine (ergonovine), ergotamine, methylergometrine (methylergonovine)), irinotecan, lurasidone, oral midazolam, pimozide, triazolam, felodipine, nisoldipine, ivabradine, ranolazine, eplerenone, cisapride, naloxegol, lomitapide, lovastatin, simvastatin, avanafil, ticagrelor, finerenone, voclosporin.
+Some examples of drugs for which plasma concentrations increase are: methadone, disopyramide, dofetilide, dronedarone, quinidine, isavuconazole, ergot alkaloids (such as dihydroergotamine, ergometrine (ergonovine), ergotamine, methylergometrine (methylergonovine)), irinotecan, lurasidone, oral midazolam, pimozide, triazolam, felodipine, nisoldipine, ivabradine, ranolazine, eplerenone, cisapride, naloxegol, lomitapide, lovastatin, simvastatin, avanafil, ticagrelor, finerenone, voclosporin.
 In addition, co-administration with colchicine, fesoterodine, and solifenacin is contraindicated in subjects with varying degrees of renal or hepatic impairment, and co-administration with eliglustat is contraindicated in subjects that are poor or intermediate metabolizers of CYP2D6 and in subjects taking strong or moderate CYP2D6 inhibitors (see PRECAUTIONS: Drug Interactions Section for specific examples).
 This increase in drug concentrations caused by co-administration with itraconazole may increase or prolong both the pharmacologic effects and/or adverse reactions to these drugs.
 For example, increased plasma concentrations of some of these drugs can lead to QT prolongation and ventricular tachyarrhythmias including occurrences of torsade de pointes, a potentially fatal arrhythmia.
-Specific examples are listed in PRECAUTIONS: Drug Interactions.
+Some specific examples are listed in PRECAUTIONS: Drug Interactions.
 
 Co-administration with venetoclax is contraindicated in patients with CLL/SLL during the dose initiation and ramp-up phase of venetoclax due to the potential for an increased risk of tumor lysis syndrome.
 

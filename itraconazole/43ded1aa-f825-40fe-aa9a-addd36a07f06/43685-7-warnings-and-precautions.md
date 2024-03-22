@@ -107,14 +107,15 @@ Itraconazole is an inhibitor of the drug transporters P-glycoprotein and breast 
 Consequently, itraconazole has the potential to interact with many concomitant drugs resulting in either increased or sometimes decreased concentrations of the concomitant drugs.
 Increased concentrations may increase the risk of adverse reactions associated with the concomitant drug which can be severe or life-threatening in some cases (e.g., QT prolongation, Torsade de Pointes, respiratory depression, hepatic adverse reactions, hypersensitivity reactions, myelosuppression, hypotension, seizures, angioedema, atrial fibrillation, bradycardia, priapism).
 Reduced concentrations of concomitant drugs may reduce their efficacy.
-The table below lists examples of drugs that may have their concentrations affected by itraconazole, but is not a comprehensive list.
-Refer to the approved product labeling to become familiar with the interaction pathways risk potential and specific actions to be taken with regards to each concomitant drug prior to initiating therapy with itraconazole.
+The table below lists examples of drugs that may have their concentrations affected by itraconazole, but it is not a comprehensive list.
+
+Refer to the approved product labeling to become familiar with the interaction pathways risk, potential and specific actions to be taken with regards to each concomitant drug prior to initiating therapy with itraconazole.
 
 Although many of the clinical drug interactions in Table 1 below are based on information with a similar azole antifungal, ketoconazole, these interactions are expected to occur with itraconazole.
 
 Table 1: Drug Interactions with Itraconazole that Affect Concomitant Drug Concentrations
 
-| Concomitant Drug Within Class |  | Prevention or Management |
+| Examples of Concomitant Drugs Within Class |  | Prevention or Management |
 | --- | --- | --- |
 | Drug Interactions with Itraconazole that Increase Concomitant Drug Concentrations and May Increase Risk of Adverse Reactions Associated with the Concomitant Drug |  |  |
 | Alpha Blockers |  |  |
@@ -174,7 +175,7 @@ Table 1: Drug Interactions with Itraconazole that Affect Concomitant Drug Concen
 | Contraceptives* |  |  |
 | DienogestUlipristal |  | Monitor for adverse reactions. |
 | Diuretics |  |  |
-| EplerenoneEplerenone |  | Contraindicated during and 2 weeks after itraconazole treatment. |
+| EplerenoneFinerenone |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | Gastrointestinal Drugs |  |  |
 | CisaprideNaloxegol |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | AprepitantLoperamidea |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
@@ -201,6 +202,7 @@ Table 1: Drug Interactions with Itraconazole that Affect Concomitant Drug Concen
 | Eliglustat |  | CYP2D6 EMsc taking a strong or moderate CYP2D6 inhibitor, CYP2D6 IMsc, or CYP2D6 PMsc: Contraindicated during and 2 weeks after itraconazole treatment.CYP2D6 EMsc not taking a strong or moderate CYP2D6 inhibitor: Monitor for adverse reactions. Eliglustat dose reduction may be necessary. |
 | Lumacaftor/Ivacaftor |  | Not recommended 2 weeks before, during, and 2 weeks after itraconazole treatment. |
 | Alitretinoin (oral)CabergolineCannabinoidsCinacalcetGalantamineIvacaftor |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
+| Valbenazine |  | Concomitant drug dose reduction is necessary. Refer to the valbenazine prescribing information for dosing instructions. |
 | Vasopressin Receptor Antagonists |  |  |
 | ConivaptanTolvaptan |  | Not recommended during and 2 weeks after itraconazole treatment. |
 | Drug Interactions with Itraconazole that Decrease Concomitant Drug Concentrations and May Reduce Efficacy of the Concomitant Drug |  |  |
@@ -227,14 +229,14 @@ Some concomitant drugs have the potential to interact with itraconazole resultin
 Increased concentrations may increase the risk of adverse reactions associated with itraconazole.
 Decreased concentrations may reduce itraconazole efficacy.
 
-The table below lists examples of drugs that may affect itraconazole concentrations, but is not a comprehensive list.
+The table below lists examples of drugs that may affect itraconazole concentrations, but it is not a comprehensive list.
 Refer to the approved product labeling to become familiar with the interaction pathways, risk potential and specific actions to be taken with regards to each concomitant drug prior to initiating therapy with itraconazole.
 
 Although many of the clinical drug interactions in Table 2 below are based on information with a similar azole antifungal, ketoconazole, these interactions are expected to occur with itraconazole.
 
 Table 2: Drug Interactions with Other Drugs that Affect Itraconazole Concentrations
 
-| Concomitant Drug Within Class |  | Prevention or Management |  |  |
+| Examples of Concomitant Drugs Within Class |  | Prevention or Management |  |  |
 | --- | --- | --- | --- | --- |
 | Drug Interactions with Other Drugs that Increase Itraconazole Concentrations and May Increase Risk of Adverse Reactions Associated with Itraconazole |  |  |  |  |
 | Antibacterials |  |  |  |  |
@@ -267,29 +269,29 @@ Interaction studies have only been performed in adults.
 
 Itraconazole
 
-Itraconazole showed no evidence of carcinogenicity potential in mice treated orally for 23 months at dosage levels up to 80 mg/kg/day (approximately 10 times the maximum recommended human dose [MRHD]).
-Male rats treated with 25 mg/kg/day (3.1 times the MRHD) had a slightly increased incidence of soft tissue sarcoma.
+Itraconazole showed no evidence of carcinogenicity potential in mice treated orally for 23 months at dosage levels up to 80 mg/kg/day (approximately 1 time the maximum recommended human dose [MRHD] of 400 mg/day based on body surface area comparisons).
+Male rats treated with 25 mg/kg/day (0.6 times the MRHD based on body surface area comparisons) had a slightly increased incidence of soft tissue sarcoma.
 These sarcomas may have been a consequence of hypercholesterolemia, which is a response of rats, but not dogs or humans, to chronic itraconazole administration.
-Female rats treated with 50 mg/kg/day (6.25 times the MRHD) had an increased incidence of squamous cell carcinoma of the lung (2/50) as compared to the untreated group.
+Female rats treated with 50 mg/kg/day (1.2 times the MRHD based on body surface area comparisons) had an increased incidence of squamous cell carcinoma of the lung (2/50) as compared to the untreated group.
 Although the occurrence of squamous cell carcinoma in the lung is extremely uncommon in untreated rats, the increase in this study was not statistically significant.
 
-Itraconazole produced no mutagenic effects when assayed in DNA repair test (unscheduled DNA synthesis) in primary rat hepatocytes, in Ames tests with Salmonella typhimurium (6 strains) and Escherichia coli, in the mouse lymphoma gene mutation tests, in a sex-linked recessive lethal mutation (Drosophila melanogaster) test, in chromosome aberration tests in human lymphocytes, in a cell transformation test with C3H/10T1/2;;; C18 mouse embryo fibroblasts cells, in a dominant lethal mutation test in male and female mice, and in micronucleus tests in mice and rats.
+Itraconazole produced no mutagenic effects when assayed in DNA repair test (unscheduled DNA synthesis) in primary rat hepatocytes, in Ames tests with Salmonella typhimurium (6 strains) and Escherichia coli, in the mouse lymphoma gene mutation tests, in a sex-linked recessive lethal mutation (Drosophila melanogaster) test, in chromosome aberration tests in human lymphocytes, in a cell transformation test with C3H/10T1/2; C18 mouse embryo fibroblasts cells, in a dominant lethal mutation test in male and female mice, and in micronucleus tests in mice and rats.
 
-Itraconazole did not affect the fertility of male or female rats treated orally with dosage levels of up to 40 mg/kg/day (5 times the MRHD), even though parental toxicity was present at this dosage level.
-More severe signs of parental toxicity, including death, were present in the next higher dosage level, 160 mg/kg/day (20 times the MRHD).
+Itraconazole did not affect the fertility of male or female rats treated orally with dosage levels of up to 40 mg/kg/day (1 time the MRHD based on body surface area comparisons), even though parental toxicity was present at this dosage level.
+More severe signs of parental toxicity, including death, were present in the next higher dosage level, 160 mg/kg/day (4 times the MRHD based on body surface area comparisons).
 
 ## Hydroxypropyl-β-cyclodextrin (HP-β-CD)
 
 Hydroxypropyl-β-cyclodextrin (HP-β-CD) is the solubilizing excipient used in itraconazole oral solution.
 
 Hydroxypropyl-β-cyclodextrin (HP-β-CD) was found to produce neoplasms in the large intestine at 5,000 mg/kg/day in rat carcinogenicity study.
-This dose was about 6 times amount contained in the recommended clinical dose of itraconazole oral solution based on body surface area comparisons.
+This dose was about 3 times amount contained in the recommended clinical dose of itraconazole oral solution (16 g) based on body surface area comparisons.
 The clinical relevance of this finding is unknown.
 The slightly higher incidence of adenocarcinomas in the large intestines was linked to the hypertrophic/hyperplastic and inflammatory changes in the colonic mucosa brought about by HP-β-CD-induced increased osmotic forces.
 
 In addition, HP-β-CD was found to produce pancreatic exocrine hyperplasia and neoplasia when administered orally to rats at doses of 500, 2,000 or 5,000 mg/kg/day for 25 months.
 Adenocarcinomas of the exocrine pancreas produced in the treated animals were not seen in the untreated group and are not reported in the historical controls.
-The recommended clinical dose of itraconazole oral solution contains approximately 1.7 times the amount of HP-β-CD as was in the 500 mg/kg/day dose, based on body surface area comparisons.
+The maximum recommended clinical dose of itraconazole oral solution contains approximately 3.3 times the amount of HP-β-CD as was in the 500 mg/kg/day dose, based on body surface area comparisons.
 This finding was not observed in the mouse carcinogenicity study at doses of 500, 2,000 or 5,000 mg/kg/day for 22 to 23 months.
 This finding was also not observed in a 12-month toxicity study in dogs or in a 2-year toxicity study in female cynomolgus monkeys.
 
@@ -301,7 +303,7 @@ HP-β-CD has no antifertile effect, and is not mutagenic.
 
 Teratogenic Effects:
 
-Itraconazole was found to cause a dose-related increase in maternal toxicity, embryotoxicity, and teratogenicity in rats at dosage levels of approximately 40 to 160 mg/kg/day (5 to 20 times the MRHD), and in mice at dosage levels of approximately 80 mg/kg/day (10 times the MRHD).
+Itraconazole was found to cause a dose-related increase in maternal toxicity, embryotoxicity, and teratogenicity in rats at dosage levels of approximately 40 to 160 mg/kg/day (1 to 4 times the MRHD based on body surface area comparisons), and in mice at dosage levels of approximately 80 mg/kg/day (1 time the MRHD based on body surface area comparisons).
 Itraconazole has been shown to cross the placenta in a rat model.
 In rats, the teratogenicity consisted of major skeletal defects; in mice, it consisted of encephaloceles and/or macroglossia.
 
@@ -324,9 +326,9 @@ The U.S. Public Health Service Centers for Disease Control and Prevention advise
 The efficacy and safety of itraconazole have not been established in pediatric patients.
 
 The long-term effects of itraconazole on bone growth in children are unknown.
-In three toxicology studies using rats, itraconazole induced bone defects at dosage levels as low as 20 mg/kg/day (2.5 times the MRHD).
+In three toxicology studies using rats, itraconazole induced bone defects at dosage levels as low as 20 mg/kg/day (0.5 times the MRHD of 400 mg based on body surface area comparisons).
 The induced defects included reduced bone plate activity, thinning of the zona compacta of the large bones, and increased bone fragility.
-At a dosage level of 80 mg/kg/day (10 times the MRHD) over 1 year or 160 mg/kg/day (20 times the MRHD) for 6 months, itraconazole induced small tooth pulp with hypocellular appearance in some rats.
+At a dosage level of 80 mg/kg/day (2 times the MRHD based on body surface area comparisons) over 1 year or 160 mg/kg/day (4 times the MRHD based on body surface area comparisons) for 6 months, itraconazole induced small tooth pulp with hypocellular appearance in some rats.
 
 ## Geriatric Use:
 

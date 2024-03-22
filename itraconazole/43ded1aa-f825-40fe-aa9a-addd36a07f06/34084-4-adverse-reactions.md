@@ -104,7 +104,7 @@ In addition, the following adverse drug reaction was reported in children only w
 
 To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-Post-marketing Experience
+## Post-marketing Experience
 
 Adverse drug reactions that have been first identified during post-marketing experience with itraconazole (all formulations) are listed in Table 4 below.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
