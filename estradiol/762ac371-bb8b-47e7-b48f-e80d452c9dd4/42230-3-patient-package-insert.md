@@ -40,7 +40,7 @@ Do not start using EstroGel if you:
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
 
 - have been diagnosed with a bleeding disorder
-- currently have or have had certain cancersEstrogen may increase the chance of getting certain types of cancer, including cancer of the breast or uterus (womb).
+- currently have or have had certain cancersEstrogen may increase the chance of getting certain types of cancer, including cancer of the breast or uterus.
   If you have or have had cancer, talk with your healthcare provider about whether you should use EstroGel.
 
 - had a stroke or heart attack
@@ -250,10 +250,10 @@ By DPT Laboratories Ltd.
 
 San Antonio, TX 78215
 
-141309Rev082023
+141332Rev122023
 
 Utilizes EHG ®Technology
 
-©2023 ASCEND Therapeutics ®US, LLC
+©2024 ASCEND Therapeutics ®US, LLC
 
-Revised: 08/2023
+Revised: 12/2023

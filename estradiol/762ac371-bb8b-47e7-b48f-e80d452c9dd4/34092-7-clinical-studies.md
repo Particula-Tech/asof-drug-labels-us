@@ -61,7 +61,7 @@ There was no difference between the groups in terms of all-cause mortality.
 No overall difference for primary CHD events (nonfatal MI, silent MI, and CHD death) and invasive breast cancer in women receiving CE-alone compared with placebo was reported in final centrally adjudicated results from the estrogen-alone substudy, after an average follow-up of 7.1 years.
 See Table 3.
 
-Centrally adjudicated results for stroke events from the estrogen-alone substudy, after an average follow-up of 7.1 years, reported no significant difference in the distribution of stroke subtype or severity, including fatal strokes, in women receiving estrogen-alone compared to placebo.
+Centrally adjudicated results for stroke events from the estrogen-alone substudy, after an average follow-up of 7.1 years, reported no significant difference in the distribution of stroke subtype or severity, including fatal strokes, in women receiving CE-alone compared to placebo.
 Estrogen-alone therapy increased the risk of ischemic stroke, and this excess risk was present in all subgroups of women examined.
 10
 

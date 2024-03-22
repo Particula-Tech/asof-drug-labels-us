@@ -80,7 +80,8 @@ Metastatic disease was rare, with no apparent difference between the two groups.
 Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups 6[see Clinical Studies(14.3)].
 
 Consistent with the WHI clinical trial, observational studies have also reported an increased risk of breast cancer with estrogen plus progestin therapy, and a smaller increased risk for estrogen-alone therapy, after several years of use.
-The risk increased with duration of use, and appeared to return to baseline over about 5 years after stopping treatment (only the observational studies have substantial data on risk after stopping).
+One large meta-analysis of prospective cohort studies reported increased risks that were dependent upon duration of use and could last up to >10 years after discontinuation of estrogen plus progestin therapy and estrogen-alone therapy.
+Extension of the WHI trials also demonstrated increased breast cancer risk associated with estrogen plus progestin therapy.
 Observational studies also suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to estrogen-alone therapy.
 These studies have not generally found significant variation in the risk of breast cancer among different estrogen plus progestin combinations, doses, or routes of administration.
 
@@ -200,7 +201,7 @@ Use of moisturizing lotion one hour after application of EstroGel significantly 
 
 ## 5.19 Laboratory Tests
 
-Serum follicle stimulating hormone (FSH) and estradiol levels are not useful in the management of postmenopausal women with moderate to severe vasomotor symptoms and moderate to severe symptoms of vulvar and vaginal atrophy.
+Serum follicle stimulating hormone (FSH) and estradiol levels have not been shown to be useful in the management of postmenopausal women with moderate to severe vasomotor symptoms and moderate to severe symptoms of vulvar and vaginal atrophy.
 
 ## 5.20 Drug-Laboratory Test Interactions
 
