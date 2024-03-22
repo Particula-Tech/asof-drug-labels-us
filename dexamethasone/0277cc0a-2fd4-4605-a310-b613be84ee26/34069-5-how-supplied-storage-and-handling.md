@@ -26,6 +26,6 @@ For Product Inquiry call 1-877-845-0689.
 
 Manufactured by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922 USA
 
-Revised December 2022
+Revised February 2024
 
-462-331-07
+462-331-08
