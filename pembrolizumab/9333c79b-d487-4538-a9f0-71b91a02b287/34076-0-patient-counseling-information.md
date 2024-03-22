@@ -14,7 +14,8 @@ Immune-Mediated Adverse Reactions
   - Severe skin reactions: Advise patients to contact their healthcare provider immediately for any signs or symptoms of severe skin reactions, SJS or TEN [see Warnings and Precautions (5.1)].
   - Other immune-mediated adverse reactions:
     - Advise patients that immune-mediated adverse reactions can occur and may involve any organ system, and to contact their healthcare provider immediately for any new or worsening signs or symptoms [see Warnings and Precautions (5.1)].
-    - Advise patients of the risk of solid organ transplant rejection and to contact their healthcare provider immediately for signs or symptoms of organ transplant rejection [see Warnings and Precautions (5.1)].
+    - Advise patients of the risk of solid organ transplant rejection and other transplant (including corneal graft) rejection.
+      Advise patients to contact their healthcare provider immediately for signs or symptoms of organ transplant rejection and other transplant (including corneal graft) rejection [see Warnings and Precautions (5.1)].
 
 Infusion-Related Reactions
 
