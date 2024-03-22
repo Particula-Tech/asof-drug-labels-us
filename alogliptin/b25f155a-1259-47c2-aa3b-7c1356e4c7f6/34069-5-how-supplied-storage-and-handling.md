@@ -17,6 +17,4 @@ Alogliptin tablets are available as film-coated tablets containing 25 mg, 12.5 m
 | NDC 45802-087-65 | Bottles of 30 tablets |
 | --- | --- |
 
-Storage
-
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].

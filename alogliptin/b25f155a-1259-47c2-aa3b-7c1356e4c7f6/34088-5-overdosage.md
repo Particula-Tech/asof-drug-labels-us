@@ -7,4 +7,4 @@ Alogliptin is minimally dialyzable; over a three-hour hemodialysis session, appr
 Therefore, hemodialysis is unlikely to be beneficial in an overdose situation.
 It is not known if alogliptin tablets are dialyzable by peritoneal dialysis.
 
-To contact the poison control center, call 1-800-222-1222.
+In the event of an overdose, contact the Poison Help Line (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations.

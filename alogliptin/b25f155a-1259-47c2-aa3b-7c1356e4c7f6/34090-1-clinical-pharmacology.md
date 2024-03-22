@@ -3,13 +3,15 @@
 ## 12.1 Mechanism of Action
 
 Increased concentrations of the incretin hormones such as glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) are released into the bloodstream from the small intestine in response to meals.
-These hormones cause insulin release from the pancreatic beta cells in a glucose-dependent manner but are inactivated by the dipeptidyl peptidase-4 (DPP-4) enzyme within minutes.
+These hormones cause insulin release from the pancreatic beta cells in a glucose-dependent manner but are inactivated by the DPP-4 enzyme within minutes.
 GLP-1 also lowers glucagon secretion from pancreatic alpha cells, reducing hepatic glucose production.
-In patients with type 2 diabetes, concentrations of GLP-1 are reduced but the insulin response to GLP-1 is preserved.
+In patients with type 2 diabetes mellitus, concentrations of GLP-1 are reduced but the insulin response to GLP-1 is preserved.
 Alogliptin is a DPP-4 inhibitor that slows the inactivation of the incretin hormones, thereby increasing their bloodstream concentrations and reducing fasting and postprandial glucose concentrations in a glucose-dependent manner in patients with type 2 diabetes mellitus.
 Alogliptin selectively binds to and inhibits DPP-4 but not DPP-8 or DPP-9 activity in vitro at concentrations approximating therapeutic exposures.
 
 ## 12.2 Pharmacodynamics
+
+Dose-Response Relationships
 
 Single-dose administration of alogliptin tablets to healthy subjects resulted in a peak inhibition of DPP-4 within two to three hours after dosing.
 The peak inhibition of DPP-4 exceeded 93% across doses of 12.5 mg to 800 mg.
@@ -19,7 +21,7 @@ In a 16 week, double-blind, placebo-controlled study, alogliptin tablets 25 mg d
 It is unclear how these findings relate to changes in overall glycemic control in patients with type 2 diabetes mellitus.
 In this study, alogliptin tablets 25 mg demonstrated decreases in two hour postprandial glucose compared to placebo (-30 mg/dL versus 17 mg/dL, respectively).
 
-Multiple-dose administration of alogliptin to patients with type 2 diabetes also resulted in a peak inhibition of DPP-4 within one to two hours and exceeded 93% across all doses (25 mg, 100 mg and 400 mg) after a single dose and after 14 days of once-daily dosing.
+Multiple-dose administration of alogliptin to patients with type 2 diabetes mellitus also resulted in a peak inhibition of DPP-4 within one to two hours and exceeded 93% across all doses (25 mg, 100 mg and 400 mg) after a single dose and after 14 days of once-daily dosing.
 At these doses of alogliptin tablets, inhibition of DPP-4 remained above 81% at 24 hours after 14 days of dosing.
 
 Cardiac Electrophysiology
@@ -30,26 +32,32 @@ At the 400 mg dose, peak alogliptin plasma concentrations were 19-fold higher th
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of alogliptin tablets has been studied in healthy subjects and in patients with type 2 diabetes.
-After administration of single, oral doses up to 800 mg in healthy subjects, the peak plasma alogliptin concentration (median Tmax) occurred one to two hours after dosing.
-At the maximum recommended clinical dose of 25 mg, alogliptin tablets were eliminated with a mean terminal half-life (T1/2) of approximately 21 hours.
+The pharmacokinetics of alogliptin tablets has been studied in healthy subjects and in patients with type 2 diabetes mellitus.
+The pharmacokinetics of alogliptin tablets were similar in healthy subjects and in patients with type 2 diabetes mellitus.
 
-After multiple-dose administration up to 400 mg for 14 days in patients with type 2 diabetes, accumulation of alogliptin was minimal with an increase in total [e.g., area under the plasma concentration curve (AUC)] and peak (i.e., Cmax) alogliptin exposures of 34% and 9%, respectively.
+After multiple-dose administration up to 400 mg for 14 days in patients with type 2 diabetes mellitus, accumulation of alogliptin was minimal with an increase in total [e.g., area under the plasma concentration curve (AUC)] and peak (i.e., Cmax) alogliptin exposures of 34% and 9%, respectively.
 Total and peak exposure to alogliptin increased proportionally across single doses and multiple doses of alogliptin ranging from 25 mg to 400 mg.
 The intersubject coefficient of variation for alogliptin AUC was 17%.
-The pharmacokinetics of alogliptin tablets were also shown to be similar in healthy subjects and in patients with type 2 diabetes.
 
 Absorption
 
+After administration of single, oral doses up to 800 mg in healthy subjects, the peak plasma alogliptin concentration (median Tmax) occurred one to two hours after dosing.
 The absolute bioavailability of alogliptin tablets is approximately 100%.
+
+Effect of Food
+
 Administration of alogliptin tablets with a high-fat meal results in no significant change in total and peak exposure to alogliptin.
-Alogliptin tablets may therefore be administered with or without food.
 
 Distribution
 
 Following a single, 12.5 mg intravenous infusion of alogliptin to healthy subjects, the volume of distribution during the terminal phase was 417 L, indicating that the drug is well distributed into tissues.
 
 Alogliptin is 20% bound to plasma proteins.
+
+Elimination
+
+Alogliptin tablets was eliminated with a mean terminal half-life (t1/2) of approximately 21 hours.
+The renal clearance of alogliptin (9.6 L/hr) indicates some active renal tubular secretion and systemic clearance was 14.0 L/hr.
 
 Metabolism
 
@@ -65,58 +73,42 @@ The (S)-enantiomer is not detectable at the 25 mg dose.
 Excretion
 
 The primary route of elimination of [14C] alogliptin-derived radioactivity occurs via renal excretion (76%) with 13% recovered in the feces, achieving a total recovery of 89% of the administered radioactive dose.
-The renal clearance of alogliptin (9.6 L/hr) indicates some active renal tubular secretion and systemic clearance was 14.0 L/hr.
 
-Special Populations
+Specific Populations
 
-Renal Impairment
+Geriatric Patients
+
+Age (18 to 80 years old) did not have any clinically meaningful effect on the pharmacokinetics of alogliptin.
+
+Male and Female Patients
+
+Gender did not have any clinically meaningful effect on the pharmacokinetics of alogliptin.
+
+Racial or Ethnic Groups
+
+Race (White, Black or African American and Asian) did not have any clinically meaningful effect on the pharmacokinetics of alogliptin.
+
+Patients with Renal Impairment
 
 A single-dose, open-label study was conducted to evaluate the pharmacokinetics of alogliptin 50 mg in patients with chronic renal impairment compared with healthy subjects.
 
 In patients with mild renal impairment (creatinine clearance [CrCl] ≥60 to <90 mL/min), an approximate 1.2-fold increase in plasma AUC of alogliptin was observed.
-Because increases of this magnitude are not considered clinically relevant, dose adjustment for patients with mild renal impairment is not recommended.
 
 In patients with moderate renal impairment (CrCl ≥30 to <60 mL/min), an approximate two-fold increase in plasma AUC of alogliptin was observed.
-To maintain similar systemic exposures of alogliptin tablets to those with normal renal function, the recommended dose is 12.5 mg once daily in patients with moderate renal impairment.
 
 In patients with severe renal impairment (CrCl ≥15 to <30 mL/min) and end-stage renal disease (ESRD) (CrCl <15 mL/min or requiring dialysis), an approximate three- and four-fold increase in plasma AUC of alogliptin were observed, respectively.
 Dialysis removed approximately 7% of the drug during a three-hour dialysis session.
-Alogliptin tablets may be administered without regard to the timing of the dialysis.
-To maintain similar systemic exposures of alogliptin tablets to those with normal renal function, the recommended dose is 6.25 mg once daily in patients with severe renal impairment, as well as in patients with ESRD requiring dialysis.
+[see Dosage and Administration (2.2), Use in Specific Populations (8.6)]
 
-Hepatic Impairment
+Patients with Hepatic Impairment
 
 Total exposure to alogliptin was approximately 10% lower and peak exposure was approximately 8% lower in patients with moderate hepatic impairment (Child-Pugh Grade B) compared to healthy subjects.
 The magnitude of these reductions is not considered to be clinically meaningful.
-Patients with severe hepatic impairment (Child-Pugh Grade C) have not been studied.
-Use caution when administering alogliptin tablets to patients with liver disease [see Use in Specific Populations (8.6) and Warnings and Precautions (5.4)].
+Patients with severe hepatic impairment (Child-Pugh Grade C) have not been studied [see Use in Specific Populations (8.7), Warnings and Precautions (5.4)].
 
-Gender
+Drug Interaction Studies
 
-No dose adjustment of alogliptin tablets is necessary based on gender.
-Gender did not have any clinically meaningful effect on the pharmacokinetics of alogliptin.
-
-Geriatric
-
-No dose adjustment of alogliptin tablets is necessary based on age.
-Age did not have any clinically meaningful effect on the pharmacokinetics of alogliptin.
-
-Pediatric
-
-Studies characterizing the pharmacokinetics of alogliptin in pediatric patients have not been performed.
-
-Race
-
-No dose adjustment of alogliptin tablets is necessary based on race.
-Race (White, Black, and Asian) did not have any clinically meaningful effect on the pharmacokinetics of alogliptin.
-
-Drug Interactions
-
-In Vitro Assessment of Drug Interactions
-
-In vitro studies indicate that alogliptin is neither an inducer of CYP1A2, CYP2B6, CYP2C9, CYP2C19 and CYP3A4, nor an inhibitor of CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP3A4 and CYP2D6 at clinically relevant concentrations.
-
-In Vivo Assessment of Drug Interactions
+Clinical Studies
 
 Effects of Alogliptin on the Pharmacokinetics of Other Drugs
 
@@ -137,3 +129,9 @@ There are no clinically meaningful changes in the pharmacokinetics of alogliptin
 
 Figure 2.
 Effect of Other Drugs on the Pharmacokinetic Exposure of Alogliptin
+
+In Vitro Studies
+
+Effect of Alogliptin on CYP Enzymes
+
+Alogliptin is neither an inducer of CYP1A2, CYP2B6, CYP2C9, CYP2C19 and CYP3A4, nor an inhibitor of CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP3A4 and CYP2D6 at clinically relevant concentrations.

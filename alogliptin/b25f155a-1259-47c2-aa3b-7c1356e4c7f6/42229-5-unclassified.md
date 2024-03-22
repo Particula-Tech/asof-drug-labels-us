@@ -1,5 +1,5 @@
-ALO332 R6
+ALO332 R8
 
 0Q900 RC J5
 
-Rev 05-22
+Rev 7-23

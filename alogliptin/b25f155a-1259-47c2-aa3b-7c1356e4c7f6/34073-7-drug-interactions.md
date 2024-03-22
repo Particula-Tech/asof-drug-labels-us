@@ -1,5 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Alogliptin tablets are primarily renally excreted.
-Cytochrome (CYP) P450-related metabolism is negligible.
-No significant drug-drug interactions were observed with the CYP-substrates or inhibitors tested or with renally excreted drugs [see Clinical Pharmacology (12.3)].
+## 7.1 Insulin Secretagogues and Insulin
+
+Insulin and insulin secretagogues are known to cause hypoglycemia.
+Coadministration of alogliptin tablets with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower dosages of the insulin secretagogue and insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.5)].
