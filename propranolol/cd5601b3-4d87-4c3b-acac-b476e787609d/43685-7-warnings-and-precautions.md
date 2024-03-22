@@ -40,5 +40,5 @@ If severe bradycardia develops, reduce or stop INNOPRAN XL.
 
 ## 5.7 Reduced Effectiveness of Epinephrine in Treating Anaphylaxis
 
-Beta-adrenergic blocker-treated patients treated with epinephrine for a severe anaphylactic reaction may be less responsive to the typical doses of epinephrine.
+Beta adrenergic blocker-treated patients treated with epinephrine for a severe anaphylactic reaction may be less responsive to the typical doses of epinephrine.
 In these patients, consider other medications (e.g., intravenous fluids, glucagon).

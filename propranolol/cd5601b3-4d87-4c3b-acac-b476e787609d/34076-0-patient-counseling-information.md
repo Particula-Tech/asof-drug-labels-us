@@ -11,4 +11,4 @@ Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
 Innopran XL®, a DIFFUCAPS® drug delivery product manufactured by Adare Pharmaceuticals, Inc., Vandalia, OH 45377
 
-10045 Rev 05/23
+10045 Rev 06/23

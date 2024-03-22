@@ -1,9 +1,14 @@
 # 11 DESCRIPTION
 
 INNOPRAN XL contains propranolol hydrochloride, a nonselective, beta-adrenergic receptor-blocking agent for oral administration, as an extended-release product.
-INNOPRAN XL is available as 80 mg and 120 mg capsules which contain sustained-release beads.
+INNOPRAN XL capsules contain sustained-release beads.
 Each of the beads contains propranolol hydrochloride and is coated with dual membranes.
 These membranes are designed to retard release of propranolol hydrochloride for several hours after ingestion followed by the sustained release of propranolol.
+
+INNOPRAN XL is available as 80 mg and 120 mg capsules for oral administration.
+
+- •Each 80 mg capsule contains 80 mg propranolol hydrochloride USP (equivalent to 70.14 mg of propranolol).
+- •Each 120 mg capsule contains 120 mg propranolol hydrochloride USP (equivalent to 105.21 mg of propranolol).
 
 The active ingredient in INNOPRAN XL is a synthetic beta-adrenergic receptor-blocking agent chemically described as 1-(Isopropylamino)-3-(1-naphthyloxy)-2-propanol hydrochloride.
 Its structural formula is:
