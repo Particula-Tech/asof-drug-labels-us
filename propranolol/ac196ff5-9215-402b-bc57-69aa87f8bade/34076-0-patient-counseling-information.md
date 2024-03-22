@@ -11,4 +11,4 @@ Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
 INDERAL XL®, a DIFFUCAPS® drug delivery product manufactured by Adare Pharmaceuticals, Inc., Vandalia, OH 45377
 
-10050 Rev 05/23
+10050 Rev 06/23
