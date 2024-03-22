@@ -34,15 +34,13 @@ Dispense contents in a tight, light-resistant container as defined in the USP wi
 
 KEEP TIGHTLY CLOSED.
 
-Manufactured by
+Manufactured in India by
 
-Sandoz Inc.
+Sandoz Private Ltd., for
 
-Princeton, NJ 08540
+Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-Apr 2022
+Jun 2023
 
-46299647
-
-MF0128REV04/22
+46326538
