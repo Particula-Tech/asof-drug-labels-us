@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA218490"
+  ],
+  "inn": "macitentan",
+  "labeler": "Actelion Pharmaceuticals US, Inc.",
+  "package_ndcs": [
+    "66215-812-01",
+    "66215-812-07",
+    "66215-812-08",
+    "66215-812-30",
+    "66215-814-01",
+    "66215-814-10",
+    "66215-814-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "macitentan and tadalafil",
+      "name": "OPSYNVI"
+    }
+  ],
+  "setid": "6945b183-18d3-40de-afd1-c88e33cc1a63",
+  "source": "dailymed"
+}

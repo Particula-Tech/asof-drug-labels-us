@@ -1,0 +1,16 @@
+# 10 OVERDOSAGE
+
+In the event of an overdose, standard supportive measures should be taken, as required.
+Dialysis is unlikely to be effective because macitentan is highly protein-bound.
+
+Macitentan
+
+Macitentan has been administered as a single dose of up to and including 600 mg to healthy subjects (60 times the approved dosage).
+Adverse reactions of headache, nausea and vomiting were observed.
+
+Tadalafil
+
+Single doses of tadalafil up to 500 mg have been given to healthy male subjects, and multiple daily doses up to 100 mg have been given to male patients with erectile dysfunction.
+Adverse reactions were similar to those seen at lower doses.
+Doses greater than 40 mg have not been studied in patients with pulmonary arterial hypertension.
+Hemodialysis contributes negligibly to tadalafil elimination.
