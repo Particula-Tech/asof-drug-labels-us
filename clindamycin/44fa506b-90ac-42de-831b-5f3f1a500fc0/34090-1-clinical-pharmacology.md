@@ -49,7 +49,7 @@ Table 4: Predicted Drug Exposure (Mean ± SD) of Clindamycin in Adults and in Pe
 | Age | Adult (70 kg) | PMA ≤ 32 weeks | PMA > 32 - ≤ 40 weeks |
 | --- | --- | --- | --- |
 | Dose (every 8 hours) | 600 mg | 5 mg/kg | 7 mg/kg |
-| AUCss,0-8hour(mcg.h/mL) | 50.5 (30.9) | 52.5 (17.0) | 55.9 (23.6) |
+| AUCss,0-8hour (mcg.h/mL) | 50.5 (30.9) | 52.5 (17.0) | 55.9 (23.6) |
 | Cmax,ss (mcg/mL) | 12.0 (3.5) | 9.0 (2.2) | 10.5 (2.8) |
 | Cmin,ss (mcg/mL) | 3.1 (3.3) | 4.6 (2.0) | 4.4 (2.8) |
 

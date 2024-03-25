@@ -12,6 +12,6 @@ The structural formula is represented below:
 Clindamycin Phosphate in Sodium Chloride Injection is a clear, colorless and sterile solution for intravenous infusion available in three strengths, 300 mg/50 mL, 600 mg/50 mL, and 900 mg/50 mL, containing 300 mg, 600 mg or 900 mg clindamycin, respectively (as clindamycin phosphate, USP).
 Each 50 mL of all the strengths of Clindamycin Phosphate in Sodium Chloride Injection also contains, 450 mg of sodium chloride USP, 2 mg of edetate disodium dihydrate USP, and water for Injection USP.
 The pH is adjusted with sodium hydroxide and /or hydrochloric acid.
-Clindamycin Phosphate in Sodium Chloride Injection is filled in GALAXY plastic container fabricated from a specially designed multilayer plastic, PL 2501.
+Clindamycin Phosphate in Sodium Chloride Injection is filled in GALAXY plastic container fabricated from a specially designed multilayer plastic.
 Solutions in contact with the plastic container can leach out certain of its chemical components in very small amounts within the expiration period.
 The suitability of the plastic has been confirmed in tests in animals according to the USP biological tests for plastic containers, as well as by tissue culture toxicity studies.

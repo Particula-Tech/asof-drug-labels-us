@@ -19,23 +19,21 @@ Dosage: See prescribing information.
 Rx only Store at 20°C to 25°C (68°F to 77°F)[see USP Controlled Room Temperature].
 Avoid temperatures above 30°C.
 
-PL 2501 Plastic
-
 BAXTER Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA Made in USA
 
-07-34-00-1621
+07-34-00-2141
 
 Bar Code Position Only 303389545507
 
-GALAXY Container PL 2501 Plastic
+GALAXY Container
 
 BAXTER Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA Made in USA
 
-07-04-00-0781
+07-04-00-1232
 
 Clindamycin Phosphate in 0.9% Sodium Chloride Injection 300 mg per 50 mL (6 mg / mL) Contains 12 - 50 mL Single-Dose Containers Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
 Avoid temperatures above 30°C.
@@ -73,23 +71,21 @@ Dosage: See prescribing information.
 Rx only Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Avoid temperatures above 30°C.
 
-PL 2501 Plastic
-
 BAXTER Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA Made in USA
 
-07-34-00-0851
+07-34-00-2158
 
 BAR CODE POSTION ONLY 303389549505
 
-GALAXY Container PL 2501 Plastic
+GALAXY Container
 
 BAXTER Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA Made in USA
 
-07-04-00-0303
+07-04-00-1233
 
 Clindamycin Phosphate in 0.9% Sodium Chloride Injection 600 mg per 50 mL (12 mg / mL) Contains 12 - 50 mL Single-Dose Containers Store at 20°C to 25°C (68°F to 77°F)[see USP Controlled Room Temperature].
 Avoid temperatures above 30°C.
@@ -110,7 +106,7 @@ NDC 0338-9553-50 Clindamycin Phosphate in 0.9% Sodium Chloride Injection
 
 900 mg per 50 mL (18 mg / mL)
 
-1. 50 mL Single-Dose GALAXY Container Discard unused portion Code 2G3457 Sterile Nonpyrogenic For Intravenous Infusion Only
+50 mL Single-Dose GALAXY Container Code 2G3457 Discard unused portion Sterile Nonpyrogenic For Intravenous Infusion Only
 
 Cautions: Do not add supplementary medication.
 Must not be used in series connections.
@@ -122,28 +118,28 @@ Dosage: See prescribing information.
 Rx only Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Avoid temperatures above 30°C.
 
-PL 2501 Plastic
-
 BAXTER Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA Made in USA
 
-07-34-00-0852
+07-34-00-2159
 
 BAR CODE POSITION ONLY 303389553502
 
-GALAXY Container PL 2501 Plastic
+GALAXY Container
 
 BAXTER Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA Made in USA
 
-07-04-00-0304
+07-04-00-1234
 
 Clindamycin Phosphate in 0.9% Sodium Chloride Injection 900 mg per 50 mL (18 mg / mL) Contains 12 - 50 mL Single-Dose Containers Store at 20°C to 25°C (68°F to 77°F)[see USP Controlled Room Temperature].
 Avoid temperatures above 30°C.
 
 Rx only NDC 0338-9553-24 Code 2G3457
+
+FOR BAR CODE POSITION ONLY (01) 20303389553247
 
 For Intravenous Infusion Only Sterile Nonpyrogenic
 
