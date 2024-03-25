@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA218158"
+  ],
+  "inn": "clobetasol",
+  "labeler": "Eyenovia, Inc.",
+  "package_ndcs": [
+    "81046-0319-1"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "clobetasol propionate",
+      "name": "CLOBETASOL PROPIONATE"
+    }
+  ],
+  "setid": "7687c980-7006-4222-80b9-c32773772d3e",
+  "source": "dailymed"
+}
