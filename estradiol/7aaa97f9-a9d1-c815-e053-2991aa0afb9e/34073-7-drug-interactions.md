@@ -2,7 +2,7 @@
 
 No drug interaction studies have been conducted for Femring.
 
-## 7.1Metabolic Interactions
+## 7.1 Metabolic Interactions
 
 In vitro and in vivo studies have shown that estrogens are metabolized partially by cytochrome P450 3A4 (CYP3A4).
 Therefore, inducers or inhibitors of CYP3A4 may affect estrogen drug metabolism.

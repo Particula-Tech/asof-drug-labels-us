@@ -2,11 +2,10 @@
 
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
-- Cardiovascular Disorders [seeBoxed Warning, Warnings and Precautions (5.1)].
+- •Cardiovascular Disorders [see Boxed Warning, Warnings and Precautions (5.1)].
+- •Malignant Neoplasms [see Boxed Warning, Warnings and Precautions (5.2)].
 
-- Malignant Neoplasms [seeBoxed Warning, Warnings and Precautions (5.2)].
-
-## 6.1Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -27,21 +26,20 @@ Incidence of Adverse Reactions Occurring in ≥ 2 Percent of Subjects Presented 
 | Sinusitis (NOS) | 2 (1.9) | 2 (1.8) | 4 (3.6) |
 | Uterine Pain | 1 (0.9) | 2 (1.8) | 5 (4.5) |
 | Urinary Tract Infection (NOS) | 2 (1.9) | 1 (0.9) | 4 (3.6) |
+| AE = adverse event; NOS = not otherwise specified |  |  |  |
 
-AE = adverse event; NOS = not otherwise specified
+## 6.2 Postmarketing Experience
 
-## 6.2Postmarketing Experience
-
-1. A few cases of toxic shock syndrome (TSS) have been reported in women using vaginal rings.
+1. 1.A few cases of toxic shock syndrome (TSS) have been reported in women using vaginal rings.
    TSS is a rare, but serious disease that may cause death.
    Warning signs of TSS include fever, nausea, vomiting, diarrhea, muscle pain, dizziness, faintness, or a sunburn-rash on face and body.
-2. Cases of ring adherence to the vaginal or bladder wall, making ring removal difficult, have been reported in women using vaginal rings and may require surgical removal of the device.
+2. 2.Cases of ring adherence to the vaginal or bladder wall, making ring removal difficult, have been reported in women using vaginal rings and may require surgical removal of the device.
    Women should be carefully evaluated for vaginal or bladder wall ulceration or erosion.
    Cases of vaginal erosion and vaginal ulceration have been reported with other estradiol vaginal rings.
    If an ulceration or erosion has occurred, consideration should be given to leaving the ring out and not replacing it until healing is complete to prevent the ring from adhering to the vaginal tissue.
-3. A few cases of bowel obstruction associated with vaginal ring use have been reported.
+3. 3.A few cases of bowel obstruction associated with vaginal ring use have been reported.
    Persistent abdominal complaints consistent with obstruction should be carefully evaluated.
-4. A few cases of inadvertent ring insertion into the urinary bladder, which may require surgical removal, have been reported for women using vaginal rings.
+4. 4.A few cases of inadvertent ring insertion into the urinary bladder, which may require surgical removal, have been reported for women using vaginal rings.
    Persistent unexplained urinary symptoms should be carefully evaluated.
 
 The following additional adverse reactions have been identified during post-approval use of Femring.
