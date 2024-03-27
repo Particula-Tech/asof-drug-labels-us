@@ -69,7 +69,7 @@ No change in endogenous mean serum concentrations of estradiol was observed in t
 Effect of Moisturizer Lotion/Sunscreen on Estradiol Absorption
 
 The effect of sunscreen and moisturizer lotion on estradiol absorption from 0.06% estradiol topical gel was evaluated in a randomized, open-label, three-period crossover study in 42 healthy postmenopausal women.
-The study results showed that repeated daily application of sunscreen for 7 days at 1 hour after the administration of 0.06% estradiol topical gel decreased the mean AUC 0-24hand C maxof estradiol by 16%.
-Repeated daily application of moisturizer lotion for 7 days at 1 hour after the administration of 0.06% estradiol topical gel increased the mean AUC 0-24hand C maxof estradiol by 38% and 73%, respectively.
+The study results showed that repeated daily application of sunscreen for 7 days at 1 hour after the administration of 0.06% estradiol topical gel decreased the mean AUC 0-24h and C max of estradiol by 16%.
+Repeated daily application of moisturizer lotion for 7 days at 1 hour after the administration of 0.06% estradiol topical gel increased the mean AUC 0-24h and C max of estradiol by 38% and 73%, respectively.
 
 The effect of daily application of sunscreen/moisturizer lotion on estradiol absorption, when sunscreen/moisturizer lotion is applied before administration of 0.06% estradiol topical gel, was not studied.

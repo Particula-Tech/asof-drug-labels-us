@@ -13,8 +13,8 @@ Table 2 Mean Change from Baseline in the Number and Severity of Hot Flushes per 
 | --- | --- | --- | --- | --- |
 |  | Placebon=73 | EstroGel 0.06%1.25 gn=72 | Placebon=73 | EstroGel 0.06%1.25 gn=72 |
 | BaselineMean (SD) | 11.01 (5.66) | 10.33 (3.07) | 2.30 (0.24) | 2.36 (0.29) |
-| Week 4Primary timepoint.Mean (SD)Mean change from baseline (SD)Diff. vs placeboPvalue P values from Elteren’s nonparametric test. | 5.95 (5.17) -5.06 (4.91) | 4.43 (4.13) -5.91 (3.68)0.850.019 Statistically significantly different from placebo. | 2.00 (0.63) -0.31 (0.62) | 1.73 (0.73) -0.63 (0.71)0.320.005 |
-| Week 12Mean (SD)Mean change from baseline (SD)Diff. vs placeboPvalue | 5.17 (6.52) -5.84 (4.52) | 2.79 (3.70) -7.55 (3.52)1.710.043 | 1.76 (0.84) -0.54 (0.84) | 1.33 (0.97) -1.03 (0.94)0.49<0.001 |
+| Week 4Primary timepoint.Mean (SD)Mean change from baseline (SD)Diff. vs placeboP value P values from Elteren’s nonparametric test. | 5.95 (5.17)-5.06 (4.91) | 4.43 (4.13)-5.91 (3.68)0.850.019 Statistically significantly different from placebo. | 2.00 (0.63)-0.31 (0.62) | 1.73 (0.73)-0.63 (0.71)0.320.005 |
+| Week 12Mean (SD)Mean change from baseline (SD)Diff. vs placeboP value | 5.17 (6.52)-5.84 (4.52) | 2.79 (3.70)-7.55 (3.52)1.710.043 | 1.76 (0.84)-0.54 (0.84) | 1.33 (0.97)-1.03 (0.94)0.49<0.001 |
 
 ## 14.2 Effects on Vulvar and Vaginal Atrophy in Postmenopausal Women
 
@@ -37,7 +37,7 @@ WHI publications can be viewed at www.nhlbi.nih.gov/whi.
 
 | Event | Relative Risk CE vs. Placebo (95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | CEn = 5,310 | Placebon = 5,429 |
 | --- | --- | --- | --- |
-|  |  | Absolute Risk per 10,000Women-Years |  |
+|  |  | Absolute Risk per 10,000 Women-Years |  |
 | CHD events Results are based on centrally adjudicated data for an average follow-up of 7.1 years. | 0.95 (0.78-1.16) | 54 | 57 |
 | Non-fatal MI | 0.91 (0.73-1.14) | 40 | 43 |
 | CHD death | 1.01 (0.71-1.43) | 16 | 16 |
@@ -55,18 +55,17 @@ WHI publications can be viewed at www.nhlbi.nih.gov/whi.
 | Global index A subset of the events was combined in a "global index," defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. | 1.02 (0.92-1.13) | 206 | 201 |
 
 For those outcomes included in the WHI “global index” that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women‑years was 7 fewer hip fractures.
-9The absolute excess risk of events included in the "global index" was a non-significant 5 events per 10,000 women-years.
+9 The absolute excess risk of events included in the "global index" was a non-significant 5 events per 10,000 women-years.
 There was no difference between the groups in terms of all-cause mortality.
 
 No overall difference for primary CHD events (nonfatal MI, silent MI, and CHD death) and invasive breast cancer in women receiving CE-alone compared with placebo was reported in final centrally adjudicated results from the estrogen-alone substudy, after an average follow-up of 7.1 years.
 See Table 3.
 
 Centrally adjudicated results for stroke events from the estrogen-alone substudy, after an average follow-up of 7.1 years, reported no significant difference in the distribution of stroke subtype or severity, including fatal strokes, in women receiving CE-alone compared to placebo.
-Estrogen-alone therapy increased the risk of ischemic stroke, and this excess risk was present in all subgroups of women examined.
-10
+Estrogen-alone therapy increased the risk of ischemic stroke, and this excess risk was present in all subgroups of women examined.10
 
 Timing of initiation of estrogen-alone therapy relative to the start of menopause may affect the overall risk benefit profile.
-The WHI estrogen-alone substudy stratified by age showed in women 50 to 59 years of age a non-significant trend toward reduced risk for CHD [hazard ratio (HR) 0.63 (95 percent CI, 0.36-1.09)]and overall mortality [HR 0.71 (95 percent CI, 0.46-1.11)].
+The WHI estrogen-alone substudy stratified by age showed in women 50 to 59 years of age a non-significant trend toward reduced risk for CHD [hazard ratio (HR) 0.63 (95 percent CI, 0.36-1.09)] and overall mortality [HR 0.71 (95 percent CI, 0.46-1.11)].
 WHI Estrogen Plus Progestin Substudy
 
 The WHI estrogen plus progestin substudy was stopped early.
@@ -110,7 +109,7 @@ After an average follow-up of 5.2 years, the relative risk of probable dementia 
 The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years.
 Probable dementia as defined in the study included Alzheimer’s disease (AD), vascular dementia (VaD) and mixed type (having features of both AD and VaD).
 The most common classification of probable dementia in the treatment group and the placebo group was AD.
-Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions(5.3), and Use in Specific Populations(8.5)].
+Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3), and Use in Specific Populations (8.5)].
 
 The WHIMS estrogen plus progestin ancillary study enrolled 4,532 predominantly healthy postmenopausal women 65 years of age and older (47 percent were 65 to 69 years of age, 35 percent were 70 to 74 years of age, and 18 percent were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg) plus MPA (2.5 mg) on the incidence of probable dementia (primary outcome) compared to placebo.
 
@@ -118,8 +117,8 @@ After an average follow-up of 4 years, the relative risk of probable dementia fo
 The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years.
 Probable dementia as defined in the study included AD, VaD and mixed type (having features of both AD and VaD).
 The most common classification of probable dementia in the treatment group and the placebo group was AD.
-Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions(5.3), and Use in Specific Populations(8.5)].
+Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3), and Use in Specific Populations (8.5)].
 
 When data from the two populations were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19-2.60).
 Differences between groups became apparent in the first year of treatment.
-It is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions(5.3), and Use in Specific Populations(8.5)].
+It is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3), and Use in Specific Populations (8.5)].
