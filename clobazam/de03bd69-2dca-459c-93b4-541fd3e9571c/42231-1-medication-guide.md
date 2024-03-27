@@ -4,7 +4,7 @@ What is the most important information I should know about ONFI?
 
 - ONFI is a benzodiazepine medicine.
   Taking benzodiazepines with opioid medicines, alcohol, or other central nervous system (CNS) depressants (including street drugs) can cause severe drowsiness, breathing problems (respiratory depression), coma, and death.
-  Get emergency help right away if any of the following happens:Do not drive or operate heavy machinery until you know how taking ONFI with opioids affects you.
+  Get emergency help right away if any of the following happens: Do not drive or operate heavy machinery until you know how taking ONFI with opioids affects you.
   - shallow or slowed breathing
   - breathing stops (which may lead to the heart stopping)
   - excessive sleepiness (sedation)
@@ -37,6 +37,16 @@ What is the most important information I should know about ONFI?
   - A serious skin reaction can happen at any time during your treatment with ONFI, but is more likely to happen within the first 8 weeks of treatment.
     These skin reactions may need to be treated right away.
   - Call your healthcare provider immediately if you have skin blisters, rash, sores in mouth, hives or any other allergic reaction.
+- A serious allergic reaction that may affect your skin or other parts of your body such as your liver, kidneys, heart, or blood cells.
+  This allergic reaction can be life-threatening and can cause death, particularly if it is not treated as early as possible.
+  Call your healthcare provider right away if you have:
+  - a skin rash
+  - fever or swollen glands that do not go away
+  - swelling of your face
+  - shortness of breath
+  - dark urine
+  - yellowing of the skin or whites of the eyes
+
 - Like other antiepileptic medicines, ONFI may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
@@ -182,7 +192,7 @@ ONFI is a registered trademark of Lundbeck
 
 For more information about ONFI, go to www.ONFI.com or call Lundbeck at 1-866-402-8520.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 1/2023
+This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 3/2024
 
 Instructions for Use ONFI® (ON-fee) (clobazam) Oral Suspension, CIV
 

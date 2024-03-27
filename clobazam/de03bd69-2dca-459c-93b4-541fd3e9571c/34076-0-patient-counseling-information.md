@@ -34,10 +34,15 @@ Serious Dermatological Reactions Advise patients or caregivers that serious skin
 Serious skin reactions, including SJS/TEN, may need to be treated in a hospital and may be life-threatening.
 If a skin reaction occurs while taking ONFI, patients or caregivers should consult with healthcare providers immediately [see Warnings and Precautions (5.6)].
 
-Suicidal Thinking and Behavior Counsel patients, their caregivers, and their families that AEDs, including ONFI, may increase the risk of suicidal thoughts and behavior and advise them of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts of self-harm.
-Patients should report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.7)].
+DRESS/Multiorgan Hypersensitivity
 
-Pregnancy Advise pregnant females that the use of ONFI late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1)].
+Instruct patients and caregivers that a fever or rash associated with signs of other organ system involvement (e.g., lymphadenopathy, hepatic dysfunction) may be drug-related and should be reported to their healthcare provider immediately.
+ONFI should be discontinued immediately if a serious hypersensitivity reaction is suspected [see Warnings and Precautions (5.7)].
+
+Suicidal Thinking and Behavior Counsel patients, their caregivers, and their families that AEDs, including ONFI, may increase the risk of suicidal thoughts and behavior and advise them of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts of self-harm.
+Patients should report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.8)].
+
+Pregnancy Advise pregnant females that the use of ONFI late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
 Instruct patients to notify their healthcare provider if they are pregnant.
 
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant while taking ONFI.
