@@ -2,7 +2,7 @@
 
 ## 1.1 Treatment of Hypoprothrombinemia Due to Vitamin K Deficiency or Interference
 
-Phytonadione Injectable Emulsion, USP is indicated for the treatment of the following coagulation disorders which are due to faulty formation of factors II, VII, IX and X when caused by vitamin K deficiency or interference with vitamin K activity:
+Phytonadione Injectable Emulsion is indicated for the treatment of the following coagulation disorders which are due to faulty formation of factors II, VII, IX and X when caused by vitamin K-deficiency or interference with vitamin K activity:
 
 • anticoagulant-induced hypoprothrombinemia caused by coumarin or indanedione derivatives;
 
@@ -14,4 +14,4 @@ Phytonadione Injectable Emulsion, USP is indicated for the treatment of the foll
 
 ## 1.2 Prophylaxis and Treatment of Vitamin K-Deficiency Bleeding in Neonates
 
-Phytonadione Injectable Emulsion, USP is indicated for prophylaxis and treatment of vitamin K-deficiency bleeding in neonates.
+Phytonadione Injectable Emulsion is indicated for prophylaxis and treatment of vitamin K-deficiency bleeding in neonates.

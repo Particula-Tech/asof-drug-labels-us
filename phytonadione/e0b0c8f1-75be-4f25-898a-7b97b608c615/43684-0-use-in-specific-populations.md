@@ -2,8 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary The preservative benzyl alcohol can cause serious adverse events and death when administered intravenously to neonates and infants.
-If Phytonadione is needed during pregnancy, consider using a benzyl alcohol-free formulation [see Warnings and Precautions (5.2), Use in Specific Populations (8.4)].
+Risk Summary
 
 Published studies with the use of phytonadione during pregnancy have not reported a clear association with phytonadione and adverse developmental outcomes (see Data).
 There are maternal and fetal risks associated with vitamin K deficiency during pregnancy (see Clinical Considerations).
@@ -35,25 +34,13 @@ In pregnant rats receiving vitamin K1 orally, fetal plasma and liver concentrati
 
 ## 8.2 Lactation
 
-Risk Summary If available, preservative-free Phytonadione is recommended when Phytonadione is needed during lactation [see Warnings and Precautions (5.2), Use in Specific Populations (8.4)].
+Risk Summary If available, preservative-free Phytonadione is recommended when Phytonadione is needed during lactation [see USE IN SPECIFIC POPULATION (8.4)].
 
 Phytonadione is present in breastmilk.
-There are no data on the effects of Phytonadione Injectable Emulsion, USP on the breastfed child or on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the clinical need for Phytonadione Injectable Emulsion, USP and any potential adverse effects on the breastfed child from Phytonadione Injectable Emulsion, USP or from the underlying maternal condition.
+There are no data on the effects of Phytonadione Injectable Emulsion on the breastfed child or on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the clinical need for Phytonadione Injectable Emulsion and any potential adverse effects on the breastfed child from Phytonadione Injectable Emulsion or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Phytonadione Injectable Emulsion, USP for prophylaxis and treatment of vitamin K deficiency have been established in neonates.
+The safety and effectiveness of Phytonadione Injectable Emulsion for prophylaxis and treatment of vitamin K deficiency have been established in neonates.
 Use of phytonadione injection for prophylaxis and treatment of vitamin K deficiency is based on published clinical studies.
-
-Serious adverse reactions including fatal reactions and the “gasping syndrome” occurred in premature neonates and infants in the intensive care unit who received drugs containing benzyl alcohol as a preservative.
-In these cases, benzyl alcohol dosages of 99 to 234 mg/kg/day produced high levels of benzyl alcohol and its metabolites in the blood and urine (blood levels of benzyl alcohol were 0.61 to 1.378 mmol/L).
-Additional adverse reactions included gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
-Preterm, low-birth weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol.
-
-When prescribing Phytonadione in infants consider the combined daily metabolic load of benzyl alcohol from all sources including Phytonadione and other drugs containing benzyl alcohol.
-The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Warnings and Precautions (5.2)].
-
-Whenever possible, use preservative-free phytonadione formulations in neonates.
-The preservative benzyl alcohol has been associated with serious adverse events and death in pediatric patients.
-Premature and low-birth weight infants may be more likely to develop toxicity.

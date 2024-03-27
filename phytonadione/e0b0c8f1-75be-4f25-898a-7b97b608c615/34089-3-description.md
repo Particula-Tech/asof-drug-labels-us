@@ -11,4 +11,3 @@ Phytonadione Injectable Emulsion, USP injection is a yellow, sterile, aqueous co
 Phytonadione Injectable Emulsion, USP is available in 1 mg (1 mg/0.5 mL) single-dose vials.
 Each 0.5 mL of Phytonadione Injectable Emulsion, USP contains the following inactive ingredients: 10 mg polysorbate 80, 10.4 mg propylene glycol, 0.17 mg sodium acetate anhydrous, and 0.00002 mL glacial acetic acid.
 Additional glacial acetic acid or sodium acetate anhydrous may have been added to adjust pH to meet USP limits of 3.5 to 7.0.
-The air above the liquid in the individual containers has been displaced by flushing with nitrogen during the filling operation.
