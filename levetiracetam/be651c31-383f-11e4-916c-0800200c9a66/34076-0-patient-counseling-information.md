@@ -24,10 +24,15 @@ Dermatological Adverse Reactions
 
 Advise patients that serious dermatological adverse reactions have occurred in patients treated with SPRITAM and instruct them to call their physician immediately if a rash develops [see Warnings and Precautions (5.5)]
 
+DRESS/Multiorgan Hypersensitivity
+
+Instruct patients and caregivers that a fever or rash associated with signs of other organ system involvement (e.g., lymphadenopathy, hepatic dysfunction) may be drug-related and should be reported to their healthcare provider immediately.
+SPRITAM should be discontinued immediately if a serious hypersensitivity reaction is suspected [see Warnings and Precautions (5.6)].
+
 Withdrawal of SPRITAM
 
 Advise patients and caregivers not to discontinue use of SPRITAM without consulting with their healthcare provider.
-SPRITAM should normally be gradually withdrawn to reduce the potential of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.7)].
+SPRITAM should normally be gradually withdrawn to reduce the potential of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.8)].
 
 Pregnancy
 
@@ -56,10 +61,10 @@ Distributed by Prasco, LLC, Mason, OH 45040 USA
 
 SPRITAM® is a registered trademark of Aprecia Pharmaceuticals, LLC.
 
-© 2023 Aprecia Pharmaceuticals, LLC all rights reserved.
+© 2024 Aprecia Pharmaceuticals, LLC all rights reserved.
 
 Printed in the USA
 
 Patent(s): www.aprecia.com/patents
 
-LB-PI-0001.R
+LB-PI-0001.S
