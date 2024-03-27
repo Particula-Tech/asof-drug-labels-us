@@ -1,3 +1,3 @@
 Mfd. by: RAFARM SA Paiania Attiki PC 19002 Greece
 
-Distributed by: Breckenridge Pharmaceutical, Inc. Berlin, CT 06037
+Distributed by: Breckenridge Pharmaceutical, Inc. Berkeley Heights, NJ 07922

@@ -4,8 +4,8 @@
 
 Administration of Norepinephrine Bitartrate Injection to patients who are hypotensive from hypovolemia can result in severe peripheral and visceral vasoconstriction, decreased renal perfusion and reduced urine output, tissue hypoxia, lactic acidosis, and reduced systemic blood flow despite "normal" blood pressure.
 Address hypovolemia prior to initiating Norepinephrine Bitartrate Injection [see Dosage and Administration (2.1)].
-Avoid Norepinephrine Bitartrate Injection in patients with mesenteric or peripheral vascular thrombosis, as this may increase ischemia and extend the area of infarction.
 
+Avoid Norepinephrine Bitartrate Injection in patients with mesenteric or peripheral vascular thrombosis, as this may increase ischemia and extend the area of infarction.
 Gangrene of the extremities has occurred in patients with occlusive or thrombotic vascular disease or who received prolonged or high dose infusions.
 Monitor for changes to the skin of the extremities in susceptible patients.
 

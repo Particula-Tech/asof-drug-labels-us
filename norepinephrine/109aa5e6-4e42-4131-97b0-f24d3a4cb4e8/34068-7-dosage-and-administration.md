@@ -31,6 +31,7 @@ Typical maintenance intravenous dosage is 2 to 4 mcg per minute.
 
 Visually inspect Norepinephrine Bitartrate Injection for particulate matter and discoloration prior to administration (the solution is colorless).
 Do not use the solution if its color is pinkish or darker than slightly yellow or if it contains a precipitate.
+
 Add the content of one Norepinephrine Bitartrate Injection vial (4 mg in 4 mL) to 1,000 mL of 5% Dextrose Injection, USP or Sodium Chloride Injection solutions that contain 5% dextrose to produce a 4 mcg per mL dilution.
 Dextrose reduces loss of potency due to oxidation.
 Administration in saline solution alone is not recommended.

@@ -9,8 +9,8 @@ There are risks to the mother and fetus from hypotension associated with septic 
 (see Clinical Considerations).
 In animal reproduction studies, using high doses of intravenous norepinephrine resulted in lowered maternal placental blood flow.
 Clinical relevance to changes in the human fetus is unknown since the average maintenance dose is ten times lower (see Data).
-Increased fetal reabsorptions were observed in pregnant hamsters after receiving daily injections at approximately 2 times the maximum recommended dose on a mg/m3 basis for four days during organogenesis (see Data).
 
+Increased fetal reabsorptions were observed in pregnant hamsters after receiving daily injections at approximately 2 times the maximum recommended dose on a mg/m3 basis for four days during organogenesis (see Data).
 The estimated background risk for major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in the clinically recognized pregnancies is 2-4% and 15-20%, respectively.

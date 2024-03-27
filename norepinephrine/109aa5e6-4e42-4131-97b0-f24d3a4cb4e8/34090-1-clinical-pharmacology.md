@@ -9,9 +9,11 @@ Norepinephrine is a peripheral vasoconstrictor (alpha-adrenergic action) and an 
 The primary pharmacodynamic effects of norepinephrine are cardiac stimulation and vasoconstriction.
 Cardiac output is generally unaffected, although it can be decreased, and total peripheral resistance is also elevated.
 The elevation in resistance and pressure result in reflex vagal activity, which slows the heart rate and increases stroke volume.
+
 The elevation in vascular tone or resistance reduces blood flow to the major abdominal organs as well as to skeletal muscle.
 Coronary blood flow is substantially increased secondary to the indirect effects of alpha stimulation.
 After intravenous administration, a pressor response occurs rapidly and reaches steady state within 5 minutes.
+
 The pharmacologic actions of norepinephrine are terminated primarily by uptake and metabolism in sympathetic nerve endings.
 The pressor action stops within 1-2 minutes after the infusion is discontinued.
 
