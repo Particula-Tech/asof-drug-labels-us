@@ -20,6 +20,6 @@
 | What are the ingredients in everolimus tablets? Active ingredient: everolimus. Inactive ingredients: anhydrous lactose, butylated hydroxytoluene, crospovidone, hypromellose, and magnesium stearate. |  |  |
 | How should I open everolimus tablets from child-resistant blister? Separate each unit of the blister individually through perforation and peel the lidding foil from "PEEL HERE" portion.Do not push everolimus tablets through the foil, may cause the tablet to break. |  |  |
 |  | Pull apart 1 of the blister units from the blister pack by tearing along the dotted lines (Perforations) until it is fully separated | Peel the lidding foil from "PEEL HERE" portion. |
-| Manufactured by: Natco Pharma Limited Kothur – 509 228, India Distributed by: Breckenridge Pharmaceutical, Inc. Berlin, CT 06037 The brands listed are the trademarks or register marks of their respective owners and are not trademarks or register marks of Breckenridge Pharmaceutical, Inc. |  |  |
+| Manufactured by: Natco Pharma Limited Visakhapatnam - 531019 AP, India Distributed by: Breckenridge Pharmaceutical, Inc. Berkeley Heights, NJ 07922 The brands listed are the trademarks or register marks of their respective owners and are not trademarks or register marks of Breckenridge Pharmaceutical, Inc. |  |  |
 | This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  |
-| Revised:03/2023 |  |  |
+| Revised:12/2023 |  |  |

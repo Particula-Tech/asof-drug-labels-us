@@ -1,5 +1,5 @@
-Manufactured by: Natco Pharma Limited Kothur – 509 228, India
+Manufactured by: Natco Pharma Limited Visakhapatnam - 531019 AP, India
 
-Distributed by: Breckenridge Pharmaceutical Inc. Berlin, CT 06037
+Distributed by: Breckenridge Pharmaceutical, Inc. Berkeley Heights, NJ 07922
 
 xxxxxxxx

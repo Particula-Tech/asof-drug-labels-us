@@ -149,7 +149,7 @@ At baseline, 17% of patients were receiving EIAEDs.
 On central radiology review at baseline, 92% of patients had at least 1 angiomyolipoma of ≥ 3 cm in longest diameter, 29% had angiomyolipomas ≥ 8 cm, 78% had bilateral angiomyolipomas, and 97% had skin lesions.
 The median values for the sum of all target renal angiomyolipoma lesions at baseline were 85 cm3 (9 to 1612 cm3) and 120 cm3 (3 to 4520 cm3) in the everolimus tablets and placebo arms, respectively.
 Forty-six (39%) patients had prior renal embolization or nephrectomy.
-The median duration of follow-up was 8.3 months (0.7 to 24.8 mo nths) at the time of the primary analysis.
+The median duration of follow-up was 8.3 months (0.7 to 24.8 months) at the time of the primary analysis.
 
 The renal angiomyolipoma response rate was statistically significantly higher in everolimus tablets-treated patients (Table 24).
 The median response duration was 5.3+ months (2.3+ to 19.6+ months).
