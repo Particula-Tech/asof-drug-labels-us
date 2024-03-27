@@ -162,8 +162,8 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 Manufactured by: Natco Pharma Limited.
 Visakhapatnam - 531019 AP, India.
 
-Distributed by: Breckenridge Pharmaceutical, Inc., Berlin, CT 06037
+Distributed by: Breckenridge Pharmaceutical, Inc. Berkeley Heights, NJ 07922
 
-40500222
+XXXXXXXX
 
-Revised: 01/2023
+Revised: 12/2023
