@@ -3,10 +3,10 @@
 The signs and symptoms of overdosage are those of hyperthyroidism [see Warnings and Precautions (5) and Adverse Reactions (6)].
 In addition, confusion and disorientation may occur.
 Cerebral embolism, shock, coma, and death have been reported.
-Seizures occurred in a 3-year-old child ingesting 3.6 mg of levothyroxine.
+Seizures occurred in a 3-year- old child ingesting 3.6 mg of levothyroxine.
 Symptoms may not necessarily be evident or may not appear until several days after ingestion of levothyroxine sodium.
 
 Reduce the LEVO-T dose or discontinue temporarily if signs or symptoms of overdosage occur.
-Initiate appropriate supportive treatment as dictated by the patient's medical status.
+Initiate appropriate supportive treatment as dictated by the patient’s medical status.
 
 For current information on the management of poisoning or overdosage, contact the National Poison Control Center at 1-800-222-1222 or www.poison.org.

@@ -5,11 +5,13 @@ Synthetic T4 is chemically identical to that produced in the human thyroid gland
 Levothyroxine (T4) sodium has an empirical formula of C 15H 10I 4NNaO 4∙xH 2O (where x = 5), molecular weight of 798.86 g/mol (anhydrous), and structural formula as shown:
 
 LEVO-T tablets for oral administration are supplied in the following strengths: 25 mcg, 50 mcg, 75 mcg, 88 mcg, 100 mcg, 112 mcg, 125 mcg, 137 mcg, 150 mcg, 175 mcg, 200 mcg, and 300 mcg.
-Each LEVO-T tablet contains the inactive ingredients Magnesium Stearate, NF; Microcrystalline Cellulose, NF; Colloidal Silicone Dioxide, NF; and Sodium Starch Glycolate, NF.
+Each LEVO-T tablet contains the inactive ingredients colloidal silicone dioxide, NF; magnesium stearate, NF; microcrystalline cellulose, NF; and sodium starch glycolate, NF.
+LEVO-T tablets contain no ingredients made from a gluten-containing grain (wheat, barley, or rye).
+LEVO-T tablets do not contain lactose.
 Each tablet strength meets USP Dissolution Test 2.
-Table 6 provides a listing of the color additives by tablet strength:
+Table 9 provides a listing of the color additives by tablet strength:
 
-Table 6.
+Table 9.
 LEVO-T Tablets Color Additives
 
 | Strength (mcg) | Color additive(s) |
