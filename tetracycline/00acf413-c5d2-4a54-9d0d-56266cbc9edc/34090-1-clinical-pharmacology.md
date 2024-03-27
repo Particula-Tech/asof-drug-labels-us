@@ -11,26 +11,26 @@ The drugs in the tetracycline class have closely similar antimicrobial spectra, 
 
 Tetracycline has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section of the package insert.
 
-### Gram-negative Bacteria
+## Gram-negative Bacteria
 
 Acinetobacter species Bartonella bacilliformis Brucella species Campylobacter fetus Enterobacter aerogenes Escherichia coli Francisella tularensis Haemophilus ducreyi Haemophilus influenzae Klebsiella species Klebsiella granulomatis Neisseria gonorrhoeae Shigella species Vibrio cholerae Yersinia pestis
 
-### Gram-positive Bacteria
+## Gram-positive Bacteria
 
 Bacillus anthracis Streptococcus pyogenes Streptococcus pneumoniae Staphylococcus aureus Listeria monocytogenes
 
-### Anaerobes
+## Anaerobes
 
 Bacteroides species Clostridium species Fusobacterium fusiforme Propionibacterium acnes
 
-### Other Bacteria
+## Other Bacteria
 
 Actinomyces species Borrelia recurrentis Chlamydophila psittaci Chlamydia trachomatis Rickettsiae Treponema pallidum Treponema pallidum subspecies pertenue
 
-### Parasites
+## Parasites
 
 Entamoeba species Balantidium coli
 
-### Susceptibility Testing
+## Susceptibility Testing
 
 For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

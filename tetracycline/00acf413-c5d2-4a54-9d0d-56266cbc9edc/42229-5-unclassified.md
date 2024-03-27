@@ -6,8 +6,8 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Rx only
 
-Manufactured by: Cohance Lifesciences Limited Plot No. A-19/C, A-23A & A-23B, Road No.18, IDA Nacharam, Uppal Mandal, Medchal- Malkajgiri District- 500 076 Telangana state, India
+Manufactured by: Cohance Lifesciences Limited Plot No. A-19/C, A-23A & A-23B, Road No.18, IDA Nacharam, Uppal Mandal, Medchal- Malkajgiri District -500 076, Telangana state, India.
 
-Distributed by: Breckenridge Pharmaceutical, Inc. Berlin, CT 06037
+Distributed by: Breckenridge Pharmaceutical, Inc. Berkeley Heights, NJ 07922
 
-Revised: 01/23
+Revised: 02/24
