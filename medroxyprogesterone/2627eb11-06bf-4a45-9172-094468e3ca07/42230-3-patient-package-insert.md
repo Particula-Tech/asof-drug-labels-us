@@ -96,7 +96,7 @@ Call your healthcare provider right away if you get hives, problems breathing, s
 
 The following side effects have been reported with the use of medroxyprogesterone acetate tablets with an estrogen.
 
-Side effects are grouped by how serious they are and how often they happen when you are treated
+Side effects are grouped by how serious they are and how often they happen when you are treated.
 
 Serious, but less common side effects include:
 
@@ -165,19 +165,12 @@ You can get more information by calling the toll-free number, 1-800-438-1985.
 
 What are the ingredients in medroxyprogesterone acetate tablets?
 
-Each medroxyprogesterone acetate tablet for oral administration contains 2.5 mg, 5 mg or 10 mg of medroxyprogesterone acetate.
+Each medroxyprogesterone acetate tablet for oral administration contains 2.5 mg, 5 mg or 10 mg of medroxyprogesterone acetate and the following inactive ingredients:
 
-Inactive ingredients:
+Calcium stearate, corn starch, lactose, mineral oil, sucrose and talc.
 
-| 2.5 mg tablets |  |  |
-| --- | --- | --- |
-| calcium stearate, corn starch, lactose, mineral oil, sorbic acid, sucrose, talc, FD&C Yellow No. 6. | OR | calcium stearate, corn starch, lactose, mineral oil, sucrose, talc, FD&C Yellow No. 6. |
-| 5 mg tablets |  |  |
-| calcium stearate, corn starch, lactose, mineral oil, sorbic acid, sucrose, talc. | OR | calcium stearate, corn starch, lactose, mineral oil, sucrose, talc, FD&C Blue No.2 – Aluminum Lake. |
-| 10 mg tablets |  |  |
-| calcium stearate, corn starch, lactose, mineral oil, sorbic acid, sucrose, talc. | OR | calcium stearate, corn starch, lactose, mineral oil, sucrose, talc. |
+The 2.5 mg tablets also contain: FD&C Yellow No. 6.
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.greenstonellc.com
+The 5 mg tablets also contain: FD&C Blue No.2–Aluminum Lake.
 
-LAB-0147-7.0 Revised February 2024
+LAB-0147-8.0 Revised March 2024
