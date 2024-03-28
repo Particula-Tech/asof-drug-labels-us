@@ -17,8 +17,7 @@ Conversion of patients from oral carbamazepine tablets to carbamazepine suspensi
 
 Carbamazepine extended-release tablets is an extended-release formulation for twice-a-day administration.
 When converting patients from carbamazepine conventional tablets to carbamazepine extended-release tablets, the same total daily mg dose of carbamazepine extended-release tablets should be administered.
-Carbamazepine extended-release tablets must be swallowed whole and never crushed or chewed.
-Carbamazepine extended-release tablets should be inspected for chips or cracks.
+Carbamazepine extended-release tablets must be swallowed whole and never crushed or chewed.Carbamazepine extended-release tablets should be inspected for chips or cracks.
 Damaged tablets should not be consumed.
 
 ## Epilepsy

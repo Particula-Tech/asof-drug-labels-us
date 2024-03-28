@@ -1,15 +1,15 @@
 # DESCRIPTION
 
 Carbamazepine USP, is an anticonvulsant and specific analgesic for trigeminal neuralgia, available for oral administration as chewable tablets of 100 and 200 mg, tablets of 200 mg, extended-release tablets of 100 mg, 200 mg, and 400 mg, and as a suspension of 100 mg/5 mL (teaspoon).
-Its chemical name is 5H-dibenz[b,f]azepine-5-carboxamide, and its structural formula is:
+Its chemical name is 5 H-dibenz[b,f]azepine-5-carboxamide, and its structural formula is:
 
 Carbamazepine USP is a white to off-white powder, practically insoluble in water and soluble in alcohol and in acetone.
 Its molecular weight is 236.27.
 
-Inactive Ingredients: Carbamazepine Tablets USP, (Chewable), 100 mg and 200 mg – ammonio methacrylate copolymer, croscarmellose sodium, diethyl phthalate, FD&C red no. 40 lake, magnesium stearate, microcrystalline cellulose, natural cherry flavor, pregelatinized maize starch and sorbitol.
+Inactive Ingredients:Carbamazepine Tablets USP, (Chewable), 100 mg and 200 mg –ammonio methacrylate copolymer, croscarmellose sodium, diethyl phthalate, FD&C red no. 40 lake, magnesium stearate, microcrystalline cellulose, natural cherry flavor, pregelatinized maize starch and sorbitol.
 
-Carbamazepine Tablets USP, 200 mg – ammonio methacrylate copolymer, corn starch, croscarmellose sodium, diethyl phthalate, magnesium stearate and microcrystalline cellulose.
+Carbamazepine Tablets USP, 200 mg– ammonio methacrylate copolymer, corn starch, croscarmellose sodium, diethyl phthalate, magnesium stearate and microcrystalline cellulose.
 
-Carbamazepine Extended-Release Tablets USP, 100 mg, 200 mg, and 400 mg – ammonio methacrylate copolymer, corn starch, diethyl phthalate, lactose monohydrate, magnesium stearate, microcrystalline cellulose and sodium starch glycolate.
+Carbamazepine Extended-Release Tablets USP, 100 mg, 200 mg, and 400 mg– ammonio methacrylate copolymer, corn starch, diethyl phthalate, lactose monohydrate, magnesium stearate, microcrystalline cellulose and sodium starch glycolate.
 
-Carbamazepine Oral Suspension USP, 100 mg/5 mL – citric acid monohydrate, FD&C yellow no. 6, orange flavor, poloxamer 188, potassium sorbate, propylene glycol, purified water, sorbitol solution, sucrose and xanthan gum.
+Carbamazepine Oral Suspension USP, 100 mg/5 mL– citric acid monohydrate, FD&C yellow no. 6, orange flavor, poloxamer 188, potassium sorbate, propylene glycol, purified water, sorbitol solution, sucrose and xanthan gum.

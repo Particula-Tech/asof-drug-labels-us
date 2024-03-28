@@ -10,7 +10,7 @@ Carbamazepine greatly reduces or abolishes pain induced by stimulation of the in
 It depresses thalamic potential and bulbar and polysynaptic reflexes, including the linguomandibular reflex in cats.
 Carbamazepine is chemically unrelated to other anticonvulsants or other drugs used to control the pain of trigeminal neuralgia.
 The mechanism of action remains unknown.
-The principal metabolite of carbamazepine, carbamazepine-10,11-epoxide, has anticonvulsant activity as demonstrated in several in vivo animal models of seizures.
+The principal metabolite of carbamazepine, carbamazepine-10,11-epoxide, has anticonvulsant activity as demonstrated in several in vivoanimal models of seizures.
 Though clinical activity for the epoxide has been postulated, the significance of its activity with respect to the safety and efficacy of carbamazepine has not been established.
 
 ## Pharmacokinetics

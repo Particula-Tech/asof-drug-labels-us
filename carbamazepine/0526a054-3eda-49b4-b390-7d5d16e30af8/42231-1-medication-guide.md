@@ -14,7 +14,7 @@ Stopping carbamazepine suddenly can cause serious problems.
 
 Carbamazepine can cause serious side effects, including:
 
-- 1.Carbamazepine may cause rare but serious skin rashes that may lead to death.
+- Carbamazepine may cause rare but serious skin rashes that may lead to death.
   These serious skin reactions are more likely to happen when you begin taking carbamazepine within the first four months of treatment but may occur at later times.
   These reactions can happen in anyone, but are more likely in people of Asian descent.
   If you are of Asian descent, you may need a genetic blood test before you take carbamazepine to see if you are at a higher risk for serious skin reactions with this medicine.
@@ -23,14 +23,14 @@ Carbamazepine can cause serious side effects, including:
   - hives
   - sores in your mouth
   - blistering or peeling of the skin
-- 2.Carbamazepine may cause rare but serious blood problems.
+- Carbamazepine may cause rare but serious blood problems.
   Symptoms may include:
   - fever, sore throat, or other infections that come and go or do not go away
   - easy bruising
   - red or purple spots on your body
   - bleeding gums or nose bleeds
   - severe fatigue or weakness
-- 3.Carbamazepine may cause allergic reactions or serious problems, which may affect organs and other parts of your body like the liver or blood cells.
+- Carbamazepine may cause allergic reactions or serious problems, which may affect organs and other parts of your body like the liver or blood cells.
   You may or may not have a rash with these types of reactions.
   Call your healthcare provider right away if you have any of the following:
   - swelling of your face, eyes, lips, or tongue
@@ -44,7 +44,7 @@ Carbamazepine can cause serious side effects, including:
   - yellowing of your skin or eyes
   - severe fatigue or weakness
   - severe muscle pain
-- 4.Like other antiepileptic drugs, carbamazepine may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+- Like other antiepileptic drugs, carbamazepine may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
   Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
   - thoughts about suicide or dying
   - attempts to commit suicide
@@ -158,7 +158,7 @@ What should I avoid while taking carbamazepine?
 
 What are the possible side effects of carbamazepine?
 
-See "What is the most important information I should know about carbamazepine?"
+See " What is the most important information I should know about carbamazepine?"
 
 Carbamazepine may cause other serious side effects.
 These include:
@@ -196,14 +196,14 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store carbamazepine?
 
-- Store Carbamazepine Tablets at 20° to 25°C (68° to 77°F).
+- Store Carbamazepine Tabletsat 20° to 25°C (68° to 77°F).
   - Keep Carbamazepine Tablets dry.
-- Store Carbamazepine Tablets (Chewable) at 20° to 25°C (68° to 77°F).
+- Store Carbamazepine Tablets (Chewable)at 20° to 25°C (68° to 77°F).
   - Keep Carbamazepine Tablets (Chewable) out of the light.
   - Keep Carbamazepine Tablets (Chewable) dry.
-- Store Carbamazepine Extended-Release Tablets at 20° to 25°C (68° to 77°F).
+- Store Carbamazepine Extended-Release Tabletsat 20° to 25°C (68° to 77°F).
   - Keep Carbamazepine Extended-Release Tablets dry.
-- Store Carbamazepine Oral Suspension at 20° to 25°C (68° to 77°F).
+- Store Carbamazepine Oral Suspensionat 20° to 25°C (68° to 77°F).
   - Shake well before using.
   - Keep Carbamazepine Oral Suspension in a tight, light-resistant container.
 
@@ -228,10 +228,10 @@ Active ingredient: carbamazepine
 
 Inactive ingredients:
 
-- Carbamazepine Tablets, (Chewable), 100 mg and 200 mg – ammonio methacrylate copolymer, croscarmellose sodium, diethyl phthalate, FD&C red no. 40 lake, magnesium stearate, microcrystalline cellulose, natural cherry flavor, pregelatinized maize starch and sorbitol.
-- Carbamazepine Tablets, 200 mg – ammonio methacrylate copolymer, corn starch, croscarmellose sodium, diethyl phthalate, magnesium stearate and microcrystalline cellulose.
-- Carbamazepine Extended-Release Tablets, 100 mg, 200 mg, and 400 mg – ammonio methacrylate copolymer, corn starch, diethyl phthalate, lactose monohydrate, magnesium stearate, microcrystalline cellulose and sodium starch glycolate.
-- Carbamazepine Oral Suspension, 100 mg/5 mL – citric acid monohydrate, FD&C yellow no. 6, orange flavor, poloxamer 188, potassium sorbate, propylene glycol, purified water, sorbitol solution, sucrose and xanthan gum.
+- Carbamazepine Tablets, (Chewable), 100 mg and 200 mg– ammonio methacrylate copolymer, croscarmellose sodium, diethyl phthalate, FD&C red no. 40 lake, magnesium stearate, microcrystalline cellulose, natural cherry flavor, pregelatinized maize starch and sorbitol.
+- Carbamazepine Tablets, 200 mg– ammonio methacrylate copolymer, corn starch, croscarmellose sodium, diethyl phthalate, magnesium stearate and microcrystalline cellulose.
+- Carbamazepine Extended-Release Tablets, 100 mg, 200 mg, and 400 mg– ammonio methacrylate copolymer, corn starch, diethyl phthalate, lactose monohydrate, magnesium stearate, microcrystalline cellulose and sodium starch glycolate.
+- Carbamazepine Oral Suspension, 100 mg/5 mL– citric acid monohydrate, FD&C yellow no. 6, orange flavor, poloxamer 188, potassium sorbate, propylene glycol, purified water, sorbitol solution, sucrose and xanthan gum.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
