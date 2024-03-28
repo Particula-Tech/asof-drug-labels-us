@@ -31,17 +31,16 @@ Protect from freezing.
 Avoid excessive heat.
 PROTECT FROM LIGHT, STORE IN CARTON UNTIL READY TO USE.
 
-U.S. Patent Numbers 7612102 and 7659291 Cardene is a registered trademark of Chiesi USA, Inc. Galaxy is a registered trademark of Baxter International Inc. Novaplus is a registered trademark of Vizient, Inc.
+U.S. Patent Numbers 7612102 and 7659291 Cardene is a registered trademark of Chiesi USA, Inc. and is used under license.
+Galaxy is a registered trademark of Baxter International Inc. Novaplus is a registered trademark of Vizient, Inc.
 
-NovaplusTM
+Novaplus Logo
 
 Manufactured and Marketed by: Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 To report suspected adverse reactions, contact Baxter Healthcare Corporation at 1-866-888-2472
 
-PL 2501 Plastic
-
-07-34-00-1407
+07-34-00-2154
 
 *BAR CODE POSITION ONLY 343066021108
 
@@ -59,7 +58,7 @@ Nicardipine Hydrochloride in 0.86 Sodium Chloride Injection
 
 For Intravenous Infusion Only.
 
-NovaplusTM
+NovaplusLogo
 
 CARDENE I.V.
 Nicardipine Hydrochloride in 0.86 Sodium Chloride Injection
@@ -154,17 +153,16 @@ Protect from freezing.
 Avoid excessive heat.
 PROTECT FROM LIGHT, STORE IN CARTON UNTIL READY TO USE.
 
-U.S. Patent Numbers 7612102 and 7659291 Cardene is a registered trademark of Chiesi USA, Inc. Galaxy is a registered trademark of Baxter International Inc. Novaplus is a registered trademark of Vizient, Inc.
+U.S. Patent Numbers 7612102 and 7659291 Cardene is a registered trademark of Chiesi USA, Inc. and is used under license.
+Galaxy is a registered trademark of Baxter International Inc. Novaplus is a registered trademark of Vizient, Inc.
 
-NovaplusTM
+NovaplusLogo
 
 Manufactured and Marketed by: Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 To report suspected adverse reactions, contact Baxter Healthcare Corporation at 1-866-888-2472
 
-PL 2501 Plastic
-
-07-34-00-1408
+07-34-00-2155
 
 *BAR CODE
 
@@ -188,7 +186,7 @@ Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection
 
 DOUBLE CONCENTRATION: CHECK INFUSION RATE
 
-NovaplusTM
+NovaplusLogo
 
 CARDENE I.V.
 Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection

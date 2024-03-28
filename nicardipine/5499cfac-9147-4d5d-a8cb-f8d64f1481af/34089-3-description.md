@@ -32,6 +32,6 @@ Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection
 Each mL contains 0.2 mg nicardipine hydrochloride, 8.3 mg sodium chloride, USP, 0.0384 mg citric acid, anhydrous, USP, and 3.84 mg sorbitol, NF.
 Hydrochloric acid and/or sodium hydroxide may have been added to adjust pH to 3.7 to 4.7.
 
-The GALAXY container is fabricated from multilayered plastic (PL 2501).
+The GALAXY container is fabricated from multilayered plastic.
 Solutions are in contact with the polyethylene layer of the container and can leach out certain chemical components of the plastic in very small amounts within the expiration period.
 The suitability and safety of the plastic have been confirmed in tests in animals according to the USP biological tests for plastic containers, as well as by tissue culture toxicity studies.

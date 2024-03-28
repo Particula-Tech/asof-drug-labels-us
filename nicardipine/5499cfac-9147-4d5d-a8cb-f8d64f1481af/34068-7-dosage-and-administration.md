@@ -12,11 +12,11 @@ Dosage as a Substitute for Oral Nicardipine Therapy The intravenous infusion rat
 | --- | --- | --- |
 | 20 mg q8h | 0.5 mg/hr = 5 mL/hr | 0.5 mg/hr = 2.5 mL/hr |
 | 30 mg q8h | 1.2 mg/hr = 12 mL/hr | 1.2 mg/hr = 6 mL/hr |
-| 40 mg q8h | 2.2 mg/hr = 22 mL/hr | 2.2 mg/hr = 11mL/hr |
+| 40 mg q8h | 2.2 mg/hr = 22 mL/hr | 2.2 mg/hr = 11 mL/hr |
 
 Dosage for Initiation of Therapy in a Patient Not Receiving Oral Nicardipine CARDENE I.V.
 20 mg in 200 mL (0.1 mg/mL): Initiate therapy at 50 mL/hr (5 mg/hr).
-If desired blood pressure reduction is not achieved at this dose, the infusion rate may be increased by 25 mL/hr (2.5 mg/ hr) every 5 minutes (for rapid titration) to 15 minutes (for gradual titration) up to a maximum of 150 mL/hr (15 mg/hr), until desired blood pressure reduction is achieved.
+If desired blood pressure reduction is not achieved at this dose, the infusion rate may be increased by 25 mL/hr (2.5 mg/hr) every 5 minutes (for rapid titration) to 15 minutes (for gradual titration) up to a maximum of 150 mL/hr (15 mg/hr), until desired blood pressure reduction is achieved.
 
 Following achievement of the blood pressure goal utilizing rapid titration, decrease the infusion rate to 30 mL/hr (3 mg/hr).
 
@@ -49,7 +49,7 @@ Then, when blood pressure has stabilized, infusion of CARDENE I.V. may be restar
 Administer CARDENE I.V. by a central line or through a large peripheral vein.
 Change the infusion site every 12 hours if administered via peripheral vein [see Warnings and Precautions (5.5)].
 
-CARDENE I.V. is available as a single-use, ready-to-use, iso-osmotic solution for intravenous administration.
+CARDENE I.V. is available as a single-dose, ready-to-use, iso-osmotic solution for intravenous administration.
 No further dilution is required.
 
 Inspect CARDENE I.V. visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
@@ -67,6 +67,6 @@ Such use could result in air embolism due to residual air being drawn from the p
 Preparation for administration
 
 1. 1.Suspend container from eyelet support.
-2. 2.Remove protector from outlet port at a bottom of container.
+2. 2.Remove protector from outlet port at bottom of container.
 3. 3.Attach administration set.
    Refer to complete directions accompanying set.
