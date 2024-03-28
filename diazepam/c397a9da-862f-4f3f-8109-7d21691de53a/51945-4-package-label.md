@@ -14,8 +14,7 @@ Usual Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
-Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature.]
+Store at 20° to 25°C (68° to 77°F).[See USP Controlled RoomTemperature.]
 
 Protect from light.
 
@@ -31,7 +30,7 @@ Keep container tightly closed.
 
 Code No.: MH/DRUGS/AS/089
 
-RMXA0271A
+RMXA0271A1
 
 # PRINCIPAL DISPLAY PANEL - 5 mg
 
@@ -49,8 +48,7 @@ Usual Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
-Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature.]
+Store at 20° to 25°C (68° to 77°F).[See USP Controlled RoomTemperature.]
 
 Protect from light.
 
@@ -66,7 +64,7 @@ Keep container tightly closed.
 
 Code No.: MH/DRUGS/AS/089
 
-RMXA0345A
+RMXA0345A1
 
 # PRINCIPAL DISPLAY PANEL - 10 mg
 
@@ -84,8 +82,7 @@ Usual Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
-Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature.]
+Store at 20° to 25°C (68° to 77°F).[See USP Controlled RoomTemperature.]
 
 Protect from light.
 
@@ -101,4 +98,4 @@ Keep container tightly closed.
 
 Code No.: MH/DRUGS/AS/089
 
-RMXA0477A
+RMXA0477A1
