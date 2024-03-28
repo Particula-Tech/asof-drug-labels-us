@@ -110,7 +110,7 @@ FOR INTRAVENOUS USE ONLY.
 DIST.
 BY HOSPIRA, INC., LAKE FOREST, IL 60045 USA IM-5192 Hospira
 
-# PRINCIPAL DISPLAY PANEL - 250 mL Bag Label – 12135-02
+# PRINCIPAL DISPLAY PANEL - 250 mL Bag Label – 12135-04
 
 250 mL NDC 0409-4520-02
 
@@ -138,4 +138,4 @@ Rx ONLY
 
 5 PP
 
-Distributed by Hospira, Inc., Lake Forest, IL 60045 USA 12135-02 Hospira
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA 12135-04 Hospira
