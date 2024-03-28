@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Clindamycin Phosphate in Sodium Chloride Injection is a clear, colorless and sterile solution for intravenous infusion.
-Each 50 mL of Clindamycin in Phosphate in Sodium Chloride Injection, 300 mg/50 mL, 600mg/50mL, and 900 mg/50 mL, contains 300 mg, 600 mg or 900 mg clindamycin, respectively (as clindamycin phosphate, USP) in 0.9% sodium chloride solution.
+Each 50 mL of Clindamycin in Phosphate in Sodium Chloride Injection, 300 mg/50 mL, 600mg/50mL, and 900 mg/50 mL, contains 300 mg, 600 mg, or 900 mg clindamycin, respectively (as clindamycin phosphate, USP) in 0.9% sodium chloride solution.
 Clindamycin in Phosphate in Sodium Chloride Injection in single-dose GALAXY containers is available as follows:
 
 | 2G3455 | Twenty-four (24)-300 mg/50 mL containers | NDC 0338-9545-24 |
