@@ -204,18 +204,8 @@ Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by:
+Distributed by: Breckenridge Pharmaceutical, Inc. Berkeley Heights, NJ 07922
 
-Breckenridge Pharmaceutical, Inc. Berlin, CT 06037
+Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav 389350, Gujarat, India
 
-Manufactured by:
-
-Alembic Pharmaceuticals Limited,
-
-(Formulation Division),
-
-Village Panelav, P. O. Tajpura, Near Baska,
-
-Taluka-Halol, Panchmahal, Gujarat, India.
-
-Revised: 10/2023
+Revised: 12/2023
