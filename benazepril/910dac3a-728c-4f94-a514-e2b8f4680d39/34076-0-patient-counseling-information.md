@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Pregnancy: Tell female patients of childbearing age about the con-sequences of exposure to benazepril hydrochloride during pregnancy.
+Pregnancy: Tell female patients of childbearing age about the consequences of exposure to benazepril hydrochloride during pregnancy.
 Discuss treatment options with women planning to become pregnant.
 Instruct patients to report pregnancies to their physicians as soon as possible.
 
@@ -28,3 +28,13 @@ East Brunswick, NJ 08816
 51U000000401US02
 
 Revised: 10/2022
+
+OR
+
+Manufactured by: Emcure Pharmaceuticals Ltd., Kadu, Surendranagar - 382775, India
+
+Manufactured for: Avet Pharmaceuticals Inc. East Brunswick, NJ 08816 1.866.901.DRUG (3784)
+
+510490439US01
+
+Revised: 08/2023

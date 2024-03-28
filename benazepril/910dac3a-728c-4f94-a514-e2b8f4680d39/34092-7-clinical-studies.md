@@ -15,7 +15,7 @@ In studies comparing the same daily dose of benazepril hydrochloride given as a 
 
 The antihypertensive effects of benazepril hydrochloride were not appreciably different in patients receiving high- or low-sodium diets.
 
-In normal human volunteers, single doses of benazepril caused an in-crease in renal blood flow but had no effect on glomerular filtration rate.
+In normal human volunteers, single doses of benazepril caused an increase in renal blood flow but had no effect on glomerular filtration rate.
 
 Use of benazepril hydrochloride in combination with thiazide diuretics gives a blood-pressure-lowering effect greater than that seen with either agent alone.
 By blocking the renin-angiotensin-aldosterone axis, administration of benazepril hydrochloride tends to reduce the potassium loss associated with the diuretic.

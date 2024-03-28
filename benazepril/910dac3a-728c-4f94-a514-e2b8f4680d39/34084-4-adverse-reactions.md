@@ -1,6 +1,7 @@
 # 6 ADVERSE REACTIONS
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+Benazepril hydrochloride has been evaluated for safety in over 6,000 patients with hypertension; over 700 of these patients were treated for at least one year.
+The overall incidence of reported adverse events was similar in benazepril hydrochloride and placebo patients.
 
 Benazepril hydrochloride has been evaluated for safety in over 6,000 patients with hypertension; over 700 of these patients were treated for at least one year.
 The overall incidence of reported adverse events was similar in benazepril hydrochloride and placebo patients.
