@@ -8,7 +8,7 @@
 |  | •rash•hives•severe itching | •swelling of your face, mouth, and tongue•breathing problems |
 | •new or worsening eye problems including acute narrow-angle glaucoma. You should have regular eye exams while using INCRUSE ELLIPTA. Acute narrow-angle glaucoma can cause permanent loss of vision if not treated. Symptoms of acute narrow-angle glaucoma may include: |  |  |
 |  | •eye pain or discomfort•nausea or vomiting•blurred vision | •seeing halos or bright colors around lights•red eyes |
-| If you have these symptoms, call your healthcare provider right away before taking another dose.•urinary retention. People who take INCRUSE ELLIPTA may develop new or worse urinary retention. Symptoms of urinary retention may include: |  |  |
+| If you have these symptoms, call your healthcare provider right away before taking another dose.1.urinary retention. People who take INCRUSE ELLIPTA may develop new or worse urinary retention. Symptoms of urinary retention may include: |  |  |
 |  | •difficulty urinating•painful urination | •urinating frequently•urination in a weak stream or drips |
 | If you have these symptoms of urinary retention, stop taking INCRUSE ELLIPTA, and call your healthcare provider right away before taking another dose. Common side effects of INCRUSE ELLIPTA include: |  |  |
 |  | •upper respiratory tract infection•stuffy or runny nose•cough•mouth and throat pain•joint pain•change in taste | •muscle pain•tooth pain•stomach pain•bruising or dark areas of skin•fast or irregular heartbeat |
