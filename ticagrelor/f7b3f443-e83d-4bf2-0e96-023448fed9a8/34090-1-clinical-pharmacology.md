@@ -104,6 +104,6 @@ For specific in vivo effects on the pharmacokinetics of simvastatin, atorvastati
 
 Figure 9 - Impact of BRILINTA on the pharmacokinetics of co-administered drugs
 
-## 12.5 Pharmacogenetics
+## 12.5 Pharmacogenomics
 
 In a genetic substudy cohort of PLATO, the rate of thrombotic CV events in the BRILINTA arm did not depend on CYP2C19 loss of function status.

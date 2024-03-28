@@ -43,7 +43,7 @@ X-axis is days from last dose of study drug prior to CABG.
 
 The PLATO protocol recommended a procedure for withholding study drug prior to CABG or other major surgery without unblinding.
 If surgery was elective or non-urgent, study drug was interrupted temporarily, as follows: If local practice was to allow antiplatelet effects to dissipate before surgery, capsules (blinded clopidogrel) were withheld 5 days before surgery and tablets (blinded ticagrelor) were withheld for a minimum of 24 hours and a maximum of 72 hours before surgery.
-If local practice was to perform surgery without waiting for dissipation of antiplatelet effects capsules and tablets were withheld 24 hours prior to surgery and use of aprotinin or other haemostatic agents was allowed.
+If local practice was to perform surgery without waiting for dissipation of antiplatelet effects capsules and tablets were withheld 24 hours prior to surgery and use of aprotinin or other hemostatic agents was allowed.
 If local practice was to use IPA monitoring to determine when surgery could be performed both the capsules and tablets were withheld at the same time and the usual monitoring procedures followed.
 
 T Ticagrelor; C Clopidogrel.

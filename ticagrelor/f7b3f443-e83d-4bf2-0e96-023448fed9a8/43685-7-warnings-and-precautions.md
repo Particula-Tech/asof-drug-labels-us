@@ -2,16 +2,26 @@
 
 ## 5.1 Risk of Bleeding
 
-Drugs that inhibit platelet function including BRILINTA increase the risk of bleeding [seeAdverse Reactions (6.1)and Warnings and Precautions (5.4)].
+Drugs that inhibit platelet function including BRILINTA increase the risk of bleeding [see Warnings and Precautions
+
+(5.2) and Adverse Reactions (6.1)].
 
 Patients treated for acute ischemic stroke or TIA
 
 Patients at NIHSS >5 and patients receiving thrombolysis were excluded from THALES and use of BRILINTA in such patients is not recommended.
 
-## 5.2 Concomitant Aspirin Maintenance Dose for Patients Being Treated for ACS
+## 5.2 Discontinuation of BRILINTA in Patients Treated for Coronary Artery Disease
 
-In the management of patients with ACS, the use of BRILINTA with maintenance doses of aspirin above 100 mg decreased the effectiveness of BRILINTA.
-In such patients, use a maintenance dose of aspirin of 75-100 mg [see Dosage and Administration (2.1) and Clinical Studies (14.1)].
+Discontinuation of BRILINTA will increase the risk of myocardial infarction, stroke, and death in patients being treated
+
+for coronary artery disease.
+If BRILINTA must be temporarily discontinued (e.g., to treat bleeding or for significant
+
+surgery), restart it as soon as possible.
+When possible, interrupt therapy with BRILINTA for five days prior to surgery that
+
+has a major risk of bleeding.
+Resume BRILINTA as soon as hemostasis is achieved.
 
 ## 5.3 Dyspnea
 
@@ -24,35 +34,52 @@ There was no indication of an adverse effect on pulmonary function assessed afte
 If a patient develops new, prolonged, or worsened dyspnea that is determined to be related to BRILINTA, no specific treatment is required; continue BRILINTA without interruption if possible.
 In the case of intolerable dyspnea requiring discontinuation of BRILINTA, consider prescribing another antiplatelet agent.
 
-## 5.4 Discontinuation of BRILINTA in Patients Treated for Coronary Artery Disease
-
-Discontinuation of BRILINTA will increase the risk of myocardial infarction, stroke, and death in patients being treated for coronary artery disease.
-If BRILINTA must be temporarily discontinued (e.g., to treat bleeding or for significant surgery), restart it as soon as possible.
-When possible, interrupt therapy with BRILINTA for five days prior to surgery that has a major risk of bleeding.
-Resume BRILINTA as soon as hemostasis is achieved.
-
-## 5.5 Bradyarrhythmias
+## 5.4 Bradyarrhythmias
 
 BRILINTA can cause ventricular pauses [see Adverse Reactions (6.1)].
-Bradyarrhythmias including AV block have been reported in the postmarketing setting.
-Patients with a history of sick sinus syndrome, 2nd or 3rd degree AV block or bradycardia-related syncope not protected by a pacemaker were excluded from clinical studies and may be at increased risk of developing bradyarrhythmias with ticagrelor.
+Bradyarrhythmias including AV block have been
 
-## 5.6 Severe Hepatic Impairment
+reported in the postmarketing setting.
+Patients with a history of sick sinus syndrome, 2nd or 3rd degree AV block or
+
+bradycardia-related syncope not protected by a pacemaker were excluded from clinical studies and may be at increased
+
+risk of developing bradyarrhythmias with ticagrelor.
+
+## 5.5 Severe Hepatic Impairment
 
 Avoid use of BRILINTA in patients with severe hepatic impairment.
-Severe hepatic impairment is likely to increase serum concentration of ticagrelor.
-There are no studies of BRILINTA patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].
+Severe hepatic impairment is likely to increase
 
-## 5.7 Central Sleep Apnea
+serum concentration of ticagrelor.
+There are no studies of BRILINTA patients with severe hepatic impairment [see
 
-Central sleep apnea (CSA) including Cheyne-Stokes respiration (CSR) has been reported in the post-marketing setting in patients taking ticagrelor, including recurrence or worsening of CSA/CSR following rechallenge.
-If central sleep apnea is suspected, consider further clinical assessment.
+Clinical Pharmacology (12.3)].
 
-## 5.8 Laboratory Test Interferences
+## 5.6 Central Sleep Apnea
+
+Central sleep apnea (CSA) including Cheyne-Stokes respiration (CSR) has been reported in the post-marketing setting in
+
+patients taking ticagrelor, including recurrence or worsening of CSA/CSR following rechallenge.
+If central sleep apnea is
+
+suspected, consider further clinical assessment.
+
+## 5.7 Laboratory Test Interferences
 
 False negative functional tests for Heparin Induced Thrombocytopenia (HIT)
 
-BRILINTA has been reported to cause false negative results in platelet functional tests (to include, but may not be limited to, the heparin-induced platelet aggregation (HIPA) assay) for patients with Heparin Induced Thrombocytopenia (HIT).
-This is related to inhibition of the P2Y12-receptor on the healthy donor platelets in the test by ticagrelor in the affected patient’s serum/plasma.
-Information on concomitant treatment with BRILINTA is required for interpretation of HIT functional tests.
-Based on the mechanism of BRILINTA interference, BRILINTA is not expected to impact PF4 antibody testing for HIT.
+BRILINTA has been reported to cause false negative results in platelet functional tests (including the heparin-induced
+
+platelet aggregation (HIPA) assay) for patients with Heparin Induced Thrombocytopenia (HIT).
+This is related to
+
+inhibition of the P2Y12-receptor on the healthy donor platelets in the test by ticagrelor in the affected patient’s
+
+serum/plasma.
+Information on concomitant treatment with BRILINTA is required for interpretation of HIT functional
+
+tests.
+Based on the mechanism of BRILINTA interference, BRILINTA is not expected to impact PF4 antibody testing for
+
+HIT.
