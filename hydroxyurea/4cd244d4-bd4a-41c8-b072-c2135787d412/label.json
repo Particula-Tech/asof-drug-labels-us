@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA218021"
+  ],
+  "inn": "hydroxyurea",
+  "labeler": "Qilu Pharmaceutical Co., Ltd.",
+  "package_ndcs": [
+    "67184-0607-1"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "hydroxyurea",
+      "name": "HYDROXYUREA"
+    }
+  ],
+  "setid": "4cd244d4-bd4a-41c8-b072-c2135787d412",
+  "source": "dailymed"
+}
