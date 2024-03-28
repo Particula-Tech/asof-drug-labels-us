@@ -52,28 +52,28 @@ It is not known if GLUMETZA is safe and effective in children.
 
 Do not take GLUMETZA if you:
 
-- • have severe kidney problems.
-- • are allergic to metformin hydrochloride or any of the ingredients in GLUMETZA.
+- have severe kidney problems.
+- are allergic to metformin hydrochloride or any of the ingredients in GLUMETZA.
   See the end of this Patient Information leaflet for a complete list of ingredients in GLUMETZA.
-- • have a condition called metabolic acidosis, including diabetic ketoacidosis (high levels of certain acids called “ketones” in your blood or urine).
+- have a condition called metabolic acidosis, including diabetic ketoacidosis (high levels of certain acids called “ketones” in your blood or urine).
 
 Before taking GLUMETZA tell your doctor about all of your medical conditions, including if you:
 
-- • have a history or risk for diabetic ketoacidosis.
+- have a history or risk for diabetic ketoacidosis.
   See “Do not take GLUMETZA if you:”.
-- • have kidney problems.
-- • have liver problems.
-- • have heart problems, including congestive heart failure.
-- • are 65 years of age or older.
-- • drink alcohol very often, or drink a lot of alcohol in short-term “binge” drinking.
-- • are taking insulin or a sulfonylurea medicine.
-- • are pregnant or plan to become pregnant.
+- have kidney problems.
+- have liver problems.
+- have heart problems, including congestive heart failure.
+- are 65 years of age or older.
+- drink alcohol very often, or drink a lot of alcohol in short-term “binge” drinking.
+- are taking insulin or a sulfonylurea medicine.
+- are pregnant or plan to become pregnant.
   It is not known if GLUMETZA can harm your unborn baby.
   If you are pregnant, talk with your doctor about the best way to control your blood sugar while you are pregnant.
-- • are a woman who has not gone through menopause (premenopausal) who does not have periods regularly or at all.
+- are a woman who has not gone through menopause (premenopausal) who does not have periods regularly or at all.
 - GLUMETZA can cause the release of an egg from an ovary in a woman (ovulation).
   This can increase your chance of getting pregnant.
-- • are breastfeeding or plan to breastfeed.
+- are breastfeeding or plan to breastfeed.
   GLUMETZA can pass into your breast milk.
   Talk with your doctor about the best way to feed your baby while you take GLUMETZA.
 
@@ -116,8 +116,7 @@ What are the possible side effects of GLUMETZA?
 GLUMETZA can cause serious side effects, including:
 
 - See “ What is the most important information I should know about GLUMETZA?”.
-- Low vitamin B 12(vitamin B 12deficiency).
-  Using GLUMETZA may cause a decrease in the amount of vitamin B 12in your blood, especially if you have had low vitamin B 12levels before.
+- Low vitamin B 12(vitamin B 12deficiency).Using GLUMETZA may cause a decrease in the amount of vitamin B 12in your blood, especially if you have had low vitamin B 12levels before.
   Your doctor may do blood tests to check your vitamin B 12levels.
 - Low blood sugar (hypoglycemia).
   Low blood sugar is a serious, but common, side effect of GLUMETZA.If you take GLUMETZA with another medicine that can cause low blood sugar, such as sulfonylureas or insulin, you have a higher risk of getting low blood sugar.

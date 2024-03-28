@@ -79,7 +79,7 @@ Table 3: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
 | Coadministered Drug | Dose of Coadministered DrugAll metformin HCl and coadministered drugs were given as single doses. | Dose of Metformin HCl | Geometric Mean Ratio (ratio with/ without coadministered drug)No Effect=1.00 |  |
 | --- | --- | --- | --- | --- |
-| AUCAUC=AUC 0-inf | C max |  |  |  |
+| AUCAUC=AUC 0- inf | C max |  |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |
 | Glyburide | 5 mg | 500 mg GLUMETZA (metformin hydrochloride) extended-release tablets 500 mg | 0.98 Ratio of arithmetic means | 0.99 |
 | Furosemide | 40 mg | 850 mg | 1.09 | 1.22 |
@@ -89,7 +89,7 @@ Table 3: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | Cationic drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin: [see Warnings and Precautions (5.1) and Drug Interactions (7)]. |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | 1.40 | 1.61 |
 | Carbonic anhydrase inhibitors may cause metabolic acidosis: [see Warnings and Precautions (5.1) and Drug Interactions (7)]. |  |  |  |  |
-| Topiramate | 100 mg At steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC=AUC 0-12h | 500 mg | 1.25 | 1.17 |
+| Topiramate | 100 mg At steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC=AUC 0- 12h | 500 mg | 1.25 | 1.17 |
 
 Table 4: Effect of Metformin on Coadministered Drug Systemic Exposure
 

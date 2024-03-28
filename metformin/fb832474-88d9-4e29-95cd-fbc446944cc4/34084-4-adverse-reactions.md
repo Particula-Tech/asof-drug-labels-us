@@ -17,7 +17,7 @@ Adverse reactions reported in greater than 5% of patients treated with GLUMETZA 
 
 In 0.7% of patients treated with GLUMETZA and glyburide, diarrhea was responsible for discontinuation of study medication compared to no patients in the placebo and glyburide group.
 
-Table 1: Adverse Reactions Reported by >5% Adverse reactions that were more common in the GLUMETZA-treated than in the placebo-treated patients.of Patients for the Combined GLUMETZA Groups Versus Placebo Group
+Table 1: Adverse Reactions Reported by >5%1of Patients for the Combined GLUMETZA Groups Versus Placebo Group
 
 | Adverse Reaction | GLUMETZA + Glyburide (n=431) | Placebo + Glyburide (n=144) |
 | --- | --- | --- |
