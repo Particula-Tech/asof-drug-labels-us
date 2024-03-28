@@ -1,7 +1,7 @@
-Manufactured by: Yichang Humanwell Oral Solid Dosage Plant Yichang, Hubei, China 443112
+Manufactured by: Yichang Humanwell Oral Solid Dosage Plant Yichang, Hubei, China 443001
 
 Distributed by: Slate Run Pharmaceuticals, LLC Columbus, Ohio 43215
 
 Made in China
 
-Revised 09/2023
+Revised 02/2024
