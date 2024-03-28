@@ -12,12 +12,12 @@
 |  | osudden or severe stomach painostomach pain after mealsoweight lossofever | onausea or vomitingoconstipation or diarrheaobloody diarrhea |
 | •problems with blood circulation to your legs and feet (peripheral vascular ischemia). Symptoms of peripheral vascular ischemia include: ocramping and pain in your legs or hipsofeeling of heaviness or tightness in your leg musclesoburning or aching pain in your feet or toes while restingonumbness, tingling, or weakness in your legsocold feeling or color changes in 1 or both legs or feet •medication overuse headaches. Some people who use too many IMITREX nasal sprays may have worse headaches (medication overuse headache). If your headaches get worse, your healthcare provider may decide to stop your treatment with IMITREX.•serotonin syndrome. Serotonin syndrome is a rare but serious problem that can happen in people using IMITREX, especially if IMITREX is used with anti-depressant medicines called SSRIs or SNRIs. Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome: omental changes such as seeing things that are not there (hallucinations), agitation, or comaofast heartbeatochanges in blood pressureohigh body temperatureotight musclesotrouble walking •local irritation. Some people who use IMITREX nasal spray may have irritation of their throat and nose. Symptoms of local irritation of the throat and nose include: burning, numbness, tingling sensation, nasal discharge, pain or soreness.•hives (itchy bumps); swelling of your tongue, mouth, or throat.•seizures. Seizures have happened in people taking IMITREX who have never had seizures before. Talk with your healthcare provider about your chance of having seizures while you take IMITREX. The most common side effects of IMITREX nasal spray include: •unusual or bad taste in your mouth •nausea•vomiting•dizziness•warm, hot, burning feeling Tell your healthcare provider if you have any side effect that bothers you or that does not go away.These are not all the possible side effects of IMITREX.Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |
 | How should I store IMITREX Nasal Spray? •Store IMITREX between 36°F to 86°F (2°C to 30°C).•Store your medicine away from light. Keep IMITREX and all medicines out of the reach of children. |  |  |
-| General information about the safe and effective use of IMITREX.Medicines are sometimes prescribed for purposes other than those listed in Patient Information leaflets. Do not use IMITREX for a condition for which it was not prescribed. Do not give IMITREX to other people, even if they have the same symptoms you have. It may harm them.This Patient Information leaflet summarizes the most important information about IMITREX. If you would like more information, talk with your healthcare provider. You can ask your healthcare provider or pharmacist for information about IMITREX that is written for healthcare professionals.For more information, go to www.gsk.com or call 1-888-825-5249. |  |  |
+| General information about the safe and effective use of IMITREX.Medicines are sometimes prescribed for purposes other than those listed in Patient Information leaflets. Do not use IMITREX for a condition for which it was not prescribed. Do not give IMITREX to other people, even if they have the same symptoms you have. It may harm them.This Patient Information leaflet summarizes the most important information about IMITREX. If you would like more information, talk with your healthcare provider. You can ask your healthcare provider or pharmacist for information about IMITREX that is written for healthcare professionals.For more information, call 1-888-825-5249. |  |  |
 | What are the ingredients in IMITREX Nasal Spray?Active ingredient: sumatriptanInactive ingredients: monobasic potassium phosphate NF, anhydrous dibasic sodium phosphate USP, sulfuric acid NF, sodium hydroxide NF, and purified water USP. |  |  |
-| IMITREX and AMERGE are trademarks owned by or licensed to the GSK group of companies. The other brands listed are trademarks owned by or licensed to their respective owners and are not owned by or licensed to the GSK group of companies. The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.GlaxoSmithKlineResearch Triangle Park, NC 27709©2017 GSK group of companies or its licensor.IMN:5PPI |  |  |
+| IMITREX and AMERGE are trademarks owned by or licensed to the GSK group of companies. The other brands listed are trademarks owned by or licensed to their respective owners and are not owned by or licensed to the GSK group of companies. The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.GlaxoSmithKlineDurham, NC 27701©2024 GSK group of companies or its licensor.IMN:6PPI |  |  |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised December 2017
+Revised March 2024
 
 Instructions for Use
 
@@ -49,10 +49,10 @@ This Patient Information and Instructions for Use have been approved by the U.S.
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
-©2017 GSK group of companies or its licensor.
+©2024 GSK group of companies or its licensor.
 
-December 2017
+March 2024
 
-IMN:5PIL
+IMN:6PIL

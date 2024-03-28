@@ -50,8 +50,8 @@ Caution patients to avoid spraying the contents of the device in their eyes.
 
 Trademarks are owned by or licensed to the GSK group of companies.
 
-GlaxoSmithKline Research Triangle Park, NC 27709
+GlaxoSmithKline Durham, NC 27701
 
-©2017 GSK group of companies or its licensor.
+©2024 GSK group of companies or its licensor.
 
-IMN:5PI
+IMN:6PI
