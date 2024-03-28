@@ -31,13 +31,13 @@ Protect from freezing.
 Avoid excessive heat.
 PROTECT FROM LIGHT, STORE IN CARTON UNTIL READY TO USE.
 
-U.S. Patent Numbers 7612102 and 7659291 CARDENE is a registered trademark of Chiesi USA, Inc. Galaxy is a registered trademark of Baxter International Inc.
+U.S. Patent Numbers 7612102 and 7659291 Baxter and Galaxy are registered trademarks of Baxter International Inc. CARDENE is a registered trademark of Chiesi USA, Inc. and is used under license.
 
-Baxter Manufactured and Marketed by: Baxter Healthcare Corporation Deerfield, IL 60015 USA
+Baxter Logo Manufactured and Marketed by: Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-To report suspected adverse reactions, contact Baxter Healthcare Corporation at 1-866-888-2472 PL 2501 Plastic
+To report suspected adverse reactions, contact Baxter Healthcare Corporation at 1-866-888-2472
 
-07-34-00-1406
+07-34-00-2153
 
 *BAR CODE POSITION ONLY 343066016104
 
@@ -152,13 +152,13 @@ Protect from freezing.
 Avoid excessive heat.
 PROTECT FROM LIGHT, STORE IN CARTON UNTIL READY TO USE.
 
-U.S. Patent Numbers 7612102 and 7659291 CARDENE is a registered trademark of Chiesi USA, Inc. Baxter and Galaxy is a registered trademark of Baxter International Inc.
+U.S. Patent Numbers 7612102 and 7659291 Baxter and Galaxy are registered trademarks of Baxter International Inc. CARDENE is a registered trademark of Chiesi USA, Inc. and is used under license
 
 Baxter Logo Manufactured and Marketed by: Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-To report suspected adverse reactions, contact Baxter Healthcare Corporation at 1-866-888-2472 PL 2501 Plastic
+To report suspected adverse reactions, contact Baxter Healthcare Corporation at 1-866-888-2472
 
-07-34-00-1405
+07-34-00-2152
 
 *BAR CODE POSITION ONLY 343066009106
 

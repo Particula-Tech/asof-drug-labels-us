@@ -14,7 +14,7 @@ The intravenous infusion rate required to produce an average plasma concentratio
 | --- | --- | --- |
 | 20 mg q8h | 0.5 mg/hr = 5 mL/hr | 0.5 mg/hr = 2.5 mL/hr |
 | 30 mg q8h | 1.2 mg/hr = 12 mL/hr | 1.2 mg/hr = 6 mL/hr |
-| 40 mg q8h | 2.2 mg/hr = 22 mL/hr | 2.2 mg/hr = 11mL/hr |
+| 40 mg q8h | 2.2 mg/hr = 22 mL/hr | 2.2 mg/hr = 11 mL/hr |
 
 Dosage for Initiation of Therapy in a Patient Not Receiving Oral Nicardipine CARDENE I.V.
 20 mg in 200 mL (0.1 mg/mL): Initiate therapy at 50 mL/hr (5 mg/hr).
@@ -69,6 +69,6 @@ Such use could result in air embolism due to residual air being drawn from the p
 Preparation for administration
 
 1. 1.Suspend container from eyelet support.
-2. 2.Remove protector from outlet port at a bottom of container.
+2. 2.Remove protector from outlet port at bottom of container.
 3. 3.Attach administration set.
    Refer to complete directions accompanying set.
