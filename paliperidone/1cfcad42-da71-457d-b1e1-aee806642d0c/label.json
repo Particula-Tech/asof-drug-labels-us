@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA216174"
+  ],
+  "inn": "paliperidone",
+  "labeler": "Camber Pharmaceuticals, Inc",
+  "package_ndcs": [
+    "31722-317-30",
+    "31722-318-30",
+    "31722-319-30",
+    "31722-320-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "paliperidone",
+      "name": "PALIPERIDONE"
+    }
+  ],
+  "setid": "1cfcad42-da71-457d-b1e1-aee806642d0c",
+  "source": "dailymed"
+}
