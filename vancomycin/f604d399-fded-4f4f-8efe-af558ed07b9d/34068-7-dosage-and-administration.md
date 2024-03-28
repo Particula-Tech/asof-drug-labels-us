@@ -1,26 +1,26 @@
 # DOSAGE AND ADMINISTRATION:
 
 Infusion-related events are related to both the concentration and the rate of administration of vancomycin.
-Concentrations of no more than 5 mg/mL and rates of no more than 10 mg/min are recommended in adults (see also age-specific recommendations).
+Concentrations of no more than 5 mg/mL and rates of no more than 10 mg/min, are recommended in adults (see also age-specific recommendations).
 In selected patients in need of fluid restriction, a concentration up to 10 mg/mL may be used; use of such higher concentrations may increase the risk of infusion-related events.
 An infusion rate of 10 mg/min or less is associated with fewer infusion-related events (see ADVERSE REACTIONS).
 Infusion-related events may occur, however, at any rate or concentration.
 
-Patients with Normal Renal Function
+## Patients With Normal Renal Function
 
-Adults
+### Adults
 
-The usual daily intravenous dose is 2 g divided either as 500 mg every six hours or 1 g every 12 hours.
-Each dose should be administered at no more than 10 mg/min, or over a period of at least 60 minutes, whichever is longer.
+The usual daily intravenous dose is 2 g divided either as 500 mg every 6 hours or 1 g every 12 hours.
+Each dose should be administered at no more than 10 mg/min or over a period of at least 60 minutes, whichever is longer.
 Other patient factors, such as age or obesity, may call for modification of the usual intravenous daily dose.
 
-Pediatric Patients
+### Pediatric patients
 
 The usual intravenous dosage of vancomycin is 10 mg/kg per dose given every 6 hours.
 Each dose should be administered over a period of at least 60 minutes.
 Close monitoring of serum concentrations of vancomycin may be warranted in these patients.
 
-Neonates
+### Neonates
 
 In pediatric patients up to the age of 1 month, the total daily intravenous dosage may be lower.
 In neonates, an initial dose of 15 mg/kg is suggested, followed by 10 mg/kg every 12 hours for neonates in the 1st week of life and every 8 hours thereafter up to the age of 1 month.
@@ -29,7 +29,7 @@ In premature infants, vancomycin clearance decreases as postconceptional age dec
 Therefore, longer dosing intervals may be necessary in premature infants.
 Close monitoring of serum concentrations of vancomycin is recommended in these patients.
 
-Patients with Impaired Renal Function and Elderly Patients
+## Patients With Impaired Renal Function and Elderly Patients
 
 Dosage adjustment must be made in patients with impaired renal function.
 In premature infants and the elderly, greater dosage reductions than expected may be necessary because of decreased renal function.
@@ -41,7 +41,7 @@ The dosage of vancomycin hydrochloride for injection per day in mg is about 15 t
 | DOSAGE TABLE FOR VANCOMYCIN IN PATIENTS WITH IMPAIRED RENAL FUNCTION |  |
 | --- | --- |
 | (Adapted from Moellering et al.1) |  |
-| Creatinine Clearance mL/min | Vancomycin Dose mg/24 hr |
+| Creatinine Clearance mL/min | Vancomycin Dose mg/24 h |
 | 100 | 1,545 |
 | 90 | 1,390 |
 | 80 | 1,235 |
@@ -62,11 +62,10 @@ When only serum creatinine is known, the following formula (based on sex, weight
 Calculated creatinine clearances (mL/min) are only estimates.
 The creatinine clearance should be measured promptly.
 
-Men: [Weight (kg) x (140 - age in years)]
-
-72 x serum creatinine concentration (mg/dL)
-
-Women: 0.85 x above value
+| Men: | [Weight (kg) x (140 - age in years)] |  |
+| --- | --- | --- |
+|  | 72 x serum creatinine concentration (mg/dL) |  |
+| Women: | 0.85 x above value |  |
 
 The serum creatinine must represent a steady state of renal function.
 Otherwise, the estimated value for creatinine clearance is not valid.
@@ -75,7 +74,7 @@ The safety and efficacy of vancomycin administration by the intrathecal (intralu
 
 Intermittent infusion is the recommended method of administration.
 
-Compatibility with Other Drugs and Intravenous Fluids
+## Compatibility with Other Drugs and Intravenous Fluids
 
 The following diluents are physically and chemically compatible (with 4 g/L vancomycin hydrochloride):
 
@@ -83,21 +82,21 @@ The following diluents are physically and chemically compatible (with 4 g/L vanc
 
 5% Dextrose Injection and 0.9% Sodium Chloride Injection, USP
 
-Lactated Ringer’s Injection, USP
+Lactated Ringer's Injection, USP
 
-5% Dextrose and Lactated Ringer’s Injection, USP
+5% Dextrose and Lactated Ringer's Injection
 
-Normosol ®-M and 5% Dextrose Injection, USP
+Normosol®-M and 5% Dextrose
 
 0.9% Sodium Chloride Injection, USP
 
-Isolyte ® E
+Isolyte® E
 
 Good professional practice suggests that compounded admixtures should be administered as soon after preparation as is feasible.
 
 Vancomycin solution has a low pH and may cause physical instability of other compounds.
 
-Preparation and Stability
+## Preparation and Stability
 
 At the time of use, reconstitute the vials of Vancomycin Hydrochloride for Injection, USP with Sterile Water for Injection to a concentration of 50 mg of vancomycin/mL (see following table for volume of diluent).
 
@@ -114,22 +113,22 @@ Reconstituted solutions of vancomycin (750 mg/15 mL) must be further diluted in 
 For doses of 1 gram (20 mL), at least 200 mL of solution must be used.
 The desired dose diluted in this manner should be administered by intermittent intravenous infusion over a period of at least 60 minutes.
 
-Compatibility with Intravenous Fluids
+## Compatibility with Intravenous Fluids
 
 Solutions that are diluted with 5% Dextrose Injection or 0.9% Sodium Chloride Injection may be stored in a refrigerator for 14 days without significant loss of potency.
 Solutions that are diluted with the following infusion fluids may be stored in a refrigerator for 96 hours:
 
 5% Dextrose Injection and 0.9% Sodium Chloride Injection, USP
 
-Lactated Ringer’s Injection, USP
+Lactated Ringer's Injection, USP
 
-Lactated Ringer’s and 5% Dextrose Injection, USP
+Lactated Ringer's and 5% Dextrose Injection, USP
 
-Normosol ®-M and 5% Dextrose Injection, USP
+Normosol®-M and 5% Dextrose Injection
 
-Isolyte ® E
+Isolyte® E
 
-Acetated Ringer’s Injection
+Acetated Ringer's Injection
 
 Vancomycin solution has a low pH and may cause chemical or physical instability when it is mixed with other compounds.
 
@@ -143,12 +142,12 @@ The precipitates dissolved gradually, with complete clearing of the vitreous cav
 
 Parenteral drug products should be visually inspected for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-For Oral Administration
+## For Oral Administration
 
 Oral vancomycin is used in treating antibiotic-associated pseudomembranous colitis caused by C. difficile and for staphylococcal enterocolitis.
 Vancomycin is not effective by the oral route for other types of infections.
 The usual adult total daily dosage is 500 mg to 2 g given in 3 or 4 divided doses for 7 to 10 days.
 The total daily dose in children is 40 mg/kg of body weight in 3 or 4 divided doses for 7 to 10 days.
-The total daily dosage should not exceed 2 g. The appropriate dose may be diluted in 1 oz of water and given to the patient to drink.
+The total daily dosage should not exceed 2 g. The appropriate dose may be diluted in 1 oz of water and given to the patients to drink.
 Common flavoring syrups may be added to the solution to improve the taste for oral administration.
 The diluted solution may be administered via a nasogastric tube.

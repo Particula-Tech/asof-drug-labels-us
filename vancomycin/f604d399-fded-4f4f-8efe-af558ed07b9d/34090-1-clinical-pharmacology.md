@@ -1,19 +1,19 @@
-# CLINICAL PHARMACOLOGY:
+# CLINICAL PHARMACOLOGY
 
 Vancomycin is poorly absorbed after oral administration.
 
-In subjects with normal kidney function, multiple intravenous dosing of 1 g of vancomycin (15 mg/kg) infused over 60 minutes produces mean plasma concentrations of approximately 63 mcg/mL immediately after the completion of infusion, mean plasma concentrations of approximately 23 mcg/mL two hours after infusion, and mean plasma concentrations of approximately 8 mcg/mL 11 hours after the end of the infusion.
-Multiple dosing of 500 mg infused over 30 minutes produces mean plasma concentrations of about 49 mcg/mL at the completion of infusion, mean plasma concentrations of about 19 mcg/mL two hours after infusion, and mean plasma concentrations of about 10 mcg/mL six hours after infusion.
+In subjects with normal kidney function, multiple intravenous dosing of 1 g of vancomycin (15 mg/kg) infused over 60 minutes produces mean plasma concentrations of approximately 63 mcg/mL immediately after the completion of infusion, mean plasma concentrations of approximately 23 mcg/mL 2 hours after infusion, and mean plasma concentrations of approximately 8 mcg/mL 11 hours after the end of the infusion.
+Multiple dosing of 500 mg infused over 30 minutes produces mean plasma concentrations of about 49 mcg/mL at the completion of infusion, mean plasma concentrations of about 19 mcg/mL 2 hours after infusion, and mean plasma concentrations of about 10 mcg/mL 6 hours after infusion.
 The plasma concentrations during multiple dosing are similar to those after a single dose.
 
-The mean elimination half-life of vancomycin from plasma is four to six hours in subjects with normal renal function.
+The mean elimination half-life of vancomycin from plasma is 4 to 6 hours in subjects with normal renal function.
 In the first 24 hours, about 75% of an administered dose of vancomycin is excreted in urine by glomerular filtration.
-Mean plasma clearance is about 0.058 L/kg/hr, and mean renal clearance is about 0.048 L/kg/hr.
+Mean plasma clearance is about 0.058 L/kg/h, and mean renal clearance is about 0.048 L/kg/h.
 Renal dysfunction slows excretion of vancomycin.
 In anephric patients, the average half-life of elimination is 7.5 days.
 The distribution coefficient is from 0.3 to 0.43 L/kg.
 There is no apparent metabolism of the drug.
-About 60% of an intraperitoneal dose of vancomycin administered during peritoneal dialysis is absorbed systemically in six hours.
+About 60% of an intraperitoneal dose of vancomycin administered during peritoneal dialysis is absorbed systemically in 6 hours.
 Serum concentrations of about 10 mcg/mL are achieved by intraperitoneal injection of 30 mg/kg of vancomycin.
 However, the safety and efficacy of the intraperitoneal use of vancomycin has not been established in adequate and well-controlled trials (see PRECAUTIONS).
 
@@ -22,14 +22,18 @@ Vancomycin is approximately 55% serum protein bound as measured by ultrafiltrati
 After intravenous administration of vancomycin, inhibitory concentrations are present in pleural, pericardial, ascitic, and synovial fluids; in urine; in peritoneal dialysis fluid; and in atrial appendage tissue.
 Vancomycin does not readily diffuse across normal meninges into the spinal fluid; but, when the meninges are inflamed, penetration into the spinal fluid occurs.
 
-Microbiology The bactericidal action of vancomycin results primarily from inhibition of cell-wall biosynthesis.
+## MICROBIOLOGY
+
+The bactericidal action of vancomycin results primarily from inhibition of cell-wall biosynthesis.
 In addition, vancomycin alters bacterial-cell-membrane permeability and RNA synthesis.
 There is no cross-resistance between vancomycin and other antibiotics.
 Vancomycin is not active in vitro against gram-negative bacilli, mycobacteria, or fungi.
 
-Synergy The combination of vancomycin and an aminoglycoside acts synergistically in vitro against many strains of Staphylococcus aureus, Streptococcus bovis, enterococci, and the viridans group streptococci.
+## Synergy
 
-Vancomycin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in INDICATIONS AND USAGE.
+The combination of vancomycin and an aminoglycoside acts synergistically in vitro against many strains of Staphylococcus aureus, Streptococcus bovis, enterococci, and the viridans group streptococci.
+
+Vancomycin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
 Aerobic gram-positive microorganisms
 
@@ -45,7 +49,7 @@ Viridans group streptococci
 
 The following in vitro data are available, but their clinical significance is unknown.
 
-Vancomycin exhibits in vitro MICs of 1 mcg/mL or less against most (≥ 90%) strains of streptococci listed below and MICs of 4 mcg/mL or less against most (≥ 90%) strains of other listed microorganisms; however, the safety and effectiveness of vancomycin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
+Vancomycin exhibits in vitro MIC's of 1 mcg/mL or less against most (≥ 90%) strains of streptococci listed below and MIC's of 4 mcg/mL or less against most (≥ 90%) strains of other listed microorganisms; however, the safety and effectiveness of vancomycin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
 
 Aerobic gram-positive microorganisms
 
@@ -61,4 +65,8 @@ Anaerobic gram-positive microorganisms
 
 Actinomyces species
 
-Lactobacillus species Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
+Lactobacillus species
+
+## Susceptibility Testing
+
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

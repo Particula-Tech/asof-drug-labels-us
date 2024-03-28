@@ -1,4 +1,4 @@
-# HOW SUPPLIED/STORAGE AND HANDLING:
+# HOW SUPPLIED/STORAGE AND HANDLING
 
 Vancomycin Hydrochloride for Injection, USP, supplied as follows:
 
