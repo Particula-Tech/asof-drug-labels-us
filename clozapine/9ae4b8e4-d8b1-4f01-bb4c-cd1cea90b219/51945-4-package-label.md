@@ -27,7 +27,7 @@ Made in India
 
 Mylan.com
 
-RMXA3813A
+RMXA3813A1
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -66,7 +66,7 @@ Made in India
 
 Mylan.com
 
-RMXA3815A
+RMXA3815A1
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -105,7 +105,7 @@ Made in India
 
 Mylan.com
 
-RMXA3816A
+RMXA3816A1
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -142,7 +142,7 @@ Made in India
 
 Mylan.com
 
-RMXA3817A
+RMXA3817A1
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
