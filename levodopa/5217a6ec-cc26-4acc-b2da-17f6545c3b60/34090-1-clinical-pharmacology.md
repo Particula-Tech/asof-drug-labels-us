@@ -30,7 +30,7 @@ With carbidopa and levodopa extended-release there is less variation in plasma l
 
 However, carbidopa and levodopa extended-release is less systemically bioavailable than carbidopa and levodopa and may require increased daily doses to achieve the same level of symptomatic relief as provided by carbidopa and levodopa.
 
-In clinical trials, patients with moderate to severe motor fluctuations who received carbidopa and levodopa extended-release did not experience quantitatively significant reductions in ‘off’ time when compared to carbidopa and levodopa.
+In clinical trials, patients with moderate to severe motor fluctuations who received carbidopa and levodopa extended-release did not experience quantitatively significant reductionsin ‘off’ time when compared to carbidopa and levodopa.
 However, global ratings of improvement as assessed by both patient and physician were better during therapy with carbidopa and levodopa extended-release than with carbidopa and levodopa.
 In patients without motor fluctuations, carbidopa and levodopa extended-release, under controlled conditions, provided the same therapeutic benefit with less frequent dosing when compared to carbidopa and levodopa.
 
@@ -61,7 +61,7 @@ Carbidopa inhibits this action of pyridoxine.
 
 ## Special Populations
 
-Geriatric: A study in eight young healthy subjects (21 to 22 yr) and eight elderly healthy subjects (69 to 76 yr) showed that the absolute bioavailability of levodopa was similar between young and elderly subjects following oral administration of levodopa and carbidopa.
+Geriatric:A study in eight young healthy subjects (21 to 22 yr) and eight elderly healthy subjects (69 to 76 yr) showed that the absolute bioavailability of levodopa was similar between young and elderly subjects following oral administration of levodopa and carbidopa.
 However, the systemic exposure (AUC) of levodopa was increased by 55% in elderly subjects compared to young subjects.
 Based on another study in forty patients with Parkinson’s disease, there was a correlation between age of patients and the increase of AUC of levodopa following administration of levodopa and an inhibitor of peripheral dopa decarboxylase.
 AUC of levodopa was increased by 28% in elderly patients (≥ 65 yr) compared to young patients (< 65 yr).

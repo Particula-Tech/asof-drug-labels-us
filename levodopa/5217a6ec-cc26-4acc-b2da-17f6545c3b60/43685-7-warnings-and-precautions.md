@@ -1,7 +1,7 @@
 # WARNINGS
 
 When patients are receiving levodopa without a decarboxylase inhibitor, levodopa must be discontinued at least twelve hours before carbidopa and levodopa extended-release is started.
-In order to reduce adverse reactions, it is necessary to individualize therapy. see DOSAGE AND ADMINISTRATION section before initiating therapy.
+In order to reduce adverse reactions, it is necessary to individualize therapy. see DOSAGE AND ADMINISTRATIONsection before initiating therapy.
 
 Carbidopa and levodopa extended-release should be substituted at a dosage that will provide approximately 25% of the previous levodopa dosage (see DOSAGE AND ADMINISTRATION.)
 
@@ -115,13 +115,13 @@ Patients must be advised that the whole or half tablet should be swallowed witho
 
 Patients should be alerted to the possibility of sudden onset of sleep during daily activities, in some cases without awareness or warning signs, when they are taking dopaminergic agents, including levodopa.
 Patients should be advised to exercise caution while driving or operating machinery and that if they have experienced somnolence and/or sudden sleep onset, they must refrain from these activities.
-(See WARNINGS, Falling Asleep During Activities of Daily Living and Somnolence.)
+(See WARNINGS,Falling Asleep During Activities of Daily Living and Somnolence.)
 
 There have been reports of patients experiencing intense urges to gamble, increased sexual urges, and other intense urges, and the inability to control these urges while taking one or more of the medications that increase central dopaminergic tone and that are generally used for the treatment of Parkinson's disease, including carbidopa and levodopa extended-release.
 Although it is not proven that the medications caused these events, these urges were reported to have stopped in some cases when the dose was reduced or the medication was stopped.
 Prescribers should ask patients about the development of new or increased gambling urges, sexual urges or other urges while being treated with carbidopa and levodopa extended-release.
 Patients should inform their physician if they experience new or increased gambling urges, increased sexual urges, or other intense urges while taking carbidopa and levodopa extended-release.
-Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking carbidopa and levodopa extended-release.(See PRECAUTIONS, Impulse Control/Compulsive Behaviors.)
+Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking carbidopa and levodopa extended-release.(See PRECAUTIONS,Impulse Control/Compulsive Behaviors.)
 
 ## Laboratory Tests
 
@@ -148,7 +148,7 @@ Concomitant therapy with selegiline and carbidopa levodopa may be associated wit
 
 There have been rare reports of adverse reactions, including hypertension and dyskinesia, resulting from the concomitant use of tricyclic antidepressants and carbidopa levodopa preparations.
 
-Dopamine D 2 receptor antagonists (e.g., phenothiazines, butyrophenones, risperidone) and isoniazid may reduce the therapeutic effects of levodopa.
+Dopamine D 2receptor antagonists (e.g., phenothiazines, butyrophenones, risperidone) and isoniazid may reduce the therapeutic effects of levodopa.
 In addition, the beneficial effects of levodopa in Parkinson's disease have been reported to be reversed by phenytoin and papaverine.
 Patients taking these drugs with carbidopa and levodopa extended-release should be carefully observed for loss of therapeutic response.
 
@@ -167,7 +167,7 @@ In reproduction studies with carbidopa and levodopa, no effects on fertility wer
 
 ## Pregnancy
 
-Pregnancy Category C. No teratogenic effects were observed in a study in mice receiving up to 20 times the maximum recommended human dose of carbidopa and levodopa.
+Pregnancy Category C.No teratogenic effects were observed in a study in mice receiving up to 20 times the maximum recommended human dose of carbidopa and levodopa.
 There was a decrease in the number of live pups delivered by rats receiving approximately two times the maximum recommended human dose of carbidopa and approximately five times the maximum recommended human dose of levodopa during organogenesis.
 Carbidopa and levodopa caused both visceral and skeletal malformations in rabbits at all doses and ratios of carbidopa/levodopa tested, which ranged from 10 times/5 times the maximum recommended human dose of carbidopa/levodopa to 20 times/10 times the maximum recommended human dose of carbidopa/levodopa.
 

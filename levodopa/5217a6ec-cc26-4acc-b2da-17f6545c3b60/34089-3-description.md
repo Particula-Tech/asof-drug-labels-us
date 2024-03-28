@@ -10,7 +10,7 @@ Tablet content is expressed in terms of anhydrous carbidopa, which has a molecul
 
 Levodopa, an aromatic amino acid, is a white, crystalline compound, slightly soluble in water, with a molecular weight of 197.2.
 It is designated chemically as (—)-L-α-amino-β-(3,4-dihydroxybenzene) propanoic acid.
-Its empirical formula is C 9H 11NO 4 and its structural formula is:
+Its empirical formula is C 9H 11NO 4and its structural formula is:
 
 Each extended-release tablet, for oral administration, contains either 50 mg of carbidopa USP and 200 mg of levodopa USP, or 25 mg of carbidopa USP and 100 mg of levodopa USP.
 Inactive ingredients: microcrystalline cellulose, lactose monohydrate, hydroxypropylmethyl cellulose, hypromellose, colloidal anhydrous silica, magnesium stearate, ferric oxide red and ferric oxide yellow.

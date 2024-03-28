@@ -11,7 +11,7 @@ Since carbidopa prevents the reversal of levodopa effects caused by pyridoxine, 
 
 ## Initial Dosage
 
-Patients currently treated with conventional carbidopa levodopa preparations: Studies show that peripheral dopa-decarboxylase is saturated by the bioavailable carbidopa at doses of 70 mg a day and greater.
+Patients currently treated with conventional carbidopa levodopa preparations:Studies show that peripheral dopa-decarboxylase is saturated by the bioavailable carbidopa at doses of 70 mg a day and greater.
 Because the bioavailabilities of carbidopa and levodopa in carbidopa and levodopa and carbidopa and levodopa extended-release are different, appropriate adjustments should be made, as shown in Table 2.
 
 Table 2: Approximate Bioavailabilities at Steady State This table is only a guide to bioavailabilities since other factors such as food, drugs, and inter-patient variabilities may affect the bioavailability of carbidopa and levodopa.
@@ -25,7 +25,7 @@ Dosage with carbidopa and levodopa extended-release should be substituted at an 
 The interval between doses of carbidopa and levodopa extended-release should be 4 to 8 hours during the waking day.
 (See CLINICAL PHARMACOLOGY: Pharmacodynamics.)
 
-A guideline for initiation of carbidopa and levodopa extended-release is shown in Table 3.
+A guideline for initiationof carbidopa and levodopa extended-release is shown in Table 3.
 
 Table 3: Guidelines for Initial Conversion from Carbidopa and Levodopa to Carbidopa and Levodopa Extended-Release
 
@@ -35,13 +35,13 @@ Table 3: Guidelines for Initial Conversion from Carbidopa and Levodopa to Carbid
 | 500 to 600 | 300 mg b.i.d. or 200 mg t.i.d. |
 | 700 to 800 | A total of 800 mg in 3 or more divided doses (e.g., 300 mg a.m., 300 mg early p.m., and 200 mg later p.m.) |
 | 900 to 1000 | A total of 1000 mg in 3 or more divided doses (e.g., 400 mg a.m., 400 mg early p.m., and 200 mg later p.m.) |
-| *For dosing ranges not shown in the table see DOSAGE AND ADMINISTRATION, Initial Dosage — Patients currently treated with conventional carbidopa levodopa preparations. |  |
+| *For dosing ranges not shown in the table see DOSAGE AND ADMINISTRATION, Initial Dosage —Patients currently treated with conventional carbidopa levodopa preparations. |  |
 
-Patients currently treated with levodopa without a decarboxylase inhibitor: Levodopa must be discontinued at least twelve hours before therapy with carbidopa and levodopa extended-release is started.
+Patients currently treated with levodopa without a decarboxylase inhibitor:Levodopa must be discontinued at least twelve hours before therapy with carbidopa and levodopa extended-release is started.
 Carbidopa and levodopa extended-release should be substituted at a dosage that will provide approximately 25% of the previous levodopa dosage.
 In patients with mild to moderate disease, the initial dose is usually 1 tablet of 50 mg/200 mg carbidopa and levodopa extended-release tablets b.i.d.
 
-Patients not receiving levodopa: In patients with mild to moderate disease, the initial recommended dose is 1 tablet of 50 mg/200 mg carbidopa and levodopa extended-release tablets b.i.d.
+Patients not receiving levodopa:In patients with mild to moderate disease, the initial recommended dose is 1 tablet of 50 mg/200 mg carbidopa and levodopa extended-release tablets b.i.d.
 Initial dosage should not be given at intervals of less than 6 hours.
 
 ## Titration with Carbidopa and Levodopa Extended-release
