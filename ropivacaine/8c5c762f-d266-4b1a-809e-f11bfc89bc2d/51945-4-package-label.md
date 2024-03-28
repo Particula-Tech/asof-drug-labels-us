@@ -18,7 +18,7 @@ For Infiltration, Nerve Block and Epidural Administration Only
 
 Not for Intravenous Administration
 
-Single-Use Only.
+Single-Dose Only.
 Discard unused portion.
 
 For continuous infiltration or epidural infusion only.
@@ -43,7 +43,7 @@ For Infiltration, Nerve Block and Epidural Administration Only
 
 Not for Intravenous Administration
 
-Single-Use Only.
+Single-Dose Only.
 Discard unused portion.
 
 For continuous infiltration or epidural infusion only.
