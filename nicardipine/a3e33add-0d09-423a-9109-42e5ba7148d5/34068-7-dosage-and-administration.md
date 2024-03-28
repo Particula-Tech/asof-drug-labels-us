@@ -29,7 +29,7 @@ If desired blood pressure reduction is not achieved at this dose, the infusion r
 Following achievement of the blood pressure goal utilizing rapid titration, decrease the infusion rate to 15 mL/hr (3 mg/hr).
 
 Drug Discontinuation and Transition to an Oral Antihypertensive Agent Discontinuation of infusion is followed by a 50% offset of action in about 30 minutes.
-If treatment includes transfer to an oral antihypertensive agent other than oral nicardipine, initiate therapy upon discontinuation of CARDENE I.V..
+If treatment includes transfer to an oral antihypertensive agent other than oral nicardipine, initiate therapy upon discontinuation of CARDENE I.V.
 
 If oral nicardipine is to be used, administer the first dose 1 hour prior to discontinuation of the infusion.
 
@@ -70,6 +70,6 @@ Such use could result in air embolism due to residual air being drawn from the p
 Preparation for administration
 
 1. 1.Suspend container from eyelet support.
-2. 2.Remove protector from outlet port at a bottom of container.
+2. 2.Remove protector from outlet port at bottom of container.
 3. 3.Attach administration set.
    Refer to complete directions accompanying set.

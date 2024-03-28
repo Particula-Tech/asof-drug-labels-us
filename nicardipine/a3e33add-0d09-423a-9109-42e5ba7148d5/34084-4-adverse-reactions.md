@@ -26,7 +26,9 @@ Other adverse events have been reported in clinical trials or in the literature 
 
 Body as a Whole: fever, neck pain
 
-Cardiovascular: angina pectoris, atrioventricular block, ST segment depression, inverted T wave, deep-vein thrombophlebitis Digestive: dyspepsia
+Cardiovascular: angina pectoris, atrioventricular block, ST segment depression, inverted T wave, deep-vein thrombophlebitis
+
+Digestive: dyspepsia
 
 Hemic and Lymphatic: thrombocytopenia
 
