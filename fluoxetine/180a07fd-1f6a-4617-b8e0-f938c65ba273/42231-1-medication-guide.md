@@ -150,8 +150,8 @@ Who should not take fluoxetine?
 
 Do not take fluoxetine if you:
 
-- are allergic to fluoxetine hydrochloride or any of the ingredients in fluoxetine oral solution USP.
-  See the end of this Medication Guide for a complete list of ingredients in fluoxetine oral solution USP.
+- are allergic to fluoxetine hydrochloride or any of the ingredients in fluoxetine oral solution.
+  See the end of this Medication Guide for a complete list of ingredients in fluoxetine oral solution.
 - take a Monoamine Oxidase Inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
   - Do not take an MAOI within 5 weeks of stopping fluoxetine unless directed to do so by your physician.
@@ -180,6 +180,9 @@ Before starting fluoxetine, tell your healthcare provider if you:
   - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics
   - Amphetamines
   - Tramadol and fentanyl
+  - Meperidine
+  - Methadone
+  - Or other opioids
   - Over-the-counter supplements such as tryptophan or St. John's Wort
   - Electroconvulsive therapy (ECT)
 - have liver problems
@@ -295,10 +298,10 @@ Inactive ingredients: glycerin, purified water, sodium benzoate, spearmint flavo
 
 *Prozac ® Weekly, Symbyax ® and Sarafem ® are registered trademarks of Eli Lilly and Company
 
-R06/21 MG072110621
+R08/23 MG072110823
 
-Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
+PAI Pharma Greenville, SC 29605 www.paipharma.com
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised, June 2021
+Medication Guide revised, August 2023

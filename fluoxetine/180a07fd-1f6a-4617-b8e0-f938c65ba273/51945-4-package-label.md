@@ -18,7 +18,7 @@ Pharmaceutical Associates, Inc. Greenville, SC 29605
 
 # PRINCIPAL DISPLAY PANEL - 5 mL Cup Label
 
-F luoxetine O ral S olution USP
+Fluoxetine Oral Solution USP
 
 20 mg per 5 mL
 
