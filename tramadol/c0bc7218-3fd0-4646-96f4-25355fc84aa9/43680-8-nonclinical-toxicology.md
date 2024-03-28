@@ -1,4 +1,4 @@
-# 13 NON-CLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -12,7 +12,7 @@ This finding is not believed to suggest risk in humans.
 No evidence of carcinogenicity was noted in a rat 2-year carcinogenicity study testing oral doses of up to 30 mg/kg in the drinking water (1 times the MRHD).
 In a second rat study, no evidence of carcinogenicity was noted in rats at oral doses up to 75 mg/kg/day for males and 100 mg/kg/day for females (approximately 2 fold the maximum recommended human daily dose MRHD) for two years.
 However, the excessive decrease in body weight gain observed in the rat study might have reduced their sensitivity to any potential carcinogenic effect of the drug.
-No carcinogenic effect of tramadol was observed in p53(+/–)-heterozygous mice at oral doses up to 150 mg/kg/day for 26 weeks.
+No carcinogenic effect of tramadol was observed in p53(+/−)-heterozygous mice at oral doses up to 150 mg/kg/day for 26 weeks.
 
 Mutagenesis
 

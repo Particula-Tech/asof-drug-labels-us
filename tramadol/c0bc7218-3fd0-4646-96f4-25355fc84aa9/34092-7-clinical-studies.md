@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-Tramadol Hydrochloride Extended-Release Capsules are bioequivalent under fasting conditions to another extended-release tramadol product [see Clinical Pharmacology (12.3)] which demonstrated efficacy in two of four clinical trials of patients with chronic pain.
+Tramadol Hydrochloride Extended-Release Capsules is bioequivalent under fasting conditions to another extended-release tramadol product [see Clinical Pharmacology (12.3)] which demonstrated efficacy in two of four clinical trials of patients with chronic pain.
 To qualify for inclusion into these studies, patients were required to have moderate to moderately severe pain as defined by a pain intensity score of ≥40 mm, off previous medications, on a 0 - 100 mm visual analog scale (VAS).
 
 In one 12-week randomized, double-blind, placebo-controlled study, patients with moderate to moderately severe pain due to osteoarthritis of the knee and/or hip were administered doses from 100 mg to 400 mg daily.

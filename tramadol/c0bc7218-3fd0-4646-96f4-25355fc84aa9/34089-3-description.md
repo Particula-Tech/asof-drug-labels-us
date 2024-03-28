@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Tramadol Hydrochloride Extended-Release Capsules are an opioid agonist in an extended-release oral formulation.
+Tramadol Hydrochloride Extended-Release Capsules is an opioid agonist in an extended-release oral formulation.
 The chemical name for tramadol hydrochloride USP is (±)cis-2-[(dimethylamino)methyl]-1-(3-methoxyphenyl) cyclohexanol hydrochloride.
 Its structural formula is:
 

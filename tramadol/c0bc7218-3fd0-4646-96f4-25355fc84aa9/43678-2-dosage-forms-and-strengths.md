@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Tramadol Hydrochloride Extended-Release Capsules are available as:
+Extended-release capsules are available as:
 
 100 mg Capsules: White capsule imprinted with blue ink "G 252" on cap and "100" between lines on the body
 

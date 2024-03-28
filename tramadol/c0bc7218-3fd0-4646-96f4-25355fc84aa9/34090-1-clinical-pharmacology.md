@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Tramadol Hydrochloride Extended-Release Capsules contain tramadol, an opioid agonist, and an inhibitor of reuptake of norepinephrine and serotonin.
+Tramadol Hydrochloride Extended-Release Capsules contains tramadol, an opioid agonist, and an inhibitor of reuptake of norepinephrine and serotonin.
 Although its mode of action is not completely understood, from animal tests, at least two complementary mechanisms appear applicable: binding of parent and M1 metabolite to mu-opioid receptors and weak inhibition of reuptake of norepinephrine and serotonin.
 
 Opioid activity of tramadol is due to both low affinity binding of the parent compound and higher affinity binding of the O-demethylated metabolite M1 to mu-opioid receptors.
@@ -50,7 +50,7 @@ Effects on the Endocrine System
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
 
 Effects on the Immune System
@@ -61,7 +61,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration–Efficacy Relationships
 
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
 The minimum effective analgesic concentration of tramadol for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.4)].
 
 Concentration–Adverse Reaction Relationships
@@ -72,7 +72,7 @@ In opioid-tolerant patients, the situation may be altered by the development of 
 ## 12.3 Pharmacokinetics
 
 The analgesic activity of tramadol is due to both parent drug and the M1 metabolite.
-Tramadol Hydrochloride Extended-Release Capsules are administered as a racemate and both tramadol and M1 are detected in the circulation.
+Tramadol Hydrochloride Extended-Release Capsules is administered as a racemate and both tramadol and M1 are detected in the circulation.
 The Cmax and AUC of Tramadol Hydrochloride Extended-Release Capsules have been observed to be dose-proportional over an oral dose range of 100 to 300 mg in healthy subjects.
 
 Absorption
@@ -80,14 +80,14 @@ Absorption
 After a single dose administration of Tramadol Hydrochloride Extended-Release Capsules, Tmax occurs around 10-12 hours.
 
 The mean Cmax and AUC of Tramadol Hydrochloride Extended-Release Capsules after a 300 mg single dose was 308 ng/mL and 6777 ng.hr/mL, respectively under fasting conditions.
-Tramadol Hydrochloride Extended-Release Capsules are bioequivalent to a reference extended-release tramadol product following a single 300 mg dose under fasting conditions.
+Tramadol Hydrochloride Extended-Release Capsules is bioequivalent to a reference extended-release tramadol product following a single 300 mg dose under fasting conditions.
 
-At steady-state, Tramadol Hydrochloride Extended-Release Capsules at 200 mg have been observed to be bioequivalent to a reference extended-release tramadol product at 200 mg under fasting conditions (Table 3).
-Following administration of Tramadol Hydrochloride Extended-Release Capsules 200 mg, steady-state plasma concentrations of both tramadol and M1 are achieved within four days of once daily dosing.
+At steady-state, Tramadol Hydrochloride Extended-Release Capsules at 200 mg has been observed to be bioequivalent to a reference extended-release tramadol product at 200 mg under fasting conditions (Table 3).
+Following administration of Tramadol Hydrochloride Extended-Release Capsules 200 mg capsules, steady-state plasma concentrations of both tramadol and M1 are achieved within four days of once daily dosing.
 
 Table 3
 
-| Parameter | Tramadol hydrochloride Extended- Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg | Tramadol hydrochloride Extended-Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg |
+| Parameter | Tramadol Hydrochloride Extended- Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg | Tramadol Hydrochloride Extended-Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg |
 | --- | --- | --- | --- | --- |
 | Mean (%CV) Steady-State Pharmacokinetic Parameter Values (N= 38) |  |  |  |  |
 |  | Tramadol |  | O-Desmethyltramadol (M1 Metabolite) |  |
@@ -174,7 +174,7 @@ Poor / Extensive Metabolizers, CYP2D6
 The formation of the active metabolite, M1, is mediated by CYP2D6, a polymorphic enzyme.
 Approximately 7% of the population has reduced activity of the CYP2D6 isoenzyme of cytochrome P-450 metabolizing enzyme system.
 These individuals are "poor metabolizers" of debrisoquine, dextromethorphan and tricyclic antidepressants, among other drugs.
-Based on a population PK analysis of Phase 1 studies with IR tablets in healthy subjects, concentrations of tramadol were approximately 20% higher in "poor metabolizers" versus "extensive metabolizers," while M1 concentrations were 40% lower.
+Based on a population PK analysis of Phase 1 studies with IR tablets in healthy subjects, concentrations of tramadol were approximately 20% higher in "poor metabolizers" versus "extensive metabolizers", while M1 concentrations were 40% lower.
 
 CYP2D6 Inhibitors
 
@@ -187,11 +187,11 @@ Coadministration of quinidine, a selective inhibitor of CYP2D6, with tramadol ER
 The clinical consequences of these findings are unknown.
 
 To evaluate the effect of tramadol, a CYP2D6 substrate on quinidine, an in vitro drug interaction study in human liver microsomes was conducted.
-The results from this study indicate that tramadol has no effect on quinidine metabolism [see Warnings and Precautions (5.1, 5.6), Drug Interactions (7)].
+The results from this study indicate that tramadol has no effect on quinidine metabolism [see Warnings and Precautions (5.1, 5.7), Drug Interactions (7)].
 
 CYP3A4 Inhibitors and Inducers
 
-Since tramadol is also metabolized by CYP3A4, administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or CYP3A4 inducers, such as rifampin and St. John's Wort, with Tramadol Hydrochloride Extended-Release Capsules may affect the metabolism of tramadol leading to altered tramadol exposure [see Warnings and Precautions (5.1, 5.6), Drug Interactions (7)].
+Since tramadol is also metabolized by CYP3A4, administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or CYP3A4 inducers, such as rifampin and St. John's Wort, with Tramadol Hydrochloride Extended-Release Capsules may affect the metabolism of tramadol leading to altered tramadol exposure [see Warnings and Precautions (5.1, 5.7), Drug Interactions (7)].
 
 Cimetidine
 
