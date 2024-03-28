@@ -50,7 +50,7 @@ Pregnancy
 
 Inform pregnant women that sertraline hydrochloride may cause withdrawal symptoms in the newborn or persistent pulmonary hypertension of the newborn (PPHN) [See Use in Specific Populations (8.1)].
 Advise women that there is a pregnancy exposure registry that monitors pregnancy outcomes of women exposed to sertraline hydrochloride during pregnancy.
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 09/2023
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 03/2024
 
 PATIENT INSTRUCTIONS
 

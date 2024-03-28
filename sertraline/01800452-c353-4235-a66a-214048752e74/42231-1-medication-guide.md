@@ -272,4 +272,4 @@ Inactive ingredients: alcohol (12%), natural peppermint flavor, propylene glycol
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 09/2023
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 03/2024
