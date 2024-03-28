@@ -97,7 +97,7 @@ There was no clear dose response up to 3000 mg/day.
 In a study where there was no titration, about 45% of patients receiving 4000 mg/day (1.33 times the maximum recommended dosage) reported somnolence.
 The somnolence was considered serious in 0.3% of the immediate-release levetiracetam tablets-treated patients, compared to 0% in the placebo group.
 About 3% of immediate-release levetiracetam tablets-treated patients discontinued treatment due to somnolence, compared to 0.7% of placebo-treated patients.
-In 1.4% of immediate-release levetiracetam tablets-treated patients and in 0.9% of placebo- treated patients the dose was reduced, while 0.3% of the treated patients were hospitalized due to somnolence.
+In 1.4% of immediate-release levetiracetam tablets-treated patients and in 0.9% of placebo-treated patients the dose was reduced, while 0.3% of the treated patients were hospitalized due to somnolence.
 
 Asthenia
 
@@ -105,7 +105,7 @@ Immediate-Release Levetiracetam Tablets
 
 In controlled trials of adult patients with epilepsy experiencing partial-onset seizures, 15% of immediate-release levetiracetam tablets-treated patients reported asthenia, compared to 9% of placebo-treated patients.
 Treatment was discontinued due to asthenia in 0.8% of immediate-release levetiracetam tablets-treated patients, as compared to 0.5% of placebo treated patients.
-In 0.5% of immediate-release levetiracetam tablets-treated patients and in 0.2% of placebo- treated patients, the dose was reduced due to asthenia.
+In 0.5% of immediate-release levetiracetam tablets-treated patients and in 0.2% of placebo-treated patients, the dose was reduced due to asthenia.
 
 Somnolence and asthenia occurred most frequently within the first 4 weeks of treatment.
 
@@ -125,9 +125,20 @@ Recurrence of the serious skin reactions following rechallenge with levetiraceta
 ELEPSIA XR should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
 
-## 5.6 Coordination Difficulties
+## 5.6 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
 
-Coordination difficulties were not observed in the extended-release levetiracetam controlled trials; however, the number of patients exposed to levetiracetam extended-release tablets was considerably smaller than the number of patients exposed to immediate-release levetiracetam tablets in controlled trials.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multiorgan hypersensitivity, has been reported in patients taking antiepileptic drugs, including levetiracetam.
+These events can be fatal or life-threatening, particularly if diagnosis and treatment do not occur as early as possible.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its expression, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, the patient should be evaluated immediately.
+ELEPSIA XR should be discontinued if an alternative etiology for the signs or symptoms cannot be established [see Contraindications (4)].
+
+## 5.7 Coordination Difficulties
+
+Coordination difficulties were not observed in the extended-release levetiracetam controlled trials, however, the number of patients exposed to levetiracetam extended-release tablets was considerably smaller than the number of patients exposed to immediate-release levetiracetam tablets in controlled trials.
 However, adverse reactions observed in the immediate-release levetiracetam controlled trials may also occur in patients receiving ELEPSIA XR.
 
 Immediate-Release Levetiracetam Tablets
@@ -139,12 +150,12 @@ These events occurred most frequently within the first 4 weeks of treatment.
 
 Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on ELEPSIA XR to gauge whether it could adversely affect their ability to drive or operate machinery.
 
-## 5.7 Withdrawal Seizures
+## 5.8 Withdrawal Seizures
 
 As with most antiepileptic drugs, ELEPSIA XR should be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus [see Dosage and Administration (2.3)].
 But if withdrawal is needed because of an adverse event, rapid discontinuation can be considered.
 
-## 5.8 Hematologic Abnormalities
+## 5.9 Hematologic Abnormalities
 
 ELEPSIA XR can cause hematologic abnormalities.
 Hematologic abnormalities occurred in clinical trials of immediate- release levetiracetam and included decreases in white blood cells (WBC), neutrophil, and red blood cell (RBC) counts; decreases in hemoglobin and hematocrit; and increases in eosinophil counts.
@@ -155,7 +166,7 @@ Immediate-Release Levetiracetam Tablets
 
 In controlled trials of immediate-release levetiracetam tablets in patients experiencing partial-onset seizures, minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 × 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in immediate-release levetiracetam tablets-treated patients.
 
-A total of 3.2% of immediate-release levetiracetam tablets-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤ 2.8 × 109/L) decreased WBC, and 2.4% of immediate-release levetiracetam tablets-treated and 1.4% of placebo-treated patients had at least one possibly significant (≤ 1.0 × 109/L) decreased neutrophil count.
+A total of 3.2% of immediate-release levetiracetam tablets-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 × 109/L) decreased WBC, and 2.4% of immediate-release levetiracetam tablets-treated and 1.4% of placebo-treated patients had at least one possibly significant (≤1.0 × 109/L) decreased neutrophil count.
 Of the immediate-release levetiracetam tablets-treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
 No patient was discontinued secondary to low neutrophil counts.
 
@@ -169,7 +180,7 @@ No patient was discontinued secondary to low WBC or neutrophil counts.
 
 In the controlled pediatric cognitive and neuropsychological safety study, two subjects (6.1%) in the placebo group and 5 subjects (8.6%) in the immediate-release levetiracetam tablets-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7×109/L).
 
-## 5.9 Seizure Control During Pregnancy
+## 5.10 Seizure Control During Pregnancy
 
 Physiological changes may gradually decrease plasma levels of levetiracetam throughout pregnancy.
 This decrease is more pronounced during the third trimester.

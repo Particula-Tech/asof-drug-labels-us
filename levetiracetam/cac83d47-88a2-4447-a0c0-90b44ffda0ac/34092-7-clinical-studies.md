@@ -63,7 +63,7 @@ The first period of the study (Period A) was designed to be analyzed as a parall
 After a prospective baseline period of up to 12 weeks, patients in Study 3 were randomized to one of the three treatment groups described above.
 The 16-week treatment period consisted of the 4-week titration period followed by a 12-week fixed dose evaluation period, during which concomitant AED regimens were held constant.
 The primary measure of effectiveness in Study 3 was a between group comparison of the percent reduction in weekly partial seizure frequency relative to placebo over the entire randomized treatment period (titration + evaluation period).
-Secondary outcome variables included the responder rate (incidence of patients with ≥ 50% reduction from baseline in partial-onset seizure frequency).
+Secondary outcome variables included the responder rate (incidence of patients with ≥50% reduction from baseline in partial-onset seizure frequency).
 The results of the analysis of Period A are displayed in Table 7.
 
 Table 7: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Seizures in Study 3: Period A
@@ -80,7 +80,7 @@ Figure 2: Responder Rate (≥50% Reduction From Baseline) In Study 3: Period A
 | --- |
 
 The comparison of immediate-release levetiracetam 2000 mg/day to immediate-release levetiracetam 1000 mg/day for responder rate in Study 3 was statistically significant (P=0.02).
-Analysis of the trial as a crossover study yielded similar results.
+Analysis of the trial as a cross-over study yielded similar results.
 
 Study 4
 
@@ -99,6 +99,8 @@ Table 8: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Sei
 | Percent reduction in partial seizure frequency over placebo | – | 23%statistically significant versus placebo |
 
 The percentage of patients (y-axis) who achieved ≥50% reduction from baseline in weekly partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) in Study 4 is presented in Figure 3.
+
+Figure 3: Responder Rate (≥50% Reduction From Baseline) In Study 4
 
 ## 14.3 Immediate-Release Levetiracetam in Pediatric Patients 4 Years to 16 Years
 
@@ -125,7 +127,7 @@ Table 9: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Sei
 
 The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) in Study 5 is presented in Figure 4.
 
-Figure 4: Responder Rate (≥50% Reduction From Baseline) In Study 5
+Figure 4: Responder Rate (≥ 50% Reduction From Baseline) In Study 5
 
 | * statistically significant versus placebo |
 | --- |

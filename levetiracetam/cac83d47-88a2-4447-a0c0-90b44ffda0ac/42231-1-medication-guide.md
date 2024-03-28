@@ -36,7 +36,8 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 
 - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
 - Keep all follow-up visits with your healthcare provider as scheduled.
-- Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+
+Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
 What is ELEPSIA XR?
 
@@ -107,6 +108,15 @@ Call your healthcare provider right away if you have any of these symptoms:
 - a skin rash.
   Serious skin rashes can happen after you start taking ELEPSIA XR.
   There is no way to tell if a mild rash will become a serious reaction.
+- a serious allergic reaction that may affect your skin or other parts of your body such as your liver, kidneys, heart, or blood cells.
+  This allergic reaction can be life-threatening and can cause death, particularly if it is not treated as early as possible.
+  Call your healthcare provider right away if you have:
+  - a skin rash
+  - fever or swollen glands that do not go away
+  - swelling of your face
+  - shortness of breath
+  - yellowing of the skin or whites of the eyes
+  - dark urine
 
 Common side effects seen in people who take ELEPSIA XR:
 
@@ -149,13 +159,14 @@ The imprinting ink contains ammonium hydroxide, iron oxide black, N-butyl alcoho
 
 Rx Only
 
-Manufactured by Sun Pharmaceutical Industries Ltd. Halol-Baroda Highway, Halol-389 350, Gujarat, India for Tripoint Therapeutics, LLC Westfield, New Jersey 07090
+Manufactured by Sun Pharmaceutical Industries Ltd. Halol-Baroda Highway, Halol-389 350, Gujarat, India
+
+Manufactured for Tripoint Therapeutics, LLC Westfield, New Jersey 07090
 
 Copyright 2020, Tripoint Therapeutics LLC All rights reserved
 
 For more information, call Tripoint Therapeutics at (908) 928-4500.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: 12/2020
 
-PJPI0673
+Revised: 03/2024

@@ -7,8 +7,9 @@ The following serious adverse reactions are discussed in more detail in other se
 - Somnolence and Fatigue [see Warnings and Precautions (5.3)]
 - Anaphylaxis and Angioedema [see Warnings and Precautions (5.4)]
 - Serious Dermatological Reactions [see Warnings and Precautions (5.5)]
-- Coordination Difficulties [see Warnings and Precautions (5.6)]
-- Hematologic Abnormalities [see Warnings and Precautions (5.8)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity [see Warnings and Precautions (5.6)]
+- Coordination Difficulties [see Warnings and Precautions (5.7)]
+- Hematologic Abnormalities [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -81,7 +82,7 @@ Pediatric Patients 4 Years to <16 Years
 
 In a pooled analysis of two controlled pediatric clinical studies in children 4 to 16 years of age with partial-onset seizures, the adverse reactions most frequently reported with the use of immediate-release levetiracetam tablets in combination with other AEDs, and with greater frequency than in patients on placebo, were fatigue, aggression, nasal congestion, decreased appetite, and irritability.
 
-Table 5 lists adverse reactions that occurred in at least 2% of pediatric patients treated with immediate-release levetiracetam tablets and were more common than in pediatric patients on placebo.
+Table 5 lists adverse reactions that occurred in at least 2% of pediatric patients treated with immediate -release levetiracetam tablets and were more common than in pediatric patients on placebo.
 In these studies, either immediate-release levetiracetam tablets or placebo was added to concurrent AED therapy.
 Adverse reactions were usually mild to moderate in intensity.
 
@@ -125,7 +126,7 @@ Table 5: Adverse Reactions in Pooled Placebo-Controlled, Add-On Studies in Pedia
 | Joint Sprain | 2 | 1 |
 | Mood Swings | 2 | 1 |
 | Neck Pain | 2 | 1 |
-| Rhinitis 2 0 |  |  |
+| Rhinitis | 2 | 0 |
 | Sedation | 2 | 1 |
 
 In controlled pediatric clinical studies in patients 4 to 16 years of age, 7% of patients treated with immediate-release levetiracetam tablets and 9% of patients on placebo discontinued as a result of an adverse event.

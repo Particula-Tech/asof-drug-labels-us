@@ -84,7 +84,7 @@ Dose-normalized steady-state exposure parameters, Cmax and AUC, were comparable 
 
 Pregnancy
 
-Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
+Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
 
 Gender
 
@@ -104,10 +104,10 @@ The effect of levetiracetam extended-release tablets on renally impaired patient
 However, it is expected that the effect on ELEPSIA XR-treated patients would be similar to that seen in controlled studies of immediate-release levetiracetam tablets.
 
 The disposition of immediate-release levetiracetam was studied in adult subjects with varying degrees of renal function.
-Total body clearance of levetiracetam is reduced in patients with impaired renal function by 40% in the mild group (Clcr = 50 to 80 mL/min), 50% in the moderate group (CLcr = 30 to 50 mL/min), and 60% in the severe renal impairment group (CLcr <30 mL/min) [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+Total body clearance of levetiracetam is reduced in patients with impaired renal function by 40% in the mild group (CLcr = 50 to 80 mL/min), 50% in the moderate group (CLcr = 30 to 50 mL/min), and 60% in the severe renal impairment group (CLcr <30 mL/min) [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 Clearance of levetiracetam is correlated with creatinine clearance.
 
-In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (Clcr >80 mL/min).
+In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (CLcr >80 mL/min).
 Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4- hour hemodialysis procedure.
 
 Hepatic Impairment

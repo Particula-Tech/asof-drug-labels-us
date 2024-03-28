@@ -25,6 +25,11 @@ Dermatological Adverse Reactions
 
 Advise patients that serious dermatological adverse reactions have occurred in patients treated with levetiracetam and instruct them to call their physician immediately if a rash develops [see Warnings and Precautions (5.5)].
 
+DRESS/Multi-organ Hypersensitivity
+
+Instruct patients and caregivers that a fever or rash associated with signs of other organ system involvement (e.g., lymphadenopathy, hepatic dysfunction) may be drug-related and should be reported to their healthcare provider immediately.
+ELEPSIA XR should be discontinued immediately if a serious hypersensitivity reaction is suspected [see Warnings and Precautions (5.6)].
+
 Dosing and Administration
 
 Patients should be instructed to only take ELEPSIA XR once daily and to swallow the tablets whole.

@@ -35,4 +35,4 @@ Table 1: Dosing Adjustment Regimen for Adult Patients with Impaired Renal Functi
 
 ## 2.3 Discontinuation of ELEPSIA XR
 
-When discontinuing ELEPSIA XR, reduce the dosage gradually and avoid abrupt discontinuation because of the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.7)].
+When discontinuing ELEPSIA XR, reduce the dosage gradually and avoid abrupt discontinuation because of the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.8)].
