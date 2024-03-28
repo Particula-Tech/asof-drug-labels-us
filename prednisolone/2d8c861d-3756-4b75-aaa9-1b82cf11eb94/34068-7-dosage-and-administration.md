@@ -4,7 +4,7 @@ The initial dosage of prednisolone sodium phosphate oral solution may vary from 
 In situations of less severity, lower doses will generally suffice while in selected patients higher initial doses may be required.
 The initial dosage should be maintained or adjusted until a satisfactory response is noted.
 If after a reasonable period of time, there is a lack of satisfactory clinical response, prednisolone sodium phosphate oral solution should be discontinued and the patient placed on other appropriate therapy.
-IT SHOULD BE EMPHASIZED THAT DOSAGE REQUIREMENTSARE VARIABLE AND MUST BE INDIVIDUALIZEDON THE BASIS OF THE DISEASE UNDER TREATMENTAND THE RESPONSE OF THE PATIENT.
+IT SHOULD BE EMPHASIZED THAT DOSAGE REQUIREMENTS ARE VARIABLE AND MUST BE INDIVIDUALIZED ON THE BASIS OF THE DISEASE UNDER TREATMENT AND THE RESPONSE OF THE PATIENT.
 After a favorable response is noted, the proper maintenance dosage should be determined by decreasing the initial drug dosage in small decrements at appropriate time intervals until the lowest dosage which will maintain an adequate clinical response is reached.
 It should be kept in mind that constant monitoring is needed in regard to drug dosage.
 Included in the situations which may make dosage adjustments necessary are changes in clinical status secondary to remissions or exacerbations in the disease process, the patient’s individual drug responsiveness, and the effect of patient exposure to stressful situations not directly related to the disease entity under treatment; in this latter situation it may be necessary to increase the dosage of prednisolone sodium phosphate oral solution for a period of time consistent with the patient’s condition.
@@ -30,5 +30,5 @@ For the purpose of comparison, the following is the equivalent milligram dosage 
 | Prednisolone, 5 | Dexamethasone, 0.75 |
 | Methylprednisolone, 4 |  |
 
-These dose relationships apply only to oral or intravenousadministration of these compounds.
-Whenthese substances or their derivatives are injected intramuscularlyor into joint spaces, their relative propertiesmay be greatly altered.
+These dose relationships apply only to oral or intravenous administration of these compounds.
+When these substances or their derivatives are injected intramuscularly or into joint spaces, their relative properties may be greatly altered.

@@ -32,11 +32,13 @@ Hematologic Disorders
 
 Idiopathic thrombocytopenic purpura in adults; selected cases of secondary thrombocytopenia; acquired (autoimmune) hemolytic anemia; pure red cell aplasia; Diamond-Blackfan anemia.
 
-7.Neoplastic Diseases
+7.
+Neoplastic Diseases
 
 For the treatment of acute leukemia and aggressive lymphomas in adults and children.
 
-8.Nervous System
+8.
+Nervous System
 
 Acute exacerbations of multiple sclerosis.
 

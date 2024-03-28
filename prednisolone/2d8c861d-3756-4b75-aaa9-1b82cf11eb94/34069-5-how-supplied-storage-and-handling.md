@@ -20,4 +20,5 @@ Made in USA
 
 L70328
 
-Revised 06/2023
+Rev.
+02/2024

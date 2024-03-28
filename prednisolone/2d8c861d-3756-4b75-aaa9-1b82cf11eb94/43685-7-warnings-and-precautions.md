@@ -18,24 +18,63 @@ Corticosteroids can produce reversible hypothalamic-pituitary adrenal (HPA) axis
 Metabolic clearance of corticosteroids is decreased in hypothyroid patients and increased in hyperthyroid patients.
 Changes in thyroid status of the patient may necessitate adjustment in dosage.
 
-## Infections (General)
+## Immunosuppression and Increased Risk of Infection
 
-Persons who are on drugs which suppress the immune system are more susceptible to infections than healthy individuals.
-There may be decreased resistance and inability to localize infection when corticosteroids are used.
-Infection with any pathogen including viral, bacterial, fungal, protozoan or helminthic infection, in any location of the body, may be associated with the use of corticosteroids alone or in combination with other immunosuppressive agents that affect humoral or cellular immunity, or neutrophil function.
-These infections may be mild to severe, and, with increasing doses of corticosteroids, the rate of occurance of infectious complications increases.
-Corticosteroids may also mask some signs of infection after it has already started.
+Corticosteroids, including prednisolone sodium phosphate, suppress the immune system and increase the risk of infection with any pathogen, including viral, bacterial, fungal, protozoan, or helminthic pathogens.
+Corticosteroids can:
 
-## Infections (Viral)
+- Reduce resistance to new infections
+- Exacerbate existing infections
+- Increase the risk of disseminated infections
+- Increase the risk of reactivation or exacerbation of latent infections
+- Mask some signs of infection
 
-Chicken pox and measles, for example, can have a more serious or even fatal course in non-immune children or adults on corticosteroids.
-In such children or adults who have not had these diseases, particular care should be taken to avoid exposure.
-How the dose, route and duration of corticosteroid administration affect the risk of developing a disseminated infection is not known.
-The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
-If exposed to chicken pox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
-If exposed to measles, prophylaxis with immunoglobulin (IG) may be indicated.
-(See the respective package inserts for complete VZIG and IG prescribing information).
-If chicken pox develops, treatment with antiviral agents should be considered.
+Corticosteroid-associated infections can be mild but can be severe and at times fatal.
+The rate of infectious complications increases with increasing corticosteroid dosages.
+
+Monitor for the development of infection and consider prednisolone sodium phosphate withdrawal or dosage reduction as needed.
+
+## Tuberculosis
+
+If prednisolone sodium phosphate is used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, reactivation of tuberculosis may occur.
+Closely monitor such patients for reactivation.
+During prolonged prednisolone sodium phosphate therapy, patients with latent tuberculosis or tuberculin reactivity should receive chemoprophylaxis.
+
+## Varicella Zoster and Measles Viral Infections
+
+Varicella and measles can have a serious or even fatal course in non-immune patients taking corticosteroids, including prednisolone sodium phosphate.
+In corticosteroid-treated patients who have not had these diseases or are nonimmune, particular care should be taken to avoid exposure to varicella and measles:
+
+- If a prednisolone sodium phosphate-treated patient is exposed to varicella, prophylaxis with varicella zoster immune globulin may be indicated.
+  If varicella develops, treatment with antiviral agents may be considered.
+- If a prednisolone sodium phosphate-treated patient is exposed to measles, prophylaxis with immunoglobulin may be indicated.
+
+## Hepatitis B Virus Reactivation
+
+Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers treated with immunosuppressive dosages of corticosteroids, including prednisolone sodium phosphate.
+Reactivation can also occur infrequently in corticosteroid-treated patients who appear to have resolved hepatitis B infection.
+
+Screen patients for hepatitis B infection before initiating immunosuppressive (e.g., prolonged) treatment with prednisolone sodium phosphate.
+For patients who show evidence of hepatitis B infection, recommend consultation with physicians with expertise in managing hepatitis B regarding monitoring and consideration for hepatitis B antiviral therapy.
+
+## Fungal Infections
+
+Corticosteroids, including prednisolone sodium phosphate, may exacerbate systemic fungal infections; therefore, avoid prednisolone sodium phosphate use in the presence of such infections unless prednisolone sodium phosphate is needed to control drug reactions.
+For patients on chronic prednisolone sodium phosphate therapy who develop systemic fungal infections, prednisolone sodium phosphate withdrawal or dosage reduction is recommended.
+
+## Amebiasis
+
+Corticosteroids, including prednisolone sodium phosphate, may activate latent amebiasis.
+Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating prednisolone sodium phosphate in patients who have spent time in the tropics or patients with unexplained diarrhea.
+
+## Strongyloides Infestation
+
+Corticosteroids, including prednisolone sodium phosphate, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
+In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gramnegative septicemia.
+
+## Cerebral Malaria
+
+Avoid corticosteroids, including prednisolone sodium phosphate, in patients with cerebral malaria.
 
 ## Ophthalmic
 
@@ -43,29 +82,15 @@ Use of corticosteroids may produce posterior subcapsular cataracts, glaucoma wit
 The use of oral corticosteroids is not recommended in the treatment of optic neuritis and may lead to an increase in the risk of new episodes.
 Corticosteroids should not be used in active ocular herpes simplex.
 
-## Special Pathogens
+## Kaposi’s Sarcoma
 
-Latent disease may be activated or there may be an exacerbation of intercurrent infections due to pathogens, including those caused by Candida, Mycobacterium, Ameba, Toxoplasma, Pneumocystis, Cryptococcus, Nocardia, etc.
+Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
+Discontinuation of corticosteroids may result in clinical improvement of Kaposi’s Sarcoma.
 
-Corticosteroids may activate latent amebiasis.
-Therefore, it is recommended that latent or active amebiasis be ruled out before initiating corticosteroid therapy in any patient who has spent time in the tropics or in any patient with unexplained diarrhea.
+## Vaccination
 
-Similarly, corticosteroids should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
-In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
-
-Corticosteroids should not be used in cerebral malaria.
-
-Tuberculosis
-
-The use of prednisolone in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen.
-
-If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur.
-During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
-
-Vaccination
-
-Administration of live or live, attenuated vaccines iscontraindicated in patients receiving immunosuppressive doses of corticosteroids.
-Killed or inactivated vaccines may be administered, however, the response to such vaccines cannot be predicted.
+Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
+Killed or inactivated vaccines may be administered, however, the response to such vaccines can not be predicted.
 Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, e.g., for Addison’s disease.
 
 # PRECAUTIONS
@@ -77,9 +102,6 @@ The lowest possible dose of corticosteroid should be used to control the conditi
 Since complications of treatment with glucocorticoids are dependent on the size of the dose and the duration of treatment, a risk/benefit decision must be made in each individual case as to dose and duration of treatment and as to whether daily or intermittent therapy should be used.
 
 There is an enhanced effect of corticosteroids in patients with hypothyroidism and in those with cirrhosis.
-
-Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
-Discontinuation of corticosteroids may result in clinical improvement.
 
 Cardio-renal
 
@@ -163,7 +185,7 @@ Corticosteroids may suppress reactions to skin tests.
 
 ## Pregnancy
 
-Teratogenic Effects
+TeratogenicEffects
 
 Pregnancy Category C
 
