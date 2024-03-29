@@ -30,8 +30,7 @@ Important information:
   Your prefilled syringe should look clear and colorless to light yellow with few white particles.
 - Do not use if it is frozen, discolored, cloudy or has large particles.
   Get a new prefilled syringe.
-- Do not shake the prefilled syringe at any time.
-  Shaking your prefilled syringe may damage your STELARA medicine.
+- Do not shake the prefilled syringe at any time.Shaking your prefilled syringe may damage your STELARA medicine.
   If your prefilled syringe has been shaken, do not use it.
   Get a new prefilled syringe.
 - To reduce the risk of accidental needle sticks, each prefilled syringe has a needle guard that is automatically activated to cover the needle after you have given your injection.
@@ -47,7 +46,7 @@ You will need:
 - adhesive bandage
 - your prescribed dose of STELARA (See Figure B)
 - FDA-cleared sharps disposal container.
-  See "Step 4: Dispose of the syringe."
+  See " Step 4: Dispose of the syringe."
 
 Figure A
 
@@ -67,11 +66,11 @@ Step 2: Prepare your injection site
   If a caregiver is giving you the injection, the outer area of the upper arms may also be used.
   (See Figure C)
 - Use a different injection site for each injection.
-  Do not give an injection in an area of the skin that is tender, bruised, red or hard.
+  Do notgive an injection in an area of the skin that is tender, bruised, red or hard.
 - Clean the skin with an antiseptic wipe where you plan to give your injection.
-- Do not touch this area again before giving the injection.
+- Do nottouch this area again before giving the injection.
   Let your skin dry before injecting.
-- Do not fan or blow on the clean area.
+- Do notfan or blow on the clean area.
 
 Figure C
 
@@ -80,14 +79,14 @@ Figure C
 Step 3: Inject STELARA
 
 - Remove the needle cover when you are ready to inject your STELARA.
-- Do not touch the plunger while removing the needle cover.
+- Do nottouch the plunger while removing the needle cover.
 - Hold the body of the prefilled syringe with one hand, and pull the needle cover straight off.
   (see Figure D)
 - Put the needle cover in the trash.
 - You may also see a drop of liquid at the end of the needle.
   This is normal.
-- Do not touch the needle or let it touch anything.
-- Do not use the prefilled syringe if it is dropped without the needle cover in place.
+- Do nottouch the needle or let it touch anything.
+- Do notuse the prefilled syringe if it is dropped without the needle cover in place.
   Call your doctor, nurse or health professional for instructions.
 
 Figure D
@@ -97,7 +96,7 @@ Figure D
 
 Figure E
 
-- Do not pull back on the plunger at any time.
+- Do notpull back on the plunger at any time.
 - Use the other hand to gently pinch the cleaned area of skin.
   Hold firmly.
 - Use a quick, dart-like motion to insert the needle into the pinched skin at about a 45-degree angle.
@@ -184,8 +183,7 @@ Important information:
   Your vial should look clear and colorless to light yellow with few white particles.
 - Do not use if it is frozen, discolored, cloudy or has large particles.
   Get a new vial.
-- Do not shake the vial at any time.
-  Shaking your vial may damage your STELARA medicine.
+- Do not shake the vial at any time.Shaking your vial may damage your STELARA medicine.
   If your vial has been shaken, do not use it.
   Get a new vial.
 - Do not use a STELARA vial more than one time, even if there is medicine left in the vial.
@@ -193,8 +191,8 @@ Important information:
   Therefore, throw away any unused STELARA after you give your injection.
 - Safely throw away (dispose of) STELARA vials after use.
 - Do not re-use syringes or needles.
-  See "Step 6: Dispose of needles and syringes."
-- To avoid needle-stick injuries, do not recap needles.
+  See " Step 6: Dispose of needles and syringes."
+- To avoid needle-stick injuries, do notrecap needles.
 
 Gather the supplies you will need to prepare STELARA and to give your injection.
 (See Figure A)
@@ -207,7 +205,7 @@ You will need:
 - adhesive bandage
 - your prescribed dose of STELARA
 - FDA-cleared sharps disposal container.
-  See "Step 6: Dispose of needles and syringes."
+  See " Step 6: Dispose of needles and syringes."
 
 Figure A
 
@@ -222,11 +220,11 @@ Step 2: Prepare your injection site
   If a caregiver is giving you the injection, the outer area of the upper arms may also be used.
   (See Figure B)
 - Use a different injection site for each injection.
-  Do not give an injection in an area of the skin that is tender, bruised, red or hard.
+  Do notgive an injection in an area of the skin that is tender, bruised, red or hard.
 - Clean the skin with an antiseptic wipe where you plan to give your injection.
-- Do not touch this area again before giving the injection.
+- Do nottouch this area again before giving the injection.
   Let your skin dry before injecting.
-- Do not fan or blow on the clean area.
+- Do notfan or blow on the clean area.
 
 Figure B
 
@@ -275,8 +273,7 @@ Figure F
 
 Figure G
 
-- Do not remove the needle from the vial.
-  Hold the syringe with the needle pointing up to see if it has any air bubbles inside.
+- Do not remove the needle from the vial.Hold the syringe with the needle pointing up to see if it has any air bubbles inside.
 - If there are air bubbles, gently tap the side of the syringe until the air bubbles rise to the top.
   (See Figure H)
 - Slowly press the plunger up until all of the air bubbles are out of the syringe (but none of the liquid is out).
@@ -288,7 +285,7 @@ Figure H
 Step 5: Inject STELARA
 
 - Hold the barrel of the syringe in one hand, between the thumb and index fingers.
-- Do not pull back on the plunger at any time.
+- Do notpull back on the plunger at any time.
 - Use the other hand to gently pinch the cleaned area of skin.
   Hold firmly.
 - Use a quick, dart-like motion to insert the needle into the pinched skin at about a 45-degree angle.
@@ -310,12 +307,11 @@ Figure J
   You may cover the injection site with a small adhesive bandage, if necessary.
 
 If your dose is 90 mg, you will receive two 45 mg vials and you will need to give yourself a second injection right after the first.
-Repeat Steps 1–5 using a new syringe.
-Choose a different site for the second injection.
+Repeat Steps 1–5 using a new syringe.Choose a different site for the second injection.
 
 Step 6: Dispose of the needles and syringes.
 
-- Do not re-use a syringe or needle.
+- Do notre-use a syringe or needle.
 - To avoid needle-stick injuries, do not recap a needle.
 - Put your needles and syringes in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and syringes in your household trash.

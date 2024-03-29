@@ -4,29 +4,29 @@
 
 Ustekinumab is a human IgG1қ monoclonal antibody that binds with specificity to the p40 protein subunit used by both the IL-12 and IL-23 cytokines.
 IL-12 and IL-23 are naturally occurring cytokines that are involved in inflammatory and immune responses, such as natural killer cell activation and CD4+ T-cell differentiation and activation.
-In in vitro models, ustekinumab was shown to disrupt IL-12 and IL-23 mediated signaling and cytokine cascades by disrupting the interaction of these cytokines with a shared cell-surface receptor chain, IL-12Rβ1.
+In in vitromodels, ustekinumab was shown to disrupt IL-12 and IL-23 mediated signaling and cytokine cascades by disrupting the interaction of these cytokines with a shared cell-surface receptor chain, IL-12Rβ1.
 The cytokines IL-12 and IL-23 have been implicated as important contributors to the chronic inflammation that is a hallmark of Crohn's disease and ulcerative colitis.
 In animal models of colitis, genetic absence or antibody blockade of the p40 subunit of IL-12 and IL-23, the target of ustekinumab, was shown to be protective.
 
 ## 12.2 Pharmacodynamics
 
-Psoriasis
+Plaque Psoriasis
 
-In a small exploratory study, a decrease was observed in the expression of mRNA of its molecular targets IL-12 and IL-23 in lesional skin biopsies measured at baseline and up to two weeks post-treatment in subjects with psoriasis.
+In a small exploratory trial, a decrease was observed in the expression of mRNA of its molecular targets IL-12 and IL-23 in lesional skin biopsies measured at baseline and up to two weeks post-treatment in subjects with plaque psoriasis.
 
 Ulcerative Colitis
 
-In both study UC-1 (induction) and study UC-2 (maintenance), a positive relationship was observed between exposure and rates of clinical remission, clinical response, and endoscopic improvement.
+In both trial UC-1 (induction) and trial UC-2 (maintenance), a positive relationship was observed between exposure and rates of clinical remission, clinical response, and endoscopic improvement.
 The response rate approached a plateau at the ustekinumab exposures associated with the recommended dosing regimen for maintenance treatment [see Clinical Studies (14.5)].
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
-In adult subjects with psoriasis, the median time to reach the maximum serum concentration (Tmax) was 13.5 days and 7 days, respectively, after a single subcutaneous administration of 45 mg (N=22) and 90 mg (N=24) of ustekinumab.
-In healthy subjects (N=30), the median Tmax value (8.5 days) following a single subcutaneous administration of 90 mg of ustekinumab was comparable to that observed in subjects with psoriasis.
+In adult subjects with plaque psoriasis, the median time to reach the maximum serum concentration (T max) was 13.5 days and 7 days, respectively, after a single subcutaneous administration of 45 mg (N=22) and 90 mg (N=24) of ustekinumab.
+In healthy subjects (N=30), the median T maxvalue (8.5 days) following a single subcutaneous administration of 90 mg of ustekinumab was comparable to that observed in subjects with plaque psoriasis.
 
-Following multiple subcutaneous doses of STELARA® in adult subjects with psoriasis, steady-state serum concentrations of ustekinumab were achieved by Week 28.
+Following multiple subcutaneous doses of STELARA ®in adult subjects with plaque psoriasis, steady-state serum concentrations of ustekinumab were achieved by Week 28.
 The mean (±SD) steady-state trough serum ustekinumab concentrations were 0.69 ± 0.69 mcg/mL for patients less than or equal to 100 kg receiving a 45 mg dose and 0.74 ± 0.78 mcg/mL for patients greater than 100 kg receiving a 90 mg dose.
 There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
 
@@ -43,7 +43,7 @@ The total volume of distribution at steady-state was 4.6 L in patients with Croh
 
 Elimination
 
-The mean (±SD) half-life ranged from 14.9 ± 4.6 to 45.6 ± 80.2 days across all psoriasis studies following subcutaneous administration.
+The mean (±SD) half-life ranged from 14.9 ± 4.6 to 45.6 ± 80.2 days across all plaque psoriasis trials following subcutaneous administration.
 Population pharmacokinetic analyses showed that the clearance of ustekinumab was 0.19 L/day (95% CI: 0.185, 0.197) in patients with Crohn's disease and 0.19 L/day (95% CI: 0.179, 0.192) in patients with ulcerative colitis with an estimated median terminal half-life of approximately 19 days for both IBD (Crohn's disease and ulcerative colitis) populations.
 
 These results indicate the pharmacokinetics of ustekinumab were similar between patients with Crohn's disease and ulcerative colitis.
@@ -57,27 +57,27 @@ Specific Populations
 
 Weight
 
-When given the same dose, subjects with psoriasis or psoriatic arthritis weighing more than 100 kg had lower median serum ustekinumab concentrations compared with those subjects weighing 100 kg or less.
+When given the same dose, subjects with plaque psoriasis or psoriatic arthritis weighing more than 100 kg had lower median serum ustekinumab concentrations compared with those subjects weighing 100 kg or less.
 The median trough serum concentrations of ustekinumab in subjects of higher weight (greater than 100 kg) in the 90 mg group were comparable to those in subjects of lower weight (100 kg or less) in the 45 mg group.
 
 Age: Geriatric Population
 
-A population pharmacokinetic analysis (N=106/1937 patients with psoriasis greater than or equal to 65 years old) was performed to evaluate the effect of age on the pharmacokinetics of ustekinumab.
+A population pharmacokinetic analysis (N=106/1937 patients with plaque psoriasis greater than or equal to 65 years old) was performed to evaluate the effect of age on the pharmacokinetics of ustekinumab.
 There were no apparent changes in pharmacokinetic parameters (clearance and volume of distribution) in subjects older than 65 years old.
 
 Age: Pediatric Population
 
-Following multiple recommended doses of STELARA® in pediatric subjects 6 to 17 years of age with psoriasis, steady-state serum concentrations of ustekinumab were achieved by Week 28.
-At Week 28, the mean ±SD steady-state trough serum ustekinumab concentrations were 0.36 ± 0.26 mcg/mL and 0.54 ± 0.43 mcg/mL, respectively, in pediatric subjects 6 to 11 years of age and adolescent subjects 12 to 17 years of age.
+Following multiple recommended doses of STELARA ®in pediatric subjects 6 to 17 years of age with plaque psoriasis, steady-state serum concentrations of ustekinumab were achieved by Week 28.
+At Week 28, the mean ±SD steady-state trough serum ustekinumab concentrations were 0.36 ± 0.26 mcg/mL and 0.54 ± 0.43 mcg/mL, respectively, in pediatric subjects 6 to 11 years of age and pediatric subjects 12 to 17 years of age.
 
-Overall, the observed steady-state ustekinumab trough concentrations in pediatric patients with psoriasis were within the range of those observed for adult patients with psoriasis and adult patients with PsA after administration of STELARA®.
+Overall, the observed steady-state ustekinumab trough concentrations in pediatric patients with plaque psoriasis were within the range of those observed for adult patients with plaque psoriasis and adult patients with PsA after administration of STELARA ®.
 
 Drug Interaction Studies
 
-The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4).
-However, the clinical relevance of in vitro data has not been established [see Drug Interactions (7.3)].
+The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitrostudy using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4).
+However, the clinical relevance of in vitrodata has not been established [see Drug Interactions (7.3)].
 
-No in vivo drug interaction studies have been conducted with STELARA®.
+No in vivodrug interaction studies have been conducted with STELARA ®.
 
 Population pharmacokinetic analyses indicated that the clearance of ustekinumab was not impacted by concomitant MTX, NSAIDs, and oral corticosteroids, or prior exposure to a TNF blocker in patients with psoriatic arthritis.
 

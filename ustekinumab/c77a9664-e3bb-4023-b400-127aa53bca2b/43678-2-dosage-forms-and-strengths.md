@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-STELARA® (ustekinumab) is a colorless to light yellow solution and may contain a few small translucent or white particles.
+STELARA ®(ustekinumab) is a colorless to light yellow solution and may contain a few small translucent or white particles.
 
 Subcutaneous Injection
 
