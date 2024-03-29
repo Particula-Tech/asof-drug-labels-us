@@ -95,7 +95,7 @@ Table 4: Most Common Adverse Reactions Leading to Discontinuation in Pediatric P
 | Vomiting | 1 | 0 |
 
 In adult double-blind, adjunctive clinical studies, 10% of patients receiving rufinamide as adjunctive therapy (at doses up to 3200 mg per day) and 6% receiving placebo discontinued as a result of an adverse reaction.
-The adverse reactions most commonly leading to discontinuation of rufinamide (>1%) used as adjunctive therapy are presented in Table 5.
+The adverse reactions most commonly leading to discontinuation of rufinamide (greater than 1%) used as adjunctive therapy are presented in Table 5.
 
 Table 5: Most Common Adverse Reactions Leading to Discontinuation in Adult Patients in Pooled Double-Blind Adjunctive Trials
 

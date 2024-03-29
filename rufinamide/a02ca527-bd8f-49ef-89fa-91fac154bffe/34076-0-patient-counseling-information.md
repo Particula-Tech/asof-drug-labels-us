@@ -23,8 +23,9 @@ Advise patients to notify their physician if they experience a rash associated w
 
 Drug Interactions
 
-•Inform female patients of childbearing age that the concurrent use of rufinamide with hormonal contraceptives may render this method of contraception less effective.
-Recommend patients use additional non-hormonal forms of contraception when using rufinamide [see Drug Interactions (7.3)and Use in Specific Populations (8.3)]. •Inform patients that alcohol in combination with rufinamide may cause additive central nervous system effects.
+- Inform female patients of childbearing age that the concurrent use of rufinamide with hormonal contraceptives may render this method of contraception less effective.
+  Recommend patients use additional non-hormonal forms of contraception when using rufinamide [see Drug Interactions (7.3)and Use in Specific Populations (8.3)].
+- Inform patients that alcohol in combination with rufinamide may cause additive central nervous system effects.
 
 Pregnancy
 
@@ -37,4 +38,4 @@ Breast-feeding
 Advise patients to notify their physician if they are breast-feeding or intend to breast-feed [see Use in Specific Populations (8.2)].
 
 Manufactured by: Alkem Laboratories Ltd., INDIA.
-Distributed by: Ascend Laboratories, LLC 339 Jefferson Road, Parsippany, NJ 07054 Revised: 11/2021
+Distributed by: Ascend Laboratories, LLC 339 Jefferson Road, Parsippany, NJ 07054 Revised: 1/2024

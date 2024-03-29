@@ -38,8 +38,8 @@ Use of rufinamide has been associated with central nervous system-related advers
 The most significant of these can be classified into two general categories: 1) somnolence or fatigue, and 2) coordination abnormalities, dizziness, gait disturbances, and ataxia.
 
 Somnolence was reported in 24% of rufinamide -treated patients compared to 13% of patients on placebo, and led to study discontinuation in 3% of rufinamide -treated patients compared to 0% of patients on placebo.
-Fatigue was reported in 10% of rufinamide -treated patients compared to 8% of patients on placebo patients.
-It led to study discontinuation in 1% of rufinamide -treated patients and 0% of patients on placebo patients.
+Fatigue was reported in 10% of rufinamide -treated patients compared to 8% of patients on placebo.
+It led to study discontinuation in 1% of rufinamide -treated patients and 0% of patients on placebo.
 
 Dizziness was reported in 2.7% of rufinamide -treated patients compared to 0% of patients on placebo, and did not lead to study discontinuation.
 

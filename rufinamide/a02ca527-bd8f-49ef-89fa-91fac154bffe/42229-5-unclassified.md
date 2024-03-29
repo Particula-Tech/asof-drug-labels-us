@@ -210,7 +210,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about rufinamide.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about rufinamide that is written for health professionals.
-For more information, go to www.ascendlaboratories.com or call Ascend Laboratories, LLC at 1-877-ASC-RX01 (877-272-7901).
+For more information, go to www.ascendlaboratories.com or call Ascend Laboratories, LLC at 1-877-272-7901.
 
 What are the ingredients in Rufinamide?
 
@@ -223,12 +223,13 @@ The oral suspension does not contain lactose or gluten and is dye-free.
 The oral suspension does contain carbohydrates.
 
 Manufactured by: Alkem Laboratories Ltd., INDIA.
-Distributed by: Ascend Laboratories, LLC 339 Jefferson Road, Parsippany, NJ 07054 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: 11/2021
+Distributed by: Ascend Laboratories, LLC 339 Jefferson Road, Parsippany, NJ 07054 Revised: 1/2024
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 # Instructions for Use
 
-Rufinamide (roo-FIN-a-mide) [rufinamide] Oral Suspension
+Rufinamide (roo-FIN-a-mide) Oral Suspension
 
 Read the Instructions for Use before using rufinamide oral suspension and each time you get a refill.
 There may be new information.
@@ -264,7 +265,7 @@ Insert the syringe into the upright bottle and push the plunger all the way down
 See Figure F Figure F Step 6.
 With the syringe in place, turn the bottle upside down.
 Pull the plunger to the number of mL needed (the amount of liquid medicine in Step 4).
-See Figure G Figure G Measure the mLs of medicine from the white layer at the end of the plunger.
+See Figure G Figure G Measure the mLs of medicine from the end of the plunger.
 See Figure H Figure H Step 7.
 If the dose is more than 20 mL, you can either use: · 2 syringes, or · 1 syringe, taking two steps to draw up the medicine in that same syringe For example: If your dose is 30 mL, draw up 20 mL in the first syringe and the remaining 10 mL in the second syringe. or If your dose is 30 mL, draw up 20 mL in the single syringe and squirt the medicine into your mouth, then draw up the remaining 10 mL in that same syringe.
 Repeat Steps 4 through 6 when drawing up the remaining dose of medicine, if your dose is more than 20 mL.
@@ -282,6 +283,10 @@ Store the bottle upright at 59°F to 86°F (15°C to 30°C).
 See Figure K Figure K
 
 Manufactured by: Alkem Laboratories Ltd., INDIA.
-Distributed by: Ascend Laboratories, LLC 339 Jefferson Road, Parsippany, NJ 07054 Revised: 11/2021
+Distributed by: Ascend Laboratories, LLC 339 Jefferson Road, Parsippany, NJ 07054
 
-PT3469-02
+This Instructions for Use has been approved by the U. S. Food and Drug Administration.
+
+Revised: 1/2024
+
+PT3469-03
