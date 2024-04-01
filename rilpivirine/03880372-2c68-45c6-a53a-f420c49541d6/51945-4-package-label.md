@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 25 mg Tablet Bottle Label
 
-30 Tablets NDC 59676-278-01
+30 Tablets NDC59676-278-01
 
 EDURANT® (rilpivirine) tablets
 
@@ -8,6 +8,20 @@ EDURANT® (rilpivirine) tablets
 
 Each tablet contains 27.5 mg of rilpivirine hydrochloride, which is equivalent to 25 mg of rilpivirine.
 
-ALERT: Find out about medicines that should NOT be taken with EDURANT® from your healthcare provider.
+ALERT: Find out about medicines that should NOT be taken with EDURANT ®from your healthcare provider.
 
 Rx only
+
+# PRINCIPAL DISPLAY PANEL - 2.5 mg Tablet Blister Pack Carton
+
+NDC 59676-280-90 Rx only
+
+EDURANT ® (rilpivirine) tablets for oral suspension
+
+2.5 mg
+
+90 tablets 9 blister cards, 10 tablets each
+
+Read the Prescribing Information before use
+
+DISPERSE IN LIQUID Do not chew Do not swallow whole

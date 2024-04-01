@@ -1,17 +1,25 @@
 {
   "application_numbers": [
-    "NDA202022"
+    "NDA202022",
+    "NDA219016"
   ],
   "inn": "rilpivirine",
   "labeler": "Janssen Products, LP",
   "package_ndcs": [
-    "59676-278-01"
+    "59676-278-01",
+    "59676-280-01",
+    "59676-280-90"
   ],
   "products": [
     {
       "form": "TABLET, FILM COATED",
       "generic": "rilpivirine hydrochloride",
       "name": "EDURANT"
+    },
+    {
+      "form": "TABLET, FOR SUSPENSION",
+      "generic": "rilpivirine hydrochloride",
+      "name": "EDURANT PED"
     }
   ],
   "setid": "03880372-2c68-45c6-a53a-f420c49541d6",

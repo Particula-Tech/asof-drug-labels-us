@@ -14,18 +14,17 @@ Clinical Trials Experience in Adults
 
 The safety assessment is based on the Week 96 pooled data from 1368 patients in the Phase 3 controlled trials TMC278-C209 (ECHO) and TMC278-C215 (THRIVE) in antiretroviral treatment-naïve HIV-1 infected adult patients, 686 of whom received EDURANT (25 mg once daily) [see Clinical Studies (14.1)].
 The median duration of exposure for patients in the EDURANT arm and efavirenz arm was 104.3 and 104.1 weeks, respectively.
-Most ADRs occurred in the first 48 weeks of treatment.
-The proportion of subjects who discontinued treatment with EDURANT or efavirenz due to ADR, regardless of severity, was 2% and 4%, respectively.
-The most common ADRs leading to discontinuation were psychiatric disorders: 10 (1%) subjects in the EDURANT arm and 11 (2%) subjects in the efavirenz arm.
-Rash led to discontinuation in 1 (0.1%) subject in the EDURANT arm and 10 (1.5%) subjects in the efavirenz arm.
+Most adverse reactions occurred in the first 48 weeks of treatment.
+The proportion of subjects who discontinued treatment with EDURANT or efavirenz due to adverse reaction, regardless of severity, was 2% and 4%, respectively.
+The most common adverse reactions leading to discontinuation were psychiatric disorders: 10 (1%) subjects in the EDURANT arm and 11 (2%) subjects in the efavirenz arm.
+Rash led to discontinuation in 1 (<1%) subject in the EDURANT arm and 10 (2%) subjects in the efavirenz arm.
 
-Common Adverse Drug Reactions
+Common Adverse Reactions
 
-ADRs of at least moderate intensity (≥Grade 2) reported in at least 2% of adult subjects are presented in Table 2.
-Selected laboratory abnormalities are included in Table 3.
+Adverse reactions of at least moderate intensity (≥Grade 2) reported in at least 2% of adult subjects are presented in Table 3.
+Selected laboratory abnormalities are included in Table 4.
 
-Table 2: Selected Adverse Drug Reactions of at least Moderate IntensityIntensities are defined as follows: Moderate (discomfort enough to cause interference with usual activity); Severe (incapacitating with inability to work or do usual activity).
-(Grades 2–4) Occurring in at Least 2% of Antiretroviral Treatment-Naïve HIV-1 Infected Adult Subjects (Week 96 Analysis)
+Table 3: Selected Adverse Reactions of at Least Moderate Intensity Intensities are defined as follows: Moderate (discomfort enough to cause interference with usual activity); Severe (incapacitating with inability to work or do usual activity).(Grades 2–4) Occurring in at Least 2% of Antiretroviral Treatment-Naïve HIV-1 Infected Adult Subjects (Week 96 Analysis)
 
 | EDURANT + BR N=686 | Efavirenz + BR N=682 |  |
 | --- | --- | --- |
@@ -40,19 +39,19 @@ Table 2: Selected Adverse Drug Reactions of at least Moderate IntensityIntensiti
 | Headache | 3% | 4% |
 | Dizziness | 1% | 7% |
 | Psychiatric Disorders |  |  |
-| Depressive disordersIncludes adverse drug reactions reported as depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicide ideation. | 5% | 4% |
+| Depressive disorders Includes adverse reactions reported as depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicide ideation. | 5% | 4% |
 | Insomnia | 3% | 4% |
 | Abnormal dreams | 2% | 4% |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 3% | 11% |
 | N=total number of subjects per treatment group; BR=background regimen |  |  |
 
-No new ADR terms were identified in adult subjects in the Phase 3 TMC278-C209 and TMC278-C215 trials between 48 weeks and 96 weeks nor in the Phase 2b TMC278-C204 trial through 240 weeks.
+No new adverse reaction terms were identified in adult subjects in the Phase 3 TMC278-C209 and TMC278-C215 trials between 48 weeks and 96 weeks nor in the Phase 2b TMC278-C204 trial through 240 weeks.
 The incidence of adverse events in the Phase 2b TMC278-C204 trial was similar to the Phase 3 trials through 96 weeks.
 
-Less Common Adverse Drug Reactions
+Less Common Adverse Reactions
 
-ADRs of at least moderate intensity (≥Grade 2) occurring in less than 2% of antiretroviral treatment-naïve subjects receiving EDURANT are listed below by System Organ Class.
+Adverse reactions of at least moderate intensity (≥Grade 2) occurring in less than 2% of antiretroviral treatment-naïve subjects receiving EDURANT are listed below by System Organ Class.
 Some adverse events have been included because of investigator's assessment of potential causal relationship and were considered serious or have been reported in more than 1 subject treated with EDURANT.
 
 Gastrointestinal Disorders: diarrhea, abdominal discomfort
@@ -69,9 +68,9 @@ Renal and Urinary Disorders: glomerulonephritis membranous, glomerulonephritis m
 
 Laboratory Abnormalities in Treatment-Naïve Subjects
 
-The percentage of subjects treated with EDURANT or efavirenz in the Phase 3 trials with selected laboratory abnormalities (Grades 1 to 4), representing worst Grade toxicity are shown in Table 3.
+The percentage of subjects treated with EDURANT or efavirenz in the Phase 3 trials with selected laboratory abnormalities (Grades 1 to 4), representing worst Grade toxicity are shown in Table 4.
 
-Table 3: Selected Changes in Laboratory Parameters (Grades 1 to 4) Observed in Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects (Week 96 Analysis)
+Table 4: Selected Changes in Laboratory Parameters (Grades 1 to 4) Observed in Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects (Week 96 Analysis)
 
 | BIOCHEMISTRY |  |  |  |
 | --- | --- | --- | --- |
@@ -117,7 +116,7 @@ Adrenal Function
 
 In the pooled Phase 3 trials, at Week 96, there was an overall mean change from baseline in basal cortisol of -0.69 (-1.12, 0.27) micrograms/dL in the EDURANT group and of -0.02 (-0.48, 0.44) micrograms/dL in the efavirenz group.
 
-In the EDURANT group, 43/588 (7.3%) of subjects with a normal 250 micrograms ACTH stimulation test at baseline developed an abnormal 250 micrograms ACTH stimulation test (peak cortisol level <18.1 micrograms/dL) during the trial compared to 18/561 (3.2%) in the efavirenz group.
+In the EDURANT group, 43/588 (7%) of subjects with a normal 250 micrograms ACTH stimulation test at baseline developed an abnormal 250 micrograms ACTH stimulation test (peak cortisol level <18.1 micrograms/dL) during the trial compared to 18/561 (3%) in the efavirenz group.
 Of the subjects who developed an abnormal 250 micrograms ACTH stimulation test during the trial, fourteen subjects in the EDURANT group and nine subjects in the efavirenz group had an abnormal 250 micrograms ACTH stimulation test at Week 96.
 Overall, there were no serious adverse events, deaths, or treatment discontinuations that could clearly be attributed to adrenal insufficiency.
 The clinical significance of the higher abnormal rate of 250 micrograms ACTH stimulation tests in the EDURANT group is not known.
@@ -132,12 +131,12 @@ Serum creatinine increases occurred regardless of the background N(t)RTI regimen
 
 Serum Lipids
 
-Changes from baseline in total cholesterol, LDL-cholesterol, HDL-cholesterol and triglycerides are presented in Table 4.
+Changes from baseline in total cholesterol, LDL-cholesterol, HDL-cholesterol and triglycerides are presented in Table 5.
 The clinical benefit of these findings has not been demonstrated.
 
-Table 4: Lipid Values, Mean Change from BaselineExcludes subjects who received lipid lowering agents during the treatment period
+Table 5: Lipid Values, Mean Change from Baseline Excludes subjects who received lipid lowering agents during the treatment period
 
-| Mean (95% CI) |  | Mean (mg/dL) | Mean (mg/dL) | Mean ChangeThe change from baseline is the mean of within-patient changes from baseline for patients with both baseline and Week 96 values (mg/dL) |  | Mean (mg/dL) | Mean (mg/dL) | Mean Change (mg/dL) |
+| Mean (95% CI) |  | Mean (mg/dL) | Mean (mg/dL) | Mean Change The change from baseline is the mean of within-patient changes from baseline for patients with both baseline and Week 96 values (mg/dL) |  | Mean (mg/dL) | Mean (mg/dL) | Mean Change (mg/dL) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Pooled Data from the Week 96 Analysis of the Phase 3 TMC278-C209 and TMC278-C215 Trials |  |  |  |  |  |  |  |
 | EDURANT + BR |  |  |  | Efavirenz + BR |  |  |  |  |
@@ -161,35 +160,81 @@ See full prescribing information for VOCABRIA and CABENUVA (cabotegravir extende
 
 Clinical Trials Experience in Pediatric Patients
 
-The safety assessment is based on the Week 48 analysis of the single-arm, open-label, Phase 2 trial, TMC278-C213, in which 36 antiretroviral treatment-naïve HIV-1 infected patients 12 to less than 18 years of age and weighing at least 32 kg received EDURANT (25 mg once daily) in combination with other antiretroviral agents [see Clinical Studies (14.3)].
-The median duration of exposure was 63.5 weeks.
-There were no patients who discontinued treatment due to ADRs.
-No new ADRs were identified compared to those seen in adults.
+Pediatric Population (≥12 to less than 18 years of age)
 
-ADRs were reported in nineteen pediatric subjects (52.8%).
-Most ADRs were Grade 1 or 2.
-The most common ADRs reported in at least 2 subjects (regardless of severity) include headache (19.4%), depression (19.4%), somnolence (13.9%), nausea (11.1%), dizziness (8.3%), abdominal pain (8.3), vomiting (5.6%) and rash (5.6%).
+Trial TMC278-C213 Cohort 1
+
+The safety assessment is based on the Week 48 analysis of the single-arm, open-label, Phase 2 trial, TMC278-C213 Cohort 1, in which 36 antiretroviral treatment-naïve HIV-1 infected patients 12 to less than 18 years of age and weighing at least 32 kg received EDURANT (25 mg once daily) in combination with other antiretroviral agents [see Clinical Studies (14.3)].
+The median duration of exposure was 63.5 weeks.
+There were no patients who discontinued treatment due to adverse reactions.
+No new adverse reactions were identified compared to those seen in adults.
+
+Adverse reactions were reported in nineteen pediatric subjects (53%).
+Most adverse reactions were Grade 1 or 2.
+The most common adverse reactions reported in at least 2 subjects (regardless of severity) include headache (19%), depression (19%), somnolence (14%), nausea (11%), dizziness (8%), abdominal pain (8%), vomiting (6%) and rash (6%).
 
 Observed laboratory abnormalities were comparable to those in adults.
 
-Trial 208580 [MOCHA]
-
-Based on data from the Week 16 analysis of the MOCHA study in 15 adolescents (aged 12 to younger than 18 years and weighing ≥35 kg) receiving EDURANT (25 mg once daily) in addition to continuing background antiretroviral therapy, the safety profile during the oral-lead in period in adolescents was consistent with the safety profile established with EDURANT in adults.
-
 Adrenal Function
 
-In trial TMC278 C213, at Week 48, the overall mean change from baseline in basal cortisol showed an increase of 1.59 (0.24, 2.93) micrograms/dL.
+In trial TMC278-C213 Cohort 1, at Week 48, the overall mean change from baseline in basal cortisol showed an increase of 1.59 (0.24, 2.93) micrograms/dL.
 
 Six of 30 (20%) subjects with a normal 250 micrograms ACTH stimulation test at baseline developed an abnormal 250 micrograms ACTH stimulation test (peak cortisol level <18.1 micrograms/dL) during the trial.
 Three of these subjects had an abnormal 250 micrograms ACTH stimulation test at Week 48.
 Overall, there were no serious adverse events, deaths, or treatment discontinuations that could clearly be attributed to adrenal insufficiency.
 The clinical significance of the abnormal 250 micrograms ACTH stimulation tests is not known.
 
+Trial 208580 [MOCHA]
+
+Based on data from the Week 16 analysis of the MOCHA trial in 15 adolescents (12 to less than 18 years of age and weighing ≥35 kg) receiving EDURANT (25 mg once daily) in addition to continuing background antiretroviral therapy, the safety profile during the oral lead-in period in adolescents was consistent with the safety profile established with EDURANT in adults.
+
+Pediatric Population (≥2 to less than 12 years of age)
+
+Two clinical trials were conducted in pediatric subjects weighing at least 16 kg (5 to less than 12 years of age).
+A total of 18 and 26 pediatric subjects were enrolled in Trial TMC278-C213 and Trial TMC278HTX2002, respectively.
+Overall, the safety data in these pediatric studies were similar to those observed in adults.
+Safety results from the two trials are summarized below.
+
+Trial TMC278-C213 Cohort 2
+
+Cohort 2 of the single-arm, open-label Phase 2 trial, TMC278-C213 evaluated the safety of the EDURANT and EDURANT PED weight adjusted doses 25, 15 and 12.5 mg once daily in antiretroviral treatment-naïve HIV-1 infected patients (≥6 to <12 years of age and weighing at least 17 kg) [see Clinical Studies (14.4)].
+The median duration of exposure for patients in the Week 48 analysis (including post-Week 48 extension) was 69.5 (range 35 to 218) weeks.
+
+All adverse reactions were Grade 1 or 2.
+Adverse reactions reported in at least 2 subjects, regardless of grading, in Trial TMC278-C213 Cohort 2 were: decreased appetite (3/18, 17%), vomiting (2/18, 11%), ALT increased (2/18, 11%), AST increased (2/18, 11%), and rash (2/18, 11%).
+No adverse reactions led to discontinuation.
+
+Adrenal Function
+
+In trial TMC278-C213 Cohort 2, basal cortisol at baseline was normal (≥9 μg/dL) for 4/18 subjects, low for 13/18 subjects, and missing for 1/18 subjects.
+
+Among the 4 subjects with normal basal cortisol at baseline, 3 subjects had either normal basal cortisol levels (≥9 μg/dL) or normal cortisol levels 1 hour after ACTH stimulation (≥18.1 μg/dL) throughout the trial and/or at the last available visit (Week 24 and Week 72), and 1 subject had low basal cortisol at the last available assessment (Week 48) and no ACTH stimulation test was performed.
+Among the 13 subjects with low basal cortisol pre-dose at baseline, 2 subjects had low basal and ACTH stimulated cortisol values throughout the trial, including ACTH stimulated cortisol at baseline before starting treatment with rilpivirine.
+For both subjects, no adverse events suggestive for adrenal insufficiency were reported.
+The remaining 11 subjects had normal serum cortisol values after ACTH stimulation at baseline and/or during treatment.
+
+Trial TMC278HTX2002
+
+The single arm, open-label Phase 2 trial, TMC278HTX2002, evaluated the safety of EDURANT and EDURANT PED weight-adjusted doses 25, 15 and 12.5 mg once daily in virologically suppressed HIV-1 infected patients (≥2 to <12 years of age and weighing at least 16 kg).
+The median duration of exposure for patients in the Week 48 analysis was 48.4 (range 47 to 52) weeks.
+
+All adverse reactions were Grade 1 or 2.
+Adverse reactions reported in at least 2 subjects, regardless of grading, in Trial TMC278HTX2002 were: vomiting (4/26, 15%), abdominal pain (3/26, 12%), nausea (2/26, 8%), ALT increased (3/26, 12%), AST increased (2/26, 8%), and decreased appetite (2/26, 8%).
+No adverse reactions led to discontinuation.
+
+Adrenal Function
+
+In trial TMC278HTX2002, 15/26 subjects had either normal basal cortisol (≥9 μg/dL) or normal cortisol 1 hour after ACTH stimulation (≥18.1 μg/dL), 9 had low basal cortisol on Day 1, and in 2 subjects the baseline value was missing.
+
+From the 19 subjects with low basal cortisol at Week 48, in 15 subjects, the Week 48 serum cortisol levels returned to normal (≥248 nmol/L) after repeat serum basal cortisol testing or was normal after ACTH stimulation testing (≥500 nmol/L).
+In 4 subjects, the serum cortisol levels remained low after repeat serum basal cortisol testing or after ACTH stimulation testing.
+At Week 48, 6 subjects had normal (basal) cortisol (≥9 ug/dL) and the Week 48 result was not available for 1 subject.
+
 ## 6.2 Postmarketing Experience
 
 Adverse reactions have been identified during postmarketing experience in patients receiving a rilpivirine containing regimen.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Renal and Genitourinary Disorders: nephrotic syndrome
+Renal and Genitourinary Disorders:nephrotic syndrome
 
-Skin and Subcutaneous Tissue Disorders: Severe skin and hypersensitivity reactions including DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms)
+Skin and Subcutaneous Tissue Disorders:Severe skin and hypersensitivity reactions including DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms)
