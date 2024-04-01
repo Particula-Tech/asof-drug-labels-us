@@ -53,7 +53,7 @@ These dosages resulted in decreased fetal body weight and increased fetal mortal
 Minor fetal skeletal variations were reported in rats receiving doses of 810 mg/kg/day.
 Ofloxacin has not been shown to be teratogenic at doses as high as 810 mg/kg/day and 160 mg/kg/day when administered to pregnant rats and rabbits, respectively.
 
-Nonteratogenic Effects
+## Nonteratogenic Effects
 
 Additional studies in rats with doses up to 360 mg/kg/day during late gestation showed no adverse effect on late fetal development, labor, delivery, lactation, neonatal viability, or growth of the newborn.
 

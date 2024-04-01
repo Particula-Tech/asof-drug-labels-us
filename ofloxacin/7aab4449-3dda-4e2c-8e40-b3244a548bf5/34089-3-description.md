@@ -3,7 +3,7 @@
 OCUFLOX® (ofloxacin ophthalmic solution) 0.3% is a sterile ophthalmic solution.
 It is a fluorinated carboxyquinolone anti-infective for topical ophthalmic use.
 
-## Chemical Name:
+Chemical Name:
 
 (±)-9-Fluoro-2,3-dihydro-3-methyl-10-(4-methyl-1-piperazinyl)-7-oxo-7H-pyrido[1,2,3-de]-1,4-benzoxazine-6-carboxylic acid.
 

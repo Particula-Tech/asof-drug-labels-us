@@ -31,7 +31,8 @@ Ofloxacin has been shown to be active against most strains of the following orga
 | Streptococcus pneumoniae | Proteus mirabilis |
 | ANAEROBIC SPECIES: | Pseudomonas aeruginosa |
 | Propionibacterium acnes | Serratia marcescens* |
-| *Efficacy for this organism was studied in fewer than 10 infections |  |
+
+*Efficacy for this organism was studied in fewer than 10 infections
 
 The safety and effectiveness of OCUFLOX® ophthalmic solution in treating ophthalmologic infections due to the following organisms have not been established in adequate and well-controlled clinical trials.
 OCUFLOX® ophthalmic solution has been shown to be active in vitro against most strains of these organisms but the clinical significance in ophthalmologic infections is unknown.

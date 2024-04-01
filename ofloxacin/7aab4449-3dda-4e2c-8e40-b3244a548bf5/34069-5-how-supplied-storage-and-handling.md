@@ -14,6 +14,6 @@ Revised: 04/2017
 All rights reserved.
 All trademarks are the property of their respective owners.
 
-Irvine, CA 92612, U.S.A. Made in the U.S.A.
+Irvine, CA 92612 Made in the U.S.A.
 
 71589US13
