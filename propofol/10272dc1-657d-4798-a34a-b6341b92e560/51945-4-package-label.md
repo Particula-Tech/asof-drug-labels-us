@@ -14,6 +14,20 @@ SHAKE WELL BEFORE USING
 
 20 x 20 mL Vials for Single Patient Use Only
 
+NDC 23155-345-41
+
+Propofol Injectable Emulsion, USP
+
+200 mg/20 mL
+
+(10 mg/mL)
+
+For Intravenous Administration
+
+SHAKE WELL BEFORE USING
+
+10 x 20 mL Vials for Single Patient Use Only
+
 NDC 23155-345-31
 
 Propofol Injectable Emulsion, USP
