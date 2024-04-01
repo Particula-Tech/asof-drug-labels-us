@@ -103,7 +103,7 @@ TABLE 4: Effect of Coadministered Drugs on Total Ezetimibe
 | Atorvastatin 10 mg QD, 14 days | ↓2% | ↑12% |
 | Rosuvastatin 10 mg QD, 14 days | ↑13% | ↑18% |
 | Fluvastatin 20 mg QD, 14 days | ↓19% | ↑7% |
-| *Based on 10-mg dose of ezetimibe. †Post-renal transplant patients with mild impaired or normal renal function. In a different trial, a renal transplant patient with severe renal insufficiency (creatinine clearance of 13.2 mL/min/1.73 m2) who was receiving multiple medications, including cyclosporine, demonstrated a 12-fold greater exposure to total ezetimibe compared to healthy subjects. ‡See Drug Interactions (7). §Supralox, 20 mL. |  |  |
+| * Based on 10-mg dose of ezetimibe. † Post-renal transplant patients with mild impaired or normal renal function. In a different trial, a renal transplant patient with severe renal insufficiency (creatinine clearance of 13.2 mL/min/1.73 m2) who was receiving multiple medications, including cyclosporine, demonstrated a 12-fold greater exposure to total ezetimibe compared to healthy subjects. ‡ See Drug Interactions (7). § Supralox, 20 mL. |  |  |
 
 TABLE 5: Effect of Ezetimibe Coadministration on Systemic Exposure to Other Drugs
 
@@ -122,4 +122,4 @@ TABLE 5: Effect of Ezetimibe Coadministration on Systemic Exposure to Other Drug
 | Atorvastatin 10 mg QD, 14 days | 10 mg QD, 14 days | ↓4% | ↑7% |
 | Rosuvastatin 10 mg QD, 14 days | 10 mg QD, 14 days | ↑19% | ↑17% |
 | Fluvastatin 20 mg QD, 14 days | 10 mg QD, 14 days | ↓39% | ↓27% |
-| *See Drug Interactions (7). |  |  |  |
+| * See Drug Interactions (7). |  |  |  |
