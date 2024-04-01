@@ -50,6 +50,4 @@ Keep EYSUVIS and all medicines out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Kala Pharmaceuticals, Inc. Watertown, MA 02472
-
-Approved: 10/2020
+Manufactured for: Alcon Laboratories, Inc. Fort Worth, Texas 76134 USA Approved 11/2023

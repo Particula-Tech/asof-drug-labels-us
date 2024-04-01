@@ -25,9 +25,4 @@ Contact Lens Wear
 Advise patients that the preservative in EYSUVIS may be absorbed by soft contact lenses.
 Contact lenses should be removed prior to instillation of EYSUVIS and may be reinserted 15 minutes following administration.
 
-Manufactured for: Kala Pharmaceuticals, Inc. Watertown, MA 02472
-
-Part # 2026R02
-
-Marks designated by ™ or ® are owned by Kala Pharmaceuticals, Inc. Patented. www.kalarx.com/patents © 2020 Kala Pharmaceuticals, Inc. All rights reserved.
-October 2020 Kala®
+Manufactured for: Alcon Laboratories, Inc. Fort Worth, Texas 76134 USA Part # 70016481-00 U.S. Pat.: www.alconpatents.com © 2023 Alcon Inc. Alcon
