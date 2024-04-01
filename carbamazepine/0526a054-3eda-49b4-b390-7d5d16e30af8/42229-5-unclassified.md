@@ -6,4 +6,6 @@ Before prescribing carbamazepine, the physician should be thoroughly familiar wi
 
 Trademarks are the property of their respective owners.
 
-Manufactured by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761 Distributed by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Revised: May 2018 70725-0518-11
+Manufactured by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761 Distributed by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Revised: February 2024
+
+5201175-0224-12

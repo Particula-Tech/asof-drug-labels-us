@@ -237,4 +237,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Taro Pharmaceuticals U.S.A., Inc. Hawthorne, NY 10532 Made in Israel
 
-Revised: May 2018 70725-0518-11
+Revised: February 2024
+
+5201175-0224-12
