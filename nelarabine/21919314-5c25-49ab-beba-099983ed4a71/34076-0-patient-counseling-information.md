@@ -42,10 +42,10 @@ Lactation
 
 - Advise women not to breastfeed during treatment with nelarabine [see Use in Specific Populations (8.2)].
 
-meitheal® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2021 Meitheal Pharmaceuticals Inc.
+meitheal® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2024 Meitheal Pharmaceuticals Inc.
 
 Mfd. by Kindos Pharmaceuticals Co., Ltd. Chengdu, China 611731
 
-December 2021
+Revised: February 2024
 
-LB-420-V1
+LB-420-V4

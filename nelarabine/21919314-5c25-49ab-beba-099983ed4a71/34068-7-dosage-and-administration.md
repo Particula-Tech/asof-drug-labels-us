@@ -51,4 +51,4 @@ Prior to administration, inspect the drug product visually for particulate matte
 
 Stability
 
-Nelarabine Injection is stable in polyvinylchloride (PVC) infusion bags and glass containers for up to 8 hours at up to 30°C.
+Nelarabine Injection is stable in PVC infusion bags and glass containers for up to 8 hours at up to 30°C.

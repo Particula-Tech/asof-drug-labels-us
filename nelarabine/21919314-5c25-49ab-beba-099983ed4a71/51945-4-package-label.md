@@ -18,7 +18,7 @@ Discard unused portion
 
 # PRINCIPAL DISPLAY PANEL – Nelarabine Injection 50 mL Carton
 
-NDC 71288-165-53
+NDC 71288-165-54
 
 Rx only
 
@@ -30,6 +30,6 @@ Nelarabine Injection
 
 For Intravenous Infusion Only
 
-6 x 50 mL Single-Dose Vials
+1 x 50 mL Single-Dose Vial
 
 Discard unused portion
