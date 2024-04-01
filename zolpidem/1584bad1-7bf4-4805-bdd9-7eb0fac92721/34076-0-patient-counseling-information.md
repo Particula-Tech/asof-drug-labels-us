@@ -62,8 +62,14 @@ Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., INDIA.
 
+8089637 Revised: September 2022
+
+or
+
+Manufactured by: Piramal Pharma Limited, Pithampur - 454775, INDIA.
+
+8092659 Revised: August 2023
+
 Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
-
-8089637 Revised September 2022
