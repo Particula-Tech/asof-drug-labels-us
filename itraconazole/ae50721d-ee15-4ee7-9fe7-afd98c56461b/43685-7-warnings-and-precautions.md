@@ -193,7 +193,7 @@ Table 1: Drug Interactions with SPORANOX ®that Affect Concomitant Drug Concentr
 | Budesonide (inhalation) Budesonide (non-inhalation) Ciclesonide (inhalation) Cyclosporine (IV) Cyclosporine (non-IV) Dexamethasone | Fluticasone (inhalation) Fluticasone (nasal) Methylprednisolone Tacrolimus (IV) Tacrolimus (oral) | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Lipid-Lowering Drugs |  |  |
 | Lomitapide Lovastatin Simvastatin |  | Contraindicated during and 2 weeks after SPORANOX ®treatment. |
-| Atorvastatin |  | Monitor for drug adverse reactions. Concomitant drug dose reduction may be necessary. |
+| Atorvastatin |  | Monitor for drug adverse reactions. Concomitant drug dose reduction may be necessary.. |
 | Respiratory Drugs |  |  |
 | Salmeterol |  | Not recommended during and 2 weeks after SPORANOX ®treatment. |
 | SSRIs, Tricyclics and Related Antidepressants |  |  |
