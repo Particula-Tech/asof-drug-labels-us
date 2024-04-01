@@ -1,36 +1,6 @@
-Instructions for Use
-
-DEPAKOTE® Sprinkle Capsules (dep-a-kOte)
-
-(divalproex sodium delayed release capsules) for oral use
-
-Read the Medication Guide and this Instructions for Use that come with DEPAKOTE Sprinkle Capsules for the most important information you need to know before taking DEPAKOTE Sprinkle Capsules for the first time, and each time you get a refill.
-This information does not take the place of talking to your healthcare provider about your medical treatment or condition.
-
-Important information
-
-Take DEPAKOTE Sprinkle Capsules exactly as your healthcare provider tells you.
-Your healthcare provider will tell you how much DEPAKOTE to take and when to take it.
-
-- Do not change your dose of DEPAKOTE Sprinkle Capsules without talking to your healthcare provider.
-- DEPAKOTE Sprinkle Capsules may be swallowed whole or the DEPAKOTE Sprinkle Capsules may be opened and the contents mixed into soft food such as applesauce or pudding.
-  The sprinkles are flavorless.
-- Immediately take the medicine after mixing it with soft food.
-  Do not chew the DEPAKOTE Sprinkle Capsule and food mixture.
-  Do not store the mixture for future use.
-  Mix the DEPAKOTE Sprinkle Capsule with soft food each time, right before it is taken.
-- If you have any questions, contact your healthcare provider or pharmacist.
-  Keep all of your healthcare provider's appointments as scheduled.
-
-Supplies needed:
-
-- DEPAKOTE Sprinkle Capsule
-- soft food such as applesauce or pudding
-- teaspoon
-- small cup or bowl
-- water
-
-Preparing and taking DEPAKOTE Sprinkle Capsules with soft foods:
+| Instructions for Use DEPAKOTE® Sprinkle Capsules (dep-a-kOte) (divalproex sodium delayed release capsules) for oral use |
+| --- |
+| Read the Medication Guide and this Instructions for Use that come with DEPAKOTE Sprinkle Capsules for the most important information you need to know before taking DEPAKOTE Sprinkle Capsules for the first time, and each time you get a refill. This information does not take the place of talking to your healthcare provider about your medical treatment or condition. Important information Take DEPAKOTE Sprinkle Capsules exactly as your healthcare provider tells you. Your healthcare provider will tell you how much DEPAKOTE to take and when to take it. Do not change your dose of DEPAKOTE Sprinkle Capsules without talking to your healthcare provider. DEPAKOTE Sprinkle Capsules may be swallowed whole or the DEPAKOTE Sprinkle Capsules may be opened and the contents mixed into soft food such as applesauce or pudding. The sprinkles are flavorless. Immediately take the medicine after mixing it with soft food. Do not chew the DEPAKOTE Sprinkle Capsule and food mixture. Do not store the mixture for future use. Mix the DEPAKOTE Sprinkle Capsule with soft food each time, right before it is taken. If you have any questions, contact your healthcare provider or pharmacist. Keep all of your healthcare provider's appointments as scheduled. Supplies needed: DEPAKOTE Sprinkle Capsule soft food such as applesauce or pudding teaspoon small cup or bowl water Preparing and taking DEPAKOTE Sprinkle Capsules with soft foods: |
 
 | 1 | Place a teaspoon of soft food into a small cup or bowl. |  |
 | --- | --- | --- |
@@ -49,10 +19,10 @@ AbbVie Inc.
 
 North Chicago, IL 60064, U.S.A.
 
-©1989-2023 AbbVie Inc.
+©1989-2024 AbbVie Inc.
 
 This Instructions for Use has been approved by the U.S Food and Drug Administration.
 
-Revised: February 2023
+Revised: March 2024
 
-20077500
+20084852
