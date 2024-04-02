@@ -18,9 +18,9 @@ Refer patients to the HUMULIN R U-500 Patient Information Leaflet for additional
 
 Do not dilute or mix HUMULIN R U-500 with any other insulin products or solutions [see Dosage and Administration (2.1)].
 
-Literature Revised: June 2022
+Literature Revised: February 2024
 
-Manufactured by: Eli Lilly and Company, Indianapolis, IN 46285, USA US License Number 1891 Copyright © 1997, 2022, Eli Lilly and Company.
+Manufactured by: Eli Lilly and Company, Indianapolis, IN 46285, USA US License Number 1891 Copyright © 1997, 2024, Eli Lilly and Company.
 All rights reserved.
 
-LINR500-0009-USPI-20220627
+LINR500-0010-USPI-20240222

@@ -20,7 +20,7 @@ Do not use if it has been frozen.
 Do not shake the vial.
 See Table 2 below for storage conditions.
 
-Table 2: Storage Conditions for HUMILIN R U-500 Vials and Pens
+Table 2: Storage Conditions for HUMULIN R U-500 Vials and Pens
 
 |  | Not In-use (Unopened) |  | In-use (Opened) |  |
 | --- | --- | --- | --- | --- |
