@@ -34,6 +34,8 @@ Thus, in a display of this type, the curve for an effective treatment is shifted
 This figure shows that the proportion of patients achieving any particular level of improvement was consistently higher for valproate than for placebo.
 For example, 45% of patients treated with valproate had a ≥ 50% reduction in complex partial seizure rate compared to 23% of patients treated with placebo.
 
+Figure 1
+
 The second study assessed the capacity of valproate to reduce the incidence of CPS when administered as the sole AED.
 The study compared the incidence of CPS among patients randomized to either a high or low dose treatment arm.
 Patients qualified for entry into the randomized comparison phase of this study only if 1) they continued to experience 2 or more CPS per 4 weeks during an 8 to 12 week long period of monotherapy with adequate doses of an AED (i.e., phenytoin, carbamazepine, phenobarbital, or primidone) and 2) they made a successful transition over a two week interval to valproate.
@@ -56,6 +58,8 @@ Thus, in a display of this type, the curve for a more effective treatment is shi
 This figure shows that the proportion of patients achieving any particular level of reduction was consistently higher for high dose valproate than for low dose valproate.
 For example, when switching from carbamazepine, phenytoin, phenobarbital or primidone monotherapy to high dose valproate monotherapy, 63% of patients experienced no change or a reduction in complex partial seizure rates compared to 54% of patients receiving low dose valproate.
 
+Figure 2
+
 Information on pediatric studies is presented in section 8.
 
 ## 14.3 Migraine
@@ -75,3 +79,5 @@ Four patients were below the age of 18 and 3 were above the age of 65.
 Two hundred and two patients (101 in each treatment group) completed the treatment period.
 The mean reduction in 4-week migraine headache rate was 1.2 from a baseline mean of 4.4 in the Depakote ER group, versus 0.6 from a baseline mean of 4.2 in the placebo group.
 The treatment difference was statistically significant (see Figure 3).
+
+Figure 3 Mean Reduction In 4-Week Migraine Headache Rates
