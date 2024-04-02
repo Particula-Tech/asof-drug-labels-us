@@ -52,8 +52,6 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured for:
 
-Kala Pharmaceuticals, Inc.
+Alcon Laboratories, Inc. Fort Worth, TX 76134 USA
 
-Arlington, MA 02476
-
-Approved: 3/2022
+Revised: 11/2023

@@ -1,12 +1,5 @@
 Manufactured for:
 
-Kala Pharmaceuticals, Inc. Arlington, MA 02476
+Alcon Laboratories, Inc. Fort Worth, TX 76134 USA U.S. Pat.: www.alconpatents.com
 
-Marks designated ® are owned by Kala Pharmaceuticals, Inc.
-
-Patented.
-See www.kalarx.com/patents
-
-© 2019 Kala Pharmaceuticals, Inc. All rights reserved.
-
-Part # 2003R04 Kala®
+© 2023 Alcon Inc. Alcon
