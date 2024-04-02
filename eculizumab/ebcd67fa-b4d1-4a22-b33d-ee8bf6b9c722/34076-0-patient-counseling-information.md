@@ -23,9 +23,9 @@ Inform patients that vaccination may not prevent serious meningococcal infection
 Inform patients that they will be given a Patient Safety Card for SOLIRIS that they should carry with them at all times during and for 3 months following treatment with SOLIRIS.
 This card describes symptoms which, if experienced, should prompt the patient to immediately seek medical evaluation.
 
-SOLIRIS REMS
+ULTOMIRIS and SOLIRIS REMS
 
-SOLIRIS is available only through a restricted program called SOLIRIS REMS [see Warnings and Precautions (5.2)].
+SOLIRIS is available only through a restricted program called ULTOMIRIS and SOLIRIS REMS [see Warnings and Precautions (5.2)].
 
 Inform the patient of the following notable requirements:
 
@@ -54,4 +54,4 @@ Discontinuation
 Inform patients with PNH that they may develop serious hemolysis due to PNH when SOLIRIS is discontinued and that they will be monitored by their healthcare professional for at least 8 weeks following SOLIRIS discontinuation.
 
 Inform patients with aHUS that there is a potential for TMA complications due to aHUS when SOLIRIS is discontinued and that they will be monitored by their healthcare professional for at least 12 weeks following SOLIRIS discontinuation.
-Inform patients who discontinue SOLIRIS to keep the SOLIRIS Patient Safety Information Card with them for three months after the last SOLIRIS dose, because the increased risk of meningococcal infection persists for several weeks following discontinuation of SOLIRIS.
+Inform patients who discontinue SOLIRIS to keep the Patient Safety Card with them for three months after the last SOLIRIS dose, because the increased risk of meningococcal infection persists for several weeks following discontinuation of SOLIRIS.

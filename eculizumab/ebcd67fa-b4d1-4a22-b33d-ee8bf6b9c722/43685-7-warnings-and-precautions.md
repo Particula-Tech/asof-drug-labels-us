@@ -23,21 +23,22 @@ Consider interruption of SOLIRIS in patients who are undergoing treatment for se
 
 SOLIRIS is available only through a restricted program under a REMS [see Warnings and Precautions (5.2)].
 
-## 5.2 SOLIRIS REMS
+## 5.2 ULTOMIRIS and SOLIRIS REMS
 
-SOLIRIS is available only through a restricted program under a REMS called SOLIRIS REMS, because of the risk of serious meningococcal infections [see Warnings and Precautions (5.1)].
+SOLIRIS is available only through a restricted program under a REMS called ULTOMIRIS and SOLIRIS REMS, because of the risk of serious meningococcal infections [see Warnings and Precautions (5.1)].
 
-Notable requirements of the SOLIRIS REMS include the following:
+Notable requirements of the ULTOMIRIS and SOLIRIS REMS include the following:
 
 - Prescribers must enroll in the REMS.
-- Prescribers must counsel patients about the risk of meningococcal infection.
+- Prescribers must counsel patients about the risk of serious meningococcal infection.
 - Prescribers must provide the patients with the REMS educational materials.
 - Prescribers must assess patient vaccination status for meningococcal vaccines (against serogroups A, C, W, Y and B) and vaccinate if needed according to current ACIP recommendations two weeks prior to the first dose of SOLIRIS.
 - Prescribers must provide a prescription for antibacterial drug prophylaxis if treatment must be started urgently and the patient is not up to date with meningococcal vaccines according to current ACIP recommendations at least two weeks prior to the first dose of SOLIRIS.
+- Healthcare settings and pharmacies that dispense SOLIRIS must be certified in the REMS and must verify prescribers are certified.
 - Patients must receive counseling from the prescriber about the need to receive meningococcal vaccines per ACIP recommendations, the need to take antibiotics as directed by the prescriber, and the signs and symptoms of meningococcal infection.
 - Patients must be instructed to carry the Patient Safety Card with them at all times during and for 3 months following treatment with SOLIRIS.
 
-Further information is available at www.solirisrems.com or 1-888-765-4747.
+Further information is available at www.UltSolREMS.com or 1-888-765-4747.
 
 ## 5.3 Other Infections
 

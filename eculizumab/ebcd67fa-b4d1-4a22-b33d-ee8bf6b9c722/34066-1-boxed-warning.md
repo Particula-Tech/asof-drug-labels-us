@@ -10,4 +10,4 @@ These infections may become rapidly life-threatening or fatal if not recognized 
 - Patients receiving SOLIRIS are at increased risk for invasive disease caused by Neisseria meningitidis, even if they develop antibodies following vaccination.
   Monitor patients for early signs and symptoms of serious meningococcal infections and evaluate immediately if infection is suspected.
 
-Because of the risk of serious meningococcal infections, SOLIRIS is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called SOLIRIS REMS [see Warnings and Precautions (5.2)].
+Because of the risk of serious meningococcal infections, SOLIRIS is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called ULTOMIRIS and SOLIRIS REMS [see Warnings and Precautions (5.2)].

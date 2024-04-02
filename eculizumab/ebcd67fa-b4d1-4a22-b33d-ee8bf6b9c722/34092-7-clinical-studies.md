@@ -19,7 +19,7 @@ Patients receiving anticoagulants and systemic corticosteroids at baseline conti
 
 Major baseline characteristics were balanced (see Table 10).
 
-Table 10: PNH Study1 Patient Baseline Characteristics
+Table 10: PNH Study 1 Patient Baseline Characteristics
 
 | Parameter | Placebo (N=44) | SOLIRIS (N=43) |
 | --- | --- | --- |

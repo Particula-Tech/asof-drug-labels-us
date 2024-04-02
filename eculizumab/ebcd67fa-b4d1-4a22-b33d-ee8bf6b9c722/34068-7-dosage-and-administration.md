@@ -6,7 +6,7 @@ Vaccinate patients against meningococcal infection (serogroups A, C, W, Y and B)
 
 If urgent SOLIRIS therapy is indicated in a patient who is not up to date with meningococcal vaccines according to ACIP recommendations, provide the patient with antibacterial drug prophylaxis and administer these vaccines as soon as possible.
 
-Healthcare providers who prescribe SOLIRIS must enroll in the SOLIRIS REMS [see Warnings and Precautions (5.2)].
+Healthcare providers who prescribe SOLIRIS must enroll in the ULTOMIRIS and SOLIRIS REMS [see Warnings and Precautions (5.2)].
 
 ## 2.2 Recommended Dosage Regimen – PNH
 
