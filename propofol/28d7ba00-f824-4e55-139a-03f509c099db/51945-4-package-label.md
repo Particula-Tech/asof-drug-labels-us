@@ -60,7 +60,7 @@ Rx only NDC 0409-4699-33 Contains 20 of NDC 0409-4699-53
 2. 2.Use strict aseptic technique
 
 Propofol should be administered only by persons trained in the administration of general anesthesia and not involved in the conduct of the surgical/diagnostic procedure.
-Facilities for maintenance of a patent airway, artificial ventilation, and oxygen enrichment and circulatory resuscitation must be immediately available.
+Equipment for maintaining a patent airway, artificial ventilation, and oxygen enrichment and circulatory resuscitation must be immediately available.
 
 # PRINCIPAL DISPLAY PANEL - 20 mL Vial Label - 6010
 
@@ -90,4 +90,14 @@ Hospira
 Rx only NDC 0409-6010-25 Contains 25 of NDC 0409-6010-02
 
 Propofol should be administered only by persons trained in the administration of general anesthesia and not involved in the conduct of the surgical/diagnostic procedure.
-Facilities for maintenance of a patent airway, artificial ventilation, and oxygen enrichment and circulatory resuscitation must be immediately available.
+Equipment for
+
+maintaining a patent airway,
+
+artificial ventilation, and
+
+oxygen enrichment and
+
+circulatory resuscitation must
+
+be immediately available.
